@@ -1,0 +1,1492 @@
+{
+  "city_id": "sweden-trelleborg-cities-v2",
+  "anchor": {
+    "name": "Trelleborg",
+    "coords": [
+      13.1569,
+      55.3751
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:31",
+      "total_km": 3.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Gamla Torg (Alter Marktplatz)",
+            "hu": "Gamla Torg (Régi Főtér)",
+            "ro": "Gamla Torg (Piața Veche)",
+            "en": "Gamla Torg (Old Square)"
+          },
+          "coords": [
+            13.1575,
+            55.3745
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Kaffee in einem der Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
+            "en": "Start your day with a coffee at one of the square's cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt Nicolai Kyrka",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "St. Nicholas' Church"
+          },
+          "coords": [
+            13.1585,
+            55.3748
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden Votivschiffe, die von der Decke hängen.",
+            "hu": "Figyelje meg a mennyezetről lógó, lenyűgöző fogadalmi hajókat.",
+            "ro": "Observați impresionantele corăbii votive suspendate de tavan.",
+            "en": "Look for the impressive votive ships hanging from the ceiling."
+          }
+        },
+        {
+          "name": {
+            "de": "Trelleborgs Museum & Axel Ebbe Konsthall",
+            "hu": "Trelleborgi Múzeum és Axel Ebbe Művészeti Galéria",
+            "ro": "Muzeul Trelleborg și Galeria de Artă Axel Ebbe",
+            "en": "Trelleborgs Museum & Axel Ebbe Art Gallery"
+          },
+          "coords": [
+            13.1555,
+            55.3732
+          ],
+          "category": "museums",
+          "arrive_at": "10:23",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kombinieren Sie beide Orte; sie liegen nebeneinander und bieten einen tollen Kultur-Einblick.",
+            "hu": "Kombinálja a kettőt; egymás mellett vannak, és remek kulturális betekintést nyújtanak.",
+            "ro": "Combinați ambele locații; sunt adiacente și oferă o perspectivă culturală excelentă.",
+            "en": "Combine both venues; they are adjacent and offer a great cultural insight."
+          }
+        },
+        {
+          "name": {
+            "de": "Trelleborgen",
+            "hu": "Trelleborgen viking erőd",
+            "ro": "Fortăreața vikingă Trelleborgen",
+            "en": "Trelleborgen Viking Fortress"
+          },
+          "coords": [
+            13.148,
+            55.376
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie den Zeitplan für Reenactment-Veranstaltungen für ein immersives Erlebnis.",
+            "hu": "Nézze meg a hagyományőrző bemutatók időpontjait a teljes élményért.",
+            "ro": "Verificați programul evenimentelor de reconstituire pentru o experiență imersivă.",
+            "en": "Check the schedule for any reenactment events for an immersive experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserturm Trelleborg",
+            "hu": "Trelleborgi víztorony",
+            "ro": "Turnul de apă din Trelleborg",
+            "en": "Trelleborg Water Tower"
+          },
+          "coords": [
+            13.162,
+            55.378
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:27",
+          "stay_min": 15,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein toller Fotopunkt und ein Wahrzeichen der Industriearchitektur der Stadt.",
+            "hu": "Nagyszerű fotóhelyszín és a város ipari építészetének egyik jelképe.",
+            "ro": "Un loc excelent pentru fotografii și un reper al arhitecturii industriale a orașului.",
+            "en": "A great photo spot and a landmark of the city's industrial architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Trelleborg Hafen",
+            "hu": "Trelleborgi kikötő",
+            "ro": "Portul Trelleborg",
+            "en": "Trelleborg Harbor"
+          },
+          "coords": [
+            13.165,
+            55.371
+          ],
+          "category": "port",
+          "arrive_at": "14:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beobachten Sie die riesigen Fähren, die nach Deutschland und Polen ablegen.",
+            "hu": "Nézze a hatalmas komphajókat, amint Németország és Lengyelország felé indulnak.",
+            "ro": "Priviți feriboturile uriașe plecând spre Germania și Polonia.",
+            "en": "Watch the huge ferries departing for Germany and Poland."
+          }
+        },
+        {
+          "name": {
+            "de": "Palmen von Trelleborg",
+            "hu": "Trelleborg pálmái",
+            "ro": "Palmierii din Trelleborg",
+            "en": "The Palms of Trelleborg"
+          },
+          "coords": [
+            13.159,
+            55.369
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:44",
+          "stay_min": 107,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der südlichste Punkt Schwedens! Ein perfekter Ort, um den Tag am Meer ausklingen zu lassen.",
+            "hu": "Svédország legdélibb pontja! Tökéletes hely a nap lezárásához a tengerparton.",
+            "ro": "Cel mai sudic punct al Suediei! Un loc perfect pentru a încheia ziua pe malul mării.",
+            "en": "The southernmost point of Sweden! A perfect spot to end the day by the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang am historischen Gamla Torg und bewundern Sie die Architektur der Sankt Nicolai Kyrka. Tauchen Sie am Vormittag im Trelleborgs Museum und der Axel Ebbe Konsthall in die lokale Kultur ein. Nach dem Mittagessen reisen Sie in die Vergangenheit in der rekonstruierten Wikingerfestung Trelleborgen. Am Nachmittag schlendern Sie am geschäftigen Hafen vorbei und beenden den Tag entspannt unter den berühmten Palmen an der Küste, einem Symbol für Trelleborgs einzigartigen Charakter.",
+        "hu": "Kezdje a sétát a történelmi Gamla Torgon, majd csodálja meg a Sankt Nicolai Kyrka építészetét. Délelőtt merüljön el a helyi kultúrában a Trelleborgs Múzeumban és az Axel Ebbe Művészeti Galériában. Ebéd után utazzon vissza az időben az újjáépített Trelleborgen viking erődben. Délután sétáljon el a nyüzsgő kikötő mellett, és fejezze be a napot a híres tengerparti pálmák alatt, amelyek Trelleborg egyedi karakterének szimbólumai.",
+        "ro": "Începeți plimbarea în istorica Gamla Torg și admirați arhitectura bisericii Sankt Nicolai. La amiază, pătrundeți în cultura locală la Muzeul Trelleborg și Galeria de Artă Axel Ebbe. După prânz, călătoriți înapoi în timp la fortăreața vikingă reconstruită, Trelleborgen. Spre după-amiază, plimbați-vă pe lângă portul aglomerat și încheiați ziua relaxându-vă sub faimoșii palmieri de pe coastă, un simbol al caracterului unic al Trelleborgului.",
+        "en": "Start your walk in the historic Gamla Torg and admire the architecture of Sankt Nicolai Kyrka. Mid-morning, delve into local culture at Trelleborgs Museum and Axel Ebbe Art Gallery. After lunch, travel back in time at the reconstructed Viking fortress, Trelleborgen. In the afternoon, wander past the bustling harbor and end your day relaxing under the famous coastal palm trees, a symbol of Trelleborg's unique character."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sill (Hering)",
+            "tip": "Probieren Sie eingelegten Hering, eine südschwedische Spezialität. Viele Restaurants in der Nähe des Hafens bieten ihn an."
+          },
+          {
+            "name": "Äggakaka",
+            "tip": "Ein dicker, ofengebackener Pfannkuchen, serviert mit gebratenem Schweinefleisch und Preiselbeeren. Ein herzhaftes Gericht aus Schonen."
+          },
+          {
+            "name": "Systembolaget",
+            "tip": "Kein Restaurant, aber der staatliche Laden, um schwedische Spirituosen oder Biere als Souvenir zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sill (hering)",
+            "tip": "Kóstolja meg a pácolt heringet, egy dél-svéd specialitást. Számos kikötő közeli étterem kínálja."
+          },
+          {
+            "name": "Äggakaka",
+            "tip": "Vastag, sütőben sült palacsinta, sült sertéshússal és vörös áfonyával tálalva. Egy kiadós skånei étel."
+          },
+          {
+            "name": "Systembolaget",
+            "tip": "Nem étterem, hanem az állami bolt, ahol svéd szeszes italokat vagy söröket vásárolhat szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sill (Hering)",
+            "tip": "Încercați heringul marinat, o specialitate din sudul Suediei. Multe restaurante de lângă port îl servesc."
+          },
+          {
+            "name": "Äggakaka",
+            "tip": "O clătită groasă, la cuptor, servită cu carne de porc prăjită și merișoare. Un fel de mâncare consistent din Scania."
+          },
+          {
+            "name": "Systembolaget",
+            "tip": "Nu este un restaurant, ci magazinul de stat pentru a cumpăra băuturi spirtoase sau beri suedeze ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sill (Herring)",
+            "tip": "Try pickled herring, a southern Swedish specialty. Many restaurants near the harbor will serve it."
+          },
+          {
+            "name": "Äggakaka",
+            "tip": "A thick, oven-baked pancake served with fried pork and lingonberries. A hearty Scanian dish."
+          },
+          {
+            "name": "Systembolaget",
+            "tip": "Not a restaurant, but the state-run store to buy Swedish spirits or beers as a souvenir."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadsparken",
+            "tip": "Ein ruhiger Park in der Nähe des Museums für eine friedliche Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dalabadets Strand",
+            "tip": "Ein wenig westlich der Palmen, ein ruhigerer Strandabschnitt, um dem Meer zu lauschen.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Küste bei Sonnenuntergang",
+            "tip": "Der Bereich um die Palmen ist ideal, um die Sonne über der Ostsee untergehen zu sehen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stadsparken (Városi Park)",
+            "tip": "Csendes park a múzeum közelében egy békés szünethez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dalabadet strand",
+            "tip": "Kicsit nyugatra a pálmáktól, egy csendesebb partszakasz a tenger hangjának élvezetéhez.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Part naplementekor",
+            "tip": "A pálmafák környéke ideális hely a naplemente megtekintéséhez a Balti-tenger felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stadsparken",
+            "tip": "Un parc liniștit lângă muzeu pentru o pauză pașnică.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plaja Dalabadet",
+            "tip": "Puțin la vest de palmieri, o porțiune de plajă mai liniștită pentru a asculta marea.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Coasta la apus",
+            "tip": "Zona din jurul palmierilor este ideală pentru a privi soarele apunând peste Marea Baltică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Stadsparken",
+            "tip": "A quiet park near the museum for a peaceful break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dalabadet Beach",
+            "tip": "A little west of the palms, a quieter stretch of beach to listen to the sea.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Coastline at Sunset",
+            "tip": "The area around the palm trees is ideal for watching the sun set over the Baltic Sea.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Algatan & CB Friisgatan",
+            "tip": "Die Haupteinkaufsstraßen der Stadt mit einer Mischung aus schwedischen Ketten und lokalen Boutiquen."
+          },
+          {
+            "name": "Valen Gallerian",
+            "tip": "Ein kleines Einkaufszentrum für einen regnerischen Tag, zentral gelegen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Algatan és CB Friisgatan",
+            "tip": "A város fő bevásárlóutcái svéd üzletláncok és helyi butikok keverékével."
+          },
+          {
+            "name": "Valen Gallerian",
+            "tip": "Egy kis bevásárlóközpont egy esős napra, központi helyen."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Algatan & CB Friisgatan",
+            "tip": "Principalele străzi comerciale ale orașului, cu un amestec de lanțuri suedeze și buticuri locale."
+          },
+          {
+            "name": "Valen Gallerian",
+            "tip": "Un mic centru comercial pentru o zi ploioasă, situat central."
+          }
+        ],
+        "en": [
+          {
+            "name": "Algatan & CB Friisgatan",
+            "tip": "The main shopping streets in the city, with a mix of Swedish chains and local boutiques."
+          },
+          {
+            "name": "Valen Gallerian",
+            "tip": "A small shopping mall for a rainy day, located centrally."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Trelleborg ist sehr kompakt, bequeme Schuhe sind alles, was Sie für einen ganzen Tag voller Erkundungen benötigen.",
+          "Viele Geschäfte und einige Museen schließen sonntags früher, überprüfen Sie die Öffnungszeiten im Voraus.",
+          "Der Wind von der See kann auch an sonnigen Tagen kühl sein, eine leichte Jacke ist immer eine gute Idee."
+        ],
+        "hu": [
+          "Trelleborg nagyon kompakt, kényelmes cipőre van csak szüksége egy egész napos felfedezéshez.",
+          "Sok üzlet és néhány múzeum korábban zár vasárnap, ellenőrizze a nyitvatartási időt előre.",
+          "A tenger felőli szél még napos időben is hűvös lehet, egy könnyű dzseki mindig jó ötlet."
+        ],
+        "ro": [
+          "Trelleborg este foarte compact, pantofii confortabili sunt tot ce aveți nevoie pentru o zi întreagă de explorare.",
+          "Multe magazine și unele muzee se închid mai devreme duminica, verificați programul în avans.",
+          "Vântul de la mare poate fi răcoros chiar și în zilele însorite, o jachetă subțire este întotdeauna o idee bună."
+        ],
+        "en": [
+          "Trelleborg is very compact, comfortable shoes are all you need for a full day of exploration.",
+          "Many shops and some museums close earlier on Sundays, check opening hours in advance.",
+          "The wind from the sea can be cool even on sunny days, a light jacket is always a good idea."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 6.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Trelleborgen",
+            "hu": "Trelleborgen viking erőd",
+            "ro": "Fortăreața vikingă Trelleborgen",
+            "en": "Trelleborgen Viking Fortress"
+          },
+          "coords": [
+            13.148,
+            55.376
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, um Menschenmassen zu vermeiden und die Morgenruhe an diesem historischen Ort zu genießen.",
+            "hu": "Kezdje itt, hogy elkerülje a tömeget, és élvezze a reggeli nyugalmat ezen a történelmi helyen.",
+            "ro": "Începeți aici pentru a evita aglomerația și pentru a vă bucura de liniștea dimineții în acest sit istoric.",
+            "en": "Start here to avoid crowds and enjoy the morning quiet at this historic site."
+          }
+        },
+        {
+          "name": {
+            "de": "Axel Ebbe Konsthall & Trelleborgs Museum",
+            "hu": "Axel Ebbe Művészeti Galéria és Trelleborgi Múzeum",
+            "ro": "Galeria de Artă Axel Ebbe și Muzeul Trelleborg",
+            "en": "Axel Ebbe Art Gallery & Trelleborgs Museum"
+          },
+          "coords": [
+            13.1555,
+            55.3732
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab und verbringen Sie einen langen Block mit der Erkundung von Kunst und Geschichte.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és töltsön el egy hosszabb időt a művészet és a történelem felfedezésével.",
+            "ro": "Asigurați-vă bicicleta și petreceți o perioadă lungă explorând arta și istoria.",
+            "en": "Lock your bike securely and spend a long block exploring both art and history."
+          }
+        },
+        {
+          "name": {
+            "de": "Gamla Torg",
+            "hu": "Gamla Torg (Régi Főtér)",
+            "ro": "Gamla Torg (Piața Veche)",
+            "en": "Gamla Torg (Old Square)"
+          },
+          "coords": [
+            13.1575,
+            55.3745
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:37",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für eine Mittagspause. Viele Restaurants und Bänke.",
+            "hu": "Nagyszerű hely egy ebédszünetre. Sok étterem és pad található itt.",
+            "ro": "Un loc excelent pentru o pauză de prânz. Multe restaurante și bănci.",
+            "en": "A great spot for a lunch break. Plenty of restaurants and benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt Nicolai Kyrka",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "St. Nicholas' Church"
+          },
+          "coords": [
+            13.1585,
+            55.3748
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Nur einen Steinwurf vom Platz entfernt. Ein schneller, aber lohnender Besuch.",
+            "hu": "Csak egy kőhajításnyira a tértől. Gyors, de megéri a látogatást.",
+            "ro": "La o aruncătură de băț de piață. O vizită rapidă, dar plină de satisfacții.",
+            "en": "Just a stone's throw from the square. A quick but rewarding visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserturm Trelleborg",
+            "hu": "Trelleborgi víztorony",
+            "ro": "Turnul de apă din Trelleborg",
+            "en": "Trelleborg Water Tower"
+          },
+          "coords": [
+            13.162,
+            55.378
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:21",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Auf dem Weg zum Hafen, ein kurzer Stopp für ein Foto dieses industriellen Wahrzeichens.",
+            "hu": "Útban a kikötő felé egy rövid megálló, hogy lefényképezze ezt az ipari műemléket.",
+            "ro": "În drum spre port, o oprire scurtă pentru o fotografie a acestui reper industrial.",
+            "en": "On your way to the harbor, a quick stop for a photo of this industrial landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Trelleborg Hafen",
+            "hu": "Trelleborgi kikötő",
+            "ro": "Portul Trelleborg",
+            "en": "Trelleborg Harbor"
+          },
+          "coords": [
+            13.165,
+            55.371
+          ],
+          "category": "port",
+          "arrive_at": "14:41",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radfahren Sie entlang der speziellen Wege, um die Aktivitäten des größten Fährhafens Skandinaviens zu beobachten.",
+            "hu": "Biciklizzen a kijelölt utakon, hogy megfigyelhesse Skandinávia legnagyobb kompkikötőjének életét.",
+            "ro": "Pedalați pe traseele dedicate pentru a observa activitatea din cel mai mare port de feriboturi din Scandinavia.",
+            "en": "Cycle along the dedicated paths to watch the activity of Scandinavia's largest ferry port."
+          }
+        },
+        {
+          "name": {
+            "de": "Küstentour zu den Palmen",
+            "hu": "Part menti túra a pálmákhoz",
+            "ro": "Tur de coastă spre palmieri",
+            "en": "Coastal Ride to the Palms"
+          },
+          "coords": [
+            13.159,
+            55.369
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie die Fahrt entlang der Küste. Dies ist der beste Teil der Radtour.",
+            "hu": "Élvezze a tengerparti utat. Ez a kerékpártúra legjobb része.",
+            "ro": "Bucurați-vă de plimbarea de-a lungul coastei. Aceasta este cea mai bună parte a turului cu bicicleta.",
+            "en": "Enjoy the ride along the coast. This is the best part of the bike tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour bei der beeindruckenden Wikingerfestung Trelleborgen, bevor Sie ins Zentrum fahren, um Kunst und Geschichte zu entdecken. Machen Sie eine Mittagspause am belebten Gamla Torg und besuchen Sie die nahe gelegene Kirche. Am Nachmittag führt Ihre Route Sie am Wasserturm und dem riesigen Hafen vorbei. Der Höhepunkt ist die malerische Fahrt entlang der Küste, die bei den berühmten Palmen von Trelleborg endet, wo Sie sich entspannen und die Meeresbrise genießen können.",
+        "hu": "Kezdje a kerékpártúrát a lenyűgöző Trelleborgen viking erődnél, mielőtt a központba tekerne művészetért és történelemért. Tartson ebédszünetet a nyüzsgő Gamla Torgon, és látogasson el a közeli templomba. Délután az útvonal a víztorony és a hatalmas kikötő mellett vezet el. A csúcspont a festői tengerparti út, amely Trelleborg híres pálmáinál ér véget, ahol pihenhet és élvezheti a tengeri szellőt.",
+        "ro": "Începeți turul cu bicicleta la impresionanta fortăreață vikingă Trelleborgen înainte de a pedala spre centru pentru artă și istorie. Luați o pauză de prânz în animata Gamla Torg și vizitați biserica din apropiere. După-amiaza, traseul vă duce pe lângă turnul de apă și portul imens. Punctul culminant este plimbarea pitorească de-a lungul coastei, care se termină la faimoșii palmieri din Trelleborg, unde vă puteți relaxa și bucura de briza mării.",
+        "en": "Kick off your bike tour at the impressive Trelleborgen Viking fortress before cycling to the center for a dose of art and history. Take a lunch break in the bustling Gamla Torg and visit the nearby church. In the afternoon, your route takes you past the water tower and the immense harbor. The highlight is the scenic ride along the coast, ending at Trelleborg's famous palm trees where you can relax and enjoy the sea breeze."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sill (Hering)",
+            "tip": "Probieren Sie eingelegten Hering, eine südschwedische Spezialität. Viele Restaurants in der Nähe des Hafens bieten ihn an."
+          },
+          {
+            "name": "Äggakaka",
+            "tip": "Ein dicker, ofengebackener Pfannkuchen, serviert mit gebratenem Schweinefleisch und Preiselbeeren. Ein herzhaftes Gericht aus Schonen."
+          },
+          {
+            "name": "Fika",
+            "tip": "Machen Sie eine Pause für 'Fika' (Kaffee und Gebäck). Viele Cafés am Gamla Torg."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sill (hering)",
+            "tip": "Kóstolja meg a pácolt heringet, egy dél-svéd specialitást. Számos kikötő közeli étterem kínálja."
+          },
+          {
+            "name": "Äggakaka",
+            "tip": "Vastag, sütőben sült palacsinta, sült sertéshússal és vörös áfonyával tálalva. Egy kiadós skånei étel."
+          },
+          {
+            "name": "Fika",
+            "tip": "Tartson egy 'fika' szünetet (kávé és sütemény). Sok kávézó található a Gamla Torgon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sill (Hering)",
+            "tip": "Încercați heringul marinat, o specialitate din sudul Suediei. Multe restaurante de lângă port îl servesc."
+          },
+          {
+            "name": "Äggakaka",
+            "tip": "O clătită groasă, la cuptor, servită cu carne de porc prăjită și merișoare. Un fel de mâncare consistent din Scania."
+          },
+          {
+            "name": "Fika",
+            "tip": "Luați o pauză pentru 'fika' (cafea și produse de patiserie). Multe cafenele în Gamla Torg."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sill (Herring)",
+            "tip": "Try pickled herring, a southern Swedish specialty. Many restaurants near the harbor will serve it."
+          },
+          {
+            "name": "Äggakaka",
+            "tip": "A thick, oven-baked pancake served with fried pork and lingonberries. A hearty Scanian dish."
+          },
+          {
+            "name": "Fika",
+            "tip": "Take a break for 'fika' (coffee and pastry). Lots of cafes in Gamla Torg."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadsparken",
+            "tip": "Ein ruhiger Park in der Nähe des Museums für eine friedliche Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Östkusten",
+            "tip": "Fahren Sie östlich des Hafens entlang der Küste für ruhige Ausblicke und weniger Menschen.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Dalabadets Strand",
+            "tip": "Ein wenig westlich der Palmen, ein ruhigerer Strandabschnitt, um dem Meer zu lauschen.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stadsparken (Városi Park)",
+            "tip": "Csendes park a múzeum közelében egy békés szünethez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Östkusten (Keleti part)",
+            "tip": "Tekerjen a kikötőtől keletre a part mentén a csendes kilátásért és a kevesebb emberért.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Dalabadet strand",
+            "tip": "Kicsit nyugatra a pálmáktól, egy csendesebb partszakasz a tenger hangjának élvezetéhez.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stadsparken",
+            "tip": "Un parc liniștit lângă muzeu pentru o pauză pașnică.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Östkusten (Coasta de Est)",
+            "tip": "Pedalați la est de port de-a lungul coastei pentru priveliști liniștite și mai puțină aglomerație.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Plaja Dalabadet",
+            "tip": "Puțin la vest de palmieri, o porțiune de plajă mai liniștită pentru a asculta marea.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Stadsparken",
+            "tip": "A quiet park near the museum for a peaceful break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Östkusten (East Coast)",
+            "tip": "Cycle east of the harbor along the coast for quiet views and fewer people.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Dalabadet Beach",
+            "tip": "A little west of the palms, a quieter stretch of beach to listen to the sea.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Algatan & CB Friisgatan",
+            "tip": "Die Haupteinkaufsstraßen der Stadt mit einer Mischung aus schwedischen Ketten und lokalen Boutiquen."
+          },
+          {
+            "name": "Turistbyrån",
+            "tip": "Das Tourismusbüro in der Nähe des Bahnhofs verkauft lokale Souvenirs und Karten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Algatan és CB Friisgatan",
+            "tip": "A város fő bevásárlóutcái svéd üzletláncok és helyi butikok keverékével."
+          },
+          {
+            "name": "Turistbyrån (Turista Információ)",
+            "tip": "A vasútállomás közelében található turisztikai iroda helyi szuveníreket és térképeket árul."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Algatan & CB Friisgatan",
+            "tip": "Principalele străzi comerciale ale orașului, cu un amestec de lanțuri suedeze și buticuri locale."
+          },
+          {
+            "name": "Turistbyrån (Biroul de Turism)",
+            "tip": "Biroul de turism de lângă gară vinde suveniruri și hărți locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Algatan & CB Friisgatan",
+            "tip": "The main shopping streets in the city, with a mix of Swedish chains and local boutiques."
+          },
+          {
+            "name": "Turistbyrån (Tourist Office)",
+            "tip": "The tourist office near the train station sells local souvenirs and maps."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Schweden hat ausgezeichnete Radwege; nutzen Sie sie für eine sichere und angenehme Fahrt.",
+          "Tragen Sie einen Helm und schließen Sie Ihr Fahrrad immer ab, auch für kurze Stopps.",
+          "Einige Küstenabschnitte können windig sein, seien Sie auf Ihrer Fahrt vorbereitet."
+        ],
+        "hu": [
+          "Svédország kiváló kerékpárutakkal rendelkezik; használja őket a biztonságos és élvezetes utazáshoz.",
+          "Viseljen sisakot, és mindig zárja le a kerékpárját, még rövid megállók esetén is.",
+          "Néhány tengerparti szakasz szeles lehet, készüljön fel erre az úton."
+        ],
+        "ro": [
+          "Suedia are piste de biciclete excelente; folosiți-le pentru o plimbare sigură și plăcută.",
+          "Purtați cască și încuiați-vă întotdeauna bicicleta, chiar și pentru opriri scurte.",
+          "Unele porțiuni de coastă pot fi vântoase, fiți pregătit în timpul plimbării."
+        ],
+        "en": [
+          "Sweden has excellent bike paths; use them for a safe and enjoyable ride.",
+          "Wear a helmet and always lock your bike, even for short stops.",
+          "Some coastal sections can be windy, be prepared on your ride."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Wikingerfestung",
+            "hu": "1. csoport: Viking erőd",
+            "ro": "Cluster 1: Fortăreața Vikingă",
+            "en": "Cluster 1: Viking Fortress"
+          },
+          "coords": [
+            13.148,
+            55.376
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier. Dies ist der erste Hauptstopp des Tages. Genießen Sie die historische Atmosphäre.",
+            "hu": "Parkoljon itt. Ez a nap első fő megállója. Élvezze a történelmi hangulatot.",
+            "ro": "Parcați aici. Aceasta este prima oprire principală a zilei. Bucurați-vă de atmosfera istorică.",
+            "en": "Park here. This is the first main stop of the day. Enjoy the historic atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Stadtzentrum (Gamla Torg)",
+            "hu": "2. csoport: Városközpont (Gamla Torg)",
+            "ro": "Cluster 2: Centrul Orașului (Gamla Torg)",
+            "en": "Cluster 2: City Center (Gamla Torg)"
+          },
+          "coords": [
+            13.1575,
+            55.3745
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:38",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren und parken Sie in einem der zentralen Parkhäuser. Erkunden Sie diesen Cluster zu Fuß.",
+            "hu": "Vezessen és parkoljon az egyik központi parkolóházban. Ezt a csoportot gyalog fedezze fel.",
+            "ro": "Conduceți și parcați într-una dintre parcările centrale. Explorați acest cluster pe jos.",
+            "en": "Drive and park in one of the central parking garages. Explore this cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt Nicolai Kyrka",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "St. Nicholas' Church"
+          },
+          "coords": [
+            13.1585,
+            55.3748
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Gamla Torg. Ihr Auto kann geparkt bleiben.",
+            "hu": "Rövid séta a Gamla Torgról. Az autója maradhat a parkolóban.",
+            "ro": "O scurtă plimbare de la Gamla Torg. Mașina poate rămâne parcată.",
+            "en": "A short walk from Gamla Torg. Your car can stay parked."
+          }
+        },
+        {
+          "name": {
+            "de": "Trelleborgs Museum",
+            "hu": "Trelleborgi Múzeum",
+            "ro": "Muzeul Trelleborg",
+            "en": "Trelleborgs Museum"
+          },
+          "coords": [
+            13.156,
+            55.3735
+          ],
+          "category": "museums",
+          "arrive_at": "11:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ebenfalls zu Fuß erreichbar. Planen Sie hier Ihre Mittagspause ein oder danach.",
+            "hu": "Szintén gyalogosan elérhető. Tervezze ide vagy ide az ebédszünetét.",
+            "ro": "De asemenea, accesibil pe jos. Planificați-vă pauza de prânz aici sau după.",
+            "en": "Also within walking distance. Plan for your lunch break around here or after."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Hafen & Küste (Wasserturm)",
+            "hu": "3. csoport: Kikötő és part (Víztorony)",
+            "ro": "Cluster 3: Port și Coastă (Turnul de Apă)",
+            "en": "Cluster 3: Harbor & Coast (Water Tower)"
+          },
+          "coords": [
+            13.162,
+            55.378
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:46",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Hafenbereich und finden Sie einen Parkplatz. Der Wasserturm ist ein guter Ausgangspunkt.",
+            "hu": "Vezessen a kikötő területére és keressen egy parkolóhelyet. A víztorony jó kiindulópunkt.",
+            "ro": "Conduceți spre zona portuară și găsiți un loc de parcare. Turnul de apă este un bun punct de plecare.",
+            "en": "Drive to the harbor area and find parking. The water tower is a good starting landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Trelleborg Hafen",
+            "hu": "Trelleborgi kikötő",
+            "ro": "Portul Trelleborg",
+            "en": "Trelleborg Harbor"
+          },
+          "coords": [
+            13.165,
+            55.371
+          ],
+          "category": "port",
+          "arrive_at": "14:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie durch den Hafenbereich und beobachten Sie die geschäftige Aktivität.",
+            "hu": "Sétáljon végig a kikötőn, és figyelje a nyüzsgő életet.",
+            "ro": "Plimbați-vă prin zona portuară și urmăriți activitatea agitată.",
+            "en": "Stroll around the harbor area and watch the bustling activity."
+          }
+        },
+        {
+          "name": {
+            "de": "Palmen von Trelleborg",
+            "hu": "Trelleborg pálmái",
+            "ro": "Palmierii din Trelleborg",
+            "en": "The Palms of Trelleborg"
+          },
+          "coords": [
+            13.159,
+            55.369
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:03",
+          "stay_min": 132,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hafen entfernt, um den Tag am südlichsten Punkt Schwedens ausklingen zu lassen.",
+            "hu": "Rövid sétára a kikötőtől, hogy Svédország legdélibb pontján fejezze be a napot.",
+            "ro": "O scurtă plimbare de la port pentru a încheia ziua în cel mai sudic punct al Suediei.",
+            "en": "A short walk from the harbor to finish the day at Sweden's southernmost point."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Auto bei der Wikingerfestung Trelleborgen. Fahren Sie dann ins Stadtzentrum, parken Sie und erkunden Sie zu Fuß den historischen Gamla Torg, die Kirche und das Museum. Am Nachmittag fahren Sie zum riesigen Hafen von Trelleborg. Parken Sie erneut und genießen Sie einen Spaziergang entlang der Kais, vorbei am Wasserturm und enden Sie Ihren Tag entspannt unter den berühmten Palmen an der Küste.",
+        "hu": "Kezdje a napot autóval a Trelleborgen viking erődnél. Ezután vezessen a városközpontba, parkoljon le, és fedezze fel gyalog a történelmi Gamla Torgot, a templomot és a múzeumot. Délután hajtson el Trelleborg hatalmas kikötőjébe. Parkoljon le újra, és élvezze a sétát a rakpartok mentén, elhaladva a víztorony mellett, majd fejezze be a napot a híres tengerparti pálmák alatt pihenve.",
+        "ro": "Începeți ziua cu mașina la fortăreața vikingă Trelleborgen. Apoi, conduceți spre centrul orașului, parcați și explorați pe jos istorica Gamla Torg, biserica și muzeul. După-amiaza, mergeți cu mașina la imensul port din Trelleborg. Parcați din nou și bucurați-vă de o plimbare de-a lungul cheiurilor, trecând pe lângă turnul de apă și încheind ziua relaxându-vă sub faimoșii palmieri de pe coastă.",
+        "en": "Start your day by car at the Trelleborgen Viking fortress. Then, drive to the city center, park, and explore the historic Gamla Torg, church, and museum on foot. In the afternoon, take the car to Trelleborg's immense harbor. Park again and enjoy a walk along the quays, past the water tower, and end your day relaxing under the famous coastal palm trees."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sill (Hering)",
+            "tip": "Probieren Sie eingelegten Hering, eine südschwedische Spezialität. Viele Restaurants in der Nähe des Hafens bieten ihn an."
+          },
+          {
+            "name": "Äggakaka",
+            "tip": "Ein dicker, ofengebackener Pfannkuchen, serviert mit gebratenem Schweinefleisch und Preiselbeeren. Ein herzhaftes Gericht aus Schonen."
+          },
+          {
+            "name": "Fika",
+            "tip": "Machen Sie eine Pause für 'Fika' (Kaffee und Gebäck). Viele Cafés am Gamla Torg."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sill (hering)",
+            "tip": "Kóstolja meg a pácolt heringet, egy dél-svéd specialitást. Számos kikötő közeli étterem kínálja."
+          },
+          {
+            "name": "Äggakaka",
+            "tip": "Vastag, sütőben sült palacsinta, sült sertéshússal és vörös áfonyával tálalva. Egy kiadós skånei étel."
+          },
+          {
+            "name": "Fika",
+            "tip": "Tartson egy 'fika' szünetet (kávé és sütemény). Sok kávézó található a Gamla Torgon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sill (Hering)",
+            "tip": "Încercați heringul marinat, o specialitate din sudul Suediei. Multe restaurante de lângă port îl servesc."
+          },
+          {
+            "name": "Äggakaka",
+            "tip": "O clătită groasă, la cuptor, servită cu carne de porc prăjită și merișoare. Un fel de mâncare consistent din Scania."
+          },
+          {
+            "name": "Fika",
+            "tip": "Luați o pauză pentru 'fika' (cafea și produse de patiserie). Multe cafenele în Gamla Torg."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sill (Herring)",
+            "tip": "Try pickled herring, a southern Swedish specialty. Many restaurants near the harbor will serve it."
+          },
+          {
+            "name": "Äggakaka",
+            "tip": "A thick, oven-baked pancake served with fried pork and lingonberries. A hearty Scanian dish."
+          },
+          {
+            "name": "Fika",
+            "tip": "Take a break for 'fika' (coffee and pastry). Lots of cafes in Gamla Torg."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadsparken",
+            "tip": "Ein ruhiger Park in der Nähe des Museums für eine friedliche Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Smygehuk",
+            "tip": "Fahren Sie 15 Minuten östlich zum südlichsten Punkt Schwedens für eine ruhige Küstenlandschaft.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Dalabadets Strand",
+            "tip": "Ein wenig westlich der Palmen, ein ruhigerer Strandabschnitt, um dem Meer zu lauschen.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stadsparken (Városi Park)",
+            "tip": "Csendes park a múzeum közelében egy békés szünethez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Smygehuk",
+            "tip": "Vezessen 15 percet keletre Svédország legdélibb pontjához egy csendes tengerparti tájért.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Dalabadet strand",
+            "tip": "Kicsit nyugatra a pálmáktól, egy csendesebb partszakasz a tenger hangjának élvezetéhez.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stadsparken",
+            "tip": "Un parc liniștit lângă muzeu pentru o pauză pașnică.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Smygehuk",
+            "tip": "Conduceți 15 minute spre est până la cel mai sudic punct al Suediei pentru un peisaj de coastă liniștit.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Plaja Dalabadet",
+            "tip": "Puțin la vest de palmieri, o porțiune de plajă mai liniștită pentru a asculta marea.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Stadsparken",
+            "tip": "A quiet park near the museum for a peaceful break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Smygehuk",
+            "tip": "Drive 15 minutes east to the southernmost point of Sweden for a tranquil coastal scene.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Dalabadet Beach",
+            "tip": "A little west of the palms, a quieter stretch of beach to listen to the sea.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Algatan & CB Friisgatan",
+            "tip": "Die Haupteinkaufsstraßen der Stadt mit einer Mischung aus schwedischen Ketten und lokalen Boutiquen."
+          },
+          {
+            "name": "Gårdsbutiker (Hofläden)",
+            "tip": "Suchen Sie außerhalb der Stadt nach Hofläden, die lokale Produkte und Kunsthandwerk verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Algatan és CB Friisgatan",
+            "tip": "A város fő bevásárlóutcái svéd üzletláncok és helyi butikok keverékével."
+          },
+          {
+            "name": "Gårdsbutiker (farmboltok)",
+            "tip": "Keressen a városon kívül farmboltokat, ahol helyi termékeket és kézműves termékeket árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Algatan & CB Friisgatan",
+            "tip": "Principalele străzi comerciale ale orașului, cu un amestec de lanțuri suedeze și buticuri locale."
+          },
+          {
+            "name": "Gårdsbutiker (magazine de fermă)",
+            "tip": "Căutați în afara orașului magazine de fermă care vând produse locale și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Algatan & CB Friisgatan",
+            "tip": "The main shopping streets in the city, with a mix of Swedish chains and local boutiques."
+          },
+          {
+            "name": "Gårdsbutiker (Farm Shops)",
+            "tip": "Look for farm shops outside the city that sell local produce and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum ist kostenpflichtig. Halten Sie Münzen oder eine Park-App bereit.",
+          "Planen Sie Ihre Cluster, um das Fahren zu minimieren. Parken Sie einmal pro Bereich und gehen Sie zu Fuß.",
+          "Der Verkehr um den Hafen kann während der Ankunfts- und Abfahrtszeiten der Fähren stark sein."
+        ],
+        "hu": [
+          "A parkolás a városközpontban fizetős. Készítsen elő érméket vagy egy parkolóalkalmazást.",
+          "Tervezze meg a csoportokat a vezetés minimalizálása érdekében. Parkoljon egyszer területenként és sétáljon.",
+          "A kikötő körüli forgalom a kompok érkezési és indulási idejében sűrű lehet."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului este contra cost. Pregătiți monede sau o aplicație de parcare.",
+          "Planificați-vă clusterele pentru a minimiza condusul. Parcați o dată pe zonă și mergeți pe jos.",
+          "Traficul în jurul portului poate fi aglomerat în timpul orelor de sosire și plecare a feriboturilor."
+        ],
+        "en": [
+          "Parking in the city center is paid. Have coins or a parking app ready.",
+          "Plan your clusters to minimize driving. Park once per area and walk.",
+          "Traffic around the harbor can be heavy during ferry arrival and departure times."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Stadtzentrum (Hauptbahnhof)",
+            "hu": "1. csoport: Városközpont (Főpályaudvar)",
+            "ro": "Cluster 1: Centrul Orașului (Gara Centrală)",
+            "en": "Cluster 1: City Center (Central Station)"
+          },
+          "coords": [
+            13.1575,
+            55.3745
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie am Hauptbahnhof. Der Gamla Torg ist nur einen kurzen Spaziergang entfernt.",
+            "hu": "Kezdje a főpályaudvarnál. A Gamla Torg csak egy rövid sétára van.",
+            "ro": "Începeți la Gara Centrală. Gamla Torg este la o scurtă plimbare.",
+            "en": "Start at the Central Station. Gamla Torg is a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt Nicolai Kyrka",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "St. Nicholas' Church"
+          },
+          "coords": [
+            13.1585,
+            55.3748
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Platz aus leicht zu Fuß erreichbar.",
+            "hu": "Könnyen megközelíthető gyalog a térről.",
+            "ro": "Ușor de accesat pe jos din piață.",
+            "en": "Easily walkable from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Trelleborgs Museum",
+            "hu": "Trelleborgi Múzeum",
+            "ro": "Muzeul Trelleborg",
+            "en": "Trelleborgs Museum"
+          },
+          "coords": [
+            13.156,
+            55.3735
+          ],
+          "category": "museums",
+          "arrive_at": "10:23",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein weiterer kurzer Spaziergang durch das Stadtzentrum.",
+            "hu": "Egy újabb rövid séta a városközpontban.",
+            "ro": "O altă plimbare scurtă prin centrul orașului.",
+            "en": "Another short walk through the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Wikingerfestung (Trelleborgen)",
+            "hu": "2. csoport: Viking erőd (Trelleborgen)",
+            "ro": "Cluster 2: Fortăreața Vikingă (Trelleborgen)",
+            "en": "Cluster 2: Viking Fortress (Trelleborgen)"
+          },
+          "coords": [
+            13.148,
+            55.376
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus vom Hauptbahnhof. Die Fahrt dauert etwa 10 Minuten.",
+            "hu": "Menjen helyi busszal a főpályaudvarról. Az út körülbelül 10 perc.",
+            "ro": "Luați un autobuz local de la Gara Centrală. Călătoria durează aproximativ 10 minute.",
+            "en": "Take a local bus from the central station. The ride is about 10 minutes."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Hafen & Küste (Trelleborg Hamn)",
+            "hu": "3. csoport: Kikötő és part (Trelleborg Hamn)",
+            "ro": "Cluster 3: Port și Coastă (Trelleborg Hamn)",
+            "en": "Cluster 3: Harbor & Coast (Trelleborg Hamn)"
+          },
+          "coords": [
+            13.165,
+            55.371
+          ],
+          "category": "port",
+          "arrive_at": "14:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zurück ins Zentrum und dann einen anderen Richtung Hafen.",
+            "hu": "Menjen busszal vissza a központba, majd egy másikkal a kikötő felé.",
+            "ro": "Luați un autobuz înapoi în centru, apoi altul spre port.",
+            "en": "Take a bus back to the center and then another towards the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Palmen von Trelleborg",
+            "hu": "Trelleborg pálmái",
+            "ro": "Palmierii din Trelleborg",
+            "en": "The Palms of Trelleborg"
+          },
+          "coords": [
+            13.159,
+            55.369
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:59",
+          "stay_min": 136,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Hafen aus ist es ein angenehmer Spaziergang entlang der Küste, um den Tag ausklingen zu lassen.",
+            "hu": "A kikötőből kellemes séta a part mentén a nap befejezéséhez.",
+            "ro": "De la port, este o plimbare plăcută de-a lungul coastei pentru a încheia ziua.",
+            "en": "From the harbor, it's a pleasant walk along the coast to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Trelleborg, erkunden Sie das Zentrum zu Fuß. Nehmen Sie dann einen Bus zur Trelleborgen, um in die Wikingerzeit einzutauchen. Nach dem Mittagessen bringt Sie ein weiterer Bus zum geschäftigen Hafen. Von dort aus ist es nur ein kurzer Spaziergang, um den Nachmittag unter den berühmten Palmen zu verbringen und die maritime Atmosphäre von Schwedens südlichster Stadt aufzusaugen.",
+        "hu": "Kezdje a napot Trelleborg szívében, gyalogosan felfedezve a központot. Ezután buszozzon el a Trelleborgenhez, hogy elmerüljön a viking korban. Ebéd után egy másik busz elviszi a nyüzsgő kikötőbe. Onnan már csak egy rövid séta, hogy a délutánt a híres pálmák alatt töltse, magába szívva Svédország legdélibb városának tengeri hangulatát.",
+        "ro": "Începeți ziua în inima Trelleborgului, explorând centrul pe jos. Apoi, luați un autobuz spre Trelleborgen pentru o imersiune în epoca vikingă. După prânz, un alt autobuz vă va duce la portul aglomerat. De acolo, este doar o scurtă plimbare pentru a petrece după-amiaza sub faimoșii palmieri, absorbind atmosfera maritimă a celui mai sudic oraș al Suediei.",
+        "en": "Start your day in the heart of Trelleborg, exploring the center on foot. Then, take a bus to Trelleborgen for a dive into the Viking age. After lunch, another bus will take you to the bustling harbor. From there, it's just a short walk to spend the afternoon under the famous palm trees, soaking up the maritime atmosphere of Sweden's southernmost city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sill (Hering)",
+            "tip": "Probieren Sie eingelegten Hering, eine südschwedische Spezialität. Viele Restaurants in der Nähe des Hafens bieten ihn an."
+          },
+          {
+            "name": "Äggakaka",
+            "tip": "Ein dicker, ofengebackener Pfannkuchen, serviert mit gebratenem Schweinefleisch und Preiselbeeren. Ein herzhaftes Gericht aus Schonen."
+          },
+          {
+            "name": "Fika",
+            "tip": "Machen Sie eine Pause für 'Fika' (Kaffee und Gebäck). Viele Cafés am Gamla Torg."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sill (hering)",
+            "tip": "Kóstolja meg a pácolt heringet, egy dél-svéd specialitást. Számos kikötő közeli étterem kínálja."
+          },
+          {
+            "name": "Äggakaka",
+            "tip": "Vastag, sütőben sült palacsinta, sült sertéshússal és vörös áfonyával tálalva. Egy kiadós skånei étel."
+          },
+          {
+            "name": "Fika",
+            "tip": "Tartson egy 'fika' szünetet (kávé és sütemény). Sok kávézó található a Gamla Torgon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sill (Hering)",
+            "tip": "Încercați heringul marinat, o specialitate din sudul Suediei. Multe restaurante de lângă port îl servesc."
+          },
+          {
+            "name": "Äggakaka",
+            "tip": "O clătită groasă, la cuptor, servită cu carne de porc prăjită și merișoare. Un fel de mâncare consistent din Scania."
+          },
+          {
+            "name": "Fika",
+            "tip": "Luați o pauză pentru 'fika' (cafea și produse de patiserie). Multe cafenele în Gamla Torg."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sill (Herring)",
+            "tip": "Try pickled herring, a southern Swedish specialty. Many restaurants near the harbor will serve it."
+          },
+          {
+            "name": "Äggakaka",
+            "tip": "A thick, oven-baked pancake served with fried pork and lingonberries. A hearty Scanian dish."
+          },
+          {
+            "name": "Fika",
+            "tip": "Take a break for 'fika' (coffee and pastry). Lots of cafes in Gamla Torg."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadsparken",
+            "tip": "Ein ruhiger Park in der Nähe des Museums für eine friedliche Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dalabadets Strand",
+            "tip": "Ein wenig westlich der Palmen, ein ruhigerer Strandabschnitt, um dem Meer zu lauschen.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Küste bei Sonnenuntergang",
+            "tip": "Der Bereich um die Palmen ist ideal, um die Sonne über der Ostsee untergehen zu sehen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stadsparken (Városi Park)",
+            "tip": "Csendes park a múzeum közelében egy békés szünethez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dalabadet strand",
+            "tip": "Kicsit nyugatra a pálmáktól, egy csendesebb partszakasz a tenger hangjának élvezetéhez.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Part naplementekor",
+            "tip": "A pálmafák környéke ideális hely a naplemente megtekintéséhez a Balti-tenger felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stadsparken",
+            "tip": "Un parc liniștit lângă muzeu pentru o pauză pașnică.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plaja Dalabadet",
+            "tip": "Puțin la vest de palmieri, o porțiune de plajă mai liniștită pentru a asculta marea.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Coasta la apus",
+            "tip": "Zona din jurul palmierilor este ideală pentru a privi soarele apunând peste Marea Baltică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Stadsparken",
+            "tip": "A quiet park near the museum for a peaceful break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dalabadet Beach",
+            "tip": "A little west of the palms, a quieter stretch of beach to listen to the sea.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Coastline at Sunset",
+            "tip": "The area around the palm trees is ideal for watching the sun set over the Baltic Sea.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Algatan & CB Friisgatan",
+            "tip": "Die Haupteinkaufsstraßen der Stadt, leicht erreichbar vom Hauptbahnhof."
+          },
+          {
+            "name": "Valen Gallerian",
+            "tip": "Ein kleines Einkaufszentrum für einen regnerischen Tag, zentral gelegen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Algatan és CB Friisgatan",
+            "tip": "A város fő bevásárlóutcái, könnyen megközelíthetők a főpályaudvarról."
+          },
+          {
+            "name": "Valen Gallerian",
+            "tip": "Egy kis bevásárlóközpont egy esős napra, központi helyen."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Algatan & CB Friisgatan",
+            "tip": "Principalele străzi comerciale ale orașului, ușor accesibile de la Gara Centrală."
+          },
+          {
+            "name": "Valen Gallerian",
+            "tip": "Un mic centru comercial pentru o zi ploioasă, situat central."
+          }
+        ],
+        "en": [
+          {
+            "name": "Algatan & CB Friisgatan",
+            "tip": "The main shopping streets in the city, easily accessible from the central station."
+          },
+          {
+            "name": "Valen Gallerian",
+            "tip": "A small shopping mall for a rainy day, located centrally."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für das lokale Bussystem (Skånetrafiken) für die beste Preis-Leistung.",
+          "Laden Sie die Skånetrafiken-App herunter, um Fahrpläne und Routen in Echtzeit zu sehen.",
+          "Die Busse verkehren regelmäßig, aber überprüfen Sie den Fahrplan für den letzten Bus zurück ins Zentrum, besonders abends."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a helyi buszrendszerre (Skånetrafiken) a legjobb ár-érték arányért.",
+          "Töltse le a Skånetrafiken alkalmazást a valós idejű menetrendekért és útvonalakért.",
+          "A buszok rendszeresen közlekednek, de ellenőrizze az utolsó busz menetrendjét a központ felé, különösen este."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru sistemul local de autobuze (Skånetrafiken) pentru cel mai bun raport calitate-preț.",
+          "Descărcați aplicația Skånetrafiken pentru a vedea orarele și rutele în timp real.",
+          "Autobuzele circulă regulat, dar verificați programul ultimului autobuz înapoi în centru, mai ales seara."
+        ],
+        "en": [
+          "Buy a day pass for the local bus system (Skånetrafiken) for the best value.",
+          "Download the Skånetrafiken app to see real-time schedules and routes.",
+          "Buses are frequent, but check the schedule for the last bus back to the center, especially in the evening."
+        ]
+      }
+    }
+  }
+}

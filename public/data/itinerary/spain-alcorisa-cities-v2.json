@@ -1,0 +1,1431 @@
+{
+  "city_id": "spain-alcorisa-cities-v2",
+  "anchor": {
+    "name": "Alcorisa",
+    "coords": [
+      -0.3833,
+      40.9167
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de los Arcos",
+            "hu": "Plaza de los Arcos",
+            "ro": "Plaza de los Arcos",
+            "en": "Plaza de los Arcos"
+          },
+          "coords": [
+            -0.383,
+            40.9165
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einem Kaffee unter den Arkaden und beobachten Sie das morgendliche Treiben.",
+            "hu": "Kezdje a napot egy kávéval az árkádok alatt, és figyelje a város ébredezését.",
+            "ro": "Începeți ziua cu o cafea sub arcade și priviți agitația de dimineață a orașului.",
+            "en": "Start your day with a coffee under the arcades and watch the town come to life."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa María la Mayor",
+            "hu": "Santa María la Mayor-templom",
+            "ro": "Biserica Santa María la Mayor",
+            "en": "Church of Santa María la Mayor"
+          },
+          "coords": [
+            -0.3825,
+            40.917
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie den barocken Altaraufsatz und die beeindruckende Kuppel.",
+            "hu": "Csodálja meg a barokk oltárképet és a lenyűgöző kupolát.",
+            "ro": "Admirați altarul baroc și cupola impresionantă.",
+            "en": "Admire the baroque altarpiece and the impressive dome."
+          }
+        },
+        {
+          "name": {
+            "de": "Interpretationszentrum der Karwoche",
+            "hu": "Nagyhét Értelmező Központ",
+            "ro": "Centrul de Interpretare a Săptămânii Sfinte",
+            "en": "Holy Week Interpretation Center"
+          },
+          "coords": [
+            -0.3838,
+            40.9168
+          ],
+          "category": "museums",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die berühmte 'Ruta del Tambor y el Bombo', ein immaterielles Kulturerbe der UNESCO.",
+            "hu": "Ismerje meg a híres „Ruta del Tambor y el Bombo”-t, amely az UNESCO szellemi kulturális örökségének része.",
+            "ro": "Aflați despre faimoasa 'Ruta del Tambor y el Bombo', un patrimoniu cultural imaterial UNESCO.",
+            "en": "Learn about the famous 'Ruta del Tambor y el Bombo', a UNESCO Intangible Cultural Heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Schulmuseum",
+            "hu": "Iskolamúzeum",
+            "ro": "Muzeul Școlii",
+            "en": "School Museum"
+          },
+          "coords": [
+            -0.3845,
+            40.9175
+          ],
+          "category": "museums",
+          "arrive_at": "12:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein nostalgischer Rückblick auf das spanische Bildungswesen des 20. Jahrhunderts.",
+            "hu": "Nosztalgikus visszatekintés a 20. századi spanyol oktatási rendszerre.",
+            "ro": "O privire nostalgică asupra sistemului educațional spaniol din secolul al XX-lea.",
+            "en": "A nostalgic look back at the Spanish education system of the 20th century."
+          }
+        },
+        {
+          "name": {
+            "de": "Monte Calvario",
+            "hu": "Kálvária-hegy",
+            "ro": "Muntele Calvario",
+            "en": "Mount Calvary"
+          },
+          "coords": [
+            -0.3883,
+            40.92
+          ],
+          "category": "natural features",
+          "arrive_at": "14:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der Aufstieg ist die Aussicht wert. Bringen Sie Wasser mit, besonders im Sommer.",
+            "hu": "A kilátás megéri a fáradságot. Hozzon vizet, különösen nyáron.",
+            "ro": "Urcușul merită priveliștea. Aduceți apă, mai ales vara.",
+            "en": "The climb is worth the view. Bring water, especially in summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita de San Pascual",
+            "hu": "Szent Paszkál-kápolna",
+            "ro": "Schitul San Pascual",
+            "en": "Hermitage of San Pascual"
+          },
+          "coords": [
+            -0.3875,
+            40.921
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein friedlicher Ort auf dem Hügel, perfekt für einen Moment der Besinnung.",
+            "hu": "Békés hely a dombon, tökéletes egy csendes pillanatra.",
+            "ro": "Un loc pașnic pe deal, perfect pentru un moment de reflecție.",
+            "en": "A peaceful spot on the hill, perfect for a moment of reflection."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Alcorisa, der Plaza de los Arcos. Nach einem Kaffee führt Sie ein kurzer Spaziergang zur prächtigen Kirche Santa María la Mayor. Der Vormittag ist der Kultur gewidmet, mit tiefen Einblicken in die Traditionen der Karwoche und die Schulgeschichte Spaniens. Nach dem Mittagessen erobern Sie den Monte Calvario. Der Aufstieg wird mit einer atemberaubenden Aussicht belohnt. Der Nachmittag klingt friedlich an der Ermita de San Pascual aus, wo Sie die Ruhe und die Landschaft genießen. Ein Tag voller Entdeckungen zu Fuß.",
+        "hu": "Kezdje a napot Alcorisa szívében, a Plaza de los Arcos téren. Egy kávé után rövid séta vezet a csodálatos Santa María la Mayor-templomhoz. A délelőtt a kultúráé, mély betekintést nyerhet a nagyheti hagyományokba és Spanyolország iskolatörténetébe. Ebéd után hódítsa meg a Kálvária-hegyet. A meredek emelkedőt lélegzetelállító kilátás jutalmazza. A délután békésen zárul a Szent Paszkál-kápolnánál, ahol élvezheti a csendet és a tájat. Egy felfedezésekkel teli nap gyalogosan.",
+        "ro": "Începeți ziua în inima orașului Alcorisa, Plaza de los Arcos. După o cafea, o scurtă plimbare vă duce la magnifica Biserică Santa María la Mayor. Dimineața este dedicată culturii, cu o incursiune profundă în tradițiile Săptămânii Sfinte și în istoria școlii din Spania. După prânz, cuceriți Muntele Calvario. Urcușul este răsplătit cu o priveliște uluitoare. După-amiaza se încheie pașnic la Schitul San Pascual, unde vă puteți bucura de liniște și de peisaj. O zi plină de descoperiri la pas.",
+        "en": "Start your day in the heart of Alcorisa, Plaza de los Arcos. After a coffee, a short walk takes you to the magnificent Church of Santa María la Mayor. The morning is dedicated to culture, with a deep dive into the traditions of Holy Week and Spain's school history. After lunch, conquer Mount Calvary. The climb is rewarded with a breathtaking view. The afternoon ends peacefully at the Hermitage of San Pascual, where you can enjoy the tranquility and the landscape. A day full of discoveries on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Probieren Sie das berühmte Lamm aus Aragón, am besten als Braten oder in Eintöpfen. Suchen Sie nach 'Asador'."
+          },
+          {
+            "name": "Olivenöl aus Bajo Aragón",
+            "tip": "Die Region ist bekannt für ihr Olivenöl. In vielen Restaurants wird es mit Brot als Vorspeise serviert."
+          },
+          {
+            "name": "Melocotón de Calanda",
+            "tip": "Wenn Saison ist (September/Oktober), probieren Sie die berühmten Pfirsiche aus der Nachbarstadt Calanda."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Kóstolja meg a híres aragóniai bárányt, sültként vagy pörköltben. Keressen egy 'Asador'-t."
+          },
+          {
+            "name": "Bajo Aragón olívaolaj",
+            "tip": "A régió híres olívaolajáról. Sok étteremben kenyérrel szolgálják fel előételként."
+          },
+          {
+            "name": "Calandai őszibarack",
+            "tip": "Ha szezonja van (szeptember/október), kóstolja meg a közeli Calanda híres őszibarackját."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Gustați faimosul miel din Aragón, cel mai bun fript sau în tocănițe. Căutați un 'Asador'."
+          },
+          {
+            "name": "Ulei de măsline din Bajo Aragón",
+            "tip": "Regiunea este renumită pentru uleiul său de măsline. Multe restaurante îl servesc cu pâine ca aperitiv."
+          },
+          {
+            "name": "Piersici de Calanda",
+            "tip": "Dacă este sezon (septembrie/octombrie), încercați faimoasele piersici din orașul vecin Calanda."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Try the famous lamb from Aragón, best as a roast or in stews. Look for an 'Asador'."
+          },
+          {
+            "name": "Lower Aragón Olive Oil",
+            "tip": "The region is famous for its olive oil. Many restaurants serve it with bread as a starter."
+          },
+          {
+            "name": "Peaches from Calanda",
+            "tip": "If in season (September/October), try the famous peaches from the neighboring town of Calanda."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfel des Monte Calvario",
+            "tip": "Abseits des Hauptwegs finden Sie ruhige Plätze mit Panoramablick.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ufer des Guadalope",
+            "tip": "Ein Spaziergang entlang des Flusses kann eine friedliche Auszeit sein.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hof der Ermita de San Pascual",
+            "tip": "Setzen Sie sich auf eine Bank und genießen Sie die Stille.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Monte Calvario csúcsa",
+            "tip": "A fő ösvénytől távolabb csendes helyeket talál panorámás kilátással.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Guadalope folyó partja",
+            "tip": "Egy séta a folyó mentén békés kikapcsolódást nyújthat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ermita de San Pascual udvara",
+            "tip": "Üljön le egy padra, és élvezze a csendet.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Monte Calvario",
+            "tip": "Departe de poteca principală, veți găsi locuri liniștite cu vederi panoramice.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malurile râului Guadalope",
+            "tip": "O plimbare de-a lungul râului poate fi o pauză pașnică.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea Schitului San Pascual",
+            "tip": "Așezați-vă pe o bancă și bucurați-vă de liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Summit of Monte Calvario",
+            "tip": "Away from the main path, you'll find quiet spots with panoramic views.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Banks of the Guadalope River",
+            "tip": "A walk along the river can be a peaceful escape.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Courtyard of Ermita de San Pascual",
+            "tip": "Sit on a bench and enjoy the silence.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Keramik",
+            "tip": "Suchen Sie nach handgefertigter Keramik, einem traditionellen Handwerk der Region."
+          },
+          {
+            "name": "Trommeln und 'Bombos'",
+            "tip": "Als Erinnerung an die 'Ruta del Tambor' können Sie Miniaturtrommeln als Souvenir finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerámia",
+            "tip": "Keressen kézzel készített kerámiákat, a régió hagyományos kézműves termékét."
+          },
+          {
+            "name": "Dobok és 'bombók'",
+            "tip": "A 'Ruta del Tambor' emlékére miniatűr dobokat találhat szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică locală",
+            "tip": "Căutați ceramică lucrată manual, o meșteșugă tradițională a regiunii."
+          },
+          {
+            "name": "Tobe și 'bombos'",
+            "tip": "Ca amintire a 'Ruta del Tambor', puteți găsi tobe miniaturale ca suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Pottery",
+            "tip": "Look for handmade ceramics, a traditional craft of the region."
+          },
+          {
+            "name": "Drums and 'Bombos'",
+            "tip": "As a memory of the 'Ruta del Tambor', you can find miniature drums as souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster uneben sein kann.",
+          "Planen Sie eine Mittagspause zwischen 14:00 und 16:00 Uhr ein, da viele Geschäfte und Museen dann schließen (Siesta).",
+          "Der Aufstieg zum Monte Calvario ist steil. Gehen Sie es langsam an.",
+          "Fragen Sie in der Touristeninformation nach den Öffnungszeiten der Museen, da diese variieren können."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakövek egyenetlenek lehetnek.",
+          "Tervezzen ebédszünetet 14:00 és 16:00 között, mivel sok üzlet és múzeum bezár (szieszta).",
+          "A Monte Calvarióra vezető út meredek. Haladjon lassan.",
+          "Érdeklődjön a turisztikai információs irodában a múzeumok nyitvatartási idejéről, mert az változhat."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece pietrele pot fi denivelate.",
+          "Planificați o pauză de prânz între orele 14:00 și 16:00, deoarece multe magazine și muzee se închid (siesta).",
+          "Urcușul spre Monte Calvario este abrupt. Mergeți încet.",
+          "Întrebați la biroul de informații turistice despre orele de deschidere ale muzeelor, deoarece acestea pot varia."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones can be uneven.",
+          "Plan a lunch break between 2:00 PM and 4:00 PM, as many shops and museums close (siesta).",
+          "The climb to Monte Calvario is steep. Take it slow.",
+          "Ask at the tourist information office for museum opening hours, as they can vary."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:17",
+      "total_km": 6.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de los Arcos",
+            "hu": "Plaza de los Arcos",
+            "ro": "Plaza de los Arcos",
+            "en": "Plaza de los Arcos"
+          },
+          "coords": [
+            -0.383,
+            40.9165
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und genießen Sie die Atmosphäre des Hauptplatzes.",
+            "hu": "Parkolja le a kerékpárt, és élvezze a főtér hangulatát.",
+            "ro": "Parcați bicicleta și bucurați-vă de atmosfera pieței principale.",
+            "en": "Park your bike and soak in the atmosphere of the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa María la Mayor",
+            "hu": "Santa María la Mayor-templom",
+            "ro": "Biserica Santa María la Mayor",
+            "en": "Church of Santa María la Mayor"
+          },
+          "coords": [
+            -0.3825,
+            40.917
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um die barocke Architektur zu bewundern, bevor Sie weiterfahren.",
+            "hu": "Egy rövid megálló, hogy megcsodálja a barokk építészetet, mielőtt továbbhaladna.",
+            "ro": "O oprire scurtă pentru a admira arhitectura barocă înainte de a continua.",
+            "en": "A quick stop to admire the baroque architecture before you continue."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtisches Waschhaus",
+            "hu": "Városi Mosóház",
+            "ro": "Spălătoria Municipală",
+            "en": "Municipal Washhouse"
+          },
+          "coords": [
+            -0.3805,
+            40.915
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:18",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Ein interessanter Einblick in das soziale Leben vergangener Zeiten.",
+            "hu": "Érdekes betekintés a múlt társadalmi életébe.",
+            "ro": "O perspectivă interesantă asupra vieții sociale din trecut.",
+            "en": "An interesting glimpse into the social life of past times."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus des Zeichners (Casa del Pintor)",
+            "hu": "A Rajzoló Háza",
+            "ro": "Casa Desenatorului",
+            "en": "House of the Drawer"
+          },
+          "coords": [
+            -0.384,
+            40.918
+          ],
+          "category": "museums",
+          "arrive_at": "10:48",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie das Werk eines lokalen Künstlers in diesem kleinen, aber feinen Museum.",
+            "hu": "Fedezze fel egy helyi művész munkásságát ebben a kicsi, de finom múzeumban.",
+            "ro": "Descoperiți opera unui artist local în acest muzeu mic, dar rafinat.",
+            "en": "Discover the work of a local artist in this small but fine museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Interpretationszentrum der Karwoche",
+            "hu": "Nagyhét Értelmező Központ",
+            "ro": "Centrul de Interpretare a Săptămânii Sfinte",
+            "en": "Holy Week Interpretation Center"
+          },
+          "coords": [
+            -0.3838,
+            40.9168
+          ],
+          "category": "museums",
+          "arrive_at": "11:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein, um die Bedeutung der Trommeln und Bombos zu verstehen.",
+            "hu": "Szánjon elég időt, hogy megértse a dobok és bombók jelentőségét.",
+            "ro": "Planificați-vă suficient timp pentru a înțelege semnificația tobelor și a bombo-urilor.",
+            "en": "Allow enough time to understand the significance of the drums and bombos."
+          }
+        },
+        {
+          "name": {
+            "de": "Monte Calvario",
+            "hu": "Kálvária-hegy",
+            "ro": "Muntele Calvario",
+            "en": "Mount Calvary"
+          },
+          "coords": [
+            -0.3883,
+            40.92
+          ],
+          "category": "natural features",
+          "arrive_at": "13:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Den letzten Teil müssen Sie eventuell schieben, aber die Abfahrt wird ein Spaß!",
+            "hu": "Lehet, hogy az utolsó szakaszon tolni kell, de a lejtő szórakoztató lesz!",
+            "ro": "S-ar putea să trebuiască să împingeți pe ultima porțiune, dar coborârea va fi distractivă!",
+            "en": "You might have to push the last part, but the ride down will be fun!"
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita de San Pascual",
+            "hu": "Szent Paszkál-kápolna",
+            "ro": "Schitul San Pascual",
+            "en": "Hermitage of San Pascual"
+          },
+          "coords": [
+            -0.3875,
+            40.921
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der perfekte Ort für eine letzte Pause, bevor Sie zurück ins Zentrum rollen.",
+            "hu": "Tökéletes hely egy utolsó pihenőre, mielőtt visszagurul a központba.",
+            "ro": "Locul perfect pentru o ultimă pauză înainte de a vă întoarce în centru.",
+            "en": "The perfect spot for a final break before rolling back to the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auf zwei Rädern erkunden Sie Alcorisa flexibel und sportlich. Vom Start an der Plaza de los Arcos geht es schnell zu den wichtigsten Sehenswürdigkeiten im Zentrum. Eine kleine Schleife führt Sie zum historischen Waschhaus, einem Zeugen der Vergangenheit. Der Vormittag ist eine Mischung aus Kunst und Tradition, bevor Sie sich nach dem Mittagessen der Herausforderung des Monte Calvario stellen. Die Belohnung ist eine fantastische Aussicht und eine rasante Abfahrt. Der Tag endet mit einem ruhigen Moment an der Ermita de San Pascual, hoch über der Stadt.",
+        "hu": "Két keréken rugalmasan és sportosan fedezheti fel Alcorisát. A Plaza de los Arcos térről indulva gyorsan elérheti a központ legfontosabb látnivalóit. Egy kis kitérő a történelmi mosóházhoz, a múlt tanújához vezet. A délelőtt a művészet és a hagyományok keveréke, mielőtt ebéd után nekivágna a Monte Calvario kihívásának. A jutalom egy fantasztikus kilátás és egy gyors lejtőzés. A nap a város felett magasodó Ermita de San Pascual-nál tett csendes pillanattal zárul.",
+        "ro": "Pe două roți, explorați Alcorisa într-un mod flexibil și sportiv. Pornind din Plaza de los Arcos, ajungeți rapid la principalele atracții din centru. O mică buclă vă duce la spălătoria istorică, o mărturie a trecutului. Dimineața este un amestec de artă și tradiție, înainte de a face față provocării Muntelui Calvario după prânz. Recompensa este o priveliște fantastică și o coborâre rapidă. Ziua se încheie cu un moment de liniște la Schitul San Pascual, deasupra orașului.",
+        "en": "On two wheels, you can explore Alcorisa flexibly and athletically. Starting from Plaza de los Arcos, you can quickly reach the main sights in the center. A small loop takes you to the historic washhouse, a witness to the past. The morning is a mix of art and tradition before you tackle the challenge of Mount Calvary after lunch. The reward is a fantastic view and a swift descent. The day ends with a quiet moment at the Hermitage of San Pascual, high above the town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bocadillo de Jamón",
+            "tip": "Ein klassisches spanisches Sandwich mit lokalem Schinken ist der perfekte Treibstoff für Radfahrer."
+          },
+          {
+            "name": "Clara",
+            "tip": "Ein erfrischendes Getränk aus Bier und Zitronenlimonade, ideal für eine Pause."
+          },
+          {
+            "name": "Migas",
+            "tip": "Ein herzhaftes Gericht aus Brotkrumen, Chorizo und Trauben, das viel Energie liefert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bocadillo de Jamón",
+            "tip": "A klasszikus spanyol szendvics helyi sonkával tökéletes üzemanyag a kerékpárosok számára."
+          },
+          {
+            "name": "Clara",
+            "tip": "Frissítő ital sörből és citromos limonádéból, ideális egy pihenőhöz."
+          },
+          {
+            "name": "Migas",
+            "tip": "Kenyérmorzsából, chorizóból és szőlőből készült kiadós étel, amely sok energiát ad."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bocadillo de Jamón",
+            "tip": "Un sandviș spaniol clasic cu șuncă locală este combustibilul perfect pentru bicicliști."
+          },
+          {
+            "name": "Clara",
+            "tip": "O băutură răcoritoare din bere și limonadă, ideală pentru o pauză."
+          },
+          {
+            "name": "Migas",
+            "tip": "Un fel de mâncare consistent din pesmet, chorizo și struguri, care oferă multă energie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bocadillo de Jamón",
+            "tip": "A classic Spanish sandwich with local ham is the perfect fuel for cyclists."
+          },
+          {
+            "name": "Clara",
+            "tip": "A refreshing drink of beer and lemon soda, ideal for a break."
+          },
+          {
+            "name": "Migas",
+            "tip": "A hearty dish of breadcrumbs, chorizo, and grapes that provides plenty of energy."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Weg zur Ermita de San Pascual",
+            "tip": "Der Weg nach oben ist weniger befahren und bietet schöne Ausblicke.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick vom Monte Calvario",
+            "tip": "Finden Sie eine Bank und genießen Sie die Aussicht über die Dächer von Alcorisa.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Seitengassen",
+            "tip": "Verlassen Sie die Hauptstraßen und entdecken Sie ruhige, malerische Gassen.",
+            "emoji": "🏘️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Út az Ermita de San Pascual felé",
+            "tip": "A felfelé vezető út kevésbé forgalmas, és gyönyörű kilátást nyújt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Monte Calvarióról",
+            "tip": "Keressen egy padot, és élvezze a kilátást Alcorisa háztetőire.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Mellékutcák",
+            "tip": "Hagyja el a főutakat, és fedezzen fel csendes, festői sikátorokat.",
+            "emoji": "🏘️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumul spre Schitul San Pascual",
+            "tip": "Drumul spre vârf este mai puțin aglomerat și oferă priveliști frumoase.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de pe Muntele Calvario",
+            "tip": "Găsiți o bancă și bucurați-vă de priveliștea peste acoperișurile din Alcorisa.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Străduțe laterale",
+            "tip": "Părăsiți străzile principale și descoperiți alei liniștite și pitorești.",
+            "emoji": "🏘️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Path to Ermita de San Pascual",
+            "tip": "The path up is less traveled and offers beautiful views.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from Monte Calvario",
+            "tip": "Find a bench and enjoy the view over the rooftops of Alcorisa.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Side Alleys",
+            "tip": "Leave the main streets and discover quiet, picturesque alleys.",
+            "emoji": "🏘️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Backwaren",
+            "tip": "Halten Sie in einer 'Panadería' für süßes Gebäck oder herzhaftes Brot an."
+          },
+          {
+            "name": "Olivenöl aus der Region",
+            "tip": "Eine kleine Flasche des lokalen 'flüssigen Goldes' ist ein tolles Mitbringsel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékáruk",
+            "tip": "Álljon meg egy 'Panadería'-ban édes süteményekért vagy sós kenyérért."
+          },
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "Egy kis üveg a helyi 'folyékony aranyból' nagyszerű szuvenír."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse de patiserie locale",
+            "tip": "Opriți-vă la o 'Panadería' pentru produse de patiserie dulci sau pâine sărată."
+          },
+          {
+            "name": "Ulei de măsline local",
+            "tip": "O sticlă mică de 'aur lichid' local este un suvenir excelent."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Pastries",
+            "tip": "Stop at a 'Panadería' for sweet pastries or savory bread."
+          },
+          {
+            "name": "Local Olive Oil",
+            "tip": "A small bottle of the local 'liquid gold' makes a great souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Bremsen vor der Abfahrt vom Monte Calvario.",
+          "Nehmen Sie ein gutes Fahrradschloss mit, um es an den Sehenswürdigkeiten sicher abzustellen.",
+          "Einige Straßen im Zentrum können eng und steil sein.",
+          "Achten Sie auf Einbahnstraßen im alten Stadtkern."
+        ],
+        "hu": [
+          "Ellenőrizze a fékeket, mielőtt leereszkedik a Monte Calvarióról.",
+          "Vigyen magával egy jó kerékpárzárat, hogy biztonságosan lezárhassa a látnivalóknál.",
+          "Néhány utca a központban szűk és meredek lehet.",
+          "Figyeljen az egyirányú utcákra az óvárosban."
+        ],
+        "ro": [
+          "Verificați frânele înainte de a coborî de pe Muntele Calvario.",
+          "Luați un antifurt bun pentru bicicletă pentru a o parca în siguranță la obiectivele turistice.",
+          "Unele străzi din centru pot fi înguste și abrupte.",
+          "Fiți atenți la străzile cu sens unic din centrul vechi."
+        ],
+        "en": [
+          "Check your brakes before descending from Monte Calvario.",
+          "Bring a good bike lock to secure it safely at the sights.",
+          "Some streets in the center can be narrow and steep.",
+          "Pay attention to one-way streets in the old town center."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum",
+            "hu": "Parkoló a központban",
+            "ro": "Parcare în centru",
+            "en": "Central Parking"
+          },
+          "coords": [
+            -0.385,
+            40.916
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier, um den ersten Cluster zu Fuß zu erkunden.",
+            "hu": "Parkoljon itt, hogy gyalogosan fedezze fel az első látnivalócsoportot.",
+            "ro": "Parcați aici pentru a explora primul grup de obiective pe jos.",
+            "en": "Park here to explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de los Arcos",
+            "hu": "Plaza de los Arcos",
+            "ro": "Plaza de los Arcos",
+            "en": "Plaza de los Arcos"
+          },
+          "coords": [
+            -0.383,
+            40.9165
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Ausgangspunkt für Ihren Rundgang durch das historische Zentrum.",
+            "hu": "Tökéletes kiindulópont a történelmi központban tett sétához.",
+            "ro": "Punctul de plecare perfect pentru turul dumneavoastră pietonal prin centrul istoric.",
+            "en": "The perfect starting point for your walking tour of the historic center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa María la Mayor",
+            "hu": "Santa María la Mayor-templom",
+            "ro": "Biserica Santa María la Mayor",
+            "en": "Church of Santa María la Mayor"
+          },
+          "coords": [
+            -0.3825,
+            40.917
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:51",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang von der Plaza entfernt, ein Muss für Architekturliebhaber.",
+            "hu": "Csak egy rövid séta a tértől, az építészet szerelmeseinek kötelező.",
+            "ro": "La doar o scurtă plimbare de piață, un punct de atracție pentru iubitorii de arhitectură.",
+            "en": "Just a short walk from the plaza, a must-see for architecture lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "Interpretationszentrum der Karwoche",
+            "hu": "Nagyhét Értelmező Központ",
+            "ro": "Centrul de Interpretare a Săptămânii Sfinte",
+            "en": "Holy Week Interpretation Center"
+          },
+          "coords": [
+            -0.3838,
+            40.9168
+          ],
+          "category": "museums",
+          "arrive_at": "10:46",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tauchen Sie tief in eine der wichtigsten Traditionen der Region ein.",
+            "hu": "Merüljön el a régió egyik legfontosabb hagyományában.",
+            "ro": "Pătrundeți în profunzimea uneia dintre cele mai importante tradiții ale regiunii.",
+            "en": "Dive deep into one of the region's most important traditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz am Monte Calvario",
+            "hu": "Parkoló a Monte Calvario lábánál",
+            "ro": "Parcare la Monte Calvario",
+            "en": "Parking at Monte Calvario"
+          },
+          "coords": [
+            -0.387,
+            40.919
+          ],
+          "category": "transport",
+          "arrive_at": "13:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 3,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Auto hier ab, um den zweiten Cluster zu erklimmen.",
+            "hu": "Hagyja itt az autóját, hogy megmássza a második látnivalócsoportot.",
+            "ro": "Lăsați mașina aici pentru a urca la al doilea grup de obiective.",
+            "en": "Leave your car here to climb the second cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Monte Calvario & Ermita de San Pascual",
+            "hu": "Monte Calvario és Ermita de San Pascual",
+            "ro": "Muntele Calvario și Schitul San Pascual",
+            "en": "Mount Calvary & Hermitage of San Pascual"
+          },
+          "coords": [
+            -0.3883,
+            40.92
+          ],
+          "category": "viewpoint",
+          "arrive_at": "13:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Aufstieg zum Aussichtspunkt mit einem Besuch der ruhigen Kapelle.",
+            "hu": "Kombinálja a kilátóponthoz való feljutást a csendes kápolna meglátogatásával.",
+            "ro": "Combinați urcarea la punctul de belvedere cu o vizită la schitul liniștit.",
+            "en": "Combine the climb to the viewpoint with a visit to the tranquil hermitage."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto genießen Sie das Beste aus beiden Welten: den Komfort, entferntere Punkte zu erreichen, und die Freiheit, das Zentrum zu Fuß zu erkunden. Parken Sie Ihr Auto und tauchen Sie ein in das Herz von Alcorisa. Der Vormittag gehört dem historischen Kern mit Plaza, Kirche und Museum. Nach dem Mittagessen fahren Sie eine kurze Strecke zum Fuße des Monte Calvario. Hier beginnt der zweite Teil Ihres Abenteuers: ein Spaziergang nach oben zu atemberaubenden Aussichten und spiritueller Ruhe, bevor Sie den Tag beenden.",
+        "hu": "Autóval mindkét világ legjavát élvezheti: a távolabbi pontok elérésének kényelmét és a központ gyalogos felfedezésének szabadságát. Parkolja le autóját, és merüljön el Alcorisa szívében. A délelőtt a történelmi magé a térrel, a templommal és a múzeummal. Ebéd után rövid autóút vezet a Monte Calvario lábához. Itt kezdődik a kaland második része: egy séta fel a lélegzetelállító kilátáshoz és a spirituális békéhez, mielőtt befejezné a napot.",
+        "ro": "Cu mașina, vă bucurați de ce e mai bun din ambele lumi: confortul de a ajunge la puncte mai îndepărtate și libertatea de a explora centrul pe jos. Parcați mașina și scufundați-vă în inima orașului Alcorisa. Dimineața este dedicată centrului istoric, cu piața, biserica și muzeul său. După prânz, o scurtă călătorie cu mașina vă duce la poalele Muntelui Calvario. Aici începe a doua parte a aventurii: o plimbare până la priveliști uluitoare și liniște spirituală, înainte de a încheia ziua.",
+        "en": "By car, you enjoy the best of both worlds: the comfort of reaching more distant points and the freedom to explore the center on foot. Park your car and immerse yourself in the heart of Alcorisa. The morning belongs to the historic core with its plaza, church, and museum. After lunch, a short drive takes you to the foot of Mount Calvary. Here begins the second part of your adventure: a walk up to breathtaking views and spiritual tranquility before you end the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Menú del Día",
+            "tip": "Viele Restaurants bieten mittags ein günstiges, mehrgängiges Menü an. Eine gute Möglichkeit, die lokale Küche zu probieren."
+          },
+          {
+            "name": "Wein aus der Region (Vino de la Tierra de Bajo Aragón)",
+            "tip": "Probieren Sie einen lokalen Rotwein, oft aus Garnacha-Trauben."
+          },
+          {
+            "name": "Almendrados",
+            "tip": "Ein lokales Mandelgebäck, perfekt als Dessert oder zum Kaffee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Menú del Día",
+            "tip": "Sok étterem kínál kedvező árú, több fogásos menüt délben. Jó lehetőség a helyi konyha megkóstolására."
+          },
+          {
+            "name": "Helyi bor (Vino de la Tierra de Bajo Aragón)",
+            "tip": "Kóstoljon meg egy helyi vörösbort, gyakran Garnacha szőlőből."
+          },
+          {
+            "name": "Almendrados",
+            "tip": "Helyi mandulás sütemény, tökéletes desszertnek vagy kávé mellé."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Menú del Día",
+            "tip": "Multe restaurante oferă un meniu de prânz convenabil, cu mai multe feluri. O modalitate bună de a gusta bucătăria locală."
+          },
+          {
+            "name": "Vin local (Vino de la Tierra de Bajo Aragón)",
+            "tip": "Încercați un vin roșu local, adesea din struguri Garnacha."
+          },
+          {
+            "name": "Almendrados",
+            "tip": "O prăjitură locală cu migdale, perfectă pentru desert sau cu cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Menú del Día",
+            "tip": "Many restaurants offer an affordable, multi-course lunch menu. A great way to sample local cuisine."
+          },
+          {
+            "name": "Local Wine (Vino de la Tierra de Bajo Aragón)",
+            "tip": "Try a local red wine, often made from Garnacha grapes."
+          },
+          {
+            "name": "Almendrados",
+            "tip": "A local almond pastry, perfect for dessert or with coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ermita de San Pascual",
+            "tip": "Ein Ort der Stille mit weitem Blick über die Landschaft.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Picknick am Fluss",
+            "tip": "Nehmen Sie sich Proviant mit und suchen Sie sich ein ruhiges Plätzchen am Ufer des Guadalope.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sonnenuntergang vom Calvario",
+            "tip": "Wenn Sie bis zum Abend bleiben, ist dies der beste Ort, um die Sonne untergehen zu sehen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ermita de San Pascual",
+            "tip": "A csend helye, ahonnan messzire ellátni a táj felett.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Piknik a folyóparton",
+            "tip": "Vigyen magával elemózsiát, és keressen egy csendes helyet a Guadalope partján.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Naplemente a Calvarióról",
+            "tip": "Ha estig marad, ez a legjobb hely a naplemente megtekintésére.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Schitul San Pascual",
+            "tip": "Un loc de liniște cu o priveliște largă asupra peisajului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Picnic pe malul râului",
+            "tip": "Luați provizii și găsiți un loc liniștit pe malurile râului Guadalope.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Apus de soare de pe Calvario",
+            "tip": "Dacă stați până seara, acesta este cel mai bun loc pentru a privi apusul.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hermitage of San Pascual",
+            "tip": "A place of silence with a wide view over the landscape.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Picnic by the river",
+            "tip": "Pack some provisions and find a quiet spot on the banks of the Guadalope.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sunset from Calvario",
+            "tip": "If you stay until evening, this is the best place to watch the sun go down.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wurstwaren ('Embutidos')",
+            "tip": "Suchen Sie in einer lokalen Metzgerei ('Carnicería') nach Chorizo, Salchichón oder Jamón."
+          },
+          {
+            "name": "Olivenöl-Kooperative",
+            "tip": "Besuchen Sie eine lokale Genossenschaft, um hochwertiges Olivenöl direkt vom Erzeuger zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kolbászfélék ('Embutidos')",
+            "tip": "Keressen chorizót, salchichónt vagy jamónt egy helyi hentesnél ('Carnicería')."
+          },
+          {
+            "name": "Olívaolaj-szövetkezet",
+            "tip": "Látogasson el egy helyi szövetkezetbe, hogy kiváló minőségű olívaolajat vásároljon közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cârnați ('Embutidos')",
+            "tip": "Căutați chorizo, salchichón sau jamón la o măcelărie locală ('Carnicería')."
+          },
+          {
+            "name": "Cooperativă de ulei de măsline",
+            "tip": "Vizitați o cooperativă locală pentru a cumpăra ulei de măsline de înaltă calitate direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cured Meats ('Embutidos')",
+            "tip": "Look for chorizo, salchichón, or jamón at a local butcher shop ('Carnicería')."
+          },
+          {
+            "name": "Olive Oil Cooperative",
+            "tip": "Visit a local cooperative to buy high-quality olive oil directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Suchen Sie nach blauen Zonen ('Zona Azul') zum Parken, diese sind oft gebührenpflichtig, aber zentral.",
+          "Die Straßen im Zentrum sind sehr eng. Fahren Sie vorsichtig.",
+          "Planen Sie Ihre Route im Voraus, da der GPS-Empfang in den Gassen schlecht sein kann.",
+          "Achten Sie auf Parkbeschränkungen und -zeiten, um Strafzettel zu vermeiden."
+        ],
+        "hu": [
+          "Keressen kék zónákat ('Zona Azul') a parkoláshoz, ezek gyakran fizetősek, de központi helyen vannak.",
+          "A központ utcái nagyon szűkek. Vezessen óvatosan.",
+          "Tervezze meg előre az útvonalat, mivel a GPS-vétel a sikátorokban gyenge lehet.",
+          "Figyeljen a parkolási korlátozásokra és időpontokra a bírságok elkerülése érdekében."
+        ],
+        "ro": [
+          "Căutați zone albastre ('Zona Azul') pentru parcare; acestea sunt adesea cu plată, dar centrale.",
+          "Străzile din centru sunt foarte înguste. Conduceți cu atenție.",
+          "Planificați-vă traseul în avans, deoarece recepția GPS poate fi slabă pe alei.",
+          "Fiți atenți la restricțiile și orele de parcare pentru a evita amenzile."
+        ],
+        "en": [
+          "Look for blue zones ('Zona Azul') for parking; they are often paid but central.",
+          "The streets in the center are very narrow. Drive carefully.",
+          "Plan your route in advance, as GPS reception can be poor in the alleys.",
+          "Pay attention to parking restrictions and times to avoid fines."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de los Arcos",
+            "hu": "Plaza de los Arcos",
+            "ro": "Plaza de los Arcos",
+            "en": "Plaza de los Arcos"
+          },
+          "coords": [
+            -0.383,
+            40.9165
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag im Herzen der Stadt, leicht erreichbar von der Hauptbushaltestelle.",
+            "hu": "Kezdje a napot a város szívében, amely könnyen megközelíthető a fő buszmegállóból.",
+            "ro": "Începeți ziua în inima orașului, ușor accesibilă de la stația principală de autobuz.",
+            "en": "Start your day in the heart of the town, easily accessible from the main bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa María la Mayor",
+            "hu": "Santa María la Mayor-templom",
+            "ro": "Biserica Santa María la Mayor",
+            "en": "Church of Santa María la Mayor"
+          },
+          "coords": [
+            -0.3825,
+            40.917
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:41",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die beeindruckende Fassade ist nur wenige Schritte von der Plaza entfernt.",
+            "hu": "A lenyűgöző homlokzat csak néhány lépésre van a tértől.",
+            "ro": "Fațada impresionantă este la doar câțiva pași de piață.",
+            "en": "The impressive facade is just a few steps from the plaza."
+          }
+        },
+        {
+          "name": {
+            "de": "Schulmuseum",
+            "hu": "Iskolamúzeum",
+            "ro": "Muzeul Școlii",
+            "en": "School Museum"
+          },
+          "coords": [
+            -0.3845,
+            40.9175
+          ],
+          "category": "museums",
+          "arrive_at": "10:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Spaziergang durch die Gassen führt Sie zu diesem Juwel der Alltagsgeschichte.",
+            "hu": "Séta a sikátorokon keresztül vezet a mindennapi történelem ezen gyöngyszeméhez.",
+            "ro": "O plimbare pe alei vă duce la această bijuterie a istoriei cotidiene.",
+            "en": "A walk through the alleys takes you to this gem of everyday history."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Monte Calvario",
+            "hu": "Utazás a Monte Calvarióra",
+            "ro": "Călătorie spre Muntele Calvario",
+            "en": "Trip to Mount Calvary"
+          },
+          "coords": [
+            -0.387,
+            40.919
+          ],
+          "category": "transport",
+          "arrive_at": "12:34",
+          "stay_min": 0,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus oder ein Taxi, um den Anstieg zu erleichtern.",
+            "hu": "Vegyen igénybe helyi buszt vagy taxit, hogy megkönnyítse a hegymenetet.",
+            "ro": "Luați un autobuz local sau un taxi pentru a ușura urcarea.",
+            "en": "Take a local bus or a taxi to ease the ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Monte Calvario & Ermita de San Pascual",
+            "hu": "Monte Calvario és Ermita de San Pascual",
+            "ro": "Muntele Calvario și Schitul San Pascual",
+            "en": "Mount Calvary & Hermitage of San Pascual"
+          },
+          "coords": [
+            -0.3883,
+            40.92
+          ],
+          "category": "viewpoint",
+          "arrive_at": "12:54",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Von der Bushaltestelle aus ist es ein kurzer, aber lohnender Spaziergang zum Gipfel.",
+            "hu": "A buszmegállótól rövid, de megéri a sétát a csúcsra.",
+            "ro": "De la stația de autobuz, este o plimbare scurtă, dar plină de satisfacții până în vârf.",
+            "en": "From the bus stop, it's a short but rewarding walk to the summit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auch ohne eigenes Fahrzeug ist Alcorisa gut zu entdecken. Der Vormittag gehört dem kompakten Stadtzentrum, wo Sie von der Plaza zur Kirche und weiter zum Museum schlendern. Alles ist bequem zu Fuß erreichbar. Nach einer Stärkung nutzen Sie einen lokalen Bus oder ein Taxi, um sich dem Monte Calvario zu nähern. Der Rest des Weges zum Gipfel und zur Kapelle ist ein schöner Spaziergang, der mit einer grandiosen Aussicht belohnt wird. So kombinieren Sie mühelos das städtische Leben mit einem Ausflug in die Natur.",
+        "hu": "Alcorisa saját jármű nélkül is könnyen felfedezhető. A délelőtt a kompakt városközponté, ahol a tértől a templomig, majd a múzeumig sétálhat. Minden kényelmesen elérhető gyalog. Egy kis frissítő után helyi busszal vagy taxival közelítheti meg a Monte Calvariót. A csúcsra és a kápolnához vezető út hátralévő része egy kellemes séta, amelyet csodálatos kilátás jutalmaz. Így könnyedén ötvözheti a városi életet egy kirándulással a természetbe.",
+        "ro": "Chiar și fără propriul vehicul, Alcorisa este ușor de descoperit. Dimineața este dedicată centrului compact al orașului, unde vă plimbați de la piață la biserică și mai departe la muzeu. Totul este la o distanță convenabilă de mers pe jos. După o gustare, folosiți un autobuz local sau un taxi pentru a vă apropia de Muntele Calvario. Restul drumului până în vârf și la schit este o plimbare frumoasă, răsplătită cu o priveliște magnifică. Astfel, combinați fără efort viața urbană cu o excursie în natură.",
+        "en": "Even without your own vehicle, Alcorisa is easy to discover. The morning belongs to the compact town center, where you can stroll from the plaza to the church and on to the museum. Everything is within easy walking distance. After a refreshment, use a local bus or taxi to get closer to Mount Calvary. The rest of the way to the summit and the hermitage is a beautiful walk, rewarded with a magnificent view. This way, you can effortlessly combine urban life with an excursion into nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tapas in einer Bar",
+            "tip": "Suchen Sie eine Bar in der Nähe der Plaza und probieren Sie verschiedene kleine Gerichte.",
+            "emoji": "🍲"
+          },
+          {
+            "name": "Churros con Chocolate",
+            "tip": "Ein klassischer spanischer Snack, ideal für eine süße Pause am Nachmittag.",
+            "emoji": "☕"
+          },
+          {
+            "name": "Lokaler Käse",
+            "tip": "Fragen Sie nach 'Queso de Teruel' oder anderem Käse aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tapas egy bárban",
+            "tip": "Keressen egy bárt a Plaza közelében, és kóstoljon meg különféle kis ételeket.",
+            "emoji": "🍲"
+          },
+          {
+            "name": "Churros csokoládéval",
+            "tip": "Klasszikus spanyol snack, ideális egy délutáni édes szünetre.",
+            "emoji": "☕"
+          },
+          {
+            "name": "Helyi sajt",
+            "tip": "Kérjen 'Queso de Teruel'-t vagy más helyi sajtot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tapas la un bar",
+            "tip": "Căutați un bar lângă Plaza și încercați diverse feluri de mâncare mici.",
+            "emoji": "🍲"
+          },
+          {
+            "name": "Churros cu ciocolată",
+            "tip": "O gustare spaniolă clasică, ideală pentru o pauză dulce de după-amiază.",
+            "emoji": "☕"
+          },
+          {
+            "name": "Brânză locală",
+            "tip": "Întrebați de 'Queso de Teruel' sau altă brânză din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tapas at a bar",
+            "tip": "Find a bar near the Plaza and try various small dishes.",
+            "emoji": "🍲"
+          },
+          {
+            "name": "Churros con Chocolate",
+            "tip": "A classic Spanish snack, ideal for a sweet afternoon break.",
+            "emoji": "☕"
+          },
+          {
+            "name": "Local Cheese",
+            "tip": "Ask for 'Queso de Teruel' or other cheese from the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof",
+            "tip": "Der Friedhof in der Nähe des Monte Calvario ist oft ein Ort der Ruhe und des Gedenkens.",
+            "emoji": "✝️"
+          },
+          {
+            "name": "Ein Park im Ortskern",
+            "tip": "Suchen Sie eine grüne Oase für eine kurze Pause vom Sightseeing.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Bibliothek (Biblioteca Municipal)",
+            "tip": "Ein ruhiger Ort, um sich für eine Weile zurückzuziehen und vielleicht etwas über die lokale Geschichte zu lesen.",
+            "emoji": "📚"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Temető",
+            "tip": "A Monte Calvario közelében lévő temető gyakran a béke és az emlékezés helye.",
+            "emoji": "✝️"
+          },
+          {
+            "name": "Park a városközpontban",
+            "tip": "Keressen egy zöld oázist egy rövid szünetre a városnézés közben.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Könyvtár (Biblioteca Municipal)",
+            "tip": "Csendes hely, ahová egy időre visszavonulhat, és talán olvashat valamit a helyi történelemről.",
+            "emoji": "📚"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul",
+            "tip": "Cimitirul de lângă Monte Calvario este adesea un loc de pace și reculegere.",
+            "emoji": "✝️"
+          },
+          {
+            "name": "Un parc în centrul orașului",
+            "tip": "Căutați o oază de verdeață pentru o scurtă pauză de la vizitarea obiectivelor turistice.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Biblioteca (Biblioteca Municipal)",
+            "tip": "Un loc liniștit pentru a vă retrage pentru o vreme și poate pentru a citi ceva despre istoria locală.",
+            "emoji": "📚"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cemetery",
+            "tip": "The cemetery near Monte Calvario is often a place of peace and remembrance.",
+            "emoji": "✝️"
+          },
+          {
+            "name": "A park in the town center",
+            "tip": "Look for a green oasis for a short break from sightseeing.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Library (Biblioteca Municipal)",
+            "tip": "A quiet place to retreat for a while and perhaps read something about local history.",
+            "emoji": "📚"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Erkundigen Sie sich, ob während Ihres Besuchs ein Wochenmarkt stattfindet, um frische Produkte und lokale Spezialitäten zu finden."
+          },
+          {
+            "name": "Souvenirladen",
+            "tip": "In der Nähe der Plaza finden Sie kleine Geschäfte mit Postkarten und Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Érdeklődjön, hogy látogatása során tartanak-e heti piacot, ahol friss termékeket és helyi különlegességeket talál."
+          },
+          {
+            "name": "Szuvenírbolt",
+            "tip": "A Plaza közelében kis üzleteket talál képeslapokkal és ajándéktárgyakkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Verificați dacă există o piață săptămânală în timpul vizitei dvs. pentru a găsi produse proaspete și specialități locale."
+          },
+          {
+            "name": "Magazin de suveniruri",
+            "tip": "Lângă Plaza veți găsi mici magazine cu cărți poștale și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Check if there is a weekly market during your visit to find fresh produce and local specialties."
+          },
+          {
+            "name": "Souvenir Shop",
+            "tip": "Near the Plaza, you will find small shops with postcards and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Haben Sie Kleingeld für Bustickets bereit.",
+          "Überprüfen Sie den Busfahrplan im Voraus, da die Frequenzen auf dem Land geringer sein können.",
+          "Fragen Sie den Busfahrer, wo Sie am besten für den Monte Calvario aussteigen.",
+          "Taxis können eine gute Alternative für kurze Strecken sein, wenn kein Bus fährt."
+        ],
+        "hu": [
+          "Készítsen elő aprópénzt a buszjegyekhez.",
+          "Ellenőrizze előre a buszmenetrendet, mivel vidéken ritkábban járhatnak a járatok.",
+          "Kérdezze meg a buszsofőrt, hol a legjobb leszállni a Monte Calvarióhoz.",
+          "A taxik jó alternatívát jelenthetnek rövid távolságokra, ha nem jár busz."
+        ],
+        "ro": [
+          "Pregătiți monede pentru biletele de autobuz.",
+          "Verificați programul autobuzelor în avans, deoarece frecvențele pot fi mai mici în zonele rurale.",
+          "Întrebați șoferul de autobuz unde este cel mai bun loc pentru a coborî pentru Monte Calvario.",
+          "Taxiurile pot fi o alternativă bună pentru distanțe scurte dacă nu circulă niciun autobuz."
+        ],
+        "en": [
+          "Have small change ready for bus tickets.",
+          "Check the bus schedule in advance, as frequencies can be lower in rural areas.",
+          "Ask the bus driver for the best stop to get off for Monte Calvario.",
+          "Taxis can be a good alternative for short distances if there is no bus service."
+        ]
+      }
+    }
+  }
+}

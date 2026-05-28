@@ -1,0 +1,1112 @@
+{
+  "city_id": "switzerland-muttenz-cities-v2",
+  "anchor": {
+    "name": "Muttenz",
+    "coords": [
+      7.646,
+      47.522
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirchenburg St. Arbogast",
+            "hu": "St. Arbogast erődtemplom",
+            "ro": "Biserica fortificată Sf. Arbogast",
+            "en": "St. Arbogast Fortress Church"
+          },
+          "coords": [
+            7.6475,
+            47.5231
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Achten Sie auf die mittelalterlichen Fresken und die einzigartige Ringmauer.",
+            "hu": "Figyelje meg a középkori freskókat és az egyedülálló körfalat.",
+            "ro": "Observați frescele medievale și zidul inelar unic.",
+            "en": "Look for the medieval frescoes and the unique ring wall."
+          }
+        },
+        {
+          "name": {
+            "de": "Bauernhausmuseum",
+            "hu": "Parasztház Múzeum",
+            "ro": "Muzeul Fermei",
+            "en": "Farmhouse Museum"
+          },
+          "coords": [
+            7.6488,
+            47.5245
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erleben Sie das ländliche Leben des 19. Jahrhunderts in diesem authentischen Hof.",
+            "hu": "Tapasztalja meg a 19. századi vidéki életet ebben az autentikus udvarházban.",
+            "ro": "Experimentați viața rurală din secolul al XIX-lea în această fermă autentică.",
+            "en": "Experience 19th-century rural life in this authentic farmhouse."
+          }
+        },
+        {
+          "name": {
+            "de": "Rebberge Muttenz",
+            "hu": "Muttenzi szőlőskertek",
+            "ro": "Viile din Muttenz",
+            "en": "Muttenz Vineyards"
+          },
+          "coords": [
+            7.654,
+            47.518
+          ],
+          "category": "natural features",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Geniessen Sie einen Spaziergang durch die Weinberge mit Blick auf Basel.",
+            "hu": "Sétáljon egyet a szőlőültetvényeken, ahonnan kilátás nyílik Bázelre.",
+            "ro": "Bucurați-vă de o plimbare prin podgorii cu vedere la Basel.",
+            "en": "Enjoy a walk through the vineyards with a view of Basel."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruine Wartenberg",
+            "hu": "Wartenberg várromjai",
+            "ro": "Ruinele Wartenberg",
+            "en": "Wartenberg Ruins"
+          },
+          "coords": [
+            7.659,
+            47.515
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Ruinen für eine fantastische Panoramaaussicht.",
+            "hu": "Másszon fel a romokhoz a fantasztikus panorámáért.",
+            "ro": "Urcați la ruine pentru o priveliște panoramică fantastică.",
+            "en": "Climb the ruins for a fantastic panoramic view."
+          }
+        },
+        {
+          "name": {
+            "de": "Birs-Uferweg",
+            "hu": "Birs-parti sétány",
+            "ro": "Promenada de pe malul râului Birs",
+            "en": "Birs Riverbank Path"
+          },
+          "coords": [
+            7.635,
+            47.528
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für einen entspannten Spaziergang am späten Nachmittag.",
+            "hu": "Tökéletes hely egy pihentető késő délutáni sétához.",
+            "ro": "Un loc perfect pentru o plimbare relaxantă la sfârșitul după-amiezii.",
+            "en": "A perfect spot for a relaxing late afternoon stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Schänzli",
+            "hu": "Schänzli",
+            "ro": "Schänzli",
+            "en": "Schänzli"
+          },
+          "coords": [
+            7.625,
+            47.535
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie den Sonnenuntergang von diesem beliebten Naherholungsgebiet aus.",
+            "hu": "Nézze a naplementét erről a népszerű helyi pihenőhelyről.",
+            "ro": "Priviți apusul de soare din această zonă populară de recreere locală.",
+            "en": "Watch the sunset from this popular local recreation area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einem Spaziergang durch die Geschichte bei der Kirchenburg St. Arbogast und dem Bauernhausmuseum. Am Mittag wandern Sie durch die malerischen Rebberge und geniessen die Aussicht, bevor Sie die alten Mauern der Ruine Wartenberg erkunden. Am Nachmittag schlendern Sie gemütlich dem Birs-Uferweg entlang. Beenden Sie Ihren Tag im Schänzli, wo Sie die letzten Sonnenstrahlen über der Region Basel einfangen können.",
+        "hu": "Kezdje a napot egy történelmi sétával a St. Arbogast erődtemplomnál és a Parasztház Múzeumban. Délben barangoljon a festői szőlőskertekben és élvezze a kilátást, mielőtt felfedezné a Wartenberg várrom ősi falait. Délután sétáljon egyet a Birs-parti sétányon. Zárja a napot a Schänzli területén, ahol elcsípheti a bázeli régió feletti utolsó napsugarakat.",
+        "ro": "Începeți ziua cu o plimbare prin istorie la Biserica fortificată Sf. Arbogast și Muzeul Fermei. La prânz, plimbați-vă prin viile pitorești și bucurați-vă de priveliște înainte de a explora zidurile vechi ale Ruinelor Wartenberg. După-amiaza, faceți o plimbare pe malul râului Birs. Încheiați ziua la Schänzli, unde puteți prinde ultimele raze de soare peste regiunea Basel.",
+        "en": "Start your day with a walk through history at St. Arbogast Fortress Church and the Farmhouse Museum. At noon, wander through the picturesque vineyards and enjoy the views before exploring the ancient walls of the Wartenberg Ruins. In the afternoon, take a leisurely stroll along the Birs riverbank path. End your day at Schänzli, where you can catch the last rays of sun over the Basel region."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Schlosshof",
+            "tip": "Probieren Sie das Zürcher Geschnetzeltes in einem historischen Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant Schlosshof",
+            "tip": "Kóstolja meg a 'Zürcher Geschnetzeltes'-t történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Schlosshof",
+            "tip": "Încercați 'Zürcher Geschnetzeltes' într-un cadru istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Schlosshof",
+            "tip": "Try the 'Zürcher Geschnetzeltes' in a historic setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rebberge am Wartenberg",
+            "tip": "Finden Sie eine ruhige Bank zwischen den Reben.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Birs-Ufer",
+            "tip": "Lauschen Sie dem Rauschen des Flusses.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szőlőskertek a Wartenbergen",
+            "tip": "Keressen egy csendes padot a szőlőtőkék között.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Birs-part",
+            "tip": "Hallgassa a folyó zúgását.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Viile de pe Wartenberg",
+            "tip": "Găsiți o bancă liniștită printre vița de vie.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul râului Birs",
+            "tip": "Ascultați susurul râului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vineyards on the Wartenberg",
+            "tip": "Find a quiet bench among the vines.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Birs Riverbank",
+            "tip": "Listen to the sound of the river.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Muttenzer Markt",
+            "tip": "Kaufen Sie lokalen Käse und frische Produkte auf dem Wochenmarkt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Muttenzi piac",
+            "tip": "Vásároljon helyi sajtot és friss termékeket a hetipiacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Muttenz",
+            "tip": "Cumpărați brânzeturi locale și produse proaspete de la piața săptămânală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Muttenz Market",
+            "tip": "Buy local cheese and fresh produce at the weekly market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Wege zu den Ruinen und Weinbergen steil sein können.",
+          "Nehmen Sie Wasser mit, besonders für die Wanderung am Nachmittag.",
+          "Prüfen Sie die Öffnungszeiten des Bauernhausmuseums im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a romokhoz és a szőlőkhöz vezető utak meredekek lehetnek.",
+          "Vigyen magával vizet, különösen a délutáni túrához.",
+          "Előre ellenőrizze a Parasztház Múzeum nyitvatartását."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece potecile către ruine și vii pot fi abrupte.",
+          "Luați apă cu dumneavoastră, mai ales pentru drumeția de după-amiază.",
+          "Verificați în avans programul de funcționare al Muzeului Fermei."
+        ],
+        "en": [
+          "Wear comfortable shoes, as the paths to the ruins and vineyards can be steep.",
+          "Bring water, especially for the afternoon hike.",
+          "Check the opening hours of the Farmhouse Museum in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schänzli",
+            "hu": "Schänzli",
+            "ro": "Schänzli",
+            "en": "Schänzli"
+          },
+          "coords": [
+            7.625,
+            47.535
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Tour an diesem grünen Knotenpunkt nahe Basel.",
+            "hu": "Kezdje a túrát ezen a Bázelhez közeli zöld csomóponton.",
+            "ro": "Începeți turul de la acest nod verde de lângă Basel.",
+            "en": "Start your tour at this green hub near Basel."
+          }
+        },
+        {
+          "name": {
+            "de": "Birs-Uferweg",
+            "hu": "Birs-parti sétány",
+            "ro": "Promenada de pe malul râului Birs",
+            "en": "Birs Riverbank Path"
+          },
+          "coords": [
+            7.635,
+            47.528
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:48",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Folgen Sie dem Fluss landeinwärts, eine entspannte und flache Strecke.",
+            "hu": "Kövesse a folyót a szárazföld belseje felé, egy pihentető és sík szakaszon.",
+            "ro": "Urmați râul în amonte, un traseu relaxant și plat.",
+            "en": "Follow the river inland, a relaxing and flat route."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirchenburg St. Arbogast",
+            "hu": "St. Arbogast erődtemplom",
+            "ro": "Biserica fortificată Sf. Arbogast",
+            "en": "St. Arbogast Fortress Church"
+          },
+          "coords": [
+            7.6475,
+            47.5231
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:06",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Schliessen Sie Ihr Fahrrad an und erkunden Sie die historische Festung zu Fuss.",
+            "hu": "Zárja le a kerékpárját, és fedezze fel gyalog a történelmi erődítményt.",
+            "ro": "Legați-vă bicicleta și explorați fortăreața istorică pe jos.",
+            "en": "Lock up your bike and explore the historic fortress on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Rebberge Muttenz & Ruine Wartenberg",
+            "hu": "Muttenzi szőlők és Wartenberg romjai",
+            "ro": "Viile Muttenz și Ruinele Wartenberg",
+            "en": "Muttenz Vineyards & Wartenberg Ruins"
+          },
+          "coords": [
+            7.659,
+            47.515
+          ],
+          "category": "natural features",
+          "arrive_at": "12:31",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Der Anstieg lohnt sich! Stellen Sie Ihr Rad ab und wandern Sie zu den Ruinen.",
+            "hu": "Megéri a kaptatót! Tegye le a biciklit, és sétáljon fel a romokhoz.",
+            "ro": "Urcușul merită! Lăsați bicicleta și urcați pe jos la ruine.",
+            "en": "The climb is worth it! Park your bike and hike to the ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Römervilla am Homberg",
+            "hu": "Római villa a Hombergen",
+            "ro": "Vila romană de la Homberg",
+            "en": "Roman Villa at Homberg"
+          },
+          "coords": [
+            7.65,
+            47.505
+          ],
+          "category": "historical",
+          "arrive_at": "14:43",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Überreste einer römischen Siedlung.",
+            "hu": "Fedezze fel egy római kori település maradványait.",
+            "ro": "Descoperiți vestigiile unei așezări romane.",
+            "en": "Discover the remains of a Roman settlement."
+          }
+        },
+        {
+          "name": {
+            "de": "Grenzsteinmuseum",
+            "hu": "Határkő Múzeum",
+            "ro": "Muzeul Pietrelor de Hotar",
+            "en": "Boundary Stone Museum"
+          },
+          "coords": [
+            7.639,
+            47.525
+          ],
+          "category": "museums",
+          "arrive_at": "16:03",
+          "stay_min": 42,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Ein einzigartiges kleines Museum über die Geschichte der Grenzen in der Region.",
+            "hu": "Egy egyedülálló kis múzeum a régió határainak történetéről.",
+            "ro": "Un mic muzeu unic despre istoria granițelor din regiune.",
+            "en": "A unique little museum about the history of borders in the region."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt am Schänzli und führt Sie entlang des idyllischen Birs-Uferwegs ins Herz von Muttenz. Dort erwartet Sie die imposante Kirchenburg St. Arbogast. Am Mittag erklimmen Sie die Rebberge, um die Ruine Wartenberg und die atemberaubende Aussicht zu geniessen. Der Nachmittag steht im Zeichen der Geschichte mit einem Besuch der Römervilla und des kuriosen Grenzsteinmuseums, bevor Sie zurück zum Ausgangspunkt radeln.",
+        "hu": "Kerékpártúrája a Schänzlinél kezdődik, és a idilli Birs-parti úton vezet Muttenz szívébe. Ott várja Önt a lenyűgöző St. Arbogast erődtemplom. Délben felteker a szőlőhegyekre, hogy élvezze a Wartenberg romjait és a lélegzetelállító kilátást. A délután a történelem jegyében telik a római villa és a különös Határkő Múzeum meglátogatásával, mielőtt visszatekerne a kiindulópontra.",
+        "ro": "Turul cu bicicleta începe la Schänzli și vă duce de-a lungul idilicei promenade Birs în inima orașului Muttenz. Acolo vă așteaptă impunătoarea Biserică fortificată Sf. Arbogast. La prânz, urcați dealurile cu viță de vie pentru a vă bucura de Ruinele Wartenberg și de priveliștea uluitoare. După-amiaza este dedicată istoriei, cu o vizită la Vila Romană și la curiosul Muzeu al Pietrelor de Hotar, înainte de a vă întoarce la punctul de plecare.",
+        "en": "Your bike tour starts at Schänzli and takes you along the idyllic Birs riverbank path into the heart of Muttenz. The impressive St. Arbogast Fortress Church awaits you there. At noon, you'll climb the vineyards to enjoy the Wartenberg Ruins and the breathtaking view. The afternoon is dedicated to history with a visit to the Roman Villa and the curious Boundary Stone Museum before you cycle back to the starting point."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Besenbeiz in den Rebbergen",
+            "tip": "Geniessen Sie lokalen Wein und eine Platte mit regionalen Spezialitäten direkt beim Winzer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borozó a szőlőhegyen",
+            "tip": "Élvezze a helyi bort és egy tál regionális specialitást közvetlenül a borásznál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cramă în vii",
+            "tip": "Savurați vin local și un platou cu specialități regionale direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Winery tavern in the vineyards",
+            "tip": "Enjoy local wine and a platter of regional specialities directly at the winemaker's."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Ruine Wartenberg",
+            "tip": "Der beste Ort für eine ruhige Pause mit weitem Blick.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Uferweg abseits der Brücken",
+            "tip": "Ein ruhiger Abschnitt am Wasser.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátó a Wartenberg romjainál",
+            "tip": "A legjobb hely egy csendes pihenőre, pazar kilátással.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A folyópart a hidaktól távolabb",
+            "tip": "Egy csendes szakasz a víz mellett.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere la Ruinele Wartenberg",
+            "tip": "Cel mai bun loc pentru o pauză liniștită cu o priveliște vastă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malul râului departe de poduri",
+            "tip": "O secțiune liniștită lângă apă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint at Wartenberg Ruins",
+            "tip": "The best place for a quiet break with a wide view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Riverbank away from the bridges",
+            "tip": "A quiet section by the water.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofladen in der Nähe des Bauernhausmuseums",
+            "tip": "Kaufen Sie frisches Obst, Gemüse und hausgemachte Konfitüren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői bolt a Parasztház Múzeum közelében",
+            "tip": "Vásároljon friss gyümölcsöt, zöldséget és házi lekvárokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul fermei lângă Muzeul Fermei",
+            "tip": "Cumpărați fructe proaspete, legume și gemuri de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shop near the Farmhouse Museum",
+            "tip": "Buy fresh fruit, vegetables, and homemade jams."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein E-Bike wird für den Anstieg zu den Weinbergen empfohlen.",
+          "Nehmen Sie ein gutes Fahrradschloss mit.",
+          "Achten Sie auf Wanderer auf den Wegen durch die Rebberge."
+        ],
+        "hu": [
+          "A szőlőhegyekre való feljutáshoz e-bike ajánlott.",
+          "Vigyen magával egy jó kerékpárzárat.",
+          "Vigyázzon a gyalogosokra a szőlőültetvényeken átvezető utakon."
+        ],
+        "ro": [
+          "O bicicletă electrică este recomandată pentru urcarea spre vii.",
+          "Luați cu dumneavoastră un antifurt bun pentru bicicletă.",
+          "Fiți atenți la drumeți pe potecile din vii."
+        ],
+        "en": [
+          "An e-bike is recommended for the climb to the vineyards.",
+          "Bring a good bike lock.",
+          "Watch out for hikers on the paths through the vineyards."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 11.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Wartenberg & Römervilla",
+            "hu": "1. klaszter: Wartenberg és Római villa",
+            "ro": "Cluster 1: Wartenberg și Vila Romană",
+            "en": "Cluster 1: Wartenberg & Roman Villa"
+          },
+          "coords": [
+            7.658,
+            47.514
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Fusse des Hügels und erklimmen Sie die Ruine Wartenberg.",
+            "hu": "Parkoljon a hegy lábánál, és másszon fel a Wartenberg romjaihoz.",
+            "ro": "Parcați la poalele dealului și urcați la Ruinele Wartenberg.",
+            "en": "Park at the foot of the hill and climb the Wartenberg Ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Rebberge Muttenz",
+            "hu": "Muttenzi szőlőskertek",
+            "ro": "Viile din Muttenz",
+            "en": "Muttenz Vineyards"
+          },
+          "coords": [
+            7.654,
+            47.518
+          ],
+          "category": "natural features",
+          "arrive_at": "10:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von den Ruinen führt Sie in die idyllischen Weinberge.",
+            "hu": "Egy rövid séta a romoktól az idilli szőlőskertekbe vezet.",
+            "ro": "O scurtă plimbare de la ruine vă duce în viile idilice.",
+            "en": "A short walk from the ruins leads you into the idyllic vineyards."
+          }
+        },
+        {
+          "name": {
+            "de": "Römervilla am Homberg",
+            "hu": "Római villa a Hombergen",
+            "ro": "Vila romană de la Homberg",
+            "en": "Roman Villa at Homberg"
+          },
+          "coords": [
+            7.65,
+            47.505
+          ],
+          "category": "historical",
+          "arrive_at": "11:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie den Hügel hinunter, um die faszinierenden römischen Überreste zu sehen.",
+            "hu": "Sétáljon le a dombról, hogy megnézze a lenyűgöző római maradványokat.",
+            "ro": "Coborâți dealul pentru a vedea fascinantele vestigii romane.",
+            "en": "Walk down the hill to see the fascinating Roman remains."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Historisches Dorfzentrum",
+            "hu": "2. klaszter: Történelmi faluközpont",
+            "ro": "Cluster 2: Centrul istoric al satului",
+            "en": "Cluster 2: Historic Village Center"
+          },
+          "coords": [
+            7.647,
+            47.523
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Dorf und beginnen Sie Ihren Rundgang bei der Kirchenburg St. Arbogast.",
+            "hu": "Parkoljon a faluban, és kezdje a sétát a St. Arbogast erődtemplomnál.",
+            "ro": "Parcați în sat și începeți turul la Biserica fortificată Sf. Arbogast.",
+            "en": "Park in the village and start your tour at the St. Arbogast Fortress Church."
+          }
+        },
+        {
+          "name": {
+            "de": "Bauernhausmuseum",
+            "hu": "Parasztház Múzeum",
+            "ro": "Muzeul Fermei",
+            "en": "Farmhouse Museum"
+          },
+          "coords": [
+            7.6488,
+            47.5245
+          ],
+          "category": "museums",
+          "arrive_at": "14:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die Gassen führt Sie zum Museum.",
+            "hu": "Egy rövid séta a sikátorokon keresztül a múzeumhoz vezet.",
+            "ro": "O scurtă plimbare pe alei vă duce la muzeu.",
+            "en": "A short walk through the alleyways leads you to the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Erholung an der Birs",
+            "hu": "3. klaszter: Pihenés a Birs partján",
+            "ro": "Cluster 3: Recreere pe malul râului Birs",
+            "en": "Cluster 3: Recreation on the Birs"
+          },
+          "coords": [
+            7.625,
+            47.535
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Schänzli, parken Sie und geniessen Sie einen Spaziergang entlang des Birs-Uferwegs.",
+            "hu": "Vezessen a Schänzlihez, parkoljon le, és élvezze a sétát a Birs-parti sétányon.",
+            "ro": "Conduceți până la Schänzli, parcați și bucurați-vă de o plimbare de-a lungul promenadei Birs.",
+            "en": "Drive to Schänzli, park your car, and enjoy a walk along the Birs riverbank path."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt auf den Höhen von Muttenz. Parken Sie und erkunden Sie zu Fuss die Ruine Wartenberg, die Rebberge und die Römervilla. Mittags fahren Sie ins historische Dorfzentrum, wo Sie nach dem Parken die Kirchenburg und das Bauernhausmuseum entdecken. Den Nachmittag verbringen Sie entspannt im dritten Cluster: Fahren Sie zum Schänzli-Parkplatz und schlendern Sie von dort aus am Birs-Ufer entlang, um den Tag ausklingen zu lassen.",
+        "hu": "Autós napja Muttenz magaslatain kezdődik. Parkoljon le, és fedezze fel gyalog a Wartenberg romjait, a szőlőültetvényeket és a római villát. Délben vezessen a történelmi faluközpontba, ahol a parkolás után felfedezheti az erődtemplomot és a Parasztház Múzeumot. A délutánt pihenéssel tölti a harmadik klaszterben: vezessen a Schänzli parkolójába, és onnan sétáljon a Birs partján, hogy lezárja a napot.",
+        "ro": "Ziua cu mașina începe pe înălțimile din Muttenz. Parcați și explorați pe jos Ruinele Wartenberg, viile și Vila Romană. La prânz, conduceți spre centrul istoric al satului, unde, după ce parcați, descoperiți biserica fortificată și Muzeul Fermei. Petreceți după-amiaza relaxându-vă în al treilea cluster: conduceți până la parcarea Schänzli și de acolo plimbați-vă de-a lungul malului râului Birs pentru a încheia ziua.",
+        "en": "Your car day starts on the heights of Muttenz. Park your car and explore the Wartenberg Ruins, the vineyards, and the Roman Villa on foot. At noon, drive to the historic village center, where you'll discover the fortress church and the Farmhouse Museum after parking. Spend the afternoon relaxing in the third cluster: drive to the Schänzli car park and from there, stroll along the Birs riverbank to end the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Pizzeria Rössli",
+            "tip": "Eine gute Wahl im Dorfzentrum für eine herzhafte Mahlzeit nach dem Vormittagsspaziergang."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant Pizzeria Rössli",
+            "tip": "Jó választás a faluközpontban egy kiadós ebédre a délelőtti séta után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Pizzeria Rössli",
+            "tip": "O alegere bună în centrul satului pentru o masă copioasă după plimbarea de dimineață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Pizzeria Rössli",
+            "tip": "A good choice in the village center for a hearty meal after the morning walk."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Panorama von der Ruine Wartenberg",
+            "tip": "Ein atemberaubender und friedlicher Ausblick.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Bank am Birs-Ufer",
+            "tip": "Ein ruhiger Platz, um dem Wasser zuzusehen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Panoráma a Wartenberg romjairól",
+            "tip": "Lélegzetelállító és békés kilátás.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pad a Birs partján",
+            "tip": "Egy csendes hely a víz figyelésére.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Panorama de la Ruinele Wartenberg",
+            "tip": "O priveliște uluitoare și liniștită.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Bancă pe malul râului Birs",
+            "tip": "Un loc liniștit pentru a privi apa.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Panorama from Wartenberg Ruins",
+            "tip": "A breathtaking and peaceful view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Bench on the Birs riverbank",
+            "tip": "A quiet spot to watch the water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weingut Jauslin",
+            "tip": "Kaufen Sie eine Flasche lokalen Weins direkt aus den Rebbergen, die Sie besucht haben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jauslin Pincészet",
+            "tip": "Vásároljon egy üveg helyi bort közvetlenül a meglátogatott szőlőültetvényekről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crama Jauslin",
+            "tip": "Cumpărați o sticlă de vin local direct din viile pe care le-ați vizitat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Jauslin Winery",
+            "tip": "Buy a bottle of local wine directly from the vineyards you visited."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Park-and-Walk-Strategie, um das Beste aus jedem Cluster zu machen.",
+          "Die Strassen zu den Wartenberg-Ruinen können eng sein, fahren Sie vorsichtig.",
+          "Überprüfen Sie die Parkgebühren und -zeiten im Dorfzentrum."
+        ],
+        "hu": [
+          "Használja a 'parkolj és sétálj' stratégiát, hogy a legtöbbet hozza ki minden klaszterből.",
+          "A Wartenberg romjaihoz vezető utak szűkek lehetnek, vezessen óvatosan.",
+          "Ellenőrizze a parkolási díjakat és időket a faluközpontban."
+        ],
+        "ro": [
+          "Folosiți strategia 'parchează și mergi' pentru a profita la maximum de fiecare cluster.",
+          "Drumurile spre Ruinele Wartenberg pot fi înguste, conduceți cu prudență.",
+          "Verificați taxele de parcare și orarele din centrul satului."
+        ],
+        "en": [
+          "Use the 'park and walk' strategy to make the most of each cluster.",
+          "The roads to the Wartenberg ruins can be narrow, drive carefully.",
+          "Check parking fees and times in the village center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Historisches Dorfzentrum",
+            "hu": "1. klaszter: Történelmi faluközpont",
+            "ro": "Cluster 1: Centrul istoric al satului",
+            "en": "Cluster 1: Historic Village Center"
+          },
+          "coords": [
+            7.647,
+            47.523
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus/Tram bis 'Muttenz Dorf' und starten Sie bei der Kirchenburg.",
+            "hu": "Menjen busszal/villamossal a 'Muttenz Dorf' megállóig, és kezdjen az erődtemplomnál.",
+            "ro": "Luați autobuzul/tramvaiul până la 'Muttenz Dorf' și începeți la biserica fortificată.",
+            "en": "Take the bus/tram to 'Muttenz Dorf' and start at the fortress church."
+          }
+        },
+        {
+          "name": {
+            "de": "Bauernhausmuseum",
+            "hu": "Parasztház Múzeum",
+            "ro": "Muzeul Fermei",
+            "en": "Farmhouse Museum"
+          },
+          "coords": [
+            7.6488,
+            47.5245
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Fussweg von der Kirche entfernt.",
+            "hu": "Csak egy rövid séta a templomtól.",
+            "ro": "La o scurtă plimbare de biserică.",
+            "en": "Just a short walk from the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Grenzsteinmuseum",
+            "hu": "Határkő Múzeum",
+            "ro": "Muzeul Pietrelor de Hotar",
+            "en": "Boundary Stone Museum"
+          },
+          "coords": [
+            7.639,
+            47.525
+          ],
+          "category": "museums",
+          "arrive_at": "11:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses ungewöhnliche Museum im selben Rundgang.",
+            "hu": "Fedezze fel ezt a nem mindennapi múzeumot ugyanazon séta keretében.",
+            "ro": "Descoperiți acest muzeu neobișnuit în cadrul aceluiași tur pietonal.",
+            "en": "Discover this unusual museum on the same walking tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Birs-Ufer & Schänzli",
+            "hu": "2. klaszter: Birs-part és Schänzli",
+            "ro": "Cluster 2: Malul Birs și Schänzli",
+            "en": "Cluster 2: Birs Riverbank & Schänzli"
+          },
+          "coords": [
+            7.628,
+            47.534
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 70,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus/Tram zur Haltestelle 'Schänzli' und beginnen Sie den Spaziergang.",
+            "hu": "Menjen busszal/villamossal a 'Schänzli' megállóig, és kezdje a sétát.",
+            "ro": "Luați autobuzul/tramvaiul până la stația 'Schänzli' și începeți plimbarea.",
+            "en": "Take the bus/tram to the 'Schänzli' stop and start your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Birs-Uferweg",
+            "hu": "Séta a Birs-parti úton",
+            "ro": "Plimbare pe Promenada Birs",
+            "en": "Stroll on the Birs Riverbank Path"
+          },
+          "coords": [
+            7.635,
+            47.528
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:50",
+          "stay_min": 115,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie flussaufwärts und geniessen Sie die Natur mitten in der Agglomeration.",
+            "hu": "Sétáljon a folyón felfelé, és élvezze a természetet az agglomeráció közepén.",
+            "ro": "Plimbați-vă în amonte și bucurați-vă de natură în mijlocul aglomerației.",
+            "en": "Stroll upstream and enjoy nature in the middle of the agglomeration."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Tag mit öffentlichen Verkehrsmitteln nach 'Muttenz Dorf'. Erkunden Sie den historischen Kern zu Fuss, von der Kirchenburg über das Bauernhausmuseum bis zum Grenzsteinmuseum. Nach dem Mittagessen nehmen Sie Bus oder Tram zum zweiten Cluster, dem Naherholungsgebiet Schänzli. Verbringen Sie den Nachmittag mit einem ausgedehnten Spaziergang entlang des Birs-Uferwegs, bevor Sie von einer nahegelegenen Haltestelle die Heimreise antreten.",
+        "hu": "Kezdje a napot a tömegközlekedéssel a 'Muttenz Dorf' megállóig. Fedezze fel gyalog a történelmi központot, az erődtemplomtól a Parasztház Múzeumon át a Határkő Múzeumig. Ebéd után szálljon buszra vagy villamosra a második klaszterhez, a Schänzli pihenőövezethez. Töltse a délutánt egy hosszú sétával a Birs-parti úton, mielőtt egy közeli megállóból hazaindulna.",
+        "ro": "Începeți ziua cu transportul public până la 'Muttenz Dorf'. Explorați centrul istoric pe jos, de la biserica fortificată la Muzeul Fermei și Muzeul Pietrelor de Hotar. După prânz, luați autobuzul sau tramvaiul către al doilea cluster, zona de recreere Schänzli. Petreceți după-amiaza cu o plimbare lungă de-a lungul promenadei Birs înainte de a vă întoarce acasă de la o stație din apropiere.",
+        "en": "Start your day by taking public transport to 'Muttenz Dorf'. Explore the historic core on foot, from the fortress church to the Farmhouse Museum and the Boundary Stone Museum. After lunch, take a bus or tram to the second cluster, the Schänzli recreation area. Spend the afternoon on a long walk along the Birs riverbank path before heading home from a nearby stop."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Coop Restaurant Muttenz",
+            "tip": "Eine schnelle und preiswerte Option für das Mittagessen zwischen den beiden Clustern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Coop Étterem, Muttenz",
+            "tip": "Gyors és olcsó lehetőség az ebédre a két klaszter között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Coop Muttenz",
+            "tip": "O opțiune rapidă și ieftină pentru prânz între cele două clustere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Coop Restaurant Muttenz",
+            "tip": "A quick and inexpensive option for lunch between the two clusters."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof bei der Kirchenburg",
+            "tip": "Ein Ort der Stille und Besinnung.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Abgelegener Abschnitt des Birs-Uferwegs",
+            "tip": "Finden Sie einen ruhigen Platz am Wasser.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Temető az erődtemplomnál",
+            "tip": "A csend és az elmélkedés helye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A Birs-part egy eldugott szakasza",
+            "tip": "Keressen egy csendes helyet a víz mellett.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul de lângă biserica fortificată",
+            "tip": "Un loc de liniște și reflecție.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "O secțiune izolată a promenadei Birs",
+            "tip": "Găsiți un loc liniștit lângă apă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cemetery at the fortress church",
+            "tip": "A place of silence and contemplation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A secluded section of the Birs riverbank path",
+            "tip": "Find a quiet spot by the water.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bäckerei im Dorfzentrum",
+            "tip": "Holen Sie sich ein 'Basler Läckerli' als süsses Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség a faluközpontban",
+            "tip": "Vegyen egy 'Basler Läckerli'-t édes emlékként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie în centrul satului",
+            "tip": "Luați un 'Basler Läckerli' ca suvenir dulce."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery in the village center",
+            "tip": "Get a 'Basler Läckerli' as a sweet souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel der Region (TNW).",
+          "Laden Sie die Fahrplan-App herunter, um Verbindungen in Echtzeit zu prüfen.",
+          "Die Ruinen sind mit öffentlichen Verkehrsmitteln schwer zu erreichen, konzentrieren Sie sich auf die anderen Sehenswürdigkeiten."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a régió tömegközlekedési hálózatára (TNW).",
+          "Töltse le a menetrendi alkalmazást a valós idejű csatlakozások ellenőrzéséhez.",
+          "A romok tömegközlekedéssel nehezen megközelíthetők, összpontosítson a többi látnivalóra."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public din regiune (TNW).",
+          "Descărcați aplicația de orare pentru a verifica conexiunile în timp real.",
+          "Ruinele sunt greu accesibile cu transportul public, concentrați-vă pe celelalte atracții."
+        ],
+        "en": [
+          "Buy a day ticket for the region's public transport network (TNW).",
+          "Download the timetable app to check real-time connections.",
+          "The ruins are difficult to reach by public transport, so focus on the other sights."
+        ]
+      }
+    }
+  }
+}

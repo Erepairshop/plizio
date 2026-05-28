@@ -1,0 +1,1612 @@
+{
+  "city_id": "spain-aviles-cities-v2",
+  "anchor": {
+    "name": "Avilés",
+    "coords": [
+      -5.9228,
+      43.555
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de España",
+            "hu": "Plaza de España",
+            "ro": "Plaza de España",
+            "en": "Plaza de España"
+          },
+          "coords": [
+            -5.924,
+            43.556
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee und beobachten Sie das Erwachen der Stadt.",
+            "hu": "Kezdje itt a napot egy kávéval, és figyelje a város ébredését.",
+            "ro": "Începeți-vă ziua aici cu o cafea, privind cum se trezește orașul.",
+            "en": "Start your day here with a coffee, watching the city wake up."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio de Camposagrado",
+            "hu": "Camposagrado-palota",
+            "ro": "Palatul Camposagrado",
+            "en": "Camposagrado Palace"
+          },
+          "coords": [
+            -5.9245,
+            43.5565
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:41",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die barocke Fassade, ein perfekter Fotospot.",
+            "hu": "Csodálja meg a barokk homlokzatot, tökéletes fotóhelyszín.",
+            "ro": "Admirați fațada barocă, un loc perfect pentru fotografii.",
+            "en": "Admire the baroque facade, a perfect photo spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Nicolás de Bari",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica San Nicolás de Bari",
+            "en": "Church of San Nicolás de Bari"
+          },
+          "coords": [
+            -5.926,
+            43.557
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suchen Sie die romanischen Ursprünge der Kirche aus dem 12. Jahrhundert.",
+            "hu": "Keresse meg a 12. századi templom román stílusú eredetét.",
+            "ro": "Căutați originile romanice ale bisericii din secolul al XII-lea.",
+            "en": "Look for the Romanesque origins of the church from the 12th century."
+          }
+        },
+        {
+          "name": {
+            "de": "Calle Galiana",
+            "hu": "Galiana utca",
+            "ro": "Strada Galiana",
+            "en": "Galiana Street"
+          },
+          "coords": [
+            -5.927,
+            43.554
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekt für einen Mittagsimbiss. Probieren Sie den lokalen Sidra in einer der Bars.",
+            "hu": "Tökéletes egy ebéd előtti harapnivalóhoz. Kóstolja meg a helyi almabort az egyik bárban.",
+            "ro": "Perfect pentru o gustare la prânz. Încercați cidrul local la unul dintre baruri.",
+            "en": "Perfect for a midday snack. Try the local sidra in one of the bars."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Stadtgeschichte von Avilés",
+            "hu": "Avilés Várostörténeti Múzeum",
+            "ro": "Muzeul de Istorie Urbană din Avilés",
+            "en": "Museum of Urban History of Avilés"
+          },
+          "coords": [
+            -5.928,
+            43.555
+          ],
+          "category": "museums",
+          "arrive_at": "12:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Interaktive Displays machen die reiche Geschichte der Stadt lebendig.",
+            "hu": "Az interaktív kijelzők életre keltik a város gazdag történelmét.",
+            "ro": "Ecranele interactive aduc la viață istoria bogată a orașului.",
+            "en": "Interactive displays bring the city's rich history to life."
+          }
+        },
+        {
+          "name": {
+            "de": "Ferrera Park",
+            "hu": "Ferrera Park",
+            "ro": "Parcul Ferrera",
+            "en": "Ferrera Park"
+          },
+          "coords": [
+            -5.929,
+            43.558
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Ort, um nach dem Museumsbesuch zu entspannen. Finden Sie den französischen Garten.",
+            "hu": "Egy gyönyörű hely a pihenésre a múzeum után. Keresse meg a francia kertet.",
+            "ro": "Un loc frumos pentru a vă relaxa după muzeu. Găsiți grădina în stil francez.",
+            "en": "A beautiful spot to relax after the museum. Find the French-style garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro Niemeyer",
+            "hu": "Niemeyer Központ",
+            "ro": "Centrul Niemeyer",
+            "en": "Niemeyer Centre"
+          },
+          "coords": [
+            -5.914,
+            43.558
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 1.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Spaziergang über die Mündung ist Teil des Erlebnisses. Der Kontrast zur Altstadt ist erstaunlich.",
+            "hu": "A torkolaton átívelő séta része az élménynek. A kontraszt az óvárossal lenyűgöző.",
+            "ro": "Plimbarea peste estuar face parte din experiență. Contrastul cu orașul vechi este uimitor.",
+            "en": "The walk across the estuary is part of the experience. The contrast with the old town is amazing."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr morgendlicher Spaziergang führt Sie durch das Herz des historischen Avilés, beginnend am belebten Plaza de España. Sie werden barocke Paläste und alte Kirchen erkunden und die mittelalterliche Atmosphäre der Stadt aufsaugen. Am Mittag schlendern Sie durch die berühmte Calle Galiana mit ihren Arkaden, perfekt um die lokale Küche zu probieren. Am Nachmittag tauchen Sie im Museum in die Geschichte ein, bevor Sie im ruhigen Ferrera-Park entspannen. Der Tag endet mit einem Spaziergang zum hochmodernen Centro Niemeyer, einem Symbol für das neue Avilés, das einen starken Kontrast zur Altstadt bildet.",
+        "hu": "A reggeli séta Avilés történelmi szívén vezet keresztül, a nyüzsgő Plaza de Españáról indulva. Felfedezi a barokk palotákat és ősi templomokat, magába szívva a város középkori hangulatát. Délben végigsétál a híres, árkádos Calle Galianán, amely tökéletes a helyi konyha megkóstolására. Délután elmerül a történelemben a múzeumban, mielőtt a békés Ferrera Parkban pihenne. A napot egy sétával zárja a ultramodern Niemeyer Központhoz, az új Avilés szimbólumához, amely éles kontrasztot alkot az óvárossal.",
+        "ro": "Plimbarea de dimineață vă poartă prin inima istorică a orașului Avilés, pornind din animata Plaza de España. Veți explora palate baroce și biserici vechi, absorbind atmosfera medievală a orașului. La prânz, vă veți plimba pe celebra stradă Galiana, cu arcadele sale, perfectă pentru a gusta bucătăria locală. După-amiaza este dedicată scufundării în istorie la muzeu, înainte de a vă relaxa în liniștitul Parc Ferrera. Ziua se încheie cu o plimbare până la ultramodernul Centru Niemeyer, un simbol al noului Avilés, care contrastează puternic cu orașul vechi.",
+        "en": "Your morning walk takes you through the heart of historic Avilés, starting at the bustling Plaza de España. You'll explore baroque palaces and ancient churches, soaking up the city's medieval atmosphere. At midday, you'll stroll down the famous arcaded Calle Galiana, perfect for sampling local cuisine. The afternoon is for diving into history at the museum before relaxing in the peaceful Ferrera Park. The day concludes with a walk to the ultramodern Niemeyer Centre, a symbol of the new Avilés, contrasting sharply with the old town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fabada Asturiana",
+            "tip": "Ein herzhafter Bohneneintopf, perfekt für ein sättigendes Mittagessen."
+          },
+          {
+            "name": "Sidra",
+            "tip": "Asturischer Apfelwein, der aus großer Höhe eingeschenkt wird. Ein Muss!"
+          },
+          {
+            "name": "Mariscos del Cantábrico",
+            "tip": "Frische Meeresfrüchte aus dem Kantabrischen Meer."
+          },
+          {
+            "name": "Queso de Cabrales",
+            "tip": "Ein kräftiger Blauschimmelkäse, für die Mutigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fabada Asturiana",
+            "tip": "Kiadós babgulyás, tökéletes egy laktató ebédhez."
+          },
+          {
+            "name": "Sidra",
+            "tip": "Asztúriai almabor, amelyet nagy magasságból töltenek. Ezt ki kell próbálni!"
+          },
+          {
+            "name": "Mariscos del Cantábrico",
+            "tip": "Friss tenger gyümölcsei a Kantábriai-tengerből."
+          },
+          {
+            "name": "Queso de Cabrales",
+            "tip": "Erős ízű kéksajt, a bevállalósoknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fabada Asturiana",
+            "tip": "O tocană consistentă de fasole, perfectă pentru un prânz sățios."
+          },
+          {
+            "name": "Sidra",
+            "tip": "Cidru asturian, turnat de la înălțime. O experiență de neratat!"
+          },
+          {
+            "name": "Mariscos del Cantábrico",
+            "tip": "Fructe de mare proaspete din Marea Cantabrică."
+          },
+          {
+            "name": "Queso de Cabrales",
+            "tip": "O brânză albastră cu mucegai, pentru cei curajoși."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fabada Asturiana",
+            "tip": "A hearty bean stew, perfect for a filling lunch."
+          },
+          {
+            "name": "Sidra",
+            "tip": "Asturian cider, poured from a great height. A must-try experience!"
+          },
+          {
+            "name": "Mariscos del Cantábrico",
+            "tip": "Fresh seafood from the Cantabrian Sea."
+          },
+          {
+            "name": "Queso de Cabrales",
+            "tip": "A strong blue cheese, for the adventurous."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque de Ferrera",
+            "tip": "Finden Sie eine ruhige Bank unter den alten Bäumen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer der Avilés-Mündung",
+            "tip": "Beobachten Sie die Boote und das Lichtspiel auf dem Wasser.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardín Francés im Ferrera Park",
+            "tip": "Ein verborgener, symmetrischer Garten, perfekt für eine ruhige Pause.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ferrera Park",
+            "tip": "Keressen egy csendes padot az öreg fák alatt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Avilés torkolat partja",
+            "tip": "Nézze a hajókat és a fény játékát a vízen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardín Francés a Ferrera Parkban",
+            "tip": "Egy rejtett, szimmetrikus kert, tökéletes egy csendes pihenőre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Ferrera",
+            "tip": "Găsiți o bancă liniștită sub copacii bătrâni.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malul estuarului Avilés",
+            "tip": "Priviți bărcile și jocul de lumini pe apă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardín Francés în Parcul Ferrera",
+            "tip": "O grădină ascunsă, simetrică, perfectă pentru o pauză liniștită.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ferrera Park",
+            "tip": "Find a quiet bench under the old trees.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the Avilés Estuary",
+            "tip": "Watch the boats and the play of light on the water.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardín Francés in Ferrera Park",
+            "tip": "A hidden, symmetrical garden perfect for a quiet pause.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle Galiana",
+            "tip": "Stöbern Sie in den kleinen Boutiquen unter den Arkaden."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Ein lokaler Markt, um asturische Produkte wie Käse und Wurst zu kaufen."
+          },
+          {
+            "name": "Keramik aus Avilés",
+            "tip": "Suchen Sie nach handgefertigter Keramik als einzigartiges Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Galiana utca",
+            "tip": "Böngésszen a kis butikokban az árkádok alatt."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Helyi piac, ahol asztúriai termékeket, például sajtot és kolbászt vásárolhat."
+          },
+          {
+            "name": "Avilési kerámia",
+            "tip": "Keressen kézzel készített kerámiát egyedi szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Galiana",
+            "tip": "Răsfoiți micile buticuri de sub arcade."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "O piață locală pentru a cumpăra produse asturiene precum brânzeturi și mezeluri."
+          },
+          {
+            "name": "Ceramică din Avilés",
+            "tip": "Căutați ceramică artizanală ca un suvenir unic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Galiana Street",
+            "tip": "Browse the small boutiques under the arcades."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "A local market to buy Asturian products like cheese and sausages."
+          },
+          {
+            "name": "Ceramics of Avilés",
+            "tip": "Look for handmade pottery as a unique souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die Sidrerías können mittags sehr voll werden, seien Sie also früh da.",
+          "Der Spaziergang zum Centro Niemeyer ist bei Ebbe am schönsten.",
+          "Viele Geschäfte halten eine Siesta, also planen Sie Ihren Einkauf für den Vormittag oder späten Nachmittag."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros macskakövei egyenetlenek lehetnek.",
+          "A sidreriák délben nagyon zsúfoltak lehetnek, érkezzen korán.",
+          "A séta a Niemeyer Központhoz apálykor a legkellemesebb.",
+          "Sok üzlet sziesztát tart, ezért a vásárlást délelőttre vagy késő délutánra tervezze."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din orașul vechi poate fi denivelat.",
+          "Sidrerías pot fi foarte aglomerate la prânz, așa că ajungeți devreme.",
+          "Plimbarea spre Centrul Niemeyer este cea mai plăcută la reflux.",
+          "Multe magazine au siestă, așa că planificați-vă cumpărăturile pentru dimineață sau după-amiaza târziu."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "The sidrerías can get very busy at lunchtime, so be early.",
+          "The walk to the Niemeyer Centre is most pleasant at low tide.",
+          "Many shops observe a siesta, so plan your shopping for the morning or late afternoon."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 8.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Centro Niemeyer",
+            "hu": "Niemeyer Központ",
+            "ro": "Centrul Niemeyer",
+            "en": "Niemeyer Centre"
+          },
+          "coords": [
+            -5.914,
+            43.558
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, um die Morgen-Sonne auf den weißen Kurven zu erleben.",
+            "hu": "Kezdje itt, hogy elkapja a reggeli napfényt a fehér íveken.",
+            "ro": "Începeți de aici pentru a prinde soarele de dimineață pe curbele albe.",
+            "en": "Start here to catch the morning sun on the white curves."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de España",
+            "hu": "Plaza de España",
+            "ro": "Plaza de España",
+            "en": "Plaza de España"
+          },
+          "coords": [
+            -5.924,
+            43.556
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:43",
+          "stay_min": 25,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Sperren Sie Ihr Fahrrad ab und genießen Sie einen Kaffee im Herzen der Altstadt.",
+            "hu": "Zárja le a biciklit, és igyon meg egy kávét az óváros szívében.",
+            "ro": "Încuiați-vă bicicleta și savurați o cafea în inima orașului vechi.",
+            "en": "Lock up your bike and have a coffee in the heart of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio de Camposagrado",
+            "hu": "Camposagrado-palota",
+            "ro": "Palatul Camposagrado",
+            "en": "Camposagrado Palace"
+          },
+          "coords": [
+            -5.9245,
+            43.5565
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang vom Platz entfernt, ein barockes Meisterwerk.",
+            "hu": "Csak egy rövid séta a térről, egy barokk mestermű.",
+            "ro": "La o scurtă plimbare de piață, o capodoperă barocă.",
+            "en": "Just a short walk from the square, a baroque masterpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Calle Galiana",
+            "hu": "Galiana utca",
+            "ro": "Strada Galiana",
+            "en": "Galiana Street"
+          },
+          "coords": [
+            -5.927,
+            43.554
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:58",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Rad und genießen Sie Tapas zum Mittagessen unter den Arkaden.",
+            "hu": "Parkolja le a biciklit, és ebédeljen tapast az árkádok alatt.",
+            "ro": "Parcați-vă bicicleta și bucurați-vă de tapas pentru prânz sub arcade.",
+            "en": "Park your bike and enjoy some tapas for lunch under the arcades."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Palacio Valdés",
+            "hu": "Palacio Valdés Színház",
+            "ro": "Teatrul Palacio Valdés",
+            "en": "Palacio Valdés Theatre"
+          },
+          "coords": [
+            -5.923,
+            43.557
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:06",
+          "stay_min": 20,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Auch wenn Sie keine Vorstellung besuchen, ist die Architektur atemberaubend.",
+            "hu": "Még ha nem is megy előadásra, az építészet lenyűgöző.",
+            "ro": "Chiar dacă nu prindeți un spectacol, arhitectura este uimitoare.",
+            "en": "Even if you don't catch a show, the architecture is stunning."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Stadtgeschichte von Avilés",
+            "hu": "Avilés Várostörténeti Múzeum",
+            "ro": "Muzeul de Istorie Urbană din Avilés",
+            "en": "Museum of Urban History of Avilés"
+          },
+          "coords": [
+            -5.928,
+            43.555
+          ],
+          "category": "museums",
+          "arrive_at": "13:34",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein großartiger Ort, um der Mittagssonne zu entfliehen und etwas zu lernen.",
+            "hu": "Remek hely a déli nap elől való elmenekülésre és tanulásra.",
+            "ro": "Un loc minunat pentru a scăpa de soarele de la amiază și pentru a învăța ceva nou.",
+            "en": "A great place to escape the midday sun and learn something."
+          }
+        },
+        {
+          "name": {
+            "de": "Ferrera Park",
+            "hu": "Ferrera Park",
+            "ro": "Parcul Ferrera",
+            "en": "Ferrera Park"
+          },
+          "coords": [
+            -5.929,
+            43.558
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:10",
+          "stay_min": 65,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einer entspannten Fahrt durch diesen wunderschönen Park.",
+            "hu": "Zárja a kerékpártúrát egy pihentető tekeréssel ebben a gyönyörű parkban.",
+            "ro": "Încheiați turul pe bicicletă cu o plimbare relaxantă prin acest parc frumos.",
+            "en": "End your bike tour with a relaxing ride through this beautiful park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrradtour beginnt kühn am Centro Niemeyer und fängt die morgendliche Architektur ein. Dann überqueren Sie die Mündung, um in die Geschichte einzutauchen, mit einer Kaffeepause am Plaza de España und einem Besuch des barocken Palacio de Camposagrado. Zu Mittag genießen Sie Tapas in der Calle Galiana, dem Herzen des gesellschaftlichen Lebens von Avilés. Am Nachmittag radeln Sie am eleganten Teatro Palacio Valdés vorbei zum Museum, bevor Sie den Tag mit einer ruhigen Fahrt durch den grünen Ferrera-Park ausklingen lassen.",
+        "hu": "A kerékpártúra merészen indul a Niemeyer Központnál, megörökítve a reggeli építészetet. Ezután átkel a torkolaton, hogy elmerüljön a történelemben, egy kávészünettel a Plaza de Españán és egy látogatással a barokk Camposagrado-palotában. Ebédre tapasozhat a Calle Galianán, Avilés társadalmi életének szívében. Délután elteker az elegáns Palacio Valdés Színház mellett a múzeum felé, mielőtt egy csendes tekeréssel zárná a napot a zöldellő Ferrera Parkban.",
+        "ro": "Turul pe bicicletă începe îndrăzneț la Centrul Niemeyer, surprinzând arhitectura de dimineață. Apoi traversați estuarul pentru a vă scufunda în istorie, cu o pauză de cafea în Plaza de España și o vizită la barocul Palat Camposagrado. La prânz, vă bucurați de tapas pe Calle Galiana, inima vieții sociale din Avilés. După-amiaza, pedalați pe lângă elegantul Teatru Palacio Valdés spre muzeu, înainte de a încheia ziua cu o plimbare liniștită prin Parcul Ferrera.",
+        "en": "Your bike tour starts boldly at the Niemeyer Centre, capturing the morning architecture. You'll then cross the estuary to dive into history, with a coffee stop at Plaza de España and a visit to the baroque Camposagrado Palace. For lunch, enjoy tapas on Calle Galiana, the heart of Avilés's social life. In the afternoon, you'll cycle past the elegant Palacio Valdés Theatre to the museum, before ending the day with a peaceful ride through the verdant Ferrera Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bollos preñaos",
+            "tip": "Mit Chorizo gefüllte Brötchen, ein perfekter Snack für unterwegs."
+          },
+          {
+            "name": "Sidra",
+            "tip": "Suchen Sie nach einer 'Pumarada' (Apfelweingarten) für ein authentisches Erlebnis."
+          },
+          {
+            "name": "Pescado a la parrilla",
+            "tip": "Gegrillter Fisch, frisch aus dem Kantabrischen Meer."
+          },
+          {
+            "name": "Tarta de Manzana",
+            "tip": "Asturischer Apfelkuchen, ein süßer Abschluss für jede Mahlzeit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bollos preñaos",
+            "tip": "Chorizóval töltött zsemlék, tökéletes úti snack."
+          },
+          {
+            "name": "Sidra",
+            "tip": "Keressen egy „Pumaradát” (almáskertet) az autentikus élményért."
+          },
+          {
+            "name": "Pescado a la parrilla",
+            "tip": "Grillezett hal, frissen a Kantábriai-tengerből."
+          },
+          {
+            "name": "Tarta de Manzana",
+            "tip": "Asztúriai almás pite, édes befejezése minden étkezésnek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bollos preñaos",
+            "tip": "Chifle umplute cu chorizo, o gustare perfectă pentru drum."
+          },
+          {
+            "name": "Sidra",
+            "tip": "Căutați o 'Pumarada' (livadă de meri) pentru o experiență autentică."
+          },
+          {
+            "name": "Pescado a la parrilla",
+            "tip": "Pește la grătar, proaspăt din Marea Cantabrică."
+          },
+          {
+            "name": "Tarta de Manzana",
+            "tip": "Plăcintă asturiană cu mere, un final dulce pentru orice masă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bollos preñaos",
+            "tip": "Bread rolls filled with chorizo, a perfect on-the-go snack."
+          },
+          {
+            "name": "Sidra",
+            "tip": "Look for a 'Pumarada' (apple orchard) for an authentic experience."
+          },
+          {
+            "name": "Pescado a la parrilla",
+            "tip": "Grilled fish, fresh from the Cantabrian sea."
+          },
+          {
+            "name": "Tarta de Manzana",
+            "tip": "Asturian apple tart, a sweet end to any meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Der Turm des Centro Niemeyer",
+            "tip": "Genießen Sie den Panoramablick auf die Stadt und die Mündung.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parque de Ferrera",
+            "tip": "Ideal für eine Pause vom Radfahren, mit vielen schattigen Plätzen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Alter Friedhof von La Carriona",
+            "tip": "Ein kurzer Abstecher mit dem Rad für beeindruckende Grabkunst und Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Niemeyer Központ tornya",
+            "tip": "Élvezze a panorámás kilátást a városra és a torkolatra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ferrera Park",
+            "tip": "Ideális pihenő a biciklizés közben, sok árnyékos hellyel.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "La Carriona régi temetője",
+            "tip": "Egy rövid biciklis kitérő a lenyűgöző síremlékekért és a csendért.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Turnul Centrului Niemeyer",
+            "tip": "Bucurați-vă de vederea panoramică asupra orașului și a estuarului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Ferrera",
+            "tip": "Ideal pentru o pauză de la pedalat, cu multe locuri umbrite.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cimitirul vechi La Carriona",
+            "tip": "Un mic ocol cu bicicleta pentru artă funerară impresionantă și liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "The Tower at Niemeyer Centre",
+            "tip": "Enjoy panoramic views of the city and estuary.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ferrera Park",
+            "tip": "Ideal for a break from cycling, with plenty of shady spots.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Old Cemetery of La Carriona",
+            "tip": "A short bike detour for impressive funerary art and quiet.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle la Cámara",
+            "tip": "Die Haupteinkaufsstraße mit bekannten Marken und lokalen Geschäften."
+          },
+          {
+            "name": "Souvenirs im Centro Niemeyer",
+            "tip": "Kaufen Sie Designartikel und Bücher im Zusammenhang mit der Architektur."
+          },
+          {
+            "name": "Lokale Feinkostläden",
+            "tip": "Kaufen Sie Cabrales-Käse oder Fabada-Kits zum Mitnehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle la Cámara",
+            "tip": "A fő bevásárlóutca ismert márkákkal és helyi üzletekkel."
+          },
+          {
+            "name": "Szuvenírek a Niemeyer Központban",
+            "tip": "Vásároljon dizájntárgyakat és építészettel kapcsolatos könyveket."
+          },
+          {
+            "name": "Helyi csemegeboltok",
+            "tip": "Vásároljon Cabrales sajtot vagy Fabada készletet hazavitelre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle la Cámara",
+            "tip": "Principala stradă comercială, cu mărci cunoscute și magazine locale."
+          },
+          {
+            "name": "Suveniruri la Centrul Niemeyer",
+            "tip": "Cumpărați obiecte de design și cărți legate de arhitectură."
+          },
+          {
+            "name": "Băcănii locale",
+            "tip": "Cumpărați brânză Cabrales sau kituri de fabada pentru acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle la Cámara",
+            "tip": "The main shopping street with familiar brands and local shops."
+          },
+          {
+            "name": "Niemeyer Centre Souvenirs",
+            "tip": "Shop for design items and books related to the architecture."
+          },
+          {
+            "name": "Local Delicatessens",
+            "tip": "Buy some Cabrales cheese or fabada kits to take home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad in der Nähe des Busbahnhofs, wenn Sie keins haben.",
+          "Avilés ist relativ flach, aber einige Straßen in der Altstadt sind steil.",
+          "Nutzen Sie die Fahrradwege entlang der Mündung für eine sichere und landschaftlich reizvolle Fahrt.",
+          "Tragen Sie einen Helm und seien Sie vorsichtig auf dem Kopfsteinpflaster."
+        ],
+        "hu": [
+          "Béreljen kerékpárt a buszpályaudvar közelében, ha nincs sajátja.",
+          "Avilés viszonylag sík, de néhány utca az óvárosban meredek.",
+          "Használja a torkolat menti kerékpárutakat a biztonságos és festői utazáshoz.",
+          "Viseljen sisakot, és legyen óvatos a macskaköveken."
+        ],
+        "ro": [
+          "Închiriați o bicicletă lângă stația de autobuz dacă nu aveți una.",
+          "Avilés este relativ plat, dar unele străzi din orașul vechi sunt abrupte.",
+          "Folosiți pistele de biciclete de-a lungul estuarului pentru o plimbare sigură și pitorească.",
+          "Purtați cască și fiți atenți pe pavaj."
+        ],
+        "en": [
+          "Rent a bike near the bus station if you don't have one.",
+          "Avilés is relatively flat, but some streets in the old town are steep.",
+          "Use the bike lanes along the estuary for a safe and scenic ride.",
+          "Wear a helmet and be careful on the cobblestones."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken in der Nähe des Centro Niemeyer",
+            "hu": "Parkolás a Niemeyer Központ közelében",
+            "ro": "Parcare lângă Centrul Niemeyer",
+            "en": "Parking near Niemeyer Centre"
+          },
+          "coords": [
+            -5.913,
+            43.559
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Starten Sie auf dieser Seite der Mündung. Es gibt normalerweise genügend Parkplätze.",
+            "hu": "Kezdjen a torkolat ezen oldalán. Általában van elég parkolóhely.",
+            "ro": "Începeți de pe această parte a estuarului. De obicei, există suficientă parcare.",
+            "en": "Start on this side of the estuary. There is usually ample parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro Niemeyer",
+            "hu": "Niemeyer Központ",
+            "ro": "Centrul Niemeyer",
+            "en": "Niemeyer Centre"
+          },
+          "coords": [
+            -5.914,
+            43.558
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:12",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die futuristische Architektur und den Aussichtsturm.",
+            "hu": "Fedezze fel a futurisztikus építészetet és a kilátótornyot.",
+            "ro": "Explorați arhitectura futuristă și turnul de observație.",
+            "en": "Explore the futuristic architecture and the observation tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkhaus im Zentrum",
+            "hu": "Parkolóház a központban",
+            "ro": "Parcare în centru",
+            "en": "City Centre Parking"
+          },
+          "coords": [
+            -5.928,
+            43.553
+          ],
+          "category": "transport",
+          "arrive_at": "10:57",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Rest des Tages und erkunden Sie die Altstadt zu Fuß.",
+            "hu": "Parkoljon itt a nap hátralévő részére, és fedezze fel az óvárost gyalog.",
+            "ro": "Parcați aici pentru restul zilei și explorați orașul vechi pe jos.",
+            "en": "Park here for the rest of the day and explore the old town on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de España & Calle Galiana",
+            "hu": "Plaza de España és Galiana utca",
+            "ro": "Plaza de España și Strada Galiana",
+            "en": "Plaza de España & Galiana Street"
+          },
+          "coords": [
+            -5.925,
+            43.555
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für einen Spaziergang, einen Kaffee und ein Mittagessen in diesem belebten Viertel.",
+            "hu": "Szánjon időt egy sétára, egy kávéra és egy ebédre ezen a nyüzsgő területen.",
+            "ro": "Luați-vă timp pentru o plimbare, o cafea și prânzul în această zonă plină de viață.",
+            "en": "Take your time for a stroll, a coffee, and lunch in this bustling area."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Nicolás & Palacio de Camposagrado",
+            "hu": "Szent Miklós-templom és Camposagrado-palota",
+            "ro": "Biserica San Nicolás și Palatul Camposagrado",
+            "en": "San Nicolás Church & Camposagrado Palace"
+          },
+          "coords": [
+            -5.9255,
+            43.5567
+          ],
+          "category": "historical",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden historischen Juwelen liegen nahe beieinander.",
+            "hu": "Ez a két történelmi gyöngyszem közel van egymáshoz.",
+            "ro": "Aceste două bijuterii istorice sunt situate aproape una de cealaltă.",
+            "en": "These two historical gems are located close to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Ferrera Park",
+            "hu": "Ferrera Park",
+            "ro": "Parcul Ferrera",
+            "en": "Ferrera Park"
+          },
+          "coords": [
+            -5.929,
+            43.558
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:40",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannender Abschluss des Tages. Machen Sie einen Spaziergang zurück zum Parkhaus durch den Park.",
+            "hu": "A nap pihentető lezárása. Sétáljon vissza a parkolóházhoz a parkon keresztül.",
+            "ro": "Un final relaxant al zilei. Faceți o plimbare înapoi la parcare prin parc.",
+            "en": "A relaxing end to the day. Take a stroll back to the car park through the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit dem Auto am futuristischen Centro Niemeyer, wo Sie bequem parken und das moderne Wahrzeichen von Avilés erkunden können. Am Vormittag fahren Sie ins Herz der Stadt, parken Ihr Auto für den Rest des Tages und tauchen in die Vergangenheit ein. Sie verbringen den Mittag damit, die Plaza de España und die Calle Galiana zu Fuß zu erkunden, wo Sie zu Mittag essen. Am Nachmittag spazieren Sie zu den historischen Stätten, bevor Sie im weitläufigen Ferrera-Park Entspannung finden, einem grünen Paradies mitten in der Stadt.",
+        "hu": "A napja autóval indul a futurisztikus Niemeyer Központnál, ahol kényelmesen leparkolhat, hogy felfedezze Avilés modern jelképét. Délelőtt a város szívébe hajt, leteszi az autót a nap hátralévő részére, és elmerül a múltban. A délt gyalogosan fedezi fel a Plaza de Españát és a Calle Galianát, ahol megebédel. Délután átsétál a történelmi helyszínekre, mielőtt kikapcsolódna a terjedelmes Ferrera Parkban, egy zöld oázisban a város közepén.",
+        "ro": "Ziua dvs. începe cu mașina la futuristul Centru Niemeyer, unde parcați convenabil pentru a explora reperul modern al orașului Avilés. Înainte de prânz, conduceți în inima orașului, lăsați mașina pentru restul zilei și vă scufundați în trecut. Vă petreceți prânzul explorând pe jos Plaza de España și Calle Galiana, unde luați masa. După-amiaza, vă plimbați spre siturile istorice înainte de a găsi relaxare în vastul Parc Ferrera, un paradis verde în mijlocul orașului.",
+        "en": "Your day by car begins at the futuristic Niemeyer Centre, where you park conveniently to explore Avilés's modern landmark. Mid-morning, you drive into the heart of the city, park your car for the day, and immerse yourself in the past. You'll spend midday exploring Plaza de España and Calle Galiana on foot, where you'll have lunch. In the afternoon, you stroll to the historic sites before finding relaxation in the expansive Ferrera Park, a green haven in the middle of the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cachopo",
+            "tip": "Zwei Kalbsschnitzel gefüllt mit Schinken und Käse. Bringen Sie Appetit mit!"
+          },
+          {
+            "name": "Sidra Natural",
+            "tip": "Fragen Sie nach einer Vorführung, wie man ihn richtig einschenkt (escanciar)."
+          },
+          {
+            "name": "Pastel de Cabracho",
+            "tip": "Ein herzhafter Fischpudding, der oft als Vorspeise serviert wird."
+          },
+          {
+            "name": "Frixuelos",
+            "tip": "Dünne Crêpes, die oft mit Zucker oder Sahne serviert werden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cachopo",
+            "tip": "Két borjúszelet sonkával és sajttal töltve. Hozzon étvágyat!"
+          },
+          {
+            "name": "Sidra Natural",
+            "tip": "Kérjen bemutatót a helyes töltésről (escanciar)."
+          },
+          {
+            "name": "Pastel de Cabracho",
+            "tip": "Sós halpuding, amelyet gyakran előételként szolgálnak fel."
+          },
+          {
+            "name": "Frixuelos",
+            "tip": "Vékony palacsinta, amelyet gyakran cukorral vagy tejszínnel tálalnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cachopo",
+            "tip": "Două fileuri de vițel umplute cu șuncă și brânză. Veniți cu poftă de mâncare!"
+          },
+          {
+            "name": "Sidra Natural",
+            "tip": "Cereți o demonstrație despre cum se toarnă corect (escanciar)."
+          },
+          {
+            "name": "Pastel de Cabracho",
+            "tip": "O budincă sărată de pește, adesea servită ca aperitiv."
+          },
+          {
+            "name": "Frixuelos",
+            "tip": "Clătite subțiri, adesea servite cu zahăr sau frișcă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cachopo",
+            "tip": "Two veal fillets stuffed with ham and cheese. Bring an appetite!"
+          },
+          {
+            "name": "Sidra Natural",
+            "tip": "Ask for a demonstration on how to pour it correctly (escanciar)."
+          },
+          {
+            "name": "Pastel de Cabracho",
+            "tip": "A savory fish pudding, often served as a starter."
+          },
+          {
+            "name": "Frixuelos",
+            "tip": "Thin crêpes often served with sugar or cream."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Playa de Salinas",
+            "tip": "Eine kurze Autofahrt entfernt für einen atemberaubenden Sonnenuntergang am Meer.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parque de Ferrera",
+            "tip": "So groß, dass man immer eine ruhige Ecke zum Entspannen findet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Die Gassen hinter der Kirche San Nicolás",
+            "tip": "Ein ruhiger Spaziergang abseits der Hauptplätze.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Salinas strand",
+            "tip": "Egy rövid autóútra van egy lélegzetelállító naplementéért az óceánnál.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ferrera Park",
+            "tip": "Elég nagy ahhoz, hogy mindig találjon egy csendes zugot a pihenéshez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Szent Miklós-templom mögötti sikátorok",
+            "tip": "Egy csendes séta a fő terektől távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Salinas",
+            "tip": "La o scurtă distanță cu mașina pentru un apus de soare uimitor la ocean.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Ferrera",
+            "tip": "Suficient de mare pentru a găsi întotdeauna un colț liniștit pentru relaxare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Străduțele din spatele Bisericii San Nicolás",
+            "tip": "O plimbare liniștită departe de piețele principale.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Salinas Beach",
+            "tip": "A short drive away for a stunning ocean sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ferrera Park",
+            "tip": "Large enough that you can always find a quiet corner to relax.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "The alleys behind San Nicolás Church",
+            "tip": "A quiet stroll away from the main squares.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "El Atrio Einkaufszentrum",
+            "tip": "Wenn Sie überdachtes Einkaufen bevorzugen, bietet dieses Zentrum eine Vielzahl von Geschäften."
+          },
+          {
+            "name": "Handwerksläden in der Altstadt",
+            "tip": "Suchen Sie nach einzigartigen, handgefertigten asturischen Souvenirs."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Ideal, um lokale Köstlichkeiten für zu Hause zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "El Atrio bevásárlóközpont",
+            "tip": "Ha a fedett vásárlást részesíti előnyben, ez a központ számos üzletet kínál."
+          },
+          {
+            "name": "Kézműves boltok az óvárosban",
+            "tip": "Keressen egyedi, kézzel készített asztúriai szuveníreket."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Ideális helyi finomságok vásárlására hazavitelre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial El Atrio",
+            "tip": "Dacă preferați cumpărăturile în interior, acest centru oferă o varietate de magazine."
+          },
+          {
+            "name": "Magazine de artizanat în orașul vechi",
+            "tip": "Căutați suveniruri asturiene unice, realizate manual."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Ideal pentru a cumpăra delicatese locale pentru acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "El Atrio Shopping Centre",
+            "tip": "If you prefer indoor shopping, this centre offers a variety of stores."
+          },
+          {
+            "name": "Artisan shops in the Old Town",
+            "tip": "Look for unique, handmade Asturian souvenirs."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Ideal for buying local delicacies to take home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkhäuser sind gut ausgeschildert. Nutzen Sie sie, um die Parkplatzsuche auf der Straße zu vermeiden.",
+          "Die Zufahrt zur Altstadt kann für Nicht-Anwohner eingeschränkt sein, achten Sie auf die Schilder.",
+          "Planen Sie Ihre Route im Voraus, um Einbahnstraßen zu vermeiden.",
+          "Ein Auto gibt Ihnen die Flexibilität, nahegelegene Strände wie Salinas oder malerische Dörfer wie Cudillero zu besuchen."
+        ],
+        "hu": [
+          "A parkolóházak jól ki vannak táblázva. Használja őket, hogy elkerülje az utcai parkolóhely-keresést.",
+          "Az óvárosba való behajtás korlátozott lehet a nem helyi lakosok számára, figyeljen a táblákra.",
+          "Tervezze meg előre az útvonalat az egyirányú utcák elkerülése érdekében.",
+          "Az autó rugalmasságot ad, hogy meglátogassa a közeli strandokat, mint a Salinas, vagy festői falvakat, mint a Cudillero."
+        ],
+        "ro": [
+          "Parcările supraetajate sunt bine semnalizate. Folosiți-le pentru a evita căutarea unui loc de parcare pe stradă.",
+          "Accesul în orașul vechi poate fi restricționat pentru nerezidenți, fiți atenți la semne.",
+          "Planificați-vă traseul în avans pentru a evita străzile cu sens unic.",
+          "O mașină vă oferă flexibilitatea de a vizita plajele din apropiere, cum ar fi Salinas, sau sate pitorești precum Cudillero."
+        ],
+        "en": [
+          "Parking garages are well-signposted. Use them to avoid searching for street parking.",
+          "Access to the old town can be restricted for non-residents, pay attention to the signs.",
+          "Plan your route in advance to avoid one-way streets.",
+          "A car gives you the flexibility to visit nearby beaches like Salinas or picturesque villages like Cudillero."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 5.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bushaltestelle Plaza de la Merced",
+            "hu": "Plaza de la Merced buszmegálló",
+            "ro": "Stația de autobuz Plaza de la Merced",
+            "en": "Plaza de la Merced Bus Stop"
+          },
+          "coords": [
+            -5.922,
+            43.558
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, in der Nähe des Theaters und am Rande der Altstadt.",
+            "hu": "Kezdje itt, a színház közelében és az óváros szélén.",
+            "ro": "Începeți de aici, aproape de teatru și la marginea orașului vechi.",
+            "en": "Start here, near the theatre and on the edge of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Palacio Valdés",
+            "hu": "Palacio Valdés Színház",
+            "ro": "Teatrul Palacio Valdés",
+            "en": "Palacio Valdés Theatre"
+          },
+          "coords": [
+            -5.923,
+            43.557
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses neobarocke Juwel, bevor Sie ins Zentrum gehen.",
+            "hu": "Csodálja meg ezt az újbarokk gyöngyszemet, mielőtt bemegy a központba.",
+            "ro": "Admirați această bijuterie neobarocă înainte de a vă îndrepta spre centru.",
+            "en": "Admire this neo-baroque gem before heading into the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de España & Altstadt",
+            "hu": "Plaza de España és óváros",
+            "ro": "Plaza de España și Orașul Vechi",
+            "en": "Plaza de España & Old Town"
+          },
+          "coords": [
+            -5.924,
+            43.556
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den Straßen rund um den Hauptplatz. Mittagessen hier.",
+            "hu": "Vesszen el a főteret körülvevő utcákban. Ebédeljen itt.",
+            "ro": "Pierdeți-vă pe străzile din jurul pieței principale. Luați prânzul aici.",
+            "en": "Get lost in the streets surrounding the main square. Have lunch here."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle Avilés Estación",
+            "hu": "Avilés Estación buszmegálló",
+            "ro": "Stația de autobuz Avilés Estación",
+            "en": "Avilés Estación Bus Stop"
+          },
+          "coords": [
+            -5.92,
+            43.553
+          ],
+          "category": "transport",
+          "arrive_at": "12:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie von hier einen Bus in Richtung Niemeyer.",
+            "hu": "Innen induljon busszal a Niemeyer felé.",
+            "ro": "De aici, luați un autobuz spre Niemeyer.",
+            "en": "From here, catch a bus towards Niemeyer."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro Niemeyer",
+            "hu": "Niemeyer Központ",
+            "ro": "Centrul Niemeyer",
+            "en": "Niemeyer Centre"
+          },
+          "coords": [
+            -5.914,
+            43.558
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Verbringen Sie den Nachmittag damit, diesen Kulturkomplex zu erkunden.",
+            "hu": "Töltse a délutánt ennek a kulturális komplexumnak a felfedezésével.",
+            "ro": "Petreceți după-amiaza explorând acest complex cultural.",
+            "en": "Spend the afternoon exploring this cultural complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Ferrera Park",
+            "hu": "Ferrera Park",
+            "ro": "Parcul Ferrera",
+            "en": "Ferrera Park"
+          },
+          "coords": [
+            -5.929,
+            43.558
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zurück ins Zentrum für einen entspannten Abschluss im Park.",
+            "hu": "Menjen vissza busszal a központba egy pihentető befejezésért a parkban.",
+            "ro": "Luați un autobuz înapoi în centru pentru un final relaxant în parc.",
+            "en": "Take a bus back towards the centre for a relaxing finish in the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Reise mit öffentlichen Verkehrsmitteln beginnt im Herzen der Altstadt, wo Sie nach einem kurzen Spaziergang vom Busbahnhof aus das Theater bewundern. Der Vormittag ist dem Labyrinth der mittelalterlichen Straßen rund um die Plaza de España gewidmet. Nach dem Mittagessen nehmen Sie einen Bus über die Mündung zum beeindruckenden Centro Niemeyer. Verbringen Sie den Nachmittag damit, seine einzigartige Architektur zu bewundern. Für Ihren letzten Halt bringt Sie ein weiterer Bus zurück zum grünen Ferrera-Park, ein perfekter Ort, um die Erlebnisse des Tages vor der Heimfahrt zu verarbeiten.",
+        "hu": "A tömegközlekedési utazás az óváros szívében kezdődik, ahol a buszmegállótól egy rövid sétára megcsodálhatja a színházat. A délelőttöt a Plaza de España körüli középkori utcák labirintusában tölti. Ebéd után busszal átkel a torkolaton a lenyűgöző Niemeyer Központhoz. Töltse a délutánt az egyedi építészet csodálásával. Az utolsó megállóhoz egy másik busz visszaviszi a zöldellő Ferrera Parkba, amely tökéletes hely a nap élményeinek feldolgozására, mielőtt hazaindulna.",
+        "ro": "Călătoria cu transportul public începe în inima orașului vechi, admirând teatrul după o scurtă plimbare de la stația de autobuz. Dimineața este dedicată labirintului de străzi medievale din jurul Plaza de España. După prânz, luați un autobuz peste estuar spre impresionantul Centru Niemeyer. Petreceți după-amiaza admirându-i arhitectura unică. Pentru ultima oprire, un alt autobuz vă duce înapoi la Parcul Ferrera, un loc perfect pentru a reflecta asupra zilei înainte de a vă întoarce acasă.",
+        "en": "Your journey by transit starts in the heart of the old town, admiring the theatre after a short walk from the bus stop. The morning is dedicated to the labyrinth of medieval streets around Plaza de España. After lunch, you'll take a bus across the estuary to the impressive Niemeyer Centre. Spend the afternoon admiring its unique architecture. For your final stop, another bus takes you back towards the verdant Ferrera Park, a perfect spot to reflect on the day's experiences before heading home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Menú del Día",
+            "tip": "Viele Restaurants bieten ein preiswertes Mittagsmenü mit drei Gängen an."
+          },
+          {
+            "name": "Sidra",
+            "tip": "Probieren Sie es in einer traditionellen Sidrería in der Calle Galiana."
+          },
+          {
+            "name": "Churros con Chocolate",
+            "tip": "Ein klassischer spanischer Genuss, perfekt für eine Nachmittagspause."
+          },
+          {
+            "name": "Empanada Asturiana",
+            "tip": "Eine herzhafte Pastete, gefüllt mit Thunfisch, Fleisch oder Kabeljau."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Menú del Día",
+            "tip": "Sok étterem kínál kedvező árú, háromfogásos napi menüt."
+          },
+          {
+            "name": "Sidra",
+            "tip": "Kóstolja meg egy hagyományos sidreriában a Calle Galianán."
+          },
+          {
+            "name": "Churros con Chocolate",
+            "tip": "Klasszikus spanyol finomság, tökéletes egy délutáni szünetre."
+          },
+          {
+            "name": "Empanada Asturiana",
+            "tip": "Sós pite, tonhallal, hússal vagy tőkehallal töltve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Menú del Día",
+            "tip": "Multe restaurante oferă un meniu de prânz cu trei feluri, la un preț avantajos."
+          },
+          {
+            "name": "Sidra",
+            "tip": "Încercați-l la o sidrería tradițională de pe Calle Galiana."
+          },
+          {
+            "name": "Churros con Chocolate",
+            "tip": "Un deliciu spaniol clasic, perfect pentru o pauză de după-amiază."
+          },
+          {
+            "name": "Empanada Asturiana",
+            "tip": "O plăcintă sărată umplută cu ton, carne sau cod."
+          }
+        ],
+        "en": [
+          {
+            "name": "Menú del Día",
+            "tip": "Many restaurants offer a great value three-course lunch menu."
+          },
+          {
+            "name": "Sidra",
+            "tip": "Try it at a traditional sidrería on Calle Galiana."
+          },
+          {
+            "name": "Churros con Chocolate",
+            "tip": "A classic Spanish treat, perfect for an afternoon break."
+          },
+          {
+            "name": "Empanada Asturiana",
+            "tip": "A savory pie filled with tuna, meat, or cod."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque de Ferrera",
+            "tip": "Ein einfacher Zugang mit dem Bus und eine Oase der Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Die Promenade am Centro Niemeyer",
+            "tip": "Ein ruhiger Ort, um auf die Altstadt zurückzublicken.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Innerhalb der Kirche San Nicolás",
+            "tip": "Ein Moment der Stille im historischen Zentrum.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ferrera Park",
+            "tip": "Könnyen megközelíthető busszal, és a nyugalom oázisa.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Niemeyer Központ melletti sétány",
+            "tip": "Csendes hely, ahonnan visszatekinthet az óvárosra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Szent Miklós-templom belseje",
+            "tip": "A csend pillanata a történelmi központban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Ferrera",
+            "tip": "Ușor accesibil cu autobuzul și o oază de liniște.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Promenada de la Centrul Niemeyer",
+            "tip": "Un loc liniștit pentru a privi înapoi spre orașul vechi.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Interiorul Bisericii San Nicolás",
+            "tip": "Un moment de liniște în centrul istoric.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ferrera Park",
+            "tip": "Easily accessible by bus and an oasis of calm.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "The promenade at the Niemeyer Centre",
+            "tip": "A quiet spot to look back at the old town.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Inside the Church of San Nicolás",
+            "tip": "A moment of silence in the historic center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle la Cámara",
+            "tip": "Vom Busbahnhof aus leicht zu Fuß erreichbar, die Haupteinkaufsstraße."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "In der Nähe der Altstadt gelegen, ideal für einen schnellen Besuch."
+          },
+          {
+            "name": "Kleine Geschäfte in der Altstadt",
+            "tip": "Entdecken Sie einzigartige Fundstücke in den Gassen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle la Cámara",
+            "tip": "A buszpályaudvartól könnyen megközelíthető, a fő bevásárlóutca."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Az óváros közelében található, ideális egy gyors látogatáshoz."
+          },
+          {
+            "name": "Kis boltok az óvárosban",
+            "tip": "Fedezzen fel egyedi leleteket a sikátorokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle la Cámara",
+            "tip": "Ușor de parcurs pe jos de la stația de autobuz, strada principală pentru cumpărături."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Situată lângă orașul vechi, ideală pentru o vizită rapidă."
+          },
+          {
+            "name": "Magazine mici în Orașul Vechi",
+            "tip": "Descoperiți comori unice pe alei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle la Cámara",
+            "tip": "An easy walk from the bus station, the main shopping street."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Located near the old town, ideal for a quick visit."
+          },
+          {
+            "name": "Small shops in the Old Town",
+            "tip": "Discover unique finds in the alleyways."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine 'Bono-Bus'-Karte für ermäßigte Fahrpreise.",
+          "Laden Sie die lokale Bus-App herunter, um Fahrpläne in Echtzeit zu sehen.",
+          "Busse können zu Stoßzeiten voll sein, planen Sie entsprechend.",
+          "Überprüfen Sie den Fahrplan des letzten Busses, besonders wenn Sie am Centro Niemeyer sind."
+        ],
+        "hu": [
+          "Vásároljon „Bono-Bus” kártyát a kedvezményes utazásért.",
+          "Töltse le a helyi buszalkalmazást a valós idejű menetrendekért.",
+          "A buszok csúcsidőben zsúfoltak lehetnek, tervezzen ennek megfelelően.",
+          "Ellenőrizze az utolsó busz menetrendjét, különösen, ha a Niemeyer Központnál van."
+        ],
+        "ro": [
+          "Cumpărați un card 'Bono-Bus' pentru tarife reduse.",
+          "Descărcați aplicația locală de autobuz pentru a vedea orarele în timp real.",
+          "Autobuzele pot fi aglomerate la orele de vârf, planificați-vă în consecință.",
+          "Verificați programul ultimului autobuz, mai ales dacă vă aflați la Centrul Niemeyer."
+        ],
+        "en": [
+          "Buy a 'Bono-Bus' card for discounted fares.",
+          "Download the local bus app to see real-time schedules.",
+          "Buses can be crowded during peak hours, plan accordingly.",
+          "Check the last bus schedule, especially when you are at the Niemeyer Centre."
+        ]
+      }
+    }
+  }
+}

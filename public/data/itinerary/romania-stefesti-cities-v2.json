@@ -1,0 +1,1508 @@
+{
+  "city_id": "romania-stefesti-cities-v2",
+  "anchor": {
+    "name": "Ștefești",
+    "coords": [
+      26.06,
+      45.26
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "15:46",
+      "total_km": 3.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Park",
+            "hu": "Központi Park",
+            "ro": "Parcul Central",
+            "en": "Central Park"
+          },
+          "coords": [
+            26.06,
+            45.26
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Tag mit einem Kaffee von einem lokalen Kiosk zu beginnen.",
+            "hu": "Tökéletes hely a nap kezdéséhez egy kávéval a helyi kioszkból.",
+            "ro": "Locul perfect pentru a începe ziua cu o cafea de la un chioșc local.",
+            "en": "The perfect spot to start your day with a coffee from a local kiosk."
+          }
+        },
+        {
+          "name": {
+            "de": "Heldenmahnmal Ștefești",
+            "hu": "Ștefești-i Hősök Emlékműve",
+            "ro": "Monumentul Eroilor din Ștefești",
+            "en": "Ștefești Heroes' Monument"
+          },
+          "coords": [
+            26.059,
+            45.259
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:41",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Moment der Stille, um die lokale Geschichte zu ehren. Die Inschriften sind bewegend.",
+            "hu": "Egy csendes pillanat a helyi történelem tiszteletére. A feliratok megindítóak.",
+            "ro": "Un moment de reculegere pentru a onora istoria locală. Inscripțiile sunt emoționante.",
+            "en": "A moment of silence to honor the local history. The inscriptions are moving."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Nikolaus-Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "St. Nicholas Church"
+          },
+          "coords": [
+            26.061,
+            45.261
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die byzantinisch beeinflussten Fresken im Inneren.",
+            "hu": "Figyelje meg a bizánci hatású belső freskókat.",
+            "ro": "Observați frescele de influență bizantină din interior.",
+            "en": "Look for the Byzantine-influenced frescoes inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Traditionelle Bauernhäuser",
+            "hu": "Hagyományos Parasztházak",
+            "ro": "Case Țărănești Tradiționale",
+            "en": "Traditional Peasant Houses"
+          },
+          "coords": [
+            26.063,
+            45.262
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Einige Höfe sind für Besucher geöffnet. Fragen Sie höflich nach einem Einblick.",
+            "hu": "Néhány udvar nyitva áll a látogatók előtt. Udvariasan kérjen engedélyt a betekintésre.",
+            "ro": "Unele curți sunt deschise vizitatorilor. Întrebați politicos dacă puteți arunca o privire.",
+            "en": "Some courtyards are open to visitors. Ask politely for a look inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Vărbilău-Fluss",
+            "hu": "Vărbilău-folyó",
+            "ro": "Râul Vărbilău",
+            "en": "Vărbilău River"
+          },
+          "coords": [
+            26.055,
+            45.265
+          ],
+          "category": "natural features",
+          "arrive_at": "12:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für ein Mittagspicknick. Bringen Sie eine Decke mit.",
+            "hu": "Nagyszerű hely egy ebédpiknikhez. Hozzon magával egy takarót.",
+            "ro": "Un loc excelent pentru un picnic la prânz. Aduceți o pătură.",
+            "en": "A great spot for a lunch picnic. Bring a blanket."
+          }
+        },
+        {
+          "name": {
+            "de": "Ștefești-Aussichtspunkt",
+            "hu": "Ștefești-kilátó",
+            "ro": "Punct de belvedere Ștefești",
+            "en": "Ștefești Viewpoint"
+          },
+          "coords": [
+            26.07,
+            45.265
+          ],
+          "category": "natural features",
+          "arrive_at": "14:22",
+          "stay_min": 55,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für den Panoramablick auf das Tal. Am besten bei Sonnenuntergang.",
+            "hu": "Megéri a kaptatót a völgyre nyíló panorámáért. Naplementekor a legszebb.",
+            "ro": "Urcușul merită pentru vederea panoramică asupra văii. Cel mai frumos la apus.",
+            "en": "The climb is worth it for the panoramic view of the valley. Best at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Ștefești, dem Zentralen Park. Am Morgen erkunden Sie das historische Zentrum mit seinem ergreifenden Denkmal und der alten Kirche. Später schlendern Sie durch Gassen mit traditionellen Häusern. Am Nachmittag führt Sie ein Spaziergang zum Vărbilău-Fluss für eine ruhige Pause in der Natur. Der Tag endet mit einem leichten Aufstieg zum Aussichtspunkt, der Sie mit einer atemberaubenden Aussicht belohnt.",
+        "hu": "Kezdje a napot Ștefești szívében, a Központi Parkban. Délelőtt fedezze fel a történelmi központot a megindító emlékművel és a régi templommal. Később sétáljon a hagyományos házakkal szegélyezett utcákon. Délután a Vărbilău folyóhoz vezető séta kínál csendes pihenést a természetben. A napot egy könnyű emelkedő zárja a kilátóponthoz, ahonnan lélegzetelállító panoráma nyílik.",
+        "ro": "Începeți ziua în inima Ștefeștiului, Parcul Central. Dimineața explorați centrul istoric, cu monumentul său emoționant și biserica veche. Mai târziu, plimbați-vă pe aleile cu case tradiționale. După-amiaza, o plimbare vă duce la râul Vărbilău pentru o pauză liniștită în natură. Ziua se încheie cu o urcare ușoară la punctul de belvedere, care vă recompensează cu o priveliște uimitoare.",
+        "en": "Start your day in the heart of Ștefești, the Central Park. In the morning, explore the historic center with its poignant monument and old church. Later, stroll through alleys with traditional houses. In the afternoon, a walk takes you to the Vărbilău River for a quiet break in nature. The day concludes with a light climb to the viewpoint, rewarding you with a stunning view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mămăligă cu brânză și smântână",
+            "tip": "Ein Muss in jedem lokalen Restaurant. Einfach, aber köstlich."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Traditionelle Kohlrouladen, oft als Tagesgericht erhältlich."
+          },
+          {
+            "name": "Cașcaval pane",
+            "tip": "Panierter und gebratener Käse, ein herzhafter Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mămăligă cu brânză și smântână",
+            "tip": "Minden helyi étteremben kötelező. Egyszerű, de finom."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Hagyományos töltött káposzta, gyakran kapható napi menüként."
+          },
+          {
+            "name": "Cașcaval pane",
+            "tip": "Rántott sajt, egy kiadós harapnivaló."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mămăligă cu brânză și smântână",
+            "tip": "O necesitate în orice restaurant local. Simplu, dar delicios."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Sărmăluțe tradiționale, adesea disponibile ca meniul zilei."
+          },
+          {
+            "name": "Cașcaval pane",
+            "tip": "Cașcaval pane, o gustare consistentă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mămăligă cu brânză și smântână",
+            "tip": "A must-try at any local restaurant. Simple yet delicious."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Traditional cabbage rolls, often available as a daily special."
+          },
+          {
+            "name": "Cașcaval pane",
+            "tip": "Breaded and fried cheese, a hearty snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Vărbilău-Flusses",
+            "tip": "Finden Sie eine ruhige Bank und lauschen Sie dem Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Buchenwald von Ștefești",
+            "tip": "Ein Spaziergang unter den hohen Bäumen ist sehr beruhigend.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ștefești-Aussichtspunkt bei Sonnenuntergang",
+            "tip": "Der beste Ort, um den Tag in Stille ausklingen zu lassen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Vărbilău folyó partja",
+            "tip": "Keressen egy csendes padot, és hallgassa a víz csobogását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ștefești-i bükkerdő",
+            "tip": "Egy séta a magas fák alatt nagyon megnyugtató.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ștefești-kilátó naplementekor",
+            "tip": "A legjobb hely a nap csendes lezárásához.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Vărbilău",
+            "tip": "Găsiți o bancă liniștită și ascultați susurul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pădurea de fag din Ștefești",
+            "tip": "O plimbare pe sub copacii înalți este foarte liniștitoare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Punct de belvedere Ștefești la apus",
+            "tip": "Cel mai bun loc pentru a încheia ziua în liniște.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Vărbilău River",
+            "tip": "Find a quiet bench and listen to the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ștefești Beech Forest",
+            "tip": "A walk under the tall trees is very calming.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ștefești Viewpoint at sunset",
+            "tip": "The best place to end the day in silence.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Suchen Sie nach Schildern, die 'Miere de vânzare' (Honig zu verkaufen) anzeigen."
+          },
+          {
+            "name": "Handgewebte Textilien",
+            "tip": "Einige Haushalte verkaufen traditionelle Tischdecken oder Handtücher."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Keresse a 'Miere de vânzare' (Méz eladó) táblákat."
+          },
+          {
+            "name": "Kézzel szőtt textíliák",
+            "tip": "Néhány háztartásban hagyományos terítőket vagy törölközőket árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Căutați semne care indică 'Miere de vânzare'."
+          },
+          {
+            "name": "Textile țesute manual",
+            "tip": "Unele gospodării vând fețe de masă sau prosoape tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Look for signs indicating 'Miere de vânzare' (Honey for sale)."
+          },
+          {
+            "name": "Handwoven Textiles",
+            "tip": "Some households sell traditional tablecloths or towels."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie Wasser und Snacks mit, besonders für den Weg zum Aussichtspunkt.",
+          "Die Einheimischen sind freundlich, ein 'Bună ziua' (Guten Tag) wird geschätzt.",
+          "Prüfen Sie die Wettervorhersage; die Wege können nach Regen rutschig sein."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "Vigyen magával vizet és harapnivalót, különösen a kilátóhoz vezető útra.",
+          "A helyiek barátságosak, egy 'Bună ziua' (Jó napot) üdvözlést értékelnek.",
+          "Ellenőrizze az időjárás-előrejelzést; az ösvények eső után csúszósak lehetnek."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe jos.",
+          "Luați apă și gustări, mai ales pentru drumul spre punctul de belvedere.",
+          "Localnicii sunt prietenoși, un 'Bună ziua' este apreciat.",
+          "Verificați prognoza meteo; potecile pot fi alunecoase după ploaie."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be walking a lot.",
+          "Bring water and snacks, especially for the trail to the viewpoint.",
+          "Locals are friendly, a 'Bună ziua' (Good day) is appreciated.",
+          "Check the weather forecast; paths can be slippery after rain."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Park",
+            "hu": "Központi Park",
+            "ro": "Parcul Central",
+            "en": "Central Park"
+          },
+          "coords": [
+            26.06,
+            45.26
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie hier, pumpen Sie Ihre Reifen auf und genießen Sie die Morgenluft.",
+            "hu": "Induljon innen, fújja fel a kerekeket és élvezze a reggeli levegőt.",
+            "ro": "Începeți de aici, umflați-vă roțile și bucurați-vă de aerul de dimineață.",
+            "en": "Start here, pump up your tires, and enjoy the morning air."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Nikolaus-Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "St. Nicholas Church"
+          },
+          "coords": [
+            26.061,
+            45.261
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:33",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer Halt, um die spirituelle Atmosphäre des Dorfes zu spüren.",
+            "hu": "Egy rövid megálló, hogy átérezze a falu spirituális hangulatát.",
+            "ro": "O scurtă oprire pentru a simți atmosfera spirituală a satului.",
+            "en": "A short stop to feel the spiritual atmosphere of the village."
+          }
+        },
+        {
+          "name": {
+            "de": "Vărbilău-Fluss",
+            "hu": "Vărbilău-folyó",
+            "ro": "Râul Vărbilău",
+            "en": "Vărbilău River"
+          },
+          "coords": [
+            26.055,
+            45.265
+          ],
+          "category": "natural features",
+          "arrive_at": "10:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Folgen Sie dem Feldweg am Flussufer für eine malerische Fahrt.",
+            "hu": "Kövesse a folyóparti földutat egy festői útvonalért.",
+            "ro": "Urmați drumul de pământ de pe malul râului pentru o plimbare pitorească.",
+            "en": "Follow the dirt path along the riverbank for a scenic ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Vărbilău-Tal",
+            "hu": "Vărbilău-völgy",
+            "ro": "Valea Vărbilăului",
+            "en": "Vărbilău Valley"
+          },
+          "coords": [
+            26.07,
+            45.27
+          ],
+          "category": "natural features",
+          "arrive_at": "10:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und machen Sie eine kurze Wanderung auf einem der markierten Wege.",
+            "hu": "Zárja le a kerékpárt és tegyen egy rövid túrát a kijelölt ösvények egyikén.",
+            "ro": "Încuiați-vă bicicleta și faceți o drumeție scurtă pe una dintre potecile marcate.",
+            "en": "Lock your bike and take a short hike on one of the marked trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Ștefești-Aussichtspunkt",
+            "hu": "Ștefești-kilátó",
+            "ro": "Punct de belvedere Ștefești",
+            "en": "Ștefești Viewpoint"
+          },
+          "coords": [
+            26.08,
+            45.265
+          ],
+          "category": "natural features",
+          "arrive_at": "12:38",
+          "stay_min": 45,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Anstieg ist anspruchsvoll, aber die Aussicht ist die Mühe wert. Perfekt für eine Mittagspause.",
+            "hu": "Az emelkedő kihívást jelent, de a kilátás megéri a fáradságot. Tökéletes egy ebédszünethez.",
+            "ro": "Urcușul este solicitant, dar priveliștea merită efortul. Perfect pentru o pauză de prânz.",
+            "en": "The climb is challenging, but the view is worth the effort. Perfect for a lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Buchenwald von Ștefești",
+            "hu": "Ștefești-i bükkerdő",
+            "ro": "Pădurea de fag din Ștefești",
+            "en": "Ștefești Beech Forest"
+          },
+          "coords": [
+            26.075,
+            45.255
+          ],
+          "category": "natural features",
+          "arrive_at": "14:02",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie die kühle Luft und die Stille des Waldes.",
+            "hu": "Élvezze a hűvös levegőt és az erdő csendjét.",
+            "ro": "Bucurați-vă de aerul răcoros și de liniștea pădurii.",
+            "en": "Enjoy the cool air and the silence of the forest."
+          }
+        },
+        {
+          "name": {
+            "de": "Traditionelle Bauernhäuser",
+            "hu": "Hagyományos Parasztházak",
+            "ro": "Case Țărănești Tradiționale",
+            "en": "Traditional Peasant Houses"
+          },
+          "coords": [
+            26.063,
+            45.262
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 2.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem Einblick in das traditionelle Leben.",
+            "hu": "Zárja a túrát egy betekintéssel a hagyományos életbe.",
+            "ro": "Încheiați turul cu o privire asupra vieții tradiționale.",
+            "en": "End your tour with a glimpse into traditional life."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel für eine Erkundung von Ștefești und Umgebung. Am Morgen besuchen Sie das Dorfzentrum, bevor Sie eine malerische Fahrt entlang des Vărbilău-Flusses genießen. Der Vormittag ist einer Wanderung im Vărbilău-Tal gewidmet. Zur Mittagszeit erklimmen Sie den Aussichtspunkt für eine wohlverdiente Pause mit Panoramablick. Der Nachmittag führt Sie durch den kühlen Buchenwald zurück ins Dorf, um die traditionelle Architektur zu bewundern.",
+        "hu": "Pattanjon nyeregbe, hogy felfedezze Ștefești-et és környékét. Reggel látogasson el a falu központjába, mielőtt egy festői úton haladna a Vărbilău folyó mentén. A délelőttöt a Vărbilău-völgyben való túrázással tölti. Ebédidőben megmássza a kilátót egy jól megérdemelt pihenőért és panorámáért. Délután a hűs bükkerdőn keresztül tér vissza a faluba, hogy megcsodálja a hagyományos építészetet.",
+        "ro": "Urcați-vă în șa pentru o explorare a Ștefeștiului și a împrejurimilor sale. Dimineața, vizitați centrul satului înainte de a vă bucura de o plimbare pitorească de-a lungul râului Vărbilău. Dimineața este dedicată unei drumeții în Valea Vărbilăului. La prânz, urcați la punctul de belvedere pentru o pauză binemeritată cu vedere panoramică. După-amiaza vă duce prin pădurea răcoroasă de fag înapoi în sat pentru a admira arhitectura tradițională.",
+        "en": "Hop on your bike for an exploration of Ștefești and its surroundings. In the morning, visit the village center before enjoying a scenic ride along the Vărbilău River. The forenoon is dedicated to a hike in the Vărbilău Valley. At lunchtime, you'll climb the viewpoint for a well-deserved break with a panoramic view. The afternoon takes you through the cool beech forest back to the village to admire the traditional architecture."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bulz ciobănesc",
+            "tip": "Ein herzhaftes Gericht aus Polenta und Käse, perfekt für Radfahrer."
+          },
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "Ein salziger Kuchen, ideal für eine schnelle Energiezufuhr."
+          },
+          {
+            "name": "Socată",
+            "tip": "Ein erfrischendes Holunderblütengetränk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bulz ciobănesc",
+            "tip": "Kiadós puliszkaétel sajttal, tökéletes kerékpárosoknak."
+          },
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "Sós pite, ideális egy gyors energiabevitelhez."
+          },
+          {
+            "name": "Socată",
+            "tip": "Frissítő bodzavirág ital."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bulz ciobănesc",
+            "tip": "O mâncare consistentă din mămăligă și brânză, perfectă pentru cicliști."
+          },
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "O plăcintă sărată, ideală pentru un aport rapid de energie."
+          },
+          {
+            "name": "Socată",
+            "tip": "O băutură răcoritoare din flori de soc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bulz ciobănesc",
+            "tip": "A hearty polenta and cheese dish, perfect for cyclists."
+          },
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "A savory pie, ideal for a quick energy boost."
+          },
+          {
+            "name": "Socată",
+            "tip": "A refreshing elderflower drink."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vărbilău-Tal",
+            "tip": "Abseits der Hauptwege finden Sie absolute Stille.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Buchenwald von Ștefești",
+            "tip": "Das Blätterdach dämpft alle Geräusche.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Eine Bank am Flussufer",
+            "tip": "Perfekt für eine kurze Pause, um die Gedanken schweifen zu lassen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vărbilău-völgy",
+            "tip": "A fő ösvényektől távol teljes csendet talál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ștefești-i bükkerdő",
+            "tip": "A lombkorona minden zajt elnyel.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Egy pad a folyóparton",
+            "tip": "Tökéletes egy rövid szünetre, hogy elkalandozzanak a gondolatai.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Valea Vărbilăului",
+            "tip": "Departe de potecile principale, veți găsi o liniște absolută.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pădurea de fag din Ștefești",
+            "tip": "Coroana de frunze atenuează toate zgomotele.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "O bancă pe malul râului",
+            "tip": "Perfectă pentru o scurtă pauză pentru a vă lăsa gândurile să zboare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vărbilău Valley",
+            "tip": "Away from the main paths, you will find absolute silence.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ștefești Beech Forest",
+            "tip": "The canopy of leaves dampens all sounds.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A bench on the riverbank",
+            "tip": "Perfect for a short break to let your thoughts wander.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Marmeladen",
+            "tip": "Fragen Sie in den Bauernhäusern nach hausgemachten Fruchtaufstrichen."
+          },
+          {
+            "name": "Getrocknete Kräuter",
+            "tip": "Oft auf kleinen Märkten oder direkt von den Erzeugern erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi lekvárok",
+            "tip": "Kérdezzen a parasztházakban a házi gyümölcslekvárokról."
+          },
+          {
+            "name": "Szárított gyógynövények",
+            "tip": "Gyakran kaphatóak kis piacokon vagy közvetlenül a termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gemuri locale",
+            "tip": "Întrebați la gospodării despre dulcețurile de casă."
+          },
+          {
+            "name": "Ierburi uscate",
+            "tip": "Adesea disponibile în piețe mici sau direct de la producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local jams",
+            "tip": "Ask at the farmhouses for homemade fruit preserves."
+          },
+          {
+            "name": "Dried herbs",
+            "tip": "Often available at small markets or directly from growers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein Mountainbike oder ein robustes Trekkingrad wird für die Feldwege empfohlen.",
+          "Nehmen Sie ein Fahrradschloss für Ihre Stopps mit.",
+          "Die Straßen können eng sein, fahren Sie vorsichtig.",
+          "Ein kleiner Rucksack für Wasser, Snacks und eine Regenjacke ist eine gute Idee."
+        ],
+        "hu": [
+          "Hegyi kerékpár vagy masszív túrakerékpár ajánlott a földutakra.",
+          "Hozzon magával kerékpárzárat a megállókhoz.",
+          "Az utak szűkek lehetnek, vezessen óvatosan.",
+          "Egy kis hátizsák víznek, harapnivalóknak és egy esőkabátnak jó ötlet."
+        ],
+        "ro": [
+          "O bicicletă de munte sau o bicicletă de trekking robustă este recomandată pentru drumurile de pământ.",
+          "Luați un lacăt de bicicletă pentru opriri.",
+          "Drumurile pot fi înguste, conduceți cu prudență.",
+          "Un rucsac mic pentru apă, gustări și o jachetă de ploaie este o idee bună."
+        ],
+        "en": [
+          "A mountain bike or a sturdy trekking bike is recommended for the dirt roads.",
+          "Bring a bike lock for your stops.",
+          "The roads can be narrow, ride carefully.",
+          "A small backpack for water, snacks, and a rain jacket is a good idea."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 8.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Dorfzentrum Ștefești",
+            "hu": "A. klaszter: Ștefești falu központja",
+            "ro": "Cluster A: Centrul satului Ștefești",
+            "en": "Cluster A: Ștefești Village Center"
+          },
+          "coords": [
+            26.06,
+            45.26
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie den ersten Teil des Dorfes zu Fuß.",
+            "hu": "Parkoljon le itt, és fedezze fel a falu első részét gyalog.",
+            "ro": "Parcați aici și explorați prima parte a satului pe jos.",
+            "en": "Park here and explore the first part of the village on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Heldenmahnmal Ștefești",
+            "hu": "Ștefești-i Hősök Emlékműve",
+            "ro": "Monumentul Eroilor din Ștefești",
+            "en": "Ștefești Heroes' Monument"
+          },
+          "coords": [
+            26.059,
+            45.259
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:14",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz aus.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "O scurtă plimbare de la parcare.",
+            "en": "A short walk from the parking spot."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Nikolaus-Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "St. Nicholas Church"
+          },
+          "coords": [
+            26.061,
+            45.261
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Kirche liegt direkt im Zentrum dieses Clusters.",
+            "hu": "A templom közvetlenül ebben a klaszterben található.",
+            "ro": "Biserica este chiar în centrul acestui cluster.",
+            "en": "The church is right in the center of this cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Hügel und Wälder",
+            "hu": "B. klaszter: Dombok és erdők",
+            "ro": "Cluster B: Dealuri și Păduri",
+            "en": "Cluster B: Hills and Forests"
+          },
+          "coords": [
+            26.08,
+            45.265
+          ],
+          "category": "natural features",
+          "arrive_at": "10:24",
+          "stay_min": 0,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Aussichtspunkt und parken Sie dort für die nächste Erkundung.",
+            "hu": "Hajtson a kilátóhoz, és parkoljon le a következő felfedezéshez.",
+            "ro": "Conduceți până la punctul de belvedere și parcați acolo pentru următoarea explorare.",
+            "en": "Drive to the viewpoint and park there for the next exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Ștefești-Aussichtspunkt",
+            "hu": "Ștefești-kilátó",
+            "ro": "Punct de belvedere Ștefești",
+            "en": "Ștefești Viewpoint"
+          },
+          "coords": [
+            26.08,
+            45.265
+          ],
+          "category": "natural features",
+          "arrive_at": "10:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht und nutzen Sie die Zeit für ein Picknick-Mittagessen.",
+            "hu": "Élvezze a kilátást, és használja az időt egy piknikebédre.",
+            "ro": "Bucurați-vă de priveliște și folosiți timpul pentru un prânz la picnic.",
+            "en": "Enjoy the view and use the time for a picnic lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Buchenwald von Ștefești",
+            "hu": "Ștefești-i bükkerdő",
+            "ro": "Pădurea de fag din Ștefești",
+            "en": "Ștefești Beech Forest"
+          },
+          "coords": [
+            26.075,
+            45.255
+          ],
+          "category": "natural features",
+          "arrive_at": "12:02",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein einfacher Spaziergang vom Aussichtspunkt zum Waldeingang.",
+            "hu": "Könnyű séta a kilátótól az erdő bejáratáig.",
+            "ro": "O plimbare ușoară de la punctul de belvedere la intrarea în pădure.",
+            "en": "An easy walk from the viewpoint to the forest entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Das Vărbilău-Tal",
+            "hu": "C. klaszter: A Vărbilău-völgy",
+            "ro": "Cluster C: Valea Vărbilăului",
+            "en": "Cluster C: The Vărbilău Valley"
+          },
+          "coords": [
+            26.07,
+            45.27
+          ],
+          "category": "natural features",
+          "arrive_at": "13:11",
+          "stay_min": 0,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Die letzte Fahrt des Tages führt Sie in das malerische Tal.",
+            "hu": "A nap utolsó autózása a festői völgybe vezet.",
+            "ro": "Ultima călătorie a zilei vă duce în valea pitorească.",
+            "en": "The last drive of the day takes you to the scenic valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Vărbilău-Flussufer",
+            "hu": "Vărbilău folyópart",
+            "ro": "Malul râului Vărbilău",
+            "en": "Vărbilău Riverbank"
+          },
+          "coords": [
+            26.068,
+            45.272
+          ],
+          "category": "natural features",
+          "arrive_at": "13:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Parken Sie und verbringen Sie den Nachmittag mit einem Spaziergang am Fluss.",
+            "hu": "Parkoljon le, és töltse a délutánt egy folyóparti sétával.",
+            "ro": "Parcați și petreceți după-amiaza plimbându-vă pe malul râului.",
+            "en": "Park and spend the afternoon walking along the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Ștefești ist in drei bequeme Cluster unterteilt. Am Morgen parken Sie im Zentrum und erkunden zu Fuß das Herz des Dorfes, einschließlich der Kirche und des Denkmals. Mittags fahren Sie zu den Hügeln, um vom Aussichtspunkt aus die Landschaft zu bewundern und einen Spaziergang im Buchenwald zu machen. Der Nachmittag ist für das ruhige Vărbilău-Tal reserviert, wo Sie am Fluss entspannen und die Natur genießen können, bevor Sie zurückkehren.",
+        "hu": "Az autós nap Ștefeștiben három kényelmes klaszterre oszlik. Reggel a központban parkol, és gyalog fedezi fel a falu szívét, beleértve a templomot és az emlékművet. Délben a dombokhoz hajt, hogy megcsodálja a tájat a kilátóból, és sétáljon egyet a bükkerdőben. A délután a csendes Vărbilău-völgyé, ahol a folyó mellett pihenhet és élvezheti a természetet, mielőtt visszatérne.",
+        "ro": "Ziua dumneavoastră cu mașina în Ștefești este împărțită în trei clustere convenabile. Dimineața, parcați în centru și explorați pe jos inima satului, inclusiv biserica și monumentul. La prânz, conduceți spre dealuri pentru a admira peisajul de la punctul de belvedere și pentru a face o plimbare în pădurea de fag. După-amiaza este rezervată pentru liniștita Vale a Vărbilăului, unde vă puteți relaxa lângă râu și vă puteți bucura de natură înainte de a vă întoarce.",
+        "en": "Your car day in Ștefești is divided into three convenient clusters. In the morning, you park in the center and explore the heart of the village on foot, including the church and monument. At noon, you drive to the hills to admire the landscape from the viewpoint and take a walk in the beech forest. The afternoon is reserved for the quiet Vărbilău Valley, where you can relax by the river and enjoy nature before heading back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "Eine traditionelle Kuttelsuppe, oft in Landgasthöfen zu finden."
+          },
+          {
+            "name": "Mici",
+            "tip": "Gegrillte Hackfleischröllchen, ein beliebter Straßensnack."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Frittierte Quarkbällchen mit saurer Sahne und Marmelade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "Hagyományos pacalleves, gyakran megtalálható a vidéki fogadókban."
+          },
+          {
+            "name": "Mici",
+            "tip": "Grillezett darált hús tekercsek, népszerű utcai étel."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Túrógombóc tejföllel és lekvárral."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "O supă tradițională, adesea găsită la hanurile rurale."
+          },
+          {
+            "name": "Mici",
+            "tip": "Rulouri de carne tocată la grătar, o gustare populară de stradă."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Gogoși cu brânză de vaci, smântână și dulceață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "A traditional tripe soup, often found at rural inns."
+          },
+          {
+            "name": "Mici",
+            "tip": "Grilled minced meat rolls, a popular street food."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Fried cheese doughnuts with sour cream and jam."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ein abgelegener Platz im Vărbilău-Tal",
+            "tip": "Perfekt, um ein Buch zu lesen oder einfach die Stille zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Die Stille des Buchenwaldes",
+            "tip": "Lauschen Sie nur dem Wind in den Blättern.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Die hinteren Bänke der St.-Nikolaus-Kirche",
+            "tip": "Ein Ort der Besinnung, auch außerhalb der Gottesdienste.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy eldugott hely a Vărbilău-völgyben",
+            "tip": "Tökéletes egy könyv olvasásához vagy egyszerűen a csend élvezetéhez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A bükkerdő csendje",
+            "tip": "Csak a levelekben fújó szél hangját hallani.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Szent Miklós-templom hátsó padjai",
+            "tip": "Az elmélkedés helye, istentiszteleten kívül is.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Un loc retras în Valea Vărbilăului",
+            "tip": "Perfect pentru a citi o carte sau pur și simplu pentru a vă bucura de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Liniștea pădurii de fag",
+            "tip": "Ascultați doar vântul printre frunze.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Băncile din spatele Bisericii Sfântul Nicolae",
+            "tip": "Un loc de contemplare, chiar și în afara slujbelor.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "A secluded spot in the Vărbilău Valley",
+            "tip": "Perfect for reading a book or simply enjoying the quiet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The silence of the Beech Forest",
+            "tip": "Listen only to the wind in the leaves.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "The back pews of St. Nicholas Church",
+            "tip": "A place for contemplation, even outside of service times.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Käse vom Bauernhof",
+            "tip": "Halten Sie Ausschau nach 'Brânză de casă' Schildern."
+          },
+          {
+            "name": "Holzschnitzereien",
+            "tip": "Manchmal bieten lokale Handwerker kleine Souvenirs an."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Házi sajt",
+            "tip": "Keresse a 'Brânză de casă' táblákat."
+          },
+          {
+            "name": "Faragványok",
+            "tip": "Néha helyi kézművesek kínálnak apró ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză de casă",
+            "tip": "Fiți atenți la indicatoarele 'Brânză de casă'."
+          },
+          {
+            "name": "Sculpturi în lemn",
+            "tip": "Uneori, artizanii locali oferă mici suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Homemade cheese",
+            "tip": "Look out for 'Brânză de casă' signs."
+          },
+          {
+            "name": "Wood carvings",
+            "tip": "Sometimes local artisans offer small souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen können schmal und kurvenreich sein; fahren Sie langsam.",
+          "Parken Sie nur an ausgewiesenen Stellen, um den Verkehr nicht zu behindern.",
+          "Ein Auto gibt Ihnen die Flexibilität, auch abgelegenere Orte zu entdecken.",
+          "Haben Sie etwas Bargeld für kleine Einkäufe oder Parkgebühren dabei."
+        ],
+        "hu": [
+          "Az utak szűkek és kanyargósak lehetnek; vezessen lassan.",
+          "Csak a kijelölt helyeken parkoljon, hogy ne akadályozza a forgalmat.",
+          "Az autó rugalmasságot ad a távolabbi helyek felfedezéséhez is.",
+          "Legyen Önnél készpénz a kisebb vásárlásokhoz vagy parkolási díjakhoz."
+        ],
+        "ro": [
+          "Drumurile pot fi înguste și sinuoase; conduceți încet.",
+          "Parcați numai în locurile desemnate pentru a nu bloca traficul.",
+          "O mașină vă oferă flexibilitatea de a explora și locuri mai îndepărtate.",
+          "Aveți la dumneavoastră numerar pentru cumpărături mici sau taxe de parcare."
+        ],
+        "en": [
+          "The roads can be narrow and winding; drive slowly.",
+          "Park only in designated areas to avoid blocking traffic.",
+          "A car gives you the flexibility to explore more remote spots.",
+          "Have some cash on hand for small purchases or parking fees."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:58",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Dorfzentrum",
+            "hu": "A. klaszter: Faluközpont",
+            "ro": "Cluster A: Centrul Satului",
+            "en": "Cluster A: Village Center"
+          },
+          "coords": [
+            26.06,
+            45.26
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den lokalen Bus ins Zentrum. Die erste Gruppe von Sehenswürdigkeiten ist von hier aus zu Fuß erreichbar.",
+            "hu": "Menjen a helyi busszal a központba. Az első látnivalócsoport innen gyalogosan elérhető.",
+            "ro": "Luați autobuzul local spre centru. Primul grup de atracții este accesibil pe jos de aici.",
+            "en": "Take the local bus to the center. The first group of sights is within walking distance from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentraler Park",
+            "hu": "Központi Park",
+            "ro": "Parcul Central",
+            "en": "Central Park"
+          },
+          "coords": [
+            26.06,
+            45.26
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Bushaltestelle.",
+            "hu": "Rövid séta a buszmegállótól.",
+            "ro": "O scurtă plimbare de la stația de autobuz.",
+            "en": "A short walk from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Nikolaus-Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "St. Nicholas Church"
+          },
+          "coords": [
+            26.061,
+            45.261
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur wenige Gehminuten vom Park entfernt.",
+            "hu": "Csak néhány perc sétára a parktól.",
+            "ro": "La doar câteva minute de mers pe jos de parc.",
+            "en": "Just a few minutes' walk from the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Natur am Rande des Dorfes",
+            "hu": "B. klaszter: Természet a falu szélén",
+            "ro": "Cluster B: Natură la marginea satului",
+            "en": "Cluster B: Nature on the edge of the village"
+          },
+          "coords": [
+            26.072,
+            45.268
+          ],
+          "category": "natural features",
+          "arrive_at": "10:31",
+          "stay_min": 0,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein anderer Bus bringt Sie näher an das Tal und den Aussichtspunkt.",
+            "hu": "Egy másik busz közelebb visz a völgyhöz és a kilátóhoz.",
+            "ro": "Un alt autobuz vă duce mai aproape de vale și de punctul de belvedere.",
+            "en": "A different bus takes you closer to the valley and viewpoint."
+          }
+        },
+        {
+          "name": {
+            "de": "Vărbilău-Tal Eingang",
+            "hu": "Vărbilău-völgy bejárata",
+            "ro": "Intrarea în Valea Vărbilăului",
+            "en": "Vărbilău Valley Entrance"
+          },
+          "coords": [
+            26.07,
+            45.27
+          ],
+          "category": "natural features",
+          "arrive_at": "10:31",
+          "stay_min": 120,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verbringen Sie Zeit mit Wandern und genießen Sie Ihr Mittagessen in der Natur.",
+            "hu": "Töltsön időt túrázással és ebédeljen a természetben.",
+            "ro": "Petreceți timp făcând drumeții și bucurați-vă de prânz în natură.",
+            "en": "Spend time hiking and enjoy your lunch in nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Ștefești-Aussichtspunkt",
+            "hu": "Ștefești-kilátó",
+            "ro": "Punct de belvedere Ștefești",
+            "en": "Ștefești Viewpoint"
+          },
+          "coords": [
+            26.08,
+            45.265
+          ],
+          "category": "natural features",
+          "arrive_at": "12:51",
+          "stay_min": 55,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer, aber steiler Spaziergang vom Talweg zum Aussichtspunkt.",
+            "hu": "Rövid, de meredek séta a völgyi útról a kilátóhoz.",
+            "ro": "O plimbare scurtă, dar abruptă, de la drumul din vale la punctul de belvedere.",
+            "en": "A short but steep walk from the valley path to the viewpoint."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Ștefești mit dem lokalen Bus. Ihre Reise beginnt im Zentrum, wo Sie die Hauptsehenswürdigkeiten zu Fuß erkunden. Am Vormittag bringt Sie ein weiterer Bus in die Nähe der Naturattraktionen. Sie verbringen eine lange Zeit im Vărbilău-Tal für eine Wanderung und ein Mittagessen. Der Nachmittag ist dem Aufstieg zum Aussichtspunkt gewidmet, bevor Sie den Bus zurücknehmen, erfüllt von den Eindrücken der ländlichen Landschaft.",
+        "hu": "Fedezze fel Ștefești-et a helyi busszal. Az utazás a központban kezdődik, ahol gyalogosan fedezi fel a fő látnivalókat. Délelőtt egy másik busz a természeti látványosságok közelébe visz. Hosszú időt tölt a Vărbilău-völgyben túrázással és ebéddel. A délutánt a kilátó megmászásának szenteli, mielőtt visszatérne a busszal, tele a vidéki táj benyomásaival.",
+        "ro": "Descoperiți Ștefești cu autobuzul local. Călătoria dumneavoastră începe în centru, unde explorați principalele atracții pe jos. Dimineața, un alt autobuz vă duce aproape de atracțiile naturale. Petreceți mult timp în Valea Vărbilăului pentru o drumeție și prânz. După-amiaza este dedicată urcării la punctul de belvedere înainte de a lua autobuzul înapoi, plini de impresiile peisajului rural.",
+        "en": "Discover Ștefești using the local bus. Your journey begins in the center, where you explore the main sights on foot. In the morning, another bus takes you near the natural attractions. You spend a long time in the Vărbilău Valley for a hike and lunch. The afternoon is dedicated to climbing the viewpoint before taking the bus back, filled with impressions of the rural landscape."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Covrigi",
+            "tip": "Ein schneller und leckerer Snack, den man oft an Bushaltestellen findet."
+          },
+          {
+            "name": "Zacuscă",
+            "tip": "Ein Gemüseaufstrich, den man mit Brot als leichtes Mittagessen genießen kann."
+          },
+          {
+            "name": "Brânză de burduf",
+            "tip": "Ein würziger Käse, der in Tannenrinde gereift ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Covrigi",
+            "tip": "Gyors és finom perec, gyakran kapható a buszmegállókban."
+          },
+          {
+            "name": "Zacuscă",
+            "tip": "Zöldségkrém, amelyet kenyérrel könnyű ebédként fogyaszthat."
+          },
+          {
+            "name": "Brânză de burduf",
+            "tip": "Fenyőkéregben érlelt, fűszeres sajt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Covrigi",
+            "tip": "O gustare rapidă și gustoasă, adesea găsită în stațiile de autobuz."
+          },
+          {
+            "name": "Zacuscă",
+            "tip": "O pastă de legume care poate fi savurată cu pâine ca un prânz ușor."
+          },
+          {
+            "name": "Brânză de burduf",
+            "tip": "O brânză picantă maturată în coajă de brad."
+          }
+        ],
+        "en": [
+          {
+            "name": "Covrigi",
+            "tip": "A quick and tasty pretzel snack, often found at bus stops."
+          },
+          {
+            "name": "Zacuscă",
+            "tip": "A vegetable spread that can be enjoyed with bread as a light lunch."
+          },
+          {
+            "name": "Brânză de burduf",
+            "tip": "A spicy cheese matured in fir bark."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Fahrt mit dem Bus durch die Landschaft",
+            "tip": "Schauen Sie aus dem Fenster und genießen Sie die vorbeiziehende Landschaft.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Die friedliche Atmosphäre im Vărbilău-Tal",
+            "tip": "Finden Sie einen Platz abseits der Wege und lauschen Sie der Natur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Der Ausblick vom Ștefești-Aussichtspunkt",
+            "tip": "Ein Gefühl von Weite und Ruhe.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás a tájon keresztül",
+            "tip": "Nézzen ki az ablakon, és élvezze az elhaladó tájat.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "A Vărbilău-völgy békés hangulata",
+            "tip": "Keressen egy helyet az ösvényektől távol, és hallgassa a természetet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A kilátás a Ștefești-kilátóból",
+            "tip": "A tágasság és a nyugalom érzése.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O călătorie cu autobuzul prin peisaj",
+            "tip": "Priviți pe fereastră și bucurați-vă de peisajul care trece.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Atmosfera pașnică din Valea Vărbilăului",
+            "tip": "Găsiți un loc departe de poteci și ascultați natura.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Priveliștea de la punctul de belvedere Ștefești",
+            "tip": "Un sentiment de vastitate și liniște.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bus ride through the countryside",
+            "tip": "Look out the window and enjoy the passing scenery.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "The peaceful atmosphere in the Vărbilău Valley",
+            "tip": "Find a spot away from the paths and listen to nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The view from the Ștefești Viewpoint",
+            "tip": "A feeling of vastness and tranquility.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Früchte der Saison",
+            "tip": "Kaufen Sie frische Beeren oder Äpfel von einem lokalen Verkäufer."
+          },
+          {
+            "name": "Țuică",
+            "tip": "Der lokale Pflaumenschnaps, oft in einfachen Flaschen verkauft."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szezonális gyümölcsök",
+            "tip": "Vásároljon friss bogyókat vagy almát egy helyi árustól."
+          },
+          {
+            "name": "Țuică",
+            "tip": "A helyi szilvapálinka, gyakran egyszerű üvegekben árulva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fructe de sezon",
+            "tip": "Cumpărați fructe de pădure proaspete sau mere de la un vânzător local."
+          },
+          {
+            "name": "Țuică",
+            "tip": "Rachiul local de prune, adesea vândut în sticle simple."
+          }
+        ],
+        "en": [
+          {
+            "name": "Seasonal fruits",
+            "tip": "Buy fresh berries or apples from a local vendor."
+          },
+          {
+            "name": "Țuică",
+            "tip": "The local plum brandy, often sold in simple bottles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich im Voraus über den Busfahrplan, da die Busse möglicherweise nicht häufig fahren.",
+          "Haben Sie Kleingeld für die Bustickets parat.",
+          "Seien Sie an den Haltestellen pünktlich.",
+          "Fragen Sie den Busfahrer oder die Einheimischen, wenn Sie unsicher sind, wo Sie aussteigen müssen."
+        ],
+        "hu": [
+          "Tájékozódjon előre a buszmenetrendről, mivel a buszok ritkán közlekedhetnek.",
+          "Készítsen elő aprópénzt a buszjegyekhez.",
+          "Legyen pontos a megállókban.",
+          "Kérdezze meg a buszsofőrt vagy a helyieket, ha nem biztos benne, hol kell leszállnia."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor în avans, deoarece s-ar putea să nu circule frecvent.",
+          "Aveți pregătiți bani mărunți pentru biletele de autobuz.",
+          "Fiți punctuali la stații.",
+          "Întrebați șoferul de autobuz sau localnicii dacă nu sunteți siguri unde să coborâți."
+        ],
+        "en": [
+          "Check the bus schedule in advance, as buses may not run frequently.",
+          "Have small change ready for bus tickets.",
+          "Be on time at the bus stops.",
+          "Ask the bus driver or locals if you are unsure where to get off."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1179 @@
+{
+  "city_id": "slovakia-prievidza-cities-v2",
+  "anchor": {
+    "name": "Prievidza",
+    "coords": [
+      18.6256,
+      48.7725
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 3.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Freiheitsplatz (Námestie slobody)",
+            "hu": "Szabadság tér (Námestie slobody)",
+            "ro": "Piața Libertății (Námestie slobody)",
+            "en": "Freedom Square (Námestie slobody)"
+          },
+          "coords": [
+            18.627,
+            48.774
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Kaffee in einem der Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában!",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
+            "en": "Start your day with a coffee at one of the square's cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Mariensäule",
+            "hu": "Mária-oszlop",
+            "ro": "Coloana Mariană",
+            "en": "Marian Column"
+          },
+          "coords": [
+            18.6268,
+            48.7742
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:37",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für ein Foto im Herzen der Stadt.",
+            "hu": "Tökéletes fotóhelyszín a város szívében.",
+            "ro": "Un loc perfect pentru o fotografie în inima orașului.",
+            "en": "A perfect spot for a photo in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Bürgerhäuser der Altstadt",
+            "hu": "Az óváros polgárházai",
+            "ro": "Casele burgheze din orașul vechi",
+            "en": "Burgher Houses of the Old Town"
+          },
+          "coords": [
+            18.6275,
+            48.7745
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Renaissance- und Barockdetails der Fassaden.",
+            "hu": "Figyelje meg a homlokzatok reneszánsz és barokk részleteit!",
+            "ro": "Observați detaliile renascentiste și baroce ale fațadelor.",
+            "en": "Look for the Renaissance and Baroque details on the facades."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Bartholomäus",
+            "hu": "Szent Bertalan-templom",
+            "ro": "Biserica Sfântul Bartolomeu",
+            "en": "St. Bartholomew's Church"
+          },
+          "coords": [
+            18.625,
+            48.775
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Die älteste Kirche der Stadt, bewundern Sie die gotische Architektur.",
+            "hu": "A város legrégebbi temploma, csodálja meg a gótikus építészetet.",
+            "ro": "Cea mai veche biserică din oraș, admirați arhitectura gotică.",
+            "en": "The oldest church in the city, admire its Gothic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Piaristenkirche der Heiligen Dreifaltigkeit",
+            "hu": "Piarista Szentháromság-templom",
+            "ro": "Biserica Piaristă a Sfintei Treimi",
+            "en": "Piarist Church of the Holy Trinity"
+          },
+          "coords": [
+            18.622,
+            48.771
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein beeindruckendes Beispiel barocker Baukunst.",
+            "hu": "A barokk építészet lenyűgöző példája.",
+            "ro": "Un exemplu impresionant de artă barocă.",
+            "en": "An impressive example of Baroque art."
+          }
+        },
+        {
+          "name": {
+            "de": "Obernitra-Museum",
+            "hu": "Felső-nyitrai Múzeum",
+            "ro": "Muzeul Nitra Superioară",
+            "en": "Museum of Upper Nitra"
+          },
+          "coords": [
+            18.621,
+            48.77
+          ],
+          "category": "museums",
+          "arrive_at": "12:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit für die ethnografische Sammlung ein.",
+            "hu": "Szánjon elég időt a néprajzi gyűjteményre!",
+            "ro": "Planificați suficient timp pentru colecția etnografică.",
+            "en": "Plan enough time for the ethnographic collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Himmelfahrt",
+            "hu": "Mária Mennybemenetele-templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Assumption of the Virgin Mary"
+          },
+          "coords": [
+            18.641,
+            48.778
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort, etwas abseits des Haupttrubels.",
+            "hu": "Egy csendes hely, kicsit távolabb a fő nyüzsgéstől.",
+            "ro": "Un loc liniștit, puțin mai departe de agitația principală.",
+            "en": "A quiet place, a bit further from the main hustle and bustle."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am belebten Freiheitsplatz, dem Herzen von Prievidza. Schlendern Sie durch die Altstadt, bewundern Sie historische Bürgerhäuser und die Mariensäule. Am Nachmittag entdecken Sie die sakralen Schätze der Stadt, darunter die gotische Bartholomäuskirche und die prächtige Piaristenkirche. Beenden Sie Ihre Tour im Obernitra-Museum, um tief in die regionale Geschichte einzutauchen.",
+        "hu": "Kezdje a napot a nyüzsgő Szabadság téren, Privigye szívében. Sétáljon végig az óvároson, csodálja meg a történelmi polgárházakat és a Mária-oszlopot. Délután fedezze fel a város szakrális kincseit, köztük a gótikus Szent Bertalan-templomot és a csodálatos Piarista templomot. Zárja a túrát a Felső-nyitrai Múzeumban, hogy elmélyedjen a régió történelmében.",
+        "ro": "Începeți ziua în vibranta Piață a Libertății, inima orașului Prievidza. Plimbați-vă prin orașul vechi, admirând casele istorice și Coloana Mariană. După-amiaza, descoperiți comorile sacre ale orașului, inclusiv gotica Biserică Sf. Bartolomeu și magnifica Biserică Piaristă. Încheiați turul la Muzeul Nitra Superioară pentru o incursiune în istoria regională.",
+        "en": "Start your day in the bustling Freedom Square, the heart of Prievidza. Stroll through the old town, admiring historic burgher houses and the Marian Column. In the afternoon, discover the city's sacral treasures, including the Gothic St. Bartholomew's Church and the magnificent Piarist Church. End your tour at the Museum of Upper Nitra for a deep dive into regional history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Slowakisches Nationalgericht mit Schafskäse und Speck. Ein Muss!"
+          },
+          {
+            "name": "Posedenie na rohu",
+            "tip": "Beliebtes lokales Restaurant mit traditioneller Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bryndzové halušky (juhtúrós galuska)",
+            "tip": "Szlovákia nemzeti étele, juhtúróval és szalonnával. Kötelező megkóstolni!"
+          },
+          {
+            "name": "Posedenie na rohu",
+            "tip": "Népszerű helyi étterem hagyományos ételekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Mâncarea națională a Slovaciei cu brânză de oaie și slănină. Trebuie încercată!"
+          },
+          {
+            "name": "Posedenie na rohu",
+            "tip": "Restaurant local popular cu bucătărie tradițională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Slovakia's national dish with sheep cheese and bacon. A must-try!"
+          },
+          {
+            "name": "Posedenie na rohu",
+            "tip": "Popular local restaurant serving traditional cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Ufer der Nitra",
+            "tip": "Ein ruhiger Weg, um dem Stadttrubel zu entkommen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stadtpark",
+            "tip": "Entspannen Sie auf einer Bank im Schatten alter Bäume.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Nyitra folyó partján",
+            "tip": "Csendes útvonal a városi nyüzsgés elől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Városi park",
+            "tip": "Pihenjen meg egy padon az öreg fák árnyékában.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului Nitra",
+            "tip": "O cale liniștită pentru a scăpa de agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul orașului",
+            "tip": "Relaxați-vă pe o bancă la umbra copacilor bătrâni.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along the Nitra River bank",
+            "tip": "A quiet path to escape the city bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "City Park",
+            "tip": "Relax on a bench in the shade of old trees.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerksprodukte",
+            "tip": "Suchen Sie nach Keramik oder Holzschnitzereien aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen helyi kerámiákat vagy fafaragásokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse de artizanat local",
+            "tip": "Căutați ceramică sau sculpturi în lemn din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local crafts",
+            "tip": "Look for ceramics or wood carvings from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "A központi látnivalók többsége könnyen elérhető gyalog.",
+          "Vigyen magával újratölthető vizes palackot."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, veți merge mult pe jos.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Luați cu voi o sticlă de apă reutilizabilă."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Most central sights are within easy walking distance.",
+          "Bring a reusable water bottle."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:20",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Freiheitsplatz (Námestie slobody)",
+            "hu": "Szabadság tér (Námestie slobody)",
+            "ro": "Piața Libertății (Námestie slobody)",
+            "en": "Freedom Square (Námestie slobody)"
+          },
+          "coords": [
+            18.627,
+            48.774
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie den Platz erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt felfedezné a teret.",
+            "ro": "Asigurați-vă bicicleta înainte de a explora piața.",
+            "en": "Lock your bike securely before exploring the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Bürgerhäuser und Mariensäule",
+            "hu": "Polgárházak és Mária-oszlop",
+            "ro": "Casele burgheze și Coloana Mariană",
+            "en": "Burgher Houses and Marian Column"
+          },
+          "coords": [
+            18.6275,
+            48.7745
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:37",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die Atmosphäre des historischen Zentrums.",
+            "hu": "Élvezze a történelmi központ hangulatát.",
+            "ro": "Bucurați-vă de atmosfera centrului istoric.",
+            "en": "Enjoy the atmosphere of the historic center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Bartholomäus",
+            "hu": "Szent Bertalan-templom",
+            "ro": "Biserica Sfântul Bartolomeu",
+            "en": "St. Bartholomew's Church"
+          },
+          "coords": [
+            18.625,
+            48.775
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Der kurze Anstieg zur Kirche lohnt sich für die Aussicht.",
+            "hu": "A templomhoz vezető rövid emelkedő megéri a kilátásért.",
+            "ro": "Urcarea scurtă spre biserică merită pentru priveliște.",
+            "en": "The short climb to the church is worth it for the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Himmelfahrt",
+            "hu": "Mária Mennybemenetele-templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Assumption of the Virgin Mary"
+          },
+          "coords": [
+            18.641,
+            48.778
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Eine angenehme Fahrt durch ruhigere Stadtteile.",
+            "hu": "Kellemes tekerés a csendesebb városrészeken keresztül.",
+            "ro": "O plimbare plăcută prin cartiere mai liniștite.",
+            "en": "A pleasant ride through quieter parts of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Obernitra-Museum",
+            "hu": "Felső-nyitrai Múzeum",
+            "ro": "Muzeul Nitra Superioară",
+            "en": "Museum of Upper Nitra"
+          },
+          "coords": [
+            18.621,
+            48.77
+          ],
+          "category": "museums",
+          "arrive_at": "12:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad am Eingang ab und genießen Sie die Ausstellungen.",
+            "hu": "Hagyja a kerékpárt a bejáratnál, és élvezze a kiállításokat.",
+            "ro": "Lăsați bicicleta la intrare și bucurați-vă de expoziții.",
+            "en": "Park your bike at the entrance and enjoy the exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Piaristenkirche der Heiligen Dreifaltigkeit",
+            "hu": "Piarista Szentháromság-templom",
+            "ro": "Biserica Piaristă a Sfintei Treimi",
+            "en": "Piarist Church of the Holy Trinity"
+          },
+          "coords": [
+            18.622,
+            48.771
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:14",
+          "stay_min": 35,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Der letzte Halt Ihrer Radtour, ein barockes Meisterwerk.",
+            "hu": "A kerékpártúra utolsó állomása, egy barokk mestermű.",
+            "ro": "Ultima oprire a turului cu bicicleta, o capodoperă barocă.",
+            "en": "The last stop of your bike tour, a baroque masterpiece."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Prievidza auf zwei Rädern! Starten Sie am Freiheitsplatz und radeln Sie durch das historische Zentrum. Entdecken Sie die gotische Bartholomäuskirche, bevor Sie zu der etwas weiter entfernten Kirche Mariä Himmelfahrt fahren. Nach einem kulturellen Stopp im Obernitra-Museum beenden Sie Ihre Tour an der beeindruckenden Piaristenkirche. Die Route kombiniert städtisches Flair mit ruhigeren Wegen.",
+        "hu": "Fedezze fel Privigyét két keréken! Induljon a Szabadság térről, és tekerjen át a történelmi központon. Fedezze fel a gótikus Szent Bertalan-templomot, mielőtt a kissé távolabbi Mária Mennybemenetele-templomhoz indul. A Felső-nyitrai Múzeumban tett kulturális megálló után fejezze be a túrát a lenyűgöző Piarista templomnál. Az útvonal a városi hangulatot csendesebb utakkal ötvözi.",
+        "ro": "Explorați Prievidza pe două roți! Porniți din Piața Libertății și pedalați prin centrul istoric. Descoperiți gotica Biserică Sf. Bartolomeu înainte de a vă îndrepta spre Biserica Adormirea Maicii Domnului, aflată puțin mai departe. După o oprire culturală la Muzeul Nitra Superioară, încheiați turul la impresionanta Biserică Piaristă. Traseul combină farmecul urban cu drumuri mai liniștite.",
+        "en": "Explore Prievidza on two wheels! Start from Freedom Square and pedal through the historic center. Discover the Gothic St. Bartholomew's Church before heading to the slightly more distant Church of the Assumption. After a cultural stop at the Museum of Upper Nitra, finish your tour at the impressive Piarist Church. The route combines urban flair with quieter paths."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokálne pivo (Lokales Bier)",
+            "tip": "Erfrischen Sie sich nach der Radtour mit einem slowakischen Bier."
+          },
+          {
+            "name": "Meridiana Bojnice",
+            "tip": "Ein Restaurant etwas außerhalb, aber per Rad gut erreichbar, mit gehobener Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lokálne pivo (helyi sör)",
+            "tip": "Frissüljön fel egy szlovák sörrel a kerékpártúra után."
+          },
+          {
+            "name": "Meridiana Bojnice",
+            "tip": "Kicsit kijjebb eső, de kerékpárral jól megközelíthető étterem emeltebb szintű konyhával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lokálne pivo (bere locală)",
+            "tip": "Reîmprospătați-vă cu o bere slovacă după turul cu bicicleta."
+          },
+          {
+            "name": "Meridiana Bojnice",
+            "tip": "Un restaurant puțin în afara orașului, dar ușor accesibil cu bicicleta, cu bucătărie rafinată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lokálne pivo (Local beer)",
+            "tip": "Refresh yourself with a Slovak beer after the bike tour."
+          },
+          {
+            "name": "Meridiana Bojnice",
+            "tip": "A restaurant just outside the city, easily reachable by bike, with fine dining."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg entlang der Nitra",
+            "tip": "Genießen Sie eine entspannte Fahrt abseits der Straßen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Walderholungsgebiet (Lesopark)",
+            "tip": "Ein größerer Park für eine ausgedehnte Pause im Grünen.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Nyitra mentén",
+            "tip": "Élvezze a pihentető tekerést az utaktól távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Erdei pihenőpark (Lesopark)",
+            "tip": "Nagyobb park egy hosszabb zöld pihenőhöz."
+          },
+          {
+            "name": "Lesopark (Forest Park)",
+            "tip": "A larger park for an extended break in nature.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul râului Nitra",
+            "tip": "Bucurați-vă de o plimbare relaxantă departe de drumuri.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Lesopark (Parcul Pădure)",
+            "tip": "Un parc mai mare pentru o pauză extinsă în natură.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike path along the Nitra river",
+            "tip": "Enjoy a relaxing ride away from the roads.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Lesopark (Forest Park)",
+            "tip": "A larger park for an extended break in nature.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Für eventuell benötigtes Zubehör oder eine kleine Reparatur."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Esetlegesen szükséges kiegészítőkért vagy egy kisebb javításért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Pentru orice accesorii de care ați putea avea nevoie sau o reparație minoră."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shop",
+            "tip": "For any accessories you might need or a minor repair."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck vor der Abfahrt.",
+          "Achten Sie auf Fußgänger in den verkehrsberuhigten Zonen.",
+          "Ein Helm wird dringend empfohlen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Vigyázzon a gyalogosokra a forgalomcsillapított övezetekben.",
+          "Sisak használata erősen ajánlott."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope înainte de a pleca.",
+          "Fiți atenți la pietoni în zonele cu trafic redus.",
+          "Se recomandă insistent purtarea căștii."
+        ],
+        "en": [
+          "Check your tire pressure before setting off.",
+          "Watch out for pedestrians in the low-traffic zones.",
+          "A helmet is strongly recommended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 11.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Bojnice (Zámok Bojnice)",
+            "hu": "Bajmóci vár (Zámok Bojnice)",
+            "ro": "Castelul Bojnice (Zámok Bojnice)",
+            "en": "Bojnice Castle (Zámok Bojnice)"
+          },
+          "coords": [
+            18.577,
+            48.779
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Das Märchenschloss ist ein Muss! Planen Sie eine Führung ein.",
+            "hu": "A mesebeli kastély kötelező látnivaló! Tervezzen be egy vezetett túrát.",
+            "ro": "Castelul de basm este o necesitate! Planificați un tur ghidat.",
+            "en": "The fairy-tale castle is a must-see! Plan for a guided tour."
+          },
+          "hop_mode": "car"
+        },
+        {
+          "name": {
+            "de": "Zoo Bojnice",
+            "hu": "Bajmóci Állatkert",
+            "ro": "Grădina Zoologică Bojnice",
+            "en": "Bojnice Zoo"
+          },
+          "coords": [
+            18.579,
+            48.778
+          ],
+          "category": "animal-habitat",
+          "arrive_at": "11:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Direkt neben dem Schloss, ideal für einen Familienausflug.",
+            "hu": "Közvetlenül a kastély mellett, ideális családi kiránduláshoz.",
+            "ro": "Chiar lângă castel, ideal pentru o excursie în familie.",
+            "en": "Right next to the castle, ideal for a family outing."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Bojnice",
+            "hu": "Ebéd Bajmócon",
+            "ro": "Prânz în Bojnice",
+            "en": "Lunch in Bojnice"
+          },
+          "coords": [
+            18.581,
+            48.779
+          ],
+          "category": "gastro",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die lokale Küche mit Blick auf das Schloss.",
+            "hu": "Élvezze a helyi konyhát a kastélyra néző kilátással.",
+            "ro": "Bucurați-vă de bucătăria locală cu vedere la castel.",
+            "en": "Enjoy local cuisine with a view of the castle."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Freiheitsplatz (Parken & Spaziergang)",
+            "hu": "Szabadság tér (Parkolás és séta)",
+            "ro": "Piața Libertății (Parcare și plimbare)",
+            "en": "Freedom Square (Park & Walk)"
+          },
+          "coords": [
+            18.627,
+            48.774
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto und erkunden Sie das Zentrum von Prievidza zu Fuß.",
+            "hu": "Parkolja le az autót, és fedezze fel gyalog Privigye központját.",
+            "ro": "Parcați mașina și explorați centrul orașului Prievidza pe jos.",
+            "en": "Park your car and explore the center of Prievidza on foot."
+          },
+          "hop_mode": "car"
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Bartholomäus",
+            "hu": "Szent Bertalan-templom",
+            "ro": "Biserica Sfântul Bartolomeu",
+            "en": "St. Bartholomew's Church"
+          },
+          "coords": [
+            18.625,
+            48.775
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz entfernt.",
+            "hu": "Rövid séta a főtértől.",
+            "ro": "O scurtă plimbare de la piața principală.",
+            "en": "A short walk from the main square."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Piaristenkirche der Heiligen Dreifaltigkeit",
+            "hu": "Piarista Szentháromság-templom",
+            "ro": "Biserica Piaristă a Sfintei Treimi",
+            "en": "Piarist Church of the Holy Trinity"
+          },
+          "coords": [
+            18.622,
+            48.771
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die reiche barocke Innenausstattung.",
+            "hu": "Csodálja meg a gazdag barokk belső teret.",
+            "ro": "Admirați interiorul bogat în stil baroc.",
+            "en": "Admire the rich baroque interior."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Obernitra-Museum",
+            "hu": "Felső-nyitrai Múzeum",
+            "ro": "Muzeul Nitra Superioară",
+            "en": "Museum of Upper Nitra"
+          },
+          "coords": [
+            18.621,
+            48.77
+          ],
+          "category": "museums",
+          "arrive_at": "16:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der Abschluss des Tages mit einem Einblick in die Kultur der Region.",
+            "hu": "A nap lezárása a régió kultúrájába való betekintéssel.",
+            "ro": "Încheierea zilei cu o privire asupra culturii regiunii.",
+            "en": "The end of the day with a glimpse into the region's culture."
+          },
+          "hop_mode": "walk"
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die Flexibilität des Autos für einen Ausflug zum nahegelegenen Schloss Bojnice, einem echten Märchenschloss. Nach dem Schlossbesuch und einem Abstecher in den Zoo kehren Sie nach Prievidza zurück. Parken Sie im Zentrum und erkunden Sie den historischen Kern zu Fuß: vom Freiheitsplatz über die alten Kirchen bis zum Obernitra-Museum. Dieser Plan verbindet ein Top-Highlight der Region mit dem Charme der Stadt.",
+        "hu": "Használja ki az autó rugalmasságát, és tegyen egy kirándulást a közeli Bajmóci várhoz, egy igazi mesebeli kastélyhoz. A kastélylátogatás és az állatkerti kitérő után térjen vissza Privigyére. Parkoljon a központban, és fedezze fel gyalog a történelmi magot: a Szabadság tértől a régi templomokon át a Felső-nyitrai Múzeumig. Ez a terv ötvözi a régió egyik legfőbb látványosságát a város bájával.",
+        "ro": "Folosiți flexibilitatea mașinii pentru o excursie la Castelul Bojnice din apropiere, un adevărat castel de basm. După vizitarea castelului și o vizită la grădina zoologică, reveniți în Prievidza. Parcați în centru și explorați nucleul istoric pe jos: de la Piața Libertății la bisericile vechi și la Muzeul Nitra Superioară. Acest plan combină o atracție de top a regiunii cu farmecul orașului.",
+        "en": "Use the flexibility of the car for a trip to nearby Bojnice Castle, a true fairy-tale castle. After visiting the castle and a detour to the zoo, return to Prievidza. Park in the center and explore the historic core on foot: from Freedom Square to the old churches and the Museum of Upper Nitra. This plan combines a top regional highlight with the city's charm."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restauracia pod Zamkom",
+            "tip": "Restaurant in Bojnice mit traditioneller slowakischer Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restauracia pod Zamkom",
+            "tip": "Étterem Bajmócon, hagyományos szlovák konyhával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restauracia pod Zamkom",
+            "tip": "Restaurant în Bojnice cu bucătărie tradițională slovacă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restauracia pod Zamkom",
+            "tip": "Restaurant in Bojnice with traditional Slovak cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlosspark Bojnice",
+            "tip": "Ein weitläufiger Park, ideal für einen ruhigen Spaziergang.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bajmóci várpark",
+            "tip": "Tágas park, ideális egy csendes sétához.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului Bojnice",
+            "tip": "Un parc întins, ideal pentru o plimbare liniștită.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bojnice Castle Park",
+            "tip": "A spacious park, ideal for a quiet walk.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs am Schloss Bojnice",
+            "tip": "Hier finden Sie eine große Auswahl an Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándéktárgyak a Bajmóci várnál",
+            "tip": "Itt ajándéktárgyak széles választékát találja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri la Castelul Bojnice",
+            "tip": "Aici veți găsi o selecție largă de suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenirs at Bojnice Castle",
+            "tip": "You will find a wide selection of souvenirs here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Tickets für Schloss Bojnice online, um Wartezeiten zu vermeiden.",
+          "Parkgebühren können anfallen, halten Sie Kleingeld bereit.",
+          "Planen Sie genügend Zeit für den Verkehr zwischen Bojnice und Prievidza ein."
+        ],
+        "hu": [
+          "Vásárolja meg a jegyeket a Bajmóci várhoz online, hogy elkerülje a sorban állást.",
+          "Parkolási díjak merülhetnek fel, tartson magánál aprópénzt.",
+          "Tervezzen elegendő időt a Bajmóc és Privigye közötti forgalomra."
+        ],
+        "ro": [
+          "Cumpărați bilete la Castelul Bojnice online pentru a evita cozile.",
+          "Se pot aplica taxe de parcare, aveți la îndemână mărunțiș.",
+          "Planificați suficient timp pentru traficul dintre Bojnice și Prievidza."
+        ],
+        "en": [
+          "Buy tickets for Bojnice Castle online to avoid queues.",
+          "Parking fees may apply, have some change ready.",
+          "Allow enough time for traffic between Bojnice and Prievidza."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft Freiheitsplatz",
+            "hu": "Érkezés a Szabadság térre",
+            "ro": "Sosire în Piața Libertății",
+            "en": "Arrival at Freedom Square"
+          },
+          "coords": [
+            18.627,
+            48.774
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Der zentrale Busbahnhof ist ein guter Ausgangspunkt.",
+            "hu": "A központi buszpályaudvar jó kiindulópont.",
+            "ro": "Autogara centrală este un bun punct de plecare.",
+            "en": "The central bus station is a good starting point."
+          },
+          "hop_mode": "transit"
+        },
+        {
+          "name": {
+            "de": "Mariensäule & Bürgerhäuser",
+            "hu": "Mária-oszlop és Polgárházak",
+            "ro": "Coloana Mariană și Casele Burgheze",
+            "en": "Marian Column & Burgher Houses"
+          },
+          "coords": [
+            18.6268,
+            48.7742
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:44",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Dieses Cluster lässt sich leicht zu Fuß erkunden.",
+            "hu": "Ez a látnivalócsoport könnyen felfedezhető gyalog.",
+            "ro": "Acest grup de atracții poate fi explorat cu ușurință pe jos.",
+            "en": "This cluster is easily explored on foot."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Bartholomäus",
+            "hu": "Szent Bertalan-templom",
+            "ro": "Biserica Sfântul Bartolomeu",
+            "en": "St. Bartholomew's Church"
+          },
+          "coords": [
+            18.625,
+            48.775
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die Altstadtgassen.",
+            "hu": "Rövid séta az óváros sikátorain keresztül.",
+            "ro": "O scurtă plimbare pe străduțele orașului vechi.",
+            "en": "A short walk through the old town alleys."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Museumsviertel",
+            "hu": "Utazás a múzeumi negyedbe",
+            "ro": "Călătorie spre cartierul muzeelor",
+            "en": "Trip to the Museum Quarter"
+          },
+          "coords": [
+            18.622,
+            48.771
+          ],
+          "category": "transit-hop",
+          "arrive_at": "11:20",
+          "stay_min": 0,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zur Haltestelle nahe der Piaristenkirche.",
+            "hu": "Szálljon buszra a Piarista templomhoz közeli megállóig.",
+            "ro": "Luați un autobuz până la stația de lângă Biserica Piaristă.",
+            "en": "Take a bus to the stop near the Piarist Church."
+          },
+          "hop_mode": "transit"
+        },
+        {
+          "name": {
+            "de": "Piaristenkirche & Obernitra-Museum",
+            "hu": "Piarista templom és Felső-nyitrai Múzeum",
+            "ro": "Biserica Piaristă și Muzeul Nitra Superioară",
+            "en": "Piarist Church & Museum of Upper Nitra"
+          },
+          "coords": [
+            18.6215,
+            48.7705
+          ],
+          "category": "museums",
+          "arrive_at": "11:25",
+          "stay_min": 150,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Kombinieren Sie diese beiden nahegelegenen Highlights.",
+            "hu": "Kombinálja ezt a két közeli látnivalót.",
+            "ro": "Combinați aceste două atracții din apropiere.",
+            "en": "Combine these two nearby highlights."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Statue von Kyrill und Method",
+            "hu": "Cirill és Metód szobra",
+            "ro": "Statuia lui Chiril și Metodiu",
+            "en": "Statue of Cyril and Methodius"
+          },
+          "coords": [
+            18.628,
+            48.773
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:35",
+          "stay_min": 15,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein Denkmal für die Missionare, die die slawische Schrift brachten.",
+            "hu": "A szláv írást hozó misszionáriusok emlékműve.",
+            "ro": "Un monument dedicat misionarilor care au adus scrierea slavă.",
+            "en": "A monument to the missionaries who brought the Slavic script."
+          },
+          "hop_mode": "walk"
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Prievidza effizient mit öffentlichen Verkehrsmitteln. Starten Sie im Herzen der Stadt, am Freiheitsplatz. Ein kurzer Spaziergang führt Sie zu den wichtigsten Sehenswürdigkeiten der Altstadt. Anschließend bringt Sie ein Bus bequem in einen anderen Stadtteil, wo Sie die barocke Piaristenkirche und das Obernitra-Museum entdecken können. Diese Tour ist ideal, um die Stadt in Cluster aufzuteilen und weite Wege zu vermeiden.",
+        "hu": "Fedezze fel Privigyét hatékonyan a tömegközlekedéssel. Induljon a város szívéből, a Szabadság térről. Egy rövid séta elvezeti az óváros legfontosabb látnivalóihoz. Ezután egy busz kényelmesen elviszi egy másik városrészbe, ahol felfedezheti a barokk Piarista templomot és a Felső-nyitrai Múzeumot. Ez a túra ideális a város látnivalóinak csoportosítására és a hosszú utak elkerülésére.",
+        "ro": "Explorați Prievidza eficient cu transportul public. Porniți din inima orașului, Piața Libertății. O scurtă plimbare vă va duce la principalele atracții din orașul vechi. Apoi, un autobuz vă va duce confortabil într-un alt cartier, unde puteți descoperi baroca Biserică Piaristă și Muzeul Nitra Superioară. Acest tur este ideal pentru a împărți orașul în clustere și a evita distanțele lungi.",
+        "en": "Explore Prievidza efficiently using public transport. Start in the heart of the city, Freedom Square. A short walk takes you to the main sights of the old town. Then, a bus will comfortably take you to another district where you can discover the Baroque Piarist Church and the Museum of Upper Nitra. This tour is ideal for clustering the city's sights and avoiding long distances."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Spišské párky",
+            "tip": "Eine würzige Wurst, perfekt für einen schnellen Imbiss unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Spišské párky (szepesi virsli)",
+            "tip": "Fűszeres kolbász, tökéletes egy gyors harapnivalóhoz útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Spišské párky",
+            "tip": "Un cârnat picant, perfect pentru o gustare rapidă pe drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Spišské párky",
+            "tip": "A spicy sausage, perfect for a quick snack on the go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof neben der Bartholomäuskirche",
+            "tip": "Ein historischer und ruhiger Ort zum Nachdenken.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Temető a Szent Bertalan-templom mellett",
+            "tip": "Történelmi és csendes hely az elmélkedésre.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul de lângă Biserica Sf. Bartolomeu",
+            "tip": "Un loc istoric și liniștit pentru reflecție.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cemetery next to St. Bartholomew's Church",
+            "tip": "A historic and quiet place for reflection.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Kaufen Sie hier Ihre Fahrkarten und einen kleinen Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszpályaudvaron",
+            "tip": "Vásárolja meg itt a jegyeket és egy kis harapnivalót."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la autogară",
+            "tip": "Cumpărați-vă biletele și o gustare de aici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus station",
+            "tip": "Buy your tickets and a small snack here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel.",
+          "Überprüfen Sie den Busfahrplan im Voraus.",
+          "Die meisten Busse sind modern und klimatisiert."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez.",
+          "Ellenőrizze előre a buszmenetrendet.",
+          "A legtöbb busz modern és légkondicionált."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public.",
+          "Verificați programul autobuzelor în avans.",
+          "Majoritatea autobuzelor sunt moderne și dotate cu aer condiționat."
+        ],
+        "en": [
+          "Buy a day ticket for public transport.",
+          "Check the bus schedule in advance.",
+          "Most buses are modern and air-conditioned."
+        ]
+      }
+    }
+  }
+}

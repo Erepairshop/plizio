@@ -1,0 +1,1376 @@
+{
+  "city_id": "greece-kalavryta-cities-v2",
+  "anchor": {
+    "name": "Kalavryta",
+    "coords": [
+      22.1167,
+      38.0333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am Platz der Freiheit, dem Herzen von Kalavryta. Am Vormittag tauchen Sie im Holocaust-Museum und am Ort der Opfer tief in die bewegende Geschichte ein. Mittags erleben Sie eine malerische Fahrt mit der Zahnradbahn Odontotos nach Zachlorou. Erkunden Sie am Nachmittag das Dorf und genießen Sie ein traditionelles Mittagessen, bevor Sie die Bahn zurück nach Kalavryta nehmen, erfüllt von unvergesslichen Eindrücken der Natur und Geschichte.",
+        "hu": "Kezdje a napot Kalavryta szívében, a Szabadság téren. A délelőtt folyamán merüljön el a város megrendítő történelmében a Holokauszt Múzeumban és az Áldozatok Emlékhelyénél. Délben egy festői utazás várja az Odontotos fogaskerekűvel Zachlorou falujába. Délután fedezze fel a falut és fogyasszon el egy hagyományos ebédet, mielőtt visszatérne Kalavrytába, telve a természet és a történelem felejthetetlen élményeivel.",
+        "ro": "Începeți ziua în Piața Libertății, inima orașului Kalavryta. În cursul dimineșii, aprofundați istoria emoționantă la Muzeul Holocaustului și la Locul Sacrificiului. La prânz, bucurați-vă de o călătorie pitorească cu trenul cu cremalieră Odontotos spre Zachlorou. După-amiaza, explorați satul și savurați un prânz tradițional înainte de a lua trenul înapoi spre Kalavryta, plini de impresii de neuitat despre natură și istorie.",
+        "en": "Start your day in Freedom Square, the heart of Kalavryta. In the morning, delve into the moving history at the Holocaust Museum and the Place of Sacrifice. At noon, enjoy a scenic journey on the Odontotos rack railway to Zachlorou. In the afternoon, explore the village and have a traditional lunch before taking the train back to Kalavryta, filled with unforgettable impressions of nature and history."
+      },
+      "stops": [
+        {
+          "name": {
+            "de": "Platz der Freiheit",
+            "hu": "Szabadság tér",
+            "ro": "Piața Libertății",
+            "en": "Freedom Square"
+          },
+          "coords": [
+            22.1145,
+            38.0341
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekter Startpunkt. Genießen Sie einen griechischen Kaffee in einem der Cafés.",
+            "hu": "Tökéletes kiindulópont. Igyon meg egy görög kávét az egyik kávézóban.",
+            "ro": "Punctul de plecare perfect. Savurați o cafea grecească la una dintre cafenele.",
+            "en": "Perfect starting point. Enjoy a Greek coffee in one of the cafés."
+          }
+        },
+        {
+          "name": {
+            "de": "Holocaust-Museum Kalavryta",
+            "hu": "Kalavrytai Holokauszt Múzeum",
+            "ro": "Muzeul Holocaustului din Kalavryta",
+            "en": "Kalavryta Holocaust Museum"
+          },
+          "coords": [
+            22.1129,
+            38.0352
+          ],
+          "category": "museums",
+          "arrive_at": "09:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für die Ausstellungen, sie sind sehr bewegend.",
+            "hu": "Szánjon időt a kiállításokra, nagyon megindítóak.",
+            "ro": "Acordați-vă timp pentru expoziții, sunt foarte emoționante.",
+            "en": "Take your time with the exhibits; they are very moving."
+          }
+        },
+        {
+          "name": {
+            "de": "Ort des Opfers",
+            "hu": "Áldozatok Emlékhelye",
+            "ro": "Locul Sacrificiului",
+            "en": "Place of Sacrifice"
+          },
+          "coords": [
+            22.1108,
+            38.0381
+          ],
+          "category": "monuments",
+          "arrive_at": "11:15",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Ort der Stille und des Gedenkens oberhalb der Stadt.",
+            "hu": "A csend és az emlékezés helye a város felett.",
+            "ro": "Un loc de reculegere și comemorare deasupra orașului.",
+            "en": "A place of silence and remembrance overlooking the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt mit der Odontotos Zahnradbahn",
+            "hu": "Utazás az Odontotos fogaskerekűvel",
+            "ro": "Călătorie cu trenul cu cremalieră Odontotos",
+            "en": "Ride the Odontotos Rack Railway"
+          },
+          "coords": [
+            22.1155,
+            38.0321
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Setzen Sie sich auf die linke Seite für die beste Aussicht auf die Schlucht.",
+            "hu": "Üljön a bal oldalra a szurdokra nyíló legjobb kilátásért.",
+            "ro": "Așezați-vă pe partea stângă pentru cea mai bună vedere a cheilor.",
+            "en": "Sit on the left side for the best views of the gorge."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Zachlorou",
+            "hu": "Ebéd Zachlorouban",
+            "ro": "Prânz în Zachlorou",
+            "en": "Lunch in Zachlorou"
+          },
+          "coords": [
+            22.175,
+            38.0792
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie Lammkoteletts in einer der Tavernen am Flussufer.",
+            "hu": "Kóstolja meg a bárányszeleteket az egyik folyóparti tavernában.",
+            "ro": "Încercați coastele de miel la una dintre tavernele de pe malul râului.",
+            "en": "Try the lamb chops at one of the riverside tavernas."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt nach Kalavryta",
+            "hu": "Visszaút Kalavrytába",
+            "ro": "Întoarcere la Kalavryta",
+            "en": "Return journey to Kalavryta"
+          },
+          "coords": [
+            22.1155,
+            38.0321
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 105,
+          "hop_from_prev_km": 4.6,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die Nachmittagssonne taucht die Schlucht in ein wunderschönes Licht.",
+            "hu": "A délutáni nap gyönyörű fénybe vonja a szurdokot.",
+            "ro": "Soarele de după-amiază scaldă cheile într-o lumină superbă.",
+            "en": "The afternoon sun casts a beautiful light over the gorge."
+          }
+        }
+      ],
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lammkoteletts (Paidakia)",
+            "tip": "Gegrillt über Holzkohle, ein Muss in den Bergen."
+          },
+          {
+            "name": "Formaela-Käse",
+            "tip": "Ein lokaler halbharter Käse, oft gegrillt serviert."
+          },
+          {
+            "name": "Taverna To Spiti",
+            "tip": "Bekannt für authentische, hausgemachte griechische Gerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bárányborda (Paidakia)",
+            "tip": "Faszenes grillen sütve, kötelező a hegyekben."
+          },
+          {
+            "name": "Formaela sajt",
+            "tip": "Helyi félkemény sajt, gyakran grillezve tálalják."
+          },
+          {
+            "name": "Taverna To Spiti",
+            "tip": "Híres az autentikus, házias görög ételeiről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Coaste de miel (Paidakia)",
+            "tip": "Gătite pe grătar cu cărbuni, un deliciu în munți."
+          },
+          {
+            "name": "Brânză Formaela",
+            "tip": "O brânză locală semi-tare, adesea servită la grătar."
+          },
+          {
+            "name": "Taverna To Spiti",
+            "tip": "Cunoscută pentru mâncărurile grecești autentice, ca la mama acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lamb Chops (Paidakia)",
+            "tip": "Grilled over charcoal, a must-try in the mountains."
+          },
+          {
+            "name": "Formaela Cheese",
+            "tip": "A local semi-hard cheese, often served grilled."
+          },
+          {
+            "name": "Taverna To Spiti",
+            "tip": "Known for authentic, home-cooked Greek dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang entlang des Vouraikos",
+            "tip": "Folgen Sie dem Wanderweg neben den Gleisen für ruhige Momente.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hügel des Opferortes",
+            "tip": "Bietet einen weiten, nachdenklichen Blick über die Stadt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Eine Bank am Platz der Freiheit",
+            "tip": "Beobachten Sie am späten Nachmittag das ruhige Dorfleben.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Vouraikos folyó mentén",
+            "tip": "Kövesse a sínek melletti ösvényt a csendes pillanatokért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Az Áldozatok Emlékhelyének dombja",
+            "tip": "Széles, elgondolkodtató kilátást nyújt a városra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Egy pad a Szabadság téren",
+            "tip": "Figyelje a csendes falusi életet a késő délutáni órákban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare de-a lungul râului Vouraikos",
+            "tip": "Urmați poteca de lângă șine pentru momente de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dealul Locului Sacrificiului",
+            "tip": "Oferă o priveliște panoramică și sobră asupra orașului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "O bancă în Piața Libertății",
+            "tip": "Priviți viața liniștită a satului la sfârșitul după-amiezii.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along the Vouraikos River",
+            "tip": "Follow the hiking path next to the tracks for quiet moments.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hill of the Place of Sacrifice",
+            "tip": "Offers a wide, contemplative view over the town.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A bench in Freedom Square",
+            "tip": "Watch the quiet village life in the late afternoon.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig und Kräuter",
+            "tip": "Suchen Sie nach Thymianhonig und Bergtee."
+          },
+          {
+            "name": "Handgefertigte Holzschnitzereien",
+            "tip": "Kleine Souvenirläden verkaufen oft lokale Handwerkskunst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz és fűszernövények",
+            "tip": "Keressen kakukkfűmézet és hegyi teát."
+          },
+          {
+            "name": "Kézzel készített fafaragások",
+            "tip": "A kis ajándékboltok gyakran árulnak helyi kézműves termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere și ierburi locale",
+            "tip": "Căutați miere de cimbru și ceai de munte."
+          },
+          {
+            "name": "Sculpturi în lemn artizanale",
+            "tip": "Micile magazine de suveniruri vând adesea produse artizanale locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey and Herbs",
+            "tip": "Look for thyme honey and mountain tea."
+          },
+          {
+            "name": "Handmade wooden crafts",
+            "tip": "Small souvenir shops often sell local handicrafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel auf unebenem Gelände laufen werden.",
+          "Überprüfen Sie den Fahrplan der Odontotos-Bahn im Voraus, besonders außerhalb der Saison.",
+          "Nehmen Sie Wasser mit, vor allem für die Wanderung um Zachlorou.",
+          "Seien Sie respektvoll an den historischen Gedenkstätten."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog sétálni egyenetlen terepen.",
+          "Előre ellenőrizze az Odontotos vasút menetrendjét, különösen szezonon kívül.",
+          "Vigyen magával vizet, különösen a Zachlorou körüli túrához.",
+          "Legyen tisztelettudó a történelmi emlékhelyeken."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe teren accidentat.",
+          "Verificați programul trenului Odontotos în avans, mai ales în extrasezon.",
+          "Luați apă cu dumneavoastră, mai ales pentru drumeția din jurul Zachlorou.",
+          "Fiți respectuos la locurile de comemorare istorică."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking a lot on uneven ground.",
+          "Check the Odontotos train schedule in advance, especially out of season.",
+          "Bring water, especially for the hike around Zachlorou.",
+          "Be respectful at the historical memorial sites."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:35",
+      "total_km": 22.5,
+      "stop_count": 5,
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet am Freiheitsplatz und führt Sie zuerst zu den historischen Stätten der Stadt. Am Vormittag radeln Sie durch das Tal in Richtung des Klosters Mega Spilaion, genießen die frische Bergluft und die dramatische Landschaft. Zum Mittagessen kehren Sie in eine traditionelle Taverne in Kalavryta ein. Der Nachmittag ist einer entspannten Erkundung der Umgebung des Bahnhofs und einem letzten Blick auf die Vouraikos-Schlucht gewidmet, bevor der Tag ausklingt.",
+        "hu": "A kerékpártúra a Szabadság térről indul, és először a város történelmi helyszíneihez vezet. Délelőtt a völgyön keresztül teker a Mega Spilaion kolostor felé, élvezve a friss hegyi levegőt és a drámai tájat. Ebédre térjen be egy hagyományos tavernába Kalavrytában. A délután a vasútállomás környékének laza felfedezésével és a Vouraikos-szurdokra vetett utolsó pillantással telik, mielőtt a nap véget ér.",
+        "ro": "Turul cu bicicleta începe din Piața Libertății și vă duce mai întâi la siturile istorice ale orașului. Dimineața, pedalați prin vale spre Mănăstirea Mega Spilaion, bucurându-vă de aerul curat de munte și de peisajul dramatic. La prânz, reveniți la o tavernă tradițională în Kalavryta. După-amiaza este dedicată explorării relaxate a zonei gării și unei ultime priviri asupra Cheilor Vouraikos înainte de încheierea zilei.",
+        "en": "Your bike tour starts in Freedom Square, first taking you to the town's historical sites. In the morning, you'll cycle through the valley towards Mega Spilaion Monastery, enjoying the fresh mountain air and dramatic scenery. For lunch, return to a traditional taverna in Kalavryta. The afternoon is for a relaxed exploration around the train station area and a final look at the Vouraikos Gorge before the day ends."
+      },
+      "stops": [
+        {
+          "name": {
+            "de": "Platz der Freiheit & Museum",
+            "hu": "Szabadság tér és Múzeum",
+            "ro": "Piața Libertății & Muzeu",
+            "en": "Freedom Square & Museum"
+          },
+          "coords": [
+            22.1145,
+            38.0341
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Platzbesuch mit dem nahegelegenen Museum, bevor Sie losradeln.",
+            "hu": "Kombinálja a tér látogatását a közeli múzeummal, mielőtt elindulna biciklizni.",
+            "ro": "Combinați vizita în piață cu muzeul din apropiere înainte de a porni la drum.",
+            "en": "Combine the square visit with the nearby museum before you start cycling."
+          }
+        },
+        {
+          "name": {
+            "de": "Radtour in Richtung Mega Spilaion",
+            "hu": "Kerékpártúra a Mega Spilaion felé",
+            "ro": "Tur cu bicicleta spre Mega Spilaion",
+            "en": "Bike ride towards Mega Spilaion"
+          },
+          "coords": [
+            22.155,
+            38.07
+          ],
+          "category": "natural features",
+          "arrive_at": "11:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 10,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Straße bietet atemberaubende Ausblicke. Fahren Sie nur so weit, wie es angenehm ist.",
+            "hu": "Az út lélegzetelállító kilátást nyújt. Csak addig menjen, ameddig kényelmes.",
+            "ro": "Drumul oferă priveliști uluitoare. Mergeți doar atât cât vă simțiți confortabil.",
+            "en": "The road offers breathtaking views. Just ride as far as you feel comfortable."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Kalavryta",
+            "hu": "Ebéd Kalavrytában",
+            "ro": "Prânz în Kalavryta",
+            "en": "Lunch in Kalavryta"
+          },
+          "coords": [
+            22.115,
+            38.0345
+          ],
+          "category": "gastro",
+          "arrive_at": "13:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 10,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Nach der Radtour haben Sie sich eine herzhafte Mahlzeit verdient.",
+            "hu": "A kerékpártúra után megérdemel egy kiadós ételt.",
+            "ro": "După turul cu bicicleta, meritați o masă copioasă.",
+            "en": "After the bike ride, you've earned a hearty meal."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahnhof der Odontotos-Bahn",
+            "hu": "Az Odontotos-vasút állomása",
+            "ro": "Gara trenului Odontotos",
+            "en": "Odontotos Railway Station"
+          },
+          "coords": [
+            22.1155,
+            38.0321
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schauen Sie sich die alte Lokomotive an und genießen Sie die Atmosphäre.",
+            "hu": "Nézze meg a régi mozdonyt, és élvezze a hangulatot.",
+            "ro": "Admirați locomotiva veche și bucurați-vă de atmosferă.",
+            "en": "Check out the old locomotive and enjoy the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Ort des Opfers",
+            "hu": "Áldozatok Emlékhelye",
+            "ro": "Locul Sacrificiului",
+            "en": "Place of Sacrifice"
+          },
+          "coords": [
+            22.1108,
+            38.0381
+          ],
+          "category": "monuments",
+          "arrive_at": "15:40",
+          "stay_min": 55,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein letzter Halt zum Nachdenken mit Panoramablick zum Abschluss des Tages.",
+            "hu": "Egy utolsó megálló a nap végén, elgondolkodásra, panorámás kilátással.",
+            "ro": "O ultimă oprire pentru reflecție cu o vedere panoramică la finalul zilei.",
+            "en": "A final reflective stop with a panoramic view to end the day."
+          }
+        }
+      ],
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Griechischer Salat (Choriatiki)",
+            "tip": "Erfrischend und leicht, perfekt für ein Mittagessen nach dem Radeln."
+          },
+          {
+            "name": "Souvlaki",
+            "tip": "Schnell, lecker und gibt Energie für den Rest des Tages."
+          },
+          {
+            "name": "To Paramithi",
+            "tip": "Eine Taverne, die für ihre Grillgerichte und gemütliche Atmosphäre bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Görög saláta (Choriatiki)",
+            "tip": "Frissítő és könnyű, tökéletes ebéd biciklizés után."
+          },
+          {
+            "name": "Szuvlaki",
+            "tip": "Gyors, finom, és energiát ad a nap hátralévő részére."
+          },
+          {
+            "name": "To Paramithi",
+            "tip": "Grillételeiről és hangulatos légköréről ismert taverna."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Salată grecească (Choriatiki)",
+            "tip": "Răcoritoare și ușoară, perfectă pentru un prânz după ciclism."
+          },
+          {
+            "name": "Souvlaki",
+            "tip": "Rapid, delicios și oferă energie pentru restul zilei."
+          },
+          {
+            "name": "To Paramithi",
+            "tip": "O tavernă renumită pentru grătarele sale și atmosfera primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Greek Salad (Choriatiki)",
+            "tip": "Refreshing and light, perfect for a post-biking lunch."
+          },
+          {
+            "name": "Souvlaki",
+            "tip": "Quick, delicious, and provides energy for the rest of the day."
+          },
+          {
+            "name": "To Paramithi",
+            "tip": "A taverna known for its grilled meats and cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkte an der Straße nach Mega Spilaion",
+            "tip": "Halten Sie an, um die Stille der Berge und die Aussicht zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Flussufer des Vouraikos",
+            "tip": "Einige Abschnitte in Stadtnähe sind ideal für eine kurze, ruhige Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópontok a Mega Spilaion felé vezető úton",
+            "tip": "Álljon meg, hogy élvezze a hegyek csendjét és a kilátást.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Vouraikos folyó partja",
+            "tip": "A város közelében lévő szakaszok ideálisak egy rövid, csendes pihenőre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Puncte de belvedere pe drumul spre Mega Spilaion",
+            "tip": "Opriți-vă pentru a vă bucura de liniștea munților și de priveliște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul râului Vouraikos",
+            "tip": "Unele secțiuni din apropierea orașului sunt ideale pentru o pauză scurtă și liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoints on the road to Mega Spilaion",
+            "tip": "Stop to enjoy the silence of the mountains and the view.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vouraikos riverbank",
+            "tip": "Some sections near the town are ideal for a short, quiet break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Teigwaren (Chylopites)",
+            "tip": "Hausgemachte Nudeln sind ein authentisches Mitbringsel."
+          },
+          {
+            "name": "Feta-Käse aus Kalavryta",
+            "tip": "Die Region ist berühmt für ihren hochwertigen Feta."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi tésztafélék (Chylopites)",
+            "tip": "A házi tészta autentikus ajándék."
+          },
+          {
+            "name": "Kalavrytai feta sajt",
+            "tip": "A régió híres a kiváló minőségű fetájáról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paste locale (Chylopites)",
+            "tip": "Pastele de casă sunt un suvenir autentic."
+          },
+          {
+            "name": "Brânză Feta din Kalavryta",
+            "tip": "Regiunea este renumită pentru brânza sa Feta de înaltă calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Pasta (Chylopites)",
+            "tip": "Homemade pasta makes for an authentic souvenir."
+          },
+          {
+            "name": "Feta Cheese from Kalavryta",
+            "tip": "The region is famous for its high-quality feta."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen in die Berge können steil sein; ein E-Bike könnte eine gute Option sein.",
+          "Tragen Sie einen Helm und seien Sie auf schmalen Straßen vorsichtig.",
+          "Prüfen Sie das Wetter, bevor Sie losfahren; in den Bergen kann es sich schnell ändern.",
+          "Ein Fahrradschloss ist nützlich für die Stopps in der Stadt."
+        ],
+        "hu": [
+          "A hegyi utak meredekek lehetnek; egy e-bike jó választás lehet.",
+          "Viseljen sisakot, és legyen óvatos a keskeny utakon.",
+          "Indulás előtt ellenőrizze az időjárást; a hegyekben gyorsan változhat.",
+          "A városi megállókhoz hasznos egy kerékpárzár."
+        ],
+        "ro": [
+          "Drumurile spre munți pot fi abrupte; o bicicletă electrică ar putea fi o opțiune bună.",
+          "Purtați cască și fiți prudenți pe drumurile înguste.",
+          "Verificați vremea înainte de a pleca; se poate schimba rapid la munte.",
+          "O încuietoare pentru bicicletă este utilă pentru opririle în oraș."
+        ],
+        "en": [
+          "The roads into the mountains can be steep; an e-bike might be a good option.",
+          "Wear a helmet and be cautious on narrow roads.",
+          "Check the weather before you go; it can change quickly in the mountains.",
+          "A bike lock is useful for stops in the town."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 64.6,
+      "stop_count": 7,
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt im Zentrum von Kalavryta, wo Sie die historischen Gedenkstätten zu Fuß erkunden. Anschließend fahren Sie zum majestätischen Kloster Agia Lavra, einem Symbol der griechischen Unabhängigkeit. Mittags geht es weiter zum beeindruckenden Kloster Mega Spilaion, das in eine Felswand gebaut ist. Am Nachmittag entdecken Sie das Naturwunder der Höhle der Seen, bevor Sie den Tag mit einem entspannten Abendessen in Kalavryta ausklingen lassen.",
+        "hu": "Autós napja Kalavryta központjában kezdődik, ahol gyalogosan fedezi fel a történelmi emlékhelyeket. Ezután a fenséges Agia Lavra kolostorhoz hajt, a görög függetlenség szimbólumához. Délben továbbutazik a lenyűgöző Mega Spilaion kolostorhoz, amely egy sziklafalba épült. Délután felfedezi a Tavak Barlangjának természeti csodáját, mielőtt egy pihentető vacsorával zárja a napot Kalavrytában.",
+        "ro": "Ziua cu mașina începe în centrul orașului Kalavryta, unde explorați pe jos locurile comemorative istorice. Apoi, conduceți spre majestuoasa Mănăstire Agia Lavra, un simbol al independenței grecești. La prânz, continuați spre impresionanta Mănăstire Mega Spilaion, construită într-o stâncă. După-amiaza, descoperiți minunea naturală a Peșterii Lacurilor, înainte de a încheia ziua cu o cină relaxantă în Kalavryta.",
+        "en": "Your car day begins in the center of Kalavryta, where you'll explore the historical memorial sites on foot. You'll then drive to the majestic Agia Lavra Monastery, a symbol of Greek independence. At noon, continue to the impressive Mega Spilaion Monastery, built into a cliff face. In the afternoon, discover the natural wonder of the Cave of the Lakes before ending the day with a relaxing dinner in Kalavryta."
+      },
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Kalavryta Stadt: Museum & Opferort",
+            "hu": "Kalavryta városi klaszter: Múzeum és Áldozatok Emlékhelye",
+            "ro": "Cluster Oraș Kalavryta: Muzeu și Locul Sacrificiului",
+            "en": "Kalavryta Town Cluster: Museum & Place of Sacrifice"
+          },
+          "coords": [
+            22.1129,
+            38.0352
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Museums und erkunden Sie die Gedenkstätten zu Fuß.",
+            "hu": "Parkoljon a múzeum közelében, és fedezze fel gyalog az emlékhelyeket.",
+            "ro": "Parcați lângă muzeu și explorați locurile comemorative pe jos.",
+            "en": "Park near the museum and explore the memorial sites on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zum Platz der Freiheit",
+            "hu": "Séta a Szabadság térre",
+            "ro": "Plimbare spre Piața Libertății",
+            "en": "Walk to Freedom Square"
+          },
+          "coords": [
+            22.1145,
+            38.0341
+          ],
+          "category": "squares",
+          "arrive_at": "10:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum zum belebten Zentrum.",
+            "hu": "Rövid séta a múzeumtól a nyüzsgő központig.",
+            "ro": "O scurtă plimbare de la muzeu la centrul plin de viață.",
+            "en": "A short walk from the museum to the bustling center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Agia Lavra",
+            "hu": "Agia Lavra kolostor",
+            "ro": "Mănăstirea Agia Lavra",
+            "en": "Monastery of Agia Lavra"
+          },
+          "coords": [
+            22.0833,
+            38.0167
+          ],
+          "category": "churches",
+          "arrive_at": "11:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Historisch bedeutsam. Hier wurde die griechische Revolution ausgerufen.",
+            "hu": "Történelmi jelentőségű. Itt hirdették ki a görög forradalmat.",
+            "ro": "Semnificație istorică. Aici a fost declarată revoluția greacă.",
+            "en": "Historically significant. The Greek Revolution was declared here."
+          }
+        },
+        {
+          "name": {
+            "de": "Mega Spilaion Kloster",
+            "hu": "Mega Spilaion kolostor",
+            "ro": "Mănăstirea Mega Spilaion",
+            "en": "Mega Spilaion Monastery"
+          },
+          "coords": [
+            22.174,
+            38.089
+          ],
+          "category": "churches",
+          "arrive_at": "12:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 15,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Die Architektur ist atemberaubend, direkt in den Fels gebaut.",
+            "hu": "Az építészet lélegzetelállító, közvetlenül a sziklába épült.",
+            "ro": "Arhitectura este uluitoare, construită direct în stâncă.",
+            "en": "The architecture is stunning, built right into the cliff face."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe von Mega Spilaion",
+            "hu": "Ebéd a Mega Spilaion közelében",
+            "ro": "Prânz lângă Mega Spilaion",
+            "en": "Lunch near Mega Spilaion"
+          },
+          "coords": [
+            22.176,
+            38.08
+          ],
+          "category": "gastro",
+          "arrive_at": "14:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Finden Sie eine Taverne mit Aussicht auf die Schlucht.",
+            "hu": "Keressen egy tavernát, ahonnan kilátás nyílik a szurdokra.",
+            "ro": "Găsiți o tavernă cu vedere la chei.",
+            "en": "Find a taverna with a view of the gorge."
+          }
+        },
+        {
+          "name": {
+            "de": "Höhle der Seen",
+            "hu": "Tavak Barlangja",
+            "ro": "Peștera Lacurilor",
+            "en": "Cave of the Lakes"
+          },
+          "coords": [
+            22.198,
+            37.962
+          ],
+          "category": "natural features",
+          "arrive_at": "15:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 17,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Tragen Sie eine Jacke, es ist kühl im Inneren. Die unterirdischen Seen sind einzigartig.",
+            "hu": "Viseljen kabátot, bent hűvös van. A föld alatti tavak egyedülállóak.",
+            "ro": "Purtați o jachetă, este răcoare înăuntru. Lacurile subterane sunt unice.",
+            "en": "Wear a jacket, it's cool inside. The underground lakes are unique."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr nach Kalavryta",
+            "hu": "Visszatérés Kalavrytába",
+            "ro": "Întoarcere la Kalavryta",
+            "en": "Return to Kalavryta"
+          },
+          "coords": [
+            22.1167,
+            38.0333
+          ],
+          "category": "city",
+          "arrive_at": "18:25",
+          "stay_min": 0,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 27,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Zeit für ein wohlverdientes Abendessen in der Stadt.",
+            "hu": "Ideje egy jól megérdemelt vacsorának a városban.",
+            "ro": "Timpul pentru o cină binemeritată în oraș.",
+            "en": "Time for a well-deserved dinner in town."
+          }
+        }
+      ],
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Wildschweineintopf (Agriochoiros)",
+            "tip": "Eine herzhafte Spezialität der Bergregion."
+          },
+          {
+            "name": "Bohnensuppe (Fasolada)",
+            "tip": "Ein klassisches, nahrhaftes griechisches Gericht."
+          },
+          {
+            "name": "Oenou Yi",
+            "tip": "Restaurant mit einer guten Auswahl an lokalen Weinen und gehobener Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vaddisznópörkölt (Agriochoiros)",
+            "tip": "A hegyvidék kiadós specialitása."
+          },
+          {
+            "name": "Bableves (Fasolada)",
+            "tip": "Klasszikus, tápláló görög étel."
+          },
+          {
+            "name": "Oenou Yi",
+            "tip": "Étterem helyi borok széles választékával és emelkedett szintű konyhával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tocană de mistreț (Agriochoiros)",
+            "tip": "O specialitate consistentă a regiunii montane."
+          },
+          {
+            "name": "Supă de fasole (Fasolada)",
+            "tip": "Un fel de mâncare grecesc clasic și hrănitor."
+          },
+          {
+            "name": "Oenou Yi",
+            "tip": "Restaurant cu o selecție bună de vinuri locale și bucătărie rafinată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wild Boar Stew (Agriochoiros)",
+            "tip": "A hearty specialty of the mountain region."
+          },
+          {
+            "name": "Bean Soup (Fasolada)",
+            "tip": "A classic, nutritious Greek dish."
+          },
+          {
+            "name": "Oenou Yi",
+            "tip": "Restaurant with a good selection of local wines and fine dining."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gelände des Klosters Agia Lavra",
+            "tip": "Der Innenhof und die Gärten sind ein Ort der Ruhe und Besinnung.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kalavryta Ski Center (im Sommer)",
+            "tip": "Genießen Sie die Stille der Berge und die weite Aussicht ohne Schnee.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az Agia Lavra kolostor területe",
+            "tip": "Az udvar és a kertek a béke és az elmélyülés helyszínei.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kalavrytai síközpont (nyáron)",
+            "tip": "Élvezze a hegyek csendjét és a széles kilátást hó nélkül.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Domeniul Mănăstirii Agia Lavra",
+            "tip": "Curtea interioară și grădinile sunt un loc de pace și reflecție.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Centrul de schi Kalavryta (vara)",
+            "tip": "Bucurați-vă de liniștea munților și de priveliștea panoramică fără zăpadă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Agia Lavra Monastery Grounds",
+            "tip": "The courtyard and gardens are a place of peace and reflection.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kalavryta Ski Center (in summer)",
+            "tip": "Enjoy the silence of the mountains and the vast views without snow.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rose Sugar (Rodozachari)",
+            "tip": "Eine einzigartige lokale Süßigkeit aus Rosenblättern."
+          },
+          {
+            "name": "Wein aus der Region",
+            "tip": "Die Weinberge um Achaia produzieren ausgezeichnete Weine."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rózsaszirom lekvár (Rodozachari)",
+            "tip": "Egyedi helyi édesség rózsaszirmokból."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "Achaia környéki szőlőültetvények kiváló borokat termelnek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dulceață de trandafiri (Rodozachari)",
+            "tip": "Un desert local unic, făcut din petale de trandafir."
+          },
+          {
+            "name": "Vin din regiune",
+            "tip": "Podișurile din Achaia produc vinuri excelente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rose Spoon Sweet (Rodozachari)",
+            "tip": "A unique local sweet made from rose petals."
+          },
+          {
+            "name": "Local Wine",
+            "tip": "The vineyards around Achaia produce excellent wines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Bergstraßen sind kurvenreich, fahren Sie vorsichtig.",
+          "Überprüfen Sie die Öffnungszeiten der Klöster und der Höhle, da sie variieren können.",
+          "Tanken Sie voll, bevor Sie in die Berge fahren.",
+          "Die Parkplatzsuche in der Nähe der Sehenswürdigkeiten kann in der Hochsaison eine Herausforderung sein."
+        ],
+        "hu": [
+          "A hegyi utak kanyargósak, vezessen óvatosan.",
+          "Ellenőrizze a kolostorok és a barlang nyitvatartási idejét, mert változhatnak.",
+          "Tankoljon tele, mielőtt a hegyekbe indul.",
+          "A látnivalók közelében a parkolás kihívást jelenthet a főszezonban."
+        ],
+        "ro": [
+          "Drumurile de munte sunt șerpuite, conduceți cu prudență.",
+          "Verificați programul de funcționare al mănăstirilor și al peșterii, deoarece poate varia.",
+          "Faceți plinul înainte de a pleca spre munte.",
+          "Găsirea unui loc de parcare lângă atracții poate fi o provocare în sezonul de vârf."
+        ],
+        "en": [
+          "The mountain roads are winding, drive carefully.",
+          "Check the opening hours of the monasteries and the cave, as they can vary.",
+          "Fill up your gas tank before heading into the mountains.",
+          "Parking near the sights can be challenging during peak season."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 46.2,
+      "stop_count": 6,
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln dreht sich um die berühmte Odontotos-Zahnradbahn. Starten Sie in Kalavryta mit der Erkundung der Stadt zu Fuß. Am späten Vormittag nehmen Sie die Bahn durch die atemberaubende Vouraikos-Schlucht. Das Ziel ist das Kloster Mega Spilaion, das Sie nach einer kurzen Wanderung vom Bahnhof Zachlorou erreichen. Nach dem Mittagessen in einer Taverne dort fahren Sie am Nachmittag mit der Bahn zurück und lassen den Tag mit nachdenklichen Momenten am Ort der Opfer ausklingen.",
+        "hu": "A tömegközlekedéssel töltött nap a híres Odontotos fogaskerekű köré épül. Kezdje Kalavrytában a város gyalogos felfedezésével. Késő délelőtt utazzon a vonattal a lélegzetelállító Vouraikos-szurdokon keresztül. A cél a Mega Spilaion kolostor, amelyet a Zachlorou állomásról egy rövid túrával érhet el. Egy ottani tavernában elköltött ebéd után délután visszautazik a vonattal, és a napot az Áldozatok Emlékhelyénél eltöltött elgondolkodtató pillanatokkal zárja.",
+        "ro": "Ziua dumneavoastră cu transportul public se concentrează pe faimosul tren cu cremalieră Odontotos. Începeți în Kalavryta explorând orașul pe jos. Spre sfârșitul dimineții, luați trenul prin uimitoarele Chei Vouraikos. Destinația este Mănăstirea Mega Spilaion, la care ajungeți după o scurtă drumeție de la gara Zachlorou. După prânz la o tavernă locală, vă întoarceți cu trenul după-amiaza și încheiați ziua cu momente de reflecție la Locul Sacrificiului.",
+        "en": "Your day on public transport revolves around the famous Odontotos rack railway. Start in Kalavryta by exploring the town on foot. In the late morning, take the train through the stunning Vouraikos Gorge. The destination is Mega Spilaion Monastery, reached after a short hike from Zachlorou station. After lunch at a local taverna, you'll take the train back in the afternoon, ending the day with reflective moments at the Place of Sacrifice."
+      },
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Kalavryta: Museum & Platz der Freiheit",
+            "hu": "Kalavryta klaszter: Múzeum és Szabadság tér",
+            "ro": "Cluster Kalavryta: Muzeu și Piața Libertății",
+            "en": "Kalavryta Cluster: Museum & Freedom Square"
+          },
+          "coords": [
+            22.1129,
+            38.0352
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit Kultur und Geschichte, alles ist zu Fuß erreichbar.",
+            "hu": "Kezdje a napot kultúrával és történelemmel, minden gyalogosan elérhető.",
+            "ro": "Începeți ziua cu cultură și istorie, totul este la distanță de mers pe jos.",
+            "en": "Start the day with culture and history, all within walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Odontotos-Bahn nach Zachlorou",
+            "hu": "Odontotos vasút Zachlorouba",
+            "ro": "Trenul Odontotos spre Zachlorou",
+            "en": "Odontotos train to Zachlorou"
+          },
+          "coords": [
+            22.1155,
+            38.0321
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie Fahrkarten im Voraus, besonders an Wochenenden.",
+            "hu": "Vásároljon jegyet előre, különösen hétvégén.",
+            "ro": "Cumpărați biletele în avans, mai ales în weekend.",
+            "en": "Buy your tickets in advance, especially on weekends."
+          }
+        },
+        {
+          "name": {
+            "de": "Wanderung zum Kloster Mega Spilaion",
+            "hu": "Túra a Mega Spilaion kolostorhoz",
+            "ro": "Drumeție la Mănăstirea Mega Spilaion",
+            "en": "Hike to Mega Spilaion Monastery"
+          },
+          "coords": [
+            22.174,
+            38.089
+          ],
+          "category": "churches",
+          "arrive_at": "12:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Weg ist steil, aber die Aussicht ist die Mühe wert. Gutes Schuhwerk ist ein Muss.",
+            "hu": "Az ösvény meredek, de a kilátás megéri a fáradságot. A jó cipő elengedhetetlen.",
+            "ro": "Poteca este abruptă, dar priveliștea merită efortul. Încălțămintea adecvată este obligatorie.",
+            "en": "The path is steep, but the view is worth the effort. Good footwear is a must."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Zachlorou",
+            "hu": "Ebéd Zachlorouban",
+            "ro": "Prânz în Zachlorou",
+            "en": "Lunch in Zachlorou"
+          },
+          "coords": [
+            22.175,
+            38.0792
+          ],
+          "category": "gastro",
+          "arrive_at": "14:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Belohnen Sie sich in einer der Tavernen am Bahnhof.",
+            "hu": "Jutalmazza meg magát az egyik állomási tavernában.",
+            "ro": "Recompensați-vă la una dintre tavernele de lângă gară.",
+            "en": "Reward yourself at one of the tavernas by the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt mit der Odontotos-Bahn",
+            "hu": "Visszaút az Odontotos vasúttal",
+            "ro": "Întoarcere cu trenul Odontotos",
+            "en": "Return journey on the Odontotos train"
+          },
+          "coords": [
+            22.1155,
+            38.0321
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Genießen Sie die Fahrt zurück mit dem weicheren Licht des Nachmittags.",
+            "hu": "Élvezze a visszaútat a délután lágyabb fényeiben.",
+            "ro": "Bucurați-vă de călătoria de întoarcere în lumina mai blândă a după-amiezii.",
+            "en": "Enjoy the ride back with the softer afternoon light."
+          }
+        },
+        {
+          "name": {
+            "de": "Abschluss am Ort des Opfers",
+            "hu": "Befejezés az Áldozatok Emlékhelyénél",
+            "ro": "Încheiere la Locul Sacrificiului",
+            "en": "Conclusion at the Place of Sacrifice"
+          },
+          "coords": [
+            22.1108,
+            38.0381
+          ],
+          "category": "monuments",
+          "arrive_at": "17:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein ruhiger Moment zum Nachdenken am Ende eines ereignisreichen Tages.",
+            "hu": "Egy csendes pillanat az elmélkedésre egy eseménydús nap végén.",
+            "ro": "Un moment de liniște pentru reflecție la sfârșitul unei zile pline.",
+            "en": "A quiet moment for reflection at the end of an eventful day."
+          }
+        }
+      ],
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kuchen mit lokalem Käse (Tyropita)",
+            "tip": "Ein perfekter Snack für unterwegs."
+          },
+          {
+            "name": "Tsipouro",
+            "tip": "Ein starker lokaler Schnaps, oft mit kleinen Gerichten (Meze) serviert."
+          },
+          {
+            "name": "Taverna Romantzo (Zachlorou)",
+            "tip": "Traditionelle Küche in einer malerischen Umgebung, ideal für Wanderer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pite helyi sajttal (Tyropita)",
+            "tip": "Tökéletes harapnivaló útközben."
+          },
+          {
+            "name": "Cipuro",
+            "tip": "Erős helyi pálinka, gyakran kis ételekkel (meze) tálalják."
+          },
+          {
+            "name": "Taverna Romantzo (Zachlorou)",
+            "tip": "Hagyományos konyha festői környezetben, ideális túrázóknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plăcintă cu brânză locală (Tyropita)",
+            "tip": "O gustare perfectă pentru drum."
+          },
+          {
+            "name": "Tsipouro",
+            "tip": "O băutură spirtoasă locală puternică, adesea servită cu mici aperitive (meze)."
+          },
+          {
+            "name": "Taverna Romantzo (Zachlorou)",
+            "tip": "Bucătărie tradițională într-un cadru pitoresc, ideală pentru drumeți."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Cheese Pie (Tyropita)",
+            "tip": "A perfect snack to have on the go."
+          },
+          {
+            "name": "Tsipouro",
+            "tip": "A strong local spirit, often served with small dishes (meze)."
+          },
+          {
+            "name": "Taverna Romantzo (Zachlorou)",
+            "tip": "Traditional cuisine in a picturesque setting, ideal for hikers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Während der Zugfahrt",
+            "tip": "Es gibt Abschnitte, in denen Sie einfach nur die Natur bewundern können.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Weg zum Kloster Mega Spilaion",
+            "tip": "Halten Sie inne und lauschen Sie den Geräuschen der Natur.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A vonatút során",
+            "tip": "Vannak szakaszok, ahol egyszerűen csak a természetet csodálhatja.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Út a Mega Spilaion kolostorhoz",
+            "tip": "Álljon meg és hallgassa a természet hangjait.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "În timpul călătoriei cu trenul",
+            "tip": "Există secțiuni unde puteți pur și simplu să admirați natura.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Potecă spre Mănăstirea Mega Spilaion",
+            "tip": "Opriți-vă și ascultați sunetele naturii.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "During the train ride",
+            "tip": "There are sections where you can just admire nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Path to Mega Spilaion Monastery",
+            "tip": "Stop for a moment and listen to the sounds of nature.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Miniatur-Zahnradbahn",
+            "tip": "Ein beliebtes Souvenir, das in den Läden am Bahnhof erhältlich ist."
+          },
+          {
+            "name": "Lokale Kräuter",
+            "tip": "Oregano und Bergtee aus der Region sind von hoher Qualität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Miniatűr fogaskerekű",
+            "tip": "Népszerű ajándéktárgy, kapható az állomási boltokban."
+          },
+          {
+            "name": "Helyi fűszernövények",
+            "tip": "A régióból származó oregánó és hegyi tea kiváló minőségű."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tren cu cremalieră în miniatură",
+            "tip": "Un suvenir popular disponibil în magazinele din gară."
+          },
+          {
+            "name": "Ierburi locale",
+            "tip": "Oregano și ceaiul de munte din regiune sunt de înaltă calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Miniature rack railway",
+            "tip": "A popular souvenir available in the station shops."
+          },
+          {
+            "name": "Local herbs",
+            "tip": "Oregano and mountain tea from the region are of high quality."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Fahrplan der Odontotos-Bahn sorgfältig, um Ihre Anschlüsse nicht zu verpassen.",
+          "Die Wanderung zum Kloster ist anspruchsvoll. Seien Sie vorbereitet.",
+          "In Zachlorou gibt es nur begrenzte Dienstleistungen, planen Sie entsprechend.",
+          "Nehmen Sie Bargeld mit, da nicht alle Tavernen Karten akzeptieren."
+        ],
+        "hu": [
+          "Gondosan ellenőrizze az Odontotos-vasút menetrendjét, hogy ne késse le a csatlakozást.",
+          "A túra a kolostorhoz megerőltető. Készüljön fel rá.",
+          "Zachlorouban korlátozottak a szolgáltatások, tervezzen ennek megfelelően.",
+          "Vigyen magával készpénzt, mert nem minden taverna fogad el kártyát."
+        ],
+        "ro": [
+          "Verificați cu atenție programul trenului Odontotos pentru a nu pierde legăturile.",
+          "Drumeția spre mănăstire este solicitantă. Fiți pregătiți.",
+          "Serviciile în Zachlorou sunt limitate, planificați în consecință.",
+          "Luați numerar, deoarece nu toate tavernele acceptă carduri."
+        ],
+        "en": [
+          "Check the Odontotos train schedule carefully so you don't miss your connections.",
+          "The hike to the monastery is demanding. Be prepared.",
+          "Services in Zachlorou are limited, so plan accordingly.",
+          "Bring cash, as not all tavernas may accept cards."
+        ]
+      }
+    }
+  }
+}

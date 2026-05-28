@@ -1,0 +1,1460 @@
+{
+  "city_id": "bulgaria-kharmanli-cities-v2",
+  "anchor": {
+    "name": "Charmanli",
+    "coords": [
+      25.9,
+      41.9333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 3.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Der alte Uhrturm",
+            "hu": "Régi óratorony",
+            "ro": "Vechiul turn cu ceas",
+            "en": "The old Clock Tower"
+          },
+          "coords": [
+            25.9005,
+            41.933
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Ausgangspunkt, um das Zentrum zu erkunden.",
+            "hu": "Tökéletes kiindulópont a központ felfedezéséhez.",
+            "ro": "Punctul de plecare perfect pentru a explora centrul.",
+            "en": "The perfect starting point to explore the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für die Vereinigung",
+            "hu": "Az Egyesülés Emlékműve",
+            "ro": "Monumentul Unificării",
+            "en": "Monument of the Unification"
+          },
+          "coords": [
+            25.9015,
+            41.9325
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:33",
+          "stay_min": 15,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein wichtiger Ort, der an die bulgarische Geschichte erinnert.",
+            "hu": "Fontos hely, amely a bolgár történelemre emlékeztet.",
+            "ro": "Un loc important care comemorează istoria bulgară.",
+            "en": "An important spot commemorating Bulgarian history."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum Harmanli",
+            "hu": "Harmanli Történeti Múzeum",
+            "ro": "Muzeul de Istorie Harmanli",
+            "en": "Harmanli Historical Museum"
+          },
+          "coords": [
+            25.899,
+            41.9315
+          ],
+          "category": "museums",
+          "arrive_at": "09:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein, um die archäologischen Funde zu sehen.",
+            "hu": "Szánjon elég időt a régészeti leletek megtekintésére.",
+            "ro": "Planificați suficient timp pentru a vedea descoperirile arheologice.",
+            "en": "Allow enough time to see the archaeological finds."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Athanasius",
+            "hu": "Szent Atanáz-templom",
+            "ro": "Biserica Sfântul Atanasie",
+            "en": "Church of Saint Athanasius"
+          },
+          "coords": [
+            25.897,
+            41.93
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Ikonostase und die Wandmalereien im Inneren.",
+            "hu": "Csodálja meg az ikonosztázt és a belső falfestményeket.",
+            "ro": "Admirați iconostasul și picturile murale din interior.",
+            "en": "Admire the iconostasis and the murals inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Die gebogene Brücke",
+            "hu": "A Görbe híd",
+            "ro": "Podul Curbat",
+            "en": "The Humpbacked Bridge"
+          },
+          "coords": [
+            25.893,
+            41.928
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein toller Ort für Fotos, besonders bei Sonnenuntergang.",
+            "hu": "Nagyszerű fotóhelyszín, különösen naplementekor.",
+            "ro": "Un loc excelent pentru fotografii, mai ales la apus.",
+            "en": "A great spot for photos, especially at sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "Quelle der weißfüßigen Jungfrau",
+            "hu": "A Fehérlábú Leány forrása",
+            "ro": "Izvorul Fecioarei cu picioare albe",
+            "en": "Spring of the White-Legged Maiden"
+          },
+          "coords": [
+            25.895,
+            41.926
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:09",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein mythischer Ort, perfekt für eine kurze Pause.",
+            "hu": "Egy mitikus hely, tökéletes egy rövid szünetre.",
+            "ro": "Un loc mitic, perfect pentru o scurtă pauză.",
+            "en": "A mythical place, perfect for a short break."
+          }
+        },
+        {
+          "name": {
+            "de": "Gergana-Park",
+            "hu": "Gergana Park",
+            "ro": "Parcul Gergana",
+            "en": "Gergana Park"
+          },
+          "coords": [
+            25.905,
+            41.935
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:37",
+          "stay_min": 120,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf einer Bank und genießen Sie die Ruhe.",
+            "hu": "Pihenjen meg egy padon és élvezze a nyugalmat.",
+            "ro": "Relaxați-vă pe o bancă și bucurați-vă de liniște.",
+            "en": "Relax on a bench and enjoy the tranquility."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Harmanli beginnt am historischen Uhrturm, dem Herz der Stadt. Ein kurzer Spaziergang führt Sie zum Denkmal der Vereinigung und weiter ins Geschichtsmuseum, wo Sie tief in die lokale Vergangenheit eintauchen. Die nahegelegene Athanasius-Kirche bietet spirituelle Ruhe, bevor Sie über die berühmte gebogene Brücke schlendern. Der Nachmittag steht im Zeichen der Entspannung: Sie besuchen die legendenumwobene Quelle der weißfüßigen Jungfrau und lassen den Tag im grünen Gergana-Park ausklingen.",
+        "hu": "Harmanli-i napja a város szívében, a történelmi Óratoronynál kezdődik. Egy rövid séta elvezeti az Egyesülés Emlékművéhez, majd a Történeti Múzeumba, ahol elmélyülhet a helyi múltban. A közeli Szent Atanáz-templom spirituális nyugalmat kínál, mielőtt átsétálna a híres Görbe hídon. A délután a pihenésé: meglátogatja a legendás Fehérlábú Leány forrását, és a zöld Gergana Parkban zárja a napot.",
+        "ro": "Ziua dvs. în Harmanli începe la vechiul Turn cu Ceas, inima orașului. O scurtă plimbare vă duce la Monumentul Unificării și mai departe la Muzeul de Istorie, unde vă veți cufunda în trecutul local. Biserica Sfântul Atanasie din apropiere oferă liniște spirituală înainte de a vă plimba peste faimosul Pod Curbat. După-amiaza este dedicată relaxării: vizitați legendarul Izvor al Fecioarei cu picioare albe și încheiați ziua în verdele Parc Gergana.",
+        "en": "Your day in Harmanli begins at the historic Clock Tower, the heart of the city. A short walk takes you to the Monument of Unification and on to the Historical Museum, where you'll delve deep into the local past. The nearby Church of Saint Athanasius offers spiritual tranquility before you stroll across the famous Humpbacked Bridge. The afternoon is for relaxation: you'll visit the legendary Spring of the White-Legged Maiden and end the day in the green Gergana Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Shkembe Chorba",
+            "tip": "Eine traditionelle Kuttelsuppe, ein Muss für Abenteuerlustige."
+          },
+          {
+            "name": "Banitsa",
+            "tip": "Ein Blätterteiggebäck mit Salzlakenkäse, perfekt für ein schnelles Frühstück."
+          },
+          {
+            "name": "Restaurant Prikazkite",
+            "tip": "Bietet eine breite Auswahl an traditionellen bulgarischen Gerichten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Shkembe Chorba",
+            "tip": "Hagyományos pacalleves, kötelező a kalandvágyóknak."
+          },
+          {
+            "name": "Banitsa",
+            "tip": "Sós sajttal töltött leveles tészta, tökéletes egy gyors reggelihez."
+          },
+          {
+            "name": "Prikazkite Étterem",
+            "tip": "A hagyományos bolgár ételek széles választékát kínálja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Shkembe Chorba",
+            "tip": "O ciorbă tradițională de burtă, obligatorie pentru cei aventuroși."
+          },
+          {
+            "name": "Banitsa",
+            "tip": "O plăcintă din foietaj cu brânză sărată, perfectă pentru un mic dejun rapid."
+          },
+          {
+            "name": "Restaurantul Prikazkite",
+            "tip": "Oferă o gamă largă de mâncăruri tradiționale bulgărești."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shkembe Chorba",
+            "tip": "A traditional tripe soup, a must-try for the adventurous."
+          },
+          {
+            "name": "Banitsa",
+            "tip": "A puff pastry with brine cheese, perfect for a quick breakfast."
+          },
+          {
+            "name": "Prikazkite Restaurant",
+            "tip": "Offers a wide range of traditional Bulgarian dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gergana-Park",
+            "tip": "Finden Sie eine ruhige Ecke zum Lesen oder einfach nur zum Entspannen.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Am Ufer des Harmanli-Flusses",
+            "tip": "Ein Spaziergang entlang des Flusses bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kirche des Heiligen Athanasius",
+            "tip": "Ein Ort der Stille und Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gergana Park",
+            "tip": "Keressen egy csendes sarkot olvasáshoz vagy csak pihenéshez.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "A Harmanli folyó partján",
+            "tip": "Séta a folyó mentén naplementekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Szent Atanáz-templom",
+            "tip": "A csend és az elmélkedés helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Gergana",
+            "tip": "Găsiți un colț liniștit pentru a citi sau pur și simplu pentru a vă relaxa.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Pe malul râului Harmanli",
+            "tip": "O plimbare de-a lungul râului la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Biserica Sfântul Atanasie",
+            "tip": "Un loc de liniște și contemplare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gergana Park",
+            "tip": "Find a quiet corner to read or just relax.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "On the banks of the Harmanli River",
+            "tip": "A walk along the river at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Church of Saint Athanasius",
+            "tip": "A place of silence and contemplation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach handgemachter Keramik und Textilien."
+          },
+          {
+            "name": "Souvenirläden im Zentrum",
+            "tip": "Ideal für Postkarten und kleine Andenken an Harmanli."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen kézzel készített kerámiákat és textíliákat."
+          },
+          {
+            "name": "Szuvírboltok a központban",
+            "tip": "Ideális képeslapokhoz és apró harmanli emléktárgyakhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați ceramică și textile lucrate manual."
+          },
+          {
+            "name": "Magazine de suveniruri din centru",
+            "tip": "Ideal pentru cărți poștale și mici suveniruri din Harmanli."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for handmade pottery and textiles."
+          },
+          {
+            "name": "Souvenir shops in the center",
+            "tip": "Ideal for postcards and small mementos of Harmanli."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den größten Teil des Tages zu Fuß unterwegs sein werden.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit; Sie können sie an der Quelle der weißfüßigen Jungfrau auffüllen.",
+          "Die meisten Sehenswürdigkeiten liegen nahe beieinander, sodass ein Spaziergang die beste Art ist, die Stadt zu erleben.",
+          "Prüfen Sie die Öffnungszeiten des Museums im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a nap nagy részében gyalogolni fog.",
+          "Hozzon magával újratölthető vizes palackot; feltöltheti a Fehérlábú Leány forrásánál.",
+          "A legtöbb látnivaló közel van egymáshoz, így a séta a legjobb módja a város megismerésének.",
+          "Előre ellenőrizze a múzeum nyitvatartási idejét."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge pe jos cea mai mare parte a zilei.",
+          "Luați o sticlă de apă reutilizabilă; o puteți umple la Izvorul Fecioarei cu picioare albe.",
+          "Majoritatea atracțiilor sunt apropiate, așa că plimbarea este cel mai bun mod de a experimenta orașul.",
+          "Verificați în avans programul de funcționare al muzeului."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be walking for most of the day.",
+          "Bring a reusable water bottle; you can refill it at the Spring of the White-Legged Maiden.",
+          "Most sights are close to each other, so walking is the best way to experience the city.",
+          "Check the museum's opening hours in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:52",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kulturzentrum Druschba",
+            "hu": "Druzsba Kulturális Központ",
+            "ro": "Centrul Cultural Drujba",
+            "en": "Druzhba Cultural Center"
+          },
+          "coords": [
+            25.903,
+            41.934
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schauen Sie sich das Programm an, vielleicht gibt es eine Abendveranstaltung.",
+            "hu": "Nézze meg a programot, hátha van esti előadás.",
+            "ro": "Verificați programul, poate există un eveniment de seară.",
+            "en": "Check the schedule, there might be an evening event."
+          }
+        },
+        {
+          "name": {
+            "de": "Der alte Uhrturm",
+            "hu": "Régi óratorony",
+            "ro": "Vechiul turn cu ceas",
+            "en": "The old Clock Tower"
+          },
+          "coords": [
+            25.9005,
+            41.933
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp für ein Foto mit dem Wahrzeichen der Stadt.",
+            "hu": "Egy rövid megálló egy fotóra a város jelképével.",
+            "ro": "O oprire scurtă pentru o fotografie cu simbolul orașului.",
+            "en": "A quick stop for a photo with the city's landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum Harmanli",
+            "hu": "Harmanli Történeti Múzeum",
+            "ro": "Muzeul de Istorie Harmanli",
+            "en": "Harmanli Historical Museum"
+          },
+          "coords": [
+            25.899,
+            41.9315
+          ],
+          "category": "museums",
+          "arrive_at": "09:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab, bevor Sie das Museum betreten.",
+            "hu": "Biztonságosan zárja le a kerékpárját, mielőtt belép a múzeumba.",
+            "ro": "Asigurați-vă bicicleta înainte de a intra în muzeu.",
+            "en": "Secure your bike safely before entering the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Athanasius",
+            "hu": "Szent Atanáz-templom",
+            "ro": "Biserica Sfântul Atanasie",
+            "en": "Church of Saint Athanasius"
+          },
+          "coords": [
+            25.897,
+            41.93
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Bitte seien Sie respektvoll und kleiden Sie sich angemessen.",
+            "hu": "Kérjük, legyen tisztelettudó és öltözködjön megfelelően.",
+            "ro": "Vă rugăm să fiți respectuos și să vă îmbrăcați corespunzător.",
+            "en": "Please be respectful and dress appropriately."
+          }
+        },
+        {
+          "name": {
+            "de": "Die gebogene Brücke",
+            "hu": "A Görbe híd",
+            "ro": "Podul Curbat",
+            "en": "The Humpbacked Bridge"
+          },
+          "coords": [
+            25.893,
+            41.928
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:33",
+          "stay_min": 30,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie langsam über die Brücke und genießen Sie die Aussicht.",
+            "hu": "Lassan hajtson át a hídon, és élvezze a kilátást.",
+            "ro": "Treceți încet peste pod și bucurați-vă de priveliște.",
+            "en": "Ride slowly over the bridge and enjoy the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Quelle der weißfüßigen Jungfrau",
+            "hu": "A Fehérlábú Leány forrása",
+            "ro": "Izvorul Fecioarei cu picioare albe",
+            "en": "Spring of the White-Legged Maiden"
+          },
+          "coords": [
+            25.895,
+            41.926
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:06",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Füllen Sie Ihre Wasserflasche mit dem berühmten Quellwasser.",
+            "hu": "Töltse fel vizes palackját a híres forrásvízzel.",
+            "ro": "Umpleți-vă sticla de apă cu faimoasa apă de izvor.",
+            "en": "Refill your water bottle with the famous spring water."
+          }
+        },
+        {
+          "name": {
+            "de": "Gergana-Park",
+            "hu": "Gergana Park",
+            "ro": "Parcul Gergana",
+            "en": "Gergana Park"
+          },
+          "coords": [
+            25.905,
+            41.935
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause im Grünen. Es gibt viele schattige Plätze.",
+            "hu": "Tökéletes egy ebédszünetre a zöldben. Sok árnyékos hely van.",
+            "ro": "Perfect pentru o pauză de prânz în natură. Există multe locuri umbroase.",
+            "en": "Perfect for a lunch break in the green. There are many shady spots."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Kulturzentrum Druschba und radeln Sie zum Herzen der Stadt, dem alten Uhrturm. Von dort geht es weiter zum Geschichtsmuseum für eine Dosis Kultur. Nach der Besichtigung der Athanasius-Kirche führt Sie Ihr Weg zur beeindruckenden gebogenen Brücke über den Fluss. Eine kurze Fahrt bringt Sie zur mythischen Quelle der weißfüßigen Jungfrau. Den entspannten Abschluss Ihrer Tour bildet eine ausgedehnte Pause im Gergana-Park, wo Sie die Natur genießen können.",
+        "hu": "Kezdje kerékpártúráját a Druzsba Kulturális Központnál, és tekerjen a város szívébe, a régi Óratoronyhoz. Onnan folytassa útját a Történeti Múzeumba egy adag kultúráért. A Szent Atanáz-templom megtekintése után útja a folyón átívelő, lenyűgöző Görbe hídhoz vezet. Egy rövid tekerés elvisz a mitikus Fehérlábú Leány forrásához. A túra laza befejezéseként tartson egy hosszabb szünetet a Gergana Parkban, ahol élvezheti a természetet.",
+        "ro": "Începeți turul cu bicicleta de la Centrul Cultural Drujba și pedalați spre inima orașului, vechiul Turn cu Ceas. De acolo, continuați spre Muzeul de Istorie pentru o doză de cultură. După vizitarea Bisericii Sfântul Atanasie, drumul vă duce la impresionantul Pod Curbat peste râu. O scurtă plimbare cu bicicleta vă va duce la miticul Izvor al Fecioarei cu picioare albe. Încheiați-vă turul relaxant cu o pauză extinsă în Parcul Gergana, unde vă puteți bucura de natură.",
+        "en": "Start your bike tour at the Druzhba Cultural Center and cycle to the heart of the city, the old Clock Tower. From there, continue to the Historical Museum for a dose of culture. After visiting the Church of Saint Athanasius, your path leads you to the impressive Humpbacked Bridge over the river. A short ride will take you to the mythical Spring of the White-Legged Maiden. End your tour with a relaxing extended break in Gergana Park, where you can enjoy nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tarator",
+            "tip": "Eine kalte Gurken-Joghurt-Suppe, sehr erfrischend an einem heißen Tag."
+          },
+          {
+            "name": "Kavarma",
+            "tip": "Ein langsam gegarter Eintopf mit Schweine- oder Hühnerfleisch und Gemüse."
+          },
+          {
+            "name": "Lokale Mehana (Taverne)",
+            "tip": "Fragen Sie nach dem Tagesgericht für ein authentisches Erlebnis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tarator",
+            "tip": "Hideg uborkás-joghurtos leves, nagyon frissítő egy forró napon."
+          },
+          {
+            "name": "Kavarma",
+            "tip": "Lassan főzött pörkölt sertés- vagy csirkehússal és zöldségekkel."
+          },
+          {
+            "name": "Helyi Mehana (Taverna)",
+            "tip": "Kérdezze a napi ajánlatot egy autentikus élményért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tarator",
+            "tip": "O supă rece de castraveți și iaurt, foarte răcoritoare într-o zi fierbinte."
+          },
+          {
+            "name": "Kavarma",
+            "tip": "O tocană gătită lent, cu carne de porc sau pui și legume."
+          },
+          {
+            "name": "Mehana (Tavernă) locală",
+            "tip": "Întrebați care este felul zilei pentru o experiență autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tarator",
+            "tip": "A cold cucumber and yogurt soup, very refreshing on a hot day."
+          },
+          {
+            "name": "Kavarma",
+            "tip": "A slow-cooked stew with pork or chicken and vegetables."
+          },
+          {
+            "name": "Local Mehana (Tavern)",
+            "tip": "Ask for the dish of the day for an authentic experience."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gergana-Park",
+            "tip": "Ein idealer Ort für ein Picknick nach einer Radtour.",
+            "emoji": "🧺"
+          },
+          {
+            "name": "Die gebogene Brücke",
+            "tip": "Halten Sie in der Mitte an und lauschen Sie dem Rauschen des Flusses.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Die Gärten um die Athanasius-Kirche",
+            "tip": "Ein friedlicher Ort zum Nachdenken.",
+            "emoji": "🕊️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gergana Park",
+            "tip": "Ideális hely egy piknikhez a kerékpártúra után.",
+            "emoji": "🧺"
+          },
+          {
+            "name": "A Görbe híd",
+            "tip": "Álljon meg a közepén, és hallgassa a folyó zúgását.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "A Szent Atanáz-templom körüli kertek",
+            "tip": "Békés hely az elmélkedésre.",
+            "emoji": "🕊️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Gergana",
+            "tip": "Un loc ideal pentru un picnic după un tur cu bicicleta.",
+            "emoji": "🧺"
+          },
+          {
+            "name": "Podul Curbat",
+            "tip": "Opriți-vă la mijloc și ascultați susurul apei.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Grădinile din jurul Bisericii Sfântul Atanasie",
+            "tip": "Un loc pașnic pentru reflecție.",
+            "emoji": "🕊️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gergana Park",
+            "tip": "An ideal place for a picnic after a bike ride.",
+            "emoji": "🧺"
+          },
+          {
+            "name": "The Humpbacked Bridge",
+            "tip": "Stop in the middle and listen to the sound of the river.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "The gardens around St. Athanasius Church",
+            "tip": "A peaceful place for reflection.",
+            "emoji": "🕊️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handwerksläden",
+            "tip": "Achten Sie auf Holzschnitzereien und bestickte Tischdecken."
+          },
+          {
+            "name": "Lokale Produkte",
+            "tip": "Kaufen Sie bulgarischen Honig oder Kräutertee als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves boltok",
+            "tip": "Figyeljen a fafaragásokra és hímzett terítőkre."
+          },
+          {
+            "name": "Helyi termékek",
+            "tip": "Vásároljon bolgár mézet vagy gyógyteát emlékként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Căutați sculpturi în lemn și fețe de masă brodate."
+          },
+          {
+            "name": "Produse locale",
+            "tip": "Cumpărați miere bulgărească sau ceai de plante ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Craft shops",
+            "tip": "Look for wood carvings and embroidered tablecloths."
+          },
+          {
+            "name": "Local products",
+            "tip": "Buy Bulgarian honey or herbal tea as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Zustand Ihres Fahrrads, bevor Sie losfahren, insbesondere die Bremsen und Reifen.",
+          "Tragen Sie einen Helm für Ihre Sicherheit.",
+          "Harmanli ist relativ flach, aber einige leichte Steigungen sind möglich.",
+          "Schließen Sie Ihr Fahrrad immer ab, wenn Sie es unbeaufsichtigt lassen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpár állapotát, különösen a fékeket és a gumikat.",
+          "Viseljen sisakot a biztonsága érdekében.",
+          "Harmanli viszonylag sík, de előfordulhatnak enyhe emelkedők.",
+          "Mindig zárja le a kerékpárját, ha felügyelet nélkül hagyja."
+        ],
+        "ro": [
+          "Verificați starea bicicletei înainte de a pleca, în special frânele și anvelopele.",
+          "Purtați o cască pentru siguranța dumneavoastră.",
+          "Harmanli este relativ plat, dar sunt posibile unele pante ușoare.",
+          "Încuietăți întotdeauna bicicleta atunci când o lăsați nesupravegheată."
+        ],
+        "en": [
+          "Check the condition of your bike before you leave, especially the brakes and tires.",
+          "Wear a helmet for your safety.",
+          "Harmanli is relatively flat, but some slight inclines are possible.",
+          "Always lock your bike when you leave it unattended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Historischen Museum",
+            "hu": "Parkoló a Történeti Múzeumnál",
+            "ro": "Parcare la Muzeul de Istorie",
+            "en": "Parking at the Historical Museum"
+          },
+          "coords": [
+            25.8985,
+            41.931
+          ],
+          "category": "other",
+          "arrive_at": "09:00",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein guter, zentraler Parkplatz, um den ersten Teil der Stadt zu Fuß zu erkunden.",
+            "hu": "Jó, központi parkoló a város első részének gyalogos felfedezéséhez.",
+            "ro": "O parcare bună, centrală, pentru a explora prima parte a orașului pe jos.",
+            "en": "A good, central parking spot to explore the first part of the city on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum Harmanli",
+            "hu": "Harmanli Történeti Múzeum",
+            "ro": "Muzeul de Istorie Harmanli",
+            "en": "Harmanli Historical Museum"
+          },
+          "coords": [
+            25.899,
+            41.9315
+          ],
+          "category": "museums",
+          "arrive_at": "09:07",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, um einen Überblick über die reiche Geschichte der Region zu bekommen.",
+            "hu": "Kezdje itt, hogy áttekintést kapjon a régió gazdag történelméről.",
+            "ro": "Începeți de aici pentru a obține o imagine de ansamblu asupra istoriei bogate a regiunii.",
+            "en": "Start here to get an overview of the region's rich history."
+          }
+        },
+        {
+          "name": {
+            "de": "Der alte Uhrturm",
+            "hu": "Régi óratorony",
+            "ro": "Vechiul turn cu ceas",
+            "en": "The old Clock Tower"
+          },
+          "coords": [
+            25.9005,
+            41.933
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:51",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Museum entfernt, ein Muss für jeden Besucher.",
+            "hu": "Csak egy rövid séta a múzeumtól, minden látogatónak kötelező.",
+            "ro": "La doar o scurtă plimbare de muzeu, o vizită obligatorie pentru fiecare vizitator.",
+            "en": "Just a short walk from the museum, a must-see for every visitor."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Athanasius",
+            "hu": "Szent Atanáz-templom",
+            "ro": "Biserica Sfântul Atanasie",
+            "en": "Church of Saint Athanasius"
+          },
+          "coords": [
+            25.897,
+            41.93
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der letzte Halt in diesem Cluster, bevor es mit dem Auto weitergeht.",
+            "hu": "Az utolsó megálló ebben a klaszterben, mielőtt autóval továbbmennénk.",
+            "ro": "Ultima oprire din acest cluster înainte de a continua cu mașina.",
+            "en": "The last stop in this cluster before continuing by car."
+          }
+        },
+        {
+          "name": {
+            "de": "Die gebogene Brücke",
+            "hu": "A Görbe híd",
+            "ro": "Podul Curbat",
+            "en": "The Humpbacked Bridge"
+          },
+          "coords": [
+            25.893,
+            41.928
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und spazieren Sie zur Brücke und zur Quelle.",
+            "hu": "Parkoljon a közelben, és sétáljon el a hídhoz és a forráshoz.",
+            "ro": "Parcați în apropiere și faceți o plimbare până la pod și la izvor.",
+            "en": "Park nearby and take a walk to the bridge and the spring."
+          }
+        },
+        {
+          "name": {
+            "de": "Quelle der weißfüßigen Jungfrau",
+            "hu": "A Fehérlábú Leány forrása",
+            "ro": "Izvorul Fecioarei cu picioare albe",
+            "en": "Spring of the White-Legged Maiden"
+          },
+          "coords": [
+            25.895,
+            41.926
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:37",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Ort für ein Picknick und eine längere Pause am Nachmittag.",
+            "hu": "Szép hely egy piknikhez és egy hosszabb délutáni szünethez.",
+            "ro": "Un loc frumos pentru un picnic și o pauză mai lungă după-amiaza.",
+            "en": "A beautiful spot for a picnic and a longer afternoon break."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag bequem mit dem Auto und parken Sie im Zentrum nahe dem Historischen Museum. Der Vormittag gehört dem ersten Cluster: Erkunden Sie zu Fuß das Museum, den ikonischen Uhrturm und die spirituelle Athanasius-Kirche. Nach diesen kulturellen Eindrücken nehmen Sie das Auto für eine kurze Fahrt zum zweiten Cluster. Dort erwartet Sie die berühmte gebogene Brücke. Spazieren Sie von dort zur legendenumwobenen Quelle der weißfüßigen Jungfrau und genießen Sie eine ausgiebige Pause in der Natur.",
+        "hu": "Kezdje a napot kényelmesen autóval, és parkoljon a központban, a Történeti Múzeum közelében. A délelőtt az első klaszteré: fedezze fel gyalog a múzeumot, az ikonikus Óratornyot és a spirituális Szent Atanáz-templomot. E kulturális élmények után üljön autóba egy rövid útra a második klaszterhez. Ott várja a híres Görbe híd. Sétáljon onnan a legendás Fehérlábú Leány forrásához, és élvezze a kiadós pihenőt a természetben.",
+        "ro": "Începeți-vă ziua confortabil cu mașina și parcați în centru, lângă Muzeul de Istorie. Dimineața este dedicată primului cluster: explorați pe jos muzeul, iconicul Turn cu Ceas și spirituala Biserică Sfântul Atanasie. După aceste impresii culturale, luați mașina pentru o scurtă călătorie către al doilea cluster. Acolo vă așteaptă faimosul Pod Curbat. De acolo, faceți o plimbare până la legendarul Izvor al Fecioarei cu picioare albe și bucurați-vă de o pauză lungă în natură.",
+        "en": "Start your day comfortably by car, parking in the center near the Historical Museum. The morning belongs to the first cluster: explore the museum, the iconic Clock Tower, and the spiritual Church of Saint Athanasius on foot. After these cultural impressions, take the car for a short drive to the second cluster. The famous Humpbacked Bridge awaits you there. From there, take a walk to the legendary Spring of the White-Legged Maiden and enjoy an extended break in nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gyuveche",
+            "tip": "Ein in einem Tontopf gebackenes Gericht mit Gemüse, Käse und oft einem Ei."
+          },
+          {
+            "name": "Shopska-Salat",
+            "tip": "Der berühmteste bulgarische Salat mit Tomaten, Gurken, Paprika und geriebenem Sirene-Käse."
+          },
+          {
+            "name": "Mehana Harmanli",
+            "tip": "Eine traditionelle Taverne mit authentischer Atmosphäre und lokaler Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyuveche",
+            "tip": "Agyagedényben sült étel zöldségekkel, sajttal és gyakran tojással."
+          },
+          {
+            "name": "Sopszka saláta",
+            "tip": "A leghíresebb bolgár saláta paradicsommal, uborkával, paprikával és reszelt szirene sajttal."
+          },
+          {
+            "name": "Harmanli Mehana",
+            "tip": "Hagyományos taverna autentikus hangulattal és helyi konyhával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ghiveci",
+            "tip": "Un fel de mâncare copt într-un vas de lut cu legume, brânză și adesea un ou."
+          },
+          {
+            "name": "Salată Shopska",
+            "tip": "Cea mai faimoasă salată bulgărească cu roșii, castraveți, ardei și brânză Sirene rasă."
+          },
+          {
+            "name": "Mehana Harmanli",
+            "tip": "O tavernă tradițională cu o atmosferă autentică și bucătărie locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gyuveche",
+            "tip": "A dish baked in a clay pot with vegetables, cheese, and often an egg."
+          },
+          {
+            "name": "Shopska Salad",
+            "tip": "The most famous Bulgarian salad with tomatoes, cucumbers, peppers, and grated Sirene cheese."
+          },
+          {
+            "name": "Mehana Harmanli",
+            "tip": "A traditional tavern with an authentic atmosphere and local cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Quelle der weißfüßigen Jungfrau",
+            "tip": "Ein ruhiger Ort, um der Legende nachzuspüren.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Ein Spaziergang entlang des Flusses",
+            "tip": "Finden Sie einen friedlichen Platz am Wasser, weit weg vom Stadtzentrum.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gergana-Park",
+            "tip": "Auch mit dem Auto leicht zu erreichen für eine entspannte Pause.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Fehérlábú Leány forrása",
+            "tip": "Csendes hely a legenda felidézésére.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Séta a folyó mentén",
+            "tip": "Találjon egy békés helyet a vízparton, távol a városközponttól.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gergana Park",
+            "tip": "Autóval is könnyen megközelíthető egy pihentető szünetre.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Izvorul Fecioarei cu picioare albe",
+            "tip": "Un loc liniștit pentru a reflecta asupra legendei.",
+            "emoji": "💧"
+          },
+          {
+            "name": "O plimbare de-a lungul râului",
+            "tip": "Găsiți un loc pașnic lângă apă, departe de centrul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Gergana",
+            "tip": "Ușor accesibil și cu mașina pentru o pauză relaxantă.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Spring of the White-Legged Maiden",
+            "tip": "A quiet place to reflect on the legend.",
+            "emoji": "💧"
+          },
+          {
+            "name": "A walk along the river",
+            "tip": "Find a peaceful spot by the water, away from the city center.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gergana Park",
+            "tip": "Also easily accessible by car for a relaxing break.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden in der Umgebung",
+            "tip": "Mit dem Auto können Sie Bauernhöfe in der Nähe besuchen und frische Produkte kaufen."
+          },
+          {
+            "name": "Bulgarischer Wein",
+            "tip": "Halten Sie Ausschau nach lokalen Weinen aus der Thrakischen Tiefebene."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok a környéken",
+            "tip": "Autóval meglátogathatja a közeli farmokat és friss termékeket vásárolhat."
+          },
+          {
+            "name": "Bolgár bor",
+            "tip": "Keresse a helyi borokat a Trák-alföldről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine agricole din zonă",
+            "tip": "Cu mașina, puteți vizita fermele din apropiere și puteți cumpăra produse proaspete."
+          },
+          {
+            "name": "Vin bulgăresc",
+            "tip": "Căutați vinuri locale din Câmpia Traciei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops in the area",
+            "tip": "By car, you can visit nearby farms and buy fresh produce."
+          },
+          {
+            "name": "Bulgarian wine",
+            "tip": "Look for local wines from the Thracian Valley."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf Parkbeschränkungen im Stadtzentrum.",
+          "Die Cluster-Strategie hilft, Parkgebühren zu sparen und mehr zu Fuß zu sehen.",
+          "Ein Auto ermöglicht es Ihnen auch, leicht zu Restaurants oder Aussichtspunkten etwas außerhalb zu gelangen.",
+          "Planen Sie Ihre Route zwischen den Clustern, um Zeit zu sparen."
+        ],
+        "hu": [
+          "Figyeljen a parkolási korlátozásokra a városközpontban.",
+          "A klaszterstratégia segít spórolni a parkolási díjakon és többet látni gyalog.",
+          "Az autó lehetővé teszi, hogy könnyen eljusson a kissé kívül eső éttermekhez vagy kilátópontokhoz.",
+          "Tervezze meg az útvonalat a klaszterek között, hogy időt takarítson meg."
+        ],
+        "ro": [
+          "Fiți atenți la restricțiile de parcare din centrul orașului.",
+          "Strategia cluster vă ajută să economisiți taxele de parcare și să vedeți mai multe pe jos.",
+          "O mașină vă permite, de asemenea, să ajungeți cu ușurință la restaurante sau puncte de belvedere situate puțin în afara orașului.",
+          "Planificați-vă traseul între clustere pentru a economisi timp."
+        ],
+        "en": [
+          "Pay attention to parking restrictions in the city center.",
+          "The cluster strategy helps save on parking fees and see more on foot.",
+          "A car also allows you to easily get to restaurants or viewpoints slightly outside the city.",
+          "Plan your route between clusters to save time."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:42",
+      "total_km": 3.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentrale Bushaltestelle",
+            "hu": "Központi buszmegálló",
+            "ro": "Stația centrală de autobuz",
+            "en": "Central Bus Stop"
+          },
+          "coords": [
+            25.904,
+            41.9345
+          ],
+          "category": "other",
+          "arrive_at": "09:00",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Starten Sie hier. Die meisten Sehenswürdigkeiten des Zentrums sind zu Fuß erreichbar.",
+            "hu": "Kezdje itt. A központ legtöbb látnivalója gyalogosan elérhető.",
+            "ro": "Începeți de aici. Majoritatea atracțiilor din centru sunt accesibile pe jos.",
+            "en": "Start here. Most of the central sights are within walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Druschba",
+            "hu": "Druzsba Kulturális Központ",
+            "ro": "Centrul Cultural Drujba",
+            "en": "Druzhba Cultural Center"
+          },
+          "coords": [
+            25.903,
+            41.934
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:07",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Blick auf das Gebäude, bevor Sie weiter ins Herz der Stadt gehen.",
+            "hu": "Egy rövid pillantás az épületre, mielőtt továbbmenne a város szívébe.",
+            "ro": "O privire rapidă la clădire înainte de a vă îndrepta spre inima orașului.",
+            "en": "A quick look at the building before heading into the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für die Vereinigung",
+            "hu": "Az Egyesülés Emlékműve",
+            "ro": "Monumentul Unificării",
+            "en": "Monument of the Unification"
+          },
+          "coords": [
+            25.9015,
+            41.9325
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:36",
+          "stay_min": 20,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Reflektieren Sie über die Geschichte Bulgariens an diesem wichtigen Monument.",
+            "hu": "Gondolkodjon el Bulgária történelménél ennél a fontos emlékműnél.",
+            "ro": "Reflectați asupra istoriei Bulgariei la acest monument important.",
+            "en": "Reflect on Bulgaria's history at this important monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle nahe der gebogenen Brücke",
+            "hu": "Megálló a Görbe híd közelében",
+            "ro": "Stație lângă Podul Curbat",
+            "en": "Stop near the Humpbacked Bridge"
+          },
+          "coords": [
+            25.894,
+            41.929
+          ],
+          "category": "other",
+          "arrive_at": "10:08",
+          "stay_min": 5,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Von hier aus erkunden Sie den südlichen Teil der Stadt.",
+            "hu": "Innen fedezze fel a város déli részét.",
+            "ro": "De aici explorați partea de sud a orașului.",
+            "en": "Explore the southern part of the city from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Die gebogene Brücke",
+            "hu": "A Görbe híd",
+            "ro": "Podul Curbat",
+            "en": "The Humpbacked Bridge"
+          },
+          "coords": [
+            25.893,
+            41.928
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:17",
+          "stay_min": 240,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für die Brücke, die Quelle und ein Mittagessen in der Nähe.",
+            "hu": "Szánjon időt a hídra, a forrásra és egy ebédre a közelben.",
+            "ro": "Acordați-vă timp pentru pod, izvor și un prânz în apropiere.",
+            "en": "Take your time for the bridge, the spring, and lunch nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr autofreier Tag beginnt an der zentralen Bushaltestelle. Erkunden Sie das erste Cluster zu Fuß: das Kulturzentrum Druschba und das Denkmal der Vereinigung. Anschließend bringt Sie ein lokaler Bus in die Nähe der berühmten gebogenen Brücke. Dies ist Ihr zweiter Cluster. Verbringen Sie den Rest des Vormittags und den frühen Nachmittag damit, die Brücke zu bewundern, zur Quelle der weißfüßigen Jungfrau zu spazieren und in einem der nahegelegenen Restaurants zu Mittag zu essen. Ein kurzer Bus-Trip, und Sie haben die wichtigsten Sehenswürdigkeiten der Stadt entspannt erlebt.",
+        "hu": "Autómentes napja a központi buszmegállóban kezdődik. Fedezze fel az első klasztert gyalog: a Druzsba Kulturális Központot és az Egyesülés Emlékművét. Ezután egy helyi busz elviszi a híres Görbe híd közelébe. Ez a második klaszter. Töltse a délelőtt hátralévő részét és a kora délutánt a híd csodálásával, sétáljon el a Fehérlábú Leány forrásához, és ebédeljen a közeli éttermek egyikében. Egy rövid buszozás, és nyugodtan megtapasztalta a város legfontosabb látnivalóit.",
+        "ro": "Ziua dvs. fără mașină începe la stația centrală de autobuz. Explorați primul cluster pe jos: Centrul Cultural Drujba și Monumentul Unificării. Apoi, un autobuz local vă va duce în apropierea faimosului Pod Curbat. Acesta este al doilea cluster. Petreceți restul dimineții și începutul după-amiezii admirând podul, plimbându-vă la Izvorul Fecioarei cu picioare albe și luând prânzul la unul dintre restaurantele din apropiere. O scurtă călătorie cu autobuzul și ați experimentat relaxat cele mai importante atracții ale orașului.",
+        "en": "Your car-free day begins at the central bus station. Explore the first cluster on foot: the Druzhba Cultural Center and the Monument of Unification. Afterwards, a local bus will take you near the famous Humpbacked Bridge. This is your second cluster. Spend the rest of the morning and early afternoon admiring the bridge, walking to the Spring of the White-Legged Maiden, and having lunch at one of the nearby restaurants. A short bus ride, and you've experienced the city's main sights in a relaxed way."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kebapche",
+            "tip": "Gegrillte Hackfleischröllchen, ein beliebter bulgarischer Straßensnack."
+          },
+          {
+            "name": "Boza",
+            "tip": "Ein fermentiertes Malzgetränk, das oft zum Frühstück mit Banitsa getrunken wird."
+          },
+          {
+            "name": "Restaurant am Busbahnhof",
+            "tip": "Oft gibt es hier einfache, aber leckere und günstige lokale Gerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kebapche",
+            "tip": "Grillezett darált hús tekercs, népszerű bolgár utcai étel."
+          },
+          {
+            "name": "Boza",
+            "tip": "Erjesztett malátaital, amelyet gyakran reggelire fogyasztanak banitsával."
+          },
+          {
+            "name": "Étterem a buszpályaudvaron",
+            "tip": "Gyakran kínálnak egyszerű, de finom és olcsó helyi ételeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kebapche",
+            "tip": "Rulouri de carne tocată la grătar, o gustare populară bulgărească de stradă."
+          },
+          {
+            "name": "Bragă",
+            "tip": "O băutură de malț fermentată, adesea consumată la micul dejun cu banitsa."
+          },
+          {
+            "name": "Restaurant la autogară",
+            "tip": "Adesea oferă mâncăruri locale simple, dar gustoase și ieftine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kebapche",
+            "tip": "Grilled minced meat rolls, a popular Bulgarian street food."
+          },
+          {
+            "name": "Boza",
+            "tip": "A fermented malt drink, often consumed for breakfast with banitsa."
+          },
+          {
+            "name": "Restaurant at the bus station",
+            "tip": "Often offers simple but tasty and inexpensive local dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Bank im Gergana-Park",
+            "tip": "Leicht mit dem Bus zu erreichen für eine Auszeit vom Sightseeing.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Blick aus dem Busfenster",
+            "tip": "Beobachten Sie das alltägliche Leben, während Sie durch die Stadt fahren.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Friedhof bei der Kirche",
+            "tip": "Ein Ort der unerwarteten Stille und Geschichte.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy pad a Gergana Parkban",
+            "tip": "Könnyen megközelíthető busszal egy kis szünetre a városnézésből.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kilátás a busz ablakából",
+            "tip": "Figyelje a mindennapi életet, miközben áthalad a városon.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Temető a templomnál",
+            "tip": "A váratlan csend és történelem helye.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă în Parcul Gergana",
+            "tip": "Ușor accesibil cu autobuzul pentru o pauză de la vizitarea obiectivelor turistice.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Privind pe geamul autobuzului",
+            "tip": "Observați viața de zi cu zi în timp ce călătoriți prin oraș.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Cimitirul de lângă biserică",
+            "tip": "Un loc de liniște și istorie neașteptată.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench in Gergana Park",
+            "tip": "Easily accessible by bus for a break from sightseeing.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "View from the bus window",
+            "tip": "Observe everyday life as you travel through the city.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Cemetery near the church",
+            "tip": "A place of unexpected silence and history.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske am Busbahnhof",
+            "tip": "Finden Sie Zeitungen, Snacks und kleine Souvenirs."
+          },
+          {
+            "name": "Geschäfte entlang der Hauptstraße",
+            "tip": "Steigen Sie aus und erkunden Sie die Läden, wenn Ihnen etwas ins Auge fällt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok a buszpályaudvaron",
+            "tip": "Találjon újságokat, rágcsálnivalókat és apró ajándéktárgyakat."
+          },
+          {
+            "name": "Boltok a főutca mentén",
+            "tip": "Szálljon le és fedezze fel a boltokat, ha valami megragadja a tekintetét."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri la autogară",
+            "tip": "Găsiți ziare, gustări și mici suveniruri."
+          },
+          {
+            "name": "Magazine de-a lungul străzii principale",
+            "tip": "Coborâți și explorați magazinele dacă ceva vă atrage atenția."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks at the bus station",
+            "tip": "Find newspapers, snacks, and small souvenirs."
+          },
+          {
+            "name": "Shops along the main street",
+            "tip": "Get off and explore the shops if something catches your eye."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich im Voraus über die Buslinien und Fahrpläne.",
+          "Haben Sie Kleingeld für Bustickets bereit.",
+          "Eine Tageskarte könnte günstiger sein, wenn Sie mehrere Fahrten planen.",
+          "Achten Sie auf die Ansagen der Haltestellen oder verfolgen Sie die Route auf einer Karte."
+        ],
+        "hu": [
+          "Előre tájékozódjon a buszjáratokról és menetrendekről.",
+          "Készítsen elő aprópénzt a buszjegyekhez.",
+          "Egy napijegy olcsóbb lehet, ha több utazást tervez.",
+          "Figyeljen a megállók bemondására, vagy kövesse az útvonalat egy térképen."
+        ],
+        "ro": [
+          "Informați-vă în avans despre rutele și orarele autobuzelor.",
+          "Pregătiți mărunțiș pentru biletele de autobuz.",
+          "Un abonament de o zi ar putea fi mai ieftin dacă planificați mai multe călătorii.",
+          "Fiți atenți la anunțurile stațiilor sau urmăriți traseul pe o hartă."
+        ],
+        "en": [
+          "Find out about bus routes and schedules in advance.",
+          "Have small change ready for bus tickets.",
+          "A day pass might be cheaper if you plan multiple trips.",
+          "Pay attention to the stop announcements or follow the route on a map."
+        ]
+      }
+    }
+  }
+}

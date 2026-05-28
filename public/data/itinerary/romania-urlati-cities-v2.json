@@ -1,0 +1,1002 @@
+{
+  "city_id": "romania-urlati-cities-v2",
+  "anchor": {
+    "name": "Urlați",
+    "coords": [
+      26.23,
+      45.0
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.0,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 3.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Zentraler Platz",
+          "coords": [
+            26.23,
+            44.99
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ideal für einen Morgenkaffee.",
+            "hu": "Tökéletes egy reggeli kávéhoz.",
+            "ro": "Ideal pentru o cafea de dimineață.",
+            "en": "Perfect for a morning coffee."
+          }
+        },
+        {
+          "name": "Denkmal des Aufstands von 1907",
+          "coords": [
+            26.231,
+            44.991
+          ],
+          "category": "historical",
+          "arrive_at": "09:39",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kurzer historischer Stopp.",
+            "hu": "Rövid történelmi megálló.",
+            "ro": "Scurt popas istoric.",
+            "en": "Short historical stop."
+          }
+        },
+        {
+          "name": "Museum für Ethnographie",
+          "coords": [
+            26.229,
+            44.992
+          ],
+          "category": "museum",
+          "arrive_at": "10:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecke lokale Traditionen.",
+            "hu": "Fedezd fel a helyi hagyományokat.",
+            "ro": "Descoperă tradițiile locale.",
+            "en": "Discover local traditions."
+          }
+        },
+        {
+          "name": "Herrenhaus Bellu",
+          "coords": [
+            26.222,
+            44.998
+          ],
+          "category": "historical",
+          "arrive_at": "12:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundere die schöne Architektur.",
+            "hu": "Csodáld meg a gyönyörű építészetet.",
+            "ro": "Admiră arhitectura deosebită.",
+            "en": "Admire the beautiful architecture."
+          }
+        },
+        {
+          "name": "Steinkirche",
+          "coords": [
+            26.22,
+            44.999
+          ],
+          "category": "religious",
+          "arrive_at": "13:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ort der Stille und Besinnung.",
+            "hu": "A csend és az elmélyülés helye.",
+            "ro": "Loc de liniște și reculegere.",
+            "en": "A place of silence and reflection."
+          }
+        },
+        {
+          "name": "Urlați Weinberge",
+          "coords": [
+            26.215,
+            45.002
+          ],
+          "category": "natural",
+          "arrive_at": "14:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probiere den berühmten Rotwein.",
+            "hu": "Kóstold meg a híres vörösbort.",
+            "ro": "Degustă faimosul vin roșu.",
+            "en": "Taste the famous red wine."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginne den Tag im Herzen von Urlați am zentralen Platz und erfahre mehr über die Geschichte am Denkmal des Aufstands von 1907. Danach tauchst du im Ethnographischen Museum in die lokale Kultur ein. Am Nachmittag spazierst du hinauf zum malerischen Herrenhaus Bellu, bevor du in den umliegenden Weinbergen die edlen Tropfen der Dealu Mare Region genießt.",
+        "hu": "Kezdd a napot Urlați központjában, majd ismerkedj meg a történelemmel az 1907-es felkelés emlékművénél. Ezt követően a Néprajzi Múzeum nyújt betekintést a helyi kultúrába. Délután sétálj fel a festői Bellu-kúriához és a Kőtemplomhoz, végül pihend ki magad a Dealu Mare régió híres szőlőbirtokain egy pohár bor mellett.",
+        "ro": "Începe ziua în centrul orașului Urlați și află despre istoria locului la Monumentul Răscoalei din 1907. Aprofundează apoi cultura locală la Muzeul de Etnografie. După-amiaza, urcă spre pitorescul Conac Bellu și Biserica de Piatră, pentru a încheia ziua relaxant în podgoriile faimoasei regiuni viticole Dealu Mare.",
+        "en": "Start the day in the center of Urlați and learn about history at the 1907 Rebellion Monument. Then delve into local culture at the Ethnographic Museum. In the afternoon, walk up to the picturesque Bellu Manor and the Stone Church, concluding your day with a relaxing stroll and wine tasting in the famous vineyards of the Dealu Mare region."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fetească Neagră",
+            "tip": "Der stolze Rotwein der Dealu Mare Region."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Traditionelle rumänische Kohlrouladen in den lokalen Lokalen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fetească Neagră",
+            "tip": "A Dealu Mare régió büszke vörösbora."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Hagyományos román töltött káposzta a helyi éttermekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fetească Neagră",
+            "tip": "Mândria regiunii viticole Dealu Mare."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Sarmale tradiționale servite în restaurantele locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fetească Neagră",
+            "tip": "The pride red wine of the Dealu Mare region."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Traditional Romanian cabbage rolls found in local eateries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt in den Weinbergen",
+            "tip": "Perfekter Ort für den Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópont a szőlőtőkék között",
+            "tip": "Tökéletes hely a naplementéhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere în podgorii",
+            "tip": "Locul perfect pentru a admira apusul.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vineyard Viewpoint",
+            "tip": "The perfect spot for watching the sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Wein",
+            "tip": "Kaufe direkt bei den Weingütern der Umgebung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi borok",
+            "tip": "Vásárolj közvetlenül a környékbeli pincészetekből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin local",
+            "tip": "Cumpără vin direct de la cramele din zonă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Wine",
+            "tip": "Buy wine directly from the surrounding wineries."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Trage bequeme Schuhe für den Weg hinauf zum Herrenhaus Bellu.",
+          "Die Weinkeller erfordern oft eine vorherige Reservierung.",
+          "Überprüfe die Öffnungszeiten des Museums, da diese variieren können."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt a Bellu-kúriához vezető emelkedőn.",
+          "A borospincék látogatásához gyakran előzetes foglalás szükséges.",
+          "Ellenőrizd a múzeum nyitvatartását, mert változhat."
+        ],
+        "ro": [
+          "Poartă încălțăminte comodă pentru drumul în urcare spre Conacul Bellu.",
+          "Cramele din zonă necesită adesea rezervare în prealabil.",
+          "Verifică programul de funcționare al muzeului, deoarece poate varia."
+        ],
+        "en": [
+          "Wear comfortable shoes for the walk up to the Bellu Manor.",
+          "The local wineries often require advanced booking for tastings.",
+          "Check the museum's opening hours as they may vary."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10.0,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Zentraler Platz",
+          "coords": [
+            26.23,
+            44.99
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Startpunkt der Tour.",
+            "hu": "A túra kiindulópontja.",
+            "ro": "Punctul de plecare al turului.",
+            "en": "Starting point of the tour."
+          }
+        },
+        {
+          "name": "Museum für Ethnographie",
+          "coords": [
+            26.229,
+            44.992
+          ],
+          "category": "museum",
+          "arrive_at": "09:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahrradständer am Eingang.",
+            "hu": "Kerékpártároló a bejáratnál.",
+            "ro": "Parcare pentru biciclete la intrare.",
+            "en": "Bicycle parking at the entrance."
+          }
+        },
+        {
+          "name": "Herrenhaus Bellu",
+          "coords": [
+            26.222,
+            44.998
+          ],
+          "category": "historical",
+          "arrive_at": "11:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Leichter Anstieg bis zum Hof.",
+            "hu": "Enyhe emelkedő az udvarig.",
+            "ro": "Urcare ușoară până la curte.",
+            "en": "Slight incline up to the courtyard."
+          }
+        },
+        {
+          "name": "Jercălăi-Kloster",
+          "coords": [
+            26.195,
+            45.015
+          ],
+          "category": "religious",
+          "arrive_at": "13:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schöne Holzkirche.",
+            "hu": "Gyönyörű fatemplom.",
+            "ro": "Frumoasă biserică de lemn.",
+            "en": "Beautiful wooden church."
+          }
+        },
+        {
+          "name": "Urlați Weinberge",
+          "coords": [
+            26.215,
+            45.002
+          ],
+          "category": "natural",
+          "arrive_at": "13:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahrt durch die Reben.",
+            "hu": "Kerékpározás a tőkék között.",
+            "ro": "Plimbare printre viile de vie.",
+            "en": "Ride through the vines."
+          }
+        },
+        {
+          "name": "Valea Crângului Herrenhaus",
+          "coords": [
+            26.198,
+            45.013
+          ],
+          "category": "historical",
+          "arrive_at": "15:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein verstecktes Juwel.",
+            "hu": "Egy rejtett ékszerdoboz.",
+            "ro": "O bijuterie ascunsă.",
+            "en": "A hidden gem."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecke Urlați und seine Umgebung auf dem Fahrrad. Nach einem kurzen Besuch im Zentrum geht es zum Herrenhaus Bellu. Die Strecke führt dich weiter in die Landschaft hinaus bis zum beeindruckenden Jercălăi-Kloster. Der Rückweg führt malerisch durch die Weinberge bis zum Herrenhaus Valea Crângului.",
+        "hu": "Fedezd fel Urlați városát és környékét kerékpárral. A központ megtekintése után irány a Bellu-kúria. Az út továbbvezet a vidékre a lenyűgöző Jercălăi-kolostorhoz. A visszaút festői szőlőbirtokokon keresztül vezet a Valea Crângului udvarházhoz.",
+        "ro": "Descoperă Urlați și împrejurimile sale pe bicicletă. După o scurtă vizită în centru, pedalează spre Conacul Bellu. Traseul te va duce apoi prin peisajul rural până la impresionanta Mănăstire Jercălăi. Drumul de întoarcere este pitoresc, trecând prin podgorii până la Conacul Valea Crângului.",
+        "en": "Explore Urlați and its surroundings by bike. After a short visit in the center, head to the Bellu Manor. The route takes you further into the countryside to the impressive Jercălăi Monastery. The way back is scenic, passing through the vineyards to the Valea Crângului Manor."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Picknick im Weinberg",
+            "tip": "Nimm Snacks mit auf die Tour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piknik a szőlőben",
+            "tip": "Vigyél magaddal rágcsálnivalót a túrára."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Picnic în podgorie",
+            "tip": "Ia cu tine gustări pentru traseu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vineyard Picnic",
+            "tip": "Bring some snacks for the ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jercălăi-Kloster Hof",
+            "tip": "Eine ruhige Pause abseits der Stadt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jercălăi-kolostor udvara",
+            "tip": "Csendes pihenő a várostól távol.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea Mănăstirii Jercălăi",
+            "tip": "O pauză liniștită departe de oraș.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jercălăi Monastery Courtyard",
+            "tip": "A quiet break away from the city.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Oft an kleinen Ständen am Wegesrand zu finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Gyakran kapható az út menti kis árusoknál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Găsită adesea la tarabele de pe marginea drumului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Often found at small roadside stalls."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achte auf den Autoverkehr außerhalb des Zentrums.",
+          "Die Straßen zu den Klöstern können hügelig sein.",
+          "Nimm ausreichend Wasser für die Fahrt mit."
+        ],
+        "hu": [
+          "Figyelj az autóforgalomra a központon kívül.",
+          "A kolostorokhoz vezető utak dombosak lehetnek.",
+          "Vigyél magaddal elegendő vizet az útra."
+        ],
+        "ro": [
+          "Fii atent la traficul auto în afara centrului.",
+          "Drumurile către mănăstiri pot fi colinare.",
+          "Ia suficientă apă pentru plimbare."
+        ],
+        "en": [
+          "Be mindful of car traffic outside the center.",
+          "The roads to the monasteries can be hilly.",
+          "Bring plenty of water for the ride."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28.0,
+      "start": "09:00",
+      "end_estimate": "18:13",
+      "total_km": 8.3,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Zentraler Platz",
+          "coords": [
+            26.23,
+            44.99
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parke im Zentrum für Cluster A.",
+            "hu": "Parkolj a központban az A zónához.",
+            "ro": "Parchează în centru pentru Cluster A.",
+            "en": "Park in the center for Cluster A."
+          }
+        },
+        {
+          "name": "Museum für Ethnographie",
+          "coords": [
+            26.229,
+            44.992
+          ],
+          "category": "museum",
+          "arrive_at": "09:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Platz.",
+            "hu": "Csak egy rövid sétára a tértől.",
+            "ro": "La doar o scurtă plimbare de piață.",
+            "en": "Just a short walk from the square."
+          }
+        },
+        {
+          "name": "Denkmal des Aufstands von 1907",
+          "coords": [
+            26.231,
+            44.991
+          ],
+          "category": "historical",
+          "arrive_at": "11:25",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Auf dem Rückweg zum Auto.",
+            "hu": "Visszafelé az autóhoz.",
+            "ro": "Pe drumul de întoarcere la mașină.",
+            "en": "On the way back to the car."
+          }
+        },
+        {
+          "name": "Herrenhaus Bellu",
+          "coords": [
+            26.222,
+            44.998
+          ],
+          "category": "historical",
+          "arrive_at": "11:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken beim Herrenhaus möglich.",
+            "hu": "Parkolás a kúriánál lehetséges.",
+            "ro": "Parcare disponibilă la conac.",
+            "en": "Parking available at the manor."
+          }
+        },
+        {
+          "name": "Steinkirche",
+          "coords": [
+            26.22,
+            44.999
+          ],
+          "category": "religious",
+          "arrive_at": "13:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lass das Auto beim Herrenhaus.",
+            "hu": "Hagyd az autót a kúriánál.",
+            "ro": "Lasă mașina la conac.",
+            "en": "Leave the car at the manor."
+          }
+        },
+        {
+          "name": "Urlați Weinberge",
+          "coords": [
+            26.215,
+            45.002
+          ],
+          "category": "natural",
+          "arrive_at": "14:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang durch die Reben.",
+            "hu": "Egy szép séta a tőkék között.",
+            "ro": "O plimbare frumoasă printre vii.",
+            "en": "A beautiful walk through the vines."
+          }
+        },
+        {
+          "name": "Jercălăi-Kloster",
+          "coords": [
+            26.195,
+            45.015
+          ],
+          "category": "religious",
+          "arrive_at": "15:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahrt zum äußeren Cluster.",
+            "hu": "Utazás a külső zónához.",
+            "ro": "Călătorie spre clusterul exterior.",
+            "en": "Drive to the outer cluster."
+          }
+        },
+        {
+          "name": "Valea Crângului Herrenhaus",
+          "coords": [
+            26.198,
+            45.013
+          ],
+          "category": "historical",
+          "arrive_at": "16:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zu Fuß vom Kloster erreichbar.",
+            "hu": "Gyalogosan elérhető a kolostortól.",
+            "ro": "Accesibil pe jos de la mănăstire.",
+            "en": "Accessible on foot from the monastery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunde Urlați ganz entspannt mit dem Auto, indem du die Sehenswürdigkeiten klug bündelst. Parke im Zentrum für das Museum und die Denkmäler. Danach fährst du hinauf zum Herrenhaus Bellu, von wo aus du die Steinkirche und die Weinberge zu Fuß genießt. Den Tag beendest du im äußeren Bereich beim friedlichen Jercălăi-Kloster und dem Herrenhaus Valea Crângului.",
+        "hu": "Fedezd fel Urlați városát kényelmesen autóval, okosan csoportosítva a látnivalókat. Parkolj a központban a múzeumhoz és az emlékművekhez. Ezután vezess fel a Bellu-kúriához, ahonnan gyalog élvezheted a Kőtemplomot és a szőlőbirtokokat. A napot a külső övezetben, a békés Jercălăi-kolostornál és a Valea Crângului udvarháznál zárhatod.",
+        "ro": "Explorează Urlați relaxat cu mașina, grupând inteligent atracțiile. Parchează în centru pentru muzeu și monumente. Condu apoi spre Conacul Bellu, de unde poți vizita Biserica de Piatră și podgoriile pe jos. Încheie ziua în zona periferică, la liniștita Mănăstire Jercălăi și la Conacul Valea Crângului.",
+        "en": "Explore Urlați comfortably by car by cleverly clustering the sights. Park in the center for the museum and monuments. Then drive up to the Bellu Manor, from where you can enjoy the Stone Church and vineyards on foot. End the day in the outer area at the peaceful Jercălăi Monastery and the Valea Crângului Manor."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ländliche Taverne",
+            "tip": "Autofahrer trinken besser Traubensaft statt Fetească Neagră."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vidéki fogadó",
+            "tip": "A sofőrök bor helyett mustot kóstoljanak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tavernă rustică",
+            "tip": "Șoferii pot opta pentru must în loc de Fetească Neagră."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rustic Tavern",
+            "tip": "Drivers should opt for grape juice instead of Fetească Neagră."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Umgebung Jercălăi",
+            "tip": "Abgelegen und sehr friedlich.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jercălăi környéke",
+            "tip": "Félreeső és nagyon békés.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Împrejurimile Jercălăi",
+            "tip": "Izolat și foarte pașnic.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jercălăi Surroundings",
+            "tip": "Remote and very peaceful.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kistenweise Wein",
+            "tip": "Mit dem Auto kannst du bequem Kartons transportieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bor ládákban",
+            "tip": "Autóval kényelmesen szállíthatsz nagyobb mennyiséget."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin la cutie",
+            "tip": "Cu mașina poți transporta confortabil cutii de vin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wine by the box",
+            "tip": "With a car, you can comfortably transport boxes of wine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Gruppiere deine Stopps, um ständiges Parkplatzsuchen zu vermeiden.",
+          "Die Straßen zum Kloster sind schmal.",
+          "Plane genug Zeit für die Spaziergänge an den Clustern ein."
+        ],
+        "hu": [
+          "Csoportosítsd a megállókat, hogy elkerüld a folyamatos parkolókeresést.",
+          "A kolostorhoz vezető utak szűkek.",
+          "Tervezz elég időt a zónákon belüli sétákra."
+        ],
+        "ro": [
+          "Grupează opririle pentru a evita căutarea constantă a unui loc de parcare.",
+          "Drumurile spre mănăstire sunt înguste.",
+          "Alocă suficient timp pentru plimbările din cadrul clusterelor."
+        ],
+        "en": [
+          "Cluster your stops to avoid constantly looking for parking.",
+          "The roads to the monastery are narrow.",
+          "Plan enough time for the walks at the clusters."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15.0,
+      "start": "09:00",
+      "end_estimate": "16:36",
+      "total_km": 7.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Zentraler Platz",
+          "coords": [
+            26.23,
+            44.99
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Zentraler Ankunftspunkt.",
+            "hu": "Központi érkezési pont.",
+            "ro": "Punct central de sosire.",
+            "en": "Central arrival point."
+          }
+        },
+        {
+          "name": "Museum für Ethnographie",
+          "coords": [
+            26.229,
+            44.992
+          ],
+          "category": "museum",
+          "arrive_at": "09:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nahe der Bushaltestelle gelegen.",
+            "hu": "A buszmegálló közelében található.",
+            "ro": "Situat aproape de stația de autobuz.",
+            "en": "Located near the bus stop."
+          }
+        },
+        {
+          "name": "Herrenhaus Bellu",
+          "coords": [
+            26.222,
+            44.998
+          ],
+          "category": "historical",
+          "arrive_at": "11:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nutze den Minibus den Berg hinauf.",
+            "hu": "Használd a mikrobuszt a dombon felfelé.",
+            "ro": "Folosește microbuzul pentru urcare.",
+            "en": "Use the minibus to go up the hill."
+          }
+        },
+        {
+          "name": "Steinkirche",
+          "coords": [
+            26.22,
+            44.999
+          ],
+          "category": "religious",
+          "arrive_at": "12:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang entfernt.",
+            "hu": "Csak egy rövid sétára.",
+            "ro": "La doar o scurtă plimbare distanță.",
+            "en": "Just a short walk away."
+          }
+        },
+        {
+          "name": "Urlați Weinberge",
+          "coords": [
+            26.215,
+            45.002
+          ],
+          "category": "natural",
+          "arrive_at": "13:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunde die Weingüter zu Fuß.",
+            "hu": "Fedezd fel a borászatokat gyalog.",
+            "ro": "Explorează cramele pe jos.",
+            "en": "Explore the wineries on foot."
+          }
+        },
+        {
+          "name": "Jercălăi-Kloster",
+          "coords": [
+            26.195,
+            45.015
+          ],
+          "category": "religious",
+          "arrive_at": "15:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Prüfe den Busfahrplan für die Rückfahrt.",
+            "hu": "Ellenőrizd a buszmenetrendet a visszaútra.",
+            "ro": "Verifică orarul autobuzelor pentru întoarcere.",
+            "en": "Check the bus schedule for the return trip."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den lokalen Minibussen kommst du bequem zwischen den Vierteln von Urlați hin und her. Besuche zuerst das Zentrum und das Museum. Danach bringt dich der Bus in die Nähe des Herrenhauses Bellu. Dort erkundest du die Steinkirche und die Weinberge zu Fuß. Zum Abschluss fährst du mit dem Regionalbus zum historischen Jercălăi-Kloster.",
+        "hu": "A helyi mikrobuszokkal kényelmesen közlekedhetsz Urlați negyedei között. Először látogasd meg a központot és a múzeumot. Ezután a busz elvisz a Bellu-kúria közelébe, ahonnan gyalog fedezheted fel a Kőtemplomot és a szőlőbirtokokat. Végül a helyközi járattal juss el a történelmi Jercălăi-kolostorhoz.",
+        "ro": "Cu microbuzele locale te poți deplasa confortabil între cartierele din Urlați. Vizitează mai întâi centrul și muzeul. Apoi autobuzul te duce aproape de Conacul Bellu, de unde explorezi pe jos Biserica de Piatră și podgoriile. În final, ia autobuzul regional până la istorica Mănăstire Jercălăi.",
+        "en": "With local minibuses, you can easily travel between the districts of Urlați. Visit the center and the museum first. Then the bus takes you near the Bellu Manor, from where you explore the Stone Church and vineyards on foot. Finally, take the regional bus to the historic Jercălăi Monastery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei am Platz",
+            "tip": "Hol dir eine schnelle Stärkung vor dem nächsten Bus."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség a téren",
+            "tip": "Vegyél valami gyors harapnivalót a következő busz előtt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăria din piață",
+            "tip": "Ia o gustare rapidă înainte de următorul autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery on the square",
+            "tip": "Grab a quick snack before the next bus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park am Zentrum",
+            "tip": "Ruhe dich hier aus, während du auf den Bus wartest.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi park",
+            "tip": "Pihenj itt, amíg a buszra vársz.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul central",
+            "tip": "Odihnește-te aici în timp ce aștepți autobuzul.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Park",
+            "tip": "Rest here while waiting for the bus.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Traditionelles Kunsthandwerk",
+            "tip": "Kleine Mitbringsel lassen sich im Bus leicht transportieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hagyományos kézműves termékek",
+            "tip": "A kis szuvenírek könnyen szállíthatók a buszon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat tradițional",
+            "tip": "Suvenirurile mici sunt ușor de transportat în autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Traditional Crafts",
+            "tip": "Small souvenirs are easy to transport on the bus."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Lade dir die lokalen Busfahrpläne vorab herunter.",
+          "Kleingeld für die Minibusse bereithalten.",
+          "Die Fahrpläne können an Wochenenden ausgedünnt sein."
+        ],
+        "hu": [
+          "Töltsd le előre a helyi buszmenetrendeket.",
+          "Készíts elő aprópénzt a mikrobuszokra.",
+          "A járatok ritkábbak lehetnek hétvégén."
+        ],
+        "ro": [
+          "Descarcă în prealabil orarul autobuzelor locale.",
+          "Pregătește mărunțiș pentru microbuze.",
+          "Orarul poate fi redus la sfârșit de săptămână."
+        ],
+        "en": [
+          "Download local bus schedules in advance.",
+          "Keep small change ready for the minibuses.",
+          "Schedules may be limited on weekends."
+        ]
+      }
+    }
+  }
+}

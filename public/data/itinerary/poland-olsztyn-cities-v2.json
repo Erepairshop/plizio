@@ -1,0 +1,1340 @@
+{
+  "city_id": "poland-olsztyn-cities-v2",
+  "anchor": {
+    "name": "Allenstein",
+    "coords": [
+      20.4801,
+      53.7784
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Altes Rathaus und Marktplatz",
+            "hu": "Régi Városháza és Főtér",
+            "ro": "Primăria Veche și Piața Centrală",
+            "en": "Old Town Hall and Market Square"
+          },
+          "coords": [
+            20.4789,
+            53.7767
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die bunten Fassaden und beobachten Sie das tägliche Treiben.",
+            "hu": "Csodálja meg a színes homlokzatokat és figyelje a napi nyüzsgést.",
+            "ro": "Admirați fațadele colorate și observați agitația zilnică.",
+            "en": "Admire the colorful facades and watch the daily hustle and bustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Hohes Tor",
+            "hu": "Magas-kapu",
+            "ro": "Poarta Înaltă",
+            "en": "High Gate"
+          },
+          "coords": [
+            20.4755,
+            53.7771
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:43",
+          "stay_min": 20,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das einzige erhaltene Stadttor aus dem 14. Jahrhundert. Ein großartiger Fotospot.",
+            "hu": "Az egyetlen fennmaradt 14. századi városkapu. Nagyszerű fotóhelyszín.",
+            "ro": "Singura poartă a orașului din secolul al XIV-lea care a supraviețuit. Un loc excelent pentru fotografii.",
+            "en": "The only surviving 14th-century city gate. A great photo spot."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Jakobus Kathedrale",
+            "hu": "Szent Jakab-székesegyház",
+            "ro": "Catedrala Sfântul Iacob",
+            "en": "St. James' Cathedral"
+          },
+          "coords": [
+            20.4811,
+            53.7758
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf das gotische Netzgewölbe und die barocke Innenausstattung.",
+            "hu": "Figyelje meg a gótikus hálós boltozatot és a barokk belső teret.",
+            "ro": "Fiți atenți la bolta gotică reticulată și la interiorul baroc.",
+            "en": "Pay attention to the Gothic net vaulting and the Baroque interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Allenstein & Museum von Ermland und Masuren",
+            "hu": "Olsztyni vár & Ermland-Mazúriai Múzeum",
+            "ro": "Castelul Olsztyn & Muzeul Varmiei și Mazuriei",
+            "en": "Olsztyn Castle & Museum of Warmia and Masuria"
+          },
+          "coords": [
+            20.4734,
+            53.7794
+          ],
+          "category": "museums",
+          "arrive_at": "11:18",
+          "stay_min": 120,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Hier hat Kopernikus gearbeitet. Verpassen Sie nicht seine astronomische Tafel.",
+            "hu": "Kopernikusz itt dolgozott. Ne hagyja ki csillagászati tábláját.",
+            "ro": "Aici a lucrat Copernic. Nu ratați placa sa astronomică.",
+            "en": "Copernicus worked here. Don't miss his astronomical plaque."
+          }
+        },
+        {
+          "name": {
+            "de": "Preußische Steinfrauen",
+            "hu": "Porosz kőasszonyok",
+            "ro": "Babele prusace de piatră",
+            "en": "Prussian Stone Women"
+          },
+          "coords": [
+            20.4728,
+            53.7799
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:20",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese geheimnisvollen Statuen befinden sich im Burghof.",
+            "hu": "Ezek a rejtélyes szobrok a vár udvarán találhatók.",
+            "ro": "Aceste statui misterioase se află în curtea castelului.",
+            "en": "These mysterious statues are located in the castle courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentralpark (Podzamcze Park)",
+            "hu": "Központi Park (Podzamcze Park)",
+            "ro": "Parcul Central (Parcul Podzamcze)",
+            "en": "Central Park (Podzamcze Park)"
+          },
+          "coords": [
+            20.477,
+            53.7811
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannender Spaziergang entlang des Flusses Łyna ist der perfekte Abschluss.",
+            "hu": "Egy pihentető séta a Łyna folyó mentén tökéletes lezárás.",
+            "ro": "O plimbare relaxantă de-a lungul râului Łyna este finalul perfect.",
+            "en": "A relaxing walk along the Łyna River is the perfect conclusion."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az Óvárosban",
+            "ro": "Prânz în Centrul Vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            20.4795,
+            53.7775
+          ],
+          "category": "gastro",
+          "arrive_at": "15:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie 'Kartacze' in einem der traditionellen Restaurants.",
+            "hu": "Kóstolja meg a 'Kartacze'-t egy hagyományos étteremben.",
+            "ro": "Încercați 'Kartacze' la unul dintre restaurantele tradiționale.",
+            "en": "Try 'Kartacze' in one of the traditional restaurants."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Allenstein beginnt im Herzen der Altstadt am Alten Rathaus. Schlendern Sie durch die Gassen zum Hohen Tor und spüren Sie die mittelalterliche Atmosphäre. Die majestätische St.-Jakobus-Kathedrale wird Sie mit ihrer gotischen Pracht beeindrucken, bevor Sie auf den Spuren von Kopernikus in der mächtigen Burg wandeln. Am Nachmittag bietet der Park am Fluss Łyna eine grüne Oase der Ruhe. Genießen Sie die entspannte Stimmung bei einem Spaziergang. Der Tag endet mit einem köstlichen Abendessen in einem der charmanten Restaurants der Altstadt, wo Sie die Aromen Ermlands probieren können.",
+        "hu": "Olsztyni napja az óváros szívében, a Régi Városházánál kezdődik. Sétáljon végig a szűk utcákon a Magas-kapuhoz, és érezze át a középkori hangulatot. A fenséges Szent Jakab-székesegyház gótikus pompájával lenyűgözi, mielőtt Kopernikusz nyomába eredne a hatalmas várban. Délután a Łyna folyó melletti park zöld oázisként kínál nyugalmat. Élvezze a pihentető sétát. A nap egy finom vacsorával zárul az óváros egyik hangulatos éttermében, ahol megkóstolhatja Ermland ízeit.",
+        "ro": "Ziua dumneavoastră în Olsztyn începe în inima Centrului Vechi, la Primăria Veche. Plimbați-vă pe aleile înguste până la Poarta Înaltă și simțiți atmosfera medievală. Catedrala maiestuoasă Sfântul Iacob vă va impresiona cu splendoarea sa gotică, înainte de a păși pe urmele lui Copernic în castelul impunător. După-amiaza, parcul de pe malul râului Łyna oferă o oază de liniște verde. Bucurați-vă de o plimbare relaxantă. Ziua se încheie cu o cină delicioasă la unul dintre restaurantele fermecătoare din Centrul Vechi, unde puteți gusta aromele Varmiei.",
+        "en": "Your day in Olsztyn begins in the heart of the Old Town at the Old Town Hall. Stroll through the narrow alleys to the High Gate and feel the medieval atmosphere. The majestic St. James' Cathedral will impress you with its Gothic splendor before you walk in the footsteps of Copernicus in the mighty castle. In the afternoon, the park on the Łyna River offers a green oasis of tranquility. Enjoy a relaxing walk. The day ends with a delicious dinner at one of the charming restaurants in the Old Town, where you can taste the flavors of Warmia."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kartacze",
+            "tip": "Herzhafte Kartoffelklöße, oft mit Fleisch gefüllt."
+          },
+          {
+            "name": "Pierogi Warmińskie",
+            "tip": "Regionale Variante der berühmten Teigtaschen."
+          },
+          {
+            "name": "Sękacz",
+            "tip": "Ein traditioneller Baumkuchen, perfekt zum Kaffee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kartacze",
+            "tip": "Kiadós burgonyagombóc, gyakran hússal töltve."
+          },
+          {
+            "name": "Ermlandi pirog",
+            "tip": "A híres derelye regionális változata."
+          },
+          {
+            "name": "Sękacz",
+            "tip": "Hagyományos kürtőskalács, tökéletes kávé mellé."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kartacze",
+            "tip": "Găluște de cartofi consistente, adesea umplute cu carne."
+          },
+          {
+            "name": "Pierogi din Varmia",
+            "tip": "Versiunea regională a faimoaselor găluște poloneze."
+          },
+          {
+            "name": "Sękacz",
+            "tip": "Un cozonac secuiesc tradițional, perfect cu cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kartacze",
+            "tip": "Hearty potato dumplings, often filled with meat."
+          },
+          {
+            "name": "Warmian Pierogi",
+            "tip": "A regional version of the famous Polish dumplings."
+          },
+          {
+            "name": "Sękacz",
+            "tip": "A traditional tree cake, perfect with coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Łyna",
+            "tip": "Ein ruhiger Spaziergang abseits des Trubels.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Burghof",
+            "tip": "Finden Sie eine ruhige Ecke und bewundern Sie die alten Mauern.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Łyna folyó partja",
+            "tip": "Csendes séta távol a nyüzsgéstől.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Várudvar",
+            "tip": "Keressen egy csendes zugot, és csodálja meg a régi falakat.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Łyna",
+            "tip": "O plimbare liniștită departe de agitație.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea castelului",
+            "tip": "Găsiți un colț liniștit și admirați zidurile vechi.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Łyna River",
+            "tip": "A quiet walk away from the hustle and bustle.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Castle Courtyard",
+            "tip": "Find a quiet corner and admire the old walls.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bernsteinschmuck",
+            "tip": "Die Ostsee ist nicht weit, und Bernstein ist ein beliebtes Souvenir."
+          },
+          {
+            "name": "Handgefertigte Keramik",
+            "tip": "Lokale Töpferwaren aus der Region Ermland-Masuren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borostyán ékszerek",
+            "tip": "A Balti-tenger nincs messze, és a borostyán népszerű szuvenír."
+          },
+          {
+            "name": "Kézzel készített kerámia",
+            "tip": "Helyi fazekas termékek Ermland-Mazúriából."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bijuterii din chihlimbar",
+            "tip": "Marea Baltică nu este departe, iar chihlimbarul este un suvenir popular."
+          },
+          {
+            "name": "Ceramică artizanală",
+            "tip": "Articole de olărit locale din regiunea Varmia și Mazuria."
+          }
+        ],
+        "en": [
+          {
+            "name": "Amber Jewelry",
+            "tip": "The Baltic Sea is not far, and amber is a popular souvenir."
+          },
+          {
+            "name": "Handmade Ceramics",
+            "tip": "Local pottery from the Warmia-Masuria region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Halten Sie Ausschau nach kleinen Cafés in den Seitengassen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óvárosi macskakövek egyenetlenek lehetnek.",
+          "A központ legtöbb látnivalója könnyen megközelíthető gyalog.",
+          "Keressen kis kávézókat a mellékutcákban."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece pavajul din Centrul Vechi poate fi denivelat.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Căutați cafenele mici pe străduțele lăturalnice."
+        ],
+        "en": [
+          "Wear comfortable shoes, as the cobblestones in the Old Town can be uneven.",
+          "Most attractions in the center are easily accessible on foot.",
+          "Look for small cafes in the side streets."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:02",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Altes Rathaus",
+            "hu": "Régi Városháza",
+            "ro": "Primăria Veche",
+            "en": "Old Town Hall"
+          },
+          "coords": [
+            20.4789,
+            53.7767
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Startpunkt Ihrer Radtour. Schließen Sie Ihr Rad an und erkunden Sie den Platz.",
+            "hu": "A kerékpártúra kiindulópontja. Zárja le a kerékpárt és fedezze fel a teret.",
+            "ro": "Punctul de plecare al turului cu bicicleta. Asigurați-vă bicicleta și explorați piața.",
+            "en": "Starting point of your bike tour. Lock up your bike and explore the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Allenstein",
+            "hu": "Olsztyni vár",
+            "ro": "Castelul Olsztyn",
+            "en": "Olsztyn Castle"
+          },
+          "coords": [
+            20.4734,
+            53.7794
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und tauchen Sie in die Geschichte ein.",
+            "hu": "Parkolja le a kerékpárt, és merüljön el a történelemben.",
+            "ro": "Parcați bicicleta și scufundați-vă în istorie.",
+            "en": "Park your bike and delve into history."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Jakobus Kathedrale",
+            "hu": "Szent Jakab-székesegyház",
+            "ro": "Catedrala Sfântul Iacob",
+            "en": "St. James' Cathedral"
+          },
+          "coords": [
+            20.4811,
+            53.7758
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um die beeindruckende Architektur zu bewundern.",
+            "hu": "Egy rövid megálló, hogy megcsodálja a lenyűgöző építészetet.",
+            "ro": "O scurtă oprire pentru a admira arhitectura impresionantă.",
+            "en": "A short stop to admire the impressive architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Planetarium Olsztyn",
+            "hu": "Olsztyni Planetárium",
+            "ro": "Planetariul din Olsztyn",
+            "en": "Olsztyn Planetarium"
+          },
+          "coords": [
+            20.4915,
+            53.7735
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schauen Sie sich den Spielplan für eine Vorführung an, eine tolle Abwechslung.",
+            "hu": "Nézze meg a műsort egy előadásért, remek kikapcsolódás.",
+            "ro": "Verificați programul pentru un spectacol, o alternativă excelentă.",
+            "en": "Check the schedule for a show, it's a great change of pace."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Ukiel-See",
+            "hu": "Ebéd az Ukiel-tónál",
+            "ro": "Prânz la Lacul Ukiel",
+            "en": "Lunch at Lake Ukiel"
+          },
+          "coords": [
+            20.4431,
+            53.7845
+          ],
+          "category": "gastro",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Viele Restaurants bieten einen tollen Blick auf den See.",
+            "hu": "Sok étterem kínál nagyszerű kilátást a tóra.",
+            "ro": "Multe restaurante oferă o priveliște minunată asupra lacului.",
+            "en": "Many restaurants offer a great view of the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Entspannung am Stadtstrand (Plaża Miejska)",
+            "hu": "Pihenés a városi strand on (Plaża Miejska)",
+            "ro": "Relaxare la plaja orașului (Plaża Miejska)",
+            "en": "Relaxing at the City Beach (Plaża Miejska)"
+          },
+          "coords": [
+            20.4411,
+            53.7855
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:02",
+          "stay_min": 120,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekt für eine Pause, ein Bad oder einfach nur zum Sonnenbaden.",
+            "hu": "Tökéletes egy kis szünetre, fürdésre vagy csak napozásra.",
+            "ro": "Perfect pentru o pauză, o baie sau doar pentru plajă.",
+            "en": "Perfect for a break, a swim, or just sunbathing."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt zur Altstadt",
+            "hu": "Visszaút az Óvárosba",
+            "ro": "Întoarcere în Centrul Vechi",
+            "en": "Return to the Old Town"
+          },
+          "coords": [
+            20.4789,
+            53.7767
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "17:32",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Geben Sie Ihr Fahrrad zurück und genießen Sie den Abend.",
+            "hu": "Adja vissza a kerékpárt, és élvezze az estét.",
+            "ro": "Returnați bicicleta și bucurați-vă de seară.",
+            "en": "Return your bike and enjoy the evening."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Alten Rathaus, dem pulsierenden Zentrum von Allenstein. Von dort aus radeln Sie zur historischen Burg, um in die Vergangenheit einzutauchen. Nach einem kurzen Besuch in der Kathedrale führt Sie Ihr Weg zum modernen Planetarium. Der Höhepunkt der Tour ist die Fahrt zum malerischen Ukiel-See. Hier können Sie zu Mittag essen und am Stadtstrand entspannen, die Sonne und das Wasser genießen. Die Rückfahrt in die Altstadt am späten Nachmittag rundet einen perfekten Tag auf zwei Rädern ab, der Kultur und Natur verbindet.",
+        "hu": "Kezdje kerékpártúráját a Régi Városházától, Olsztyn lüktető központjától. Innen tekerjen el a történelmi várhoz, hogy elmerüljön a múltban. A katedrális rövid meglátogatása után útja a modern planetáriumhoz vezet. A túra csúcspontja a festői Ukiel-tóhoz vezető út. Itt ebédelhet és pihenhet a városi strandon, élvezve a napot és a vizet. A késő délutáni visszatekerés az óvárosba egy tökéletes, kultúrát és természetet ötvöző napot zár le két keréken.",
+        "ro": "Începeți turul cu bicicleta de la Primăria Veche, centrul vibrant al Olsztynului. De acolo, pedalați spre castelul istoric pentru a vă cufunda în trecut. După o scurtă vizită la catedrală, drumul vă duce la planetariul modern. Punctul culminant al turului este plimbarea cu bicicleta până la pitorescul Lac Ukiel. Aici puteți lua prânzul și vă puteți relaxa pe plaja orașului, bucurându-vă de soare și apă. Întoarcerea în Centrul Vechi la sfârșitul după-amiezii încheie o zi perfectă pe două roți, combinând cultura și natura.",
+        "en": "Start your bike tour at the Old Town Hall, the vibrant center of Olsztyn. From there, cycle to the historic castle to immerse yourself in the past. After a short visit to the cathedral, your path leads to the modern planetarium. The highlight of the tour is the ride to the picturesque Lake Ukiel. Here you can have lunch and relax on the city beach, enjoying the sun and water. The return ride to the Old Town in the late afternoon completes a perfect day on two wheels, combining culture and nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fisch aus den Masuren",
+            "tip": "Frisch gebratener Zander oder Barsch in einem Restaurant am See."
+          },
+          {
+            "name": "Chłodnik",
+            "tip": "Eine erfrischende kalte Rote-Bete-Suppe, ideal für den Sommer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mazúriai hal",
+            "tip": "Frissen sült fogas vagy sügér egy tóparti étteremben."
+          },
+          {
+            "name": "Chłodnik",
+            "tip": "Frissítő hideg céklaleves, ideális nyárra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește din Mazuria",
+            "tip": "Șalău sau biban proaspăt prăjit la un restaurant pe malul lacului."
+          },
+          {
+            "name": "Chłodnik",
+            "tip": "O supă rece răcoritoare de sfeclă roșie, ideală pentru vară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Masurian Fish",
+            "tip": "Freshly fried zander or perch at a lakeside restaurant."
+          },
+          {
+            "name": "Chłodnik",
+            "tip": "A refreshing cold beetroot soup, ideal for summer."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ukiel-See",
+            "tip": "Finden Sie einen ruhigen Steg und genießen Sie den Blick aufs Wasser.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Radweg um den Langen See",
+            "tip": "Eine friedliche Route durch den Wald.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ukiel-tó",
+            "tip": "Keressen egy csendes stéget, és élvezze a víz látványát.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kerékpárút a Hosszú-tó körül",
+            "tip": "Békés útvonal az erdőn keresztül.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Ukiel",
+            "tip": "Găsiți un ponton liniștit și bucurați-vă de priveliștea apei.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pista de biciclete în jurul Lacului Długie",
+            "tip": "Un traseu pașnic prin pădure.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lake Ukiel",
+            "tip": "Find a quiet pier and enjoy the view of the water.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Bike path around the Long Lake",
+            "tip": "A peaceful route through the forest.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Regionale Produkte",
+            "tip": "Suchen Sie nach lokalen Märkten für Honig und Wurstwaren."
+          },
+          {
+            "name": "Fahrradzubehör",
+            "tip": "In der seenreichen Region gibt es viele Geschäfte für Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termékek",
+            "tip": "Keressen helyi piacokat mézért és hentesárukért."
+          },
+          {
+            "name": "Kerékpár-kiegészítők",
+            "tip": "A tóvidéken számos kerékpáros bolt található."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse regionale",
+            "tip": "Căutați piețe locale pentru miere și mezeluri."
+          },
+          {
+            "name": "Accesorii pentru biciclete",
+            "tip": "În regiunea lacurilor există multe magazine pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Regional Products",
+            "tip": "Look for local markets for honey and cured meats."
+          },
+          {
+            "name": "Bike Accessories",
+            "tip": "In the lake-rich region, there are many shops for cyclists."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad in der Nähe des Zentrums. Es gibt mehrere Verleihstationen.",
+          "Achten Sie auf die gut ausgebauten Radwege, besonders um die Seen.",
+          "Nehmen Sie eine Flasche Wasser mit, besonders für die längere Fahrt zum See."
+        ],
+        "hu": [
+          "Béreljen kerékpárt a központ közelében. Több kölcsönző is található.",
+          "Figyeljen a jól kiépített kerékpárutakra, különösen a tavak körül.",
+          "Vigyen magával egy üveg vizet, különösen a tóhoz vezető hosszabb útra."
+        ],
+        "ro": [
+          "Închiriați o bicicletă lângă centru. Există mai multe stații de închiriere.",
+          "Fiți atenți la pistele de biciclete bine dezvoltate, în special în jurul lacurilor.",
+          "Luați o sticlă de apă, mai ales pentru drumul mai lung până la lac."
+        ],
+        "en": [
+          "Rent a bike near the center. There are several rental stations.",
+          "Pay attention to the well-developed bike paths, especially around the lakes.",
+          "Bring a bottle of water, especially for the longer ride to the lake."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:54",
+      "total_km": 11.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Altstadt: Parken und Erkunden",
+            "hu": "Óváros klaszter: Parkolás és felfedezés",
+            "ro": "Cluster Centrul Vechi: Parcare și explorare",
+            "en": "Old Town Cluster: Park and Explore"
+          },
+          "coords": [
+            20.4798,
+            53.7745
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto in einem Parkhaus nahe der Altstadt für den ersten Teil des Tages.",
+            "hu": "Parkolja le autóját egy parkolóházban az óváros közelében a nap első részére.",
+            "ro": "Parcați mașina într-o parcare de lângă Centrul Vechi pentru prima parte a zilei.",
+            "en": "Park your car in a parking garage near the Old Town for the first part of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Rathaus & Hohes Tor",
+            "hu": "Régi Városháza és Magas-kapu",
+            "ro": "Primăria Veche și Poarta Înaltă",
+            "en": "Old Town Hall & High Gate"
+          },
+          "coords": [
+            20.4789,
+            53.7767
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:24",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang verbindet diese beiden historischen Wahrzeichen.",
+            "hu": "Egy rövid séta köti össze ezt a két történelmi nevezetességet.",
+            "ro": "O scurtă plimbare leagă aceste două repere istorice.",
+            "en": "A short walk connects these two historic landmarks."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Jakobus Kathedrale",
+            "hu": "Szent Jakab-székesegyház",
+            "ro": "Catedrala Sfântul Iacob",
+            "en": "St. James' Cathedral"
+          },
+          "coords": [
+            20.4811,
+            53.7758
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Kathedrale liegt nur wenige Gehminuten vom Marktplatz entfernt.",
+            "hu": "A székesegyház csak néhány perc sétára van a Fő tértől.",
+            "ro": "Catedrala se află la doar câteva minute de mers pe jos de piață.",
+            "en": "The cathedral is just a few minutes' walk from the market square."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Burg: Fahrt zum Museum",
+            "hu": "Vár klaszter: Utazás a múzeumhoz",
+            "ro": "Cluster Castel: Conduceți la muzeu",
+            "en": "Castle Cluster: Drive to the Museum"
+          },
+          "coords": [
+            20.4734,
+            53.7794
+          ],
+          "category": "museums",
+          "arrive_at": "11:08",
+          "stay_min": 150,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.9,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Nehmen Sie das Auto für die kurze Fahrt zur Burg und zum Museum.",
+            "hu": "Menjen autóval a rövid útra a várhoz és a múzeumhoz.",
+            "ro": "Luați mașina pentru scurta călătorie la castel și muzeu.",
+            "en": "Take the car for the short drive to the castle and museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Erholung: Planetarium & Park",
+            "hu": "Rekreációs klaszter: Planetárium és Park",
+            "ro": "Cluster Recreere: Planetariu și Parc",
+            "en": "Recreation Cluster: Planetarium & Park"
+          },
+          "coords": [
+            20.4915,
+            53.7735
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:02",
+          "stay_min": 90,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Planetarium, in dessen Nähe sich auch der Zentralpark befindet.",
+            "hu": "Vezessen a planetáriumhoz, amely közelében található a Központi Park is.",
+            "ro": "Conduceți la planetariu, lângă care se află și Parcul Central.",
+            "en": "Drive to the planetarium, near which the Central Park is also located."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Ukiel-See für den Abend",
+            "hu": "Utazás az Ukiel-tóhoz estére",
+            "ro": "Călătorie la Lacul Ukiel pentru seară",
+            "en": "Drive to Lake Ukiel for the Evening"
+          },
+          "coords": [
+            20.4431,
+            53.7845
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einer Fahrt zum See für ein Abendessen mit Aussicht.",
+            "hu": "Zárja a napot egy autózással a tóhoz egy kilátással egybekötött vacsoráért.",
+            "ro": "Încheiați ziua cu o plimbare cu mașina până la lac pentru o cină cu priveliște.",
+            "en": "End the day with a drive to the lake for a dinner with a view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie Allenstein bequem in Clustern erkunden. Parken Sie zunächst in der Nähe der Altstadt und entdecken Sie zu Fuß das Alte Rathaus, das Hohe Tor und die Kathedrale. Nach diesem historischen Spaziergang fahren Sie zur beeindruckenden Burg, die das Museum beherbergt. Am Nachmittag bringt Sie Ihr Auto zum Planetarium für einen Blick in die Sterne, gefolgt von einer entspannten Zeit im nahegelegenen Park. Der krönende Abschluss ist eine Fahrt zum Ukiel-See, wo Sie den Sonnenuntergang und ein Abendessen am Wasser genießen können.",
+        "hu": "Autóval kényelmesen, klaszterekben fedezheti fel Olsztynt. Először parkoljon az óváros közelében, és fedezze fel gyalog a Régi Városházát, a Magas-kaput és a katedrálist. E történelmi séta után vezessen el a lenyűgöző várhoz, amely a múzeumnak ad otthont. Délután autója elviszi a planetáriumba egy csillagnézésre, majd pihenhet a közeli parkban. A nap megkoronázása egy utazás az Ukiel-tóhoz, ahol élvezheti a naplementét és a vízparti vacsorát.",
+        "ro": "Cu mașina, puteți explora convenabil Olsztyn în clustere. Mai întâi, parcați lângă Centrul Vechi și descoperiți pe jos Primăria Veche, Poarta Înaltă și catedrala. După această plimbare istorică, conduceți la castelul impresionant care găzduiește muzeul. După-amiaza, mașina vă duce la planetariu pentru a privi stelele, urmată de o perioadă de relaxare în parcul din apropiere. Punctul culminant este o excursie cu mașina la Lacul Ukiel, unde vă puteți bucura de apus și de o cină pe malul apei.",
+        "en": "By car, you can conveniently explore Olsztyn in clusters. First, park near the Old Town and discover the Old Town Hall, the High Gate, and the cathedral on foot. After this historical walk, drive to the impressive castle that houses the museum. In the afternoon, your car will take you to the planetarium for a look at the stars, followed by some relaxing time in the nearby park. The grand finale is a drive to Lake Ukiel, where you can enjoy the sunset and a waterfront dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cudne Manowce Restauracja",
+            "tip": "Bekannt für moderne polnische Küche in stilvollem Ambiente."
+          },
+          {
+            "name": "Restauracja Przystań",
+            "tip": "Direkt am Ukiel-See gelegen, ideal für Fischgerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cudne Manowce Restauracja",
+            "tip": "Modern lengyel konyhájáról ismert, stílusos környezetben."
+          },
+          {
+            "name": "Przystań Étterem",
+            "tip": "Közvetlenül az Ukiel-tó partján, ideális halételekhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cudne Manowce Restauracja",
+            "tip": "Cunoscut pentru bucătăria poloneză modernă într-un cadru elegant."
+          },
+          {
+            "name": "Restauracja Przystań",
+            "tip": "Situat chiar pe malul lacului Ukiel, ideal pentru preparate din pește."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cudne Manowce Restauracja",
+            "tip": "Known for modern Polish cuisine in a stylish setting."
+          },
+          {
+            "name": "Przystań Restaurant",
+            "tip": "Located right on Lake Ukiel, ideal for fish dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenuntergang am Ukiel-See",
+            "tip": "Ein unvergesslicher Anblick vom Steg oder einem Restaurant aus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Arboretum in Kudypy",
+            "tip": "Ein kurzer Ausflug aus der Stadt für Naturliebhaber.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente az Ukiel-tónál",
+            "tip": "Felejthetetlen látvány a stégről vagy egy étteremből.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kudypy Arborétum",
+            "tip": "Rövid kirándulás a városból a természet kedvelőinek.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apus de soare la Lacul Ukiel",
+            "tip": "O priveliște de neuitat de pe ponton sau de la un restaurant.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Arboretul din Kudypy",
+            "tip": "O scurtă excursie în afara orașului pentru iubitorii de natură.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunset at Lake Ukiel",
+            "tip": "An unforgettable sight from the pier or a restaurant.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Arboretum in Kudypy",
+            "tip": "A short trip out of the city for nature lovers.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Galeria Warmińska",
+            "tip": "Ein modernes Einkaufszentrum für alles, was Sie brauchen könnten."
+          },
+          {
+            "name": "Souvenirläden in der Altstadt",
+            "tip": "Für traditionelle Geschenke und Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Galeria Warmińska",
+            "tip": "Modern bevásárlóközpont mindenre, amire szüksége lehet."
+          },
+          {
+            "name": "Szuvenírboltok az Óvárosban",
+            "tip": "Hagyományos ajándékokért és emléktárgyakért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galeria Warmińska",
+            "tip": "Un centru comercial modern pentru tot ce ați putea avea nevoie."
+          },
+          {
+            "name": "Magazine de suveniruri în Centrul Vechi",
+            "tip": "Pentru cadouri și amintiri tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Galeria Warmińska",
+            "tip": "A modern shopping mall for anything you might need."
+          },
+          {
+            "name": "Souvenir shops in the Old Town",
+            "tip": "For traditional gifts and mementos."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkzonen in der Innenstadt sind oft kostenpflichtig.",
+          "Planen Sie Ihre Route im Voraus, um den Verkehr zu meiden.",
+          "Die Cluster-Strategie spart Zeit bei der Parkplatzsuche und lässt Sie mehr zu Fuß entdecken."
+        ],
+        "hu": [
+          "A belvárosi parkolási zónák gyakran fizetősek.",
+          "Tervezze meg előre az útvonalat a forgalom elkerülése érdekében.",
+          "A klaszterstratégia időt takarít meg a parkolóhely-keresésnél, és lehetővé teszi, hogy többet fedezzen fel gyalog."
+        ],
+        "ro": [
+          "Zonele de parcare din centrul orașului sunt adesea cu plată.",
+          "Planificați-vă traseul în avans pentru a evita traficul.",
+          "Strategia cluster economisește timp la căutarea unui loc de parcare și vă permite să explorați mai mult pe jos."
+        ],
+        "en": [
+          "Parking zones in the city center are often paid.",
+          "Plan your route in advance to avoid traffic.",
+          "The cluster strategy saves time searching for parking and lets you explore more on foot."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:58",
+      "total_km": 7.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Altstadt: Ankunft am Hauptbahnhof",
+            "hu": "Óváros klaszter: Érkezés a főpályaudvarra",
+            "ro": "Cluster Centrul Vechi: Sosire la Gara Centrală",
+            "en": "Old Town Cluster: Arrival at Central Station"
+          },
+          "coords": [
+            20.5001,
+            53.7801
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie vom Bahnhof eine Straßenbahn oder einen Bus ins Zentrum.",
+            "hu": "A pályaudvarról villamossal vagy busszal juthat el a központba.",
+            "ro": "Luați un tramvai sau un autobuz din gară spre centru.",
+            "en": "Take a tram or bus from the station to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Rathaus & Hohes Tor",
+            "hu": "Régi Városháza és Magas-kapu",
+            "ro": "Primăria Veche și Poarta Înaltă",
+            "en": "Old Town Hall & High Gate"
+          },
+          "coords": [
+            20.4789,
+            53.7767
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:28",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie an der Haltestelle 'Wysoka Brama' aus, um Ihren Rundgang zu beginnen.",
+            "hu": "Szálljon le a 'Wysoka Brama' megállónál, hogy elkezdje a sétát.",
+            "ro": "Coborâți la stația 'Wysoka Brama' pentru a începe turul pietonal.",
+            "en": "Get off at the 'Wysoka Brama' stop to start your walking tour."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Jakobus Kathedrale",
+            "hu": "Szent Jakab-székesegyház",
+            "ro": "Catedrala Sfântul Iacob",
+            "en": "St. James' Cathedral"
+          },
+          "coords": [
+            20.4811,
+            53.7758
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:34",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die malerischen Gassen der Altstadt.",
+            "hu": "Rövid séta az óváros festői utcáin.",
+            "ro": "O scurtă plimbare pe străzile pitorești ale Centrului Vechi.",
+            "en": "A short walk through the picturesque streets of the Old Town."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Burg: Busfahrt zum Museum",
+            "hu": "Vár klaszter: Buszozás a múzeumhoz",
+            "ro": "Cluster Castel: Călătorie cu autobuzul la muzeu",
+            "en": "Castle Cluster: Bus Ride to the Museum"
+          },
+          "coords": [
+            20.4734,
+            53.7794
+          ],
+          "category": "museums",
+          "arrive_at": "11:41",
+          "stay_min": 150,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Mehrere Buslinien verbinden die Altstadt mit dem Schloss.",
+            "hu": "Több buszjárat köti össze az óvárost a várral.",
+            "ro": "Mai multe linii de autobuz leagă Centrul Vechi de castel.",
+            "en": "Several bus lines connect the Old Town with the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Erholung: Fahrt zum Planetarium",
+            "hu": "Rekreációs klaszter: Utazás a Planetáriumhoz",
+            "ro": "Cluster Recreere: Călătorie la Planetariu",
+            "en": "Recreation Cluster: Trip to the Planetarium"
+          },
+          "coords": [
+            20.4915,
+            53.7735
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:33",
+          "stay_min": 90,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Das Planetarium ist mit Straßenbahnen und Bussen gut erreichbar.",
+            "hu": "A planetárium villamossal és busszal is könnyen megközelíthető.",
+            "ro": "Planetariul este ușor accesibil cu tramvaie și autobuze.",
+            "en": "The planetarium is easily accessible by trams and buses."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in der Altstadt",
+            "hu": "Vacsora az Óvárosban",
+            "ro": "Cină în Centrul Vechi",
+            "en": "Dinner in the Old Town"
+          },
+          "coords": [
+            20.4795,
+            53.7775
+          ],
+          "category": "gastro",
+          "arrive_at": "16:28",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Fahren Sie zurück ins Zentrum, um den Tag ausklingen zu lassen.",
+            "hu": "Utazzon vissza a központba a nap lezárásaként.",
+            "ro": "Întoarceți-vă în centru pentru a încheia ziua.",
+            "en": "Travel back to the center to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Allenstein lässt sich hervorragend mit öffentlichen Verkehrsmitteln erkunden. Vom Bahnhof aus gelangen Sie schnell ins Zentrum, wo Sie die Highlights der Altstadt zu Fuß entdecken. Ein kurzer Spaziergang führt Sie vom Hohen Tor zur Kathedrale. Anschließend bringt Sie ein Bus bequem zur Burg und zum Museum. Nach der Dosis Geschichte fahren Sie weiter zum Planetarium. Genießen Sie die wissenschaftliche Ausstellung, bevor Sie für ein traditionelles polnisches Abendessen in die Altstadt zurückkehren und den Tag Revue passieren lassen.",
+        "hu": "Olsztyn kiválóan felfedezhető tömegközlekedéssel. A pályaudvarról gyorsan a központba jut, ahol gyalogosan fedezheti fel az óváros nevezetességeit. Rövid séta vezet a Magas-kaputól a katedrálishoz. Ezután egy busz kényelmesen elviszi a várhoz és a múzeumhoz. A történelmi adag után utazzon tovább a planetáriumba. Élvezze a tudományos kiállítást, mielőtt visszatérne az óvárosba egy hagyományos lengyel vacsorára, és áttekintené a napot.",
+        "ro": "Olsztyn poate fi explorat excelent cu transportul public. De la gară, ajungeți rapid în centru, unde puteți descoperi punctele de atracție ale Centrului Vechi pe jos. O scurtă plimbare vă duce de la Poarta Înaltă la catedrală. Apoi, un autobuz vă duce confortabil la castel și la muzeu. După doza de istorie, călătoriți mai departe la planetariu. Bucurați-vă de expoziția științifică înainte de a vă întoarce în Centrul Vechi pentru o cină tradițională poloneză și a rememora ziua.",
+        "en": "Olsztyn is excellent to explore by public transport. From the train station, you can quickly get to the center, where you can discover the highlights of the Old Town on foot. A short walk takes you from the High Gate to the cathedral. Then, a bus will comfortably take you to the castle and the museum. After the dose of history, travel on to the planetarium. Enjoy the scientific exhibition before returning to the Old Town for a traditional Polish dinner and reflecting on the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bar 'Turysta'",
+            "tip": "Eine klassische Milchbar für authentische und günstige polnische Hausmannskost."
+          },
+          {
+            "name": "Green Way",
+            "tip": "Eine gute Option für vegetarische und vegane Gerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bar 'Turysta'",
+            "tip": "Klasszikus tejbár autentikus és olcsó lengyel házias ételekért."
+          },
+          {
+            "name": "Green Way",
+            "tip": "Jó választás vegetáriánus és vegán ételekhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bar 'Turysta'",
+            "tip": "Un bar lacto-vegetarian clasic pentru mâncare poloneză autentică și ieftină."
+          },
+          {
+            "name": "Green Way",
+            "tip": "O opțiune bună pentru mâncăruri vegetariene și vegane."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bar 'Turysta'",
+            "tip": "A classic milk bar for authentic and cheap Polish home cooking."
+          },
+          {
+            "name": "Green Way",
+            "tip": "A good option for vegetarian and vegan dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Zentralpark (Podzamcze)",
+            "tip": "Leicht mit dem Bus zu erreichen und perfekt für eine Pause im Grünen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Jakubowo Park",
+            "tip": "Ein größerer Park etwas außerhalb, ideal für einen längeren Spaziergang.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi Park (Podzamcze)",
+            "tip": "Könnyen elérhető busszal, tökéletes egy zöld szünetre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Jakubowo Park",
+            "tip": "Egy nagyobb park kicsit kijjebb, ideális egy hosszabb sétára.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Central (Podzamcze)",
+            "tip": "Ușor accesibil cu autobuzul și perfect pentru o pauză în natură.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Jakubowo",
+            "tip": "Un parc mai mare, puțin în afara centrului, ideal pentru o plimbare mai lungă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Park (Podzamcze)",
+            "tip": "Easily accessible by bus and perfect for a green break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Jakubowo Park",
+            "tip": "A larger park just outside the center, ideal for a longer walk.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markt in der Altstadt",
+            "tip": "Kaufen Sie lokale Spezialitäten direkt von den Erzeugern."
+          },
+          {
+            "name": "Buchhandlungen",
+            "tip": "Suchen Sie nach Büchern über Kopernikus und die Geschichte der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piac az Óvárosban",
+            "tip": "Vásároljon helyi specialitásokat közvetlenül a termelőktől."
+          },
+          {
+            "name": "Könyvesboltok",
+            "tip": "Keressen könyveket Kopernikuszról és a régió történelméről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața din Centrul Vechi",
+            "tip": "Cumpărați specialități locale direct de la producători."
+          },
+          {
+            "name": "Librării",
+            "tip": "Căutați cărți despre Copernic și istoria regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market in the Old Town",
+            "tip": "Buy local specialties directly from the producers."
+          },
+          {
+            "name": "Bookstores",
+            "tip": "Look for books about Copernicus and the history of the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr, um Geld zu sparen.",
+          "Die App 'jakdojade' ist sehr hilfreich für die Planung von Routen.",
+          "Beachten Sie die Fahrpläne, besonders am Abend."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
+          "A 'jakdojade' alkalmazás nagyon hasznos az útvonaltervezéshez.",
+          "Figyeljen a menetrendekre, különösen este."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru a economisi bani.",
+          "Aplicația 'jakdojade' este foarte utilă pentru planificarea rutelor.",
+          "Fiți atenți la orare, mai ales seara."
+        ],
+        "en": [
+          "Buy a day ticket for public transport to save money.",
+          "The 'jakdojade' app is very helpful for planning routes.",
+          "Pay attention to the timetables, especially in the evening."
+        ]
+      }
+    }
+  }
+}

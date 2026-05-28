@@ -1,0 +1,1377 @@
+{
+  "city_id": "romania-bucov-cities-v2",
+  "anchor": {
+    "name": "Bucov",
+    "coords": [
+      26.06,
+      44.96
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mahnmal des antikommunistischen Widerstands",
+            "hu": "Az Antikommunista Ellenállás Emlékműve",
+            "ro": "Monumentul Rezistenței Anticomuniste",
+            "en": "Memorial of the Anti-communist Resistance"
+          },
+          "coords": [
+            26.062,
+            44.958
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein Moment der Besinnung, um die moderne Geschichte Rumäniens zu verstehen.",
+            "hu": "Egy pillanatnyi elmélkedés segít megérteni Románia modern történelmét.",
+            "ro": "Un moment de reflecție pentru a înțelege istoria modernă a României.",
+            "en": "A moment of reflection to understand Romania's modern history."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Stelian-Kirche",
+            "hu": "Szent Stelian-templom",
+            "ro": "Biserica Sfântul Stelian",
+            "en": "Saint Stelian Church"
+          },
+          "coords": [
+            26.06,
+            44.96
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die traditionellen orthodoxen Ikonen und die friedliche Atmosphäre.",
+            "hu": "Figyelje meg a hagyományos ortodox ikonokat és a békés légkört.",
+            "ro": "Observați icoanele tradiționale ortodoxe și atmosfera liniștită.",
+            "en": "Notice the traditional Orthodox icons and the peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Gedenkpark Constantin Stere",
+            "hu": "Constantin Stere Emlékpark",
+            "ro": "Parcul Memorial Constantin Stere",
+            "en": "Constantin Stere Memorial Park"
+          },
+          "coords": [
+            26.075,
+            44.966
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ideal für ein Picknick. Bringen Sie eine Decke mit und genießen Sie die Natur.",
+            "hu": "Ideális egy piknikhez. Hozzon egy pokrócot és élvezze a természetet.",
+            "ro": "Ideal pentru un picnic. Aduceți o pătură și bucurați-vă de natură.",
+            "en": "Ideal for a picnic. Bring a blanket and enjoy the natural surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Constantin-Stere-Museum",
+            "hu": "Constantin Stere Múzeum",
+            "ro": "Muzeul Memorial Constantin Stere",
+            "en": "Constantin Stere Memorial Museum"
+          },
+          "coords": [
+            26.073,
+            44.967
+          ],
+          "category": "museums",
+          "arrive_at": "12:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über das Leben des Schriftstellers und Politikers, der dem Park seinen Namen gab.",
+            "hu": "Tudjon meg többet az író és politikus életéről, aki a park nevét adta.",
+            "ro": "Aflați mai multe despre viața scriitorului și politicianului care a dat numele parcului.",
+            "en": "Learn about the life of the writer and politician who gave the park its name."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo Ploiești-Bucov",
+            "hu": "Ploiești-Bucov Állatkert",
+            "ro": "Grădina Zoologică Ploiești-Bucov",
+            "en": "Ploiești-Bucov Zoo"
+          },
+          "coords": [
+            26.078,
+            44.968
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein Highlight sind die großen Gehege für Bären und Wölfe, die den Karpaten nachempfunden sind.",
+            "hu": "Különlegesség a medvék és farkasok nagy, a Kárpátokat idéző kifutója.",
+            "ro": "Un punct de atracție sunt țarcurile mari pentru urși și lupi, care imită Carpații.",
+            "en": "A highlight is the large enclosures for bears and wolves, modeled after the Carpathians."
+          }
+        },
+        {
+          "name": {
+            "de": "Bucov-See",
+            "hu": "Bucovi-tó",
+            "ro": "Lacul Bucov",
+            "en": "Bucov Lake"
+          },
+          "coords": [
+            26.085,
+            44.972
+          ],
+          "category": "natural features",
+          "arrive_at": "17:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort, um den Tag ausklingen zu lassen und den Sonnenuntergang zu beobachten.",
+            "hu": "Tökéletes hely a nap lezárására és a naplemente megcsodálására.",
+            "ro": "Un loc perfect pentru a încheia ziua și a privi apusul.",
+            "en": "A perfect spot to end the day and watch the sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang durch Bucov beginnt mit einem Moment der Besinnung am Mahnmal des Widerstands, gefolgt von der spirituellen Ruhe der St.-Stelian-Kirche. Der Vormittag führt Sie in den ausgedehnten Constantin-Stere-Park, eine grüne Oase. Am Nachmittag tauchen Sie in die lokale Kultur im Constantin-Stere-Museum ein und besuchen die heimische Tierwelt im Zoo. Der Tag endet mit einem entspannten Spaziergang zum Bucov-See, wo Sie die malerische Abendstimmung genießen können.",
+        "hu": "A bucovi séta az Ellenállási Emlékműnél kezdődik egy elmélkedő pillanattal, majd a Szent Stelian-templom spirituális nyugalmával folytatódik. A délelőtt a tágas Constantin Stere Parkba, egy zöld oázisba vezet. Délután a Constantin Stere Múzeumban merülhet el a helyi kultúrában, és meglátogathatja az állatkert helyi vadvilágát. A nap egy pihentető sétával zárul a Bucovi-tóhoz, ahol élvezheti a festői esti hangulatot.",
+        "ro": "Plimbarea dvs. prin Bucov începe cu un moment de reflecție la Monumentul Rezistenței, urmat de liniștea spirituală a Bisericii Sf. Stelian. Dimineața vă duce în vastul Parc Constantin Stere, o oază de verdeață. După-amiaza, vă veți cufunda în cultura locală la Muzeul Constantin Stere și veți vizita fauna locală la Grădina Zoologică. Ziua se încheie cu o plimbare relaxantă la Lacul Bucov, unde vă puteți bucura de atmosfera pitorească de seară.",
+        "en": "Your walk through Bucov begins with a moment of reflection at the Resistance Memorial, followed by the spiritual tranquility of St. Stelian Church. The morning takes you to the expansive Constantin Stere Park, a green oasis. In the afternoon, you'll immerse yourself in local culture at the Constantin Stere Museum and visit the local wildlife at the Zoo. The day concludes with a relaxing walk to Bucov Lake, where you can enjoy the picturesque evening atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sarmale",
+            "tip": "Probieren Sie die traditionellen rumänischen Kohlrouladen in einem der lokalen Restaurants."
+          },
+          {
+            "name": "Mici",
+            "tip": "Gegrillte Hackfleischröllchen, ein Muss für Fleischliebhaber."
+          },
+          {
+            "name": "Restaurant din Parc",
+            "tip": "Gute Option für ein Mittagessen in der Nähe des Constantin-Stere-Parks."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sarmale (Töltött káposzta)",
+            "tip": "Kóstolja meg a hagyományos román töltött káposztát a helyi éttermek egyikében."
+          },
+          {
+            "name": "Mici (Mititei)",
+            "tip": "Grillezett fasírtrolád, kötelező a húsimádóknak."
+          },
+          {
+            "name": "Étterem a parkban",
+            "tip": "Jó választás egy ebédre a Constantin Stere Park közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sarmale",
+            "tip": "Încercați sarmalele tradiționale românești la unul dintre restaurantele locale."
+          },
+          {
+            "name": "Mici",
+            "tip": "Un deliciu la grătar, obligatoriu pentru iubitorii de carne."
+          },
+          {
+            "name": "Restaurant din Parc",
+            "tip": "O opțiune bună pentru prânz în apropierea Parcului Constantin Stere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sarmale",
+            "tip": "Try the traditional Romanian cabbage rolls at one of the local restaurants."
+          },
+          {
+            "name": "Mici",
+            "tip": "Grilled minced meat rolls, a must for meat lovers."
+          },
+          {
+            "name": "Restaurant in the Park",
+            "tip": "A good option for lunch near the Constantin Stere Park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bucov-See bei Sonnenuntergang",
+            "tip": "Finden Sie eine Bank am Ufer und genießen Sie die Stille.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Dendrologischer Park",
+            "tip": "Ein ruhigerer Teil des größeren Parks, ideal zum Entspannen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Teleajen-Flusstal",
+            "tip": "Ein Spaziergang entlang des Flusses bietet eine friedliche Flucht.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bucovi-tó naplementekor",
+            "tip": "Keressen egy padot a parton és élvezze a csendet.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Dendrológiai Park",
+            "tip": "A nagyobb park csendesebb része, ideális a pihenéshez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Teleajen folyó völgye",
+            "tip": "A folyó menti séta békés kikapcsolódást nyújt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Bucov la apus",
+            "tip": "Găsiți o bancă pe mal și bucurați-vă de liniște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Dendrologic",
+            "tip": "O parte mai liniștită a parcului mai mare, ideală pentru relaxare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Valea râului Teleajen",
+            "tip": "O plimbare de-a lungul râului oferă o evadare pașnică.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bucov Lake at sunset",
+            "tip": "Find a bench on the shore and enjoy the silence.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Dendrological Park",
+            "tip": "A quieter part of the larger park, ideal for relaxing.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Teleajen River Valley",
+            "tip": "A walk along the river offers a peaceful escape.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Märkten für frische Produkte und traditionellen Käse."
+          },
+          {
+            "name": "Souvenirs aus dem Museum",
+            "tip": "Das Constantin-Stere-Museum hat möglicherweise einzigartige Bücher oder Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen helyi piacokat friss termékekért és hagyományos sajtokért."
+          },
+          {
+            "name": "Múzeumi szuvenírek",
+            "tip": "A Constantin Stere Múzeumban egyedi könyveket vagy emléktárgyakat találhat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați piețele locale pentru produse proaspete și brânzeturi tradiționale."
+          },
+          {
+            "name": "Suveniruri de la muzeu",
+            "tip": "Muzeul Constantin Stere ar putea avea cărți unice sau suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for local markets for fresh produce and traditional cheese."
+          },
+          {
+            "name": "Museum Souvenirs",
+            "tip": "The Constantin Stere Museum might have unique books or keepsakes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie Wasser und Snacks mit, besonders für den Parkbesuch.",
+          "Prüfen Sie die Öffnungszeiten des Museums und des Zoos im Voraus.",
+          "Ein kleiner Regenschirm ist immer eine gute Idee, da das Wetter wechselhaft sein kann."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "Vigyen magával vizet és harapnivalót, különösen a parkba.",
+          "Előre ellenőrizze a múzeum és az állatkert nyitvatartási idejét.",
+          "Egy kis esernyő mindig jó ötlet, mivel az időjárás változékony lehet."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe jos.",
+          "Luați apă și gustări, mai ales pentru vizita în parc.",
+          "Verificați în avans orele de program ale muzeului și grădinii zoologice.",
+          "O umbrelă mică este întotdeauna o idee bună, deoarece vremea poate fi schimbătoare."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking a lot.",
+          "Bring water and snacks, especially for the park visit.",
+          "Check the opening hours of the museum and zoo in advance.",
+          "A small umbrella is always a good idea as the weather can be unpredictable."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 15.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Dendrologischer Park Bucov",
+            "hu": "Bucovi Dendrológiai Park",
+            "ro": "Parcul Dendrologic Bucov",
+            "en": "Bucov Dendrological Park"
+          },
+          "coords": [
+            26.07,
+            44.965
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einer ruhigen Radtour durch die vielfältige Baumsammlung.",
+            "hu": "Kezdje a napot egy csendes kerékpártúrával a változatos fagyűjteményben.",
+            "ro": "Începeți ziua cu o plimbare liniștită cu bicicleta printre diversele colecții de arbori.",
+            "en": "Start your day with a quiet bike ride through the diverse tree collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Gedenkpark Constantin Stere",
+            "hu": "Constantin Stere Emlékpark",
+            "ro": "Parcul Memorial Constantin Stere",
+            "en": "Constantin Stere Memorial Park"
+          },
+          "coords": [
+            26.075,
+            44.966
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:16",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahren Sie weiter durch den Hauptpark und halten Sie an den Skulpturen an.",
+            "hu": "Tekerjen tovább a fő parkon keresztül, és álljon meg a szobroknál.",
+            "ro": "Continuați să pedalați prin parcul principal, oprindu-vă la sculpturi.",
+            "en": "Continue cycling through the main park, stopping at the sculptures."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo Ploiești-Bucov",
+            "hu": "Ploiești-Bucov Állatkert",
+            "ro": "Grădina Zoologică Ploiești-Bucov",
+            "en": "Ploiești-Bucov Zoo"
+          },
+          "coords": [
+            26.078,
+            44.968
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:04",
+          "stay_min": 120,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad am Eingang ab und erkunden Sie den Zoo zu Fuß.",
+            "hu": "Zárja le a kerékpárt a bejáratnál, és fedezze fel az állatkertet gyalog.",
+            "ro": "Parcați bicicleta la intrare și explorați grădina zoologică pe jos.",
+            "en": "Park your bike at the entrance and explore the zoo on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Bucov-See",
+            "hu": "Bucovi-tó",
+            "ro": "Lacul Bucov",
+            "en": "Bucov Lake"
+          },
+          "coords": [
+            26.085,
+            44.972
+          ],
+          "category": "natural features",
+          "arrive_at": "13:13",
+          "stay_min": 90,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für eine Mittagspause. Es gibt Radwege rund um den See.",
+            "hu": "Nagyszerű hely egy ebédszünetre. A tó körül kerékpárutak is vannak.",
+            "ro": "Un loc minunat pentru o pauză de prânz. Există piste de biciclete în jurul lacului.",
+            "en": "A great spot for a lunch break. There are bike paths around the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Teleajen-Tal bei Bucov",
+            "hu": "Teleajen-völgy Bucovnál",
+            "ro": "Valea Teleajenului la Bucov",
+            "en": "Teleajen Valley at Bucov"
+          },
+          "coords": [
+            26.12,
+            44.96
+          ],
+          "category": "natural features",
+          "arrive_at": "15:33",
+          "stay_min": 102,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 12.5,
+          "tip_5lang": {
+            "de": "Eine längere, aber lohnende Fahrt in die ländliche Umgebung. Genießen Sie die Aussicht.",
+            "hu": "Hosszabb, de megéri a fáradságot a vidéki környezetbe. Élvezze a kilátást!",
+            "ro": "O plimbare mai lungă, dar plină de satisfacții, în zona rurală. Bucurați-vă de priveliște.",
+            "en": "A longer but rewarding ride into the rural surroundings. Enjoy the views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour konzentriert sich auf die Naturwunder um Bucov. Sie beginnen im ruhigen Dendrologischen Park und fahren weiter durch den weitläufigen Gedenkpark. Am Vormittag stellen Sie Ihr Rad ab, um den Zoo zu erkunden. Zur Mittagszeit radeln Sie zum Bucov-See für eine ausgedehnte Pause am Wasser. Der Nachmittag ist einer längeren Tour gewidmet, die Sie ins malerische Teleajen-Tal führt und Ihnen einen Einblick in die wunderschöne Landschaft der Region gibt.",
+        "hu": "A kerékpártúra a Bucov körüli természeti csodákra összpontosít. A csendes Dendrológiai Parkban kezdenek, majd a tágas Emlékparkon keresztül haladnak tovább. Délelőtt leteszik a kerékpárt az állatkert felfedezéséhez. Ebédidőben a Bucovi-tóhoz tekernek egy hosszabb pihenőre a vízparton. A délután egy hosszabb túrának van szentelve, amely a festői Teleajen-völgybe vezet, betekintést nyújtva a régió gyönyörű tájába.",
+        "ro": "Turul cu bicicleta se concentrează pe minunile naturale din jurul Bucovului. Începeți în liniștitul Parc Dendrologic și continuați prin vastul Parc Memorial. La amiază, lăsați bicicleta pentru a explora Grădina Zoologică. La prânz, pedalați spre Lacul Bucov pentru o pauză extinsă pe malul apei. După-amiaza este dedicată unui tur mai lung care vă duce în pitoreasca Vale a Teleajenului, oferindu-vă o perspectivă asupra peisajului frumos al regiunii.",
+        "en": "Your bike tour focuses on the natural wonders around Bucov. You start in the quiet Dendrological Park and continue through the expansive Memorial Park. In the morning, you'll park your bike to explore the Zoo. At lunchtime, you'll cycle to Bucov Lake for an extended break by the water. The afternoon is dedicated to a longer tour that takes you into the picturesque Teleajen Valley, giving you a glimpse of the region's beautiful landscape."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Covrigi",
+            "tip": "Ein schneller und leckerer Snack, den Sie unterwegs an Straßenständen finden."
+          },
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "Rumänischer Käsekuchen, perfekt für eine süße Pause."
+          },
+          {
+            "name": "Terasa de pe lac",
+            "tip": "Suchen Sie nach einem kleinen Café oder einer Terrasse am Bucov-See."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Covrigi (perec)",
+            "tip": "Gyors és finom harapnivaló, amelyet útközben az utcai árusoknál talál."
+          },
+          {
+            "name": "Plăcintă cu brânză (Túrós pite)",
+            "tip": "Román túrós pite, tökéletes egy édes szünethez."
+          },
+          {
+            "name": "Terasz a tónál",
+            "tip": "Keressen egy kis kávézót vagy teraszt a Bucovi-tónál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Covrigi",
+            "tip": "O gustare rapidă și delicioasă pe care o găsiți la vânzătorii ambulanți."
+          },
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "Perfectă pentru o pauză dulce."
+          },
+          {
+            "name": "Terasa de pe lac",
+            "tip": "Căutați o mică cafenea sau o terasă pe malul lacului Bucov."
+          }
+        ],
+        "en": [
+          {
+            "name": "Covrigi",
+            "tip": "A quick and tasty snack you can find at street vendors along the way."
+          },
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "Romanian cheese pie, perfect for a sweet break."
+          },
+          {
+            "name": "Terrace on the lake",
+            "tip": "Look for a small cafe or terrace on the shore of Bucov Lake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Teleajen-Flusses",
+            "tip": "Halten Sie während Ihrer Radtour an und lauschen Sie dem Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Versteckte Wege im Dendrologischen Park",
+            "tip": "Abseits der Hauptwege finden Sie absolute Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Früher Morgen am Bucov-See",
+            "tip": "Bevor die meisten Besucher ankommen, ist der See am friedlichsten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Teleajen folyó partja",
+            "tip": "Álljon meg a kerékpártúra során, és hallgassa a vizet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rejtett ösvények a Dendrológiai Parkban",
+            "tip": "A fő utaktól távol teljes nyugalmat talál.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kora reggel a Bucovi-tónál",
+            "tip": "Mielőtt a legtöbb látogató megérkezik, a tó a legbékésebb.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Teleajen",
+            "tip": "Opriți-vă în timpul turului cu bicicleta și ascultați susurul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cărări ascunse în Parcul Dendrologic",
+            "tip": "Departe de aleile principale, veți găsi liniște absolută.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dimineața devreme la Lacul Bucov",
+            "tip": "Înainte de sosirea majorității vizitatorilor, lacul este cel mai pașnic.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bank of the Teleajen River",
+            "tip": "Stop during your bike tour and listen to the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hidden paths in the Dendrological Park",
+            "tip": "Away from the main paths, you will find absolute tranquility.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Early morning at Bucov Lake",
+            "tip": "Before most visitors arrive, the lake is at its most peaceful.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Honig von lokalen Imkern",
+            "tip": "Halten Sie auf Ihrer Fahrt durch das Teleajen-Tal Ausschau nach Schildern, die Honig verkaufen."
+          },
+          {
+            "name": "Handgemachte Holzarbeiten",
+            "tip": "In den Dörfern rund um Bucov finden Sie möglicherweise Handwerker."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méhészek méze",
+            "tip": "A Teleajen-völgyön keresztül biciklizve figyelje a mézet árusító táblákat."
+          },
+          {
+            "name": "Kézzel készített fa tárgyak",
+            "tip": "A Bucov körüli falvakban kézműveseket találhat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere de la apicultori locali",
+            "tip": "Fiți atenți la indicatoarele care vând miere în timp ce pedalați prin Valea Teleajenului."
+          },
+          {
+            "name": "Artizanat din lemn",
+            "tip": "S-ar putea să găsiți meșteri în satele din jurul Bucovului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Honey from local beekeepers",
+            "tip": "Look for signs selling honey as you cycle through the Teleajen Valley."
+          },
+          {
+            "name": "Handmade wooden crafts",
+            "tip": "You might find artisans in the villages surrounding Bucov."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad, bevor Sie losfahren, insbesondere die Bremsen und Reifen.",
+          "Ein Helm wird dringend empfohlen.",
+          "Nehmen Sie eine Karte oder ein GPS-Gerät mit, da einige Wege schlecht ausgeschildert sein können.",
+          "Schließen Sie Ihr Fahrrad immer sicher ab, wenn Sie es unbeaufsichtigt lassen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket és a gumikat.",
+          "A sisak viselése erősen ajánlott.",
+          "Vigyen magával térképet vagy GPS-t, mivel néhány út rosszul lehet kitáblázva.",
+          "Mindig zárja le biztonságosan a kerékpárt, ha felügyelet nélkül hagyja."
+        ],
+        "ro": [
+          "Verificați bicicleta înainte de a porni, în special frânele și anvelopele.",
+          "Casca este puternic recomandată.",
+          "Luați o hartă sau un dispozitiv GPS, deoarece unele trasee pot fi slab semnalizate.",
+          "Încuietăți întotdeauna bicicleta în siguranță când o lăsați nesupravegheată."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes and tires.",
+          "A helmet is strongly recommended.",
+          "Bring a map or GPS device, as some trails can be poorly marked.",
+          "Always lock your bike securely when leaving it unattended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 19.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Gedenkpark Constantin Stere",
+            "hu": "Parkoló a Constantin Stere Emlékparknál",
+            "ro": "Parcare la Parcul Memorial Constantin Stere",
+            "en": "Parking at Constantin Stere Memorial Park"
+          },
+          "coords": [
+            26.072,
+            44.965
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier, um den gesamten Parkkomplex zu Fuß zu erkunden.",
+            "hu": "Parkoljon itt, hogy gyalog fedezze fel az egész parkkomplexumot.",
+            "ro": "Parcați aici pentru a explora întregul complex al parcului pe jos.",
+            "en": "Park here to explore the entire park complex on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Constantin-Stere-Museum",
+            "hu": "Constantin Stere Múzeum",
+            "ro": "Muzeul Memorial Constantin Stere",
+            "en": "Constantin Stere Memorial Museum"
+          },
+          "coords": [
+            26.073,
+            44.967
+          ],
+          "category": "museums",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Besuch im Park mit dem kulturellen Highlight.",
+            "hu": "Kezdje a park látogatását a kulturális fényponttal.",
+            "ro": "Începeți vizita în parc cu atracția culturală principală.",
+            "en": "Start your visit to the park with the cultural highlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo Ploiești-Bucov",
+            "hu": "Ploiești-Bucov Állatkert",
+            "ro": "Grădina Zoologică Ploiești-Bucov",
+            "en": "Ploiești-Bucov Zoo"
+          },
+          "coords": [
+            26.078,
+            44.968
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum entfernt, ideal für Familien.",
+            "hu": "Rövid séta a múzeumtól, ideális családoknak.",
+            "ro": "O scurtă plimbare de la muzeu, ideal pentru familii.",
+            "en": "A short walk from the museum, ideal for families."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Stelian-Kirche",
+            "hu": "Szent Stelian-templom",
+            "ro": "Biserica Sfântul Stelian",
+            "en": "Saint Stelian Church"
+          },
+          "coords": [
+            26.06,
+            44.96
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie ins Dorfzentrum und parken Sie in der Nähe für diesen kurzen Besuch.",
+            "hu": "Vezessen a falu központjába, és parkoljon a közelben ehhez a rövid látogatáshoz.",
+            "ro": "Conduceți spre centrul satului și parcați în apropiere pentru această vizită scurtă.",
+            "en": "Drive to the village center and park nearby for this short visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Bucov-See",
+            "hu": "Bucovi-tó",
+            "ro": "Lacul Bucov",
+            "en": "Bucov Lake"
+          },
+          "coords": [
+            26.085,
+            44.972
+          ],
+          "category": "natural features",
+          "arrive_at": "14:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein schöner Ort, um nach dem Mittagessen frische Luft zu schnappen.",
+            "hu": "Szép hely ebéd után friss levegőt szívni.",
+            "ro": "Un loc frumos pentru a lua o gură de aer proaspăt după prânz.",
+            "en": "A beautiful place to get some fresh air after lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Teleajen-Tal bei Bucov",
+            "hu": "Teleajen-völgy Bucovnál",
+            "ro": "Valea Teleajenului la Bucov",
+            "en": "Teleajen Valley at Bucov"
+          },
+          "coords": [
+            26.12,
+            44.96
+          ],
+          "category": "natural features",
+          "arrive_at": "16:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 7.3,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Die letzte Fahrt des Tages führt Sie in eine malerische Landschaft für einen längeren Aufenthalt.",
+            "hu": "A nap utolsó autózása egy festői tájra vezet egy hosszabb tartózkodásra.",
+            "ro": "Ultima călătorie cu mașina a zilei vă duce într-un peisaj pitoresc pentru o ședere mai lungă.",
+            "en": "The last drive of the day takes you to a scenic landscape for a longer stay."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Bucov in Clustern. Sie beginnen im Constantin-Stere-Park, wo Sie Ihr Auto abstellen und das Museum und den Zoo zu Fuß erkunden. Am Vormittag erleben Sie Kultur und Natur hautnah. Nach dem Mittagessen fahren Sie ins Dorfzentrum zur historischen St.-Stelian-Kirche. Der Nachmittag ist den Naturerlebnissen gewidmet: eine kurze Fahrt zum Bucov-See, gefolgt von einer längeren Tour ins ruhige Teleajen-Tal, um den Tag in der Natur ausklingen zu lassen.",
+        "hu": "Autóval klaszterekben fedezheti fel Bucovot. A Constantin Stere Parkban kezdenek, ahol leparkolnak, és gyalog fedezik fel a múzeumot és az állatkertet. Délelőtt közelről tapasztalhatják meg a kultúrát és a természetet. Ebéd után a falu központjába hajtanak a történelmi Szent Stelian-templomhoz. A délután a természeti élményeké: egy rövid út a Bucovi-tóhoz, majd egy hosszabb túra a csendes Teleajen-völgybe, hogy a napot a természetben zárják.",
+        "ro": "Cu mașina, explorați Bucovul în clustere. Începeți în Parcul Constantin Stere, unde parcați și explorați muzeul și grădina zoologică pe jos. Dimineața, experimentați cultura și natura de aproape. După prânz, conduceți spre centrul satului la istorica Biserică Sf. Stelian. După-amiaza este dedicată experiențelor în natură: o scurtă călătorie cu mașina la Lacul Bucov, urmată de un tur mai lung în liniștita Vale a Teleajenului pentru a încheia ziua în natură.",
+        "en": "By car, you explore Bucov in clusters. You start at Constantin Stere Park, where you park and explore the museum and zoo on foot. In the morning, you'll experience culture and nature up close. After lunch, you drive to the village center to the historic St. Stelian Church. The afternoon is dedicated to nature experiences: a short drive to Bucov Lake, followed by a longer tour into the quiet Teleajen Valley to end the day in nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Vânătoresc",
+            "tip": "Bekannt für Wildgerichte, eine gute Option in der Nähe von Ploiești."
+          },
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "Eine traditionelle rumänische Kuttelsuppe, für die Abenteuerlustigen."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Ein köstliches Dessert aus gebratenem Teig mit saurer Sahne und Marmelade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vânătoresc Étterem (Vadász)",
+            "tip": "Vadhúsételeiről ismert, jó lehetőség Ploiești közelében."
+          },
+          {
+            "name": "Ciorbă de burtă (Pacalleves)",
+            "tip": "Hagyományos román pacalleves, a kalandvágyóknak."
+          },
+          {
+            "name": "Papanași (Túrós fánk)",
+            "tip": "Ízletes desszert sült tésztából, tejföllel és lekvárral."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Vânătoresc",
+            "tip": "Renumit pentru preparatele din vânat, o opțiune bună lângă Ploiești."
+          },
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "O supă tradițională românească, pentru cei aventuroși."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Un desert delicios din aluat prăjit cu smântână și gem."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vânătoresc Restaurant (Hunter's)",
+            "tip": "Known for game dishes, a good option near Ploiești."
+          },
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "A traditional Romanian tripe soup, for the adventurous."
+          },
+          {
+            "name": "Papanași",
+            "tip": "A delicious dessert of fried dough with sour cream and jam."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt im Teleajen-Tal",
+            "tip": "Finden Sie einen hohen Punkt für einen Panoramablick über das Tal.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gedenkpark Constantin Stere am frühen Morgen",
+            "tip": "Bevor die Massen ankommen, ist der Park eine Oase der Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ein ruhiges Gebet in der St.-Stelian-Kirche",
+            "tip": "Die Kirche bietet einen Moment der inneren Einkehr.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópont a Teleajen-völgyben",
+            "tip": "Keressen egy magas pontot a völgy panorámás kilátásáért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Constantin Stere Emlékpark kora reggel",
+            "tip": "Mielőtt a tömeg megérkezik, a park a béke oázisa.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Csendes ima a Szent Stelian-templomban",
+            "tip": "A templom a belső elmélyülés pillanatát kínálja.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere în Valea Teleajenului",
+            "tip": "Găsiți un punct înalt pentru o vedere panoramică asupra văii.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Memorial Constantin Stere dimineața devreme",
+            "tip": "Înainte de sosirea mulțimilor, parcul este o oază de pace.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "O rugăciune liniștită în Biserica Sf. Stelian",
+            "tip": "Biserica oferă un moment de reflecție interioară.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint in the Teleajen Valley",
+            "tip": "Find a high point for a panoramic view over the valley.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Constantin Stere Memorial Park in the early morning",
+            "tip": "Before the crowds arrive, the park is an oasis of peace.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A quiet prayer in St. Stelian Church",
+            "tip": "The church offers a moment of inner reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Straßenstände auf dem Land",
+            "tip": "Auf dem Weg durch das Teleajen-Tal finden Sie möglicherweise Stände mit lokalen Produkten."
+          },
+          {
+            "name": "Töpferei",
+            "tip": "Halten Sie Ausschau nach lokaler Keramik, die in der Region hergestellt wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vidéki útszéli árusok",
+            "tip": "A Teleajen-völgyön keresztül haladva helyi termékeket árusító standokat találhat."
+          },
+          {
+            "name": "Fazekasság",
+            "tip": "Keresse a régióban készült helyi kerámiákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tarabe rurale",
+            "tip": "Pe drumul prin Valea Teleajenului, s-ar putea să găsiți tarabe care vând produse locale."
+          },
+          {
+            "name": "Ceramică",
+            "tip": "Căutați ceramica locală produsă în regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Countryside road stands",
+            "tip": "On the way through the Teleajen Valley, you might find stalls selling local produce."
+          },
+          {
+            "name": "Pottery",
+            "tip": "Look for local pottery made in the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Verwenden Sie eine Navigations-App, um die besten Routen zwischen den Clustern zu finden.",
+          "Parken kann in den Dorfzentren schwierig sein, seien Sie geduldig.",
+          "Überprüfen Sie den Kraftstoffstand, bevor Sie in ländlichere Gebiete fahren.",
+          "Lassen Sie keine Wertsachen im Auto sichtbar liegen."
+        ],
+        "hu": [
+          "Használjon navigációs alkalmazást a klaszterek közötti legjobb útvonalak megtalálásához.",
+          "A faluközpontokban nehéz lehet parkolni, legyen türelmes.",
+          "Ellenőrizze az üzemanyagszintet, mielőtt vidéki területekre indul.",
+          "Ne hagyjon értékeket látható helyen az autóban."
+        ],
+        "ro": [
+          "Utilizați o aplicație de navigație pentru a găsi cele mai bune rute între clustere.",
+          "Parcarea poate fi dificilă în centrele satelor, aveți răbdare.",
+          "Verificați nivelul combustibilului înainte de a merge în zonele rurale.",
+          "Nu lăsați obiecte de valoare la vedere în mașină."
+        ],
+        "en": [
+          "Use a navigation app to find the best routes between clusters.",
+          "Parking can be difficult in village centers, be patient.",
+          "Check your fuel level before heading into more rural areas.",
+          "Do not leave valuables visible in the car."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bushaltestelle am Gedenkpark Constantin Stere",
+            "hu": "Buszmegálló a Constantin Stere Emlékparknál",
+            "ro": "Stația de autobuz Parcul Memorial Constantin Stere",
+            "en": "Bus Stop at Constantin Stere Memorial Park"
+          },
+          "coords": [
+            26.071,
+            44.964
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie hier aus, um den ersten Cluster von Sehenswürdigkeiten zu erkunden.",
+            "hu": "Szálljon le itt az első látnivalócsoport felfedezéséhez.",
+            "ro": "Coborâți aici pentru a explora primul cluster de atracții.",
+            "en": "Get off here to explore the first cluster of sights."
+          }
+        },
+        {
+          "name": {
+            "de": "Gedenkpark Constantin Stere",
+            "hu": "Constantin Stere Emlékpark",
+            "ro": "Parcul Memorial Constantin Stere",
+            "en": "Constantin Stere Memorial Park"
+          },
+          "coords": [
+            26.075,
+            44.966
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Machen Sie einen Spaziergang durch den Park, bevor Sie das Museum besuchen.",
+            "hu": "Sétáljon egyet a parkban, mielőtt meglátogatja a múzeumot.",
+            "ro": "Faceți o plimbare prin parc înainte de a vizita muzeul.",
+            "en": "Take a walk through the park before visiting the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Constantin-Stere-Museum",
+            "hu": "Constantin Stere Múzeum",
+            "ro": "Muzeul Memorial Constantin Stere",
+            "en": "Constantin Stere Memorial Museum"
+          },
+          "coords": [
+            26.073,
+            44.967
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der kulturelle Höhepunkt des Parkkomplexes.",
+            "hu": "A parkkomplexum kulturális fénypontja.",
+            "ro": "Punctul culminant cultural al complexului parcului.",
+            "en": "The cultural highlight of the park complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle Bucov Zentrum",
+            "hu": "Bucov központ buszmegálló",
+            "ro": "Stația de autobuz Bucov Centru",
+            "en": "Bucov Center Bus Stop"
+          },
+          "coords": [
+            26.061,
+            44.959
+          ],
+          "category": "transport",
+          "arrive_at": "12:55",
+          "stay_min": 0,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Von hier aus erreichen Sie die Sehenswürdigkeiten im Dorfzentrum.",
+            "hu": "Innen érheti el a falu központjának látnivalóit.",
+            "ro": "De aici puteți ajunge la atracțiile din centrul satului.",
+            "en": "From here you can reach the sights in the village center."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Stelian-Kirche",
+            "hu": "Szent Stelian-templom",
+            "ro": "Biserica Sfântul Stelian",
+            "en": "Saint Stelian Church"
+          },
+          "coords": [
+            26.06,
+            44.96
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Bushaltestelle entfernt.",
+            "hu": "Rövid séta a buszmegállótól.",
+            "ro": "La o scurtă plimbare de stația de autobuz.",
+            "en": "A short walk from the bus stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erkunden Sie Bucov in zwei Etappen. Der Morgen beginnt mit einer Busfahrt zum Constantin-Stere-Park. Dort angekommen, spazieren Sie gemütlich durch den Park und besuchen das Museum. Am Vormittag erleben Sie die grüne Lunge und das kulturelle Herz der Gegend. Nach einer weiteren kurzen Busfahrt ins Zentrum verbringen Sie den Nachmittag damit, die historische St.-Stelian-Kirche und das nahegelegene Mahnmal zu Fuß zu erkunden und die lokale Atmosphäre aufzusaugen.",
+        "hu": "Tömegközlekedéssel két szakaszban fedezheti fel Bucovot. A reggel egy buszúttal kezdődik a Constantin Stere Parkba. Miután megérkezett, kényelmesen sétálhat a parkban és meglátogathatja a múzeumot. Délelőtt a környék zöld tüdejét és kulturális szívét tapasztalhatja meg. Egy újabb rövid buszút után a központba, a délutánt a történelmi Szent Stelian-templom és a közeli emlékmű gyalogos felfedezésével és a helyi hangulat magába szívásával tölti.",
+        "ro": "Cu transportul public, explorați Bucovul în două etape. Dimineața începe cu o călătorie cu autobuzul spre Parcul Constantin Stere. Odată ajunși, vă plimbați agale prin parc și vizitați muzeul. La amiază, experimentați plămânul verde și inima culturală a zonei. După o altă călătorie scurtă cu autobuzul spre centru, vă petreceți după-amiaza explorând pe jos istorica Biserică Sf. Stelian și monumentul din apropiere, absorbind atmosfera locală.",
+        "en": "Using public transport, you explore Bucov in two stages. The morning begins with a bus ride to Constantin Stere Park. Once there, you stroll leisurely through the park and visit the museum. In the morning, you'll experience the area's green lung and cultural heart. After another short bus ride to the center, you spend the afternoon exploring the historic St. Stelian Church and the nearby memorial on foot, soaking up the local atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gogoși",
+            "tip": "Heiße, frische Donuts, ein beliebter rumänischer Straßensnack."
+          },
+          {
+            "name": "Pizzerie locală",
+            "tip": "In der Nähe der zentralen Bushaltestelle finden Sie wahrscheinlich eine einfache Pizzeria."
+          },
+          {
+            "name": "Cafea la pachet",
+            "tip": "Holen Sie sich einen Kaffee zum Mitnehmen, während Sie auf den Bus warten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gogoși (fánk)",
+            "tip": "Forró, friss fánk, népszerű román utcai étel."
+          },
+          {
+            "name": "Helyi pizzéria",
+            "tip": "Valószínűleg talál egy egyszerű pizzériát a központi buszmegálló közelében."
+          },
+          {
+            "name": "Elvihető kávé",
+            "tip": "Vegyen egy kávét, amíg a buszra vár."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gogoși",
+            "tip": "Gogoși calde și proaspete, o gustare populară de stradă românească."
+          },
+          {
+            "name": "Pizzerie locală",
+            "tip": "Probabil veți găsi o pizzerie simplă lângă stația centrală de autobuz."
+          },
+          {
+            "name": "Cafea la pachet",
+            "tip": "Luați o cafea la pachet în timp ce așteptați autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gogoși",
+            "tip": "Hot, fresh donuts, a popular Romanian street snack."
+          },
+          {
+            "name": "Local Pizzeria",
+            "tip": "You'll likely find a simple pizzeria near the central bus stop."
+          },
+          {
+            "name": "Coffee to go",
+            "tip": "Grab a coffee to go while waiting for the bus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof neben der St.-Stelian-Kirche",
+            "tip": "Ein Ort der Stille und Geschichte.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Eine Bank im Dendrologischen Park",
+            "tip": "Lesen Sie ein Buch oder beobachten Sie die Vögel.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang entlang des Teleajen-Flusses",
+            "tip": "Wenn Sie Zeit haben, ist ein kurzer Spaziergang am Flussufer entspannend.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Szent Stelian-templom melletti temető",
+            "tip": "A csend és a történelem helye.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Egy pad a Dendrológiai Parkban",
+            "tip": "Olvasson egy könyvet vagy figyelje a madarakat.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Séta a Teleajen folyó mentén",
+            "tip": "Ha van ideje, egy rövid séta a folyóparton pihentető.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul de lângă Biserica Sf. Stelian",
+            "tip": "Un loc de liniște și istorie.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "O bancă în Parcul Dendrologic",
+            "tip": "Citiți o carte sau priviți păsările.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare pe malul râului Teleajen",
+            "tip": "Dacă aveți timp, o scurtă plimbare pe malul râului este relaxantă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cemetery next to St. Stelian Church",
+            "tip": "A place of silence and history.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "A bench in the Dendrological Park",
+            "tip": "Read a book or watch the birds.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Walk along the Teleajen River",
+            "tip": "If you have time, a short walk along the riverbank is relaxing.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk an der Bushaltestelle",
+            "tip": "Kaufen Sie Getränke, Snacks oder eine Zeitung für Ihre Reise."
+          },
+          {
+            "name": "Lokaler Laden im Dorfzentrum",
+            "tip": "Unterstützen Sie die lokale Wirtschaft, indem Sie in einem kleinen Laden einkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszmegállóban",
+            "tip": "Vásároljon italokat, harapnivalókat vagy újságot az utazáshoz."
+          },
+          {
+            "name": "Helyi bolt a falu központjában",
+            "tip": "Támogassa a helyi gazdaságot egy kis boltban történő vásárlással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la stația de autobuz",
+            "tip": "Cumpărați băuturi, gustări sau un ziar pentru călătorie."
+          },
+          {
+            "name": "Magazin local în centrul satului",
+            "tip": "Susțineți economia locală cumpărând de la un mic magazin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus stop",
+            "tip": "Buy drinks, snacks, or a newspaper for your journey."
+          },
+          {
+            "name": "Local shop in the village center",
+            "tip": "Support the local economy by buying from a small shop."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich im Voraus über die Busfahrpläne.",
+          "Haben Sie Kleingeld für die Tickets bereit.",
+          "Seien Sie sich der Abfahrtszeiten für Ihre Rückfahrt bewusst.",
+          "Fragen Sie die Einheimischen nach dem Weg, sie sind oft hilfsbereit."
+        ],
+        "hu": [
+          "Előre tájékozódjon a buszmenetrendekről.",
+          "Készítsen elő aprópénzt a jegyekhez.",
+          "Legyen tisztában a visszaút indulási idejével.",
+          "Kérdezze meg a helyieket az útvonalról, gyakran segítőkészek."
+        ],
+        "ro": [
+          "Verificați orarele autobuzelor în avans.",
+          "Aveți pregătiți bani mărunți pentru bilete.",
+          "Fiți conștienți de orele de plecare pentru călătoria de întoarcere.",
+          "Întrebați localnicii despre direcții, sunt adesea de ajutor."
+        ],
+        "en": [
+          "Check the bus schedules in advance.",
+          "Have small change ready for tickets.",
+          "Be aware of departure times for your return journey.",
+          "Ask the locals for directions, they are often helpful."
+        ]
+      }
+    }
+  }
+}

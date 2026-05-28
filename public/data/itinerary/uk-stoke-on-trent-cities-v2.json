@@ -1,0 +1,1064 @@
+{
+  "city_id": "uk-stoke-on-trent-cities-v2",
+  "anchor": {
+    "name": "Stoke-on-Trent",
+    "coords": [
+      -2.1794,
+      53.0027
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Potteries Museum & Kunstgalerie",
+            "hu": "A Kerámiák Múzeuma és Művészeti Galéria",
+            "ro": "Muzeul și Galeria de Artă Potteries",
+            "en": "Potteries Museum & Art Gallery"
+          },
+          "coords": [
+            -2.175,
+            53.006
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Sammlung von Staffordshire-Keramik.",
+            "hu": "Ne hagyja ki a Staffordshire-i kerámia gyűjteményt.",
+            "ro": "Nu ratați colecția de ceramică Staffordshire.",
+            "en": "Don't miss the Staffordshire pottery collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Bethesda-Kapelle",
+            "hu": "Bethesda-kápolna",
+            "ro": "Capela Bethesda",
+            "en": "Bethesda Chapel"
+          },
+          "coords": [
+            -2.178,
+            53.007
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur, die als „Kathedrale der Töpfereien“ bekannt ist.",
+            "hu": "Csodálja meg a lenyűgöző építészetet, mely a 'Kerámiák Katedrálisa' néven ismert.",
+            "ro": "Admirați arhitectura impresionantă, cunoscută drept „Catedrala olăritului”.",
+            "en": "Admire the impressive architecture, known as the 'Cathedral of the Potteries'."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Hanley",
+            "hu": "Ebéd Hanley-ben",
+            "ro": "Prânz în Hanley",
+            "en": "Lunch in Hanley"
+          },
+          "coords": [
+            -2.176,
+            53.004
+          ],
+          "category": "gastro",
+          "arrive_at": "12:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie die lokalen Haferkuchen, eine Spezialität aus Staffordshire.",
+            "hu": "Kóstolja meg a helyi zabpelyhes lepényt, egy Staffordshire-i specialitást.",
+            "ro": "Încercați prăjiturile locale din ovăz, o specialitate din Staffordshire.",
+            "en": "Try the local oatcakes, a Staffordshire specialty."
+          }
+        },
+        {
+          "name": {
+            "de": "Hanley Park",
+            "hu": "Hanley Park",
+            "ro": "Parcul Hanley",
+            "en": "Hanley Park"
+          },
+          "coords": [
+            -2.17,
+            52.998
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für einen entspannten Spaziergang nach dem Mittagessen.",
+            "hu": "Tökéletes hely egy pihentető sétához ebéd után.",
+            "ro": "Un loc perfect pentru o plimbare relaxantă după prânz.",
+            "en": "A perfect spot for a relaxing post-lunch stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Middleport Pottery",
+            "hu": "Middleport Kerámiagyár",
+            "ro": "Fabrica de ceramică Middleport",
+            "en": "Middleport Pottery"
+          },
+          "coords": [
+            -2.205,
+            53.025
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erleben Sie eine funktionierende Keramikfabrik aus der viktorianischen Zeit.",
+            "hu": "Tapasztalja meg egy működő viktoriánus kerámiagyár hangulatát.",
+            "ro": "Experimentați o fabrică de ceramică victoriană în funcțiune.",
+            "en": "Experience a working Victorian pottery factory."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen der Keramikindustrie im Potteries Museum. Nach einem Einblick in die kirchliche Geschichte in der Bethesda-Kapelle und einem herzhaften Mittagessen mit lokalen Spezialitäten bietet der Hanley Park eine Oase der Ruhe. Der Nachmittag ist der Erkundung des lebendigen Industrieerbes in der Middleport Pottery gewidmet, wo die Zeit stehen geblieben zu sein scheint.",
+        "hu": "Kezdje a napot a kerámiaipar szívében, a Potteries Múzeumban. A Bethesda-kápolna egyházi történelmébe való bepillantás és egy kiadós, helyi specialitásokkal teli ebéd után a Hanley Park a nyugalom szigetét kínálja. A délutánt a Middleport Kerámiagyár élő ipari örökségének felfedezésének szenteljük, ahol úgy tűnik, megállt az idő.",
+        "ro": "Începeți ziua în inima industriei ceramice la Muzeul Potteries. După o incursiune în istoria ecleziastică la Capela Bethesda și un prânz consistent cu specialități locale, Parcul Hanley oferă o oază de liniște. După-amiaza este dedicată explorării patrimoniului industrial viu de la Middleport Pottery, unde timpul pare să fi stat în loc.",
+        "en": "Start your day in the heart of the pottery industry at the Potteries Museum. After a glimpse into ecclesiastical history at Bethesda Chapel and a hearty lunch with local specialities, Hanley Park offers a peaceful oasis. The afternoon is dedicated to exploring the living industrial heritage at Middleport Pottery, where time seems to stand still."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Staffordshire Oatcakes",
+            "tip": "Ein herzhafter Pfannkuchen, oft mit Käse oder Speck gefüllt. Ein Muss!"
+          },
+          {
+            "name": "Lobby",
+            "tip": "Ein traditioneller Eintopf aus Stoke, perfekt für ein wärmendes Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Staffordshire-i zabpalacsinta",
+            "tip": "Sós palacsinta, gyakran sajttal vagy szalonnával töltve. Kötelező megkóstolni!"
+          },
+          {
+            "name": "Lobby",
+            "tip": "Hagyományos Stoke-i egytálétel, tökéletes egy melengető ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Clătite de ovăz Staffordshire",
+            "tip": "O clătită savuroasă, adesea umplută cu brânză sau bacon. Trebuie încercată!"
+          },
+          {
+            "name": "Lobby",
+            "tip": "O tocană tradițională din Stoke, perfectă pentru un prânz care să te încălzească."
+          }
+        ],
+        "en": [
+          {
+            "name": "Staffordshire Oatcakes",
+            "tip": "A savory pancake, often filled with cheese or bacon. A must-try!"
+          },
+          {
+            "name": "Lobby",
+            "tip": "A traditional Stoke stew, perfect for a warming lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Calder-Kanal",
+            "tip": "Ein ruhiger Spaziergang entlang des Kanals, um dem städtischen Trubel zu entfliehen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hanley Park",
+            "tip": "Finden Sie eine ruhige Bank am See und beobachten Sie die Welt an sich vorbeiziehen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calder-csatorna",
+            "tip": "Egy békés séta a csatorna mentén, hogy elmeneküljön a városi nyüzsgéstől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hanley Park",
+            "tip": "Keressen egy csendes padot a tó mellett, és nézze a világot.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Canalul Caldon",
+            "tip": "O plimbare liniștită de-a lungul canalului pentru a scăpa de agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Hanley",
+            "tip": "Găsiți o bancă liniștită lângă lac și priviți lumea cum trece.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Caldon Canal",
+            "tip": "A peaceful walk along the canal to escape the city bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hanley Park",
+            "tip": "Find a quiet bench by the lake and watch the world go by.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Keramikläden",
+            "tip": "Kaufen Sie einzigartige Keramikstücke direkt von den Herstellern in den Museumsshops."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerámiaüzletek",
+            "tip": "Vásároljon egyedi kerámiadarabokat közvetlenül a gyártóktól a múzeumi boltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de ceramică",
+            "tip": "Cumpărați piese unice de ceramică direct de la producători din magazinele muzeelor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pottery Shops",
+            "tip": "Buy unique ceramic pieces directly from the makers at the museum shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Die meisten Museen befinden sich im Stadtzentrum und sind leicht zu Fuß erreichbar.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus, da diese variieren können.",
+          "Ein Spaziergang entlang des Trent and Mersey Canal bietet eine andere Perspektive auf die Stadt."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "A legtöbb múzeum a városközpontban található és könnyen megközelíthető gyalog.",
+          "Ellenőrizze előre a múzeumok nyitvatartási idejét, mert az változhat.",
+          "Séta a Trent és Mersey-csatorna mentén más perspektívát nyújt a városról."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Majoritatea muzeelor sunt situate în centrul orașului și sunt ușor accesibile pe jos.",
+          "Verificați în avans orele de deschidere ale muzeelor, deoarece acestea pot varia.",
+          "O plimbare de-a lungul Canalului Trent și Mersey oferă o perspectivă diferită asupra orașului."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Most museums are located in the city centre and are easily accessible on foot.",
+          "Check the opening times of museums in advance, as they can vary.",
+          "A walk along the Trent and Mersey Canal offers a different perspective of the city."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 15.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Potteries Museum & Kunstgalerie",
+            "hu": "A Kerámiák Múzeuma és Művészeti Galéria",
+            "ro": "Muzeul și Galeria de Artă Potteries",
+            "en": "Potteries Museum & Art Gallery"
+          },
+          "coords": [
+            -2.175,
+            53.006
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, um den Kontext für den Rest des Tages zu erhalten.",
+            "hu": "Kezdje itt, hogy kontextusba helyezze a nap további részét.",
+            "ro": "Începeți de aici pentru a obține contextul pentru restul zilei.",
+            "en": "Start here to get the context for the rest of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Hanley Park",
+            "hu": "Hanley Park",
+            "ro": "Parcul Hanley",
+            "en": "Hanley Park"
+          },
+          "coords": [
+            -2.17,
+            52.998
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Radtour durch diesen restaurierten viktorianischen Park.",
+            "hu": "Tegyen egy rövid biciklitúrát ebben a felújított viktoriánus parkban.",
+            "ro": "Faceți o scurtă plimbare cu bicicleta prin acest parc victorian restaurat.",
+            "en": "Take a short cycle through this restored Victorian park."
+          }
+        },
+        {
+          "name": {
+            "de": "Gladstone Pottery Museum",
+            "hu": "Gladstone Kerámiagyár Múzeum",
+            "ro": "Muzeul Ceramicii Gladstone",
+            "en": "Gladstone Pottery Museum"
+          },
+          "coords": [
+            -2.138,
+            52.986
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:24",
+          "stay_min": 120,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und nehmen Sie an einer Führung teil, um die Flaschenöfen zu sehen.",
+            "hu": "Zárja le a biciklijét és vegyen részt egy vezetett túrán, hogy megnézze a palack-kemencéket.",
+            "ro": "Legați-vă bicicleta și participați la un tur ghidat pentru a vedea cuptoarele sticlă.",
+            "en": "Lock up your bike and join a guided tour to see the bottle kilns."
+          }
+        },
+        {
+          "name": {
+            "de": "Middleport Pottery",
+            "hu": "Middleport Kerámiagyár",
+            "ro": "Fabrica de ceramică Middleport",
+            "en": "Middleport Pottery"
+          },
+          "coords": [
+            -2.205,
+            53.025
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 44,
+          "hop_from_prev_km": 7.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Am Kanal gelegen, ist es ein malerischer Ort, um mehr über Burleigh-Keramik zu erfahren.",
+            "hu": "A csatorna mentén fekszik, festői hely, hogy többet tudjon meg a Burleigh kerámiáról.",
+            "ro": "Situat lângă canal, este un loc pitoresc pentru a afla despre ceramica Burleigh.",
+            "en": "Located by the canal, it's a picturesque spot to learn about Burleigh pottery."
+          }
+        },
+        {
+          "name": {
+            "de": "Ford Green Hall",
+            "hu": "Ford Green Hall",
+            "ro": "Ford Green Hall",
+            "en": "Ford Green Hall"
+          },
+          "coords": [
+            -2.19,
+            53.05
+          ],
+          "category": "famous residences",
+          "arrive_at": "17:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour in diesem wunderschön erhaltenen Bauernhaus aus dem 17. Jahrhundert.",
+            "hu": "Fejezze be a túrát ebben a gyönyörűen megőrzött 17. századi parasztházban.",
+            "ro": "Încheiați-vă turul la această fermă din secolul al XVII-lea, frumos conservată.",
+            "en": "End your tour at this beautifully preserved 17th-century farmhouse."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Rad für eine Tour durch das Erbe von Stoke. Nach dem Museum führt Sie eine sanfte Fahrt durch den Hanley Park, bevor Sie nach Süden zum ikonischen Gladstone Pottery Museum radeln. Der Nachmittag ist eine Reise nach Norden entlang der Wasserwege zur Middleport Pottery, die in der historischen Ruhe der Ford Green Hall gipfelt. Es ist eine perfekte Mischung aus Kultur und Bewegung.",
+        "hu": "Pattanjon biciklire egy Stoke-i örökségtúrához. A múzeum után egy kellemes tekerés a Hanley Parkon keresztül, mielőtt délre indulna az ikonikus Gladstone Kerámiagyár Múzeumhoz. A délután egy északi utazás a vízi utak mentén a Middleport Kerámiagyárhoz, ami a Ford Green Hall történelmi nyugalmában csúcsosodik ki. Ez a kultúra és a testmozgás tökéletes keveréke.",
+        "ro": "Urcați-vă pe bicicletă pentru un tur al patrimoniului din Stoke. După muzeu, o plimbare ușoară prin Parcul Hanley vă pregătește înainte de a pedala spre sud, la emblematicul Muzeu de Ceramică Gladstone. După-amiaza este o călătorie spre nord de-a lungul căilor navigabile până la Middleport Pottery, culminând cu liniștea istorică de la Ford Green Hall. Este un amestec perfect de cultură și exerciții fizice.",
+        "en": "Hop on your bike for a tour of Stoke's heritage. After the museum, a gentle ride through Hanley Park sets you up before cycling south to the iconic Gladstone Pottery Museum. The afternoon is a journey north along the waterways to Middleport Pottery, culminating in the historic tranquility of Ford Green Hall. It's a perfect blend of culture and exercise."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Quarter Cafe",
+            "tip": "Ein beliebter Ort in Hanley, ideal für einen Kaffee oder ein leichtes Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Quarter Cafe",
+            "tip": "Népszerű hely Hanley-ben, ideális egy kávéra vagy egy könnyű ebédre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Quarter Cafe",
+            "tip": "Un loc popular în Hanley, excelent pentru o cafea sau un prânz ușor."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Quarter Cafe",
+            "tip": "A popular spot in Hanley, great for a coffee or a light lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Trent and Mersey Canal",
+            "tip": "Genießen Sie eine friedliche Fahrt abseits der Straßen.",
+            "emoji": "🚲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trent és Mersey-csatorna kerékpárút",
+            "tip": "Élvezze a békés tekerést az utaktól távol.",
+            "emoji": "🚲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de pe Canalul Trent și Mersey",
+            "tip": "Bucurați-vă de o plimbare liniștită departe de drumuri.",
+            "emoji": "🚲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Trent and Mersey Canal Towpath",
+            "tip": "Enjoy a peaceful ride away from the roads.",
+            "emoji": "🚲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Middleport Pottery Shop",
+            "tip": "Kaufen Sie wunderschöne Burleigh-Ware als perfektes Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Middleport Kerámiagyár Boltja",
+            "tip": "Vásároljon gyönyörű Burleigh-termékeket tökéletes szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Middleport Pottery",
+            "tip": "Cumpărați frumoasele produse Burleigh ca suvenir perfect."
+          }
+        ],
+        "en": [
+          {
+            "name": "Middleport Pottery Shop",
+            "tip": "Buy beautiful Burleigh ware for the perfect souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Stoke ist hügelig, seien Sie also auf einige Steigungen vorbereitet.",
+          "Ein Großteil des Kanal-Radwegs ist flach und für alle Fitnesslevel geeignet.",
+          "Nehmen Sie ein gutes Schloss für Ihr Fahrrad mit, da Sie es an den Museen abstellen werden.",
+          "Eine Wasserflasche und Snacks sind für die längeren Fahrten unerlässlich."
+        ],
+        "hu": [
+          "Stoke dombos, tehát készüljön fel néhány emelkedőre.",
+          "A csatorna melletti kerékpárút nagy része sík és minden edzettségi szintnek megfelel.",
+          "Hozzon magával egy jó lakatot a kerékpárjához, mivel a múzeumoknál hagyni fogja.",
+          "Egy vizespalack és harapnivalók elengedhetetlenek a hosszabb tekerésekhez."
+        ],
+        "ro": [
+          "Stoke este deluros, așa că fiți pregătiți pentru câteva urcări.",
+          "O mare parte din poteca de pe malul canalului este plată și potrivită pentru toate nivelurile de fitness.",
+          "Luați un lacăt bun pentru bicicletă, deoarece o veți lăsa la muzee.",
+          "O sticlă de apă și gustări sunt esențiale pentru plimbările mai lungi."
+        ],
+        "en": [
+          "Stoke is hilly, so be prepared for some inclines.",
+          "Much of the canal towpath is flat and suitable for all fitness levels.",
+          "Bring a good lock for your bike as you'll be leaving it at the museums.",
+          "A water bottle and snacks are essential for the longer rides."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 24.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Trentham Estate",
+            "hu": "Trentham birtok",
+            "ro": "Domeniul Trentham",
+            "en": "Trentham Estate"
+          },
+          "coords": [
+            -2.23,
+            52.95
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Spaziergang durch die preisgekrönten Gärten.",
+            "hu": "Kezdje a napot egy sétával a díjnyertes kertekben.",
+            "ro": "Începeți ziua cu o plimbare prin grădinile premiate.",
+            "en": "Start the day with a walk through the award-winning gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "World of Wedgwood",
+            "hu": "A Wedgwood világa",
+            "ro": "Lumea Wedgwood",
+            "en": "World of Wedgwood"
+          },
+          "coords": [
+            -2.24,
+            52.96
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:13",
+          "stay_min": 120,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Parken Sie einmal und gehen Sie von Trentham aus. Erfahren Sie alles über die berühmte Marke.",
+            "hu": "Parkoljon le, és sétáljon át Trenthamből. Ismerjen meg mindent a híres márkáról.",
+            "ro": "Parcați o dată și mergeți pe jos de la Trentham. Aflați totul despre faimosul brand.",
+            "en": "Park once and walk over from Trentham. Learn all about the famous brand."
+          }
+        },
+        {
+          "name": {
+            "de": "Gladstone Pottery Museum",
+            "hu": "Gladstone Kerámiagyár Múzeum",
+            "ro": "Muzeul Ceramicii Gladstone",
+            "en": "Gladstone Pottery Museum"
+          },
+          "coords": [
+            -2.138,
+            52.986
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:42",
+          "stay_min": 100,
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 13.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum nächsten Cluster und erleben Sie eine authentische viktorianische Töpferei.",
+            "hu": "Vezessen a következő klaszterhez egy autentikus viktoriánus kerámiaélményért.",
+            "ro": "Conduceți spre următorul cluster pentru o experiență autentică a unei olării victoriene.",
+            "en": "Drive to the next cluster for an authentic Victorian pottery experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Potteries Museum & Kunstgalerie",
+            "hu": "A Kerámiák Múzeuma és Művészeti Galéria",
+            "ro": "Muzeul și Galeria de Artă Potteries",
+            "en": "Potteries Museum & Art Gallery"
+          },
+          "coords": [
+            -2.175,
+            53.006
+          ],
+          "category": "museums",
+          "arrive_at": "15:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 9.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Stadtzentrum für den letzten Stopp-Cluster des Tages.",
+            "hu": "Parkoljon a városközpontban a nap utolsó megálló-klaszteréhez.",
+            "ro": "Parcați în centrul orașului pentru ultimul cluster de opriri ale zilei.",
+            "en": "Park in the city centre for the final cluster of stops for the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Bethesda-Kapelle",
+            "hu": "Bethesda-kápolna",
+            "ro": "Capela Bethesda",
+            "en": "Bethesda Chapel"
+          },
+          "coords": [
+            -2.178,
+            53.007
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:08",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum, um die beeindruckende Fassade zu sehen.",
+            "hu": "Egy rövid séta a múzeumtól, hogy megnézze a lenyűgöző homlokzatot.",
+            "ro": "O scurtă plimbare de la muzeu pentru a vedea fațada impresionantă.",
+            "en": "A short walk from the museum to see the impressive facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen im Kulturviertel",
+            "hu": "Vacsora a Kulturális Negyedben",
+            "ro": "Cină în Cartierul Cultural",
+            "en": "Dinner in the Cultural Quarter"
+          },
+          "coords": [
+            -2.176,
+            53.008
+          ],
+          "category": "gastro",
+          "arrive_at": "17:49",
+          "stay_min": 90,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einer Mahlzeit in einem der vielen Restaurants in Hanley.",
+            "hu": "Zárja a napot egy étkezéssel Hanley számos éttermének egyikében.",
+            "ro": "Încheiați ziua cu o masă la unul dintre numeroasele restaurante din Hanley.",
+            "en": "End the day with a meal at one of Hanley's many restaurants."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Autotag maximiert Ihre Reichweite. Beginnen Sie im ruhigen Trentham Estate und World of Wedgwood im Süden. Nach dem Mittagessen fahren Sie nach Norden zum Gladstone Pottery Museum, um in das industrielle Herz einzutauchen. Der Tag endet im Stadtzentrum von Stoke, wo Sie das Potteries Museum und die architektonische Pracht der Bethesda-Kapelle zu Fuß erkunden, bevor Sie ein wohlverdientes Abendessen genießen.",
+        "hu": "Ez az autós nap maximalizálja az elérését. Kezdjen délen a nyugodt Trentham birtokon és a Wedgwood világában. Ebéd után vezessen északra a Gladstone Kerámiagyár Múzeumba, hogy elmerüljön az ipari szívben. A nap Stoke városközpontjában ér véget, ahol gyalog fedezheti fel a Potteries Múzeumot és a Bethesda-kápolna építészeti pompáját egy jól megérdemelt vacsora előtt.",
+        "ro": "Această zi cu mașina maximizează acoperirea. Începeți în sud, la liniștitul domeniu Trentham și la World of Wedgwood. După prânz, conduceți spre nord, la Muzeul de Ceramică Gladstone, pentru o imersiune în inima industrială. Ziua se încheie în centrul orașului Stoke, explorând pe jos Muzeul Potteries și splendoarea arhitecturală a Capelei Bethesda, înainte de o cină binemeritată.",
+        "en": "This car-based day maximizes your reach. Start south at the serene Trentham Estate and World of Wedgwood. After lunch, drive north to Gladstone Pottery Museum for an immersion in the industrial heart. The day concludes in Stoke's city centre, exploring the Potteries Museum and the architectural splendour of Bethesda Chapel on foot before a well-deserved dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Trentham Estate Cafes",
+            "tip": "Bietet eine Vielzahl von Optionen mit schöner Aussicht auf den Garten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Trentham Estate kávézói",
+            "tip": "Számos lehetőséget kínál gyönyörű kerti kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenelele de la Domeniul Trentham",
+            "tip": "Oferă o varietate de opțiuni cu vederi frumoase la grădină."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Trentham Estate Cafes",
+            "tip": "Offers a variety of options with lovely garden views."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Der italienische Garten, Trentham",
+            "tip": "Ein wunderschön gestalteter, ruhiger Ort zum Sitzen und Nachdenken.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olasz Kert, Trentham",
+            "tip": "Gyönyörűen kialakított, békés hely egy kis üldögéléshez és elmélkedéshez.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Italiană, Trentham",
+            "tip": "Un spațiu liniștit, frumos proiectat, pentru a sta și a reflecta.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "The Italian Garden, Trentham",
+            "tip": "A beautifully designed, peaceful space to sit and reflect.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "World of Wedgwood Store",
+            "tip": "Kaufen Sie ikonische Jasperware und andere feine Bone China-Stücke."
+          },
+          {
+            "name": "Trentham Shopping Village",
+            "tip": "Ein Dorf aus Holzhütten, das eine Reihe von unabhängigen Geschäften und Marken anbietet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "World of Wedgwood üzlet",
+            "tip": "Vásároljon ikonikus Jasperware-t és más finom csontporcelán darabokat."
+          },
+          {
+            "name": "Trentham bevásárlófalu",
+            "tip": "Faházakból álló falu, amely számos független üzletet és márkát kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul World of Wedgwood",
+            "tip": "Cumpărați piese iconice Jasperware și alte piese fine de porțelan."
+          },
+          {
+            "name": "Satul comercial Trentham",
+            "tip": "Un sat de cabane din lemn care oferă o gamă largă de magazine independente și mărci."
+          }
+        ],
+        "en": [
+          {
+            "name": "World of Wedgwood Store",
+            "tip": "Purchase iconic Jasperware and other fine bone china pieces."
+          },
+          {
+            "name": "Trentham Shopping Village",
+            "tip": "A village of timber lodges offering a range of independent stores and brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Planen Sie Ihre Route im Voraus, da die Sehenswürdigkeiten über die sechs Städte verteilt sind.",
+          "Prüfen Sie die Parkmöglichkeiten an jedem Ort; die meisten haben eigene Parkplätze.",
+          "Der Verkehr kann zu Stoßzeiten stark sein, planen Sie also zusätzliche Reisezeit ein.",
+          "Ein Navigationsgerät oder eine Karten-App ist für die Navigation zwischen den Standorten unerlässlich."
+        ],
+        "hu": [
+          "Tervezze meg előre az útvonalat, mivel a látnivalók a hat városban szétszórva találhatók.",
+          "Ellenőrizze a parkolási lehetőségeket minden helyszínen; a legtöbbnek saját parkolója van.",
+          "A forgalom csúcsidőben sűrű lehet, ezért tervezzen be plusz utazási időt.",
+          "A navigációs eszköz vagy térképalkalmazás elengedhetetlen a helyszínek közötti navigáláshoz."
+        ],
+        "ro": [
+          "Planificați-vă traseul în avans, deoarece atracțiile sunt răspândite în cele șase orașe.",
+          "Verificați parcarea la fiecare locație; majoritatea au parcări dedicate.",
+          "Traficul poate fi aglomerat la orele de vârf, așa că acordați timp suplimentar de călătorie.",
+          "Un GPS sau o aplicație de hărți este esențială pentru a naviga între site-uri."
+        ],
+        "en": [
+          "Plan your route in advance as the attractions are spread across the six towns.",
+          "Check for parking at each location; most have dedicated car parks.",
+          "Traffic can be heavy during peak times, so allow for extra travel time.",
+          "A sat-nav or map app is essential for navigating between the sites."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:53",
+      "total_km": 15.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Potteries Museum & Kunstgalerie",
+            "hu": "A Kerámiák Múzeuma és Művészeti Galéria",
+            "ro": "Muzeul și Galeria de Artă Potteries",
+            "en": "Potteries Museum & Art Gallery"
+          },
+          "coords": [
+            -2.175,
+            53.006
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein idealer Ausgangspunkt, leicht vom Hauptbusbahnhof aus zu erreichen.",
+            "hu": "Ideális kiindulópont, könnyen megközelíthető a fő buszpályaudvartól.",
+            "ro": "Un punct de plecare ideal, ușor accesibil de la autogara principală.",
+            "en": "An ideal starting point, easily accessible from the main bus station."
+          }
+        },
+        {
+          "name": {
+            "de": "Hanley Park",
+            "hu": "Hanley Park",
+            "ro": "Parcul Hanley",
+            "en": "Hanley Park"
+          },
+          "coords": [
+            -2.17,
+            52.998
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum für eine Pause im Grünen.",
+            "hu": "Egy rövid séta a múzeumtól egy zöld szünetért.",
+            "ro": "O scurtă plimbare de la muzeu pentru o pauză în natură.",
+            "en": "A short walk from the museum for a green break."
+          }
+        },
+        {
+          "name": {
+            "de": "Gladstone Pottery Museum",
+            "hu": "Gladstone Kerámiagyár Múzeum",
+            "ro": "Muzeul Ceramicii Gladstone",
+            "en": "Gladstone Pottery Museum"
+          },
+          "coords": [
+            -2.138,
+            52.986
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus von Hanley, um diese Zeitkapsel der Töpfereigeschichte zu erreichen.",
+            "hu": "Menjen busszal Hanley-ből, hogy elérje ezt a kerámiatörténeti időkapszulát.",
+            "ro": "Luați un autobuz din Hanley pentru a ajunge la această capsulă a timpului a istoriei olăritului.",
+            "en": "Take a bus from Hanley to reach this time capsule of pottery history."
+          }
+        },
+        {
+          "name": {
+            "de": "Middleport Pottery",
+            "hu": "Middleport Kerámiagyár",
+            "ro": "Fabrica de ceramică Middleport",
+            "en": "Middleport Pottery"
+          },
+          "coords": [
+            -2.205,
+            53.025
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 9.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine weitere Busfahrt bringt Sie zu dieser Perle am Kanal.",
+            "hu": "Egy másik buszozás elviszi Önt ehhez a csatorna menti gyöngyszemhez.",
+            "ro": "O altă călătorie cu autobuzul vă va duce la această bijuterie de pe malul canalului.",
+            "en": "Another bus ride takes you to this canalside gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in Burslem",
+            "hu": "Vacsora Burslemben",
+            "ro": "Cină în Burslem",
+            "en": "Dinner in Burslem"
+          },
+          "coords": [
+            -2.203,
+            53.027
+          ],
+          "category": "gastro",
+          "arrive_at": "17:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Essen in der Nähe von Middleport, in der „Mutterstadt“ der Töpfereien.",
+            "hu": "Zárja a napot egy étkezéssel Middleport közelében, a kerámiák 'anyavárosában'.",
+            "ro": "Încheiați ziua cu o masă lângă Middleport, în „orașul-mamă” al olăritului.",
+            "en": "End the day with a meal near Middleport in the 'Mother Town' of the potteries."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln von Stoke können Sie die Stadt wie ein Einheimischer erleben. Beginnen Sie im zentral gelegenen Potteries Museum und machen Sie einen Spaziergang durch den Hanley Park. Von dort aus bringt Sie ein Bus zum historischen Gladstone Pottery Museum. Ein weiterer Bus bringt Sie nach Middleport, wo Sie am Kanal entlang schlendern können, bevor Sie den Tag mit einem Abendessen im charmanten Burslem ausklingen lassen.",
+        "hu": "Stoke tömegközlekedésével úgy élheti át a várost, mint egy helyi. Kezdjen a központi Potteries Múzeumban, majd sétáljon a Hanley Parkban. Onnan egy busz elviszi a történelmi Gladstone Kerámiagyár Múzeumba. Egy másik busz Middleportba visz, ahol sétálhat a csatorna mentén, mielőtt egy bájos burslemi vacsorával zárná a napot.",
+        "ro": "Folosind transportul public din Stoke, puteți experimenta orașul ca un localnic. Începeți la Muzeul Potteries, situat central, și faceți o plimbare prin Parcul Hanley. De acolo, un autobuz vă duce la istoricul Muzeu de Ceramică Gladstone. O altă călătorie cu autobuzul vă duce la Middleport, unde vă puteți plimba de-a lungul canalului înainte de a încheia ziua cu o cină în fermecătorul Burslem.",
+        "en": "Using Stoke's public transport lets you experience the city like a local. Start at the central Potteries Museum and take a stroll through Hanley Park. From there, a bus takes you to the historic Gladstone Pottery Museum. Another bus journey connects you to Middleport, where you can wander by the canal before finishing the day with dinner in charming Burslem."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Pubs in Burslem",
+            "tip": "Genießen Sie ein Pint und ein traditionelles Pub-Essen in der historischen „Mutterstadt“."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pubok Burslemben",
+            "tip": "Élvezzen egy korsó sört és egy hagyományos pub-ételt a történelmi 'anyavárosban'."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Puburi locale din Burslem",
+            "tip": "Bucurați-vă de o halbă și de o masă tradițională la pub în „orașul-mamă” istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local pubs in Burslem",
+            "tip": "Enjoy a pint and a traditional pub meal in the historic 'Mother Town'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blick aus dem oberen Deck des Busses",
+            "tip": "Sichern Sie sich einen Platz oben für eine einzigartige Perspektive auf die Stadtlandschaft.",
+            "emoji": "🚌"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a busz emeletéről",
+            "tip": "Foglaljon helyet az emeleten egy egyedi nézőpontért a városképre.",
+            "emoji": "🚌"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Priveliștea de la etajul autobuzului",
+            "tip": "Luați un loc la etaj pentru o perspectivă unică asupra peisajului urban.",
+            "emoji": "🚌"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the top deck of the bus",
+            "tip": "Grab a seat upstairs for a unique perspective on the cityscape.",
+            "emoji": "🚌"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gladstone Pottery Museum Shop",
+            "tip": "Bietet eine breite Palette an Geschenken und Keramik, die von lokalen Künstlern hergestellt wurden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gladstone Kerámiagyár Múzeum boltja",
+            "tip": "Széles választékot kínál ajándékokból és helyi művészek által készített kerámiákból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Muzeului de Ceramică Gladstone",
+            "tip": "Oferă o gamă largă de cadouri și ceramică realizată de artiști locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gladstone Pottery Museum Shop",
+            "tip": "Offers a wide range of gifts and ceramics made by local artists."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um unbegrenzte Fahrten zu erhalten.",
+          "Busfahrpläne finden Sie online oder an den Hauptbushaltestellen.",
+          "Laden Sie eine lokale Bus-App herunter, um die Ankunftszeiten in Echtzeit zu verfolgen.",
+          "Beachten Sie, dass die Busse abends seltener fahren."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra a korlátlan utazáshoz.",
+          "A buszmenetrendek online vagy a fő buszmegállókban érhetők el.",
+          "Töltsön le egy helyi buszalkalmazást az érkezési idők valós idejű követéséhez.",
+          "Vegye figyelembe, hogy a buszok este ritkábban közlekednek."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru călătorii nelimitate.",
+          "Orarele autobuzelor pot fi găsite online sau la stațiile principale de autobuz.",
+          "Descărcați o aplicație locală de autobuz pentru a urmări sosirile în timp real.",
+          "Fiți conștienți de faptul că serviciile de autobuz pot fi mai puțin frecvente seara."
+        ],
+        "en": [
+          "Purchase a day rider bus ticket for unlimited travel.",
+          "Bus timetables can be found online or at major bus stops.",
+          "Download a local bus app to track real-time arrivals.",
+          "Be aware that bus services may be less frequent in the evenings."
+        ]
+      }
+    }
+  }
+}

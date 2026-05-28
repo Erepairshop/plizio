@@ -1,0 +1,1160 @@
+{
+  "city_id": "ireland-birr-cities-v2",
+  "anchor": {
+    "name": "Birr",
+    "coords": [
+      53.0953,
+      -7.915
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Emmet Square",
+            "hu": "Emmet tér",
+            "ro": "Piața Emmet",
+            "en": "Emmet Square"
+          },
+          "coords": [
+            -7.9145,
+            53.095
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee in einem der örtlichen Cafés.",
+            "hu": "Indítsa a napot egy kávéval a helyi kávézók egyikében.",
+            "ro": "Începeți ziua aici cu o cafea de la una dintre cafenelele locale.",
+            "en": "Start your day here with a coffee from one of the local cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Cumberland Pillar",
+            "hu": "Cumberland-oszlop",
+            "ro": "Pilonul Cumberland",
+            "en": "Cumberland Pillar"
+          },
+          "coords": [
+            -7.914,
+            53.0955
+          ],
+          "category": "monuments",
+          "arrive_at": "09:39",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für ein schnelles Foto, um die georgianische Architektur der Stadt festzuhalten.",
+            "hu": "Remek hely egy gyors fotóhoz, megörökítve a város György-korabeli építészetét.",
+            "ro": "Un loc excelent pentru o fotografie rapidă pentru a surprinde arhitectura georgiană a orașului.",
+            "en": "A great spot for a quick photo to capture the town's Georgian architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Brendan's Church",
+            "hu": "Szent Brendan-templom",
+            "ro": "Biserica Sf. Brendan",
+            "en": "St. Brendan's Church"
+          },
+          "coords": [
+            -7.911,
+            53.096
+          ],
+          "category": "churches",
+          "arrive_at": "10:04",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Achten Sie auf die wunderschönen Buntglasfenster im Inneren.",
+            "hu": "Figyelje meg a gyönyörű ólomüveg ablakokat a templomban.",
+            "ro": "Fiți atenți la frumoasele vitralii din interior.",
+            "en": "Pay attention to the beautiful stained glass windows inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Birr Castle Demesne & Science Centre",
+            "hu": "Birr kastély és Tudományos Központ",
+            "ro": "Domeniul Castelului Birr și Centrul Științific",
+            "en": "Birr Castle Demesne & Science Centre"
+          },
+          "coords": [
+            -7.91,
+            53.093
+          ],
+          "category": "castles",
+          "arrive_at": "11:00",
+          "stay_min": 180,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein, um sowohl das Schlossgelände als auch das Große Teleskop zu erkunden.",
+            "hu": "Szánjon elég időt a kastély területének és a Nagy Távcsőnek a felfedezésére.",
+            "ro": "Alocați suficient timp pentru a explora atât terenul castelului, cât și Marele Telescop.",
+            "en": "Allow plenty of time to explore both the castle grounds and the Great Telescope."
+          }
+        },
+        {
+          "name": {
+            "de": "Fluss Camcor Spaziergang",
+            "hu": "Séta a Camcor folyó mentén",
+            "ro": "Plimbare pe râul Camcor",
+            "en": "River Camcor Walk"
+          },
+          "coords": [
+            -7.92,
+            53.09
+          ],
+          "category": "natural features",
+          "arrive_at": "14:25",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Ein friedlicher Weg, um dem Trubel zu entkommen und die lokale Tierwelt zu beobachten.",
+            "hu": "Békés útvonal a nyüzsgés elől, és a helyi vadvilág megfigyelésére.",
+            "ro": "O modalitate pașnică de a scăpa de aglomerație și de a observa fauna locală.",
+            "en": "A peaceful way to escape the hustle and spot local wildlife."
+          }
+        },
+        {
+          "name": {
+            "de": "Birr Library",
+            "hu": "Birr Könyvtár",
+            "ro": "Biblioteca Birr",
+            "en": "Birr Library"
+          },
+          "coords": [
+            -7.915,
+            53.0945
+          ],
+          "category": "theatres",
+          "arrive_at": "16:00",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein schöner Abschluss, um in die lokale Kultur einzutauchen oder einfach nur auszuruhen.",
+            "hu": "Szép befejezés, hogy elmerüljön a helyi kultúrában, vagy egyszerűen csak pihenjen.",
+            "ro": "Un final plăcut pentru a vă cufunda în cultura locală sau pur și simplu pentru a vă odihni.",
+            "en": "A lovely end to immerse in local culture or just to rest."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im georgianischen Herzen von Birr am Emmet Square. Erkunden Sie vormittags die architektonischen Juwelen der Stadt, einschließlich der St. Brendan's Church. Der Nachmittag ist ganz dem weltberühmten Birr Castle gewidmet, wo Wissenschaft und Geschichte aufeinandertreffen. Beenden Sie Ihren Tag mit einem ruhigen Spaziergang am Fluss Camcor und genießen Sie die friedliche Atmosphäre der irischen Landschaft.",
+        "hu": "Kezdje a napot Birr György-korabeli szívében, az Emmet téren. Délelőtt fedezze fel a város építészeti gyöngyszemeit, köztük a Szent Brendan-templomot. A délutánt a világhírű Birr kastélynak szenteljük, ahol a tudomány és a történelem találkozik. Zárja a napot egy békés sétával a Camcor folyó mentén, élvezve az ír vidék nyugodt hangulatát.",
+        "ro": "Începeți ziua în inima georgiană a orașului Birr, în Piața Emmet. Explorați bijuteriile arhitecturale ale orașului în timpul dimineții, inclusiv Biserica Sf. Brendan. După-amiaza este dedicată faimosului Castel Birr, unde știința și istoria se întâlnesc. Încheiați ziua cu o plimbare liniștită de-a lungul râului Camcor, bucurându-vă de atmosfera pașnică a peisajului irlandez.",
+        "en": "Start your day in the Georgian heart of Birr at Emmet Square. Explore the town's architectural gems during the morning, including St. Brendan's Church. The afternoon is dedicated to the world-renowned Birr Castle, where science and history converge. End your day with a tranquil walk along the River Camcor, soaking in the peaceful atmosphere of the Irish midlands."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Irish Stew",
+            "tip": "Ein herzhafter Eintopf, perfekt nach einem langen Spaziergang. Suchen Sie nach Pubs, die 'Traditional Irish Stew' anbieten."
+          },
+          {
+            "name": "The Thatch",
+            "tip": "Ein charmantes, traditionelles Pub, das für seine gemütliche Atmosphäre und gutes Essen bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ír pörkölt (Irish Stew)",
+            "tip": "Kiadós egytálétel, tökéletes egy hosszú séta után. Keresse azokat a pubokat, amelyek „Hagyományos ír pörköltet” kínálnak."
+          },
+          {
+            "name": "The Thatch",
+            "tip": "Bájos, hagyományos pub, amely hangulatos légköréről és jó ételeiről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tocană irlandeză",
+            "tip": "O tocană consistentă, perfectă după o plimbare lungă. Căutați pub-uri care oferă 'Tocană irlandeză tradițională'."
+          },
+          {
+            "name": "The Thatch",
+            "tip": "Un pub tradițional fermecător, cunoscut pentru atmosfera sa primitoare și mâncarea bună."
+          }
+        ],
+        "en": [
+          {
+            "name": "Irish Stew",
+            "tip": "A hearty stew, perfect after a long walk. Look for pubs offering 'Traditional Irish Stew'."
+          },
+          {
+            "name": "The Thatch",
+            "tip": "A charming, traditional pub known for its cozy atmosphere and good food."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten von Birr Castle",
+            "tip": "Finden Sie eine ruhige Bank inmitten der exotischen Pflanzen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Flussufer des Camcor",
+            "tip": "Ideal, um dem Trubel zu entkommen und die Natur zu genießen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Birr kastély kertjei",
+            "tip": "Találjon egy csendes padot az egzotikus növények között.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Camcor folyópart",
+            "tip": "Ideális a nyüzsgés elől való meneküléshez és a természet élvezetéhez.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Castelului Birr",
+            "tip": "Găsiți o bancă liniștită printre plantele exotice.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul râului Camcor",
+            "tip": "Ideal pentru a scăpa de agitație și a vă bucura de natură.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Birr Castle Gardens",
+            "tip": "Find a quiet bench amidst the exotic plants.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "River Camcor Banks",
+            "tip": "Ideal for escaping the bustle and enjoying nature.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerksläden",
+            "tip": "Suchen Sie nach einzigartigen Souvenirs, die von lokalen Handwerkern hergestellt wurden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keressen egyedi, helyi kézművesek által készített ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Căutați suveniruri unice realizate de artizani locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Craft Shops",
+            "tip": "Look for unique souvenirs made by local artisans."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Prüfen Sie die Öffnungszeiten von Birr Castle im Voraus, da diese saisonal variieren können."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog sétálni.",
+          "Előre ellenőrizze a Birr kastély nyitvatartási idejét, mivel az szezonálisan változhat."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Verificați în avans programul de funcționare al Castelului Birr, deoarece acesta poate varia în funcție de sezon."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Check Birr Castle's opening times in advance as they can vary seasonally."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Emmet Square",
+            "hu": "Emmet tér",
+            "ro": "Piața Emmet",
+            "en": "Emmet Square"
+          },
+          "coords": [
+            -7.9145,
+            53.095
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein idealer Ausgangspunkt mit mehreren Fahrradständern in der Nähe.",
+            "hu": "Ideális kiindulópont, a közelben több kerékpártárolóval.",
+            "ro": "Un punct de plecare ideal, cu mai multe suporturi pentru biciclete în apropiere.",
+            "en": "An ideal starting point with several bike racks nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Brendan's Church",
+            "hu": "Szent Brendan-templom",
+            "ro": "Biserica Sf. Brendan",
+            "en": "St. Brendan's Church"
+          },
+          "coords": [
+            -7.911,
+            53.096
+          ],
+          "category": "churches",
+          "arrive_at": "09:35",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie die ruhige Atmosphäre im Inneren genießen.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt élvezné a belső csendes légkört.",
+            "ro": "Legați-vă bicicleta în siguranță înainte de a vă bucura de atmosfera liniștită din interior.",
+            "en": "Lock your bike securely before enjoying the tranquil atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Birr Castle Demesne & Das Große Teleskop",
+            "hu": "Birr kastély és a Nagy Távcső",
+            "ro": "Domeniul Castelului Birr și Marele Telescop",
+            "en": "Birr Castle Demesne & The Great Telescope"
+          },
+          "coords": [
+            -7.91,
+            53.093
+          ],
+          "category": "castles",
+          "arrive_at": "10:11",
+          "stay_min": 150,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Auf dem Gelände ist Radfahren nicht erlaubt, aber es gibt Abstellplätze am Eingang.",
+            "hu": "A kastély területén nem szabad kerékpározni, de a bejáratnál vannak tárolók.",
+            "ro": "Ciclismul nu este permis pe domeniu, dar există locuri de parcare la intrare.",
+            "en": "Cycling is not permitted on the grounds, but there are parking facilities at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Fluss Camcor Radweg",
+            "hu": "Camcor folyó kerékpárút",
+            "ro": "Pista de biciclete de pe râul Camcor",
+            "en": "River Camcor Cycle Path"
+          },
+          "coords": [
+            -7.925,
+            53.088
+          ],
+          "category": "natural features",
+          "arrive_at": "13:00",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie eine malerische Fahrt entlang des Flusses, abseits des Verkehrs.",
+            "hu": "Élvezze a festői utat a folyó mentén, távol a forgalomtól.",
+            "ro": "Bucurați-vă de o plimbare pitorească de-a lungul râului, departe de trafic.",
+            "en": "Enjoy a scenic ride along the river, away from traffic."
+          }
+        },
+        {
+          "name": {
+            "de": "Birr Library & Emmet Square",
+            "hu": "Birr Könyvtár és Emmet tér",
+            "ro": "Biblioteca Birr și Piața Emmet",
+            "en": "Birr Library & Emmet Square"
+          },
+          "coords": [
+            -7.915,
+            53.0945
+          ],
+          "category": "theatres",
+          "arrive_at": "14:18",
+          "stay_min": 50,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Kehren Sie ins Zentrum zurück, um das georgianische Ambiente aufzusaugen, bevor Sie abreisen.",
+            "hu": "Térjen vissza a központba, hogy indulás előtt magába szívja a György-korabeli hangulatot.",
+            "ro": "Întoarceți-vă în centru pentru a absorbi atmosfera georgiană înainte de a pleca.",
+            "en": "Return to the center to soak up the Georgian ambiance before departing."
+          }
+        },
+        {
+          "name": {
+            "de": "Abschiedsgetränk",
+            "hu": "Búcsúital",
+            "ro": "Băutură de rămas bun",
+            "en": "Farewell Drink"
+          },
+          "coords": [
+            -7.914,
+            53.0952
+          ],
+          "category": "gastro",
+          "arrive_at": "15:28",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich ein Pint in einem traditionellen Pub, um Ihre Radtour abzuschließen.",
+            "hu": "Jutalmazza meg magát egy korsó sörrel egy hagyományos pubban a kerékpártúra lezárásaként.",
+            "ro": "Răsfățați-vă cu o halbă la un pub tradițional pentru a încheia turul cu bicicleta.",
+            "en": "Treat yourself to a pint at a traditional pub to cap off your bike tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Springen Sie auf Ihr Fahrrad und beginnen Sie Ihre Tour am Emmet Square. Radeln Sie am Morgen durch die georgianischen Straßen zu historischen Stätten. Der Großteil des Tages ist für das prächtige Birr Castle und seine Gärten reserviert, ein Muss für jeden Besucher. Am Nachmittag folgt eine entspannte Fahrt entlang des Flusses Camcor. Beenden Sie Ihr Abenteuer mit einem wohlverdienten Getränk in einem der gemütlichen Pubs von Birr.",
+        "hu": "Pattanjon kerékpárra, és kezdje a túrát az Emmet téren. Tekerjen végig reggel a György-korabeli utcákon a történelmi helyszínekhez. A nap nagy részét a csodálatos Birr kastély és kertjei foglalják el, ami minden látogató számára kötelező. Délután egy pihentető kerékpározás következik a Camcor folyó mentén. Zárja a kalandot egy jól megérdemelt itallal Birr egyik hangulatos pubjában.",
+        "ro": "Urcați-vă pe bicicletă și începeți turul din Piața Emmet. Pedalați pe străzile georgiene spre situri istorice dimineața. Cea mai mare parte a zilei este rezervată magnificului Castel Birr și grădinilor sale, o vizită obligatorie pentru oricine. După-amiaza urmează o plimbare relaxantă de-a lungul râului Camcor. Încheiați-vă aventura cu o băutură binemeritată la unul dintre pub-urile primitoare din Birr.",
+        "en": "Hop on your bike and start your tour at Emmet Square. Cycle through the Georgian streets to historic sites in the morning. The bulk of the day is reserved for the magnificent Birr Castle and its gardens, a must-see for any visitor. The afternoon features a relaxing ride along the River Camcor. Finish your adventure with a well-deserved drink at one of Birr's cozy pubs."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Scones mit Marmelade und Sahne",
+            "tip": "Ein klassischer irischer Genuss, perfekt für eine Pause am Nachmittag."
+          },
+          {
+            "name": "Kelly's Bar",
+            "tip": "Ein beliebter Ort bei Einheimischen, ideal für ein erfrischendes Getränk nach einer Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Scone lekvárral és tejszínnel",
+            "tip": "Klasszikus ír finomság, tökéletes egy délutáni szünetre."
+          },
+          {
+            "name": "Kelly's Bar",
+            "tip": "A helyiek körében népszerű hely, ideális egy frissítő italhoz egy kerékpártúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Scones cu gem și frișcă",
+            "tip": "Un deliciu irlandez clasic, perfect pentru o pauză de după-amiază."
+          },
+          {
+            "name": "Kelly's Bar",
+            "tip": "Un loc popular printre localnici, excelent pentru o băutură răcoritoare după o plimbare cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Scones with jam and cream",
+            "tip": "A classic Irish treat, perfect for an afternoon break."
+          },
+          {
+            "name": "Kelly's Bar",
+            "tip": "A popular spot with locals, great for a refreshing drink after a cycle."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Formale Gärten von Birr Castle",
+            "tip": "Die symmetrischen Beete und stillen Wege laden zur Besinnung ein.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Radweg am Fluss Camcor",
+            "tip": "Das Geräusch des fließenden Wassers ist unglaublich beruhigend.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Birr kastély formális kertjei",
+            "tip": "A szimmetrikus ágyások és csendes ösvények elmélkedésre hívnak.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Camcor folyó menti kerékpárút",
+            "tip": "A folyó víz csobogása hihetetlenül megnyugtató.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Formale ale Castelului Birr",
+            "tip": "Paturile simetrice și potecile liniștite invită la contemplare.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Pista de biciclete de pe râul Camcor",
+            "tip": "Sunetul apei curgătoare este incredibil de calmant.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Birr Castle Formal Gardens",
+            "tip": "The symmetrical beds and quiet paths are inviting for contemplation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "River Camcor Cycle Path",
+            "tip": "The sound of the flowing water is incredibly calming.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Birr Farmer's Market",
+            "tip": "Wenn Sie an einem Freitag hier sind, finden Sie lokale Produkte und Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Birr termelői piac",
+            "tip": "Ha pénteken jár itt, helyi termékeket és kézműves árukat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Fermierilor din Birr",
+            "tip": "Dacă sunteți aici într-o vineri, veți găsi produse locale și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Birr Farmer's Market",
+            "tip": "If you're here on a Friday, you'll find local produce and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie bei Bedarf ein Fahrrad in der Stadt.",
+          "Nehmen Sie eine Regenjacke mit, das irische Wetter ist unberechenbar.",
+          "Verwenden Sie eine Fahrrad-Navigations-App, um die besten Routen zu finden."
+        ],
+        "hu": [
+          "Szükség esetén béreljen kerékpárt a városban.",
+          "Vigyen magával esőkabátot, az ír időjárás kiszámíthatatlan.",
+          "Használjon kerékpáros navigációs alkalmazást a legjobb útvonalak megtalálásához."
+        ],
+        "ro": [
+          "Închiriați o bicicletă din oraș dacă este necesar.",
+          "Luați o geacă de ploaie, vremea irlandeză este imprevizibilă.",
+          "Utilizați o aplicație de navigație pentru biciclete pentru a găsi cele mai bune rute."
+        ],
+        "en": [
+          "Rent a bike in town if needed.",
+          "Bring a rain jacket, Irish weather is unpredictable.",
+          "Use a cycling navigation app to find the best routes."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 10.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Zentrum: Emmet Square",
+            "hu": "Központi klaszter: Emmet tér",
+            "ro": "Cluster Centru: Piața Emmet",
+            "en": "Town Centre Cluster: Emmet Square"
+          },
+          "coords": [
+            -7.9145,
+            53.095
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Platzes und erkunden Sie das georgianische Zentrum zu Fuß.",
+            "hu": "Parkoljon a tér közelében, és fedezze fel gyalog a György-korabeli központot.",
+            "ro": "Parcați lângă piață și explorați centrul georgian pe jos.",
+            "en": "Park near the square and explore the Georgian center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Zentrum: St. Brendan's Church",
+            "hu": "Központi klaszter: Szent Brendan-templom",
+            "ro": "Cluster Centru: Biserica Sf. Brendan",
+            "en": "Town Centre Cluster: St. Brendan's Church"
+          },
+          "coords": [
+            -7.911,
+            53.096
+          ],
+          "category": "churches",
+          "arrive_at": "09:35",
+          "stay_min": 35,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Emmet Square, genießen Sie die Ruhe.",
+            "hu": "Rövid séta az Emmet térről, élvezze a csendet.",
+            "ro": "O scurtă plimbare de la Piața Emmet, bucurați-vă de liniște.",
+            "en": "A short walk from Emmet Square, enjoy the tranquility."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Schloss: Birr Castle Demesne",
+            "hu": "Kastély klaszter: Birr kastély",
+            "ro": "Cluster Castel: Domeniul Castelului Birr",
+            "en": "Castle Cluster: Birr Castle Demesne"
+          },
+          "coords": [
+            -7.91,
+            53.093
+          ],
+          "category": "castles",
+          "arrive_at": "10:20",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den großen Parkplatz und planen Sie mehrere Stunden ein.",
+            "hu": "Használja a tágas parkolót, és szánjon rá több órát.",
+            "ro": "Folosiți parcarea mare și alocați câteva ore pentru vizită.",
+            "en": "Use the large car park and plan for several hours here."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Schloss: Science Centre & Großes Teleskop",
+            "hu": "Kastély klaszter: Tudományos Központ és Nagy Távcső",
+            "ro": "Cluster Castel: Centrul Științific și Marele Telescop",
+            "en": "Castle Cluster: Science Centre & Great Telescope"
+          },
+          "coords": [
+            -7.909,
+            53.0925
+          ],
+          "category": "museums",
+          "arrive_at": "12:25",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein faszinierender Teil des Schlossbesuchs, besonders für Technikbegeisterte.",
+            "hu": "A kastélylátogatás lenyűgöző része, különösen a technika iránt érdeklődőknek.",
+            "ro": "O parte fascinantă a vizitei la castel, în special pentru pasionații de tehnologie.",
+            "en": "A fascinating part of the castle visit, especially for technology enthusiasts."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Natur: Clonoghil Farm (in der Nähe)",
+            "hu": "Természeti klaszter: Clonoghil farm (közelben)",
+            "ro": "Cluster Natură: Ferma Clonoghil (în apropiere)",
+            "en": "Nature Cluster: Clonoghil Farm (nearby)"
+          },
+          "coords": [
+            -7.98,
+            53.11
+          ],
+          "category": "agriculture",
+          "arrive_at": "14:40",
+          "stay_min": 110,
+          "hop_mode": "car",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 8.6,
+          "tip_5lang": {
+            "de": "Erleben Sie das ländliche Irland mit einem kurzen Ausflug zu einer nahegelegenen historischen Farm.",
+            "hu": "Tapasztalja meg a vidéki Írországot egy rövid kirándulással egy közeli történelmi farmra.",
+            "ro": "Experimentați Irlanda rurală cu o scurtă excursie la o fermă istorică din apropiere.",
+            "en": "Experience rural Ireland with a short trip to a nearby historic farm."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie Birr flexibel erkunden. Beginnen Sie im Stadtzentrum und spazieren Sie durch das georgianische Viertel. Fahren Sie dann zum Hauptanziehungspunkt, Birr Castle, wo Sie Stunden in Geschichte und Wissenschaft verbringen können. Am Nachmittag ermöglicht Ihnen ein kurzer Ausflug aufs Land, die idyllische Umgebung von Birr zu entdecken und einen Einblick in das ländliche Leben zu bekommen. So kombinieren Sie mühelos Kultur mit Natur.",
+        "hu": "Az autó rugalmasságot biztosít Birr felfedezéséhez. Kezdjen a városközpontban, sétáljon a György-korabeli negyedben. Ezután vezessen a fő attrakcióhoz, a Birr kastélyhoz, ahol órákat tölthet a történelem és a tudomány világában. Délután egy rövid vidéki kirándulás lehetővé teszi, hogy felfedezze Birr idilli környezetét és bepillantást nyerjen a vidéki életbe. Így könnyedén ötvözheti a kultúrát a természettel.",
+        "ro": "Mașina vă oferă flexibilitate pentru a explora Birr. Începeți în centrul orașului, plimbându-vă prin cartierul georgian. Apoi, conduceți la atracția principală, Castelul Birr, unde puteți petrece ore întregi cufundat în istorie și știință. După-amiaza, o scurtă călătorie la țară vă permite să descoperiți împrejurimile idilice ale orașului Birr și să aruncați o privire asupra vieții rurale. Combinați fără efort cultura cu natura.",
+        "en": "The car offers flexibility to explore Birr. Start in the town centre, walking through the Georgian quarter. Then, drive to the main attraction, Birr Castle, where you can spend hours immersed in history and science. In the afternoon, a short trip into the countryside allows you to discover Birr's idyllic surroundings and get a glimpse of rural life. Effortlessly combine culture with nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Carvery Lunch",
+            "tip": "In vielen Pubs außerhalb des Zentrums finden Sie ein traditionelles Mittagsbuffet mit gebratenem Fleisch."
+          },
+          {
+            "name": "The Stables Restaurant",
+            "tip": "Befindet sich auf dem Gelände von Birr Castle und bietet eine bequeme und hochwertige Mahlzeit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Carvery ebéd",
+            "tip": "Sok központon kívüli pubban talál hagyományos svédasztalos ebédet sült húsokkal."
+          },
+          {
+            "name": "The Stables Restaurant",
+            "tip": "A Birr kastély területén található, kényelmes és minőségi étkezést kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Prânz Carvery",
+            "tip": "Găsiți un prânz tradițional tip bufet cu friptură în multe pub-uri din afara centrului."
+          },
+          {
+            "name": "The Stables Restaurant",
+            "tip": "Situat pe domeniul Castelului Birr, oferă o masă convenabilă și de calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Carvery Lunch",
+            "tip": "Find a traditional roast meat buffet lunch in many pubs outside the centre."
+          },
+          {
+            "name": "The Stables Restaurant",
+            "tip": "Located on the grounds of Birr Castle, offering a convenient and quality meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Fluss",
+            "tip": "Nach dem Schlossbesuch bietet ein Spaziergang entlang des Flusses einen ruhigen Kontrast.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtspunkt auf dem Land",
+            "tip": "Halten Sie während Ihrer Fahrt an, um die Aussicht auf die Midlands zu genießen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Folyóparti séta",
+            "tip": "A kastélylátogatás után egy séta a folyó mentén csendes kontrasztot kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vidéki kilátóhely",
+            "tip": "Álljon meg útközben, hogy élvezze a Midlandsre nyíló kilátást.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului",
+            "tip": "După vizita la castel, o plimbare de-a lungul râului oferă un contrast liniștit.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Punct de belvedere rural",
+            "tip": "Opriți-vă în timpul călătoriei pentru a vă bucura de priveliștile asupra Midlands.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "River Walk",
+            "tip": "After the castle visit, a walk along the river offers a quiet contrast.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Countryside Viewpoint",
+            "tip": "Pull over during your drive to enjoy the views of the Midlands.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Suchen Sie auf dem Land nach Hofläden, die frische Produkte und lokale Spezialitäten verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Farmboltok",
+            "tip": "Keressen vidéken farmboltokat, amelyek friss termékeket és helyi különlegességeket árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de fermă",
+            "tip": "Căutați magazine de fermă la țară care vând produse proaspete și specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm Shops",
+            "tip": "Look for farm shops in the countryside selling fresh produce and local specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "In Birr gibt es mehrere öffentliche Parkplätze, aber die Gebühren können variieren.",
+          "Achten Sie auf engen Landstraßen auf landwirtschaftliche Fahrzeuge.",
+          "Tanken Sie, bevor Sie die Stadt verlassen, Tankstellen können auf dem Land selten sein."
+        ],
+        "hu": [
+          "Birrben több nyilvános parkoló is található, de a díjak változhatnak.",
+          "A keskeny vidéki utakon vigyázzon a mezőgazdasági járművekre.",
+          "Tankoljon, mielőtt elhagyja a várost, a benzinkutak ritkák lehetnek vidéken."
+        ],
+        "ro": [
+          "Există mai multe parcări publice în Birr, dar taxele pot varia.",
+          "Fiți atenți la vehiculele agricole pe drumurile rurale înguste.",
+          "Alimentați înainte de a părăsi orașul, benzinăriile pot fi rare la țară."
+        ],
+        "en": [
+          "There are several public car parks in Birr, but fees can vary.",
+          "Be mindful of farm vehicles on narrow country roads.",
+          "Fill up with fuel before leaving town, petrol stations can be sparse in the countryside."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Zentrum: Emmet Square",
+            "hu": "Központi klaszter: Emmet tér",
+            "ro": "Cluster Centru: Piața Emmet",
+            "en": "Town Centre Cluster: Emmet Square"
+          },
+          "coords": [
+            -7.9145,
+            53.095
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Der zentrale Busknotenpunkt der Stadt liegt in der Nähe.",
+            "hu": "A város központi buszcsomópontja a közelben található.",
+            "ro": "Nodul central de autobuze al orașului este în apropiere.",
+            "en": "The town's central bus hub is located nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Zentrum: Cumberland Pillar & Library",
+            "hu": "Központi klaszter: Cumberland-oszlop és Könyvtár",
+            "ro": "Cluster Centru: Pilonul Cumberland și Biblioteca",
+            "en": "Town Centre Cluster: Cumberland Pillar & Library"
+          },
+          "coords": [
+            -7.914,
+            53.0955
+          ],
+          "category": "monuments",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Diese Sehenswürdigkeiten liegen nur wenige Schritte voneinander entfernt.",
+            "hu": "Ezek a látnivalók csak pár lépésre vannak egymástól.",
+            "ro": "Aceste atracții sunt la doar câțiva pași una de cealaltă.",
+            "en": "These sights are just a few steps from each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Schloss: Bushaltestelle Birr Castle",
+            "hu": "Kastély klaszter: Buszmegálló a Birr kastélynál",
+            "ro": "Cluster Castel: Stația de autobuz Castelul Birr",
+            "en": "Castle Cluster: Birr Castle Bus Stop"
+          },
+          "coords": [
+            -7.9105,
+            53.0935
+          ],
+          "category": "castles",
+          "arrive_at": "10:45",
+          "stay_min": 10,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus vom Zentrum. Steigen Sie hier aus und gehen Sie zum Eingang.",
+            "hu": "Vegyen egy helyi buszt a központból. Szálljon le itt, és sétáljon a bejárathoz.",
+            "ro": "Luați un autobuz local din centru. Coborâți aici și mergeți spre intrare.",
+            "en": "Take a local bus from the center. Get off here and walk to the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Schloss: Birr Castle & Science Centre",
+            "hu": "Kastély klaszter: Birr kastély és Tudományos Központ",
+            "ro": "Cluster Castel: Castelul Birr și Centrul Științific",
+            "en": "Castle Cluster: Birr Castle & Science Centre"
+          },
+          "coords": [
+            -7.91,
+            53.093
+          ],
+          "category": "castles",
+          "arrive_at": "11:00",
+          "stay_min": 210,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Verbringen Sie den Großteil Ihres Tages hier, bevor Sie zurück ins Zentrum gehen.",
+            "hu": "Töltse itt a nap nagy részét, mielőtt visszasétálna a központba.",
+            "ro": "Petreceți cea mai mare parte a zilei aici înainte de a vă întoarce în centru.",
+            "en": "Spend the bulk of your day here before walking back towards the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Natur: Fluss Camcor & St. Brendan's",
+            "hu": "Természeti klaszter: Camcor folyó és Szent Brendan",
+            "ro": "Cluster Natură: Râul Camcor și Sf. Brendan",
+            "en": "Nature Cluster: River Camcor & St. Brendan's"
+          },
+          "coords": [
+            -7.916,
+            53.091
+          ],
+          "category": "natural features",
+          "arrive_at": "15:20",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein langer Spaziergang zurück durch die Stadt führt Sie am Fluss und der Kirche vorbei.",
+            "hu": "Egy hosszú séta vissza a városon keresztül elviszi a folyó és a templom mellett.",
+            "ro": "O plimbare lungă înapoi prin oraș vă va duce pe lângă râu și biserică.",
+            "en": "A long walk back through town will take you past the river and church."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die lokalen Busse, um Birr zu erleben. Beginnen Sie zu Fuß im Stadtzentrum, um die georgianische Architektur zu bewundern. Eine kurze Busfahrt bringt Sie dann zum prächtigen Birr Castle, dem Höhepunkt des Tages. Nach Stunden der Erkundung können Sie einen ausgedehnten Spaziergang zurück ins Zentrum genießen, der Sie an weiteren malerischen Orten wie dem Fluss Camcor vorbeiführt. So erleben Sie sowohl die Hauptattraktion als auch den lokalen Charme.",
+        "hu": "Használja a helyi buszokat Birr felfedezéséhez. Kezdje gyalog a városközpontban, hogy megcsodálja a György-korabeli építészetet. Egy rövid buszozás elviszi a csodálatos Birr kastélyhoz, a nap fénypontjához. Több órás felfedezés után egy hosszabb sétával térhet vissza a központba, elhaladva olyan festői helyek mellett, mint a Camcor folyó. Így megtapasztalhatja a fő látnivalót és a helyi bájt is.",
+        "ro": "Folosiți autobuzele locale pentru a experimenta Birr. Începeți pe jos în centrul orașului pentru a admira arhitectura georgiană. O scurtă călătorie cu autobuzul vă va duce apoi la magnificul Castel Birr, punctul culminant al zilei. După ore de explorare, bucurați-vă de o plimbare extinsă înapoi în centru, trecând pe lângă alte locuri pitorești, cum ar fi râul Camcor. Experimentați atât atracția principală, cât și farmecul local.",
+        "en": "Use local buses to experience Birr. Start on foot in the town centre admiring the Georgian architecture. A short bus ride then takes you to the magnificent Birr Castle, the day's highlight. After hours of exploration, enjoy an extended walk back to the centre, passing other scenic spots like the River Camcor. Experience both the main attraction and the local charm."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Ein schneller und leckerer Klassiker, den Sie in vielen lokalen Imbissen finden."
+          },
+          {
+            "name": "Spinners",
+            "tip": "Ein Restaurant, das für seine moderne irische Küche bekannt ist und sich gut für ein Abendessen eignet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Gyors és finom klasszikus, amelyet sok helyi büfében megtalál."
+          },
+          {
+            "name": "Spinners",
+            "tip": "Modern ír konyhájáról ismert étterem, amely vacsorára kiváló."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Un clasic rapid și delicios pe care îl veți găsi la multe localuri locale."
+          },
+          {
+            "name": "Spinners",
+            "tip": "Un restaurant cunoscut pentru bucătăria sa irlandeză modernă, potrivit pentru o cină."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish and Chips",
+            "tip": "A quick and delicious classic you'll find at many local takeaways."
+          },
+          {
+            "name": "Spinners",
+            "tip": "A restaurant known for its modern Irish cuisine, great for an evening meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obere Etage eines Doppeldeckerbusses",
+            "tip": "Genießen Sie die Aussicht auf die Stadt aus einer anderen Perspektive.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Spaziergang in der Abenddämmerung",
+            "tip": "Wenn die Menschenmassen nach Hause gehen, wird die Stadt friedlich.",
+            "emoji": "🌆"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Emeletes busz felső szintje",
+            "tip": "Élvezze a városra nyíló kilátást egy másik szemszögből.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Séta szürkületkor",
+            "tip": "Amikor a tömeg hazamegy, a város békéssé válik.",
+            "emoji": "🌆"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etajul superior al unui autobuz supraetajat",
+            "tip": "Bucurați-vă de priveliștile orașului dintr-o perspectivă diferită.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Plimbare la amurg",
+            "tip": "Pe măsură ce mulțimile se retrag, orașul devine pașnic.",
+            "emoji": "🌆"
+          }
+        ],
+        "en": [
+          {
+            "name": "Top deck of a double-decker bus",
+            "tip": "Enjoy views of the town from a different perspective.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "A walk at dusk",
+            "tip": "As the crowds head home, the town becomes peaceful.",
+            "emoji": "🌆"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschenkeladen von Birr Castle",
+            "tip": "Hier finden Sie hochwertige Souvenirs, Bücher und Geschenke im Zusammenhang mit dem Anwesen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Birr kastély ajándékboltja",
+            "tip": "Itt minőségi ajándéktárgyakat, könyveket és az uradalomhoz kapcsolódó ajándékokat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de cadouri al Castelului Birr",
+            "tip": "Găsiți suveniruri, cărți și cadouri de calitate legate de domeniu aici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Birr Castle Gift Shop",
+            "tip": "Find quality souvenirs, books, and gifts related to the estate here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere für die letzte Rückfahrt.",
+          "Haben Sie etwas Kleingeld für den Busfahrpreis bereit."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha több utazást tervez.",
+          "Előre ellenőrizze a buszmenetrendet, különösen az utolsó visszautat.",
+          "Legyen Önnél aprópénz a buszjegyre."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă plănuiți mai multe călătorii.",
+          "Verificați programul autobuzului în avans, în special pentru ultima călătorie de întoarcere.",
+          "Aveți la îndemână mărunțiș pentru biletul de autobuz."
+        ],
+        "en": [
+          "Buy a day pass for the bus if you plan on making multiple trips.",
+          "Check the bus schedule in advance, especially for the last return journey.",
+          "Have some small change ready for the bus fare."
+        ]
+      }
+    }
+  }
+}

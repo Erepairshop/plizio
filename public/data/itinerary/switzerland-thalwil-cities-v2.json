@@ -1,0 +1,1494 @@
+{
+  "city_id": "switzerland-thalwil-cities-v2",
+  "anchor": {
+    "name": "Thalwil",
+    "coords": [
+      8.566,
+      47.295
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ludretikon (Alter Dorfkern)",
+            "hu": "Ludretikon (Régi falu központja)",
+            "ro": "Ludretikon (Vechiul centru al satului)",
+            "en": "Ludretikon (Old Village Core)"
+          },
+          "coords": [
+            8.564,
+            47.293
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier mit einem Kaffee in einem der lokalen Cafés.",
+            "hu": "Kezdje a napot egy kávéval az egyik helyi kávézóban.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele locale.",
+            "en": "Start your day with a coffee at one of the local cafés here."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfisterhaus",
+            "hu": "Pfisterhaus",
+            "ro": "Casa Pfister",
+            "en": "Pfister House"
+          },
+          "coords": [
+            8.563,
+            47.294
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:41",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beachten Sie die aufwändigen Holzschnitzereien an der Fassade.",
+            "hu": "Figyelje meg a homlokzat bonyolult fafaragásait.",
+            "ro": "Observați sculpturile elaborate în lemn de pe fațadă.",
+            "en": "Note the intricate wood carvings on the façade."
+          }
+        },
+        {
+          "name": {
+            "de": "Reformierte Kirche Thalwil",
+            "hu": "Thalwili református templom",
+            "ro": "Biserica Reformată din Thalwil",
+            "en": "Reformed Church of Thalwil"
+          },
+          "coords": [
+            8.565,
+            47.296
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der schlichte Innenraum ist ein Ort der Ruhe und Besinnung.",
+            "hu": "Az egyszerű belső tér a béke és a szemlélődés helye.",
+            "ro": "Interiorul simplu este un loc de pace și contemplare.",
+            "en": "The simple interior is a place of peace and contemplation."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagspause am See",
+            "hu": "Ebédszünet a tónál",
+            "ro": "Pauză de prânz la lac",
+            "en": "Lunch Break by the Lake"
+          },
+          "coords": [
+            8.569,
+            47.295
+          ],
+          "category": "gastro",
+          "arrive_at": "11:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Wählen Sie ein Restaurant mit Seeblick für eine entspannte Mahlzeit.",
+            "hu": "Válasszon egy tóparti éttermet egy pihentető ebédhez.",
+            "ro": "Alegeți un restaurant cu vedere la lac pentru o masă relaxantă.",
+            "en": "Choose a restaurant with a lake view for a relaxing meal."
+          }
+        },
+        {
+          "name": {
+            "de": "Schiffsstation Thalwil",
+            "hu": "Thalwili hajóállomás",
+            "ro": "Stația de vaporetto Thalwil",
+            "en": "Thalwil Boat Station"
+          },
+          "coords": [
+            8.572,
+            47.294
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beobachten Sie die ankommenden und abfahrenden Zürichsee-Schiffe.",
+            "hu": "Nézze a Zürichi-tavon érkező és induló hajókat.",
+            "ro": "Urmăriți vapoarele de pe Lacul Zurich sosind și plecând.",
+            "en": "Watch the Lake Zurich boats arriving and departing."
+          }
+        },
+        {
+          "name": {
+            "de": "Zürichsee-Uferweg",
+            "hu": "Zürichi-tó parti sétánya",
+            "ro": "Promenada de pe malul lacului Zurich",
+            "en": "Lake Zurich Shore Path"
+          },
+          "coords": [
+            8.574,
+            47.292
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für einen langen Spaziergang direkt am Wasser.",
+            "hu": "Ideális hely egy hosszú sétához közvetlenül a vízparton.",
+            "ro": "Un loc ideal pentru o plimbare lungă chiar pe malul apei.",
+            "en": "An ideal spot for a long stroll right by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Thalwiler Platte",
+            "hu": "Thalwiler Platte kilátó",
+            "ro": "Punctul de belvedere Thalwiler Platte",
+            "en": "Thalwiler Platte Viewpoint"
+          },
+          "coords": [
+            8.575,
+            47.289
+          ],
+          "category": "natural features",
+          "arrive_at": "14:41",
+          "stay_min": 34,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Geniessen Sie die herrliche Aussicht auf den See und die Alpen.",
+            "hu": "Élvezze a tóra és az Alpokra nyíló csodálatos kilátást.",
+            "ro": "Bucurați-vă de priveliștea magnifică a lacului și a Alpilor.",
+            "en": "Enjoy the magnificent view of the lake and the Alps."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Spaziergang durch Thalwil ist eine Reise von seinem historischen Herzen zu den ruhigen Ufern des Zürichsees. Der Morgen beginnt im alten Dorfkern, wo Geschichte in den Gebäuden wie dem Pfisterhaus widerhallt. Nach dem Besuch der schlichten Eleganz der reformierten Kirche führt der Weg hinunter zum See für ein Mittagessen mit Aussicht. Der Nachmittag ist dem Wasser gewidmet, mit einem Spaziergang entlang des Uferwegs zur Thalwiler Platte, wo atemberaubende Panoramen den Tag krönen.",
+        "hu": "Egy séta Thalwilban utazás a történelmi szívétől a Zürichi-tó csendes partjaiig. A reggel a régi faluközpontban kezdődik, ahol a történelem visszhangzik az épületekben, mint a Pfisterhaus. A református templom egyszerű eleganciájának megtekintése után az út a tóhoz vezet egy kilátással egybekötött ebédre. A délután a vízé, egy sétával a parti sétányon a Thalwiler Plattéig, ahol lélegzetelállító panorámák koronázzák meg a napot.",
+        "ro": "O plimbare prin Thalwil este o călătorie de la inima sa istorică la malurile liniștite ale Lacului Zurich. Dimineața începe în vechiul centru al satului, unde istoria răsună în clădiri precum Casa Pfister. După vizitarea eleganței simple a bisericii reformate, drumul coboară spre lac pentru un prânz cu vedere. După-amiaza este dedicată apei, cu o plimbare de-a lungul promenadei până la Thalwiler Platte, unde panorame uluitoare încununează ziua.",
+        "en": "A walk through Thalwil is a journey from its historic heart to the tranquil shores of Lake Zurich. The morning begins in the old village core, where history echoes in buildings like the Pfister House. After visiting the simple elegance of the reformed church, the path leads down to the lake for a lunch with a view. The afternoon is dedicated to the water, with a stroll along the shore path to the Thalwiler Platte, where breathtaking panoramas crown the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zürcher Geschnetzeltes",
+            "tip": "Probieren Sie dieses klassische Zürcher Gericht in einem der Restaurants am Seeufer."
+          },
+          {
+            "name": "Fischknusperli",
+            "tip": "Knusprig gebratene Fischstücke aus dem See, perfekt für einen Snack am Wasser."
+          },
+          {
+            "name": "Luxemburgerli",
+            "tip": "Kleine, luftige Makronen, eine berühmte Schweizer Süssigkeit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zürcher Geschnetzeltes",
+            "tip": "Kóstolja meg ezt a klasszikus zürichi ételt az egyik tóparti étteremben."
+          },
+          {
+            "name": "Fischknusperli",
+            "tip": "Ropogósra sült haldarabkák a tóból, tökéletes harapnivaló a vízparton."
+          },
+          {
+            "name": "Luxemburgerli",
+            "tip": "Kicsi, légies makronok, egy híres svájci édesség."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zürcher Geschnetzeltes",
+            "tip": "Încercați acest fel de mâncare clasic din Zurich la unul dintre restaurantele de pe malul lacului."
+          },
+          {
+            "name": "Fischknusperli",
+            "tip": "Bucăți de pește crocante, prăjite, din lac, perfecte pentru o gustare pe malul apei."
+          },
+          {
+            "name": "Luxemburgerli",
+            "tip": "Macarons mici și aerate, un desert elvețian celebru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zürcher Geschnetzeltes",
+            "tip": "Try this classic Zurich dish at one of the lakeside restaurants."
+          },
+          {
+            "name": "Fischknusperli",
+            "tip": "Crispy fried pieces of fish from the lake, perfect for a snack by the water."
+          },
+          {
+            "name": "Luxemburgerli",
+            "tip": "Small, airy macarons, a famous Swiss sweet."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Uferweg am frühen Morgen",
+            "tip": "Erleben Sie die Stille des Sees, bevor die Menschenmassen kommen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Eine Bank an der Thalwiler Platte",
+            "tip": "Ein perfekter Ort, um die Aussicht in Ruhe zu geniessen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Innenhof der Kirche",
+            "tip": "Ein Moment der Stille im Herzen der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parti sétány kora reggel",
+            "tip": "Tapasztalja meg a tó csendjét, mielőtt a tömeg megérkezik.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Egy pad a Thalwiler Platténél",
+            "tip": "Tökéletes hely a kilátás békés élvezetéhez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A templom udvara",
+            "tip": "Egy pillanatnyi csend a város szívében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada dimineața devreme",
+            "tip": "Experimentați liniștea lacului înainte de sosirea mulțimilor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "O bancă la Thalwiler Platte",
+            "tip": "Un loc perfect pentru a vă bucura de priveliște în liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea bisericii",
+            "tip": "Un moment de liniște în inima orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shore path in the early morning",
+            "tip": "Experience the silence of the lake before the crowds arrive.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A bench at Thalwiler Platte",
+            "tip": "A perfect spot to enjoy the view in peace.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The church courtyard",
+            "tip": "A moment of silence in the heart of the town.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Besuchen Sie den lokalen Markt für frische Produkte und Schweizer Spezialitäten (prüfen Sie die Tage)."
+          },
+          {
+            "name": "Boutiquen im Zentrum",
+            "tip": "Stöbern Sie in den kleinen Läden rund um den alten Dorfkern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Látogasson el a helyi piacra friss termékekért és svájci különlegességekért (ellenőrizze a napokat)."
+          },
+          {
+            "name": "Butikok a központban",
+            "tip": "Böngésszen a régi falu központja körüli kis üzletekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Vizitați piața locală pentru produse proaspete și specialități elvețiene (verificați zilele)."
+          },
+          {
+            "name": "Buticuri în centru",
+            "tip": "Răsfoiți magazinele mici din jurul vechiului centru al satului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Visit the local market for fresh produce and Swiss specialties (check for days)."
+          },
+          {
+            "name": "Boutiques in the center",
+            "tip": "Browse the small shops around the old village core."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da der Weg vom Dorf zum See abschüssig ist.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit; es gibt mehrere öffentliche Brunnen.",
+          "Eine Kamera ist ein Muss für die Aussicht von der Thalwiler Platte.",
+          "Prüfen Sie den Fahrplan der Zürichsee-Schifffahrt, falls Sie eine spontane Bootsfahrt machen möchten."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az út a faluból a tóhoz lejtős.",
+          "Hozzon magával újratölthető vizes palackot; több nyilvános kút is található.",
+          "A fényképezőgép kötelező a Thalwiler Platte kilátásához.",
+          "Ellenőrizze a Zürichi-tavi hajózási társaság menetrendjét, ha spontán hajókirándulásra vágyik."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece calea de la sat la lac este în pantă.",
+          "Luați o sticlă de apă reutilizabilă; există mai multe fântâni publice.",
+          "Un aparat de fotografiat este obligatoriu pentru priveliștea de la Thalwiler Platte.",
+          "Verificați orarul companiei de navigație de pe Lacul Zurich în cazul în care doriți să faceți o excursie spontană cu barca."
+        ],
+        "en": [
+          "Wear comfortable shoes as the path from the village to the lake is downhill.",
+          "Bring a reusable water bottle; there are several public fountains.",
+          "A camera is a must for the views from Thalwiler Platte.",
+          "Check the Lake Zurich Navigation Company schedule in case you fancy a spontaneous boat trip."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 11.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Schiffsstation Thalwil (Fahrradverleih)",
+            "hu": "Thalwili hajóállomás (kerékpárkölcsönző)",
+            "ro": "Stația de vaporetto Thalwil (închiriere de biciclete)",
+            "en": "Thalwil Boat Station (Bike Rental)"
+          },
+          "coords": [
+            8.572,
+            47.294
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie hier, um bequem ein Fahrrad für den Tag zu mieten.",
+            "hu": "Induljon innen, hogy kényelmesen béreljen kerékpárt a napra.",
+            "ro": "Începeți de aici pentru a închiria convenabil o bicicletă pentru o zi.",
+            "en": "Start here to conveniently rent a bike for the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt entlang des Zürichsee-Uferwegs",
+            "hu": "Kerékpározás a Zürichi-tó parti sétányán",
+            "ro": "Plimbare cu bicicleta pe promenada lacului Zurich",
+            "en": "Ride along the Lake Zurich Shore Path"
+          },
+          "coords": [
+            8.576,
+            47.288
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:47",
+          "stay_min": 45,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Geniessen Sie die flache und malerische Strecke direkt am Wasser.",
+            "hu": "Élvezze a sík és festői útvonalat közvetlenül a víz mellett.",
+            "ro": "Bucurați-vă de traseul plat și pitoresc chiar pe malul apei.",
+            "en": "Enjoy the flat and scenic route right by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Park im Grüene (Gottlieb Duttweiler Institut)",
+            "hu": "Park im Grüene (Gottlieb Duttweiler Intézet)",
+            "ro": "Parcul im Grüene (Institutul Gottlieb Duttweiler)",
+            "en": "Park im Grüene (Gottlieb Duttweiler Institute)"
+          },
+          "coords": [
+            8.551,
+            47.311
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Ein riesiger Park, ideal für eine Pause und ein Picknick-Mittagessen.",
+            "hu": "Hatalmas park, ideális egy szünetre és egy piknik ebédre.",
+            "ro": "Un parc imens, ideal pentru o pauză și un prânz la picnic.",
+            "en": "A huge park, ideal for a break and a picnic lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Ludretikon (Alter Dorfkern)",
+            "hu": "Ludretikon (Régi falu központja)",
+            "ro": "Ludretikon (Vechiul centru al satului)",
+            "en": "Ludretikon (Old Village Core)"
+          },
+          "coords": [
+            8.564,
+            47.293
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:51",
+          "stay_min": 30,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie die historischen Gassen zu Fuss.",
+            "hu": "Tegye le a biciklit és fedezze fel a történelmi sikátorokat gyalog.",
+            "ro": "Parcați bicicleta și explorați străduțele istorice pe jos.",
+            "en": "Park your bike and explore the historic alleys on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Schulhaus",
+            "hu": "Régi Iskolaház",
+            "ro": "Vechea școală",
+            "en": "Old Schoolhouse"
+          },
+          "coords": [
+            8.5635,
+            47.2945
+          ],
+          "category": "historical",
+          "arrive_at": "13:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein schönes Beispiel für die traditionelle Architektur der Region.",
+            "hu": "A régió hagyományos építészetének szép példája.",
+            "ro": "Un exemplu frumos de arhitectură tradițională din regiune.",
+            "en": "A fine example of the region's traditional architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Reformierte Kirche Thalwil",
+            "hu": "Thalwili református templom",
+            "ro": "Biserica Reformată din Thalwil",
+            "en": "Reformed Church of Thalwil"
+          },
+          "coords": [
+            8.565,
+            47.296
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Vom Kirchhügel aus haben Sie einen guten Überblick über das Dorf.",
+            "hu": "A templomdombról jó kilátás nyílik a falura.",
+            "ro": "De pe dealul bisericii aveți o imagine de ansamblu bună a satului.",
+            "en": "From the church hill, you have a good overview of the village."
+          }
+        },
+        {
+          "name": {
+            "de": "Thalwiler Platte",
+            "hu": "Thalwiler Platte kilátó",
+            "ro": "Punctul de belvedere Thalwiler Platte",
+            "en": "Thalwiler Platte Viewpoint"
+          },
+          "coords": [
+            8.575,
+            47.289
+          ],
+          "category": "natural features",
+          "arrive_at": "15:05",
+          "stay_min": 35,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der perfekte letzte Stopp, um den Sonnenuntergang über dem See zu beobachten.",
+            "hu": "Tökéletes utolsó megálló a naplemente megtekintéséhez a tó felett.",
+            "ro": "Oprirea finală perfectă pentru a privi apusul peste lac.",
+            "en": "The perfect final stop to watch the sunset over the lake."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine Radtour in Thalwil ist die perfekte Mischung aus Naturerlebnis und Kultur. Starten Sie am Seeufer, fahren Sie entlang des malerischen Uferwegs und genießen Sie die frische Brise. Der Höhepunkt ist der weitläufige 'Park im Grüene', ideal für eine lange Mittagspause. Am Nachmittag erkunden Sie das historische Zentrum mit seinen charmanten Gebäuden, bevor Sie zum Abschluss wieder zum See zurückkehren, um die Aussicht von der Thalwiler Platte zu genießen.",
+        "hu": "Egy thalwili kerékpártúra a természet és a kultúra tökéletes keveréke. Induljon a tópartról, tekerjen végig a festői parti úton, és élvezze a friss szellőt. A csúcspont a tágas 'Park im Grüene', amely ideális egy hosszú ebédszünethez. Délután fedezze fel a történelmi központot bájos épületeivel, mielőtt visszatérne a tóhoz, hogy megcsodálja a kilátást a Thalwiler Plattéról.",
+        "ro": "Un tur cu bicicleta în Thalwil este amestecul perfect de experiență în natură și cultură. Porniți de pe malul lacului, pedalați de-a lungul pitoreștii promenade și bucurați-vă de briza proaspătă. Punctul culminant este vastul 'Park im Grüene', ideal pentru o pauză lungă de prânz. După-amiaza, explorați centrul istoric cu clădirile sale fermecătoare înainte de a vă întoarce la lac pentru a admira priveliștea de la Thalwiler Platte.",
+        "en": "A bike tour in Thalwil is the perfect mix of nature and culture. Start on the lakefront, cycle along the scenic shore path, and enjoy the fresh breeze. The highlight is the spacious 'Park im Grüene', ideal for a long lunch break. In the afternoon, explore the historic center with its charming buildings before returning to the lake to admire the view from the Thalwiler Platte."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Picknick im Park",
+            "tip": "Kaufen Sie lokale Produkte und genießen Sie ein Mittagessen im 'Park im Grüene'."
+          },
+          {
+            "name": "Rivella",
+            "tip": "Probieren Sie das Schweizer Nationalgetränk zur Erfrischung."
+          },
+          {
+            "name": "Bündner Nusstorte",
+            "tip": "Ein energiereicher Snack, ideal für eine Pause während der Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piknik a parkban",
+            "tip": "Vásároljon helyi termékeket és ebédeljen a 'Park im Grüene'-ben."
+          },
+          {
+            "name": "Rivella",
+            "tip": "Kóstolja meg a svájci nemzeti italt frissítőként."
+          },
+          {
+            "name": "Bündner Nusstorte",
+            "tip": "Energiadús snack, ideális egy szünetre a kerékpártúra alatt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Picnic în parc",
+            "tip": "Cumpărați produse locale și bucurați-vă de un prânz în 'Park im Grüene'."
+          },
+          {
+            "name": "Rivella",
+            "tip": "Încercați băutura națională elvețiană pentru a vă reîmprospăta."
+          },
+          {
+            "name": "Bündner Nusstorte",
+            "tip": "O gustare bogată în energie, ideală pentru o pauză în timpul turului cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Picnic in the Park",
+            "tip": "Buy local produce and enjoy lunch in the 'Park im Grüene'."
+          },
+          {
+            "name": "Rivella",
+            "tip": "Try the Swiss national drink for refreshment."
+          },
+          {
+            "name": "Bündner Nusstorte",
+            "tip": "An energy-rich snack, ideal for a break during the bike tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park im Grüene",
+            "tip": "Finden Sie einen ruhigen Platz unter einem Baum in diesem weitläufigen Park.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Versteckte Bänke am Uferweg",
+            "tip": "Halten Sie Ausschau nach abgelegenen Bänken mit Seeblick.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sonnenuntergang an der Platte",
+            "tip": "Der beste Ort, um den Tag mit einer spektakulären Aussicht ausklingen zu lassen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Park im Grüene",
+            "tip": "Keressen egy csendes helyet egy fa alatt ebben a tágas parkban.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Rejtett padok a parti úton",
+            "tip": "Keressen eldugott, tóra néző padokat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Naplemente a Platténél",
+            "tip": "A legjobb hely a nap befejezéséhez egy látványos kilátással.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Park im Grüene",
+            "tip": "Găsiți un loc liniștit sub un copac în acest parc întins.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bănci ascunse pe promenadă",
+            "tip": "Căutați bănci izolate cu vedere la lac.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Apus de soare la Platte",
+            "tip": "Cel mai bun loc pentru a încheia ziua cu o priveliște spectaculoasă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Park im Grüene",
+            "tip": "Find a quiet spot under a tree in this spacious park.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hidden benches on the shore path",
+            "tip": "Look for secluded benches with a lake view.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sunset at the Platte",
+            "tip": "The best place to end the day with a spectacular view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden in der Umgebung",
+            "tip": "Mit dem Fahrrad erreichen Sie leicht einige Bauernhöfe, die ihre Produkte direkt verkaufen."
+          },
+          {
+            "name": "Sportgeschäfte",
+            "tip": "Vielleicht finden Sie ein neues Zubehör für Ihr Fahrrad."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Farmboltok a környéken",
+            "tip": "Kerékpárral könnyen elérhet néhány farmot, amelyek közvetlenül árulják termékeiket."
+          },
+          {
+            "name": "Sportboltok",
+            "tip": "Talán talál egy új kiegészítőt a kerékpárjához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele fermelor din zonă",
+            "tip": "Cu bicicleta puteți ajunge cu ușurință la unele ferme care își vând produsele direct."
+          },
+          {
+            "name": "Magazine de sport",
+            "tip": "Poate găsiți un accesoriu nou pentru bicicleta dumneavoastră."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops in the area",
+            "tip": "By bike, you can easily reach some farms that sell their products directly."
+          },
+          {
+            "name": "Sports shops",
+            "tip": "You might find a new accessory for your bike."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Die Wege sind gut ausgeschildert, aber eine Navigations-App kann hilfreich sein.",
+          "Einige Abschnitte können steil sein, seien Sie also auf einige Anstiege vorbereitet.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad sicher abzustellen, während Sie die Sehenswürdigkeiten erkunden."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket és a gumikat.",
+          "Az utak jól ki vannak táblázva, de egy navigációs alkalmazás hasznos lehet.",
+          "Néhány szakasz meredek lehet, tehát készüljön fel néhány emelkedőre.",
+          "Hozzon magával lakatot, hogy biztonságosan lezárhassa a kerékpárt, amíg a látnivalókat fedezi fel."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele și anvelopele.",
+          "Traseele sunt bine semnalizate, dar o aplicație de navigație poate fi utilă.",
+          "Unele secțiuni pot fi abrupte, așa că fiți pregătiți pentru câteva urcări.",
+          "Luați un lacăt pentru a vă asigura bicicleta în timp ce explorați obiectivele turistice."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes and tires.",
+          "The paths are well-signposted, but a navigation app can be helpful.",
+          "Some sections can be steep, so be prepared for some climbs.",
+          "Bring a lock to secure your bike while you explore the sights."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 6.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum/Kirche",
+            "hu": "Parkoló a központban/templomnál",
+            "ro": "Parcare centru/biserică",
+            "en": "Parking at the Center/Church"
+          },
+          "coords": [
+            8.5645,
+            47.2955
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier, um den historischen Kern zu Fuss zu erkunden.",
+            "hu": "Parkoljon itt, hogy gyalog fedezze fel a történelmi központot.",
+            "ro": "Parcați aici pentru a explora centrul istoric pe jos.",
+            "en": "Park here to explore the historic core on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Reformierte Kirche Thalwil",
+            "hu": "Thalwili református templom",
+            "ro": "Biserica Reformată din Thalwil",
+            "en": "Reformed Church of Thalwil"
+          },
+          "coords": [
+            8.565,
+            47.296
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Geniessen Sie die Ruhe, bevor Sie ins Dorfzentrum hinabsteigen.",
+            "hu": "Élvezze a csendet, mielőtt leereszkedik a faluközpontba.",
+            "ro": "Bucurați-vă de liniște înainte de a coborî în centrul satului.",
+            "en": "Enjoy the quiet before descending into the village center."
+          }
+        },
+        {
+          "name": {
+            "de": "Ludretikon & Pfisterhaus",
+            "hu": "Ludretikon & Pfisterhaus",
+            "ro": "Ludretikon & Casa Pfister",
+            "en": "Ludretikon & Pfister House"
+          },
+          "coords": [
+            8.5635,
+            47.2935
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden historischen Stätten liegen nur wenige Schritte voneinander entfernt.",
+            "hu": "Ez a két történelmi helyszín csak néhány lépésre van egymástól.",
+            "ro": "Aceste două situri istorice se află la doar câțiva pași unul de celălalt.",
+            "en": "These two historic sites are just a few steps apart."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz am Seeufer",
+            "hu": "Parkoló a tóparton",
+            "ro": "Parcare pe malul lacului",
+            "en": "Lakeside Parking"
+          },
+          "coords": [
+            8.571,
+            47.293
+          ],
+          "category": "transport",
+          "arrive_at": "10:55",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein guter Ausgangspunkt für den zweiten Teil des Tages am Wasser.",
+            "hu": "Jó kiindulópont a nap második, vízparti részéhez.",
+            "ro": "Un bun punct de plecare pentru a doua parte a zilei pe malul apei.",
+            "en": "A good starting point for the second part of the day by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Schiffsstation & Mittagessen",
+            "hu": "Hajóállomás és ebéd",
+            "ro": "Stația de vaporetto & prânz",
+            "en": "Boat Station & Lunch"
+          },
+          "coords": [
+            8.572,
+            47.294
+          ],
+          "category": "gastro",
+          "arrive_at": "11:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verbinden Sie die Bootsbeobachtung mit einer Mahlzeit in einem der nahegelegenen Restaurants.",
+            "hu": "Kösse össze a hajók nézését egy ebéddel a közeli éttermek egyikében.",
+            "ro": "Combinați observarea bărcilor cu o masă la unul dintre restaurantele din apropiere.",
+            "en": "Combine boat watching with a meal at one of the nearby restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Zürichsee-Uferweg & Platte",
+            "hu": "Parti sétány és Platte",
+            "ro": "Promenadă și Platte",
+            "en": "Shore Path & Platte"
+          },
+          "coords": [
+            8.575,
+            47.289
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang führt Sie vom Uferweg zum Aussichtspunkt.",
+            "hu": "Egy rövid séta vezet a parti útról a kilátóponthoz.",
+            "ro": "O scurtă plimbare vă duce de la promenadă la punctul de belvedere.",
+            "en": "A short walk takes you from the shore path to the viewpoint."
+          }
+        },
+        {
+          "name": {
+            "de": "Park im Grüene",
+            "hu": "Park im Grüene",
+            "ro": "Parcul im Grüene",
+            "en": "Park im Grüene"
+          },
+          "coords": [
+            8.551,
+            47.311
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:05",
+          "stay_min": 85,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit Entspannung in diesem wunderschönen, weitläufigen Park.",
+            "hu": "Zárja a napot pihenéssel ebben a gyönyörű, tágas parkban.",
+            "ro": "Încheiați ziua relaxându-vă în acest parc frumos și întins.",
+            "en": "End the day relaxing in this beautiful, spacious park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto lässt sich Thalwil bequem in Clustern erkunden. Parken Sie zuerst im Zentrum, um den historischen Kern mit der Kirche und den alten Häusern zu Fuss zu entdecken. Danach fahren Sie zum Seeufer, parken erneut und geniessen das maritime Flair, ein Mittagessen und den Spaziergang zur Thalwiler Platte. Den Abschluss bildet ein entspannter Nachmittag im 'Park im Grüene', der nur eine kurze Autofahrt entfernt ist und einen perfekten Kontrast zum Dorfleben bietet.",
+        "hu": "Autóval kényelmesen felfedezheti Thalwilt klaszterekben. Parkoljon először a központban, hogy gyalog fedezze fel a történelmi magot a templommal és a régi házakkal. Ezután vezessen a tóparthoz, parkoljon újra, és élvezze a tengeri hangulatot, egy ebédet és a sétát a Thalwiler Plattéig. A napot egy pihentető délután zárja a 'Park im Grüene'-ben, amely csak egy rövid autóútra van, és tökéletes kontrasztot kínál a falusi élettel.",
+        "ro": "Cu mașina, puteți explora convenabil Thalwil în clustere. Parcați mai întâi în centru pentru a descoperi pe jos nucleul istoric cu biserica și casele vechi. Apoi, conduceți pe malul lacului, parcați din nou și bucurați-vă de atmosfera maritimă, de un prânz și de plimbarea până la Thalwiler Platte. Încheiați ziua cu o după-amiază relaxantă în 'Park im Grüene', care se află la o scurtă distanță cu mașina și oferă un contrast perfect cu viața satului.",
+        "en": "By car, Thalwil can be conveniently explored in clusters. First, park in the center to discover the historic core with its church and old houses on foot. Then, drive to the lakeside, park again, and enjoy the maritime flair, a lunch, and the walk to the Thalwiler Platte. The day concludes with a relaxing afternoon in the 'Park im Grüene', which is just a short drive away and offers a perfect contrast to village life."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant am See",
+            "tip": "Geniessen Sie frischen Fisch mit Blick auf das Wasser."
+          },
+          {
+            "name": "Café im Dorfzentrum",
+            "tip": "Perfekt für eine Pause mit Kaffee und Kuchen nach der Erkundung der Altstadt."
+          },
+          {
+            "name": "Migros Restaurant im Park im Grüene",
+            "tip": "Eine unkomplizierte und familienfreundliche Option für das Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a tónál",
+            "tip": "Élvezze a friss halat a vízre néző kilátással."
+          },
+          {
+            "name": "Kávézó a faluközpontban",
+            "tip": "Tökéletes egy kávé-süti szünetre az óváros felfedezése után."
+          },
+          {
+            "name": "Migros Étterem a Park im Grüene-ben",
+            "tip": "Egyszerű és családbarát ebédlehetőség."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant pe lac",
+            "tip": "Bucurați-vă de pește proaspăt cu vedere la apă."
+          },
+          {
+            "name": "Cafenea în centrul satului",
+            "tip": "Perfect pentru o pauză de cafea și prăjitură după explorarea orașului vechi."
+          },
+          {
+            "name": "Restaurantul Migros din Park im Grüene",
+            "tip": "O opțiune simplă și prietenoasă cu familia pentru prânz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant by the lake",
+            "tip": "Enjoy fresh fish with a view of the water."
+          },
+          {
+            "name": "Café in the village center",
+            "tip": "Perfect for a coffee and cake break after exploring the old town."
+          },
+          {
+            "name": "Migros Restaurant in Park im Grüene",
+            "tip": "A simple and family-friendly option for lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park im Grüene",
+            "tip": "Die Weitläufigkeit des Parks garantiert ruhige Ecken.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Thalwiler Platte am späten Nachmittag",
+            "tip": "Wenn die meisten Tagesausflügler weg sind, ist es hier besonders friedlich.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ein Spaziergang abseits des Hauptuferwegs",
+            "tip": "Entdecken Sie kleinere Pfade, die vom Hauptweg abzweigen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Park im Grüene",
+            "tip": "A park tágassága garantálja a csendes sarkokat.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Thalwiler Platte késő délután",
+            "tip": "Amikor a legtöbb napos kiránduló elment, itt különösen békés.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Séta a fő parti úttól távolabb",
+            "tip": "Fedezzen fel kisebb ösvényeket, amelyek a fő útról ágaznak le.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Park im Grüene",
+            "tip": "Întinderea parcului garantează colțuri liniștite.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Thalwiler Platte după-amiaza târziu",
+            "tip": "Când majoritatea excursioniștilor de o zi au plecat, este deosebit de pașnic aici.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O plimbare departe de promenada principală",
+            "tip": "Descoperiți poteci mai mici care se ramifică din calea principală.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Park im Grüene",
+            "tip": "The vastness of the park guarantees quiet corners.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Thalwiler Platte in the late afternoon",
+            "tip": "When most day-trippers have left, it's particularly peaceful here.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A walk off the main shore path",
+            "tip": "Discover smaller paths that branch off the main walkway.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Einkaufszentrum 'im Gotthard'",
+            "tip": "Für praktische Einkäufe und eine grössere Auswahl an Geschäften."
+          },
+          {
+            "name": "Lindt Chocolate Factory Outlet",
+            "tip": "Ein kurzer Abstecher nach Kilchberg (Nachbarort) für Schokoladenliebhaber."
+          }
+        ],
+        "hu": [
+          {
+            "name": "'im Gotthard' bevásárlóközpont",
+            "tip": "Praktikus vásárlásokhoz és nagyobb üzletválasztékhoz."
+          },
+          {
+            "name": "Lindt Csokoládégyár Outlet",
+            "tip": "Egy rövid kitérő Kilchbergbe (szomszédos város) a csokoládé szerelmeseinek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul comercial 'im Gotthard'",
+            "tip": "Pentru cumpărături practice și o selecție mai largă de magazine."
+          },
+          {
+            "name": "Outlet-ul fabricii de ciocolată Lindt",
+            "tip": "O scurtă deviere către Kilchberg (orașul vecin) pentru iubitorii de ciocolată."
+          }
+        ],
+        "en": [
+          {
+            "name": "'im Gotthard' Shopping Center",
+            "tip": "For practical shopping and a wider selection of stores."
+          },
+          {
+            "name": "Lindt Chocolate Factory Outlet",
+            "tip": "A short detour to nearby Kilchberg for chocolate lovers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die Parkgebühren und -zeiten, besonders im Zentrum.",
+          "Die Strassen im alten Dorfkern können eng sein, fahren Sie vorsichtig.",
+          "Planen Sie genügend Zeit für den Verkehr ein, besonders während der Stosszeiten rund um Zürich.",
+          "Ein Navigationssystem ist unerlässlich, um die verschiedenen Parkplätze zu finden."
+        ],
+        "hu": [
+          "Figyeljen a parkolási díjakra és időkre, különösen a központban.",
+          "A régi falu központjának utcái szűkek lehetnek, vezessen óvatosan.",
+          "Tervezzen elegendő időt a forgalomra, különösen a csúcsforgalmi időkben Zürich környékén.",
+          "A navigációs rendszer elengedhetetlen a különböző parkolók megtalálásához."
+        ],
+        "ro": [
+          "Fiți atenți la taxele și orele de parcare, în special în centru.",
+          "Străzile din vechiul centru al satului pot fi înguste, conduceți cu atenție.",
+          "Planificați suficient timp pentru trafic, în special în orele de vârf în jurul Zurichului.",
+          "Un sistem de navigație este esențial pentru a găsi diferitele parcări."
+        ],
+        "en": [
+          "Pay attention to parking fees and times, especially in the center.",
+          "The streets in the old village core can be narrow, drive carefully.",
+          "Allow enough time for traffic, especially during rush hours around Zurich.",
+          "A navigation system is essential for finding the different parking locations."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof Thalwil",
+            "hu": "Érkezés a Thalwil vasútállomásra",
+            "ro": "Sosire la gara Thalwil",
+            "en": "Arrival at Thalwil Train Station"
+          },
+          "coords": [
+            8.568,
+            47.2925
+          ],
+          "category": "transport",
+          "arrive_at": "09:15",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Bahnhof ist der zentrale Knotenpunkt für Ihren Tag.",
+            "hu": "Az állomás a nap központi csomópontja.",
+            "ro": "Gara este nodul central pentru ziua dumneavoastră.",
+            "en": "The train station is the central hub for your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Schiffsstation & Uferweg",
+            "hu": "Hajóállomás és parti sétány",
+            "ro": "Stația de vaporetto și promenada",
+            "en": "Boat Station & Shore Path"
+          },
+          "coords": [
+            8.573,
+            47.293
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie mit einem Spaziergang am Wasser, um die Atmosphäre aufzusaugen.",
+            "hu": "Kezdje egy sétával a vízparton, hogy magába szívja a hangulatot.",
+            "ro": "Începeți cu o plimbare pe malul apei pentru a absorbi atmosfera.",
+            "en": "Start with a walk by the water to soak up the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Ludretikon & Altes Schulhaus",
+            "hu": "Ludretikon és Régi Iskolaház",
+            "ro": "Ludretikon și Vechea Școală",
+            "en": "Ludretikon & Old Schoolhouse"
+          },
+          "coords": [
+            8.5635,
+            47.2935
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erklimmen Sie den Hügel vom See zum historischen Zentrum.",
+            "hu": "Mássza meg a dombot a tótól a történelmi központig.",
+            "ro": "Urcați dealul de la lac la centrul istoric.",
+            "en": "Climb the hill from the lake to the historic center."
+          }
+        },
+        {
+          "name": {
+            "de": "Reformierte Kirche & Mittagessen",
+            "hu": "Református templom és ebéd",
+            "ro": "Biserica Reformată și prânz",
+            "en": "Reformed Church & Lunch"
+          },
+          "coords": [
+            8.565,
+            47.296
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besichtigen Sie die Kirche und finden Sie ein nettes Restaurant in der Nähe.",
+            "hu": "Látogassa meg a templomot, és keressen egy kellemes éttermet a közelben.",
+            "ro": "Vizitați biserica și găsiți un restaurant drăguț în apropiere.",
+            "en": "Visit the church and find a nice restaurant nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Park im Grüene",
+            "hu": "Buszozás a Park im Grüene-be",
+            "ro": "Călătorie cu autobuzul la Parcul im Grüene",
+            "en": "Bus Ride to Park im Grüene"
+          },
+          "coords": [
+            8.551,
+            47.311
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus für einen entspannten Nachmittag im Grünen.",
+            "hu": "Menjen busszal egy pihentető délutánra a zöldben.",
+            "ro": "Luați autobuzul pentru o după-amiază relaxantă în natură.",
+            "en": "Take the bus for a relaxing afternoon in the green."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zur Thalwiler Platte",
+            "hu": "Buszozás a Thalwiler Plattéhoz",
+            "ro": "Călătorie cu autobuzul la Thalwiler Platte",
+            "en": "Bus Ride to Thalwiler Platte"
+          },
+          "coords": [
+            8.575,
+            47.289
+          ],
+          "category": "natural features",
+          "arrive_at": "16:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.9,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit der besten Aussicht, leicht erreichbar mit dem Bus.",
+            "hu": "Zárja a napot a legjobb kilátással, amely busszal könnyen elérhető.",
+            "ro": "Încheiați ziua cu cea mai bună priveliște, ușor accesibilă cu autobuzul.",
+            "en": "End the day with the best view, easily accessible by bus."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Thalwil mit öffentlichen Verkehrsmitteln zu erkunden, ist effizient und stressfrei. Vom Bahnhof aus ist es nur ein kurzer Spaziergang zum Seeufer. Verbringen Sie den Vormittag damit, den historischen Kern zu Fuss zu erkunden, einschliesslich eines Mittagessens in der Nähe der Kirche. Am Nachmittag bringen Sie Busse bequem zum weitläufigen 'Park im Grüene' und schliesslich zum Aussichtspunkt Thalwiler Platte, um den Tag mit einem unvergesslichen Panorama abzuschliessen.",
+        "hu": "Thalwil tömegközlekedéssel való felfedezése hatékony és stresszmentes. A vasútállomástól csak egy rövid séta a tópart. Töltse a délelőttöt a történelmi mag gyalogos felfedezésével, beleértve egy ebédet a templom közelében. Délután a buszok kényelmesen elviszik a tágas 'Park im Grüene'-be, végül pedig a Thalwiler Platte kilátóponthoz, hogy a napot egy felejthetetlen panorámával zárja.",
+        "ro": "Explorarea Thalwil cu transportul public este eficientă și fără stres. De la gară, este doar o scurtă plimbare până pe malul lacului. Petreceți dimineața explorând nucleul istoric pe jos, inclusiv un prânz lângă biserică. După-amiaza, autobuzele vă duc convenabil la vastul 'Park im Grüene' și, în final, la punctul de belvedere Thalwiler Platte pentru a încheia ziua cu o panoramă de neuitat.",
+        "en": "Exploring Thalwil by public transport is efficient and stress-free. From the train station, it's just a short walk to the lakeside. Spend the morning exploring the historic core on foot, including lunch near the church. In the afternoon, buses conveniently take you to the spacious 'Park im Grüene' and finally to the Thalwiler Platte viewpoint to end the day with an unforgettable panorama."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei am Bahnhof",
+            "tip": "Holen Sie sich ein Weggli oder ein Sandwich für unterwegs."
+          },
+          {
+            "name": "Restaurant mit traditioneller Schweizer Küche",
+            "tip": "Suchen Sie nach einem 'Gasthaus' für ein authentisches Mittagessen."
+          },
+          {
+            "name": "Kiosk am See",
+            "tip": "Für ein schnelles Eis oder Getränk am Wasser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség az állomáson",
+            "tip": "Vegyen egy zsemlét vagy szendvicset útközben."
+          },
+          {
+            "name": "Hagyományos svájci konyhát kínáló étterem",
+            "tip": "Keressen egy 'Gasthaus'-t egy autentikus ebédhez."
+          },
+          {
+            "name": "Kioszk a tónál",
+            "tip": "Egy gyors fagylaltért vagy italért a vízparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie la gară",
+            "tip": "Luați o chiflă sau un sandviș pentru drum."
+          },
+          {
+            "name": "Restaurant cu bucătărie tradițională elvețiană",
+            "tip": "Căutați un 'Gasthaus' pentru un prânz autentic."
+          },
+          {
+            "name": "Chioșc pe lac",
+            "tip": "Pentru o înghețată rapidă или o băutură pe malul apei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery at the station",
+            "tip": "Grab a roll or a sandwich for the road."
+          },
+          {
+            "name": "Restaurant with traditional Swiss cuisine",
+            "tip": "Look for a 'Gasthaus' for an authentic lunch."
+          },
+          {
+            "name": "Kiosk by the lake",
+            "tip": "For a quick ice cream or drink by the water."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine ruhige Ecke im Park im Grüene",
+            "tip": "Der Park ist gross genug, um dem Trubel zu entfliehen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Die S-Bahn-Fahrt entlang des Sees",
+            "tip": "Schauen Sie aus dem Fenster und geniessen Sie die vorbeiziehende Landschaft.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Die Stille in der reformierten Kirche",
+            "tip": "Ein Moment der Einkehr mitten am Tag.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy csendes sarok a Park im Grüene-ben",
+            "tip": "A park elég nagy ahhoz, hogy elmeneküljön a nyüzsgés elől.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Az S-Bahn út a tó mentén",
+            "tip": "Nézzen ki az ablakon, és élvezze az elhaladó tájat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A csend a református templomban",
+            "tip": "Egy pillanatnyi elmélkedés a nap közepén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Un colț liniștit în Parcul im Grüene",
+            "tip": "Parcul este suficient de mare pentru a scăpa de agitație.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Călătoria cu S-Bahn de-a lungul lacului",
+            "tip": "Priviți pe fereastră și bucurați-vă de peisajul care trece.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Liniștea din biserica reformată",
+            "tip": "Un moment de contemplare în mijlocul zilei.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "A quiet corner in Park im Grüene",
+            "tip": "The park is large enough to escape the hustle and bustle.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "The S-Bahn ride along the lake",
+            "tip": "Look out the window and enjoy the passing scenery.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The silence in the reformed church",
+            "tip": "A moment of contemplation in the middle of the day.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Bahnhofsunterführung",
+            "tip": "Praktisch für schnelle Einkäufe vor der Abfahrt."
+          },
+          {
+            "name": "Lokale Käserei",
+            "tip": "Nehmen Sie ein Stück Schweizer Käse als Souvenir mit nach Hause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Üzletek az állomás aluljárójában",
+            "tip": "Praktikus gyors vásárlásokhoz indulás előtt."
+          },
+          {
+            "name": "Helyi sajtüzem",
+            "tip": "Vigyen haza egy darab svájci sajtot szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine în pasajul subteran al gării",
+            "tip": "Convenabil pentru cumpărături rapide înainte de plecare."
+          },
+          {
+            "name": "Fabrică de brânzeturi locală",
+            "tip": "Luați acasă o bucată de brânză elvețiană ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops in the station underpass",
+            "tip": "Convenient for quick purchases before departure."
+          },
+          {
+            "name": "Local cheese dairy",
+            "tip": "Take home a piece of Swiss cheese as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die ZVV (Zürcher Verkehrsverbund), um alle Busse und Züge zu nutzen.",
+          "Laden Sie die ZVV-App herunter, um Fahrpläne und Verbindungen in Echtzeit zu prüfen.",
+          "Die Busse fahren regelmässig, aber prüfen Sie die Abfahrtszeiten für die letzte Rückfahrt.",
+          "Validieren Sie Ihr Ticket vor der ersten Fahrt, um eine Busse zu vermeiden."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a ZVV-hez (Zürichi Közlekedési Szövetség), hogy minden buszt és vonatot használhasson.",
+          "Töltse le a ZVV alkalmazást a valós idejű menetrendek és csatlakozások ellenőrzéséhez.",
+          "A buszok rendszeresen közlekednek, de ellenőrizze az utolsó visszaindulás idejét.",
+          "Érvényesítse a jegyét az első utazás előtt, hogy elkerülje a büntetést."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru ZVV (Asociația de Transport din Zurich) pentru a utiliza toate autobuzele și trenurile.",
+          "Descărcați aplicația ZVV pentru a verifica orarele și conexiunile în timp real.",
+          "Autobuzele circulă regulat, dar verificați orele de plecare pentru ultima călătorie de întoarcere.",
+          "Validați biletul înainte de prima călătorie pentru a evita o amendă."
+        ],
+        "en": [
+          "Buy a day ticket for the ZVV (Zurich Transport Association) to use all buses and trains.",
+          "Download the ZVV app to check real-time schedules and connections.",
+          "Buses run regularly, but check departure times for the last return trip.",
+          "Validate your ticket before the first ride to avoid a fine."
+        ]
+      }
+    }
+  }
+}

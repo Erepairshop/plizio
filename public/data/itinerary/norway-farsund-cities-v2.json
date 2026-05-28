@@ -1,0 +1,808 @@
+{
+  "city_id": "norway-farsund-cities-v2",
+  "anchor": {
+    "name": "Farsund",
+    "coords": [
+      6.8,
+      58.09
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 3.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafen von Farsund (Gästehafen)",
+            "hu": "Farsundi kikötő (Gjestehavn)",
+            "ro": "Portul de oaspeți din Farsund",
+            "en": "Farsund Guest Harbour"
+          },
+          "coords": [
+            6.802,
+            58.091
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee und beobachten Sie die Boote.",
+            "hu": "Indítsa a napot egy kávéval a kikötőben, és figyelje a hajókat.",
+            "ro": "Începeți ziua cu o cafea privind bărcile din port.",
+            "en": "Start your day with a coffee while watching the boats."
+          }
+        },
+        {
+          "name": {
+            "de": "Husan",
+            "hu": "Husan",
+            "ro": "Husan",
+            "en": "Husan"
+          },
+          "coords": [
+            6.803,
+            58.094
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:58",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Das schönste Rathaus Norwegens. Machen Sie Fotos von der Holzarchitektur.",
+            "hu": "Norvégia legszebb városháza. Készítsen fotókat a faépítészetről.",
+            "ro": "Cea mai frumoasă primărie din Norvegia. Fotografiați arhitectura din lemn.",
+            "en": "Norway's most beautiful town hall. Take pictures of the wooden architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Farsund",
+            "hu": "Farsundi templom",
+            "ro": "Biserica din Farsund",
+            "en": "Farsund Church"
+          },
+          "coords": [
+            6.805,
+            58.093
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:02",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Achten Sie auf das kreuzförmige Design und das Modellschiff im Inneren.",
+            "hu": "Figyelje meg a kereszt alakú elrendezést és a templomban lévő hajómodellt.",
+            "ro": "Observați designul în formă de cruce și modelul de navă din interior.",
+            "en": "Notice the cross-shaped design and the model ship inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang nach Loshavn",
+            "hu": "Séta Loshavn felé",
+            "ro": "Plimbare spre Loshavn",
+            "en": "Walk towards Loshavn"
+          },
+          "coords": [
+            6.83,
+            58.07
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:42",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 3.0,
+          "tip_4lang": {
+            "de": "Ein langer, aber lohnender Spaziergang. Genießen Sie hier ein Mittagessen.",
+            "hu": "Hosszú, de megéri a fáradságot. Ebédeljen meg ebben a bájos faluban.",
+            "ro": "O plimbare lungă, dar plină de satisfacții. Savurați prânzul aici.",
+            "en": "A long but rewarding walk. Enjoy lunch in this charming village."
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück zum Hafen",
+            "hu": "Vissza a kikötőbe",
+            "ro": "Înapoi în port",
+            "en": "Return to the Harbour"
+          },
+          "coords": [
+            6.802,
+            58.091
+          ],
+          "category": "port",
+          "arrive_at": "16:22",
+          "stay_min": 43,
+          "hop_mode": "walk",
+          "hop_from_prev_min": -60,
+          "hop_from_prev_km": -3.0,
+          "tip_4lang": {
+            "de": "Lassen Sie den Tag am Wasser ausklingen und genießen Sie die Abendsonne.",
+            "hu": "Zárja a napot a vízparton, élvezve az esti napsütést.",
+            "ro": "Încheiați ziua pe malul apei, bucurându-vă de soarele de seară.",
+            "en": "End the day by the water, enjoying the evening sun."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Farsund beginnt am lebhaften Gästehafen, wo die Meeresluft belebt. Sie spazieren durch das historische Zentrum und bewundern die prächtige Holzarchitektur von Husan und der Farsund Kirche. Am Nachmittag unternehmen Sie einen ausgedehnten Spaziergang zum malerischen Fischerdorf Loshavn, wo die Zeit stillzustehen scheint und Sie ein spätes Mittagessen genießen. Der Abend dämmert, während Sie zurück zum Hafen schlendern und die ruhige Atmosphäre auf sich wirken lassen.",
+        "hu": "Farsundi napja a nyüzsgő vendégkikötőben kezdődik, ahol a tengeri levegő felpezsdít. A történelmi központon keresztül sétálva megcsodálja a Husan és a Farsundi templom pompás faépítészetét. Délután egy hosszabb sétát tesz a festői Loshavn halászfaluhoz, ahol mintha megállt volna az idő, és elfogyaszt egy késői ebédet. Az este leszáll, miközben visszasétál a kikötőbe, hogy magába szívja a nyugodt légkört.",
+        "ro": "Ziua dvs. în Farsund începe în portul plin de viață, unde aerul mării este revigorant. Vă plimbați prin centrul istoric, admirând arhitectura magnifică din lemn a clădirii Husan și a bisericii din Farsund. După-amiaza, faceți o plimbare extinsă până la pitorescul sat pescăresc Loshavn, unde timpul pare să stea în loc și savurați un prânz târziu. Seara se lasă în timp ce vă întoarceți agale spre port, absorbind atmosfera liniștită.",
+        "en": "Your day in Farsund begins at the lively guest harbour, where the sea air is invigorating. You'll stroll through the historic centre, admiring the magnificent wooden architecture of Husan and Farsund Church. In the afternoon, you take an extended walk to the picturesque fishing village of Loshavn, where time seems to stand still, and enjoy a late lunch. Evening descends as you wander back to the harbour, soaking in the tranquil atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fischsuppe",
+            "tip": "Probieren Sie die lokale Spezialität in einem der Restaurants am Hafen, z.B. im Rederiet."
+          },
+          {
+            "name": "Garnelen",
+            "tip": "Frisch vom Kutter, oft direkt am Kai erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halászlé",
+            "tip": "Kóstolja meg a helyi specialitást a kikötői éttermek egyikében, például a Rederiet-ben."
+          },
+          {
+            "name": "Garnélarák",
+            "tip": "Frissen a halászhajóról, gyakran közvetlenül a rakparton kapható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supă de pește",
+            "tip": "Încercați specialitatea locală la unul dintre restaurantele din port, cum ar fi Rederiet."
+          },
+          {
+            "name": "Creveți",
+            "tip": "Proaspeți de pe vas, adesea disponibili direct pe chei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish soup",
+            "tip": "Try the local specialty at one of the harbour restaurants, like Rederiet."
+          },
+          {
+            "name": "Shrimps",
+            "tip": "Fresh from the boat, often available right on the quay."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Loshavn",
+            "tip": "Die engen Gassen und alten Holzhäuser strahlen eine unglaubliche Ruhe aus.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Varbak",
+            "tip": "Ein kurzer Aufstieg zu einem Aussichtspunkt mit Blick über die Stadt und das Meer.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Loshavn",
+            "tip": "A szűk sikátorok és a régi faházak hihetetlen nyugalmat árasztanak.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Varbak",
+            "tip": "Egy rövid kaptató egy kilátóponthoz, ahonnan remek a kilátás a városra és a tengerre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Loshavn",
+            "tip": "Străduțele înguste și casele vechi din lemn emană o liniște incredibilă.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Varbak",
+            "tip": "O urcare scurtă către un punct de belvedere cu vedere asupra orașului și a mării.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Loshavn",
+            "tip": "The narrow alleys and old wooden houses exude an incredible sense of peace.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Varbak",
+            "tip": "A short climb to a viewpoint overlooking the town and the sea.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Kunsthandwerksläden",
+            "tip": "In der Innenstadt finden Sie kleine Boutiquen mit norwegischem Design."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "A belvárosban norvég dizájnt kínáló kis butikokat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "În centrul orașului veți găsi mici buticuri care vând design norvegian."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local artisan shops",
+            "tip": "You'll find small boutiques selling Norwegian design in the town centre."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da der Spaziergang nach Loshavn lang ist.",
+          "Prüfen Sie die Wettervorhersage; das Küstenwetter kann sich schnell ändern.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit.",
+          "Viele Geschäfte schließen früh, planen Sie also eventuelle Einkäufe für den Vormittag ein."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a séta Loshavnba hosszú.",
+          "Ellenőrizze az időjárás-előrejelzést; a tengerparti időjárás gyorsan változhat.",
+          "Vigyen magával újratölthető vizes palackot.",
+          "Sok üzlet korán bezár, ezért a vásárlást délelőttre tervezze."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece plimbarea până la Loshavn este lungă.",
+          "Verificați prognoza meteo; vremea de coastă se poate schimba rapid.",
+          "Luați cu dumneavoastră o sticlă de apă reutilizabilă.",
+          "Multe magazine închid devreme, așa că planificați-vă cumpărăturile pentru dimineață."
+        ],
+        "en": [
+          "Wear comfortable shoes as the walk to Loshavn is long.",
+          "Check the weather forecast; coastal weather can change quickly.",
+          "Bring a reusable water bottle.",
+          "Many shops close early, so plan any shopping for the morning."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafen von Farsund",
+            "hu": "Farsundi kikötő",
+            "ro": "Portul Farsund",
+            "en": "Farsund Harbour"
+          },
+          "coords": [
+            6.802,
+            58.091
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Holen Sie sich Ihr Fahrrad und genießen Sie die frische Meeresbrise.",
+            "hu": "Vegye át a kerékpárt, és élvezze a friss tengeri szellőt.",
+            "ro": "Luați-vă bicicleta și bucurați-vă de briza proaspătă a mării.",
+            "en": "Pick up your bike and enjoy the fresh sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Husan und Farsund Kirche",
+            "hu": "Husan és Farsundi templom",
+            "ro": "Husan și Biserica Farsund",
+            "en": "Husan and Farsund Church"
+          },
+          "coords": [
+            6.804,
+            58.094
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:46",
+          "stay_min": 70,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie diese beiden nahe gelegenen Juwelen zu Fuß.",
+            "hu": "Parkolja le a kerékpárt, és fedezze fel gyalog ezt a két közeli ékszert.",
+            "ro": "Parcați bicicleta și explorați pe jos aceste două bijuterii din apropiere.",
+            "en": "Park your bike and explore these two nearby gems on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Radtour nach Vanse",
+            "hu": "Kerékpártúra Vanse-ba",
+            "ro": "Tur cu bicicleta la Vanse",
+            "en": "Bike ride to Vanse"
+          },
+          "coords": [
+            6.68,
+            58.1
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:31",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.0,
+          "tip_4lang": {
+            "de": "Vanse hat eine starke amerikanische Verbindung. Suchen Sie nach amerikanischen Flaggen und Diners.",
+            "hu": "Vanse erős amerikai kötődéssel rendelkezik. Keressen amerikai zászlókat és étkezdéket.",
+            "ro": "Vanse are o puternică legătură americană. Căutați steaguri americane și restaurante tipice.",
+            "en": "Vanse has a strong American connection. Look for American flags and diners."
+          }
+        },
+        {
+          "name": {
+            "de": "Loshavn",
+            "hu": "Loshavn",
+            "ro": "Loshavn",
+            "en": "Loshavn"
+          },
+          "coords": [
+            6.83,
+            58.07
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:41",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 8.0,
+          "tip_4lang": {
+            "de": "Die Fahrt ist hügelig, aber die Aussicht und das Dorf sind es wert. Zeit fürs Mittagessen!",
+            "hu": "Az út dombos, de a kilátás és a falu megéri. Itt az ebédidő!",
+            "ro": "Drumul este deluros, dar priveliștea și satul merită. Timp pentru prânz!",
+            "en": "The ride is hilly, but the views and the village are worth it. Time for lunch!"
+          }
+        },
+        {
+          "name": {
+            "de": "Bøensbakken Aussichtspunkt",
+            "hu": "Bøensbakken kilátó",
+            "ro": "Punctul de belvedere Bøensbakken",
+            "en": "Bøensbakken Viewpoint"
+          },
+          "coords": [
+            6.79,
+            58.08
+          ],
+          "category": "natural features",
+          "arrive_at": "15:23",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_4lang": {
+            "de": "Ein kurzer Stopp für einen atemberaubenden Blick auf die Küste auf dem Rückweg nach Farsund.",
+            "hu": "Egy rövid megálló a partvidék lélegzetelállító látványáért Farsund felé visszavezető úton.",
+            "ro": "O oprire scurtă pentru o vedere uluitoare a coastei în drum spre Farsund.",
+            "en": "A quick stop for a breathtaking coastal view on the way back to Farsund."
+          }
+        },
+        {
+          "name": {
+            "de": "Ankunft in Farsund",
+            "hu": "Érkezés Farsundba",
+            "ro": "Sosire în Farsund",
+            "en": "Arrival in Farsund"
+          },
+          "coords": [
+            6.802,
+            58.091
+          ],
+          "category": "port",
+          "arrive_at": "16:21",
+          "stay_min": 54,
+          "hop_mode": "bike",
+          "hop_from_prev_min": -18,
+          "hop_from_prev_km": -3.0,
+          "tip_4lang": {
+            "de": "Geben Sie Ihr Fahrrad zurück und genießen Sie ein wohlverdientes Abendessen.",
+            "hu": "Adja le a kerékpárt, és élvezze a jól megérdemelt vacsorát.",
+            "ro": "Returnați bicicleta și bucurați-vă de o cină binemeritată.",
+            "en": "Return your bike and enjoy a well-deserved dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt im Herzen von Farsund und führt Sie zu den architektonischen Wundern Husan und der Kirche. Anschließend radeln Sie westwärts nach Vanse, einem Dorf mit überraschend amerikanischem Flair. Der anspruchsvollere Teil der Reise führt Sie nach Süden zum idyllischen Loshavn, perfekt für eine Mittagspause. Auf dem Rückweg halten Sie am Aussichtspunkt Bøensbakken, um die Küstenlandschaft zu bewundern, bevor Sie den Tag entspannt in Farsund ausklingen lassen.",
+        "hu": "Kerékpártúrája Farsund szívéből indul, elvezetve a Husan és a templom építészeti csodáihoz. Ezután nyugat felé, Vanse-ba teker, egy meglepően amerikai hangulatú faluba. Az utazás nagyobb kihívást jelentő része délre, az idilli Loshavnba visz, amely tökéletes egy ebédszünetre. Visszafelé megáll a Bøensbakken kilátónál, hogy megcsodálja a partvidéket, mielőtt Farsundban fejezné be a napot.",
+        "ro": "Turul dvs. cu bicicleta începe în inima orașului Farsund, ducându-vă la minunile arhitecturale Husan și biserică. Apoi pedalați spre vest, spre Vanse, un sat cu o aromă americană surprinzătoare. Partea mai provocatoare a călătoriei vă duce spre sud, în idilicul Loshavn, perfect pentru o pauză de prânz. Pe drumul de întoarcere, opriți-vă la punctul de belvedere Bøensbakken pentru a admira peisajul de coastă înainte de a încheia ziua relaxat în Farsund.",
+        "en": "Your bike tour starts in the heart of Farsund, leading you to the architectural wonders of Husan and the church. You'll then pedal west to Vanse, a village with a surprising American flavour. The more challenging part of the journey takes you south to idyllic Loshavn, perfect for a lunch break. On the way back, you'll stop at the Bøensbakken viewpoint to admire the coastal scenery before ending the day relaxing in Farsund."
+      },
+      "gastro_picks": {},
+      "quiet_picks": {},
+      "shopping_picks": {},
+      "tips": {}
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 42.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Farsund Zentrum: Hafen",
+            "hu": "Farsund központ klaszter: Kikötő",
+            "ro": "Cluster Centru Farsund: Port",
+            "en": "Farsund Centre Cluster: Harbour"
+          },
+          "coords": [
+            6.802,
+            58.091
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Parken Sie Ihr Auto und beginnen Sie den Spaziergang durch das Zentrum.",
+            "hu": "Parkolja le az autót, és induljon a séta a központban.",
+            "ro": "Parcați mașina și începeți plimbarea prin centru.",
+            "en": "Park your car and start the walk through the centre."
+          }
+        },
+        {
+          "name": {
+            "de": "Husan und Farsund Kirche",
+            "hu": "Husan és Farsundi templom",
+            "ro": "Husan și Biserica Farsund",
+            "en": "Husan and Farsund Church"
+          },
+          "coords": [
+            6.804,
+            58.094
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:38",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Ein kurzer Spaziergang vom Hafen zu diesen beeindruckenden Holzbauten.",
+            "hu": "Egy rövid séta a kikötőtől ezekhez a lenyűgöző faépületekhez.",
+            "ro": "O scurtă plimbare de la port la aceste impresionante clădiri din lemn.",
+            "en": "A short walk from the harbour to these impressive wooden buildings."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Lista: Nordberg Fort",
+            "hu": "Lista klaszter: Nordberg erőd",
+            "ro": "Cluster Lista: Fortul Nordberg",
+            "en": "Lista Cluster: Nordberg Fort"
+          },
+          "coords": [
+            6.62,
+            58.11
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:21",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 33,
+          "hop_from_prev_km": 15.0,
+          "tip_4lang": {
+            "de": "Eine Festung aus dem 2. Weltkrieg mit toller Aussicht. Parken Sie hier für den Cluster.",
+            "hu": "Egy 2. világháborús erőd, nagyszerű kilátással. Parkoljon itt a klaszterhez.",
+            "ro": "O fortăreață din Al Doilea Război Mondial cu priveliști minunate. Parcați aici pentru acest cluster.",
+            "en": "A WWII fortress with great views. Park here for the cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Lista Leuchtturm",
+            "hu": "Lista világítótorony",
+            "ro": "Farul Lista",
+            "en": "Lista Lighthouse"
+          },
+          "coords": [
+            6.56,
+            58.09
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:31",
+          "stay_min": 100,
+          "hop_mode": "car",
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 6.0,
+          "tip_4lang": {
+            "de": "Ein kurzer Spaziergang vom Fort. Steigen Sie für die beste Aussicht hinauf und essen Sie zu Mittag.",
+            "hu": "Rövid séta az erődtől. Másszon fel a legjobb kilátásért és ebédeljen.",
+            "ro": "O plimbare scurtă de la fort. Urcați pentru cea mai bună priveliște și luați prânzul.",
+            "en": "A short walk from the fort. Climb up for the best view and have lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Bøensbakken",
+            "hu": "Bøensbakken",
+            "ro": "Bøensbakken",
+            "en": "Bøensbakken"
+          },
+          "coords": [
+            6.6,
+            58.08
+          ],
+          "category": "natural features",
+          "arrive_at": "15:23",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Ein schöner Ort, um die Küstenlandschaft zu genießen, bevor es weitergeht.",
+            "hu": "Egy gyönyörű hely a partvidék élvezetére, mielőtt továbbindulna.",
+            "ro": "Un loc frumos pentru a vă bucura de peisajul de coastă înainte de a merge mai departe.",
+            "en": "A beautiful spot to enjoy the coastal scenery before moving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Loshavn",
+            "hu": "Loshavn klaszter",
+            "ro": "Cluster Loshavn",
+            "en": "Loshavn Cluster"
+          },
+          "coords": [
+            6.83,
+            58.07
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:34",
+          "stay_min": 50,
+          "hop_mode": "car",
+          "hop_from_prev_min": 41,
+          "hop_from_prev_km": 20.0,
+          "tip_4lang": {
+            "de": "Beenden Sie den Tag in diesem perfekt erhaltenen Dorf. Parken und spazieren gehen.",
+            "hu": "Fejezze be a napot ebben a tökéletesen megőrzött faluban. Parkoljon és sétáljon.",
+            "ro": "Încheiați ziua în acest sat perfect conservat. Parcați și plimbați-vă.",
+            "en": "End your day in this perfectly preserved village. Park and walk around."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt nach Farsund",
+            "hu": "Visszaút Farsundba",
+            "ro": "Întoarcere la Farsund",
+            "en": "Drive back to Farsund"
+          },
+          "coords": [
+            6.8,
+            58.09
+          ],
+          "category": "port",
+          "arrive_at": "17:34",
+          "stay_min": 21,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "tip_4lang": {
+            "de": "Zeit für ein Abendessen mit Blick auf den Hafen.",
+            "hu": "Ideje vacsorázni a kikötőre néző kilátással.",
+            "ro": "Timpul pentru o cină cu vedere la port.",
+            "en": "Time for dinner overlooking the harbour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Farsund und seine atemberaubende Umgebung. Der Morgen beginnt mit einem Spaziergang durch das historische Zentrum von Farsund. Anschließend fahren Sie zur Halbinsel Lista, wo Sie das Nordberg Fort und den berühmten Leuchtturm erkunden – eine Gegend, die sich perfekt für einen Spaziergang und eine Mittagspause eignet. Der Nachmittag führt Sie in das charmante, historische Dorf Loshavn, ein Juwel an der Küste, bevor Sie nach Farsund zurückkehren.",
+        "hu": "Autóval felfedezheti Farsundot és lenyűgöző környékét. A reggel Farsund történelmi központjában tett sétával kezdődik. Ezután a Lista-félszigetre hajt, ahol felfedezi a Nordberg erődöt és a híres világítótornyot – egy terület, amely tökéletes egy sétához és egy ebédszünethez. A délután a bájos, történelmi Loshavn faluba vezet, a partvidék egy ékkövébe, mielőtt visszatérne Farsundba.",
+        "ro": "Cu mașina, explorați Farsund și împrejurimile sale uimitoare. Dimineața începe cu o plimbare prin centrul istoric al orașului Farsund. Apoi conduceți spre peninsula Lista pentru a explora Fortul Nordberg și faimosul său far - o zonă perfectă pentru o plimbare și o pauză de prânz. După-amiaza vă duce în fermecătorul sat istoric Loshavn, o bijuterie de coastă, înainte de a vă întoarce la Farsund.",
+        "en": "By car, you'll explore Farsund and its stunning surroundings. The morning starts with a walking cluster in Farsund's historic centre. You then drive to the Lista peninsula to explore Nordberg Fort and the iconic lighthouse – an area perfect for a walk and a lunch break. The afternoon takes you to the charming historic village of Loshavn, a coastal gem, before returning to Farsund."
+      },
+      "gastro_picks": {},
+      "quiet_picks": {},
+      "shopping_picks": {},
+      "tips": {}
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 24.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Farsund Zentrum: Busbahnhof",
+            "hu": "Farsund központ klaszter: Buszpályaudvar",
+            "ro": "Cluster Centru Farsund: Autogară",
+            "en": "Farsund Centre Cluster: Bus Station"
+          },
+          "coords": [
+            6.801,
+            58.092
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Beginnen Sie am zentralen Busbahnhof.",
+            "hu": "Kezdje a központi buszpályaudvaron.",
+            "ro": "Începeți de la autogara centrală.",
+            "en": "Start at the central bus station."
+          }
+        },
+        {
+          "name": {
+            "de": "Husan und Farsund Kirche",
+            "hu": "Husan és Farsundi templom",
+            "ro": "Husan și Biserica Farsund",
+            "en": "Husan and Farsund Church"
+          },
+          "coords": [
+            6.804,
+            58.094
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:38",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Erkunden Sie das Stadtzentrum zu Fuß, bevor Sie den Bus nehmen.",
+            "hu": "Fedezze fel gyalog a városközpontot, mielőtt buszra szállna.",
+            "ro": "Explorați centrul orașului pe jos înainte de a lua autobuzul.",
+            "en": "Explore the town centre on foot before catching the bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Vanse",
+            "hu": "Vanse klaszter",
+            "ro": "Cluster Vanse",
+            "en": "Vanse Cluster"
+          },
+          "coords": [
+            6.68,
+            58.1
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:24",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 9.0,
+          "tip_4lang": {
+            "de": "Nehmen Sie den Bus nach Vanse. Erkunden Sie dieses 'amerikanische' Dorf und essen Sie zu Mittag.",
+            "hu": "Szálljon buszra Vanse felé. Fedezze fel ezt az 'amerikai' falut és ebédeljen.",
+            "ro": "Luați autobuzul spre Vanse. Explorați acest sat „american” și luați prânzul.",
+            "en": "Take the bus to Vanse. Explore this 'American' village and have lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Loshavn",
+            "hu": "Loshavn klaszter",
+            "ro": "Cluster Loshavn",
+            "en": "Loshavn Cluster"
+          },
+          "coords": [
+            6.83,
+            58.07
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:54",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 15.0,
+          "tip_4lang": {
+            "de": "Eine Busfahrt zurück durch Farsund und weiter nach Loshavn. Genießen Sie die Atmosphäre.",
+            "hu": "Buszozzon vissza Farsundon keresztül Loshavnba. Élvezze a hangulatot.",
+            "ro": "O călătorie cu autobuzul înapoi prin Farsund și spre Loshavn. Bucurați-vă de atmosferă.",
+            "en": "A bus ride back through Farsund and on to Loshavn. Enjoy the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Farsund Hafen",
+            "hu": "Farsundi kikötő",
+            "ro": "Portul Farsund",
+            "en": "Farsund Harbour"
+          },
+          "coords": [
+            6.802,
+            58.091
+          ],
+          "category": "port",
+          "arrive_at": "16:02",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Ein kurzer Spaziergang vom Busbahnhof, um den Tag am Wasser ausklingen zu lassen.",
+            "hu": "Egy rövid séta a buszpályaudvartól, hogy a napot a vízparton fejezze be.",
+            "ro": "O scurtă plimbare de la autogară pentru a încheia ziua pe malul apei.",
+            "en": "A short walk from the bus station to end the day by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Ende der Tour",
+            "hu": "A túra vége",
+            "ro": "Sfârșitul turului",
+            "en": "End of Tour"
+          },
+          "coords": [
+            6.801,
+            58.092
+          ],
+          "category": "port",
+          "arrive_at": "17:32",
+          "stay_min": 8,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Zurück am Busbahnhof, bereit für die Abreise.",
+            "hu": "Vissza a buszpályaudvarra, indulásra készen.",
+            "ro": "Înapoi la autogară, gata de plecare.",
+            "en": "Back at the bus station, ready for departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln entdecken Sie die Vielfalt der Region Farsund. Sie beginnen im Stadtzentrum von Farsund, bevor Sie mit dem Bus nach Vanse fahren, einem Dorf mit einzigartigem amerikanischem Erbe. Nach dem Mittagessen bringt Sie ein weiterer Bus in das malerische und ruhige Loshavn. Der Tag endet mit einem entspannten Spaziergang am Hafen von Farsund, der leicht vom zentralen Busbahnhof aus zu erreichen ist.",
+        "hu": "A tömegközlekedéssel felfedezheti a Farsund régió sokszínűségét. Farsund városközpontjában kezd, mielőtt busszal Vanse-ba utazik, egy egyedülálló amerikai örökséggel rendelkező faluba. Ebéd után egy másik busz viszi a festői és csendes Loshavnba. A nap Farsund kikötőjében tett nyugodt sétával zárul, amely könnyen megközelíthető a központi buszpályaudvartól.",
+        "ro": "Folosind transportul public, veți descoperi diversitatea regiunii Farsund. Începeți în centrul orașului Farsund înainte de a lua autobuzul spre Vanse, un sat cu o moștenire americană unică. După prânz, un alt autobuz vă duce în pitorescul și liniștitul Loshavn. Ziua se încheie cu o plimbare relaxantă în portul din Farsund, ușor accesibil de la autogara centrală.",
+        "en": "Using public transport, you'll discover the diversity of the Farsund region. You start in Farsund's town centre before taking a bus to Vanse, a village with a unique American heritage. After lunch, another bus takes you to the picturesque and tranquil Loshavn. The day concludes with a relaxing stroll in Farsund's harbour, easily accessible from the central bus station."
+      },
+      "gastro_picks": {},
+      "quiet_picks": {},
+      "shopping_picks": {},
+      "tips": {}
+    }
+  }
+}

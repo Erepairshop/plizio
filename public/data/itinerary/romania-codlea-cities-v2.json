@@ -1,0 +1,1428 @@
+{
+  "city_id": "romania-codlea-cities-v2",
+  "anchor": {
+    "name": "Zeiden",
+    "coords": [
+      25.45,
+      45.7
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 3.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Zeiden",
+            "hu": "Feketehalom Városháza",
+            "ro": "Primăria Codlea",
+            "en": "Codlea Town Hall"
+          },
+          "coords": [
+            25.451,
+            45.699
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die sächsische Architektur im Herzen der Stadt.",
+            "hu": "Csodálja meg a szász építészetet a város szívében.",
+            "ro": "Admirați arhitectura săsească din inima orașului.",
+            "en": "Admire the Saxon architecture in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Evangelische Kirchenburg",
+            "hu": "Evangélikus erődtemplom",
+            "ro": "Biserica Evanghelică Fortificată",
+            "en": "Fortified Evangelical Church"
+          },
+          "coords": [
+            25.453,
+            45.698
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Steigen Sie auf den Turm, um einen Panoramablick auf Codlea zu genießen.",
+            "hu": "Menjen fel a toronyba a Feketehalomra nyíló panorámáért.",
+            "ro": "Urcați în turn pentru o vedere panoramică asupra Codlei.",
+            "en": "Climb the tower for a panoramic view of Codlea."
+          }
+        },
+        {
+          "name": {
+            "de": "Orthodoxe Kirche Hl. Dreifaltigkeit",
+            "hu": "Szentháromság Ortodox Templom",
+            "ro": "Biserica Ortodoxă Sfânta Treime",
+            "en": "Holy Trinity Orthodox Church"
+          },
+          "coords": [
+            25.455,
+            45.699
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beachten Sie den Kontrast in Stil und Ikonographie zur evangelischen Kirche.",
+            "hu": "Figyelje meg a stílus és az ikonográfia kontrasztját az evangélikus templommal.",
+            "ro": "Observați contrastul de stil și iconografie față de biserica evanghelică.",
+            "en": "Note the contrast in style and iconography with the Evangelical church."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Traditionen",
+            "hu": "Hagyományok Múzeuma",
+            "ro": "Muzeul Tradițiilor Codlene",
+            "en": "Museum of Traditions"
+          },
+          "coords": [
+            25.452,
+            45.701
+          ],
+          "category": "museums",
+          "arrive_at": "11:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ideal, um das lokale sächsische und rumänische Erbe zu verstehen.",
+            "hu": "Tökéletes hely a helyi szász és román örökség megértéséhez.",
+            "ro": "Ideal pentru a înțelege moștenirea locală săsească și românească.",
+            "en": "Ideal for understanding the local Saxon and Romanian heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Heldendenkmal",
+            "hu": "Hősök emlékműve",
+            "ro": "Monumentul Eroilor",
+            "en": "Heroes' Monument"
+          },
+          "coords": [
+            25.449,
+            45.703
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:40",
+          "stay_min": 15,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein Moment der Besinnung auf die lokale Geschichte.",
+            "hu": "Egy pillanatnyi elmélkedés a helyi történelemről.",
+            "ro": "Un moment de reflecție asupra istoriei locale.",
+            "en": "A moment of reflection on local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Freibad Codlea",
+            "hu": "Feketehalmi strand",
+            "ro": "Ștrandul Codlea",
+            "en": "Codlea swimming pool"
+          },
+          "coords": [
+            25.439,
+            45.705
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Ein entspannender Abschluss des Tages, besonders im Sommer.",
+            "hu": "Pihentető befejezése a napnak, különösen nyáron.",
+            "ro": "Un final relaxant al zilei, mai ales vara.",
+            "en": "A relaxing end to the day, especially in summer."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang durch Zeiden beginnt im historischen Zentrum, geprägt von sächsischer Architektur. Am Morgen erkunden Sie die imposante evangelische Kirchenburg, das Herz der Stadt. Mittags tauchen Sie im Museum in die lokalen Traditionen ein und entdecken die vielfältige Geschichte der Region. Nachmittags führt Sie der Weg zu einem Moment des Gedenkens am Heldendenkmal, bevor Sie den Tag entspannt im Grünen ausklingen lassen. Am Abend genießen Sie die herzhafte siebenbürgische Küche in einem der gemütlichen Restaurants.",
+        "hu": "Sétája Feketehalmon a szász építészet által fémjelzett történelmi központban kezdődik. Délelőtt a város szívét, a lenyűgöző evangélikus erődtemplomot fedezi fel. Délben a múzeumban elmerül a helyi hagyományokban és a régió változatos történelmében. Délután a Hősök emlékművénél egy rövid megemlékezés után a zöldben pihenve zárja a napot. Este pedig élvezze a kiadós erdélyi konyhát egy hangulatos étteremben.",
+        "ro": "Plimbarea dumneavoastră prin Codlea începe în centrul istoric, marcat de arhitectura săsească. Dimineața explorați impunătoarea Biserică Evanghelică Fortificată, inima orașului. La prânz, la muzeu, vă scufundați în tradițiile locale și descoperiți istoria diversă a regiunii. După-amiaza, drumul vă duce la un moment de reculegere la Monumentul Eroilor, înainte de a încheia ziua relaxându-vă în natură. Seara, savurați bucătăria transilvăneană consistentă într-unul dintre restaurantele primitoare.",
+        "en": "Your walk through Codlea begins in the historic center, marked by Saxon architecture. In the morning, you'll explore the imposing Fortified Evangelical Church, the heart of the city. At noon, delve into local traditions at the museum and discover the region's diverse history. In the afternoon, your path leads you to a moment of reflection at the Heroes' Monument before ending the day relaxing in the green. In the evening, enjoy hearty Transylvanian cuisine in one of the cozy restaurants."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "Eine traditionelle rumänische Kuttelsuppe, die man probieren muss."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Kohlrouladen mit Polenta, ein Nationalgericht."
+          },
+          {
+            "name": "La Ceaun",
+            "tip": "Bekannt für seine authentischen, langsam gekochten Gerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pacalleves (Ciorbă de burtă)",
+            "tip": "Hagyományos román leves, amit érdemes megkóstolni."
+          },
+          {
+            "name": "Töltött káposzta (Sarmale)",
+            "tip": "Káposztatekercs puliszkával, egy nemzeti étel."
+          },
+          {
+            "name": "La Ceaun",
+            "tip": "Híres az autentikus, lassan főtt ételeiről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "O supă tradițională românească ce trebuie încercată."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Sărmăluțe cu mămăliguță, o mâncare națională."
+          },
+          {
+            "name": "La Ceaun",
+            "tip": "Renumit pentru preparatele sale autentice, gătite lent."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ciorbă de burtă (Tripe soup)",
+            "tip": "A traditional Romanian soup that's a must-try."
+          },
+          {
+            "name": "Sarmale (Cabbage rolls)",
+            "tip": "Cabbage rolls with polenta, a national dish."
+          },
+          {
+            "name": "La Ceaun",
+            "tip": "Known for its authentic, slow-cooked dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Codlea-Bachs",
+            "tip": "Ein ruhiger Spaziergang entlang des Wassers.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Friedhof der Kirchenburg",
+            "tip": "Ein friedlicher, historischer Ort zum Nachdenken.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Blick von Măgura Codlei",
+            "tip": "Die Wanderung lohnt sich für die atemberaubende Aussicht bei Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Feketehalmi-patak partja",
+            "tip": "Egy csendes séta a víz mentén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Az erődtemplom temetője",
+            "tip": "Békés, történelmi hely az elmélyülésre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás a Feketehalmi-hegyről (Măgura Codlei)",
+            "tip": "A túra megéri a naplementekor nyíló lélegzetelállító kilátásért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul pârâului Codlea",
+            "tip": "O plimbare liniștită de-a lungul apei.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cimitirul Bisericii Fortificate",
+            "tip": "Un loc pașnic, istoric, pentru reflecție.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vedere de pe Măgura Codlei",
+            "tip": "Drumeția merită pentru priveliștea uluitoare la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Codlea stream",
+            "tip": "A quiet walk along the water.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cemetery of the Fortified Church",
+            "tip": "A peaceful, historic place for reflection.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from Măgura Codlei",
+            "tip": "The hike is worth it for the breathtaking sunset view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte und hausgemachten Käse."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Suchen Sie nach handgefertigter Keramik und Textilien aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket és házi sajtot."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keressen kézzel készített kerámiákat és textíliákat a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse proaspete și brânză de casă."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Căutați ceramică și textile lucrate manual din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for fresh produce and homemade cheese."
+          },
+          {
+            "name": "Craft Shops",
+            "tip": "Look for handmade pottery and textiles from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind leicht zu Fuß erreichbar.",
+          "Nehmen Sie sich Zeit, um die Details der sächsischen Tore und Fassaden zu bewundern.",
+          "Fragen Sie im Museum nach geführten Touren, um tiefere Einblicke zu erhalten."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakövek egyenetlenek lehetnek.",
+          "A legtöbb belvárosi látnivaló könnyen megközelíthető gyalog.",
+          "Szánjon időt a szász kapuk és homlokzatok részleteinek megcsodálására.",
+          "Érdeklődjön a múzeumban vezetett túrákról a mélyebb betekintés érdekében."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul poate fi denivelat.",
+          "Majoritatea atracțiilor din centrul orașului sunt ușor accesibile pe jos.",
+          "Acordați-vă timp pentru a admira detaliile porților și fațadelor săsești.",
+          "Întrebați la muzeu despre tururi ghidate pentru o perspectivă mai profundă."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones can be uneven.",
+          "Most sights in the city center are within easy walking distance.",
+          "Take time to admire the details of the Saxon gates and facades.",
+          "Ask at the museum for guided tours to get deeper insights."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 14.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Zeiden",
+            "hu": "Feketehalom Városháza",
+            "ro": "Primăria Codlea",
+            "en": "Codlea Town Hall"
+          },
+          "coords": [
+            25.451,
+            45.699
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein guter Ausgangspunkt mit Parkmöglichkeiten für Ihr Fahrrad.",
+            "hu": "Jó kiindulópont, kerékpár parkolási lehetőséggel.",
+            "ro": "Un bun punct de plecare cu locuri de parcare pentru bicicletă.",
+            "en": "A good starting point with parking spots for your bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Evangelische Kirchenburg",
+            "hu": "Evangélikus erődtemplom",
+            "ro": "Biserica Evanghelică Fortificată",
+            "en": "Fortified Evangelical Church"
+          },
+          "coords": [
+            25.453,
+            45.698
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Eingang an und erkunden Sie die Festungsmauern.",
+            "hu": "Zárja le a kerékpárt a bejáratnál, és fedezze fel az erőd falait.",
+            "ro": "Legați bicicleta la intrare și explorați zidurile cetății.",
+            "en": "Lock your bike at the entrance and explore the fortress walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Schwarze Burg",
+            "hu": "Fekete Vár",
+            "ro": "Cetatea Neagră",
+            "en": "Black Fortress"
+          },
+          "coords": [
+            25.441,
+            45.688
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Die Auffahrt ist eine Herausforderung, aber die Aussicht ist es wert.",
+            "hu": "Az út felfelé kihívást jelent, de a kilátás megéri.",
+            "ro": "Urcușul este o provocare, dar priveliștea merită.",
+            "en": "The ride up is challenging, but the view is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Freibad Codlea",
+            "hu": "Feketehalmi strand",
+            "ro": "Ștrandul Codlea",
+            "en": "Codlea swimming pool"
+          },
+          "coords": [
+            25.439,
+            45.705
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Perfekt für eine erfrischende Pause an einem warmen Tag.",
+            "hu": "Tökéletes egy frissítő szünetre egy meleg napon.",
+            "ro": "Perfect pentru o pauză răcoritoare într-o zi caldă.",
+            "en": "Perfect for a refreshing break on a warm day."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Traditionen",
+            "hu": "Hagyományok Múzeuma",
+            "ro": "Muzeul Tradițiilor Codlene",
+            "en": "Museum of Traditions"
+          },
+          "coords": [
+            25.452,
+            45.701
+          ],
+          "category": "museums",
+          "arrive_at": "13:37",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Eine großartige kulturelle Ergänzung zu den Outdoor-Aktivitäten.",
+            "hu": "Nagyszerű kulturális kiegészítő a szabadtéri tevékenységekhez.",
+            "ro": "O completare culturală excelentă la activitățile în aer liber.",
+            "en": "A great cultural addition to the outdoor activities."
+          }
+        },
+        {
+          "name": {
+            "de": "Măgura Codlei",
+            "hu": "Măgura Codlei (Feketehalmi-hegy)",
+            "ro": "Măgura Codlei",
+            "en": "Măgura Codlei"
+          },
+          "coords": [
+            25.4,
+            45.72
+          ],
+          "category": "natural features",
+          "arrive_at": "15:41",
+          "stay_min": 60,
+          "hop_from_prev_min": 34,
+          "hop_from_prev_km": 8.2,
+          "tip_5lang": {
+            "de": "Der letzte Anstieg ist steil, aber der Panoramablick zum Abschluss des Tages ist unbezahlbar.",
+            "hu": "Az utolsó emelkedő meredek, de a panoráma a nap végén megfizethetetlen.",
+            "ro": "Ultima urcare este abruptă, dar vederea panoramică la finalul zilei este neprețuită.",
+            "en": "The final climb is steep, but the panoramic view to end the day is priceless."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Rathaus von Zeiden und radeln Sie zur historischen Kirchenburg. Am Morgen bezwingen Sie den Anstieg zur Schwarzen Burg für eine fabelhafte Aussicht. Mittags erfrischen Sie sich im Freibad, bevor Sie im Museum in die lokale Kultur eintauchen. Am Nachmittag wartet die größte Herausforderung und Belohnung: die Radtour zur Măgura Codlei, wo Sie mit einem atemberaubenden Panoramablick auf das Burzenland den Tag ausklingen lassen. Zum Abend kehren Sie für eine wohlverdiente Mahlzeit ins Stadtzentrum zurück.",
+        "hu": "Kezdje a kerékpártúrát a feketehalmi városházától, majd tekerjen a történelmi erődtemplomhoz. Délelőtt hódítsa meg a Fekete Vár emelkedőjét a mesés kilátásért. Délben frissüljön fel a strandon, mielőtt a múzeumban elmerülne a helyi kultúrában. Délután várja a legnagyobb kihívás és jutalom: a kerékpártúra a Măgura Codlei-re, ahol a Barcaságra nyíló lélegzetelállító panorámával zárja a napot. Este térjen vissza a városközpontba egy jól megérdemelt vacsorára.",
+        "ro": "Începeți turul cu bicicleta de la Primăria Codlea și pedalați spre istorica Biserică Fortificată. Dimineața, cuceriți urcarea spre Cetatea Neagră pentru o priveliște fabuloasă. La prânz, vă răcoriți la ștrand înainte de a vă cufunda în cultura locală la muzeu. După-amiaza vă așteaptă cea mai mare provocare și recompensă: turul cu bicicleta la Măgura Codlei, unde încheiați ziua cu o panoramă uluitoare asupra Țării Bârsei. Seara, reveniți în centrul orașului pentru o masă binemeritată.",
+        "en": "Start your bike tour at Codlea Town Hall and cycle to the historic Fortified Church. In the morning, conquer the climb to the Black Fortress for a fabulous view. At noon, cool off at the swimming pool before immersing yourself in local culture at the museum. In the afternoon, the biggest challenge and reward awaits: the bike tour to Măgura Codlei, where you'll end the day with a breathtaking panoramic view of the Burzenland. In the evening, return to the city center for a well-deserved meal."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mici",
+            "tip": "Gegrillte Hackfleischröllchen, ein beliebtes rumänisches Streetfood."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Ein köstliches Dessert aus gebratenem Teig, Sauerrahm und Marmelade."
+          },
+          {
+            "name": "Restaurant Codrisor",
+            "tip": "Bietet eine große Auswahl an traditionellen Gerichten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mics (Mici)",
+            "tip": "Grillezett darált hús rolád, népszerű román street food."
+          },
+          {
+            "name": "Túrós fánk (Papanași)",
+            "tip": "Ízletes desszert sült tésztából, tejföllel és lekvárral."
+          },
+          {
+            "name": "Codrisor Étterem",
+            "tip": "Hagyományos ételek széles választékát kínálja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mici",
+            "tip": "Rulouri de carne tocată la grătar, un street food popular românesc."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Un desert delicios din aluat prăjit, smântână și gem."
+          },
+          {
+            "name": "Restaurant Codrisor",
+            "tip": "Oferă o gamă largă de mâncăruri tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mici (Grilled minced meat rolls)",
+            "tip": "A popular Romanian street food."
+          },
+          {
+            "name": "Papanași (Cheese doughnuts)",
+            "tip": "A delicious dessert of fried dough, sour cream, and jam."
+          },
+          {
+            "name": "Codrisor Restaurant",
+            "tip": "Offers a wide variety of traditional dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wanderwege um Măgura Codlei",
+            "tip": "Finden Sie einen ruhigen Platz abseits der Hauptwege.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Früher Morgen an der Kirchenburg",
+            "tip": "Erleben Sie die Stille, bevor die Besucher kommen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Pause am Freibad",
+            "tip": "Legen Sie sich ins Gras und lauschen Sie den Geräuschen des Sommers.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Túraútvonalak a Măgura Codlei körül",
+            "tip": "Találjon egy csendes helyet a fő útvonalaktól távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kora reggel az erődtemplomnál",
+            "tip": "Tapasztalja meg a csendet, mielőtt megérkeznek a látogatók.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Pihenő a strandnál",
+            "tip": "Feküdjön a fűbe, és hallgassa a nyár hangjait.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trasee de drumeție în jurul Măgurii Codlei",
+            "tip": "Găsiți un loc liniștit departe de potecile principale.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dimineața devreme la Biserica Fortificată",
+            "tip": "Experimentați liniștea înainte de sosirea vizitatorilor.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Pauză la ștrand",
+            "tip": "Întindeți-vă pe iarbă și ascultați sunetele verii.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hiking trails around Măgura Codlei",
+            "tip": "Find a quiet spot off the main paths.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Early morning at the Fortified Church",
+            "tip": "Experience the silence before the visitors arrive.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Break at the swimming pool",
+            "tip": "Lie in the grass and listen to the sounds of summer.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Für Ersatzteile oder ein lokales Radtrikot als Souvenir."
+          },
+          {
+            "name": "Lokale Imkereien",
+            "tip": "Kaufen Sie Honig aus der Region, eine Spezialität Siebenbürgens."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Pótalkatrészekért vagy egy helyi kerékpáros mezért szuvenírként."
+          },
+          {
+            "name": "Helyi méhészetek",
+            "tip": "Vásároljon helyi mézet, ami erdélyi specialitás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Pentru piese de schimb sau un tricou de ciclism local ca suvenir."
+          },
+          {
+            "name": "Stupine locale",
+            "tip": "Cumpărați miere locală, o specialitate a Transilvaniei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "For spare parts or a local cycling jersey as a souvenir."
+          },
+          {
+            "name": "Local Apiaries",
+            "tip": "Buy local honey, a specialty of Transylvania."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck, bevor Sie losfahren.",
+          "Einige Anstiege sind steil; schalten Sie rechtzeitig in einen kleineren Gang.",
+          "Nehmen Sie ausreichend Wasser mit, besonders für die Fahrt zur Măgura Codlei.",
+          "Ein Helm wird dringend empfohlen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Néhány emelkedő meredek; időben váltson kisebb sebességfokozatba.",
+          "Vigyen magával elegendő vizet, különösen a Măgura Codlei-re vezető útra.",
+          "A sisak viselése erősen ajánlott."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope înainte de a porni.",
+          "Unele urcări sunt abrupte; schimbați într-o treaptă de viteză inferioară din timp.",
+          "Luați suficientă apă cu dumneavoastră, mai ales pentru drumul spre Măgura Codlei.",
+          "Casca este puternic recomandată."
+        ],
+        "en": [
+          "Check your tire pressure before you start.",
+          "Some climbs are steep; shift to a lower gear in time.",
+          "Bring enough water, especially for the ride to Măgura Codlei.",
+          "A helmet is strongly recommended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:41",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum",
+            "hu": "Központi parkoló",
+            "ro": "Parcare Centru",
+            "en": "Central Parking"
+          },
+          "coords": [
+            25.45,
+            45.7
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier, um den historischen Kern zu Fuß zu erkunden.",
+            "hu": "Parkoljon itt, hogy gyalog fedezze fel a történelmi városmagot.",
+            "ro": "Parcați aici pentru a explora nucleul istoric pe jos.",
+            "en": "Park here to explore the historic core on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus und Evangelische Kirchenburg",
+            "hu": "Városháza és Evangélikus erődtemplom",
+            "ro": "Primăria și Biserica Evanghelică",
+            "en": "Town Hall and Evangelical Church"
+          },
+          "coords": [
+            25.452,
+            45.6985
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dieser Spaziergang bildet den ersten Teil Ihres Stadtkern-Clusters.",
+            "hu": "Ez a séta alkotja a belvárosi klaszter első részét.",
+            "ro": "Această plimbare constituie prima parte a clusterului central.",
+            "en": "This walk forms the first part of your city core cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Traditionen",
+            "hu": "Hagyományok Múzeuma",
+            "ro": "Muzeul Tradițiilor Codlene",
+            "en": "Museum of Traditions"
+          },
+          "coords": [
+            25.452,
+            45.701
+          ],
+          "category": "museums",
+          "arrive_at": "11:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Kirchenplatz aus leicht zu Fuß erreichbar.",
+            "hu": "A templomtérről könnyen megközelíthető gyalog.",
+            "ro": "Ușor accesibil pe jos din piața bisericii.",
+            "en": "Easily reachable on foot from the church square."
+          }
+        },
+        {
+          "name": {
+            "de": "Schwarze Burg",
+            "hu": "Fekete Vár",
+            "ro": "Cetatea Neagră",
+            "en": "Black Fortress"
+          },
+          "coords": [
+            25.441,
+            45.688
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:50",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz der Burg; der zweite Cluster beginnt hier.",
+            "hu": "Vezessen a vár parkolójához; a második klaszter itt kezdődik.",
+            "ro": "Conduceți până la parcarea cetății; al doilea cluster începe aici.",
+            "en": "Drive to the castle's parking lot; the second cluster starts here."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt bei der Burg",
+            "hu": "Kilátópont a várnál",
+            "ro": "Punct de belvedere lângă cetate",
+            "en": "Viewpoint near the fortress"
+          },
+          "coords": [
+            25.44,
+            45.687
+          ],
+          "category": "viewpoint",
+          "arrive_at": "14:02",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang für einen noch besseren Blick ins Tal.",
+            "hu": "Egy rövid séta a völgyre nyíló még jobb kilátásért.",
+            "ro": "O scurtă plimbare pentru o priveliște și mai bună asupra văii.",
+            "en": "A short walk for an even better view into the valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Măgura Codlei - Wanderstart",
+            "hu": "Măgura Codlei - Túra kiindulópont",
+            "ro": "Măgura Codlei - Start traseu",
+            "en": "Măgura Codlei - Hiking Start"
+          },
+          "coords": [
+            25.4,
+            45.72
+          ],
+          "category": "natural features",
+          "arrive_at": "14:52",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Der dritte Cluster. Parken und eine kurze Wanderung für die ultimative Aussicht unternehmen.",
+            "hu": "A harmadik klaszter. Parkoljon le és tegyen egy rövid túrát a legjobb kilátásért.",
+            "ro": "Al treilea cluster. Parcați și faceți o drumeție scurtă pentru priveliștea supremă.",
+            "en": "The third cluster. Park and take a short hike for the ultimate view."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen im Zentrum",
+            "hu": "Vacsora a központban",
+            "ro": "Cină în centru",
+            "en": "Dinner in the Center"
+          },
+          "coords": [
+            25.4515,
+            45.6995
+          ],
+          "category": "gastro",
+          "arrive_at": "17:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie zurück zu Ihrem Auto und fahren Sie zum Abendessen zurück ins Zentrum.",
+            "hu": "Sétáljon vissza az autójához, és vezessen vissza a központba vacsorázni.",
+            "ro": "Mergeți înapoi la mașină și conduceți înapoi în centru pentru cină.",
+            "en": "Walk back to your car and drive back to the center for dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit dem Parken im Zentrum von Zeiden. Der Vormittag gehört dem ersten Cluster: einem Spaziergang zur prächtigen Kirchenburg und dem nahegelegenen Museum. Mittags fahren Sie zum zweiten Cluster, der Schwarzen Burg, wo Sie nach einem kurzen Spaziergang zum Aussichtspunkt die Landschaft bewundern. Am Nachmittag bringt Sie Ihr Auto zum dritten Cluster, der Măgura Codlei. Eine belebende Wanderung belohnt Sie mit dem besten Panorama der Region. Den Abend lassen Sie gemütlich bei einem Abendessen in der Altstadt ausklingen, zu der Sie zurückfahren.",
+        "hu": "A nap Feketehalom központjában, parkolással kezdődik. A délelőtt az első klaszteré: séta a csodálatos erődtemplomhoz és a közeli múzeumhoz. Délben autóval a második klaszterhez, a Fekete Várhoz hajt, ahol egy rövid séta után a kilátópontról csodálhatja meg a tájat. Délután az autó a harmadik klaszterhez, a Măgura Codlei-hez viszi. Egy élénkítő túra a régió legjobb panorámájával jutalmazza. Az estét a központba visszatérve, egy kellemes vacsorával zárja.",
+        "ro": "Ziua dumneavoastră începe parcând în centrul Codlei. Dimineața este dedicată primului cluster: o plimbare la magnifica Biserică Fortificată și la muzeul din apropiere. La prânz, conduceți spre al doilea cluster, Cetatea Neagră, unde, după o scurtă plimbare până la punctul de belvedere, admirați peisajul. După-amiaza, mașina vă duce la al treilea cluster, Măgura Codlei. O drumeție revigorantă vă recompensează cu cea mai bună panoramă din regiune. Încheiați seara cu o cină relaxantă în centrul vechi, unde vă întoarceți cu mașina.",
+        "en": "Your day begins by parking in the center of Codlea. The morning is for the first cluster: a walk to the magnificent Fortified Church and the nearby museum. At noon, you drive to the second cluster, the Black Fortress, where you admire the landscape after a short walk to the viewpoint. In the afternoon, your car takes you to the third cluster, Măgura Codlei. An invigorating hike rewards you with the best panorama in the region. You'll end the evening with a leisurely dinner back in the old town center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bulz Ciobanesc",
+            "tip": "Polenta-Kuchen mit Käse, ein herzhaftes Hirtengericht."
+          },
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "Ein traditioneller rumänischer Käsekuchen, perfekt als Snack."
+          },
+          {
+            "name": "Hanul Domnesc",
+            "tip": "Eine gute Wahl für ein Abendessen nach einem langen Erkundungstag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Juhász puliszka (Bulz Ciobanesc)",
+            "tip": "Puliszka-gombóc sajttal, kiadós pásztorétel."
+          },
+          {
+            "name": "Túrós pite (Plăcintă cu brânză)",
+            "tip": "Hagyományos román túrós pite, tökéletes uzsonnára."
+          },
+          {
+            "name": "Hanul Domnesc",
+            "tip": "Jó választás vacsorára egy hosszú felfedező nap után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bulz Ciobanesc",
+            "tip": "O mămăligă cu brânză, o mâncare ciobănească consistentă."
+          },
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "O plăcintă tradițională românească, perfectă ca gustare."
+          },
+          {
+            "name": "Hanul Domnesc",
+            "tip": "O alegere bună pentru cină după o zi lungă de explorare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bulz Ciobanesc (Shepherd's polenta)",
+            "tip": "Polenta cake with cheese, a hearty shepherd's dish."
+          },
+          {
+            "name": "Plăcintă cu brânză (Cheese pie)",
+            "tip": "A traditional Romanian cheese pie, perfect as a snack."
+          },
+          {
+            "name": "Hanul Domnesc",
+            "tip": "A great choice for dinner after a long day of exploring."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfel der Măgura Codlei",
+            "tip": "Absolute Stille und eine 360-Grad-Aussicht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hinterhöfe der Kirchenburg",
+            "tip": "Entdecken Sie die ruhigen Ecken innerhalb der Festungsmauern.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Fahrt durch die Landschaft",
+            "tip": "Genießen Sie die Ruhe zwischen den Clustern.",
+            "emoji": "🚗"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Măgura Codlei csúcsa",
+            "tip": "Tökéletes csend és 360 fokos panoráma.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Az erődtemplom hátsó udvarai",
+            "tip": "Fedezze fel a csendes zugokat az erőd falain belül.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Autózás a tájon át",
+            "tip": "Élvezze a csendet a klaszterek között.",
+            "emoji": "🚗"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Măgurii Codlei",
+            "tip": "Liniște absolută și o priveliște de 360 de grade.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curțile interioare ale Bisericii Fortificate",
+            "tip": "Descoperiți colțurile liniștite din interiorul zidurilor cetății.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Drumul prin peisaj",
+            "tip": "Bucurați-vă de liniștea dintre clustere.",
+            "emoji": "🚗"
+          }
+        ],
+        "en": [
+          {
+            "name": "Summit of Măgura Codlei",
+            "tip": "Absolute silence and a 360-degree view.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Courtyards of the Fortified Church",
+            "tip": "Discover the quiet corners within the fortress walls.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Drive through the countryside",
+            "tip": "Enjoy the tranquility between clusters.",
+            "emoji": "🚗"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Halten Sie auf dem Land nach Schildern für 'Produse Tradiționale' Ausschau."
+          },
+          {
+            "name": "Souvenirladen der Kirchenburg",
+            "tip": "Kleine Auswahl an Büchern und lokalen Handwerksprodukten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok",
+            "tip": "Vidéken keresse a 'Produse Tradiționale' táblákat."
+          },
+          {
+            "name": "Az erődtemplom ajándékboltja",
+            "tip": "Kis választék könyvekből és helyi kézműves termékekből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine la fermă",
+            "tip": "Fiți atenți la indicatoarele 'Produse Tradiționale' în mediul rural."
+          },
+          {
+            "name": "Magazinul de suveniruri al Bisericii Fortificate",
+            "tip": "O selecție mică de cărți și produse de artizanat locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm Shops",
+            "tip": "Look for 'Produse Tradiționale' signs in the countryside."
+          },
+          {
+            "name": "Fortified Church Souvenir Shop",
+            "tip": "Small selection of books and local crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten und -gebühren im Voraus.",
+          "Die Straßen können eng sein, fahren Sie also vorsichtig.",
+          "Ein GPS ist nützlich, um die Ausgangspunkte für Wanderungen außerhalb der Stadt zu finden.",
+          "Lassen Sie keine Wertsachen im Auto zurück."
+        ],
+        "hu": [
+          "Előre ellenőrizze a parkolási lehetőségeket és díjakat.",
+          "Az utak szűkek lehetnek, vezessen óvatosan.",
+          "GPS hasznos lehet a városon kívüli túraútvonalak kiindulópontjainak megtalálásához.",
+          "Ne hagyjon értékeket az autóban."
+        ],
+        "ro": [
+          "Verificați opțiunile de parcare și taxele în avans.",
+          "Străzile pot fi înguste, așa că șofați cu prudență.",
+          "Un GPS este util pentru a găsi punctele de plecare ale drumețiilor din afara orașului.",
+          "Nu lăsați obiecte de valoare în mașină."
+        ],
+        "en": [
+          "Check parking options and fees in advance.",
+          "The roads can be narrow, so drive carefully.",
+          "A GPS is useful for finding the trailheads for hikes outside the city.",
+          "Do not leave valuables in the car."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:47",
+      "total_km": 4.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Haltestelle Zentrum",
+            "hu": "Központi megálló",
+            "ro": "Stație Centru",
+            "en": "Central Stop"
+          },
+          "coords": [
+            25.451,
+            45.7
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag im Herzen der Stadt, leicht erreichbar mit dem Bus.",
+            "hu": "Kezdje a napot a város szívében, amely busszal könnyen megközelíthető.",
+            "ro": "Începeți ziua în inima orașului, ușor accesibilă cu autobuzul.",
+            "en": "Start your day in the heart of the city, easily accessible by bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Evangelische Kirchenburg & Rathaus",
+            "hu": "Evangélikus erődtemplom és Városháza",
+            "ro": "Biserica Evanghelică & Primăria",
+            "en": "Evangelical Church & Town Hall"
+          },
+          "coords": [
+            25.4525,
+            45.6985
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ihr erster Wander-Cluster. Erkunden Sie die beiden Hauptsehenswürdigkeiten des Zentrums.",
+            "hu": "Az első gyalogos klaszter. Fedezze fel a központ két fő látnivalóját.",
+            "ro": "Primul dumneavoastră cluster de mers pe jos. Explorați cele două atracții principale ale centrului.",
+            "en": "Your first walking cluster. Explore the two main sights of the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Traditionen",
+            "hu": "Hagyományok Múzeuma",
+            "ro": "Muzeul Tradițiilor Codlene",
+            "en": "Museum of Traditions"
+          },
+          "coords": [
+            25.452,
+            45.701
+          ],
+          "category": "museums",
+          "arrive_at": "11:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz zum Abschluss des ersten Clusters.",
+            "hu": "Egy rövid séta a főtérről az első klaszter befejezéseként.",
+            "ro": "O scurtă plimbare din piața principală pentru a încheia primul cluster.",
+            "en": "A short walk from the main square to conclude the first cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle Freibad",
+            "hu": "Strandfürdő megálló",
+            "ro": "Stație Ștrand",
+            "en": "Swimming Pool Stop"
+          },
+          "coords": [
+            25.44,
+            45.704
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:13",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 3,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum zweiten Cluster, einem Ort der Entspannung.",
+            "hu": "Vegyen egy buszt a második klaszterhez, egy pihentető helyre.",
+            "ro": "Luați un autobuz spre al doilea cluster, un loc de relaxare.",
+            "en": "Take a bus to the second cluster, a place for relaxation."
+          }
+        },
+        {
+          "name": {
+            "de": "Heldendenkmal",
+            "hu": "Hősök emlékműve",
+            "ro": "Monumentul Eroilor",
+            "en": "Heroes' Monument"
+          },
+          "coords": [
+            25.449,
+            45.703
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:55",
+          "stay_min": 20,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Spaziergang vom Freibad zum Nachdenken, bevor Sie zurück ins Zentrum fahren.",
+            "hu": "Egy séta a strandfürdőtől elmélkedésre, mielőtt visszatérne a központba.",
+            "ro": "O plimbare de la ștrand pentru reflecție înainte de a vă întoarce în centru.",
+            "en": "A walk from the swimming pool for reflection before heading back to the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Bus erreichen Sie bequem das Zentrum von Zeiden. Der Vormittag ist dem ersten Cluster gewidmet: einem Spaziergang von der Kirchenburg zum Museum. Hier erleben Sie Geschichte und Kultur hautnah. Mittags bringt Sie ein lokaler Bus zum zweiten Cluster, dem Freibad. Nach einer entspannten Pause spazieren Sie zum Heldendenkmal. Am Nachmittag fahren Sie mit dem Bus zurück ins Zentrum, um den Tag bei einem Kaffee oder einem frühen Abendessen ausklingen zu lassen.",
+        "hu": "Busszal kényelmesen elérheti Feketehalom központját. A délelőtt az első klaszteré: séta az erődtemplomtól a múzeumig. Itt testközelből élheti át a történelmet és a kultúrát. Délben egy helyi busz elviszi a második klaszterhez, a strandfürdőhöz. Egy pihentető szünet után elsétál a Hősök emlékművéhez. Délután busszal tér vissza a központba, hogy egy kávéval vagy egy korai vacsorával zárja a napot.",
+        "ro": "Cu autobuzul, ajungeți confortabil în centrul Codlei. Dimineața este dedicată primului cluster: o plimbare de la Biserica Fortificată la muzeu. Aici, experimentați istoria și cultura la prima mână. La prânz, un autobuz local vă duce la al doilea cluster, ștrandul. După o pauză relaxantă, faceți o plimbare până la Monumentul Eroilor. După-amiaza, vă întoarceți cu autobuzul în centru pentru a încheia ziua cu o cafea sau o cină timpurie.",
+        "en": "You can comfortably reach the center of Codlea by bus. The morning is dedicated to the first cluster: a walk from the Fortified Church to the museum. Here, you'll experience history and culture firsthand. At noon, a local bus takes you to the second cluster, the swimming pool. After a relaxing break, you'll walk to the Heroes' Monument. In the afternoon, you'll take the bus back to the center to end the day with a coffee or an early dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Covrigi",
+            "tip": "Ein warmer, mit Sesam oder Mohn bestreuter Brezel-Snack von einem Straßenverkäufer."
+          },
+          {
+            "name": "Zacuscă",
+            "tip": "Ein pflanzlicher Aufstrich, der oft mit frischem Brot serviert wird."
+          },
+          {
+            "name": "Simigeria Petru",
+            "tip": "Eine Kette, die sich perfekt für einen schnellen und günstigen Snack eignet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Perec (Covrigi)",
+            "tip": "Meleg, szezámmaggal vagy mákkal szórt perec egy utcai árustól."
+          },
+          {
+            "name": "Zakuszka (Zacuscă)",
+            "tip": "Zöldségkrém, amelyet gyakran friss kenyérrel szolgálnak fel."
+          },
+          {
+            "name": "Simigeria Petru",
+            "tip": "Egy lánc, amely tökéletes egy gyors és olcsó harapnivalóhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Covrigi",
+            "tip": "O gustare caldă cu susan sau mac de la un vânzător ambulant."
+          },
+          {
+            "name": "Zacuscă",
+            "tip": "O pastă vegetală adesea servită cu pâine proaspătă."
+          },
+          {
+            "name": "Simigeria Petru",
+            "tip": "Un lanț de magazine perfect pentru o gustare rapidă și ieftină."
+          }
+        ],
+        "en": [
+          {
+            "name": "Covrigi (Pretzels)",
+            "tip": "A warm pretzel snack sprinkled with sesame or poppy seeds from a street vendor."
+          },
+          {
+            "name": "Zacuscă",
+            "tip": "A vegetable spread often served with fresh bread."
+          },
+          {
+            "name": "Simigeria Petru",
+            "tip": "A chain that's perfect for a quick and cheap snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Bank im Park am Freibad",
+            "tip": "Beobachten Sie das Treiben aus der Ferne.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Seitenstraßen im Zentrum",
+            "tip": "Verlieren Sie sich in den ruhigeren Gassen abseits der Hauptstraßen.",
+            "emoji": "🚶"
+          },
+          {
+            "name": "Orthodoxe Kirche Hl. Dreifaltigkeit",
+            "tip": "Ein Ort der Ruhe und Besinnung.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy pad a strandfürdő parkjában",
+            "tip": "Nézze a nyüzsgést távolról.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Mellékutcák a központban",
+            "tip": "Tévedjen el a főutcáktól távolabbi csendesebb sikátorokban.",
+            "emoji": "🚶"
+          },
+          {
+            "name": "Szentháromság Ortodox Templom",
+            "tip": "A béke és az elmélkedés helye.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă în parcul de la ștrand",
+            "tip": "Priviți agitația de la distanță.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Străzi lăturalnice în centru",
+            "tip": "Pierdeți-vă pe aleile mai liniștite, departe de străzile principale.",
+            "emoji": "🚶"
+          },
+          {
+            "name": "Biserica Ortodoxă Sfânta Treime",
+            "tip": "Un loc de pace și reculegere.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench in the park at the swimming pool",
+            "tip": "Watch the hustle and bustle from a distance.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Side streets in the center",
+            "tip": "Get lost in the quieter alleys away from the main streets.",
+            "emoji": "🚶"
+          },
+          {
+            "name": "Holy Trinity Orthodox Church",
+            "tip": "A place of peace and contemplation.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske",
+            "tip": "Hier finden Sie Fahrkarten, Snacks und Getränke für unterwegs."
+          },
+          {
+            "name": "Buchhandlungen",
+            "tip": "Suchen Sie nach einem Buch über die Geschichte Siebenbürgens."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok",
+            "tip": "Itt talál jegyeket, rágcsálnivalókat és italokat útközben.",
+            "emoji": ""
+          },
+          {
+            "name": "Könyvesboltok",
+            "tip": "Keressen egy könyvet Erdély történelméről.",
+            "emoji": ""
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri",
+            "tip": "Aici puteți găsi bilete, gustări și băuturi pentru drum.",
+            "emoji": ""
+          },
+          {
+            "name": "Librării",
+            "tip": "Căutați o carte despre istoria Transilvaniei.",
+            "emoji": ""
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks",
+            "tip": "You can find tickets, snacks, and drinks for the road here.",
+            "emoji": ""
+          },
+          {
+            "name": "Bookstores",
+            "tip": "Look for a book about the history of Transylvania.",
+            "emoji": ""
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere für die letzte Rückfahrt.",
+          "Haben Sie Kleingeld für Fahrkarten und Snacks bereit.",
+          "Fragen Sie die Einheimischen nach dem richtigen Bus; sie sind normalerweise hilfsbereit."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy pénzt takarítson meg.",
+          "Előre ellenőrizze a buszmenetrendet, különösen az utolsó visszautat.",
+          "Tartson magánál aprópénzt a jegyekhez és a rágcsálnivalókhoz.",
+          "Kérdezze meg a helyieket a megfelelő buszról; általában segítőkészek."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru a economisi bani.",
+          "Verificați programul autobuzelor în avans, în special pentru ultima cursă de întoarcere.",
+          "Aveți la îndemână mărunțiș pentru bilete și gustări.",
+          "Întrebați localnicii despre autobuzul corect; de obicei sunt de ajutor."
+        ],
+        "en": [
+          "Buy a day pass for the bus to save money.",
+          "Check the bus schedule in advance, especially for the last return trip.",
+          "Have small change ready for tickets and snacks.",
+          "Ask the locals for the right bus; they are usually helpful."
+        ]
+      }
+    }
+  }
+}

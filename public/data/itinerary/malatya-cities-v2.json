@@ -1,0 +1,1308 @@
+{
+  "city_id": "malatya-cities-v2",
+  "anchor": {
+    "name": "Malatya",
+    "coords": [
+      38.35,
+      38.3167
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 2.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Beşkonaklar-Museum",
+            "hu": "Beşkonaklar Múzeum",
+            "ro": "Muzeul Beșkonaklar",
+            "en": "Beşkonaklar Museum"
+          },
+          "coords": [
+            38.3515,
+            38.3182
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die feinen Holzschnitzereien und osmanischen Architekturdetails.",
+            "hu": "Figyelje meg a finom fafaragásokat és az oszmán építészeti részleteket.",
+            "ro": "Observați sculpturile fine în lemn și detaliile arhitecturale otomane.",
+            "en": "Look for the fine wood carvings and Ottoman architectural details."
+          }
+        },
+        {
+          "name": {
+            "de": "Malatya-Museum",
+            "hu": "Malatya Múzeum",
+            "ro": "Muzeul Malatya",
+            "en": "Malatya Museum"
+          },
+          "coords": [
+            38.348,
+            38.315
+          ],
+          "category": "museums",
+          "arrive_at": "10:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Artefakte aus Arslantepe sind ein Muss für Geschichtsinteressierte.",
+            "hu": "Az Arslantepe-ből származó leletek kihagyhatatlanok a történelem iránt érdeklődőknek.",
+            "ro": "Artefactele de la Arslantepe sunt o necesitate pentru pasionații de istorie.",
+            "en": "The artifacts from Arslantepe are a must-see for history enthusiasts."
+          }
+        },
+        {
+          "name": {
+            "de": "Kanalboyu",
+            "hu": "Kanalboyu sétány",
+            "ro": "Promenada Kanalboyu",
+            "en": "Kanalboyu Promenade"
+          },
+          "coords": [
+            38.355,
+            38.32
+          ],
+          "category": "promenades",
+          "arrive_at": "12:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ideal für eine Mittagspause in einem der vielen Cafés am Kanal.",
+            "hu": "Ideális egy ebédszünetre a csatorna menti számos kávézó egyikében.",
+            "ro": "Ideal pentru o pauză de prânz la una dintre numeroasele cafenele de pe canal.",
+            "en": "Ideal for a lunch break at one of the many cafes along the canal."
+          }
+        },
+        {
+          "name": {
+            "de": "Kernek-Wasserfall",
+            "hu": "Kernek-vízesés",
+            "ro": "Cascada Kernek",
+            "en": "Kernek Waterfall"
+          },
+          "coords": [
+            38.358,
+            38.325
+          ],
+          "category": "natural features",
+          "arrive_at": "14:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein künstlicher Wasserfall, aber ein beliebter Ort zur Entspannung.",
+            "hu": "Bár mesterséges vízesés, népszerű pihenőhely a helyiek körében.",
+            "ro": "O cascadă artificială, dar un loc popular pentru relaxare.",
+            "en": "An artificial waterfall, but a popular spot for locals to relax."
+          }
+        },
+        {
+          "name": {
+            "de": "Aprikosenmarkt (Şire Pazarı)",
+            "hu": "Sárgabarack Piac (Şire Pazarı)",
+            "ro": "Piața de caise (Şire Pazarı)",
+            "en": "Apricot Market (Şire Pazarı)"
+          },
+          "coords": [
+            38.349,
+            38.312
+          ],
+          "category": "market",
+          "arrive_at": "15:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie unbedingt die getrockneten Aprikosen – die besten der Welt!",
+            "hu": "Feltétlenül kóstolja meg az aszalt sárgabarackot – a világ legjobbját!",
+            "ro": "Asigurați-vă că gustați caisele uscate - cele mai bune din lume!",
+            "en": "Be sure to try the dried apricots – the best in the world!"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit osmanischer Eleganz im Beşkonaklar-Museum. Nach einem tiefen Einblick in die anatolische Geschichte im Malatya-Museum ist es Zeit für eine entspannte Mittagspause am Kanalboyu. Am Nachmittag bietet der Kernek-Wasserfall eine erfrischende Pause, bevor Sie sich auf dem berühmten Aprikosenmarkt in die lokalen Aromen stürzen.",
+        "hu": "Kezdje a napot oszmán eleganciával a Beşkonaklar Múzeumban. Miután a Malatya Múzeumban elmerült Anatólia történelmében, itt az ideje egy pihentető ebédszünetnek a Kanalboyu sétányon. Délután a Kernek-vízesés kínál felüdülést, mielőtt a híres Sárgabarack Piacon belevetné magát a helyi ízekbe.",
+        "ro": "Începeți ziua cu eleganță otomană la Muzeul Beșkonaklar. După o incursiune în istoria anatoliană la Muzeul Malatya, este timpul pentru o pauză de prânz relaxantă pe promenada Kanalboyu. După-amiaza, cascada Kernek oferă o pauză răcoritoare înainte de a vă cufunda în aromele locale la renumita Piață de Caise.",
+        "en": "Start your day with Ottoman elegance at the Beşkonaklar Museum. After a deep dive into Anatolian history at the Malatya Museum, it's time for a relaxing lunch break on the Kanalboyu promenade. In the afternoon, the Kernek Waterfall offers a refreshing pause before you dive into local flavors at the famous Apricot Market."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kayısı Döneri",
+            "tip": "Eine süße Variante des Kebabs, hergestellt aus Aprikosen."
+          },
+          {
+            "name": "Analı Kızlı",
+            "tip": "Eine herzhafte Suppe mit Fleischbällchen und Bulgur."
+          },
+          {
+            "name": "Hacıbaba Et Lokantası",
+            "tip": "Bekannt für seine exzellenten Grillgerichte und traditionelle Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kayısı Döneri",
+            "tip": "A kebab édes változata, sárgabarackból készítve."
+          },
+          {
+            "name": "Analı Kızlı",
+            "tip": "Kiadós leves húsgombóccal és bulgurral."
+          },
+          {
+            "name": "Hacıbaba Et Lokantası",
+            "tip": "Kiváló grillételeiről és hagyományos konyhájáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kayısı Döneri",
+            "tip": "O variantă dulce de kebab, făcută din caise."
+          },
+          {
+            "name": "Analı Kızlı",
+            "tip": "O supă consistentă cu chiftele și bulgur."
+          },
+          {
+            "name": "Hacıbaba Et Lokantası",
+            "tip": "Renumit pentru grătarele excelente și bucătăria tradițională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kayısı Döneri",
+            "tip": "A sweet version of kebab, made from apricots."
+          },
+          {
+            "name": "Analı Kızlı",
+            "tip": "A hearty soup with meatballs and bulgur."
+          },
+          {
+            "name": "Hacıbaba Et Lokantası",
+            "tip": "Known for its excellent grills and traditional cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Orduzu-Pınarbaşı",
+            "tip": "Ein ruhiger Park mit natürlichen Quellen, ideal für einen friedlichen Spaziergang.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kanalboyu am frühen Morgen",
+            "tip": "Erleben Sie die Stille der Stadt, bevor der Trubel beginnt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Orduzu-Pınarbaşı",
+            "tip": "Csendes park természetes forrásokkal, ideális egy békés sétához.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kanalboyu kora reggel",
+            "tip": "Tapasztalja meg a város csendjét, mielőtt a nyüzsgés elkezdődik.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Orduzu-Pınarbaşı",
+            "tip": "Un parc liniștit cu izvoare naturale, ideal pentru o plimbare pașnică.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kanalboyu dimineața devreme",
+            "tip": "Experimentați liniștea orașului înainte de începerea agitației.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Orduzu-Pınarbaşı",
+            "tip": "A quiet park with natural springs, ideal for a peaceful walk.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kanalboyu in the early morning",
+            "tip": "Experience the city's quietness before the hustle and bustle begins.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Şire Pazarı (Aprikosenmarkt)",
+            "tip": "Der beste Ort, um getrocknete Aprikosen und andere lokale Produkte zu kaufen."
+          },
+          {
+            "name": "Kuyumcular Çarşısı (Juwelierbasar)",
+            "tip": "Finden Sie traditionellen und modernen Schmuck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Şire Pazarı (Sárgabarack Piac)",
+            "tip": "A legjobb hely aszalt sárgabarack és más helyi termékek vásárlására."
+          },
+          {
+            "name": "Kuyumcular Çarşısı (Ékszerész Bazár)",
+            "tip": "Találjon hagyományos és modern ékszereket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Şire Pazarı (Piața de caise)",
+            "tip": "Cel mai bun loc pentru a cumpăra caise uscate și alte produse locale."
+          },
+          {
+            "name": "Kuyumcular Çarşısı (Bazarul de bijuterii)",
+            "tip": "Găsiți bijuterii tradiționale și moderne."
+          }
+        ],
+        "en": [
+          {
+            "name": "Şire Pazarı (Apricot Market)",
+            "tip": "The best place to buy dried apricots and other local products."
+          },
+          {
+            "name": "Kuyumcular Çarşısı (Jewelers' Bazaar)",
+            "tip": "Find traditional and modern jewelry."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Halten Sie Wasser bereit, besonders in den Sommermonaten.",
+          "Probieren Sie die lokalen Spezialitäten auf dem Aprikosenmarkt.",
+          "Die meisten zentralen Sehenswürdigkeiten sind leicht zu Fuß erreichbar."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Vigyen magával vizet, különösen a nyári hónapokban.",
+          "Kóstolja meg a helyi különlegességeket a Sárgabarack Piacon.",
+          "A legtöbb központi látnivaló könnyen elérhető gyalog."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge mult pe jos.",
+          "Aveți apă la dumneavoastră, mai ales în lunile de vară.",
+          "Încercați specialitățile locale de la Piața de Caise.",
+          "Majoritatea atracțiilor centrale sunt ușor accesibile pe jos."
+        ],
+        "en": [
+          "Wear comfortable shoes, as you'll be doing a lot of walking.",
+          "Keep water with you, especially during the summer months.",
+          "Try the local specialties at the Apricot Market.",
+          "Most central sights are easily within walking distance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 14.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kanalboyu",
+            "hu": "Kanalboyu sétány",
+            "ro": "Promenada Kanalboyu",
+            "en": "Kanalboyu Promenade"
+          },
+          "coords": [
+            38.355,
+            38.32
+          ],
+          "category": "promenades",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier mit einem Kaffee, um Energie für den Tag zu tanken.",
+            "hu": "Kezdje itt egy kávéval, hogy energiát gyűjtsön a napra.",
+            "ro": "Începeți de aici cu o cafea pentru a vă energiza pentru ziua respectivă.",
+            "en": "Start here with a coffee to get energized for the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Malatya-Museum",
+            "hu": "Malatya Múzeum",
+            "ro": "Muzeul Malatya",
+            "en": "Malatya Museum"
+          },
+          "coords": [
+            38.348,
+            38.315
+          ],
+          "category": "museums",
+          "arrive_at": "09:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit für die hethitischen und römischen Sammlungen ein.",
+            "hu": "Szánjon elegendő időt a hettita és római gyűjteményekre.",
+            "ro": "Planificați suficient timp pentru colecțiile hitite și romane.",
+            "en": "Plan enough time for the Hittite and Roman collections."
+          }
+        },
+        {
+          "name": {
+            "de": "Orduzu-Pınarbaşı",
+            "hu": "Orduzu-Pınarbaşı",
+            "ro": "Orduzu-Pınarbașı",
+            "en": "Orduzu-Pınarbaşı"
+          },
+          "coords": [
+            38.39,
+            38.29
+          ],
+          "category": "parks",
+          "arrive_at": "12:02",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für ein Picknick-Mittagessen am Wasser.",
+            "hu": "Remek hely egy piknikebédhez a vízparton.",
+            "ro": "Un loc minunat pentru un prânz la picnic lângă apă.",
+            "en": "A great spot for a picnic lunch by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Arslantepe-Hügel",
+            "hu": "Arslantepe-domb",
+            "ro": "Movila Arslantepe",
+            "en": "Arslantepe Mound"
+          },
+          "coords": [
+            38.46,
+            38.39
+          ],
+          "category": "historical",
+          "arrive_at": "14:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 43,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "UNESCO-Welterbe! Die Überreste des Palastes sind beeindruckend.",
+            "hu": "UNESCO Világörökség! A palota maradványai lenyűgözőek.",
+            "ro": "Patrimoniu Mondial UNESCO! Rămășițele palatului sunt impresionante.",
+            "en": "UNESCO World Heritage site! The remains of the palace are impressive."
+          }
+        },
+        {
+          "name": {
+            "de": "Ulu Cami Battalgazi",
+            "hu": "Ulu Cami Battalgazi",
+            "ro": "Marea Moschee Battalgazi",
+            "en": "Ulu Cami Battalgazi"
+          },
+          "coords": [
+            38.45,
+            38.38
+          ],
+          "category": "churches",
+          "arrive_at": "16:20",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Bewundern Sie die seldschukische Architektur und die Keramikfliesen.",
+            "hu": "Csodálja meg a szeldzsuk építészetet és a kerámia csempéket.",
+            "ro": "Admirați arhitectura selgiucidă și plăcile ceramice.",
+            "en": "Admire the Seljuk architecture and ceramic tiles."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am lebhaften Kanalboyu. Fahren Sie weiter zum Malatya-Museum, um in die Geschichte einzutauchen. Für eine Mittagspause im Grünen ist der Orduzu-Pınarbaşı Park perfekt. Der Nachmittag ist der Erkundung des UNESCO-Weltkulturerbes Arslantepe gewidmet, gefolgt von einem kurzen Halt an der historischen Ulu Cami in Battalgazi.",
+        "hu": "Kezdje a kerékpártúrát a nyüzsgő Kanalboyu sétányon. Tekerjen tovább a Malatya Múzeumhoz, hogy elmerüljön a történelemben. Egy zöldben eltöltött ebédszünethez az Orduzu-Pınarbaşı Park tökéletes. A délutánt az UNESCO világörökségi helyszín, Arslantepe felfedezésének szenteljük, amit egy rövid megálló követ a történelmi Ulu Cami-nál Battalgaziban.",
+        "ro": "Începeți turul cu bicicleta pe animata promenadă Kanalboyu. Continuați spre Muzeul Malatya pentru o incursiune în istorie. Pentru o pauză de prânz în natură, parcul Orduzu-Pınarbașı este perfect. După-amiaza este dedicată explorării sitului UNESCO Arslantepe, urmată de o scurtă oprire la istorica Moschee Ulu din Battalgazi.",
+        "en": "Start your bike tour at the lively Kanalboyu promenade. Cycle on to the Malatya Museum for a dose of history. For a green lunch break, Orduzu-Pınarbaşı Park is perfect. The afternoon is dedicated to exploring the UNESCO World Heritage site of Arslantepe, followed by a brief stop at the historic Ulu Cami in Battalgazi."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gırık",
+            "tip": "Ein lokales Gebäck, das oft zum Frühstück gegessen wird."
+          },
+          {
+            "name": "Kayısı Tatlısı",
+            "tip": "Ein Dessert aus Aprikosen, oft mit Walnüssen und Sahne serviert."
+          },
+          {
+            "name": "Öz Gözde Kebap",
+            "tip": "Ein beliebter Ort für authentische türkische Kebabs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gırık",
+            "tip": "Helyi péksütemény, amelyet gyakran reggelire fogyasztanak."
+          },
+          {
+            "name": "Kayısı Tatlısı",
+            "tip": "Sárgabarackból készült desszert, gyakran dióval és tejszínnel tálalva."
+          },
+          {
+            "name": "Öz Gözde Kebap",
+            "tip": "Népszerű hely az autentikus török kebabokért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gırık",
+            "tip": "O patiserie locală consumată adesea la micul dejun."
+          },
+          {
+            "name": "Kayısı Tatlısı",
+            "tip": "Un desert făcut din caise, adesea servit cu nuci și frișcă."
+          },
+          {
+            "name": "Öz Gözde Kebap",
+            "tip": "Un loc popular pentru kebab turcesc autentic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gırık",
+            "tip": "A local pastry often eaten for breakfast."
+          },
+          {
+            "name": "Kayısı Tatlısı",
+            "tip": "A dessert made from apricots, often served with walnuts and cream."
+          },
+          {
+            "name": "Öz Gözde Kebap",
+            "tip": "A popular spot for authentic Turkish kebabs."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Levent-Tal",
+            "tip": "Obwohl etwas entfernt, bietet es atemberaubende Ausblicke und Ruhe.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Die Gärten um Orduzu-Pınarbaşı",
+            "tip": "Finden Sie eine ruhige Ecke abseits der Hauptwege.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Levent-völgy",
+            "tip": "Bár kissé távolabb van, lélegzetelállító kilátást és nyugalmat kínál.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Az Orduzu-Pınarbaşı körüli kertek",
+            "tip": "Találjon egy csendes zugot a fő utaktól távol.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Valea Levent",
+            "tip": "Deși este puțin mai departe, oferă priveliști uimitoare și liniște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile din jurul Orduzu-Pınarbașı",
+            "tip": "Găsiți un colț liniștit departe de potecile principale.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Levent Valley",
+            "tip": "Although a bit distant, it offers breathtaking views and tranquility.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "The gardens around Orduzu-Pınarbaşı",
+            "tip": "Find a quiet corner away from the main paths.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Şire Pazarı",
+            "tip": "Kaufen Sie die weltberühmten getrockneten Aprikosen."
+          },
+          {
+            "name": "Handwerkerläden in Battalgazi",
+            "tip": "Suchen Sie nach einzigartigen, handgefertigten Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Şire Pazarı",
+            "tip": "Vásárolja meg a világhírű aszalt sárgabarackot."
+          },
+          {
+            "name": "Kézműves boltok Battalgaziban",
+            "tip": "Keressen egyedi, kézzel készített ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Şire Pazarı",
+            "tip": "Cumpărați faimoasele caise uscate de renume mondial."
+          },
+          {
+            "name": "Magazine de artizanat în Battalgazi",
+            "tip": "Căutați suveniruri unice, lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Şire Pazarı",
+            "tip": "Buy the world-famous dried apricots."
+          },
+          {
+            "name": "Artisan shops in Battalgazi",
+            "tip": "Look for unique, handmade souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad in der Innenstadt.",
+          "Prüfen Sie den Reifendruck und die Bremsen vor der Abfahrt.",
+          "Die Strecke nach Arslantepe hat einige Steigungen, seien Sie vorbereitet.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad an den Sehenswürdigkeiten sicher abzustellen."
+        ],
+        "hu": [
+          "Béreljen kerékpárt a városközpontban.",
+          "Indulás előtt ellenőrizze a guminyomást és a fékeket.",
+          "Az Arslantepe felé vezető úton vannak emelkedők, készüljön fel.",
+          "Vigyen magával lakatot, hogy biztonságosan lezárhassa a kerékpárt a látnivalóknál."
+        ],
+        "ro": [
+          "Închiriați o bicicletă din centrul orașului.",
+          "Verificați presiunea anvelopelor și frânele înainte de a pleca.",
+          "Traseul spre Arslantepe are câteva urcări, fiți pregătit.",
+          "Luați un lacăt pentru a vă asigura bicicleta la obiectivele turistice."
+        ],
+        "en": [
+          "Rent a bike from a shop in the city center.",
+          "Check your tire pressure and brakes before you set off.",
+          "The route to Arslantepe has some inclines, be prepared.",
+          "Bring a lock to secure your bike at the sights."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 54.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Arslantepe-Hügel",
+            "hu": "Arslantepe-domb",
+            "ro": "Movila Arslantepe",
+            "en": "Arslantepe Mound"
+          },
+          "coords": [
+            38.46,
+            38.39
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Kommen Sie früh, um den Menschenmassen zu entgehen und die Morgenkühle zu genießen.",
+            "hu": "Érkezzen korán, hogy elkerülje a tömeget és élvezze a reggeli hűvösséget.",
+            "ro": "Veniți devreme pentru a evita mulțimile și a vă bucura de răcoarea dimineții.",
+            "en": "Arrive early to avoid the crowds and enjoy the morning cool."
+          }
+        },
+        {
+          "name": {
+            "de": "Ulu Cami Battalgazi",
+            "hu": "Ulu Cami Battalgazi",
+            "ro": "Marea Moschee Battalgazi",
+            "en": "Ulu Cami Battalgazi"
+          },
+          "coords": [
+            38.45,
+            38.38
+          ],
+          "category": "churches",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe von Arslantepe und gehen Sie zur Moschee.",
+            "hu": "Parkoljon az Arslantepe közelében, és sétáljon el a mecsethez.",
+            "ro": "Parcați lângă Arslantepe și mergeți pe jos până la moschee.",
+            "en": "Park near Arslantepe and walk to the mosque."
+          }
+        },
+        {
+          "name": {
+            "de": "Levent-Tal",
+            "hu": "Levent-völgy",
+            "ro": "Valea Levent",
+            "en": "Levent Valley"
+          },
+          "coords": [
+            38.6,
+            38.5
+          ],
+          "category": "viewpoints",
+          "arrive_at": "12:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 25.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Die Aussichtsterrasse aus Glas ist nichts für schwache Nerven!",
+            "hu": "Az üveg kilátóterasz nem a gyenge idegzetűeknek való!",
+            "ro": "Terasa de observație din sticlă nu este pentru cei slabi de inimă!",
+            "en": "The glass observation terrace is not for the faint of heart!"
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Stadt",
+            "hu": "Ebéd a városban",
+            "ro": "Prânz în oraș",
+            "en": "Lunch in the city"
+          },
+          "coords": [
+            38.35,
+            38.32
+          ],
+          "category": "gastro",
+          "arrive_at": "14:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 28.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Suchen Sie sich ein Restaurant in der Nähe des Malatya-Museums.",
+            "hu": "Keressen egy éttermet a Malatya Múzeum közelében.",
+            "ro": "Căutați un restaurant lângă Muzeul Malatya.",
+            "en": "Find a restaurant near the Malatya Museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Malatya-Museum",
+            "hu": "Malatya Múzeum",
+            "ro": "Muzeul Malatya",
+            "en": "Malatya Museum"
+          },
+          "coords": [
+            38.348,
+            38.315
+          ],
+          "category": "museums",
+          "arrive_at": "16:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Sehen Sie die Funde von Arslantepe, die Sie am Morgen besucht haben.",
+            "hu": "Nézze meg az Arslantepe leleteit, amelyeket reggel látogatott meg.",
+            "ro": "Vedeți descoperirile de la Arslantepe pe care le-ați vizitat dimineața.",
+            "en": "See the findings from Arslantepe which you visited in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Beşkonaklar-Museum",
+            "hu": "Beşkonaklar Múzeum",
+            "ro": "Muzeul Beșkonaklar",
+            "en": "Beşkonaklar Museum"
+          },
+          "coords": [
+            38.3515,
+            38.3182
+          ],
+          "category": "famous residences",
+          "arrive_at": "17:45",
+          "stay_min": 5,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Fotostopp am Ende des Tages.",
+            "hu": "Egy gyors fotómegálló a nap végén.",
+            "ro": "O scurtă oprire pentru fotografii la sfârșitul zilei.",
+            "en": "A quick photo stop at the end of the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Tag bei den antiken Ruinen von Arslantepe. Nach einem kurzen Spaziergang zur Ulu Cami fahren Sie ins Levent-Tal für eine spektakuläre Aussicht und eine Mittagspause. Am Nachmittag kehren Sie ins Stadtzentrum zurück, um im Malatya-Museum die Geschichte zu vertiefen und den Tag mit der osmanischen Architektur des Beşkonaklar-Museums ausklingen zu lassen.",
+        "hu": "Kezdje a napot Arslantepe ősi romjainál. Egy rövid séta után az Ulu Cami-hoz, hajtson a Levent-völgybe egy látványos kilátásért és egy ebédszünetért. Délután térjen vissza a városközpontba, hogy elmélyítse történelmi ismereteit a Malatya Múzeumban, és a napot a Beşkonaklar Múzeum oszmán építészetével zárja.",
+        "ro": "Începeți ziua la ruinele antice din Arslantepe. După o scurtă plimbare până la Moscheea Ulu, conduceți spre Valea Levent pentru o priveliște spectaculoasă și o pauză de prânz. După-amiaza, reveniți în centrul orașului pentru a aprofunda istoria la Muzeul Malatya și încheiați ziua cu arhitectura otomană a Muzeului Beșkonaklar.",
+        "en": "Start your day at the ancient ruins of Arslantepe. After a short walk to the Ulu Cami, drive to Levent Valley for spectacular views and a lunch break. In the afternoon, return to the city center to delve into history at the Malatya Museum and end the day with the Ottoman architecture of the Beşkonaklar Museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tava Ciğeri",
+            "tip": "Gebratene Leber, eine Spezialität der Region."
+          },
+          {
+            "name": "Papara",
+            "tip": "Ein einfaches, aber schmackhaftes Gericht aus Brot, Butter und Käse."
+          },
+          {
+            "name": "Pınarbaşı Alabalık Tesisleri",
+            "tip": "Genießen Sie frische Forellen in einer natürlichen Umgebung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tava Ciğeri",
+            "tip": "Sült máj, a régió specialitása."
+          },
+          {
+            "name": "Papara",
+            "tip": "Egyszerű, de ízletes étel kenyérből, vajból és sajtból."
+          },
+          {
+            "name": "Pınarbaşı Alabalık Tesisleri",
+            "tip": "Élvezze a friss pisztrángot természetes környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tava Ciğeri",
+            "tip": "Ficat prăjit, o specialitate a regiunii."
+          },
+          {
+            "name": "Papara",
+            "tip": "Un fel de mâncare simplu, dar gustos, din pâine, unt și brânză."
+          },
+          {
+            "name": "Pınarbaşı Alabalık Tesisleri",
+            "tip": "Bucurați-vă de păstrăv proaspăt într-un cadru natural."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tava Ciğeri",
+            "tip": "Fried liver, a specialty of the region."
+          },
+          {
+            "name": "Papara",
+            "tip": "A simple but tasty dish made of bread, butter, and cheese."
+          },
+          {
+            "name": "Pınarbaşı Alabalık Tesisleri",
+            "tip": "Enjoy fresh trout in a natural setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Levent-Tal",
+            "tip": "Der Panoramablick über die Schlucht ist unglaublich beruhigend.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Orduzu-Pınarbaşı Park",
+            "tip": "Ein perfekter Ort, um dem Stadtlärm zu entfliehen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Levent-völgy",
+            "tip": "A szurdokra nyíló panoráma hihetetlenül megnyugtató.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Orduzu-Pınarbaşı Park",
+            "tip": "Tökéletes hely a város zajától való elmeneküléshez.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Valea Levent",
+            "tip": "Priveliștea panoramică asupra canionului este incredibil de liniștitoare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Orduzu-Pınarbașı",
+            "tip": "Un loc perfect pentru a evada din zgomotul orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Levent Valley",
+            "tip": "The panoramic view over the canyon is incredibly calming.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Orduzu-Pınarbaşı Park",
+            "tip": "A perfect place to escape the city noise.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Şire Pazarı",
+            "tip": "Der zentrale Ort für alles, was mit Aprikosen zu tun hat."
+          },
+          {
+            "name": "Malatya Park AVM",
+            "tip": "Ein modernes Einkaufszentrum für alle Ihre Bedürfnisse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Şire Pazarı",
+            "tip": "A központi hely mindennek, ami a sárgabarackkal kapcsolatos."
+          },
+          {
+            "name": "Malatya Park AVM",
+            "tip": "Modern bevásárlóközpont minden igényt kielégítve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Şire Pazarı",
+            "tip": "Locul central pentru tot ce ține de caise."
+          },
+          {
+            "name": "Malatya Park AVM",
+            "tip": "Un centru comercial modern pentru toate nevoile dumneavoastră."
+          }
+        ],
+        "en": [
+          {
+            "name": "Şire Pazarı",
+            "tip": "The central place for everything related to apricots."
+          },
+          {
+            "name": "Malatya Park AVM",
+            "tip": "A modern shopping mall for all your needs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein Auto gibt Ihnen die Flexibilität, abgelegene Orte wie das Levent-Tal zu besuchen.",
+          "Parken kann im Stadtzentrum schwierig sein; nutzen Sie ausgewiesene Parkplätze.",
+          "Planen Sie Ihre Route im Voraus, um Staus zu vermeiden.",
+          "Achten Sie auf die Geschwindigkeitsbegrenzungen, besonders auf Landstraßen."
+        ],
+        "hu": [
+          "Az autó rugalmasságot biztosít az olyan távoli helyek meglátogatásához, mint a Levent-völgy.",
+          "A parkolás nehézkes lehet a városközpontban; használja a kijelölt parkolókat.",
+          "Tervezze meg előre az útvonalat a forgalmi dugók elkerülése érdekében.",
+          "Tartsa be a sebességkorlátozásokat, különösen a vidéki utakon."
+        ],
+        "ro": [
+          "O mașină vă oferă flexibilitatea de a vizita locuri îndepărtate, cum ar fi Valea Levent.",
+          "Parcarea poate fi dificilă în centrul orașului; folosiți parcările desemnate.",
+          "Planificați-vă traseul în avans pentru a evita ambuteiajele.",
+          "Respectați limitele de viteză, în special pe drumurile de țară."
+        ],
+        "en": [
+          "A car gives you the flexibility to visit remote places like Levent Valley.",
+          "Parking can be difficult in the city center; use designated parking areas.",
+          "Plan your route in advance to avoid traffic jams.",
+          "Pay attention to speed limits, especially on country roads."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 20.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Malatya-Museum",
+            "hu": "Malatya Múzeum",
+            "ro": "Muzeul Malatya",
+            "en": "Malatya Museum"
+          },
+          "coords": [
+            38.348,
+            38.315
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, um einen historischen Überblick über die Region zu bekommen.",
+            "hu": "Kezdje itt, hogy történelmi áttekintést kapjon a régióról.",
+            "ro": "Începeți de aici pentru a obține o imagine de ansamblu istorică a regiunii.",
+            "en": "Start here to get a historical overview of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Beşkonaklar-Museum",
+            "hu": "Beşkonaklar Múzeum",
+            "ro": "Muzeul Beșkonaklar",
+            "en": "Beşkonaklar Museum"
+          },
+          "coords": [
+            38.3515,
+            38.3182
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Malatya-Museum.",
+            "hu": "Rövid sétára a Malatya Múzeumtól.",
+            "ro": "La o scurtă plimbare de Muzeul Malatya.",
+            "en": "A short walk from the Malatya Museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Ulu Cami Battalgazi",
+            "hu": "Ulu Cami Battalgazi",
+            "ro": "Marea Moschee Battalgazi",
+            "en": "Ulu Cami Battalgazi"
+          },
+          "coords": [
+            38.45,
+            38.38
+          ],
+          "category": "churches",
+          "arrive_at": "12:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Dolmuş oder Bus nach Battalgazi.",
+            "hu": "Menjen dolmuş-sal vagy busszal Battalgaziba.",
+            "ro": "Luați un dolmuș sau autobuz spre Battalgazi.",
+            "en": "Take a dolmuş or bus to Battalgazi."
+          }
+        },
+        {
+          "name": {
+            "de": "Arslantepe-Hügel",
+            "hu": "Arslantepe-domb",
+            "ro": "Movila Arslantepe",
+            "en": "Arslantepe Mound"
+          },
+          "coords": [
+            38.46,
+            38.39
+          ],
+          "category": "historical",
+          "arrive_at": "13:26",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Spaziergang durch die Geschichte nach dem Besuch der Moschee.",
+            "hu": "Séta a történelemben a mecset meglátogatása után.",
+            "ro": "O plimbare prin istorie după vizitarea moscheii.",
+            "en": "A walk through history after visiting the mosque."
+          }
+        },
+        {
+          "name": {
+            "de": "Orduzu-Pınarbaşı",
+            "hu": "Orduzu-Pınarbaşı",
+            "ro": "Orduzu-Pınarbașı",
+            "en": "Orduzu-Pınarbaşı"
+          },
+          "coords": [
+            38.39,
+            38.29
+          ],
+          "category": "parks",
+          "arrive_at": "16:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 34,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein entspannender Abschluss des Tages im Grünen.",
+            "hu": "A nap pihentető lezárása a zöldben.",
+            "ro": "Un final relaxant al zilei în natură.",
+            "en": "A relaxing end to the day in a green space."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen",
+            "hu": "Vacsora",
+            "ro": "Cină",
+            "en": "Dinner"
+          },
+          "coords": [
+            38.35,
+            38.32
+          ],
+          "category": "gastro",
+          "arrive_at": "17:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Fahren Sie zurück ins Zentrum für ein wohlverdientes Abendessen.",
+            "hu": "Térjen vissza a központba egy jól megérdemelt vacsorára.",
+            "ro": "Întoarceți-vă în centru pentru o cină binemeritată.",
+            "en": "Head back to the center for a well-deserved dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Herzen der Stadt mit einem Besuch des Malatya- und des Beşkonaklar-Museums. Nehmen Sie dann einen Bus nach Battalgazi, um die prächtige Ulu Cami und das UNESCO-Weltkulturerbe Arslantepe zu erkunden. Beenden Sie den Tag mit einer entspannenden Zeit im Orduzu-Pınarbaşı Park, bevor Sie für das Abendessen ins Zentrum zurückkehren.",
+        "hu": "Kezdje a napot a város történelmi szívében a Malatya és a Beşkonaklar Múzeum meglátogatásával. Ezután buszozzon el Battalgaziba, hogy felfedezze a csodálatos Ulu Cami-t és az UNESCO világörökségi helyszínt, Arslantepe-t. A napot az Orduzu-Pınarbaşı Parkban való pihenéssel zárja, mielőtt visszatérne a központba vacsorázni.",
+        "ro": "Începeți ziua în inima istorică a orașului cu o vizită la Muzeul Malatya și Muzeul Beșkonaklar. Apoi, luați un autobuz spre Battalgazi pentru a explora magnifica Moschee Ulu și situl UNESCO Arslantepe. Încheiați ziua cu un moment de relaxare în Parcul Orduzu-Pınarbașı înainte de a vă întoarce în centru pentru cină.",
+        "en": "Start your day in the historic heart of the city with a visit to the Malatya and Beşkonaklar museums. Then, take a bus to Battalgazi to explore the magnificent Ulu Cami and the UNESCO World Heritage site of Arslantepe. End the day with some relaxing time at Orduzu-Pınarbaşı Park before returning to the center for dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sac Kavurma",
+            "tip": "In einer flachen Pfanne gebratenes Fleisch, ein Klassiker."
+          },
+          {
+            "name": "Kiraz Yaprağı Sarması",
+            "tip": "Mit Kirschblättern umwickelte Reisfüllung, eine einzigartige lokale Delikatesse."
+          },
+          {
+            "name": "Altın Yunus Tesisleri",
+            "tip": "Ein weiterer großartiger Ort für Fischgerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sac Kavurma",
+            "tip": "Lapos serpenyőben sült hús, egy klasszikus."
+          },
+          {
+            "name": "Kiraz Yaprağı Sarması",
+            "tip": "Cseresznyelevélbe tekert rizstöltelék, egyedi helyi finomság."
+          },
+          {
+            "name": "Altın Yunus Tesisleri",
+            "tip": "Egy másik remek hely a halételekhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sac Kavurma",
+            "tip": "Carne prăjită într-o tigaie plată, un clasic."
+          },
+          {
+            "name": "Kiraz Yaprağı Sarması",
+            "tip": "Umplutură de orez învelită în frunze de cireș, o delicatesă locală unică."
+          },
+          {
+            "name": "Altın Yunus Tesisleri",
+            "tip": "Un alt loc minunat pentru preparate din pește."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sac Kavurma",
+            "tip": "Meat fried on a flat pan, a classic."
+          },
+          {
+            "name": "Kiraz Yaprağı Sarması",
+            "tip": "Rice filling wrapped in cherry leaves, a unique local delicacy."
+          },
+          {
+            "name": "Altın Yunus Tesisleri",
+            "tip": "Another great spot for fish dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Staudamms",
+            "tip": "Finden Sie einen ruhigen Platz am Karakaya-Staudamm, wenn Sie Zeit haben.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ein Teehaus in Battalgazi",
+            "tip": "Erleben Sie die lokale Atmosphäre in einem traditionellen Çay Evi.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A gát partja",
+            "tip": "Ha van ideje, keressen egy csendes helyet a Karakaya-gátnál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy teaház Battalgaziban",
+            "tip": "Tapasztalja meg a helyi hangulatot egy hagyományos Çay Eviben.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul barajului",
+            "tip": "Găsiți un loc liniștit la barajul Karakaya dacă aveți timp.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O ceainărie în Battalgazi",
+            "tip": "Experimentați atmosfera locală într-o casă de ceai tradițională (Çay Evi).",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "The shore of the dam",
+            "tip": "Find a quiet spot by the Karakaya Dam if you have time.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A teahouse in Battalgazi",
+            "tip": "Experience the local atmosphere in a traditional çay evi.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bakırcılar Çarşısı (Kupferschmiedebasar)",
+            "tip": "Bewundern Sie das traditionelle Handwerk und kaufen Sie ein einzigartiges Stück."
+          },
+          {
+            "name": "Lokale Märkte",
+            "tip": "Achten Sie auf kleine Märkte für frische Produkte und lokale Snacks."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bakırcılar Çarşısı (Rézműves Bazár)",
+            "tip": "Csodálja meg a hagyományos kézművességet és vásároljon egyedi darabot."
+          },
+          {
+            "name": "Helyi piacok",
+            "tip": "Keresse a kis piacokat friss termékekért és helyi harapnivalókért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bakırcılar Çarşısı (Bazarul de aramă)",
+            "tip": "Admirați meșteșugurile tradiționale și cumpărați o piesă unică."
+          },
+          {
+            "name": "Piețe locale",
+            "tip": "Căutați piețe mici pentru produse proaspete și gustări locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakırcılar Çarşısı (Coppersmiths' Bazaar)",
+            "tip": "Admire the traditional craftsmanship and buy a unique piece."
+          },
+          {
+            "name": "Local Markets",
+            "tip": "Look out for small markets for fresh produce and local snacks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Kent Kart für eine einfache Nutzung der öffentlichen Verkehrsmittel.",
+          "Dolmuş (Sammeltaxis) sind eine schnelle und günstige Alternative zu Bussen.",
+          "Fragen Sie Einheimische nach der richtigen Bus- oder Dolmuş-Linie; sie sind sehr hilfsbereit.",
+          "Überprüfen Sie die Fahrpläne, besonders für die letzte Rückfahrt am Abend."
+        ],
+        "hu": [
+          "Vásároljon Kent Kart-ot a tömegközlekedés egyszerű használatához.",
+          "A Dolmuş (iránytaxi) gyors és olcsó alternatívája a buszoknak.",
+          "Kérdezze meg a helyieket a megfelelő busz- vagy dolmuş-vonalról; nagyon segítőkészek.",
+          "Ellenőrizze a menetrendet, különösen az utolsó esti járatot."
+        ],
+        "ro": [
+          "Cumpărați un Kent Kart pentru utilizarea ușoară a transportului public.",
+          "Dolmușurile (taxiurile colective) sunt o alternativă rapidă și ieftină la autobuze.",
+          "Întrebați localnicii despre linia corectă de autobuz sau dolmuș; sunt foarte de ajutor.",
+          "Verificați orarele, în special pentru ultima cursă de seară."
+        ],
+        "en": [
+          "Buy a Kent Kart for easy use of public transport.",
+          "Dolmuş (shared taxis) are a fast and cheap alternative to buses.",
+          "Ask locals for the right bus or dolmuş line; they are very helpful.",
+          "Check the schedules, especially for the last return trip in the evening."
+        ]
+      }
+    }
+  }
+}

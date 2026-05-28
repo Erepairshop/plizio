@@ -1,0 +1,1460 @@
+{
+  "city_id": "poland-bydgoszcz-cities-v2",
+  "anchor": {
+    "name": "Bromberg",
+    "coords": [
+      18.0084,
+      53.1235
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Alter Markt",
+            "hu": "Régi Piactér",
+            "ro": "Piața Veche",
+            "en": "Old Market Square"
+          },
+          "coords": [
+            18.0019,
+            53.1235
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Starten Sie den Tag hier mit einem Kaffee und beobachten Sie das städtische Leben.",
+            "hu": "Kezdje a napot egy kávéval, és figyelje a város ébredését.",
+            "ro": "Începeți ziua aici cu o cafea, privind viața orașului.",
+            "en": "Start your day here with a coffee and watch the city life unfold."
+          }
+        },
+        {
+          "name": {
+            "de": "Bydgoszczer Venedig",
+            "hu": "Bydgoszczi Velence",
+            "ro": "Veneția din Bydgoszcz",
+            "en": "Bydgoszcz Venice"
+          },
+          "coords": [
+            18.0001,
+            53.1221
+          ],
+          "category": "old-town",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die besten Fotos gelingen von der Brücke Mostowa.",
+            "hu": "A legjobb fotókat a Mostowa hídról készítheti.",
+            "ro": "Cele mai bune fotografii se fac de pe podul Mostowa.",
+            "en": "The best photos can be taken from the Mostowa bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Mühleninsel (Wyspa Młyńska)",
+            "hu": "Malom-sziget (Wyspa Młyńska)",
+            "ro": "Insula Morilor (Wyspa Młyńska)",
+            "en": "Mill Island (Wyspa Młyńska)"
+          },
+          "coords": [
+            17.9969,
+            53.1225
+          ],
+          "category": "island",
+          "arrive_at": "10:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für ein Picknick oder einfach zum Entspannen im Gras.",
+            "hu": "Tökéletes hely egy piknikhez vagy csak egy kis pihenéshez a fűben.",
+            "ro": "Un loc perfect pentru un picnic sau pur și simplu pentru a vă relaxa pe iarbă.",
+            "en": "A perfect spot for a picnic or just relaxing on the grass."
+          }
+        },
+        {
+          "name": {
+            "de": "Bezirksmuseum Leon Wyczółkowski",
+            "hu": "Leon Wyczółkowski Kerületi Múzeum",
+            "ro": "Muzeul Districtual Leon Wyczółkowski",
+            "en": "Leon Wyczółkowski District Museum"
+          },
+          "coords": [
+            17.9975,
+            53.1218
+          ],
+          "category": "museums",
+          "arrive_at": "11:48",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die archäologischen und modernen Kunstausstellungen.",
+            "hu": "Koncentráljon a régészeti és a modern művészeti kiállításokra.",
+            "ro": "Concentrați-vă pe expozițiile de arheologie și artă modernă.",
+            "en": "Focus on the archaeological and modern art exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Skulptur 'Über den Fluss gehend'",
+            "hu": "'Átkelés a folyón' szobor",
+            "ro": "Sculptura 'Trecând peste râu'",
+            "en": "Sculpture 'Passing through the River'"
+          },
+          "coords": [
+            18.0008,
+            53.1238
+          ],
+          "category": "monuments",
+          "arrive_at": "13:42",
+          "stay_min": 15,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Warten Sie auf den Sonnenuntergang für eine dramatische Silhouette.",
+            "hu": "Várja meg a naplementét a drámai sziluettért.",
+            "ro": "Așteptați apusul pentru o siluetă dramatică.",
+            "en": "Wait for sunset for a dramatic silhouette."
+          }
+        },
+        {
+          "name": {
+            "de": "Bydgoszczer Dom",
+            "hu": "Bydgoszczi Dóm",
+            "ro": "Catedrala din Bydgoszcz",
+            "en": "Bydgoszcz Cathedral"
+          },
+          "coords": [
+            18.0025,
+            53.1232
+          ],
+          "category": "churches",
+          "arrive_at": "14:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die farbenfrohen Buntglasfenster und die gotische Architektur.",
+            "hu": "Figyelje meg a színes ólomüveg ablakokat és a gótikus építészetet.",
+            "ro": "Observați vitraliile colorate și arhitectura gotică.",
+            "en": "Pay attention to the colorful stained glass windows and the Gothic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Opera Nova",
+            "hu": "Opera Nova",
+            "ro": "Opera Nova",
+            "en": "Opera Nova"
+          },
+          "coords": [
+            17.9934,
+            53.125
+          ],
+          "category": "theatres",
+          "arrive_at": "15:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 1.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Auch wenn keine Vorstellung ist, lohnt sich ein Spaziergang um das moderne Gebäude.",
+            "hu": "Még ha nincs is előadás, érdemes körbesétálni a modern épületet.",
+            "ro": "Chiar dacă nu există un spectacol, merită să faceți o plimbare în jurul clădirii moderne.",
+            "en": "Even if there's no performance, a walk around the modern building is worthwhile."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Bydgoszcz beginnt am belebten Alten Markt. Von hier aus schlendern Sie zum malerischen Bydgoszczer Venedig und genießen die Atmosphäre am Wasser. Die grüne Oase der Mühleninsel lädt zum Verweilen und zum Besuch des Leon-Wyczółkowski-Museums ein, wo Sie in die lokale Kunst und Geschichte eintauchen. Am Nachmittag überqueren Sie symbolisch den Fluss mit der berühmten Skulptur, bevor Sie die gotische Pracht der Kathedrale bewundern. Ihr Spaziergang endet an der modernen Opera Nova, einem architektonischen Highlight, das einen Kontrast zur Altstadt bildet und den perfekten Abschluss für Ihren kulturellen Stadtrundgang darstellt.",
+        "hu": "A nap Bydgoszczban a nyüzsgő Régi Piactéren kezdődik. Innen sétáljon el a festői Bydgoszczi Velencébe, és élvezze a vízparti hangulatot. A Malom-sziget zöld oázisa pihenésre és a Leon Wyczółkowski Múzeum meglátogatására csábít, ahol elmerülhet a helyi művészetben és történelemben. Délután szimbolikusan átkel a folyón a híres szoborral, mielőtt megcsodálná a dóm gótikus pompáját. Sétája a modern Opera Novánál ér véget, egy építészeti gyöngyszemnél, amely kontrasztot alkot az óvárossal, és tökéletes lezárása a kulturális városnézésnek.",
+        "ro": "Ziua dvs. în Bydgoszcz începe în Piața Veche animată. De aici, plimbați-vă spre pitoreasca Veneție din Bydgoszcz și bucurați-vă de atmosfera de pe malul apei. Oaza verde a Insulei Morilor vă invită să zăboviți și să vizitați Muzeul Leon Wyczółkowski, unde vă puteți cufunda în arta și istoria locală. După-amiaza, traversați simbolic râul cu faimoasa sculptură înainte de a admira splendoarea gotică a catedralei. Plimbarea se încheie la moderna Opera Nova, o bijuterie arhitecturală care contrastează cu orașul vechi și oferă încheierea perfectă pentru turul cultural al orașului.",
+        "en": "Your day in Bydgoszcz begins at the bustling Old Market Square. From here, stroll to the picturesque Bydgoszcz Venice and enjoy the waterside atmosphere. The green oasis of Mill Island invites you to linger and visit the Leon Wyczółkowski Museum, where you can immerse yourself in local art and history. In the afternoon, symbolically cross the river with the famous sculpture before admiring the Gothic splendor of the cathedral. Your walk concludes at the modern Opera Nova, an architectural highlight that contrasts with the old town and provides the perfect end to your cultural city tour."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pierogi",
+            "tip": "Probieren Sie die traditionellen gefüllten Teigtaschen in der Pierogarnia Stary Młyn."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Eine saure Roggenmehlsuppe, oft im Brot serviert, perfekt bei Karczma Młyńska."
+          },
+          {
+            "name": "Gęś",
+            "tip": "Gänsebraten ist eine lokale Spezialität, besonders im Herbst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pierogi",
+            "tip": "Kóstolja meg a hagyományos töltött táskákat a Pierogarnia Stary Młyn-ben."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Savanyú rozsleves, gyakran kenyérben tálalva, tökéletes a Karczma Młyńska-ban."
+          },
+          {
+            "name": "Gęś",
+            "tip": "A sült liba helyi specialitás, különösen ősszel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierogi",
+            "tip": "Încercați găluștele tradiționale umplute la Pierogarnia Stary Młyn."
+          },
+          {
+            "name": "Żurek",
+            "tip": "O supă acră de secară, adesea servită în pâine, perfectă la Karczma Młyńska."
+          },
+          {
+            "name": "Gęś",
+            "tip": "Friptura de gâscă este o specialitate locală, mai ales toamna."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierogi",
+            "tip": "Try the traditional filled dumplings at Pierogarnia Stary Młyn."
+          },
+          {
+            "name": "Żurek",
+            "tip": "A sour rye soup, often served in a bread bowl, perfect at Karczma Młyńska."
+          },
+          {
+            "name": "Gęś",
+            "tip": "Roast goose is a local specialty, especially in autumn."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mühleninsel",
+            "tip": "Finden Sie eine ruhige Bank am Wasser und lauschen Sie dem Rauschen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Brda-Ufer",
+            "tip": "Ein Spaziergang entlang des Flusses am späten Nachmittag ist sehr friedlich.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kasimir-der-Große-Park",
+            "tip": "Ein klassischer Stadtpark für eine Pause vom Sightseeing.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Malom-sziget",
+            "tip": "Keressen egy csendes padot a víz mellett, és hallgassa a zúgást.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Brda-folyó partja",
+            "tip": "Egy késő délutáni séta a folyó mentén nagyon békés.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Nagy Kázmér Park",
+            "tip": "Klasszikus városi park egy kis szünetre a városnézés közben.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Insula Morilor",
+            "tip": "Găsiți o bancă liniștită lângă apă și ascultați susurul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul râului Brda",
+            "tip": "O plimbare de-a lungul râului după-amiaza târziu este foarte liniștită.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Cazimir cel Mare",
+            "tip": "Un parc urban clasic pentru o pauză de la vizitarea obiectivelor turistice.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mill Island",
+            "tip": "Find a quiet bench by the water and listen to its murmur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the Brda River",
+            "tip": "A late afternoon walk along the river is very peaceful.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Casimir the Great Park",
+            "tip": "A classic city park for a break from sightseeing.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stary Rynek",
+            "tip": "Rund um den Alten Markt finden Sie Souvenirläden mit lokalem Kunsthandwerk."
+          },
+          {
+            "name": "ulica Długa",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus lokalen und internationalen Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stary Rynek",
+            "tip": "A Régi Piactér körül helyi kézműves termékeket árusító ajándékboltokat talál."
+          },
+          {
+            "name": "Długa utca",
+            "tip": "A fő bevásárlóutca helyi és nemzetközi márkák keverékével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stary Rynek",
+            "tip": "În jurul Pieței Vechi veți găsi magazine de suveniruri cu artizanat local."
+          },
+          {
+            "name": "Strada Długa",
+            "tip": "Principala stradă comercială cu un amestec de mărci locale și internaționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stary Rynek",
+            "tip": "Around the Old Market Square, you'll find souvenir shops with local crafts."
+          },
+          {
+            "name": "Długa Street",
+            "tip": "The main shopping street with a mix of local and international brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel auf Kopfsteinpflaster laufen werden.",
+          "Halten Sie Ihre Kamera bereit, besonders im Bereich des Bydgoszczer Venedigs.",
+          "Prüfen Sie die Öffnungszeiten des Museums im Voraus.",
+          "Einige der besten Aussichten hat man von den zahlreichen Brücken."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog macskakövön sétálni.",
+          "Tartsa készenlétben a fényképezőgépét, különösen a Bydgoszczi Velence környékén.",
+          "Előre ellenőrizze a múzeum nyitvatartási idejét.",
+          "A legjobb kilátás a számos híd egyikéről nyílik."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe pavaj.",
+          "Țineți aparatul foto pregătit, mai ales în zona Veneției din Bydgoszcz.",
+          "Verificați în avans programul de funcționare al muzeului.",
+          "Unele dintre cele mai bune priveliști sunt de pe numeroasele poduri."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking a lot on cobblestones.",
+          "Keep your camera ready, especially around the Bydgoszcz Venice area.",
+          "Check the museum's opening hours in advance.",
+          "Some of the best views are from the numerous bridges."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Alter Markt",
+            "hu": "Régi Piactér",
+            "ro": "Piața Veche",
+            "en": "Old Market Square"
+          },
+          "coords": [
+            18.0019,
+            53.1235
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Rad an und erkunden Sie den Platz zu Fuß.",
+            "hu": "Zárja le a biciklit, és fedezze fel a teret gyalog.",
+            "ro": "Legați-vă bicicleta și explorați piața pe jos.",
+            "en": "Lock up your bike and explore the square on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Mühleninsel & Bydgoszczer Venedig",
+            "hu": "Malom-sziget és Bydgoszczi Velence",
+            "ro": "Insula Morilor & Veneția din Bydgoszcz",
+            "en": "Mill Island & Bydgoszcz Venice"
+          },
+          "coords": [
+            17.9969,
+            53.1225
+          ],
+          "category": "island",
+          "arrive_at": "09:36",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radfahren Sie um die Insel und über die Brücken für tolle Ausblicke.",
+            "hu": "Kerékpározzon körbe a szigeten és át a hidakon a nagyszerű kilátásért.",
+            "ro": "Mergeți cu bicicleta în jurul insulei și peste poduri pentru priveliști minunate.",
+            "en": "Cycle around the island and over the bridges for great views."
+          }
+        },
+        {
+          "name": {
+            "de": "Opera Nova",
+            "hu": "Opera Nova",
+            "ro": "Opera Nova",
+            "en": "Opera Nova"
+          },
+          "coords": [
+            17.9934,
+            53.125
+          ],
+          "category": "theatres",
+          "arrive_at": "11:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein guter Ort, um das moderne Bydgoszcz zu sehen. Es gibt Fahrradständer in der Nähe.",
+            "hu": "Jó hely a modern Bydgoszcz megtekintésére. A közelben kerékpártárolók találhatók.",
+            "ro": "Un loc bun pentru a vedea Bydgoszcz-ul modern. Există suporturi pentru biciclete în apropiere.",
+            "en": "A good place to see modern Bydgoszcz. There are bike racks nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Bezirksmuseum Leon Wyczółkowski",
+            "hu": "Leon Wyczółkowski Kerületi Múzeum",
+            "ro": "Muzeul Districtual Leon Wyczółkowski",
+            "en": "Leon Wyczółkowski District Museum"
+          },
+          "coords": [
+            17.9975,
+            53.1218
+          ],
+          "category": "museums",
+          "arrive_at": "11:52",
+          "stay_min": 120,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit für dieses umfangreiche Museum ein.",
+            "hu": "Szánjon elegendő időt erre a kiterjedt múzeumra.",
+            "ro": "Planificați suficient timp pentru acest muzeu extins.",
+            "en": "Plan enough time for this extensive museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Bydgoszczer Dom & Skulptur",
+            "hu": "Bydgoszczi Dóm és Szobor",
+            "ro": "Catedrala & Sculptura din Bydgoszcz",
+            "en": "Bydgoszcz Cathedral & Sculpture"
+          },
+          "coords": [
+            18.0025,
+            53.1232
+          ],
+          "category": "churches",
+          "arrive_at": "14:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und besuchen Sie die Kathedrale, bevor Sie die berühmte Skulptur bewundern.",
+            "hu": "Tegye le a kerékpárt, és látogassa meg a katedrálist, mielőtt megcsodálná a híres szobrot.",
+            "ro": "Parcați bicicleta și vizitați catedrala înainte de a admira faimoasa sculptură.",
+            "en": "Park your bike and visit the cathedral before admiring the famous sculpture."
+          }
+        },
+        {
+          "name": {
+            "de": "Exploseum",
+            "hu": "Exploseum",
+            "ro": "Exploseum",
+            "en": "Exploseum"
+          },
+          "coords": [
+            18.0986,
+            53.0905
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 39,
+          "hop_from_prev_km": 6.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Radtour hierher führt durch Waldgebiete. Eine tolle Abwechslung zur Stadt.",
+            "hu": "Az ide vezető kerékpárút erdős területeken halad át. Nagyszerű változatosság a városhoz képest.",
+            "ro": "Traseul cu bicicleta până aici trece prin zone împădurite. O schimbare grozavă față de oraș.",
+            "en": "The bike ride here leads through forest areas. A great change from the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und starten Sie am Alten Markt in Bydgoszcz. Ihre erste Etappe führt Sie zur idyllischen Mühleninsel und dem Bydgoszczer Venedig, wo Radwege am Wasser entlangführen. Weiter geht es zur modernen Opera Nova, bevor Sie zurück ins Herz der Insel radeln, um im Bezirksmuseum in die Geschichte einzutauchen. Der Nachmittag gehört der Erkundung des Domviertels, wo Sie die Kathedrale und die berühmte Seiltänzer-Skulptur bewundern. Die letzte, längere Etappe führt Sie durch Wälder zum faszinierenden Exploseum, einem Relikt der Industriegeschichte, das einen spannenden Kontrast zum Stadtzentrum bietet.",
+        "hu": "Pattanjon biciklire, és induljon a bydgoszczi Régi Piactérről. Az első szakasz az idilli Malom-szigetre és a Bydgoszczi Velencébe vezet, ahol a vízparti kerékpárutakon tekerhet. Továbbhaladva a modern Opera Nova felé, majd vissza a sziget szívébe, hogy a Kerületi Múzeumban elmerüljön a történelemben. A délután a Dómnegyed felfedezésével telik, ahol megcsodálhatja a katedrálist és a híres kötéltáncos szobrot. Az utolsó, hosszabb szakasz erdőkön át vezet a lenyűgöző Exploseumba, egy ipari történelmi emlékhelyre, amely izgalmas kontrasztot kínál a városközponttal.",
+        "ro": "Urcați-vă pe bicicletă și porniți din Piața Veche din Bydgoszcz. Prima etapă vă duce la idilica Insulă a Morilor și la Veneția din Bydgoszcz, unde pistele de biciclete șerpuiesc de-a lungul apei. Continuați spre moderna Opera Nova înainte de a pedala înapoi în inima insulei pentru a vă cufunda în istorie la Muzeul Districtual. După-amiaza este dedicată explorării cartierului catedralei, unde puteți admira catedrala și faimoasa sculptură a acrobatului pe sârmă. Ultima și cea mai lungă etapă vă duce prin păduri la fascinantul Exploseum, o relicvă a istoriei industriale care oferă un contrast palpitant cu centrul orașului.",
+        "en": "Hop on your bike and start at the Old Market Square in Bydgoszcz. Your first leg takes you to the idyllic Mill Island and Bydgoszcz Venice, where bike paths run along the water. Continue to the modern Opera Nova before cycling back to the heart of the island to delve into history at the District Museum. The afternoon is for exploring the Cathedral district, where you can admire the cathedral and the famous tightrope walker sculpture. The final, longer stage takes you through forests to the fascinating Exploseum, a relic of industrial history that offers an exciting contrast to the city center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pierogi",
+            "tip": "Probieren Sie die traditionellen gefüllten Teigtaschen in der Pierogarnia Stary Młyn."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Eine saure Roggenmehlsuppe, oft im Brot serviert, perfekt bei Karczma Młyńska."
+          },
+          {
+            "name": "Gęś",
+            "tip": "Gänsebraten ist eine lokale Spezialität, besonders im Herbst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pierogi",
+            "tip": "Kóstolja meg a hagyományos töltött táskákat a Pierogarnia Stary Młyn-ben."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Savanyú rozsleves, gyakran kenyérben tálalva, tökéletes a Karczma Młyńska-ban."
+          },
+          {
+            "name": "Gęś",
+            "tip": "A sült liba helyi specialitás, különösen ősszel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierogi",
+            "tip": "Încercați găluștele tradiționale umplute la Pierogarnia Stary Młyn."
+          },
+          {
+            "name": "Żurek",
+            "tip": "O supă acră de secară, adesea servită în pâine, perfectă la Karczma Młyńska."
+          },
+          {
+            "name": "Gęś",
+            "tip": "Friptura de gâscă este o specialitate locală, mai ales toamna."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierogi",
+            "tip": "Try the traditional filled dumplings at Pierogarnia Stary Młyn."
+          },
+          {
+            "name": "Żurek",
+            "tip": "A sour rye soup, often served in a bread bowl, perfect at Karczma Młyńska."
+          },
+          {
+            "name": "Gęś",
+            "tip": "Roast goose is a local specialty, especially in autumn."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mühleninsel",
+            "tip": "Finden Sie eine ruhige Bank am Wasser und lauschen Sie dem Rauschen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Brda-Ufer",
+            "tip": "Eine Radtour entlang des Flusses am späten Nachmittag ist sehr friedlich.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Myślęcinek Park",
+            "tip": "Ein riesiger Park etwas außerhalb, ideal für eine lange, ruhige Radtour.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Malom-sziget",
+            "tip": "Keressen egy csendes padot a víz mellett, és hallgassa a zúgást.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Brda-folyó partja",
+            "tip": "Egy késő délutáni biciklitúra a folyó mentén nagyon békés.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Myślęcinek Park",
+            "tip": "Hatalmas park a városon kívül, ideális egy hosszú, csendes kerékpártúrához.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Insula Morilor",
+            "tip": "Găsiți o bancă liniștită lângă apă și ascultați susurul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul râului Brda",
+            "tip": "O plimbare cu bicicleta de-a lungul râului după-amiaza târziu este foarte liniștită.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Myślęcinek",
+            "tip": "Un parc imens chiar în afara orașului, ideal pentru o plimbare lungă și liniștită cu bicicleta.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mill Island",
+            "tip": "Find a quiet bench by the water and listen to its murmur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the Brda River",
+            "tip": "A late afternoon bike ride along the river is very peaceful.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Myślęcinek Park",
+            "tip": "A huge park just outside the city, ideal for a long, quiet bike ride.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stary Rynek",
+            "tip": "Rund um den Alten Markt finden Sie Souvenirläden mit lokalem Kunsthandwerk."
+          },
+          {
+            "name": "ulica Długa",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus lokalen und internationalen Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stary Rynek",
+            "tip": "A Régi Piactér körül helyi kézműves termékeket árusító ajándékboltokat talál."
+          },
+          {
+            "name": "Długa utca",
+            "tip": "A fő bevásárlóutca helyi és nemzetközi márkák keverékével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stary Rynek",
+            "tip": "În jurul Pieței Vechi veți găsi magazine de suveniruri cu artizanat local."
+          },
+          {
+            "name": "Strada Długa",
+            "tip": "Principala stradă comercială cu un amestec de mărci locale și internaționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stary Rynek",
+            "tip": "Around the Old Market Square, you'll find souvenir shops with local crafts."
+          },
+          {
+            "name": "Długa Street",
+            "tip": "The main shopping street with a mix of local and international brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bydgoszcz ist relativ fahrradfreundlich, aber achten Sie auf Fußgänger in der Altstadt.",
+          "Nutzen Sie die Radwege entlang des Flusses.",
+          "Ein gutes Schloss ist unerlässlich, wenn Sie Sehenswürdigkeiten besichtigen.",
+          "Die Fahrt zum Exploseum erfordert etwas Ausdauer."
+        ],
+        "hu": [
+          "Bydgoszcz viszonylag biciklibarát, de figyeljen a gyalogosokra az óvárosban.",
+          "Használja a folyó menti kerékpárutakat.",
+          "Egy jó lakat elengedhetetlen a látnivalók megtekintésekor.",
+          "Az Exploseumhoz vezető út némi kitartást igényel."
+        ],
+        "ro": [
+          "Bydgoszcz este relativ prietenos cu bicicletele, dar fiți atenți la pietoni în orașul vechi.",
+          "Folosiți pistele de biciclete de-a lungul râului.",
+          "Un lacăt bun este esențial atunci când vizitați obiectivele turistice.",
+          "Călătoria spre Exploseum necesită o oarecare rezistență."
+        ],
+        "en": [
+          "Bydgoszcz is relatively bike-friendly, but watch out for pedestrians in the old town.",
+          "Use the cycle paths along the river.",
+          "A good lock is essential when you're visiting sights.",
+          "The ride to the Exploseum requires some stamina."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 19.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Exploseum",
+            "hu": "Exploseum",
+            "ro": "Exploseum",
+            "en": "Exploseum"
+          },
+          "coords": [
+            18.0986,
+            53.0905
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 150,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, um den Vormittagsverkehr in der Stadt zu meiden. Planen Sie viel Zeit ein.",
+            "hu": "Kezdje itt, hogy elkerülje a délelőtti városi forgalmat. Szánjon rá bőséges időt.",
+            "ro": "Începeți aici pentru a evita traficul de dimineață din oraș. Planificați-vă mult timp.",
+            "en": "Start here to avoid the morning city traffic. Plan for plenty of time."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Altstadt (Cluster 1)",
+            "hu": "Óvárosi Parkoló (1. Klaszter)",
+            "ro": "Parcare Centrul Vechi (Cluster 1)",
+            "en": "Old Town Car Park (Cluster 1)"
+          },
+          "coords": [
+            18.004,
+            53.125
+          ],
+          "category": "transport",
+          "arrive_at": "12:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 9.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Rest des Tages und erkunden Sie das Zentrum zu Fuß.",
+            "hu": "Parkoljon le itt a nap hátralévő részére, és fedezze fel a központot gyalog.",
+            "ro": "Parcați aici pentru restul zilei și explorați centrul pe jos.",
+            "en": "Park here for the rest of the day and explore the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Markt & Dom",
+            "hu": "Régi Piactér és Dóm",
+            "ro": "Piața Veche & Catedrală",
+            "en": "Old Market Square & Cathedral"
+          },
+          "coords": [
+            18.0019,
+            53.1235
+          ],
+          "category": "squares",
+          "arrive_at": "12:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für den Platz, die Kathedrale und ein Mittagessen.",
+            "hu": "Szánjon időt a térre, a dómra és egy ebédre.",
+            "ro": "Acordați-vă timp pentru piață, catedrală și un prânz.",
+            "en": "Take your time for the square, the cathedral, and lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Bydgoszczer Venedig",
+            "hu": "Bydgoszczi Velence",
+            "ro": "Veneția din Bydgoszcz",
+            "en": "Bydgoszcz Venice"
+          },
+          "coords": [
+            18.0001,
+            53.1221
+          ],
+          "category": "old-town",
+          "arrive_at": "13:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Markt, aber eine völlig andere Atmosphäre.",
+            "hu": "Rövid séta a piactól, de teljesen más hangulat.",
+            "ro": "O scurtă plimbare de la piață, dar o atmosferă complet diferită.",
+            "en": "A short walk from the market, but a completely different atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Mühleninsel & Museum",
+            "hu": "Malom-sziget és Múzeum",
+            "ro": "Insula Morilor & Muzeu",
+            "en": "Mill Island & Museum"
+          },
+          "coords": [
+            17.9969,
+            53.1225
+          ],
+          "category": "island",
+          "arrive_at": "14:26",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verbringen Sie den Großteil des Nachmittags hier, es gibt viel zu sehen.",
+            "hu": "Töltse itt a délután nagy részét, rengeteg a látnivaló.",
+            "ro": "Petreceți cea mai mare parte a după-amiezii aici, sunt multe de văzut.",
+            "en": "Spend most of the afternoon here, there's a lot to see."
+          }
+        },
+        {
+          "name": {
+            "de": "Opera Nova & Skulptur 'Über den Fluss gehend'",
+            "hu": "Opera Nova és 'Átkelés a folyón' szobor",
+            "ro": "Opera Nova & Sculptura 'Trecând peste râu'",
+            "en": "Opera Nova & Sculpture 'Passing through the River'"
+          },
+          "coords": [
+            17.9934,
+            53.125
+          ],
+          "category": "theatres",
+          "arrive_at": "16:44",
+          "stay_min": 45,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Abschluss des Tages mit Blick auf den Fluss und die moderne Architektur.",
+            "hu": "Szép lezárása a napnak a folyóra és a modern építészetre nyíló kilátással.",
+            "ro": "Un final frumos de zi, cu vedere la râu și la arhitectura modernă.",
+            "en": "A beautiful end to the day with views of the river and modern architecture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt mit einem strategischen Besuch des außerhalb gelegenen Exploseums, um den Morgenverkehr zu umgehen und in die faszinierende Industriegeschichte einzutauchen. Nach diesem intensiven Erlebnis fahren Sie ins Stadtzentrum, parken Ihr Auto und beginnen Ihren Stadtspaziergang. Der Mittag gehört dem historischen Herzen von Bydgoszcz: dem Alten Markt und der majestätischen Kathedrale, ideal für eine ausgiebige Mittagspause. Am Nachmittag erkunden Sie das malerische Bydgoszczer Venedig zu Fuß, bevor Sie sich auf die grüne Mühleninsel begeben, um das Museum zu besuchen und die Natur zu genießen. Der Tag endet mit einem Spaziergang zur modernen Opera Nova und der berühmten Skulptur, die einen perfekten Kontrastpunkt setzt, bevor Sie zu Ihrem Auto zurückkehren.",
+        "hu": "Autós napja egy stratégiai látogatással kezdődik a városon kívüli Exploseumban, hogy elkerülje a reggeli forgalmat, és elmerüljön a lenyűgöző ipari történelemben. Ezen intenzív élmény után a városközpontba hajt, leparkolja az autót, és megkezdi városi sétáját. A déli órák Bydgoszcz történelmi szívében telnek: a Régi Piactéren és a fenséges dómban, ami ideális egy kiadós ebédszünethez. Délután gyalogosan fedezi fel a festői Bydgoszczi Velencét, mielőtt a zöld Malom-szigetre indulna a múzeumba és a természetbe. A nap egy sétával zárul a modern Opera Novához és a híres szoborhoz, ami tökéletes kontrasztot nyújt, mielőtt visszatérne az autójához.",
+        "ro": "Ziua dvs. cu mașina începe cu o vizită strategică la Exploseum, situat în afara orașului, pentru a evita traficul de dimineață și a vă cufunda în fascinanta istorie industrială. După această experiență intensă, conduceți spre centrul orașului, parcați mașina și începeți plimbarea urbană. Prânzul este dedicat inimii istorice a Bydgoszcz: Piața Veche și catedrala maiestuoasă, ideale pentru o pauză de masă lungă. După-amiaza, explorați pe jos pitoreasca Veneție din Bydgoszcz, înainte de a vă îndrepta spre verdele Insulei a Morilor pentru a vizita muzeul și a vă bucura de natură. Ziua se încheie cu o plimbare la moderna Opera Nova și la faimoasa sculptură, oferind un punct de contrast perfect înainte de a vă întoarce la mașină.",
+        "en": "Your car day begins with a strategic visit to the outlying Exploseum to bypass morning traffic and delve into fascinating industrial history. After this intense experience, you drive to the city center, park your car, and begin your city walk. Midday belongs to the historical heart of Bydgoszcz: the Old Market Square and the majestic Cathedral, ideal for a lengthy lunch break. In the afternoon, you explore the picturesque Bydgoszcz Venice on foot before heading to the green Mill Island to visit the museum and enjoy nature. The day concludes with a walk to the modern Opera Nova and the famous sculpture, providing a perfect point of contrast before you return to your car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pierogi",
+            "tip": "Probieren Sie die traditionellen gefüllten Teigtaschen in der Pierogarnia Stary Młyn."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Eine saure Roggenmehlsuppe, oft im Brot serviert, perfekt bei Karczma Młyńska."
+          },
+          {
+            "name": "Gęś",
+            "tip": "Gänsebraten ist eine lokale Spezialität, besonders im Herbst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pierogi",
+            "tip": "Kóstolja meg a hagyományos töltött táskákat a Pierogarnia Stary Młyn-ben."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Savanyú rozsleves, gyakran kenyérben tálalva, tökéletes a Karczma Młyńska-ban."
+          },
+          {
+            "name": "Gęś",
+            "tip": "A sült liba helyi specialitás, különösen ősszel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierogi",
+            "tip": "Încercați găluștele tradiționale umplute la Pierogarnia Stary Młyn."
+          },
+          {
+            "name": "Żurek",
+            "tip": "O supă acră de secară, adesea servită în pâine, perfectă la Karczma Młyńska."
+          },
+          {
+            "name": "Gęś",
+            "tip": "Friptura de gâscă este o specialitate locală, mai ales toamna."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierogi",
+            "tip": "Try the traditional filled dumplings at Pierogarnia Stary Młyn."
+          },
+          {
+            "name": "Żurek",
+            "tip": "A sour rye soup, often served in a bread bowl, perfect at Karczma Młyńska."
+          },
+          {
+            "name": "Gęś",
+            "tip": "Roast goose is a local specialty, especially in autumn."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mühleninsel",
+            "tip": "Finden Sie eine ruhige Bank am Wasser und lauschen Sie dem Rauschen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Brda-Ufer",
+            "tip": "Ein Spaziergang entlang des Flusses am späten Nachmittag ist sehr friedlich.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Myślęcinek Park",
+            "tip": "Mit dem Auto leicht erreichbar, ein riesiger Park für eine ausgedehnte Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Malom-sziget",
+            "tip": "Keressen egy csendes padot a víz mellett, és hallgassa a zúgást.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Brda-folyó partja",
+            "tip": "Egy késő délutáni séta a folyó mentén nagyon békés.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Myślęcinek Park",
+            "tip": "Autóval könnyen megközelíthető, hatalmas park egy hosszabb pihenőhöz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Insula Morilor",
+            "tip": "Găsiți o bancă liniștită lângă apă și ascultați susurul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul râului Brda",
+            "tip": "O plimbare de-a lungul râului după-amiaza târziu este foarte liniștită.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Myślęcinek",
+            "tip": "Ușor accesibil cu mașina, un parc imens pentru o pauză extinsă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mill Island",
+            "tip": "Find a quiet bench by the water and listen to its murmur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the Brda River",
+            "tip": "A late afternoon walk along the river is very peaceful.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Myślęcinek Park",
+            "tip": "Easily reachable by car, a huge park for an extended break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stary Rynek",
+            "tip": "Rund um den Alten Markt finden Sie Souvenirläden mit lokalem Kunsthandwerk."
+          },
+          {
+            "name": "Zielone Arkady",
+            "tip": "Ein modernes Einkaufszentrum, das mit dem Auto leicht zu erreichen ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stary Rynek",
+            "tip": "A Régi Piactér körül helyi kézműves termékeket árusító ajándékboltokat talál."
+          },
+          {
+            "name": "Zielone Arkady",
+            "tip": "Modern bevásárlóközpont, autóval könnyen megközelíthető."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stary Rynek",
+            "tip": "În jurul Pieței Vechi veți găsi magazine de suveniruri cu artizanat local."
+          },
+          {
+            "name": "Zielone Arkady",
+            "tip": "Un centru comercial modern, ușor accesibil cu mașina."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stary Rynek",
+            "tip": "Around the Old Market Square, you'll find souvenir shops with local crafts."
+          },
+          {
+            "name": "Zielone Arkady",
+            "tip": "A modern shopping mall, easily accessible by car."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie Park-and-Ride-Möglichkeiten, wenn verfügbar.",
+          "Planen Sie die Route zum Exploseum im Voraus, da es außerhalb liegt.",
+          "Achten Sie auf Parkzonen und Gebühren im Stadtzentrum.",
+          "Das Auto gibt Ihnen die Flexibilität, auch weiter entfernte Parks wie Myślęcinek zu besuchen."
+        ],
+        "hu": [
+          "Használja a Park and Ride lehetőségeket, ha rendelkezésre állnak.",
+          "Tervezze meg előre az útvonalat az Exploseumhoz, mivel az a városon kívül található.",
+          "Figyeljen a parkolási zónákra és díjakra a városközpontban.",
+          "Az autó rugalmasságot ad, hogy távolabbi parkokat is meglátogasson, mint például a Myślęcinek."
+        ],
+        "ro": [
+          "Utilizați opțiunile Park and Ride, dacă sunt disponibile.",
+          "Planificați traseul către Exploseum în avans, deoarece este în afara orașului.",
+          "Fiți atenți la zonele de parcare și taxele din centrul orașului.",
+          "Mașina vă oferă flexibilitatea de a vizita parcuri mai îndepărtate, cum ar fi Myślęcinek."
+        ],
+        "en": [
+          "Use Park and Ride options if available.",
+          "Plan the route to the Exploseum in advance as it is located outside the city.",
+          "Pay attention to parking zones and fees in the city center.",
+          "The car gives you the flexibility to visit more distant parks like Myślęcinek."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:39",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Alten Markt (Cluster 1)",
+            "hu": "Érkezés a Régi Piactérre (1. Klaszter)",
+            "ro": "Sosire în Piața Veche (Cluster 1)",
+            "en": "Arrival at Old Market Square (Cluster 1)"
+          },
+          "coords": [
+            18.0019,
+            53.1235
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie an einer zentralen Haltestelle wie 'Stary Rynek' aus.",
+            "hu": "Szálljon le egy központi megállónál, mint a 'Stary Rynek'.",
+            "ro": "Coborâți la o stație centrală precum 'Stary Rynek'.",
+            "en": "Get off at a central stop like 'Stary Rynek'."
+          }
+        },
+        {
+          "name": {
+            "de": "Bydgoszczer Dom",
+            "hu": "Bydgoszczi Dóm",
+            "ro": "Catedrala din Bydgoszcz",
+            "en": "Bydgoszcz Cathedral"
+          },
+          "coords": [
+            18.0025,
+            53.1232
+          ],
+          "category": "churches",
+          "arrive_at": "09:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein paar Schritte vom Marktplatz entfernt, ein Muss für Geschichtsliebhaber.",
+            "hu": "Csak pár lépésre a piactértől, kötelező a történelem kedvelőinek.",
+            "ro": "La doar câțiva pași de piață, un punct de atracție pentru iubitorii de istorie.",
+            "en": "Just a few steps from the market square, a must for history lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "Bydgoszczer Venedig & Mühleninsel",
+            "hu": "Bydgoszczi Velence és Malom-sziget",
+            "ro": "Veneția din Bydgoszcz & Insula Morilor",
+            "en": "Bydgoszcz Venice & Mill Island"
+          },
+          "coords": [
+            17.998,
+            53.1223
+          ],
+          "category": "old-town",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen gesamten Bereich zu Fuß, er ist kompakt und wunderschön.",
+            "hu": "Fedezze fel ezt az egész területet gyalog, kompakt és gyönyörű.",
+            "ro": "Explorați întreaga zonă pe jos, este compactă și superbă.",
+            "en": "Explore this entire area on foot, it's compact and beautiful."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Opera Nova (Cluster 2)",
+            "hu": "Utazás az Opera Novához (2. Klaszter)",
+            "ro": "Călătorie la Opera Nova (Cluster 2)",
+            "en": "Trip to Opera Nova (Cluster 2)"
+          },
+          "coords": [
+            17.9934,
+            53.125
+          ],
+          "category": "theatres",
+          "arrive_at": "12:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie eine Straßenbahn oder einen Bus für diese kurze Strecke.",
+            "hu": "Vegyen igénybe villamost vagy buszt erre a rövid távolságra.",
+            "ro": "Luați un tramvai sau un autobuz pentru această distanță scurtă.",
+            "en": "Take a tram or bus for this short distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Bezirksmuseum Leon Wyczółkowski",
+            "hu": "Leon Wyczółkowski Kerületi Múzeum",
+            "ro": "Muzeul Districtual Leon Wyczółkowski",
+            "en": "Leon Wyczółkowski District Museum"
+          },
+          "coords": [
+            17.9975,
+            53.1218
+          ],
+          "category": "museums",
+          "arrive_at": "13:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang über die Brücke von der Oper aus.",
+            "hu": "Rövid séta a hídon át az Operától.",
+            "ro": "O scurtă plimbare peste pod de la Operă.",
+            "en": "A short walk across the bridge from the Opera."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Exploseum (Cluster 3)",
+            "hu": "Utazás az Exploseumhoz (3. Klaszter)",
+            "ro": "Călătorie la Exploseum (Cluster 3)",
+            "en": "Trip to Exploseum (Cluster 3)"
+          },
+          "coords": [
+            18.0986,
+            53.0905
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Dies erfordert eine spezielle Buslinie, planen Sie die Fahrtzeit sorgfältig.",
+            "hu": "Ehhez külön buszjáratra van szükség, tervezze meg gondosan az utazási időt.",
+            "ro": "Acest lucru necesită o linie specială de autobuz, planificați cu atenție timpul de călătorie.",
+            "en": "This requires a specific bus line, plan the travel time carefully."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt im Herzen der Stadt, am Alten Markt. Von hier aus erkunden Sie das erste Cluster zu Fuß: die Kathedrale, das malerische Bydgoszczer Venedig und die grüne Mühleninsel. Nach einer ausgiebigen Mittagspause nehmen Sie die Straßenbahn zum zweiten Cluster, der modernen Opera Nova, von wo aus Sie bequem zum Hauptgebäude des Bezirksmuseums spazieren können. Der Höhepunkt des Nachmittags ist die Busfahrt zum dritten Cluster, dem abgelegenen Exploseum. Diese Fahrt führt Sie aus dem Stadtzentrum heraus und bietet einen tiefen Einblick in die Industriegeschichte der Region, ein perfekter, nachdenklicher Abschluss Ihres Erkundungstages.",
+        "hu": "Tömegközlekedési napja a város szívében, a Régi Piactéren kezdődik. Innen gyalogosan fedezi fel az első klasztert: a dómot, a festői Bydgoszczi Velencét és a zöld Malom-szigetet. Egy kiadós ebédszünet után villamossal utazik a második klaszterhez, a modern Opera Novához, ahonnan kényelmesen átsétálhat a Kerületi Múzeum főépületéhez. A délután csúcspontja a buszozás a harmadik klaszterhez, a távoli Exploseumhoz. Ez az utazás kiviszi a városközpontból, és mély betekintést nyújt a régió ipari történelmébe, tökéletes, elgondolkodtató lezárása a felfedező napnak.",
+        "ro": "Ziua dvs. cu transportul public începe în inima orașului, în Piața Veche. De aici, explorați primul cluster pe jos: catedrala, pitoreasca Veneție din Bydgoszcz și verdeața Insulei Morilor. După o pauză de prânz consistentă, luați tramvaiul spre al doilea cluster, moderna Opera Nova, de unde puteți merge pe jos confortabil până la clădirea principală a Muzeului Districtual. Punctul culminant al după-amiezii este călătoria cu autobuzul către al treilea cluster, îndepărtatul Exploseum. Această călătorie vă scoate din centrul orașului și oferă o perspectivă profundă asupra istoriei industriale a regiunii, o încheiere perfectă și reflexivă a zilei de explorare.",
+        "en": "Your day using public transport begins in the heart of the city, at the Old Market Square. From here, you explore the first cluster on foot: the Cathedral, the picturesque Bydgoszcz Venice, and the green Mill Island. After a hearty lunch break, you take the tram to the second cluster, the modern Opera Nova, from where you can comfortably walk to the main building of the District Museum. The highlight of the afternoon is the bus trip to the third cluster, the remote Exploseum. This journey takes you out of the city center and offers a deep insight into the region's industrial history, a perfect, thoughtful end to your day of exploration."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pierogi",
+            "tip": "Probieren Sie die traditionellen gefüllten Teigtaschen in der Pierogarnia Stary Młyn."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Eine saure Roggenmehlsuppe, oft im Brot serviert, perfekt bei Karczma Młyńska."
+          },
+          {
+            "name": "Gęś",
+            "tip": "Gänsebraten ist eine lokale Spezialität, besonders im Herbst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pierogi",
+            "tip": "Kóstolja meg a hagyományos töltött táskákat a Pierogarnia Stary Młyn-ben."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Savanyú rozsleves, gyakran kenyérben tálalva, tökéletes a Karczma Młyńska-ban."
+          },
+          {
+            "name": "Gęś",
+            "tip": "A sült liba helyi specialitás, különösen ősszel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierogi",
+            "tip": "Încercați găluștele tradiționale umplute la Pierogarnia Stary Młyn."
+          },
+          {
+            "name": "Żurek",
+            "tip": "O supă acră de secară, adesea servită în pâine, perfectă la Karczma Młyńska."
+          },
+          {
+            "name": "Gęś",
+            "tip": "Friptura de gâscă este o specialitate locală, mai ales toamna."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierogi",
+            "tip": "Try the traditional filled dumplings at Pierogarnia Stary Młyn."
+          },
+          {
+            "name": "Żurek",
+            "tip": "A sour rye soup, often served in a bread bowl, perfect at Karczma Młyńska."
+          },
+          {
+            "name": "Gęś",
+            "tip": "Roast goose is a local specialty, especially in autumn."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mühleninsel",
+            "tip": "Finden Sie eine ruhige Bank am Wasser und lauschen Sie dem Rauschen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Brda-Ufer",
+            "tip": "Ein Spaziergang entlang des Flusses am späten Nachmittag ist sehr friedlich.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kasimir-der-Große-Park",
+            "tip": "Ein klassischer Stadtpark für eine Pause vom Sightseeing.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Malom-sziget",
+            "tip": "Keressen egy csendes padot a víz mellett, és hallgassa a zúgást.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Brda-folyó partja",
+            "tip": "Egy késő délutáni séta a folyó mentén nagyon békés.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Nagy Kázmér Park",
+            "tip": "Klasszikus városi park egy kis szünetre a városnézés közben.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Insula Morilor",
+            "tip": "Găsiți o bancă liniștită lângă apă și ascultați susurul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul râului Brda",
+            "tip": "O plimbare de-a lungul râului după-amiaza târziu este foarte liniștită.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Cazimir cel Mare",
+            "tip": "Un parc urban clasic pentru o pauză de la vizitarea obiectivelor turistice.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mill Island",
+            "tip": "Find a quiet bench by the water and listen to its murmur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the Brda River",
+            "tip": "A late afternoon walk along the river is very peaceful.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Casimir the Great Park",
+            "tip": "A classic city park for a break from sightseeing.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stary Rynek",
+            "tip": "Rund um den Alten Markt finden Sie Souvenirläden mit lokalem Kunsthandwerk."
+          },
+          {
+            "name": "ulica Długa",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus lokalen und internationalen Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stary Rynek",
+            "tip": "A Régi Piactér körül helyi kézműves termékeket árusító ajándékboltokat talál."
+          },
+          {
+            "name": "Długa utca",
+            "tip": "A fő bevásárlóutca helyi és nemzetközi márkák keverékével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stary Rynek",
+            "tip": "În jurul Pieței Vechi veți găsi magazine de suveniruri cu artizanat local."
+          },
+          {
+            "name": "Strada Długa",
+            "tip": "Principala stradă comercială cu un amestec de mărci locale și internaționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stary Rynek",
+            "tip": "Around the Old Market Square, you'll find souvenir shops with local crafts."
+          },
+          {
+            "name": "Długa Street",
+            "tip": "The main shopping street with a mix of local and international brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel, um Geld zu sparen.",
+          "Nutzen Sie eine ÖPNV-App, um Routen und Fahrpläne in Echtzeit zu prüfen.",
+          "Planen Sie Pufferzeiten für Wartezeiten an Haltestellen ein.",
+          "Die Busfahrt zum Exploseum ist weniger frequentiert, prüfen Sie den Fahrplan im Voraus."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
+          "Használjon tömegközlekedési alkalmazást az útvonalak és menetrendek valós idejű ellenőrzéséhez.",
+          "Tervezzen be puffert időt a megállókban való várakozásra.",
+          "Az Exploseumhoz közlekedő buszjárat ritkább, ezért előre ellenőrizze a menetrendet."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru a economisi bani.",
+          "Utilizați o aplicație de transport public pentru a verifica rutele și orarele în timp real.",
+          "Planificați timp suplimentar pentru așteptarea în stații.",
+          "Autobuzul spre Exploseum circulă mai rar, verificați orarul în avans."
+        ],
+        "en": [
+          "Buy a day pass for public transport to save money.",
+          "Use a public transport app to check routes and schedules in real time.",
+          "Plan for buffer time for waiting at stops.",
+          "The bus to the Exploseum runs less frequently, so check the schedule beforehand."
+        ]
+      }
+    }
+  }
+}

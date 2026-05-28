@@ -1,0 +1,1484 @@
+{
+  "city_id": "poland-kielce-cities-v2",
+  "anchor": {
+    "name": "Kielce",
+    "coords": [
+      20.6286,
+      50.8661
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér (Rynek)",
+            "ro": "Piața Centrală (Rynek)",
+            "en": "Market Square (Rynek)"
+          },
+          "coords": [
+            20.628,
+            50.869
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Probieren Sie morgens einen Obwarzanek von einem der Stände.",
+            "hu": "Kóstoljon meg egy reggeli obwarzaneket az egyik standnál.",
+            "ro": "Încercați un covrig Obwarzanek de la o tarabă dimineața.",
+            "en": "Try an Obwarzanek pretzel from a stall in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Sienkiewicz-Straße",
+            "hu": "Sienkiewicz utca",
+            "ro": "Strada Sienkiewicz",
+            "en": "Sienkiewicz Street"
+          },
+          "coords": [
+            20.629,
+            50.873
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:40",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die Hauptschlagader der Stadt, perfekt für einen Spaziergang und zum Leutebeobachten.",
+            "hu": "A város fő artériája, tökéletes egy sétához és az emberek nézéséhez.",
+            "ro": "Artera principală a orașului, perfectă pentru o plimbare și pentru a privi oamenii.",
+            "en": "The city's main artery, perfect for a stroll and people-watching."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast der Krakauer Bischöfe",
+            "hu": "Krakkói Püspöki Palota",
+            "ro": "Palatul Episcopilor din Cracovia",
+            "en": "Palace of the Krakow Bishops"
+          },
+          "coords": [
+            20.6288,
+            50.8675
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:45",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht den angrenzenden Italienischen Garten.",
+            "hu": "Ne hagyja ki a szomszédos olasz kertet.",
+            "ro": "Nu ratați Grădina Italiană adiacentă.",
+            "en": "Don't miss the adjacent Italian Garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Kielce",
+            "hu": "Kielcei székesegyház",
+            "ro": "Catedrala din Kielce",
+            "en": "Kielce Cathedral"
+          },
+          "coords": [
+            20.6295,
+            50.8678
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:17",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie das reiche barocke Interieur und den Altar.",
+            "hu": "Csodálja meg a gazdag barokk belső teret és az oltárt.",
+            "ro": "Admirați interiorul baroc bogat și altarul.",
+            "en": "Admire the rich baroque interior and the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Spielzeug und Spiel",
+            "hu": "Játék- és Játékmúzeum",
+            "ro": "Muzeul Jucăriilor și al Jocului",
+            "en": "Museum of Toys and Play"
+          },
+          "coords": [
+            20.6255,
+            50.8685
+          ],
+          "category": "museums",
+          "arrive_at": "13:25",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein nostalgischer Spaß für Erwachsene und ein Vergnügen für Kinder.",
+            "hu": "Nosztalgikus szórakozás a felnőtteknek és élvezet a gyerekeknek.",
+            "ro": "Distracție nostalgică pentru adulți și o încântare pentru copii.",
+            "en": "A nostalgic fun for adults and a delight for children."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturschutzgebiet Kadzielnia",
+            "hu": "Kadzielnia Természetvédelmi Terület",
+            "ro": "Rezervația Naturală Kadzielnia",
+            "en": "Kadzielnia Nature Reserve"
+          },
+          "coords": [
+            20.618,
+            50.861
+          ],
+          "category": "natural features",
+          "arrive_at": "15:35",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Höhlen und den unterirdischen Pfad.",
+            "hu": "Fedezze fel a barlangokat és a föld alatti ösvényt.",
+            "ro": "Explorați peșterile și traseul subteran.",
+            "en": "Explore the caves and the underground trail."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in der Innenstadt",
+            "hu": "Vacsora a belvárosban",
+            "ro": "Cină în centrul orașului",
+            "en": "Dinner in the city center"
+          },
+          "coords": [
+            20.6275,
+            50.8688
+          ],
+          "category": "gastro",
+          "arrive_at": "17:21",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Kehren Sie zum Marktplatz zurück, um eine Vielzahl von Restaurants zu finden.",
+            "hu": "Térjen vissza a Piactérre a változatos éttermekért.",
+            "ro": "Întoarceți-vă în Piața Centrală pentru o varietate de restaurante.",
+            "en": "Return to the Market Square area for a variety of restaurants."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem belebten Marktplatz, dem Herzen von Kielce. Spazieren Sie die historische Sienkiewicz-Straße entlang, bevor Sie in die Pracht des Bischofspalastes und der benachbarten Kathedrale eintauchen. Am Nachmittag erleben Sie im Spielzeugmuseum eine nostalgische Reise und entfliehen dann der Stadt in die beeindruckende Natur des Kadzielnia-Reservats. Schließen Sie den Tag mit einem herzhaften polnischen Abendessen im Stadtzentrum ab und lassen Sie die Erlebnisse Revue passieren.",
+        "hu": "Kezdje a napot Kielce szívében, a nyüzsgő Piactéren. Sétáljon végig a történelmi Sienkiewicz utcán, majd merüljön el a Püspöki Palota és a szomszédos székesegyház pompájában. Délután nosztalgikus utazást tehet a Játékmúzeumban, majd elmenekülhet a városból a lenyűgöző Kadzielnia Természetvédelmi Területre. Zárja a napot egy kiadós lengyel vacsorával a városközpontban, felidézve az élményeket.",
+        "ro": "Începeți-vă ziua în inima orașului Kielce, în Piața Centrală plină de viață. Plimbați-vă pe strada istorică Sienkiewicz înainte de a vă cufunda în splendoarea Palatului Episcopal și a catedralei adiacente. După-amiaza, bucurați-vă de o călătorie nostalgică la Muzeul Jucăriilor, apoi evadați din oraș în natura impresionantă a Rezervației Kadzielnia. Încheiați ziua cu o cină poloneză consistentă în centrul orașului, reflectând asupra experiențelor.",
+        "en": "Start your day in the heart of Kielce at the bustling Market Square. Stroll down the historic Sienkiewicz Street before immersing yourself in the grandeur of the Bishops' Palace and the adjacent Cathedral. In the afternoon, enjoy a nostalgic journey at the Toy Museum, then escape the city to the stunning nature of the Kadzielnia Reserve. Conclude your day with a hearty Polish dinner back in the city center, reflecting on the day's experiences."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zalewajka",
+            "tip": "Eine traditionelle saure Roggensuppe, einzigartig für die Region Świętokrzyskie."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Probieren Sie die lokalen Varianten, oft mit Buchweizen oder Linsen gefüllt."
+          },
+          {
+            "name": "Siwe Smaki Restaurant",
+            "tip": "Bekannt für seine exzellente Interpretation der regionalen polnischen Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zalewajka",
+            "tip": "Hagyományos savanyú rozsleves, a Świętokrzyskie régió különlegessége."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Kóstolja meg a helyi változatokat, gyakran hajdinával vagy lencsével töltve."
+          },
+          {
+            "name": "Siwe Smaki Étterem",
+            "tip": "Kiválóan értelmezi a regionális lengyel konyhát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zalewajka",
+            "tip": "O supă tradițională acră de secară, specifică regiunii Świętokrzyskie."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Încercați variantele locale, adesea umplute cu hrișcă sau linte."
+          },
+          {
+            "name": "Restaurantul Siwe Smaki",
+            "tip": "Renumit pentru interpretarea excelentă a bucătăriei regionale poloneze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zalewajka",
+            "tip": "A traditional sour rye soup, unique to the Świętokrzyskie region."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Try the local variations, often filled with buckwheat or lentils."
+          },
+          {
+            "name": "Siwe Smaki Restaurant",
+            "tip": "Known for its excellent interpretation of regional Polish cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Garten der italienischen Kunst",
+            "tip": "Ein ruhiger, geometrischer Garten hinter dem Bischofspalast.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussichtspunkt im Kadzielnia-Reservat",
+            "tip": "Bietet einen atemberaubenden Blick auf das Amphitheater und die Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stadtpark Stanislaw Staszic",
+            "tip": "Ein schattiger Ort für eine Pause in der Nähe des Stadtzentrums.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olasz Művészet Kertje",
+            "tip": "Csendes, geometrikus kert a Püspöki Palota mögött.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátó a Kadzielnia Rezervátumban",
+            "tip": "Lenyűgöző kilátást nyújt az amfiteátrumra és a városra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stanislaw Staszic Városliget",
+            "tip": "Árnyékos hely egy szünetre a városközpont közelében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina de Artă Italiană",
+            "tip": "O grădină liniștită, geometrică, în spatele Palatului Episcopal.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Punct de observare în Rezervația Kadzielnia",
+            "tip": "Oferă o priveliște uimitoare asupra amfiteatrului și a orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Municipal Stanislaw Staszic",
+            "tip": "Un loc umbrit pentru o pauză lângă centrul orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Garden of Italian Art",
+            "tip": "A tranquil, geometric garden behind the Bishops' Palace.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Viewpoint at Kadzielnia Reserve",
+            "tip": "Offers a stunning view of the amphitheater and the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stanislaw Staszic City Park",
+            "tip": "A shady spot for a break near the city center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sienkiewicz-Straße",
+            "tip": "Gefüllt mit Boutiquen, Buchhandlungen und Cafés."
+          },
+          {
+            "name": "Handwerk aus Świętokrzyskie",
+            "tip": "Suchen Sie nach gestreifter Keramik und Holzschnitzereien, die typisch für die Region sind."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sienkiewicz utca",
+            "tip": "Tele butikokkal, könyvesboltokkal és kávézókkal."
+          },
+          {
+            "name": "Świętokrzyskie kézműves termékek",
+            "tip": "Keressen a régióra jellemző csíkos kerámiákat és fafaragásokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Sienkiewicz",
+            "tip": "Plină de buticuri, librării și cafenele."
+          },
+          {
+            "name": "Artizanat din Świętokrzyskie",
+            "tip": "Căutați ceramică cu dungi și sculpturi în lemn, tipice regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sienkiewicz Street",
+            "tip": "Lined with boutique shops, bookstores, and cafes."
+          },
+          {
+            "name": "Świętokrzyskie Handicrafts",
+            "tip": "Look for striped pottery and wood carvings, typical of the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Nehmen Sie Wasser mit, besonders für den Spaziergang zum und um das Kadzielnia-Reservat.",
+          "Die meisten zentralen Sehenswürdigkeiten sind leicht zu Fuß erreichbar.",
+          "Prüfen Sie die Öffnungszeiten der Museen, da diese montags oft geschlossen sind."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óvárosi macskakövek egyenetlenek lehetnek.",
+          "Vigyen magával vizet, különösen a Kadzielnia rezervátumba tett sétához.",
+          "A legtöbb központi látnivaló könnyen megközelíthető gyalog.",
+          "Ellenőrizze a múzeumok nyitvatartási idejét, mivel hétfőnként gyakran zárva tartanak."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din centrul vechi poate fi denivelat.",
+          "Luați apă cu dvs., mai ales pentru plimbarea spre și în jurul Rezervației Kadzielnia.",
+          "Majoritatea atracțiilor centrale sunt ușor accesibile pe jos.",
+          "Verificați orele de deschidere ale muzeelor, deoarece acestea sunt adesea închise lunea."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Carry water, especially for the walk to and around the Kadzielnia Reserve.",
+          "Most central attractions are within easy walking distance of each other.",
+          "Check museum opening times, as they are often closed on Mondays."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 9.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz & Fahrradverleih",
+            "hu": "Piactér és kerékpárkölcsönző",
+            "ro": "Piața Centrală și închiriere de biciclete",
+            "en": "Market Square & Bike Rental"
+          },
+          "coords": [
+            20.628,
+            50.869
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Holen Sie sich Ihr Fahrrad für den Tag bei einer der städtischen Verleihstationen.",
+            "hu": "Szerezze be a kerékpárját a napra az egyik városi kölcsönzőállomáson.",
+            "ro": "Luați-vă bicicleta pentru o zi de la una dintre stațiile de închiriere din oraș.",
+            "en": "Grab your bike for the day from one of the city rental stations."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast der Krakauer Bischöfe",
+            "hu": "Krakkói Püspöki Palota",
+            "ro": "Palatul Episcopilor din Cracovia",
+            "en": "Palace of the Krakow Bishops"
+          },
+          "coords": [
+            20.6288,
+            50.8675
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:35",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad in der Nähe ab und erkunden Sie den Palast und die Gärten.",
+            "hu": "Zárja le a kerékpárt a közelben, és fedezze fel a palotát és a kerteket.",
+            "ro": "Legați-vă bicicleta în apropiere și explorați palatul și grădinile.",
+            "en": "Lock your bike nearby and explore the palace and gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Spielzeug und Spiel",
+            "hu": "Játék- és Játékmúzeum",
+            "ro": "Muzeul Jucăriilor și al Jocului",
+            "en": "Museum of Toys and Play"
+          },
+          "coords": [
+            20.6255,
+            50.8685
+          ],
+          "category": "museums",
+          "arrive_at": "11:10",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt vom Palast entfernt, ein Muss für alle Altersgruppen.",
+            "hu": "Rövid bicikliút a palotától, minden korosztálynak kötelező.",
+            "ro": "La o scurtă plimbare cu bicicleta de palat, o vizită obligatorie pentru toate vârstele.",
+            "en": "A short bike ride from the palace, a must-visit for all ages."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen auf der Sienkiewicz-Straße",
+            "hu": "Ebéd a Sienkiewicz utcán",
+            "ro": "Prânz pe strada Sienkiewicz",
+            "en": "Lunch on Sienkiewicz Street"
+          },
+          "coords": [
+            20.629,
+            50.873
+          ],
+          "category": "gastro",
+          "arrive_at": "12:56",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Hier gibt es viele Restaurants mit Außensitzplätzen.",
+            "hu": "Számos étterem található itt szabadtéri ülőhelyekkel.",
+            "ro": "Multe restaurante cu terase sunt disponibile aici.",
+            "en": "Plenty of restaurants with outdoor seating available here."
+          }
+        },
+        {
+          "name": {
+            "de": "Geopark Kielce",
+            "hu": "Kielce Geopark",
+            "ro": "Geoparcul Kielce",
+            "en": "Geopark Kielce"
+          },
+          "coords": [
+            20.615,
+            50.858
+          ],
+          "category": "natural features",
+          "arrive_at": "14:34",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Radwege führen zu diesem faszinierenden geologischen Zentrum.",
+            "hu": "Kerékpárutak vezetnek ehhez a lenyűgöző geológiai központhoz.",
+            "ro": "Piste de biciclete duc la acest centru geologic fascinant.",
+            "en": "Bike paths lead towards this fascinating geological center."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturschutzgebiet Kadzielnia",
+            "hu": "Kadzielnia Természetvédelmi Terület",
+            "ro": "Rezervația Naturală Kadzielnia",
+            "en": "Kadzielnia Nature Reserve"
+          },
+          "coords": [
+            20.618,
+            50.861
+          ],
+          "category": "natural features",
+          "arrive_at": "15:58",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und spazieren Sie durch den ehemaligen Steinbruch.",
+            "hu": "Parkolja le a biciklit és sétáljon egyet az egykori kőbányában.",
+            "ro": "Parcați-vă bicicleta și faceți o plimbare prin fosta carieră.",
+            "en": "Park your bike and take a walk through the former quarry."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr zum Marktplatz",
+            "hu": "Visszatérés a Piactérre",
+            "ro": "Întoarcere în Piața Centrală",
+            "en": "Return to Market Square"
+          },
+          "coords": [
+            20.628,
+            50.869
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "17:30",
+          "stay_min": 50,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Geben Sie Ihr Fahrrad zurück und genießen Sie einen wohlverdienten Drink.",
+            "hu": "Adja vissza a kerékpárt, és élvezzen egy jól megérdemelt italt.",
+            "ro": "Returnați bicicleta și bucurați-vă de o băutură binemeritată.",
+            "en": "Return your bike and enjoy a well-deserved drink."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Tag mit dem Fahrrad am Marktplatz. Radeln Sie zum prächtigen Bischofspalast und tauchen Sie ein in die Geschichte, bevor Sie zum nostalgischen Spielzeugmuseum weiterfahren. Genießen Sie ein Mittagessen auf der belebten Sienkiewicz-Straße. Am Nachmittag führt Sie eine längere Fahrt zu den geologischen Wundern des Geoparks und des Kadzielnia-Reservats. Beenden Sie Ihre Tour mit der Rückgabe des Fahrrads und einem entspannten Abend auf dem Marktplatz.",
+        "hu": "Kezdje a napot kerékpárral a Piactéren. Tekerjen el a csodálatos Püspöki Palotához, és merüljön el a történelemben, mielőtt továbbhaladna a nosztalgikus Játékmúzeumhoz. Ebédeljen a nyüzsgő Sienkiewicz utcán. Délután egy hosszabb út vezet a Geopark és a Kadzielnia Természetvédelmi Terület geológiai csodáihoz. Fejezze be a túrát a kerékpár visszavitelével és egy pihentető estével a Piactéren.",
+        "ro": "Începeți ziua pe bicicletă din Piața Centrală. Pedalați spre magnificul Palat Episcopal pentru o doză de istorie înainte de a continua spre nostalgic Muzeu al Jucăriilor. Bucurați-vă de prânz pe animata stradă Sienkiewicz. După-amiaza, o plimbare mai lungă vă duce la minunile geologice ale Geoparcului și Rezervației Kadzielnia. Încheiați turul returnând bicicleta și relaxându-vă seara în Piața Centrală.",
+        "en": "Kick off your day on two wheels from the Market Square. Pedal to the magnificent Bishops' Palace for a dose of history before heading to the nostalgic Toy Museum. Enjoy lunch on the bustling Sienkiewicz Street. In the afternoon, a longer ride takes you to the geological wonders of the Geopark and Kadzielnia Reserve. End your tour by returning the bike and enjoying a relaxing evening in the Market Square."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zalewajka",
+            "tip": "Eine traditionelle saure Roggensuppe, einzigartig für die Region Świętokrzyskie."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Probieren Sie die lokalen Varianten, oft mit Buchweizen oder Linsen gefüllt."
+          },
+          {
+            "name": "Restauracja Solna 12",
+            "tip": "Bietet moderne polnische Küche mit Fokus auf lokalen Zutaten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zalewajka",
+            "tip": "Hagyományos savanyú rozsleves, a Świętokrzyskie régió különlegessége."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Kóstolja meg a helyi változatokat, gyakran hajdinával vagy lencsével töltve."
+          },
+          {
+            "name": "Restauracja Solna 12",
+            "tip": "Modern lengyel konyhát kínál, a helyi alapanyagokra összpontosítva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zalewajka",
+            "tip": "O supă tradițională acră de secară, specifică regiunii Świętokrzyskie."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Încercați variantele locale, adesea umplute cu hrișcă sau linte."
+          },
+          {
+            "name": "Restauracja Solna 12",
+            "tip": "Oferă bucătărie poloneză modernă cu accent pe ingrediente locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zalewajka",
+            "tip": "A traditional sour rye soup, unique to the Świętokrzyskie region."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Try the local variations, often filled with buckwheat or lentils."
+          },
+          {
+            "name": "Restauracja Solna 12",
+            "tip": "Offers modern Polish cuisine with a focus on local ingredients."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Garten der italienischen Kunst",
+            "tip": "Ein ruhiger, geometrischer Garten hinter dem Bischofspalast.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Radweg entlang des Flusses Silnica",
+            "tip": "Ein friedlicher Weg, der durch Teile der Stadt führt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtspunkt im Kadzielnia-Reservat",
+            "tip": "Bietet einen atemberaubenden Blick auf das Amphitheater und die Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olasz Művészet Kertje",
+            "tip": "Csendes, geometrikus kert a Püspöki Palota mögött.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kerékpárút a Silnica folyó mentén",
+            "tip": "Békés útvonal, amely a város egyes részein halad keresztül.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátó a Kadzielnia Rezervátumban",
+            "tip": "Lenyűgöző kilátást nyújt az amfiteátrumra és a városra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina de Artă Italiană",
+            "tip": "O grădină liniștită, geometrică, în spatele Palatului Episcopal.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pista de biciclete de-a lungul râului Silnica",
+            "tip": "Un traseu pașnic care traversează părți ale orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Punct de observare în Rezervația Kadzielnia",
+            "tip": "Oferă o priveliște uimitoare asupra amfiteatrului și a orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Garden of Italian Art",
+            "tip": "A tranquil, geometric garden behind the Bishops' Palace.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bike Path along Silnica River",
+            "tip": "A peaceful path that cuts through parts of the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Viewpoint at Kadzielnia Reserve",
+            "tip": "Offers a stunning view of the amphitheater and the city.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sienkiewicz-Straße",
+            "tip": "Gefüllt mit Boutiquen, Buchhandlungen und Cafés."
+          },
+          {
+            "name": "Galeria Echo",
+            "tip": "Ein großes Einkaufszentrum, etwas außerhalb des Zentrums, für eine breitere Auswahl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sienkiewicz utca",
+            "tip": "Tele butikokkal, könyvesboltokkal és kávézókkal."
+          },
+          {
+            "name": "Galeria Echo",
+            "tip": "Nagy bevásárlóközpont, kissé a központon kívül, szélesebb választékkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Sienkiewicz",
+            "tip": "Plină de buticuri, librării și cafenele."
+          },
+          {
+            "name": "Galeria Echo",
+            "tip": "Un centru comercial mare, puțin în afara centrului, pentru o selecție mai largă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sienkiewicz Street",
+            "tip": "Lined with boutique shops, bookstores, and cafes."
+          },
+          {
+            "name": "Galeria Echo",
+            "tip": "A large shopping mall, slightly out of the center, for a wider selection."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kielce verfügt über ein wachsendes Netz von Radwegen; nutzen Sie diese, wo immer möglich.",
+          "Schließen Sie Ihr Fahrrad immer an einem sicheren Ort ab, besonders im Stadtzentrum.",
+          "Einige Gebiete, wie das Kadzielnia-Reservat, erfordern, dass Sie absteigen und zu Fuß gehen.",
+          "Überprüfen Sie den Reifendruck und die Bremsen, bevor Sie Ihre Tour beginnen."
+        ],
+        "hu": [
+          "Kielce egyre bővülő kerékpárút-hálózattal rendelkezik; használja ezeket, ahol csak lehetséges.",
+          "Mindig zárja le a kerékpárt biztonságos helyen, különösen a városközpontban.",
+          "Néhány területen, mint például a Kadzielnia rezervátumban, le kell szállni és sétálni kell.",
+          "Ellenőrizze a guminyomást és a fékeket, mielőtt elindulna a túrára."
+        ],
+        "ro": [
+          "Kielce are o rețea în creștere de piste de biciclete; folosiți-le ori de câte ori este posibil.",
+          "Legați-vă întotdeauna bicicleta într-un loc sigur, în special în centrul orașului.",
+          "Unele zone, cum ar fi Rezervația Kadzielnia, necesită să descălecați și să mergeți pe jos.",
+          "Verificați presiunea anvelopelor și frânele înainte de a începe turul."
+        ],
+        "en": [
+          "Kielce has a growing network of bike paths; use them wherever possible.",
+          "Always lock your bike in a secure place, especially in the city center.",
+          "Some areas, like the Kadzielnia Reserve, will require you to dismount and walk.",
+          "Check your tire pressure and brakes before starting your tour."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 5.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken am Marktplatz",
+            "hu": "Parkolás a Piactérnél",
+            "ro": "Parcare lângă Piața Centrală",
+            "en": "Parking near the Market Square"
+          },
+          "coords": [
+            20.627,
+            50.8695
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Finden Sie einen Parkplatz für den Morgen. Es gibt mehrere gebührenpflichtige Zonen.",
+            "hu": "Keressen parkolóhelyet a délelőttre. Több fizetős zóna is van.",
+            "ro": "Găsiți un loc de parcare pentru dimineață. Există mai multe zone cu plată.",
+            "en": "Find a parking spot for the morning. There are several paid zones."
+          }
+        },
+        {
+          "name": {
+            "de": "Marktplatz & Sienkiewicz-Straße",
+            "hu": "Piactér és Sienkiewicz utca",
+            "ro": "Piața Centrală și Strada Sienkiewicz",
+            "en": "Market Square & Sienkiewicz Street"
+          },
+          "coords": [
+            20.628,
+            50.869
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie den Platz und die Hauptstraße zu Fuß.",
+            "hu": "Fedezze fel a teret és a főutcát gyalog.",
+            "ro": "Explorați piața și strada principală pe jos.",
+            "en": "Explore the square and the main street on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast der Krakauer Bischöfe & Kathedrale",
+            "hu": "Krakkói Püspöki Palota és Székesegyház",
+            "ro": "Palatul Episcopilor din Cracovia și Catedrala",
+            "en": "Palace of the Krakow Bishops & Cathedral"
+          },
+          "coords": [
+            20.6288,
+            50.8675
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:20",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beide sind nebeneinander und können leicht zusammen besichtigt werden.",
+            "hu": "Mindkettő egymás mellett van, és könnyen megtekinthetők együtt.",
+            "ro": "Ambele sunt adiacente și pot fi vizitate cu ușurință împreună.",
+            "en": "Both are adjacent and can be easily visited together."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Geopark Kielce",
+            "hu": "Utazás a Kielce Geoparkhoz",
+            "ro": "Condus spre Geoparcul Kielce",
+            "en": "Drive to Geopark Kielce"
+          },
+          "coords": [
+            20.615,
+            50.858
+          ],
+          "category": "natural features",
+          "arrive_at": "12:35",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Parken Sie hier und bereiten Sie sich darauf vor, das geologische Zentrum zu erkunden.",
+            "hu": "Parkoljon le itt, és készüljön fel a geológiai központ felfedezésére.",
+            "ro": "Parcați aici și pregătiți-vă să explorați centrul geologic.",
+            "en": "Park here and prepare to explore the geological center."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturschutzgebiet Kadzielnia",
+            "hu": "Kadzielnia Természetvédelmi Terület",
+            "ro": "Rezervația Naturală Kadzielnia",
+            "en": "Kadzielnia Nature Reserve"
+          },
+          "coords": [
+            20.618,
+            50.861
+          ],
+          "category": "natural features",
+          "arrive_at": "14:15",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Geopark entfernt; erkunden Sie die Wege und Höhlen.",
+            "hu": "Rövid séta a Geoparktól; fedezze fel az ösvényeket és barlangokat.",
+            "ro": "La o scurtă plimbare de Geoparc; explorați potecile și peșterile.",
+            "en": "A short walk from the Geopark; explore the paths and caves."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zurück ins Zentrum zum Abendessen",
+            "hu": "Vissza a központba vacsorázni",
+            "ro": "Înapoi în centru pentru cină",
+            "en": "Drive back to the center for dinner"
+          },
+          "coords": [
+            20.6275,
+            50.8688
+          ],
+          "category": "gastro",
+          "arrive_at": "16:29",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Fahren Sie zurück in die Nähe des Marktplatzes, um eine größere Auswahl an Restaurants zu haben.",
+            "hu": "Hajtson vissza a Piactér közelébe a szélesebb étteremválasztékért.",
+            "ro": "Conduceți înapoi în apropierea Pieței Centrale pentru o selecție mai largă de restaurante.",
+            "en": "Drive back near the Market Square for a wider choice of restaurants."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag, indem Sie im Zentrum von Kielce parken und den historischen Kern zu Fuß erkunden: den Marktplatz, die Sienkiewicz-Straße und den prächtigen Palast-Kathedralen-Komplex. Nach dem Mittagessen fahren Sie zu den Naturwundern außerhalb des unmittelbaren Zentrums. Erkunden Sie den Geopark und das benachbarte Kadzielnia-Reservat, eine faszinierende Mischung aus Geologie und Natur. Schließen Sie den Tag mit einer kurzen Fahrt zurück ins Zentrum für ein wohlverdientes polnisches Abendessen ab.",
+        "hu": "Kezdje a napot Kielce központjában parkolva, és fedezze fel gyalog a történelmi magot: a Piacteret, a Sienkiewicz utcát és a csodálatos Palota-Székesegyház komplexumot. Ebéd után autózzon el a közvetlen központon kívüli természeti csodákhoz. Fedezze fel a Geoparkot és a szomszédos Kadzielnia Rezervátumot, a geológia és a természet lenyűgöző keverékét. Zárja a napot egy rövid autóúttal vissza a központba egy jól megérdemelt lengyel vacsorára.",
+        "ro": "Începeți ziua parcând în centrul orașului Kielce și explorând nucleul istoric pe jos: Piața Centrală, strada Sienkiewicz și magnificul complex Palat-Catedrală. După prânz, conduceți spre minunile naturale din afara centrului imediat. Explorați Geoparcul și Rezervația Kadzielnia adiacentă, un amestec fascinant de geologie și natură. Încheiați ziua cu o scurtă călătorie cu mașina înapoi în centru pentru o cină poloneză binemeritată.",
+        "en": "Start your day by parking in the center of Kielce and exploring the historic core on foot: the Market Square, Sienkiewicz Street, and the magnificent Palace-Cathedral complex. After lunch, drive to the natural wonders just outside the immediate center. Explore the Geopark and the adjacent Kadzielnia Reserve, a fascinating mix of geology and nature. End the day with a short drive back to the center for a well-deserved Polish dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zalewajka",
+            "tip": "Eine traditionelle saure Roggensuppe, einzigartig für die Region Świętokrzyskie."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Probieren Sie die lokalen Varianten, oft mit Buchweizen oder Linsen gefüllt."
+          },
+          {
+            "name": "Karczma Cztery Konie",
+            "tip": "Ein rustikales Gasthaus, das für seine herzhaften, traditionellen polnischen Gerichte bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zalewajka",
+            "tip": "Hagyományos savanyú rozsleves, a Świętokrzyskie régió különlegessége."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Kóstolja meg a helyi változatokat, gyakran hajdinával vagy lencsével töltve."
+          },
+          {
+            "name": "Karczma Cztery Konie",
+            "tip": "Rusztikus fogadó, amely a kiadós, hagyományos lengyel ételeiről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zalewajka",
+            "tip": "O supă tradițională acră de secară, specifică regiunii Świętokrzyskie."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Încercați variantele locale, adesea umplute cu hrișcă sau linte."
+          },
+          {
+            "name": "Karczma Cztery Konie",
+            "tip": "Un han rustic renumit pentru mâncărurile sale poloneze tradiționale și consistente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zalewajka",
+            "tip": "A traditional sour rye soup, unique to the Świętokrzyskie region."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Try the local variations, often filled with buckwheat or lentils."
+          },
+          {
+            "name": "Karczma Cztery Konie",
+            "tip": "A rustic inn known for its hearty, traditional Polish dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Garten der italienischen Kunst",
+            "tip": "Ein ruhiger, geometrischer Garten hinter dem Bischofspalast.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Wietrznia-Reservat",
+            "tip": "Ein weiteres geologisches Reservat, etwas weiter entfernt, für eine ruhigere Erkundung.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Kielcer Stausees",
+            "tip": "Ein schöner Ort für einen Spaziergang, etwas außerhalb des Stadtzentrums.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olasz Művészet Kertje",
+            "tip": "Csendes, geometrikus kert a Püspöki Palota mögött.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Wietrznia rezervátum",
+            "tip": "Egy másik geológiai rezervátum, kicsit távolabb, a csendesebb felfedezéshez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Kielcei-víztározó partja",
+            "tip": "Szép hely egy sétához, kicsit a városközponton kívül.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina de Artă Italiană",
+            "tip": "O grădină liniștită, geometrică, în spatele Palatului Episcopal.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Rezervația Wietrznia",
+            "tip": "O altă rezervație geologică, puțin mai departe, pentru o explorare mai liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malurile lacului de acumulare Kielce",
+            "tip": "Un loc frumos pentru o plimbare, puțin în afara centrului orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Garden of Italian Art",
+            "tip": "A tranquil, geometric garden behind the Bishops' Palace.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Wietrznia Reserve",
+            "tip": "Another geological reserve, a bit further out, for a quieter exploration.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Shores of the Kielce Reservoir",
+            "tip": "A nice spot for a walk, slightly outside the city center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sienkiewicz-Straße",
+            "tip": "Ideal zum Stöbern, wenn Sie im Zentrum sind."
+          },
+          {
+            "name": "Regionale Produkte",
+            "tip": "Suchen Sie nach Geschäften, die Krówka-Fudge aus Opatów und lokale Honigsorten verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sienkiewicz utca",
+            "tip": "Ideális böngészésre, amikor a központban van."
+          },
+          {
+            "name": "Regionális termékek",
+            "tip": "Keressen olyan boltokat, amelyek Opatówból származó Krówka karamellát és helyi mézeket árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Sienkiewicz",
+            "tip": "Ideal pentru a arunca o privire când sunteți în centru."
+          },
+          {
+            "name": "Produse regionale",
+            "tip": "Căutați magazine care vând fudge Krówka din Opatów și miere locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sienkiewicz Street",
+            "tip": "Ideal for browsing when you are in the center."
+          },
+          {
+            "name": "Regional Products",
+            "tip": "Look for shops selling Krówka fudge from Opatów and local honeys."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum ist gebührenpflichtig. Haben Sie Münzen oder eine Park-App bereit.",
+          "Die Navigation in der Innenstadt kann aufgrund von Einbahnstraßen schwierig sein. Verwenden Sie GPS.",
+          "Die Cluster-Walking-Methode spart Zeit bei der Parkplatzsuche für jede einzelne Sehenswürdigkeit.",
+          "Planen Sie zusätzliche Zeit für den Verkehr während der Stoßzeiten ein."
+        ],
+        "hu": [
+          "A parkolás a városközpontban fizetős. Készítsen elő érméket vagy egy parkolóalkalmazást.",
+          "A belvárosi navigáció trükkös lehet az egyirányú utcák miatt. Használjon GPS-t.",
+          "A klaszteres séta módszerrel időt takaríthat meg a parkolóhely keresésével minden egyes látnivalónál.",
+          "Tervezzen plusz időt a csúcsforgalomra."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului este cu plată. Pregătiți monede sau o aplicație de parcare.",
+          "Navigarea în centrul orașului poate fi dificilă din cauza străzilor cu sens unic. Folosiți GPS-ul.",
+          "Metoda de mers pe jos în grup economisește timp la căutarea parcării pentru fiecare atracție în parte.",
+          "Planificați timp suplimentar pentru trafic în timpul orelor de vârf."
+        ],
+        "en": [
+          "Parking in the city center is paid. Have coins or a parking app ready.",
+          "Navigating the city center can be tricky due to one-way streets. Use GPS.",
+          "The cluster-walking method saves time on finding parking for each individual sight.",
+          "Plan for extra time for traffic during peak hours."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:33",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Marktplatz",
+            "hu": "Érkezés a Piactérre",
+            "ro": "Sosire în Piața Centrală",
+            "en": "Arrival at Market Square"
+          },
+          "coords": [
+            20.628,
+            50.869
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zu einer Haltestelle in der Nähe des Platzes, z. B. 'Plac Artystów'.",
+            "hu": "Menjen busszal a térhez közeli megállóig, például a 'Plac Artystów'-ig.",
+            "ro": "Luați un autobuz până la o stație din apropierea pieței, cum ar fi 'Plac Artystów'.",
+            "en": "Take a bus to a stop near the square, such as 'Plac Artystów'."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast der Krakauer Bischöfe",
+            "hu": "Krakkói Püspöki Palota",
+            "ro": "Palatul Episcopilor din Cracovia",
+            "en": "Palace of the Krakow Bishops"
+          },
+          "coords": [
+            20.6288,
+            50.8675
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:25",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Marktplatz entfernt.",
+            "hu": "Rövid séta a Piactértől.",
+            "ro": "La o scurtă plimbare de Piața Centrală.",
+            "en": "A short walk from the Market Square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale & Museum für Spielzeug",
+            "hu": "Székesegyház és Játékmúzeum",
+            "ro": "Catedrala și Muzeul Jucăriilor",
+            "en": "Cathedral & Toy Museum"
+          },
+          "coords": [
+            20.6295,
+            50.8678
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 150,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die Kathedrale und gehen Sie dann zum nahegelegenen Museum.",
+            "hu": "Nézze meg a székesegyházat, majd sétáljon át a közeli múzeumba.",
+            "ro": "Vizitați catedrala, apoi mergeți pe jos la muzeul din apropiere.",
+            "en": "Visit the cathedral, then walk over to the nearby museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Kadzielnia-Reservat",
+            "hu": "Buszozás a Kadzielnia Rezervátumhoz",
+            "ro": "Călătorie cu autobuzul la Rezervația Kadzielnia",
+            "en": "Bus ride to Kadzielnia Reserve"
+          },
+          "coords": [
+            20.618,
+            50.861
+          ],
+          "category": "natural features",
+          "arrive_at": "13:50",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Mehrere Buslinien halten in der Nähe des Reservats, z. B. an der Haltestelle 'Krakowska / Kadzielnia'.",
+            "hu": "Több buszjárat is megáll a rezervátum közelében, például a 'Krakowska / Kadzielnia' megállónál.",
+            "ro": "Mai multe linii de autobuz opresc lângă rezervație, la stația 'Krakowska / Kadzielnia'.",
+            "en": "Several bus lines stop near the reserve, at the 'Krakowska / Kadzielnia' stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Geopark Kielce",
+            "hu": "Kielce Geopark",
+            "ro": "Geoparcul Kielce",
+            "en": "Geopark Kielce"
+          },
+          "coords": [
+            20.615,
+            50.858
+          ],
+          "category": "natural features",
+          "arrive_at": "15:30",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein einfacher Spaziergang vom Kadzielnia-Park zum Geologiezentrum.",
+            "hu": "Könnyű séta a Kadzielnia parktól a geológiai központig.",
+            "ro": "O plimbare ușoară de la Parcul Kadzielnia la centrul de geologie.",
+            "en": "An easy walk from Kadzielnia park to the geology center."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt ins Zentrum",
+            "hu": "Vissza a központba",
+            "ro": "Întoarcere în centru",
+            "en": "Return to the center"
+          },
+          "coords": [
+            20.6275,
+            50.8688
+          ],
+          "category": "gastro",
+          "arrive_at": "16:48",
+          "stay_min": 70,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zurück zur Sienkiewicz-Straße für das Abendessen.",
+            "hu": "Menjen busszal vissza a Sienkiewicz utcára vacsorázni.",
+            "ro": "Luați un autobuz înapoi pe strada Sienkiewicz pentru cină.",
+            "en": "Take a bus back to Sienkiewicz Street for dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Kiels effiziente Busse, um Ihren Tag zu beginnen, und steigen Sie in der Nähe des historischen Zentrums aus. Verbringen Sie den Morgen damit, den Palast, die Kathedrale und die Museen zu Fuß zu erkunden. Nach dem Mittagessen bringt Sie ein kurzer Bus Sie in eine andere Welt: die geologischen Parks Kadzielnia und Geopark. Erkunden Sie dieses Naturgebiet, bevor Sie mit dem Bus ins Zentrum zurückkehren, um einen entspannten Abend zu verbringen.",
+        "hu": "Használja Kielce hatékony buszait a nap indításához, szálljon le a történelmi központ közelében. Töltse a délelőttöt a Palota, a Székesegyház és a múzeumok gyalogos felfedezésével. Ebéd után egy rövid buszozás egy másik világba repíti: a Kadzielnia és a Geopark geológiai parkjaiba. Fedezze fel ezt a természeti területet, mielőtt visszatérne a központba egy pihentető estére.",
+        "ro": "Folosiți autobuzele eficiente din Kielce pentru a începe ziua, coborând aproape de centrul istoric. Petreceți dimineața explorând pe jos Palatul, Catedrala și muzeele. După prânz, o scurtă călătorie cu autobuzul vă transportă într-o altă lume: parcurile geologice Kadzielnia și Geopark. Explorați această zonă naturală înainte de a lua un autobuz înapoi în centru pentru o seară relaxantă.",
+        "en": "Use Kielce's efficient buses to start your day, hopping off near the historic center. Spend the morning exploring the Palace, Cathedral, and museums on foot. After lunch, a short bus ride transports you to another world: the Kadzielnia and Geopark geological parks. Explore this natural area before taking a bus back to the center for a relaxing evening."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zalewajka",
+            "tip": "Eine traditionelle saure Roggensuppe, einzigartig für die Region Świętokrzyskie."
+          },
+          {
+            "name": "Pierogarnia u Myśliwych",
+            "tip": "Ein beliebter Ort für eine große Auswahl an köstlichen Pierogi."
+          },
+          {
+            "name": "Pigo Stop",
+            "tip": "Schnell, günstig und lecker für einen schnellen Happen lokaler Gerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zalewajka",
+            "tip": "Hagyományos savanyú rozsleves, a Świętokrzyskie régió különlegessége."
+          },
+          {
+            "name": "Pierogarnia u Myśliwych",
+            "tip": "Népszerű hely a finom pierogik széles választékáért."
+          },
+          {
+            "name": "Pigo Stop",
+            "tip": "Gyors, olcsó és ízletes egy gyors falathoz a helyi ételekből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zalewajka",
+            "tip": "O supă tradițională acră de secară, specifică regiunii Świętokrzyskie."
+          },
+          {
+            "name": "Pierogarnia u Myśliwych",
+            "tip": "Un loc popular pentru o mare varietate de pierogi delicioase."
+          },
+          {
+            "name": "Pigo Stop",
+            "tip": "Rapid, ieftin și gustos pentru o gustare rapidă a mâncărurilor locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zalewajka",
+            "tip": "A traditional sour rye soup, unique to the Świętokrzyskie region."
+          },
+          {
+            "name": "Pierogarnia u Myśliwych",
+            "tip": "A popular spot for a wide variety of delicious pierogi."
+          },
+          {
+            "name": "Pigo Stop",
+            "tip": "Quick, cheap, and tasty for a fast bite of local dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Garten der italienischen Kunst",
+            "tip": "Ein ruhiger, geometrischer Garten hinter dem Bischofspalast.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussichtspunkt im Kadzielnia-Reservat",
+            "tip": "Bietet einen atemberaubenden Blick auf das Amphitheater und die Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stadtpark Stanislaw Staszic",
+            "tip": "Ein schattiger Ort für eine Pause, leicht zu Fuß vom Zentrum erreichbar.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olasz Művészet Kertje",
+            "tip": "Csendes, geometrikus kert a Püspöki Palota mögött.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátó a Kadzielnia Rezervátumban",
+            "tip": "Lenyűgöző kilátást nyújt az amfiteátrumra és a városra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stanislaw Staszic Városliget",
+            "tip": "Árnyékos hely egy szünetre, könnyen elérhető a központból.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina de Artă Italiană",
+            "tip": "O grădină liniștită, geometrică, în spatele Palatului Episcopal.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Punct de observare în Rezervația Kadzielnia",
+            "tip": "Oferă o priveliște uimitoare asupra amfiteatrului și a orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Municipal Stanislaw Staszic",
+            "tip": "Un loc umbrit pentru o pauză, la mică distanță de centru.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Garden of Italian Art",
+            "tip": "A tranquil, geometric garden behind the Bishops' Palace.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Viewpoint at Kadzielnia Reserve",
+            "tip": "Offers a stunning view of the amphitheater and the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stanislaw Staszic City Park",
+            "tip": "A shady spot for a break, within easy walking distance of the center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sienkiewicz-Straße",
+            "tip": "Gefüllt mit Boutiquen, Buchhandlungen und Cafés."
+          },
+          {
+            "name": "Lokaler Markt (Targowisko Miejskie)",
+            "tip": "Für frische Produkte und einen Einblick in das lokale Leben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sienkiewicz utca",
+            "tip": "Tele butikokkal, könyvesboltokkal és kávézókkal."
+          },
+          {
+            "name": "Helyi piac (Targowisko Miejskie)",
+            "tip": "Friss termékekért és bepillantásért a helyi életbe."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Sienkiewicz",
+            "tip": "Plină de buticuri, librării și cafenele."
+          },
+          {
+            "name": "Piața locală (Targowisko Miejskie)",
+            "tip": "Pentru produse proaspete și o privire asupra vieții locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sienkiewicz Street",
+            "tip": "Lined with boutique shops, bookstores, and cafes."
+          },
+          {
+            "name": "Local Market (Targowisko Miejskie)",
+            "tip": "For fresh produce and a glimpse of local life."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um unbegrenzte Fahrten zu ermöglichen.",
+          "Verwenden Sie eine App wie 'jakdojade', um Busrouten und -fahrpläne in Echtzeit zu verfolgen.",
+          "Die meisten Busse sind modern, aber halten Sie Kleingeld für den Fall bereit, dass Sie ein Ticket an Bord kaufen müssen.",
+          "Beachten Sie die Haltestellennamen, da sie möglicherweise nicht immer mit den Namen der Sehenswürdigkeiten übereinstimmen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Használjon egy alkalmazást, mint például a 'jakdojade', a buszútvonalak és menetrendek valós idejű követéséhez.",
+          "A legtöbb busz modern, de tartson magánál aprópénzt, ha a fedélzeten kell jegyet vennie.",
+          "Figyeljen a megállók nevére, mert nem mindig egyeznek meg a látnivalók nevével."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Folosiți o aplicație precum 'jakdojade' pentru a urmări rutele și orarele autobuzelor în timp real.",
+          "Majoritatea autobuzelor sunt moderne, dar aveți la îndemână mărunțiș în caz că trebuie să cumpărați un bilet la bord.",
+          "Fiți atenți la numele stațiilor, deoarece s-ar putea să nu corespundă întotdeauna cu numele atracțiilor."
+        ],
+        "en": [
+          "Purchase a day pass for the bus to allow for unlimited rides.",
+          "Use an app like 'jakdojade' to track bus routes and schedules in real-time.",
+          "Most buses are modern, but keep some change handy in case you need to buy a ticket on board.",
+          "Be aware of the stop names, as they may not always match the attraction names."
+        ]
+      }
+    }
+  }
+}

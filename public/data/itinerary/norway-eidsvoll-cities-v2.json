@@ -1,0 +1,1044 @@
+{
+  "city_id": "norway-eidsvoll-cities-v2",
+  "anchor": {
+    "name": "Eidsvoll",
+    "coords": [
+      11.25,
+      60.31
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Eidsvoll Kirche",
+            "hu": "Eidsvolli templom",
+            "ro": "Biserica Eidsvoll",
+            "en": "Eidsvoll Church"
+          },
+          "coords": [
+            11.258,
+            60.326
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie die traditionelle norwegische Holzarchitektur.",
+            "hu": "Figyelje meg a hagyományos norvég faépítészetet!",
+            "ro": "Observați arhitectura tradițională norvegiană din lemn.",
+            "en": "Note the traditional Norwegian wooden architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Landschaftspark Romerike",
+            "hu": "Romerike Tájvédelmi Park",
+            "ro": "Parcul Peisagistic Romerike",
+            "en": "Romerike Landscape Park"
+          },
+          "coords": [
+            11.251,
+            60.322
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein idealer Ort für ein Picknick am Ufer des Flusses Vorma.",
+            "hu": "Ideális hely egy piknikhez a Vorma folyó partján.",
+            "ro": "Un loc ideal pentru un picnic pe malul râului Vorma.",
+            "en": "An ideal spot for a picnic on the banks of the Vorma river."
+          }
+        },
+        {
+          "name": {
+            "de": "Eidsvollsbygningen",
+            "hu": "Eidsvollsbygningen",
+            "ro": "Eidsvollsbygningen",
+            "en": "Eidsvollsbygningen"
+          },
+          "coords": [
+            11.171,
+            60.298
+          ],
+          "category": "museums",
+          "arrive_at": "12:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil, um die Bedeutung der Verfassung von 1814 zu verstehen.",
+            "hu": "Vegyen részt egy vezetett túrán, hogy megértse az 1814-es alkotmány jelentőségét!",
+            "ro": "Participați la un tur ghidat pentru a înțelege importanța constituției din 1814.",
+            "en": "Join a guided tour to understand the significance of the 1814 constitution."
+          }
+        },
+        {
+          "name": {
+            "de": "Wergelandshaugen",
+            "hu": "Wergelandshaugen",
+            "ro": "Wergelandshaugen",
+            "en": "Wergelandshaugen"
+          },
+          "coords": [
+            11.173,
+            60.296
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:15",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptgebäude entfernt, ehrt dieser Ort den Dichter Henrik Wergeland.",
+            "hu": "A főépülettől egy rövid sétára található ez a hely, amely Henrik Wergeland költő előtt tiszteleg.",
+            "ro": "La o scurtă plimbare de clădirea principală, acest loc îl onorează pe poetul Henrik Wergeland.",
+            "en": "A short walk from the main building, this site honors the poet Henrik Wergeland."
+          }
+        },
+        {
+          "name": {
+            "de": "Eidsvoll Verk",
+            "hu": "Eidsvoll Verk",
+            "ro": "Eidsvoll Verk",
+            "en": "Eidsvoll Verk"
+          },
+          "coords": [
+            11.178,
+            60.301
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:20",
+          "stay_min": 55,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie das alte Eisenhüttengelände, das die industrielle Vergangenheit der Region zeigt.",
+            "hu": "Fedezze fel a régi vasmű területét, amely a régió ipari múltját mutatja be!",
+            "ro": "Explorați vechea zonă a fierăriei, care prezintă trecutul industrial al regiunii.",
+            "en": "Explore the old ironworks area, showcasing the region's industrial past."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an der historischen Eidsvoll Kirche, einem Juwel norwegischer Architektur. Schlendern Sie durch den Romerike Landschaftspark und genießen Sie die Ruhe am Fluss. Der Nachmittag ist dem Herzen der norwegischen Demokratie gewidmet: dem Eidsvollsbygningen. Spüren Sie die Geschichte, während Sie durch die Hallen gehen. Ein kurzer Spaziergang führt Sie zum Wergelandshaugen, bevor Sie den Tag im faszinierenden Industriekomplex Eidsvoll Verk ausklingen lassen.",
+        "hu": "Kezdje a napot a történelmi Eidsvoll templomnál, a norvég építészet gyöngyszeménél! Sétáljon át a Romerike Tájvédelmi Parkon, és élvezze a folyóparti nyugalmat. A délután a norvég demokrácia szívében, az Eidsvollsbygningenben telik. Érezze a történelem szellemét a termekben sétálva! Egy rövid séta elvezeti a Wergelandshaugenhez, mielőtt a napot a lenyűgöző Eidsvoll Verk ipari komplexumban zárná.",
+        "ro": "Începeți ziua la istorica Biserică Eidsvoll, o bijuterie a arhitecturii norvegiene. Plimbați-vă prin Parcul Peisagistic Romerike și bucurați-vă de liniștea de pe malul râului. După-amiaza este dedicată inimii democrației norvegiene: Eidsvollsbygningen. Simțiți istoria în timp ce vă plimbați prin săli. O scurtă plimbare vă duce la Wergelandshaugen înainte de a încheia ziua la fascinantul complex industrial Eidsvoll Verk.",
+        "en": "Start your day at the historic Eidsvoll Church, a gem of Norwegian architecture. Stroll through the Romerike Landscape Park and enjoy the riverside tranquility. The afternoon is dedicated to the heart of Norwegian democracy: Eidsvollsbygningen. Feel the history as you walk through its halls. A short walk takes you to Wergelandshaugen before you end the day at the fascinating Eidsvoll Verk industrial complex."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kjøttkaker",
+            "tip": "Probieren Sie norwegische Fleischbällchen in einer traditionellen braunen Soße im 'Kafé Standpunkt'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kjøttkaker",
+            "tip": "Kóstolja meg a norvég húsgombócokat hagyományos barna mártással a 'Kafé Standpunkt'-ban!"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kjøttkaker",
+            "tip": "Încercați chiftelele norvegiene cu sos brun tradițional la 'Kafé Standpunkt'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kjøttkaker",
+            "tip": "Try Norwegian meatballs in a traditional brown gravy at 'Kafé Standpunkt'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Vorma",
+            "tip": "Finden Sie eine ruhige Bank im Romerike Park und beobachten Sie das Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Vorma folyó partja",
+            "tip": "Keressen egy csendes padot a Romerike Parkban, és nézze a vizet!",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Vorma",
+            "tip": "Găsiți o bancă liniștită în Parcul Romerike și priviți apa.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Vorma River",
+            "tip": "Find a quiet bench in Romerike Park and watch the water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsshop im Eidsvollsbygningen",
+            "tip": "Kaufen Sie Bücher und Souvenirs zur norwegischen Geschichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Múzeumi bolt az Eidsvollsbygningenben",
+            "tip": "Vásároljon könyveket és szuveníreket a norvég történelemről!"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul muzeului de la Eidsvollsbygningen",
+            "tip": "Cumpărați cărți și suveniruri legate de istoria Norvegiei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Museum shop at Eidsvollsbygningen",
+            "tip": "Buy books and souvenirs related to Norwegian history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Prüfen Sie die Öffnungszeiten des Eidsvollsbygningen im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Ellenőrizze előre az Eidsvollsbygningen nyitvatartási idejét!"
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Verificați în avans programul de funcționare al Eidsvollsbygningen."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Check the opening hours for Eidsvollsbygningen in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 25.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Eidsvollsbygningen",
+            "hu": "Eidsvollsbygningen",
+            "ro": "Eidsvollsbygningen",
+            "en": "Eidsvollsbygningen"
+          },
+          "coords": [
+            11.171,
+            60.298
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und tauchen Sie in die Geburtsstunde Norwegens ein.",
+            "hu": "Parkolja le a kerékpárt, és merüljön el Norvégia születésének történetében!",
+            "ro": "Parcați bicicleta și scufundați-vă în locul de naștere al Norvegiei.",
+            "en": "Park your bike and immerse yourself in the birthplace of Norway."
+          }
+        },
+        {
+          "name": {
+            "de": "Skibladner Anlegestelle",
+            "hu": "Skibladner kikötő",
+            "ro": "Debarcaderul Skibladner",
+            "en": "Skibladner Pier"
+          },
+          "coords": [
+            11.165,
+            60.401
+          ],
+          "category": "historical",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Sehen Sie, wo der älteste Raddampfer der Welt anlegt. Ein fotogener Ort.",
+            "hu": "Nézze meg, hol köt ki a világ legrégebbi lapátkerekes gőzhajója! Fotogén hely.",
+            "ro": "Vedeți unde acostează cel mai vechi vapor cu zbaturi din lume. Un loc fotogenic.",
+            "en": "See where the world's oldest paddle steamer docks. A photogenic spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Smaragdminen von Minnesund",
+            "hu": "Minnesundi smaragdbányák",
+            "ro": "Minele de smarald din Minnesund",
+            "en": "Emerald Mines of Minnesund"
+          },
+          "coords": [
+            11.189,
+            60.405
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine kurze Radtour zu den historischen Minen, wo einst Smaragde gefunden wurden.",
+            "hu": "Egy rövid biciklitúra a történelmi bányákhoz, ahol egykor smaragdokat találtak.",
+            "ro": "O scurtă plimbare cu bicicleta la minele istorice unde s-au găsit odată smaralde.",
+            "en": "A short bike ride to the historic mines where emeralds were once found."
+          }
+        },
+        {
+          "name": {
+            "de": "Hurdalsjøen Ufer",
+            "hu": "Hurdalsjøen-tó partja",
+            "ro": "Malul lacului Hurdalsjøen",
+            "en": "Hurdalsjøen Lakeshore"
+          },
+          "coords": [
+            11.1,
+            60.35
+          ],
+          "category": "natural features",
+          "arrive_at": "14:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 8.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht auf den See und die ruhige Atmosphäre.",
+            "hu": "Élvezze a tóra nyíló kilátást és a csendes légkört!",
+            "ro": "Bucurați-vă de vederea lacului și de atmosfera liniștită.",
+            "en": "Enjoy the lake views and the quiet atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Eidsvoll Kirche",
+            "hu": "Eidsvolli templom",
+            "ro": "Biserica Eidsvoll",
+            "en": "Eidsvoll Church"
+          },
+          "coords": [
+            11.258,
+            60.326
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour an diesem historischen und spirituellen Ort.",
+            "hu": "Fejezze be a kerékpártúrát ezen a történelmi és spirituális helyen!",
+            "ro": "Încheiați turul cu bicicleta la acest loc istoric și spiritual.",
+            "en": "End your bike tour at this historic and spiritual place."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel und beginnen Sie am Eidsvollsbygningen, dem Symbol der norwegischen Unabhängigkeit. Radeln Sie nach Norden entlang des Wassers zur Skibladner Anlegestelle und weiter zu den alten Smaragdminen. Am Nachmittag erreichen Sie das malerische Ufer des Hurdalsjøen, perfekt für eine Pause. Ihre Tour endet mit der Rückfahrt zur ruhigen Eidsvoll Kirche, einem Ort der Besinnung nach einem aktiven Tag.",
+        "hu": "Pattanjon nyeregbe, és kezdjen az Eidsvollsbygningennél, a norvég függetlenség szimbólumánál! Tekerjen észak felé a víz mentén a Skibladner kikötőhöz, majd tovább a régi smaragdbányákhoz. Délután érje el a festői Hurdalsjøen-tó partját, amely tökéletes egy pihenőre. A túra az Eidsvoll csendes templomához való visszatéréssel ér véget, amely egy aktív nap után a szemlélődés helye.",
+        "ro": "Urcați-vă pe bicicletă și începeți la Eidsvollsbygningen, simbolul independenței norvegiene. Pedalați spre nord de-a lungul apei până la debarcaderul Skibladner și mai departe la vechile mine de smarald. După-amiaza, ajungeți pe malul pitoresc al lacului Hurdalsjøen, perfect pentru o pauză. Turul se încheie cu întoarcerea la liniștita Biserică Eidsvoll, un loc de contemplare după o zi activă.",
+        "en": "Hop on your bike and start at Eidsvollsbygningen, the symbol of Norwegian independence. Cycle north along the water to the Skibladner Pier and onwards to the old emerald mines. In the afternoon, reach the scenic shore of Lake Hurdalsjøen, perfect for a break. Your tour concludes by cycling back to the tranquil Eidsvoll Church, a place for reflection after an active day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Vafler med brunost",
+            "tip": "Norwegische Waffeln mit süßem braunem Käse sind der perfekte Biker-Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vafler med brunost",
+            "tip": "A norvég gofri édes barna sajttal tökéletes harapnivaló egy biciklis számára."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vafler med brunost",
+            "tip": "Vaflele norvegiene cu brânză brună dulce sunt gustarea perfectă pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vafler med brunost",
+            "tip": "Norwegian waffles with sweet brown cheese are the perfect biker's snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hurdalsjøen",
+            "tip": "Setzen Sie sich ans Ufer und genießen Sie die Stille des Sees.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mistberget",
+            "tip": "Wenn Sie noch Energie haben, bietet der Gipfel eine fantastische Aussicht und Ruhe.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hurdalsjøen",
+            "tip": "Üljön le a partra, és élvezze a tó csendjét!",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mistberget",
+            "tip": "Ha van még energiája, a csúcs fantasztikus kilátást és nyugalmat kínál.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hurdalsjøen",
+            "tip": "Așezați-vă pe mal și bucurați-vă de liniștea lacului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mistberget",
+            "tip": "Dacă mai aveți energie, vârful oferă o priveliște fantastică și liniște.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hurdalsjøen",
+            "tip": "Sit by the shore and enjoy the silence of the lake.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mistberget",
+            "tip": "If you have energy left, the summit offers fantastic views and tranquility.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Hofläden",
+            "tip": "Halten Sie Ausschau nach Schildern für 'Gårdsutsalg', um lokale Produkte zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termelői boltok",
+            "tip": "Keresse a 'Gårdsutsalg' táblákat, hogy helyi termékeket vásárolhasson!"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele fermelor locale",
+            "tip": "Fiți atenți la indicatoarele pentru 'Gårdsutsalg' pentru a cumpăra produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local farm shops",
+            "tip": "Look out for signs for 'Gårdsutsalg' to buy local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Norwegen hat Helmpflicht für Fahrräder.",
+          "Nehmen Sie Wasser und Snacks mit, da die Strecken zwischen den Orten lang sein können."
+        ],
+        "hu": [
+          "Norvégiában kötelező a kerékpáros sisak.",
+          "Vigyen magával vizet és harapnivalót, mivel a helyek közötti távolságok hosszúak lehetnek!"
+        ],
+        "ro": [
+          "Casca este obligatorie pentru bicicliști în Norvegia.",
+          "Luați apă și gustări, deoarece distanțele între locații pot fi mari."
+        ],
+        "en": [
+          "Helmets are mandatory for cyclists in Norway.",
+          "Take water and snacks, as stretches between locations can be long."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 65.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Mistberget",
+            "hu": "Mistberget",
+            "ro": "Mistberget",
+            "en": "Mistberget"
+          },
+          "coords": [
+            11.1,
+            60.25
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz und gehen Sie den Rest des Weges zum Aussichtsturm. Die Aussicht ist die Mühe wert.",
+            "hu": "Hajtson a parkolóig, és tegye meg a maradék utat a kilátótoronyig! A kilátás megéri a fáradságot.",
+            "ro": "Conduceți până la parcare și mergeți pe jos restul drumului până la turnul de observație. Priveliștea merită efortul.",
+            "en": "Drive to the parking area and walk the rest of the way to the observation tower. The view is worth the effort."
+          }
+        },
+        {
+          "name": {
+            "de": "Eidsvollsbygningen",
+            "hu": "Eidsvollsbygningen",
+            "ro": "Eidsvollsbygningen",
+            "en": "Eidsvollsbygningen"
+          },
+          "coords": [
+            11.171,
+            60.298
+          ],
+          "category": "museums",
+          "arrive_at": "10:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 20.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den ersten historischen Cluster des Tages.",
+            "hu": "Parkoljon le itt a nap első történelmi klaszteréhez!",
+            "ro": "Parcați aici pentru primul cluster istoric al zilei.",
+            "en": "Park here for the first historical cluster of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Wergelandshaugen",
+            "hu": "Wergelandshaugen",
+            "ro": "Wergelandshaugen",
+            "en": "Wergelandshaugen"
+          },
+          "coords": [
+            11.173,
+            60.296
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch den Park vom Hauptgebäude aus.",
+            "hu": "Egy rövid séta a parkon keresztül a főépülettől.",
+            "ro": "O scurtă plimbare prin parc de la clădirea principală.",
+            "en": "A short walk through the park from the main building."
+          }
+        },
+        {
+          "name": {
+            "de": "Gullverket",
+            "hu": "Gullverket",
+            "ro": "Gullverket",
+            "en": "Gullverket"
+          },
+          "coords": [
+            11.35,
+            60.28
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 25.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Entdecken Sie die Überreste der Goldminen aus dem 18. Jahrhundert.",
+            "hu": "Fedezze fel a 18. századi aranybányák maradványait!",
+            "ro": "Descoperiți rămășițele minelor de aur din secolul al XVIII-lea.",
+            "en": "Discover the remains of the 18th-century gold mines."
+          }
+        },
+        {
+          "name": {
+            "de": "Hurdalsjøen",
+            "hu": "Hurdalsjøen-tó",
+            "ro": "Lacul Hurdalsjøen",
+            "en": "Lake Hurdalsjøen"
+          },
+          "coords": [
+            11.2,
+            60.38
+          ],
+          "category": "natural features",
+          "arrive_at": "15:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 15.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Ufer und genießen Sie die Aussicht. Ein toller Ort für Fotos.",
+            "hu": "Parkoljon le a parton, és élvezze a kilátást! Remek hely a fotózásra.",
+            "ro": "Parcați pe mal și bucurați-vă de priveliște. Un loc minunat pentru fotografii.",
+            "en": "Park by the shore and enjoy the view. A great spot for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Skibladner Anlegestelle",
+            "hu": "Skibladner kikötő",
+            "ro": "Debarcaderul Skibladner",
+            "en": "Skibladner Pier"
+          },
+          "coords": [
+            11.165,
+            60.401
+          ],
+          "category": "historical",
+          "arrive_at": "16:45",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Parkplatz am See aus können Sie zum Pier spazieren.",
+            "hu": "A tavi parkolóból elsétálhat a mólóhoz.",
+            "ro": "De la parcarea de lângă lac, puteți merge pe jos până la debarcader.",
+            "en": "From the lake parking, you can walk to the pier."
+          }
+        },
+        {
+          "name": {
+            "de": "Smaragdminen von Minnesund",
+            "hu": "Minnesundi smaragdbányák",
+            "ro": "Minele de smarald din Minnesund",
+            "en": "Emerald Mines of Minnesund"
+          },
+          "coords": [
+            11.189,
+            60.405
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "17:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein letzter Halt, um die geologische Geschichte der Region zu erkunden.",
+            "hu": "Egy utolsó megálló a régió geológiai történelmének felfedezéséhez.",
+            "ro": "O ultimă oprire pentru a explora istoria geologică a regiunii.",
+            "en": "A final stop to explore the geological history of the area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie den Tag mit einer Fahrt zum Mistberget für eine atemberaubende Aussicht. Fahren Sie dann zum historischen Herzen Norwegens, dem Eidsvollsbygningen, und erkunden Sie das Gelände zu Fuß. Am Nachmittag führt Sie Ihr Auto zu den abgelegenen Goldminen von Gullverket. Später entspannen Sie am Ufer des Hurdalsjøen, einem malerischen Cluster mit dem Skibladner Pier. Beenden Sie Ihre Erkundung bei den faszinierenden Smaragdminen von Minnesund.",
+        "hu": "Kezdje a napot egy autózással a Mistbergetre a lélegzetelállító kilátásért! Ezután hajtson Norvégia történelmi szívébe, az Eidsvollsbygningenhez, és fedezze fel a területet gyalog. Délután az autója elviszi a távoli Gullverket aranybányáihoz. Később pihenjen a Hurdalsjøen-tó partján, amely egy festői klaszter a Skibladner mólóval. Fejezze be a felfedezést a lenyűgöző Minnesundi smaragdbányáknál!",
+        "ro": "Începeți ziua cu o călătorie cu mașina spre Mistberget pentru o priveliște uluitoare. Apoi, conduceți spre inima istorică a Norvegiei, Eidsvollsbygningen, și explorați zona pe jos. După-amiaza, mașina vă va duce la minele de aur izolate de la Gullverket. Mai târziu, relaxați-vă pe malul lacului Hurdalsjøen, un cluster pitoresc cu debarcaderul Skibladner. Încheiați explorarea la fascinantele mine de smarald din Minnesund.",
+        "en": "Start the day with a drive to Mistberget for a breathtaking view. Then, drive to the historical heart of Norway, Eidsvollsbygningen, and explore the grounds on foot. In the afternoon, your car takes you to the remote gold mines at Gullverket. Later, relax by the shores of Lake Hurdalsjøen, a scenic cluster that includes the Skibladner Pier. Finish your exploration at the intriguing Emerald Mines of Minnesund."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rømmegrøt",
+            "tip": "Ein traditioneller norwegischer Sauerrahmbrei, oft mit Zucker, Zimt und Butter serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rømmegrøt",
+            "tip": "Hagyományos norvég tejfölkása, gyakran cukorral, fahéjjal és vajjal tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rømmegrøt",
+            "tip": "Un terci tradițional norvegian din smântână, adesea servit cu zahăr, scorțișoară și unt."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rømmegrøt",
+            "tip": "A traditional Norwegian sour cream porridge, often served with sugar, cinnamon, and butter."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mistberget Gipfel",
+            "tip": "Absolute Stille und ein 360-Grad-Blick über die Landschaft.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ein abgelegener Platz am Hurdalsjøen",
+            "tip": "Finden Sie Ihren eigenen kleinen Strandabschnitt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mistberget-csúcs",
+            "tip": "Abszolút csend és 360 fokos panoráma a tájra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Egy eldugott hely a Hurdalsjøen-tónál",
+            "tip": "Találja meg a saját kis partszakaszát!",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Mistberget",
+            "tip": "Liniște absolută și o vedere de 360 de grade asupra peisajului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Un loc retras pe malul lacului Hurdalsjøen",
+            "tip": "Găsiți-vă propria mică porțiune de plajă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mistberget Summit",
+            "tip": "Absolute silence and a 360-degree view over the landscape.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A secluded spot by Lake Hurdalsjøen",
+            "tip": "Find your own little stretch of shore.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Eidsvoll Sentrum",
+            "tip": "Parken Sie und erkunden Sie die kleinen Geschäfte im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Eidsvoll Sentrum",
+            "tip": "Parkoljon le és fedezze fel a városközpont kis üzleteit!"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Eidsvoll Sentrum",
+            "tip": "Parcați și explorați micile magazine din centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Eidsvoll Sentrum",
+            "tip": "Park and explore the small shops in the town center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Viele der Naturattraktionen erfordern kurze Wanderungen vom Parkplatz aus.",
+          "Achten Sie auf Mautstraßen in der Region."
+        ],
+        "hu": [
+          "Sok természeti látnivaló rövid sétát igényel a parkolótól.",
+          "Figyeljen a régióban található fizetős utakra!"
+        ],
+        "ro": [
+          "Multe dintre atracțiile naturale necesită scurte drumeții de la parcare.",
+          "Fiți atenți la drumurile cu taxă din regiune."
+        ],
+        "en": [
+          "Many of the natural attractions require short hikes from the parking area.",
+          "Be aware of toll roads in the region."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 15.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Eidsvoll Verk",
+            "hu": "Eidsvoll Verk vasútállomás",
+            "ro": "Gara Eidsvoll Verk",
+            "en": "Eidsvoll Verk Station"
+          },
+          "coords": [
+            11.178,
+            60.301
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier; das historische Eidsvollsbygningen ist nur einen kurzen Spaziergang entfernt.",
+            "hu": "Kezdje itt; a történelmi Eidsvollsbygningen csak egy rövid sétára van.",
+            "ro": "Începeți de aici; istoricul Eidsvollsbygningen este la o scurtă plimbare.",
+            "en": "Start here; the historic Eidsvollsbygningen is a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Eidsvollsbygningen",
+            "hu": "Eidsvollsbygningen",
+            "ro": "Eidsvollsbygningen",
+            "en": "Eidsvollsbygningen"
+          },
+          "coords": [
+            11.171,
+            60.298
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Herzstück des ersten Clusters. Planen Sie genügend Zeit für die Tour ein.",
+            "hu": "Az első klaszter központi eleme. Tervezzen elég időt a túrára!",
+            "ro": "Piesa centrală a primului cluster. Planificați suficient timp pentru tur.",
+            "en": "The centerpiece of the first cluster. Allow plenty of time for the tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Eidsvoll Zentrum",
+            "hu": "Eidsvoll központ",
+            "ro": "Centrul Eidsvoll",
+            "en": "Eidsvoll Center"
+          },
+          "coords": [
+            11.255,
+            60.325
+          ],
+          "category": "historical",
+          "arrive_at": "12:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus ins Zentrum für den zweiten Teil Ihres Tages.",
+            "hu": "Menjen busszal a központba a nap második részére!",
+            "ro": "Luați un autobuz spre centru pentru a doua parte a zilei.",
+            "en": "Take a bus into the center for the second cluster of your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Eidsvoll Kirche",
+            "hu": "Eidsvolli templom",
+            "ro": "Biserica Eidsvoll",
+            "en": "Eidsvoll Church"
+          },
+          "coords": [
+            11.258,
+            60.326
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Busbahnhof aus leicht zu Fuß erreichbar.",
+            "hu": "Könnyen megközelíthető gyalog a buszmegállótól.",
+            "ro": "Ușor accesibil pe jos de la stația de autobuz.",
+            "en": "An easy walk from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahnhof Minnesund",
+            "hu": "Minnesund állomás",
+            "ro": "Gara Minnesund",
+            "en": "Minnesund Station"
+          },
+          "coords": [
+            11.21,
+            60.39
+          ],
+          "category": "historical",
+          "arrive_at": "15:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 110,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Zug nach Minnesund, um die Smaragdminen und den Skibladner Pier zu Fuß zu erkunden.",
+            "hu": "Vonatozzon el Minnesundba, hogy gyalog fedezze fel a smaragdbányákat és a Skibladner mólót!",
+            "ro": "Luați trenul spre Minnesund pentru a explora pe jos minele de smarald și debarcaderul Skibladner.",
+            "en": "Take the train to Minnesund to explore the emerald mines and Skibladner pier on foot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Norwegens effiziente Züge und Busse. Beginnen Sie im Cluster Eidsvoll Verk, wo das Eidsvollsbygningen zu Fuß erreichbar ist. Ein Bus bringt Sie mittags ins Zentrum von Eidsvoll, wo Sie die Kirche besichtigen können. Am Nachmittag bringt Sie ein Zug in den nördlichen Cluster Minnesund, wo Sie die historischen Minen und den berühmten Pier des ältesten Raddampfers der Welt erkunden können. Ein Tag voller Geschichte, leicht erreichbar mit öffentlichen Verkehrsmitteln.",
+        "hu": "Használja ki Norvégia hatékony vonat- és buszhálózatát! Kezdjen az Eidsvoll Verk klaszterben, ahonnan az Eidsvollsbygningen gyalog is elérhető. Délben egy busz beviszi Eidsvoll központjába, ahol megnézheti a templomot. Délután egy vonat elviszi az északi Minnesund klaszterbe, ahol felfedezheti a történelmi bányákat és a világ legrégebbi lapátkerekes gőzhajójának híres mólóját. Egy történelemmel teli nap, amely tömegközlekedéssel könnyen megközelíthető.",
+        "ro": "Folosiți trenurile și autobuzele eficiente din Norvegia. Începeți în clusterul Eidsvoll Verk, cu Eidsvollsbygningen la distanță de mers pe jos. Un autobuz vă duce în centrul Eidsvoll la prânz pentru a vedea biserica. După-amiaza, un tren vă duce în clusterul nordic Minnesund, unde puteți explora minele istorice și faimosul debarcader al celui mai vechi vapor cu zbaturi din lume. O zi plină de istorie, ușor accesibilă cu transportul public.",
+        "en": "Use Norway's efficient trains and buses. Start at the Eidsvoll Verk cluster, with Eidsvollsbygningen within walking distance. A bus takes you to Eidsvoll center for lunch to see the church. In the afternoon, a train whisks you to the northern Minnesund cluster, where you can explore the historic mines and the famous pier of the world's oldest paddle steamer. A day of history made easy by public transport."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pølse i lompe",
+            "tip": "Ein klassischer norwegischer Hotdog in einem weichen Kartoffelfladenbrot, perfekt für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pølse i lompe",
+            "tip": "Klasszikus norvég hot dog egy puha burgonyalepényben, tökéletes útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pølse i lompe",
+            "tip": "Un hotdog norvegian clasic într-o lipie moale de cartofi, perfect pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pølse i lompe",
+            "tip": "A classic Norwegian hot dog in a soft potato flatbread, perfect for on-the-go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Zugfahrt nach Minnesund",
+            "tip": "Schauen Sie aus dem Fenster und genießen Sie die vorbeiziehende Landschaft.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vonatút Minnesundba",
+            "tip": "Nézzen ki az ablakon, és élvezze az elsuhanó tájat!",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătoria cu trenul spre Minnesund",
+            "tip": "Priviți pe fereastră și bucurați-vă de peisajul care trece.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Train ride to Minnesund",
+            "tip": "Look out the window and enjoy the passing scenery.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Bahnhof",
+            "tip": "Kaufen Sie norwegische Schokolade wie 'Freia Melkesjokolade' für die Zugfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a vasútállomáson",
+            "tip": "Vásároljon norvég csokoládét, például 'Freia Melkesjokolade'-t a vonatútra!"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcul din gară",
+            "tip": "Cumpărați ciocolată norvegiană precum 'Freia Melkesjokolade' pentru călătoria cu trenul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the train station",
+            "tip": "Buy some Norwegian chocolate like 'Freia Melkesjokolade' for the train ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel für das beste Preis-Leistungs-Verhältnis.",
+          "Überprüfen Sie die Fahrpläne im Voraus, insbesondere für Busse in ländlichen Gebieten."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez a legjobb ár-érték arány érdekében.",
+          "Ellenőrizze előre a menetrendeket, különösen a vidéki buszok esetében!"
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru cel mai bun raport calitate-preț.",
+          "Verificați orarele în avans, în special pentru autobuzele din zonele rurale."
+        ],
+        "en": [
+          "Buy a day pass for public transport for the best value.",
+          "Check schedules in advance, especially for buses in rural areas."
+        ]
+      }
+    }
+  }
+}

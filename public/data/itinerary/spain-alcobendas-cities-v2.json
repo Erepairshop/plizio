@@ -1,0 +1,1228 @@
+{
+  "city_id": "spain-alcobendas-cities-v2",
+  "anchor": {
+    "name": "Alcobendas",
+    "coords": [
+      -3.6421,
+      40.5475
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Iglesia de San Pedro Apóstol",
+            "hu": "Szent Péter apostol templom",
+            "ro": "Biserica San Pedro Apóstol",
+            "en": "Church of San Pedro Apóstol"
+          },
+          "coords": [
+            -3.6425,
+            40.5478
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die barocke Fassade und das ruhige Innere, bevor die Menschenmassen kommen.",
+            "hu": "Csodálja meg a barokk homlokzatot és a csendes belső teret, mielőtt a tömeg megérkezik.",
+            "ro": "Admirați fațada barocă și interiorul liniștit înainte de sosirea mulțimilor.",
+            "en": "Admire the baroque facade and the quiet interior before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro de Arte Alcobendas",
+            "hu": "Alcobendas Művészeti Központ",
+            "ro": "Centrul de Artă Alcobendas",
+            "en": "Alcobendas Art Centre"
+          },
+          "coords": [
+            -3.641,
+            40.5485
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie den Veranstaltungsplan für kostenlose Ausstellungen oder Workshops.",
+            "hu": "Nézze meg a programot ingyenes kiállításokért vagy workshopokért.",
+            "ro": "Verificați programul pentru expoziții sau ateliere gratuite.",
+            "en": "Check the schedule for free exhibitions or workshops."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque de Cataluña",
+            "hu": "Cataluña Park",
+            "ro": "Parcul Cataluña",
+            "en": "Parque de Cataluña"
+          },
+          "coords": [
+            -3.635,
+            40.551
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein idealer Ort für ein Picknick am Mittag. Es gibt einen großen Teich in der Mitte.",
+            "hu": "Ideális hely egy déli piknikhez. A közepén egy nagy tó található.",
+            "ro": "Un loc ideal pentru un picnic la prânz. Există un iaz mare în centru.",
+            "en": "An ideal spot for a midday picnic. There's a large pond in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "La Campana de la Paz",
+            "hu": "A Béke Harangja",
+            "ro": "Clopotul Păcii",
+            "en": "The Bell of Peace"
+          },
+          "coords": [
+            -3.6345,
+            40.5515
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:30",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Symbol der Harmonie, perfekt für einen kurzen Moment der Besinnung.",
+            "hu": "A harmónia szimbóluma, tökéletes egy rövid elmélkedésre.",
+            "ro": "Un simbol al armoniei, perfect pentru un scurt moment de reflecție.",
+            "en": "A symbol of harmony, perfect for a brief moment of reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardín de la Vega",
+            "hu": "La Vega Kert",
+            "ro": "Grădina la Vega",
+            "en": "Jardín de la Vega"
+          },
+          "coords": [
+            -3.648,
+            40.545
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Hier können Sie nach dem Mittagessen entspannen. Es ist ruhiger als der Parque de Cataluña.",
+            "hu": "Ebéd után itt pihenhet. Csendesebb, mint a Cataluña Park.",
+            "ro": "Relaxați-vă aici după prânz. Este mai liniștit decât Parcul Cataluña.",
+            "en": "Relax here after lunch. It's quieter than Parque de Cataluña."
+          }
+        },
+        {
+          "name": {
+            "de": "MUNCYT (Nationalmuseum für Wissenschaft und Technologie)",
+            "hu": "MUNCYT (Nemzeti Tudományos és Technológiai Múzeum)",
+            "ro": "MUNCYT (Muzeul Național de Știință și Tehnologie)",
+            "en": "MUNCYT (National Museum of Science and Technology)"
+          },
+          "coords": [
+            -3.655,
+            40.542
+          ],
+          "category": "museums",
+          "arrive_at": "15:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Interaktive Ausstellungen machen dies zu einem großartigen Ort für alle Altersgruppen.",
+            "hu": "Az interaktív kiállítások miatt ez egy nagyszerű hely minden korosztály számára.",
+            "ro": "Expozițiile interactive fac din acest loc unul excelent pentru toate vârstele.",
+            "en": "Interactive exhibits make this a great place for all ages."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Herzen von Alcobendas bei der Kirche San Pedro. Schlendern Sie durch das Centro de Arte und genießen Sie die lokale Kreativität. Am Nachmittag erkunden Sie die grünen Lungen der Stadt, den Parque de Cataluña und den ruhigeren Jardín de la Vega. Beenden Sie Ihren Tag mit einer Reise durch die Wunder der Wissenschaft im MUNCYT.",
+        "hu": "Kezdje a napot Alcobendas történelmi szívében, a San Pedro templomnál. Sétáljon át a Művészeti Központon, és élvezze a helyi kreativitást. Délután fedezze fel a város zöld tüdejét, a Parque de Cataluñát és a csendesebb Jardín de la Vegát. Zárja a napot egy utazással a tudomány csodái között a MUNCYT-ban.",
+        "ro": "Începeți ziua în inima istorică a Alcobendas, la Biserica San Pedro. Plimbați-vă prin Centrul de Artă, bucurându-vă de creativitatea locală. După-amiaza, explorați plămânii verzi ai orașului, Parcul Cataluña și mai liniștita Grădină la Vega. Încheiați ziua cu o călătorie prin minunile științei la MUNCYT.",
+        "en": "Start your day in the historical heart of Alcobendas at the Church of San Pedro. Stroll through the Art Centre, soaking in local creativity. In the afternoon, explore the city's green lungs, Parque de Cataluña and the quieter Jardín de la Vega. End your day with a journey through the wonders of science at MUNCYT."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cochinillo Asado",
+            "tip": "Probieren Sie das Spanferkel in einem traditionellen 'asador'."
+          },
+          {
+            "name": "La Luna",
+            "tip": "Bekannt für seine exzellenten Tapas und die lebhafte Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cochinillo Asado",
+            "tip": "Kóstolja meg a sült malacot egy hagyományos 'asador'-ban."
+          },
+          {
+            "name": "La Luna",
+            "tip": "Kiváló tapasairól és élénk hangulatáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cochinillo Asado",
+            "tip": "Încercați purcelul de lapte la un 'asador' tradițional."
+          },
+          {
+            "name": "La Luna",
+            "tip": "Renumit pentru tapasurile excelente și atmosfera vibrantă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cochinillo Asado (Roast Suckling Pig)",
+            "tip": "Try the roast suckling pig at a traditional 'asador'."
+          },
+          {
+            "name": "La Luna",
+            "tip": "Known for its excellent tapas and vibrant atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardín de la Vega",
+            "tip": "Finden Sie eine ruhige Ecke am Teich, um ein Buch zu lesen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Museo del Bonsái",
+            "tip": "Ein Ort der Ruhe und Kontemplation, umgeben von alter Kunst.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardín de la Vega",
+            "tip": "Keressen egy csendes sarkot a tó mellett, és olvasson egy könyvet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bonsai Múzeum",
+            "tip": "A nyugalom és az elmélkedés helye, ősi művészettel körülvéve.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina la Vega",
+            "tip": "Găsiți un colț liniștit lângă iaz pentru a citi o carte.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Muzeul de Bonsai",
+            "tip": "Un loc de liniște și contemplare, înconjurat de artă străveche.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardín de la Vega",
+            "tip": "Find a quiet corner by the pond to read a book.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bonsai Museum",
+            "tip": "A place of tranquility and contemplation surrounded by ancient art.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Märkte",
+            "tip": "Suchen Sie nach lokalen Märkten für frische Produkte und Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piacok",
+            "tip": "Keressen helyi piacokat friss termékekért és kézműves termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe locale",
+            "tip": "Căutați piețele locale pentru produse proaspete și meșteșuguri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Markets",
+            "tip": "Look for local markets for fresh produce and artisan crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie Wasser mit, besonders in den wärmeren Monaten.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus.",
+          "Viele Geschäfte und Restaurants haben eine 'Siesta'-Pause am Nachmittag."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "Vigyen magával vizet, különösen a melegebb hónapokban.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét.",
+          "Sok üzlet és étterem délután 'siestát' tart."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, veți merge mult pe jos.",
+          "Luați apă cu dumneavoastră, mai ales în lunile mai calde.",
+          "Verificați orele de deschidere ale muzeelor în avans.",
+          "Multe magazine și restaurante au o pauză de 'siestă' după-amiaza."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Carry water with you, especially during warmer months.",
+          "Check the opening hours of museums in advance.",
+          "Many shops and restaurants have a 'siesta' break in the afternoon."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:18",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parque de Cataluña",
+            "hu": "Cataluña Park",
+            "ro": "Parcul Cataluña",
+            "en": "Parque de Cataluña"
+          },
+          "coords": [
+            -3.635,
+            40.551
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einer leichten Radtour durch den Park.",
+            "hu": "Kezdje a napot egy könnyű kerékpártúrával a parkban.",
+            "ro": "Începeți ziua cu o plimbare ușoară cu bicicleta prin parc.",
+            "en": "Start the day with a light bike ride through the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Bonsái",
+            "hu": "Bonsai Múzeum",
+            "ro": "Muzeul de Bonsai",
+            "en": "Bonsai Museum"
+          },
+          "coords": [
+            -3.628,
+            40.549
+          ],
+          "category": "museums",
+          "arrive_at": "09:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein verstecktes Juwel. Nehmen Sie sich Zeit, die filigranen Bäume zu bewundern.",
+            "hu": "Egy rejtett gyöngyszem. Szánjon időt a bonyolult fák megcsodálására.",
+            "ro": "O bijuterie ascunsă. Luați-vă timp pentru a admira copacii delicați.",
+            "en": "A hidden gem. Take your time to admire the intricate trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro de Arte Alcobendas",
+            "hu": "Alcobendas Művészeti Központ",
+            "ro": "Centrul de Artă Alcobendas",
+            "en": "Alcobendas Art Centre"
+          },
+          "coords": [
+            -3.641,
+            40.5485
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:05",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine gute Gelegenheit, die lokale Kunstszene zu erleben.",
+            "hu": "Nagyszerű lehetőség a helyi művészeti szcéna megtapasztalására.",
+            "ro": "O oportunitate excelentă de a experimenta scena artistică locală.",
+            "en": "A great opportunity to experience the local art scene."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de San Pedro Apóstol",
+            "hu": "Szent Péter apostol templom",
+            "ro": "Biserica San Pedro Apóstol",
+            "en": "Church of San Pedro Apóstol"
+          },
+          "coords": [
+            -3.6425,
+            40.5478
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer, aber lohnender Halt im Herzen der Stadt.",
+            "hu": "Egy rövid, de megérő megálló a város szívében.",
+            "ro": "O oprire scurtă, dar meritată, în inima orașului.",
+            "en": "A short but worthwhile stop in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardín de la Vega",
+            "hu": "La Vega Kert",
+            "ro": "Grădina la Vega",
+            "en": "Jardín de la Vega"
+          },
+          "coords": [
+            -3.648,
+            40.545
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause. Viele schattige Plätze.",
+            "hu": "Tökéletes egy ebédszünethez. Sok árnyékos hely.",
+            "ro": "Perfect pentru o pauză de prânz. Multe locuri umbrite.",
+            "en": "Perfect for a lunch break. Lots of shady spots."
+          }
+        },
+        {
+          "name": {
+            "de": "MUNCYT",
+            "hu": "MUNCYT",
+            "ro": "MUNCYT",
+            "en": "MUNCYT"
+          },
+          "coords": [
+            -3.655,
+            40.542
+          ],
+          "category": "museums",
+          "arrive_at": "14:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit für die interaktiven Displays ein.",
+            "hu": "Tervezzen elegendő időt az interaktív kijelzőkre.",
+            "ro": "Planificați suficient timp pentru afișajele interactive.",
+            "en": "Plan enough time for the interactive displays."
+          }
+        },
+        {
+          "name": {
+            "de": "CosmoCaixa",
+            "hu": "CosmoCaixa",
+            "ro": "CosmoCaixa",
+            "en": "CosmoCaixa"
+          },
+          "coords": [
+            -3.654,
+            40.5415
+          ],
+          "category": "museums",
+          "arrive_at": "16:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt neben MUNCYT, ein großartiger Abschluss des Museumsnachmittags.",
+            "hu": "Közvetlenül a MUNCYT mellett, nagyszerű befejezése a múzeumi délutánnak.",
+            "ro": "Chiar lângă MUNCYT, o modalitate excelentă de a încheia după-amiaza la muzeu.",
+            "en": "Right next to MUNCYT, a great way to finish the museum afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine Radtour, die das Grüne mit der Kultur verbindet. Starten Sie im Parque de Cataluña, entdecken Sie die meditative Ruhe des Bonsai-Museums und tauchen Sie dann ins künstlerische Zentrum ein. Nach einem Halt im historischen Kern können Sie sich im Jardín de la Vega ausruhen, bevor Sie den Nachmittag den Wissenschaften im MUNCYT und CosmoCaixa widmen.",
+        "hu": "Egy kerékpártúra, amely ötvözi a zöld területeket a kultúrával. Induljon a Cataluña Parkból, fedezze fel a Bonsai Múzeum meditatív nyugalmát, majd merüljön el a művészeti központban. A történelmi magban tett megálló után pihenjen a Jardín de la Vegában, mielőtt a délutánt a tudománynak szenteli a MUNCYT-ban és a CosmoCaixában.",
+        "ro": "O excursie cu bicicleta care combină verdele cu cultura. Începeți în Parcul Cataluña, descoperiți liniștea meditativă a Muzeului de Bonsai, apoi scufundați-vă în centrul artistic. După o oprire în centrul istoric, relaxați-vă în Grădina la Vega înainte de a dedica după-amiaza științei la MUNCYT și CosmoCaixa.",
+        "en": "A bike tour combining green spaces with culture. Start in Parque de Cataluña, discover the meditative peace of the Bonsai Museum, then dive into the art centre. After a stop in the historic core, rest at Jardín de la Vega before dedicating the afternoon to science at MUNCYT and CosmoCaixa."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Ein schneller und leckerer Madrider Klassiker, perfekt für Radfahrer."
+          },
+          {
+            "name": "El Pescador",
+            "tip": "Frische Meeresfrüchte und Fischgerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Gyors és ízletes madridi klasszikus, tökéletes kerékpárosoknak."
+          },
+          {
+            "name": "El Pescador",
+            "tip": "Friss tenger gyümölcsei és halételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Un clasic madrilen rapid și gustos, perfect pentru bicicliști."
+          },
+          {
+            "name": "El Pescador",
+            "tip": "Fructe de mare proaspete și preparate din pește."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "A quick and tasty Madrid classic, perfect for cyclists."
+          },
+          {
+            "name": "El Pescador",
+            "tip": "Fresh seafood and fish dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardín de la Vega",
+            "tip": "Der westliche Teil des Gartens ist besonders ruhig.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Innenhof des Bonsai-Museums",
+            "tip": "Ein Ort der Zen-Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardín de la Vega",
+            "tip": "A kert nyugati része különösen csendes.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bonsai Múzeum udvara",
+            "tip": "A Zen nyugalom helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina la Vega",
+            "tip": "Partea de vest a grădinii este deosebit de liniștită.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea Muzeului de Bonsai",
+            "tip": "Un loc de liniște Zen.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardín de la Vega",
+            "tip": "The western part of the garden is especially peaceful.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Courtyard of the Bonsai Museum",
+            "tip": "A place of Zen-like calm.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Avenida de la Ermita",
+            "tip": "Eine Straße mit einer guten Mischung aus lokalen Geschäften und Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Avenida de la Ermita",
+            "tip": "Egy utca, ahol a helyi boltok és butikok jó keveréke található."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Avenida de la Ermita",
+            "tip": "O stradă cu un amestec bun de magazine locale și buticuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Avenida de la Ermita",
+            "tip": "A street with a good mix of local shops and boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Zustand Ihres Fahrrads, bevor Sie losfahren.",
+          "Nutzen Sie die Radwege, wo immer es möglich ist.",
+          "Schließen Sie Ihr Fahrrad an den Haltestellen immer sicher ab.",
+          "Ein leichter Rucksack ist für Wasser und Snacks ausreichend."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpár állapotát.",
+          "Ahol csak lehetséges, használja a kerékpárutakat.",
+          "Mindig biztonságosan zárja le a kerékpárt a megállóknál.",
+          "Egy könnyű hátizsák elegendő a víznek és a rágcsálnivalóknak."
+        ],
+        "ro": [
+          "Verificați starea bicicletei înainte de a porni.",
+          "Utilizați pistele de biciclete ori de câte ori este posibil.",
+          "Asigurați-vă întotdeauna bicicleta în siguranță la opriri.",
+          "Un rucsac ușor este suficient pentru apă și gustări."
+        ],
+        "en": [
+          "Check your bike's condition before you start.",
+          "Use bike lanes wherever possible.",
+          "Always lock your bike securely at stops.",
+          "A light backpack is sufficient for water and snacks."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 15.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "MUNCYT & CosmoCaixa Cluster",
+            "hu": "MUNCYT és CosmoCaixa klaszter",
+            "ro": "Clusterul MUNCYT & CosmoCaixa",
+            "en": "MUNCYT & CosmoCaixa Cluster"
+          },
+          "coords": [
+            -3.655,
+            40.542
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie beide Museen zu Fuß.",
+            "hu": "Parkoljon itt, és fedezze fel mindkét múzeumot gyalog.",
+            "ro": "Parcați aici și explorați ambele muzee pe jos.",
+            "en": "Park here and explore both museums on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "MUNCYT",
+            "hu": "MUNCYT",
+            "ro": "MUNCYT",
+            "en": "MUNCYT"
+          },
+          "coords": [
+            -3.655,
+            40.542
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie mit dem größeren der beiden Wissenschaftsmuseen.",
+            "hu": "Kezdje a két tudományos múzeum közül a nagyobbal.",
+            "ro": "Începeți cu cel mai mare dintre cele două muzee de știință.",
+            "en": "Start with the larger of the two science museums."
+          }
+        },
+        {
+          "name": {
+            "de": "CosmoCaixa",
+            "hu": "CosmoCaixa",
+            "ro": "CosmoCaixa",
+            "en": "CosmoCaixa"
+          },
+          "coords": [
+            -3.654,
+            40.5415
+          ],
+          "category": "museums",
+          "arrive_at": "10:52",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kleineres, aber ebenso faszinierendes Museum, nur einen kurzen Spaziergang entfernt.",
+            "hu": "Kisebb, de ugyanolyan lenyűgöző múzeum, rövid sétára.",
+            "ro": "Un muzeu mai mic, dar la fel de fascinant, la o scurtă plimbare.",
+            "en": "A smaller but equally fascinating museum just a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro Histórico Cluster",
+            "hu": "Történelmi központ klaszter",
+            "ro": "Clusterul Centrului Istoric",
+            "en": "Historic Center Cluster"
+          },
+          "coords": [
+            -3.6425,
+            40.5478
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:15",
+          "stay_min": 0,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 10.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Finden Sie einen Parkplatz und erkunden Sie die Altstadt.",
+            "hu": "Keressen egy parkolóhelyet, és fedezze fel az óvárost.",
+            "ro": "Găsiți un loc de parcare și explorați centrul vechi.",
+            "en": "Find a parking spot and explore the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de San Pedro Apóstol",
+            "hu": "Szent Péter apostol templom",
+            "ro": "Biserica San Pedro Apóstol",
+            "en": "Church of San Pedro Apóstol"
+          },
+          "coords": [
+            -3.6425,
+            40.5478
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Herzstück des historischen Viertels.",
+            "hu": "A történelmi negyed szíve.",
+            "ro": "Piesa centrală a cartierului istoric.",
+            "en": "The centerpiece of the historic quarter."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque de Cataluña Cluster",
+            "hu": "Parque de Cataluña Klaszter",
+            "ro": "Clusterul Parcului Cataluña",
+            "en": "Parque de Cataluña Cluster"
+          },
+          "coords": [
+            -3.635,
+            40.551
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:45",
+          "stay_min": 180,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie und genießen Sie einen entspannten Nachmittag im Park.",
+            "hu": "Parkoljon le, és élvezze a pihentető délutánt a parkban.",
+            "ro": "Parcați și bucurați-vă de o după-amiază relaxantă în parc.",
+            "en": "Park and enjoy a relaxing afternoon in the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Autotag maximiert Ihre Zeit, indem er die Sehenswürdigkeiten in Cluster zusammenfasst. Beginnen Sie Ihren Morgen mit einer Dosis Wissenschaft in den benachbarten Museen MUNCYT und CosmoCaixa. Fahren Sie dann ins historische Zentrum, um die Kirche San Pedro zu besichtigen und zu Mittag zu essen. Verbringen Sie den Rest des Nachmittags im weitläufigen Parque de Cataluña, um sich zu entspannen und zu erholen.",
+        "hu": "Ez az autós nap maximalizálja az idejét a látnivalók klaszterekbe csoportosításával. Kezdje a reggelt egy adag tudománnyal a szomszédos MUNCYT és CosmoCaixa múzeumokban. Ezután hajtson be a történelmi központba, hogy megnézze a San Pedro templomot és ebédeljen. Töltse a délután hátralévő részét a tágas Parque de Cataluñában pihenéssel.",
+        "ro": "Această zi cu mașina maximizează timpul prin gruparea atracțiilor în clustere. Începeți dimineața cu o doză de știință la muzeele învecinate MUNCYT și CosmoCaixa. Apoi, conduceți spre centrul istoric pentru a vizita Biserica San Pedro și pentru a lua prânzul. Petreceți restul după-amiezii relaxându-vă în întinsul Parc Cataluña.",
+        "en": "This car day maximizes your time by grouping sights into clusters. Start your morning with a dose of science at the neighboring MUNCYT and CosmoCaixa museums. Then, drive to the historic center to see the Church of San Pedro and have lunch. Spend the rest of the afternoon relaxing and unwinding in the expansive Parque de Cataluña."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurante Araceli",
+            "tip": "Ein gehobenes Restaurant, bekannt für seine moderne spanische Küche."
+          },
+          {
+            "name": "Casa Rúa",
+            "tip": "Traditionelle Gerichte in einer gemütlichen Umgebung nahe dem Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurante Araceli",
+            "tip": "Egy elegáns étterem, amely a modern spanyol konyhájáról ismert."
+          },
+          {
+            "name": "Casa Rúa",
+            "tip": "Hagyományos ételek egy hangulatos környezetben, a központ közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurante Araceli",
+            "tip": "Un restaurant de lux, renumit pentru bucătăria sa spaniolă modernă."
+          },
+          {
+            "name": "Casa Rúa",
+            "tip": "Mâncăruri tradiționale într-un cadru primitor, aproape de centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurante Araceli",
+            "tip": "An upscale restaurant known for its modern Spanish cuisine."
+          },
+          {
+            "name": "Casa Rúa",
+            "tip": "Traditional dishes in a cozy setting near the center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque de Cataluña",
+            "tip": "Gehen Sie abseits der Hauptwege, um ruhigere Plätze zu finden. 🏞️",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardín de la Vega",
+            "tip": "Weniger überlaufen und ideal für einen ruhigen Spaziergang.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parque de Cataluña",
+            "tip": "Térjen le a fő ösvényekről, hogy csendesebb helyeket találjon. 🏞️",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardín de la Vega",
+            "tip": "Kevésbé zsúfolt és ideális egy csendes sétához.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Cataluña",
+            "tip": "Abateți-vă de la potecile principale pentru a găsi locuri mai liniștite. 🏞️",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina la Vega",
+            "tip": "Mai puțin aglomerată și ideală pentru o plimbare liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parque de Cataluña",
+            "tip": "Go off the main paths to find quieter spots. 🏞️",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardín de la Vega",
+            "tip": "Less crowded and ideal for a quiet stroll.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Moraleja Green Shopping Center",
+            "tip": "Ein gehobenes Einkaufszentrum, wenn Sie Lust auf Markeneinkäufe haben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Moraleja Green Bevásárlóközpont",
+            "tip": "Egy elegáns bevásárlóközpont, ha márkás vásárlásra vágyik."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Moraleja Green",
+            "tip": "Un centru comercial de lux dacă doriți să faceți cumpărături de marcă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Moraleja Green Shopping Center",
+            "tip": "An upscale shopping center if you're in the mood for brand shopping."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten und -gebühren im Voraus.",
+          "Der Verkehr kann zu Stoßzeiten stark sein.",
+          "Ein GPS ist unerlässlich, um sich zwischen den Clustern zurechtzufinden.",
+          "Lassen Sie keine Wertsachen sichtbar im Auto liegen."
+        ],
+        "hu": [
+          "Előre ellenőrizze a parkolási lehetőségeket és díjakat.",
+          "A forgalom csúcsidőben sűrű lehet.",
+          "A GPS elengedhetetlen a klaszterek közötti navigáláshoz.",
+          "Ne hagyjon értékeket látható helyen az autóban."
+        ],
+        "ro": [
+          "Verificați opțiunile de parcare și taxele în avans.",
+          "Traficul poate fi aglomerat la orele de vârf.",
+          "Un GPS este esențial pentru a naviga între clustere.",
+          "Nu lăsați obiecte de valoare la vedere în mașină."
+        ],
+        "en": [
+          "Check parking options and fees in advance.",
+          "Traffic can be heavy during peak hours.",
+          "A GPS is essential for navigating between clusters.",
+          "Do not leave valuables visible in the car."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 7.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Centro Cluster",
+            "hu": "Központi klaszter",
+            "ro": "Clusterul Central",
+            "en": "Centro Cluster"
+          },
+          "coords": [
+            -3.6425,
+            40.5478
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus ins Zentrum und beginnen Sie Ihre Erkundung.",
+            "hu": "Menjen busszal a központba, és kezdje meg a felfedezést.",
+            "ro": "Luați un autobuz spre centru și începeți explorarea.",
+            "en": "Take a bus to the center and start your exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de San Pedro Apóstol",
+            "hu": "Szent Péter apostol templom",
+            "ro": "Biserica San Pedro Apóstol",
+            "en": "Church of San Pedro Apóstol"
+          },
+          "coords": [
+            -3.6425,
+            40.5478
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der erste Halt nach Ihrer Ankunft im Zentrum.",
+            "hu": "Az első megálló a központba érkezés után.",
+            "ro": "Prima oprire după sosirea în centru.",
+            "en": "The first stop after arriving in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro de Arte Alcobendas",
+            "hu": "Alcobendas Művészeti Központ",
+            "ro": "Centrul de Artă Alcobendas",
+            "en": "Alcobendas Art Centre"
+          },
+          "coords": [
+            -3.641,
+            40.5485
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang von der Kirche entfernt.",
+            "hu": "Csak egy rövid sétára a templomtól.",
+            "ro": "La doar o scurtă plimbare de biserică.",
+            "en": "Just a short walk from the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque de Cataluña Cluster",
+            "hu": "Parque de Cataluña Klaszter",
+            "ro": "Clusterul Parcului Cataluña",
+            "en": "Parque de Cataluña Cluster"
+          },
+          "coords": [
+            -3.635,
+            40.551
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus zum Park für die Mittagszeit.",
+            "hu": "Menjen helyi busszal a parkba ebédidőre.",
+            "ro": "Luați un autobuz local spre parc pentru ora prânzului.",
+            "en": "Take a local bus to the park for midday."
+          }
+        },
+        {
+          "name": {
+            "de": "Museums Cluster",
+            "hu": "Múzeumi klaszter",
+            "ro": "Clusterul Muzeelor",
+            "en": "Museums Cluster"
+          },
+          "coords": [
+            -3.655,
+            40.542
+          ],
+          "category": "museums",
+          "arrive_at": "14:20",
+          "stay_min": 165,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine weitere Busfahrt bringt Sie zu den Wissenschaftsmuseen für den Nachmittag.",
+            "hu": "Egy újabb buszozás elviszi a délutáni tudományos múzeumokhoz.",
+            "ro": "O altă călătorie cu autobuzul vă duce la muzeele de știință pentru după-amiază.",
+            "en": "Another bus ride takes you to the science museums for the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das öffentliche Verkehrsnetz von Alcobendas, um sich zwischen den Hauptattraktionen zu bewegen. Beginnen Sie im historischen Zentrum und gehen Sie zu Fuß zwischen der Kirche und dem Kunstzentrum. Nehmen Sie dann einen Bus zum Parque de Cataluña für eine ausgedehnte Mittagspause. Schließlich bringt Sie ein weiterer Bus zu den Wissenschaftsmuseen, wo Sie den Rest Ihres Tages verbringen können.",
+        "hu": "Használja Alcobendas tömegközlekedési hálózatát a főbb látnivalók közötti közlekedéshez. Kezdje a történelmi központban, sétáljon a templom és a művészeti központ között. Ezután buszozzon el a Parque de Cataluñába egy hosszabb ebédszünetre. Végül egy másik busz elviszi a tudományos múzeumokhoz, ahol a nap hátralévő részét töltheti.",
+        "ro": "Folosiți rețeaua de transport public din Alcobendas pentru a vă deplasa între principalele atracții. Începeți în centrul istoric, mergând pe jos între biserică și centrul de artă. Apoi, luați un autobuz spre Parcul Cataluña pentru o pauză de prânz prelungită. În cele din urmă, un alt autobuz vă va duce la muzeele de știință pentru a vă petrece restul zilei.",
+        "en": "Use Alcobendas's public transit network to move between key attraction clusters. Start in the historic center, walking between the church and the art center. Then, take a bus to Parque de Cataluña for an extended midday break. Finally, another bus will take you to the science museums to spend the rest of your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Menú del Día",
+            "tip": "Suchen Sie nach Restaurants in der Nähe von Bushaltestellen, die ein preiswertes Mittagsmenü anbieten."
+          },
+          {
+            "name": "Pastelería Mallorca",
+            "tip": "Ein großartiger Ort für Kaffee und Gebäck, während Sie auf Ihren Bus warten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Menú del Día",
+            "tip": "Keressen a buszmegállók közelében éttermeket, amelyek kedvező árú napi menüt kínálnak."
+          },
+          {
+            "name": "Pastelería Mallorca",
+            "tip": "Nagyszerű hely egy kávéra és süteményre, amíg a buszra vár."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Menú del Día",
+            "tip": "Căutați restaurante lângă stațiile de autobuz care oferă un meniu de prânz la prețuri accesibile."
+          },
+          {
+            "name": "Pastelería Mallorca",
+            "tip": "Un loc minunat pentru o cafea și produse de patiserie în timp ce așteptați autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Menú del Día (Menu of the Day)",
+            "tip": "Look for restaurants near bus stops offering a value-for-money daily menu."
+          },
+          {
+            "name": "Pastelería Mallorca",
+            "tip": "A great spot for coffee and pastries while waiting for your bus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque de Cataluña",
+            "tip": "Es ist groß genug, um auch an geschäftigen Tagen einen ruhigen Ort zu finden. 🏞️",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eine Bank im Jardín de la Vega",
+            "tip": "Ein kurzer Spaziergang vom Zentrum entfernt für eine friedliche Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parque de Cataluña",
+            "tip": "Elég nagy ahhoz, hogy még a forgalmas napokon is találjon egy csendes helyet. 🏞️",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy pad a Jardín de la Vegában",
+            "tip": "Rövid sétára a központtól egy békés szünetért.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Cataluña",
+            "tip": "Suficient de mare pentru a găsi un loc liniștit chiar și în zilele aglomerate. 🏞️",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O bancă în Grădina la Vega",
+            "tip": "La o scurtă plimbare de centru pentru o pauză liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parque de Cataluña",
+            "tip": "It's large enough to find a quiet spot even on busy days. 🏞️",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A bench in Jardín de la Vega",
+            "tip": "A short walk from the center for a peaceful break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Geschäfte",
+            "tip": "Entdecken Sie die kleinen Geschäfte rund um das historische Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi üzletek",
+            "tip": "Fedezze fel a történelmi központ körüli kis üzleteket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine locale",
+            "tip": "Explorați micile magazine din jurul centrului istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Shops",
+            "tip": "Explore the small shops around the historic center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine wiederaufladbare Transportkarte für eine einfachere Nutzung.",
+          "Laden Sie eine Nahverkehrs-App herunter, um Fahrpläne und Routen in Echtzeit zu sehen.",
+          "Beachten Sie die Stoßzeiten, da die Busse voll sein können.",
+          "Validieren Sie Ihr Ticket bei jedem Einstieg, um Bußgelder zu vermeiden."
+        ],
+        "hu": [
+          "Vásároljon újratölthető közlekedési kártyát a könnyebb használat érdekében.",
+          "Töltsön le egy tömegközlekedési alkalmazást a valós idejű menetrendekért és útvonalakért.",
+          "Legyen tisztában a csúcsidővel, mert a buszok zsúfoltak lehetnek.",
+          "Minden felszálláskor érvényesítse a jegyét a bírságok elkerülése érdekében."
+        ],
+        "ro": [
+          "Cumpărați un card de transport reîncărcabil pentru o utilizare mai ușoară.",
+          "Descărcați o aplicație de transport public pentru orare și rute în timp real.",
+          "Fiți conștienți de orele de vârf, deoarece autobuzele pot fi aglomerate.",
+          "Validați biletul de fiecare dată când vă îmbarcați pentru a evita amenzile."
+        ],
+        "en": [
+          "Purchase a rechargeable transport card for easier use.",
+          "Download a public transit app for real-time schedules and routes.",
+          "Be mindful of peak hours as buses can get crowded.",
+          "Validate your ticket each time you board to avoid fines."
+        ]
+      }
+    }
+  }
+}

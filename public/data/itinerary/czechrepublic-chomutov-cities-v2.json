@@ -1,0 +1,1518 @@
+{
+  "city_id": "czechrepublic-chomutov-cities-v2",
+  "anchor": {
+    "name": "Chomutov",
+    "coords": [
+      13.4177,
+      50.4605
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus und Dreifaltigkeitssäule",
+            "hu": "Városháza és Szentháromság-oszlop",
+            "ro": "Primăria și Coloana Sfintei Treimi",
+            "en": "Town Hall and Holy Trinity Column"
+          },
+          "coords": [
+            13.418,
+            50.4608
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag im Herzen der Stadt, einem perfekten Ort für Fotos.",
+            "hu": "Kezdje a napot a város szívében, tökéletes hely a fotózáshoz.",
+            "ro": "Începeți ziua în inima orașului, un loc perfect pentru fotografii.",
+            "en": "Start your day in the heart of the city, a perfect spot for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtturm",
+            "hu": "Várostorony",
+            "ro": "Turnul Orașului",
+            "en": "City Tower"
+          },
+          "coords": [
+            13.4175,
+            50.4612
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Steigen Sie für eine großartige Aussicht auf die Altstadt und die Umgebung hinauf.",
+            "hu": "Másszon fel a toronyba, ahonnan nagyszerű kilátás nyílik az óvárosra.",
+            "ro": "Urcați pentru o priveliște minunată asupra orașului vechi și a împrejurimilor.",
+            "en": "Climb up for a great view of the old town and the surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Katharinen-Kirche",
+            "hu": "Szent Katalin-templom",
+            "ro": "Biserica Sfânta Ecaterina",
+            "en": "St. Catherine's Church"
+          },
+          "coords": [
+            13.4165,
+            50.4618
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die frühe Gotik, eines der ältesten Gebäude der Stadt.",
+            "hu": "Csodálja meg a korai gótikus építészetet, a város egyik legrégebbi épületét.",
+            "ro": "Admirați arhitectura gotică timpurie, una dintre cele mai vechi clădiri din oraș.",
+            "en": "Admire the early Gothic architecture, one of the oldest buildings in town."
+          }
+        },
+        {
+          "name": {
+            "de": "Jesuitenkolleg Regionalmuseum",
+            "hu": "Jezsuita Kollégium Regionális Múzeum",
+            "ro": "Colegiul Iezuit - Muzeul Regional",
+            "en": "Jesuit College Regional Museum"
+          },
+          "coords": [
+            13.4191,
+            50.4615
+          ],
+          "category": "museums",
+          "arrive_at": "11:19",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein, um die umfangreichen historischen und Kunstsammlungen zu erkunden.",
+            "hu": "Szánjon elég időt a kiterjedt történelmi és művészeti gyűjtemények felfedezésére.",
+            "ro": "Planificați suficient timp pentru a explora colecțiile istorice și de artă vaste.",
+            "en": "Plan enough time to explore the extensive historical and art collections."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebéd a városközpontban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city center"
+          },
+          "coords": [
+            13.4185,
+            50.4609
+          ],
+          "category": "gastro",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie die traditionelle tschechische Küche in einem der lokalen Restaurants.",
+            "hu": "Kóstolja meg a hagyományos cseh konyhát a helyi éttermek egyikében.",
+            "ro": "Încercați bucătăria tradițională cehă la unul dintre restaurantele locale.",
+            "en": "Try some traditional Czech cuisine at one of the local restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Kamencové jezero (Alaunsee)",
+            "hu": "Kamencové tó (Timso-tó)",
+            "ro": "Lacul Kamencové (Lacul de alaun)",
+            "en": "Kamencové jezero (Alum Lake)"
+          },
+          "coords": [
+            13.4355,
+            50.468
+          ],
+          "category": "natural features",
+          "arrive_at": "14:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein einzigartiger See, dessen Wasser heilende Eigenschaften haben soll. Perfekt für einen entspannten Nachmittag.",
+            "hu": "Egyedülálló tó, melynek vize állítólag gyógyhatású. Tökéletes egy pihentető délutánra.",
+            "ro": "Un lac unic a cărui apă se spune că are proprietăți vindecătoare. Perfect pentru o după-amiază relaxantă.",
+            "en": "A unique lake whose water is said to have healing properties. Perfect for a relaxing afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoopark Chomutov",
+            "hu": "Chomutovi Zoopark",
+            "ro": "Zoopark Chomutov",
+            "en": "Zoopark Chomutov"
+          },
+          "coords": [
+            13.441,
+            50.4715
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:32",
+          "stay_min": 90,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bekannt für seine paläarktische Tierwelt. Der Safari-Express ist ein Muss.",
+            "hu": "A palearktikus állatvilágról ismert. A Safari Expresszt ne hagyja ki!",
+            "ro": "Cunoscut pentru fauna sa palearctică. Safari Express este o atracție de neratat.",
+            "en": "Known for its Palearctic wildlife. The Safari Express is a must-try."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am historischen Hauptplatz, umgeben von architektonischen Juwelen. Erklimmen Sie den Stadtturm für eine Panoramaaussicht, bevor Sie die gotische St.-Katharinen-Kirche und das aufschlussreiche Jesuitenkolleg-Museum besuchen. Am Nachmittag spazieren Sie zum einzigartigen Alaunsee, einem perfekten Ort zur Entspannung. Schließen Sie den Tag im weitläufigen Zoopark ab, der für seine Konzentration auf eurasische Tierarten bekannt ist.",
+        "hu": "A nap a történelmi főtéren indul, építészeti gyöngyszemekkel körülvéve. Másszon fel a Várostoronyba a panorámáért, majd látogasson el a gótikus Szent Katalin-templomhoz és a tanulságos Jezsuita Kollégium múzeumához. Délután sétáljon el az egyedülálló Timso-tóhoz, amely tökéletes hely a kikapcsolódásra. A napot a tágas Zooparkban zárja, amely az eurázsiai fajokra specializálódott.",
+        "ro": "Ziua începe în piața principală istorică, înconjurată de bijuterii arhitecturale. Urcați în Turnul Orașului pentru o vedere panoramică, apoi vizitați gotica Biserică Sf. Ecaterina și revelatorul Muzeu al Colegiului Iezuit. După-amiaza, plimbați-vă până la unicul Lac de alaun, un loc perfect pentru relaxare. Încheiați ziua la Zoopark-ul extins, renumit pentru concentrarea sa pe speciile eurasiatice.",
+        "en": "Your day starts in the historic main square, surrounded by architectural gems. Ascend the City Tower for a panoramic view before visiting the Gothic St. Catherine's Church and the insightful Jesuit College museum. In the afternoon, stroll to the unique Alum Lake, a perfect spot for relaxation. Conclude your day at the expansive Zoopark, renowned for its focus on Eurasian species."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Rinderbraten in Sahnesauce mit Knödeln, ein tschechischer Klassiker."
+          },
+          {
+            "name": "Pivnice U Buldoka",
+            "tip": "Ein traditionelles Pub mit gutem Bier und herzhafter lokaler Küche."
+          },
+          {
+            "name": "Republika Restaurant",
+            "tip": "Moderne Interpretation tschechischer Gerichte in einem stilvollen Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Vadasmarha tejszínes mártással és knédlivel, egy cseh klasszikus."
+          },
+          {
+            "name": "Pivnice U Buldoka",
+            "tip": "Hagyományos söröző jó sörrel és kiadós helyi ételekkel."
+          },
+          {
+            "name": "Republika Étterem",
+            "tip": "Cseh ételek modern értelmezése stílusos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Friptură de vită în sos de smântână cu găluște, un clasic ceh."
+          },
+          {
+            "name": "Pivnice U Buldoka",
+            "tip": "O berărie tradițională cu bere bună și mâncare locală consistentă."
+          },
+          {
+            "name": "Restaurant Republika",
+            "tip": "Interpretare modernă a mâncărurilor cehe într-un cadru elegant."
+          }
+        ],
+        "en": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Beef sirloin in cream sauce with dumplings, a Czech classic."
+          },
+          {
+            "name": "Pivnice U Buldoka",
+            "tip": "A traditional pub with good beer and hearty local food."
+          },
+          {
+            "name": "Republika Restaurant",
+            "tip": "Modern interpretation of Czech dishes in a stylish setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Alaunsees",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die einzigartige Atmosphäre des Sees.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bezruč-Tal",
+            "tip": "Ein längerer Spaziergang, aber das Tal bietet unberührte Natur und Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Garten des Jesuitenkollegs",
+            "tip": "Ein kleiner, friedlicher Innenhof, ideal für eine kurze Pause.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Timso-tó partja",
+            "tip": "Keressen egy csendes padot, és élvezze a tó egyedülálló hangulatát.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bezruč-völgy",
+            "tip": "Hosszabb séta, de a völgy érintetlen természetet és nyugalmat kínál.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Jezsuita Kollégium kertje",
+            "tip": "Egy kicsi, békés belső udvar, ideális egy rövid szünetre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Lacului de alaun",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de atmosfera unică a lacului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Valea Bezruč",
+            "tip": "O plimbare mai lungă, dar valea oferă natură neatinsă și liniște.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grădina Colegiului Iezuit",
+            "tip": "O curte interioară mică și pașnică, ideală pentru o scurtă pauză.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shore of Alum Lake",
+            "tip": "Find a quiet bench and enjoy the unique atmosphere of the lake.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bezruč Valley",
+            "tip": "A longer walk, but the valley offers untouched nature and tranquility.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Jesuit College Garden",
+            "tip": "A small, peaceful courtyard, ideal for a short break.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Märkte",
+            "tip": "Halten Sie Ausschau nach saisonalen Märkten für lokale Produkte und Handwerk."
+          },
+          {
+            "name": "Souvenirläden in der Altstadt",
+            "tip": "Finden Sie Andenken wie böhmisches Glas oder lokale Spirituosen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piacok",
+            "tip": "Keresse a szezonális piacokat helyi termékekért és kézműves árukért."
+          },
+          {
+            "name": "Ajándékboltok az Óvárosban",
+            "tip": "Találjon emléktárgyakat, mint például cseh kristályt vagy helyi pálinkát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe locale",
+            "tip": "Căutați piețele sezoniere pentru produse locale și artizanat."
+          },
+          {
+            "name": "Magazine de suveniruri din Orașul Vechi",
+            "tip": "Găsiți suveniruri precum cristal de Boemia sau băuturi spirtoase locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Markets",
+            "tip": "Look for seasonal markets for local produce and crafts."
+          },
+          {
+            "name": "Old Town Souvenir Shops",
+            "tip": "Find keepsakes like Bohemian glass or local spirits."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Prüfen Sie die Öffnungszeiten des Zoos, besonders außerhalb der Saison.",
+          "Der Alaunsee ist im Sommer ein beliebter Badeort.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind leicht zu Fuß erreichbar."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Ellenőrizze az állatkert nyitvatartási idejét, különösen szezonon kívül.",
+          "A Timso-tó nyáron népszerű fürdőhely.",
+          "A legtöbb belvárosi látnivaló könnyen elérhető gyalog."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Verificați programul de funcționare al grădinii zoologice, mai ales în afara sezonului.",
+          "Lacul de alaun este un loc popular pentru înot în timpul verii.",
+          "Majoritatea atracțiilor din centrul orașului sunt ușor accesibile pe jos."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Check the zoo's opening hours, especially outside the main season.",
+          "The Alum Lake is a popular swimming spot in the summer.",
+          "Most city center attractions are within easy walking distance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bezruč-Tal (Startpunkt)",
+            "hu": "Bezruč-völgy (kiindulópont)",
+            "ro": "Valea Bezruč (punct de plecare)",
+            "en": "Bezruč Valley (starting point)"
+          },
+          "coords": [
+            13.401,
+            50.4795
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie mit einer erfrischenden Fahrt durch dieses wunderschöne Tal.",
+            "hu": "Kezdje a napot egy frissítő tekeréssel ebben a gyönyörű völgyben.",
+            "ro": "Începeți cu o plimbare revigorantă prin această vale frumoasă.",
+            "en": "Start with a refreshing ride through this beautiful valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoopark Chomutov",
+            "hu": "Chomutovi Zoopark",
+            "ro": "Zoopark Chomutov",
+            "en": "Zoopark Chomutov"
+          },
+          "coords": [
+            13.441,
+            50.4715
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:34",
+          "stay_min": 120,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und verbringen Sie einige Zeit damit, die Tiere zu beobachten.",
+            "hu": "Parkolja le a kerékpárt, és töltsön el egy kis időt az állatok megfigyelésével.",
+            "ro": "Parcați bicicleta și petreceți timp observând animalele.",
+            "en": "Park your bike and spend some quality time observing the animals."
+          }
+        },
+        {
+          "name": {
+            "de": "Kamencové jezero (Alaunsee)",
+            "hu": "Kamencové tó (Timso-tó)",
+            "ro": "Lacul Kamencové (Lacul de alaun)",
+            "en": "Kamencové jezero (Alum Lake)"
+          },
+          "coords": [
+            13.4355,
+            50.468
+          ],
+          "category": "natural features",
+          "arrive_at": "12:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause am See. Im Sommer können Sie sogar schwimmen gehen.",
+            "hu": "Tartson egy szünetet a tónál. Nyáron akár úszhat is egyet.",
+            "ro": "Faceți o pauză la lac. Puteți chiar să înotați în timpul verii.",
+            "en": "Take a break by the lake. You can even go for a swim in summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Sees",
+            "hu": "Ebéd a tó közelében",
+            "ro": "Prânz lângă lac",
+            "en": "Lunch near the lake"
+          },
+          "coords": [
+            13.434,
+            50.467
+          ],
+          "category": "gastro",
+          "arrive_at": "14:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Es gibt mehrere Restaurants mit Terrassen, die einen schönen Blick auf den See bieten.",
+            "hu": "Több teraszos étterem is található itt, gyönyörű kilátással a tóra.",
+            "ro": "Există mai multe restaurante cu terase care oferă o priveliște frumoasă la lac.",
+            "en": "There are several restaurants with terraces offering a nice view of the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Jesuitenkolleg Regionalmuseum",
+            "hu": "Jezsuita Kollégium Regionális Múzeum",
+            "ro": "Colegiul Iezuit - Muzeul Regional",
+            "en": "Jesuit College Regional Museum"
+          },
+          "coords": [
+            13.4191,
+            50.4615
+          ],
+          "category": "museums",
+          "arrive_at": "15:41",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Geschichte der Region ein. Fahrradständer sind in der Nähe vorhanden.",
+            "hu": "Merüljön el a régió történelmében. Kerékpártárolók a közelben rendelkezésre állnak.",
+            "ro": "Scufundați-vă în istoria regiunii. Suporturi pentru biciclete sunt disponibile în apropiere.",
+            "en": "Dive into the history of the region. Bike racks are available nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Stadtturm",
+            "hu": "Városháza és Várostorony",
+            "ro": "Primăria și Turnul Orașului",
+            "en": "Town Hall & City Tower"
+          },
+          "coords": [
+            13.4178,
+            50.461
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "17:17",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour auf dem Hauptplatz und bewundern Sie die Architektur.",
+            "hu": "Fejezze be a kerékpártúrát a főtéren, és csodálja meg az építészetet.",
+            "ro": "Încheiați turul cu bicicleta în piața principală, admirând arhitectura.",
+            "en": "Finish your bike tour in the main square, admiring the architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Katharinen-Kirche",
+            "hu": "Szent Katalin-templom",
+            "ro": "Biserica Sfânta Ecaterina",
+            "en": "St. Catherine's Church"
+          },
+          "coords": [
+            13.4165,
+            50.4618
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:53",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein letzter Halt an diesem gotischen Juwel, um den Tag abzuschließen.",
+            "hu": "Egy utolsó megálló ennél a gótikus gyöngyszemnél a nap lezárásaként.",
+            "ro": "O ultimă oprire la această bijuterie gotică pentru a încheia ziua.",
+            "en": "A final stop at this Gothic gem to round off the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour im grünen Bezruč-Tal. Von dort aus radeln Sie zum weitläufigen Zoopark Chomutov und machen dann eine Pause am einzigartigen Alaunsee. Nach dem Mittagessen in Seenähe fahren Sie ins Stadtzentrum, um das Jesuitenkolleg-Museum zu besuchen. Der Tag endet mit einer Erkundung des historischen Herzens der Stadt rund um das Rathaus und die St.-Katharinen-Kirche.",
+        "hu": "Kezdje a kerékpártúrát a zöldellő Bezruč-völgyben. Onnan tekerjen el a tágas chomutovi állatkertbe, majd tartson szünetet az egyedülálló Timso-tónál. A tóparti ebéd után irány a városközpont, ahol meglátogatja a Jezsuita Kollégium Múzeumát. A nap a város történelmi szívének felfedezésével zárul a Városháza és a Szent Katalin-templom környékén.",
+        "ro": "Începeți turul cu bicicleta în înverzita Vale Bezruč. De acolo, pedalați spre extinsul Zoopark Chomutov, apoi faceți o pauză la unicul Lac de alaun. După prânzul de lângă lac, mergeți în centrul orașului pentru a vizita Muzeul Colegiului Iezuit. Ziua se încheie cu o explorare a inimii istorice a orașului, în jurul Primăriei și a Bisericii Sf. Ecaterina.",
+        "en": "Start your bike tour in the green Bezruč Valley. From there, cycle to the expansive Zoopark Chomutov, then take a break at the unique Alum Lake. After lunch near the lake, head to the city center to visit the Jesuit College Museum. The day concludes with an exploration of the city's historic heart around the Town Hall and St. Catherine's Church."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Trdelník",
+            "tip": "Ein süßes Gebäck, perfekt für einen Energieschub."
+          },
+          {
+            "name": "Restaurace u Jezera",
+            "tip": "Genießen Sie eine Mahlzeit mit Blick auf den Alaunsee."
+          },
+          {
+            "name": "Lokales Bier (Pivo)",
+            "tip": "Belohnen Sie sich nach der Fahrt mit einem kalten tschechischen Bier."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kürtőskalács (Trdelník)",
+            "tip": "Édes sütemény, tökéletes energiafröccs."
+          },
+          {
+            "name": "Restaurace u Jezera",
+            "tip": "Élvezzen egy étkezést a Timso-tóra néző kilátással."
+          },
+          {
+            "name": "Helyi sör (Pivo)",
+            "tip": "Jutalmazza meg magát egy hideg cseh sörrel a tekerés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trdelník",
+            "tip": "Un produs de patiserie dulce, perfect pentru un plus de energie."
+          },
+          {
+            "name": "Restaurace u Jezera",
+            "tip": "Bucurați-vă de o masă cu vedere la Lacul de alaun."
+          },
+          {
+            "name": "Bere locală (Pivo)",
+            "tip": "Recompensați-vă cu o bere cehă rece după plimbare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trdelník",
+            "tip": "A sweet pastry, perfect for an energy boost."
+          },
+          {
+            "name": "Restaurace u Jezera",
+            "tip": "Enjoy a meal with a view of the Alum Lake."
+          },
+          {
+            "name": "Local Beer (Pivo)",
+            "tip": "Reward yourself with a cold Czech beer after the ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bezruč-Tal",
+            "tip": "Viele ruhige Plätze entlang des Weges, um die Natur zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Abgelegene Ecke im Zoo",
+            "tip": "Finden Sie einen ruhigen Ort abseits der Hauptwege, um die Tiere zu beobachten.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang am See",
+            "tip": "Wenn Sie am späten Nachmittag dort sind, ist der See ein friedlicher Ort.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bezruč-völgy",
+            "tip": "Sok csendes hely az ösvény mentén, ahol élvezheti a természetet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Elhagyatott sarok az állatkertben",
+            "tip": "Keressen egy csendes helyet a fő ösvényektől távol az állatok megfigyelésére.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a tónál",
+            "tip": "Ha késő délután érkezik, a tó békés hely.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Valea Bezruč",
+            "tip": "Multe locuri liniștite de-a lungul potecii pentru a vă bucura de natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Colț retras la Zoo",
+            "tip": "Găsiți un loc liniștit departe de aleile principale pentru a observa animalele.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus de soare la lac",
+            "tip": "Dacă ajungeți după-amiaza târziu, lacul este un loc pașnic.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bezruč Valley",
+            "tip": "Many quiet spots along the path to enjoy nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Secluded corner at the Zoo",
+            "tip": "Find a quiet spot away from the main paths to watch the animals.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset by the lake",
+            "tip": "If you are there in the late afternoon, the lake is a peaceful spot.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Für alle Last-Minute-Bedürfnisse oder lokale Radsport-Trikots."
+          },
+          {
+            "name": "Zooshop",
+            "tip": "Kaufen Sie ein Souvenir, um Ihren Besuch im berühmten Zoo zu erinnern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Minden utolsó pillanatban felmerülő igényre vagy helyi kerékpáros mezekre."
+          },
+          {
+            "name": "Állatkerti bolt",
+            "tip": "Vásároljon emléktárgyat a híres állatkerti látogatás emlékére."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Pentru orice nevoi de ultim moment sau tricouri locale de ciclism."
+          },
+          {
+            "name": "Magazinul Zoo",
+            "tip": "Cumpărați un suvenir pentru a vă aminti de vizita la faimoasa grădină zoologică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "For any last-minute needs or local cycling jerseys."
+          },
+          {
+            "name": "Zoo Shop",
+            "tip": "Buy a souvenir to remember your visit to the famous zoo."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad, bevor Sie losfahren, insbesondere die Bremsen und Reifen.",
+          "Nehmen Sie viel Wasser mit, besonders für die Fahrt ins Bezruč-Tal.",
+          "Die Wege sind im Allgemeinen gut, aber seien Sie auf einige Hügel vorbereitet.",
+          "Schließen Sie Ihr Fahrrad an beliebten Orten wie dem Zoo und dem Stadtzentrum immer gut ab."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket és a gumikat.",
+          "Vigyen magával sok vizet, különösen a Bezruč-völgyi útra.",
+          "Az utak általában jók, de készüljön fel néhány emelkedőre.",
+          "Mindig zárja le jól a kerékpárt a népszerű helyeken, mint az állatkert és a belváros."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele și anvelopele.",
+          "Luați multă apă, mai ales pentru plimbarea în Valea Bezruč.",
+          "Traseele sunt în general bune, dar fiți pregătiți pentru câteva dealuri.",
+          "Asigurați-vă întotdeauna bicicleta în mod corespunzător în locuri aglomerate precum grădina zoologică și centrul orașului."
+        ],
+        "en": [
+          "Check your bike before you leave, especially brakes and tires.",
+          "Bring plenty of water, especially for the ride into Bezruč Valley.",
+          "The paths are generally good, but be prepared for some hills.",
+          "Always lock your bike securely in popular spots like the zoo and city center."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 11.1,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum & Rathaus",
+            "hu": "Parkoló a központban és Városháza",
+            "ro": "Parcare Centru & Primărie",
+            "en": "City Center Parking & Town Hall"
+          },
+          "coords": [
+            13.4188,
+            50.46
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Vormittag. Der erste Halt ist der Hauptplatz.",
+            "hu": "Parkoljon le itt a délelőttre. Az első megálló a főtér.",
+            "ro": "Parcați aici pentru dimineață. Prima oprire este piața principală.",
+            "en": "Park here for the morning. The first stop is the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtturm & Dreifaltigkeitssäule",
+            "hu": "Várostorony és Szentháromság-oszlop",
+            "ro": "Turnul Orașului & Coloana Sfintei Treimi",
+            "en": "City Tower & Holy Trinity Column"
+          },
+          "coords": [
+            13.4175,
+            50.4612
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Rathaus. Die Aussicht von oben ist es wert.",
+            "hu": "Rövid séta a Városházától. A kilátás a toronyból megéri.",
+            "ro": "O scurtă plimbare de la primărie. Priveliștea de sus merită.",
+            "en": "A short walk from the town hall. The view from the top is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Katharinen-Kirche & Jesuitenkolleg",
+            "hu": "Szent Katalin-templom és Jezsuita Kollégium",
+            "ro": "Biserica Sf. Ecaterina & Colegiul Iezuit",
+            "en": "St. Catherine's Church & Jesuit College"
+          },
+          "coords": [
+            13.4178,
+            50.4616
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:18",
+          "stay_min": 120,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besuchen Sie die Kirche und das Museum zusammen, da sie nahe beieinander liegen.",
+            "hu": "Látogassa meg a templomot és a múzeumot együtt, mivel közel vannak egymáshoz.",
+            "ro": "Vizitați biserica și muzeul împreună, deoarece sunt apropiate.",
+            "en": "Visit the church and the museum together as they are close to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoopark Chomutov",
+            "hu": "Chomutovi Zoopark",
+            "ro": "Zoopark Chomutov",
+            "en": "Zoopark Chomutov"
+          },
+          "coords": [
+            13.441,
+            50.4715
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:34",
+          "stay_min": 120,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Zoo. Es gibt einen großen Parkplatz. Planen Sie Zeit für das Mittagessen hier ein.",
+            "hu": "Vezessen az állatkerthez. Nagy parkoló áll rendelkezésre. Tervezzen itt ebédszünetet.",
+            "ro": "Conduceți la grădina zoologică. Există o parcare mare. Planificați timp pentru prânz aici.",
+            "en": "Drive to the zoo. There is a large parking lot. Plan for lunch time here."
+          }
+        },
+        {
+          "name": {
+            "de": "Kamencové jezero (Alaunsee)",
+            "hu": "Kamencové tó (Timso-tó)",
+            "ro": "Lacul Kamencové (Lacul de alaun)",
+            "en": "Kamencové jezero (Alum Lake)"
+          },
+          "coords": [
+            13.4355,
+            50.468
+          ],
+          "category": "natural features",
+          "arrive_at": "14:38",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Zoo zum See für eine entspannende Pause.",
+            "hu": "Rövid séta az állatkerttől a tóig egy pihentető szünetért.",
+            "ro": "O scurtă plimbare de la zoo la lac pentru o pauză relaxantă.",
+            "en": "A short walk from the zoo to the lake for a relaxing break."
+          }
+        },
+        {
+          "name": {
+            "de": "Bezruč-Tal",
+            "hu": "Bezruč-völgy",
+            "ro": "Valea Bezruč",
+            "en": "Bezruč Valley"
+          },
+          "coords": [
+            13.401,
+            50.4795
+          ],
+          "category": "natural features",
+          "arrive_at": "15:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Tal für einen Spaziergang am späten Nachmittag in der Natur.",
+            "hu": "Vezessen a völgybe egy késő délutáni természetjárásra.",
+            "ro": "Conduceți spre vale pentru o plimbare în natură după-amiaza târziu.",
+            "en": "Drive to the valley for a late afternoon walk in nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt im Tal",
+            "hu": "Kilátópont a völgyben",
+            "ro": "Punct de belvedere în vale",
+            "en": "Viewpoint in the valley"
+          },
+          "coords": [
+            13.4,
+            50.481
+          ],
+          "category": "natural features",
+          "arrive_at": "17:11",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Finden Sie einen schönen Aussichtspunkt, um die Landschaft zu bewundern.",
+            "hu": "Keressen egy szép kilátópontot a táj megcsodálására.",
+            "ro": "Găsiți un punct de belvedere frumos pentru a admira peisajul.",
+            "en": "Find a nice viewpoint to admire the landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Stadtzentrum",
+            "hu": "Visszatérés a városközpontba",
+            "ro": "Întoarcere în centrul orașului",
+            "en": "Return to city center"
+          },
+          "coords": [
+            13.4177,
+            50.4605
+          ],
+          "category": "gastro",
+          "arrive_at": "17:45",
+          "stay_min": 0,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zurück in die Stadt für das Abendessen oder die Abreise.",
+            "hu": "Vezessen vissza a városba vacsorázni vagy elutazni.",
+            "ro": "Conduceți înapoi în oraș pentru cină sau plecare.",
+            "en": "Drive back to the city for dinner or departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag, indem Sie im Stadtzentrum parken und den historischen Kern zu Fuß erkunden: Rathaus, Stadtturm und die Kirchengegend. Nach diesem kulturellen Spaziergang fahren Sie zum zweiten Cluster: dem Zoopark Chomutov. Verbringen Sie dort eine ausgiebige Zeit, essen Sie zu Mittag und spazieren Sie zum nahegelegenen Alaunsee. Der letzte Teil des Tages führt Sie mit dem Auto ins ruhige Bezruč-Tal für einen entspannenden Naturspaziergang, bevor Sie in die Stadt zurückkehren.",
+        "hu": "Kezdje a napot a központban parkolva, és fedezze fel gyalog a történelmi magot: Városháza, Várostorony és a templomnegyed. A kulturális séta után vezessen a második fürthöz: a chomutovi állatkerthez. Töltsön el ott bőséges időt, ebédeljen, és sétáljon át a közeli Timso-tóhoz. A nap utolsó szakasza autóval a csendes Bezruč-völgybe vezet egy pihentető természetjárásra, mielőtt visszatérne a városba.",
+        "ro": "Începeți ziua parcând în centrul orașului și explorând nucleul istoric pe jos: Primăria, Turnul Orașului și zona bisericii. După această plimbare culturală, conduceți la al doilea cluster: Zoopark Chomutov. Petreceți timp suficient acolo, luați prânzul și plimbați-vă până la Lacul de alaun din apropiere. Ultima parte a zilei vă duce cu mașina în liniștita Vale Bezruč pentru o plimbare relaxantă în natură înainte de a vă întoarce în oraș.",
+        "en": "Start your day by parking in the city center and exploring the historic core on foot: the Town Hall, City Tower, and the church area. After this cultural walk, drive to the second cluster: Zoopark Chomutov. Spend ample time there, have lunch, and stroll over to the nearby Alum Lake. The last leg of the day takes you by car to the quiet Bezruč Valley for a relaxing nature walk before returning to the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Guláš",
+            "tip": "Ein herzhafter Gulasch ist perfekt nach einem langen Tag voller Erkundungen."
+          },
+          {
+            "name": "Hotel a restaurace Sudety",
+            "tip": "Bietet eine Mischung aus tschechischer und internationaler Küche."
+          },
+          {
+            "name": "Klobása",
+            "tip": "Probieren Sie eine gegrillte Wurst von einem Imbissstand für einen schnellen Bissen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Guláš",
+            "tip": "Egy kiadós gulyás tökéletes egy hosszú felfedező nap után."
+          },
+          {
+            "name": "Hotel a restaurace Sudety",
+            "tip": "Cseh és nemzetközi konyha keverékét kínálja."
+          },
+          {
+            "name": "Klobása",
+            "tip": "Kóstoljon meg egy grillezett kolbászt egy bódéban egy gyors falatért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Guláš",
+            "tip": "Un gulaș consistent este perfect după o zi lungă de explorare."
+          },
+          {
+            "name": "Hotel a restaurace Sudety",
+            "tip": "Oferă un amestec de bucătărie cehă și internațională."
+          },
+          {
+            "name": "Klobása",
+            "tip": "Încercați un cârnat la grătar de la o tarabă pentru o gustare rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Guláš",
+            "tip": "A hearty goulash is perfect after a long day of exploring."
+          },
+          {
+            "name": "Hotel a restaurace Sudety",
+            "tip": "Offers a mix of Czech and international cuisine."
+          },
+          {
+            "name": "Klobása",
+            "tip": "Try a grilled sausage from a food stand for a quick bite."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang im Bezruč-Tal",
+            "tip": "Der beste Ort in der Gegend, um dem Trubel zu entfliehen.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Morgenstunden in der Altstadt",
+            "tip": "Erleben Sie die Plätze, bevor die Menschenmassen ankommen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ein ruhiger Platz am See",
+            "tip": "Entspannen Sie am Ufer des Alaunsees abseits der Hauptbadebereiche.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Bezruč-völgyben",
+            "tip": "A legjobb hely a környéken, hogy elmeneküljön a nyüzsgés elől.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Reggeli órák az Óvárosban",
+            "tip": "Tapasztalja meg a tereket, mielőtt a tömeg megérkezik.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Csendes hely a tónál",
+            "tip": "Pihenjen a Timso-tó partján, távol a fő fürdőhelyektől.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare în Valea Bezruč",
+            "tip": "Cel mai bun loc din zonă pentru a scăpa de agitație.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Orele dimineții în Orașul Vechi",
+            "tip": "Experimentați piețele înainte de sosirea mulțimilor.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Loc liniștit lângă lac",
+            "tip": "Relaxați-vă pe malul Lacului de alaun, departe de zonele principale de înot.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk in Bezruč Valley",
+            "tip": "The best place in the area to escape the hustle and bustle.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Morning hours in the Old Town",
+            "tip": "Experience the squares before the crowds arrive.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A quiet spot by the lake",
+            "tip": "Relax on the shore of Alum Lake away from the main swimming areas.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Farmermärkte am Stadtrand",
+            "tip": "Mit dem Auto leicht erreichbar, um frische lokale Produkte zu kaufen."
+          },
+          {
+            "name": "Becherovka",
+            "tip": "Ein berühmter tschechischer Kräuterlikör, ein tolles Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői piacok a város szélén",
+            "tip": "Autóval könnyen megközelíthető, friss helyi termékekért."
+          },
+          {
+            "name": "Becherovka",
+            "tip": "Híres cseh gyógynövénylikőr, nagyszerű ajándék."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe agricole la periferia orașului",
+            "tip": "Ușor accesibile cu mașina pentru a cumpăra produse locale proaspete."
+          },
+          {
+            "name": "Becherovka",
+            "tip": "Un celebru lichior de plante ceh, un suvenir grozav."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farmer's markets on the outskirts",
+            "tip": "Easily accessible by car to buy fresh local produce."
+          },
+          {
+            "name": "Becherovka",
+            "tip": "A famous Czech herbal liqueur, a great souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkgebühren im Stadtzentrum können variieren, suchen Sie nach Tagespauschalen.",
+          "Der Verkehr ist im Allgemeinen gering, aber planen Sie zusätzliche Zeit während der Stoßzeiten ein.",
+          "Überprüfen Sie die Parkmöglichkeiten an jeder Hauptattraktion im Voraus.",
+          "Ein GPS ist sehr zu empfehlen, um zwischen den verschiedenen Clustern zu navigieren."
+        ],
+        "hu": [
+          "A parkolási díjak a központban változhatnak, keressen napidíjas lehetőségeket.",
+          "A forgalom általában gyenge, de csúcsidőben tervezzen plusz időt.",
+          "Előre ellenőrizze a parkolási lehetőségeket minden fő látnivalónál.",
+          "GPS használata erősen ajánlott a különböző fürtrészek közötti navigációhoz."
+        ],
+        "ro": [
+          "Taxele de parcare în centrul orașului pot varia, căutați tarife zilnice.",
+          "Traficul este în general redus, dar planificați timp suplimentar în timpul orelor de vârf.",
+          "Verificați în avans opțiunile de parcare la fiecare atracție principală.",
+          "Un GPS este foarte recomandat pentru a naviga între diferitele clustere."
+        ],
+        "en": [
+          "Parking fees in the city center can vary, look for daily rates.",
+          "Traffic is generally light, but plan for extra time during peak hours.",
+          "Check parking options at each main attraction in advance.",
+          "A GPS is highly recommended for navigating between the different clusters."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 8.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptbahnhof & Fahrt zum Zentrum",
+            "hu": "Főpályaudvar és utazás a központba",
+            "ro": "Gara Centrală & Călătorie spre centru",
+            "en": "Main Station & Ride to Center"
+          },
+          "coords": [
+            13.418,
+            50.4608
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Bahnhof zum Platz der 1. Mai (náměstí 1. máje).",
+            "hu": "Menjen busszal az állomásról az 1. május térre (náměstí 1. máje).",
+            "ro": "Luați un autobuz de la gară spre Piața 1 Mai (náměstí 1. máje).",
+            "en": "Take a bus from the station to the 1st of May Square (náměstí 1. máje)."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Stadtturm",
+            "hu": "Városháza és Várostorony",
+            "ro": "Primăria și Turnul Orașului",
+            "en": "Town Hall & City Tower"
+          },
+          "coords": [
+            13.4175,
+            50.4612
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:39",
+          "stay_min": 50,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den Platz und besteigen Sie den Turm für eine tolle Aussicht.",
+            "hu": "Fedezze fel a teret, és másszon fel a toronyba a nagyszerű kilátásért.",
+            "ro": "Explorați piața și urcați în turn pentru o priveliște minunată.",
+            "en": "Explore the square and climb the tower for a great view."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Katharinen-Kirche & Jesuitenkolleg",
+            "hu": "Szent Katalin-templom és Jezsuita Kollégium",
+            "ro": "Biserica Sf. Ecaterina & Colegiul Iezuit",
+            "en": "St. Catherine's Church & Jesuit College"
+          },
+          "coords": [
+            13.4185,
+            50.4615
+          ],
+          "category": "museums",
+          "arrive_at": "10:33",
+          "stay_min": 120,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden wichtigen Sehenswürdigkeiten liegen nur einen kurzen Spaziergang voneinander entfernt.",
+            "hu": "Ez a két fontos látnivaló csak egy rövid sétatávolságra van egymástól.",
+            "ro": "Aceste două atracții majore sunt la o scurtă plimbare una de cealaltă.",
+            "en": "These two major sights are just a short walk from each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Fahrt zum See",
+            "hu": "Ebéd és utazás a tóhoz",
+            "ro": "Prânz și călătorie spre lac",
+            "en": "Lunch and ride to the lake"
+          },
+          "coords": [
+            13.4355,
+            50.468
+          ],
+          "category": "natural features",
+          "arrive_at": "13:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 92,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Essen Sie im Zentrum zu Mittag und nehmen Sie dann einen Bus zum Alaunsee.",
+            "hu": "Ebédeljen a központban, majd szálljon buszra a Timso-tóhoz.",
+            "ro": "Luați prânzul în centru, apoi luați un autobuz spre Lacul de alaun.",
+            "en": "Have lunch in the center, then take a bus to the Alum Lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoopark Chomutov",
+            "hu": "Chomutovi Zoopark",
+            "ro": "Zoopark Chomutov",
+            "en": "Zoopark Chomutov"
+          },
+          "coords": [
+            13.441,
+            50.4715
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:08",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom See aus ist es ein angenehmer Spaziergang zum Zoo.",
+            "hu": "A tótól kellemes séta vezet az állatkerthez.",
+            "ro": "De la lac, este o plimbare plăcută până la grădina zoologică.",
+            "en": "It's a pleasant walk from the lake to the zoo."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Bezruč-Tal",
+            "hu": "Utazás a Bezruč-völgybe",
+            "ro": "Călătorie spre Valea Bezruč",
+            "en": "Ride to Bezruč Valley"
+          },
+          "coords": [
+            13.401,
+            50.4795
+          ],
+          "category": "natural features",
+          "arrive_at": "17:34",
+          "stay_min": 45,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Zoo zum Rand des Bezruč-Tals für einen kurzen Abendspaziergang.",
+            "hu": "Menjen busszal az állatkerttől a Bezruč-völgy szélére egy rövid esti sétára.",
+            "ro": "Luați un autobuz de la zoo la marginea Văii Bezruč pentru o scurtă plimbare de seară.",
+            "en": "Take a bus from the zoo to the edge of Bezruč Valley for a short evening walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den öffentlichen Nahverkehr, um Chomutov zu erkunden. Beginnen Sie im Stadtzentrum, das Sie mit dem Bus vom Bahnhof aus erreichen. Erkunden Sie den historischen Kern zu Fuß. Nach dem Mittagessen bringt Sie ein Bus zum zweiten Cluster: dem Alaunsee und dem nahegelegenen Zoopark. Ein kurzer Spaziergang verbindet diese beiden Attraktionen. Schließlich bringt Sie ein letzter Bus in die Nähe des Bezruč-Tals, um den Tag mit einem Hauch von Natur abzuschließen.",
+        "hu": "Használja a tömegközlekedést Chomutov felfedezéséhez. Kezdje a városközpontban, amelyet busszal érhet el a pályaudvarról; fedezze fel gyalog a történelmi magot. Ebéd után egy busz elviszi a második fürthöz: a Timso-tóhoz és a közeli állatkerthez, amelyeket egy rövid séta köt össze. Végül egy utolsó buszút a Bezruč-völgy közelébe visz, hogy a napot egy kis természettel zárja.",
+        "ro": "Folosiți transportul public pentru a explora Chomutov. Începeți în centrul orașului, ajungând cu autobuzul de la gară; explorați nucleul istoric pe jos. După prânz, un autobuz vă va duce la al doilea cluster: Lacul de alaun și Zoopark-ul din apropiere, conectate printr-o scurtă plimbare. În cele din urmă, o ultimă călătorie cu autobuzul vă va aduce lângă Valea Bezruč pentru a încheia ziua cu o notă de natură.",
+        "en": "Use public transit to explore Chomutov. Start in the city center, reaching it by bus from the train station; explore the historic core on foot. After lunch, a bus will take you to the second cluster: the Alum Lake and the nearby Zoopark, connected by a short walk. Finally, a last bus ride will get you near Bezruč Valley to end the day with a touch of nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smažený sýr",
+            "tip": "Gebratener Käse mit Pommes und Tatarsauce, ein beliebtes tschechisches Gericht."
+          },
+          {
+            "name": "Pivovar Karásek a Stülpner",
+            "tip": "Eine lokale Brauerei mit Restaurant, ideal um lokales Bier und Essen zu probieren."
+          },
+          {
+            "name": "Ovocné knedlíky",
+            "tip": "Süße Knödel gefüllt mit Früchten, ein köstliches Dessert oder Hauptgericht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smažený sýr",
+            "tip": "Rántott sajt hasábburgonyával és tartármártással, népszerű cseh étel."
+          },
+          {
+            "name": "Pivovar Karásek a Stülpner",
+            "tip": "Helyi sörfőzde étteremmel, ideális helyi sör és ételek kóstolásához."
+          },
+          {
+            "name": "Ovocné knedlíky",
+            "tip": "Gyümölccsel töltött édes gombóc, finom desszert vagy főétel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smažený sýr",
+            "tip": "Brânză prăjită cu cartofi prăjiți și sos tartar, un fel de mâncare popular ceh."
+          },
+          {
+            "name": "Pivovar Karásek a Stülpner",
+            "tip": "O fabrică de bere locală cu restaurant, excelentă pentru a gusta berea și mâncarea locală."
+          },
+          {
+            "name": "Ovocné knedlíky",
+            "tip": "Găluște dulci umplute cu fructe, un desert sau fel principal delicios."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smažený sýr",
+            "tip": "Fried cheese with fries and tartar sauce, a popular Czech comfort food."
+          },
+          {
+            "name": "Pivovar Karásek a Stülpner",
+            "tip": "A local brewery with a restaurant, great for tasting local beer and food."
+          },
+          {
+            "name": "Ovocné knedlíky",
+            "tip": "Sweet dumplings filled with fruit, a delicious dessert or main course."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt aus der Stadt",
+            "tip": "Beobachten Sie die vorbeiziehende Landschaft und entspannen Sie sich zwischen den Haltestellen.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Früher Morgen am Platz",
+            "tip": "Der Hauptplatz ist vor 9 Uhr morgens sehr ruhig.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Eine Bank im Zoopark",
+            "tip": "Finden Sie einen ruhigen Platz, um ein bestimmtes Tiergehege zu beobachten.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás a városból kifelé",
+            "tip": "Nézze a tájat, és pihenjen a megállók között.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Kora reggel a téren",
+            "tip": "A főtér reggel 9 előtt nagyon csendes.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Egy pad az állatkertben",
+            "tip": "Keressen egy csendes helyet egy adott állatkifutó megfigyelésére.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătorie cu autobuzul în afara orașului",
+            "tip": "Priviți peisajul trecând și relaxați-vă între opriri.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Dimineața devreme în piață",
+            "tip": "Piața principală este foarte liniștită înainte de ora 9 dimineața.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "O bancă în Zoopark",
+            "tip": "Găsiți un loc liniștit pentru a privi un anumit țarc de animale.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride out of town",
+            "tip": "Watch the scenery go by and relax between stops.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Early morning in the square",
+            "tip": "The main square is very quiet before 9 am.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A bench in the Zoopark",
+            "tip": "Find a quiet spot to watch a specific animal enclosure.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske an Bushaltestellen",
+            "tip": "Kaufen Sie Tickets und vielleicht einen Snack für die Fahrt."
+          },
+          {
+            "name": "Geschäfte rund um den Hauptplatz",
+            "tip": "Leicht zu durchstöbern, während Sie auf Ihren nächsten Bus warten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok a buszmegállókban",
+            "tip": "Vásároljon jegyet és esetleg egy harapnivalót az útra."
+          },
+          {
+            "name": "Boltok a főtér körül",
+            "tip": "Könnyen böngészhet, amíg a következő buszra vár."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri la stațiile de autobuz",
+            "tip": "Cumpărați bilete și poate o gustare pentru călătorie."
+          },
+          {
+            "name": "Magazine în jurul pieței principale",
+            "tip": "Ușor de răsfoit în timp ce așteptați următorul autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks at bus stops",
+            "tip": "Buy tickets and maybe a snack for the ride."
+          },
+          {
+            "name": "Shops around the main square",
+            "tip": "Easy to browse while waiting for your next bus."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr, um Geld zu sparen.",
+          "Laden Sie die Fahrplan-App herunter oder machen Sie Fotos von den Fahrplänen an den Haltestellen.",
+          "Busse sind möglicherweise nicht so häufig an den Wochenenden, planen Sie entsprechend.",
+          "Halten Sie Kleingeld für Tickets bereit, falls Sie diese beim Fahrer kaufen müssen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
+          "Töltse le a menetrendi alkalmazást, vagy fotózza le a menetrendeket a megállókban.",
+          "A buszok hétvégén ritkábban járhatnak, tervezzen ennek megfelelően.",
+          "Tartson magánál aprópénzt a jegyekhez, ha a sofőrtől kell megvennie."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru a economisi bani.",
+          "Descărcați aplicația cu orare sau faceți fotografii ale orarelor de la stații.",
+          "Autobuzele pot fi mai puțin frecvente în weekend, planificați în consecință.",
+          "Păstrați mărunțiș pentru bilete în cazul în care trebuie să le cumpărați de la șofer."
+        ],
+        "en": [
+          "Buy a day pass for public transport to save money.",
+          "Download the timetable app or take photos of the schedules at the stops.",
+          "Buses might be less frequent on weekends, plan accordingly.",
+          "Keep some change for tickets in case you need to buy from the driver."
+        ]
+      }
+    }
+  }
+}

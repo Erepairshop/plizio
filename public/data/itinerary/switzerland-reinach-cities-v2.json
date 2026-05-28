@@ -1,0 +1,1462 @@
+{
+  "city_id": "switzerland-reinach-cities-v2",
+  "anchor": {
+    "name": "Reinach",
+    "coords": [
+      47.493,
+      7.591
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ernst-Feigenwinter-Platz",
+            "hu": "Ernst-Feigenwinter tér",
+            "ro": "Piața Ernst-Feigenwinter",
+            "en": "Ernst-Feigenwinter Square"
+          },
+          "coords": [
+            7.5912,
+            47.4933
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee in einem der lokalen Cafés.",
+            "hu": "Kezdje a napot egy kávéval az egyik helyi kávézóban.",
+            "ro": "Începeți-vă ziua aici cu o cafea la una dintre cafenelele locale.",
+            "en": "Start your day here with a coffee at one of the local cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Nikolaus",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sf. Nicolae",
+            "en": "St. Nicholas Church"
+          },
+          "coords": [
+            7.5905,
+            47.4941
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden Glasfenster aus dem 20. Jahrhundert.",
+            "hu": "Figyelje meg a 20. századi lenyűgöző ólomüveg ablakokat.",
+            "ro": "Observați vitraliile impresionante din secolul al XX-lea.",
+            "en": "Look out for the impressive 20th-century stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum Reinach",
+            "hu": "Reinachi Helytörténeti Múzeum",
+            "ro": "Muzeul Satului Reinach",
+            "en": "Reinach Local History Museum"
+          },
+          "coords": [
+            7.592,
+            47.4925
+          ],
+          "category": "museums",
+          "arrive_at": "10:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum befindet sich in einem alten Bauernhaus und zeigt das ländliche Leben.",
+            "hu": "A múzeum egy régi parasztházban található és a vidéki életet mutatja be.",
+            "ro": "Muzeul este găzduit într-o veche fermă și prezintă viața rurală.",
+            "en": "The museum is housed in an old farmhouse and showcases rural life."
+          }
+        },
+        {
+          "name": {
+            "de": "Bürgerhaus Reinach",
+            "hu": "Reinachi Polgárház",
+            "ro": "Casa Cetățeanului Reinach",
+            "en": "Bürgerhaus Reinach (Community Hall)"
+          },
+          "coords": [
+            7.5935,
+            47.4918
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:54",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie den Veranstaltungskalender; hier finden oft lokale Konzerte statt.",
+            "hu": "Ellenőrizze az eseménynaptárt; gyakran tartanak itt helyi koncerteket.",
+            "ro": "Verificați calendarul de evenimente; aici au loc adesea concerte locale.",
+            "en": "Check the event calendar; local concerts are often held here."
+          }
+        },
+        {
+          "name": {
+            "de": "Birspark",
+            "hu": "Birs-park",
+            "ro": "Parcul Birs",
+            "en": "Birs Park"
+          },
+          "coords": [
+            7.601,
+            47.495
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ideal für ein Mittagspicknick am Flussufer der Birs.",
+            "hu": "Ideális egy ebédpiknikhez a Birs folyó partján.",
+            "ro": "Ideal pentru un picnic la prânz pe malul râului Birs.",
+            "en": "Ideal for a midday picnic on the banks of the river Birs."
+          }
+        },
+        {
+          "name": {
+            "de": "Tierpark Reinach",
+            "hu": "Reinachi Állatkert",
+            "ro": "Grădina Zoologică Reinach",
+            "en": "Reinach Animal Park"
+          },
+          "coords": [
+            7.585,
+            47.485
+          ],
+          "category": "natural features",
+          "arrive_at": "14:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 2.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Eintritt ist frei! Ein schöner Ort, um einheimische Tiere zu sehen.",
+            "hu": "A belépés ingyenes! Remek hely a helyi állatok megtekintésére.",
+            "ro": "Intrarea este gratuită! Un loc minunat pentru a vedea animale native.",
+            "en": "Admission is free! A lovely place to see native animals."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Reinach beginnt auf dem belebten Ernst-Feigenwinter-Platz, dem Herzen der Stadt. Nach der Erkundung der historischen St.-Nikolaus-Kirche tauchen Sie im Heimatmuseum in die lokale Geschichte ein. Am Mittag machen Sie eine Pause im Bürgerhaus, einem Zentrum des Gemeindelebens. Der Nachmittag ist der Natur gewidmet, mit einem entspannten Spaziergang durch den Birspark entlang des Flusses. Der Tag endet mit einem Besuch im charmanten Tierpark Reinach, wo Sie die heimische Tierwelt beobachten können, bevor Sie den Abend ausklingen lassen.",
+        "hu": "Reinachi napja a város szívében, a nyüzsgő Ernst-Feigenwinter-Platzon kezdődik. A történelmi Szent Miklós-templom felfedezése után a helytörténeti múzeumban merül el a helyi történelemben. Délben a közösségi élet központjában, a Polgárházban tart szünetet. A délután a természeté, egy pihentető sétával a folyó menti Birs-parkban. A napot a bájos reinachi állatkertben tett látogatással zárja, ahol megfigyelheti a helyi vadvilágot, mielőtt este befejezné a napot.",
+        "ro": "Ziua dvs. în Reinach începe în animata Piață Ernst-Feigenwinter, inima orașului. După explorarea istoricei Biserici Sf. Nicolae, vă veți cufunda în istoria locală la Muzeul Satului. La prânz, faceți o pauză la Bürgerhaus, un centru al vieții comunitare. După-amiaza este dedicată naturii, cu o plimbare relaxantă prin Parcul Birs de-a lungul râului. Ziua se încheie cu o vizită la fermecătoarea Grădină Zoologică Reinach, unde puteți observa fauna locală înainte de a încheia seara.",
+        "en": "Your day in Reinach begins in the bustling Ernst-Feigenwinter-Platz, the heart of the town. After exploring the historic St. Nicholas Church, you'll delve into local history at the Heimatmuseum. At midday, you'll take a break at the Bürgerhaus, a center of community life. The afternoon is dedicated to nature, with a relaxing stroll through the Birspark along the river. The day concludes with a visit to the charming Tierpark Reinach, where you can observe native wildlife before finishing your evening."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Basler Läckerli",
+            "tip": "Ein traditionelles, hartes Gewürzbiskuit, perfekt als Souvenir oder Snack."
+          },
+          {
+            "name": "Käsefondue",
+            "tip": "Probieren Sie dieses klassische Schweizer Gericht in einem der lokalen Gasthöfe."
+          },
+          {
+            "name": "Rösti",
+            "tip": "Eine knusprige Kartoffelspezialität, oft mit Spiegelei serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Basler Läckerli",
+            "tip": "Hagyományos, kemény fűszeres keksz, tökéletes szuvenírnek vagy uzsonnának."
+          },
+          {
+            "name": "Sajtfondü",
+            "tip": "Kóstolja meg ezt a klasszikus svájci ételt az egyik helyi fogadóban."
+          },
+          {
+            "name": "Rösti",
+            "tip": "Ropogós burgonyakülönlegesség, gyakran tükörtojással tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Basler Läckerli",
+            "tip": "Un biscuit tradițional, tare și condimentat, perfect ca suvenir sau gustare."
+          },
+          {
+            "name": "Fondue de brânză",
+            "tip": "Încercați acest fel de mâncare elvețian clasic la unul dintre hanurile locale."
+          },
+          {
+            "name": "Rösti",
+            "tip": "O specialitate crocantă de cartofi, adesea servită cu un ou ochi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Basler Läckerli",
+            "tip": "A traditional hard spice biscuit, perfect as a souvenir or snack."
+          },
+          {
+            "name": "Cheese Fondue",
+            "tip": "Try this classic Swiss dish at one of the local inns."
+          },
+          {
+            "name": "Rösti",
+            "tip": "A crispy potato specialty, often served with a fried egg."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Birs",
+            "tip": "Finden Sie eine ruhige Bank im Birspark und lauschen Sie dem Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Leywald",
+            "tip": "Ein Spaziergang durch diesen Wald bietet eine friedliche Flucht.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Friedhof bei St. Nikolaus",
+            "tip": "Ein Ort der Stille und Besinnung nahe dem Stadtzentrum.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Birs partja",
+            "tip": "Keressen egy csendes padot a Birs-parkban és hallgassa a vizet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Leywald erdő",
+            "tip": "Egy séta ebben az erdőben békés kikapcsolódást nyújt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szent Miklós melletti temető",
+            "tip": "A csend és az elmélkedés helye a városközpont közelében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Birs",
+            "tip": "Găsiți o bancă liniștită în Parcul Birs și ascultați susurul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pădurea Leywald",
+            "tip": "O plimbare prin această pădure oferă o evadare pașnică.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cimitirul de lângă Sf. Nicolae",
+            "tip": "Un loc de liniște și reflecție aproape de centrul orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Birs",
+            "tip": "Find a quiet bench in Birs Park and listen to the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Leywald Forest",
+            "tip": "A walk through this forest offers a peaceful escape.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cemetery at St. Nicholas",
+            "tip": "A place of quiet and reflection near the town center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt Reinach",
+            "tip": "Finden Sie frische, lokale Produkte und Käse, falls Ihr Besuch auf einen Markttag fällt."
+          },
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Kaufen Sie frisches Brot und süsse Spezialitäten wie Läckerli."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Reinachi heti piac",
+            "tip": "Találjon friss, helyi termékeket és sajtot, ha látogatása piacnapra esik."
+          },
+          {
+            "name": "Helyi pékségek",
+            "tip": "Vásároljon friss kenyeret és édes különlegességeket, mint a Läckerli."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală Reinach",
+            "tip": "Găsiți produse locale proaspete și brânzeturi dacă vizita dvs. cade într-o zi de piață."
+          },
+          {
+            "name": "Brutăriile locale",
+            "tip": "Cumpărați pâine proaspătă și specialități dulci precum Läckerli."
+          }
+        ],
+        "en": [
+          {
+            "name": "Reinach Weekly Market",
+            "tip": "Find fresh local produce and cheese if your visit falls on a market day."
+          },
+          {
+            "name": "Local Bakeries",
+            "tip": "Buy fresh bread and sweet specialties like Läckerli."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag zu Fuss unterwegs sein werden.",
+          "Eine wiederverwendbare Wasserflasche ist nützlich; es gibt mehrere öffentliche Brunnen.",
+          "Prüfen Sie die Öffnungszeiten des Heimatmuseums, da diese variieren können.",
+          "Die meisten Geschäfte und Cafés akzeptieren Kartenzahlungen, aber etwas Bargeld ist immer gut."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap gyalogolni fog.",
+          "Egy újrafelhasználható vizes palack hasznos; több nyilvános kút is található.",
+          "Ellenőrizze a Helytörténeti Múzeum nyitvatartási idejét, mivel az változhat.",
+          "A legtöbb üzlet és kávézó elfogad kártyás fizetést, de egy kis készpénz mindig jól jön."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge pe jos toată ziua.",
+          "O sticlă de apă reutilizabilă este utilă; există mai multe fântâni publice.",
+          "Verificați orele de deschidere ale Muzeului Satului, deoarece acestea pot varia.",
+          "Majoritatea magazinelor și cafenelelor acceptă plata cu cardul, dar niște numerar este întotdeauna bun."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking for the entire day.",
+          "A reusable water bottle is useful; there are several public fountains.",
+          "Check the opening hours of the Heimatmuseum as they can vary.",
+          "Most shops and cafes accept card payments, but some cash is always good to have."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ernst-Feigenwinter-Platz",
+            "hu": "Ernst-Feigenwinter tér",
+            "ro": "Piața Ernst-Feigenwinter",
+            "en": "Ernst-Feigenwinter Square"
+          },
+          "coords": [
+            7.5912,
+            47.4933
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie mit einem Kaffee und planen Sie Ihre Radtour.",
+            "hu": "Indítson egy kávéval és tervezze meg a kerékpártúrát.",
+            "ro": "Începeți cu o cafea și planificați-vă turul cu bicicleta.",
+            "en": "Start with a coffee and plan your bike tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Mischeli-Kirche",
+            "hu": "Mischeli-templom",
+            "ro": "Biserica Mischeli",
+            "en": "Mischeli Church"
+          },
+          "coords": [
+            7.5855,
+            47.5011
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:36",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur dieser markanten Kirche.",
+            "hu": "Csodálja meg ennek a jellegzetes templomnak a modern építészetét.",
+            "ro": "Admirați arhitectura modernă a acestei biserici distinctive.",
+            "en": "Admire the modern architecture of this distinctive church."
+          }
+        },
+        {
+          "name": {
+            "de": "Birspark",
+            "hu": "Birs-park",
+            "ro": "Parcul Birs",
+            "en": "Birs Park"
+          },
+          "coords": [
+            7.601,
+            47.495
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:18",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie am Flussufer entlang; der Weg ist flach und angenehm.",
+            "hu": "Kerékpározzon a folyóparton; az út sík és kellemes.",
+            "ro": "Plimbați-vă cu bicicleta de-a lungul malului râului; calea este plată și plăcută.",
+            "en": "Cycle along the riverbank; the path is flat and pleasant."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum Reinach",
+            "hu": "Reinachi Helytörténeti Múzeum",
+            "ro": "Muzeul Satului Reinach",
+            "en": "Reinach Local History Museum"
+          },
+          "coords": [
+            7.592,
+            47.4925
+          ],
+          "category": "museums",
+          "arrive_at": "11:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab, bevor Sie das Museum erkunden.",
+            "hu": "Biztonságosan zárja le a kerékpárját, mielőtt felfedezné a múzeumot.",
+            "ro": "Asigurați-vă bicicleta înainte de a explora muzeul.",
+            "en": "Secure your bike safely before exploring the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Tierpark Reinach",
+            "hu": "Reinachi Állatkert",
+            "ro": "Grădina Zoologică Reinach",
+            "en": "Reinach Animal Park"
+          },
+          "coords": [
+            7.585,
+            47.485
+          ],
+          "category": "natural features",
+          "arrive_at": "13:02",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine angenehme Pause, um Tiere zu beobachten und sich die Beine zu vertreten.",
+            "hu": "Kellemes szünet az állatok megfigyelésére és a lábak nyújtóztatására.",
+            "ro": "O pauză plăcută pentru a observa animalele și a vă întinde picioarele.",
+            "en": "A pleasant break to watch animals and stretch your legs."
+          }
+        },
+        {
+          "name": {
+            "de": "Leywald",
+            "hu": "Leywald erdő",
+            "ro": "Pădurea Leywald",
+            "en": "Leywald Forest"
+          },
+          "coords": [
+            7.575,
+            47.48
+          ],
+          "category": "natural features",
+          "arrive_at": "14:29",
+          "stay_min": 135,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Erkunden Sie die Waldwege. Perfekt für eine längere Radtour am Nachmittag.",
+            "hu": "Fedezze fel az erdei utakat. Tökéletes egy hosszabb délutáni kerékpártúrához.",
+            "ro": "Explorați potecile forestiere. Perfect pentru un tur mai lung cu bicicleta după-amiaza.",
+            "en": "Explore the forest trails. Perfect for a longer afternoon bike ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour durch Reinach startet am Ernst-Feigenwinter-Platz. Von dort radeln Sie zur modernen Mischeli-Kirche. Am Vormittag geniessen Sie eine Fahrt entlang der Birs im Birspark. Mittags legen Sie eine Kulturpause im Heimatmuseum ein. Am Nachmittag geht es weiter zum Tierpark für eine tierische Begegnung, bevor Sie Ihre Tour mit einer ausgedehnten Erkundung der ruhigen Wege im Leywald abschliessen.",
+        "hu": "Reinachi kerékpártúrája az Ernst-Feigenwinter-térről indul. Onnan a modern Mischeli-templomhoz teker. Délelőtt a Birs mentén kerékpározik a Birs-parkban. Délben kulturális szünetet tart a Helytörténeti Múzeumban. Délután az Állatkert felé veszi az irányt egy állati találkozóra, mielőtt a Leywald csendes ösvényeinek kiterjedt felfedezésével zárja a túrát.",
+        "ro": "Turul dvs. cu bicicleta prin Reinach începe din Piața Ernst-Feigenwinter. De acolo, pedalați spre moderna Biserică Mischeli. Dimineața, vă bucurați de o plimbare de-a lungul râului Birs în Parcul Birs. La prânz, faceți o pauză culturală la Muzeul Satului. După-amiaza, continuați spre Grădina Zoologică pentru o întâlnire cu animalele, înainte de a încheia turul cu o explorare extinsă a potecilor liniștite din Pădurea Leywald.",
+        "en": "Your bike tour through Reinach starts at Ernst-Feigenwinter Square. From there, you'll cycle to the modern Mischeli Church. In the morning, enjoy a ride along the Birs river in Birs Park. At noon, you'll take a cultural break at the Local History Museum. The afternoon continues to the Animal Park for an animal encounter, before you conclude your tour with an extensive exploration of the quiet paths in Leywald forest."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zürcher Geschnetzeltes",
+            "tip": "Ein herzhaftes Gericht aus Kalbfleisch in Rahmsauce, ideal nach einer langen Radtour."
+          },
+          {
+            "name": "Rivella",
+            "tip": "Ein erfrischendes Schweizer Nationalgetränk auf Basis von Milchserum."
+          },
+          {
+            "name": "Apfelküchlein",
+            "tip": "Warme Apfelringe im Teigmantel, oft mit Vanillesauce serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zürichi szeletelt borjú",
+            "tip": "Kiadós étel borjúhúsból tejszínes mártásban, ideális egy hosszú kerékpártúra után."
+          },
+          {
+            "name": "Rivella",
+            "tip": "Frissítő svájci nemzeti ital tejsavó alapon."
+          },
+          {
+            "name": "Almás fánkocskák",
+            "tip": "Meleg almaszeletek tésztában, gyakran vaníliasodóval tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vițel feliat în stil Zurich",
+            "tip": "Un fel de mâncare consistent din carne de vițel în sos de smântână, ideal după un tur lung cu bicicleta."
+          },
+          {
+            "name": "Rivella",
+            "tip": "O băutură națională elvețiană răcoritoare, pe bază de zer de lapte."
+          },
+          {
+            "name": "Gogoși cu mere",
+            "tip": "Inele de mere calde în aluat, adesea servite cu sos de vanilie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zurich-style sliced veal",
+            "tip": "A hearty dish of veal in a cream sauce, ideal after a long bike ride."
+          },
+          {
+            "name": "Rivella",
+            "tip": "A refreshing Swiss national drink based on milk serum."
+          },
+          {
+            "name": "Apple fritters",
+            "tip": "Warm apple rings in batter, often served with vanilla sauce."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Leywald-Lichtungen",
+            "tip": "Finden Sie eine sonnige Lichtung für eine ruhige Pause.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Am Ufer der Birs",
+            "tip": "Halten Sie an einer abgelegenen Stelle und geniessen Sie die Stille.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mischeli-Kirche (innen)",
+            "tip": "Die moderne Architektur schafft eine überraschend meditative Atmosphäre.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Leywald-tisztások",
+            "tip": "Keressen egy napos tisztást egy csendes pihenőhöz.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "A Birs partján",
+            "tip": "Álljon meg egy eldugott helyen és élvezze a csendet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mischeli-templom (belül)",
+            "tip": "A modern építészet meglepően meditatív hangulatot teremt.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poienile din Leywald",
+            "tip": "Găsiți o poiană însorită pentru o pauză liniștită.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Pe malul râului Birs",
+            "tip": "Opriți-vă într-un loc retras și bucurați-vă de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Biserica Mischeli (interior)",
+            "tip": "Arhitectura modernă creează o atmosferă surprinzător de meditativă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Leywald clearings",
+            "tip": "Find a sunny clearing for a quiet break.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "On the banks of the Birs",
+            "tip": "Stop at a secluded spot and enjoy the silence.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mischeli Church (inside)",
+            "tip": "The modern architecture creates a surprisingly meditative atmosphere.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Für eventuell benötigtes Zubehör oder eine schnelle Reparatur."
+          },
+          {
+            "name": "Hofläden in der Umgebung",
+            "tip": "Halten Sie Ausschau nach Schildern, die frische Produkte direkt vom Bauernhof verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Esetlegesen szükséges kiegészítőkért vagy egy gyors javításért."
+          },
+          {
+            "name": "Tanyasi boltok a környéken",
+            "tip": "Figyelje a táblákat, amelyek friss termékeket árulnak közvetlenül a gazdaságból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Pentru orice accesorii de care ați putea avea nevoie sau o reparație rapidă."
+          },
+          {
+            "name": "Magazinele fermelor din zonă",
+            "tip": "Fiți atenți la indicatoarele care vând produse proaspete direct de la fermă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shop",
+            "tip": "For any accessories you might need or a quick repair."
+          },
+          {
+            "name": "Farm shops in the area",
+            "tip": "Look out for signs selling fresh produce directly from the farm."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck, bevor Sie losfahren.",
+          "Ein Helm wird dringend empfohlen.",
+          "Nutzen Sie die gut ausgebauten Radwege, besonders entlang der Birs.",
+          "Planen Sie genügend Zeit für Steigungen ein, auch wenn die Gegend relativ flach ist."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Sisak viselése erősen ajánlott.",
+          "Használja a jól kiépített kerékpárutakat, különösen a Birs mentén.",
+          "Tervezzen elegendő időt az emelkedőkre, még ha a terület viszonylag sík is."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope înainte de a porni.",
+          "Se recomandă insistent purtarea unei căști.",
+          "Folosiți pistele de biciclete bine dezvoltate, în special de-a lungul râului Birs.",
+          "Alocați suficient timp pentru urcări, chiar dacă zona este relativ plată."
+        ],
+        "en": [
+          "Check your tire pressure before setting off.",
+          "A helmet is strongly recommended.",
+          "Use the well-developed cycle paths, especially along the Birs river.",
+          "Allow enough time for climbs, even if the area is relatively flat."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Leywald",
+            "hu": "Leywald parkoló",
+            "ro": "Parcare Leywald",
+            "en": "Leywald Parking"
+          },
+          "coords": [
+            7.578,
+            47.482
+          ],
+          "category": "parking",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Startpunkt für den Natur-Cluster. Parken Sie hier und erkunden Sie zu Fuss.",
+            "hu": "A természeti klaszter kiindulópontja. Parkoljon itt és fedezze fel gyalog.",
+            "ro": "Punct de plecare pentru clusterul natural. Parcați aici și explorați pe jos.",
+            "en": "Starting point for the nature cluster. Park here and explore on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Leywald",
+            "hu": "Leywald erdő",
+            "ro": "Pădurea Leywald",
+            "en": "Leywald Forest"
+          },
+          "coords": [
+            7.575,
+            47.48
+          ],
+          "category": "natural features",
+          "arrive_at": "09:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein morgendlicher Spaziergang, um die frische Waldluft zu geniessen.",
+            "hu": "Reggeli séta a friss erdei levegő élvezetéhez.",
+            "ro": "O plimbare de dimineață pentru a vă bucura de aerul proaspăt al pădurii.",
+            "en": "A morning walk to enjoy the fresh forest air."
+          }
+        },
+        {
+          "name": {
+            "de": "Tierpark Reinach",
+            "hu": "Reinachi Állatkert",
+            "ro": "Grădina Zoologică Reinach",
+            "en": "Reinach Animal Park"
+          },
+          "coords": [
+            7.585,
+            47.485
+          ],
+          "category": "natural features",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Wald aus leicht zu Fuss erreichbar. Ideal für Familien.",
+            "hu": "Az erdőből könnyen megközelíthető gyalog. Ideális családok számára.",
+            "ro": "Ușor accesibil pe jos din pădure. Ideal pentru familii.",
+            "en": "Easily accessible on foot from the forest. Ideal for families."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Zentrum",
+            "hu": "Központi parkoló",
+            "ro": "Parcare Centru",
+            "en": "Center Parking"
+          },
+          "coords": [
+            7.59,
+            47.493
+          ],
+          "category": "parking",
+          "arrive_at": "12:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Stadtzentrum-Cluster. Es gibt mehrere Parkhäuser.",
+            "hu": "Parkoljon itt a városközponti klaszterhez. Több parkolóház is található.",
+            "ro": "Parcați aici pentru clusterul centrului orașului. Există mai multe parcări.",
+            "en": "Park here for the city center cluster. There are several parking garages."
+          }
+        },
+        {
+          "name": {
+            "de": "Ernst-Feigenwinter-Platz",
+            "hu": "Ernst-Feigenwinter tér",
+            "ro": "Piața Ernst-Feigenwinter",
+            "en": "Ernst-Feigenwinter Square"
+          },
+          "coords": [
+            7.5912,
+            47.4933
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:23",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Ort für eine Mittagspause in einem der umliegenden Restaurants.",
+            "hu": "Tökéletes hely egy ebédszünetre a környező éttermek egyikében.",
+            "ro": "Locul perfect pentru o pauză de prânz la unul dintre restaurantele din jur.",
+            "en": "The perfect spot for a lunch break at one of the surrounding restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Nikolaus",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sf. Nicolae",
+            "en": "St. Nicholas Church"
+          },
+          "coords": [
+            7.5905,
+            47.4941
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz zur Besichtigung dieser historischen Kirche.",
+            "hu": "Rövid séta a térről ennek a történelmi templomnak a megtekintéséhez.",
+            "ro": "O scurtă plimbare din piață pentru a vizita această biserică istorică.",
+            "en": "A short walk from the square to visit this historic church."
+          }
+        },
+        {
+          "name": {
+            "de": "Birspark",
+            "hu": "Birs-park",
+            "ro": "Parcul Birs",
+            "en": "Birs Park"
+          },
+          "coords": [
+            7.601,
+            47.495
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:08",
+          "stay_min": 115,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Abschluss des Tages zum Park für einen entspannten Spaziergang.",
+            "hu": "A nap végén autózzon el a parkba egy pihentető sétára.",
+            "ro": "La sfârșitul zilei, conduceți spre parc pentru o plimbare relaxantă.",
+            "en": "Drive to the park for a relaxing walk to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit dem Auto im Natur-Cluster von Reinach. Nach dem Parken am Leywald genießen Sie einen Spaziergang durch den Wald und besuchen den nahegelegenen Tierpark. Gegen Mittag fahren Sie ins Zentrum, parken erneut und erkunden den Stadt-Cluster zu Fuß: Mittagessen am Ernst-Feigenwinter-Platz und ein Besuch der St.-Nikolaus-Kirche. Der Nachmittag endet mit einer kurzen Fahrt zum Birspark, wo Sie am Flussufer entspannen und den Tag ausklingen lassen.",
+        "hu": "A napja autóval indul Reinach természeti klaszterében. A Leywaldnál való parkolás után sétáljon egyet az erdőben, és látogasson el a közeli állatkertbe. Dél körül autózzon be a központba, parkoljon le újra, és fedezze fel gyalog a városi klasztert: ebéd az Ernst-Feigenwinter-téren és látogatás a Szent Miklós-templomban. A délutánt egy rövid autózással zárja a Birs-parkhoz, ahol a folyóparton pihenhet.",
+        "ro": "Ziua dvs. începe cu mașina în clusterul natural din Reinach. După ce parcați la Leywald, bucurați-vă de o plimbare prin pădure și vizitați Grădina Zoologică din apropiere. În jurul prânzului, conduceți spre centru, parcați din nou și explorați clusterul orașului pe jos: prânz în Piața Ernst-Feigenwinter și o vizită la Biserica Sf. Nicolae. După-amiaza se încheie cu o scurtă călătorie cu mașina spre Parcul Birs pentru relaxare pe malul râului.",
+        "en": "Your day starts by car in Reinach's nature cluster. After parking at Leywald, enjoy a walk through the forest and visit the nearby Animal Park. Around noon, you'll drive to the center, park again, and explore the city cluster on foot: lunch at Ernst-Feigenwinter Square and a visit to St. Nicholas Church. The afternoon concludes with a short drive to Birs Park for a relaxing time by the riverbank."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Landgasthof",
+            "tip": "Suchen Sie einen traditionellen Landgasthof für authentische Schweizer Küche."
+          },
+          {
+            "name": "Basler Mehlsuppe",
+            "tip": "Eine geröstete Mehlsuppe, eine Spezialität der Region Basel."
+          },
+          {
+            "name": "Vermicelles",
+            "tip": "Ein Dessert aus süssem Kastanienpüree, besonders im Herbst beliebt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vidéki fogadó",
+            "tip": "Keressen egy hagyományos vidéki fogadót az autentikus svájci konyháért."
+          },
+          {
+            "name": "Bázeli lisztleves",
+            "tip": "Pirított lisztleves, a bázeli régió specialitása."
+          },
+          {
+            "name": "Gesztenyepüré (Vermicelles)",
+            "tip": "Édes gesztenyepüréből készült desszert, különösen ősszel népszerű."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Han rural",
+            "tip": "Căutați un han rural tradițional pentru bucătărie elvețiană autentică."
+          },
+          {
+            "name": "Supă de făină din Basel",
+            "tip": "O supă de făină prăjită, o specialitate a regiunii Basel."
+          },
+          {
+            "name": "Vermicelli",
+            "tip": "Un desert din piure de castane dulci, popular în special toamna."
+          }
+        ],
+        "en": [
+          {
+            "name": "Country Inn",
+            "tip": "Look for a traditional country inn for authentic Swiss cuisine."
+          },
+          {
+            "name": "Basel Flour Soup",
+            "tip": "A roasted flour soup, a specialty of the Basel region."
+          },
+          {
+            "name": "Vermicelles",
+            "tip": "A dessert made from sweet chestnut purée, especially popular in autumn."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt im Leywald",
+            "tip": "Finden Sie einen höher gelegenen Punkt im Wald für eine weite Aussicht.",
+            "emoji": "🌄"
+          },
+          {
+            "name": "Kirchgarten St. Nikolaus",
+            "tip": "Ein kleiner, friedlicher Garten neben der Kirche.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Früher Morgen im Tierpark",
+            "tip": "Besuchen Sie den Park kurz nach der Öffnung für eine ruhige Erfahrung.",
+            "emoji": "🦌"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópont a Leywald-erdőben",
+            "tip": "Keressen egy magasabban fekvő pontot az erdőben a panorámáért.",
+            "emoji": "🌄"
+          },
+          {
+            "name": "Szent Miklós-templom kertje",
+            "tip": "Egy kicsi, békés kert a templom mellett.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Kora reggel az Állatkertben",
+            "tip": "Látogassa meg a parkot rögtön nyitás után a csendes élményért.",
+            "emoji": "🦌"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere în Pădurea Leywald",
+            "tip": "Găsiți un punct mai înalt în pădure pentru o priveliște largă.",
+            "emoji": "🌄"
+          },
+          {
+            "name": "Grădina bisericii Sf. Nicolae",
+            "tip": "O grădină mică și liniștită lângă biserică.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Dimineața devreme la Zoo",
+            "tip": "Vizitați parcul imediat după deschidere pentru o experiență liniștită.",
+            "emoji": "🦌"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint in Leywald Forest",
+            "tip": "Find a higher point in the forest for a wide view.",
+            "emoji": "🌄"
+          },
+          {
+            "name": "St. Nicholas Church Garden",
+            "tip": "A small, peaceful garden next to the church.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Early Morning at the Animal Park",
+            "tip": "Visit the park just after it opens for a quiet experience.",
+            "emoji": "🦌"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Käserei in der Nähe",
+            "tip": "Fahren Sie zu einer lokalen Käserei, um authentischen Schweizer Käse zu kaufen."
+          },
+          {
+            "name": "Reinacher Zentrum",
+            "tip": "Einige kleine Boutiquen und Fachgeschäfte befinden sich rund um den Hauptplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Közeli sajtüzem",
+            "tip": "Autózzon el egy helyi sajtüzembe, hogy autentikus svájci sajtot vásároljon."
+          },
+          {
+            "name": "Reinach központja",
+            "tip": "Néhány kisebb butik és szaküzlet található a főtér körül."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fabrică de brânzeturi din apropiere",
+            "tip": "Conduceți la o fabrică de brânzeturi locală pentru a cumpăra brânză elvețiană autentică."
+          },
+          {
+            "name": "Centrul Reinach",
+            "tip": "Câteva buticuri mici și magazine specializate se găsesc în jurul pieței principale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Nearby Cheesery",
+            "tip": "Drive to a local cheesery to buy authentic Swiss cheese."
+          },
+          {
+            "name": "Reinach Center",
+            "tip": "Some small boutiques and specialty shops are located around the main square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Verwenden Sie eine Park-App oder haben Sie Münzen für Parkautomaten bereit.",
+          "Die Cluster-Walking-Methode spart Parkgebühren und Stress bei der Parkplatzsuche.",
+          "Beachten Sie die Geschwindigkeitsbegrenzungen, besonders in Wohngebieten.",
+          "Ein GPS ist unerlässlich, um zwischen den Clustern zu navigieren."
+        ],
+        "hu": [
+          "Használjon parkolóalkalmazást, vagy készítsen elő érméket a parkolóautomatákhoz.",
+          "A klaszter-séta módszer parkolási díjakat és a parkolóhely-keresés stresszét takarítja meg.",
+          "Tartsa be a sebességkorlátozásokat, különösen a lakóövezetekben.",
+          "GPS elengedhetetlen a klaszterek közötti navigációhoz."
+        ],
+        "ro": [
+          "Utilizați o aplicație de parcare sau aveți la îndemână monede pentru automatele de parcare.",
+          "Metoda de plimbare în cluster economisește taxele de parcare și stresul căutării unui loc.",
+          "Respectați limitele de viteză, în special în zonele rezidențiale.",
+          "Un GPS este esențial pentru a naviga între clustere."
+        ],
+        "en": [
+          "Use a parking app or have coins ready for parking meters.",
+          "The cluster-walking method saves on parking fees and the stress of finding a spot.",
+          "Obey the speed limits, especially in residential areas.",
+          "A GPS is essential for navigating between the clusters."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Haltestelle Reinach Dorf",
+            "hu": "Reinach Dorf megálló",
+            "ro": "Stația Reinach Dorf",
+            "en": "Reinach Dorf Stop"
+          },
+          "coords": [
+            7.5908,
+            47.4935
+          ],
+          "category": "transit_stop",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Startpunkt im Zentrum. Kaufen Sie eine Tageskarte für den öffentlichen Verkehr.",
+            "hu": "Kiindulópont a központban. Vásároljon napijegyet a tömegközlekedéshez.",
+            "ro": "Punct de plecare în centru. Cumpărați un bilet de o zi pentru transportul public.",
+            "en": "Starting point in the center. Buy a day pass for public transport."
+          }
+        },
+        {
+          "name": {
+            "de": "Ernst-Feigenwinter-Platz",
+            "hu": "Ernst-Feigenwinter tér",
+            "ro": "Piața Ernst-Feigenwinter",
+            "en": "Ernst-Feigenwinter Square"
+          },
+          "coords": [
+            7.5912,
+            47.4933
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:12",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den Platz und die umliegenden Gassen.",
+            "hu": "Fedezze fel a teret és a környező sikátorokat.",
+            "ro": "Explorați piața și aleile înconjurătoare.",
+            "en": "Explore the square and the surrounding alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Nikolaus",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sf. Nicolae",
+            "en": "St. Nicholas Church"
+          },
+          "coords": [
+            7.5905,
+            47.4941
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:47",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur, bevor Sie zum Museum weitergehen.",
+            "hu": "Csodálja meg az építészetet, mielőtt továbbmenne a múzeumba.",
+            "ro": "Admirați arhitectura înainte de a continua spre muzeu.",
+            "en": "Admire the architecture before continuing to the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum Reinach",
+            "hu": "Reinachi Helytörténeti Múzeum",
+            "ro": "Muzeul Satului Reinach",
+            "en": "Reinach Local History Museum"
+          },
+          "coords": [
+            7.592,
+            47.4925
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein tiefer Einblick in die Vergangenheit der Region.",
+            "hu": "Mély betekintés a régió múltjába.",
+            "ro": "O perspectivă profundă asupra trecutului regiunii.",
+            "en": "A deep dive into the region's past."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle Tierpark",
+            "hu": "Tierpark megálló",
+            "ro": "Stația Tierpark",
+            "en": "Tierpark Stop"
+          },
+          "coords": [
+            7.584,
+            47.486
+          ],
+          "category": "transit_stop",
+          "arrive_at": "12:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zum zweiten Cluster. Hier können Sie Tiere beobachten.",
+            "hu": "Menjen busszal a második klaszterhez. Itt állatokat nézhet.",
+            "ro": "Luați autobuzul spre al doilea cluster. Aici puteți observa animale.",
+            "en": "Take the bus to the second cluster. You can watch animals here."
+          }
+        },
+        {
+          "name": {
+            "de": "Birspark",
+            "hu": "Birs-park",
+            "ro": "Parcul Birs",
+            "en": "Birs Park"
+          },
+          "coords": [
+            7.601,
+            47.495
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:10",
+          "stay_min": 155,
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein letzter Bus bringt Sie zum Park für einen entspannten Nachmittag.",
+            "hu": "Egy utolsó busz viszi a parkba egy pihentető délutánra.",
+            "ro": "Un ultim autobuz vă duce la parc pentru o după-amiază relaxantă.",
+            "en": "A final bus ride takes you to the park for a relaxing afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit einer Tageskarte beginnen Sie Ihre Erkundung im Zentrum von Reinach. Der erste Cluster umfasst einen Spaziergang vom Ernst-Feigenwinter-Platz zur St.-Nikolaus-Kirche und zum Heimatmuseum. Gegen Mittag nehmen Sie den Bus zum zweiten Cluster, dem Tierpark. Nach der Tierbeobachtung bringt Sie ein weiterer Bus zum Birspark, wo Sie den Rest des Nachmittags am Fluss verbringen, bevor Sie Ihre Rückreise antreten.",
+        "hu": "Napijeggyel kezdi a felfedezést Reinach központjában. Az első klaszter egy sétát foglal magában az Ernst-Feigenwinter-tértől a Szent Miklós-templomig és a Helytörténeti Múzeumig. Dél körül busszal utazik a második klaszterhez, az Állatkerthez. Az állatok megfigyelése után egy másik busz viszi a Birs-parkba, ahol a délután hátralévő részét a folyónál tölti, mielőtt visszaindulna.",
+        "ro": "Cu un bilet de o zi, începeți explorarea în centrul orașului Reinach. Primul cluster include o plimbare de la Piața Ernst-Feigenwinter la Biserica Sf. Nicolae și Muzeul Satului. În jurul prânzului, luați autobuzul spre al doilea cluster, Grădina Zoologică. După observarea animalelor, un alt autobuz vă duce la Parcul Birs, unde petreceți restul după-amiezii pe malul râului înainte de a vă întoarce.",
+        "en": "With a day pass, you start your exploration in the center of Reinach. The first cluster includes a walk from Ernst-Feigenwinter Square to St. Nicholas Church and the Local History Museum. Around noon, you take the bus to the second cluster, the Animal Park. After watching the animals, another bus takes you to Birs Park, where you spend the rest of the afternoon by the river before heading back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei-Sandwich",
+            "tip": "Eine schnelle und leckere Option für das Mittagessen unterwegs."
+          },
+          {
+            "name": "Schenkeli",
+            "tip": "Ein traditionelles frittiertes Gebäck, das in vielen Bäckereien erhältlich ist."
+          },
+          {
+            "name": "Birnenbrot",
+            "tip": "Ein süsses Brot gefüllt mit einer Birnenmischung, perfekt für einen Energieschub."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Péksüteményes szendvics",
+            "tip": "Gyors és finom lehetőség ebédre útközben."
+          },
+          {
+            "name": "Schenkeli",
+            "tip": "Hagyományos sült tészta, amely sok pékségben kapható."
+          },
+          {
+            "name": "Körtés kenyér",
+            "tip": "Édes kenyér körtés töltelékkel, tökéletes energiafröccsnek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sandviș de la brutărie",
+            "tip": "O opțiune rapidă și delicioasă pentru prânzul din mers."
+          },
+          {
+            "name": "Schenkeli",
+            "tip": "Un produs de patiserie tradițional prăjit, disponibil în multe brutării."
+          },
+          {
+            "name": "Pâine cu pere",
+            "tip": "O pâine dulce umplută cu un amestec de pere, perfectă pentru un plus de energie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery sandwich",
+            "tip": "A quick and delicious option for lunch on the go."
+          },
+          {
+            "name": "Schenkeli",
+            "tip": "A traditional fried pastry available in many bakeries."
+          },
+          {
+            "name": "Pear bread",
+            "tip": "A sweet bread filled with a pear mixture, perfect for an energy boost."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obere Etage des Busses",
+            "tip": "Geniessen Sie die Aussicht und die ruhigere Atmosphäre in der oberen Etage.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Eine Bank im Birspark",
+            "tip": "Weit weg vom Spielplatz finden Sie ruhige Ecken.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Leseecke im Heimatmuseum",
+            "tip": "Manchmal gibt es ruhige Bereiche zum Verweilen und Lesen.",
+            "emoji": "📖"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A busz emelete",
+            "tip": "Élvezze a kilátást és a csendesebb légkört az emeleten."
+          },
+          {
+            "name": "Egy pad a Birs-parkban",
+            "tip": "Távol a játszótértől csendes zugokat talál."
+          },
+          {
+            "name": "Olvasósarok a Helytörténeti Múzeumban",
+            "tip": "Néha vannak csendes részek, ahol elidőzhet és olvashat."
+          },
+          {
+            "name": "A busz emelete",
+            "tip": "Élvezze a kilátást és a csendesebb légkört az emeleten.",
+            "emoji": "🚌"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etajul superior al autobuzului",
+            "tip": "Bucurați-vă de priveliște și de atmosfera mai liniștită de la etajul superior.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "O bancă în Parcul Birs",
+            "tip": "Departe de locul de joacă veți găsi colțuri liniștite.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Colț de lectură în Muzeul Satului",
+            "tip": "Uneori există zone liniștite pentru a zăbovi și a citi.",
+            "emoji": "📖"
+          }
+        ],
+        "en": [
+          {
+            "name": "Upper deck of the bus",
+            "tip": "Enjoy the view and the quieter atmosphere on the top floor.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "A bench in Birs Park",
+            "tip": "Far from the playground, you'll find quiet corners.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Reading corner in the Heimatmuseum",
+            "tip": "Sometimes there are quiet areas to linger and read.",
+            "emoji": "📖"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Bahnhof",
+            "tip": "Für Souvenirs, Zeitschriften und Snacks."
+          },
+          {
+            "name": "Lokale Supermärkte",
+            "tip": "Kaufen Sie Schweizer Schokolade und andere Spezialitäten zu vernünftigen Preisen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk az állomáson",
+            "tip": "Szuvenírekért, magazinokért és rágcsálnivalókért."
+          },
+          {
+            "name": "Helyi szupermarketek",
+            "tip": "Vásároljon svájci csokoládét és más különlegességeket elfogadható áron."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la gară",
+            "tip": "Pentru suveniruri, reviste și gustări."
+          },
+          {
+            "name": "Supermarketuri locale",
+            "tip": "Cumpărați ciocolată elvețiană și alte specialități la prețuri rezonabile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the station",
+            "tip": "For souvenirs, magazines, and snacks."
+          },
+          {
+            "name": "Local supermarkets",
+            "tip": "Buy Swiss chocolate and other specialties at reasonable prices."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Eine ÖV-App wie die SBB Mobile App ist sehr hilfreich für Fahrpläne und Tickets.",
+          "Validieren Sie Ihr Ticket vor jeder Fahrt, falls erforderlich.",
+          "Beachten Sie die Stosszeiten, um überfüllte Busse zu vermeiden.",
+          "Die Tageskarte ist oft günstiger als mehrere Einzeltickets."
+        ],
+        "hu": [
+          "Egy tömegközlekedési alkalmazás, mint az SBB Mobile App, nagyon hasznos a menetrendekhez és jegyekhez.",
+          "Érvényesítse a jegyét minden utazás előtt, ha szükséges.",
+          "Vegye figyelembe a csúcsidőt a zsúfolt buszok elkerülése érdekében.",
+          "A napijegy gyakran olcsóbb, mint több egyedi jegy."
+        ],
+        "ro": [
+          "O aplicație de transport public precum SBB Mobile App este foarte utilă pentru orare și bilete.",
+          "Validați-vă biletul înainte de fiecare călătorie, dacă este necesar.",
+          "Fiți atenți la orele de vârf pentru a evita autobuzele aglomerate.",
+          "Biletul de o zi este adesea mai ieftin decât mai multe bilete individuale."
+        ],
+        "en": [
+          "A public transport app like the SBB Mobile App is very helpful for timetables and tickets.",
+          "Validate your ticket before each journey if required.",
+          "Be aware of peak hours to avoid crowded buses.",
+          "The day pass is often cheaper than multiple single tickets."
+        ]
+      }
+    }
+  }
+}

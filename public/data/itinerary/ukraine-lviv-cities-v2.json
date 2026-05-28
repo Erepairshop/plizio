@@ -1,0 +1,1341 @@
+{
+  "city_id": "ukraine-lviv-cities-v2",
+  "anchor": {
+    "name": "Lwiw",
+    "coords": [
+      24.0297,
+      49.8397
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:12",
+      "total_km": 1.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Lwiwer Opernhaus",
+          "coords": [
+            24.0264,
+            49.8439
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie die prachtvolle Fassade.",
+            "hu": "Figyelje meg a pompás homlokzatot.",
+            "ro": "Observați fațada magnifică.",
+            "en": "Admire the magnificent facade."
+          }
+        },
+        {
+          "name": "Armenische Kathedrale",
+          "coords": [
+            24.0315,
+            49.8431
+          ],
+          "category": "cathedral",
+          "arrive_at": "10:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die alten Fresken.",
+            "hu": "Fedezze fel a régi freskókat.",
+            "ro": "Descoperiți frescele vechi.",
+            "en": "Discover the ancient frescoes."
+          }
+        },
+        {
+          "name": "Rynok-Platz",
+          "coords": [
+            24.0323,
+            49.8415
+          ],
+          "category": "square",
+          "arrive_at": "11:57",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Herz der Altstadt.",
+            "hu": "Az óváros szíve.",
+            "ro": "Inima orașului vechi.",
+            "en": "The heart of the old town."
+          }
+        },
+        {
+          "name": "Lwiwer Rathaus",
+          "coords": [
+            24.0316,
+            49.8414
+          ],
+          "category": "historical",
+          "arrive_at": "12:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besteigen Sie den Turm für eine tolle Aussicht.",
+            "hu": "Mássza meg a tornyot a remek kilátásért.",
+            "ro": "Urcați în turn pentru o priveliște minunată.",
+            "en": "Climb the tower for a great view."
+          }
+        },
+        {
+          "name": "Apothekenmuseum",
+          "coords": [
+            24.0322,
+            49.8422
+          ],
+          "category": "museum",
+          "arrive_at": "13:46",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Sehen Sie die historischen Alchemie-Räume.",
+            "hu": "Nézze meg a történelmi alkimista szobákat.",
+            "ro": "Vedeți camerele istorice de alchimie.",
+            "en": "See the historic alchemy rooms."
+          }
+        },
+        {
+          "name": "Boim-Kapelle",
+          "coords": [
+            24.0312,
+            49.8407
+          ],
+          "category": "religious",
+          "arrive_at": "15:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die dunkle, reich verzierte Fassade.",
+            "hu": "Csodálja meg a sötét, gazdagon díszített homlokzatot.",
+            "ro": "Admirați fațada întunecată și ornamentată.",
+            "en": "Admire the dark, richly decorated facade."
+          }
+        },
+        {
+          "name": "Potocki-Palast",
+          "coords": [
+            24.0263,
+            49.8378
+          ],
+          "category": "historical",
+          "arrive_at": "16:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein elegantes Stück Architektur des 19. Jahrhunderts.",
+            "hu": "A 19. századi építészet elegáns darabja.",
+            "ro": "O piesă elegantă de arhitectură din secolul 19.",
+            "en": "An elegant piece of 19th-century architecture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie am Opernhaus, bewundern Sie die prächtige Architektur und spazieren Sie zur Armenischen Kathedrale. Mittags lädt der Rynok-Platz mit seinen historischen Bürgerhäusern zum Verweilen ein. Nachmittags erkunden Sie das Apothekenmuseum und die Boim-Kapelle. Den Abend lassen Sie nahe dem Potocki-Palast in einem traditionellen Kaffeehaus ausklingen.",
+        "hu": "Kezdje a napot az Operaháznál, majd fedezze fel az Örmény Katedrális lenyűgöző belső terét. A déli órákban a Rynok tér nyüzsgése és a Városháza nyújt páratlan élményt. Délután az egyedülálló Patikamúzeum és a Boim-kápolna várja. Este a Potocki-palota környékén érdemes megkóstolni a híres lvivi kávét.",
+        "ro": "Începeți la Opera din Lviv și plimbați-vă spre Catedrala Armeană cu arhitectura sa unică. La amiază, Piața Rynok și Primăria oferă o atmosferă vibrantă și istorică. După-amiaza, vizitați Muzeul Farmaciei și minunata Capelă Boim. Seara, relaxați-vă lângă Palatul Potocki cu o cafea tradițională.",
+        "en": "Start at the magnificent Opera House and stroll to the unique Armenian Cathedral. At midday, immerse yourself in the vibrant atmosphere of Rynok Square and the historic City Hall. In the afternoon, explore the fascinating Pharmacy Museum and the intricate Boim Chapel. Spend your evening near the Potocki Palace, enjoying Lviv's famous coffee culture."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Baczewski Restaurant",
+            "tip": "Probieren Sie traditionelle galizische Küche."
+          },
+          {
+            "name": "Lviv Coffee Manufacture",
+            "tip": "Erleben Sie die berühmte Kaffeekultur der Stadt."
+          },
+          {
+            "name": "Kryivka",
+            "tip": "Ein Themenrestaurant mit historischem Flair."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Baczewski Étterem",
+            "tip": "Kóstolja meg a hagyományos galíciai konyhát."
+          },
+          {
+            "name": "Lviv Kávémanufaktúra",
+            "tip": "Tapasztalja meg a város híres kávékultúráját."
+          },
+          {
+            "name": "Kryivka",
+            "tip": "Történelmi hangulatú tematikus étterem."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul Baczewski",
+            "tip": "Încercați bucătăria tradițională galițiană."
+          },
+          {
+            "name": "Manufactura de Cafea Lviv",
+            "tip": "Experimentați faimoasa cultură a cafelei din oraș."
+          },
+          {
+            "name": "Kryivka",
+            "tip": "Un restaurant tematic cu fler istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Baczewski Restaurant",
+            "tip": "Try traditional Galician cuisine."
+          },
+          {
+            "name": "Lviv Coffee Manufacture",
+            "tip": "Experience the city's famous coffee culture."
+          },
+          {
+            "name": "Kryivka",
+            "tip": "A themed restaurant with historical flair."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hoher Schlossberg",
+            "tip": "Genießen Sie den Sonnenuntergang über der Stadt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Stryiskyi-Park",
+            "tip": "Ein großer, ruhiger Park zum Entspannen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ivan-Franko-Park",
+            "tip": "Der älteste Park der Stadt, perfekt für eine Pause.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Magas várhegy",
+            "tip": "Élvezze a naplementét a város felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sztrijszkij park",
+            "tip": "Nagy, csendes park a pihenéshez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ivan Franko Park",
+            "tip": "A város legrégebbi parkja, tökéletes egy kis szünetre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Castelului Înalt",
+            "tip": "Bucurați-vă de apusul de soare deasupra orașului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Stryiskyi",
+            "tip": "Un parc mare și liniștit pentru relaxare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Ivan Franko",
+            "tip": "Cel mai vechi parc din oraș, perfect pentru o pauză.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "High Castle Hill",
+            "tip": "Enjoy the sunset over the city.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Stryiskyi Park",
+            "tip": "A large, quiet park for relaxation.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ivan Franko Park",
+            "tip": "The oldest park in the city, perfect for a break.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vernissage-Markt",
+            "tip": "Kaufen Sie lokales Kunsthandwerk und Souvenirs."
+          },
+          {
+            "name": "Lviv Handmade Chocolate",
+            "tip": "Köstliche handgemachte Schokolade als Mitbringsel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vernissage Piac",
+            "tip": "Vásároljon helyi kézműves termékeket és ajándékokat."
+          },
+          {
+            "name": "Lviv Kézműves Csokoládé",
+            "tip": "Finom, kézzel készített csokoládé emlékbe."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Vernisaj",
+            "tip": "Cumpărați obiecte de artizanat locale și suveniruri."
+          },
+          {
+            "name": "Ciocolată Manuală Lviv",
+            "tip": "Ciocolată delicioasă făcută manual ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vernissage Market",
+            "tip": "Buy local crafts and souvenirs."
+          },
+          {
+            "name": "Lviv Handmade Chocolate",
+            "tip": "Delicious handmade chocolate as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Probieren Sie den lokalen Kaffee in einer der versteckten Röstereien."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "Kóstolja meg a helyi kávét az egyik rejtett pörkölőben."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru străzile pietruite.",
+          "Încercați cafeaua locală într-una dintre cafenelele ascunse."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets.",
+          "Try the local coffee in one of the hidden roasteries."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:28",
+      "total_km": 7.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "St.-Georgs-Kathedrale",
+          "coords": [
+            24.0131,
+            49.8385
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein Meisterwerk des Barock.",
+            "hu": "A barokk mesterműve.",
+            "ro": "O capodoperă a barocului.",
+            "en": "A masterpiece of Baroque."
+          }
+        },
+        {
+          "name": "Potocki-Palast",
+          "coords": [
+            24.0263,
+            49.8378
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto im Innenhof.",
+            "hu": "Készítsen egy fotót a belső udvaron.",
+            "ro": "Faceți o poză în curte.",
+            "en": "Take a photo in the courtyard."
+          }
+        },
+        {
+          "name": "Lwiwer Opernhaus",
+          "coords": [
+            24.0264,
+            49.8439
+          ],
+          "category": "historical",
+          "arrive_at": "11:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Das kulturelle Zentrum der Stadt.",
+            "hu": "A város kulturális központja.",
+            "ro": "Centrul cultural al orașului.",
+            "en": "The cultural center of the city."
+          }
+        },
+        {
+          "name": "Rynok-Platz",
+          "coords": [
+            24.0323,
+            49.8415
+          ],
+          "category": "square",
+          "arrive_at": "13:21",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekt für eine kurze Pause.",
+            "hu": "Tökéletes egy rövid pihenőre.",
+            "ro": "Perfect pentru o scurtă pauză.",
+            "en": "Perfect for a short break."
+          }
+        },
+        {
+          "name": "Hoher Schlossberg",
+          "coords": [
+            24.0387,
+            49.8483
+          ],
+          "category": "viewpoint",
+          "arrive_at": "13:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Toller Panoramablick nach dem Aufstieg.",
+            "hu": "Remek panoráma a mászás után.",
+            "ro": "Panoramă excelentă după urcare.",
+            "en": "Great panoramic view after the climb."
+          }
+        },
+        {
+          "name": "Lychakiv-Friedhof",
+          "coords": [
+            24.056,
+            49.8327
+          ],
+          "category": "historical",
+          "arrive_at": "14:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein historischer Ort der Ruhe.",
+            "hu": "Egy történelmi, békés hely.",
+            "ro": "Un loc istoric de liniște.",
+            "en": "A historic place of peace."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine Radtour durch Lwiw verbindet prächtige Kirchen mit grünen Hügeln. Von der St.-Georgs-Kathedrale fahren Sie zum Potocki-Palast und weiter ins Zentrum. Nachmittags erwartet Sie der Aufstieg zum Hohen Schlossberg für ein tolles Panorama. Schließlich erreichen Sie den historischen Lychakiv-Friedhof.",
+        "hu": "Lviv kerékpáros felfedezése során a Szent György Katedrálistól indulva a Potocki-palota érintésével érjük el a belvárost. Délután a Magas várhegy panorámája kárpótol a tekerésért. A nap végén a Licsakivi temető történelmi sírkövei között tehetünk egy békés sétát.",
+        "ro": "Un tur cu bicicleta combină catedrale magnifice cu parcuri verzi. De la Catedrala Sf. Gheorghe, pedalați spre Palatul Potocki și Piața Rynok. După-amiaza, urcați pe Dealul Castelului Înalt pentru o panoramă deosebită. Turul se încheie la istoricul Cimitir Lîceakiv.",
+        "en": "A cycling tour through Lviv connects magnificent churches with green hills. Ride from St. George's Cathedral past the Potocki Palace into the bustling center. In the afternoon, head up to the High Castle Hill for a panoramic view, finishing the day at the historic Lychakiv Cemetery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Baczewski Restaurant",
+            "tip": "Probieren Sie traditionelle galizische Küche."
+          },
+          {
+            "name": "Lviv Coffee Manufacture",
+            "tip": "Erleben Sie die berühmte Kaffeekultur der Stadt."
+          },
+          {
+            "name": "Kryivka",
+            "tip": "Ein Themenrestaurant mit historischem Flair."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Baczewski Étterem",
+            "tip": "Kóstolja meg a hagyományos galíciai konyhát."
+          },
+          {
+            "name": "Lviv Kávémanufaktúra",
+            "tip": "Tapasztalja meg a város híres kávékultúráját."
+          },
+          {
+            "name": "Kryivka",
+            "tip": "Történelmi hangulatú tematikus étterem."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul Baczewski",
+            "tip": "Încercați bucătăria tradițională galițiană."
+          },
+          {
+            "name": "Manufactura de Cafea Lviv",
+            "tip": "Experimentați faimoasa cultură a cafelei din oraș."
+          },
+          {
+            "name": "Kryivka",
+            "tip": "Un restaurant tematic cu fler istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Baczewski Restaurant",
+            "tip": "Try traditional Galician cuisine."
+          },
+          {
+            "name": "Lviv Coffee Manufacture",
+            "tip": "Experience the city's famous coffee culture."
+          },
+          {
+            "name": "Kryivka",
+            "tip": "A themed restaurant with historical flair."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hoher Schlossberg",
+            "tip": "Genießen Sie den Sonnenuntergang über der Stadt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Stryiskyi-Park",
+            "tip": "Ein großer, ruhiger Park zum Entspannen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ivan-Franko-Park",
+            "tip": "Der älteste Park der Stadt, perfekt für eine Pause.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Magas várhegy",
+            "tip": "Élvezze a naplementét a város felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sztrijszkij park",
+            "tip": "Nagy, csendes park a pihenéshez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ivan Franko Park",
+            "tip": "A város legrégebbi parkja, tökéletes egy kis szünetre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Castelului Înalt",
+            "tip": "Bucurați-vă de apusul de soare deasupra orașului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Stryiskyi",
+            "tip": "Un parc mare și liniștit pentru relaxare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Ivan Franko",
+            "tip": "Cel mai vechi parc din oraș, perfect pentru o pauză.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "High Castle Hill",
+            "tip": "Enjoy the sunset over the city.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Stryiskyi Park",
+            "tip": "A large, quiet park for relaxation.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ivan Franko Park",
+            "tip": "The oldest park in the city, perfect for a break.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vernissage-Markt",
+            "tip": "Kaufen Sie lokales Kunsthandwerk und Souvenirs."
+          },
+          {
+            "name": "Lviv Handmade Chocolate",
+            "tip": "Köstliche handgemachte Schokolade als Mitbringsel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vernissage Piac",
+            "tip": "Vásároljon helyi kézműves termékeket és ajándékokat."
+          },
+          {
+            "name": "Lviv Kézműves Csokoládé",
+            "tip": "Finom, kézzel készített csokoládé emlékbe."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Vernisaj",
+            "tip": "Cumpărați obiecte de artizanat locale și suveniruri."
+          },
+          {
+            "name": "Ciocolată Manuală Lviv",
+            "tip": "Ciocolată delicioasă făcută manual ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vernissage Market",
+            "tip": "Buy local crafts and souvenirs."
+          },
+          {
+            "name": "Lviv Handmade Chocolate",
+            "tip": "Delicious handmade chocolate as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Radwege im Stryiskyi-Park.",
+          "Vorsicht bei Straßenbahnschienen im Zentrum."
+        ],
+        "hu": [
+          "Használja a kerékpárutakat a Sztrijszkij parkban.",
+          "Vigyázzon a villamossínekkel a belvárosban."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete din Parcul Stryiskyi.",
+          "Atenție la șinele de tramvai din centru."
+        ],
+        "en": [
+          "Use the bike paths in Stryiskyi Park.",
+          "Be careful with tram tracks in the city center."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:12",
+      "total_km": 8.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "St.-Georgs-Kathedrale",
+          "coords": [
+            24.0131,
+            49.8385
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein Meisterwerk des Barock.",
+            "hu": "A barokk mesterműve.",
+            "ro": "O capodoperă a barocului.",
+            "en": "A masterpiece of Baroque."
+          }
+        },
+        {
+          "name": "Potocki-Palast",
+          "coords": [
+            24.0263,
+            49.8378
+          ],
+          "category": "historical",
+          "arrive_at": "10:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto im Innenhof.",
+            "hu": "Készítsen egy fotót a belső udvaron.",
+            "ro": "Faceți o poză în curte.",
+            "en": "Take a photo in the courtyard."
+          }
+        },
+        {
+          "name": "Lychakiv-Friedhof",
+          "coords": [
+            24.056,
+            49.8327
+          ],
+          "category": "historical",
+          "arrive_at": "12:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein historischer Ort der Ruhe.",
+            "hu": "Egy történelmi, békés hely.",
+            "ro": "Un loc istoric de liniște.",
+            "en": "A historic place of peace."
+          }
+        },
+        {
+          "name": "Lwiwer Opernhaus",
+          "coords": [
+            24.0264,
+            49.8439
+          ],
+          "category": "historical",
+          "arrive_at": "13:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Das kulturelle Zentrum der Stadt.",
+            "hu": "A város kulturális központja.",
+            "ro": "Centrul cultural al orașului.",
+            "en": "The cultural center of the city."
+          }
+        },
+        {
+          "name": "Rynok-Platz",
+          "coords": [
+            24.0323,
+            49.8415
+          ],
+          "category": "square",
+          "arrive_at": "15:13",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekt für eine kurze Pause.",
+            "hu": "Tökéletes egy rövid pihenőre.",
+            "ro": "Perfect pentru o scurtă pauză.",
+            "en": "Perfect for a short break."
+          }
+        },
+        {
+          "name": "Lwiwer Rathaus",
+          "coords": [
+            24.0316,
+            49.8414
+          ],
+          "category": "historical",
+          "arrive_at": "15:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besteigen Sie den Turm für eine tolle Aussicht.",
+            "hu": "Mássza meg a tornyot a remek kilátásért.",
+            "ro": "Urcați în turn pentru o priveliște minunată.",
+            "en": "Climb the tower for a great view."
+          }
+        },
+        {
+          "name": "Boim-Kapelle",
+          "coords": [
+            24.0312,
+            49.8407
+          ],
+          "category": "religious",
+          "arrive_at": "17:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die dunkle, reich verzierte Fassade.",
+            "hu": "Csodálja meg a sötét, gazdagon díszített homlokzatot.",
+            "ro": "Admirați fațada întunecată și ornamentată.",
+            "en": "Admire the dark, richly decorated facade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die verschiedenen Viertel von Lwiw. Starten Sie im Westen bei der St.-Georgs-Kathedrale und dem Potocki-Palast. Nachmittags fahren Sie zum Lychakiv-Friedhof. Im Zentrum parken Sie, um das Opernhaus, den Rynok-Platz und das Rathaus entspannt zu Fuß zu erkunden.",
+        "hu": "Autóval kényelmesen felfedezheti Lviv távolabbi nevezetességeit is. Kezdjen a Szent György Katedrálisnál, majd sétáljon át a Potocki-palotához. Ezután vezessen a Licsakivi temetőhöz, végül parkoljon le a központban, ahol gyalogosan fedezheti fel az Operaházat és a Rynok teret.",
+        "ro": "Cu mașina, explorați confortabil diversele cartiere. Începeți în vest, la Catedrala Sf. Gheorghe și Palatul Potocki. Conduceți apoi spre Cimitirul Lîceakiv. După-amiaza, parcați în centru pentru a vizita la pas Opera, Piața Rynok și Primăria.",
+        "en": "Explore Lviv's diverse districts comfortably by car. Start in the west at St. George's Cathedral and the Potocki Palace. Drive to the fascinating Lychakiv Cemetery in the afternoon. Finally, park near the center to explore the Opera House, Rynok Square, and the City Hall on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Baczewski Restaurant",
+            "tip": "Probieren Sie traditionelle galizische Küche."
+          },
+          {
+            "name": "Lviv Coffee Manufacture",
+            "tip": "Erleben Sie die berühmte Kaffeekultur der Stadt."
+          },
+          {
+            "name": "Kryivka",
+            "tip": "Ein Themenrestaurant mit historischem Flair."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Baczewski Étterem",
+            "tip": "Kóstolja meg a hagyományos galíciai konyhát."
+          },
+          {
+            "name": "Lviv Kávémanufaktúra",
+            "tip": "Tapasztalja meg a város híres kávékultúráját."
+          },
+          {
+            "name": "Kryivka",
+            "tip": "Történelmi hangulatú tematikus étterem."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul Baczewski",
+            "tip": "Încercați bucătăria tradițională galițiană."
+          },
+          {
+            "name": "Manufactura de Cafea Lviv",
+            "tip": "Experimentați faimoasa cultură a cafelei din oraș."
+          },
+          {
+            "name": "Kryivka",
+            "tip": "Un restaurant tematic cu fler istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Baczewski Restaurant",
+            "tip": "Try traditional Galician cuisine."
+          },
+          {
+            "name": "Lviv Coffee Manufacture",
+            "tip": "Experience the city's famous coffee culture."
+          },
+          {
+            "name": "Kryivka",
+            "tip": "A themed restaurant with historical flair."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hoher Schlossberg",
+            "tip": "Genießen Sie den Sonnenuntergang über der Stadt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Stryiskyi-Park",
+            "tip": "Ein großer, ruhiger Park zum Entspannen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ivan-Franko-Park",
+            "tip": "Der älteste Park der Stadt, perfekt für eine Pause.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Magas várhegy",
+            "tip": "Élvezze a naplementét a város felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sztrijszkij park",
+            "tip": "Nagy, csendes park a pihenéshez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ivan Franko Park",
+            "tip": "A város legrégebbi parkja, tökéletes egy kis szünetre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Castelului Înalt",
+            "tip": "Bucurați-vă de apusul de soare deasupra orașului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Stryiskyi",
+            "tip": "Un parc mare și liniștit pentru relaxare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Ivan Franko",
+            "tip": "Cel mai vechi parc din oraș, perfect pentru o pauză.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "High Castle Hill",
+            "tip": "Enjoy the sunset over the city.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Stryiskyi Park",
+            "tip": "A large, quiet park for relaxation.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ivan Franko Park",
+            "tip": "The oldest park in the city, perfect for a break.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vernissage-Markt",
+            "tip": "Kaufen Sie lokales Kunsthandwerk und Souvenirs."
+          },
+          {
+            "name": "Lviv Handmade Chocolate",
+            "tip": "Köstliche handgemachte Schokolade als Mitbringsel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vernissage Piac",
+            "tip": "Vásároljon helyi kézműves termékeket és ajándékokat."
+          },
+          {
+            "name": "Lviv Kézműves Csokoládé",
+            "tip": "Finom, kézzel készített csokoládé emlékbe."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Vernisaj",
+            "tip": "Cumpărați obiecte de artizanat locale și suveniruri."
+          },
+          {
+            "name": "Ciocolată Manuală Lviv",
+            "tip": "Ciocolată delicioasă făcută manual ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vernissage Market",
+            "tip": "Buy local crafts and souvenirs."
+          },
+          {
+            "name": "Lviv Handmade Chocolate",
+            "tip": "Delicious handmade chocolate as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie am Rand der Altstadt, da das Zentrum autofrei ist.",
+          "Achten Sie auf Einbahnstraßen."
+        ],
+        "hu": [
+          "Parkoljon az óváros szélén, mivel a központ autómentes övezet.",
+          "Figyeljen az egyirányú utcákra."
+        ],
+        "ro": [
+          "Parcați la marginea orașului vechi, centrul este pietonal.",
+          "Atenție la străzile cu sens unic."
+        ],
+        "en": [
+          "Park on the edge of the old town as the center is pedestrian-only.",
+          "Pay attention to one-way streets."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "19:13",
+      "total_km": 6.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "St.-Georgs-Kathedrale",
+          "coords": [
+            24.0131,
+            49.8385
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein Meisterwerk des Barock.",
+            "hu": "A barokk mesterműve.",
+            "ro": "O capodoperă a barocului.",
+            "en": "A masterpiece of Baroque."
+          }
+        },
+        {
+          "name": "Potocki-Palast",
+          "coords": [
+            24.0263,
+            49.8378
+          ],
+          "category": "historical",
+          "arrive_at": "10:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto im Innenhof.",
+            "hu": "Készítsen egy fotót a belső udvaron.",
+            "ro": "Faceți o poză în curte.",
+            "en": "Take a photo in the courtyard."
+          }
+        },
+        {
+          "name": "Lwiwer Opernhaus",
+          "coords": [
+            24.0264,
+            49.8439
+          ],
+          "category": "historical",
+          "arrive_at": "12:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Das kulturelle Zentrum der Stadt.",
+            "hu": "A város kulturális központja.",
+            "ro": "Centrul cultural al orașului.",
+            "en": "The cultural center of the city."
+          }
+        },
+        {
+          "name": "Rynok-Platz",
+          "coords": [
+            24.0323,
+            49.8415
+          ],
+          "category": "square",
+          "arrive_at": "13:43",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Herz der Altstadt.",
+            "hu": "Az óváros szíve.",
+            "ro": "Inima orașului vechi.",
+            "en": "The heart of the old town."
+          }
+        },
+        {
+          "name": "Armenische Kathedrale",
+          "coords": [
+            24.0315,
+            49.8431
+          ],
+          "category": "cathedral",
+          "arrive_at": "14:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die alten Fresken.",
+            "hu": "Fedezze fel a régi freskókat.",
+            "ro": "Descoperiți frescele vechi.",
+            "en": "Discover the ancient frescoes."
+          }
+        },
+        {
+          "name": "Apothekenmuseum",
+          "coords": [
+            24.0322,
+            49.8422
+          ],
+          "category": "museum",
+          "arrive_at": "15:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Sehen Sie die historischen Alchemie-Räume.",
+            "hu": "Nézze meg a történelmi alkimista szobákat.",
+            "ro": "Vedeți camerele istorice de alchimie.",
+            "en": "See the historic alchemy rooms."
+          }
+        },
+        {
+          "name": "Lychakiv-Friedhof",
+          "coords": [
+            24.056,
+            49.8327
+          ],
+          "category": "historical",
+          "arrive_at": "17:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein historischer Ort der Ruhe.",
+            "hu": "Egy történelmi, békés hely.",
+            "ro": "Un loc istoric de liniște.",
+            "en": "A historic place of peace."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Straßenbahnen und Busse, um die Stadt stressfrei zu erleben. Nach dem Besuch der St.-Georgs-Kathedrale bringt Sie die Bahn ins Zentrum zum Opernhaus und Rynok-Platz. Erkunden Sie die Altstadt zu Fuß, bevor Sie mit dem Nahverkehr zum historischen Lychakiv-Friedhof fahren.",
+        "hu": "A villamosok és buszok segítségével könnyedén bejárhatja a várost. A Szent György Katedrális megtekintése után utazzon a központba, az Operaházhoz és a Rynok térre. Fedezze fel az óvárost gyalog, majd zárja a napot a híres Licsakivi temetőben, ahová tömegközlekedéssel juthat el.",
+        "ro": "Folosiți tramvaiele pentru a explora orașul fără stres. După Catedrala Sf. Gheorghe, mergeți în centru spre Opera și Piața Rynok. Explorați orașul vechi la pas, inclusiv Catedrala Armeană, înainte de a lua transportul public spre Cimitirul Lîceakiv.",
+        "en": "Use trams and buses to experience the city stress-free. After visiting St. George's Cathedral, head to the center to see the Opera House and Rynok Square. Explore the old town on foot, including the Armenian Cathedral, before taking public transit to the historic Lychakiv Cemetery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Baczewski Restaurant",
+            "tip": "Probieren Sie traditionelle galizische Küche."
+          },
+          {
+            "name": "Lviv Coffee Manufacture",
+            "tip": "Erleben Sie die berühmte Kaffeekultur der Stadt."
+          },
+          {
+            "name": "Kryivka",
+            "tip": "Ein Themenrestaurant mit historischem Flair."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Baczewski Étterem",
+            "tip": "Kóstolja meg a hagyományos galíciai konyhát."
+          },
+          {
+            "name": "Lviv Kávémanufaktúra",
+            "tip": "Tapasztalja meg a város híres kávékultúráját."
+          },
+          {
+            "name": "Kryivka",
+            "tip": "Történelmi hangulatú tematikus étterem."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul Baczewski",
+            "tip": "Încercați bucătăria tradițională galițiană."
+          },
+          {
+            "name": "Manufactura de Cafea Lviv",
+            "tip": "Experimentați faimoasa cultură a cafelei din oraș."
+          },
+          {
+            "name": "Kryivka",
+            "tip": "Un restaurant tematic cu fler istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Baczewski Restaurant",
+            "tip": "Try traditional Galician cuisine."
+          },
+          {
+            "name": "Lviv Coffee Manufacture",
+            "tip": "Experience the city's famous coffee culture."
+          },
+          {
+            "name": "Kryivka",
+            "tip": "A themed restaurant with historical flair."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hoher Schlossberg",
+            "tip": "Genießen Sie den Sonnenuntergang über der Stadt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Stryiskyi-Park",
+            "tip": "Ein großer, ruhiger Park zum Entspannen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ivan-Franko-Park",
+            "tip": "Der älteste Park der Stadt, perfekt für eine Pause.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Magas várhegy",
+            "tip": "Élvezze a naplementét a város felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sztrijszkij park",
+            "tip": "Nagy, csendes park a pihenéshez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ivan Franko Park",
+            "tip": "A város legrégebbi parkja, tökéletes egy kis szünetre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Castelului Înalt",
+            "tip": "Bucurați-vă de apusul de soare deasupra orașului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Stryiskyi",
+            "tip": "Un parc mare și liniștit pentru relaxare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Ivan Franko",
+            "tip": "Cel mai vechi parc din oraș, perfect pentru o pauză.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "High Castle Hill",
+            "tip": "Enjoy the sunset over the city.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Stryiskyi Park",
+            "tip": "A large, quiet park for relaxation.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ivan Franko Park",
+            "tip": "The oldest park in the city, perfect for a break.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vernissage-Markt",
+            "tip": "Kaufen Sie lokales Kunsthandwerk und Souvenirs."
+          },
+          {
+            "name": "Lviv Handmade Chocolate",
+            "tip": "Köstliche handgemachte Schokolade als Mitbringsel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vernissage Piac",
+            "tip": "Vásároljon helyi kézműves termékeket és ajándékokat."
+          },
+          {
+            "name": "Lviv Kézműves Csokoládé",
+            "tip": "Finom, kézzel készített csokoládé emlékbe."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Vernisaj",
+            "tip": "Cumpărați obiecte de artizanat locale și suveniruri."
+          },
+          {
+            "name": "Ciocolată Manuală Lviv",
+            "tip": "Ciocolată delicioasă făcută manual ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vernissage Market",
+            "tip": "Buy local crafts and souvenirs."
+          },
+          {
+            "name": "Lviv Handmade Chocolate",
+            "tip": "Delicious handmade chocolate as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket für die Straßenbahn.",
+          "Entwerten Sie das Ticket direkt nach dem Einsteigen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a villamosra.",
+          "Felszállás után azonnal érvényesítse a jegyét."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru tramvai.",
+          "Validați biletul imediat după urcare."
+        ],
+        "en": [
+          "Buy a day ticket for the tram.",
+          "Validate your ticket immediately upon boarding."
+        ]
+      }
+    }
+  }
+}

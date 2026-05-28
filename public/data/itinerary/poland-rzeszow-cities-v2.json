@@ -1,0 +1,1580 @@
+{
+  "city_id": "poland-rzeszow-cities-v2",
+  "anchor": {
+    "name": "Reichshof",
+    "coords": [
+      21.999,
+      50.0413
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.1,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér",
+            "ro": "Piața Centrală",
+            "en": "Market Square"
+          },
+          "coords": [
+            22.0041,
+            50.0375
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Kaffee in einem der vielen Cafés rund um den Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér körüli számos kávézó egyikében!",
+            "ro": "Începeți ziua cu o cafea la una dintre multele cafenele din jurul pieței.",
+            "en": "Start your day with a coffee at one of the many cafes surrounding the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            22.0038,
+            50.0378
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:37",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur und halten Sie nach dem Trompeter Ausschau, der stündlich spielt.",
+            "hu": "Csodálja meg az építészetet, és figyelje a trombitást, aki minden órában játszik!",
+            "ro": "Admirați arhitectura și fiți atenți la trompetistul care cântă la fiecare oră.",
+            "en": "Admire the architecture and look out for the trumpeter who plays every hour."
+          }
+        },
+        {
+          "name": {
+            "de": "Unterirdische Touristenroute",
+            "hu": "Földalatti Turistaútvonal",
+            "ro": "Traseul Turistic Subteran",
+            "en": "Underground Tourist Route"
+          },
+          "coords": [
+            22.0045,
+            50.0369
+          ],
+          "category": "museums",
+          "arrive_at": "10:14",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Tragen Sie bequeme Schuhe; die Gänge können uneben sein.",
+            "hu": "Viseljen kényelmes cipőt, a járatok egyenetlenek lehetnek!",
+            "ro": "Purtați încălțăminte confortabilă; coridoarele pot fi denivelate.",
+            "en": "Wear comfortable shoes; the passages can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche St. Stanislaus",
+            "hu": "Szt. Stanislaus plébániatemplom",
+            "ro": "Biserica parohială Sf. Stanislaus",
+            "en": "Parish Church of St. Stanislaus"
+          },
+          "coords": [
+            22.008,
+            50.0365
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:02",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Innere, um die beeindruckenden Barockaltäre zu sehen.",
+            "hu": "Nézze meg a belsejét, hogy megcsodálhassa a lenyűgöző barokk oltárokat!",
+            "ro": "Vizitați interiorul pentru a vedea altarele baroce impresionante.",
+            "en": "Visit the interior to see the impressive baroque altars."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Rzeszów",
+            "hu": "Rzeszówi vár",
+            "ro": "Castelul Rzeszów",
+            "en": "Rzeszów Castle"
+          },
+          "coords": [
+            22.005,
+            50.032
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Das Schloss beherbergt heute ein Gericht, aber der Innenhof ist oft zugänglich.",
+            "hu": "A kastély ma bíróságnak ad otthont, de az udvara gyakran látogatható.",
+            "ro": "Castelul găzduiește acum o instanță, dar curtea este adesea accesibilă.",
+            "en": "The castle now houses a court, but its courtyard is often accessible."
+          }
+        },
+        {
+          "name": {
+            "de": "Sommerpalast der Lubomirskis",
+            "hu": "Lubomirski Nyári Palota",
+            "ro": "Palatul de vară Lubomirski",
+            "en": "Lubomirski Summer Palace"
+          },
+          "coords": [
+            22.006,
+            50.0315
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:22",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein schöner Ort für einen kurzen Spaziergang im umliegenden Park.",
+            "hu": "Szép hely egy rövid sétára a környező parkban.",
+            "ro": "Un loc frumos pentru o scurtă plimbare în parcul înconjurător.",
+            "en": "A beautiful spot for a short walk in the surrounding park."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der Revolutionären Tat",
+            "hu": "A Forradalmi Tett Emlékműve",
+            "ro": "Monumentul Faptei Revoluționare",
+            "en": "Monument to the Revolutionary Act"
+          },
+          "coords": [
+            21.9995,
+            50.034
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:20",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Ein kontroverses, aber ikonisches Wahrzeichen der Stadt aus der kommunistischen Ära.",
+            "hu": "A város egy ellentmondásos, de ikonikus, kommunista korszakbeli jelképe.",
+            "ro": "Un reper controversat, dar iconic, al orașului din epoca comunistă.",
+            "en": "A controversial but iconic city landmark from the communist era."
+          }
+        },
+        {
+          "name": {
+            "de": "Wanda-Siemaszkowa-Theater",
+            "hu": "Wanda Siemaszkowa Színház",
+            "ro": "Teatrul Wanda Siemaszkowa",
+            "en": "Wanda Siemaszkowa Theatre"
+          },
+          "coords": [
+            22.0001,
+            50.036
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:07",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Überprüfen Sie den Spielplan, vielleicht läuft eine interessante Vorstellung.",
+            "hu": "Ellenőrizze a műsort, talán éppen egy érdekes előadás megy.",
+            "ro": "Verificați programul, s-ar putea să ruleze un spectacol interesant.",
+            "en": "Check the schedule, you might catch an interesting performance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Rzeszów beginnt auf dem belebten Marktplatz, dem Herzen der Altstadt. Am Vormittag tauchen Sie in die Geschichte ein, indem Sie die geheimnisvollen Gänge der Unterirdischen Route erkunden. Gegen Mittag führt Sie Ihr Weg zum Schloss Rzeszów und dem benachbarten Sommerpalast, Zeugen der aristokratischen Vergangenheit der Stadt. Der Nachmittag ist moderneren, aber ebenso bedeutenden Wahrzeichen gewidmet, wie dem Denkmal der Revolutionären Tat. Der Abend klingt perfekt bei einem herzhaften polnischen Abendessen aus, bei dem Sie die lokalen Pierogi probieren.",
+        "hu": "Rzeszówi napja a nyüzsgő Piactéren, az óváros szívében kezdődik. Délelőtt a Földalatti Útvonal titokzatos folyosóinak felfedezésével merül el a történelemben. Dél körül útja a Rzeszówi várhoz és a szomszédos nyári palotához vezet, a város arisztokrata múltjának tanúihoz. A délután modernebb, de nem kevésbé jelentős látnivalóknak van szentelve, mint például a Forradalmi Tett Emlékműve. Az este tökéletesen zárul egy kiadós lengyel vacsorával, ahol megkóstolhatja a helyi pierogit.",
+        "ro": "Ziua dvs. în Rzeszów începe în Piața plină de viață, inima orașului vechi. Dimineața vă scufundați în istorie explorând coridoarele misterioase ale Traseului Subteran. În jurul prânzului, drumul vă duce la Castelul Rzeszów și la palatul de vară adiacent, martori ai trecutului aristocratic al orașului. După-amiaza este dedicată unor repere mai moderne, dar la fel de semnificative, precum Monumentul Faptei Revoluționare. Seara se încheie perfect cu o cină poloneză copioasă, degustând pierogi locali.",
+        "en": "Your day in Rzeszów begins in the bustling Market Square, the heart of the old town. In the morning, you'll dive into history by exploring the mysterious corridors of the Underground Route. Around noon, your path leads you to Rzeszów Castle and the adjacent summer palace, witnesses to the city's aristocratic past. The afternoon is dedicated to more modern but equally significant landmarks, such as the Monument to the Revolutionary Act. The evening concludes perfectly with a hearty Polish dinner, sampling the local pierogi."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pierogi",
+            "tip": "Probieren Sie die traditionellen gefüllten Teigtaschen, besonders die 'Ruskie' mit Kartoffeln und Käse."
+          },
+          {
+            "name": "Proziaki",
+            "tip": "Ein lokales Sodabrot, oft mit Butter und Knoblauch serviert."
+          },
+          {
+            "name": "Stary Browar Rzeszowski",
+            "tip": "Eine Brauerei mit Restaurant, die lokale Gerichte und hauseigenes Bier anbietet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pierogi",
+            "tip": "Kóstolja meg a hagyományos töltött táskákat, különösen a 'ruskie'-t burgonyával és sajttal."
+          },
+          {
+            "name": "Proziaki",
+            "tip": "Helyi szódás kenyér, gyakran vajjal és fokhagymával tálalva."
+          },
+          {
+            "name": "Stary Browar Rzeszowski",
+            "tip": "Sörfőzde-étterem, amely helyi ételeket és saját főzésű sört kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierogi",
+            "tip": "Încercați găluștele umplute tradiționale, în special 'Ruskie' cu cartofi și brânză."
+          },
+          {
+            "name": "Proziaki",
+            "tip": "O pâine locală cu bicarbonat de sodiu, adesea servită cu unt și usturoi."
+          },
+          {
+            "name": "Stary Browar Rzeszowski",
+            "tip": "O berărie-restaurant care servește mâncăruri locale și bere de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierogi",
+            "tip": "Try the traditional filled dumplings, especially the 'Ruskie' with potatoes and cheese."
+          },
+          {
+            "name": "Proziaki",
+            "tip": "A local soda bread, often served with butter and garlic."
+          },
+          {
+            "name": "Stary Browar Rzeszowski",
+            "tip": "A brewery-restaurant serving local dishes and home-brewed beer."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lisza Góra",
+            "tip": "Ein kleiner Hügel etwas außerhalb des Zentrums mit schöner Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Park der Jedności",
+            "tip": "Ein ruhiger Park zum Entspannen und Spazierengehen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer der Wisłok",
+            "tip": "Finden Sie eine Bank am Flussufer und beobachten Sie das Wasser.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lisza Góra",
+            "tip": "Egy kis domb a központtól kicsit távolabb, szép kilátással.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jedności Park",
+            "tip": "Csendes park a pihenéshez és sétához.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Wisłok folyó partja",
+            "tip": "Keressen egy padot a folyóparton, és nézze a vizet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lisza Góra",
+            "tip": "O colină mică chiar în afara centrului, cu o priveliște frumoasă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Jedności",
+            "tip": "Un parc liniștit pentru relaxare și plimbări.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malurile râului Wisłok",
+            "tip": "Găsiți o bancă pe malul râului și priviți apa.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lisza Góra",
+            "tip": "A small hill just outside the center with a nice view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jedności Park",
+            "tip": "A quiet park for relaxing and strolling.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the Wisłok River",
+            "tip": "Find a bench on the riverbank and watch the water.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Galeria Rzeszów",
+            "tip": "Das größte Einkaufszentrum der Region für alle Ihre Bedürfnisse."
+          },
+          {
+            "name": "3 Maja Straße",
+            "tip": "Eine der Haupteinkaufsstraßen mit vielen Boutiquen und Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Galeria Rzeszów",
+            "tip": "A régió legnagyobb bevásárlóközpontja minden igényt kielégít."
+          },
+          {
+            "name": "3 Maja utca",
+            "tip": "Az egyik fő bevásárlóutca számos butikkal és üzlettel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galeria Rzeszów",
+            "tip": "Cel mai mare centru comercial din regiune pentru toate nevoile dvs."
+          },
+          {
+            "name": "Strada 3 Maja",
+            "tip": "Una dintre principalele străzi comerciale, cu multe buticuri și magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Galeria Rzeszów",
+            "tip": "The largest shopping mall in the region for all your needs."
+          },
+          {
+            "name": "3 Maja Street",
+            "tip": "One of the main shopping streets with many boutiques and shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt ist kompakt und lässt sich am besten zu Fuß erkunden.",
+          "Tragen Sie bequeme Schuhe, da einige Straßen Kopfsteinpflaster haben.",
+          "Viele Restaurants bieten mittags günstige 'Zestaw Obiadowy' (Tagesmenüs) an.",
+          "Achten Sie auf die vielen kleinen Skulpturen, die in der ganzen Stadt verteilt sind."
+        ],
+        "hu": [
+          "Az óváros kompakt és a legjobb gyalog felfedezni.",
+          "Viseljen kényelmes cipőt, mivel néhány utca macskaköves.",
+          "Sok étterem kínál olcsó 'Zestaw Obiadowy'-t (napi menüt) ebédidőben.",
+          "Figyeljen a sok kis szoborra, amelyek az egész városban elszórva találhatók."
+        ],
+        "ro": [
+          "Orașul vechi este compact și cel mai bine explorat pe jos.",
+          "Purtați încălțăminte confortabilă, deoarece unele străzi sunt pavate cu piatră cubică.",
+          "Multe restaurante oferă la prânz meniuri ieftine 'Zestaw Obiadowy' (meniul zilei).",
+          "Fiți atenți la numeroasele sculpturi mici răspândite prin oraș."
+        ],
+        "en": [
+          "The old town is compact and best explored on foot.",
+          "Wear comfortable shoes as some streets are cobblestoned.",
+          "Many restaurants offer affordable 'Zestaw Obiadowy' (lunch sets) at noon.",
+          "Look out for the many small sculptures scattered throughout the city."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:22",
+      "total_km": 6.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér",
+            "ro": "Piața Centrală",
+            "en": "Market Square"
+          },
+          "coords": [
+            22.0041,
+            50.0375
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie den Platz erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt felfedezné a teret!",
+            "ro": "Asigurați-vă bicicleta înainte de a explora piața.",
+            "en": "Lock your bike securely before exploring the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            22.0038,
+            50.0378
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:26",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein schneller Fotostopp, das Gebäude ist vom Platz aus perfekt sichtbar.",
+            "hu": "Egy gyors fotómegálló, az épület tökéletesen látható a térről.",
+            "ro": "O oprire rapidă pentru fotografii, clădirea este perfect vizibilă din piață.",
+            "en": "A quick photo stop, the building is perfectly visible from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Unterirdische Touristenroute",
+            "hu": "Földalatti Turistaútvonal",
+            "ro": "Traseul Turistic Subteran",
+            "en": "Underground Tourist Route"
+          },
+          "coords": [
+            22.0045,
+            50.0369
+          ],
+          "category": "museums",
+          "arrive_at": "09:50",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Sie müssen Ihr Fahrrad draußen lassen, aber es ist eine Reise in die Vergangenheit wert.",
+            "hu": "A kerékpárt kint kell hagynia, de megéri az utazást a múltba.",
+            "ro": "Va trebui să lăsați bicicleta afară, dar merită călătoria în trecut.",
+            "en": "You'll have to leave your bike outside, but it's worth the trip back in time."
+          }
+        },
+        {
+          "name": {
+            "de": "Wanda-Siemaszkowa-Theater",
+            "hu": "Wanda Siemaszkowa Színház",
+            "ro": "Teatrul Wanda Siemaszkowa",
+            "en": "Wanda Siemaszkowa Theatre"
+          },
+          "coords": [
+            22.0001,
+            50.036
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:36",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Das beeindruckende Gebäude liegt auf dem Weg zum Denkmal.",
+            "hu": "Az impozáns épület az emlékmű felé vezető úton található.",
+            "ro": "Clădirea impresionantă se află în drum spre monument.",
+            "en": "The impressive building is on the way to the monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der Revolutionären Tat",
+            "hu": "A Forradalmi Tett Emlékműve",
+            "ro": "Monumentul Faptei Revoluționare",
+            "en": "Monument to the Revolutionary Act"
+          },
+          "coords": [
+            21.9995,
+            50.034
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:00",
+          "stay_min": 15,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein Muss für Fotografen und Geschichtsinteressierte der Moderne.",
+            "hu": "Kötelező darab fotósoknak és a modern történelem iránt érdeklődőknek.",
+            "ro": "O vizită obligatorie pentru fotografi și pasionații de istorie modernă.",
+            "en": "A must-see for photographers and modern history enthusiasts."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Rzeszów",
+            "hu": "Rzeszówi vár",
+            "ro": "Castelul Rzeszów",
+            "en": "Rzeszów Castle"
+          },
+          "coords": [
+            22.005,
+            50.032
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:27",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause im Park rund um das Schloss.",
+            "hu": "Tartson egy szünetet a kastély körüli parkban!",
+            "ro": "Luați o pauză în parcul din jurul castelului.",
+            "en": "Take a break in the park surrounding the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Sommerpalast der Lubomirskis",
+            "hu": "Lubomirski Nyári Palota",
+            "ro": "Palatul de vară Lubomirski",
+            "en": "Lubomirski Summer Palace"
+          },
+          "coords": [
+            22.006,
+            50.0315
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:28",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein eleganter Anblick, direkt neben dem Schloss gelegen.",
+            "hu": "Elegáns látvány, közvetlenül a kastély mellett található.",
+            "ro": "O priveliște elegantă, situată chiar lângă castel.",
+            "en": "An elegant sight, located right next to the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche St. Stanislaus",
+            "hu": "Szt. Stanislaus plébániatemplom",
+            "ro": "Biserica parohială Sf. Stanislaus",
+            "en": "Parish Church of St. Stanislaus"
+          },
+          "coords": [
+            22.008,
+            50.0365
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:10",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Der letzte Halt des Tages, bevor Sie für ein spätes Mittagessen in die Altstadt zurückkehren.",
+            "hu": "A nap utolsó állomása, mielőtt visszatérne az óvárosba egy késői ebédre.",
+            "ro": "Ultima oprire a zilei înainte de a vă întoarce în orașul vechi pentru un prânz târziu.",
+            "en": "The last stop of the day before heading back to the old town for a late lunch."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad beginnt Ihr Tag in Rzeszów auf dem historischen Marktplatz. Von dort aus radeln Sie zu den wichtigsten Sehenswürdigkeiten der Innenstadt. Am Vormittag steht eine faszinierende Tour durch die Unterirdische Route auf dem Programm. Gegen Mittag führt Sie Ihre Route zum modernen Denkmal der Revolutionären Tat und dann weiter zum imposanten Schlosskomplex. Der Nachmittag bietet Zeit, die barocke Pracht der Pfarrkirche zu bewundern, bevor Sie den Tag bei einem entspannten Abendessen ausklingen lassen.",
+        "hu": "Kerékpáros napja Rzeszówban a történelmi Piactéren kezdődik, ahonnan a belváros fő látnivalóihoz teker. A délelőtt programja egy lenyűgöző túra a Földalatti Útvonalon. Dél körül az útvonal a modern Forradalmi Tett Emlékművéhez, majd tovább az impozáns várkomplexumhoz vezet. A délután időt kínál a plébániatemplom barokk pompájának megcsodálására, mielőtt egy pihentető vacsorával zárná a napot.",
+        "ro": "Ziua dvs. pe bicicletă în Rzeszów începe în piața istorică, de unde pedalați spre principalele atracții din centrul orașului. Dimineața include un tur fascinant al Traseului Subteran. În jurul prânzului, traseul vă duce la modernul Monument al Faptei Revoluționare și apoi la complexul impunător al castelului. După-amiaza oferă timp pentru a admira splendoarea barocă a bisericii parohiale înainte de a încheia ziua cu o cină relaxantă.",
+        "en": "Your cycling day in Rzeszów starts at the historic Market Square, from where you'll pedal to the main city center attractions. The morning includes a fascinating tour of the Underground Route. Around noon, your route takes you to the modern Monument to the Revolutionary Act and then on to the imposing castle complex. The afternoon provides time to admire the baroque splendor of the parish church before you end the day with a relaxing dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pierogi",
+            "tip": "Probieren Sie die traditionellen gefüllten Teigtaschen, besonders die 'Ruskie' mit Kartoffeln und Käse."
+          },
+          {
+            "name": "Proziaki",
+            "tip": "Ein lokales Sodabrot, oft mit Butter und Knoblauch serviert."
+          },
+          {
+            "name": "Stary Browar Rzeszowski",
+            "tip": "Eine Brauerei mit Restaurant, die lokale Gerichte und hauseigenes Bier anbietet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pierogi",
+            "tip": "Kóstolja meg a hagyományos töltött táskákat, különösen a 'ruskie'-t burgonyával és sajttal."
+          },
+          {
+            "name": "Proziaki",
+            "tip": "Helyi szódás kenyér, gyakran vajjal és fokhagymával tálalva."
+          },
+          {
+            "name": "Stary Browar Rzeszowski",
+            "tip": "Sörfőzde-étterem, amely helyi ételeket és saját főzésű sört kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierogi",
+            "tip": "Încercați găluștele umplute tradiționale, în special 'Ruskie' cu cartofi și brânză."
+          },
+          {
+            "name": "Proziaki",
+            "tip": "O pâine locală cu bicarbonat de sodiu, adesea servită cu unt și usturoi."
+          },
+          {
+            "name": "Stary Browar Rzeszowski",
+            "tip": "O berărie-restaurant care servește mâncăruri locale și bere de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierogi",
+            "tip": "Try the traditional filled dumplings, especially the 'Ruskie' with potatoes and cheese."
+          },
+          {
+            "name": "Proziaki",
+            "tip": "A local soda bread, often served with butter and garlic."
+          },
+          {
+            "name": "Stary Browar Rzeszowski",
+            "tip": "A brewery-restaurant serving local dishes and home-brewed beer."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lisza Góra",
+            "tip": "Ein kleiner Hügel etwas außerhalb des Zentrums mit schöner Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Park der Jedności",
+            "tip": "Ein ruhiger Park zum Entspannen und Spazierengehen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer der Wisłok",
+            "tip": "Finden Sie eine Bank am Flussufer und beobachten Sie das Wasser.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lisza Góra",
+            "tip": "Egy kis domb a központtól kicsit távolabb, szép kilátással.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jedności Park",
+            "tip": "Csendes park a pihenéshez és sétához.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Wisłok folyó partja",
+            "tip": "Keressen egy padot a folyóparton, és nézze a vizet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lisza Góra",
+            "tip": "O colină mică chiar în afara centrului, cu o priveliște frumoasă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Jedności",
+            "tip": "Un parc liniștit pentru relaxare și plimbări.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malurile râului Wisłok",
+            "tip": "Găsiți o bancă pe malul râului și priviți apa.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lisza Góra",
+            "tip": "A small hill just outside the center with a nice view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jedności Park",
+            "tip": "A quiet park for relaxing and strolling.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the Wisłok River",
+            "tip": "Find a bench on the riverbank and watch the water.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Galeria Rzeszów",
+            "tip": "Das größte Einkaufszentrum der Region für alle Ihre Bedürfnisse."
+          },
+          {
+            "name": "3 Maja Straße",
+            "tip": "Eine der Haupteinkaufsstraßen mit vielen Boutiquen und Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Galeria Rzeszów",
+            "tip": "A régió legnagyobb bevásárlóközpontja minden igényt kielégít."
+          },
+          {
+            "name": "3 Maja utca",
+            "tip": "Az egyik fő bevásárlóutca számos butikkal és üzlettel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galeria Rzeszów",
+            "tip": "Cel mai mare centru comercial din regiune pentru toate nevoile dvs."
+          },
+          {
+            "name": "Strada 3 Maja",
+            "tip": "Una dintre principalele străzi comerciale, cu multe buticuri și magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Galeria Rzeszów",
+            "tip": "The largest shopping mall in the region for all your needs."
+          },
+          {
+            "name": "3 Maja Street",
+            "tip": "One of the main shopping streets with many boutiques and shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Rzeszów ist relativ fahrradfreundlich, besonders entlang des Flusses Wisłok.",
+          "Nutzen Sie Fahrradständer in der Nähe von Sehenswürdigkeiten.",
+          "Seien Sie auf den Plätzen und in den Fußgängerzonen vorsichtig und steigen Sie eventuell ab.",
+          "Einige kleinere Straßen können Kopfsteinpflaster haben, was das Fahren erschwert."
+        ],
+        "hu": [
+          "Rzeszów viszonylag kerékpárbarát, különösen a Wisłok folyó mentén.",
+          "Használja a látnivalók közelében lévő kerékpártárolókat.",
+          "Legyen óvatos a tereken és a sétálóutcákban, és szükség esetén szálljon le.",
+          "Néhány kisebb utca macskaköves lehet, ami megnehezíti a kerékpározást."
+        ],
+        "ro": [
+          "Rzeszów este relativ prietenos cu bicicletele, mai ales de-a lungul râului Wisłok.",
+          "Folosiți suporturile pentru biciclete din apropierea atracțiilor turistice.",
+          "Fiți precauți în piețe și zone pietonale, s-ar putea să fie nevoie să descălecați.",
+          "Unele străzi mai mici pot avea piatră cubică, ceea ce face pedalatul mai dificil."
+        ],
+        "en": [
+          "Rzeszów is relatively bike-friendly, especially along the Wisłok river.",
+          "Use bike racks near attractions.",
+          "Be cautious in squares and pedestrian areas; you might need to dismount.",
+          "Some smaller streets may have cobblestones, which makes riding more difficult."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:47",
+      "total_km": 5.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Altstadt (Cluster A)",
+            "hu": "Parkoló Óváros (A Klaszter)",
+            "ro": "Parcare Centrul Vechi (Cluster A)",
+            "en": "Old Town Parking (Cluster A)"
+          },
+          "coords": [
+            22.007,
+            50.038
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie den ersten Teil der Stadt zu Fuß.",
+            "hu": "Parkoljon itt, és fedezze fel a város első részét gyalog.",
+            "ro": "Parcați aici și explorați prima parte a orașului pe jos.",
+            "en": "Park here and explore the first part of the city on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér",
+            "ro": "Piața Centrală",
+            "en": "Market Square"
+          },
+          "coords": [
+            22.0041,
+            50.0375
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:06",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die Atmosphäre, bevor Sie in die unterirdischen Gänge eintauchen.",
+            "hu": "Élvezze a hangulatot, mielőtt lemerülne a földalatti járatokba.",
+            "ro": "Bucurați-vă de atmosferă înainte de a vă aventura în pasajele subterane.",
+            "en": "Enjoy the atmosphere before venturing into the underground passages."
+          }
+        },
+        {
+          "name": {
+            "de": "Unterirdische Touristenroute",
+            "hu": "Földalatti Turistaútvonal",
+            "ro": "Traseul Turistic Subteran",
+            "en": "Underground Tourist Route"
+          },
+          "coords": [
+            22.0045,
+            50.0369
+          ],
+          "category": "museums",
+          "arrive_at": "09:38",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Eine kühle Pause an einem heißen Tag und eine faszinierende Geschichtsstunde.",
+            "hu": "Hűsítő szünet egy forró napon és egy lenyűgöző történelemóra.",
+            "ro": "O pauză răcoroasă într-o zi fierbinte și o lecție fascinantă de istorie.",
+            "en": "A cool break on a hot day and a fascinating history lesson."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche St. Stanislaus",
+            "hu": "Szt. Stanislaus plébániatemplom",
+            "ro": "Biserica parohială Sf. Stanislaus",
+            "en": "Parish Church of St. Stanislaus"
+          },
+          "coords": [
+            22.008,
+            50.0365
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:24",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die reiche Innenausstattung auf dem Weg zurück zum Auto.",
+            "hu": "Csodálja meg a gazdag belső teret a visszaúton az autóhoz!",
+            "ro": "Admirați interiorul bogat în drumul de întoarcere la mașină.",
+            "en": "Admire the rich interior on your way back to the car."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Schloss (Cluster B)",
+            "hu": "Parkoló Vár (B Klaszter)",
+            "ro": "Parcare Castel (Cluster B)",
+            "en": "Castle Parking (Cluster B)"
+          },
+          "coords": [
+            22.0055,
+            50.0325
+          ],
+          "category": "transport",
+          "arrive_at": "12:12",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Der nächste Halt für den Schloss- und Palastkomplex.",
+            "hu": "A következő megálló a vár- és palotakomplexumhoz.",
+            "ro": "Următoarea oprire pentru complexul castelului și palatului.",
+            "en": "The next stop for the castle and palace complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Rzeszów",
+            "hu": "Rzeszówi vár",
+            "ro": "Castelul Rzeszów",
+            "en": "Rzeszów Castle"
+          },
+          "coords": [
+            22.005,
+            50.032
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:14",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ideal für die Mittagszeit, um im Park zu entspannen oder zu Mittag zu essen.",
+            "hu": "Ideális ebédidőben, hogy pihenjen a parkban vagy ebédeljen.",
+            "ro": "Ideal pentru prânz, pentru a vă relaxa în parc sau a lua masa.",
+            "en": "Ideal for lunchtime to relax in the park or have lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der Revolutionären Tat (Cluster C)",
+            "hu": "A Forradalmi Tett Emlékműve (C Klaszter)",
+            "ro": "Monumentul Faptei Revoluționare (Cluster C)",
+            "en": "Monument to the Revolutionary Act (Cluster C)"
+          },
+          "coords": [
+            21.9995,
+            50.034
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:42",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe. Von hier aus ist auch das Theater zu Fuß erreichbar. Ein guter Ort für ein spätes Mittagessen.",
+            "hu": "Parkoljon a közelben. Innen a színház is gyalogosan elérhető. Jó hely egy késői ebédhez.",
+            "ro": "Parcați în apropiere. De aici, teatrul este de asemenea accesibil pe jos. Un loc bun pentru un prânz târziu.",
+            "en": "Park nearby. The theatre is also within walking distance from here. A good spot for a late lunch."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Rzeszów ist auf Effizienz ausgelegt. Sie parken zunächst in der Nähe des Marktplatzes, um die Altstadt mit ihrer unterirdischen Welt zu Fuß zu erkunden. Gegen Mittag fahren Sie zum Schlosskomplex, einem perfekten Ort für eine ausgedehnte Mittagspause. Am Nachmittag bringt Sie eine kurze Fahrt zu den modernen Wahrzeichen der Stadt, dem Denkmal der Revolutionären Tat und dem nahegelegenen Theater. Dieser Ansatz minimiert die Parkplatzsuche und maximiert Ihr Erlebnis.",
+        "hu": "Az autós napja Rzeszówban a hatékonyságra összpontosít. Először a Piactér közelében parkol, hogy gyalog fedezze fel az óvárost és annak földalatti világát. Dél körül a várkomplexumhoz hajt, amely tökéletes hely egy hosszabb ebédszünethez. Délután egy rövid autózással eljut a város modern jelképeihez, a Forradalmi Tett Emlékművéhez és a közeli színházhoz. Ez a megközelítés minimalizálja a parkolóhely-keresést és maximalizálja az élményt.",
+        "ro": "Ziua dvs. cu mașina în Rzeszów este concepută pentru eficiență. Mai întâi parcați lângă Piața Centrală pentru a explora pe jos orașul vechi și lumea sa subterană. La prânz, conduceți spre complexul castelului, un loc perfect pentru o pauză de masă prelungită. După-amiaza, o scurtă călătorie cu mașina vă duce la reperele moderne ale orașului, Monumentul Faptei Revoluționare și teatrul din apropiere. Această abordare minimizează căutarea parcării și maximizează experiența dvs.",
+        "en": "Your car day in Rzeszów is designed for efficiency. You first park near the Market Square to explore the old town and its underground world on foot. Around noon, you drive to the castle complex, a perfect spot for an extended lunch break. In the afternoon, a short drive takes you to the city's modern landmarks, the Monument to the Revolutionary Act and the nearby theatre. This approach minimizes parking searches and maximizes your experience."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pierogi",
+            "tip": "Probieren Sie die traditionellen gefüllten Teigtaschen, besonders die 'Ruskie' mit Kartoffeln und Käse."
+          },
+          {
+            "name": "Proziaki",
+            "tip": "Ein lokales Sodabrot, oft mit Butter und Knoblauch serviert."
+          },
+          {
+            "name": "Stary Browar Rzeszowski",
+            "tip": "Eine Brauerei mit Restaurant, die lokale Gerichte und hauseigenes Bier anbietet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pierogi",
+            "tip": "Kóstolja meg a hagyományos töltött táskákat, különösen a 'ruskie'-t burgonyával és sajttal."
+          },
+          {
+            "name": "Proziaki",
+            "tip": "Helyi szódás kenyér, gyakran vajjal és fokhagymával tálalva."
+          },
+          {
+            "name": "Stary Browar Rzeszowski",
+            "tip": "Sörfőzde-étterem, amely helyi ételeket és saját főzésű sört kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierogi",
+            "tip": "Încercați găluștele umplute tradiționale, în special 'Ruskie' cu cartofi și brânză."
+          },
+          {
+            "name": "Proziaki",
+            "tip": "O pâine locală cu bicarbonat de sodiu, adesea servită cu unt și usturoi."
+          },
+          {
+            "name": "Stary Browar Rzeszowski",
+            "tip": "O berărie-restaurant care servește mâncăruri locale și bere de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierogi",
+            "tip": "Try the traditional filled dumplings, especially the 'Ruskie' with potatoes and cheese."
+          },
+          {
+            "name": "Proziaki",
+            "tip": "A local soda bread, often served with butter and garlic."
+          },
+          {
+            "name": "Stary Browar Rzeszowski",
+            "tip": "A brewery-restaurant serving local dishes and home-brewed beer."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lisza Góra",
+            "tip": "Ein kleiner Hügel etwas außerhalb des Zentrums mit schöner Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Park der Jedności",
+            "tip": "Ein ruhiger Park zum Entspannen und Spazierengehen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer der Wisłok",
+            "tip": "Finden Sie eine Bank am Flussufer und beobachten Sie das Wasser.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lisza Góra",
+            "tip": "Egy kis domb a központtól kicsit távolabb, szép kilátással.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jedności Park",
+            "tip": "Csendes park a pihenéshez és sétához.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Wisłok folyó partja",
+            "tip": "Keressen egy padot a folyóparton, és nézze a vizet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lisza Góra",
+            "tip": "O colină mică chiar în afara centrului, cu o priveliște frumoasă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Jedności",
+            "tip": "Un parc liniștit pentru relaxare și plimbări.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malurile râului Wisłok",
+            "tip": "Găsiți o bancă pe malul râului și priviți apa.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lisza Góra",
+            "tip": "A small hill just outside the center with a nice view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jedności Park",
+            "tip": "A quiet park for relaxing and strolling.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the Wisłok River",
+            "tip": "Find a bench on the riverbank and watch the water.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Galeria Rzeszów",
+            "tip": "Das größte Einkaufszentrum der Region für alle Ihre Bedürfnisse."
+          },
+          {
+            "name": "3 Maja Straße",
+            "tip": "Eine der Haupteinkaufsstraßen mit vielen Boutiquen und Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Galeria Rzeszów",
+            "tip": "A régió legnagyobb bevásárlóközpontja minden igényt kielégít."
+          },
+          {
+            "name": "3 Maja utca",
+            "tip": "Az egyik fő bevásárlóutca számos butikkal és üzlettel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galeria Rzeszów",
+            "tip": "Cel mai mare centru comercial din regiune pentru toate nevoile dvs."
+          },
+          {
+            "name": "Strada 3 Maja",
+            "tip": "Una dintre principalele străzi comerciale, cu multe buticuri și magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Galeria Rzeszów",
+            "tip": "The largest shopping mall in the region for all your needs."
+          },
+          {
+            "name": "3 Maja Street",
+            "tip": "One of the main shopping streets with many boutiques and shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie bewachte Parkplätze oder Parkhäuser für mehr Sicherheit.",
+          "Die Parkplatzsuche im direkten Zentrum kann zur Mittagszeit schwierig sein; planen Sie Ihre Ankunft entsprechend.",
+          "Achten Sie auf die Parkzonen (Strefa Płatnego Parkowania) und bezahlen Sie die erforderlichen Gebühren.",
+          "Die Cluster-Strategie spart Zeit und Nerven bei der Parkplatzsuche."
+        ],
+        "hu": [
+          "Használjon őrzött parkolókat vagy parkolóházakat a nagyobb biztonság érdekében.",
+          "A parkolóhely-keresés a közvetlen központban ebédidőben nehéz lehet; tervezze meg érkezését ennek megfelelően.",
+          "Figyeljen a parkolási zónákra (Strefa Płatnego Parkowania), és fizesse be a szükséges díjakat.",
+          "A klaszter-stratégia időt és idegeket takarít meg a parkolóhely-keresés során."
+        ],
+        "ro": [
+          "Utilizați parcări păzite sau parcări supraetajate pentru mai multă siguranță.",
+          "Găsirea unui loc de parcare în centrul direct poate fi dificilă la prânz; planificați-vă sosirea în consecință.",
+          "Fiți atenți la zonele de parcare cu plată (Strefa Płatnego Parkowania) și plătiți taxele necesare.",
+          "Strategia pe clustere economisește timp și nervi în căutarea unui loc de parcare."
+        ],
+        "en": [
+          "Use guarded parking lots or multi-story car parks for more security.",
+          "Finding parking in the direct center can be difficult at lunchtime; plan your arrival accordingly.",
+          "Pay attention to the paid parking zones (Strefa Płatnego Parkowania) and pay the required fees.",
+          "The cluster strategy saves time and nerves when looking for parking."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz (Cluster A)",
+            "hu": "Piactér (A Klaszter)",
+            "ro": "Piața Centrală (Cluster A)",
+            "en": "Market Square (Cluster A)"
+          },
+          "coords": [
+            22.0041,
+            50.0375
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie am zentralen Punkt, der von vielen Buslinien angefahren wird.",
+            "hu": "Kezdje a központi ponton, amelyet számos buszjárat érint.",
+            "ro": "Începeți din punctul central, deservit de multe linii de autobuz.",
+            "en": "Start at the central point, served by many bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            22.0038,
+            50.0378
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:27",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Nur ein paar Schritte vom Hauptplatz entfernt.",
+            "hu": "Csak néhány lépésre a főtértől.",
+            "ro": "La doar câțiva pași de piața principală.",
+            "en": "Just a few steps from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Unterirdische Touristenroute",
+            "hu": "Földalatti Turistaútvonal",
+            "ro": "Traseul Turistic Subteran",
+            "en": "Underground Tourist Route"
+          },
+          "coords": [
+            22.0045,
+            50.0369
+          ],
+          "category": "museums",
+          "arrive_at": "09:51",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der Eingang befindet sich direkt am Marktplatz.",
+            "hu": "A bejárat közvetlenül a Piactéren található.",
+            "ro": "Intrarea este situată chiar în Piața Centrală.",
+            "en": "The entrance is located right in the Market Square."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Rzeszów (Cluster B)",
+            "hu": "Rzeszówi vár (B Klaszter)",
+            "ro": "Castelul Rzeszów (Cluster B)",
+            "en": "Rzeszów Castle (Cluster B)"
+          },
+          "coords": [
+            22.005,
+            50.032
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:47",
+          "stay_min": 80,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in Richtung Süden. Steigen Sie in der Nähe des Schlosses aus.",
+            "hu": "Menjen egy déli irányú busszal. Szálljon le a vár közelében!",
+            "ro": "Luați un autobuz spre sud. Coborâți lângă castel.",
+            "en": "Take a bus heading south. Get off near the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Sommerpalast der Lubomirskis",
+            "hu": "Lubomirski Nyári Palota",
+            "ro": "Palatul de vară Lubomirski",
+            "en": "Lubomirski Summer Palace"
+          },
+          "coords": [
+            22.006,
+            50.0315
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:09",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Schloss entfernt, perfekt für die Mittagszeit.",
+            "hu": "Rövid sétára a vártól, tökéletes ebédidőben.",
+            "ro": "La o scurtă plimbare de castel, perfect pentru ora prânzului.",
+            "en": "A short walk from the castle, perfect for lunchtime."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der Revolutionären Tat (Cluster C)",
+            "hu": "A Forradalmi Tett Emlékműve (C Klaszter)",
+            "ro": "Monumentul Faptei Revoluționare (Cluster C)",
+            "en": "Monument to the Revolutionary Act (Cluster C)"
+          },
+          "coords": [
+            21.9995,
+            50.034
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:37",
+          "stay_min": 20,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 48,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zurück Richtung Zentrum und steigen Sie am Kreisverkehr aus.",
+            "hu": "Menjen egy busszal vissza a központ felé, és szálljon le a körforgalomnál!",
+            "ro": "Luați un autobuz înapoi spre centru și coborâți la sensul giratoriu.",
+            "en": "Take a bus back towards the center and get off at the roundabout."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche St. Stanislaus",
+            "hu": "Szt. Stanislaus plébániatemplom",
+            "ro": "Biserica parohială Sf. Stanislaus",
+            "en": "Parish Church of St. Stanislaus"
+          },
+          "coords": [
+            22.008,
+            50.0365
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:33",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Der letzte Halt ist nur einen kurzen Spaziergang entfernt, bevor Sie zurück zum Marktplatz gehen.",
+            "hu": "Az utolsó megálló csak egy rövid sétára van, mielőtt visszamenne a Piactérre.",
+            "ro": "Ultima oprire este la o scurtă plimbare înainte de a vă întoarce la Piața Centrală.",
+            "en": "The last stop is a short walk away before heading back to the Market Square."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erkunden Sie Rzeszów in Clustern. Sie beginnen im Herzen der Altstadt, die Sie zu Fuß durchqueren. Am Vormittag tauchen Sie in die unterirdische Geschichte ein. Ein Bus bringt Sie mittags zum Schlossviertel. Nach der Erkundung des Schlosses und des Palastes bringt Sie eine weitere Busfahrt zu den moderneren Sehenswürdigkeiten. Der Tag endet mit einem Spaziergang durch die belebten Straßen zurück zum Ausgangspunkt.",
+        "hu": "Tömegközlekedéssel Rzeszówot klaszterekben fedezi fel. Az óváros szívében kezd, amelyet gyalog jár be. Délelőtt a földalatti történelembe merül el. Délben egy busz viszi a várnegyedbe. A vár és a palota felfedezése után egy másik buszút viszi a modernebb látnivalókhoz. A nap egy sétával zárul a nyüzsgő utcákon vissza a kiindulópontra.",
+        "ro": "Cu transportul public, explorați Rzeszów în clustere. Începeți în inima orașului vechi, pe care o explorați pe jos. Dimineața vă scufundați în istoria subterană. La prânz, un autobuz vă duce în cartierul castelului. După explorarea castelului și a palatului, o altă călătorie cu autobuzul vă duce la atracțiile mai moderne. Ziua se încheie cu o plimbare pe străzile aglomerate înapoi la punctul de plecare.",
+        "en": "Using public transport, you'll explore Rzeszów in clusters. You start in the heart of the old town, which you explore on foot. In the morning, you delve into the underground history. A bus takes you to the castle district at noon. After exploring the castle and palace, another bus ride takes you to the more modern sights. The day ends with a walk through the bustling streets back to the starting point."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pierogi",
+            "tip": "Probieren Sie die traditionellen gefüllten Teigtaschen, besonders die 'Ruskie' mit Kartoffeln und Käse."
+          },
+          {
+            "name": "Proziaki",
+            "tip": "Ein lokales Sodabrot, oft mit Butter und Knoblauch serviert."
+          },
+          {
+            "name": "Stary Browar Rzeszowski",
+            "tip": "Eine Brauerei mit Restaurant, die lokale Gerichte und hauseigenes Bier anbietet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pierogi",
+            "tip": "Kóstolja meg a hagyományos töltött táskákat, különösen a 'ruskie'-t burgonyával és sajttal."
+          },
+          {
+            "name": "Proziaki",
+            "tip": "Helyi szódás kenyér, gyakran vajjal és fokhagymával tálalva."
+          },
+          {
+            "name": "Stary Browar Rzeszowski",
+            "tip": "Sörfőzde-étterem, amely helyi ételeket és saját főzésű sört kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierogi",
+            "tip": "Încercați găluștele umplute tradiționale, în special 'Ruskie' cu cartofi și brânză."
+          },
+          {
+            "name": "Proziaki",
+            "tip": "O pâine locală cu bicarbonat de sodiu, adesea servită cu unt și usturoi."
+          },
+          {
+            "name": "Stary Browar Rzeszowski",
+            "tip": "O berărie-restaurant care servește mâncăruri locale și bere de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierogi",
+            "tip": "Try the traditional filled dumplings, especially the 'Ruskie' with potatoes and cheese."
+          },
+          {
+            "name": "Proziaki",
+            "tip": "A local soda bread, often served with butter and garlic."
+          },
+          {
+            "name": "Stary Browar Rzeszowski",
+            "tip": "A brewery-restaurant serving local dishes and home-brewed beer."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lisza Góra",
+            "tip": "Ein kleiner Hügel etwas außerhalb des Zentrums mit schöner Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Park der Jedności",
+            "tip": "Ein ruhiger Park zum Entspannen und Spazierengehen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer der Wisłok",
+            "tip": "Finden Sie eine Bank am Flussufer und beobachten Sie das Wasser.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lisza Góra",
+            "tip": "Egy kis domb a központtól kicsit távolabb, szép kilátással.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jedności Park",
+            "tip": "Csendes park a pihenéshez és sétához.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Wisłok folyó partja",
+            "tip": "Keressen egy padot a folyóparton, és nézze a vizet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lisza Góra",
+            "tip": "O colină mică chiar în afara centrului, cu o priveliște frumoasă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Jedności",
+            "tip": "Un parc liniștit pentru relaxare și plimbări.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malurile râului Wisłok",
+            "tip": "Găsiți o bancă pe malul râului și priviți apa.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lisza Góra",
+            "tip": "A small hill just outside the center with a nice view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jedności Park",
+            "tip": "A quiet park for relaxing and strolling.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the Wisłok River",
+            "tip": "Find a bench on the riverbank and watch the water.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Galeria Rzeszów",
+            "tip": "Das größte Einkaufszentrum der Region für alle Ihre Bedürfnisse."
+          },
+          {
+            "name": "3 Maja Straße",
+            "tip": "Eine der Haupteinkaufsstraßen mit vielen Boutiquen und Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Galeria Rzeszów",
+            "tip": "A régió legnagyobb bevásárlóközpontja minden igényt kielégít."
+          },
+          {
+            "name": "3 Maja utca",
+            "tip": "Az egyik fő bevásárlóutca számos butikkal és üzlettel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galeria Rzeszów",
+            "tip": "Cel mai mare centru comercial din regiune pentru toate nevoile dvs."
+          },
+          {
+            "name": "Strada 3 Maja",
+            "tip": "Una dintre principalele străzi comerciale, cu multe buticuri și magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Galeria Rzeszów",
+            "tip": "The largest shopping mall in the region for all your needs."
+          },
+          {
+            "name": "3 Maja Street",
+            "tip": "One of the main shopping streets with many boutiques and shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel, um Geld zu sparen.",
+          "Die 'jakdojade'-App ist sehr nützlich für die Planung von Routen mit öffentlichen Verkehrsmitteln.",
+          "Busse können zu Stoßzeiten voll sein, planen Sie also etwas mehr Zeit ein.",
+          "Überprüfen Sie die Fahrpläne im Voraus, besonders am Abend und an Wochenenden."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
+          "A 'jakdojade' alkalmazás nagyon hasznos a tömegközlekedési útvonalak tervezéséhez.",
+          "A buszok csúcsidőben zsúfoltak lehetnek, ezért tervezzen egy kicsit több időt.",
+          "Ellenőrizze előre a menetrendeket, különösen este és hétvégén."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru a economisi bani.",
+          "Aplicația 'jakdojade' este foarte utilă pentru planificarea rutelor cu transportul public.",
+          "Autobuzele pot fi aglomerate la orele de vârf, așa că planificați puțin timp suplimentar.",
+          "Verificați orarele în avans, mai ales seara și în weekend."
+        ],
+        "en": [
+          "Buy a day ticket for public transport to save money.",
+          "The 'jakdojade' app is very useful for planning public transport routes.",
+          "Buses can be crowded during peak hours, so plan for a little extra time.",
+          "Check the schedules in advance, especially in the evening and on weekends."
+        ]
+      }
+    }
+  }
+}

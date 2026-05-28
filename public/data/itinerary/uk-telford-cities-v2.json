@@ -1,0 +1,1316 @@
+{
+  "city_id": "uk-telford-cities-v2",
+  "anchor": {
+    "name": "Telford",
+    "coords": [
+      52.6784,
+      -2.4453
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Beginn am Museum of Iron",
+            "hu": "Indulás a Vasmúzeumtól",
+            "ro": "Început la Muzeul Fierului",
+            "en": "Start at the Museum of Iron"
+          },
+          "coords": [
+            -2.4925,
+            52.6308
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Sehen Sie die Kessel, mit denen die ersten Lokomotiven gebaut wurden.",
+            "hu": "Nézd meg azokat az üstöket, amelyekkel az első mozdonyokat építették.",
+            "ro": "Vedeți cazanele folosite pentru a construi primele locomotive.",
+            "en": "See the very boilers used to build the first locomotives."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Eisenbrücke (The Iron Bridge)",
+            "hu": "Az Iron Bridge (Vashíd)",
+            "ro": "Podul de Fier (The Iron Bridge)",
+            "en": "The Iron Bridge"
+          },
+          "coords": [
+            -2.4877,
+            52.6276
+          ],
+          "category": "bridges",
+          "arrive_at": "10:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie über die Brücke und stellen Sie sich die Pferdekutschen vor.",
+            "hu": "Sétálj át a hídon, és képzeld el a rajta áthaladó lovaskocsikat.",
+            "ro": "Traversați podul și imaginați-vă trăsurile cu cai trecând pe el.",
+            "en": "Walk across the bridge and imagine the horse-drawn carts."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Ironbridge",
+            "hu": "Ebéd Ironbridge-ben",
+            "ro": "Prânz în Ironbridge",
+            "en": "Lunch in Ironbridge"
+          },
+          "coords": [
+            -2.4865,
+            52.6271
+          ],
+          "category": "gastro",
+          "arrive_at": "11:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie ein lokales Ale in einem Pub am Flussufer.",
+            "hu": "Kóstolj meg egy helyi sört egy folyóparti pubban.",
+            "ro": "Încercați o bere locală la un pub de pe malul râului.",
+            "en": "Try a local ale at a riverside pub."
+          }
+        },
+        {
+          "name": {
+            "de": "Enginuity",
+            "hu": "Enginuity",
+            "ro": "Enginuity",
+            "en": "Enginuity"
+          },
+          "coords": [
+            -2.4933,
+            52.6315
+          ],
+          "category": "museums",
+          "arrive_at": "13:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ideal für Familien; ein interaktives Wissenschafts- und Technikmuseum.",
+            "hu": "Családoknak ideális; interaktív tudományos és technológiai központ.",
+            "ro": "Excelent pentru familii; un centru interactiv de știință și tehnologie.",
+            "en": "Great for families; it's a hands-on science and technology centre."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Fluss Severn",
+            "hu": "Séta a Severn folyó partján",
+            "ro": "Plimbare pe malul râului Severn",
+            "en": "Walk along the River Severn"
+          },
+          "coords": [
+            -2.505,
+            52.629
+          ],
+          "category": "parks",
+          "arrive_at": "15:46",
+          "stay_min": 60,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suchen Sie nach den kleinen Fähren, die früher den Fluss überquerten.",
+            "hu": "Keress nyomokat a régi kompokról, amik a folyón közlekedtek.",
+            "ro": "Căutați semne ale micilor feriboturi care traversau odinioară râul.",
+            "en": "Look for signs of the small ferries that used to cross the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Tag im Herzen der Industriellen Revolution, alles zu Fuß. Der Morgen beginnt mit der Erkundung des Museum of Iron, bevor Sie zur ikonischen Iron Bridge selbst schlendern. Nach einem gemütlichen Mittagessen in einem der charmanten Pubs des Dorfes tauchen Sie am Nachmittag in die interaktiven Ausstellungen von Enginuity ein. Der Tag endet mit einem friedlichen Spaziergang entlang des Flusses Severn und bietet eine ruhige Perspektive auf die industrielle Landschaft.",
+        "hu": "Egy nap az ipari forradalom szívében, mindezt gyalogosan. A reggel a Vasmúzeum felfedezésével kezdődik, mielőtt átsétálnál az ikonikus Vashídhoz. Egy kellemes ebéd után a falu egyik hangulatos pubjában, a délutánt az Enginuity interaktív kiállításai töltik ki. A nap egy békés sétával zárul a Severn folyó mentén, amely nyugodt perspektívát kínál az ipari tájra.",
+        "ro": "O zi în inima Revoluției Industriale, totul pe jos. Dimineața începe cu explorarea Muzeului Fierului înainte de o plimbare către emblematicul Pod de Fier. După un prânz relaxant la unul dintre puburile fermecătoare ale satului, după-amiaza este dedicată exponatelor interactive de la Enginuity. Ziua se încheie cu o plimbare liniștită de-a lungul râului Severn, oferind o perspectivă senină asupra peisajului industrial.",
+        "en": "A day in the heart of the Industrial Revolution, all on foot. The morning starts by exploring the Museum of Iron before a stroll to the iconic Iron Bridge itself. After a leisurely lunch at one of the village's charming pubs, the afternoon is for diving into the hands-on exhibits at Enginuity. The day concludes with a peaceful walk along the River Severn, offering a serene perspective on the industrial landscape."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Shropshire Fidget Pie",
+            "tip": "Eine herzhafte Pastete mit Schinken, Äpfeln und Kartoffeln. Suchen Sie danach in traditionellen Pubs."
+          },
+          {
+            "name": "Shrewsbury Biscuits",
+            "tip": "Ein leichter, spröder Keks, oft mit Johannisbeeren, perfekt zum Tee."
+          },
+          {
+            "name": "Lokales Real Ale",
+            "tip": "Shropshire hat viele Brauereien. Fragen Sie nach einer lokalen Empfehlung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Shropshire Fidget pite",
+            "tip": "Kiadós pite sonkával, almával és burgonyával. Keresd a hagyományos pubokban."
+          },
+          {
+            "name": "Shrewsbury keksz",
+            "tip": "Könnyű, omlós keksz, gyakran mazsolával, tökéletes teához."
+          },
+          {
+            "name": "Helyi Real Ale",
+            "tip": "Shropshire tele van sörfőzdékkel. Kérj egy helyi ajánlást."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plăcinta Fidget din Shropshire",
+            "tip": "O plăcintă consistentă cu șuncă, mere și cartofi. Căutați-o în puburile tradiționale."
+          },
+          {
+            "name": "Biscuiți Shrewsbury",
+            "tip": "Un biscuit ușor și fraged, adesea cu coacăze, perfect pentru ceai."
+          },
+          {
+            "name": "Bere Real Ale locală",
+            "tip": "Shropshire are multe fabrici de bere. Cereți o recomandare locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shropshire Fidget Pie",
+            "tip": "A hearty pie made with ham, apples, and potatoes. Look for it in traditional pubs."
+          },
+          {
+            "name": "Shrewsbury Biscuits",
+            "tip": "A light, brittle biscuit, often with currants, perfect with tea."
+          },
+          {
+            "name": "Local Real Ale",
+            "tip": "Shropshire has many breweries. Ask for a local recommendation."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Buildwas Abbey",
+            "tip": "Die ruhigen Ruinen dieses Zisterzienserklosters sind perfekt für eine kontemplative Pause.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang am Fluss Severn",
+            "tip": "Abseits der Haupttouristenpfade bieten die Wege am Flussufer Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dale Coppice",
+            "tip": "Ein friedliches Waldgebiet in der Nähe von Ironbridge, ideal für einen kurzen, ruhigen Spaziergang.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buildwas apátság",
+            "tip": "A ciszterci apátság csendes romjai tökéletesek egy elmélkedő szünethez.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a Severn folyó partján",
+            "tip": "A fő turistaútvonalaktól távolabb a folyóparti ösvények nyugalmat kínálnak.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dale Coppice",
+            "tip": "Egy békés erdő az Ironbridge közelében, ideális egy rövid, csendes sétához.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Abația Buildwas",
+            "tip": "Ruinele liniștite ale acestei abații cisterciene sunt perfecte pentru o pauză contemplativă.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare pe malul râului Severn",
+            "tip": "Departe de principalele trasee turistice, cărările de pe malul râului oferă liniște.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dale Coppice",
+            "tip": "O pădure liniștită lângă Ironbridge, ideală pentru o plimbare scurtă și liniștită.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Buildwas Abbey",
+            "tip": "The tranquil ruins of this Cistercian abbey are perfect for a contemplative pause.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "River Severn walk",
+            "tip": "Away from the main tourist spots, the riverside paths offer tranquility.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dale Coppice",
+            "tip": "A peaceful woodland near Ironbridge, ideal for a short, quiet stroll.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ironbridge Kunsthandwerk",
+            "tip": "Die kleinen Geschäfte im Dorf verkaufen lokal hergestellte Töpferwaren, Glaskunst und Kunst."
+          },
+          {
+            "name": "Museumsläden",
+            "tip": "Die Läden in Blists Hill und im Coalport China Museum bieten einzigartige Souvenirs und Nachbildungen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ironbridge-i kézműves termékek",
+            "tip": "A falu kis üzletei helyi készítésű kerámiákat, üvegmunkákat és művészeti alkotásokat árulnak."
+          },
+          {
+            "name": "Múzeumi boltok",
+            "tip": "A Blists Hill és a Coalport Kína Múzeum üzletei egyedi szuveníreket és másolatokat kínálnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat din Ironbridge",
+            "tip": "Micile magazine din sat vând ceramică, sticlărie și artă realizate local."
+          },
+          {
+            "name": "Magazinele muzeelor",
+            "tip": "Magazinele de la Blists Hill și Muzeul Porțelanului din Coalport oferă suveniruri și replici unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ironbridge Crafts",
+            "tip": "The small shops in the village sell locally made pottery, glassware, and art."
+          },
+          {
+            "name": "Museum Shops",
+            "tip": "The shops at Blists Hill and Coalport China Museum offer unique souvenirs and replicas."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Straßen und Wege uneben sein können.",
+          "Einige Museen erheben Eintrittsgebühren, aber der Spaziergang durch die Schlucht ist kostenlos.",
+          "Überprüfen Sie die Öffnungszeiten der Museen, da sie saisonal variieren können.",
+          "Bringen Sie eine wiederverwendbare Wasserflasche mit; es gibt Orte, an denen Sie sie auffüllen können."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, az utak és ösvények egyenetlenek lehetnek.",
+          "Néhány múzeum belépődíjas, de a szurdokban való séta ingyenes.",
+          "Ellenőrizd a múzeumok nyitvatartási idejét, mert szezonálisan változhat.",
+          "Hozz magaddal újratölthető vizes palackot; több helyen is fel tudod tölteni."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece străzile și cărările pot fi denivelate.",
+          "Unele muzee percep taxe de intrare, dar plimbarea prin defileu este gratuită.",
+          "Verificați orele de deschidere ale muzeelor, deoarece acestea pot varia sezonier.",
+          "Aduceți o sticlă de apă reutilizabilă; există locuri unde o puteți umple."
+        ],
+        "en": [
+          "Wear comfortable shoes as the streets and paths can be uneven.",
+          "Some museums have entry fees, but walking through the gorge is free.",
+          "Check museum opening times as they can vary seasonally.",
+          "Bring a reusable water bottle; there are places to fill it up."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:53",
+      "total_km": 19.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Start: Jackfield Tile Museum",
+            "hu": "Indulás: Jackfield Csempemúzeum",
+            "ro": "Start: Muzeul de Plăci Jackfield",
+            "en": "Start: Jackfield Tile Museum"
+          },
+          "coords": [
+            -2.477,
+            52.624
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Bewundern Sie die komplizierten Fliesenmuster, ein Markenzeichen der viktorianischen Ära.",
+            "hu": "Csodáld meg a bonyolult csempemintákat, a viktoriánus kor védjegyét.",
+            "ro": "Admirați modelele complicate ale plăcilor, o marcă a epocii victoriene.",
+            "en": "Admire the intricate tile designs, a hallmark of the Victorian era."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Eisenbrücke",
+            "hu": "Az Iron Bridge",
+            "ro": "Podul de Fier",
+            "en": "The Iron Bridge"
+          },
+          "coords": [
+            -2.4877,
+            52.6276
+          ],
+          "category": "bridges",
+          "arrive_at": "10:34",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und spazieren Sie über das ikonische Bauwerk.",
+            "hu": "Zárd le a biciklidet és sétálj át az ikonikus építményen.",
+            "ro": "Încuiați bicicleta și faceți o plimbare peste structura emblematică.",
+            "en": "Lock up your bike and take a walk across the iconic structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Blists Hill Victorian Town",
+            "hu": "Blists Hill viktoriánus város",
+            "ro": "Orașul victorian Blists Hill",
+            "en": "Blists Hill Victorian Town"
+          },
+          "coords": [
+            -2.463,
+            52.631
+          ],
+          "category": "museums",
+          "arrive_at": "11:17",
+          "stay_min": 180,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Tauschen Sie Ihr Geld in alte Münzen, um im Süßwarenladen einzukaufen. Planen Sie hier Ihr Mittagessen.",
+            "hu": "Válts a pénzedet régi érmékre, hogy vásárolhass az édességboltban. Tervezz itt ebédet.",
+            "ro": "Schimbați banii în monede vechi pentru a cumpăra de la magazinul de dulciuri. Planificați prânzul aici.",
+            "en": "Change your money into old currency to buy from the sweet shop. Plan for lunch here."
+          }
+        },
+        {
+          "name": {
+            "de": "Coalport China Museum",
+            "hu": "Coalport Kína Múzeum",
+            "ro": "Muzeul de Porțelan din Coalport",
+            "en": "Coalport China Museum"
+          },
+          "coords": [
+            -2.455,
+            52.623
+          ],
+          "category": "museums",
+          "arrive_at": "14:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beobachten Sie Demonstrationen traditioneller Porzellanherstellungstechniken.",
+            "hu": "Nézz bemutatókat a hagyományos porcelánkészítési technikákról.",
+            "ro": "Urmăriți demonstrații ale tehnicilor tradiționale de fabricare a porțelanului.",
+            "en": "Watch demonstrations of traditional china-making techniques."
+          }
+        },
+        {
+          "name": {
+            "de": "Buildwas Abbey",
+            "hu": "Buildwas apátság",
+            "ro": "Abația Buildwas",
+            "en": "Buildwas Abbey"
+          },
+          "coords": [
+            -2.52,
+            52.63
+          ],
+          "category": "churches",
+          "arrive_at": "16:22",
+          "stay_min": 60,
+          "hop_from_prev_min": 78,
+          "hop_from_prev_km": 13.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein perfekter, ruhiger Abschluss des Tages inmitten historischer Ruinen.",
+            "hu": "Tökéletes, békés lezárása a napnak a történelmi romok között.",
+            "ro": "Un final perfect și liniștit al zilei, în mijlocul ruinelor istorice.",
+            "en": "A perfect, quiet end to the day amidst historic ruins."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie durch die Geschichte auf einer Tour, die sich durch die Ironbridge Gorge schlängelt. Sie beginnen im Jackfield Tile Museum und fahren dann zur berühmten Brücke. Der größte Teil des Tages ist Blists Hill gewidmet, einem lebendigen Museum, das Sie in die viktorianische Zeit zurückversetzt, ideal für ein Mittagessen. Am Nachmittag erkunden Sie die feine Kunst der Porzellanherstellung in Coalport, bevor eine längere Fahrt Sie zu den friedlichen Ruinen der Buildwas Abbey führt, um den Tag ausklingen zu lassen.",
+        "hu": "Kerékpározz a történelemben egy olyan túrán, amely az Ironbridge-szurdokon kanyarog. A Jackfield Csempemúzeumban kezdesz, majd a híres hídhoz tekersz. A nap nagy részét Blists Hillnek szenteljük, egy élő múzeumnak, amely visszarepít a viktoriánus időkbe, és ideális ebéd helyszín. Délután felfedezheted a porcelánkészítés finom művészetét Coalportban, mielőtt egy hosszabb út a Buildwas apátság békés romjaihoz vezet a nap lezárásaként.",
+        "ro": "Pedalați prin istorie într-un tur care șerpuiește prin Defileul Ironbridge. Începeți la Muzeul de Plăci Jackfield, apoi mergeți la faimosul pod. Cea mai mare parte a zilei este dedicată Blists Hill, un muzeu viu care vă transportă înapoi în epoca victoriană, ideal pentru prânz. După-amiaza explorați arta fină a fabricării porțelanului la Coalport, înainte ca o plimbare mai lungă să vă ducă la ruinele pașnice ale Abației Buildwas pentru a încheia ziua.",
+        "en": "Cycle through history on a tour winding through the Ironbridge Gorge. You'll start at the Jackfield Tile Museum then head to the famous bridge itself. The bulk of the day is dedicated to Blists Hill, a living museum that transports you back to Victorian times, ideal for lunch. The afternoon involves exploring the fine art of china making at Coalport, before a longer ride takes you to the peaceful ruins of Buildwas Abbey to reflect on the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Shropshire Fidget Pie",
+            "tip": "Eine herzhafte Pastete mit Schinken, Äpfeln und Kartoffeln. Suchen Sie danach in traditionellen Pubs."
+          },
+          {
+            "name": "Shrewsbury Biscuits",
+            "tip": "Ein leichter, spröder Keks, oft mit Johannisbeeren, perfekt zum Tee."
+          },
+          {
+            "name": "Lokales Real Ale",
+            "tip": "Shropshire hat viele Brauereien. Fragen Sie nach einer lokalen Empfehlung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Shropshire Fidget pite",
+            "tip": "Kiadós pite sonkával, almával és burgonyával. Keresd a hagyományos pubokban."
+          },
+          {
+            "name": "Shrewsbury keksz",
+            "tip": "Könnyű, omlós keksz, gyakran mazsolával, tökéletes teához."
+          },
+          {
+            "name": "Helyi Real Ale",
+            "tip": "Shropshire tele van sörfőzdékkel. Kérj egy helyi ajánlást."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plăcinta Fidget din Shropshire",
+            "tip": "O plăcintă consistentă cu șuncă, mere și cartofi. Căutați-o în puburile tradiționale."
+          },
+          {
+            "name": "Biscuiți Shrewsbury",
+            "tip": "Un biscuit ușor și fraged, adesea cu coacăze, perfect pentru ceai."
+          },
+          {
+            "name": "Bere Real Ale locală",
+            "tip": "Shropshire are multe fabrici de bere. Cereți o recomandare locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shropshire Fidget Pie",
+            "tip": "A hearty pie made with ham, apples, and potatoes. Look for it in traditional pubs."
+          },
+          {
+            "name": "Shrewsbury Biscuits",
+            "tip": "A light, brittle biscuit, often with currants, perfect with tea."
+          },
+          {
+            "name": "Local Real Ale",
+            "tip": "Shropshire has many breweries. Ask for a local recommendation."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Buildwas Abbey",
+            "tip": "Die ruhigen Ruinen dieses Zisterzienserklosters sind perfekt für eine kontemplative Pause.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang am Fluss Severn",
+            "tip": "Abseits der Haupttouristenpfade bieten die Wege am Flussufer Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dale Coppice",
+            "tip": "Ein friedliches Waldgebiet in der Nähe von Ironbridge, ideal für einen kurzen, ruhigen Spaziergang.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buildwas apátság",
+            "tip": "A ciszterci apátság csendes romjai tökéletesek egy elmélkedő szünethez.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a Severn folyó partján",
+            "tip": "A fő turistaútvonalaktól távolabb a folyóparti ösvények nyugalmat kínálnak.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dale Coppice",
+            "tip": "Egy békés erdő az Ironbridge közelében, ideális egy rövid, csendes sétához.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Abația Buildwas",
+            "tip": "Ruinele liniștite ale acestei abații cisterciene sunt perfecte pentru o pauză contemplativă.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare pe malul râului Severn",
+            "tip": "Departe de principalele trasee turistice, cărările de pe malul râului oferă liniște.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dale Coppice",
+            "tip": "O pădure liniștită lângă Ironbridge, ideală pentru o plimbare scurtă și liniștită.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Buildwas Abbey",
+            "tip": "The tranquil ruins of this Cistercian abbey are perfect for a contemplative pause.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "River Severn walk",
+            "tip": "Away from the main tourist spots, the riverside paths offer tranquility.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dale Coppice",
+            "tip": "A peaceful woodland near Ironbridge, ideal for a short, quiet stroll.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ironbridge Kunsthandwerk",
+            "tip": "Die kleinen Geschäfte im Dorf verkaufen lokal hergestellte Töpferwaren, Glaskunst und Kunst."
+          },
+          {
+            "name": "Museumsläden",
+            "tip": "Die Läden in Blists Hill und im Coalport China Museum bieten einzigartige Souvenirs und Nachbildungen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ironbridge-i kézműves termékek",
+            "tip": "A falu kis üzletei helyi készítésű kerámiákat, üvegmunkákat és művészeti alkotásokat árulnak."
+          },
+          {
+            "name": "Múzeumi boltok",
+            "tip": "A Blists Hill és a Coalport Kína Múzeum üzletei egyedi szuveníreket és másolatokat kínálnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat din Ironbridge",
+            "tip": "Micile magazine din sat vând ceramică, sticlărie și artă realizate local."
+          },
+          {
+            "name": "Magazinele muzeelor",
+            "tip": "Magazinele de la Blists Hill și Muzeul Porțelanului din Coalport oferă suveniruri și replici unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ironbridge Crafts",
+            "tip": "The small shops in the village sell locally made pottery, glassware, and art."
+          },
+          {
+            "name": "Museum Shops",
+            "tip": "The shops at Blists Hill and Coalport China Museum offer unique souvenirs and replicas."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie ein gutes Schloss für Ihr Fahrrad mit.",
+          "Die Radwege können schmal sein; achten Sie auf Fußgänger.",
+          "Einige Hügel sind steil, also seien Sie auf einige Anstiege vorbereitet.",
+          "Tragen Sie Schichten, da das Wetter schnell wechseln kann."
+        ],
+        "hu": [
+          "Hozz magaddal egy jó lakatot a kerékpárodhoz.",
+          "A kerékpárutak keskenyek lehetnek; figyelj a gyalogosokra.",
+          "Néhány domb meredek, készülj fel néhány emelkedőre.",
+          "Öltözz rétegesen, az időjárás gyorsan változhat."
+        ],
+        "ro": [
+          "Aduceți un lacăt bun pentru bicicletă.",
+          "Pistele de biciclete pot fi înguste; fiți atenți la pietoni.",
+          "Unele dealuri sunt abrupte, așa că fiți pregătiți pentru câteva urcări.",
+          "Purtați haine în straturi, deoarece vremea se poate schimba rapid."
+        ],
+        "en": [
+          "Bring a good lock for your bike.",
+          "The cycle paths can be narrow; be aware of pedestrians.",
+          "Some hills are steep, so be prepared for some climbs.",
+          "Wear layers as the weather can change quickly."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:03",
+      "total_km": 28.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Die Eisenbrücke",
+            "hu": "1. klaszter: Az Iron Bridge",
+            "ro": "Cluster 1: Podul de Fier",
+            "en": "Cluster 1: The Iron Bridge"
+          },
+          "coords": [
+            -2.4877,
+            52.6276
+          ],
+          "category": "bridges",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie auf dem Parkplatz des Museums und gehen Sie hinunter.",
+            "hu": "Parkolj a múzeum parkolójában és sétálj le onnan.",
+            "ro": "Parcați în parcarea muzeului și coborâți pe jos.",
+            "en": "Park in the museum car park and walk down."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 1: Museum of Iron",
+            "hu": "1. klaszter: Vasmúzeum",
+            "ro": "Cluster 1: Muzeul Fierului",
+            "en": "Cluster 1: Museum of Iron"
+          },
+          "coords": [
+            -2.4925,
+            52.6308
+          ],
+          "category": "museums",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Brücke entfernt, der die Geschichte des Eisens erzählt.",
+            "hu": "Egy rövid séta a hídtól, bemutatja a vas történetét.",
+            "ro": "La o scurtă plimbare de pod, povestește istoria fierului.",
+            "en": "A short walk from the bridge, telling the story of iron."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Blists Hill Victorian Town",
+            "hu": "2. klaszter: Blists Hill viktoriánus város",
+            "ro": "Cluster 2: Orașul victorian Blists Hill",
+            "en": "Cluster 2: Blists Hill Victorian Town"
+          },
+          "coords": [
+            -2.463,
+            52.631
+          ],
+          "category": "museums",
+          "arrive_at": "11:25",
+          "stay_min": 240,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Planen Sie hier mindestens 4 Stunden ein, einschließlich Mittagessen. Es ist ein riesiger Komplex.",
+            "hu": "Tervezz ide legalább 4 órát, ebéddel együtt. Hatalmas komplexum.",
+            "ro": "Planificați cel puțin 4 ore aici, inclusiv prânzul. Este un complex imens.",
+            "en": "Plan for at least 4 hours here, including lunch. It's a huge site."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Telford Town Park",
+            "hu": "3. klaszter: Telford Town Park",
+            "ro": "Cluster 3: Parcul Telford Town",
+            "en": "Cluster 3: Telford Town Park"
+          },
+          "coords": [
+            -2.448,
+            52.675
+          ],
+          "category": "parks",
+          "arrive_at": "15:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für einen entspannten Spaziergang nach den Museen.",
+            "hu": "Remek hely egy pihentető sétára a múzeumok után.",
+            "ro": "Un loc minunat pentru o plimbare relaxantă după muzee.",
+            "en": "A great place for a relaxing walk after the museums."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 4: Der Wrekin",
+            "hu": "4. klaszter: A Wrekin",
+            "ro": "Cluster 4: The Wrekin",
+            "en": "Cluster 4: The Wrekin"
+          },
+          "coords": [
+            -2.57,
+            52.66
+          ],
+          "category": "natural features",
+          "arrive_at": "17:29",
+          "stay_min": 60,
+          "hop_from_prev_min": 31,
+          "hop_from_prev_km": 15.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Hauptparkplatz und machen Sie einen kurzen Spaziergang für eine atemberaubende Aussicht bei Sonnenuntergang.",
+            "hu": "Hajts a fő parkolóhoz egy rövid sétáért a lenyűgöző naplementés kilátásért.",
+            "ro": "Conduceți până la parcarea principală pentru o scurtă plimbare pentru vederi uimitoare la apus.",
+            "en": "Drive to the main car park for a short walk for stunning sunset views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie die verstreuten Schätze von Telford und Ironbridge entdecken. Beginnen Sie im ersten Cluster mit der Erkundung der Iron Bridge und des nahegelegenen Museum of Iron zu Fuß. Fahren Sie dann zum zweiten Cluster, der riesigen Blists Hill Victorian Town, wo Sie den größten Teil des Tages verbringen und in die Vergangenheit eintauchen werden. Am späten Nachmittag fahren Sie in den modernen Telford Town Park für eine Abwechslung. Der Tag endet mit einer Fahrt zum Wrekin, wo Sie mit einem Panoramablick belohnt werden.",
+        "hu": "Az autó lehetővé teszi Telford és Ironbridge szétszórt kincseinek összekapcsolását. Kezdd az első klaszterben, gyalogosan fedezd fel az Iron Bridge-t és a közeli Vasmúzeumot. Ezután vezess a második klaszterhez, a hatalmas Blists Hill viktoriánus városhoz, ahol a nap nagy részét a múltban elmerülve töltöd. Késő délután hajts át a modern Telford Town Parkba a változatosság kedvéért. A nap egy utolsó autózással zárul a Wrekinhez, ahol a panorámás kilátás a jutalmad.",
+        "ro": "Mașina vă permite să conectați comorile împrăștiate din Telford și Ironbridge. Începeți în primul cluster, explorând pe jos Podul de Fier și Muzeul Fierului din apropiere. Apoi, conduceți la al doilea cluster, vastul Oraș Victorian Blists Hill, unde veți petrece cea mai mare parte a zilei, absorbiți de trecut. După-amiaza târziu, mergeți la modernul Parc Telford Town pentru o schimbare de peisaj. Ziua se încheie cu o ultimă plimbare cu mașina până la The Wrekin, unde priveliștile panoramice sunt recompensa dumneavoastră.",
+        "en": "The car allows you to connect the scattered gems of Telford and Ironbridge. Start in the first cluster, exploring the Iron Bridge and the nearby Museum of Iron on foot. Then, drive to the second cluster, the vast Blists Hill Victorian Town, where you'll spend the bulk of the day absorbed in the past. In the late afternoon, head to the modern Telford Town Park for a change of pace. The day finishes with a final drive to The Wrekin, where panoramic views are your reward."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Shropshire Fidget Pie",
+            "tip": "Eine herzhafte Pastete mit Schinken, Äpfeln und Kartoffeln. Suchen Sie danach in traditionellen Pubs."
+          },
+          {
+            "name": "Shrewsbury Biscuits",
+            "tip": "Ein leichter, spröder Keks, oft mit Johannisbeeren, perfekt zum Tee."
+          },
+          {
+            "name": "Lokales Real Ale",
+            "tip": "Shropshire hat viele Brauereien. Fragen Sie nach einer lokalen Empfehlung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Shropshire Fidget pite",
+            "tip": "Kiadós pite sonkával, almával és burgonyával. Keresd a hagyományos pubokban."
+          },
+          {
+            "name": "Shrewsbury keksz",
+            "tip": "Könnyű, omlós keksz, gyakran mazsolával, tökéletes teához."
+          },
+          {
+            "name": "Helyi Real Ale",
+            "tip": "Shropshire tele van sörfőzdékkel. Kérj egy helyi ajánlást."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plăcinta Fidget din Shropshire",
+            "tip": "O plăcintă consistentă cu șuncă, mere și cartofi. Căutați-o în puburile tradiționale."
+          },
+          {
+            "name": "Biscuiți Shrewsbury",
+            "tip": "Un biscuit ușor și fraged, adesea cu coacăze, perfect pentru ceai."
+          },
+          {
+            "name": "Bere Real Ale locală",
+            "tip": "Shropshire are multe fabrici de bere. Cereți o recomandare locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shropshire Fidget Pie",
+            "tip": "A hearty pie made with ham, apples, and potatoes. Look for it in traditional pubs."
+          },
+          {
+            "name": "Shrewsbury Biscuits",
+            "tip": "A light, brittle biscuit, often with currants, perfect with tea."
+          },
+          {
+            "name": "Local Real Ale",
+            "tip": "Shropshire has many breweries. Ask for a local recommendation."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Der Wrekin-Gipfel",
+            "tip": "Ein atemberaubender Panoramablick über Shropshire. Ein Ort der Ruhe über allem.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Buildwas Abbey",
+            "tip": "Die ruhigen Ruinen dieses Zisterzienserklosters sind perfekt für eine kontemplative Pause.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang am Fluss Severn",
+            "tip": "Finden Sie einen ruhigen Ort am Flussufer, abseits der belebten Dorfzentren.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Wrekin csúcsa",
+            "tip": "Lélegzetelállító panoráma Shropshire-ra. A nyugalom helye minden felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Buildwas apátság",
+            "tip": "A ciszterci apátság csendes romjai tökéletesek egy elmélkedő szünethez.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a Severn folyó partján",
+            "tip": "Keress egy csendes helyet a folyóparton, távol a forgalmas falu központjától.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Wrekin",
+            "tip": "O priveliște panoramică uluitoare asupra Shropshire. Un loc de liniște deasupra tuturor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Abația Buildwas",
+            "tip": "Ruinele liniștite ale acestei abații cisterciene sunt perfecte pentru o pauză contemplativă.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare pe malul râului Severn",
+            "tip": "Găsiți un loc liniștit pe malul râului, departe de centrele aglomerate ale satelor.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "The Wrekin summit",
+            "tip": "A stunning panoramic view over Shropshire. A place of tranquility above it all.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Buildwas Abbey",
+            "tip": "The tranquil ruins of this Cistercian abbey are perfect for a contemplative pause.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "River Severn walk",
+            "tip": "Find a quiet spot by the riverbank, away from the busy village centres.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ironbridge Kunsthandwerk",
+            "tip": "Die kleinen Geschäfte im Dorf verkaufen lokal hergestellte Töpferwaren, Glaskunst und Kunst."
+          },
+          {
+            "name": "Museumsläden",
+            "tip": "Die Läden in Blists Hill und im Coalport China Museum bieten einzigartige Souvenirs und Nachbildungen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ironbridge-i kézműves termékek",
+            "tip": "A falu kis üzletei helyi készítésű kerámiákat, üvegmunkákat és művészeti alkotásokat árulnak."
+          },
+          {
+            "name": "Múzeumi boltok",
+            "tip": "A Blists Hill és a Coalport Kína Múzeum üzletei egyedi szuveníreket és másolatokat kínálnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat din Ironbridge",
+            "tip": "Micile magazine din sat vând ceramică, sticlărie și artă realizate local."
+          },
+          {
+            "name": "Magazinele muzeelor",
+            "tip": "Magazinele de la Blists Hill și Muzeul Porțelanului din Coalport oferă suveniruri și replici unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ironbridge Crafts",
+            "tip": "The small shops in the village sell locally made pottery, glassware, and art."
+          },
+          {
+            "name": "Museum Shops",
+            "tip": "The shops at Blists Hill and Coalport China Museum offer unique souvenirs and replicas."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein 'Passport Ticket', wenn Sie mehrere Museen besuchen möchten, um Geld zu sparen.",
+          "Das Parken kann in Ironbridge selbst eine Herausforderung sein; nutzen Sie die ausgewiesenen Langzeitparkplätze.",
+          "Blists Hill ist groß, planen Sie Ihre Route durch die Stadt, um nichts zu verpassen.",
+          "Das Benzin kann in ländlichen Gebieten teurer sein, also tanken Sie in Telford."
+        ],
+        "hu": [
+          "Vásárolj 'Passport' jegyet, ha több múzeumot is meg akarsz látogatni, hogy pénzt takaríts meg.",
+          "A parkolás Ironbridge-ben kihívást jelenthet; használd a kijelölt hosszú távú parkolókat.",
+          "Blists Hill nagy, tervezd meg az útvonaladat a városon keresztül, hogy ne maradj le semmiről.",
+          "Az üzemanyag drágább lehet a vidéki területeken, tankolj Telfordban."
+        ],
+        "ro": [
+          "Cumpărați un „Bilet Pașaport” dacă intenționați să vizitați mai multe muzee pentru a economisi bani.",
+          "Parcarea poate fi o provocare în Ironbridge; folosiți parcările desemnate pentru lungă durată.",
+          "Blists Hill este mare, planificați-vă traseul prin oraș pentru a nu rata nimic.",
+          "Benzina poate fi mai scumpă în zonele rurale, așa că alimentați în Telford."
+        ],
+        "en": [
+          "Buy a 'Passport Ticket' if you plan to visit multiple museums to save money.",
+          "Parking can be challenging in Ironbridge itself; use the designated long-stay car parks.",
+          "Blists Hill is large, plan your route through the town so you don't miss anything.",
+          "Fuel can be more expensive in rural areas, so fill up in Telford."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:53",
+      "total_km": 15.5,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Blists Hill Victorian Town",
+            "hu": "1. klaszter: Blists Hill viktoriánus város",
+            "ro": "Cluster 1: Orașul victorian Blists Hill",
+            "en": "Cluster 1: Blists Hill Victorian Town"
+          },
+          "coords": [
+            -2.463,
+            52.631
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 180,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus vom Bahnhof Telford. Planen Sie hier Ihr Mittagessen.",
+            "hu": "Szállj buszra a Telford állomásról. Tervezz itt ebédet.",
+            "ro": "Luați autobuzul de la stația Telford. Planificați prânzul aici.",
+            "en": "Take the bus from Telford station. Plan for lunch here."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Die Eisenbrücke",
+            "hu": "2. klaszter: Az Iron Bridge",
+            "ro": "Cluster 2: Podul de Fier",
+            "en": "Cluster 2: The Iron Bridge"
+          },
+          "coords": [
+            -2.4877,
+            52.6276
+          ],
+          "category": "bridges",
+          "arrive_at": "13:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein kurzer Bus-Hop bringt Sie ins Herz der Schlucht.",
+            "hu": "Egy rövid buszozás a szurdok szívébe visz.",
+            "ro": "O scurtă călătorie cu autobuzul vă duce în inima defileului.",
+            "en": "A short bus hop takes you to the heart of the gorge."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Museum of Iron",
+            "hu": "2. klaszter: Vasmúzeum",
+            "ro": "Cluster 2: Muzeul Fierului",
+            "en": "Cluster 2: Museum of Iron"
+          },
+          "coords": [
+            -2.4925,
+            52.6308
+          ],
+          "category": "museums",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie von der Brücke aus zu Fuß, es ist ein einfacher Spaziergang.",
+            "hu": "Sétálj a hídtól, könnyű séta.",
+            "ro": "Mergeți pe jos de la pod, este o plimbare ușoară.",
+            "en": "Walk from the bridge, it's an easy stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Telford Town Park",
+            "hu": "3. klaszter: Telford Town Park",
+            "ro": "Cluster 3: Parcul Telford Town",
+            "en": "Cluster 3: Telford Town Park"
+          },
+          "coords": [
+            -2.448,
+            52.675
+          ],
+          "category": "parks",
+          "arrive_at": "15:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück ins Stadtzentrum für einen entspannten Abschluss des Tages.",
+            "hu": "Menj vissza busszal a városközpontba egy pihentető napzáráshoz.",
+            "ro": "Luați autobuzul înapoi în centrul orașului pentru un final de zi relaxant.",
+            "en": "Take the bus back to the town centre for a relaxing end to the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie die Region mit öffentlichen Verkehrsmitteln, beginnend mit einer Busfahrt nach Blists Hill, wo Sie in die viktorianische Zeit eintauchen. Nach ein paar Stunden und einem Mittagessen bringt Sie ein kurzer Bus in das Dorf Ironbridge. Hier können Sie die berühmte Brücke und das Museum of Iron zu Fuß erkunden. Am späten Nachmittag kehren Sie mit dem Bus nach Telford zurück und beenden den Tag mit einem friedlichen Spaziergang durch den modernen Stadtpark, der einen Kontrast zur historischen Schlucht bildet.",
+        "hu": "Fedezd fel a régiót tömegközlekedéssel, kezdve egy buszúttal Blists Hillbe, ahol elmerülhetsz a viktoriánus korban. Néhány óra és egy ebéd után egy rövid busz a festői Ironbridge faluba visz. Itt gyalogosan fedezheted fel a híres hidat és a Vasmúzeumot. Késő délután busszal térj vissza Telfordba, és zárd a napot egy békés sétával a modern városi parkban, kontrasztot teremtve a történelmi szurdokkal.",
+        "ro": "Explorați regiunea cu transportul public, începând cu o călătorie cu autobuzul la Blists Hill pentru o imersiune în epoca victoriană. După câteva ore și prânz, un autobuz scurt vă va duce în satul Ironbridge. Aici, explorați faimosul pod și Muzeul Fierului pe jos. După-amiaza târziu, întoarceți-vă cu autobuzul la Telford și încheiați ziua cu o plimbare liniștită prin parcul modern al orașului, un contrast cu defileul istoric.",
+        "en": "Explore the region by public transport, starting with a bus ride to Blists Hill for a Victorian immersion. After a few hours and lunch, a short bus will take you to Ironbridge village. Here, explore the famous bridge and the Museum of Iron on foot. In the late afternoon, return to Telford by bus and end your day with a peaceful walk through the modern town park, a contrast to the historic gorge."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Shropshire Fidget Pie",
+            "tip": "Eine herzhafte Pastete mit Schinken, Äpfeln und Kartoffeln. Suchen Sie danach in traditionellen Pubs."
+          },
+          {
+            "name": "Shrewsbury Biscuits",
+            "tip": "Ein leichter, spröder Keks, oft mit Johannisbeeren, perfekt zum Tee."
+          },
+          {
+            "name": "Lokales Real Ale",
+            "tip": "Shropshire hat viele Brauereien. Fragen Sie nach einer lokalen Empfehlung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Shropshire Fidget pite",
+            "tip": "Kiadós pite sonkával, almával és burgonyával. Keresd a hagyományos pubokban."
+          },
+          {
+            "name": "Shrewsbury keksz",
+            "tip": "Könnyű, omlós keksz, gyakran mazsolával, tökéletes teához."
+          },
+          {
+            "name": "Helyi Real Ale",
+            "tip": "Shropshire tele van sörfőzdékkel. Kérj egy helyi ajánlást."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plăcinta Fidget din Shropshire",
+            "tip": "O plăcintă consistentă cu șuncă, mere și cartofi. Căutați-o în puburile tradiționale."
+          },
+          {
+            "name": "Biscuiți Shrewsbury",
+            "tip": "Un biscuit ușor și fraged, adesea cu coacăze, perfect pentru ceai."
+          },
+          {
+            "name": "Bere Real Ale locală",
+            "tip": "Shropshire are multe fabrici de bere. Cereți o recomandare locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shropshire Fidget Pie",
+            "tip": "A hearty pie made with ham, apples, and potatoes. Look for it in traditional pubs."
+          },
+          {
+            "name": "Shrewsbury Biscuits",
+            "tip": "A light, brittle biscuit, often with currants, perfect with tea."
+          },
+          {
+            "name": "Local Real Ale",
+            "tip": "Shropshire has many breweries. Ask for a local recommendation."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Buildwas Abbey",
+            "tip": "Die ruhigen Ruinen dieses Zisterzienserklosters sind perfekt für eine kontemplative Pause.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang am Fluss Severn",
+            "tip": "Abseits der Haupttouristenpfade bieten die Wege am Flussufer Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dale Coppice",
+            "tip": "Ein friedliches Waldgebiet in der Nähe von Ironbridge, ideal für einen kurzen, ruhigen Spaziergang.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buildwas apátság",
+            "tip": "A ciszterci apátság csendes romjai tökéletesek egy elmélkedő szünethez.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a Severn folyó partján",
+            "tip": "A fő turistaútvonalaktól távolabb a folyóparti ösvények nyugalmat kínálnak.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dale Coppice",
+            "tip": "Egy békés erdő az Ironbridge közelében, ideális egy rövid, csendes sétához.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Abația Buildwas",
+            "tip": "Ruinele liniștite ale acestei abații cisterciene sunt perfecte pentru o pauză contemplativă.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare pe malul râului Severn",
+            "tip": "Departe de principalele trasee turistice, cărările de pe malul râului oferă liniște.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dale Coppice",
+            "tip": "O pădure liniștită lângă Ironbridge, ideală pentru o plimbare scurtă și liniștită.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Buildwas Abbey",
+            "tip": "The tranquil ruins of this Cistercian abbey are perfect for a contemplative pause.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "River Severn walk",
+            "tip": "Away from the main tourist spots, the riverside paths offer tranquility.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dale Coppice",
+            "tip": "A peaceful woodland near Ironbridge, ideal for a short, quiet stroll.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ironbridge Kunsthandwerk",
+            "tip": "Die kleinen Geschäfte im Dorf verkaufen lokal hergestellte Töpferwaren, Glaskunst und Kunst."
+          },
+          {
+            "name": "Museumsläden",
+            "tip": "Die Läden in Blists Hill und im Coalport China Museum bieten einzigartige Souvenirs und Nachbildungen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ironbridge-i kézműves termékek",
+            "tip": "A falu kis üzletei helyi készítésű kerámiákat, üvegmunkákat és művészeti alkotásokat árulnak."
+          },
+          {
+            "name": "Múzeumi boltok",
+            "tip": "A Blists Hill és a Coalport Kína Múzeum üzletei egyedi szuveníreket és másolatokat kínálnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat din Ironbridge",
+            "tip": "Micile magazine din sat vând ceramică, sticlărie și artă realizate local."
+          },
+          {
+            "name": "Magazinele muzeelor",
+            "tip": "Magazinele de la Blists Hill și Muzeul Porțelanului din Coalport oferă suveniruri și replici unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ironbridge Crafts",
+            "tip": "The small shops in the village sell locally made pottery, glassware, and art."
+          },
+          {
+            "name": "Museum Shops",
+            "tip": "The shops at Blists Hill and Coalport China Museum offer unique souvenirs and replicas."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Busfahrpläne im Voraus, da die Verbindungen am Abend seltener werden können.",
+          "Eine Tageskarte könnte günstiger sein als Einzelfahrscheine.",
+          "Die Busse können an Wochenenden und in den Ferien überfüllt sein.",
+          "Laden Sie die Fahrpläne offline auf Ihr Telefon herunter, da der Empfang in der Schlucht lückenhaft sein kann."
+        ],
+        "hu": [
+          "Ellenőrizd előre a buszmenetrendet, mert az esti járatok ritkábbak lehetnek.",
+          "Egy napijegy olcsóbb lehet, mint a különálló jegyek.",
+          "A buszok zsúfoltak lehetnek hétvégén és ünnepnapokon.",
+          "Töltsd le a menetrendeket offline a telefonodra, mert a térerő a szurdokban foltos lehet."
+        ],
+        "ro": [
+          "Verificați orarele autobuzelor în avans, deoarece serviciile pot fi mai puțin frecvente seara.",
+          "Un bilet de o zi ar putea fi mai ieftin decât biletele individuale.",
+          "Autobuzele pot fi aglomerate în weekenduri și în timpul vacanțelor.",
+          "Descărcați orarele offline pe telefon, deoarece semnalul poate fi slab în defileu."
+        ],
+        "en": [
+          "Check bus timetables in advance, as services can be less frequent in the evening.",
+          "A day rider ticket might be cheaper than single fares.",
+          "Buses can be crowded on weekends and during holidays.",
+          "Download timetables offline to your phone as signal can be patchy in the gorge."
+        ]
+      }
+    }
+  }
+}

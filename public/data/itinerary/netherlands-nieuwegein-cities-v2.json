@@ -1,0 +1,1471 @@
+{
+  "city_id": "netherlands-nieuwegein-cities-v2",
+  "anchor": {
+    "name": "Nieuwegein",
+    "coords": [
+      5.084,
+      52.031
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Historisches Dorf Vreeswijk",
+            "hu": "Vreeswijk Történelmi Falu",
+            "ro": "Satul istoric Vreeswijk",
+            "en": "Historic Village Vreeswijk"
+          },
+          "coords": [
+            5.093,
+            52.011
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie mit Kaffee und Gebäck in einem der Cafés am Kanal.",
+            "hu": "Kezdje a napot egy kávéval és süteménnyel a csatorna menti kávézók egyikében.",
+            "ro": "Începeți cu o cafea și produse de patiserie la una dintre cafenelele de pe canal.",
+            "en": "Start with a coffee and a pastry at one of the canalside cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Museumswerft Vreeswijk",
+            "hu": "Vreeswijk Múzeumhajógyár",
+            "ro": "Șantierul naval muzeu Vreeswijk",
+            "en": "Museum Shipyard Vreeswijk"
+          },
+          "coords": [
+            5.094,
+            52.012
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schauen Sie sich die alten Schleusen und die traditionellen Binnenschiffe an.",
+            "hu": "Nézze meg a régi zsilipeket és a hagyományos belvízi hajókat.",
+            "ro": "Verificați ecluzele vechi și barjele tradiționale de navigație interioară.",
+            "en": "Check out the old locks and the traditional inland navigation barges."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt-Nikolaus-Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "Saint Nicholas Church"
+          },
+          "coords": [
+            5.092,
+            52.01
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die neugotischen Architekturelemente und die Glasfenster.",
+            "hu": "Figyelje meg a neogótikus építészeti részleteket és az ólomüveg ablakokat.",
+            "ro": "Observați detaliile arhitecturale neogotice și vitraliile.",
+            "en": "Note the neo-Gothic architectural details and the stained-glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Vreeswijk",
+            "hu": "Ebéd Vreeswijkben",
+            "ro": "Prânz în Vreeswijk",
+            "en": "Lunch in Vreeswijk"
+          },
+          "coords": [
+            5.093,
+            52.011
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie ein Mittagessen mit Blick auf den Lek-Kanal.",
+            "hu": "Ebédeljen a Lek-csatornára néző kilátással.",
+            "ro": "Savurați prânzul cu vedere la Canalul Lek.",
+            "en": "Enjoy lunch overlooking the Lek Canal."
+          }
+        },
+        {
+          "name": {
+            "de": "Park Oudegein",
+            "hu": "Oudegein Park",
+            "ro": "Parcul Oudegein",
+            "en": "Park Oudegein"
+          },
+          "coords": [
+            5.068,
+            52.025
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ideal für einen entspannten Spaziergang. Besuchen Sie auch den Streichelzoo.",
+            "hu": "Ideális egy pihentető sétához. Látogasson el az állatsimogatóba is.",
+            "ro": "Ideal pentru o plimbare relaxantă. Vizitați și grădina zoologică.",
+            "en": "Ideal for a relaxing walk. Visit the petting zoo as well."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Oudegein",
+            "hu": "Oudegein kastély",
+            "ro": "Castelul Oudegein",
+            "en": "Oudegein Castle"
+          },
+          "coords": [
+            5.067,
+            52.026
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie das Schloss von außen, da es in Privatbesitz ist.",
+            "hu": "Csodálja meg a kastélyt kívülről, mivel magántulajdonban van.",
+            "ro": "Admirați castelul din exterior, deoarece este proprietate privată.",
+            "en": "Admire the castle from the outside as it is privately owned."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im charmanten alten Dorf Vreeswijk, wo die Geschichte der Binnenschifffahrt lebendig wird. Schlendern Sie entlang der Kanäle und entdecken Sie die alten Schleusen und die neugotische Nikolauskirche, bevor Sie ein gemütliches Mittagessen am Wasser genießen.\nAm Nachmittag führt Sie ein ausgedehnter Spaziergang in die grüne Oase des Parks Oudegein. Hier finden Sie Ruhe zwischen alten Bäumen und Wasserläufen.\nDer Weg durch den Park führt Sie direkt zum Schloss Oudegein, einem malerischen Anwesen mit einer reichen Geschichte. Die Außenansicht des Schlosses bietet einen Einblick in die aristokratische Vergangenheit der Region.\nDer Tag endet mit einem letzten Blick auf das Anwesen, während die Sonne untergeht. Die Kombination aus historischem Dorfcharme und grüner Parklandschaft macht diesen Spaziergang zu einem vielfältigen Erlebnis in Nieuwegein.",
+        "hu": "A nap a bájos Vreeswijk ófaluban kezdődik, ahol a belvízi hajózás története megelevenedik. Sétáljon a csatornák mentén, fedezze fel a régi zsilipeket és a neogótikus Szent Miklós-templomot, mielőtt elfogyasztana egy kellemes ebédet a vízparton.\nDélután egy hosszabb séta vezet az Oudegein Park zöld oázisába. Itt nyugalmat talál az öreg fák és a vízfolyások között.\nA parkon átvezető út egyenesen az Oudegein kastélyhoz visz, egy festői birtokhoz, amely gazdag történelemmel rendelkezik. A kastély külső látványa bepillantást enged a régió arisztokrata múltjába.\nA nap a birtokra vetett utolsó pillantással ér véget, miközben a nap lenyugszik. A történelmi falusi báj és a zöld parkvidék kombinációja teszi ezt a sétát egy változatos élménnyé Nieuwegeinben.",
+        "ro": "Ziua începe în fermecătorul sat vechi Vreeswijk, unde istoria navigației interioare prinde viață. Plimbați-vă de-a lungul canalelor, descoperiți ecluzele vechi și biserica neogotică Sf. Nicolae, înainte de a savura un prânz plăcut pe malul apei.\nDupă-amiaza, o plimbare extinsă vă duce în oaza verde a Parcului Oudegein. Aici veți găsi liniște printre copacii bătrâni și cursurile de apă.\nCalea prin parc vă duce direct la Castelul Oudegein, o proprietate pitorească cu o istorie bogată. Priveliștea exterioară a castelului oferă o perspectivă asupra trecutului aristocratic al regiunii.\nZiua se încheie cu o ultimă privire asupra proprietății în timp ce soarele apune. Combinația dintre farmecul satului istoric și peisajul parcului verde face din această plimbare o experiență diversă în Nieuwegein.",
+        "en": "The day begins in the charming old village of Vreeswijk, where the history of inland navigation comes to life. Stroll along the canals, discover the old locks and the neo-Gothic St. Nicholas Church before enjoying a pleasant lunch by the water.\nIn the afternoon, an extended walk takes you to the green oasis of Park Oudegein. Here you will find tranquility among old trees and watercourses.\nThe path through the park leads you directly to Oudegein Castle, a picturesque estate with a rich history. The exterior view of the castle offers a glimpse into the region's aristocratic past.\nThe day ends with a final look at the estate as the sun sets. The combination of historic village charm and green parkland makes this walk a diverse experience in Nieuwegein."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Poffertjes",
+            "tip": "Probieren Sie diese kleinen, flauschigen Pfannkuchen in einem Café in Vreeswijk."
+          },
+          {
+            "name": "Holländischer Hering",
+            "tip": "Wenn Sie mutig sind, versuchen Sie einen rohen Hering von einem lokalen Stand."
+          },
+          {
+            "name": "Stroopwafel",
+            "tip": "Eine klassische holländische Leckerei, perfekt zu einem Kaffee am Nachmittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Poffertjes",
+            "tip": "Kóstolja meg ezeket a kis, puha palacsintákat egy vreeswijki kávézóban."
+          },
+          {
+            "name": "Holland hering",
+            "tip": "Ha bátor, próbáljon ki egy nyers heringet egy helyi standnál."
+          },
+          {
+            "name": "Stroopwafel",
+            "tip": "Klasszikus holland finomság, tökéletes egy délutáni kávé mellé."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poffertjes",
+            "tip": "Încercați aceste clătite mici și pufoase la o cafenea din Vreeswijk."
+          },
+          {
+            "name": "Hering olandez",
+            "tip": "Dacă sunteți curajos, încercați un hering crud de la o tarabă locală."
+          },
+          {
+            "name": "Stroopwafel",
+            "tip": "Un deliciu olandez clasic, perfect cu o cafea de după-amiază."
+          }
+        ],
+        "en": [
+          {
+            "name": "Poffertjes",
+            "tip": "Try these small, fluffy pancakes at a café in Vreeswijk."
+          },
+          {
+            "name": "Dutch Herring",
+            "tip": "If you're brave, try a raw herring from a local stand."
+          },
+          {
+            "name": "Stroopwafel",
+            "tip": "A classic Dutch treat, perfect with an afternoon coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park Oudegein",
+            "tip": "Finden Sie eine ruhige Bank am Wasser und beobachten Sie die Enten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Lek-Kanals",
+            "tip": "Ein friedlicher Ort, um die vorbeifahrenden Boote zu beobachten.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gärten von Schloss Oudegein",
+            "tip": "Genießen Sie die Ruhe rund um das historische Anwesen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Oudegein Park",
+            "tip": "Keressen egy csendes padot a víz mellett, és nézze a kacsákat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Lek-csatorna partja",
+            "tip": "Békés hely a hajók elhaladásának megfigyelésére.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Oudegein kastély kertje",
+            "tip": "Élvezze a csendet a történelmi birtok körül.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Oudegein",
+            "tip": "Găsiți o bancă liniștită lângă apă și priviți rațele.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul Canalului Lek",
+            "tip": "Un loc pașnic pentru a privi bărcile trecând.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile Castelului Oudegein",
+            "tip": "Bucurați-vă de liniștea din jurul moșiei istorice.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Park Oudegein",
+            "tip": "Find a quiet bench by the water and watch the ducks.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the Lek Canal",
+            "tip": "A peaceful spot to watch the boats go by.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gardens of Oudegein Castle",
+            "tip": "Enjoy the tranquility around the historic estate.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt in Vreeswijk",
+            "tip": "Suchen Sie nach lokalen Produkten und Käse, wenn Markttag ist."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Entdecken Sie kleine, unabhängige Geschäden in den alten Straßen für einzigartige Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac Vreeswijkben",
+            "tip": "Keressen helyi termékeket és sajtot, ha piacnap van."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Fedezze fel a kis, független boltokat a régi utcákban egyedi ajándéktárgyakért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală din Vreeswijk",
+            "tip": "Căutați produse locale și brânză dacă este zi de piață."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Explorați magazinele mici, independente de pe străzile vechi pentru suveniruri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly market in Vreeswijk",
+            "tip": "Look for local produce and cheese if it's market day."
+          },
+          {
+            "name": "Craft shops",
+            "tip": "Explore small, independent shops on the old streets for unique souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Eine wiederverwendbare Wasserflasche ist nützlich.",
+          "Halten Sie eine Kamera für die malerischen Szenen in Vreeswijk bereit.",
+          "Überprüfen Sie die Öffnungszeiten des Museumswerfts im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Egy újrafelhasználható vizes palack hasznos.",
+          "Tartson készenlétben egy fényképezőgépet a vreeswijki festői jelenetekhez.",
+          "Előre ellenőrizze a Múzeumhajógyár nyitvatartási idejét."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge mult pe jos.",
+          "O sticlă de apă reutilizabilă este utilă.",
+          "Pregătiți o cameră foto pentru scenele pitorești din Vreeswijk.",
+          "Verificați în avans orele de deschidere ale Șantierului Naval Muzeu."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "A reusable water bottle is useful.",
+          "Keep a camera ready for the picturesque scenes in Vreeswijk.",
+          "Check the opening hours for the Museum Shipyard in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 14.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Start in Vreeswijk",
+            "hu": "Indulás Vreeswijkből",
+            "ro": "Start în Vreeswijk",
+            "en": "Start in Vreeswijk"
+          },
+          "coords": [
+            5.093,
+            52.011
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Mieten Sie ein Fahrrad und genießen Sie die Atmosphäre am Wasser.",
+            "hu": "Béreljen kerékpárt, és élvezze a vízparti hangulatot.",
+            "ro": "Închiriați o bicicletă și bucurați-vă de atmosfera de pe malul apei.",
+            "en": "Rent a bike and enjoy the waterside atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Museumswerft Vreeswijk",
+            "hu": "Vreeswijk Múzeumhajógyár",
+            "ro": "Șantierul naval muzeu Vreeswijk",
+            "en": "Museum Shipyard Vreeswijk"
+          },
+          "coords": [
+            5.094,
+            52.012
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:58",
+          "stay_min": 50,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um die historische Schiffbautechnik zu sehen.",
+            "hu": "Egy rövid megálló a történelmi hajóépítési technikák megtekintésére.",
+            "ro": "O scurtă oprire pentru a vedea tehnicile istorice de construcție navală.",
+            "en": "A quick stop to see the historic shipbuilding techniques."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort Jutphaas",
+            "hu": "Jutphaas erőd",
+            "ro": "Fortul Jutphaas",
+            "en": "Fort Jutphaas"
+          },
+          "coords": [
+            5.098,
+            52.042
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:08",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Teil der Neuen Holländischen Wasserlinie, heute ein Restaurant.",
+            "hu": "Az Új Holland Vízivédvonal része, ma étterem.",
+            "ro": "Parte a Noii Linii de Apă Olandeze, acum un restaurant.",
+            "en": "Part of the New Dutch Waterline, now a restaurant."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Rijnhuizen",
+            "hu": "Rijnhuizen kastély",
+            "ro": "Castelul Rijnhuizen",
+            "en": "Rijnhuizen Castle"
+          },
+          "coords": [
+            5.095,
+            52.045
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses historischen Hauses.",
+            "hu": "Csodálja meg ennek a történelmi háznak az építészetét.",
+            "ro": "Admirați arhitectura acestei case istorice.",
+            "en": "Admire the architecture of this historic house."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Parks",
+            "hu": "Ebéd a park közelében",
+            "ro": "Prânz lângă parc",
+            "en": "Lunch near the park"
+          },
+          "coords": [
+            5.07,
+            52.028
+          ],
+          "category": "gastro",
+          "arrive_at": "13:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Suchen Sie sich ein Restaurant mit Terrasse, um die Räder auszuruhen.",
+            "hu": "Keressen egy teraszos éttermet, hogy pihentesse a kerékpárt.",
+            "ro": "Găsiți un restaurant cu terasă pentru a vă odihni bicicletele.",
+            "en": "Find a restaurant with a terrace to rest your wheels."
+          }
+        },
+        {
+          "name": {
+            "de": "Park Oudegein",
+            "hu": "Oudegein Park",
+            "ro": "Parcul Oudegein",
+            "en": "Park Oudegein"
+          },
+          "coords": [
+            5.068,
+            52.025
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:29",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Machen Sie eine gemütliche Radtour durch den Park.",
+            "hu": "Tegyen egy kényelmes biciklitúrát a parkon keresztül.",
+            "ro": "Faceți o plimbare relaxantă cu bicicleta prin parc.",
+            "en": "Take a leisurely bike ride through the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Oudegein",
+            "hu": "Oudegein kastély",
+            "ro": "Castelul Oudegein",
+            "en": "Oudegein Castle"
+          },
+          "coords": [
+            5.067,
+            52.026
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:35",
+          "stay_min": 35,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein perfekter Abschluss Ihrer Schlosstour mit dem Fahrrad.",
+            "hu": "Tökéletes befejezése a kerékpáros kastélytúrának.",
+            "ro": "Un final perfect pentru turul castelelor pe bicicletă.",
+            "en": "A perfect end to your castle tour by bike."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und starten Sie in Vreeswijk, einem Zentrum der Schifffahrtsgeschichte. Die erste Etappe führt Sie entlang von Wasserwegen zu den Festungsanlagen der Region, darunter Fort Jutphaas und das stattliche Schloss Rijnhuizen, die beide Zeugen der reichen niederländischen Verteidigungsgeschichte sind.\nNach der Erkundung der Festungen radeln Sie weiter zu einem wohlverdienten Mittagessen. Gestärkt geht es dann in die grüne Weite des Parks Oudegein. Die Wege hier sind ideal für eine entspannte Fahrt, umgeben von Natur.\nDie Tour gipfelt im Besuch des Schlosses Oudegein, das malerisch im Park liegt. Dieses letzte Schloss rundet Ihre Radtour durch die Geschichte und Natur von Nieuwegein ab.\nAm späten Nachmittag radeln Sie gemütlich zurück, voller Eindrücke von den Wasserstraßen, Festungen und der grünen Landschaft, die diese Radtour so besonders machen.",
+        "hu": "Pattanjon kerékpárra, és induljon Vreeswijkből, a hajózás történelmének központjából. Az első szakasz vízi utak mentén vezet a régió erődítményeihez, köztük a Jutphaas erődhöz és a fenséges Rijnhuizen kastélyhoz, mindkettő a gazdag holland védelmi történelem tanúja.\nAz erődítmények felfedezése után tekerjen tovább egy jól megérdemelt ebédre. Feltöltődve folytassa útját az Oudegein Park zöld területeire. Az itteni utak ideálisak egy pihentető kerékpározáshoz, természettel körülvéve.\nA túra csúcspontja az Oudegein kastély meglátogatása, amely festői környezetben fekszik a parkban. Ez az utolsó kastély teszi teljessé a kerékpártúrát Nieuwegein történelmében és természetében.\nKéső délután kényelmesen tekerjen vissza, tele a vízi utak, erődítmények és a zöld táj benyomásaival, amelyek ezt a kerékpártúrát oly különlegessé teszik.",
+        "ro": "Urcați-vă pe bicicletă și porniți din Vreeswijk, un centru al istoriei navigației. Prima etapă vă duce de-a lungul căilor navigabile către fortificațiile regiunii, inclusiv Fortul Jutphaas și impunătorul Castel Rijnhuizen, ambele martore ale bogatei istorii de apărare olandeze.\nDupă explorarea forturilor, pedalați mai departe pentru un prânz binemeritat. Revigorat, continuați spre întinderea verde a Parcului Oudegein. Căile de aici sunt ideale pentru o plimbare relaxantă, înconjurat de natură.\nTurul culminează cu o vizită la Castelul Oudegein, situat pitoresc în parc. Acest ultim castel completează turul pe bicicletă prin istoria și natura din Nieuwegein.\nSpre sfârșitul după-amiezii, pedalați înapoi pe îndelete, plin de impresii de la căile navigabile, fortărețe și peisajul verde care fac acest tur pe bicicletă atât de special.",
+        "en": "Get on your bike and start in Vreeswijk, a hub of shipping history. The first stage takes you along waterways to the region's fortifications, including Fort Jutphaas and the stately Rijnhuizen Castle, both witnesses to the rich Dutch defense history.\nAfter exploring the forts, cycle on for a well-deserved lunch. Refreshed, continue to the green expanse of Park Oudegein. The paths here are ideal for a relaxing ride, surrounded by nature.\nThe tour culminates in a visit to Oudegein Castle, picturesquely situated in the park. This final castle completes your bike tour through the history and nature of Nieuwegein.\nIn the late afternoon, cycle back at a leisurely pace, full of impressions of the waterways, fortresses, and green landscape that make this bike tour so special."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Uitsmijter",
+            "tip": "Ein herzhaftes holländisches Mittagessen mit Brot, Schinken, Käse und Spiegeleiern."
+          },
+          {
+            "name": "Appeltaart",
+            "tip": "Belohnen Sie sich nach einer Radtour mit einem Stück holländischem Apfelkuchen."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Probieren Sie ein Bier aus einer der Brauereien in der Provinz Utrecht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Uitsmijter",
+            "tip": "Kiadós holland ebéd kenyérrel, sonkával, sajttal és tükörtojással."
+          },
+          {
+            "name": "Appeltaart",
+            "tip": "Jutalmazza meg magát egy szelet holland almatortával egy biciklitúra után."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Kóstoljon meg egy sört az Utrechti tartomány egyik sörfőzdéjéből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Uitsmijter",
+            "tip": "Un prânz olandez consistent cu pâine, șuncă, brânză și ouă ochiuri."
+          },
+          {
+            "name": "Appeltaart",
+            "tip": "Recompensați-vă cu o felie de plăcintă cu mere olandeză după o plimbare cu bicicleta."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "Încercați o bere de la una dintre fabricile de bere din provincia Utrecht."
+          }
+        ],
+        "en": [
+          {
+            "name": "Uitsmijter",
+            "tip": "A hearty Dutch lunch with bread, ham, cheese, and fried eggs."
+          },
+          {
+            "name": "Appeltaart",
+            "tip": "Reward yourself with a slice of Dutch apple pie after a bike ride."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Try a beer from one of the breweries in the Utrecht province."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Entlang des Amsterdam-Rhein-Kanals",
+            "tip": "Finden Sie einen ruhigen Ort und beobachten Sie die großen Frachtschiffe.",
+            "emoji": "🚢"
+          },
+          {
+            "name": "Rund um Schloss Rijnhuizen",
+            "tip": "Die Gärten bieten eine friedliche Atmosphäre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Versteckte Ecken im Park Oudegein",
+            "tip": "Abseits der Hauptwege finden Sie ruhige Plätze.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az Amszterdam–Rajna-csatorna mentén",
+            "tip": "Keressen egy csendes helyet, és nézze a nagy teherhajókat.",
+            "emoji": "🚢"
+          },
+          {
+            "name": "A Rijnhuizen kastély körül",
+            "tip": "A kertek békés hangulatot kínálnak.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Rejtett zugok az Oudegein Parkban",
+            "tip": "A fő utaktól távol csendes helyeket talál.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "De-a lungul Canalului Amsterdam-Rin",
+            "tip": "Găsiți un loc liniștit și priviți navele mari de marfă.",
+            "emoji": "🚢"
+          },
+          {
+            "name": "În jurul Castelului Rijnhuizen",
+            "tip": "Grădinile oferă o atmosferă pașnică.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Colțuri ascunse în Parcul Oudegein",
+            "tip": "Departe de căile principale, veți găsi locuri liniștite.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Along the Amsterdam-Rhine Canal",
+            "tip": "Find a quiet spot and watch the large cargo ships.",
+            "emoji": "🚢"
+          },
+          {
+            "name": "Around Rijnhuizen Castle",
+            "tip": "The gardens offer a peaceful atmosphere.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hidden corners in Park Oudegein",
+            "tip": "Away from the main paths, you'll find quiet spots.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Kaufen Sie einzigartiges niederländisches Fahrradzubehör."
+          },
+          {
+            "name": "Cityplaza Einkaufszentrum",
+            "tip": "Wenn Sie eine Pause vom Radfahren brauchen, bietet dieses moderne Zentrum eine Vielzahl von Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Vásároljon egyedi holland kerékpár-kiegészítőket."
+          },
+          {
+            "name": "Cityplaza bevásárlóközpont",
+            "tip": "Ha szünetet tartana a kerékpározásban, ez a modern központ számos üzletet kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Cumpărați accesorii unice pentru biciclete olandeze."
+          },
+          {
+            "name": "Centrul comercial Cityplaza",
+            "tip": "Dacă aveți nevoie de o pauză de la ciclism, acest centru modern oferă o varietate de magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shops",
+            "tip": "Shop for unique Dutch cycling accessories."
+          },
+          {
+            "name": "Cityplaza Shopping Centre",
+            "tip": "If you need a break from cycling, this modern centre offers a variety of shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck vor der Abfahrt.",
+          "Ein gutes Schloss ist unerlässlich, wenn Sie Ihr Fahrrad abstellen.",
+          "Die Niederlande sind flach, aber eine Gangschaltung ist dennoch nützlich.",
+          "Folgen Sie den 'fietspad'-Schildern für dedizierte Radwege."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Egy jó lakat elengedhetetlen, ha leparkolja a kerékpárt.",
+          "Hollandia sík, de egy sebességváltó mégis hasznos.",
+          "Kövesse a 'fietspad' táblákat a kijelölt kerékpárutakhoz."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de a pleca.",
+          "O încuietoare bună este esențială atunci când vă parcați bicicleta.",
+          "Olanda este plată, dar un schimbător de viteze este totuși util.",
+          "Urmați indicatoarele 'fietspad' pentru piste de biciclete dedicate."
+        ],
+        "en": [
+          "Check your tire pressure before you leave.",
+          "A good lock is essential when parking your bike.",
+          "The Netherlands is flat, but gears are still useful.",
+          "Follow the 'fietspad' signs for dedicated bike paths."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 11.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Vreeswijk: Parken",
+            "hu": "Vreeswijk Klaszter: Parkolás",
+            "ro": "Cluster Vreeswijk: Parcare",
+            "en": "Vreeswijk Cluster: Parking"
+          },
+          "coords": [
+            5.095,
+            52.01
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto in der Nähe des Zentrums von Vreeswijk und erkunden Sie den Rest zu Fuß.",
+            "hu": "Parkolja le autóját Vreeswijk központjának közelében, a többit pedig fedezze fel gyalog.",
+            "ro": "Parcați mașina lângă centrul Vreeswijk și explorați restul pe jos.",
+            "en": "Park your car near the centre of Vreeswijk and explore the rest on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Museumswerft Vreeswijk",
+            "hu": "Vreeswijk Múzeumhajógyár",
+            "ro": "Șantierul naval muzeu Vreeswijk",
+            "en": "Museum Shipyard Vreeswijk"
+          },
+          "coords": [
+            5.094,
+            52.012
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz zum Herzen der maritimen Geschichte.",
+            "hu": "Egy rövid séta a parkolótól a tengerészeti történelem szívébe.",
+            "ro": "O scurtă plimbare de la parcare la inima istoriei maritime.",
+            "en": "A short walk from the parking spot to the heart of maritime history."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt-Nikolaus-Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "Saint Nicholas Church"
+          },
+          "coords": [
+            5.092,
+            52.01
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Kirche, bevor Sie zu Mittag essen.",
+            "hu": "Csodálja meg a templomot ebéd előtt.",
+            "ro": "Admirați biserica înainte de a lua prânzul.",
+            "en": "Admire the church before having lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Jutphaas: Fort & Schloss",
+            "hu": "Jutphaas Klaszter: Erőd és kastély",
+            "ro": "Cluster Jutphaas: Fort și castel",
+            "en": "Jutphaas Cluster: Fort & Castle"
+          },
+          "coords": [
+            5.098,
+            52.042
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Fort Jutphaas, parken Sie und erkunden Sie die Umgebung.",
+            "hu": "Vezessen a Jutphaas erődhöz, parkoljon le, és fedezze fel a környéket.",
+            "ro": "Conduceți la Fortul Jutphaas, parcați și explorați zona.",
+            "en": "Drive to Fort Jutphaas, park, and explore the area."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Rijnhuizen",
+            "hu": "Rijnhuizen kastély",
+            "ro": "Castelul Rijnhuizen",
+            "en": "Rijnhuizen Castle"
+          },
+          "coords": [
+            5.095,
+            52.045
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:26",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Fort zum benachbarten Schloss.",
+            "hu": "Egy rövid séta az erődtől a szomszédos kastélyig.",
+            "ro": "O scurtă plimbare de la fort la castelul învecinat.",
+            "en": "A short walk from the fort to the neighboring castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Oudegein: Park & Mittagessen",
+            "hu": "Oudegein Klaszter: Park és Ebéd",
+            "ro": "Cluster Oudegein: Parc și prânz",
+            "en": "Oudegein Cluster: Park & Lunch"
+          },
+          "coords": [
+            5.068,
+            52.025
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:12",
+          "stay_min": 120,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Park Oudegein für einen Spaziergang und ein spätes Mittagessen.",
+            "hu": "Parkoljon az Oudegein Parknál egy sétára és egy késői ebédre.",
+            "ro": "Parcați la Parcul Oudegein pentru o plimbare și un prânz târziu.",
+            "en": "Park at Park Oudegein for a walk and a late lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Oudegein",
+            "hu": "Oudegein kastély",
+            "ro": "Castelul Oudegein",
+            "en": "Oudegein Castle"
+          },
+          "coords": [
+            5.067,
+            52.026
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:17",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schließen Sie den Tag mit einem Blick auf das im Park gelegene Schloss ab.",
+            "hu": "Zárja a napot a parkban található kastély megtekintésével.",
+            "ro": "Încheiați ziua cu o priveliște a castelului situat în parc.",
+            "en": "End the day with a view of the castle located in the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit dem Auto beginnt im Vreeswijk-Cluster. Parken Sie einmal und erkunden Sie das historische Dorf, das Museumswerft und die Kirche zu Fuß, um die maritime Atmosphäre aufzusaugen. Der Spaziergang durch die Gassen gibt Ihnen ein Gefühl für die Vergangenheit des Ortes.\nAm späten Vormittag fahren Sie zum Jutphaas-Cluster. Hier entdecken Sie das beeindruckende Fort Jutphaas und das nahegelegene Schloss Rijnhuizen, beides wichtige historische Stätten. Ein kurzer Spaziergang verbindet diese beiden Sehenswürdigkeiten.\nDie letzte Fahrt des Tages bringt Sie zum Oudegein-Cluster, wo Sie nach einem Spaziergang im weitläufigen Park ein spätes Mittagessen einnehmen. Der Höhepunkt hier ist das Schloss Oudegein, das Sie bequem zu Fuß vom Park aus erreichen.\nDieser Autotag ist so konzipiert, dass Sie die Parkplatzsuche minimieren und die Zeit maximieren, die Sie mit der Erkundung der historischen und natürlichen Schönheit von Nieuwegein verbringen, indem Sie zwischen den Clustern fahren und innerhalb dieser gehen.",
+        "hu": "Autós napja a Vreeswijk-klaszterben kezdődik. Parkoljon le egyszer, és fedezze fel gyalog a történelmi falut, a múzeumhajógyárat és a templomot, hogy magába szívja a tengeri hangulatot. A sikátorokban való séta bepillantást enged a hely múltjába.\nKéső délelőtt vezessen a Jutphaas-klaszterhez. Itt felfedezheti a lenyűgöző Jutphaas erődöt és a közeli Rijnhuizen kastélyt, mindkettő fontos történelmi helyszín. Egy rövid séta köti össze ezt a két látnivalót.\nA nap utolsó autózása az Oudegein-klaszterhez visz, ahol egy tágas parkban tett séta után késői ebédet fogyaszthat. A csúcspont itt az Oudegein kastély, amelyet kényelmesen elérhet gyalog a parkból.\nEz az autós nap úgy van kialakítva, hogy minimalizálja a parkolóhely-keresést, és maximalizálja a Nieuwegein történelmi és természeti szépségeinek felfedezésével töltött időt, a klaszterek közötti vezetéssel és azokon belüli sétával.",
+        "ro": "Ziua cu mașina începe în clusterul Vreeswijk. Parcați o dată și explorați satul istoric, șantierul naval muzeu și biserica pe jos pentru a absorbi atmosfera maritimă. Plimbarea pe alei vă oferă o senzație a trecutului locului.\nSpre sfârșitul dimineții, conduceți spre clusterul Jutphaas. Aici veți descoperi impresionantul Fort Jutphaas și Castelul Rijnhuizen din apropiere, ambele situri istorice importante. O scurtă plimbare leagă aceste două atracții.\nUltima călătorie a zilei vă duce la clusterul Oudegein, unde luați un prânz târziu după o plimbare în parcul extins. Punctul culminant aici este Castelul Oudegein, la care puteți ajunge convenabil pe jos din parc.\nAceastă zi cu mașina este concepută pentru a minimiza căutarea parcării și a maximiza timpul petrecut explorând frumusețea istorică și naturală a Nieuwegein, conducând între clustere și mergând pe jos în interiorul lor.",
+        "en": "Your day by car begins in the Vreeswijk cluster. Park once and explore the historic village, the museum shipyard, and the church on foot to soak up the maritime atmosphere. The walk through the alleys gives you a feel for the place's past.\nIn the late morning, drive to the Jutphaas cluster. Here you'll discover the impressive Fort Jutphaas and the nearby Rijnhuizen Castle, both important historical sites. A short walk connects these two sights.\nThe last drive of the day takes you to the Oudegein cluster, where you have a late lunch after a walk in the spacious park. The highlight here is Oudegein Castle, which you can conveniently reach on foot from the park.\nThis car day is designed to minimize parking searches and maximize the time spent exploring the historical and natural beauty of Nieuwegein by driving between clusters and walking within them."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pfannkuchenhaus",
+            "tip": "In der Nähe von Park Oudegein gibt es oft Pfannkuchenhäuser, eine niederländische Spezialität."
+          },
+          {
+            "name": "Broodje Kroket",
+            "tip": "Ein schneller und leckerer Snack, den man in vielen Cafés findet."
+          },
+          {
+            "name": "Kibbeling",
+            "tip": "Frittierte Fischstücke, ideal für ein schnelles Mittagessen in Vreeswijk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palacsintaház",
+            "tip": "Az Oudegein Park közelében gyakran találhatók palacsintaházak, ami egy holland specialitás."
+          },
+          {
+            "name": "Broodje Kroket",
+            "tip": "Gyors és finom harapnivaló, amelyet számos kávézóban megtalál."
+          },
+          {
+            "name": "Kibbeling",
+            "tip": "Sült haldarabkák, ideális egy gyors ebédhez Vreeswijkben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Casă de clătite (Pannenkoekenhuis)",
+            "tip": "Lângă Parcul Oudegein există adesea case de clătite, o specialitate olandeză."
+          },
+          {
+            "name": "Broodje Kroket",
+            "tip": "O gustare rapidă și delicioasă găsită în multe cafenele."
+          },
+          {
+            "name": "Kibbeling",
+            "tip": "Bucăți de pește prăjit, ideale pentru un prânz rapid în Vreeswijk."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pancake House (Pannenkoekenhuis)",
+            "tip": "Near Park Oudegein, there are often pancake houses, a Dutch specialty."
+          },
+          {
+            "name": "Broodje Kroket",
+            "tip": "A quick and delicious snack found in many cafes."
+          },
+          {
+            "name": "Kibbeling",
+            "tip": "Fried chunks of fish, ideal for a quick lunch in Vreeswijk."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussicht vom Deich",
+            "tip": "Fahren Sie zu einem der Deiche entlang des Lek für eine weite Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Naturgebiet IJsselbos",
+            "tip": "Ein Waldgebiet südlich von Nieuwegein für einen ruhigen Spaziergang.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Rund um Fort Jutphaas",
+            "tip": "Das Wasser und die alten Mauern schaffen eine ruhige Atmosphäre.",
+            "emoji": "🏰"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a gátról",
+            "tip": "Vezessen a Lek menti egyik gáthoz a széles kilátásért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "IJsselbos természetvédelmi terület",
+            "tip": "Egy erdős terület Nieuwegeintől délre egy csendes sétáért.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "A Jutphaas erőd körül",
+            "tip": "A víz és a régi falak csendes hangulatot teremtenek.",
+            "emoji": "🏰"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de pe dig",
+            "tip": "Conduceți la unul dintre digurile de-a lungul râului Lek pentru o priveliște vastă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rezervația naturală IJsselbos",
+            "tip": "O zonă împădurită la sud de Nieuwegein pentru o plimbare liniștită.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "În jurul Fortului Jutphaas",
+            "tip": "Apa și zidurile vechi creează o atmosferă liniștită.",
+            "emoji": "🏰"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the dike",
+            "tip": "Drive to one of the dikes along the Lek river for a wide view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "IJsselbos Nature Reserve",
+            "tip": "A wooded area south of Nieuwegein for a quiet walk.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Around Fort Jutphaas",
+            "tip": "The water and old walls create a quiet atmosphere.",
+            "emoji": "🏰"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bauernläden",
+            "tip": "Halten Sie auf dem Land nach 'Boerderijwinkel' für frische Produkte und Käse Ausschau."
+          },
+          {
+            "name": "Muntplein",
+            "tip": "Ein weiteres Einkaufsgebiet in Nieuwegein für den täglichen Bedarf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok",
+            "tip": "Keresse a 'Boerderijwinkel' feliratot a vidéken friss termékekért és sajtokért."
+          },
+          {
+            "name": "Muntplein",
+            "tip": "Egy másik bevásárlónegyed Nieuwegeinben a mindennapi szükségletekhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de fermă",
+            "tip": "Căutați 'Boerderijwinkel' la țară pentru produse proaspete și brânză."
+          },
+          {
+            "name": "Muntplein",
+            "tip": "O altă zonă comercială în Nieuwegein pentru nevoile zilnice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops",
+            "tip": "Look for 'Boerderijwinkel' in the countryside for fresh produce and cheese."
+          },
+          {
+            "name": "Muntplein",
+            "tip": "Another shopping area in Nieuwegein for daily needs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Verwenden Sie eine Navigations-App, um zwischen den Clustern zu navigieren.",
+          "In den Niederlanden gilt 'rechts vor links', sofern nicht anders angegeben.",
+          "Achten Sie auf die vielen Radfahrer, sie haben oft Vorfahrt.",
+          "Parkgebühren können in den Zentren hoch sein, suchen Sie nach 'P+R'-Optionen."
+        ],
+        "hu": [
+          "Használjon navigációs alkalmazást a klaszterek közötti navigáláshoz.",
+          "Hollandiában a 'jobbkéz-szabály' érvényes, hacsak másként nem jelzik.",
+          "Vigyázzon a sok kerékpárosra, gyakran elsőbbségük van.",
+          "A parkolási díjak magasak lehetnek a központokban, keressen 'P+R' lehetőségeket."
+        ],
+        "ro": [
+          "Utilizați o aplicație de navigație pentru a naviga între clustere.",
+          "În Olanda se aplică 'prioritatea de dreapta', dacă nu se specifică altfel.",
+          "Fiți atenți la numeroșii bicicliști, aceștia au adesea prioritate.",
+          "Taxele de parcare pot fi mari în centre, căutați opțiuni 'P+R'."
+        ],
+        "en": [
+          "Use a navigation app to navigate between clusters.",
+          "In the Netherlands, 'priority to the right' applies unless otherwise indicated.",
+          "Be aware of the many cyclists, they often have priority.",
+          "Parking fees can be high in the centers, look for 'P+R' options."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 8.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft in Vreeswijk",
+            "hu": "Érkezés Vreeswijkbe",
+            "ro": "Sosire în Vreeswijk",
+            "en": "Arrival in Vreeswijk"
+          },
+          "coords": [
+            5.093,
+            52.011
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Bahnhof Utrecht Centraal nach Vreeswijk.",
+            "hu": "Menjen busszal az Utrecht Centraal állomásról Vreeswijkbe.",
+            "ro": "Luați un autobuz de la gara Utrecht Centraal la Vreeswijk.",
+            "en": "Take a bus from Utrecht Centraal station to Vreeswijk."
+          }
+        },
+        {
+          "name": {
+            "de": "Museumswerft & Kirche",
+            "hu": "Múzeumhajógyár és templom",
+            "ro": "Șantier naval muzeu și biserică",
+            "en": "Museum Shipyard & Church"
+          },
+          "coords": [
+            5.094,
+            52.012
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie das gesamte historische Zentrum von Vreeswijk zu Fuß.",
+            "hu": "Fedezze fel Vreeswijk egész történelmi központját gyalog.",
+            "ro": "Explorați întregul centru istoric al Vreeswijk pe jos.",
+            "en": "Explore the entire historic center of Vreeswijk on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Vreeswijk",
+            "hu": "Ebéd Vreeswijkben",
+            "ro": "Prânz în Vreeswijk",
+            "en": "Lunch in Vreeswijk"
+          },
+          "coords": [
+            5.093,
+            52.011
+          ],
+          "category": "gastro",
+          "arrive_at": "11:50",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Stärken Sie sich vor der Busfahrt zum nächsten Cluster.",
+            "hu": "Erősítse meg magát a következő klaszterhez tartó buszút előtt.",
+            "ro": "Întăriți-vă înainte de călătoria cu autobuzul spre următorul cluster.",
+            "en": "Strengthen yourself before the bus ride to the next cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Park Oudegein",
+            "hu": "Utazás az Oudegein Parkba",
+            "ro": "Călătorie la Parcul Oudegein",
+            "en": "Trip to Park Oudegein"
+          },
+          "coords": [
+            5.068,
+            52.025
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 20,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus, der in der Nähe des Parks hält.",
+            "hu": "Menjen busszal, amely a park közelében áll meg.",
+            "ro": "Luați un autobuz care oprește lângă parc.",
+            "en": "Take a bus that stops near the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang im Park Oudegein",
+            "hu": "Séta az Oudegein Parkban",
+            "ro": "Plimbare în Parcul Oudegein",
+            "en": "Walk in Park Oudegein"
+          },
+          "coords": [
+            5.069,
+            52.027
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Natur und die ruhige Atmosphäre des Parks.",
+            "hu": "Élvezze a természetet és a park csendes hangulatát.",
+            "ro": "Bucurați-vă de natură și de atmosfera liniștită a parcului.",
+            "en": "Enjoy the nature and the quiet atmosphere of the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Oudegein & Museum Warsenhoeck",
+            "hu": "Oudegein kastély és Warsenhoeck Múzeum",
+            "ro": "Castelul Oudegein și Muzeul Warsenhoeck",
+            "en": "Oudegein Castle & Museum Warsenhoeck"
+          },
+          "coords": [
+            5.067,
+            52.026
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Besuch des Schlosses und des lokalen Geschichtsmuseums.",
+            "hu": "Zárja a napot a kastély és a helytörténeti múzeum meglátogatásával.",
+            "ro": "Încheiați ziua cu o vizită la castel și la muzeul de istorie locală.",
+            "en": "End the day with a visit to the castle and the local history museum."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Reise mit öffentlichen Verkehrsmitteln mit einer Busfahrt nach Vreeswijk. Dort angekommen, bildet das historische Dorf Ihr erstes Wandercluster. Sie können das Museumswerft, die Kirche und die Kanäle bequem zu Fuß erkunden und ein Mittagessen genießen.\nNach dem Mittagessen bringt Sie ein weiterer Bus zum Oudegein-Cluster. Dies ist Ihr zweiter und letzter Transit-Hop für den Tag. Steigen Sie in der Nähe des Parks aus und bereiten Sie sich auf einen Nachmittag im Grünen vor.\nDer Rest des Tages findet in diesem grünen Cluster statt. Schlendern Sie durch den Park Oudegein, besuchen Sie das gleichnamige Schloss und tauchen Sie im Museum Warsenhoeck in die lokale Geschichte ein, alles in Gehdistanz zueinander.\nAm Abend nehmen Sie den Bus von einer Haltestelle in der Nähe des Parks zurück zum Bahnhof oder zu Ihrem Ausgangspunkt. Dieser Plan optimiert die Nutzung öffentlicher Verkehrsmittel, indem er die Fahrten auf zwei Hauptstrecken beschränkt und die Erkundung zu Fuß maximiert.",
+        "hu": "Kezdje a tömegközlekedési utazását egy buszúttal Vreeswijkbe. Odaérve a történelmi falu alkotja az első gyalogos klasztert. Kényelmesen felfedezheti a múzeumhajógyárat, a templomot és a csatornákat gyalog, majd elfogyaszthat egy ebédet.\nEbéd után egy másik busz viszi az Oudegein-klaszterhez. Ez a második és egyben utolsó tömegközlekedési átszállása a nap folyamán. Szálljon le a park közelében, és készüljön fel egy zöldben töltött délutánra.\nA nap hátralévő része ebben a zöld klaszterben zajlik. Sétáljon át az Oudegein Parkon, látogassa meg az azonos nevű kastélyt, és merüljön el a helyi történelemben a Warsenhoeck Múzeumban, mindez sétatávolságra egymástól.\nEste busszal térjen vissza a park közelében lévő megállóból a vasútállomásra vagy a kiindulási pontjához. Ez a terv optimalizálja a tömegközlekedés használatát azáltal, hogy a utazásokat két fő útvonalra korlátozza, és maximalizálja a gyalogos felfedezést.",
+        "ro": "Începeți călătoria cu transportul public cu un autobuz spre Vreeswijk. Odată ajuns acolo, satul istoric formează primul dvs. cluster de mers pe jos. Puteți explora convenabil șantierul naval muzeu, biserica și canalele pe jos și vă puteți bucura de prânz.\nDupă prânz, un alt autobuz vă duce la clusterul Oudegein. Acesta este al doilea și ultimul salt cu tranzitul pentru ziua respectivă. Coborâți lângă parc și pregătiți-vă pentru o după-amiază în verdeață.\nRestul zilei se petrece în acest cluster verde. Plimbați-vă prin Parcul Oudegein, vizitați castelul cu același nume și scufundați-vă în istoria locală la Muzeul Warsenhoeck, toate la distanță de mers pe jos una de cealaltă.\nSeara, luați autobuzul de la o stație de lângă parc înapoi la gară sau la punctul de plecare. Acest plan optimizează utilizarea transportului public prin limitarea călătoriilor la două rute principale și maximizarea explorării pe jos.",
+        "en": "Start your public transport journey with a bus ride to Vreeswijk. Once there, the historic village forms your first walking cluster. You can conveniently explore the museum shipyard, the church, and the canals on foot and enjoy lunch.\nAfter lunch, another bus takes you to the Oudegein cluster. This is your second and final transit hop for the day. Get off near the park and prepare for an afternoon in the green.\nThe rest of the day is spent in this green cluster. Stroll through Park Oudegein, visit the castle of the same name, and delve into local history at the Warsenhoeck Museum, all within walking distance of each other.\nIn the evening, take the bus back to the train station or your starting point from a stop near the park. This plan optimizes public transport use by limiting trips to two main routes and maximizing exploration on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Snackautomaten",
+            "tip": "An Bahnhöfen finden Sie Automaten mit warmen Snacks wie Kroketten - ein typisch niederländisches Erlebnis."
+          },
+          {
+            "name": "Supermarkt-Mittagessen",
+            "tip": "Kaufen Sie ein belegtes Brötchen und ein Getränk im Supermarkt für ein schnelles und günstiges Mittagessen im Park."
+          },
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Holen Sie sich ein süßes Gebäck für die Busfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Snack automaták",
+            "tip": "Az állomásokon találhat automatákat meleg snackekkel, például krokettel - tipikus holland élmény."
+          },
+          {
+            "name": "Szupermarket ebéd",
+            "tip": "Vásároljon egy szendvicset és egy italt a szupermarketben egy gyors és olcsó ebédhez a parkban."
+          },
+          {
+            "name": "Helyi pékség",
+            "tip": "Szerezzen be egy édes péksüteményt a buszútra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Automate de gustări",
+            "tip": "În gări veți găsi automate cu gustări calde, cum ar fi crochete - o experiență tipic olandeză."
+          },
+          {
+            "name": "Prânz de la supermarket",
+            "tip": "Cumpărați un sandviș și o băutură de la supermarket pentru un prânz rapid și ieftin în parc."
+          },
+          {
+            "name": "Brutărie locală",
+            "tip": "Luați un produs de patiserie dulce pentru călătoria cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Snack automats",
+            "tip": "At stations, you'll find vending machines with hot snacks like croquettes - a typical Dutch experience."
+          },
+          {
+            "name": "Supermarket lunch",
+            "tip": "Buy a sandwich and a drink at the supermarket for a quick and cheap lunch in the park."
+          },
+          {
+            "name": "Local bakery",
+            "tip": "Get a sweet pastry for the bus ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obere Deck des Busses",
+            "tip": "Wenn es einen Doppeldeckerbus gibt, bietet das obere Deck eine bessere Aussicht und mehr Ruhe.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Eine Bank im hinteren Teil des Parks",
+            "tip": "Entfliehen Sie den Menschenmassen und genießen Sie die Stille.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Am Ufer des Merwede-Kanals",
+            "tip": "Ein guter Ort, um nach dem Museumsbesuch durchzuatmen.",
+            "emoji": "💧"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A busz felső szintje",
+            "tip": "Ha emeletes busz van, a felső szint jobb kilátást és több nyugalmat kínál.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Egy pad a park hátsó részében",
+            "tip": "Meneküljön el a tömeg elől, és élvezze a csendet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Merwede-csatorna partján",
+            "tip": "Jó hely a fellélegzésre a múzeumlátogatás után.",
+            "emoji": "💧"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Puntea superioară a autobuzului",
+            "tip": "Dacă există un autobuz cu etaj, puntea superioară oferă o priveliște mai bună și mai multă liniște.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "O bancă în spatele parcului",
+            "tip": "Evadați de mulțime și bucurați-vă de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pe malul Canalului Merwede",
+            "tip": "Un loc bun pentru a respira după vizita la muzeu.",
+            "emoji": "💧"
+          }
+        ],
+        "en": [
+          {
+            "name": "Upper deck of the bus",
+            "tip": "If there's a double-decker bus, the upper deck offers a better view and more quiet.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "A bench in the back of the park",
+            "tip": "Escape the crowds and enjoy the silence.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "On the banks of the Merwede Canal",
+            "tip": "A good place to take a breather after the museum visit.",
+            "emoji": "💧"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Bahnhof",
+            "tip": "Kaufen Sie eine Zeitschrift oder einen Snack für die Reise."
+          },
+          {
+            "name": "Museumsshop",
+            "tip": "Das Museum Warsenhoeck hat vielleicht einzigartige lokale Geschichtsbücher oder Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk az állomáson",
+            "tip": "Vásároljon egy magazint vagy snacket az útra."
+          },
+          {
+            "name": "Múzeumi bolt",
+            "tip": "A Warsenhoeck Múzeumban lehetnek egyedi helytörténeti könyvek vagy ajándéktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la gară",
+            "tip": "Cumpărați o revistă sau o gustare pentru călătorie."
+          },
+          {
+            "name": "Magazinul muzeului",
+            "tip": "Muzeul Warsenhoeck ar putea avea cărți de istorie locală unice sau suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the station",
+            "tip": "Buy a magazine or a snack for the journey."
+          },
+          {
+            "name": "Museum shop",
+            "tip": "The Warsenhoeck Museum might have unique local history books or souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine 'OV-chipkaart' oder verwenden Sie Ihre kontaktlose Debitkarte für einfaches Ein- und Auschecken.",
+          "Planen Sie Ihre Route im Voraus mit einer App wie 9292.",
+          "Beachten Sie die Busfahrpläne, insbesondere am Abend.",
+          "Halten Sie Ausschau nach der richtigen Bushaltestelle für Ihre Rückfahrt."
+        ],
+        "hu": [
+          "Vásároljon 'OV-chipkaart'-ot, vagy használja érintésmentes bankkártyáját az egyszerű be- és kijelentkezéshez.",
+          "Tervezze meg előre az útvonalat egy olyan alkalmazással, mint a 9292.",
+          "Vegye figyelembe a buszmenetrendet, különösen este.",
+          "Keresse meg a megfelelő buszmegállót a visszaúthoz."
+        ],
+        "ro": [
+          "Cumpărați un 'OV-chipkaart' sau utilizați cardul de debit contactless pentru check-in și check-out ușor.",
+          "Planificați-vă ruta în avans cu o aplicație precum 9292.",
+          "Fiți conștienți de orarele autobuzelor, în special seara.",
+          "Căutați stația de autobuz corectă pentru călătoria de întoarcere."
+        ],
+        "en": [
+          "Buy an 'OV-chipkaart' or use your contactless debit card for easy check-in and check-out.",
+          "Plan your route in advance with an app like 9292.",
+          "Be aware of bus schedules, especially in the evening.",
+          "Look for the correct bus stop for your return journey."
+        ]
+      }
+    }
+  }
+}

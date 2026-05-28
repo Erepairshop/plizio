@@ -1,0 +1,1180 @@
+{
+  "city_id": "austria-voecklabruck-cities-v2",
+  "anchor": {
+    "name": "Vöcklabruck",
+    "coords": [
+      13.655,
+      48.0083
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 2.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Unterer Stadtturm & Stadtplatz",
+            "hu": "Alsó Várostorony és Főtér",
+            "ro": "Turnul Inferior al Orașului și Piața Centrală",
+            "en": "Lower City Tower & Main Square"
+          },
+          "coords": [
+            13.6558,
+            48.0081
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einem Kaffee in einem der Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a téren található egyik kávézóban.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
+            "en": "Start your day with a coffee at one of the cafés on the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Ulrich",
+            "hu": "Szent Ulrik plébániatemplom",
+            "ro": "Biserica parohială Sf. Ulrich",
+            "en": "Parish Church of St. Ulrich"
+          },
+          "coords": [
+            13.6545,
+            48.0075
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:43",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden Deckenfresken und den barocken Altar.",
+            "hu": "Figyelje meg a lenyűgöző mennyezetfreskókat és a barokk oltárt.",
+            "ro": "Observați frescele impresionante de pe tavan și altarul baroc.",
+            "en": "Look out for the impressive ceiling frescoes and the baroque altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadttürme (Wolfgang- und Wasserturm)",
+            "hu": "Várostornyok (Wolfgang- és Víztorony)",
+            "ro": "Turnurile Orașului (Wolfgang și Turnul de Apă)",
+            "en": "City Towers (Wolfgang and Water Tower)"
+          },
+          "coords": [
+            13.6575,
+            48.0102
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:33",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Diese beiden Türme sind die Wahrzeichen der Stadt und ein tolles Fotomotiv.",
+            "hu": "Ez a két torony a város jelképe és remek fotótéma.",
+            "ro": "Aceste două turnuri sunt emblemele orașului și un subiect excelent pentru fotografii.",
+            "en": "These two towers are the city's landmarks and a great photo opportunity."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimathaus Vöcklabruck",
+            "hu": "Vöcklabrucki Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie Locală Vöcklabruck",
+            "en": "Vöcklabruck Local History Museum"
+          },
+          "coords": [
+            13.654,
+            48.0085
+          ],
+          "category": "museums",
+          "arrive_at": "11:11",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das Museum bietet einen tiefen Einblick in die Geschichte der Region.",
+            "hu": "A múzeum mély betekintést nyújt a régió történelmébe.",
+            "ro": "Muzeul oferă o perspectivă profundă asupra istoriei regiunii.",
+            "en": "The museum offers a deep insight into the history of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebéd a városközpontban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the City Center"
+          },
+          "coords": [
+            13.6555,
+            48.008
+          ],
+          "category": "gastro",
+          "arrive_at": "12:59",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie ein klassisches Wiener Schnitzel in einem der Gasthäuser.",
+            "hu": "Kóstoljon meg egy klasszikus bécsi szeletet az egyik vendéglőben.",
+            "ro": "Încercați un șnițel vienez clasic la unul dintre hanuri.",
+            "en": "Try a classic Wiener Schnitzel at one of the guesthouses."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Wagrain & Park",
+            "hu": "Wagrain-kastély és park",
+            "ro": "Castelul și Parcul Wagrain",
+            "en": "Wagrain Castle & Park"
+          },
+          "coords": [
+            13.6501,
+            48.0076
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:27",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannten Spaziergang durch den Schlosspark.",
+            "hu": "Élvezze a pihentető sétát a kastélyparkban.",
+            "ro": "Bucurați-vă de o plimbare relaxantă prin parcul castelului.",
+            "en": "Enjoy a relaxing walk through the castle park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang am lebhaften Stadtplatz, umgeben von bunten Fassaden. Der Vormittag führt Sie zu den historischen Wahrzeichen, darunter die Stadttürme und die prächtige Stadtpfarrkirche. Nach einem tiefen Einblick in die Regionalgeschichte im Heimathaus stärken Sie sich bei einem traditionellen Mittagessen. Der Nachmittag klingt entspannt im Park von Schloss Wagrain aus. Zum Abschluss bummeln Sie noch einmal durch die Gassen und genießen die charmante Atmosphäre der Bezirkshauptstadt.",
+        "hu": "Kezdje a sétát az élénk főtéren, színes homlokzatokkal körülvéve. A délelőtt a történelmi nevezetességekhez vezet, beleértve a város tornyait és a pompás plébániatemplomot. Miután a helytörténeti múzeumban elmélyült a régió múltjában, erősítse meg magát egy hagyományos ebéddel. A délután pihentetően zárul a Wagrain-kastély parkjában. Végül sétáljon még egyet a sikátorokban, és élvezze a kerületi székhely bájos hangulatát.",
+        "ro": "Începeți turul pietonal în piața plină de viață a orașului, înconjurată de fațade colorate. Dimineața vă poartă spre reperele istorice, inclusiv turnurile orașului și magnifica biserică parohială. După o incursiune în istoria regională la muzeul local, vă veți reîncărca bateriile cu un prânz tradițional. După-amiaza se încheie relaxant în parcul Castelului Wagrain. La final, plimbați-vă din nou pe alei și bucurați-vă de atmosfera fermecătoare a capitalei districtului.",
+        "en": "Start your walking tour at the lively town square, surrounded by colorful facades. The morning takes you to the historical landmarks, including the city towers and the magnificent parish church. After a deep dive into regional history at the local museum, refuel with a traditional lunch. The afternoon ends on a relaxing note in the park of Wagrain Castle. Finally, stroll through the alleys once more and enjoy the charming atmosphere of the district capital."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gasthof Auerhahn",
+            "tip": "Traditionelle österreichische Küche in gemütlichem Ambiente."
+          },
+          {
+            "name": "Bäckerei-Konditorei Neudorfer",
+            "tip": "Perfekt für eine süße Pause mit hausgemachten Kuchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gasthof Auerhahn",
+            "tip": "Hagyományos osztrák konyha hangulatos környezetben."
+          },
+          {
+            "name": "Neudorfer Pékség-Cukrászda",
+            "tip": "Tökéletes egy édes szünethez házi süteményekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gasthof Auerhahn",
+            "tip": "Bucătărie tradițională austriacă într-o atmosferă primitoare."
+          },
+          {
+            "name": "Brutăria-Cofetăria Neudorfer",
+            "tip": "Perfect pentru o pauză dulce cu prăjituri de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gasthof Auerhahn",
+            "tip": "Traditional Austrian cuisine in a cozy atmosphere."
+          },
+          {
+            "name": "Neudorfer Bakery-Confectionery",
+            "tip": "Perfect for a sweet break with homemade cakes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang an der Vöckla",
+            "tip": "Ein ruhiger Weg entlang des Flusses, ideal zum Entspannen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park von Schloss Wagrain",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die Stille.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Vöckla mentén",
+            "tip": "Csendes ösvény a folyó mentén, ideális a pihenéshez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Wagrain-kastély parkja",
+            "tip": "Keressen egy csendes padot, és élvezze a nyugalmat.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului Vöckla",
+            "tip": "O potecă liniștită de-a lungul râului, ideală pentru relaxare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Castelului Wagrain",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de tăcere.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along the Vöckla River",
+            "tip": "A quiet path along the river, ideal for relaxing.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park of Wagrain Castle",
+            "tip": "Find a quiet bench and enjoy the silence.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt am Stadtplatz",
+            "tip": "Frische, lokale Produkte und Handwerk (Termine prüfen)."
+          },
+          {
+            "name": "Geschäfte in der Innenstadt",
+            "tip": "Kleine Boutiquen und Fachgeschäfte laden zum Stöbern ein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac a főtéren",
+            "tip": "Friss, helyi termékek és kézműves áruk (ellenőrizze a napokat)."
+          },
+          {
+            "name": "Belvárosi üzletek",
+            "tip": "Kis butikok és szaküzletek várják a vásárlókat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală din Piața Centrală",
+            "tip": "Produse locale proaspete și artizanat (verificați programul)."
+          },
+          {
+            "name": "Magazinele din centrul orașului",
+            "tip": "Boutique-uri mici și magazine specializate vă invită să navigați."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly market on the town square",
+            "tip": "Fresh, local products and crafts (check dates)."
+          },
+          {
+            "name": "Shops in the city center",
+            "tip": "Small boutiques and specialty shops invite you to browse."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster ermüdend sein kann.",
+          "Die meisten Sehenswürdigkeiten liegen nahe beieinander.",
+          "Halten Sie Ausschau nach den Informationstafeln an historischen Gebäuden."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert a macskakő fárasztó lehet.",
+          "A legtöbb látnivaló közel van egymáshoz.",
+          "Keresse a történelmi épületeken elhelyezett információs táblákat."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul poate fi obositor.",
+          "Majoritatea atracțiilor sunt apropiate una de cealaltă.",
+          "Căutați panourile informative de pe clădirile istorice."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones can be tiring.",
+          "Most sights are located close to each other.",
+          "Look out for the information boards on historic buildings."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:55",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Start am Stadtplatz",
+            "hu": "Indulás a Főtérről",
+            "ro": "Start din Piața Centrală",
+            "en": "Start at the Main Square"
+          },
+          "coords": [
+            13.6558,
+            48.0081
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie den Platz zu Fuß.",
+            "hu": "Parkolja le a kerékpárt, és fedezze fel a teret gyalog.",
+            "ro": "Parcați bicicleta și explorați piața pe jos.",
+            "en": "Park your bike and explore the square on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadttürme",
+            "hu": "Várostornyok",
+            "ro": "Turnurile Orașului",
+            "en": "City Towers"
+          },
+          "coords": [
+            13.6575,
+            48.0102
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:34",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp für ein Foto der Wahrzeichen.",
+            "hu": "Egy rövid megálló egy fotó erejéig a jelképekről.",
+            "ro": "O scurtă oprire pentru o fotografie a emblemelor.",
+            "en": "A quick stop for a photo of the landmarks."
+          }
+        },
+        {
+          "name": {
+            "de": "Dörflkirche",
+            "hu": "Dörflkirche templom",
+            "ro": "Biserica Dörfl",
+            "en": "Dörflkirche Church"
+          },
+          "coords": [
+            13.6625,
+            48.005
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:13",
+          "stay_min": 35,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Diese Kirche liegt etwas außerhalb und ist eine angenehme Radtour wert.",
+            "hu": "Ez a templom kissé kijjebb esik, megér egy kellemes biciklitúrát.",
+            "ro": "Această biserică este puțin mai retrasă și merită o plimbare plăcută cu bicicleta.",
+            "en": "This church is a bit out of the way and worth a pleasant bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimathaus & Stadtpfarrkirche",
+            "hu": "Helytörténeti Múzeum és Plébániatemplom",
+            "ro": "Muzeul Local și Biserica Parohială",
+            "en": "Local Museum & Parish Church"
+          },
+          "coords": [
+            13.6542,
+            48.008
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Museumsbesuch mit der Besichtigung der nahen Kirche.",
+            "hu": "Kombinálja a múzeumlátogatást a közeli templom megtekintésével.",
+            "ro": "Combinați vizita la muzeu cu o vizită la biserica din apropiere.",
+            "en": "Combine the museum visit with a tour of the nearby church."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagspause an der Vöckla",
+            "hu": "Ebédszünet a Vöckla partján",
+            "ro": "Pauză de prânz pe malul râului Vöckla",
+            "en": "Lunch break on the Vöckla riverbank"
+          },
+          "coords": [
+            13.651,
+            48.009
+          ],
+          "category": "gastro",
+          "arrive_at": "13:03",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Einige Restaurants haben Terrassen mit Blick auf den Fluss.",
+            "hu": "Néhány étterem terasza a folyóra néz.",
+            "ro": "Unele restaurante au terase cu vedere la râu.",
+            "en": "Some restaurants have terraces overlooking the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Wagrain",
+            "hu": "Wagrain-kastély",
+            "ro": "Castelul Wagrain",
+            "en": "Wagrain Castle"
+          },
+          "coords": [
+            13.6501,
+            48.0076
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:24",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einer entspannten Runde durch den Schlosspark.",
+            "hu": "Fejezze be a túrát egy pihentető körrel a kastélyparkban.",
+            "ro": "Încheiați turul cu o plimbare relaxantă prin parcul castelului.",
+            "en": "End your tour with a relaxing lap through the castle park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet im Herzen von Vöcklabruck, am Stadtplatz. Von dort aus radeln Sie zu den ikonischen Stadttürmen, bevor Sie einen kleinen Abstecher zur charmanten Dörflkirche machen. Zurück im Zentrum, widmen Sie den späten Vormittag der Kultur im Heimathaus und der Stadtpfarrkirche. Nach einer stärkenden Mittagspause am Flussufer der Vöckla führt Sie die letzte Etappe zum Schloss Wagrain. Dort können Sie den Tag im Grünen ausklingen lassen, bevor Sie die Rückfahrt antreten.",
+        "hu": "A kerékpártúra Vöcklabruck szívében, a főtéren kezdődik. Innen az ikonikus várostornyokhoz teker, mielőtt egy rövid kitérőt tenne a bájos Dörflkirche felé. Visszatérve a központba, a késő délelőttöt a kultúrának szenteli a helytörténeti múzeumban és a plébániatemplomban. A Vöckla folyó partján tartott frissítő ebédszünet után az utolsó szakasz a Wagrain-kastélyhoz vezet. Ott a zöldben fejezheti be a napot, mielőtt visszaindulna.",
+        "ro": "Turul cu bicicleta începe în inima orașului Vöcklabruck, în piața centrală. De acolo, pedalați spre turnurile iconice ale orașului înainte de a face un mic ocol la fermecătoarea Biserică Dörfl. Înapoi în centru, dedicați sfârșitul dimineții culturii la muzeul local și la biserica parohială. După o pauză de prânz revigorantă pe malul râului Vöckla, ultima etapă vă duce la Castelul Wagrain. Acolo puteți încheia ziua în natură înainte de a porni pe drumul de întoarcere.",
+        "en": "Your bike tour starts in the heart of Vöcklabruck, at the town square. From there, you'll cycle to the iconic city towers before making a short detour to the charming Dörflkirche church. Back in the center, dedicate the late morning to culture at the local museum and the parish church. After a refreshing lunch break on the banks of the Vöckla river, the final stage takes you to Wagrain Castle. There you can end the day in the countryside before heading back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gasthaus zur Ewigen Ruh",
+            "tip": "Bodenständige Küche, ideal für eine Stärkung."
+          },
+          {
+            "name": "Eissalon Über-Drüber",
+            "tip": "Das beste Eis der Stadt für eine Abkühlung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gasthaus zur Ewigen Ruh",
+            "tip": "Házias konyha, ideális egy frissítőhöz."
+          },
+          {
+            "name": "Über-Drüber Fagyizó",
+            "tip": "A város legjobb fagylaltja egy kis hűsöléshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gasthaus zur Ewigen Ruh",
+            "tip": "Bucătărie tradițională, ideală pentru o masă consistentă."
+          },
+          {
+            "name": "Gelateria Über-Drüber",
+            "tip": "Cea mai bună înghețată din oraș pentru a vă răcori."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gasthaus zur Ewigen Ruh",
+            "tip": "Down-to-earth cuisine, ideal for refueling."
+          },
+          {
+            "name": "Über-Drüber Ice Cream Parlor",
+            "tip": "The best ice cream in town for a cool down."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vöckla-Uferweg",
+            "tip": "Folgen Sie dem Fluss für eine ruhige Auszeit vom städtischen Trubel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhof bei der Dörflkirche",
+            "tip": "Ein Ort der Stille und Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vöckla-parti ösvény",
+            "tip": "Kövesse a folyót egy csendes kikapcsolódásért a városi nyüzsgésből.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Temető a Dörflkirche mellett",
+            "tip": "A csend és az elmélkedés helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Potecă de pe malul Vöckla",
+            "tip": "Urmați râul pentru o pauză liniștită de agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul de lângă Biserica Dörfl",
+            "tip": "Un loc de liniște și contemplare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vöckla riverside path",
+            "tip": "Follow the river for a quiet break from the city bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cemetery at Dörflkirche",
+            "tip": "A place of silence and contemplation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft im Zentrum",
+            "tip": "Falls Sie Zubehör oder eine schnelle Reparatur benötigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt a központban",
+            "tip": "Ha kiegészítőre vagy gyors javításra van szüksége."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete în centru",
+            "tip": "În caz că aveți nevoie de accesorii sau de o reparație rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shop in the center",
+            "tip": "In case you need accessories or a quick repair."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Radwege entlang der Vöckla.",
+          "Schließen Sie Ihr Fahrrad an den Hauptsehenswürdigkeiten gut ab.",
+          "Einige Gassen in der Altstadt sind eng, fahren Sie vorsichtig."
+        ],
+        "hu": [
+          "Használja a Vöckla menti kerékpárutakat.",
+          "Zárja le jól a kerékpárját a főbb látnivalóknál.",
+          "Néhány óvárosi sikátor szűk, vezessen óvatosan."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete de-a lungul râului Vöckla.",
+          "Asigurați-vă bine bicicleta la principalele atracții.",
+          "Unele alei din centrul vechi sunt înguste, conduceți cu prudență."
+        ],
+        "en": [
+          "Use the cycle paths along the Vöckla river.",
+          "Lock your bike securely at the main sights.",
+          "Some alleys in the old town are narrow, ride carefully."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 1.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft & Parken in der Stadtplatz-Tiefgarage",
+            "hu": "Érkezés és parkolás a Fő téri mélygarázsban",
+            "ro": "Sosire și parcare în parcarea subterană din Piața Centrală",
+            "en": "Arrival & Parking at the Stadtplatz Underground Car Park"
+          },
+          "coords": [
+            13.6565,
+            48.0078
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier zentral, um alle Sehenswürdigkeiten zu Fuß zu erreichen.",
+            "hu": "Parkoljon itt központilag, hogy minden látnivalót gyalog elérjen.",
+            "ro": "Parcați aici central pentru a ajunge la toate atracțiile pe jos.",
+            "en": "Park centrally here to reach all sights on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtplatz, Stadttürme & St. Ulrich Kirche",
+            "hu": "Főtér, Várostornyok és Szent Ulrik templom",
+            "ro": "Piața Centrală, Turnurile Orașului și Biserica Sf. Ulrich",
+            "en": "Main Square, City Towers & St. Ulrich's Church"
+          },
+          "coords": [
+            13.6558,
+            48.0081
+          ],
+          "category": "cluster",
+          "arrive_at": "09:28",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Herz der Stadt in einem gemütlichen Spaziergang.",
+            "hu": "Fedezze fel a város történelmi szívét egy kellemes sétával.",
+            "ro": "Explorați inima istorică a orașului într-o plimbare agale.",
+            "en": "Explore the historic heart of the city on a leisurely walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Museumsviertel: Heimathaus & Museum der Heimatvertriebenen",
+            "hu": "Múzeumi negyed: Helytörténeti Múzeum és a Szülőföldjükről Elűzöttek Múzeuma",
+            "ro": "Cartierul Muzeelor: Muzeul Local și Muzeul Refugiaților",
+            "en": "Museum Quarter: Local Museum & Museum of Displaced Persons"
+          },
+          "coords": [
+            13.654,
+            48.0085
+          ],
+          "category": "museums",
+          "arrive_at": "11:03",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zwei Museen nebeneinander, die tief in die lokale und europäische Geschichte eintauchen.",
+            "hu": "Két múzeum egymás mellett, amelyek mélyen elmerülnek a helyi és európai történelemben.",
+            "ro": "Două muzee alăturate care pătrund adânc în istoria locală și europeană.",
+            "en": "Two museums side by side that delve deep into local and European history."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Pause",
+            "hu": "Ebéd és szünet",
+            "ro": "Prânz și pauză",
+            "en": "Lunch and Break"
+          },
+          "coords": [
+            13.6555,
+            48.008
+          ],
+          "category": "gastro",
+          "arrive_at": "13:08",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Wählen Sie eines der vielen Restaurants rund um den Stadtplatz.",
+            "hu": "Válasszon a főtér körüli számos étterem közül.",
+            "ro": "Alegeți unul dintre numeroasele restaurante din jurul pieței centrale.",
+            "en": "Choose one of the many restaurants around the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zum Schloss Wagrain",
+            "hu": "Séta a Wagrain-kastélyhoz",
+            "ro": "Plimbare la Castelul Wagrain",
+            "en": "Walk to Wagrain Castle"
+          },
+          "coords": [
+            13.6501,
+            48.0076
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:36",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein schöner Verdauungsspaziergang zum Abschluss Ihres Besuchs.",
+            "hu": "Egy szép emésztő séta a látogatás végén.",
+            "ro": "O plimbare digestivă plăcută la sfârșitul vizitei dumneavoastră.",
+            "en": "A nice digestive walk to round off your visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag in Vöcklabruck beginnt bequem: Parken Sie Ihr Auto in der Tiefgarage am Stadtplatz und erkunden Sie alles zu Fuß. Der Vormittag gehört dem historischen Zentrum mit seinen Türmen und Kirchen. Anschließend tauchen Sie im Museumsviertel tief in die Geschichte ein. Nach einem Mittagessen in einem der zentralen Gasthäuser führt ein entspannter Spaziergang zum Schloss Wagrain. Von dort ist es nur ein kurzer Weg zurück zum Auto, um den Tag entspannt abzuschließen.",
+        "hu": "A vöcklabrucki nap kényelmesen kezdődik: parkolja le autóját a főtéri mélygarázsban, és fedezzen fel mindent gyalog. A délelőtt a történelmi központé a tornyokkal és templomokkal. Ezután a múzeumi negyedben mélyedjen el a történelemben. Az egyik központi vendéglőben elköltött ebéd után egy pihentető séta vezet a Wagrain-kastélyhoz. Onnan már csak egy rövid út vezet vissza az autóhoz, hogy pihentetően zárja a napot.",
+        "ro": "Ziua în Vöcklabruck începe confortabil: parcați mașina în parcarea subterană din piața centrală și explorați totul pe jos. Dimineața este dedicată centrului istoric cu turnurile și bisericile sale. Apoi, pătrundeți adânc în istorie în cartierul muzeelor. După prânz la unul dintre hanurile centrale, o plimbare relaxantă vă duce la Castelul Wagrain. De acolo, este doar o scurtă plimbare înapoi la mașină pentru a încheia ziua într-un mod relaxat.",
+        "en": "The day in Vöcklabruck begins comfortably: park your car in the underground car park at the main square and explore everything on foot. The morning is dedicated to the historic center with its towers and churches. Afterwards, delve deep into history in the museum quarter. After lunch at one of the central inns, a relaxing walk takes you to Wagrain Castle. From there it is only a short walk back to the car to end the day in a relaxed manner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Stadtwirtshaus",
+            "tip": "Moderne Interpretation der österreichischen Küche."
+          },
+          {
+            "name": "Café-Konditorei Ottet",
+            "tip": "Berühmt für seine Torten und Pralinen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stadtwirtshaus",
+            "tip": "Az osztrák konyha modern értelmezése."
+          },
+          {
+            "name": "Ottet Kávézó-Cukrászda",
+            "tip": "Híres tortáiról és pralinéiről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stadtwirtshaus",
+            "tip": "Interpretare modernă a bucătăriei austriece."
+          },
+          {
+            "name": "Cafenea-Cofetărie Ottet",
+            "tip": "Faimoasă pentru prăjiturile și bomboanele sale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stadtwirtshaus",
+            "tip": "Modern interpretation of Austrian cuisine."
+          },
+          {
+            "name": "Ottet Café-Confectionery",
+            "tip": "Famous for its cakes and chocolates."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Leseecke in der Stadtbibliothek",
+            "tip": "Ein unerwartet ruhiger Ort im Schloss Wagrain.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Bank im Schlosspark",
+            "tip": "Perfekt, um dem Trubel zu entfliehen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olvasósarok a Városi Könyvtárban",
+            "tip": "Váratlanul csendes hely a Wagrain-kastélyban.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Pad a kastélyparkban",
+            "tip": "Tökéletes a nyüzsgés elől való elvonuláshoz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Colțul de lectură din Biblioteca Orășenească",
+            "tip": "Un loc neașteptat de liniștit în Castelul Wagrain.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Bancă în parcul castelului",
+            "tip": "Perfect pentru a scăpa de agitație.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Reading corner in the City Library",
+            "tip": "An unexpectedly quiet place in Wagrain Castle.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Bench in the castle park",
+            "tip": "Perfect for escaping the hustle and bustle.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Varena Einkaufszentrum",
+            "tip": "Für eine größere Auswahl an Geschäften, etwas außerhalb des Zentrums gelegen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Varena bevásárlóközpont",
+            "tip": "Nagyobb üzletválasztékért, kissé a központon kívül található."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Varena",
+            "tip": "Pentru o selecție mai largă de magazine, situat puțin în afara centrului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Varena Shopping Center",
+            "tip": "For a wider selection of shops, located just outside the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Stadtplatz-Tiefgarage ist die beste Option für Tagesbesucher.",
+          "Fast alles ist im Zentrum zu Fuß erreichbar.",
+          "Beachten Sie die Parkgebühren und -zeiten."
+        ],
+        "hu": [
+          "A főtéri mélygarázs a legjobb lehetőség az egynapos látogatók számára.",
+          "A központban szinte minden gyalogosan elérhető.",
+          "Vegye figyelembe a parkolási díjakat és időket."
+        ],
+        "ro": [
+          "Parcarea subterană din Piața Centrală este cea mai bună opțiune pentru vizitatorii de o zi.",
+          "Aproape totul este accesibil pe jos în centru.",
+          "Fiți atenți la taxele și orele de parcare."
+        ],
+        "en": [
+          "The Stadtplatz underground car park is the best option for day visitors.",
+          "Almost everything is within walking distance in the center.",
+          "Pay attention to parking fees and times."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 1.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof (ZOB)",
+            "hu": "Érkezés a buszpályaudvarra (ZOB)",
+            "ro": "Sosire la autogară (ZOB)",
+            "en": "Arrival at the Central Bus Station (ZOB)"
+          },
+          "coords": [
+            13.6595,
+            48.0095
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Der Busbahnhof ist der ideale Ausgangspunkt für eine Erkundung zu Fuß.",
+            "hu": "A buszpályaudvar ideális kiindulópont egy gyalogos felfedezéshez.",
+            "ro": "Autogara este punctul de plecare ideal pentru o explorare pe jos.",
+            "en": "The bus station is the ideal starting point for exploring on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadttürme & Stadtplatz",
+            "hu": "Várostornyok és Főtér",
+            "ro": "Turnurile Orașului și Piața Centrală",
+            "en": "City Towers & Main Square"
+          },
+          "coords": [
+            13.6558,
+            48.0081
+          ],
+          "category": "cluster",
+          "arrive_at": "09:25",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Busbahnhof bringt Sie direkt ins historische Zentrum.",
+            "hu": "Egy rövid séta a buszpályaudvartól egyenesen a történelmi központba visz.",
+            "ro": "O scurtă plimbare de la autogară vă duce direct în centrul istoric.",
+            "en": "A short walk from the bus station takes you right into the historic center."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Ulrich",
+            "hu": "Szent Ulrik plébániatemplom",
+            "ro": "Biserica parohială Sf. Ulrich",
+            "en": "Parish Church of St. Ulrich"
+          },
+          "coords": [
+            13.6545,
+            48.0075
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieser wichtigen Kirche.",
+            "hu": "Csodálja meg ennek a fontos templomnak az építészetét.",
+            "ro": "Admirați arhitectura acestei biserici importante.",
+            "en": "Admire the architecture of this important church."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimathaus & Mittagessen",
+            "hu": "Helytörténeti Múzeum és ebéd",
+            "ro": "Muzeul Local și prânz",
+            "en": "Local Museum & Lunch"
+          },
+          "coords": [
+            13.654,
+            48.0085
+          ],
+          "category": "cluster",
+          "arrive_at": "11:50",
+          "stay_min": 150,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kombinieren Sie Kultur und Kulinarik, bevor Sie weiterziehen.",
+            "hu": "Kombinálja a kultúrát és a konyhaművészetet, mielőtt továbbállna.",
+            "ro": "Combinați cultura și gastronomia înainte de a merge mai departe.",
+            "en": "Combine culture and culinary delights before moving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Wagrain",
+            "hu": "Wagrain-kastély",
+            "ro": "Castelul Wagrain",
+            "en": "Wagrain Castle"
+          },
+          "coords": [
+            13.6501,
+            48.0076
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:28",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Der Spaziergang zum Schloss ist ein schöner Abschluss des Tages.",
+            "hu": "A séta a kastélyhoz szép befejezése a napnak.",
+            "ro": "Plimbarea la castel este o încheiere frumoasă a zilei.",
+            "en": "The walk to the castle is a nice end to the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Reisen Sie mit dem Bus an und starten Sie Ihre Erkundung am zentralen Busbahnhof. Ein kurzer Spaziergang führt Sie zu den Highlights der Altstadt, den Stadttürmen und der Pfarrkirche. Der späte Vormittag ist der Geschichte im Heimathaus gewidmet, gefolgt von einer wohlverdienten Mittagspause. Der Nachmittag steht im Zeichen der Entspannung mit einem Spaziergang zum Schloss Wagrain und seinem Park. Von dort aus ist es nicht weit zurück zum Busbahnhof für Ihre Heimreise.",
+        "hu": "Érkezzen busszal, és kezdje a felfedezést a központi buszpályaudvaron. Egy rövid séta elvezeti az óváros nevezetességeihez, a várostornyokhoz és a plébániatemplomhoz. A késő délelőtt a történelemé a helytörténeti múzeumban, amit egy jól megérdemelt ebédszünet követ. A délután a pihenés jegyében telik egy sétával a Wagrain-kastélyhoz és annak parkjához. Onnan nincs messze a buszpályaudvar a hazautazáshoz.",
+        "ro": "Sosiți cu autobuzul și începeți explorarea de la autogara centrală. O scurtă plimbare vă duce la punctele de atracție ale orașului vechi, turnurile orașului și biserica parohială. Sfârșitul dimineții este dedicat istoriei la muzeul local, urmat de o pauză de prânz binemeritată. După-amiaza este dedicată relaxării, cu o plimbare la Castelul Wagrain și parcul său. De acolo, nu este departe înapoi la autogară pentru călătoria de întoarcere.",
+        "en": "Arrive by bus and start your exploration at the central bus station. A short walk takes you to the highlights of the old town, the city towers and the parish church. The late morning is dedicated to history at the local museum, followed by a well-deserved lunch break. The afternoon is all about relaxation with a walk to Wagrain Castle and its park. From there it is not far back to the bus station for your journey home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Imbissstand am Busbahnhof",
+            "tip": "Für einen schnellen Snack vor oder nach der Reise."
+          },
+          {
+            "name": "Pizzeria-Ristorante Caruso",
+            "tip": "Italienische Spezialitäten in der Nähe des Zentrums."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Büfé a buszpályaudvaron",
+            "tip": "Egy gyors harapnivalóhoz utazás előtt vagy után."
+          },
+          {
+            "name": "Caruso Pizzeria-Étterem",
+            "tip": "Olasz specialitások a központ közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc de gustări la autogară",
+            "tip": "Pentru o gustare rapidă înainte sau după călătorie."
+          },
+          {
+            "name": "Pizzeria-Ristorante Caruso",
+            "tip": "Specialități italiene în apropierea centrului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Snack stand at the bus station",
+            "tip": "For a quick snack before or after your journey."
+          },
+          {
+            "name": "Pizzeria-Ristorante Caruso",
+            "tip": "Italian specialties near the center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Bank am Stadtbach",
+            "tip": "Der kleine Bach plätschert beruhigend durch Teile der Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "OKH Vöcklabruck",
+            "tip": "Außerhalb von Veranstaltungen ein ruhiger Ort, um die alternative Kultur zu spüren.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy pad a Stadtbach mellett",
+            "tip": "A kis patak nyugtatóan csobog a város egyes részein.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "OKH Vöcklabruck",
+            "tip": "Rendezvényeken kívül csendes hely az alternatív kultúra átérzésére.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă pe malul pârâului Stadtbach",
+            "tip": "Pârâul mic susură liniștitor prin părți ale orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "OKH Vöcklabruck",
+            "tip": "În afara evenimentelor, un loc liniștit pentru a simți cultura alternativă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench on the Stadtbach stream",
+            "tip": "The small stream murmurs soothingly through parts of the town.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "OKH Vöcklabruck",
+            "tip": "Outside of events, a quiet place to feel the alternative culture.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs im Heimathaus",
+            "tip": "Kleine Andenken an Ihren Besuch in Vöcklabruck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándéktárgyak a Helytörténeti Múzeumban",
+            "tip": "Kis emléktárgyak a vöcklabrucki látogatásról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri la Muzeul Local",
+            "tip": "Mici amintiri ale vizitei dumneavoastră la Vöcklabruck."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenirs at the Local Museum",
+            "tip": "Small mementos of your visit to Vöcklabruck."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Stadtbus, falls Sie weitere Strecken planen.",
+          "Der zentrale Busbahnhof ist gut ausgeschildert.",
+          "Prüfen Sie den Busfahrplan für Ihre Rückfahrt im Voraus."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a városi buszra, ha további utakat tervez.",
+          "A központi buszpályaudvar jól ki van táblázva.",
+          "Előre ellenőrizze a buszmenetrendet a visszaúthoz."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuzul urban dacă plănuiți să călătoriți pe distanțe mai mari.",
+          "Autogara centrală este bine semnalizată.",
+          "Verificați din timp orarul autobuzelor pentru călătoria de întoarcere."
+        ],
+        "en": [
+          "Buy a day ticket for the city bus if you are planning longer journeys.",
+          "The central bus station is well signposted.",
+          "Check the bus schedule for your return journey in advance."
+        ]
+      }
+    }
+  }
+}

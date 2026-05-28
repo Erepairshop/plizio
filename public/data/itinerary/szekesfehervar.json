@@ -1,0 +1,1177 @@
+{
+  "city_id": "szekesfehervar",
+  "anchor": {
+    "name": "Székesfehérvár",
+    "coords": [
+      47.1899,
+      18.4103
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathausplatz",
+            "hu": "Városház tér",
+            "ro": "Piața Primăriei",
+            "en": "City Hall Square"
+          },
+          "coords": [
+            18.4105,
+            47.1908
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das Reiterstandbild und die barocke Architektur.",
+            "hu": "Csodálja meg a lovas szobrot és a barokk építészetet!",
+            "ro": "Admirați statuia ecvestră și arhitectura barocă.",
+            "en": "Admire the equestrian statue and the baroque architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Stephansdom",
+            "hu": "Szent István-székesegyház",
+            "ro": "Catedrala Sfântul Ștefan",
+            "en": "St. Stephen's Cathedral"
+          },
+          "coords": [
+            18.4095,
+            47.1902
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Suchen Sie die Unterkirche, die Ruhestätte von König Béla III.",
+            "hu": "Keresse meg az altemplomot, III. Béla király nyughelyét!",
+            "ro": "Căutați cripta, locul de veci al regelui Béla al III-lea.",
+            "en": "Look for the crypt, the resting place of King Béla III."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinenpark (Romkert)",
+            "hu": "Romkert",
+            "ro": "Grădina cu Ruine",
+            "en": "Garden of Ruins"
+          },
+          "coords": [
+            18.4088,
+            47.19
+          ],
+          "category": "historical",
+          "arrive_at": "10:25",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Muss, um die mittelalterlichen Fundamente der Stadt zu verstehen.",
+            "hu": "Kötelező látnivaló a város középkori alapjainak megértéséhez.",
+            "ro": "O vizită esențială pentru a înțelege fundațiile medievale ale orașului.",
+            "en": "A must-see to understand the city's medieval foundations."
+          }
+        },
+        {
+          "name": {
+            "de": "Hiemer-Haus",
+            "hu": "Hiemer-ház",
+            "ro": "Casa Hiemer",
+            "en": "Hiemer House"
+          },
+          "coords": [
+            18.4111,
+            47.1912
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beherbergt heute die Touristeninformation und eine Hochzeits-Location.",
+            "hu": "Ma a turisztikai információs központnak és egy esküvői helyszínnek ad otthont.",
+            "ro": "Astăzi găzduiește centrul de informații turistice și o locație de nunți.",
+            "en": "Today it houses the tourist information center and a wedding venue."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrenmuseum",
+            "hu": "Óramúzeum",
+            "ro": "Muzeul Ceasurilor",
+            "en": "Clock Museum"
+          },
+          "coords": [
+            18.412,
+            47.1915
+          ],
+          "category": "museums",
+          "arrive_at": "12:39",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Eine faszinierende Sammlung, auch für Nicht-Uhrenliebhaber.",
+            "hu": "Lenyűgöző gyűjtemény, nem csak az órák szerelmeseinek.",
+            "ro": "O colecție fascinantă, chiar și pentru cei care nu sunt pasionați de ceasuri.",
+            "en": "A fascinating collection, even for non-watch enthusiasts."
+          }
+        },
+        {
+          "name": {
+            "de": "Blumenuhr",
+            "hu": "Virágóra",
+            "ro": "Ceasul Floral",
+            "en": "Flower Clock"
+          },
+          "coords": [
+            18.4135,
+            47.192
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:43",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein beliebtes Fotomotiv, besonders im Frühling und Sommer.",
+            "hu": "Népszerű fotótéma, különösen tavasszal és nyáron.",
+            "ro": "Un loc popular pentru fotografii, mai ales primăvara și vara.",
+            "en": "A popular photo spot, especially in spring and summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Bory",
+            "hu": "Bory-vár",
+            "ro": "Castelul Bory",
+            "en": "Bory Castle"
+          },
+          "coords": [
+            18.435,
+            47.208
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:46",
+          "stay_min": 120,
+          "hop_from_prev_min": 48,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Ein surreales Meisterwerk der Liebe. Planen Sie genug Zeit für die Erkundung ein.",
+            "hu": "A szerelem szürreális mesterműve. Tervezzen elég időt a felfedezésére!",
+            "ro": "O capodoperă suprarealistă a iubirii. Planificați suficient timp pentru explorare.",
+            "en": "A surreal masterpiece of love. Plan enough time for exploration."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden Sie das historische Herz von Székesfehérvár rund um den Rathausplatz und die Kathedrale. Mittags tauchen Sie in die mittelalterliche Vergangenheit im Ruinenpark ein, gefolgt von den architektonischen Schätzen des Hiemer-Hauses. Am Nachmittag entdecken Sie die verspielte Seite der Stadt im Uhrenmuseum und bei der Blumenuhr, bevor Sie zum märchenhaften Bory-Schloss spazieren, um den Tag ausklingen zu lassen.",
+        "hu": "Reggel fedezze fel Székesfehérvár történelmi szívét a Városház tér és a Székesegyház körül. Délben merüljön el a középkori múltban a Romkertben, majd csodálja meg a Hiemer-ház építészeti kincseit. Délután fedezze fel a város játékos oldalát az Óramúzeumban és a Virágóránál, mielőtt átsétál a mesés Bory-várhoz a nap lezárásaként.",
+        "ro": "Dimineața explorați inima istorică a Székesfehérvárului în jurul Pieței Primăriei și a Catedralei. La prânz, scufundați-vă în trecutul medieval la Grădina cu Ruine, urmată de comorile arhitecturale ale Casei Hiemer. După-amiaza, descoperiți latura ludică a orașului la Muzeul Ceasurilor și Ceasul Floral, înainte de a vă plimba la Castelul Bory de basm pentru a încheia ziua.",
+        "en": "In the morning, explore the historic heart of Székesfehérvár around the City Hall Square and the Cathedral. At noon, delve into the medieval past at the Garden of Ruins, followed by the architectural treasures of the Hiemer House. In the afternoon, discover the city's playful side at the Clock Museum and the Flower Clock before strolling to the fairytale Bory Castle to end the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gulyás in einem Kessel",
+            "tip": "Probieren Sie es im '67 Étterem és Bár' für eine authentische Erfahrung."
+          },
+          {
+            "name": "Túrós Csusza",
+            "tip": "Ein herzhaftes Nudelgericht mit Quark und Speck, perfekt für ein Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bográcsgulyás",
+            "tip": "Kóstolja meg a '67 Étterem és Bár'-ban az autentikus élményért."
+          },
+          {
+            "name": "Túrós csusza",
+            "tip": "Kiadós tésztaétel túróval és szalonnával, tökéletes ebédre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gulaș la ceaun",
+            "tip": "Încercați-l la '67 Étterem és Bár' pentru o experiență autentică."
+          },
+          {
+            "name": "Túrós Csusza",
+            "tip": "Un fel de mâncare consistent cu paste, brânză de vaci și slănină, perfect pentru prânz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Goulash in a cauldron",
+            "tip": "Try it at '67 Étterem és Bár' for an authentic experience."
+          },
+          {
+            "name": "Túrós Csusza",
+            "tip": "A hearty pasta dish with cottage cheese and bacon, perfect for lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Csónakázó-tó",
+            "tip": "Ein ruhiger Spaziergang um den See, etwas außerhalb des Zentrums.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Garten des Bory-Schlosses",
+            "tip": "Finden Sie eine ruhige Ecke in diesem weitläufigen, fantasievollen Garten.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csónakázó-tó",
+            "tip": "Egy csendes séta a tó körül, kicsit kijjebb a központtól.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bory-vár kertje",
+            "tip": "Keressen egy csendes zugot ebben a hatalmas, fantáziadús kertben.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Csónakázó",
+            "tip": "O plimbare liniștită în jurul lacului, puțin în afara centrului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Castelului Bory",
+            "tip": "Găsiți un colț liniștit în această grădină vastă și plină de imaginație.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Boating Lake (Csónakázó-tó)",
+            "tip": "A quiet walk around the lake, just outside the center.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Garden of Bory Castle",
+            "tip": "Find a quiet corner in this vast, imaginative garden.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fő utca",
+            "tip": "Die Hauptfußgängerzone mit lokalen Boutiquen und Souvenirläden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fő utca",
+            "tip": "A fő sétálóutca helyi butikokkal és ajándékboltokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Fő",
+            "tip": "Principala stradă pietonală cu buticuri locale și magazine de suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fő utca (Main Street)",
+            "tip": "The main pedestrian street with local boutiques and souvenir shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Der Weg zum Bory-Schloss ist lang, aber landschaftlich reizvoll.",
+          "Planen Sie ein spätes Mittagessen nach dem Besuch des Uhrenmuseums ein."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "A Bory-várhoz vezető út hosszú, de festői.",
+          "Tervezzen egy késői ebédet az Óramúzeum meglátogatása után."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe jos.",
+          "Drumul spre Castelul Bory este lung, dar pitoresc.",
+          "Planificați un prânz târziu după vizitarea Muzeului Ceasurilor."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "The walk to Bory Castle is long but scenic.",
+          "Plan a late lunch after visiting the Clock Museum."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 8.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathausplatz",
+            "hu": "Városház tér",
+            "ro": "Piața Primăriei",
+            "en": "City Hall Square"
+          },
+          "coords": [
+            18.4105,
+            47.1908
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Stephansdom",
+            "hu": "Szent István-székesegyház",
+            "ro": "Catedrala Sfântul Ștefan",
+            "en": "St. Stephen's Cathedral"
+          },
+          "coords": [
+            18.4095,
+            47.1902
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Ruinenpark (Romkert)",
+            "hu": "Romkert",
+            "ro": "Grădina cu Ruine",
+            "en": "Garden of Ruins"
+          },
+          "coords": [
+            18.4088,
+            47.19
+          ],
+          "category": "historical",
+          "arrive_at": "10:13",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Vörösmarty-Theater",
+            "hu": "Vörösmarty Színház",
+            "ro": "Teatrul Vörösmarty",
+            "en": "Vörösmarty Theatre"
+          },
+          "coords": [
+            18.414,
+            47.1905
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:16",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Hiemer-Haus",
+            "hu": "Hiemer-ház",
+            "ro": "Casa Hiemer",
+            "en": "Hiemer House"
+          },
+          "coords": [
+            18.4111,
+            47.1912
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:34",
+          "stay_min": 20,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Uhrenmuseum",
+            "hu": "Óramúzeum",
+            "ro": "Muzeul Ceasurilor",
+            "en": "Clock Museum"
+          },
+          "coords": [
+            18.412,
+            47.1915
+          ],
+          "category": "museums",
+          "arrive_at": "11:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Blumenuhr",
+            "hu": "Virágóra",
+            "ro": "Ceasul Floral",
+            "en": "Flower Clock"
+          },
+          "coords": [
+            18.4135,
+            47.192
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:46",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Burg Bory",
+            "hu": "Bory-vár",
+            "ro": "Castelul Bory",
+            "en": "Bory Castle"
+          },
+          "coords": [
+            18.435,
+            47.208
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.2
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen der Stadt, radeln Sie zwischen dem Rathausplatz und den historischen Ruinen. Am Mittag besuchen Sie die kulturellen Sehenswürdigkeiten wie das Vörösmarty-Theater und das einzigartige Uhrenmuseum. Am Nachmittag führt Sie eine längere, aber lohnende Radtour zum fantastischen Bory-Schloss, wo Sie den Rest des Tages mit der Erkundung seiner Gärten und Türme verbringen können.",
+        "hu": "Kezdje a napot a város szívében, kerékpározva a Városház tér és a történelmi Romkert között. Délben látogasson el a kulturális nevezetességekhez, mint a Vörösmarty Színház és az egyedülálló Óramúzeum. Délután egy hosszabb, de megérő biciklitúra vezet a fantasztikus Bory-várhoz, ahol a nap hátralévő részét a kertjeinek és tornyainak felfedezésével töltheti.",
+        "ro": "Începeți ziua în inima orașului, pedalând între Piața Primăriei și ruinele istorice. La prânz, vizitați atracțiile culturale precum Teatrul Vörösmarty și unicul Muzeu al Ceasurilor. După-amiaza, o plimbare mai lungă, dar plină de satisfacții, cu bicicleta vă duce la fantasticul Castel Bory, unde puteți petrece restul zilei explorând grădinile și turnurile sale.",
+        "en": "Start your day in the heart of the city, cycling between the City Hall Square and the historic ruins. At noon, visit cultural landmarks like the Vörösmarty Theatre and the unique Clock Museum. In the afternoon, a longer but rewarding bike ride takes you to the fantastic Bory Castle, where you can spend the rest of the day exploring its gardens and towers."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lángos",
+            "tip": "Ein perfekter schneller Snack für Radfahrer. Suchen Sie nach Ständen in der Nähe des Marktes."
+          },
+          {
+            "name": "Kürtőskalács",
+            "tip": "Belohnen Sie sich nach der Radtour zum Bory-Schloss mit diesem süßen Gebäck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lángos",
+            "tip": "Tökéletes gyors harapnivaló a bicikliseknek. Keresse a standokat a piac környékén."
+          },
+          {
+            "name": "Kürtőskalács",
+            "tip": "Jutalmazza meg magát a Bory-várhoz tett túra után ezzel az édes süteménnyel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lángos",
+            "tip": "O gustare rapidă perfectă pentru bicicliști. Căutați standuri lângă piață."
+          },
+          {
+            "name": "Kürtőskalács",
+            "tip": "Recompensați-vă cu acest desert dulce după plimbarea cu bicicleta la Castelul Bory."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lángos",
+            "tip": "A perfect quick snack for cyclists. Look for stalls near the market."
+          },
+          {
+            "name": "Chimney Cake (Kürtőskalács)",
+            "tip": "Reward yourself with this sweet pastry after the bike ride to Bory Castle."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rózsaliget (Rosengarten)",
+            "tip": "Ein friedlicher Park, ideal für eine kurze Pause während der Radtour.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Obere Galerien des Bory-Schlosses",
+            "tip": "Genießen Sie die Aussicht und die Ruhe abseits der Hauptwege.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rózsaliget",
+            "tip": "Békés park, ideális egy rövid pihenőre a biciklitúra közben.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bory-vár felső galériái",
+            "tip": "Élvezze a kilátást és a csendet a fő útvonalaktól távol.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rózsaliget (Grădina cu Trandafiri)",
+            "tip": "Un parc liniștit, ideal pentru o scurtă pauză în timpul turului cu bicicleta.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Galeriile superioare ale Castelului Bory",
+            "tip": "Bucurați-vă de priveliște și de liniște departe de potecile principale.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rózsaliget (Rose Garden)",
+            "tip": "A peaceful park, ideal for a short break during the bike tour.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Upper galleries of Bory Castle",
+            "tip": "Enjoy the views and the quiet away from the main paths.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Bauernmarkt",
+            "tip": "Suchen Sie nach dem örtlichen Markt für frische Produkte und hausgemachte Waren, ein authentisches Erlebnis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termelői piac",
+            "tip": "Keresse a helyi piacot friss termékekért és házi készítésű árukért, egy autentikus élményért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală a fermierilor",
+            "tip": "Căutați piața locală pentru produse proaspete și bunuri de casă, o experiență autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Farmers' Market",
+            "tip": "Look for the local market for fresh produce and homemade goods, an authentic experience."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Schließen Sie Ihr Fahrrad an den Hauptsehenswürdigkeiten sicher ab.",
+          "Der Radweg zum Bory-Schloss hat einige Steigungen.",
+          "Nehmen Sie Wasser mit, besonders für die längere Fahrt am Nachmittag."
+        ],
+        "hu": [
+          "Zárja le biztonságosan a kerékpárját a főbb látnivalóknál.",
+          "A Bory-várhoz vezető kerékpárúton vannak emelkedők.",
+          "Vigyen magával vizet, különösen a délutáni hosszabb útra."
+        ],
+        "ro": [
+          "Asigurați-vă bicicleta în siguranță la principalele atracții.",
+          "Pista de biciclete spre Castelul Bory are câteva pante.",
+          "Luați apă cu dvs., mai ales pentru drumul mai lung de după-amiază."
+        ],
+        "en": [
+          "Lock your bike securely at the main attractions.",
+          "The bike path to Bory Castle has some inclines.",
+          "Bring water, especially for the longer afternoon ride."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum",
+            "hu": "Parkoló a központban",
+            "ro": "Parcare în centru",
+            "en": "Downtown Parking"
+          },
+          "coords": [
+            18.415,
+            47.191
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den ganzen Vormittag.",
+            "hu": "Parkoljon itt egész délelőttre.",
+            "ro": "Parcați aici pentru toată dimineața.",
+            "en": "Park here for the entire morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathausplatz & Altstadt",
+            "hu": "Városház tér és Óváros",
+            "ro": "Piața Primăriei & Centrul Vechi",
+            "en": "City Hall Square & Old Town"
+          },
+          "coords": [
+            18.4105,
+            47.1908
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die Gassen rund um den Hauptplatz.",
+            "hu": "Sétáljon a főteret körülvevő utcácskákon.",
+            "ro": "Plimbați-vă pe străduțele din jurul pieței principale.",
+            "en": "Stroll through the alleys around the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Stephansdom & Ruinenpark",
+            "hu": "Szent István-székesegyház és Romkert",
+            "ro": "Catedrala Sf. Ștefan și Grădina cu Ruine",
+            "en": "St. Stephen's Cathedral & Ruin Garden"
+          },
+          "coords": [
+            18.4091,
+            47.1901
+          ],
+          "category": "historical",
+          "arrive_at": "10:02",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden wichtigen historischen Stätten liegen direkt nebeneinander.",
+            "hu": "Ez a két fontos történelmi helyszín közvetlenül egymás mellett található.",
+            "ro": "Aceste două situri istorice importante sunt situate chiar unul lângă celălalt.",
+            "en": "These two important historical sites are located right next to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrenmuseum & Hiemer-Haus",
+            "hu": "Óramúzeum és Hiemer-ház",
+            "ro": "Muzeul Ceasurilor & Casa Hiemer",
+            "en": "Clock Museum & Hiemer House"
+          },
+          "coords": [
+            18.4115,
+            47.1913
+          ],
+          "category": "museums",
+          "arrive_at": "11:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die skurrile Uhrensammlung nach der Besichtigung des prächtigen Hauses.",
+            "hu": "Fedezze fel a különleges óragyűjteményt a csodálatos ház megtekintése után.",
+            "ro": "Descoperiți colecția excentrică de ceasuri după ce ați vizitat casa magnifică.",
+            "en": "Discover the quirky clock collection after visiting the magnificent house."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az Óvárosban",
+            "ro": "Prânz în Centrul Vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            18.411,
+            47.1905
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Wählen Sie eines der vielen Restaurants für ein traditionelles ungarisches Mittagessen.",
+            "hu": "Válasszon a sok étterem közül egy hagyományos magyar ebédhez.",
+            "ro": "Alegeți unul dintre multele restaurante pentru un prânz tradițional maghiar.",
+            "en": "Choose one of the many restaurants for a traditional Hungarian lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Bory",
+            "hu": "Bory-vár",
+            "ro": "Castelul Bory",
+            "en": "Bory Castle"
+          },
+          "coords": [
+            18.435,
+            47.208
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:38",
+          "stay_min": 120,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 5.7,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem einzigartigen Schloss am Stadtrand. Es gibt einen eigenen Parkplatz.",
+            "hu": "Vezessen el ehhez az egyedülálló várhoz a város szélén. Saját parkolója van.",
+            "ro": "Conduceți la acest castel unic de la marginea orașului. Are parcare proprie.",
+            "en": "Drive to this unique castle on the outskirts of the city. It has its own parking lot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Parken Sie Ihr Auto am Morgen in der Nähe des Zentrums und erkunden Sie den ersten Cluster zu Fuß: die historischen Plätze, die Kathedrale und die Museen. Genießen Sie ein gemütliches Mittagessen, bevor Sie zu Ihrem Auto zurückkehren. Am Nachmittag fahren Sie zum zweiten Cluster, dem beeindruckenden Bory-Schloss, das eine längere Erkundung verdient und einen perfekten Abschluss für Ihren Tag darstellt.",
+        "hu": "Reggel parkolja le autóját a központ közelében, és fedezze fel gyalog az első látnivalócsoportot: a történelmi tereket, a székesegyházat és a múzeumokat. Fogyasszon el egy kényelmes ebédet, mielőtt visszatérne az autójához. Délután vezessen át a második látnivalócsoporthoz, a lenyűgöző Bory-várhoz, amely hosszabb felfedezést érdemel, és tökéletes lezárása a napnak.",
+        "ro": "Dimineața, parcați mașina lângă centru și explorați primul cluster de atracții pe jos: piețele istorice, catedrala și muzeele. Bucurați-vă de un prânz pe îndelete înainte de a vă întoarce la mașină. După-amiaza, conduceți la al doilea cluster, impresionantul Castel Bory, care merită o explorare mai lungă și oferă o încheiere perfectă a zilei.",
+        "en": "In the morning, park your car near the center and explore the first cluster of sights on foot: the historic squares, the cathedral, and the museums. Enjoy a leisurely lunch before returning to your car. In the afternoon, drive to the second cluster, the impressive Bory Castle, which deserves a longer exploration and provides a perfect end to your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Da Vinci Étterem",
+            "tip": "Eine gute Wahl für ein gehobenes Mittagessen im Stadtzentrum."
+          },
+          {
+            "name": "Kávé és Kuchen im Hiemer-Haus Café",
+            "tip": "Ein eleganter Ort für eine Pause während Ihrer Stadterkundung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Da Vinci Étterem",
+            "tip": "Jó választás egy elegánsabb ebédhez a belvárosban."
+          },
+          {
+            "name": "Kávé és sütemény a Hiemer-ház kávézójában",
+            "tip": "Elegáns hely egy szünetre a városnézés közben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul Da Vinci",
+            "tip": "O alegere bună pentru un prânz mai rafinat în centrul orașului."
+          },
+          {
+            "name": "Cafea și prăjitură la Cafeneaua Casei Hiemer",
+            "tip": "Un loc elegant pentru o pauză în timpul explorării orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Da Vinci Restaurant",
+            "tip": "A good choice for a more upscale lunch in the city center."
+          },
+          {
+            "name": "Coffee and cake at the Hiemer House Café",
+            "tip": "An elegant spot for a break during your city exploration."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Japanischer Garten",
+            "tip": "Ein kleiner, versteckter Garten für einen Moment der Ruhe.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Die Zinnen der Bory-Burg",
+            "tip": "Klettern Sie nach oben für eine weite Aussicht und weniger Menschenmassen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Japánkert",
+            "tip": "Egy kicsi, rejtett kert egy pillanatnyi békéért.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A Bory-vár oromzatai",
+            "tip": "Másszon fel a tágas kilátásért és a kevesebb tömegért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Japoneză",
+            "tip": "O grădină mică, ascunsă, pentru un moment de liniște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Zidurile Castelului Bory",
+            "tip": "Urcați pentru o priveliște vastă și mai puțină aglomerație.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Japanese Garden",
+            "tip": "A small, hidden garden for a moment of peace.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "The battlements of Bory Castle",
+            "tip": "Climb up for a wide view and fewer crowds.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bory-Schloss Geschenkeladen",
+            "tip": "Bietet einzigartige Souvenirs, die von der Kunst des Schlosses inspiriert sind."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bory-vár ajándékboltja",
+            "tip": "Egyedi, a vár művészete által inspirált ajándéktárgyakat kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de cadouri al Castelului Bory",
+            "tip": "Oferă suveniruri unice inspirate de arta castelului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bory Castle Gift Shop",
+            "tip": "Offers unique souvenirs inspired by the castle's art."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Parkgebühren im Voraus; einige Parkplätze sind kostenlos, andere nicht.",
+          "Das Bory-Schloss liegt außerhalb des Zentrums, planen Sie also die Fahrzeit ein.",
+          "Der Cluster-Walking-Ansatz spart Zeit und Parkplatzsuche."
+        ],
+        "hu": [
+          "Ellenőrizze előre a parkolási díjakat; egyes parkolók ingyenesek, mások nem.",
+          "A Bory-vár a központon kívül esik, ezért tervezze be a vezetési időt.",
+          "A gyalogos-csoportos megközelítés időt és parkolóhely-keresést takarít meg."
+        ],
+        "ro": [
+          "Verificați taxele de parcare în avans; unele parcări sunt gratuite, altele nu.",
+          "Castelul Bory este în afara centrului, așa că planificați timpul de condus.",
+          "Abordarea cu clustere de mers pe jos economisește timp și căutarea locurilor de parcare."
+        ],
+        "en": [
+          "Check parking fees in advance; some lots are free, others are not.",
+          "Bory Castle is outside the center, so plan for the driving time.",
+          "The cluster-walking approach saves time and the hassle of finding parking."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Busbahnhof",
+            "hu": "Központi buszpályaudvar",
+            "ro": "Autogara Centrală",
+            "en": "Central Bus Station"
+          },
+          "coords": [
+            18.416,
+            47.188
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Starten Sie hier, um den ersten Cluster zu Fuß zu erkunden.",
+            "hu": "Induljon innen az első látnivalócsoport gyalogos felfedezésére.",
+            "ro": "Începeți de aici pentru a explora primul cluster pe jos.",
+            "en": "Start from here to explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathausplatz & Altstadt",
+            "hu": "Városház tér és Óváros",
+            "ro": "Piața Primăriei & Centrul Vechi",
+            "en": "City Hall Square & Old Town"
+          },
+          "coords": [
+            18.4105,
+            47.1908
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:22",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Herz der Stadt ist nur einen kurzen Spaziergang vom Busbahnhof entfernt.",
+            "hu": "A város szíve csak egy rövid sétára van a buszpályaudvartól.",
+            "ro": "Inima orașului este la o scurtă plimbare de autogară.",
+            "en": "The heart of the city is a short walk from the bus station."
+          }
+        },
+        {
+          "name": {
+            "de": "Stephansdom & Ruinenpark",
+            "hu": "Szent István-székesegyház és Romkert",
+            "ro": "Catedrala Sf. Ștefan și Grădina cu Ruine",
+            "en": "St. Stephen's Cathedral & Ruin Garden"
+          },
+          "coords": [
+            18.4091,
+            47.1901
+          ],
+          "category": "historical",
+          "arrive_at": "10:26",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Besuch dieser beiden wichtigen Orte, die die Geschichte der ungarischen Könige erzählen.",
+            "hu": "Kombinálja e két fontos helyszín meglátogatását, amelyek a magyar királyok történetét mesélik el.",
+            "ro": "Combinați vizita la aceste două locuri importante care spun povestea regilor maghiari.",
+            "en": "Combine the visit to these two important sites that tell the story of the Hungarian kings."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Museen",
+            "hu": "Ebéd és múzeumok",
+            "ro": "Prânz și muzee",
+            "en": "Lunch and Museums"
+          },
+          "coords": [
+            18.4115,
+            47.1913
+          ],
+          "category": "gastro",
+          "arrive_at": "12:21",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie Ihr Mittagessen und besuchen Sie dann das Uhrenmuseum in der Nähe.",
+            "hu": "Ebédeljen meg, majd látogasson el a közeli Óramúzeumba.",
+            "ro": "Luați prânzul și apoi vizitați Muzeul Ceasurilor din apropiere.",
+            "en": "Have lunch and then visit the nearby Clock Museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Bory",
+            "hu": "Bory-vár",
+            "ro": "Castelul Bory",
+            "en": "Bory Castle"
+          },
+          "coords": [
+            18.435,
+            47.208
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:41",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus vom Stadtzentrum. Überprüfen Sie den Fahrplan im Voraus.",
+            "hu": "Menjen helyi busszal a városközpontból. Ellenőrizze előre a menetrendet.",
+            "ro": "Luați un autobuz local din centrul orașului. Verificați orarul în avans.",
+            "en": "Take a local bus from the city center. Check the schedule in advance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Stadtzentrum, das Sie bequem zu Fuß vom zentralen Busbahnhof aus erreichen. Erkunden Sie den historischen Kern, einschließlich der Kathedrale und des Ruinenparks, und genießen Sie ein Mittagessen. Am Nachmittag bringt Sie ein lokaler Bus zum zweiten Cluster, dem abgelegenen und magischen Bory-Schloss, wo Sie den Rest des Tages verbringen können.",
+        "hu": "Kezdje a napot a belvárosban, amely a központi buszpályaudvartól gyalogosan is könnyen megközelíthető. Fedezze fel a történelmi magot, beleértve a székesegyházat és a Romkertet, majd ebédeljen. Délután egy helyi busz elviszi a második látnivalócsoporthoz, a távolabbi és varázslatos Bory-várhoz, ahol a nap hátralévő részét töltheti.",
+        "ro": "Începeți ziua în centrul orașului, ușor accesibil pe jos de la autogara centrală. Explorați nucleul istoric, inclusiv catedrala și grădina cu ruine, și luați prânzul. După-amiaza, un autobuz local vă va duce la al doilea cluster, castelul îndepărtat și magic Bory, unde puteți petrece restul zilei.",
+        "en": "Start your day in the city center, easily walkable from the central bus station. Explore the historic core, including the cathedral and ruin garden, and have lunch. In the afternoon, a local bus will take you to the second cluster, the remote and magical Bory Castle, where you can spend the rest of the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistorant",
+            "tip": "Beliebt bei Einheimischen, bietet es ein gutes Preis-Leistungs-Verhältnis für das Mittagessen."
+          },
+          {
+            "name": "Gelato im Zentrum",
+            "tip": "Ein erfrischender Genuss an einem warmen Tag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistorant",
+            "tip": "A helyiek körében népszerű, jó ár-érték arányú ebédmenüt kínál."
+          },
+          {
+            "name": "Fagylalt a központban",
+            "tip": "Frissítő finomság egy meleg napon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistorant",
+            "tip": "Popular printre localnici, oferă un bun raport calitate-preț pentru prânz."
+          },
+          {
+            "name": "Înghețată în centru",
+            "tip": "O delicatesă răcoritoare într-o zi caldă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistorant",
+            "tip": "Popular with locals, it offers good value for lunch."
+          },
+          {
+            "name": "Gelato in the center",
+            "tip": "A refreshing treat on a warm day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park des Zichy-Hains (Zichy liget)",
+            "tip": "Ein großer, schattiger Park, ideal zum Entspannen nach dem Mittagessen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zichy liget",
+            "tip": "Nagy, árnyas park, ideális pihenésre ebéd után.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Zichy (Zichy liget)",
+            "tip": "Un parc mare, umbros, ideal pentru relaxare după prânz.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Zichy Grove Park (Zichy liget)",
+            "tip": "A large, shady park, ideal for relaxing after lunch.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kleine Läden in der Liszt Ferenc utca",
+            "tip": "Entdecken Sie charmante kleine Geschäfte abseits der Hauptstraße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kis üzletek a Liszt Ferenc utcában",
+            "tip": "Fedezze fel a bájos kis boltokat a főutcától távolabb."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mici magazine pe strada Liszt Ferenc",
+            "tip": "Descoperiți magazine mici și fermecătoare, departe de strada principală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Small shops on Liszt Ferenc street",
+            "tip": "Discover charming little shops away from the main street."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Die Busfahrpläne können am Wochenende anders sein, überprüfen Sie sie online.",
+          "Vom Busbahnhof zum Zentrum zu laufen ist einfach und dauert etwa 10-15 Minuten."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha több utazást is tervez.",
+          "A buszmenetrendek hétvégén eltérőek lehetnek, ellenőrizze online.",
+          "A buszpályaudvartól a központig tartó séta egyszerű és kb. 10-15 percet vesz igénybe."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă plănuiți mai multe călătorii.",
+          "Programele autobuzelor pot fi diferite în weekend, verificați online.",
+          "Mersul pe jos de la autogară la centru este ușor și durează aproximativ 10-15 minute."
+        ],
+        "en": [
+          "Buy a day pass for the bus if you plan on making multiple trips.",
+          "Bus schedules may differ on weekends, check them online.",
+          "Walking from the bus station to the center is easy and takes about 10-15 minutes."
+        ]
+      }
+    }
+  }
+}

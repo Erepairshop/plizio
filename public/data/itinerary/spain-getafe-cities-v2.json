@@ -1,0 +1,1380 @@
+{
+  "city_id": "spain-getafe-cities-v2",
+  "anchor": {
+    "name": "Getafe",
+    "coords": [
+      -3.7327,
+      40.3083
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de la Constitución",
+            "hu": "Alkotmány tér",
+            "ro": "Piața Constituției",
+            "en": "Constitution Square"
+          },
+          "coords": [
+            -3.734,
+            40.3045
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee und beobachten Sie das lokale Leben.",
+            "hu": "Kezdje a napot egy kávéval, és figyelje a helyi életet.",
+            "ro": "Începeți ziua aici cu o cafea și observați viața locală.",
+            "en": "Start your day here with a coffee and watch the local life unfold."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Santa María Magdalena",
+            "hu": "Szent Mária Magdolna-székesegyház",
+            "ro": "Catedrala Sfânta Maria Magdalena",
+            "en": "Cathedral of Saint Mary Magdalene"
+          },
+          "coords": [
+            -3.7335,
+            40.3038
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckende barocke Fassade und den ruhigen Innenraum.",
+            "hu": "Figyelje meg a lenyűgöző barokk homlokzatot és a békés belső teret.",
+            "ro": "Fiți atenți la fațada barocă impresionantă și la interiorul liniștit.",
+            "en": "Pay attention to the impressive baroque facade and the quiet interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Hospital de San José",
+            "hu": "San José Kórház",
+            "ro": "Spitalul San José",
+            "en": "Hospital of San José"
+          },
+          "coords": [
+            -3.7361,
+            40.305
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:05",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein schönes Beispiel historischer Architektur, heute ein Kulturzentrum.",
+            "hu": "A történelmi építészet szép példája, ma kulturális központ.",
+            "ro": "Un exemplu frumos de arhitectură istorică, acum un centru cultural.",
+            "en": "A beautiful example of historical architecture, now a cultural center."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Auditorio García Lorca",
+            "hu": "García Lorca Színház és Auditórium",
+            "ro": "Teatrul-Auditoriu García Lorca",
+            "en": "García Lorca Theatre-Auditorium"
+          },
+          "coords": [
+            -3.729,
+            40.302
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:21",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Prüfen Sie das Programm, vielleicht gibt es eine interessante Vorstellung.",
+            "hu": "Ellenőrizze a műsort, hátha van egy érdekes előadás.",
+            "ro": "Verificați programul, s-ar putea să găsiți un spectacol interesant.",
+            "en": "Check the schedule, you might catch an interesting performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the center"
+          },
+          "coords": [
+            -3.735,
+            40.304
+          ],
+          "category": "gastro",
+          "arrive_at": "12:53",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Probieren Sie eine lokale Tapas-Bar für ein authentisches Erlebnis.",
+            "hu": "Próbáljon ki egy helyi tapas bárt az autentikus élményért.",
+            "ro": "Încercați un bar de tapas local pentru o experiență autentică.",
+            "en": "Try a local tapas bar for an authentic experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Alhóndiga-Park",
+            "hu": "Alhóndiga Park",
+            "ro": "Parcul Alhóndiga",
+            "en": "Alhóndiga Park"
+          },
+          "coords": [
+            -3.748,
+            40.298
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:47",
+          "stay_min": 105,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 34,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für einen entspannten Nachmittagsspaziergang am See.",
+            "hu": "Tökéletes hely egy pihentető délutáni sétához a tó körül.",
+            "ro": "Un loc perfect pentru o plimbare relaxantă de după-amiază în jurul lacului.",
+            "en": "A perfect spot for a relaxing afternoon walk around the lake."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Rundgang beginnt auf der belebten Plaza de la Constitución, dem Herzen von Getafe. Von dort aus schlendern Sie zur majestätischen Kathedrale Santa María Magdalena, um ihre barocke Kunst zu bewundern. Am Mittag erkunden Sie das historische Hospital de San José, bevor Sie das Kulturzentrum der Stadt, das Teatro García Lorca, besuchen. Nach einem authentischen spanischen Mittagessen können Sie am Nachmittag im Alhóndiga-Park entspannen, einem idealen Ort, um die ruhige Atmosphäre der Stadt zu genießen und den Tag ausklingen zu lassen.",
+        "hu": "Sétája Getafe szívében, a nyüzsgő Alkotmány téren kezdődik. Innen sétáljon el a fenséges Szent Mária Magdolna-székesegyházhoz, hogy megcsodálja barokk művészetét. Délben fedezze fel a történelmi San José Kórházat, majd látogasson el a város kulturális központjába, a García Lorca Színházba. Egy autentikus spanyol ebéd után a délutánt az Alhóndiga Parkban pihenéssel töltheti, amely ideális hely a város nyugodt légkörének élvezetére és a nap lezárására.",
+        "ro": "Turul dumneavoastră pietonal începe în animata Piața Constituției, inima orașului Getafe. De acolo, vă plimbați spre maiestuoasa Catedrală Sfânta Maria Magdalena pentru a-i admira arta barocă. La prânz, explorați istoricul Spital San José înainte de a vizita centrul cultural al orașului, Teatrul García Lorca. După un prânz spaniol autentic, după-amiaza vă puteți relaxa în Parcul Alhóndiga, un loc ideal pentru a vă bucura de atmosfera liniștită a orașului și a încheia ziua.",
+        "en": "Your walking tour starts in the bustling Plaza de la Constitución, the heart of Getafe. From there, stroll to the majestic Cathedral of Saint Mary Magdalene to admire its baroque art. At midday, explore the historic Hospital de San José before visiting the city's cultural hub, the García Lorca Theatre. After an authentic Spanish lunch, the afternoon is for relaxing in Alhóndiga Park, an ideal place to enjoy the city's calm atmosphere and wind down your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cocido Madrileño",
+            "tip": "Ein herzhafter Kichererbseneintopf, perfekt für ein sättigendes Mittagessen."
+          },
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Ein klassisches Madrider Sandwich mit frittierten Tintenfischringen."
+          },
+          {
+            "name": "Churros con Chocolate",
+            "tip": "Ein Muss für einen süßen Snack am Nachmittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cocido Madrileño",
+            "tip": "Kiadós csicseriborsó-pörkölt, tökéletes egy laktató ebédhez."
+          },
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Klasszikus madridi szendvics sült tintahalkarikákkal."
+          },
+          {
+            "name": "Churros con Chocolate",
+            "tip": "Kötelező édes uzsonna."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cocido Madrileño",
+            "tip": "O tocană consistentă de năut, perfectă pentru un prânz sățios."
+          },
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Un sandviș clasic madrilen cu inele de calamar prăjite."
+          },
+          {
+            "name": "Churros con Chocolate",
+            "tip": "O gustare dulce obligatorie pentru după-amiază."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cocido Madrileño",
+            "tip": "A hearty chickpea stew, perfect for a filling lunch."
+          },
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "A classic Madrid sandwich with fried squid rings."
+          },
+          {
+            "name": "Churros con Chocolate",
+            "tip": "A must-try for a sweet afternoon snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Alhóndiga-Park",
+            "tip": "Finden Sie eine Bank am See und genießen Sie die Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Innenhof der Kathedrale",
+            "tip": "Ein friedlicher Ort, um dem Trubel der Stadt zu entfliehen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alhóndiga Park",
+            "tip": "Keressen egy padot a tó mellett, és élvezze a csendet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A székesegyház udvara",
+            "tip": "Békés hely a város nyüzsgésétől távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Alhóndiga",
+            "tip": "Găsiți o bancă lângă lac și bucurați-vă de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea interioară a catedralei",
+            "tip": "Un loc pașnic pentru a scăpa de agitația orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Alhóndiga Park",
+            "tip": "Find a bench by the lake and enjoy the quiet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cathedral's inner courtyard",
+            "tip": "A peaceful spot to escape the city bustle.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle Madrid",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus lokalen und bekannten Marken."
+          },
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach einem lokalen Markt für frische Produkte und handwerkliche Erzeugnisse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle Madrid",
+            "tip": "A fő bevásárlóutca helyi és ismert márkák keverékével."
+          },
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen egy helyi piacot friss termékekért és kézműves árukért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle Madrid",
+            "tip": "Principala stradă comercială cu un amestec de mărci locale și cunoscute."
+          },
+          {
+            "name": "Piața locală",
+            "tip": "Căutați o piață locală pentru produse proaspete și meșteșugărești."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle Madrid",
+            "tip": "The main shopping street with a mix of local and well-known brands."
+          },
+          {
+            "name": "Local Market",
+            "tip": "Look for a local market for fresh produce and artisanal goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit; es gibt öffentliche Brunnen.",
+          "Die meisten Geschäfte schließen für eine Siesta am Nachmittag, planen Sie entsprechend.",
+          "Genießen Sie ein gemütliches Mittagessen; es ist ein wichtiger Teil der spanischen Kultur."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Hozzon magával újratölthető vizes palackot; vannak nyilvános kutak.",
+          "A legtöbb üzlet délutáni szieszta idejére bezár, tervezzen ennek megfelelően.",
+          "Élvezze a kényelmes ebédet; ez a spanyol kultúra fontos része."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge mult pe jos.",
+          "Luați o sticlă de apă reutilizabilă; există fântâni publice.",
+          "Majoritatea magazinelor se închid pentru siestă după-amiaza, planificați-vă în consecință.",
+          "Bucurați-vă de un prânz pe îndelete; este o parte importantă a culturii spaniole."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "Bring a reusable water bottle; there are public fountains available.",
+          "Most shops close for an afternoon siesta, so plan accordingly.",
+          "Enjoy a leisurely lunch; it's an important part of Spanish culture."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de la Constitución",
+            "hu": "Alkotmány tér",
+            "ro": "Piața Constituției",
+            "en": "Constitution Square"
+          },
+          "coords": [
+            -3.734,
+            40.3045
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und genießen Sie die Atmosphäre dieses zentralen Platzes.",
+            "hu": "Zárja le a kerékpárját, és élvezze a központi tér hangulatát.",
+            "ro": "Încuiați-vă bicicleta și bucurați-vă de atmosfera acestei piețe centrale.",
+            "en": "Lock up your bike and enjoy the atmosphere of this central square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Santa María Magdalena",
+            "hu": "Szent Mária Magdolna-székesegyház",
+            "ro": "Catedrala Sfânta Maria Magdalena",
+            "en": "Cathedral of Saint Mary Magdalene"
+          },
+          "coords": [
+            -3.7335,
+            40.3038
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:37",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um die beeindruckende Architektur zu bewundern.",
+            "hu": "Egy gyors megálló, hogy megcsodálja a lenyűgöző építészetet.",
+            "ro": "O oprire rapidă pentru a admira arhitectura impresionantă.",
+            "en": "A quick stop to admire the impressive architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Alhóndiga-Park",
+            "hu": "Alhóndiga Park",
+            "ro": "Parcul Alhóndiga",
+            "en": "Alhóndiga Park"
+          },
+          "coords": [
+            -3.748,
+            40.298
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:47",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Machen Sie eine Radtour um den See, um die Natur zu genießen.",
+            "hu": "Tegyen egy kört a tó körül kerékpárral, és élvezze a természetet.",
+            "ro": "Faceți o tură cu bicicleta în jurul lacului pentru a vă bucura de natură.",
+            "en": "Take a bike ride around the lake to enjoy the nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Parks",
+            "hu": "Ebéd a park közelében",
+            "ro": "Prânz lângă parc",
+            "en": "Lunch near the park"
+          },
+          "coords": [
+            -3.745,
+            40.3
+          ],
+          "category": "gastro",
+          "arrive_at": "11:53",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Suchen Sie ein Restaurant mit Außenterrasse, um Ihr Fahrrad im Auge zu behalten.",
+            "hu": "Keressen egy éttermet kültéri terasszal, hogy szemmel tarthassa a kerékpárját.",
+            "ro": "Căutați un restaurant cu terasă exterioară pentru a vă putea supraveghea bicicleta.",
+            "en": "Find a restaurant with an outdoor terrace to keep an eye on your bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Cerro de los Ángeles",
+            "hu": "Angyalok hegye",
+            "ro": "Dealul Îngerilor",
+            "en": "Hill of the Angels"
+          },
+          "coords": [
+            -3.712,
+            40.312
+          ],
+          "category": "natural features",
+          "arrive_at": "13:43",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.4,
+          "tip_5lang": {
+            "de": "Der Aufstieg ist die Aussicht wert. Es ist der geografische Mittelpunkt Spaniens!",
+            "hu": "A kilátás megéri a kaptatót. Ez Spanyolország földrajzi középpontja!",
+            "ro": "Urcușul merită priveliștea. Este centrul geografic al Spaniei!",
+            "en": "The climb is worth the view. It's the geographical center of Spain!"
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für das Herz Jesu",
+            "hu": "Jézus Szent Szíve emlékmű",
+            "ro": "Monumentul Inimii Sacre a lui Iisus",
+            "en": "Monument to the Sacred Heart of Jesus"
+          },
+          "coords": [
+            -3.7125,
+            40.3125
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:15",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein imposantes Monument auf dem Gipfel des Hügels.",
+            "hu": "Impozáns emlékmű a hegytetőn.",
+            "ro": "Un monument impunător în vârful dealului.",
+            "en": "An imposing monument at the top of the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum",
+            "hu": "Visszatérés a központba",
+            "ro": "Întoarcere în centru",
+            "en": "Return to the Center"
+          },
+          "coords": [
+            -3.734,
+            40.3045
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:07",
+          "stay_min": 108,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem wohlverdienten Getränk auf der Plaza.",
+            "hu": "Zárja a napot egy jól megérdemelt itallal a téren.",
+            "ro": "Încheiați ziua cu o băutură binemeritată în piață.",
+            "en": "End your day with a well-deserved drink back in the plaza."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt im Herzen von Getafe, auf der Plaza de la Constitución. Nach einem kurzen Blick auf die Kathedrale radeln Sie zum Alhóndiga-Park für eine morgendliche Runde um den See. Nach dem Mittagessen in der Nähe des Parks nehmen Sie die Herausforderung an und radeln zum Cerro de los Ángeles, dem geografischen Mittelpunkt Spaniens. Die Panoramaaussicht und das imposante Denkmal sind die Belohnung für Ihre Mühe. Am späten Nachmittag kehren Sie ins Zentrum zurück, um den Tag bei einem erfrischenden Getränk ausklingen zu lassen.",
+        "hu": "Kerékpártúrája Getafe szívében, az Alkotmány téren kezdődik. Miután vetett egy pillantást a székesegyházra, tekerjen el az Alhóndiga parkba egy reggeli körre a tó körül. A park melletti ebéd után vállalja a kihívást, és kerékpározzon el a Cerro de los Ángeleshez, Spanyolország földrajzi középpontjához. A panorámás kilátás és az impozáns emlékmű a jutalom az erőfeszítésért. Késő délután térjen vissza a központba, hogy egy frissítő itallal zárja a napot.",
+        "ro": "Turul pe bicicletă începe în inima orașului Getafe, în Piața Constituției. După o privire rapidă la catedrală, pedalați spre Parcul Alhóndiga pentru o tură de dimineață în jurul lacului. După prânzul lângă parc, acceptați provocarea și pedalați spre Cerro de los Ángeles, centrul geografic al Spaniei. Priveliștea panoramică și monumentul impunător sunt recompensa pentru efortul depus. Spre sfârșitul după-amiezii, vă întoarceți în centru pentru a încheia ziua cu o băutură răcoritoare.",
+        "en": "Your bike tour starts in the heart of Getafe, at Plaza de la Constitución. After a quick look at the cathedral, you'll cycle to Alhóndiga Park for a morning ride around the lake. Following lunch near the park, you'll take on the challenge of cycling up to Cerro de los Ángeles, the geographical center of Spain. The panoramic views and the imposing monument are your reward. In the late afternoon, you'll return to the center to finish the day with a refreshing drink."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tortilla Española",
+            "tip": "Ein klassisches spanisches Omelett, ideal zur Stärkung."
+          },
+          {
+            "name": "Gazpacho",
+            "tip": "Eine erfrischende kalte Tomatensuppe, perfekt für einen warmen Tag."
+          },
+          {
+            "name": "Paella",
+            "tip": "Obwohl es aus Valencia stammt, finden Sie auch hier köstliche Versionen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tortilla Española",
+            "tip": "Klasszikus spanyol omlett, ideális energiapótláshoz."
+          },
+          {
+            "name": "Gazpacho",
+            "tip": "Frissítő hideg paradicsomleves, tökéletes egy meleg napra."
+          },
+          {
+            "name": "Paella",
+            "tip": "Bár Valenciából származik, itt is talál ízletes változatokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tortilla Española",
+            "tip": "O omletă spaniolă clasică, ideală pentru a vă reface energia."
+          },
+          {
+            "name": "Gazpacho",
+            "tip": "O supă rece și răcoritoare de roșii, perfectă pentru o zi călduroasă."
+          },
+          {
+            "name": "Paella",
+            "tip": "Deși originară din Valencia, puteți găsi versiuni delicioase și aici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tortilla Española",
+            "tip": "A classic Spanish omelet, ideal for refueling."
+          },
+          {
+            "name": "Gazpacho",
+            "tip": "A refreshing cold tomato soup, perfect for a warm day."
+          },
+          {
+            "name": "Paella",
+            "tip": "Although from Valencia, you can find delicious versions here too."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfel des Cerro de los Ángeles",
+            "tip": "Genießen Sie die weite Aussicht und die friedliche Atmosphäre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ufer des Sees im Alhóndiga-Park",
+            "tip": "Ein ruhiger Ort, um die Enten zu beobachten.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cerro de los Ángeles csúcsa",
+            "tip": "Élvezze a messzire nyúló kilátást és a békés hangulatot.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Az Alhóndiga parki tó partja",
+            "tip": "Csendes hely a kacsák megfigyelésére.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Cerro de los Ángeles",
+            "tip": "Bucurați-vă de priveliștea vastă și de atmosfera pașnică.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malul lacului din Parcul Alhóndiga",
+            "tip": "Un loc liniștit pentru a privi rațele.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Summit of Cerro de los Ángeles",
+            "tip": "Enjoy the expansive views and peaceful atmosphere.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lakeside in Alhóndiga Park",
+            "tip": "A quiet spot to watch the ducks.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Suchen Sie nach lokalen Geschäften für Zubehör oder schnelle Reparaturen."
+          },
+          {
+            "name": "Souvenirs vom Cerro de los Ángeles",
+            "tip": "Kleine Andenken an den geografischen Mittelpunkt Spaniens."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Keressen helyi boltokat kiegészítőkért vagy gyors javításokért."
+          },
+          {
+            "name": "Szuvenírek a Cerro de los Ángelesről",
+            "tip": "Kis emléktárgyak Spanyolország földrajzi középpontjából."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Căutați magazine locale pentru accesorii sau reparații rapide."
+          },
+          {
+            "name": "Suveniruri de la Cerro de los Ángeles",
+            "tip": "Mici amintiri de la centrul geografic al Spaniei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "Look for local shops for any accessories or quick repairs."
+          },
+          {
+            "name": "Souvenirs from Cerro de los Ángeles",
+            "tip": "Small mementos from the geographical center of Spain."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad an den Haltestellen sicher abzustellen.",
+          "Der Aufstieg zum Cerro de los Ángeles ist anspruchsvoll; nehmen Sie sich Zeit.",
+          "Tragen Sie einen Helm und achten Sie auf den Verkehr in der Stadt."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket és a gumikat.",
+          "Hozzon magával lakatot, hogy biztonságosan lezárhassa a kerékpárt a megállóknál.",
+          "A Cerro de los Ángelesre való feljutás kihívást jelent; szánjon rá időt.",
+          "Viseljen sisakot, és figyeljen a városi forgalomra."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele și anvelopele.",
+          "Aduceți un lacăt pentru a vă asigura bicicleta la opriri.",
+          "Urcarea pe Cerro de los Ángeles este solicitantă; nu vă grăbiți.",
+          "Purtați cască și fiți atenți la traficul din oraș."
+        ],
+        "en": [
+          "Check your bike before you leave, especially brakes and tires.",
+          "Bring a lock to secure your bike at stops.",
+          "The climb to Cerro de los Ángeles is challenging; take your time.",
+          "Wear a helmet and be mindful of city traffic."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken am Cerro de los Ángeles",
+            "hu": "Parkolás a Cerro de los Ángeles-nél",
+            "ro": "Parcare la Cerro de los Ángeles",
+            "en": "Parking at Cerro de los Ángeles"
+          },
+          "coords": [
+            -3.713,
+            40.3115
+          ],
+          "category": "natural features",
+          "arrive_at": "09:21",
+          "stay_min": 10,
+          "hop_mode": "car",
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Fahren Sie früh los, um einen guten Parkplatz zu finden und die Morgenkühle zu genießen.",
+            "hu": "Induljon korán, hogy jó parkolóhelyet találjon és élvezze a reggeli hűvösséget.",
+            "ro": "Plecați devreme pentru a găsi un loc bun de parcare și pentru a vă bucura de răcoarea dimineții.",
+            "en": "Arrive early to get a good parking spot and enjoy the morning coolness."
+          }
+        },
+        {
+          "name": {
+            "de": "Cerro de los Ángeles & Denkmal",
+            "hu": "Cerro de los Ángeles & Emlékmű",
+            "ro": "Cerro de los Ángeles & Monument",
+            "en": "Cerro de los Ángeles & Monument"
+          },
+          "coords": [
+            -3.7125,
+            40.3125
+          ],
+          "category": "viewpoint",
+          "arrive_at": "09:35",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der geografische Mittelpunkt der Iberischen Halbinsel bietet eine atemberaubende Aussicht.",
+            "hu": "Az Ibériai-félsziget földrajzi középpontja lenyűgöző kilátást nyújt.",
+            "ro": "Centrul geografic al Peninsulei Iberice oferă priveliști uluitoare.",
+            "en": "The geographical center of the Iberian Peninsula offers breathtaking views."
+          }
+        },
+        {
+          "name": {
+            "de": "Parken im Stadtzentrum",
+            "hu": "Parkolás a városközpontban",
+            "ro": "Parcare în centrul orașului",
+            "en": "Parking in the City Center"
+          },
+          "coords": [
+            -3.738,
+            40.306
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:18",
+          "stay_min": 10,
+          "hop_mode": "car",
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.1,
+          "tip_5lang": {
+            "de": "Nutzen Sie ein öffentliches Parkhaus, um das historische Zentrum zu Fuß zu erkunden.",
+            "hu": "Használjon egy nyilvános parkolóházat, hogy gyalog fedezze fel a történelmi központot.",
+            "ro": "Folosiți o parcare publică pentru a explora centrul istoric pe jos.",
+            "en": "Use a public parking garage to explore the historic center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de la Constitución & Mittagessen",
+            "hu": "Alkotmány tér & Ebéd",
+            "ro": "Piața Constituției & Prânz",
+            "en": "Constitution Square & Lunch"
+          },
+          "coords": [
+            -3.734,
+            40.3045
+          ],
+          "category": "gastro",
+          "arrive_at": "11:34",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Saugen Sie die Atmosphäre auf und wählen Sie ein Restaurant für ein gemütliches Mittagessen.",
+            "hu": "Szippantsa be a hangulatot, és válasszon egy éttermet egy kényelmes ebédhez.",
+            "ro": "Bucurați-vă de atmosferă și alegeți un restaurant pentru un prânz pe îndelete.",
+            "en": "Soak up the atmosphere and choose a restaurant for a leisurely lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Santa María Magdalena",
+            "hu": "Szent Mária Magdolna-székesegyház",
+            "ro": "Catedrala Sfânta Maria Magdalena",
+            "en": "Cathedral of Saint Mary Magdalene"
+          },
+          "coords": [
+            -3.7335,
+            40.3038
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:19",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz zu diesem architektonischen Juwel.",
+            "hu": "Rövid séta a főtértől ehhez az építészeti gyöngyszemhez.",
+            "ro": "O scurtă plimbare de la piața principală la această bijuterie arhitecturală.",
+            "en": "A short walk from the main square to this architectural gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Alhóndiga-Park",
+            "hu": "Alhóndiga Park",
+            "ro": "Parcul Alhóndiga",
+            "en": "Alhóndiga Park"
+          },
+          "coords": [
+            -3.748,
+            40.298
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:42",
+          "stay_min": 153,
+          "hop_mode": "car",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Park für einen entspannten Nachmittag abseits des städtischen Trubels.",
+            "hu": "Vezessen el a parkba egy pihentető délutánra, távol a városi nyüzsgéstől.",
+            "ro": "Conduceți până la parc pentru o după-amiază relaxantă, departe de agitația orașului.",
+            "en": "Drive to the park for a relaxing afternoon away from the urban bustle."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Auto auf dem Cerro de los Ángeles, dem geografischen Herzen Spaniens, und genießen Sie die atemberaubende Aussicht. Nachdem Sie das Monument erkundet haben, fahren Sie ins Stadtzentrum von Getafe. Parken Sie Ihr Auto und erkunden Sie zu Fuß die Plaza de la Constitución, wo Sie ein gemütliches Mittagessen einnehmen. Anschließend besichtigen Sie die nahegelegene Kathedrale Santa María Magdalena. Den Nachmittag verbringen Sie im Alhóndiga-Park, einem perfekten Ort zum Entspannen, bevor Sie Ihre Erkundungstour durch Getafe beenden.",
+        "hu": "Kezdje a napot autóval a Cerro de los Ángeles-en, Spanyolország földrajzi szívében, és élvezze a lélegzetelállító kilátást. Az emlékmű felfedezése után hajtson be Getafe városközpontjába. Parkolja le az autóját, és fedezze fel gyalog az Alkotmány teret, ahol egy kényelmes ebédet fogyaszthat el. Ezután látogasson el a közeli Szent Mária Magdolna-székesegyházhoz. A délutánt az Alhóndiga Parkban töltse, amely tökéletes hely a pihenésre, mielőtt befejezné Getafe felfedezését.",
+        "ro": "Începeți ziua cu mașina la Cerro de los Ángeles, inima geografică a Spaniei, pentru vederi uluitoare. După ce explorați monumentul, conduceți spre centrul orașului Getafe. Parcați mașina și explorați pe jos Piața Constituției, unde veți lua un prânz pe îndelete. Apoi, vizitați Catedrala Sfânta Maria Magdalena din apropiere. Petreceți după-amiaza în Parcul Alhóndiga, un loc perfect pentru relaxare înainte de a încheia explorarea orașului Getafe.",
+        "en": "Start your day by car at Cerro de los Ángeles, the geographical heart of Spain, for breathtaking views. After exploring the monument, drive to Getafe's city center. Park your car and explore on foot the Plaza de la Constitución, where you'll have a leisurely lunch. Afterwards, visit the nearby Cathedral of Saint Mary Magdalene. Spend the afternoon at Alhóndiga Park, a perfect spot to relax before concluding your exploration of Getafe."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurante Aderezo",
+            "tip": "Bekannt für seine moderne Interpretation der spanischen Küche."
+          },
+          {
+            "name": "Mesón El Cazador",
+            "tip": "Ein traditionelles Restaurant, das auf Wildgerichte spezialisiert ist."
+          },
+          {
+            "name": "Tapas in der Calle Madrid",
+            "tip": "Erkunden Sie die vielen Bars für eine abwechslungsreiche Tapas-Tour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aderezo Étterem",
+            "tip": "A spanyol konyha modern értelmezéséről ismert."
+          },
+          {
+            "name": "Mesón El Cazador",
+            "tip": "Hagyományos, vadhúsokra szakosodott étterem."
+          },
+          {
+            "name": "Tapas a Calle Madridon",
+            "tip": "Fedezze fel a számos bárt egy változatos tapas-túrához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Aderezo",
+            "tip": "Cunoscut pentru interpretarea sa modernă a bucătăriei spaniole."
+          },
+          {
+            "name": "Mesón El Cazador",
+            "tip": "Un restaurant tradițional specializat în preparate din vânat."
+          },
+          {
+            "name": "Tapas pe Calle Madrid",
+            "tip": "Explorați numeroasele baruri pentru un tur variat de tapas."
+          }
+        ],
+        "en": [
+          {
+            "name": "Aderezo Restaurant",
+            "tip": "Known for its modern take on Spanish cuisine."
+          },
+          {
+            "name": "Mesón El Cazador",
+            "tip": "A traditional restaurant specializing in game dishes."
+          },
+          {
+            "name": "Tapas on Calle Madrid",
+            "tip": "Explore the many bars for a varied tapas tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cerro de los Ángeles am frühen Morgen",
+            "tip": "Erleben Sie die Stille, bevor die Menschenmassen ankommen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ein abgelegener Platz im Alhóndiga-Park",
+            "tip": "Perfekt für ein Buch oder um einfach nur die Gedanken schweifen zu lassen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cerro de los Ángeles kora reggel",
+            "tip": "Tapasztalja meg a csendet, mielőtt a tömeg megérkezik.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Egy eldugott hely az Alhóndiga Parkban",
+            "tip": "Tökéletes egy könyvhöz vagy csak a gondolatok elkalandozásához.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cerro de los Ángeles dimineața devreme",
+            "tip": "Experimentați liniștea înainte de sosirea mulțimilor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Un loc retras în Parcul Alhóndiga",
+            "tip": "Perfect pentru o carte sau pur și simplu pentru a vă lăsa gândurile să zboare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cerro de los Ángeles in the early morning",
+            "tip": "Experience the quiet before the crowds arrive.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A secluded spot in Alhóndiga Park",
+            "tip": "Perfect for a book or just letting your mind wander.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Getafe The Style Outlets",
+            "tip": "Ein großes Outlet-Center am Stadtrand für Marken-Shopping."
+          },
+          {
+            "name": "Lokale Keramik",
+            "tip": "Suchen Sie nach handgefertigter Keramik als authentisches Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Getafe The Style Outlets",
+            "tip": "Nagy outlet központ a város szélén márkás vásárláshoz."
+          },
+          {
+            "name": "Helyi kerámia",
+            "tip": "Keressen kézzel készített kerámiát autentikus szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Getafe The Style Outlets",
+            "tip": "Un mare centru comercial la periferia orașului pentru cumpărături de marcă."
+          },
+          {
+            "name": "Ceramică locală",
+            "tip": "Căutați ceramică lucrată manual ca suvenir autentic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Getafe The Style Outlets",
+            "tip": "A large outlet center on the outskirts for brand shopping."
+          },
+          {
+            "name": "Local Pottery",
+            "tip": "Look for handmade ceramics as an authentic souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum kann schwierig sein; nutzen Sie ausgewiesene Parkhäuser.",
+          "Planen Sie Ihre Route im Voraus, um den Verkehr zu vermeiden.",
+          "Ein GPS ist unerlässlich, um sich in der Stadt und Umgebung zurechtzufinden.",
+          "Lassen Sie keine Wertsachen im Auto sichtbar liegen."
+        ],
+        "hu": [
+          "A parkolás a városközpontban nehézkes lehet; használja a kijelölt parkolóházakat.",
+          "Tervezze meg előre az útvonalat a forgalom elkerülése érdekében.",
+          "A GPS elengedhetetlen a városban és környékén való navigáláshoz.",
+          "Ne hagyjon értékeket látható helyen az autóban."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi dificilă; folosiți parcările subterane desemnate.",
+          "Planificați-vă ruta în avans pentru a evita traficul.",
+          "Un GPS este esențial pentru a naviga în oraș și în împrejurimi.",
+          "Nu lăsați obiecte de valoare la vedere în mașină."
+        ],
+        "en": [
+          "Parking in the city center can be difficult; use designated parking garages.",
+          "Plan your route in advance to avoid traffic.",
+          "A GPS is essential for navigating the city and its surroundings.",
+          "Do not leave valuables visible in the car."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 8.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof Getafe Central",
+            "hu": "Érkezés a Getafe Central állomásra",
+            "ro": "Sosire la Gara Getafe Central",
+            "en": "Arrival at Getafe Central Station"
+          },
+          "coords": [
+            -3.728,
+            40.306
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Dies ist ein guter Ausgangspunkt, da er sich in der Nähe des Zentrums befindet.",
+            "hu": "Jó kiindulópont, mivel közel van a központhoz.",
+            "ro": "Acesta este un bun punct de plecare, fiind aproape de centru.",
+            "en": "This is a good starting point as it's close to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de la Constitución",
+            "hu": "Alkotmány tér",
+            "ro": "Piața Constituției",
+            "en": "Constitution Square"
+          },
+          "coords": [
+            -3.734,
+            40.3045
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:30",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Bahnhof zum Herzen der Stadt.",
+            "hu": "Rövid séta az állomástól a város szívébe.",
+            "ro": "O scurtă plimbare de la gară până în inima orașului.",
+            "en": "A short walk from the station to the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Santa María Magdalena",
+            "hu": "Szent Mária Magdolna-székesegyház",
+            "ro": "Catedrala Sfânta Maria Magdalena",
+            "en": "Cathedral of Saint Mary Magdalene"
+          },
+          "coords": [
+            -3.7335,
+            40.3038
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Verbringen Sie Zeit damit, die Kunst und Architektur dieses historischen Ortes zu bewundern.",
+            "hu": "Töltsön időt a történelmi hely művészetének és építészetének megcsodálásával.",
+            "ro": "Petreceți timp admirând arta și arhitectura acestui loc istoric.",
+            "en": "Spend time admiring the art and architecture of this historic site."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the center"
+          },
+          "coords": [
+            -3.735,
+            40.304
+          ],
+          "category": "gastro",
+          "arrive_at": "11:30",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die Gegend um die Plaza ist voller ausgezeichneter Restaurants.",
+            "hu": "A tér környéke tele van kiváló éttermekkel.",
+            "ro": "Zona din jurul pieței este plină de restaurante excelente.",
+            "en": "The area around the plaza is full of excellent restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Cerro de los Ángeles",
+            "hu": "Busz a Cerro de los Ángeles-hez",
+            "ro": "Autobuz spre Cerro de los Ángeles",
+            "en": "Bus to Cerro de los Ángeles"
+          },
+          "coords": [
+            -3.712,
+            40.312
+          ],
+          "category": "transport",
+          "arrive_at": "13:25",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.4,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus der Linie 447 oder 448. Überprüfen Sie den Fahrplan im Voraus.",
+            "hu": "Menjen a 447-es vagy 448-as busszal. Előre ellenőrizze a menetrendet.",
+            "ro": "Luați autobuzul liniei 447 sau 448. Verificați orarul în avans.",
+            "en": "Take bus line 447 or 448. Check the schedule in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum und Entspannung",
+            "hu": "Visszatérés a központba és pihenés",
+            "ro": "Întoarcere în centru și relaxare",
+            "en": "Return to Center & Relaxation"
+          },
+          "coords": [
+            -3.748,
+            40.298
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:20",
+          "stay_min": 100,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Alhóndiga-Park, um den Rest des Nachmittags zu entspannen.",
+            "hu": "Menjen busszal az Alhóndiga Parkba, hogy a délután hátralévő részét pihenéssel töltse.",
+            "ro": "Luați un autobuz spre Parcul Alhóndiga pentru a vă relaxa restul după-amiezii.",
+            "en": "Take a bus to Alhóndiga Park to relax for the rest of the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Reise beginnt am Bahnhof Getafe Central. Von dort aus erkunden Sie das historische Zentrum zu Fuß, beginnend mit der Plaza de la Constitución und der prächtigen Kathedrale. Nach einem gemütlichen Mittagessen nehmen Sie einen Bus zum Cerro de los Ángeles, um die spektakuläre Aussicht zu genießen. Am Nachmittag bringt Sie ein weiterer Bus zum Alhóndiga-Park, wo Sie in einer grünen Oase entspannen können, bevor Sie Ihre Heimreise antreten. Diese Tour kombiniert städtische Erkundung mit natürlichen Highlights, die alle mit öffentlichen Verkehrsmitteln erreichbar sind.",
+        "hu": "Utazása a Getafe Central állomáson kezdődik. Innen gyalogosan fedezi fel a történelmi központot, kezdve az Alkotmány térrel és a csodálatos székesegyházzal. Egy kényelmes ebéd után busszal megy a Cerro de los Ángeles-hez, hogy élvezze a látványos kilátást. Délután egy másik busz viszi az Alhóndiga Parkba, ahol egy zöld oázisban pihenhet, mielőtt hazaindulna. Ez a túra ötvözi a városi felfedezést a természeti látnivalókkal, mindezt tömegközlekedéssel elérhetően.",
+        "ro": "Călătoria dumneavoastră începe la Gara Getafe Central. De acolo, veți explora centrul istoric pe jos, începând cu Piața Constituției și magnifica catedrală. După un prânz pe îndelete, veți lua un autobuz spre Cerro de los Ángeles pentru a vă bucura de priveliștile spectaculoase. După-amiaza, un alt autobuz vă va duce la Parcul Alhóndiga, unde vă puteți relaxa într-o oază de verdeață înainte de a vă întoarce acasă. Acest tur combină explorarea urbană cu atracțiile naturale, toate accesibile cu transportul public.",
+        "en": "Your journey begins at Getafe Central station. From there, you'll explore the historic center on foot, starting with the Plaza de la Constitución and the magnificent cathedral. After a leisurely lunch, you'll take a bus to Cerro de los Ángeles to enjoy the spectacular views. In the afternoon, another bus will take you to Alhóndiga Park, where you can relax in a green oasis before heading home. This tour combines urban exploration with natural highlights, all accessible by public transport."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Menú del Día",
+            "tip": "Suchen Sie nach Restaurants, die ein festes Mittagsmenü anbieten, um ein günstiges und komplettes Mahl zu erhalten."
+          },
+          {
+            "name": "Sangria",
+            "tip": "Ein erfrischendes Wein-Frucht-Getränk, das man am besten mit Freunden teilt."
+          },
+          {
+            "name": "Patatas Bravas",
+            "tip": "Frittierte Kartoffeln mit einer würzigen Tomatensauce, ein klassischer Tapa."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Menú del Día",
+            "tip": "Keressen éttermeket, amelyek fix ebédmenüt kínálnak egy olcsó és teljes étkezésért."
+          },
+          {
+            "name": "Sangria",
+            "tip": "Frissítő bor-gyümölcs ital, amelyet a legjobb barátokkal megosztani."
+          },
+          {
+            "name": "Patatas Bravas",
+            "tip": "Sült krumpli fűszeres paradicsomszósszal, egy klasszikus tapa."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Menú del Día",
+            "tip": "Căutați restaurante care oferă un meniu fix de prânz pentru o masă ieftină și completă."
+          },
+          {
+            "name": "Sangria",
+            "tip": "O băutură răcoritoare din vin și fructe, cel mai bine de împărțit cu prietenii."
+          },
+          {
+            "name": "Patatas Bravas",
+            "tip": "Cartofi prăjiți cu un sos picant de roșii, un tapa clasic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Menú del Día",
+            "tip": "Look for restaurants offering a fixed-price lunch menu for a cheap and complete meal."
+          },
+          {
+            "name": "Sangria",
+            "tip": "A refreshing wine and fruit drink, best shared with friends."
+          },
+          {
+            "name": "Patatas Bravas",
+            "tip": "Fried potatoes with a spicy tomato sauce, a classic tapa."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine ruhige Seitenstraße",
+            "tip": "Verlieren Sie sich in den Gassen abseits der Hauptstraßen, um das authentische Getafe zu finden.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick vom Cerro de los Ángeles",
+            "tip": "Der perfekte Ort, um über die Stadt und die Landschaft zu blicken.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy csendes mellékutca",
+            "tip": "Vesszen el a főutcáktól távoli sikátorokban, hogy megtalálja az autentikus Getafét.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Cerro de los Ángelesről",
+            "tip": "Tökéletes hely a városra és a tájra való letekintéshez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O stradă laterală liniștită",
+            "tip": "Pierdeți-vă pe aleile departe de străzile principale pentru a găsi Getafe autentic.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de la Cerro de los Ángeles",
+            "tip": "Locul perfect pentru a privi peste oraș și peisaj.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "A quiet side street",
+            "tip": "Get lost in the alleys away from the main streets to find the authentic Getafe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from Cerro de los Ángeles",
+            "tip": "The perfect place to look out over the city and countryside.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markt von Getafe",
+            "tip": "Ein großartiger Ort, um lokale Spezialitäten und frische Produkte zu kaufen."
+          },
+          {
+            "name": "Kleine Boutiquen",
+            "tip": "Entdecken Sie einzigartige Geschäfte in den Straßen rund um die Plaza de la Constitución."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Getafei piac",
+            "tip": "Nagyszerű hely helyi specialitások és friss termékek vásárlására."
+          },
+          {
+            "name": "Kis butikok",
+            "tip": "Fedezzen fel egyedi üzleteket az Alkotmány tér körüli utcákban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Getafe",
+            "tip": "Un loc minunat pentru a cumpăra specialități locale și produse proaspete."
+          },
+          {
+            "name": "Mici buticuri",
+            "tip": "Descoperiți magazine unice pe străzile din jurul Pieței Constituției."
+          }
+        ],
+        "en": [
+          {
+            "name": "Getafe Market",
+            "tip": "A great place to buy local specialties and fresh produce."
+          },
+          {
+            "name": "Small Boutiques",
+            "tip": "Discover unique shops in the streets around Plaza de la Constitución."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Multi-Trip-Karte (T-10), um bei den Fahrpreisen zu sparen.",
+          "Überprüfen Sie die Fahrpläne der Busse, insbesondere für die Rückfahrt vom Cerro de los Ángeles.",
+          "Validieren Sie Ihr Ticket bei jedem Einsteigen, um Geldstrafen zu vermeiden.",
+          "Seien Sie auf den Bahnhöfen und in überfüllten Bussen auf Ihre Sachen aufmerksam."
+        ],
+        "hu": [
+          "Vásároljon több utazásra szóló kártyát (T-10), hogy spóroljon a viteldíjakon.",
+          "Ellenőrizze a buszmenetrendeket, különösen a Cerro de los Ángelesről való visszautazáshoz.",
+          "Minden felszálláskor érvényesítse a jegyét a bírságok elkerülése érdekében.",
+          "Vigyázzon a holmijára az állomásokon és a zsúfolt buszokon."
+        ],
+        "ro": [
+          "Cumpărați un card multi-călătorie (T-10) pentru a economisi la tarife.",
+          "Verificați orarele autobuzelor, în special pentru călătoria de întoarcere de la Cerro de los Ángeles.",
+          "Validați-vă biletul de fiecare dată când urcați pentru a evita amenzile.",
+          "Fiți atenți la bunurile dumneavoastră în stații și în autobuzele aglomerate."
+        ],
+        "en": [
+          "Buy a multi-trip card (T-10) to save on fares.",
+          "Check bus schedules, especially for the return trip from Cerro de los Ángeles.",
+          "Validate your ticket every time you board to avoid fines.",
+          "Be aware of your belongings at stations and on crowded buses."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1532 @@
+{
+  "city_id": "portugal-montijo-cities-v2",
+  "anchor": {
+    "name": "Montijo",
+    "coords": [
+      -8.9734,
+      38.7061
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Garten am Platz der Republik",
+            "hu": "Köztársaság téri kert",
+            "ro": "Grădina din Piața Republicii",
+            "en": "Garden of the Republic Square"
+          },
+          "coords": [
+            -8.975,
+            38.7058
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einem Kaffee in einem der umliegenden Cafés.",
+            "hu": "Kezdje a napot egy kávéval a környező kávézók egyikében.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din jur.",
+            "en": "Start your day with a coffee at one of the surrounding cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für den Stierkämpfer",
+            "hu": "Torreádor-emlékmű",
+            "ro": "Monumentul Toreadorului",
+            "en": "Monument to the Bullfighter"
+          },
+          "coords": [
+            -8.9755,
+            38.7065
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:45",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein wichtiges Symbol der lokalen Kultur, ideal für ein schnelles Foto.",
+            "hu": "A helyi kultúra fontos szimbóluma, ideális egy gyors fotóhoz.",
+            "ro": "Un simbol important al culturii locale, perfect pentru o fotografie rapidă.",
+            "en": "An important symbol of local culture, perfect for a quick photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptkirche St. Georg",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Matrice Sfântul Gheorghe",
+            "en": "Main Church of St. George"
+          },
+          "coords": [
+            -8.9768,
+            38.7072
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie die wunderschönen Kachelarbeiten im Inneren.",
+            "hu": "Figyelje meg a gyönyörű belső csempedíszítést.",
+            "ro": "Observați frumoasele decorațiuni interioare din faianță.",
+            "en": "Notice the beautiful tile work inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum (Haus Mora)",
+            "hu": "Városi Múzeum (Mora-ház)",
+            "ro": "Muzeul Municipal (Casa Mora)",
+            "en": "Municipal Museum (Mora House)"
+          },
+          "coords": [
+            -8.9775,
+            38.706
+          ],
+          "category": "museums",
+          "arrive_at": "10:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die Geschichte der Stadt und ihre Verbindung zum Fluss.",
+            "hu": "Ismerje meg a város történelmét és a folyóhoz fűződő kapcsolatát.",
+            "ro": "Aflați despre istoria orașului și legătura sa cu râul.",
+            "en": "Learn about the city's history and its connection to the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Kai der Faluas",
+            "hu": "Faluas rakpart",
+            "ro": "Cheiul Faluas",
+            "en": "Faluas Quay"
+          },
+          "coords": [
+            -8.9805,
+            38.711
+          ],
+          "category": "port",
+          "arrive_at": "12:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Hier ist der perfekte Ort für Ihr Mittagessen in einem der Fischrestaurants.",
+            "hu": "Ez a tökéletes hely az ebédhez az egyik halétteremben.",
+            "ro": "Locul perfect pentru prânz la unul dintre restaurantele cu specific pescăresc.",
+            "en": "The perfect spot for lunch at one of the seafood restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Gezeitenmühle am Kai",
+            "hu": "Árvízmalom a rakparton",
+            "ro": "Moara de Maree de pe Chei",
+            "en": "Tide Mill of the Quay"
+          },
+          "coords": [
+            -8.9815,
+            38.7115
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein faszinierendes Beispiel für vorindustrielle Technologie.",
+            "hu": "Az iparosodás előtti technológia lenyűgöző példája.",
+            "ro": "Un exemplu fascinant de tehnologie pre-industrială.",
+            "en": "A fascinating example of pre-industrial technology."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark von Montijo",
+            "hu": "Montijo Városi Park",
+            "ro": "Parcul Municipal din Montijo",
+            "en": "Municipal Park of Montijo"
+          },
+          "coords": [
+            -8.979,
+            38.713
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:00",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im Schatten und genießen Sie die friedliche Atmosphäre.",
+            "hu": "Pihenjen az árnyékban és élvezze a békés légkört.",
+            "ro": "Relaxați-vă la umbră și bucurați-vă de atmosfera liniștită.",
+            "en": "Relax in the shade and enjoy the peaceful atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang im Herzen von Montijo am Praça da República. Am Vormittag erkunden Sie das historische Zentrum, einschließlich der Hauptkirche und des Stierkämpferdenkmals, und tauchen dann in die lokale Geschichte im Stadtmuseum ein. Nach dem Mittagessen an der Uferpromenade Cais das Faluas entdecken Sie das maritime Erbe mit der Gezeitenmühle. Der Nachmittag endet entspannt im kühlen Stadtpark, wo Sie die Erlebnisse des Tages Revue passieren lassen können.",
+        "hu": "Kezdje sétáját Montijo szívében, a Praça da República téren. A délelőtt folyamán fedezze fel a történelmi központot, beleértve a főtemplomot és a torreádor emlékművét, majd merüljön el a helyi történelemben a városi múzeumban. Ebéd után a Cais das Faluas rakparton fedezze fel a tengeri örökséget az árvízmalommal. A délután a hűsítő városi parkban zárul, ahol felidézheti a nap élményeit.",
+        "ro": "Începeți plimbarea în inima orașului Montijo, la Praça da República. În timpul dimineții, explorați centrul istoric, inclusiv biserica principală și monumentul toreadorului, apoi aprofundați istoria locală la muzeul municipal. După prânz pe malul apei la Cais das Faluas, descoperiți patrimoniul maritim la moara de maree. După-amiaza se încheie relaxant în parcul municipal răcoros, unde puteți reflecta la experiențele zilei.",
+        "en": "Start your walk in the heart of Montijo at Praça da República. In the morning, explore the historic center, including the main church and the bullfighter monument, then delve into local history at the municipal museum. After lunch at the Cais das Faluas waterfront, discover the maritime heritage at the tide mill. The afternoon concludes with relaxation in the cool municipal park, reflecting on the day's experiences."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Caldeirada à Fragateiro",
+            "tip": "Ein reicher Fischeintopf, traditionell von den Flussschiffern zubereitet."
+          },
+          {
+            "name": "Enguias Fritas",
+            "tip": "Gebratene Aale, eine lokale Delikatesse."
+          },
+          {
+            "name": "Restaurante A Traineira",
+            "tip": "Bekannt für frische, gut zubereitete Meeresfrüchte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Caldeirada à Fragateiro",
+            "tip": "Gazdag halászlé, hagyományosan a folyami hajósok készítették."
+          },
+          {
+            "name": "Enguias Fritas",
+            "tip": "Sült angolna, helyi különlegesség."
+          },
+          {
+            "name": "Restaurante A Traineira",
+            "tip": "Friss, jól elkészített tengeri ételeiről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caldeirada à Fragateiro",
+            "tip": "O tocană bogată de pește, pregătită tradițional de barcagii de pe râu."
+          },
+          {
+            "name": "Enguias Fritas",
+            "tip": "Anghile prăjite, o delicatesă locală."
+          },
+          {
+            "name": "Restaurante A Traineira",
+            "tip": "Renumit pentru fructe de mare proaspete și bine gătite."
+          }
+        ],
+        "en": [
+          {
+            "name": "Caldeirada à Fragateiro",
+            "tip": "A rich fish stew, traditionally prepared by the river boatmen."
+          },
+          {
+            "name": "Enguias Fritas",
+            "tip": "Fried eels, a local delicacy."
+          },
+          {
+            "name": "Restaurante A Traineira",
+            "tip": "Known for fresh, well-prepared seafood."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque Municipal do Montijo",
+            "tip": "Finden Sie eine ruhige Bank unter den Bäumen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cais das Faluas am Abend",
+            "tip": "Beobachten Sie, wie die Lichter auf dem Wasser tanzen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ermida de São Sebastião",
+            "tip": "Eine kleine, friedliche Kapelle für einen Moment der Stille.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Montijo Városi Park",
+            "tip": "Keressen egy csendes padot a fák alatt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cais das Faluas este",
+            "tip": "Nézze a fények táncát a vízen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Szent Sebestyén-kápolna",
+            "tip": "Egy kicsi, békés kápolna egy csendes pillanathoz.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Municipal din Montijo",
+            "tip": "Găsiți o bancă liniștită sub copaci.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cais das Faluas seara",
+            "tip": "Priviți luminile dansând pe apă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Schitul Sfântul Sebastian",
+            "tip": "O capelă mică și pașnică pentru un moment de liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Municipal Park of Montijo",
+            "tip": "Find a quiet bench under the trees.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cais das Faluas in the evening",
+            "tip": "Watch the lights dance on the water.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hermitage of São Sebastião",
+            "tip": "A small, peaceful chapel for a quiet moment.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado Municipal",
+            "tip": "Kaufen Sie lokale Produkte und spüren Sie den Puls der Stadt."
+          },
+          {
+            "name": "Lokale Handwerksläden",
+            "tip": "Suchen Sie nach handgefertigten Fliesen oder Korkprodukten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi Piac",
+            "tip": "Vásároljon helyi termékeket és érezze a város lüktetését."
+          },
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keressen kézzel készített csempéket vagy parafa termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Municipală",
+            "tip": "Cumpărați produse locale și simțiți pulsul orașului."
+          },
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Căutați plăci de faianță lucrate manual sau produse din plută."
+          }
+        ],
+        "en": [
+          {
+            "name": "Municipal Market",
+            "tip": "Shop for local produce and feel the city's pulse."
+          },
+          {
+            "name": "Local artisan shops",
+            "tip": "Look for handmade tiles or cork products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag auf den Beinen sein werden.",
+          "Nehmen Sie eine Wasserflasche mit, besonders in den wärmeren Monaten.",
+          "Die meisten Geschäfte und Museen können zur Mittagszeit schließen.",
+          "Halten Sie eine Kamera bereit, um die malerische Uferpromenade und die historische Architektur festzuhalten."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap talpon lesz.",
+          "Vigyen magával egy vizes palackot, különösen a melegebb hónapokban.",
+          "A legtöbb üzlet és múzeum bezárhat ebédidőben.",
+          "Tartsa készenlétben a fényképezőgépét a festői vízpart és a történelmi építészet megörökítéséhez."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți fi pe picioare toată ziua.",
+          "Luați o sticlă de apă, mai ales în lunile mai calde.",
+          "Majoritatea magazinelor și muzeelor pot închide la prânz.",
+          "Pregătiți o cameră foto pentru a surprinde faleza pitorească și arhitectura istorică."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be on your feet all day.",
+          "Bring a water bottle, especially in the warmer months.",
+          "Most shops and museums may close for lunch.",
+          "Keep a camera ready for the scenic waterfront and historic architecture."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 8.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Garten am Platz der Republik",
+            "hu": "Köztársaság téri kert",
+            "ro": "Grădina din Piața Republicii",
+            "en": "Garden of the Republic Square"
+          },
+          "coords": [
+            -8.975,
+            38.7058
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekter Treffpunkt, um Ihr Fahrrad zu überprüfen, bevor Sie losfahren.",
+            "hu": "Tökéletes találkozóhely a kerékpár ellenőrzéséhez indulás előtt.",
+            "ro": "Punct de întâlnire perfect pentru a verifica bicicleta înainte de a porni.",
+            "en": "Perfect meeting point to check your bike before setting off."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptkirche St. Georg",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Matrice Sfântul Gheorghe",
+            "en": "Main Church of St. George"
+          },
+          "coords": [
+            -8.9768,
+            38.7072
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie die Kirche betreten.",
+            "hu": "Zárja le biztonságosan a kerékpárt, mielőtt belép a templomba.",
+            "ro": "Asigurați-vă bicicleta înainte de a intra în biserică.",
+            "en": "Lock your bike securely before entering the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum (Haus Mora)",
+            "hu": "Városi Múzeum (Mora-ház)",
+            "ro": "Muzeul Municipal (Casa Mora)",
+            "en": "Municipal Museum (Mora House)"
+          },
+          "coords": [
+            -8.9775,
+            38.706
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, um die reiche Geschichte aufzusaugen.",
+            "hu": "Szánjon időt a gazdag történelem megismerésére.",
+            "ro": "Acordați-vă timp pentru a absorbi istoria bogată.",
+            "en": "Take your time to soak in the rich history."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermida de São Sebastião",
+            "hu": "Szent Sebestyén-kápolna",
+            "ro": "Schitul Sfântul Sebastian",
+            "en": "Hermitage of São Sebastião"
+          },
+          "coords": [
+            -8.972,
+            38.703
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine ruhige, kurze Pause an einer weniger besuchten Kapelle.",
+            "hu": "Egy csendes, rövid pihenő egy kevésbé látogatott kápolnánál.",
+            "ro": "O pauză scurtă și liniștită la o capelă mai puțin vizitată.",
+            "en": "A quiet, short break at a less-visited chapel."
+          }
+        },
+        {
+          "name": {
+            "de": "Kai der Faluas",
+            "hu": "Faluas rakpart",
+            "ro": "Cheiul Faluas",
+            "en": "Faluas Quay"
+          },
+          "coords": [
+            -8.9805,
+            38.711
+          ],
+          "category": "port",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie ein gemütliches Mittagessen mit Blick auf den Fluss.",
+            "hu": "Élvezzen egy kellemes ebédet a folyóra néző kilátással.",
+            "ro": "Bucurați-vă de un prânz pe îndelete cu vedere la râu.",
+            "en": "Enjoy a leisurely lunch with a view of the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Gezeitenmühle am Kai",
+            "hu": "Árvízmalom a rakparton",
+            "ro": "Moara de Maree de pe Chei",
+            "en": "Tide Mill of the Quay"
+          },
+          "coords": [
+            -8.9815,
+            38.7115
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine schnelle und flache Fahrt vom Kai entfernt.",
+            "hu": "Gyors és sík út a rakpartról.",
+            "ro": "O plimbare rapidă și plată de la chei.",
+            "en": "A quick and flat ride from the quay."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark von Montijo",
+            "hu": "Montijo Városi Park",
+            "ro": "Parcul Municipal din Montijo",
+            "en": "Municipal Park of Montijo"
+          },
+          "coords": [
+            -8.979,
+            38.713
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radfahren Sie durch den Park und genießen Sie die grüne Oase.",
+            "hu": "Kerékpározzon át a parkon, és élvezze a zöld oázist.",
+            "ro": "Plimbați-vă cu bicicleta prin parc și bucurați-vă de oaza verde.",
+            "en": "Cycle through the park and enjoy the green oasis."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für den Stierkämpfer",
+            "hu": "Torreádor-emlékmű",
+            "ro": "Monumentul Toreadorului",
+            "en": "Monument to the Bullfighter"
+          },
+          "coords": [
+            -8.9755,
+            38.7065
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem letzten Blick auf dieses ikonische Denkmal.",
+            "hu": "Fejezze be a túrát egy utolsó pillantással erre az ikonikus emlékműre.",
+            "ro": "Încheiați turul cu o ultimă privire la acest monument iconic.",
+            "en": "End your tour with a final look at this iconic monument."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Rad und starten Sie am Praça da República. Am Vormittag radeln Sie durch die historischen Straßen, besuchen die Hauptkirche und das Museum. Eine ruhige Pause an der Ermida de São Sebastião bereitet Sie auf die Fahrt zum Fluss vor. Verbringen Sie den Mittag am Cais das Faluas, bevor Sie die nahegelegene Gezeitenmühle erkunden. Der Nachmittag ist einer entspannten Fahrt durch den Stadtpark gewidmet, die am Stierkämpferdenkmal endet.",
+        "hu": "Pattanjon kerékpárra és induljon a Praça da República-tól. Délelőtt tekerjen végig a történelmi utcákon, látogassa meg a főtemplomot és a múzeumot. Egy csendes pihenő az Ermida de São Sebastião-nál felkészíti a folyóparti útra. Töltse az ebédet a Cais das Faluas-nál, mielőtt felfedezné a közeli árvízmalmot. A délután egy laza tekeréssel telik a városi parkon át, amely a torreádor-emlékműnél ér véget.",
+        "ro": "Urcați-vă pe bicicletă și porniți din Praça da República. Dimineața, pedalați pe străzile istorice, vizitând biserica principală și muzeul. O pauză liniștită la Ermida de São Sebastião vă pregătește pentru drumul spre râu. Petreceți prânzul la Cais das Faluas înainte de a explora moara de maree din apropiere. După-amiaza este dedicată unei plimbări relaxante prin parcul municipal, încheindu-se la monumentul toreadorului.",
+        "en": "Hop on your bike and start from Praça da República. In the morning, cycle through the historic streets, visiting the main church and the museum. A quiet break at Ermida de São Sebastião prepares you for the ride to the river. Spend midday at Cais das Faluas before exploring the nearby tide mill. The afternoon is for a relaxed ride through the municipal park, finishing at the bullfighter monument."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Petiscos",
+            "tip": "Portugiesische Tapas, ideal für eine schnelle Stärkung."
+          },
+          {
+            "name": "Peixe Grelhado",
+            "tip": "Frisch gegrillter Fisch, ein Muss am Fluss."
+          },
+          {
+            "name": "Taverna do Pescador",
+            "tip": "Eine zwanglose Option für authentische lokale Gerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Petiscos",
+            "tip": "Portugál tapas, ideális egy gyors harapáshoz."
+          },
+          {
+            "name": "Peixe Grelhado",
+            "tip": "Frissen grillezett hal, kötelező a folyóparton."
+          },
+          {
+            "name": "Taverna do Pescador",
+            "tip": "Kötetlen lehetőség autentikus helyi ételekhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Petiscos",
+            "tip": "Tapas portugheze, perfecte pentru o gustare rapidă."
+          },
+          {
+            "name": "Peixe Grelhado",
+            "tip": "Pește proaspăt la grătar, o necesitate lângă râu."
+          },
+          {
+            "name": "Taverna do Pescador",
+            "tip": "O opțiune informală pentru mâncăruri locale autentice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Petiscos",
+            "tip": "Portuguese tapas, perfect for a quick refuel."
+          },
+          {
+            "name": "Peixe Grelhado",
+            "tip": "Freshly grilled fish, a must-have by the river."
+          },
+          {
+            "name": "Taverna do Pescador",
+            "tip": "A casual option for authentic local dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Uferpromenade",
+            "tip": "Eine sanfte Brise und der Blick auf das Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardim da Praça da República am frühen Morgen",
+            "tip": "Erleben Sie, wie die Stadt erwacht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Die ruhigen Ecken des Stadtparks",
+            "tip": "Ideal für eine kurze Lesepause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Folyóparti sétány",
+            "tip": "Lágy szellő és kilátás a vízre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardim da Praça da República kora reggel",
+            "tip": "Tapasztalja meg, ahogy a város ébred.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A városi park csendes zugai",
+            "tip": "Ideális egy rövid olvasási szünethez.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada de pe malul râului",
+            "tip": "O adiere blândă și priveliștea apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardim da Praça da República dimineața devreme",
+            "tip": "Experimentați cum se trezește orașul.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Colțurile liniștite ale Parcului Municipal",
+            "tip": "Ideal pentru o scurtă pauză de lectură.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Riverfront promenade",
+            "tip": "A gentle breeze and the view of the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardim da Praça da República in the early morning",
+            "tip": "Experience the city waking up.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "The quiet corners of the Municipal Park",
+            "tip": "Ideal for a short reading break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Probieren Sie die 'Broa de Montijo', ein lokales Brot."
+          },
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Für eventuell benötigte Ersatzteile oder Zubehör."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékségek",
+            "tip": "Kóstolja meg a 'Broa de Montijo'-t, egy helyi kenyeret."
+          },
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Bármilyen szükséges pótalkatrészhez vagy kiegészítőhöz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutării locale",
+            "tip": "Încercați 'Broa de Montijo', o pâine locală."
+          },
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Pentru orice piese de schimb sau accesorii de care ați putea avea nevoie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local bakeries",
+            "tip": "Try the 'Broa de Montijo', a local bread."
+          },
+          {
+            "name": "Bike shops",
+            "tip": "For any spare parts or accessories you might need."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Luftdruck Ihrer Reifen, bevor Sie losfahren.",
+          "Ein Helm wird dringend empfohlen.",
+          "Nutzen Sie die Radwege entlang des Flusses für eine sichere und landschaftlich reizvolle Fahrt.",
+          "Nehmen Sie ein gutes Schloss mit, um Ihr Fahrrad an den Haltestellen sicher abzustellen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Sisak viselése erősen ajánlott.",
+          "Használja a folyó menti kerékpárutakat a biztonságos és festői utazáshoz.",
+          "Vigyen magával egy jó lakatot, hogy biztonságosan lezárhassa a kerékpárt a megállóknál."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de a porni.",
+          "Casca este foarte recomandată.",
+          "Folosiți pistele de biciclete de-a lungul râului pentru o plimbare sigură și pitorească.",
+          "Aduceți un lacăt bun pentru a vă asigura bicicleta la opriri."
+        ],
+        "en": [
+          "Check your tire pressure before setting off.",
+          "A helmet is highly recommended.",
+          "Use the bike paths along the river for a safe and scenic ride.",
+          "Bring a good lock to secure your bike at stops."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 5.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken im Zentrum",
+            "hu": "Parkolás a központban",
+            "ro": "Parcare în Centru",
+            "en": "Parking in the Center"
+          },
+          "coords": [
+            -8.9745,
+            38.7055
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Praça da República, um Ihren ersten Cluster zu Fuß zu erkunden.",
+            "hu": "Parkoljon a Praça da República közelében, hogy gyalog fedezze fel az első látnivaló-csoportot.",
+            "ro": "Parcați lângă Praça da República pentru a explora primul grup de atracții pe jos.",
+            "en": "Park near the Praça da República to explore your first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Garten am Platz der Republik",
+            "hu": "Köztársaság téri kert",
+            "ro": "Grădina din Piața Republicii",
+            "en": "Garden of the Republic Square"
+          },
+          "coords": [
+            -8.975,
+            38.7058
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz aus.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "O scurtă plimbare de la parcare.",
+            "en": "A short walk from the parking spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptkirche St. Georg",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Matrice Sfântul Gheorghe",
+            "en": "Main Church of St. George"
+          },
+          "coords": [
+            -8.9768,
+            38.7072
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Kirche ist leicht zu Fuß vom Platz aus zu erreichen.",
+            "hu": "A templom könnyen megközelíthető gyalog a térről.",
+            "ro": "Biserica este la o plimbare ușoară de la piață.",
+            "en": "The church is an easy walk from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum (Haus Mora)",
+            "hu": "Városi Múzeum (Mora-ház)",
+            "ro": "Muzeul Municipal (Casa Mora)",
+            "en": "Municipal Museum (Mora House)"
+          },
+          "coords": [
+            -8.9775,
+            38.706
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der letzte Halt in diesem Cluster, bevor Sie zum Auto zurückkehren.",
+            "hu": "Az utolsó megálló ebben a csoportban, mielőtt visszatérne az autóhoz.",
+            "ro": "Ultima oprire din acest grup înainte de a vă întoarce la mașină.",
+            "en": "The last stop in this cluster before heading back to the car."
+          }
+        },
+        {
+          "name": {
+            "de": "Parken an der Uferpromenade",
+            "hu": "Parkolás a vízparton",
+            "ro": "Parcare pe malul apei",
+            "en": "Waterfront Parking"
+          },
+          "coords": [
+            -8.98,
+            38.7105
+          ],
+          "category": "transport",
+          "arrive_at": "12:25",
+          "stay_min": 10,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zur Uferpromenade und parken Sie für den zweiten Teil des Tages.",
+            "hu": "Vezessen a vízparthoz és parkoljon le a nap második részére.",
+            "ro": "Conduceți spre faleză și parcați pentru a doua parte a zilei.",
+            "en": "Drive to the waterfront and park for the second part of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Kai der Faluas & Mittagessen",
+            "hu": "Faluas rakpart és ebéd",
+            "ro": "Cheiul Faluas și prânz",
+            "en": "Faluas Quay & Lunch"
+          },
+          "coords": [
+            -8.9805,
+            38.711
+          ],
+          "category": "port",
+          "arrive_at": "12:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Wählen Sie ein Restaurant mit Terrasse, um die Aussicht zu genießen.",
+            "hu": "Válasszon egy teraszos éttermet, hogy élvezhesse a kilátást.",
+            "ro": "Alegeți un restaurant cu terasă pentru a vă bucura de priveliște.",
+            "en": "Choose a restaurant with a terrace to enjoy the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark von Montijo",
+            "hu": "Montijo Városi Park",
+            "ro": "Parcul Municipal din Montijo",
+            "en": "Municipal Park of Montijo"
+          },
+          "coords": [
+            -8.979,
+            38.713
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:45",
+          "stay_min": 150,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein längerer Spaziergang entlang des Wassers führt Sie zum Park.",
+            "hu": "Egy hosszabb séta a víz mentén elvezeti a parkba.",
+            "ro": "O plimbare mai lungă de-a lungul apei vă va duce la parc.",
+            "en": "A longer walk along the water will lead you to the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Montijo ist in zwei Teile gegliedert. Parken Sie morgens im Zentrum und erkunden Sie zu Fuß die Praça da República, die Hauptkirche und das Museum. Kehren Sie zum Auto zurück und fahren Sie zum Mittagessen an die Uferpromenade. Parken Sie dort erneut und verbringen Sie den Nachmittag damit, den Kai, die Gezeitenmühle (ein kurzer Spaziergang) und den weitläufigen Stadtpark zu erkunden, bevor Sie Ihre Reise fortsetzen.",
+        "hu": "Az autós nap Montijóban két részre oszlik. Reggel parkoljon a központban, és fedezze fel gyalog a Praça da República teret, a főtemplomot és a múzeumot. Térjen vissza az autóhoz, és vezessen a vízparthoz ebédelni. Parkoljon le újra, és töltse a délutánt a rakpart, az árvízmalom (egy rövid séta) és a tágas városi park felfedezésével, mielőtt továbbindulna.",
+        "ro": "Ziua dumneavoastră cu mașina în Montijo este împărțită în două. Dimineața, parcați în centru și explorați pe jos Praça da República, biserica principală și muzeul. Întoarceți-vă la mașină și conduceți spre faleză pentru prânz. Parcați din nou și petreceți după-amiaza explorând cheiul, moara de maree (la o scurtă plimbare) și parcul municipal întins înainte de a vă continua călătoria.",
+        "en": "Your car day in Montijo is split in two. In the morning, park in the center and explore Praça da República, the main church, and the museum on foot. Return to the car and drive to the waterfront for lunch. Park again and spend the afternoon exploring the quay, the tide mill (a short walk), and the expansive municipal park before heading off."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ensopado de Enguias",
+            "tip": "Aaleintopf, ein herzhaftes und traditionelles Gericht."
+          },
+          {
+            "name": "Vinho da Região",
+            "tip": "Probieren Sie einen lokalen Wein aus der Region Setúbal."
+          },
+          {
+            "name": "Restaurante O Cais",
+            "tip": "Bietet einen großartigen Blick auf den Fluss und ausgezeichneten Fisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ensopado de Enguias",
+            "tip": "Angolnapörkölt, egy kiadós és hagyományos étel."
+          },
+          {
+            "name": "Vinho da Região",
+            "tip": "Kóstoljon meg egy helyi bort a Setúbal régióból."
+          },
+          {
+            "name": "Restaurante O Cais",
+            "tip": "Nagyszerű kilátást nyújt a folyóra és kiváló halételeket kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ensopado de Enguias",
+            "tip": "Tcană de anghilă, un fel de mâncare consistent și tradițional."
+          },
+          {
+            "name": "Vinho da Região",
+            "tip": "Încercați un vin local din regiunea Setúbal."
+          },
+          {
+            "name": "Restaurante O Cais",
+            "tip": "Oferă o priveliște superbă asupra râului și pește excelent."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ensopado de Enguias",
+            "tip": "Eel stew, a hearty and traditional dish."
+          },
+          {
+            "name": "Vinho da Região",
+            "tip": "Try a local wine from the Setúbal region."
+          },
+          {
+            "name": "Restaurante O Cais",
+            "tip": "Offers a great river view and excellent fish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Fahrt entlang der Küstenstraßen",
+            "tip": "Verlassen Sie die Stadt für einen Moment und genießen Sie die Aussicht.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Die hinteren Wege des Stadtparks",
+            "tip": "Fernab vom Spielplatz finden Sie Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang am Kai",
+            "tip": "Ein perfekter Abschluss für Ihren Tag, bevor Sie losfahren.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Autózás a parti utakon",
+            "tip": "Hagyja el a várost egy pillanatra, és élvezze a kilátást.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "A városi park hátsó ösvényei",
+            "tip": "A játszótértől távol nyugalmat talál.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a rakparton",
+            "tip": "Tökéletes befejezése a napnak, mielőtt elindulna.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O plimbare cu mașina pe drumurile de coastă",
+            "tip": "Părăsiți orașul pentru un moment și bucurați-vă de priveliște.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Căile lăturalnice din Parcul Municipal",
+            "tip": "Veți găsi liniște departe de locul de joacă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus de soare la chei",
+            "tip": "Un final perfect pentru ziua dumneavoastră înainte de a pleca.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "A drive along the coastal roads",
+            "tip": "Leave the city for a moment and enjoy the views.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "The back paths of the Municipal Park",
+            "tip": "You'll find quiet away from the playground.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset at the quay",
+            "tip": "A perfect end to your day before you drive off.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Straßenstände außerhalb der Stadt",
+            "tip": "Suchen Sie nach frischem Obst und Gemüse direkt vom Erzeuger."
+          },
+          {
+            "name": "Souvenirläden am Kai",
+            "tip": "Finden Sie maritime Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Útszéli standok a városon kívül",
+            "tip": "Keressen friss gyümölcsöt és zöldséget közvetlenül a termelőtől."
+          },
+          {
+            "name": "Ajándékboltok a rakparton",
+            "tip": "Keressen tengeri témájú ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tarabe de pe marginea drumului în afara orașului",
+            "tip": "Căutați fructe și legume proaspete direct de la producători."
+          },
+          {
+            "name": "Magazine de suveniruri de la chei",
+            "tip": "Găsiți suveniruri cu tematică maritimă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Roadside stalls outside the city",
+            "tip": "Look for fresh fruit and vegetables directly from the producers."
+          },
+          {
+            "name": "Souvenir shops at the quay",
+            "tip": "Find maritime-themed souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Suchen Sie nach ausgewiesenen Parkplätzen; das Parken auf der Straße kann schwierig sein.",
+          "Planen Sie Ihre Route im Voraus, um Einbahnstraßen im Stadtzentrum zu vermeiden.",
+          "Lassen Sie keine Wertsachen im Auto sichtbar liegen.",
+          "Das Auto gibt Ihnen die Flexibilität, auch nahegelegene Strände oder Naturschutzgebiete zu besuchen."
+        ],
+        "hu": [
+          "Keressen kijelölt parkolókat; az utcai parkolás nehézkes lehet.",
+          "Tervezze meg előre az útvonalat, hogy elkerülje az egyirányú utcákat a városközpontban.",
+          "Ne hagyjon értéktárgyakat látható helyen az autóban.",
+          "Az autó rugalmasságot biztosít a közeli strandok vagy természetvédelmi területek meglátogatásához is."
+        ],
+        "ro": [
+          "Căutați parcări amenajate; parcarea pe stradă poate fi dificilă.",
+          "Planificați-vă traseul în avans pentru a evita străzile cu sens unic din centrul orașului.",
+          "Nu lăsați obiecte de valoare la vedere în mașină.",
+          "Mașina vă oferă flexibilitatea de a vizita și plajele sau rezervațiile naturale din apropiere."
+        ],
+        "en": [
+          "Look for designated parking lots; street parking can be tricky.",
+          "Plan your route in advance to avoid one-way streets in the city center.",
+          "Don't leave valuables visible in the car.",
+          "The car gives you the flexibility to also visit nearby beaches or natural reserves."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof",
+            "hu": "Érkezés a buszpályaudvarra",
+            "ro": "Sosire la Autogară",
+            "en": "Arrival at the Bus Terminal"
+          },
+          "coords": [
+            -8.974,
+            38.705
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Hauptbusbahnhof liegt zentral und ist ein guter Ausgangspunkt.",
+            "hu": "A fő buszpályaudvar központi fekvésű, jó kiindulópont.",
+            "ro": "Autogara principală este situată central, un bun punct de plecare.",
+            "en": "The main bus terminal is centrally located, a good starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Garten am Platz der Republik",
+            "hu": "Köztársaság téri kert",
+            "ro": "Grădina din Piața Republicii",
+            "en": "Garden of the Republic Square"
+          },
+          "coords": [
+            -8.975,
+            38.7058
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Machen Sie sich mit dem Herzen der Stadt vertraut.",
+            "hu": "Ismerkedjen meg a város szívével.",
+            "ro": "Familiarizați-vă cu inima orașului.",
+            "en": "Get acquainted with the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptkirche St. Georg",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Matrice Sfântul Gheorghe",
+            "en": "Main Church of St. George"
+          },
+          "coords": [
+            -8.9768,
+            38.7072
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein ikonisches Gebäude, das man vom Platz aus sehen kann.",
+            "hu": "Egy ikonikus épület, amely a térről is látható.",
+            "ro": "O clădire emblematică, vizibilă din piață.",
+            "en": "An iconic building visible from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zur Uferpromenade",
+            "hu": "Buszozás a vízparthoz",
+            "ro": "Călătorie cu autobuzul spre faleză",
+            "en": "Bus ride to the Waterfront"
+          },
+          "coords": [
+            -8.98,
+            38.7105
+          ],
+          "category": "transport",
+          "arrive_at": "10:45",
+          "stay_min": 0,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus, um schnell und einfach zum Fluss zu gelangen.",
+            "hu": "Menjen helyi busszal, hogy gyorsan és könnyen eljusson a folyóhoz.",
+            "ro": "Luați un autobuz local pentru a ajunge rapid și ușor la râu.",
+            "en": "Take a local bus to get to the river quickly and easily."
+          }
+        },
+        {
+          "name": {
+            "de": "Kai der Faluas & Mittagessen",
+            "hu": "Faluas rakpart és ebéd",
+            "ro": "Cheiul Faluas și prânz",
+            "en": "Faluas Quay & Lunch"
+          },
+          "coords": [
+            -8.9805,
+            38.711
+          ],
+          "category": "port",
+          "arrive_at": "10:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Steigen Sie aus dem Bus und gehen Sie direkt zu den Restaurants am Wasser.",
+            "hu": "Szálljon le a buszról, és menjen egyenesen a vízparti éttermekhez.",
+            "ro": "Coborâți din autobuz și mergeți direct la restaurantele de pe malul apei.",
+            "en": "Get off the bus and walk straight to the waterfront restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark von Montijo",
+            "hu": "Montijo Városi Park",
+            "ro": "Parcul Municipal din Montijo",
+            "en": "Municipal Park of Montijo"
+          },
+          "coords": [
+            -8.979,
+            38.713
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verbringen Sie einen langen, entspannten Nachmittag im Park, bevor Sie den Bus zurück nehmen.",
+            "hu": "Töltsön egy hosszú, pihentető délutánt a parkban, mielőtt visszamenne a buszhoz.",
+            "ro": "Petreceți o după-amiază lungă și relaxantă în parc înainte de a lua autobuzul înapoi.",
+            "en": "Spend a long, relaxing afternoon in the park before taking the bus back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erkunden Sie Montijo effizient. Starten Sie im Zentrum und besichtigen Sie die Hauptsehenswürdigkeiten zu Fuß. Eine kurze Busfahrt bringt Sie dann zur Uferpromenade, wo Sie ein gemütliches Mittagessen am Cais das Faluas genießen. Der Rest des Nachmittags gehört dem weitläufigen Stadtpark, der nur einen Spaziergang entfernt ist. Von dort aus können Sie leicht einen Bus zurück zum Terminal oder zu Ihrem nächsten Ziel nehmen.",
+        "hu": "Tömegközlekedéssel hatékonyan fedezheti fel Montijót. Kezdje a központban, és tekintse meg a főbb látnivalókat gyalog. Egy rövid buszozás elviszi a vízparthoz, ahol egy kellemes ebédet fogyaszthat a Cais das Faluas-nál. A délután hátralévő részét a tágas városi parkban töltheti, amely csak egy rövid séta. Onnan könnyen visszajuthat busszal a pályaudvarra vagy a következő úti céljához.",
+        "ro": "Folosind transportul public, explorați Montijo eficient. Începeți din centru, vizitând principalele atracții pe jos. O scurtă călătorie cu autobuzul vă duce apoi la faleză pentru un prânz relaxat la Cais das Faluas. Restul după-amiezii este pentru parcul municipal întins, la o plimbare distanță. De acolo, puteți lua cu ușurință un autobuz înapoi la terminal sau spre următoarea destinație.",
+        "en": "Using public transit, explore Montijo efficiently. Start in the center, covering the main sights on foot. A short bus ride then takes you to the waterfront for a leisurely lunch at Cais das Faluas. The rest of the afternoon is for the expansive municipal park, just a walk away. From there, you can easily catch a bus back to the terminal or to your next destination."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bifana",
+            "tip": "Ein klassisches portugiesisches Schweinefleisch-Sandwich, perfekt für unterwegs."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Auch wenn es nicht von hier stammt, ist es immer ein guter Snack."
+          },
+          {
+            "name": "Lokale Cafés",
+            "tip": "Holen Sie sich einen schnellen Kaffee und ein Gebäck, bevor Sie in den Bus steigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bifana",
+            "tip": "Klasszikus portugál sertéshúsos szendvics, tökéletes útközben."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Bár nem innen származik, mindig jó harapnivaló."
+          },
+          {
+            "name": "Helyi kávézók",
+            "tip": "Kapjon be egy gyors kávét és süteményt, mielőtt felszáll a buszra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bifana",
+            "tip": "Un sandviș clasic portughez cu carne de porc, perfect pentru drum."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Chiar dacă nu este originar de aici, este întotdeauna o gustare bună."
+          },
+          {
+            "name": "Cafenele locale",
+            "tip": "Luați o cafea rapidă și un produs de patiserie înainte de a urca în autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bifana",
+            "tip": "A classic Portuguese pork sandwich, perfect for on-the-go."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Even if not native to here, it's always a good snack."
+          },
+          {
+            "name": "Local cafes",
+            "tip": "Grab a quick coffee and a pastry before hopping on the bus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt mit Fensterplatz",
+            "tip": "Beobachten Sie das tägliche Leben aus der Ferne.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Die oberste Bank im Stadtpark",
+            "tip": "Bietet einen Überblick und einen ruhigen Moment.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Warten auf den Bus am späten Nachmittag",
+            "tip": "Eine unerwartete Chance, innezuhalten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás ablak mellett",
+            "tip": "Figyelje a mindennapi életet távolról.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "A legfelső pad a városi parkban",
+            "tip": "Áttekintést és csendes pillanatot kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Várakozás a buszra késő délután",
+            "tip": "Váratlan lehetőség a megállásra.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătorie cu autobuzul la geam",
+            "tip": "Observați viața de zi cu zi de la distanță.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Banca de sus din parcul municipal",
+            "tip": "Oferă o perspectivă și un moment de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Așteptând autobuzul după-amiaza târziu",
+            "tip": "O șansă neașteptată de a face o pauză.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bus ride with a window seat",
+            "tip": "Observe daily life from a distance.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "The top bench in the municipal park",
+            "tip": "Offers an overview and a quiet moment.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Waiting for the bus in the late afternoon",
+            "tip": "An unexpected chance to pause.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske am Busbahnhof",
+            "tip": "Kaufen Sie eine Zeitung oder ein Magazin für Ihre Fahrt."
+          },
+          {
+            "name": "Kleine Läden in der Nähe der Haltestellen",
+            "tip": "Perfekt für einen schnellen Snack oder ein Getränk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok a buszpályaudvaron",
+            "tip": "Vásároljon újságot vagy magazint az utazáshoz."
+          },
+          {
+            "name": "Kisboltok a megállók közelében",
+            "tip": "Tökéletes egy gyors harapnivalóhoz vagy italhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri la autogară",
+            "tip": "Cumpărați un ziar sau o revistă pentru călătorie."
+          },
+          {
+            "name": "Mici magazine lângă stații",
+            "tip": "Perfecte pentru o gustare rapidă sau o băutură."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks at the bus terminal",
+            "tip": "Buy a newspaper or magazine for your journey."
+          },
+          {
+            "name": "Small shops near the bus stops",
+            "tip": "Perfect for a quick snack or drink."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere für die letzte Fahrt des Tages.",
+          "Halten Sie Kleingeld für die Tickets bereit, falls Sie an Bord kaufen.",
+          "Die Busse können zu Stoßzeiten voll sein, planen Sie also entsprechend."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Ellenőrizze előre a buszmenetrendet, különösen a nap utolsó járatát.",
+          "Tartson aprópénzt a jegyekhez, ha a fedélzeten vásárol.",
+          "A buszok csúcsidőben zsúfoltak lehetnek, tervezzen ennek megfelelően."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Verificați programul autobuzelor în avans, în special pentru ultima cursă a zilei.",
+          "Păstrați mărunțiș pentru bilete dacă cumpărați la bord.",
+          "Autobuzele pot fi aglomerate la orele de vârf, așa că planificați-vă în consecință."
+        ],
+        "en": [
+          "Buy a day pass for unlimited travel.",
+          "Check the bus schedule in advance, especially for the last service of the day.",
+          "Keep small change ready for tickets if buying on board.",
+          "Buses can be crowded during peak hours, so plan accordingly."
+        ]
+      }
+    }
+  }
+}

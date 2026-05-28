@@ -1,0 +1,1492 @@
+{
+  "city_id": "czechrepublic-kromeriz-cities-v2",
+  "anchor": {
+    "name": "Kremsier",
+    "coords": [
+      17.3931,
+      49.2978
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Großer Platz",
+            "hu": "Fő tér",
+            "ro": "Piața Mare",
+            "en": "Great Square"
+          },
+          "coords": [
+            17.3932,
+            49.2985
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Pestsäule und die bunten Bürgerhäuser.",
+            "hu": "Csodálja meg a pestisoszlopot és a színes polgárházakat.",
+            "ro": "Admirați Coloana Ciumei și casele burgheze colorate.",
+            "en": "Admire the Plague Column and the colorful townhouses."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Kremsier",
+            "hu": "Kroměříži városháza",
+            "ro": "Primăria din Kroměříž",
+            "en": "Kroměříž Town Hall"
+          },
+          "coords": [
+            17.3938,
+            49.2982
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:39",
+          "stay_min": 20,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die astronomische Uhr am Turm.",
+            "hu": "Keresse a csillagászati órát a tornyon.",
+            "ro": "Observați ceasul astronomic de pe turn.",
+            "en": "Look for the astronomical clock on the tower."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Moritz-Kirche",
+            "hu": "Szent Mór-templom",
+            "ro": "Biserica Sfântul Mauriciu",
+            "en": "Saint Maurice Church"
+          },
+          "coords": [
+            17.3955,
+            49.299
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die gotische Architektur ist beeindruckend, besonders die Gewölbe.",
+            "hu": "A gótikus építészet lenyűgöző, különösen a boltozatok.",
+            "ro": "Arhitectura gotică este impresionantă, în special bolțile.",
+            "en": "The Gothic architecture is impressive, especially the vaults."
+          }
+        },
+        {
+          "name": {
+            "de": "Erzbischöfliches Schloss",
+            "hu": "Érseki palota",
+            "ro": "Palatul Arhiepiscopal",
+            "en": "Archbishop's Palace"
+          },
+          "coords": [
+            17.391,
+            49.2995
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:59",
+          "stay_min": 120,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie genug Zeit für den Reichstagssaal und die Gemäldegalerie ein.",
+            "hu": "Szánjon elég időt a birodalmi gyűlésteremre és a képtárra.",
+            "ro": "Planificați suficient timp pentru Sala Dietei și galeria de artă.",
+            "en": "Allow enough time for the Diet Hall and the picture gallery."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des hl. Johannes des Täufers",
+            "hu": "Keresztelő Szent János-templom",
+            "ro": "Biserica Sfântul Ioan Botezătorul",
+            "en": "Church of St. John the Baptist"
+          },
+          "coords": [
+            17.39,
+            49.297
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eine Perle des Hochbarocks mit atemberaubenden Fresken.",
+            "hu": "A magas barokk gyöngyszeme, lélegzetelállító freskókkal.",
+            "ro": "O bijuterie a barocului înalt cu fresce uimitoare.",
+            "en": "A gem of High Baroque with breathtaking frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Region Kremsier",
+            "hu": "Kroměříži Régió Múzeuma",
+            "ro": "Muzeul Regiunii Kroměříž",
+            "en": "Museum of the Kroměříž Region"
+          },
+          "coords": [
+            17.394,
+            49.2975
+          ],
+          "category": "museums",
+          "arrive_at": "13:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Fokus auf die reiche Geschichte der Stadt und der Hanna-Region.",
+            "hu": "A kiállítás a város és a Haná régió gazdag történelmére összpontosít.",
+            "ro": "Expoziția se concentrează pe istoria bogată a orașului și a regiunii Haná.",
+            "en": "The exhibition focuses on the rich history of the city and the Haná region."
+          }
+        },
+        {
+          "name": {
+            "de": "Blumengarten",
+            "hu": "Virágoskert",
+            "ro": "Grădina de Flori",
+            "en": "Flower Garden"
+          },
+          "coords": [
+            17.403,
+            49.2945
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den Labyrinthen und genießen Sie die Symmetrie vom Kolonnadendach.",
+            "hu": "Vesszen el a labirintusokban, és élvezze a szimmetriát a kolonád tetejéről.",
+            "ro": "Pierdeți-vă în labirinturi și bucurați-vă de simetrie de pe acoperișul colonadei.",
+            "en": "Get lost in the labyrinths and enjoy the symmetry from the Colonnade roof."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlosspark",
+            "hu": "Várkert",
+            "ro": "Parcul Castelului",
+            "en": "Castle Park"
+          },
+          "coords": [
+            17.388,
+            49.3
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannter Spaziergang entlang der Teiche ist der perfekte Abschluss.",
+            "hu": "Egy pihentető séta a tavak mentén tökéletes befejezése a napnak.",
+            "ro": "O plimbare relaxantă de-a lungul iazurilor este finalul perfect.",
+            "en": "A relaxing walk along the ponds is the perfect ending."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem pulsierenden Großen Platz, umgeben von historischer Architektur. Am Nachmittag tauchen Sie in die Pracht des Erzbischöflichen Schlosses ein, einem UNESCO-Weltkulturerbe. Später schlendern Sie durch die geometrische Perfektion des Blumengartens. Beenden Sie Ihren Tag mit einem ruhigen Spaziergang durch den weitläufigen Schlosspark bei Sonnenuntergang.",
+        "hu": "Kezdje a napot a nyüzsgő Fő téren, történelmi épületekkel körülvéve. Délután merüljön el az Érseki Palota pompájában, amely az UNESCO Világörökség része. Később sétáljon át a Virágoskert geometriai tökéletességén. A napot egy csendes sétával zárja a naplementében a tágas Várkertben.",
+        "ro": "Începeți ziua în vibranta Piață Mare, înconjurată de arhitectură istorică. La amiază, cufundați-vă în splendoarea Palatului Arhiepiscopal, un sit al Patrimoniului Mondial UNESCO. Mai târziu, plimbați-vă prin perfecțiunea geometrică a Grădinii de Flori. Încheiați ziua cu o plimbare liniștită prin vastul Parc al Castelului la apus.",
+        "en": "Start your day in the vibrant Great Square, surrounded by historic architecture. In the afternoon, immerse yourself in the splendor of the Archbishop's Palace, a UNESCO World Heritage site. Later, stroll through the geometric perfection of the Flower Garden. End your day with a peaceful walk through the expansive Castle Park at sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Radniční restaurace",
+            "tip": "Probieren Sie die traditionelle Knoblauchsuppe (česnečka) und das Rindergulasch."
+          },
+          {
+            "name": "Pivovar Černý Orel",
+            "tip": "Lokales Bier und herzhafte mährische Gerichte in einer Brauereigaststätte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Radniční restaurace",
+            "tip": "Kóstolja meg a hagyományos fokhagymalevest (česnečka) és a marhagulyást."
+          },
+          {
+            "name": "Pivovar Černý Orel",
+            "tip": "Helyi sör és kiadós morva ételek egy sörfőzdében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Radniční restaurace",
+            "tip": "Încercați supa tradițională de usturoi (česnečka) și gulașul de vită."
+          },
+          {
+            "name": "Pivovar Černý Orel",
+            "tip": "Berea locală și mâncăruri consistente morave într-un restaurant-berărie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Radniční restaurace",
+            "tip": "Try the traditional garlic soup (česnečka) and the beef goulash."
+          },
+          {
+            "name": "Pivovar Černý Orel",
+            "tip": "Local beer and hearty Moravian dishes in a brewery restaurant."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlosspark",
+            "tip": "Finden Sie eine ruhige Bank an einem der Teiche.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Blumengarten Labyrinthe",
+            "tip": "Verirren Sie sich absichtlich in den grünen Gängen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Flusses March",
+            "tip": "Ein ruhiger Spaziergang abseits des Zentrums.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Várkert",
+            "tip": "Keressen egy csendes padot a tavak egyikénél.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Virágoskert labirintusai",
+            "tip": "Vesszen el szándékosan a zöld folyosókon.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Morva folyó partja",
+            "tip": "Csendes séta a központtól távolabb.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului",
+            "tip": "Găsiți o bancă liniștită lângă unul dintre iazuri.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Labirinturile Grădinii de Flori",
+            "tip": "Rătăciți-vă intenționat pe coridoarele verzi.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malul râului Morava",
+            "tip": "O plimbare liniștită departe de centru.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Park",
+            "tip": "Find a quiet bench by one of the ponds.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Flower Garden Labyrinths",
+            "tip": "Get intentionally lost in the green corridors.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the Morava River",
+            "tip": "A quiet walk away from the center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Erzbischöfliche Weinkeller",
+            "tip": "Kaufen Sie Messwein als einzigartiges Souvenir."
+          },
+          {
+            "name": "Lokale Märkte am Großen Platz",
+            "tip": "Suchen Sie nach handgefertigtem Schmuck und lokalen Produkten (saisonal)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Érseki borospincék",
+            "tip": "Vásároljon misebort egyedi szuvenírként."
+          },
+          {
+            "name": "Helyi piacok a Fő téren",
+            "tip": "Keressen kézműves ékszereket és helyi termékeket (szezonális)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pivnițele Arhiepiscopale",
+            "tip": "Cumpărați vin liturgic ca un suvenir unic."
+          },
+          {
+            "name": "Piețele locale din Piața Mare",
+            "tip": "Căutați bijuterii artizanale și produse locale (sezonier)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Archbishop's Wine Cellars",
+            "tip": "Buy sacramental wine as a unique souvenir."
+          },
+          {
+            "name": "Local markets in the Great Square",
+            "tip": "Look for handmade jewelry and local produce (seasonal)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster anstrengend sein kann.",
+          "Die meisten Sehenswürdigkeiten sind zu Fuß erreichbar, also ist ein zentraler Startpunkt ideal.",
+          "Kaufen Sie ein Kombiticket für das Schloss und die Gärten, um Geld zu sparen.",
+          "Prüfen Sie die Öffnungszeiten, besonders für die Kirchen und Museen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakő fárasztó lehet.",
+          "A legtöbb látnivaló gyalogosan elérhető, így egy központi kiindulópont ideális.",
+          "Vásároljon kombinált jegyet a kastélyba és a kertekbe, hogy pénzt takarítson meg.",
+          "Ellenőrizze a nyitvatartási időket, különösen a templomok és múzeumok esetében."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul poate fi obositor.",
+          "Majoritatea atracțiilor sunt la distanță de mers pe jos, deci un punct de plecare central este ideal.",
+          "Cumpărați un bilet combinat pentru castel și grădini pentru a economisi bani.",
+          "Verificați orele de program, în special pentru biserici și muzee."
+        ],
+        "en": [
+          "Wear comfortable shoes, as the cobblestones can be tiring.",
+          "Most sights are within walking distance, so a central starting point is ideal.",
+          "Buy a combination ticket for the palace and gardens to save money.",
+          "Check opening hours, especially for the churches and museums."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:03",
+      "total_km": 6.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Blumengarten",
+            "hu": "Virágoskert",
+            "ro": "Grădina de Flori",
+            "en": "Flower Garden"
+          },
+          "coords": [
+            17.403,
+            49.2945
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Eingang an und erkunden Sie die Gärten zu Fuß.",
+            "hu": "Zárja le a kerékpárt a bejáratnál, és fedezze fel a kerteket gyalog.",
+            "ro": "Legați-vă bicicleta la intrare și explorați grădinile pe jos.",
+            "en": "Lock your bike at the entrance and explore the gardens on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Großer Platz",
+            "hu": "Fő tér",
+            "ro": "Piața Mare",
+            "en": "Great Square"
+          },
+          "coords": [
+            17.3932,
+            49.2985
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:33",
+          "stay_min": 30,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und genießen Sie einen Kaffee in einem der Cafés.",
+            "hu": "Tegye le a biciklit, és igyon egy kávét az egyik kávézóban.",
+            "ro": "Parcați bicicleta și savurați o cafea la una dintre cafenele.",
+            "en": "Park your bike and enjoy a coffee at one of the cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Moritz-Kirche",
+            "hu": "Szent Mór-templom",
+            "ro": "Biserica Sfântul Mauriciu",
+            "en": "Saint Maurice Church"
+          },
+          "coords": [
+            17.3955,
+            49.299
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer Abstecher vom Hauptplatz, um diese gotische Kirche zu sehen.",
+            "hu": "Egy rövid kitérő a főtérről, hogy megnézze ezt a gótikus templomot.",
+            "ro": "Un scurt ocol din piața principală pentru a vedea această biserică gotică.",
+            "en": "A short detour from the main square to see this Gothic church."
+          }
+        },
+        {
+          "name": {
+            "de": "Erzbischöfliches Schloss",
+            "hu": "Érseki palota",
+            "ro": "Palatul Arhiepiscopal",
+            "en": "Archbishop's Palace"
+          },
+          "coords": [
+            17.391,
+            49.2995
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:51",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Es gibt Fahrradständer in der Nähe des Haupteingangs.",
+            "hu": "A főbejárat közelében kerékpártárolók találhatók.",
+            "ro": "Există suporturi pentru biciclete lângă intrarea principală.",
+            "en": "There are bike racks near the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlosspark",
+            "hu": "Várkert",
+            "ro": "Parcul Castelului",
+            "en": "Castle Park"
+          },
+          "coords": [
+            17.388,
+            49.3
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:54",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekt für eine gemütliche Radtour auf den breiten Wegen.",
+            "hu": "Tökéletes egy kellemes kerékpártúrához a széles utakon.",
+            "ro": "Perfect pentru o plimbare liniștită cu bicicleta pe aleile largi.",
+            "en": "Perfect for a leisurely bike ride on the wide paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des hl. Johannes des Täufers",
+            "hu": "Keresztelő Szent János-templom",
+            "ro": "Biserica Sfântul Ioan Botezătorul",
+            "en": "Church of St. John the Baptist"
+          },
+          "coords": [
+            17.39,
+            49.297
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Das barocke Meisterwerk ist eine kurze Radtour vom Park entfernt.",
+            "hu": "A barokk mestermű egy rövid kerékpárútra van a parktól.",
+            "ro": "Capodopera barocă se află la o scurtă plimbare cu bicicleta de parc.",
+            "en": "The baroque masterpiece is a short bike ride from the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Erzbischöfliche Weinkeller",
+            "hu": "Érseki borospincék",
+            "ro": "Pivnițele Arhiepiscopale",
+            "en": "Archbishop's Wine Cellars"
+          },
+          "coords": [
+            17.3915,
+            49.2989
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:52",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Belohnen Sie sich mit einer Weinprobe am Ende Ihrer Radtour.",
+            "hu": "Jutalmazza meg magát egy borkóstolóval a kerékpártúra végén.",
+            "ro": "Recompensați-vă cu o degustare de vin la sfârșitul turului cu bicicleta.",
+            "en": "Reward yourself with a wine tasting at the end of your bike tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour im ruhigen Blumengarten, bevor Sie ins historische Zentrum radeln. Erkunden Sie den Großen Platz und die nahegelegenen Kirchen. Nach dem Mittagessen besuchen Sie das prächtige Schloss und radeln durch den angrenzenden Park. Schließen Sie den Tag mit einer wohlverdienten Weinprobe in den Erzbischöflichen Weinkellern ab.",
+        "hu": "Kezdje a kerékpártúrát a csendes Virágoskertben, mielőtt a történelmi központba teker. Fedezze fel a Fő teret és a közeli templomokat. Ebéd után látogasson el a csodálatos kastélyba, és tekerjen át a szomszédos parkon. A napot egy jól megérdemelt borkóstolóval zárja az Érseki Pincészetben.",
+        "ro": "Începeți turul cu bicicleta în liniștita Grădină de Flori înainte de a pedala spre centrul istoric. Explorați Piața Mare și bisericile din apropiere. După prânz, vizitați magnificul palat și pedalați prin parcul adiacent. Încheiați ziua cu o degustare de vinuri binemeritată la Pivnițele Arhiepiscopale.",
+        "en": "Start your bike tour in the tranquil Flower Garden before cycling to the historic center. Explore the Great Square and nearby churches. After lunch, visit the magnificent palace and cycle through the adjacent park. End the day with a well-deserved wine tasting at the Archbishop's Wine Cellars."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "U Zlatého kohouta",
+            "tip": "Traditionelle tschechische Küche mit einem schönen Innenhof."
+          },
+          {
+            "name": "Octárna",
+            "tip": "Gehobene Küche in einem historischen Gebäude, ideal für ein besonderes Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "U Zlatého kohouta",
+            "tip": "Hagyományos cseh konyha, szép belső udvarral."
+          },
+          {
+            "name": "Octárna",
+            "tip": "Elegáns konyha egy történelmi épületben, ideális egy különleges ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "U Zlatého kohouta",
+            "tip": "Bucătărie tradițională cehă cu o curte interioară minunată."
+          },
+          {
+            "name": "Octárna",
+            "tip": "Bucătărie rafinată într-o clădire istorică, ideală pentru un prânz special."
+          }
+        ],
+        "en": [
+          {
+            "name": "U Zlatého kohouta",
+            "tip": "Traditional Czech cuisine with a lovely courtyard."
+          },
+          {
+            "name": "Octárna",
+            "tip": "Fine dining in a historic building, ideal for a special lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Entlang des Baches Kotojedka",
+            "tip": "Ein ruhiger Radweg, der aus der Stadt hinausführt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fischteiche im Schlosspark",
+            "tip": "Beobachten Sie die Vögel und genießen Sie die Stille.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Holländischer Garten im Blumengarten",
+            "tip": "Ein besonders friedlicher und farbenfroher Abschnitt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Kotojedka patak mentén",
+            "tip": "Egy csendes kerékpárút, amely kivezet a városból.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Halastavak a Várkertben",
+            "tip": "Figyelje a madarakat és élvezze a csendet.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Holland kert a Virágoskertben",
+            "tip": "Egy különösen békés és színes rész.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "De-a lungul pârâului Kotojedka",
+            "tip": "O pistă de biciclete liniștită care duce în afara orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Iazurile cu pești din Parcul Castelului",
+            "tip": "Priviți păsările și bucurați-vă de liniște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădina Olandeză din Grădina de Flori",
+            "tip": "O secțiune deosebit de pașnică și colorată.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Along the Kotojedka stream",
+            "tip": "A quiet cycle path leading out of the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fish ponds in the Castle Park",
+            "tip": "Watch the birds and enjoy the silence.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Dutch Garden in the Flower Garden",
+            "tip": "A particularly peaceful and colorful section.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Galerie Orlovna",
+            "tip": "Lokale Kunst und Handwerk."
+          },
+          {
+            "name": "Informationszentrum Kremsier",
+            "tip": "Bietet eine gute Auswahl an Souvenirs und Büchern über die Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Orlovna Galéria",
+            "tip": "Helyi művészet és kézműves termékek."
+          },
+          {
+            "name": "Kroměříži Információs Központ",
+            "tip": "Jó választék szuvenírekből és a régióról szóló könyvekből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galeria Orlovna",
+            "tip": "Artă și meșteșuguri locale."
+          },
+          {
+            "name": "Centrul de Informare Kroměříž",
+            "tip": "Oferă o selecție bună de suveniruri și cărți despre regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Orlovna Gallery",
+            "tip": "Local art and crafts."
+          },
+          {
+            "name": "Kroměříž Information Centre",
+            "tip": "Offers a good selection of souvenirs and books about the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kremsier ist relativ flach und fahrradfreundlich.",
+          "Achten Sie in der Altstadt auf Kopfsteinpflaster und Fußgänger.",
+          "Nehmen Sie ein gutes Schloss mit, um Ihr Fahrrad sicher abzustellen.",
+          "Viele Wege führen durch Parks, was das Radfahren sehr angenehm macht."
+        ],
+        "hu": [
+          "Kroměříž viszonylag sík és kerékpárbarát.",
+          "Az óvárosban figyeljen a macskakőre és a gyalogosokra.",
+          "Hozzon magával egy jó lakatot, hogy biztonságosan lezárhassa a kerékpárt.",
+          "Sok út parkokon keresztül vezet, ami nagyon kellemessé teszi a kerékpározást."
+        ],
+        "ro": [
+          "Kroměříž este relativ plat și prietenos cu bicicletele.",
+          "Fiți atenți la pavaj și la pietoni în orașul vechi.",
+          "Aduceți un lacăt bun pentru a vă asigura bicicleta.",
+          "Multe trasee trec prin parcuri, ceea ce face ciclismul foarte plăcut."
+        ],
+        "en": [
+          "Kroměříž is relatively flat and bike-friendly.",
+          "Be mindful of cobblestones and pedestrians in the old town.",
+          "Bring a good lock to secure your bike.",
+          "Many paths go through parks, making cycling very pleasant."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:39",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Blumengarten",
+            "hu": "Virágoskert",
+            "ro": "Grădina de Flori",
+            "en": "Flower Garden"
+          },
+          "coords": [
+            17.403,
+            49.2945
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie auf dem ausgewiesenen Parkplatz und erkunden Sie diesen UNESCO-Garten.",
+            "hu": "Parkoljon a kijelölt parkolóban, és fedezze fel ezt az UNESCO-kertet.",
+            "ro": "Parcați în parcarea desemnată și explorați această grădină UNESCO.",
+            "en": "Park in the designated car park and explore this UNESCO garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Zentrum",
+            "hu": "Parkoló a központban",
+            "ro": "Parcare centrală",
+            "en": "Central Car Park"
+          },
+          "coords": [
+            17.3965,
+            49.297
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:48",
+          "stay_min": 5,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Rest des Altstadt-Rundgangs.",
+            "hu": "Parkoljon itt az óvárosi séta hátralévő részére.",
+            "ro": "Parcați aici pentru restul turului pietonal în orașul vechi.",
+            "en": "Park here for the rest of the old town walking tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Großer Platz",
+            "hu": "Fő tér",
+            "ro": "Piața Mare",
+            "en": "Great Square"
+          },
+          "coords": [
+            17.3932,
+            49.2985
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:01",
+          "stay_min": 30,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Spaziergang vom Parkplatz führt Sie direkt ins Herz der Stadt.",
+            "hu": "A séta a parkolóból egyenesen a város szívébe vezet.",
+            "ro": "Plimbarea de la parcare vă duce direct în inima orașului.",
+            "en": "The walk from the car park takes you right into the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Region Kremsier",
+            "hu": "Kroměříži Régió Múzeuma",
+            "ro": "Muzeul Regiunii Kroměříž",
+            "en": "Museum of the Kroměříž Region"
+          },
+          "coords": [
+            17.394,
+            49.2975
+          ],
+          "category": "museums",
+          "arrive_at": "11:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz, um mehr über die lokale Geschichte zu erfahren.",
+            "hu": "Egy rövid séta a térről, hogy többet tudjon meg a helyi történelemről.",
+            "ro": "O scurtă plimbare din piață pentru a afla mai multe despre istoria locală.",
+            "en": "A short walk from the square to learn about local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Schloss",
+            "hu": "Parkoló a kastélynál",
+            "ro": "Parcare Castel",
+            "en": "Castle Car Park"
+          },
+          "coords": [
+            17.39,
+            49.301
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:06",
+          "stay_min": 5,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum speziellen Schlossparkplatz für den zweiten Teil des Tages.",
+            "hu": "Hajtson át a kastély külön parkolójába a nap második felére.",
+            "ro": "Conduceți la parcarea specială a castelului pentru a doua parte a zilei.",
+            "en": "Drive to the dedicated castle car park for the second part of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Erzbischöfliches Schloss",
+            "hu": "Érseki palota",
+            "ro": "Palatul Arhiepiscopal",
+            "en": "Archbishop's Palace"
+          },
+          "coords": [
+            17.391,
+            49.2995
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Parkplatz aus ist der Eingang nur einen kurzen Spaziergang entfernt.",
+            "hu": "A bejárat csak egy rövid sétára van a parkolótól.",
+            "ro": "Intrarea este la doar o scurtă plimbare de parcare.",
+            "en": "The entrance is just a short walk from the car park."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlosspark",
+            "hu": "Várkert",
+            "ro": "Parcul Castelului",
+            "en": "Castle Park"
+          },
+          "coords": [
+            17.388,
+            49.3
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:19",
+          "stay_min": 120,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Park schließt direkt an das Schloss an, ideal für einen langen Verdauungsspaziergang.",
+            "hu": "A park közvetlenül a kastély mellett található, ideális egy hosszú emésztő sétához.",
+            "ro": "Parcul se învecinează direct cu castelul, ideal pentru o lungă plimbare digestivă.",
+            "en": "The park adjoins the palace directly, ideal for a long digestive walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im geometrischen Blumengarten. Fahren Sie dann ins Zentrum, parken Sie Ihr Auto und erkunden Sie den Großen Platz und das Museum zu Fuß. Am Nachmittag fahren Sie zum Schloss, parken erneut und widmen den Rest des Tages der Erkundung des prächtigen Schlosses und des weitläufigen Schlossparks.",
+        "hu": "Kezdje a napot a geometrikus Virágoskertben. Ezután hajtson be a központba, parkolja le az autót, és fedezze fel gyalog a Fő teret és a múzeumot. Délután hajtson a kastélyhoz, parkoljon le újra, és szentelje a nap hátralévő részét a csodálatos palota és a tágas Várkert felfedezésének.",
+        "ro": "Începeți ziua în geometrica Grădină de Flori. Apoi, conduceți spre centru, parcați mașina și explorați Piața Mare și muzeul pe jos. După-amiaza, conduceți la palat, parcați din nou și dedicați restul zilei explorării magnificului palat și a vastului Parc al Castelului.",
+        "en": "Start your day at the geometric Flower Garden. Then drive to the center, park your car, and explore the Great Square and museum on foot. In the afternoon, drive to the palace, park again, and dedicate the rest of your day to exploring the magnificent palace and the expansive Castle Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurace a penzion U Hrocha",
+            "tip": "Etwas außerhalb des Zentrums, mit dem Auto gut erreichbar, bekannt für große Portionen."
+          },
+          {
+            "name": "Maxmilian",
+            "tip": "Bietet eine Mischung aus moderner und traditioneller Küche in elegantem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurace a penzion U Hrocha",
+            "tip": "Kicsit a központon kívül, autóval könnyen megközelíthető, nagy adagjairól ismert."
+          },
+          {
+            "name": "Maxmilian",
+            "tip": "A modern és a hagyományos konyha keverékét kínálja elegáns környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurace a penzion U Hrocha",
+            "tip": "Puțin în afara centrului, ușor accesibil cu mașina, cunoscut pentru porțiile mari."
+          },
+          {
+            "name": "Maxmilian",
+            "tip": "Oferă un amestec de bucătărie modernă și tradițională într-un cadru elegant."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurace a penzion U Hrocha",
+            "tip": "Slightly outside the center, easily accessible by car, known for large portions."
+          },
+          {
+            "name": "Maxmilian",
+            "tip": "Offers a mix of modern and traditional cuisine in an elegant setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pompejanische Kolonnade im Schlosspark",
+            "tip": "Ein ruhiger Ort mit schöner Aussicht.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Chinesischer Pavillon im Schlosspark",
+            "tip": "Ein abgeschiedener Ort zur Kontemplation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Die hinteren Wege des Blumengartens",
+            "tip": "Entfliehen Sie den Menschenmassen in den weniger besuchten Teilen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pompeji oszlopsor a Várkertben",
+            "tip": "Csendes hely, gyönyörű kilátással.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Kínai pavilon a Várkertben",
+            "tip": "Egy eldugott hely az elmélkedésre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A Virágoskert hátsó ösvényei",
+            "tip": "Meneküljön el a tömeg elől a kevésbé látogatott részeken.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Colonada Pompeiană din Parcul Castelului",
+            "tip": "Un loc liniștit cu o priveliște frumoasă.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Pavilionul Chinezesc din Parcul Castelului",
+            "tip": "Un loc retras pentru contemplare.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Cărările din spatele Grădinii de Flori",
+            "tip": "Evadați de mulțime în părțile mai puțin vizitate.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pompeian Colonnade in the Castle Park",
+            "tip": "A quiet spot with a beautiful view.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Chinese Pavilion in the Castle Park",
+            "tip": "A secluded spot for contemplation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "The back paths of the Flower Garden",
+            "tip": "Escape the crowds in the less-visited parts.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Schloss-Souvenirladen",
+            "tip": "Eine große Auswahl an Büchern, Postkarten und Geschenken zum Thema Schloss."
+          },
+          {
+            "name": "Regionale Produkte in der Innenstadt",
+            "tip": "Halten Sie Ausschau nach Geschäften, die lokale Spezialitäten wie Olomoucké tvarůžky verkaufen (für Mutige!)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kastély szuvenírboltja",
+            "tip": "Könyvek, képeslapok és a kastéllyal kapcsolatos ajándékok nagy választéka."
+          },
+          {
+            "name": "Helyi termékek a belvárosban",
+            "tip": "Keresse azokat az üzleteket, amelyek helyi specialitásokat, például Olomoucké tvarůžky-t árulnak (bátraknak!)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de suveniruri al castelului",
+            "tip": "O selecție largă de cărți, vederi și cadouri legate de castel."
+          },
+          {
+            "name": "Produse regionale în centrul orașului",
+            "tip": "Căutați magazine care vând specialități locale precum Olomoucké tvarůžky (pentru cei curajoși!)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle souvenir shop",
+            "tip": "A wide selection of books, postcards, and castle-related gifts."
+          },
+          {
+            "name": "Regional products downtown",
+            "tip": "Look for shops selling local specialties like Olomoucké tvarůžky (for the brave!)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken ist in der Nähe der Hauptattraktionen kostenpflichtig.",
+          "Planen Sie Ihre Route, um das Fahren durch die engen Gassen der Altstadt zu vermeiden.",
+          "Ein Auto ermöglicht es Ihnen, die beiden Hauptattraktionen (Gärten und Schloss) effizient zu trennen.",
+          "Überprüfen Sie die Parkzeiten, um Strafzettel zu vermeiden."
+        ],
+        "hu": [
+          "A parkolás a főbb látnivalók közelében díjköteles.",
+          "Tervezze meg az útvonalat, hogy elkerülje a vezetést az óváros szűk utcáin.",
+          "Az autó lehetővé teszi, hogy hatékonyan elkülönítse a két fő látnivalót (kertek és kastély).",
+          "Ellenőrizze a parkolási időket a bírságok elkerülése érdekében."
+        ],
+        "ro": [
+          "Parcarea este cu plată în apropierea atracțiilor principale.",
+          "Planificați-vă traseul pentru a evita condusul pe străzile înguste ale orașului vechi.",
+          "O mașină vă permite să separați eficient cele două atracții principale (grădini și castel).",
+          "Verificați orele de parcare pentru a evita amenzile."
+        ],
+        "en": [
+          "Parking is paid near the main attractions.",
+          "Plan your route to avoid driving through the narrow streets of the old town.",
+          "A car allows you to separate the two main sites (gardens and palace) efficiently.",
+          "Check parking time limits to avoid fines."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof Milíčovo náměstí",
+            "hu": "Érkezés a Milíčovo náměstí buszmegállóba",
+            "ro": "Sosire la stația de autobuz Milíčovo náměstí",
+            "en": "Arrival at Milíčovo náměstí bus stop"
+          },
+          "coords": [
+            17.398,
+            49.2965
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Von hier aus beginnt Ihr Rundgang durch das historische Zentrum.",
+            "hu": "Innen indul a séta a történelmi központban.",
+            "ro": "De aici începe turul dumneavoastră pietonal prin centrul istoric.",
+            "en": "Your walking tour of the historic center starts from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Großer Platz",
+            "hu": "Fő tér",
+            "ro": "Piața Mare",
+            "en": "Great Square"
+          },
+          "coords": [
+            17.3932,
+            49.2985
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:23",
+          "stay_min": 30,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die Atmosphäre des Hauptplatzes der Stadt.",
+            "hu": "Merüljön el a város főterének hangulatában.",
+            "ro": "Cufundați-vă în atmosfera pieței principale a orașului.",
+            "en": "Immerse yourself in the atmosphere of the city's main square."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Moritz-Kirche",
+            "hu": "Szent Mór-templom",
+            "ro": "Biserica Sfântul Mauriciu",
+            "en": "Saint Maurice Church"
+          },
+          "coords": [
+            17.3955,
+            49.299
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Kirche ist ein beeindruckendes Beispiel der Gotik.",
+            "hu": "A templom a gótika lenyűgöző példája.",
+            "ro": "Biserica este un exemplu impresionant de arhitectură gotică.",
+            "en": "The church is an impressive example of Gothic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Erzbischöfliches Schloss",
+            "hu": "Érseki palota",
+            "ro": "Palatul Arhiepiscopal",
+            "en": "Archbishop's Palace"
+          },
+          "coords": [
+            17.391,
+            49.2995
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:51",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Hauptanziehungspunkt der Stadt, ein Muss für jeden Besucher.",
+            "hu": "A város fő vonzereje, minden látogató számára kötelező.",
+            "ro": "Atracția principală a orașului, o vizită obligatorie pentru fiecare vizitator.",
+            "en": "The city's main attraction, a must-see for every visitor."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zur Haltestelle Květná zahrada",
+            "hu": "Busz a Květná zahrada megállóhoz",
+            "ro": "Autobuz spre stația Květná zahrada",
+            "en": "Bus to Květná zahrada stop"
+          },
+          "coords": [
+            17.4025,
+            49.295
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:06",
+          "stay_min": 5,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus, um zum zweiten UNESCO-Standort zu gelangen.",
+            "hu": "Vegyen egy helyi buszt a második UNESCO helyszínre.",
+            "ro": "Luați un autobuz local pentru a ajunge la al doilea sit UNESCO.",
+            "en": "Take a local bus to get to the second UNESCO site."
+          }
+        },
+        {
+          "name": {
+            "de": "Blumengarten",
+            "hu": "Virágoskert",
+            "ro": "Grădina de Flori",
+            "en": "Flower Garden"
+          },
+          "coords": [
+            17.403,
+            49.2945
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:13",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verbringen Sie den Nachmittag damit, dieses Meisterwerk der Gartenkunst zu erkunden.",
+            "hu": "Töltse a délutánt a kertművészet ezen remekművének felfedezésével.",
+            "ro": "Petreceți după-amiaza explorând această capodoperă a artei grădinăritului.",
+            "en": "Spend the afternoon exploring this masterpiece of garden art."
+          }
+        },
+        {
+          "name": {
+            "de": "Erzbischöfliche Münze",
+            "hu": "Érseki pénzverde",
+            "ro": "Monetăria Arhiepiscopală",
+            "en": "Archbishop's Mint"
+          },
+          "coords": [
+            17.3922,
+            49.2991
+          ],
+          "category": "museums",
+          "arrive_at": "15:01",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Fahren Sie zurück ins Zentrum, um das Münzmuseum in der Nähe des Schlosses zu besuchen.",
+            "hu": "Utazzon vissza a központba, hogy meglátogassa a kastély közelében lévő pénzverde-múzeumot.",
+            "ro": "Întoarceți-vă în centru pentru a vizita muzeul monetăriei de lângă castel.",
+            "en": "Travel back to the center to visit the mint museum near the castle."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Kommen Sie mit dem Bus im Stadtzentrum an und erkunden Sie den historischen Kern mit dem Platz und den Kirchen zu Fuß. Nach dem Mittagessen besuchen Sie das prächtige Schloss. Am Nachmittag bringt Sie ein kurzer Bus Sie zum atemberaubenden Blumengarten. Ein letzter Bus bringt Sie zurück, um den Tag mit einem Besuch der alten Münze zu beenden.",
+        "hu": "Érkezzen busszal a városközpontba, és fedezze fel gyalog a történelmi magot a térrel és a templomokkal. Ebéd után látogasson el a csodálatos kastélyba. Délután egy rövid buszút elviszi a lélegzetelállító Virágoskertbe. Egy utolsó buszjárattal térhet vissza, hogy a napot a régi pénzverde meglátogatásával zárja.",
+        "ro": "Sosiți cu autobuzul în centrul orașului și explorați nucleul istoric pe jos, cu piața și bisericile sale. După prânz, vizitați magnificul palat. După-amiaza, o scurtă călătorie cu autobuzul vă va duce la uimitoarea Grădină de Flori. O ultimă călătorie cu autobuzul vă aduce înapoi pentru a încheia ziua cu o vizită la vechea monetărie.",
+        "en": "Arrive by bus in the city center and explore the historic core on foot, including the square and churches. After lunch, visit the magnificent palace. In the afternoon, a short bus ride takes you to the stunning Flower Garden. A final bus trip brings you back to end the day with a visit to the old mint."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Radniční restaurace",
+            "tip": "Zentral gelegen und ideal für ein Mittagessen zwischen den Besichtigungen."
+          },
+          {
+            "name": "Pivovar Černý Orel",
+            "tip": "Probieren Sie das lokale Bier und die deftige Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Radniční restaurace",
+            "tip": "Központi elhelyezkedésű, ideális ebédre a látnivalók között."
+          },
+          {
+            "name": "Pivovar Černý Orel",
+            "tip": "Kóstolja meg a helyi sört és a kiadós ételeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Radniční restaurace",
+            "tip": "Situat central și ideal pentru un prânz între vizite."
+          },
+          {
+            "name": "Pivovar Černý Orel",
+            "tip": "Încercați berea locală și bucătăria consistentă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Radniční restaurace",
+            "tip": "Centrally located and ideal for lunch between sightseeing."
+          },
+          {
+            "name": "Pivovar Černý Orel",
+            "tip": "Try the local beer and the hearty cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlosspark",
+            "tip": "Auch wenn er nicht auf der Hauptroute liegt, ist er vom Schloss aus leicht zu Fuß erreichbar.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirche des hl. Johannes des Täufers",
+            "tip": "Finden Sie einen Moment der Stille in diesem barocken Juwel.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kolonnade im Blumengarten",
+            "tip": "Genießen Sie die Aussicht über die Gärten von oben.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Várkert",
+            "tip": "Bár nincs a fő útvonalon, a kastélytól könnyen megközelíthető gyalog.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Keresztelő Szent János-templom",
+            "tip": "Találjon egy csendes pillanatot ebben a barokk ékszerdobozban.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Oszlopsor a Virágoskertben",
+            "tip": "Élvezze a kilátást a kertekre fentről.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului",
+            "tip": "Chiar dacă nu se află pe traseul principal, este ușor accesibil pe jos de la castel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Biserica Sfântul Ioan Botezătorul",
+            "tip": "Găsiți un moment de liniște în această bijuterie barocă.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Colonada din Grădina de Flori",
+            "tip": "Bucurați-vă de vederea de sus a grădinilor.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Park",
+            "tip": "Even if not on the main route, it's an easy walk from the palace.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Church of St. John the Baptist",
+            "tip": "Find a moment of quiet in this baroque gem.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Colonnade in the Flower Garden",
+            "tip": "Enjoy the view over the gardens from the top.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Geschäfte in der Jánská Straße",
+            "tip": "Stöbern Sie nach einzigartigen Fundstücken in den kleinen Boutiquen."
+          },
+          {
+            "name": "Souvenirladen im Blumengarten",
+            "tip": "Kaufen Sie Samen oder gartenbezogene Geschenke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi üzletek a Jánská utcában",
+            "tip": "Böngésszen egyedi darabok után a kis butikokban."
+          },
+          {
+            "name": "Szuvenírbolt a Virágoskertben",
+            "tip": "Vásároljon magokat vagy kertészettel kapcsolatos ajándékokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine locale pe strada Jánská",
+            "tip": "Căutați obiecte unice în micile buticuri."
+          },
+          {
+            "name": "Magazin de suveniruri în Grădina de Flori",
+            "tip": "Cumpărați semințe sau cadouri legate de grădinărit."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local shops on Jánská street",
+            "tip": "Browse for unique finds in the small boutiques."
+          },
+          {
+            "name": "Souvenir shop in the Flower Garden",
+            "tip": "Buy seeds or garden-related gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr, wenn Sie mehrere Fahrten planen.",
+          "Die Busse fahren regelmäßig, aber prüfen Sie den Fahrplan im Voraus.",
+          "Halten Sie Kleingeld für die Tickets bereit.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind vom Busbahnhof aus leicht zu Fuß erreichbar."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, ha több utazást tervez.",
+          "A buszok rendszeresen közlekednek, de előre ellenőrizze a menetrendet.",
+          "Tartson aprópénzt a jegyekhez.",
+          "A legtöbb központi látnivaló gyalogosan is könnyen elérhető a buszpályaudvarról."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public dacă plănuiți mai multe călătorii.",
+          "Autobuzele circulă regulat, dar verificați orarul în avans.",
+          "Aveți la îndemână mărunțiș pentru bilete.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos de la stația de autobuz."
+        ],
+        "en": [
+          "Buy a day pass for public transport if you plan multiple trips.",
+          "Buses run regularly, but check the schedule in advance.",
+          "Have small change ready for tickets.",
+          "Most central sights are easily walkable from the bus station."
+        ]
+      }
+    }
+  }
+}

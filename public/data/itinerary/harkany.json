@@ -1,0 +1,1497 @@
+{
+  "city_id": "harkany",
+  "anchor": {
+    "name": "Harkány",
+    "coords": [
+      18.2386,
+      45.8494
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 2.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Zsigmondy-Promenade",
+            "hu": "Zsigmondy sétány",
+            "ro": "Promenada Zsigmondy",
+            "en": "Zsigmondy Promenade"
+          },
+          "coords": [
+            18.238,
+            45.848
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem erfrischenden Spaziergang und genießen Sie die gepflegte Parkanlage.",
+            "hu": "Kezdje a napot egy frissítő sétával, és élvezze a gondozott parkot.",
+            "ro": "Începeți ziua cu o plimbare revigorantă și bucurați-vă de parcul bine întreținut.",
+            "en": "Start your day with a refreshing walk and enjoy the well-kept park."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Harka-Brunnen",
+            "hu": "Harka-kút",
+            "ro": "Fântâna Harka",
+            "en": "Harka Well"
+          },
+          "coords": [
+            18.239,
+            45.85
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:41",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein beliebter Fotopunkt, der die Legende der Stadt darstellt.",
+            "hu": "Népszerű fotópont, amely a város legendáját ábrázolja.",
+            "ro": "Un loc popular pentru fotografii, care înfățișează legenda orașului.",
+            "en": "A popular photo spot depicting the city's legend."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "St.-Sebastian-Kirche",
+            "hu": "Szent Sebestyén-templom",
+            "ro": "Biserica Sfântul Sebastian",
+            "en": "St. Sebastian Church"
+          },
+          "coords": [
+            18.241,
+            45.851
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:02",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die modernen Buntglasfenster und die ruhige Atmosphäre.",
+            "hu": "Csodálja meg a modern ólomüveg ablakokat és a csendes légkört.",
+            "ro": "Admirați vitraliile moderne și atmosfera liniștită.",
+            "en": "Admire the modern stained glass windows and the quiet atmosphere."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Reformierte Kirche",
+            "hu": "Református templom",
+            "ro": "Biserica Reformată",
+            "en": "Reformed Church"
+          },
+          "coords": [
+            18.235,
+            45.852
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:44",
+          "stay_min": 30,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein schlichtes, aber eindrucksvolles Gebäude, das einen Moment der Besinnung bietet.",
+            "hu": "Egyszerű, mégis lenyűgöző épület, amely a elmélkedés pillanatát kínálja.",
+            "ro": "O clădire simplă, dar impresionantă, care oferă un moment de reflecție.",
+            "en": "A simple yet impressive building offering a moment of reflection."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Heimatmuseum Harkány",
+            "hu": "Harkányi Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie Locală Harkány",
+            "en": "Harkány Local History Museum"
+          },
+          "coords": [
+            18.2365,
+            45.8505
+          ],
+          "category": "museums",
+          "arrive_at": "11:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die lokale Geschichte und die Entwicklung des Heilbades.",
+            "hu": "Tudjon meg többet a helyi történelemről és a gyógyfürdő fejlődéséről.",
+            "ro": "Aflați mai multe despre istoria locală și dezvoltarea băilor termale.",
+            "en": "Learn about the local history and the development of the spa."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebéd a városközpontban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city center"
+          },
+          "coords": [
+            18.238,
+            45.85
+          ],
+          "category": "gastro",
+          "arrive_at": "12:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie eine traditionelle ungarische Gulaschsuppe in einem der vielen Restaurants.",
+            "hu": "Kóstoljon meg egy hagyományos magyar gulyáslevest a számos étterem egyikében.",
+            "ro": "Încercați o supă gulaș tradițională maghiară la unul dintre multele restaurante.",
+            "en": "Try a traditional Hungarian goulash soup at one of the many restaurants."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Harkányer Heilbad",
+            "hu": "Harkányi Gyógyfürdő",
+            "ro": "Băile Termale Harkány",
+            "en": "Harkány Spa"
+          },
+          "coords": [
+            18.237,
+            45.846
+          ],
+          "category": "natural features",
+          "arrive_at": "13:52",
+          "stay_min": 200,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie im schwefelhaltigen Heilwasser, das seit fast 200 Jahren bekannt ist.",
+            "hu": "Pihenjen a kénes gyógyvízben, amely már közel 200 éve ismert.",
+            "ro": "Relaxați-vă în apa termală sulfuroasă, renumită de aproape 200 de ani.",
+            "en": "Relax in the sulphurous thermal water, famous for almost 200 years."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang durch Harkány beginnt auf der von Bäumen gesäumten Zsigmondy-Promenade, die Sie ins Herz der Kurstadt führt. Der Vormittag ist der Erkundung der Kultur gewidmet, vom Harka-Brunnen über die beiden Hauptkirchen der Stadt bis zum Heimatmuseum, das die Geschichte der Region erzählt. Nach einem stärkenden ungarischen Mittagessen tauchen Sie in die Hauptattraktion ein: das weltberühmte Harkányer Heilbad. Der Nachmittag steht ganz im Zeichen der Entspannung. Lassen Sie die Seele im mineralreichen Wasser baumeln und genießen Sie die heilende Wirkung. Am Abend, erfrischt und erholt, können Sie den Tag bei einem Glas Wein aus der nahen Villány-Region ausklingen lassen und die ruhige Atmosphäre der Stadt auf sich wirken lassen.",
+        "hu": "Harkányi sétája a fákkal szegélyezett Zsigmondy sétányon kezdődik, amely a fürdőváros szívébe vezet. A délelőtt a kultúra felfedezésével telik, a Harka-kúttól a város két fő templomán át a helytörténeti múzeumig, amely a régió történetét meséli el. Egy kiadós magyar ebéd után elmerülhet a fő attrakcióban: a világhírű Harkányi Gyógyfürdőben. A délután a pihenésé. Lazítson az ásványi anyagokban gazdag vízben, és élvezze annak gyógyító hatását. Este, felfrissülve és kipihenve, a közeli Villányi borvidékről származó pohár borral zárhatja a napot, és élvezheti a város nyugodt légkörét.",
+        "ro": "Plimbarea dvs. prin Harkány începe pe promenada Zsigmondy, mărginită de copaci, care vă duce în inima orașului balnear. Dimineața este dedicată explorării culturii, de la Fântâna Harka la cele două biserici principale ale orașului și la muzeul de istorie locală, care spune povestea regiunii. După un prânz maghiar consistent, vă scufundați în atracția principală: faimoasele Băi Termale Harkány. După-amiaza este dedicată relaxării. Relaxați-vă în apa bogată în minerale și bucurați-vă de efectele sale vindecătoare. Seara, înviorat și odihnit, puteți încheia ziua cu un pahar de vin din regiunea învecinată Villány și vă puteți bucura de atmosfera liniștită a orașului.",
+        "en": "Your walk through Harkány begins on the tree-lined Zsigmondy Promenade, leading you into the heart of the spa town. The morning is for cultural exploration, from the Harka Well to the town's two main churches and the local history museum, which tells the region's story. After a hearty Hungarian lunch, you'll dive into the main attraction: the world-famous Harkány Spa. The afternoon is all about relaxation. Unwind in the mineral-rich water and enjoy its healing effects. In the evening, refreshed and rejuvenated, you can end the day with a glass of wine from the nearby Villány region and soak in the town's peaceful atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gulaschsuppe",
+            "tip": "Ein Muss in Ungarn, reichhaltig und wärmend."
+          },
+          {
+            "name": "Lángos",
+            "tip": "Frittierter Teigfladen, klassisch mit Knoblauch, saurer Sahne und Käse."
+          },
+          {
+            "name": "Villányer Wein",
+            "tip": "Probieren Sie einen Rotwein aus der berühmtesten Weinregion Ungarns, nur wenige Kilometer entfernt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gulyásleves",
+            "tip": "Magyarországon kötelező, gazdag és melengető."
+          },
+          {
+            "name": "Lángos",
+            "tip": "Sült tészta, klasszikusan fokhagymával, tejföllel és sajttal."
+          },
+          {
+            "name": "Villányi bor",
+            "tip": "Kóstoljon meg egy vörösbort Magyarország leghíresebb borvidékéről, amely csak néhány kilométerre található."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supă gulaș",
+            "tip": "O necesitate în Ungaria, bogată și încălzitoare."
+          },
+          {
+            "name": "Lángos",
+            "tip": "Plăcintă de aluat prăjit, clasic cu usturoi, smântână și brânză."
+          },
+          {
+            "name": "Vin de Villány",
+            "tip": "Încercați un vin roșu din cea mai faimoasă regiune viticolă a Ungariei, la doar câțiva kilometri distanță."
+          }
+        ],
+        "en": [
+          {
+            "name": "Goulash Soup",
+            "tip": "A must-try in Hungary, rich and warming."
+          },
+          {
+            "name": "Lángos",
+            "tip": "Fried dough flatbread, classic with garlic, sour cream, and cheese."
+          },
+          {
+            "name": "Villány Wine",
+            "tip": "Try a red wine from Hungary's most famous wine region, just a few kilometers away."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Heilbad Park",
+            "tip": "Finden Sie eine ruhige Bank im weitläufigen Park des Heilbades.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Garten der Reformierten Kirche",
+            "tip": "Ein kleiner, friedlicher Ort abseits der Hauptwege.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang am Abend",
+            "tip": "Nachdem die Tagesgäste abgereist sind, zeigt die Stadt ihr ruhiges Gesicht.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyógyfürdő parkja",
+            "tip": "Keressen egy csendes padot a gyógyfürdő tágas parkjában.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Református templom kertje",
+            "tip": "Egy kicsi, békés hely a fő utaktól távol.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Esti séta",
+            "tip": "Miután a napközbeni látogatók elmentek, a város megmutatja csendes arcát.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul balnear",
+            "tip": "Găsiți o bancă liniștită în parcul extins al băilor.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Bisericii Reformate",
+            "tip": "Un loc mic și liniștit, departe de căile principale.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare de seară",
+            "tip": "După plecarea vizitatorilor de o zi, orașul își arată fața liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Spa Park",
+            "tip": "Find a quiet bench in the spa's expansive park.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Reformed Church Garden",
+            "tip": "A small, peaceful spot away from the main paths.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Evening Stroll",
+            "tip": "After the day-trippers have left, the town shows its quiet side.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Paprika",
+            "tip": "Kaufen Sie authentisches ungarisches Paprikapulver, süß oder scharf."
+          },
+          {
+            "name": "Heilwasser-Produkte",
+            "tip": "Cremes und Seifen, die auf dem einzigartigen Wasser von Harkány basieren."
+          },
+          {
+            "name": "Lokale Handwerkskunst",
+            "tip": "Halten Sie Ausschau nach kleinen Ständen mit handgefertigten Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fűszerpaprika",
+            "tip": "Vásároljon autentikus magyar fűszerpaprika-őrleményt, édeset vagy csípőset."
+          },
+          {
+            "name": "Gyógyvizes termékek",
+            "tip": "Krémek és szappanok, amelyek a Harkány egyedülálló vizén alapulnak."
+          },
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keresse a kézzel készített ajándéktárgyakat kínáló kis standokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boia de ardei",
+            "tip": "Cumpărați pudră de boia de ardei maghiară autentică, dulce sau iute."
+          },
+          {
+            "name": "Produse cu apă termală",
+            "tip": "Creme și săpunuri bazate pe apa unică din Harkány."
+          },
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați mici tarabe cu suveniruri lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Paprika",
+            "tip": "Buy authentic Hungarian paprika powder, sweet or hot."
+          },
+          {
+            "name": "Thermal Water Products",
+            "tip": "Creams and soaps based on the unique water of Harkány."
+          },
+          {
+            "name": "Local Crafts",
+            "tip": "Look for small stalls with handmade souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den größten Teil des Tages zu Fuß unterwegs sein werden.",
+          "Vergessen Sie Ihre Badesachen und ein Handtuch für das Heilbad nicht.",
+          "Viele kleine Geschäfte und Cafés akzeptieren nur Bargeld (Forint).",
+          "Prüfen Sie die Öffnungszeiten des Museums im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a nap nagy részét gyalog fogja tölteni.",
+          "Ne felejtse el a fürdőruhát és a törölközőt a gyógyfürdőhöz.",
+          "Sok kis üzlet és kávézó csak készpénzt (forintot) fogad el.",
+          "Előre ellenőrizze a múzeum nyitvatartási idejét."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge pe jos cea mai mare parte a zilei.",
+          "Nu uitați costumul de baie și un prosop pentru băile termale.",
+          "Multe magazine mici și cafenele acceptă doar numerar (forinți).",
+          "Verificați în prealabil programul de funcționare al muzeului."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking for most of the day.",
+          "Don't forget your swimwear and a towel for the spa.",
+          "Many small shops and cafes only accept cash (Forint).",
+          "Check the museum's opening hours in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Harka-Brunnen",
+            "hu": "Harka-kút",
+            "ro": "Fântâna Harka",
+            "en": "Harka Well"
+          },
+          "coords": [
+            18.239,
+            45.85
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Radtour am zentralen Platz und machen Sie ein Foto von diesem Wahrzeichen.",
+            "hu": "Indítsa kerékpártúráját a központi térről, és készítsen egy fotót erről a nevezetességről.",
+            "ro": "Începeți turul cu bicicleta din piața centrală și faceți o fotografie cu acest punct de reper.",
+            "en": "Start your bike tour from the central square and take a photo of this landmark."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "St.-Sebastian-Kirche & Weltkriegsdenkmal",
+            "hu": "Szent Sebestyén-templom & Világháborús emlékmű",
+            "ro": "Biserica Sf. Sebastian & Monumentul Războiului Mondial",
+            "en": "St. Sebastian Church & World War Memorial"
+          },
+          "coords": [
+            18.241,
+            45.8515
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die Kirche und das nahegelegene Denkmal können zusammen besichtigt werden.",
+            "hu": "A templom és a közeli emlékmű együtt is megtekinthető.",
+            "ro": "Biserica și monumentul din apropiere pot fi vizitate împreună.",
+            "en": "The church and the nearby memorial can be visited together."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Reformierte Kirche",
+            "hu": "Református templom",
+            "ro": "Biserica Reformată",
+            "en": "Reformed Church"
+          },
+          "coords": [
+            18.235,
+            45.852
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:13",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp an diesem architektonisch schlichten Gotteshaus.",
+            "hu": "Egy rövid megálló ennél az építészetileg egyszerű templomnál.",
+            "ro": "O scurtă oprire la această biserică simplă din punct de vedere arhitectural.",
+            "en": "A short stop at this architecturally simple church."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Heimatmuseum Harkány",
+            "hu": "Harkányi Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie Locală Harkány",
+            "en": "Harkány Local History Museum"
+          },
+          "coords": [
+            18.2365,
+            45.8505
+          ],
+          "category": "museums",
+          "arrive_at": "10:41",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und tauchen Sie in die lokale Geschichte ein.",
+            "hu": "Tegye le a kerékpárt, és merüljön el a helyi történelemben.",
+            "ro": "Parcați bicicleta și scufundați-vă în istoria locală.",
+            "en": "Park your bike and delve into the local history."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            18.238,
+            45.85
+          ],
+          "category": "gastro",
+          "arrive_at": "11:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Suchen Sie sich ein Restaurant mit Fahrradständern in der Nähe.",
+            "hu": "Keressen egy éttermet, amelynek közelében kerékpártárolók vannak.",
+            "ro": "Căutați un restaurant cu suporturi pentru biciclete în apropiere.",
+            "en": "Look for a restaurant with bike racks nearby."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Zsigmondy-Promenade",
+            "hu": "Zsigmondy sétány",
+            "ro": "Promenada Zsigmondy",
+            "en": "Zsigmondy Promenade"
+          },
+          "coords": [
+            18.238,
+            45.848
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:01",
+          "stay_min": 20,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Radeln Sie gemütlich durch den Park in Richtung Heilbad.",
+            "hu": "Tekerjen kényelmesen a parkon keresztül a gyógyfürdő felé.",
+            "ro": "Plimbați-vă cu bicicleta prin parc spre băile termale.",
+            "en": "Cycle leisurely through the park towards the spa."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Harkányer Heilbad",
+            "hu": "Harkányi Gyógyfürdő",
+            "ro": "Băile Termale Harkány",
+            "en": "Harkány Spa"
+          },
+          "coords": [
+            18.237,
+            45.846
+          ],
+          "category": "natural features",
+          "arrive_at": "13:27",
+          "stay_min": 200,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Rad gut ab und genießen Sie die wohlverdiente Entspannung im Wasser.",
+            "hu": "Zárja le jól a kerékpárját, és élvezze a megérdemelt pihenést a vízben.",
+            "ro": "Asigurați-vă bicicleta și bucurați-vă de relaxarea binemeritată în apă.",
+            "en": "Lock your bike securely and enjoy a well-deserved relaxation in the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel für eine Erkundungstour durch Harkány. Die kompakte Größe der Stadt ist ideal für das Fahrrad. Der Vormittag führt Sie zu den kulturellen Höhepunkten, von den Kirchen bis zum Museum, alles nur wenige Pedaltritte voneinander entfernt. Die flachen Wege machen die Fahrt zu einem Vergnügen. Nach einem stärkenden Mittagessen radeln Sie durch die grüne Zsigmondy-Promenade zum Höhepunkt des Tages: dem Heilbad. Hier tauschen Sie das Fahrrad gegen Badesachen und verbringen den Nachmittag im mineralreichen Wasser. Nach Stunden der Entspannung sind Sie bereit für die Rückfahrt, erfrischt und voller neuer Eindrücke von diesem charmanten ungarischen Kurort.",
+        "hu": "Pattanjon nyeregbe, hogy felfedezze Harkányt! A város kompakt mérete ideális kerékpározáshoz. A délelőtt a kulturális nevezetességekhez vezet, a templomoktól a múzeumig, mindössze néhány pedálfordulónyira egymástól. A sík utak élvezetessé teszik a tekerést. Egy kiadós ebéd után a zöldellő Zsigmondy sétányon keresztül tekerhet a nap fénypontjához: a gyógyfürdőhöz. Itt a kerékpárt fürdőruhára cseréli, és a délutánt az ásványi anyagokban gazdag vízben tölti. Órákig tartó pihenés után készen áll a visszaútra, felfrissülve és tele új benyomásokkal erről a bájos magyar fürdővárosról.",
+        "ro": "Urcați-vă pe bicicletă pentru un tur de explorare a orașului Harkány. Dimensiunea compactă a orașului este ideală pentru ciclism. Dimineața vă duce la obiectivele culturale, de la biserici la muzeu, toate la doar câteva pedalări distanță. Traseele plate fac călătoria o plăcere. După un prânz consistent, pedalați prin promenada verde Zsigmondy spre punctul culminant al zilei: băile termale. Aici schimbați bicicleta cu costumul de baie și petreceți după-amiaza în apa bogată în minerale. După ore de relaxare, sunteți gata pentru călătoria de întoarcere, înviorat și plin de impresii noi de la această fermecătoare stațiune balneară maghiară.",
+        "en": "Hop on your bike for an exploratory tour of Harkány. The town's compact size is ideal for cycling. The morning takes you to the cultural highlights, from the churches to the museum, all just a few pedal strokes apart. The flat paths make the ride a pleasure. After a hearty lunch, you'll cycle through the green Zsigmondy Promenade to the day's highlight: the spa. Here, you'll trade your bike for swimwear and spend the afternoon in the mineral-rich water. After hours of relaxation, you'll be ready for the ride back, refreshed and full of new impressions from this charming Hungarian spa town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Halászlé",
+            "tip": "Eine würzige Fischsuppe, typisch für die Region."
+          },
+          {
+            "name": "Kürtőskalács",
+            "tip": "Baumstriezel, ein süßer Snack für zwischendurch."
+          },
+          {
+            "name": "Fröccs",
+            "tip": "Weinschorle, das perfekte erfrischende Getränk nach einer Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halászlé",
+            "tip": "Fűszeres halászlé, a régióra jellemző."
+          },
+          {
+            "name": "Kürtőskalács",
+            "tip": "Édes finomság, tökéletes uzsonnára."
+          },
+          {
+            "name": "Fröccs",
+            "tip": "A tökéletes frissítő ital egy kerékpártúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Halászlé (supă de pește)",
+            "tip": "O supă de pește picantă, tipică regiunii."
+          },
+          {
+            "name": "Kürtőskalács",
+            "tip": "Cozonac secuiesc, o gustare dulce perfectă."
+          },
+          {
+            "name": "Fröccs (șpriț)",
+            "tip": "Băutura răcoritoare perfectă după un tur cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Halászlé (Fisherman's Soup)",
+            "tip": "A spicy fish soup, typical of the region."
+          },
+          {
+            "name": "Kürtőskalács (Chimney Cake)",
+            "tip": "A sweet snack, perfect for a treat."
+          },
+          {
+            "name": "Fröccs (Wine Spritzer)",
+            "tip": "The perfect refreshing drink after a bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Heilbad Park",
+            "tip": "Finden Sie eine ruhige Bank im weitläufigen Park des Heilbades.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Radweg nach Siklós",
+            "tip": "Wenn Sie Zeit haben, führt ein schöner Radweg in die Nachbarstadt.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Ufer des Dráva",
+            "tip": "Ein paar Kilometer südlich, ein friedlicher Ort in der Natur.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyógyfürdő parkja",
+            "tip": "Keressen egy csendes padot a gyógyfürdő tágas parkjában.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kerékpárút Siklósra",
+            "tip": "Ha van ideje, egy szép kerékpárút vezet a szomszédos városba.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Dráva-part",
+            "tip": "Néhány kilométerre délre, egy békés hely a természetben.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul balnear",
+            "tip": "Găsiți o bancă liniștită în parcul extins al băilor.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pista de biciclete spre Siklós",
+            "tip": "Dacă aveți timp, o frumoasă pistă de biciclete duce la orașul vecin.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Malul râului Drava",
+            "tip": "La câțiva kilometri spre sud, un loc pașnic în natură.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Spa Park",
+            "tip": "Find a quiet bench in the spa's expansive park.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bike path to Siklós",
+            "tip": "If you have time, a beautiful bike path leads to the neighboring town.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Drava Riverbank",
+            "tip": "A few kilometers south, a peaceful spot in nature.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Die umliegenden Felder liefern exzellenten Akazienhonig."
+          },
+          {
+            "name": "Fahrradzubehör",
+            "tip": "In der Stadt gibt es einige Geschäfte für Fahrradreparaturen und -zubehör."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "A környező mezők kiváló akácmézet adnak."
+          },
+          {
+            "name": "Kerékpár-kiegészítők",
+            "tip": "A városban van néhány kerékpárjavító és -kiegészítő üzlet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Câmpiile din jur produc o miere excelentă de salcâm."
+          },
+          {
+            "name": "Accesorii pentru biciclete",
+            "tip": "Există câteva magazine în oraș pentru reparații și accesorii pentru biciclete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "The surrounding fields produce excellent acacia honey."
+          },
+          {
+            "name": "Bike Accessories",
+            "tip": "There are a few shops in town for bike repairs and accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Harkány ist sehr flach und fahrradfreundlich.",
+          "Nehmen Sie ein gutes Schloss mit, um Ihr Fahrrad am Heilbad sicher abzustellen.",
+          "Ein kleiner Rucksack für Wasser, Snacks und Badesachen ist empfehlenswert.",
+          "Viele Hotels bieten einen Fahrradverleih an."
+        ],
+        "hu": [
+          "Harkány nagyon sík és kerékpárbarát.",
+          "Hozzon magával egy jó lakatot, hogy biztonságosan lezárhassa kerékpárját a gyógyfürdőnél.",
+          "Ajánlott egy kis hátizsák víznek, harapnivalóknak és fürdőruhának.",
+          "Sok szálloda kínál kerékpárkölcsönzést."
+        ],
+        "ro": [
+          "Harkány este foarte plat și prietenos cu bicicletele.",
+          "Aduceți un lacăt bun pentru a vă asigura bicicleta la băile termale.",
+          "Se recomandă un rucsac mic pentru apă, gustări și costum de baie.",
+          "Multe hoteluri oferă servicii de închiriere de biciclete."
+        ],
+        "en": [
+          "Harkány is very flat and bike-friendly.",
+          "Bring a good lock to secure your bike at the spa.",
+          "A small backpack for water, snacks, and swimwear is recommended.",
+          "Many hotels offer bicycle rental services."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 13.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Burg von Siklós",
+            "hu": "Siklósi Vár",
+            "ro": "Castelul Siklós",
+            "en": "Siklós Castle"
+          },
+          "coords": [
+            18.297,
+            45.855
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einer Reise ins Mittelalter in dieser beeindruckend erhaltenen Burg.",
+            "hu": "Kezdje a napot egy középkori utazással ebben a lenyűgözően megőrzött várban.",
+            "ro": "Începeți ziua cu o călătorie în Evul Mediu la acest castel impresionant de bine conservat.",
+            "en": "Start your day with a trip to the Middle Ages at this impressively preserved castle."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Parken in Harkány & Spaziergang zum Harka-Brunnen",
+            "hu": "Parkolás Harkányban & Séta a Harka-kúthoz",
+            "ro": "Parcare în Harkány & Plimbare la Fântâna Harka",
+            "en": "Parking in Harkány & Walk to Harka Well"
+          },
+          "coords": [
+            18.239,
+            45.85
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:25",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto stehen und beginnen Sie die Erkundung des Stadtzentrums zu Fuß.",
+            "hu": "Hagyja az autót, és kezdje el gyalog felfedezni a városközpontot.",
+            "ro": "Lăsați mașina și începeți explorarea centrului orașului pe jos.",
+            "en": "Leave the car and start exploring the city center on foot."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Zsigmondy-Promenade",
+            "hu": "Zsigmondy sétány",
+            "ro": "Promenada Zsigmondy",
+            "en": "Zsigmondy Promenade"
+          },
+          "coords": [
+            18.238,
+            45.848
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:51",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch den Park führt Sie in Richtung des Heilbades.",
+            "hu": "Egy rövid séta a parkon keresztül a gyógyfürdő felé vezet.",
+            "ro": "O scurtă plimbare prin parc vă duce spre băile termale.",
+            "en": "A short walk through the park will lead you towards the spa."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            18.238,
+            45.85
+          ],
+          "category": "gastro",
+          "arrive_at": "12:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die lokale Küche in einem der zentral gelegenen Restaurants.",
+            "hu": "Élvezze a helyi konyhát az egyik központi fekvésű étteremben.",
+            "ro": "Bucurați-vă de bucătăria locală la unul dintre restaurantele din centru.",
+            "en": "Enjoy the local cuisine at one of the centrally located restaurants."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Harkányer Heilbad",
+            "hu": "Harkányi Gyógyfürdő",
+            "ro": "Băile Termale Harkány",
+            "en": "Harkány Spa"
+          },
+          "coords": [
+            18.237,
+            45.846
+          ],
+          "category": "natural features",
+          "arrive_at": "13:50",
+          "stay_min": 240,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Verbringen Sie den gesamten Nachmittag mit Entspannung im heilenden Wasser.",
+            "hu": "Töltse az egész délutánt a gyógyító vízben pihenve.",
+            "ro": "Petreceți întreaga după-amiază relaxându-vă în apa vindecătoare.",
+            "en": "Spend the entire afternoon relaxing in the healing water."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Fahrt zur Weinstraße Villány",
+            "hu": "Autózás a Villányi borúton",
+            "ro": "Drumul spre regiunea viticolă Villány",
+            "en": "Drive to the Villány Wine Route"
+          },
+          "coords": [
+            18.45,
+            45.87
+          ],
+          "category": "gastro",
+          "arrive_at": "18:02",
+          "stay_min": 70,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Schließen Sie den Tag mit einer Weinprobe in Ungarns berühmtester Rotweinregion ab.",
+            "hu": "Zárja a napot egy borkóstolóval Magyarország leghíresebb vörösboros vidékén.",
+            "ro": "Încheiați ziua cu o degustare de vinuri în cea mai faimoasă regiune de vinuri roșii din Ungaria.",
+            "en": "End the day with a wine tasting in Hungary's most famous red wine region."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto haben Sie die Flexibilität, den Tag im nahegelegenen Siklós zu beginnen und die imposante mittelalterliche Burg zu erkunden. Der Vormittag gehört der Geschichte. Nach dieser Zeitreise fahren Sie die kurze Strecke nach Harkány, parken Ihr Auto und entdecken das Zentrum zu Fuß. Schlendern Sie durch die Promenade und kehren Sie für ein authentisches Mittagessen ein. Der gesamte Nachmittag ist für das Harkányer Heilbad reserviert – ein Muss für jeden Besucher. Tauchen Sie ein und entspannen Sie. Zum krönenden Abschluss führt Sie eine kurze Fahrt in die Weinberge von Villány, wo Sie den Abend bei einer Verkostung erstklassiger ungarischer Rotweine ausklingen lassen können.",
+        "hu": "Az autó rugalmasságot ad, hogy a napot a közeli Siklóson kezdje, és felfedezze a lenyűgöző középkori várat. A délelőtt a történelemé. Ezen időutazás után tegye meg a rövid utat Harkányba, parkolja le autóját, és fedezze fel a központot gyalog. Sétáljon végig a sétányon, és térjen be egy autentikus ebédre. Az egész délutánt a Harkányi Gyógyfürdőnek szenteljük – minden látogató számára kötelező. Merüljön el és pihenjen. A nap megkoronázásaként egy rövid autózás vezet a Villányi borvidékre, ahol egy első osztályú magyar vörösbor kóstolásával zárhatja az estét.",
+        "ro": "Cu mașina, aveți flexibilitatea de a începe ziua în apropierea Siklós și de a explora impunătorul castel medieval. Dimineața este dedicată istoriei. După această călătorie în timp, conduceți pe distanța scurtă până la Harkány, parcați mașina și descoperiți centrul pe jos. Plimbați-vă pe promenadă și opriți-vă pentru un prânz autentic. Întreaga după-amiază este rezervată pentru Băile Termale Harkány – o necesitate pentru fiecare vizitator. Scufundați-vă și relaxați-vă. Pentru a încheia ziua, o scurtă călătorie cu mașina vă duce la podgoriile din Villány, unde puteți încheia seara cu o degustare de vinuri roșii maghiare de primă clasă.",
+        "en": "With a car, you have the flexibility to start your day in nearby Siklós, exploring the imposing medieval castle. The morning is for history. After this journey back in time, drive the short distance to Harkány, park your car, and discover the center on foot. Stroll along the promenade and stop for an authentic lunch. The entire afternoon is reserved for the Harkány Spa – a must for every visitor. Dive in and relax. To top it all off, a short drive takes you to the Villány vineyards, where you can end the evening with a tasting of first-class Hungarian red wines."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Villányi Cabernet Franc",
+            "tip": "Der Star der Region, ein vollmundiger und komplexer Rotwein."
+          },
+          {
+            "name": "Pörkölt",
+            "tip": "Ein traditioneller ungarischer Eintopf, herzhaft und köstlich."
+          },
+          {
+            "name": "Käseplatte",
+            "tip": "Lokale Käsesorten passen perfekt zum Wein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Villányi Cabernet Franc",
+            "tip": "A régió sztárja, testes és összetett vörösbor."
+          },
+          {
+            "name": "Pörkölt",
+            "tip": "Hagyományos magyar egytálétel, kiadós és finom."
+          },
+          {
+            "name": "Sajttál",
+            "tip": "A helyi sajtok tökéletesen illenek a borhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cabernet Franc de Villány",
+            "tip": "Vedeta regiunii, un vin roșu corpolent și complex."
+          },
+          {
+            "name": "Pörkölt (tocăniță)",
+            "tip": "O tocană tradițională maghiară, consistentă și delicioasă."
+          },
+          {
+            "name": "Platou de brânzeturi",
+            "tip": "Brânzeturile locale se potrivesc perfect cu vinul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Villány Cabernet Franc",
+            "tip": "The star of the region, a full-bodied and complex red wine."
+          },
+          {
+            "name": "Pörkölt (Stew)",
+            "tip": "A traditional Hungarian stew, hearty and delicious."
+          },
+          {
+            "name": "Cheese Platter",
+            "tip": "Local cheeses pair perfectly with the wine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussicht vom Burgturm Siklós",
+            "tip": "Genießen Sie den Panoramablick über die Landschaft von Baranya.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Saunawelt im Heilbad",
+            "tip": "Ein ruhiger Bereich im Spa für maximale Entspannung.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sonnenuntergang in den Weinbergen",
+            "tip": "Finden Sie ein Weingut mit Terrasse und beobachten Sie den Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a siklósi vártoronyból",
+            "tip": "Élvezze a panorámás kilátást a baranyai tájra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szaunavilág a gyógyfürdőben",
+            "tip": "Csendes rész a fürdőben a maximális kikapcsolódásért.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Naplemente a szőlőültetvényeken",
+            "tip": "Keressen egy teraszos pincészetet, és nézze a naplementét.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere din turnul castelului Siklós",
+            "tip": "Bucurați-vă de vederea panoramică asupra peisajului din Baranya.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Lumea saunelor la băile termale",
+            "tip": "O zonă liniștită în spa pentru relaxare maximă.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Apus de soare în podgorii",
+            "tip": "Găsiți o cramă cu terasă și priviți apusul.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from Siklós Castle Tower",
+            "tip": "Enjoy the panoramic view over the Baranya landscape.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sauna World at the Spa",
+            "tip": "A quiet area in the spa for maximum relaxation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sunset in the vineyards",
+            "tip": "Find a winery with a terrace and watch the sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wein aus Villány",
+            "tip": "Kaufen Sie direkt vom Erzeuger, viele Weingüter haben Shops."
+          },
+          {
+            "name": "Burg-Souvenirs",
+            "tip": "Im Shop der Burg Siklós finden Sie mittelalterliche Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Villányi bor",
+            "tip": "Vásároljon közvetlenül a termelőtől, sok pincészetnek van boltja."
+          },
+          {
+            "name": "Vári ajándéktárgyak",
+            "tip": "A siklósi vár boltjában középkori ajándéktárgyakat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin de Villány",
+            "tip": "Cumpărați direct de la producător, multe crame au magazine."
+          },
+          {
+            "name": "Suveniruri de la castel",
+            "tip": "În magazinul castelului Siklós veți găsi suveniruri medievale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wine from Villány",
+            "tip": "Buy directly from the producer, many wineries have shops."
+          },
+          {
+            "name": "Castle Souvenirs",
+            "tip": "In the Siklós Castle shop you will find medieval souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten und -gebühren in Harkány im Voraus.",
+          "Planen Sie genügend Zeit für die Burg Siklós ein, es gibt viel zu sehen.",
+          "Bestimmen Sie einen Fahrer, wenn Sie eine Weinprobe in Villány planen.",
+          "Die Straßen zwischen den Orten sind gut ausgebaut."
+        ],
+        "hu": [
+          "Előre ellenőrizze a parkolási lehetőségeket és díjakat Harkányban.",
+          "Szánjon elegendő időt a siklósi várra, sok a látnivaló.",
+          "Jelöljön ki egy sofőrt, ha borkóstolót tervez Villányban.",
+          "A települések közötti utak jó állapotban vannak."
+        ],
+        "ro": [
+          "Verificați în prealabil opțiunile de parcare și taxele din Harkány.",
+          "Alocați suficient timp pentru Castelul Siklós, sunt multe de văzut.",
+          "Desemnați un șofer dacă planificați o degustare de vinuri în Villány.",
+          "Drumurile dintre localități sunt bine întreținute."
+        ],
+        "en": [
+          "Check parking options and fees in Harkány in advance.",
+          "Allow enough time for Siklós Castle, there is a lot to see.",
+          "Designate a driver if you are planning a wine tasting in Villány.",
+          "The roads between the towns are well-maintained."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 2.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Ankunft am Busbahnhof Harkány",
+            "hu": "Érkezés a harkányi buszpályaudvarra",
+            "ro": "Sosire la autogara Harkány",
+            "en": "Arrival at Harkány bus station"
+          },
+          "coords": [
+            18.239,
+            45.854
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Fernbus, z.B. von Pécs. Der Busbahnhof liegt zentral.",
+            "hu": "Érkezzen távolsági busszal, pl. Pécsről. A buszpályaudvar központi helyen van.",
+            "ro": "Luați un autobuz pe distanțe lungi, de exemplu, de la Pécs. Autogara este situată central.",
+            "en": "Take a long-distance bus, e.g., from Pécs. The bus station is centrally located."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Reformierte Kirche",
+            "hu": "Református templom",
+            "ro": "Biserica Reformată",
+            "en": "Reformed Church"
+          },
+          "coords": [
+            18.235,
+            45.852
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:28",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Busbahnhof zu Ihrem ersten Besichtigungspunkt.",
+            "hu": "Egy rövid séta a buszpályaudvartól az első látnivalóhoz.",
+            "ro": "O scurtă plimbare de la autogară la primul punct de vizitare.",
+            "en": "A short walk from the bus station to your first sightseeing spot."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Heimatmuseum Harkány",
+            "hu": "Harkányi Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie Locală Harkány",
+            "en": "Harkány Local History Museum"
+          },
+          "coords": [
+            18.2365,
+            45.8505
+          ],
+          "category": "museums",
+          "arrive_at": "09:59",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die lokale Geschichte, bevor Sie das Zentrum erkunden.",
+            "hu": "Tudjon meg többet a helyi történelemről, mielőtt felfedezné a központot.",
+            "ro": "Aflați despre istoria locală înainte de a explora centrul.",
+            "en": "Learn about the local history before exploring the center."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Harka-Brunnen",
+            "hu": "Harka-kút",
+            "ro": "Fântâna Harka",
+            "en": "Harka Well"
+          },
+          "coords": [
+            18.239,
+            45.85
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:05",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Herzstück des Stadtzentrums, ideal für ein Foto.",
+            "hu": "A városközpont szíve, ideális egy fotóhoz.",
+            "ro": "Inima centrului orașului, ideală pentru o fotografie.",
+            "en": "The heart of the city center, ideal for a photo."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            18.238,
+            45.85
+          ],
+          "category": "gastro",
+          "arrive_at": "11:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Wählen Sie ein Restaurant in der Nähe der Promenade.",
+            "hu": "Válasszon egy éttermet a sétány közelében.",
+            "ro": "Alegeți un restaurant lângă promenadă.",
+            "en": "Choose a restaurant near the promenade."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Zsigmondy-Promenade",
+            "hu": "Zsigmondy sétány",
+            "ro": "Promenada Zsigmondy",
+            "en": "Zsigmondy Promenade"
+          },
+          "coords": [
+            18.238,
+            45.848
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:50",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein verdauungsfördernder Spaziergang auf dem Weg zum Heilbad.",
+            "hu": "Egy emésztést segítő séta a gyógyfürdő felé vezető úton.",
+            "ro": "O plimbare digestivă în drum spre băile termale.",
+            "en": "A digestive walk on the way to the spa."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Harkányer Heilbad",
+            "hu": "Harkányi Gyógyfürdő",
+            "ro": "Băile Termale Harkány",
+            "en": "Harkány Spa"
+          },
+          "coords": [
+            18.237,
+            45.846
+          ],
+          "category": "natural features",
+          "arrive_at": "13:20",
+          "stay_min": 240,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Der Höhepunkt des Tages, nehmen Sie sich Zeit, alle Becken zu genießen.",
+            "hu": "A nap fénypontja, szánjon időt az összes medence élvezetére.",
+            "ro": "Punctul culminant al zilei, acordați-vă timp să vă bucurați de toate piscinele.",
+            "en": "The highlight of the day, take your time to enjoy all the pools."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Harkány ist bequem mit dem Bus erreichbar. Nach Ihrer Ankunft am zentralen Busbahnhof beginnen Sie den Tag mit einem kurzen Spaziergang zu den kulturellen Sehenswürdigkeiten. Der Vormittag führt Sie von der Kirche zum Museum und in das lebhafte Zentrum. Da alles kompakt beieinander liegt, ist der gesamte Stadtkern ein einziger, angenehmer Spaziergang. Nach einem Mittagessen in einem der vielen gemütlichen Restaurants machen Sie sich auf den Weg zur Hauptattraktion, dem Heilbad. Der gesamte Nachmittag ist der puren Entspannung im weltberühmten Heilwasser gewidmet. Am späten Nachmittag, erfrischt und erholt, spazieren Sie zurück zum Busbahnhof für Ihre Rückreise.",
+        "hu": "Harkány kényelmesen megközelíthető busszal. Miután megérkezett a központi buszpályaudvarra, kezdje a napot egy rövid sétával a kulturális látnivalókhoz. A délelőtt a templomtól a múzeumig és a nyüzsgő központig vezet. Mivel minden kompakt, az egész városközpont egyetlen kellemes séta. Egy hangulatos étteremben elfogyasztott ebéd után induljon el a fő attrakció, a gyógyfürdő felé. Az egész délutánt a világhírű gyógyvízben való tiszta pihenésnek szenteljük. Késő délután, felfrissülve és kipihenve, sétáljon vissza a buszpályaudvarra a hazautazáshoz.",
+        "ro": "Harkány este ușor accesibil cu autobuzul. După sosirea la autogara centrală, începeți ziua cu o scurtă plimbare către obiectivele culturale. Dimineața vă duce de la biserică la muzeu și în centrul plin de viață. Deoarece totul este compact, întregul centru al orașului este o singură plimbare plăcută. După prânz la unul dintre multele restaurante confortabile, îndreptați-vă spre atracția principală, băile termale. Întreaga după-amiază este dedicată relaxării pure în faimoasa apă termală. Spre sfârșitul după-amiezii, înviorat și odihnit, vă întoarceți la autogară pentru călătoria de întoarcere.",
+        "en": "Harkány is easily accessible by bus. After arriving at the central bus station, start your day with a short walk to the cultural sights. The morning takes you from the church to the museum and into the lively center. As everything is compact, the entire city center is one pleasant walk. After lunch at one of the many cozy restaurants, head to the main attraction, the spa. The entire afternoon is dedicated to pure relaxation in the world-famous thermal water. In the late afternoon, refreshed and rested, you'll walk back to the bus station for your return journey."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Somlói Galuska",
+            "tip": "Ein klassisches ungarisches Dessert aus Biskuit, Schokoladensoße und Schlagsahne."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Probieren Sie ein Bier von einer der nahegelegenen Brauereien."
+          },
+          {
+            "name": "Tagesmenü",
+            "tip": "Viele Restaurants bieten mittags günstige 2- oder 3-Gänge-Menüs an."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Somlói galuska",
+            "tip": "Klasszikus magyar desszert piskótából, csokoládéöntettel és tejszínhabbal."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Kóstoljon meg egy sört a közeli sörfőzdék egyikéből."
+          },
+          {
+            "name": "Napi menü",
+            "tip": "Sok étterem kínál délben kedvező árú 2 vagy 3 fogásos menüt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Găluște Somlói",
+            "tip": "Un desert clasic maghiar făcut din pandișpan, sos de ciocolată și frișcă."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "Încercați o bere de la una dintre berăriile din apropiere."
+          },
+          {
+            "name": "Meniul zilei",
+            "tip": "Multe restaurante oferă meniuri de prânz cu 2 sau 3 feluri la prețuri avantajoase."
+          }
+        ],
+        "en": [
+          {
+            "name": "Somlói Galuska (Somló-style Sponge Cake)",
+            "tip": "A classic Hungarian dessert made of sponge cake, chocolate sauce, and whipped cream."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Try a beer from one of the nearby breweries."
+          },
+          {
+            "name": "Daily Menu",
+            "tip": "Many restaurants offer affordable 2 or 3-course lunch menus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Heilbad Park",
+            "tip": "Finden Sie eine ruhige Bank im weitläufigen Park des Heilbades.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Garten der Reformierten Kirche",
+            "tip": "Ein kleiner, friedlicher Ort abseits der Hauptwege.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ruhebecken im Spa",
+            "tip": "Suchen Sie nach den speziellen Ruhezonen innerhalb des Badkomplexes.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyógyfürdő parkja",
+            "tip": "Keressen egy csendes padot a gyógyfürdő tágas parkjában.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Református templom kertje",
+            "tip": "Egy kicsi, békés hely a fő utaktól távol.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Csendes medencék a fürdőben",
+            "tip": "Keresse a különleges csendes zónákat a fürdőkomplexumon belül.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul balnear",
+            "tip": "Găsiți o bancă liniștită în parcul extins al băilor.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Bisericii Reformate",
+            "tip": "Un loc mic și liniștit, departe de căile principale.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Piscine liniștite la spa",
+            "tip": "Căutați zonele speciale de liniște din complexul balnear.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Spa Park",
+            "tip": "Find a quiet bench in the spa's expansive park.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Reformed Church Garden",
+            "tip": "A small, peaceful spot away from the main paths.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Quiet pools at the spa",
+            "tip": "Look for the special quiet zones within the spa complex.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Paprika",
+            "tip": "Kaufen Sie authentisches ungarisches Paprikapulver als Souvenir."
+          },
+          {
+            "name": "Heilwasser-Produkte",
+            "tip": "Cremes und Seifen, die auf dem einzigartigen Wasser von Harkány basieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fűszerpaprika",
+            "tip": "Vásároljon autentikus magyar fűszerpaprika-őrleményt ajándékba."
+          },
+          {
+            "name": "Gyógyvizes termékek",
+            "tip": "Krémek és szappanok, amelyek a Harkány egyedülálló vizén alapulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boia de ardei",
+            "tip": "Cumpărați pudră de boia de ardei maghiară autentică ca suvenir."
+          },
+          {
+            "name": "Produse cu apă termală",
+            "tip": "Creme și săpunuri bazate pe apa unică din Harkány."
+          }
+        ],
+        "en": [
+          {
+            "name": "Paprika",
+            "tip": "Buy authentic Hungarian paprika powder as a souvenir."
+          },
+          {
+            "name": "Thermal Water Products",
+            "tip": "Creams and soaps based on the unique water of Harkány."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Busfahrpläne im Voraus, insbesondere für die Rückfahrt.",
+          "Die meisten Sehenswürdigkeiten in Harkány sind vom Busbahnhof aus leicht zu Fuß erreichbar.",
+          "Nehmen Sie Kleingeld für Bustickets mit, falls Sie einen lokalen Bus nutzen möchten.",
+          "Ein Tagesausflug von Pécs aus ist sehr gut machbar."
+        ],
+        "hu": [
+          "Előre ellenőrizze a buszmenetrendet, különösen a visszaútra.",
+          "Harkány legtöbb látnivalója könnyen megközelíthető gyalog a buszpályaudvartól.",
+          "Vigyen magával aprópénzt buszjegyekre, ha helyi buszt szeretne használni.",
+          "Egy napos kirándulás Pécsről nagyon is megvalósítható."
+        ],
+        "ro": [
+          "Verificați în prealabil orarele autobuzelor, în special pentru călătoria de întoarcere.",
+          "Majoritatea atracțiilor din Harkány sunt ușor accesibile pe jos de la autogară.",
+          "Luați cu dvs. mărunțiș pentru biletele de autobuz dacă doriți să utilizați un autobuz local.",
+          "O excursie de o zi de la Pécs este foarte fezabilă."
+        ],
+        "en": [
+          "Check the bus schedules in advance, especially for the return trip.",
+          "Most sights in Harkány are easily accessible on foot from the bus station.",
+          "Bring small change for bus tickets if you want to use a local bus.",
+          "A day trip from Pécs is very feasible."
+        ]
+      }
+    }
+  }
+}

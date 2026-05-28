@@ -1,0 +1,1492 @@
+{
+  "city_id": "bekescsaba",
+  "anchor": {
+    "name": "Békéscsaba City Center",
+    "coords": [
+      21.0978,
+      46.6797
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus und Szent István Platz",
+            "hu": "Városháza és Szent István tér",
+            "ro": "Primăria și Piața Sfântul Ștefan",
+            "en": "City Hall and St. Stephen's Square"
+          },
+          "coords": [
+            21.0945,
+            46.6758
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur von Ybl Miklós und die Atmosphäre des Hauptplatzes.",
+            "hu": "Csodálja meg Ybl Miklós építészetét és szívja magába a főtér hangulatát.",
+            "ro": "Admirați arhitectura lui Miklós Ybl și atmosfera pieței principale.",
+            "en": "Admire the architecture by Miklós Ybl and soak in the main square's atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Große Evangelische Kirche",
+            "hu": "Evangélikus Nagytemplom",
+            "ro": "Marea Biserică Evanghelică",
+            "en": "Great Lutheran Church"
+          },
+          "coords": [
+            21.0928,
+            46.677
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dies ist die größte evangelische Kirche in Mitteleuropa. Die Akustik ist unglaublich.",
+            "hu": "Ez Közép-Európa legnagyobb evangélikus temploma. Az akusztikája lenyűgöző.",
+            "ro": "Este cea mai mare biserică luterană din Europa Centrală. Acustica este incredibilă.",
+            "en": "This is the largest Lutheran church in Central Europe. The acoustics are incredible."
+          }
+        },
+        {
+          "name": {
+            "de": "Jókai-Theater",
+            "hu": "Jókai Színház",
+            "ro": "Teatrul Jókai",
+            "en": "Jókai Theatre"
+          },
+          "coords": [
+            21.0962,
+            46.6785
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:38",
+          "stay_min": 20,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Überprüfen Sie den Spielplan für eine Abendvorstellung, das Gebäude ist auch nachts wunderschön.",
+            "hu": "Nézze meg az esti műsort, az épület éjjel is gyönyörűen kivilágítva.",
+            "ro": "Verificați programul pentru un spectacol de seară; clădirea este superbă și noaptea.",
+            "en": "Check the schedule for an evening performance; the building is beautiful at night, too."
+          }
+        },
+        {
+          "name": {
+            "de": "Munkácsy-Museum",
+            "hu": "Munkácsy Mihály Múzeum",
+            "ro": "Muzeul Mihály Munkácsy",
+            "en": "Mihály Munkácsy Museum"
+          },
+          "coords": [
+            21.0991,
+            46.6805
+          ],
+          "category": "museums",
+          "arrive_at": "11:04",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die größte Sammlung von Munkácsy-Gemälden weltweit. Ein Muss für Kunstliebhaber.",
+            "hu": "A világ legnagyobb Munkácsy-gyűjteménye. Kötelező a művészetkedvelőknek.",
+            "ro": "Cea mai mare colecție de picturi Munkácsy din lume. O vizită obligatorie pentru iubitorii de artă.",
+            "en": "The world's largest collection of Munkácsy paintings. A must-see for art lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "Munkácsy-Gedenkhaus",
+            "hu": "Munkácsy Emlékház",
+            "ro": "Casa Memorială Munkácsy",
+            "en": "Munkácsy Memorial House"
+          },
+          "coords": [
+            21.108,
+            46.679
+          ],
+          "category": "museums",
+          "arrive_at": "13:22",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Sehen Sie, wo der Meister lebte. Es bietet einen intimen Einblick in sein Leben.",
+            "hu": "Nézze meg, hol élt a mester. Intim betekintést nyújt az életébe.",
+            "ro": "Vedeți unde a trăit maestrul. Oferă o privire intimă în viața sa.",
+            "en": "See where the master lived. It offers an intimate glimpse into his life."
+          }
+        },
+        {
+          "name": {
+            "de": "Árpád-Bad",
+            "hu": "Árpád Gyógy- és Strandfürdő",
+            "ro": "Băile Termale și Ștrandul Árpád",
+            "en": "Árpád Thermal and Lido Baths"
+          },
+          "coords": [
+            21.0845,
+            46.6845
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:58",
+          "stay_min": 90,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im Thermalwasser nach einem langen Spaziergang. Perfekt zur Erholung.",
+            "hu": "Pihenjen a gyógyvízben a hosszú séta után. Tökéletes kikapcsolódás.",
+            "ro": "Relaxați-vă în apa termală după o plimbare lungă. Perfect pentru recuperare.",
+            "en": "Relax in the thermal water after a long walk. Perfect for recovery."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Antonius-Kirche und Kapelle",
+            "hu": "Páduai Szent Antal-társszékesegyház",
+            "ro": "Catedrala Sfântul Anton de Padova",
+            "en": "St. Anthony of Padua Co-Cathedral"
+          },
+          "coords": [
+            21.0908,
+            46.6722
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eine wunderschöne katholische Kirche als Kontrast zur evangelischen Hauptkirche.",
+            "hu": "Egy gyönyörű katolikus templom, kontrasztként az evangélikus főtemplommal.",
+            "ro": "O frumoasă biserică catolică, în contrast cu principala biserică luterană.",
+            "en": "A beautiful Catholic church providing a contrast to the main Lutheran one."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Békéscsaba auf dem Szent István Platz und bewundern Sie das Rathaus. Ein kurzer Spaziergang führt Sie zur monumentalen Großen Evangelischen Kirche. Nach der Erkundung des kulturellen Lebens im Jókai-Theater tauchen Sie tief in die Welt des berühmtesten Sohnes der Stadt im Munkácsy-Museum und Gedenkhaus ein. Am Nachmittag entspannen Sie Ihre müden Füße im heilenden Wasser des Árpád-Bades. Beenden Sie Ihren Tag mit einem Moment der stillen Besinnung in der St.-Antonius-Kirche, bevor Sie sich auf die Suche nach der berühmten Csaba-Wurst machen.",
+        "hu": "Kezdje a napot Békéscsaba szívében, a Szent István téren, megcsodálva a Városházát. Egy rövid séta elvezeti a monumentális Evangélikus Nagytemplomhoz. A Jókai Színházban a kulturális élet felfedezése után merüljön el a város leghíresebb szülöttének világában a Munkácsy Múzeumban és Emlékházban. Délután pihentesse meg fáradt lábait az Árpád Fürdő gyógyvizében. Zárja a napot egy csendes elmélkedéssel a Szent Antal-templomban, mielőtt a híres csabai kolbász nyomába ered.",
+        "ro": "Începeți ziua în inima orașului Békéscsaba, în Piața Sfântul Ștefan, admirând Primăria. O scurtă plimbare vă duce la monumentala Mare Biserică Evanghelică. După ce explorați viața culturală la Teatrul Jókai, pătrundeți adânc în lumea celui mai faimos fiu al orașului la Muzeul și Casa Memorială Munkácsy. După-amiaza, relaxați-vă picioarele obosite în apele vindecătoare ale Băilor Árpád. Încheiați ziua cu un moment de reflecție liniștită la Biserica Sfântul Anton, înainte de a porni în căutarea faimosului cârnat Csabai.",
+        "en": "Start your day in the heart of Békéscsaba at St. Stephen's Square, admiring the City Hall. A short walk takes you to the monumental Great Lutheran Church. After exploring cultural life at the Jókai Theatre, delve deep into the world of the city's most famous son at the Munkácsy Museum and Memorial House. In the afternoon, relax your tired feet in the healing waters of the Árpád Baths. End your day with a moment of quiet reflection at St. Anthony's Church before heading off to find some famous Csabai sausage."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Csabai Wurst (Kolbász)",
+            "tip": "Probieren Sie sie auf dem örtlichen Markt oder in einer traditionellen Metzgerei. Ein Muss!"
+          },
+          {
+            "name": "Svejk Restaurant",
+            "tip": "Ein beliebter Ort für herzhafte ungarische Gerichte in einer gemütlichen Atmosphäre."
+          },
+          {
+            "name": "Halászcsárda",
+            "tip": "Ideal für Fischsuppe (Halászlé), direkt am Élővíz-Kanal gelegen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csabai kolbász",
+            "tip": "Kóstolja meg a helyi piacon vagy egy hagyományos hentesnél. Kötelező!"
+          },
+          {
+            "name": "Svejk Vendéglő",
+            "tip": "Népszerű hely a kiadós magyaros ételekért, hangulatos környezetben."
+          },
+          {
+            "name": "Halászcsárda",
+            "tip": "Ideális halászléhez, közvetlenül az Élővíz-csatorna partján."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cârnat de Csaba (Kolbász)",
+            "tip": "Gustați-l în piața locală sau la o măcelărie tradițională. Este obligatoriu!"
+          },
+          {
+            "name": "Restaurantul Svejk",
+            "tip": "Un loc popular pentru mâncăruri maghiare consistente într-o atmosferă primitoare."
+          },
+          {
+            "name": "Halászcsárda (Hanul Pescarului)",
+            "tip": "Ideal pentru ciorbă de pește (halászlé), situat chiar pe malul canalului Élővíz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Csabai Sausage (Kolbász)",
+            "tip": "Try it at the local market or a traditional butcher shop. It's a must-try!"
+          },
+          {
+            "name": "Svejk Restaurant",
+            "tip": "A popular spot for hearty Hungarian dishes in a cozy atmosphere."
+          },
+          {
+            "name": "Halászcsárda (Fishermen's Inn)",
+            "tip": "Great for fish soup (halászlé), located right on the Élővíz Canal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Élővíz-Kanals",
+            "tip": "Ein friedlicher Spaziergang entlang des Wassers, das durch die Stadt fließt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Árpád-Bad Park",
+            "tip": "Der Park rund um das Bad ist ein ruhiger Ort zum Entspannen im Schatten der Bäume.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Széchenyi-Hain",
+            "tip": "Ein kleiner Stadtpark, ideal für eine kurze Pause.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Élővíz-csatorna partja",
+            "tip": "Békés séta a városon átfolyó víz mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Árpád Fürdő parkja",
+            "tip": "A fürdő körüli park csendes hely a fák árnyékában való pihenésre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Széchenyi liget",
+            "tip": "Egy kisebb városi park, ideális egy rövid szünetre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Canalului Élővíz",
+            "tip": "O plimbare liniștită de-a lungul apei care traversează orașul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Băilor Árpád",
+            "tip": "Parcul din jurul băilor este un loc liniștit pentru a te relaxa la umbra copacilor.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Széchenyi",
+            "tip": "Un parc urban mai mic, perfect pentru o pauză scurtă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Élővíz Canal Bank",
+            "tip": "A peaceful stroll along the water that flows through the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Árpád Baths Park",
+            "tip": "The park surrounding the baths is a quiet place to relax under the shade of trees.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Széchenyi Grove",
+            "tip": "A smaller city park perfect for a short break.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stadtmarkt",
+            "tip": "Der beste Ort, um authentische Csaba-Wurst und andere lokale Produkte zu kaufen."
+          },
+          {
+            "name": "Csabai Kolbászház",
+            "tip": "Ein Spezialitätengeschäft, das sich der berühmten Wurst widmet. Tolle Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi Piac",
+            "tip": "A legjobb hely autentikus csabai kolbász és más helyi termékek vásárlására."
+          },
+          {
+            "name": "Csabai Kolbászház",
+            "tip": "A híres kolbásznak szentelt szaküzlet. Nagyszerű ajándéktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Orașului",
+            "tip": "Cel mai bun loc pentru a cumpăra cârnat Csabai autentic și alte produse locale."
+          },
+          {
+            "name": "Casa Cârnatului de Csaba",
+            "tip": "Un magazin specializat dedicat faimosului cârnat. Suveniruri excelente."
+          }
+        ],
+        "en": [
+          {
+            "name": "City Market",
+            "tip": "The best place to buy authentic Csabai sausage and other local produce."
+          },
+          {
+            "name": "Csabai Sausage House",
+            "tip": "A specialty shop dedicated to the famous sausage. Great for souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie das gesamte Stadtzentrum zu Fuß erkunden werden.",
+          "Nehmen Sie Badekleidung mit, wenn Sie vorhaben, im Árpád-Bad zu entspannen.",
+          "Überprüfen Sie die Öffnungszeiten der Museen, insbesondere des Gedenkhauses, da diese variieren können."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az egész belvárost gyalog fogja bejárni.",
+          "Hozzon magával fürdőruhát, ha tervezi, hogy pihen az Árpád Fürdőben.",
+          "Ellenőrizze a múzeumok nyitvatartási idejét, különösen az Emlékházét, mert az változó lehet."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți explora întregul centru al orașului pe jos.",
+          "Luați un costum de baie dacă plănuiți să vă relaxați la Băile Árpád.",
+          "Verificați orele de deschidere ale muzeelor, în special ale Casei Memoriale, deoarece acestea pot varia."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be exploring the entire city center on foot.",
+          "Bring a swimsuit if you plan to relax at the Árpád Baths.",
+          "Check the opening hours of the museums, especially the Memorial House, as they can vary."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 8.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus und Szent István Platz",
+            "hu": "Városháza és Szent István tér",
+            "ro": "Primăria și Piața Sfântul Ștefan",
+            "en": "City Hall and St. Stephen's Square"
+          },
+          "coords": [
+            21.0945,
+            46.6758
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und genießen Sie einen Kaffee auf dem Hauptplatz, um Ihren Tag zu beginnen.",
+            "hu": "Zárja le a biciklit és élvezzen egy kávét a főtéren a nap indításaként.",
+            "ro": "Încuiați-vă bicicleta și savurați o cafea în piața principală pentru a începe ziua.",
+            "en": "Lock up your bike and enjoy a coffee in the main square to start your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Große Evangelische Kirche",
+            "hu": "Evangélikus Nagytemplom",
+            "ro": "Marea Biserică Evanghelică",
+            "en": "Great Lutheran Church"
+          },
+          "coords": [
+            21.0928,
+            46.677
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Sie können Ihr Fahrrad leicht in der Nähe abstellen. Der Anblick des Turms ist beeindruckend.",
+            "hu": "Könnyen le tudja tenni a biciklit a közelben. A torony látványa lenyűgöző.",
+            "ro": "Puteți parca bicicleta cu ușurință în apropiere. Priveliștea turnului este impresionantă.",
+            "en": "You can easily park your bike nearby. The sight of the tower is impressive."
+          }
+        },
+        {
+          "name": {
+            "de": "Jókai-Theater",
+            "hu": "Jókai Színház",
+            "ro": "Teatrul Jókai",
+            "en": "Jókai Theatre"
+          },
+          "coords": [
+            21.0962,
+            46.6785
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:20",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um das wunderschöne Gebäude im neobarocken Stil zu bewundern.",
+            "hu": "Egy gyors megálló, hogy megcsodálhassa a gyönyörű neobarokk épületet.",
+            "ro": "O oprire scurtă pentru a admira frumoasa clădire în stil neo-baroc.",
+            "en": "A quick stop to admire the beautiful neo-baroque building."
+          }
+        },
+        {
+          "name": {
+            "de": "Munkácsy-Museum",
+            "hu": "Munkácsy Mihály Múzeum",
+            "ro": "Muzeul Mihály Munkácsy",
+            "en": "Mihály Munkácsy Museum"
+          },
+          "coords": [
+            21.0991,
+            46.6805
+          ],
+          "category": "museums",
+          "arrive_at": "10:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit für die Kunstsammlung ein, es lohnt sich.",
+            "hu": "Szánjon elég időt a művészeti gyűjteményre, megéri.",
+            "ro": "Planificați suficient timp pentru colecția de artă, merită.",
+            "en": "Plan enough time for the art collection, it's worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Munkácsy-Gedenkhaus",
+            "hu": "Munkácsy Emlékház",
+            "ro": "Casa Memorială Munkácsy",
+            "en": "Munkácsy Memorial House"
+          },
+          "coords": [
+            21.108,
+            46.679
+          ],
+          "category": "museums",
+          "arrive_at": "12:23",
+          "stay_min": 50,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine kurze Radtour vom Museum entfernt, um die Geschichte des Künstlers zu vervollständigen.",
+            "hu": "Egy rövid bicikliút a múzeumtól, hogy teljes legyen a művész története.",
+            "ro": "O scurtă plimbare cu bicicleta de la muzeu pentru a completa povestea artistului.",
+            "en": "A short bike ride from the museum to complete the artist's story."
+          }
+        },
+        {
+          "name": {
+            "de": "István-Mühle",
+            "hu": "István-malom",
+            "ro": "Moara István",
+            "en": "István Mill"
+          },
+          "coords": [
+            21.11,
+            46.67
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:22",
+          "stay_min": 30,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein interessanter Einblick in das industrielle Erbe der Region. Ein einzigartiger Fotostopp.",
+            "hu": "Érdekes betekintés a régió ipari örökségébe. Egyedi fotómegálló.",
+            "ro": "O perspectivă interesantă asupra patrimoniului industrial al regiunii. O oprire foto unică.",
+            "en": "An interesting look into the region's industrial heritage. A unique photo stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Árpád-Bad",
+            "hu": "Árpád Gyógy- és Strandfürdő",
+            "ro": "Băile Termale și Ștrandul Árpád",
+            "en": "Árpád Thermal and Lido Baths"
+          },
+          "coords": [
+            21.0845,
+            46.6845
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die perfekte Belohnung nach einer Radtour. Schließen Sie Ihr Fahrrad sicher ab und genießen Sie das Wasser.",
+            "hu": "Tökéletes jutalom a biciklizés után. Zárja le biztonságosan a kerékpárt és élvezze a vizet.",
+            "ro": "Recompensa perfectă după o plimbare cu bicicleta. Asigurați-vă bicicleta și bucurați-vă de apă.",
+            "en": "The perfect reward after a bike ride. Lock your bike securely and enjoy the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Élővíz-Kanal",
+            "hu": "Séta az Élővíz-csatorna partján",
+            "ro": "Plimbare pe malul canalului Élővíz",
+            "en": "Stroll along the Élővíz Canal"
+          },
+          "coords": [
+            21.09,
+            46.674
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einer entspannten Fahrt entlang des malerischen Kanals.",
+            "hu": "Fejezze be a kerékpártúrát egy pihentető tekeréssel a festői csatorna mentén.",
+            "ro": "Încheiați turul cu bicicleta cu o plimbare relaxantă de-a lungul canalului pitoresc.",
+            "en": "End your bike tour with a relaxing ride along the scenic canal."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Rad und starten Sie am Szent István Platz, dem pulsierenden Zentrum der Stadt. Radeln Sie zur beeindruckenden Großen Evangelischen Kirche und weiter zum eleganten Jókai-Theater. Der Vormittag ist der Kunst gewidmet, mit Besuchen im Munkácsy-Museum und dem etwas weiter entfernten Gedenkhaus. Am Nachmittag entdecken Sie das industrielle Erbe der Stadt bei der István-Mühle, bevor Sie sich im Árpád-Bad eine wohlverdiente, ausgiebige Pause gönnen. Die Tour endet mit einer gemütlichen Fahrt entlang des friedlichen Élővíz-Kanals.",
+        "hu": "Pattanjon biciklire, és induljon a Szent István térről, a város lüktető központjából. Tekerjen el a lenyűgöző Evangélikus Nagytemplomhoz, majd tovább az elegáns Jókai Színházhoz. A délelőtt a művészeté, látogatást tesz a Munkácsy Múzeumban és a kissé távolabb eső Emlékházban. Délután fedezze fel a város ipari örökségét az István-malomnál, mielőtt egy jól megérdemelt, hosszú szünetet tartana az Árpád Fürdőben. A túra egy kellemes tekeréssel zárul a békés Élővíz-csatorna mentén.",
+        "ro": "Urcați-vă pe bicicletă și porniți din Piața Sfântul Ștefan, centrul vibrant al orașului. Pedalați până la impresionanta Mare Biserică Evanghelică și apoi la elegantul Teatru Jókai. Dimineața este dedicată artei, cu vizite la Muzeul Munkácsy și la Casa Memorială, aflată puțin mai departe. După-amiaza, descoperiți moștenirea industrială a orașului la Moara István, înainte de a vă oferi o pauză lungă și binemeritată la Băile Árpád. Turul se încheie cu o plimbare relaxantă de-a lungul liniștitului canal Élővíz.",
+        "en": "Hop on your bike and start at St. Stephen's Square, the city's vibrant hub. Pedal to the impressive Great Lutheran Church and on to the elegant Jókai Theatre. The morning is dedicated to art, with visits to the Munkácsy Museum and the slightly more distant Memorial House. In the afternoon, discover the city's industrial heritage at the István Mill before treating yourself to a well-deserved, long break at the Árpád Baths. The tour concludes with a gentle ride along the peaceful Élővíz Canal."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Csabai Wurst (Kolbász)",
+            "tip": "Probieren Sie sie auf dem örtlichen Markt oder in einer traditionellen Metzgerei. Ein Muss!"
+          },
+          {
+            "name": "Svejk Restaurant",
+            "tip": "Ein beliebter Ort für herzhafte ungarische Gerichte in einer gemütlichen Atmosphäre."
+          },
+          {
+            "name": "Halászcsárda",
+            "tip": "Ideal für Fischsuppe (Halászlé), direkt am Élővíz-Kanal gelegen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csabai kolbász",
+            "tip": "Kóstolja meg a helyi piacon vagy egy hagyományos hentesnél. Kötelező!"
+          },
+          {
+            "name": "Svejk Vendéglő",
+            "tip": "Népszerű hely a kiadós magyaros ételekért, hangulatos környezetben."
+          },
+          {
+            "name": "Halászcsárda",
+            "tip": "Ideális halászléhez, közvetlenül az Élővíz-csatorna partján."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cârnat de Csaba (Kolbász)",
+            "tip": "Gustați-l în piața locală sau la o măcelărie tradițională. Este obligatoriu!"
+          },
+          {
+            "name": "Restaurantul Svejk",
+            "tip": "Un loc popular pentru mâncăruri maghiare consistente într-o atmosferă primitoare."
+          },
+          {
+            "name": "Halászcsárda (Hanul Pescarului)",
+            "tip": "Ideal pentru ciorbă de pește (halászlé), situat chiar pe malul canalului Élővíz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Csabai Sausage (Kolbász)",
+            "tip": "Try it at the local market or a traditional butcher shop. It's a must-try!"
+          },
+          {
+            "name": "Svejk Restaurant",
+            "tip": "A popular spot for hearty Hungarian dishes in a cozy atmosphere."
+          },
+          {
+            "name": "Halászcsárda (Fishermen's Inn)",
+            "tip": "Great for fish soup (halászlé), located right on the Élővíz Canal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Élővíz-Kanals",
+            "tip": "Ein friedlicher Spaziergang entlang des Wassers, das durch die Stadt fließt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Árpád-Bad Park",
+            "tip": "Der Park rund um das Bad ist ein ruhiger Ort zum Entspannen im Schatten der Bäume.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Széchenyi-Hain",
+            "tip": "Ein kleiner Stadtpark, ideal für eine kurze Pause.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Élővíz-csatorna partja",
+            "tip": "Békés séta a városon átfolyó víz mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Árpád Fürdő parkja",
+            "tip": "A fürdő körüli park csendes hely a fák árnyékában való pihenésre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Széchenyi liget",
+            "tip": "Egy kisebb városi park, ideális egy rövid szünetre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Canalului Élővíz",
+            "tip": "O plimbare liniștită de-a lungul apei care traversează orașul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Băilor Árpád",
+            "tip": "Parcul din jurul băilor este un loc liniștit pentru a te relaxa la umbra copacilor.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Széchenyi",
+            "tip": "Un parc urban mai mic, perfect pentru o pauză scurtă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Élővíz Canal Bank",
+            "tip": "A peaceful stroll along the water that flows through the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Árpád Baths Park",
+            "tip": "The park surrounding the baths is a quiet place to relax under the shade of trees.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Széchenyi Grove",
+            "tip": "A smaller city park perfect for a short break.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stadtmarkt",
+            "tip": "Der beste Ort, um authentische Csaba-Wurst und andere lokale Produkte zu kaufen."
+          },
+          {
+            "name": "Csabai Kolbászház",
+            "tip": "Ein Spezialitätengeschäft, das sich der berühmten Wurst widmet. Tolle Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi Piac",
+            "tip": "A legjobb hely autentikus csabai kolbász és más helyi termékek vásárlására."
+          },
+          {
+            "name": "Csabai Kolbászház",
+            "tip": "A híres kolbásznak szentelt szaküzlet. Nagyszerű ajándéktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Orașului",
+            "tip": "Cel mai bun loc pentru a cumpăra cârnat Csabai autentic și alte produse locale."
+          },
+          {
+            "name": "Casa Cârnatului de Csaba",
+            "tip": "Un magazin specializat dedicat faimosului cârnat. Suveniruri excelente."
+          }
+        ],
+        "en": [
+          {
+            "name": "City Market",
+            "tip": "The best place to buy authentic Csabai sausage and other local produce."
+          },
+          {
+            "name": "Csabai Sausage House",
+            "tip": "A specialty shop dedicated to the famous sausage. Great for souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Békéscsaba ist ziemlich flach und daher ideal zum Radfahren.",
+          "Nehmen Sie ein gutes Schloss mit, um Ihr Fahrrad an den Sehenswürdigkeiten sicher abzustellen.",
+          "Viele Wege, besonders entlang des Kanals, sind fahrradfreundlich."
+        ],
+        "hu": [
+          "Békéscsaba meglehetősen sík, így ideális a kerékpározáshoz.",
+          "Hozzon magával egy jó lakatot, hogy biztonságban lezárhassa a kerékpárt a látnivalóknál.",
+          "Sok út, különösen a csatorna mentén, kerékpárbarát."
+        ],
+        "ro": [
+          "Békéscsaba este destul de plat, ceea ce îl face ideal pentru ciclism.",
+          "Aduceți un lacăt bun pentru a vă asigura bicicleta la atracții.",
+          "Multe căi, în special de-a lungul canalului, sunt prietenoase cu bicicletele."
+        ],
+        "en": [
+          "Békéscsaba is quite flat, making it ideal for cycling.",
+          "Bring a good lock to secure your bike at the attractions.",
+          "Many paths, especially along the canal, are bike-friendly."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 10.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Munkácsy-Viertel",
+            "hu": "Parkoló a Munkácsy negyednél",
+            "ro": "Parcare în Cartierul Munkácsy",
+            "en": "Parking at Munkácsy Quarter"
+          },
+          "coords": [
+            21.109,
+            46.68
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie die Munkácsy-Gedenkstätten und das Industrieerbe zu Fuß.",
+            "hu": "Parkoljon le itt, és fedezze fel gyalog a Munkácsy emlékhelyeket és az ipari örökséget.",
+            "ro": "Parcați aici și explorați pe jos siturile memoriale Munkácsy și patrimoniul industrial.",
+            "en": "Park here and explore the Munkácsy memorial sites and industrial heritage on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Munkácsy-Gedenkhaus",
+            "hu": "Munkácsy Emlékház",
+            "ro": "Casa Memorială Munkácsy",
+            "en": "Munkácsy Memorial House"
+          },
+          "coords": [
+            21.108,
+            46.679
+          ],
+          "category": "museums",
+          "arrive_at": "09:12",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der erste Halt in Ihrem Munkácsy-Themencluster.",
+            "hu": "Az első megálló a Munkácsy-tematikus klaszterben.",
+            "ro": "Prima oprire în clusterul tematic Munkácsy.",
+            "en": "The first stop in your Munkácsy-themed cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "István-Mühle",
+            "hu": "István-malom",
+            "ro": "Moara István",
+            "en": "István Mill"
+          },
+          "coords": [
+            21.11,
+            46.67
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Gedenkhaus zum industriellen Erbe.",
+            "hu": "Egy rövid séta az Emlékháztól az ipari örökséghez.",
+            "ro": "O scurtă plimbare de la Casa Memorială la patrimoniul industrial.",
+            "en": "A short walk from the Memorial House to see the industrial heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz im Stadtzentrum",
+            "hu": "Parkoló a belvárosban",
+            "ro": "Parcare în centrul orașului",
+            "en": "City Center Parking"
+          },
+          "coords": [
+            21.093,
+            46.678
+          ],
+          "category": "transport",
+          "arrive_at": "11:22",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Zentrum, parken Sie erneut und erkunden Sie den Hauptplatz und die Kirchen zu Fuß.",
+            "hu": "Vezessen a központba, parkoljon le újra, és fedezze fel gyalog a főteret és a templomokat.",
+            "ro": "Conduceți spre centru, parcați din nou și explorați pe jos piața principală și bisericile.",
+            "en": "Drive to the center, park again, and explore the main square and churches on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Große Evangelische Kirche und Rathaus",
+            "hu": "Evangélikus Nagytemplom és Városháza",
+            "ro": "Marea Biserică Evanghelică și Primăria",
+            "en": "Great Lutheran Church and City Hall"
+          },
+          "coords": [
+            21.0935,
+            46.6765
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die beiden Hauptsehenswürdigkeiten des Platzes in einem Rundgang.",
+            "hu": "Fedezze fel a tér két fő látnivalóját egy körsétával.",
+            "ro": "Explorați cele două atracții principale ale pieței într-un tur pe jos.",
+            "en": "Explore the two main sights of the square in one walking tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Árpád-Bad",
+            "hu": "Árpád Gyógy- és Strandfürdő",
+            "ro": "Băile Termale și Ștrandul Árpád",
+            "en": "Árpád Thermal and Lido Baths"
+          },
+          "coords": [
+            21.0845,
+            46.6845
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 225,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 6.1,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Spa für einen langen, entspannten Nachmittag. Es gibt ausreichend Parkplätze.",
+            "hu": "Vezessen el a fürdőbe egy hosszú, pihentető délutánra. Elegendő parkolóhely áll rendelkezésre.",
+            "ro": "Conduceți la băi pentru o după-amiază lungă și relaxantă. Există parcare amplă.",
+            "en": "Drive to the spa for a long, relaxing afternoon. There is ample parking available."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Autotag, indem Sie im Munkácsy-Viertel parken. Von dort aus erkunden Sie zu Fuß das Gedenkhaus des Künstlers und das nahegelegene Industriedenkmal, die István-Mühle. Nach diesem ersten Cluster steigen Sie wieder ins Auto und fahren ins Herz der Stadt. Parken Sie erneut, um den Hauptplatz, das Rathaus und die monumentale Große Evangelische Kirche bei einem gemütlichen Spaziergang zu entdecken. Am Nachmittag bringt Sie eine letzte kurze Fahrt zum Árpád-Bad, wo Sie den Rest des Tages mit Entspannung im Thermalwasser verbringen und dem Stadttrubel entfliehen.",
+        "hu": "Kezdje autós napját a Munkácsy negyedben parkolva. Innen gyalog fedezze fel a művész emlékházát és a közeli ipari emléket, az István-malmot. Az első klaszter után szálljon vissza az autóba, és vezessen a város szívébe. Parkoljon le újra, hogy egy kényelmes sétával felfedezze a főteret, a Városházát és a monumentális Evangélikus Nagytemplomot. Délután egy utolsó rövid autóút elviszi az Árpád Fürdőbe, ahol a nap hátralévő részét a termálvízben pihenve, a városi nyüzsgéstől távol töltheti.",
+        "ro": "Începeți ziua cu mașina parcând în Cartierul Munkácsy. De acolo, explorați pe jos casa memorială a artistului și monumentul industrial din apropiere, Moara István. După acest prim grup, urcați-vă din nou în mașină și conduceți spre inima orașului. Parcați din nou pentru a descoperi piața principală, Primăria și monumentala Mare Biserică Evanghelică într-o plimbare relaxantă. După-amiaza, o ultimă scurtă călătorie cu mașina vă va duce la Băile Árpád, unde puteți petrece restul zilei relaxându-vă în apele termale, departe de agitația orașului.",
+        "en": "Start your car-based day by parking in the Munkácsy Quarter. From there, explore the artist's memorial house and the nearby industrial monument, the István Mill, on foot. After this first cluster, get back in the car and drive to the heart of the city. Park again to discover the main square, the City Hall, and the monumental Great Lutheran Church on a leisurely walk. In the afternoon, a final short drive will take you to the Árpád Baths, where you can spend the rest of the day relaxing in the thermal waters, away from the city buzz."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Csabai Wurst (Kolbász)",
+            "tip": "Probieren Sie sie auf dem örtlichen Markt oder in einer traditionellen Metzgerei. Ein Muss!"
+          },
+          {
+            "name": "Svejk Restaurant",
+            "tip": "Ein beliebter Ort für herzhafte ungarische Gerichte in einer gemütlichen Atmosphäre."
+          },
+          {
+            "name": "Halászcsárda",
+            "tip": "Ideal für Fischsuppe (Halászlé), direkt am Élővíz-Kanal gelegen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csabai kolbász",
+            "tip": "Kóstolja meg a helyi piacon vagy egy hagyományos hentesnél. Kötelező!"
+          },
+          {
+            "name": "Svejk Vendéglő",
+            "tip": "Népszerű hely a kiadós magyaros ételekért, hangulatos környezetben."
+          },
+          {
+            "name": "Halászcsárda",
+            "tip": "Ideális halászléhez, közvetlenül az Élővíz-csatorna partján."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cârnat de Csaba (Kolbász)",
+            "tip": "Gustați-l în piața locală sau la o măcelărie tradițională. Este obligatoriu!"
+          },
+          {
+            "name": "Restaurantul Svejk",
+            "tip": "Un loc popular pentru mâncăruri maghiare consistente într-o atmosferă primitoare."
+          },
+          {
+            "name": "Halászcsárda (Hanul Pescarului)",
+            "tip": "Ideal pentru ciorbă de pește (halászlé), situat chiar pe malul canalului Élővíz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Csabai Sausage (Kolbász)",
+            "tip": "Try it at the local market or a traditional butcher shop. It's a must-try!"
+          },
+          {
+            "name": "Svejk Restaurant",
+            "tip": "A popular spot for hearty Hungarian dishes in a cozy atmosphere."
+          },
+          {
+            "name": "Halászcsárda (Fishermen's Inn)",
+            "tip": "Great for fish soup (halászlé), located right on the Élővíz Canal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Élővíz-Kanals",
+            "tip": "Ein friedlicher Spaziergang entlang des Wassers, das durch die Stadt fließt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Árpád-Bad Park",
+            "tip": "Der Park rund um das Bad ist ein ruhiger Ort zum Entspannen im Schatten der Bäume.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Széchenyi-Hain",
+            "tip": "Ein kleiner Stadtpark, ideal für eine kurze Pause.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Élővíz-csatorna partja",
+            "tip": "Békés séta a városon átfolyó víz mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Árpád Fürdő parkja",
+            "tip": "A fürdő körüli park csendes hely a fák árnyékában való pihenésre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Széchenyi liget",
+            "tip": "Egy kisebb városi park, ideális egy rövid szünetre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Canalului Élővíz",
+            "tip": "O plimbare liniștită de-a lungul apei care traversează orașul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Băilor Árpád",
+            "tip": "Parcul din jurul băilor este un loc liniștit pentru a te relaxa la umbra copacilor.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Széchenyi",
+            "tip": "Un parc urban mai mic, perfect pentru o pauză scurtă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Élővíz Canal Bank",
+            "tip": "A peaceful stroll along the water that flows through the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Árpád Baths Park",
+            "tip": "The park surrounding the baths is a quiet place to relax under the shade of trees.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Széchenyi Grove",
+            "tip": "A smaller city park perfect for a short break.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stadtmarkt",
+            "tip": "Der beste Ort, um authentische Csaba-Wurst und andere lokale Produkte zu kaufen."
+          },
+          {
+            "name": "Csabai Kolbászház",
+            "tip": "Ein Spezialitätengeschäft, das sich der berühmten Wurst widmet. Tolle Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi Piac",
+            "tip": "A legjobb hely autentikus csabai kolbász és más helyi termékek vásárlására."
+          },
+          {
+            "name": "Csabai Kolbászház",
+            "tip": "A híres kolbásznak szentelt szaküzlet. Nagyszerű ajándéktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Orașului",
+            "tip": "Cel mai bun loc pentru a cumpăra cârnat Csabai autentic și alte produse locale."
+          },
+          {
+            "name": "Casa Cârnatului de Csaba",
+            "tip": "Un magazin specializat dedicat faimosului cârnat. Suveniruri excelente."
+          }
+        ],
+        "en": [
+          {
+            "name": "City Market",
+            "tip": "The best place to buy authentic Csabai sausage and other local produce."
+          },
+          {
+            "name": "Csabai Sausage House",
+            "tip": "A specialty shop dedicated to the famous sausage. Great for souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum kann kostenpflichtig sein, halten Sie Münzen bereit.",
+          "Nutzen Sie das Auto, um größere Entfernungen zwischen den Clustern zu überbrücken, aber genießen Sie die Spaziergänge innerhalb der Zonen.",
+          "Das Árpád-Bad verfügt über einen großen Parkplatz, was es zu einem einfachen Ziel für den Nachmittag macht."
+        ],
+        "hu": [
+          "A belvárosi parkolás díjköteles lehet, készítsen elő aprópénzt.",
+          "Használja az autót a klaszterek közötti nagyobb távolságok áthidalására, de élvezze a zónákon belüli sétákat.",
+          "Az Árpád Fürdő nagy parkolóval rendelkezik, így könnyű délutáni célpont."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi contra cost, pregătiți monede.",
+          "Folosiți mașina pentru a acoperi distanțe mai mari între grupuri, dar bucurați-vă de plimbările din interiorul zonelor.",
+          "Băile Árpád au o parcare mare, ceea ce le face o destinație ușoară pentru după-amiază."
+        ],
+        "en": [
+          "Parking in the city center can be paid, so have coins ready.",
+          "Use the car to bridge larger distances between clusters, but enjoy the walks within the zones.",
+          "The Árpád Baths have a large parking lot, making it an easy afternoon destination."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft im Stadtzentrum (Szent István Platz)",
+            "hu": "Érkezés a belvárosba (Szent István tér)",
+            "ro": "Sosire în centrul orașului (Piața Sfântul Ștefan)",
+            "en": "Arrival at City Center (St. Stephen's Square)"
+          },
+          "coords": [
+            21.0945,
+            46.6758
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die meisten Buslinien halten in der Nähe. Dies ist Ihr erster Cluster.",
+            "hu": "A legtöbb buszjárat a közelben áll meg. Ez az első klaszter.",
+            "ro": "Majoritatea liniilor de autobuz opresc în apropiere. Acesta este primul dvs. cluster.",
+            "en": "Most bus lines stop nearby. This is your first cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus und Große Evangelische Kirche",
+            "hu": "Városháza és Evangélikus Nagytemplom",
+            "ro": "Primăria și Marea Biserică Evanghelică",
+            "en": "City Hall and Great Lutheran Church"
+          },
+          "coords": [
+            21.0935,
+            46.6765
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den Hauptplatz und seine dominante Kirche zu Fuß.",
+            "hu": "Fedezze fel gyalog a főteret és annak meghatározó templomát.",
+            "ro": "Explorați pe jos piața principală și biserica sa dominantă.",
+            "en": "Explore the main square and its dominant church on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Jókai-Theater und Munkácsy-Museum",
+            "hu": "Jókai Színház és Munkácsy Múzeum",
+            "ro": "Teatrul Jókai și Muzeul Munkácsy",
+            "en": "Jókai Theatre and Munkácsy Museum"
+          },
+          "coords": [
+            21.0975,
+            46.6795
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang bringt Sie zu den kulturellen Höhepunkten der Stadt.",
+            "hu": "Egy rövid séta elvezeti a város kulturális fénypontjaihoz.",
+            "ro": "O scurtă plimbare vă duce la atracțiile culturale ale orașului.",
+            "en": "A short walk brings you to the city's cultural highlights."
+          }
+        },
+        {
+          "name": {
+            "de": "Munkácsy-Gedenkhaus",
+            "hu": "Munkácsy Emlékház",
+            "ro": "Casa Memorială Munkácsy",
+            "en": "Munkácsy Memorial House"
+          },
+          "coords": [
+            21.108,
+            46.679
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen kurzen Bus, um zum Gedenkhaus zu gelangen.",
+            "hu": "Menjen egy rövid buszúttal az Emlékházhoz.",
+            "ro": "Luați un autobuz pe o distanță scurtă pentru a ajunge la Casa Memorială.",
+            "en": "Take a short bus ride to get to the Memorial House."
+          }
+        },
+        {
+          "name": {
+            "de": "Árpád-Bad",
+            "hu": "Árpád Gyógy- és Strandfürdő",
+            "ro": "Băile Termale și Ștrandul Árpád",
+            "en": "Árpád Thermal and Lido Baths"
+          },
+          "coords": [
+            21.0845,
+            46.6845
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:25",
+          "stay_min": 150,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.1,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Mehrere Buslinien verbinden das Munkácsy-Viertel mit dem Spa-Bereich.",
+            "hu": "Több buszjárat köti össze a Munkácsy negyedet a fürdővel.",
+            "ro": "Mai multe linii de autobuz leagă Cartierul Munkácsy de zona balneară.",
+            "en": "Several bus lines connect the Munkácsy area to the spa complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in der Nähe des Élővíz-Kanals",
+            "hu": "Vacsora az Élővíz-csatorna közelében",
+            "ro": "Cină lângă Canalul Élővíz",
+            "en": "Dinner near Élővíz Canal"
+          },
+          "coords": [
+            21.09,
+            46.674
+          ],
+          "category": "gastro",
+          "arrive_at": "17:15",
+          "stay_min": 20,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Spa aus können Sie zu Fuß zu den Restaurants am Kanal gehen.",
+            "hu": "A fürdőtől gyalog is elérhetők a csatorna menti éttermek.",
+            "ro": "De la băi puteți merge pe jos până la restaurantele de pe malul canalului.",
+            "en": "From the spa, it's a pleasant walk to the canal-side restaurants."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das öffentliche Verkehrsnetz von Békéscsaba für einen stressfreien Tag. Beginnen Sie mit einem Spaziergang durch das erste Cluster im Stadtzentrum, das den Hauptplatz, die Große Evangelische Kirche und das Munkácsy-Museum umfasst. Nach einem Vormittag voller Kultur und Geschichte bringt Sie ein kurzer Bus zum Munkácsy-Gedenkhaus in einem anderen Stadtteil. Von dort aus ist es eine weitere einfache Busfahrt zum Árpád-Bad, wo Sie den gesamten Nachmittag mit Entspannung verbringen können. Beenden Sie den Tag mit einem Spaziergang zu einem Restaurant am Kanal, leicht erreichbar vom Bad aus.",
+        "hu": "Használja Békéscsaba tömegközlekedési hálózatát egy stresszmentes naphoz. Kezdje egy sétával az első klaszterben, a belvárosban, amely magában foglalja a főteret, az Evangélikus Nagytemplomot és a Munkácsy Múzeumot. A kultúrával és történelemmel teli délelőtt után egy rövid busz elviszi a Munkácsy Emlékházhoz egy másik városrészbe. Onnan egy újabb egyszerű buszúttal juthat el az Árpád Fürdőbe, ahol az egész délutánt pihenéssel töltheti. Zárja a napot egy sétával egy csatorna menti étteremhez, amely könnyen megközelíthető a fürdőtől.",
+        "ro": "Folosiți rețeaua de transport public din Békéscsaba pentru o zi fără stres. Începeți cu o plimbare prin primul cluster din centrul orașului, care include piața principală, Marea Biserică Evanghelică și Muzeul Munkácsy. După o dimineață de cultură și istorie, un autobuz scurt vă va duce la Casa Memorială Munkácsy, într-un alt cartier. De acolo, o altă călătorie ușoară cu autobuzul vă va duce la Băile Árpád, unde puteți petrece întreaga după-amiază relaxându-vă. Încheiați ziua cu o plimbare la un restaurant de pe malul canalului, ușor accesibil de la băi.",
+        "en": "Utilize Békéscsaba's public transit for a stress-free day. Start by walking through the first cluster in the city center, covering the main square, the Great Lutheran Church, and the Munkácsy Museum. After a morning of culture and history, a short bus ride takes you to the Munkácsy Memorial House in a different district. From there, another easy bus journey transports you to the Árpád Baths, where you can spend the entire afternoon relaxing. End the day with a walk to a canal-side restaurant, easily accessible from the baths."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Csabai Wurst (Kolbász)",
+            "tip": "Probieren Sie sie auf dem örtlichen Markt oder in einer traditionellen Metzgerei. Ein Muss!"
+          },
+          {
+            "name": "Svejk Restaurant",
+            "tip": "Ein beliebter Ort für herzhafte ungarische Gerichte in einer gemütlichen Atmosphäre."
+          },
+          {
+            "name": "Halászcsárda",
+            "tip": "Ideal für Fischsuppe (Halászlé), direkt am Élővíz-Kanal gelegen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csabai kolbász",
+            "tip": "Kóstolja meg a helyi piacon vagy egy hagyományos hentesnél. Kötelező!"
+          },
+          {
+            "name": "Svejk Vendéglő",
+            "tip": "Népszerű hely a kiadós magyaros ételekért, hangulatos környezetben."
+          },
+          {
+            "name": "Halászcsárda",
+            "tip": "Ideális halászléhez, közvetlenül az Élővíz-csatorna partján."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cârnat de Csaba (Kolbász)",
+            "tip": "Gustați-l în piața locală sau la o măcelărie tradițională. Este obligatoriu!"
+          },
+          {
+            "name": "Restaurantul Svejk",
+            "tip": "Un loc popular pentru mâncăruri maghiare consistente într-o atmosferă primitoare."
+          },
+          {
+            "name": "Halászcsárda (Hanul Pescarului)",
+            "tip": "Ideal pentru ciorbă de pește (halászlé), situat chiar pe malul canalului Élővíz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Csabai Sausage (Kolbász)",
+            "tip": "Try it at the local market or a traditional butcher shop. It's a must-try!"
+          },
+          {
+            "name": "Svejk Restaurant",
+            "tip": "A popular spot for hearty Hungarian dishes in a cozy atmosphere."
+          },
+          {
+            "name": "Halászcsárda (Fishermen's Inn)",
+            "tip": "Great for fish soup (halászlé), located right on the Élővíz Canal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Élővíz-Kanals",
+            "tip": "Ein friedlicher Spaziergang entlang des Wassers, das durch die Stadt fließt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Árpád-Bad Park",
+            "tip": "Der Park rund um das Bad ist ein ruhiger Ort zum Entspannen im Schatten der Bäume.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Széchenyi-Hain",
+            "tip": "Ein kleiner Stadtpark, ideal für eine kurze Pause.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Élővíz-csatorna partja",
+            "tip": "Békés séta a városon átfolyó víz mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Árpád Fürdő parkja",
+            "tip": "A fürdő körüli park csendes hely a fák árnyékában való pihenésre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Széchenyi liget",
+            "tip": "Egy kisebb városi park, ideális egy rövid szünetre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Canalului Élővíz",
+            "tip": "O plimbare liniștită de-a lungul apei care traversează orașul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Băilor Árpád",
+            "tip": "Parcul din jurul băilor este un loc liniștit pentru a te relaxa la umbra copacilor.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Széchenyi",
+            "tip": "Un parc urban mai mic, perfect pentru o pauză scurtă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Élővíz Canal Bank",
+            "tip": "A peaceful stroll along the water that flows through the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Árpád Baths Park",
+            "tip": "The park surrounding the baths is a quiet place to relax under the shade of trees.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Széchenyi Grove",
+            "tip": "A smaller city park perfect for a short break.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stadtmarkt",
+            "tip": "Der beste Ort, um authentische Csaba-Wurst und andere lokale Produkte zu kaufen."
+          },
+          {
+            "name": "Csabai Kolbászház",
+            "tip": "Ein Spezialitätengeschäft, das sich der berühmten Wurst widmet. Tolle Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi Piac",
+            "tip": "A legjobb hely autentikus csabai kolbász és más helyi termékek vásárlására."
+          },
+          {
+            "name": "Csabai Kolbászház",
+            "tip": "A híres kolbásznak szentelt szaküzlet. Nagyszerű ajándéktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Orașului",
+            "tip": "Cel mai bun loc pentru a cumpăra cârnat Csabai autentic și alte produse locale."
+          },
+          {
+            "name": "Casa Cârnatului de Csaba",
+            "tip": "Un magazin specializat dedicat faimosului cârnat. Suveniruri excelente."
+          }
+        ],
+        "en": [
+          {
+            "name": "City Market",
+            "tip": "The best place to buy authentic Csabai sausage and other local produce."
+          },
+          {
+            "name": "Csabai Sausage House",
+            "tip": "A specialty shop dedicated to the famous sausage. Great for souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr für das beste Preis-Leistungs-Verhältnis.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, um Wartezeiten zu minimieren.",
+          "Die Cluster-Walking-Methode funktioniert gut, da viele Sehenswürdigkeiten im Zentrum nahe beieinander liegen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez a legjobb ár-érték arány érdekében.",
+          "Ellenőrizze előre a buszmenetrendet a várakozási idők minimalizálása érdekében.",
+          "A klaszter-séta módszer jól működik, mivel a központban sok látnivaló közel van egymáshoz."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru transportul public pentru cel mai bun raport calitate-preț.",
+          "Verificați în avans orarele autobuzelor pentru a minimiza timpii de așteptare.",
+          "Metoda de plimbare în cluster funcționează bine, deoarece multe atracții din centru sunt apropiate."
+        ],
+        "en": [
+          "Buy a daily public transport pass for the best value.",
+          "Check bus schedules in advance to minimize waiting times.",
+          "The cluster-walking method works well as many central attractions are close together."
+        ]
+      }
+    }
+  }
+}

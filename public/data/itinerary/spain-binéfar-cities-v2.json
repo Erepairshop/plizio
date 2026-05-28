@@ -1,0 +1,1223 @@
+{
+  "city_id": "spain-binéfar-cities-v2",
+  "anchor": {
+    "name": "Binéfar",
+    "coords": [
+      41.8516,
+      0.324
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "15:55",
+      "total_km": 2.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de España",
+            "hu": "Plaza de España",
+            "ro": "Plaza de España",
+            "en": "Plaza de España"
+          },
+          "coords": [
+            0.3242,
+            41.8518
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einem Kaffee in einem der Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában!",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
+            "en": "Start your day with a coffee at one of the square's cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Consistorial",
+            "hu": "Városháza",
+            "ro": "Primăria (Casa Consistorial)",
+            "en": "Town Hall (Casa Consistorial)"
+          },
+          "coords": [
+            0.3238,
+            41.8521
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:38",
+          "stay_min": 20,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die aragonesische Renaissance-Architektur der Fassade.",
+            "hu": "Csodálja meg a homlokzat aragóniai reneszánsz építészetét!",
+            "ro": "Admirați arhitectura renascentistă aragoneză a fațadei.",
+            "en": "Admire the Aragonese Renaissance architecture of the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Pedro Apóstol",
+            "hu": "Szent Péter apostol templom",
+            "ro": "Biserica San Pedro Apóstol",
+            "en": "Church of San Pedro Apóstol"
+          },
+          "coords": [
+            0.325,
+            41.8525
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:08",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beachten Sie den gotischen Stil und den beeindruckenden Glockenturm.",
+            "hu": "Figyelje meg a gótikus stílust és a lenyűgöző harangtornyot.",
+            "ro": "Observați stilul gotic și impresionantul turn clopotniță.",
+            "en": "Note the Gothic style and the impressive bell tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Kultur- und Jugendzentrum",
+            "hu": "Kulturális és Ifjúsági Központ",
+            "ro": "Centrul Cultural și de Tineret",
+            "en": "Cultural and Youth Center"
+          },
+          "coords": [
+            0.327,
+            41.8505
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:09",
+          "stay_min": 50,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Veranstaltungsplan für mögliche Ausstellungen oder Shows.",
+            "hu": "Nézze meg a programfüzetet esetleges kiállításokért vagy előadásokért.",
+            "ro": "Verificați programul pentru posibile expoziții sau spectacole.",
+            "en": "Check the schedule for any potential exhibitions or shows."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque de la Sierra",
+            "hu": "Sierra Park",
+            "ro": "Parcul de la Sierra",
+            "en": "Parque de la Sierra"
+          },
+          "coords": [
+            0.33,
+            41.848
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für ein Picknick oder eine entspannte Pause im Schatten.",
+            "hu": "Ideális hely egy piknikhez vagy egy pihentető szünethez az árnyékban.",
+            "ro": "Un loc ideal pentru un picnic sau o pauză relaxantă la umbră.",
+            "en": "An ideal spot for a picnic or a relaxing break in the shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Fuente del Pino",
+            "hu": "Fenyő-kút",
+            "ro": "Fântâna Pinului",
+            "en": "Pine Fountain (Fuente del Pino)"
+          },
+          "coords": [
+            0.3285,
+            41.8495
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:38",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein schönes, kleines Denkmal, das sich gut für ein schnelles Foto eignet.",
+            "hu": "Egy szép kis emlékmű, amely tökéletes egy gyors fotóhoz.",
+            "ro": "Un monument mic și drăguț, perfect pentru o fotografie rapidă.",
+            "en": "A nice little monument, great for a quick photo."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt auf der belebten Plaza de España und führt Sie durch das historische Herz von Binéfar. Am Vormittag erkunden Sie die architektonischen Schätze der Stadt, wie die Kirche San Pedro. Nach dem Mittagessen tauchen Sie in die lokale Kultur ein, bevor Sie den Nachmittag im ruhigen Parque de la Sierra ausklingen lassen, einem perfekten Ort zum Entspannen.",
+        "hu": "A nap a nyüzsgő Plaza de Españán kezdődik, és Binéfar történelmi szívén vezet keresztül. Délelőtt a város építészeti kincseit, például a San Pedro-templomot fedezi fel. Ebéd után elmerül a helyi kultúrában, majd a délutánt a csendes Parque de la Sierrában zárja, amely tökéletes hely a pihenésre.",
+        "ro": "Ziua dvs. începe în animata Plaza de España, purtându-vă prin inima istorică a orașului Binéfar. Dimineața explorați comorile arhitecturale ale orașului, precum Biserica San Pedro. După prânz, vă scufundați în cultura locală, înainte de a încheia după-amiaza în liniștitul Parque de la Sierra, un loc perfect pentru relaxare.",
+        "en": "Your day begins in the bustling Plaza de España, taking you through the historical heart of Binéfar. In the morning, you'll explore the town's architectural treasures, like the Church of San Pedro. After lunch, you'll dive into local culture before ending the afternoon in the tranquil Parque de la Sierra, a perfect spot to unwind."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Probieren Sie dieses berühmte Lammgericht, eine lokale Spezialität."
+          },
+          {
+            "name": "Restaurante El Segalar",
+            "tip": "Bekannt für seine traditionelle aragonesische Küche in gemütlicher Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Kóstolja meg ezt a híres bárányételt, amely egy helyi specialitás."
+          },
+          {
+            "name": "Restaurante El Segalar",
+            "tip": "Hagyományos aragóniai konyhájáról ismert, hangulatos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Încercați acest faimos preparat din miel, o specialitate locală."
+          },
+          {
+            "name": "Restaurante El Segalar",
+            "tip": "Cunoscut pentru bucătăria sa tradițională aragoneză într-o atmosferă primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Try this famous lamb dish, a local specialty."
+          },
+          {
+            "name": "Restaurante El Segalar",
+            "tip": "Known for its traditional Aragonese cuisine in a cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque de la Sierra",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die Natur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ermita de San Quílez",
+            "tip": "Ein friedlicher Ort mit Panoramablick etwas außerhalb der Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parque de la Sierra",
+            "tip": "Keressen egy csendes padot, és élvezze a természetet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ermita de San Quílez",
+            "tip": "Békés hely panorámás kilátással, kicsit a városon kívül.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parque de la Sierra",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ermita de San Quílez",
+            "tip": "Un loc pașnic cu vederi panoramice, chiar în afara orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parque de la Sierra",
+            "tip": "Find a quiet bench and enjoy nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ermita de San Quílez",
+            "tip": "A peaceful spot with panoramic views just outside the town.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Produkten und Handwerk auf der Plaza de España (an Markttagen)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen helyi termékeket és kézműves árukat a Plaza de Españán (piaci napokon)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse locale și artizanat în Plaza de España (în zilele de piață)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for local produce and crafts in Plaza de España (on market days)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den größten Teil des Tages zu Fuß unterwegs sein werden.",
+          "Viele Geschäfte schließen während der Siesta am frühen Nachmittag.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit, besonders an warmen Tagen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a nap nagy részét gyalog fogja tölteni.",
+          "Sok üzlet bezár a kora délutáni szieszta idején.",
+          "Vigyen magával újratölthető vizes palackot, különösen meleg napokon."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge pe jos în cea mai mare parte a zilei.",
+          "Multe magazine se închid în timpul siestei de la amiază.",
+          "Luați cu dvs. o sticlă de apă reutilizabilă, mai ales în zilele călduroase."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be walking for most of the day.",
+          "Many shops close for siesta in the early afternoon.",
+          "Bring a reusable water bottle, especially on warm days."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de España",
+            "hu": "Plaza de España",
+            "ro": "Plaza de España",
+            "en": "Plaza de España"
+          },
+          "coords": [
+            0.3242,
+            41.8518
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Perfekter Ausgangspunkt, um sich mit dem Fahrrad vertraut zu machen.",
+            "hu": "Tökéletes kiindulópont a kerékpárral való ismerkedéshez.",
+            "ro": "Punct de plecare perfect pentru a vă familiariza cu bicicleta.",
+            "en": "Perfect starting point to get acquainted with your bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Pedro Apóstol",
+            "hu": "Szent Péter apostol templom",
+            "ro": "Biserica San Pedro Apóstol",
+            "en": "Church of San Pedro Apóstol"
+          },
+          "coords": [
+            0.325,
+            41.8525
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie die Kirche betreten.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt belép a templomba.",
+            "ro": "Asigurați-vă bicicleta înainte de a intra în biserică.",
+            "en": "Lock your bike securely before entering the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque de la Sierra",
+            "hu": "Sierra Park",
+            "ro": "Parcul de la Sierra",
+            "en": "Parque de la Sierra"
+          },
+          "coords": [
+            0.33,
+            41.848
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:23",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Fahren Sie auf den Wegen und genießen Sie eine Pause im Grünen.",
+            "hu": "Kerékpározzon az ösvényeken, és élvezzen egy szünetet a zöldben.",
+            "ro": "Plimbați-vă cu bicicleta pe alei și bucurați-vă de o pauză în natură.",
+            "en": "Ride along the paths and enjoy a break amidst the greenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita de San Quílez",
+            "hu": "Szent Kvilez remetekápolna",
+            "ro": "Schitul San Quílez",
+            "en": "Hermitage of San Quílez"
+          },
+          "coords": [
+            0.301,
+            41.865
+          ],
+          "category": "natural features",
+          "arrive_at": "11:47",
+          "stay_min": 40,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Die Fahrt bergauf lohnt sich für die atemberaubende Aussicht.",
+            "hu": "Megéri feltekerni a dombra a lélegzetelállító kilátásért.",
+            "ro": "Urcușul merită pentru priveliștea uluitoare.",
+            "en": "The uphill ride is worth it for the stunning views."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Eisenbahnstation",
+            "hu": "Régi vasútállomás",
+            "ro": "Vechea gară",
+            "en": "Old Railway Station"
+          },
+          "coords": [
+            0.32,
+            41.855
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:49",
+          "stay_min": 30,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein interessanter Einblick in die industrielle Vergangenheit der Stadt.",
+            "hu": "Érdekes betekintés a város ipari múltjába.",
+            "ro": "O privire interesantă asupra trecutului industrial al orașului.",
+            "en": "An interesting glimpse into the town's industrial past."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro Cultural y Juvenil",
+            "hu": "Kulturális és Ifjúsági Központ",
+            "ro": "Centrul Cultural și de Tineret",
+            "en": "Cultural and Youth Center"
+          },
+          "coords": [
+            0.327,
+            41.8505
+          ],
+          "arrive_at": "13:34",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und erkunden Sie die aktuellen Ausstellungen.",
+            "hu": "Parkolja le a kerékpárt, és fedezze fel az aktuális kiállításokat.",
+            "ro": "Parcați bicicleta și explorați expozițiile curente.",
+            "en": "Park your bike and explore the current exhibitions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie Binéfar flexibel und umweltfreundlich. Der Vormittag führt Sie vom Stadtzentrum zu den ruhigen Grünflächen des Parque de la Sierra. Der Höhepunkt ist die Fahrt zur Ermita de San Quílez, die Sie mit einer fantastischen Aussicht belohnt. Am Nachmittag entdecken Sie das industrielle Erbe der Stadt, bevor Sie Ihren Tag im Kulturzentrum ausklingen lassen.",
+        "hu": "Kerékpárral rugalmasan és környezetbarát módon fedezheti fel Binéfart. A délelőtt a városközpontból a Parque de la Sierra csendes zöld területeire vezet. A csúcspont a túra az Ermita de San Quílez-hez, amely fantasztikus kilátással jutalmazza. Délután felfedezi a város ipari örökségét, mielőtt a napot a kulturális központban zárja.",
+        "ro": "Cu bicicleta, explorați Binéfar în mod flexibil și ecologic. Dimineața vă duce din centrul orașului spre spațiile verzi liniștite din Parque de la Sierra. Punctul culminant este plimbarea la Ermita de San Quílez, care vă recompensează cu o priveliște fantastică. După-amiaza, descoperiți patrimoniul industrial al orașului înainte de a încheia ziua la centrul cultural.",
+        "en": "By bike, you'll explore Binéfar flexibly and eco-consciously. The morning takes you from the city center to the quiet green spaces of Parque de la Sierra. The highlight is the ride up to the Ermita de San Quílez, rewarding you with fantastic views. In the afternoon, you'll discover the city's industrial heritage before finishing your day at the cultural center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bocadillo de Jamón",
+            "tip": "Ein klassisches spanisches Sandwich, perfekt für eine schnelle Stärkung."
+          },
+          {
+            "name": "Bar El Ciclón",
+            "tip": "Ein beliebter Ort bei Einheimischen für Tapas und ein kühles Getränk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bocadillo de Jamón",
+            "tip": "Klasszikus spanyol szendvics, tökéletes egy gyors ebédhez."
+          },
+          {
+            "name": "Bar El Ciclón",
+            "tip": "A helyiek kedvelt helye egy tapasra és egy hideg italra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bocadillo de Jamón",
+            "tip": "Un sandviș spaniol clasic, perfect pentru o gustare rapidă."
+          },
+          {
+            "name": "Bar El Ciclón",
+            "tip": "Un loc popular printre localnici pentru tapas și o băutură rece."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bocadillo de Jamón",
+            "tip": "A classic Spanish sandwich, perfect for a quick refuel."
+          },
+          {
+            "name": "Bar El Ciclón",
+            "tip": "A popular spot with locals for tapas and a cool drink."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfel bei der Ermita de San Quílez",
+            "tip": "Der ruhigste Ort der Stadt mit der besten Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ufer des Canals de Zaidín",
+            "tip": "Folgen Sie dem Kanal für eine friedliche Fahrt außerhalb des Zentrums.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az Ermita de San Quílez melletti csúcs",
+            "tip": "A város legcsendesebb helye a legjobb kilátással.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Zaidín-csatorna partja",
+            "tip": "Kövesse a csatornát egy békés kerékpárútra a központon kívül.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful de lângă Ermita de San Quílez",
+            "tip": "Cel mai liniștit loc din oraș cu cea mai bună priveliște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malurile Canalului de Zaidín",
+            "tip": "Urmați canalul pentru o plimbare liniștită în afara centrului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Peak near Ermita de San Quílez",
+            "tip": "The quietest spot in town with the best view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Banks of the Canal de Zaidín",
+            "tip": "Follow the canal for a peaceful ride outside the center.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Kaufen Sie frisches Brot und Gebäck für Ihre Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékségek",
+            "tip": "Vásároljon friss kenyeret és péksüteményt a kerékpártúrához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăriile locale",
+            "tip": "Cumpărați pâine proaspătă și produse de patiserie pentru excursia cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bakeries",
+            "tip": "Pick up some fresh bread and pastries for your ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck, bevor Sie losfahren.",
+          "Ein Helm wird dringend empfohlen.",
+          "Binéfar ist relativ flach, aber die Fahrt zur Ermita erfordert etwas Anstrengung."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Sisak használata erősen ajánlott.",
+          "Binéfar viszonylag sík, de az Ermitához való feljutás némi erőfeszítést igényel."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de a porni.",
+          "O cască este foarte recomandată.",
+          "Binéfar este relativ plat, dar urcarea la Ermita necesită puțin efort."
+        ],
+        "en": [
+          "Check your tire pressure before setting off.",
+          "A helmet is highly recommended.",
+          "Binéfar is relatively flat, but the ride to the Ermita requires some effort."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Historisches Zentrum",
+            "hu": "A klaszter: Történelmi központ",
+            "ro": "Cluster A: Centrul Istoric",
+            "en": "Cluster A: Historic Center"
+          },
+          "coords": [
+            0.324,
+            41.8516
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe der Plaza de España, um diesen Cluster zu Fuß zu erkunden.",
+            "hu": "Parkoljon a Plaza de España közelében, hogy gyalog fedezze fel ezt a klasztert.",
+            "ro": "Parcați lângă Plaza de España pentru a explora acest cluster pe jos.",
+            "en": "Park near Plaza de España to explore this cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de España",
+            "hu": "Plaza de España",
+            "ro": "Plaza de España",
+            "en": "Plaza de España"
+          },
+          "coords": [
+            0.3242,
+            41.8518
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der lebendige Mittelpunkt des gesellschaftlichen Lebens der Stadt.",
+            "hu": "A város társadalmi életének nyüzsgő központja.",
+            "ro": "Centrul vibrant al vieții sociale a orașului.",
+            "en": "The vibrant hub of the town's social life."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Pedro Apóstol",
+            "hu": "Szent Péter apostol templom",
+            "ro": "Biserica San Pedro Apóstol",
+            "en": "Church of San Pedro Apóstol"
+          },
+          "coords": [
+            0.325,
+            41.8525
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:44",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz entfernt, bewundern Sie die gotische Architektur.",
+            "hu": "Egy rövid séta a térről, csodálja meg a gótikus építészetet.",
+            "ro": "La o scurtă plimbare de piață, admirați arhitectura gotică.",
+            "en": "A short walk from the square, admire the Gothic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Panorama & Natur",
+            "hu": "B klaszter: Panoráma és természet",
+            "ro": "Cluster B: Panoramă și Natură",
+            "en": "Cluster B: Panorama & Nature"
+          },
+          "coords": [
+            0.301,
+            41.865
+          ],
+          "category": "natural features",
+          "arrive_at": "10:48",
+          "stay_min": 0,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 9.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zur Ermita und parken Sie dort für eine spektakuläre Aussicht.",
+            "hu": "Vezessen az Ermitához, és parkoljon le a látványos kilátásért.",
+            "ro": "Conduceți la Ermita și parcați pentru priveliști spectaculoase.",
+            "en": "Drive up to the Ermita and park for spectacular views."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita de San Quílez",
+            "hu": "Szent Kvilez remetekápolna",
+            "ro": "Schitul San Quílez",
+            "en": "Hermitage of San Quílez"
+          },
+          "coords": [
+            0.3012,
+            41.8652
+          ],
+          "category": "natural features",
+          "arrive_at": "10:58",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Stille und den Panoramablick über die Region.",
+            "hu": "Élvezze a csendet és a panorámás kilátást a régióra.",
+            "ro": "Bucurați-vă de liniște și de priveliștea panoramică asupra regiunii.",
+            "en": "Enjoy the silence and the panoramic view over the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Kultur & Freizeit",
+            "hu": "C klaszter: Kultúra és szabadidő",
+            "ro": "Cluster C: Cultură și Recreere",
+            "en": "Cluster C: Culture & Leisure"
+          },
+          "coords": [
+            0.33,
+            41.848
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:03",
+          "stay_min": 0,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parque de la Sierra und parken Sie für einen entspannten Nachmittag.",
+            "hu": "Vezessen a Parque de la Sierrához, és parkoljon le egy pihentető délutánra.",
+            "ro": "Conduceți la Parque de la Sierra și parcați pentru o după-amiază relaxantă.",
+            "en": "Drive to Parque de la Sierra and park for a relaxing afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque de la Sierra",
+            "hu": "Sierra Park",
+            "ro": "Parcul de la Sierra",
+            "en": "Parque de la Sierra"
+          },
+          "coords": [
+            0.3302,
+            41.8482
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:13",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Machen Sie einen Spaziergang und genießen Sie ein Mittagessen in einem nahegelegenen Restaurant.",
+            "hu": "Sétáljon egyet, majd ebédeljen egy közeli étteremben.",
+            "ro": "Faceți o plimbare și bucurați-vă de prânz la un restaurant din apropiere.",
+            "en": "Take a stroll and enjoy lunch at a nearby restaurant."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit dem Auto ist in drei Cluster unterteilt. Am Morgen erkunden Sie das historische Zentrum zu Fuß, nachdem Sie Ihr Auto geparkt haben. Gegen Mittag fahren Sie zur Ermita de San Quílez, um die atemberaubende Aussicht zu genießen. Den Nachmittag verbringen Sie im und um den Parque de la Sierra, wo Sie entspannen und die Natur genießen, bevor Sie in die Stadt zurückkehren.",
+        "hu": "Az autós nap három klaszterre oszlik. Reggel, a parkolás után, gyalog fedezi fel a történelmi központot. Dél körül az Ermita de San Quílezhez hajt, hogy élvezze a lélegzetelállító kilátást. A délutánt a Parque de la Sierra környékén tölti, ahol pihenhet és élvezheti a természetet, mielőtt visszatérne a városba.",
+        "ro": "Ziua dvs. cu mașina este împărțită în trei clustere. Dimineața, după ce parcați, explorați centrul istoric pe jos. Spre prânz, conduceți la Ermita de San Quílez pentru a admira priveliștea uluitoare. După-amiaza o petreceți în și în jurul Parque de la Sierra, relaxându-vă și bucurându-vă de natură înainte de a vă întoarce în oraș.",
+        "en": "Your day by car is structured into three clusters. In the morning, after parking, you'll explore the historic center on foot. Around noon, you drive up to the Ermita de San Quílez to take in the breathtaking views. The afternoon is spent in and around Parque de la Sierra, relaxing and enjoying nature before heading back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Migas a la Pastora",
+            "tip": "Ein herzhaftes Gericht aus Brotkrumen, Chorizo und Trauben, perfekt nach einer Wanderung."
+          },
+          {
+            "name": "Restaurante DiMarco",
+            "tip": "Bietet eine Mischung aus moderner und traditioneller Küche, ideal für ein ausgiebiges Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Migas a la Pastora",
+            "tip": "Kenyérmorzsából, chorizóból és szőlőből készült kiadós étel, tökéletes egy túra után."
+          },
+          {
+            "name": "Restaurante DiMarco",
+            "tip": "Modern és hagyományos konyha keverékét kínálja, ideális egy kiadós ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Migas a la Pastora",
+            "tip": "Un fel de mâncare consistent din firimituri de pâine, chorizo și struguri, perfect după o drumeție."
+          },
+          {
+            "name": "Restaurante DiMarco",
+            "tip": "Oferă un amestec de bucătărie modernă și tradițională, ideal pentru un prânz copios."
+          }
+        ],
+        "en": [
+          {
+            "name": "Migas a la Pastora",
+            "tip": "A hearty dish of breadcrumbs, chorizo, and grapes, perfect after a hike."
+          },
+          {
+            "name": "Restaurante DiMarco",
+            "tip": "Offers a mix of modern and traditional cuisine, great for a substantial lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt an der Ermita de San Quílez",
+            "tip": "Der beste Ort für Weitblick und Stille.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Versteckte Ecken im Parque de la Sierra",
+            "tip": "Abseits der Hauptwege finden Sie friedliche Plätze.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátó az Ermita de San Quíleznél",
+            "tip": "A legjobb hely a panorámáért és a csendért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rejtett zugok a Parque de la Sierrában",
+            "tip": "A fő ösvényektől távol békés helyeket talál.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere la Ermita de San Quílez",
+            "tip": "Cel mai bun loc pentru vederi extinse și liniște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Colțuri ascunse în Parque de la Sierra",
+            "tip": "Găsiți locuri pașnice departe de cărările principale.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint at Ermita de San Quílez",
+            "tip": "The best place for expansive views and quiet.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hidden corners in Parque de la Sierra",
+            "tip": "Find peaceful spots away from the main paths.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Aceite del Bajo Aragón",
+            "tip": "Suchen Sie nach diesem hochwertigen Olivenöl, einer regionalen Spezialität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aceite del Bajo Aragón",
+            "tip": "Keresse ezt a kiváló minőségű olívaolajat, egy regionális különlegességet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Aceite del Bajo Aragón",
+            "tip": "Căutați acest ulei de măsline de înaltă calitate, o specialitate regională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Aceite del Bajo Aragón",
+            "tip": "Look for this high-quality olive oil, a regional specialty."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken kann im Stadtzentrum schwierig sein; nutzen Sie ausgewiesene Parkplätze.",
+          "Planen Sie Ihre Fahrten zwischen den Clustern außerhalb der Mittagszeit.",
+          "Ein GPS ist hilfreich, um die besten Routen zwischen den Standorten zu finden."
+        ],
+        "hu": [
+          "A parkolás nehézkes lehet a városközpontban; használja a kijelölt parkolókat.",
+          "A klaszterek közötti utazásokat az ebédidőn kívülre időzítse.",
+          "GPS segít megtalálni a legjobb útvonalakat a helyszínek között."
+        ],
+        "ro": [
+          "Parcarea poate fi dificilă în centrul orașului; utilizați parcările desemnate.",
+          "Planificați-vă călătoriile între clustere în afara orelor de prânz.",
+          "Un GPS este util pentru a găsi cele mai bune rute între locații."
+        ],
+        "en": [
+          "Parking can be tricky in the town center; use designated car parks.",
+          "Plan your drives between clusters outside of midday traffic.",
+          "A GPS is helpful for finding the best routes between locations."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:16",
+      "total_km": 4.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Plaza & Kirche",
+            "hu": "A klaszter: Tér és templom",
+            "ro": "Cluster A: Piață și Biserică",
+            "en": "Cluster A: Plaza & Church"
+          },
+          "coords": [
+            0.3242,
+            41.8518
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Starten Sie am Hauptbusbahnhof oder einer Haltestelle nahe der Plaza de España.",
+            "hu": "Induljon a fő buszpályaudvarról vagy egy, a Plaza de España közelében lévő megállóból.",
+            "ro": "Începeți de la autogara principală sau de la o stație de lângă Plaza de España.",
+            "en": "Start at the main bus station or a stop near Plaza de España."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de España",
+            "hu": "Plaza de España",
+            "ro": "Plaza de España",
+            "en": "Plaza de España"
+          },
+          "coords": [
+            0.3243,
+            41.8519
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Atmosphäre, bevor Sie zum nächsten Halt spazieren.",
+            "hu": "Élvezze a hangulatot, mielőtt a következő megállóhoz sétál.",
+            "ro": "Bucurați-vă de atmosferă înainte de a merge la următoarea oprire.",
+            "en": "Soak in the atmosphere before walking to the next stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Consistorial",
+            "hu": "Városháza",
+            "ro": "Primăria (Casa Consistorial)",
+            "en": "Town Hall (Casa Consistorial)"
+          },
+          "coords": [
+            0.3238,
+            41.8521
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:44",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz, um die Architektur zu bewundern.",
+            "hu": "Egy rövid séta a főtérről az építészet megcsodálásához.",
+            "ro": "O scurtă plimbare din piața principală pentru a admira arhitectura.",
+            "en": "A quick stroll from the main square to admire the architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Kultur & Park",
+            "hu": "B klaszter: Kultúra és park",
+            "ro": "Cluster B: Cultură și Parc",
+            "en": "Cluster B: Culture & Park"
+          },
+          "coords": [
+            0.327,
+            41.8505
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:33",
+          "stay_min": 0,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Kulturzentrum für den nächsten Teil Ihrer Tour.",
+            "hu": "Vegyen egy buszt a Kulturális Központhoz a túra következő részéhez.",
+            "ro": "Luați un autobuz spre Centrul Cultural pentru următoarea parte a turului.",
+            "en": "Take a bus to the Cultural Center for the next part of your tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro Cultural y Juvenil",
+            "hu": "Kulturális és Ifjúsági Központ",
+            "ro": "Centrul Cultural și de Tineret",
+            "en": "Cultural and Youth Center"
+          },
+          "coords": [
+            0.3272,
+            41.8503
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:43",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schauen Sie sich die lokalen Kunst- oder Geschichtsausstellungen an.",
+            "hu": "Nézze meg a helyi művészeti vagy történelmi kiállításokat.",
+            "ro": "Vizitați expozițiile de artă sau istorie locală.",
+            "en": "Check out the local art or history exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque de la Sierra",
+            "hu": "Sierra Park",
+            "ro": "Parcul de la Sierra",
+            "en": "Parque de la Sierra"
+          },
+          "coords": [
+            0.33,
+            41.848
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannender Spaziergang vom Kulturzentrum, ideal für eine Mittagspause.",
+            "hu": "Egy pihentető séta a Kulturális Központtól, ideális egy ebédszünethez.",
+            "ro": "O plimbare relaxantă de la Centrul Cultural, ideală pentru o pauză de prânz.",
+            "en": "A relaxing walk from the Cultural Center, perfect for a lunch break."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Tour nutzt öffentliche Verkehrsmittel, um verschiedene Teile von Binéfar zu verbinden. Am Vormittag erkunden Sie das historische Zentrum zu Fuß. Eine kurze Busfahrt bringt Sie dann zum Kulturviertel, wo Sie den Nachmittag mit Kunst und Entspannung im Park verbringen. Diese Route ist ideal, um die Stadt wie ein Einheimischer zu erleben und größere Distanzen bequem zu überwinden.",
+        "hu": "Ez a túra a tömegközlekedést használja Binéfar különböző részeinek összekötésére. Délelőtt gyalogosan fedezi fel a történelmi központot. Egy rövid buszút elviszi a kulturális negyedbe, ahol a délutánt művészettel és a parkban való pihenéssel tölti. Ez az útvonal ideális ahhoz, hogy a várost helyiként élje át, és kényelmesen tegyen meg nagyobb távolságokat.",
+        "ro": "Acest tur folosește transportul public pentru a conecta diferite părți ale orașului Binéfar. Dimineața explorați centrul istoric pe jos. O scurtă călătorie cu autobuzul vă duce apoi în cartierul cultural, unde petreceți după-amiaza cu artă și relaxare în parc. Acest traseu este ideal pentru a experimenta orașul ca un localnic și pentru a acoperi distanțe mai mari în mod confortabil.",
+        "en": "This tour uses public transport to connect different parts of Binéfar. In the morning, you'll explore the historic center on foot. A short bus ride then takes you to the cultural district, where you'll spend the afternoon enjoying art and relaxing in the park. This route is ideal for experiencing the city like a local and covering larger distances with ease."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tapas-Bars",
+            "tip": "Nutzen Sie die Gelegenheit, verschiedene kleine Gerichte in den Bars in der Nähe der Bushaltestellen zu probieren."
+          },
+          {
+            "name": "Frutas de Aragón",
+            "tip": "Kandierte Früchte in Schokolade getaucht, ein süßer Snack für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tapas bárok",
+            "tip": "Használja ki a lehetőséget, és kóstoljon meg különböző kis ételeket a buszmegállók közelében lévő bárokban."
+          },
+          {
+            "name": "Frutas de Aragón",
+            "tip": "Kandírozott, csokoládéba mártott gyümölcsök, édes snack útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Baruri de tapas",
+            "tip": "Profitați de ocazie pentru a încerca diverse feluri de mâncare mici în barurile de lângă stațiile de autobuz."
+          },
+          {
+            "name": "Frutas de Aragón",
+            "tip": "Fructe confiate învelite în ciocolată, o gustare dulce pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tapas Bars",
+            "tip": "Take the opportunity to try various small dishes at bars near the bus stops."
+          },
+          {
+            "name": "Frutas de Aragón",
+            "tip": "Candied fruits dipped in chocolate, a sweet snack for the road."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Bank im Parque de la Sierra",
+            "tip": "Der perfekte Ort, um sich nach einer Busfahrt die Beine zu vertreten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Innenhof der Kirche San Pedro",
+            "tip": "Ein ruhiger Ort im Herzen der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy pad a Parque de la Sierrában",
+            "tip": "Tökéletes hely a lábak kinyújtóztatására egy buszút után.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A San Pedro-templom udvara",
+            "tip": "Egy csendes hely a város szívében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă în Parque de la Sierra",
+            "tip": "Locul perfect pentru a vă dezmorți picioarele după o călătorie cu autobuzul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea interioară a Bisericii San Pedro",
+            "tip": "Un loc liniștit în inima orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench in Parque de la Sierra",
+            "tip": "The perfect place to stretch your legs after a bus ride.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Courtyard of San Pedro Church",
+            "tip": "A quiet spot in the heart of the town.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske",
+            "tip": "Kaufen Sie Ihr Busticket und vielleicht eine lokale Zeitung an einem Kiosk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok",
+            "tip": "Vásárolja meg a buszjegyét és esetleg egy helyi újságot egy kioszkban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri",
+            "tip": "Cumpărați-vă biletul de autobuz și poate un ziar local de la un chioșc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks",
+            "tip": "Buy your bus ticket and maybe a local newspaper from a kiosk."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte, wenn Sie mehrere Busfahrten planen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, besonders an Wochenenden.",
+          "Halten Sie Kleingeld für Tickets bereit."
+        ],
+        "hu": [
+          "Vásároljon napijegyet, ha több buszútra készül.",
+          "Előre ellenőrizze a buszmenetrendet, különösen hétvégén.",
+          "Készítsen elő aprópénzt a jegyekhez."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi dacă plănuiți mai multe călătorii cu autobuzul.",
+          "Verificați programul autobuzelor în avans, mai ales în weekend.",
+          "Pregătiți monede pentru bilete."
+        ],
+        "en": [
+          "Buy a day pass if you plan on taking multiple bus trips.",
+          "Check the bus schedule in advance, especially on weekends.",
+          "Have small change ready for tickets."
+        ]
+      }
+    }
+  }
+}

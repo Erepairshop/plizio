@@ -1,0 +1,1446 @@
+{
+  "city_id": "adana-cities-v2",
+  "anchor": {
+    "name": "Adana",
+    "coords": [
+      35.3213,
+      37
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Großer Uhrturm (Büyük Saat)",
+            "hu": "Nagy Óratorony (Büyük Saat)",
+            "ro": "Marele Turn cu Ceas (Büyük Saat)",
+            "en": "Grand Clock Tower (Büyük Saat)"
+          },
+          "coords": [
+            35.3285,
+            36.9935
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der perfekte Treffpunkt, um den Tag im historischen Herzen der Stadt zu beginnen.",
+            "hu": "Tökéletes találkozási pont a nap indításához a város történelmi szívében.",
+            "ro": "Punctul de întâlnire perfect pentru a începe ziua în inima istorică a orașului.",
+            "en": "The perfect meeting point to start your day in the historic heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Große Moschee (Ulu Cami)",
+            "hu": "Nagy Mecset (Ulu Cami)",
+            "ro": "Marea Moschee (Ulu Cami)",
+            "en": "Grand Mosque (Ulu Cami)"
+          },
+          "coords": [
+            35.329,
+            36.994
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Mischung aus seldschukischer und mamlukischer Architektur.",
+            "hu": "Figyelje meg a szeldzsuk és mameluk építészet keveredését.",
+            "ro": "Observați amestecul de arhitectură selgiucidă și mamelucă.",
+            "en": "Notice the blend of Seljuk and Mamluk architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Steinbrücke (Taşköprü)",
+            "hu": "Kőhíd (Taşköprü)",
+            "ro": "Podul de Piatră (Taşköprü)",
+            "en": "Stone Bridge (Taşköprü)"
+          },
+          "coords": [
+            35.328,
+            36.9985
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:33",
+          "stay_min": 30,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Überqueren Sie die älteste noch genutzte Brücke der Welt bei Sonnenuntergang für eine tolle Aussicht.",
+            "hu": "Sétáljon át a világ legrégebbi, ma is használatban lévő hídján naplementekor a csodás kilátásért.",
+            "ro": "Traversați cel mai vechi pod încă în uz din lume la apus pentru priveliști grozave.",
+            "en": "Cross the oldest bridge in the world still in use at sunset for great views."
+          }
+        },
+        {
+          "name": {
+            "de": "Sabancı-Zentralmoschee",
+            "hu": "Sabancı Központi Mecset",
+            "ro": "Moscheea Centrală Sabancı",
+            "en": "Sabancı Central Mosque"
+          },
+          "coords": [
+            35.325,
+            37.0001
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:11",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Moschee außerhalb der Gebetszeiten, um die beeindruckende Innenausstattung in Ruhe zu bewundern.",
+            "hu": "Látogassa meg a mecsetet az imaidőn kívül, hogy nyugodtan megcsodálhassa a lenyűgöző belső teret.",
+            "ro": "Vizitați moscheea în afara orelor de rugăciune pentru a admira în liniște interiorul impresionant.",
+            "en": "Visit outside of prayer times to admire the impressive interior in peace."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentralpark (Merkez Park)",
+            "hu": "Központi Park (Merkez Park)",
+            "ro": "Parcul Central (Merkez Park)",
+            "en": "Central Park (Merkez Park)"
+          },
+          "coords": [
+            35.318,
+            37.002
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:19",
+          "stay_min": 120,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause. Viele Cafés und Grünflächen zum Entspannen.",
+            "hu": "Tökéletes egy ebédszünetre. Rengeteg kávézó és zöld terület a pihenéshez.",
+            "ro": "Perfect pentru o pauză de prânz. Multe cafenele și spații verzi pentru relaxare.",
+            "en": "Perfect for a lunch break. Lots of cafes and green spaces to relax."
+          }
+        },
+        {
+          "name": {
+            "de": "Atatürk-Hausmuseum",
+            "hu": "Atatürk Házmúzeum",
+            "ro": "Casa Muzeu Atatürk",
+            "en": "Atatürk's House Museum"
+          },
+          "coords": [
+            35.324,
+            36.998
+          ],
+          "category": "museums",
+          "arrive_at": "15:07",
+          "stay_min": 138,
+          "hop_from_prev_km": 1.9,
+          "hop_from_prev_min": 38,
+          "tip_5lang": {
+            "de": "Ein Einblick in das Leben des Gründers der Türkei, ein Muss für Geschichtsinteressierte.",
+            "hu": "Betekintés Törökország alapítójának életébe, kötelező a történelem iránt érdeklődőknek.",
+            "ro": "O privire în viața fondatorului Turciei, obligatoriu pentru pasionații de istorie.",
+            "en": "An insight into the life of Turkey's founder, a must for history buffs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am Büyük Saat, dem Herzschlag des alten Adana. Spüren Sie die Geschichte unter Ihren Füßen, während Sie zur majestätischen Ulu Cami schlendern. Der Vormittag führt Sie über die antike Taşköprü-Brücke, die den Fluss Seyhan überspannt und Sie mit der modernen Pracht der Sabancı-Zentralmoschee verbindet. Gönnen Sie sich am Mittag eine lange, erholsame Pause im weitläufigen Merkez Park, einem perfekten Ort, um die lokale Atmosphäre bei einem gemütlichen Mittagessen aufzusaugen. Der Nachmittag ist der Kultur gewidmet. Tauchen Sie im Atatürk-Hausmuseum tief in die türkische Geschichte ein und lassen Sie den Tag ausklingen. Am Abend lockt die Gegend um den Uhrturm erneut mit ihren vielen Restaurants, in denen Sie einen authentischen Adana-Kebab genießen können.",
+        "hu": "Kezdje a napját a Büyük Saatnál, a régi Adana szívdobbanásánál. Érezze a történelmet a lába alatt, miközben átsétál a fenséges Ulu Camihoz. A délelőtt az ókori Taşköprü hídon vezet át, amely a Seyhan folyón ível át, összekötve Önt a Sabancı Központi Mecset modern pompájával. Délben tartson egy hosszú, pihentető szünetet a tágas Merkez Parkban, amely tökéletes hely a helyi hangulat magába szívására egy kellemes ebéd mellett. A délután a kultúráé. Merüljön el mélyen a török történelemben az Atatürk Házmúzeumban. Este az óratorony környéke ismét csábít a számos éttermével, ahol egy autentikus Adana kebabot fogyaszthat.",
+        "ro": "Începeți-vă ziua la Büyük Saat, pulsul vechiului Adana. Simțiți istoria sub picioare în timp ce vă plimbați spre maiestuoasa Ulu Cami. Dimineața vă poartă peste anticul pod Taşköprü, care traversează râul Seyhan, conectându-vă cu splendoarea modernă a Moscheei Centrale Sabancı. La prânz, acordați-vă o pauză lungă și relaxantă în vastul Parc Merkez, un loc perfect pentru a absorbi atmosfera locală cu un prânz pe îndelete. După-amiaza este dedicată culturii. Pătrundeți adânc în istoria turcă la Casa Muzeu Atatürk. Seara, zona din jurul turnului cu ceas vă atrage din nou cu numeroasele sale restaurante unde puteți savura un kebab Adana autentic.",
+        "en": "Start your day at Büyük Saat, the heartbeat of old Adana. Feel the history beneath your feet as you stroll to the majestic Ulu Cami. The morning takes you across the ancient Taşköprü bridge spanning the Seyhan River, connecting you to the modern splendor of the Sabancı Central Mosque. At midday, treat yourself to a long, relaxing break in the expansive Merkez Park, a perfect spot to soak up the local atmosphere over a leisurely lunch. The afternoon is dedicated to culture. Delve deep into Turkish history at the Atatürk's House Museum. In the evening, the area around the clock tower beckons again with its many restaurants where you can enjoy an authentic Adana kebab."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Adana Kebab",
+            "tip": "Probieren Sie ihn im Eyvan Kebap für ein authentisches Erlebnis."
+          },
+          {
+            "name": "Şırdan",
+            "tip": "Ein lokales Streetfood-Abenteuer für Mutige bei Şırdancı Bedo."
+          },
+          {
+            "name": "Bici Bici",
+            "tip": "Ein erfrischendes Dessert aus gestärktem Eis, perfekt für einen heißen Tag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Adana Kebab",
+            "tip": "Kóstolja meg az Eyvan Kebapban az autentikus élményért."
+          },
+          {
+            "name": "Şırdan",
+            "tip": "Helyi street food kaland a bátraknak a Şırdancı Bedónál."
+          },
+          {
+            "name": "Bici Bici",
+            "tip": "Frissítő desszert keményített jégből, tökéletes egy forró napra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Adana Kebab",
+            "tip": "Încercați-l la Eyvan Kebap pentru o experiență autentică."
+          },
+          {
+            "name": "Şırdan",
+            "tip": "O aventură culinară stradală locală pentru cei curajoși la Şırdancı Bedo."
+          },
+          {
+            "name": "Bici Bici",
+            "tip": "Un desert răcoritor din gheață cu amidon, perfect pentru o zi fierbinte."
+          }
+        ],
+        "en": [
+          {
+            "name": "Adana Kebab",
+            "tip": "Try it at Eyvan Kebap for an authentic experience."
+          },
+          {
+            "name": "Şırdan",
+            "tip": "A local street food adventure for the brave at Şırdancı Bedo."
+          },
+          {
+            "name": "Bici Bici",
+            "tip": "A refreshing dessert of starched ice, perfect for a hot day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Seyhan-Stausee",
+            "tip": "Ein Spaziergang am Ufer bietet eine ruhige Flucht aus der Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Merkez Park",
+            "tip": "Finden Sie eine ruhige Ecke abseits der Hauptwege zum Entspannen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang an der Taşköprü",
+            "tip": "Beobachten Sie, wie die Sonne hinter der Moschee untergeht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Seyhan-víztározó",
+            "tip": "Egy séta a part mentén békés kikapcsolódást nyújt a városból.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Merkez Park",
+            "tip": "Keressen egy csendes zugot a fő utaktól távol a pihenéshez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a Taşköprü-nél",
+            "tip": "Nézze, ahogy a nap lemegy a mecset mögött.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul de acumulare Seyhan",
+            "tip": "O plimbare de-a lungul malului oferă o evadare liniștită din oraș.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Merkez",
+            "tip": "Găsiți un colț liniștit departe de aleile principale pentru a vă relaxa.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus la Taşköprü",
+            "tip": "Priviți soarele apunând în spatele moscheii.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Seyhan Dam Lake",
+            "tip": "A walk along the shore offers a peaceful escape from the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Merkez Park",
+            "tip": "Find a quiet corner away from the main paths to relax.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset at Taşköprü",
+            "tip": "Watch the sun set behind the mosque.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kazancılar Çarşısı (Kupferschmiedebasar)",
+            "tip": "Finden Sie handgefertigte Kupferwaren und erleben Sie ein traditionelles Basar-Gefühl."
+          },
+          {
+            "name": "Lokale Gewürzläden",
+            "tip": "Kaufen Sie Sumach und Pul Biber, um den Geschmack von Adana mit nach Hause zu nehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kazancılar Çarşısı (Rézműves bazár)",
+            "tip": "Találjon kézzel készített rézárukat és élvezze a hagyományos bazár hangulatát."
+          },
+          {
+            "name": "Helyi fűszerboltok",
+            "tip": "Vásároljon szumákot és pul bibert, hogy hazavigye Adana ízeit."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kazancılar Çarşısı (Bazarul Arămarilor)",
+            "tip": "Găsiți articole din cupru lucrate manual și experimentați o atmosferă de bazar tradițional."
+          },
+          {
+            "name": "Magazine locale de condimente",
+            "tip": "Cumpărați sumac și pul biber pentru a lua acasă gustul Adanei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kazancılar Çarşısı (Coppersmiths' Bazaar)",
+            "tip": "Find handmade copper goods and experience a traditional bazaar feel."
+          },
+          {
+            "name": "Local Spice Shops",
+            "tip": "Buy sumac and pul biber to take the taste of Adana home with you."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel auf Kopfsteinpflaster laufen werden.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit; es kann sehr heiß werden.",
+          "Haben Sie immer etwas Bargeld für kleine Einkäufe auf dem Basar dabei.",
+          "Bedecken Sie Schultern und Knie, wenn Sie Moscheen betreten."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog macskakövön sétálni.",
+          "Vigyen magával újratölthető vizes palackot; nagyon meleg lehet.",
+          "Mindig legyen Önnél készpénz a bazári apróbb vásárlásokhoz.",
+          "Takarja el a vállát és a térdét, amikor mecsetekbe lép be."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe piatră cubică.",
+          "Luați o sticlă de apă reutilizabilă; poate fi foarte cald.",
+          "Aveți întotdeauna niște numerar la dumneavoastră pentru cumpărături mici în bazar.",
+          "Acoperiți-vă umerii și genunchii la intrarea în moschei."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be walking a lot on cobblestones.",
+          "Bring a reusable water bottle; it can get very hot.",
+          "Always have some cash on you for small purchases in the bazaar.",
+          "Cover your shoulders and knees when entering mosques."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentralpark (Merkez Park)",
+            "hu": "Központi Park (Merkez Park)",
+            "ro": "Parcul Central (Merkez Park)",
+            "en": "Central Park (Merkez Park)"
+          },
+          "coords": [
+            35.318,
+            37.002
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie hier, um das Fahrrad zu mieten und die morgendliche Frische zu genießen.",
+            "hu": "Induljon innen, béreljen kerékpárt, és élvezze a reggeli frissességet.",
+            "ro": "Începeți de aici pentru a închiria o bicicletă și a vă bucura de prospețimea dimineții.",
+            "en": "Start here to rent a bike and enjoy the morning freshness."
+          }
+        },
+        {
+          "name": {
+            "de": "Sabancı-Zentralmoschee",
+            "hu": "Sabancı Központi Mecset",
+            "ro": "Moscheea Centrală Sabancı",
+            "en": "Sabancı Central Mosque"
+          },
+          "coords": [
+            35.325,
+            37.0001
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:16",
+          "stay_min": 50,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Es gibt Fahrradständer in der Nähe des Haupteingangs.",
+            "hu": "A főbejárat közelében vannak kerékpártárolók.",
+            "ro": "Există suporturi pentru biciclete lângă intrarea principală.",
+            "en": "There are bike racks near the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Steinbrücke (Taşköprü)",
+            "hu": "Kőhíd (Taşköprü)",
+            "ro": "Podul de Piatră (Taşköprü)",
+            "en": "Stone Bridge (Taşköprü)"
+          },
+          "coords": [
+            35.328,
+            36.9985
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Fahren Sie über die Brücke, aber seien Sie vorsichtig mit den Fußgängern.",
+            "hu": "Tekerjen át a hídon, de legyen óvatos a gyalogosokkal.",
+            "ro": "Traversați podul cu bicicleta, dar aveți grijă la pietoni.",
+            "en": "Cycle across the bridge, but be careful with pedestrians."
+          }
+        },
+        {
+          "name": {
+            "de": "Großer Uhrturm (Büyük Saat)",
+            "hu": "Nagy Óratorony (Büyük Saat)",
+            "ro": "Marele Turn cu Ceas (Büyük Saat)",
+            "en": "Grand Clock Tower (Büyük Saat)"
+          },
+          "coords": [
+            35.3285,
+            36.9935
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:46",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie den Basar zu Fuß. Hier ist ein guter Ort für ein Mittagessen.",
+            "hu": "Zárja le a kerékpárt, és fedezze fel a bazárt gyalog. Jó hely egy ebédre.",
+            "ro": "Parcați bicicleta și explorați bazarul pe jos. Este un loc bun pentru prânz.",
+            "en": "Lock up your bike and explore the bazaar on foot. This is a good spot for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Ulu Cami",
+            "hu": "Ulu Cami",
+            "ro": "Ulu Cami",
+            "en": "Ulu Cami"
+          },
+          "coords": [
+            35.329,
+            36.994
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Uhrturm, lassen Sie Ihr Fahrrad dort.",
+            "hu": "Rövid séta az óratoronytól, hagyja ott a kerékpárt.",
+            "ro": "O scurtă plimbare de la turnul cu ceas, lăsați bicicleta acolo.",
+            "en": "A short walk from the clock tower, leave your bike there."
+          }
+        },
+        {
+          "name": {
+            "de": "Kinomuseum Adana",
+            "hu": "Adanai Mozimúzeum",
+            "ro": "Muzeul Cinematografiei din Adana",
+            "en": "Adana Cinema Museum"
+          },
+          "coords": [
+            35.3245,
+            36.997
+          ],
+          "category": "museums",
+          "arrive_at": "15:00",
+          "stay_min": 105,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 5.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einer Dosis türkischer Filmgeschichte.",
+            "hu": "Zárja a kerékpártúrát egy adag török filmtörténettel.",
+            "ro": "Încheiați-vă turul pe bicicletă cu o doză de istorie cinematografică turcă.",
+            "en": "End your bike tour with a dose of Turkish cinema history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich im Merkez Park aufs Rad, wo der Tag mit einer leichten Brise beginnt. Ihre erste Etappe führt Sie entlang des Flusses zur prächtigen Sabancı-Moschee. Weiter geht es über die historische Taşköprü, ein aufregendes Erlebnis auf zwei Rädern. Der Vormittag gipfelt am Büyük Saat, wo Sie Ihr Rad abstellen, um das geschäftige Basarviertel zu erkunden und ein herzhaftes Mittagessen zu genießen. Gestärkt machen Sie einen kurzen Spaziergang zur ehrwürdigen Ulu Cami. Der Nachmittag bringt Sie auf einer längeren Fahrt zum Kinomuseum, eine perfekte Abrundung des Tages. Radeln Sie bei Sonnenuntergang gemütlich zurück zum Park und geben Sie Ihr Fahrrad zurück, erfüllt von den Eindrücken des Tages.",
+        "hu": "Pattanjon kerékpárra a Merkez Parkban, ahol a nap egy könnyű szellővel indul. Az első szakasz a folyó mentén a csodálatos Sabancı-mecsethez vezet. Az út a történelmi Taşköprü hídon át folytatódik, ami izgalmas élmény két keréken. A délelőtt a Büyük Saatnál csúcsosodik ki, ahol lezárhatja a kerékpárt, hogy felfedezze a nyüzsgő bazárnegyedet és elfogyasszon egy kiadós ebédet. Feltöltődve tegyen egy rövid sétát a tiszteletreméltó Ulu Camihoz. A délután egy hosszabb útra viszi a Mozimúzeumhoz, ami tökéletes lezárása a napnak. Naplementekor tekerjen vissza kényelmesen a parkba, és adja le a kerékpárt, tele a nap élményeivel.",
+        "ro": "Urcați-vă pe bicicletă în Parcul Merkez, unde ziua începe cu o briză ușoară. Prima etapă vă duce de-a lungul râului spre magnifica Moschee Sabancı. Continuați peste istoricul pod Taşköprü, o experiență palpitantă pe două roți. Dimineața culminează la Büyük Saat, unde vă parcați bicicleta pentru a explora cartierul plin de viață al bazarului și a savura un prânz consistent. Revigorat, faceți o scurtă plimbare până la venerabila Ulu Cami. După-amiaza vă poartă într-o plimbare mai lungă spre Muzeul Cinematografiei, o încheiere perfectă a zilei. Pedalați agale înapoi spre parc la apus pentru a returna bicicleta, plin de impresiile zilei.",
+        "en": "Hop on your bike in Merkez Park, where the day starts with a light breeze. Your first leg takes you along the river to the magnificent Sabancı Mosque. Continue across the historic Taşköprü bridge, a thrilling experience on two wheels. The morning culminates at Büyük Saat, where you'll park your bike to explore the bustling bazaar district and enjoy a hearty lunch. Re-energized, take a short walk to the venerable Ulu Cami. The afternoon takes you on a longer ride to the Cinema Museum, a perfect way to round off the day. Cycle leisurely back to the park at sunset to return your bike, filled with the day's impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Adana Kebab",
+            "tip": "Probieren Sie ihn im Eyvan Kebap für ein authentisches Erlebnis."
+          },
+          {
+            "name": "Şalgam Suyu",
+            "tip": "Ein lokales fermentiertes Getränk aus Steckrüben, um sich nach dem Radfahren zu erfrischen."
+          },
+          {
+            "name": "Cezerye",
+            "tip": "Ein süßer Energieriegel aus Karotten, perfekt für einen schnellen Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Adana Kebab",
+            "tip": "Kóstolja meg az Eyvan Kebapban az autentikus élményért."
+          },
+          {
+            "name": "Şalgam Suyu",
+            "tip": "Helyi erjesztett fehérrépa ital, hogy felfrissüljön a biciklizés után."
+          },
+          {
+            "name": "Cezerye",
+            "tip": "Édes energiaszelet sárgarépából, tökéletes egy gyors harapnivalóhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Adana Kebab",
+            "tip": "Încercați-l la Eyvan Kebap pentru o experiență autentică."
+          },
+          {
+            "name": "Şalgam Suyu",
+            "tip": "O băutură locală fermentată din napi, pentru a vă reîmprospăta după ciclism."
+          },
+          {
+            "name": "Cezerye",
+            "tip": "Un baton energetic dulce din morcovi, perfect pentru o gustare rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Adana Kebab",
+            "tip": "Try it at Eyvan Kebap for an authentic experience."
+          },
+          {
+            "name": "Şalgam Suyu",
+            "tip": "A local fermented turnip drink to refresh yourself after cycling."
+          },
+          {
+            "name": "Cezerye",
+            "tip": "A sweet energy bar made from carrots, perfect for a quick snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Seyhan-Fluss",
+            "tip": "Eine ruhige Fahrt entlang des Wassers am frühen Morgen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Garten der Ulu Cami",
+            "tip": "Ein friedlicher Innenhof zum Innehalten.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Blick von der Taşköprü",
+            "tip": "Halten Sie in der Mitte an, um die Aussicht auf den Fluss und die Moschee zu genießen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Seyhan folyóparti kerékpárút",
+            "tip": "Békés tekerés a víz mentén kora reggel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ulu Cami kertje",
+            "tip": "Békés belső udvar egy pillanatnyi megállásra.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás a Taşköprü hídról",
+            "tip": "Álljon meg a közepén, hogy élvezze a folyóra és a mecsetre nyíló kilátást.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de pe malul râului Seyhan",
+            "tip": "O plimbare liniștită de-a lungul apei dimineața devreme.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Moscheii Ulu Cami",
+            "tip": "O curte interioară pașnică pentru a face o pauză.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Priveliște de pe Podul Taşköprü",
+            "tip": "Opriți-vă la mijloc pentru a vă bucura de priveliștea asupra râului și a moscheii.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Seyhan River bike path",
+            "tip": "A quiet ride along the water in the early morning.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ulu Cami's garden",
+            "tip": "A peaceful courtyard to pause and reflect.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from Taşköprü Bridge",
+            "tip": "Stop in the middle to enjoy the view of the river and the mosque.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradzubehör-Läden",
+            "tip": "Entlang des Flusses gibt es mehrere Läden für eventuelle Reparaturen oder Zubehör."
+          },
+          {
+            "name": "Lokale Märkte in der Nähe des Uhrturms",
+            "tip": "Kaufen Sie frisches Obst für einen Energieschub."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "A folyó mentén több bolt is található esetleges javításokhoz vagy kiegészítőkhöz."
+          },
+          {
+            "name": "Helyi piacok az óratorony közelében",
+            "tip": "Vásároljon friss gyümölcsöt egy energiafeltöltéshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de accesorii pentru biciclete",
+            "tip": "Există mai multe magazine de-a lungul râului pentru eventuale reparații sau accesorii."
+          },
+          {
+            "name": "Piețe locale lângă Turnul cu Ceas",
+            "tip": "Cumpărați fructe proaspete pentru un plus de energie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike accessory shops",
+            "tip": "There are several shops along the river for any repairs or accessories."
+          },
+          {
+            "name": "Local markets near the Clock Tower",
+            "tip": "Buy some fresh fruit for an energy boost."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad mit Gangschaltung für mehr Komfort.",
+          "Tragen Sie einen Helm und seien Sie im Stadtverkehr vorsichtig.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, auch für kurze Stopps.",
+          "Nutzen Sie die Radwege entlang des Flusses für eine sicherere Fahrt."
+        ],
+        "hu": [
+          "Béreljen váltós kerékpárt a nagyobb kényelem érdekében.",
+          "Viseljen sisakot és legyen óvatos a városi forgalomban.",
+          "Mindig zárja le jól a kerékpárt, még rövid megállókra is.",
+          "Használja a folyó menti kerékpárutakat a biztonságosabb közlekedés érdekében."
+        ],
+        "ro": [
+          "Închiriați o bicicletă cu viteze pentru mai mult confort.",
+          "Purtați o cască și fiți atenți în traficul urban.",
+          "Legați-vă întotdeauna bicicleta bine, chiar și pentru opriri scurte.",
+          "Folosiți pistele de biciclete de-a lungul râului pentru o plimbare mai sigură."
+        ],
+        "en": [
+          "Rent a bike with gears for more comfort.",
+          "Wear a helmet and be cautious in city traffic.",
+          "Always lock your bike securely, even for short stops.",
+          "Use the bike paths along the river for a safer ride."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 102.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Varda-Viadukt (Deutsche Brücke)",
+            "hu": "Varda Viadukt (Német híd)",
+            "ro": "Viaductul Varda (Podul German)",
+            "en": "Varda Viaduct (German Bridge)"
+          },
+          "coords": [
+            35.0875,
+            37.2433
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 70,
+          "hop_from_prev_km": 50,
+          "tip_5lang": {
+            "de": "Früh ankommen, um die Menschenmassen zu vermeiden und die beste Beleuchtung für Fotos zu haben.",
+            "hu": "Érkezzen korán, hogy elkerülje a tömeget és a legjobb fényviszonyokat kapja a fotózáshoz.",
+            "ro": "Ajungeți devreme pentru a evita mulțimile și pentru a avea cea mai bună lumină pentru fotografii.",
+            "en": "Arrive early to avoid the crowds and get the best light for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Panorama-Café in der Nähe des Viadukts",
+            "hu": "Panoráma kávézó a viadukt közelében",
+            "ro": "Cafenea panoramică lângă viaduct",
+            "en": "Panorama Café near the Viaduct"
+          },
+          "coords": [
+            35.089,
+            37.242
+          ],
+          "category": "gastro",
+          "arrive_at": "11:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie einen türkischen Tee mit atemberaubender Aussicht auf die Schlucht.",
+            "hu": "Élvezzen egy török teát a szurdokra nyíló lélegzetelállító kilátás mellett.",
+            "ro": "Savurați un ceai turcesc cu o priveliște uluitoare asupra canionului.",
+            "en": "Enjoy a Turkish tea with a breathtaking view of the canyon."
+          }
+        },
+        {
+          "name": {
+            "de": "Parken im Stadtzentrum (nahe Sabancı-Moschee)",
+            "hu": "Parkolás a városközpontban (a Sabancı-mecset közelében)",
+            "ro": "Parcare în centrul orașului (lângă Moscheea Sabancı)",
+            "en": "City Center Parking (near Sabancı Mosque)"
+          },
+          "coords": [
+            35.323,
+            37.001
+          ],
+          "category": "transport",
+          "arrive_at": "13:30",
+          "stay_min": 0,
+          "hop_from_prev_min": 70,
+          "hop_from_prev_km": 51,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Rest des Tages und erkunden Sie den Rest zu Fuß.",
+            "hu": "Parkoljon le itt a nap hátralévő részére, és fedezze fel a többit gyalog.",
+            "ro": "Parcați aici pentru restul zilei și explorați restul pe jos.",
+            "en": "Park here for the rest of the day and explore the remainder on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Sabancı-Zentralmoschee",
+            "hu": "Sabancı Központi Mecset",
+            "ro": "Moscheea Centrală Sabancı",
+            "en": "Sabancı Central Mosque"
+          },
+          "coords": [
+            35.325,
+            37.0001
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für das Innere. Ein guter Ort für ein spätes Mittagessen in der Nähe.",
+            "hu": "Szánjon időt a belső térre. Jó hely egy késői ebédhez a közelben.",
+            "ro": "Acordați-vă timp pentru interior. Un loc bun pentru un prânz târziu în apropiere.",
+            "en": "Take your time for the interior. A good place for a late lunch nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Steinbrücke (Taşköprü)",
+            "hu": "Kőhíd (Taşköprü)",
+            "ro": "Podul de Piatră (Taşköprü)",
+            "en": "Stone Bridge (Taşköprü)"
+          },
+          "coords": [
+            35.328,
+            36.9985
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:22",
+          "stay_min": 30,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang von der Moschee aus, der Geschichte und Moderne verbindet.",
+            "hu": "Kellemes séta a mecsettől, amely összeköti a történelmet és a modernitást.",
+            "ro": "O plimbare frumoasă de la moschee, care leagă istoria și modernitatea.",
+            "en": "A pleasant walk from the mosque, connecting history and modernity."
+          }
+        },
+        {
+          "name": {
+            "de": "Großer Uhrturm & Basar",
+            "hu": "Nagy Óratorony és bazár",
+            "ro": "Marele Turn cu Ceas & Bazar",
+            "en": "Grand Clock Tower & Bazaar"
+          },
+          "coords": [
+            35.3285,
+            36.9935
+          ],
+          "category": "shopping",
+          "arrive_at": "16:04",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den Gassen des Basars rund um den Uhrturm.",
+            "hu": "Vesszen el a bazár sikátoraiban az óratorony körül.",
+            "ro": "Pierdeți-vă pe aleile bazarului din jurul turnului cu ceas.",
+            "en": "Get lost in the alleys of the bazaar around the clock tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Ulu Cami",
+            "hu": "Ulu Cami",
+            "ro": "Ulu Cami",
+            "en": "Ulu Cami"
+          },
+          "coords": [
+            35.329,
+            36.994
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:36",
+          "stay_min": 39,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein ruhiger Abschluss des Tages im historischen Zentrum.",
+            "hu": "A nap békés lezárása a történelmi központban.",
+            "ro": "O încheiere liniștită a zilei în centrul istoric.",
+            "en": "A peaceful end to the day in the historic center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einer malerischen Fahrt zum beeindruckenden Varda-Viadukt, einem Meisterwerk der Ingenieurskunst. Genießen Sie die atemberaubende Landschaft und einen Tee, bevor Sie zurück ins Herz von Adana fahren. Parken Sie Ihr Auto in der Nähe der Sabancı-Moschee und lassen Sie es dort für den Rest des Tages. Nach der Besichtigung der grandiosen Moschee und einem späten Mittagessen führt Sie ein Spaziergang über die historische Taşköprü in die Altstadt. Erkunden Sie den lebhaften Basar rund um den Büyük Saat. Der Nachmittag ist perfekt, um in den engen Gassen nach Souvenirs zu stöbern und die Atmosphäre aufzusaugen, bevor Sie den Tag mit einem Besuch der ruhigen Ulu Cami ausklingen lassen. Zum Abendessen kehren Sie zu Fuß in eines der vielen Kebab-Restaurants der Gegend ein.",
+        "hu": "A nap egy festői autózással kezdődik a lenyűgöző Varda-viadukthoz, a mérnöki tudomány mesterművéhez. Élvezze a lélegzetelállító tájat és egy teát, mielőtt visszatérne Adana szívébe. Parkolja le az autót a Sabancı-mecset közelében, és hagyja ott a nap hátralévő részére. A grandiózus mecset megtekintése és egy késői ebéd után egy séta a történelmi Taşköprü hídon át az óvárosba vezet. Fedezze fel a Büyük Saat körüli élénk bazárt. A délután tökéletes arra, hogy a szűk sikátorokban szuvenírek után kutasson és magába szívja a hangulatot, mielőtt a napot a békés Ulu Cami meglátogatásával zárja. Vacsorára sétáljon vissza a környék számos kebabéttermének egyikébe.",
+        "ro": "Ziua începe cu o călătorie pitorească spre impresionantul Viaduct Varda, o capodoperă a ingineriei. Bucurați-vă de peisajul uluitor și de un ceai înainte de a vă întoarce în inima Adanei. Parcați mașina lângă Moscheea Sabancı și lăsați-o acolo pentru restul zilei. După vizitarea grandioasei moschei și un prânz târziu, o plimbare peste istoricul pod Taşköprü vă va duce în orașul vechi. Explorați bazarul plin de viață din jurul Büyük Saat. După-amiaza este perfectă pentru a căuta suveniruri pe aleile înguste și pentru a absorbi atmosfera, înainte de a încheia ziua cu o vizită la liniștita Ulu Cami. Pentru cină, întoarceți-vă pe jos la unul dintre multele restaurante cu kebab din zonă.",
+        "en": "Your day begins with a scenic drive to the stunning Varda Viaduct, a masterpiece of engineering. Enjoy the breathtaking scenery and a tea before heading back to the heart of Adana. Park your car near the Sabancı Mosque and leave it there for the rest of the day. After visiting the grand mosque and having a late lunch, a walk across the historic Taşköprü bridge will lead you to the old town. Explore the lively bazaar around the Büyük Saat. The afternoon is perfect for browsing for souvenirs in the narrow alleys and soaking up the atmosphere, before ending the day with a visit to the tranquil Ulu Cami. For dinner, walk back to one of the many kebab restaurants in the area."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frühstück auf dem Land",
+            "tip": "Halten Sie auf dem Weg zum Viadukt für ein traditionelles türkisches Frühstück an."
+          },
+          {
+            "name": "Adana Kebab",
+            "tip": "Belohnen Sie sich nach einem langen Tag mit dem besten Kebab bei Ciğerci Mahmut."
+          },
+          {
+            "name": "Atom",
+            "tip": "Ein scharfer Meze-Dip, der perfekt zu Ihrem Kebab passt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vidéki reggeli",
+            "tip": "Álljon meg egy hagyományos török reggelire a viadukthoz vezető úton."
+          },
+          {
+            "name": "Adana Kebab",
+            "tip": "Jutalmazza meg magát egy hosszú nap után a legjobb kebabbal a Ciğerci Mahmutnál."
+          },
+          {
+            "name": "Atom",
+            "tip": "Csípős meze, amely tökéletesen illik a kebabhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mic dejun la țară",
+            "tip": "Opriți-vă pentru un mic dejun tradițional turcesc în drum spre viaduct."
+          },
+          {
+            "name": "Adana Kebab",
+            "tip": "Recompensați-vă după o zi lungă cu cel mai bun kebab la Ciğerci Mahmut."
+          },
+          {
+            "name": "Atom",
+            "tip": "Un aperitiv meze picant care se potrivește perfect cu kebab-ul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Countryside Breakfast",
+            "tip": "Stop for a traditional Turkish breakfast on the way to the viaduct."
+          },
+          {
+            "name": "Adana Kebab",
+            "tip": "Reward yourself after a long day with the best kebab at Ciğerci Mahmut."
+          },
+          {
+            "name": "Atom",
+            "tip": "A spicy meze dip that goes perfectly with your kebab."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Varda-Viadukt am Morgen",
+            "tip": "Die Stille der Schlucht, bevor die Touristen ankommen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hof der Ulu Cami",
+            "tip": "Ein Moment der Ruhe im geschäftigen Basarviertel.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Blick vom Seyhan-Ufer",
+            "tip": "Finden Sie eine Bank am Flussufer und beobachten Sie das Wasser.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Varda-viadukt reggel",
+            "tip": "A szurdok csendje, mielőtt a turisták megérkeznek.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ulu Cami udvara",
+            "tip": "Egy pillanatnyi béke a nyüzsgő bazárnegyedben.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás a Seyhan partjáról",
+            "tip": "Keressen egy padot a folyóparton, és nézze a vizet.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Viaductul Varda dimineața",
+            "tip": "Liniștea canionului înainte de sosirea turiștilor.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea Moscheii Ulu Cami",
+            "tip": "Un moment de liniște în cartierul aglomerat al bazarului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Priveliște de pe malul râului Seyhan",
+            "tip": "Găsiți o bancă pe malul râului și priviți apa.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Varda Viaduct in the morning",
+            "tip": "The silence of the canyon before the tourists arrive.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Courtyard of Ulu Cami",
+            "tip": "A moment of peace in the busy bazaar district.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from the Seyhan riverbank",
+            "tip": "Find a bench on the riverbank and watch the water.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handwerk vom Land",
+            "tip": "In den Dörfern in der Nähe des Viadukts finden Sie oft einzigartiges Kunsthandwerk."
+          },
+          {
+            "name": "Kazancılar Çarşısı",
+            "tip": "Der beste Ort für traditionelle Kupfer- und Messingwaren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vidéki kézművesség",
+            "tip": "A viadukt közelében lévő falvakban gyakran talál egyedi kézműves termékeket."
+          },
+          {
+            "name": "Kazancılar Çarşısı",
+            "tip": "A legjobb hely a hagyományos réz- és sárgaréz árukhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat de la țară",
+            "tip": "În satele de lângă viaduct puteți găsi adesea meșteșuguri unice."
+          },
+          {
+            "name": "Kazancılar Çarşısı",
+            "tip": "Cel mai bun loc pentru articole tradiționale din cupru și alamă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Countryside crafts",
+            "tip": "You can often find unique handicrafts in the villages near the viaduct."
+          },
+          {
+            "name": "Kazancılar Çarşısı",
+            "tip": "The best place for traditional copper and brassware."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Kraftstoffstand, bevor Sie zum Viadukt fahren.",
+          "Nutzen Sie eine Navigations-App, um Parkplätze im Stadtzentrum zu finden.",
+          "Die Straßen zum Viadukt können eng und kurvig sein, fahren Sie vorsichtig.",
+          "Planen Sie zusätzliche Zeit für den Verkehr in der Stadt ein."
+        ],
+        "hu": [
+          "Ellenőrizze az üzemanyagszintet, mielőtt a viadukthoz indul.",
+          "Használjon navigációs alkalmazást a városközponti parkolók megtalálásához.",
+          "A viadukthoz vezető utak szűkek és kanyargósak lehetnek, vezessen óvatosan.",
+          "Tervezzen plusz időt a városi forgalomra."
+        ],
+        "ro": [
+          "Verificați nivelul combustibilului înainte de a porni spre viaduct.",
+          "Utilizați o aplicație de navigație pentru a găsi parcări în centrul orașului.",
+          "Drumurile spre viaduct pot fi înguste și sinuoase, conduceți cu prudență.",
+          "Planificați timp suplimentar pentru traficul din oraș."
+        ],
+        "en": [
+          "Check your fuel level before heading to the viaduct.",
+          "Use a navigation app to find parking in the city center.",
+          "The roads to the viaduct can be narrow and winding, drive carefully.",
+          "Plan for extra time for city traffic."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrt zur Haltestelle Vilayet (Altstadt)",
+            "hu": "Utazás a Vilayet megállóhoz (Óváros)",
+            "ro": "Călătorie la stația Vilayet (Orașul Vechi)",
+            "en": "Trip to Vilayet Station (Old Town)"
+          },
+          "coords": [
+            35.327,
+            36.995
+          ],
+          "category": "transport",
+          "arrive_at": "09:20",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Kentkart für einfaches Reisen den ganzen Tag über.",
+            "hu": "Vásároljon egy Kentkartot az egész napos egyszerű utazáshoz.",
+            "ro": "Cumpărați un Kentkart pentru călătorii ușoare pe tot parcursul zilei.",
+            "en": "Buy a Kentkart for easy travel throughout the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Großer Uhrturm (Büyük Saat)",
+            "hu": "Nagy Óratorony (Büyük Saat)",
+            "ro": "Marele Turn cu Ceas (Büyük Saat)",
+            "en": "Grand Clock Tower (Büyük Saat)"
+          },
+          "coords": [
+            35.3285,
+            36.9935
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Von der Metrostation Vilayet aus ist es nur ein kurzer Spaziergang.",
+            "hu": "Csak egy rövid séta a Vilayet metróállomástól.",
+            "ro": "La doar o scurtă plimbare de stația de metrou Vilayet.",
+            "en": "Just a short walk from the Vilayet metro station."
+          }
+        },
+        {
+          "name": {
+            "de": "Ulu Cami",
+            "hu": "Ulu Cami",
+            "ro": "Ulu Cami",
+            "en": "Ulu Cami"
+          },
+          "coords": [
+            35.329,
+            36.994
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Praktisch neben dem Uhrturm gelegen, ein einfacher Spaziergang.",
+            "hu": "Gyakorlatilag az óratorony mellett található, könnyű séta.",
+            "ro": "Situată practic lângă turnul cu ceas, o plimbare ușoară.",
+            "en": "Conveniently located next to the clock tower, an easy walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Haltestelle Fatih (Flussufer)",
+            "hu": "Utazás a Fatih megállóhoz (Folyópart)",
+            "ro": "Călătorie la stația Fatih (Malul râului)",
+            "en": "Trip to Fatih Station (Riverbank)"
+          },
+          "coords": [
+            35.32,
+            37.005
+          ],
+          "category": "transport",
+          "arrive_at": "11:02",
+          "stay_min": 0,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie die U-Bahn für eine schnelle Fahrt zum anderen Teil der Stadt.",
+            "hu": "Menjen metróval, hogy gyorsan eljusson a város másik részébe.",
+            "ro": "Luați metroul pentru o călătorie rapidă spre cealaltă parte a orașului.",
+            "en": "Take the metro for a quick trip to the other part of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Merkez Park",
+            "hu": "Merkez Park",
+            "ro": "Parcul Merkez",
+            "en": "Merkez Park"
+          },
+          "coords": [
+            35.318,
+            37.002
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:08",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ideal für die Mittagspause. Viele Essensstände und Cafés in der Nähe der Haltestelle.",
+            "hu": "Ideális ebédszünetre. Sok ételstand és kávézó a megálló közelében.",
+            "ro": "Ideal pentru pauza de prânz. Multe tarabe cu mâncare și cafenele lângă stație.",
+            "en": "Ideal for a lunch break. Many food stalls and cafes near the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Sabancı-Zentralmoschee",
+            "hu": "Sabancı Központi Mecset",
+            "ro": "Moscheea Centrală Sabancı",
+            "en": "Sabancı Central Mosque"
+          },
+          "coords": [
+            35.325,
+            37.0001
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:38",
+          "stay_min": 187,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch den Park führt Sie direkt zu diesem architektonischen Wunder.",
+            "hu": "Egy rövid séta a parkon keresztül egyenesen ehhez az építészeti csodához vezet.",
+            "ro": "O scurtă plimbare prin parc vă duce direct la această minune arhitecturală.",
+            "en": "A short walk through the park takes you directly to this architectural wonder."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag, indem Sie mit der Metro zur Haltestelle Vilayet fahren, die Sie direkt ins historische Zentrum von Adana bringt. Ein kurzer Spaziergang führt Sie zum Büyük Saat und zur benachbarten Ulu Cami, wo Sie den Morgen mit der Erkundung des alten Kerns der Stadt verbringen. Danach bringt Sie eine schnelle Metro-Fahrt zur Haltestelle Fatih am Flussufer. Gönnen Sie sich eine ausgedehnte Mittagspause im weitläufigen Merkez Park, der sich direkt neben der Haltestelle befindet. Am Nachmittag spazieren Sie gemütlich durch den Park zur beeindruckenden Sabancı-Moschee. Nehmen Sie sich Zeit, ihre Pracht zu bewundern. Am Abend kehren Sie mit der Metro ins Stadtzentrum zurück, um in einem der authentischen Restaurants zu Abend zu essen.",
+        "hu": "Kezdje a napot egy metróúttal a Vilayet megállóhoz, amely egyenesen Adana történelmi központjába viszi. Egy rövid séta elvezeti a Büyük Saathoz és a szomszédos Ulu Camihoz, ahol a délelőttöt a város régi magjának felfedezésével töltheti. Ezután egy gyors metróút a Fatih megállóhoz viszi a folyóparton. Tartson egy hosszabb ebédszünetet a tágas Merkez Parkban, amely közvetlenül a megálló mellett található. Délután sétáljon át kényelmesen a parkon a lenyűgöző Sabancı-mecsethez. Szánjon időt a pompájának megcsodálására. Este térjen vissza metróval a városközpontba, hogy egy autentikus étteremben vacsorázzon.",
+        "ro": "Începeți-vă ziua luând metroul până la stația Vilayet, care vă duce direct în centrul istoric al Adanei. O scurtă plimbare vă conduce la Büyük Saat și la Ulu Cami din apropiere, unde vă petreceți dimineața explorând nucleul vechi al orașului. Apoi, o călătorie rapidă cu metroul vă duce la stația Fatih, pe malul râului. Acordați-vă o pauză de prânz prelungită în vastul Parc Merkez, situat chiar lângă stație. După-amiaza, plimbați-vă agale prin parc până la impresionanta Moschee Sabancı. Acordați-vă timp pentru a admira splendoarea ei. Seara, întoarceți-vă cu metroul în centrul orașului pentru a cina la unul dintre restaurantele autentice.",
+        "en": "Start your day by taking the metro to Vilayet station, which drops you right in the historic center of Adana. A short walk leads you to Büyük Saat and the neighboring Ulu Cami, where you'll spend the morning exploring the city's old core. Afterward, a quick metro ride takes you to Fatih station on the riverbank. Treat yourself to an extended lunch break in the expansive Merkez Park, located right next to the station. In the afternoon, stroll leisurely through the park to the impressive Sabancı Mosque. Take your time to admire its splendor. In the evening, return to the city center by metro to have dinner at one of the authentic restaurants."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Simit",
+            "tip": "Kaufen Sie einen frischen Sesamring von einem Straßenverkäufer in der Nähe der Metrostation."
+          },
+          {
+            "name": "Adana Kebab",
+            "tip": "Fahren Sie abends zurück ins Zentrum und genießen Sie ihn im Kebapçı Mesut."
+          },
+          {
+            "name": "İçli Köfte",
+            "tip": "Gefüllte Bulgurklöße, ein köstlicher Snack in den Restaurants der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Simit",
+            "tip": "Vásároljon egy friss szezámos perecet egy utcai árustól a metróállomás közelében."
+          },
+          {
+            "name": "Adana Kebab",
+            "tip": "Este utazzon vissza a központba, és élvezze a Kebapçı Mesutban."
+          },
+          {
+            "name": "İçli Köfte",
+            "tip": "Töltött bulgur gombóc, finom snack az óvárosi éttermekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Simit",
+            "tip": "Cumpărați un covrig proaspăt cu susan de la un vânzător ambulant lângă stația de metrou."
+          },
+          {
+            "name": "Adana Kebab",
+            "tip": "Întoarceți-vă în centru seara și savurați-l la Kebapçı Mesut."
+          },
+          {
+            "name": "İçli Köfte",
+            "tip": "Găluște de bulgur umplute, o gustare delicioasă în restaurantele din orașul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Simit",
+            "tip": "Buy a fresh sesame ring from a street vendor near the metro station."
+          },
+          {
+            "name": "Adana Kebab",
+            "tip": "Head back to the center in the evening and enjoy it at Kebapçı Mesut."
+          },
+          {
+            "name": "İçli Köfte",
+            "tip": "Stuffed bulgur dumplings, a delicious snack in the old town's restaurants."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine ruhige Ecke im Merkez Park",
+            "tip": "Entfliehen Sie dem Trubel der Stadt unter den Bäumen.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Innenhof der Ulu Cami",
+            "tip": "Eine Oase der Ruhe, nur wenige Schritte vom lauten Basar entfernt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Blick auf den Fluss von der Metrobrücke",
+            "tip": "Genießen Sie die Aussicht während der kurzen Fahrt über den Fluss.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy csendes zug a Merkez Parkban",
+            "tip": "Meneküljön a város nyüzsgése elől a fák alatt.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Ulu Cami belső udvara",
+            "tip": "A béke oázisa, csak pár lépésre a hangos bazártól.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás a folyóra a metróhídról",
+            "tip": "Élvezze a kilátást a folyón átívelő rövid út során.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Un colț liniștit în Parcul Merkez",
+            "tip": "Evadați din agitația orașului sub copaci.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Curtea interioară a Ulu Cami",
+            "tip": "O oază de liniște la doar câțiva pași de bazarul zgomotos.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Priveliște asupra râului de pe podul de metrou",
+            "tip": "Bucurați-vă de priveliște în timpul scurtei călătorii peste râu.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "A quiet corner in Merkez Park",
+            "tip": "Escape the city buzz under the trees.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Inner courtyard of Ulu Cami",
+            "tip": "An oasis of peace just steps from the loud bazaar.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View of the river from the metro bridge",
+            "tip": "Enjoy the view during the short trip across the river.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kazancılar Çarşısı",
+            "tip": "Leicht zu Fuß von der Haltestelle Vilayet aus zu erreichen, ideal für Souvenirs."
+          },
+          {
+            "name": "Geschäfte in der Nähe von Metrostationen",
+            "tip": "Viele Stationen haben kleine Kioske für Snacks und Getränke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kazancılar Çarşısı",
+            "tip": "Könnyen megközelíthető gyalog a Vilayet megállótól, ideális szuvenírekhez."
+          },
+          {
+            "name": "Boltok a metróállomások közelében",
+            "tip": "Sok állomáson vannak kis kioszkok snackekhez és italokhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kazancılar Çarşısı",
+            "tip": "Ușor de ajuns pe jos de la stația Vilayet, ideal pentru suveniruri."
+          },
+          {
+            "name": "Magazine lângă stațiile de metrou",
+            "tip": "Multe stații au mici chioșcuri pentru gustări și băuturi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kazancılar Çarşısı",
+            "tip": "Easily reachable on foot from Vilayet station, great for souvenirs."
+          },
+          {
+            "name": "Shops near metro stations",
+            "tip": "Many stations have small kiosks for snacks and drinks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Behalten Sie den Metro-Fahrplan im Auge, besonders abends.",
+          "Eine Kentkart ist wiederaufladbar und macht das Reisen viel einfacher.",
+          "Seien Sie zur Hauptverkehrszeit auf volle Züge vorbereitet.",
+          "Überprüfen Sie, welche Buslinien die Metro ergänzen, um flexibler zu sein."
+        ],
+        "hu": [
+          "Tartsa szemmel a metró menetrendjét, különösen este.",
+          "A Kentkart újratölthető és sokkal könnyebbé teszi az utazást.",
+          "Készüljön fel a zsúfolt vonatokra csúcsidőben.",
+          "Nézze meg, mely buszjáratok egészítik ki a metrót a nagyobb rugalmasság érdekében."
+        ],
+        "ro": [
+          "Fiți atenți la programul metroului, mai ales seara.",
+          "Un Kentkart este reîncărcabil și face călătoriile mult mai ușoare.",
+          "Fiți pregătiți pentru trenuri aglomerate la orele de vârf.",
+          "Verificați ce linii de autobuz completează metroul pentru mai multă flexibilitate."
+        ],
+        "en": [
+          "Keep an eye on the metro schedule, especially in the evening.",
+          "A Kentkart is rechargeable and makes travel much easier.",
+          "Be prepared for crowded trains during rush hour.",
+          "Check which bus lines complement the metro for more flexibility."
+        ]
+      }
+    }
+  }
+}

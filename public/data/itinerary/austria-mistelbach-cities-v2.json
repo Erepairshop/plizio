@@ -1,0 +1,1596 @@
+{
+  "city_id": "austria-mistelbach-cities-v2",
+  "anchor": {
+    "name": "Mistelbach",
+    "coords": [
+      16.5744,
+      48.5678
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus und Hauptplatz",
+            "hu": "Városháza és Fő tér",
+            "ro": "Primăria și Piața Principală",
+            "en": "Town Hall and Main Square"
+          },
+          "coords": [
+            16.574,
+            48.568
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee in einem der Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
+            "en": "Start your day with a coffee at one of the cafés on the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Dreifaltigkeitssäule",
+            "hu": "Szentháromság-oszlop",
+            "ro": "Coloana Sfintei Treimi",
+            "en": "Holy Trinity Column"
+          },
+          "coords": [
+            16.5742,
+            48.5682
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:39",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Details der barocken Pestsäule.",
+            "hu": "Csodálja meg a barokk pestisoszlop részleteit.",
+            "ro": "Admirați detaliile coloanei baroce a ciumei.",
+            "en": "Admire the details of the baroque plague column."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Martin",
+            "hu": "Szent Márton plébániatemplom",
+            "ro": "Biserica parohială Sf. Martin",
+            "en": "Parish Church of St. Martin"
+          },
+          "coords": [
+            16.576,
+            48.569
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf den gotischen Chor und den beeindruckenden Hochaltar.",
+            "hu": "Figyelje meg a gótikus kórust és a lenyűgöző főoltárt.",
+            "ro": "Observați corul gotic și impresionantul altar principal.",
+            "en": "Look for the Gothic choir and the impressive high altar."
+          }
+        },
+        {
+          "name": {
+            "de": "MAMUZ Museum Mistelbach",
+            "hu": "MAMUZ Múzeum",
+            "ro": "Muzeul MAMUZ Mistelbach",
+            "en": "MAMUZ Museum Mistelbach"
+          },
+          "coords": [
+            16.577,
+            48.57
+          ],
+          "category": "museums",
+          "arrive_at": "10:48",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie genug Zeit für die Urgeschichts-Ausstellung ein.",
+            "hu": "Szánjon elég időt az őstörténeti kiállításra.",
+            "ro": "Planificați suficient timp pentru expoziția de preistorie.",
+            "en": "Allow plenty of time for the prehistory exhibition."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the center"
+          },
+          "coords": [
+            16.575,
+            48.5685
+          ],
+          "category": "gastro",
+          "arrive_at": "12:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie ein klassisches Wiener Schnitzel in einem der Gasthäuser.",
+            "hu": "Kóstoljon meg egy klasszikus bécsi szeletet az egyik vendéglőben.",
+            "ro": "Încercați un șnițel vienez clasic la unul dintre hanuri.",
+            "en": "Try a classic Wiener Schnitzel at one of the local inns."
+          }
+        },
+        {
+          "name": {
+            "de": "Hermann Nitsch Museum",
+            "hu": "Hermann Nitsch Múzeum",
+            "ro": "Muzeul Hermann Nitsch",
+            "en": "Hermann Nitsch Museum"
+          },
+          "coords": [
+            16.583,
+            48.571
+          ],
+          "category": "museums",
+          "arrive_at": "14:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bereiten Sie sich auf eine intensive künstlerische Erfahrung vor.",
+            "hu": "Készüljön fel egy intenzív művészeti élményre.",
+            "ro": "Pregătiți-vă pentru o experiență artistică intensă.",
+            "en": "Be prepared for an intense artistic experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Mistelbacher Schloss",
+            "hu": "Mistelbachi kastély",
+            "ro": "Castelul Mistelbach",
+            "en": "Mistelbach Castle"
+          },
+          "coords": [
+            16.57,
+            48.565
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:26",
+          "stay_min": 99,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie durch den Schlosspark für einen ruhigen Abschluss.",
+            "hu": "Sétáljon egyet a kastélyparkban a nap csendes lezárásaként.",
+            "ro": "Plimbați-vă prin parcul castelului pentru un final liniștit.",
+            "en": "Stroll through the castle park for a peaceful end to your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Spaziergang durch Mistelbach beginnt am lebhaften Hauptplatz, dem Herzen der Stadt. Von dort aus führt der Weg zur gotischen Stadtpfarrkirche und dem MAMUZ Museum, das eine Reise in die Urgeschichte bietet. Am Nachmittag tauchen Sie in die kontroverse Welt des Künstlers Hermann Nitsch ein, bevor Sie den Tag im ruhigen Park des Mistelbacher Schlosses ausklingen lassen. Der ganze Tag ist eine Mischung aus lokaler Geschichte, Kunst und entspannter Atmosphäre.",
+        "hu": "A mistelbachi séta a város szívében, az élettel teli Fő téren kezdődik. Innen az út a gótikus plébániatemplomhoz és a MAMUZ Múzeumhoz vezet, amely utazást kínál az őstörténetbe. Délután elmerülhet Hermann Nitsch művész ellentmondásos világában, mielőtt a napot a mistelbachi kastély csendes parkjában zárja. Az egész nap a helyi történelem, a művészet és a nyugodt légkör keveréke.",
+        "ro": "O plimbare prin Mistelbach începe în Piața Principală plină de viață, inima orașului. De acolo, drumul duce la biserica parohială gotică și la Muzeul MAMUZ, care oferă o călătorie în preistorie. După-amiaza, vă scufundați în lumea controversată a artistului Hermann Nitsch, înainte de a încheia ziua în parcul liniștit al Castelului Mistelbach. Întreaga zi este un amestec de istorie locală, artă și atmosferă relaxată.",
+        "en": "A walk through Mistelbach begins at the lively main square, the heart of the city. From there, the path leads to the Gothic parish church and the MAMUZ Museum, offering a journey into prehistory. In the afternoon, immerse yourself in the controversial world of artist Hermann Nitsch before ending the day in the quiet park of Mistelbach Castle. The entire day is a mix of local history, art, and a relaxed atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Weinviertel DAC",
+            "tip": "Probieren Sie den pfeffrigen Grünen Veltliner, den typischen Wein der Region."
+          },
+          {
+            "name": "Kürbiskernöl",
+            "tip": "Ein lokales Produkt, das oft in Salaten und traditionellen Gerichten verwendet wird."
+          },
+          {
+            "name": "Gasthaus zum Goldenen Kreuz",
+            "tip": "Traditionelle österreichische Küche in gemütlichem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Weinviertel DAC",
+            "tip": "Kóstolja meg a borsos zöld veltelinit, a régió jellegzetes borát."
+          },
+          {
+            "name": "Tökmagolaj",
+            "tip": "Helyi termék, amelyet gyakran használnak salátákhoz és hagyományos ételekhez."
+          },
+          {
+            "name": "Gasthaus zum Goldenen Kreuz",
+            "tip": "Hagyományos osztrák konyha hangulatos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Weinviertel DAC",
+            "tip": "Încercați Grüner Veltliner piperat, vinul tipic al regiunii."
+          },
+          {
+            "name": "Ulei de dovleac",
+            "tip": "Un produs local adesea folosit în salate și mâncăruri tradiționale."
+          },
+          {
+            "name": "Gasthaus zum Goldenen Kreuz",
+            "tip": "Bucătărie tradițională austriacă într-o atmosferă primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weinviertel DAC",
+            "tip": "Try the peppery Grüner Veltliner, the region's signature wine."
+          },
+          {
+            "name": "Pumpkin Seed Oil",
+            "tip": "A local product often used in salads and traditional dishes."
+          },
+          {
+            "name": "Gasthaus zum Goldenen Kreuz",
+            "tip": "Traditional Austrian cuisine in a cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlosspark",
+            "tip": "Ein ruhiger Ort für einen Spaziergang im Schatten alter Bäume.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Ufer der Zaya",
+            "tip": "Ein friedlicher Weg entlang des kleinen Flusses, der durch die Stadt fließt.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Kirchenbank in St. Martin",
+            "tip": "Finden Sie einen Moment der Stille in der historischen Kirche.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kastélypark",
+            "tip": "Csendes hely egy sétához az öreg fák árnyékában.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Zaya folyó partja",
+            "tip": "Békés ösvény a városon átfolyó kis folyó mentén.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Egy pad a Szent Márton-templomban",
+            "tip": "Találjon egy csendes pillanatot a történelmi templomban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului",
+            "tip": "Un loc liniștit pentru o plimbare la umbra copacilor bătrâni.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Malurile râului Zaya",
+            "tip": "O potecă pașnică de-a lungul micului râu care traversează orașul.",
+            "emoji": "💧"
+          },
+          {
+            "name": "O bancă în Biserica Sf. Martin",
+            "tip": "Găsiți un moment de liniște în biserica istorică.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Park",
+            "tip": "A quiet place for a walk in the shade of old trees.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Banks of the Zaya River",
+            "tip": "A peaceful path along the small river that flows through the town.",
+            "emoji": "💧"
+          },
+          {
+            "name": "A pew in St. Martin's Church",
+            "tip": "Find a moment of silence inside the historic church.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wein vom lokalen Winzer",
+            "tip": "Kaufen Sie eine Flasche Wein direkt von einem Weingut in der Umgebung."
+          },
+          {
+            "name": "Museumsshop im MAMUZ",
+            "tip": "Finden Sie einzigartige Souvenirs, die von der Urgeschichte inspiriert sind."
+          },
+          {
+            "name": "Lokaler Bauernmarkt",
+            "tip": "Probieren und kaufen Sie regionale Produkte wie Käse, Wurst und Brot."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bor helyi borásztól",
+            "tip": "Vásároljon egy üveg bort közvetlenül a környékbeli pincészetektől."
+          },
+          {
+            "name": "Múzeumbolt a MAMUZ-ban",
+            "tip": "Találjon egyedi, őstörténet ihlette ajándéktárgyakat."
+          },
+          {
+            "name": "Helyi termelői piac",
+            "tip": "Kóstoljon és vásároljon regionális termékeket, mint sajt, kolbász és kenyér."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin de la un producător local",
+            "tip": "Cumpărați o sticlă de vin direct de la o cramă din zonă."
+          },
+          {
+            "name": "Magazinul muzeului MAMUZ",
+            "tip": "Găsiți suveniruri unice inspirate de preistorie."
+          },
+          {
+            "name": "Piața locală a fermierilor",
+            "tip": "Gustați și cumpărați produse regionale precum brânză, cârnați și pâine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wine from a local winemaker",
+            "tip": "Buy a bottle of wine directly from a winery in the area."
+          },
+          {
+            "name": "Museum shop at MAMUZ",
+            "tip": "Find unique souvenirs inspired by prehistory."
+          },
+          {
+            "name": "Local farmers' market",
+            "tip": "Taste and buy regional products like cheese, sausages, and bread."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den größten Teil des Tages zu Fuß unterwegs sein werden.",
+          "Überprüfen Sie die Öffnungszeiten der Museen im Voraus, insbesondere außerhalb der Hauptsaison.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit; es gibt öffentliche Brunnen.",
+          "Ein kleiner Regenschirm ist immer eine gute Idee, da das Wetter wechselhaft sein kann."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a nap nagy részét gyalog fogja tölteni.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét, különösen a főszezonon kívül.",
+          "Hozzon magával újratölthető vizes palackot; vannak nyilvános kutak.",
+          "Egy kis esernyő mindig jó ötlet, mivel az időjárás változékony lehet."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge pe jos cea mai mare parte a zilei.",
+          "Verificați în avans orele de deschidere ale muzeelor, mai ales în afara sezonului de vârf.",
+          "Luați o sticlă de apă reutilizabilă; există fântâni publice.",
+          "O umbrelă mică este întotdeauna o idee bună, deoarece vremea poate fi schimbătoare."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be on your feet for most of the day.",
+          "Check museum opening times in advance, especially outside the main season.",
+          "Bring a reusable water bottle; there are public fountains available.",
+          "A small umbrella is always a good idea as the weather can be unpredictable."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:53",
+      "total_km": 8.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus und Hauptplatz",
+            "hu": "Városháza és Fő tér",
+            "ro": "Primăria și Piața Principală",
+            "en": "Town Hall and Main Square"
+          },
+          "coords": [
+            16.574,
+            48.568
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie den Platz erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt felfedezné a teret.",
+            "ro": "Asigurați-vă bicicleta înainte de a explora piața.",
+            "en": "Lock your bike securely before exploring the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Martin",
+            "hu": "Szent Márton plébániatemplom",
+            "ro": "Biserica parohială Sf. Martin",
+            "en": "Parish Church of St. Martin"
+          },
+          "coords": [
+            16.576,
+            48.569
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:34",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Radweg führt direkt an der Kirche vorbei.",
+            "hu": "A kerékpárút közvetlenül a templom mellett halad el.",
+            "ro": "Pista de biciclete trece chiar pe lângă biserică.",
+            "en": "The bike path passes right by the church."
+          }
+        },
+        {
+          "name": {
+            "de": "MAMUZ Museum Mistelbach",
+            "hu": "MAMUZ Múzeum",
+            "ro": "Muzeul MAMUZ Mistelbach",
+            "en": "MAMUZ Museum Mistelbach"
+          },
+          "coords": [
+            16.577,
+            48.57
+          ],
+          "category": "museums",
+          "arrive_at": "10:07",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Es gibt Fahrradständer direkt vor dem Museumseingang.",
+            "hu": "A múzeum bejárata előtt kerékpártárolók találhatók.",
+            "ro": "Există suporturi pentru biciclete chiar în fața intrării muzeului.",
+            "en": "There are bike racks right in front of the museum entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Hermann Nitsch Museum",
+            "hu": "Hermann Nitsch Múzeum",
+            "ro": "Muzeul Hermann Nitsch",
+            "en": "Hermann Nitsch Museum"
+          },
+          "coords": [
+            16.583,
+            48.571
+          ],
+          "category": "museums",
+          "arrive_at": "11:43",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine kurze, aber lohnende Fahrt zum zweiten Kunst-Hotspot der Stadt.",
+            "hu": "Rövid, de megéri az utat a város második művészeti központjához.",
+            "ro": "O plimbare scurtă, dar plină de satisfacții, către al doilea punct fierbinte de artă al orașului.",
+            "en": "A short but rewarding ride to the city's second art hotspot."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            16.58,
+            48.569
+          ],
+          "category": "gastro",
+          "arrive_at": "13:19",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Suchen Sie nach einem Restaurant mit einem Gastgarten, um Ihr Fahrrad im Auge zu behalten.",
+            "hu": "Keressen egy kerthelyiséges éttermet, hogy szemmel tarthassa a kerékpárját.",
+            "ro": "Căutați un restaurant cu o grădină de vară pentru a vă supraveghea bicicleta.",
+            "en": "Look for a restaurant with a garden to keep an eye on your bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Mistelbacher Schloss",
+            "hu": "Mistelbachi kastély",
+            "ro": "Castelul Mistelbach",
+            "en": "Mistelbach Castle"
+          },
+          "coords": [
+            16.57,
+            48.565
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:38",
+          "stay_min": 50,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekt für eine kleine Pause, bevor Sie die letzte Etappe in Angriff nehmen.",
+            "hu": "Tökéletes egy kis szünetre, mielőtt nekivág az utolsó szakasznak.",
+            "ro": "Perfect pentru o scurtă pauză înainte de a aborda ultima etapă.",
+            "en": "Perfect for a short break before tackling the final leg."
+          }
+        },
+        {
+          "name": {
+            "de": "Schwedenhöhle",
+            "hu": "Svéd-barlang",
+            "ro": "Peștera Suedeză",
+            "en": "Sweden Cave"
+          },
+          "coords": [
+            16.56,
+            48.56
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "15:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Weg hierher ist eine schöne ländliche Fahrt.",
+            "hu": "Az ide vezető út egy szép, vidéki szakasz.",
+            "ro": "Drumul până aici este o plimbare rurală frumoasă.",
+            "en": "The path here is a beautiful rural ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtsaal",
+            "hu": "Városi csarnok",
+            "ro": "Sala Municipală",
+            "en": "City Hall"
+          },
+          "coords": [
+            16.575,
+            48.567
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:30",
+          "stay_min": 53,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Prüfen Sie das Abendprogramm für mögliche Veranstaltungen.",
+            "hu": "Nézze meg az esti programot esetleges eseményekért.",
+            "ro": "Verificați programul de seară pentru eventuale evenimente.",
+            "en": "Check the evening program for possible events."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Mistelbach und seine Umgebung auf zwei Rädern. Die Tour startet im Stadtzentrum und führt Sie schnell zu den wichtigsten kulturellen Sehenswürdigkeiten wie der Kirche und den Museen. Eine längere Fahrt bringt Sie zur geheimnisvollen Schwedenhöhle. Der Nachmittag bietet eine entspannte Rückfahrt ins Zentrum mit einem Halt beim Schloss. Radfahren ist ideal, um die flache Landschaft des Weinviertels zu genießen und mehr in kürzerer Zeit zu sehen.",
+        "hu": "Fedezze fel Mistelbachot és környékét két keréken. A túra a városközpontból indul, és gyorsan elvezeti a legfontosabb kulturális látnivalókhoz, mint a templom és a múzeumok. Egy hosszabb tekerés elvisz a rejtélyes Svéd-barlanghoz. A délután egy nyugodt visszaút a központba, megállva a kastélynál. A kerékpározás ideális a Weinviertel sík vidékének élvezetéhez és több látnivaló megtekintéséhez rövidebb idő alatt.",
+        "ro": "Explorați Mistelbach și împrejurimile sale pe două roți. Turul începe în centrul orașului și vă duce rapid la principalele atracții culturale, cum ar fi biserica și muzeele. O plimbare mai lungă vă va duce la misterioasa Peșteră Suedeză. După-amiaza oferă o întoarcere relaxantă în centru, cu o oprire la castel. Ciclismul este ideal pentru a vă bucura de peisajul plat din Weinviertel și pentru a vedea mai multe în mai puțin timp.",
+        "en": "Explore Mistelbach and its surroundings on two wheels. The tour starts in the city center and quickly takes you to the main cultural sights like the church and museums. A longer ride takes you to the mysterious Sweden Cave. The afternoon offers a relaxed ride back to the center with a stop at the castle. Biking is ideal for enjoying the flat landscape of the Weinviertel and seeing more in less time."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Heuriger",
+            "tip": "Besuchen Sie einen traditionellen Weinheurigen am Stadtrand für ein authentisches Erlebnis."
+          },
+          {
+            "name": "Radler",
+            "tip": "Ein erfrischendes Getränk aus Bier und Limonade, perfekt für eine Pause."
+          },
+          {
+            "name": "Apfelstrudel",
+            "tip": "Ein Muss in jedem österreichischen Café."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heuriger",
+            "tip": "Látogasson el egy hagyományos borozóba a város szélén egy autentikus élményért."
+          },
+          {
+            "name": "Radler",
+            "tip": "Frissítő ital sörből és limonádéból, tökéletes egy szünetre."
+          },
+          {
+            "name": "Almás rétes",
+            "tip": "Kötelező minden osztrák kávézóban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Heuriger",
+            "tip": "Vizitați o tavernă tradițională de vin la marginea orașului pentru o experiență autentică."
+          },
+          {
+            "name": "Radler",
+            "tip": "O băutură răcoritoare din bere și limonadă, perfectă pentru o pauză."
+          },
+          {
+            "name": "Strudel cu mere",
+            "tip": "Un deliciu obligatoriu în orice cafenea austriacă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Heuriger",
+            "tip": "Visit a traditional wine tavern on the outskirts of town for an authentic experience."
+          },
+          {
+            "name": "Radler",
+            "tip": "A refreshing drink of beer and lemonade, perfect for a break."
+          },
+          {
+            "name": "Apple Strudel",
+            "tip": "A must-try in any Austrian café."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg entlang der Zaya",
+            "tip": "Folgen Sie dem Fluss für eine ruhige Fahrt abseits der Straßen.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Aussichtspunkt nahe der Schwedenhöhle",
+            "tip": "Genießen Sie den Blick über die Weinviertler Landschaft.",
+            "emoji": "🌄"
+          },
+          {
+            "name": "Picknick im Schlosspark",
+            "tip": "Ein idealer Ort für eine Pause mit mitgebrachten Snacks.",
+            "emoji": "🧺"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Zaya mentén",
+            "tip": "Kövesse a folyót egy csendes tekerésért az utaktól távol.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Kilátópont a Svéd-barlang közelében",
+            "tip": "Élvezze a kilátást a Weinviertel tájára.",
+            "emoji": "🌄"
+          },
+          {
+            "name": "Piknik a kastélyparkban",
+            "tip": "Ideális hely egy szünetre hozott harapnivalókkal.",
+            "emoji": "🧺"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul Zaya",
+            "tip": "Urmați râul pentru o plimbare liniștită departe de drumuri.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Punct de belvedere lângă Peștera Suedeză",
+            "tip": "Bucurați-vă de priveliștea asupra peisajului Weinviertel.",
+            "emoji": "🌄"
+          },
+          {
+            "name": "Picnic în Parcul Castelului",
+            "tip": "Un loc ideal pentru o pauză cu gustări aduse de acasă.",
+            "emoji": "🧺"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike path along the Zaya",
+            "tip": "Follow the river for a quiet ride away from the roads.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Viewpoint near the Sweden Cave",
+            "tip": "Enjoy the view over the Weinviertel landscape.",
+            "emoji": "🌄"
+          },
+          {
+            "name": "Picnic in the Castle Park",
+            "tip": "An ideal spot for a break with packed snacks.",
+            "emoji": "🧺"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrrad-Zubehör",
+            "tip": "Lokale Geschäfte bieten oft nützliche Ausrüstung für Radfahrer an."
+          },
+          {
+            "name": "Regionale Delikatessen",
+            "tip": "Kaufen Sie Weinviertler Spezialitäten für zu Hause."
+          },
+          {
+            "name": "Kunstkatalog im Nitsch Museum",
+            "tip": "Ein Andenken an ein intensives Kunsterlebnis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpár-kiegészítők",
+            "tip": "A helyi boltok gyakran kínálnak hasznos felszereléseket kerékpárosoknak."
+          },
+          {
+            "name": "Regionális finomságok",
+            "tip": "Vásároljon Weinviertel-i specialitásokat otthonra."
+          },
+          {
+            "name": "Művészeti katalógus a Nitsch Múzeumban",
+            "tip": "Emlék egy intenzív művészeti élményről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Accesorii pentru biciclete",
+            "tip": "Magazinele locale oferă adesea echipamente utile pentru bicicliști."
+          },
+          {
+            "name": "Delicatese regionale",
+            "tip": "Cumpărați specialități din Weinviertel pentru acasă."
+          },
+          {
+            "name": "Catalog de artă la Muzeul Nitsch",
+            "tip": "O amintire a unei experiențe artistice intense."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike accessories",
+            "tip": "Local shops often offer useful gear for cyclists."
+          },
+          {
+            "name": "Regional delicacies",
+            "tip": "Buy Weinviertel specialties to take home."
+          },
+          {
+            "name": "Art catalog at the Nitsch Museum",
+            "tip": "A souvenir of an intense art experience."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck und die Bremsen vor der Abfahrt.",
+          "Ein Helm wird dringend empfohlen.",
+          "Nutzen Sie die gut ausgebauten Radwege in und um die Stadt.",
+          "Planen Sie genügend Pausen ein, um Wasser zu trinken und die Landschaft zu genießen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást és a fékeket.",
+          "Sisak viselése erősen ajánlott.",
+          "Használja a jól kiépített kerékpárutakat a városban és környékén.",
+          "Tervezzen elegendő szünetet a folyadékpótlásra és a táj élvezetére."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope și frânele înainte de a pleca.",
+          "Purtarea căștii este foarte recomandată.",
+          "Utilizați pistele de biciclete bine dezvoltate din oraș și din împrejurimi.",
+          "Planificați suficiente pauze pentru a bea apă și a vă bucura de peisaj."
+        ],
+        "en": [
+          "Check your tire pressure and brakes before setting off.",
+          "A helmet is strongly recommended.",
+          "Make use of the well-developed bike paths in and around the city.",
+          "Plan enough breaks to drink water and enjoy the scenery."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 8.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum & Erkundung Cluster 1",
+            "hu": "Parkoló a központban és az 1. klaszter felfedezése",
+            "ro": "Parcare în centru și explorarea Clusterului 1",
+            "en": "Parking in the Center & Exploring Cluster 1"
+          },
+          "coords": [
+            16.573,
+            48.567
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie zentral und erkunden Sie den ersten Bereich zu Fuß.",
+            "hu": "Parkoljon le központilag, és fedezze fel az első területet gyalog.",
+            "ro": "Parcați central și explorați prima zonă pe jos.",
+            "en": "Park centrally and explore the first area on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus und Dreifaltigkeitssäule",
+            "hu": "Városháza és Szentháromság-oszlop",
+            "ro": "Primăria și Coloana Sfintei Treimi",
+            "en": "Town Hall and Trinity Column"
+          },
+          "coords": [
+            16.574,
+            48.568
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:11",
+          "stay_min": 30,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Hauptplatz ist der perfekte Ausgangspunkt.",
+            "hu": "A Fő tér tökéletes kiindulópont.",
+            "ro": "Piața Principală este punctul de plecare perfect.",
+            "en": "The main square is the perfect starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Martin",
+            "hu": "Szent Márton plébániatemplom",
+            "ro": "Biserica parohială Sf. Martin",
+            "en": "Parish Church of St. Martin"
+          },
+          "coords": [
+            16.576,
+            48.569
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:47",
+          "stay_min": 35,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Hauptplatz entfernt.",
+            "hu": "Csak egy rövid séta a Fő tértől.",
+            "ro": "La doar o scurtă plimbare de Piața Principală.",
+            "en": "Just a short walk from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "MAMUZ Museum Mistelbach",
+            "hu": "MAMUZ Múzeum",
+            "ro": "Muzeul MAMUZ Mistelbach",
+            "en": "MAMUZ Museum Mistelbach"
+          },
+          "coords": [
+            16.577,
+            48.57
+          ],
+          "category": "museums",
+          "arrive_at": "10:24",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in 40.000 Jahre Menschheitsgeschichte.",
+            "hu": "Merüljön el az emberiség 40 000 éves történelmében.",
+            "ro": "Scufundați-vă în 40.000 de ani de istorie umană.",
+            "en": "Immerse yourself in 40,000 years of human history."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zu Cluster 2: Hermann Nitsch Museum",
+            "hu": "Utazás a 2. klaszterhez: Hermann Nitsch Múzeum",
+            "ro": "Călătorie la Clusterul 2: Muzeul Hermann Nitsch",
+            "en": "Drive to Cluster 2: Hermann Nitsch Museum"
+          },
+          "coords": [
+            16.583,
+            48.571
+          ],
+          "category": "museums",
+          "arrive_at": "12:12",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein völlig anderer Kunststil erwartet Sie hier.",
+            "hu": "Itt egy teljesen más művészeti stílus várja.",
+            "ro": "Un stil artistic complet diferit vă așteaptă aici.",
+            "en": "A completely different style of art awaits you here."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Museums",
+            "hu": "Ebéd a múzeum közelében",
+            "ro": "Prânz lângă muzeu",
+            "en": "Lunch near the museum"
+          },
+          "coords": [
+            16.582,
+            48.57
+          ],
+          "category": "gastro",
+          "arrive_at": "13:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Stärken Sie sich nach dem Museumsbesuch.",
+            "hu": "Frissüljön fel a múzeumlátogatás után.",
+            "ro": "Revigorați-vă după vizita la muzeu.",
+            "en": "Recharge after the museum visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Mistelbacher Schloss & Park",
+            "hu": "Utazás a Mistelbachi kastélyhoz és parkhoz",
+            "ro": "Călătorie la Castelul și Parcul Mistelbach",
+            "en": "Drive to Mistelbach Castle & Park"
+          },
+          "coords": [
+            16.57,
+            48.565
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:12",
+          "stay_min": 109,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Der perfekte Ort für einen entspannten Nachmittagsspaziergang.",
+            "hu": "Tökéletes hely egy nyugodt délutáni sétához.",
+            "ro": "Locul perfect pentru o plimbare relaxantă de după-amiază.",
+            "en": "The perfect place for a relaxing afternoon stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto lässt sich Mistelbach flexibel erkunden. Parken Sie im Zentrum und entdecken Sie den ersten Cluster zu Fuß: den Hauptplatz, die Kirche und das MAMUZ Museum. Nach diesem historischen Vormittag fahren Sie zum Hermann Nitsch Museum für ein intensives Kunsterlebnis. Ein spätes Mittagessen in der Nähe stärkt Sie für den letzten Programmpunkt: eine kurze Fahrt zum Mistelbacher Schloss, wo Sie den Tag bei einem Spaziergang im Park ausklingen lassen.",
+        "hu": "Autóval rugalmasan fedezheti fel Mistelbachot. Parkoljon a központban, és fedezze fel gyalog az első klasztert: a Fő teret, a templomot és a MAMUZ Múzeumot. A történelmi délelőtt után vezessen a Hermann Nitsch Múzeumhoz egy intenzív művészeti élményért. Egy közeli késői ebéd megerősíti Önt az utolsó programponthoz: egy rövid autóút a Mistelbachi kastélyhoz, ahol a napot egy parki sétával zárhatja.",
+        "ro": "Cu mașina, puteți explora Mistelbach în mod flexibil. Parcați în centru și descoperiți primul cluster pe jos: Piața Principală, biserica și Muzeul MAMUZ. După această dimineață istorică, conduceți la Muzeul Hermann Nitsch pentru o experiență artistică intensă. Un prânz târziu în apropiere vă va da putere pentru ultimul punct al programului: o scurtă călătorie cu mașina la Castelul Mistelbach, unde puteți încheia ziua cu o plimbare în parc.",
+        "en": "Exploring Mistelbach by car offers flexibility. Park in the center and discover the first cluster on foot: the main square, the church, and the MAMUZ Museum. After this historical morning, drive to the Hermann Nitsch Museum for an intense art experience. A late lunch nearby will fortify you for the final stop: a short drive to Mistelbach Castle, where you can end the day with a stroll in the park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gasthof Diesner",
+            "tip": "Bekannt für seine bodenständige, regionale Küche."
+          },
+          {
+            "name": "Weinviertler Jause",
+            "tip": "Eine kalte Platte mit lokalen Wurst- und Käsesorten, Brot und Aufstrichen."
+          },
+          {
+            "name": "Ein Glas Veltliner",
+            "tip": "Der Wein des Weinviertels ist ein Muss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gasthof Diesner",
+            "tip": "Hagyományos, regionális konyhájáról ismert."
+          },
+          {
+            "name": "Weinvierteli uzsonna",
+            "tip": "Hidegtál helyi kolbász- és sajtfélékkel, kenyérrel és krémekkel."
+          },
+          {
+            "name": "Egy pohár Veltliner",
+            "tip": "A Weinviertel bora kötelező."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gasthof Diesner",
+            "tip": "Renumit pentru bucătăria sa regională, cu picioarele pe pământ."
+          },
+          {
+            "name": "Gustare Weinviertel",
+            "tip": "Un platou rece cu mezeluri și brânzeturi locale, pâine și tartine."
+          },
+          {
+            "name": "Un pahar de Veltliner",
+            "tip": "Vinul din Weinviertel este un must."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gasthof Diesner",
+            "tip": "Known for its down-to-earth, regional cuisine."
+          },
+          {
+            "name": "Weinviertel snack ('Jause')",
+            "tip": "A cold platter with local sausages and cheeses, bread, and spreads."
+          },
+          {
+            "name": "A glass of Veltliner",
+            "tip": "The wine of the Weinviertel is a must-try."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt durch die Weinberge",
+            "tip": "Nehmen Sie sich Zeit für eine langsame Fahrt auf den Landstraßen rund um die Stadt.",
+            "emoji": "🍇"
+          },
+          {
+            "name": "Eine Bank im Schlosspark",
+            "tip": "Der perfekte Ort, um die Eindrücke des Tages zu verarbeiten.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Die Stille in der Schwedenhöhle",
+            "tip": "Ein kurzer Abstecher zu diesem historischen Ort bietet einen Moment der Einkehr.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Autózás a szőlőültetvényeken keresztül",
+            "tip": "Szánjon időt egy lassú autózásra a város körüli vidéki utakon.",
+            "emoji": "🍇"
+          },
+          {
+            "name": "Egy pad a kastélyparkban",
+            "tip": "Tökéletes hely a nap benyomásainak feldolgozására.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Csend a Svéd-barlangban",
+            "tip": "Egy rövid kitérő ehhez a történelmi helyhez egy pillanatnyi elmélyülést kínál.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O plimbare cu mașina prin podgorii",
+            "tip": "Luați-vă timp pentru o plimbare lentă pe drumurile de țară din jurul orașului.",
+            "emoji": "🍇"
+          },
+          {
+            "name": "O bancă în parcul castelului",
+            "tip": "Locul perfect pentru a procesa impresiile zilei.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Liniștea din Peștera Suedeză",
+            "tip": "Un scurt ocol la acest loc istoric oferă un moment de reflecție.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "A drive through the vineyards",
+            "tip": "Take time for a slow drive on the country roads around the town.",
+            "emoji": "🍇"
+          },
+          {
+            "name": "A bench in the castle park",
+            "tip": "The perfect place to process the day's impressions.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "The silence in the Sweden Cave",
+            "tip": "A short detour to this historic site offers a moment of reflection.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ab-Hof-Verkauf von Wein",
+            "tip": "Kaufen Sie direkt beim Winzer ein, oft mit persönlicher Beratung."
+          },
+          {
+            "name": "Kürbiskernöl-Produkte",
+            "tip": "Finden Sie Öl, Pesto und andere Spezialitäten in Hofläden."
+          },
+          {
+            "name": "Kunstbücher",
+            "tip": "Die Museumsshops bieten eine exzellente Auswahl an Kunstliteratur."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borvásárlás pincészetből",
+            "tip": "Vásároljon közvetlenül a borásztól, gyakran személyes tanácsadással."
+          },
+          {
+            "name": "Tökmagolaj termékek",
+            "tip": "Találjon olajat, pesztót és más különlegességeket a termelői boltokban."
+          },
+          {
+            "name": "Művészeti könyvek",
+            "tip": "A múzeumi boltok kiváló választékot kínálnak művészeti irodalomból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vânzare de vin direct de la cramă",
+            "tip": "Cumpărați direct de la producător, adesea cu sfaturi personale."
+          },
+          {
+            "name": "Produse din ulei de dovleac",
+            "tip": "Găsiți ulei, pesto și alte specialități în magazinele fermelor."
+          },
+          {
+            "name": "Cărți de artă",
+            "tip": "Magazinele muzeelor oferă o selecție excelentă de literatură de artă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ex-winery wine sales",
+            "tip": "Buy directly from the winemaker, often with personal advice."
+          },
+          {
+            "name": "Pumpkin seed oil products",
+            "tip": "Find oil, pesto, and other specialties in farm shops."
+          },
+          {
+            "name": "Art books",
+            "tip": "The museum shops offer an excellent selection of art literature."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf Parkzonen und eventuelle Gebühren im Stadtzentrum.",
+          "Ein Navigationssystem ist hilfreich, um die kleineren Straßen rund um Mistelbach zu finden.",
+          "Planen Sie etwas Pufferzeit für den Verkehr ein, besonders am Nachmittag.",
+          "Überlegen Sie, eine Kühlbox mitzunehmen, wenn Sie Wein oder Lebensmittel direkt vom Erzeuger kaufen."
+        ],
+        "hu": [
+          "Figyeljen a parkolási zónákra és az esetleges díjakra a városközpontban.",
+          "A navigációs rendszer hasznos a Mistelbach körüli kisebb utak megtalálásához.",
+          "Tervezzen némi pufferidőt a forgalomra, különösen délután.",
+          "Fontolja meg egy hűtőtáska magával vitelét, ha bort vagy élelmiszert vásárol közvetlenül a termelőtől."
+        ],
+        "ro": [
+          "Fiți atenți la zonele de parcare și la eventualele taxe din centrul orașului.",
+          "Un sistem de navigație este util pentru a găsi drumurile mai mici din jurul Mistelbach.",
+          "Planificați un timp tampon pentru trafic, mai ales după-amiaza.",
+          "Luați în considerare aducerea unei lăzi frigorifice dacă cumpărați vin sau alimente direct de la producător."
+        ],
+        "en": [
+          "Pay attention to parking zones and any fees in the city center.",
+          "A navigation system is helpful for finding the smaller roads around Mistelbach.",
+          "Plan for some buffer time for traffic, especially in the afternoon.",
+          "Consider bringing a cooler box if you plan to buy wine or food directly from the producer."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof & Gang zum Hauptplatz",
+            "hu": "Érkezés a buszpályaudvarra és séta a Fő térre",
+            "ro": "Sosire la autogară și plimbare spre Piața Principală",
+            "en": "Arrival at the bus station & walk to the Main Square"
+          },
+          "coords": [
+            16.574,
+            48.568
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Busbahnhof ist ein guter Ausgangspunkt, um die Stadt zu erkunden.",
+            "hu": "A buszpályaudvar jó kiindulópont a város felfedezéséhez.",
+            "ro": "Autogara este un bun punct de plecare pentru a explora orașul.",
+            "en": "The bus station is a good starting point for exploring the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche & MAMUZ Museum",
+            "hu": "Plébániatemplom és MAMUZ Múzeum",
+            "ro": "Biserica parohială și Muzeul MAMUZ",
+            "en": "Parish Church & MAMUZ Museum"
+          },
+          "coords": [
+            16.577,
+            48.57
+          ],
+          "category": "museums",
+          "arrive_at": "09:41",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kombinieren Sie diese beiden nahe beieinander liegenden Highlights.",
+            "hu": "Kombinálja ezt a két, egymáshoz közeli látnivalót.",
+            "ro": "Combinați aceste două atracții apropiate.",
+            "en": "Combine these two highlights, which are close to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the center"
+          },
+          "coords": [
+            16.575,
+            48.5685
+          ],
+          "category": "gastro",
+          "arrive_at": "11:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eine große Auswahl an Restaurants erwartet Sie rund um den Hauptplatz.",
+            "hu": "Az éttermek széles választéka várja a Fő tér környékén.",
+            "ro": "O selecție largă de restaurante vă așteaptă în jurul Pieței Principale.",
+            "en": "A wide selection of restaurants awaits you around the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Hermann Nitsch Museum",
+            "hu": "Buszozás a Hermann Nitsch Múzeumhoz",
+            "ro": "Călătorie cu autobuzul la Muzeul Hermann Nitsch",
+            "en": "Bus ride to the Hermann Nitsch Museum"
+          },
+          "coords": [
+            16.583,
+            48.571
+          ],
+          "category": "museums",
+          "arrive_at": "13:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Überprüfen Sie den Busfahrplan, um Wartezeiten zu minimieren.",
+            "hu": "Ellenőrizze a buszmenetrendet a várakozási idő minimalizálása érdekében.",
+            "ro": "Verificați orarul autobuzului pentru a minimiza timpul de așteptare.",
+            "en": "Check the bus schedule to minimize waiting times."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Mistelbacher Schloss",
+            "hu": "Buszozás a Mistelbachi kastélyhoz",
+            "ro": "Călătorie cu autobuzul la Castelul Mistelbach",
+            "en": "Bus ride to Mistelbach Castle"
+          },
+          "coords": [
+            16.57,
+            48.565
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:02",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der letzte Halt des Tages, bevor es zurück zum Busbahnhof geht.",
+            "hu": "A nap utolsó megállója, mielőtt visszatérne a buszpályaudvarra.",
+            "ro": "Ultima oprire a zilei înainte de a vă întoarce la autogară.",
+            "en": "The last stop of the day before heading back to the bus station."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang im Schlosspark",
+            "hu": "Séta a kastélyparkban",
+            "ro": "Plimbare în parcul castelului",
+            "en": "Stroll in the Castle Park"
+          },
+          "coords": [
+            16.571,
+            48.564
+          ],
+          "category": "parks/gardens",
+          "arrive_at": "16:04",
+          "stay_min": 71,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe und die Natur zum Abschluss Ihrer Tour.",
+            "hu": "Élvezze a csendet és a természetet a túra befejezéseként.",
+            "ro": "Bucurați-vă de liniște și natură la finalul turului dumneavoastră.",
+            "en": "Enjoy the peace and nature to conclude your tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erkunden Sie Mistelbach entspannt und umweltfreundlich. Vom zentralen Busbahnhof aus ist der Stadtkern mit Kirche und MAMUZ Museum leicht zu Fuß erreichbar. Nach dem Mittagessen bringt Sie ein Bus zum unkonventionellen Nitsch Museum. Eine weitere kurze Busfahrt führt zum Schloss, wo Sie den Tag mit einem Spaziergang im Park beenden können, bevor Sie die Rückfahrt antreten. So erleben Sie die Highlights der Stadt ohne Parkplatzsuche.",
+        "hu": "Tömegközlekedéssel nyugodtan és környezetbarát módon fedezheti fel Mistelbachot. A központi buszpályaudvarról a városközpont a templommal és a MAMUZ Múzeummal könnyen megközelíthető gyalog. Ebéd után egy busz elviszi a nem szokványos Nitsch Múzeumhoz. Egy másik rövid buszút a kastélyhoz vezet, ahol a napot egy parki sétával zárhatja, mielőtt visszaindulna. Így parkolókeresés nélkül élvezheti a város nevezetességeit.",
+        "ro": "Folosind transportul public, explorați Mistelbach într-un mod relaxat și ecologic. Din autogara centrală, centrul orașului cu biserica și Muzeul MAMUZ este ușor accesibil pe jos. După prânz, un autobuz vă duce la neconvenționalul Muzeu Nitsch. O altă călătorie scurtă cu autobuzul duce la castel, unde puteți încheia ziua cu o plimbare în parc înainte de a vă întoarce. Astfel, experimentați punctele de atracție ale orașului fără a căuta un loc de parcare.",
+        "en": "Using public transport, you can explore Mistelbach in a relaxed and eco-friendly way. From the central bus station, the city center with the church and MAMUZ Museum is easily accessible on foot. After lunch, a bus takes you to the unconventional Nitsch Museum. Another short bus ride leads to the castle, where you can end the day with a walk in the park before heading back. This way, you can experience the city's highlights without the hassle of parking."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei-Café",
+            "tip": "Schnappen Sie sich einen Kaffee und ein Gebäck für eine schnelle Stärkung."
+          },
+          {
+            "name": "Lokaler Imbiss",
+            "tip": "Probieren Sie eine Käsekrainer oder eine andere österreichische Wurstspezialität."
+          },
+          {
+            "name": "Supermarkt",
+            "tip": "Kaufen Sie Snacks und Getränke für den Tag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség-kávézó",
+            "tip": "Kapjon be egy kávét és egy süteményt egy gyors feltöltődéshez."
+          },
+          {
+            "name": "Helyi büfé",
+            "tip": "Kóstoljon meg egy Käsekrainert vagy más osztrák kolbászkülönlegességet."
+          },
+          {
+            "name": "Szupermarket",
+            "tip": "Vásároljon rágcsálnivalót és italokat a napra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenea-patiserie",
+            "tip": "Luați o cafea și un produs de patiserie pentru o gustare rapidă."
+          },
+          {
+            "name": "Gustare locală",
+            "tip": "Încercați un Käsekrainer sau o altă specialitate de cârnați austrieci."
+          },
+          {
+            "name": "Supermarket",
+            "tip": "Cumpărați gustări și băuturi pentru zi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery-Café",
+            "tip": "Grab a coffee and a pastry for a quick boost."
+          },
+          {
+            "name": "Local snack stand",
+            "tip": "Try a Käsekrainer or another Austrian sausage specialty."
+          },
+          {
+            "name": "Supermarket",
+            "tip": "Buy snacks and drinks for the day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine ruhige Seitengasse",
+            "tip": "Entfliehen Sie dem Trubel des Hauptplatzes und entdecken Sie den Charme der kleinen Gassen.",
+            "emoji": "🤫"
+          },
+          {
+            "name": "Blick aus dem Busfenster",
+            "tip": "Genießen Sie die vorbeiziehende Landschaft auf dem Weg zum nächsten Ziel.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Friedhof neben der Kirche",
+            "tip": "Ein Ort der Stille und des Gedenkens mit historischen Grabsteinen.",
+            "emoji": "🕊️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy csendes mellékutca",
+            "tip": "Meneküljön el a Fő tér nyüzsgésétől, és fedezze fel a kis utcák varázsát.",
+            "emoji": "🤫"
+          },
+          {
+            "name": "Kilátás a busz ablakából",
+            "tip": "Élvezze az elhaladó tájat úton a következő cél felé.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Temető a templom mellett",
+            "tip": "A csend és az emlékezés helye történelmi sírkövekkel.",
+            "emoji": "🕊️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O alee laterală liniștită",
+            "tip": "Evadați din agitația pieței principale și descoperiți farmecul străduțelor.",
+            "emoji": "🤫"
+          },
+          {
+            "name": "Privind pe geamul autobuzului",
+            "tip": "Bucurați-vă de peisajul care trece în drum spre următoarea destinație.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Cimitirul de lângă biserică",
+            "tip": "Un loc de liniște și comemorare cu pietre funerare istorice.",
+            "emoji": "🕊️"
+          }
+        ],
+        "en": [
+          {
+            "name": "A quiet side street",
+            "tip": "Escape the bustle of the main square and discover the charm of the small alleys.",
+            "emoji": "🤫"
+          },
+          {
+            "name": "View from the bus window",
+            "tip": "Enjoy the passing scenery on your way to the next destination.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Cemetery next to the church",
+            "tip": "A place of silence and remembrance with historic tombstones.",
+            "emoji": "🕊️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Postkarten",
+            "tip": "Senden Sie Grüße aus dem Weinviertel."
+          },
+          {
+            "name": "Buchhandlung",
+            "tip": "Finden Sie lokale Literatur oder einen Reiseführer."
+          },
+          {
+            "name": "Souvenirs am Busbahnhof",
+            "tip": "Ein letztes Andenken vor der Abreise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Képeslapok",
+            "tip": "Küldjön üdvözletet a Weinviertelből."
+          },
+          {
+            "name": "Könyvesbolt",
+            "tip": "Találjon helyi irodalmat vagy egy útikönyvet."
+          },
+          {
+            "name": "Ajándéktárgyak a buszpályaudvaron",
+            "tip": "Egy utolsó emlék indulás előtt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cărți poștale",
+            "tip": "Trimiteți salutări din Weinviertel."
+          },
+          {
+            "name": "Librărie",
+            "tip": "Găsiți literatură locală sau un ghid de călătorie."
+          },
+          {
+            "name": "Suveniruri la autogară",
+            "tip": "O ultimă amintire înainte de plecare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Postcards",
+            "tip": "Send greetings from the Weinviertel."
+          },
+          {
+            "name": "Bookstore",
+            "tip": "Find local literature or a travel guide."
+          },
+          {
+            "name": "Souvenirs at the bus station",
+            "tip": "A last memento before departure."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Laden Sie die Fahrplan-App herunter oder machen Sie ein Foto vom Fahrplan an der Haltestelle.",
+          "Seien Sie pünktlich an der Bushaltestelle, besonders bei selteneren Verbindungen.",
+          "Winken Sie dem Busfahrer, um sicherzustellen, dass er anhält."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha több utazást tervez.",
+          "Töltse le a menetrend-alkalmazást, vagy készítsen fényképet a megállóban lévő menetrendről.",
+          "Érkezzen időben a buszmegállóba, különösen a ritkább járatok esetén.",
+          "Intsen a buszsofőrnek, hogy biztosan megálljon."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă planificați mai multe călătorii.",
+          "Descărcați aplicația cu orare sau faceți o poză a orarului din stație.",
+          "Fiți la timp în stația de autobuz, mai ales pentru cursele mai rare.",
+          "Faceți semn șoferului de autobuz pentru a vă asigura că oprește."
+        ],
+        "en": [
+          "Buy a day pass for the bus if you plan on making several trips.",
+          "Download the schedule app or take a photo of the timetable at the bus stop.",
+          "Be at the bus stop on time, especially for less frequent services.",
+          "Wave to the bus driver to ensure they stop for you."
+        ]
+      }
+    }
+  }
+}

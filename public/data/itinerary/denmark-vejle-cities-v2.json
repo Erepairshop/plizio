@@ -1,0 +1,1079 @@
+{
+  "city_id": "denmark-vejle-cities-v2",
+  "anchor": {
+    "name": "Vejle",
+    "coords": [
+      9.53,
+      55.71
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Vejle Rathaus",
+            "hu": "Vejlei Városháza",
+            "ro": "Primăria Vejle",
+            "en": "Vejle Town Hall"
+          },
+          "coords": [
+            9.5315,
+            55.7092
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur und die geschäftige Atmosphäre des zentralen Platzes.",
+            "hu": "Csodálja meg az építészetet és a központi tér nyüzsgő hangulatát.",
+            "ro": "Admirați arhitectura și atmosfera plină de viață a pieței centrale.",
+            "en": "Admire the architecture and the bustling atmosphere of the central square."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt Nicolai Kirke",
+            "hu": "Szent Miklós templom",
+            "ro": "Biserica Sf. Nicolae",
+            "en": "St. Nicolai Church"
+          },
+          "coords": [
+            9.5295,
+            55.7081
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Seitenkapelle mit den Schädeln von 23 hingerichteten Räubern.",
+            "hu": "Keresse meg az oldalkápolnát, ahol 23 kivégzett rabló koponyája található.",
+            "ro": "Căutați capela laterală cu craniile a 23 de tâlhari executați.",
+            "en": "Look for the side chapel containing the skulls of 23 executed robbers."
+          }
+        },
+        {
+          "name": {
+            "de": "Vejle Windmühle",
+            "hu": "Vejlei Szélmalom",
+            "ro": "Moara de vânt din Vejle",
+            "en": "Vejle Windmill"
+          },
+          "coords": [
+            9.5301,
+            55.7055
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "10:31",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie von hier aus einen schönen Blick über die Dächer der Stadt.",
+            "hu": "Élvezze a város háztetőire nyíló gyönyörű kilátást innen.",
+            "ro": "Bucurați-vă de o priveliște frumoasă asupra acoperișurilor orașului de aici.",
+            "en": "Enjoy a beautiful view over the city's rooftops from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturmuseum Spinderihallerne",
+            "hu": "Spinderihallerne Kultúrmúzeum",
+            "ro": "Muzeul Cultural Spinderihallerne",
+            "en": "Culture Museum Spinderihallerne"
+          },
+          "coords": [
+            9.5205,
+            55.7101
+          ],
+          "category": "museums",
+          "arrive_at": "11:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Das Museum ist in einer alten Spinnerei untergebracht und bietet Einblicke in die Industriegeschichte von Vejle.",
+            "hu": "A múzeum egy régi fonodában található, és bepillantást enged Vejle ipartörténetébe.",
+            "ro": "Muzeul este găzduit într-o veche filatură și oferă perspective asupra istoriei industriale a orașului Vejle.",
+            "en": "The museum is housed in an old spinning mill, offering insights into Vejle's industrial history."
+          }
+        },
+        {
+          "name": {
+            "de": "Økolariet",
+            "hu": "Økolariet",
+            "ro": "Økolariet",
+            "en": "Økolariet"
+          },
+          "coords": [
+            9.5358,
+            55.7125
+          ],
+          "category": "museums",
+          "arrive_at": "13:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein interaktives Wissenschaftszentrum, das sich auf Nachhaltigkeit und Technologie konzentriert. Großartig für Familien.",
+            "hu": "Interaktív tudományos központ a fenntarthatóságra és a technológiára fókuszálva. Családoknak is szuper.",
+            "ro": "Un centru științific interactiv axat pe durabilitate și tehnologie. Excelent pentru familii.",
+            "en": "An interactive science center focusing on sustainability and technology. Great for families."
+          }
+        },
+        {
+          "name": {
+            "de": "Fjordenhus",
+            "hu": "Fjordenhus",
+            "ro": "Fjordenhus",
+            "en": "Fjordenhus"
+          },
+          "coords": [
+            9.5452,
+            55.7151
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Gehen Sie ins Erdgeschoss (kostenlos), um die einzigartige Architektur von Olafur Eliasson von innen zu erleben.",
+            "hu": "Menjen be a (ingyenes) földszintre, hogy belülről is megtapasztalja Olafur Eliasson egyedi építészetét.",
+            "ro": "Intrați la parter (gratuit) pentru a experimenta arhitectura unică a lui Olafur Eliasson din interior.",
+            "en": "Go inside the ground floor (free) to experience Olafur Eliasson's unique architecture from within."
+          }
+        },
+        {
+          "name": {
+            "de": "Bølgen (Die Welle)",
+            "hu": "Bølgen (A Hullám)",
+            "ro": "Bølgen (Valul)",
+            "en": "Bølgen (The Wave)"
+          },
+          "coords": [
+            9.548,
+            55.716
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:02",
+          "stay_min": 83,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das beste Foto gelingt von der Vejle Fjord Brücke oder vom gegenüberliegenden Ufer aus.",
+            "hu": "A legjobb fotó a Vejle Fjord hídról vagy a szemközti partról készíthető.",
+            "ro": "Cea mai bună fotografie poate fi făcută de pe Podul Fiordului Vejle sau de pe malul opus.",
+            "en": "The best photo can be taken from the Vejle Fjord Bridge or the opposite bank."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am historischen Rathaus und führt Sie durch die ältesten Teile der Stadt zur Sankt Nicolai Kirke. Am Vormittag erkunden Sie die industrielle Vergangenheit in den Spinderihallerne. Nach dem Mittagessen tauchen Sie im Økolariet in die Zukunft der Nachhaltigkeit ein. Der Nachmittag ist der modernen Architektur am Fjord gewidmet, wo Sie das beeindruckende Fjordenhus und die ikonische Bølgen bestaunen, während die Sonne langsam untergeht.",
+        "hu": "A nap a történelmi Városházánál kezdődik, majd a város legrégebbi részein keresztül a Szent Miklós templomhoz vezet. Délelőtt a Spinderihallerne ipari múltját fedezi fel. Ebéd után az Økolarietben elmerül a fenntarthatóság jövőjében. A délután a fjord modern építészetének szentelt, ahol megcsodálhatja a lenyűgöző Fjordenhust és az ikonikus Bølgen épületét a lemenő nap fényében.",
+        "ro": "Ziua dvs. începe la Primăria istorică și vă poartă prin cele mai vechi părți ale orașului până la Biserica Sf. Nicolae. Înainte de prânz, explorați trecutul industrial la Spinderihallerne. După prânz, pătrundeți în viitorul sustenabilității la Økolariet. După-amiaza este dedicată arhitecturii moderne de pe fiord, admirând impresionantul Fjordenhus și iconicul Bølgen pe măsură ce soarele apune.",
+        "en": "Your day starts at the historic Town Hall, leading you through the oldest parts of the city to St. Nicolai Church. In the morning, you'll explore the industrial past at Spinderihallerne. After lunch, delve into the future of sustainability at Økolariet. The afternoon is dedicated to modern architecture on the fjord, admiring the impressive Fjordenhus and the iconic Bølgen as the sun sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Probieren Sie das klassische dänische offene Sandwich in einem der vielen Cafés der Innenstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Kóstolja meg a klasszikus dán nyitott szendvicset a belváros egyik kávézójában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Încercați sandvișul deschis danez clasic la una dintre numeroasele cafenele din centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Try the classic Danish open-faced sandwich at one of the many downtown cafes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vejle Fjord",
+            "tip": "Machen Sie einen Spaziergang entlang der Uferpromenade für eine ruhige Pause vom Stadttrubel.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vejle Fjord",
+            "tip": "Sétáljon egyet a fjord partján egy csendes szünetért a városi nyüzsgéstől.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fiordul Vejle",
+            "tip": "Faceți o plimbare de-a lungul malului pentru o pauză liniștită de agitația orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vejle Fjord",
+            "tip": "Take a stroll along the waterfront for a quiet break from the city bustle.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fußgängerzone Vejle",
+            "tip": "Erkunden Sie Dänemarks gemütlichste Einkaufsstraße mit einer Vielzahl von Geschäften und Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vejle sétálóutca",
+            "tip": "Fedezze fel Dánia leghangulatosabb bevásárlóutcáját, üzletek és butikok sokaságával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada pietonală Vejle",
+            "tip": "Explorați cea mai primitoare stradă comercială din Danemarca, cu o varietate de magazine și buticuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vejle Pedestrian Street",
+            "tip": "Explore Denmark's coziest shopping street with a variety of shops and boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Viele Cafés bieten kostenloses WLAN.",
+          "Halten Sie Ausschau nach den vielen Skulpturen und Kunstwerken in der ganzen Stadt."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "Sok kávézó kínál ingyenes Wi-Fi-t.",
+          "Figyelje a városban elszórt szobrokat és műalkotásokat."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Multe cafenele oferă Wi-Fi gratuit.",
+          "Fiți atenți la numeroasele sculpturi și opere de artă din oraș."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Many cafes offer free Wi-Fi.",
+          "Keep an eye out for the many sculptures and artworks throughout the city."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:18",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bølgen (Die Welle)",
+            "hu": "Bølgen (A Hullám)",
+            "ro": "Bølgen (Valul)",
+            "en": "Bølgen (The Wave)"
+          },
+          "coords": [
+            9.548,
+            55.716
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einem ikonischen Blick auf Vejles moderne Architektur.",
+            "hu": "Kezdje a napot Vejle modern építészetének ikonikus látványával.",
+            "ro": "Începeți ziua cu o vedere iconică a arhitecturii moderne din Vejle.",
+            "en": "Start your day with an iconic view of Vejle's modern architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Fjordenhus",
+            "hu": "Fjordenhus",
+            "ro": "Fjordenhus",
+            "en": "Fjordenhus"
+          },
+          "coords": [
+            9.5452,
+            55.7151
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und erkunden Sie das faszinierende Erdgeschoss dieses Kunstwerks.",
+            "hu": "Parkolja le a kerékpárt, és fedezze fel ennek a műalkotásnak a lenyűgöző földszintjét.",
+            "ro": "Parcați bicicleta și explorați parterul fascinant al acestei opere de artă.",
+            "en": "Park your bike and explore the fascinating ground floor of this piece of art."
+          }
+        },
+        {
+          "name": {
+            "de": "Økolariet",
+            "hu": "Økolariet",
+            "ro": "Økolariet",
+            "en": "Økolariet"
+          },
+          "coords": [
+            9.5358,
+            55.7125
+          ],
+          "category": "museums",
+          "arrive_at": "10:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort, um mehr über grüne Energie zu erfahren, bevor Sie mit dem Fahrrad weiterfahren.",
+            "hu": "Remek hely a zöld energiáról való tanulásra, mielőtt tovább biciklizne.",
+            "ro": "Un loc minunat pentru a învăța despre energia verde înainte de a continua cu bicicleta.",
+            "en": "A great place to learn about green energy before you continue your bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturmuseum Spinderihallerne",
+            "hu": "Spinderihallerne Kultúrmúzeum",
+            "ro": "Muzeul Cultural Spinderihallerne",
+            "en": "Culture Museum Spinderihallerne"
+          },
+          "coords": [
+            9.5205,
+            55.7101
+          ],
+          "category": "museums",
+          "arrive_at": "11:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die lokale Geschichte ein. In der Nähe gibt es viele Möglichkeiten zum Mittagessen.",
+            "hu": "Merüljön el a helyi történelemben. A közelben számos ebédelési lehetőség található.",
+            "ro": "Scufundați-vă în istoria locală. Există multe opțiuni de prânz în apropiere.",
+            "en": "Immerse yourself in local history. There are plenty of lunch options nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Vejle Rathaus & Sankt Nicolai Kirke",
+            "hu": "Vejlei Városháza és Szent Miklós templom",
+            "ro": "Primăria Vejle și Biserica Sf. Nicolae",
+            "en": "Vejle Town Hall & St. Nicolai Church"
+          },
+          "coords": [
+            9.5315,
+            55.7092
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:39",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Herz der Stadt. Die Kirche ist nur einen Steinwurf vom Rathausplatz entfernt.",
+            "hu": "Fedezze fel a város történelmi szívét. A templom csak egy kőhajításnyira van a Városháza tértől.",
+            "ro": "Explorați inima istorică a orașului. Biserica este la o aruncătură de băț de piața primăriei.",
+            "en": "Explore the historic heart of the city. The church is just a stone's throw from the town hall square."
+          }
+        },
+        {
+          "name": {
+            "de": "Vejle Fjord Brücke Aussichtspunkt",
+            "hu": "Vejle Fjord híd kilátó",
+            "ro": "Punct de vedere Podul Fiordului Vejle",
+            "en": "Vejle Fjord Bridge Viewpoint"
+          },
+          "coords": [
+            9.601,
+            55.701
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:21",
+          "stay_min": 87,
+          "hop_from_prev_min": 42,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Eine längere Fahrt, aber die Panoramaaussicht auf den Fjord, die Brücke und die Stadt ist die Mühe wert.",
+            "hu": "Hosszabb út, de a fjordra, a hídra és a városra nyíló panorámás kilátás megéri a fáradságot.",
+            "ro": "O plimbare mai lungă, dar vederea panoramică asupra fiordului, podului și orașului merită efortul.",
+            "en": "A longer ride, but the panoramic views of the fjord, the bridge, and the city are worth the effort."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet mit den modernen Wahrzeichen Vejles, Bølgen und Fjordenhus. Weiter geht es ins Zentrum zum interaktiven Økolariet. Nach dem Mittagessen in der Nähe des Kulturmuseums Spinderihallerne entdecken Sie das historische Herz der Stadt rund um das Rathaus. Der Höhepunkt des Tages ist die Fahrt zum Aussichtspunkt der Vejle Fjord Brücke, wo Sie eine atemberaubende Aussicht genießen, bevor Sie in die Stadt zurückkehren.",
+        "hu": "A kerékpártúra Vejle modern jelképeivel, a Bølgennel és a Fjordenhus-szal indul. Tovább halad a központba, az interaktív Økolariet-hez. Ebéd után a Spinderihallerne kultúrmúzeum közelében felfedezi a város történelmi szívét a Városháza körül. A nap fénypontja a Vejle Fjord híd kilátójához vezető út, ahonnan lélegzetelállító kilátás nyílik, mielőtt visszatérne a városba.",
+        "ro": "Turul cu bicicleta începe cu reperele moderne ale orașului Vejle, Bølgen și Fjordenhus. Continuați spre centru la interactivul Økolariet. După prânz, lângă Muzeul Cultural Spinderihallerne, descoperiți inima istorică a orașului în jurul Primăriei. Punctul culminant al zilei este plimbarea până la punctul de belvedere al Podului Fiordului Vejle, unde vă bucurați de o priveliște uluitoare înainte de a vă întoarce în oraș.",
+        "en": "Your bike tour starts with Vejle's modern landmarks, Bølgen and Fjordenhus. Continue to the center to the interactive Økolariet. After lunch near the Culture Museum Spinderihallerne, you'll discover the historic heart of the city around the Town Hall. The highlight of the day is the ride to the Vejle Fjord Bridge viewpoint, where you'll enjoy a breathtaking view before returning to the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fiskefrikadeller",
+            "tip": "Dänische Fischfrikadellen sind ein Muss, besonders nach einer langen Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fiskefrikadeller",
+            "tip": "A dán halfasírt kötelező, különösen egy hosszú biciklizés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fiskefrikadeller",
+            "tip": "Chiftelele de pește daneze sunt o necesitate, mai ales după o plimbare lungă cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fiskefrikadeller",
+            "tip": "Danish fish cakes are a must-try, especially after a long bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Dyrehaven",
+            "tip": "Machen Sie einen kleinen Umweg zum Hirschpark für eine friedliche Begegnung mit der Natur.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dyrehaven",
+            "tip": "Tegyen egy kis kitérőt a szarvasparkba egy békés természeti találkozásért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dyrehaven",
+            "tip": "Faceți un mic ocol la parcul de căprioare pentru o întâlnire pașnică cu natura.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dyrehaven",
+            "tip": "Take a small detour to the deer park for a peaceful encounter with nature.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Hofläden",
+            "tip": "Halten Sie auf dem Land um Vejle Ausschau nach Hofläden, die lokale Produkte verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termelői boltok",
+            "tip": "Vejle környékén keresse a helyi termékeket árusító termelői boltokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele fermelor locale",
+            "tip": "Fiți atenți la magazinele fermelor care vând produse locale în mediul rural din jurul Vejle."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Farm Shops",
+            "tip": "Look out for farm shops selling local produce in the countryside around Vejle."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck vor der Abfahrt.",
+          "Dänemark ist sehr fahrradfreundlich, nutzen Sie die ausgewiesenen Radwege.",
+          "Ein Helm wird dringend empfohlen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Dánia nagyon kerékpárbarát, használja a kijelölt kerékpárutakat.",
+          "A sisak viselése erősen ajánlott."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de a pleca.",
+          "Danemarca este foarte prietenoasă cu bicicletele, folosiți pistele de biciclete desemnate.",
+          "O cască este foarte recomandată."
+        ],
+        "en": [
+          "Check your tire pressure before leaving.",
+          "Denmark is very bike-friendly, use the designated bike lanes.",
+          "A helmet is highly recommended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum & Vejle Rathaus",
+            "hu": "Parkoló a központban és Vejlei Városháza",
+            "ro": "Parcare centrală și Primăria Vejle",
+            "en": "City Center Parking & Vejle Town Hall"
+          },
+          "coords": [
+            9.532,
+            55.709
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto in einem der zentralen Parkhäuser, um den ersten Cluster zu Fuß zu erkunden.",
+            "hu": "Parkolja le autóját az egyik központi parkolóházban, hogy gyalog fedezze fel az első klasztert.",
+            "ro": "Parcați mașina într-una din parcările centrale pentru a explora primul cluster pe jos.",
+            "en": "Park your car in one of the central parking garages to explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt Nicolai Kirke",
+            "hu": "Szent Miklós templom",
+            "ro": "Biserica Sf. Nicolae",
+            "en": "St. Nicolai Church"
+          },
+          "coords": [
+            9.5295,
+            55.7081
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Rathausplatz entfernt.",
+            "hu": "Rövid séta a Városháza tértől.",
+            "ro": "O scurtă plimbare de la piața primăriei.",
+            "en": "A short walk from the Town Hall square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturmuseum Spinderihallerne",
+            "hu": "Spinderihallerne Kultúrmúzeum",
+            "ro": "Muzeul Cultural Spinderihallerne",
+            "en": "Culture Museum Spinderihallerne"
+          },
+          "coords": [
+            9.5205,
+            55.7101
+          ],
+          "category": "museums",
+          "arrive_at": "10:36",
+          "stay_min": 120,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit für dieses umfangreiche Museum über die Industriegeschichte ein.",
+            "hu": "Tervezzen elegendő időt erre az ipartörténeti múzeumra.",
+            "ro": "Planificați suficient timp pentru acest muzeu extins despre istoria industrială.",
+            "en": "Plan enough time for this extensive museum on industrial history."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Hafen & Fjordenhus",
+            "hu": "Kikötői parkoló és Fjordenhus",
+            "ro": "Parcare portuară și Fjordenhus",
+            "en": "Harbor Parking & Fjordenhus"
+          },
+          "coords": [
+            9.5452,
+            55.7151
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Hafen und parken Sie erneut. Das Fjordenhus ist der erste Halt im zweiten Cluster.",
+            "hu": "Vezessen a kikötőbe és parkoljon le újra. A Fjordenhus a második klaszter első állomása.",
+            "ro": "Conduceți spre port și parcați din nou. Fjordenhus este prima oprire din al doilea cluster.",
+            "en": "Drive to the harbor and park again. Fjordenhus is the first stop in the second cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Bølgen (Die Welle)",
+            "hu": "Bølgen (A Hullám)",
+            "ro": "Bølgen (Valul)",
+            "en": "Bølgen (The Wave)"
+          },
+          "coords": [
+            9.548,
+            55.716
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang entlang des Wassers vom Fjordenhus aus.",
+            "hu": "Rövid séta a víz mentén a Fjordenhus-tól.",
+            "ro": "O scurtă plimbare de-a lungul apei de la Fjordenhus.",
+            "en": "A short walk along the water from Fjordenhus."
+          }
+        },
+        {
+          "name": {
+            "de": "Vejle Fjord Brücke",
+            "hu": "Vejle Fjord híd",
+            "ro": "Podul Fiordului Vejle",
+            "en": "Vejle Fjord Bridge"
+          },
+          "coords": [
+            9.601,
+            55.701
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:18",
+          "stay_min": 127,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 7.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zu einem Aussichtspunkt in der Nähe der Brücke für einen spektakulären Abschluss des Tages.",
+            "hu": "Vezessen a híd közelében lévő kilátóponthoz a nap látványos befejezéseként.",
+            "ro": "Conduceți la un punct de belvedere lângă pod pentru un final spectaculos al zilei.",
+            "en": "Drive to a viewpoint near the bridge for a spectacular end to the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit dem Parken im Zentrum. Der erste Cluster führt Sie zu Fuß vom Rathaus zur Kirche und zum Industriemuseum Spinderihallerne. Nach dem Mittagessen fahren Sie zum zweiten Cluster am Hafen. Dort erkunden Sie die modernen Wunder Fjordenhus und Bølgen zu Fuß. Die letzte Fahrt des Tages bringt Sie zur beeindruckenden Vejle Fjord Brücke für eine unvergessliche Aussicht, bevor Sie Ihre Reise fortsetzen.",
+        "hu": "A nap a központi parkolással kezdődik. Az első klaszter gyalogosan vezet a Városházától a templomig és az ipari Spinderihallerne Múzeumig. Ebéd után autóval a második klaszterhez, a kikötőhöz hajt. Itt gyalogosan fedezi fel a modern csodákat, a Fjordenhust és a Bølgent. A nap utolsó autózása a lenyűgöző Vejle Fjord hídhoz visz egy felejthetetlen kilátásért, mielőtt folytatná útját.",
+        "ro": "Ziua dvs. începe cu parcarea în centru. Primul cluster vă duce pe jos de la Primărie la biserică și la muzeul industrial Spinderihallerne. După prânz, conduceți la al doilea cluster din port. Acolo, explorați minunile moderne Fjordenhus și Bølgen pe jos. Ultima călătorie a zilei vă duce la impresionantul Pod al Fiordului Vejle pentru o priveliște de neuitat înainte de a vă continua călătoria.",
+        "en": "Your day starts with parking in the center. The first cluster takes you on foot from the Town Hall to the church and the industrial museum Spinderihallerne. After lunch, you drive to the second cluster at the harbor. There, you explore the modern wonders of Fjordenhus and Bølgen on foot. The day's final drive takes you to the impressive Vejle Fjord Bridge for an unforgettable view before you continue your journey."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant am Hafen",
+            "tip": "Genießen Sie frische Meeresfrüchte mit Blick auf den Fjord."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a kikötőben",
+            "tip": "Élvezze a friss tenger gyümölcseit a fjordra nyíló kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant în port",
+            "tip": "Bucurați-vă de fructe de mare proaspete cu vedere la fiord."
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbor Restaurant",
+            "tip": "Enjoy fresh seafood with a view of the fjord."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenuntergang an der Brücke",
+            "tip": "Der Aussichtspunkt an der Brücke ist perfekt, um den Sonnenuntergang über dem Fjord zu beobachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente a hídnál",
+            "tip": "A híd melletti kilátó tökéletes a naplemente megtekintésére a fjord felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apus de soare la pod",
+            "tip": "Punctul de belvedere de lângă pod este perfect pentru a privi apusul peste fiord.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunset at the Bridge",
+            "tip": "The viewpoint by the bridge is perfect for watching the sunset over the fjord.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "City-Einkaufszentrum Bryggen",
+            "tip": "Ein modernes Einkaufszentrum mit vielen dänischen und internationalen Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bryggen bevásárlóközpont",
+            "tip": "Modern bevásárlóközpont számos dán és nemzetközi márkával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul comercial Bryggen",
+            "tip": "Un centru comercial modern cu multe mărci daneze și internaționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bryggen Shopping Centre",
+            "tip": "A modern shopping mall with many Danish and international brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die Parkgebühren und -zeiten in der Innenstadt.",
+          "Die Cluster-Walking-Methode spart Zeit bei der Parkplatzsuche.",
+          "Planen Sie Ihre Route zwischen den Clustern im Voraus, um Verkehr zu vermeiden."
+        ],
+        "hu": [
+          "Figyeljen a parkolási díjakra és időkre a belvárosban.",
+          "A klaszter-séta módszer időt takarít meg a parkolóhely-keresésnél.",
+          "Tervezze meg előre az útvonalat a klaszterek között a forgalom elkerülése érdekében."
+        ],
+        "ro": [
+          "Fiți atenți la taxele și orele de parcare în centrul orașului.",
+          "Metoda de mers pe jos în clustere economisește timp la căutarea unui loc de parcare.",
+          "Planificați-vă traseul între clustere în avans pentru a evita traficul."
+        ],
+        "en": [
+          "Pay attention to parking fees and times in the city center.",
+          "The cluster-walking method saves time looking for parking.",
+          "Plan your route between clusters in advance to avoid traffic."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof & Økolariet",
+            "hu": "Érkezés a pályaudvarra és Økolariet",
+            "ro": "Sosire la gară și Økolariet",
+            "en": "Arrival at Station & Økolariet"
+          },
+          "coords": [
+            9.5358,
+            55.7125
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag im Økolariet, das nur einen kurzen Spaziergang vom Bahnhof entfernt ist.",
+            "hu": "Kezdje a napot az Økolariet-ben, amely csak egy rövid sétára van a pályaudvartól.",
+            "ro": "Începeți ziua la Økolariet, la doar o scurtă plimbare de gară.",
+            "en": "Start your day at Økolariet, just a short walk from the train station."
+          }
+        },
+        {
+          "name": {
+            "de": "Vejle Rathaus",
+            "hu": "Vejlei Városháza",
+            "ro": "Primăria Vejle",
+            "en": "Vejle Town Hall"
+          },
+          "coords": [
+            9.5315,
+            55.7092
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie zum Herzen der Stadt.",
+            "hu": "Sétáljon el a város szívébe.",
+            "ro": "Plimbați-vă în inima orașului.",
+            "en": "Stroll to the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt Nicolai Kirke",
+            "hu": "Szent Miklós templom",
+            "ro": "Biserica Sf. Nicolae",
+            "en": "St. Nicolai Church"
+          },
+          "coords": [
+            9.5295,
+            55.7081
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt neben dem Rathausplatz.",
+            "hu": "Közvetlenül a Városháza tér mellett.",
+            "ro": "Chiar lângă piața primăriei.",
+            "en": "Right next to the Town Hall square."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt & Kulturmuseum Spinderihallerne",
+            "hu": "Buszozás és Spinderihallerne Kultúrmúzeum",
+            "ro": "Călătorie cu autobuzul și Muzeul Cultural Spinderihallerne",
+            "en": "Bus Ride & Culture Museum Spinderihallerne"
+          },
+          "coords": [
+            9.5205,
+            55.7101
+          ],
+          "category": "museums",
+          "arrive_at": "12:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum zweiten Cluster, dem Industrieviertel.",
+            "hu": "Menjen busszal a második klaszterbe, az ipari negyedbe.",
+            "ro": "Luați un autobuz spre al doilea cluster, cartierul industrial.",
+            "en": "Take a bus to the second cluster, the industrial quarter."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt & Fjordenhus",
+            "hu": "Buszozás és Fjordenhus",
+            "ro": "Călătorie cu autobuzul și Fjordenhus",
+            "en": "Bus Ride & Fjordenhus"
+          },
+          "coords": [
+            9.5452,
+            55.7151
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein weiterer Bus bringt Sie zum Hafen, dem dritten Cluster des Tages.",
+            "hu": "Egy másik busz elvisz a kikötőbe, a nap harmadik klaszterébe.",
+            "ro": "Un alt autobuz vă duce în port, al treilea cluster al zilei.",
+            "en": "Another bus takes you to the harbor, the third cluster of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Bølgen (Die Welle)",
+            "hu": "Bølgen (A Hullám)",
+            "ro": "Bølgen (Valul)",
+            "en": "Bølgen (The Wave)"
+          },
+          "coords": [
+            9.548,
+            55.716
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:06",
+          "stay_min": 94,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Spaziergang zu diesem architektonischen Meisterwerk und genießen Sie die Fjordbrise.",
+            "hu": "Fejezze be a napot egy sétával ehhez az építészeti remekműhöz, és élvezze a fjord szellőjét.",
+            "ro": "Încheiați ziua cu o plimbare la această capodoperă arhitecturală, bucurându-vă de briza fiordului.",
+            "en": "End your day with a walk to this architectural masterpiece, enjoying the fjord breeze."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am Bahnhof. Der erste Cluster, der zu Fuß erreichbar ist, umfasst das Økolariet und das historische Zentrum. Nach dem Mittagessen bringt Sie ein kurzer Bus zum zweiten Cluster im alten Industrieviertel mit den Spinderihallerne. Ein weiterer Bus bringt Sie zum letzten Cluster am Hafen, wo Sie die moderne Architektur von Fjordenhus und Bølgen zu Fuß erkunden, bevor Sie zum Bahnhof zurückkehren.",
+        "hu": "A nap a pályaudvaron kezdődik. Az első, gyalogosan bejárható klaszter az Økolarietet és a történelmi központot foglalja magában. Ebéd után egy rövid buszozás elviszi a második klaszterbe, a régi ipari negyedbe a Spinderihallerne-vel. Egy másik busz eljuttatja az utolsó klaszterbe a kikötőben, ahol gyalogosan fedezheti fel a Fjordenhus és a Bølgen modern építészetét, mielőtt visszatérne a pályaudvarra.",
+        "ro": "Ziua dvs. începe la gară. Primul cluster, accesibil pe jos, include Økolariet și centrul istoric. După prânz, un scurt autobuz vă duce la al doilea cluster din vechiul cartier industrial, cu Spinderihallerne. Un alt autobuz vă duce la ultimul cluster din port, unde explorați pe jos arhitectura modernă a Fjordenhus și Bølgen înainte de a vă întoarce la gară.",
+        "en": "Your day starts at the train station. The first cluster, accessible on foot, includes Økolariet and the historic center. After lunch, a short bus ride takes you to the second cluster in the old industrial district with Spinderihallerne. Another bus takes you to the final cluster at the harbor, where you explore the modern architecture of Fjordenhus and Bølgen on foot before returning to the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Street Food Vejle",
+            "tip": "Probieren Sie verschiedene Gerichte an den Foodtrucks, die oft in der Nähe des Bahnhofs oder im Stadtzentrum zu finden sind."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Street Food Vejle",
+            "tip": "Kóstoljon meg különböző ételeket a pályaudvar vagy a belváros közelében található food truckoknál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Street Food Vejle",
+            "tip": "Încercați diverse feluri de mâncare de la food truck-urile adesea găsite lângă gară sau în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Street Food Vejle",
+            "tip": "Try various dishes from the food trucks often found near the station or city center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mariaparken",
+            "tip": "Ein ruhiger Park in der Nähe des Zentrums, ideal für eine kurze Pause zwischen den Besichtigungen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mariaparken",
+            "tip": "Csendes park a központ közelében, ideális egy rövid szünetre a városnézés közben.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mariaparken",
+            "tip": "Un parc liniștit lângă centru, perfect pentru o scurtă pauză între vizite.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mariaparken",
+            "tip": "A quiet park near the center, perfect for a short break between sightseeing.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vejle Midtpunkt",
+            "tip": "Eine charmante Gegend mit kleinen, unabhängigen Geschäften und einem bunten Regenschirmdach."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vejle Midtpunkt",
+            "tip": "Bájos környék kis, független üzletekkel és egy színes esernyőtetővel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vejle Midtpunkt",
+            "tip": "O zonă fermecătoare cu magazine mici, independente și un acoperiș colorat de umbrele."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vejle Midtpunkt",
+            "tip": "A charming area with small, independent shops and a colorful umbrella roof."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Prüfen Sie die Busfahrpläne im Voraus, besonders am Wochenende.",
+          "Die meisten Busse haben USB-Ladeanschlüsse."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy pénzt takarítson meg.",
+          "Ellenőrizze előre a buszmenetrendet, különösen hétvégén.",
+          "A legtöbb buszon van USB töltőport."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru a economisi bani.",
+          "Verificați programul autobuzelor în avans, mai ales în weekend.",
+          "Majoritatea autobuzelor au porturi de încărcare USB."
+        ],
+        "en": [
+          "Buy a day pass for the bus to save money.",
+          "Check bus schedules in advance, especially on weekends.",
+          "Most buses have USB charging ports."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1484 @@
+{
+  "city_id": "netherlands-hardenberg-cities-v2",
+  "anchor": {
+    "name": "Hardenberg",
+    "coords": [
+      6.62,
+      52.575
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stephanuskerk",
+            "hu": "Szent István-templom",
+            "ro": "Biserica Sfântul Ștefan",
+            "en": "St. Stephen's Church"
+          },
+          "coords": [
+            6.619,
+            52.576
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie die modernen Buntglasfenster, die biblische Geschichten erzählen.",
+            "hu": "Figyelje meg a modern ólomüveg ablakokat, melyek bibliai történeteket mesélnek el.",
+            "ro": "Observați vitraliile moderne care povestesc istorii biblice.",
+            "en": "Notice the modern stained-glass windows that narrate biblical stories."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum Hardenberg",
+            "hu": "Hardenbergi Történeti Múzeum",
+            "ro": "Muzeul de Istorie Hardenberg",
+            "en": "Hardenberg Historical Museum"
+          },
+          "coords": [
+            6.621,
+            52.577
+          ],
+          "category": "museums",
+          "arrive_at": "10:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Fragen Sie nach der Ausstellung über die Rolle der Stadt im Mittelalter.",
+            "hu": "Érdeklődjön a város középkori szerepéről szóló kiállítás iránt.",
+            "ro": "Întrebați despre expoziția dedicată rolului orașului în Evul Mediu.",
+            "en": "Ask about the exhibition on the town's role during the Middle Ages."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadspark",
+            "hu": "Városi park",
+            "ro": "Parcul Orașului",
+            "en": "City Park"
+          },
+          "coords": [
+            6.625,
+            52.574
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:29",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein idealer Ort für ein Picknick mit lokalen Käsesorten und Brot.",
+            "hu": "Ideális hely egy piknikhez helyi sajtokkal és kenyérrel.",
+            "ro": "Un loc ideal pentru un picnic cu brânzeturi și pâine locale.",
+            "en": "An ideal spot for a picnic with local cheeses and bread."
+          }
+        },
+        {
+          "name": {
+            "de": "Vechtpark",
+            "hu": "Vecht-park",
+            "ro": "Parcul Vecht",
+            "en": "Vecht Park"
+          },
+          "coords": [
+            6.635,
+            52.578
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:09",
+          "stay_min": 90,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Folgen Sie dem schwimmenden Pfad über das Wasser für eine einzigartige Perspektive.",
+            "hu": "Kövesse a vízen lebegő ösvényt egy egyedi perspektíváért.",
+            "ro": "Urmați poteca plutitoare peste apă pentru o perspectivă unică.",
+            "en": "Follow the floating path over the water for a unique perspective."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserturm",
+            "hu": "Víztorony",
+            "ro": "Turnul de Apă",
+            "en": "Water Tower"
+          },
+          "coords": [
+            6.615,
+            52.579
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:01",
+          "stay_min": 20,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein großartiges Fotomotiv, besonders am späten Nachmittag.",
+            "hu": "Nagyszerű fotótéma, különösen késő délután.",
+            "ro": "Un subiect fotografic excelent, mai ales după-amiaza târziu.",
+            "en": "A great photo opportunity, especially in the late afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Mühle de Star",
+            "hu": "De Star szélmalom",
+            "ro": "Moara de vânt De Star",
+            "en": "De Star Windmill"
+          },
+          "coords": [
+            6.61,
+            52.575
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:31",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie, ob die Mühle für Besucher geöffnet ist, um das Innere zu sehen.",
+            "hu": "Ellenőrizze, hogy a malom nyitva áll-e a látogatók előtt, hogy megnézhesse a belsejét.",
+            "ro": "Verificați dacă moara este deschisă vizitatorilor pentru a vedea interiorul.",
+            "en": "Check if the windmill is open for visitors to see the interior."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Hardenberg an der Stephanuskerk. Nach der Erkundung des historischen Zentrums und des Museums bietet der Stadspark eine grüne Oase der Ruhe. Am Nachmittag führt Sie ein längerer Spaziergang entlang des Flusses Vecht durch den weitläufigen Vechtpark, wo Natur und Kunst aufeinandertreffen. Beenden Sie Ihre Tour mit einem Blick auf das industrielle Erbe der Stadt, den Wasserturm und die Mühle de Star, die stolz in der Landschaft stehen.",
+        "hu": "Kezdje a napot Hardenberg szívében, a Szent István-templomnál. A történelmi központ és a múzeum felfedezése után a Városi park zöld oázisként nyújt nyugalmat. Délután egy hosszabb séta vezet a Vecht folyó mentén a tágas Vecht-parkon keresztül, ahol a természet és a művészet találkozik. Zárja a túrát a város ipari örökségének megtekintésével: a víztoronnyal és a tájban büszkén álló De Star szélmalommal.",
+        "ro": "Începeți ziua în inima orașului Hardenberg, la Biserica Sfântul Ștefan. După explorarea centrului istoric și a muzeului, Parcul Orașului oferă o oază de liniște și verdeață. După-amiaza, o plimbare mai lungă vă poartă de-a lungul râului Vecht prin vastul Parc Vecht, unde natura și arta se întâlnesc. Încheiați turul cu o privire asupra moștenirii industriale a orașului, Turnul de Apă și Moara De Star, care stau mândre în peisaj.",
+        "en": "Start your day in the heart of Hardenberg at St. Stephen's Church. After exploring the historic center and the museum, the City Park offers a green oasis of tranquility. In the afternoon, a longer walk takes you along the Vecht river through the expansive Vecht Park, where nature and art meet. End your tour with a look at the city's industrial heritage, the Water Tower and the De Star Windmill, standing proudly in the landscape."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Vechtdal Rundvlees",
+            "tip": "Probieren Sie ein lokales Gericht mit Rindfleisch aus dem Vecht-Tal, bekannt für seinen zarten Geschmack."
+          },
+          {
+            "name": "Pannenkoeken",
+            "tip": "Ein klassischer niederländischer Genuss, perfekt für ein Mittagessen in einem der Cafés."
+          },
+          {
+            "name": "Hardenberger Pöffertjes",
+            "tip": "Kleine, flauschige Pfannkuchen, oft mit Puderzucker serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vecht-völgyi marhahús",
+            "tip": "Kóstoljon meg egy helyi ételt a Vecht-völgyi marhahúsból, amely omlós ízéről ismert."
+          },
+          {
+            "name": "Pannenkoeken",
+            "tip": "Klasszikus holland finomság, tökéletes ebédre az egyik kávézóban."
+          },
+          {
+            "name": "Hardenbergi Pöffertjes",
+            "tip": "Kicsi, pelyhes palacsinták, gyakran porcukorral tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vită de Vechtdal",
+            "tip": "Încercați un preparat local cu vită din valea Vecht, cunoscută pentru gustul său fraged."
+          },
+          {
+            "name": "Pannenkoeken",
+            "tip": "O delicatesă olandeză clasică, perfectă pentru un prânz la una dintre cafenele."
+          },
+          {
+            "name": "Hardenberger Pöffertjes",
+            "tip": "Clătite mici și pufoase, adesea servite cu zahăr pudră."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vechtdal Beef",
+            "tip": "Try a local dish with beef from the Vecht valley, known for its tender taste."
+          },
+          {
+            "name": "Pannenkoeken",
+            "tip": "A classic Dutch treat, perfect for lunch at one of the cafes."
+          },
+          {
+            "name": "Hardenberger Pöffertjes",
+            "tip": "Small, fluffy pancakes, often served with powdered sugar."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Vecht",
+            "tip": "Finden Sie eine ruhige Bank am Flussufer im Vechtpark.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stadspark Teich",
+            "tip": "Beobachten Sie die Vögel am kleinen Teich im Stadtpark.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Friedhof an der Stephanuskerk",
+            "tip": "Ein Ort der Stille und Besinnung im historischen Zentrum.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vecht folyó partja",
+            "tip": "Találjon egy csendes padot a folyóparton a Vecht-parkban.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Városi parki tó",
+            "tip": "Figyelje a madarakat a városi park kis tavánál.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szent István-templom temetője",
+            "tip": "A csend és az elmélkedés helye a történelmi központban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Vecht",
+            "tip": "Găsiți o bancă liniștită pe malul râului în Parcul Vecht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Iazul din Parcul Orașului",
+            "tip": "Priviți păsările la iazul mic din parcul orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cimitirul de la Biserica Sf. Ștefan",
+            "tip": "Un loc de liniște și reflecție în centrul istoric.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Vecht",
+            "tip": "Find a quiet bench on the riverbank in Vecht Park.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stadspark Pond",
+            "tip": "Watch the birds at the small pond in the city park.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Stephanuskerk Graveyard",
+            "tip": "A place of quiet and reflection in the historic center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Besuchen Sie den Wochenmarkt für frische Produkte und lokalen Käse."
+          },
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Kaufen Sie traditionelles niederländisches Brot und Gebäck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Látogasson el a heti piacra friss termékekért és helyi sajtokért."
+          },
+          {
+            "name": "Helyi pékségek",
+            "tip": "Vásároljon hagyományos holland kenyeret és péksüteményeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Vizitați piața săptămânală pentru produse proaspete și brânză locală."
+          },
+          {
+            "name": "Brutării locale",
+            "tip": "Cumpărați pâine și produse de patiserie tradiționale olandeze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Visit the weekly market for fresh produce and local cheese."
+          },
+          {
+            "name": "Local Bakeries",
+            "tip": "Buy traditional Dutch bread and pastries."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Eine wiederverwendbare Wasserflasche ist nützlich, es gibt mehrere öffentliche Brunnen.",
+          "Prüfen Sie die Öffnungszeiten des Museums im Voraus.",
+          "Ein Regenschirm oder eine leichte Regenjacke ist in den Niederlanden immer eine gute Idee."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Egy újrafelhasználható vizes palack hasznos, több nyilvános kút is található.",
+          "Előre ellenőrizze a múzeum nyitvatartási idejét.",
+          "Egy esernyő vagy egy könnyű esőkabát mindig jó ötlet Hollandiában."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "O sticlă de apă reutilizabilă este utilă, există mai multe fântâni publice.",
+          "Verificați în avans programul de funcționare al muzeului.",
+          "O umbrelă sau o geacă de ploaie subțire este întotdeauna o idee bună în Olanda."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "A reusable water bottle is useful, there are several public fountains.",
+          "Check the museum's opening hours in advance.",
+          "An umbrella or a light raincoat is always a good idea in the Netherlands."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:58",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Mühle de Star",
+            "hu": "De Star szélmalom",
+            "ro": "Moara de vânt De Star",
+            "en": "De Star Windmill"
+          },
+          "coords": [
+            6.61,
+            52.575
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein perfekter Startpunkt, um die ländliche Atmosphäre zu spüren.",
+            "hu": "Tökéletes kiindulópont a vidéki hangulat átérzéséhez.",
+            "ro": "Un punct de plecare perfect pentru a simți atmosfera rurală.",
+            "en": "A perfect starting point to feel the rural atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Stephanuskerk",
+            "hu": "Szent István-templom",
+            "ro": "Biserica Sfântul Ștefan",
+            "en": "St. Stephen's Church"
+          },
+          "coords": [
+            6.619,
+            52.576
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und nehmen Sie sich Zeit für das Innere.",
+            "hu": "Parkolja le a kerékpárt, és szánjon időt a belső tér megtekintésére.",
+            "ro": "Parcați bicicleta și acordați-vă timp pentru a explora interiorul.",
+            "en": "Park your bike and take your time to explore the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Vechtpark",
+            "hu": "Vecht-park",
+            "ro": "Parcul Vecht",
+            "en": "Vecht Park"
+          },
+          "coords": [
+            6.635,
+            52.578
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Radwege hier sind ausgezeichnet und führen durch wunderschöne Landschaften.",
+            "hu": "A kerékpárutak itt kiválóak és gyönyörű tájakon vezetnek keresztül.",
+            "ro": "Pistele de biciclete de aici sunt excelente și duc prin peisaje frumoase.",
+            "en": "The bike paths here are excellent and lead through beautiful scenery."
+          }
+        },
+        {
+          "name": {
+            "de": "De Koppel",
+            "hu": "De Koppel",
+            "ro": "De Koppel",
+            "en": "De Koppel"
+          },
+          "coords": [
+            6.645,
+            52.58
+          ],
+          "category": "natural features",
+          "arrive_at": "11:41",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein Naturaktivitätszentrum, ideal für eine Pause und um mehr über die lokale Flora und Fauna zu erfahren.",
+            "hu": "Természeti aktivációs központ, ideális egy szünetre és a helyi flóra és fauna megismerésére.",
+            "ro": "Un centru de activități în natură, ideal pentru o pauză și pentru a afla mai multe despre flora și fauna locală.",
+            "en": "A nature activity center, ideal for a break and to learn about the local flora and fauna."
+          }
+        },
+        {
+          "name": {
+            "de": "Oelemars",
+            "hu": "Oelemars",
+            "ro": "Oelemars",
+            "en": "Oelemars"
+          },
+          "coords": [
+            6.65,
+            52.56
+          ],
+          "category": "natural features",
+          "arrive_at": "13:13",
+          "stay_min": 90,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 3.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein wunderschönes Erholungsgebiet mit einem See. Perfekt für eine längere Rast oder sogar ein kurzes Bad im Sommer.",
+            "hu": "Gyönyörű üdülőterület egy tóval. Tökéletes egy hosszabb pihenőre vagy akár egy rövid úszásra nyáron.",
+            "ro": "O zonă de agrement frumoasă cu un lac. Perfectă pentru o pauză mai lungă sau chiar o baie scurtă în timpul verii.",
+            "en": "A beautiful recreational area with a lake. Perfect for a longer rest or even a quick swim in summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum Hardenberg",
+            "hu": "Hardenbergi Történeti Múzeum",
+            "ro": "Muzeul de Istorie Hardenberg",
+            "en": "Hardenberg Historical Museum"
+          },
+          "coords": [
+            6.621,
+            52.577
+          ],
+          "category": "museums",
+          "arrive_at": "15:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Nach der Natur in die Geschichte eintauchen. Eine schöne Abwechslung.",
+            "hu": "A természet után merüljön el a történelemben. Kellemes változatosság.",
+            "ro": "După natură, scufundați-vă în istorie. O schimbare plăcută.",
+            "en": "After nature, delve into history. A nice change of pace."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserturm",
+            "hu": "Víztorony",
+            "ro": "Turnul de Apă",
+            "en": "Water Tower"
+          },
+          "coords": [
+            6.615,
+            52.579
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:34",
+          "stay_min": 55,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der letzte Halt der Tour, ein Symbol der Stadt, bevor Sie den Tag ausklingen lassen.",
+            "hu": "A túra utolsó állomása, a város szimbóluma, mielőtt lezárná a napot.",
+            "ro": "Ultima oprire a turului, un simbol al orașului, înainte de a încheia ziua.",
+            "en": "The last stop of the tour, a symbol of the city, before you wrap up the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Rad und starten Sie bei der Mühle de Star in den Tag. Von dort aus radeln Sie ins Zentrum zur Stephanuskerk. Die Route führt Sie weiter durch den grünen Vechtpark zum Naturzentrum De Koppel. Am Nachmittag entdecken Sie die weite Landschaft rund um den Oelemars-See – perfekt für eine lange Pause. Zum Abschluss Ihrer Tour kehren Sie in die Stadt zurück, um das Historische Museum zu besuchen und den Tag am Wasserturm ausklingen zu lassen.",
+        "hu": "Pattanjon kerékpárra, és kezdje a napot a De Star szélmalomnál. Onnan tekerjen be a központba a Szent István-templomhoz. Az útvonal tovább vezet a zöld Vecht-parkon keresztül a De Koppel természeti központhoz. Délután fedezze fel az Oelemars-tó körüli tágas tájat – tökéletes egy hosszú szünetre. A túra végén térjen vissza a városba, látogasson el a Történeti Múzeumba, és zárja a napot a víztoronynál.",
+        "ro": "Urcați-vă pe bicicletă și începeți ziua la Moara De Star. De acolo, pedalați spre centru, la Biserica Sfântul Ștefan. Traseul vă duce mai departe prin Parcul Vecht verde până la centrul natural De Koppel. După-amiaza, explorați peisajul vast din jurul lacului Oelemars - perfect pentru o pauză lungă. La finalul turului, reveniți în oraș pentru a vizita Muzeul de Istorie și a încheia ziua la Turnul de Apă.",
+        "en": "Get on your bike and start the day at the De Star Windmill. From there, cycle to the center to St. Stephen's Church. The route takes you further through the green Vecht Park to the De Koppel nature center. In the afternoon, discover the vast landscape around Lake Oelemars - perfect for a long break. At the end of your tour, return to the city to visit the Historical Museum and end the day at the Water Tower."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Appeltaart",
+            "tip": "Ein Muss in den Niederlanden. Genießen Sie ein Stück mit Schlagsahne in einem Café am Wegesrand."
+          },
+          {
+            "name": "Haring",
+            "tip": "Wenn Sie zwischen Mai und Juli hier sind, probieren Sie den 'Nieuwe Haring'."
+          },
+          {
+            "name": "Stroopwafels",
+            "tip": "Kaufen Sie frisch gemachte Stroopwafels auf dem Markt für einen Energieschub."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Appeltaart (Almatorta)",
+            "tip": "Kötelező Hollandiában. Fogyasszon el egy szeletet tejszínhabbal egy út menti kávézóban."
+          },
+          {
+            "name": "Haring (Hering)",
+            "tip": "Ha május és július között jár itt, kóstolja meg a 'Nieuwe Haring'-ot."
+          },
+          {
+            "name": "Stroopwafels",
+            "tip": "Vásároljon frissen készült stroopwafelt a piacon egy energia löketért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Appeltaart (Plăcintă cu mere)",
+            "tip": "O necesitate în Olanda. Savurați o felie cu frișcă la o cafenea pe traseu."
+          },
+          {
+            "name": "Haring (Hering)",
+            "tip": "Dacă sunteți aici între mai și iulie, încercați 'Nieuwe Haring'."
+          },
+          {
+            "name": "Stroopwafels",
+            "tip": "Cumpărați stroopwafels proaspăt făcute de la piață pentru un plus de energie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Appeltaart (Apple Pie)",
+            "tip": "A must-try in the Netherlands. Enjoy a slice with whipped cream at a roadside cafe."
+          },
+          {
+            "name": "Haring (Herring)",
+            "tip": "If you're here between May and July, try the 'Nieuwe Haring'."
+          },
+          {
+            "name": "Stroopwafels",
+            "tip": "Buy freshly made stroopwafels at the market for an energy boost."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Oelemars Seeufer",
+            "tip": "Ein ruhiger Ort, um die Natur zu genießen und Vögel zu beobachten.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Radweg entlang der Vecht",
+            "tip": "Abseits der Hauptwege finden Sie ruhige Abschnitte entlang des Flusses.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "De Koppel Gärten",
+            "tip": "Die Gärten rund um das Zentrum sind oft sehr friedlich.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Oelemars tópart",
+            "tip": "Csendes hely a természet élvezetére és madármegfigyelésre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kerékpárút a Vecht mentén",
+            "tip": "A fő utaktól távolabb csendes szakaszokat talál a folyó mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "De Koppel kertek",
+            "tip": "A központ körüli kertek gyakran nagyon békések.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Oelemars",
+            "tip": "Un loc liniștit pentru a vă bucura de natură și a observa păsările.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pista de biciclete de-a lungul Vecht",
+            "tip": "Departe de potecile principale, veți găsi secțiuni liniștite de-a lungul râului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile De Koppel",
+            "tip": "Grădinile din jurul centrului sunt adesea foarte pașnice.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Oelemars Lakeside",
+            "tip": "A quiet spot to enjoy nature and watch birds.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Bike path along the Vecht",
+            "tip": "Away from the main paths, you'll find quiet sections along the river.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "De Koppel Gardens",
+            "tip": "The gardens around the center are often very peaceful.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Suchen Sie nach einzigartigem Fahrradzubehör als Souvenir."
+          },
+          {
+            "name": "Hofläden",
+            "tip": "Entlang der Radwege finden Sie oft kleine Läden, die lokale Produkte verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Keressen egyedi kerékpáros kiegészítőket szuvenírként."
+          },
+          {
+            "name": "Tanyasi boltok",
+            "tip": "A kerékpárutak mentén gyakran találhatók kis boltok, amelyek helyi termékeket árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Căutați accesorii unice pentru biciclete ca suvenir."
+          },
+          {
+            "name": "Magazine de fermă",
+            "tip": "De-a lungul pistelor de biciclete veți găsi adesea mici magazine care vând produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "Look for unique cycling accessories as a souvenir."
+          },
+          {
+            "name": "Farm Shops",
+            "tip": "Along the bike paths, you'll often find small shops selling local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad, wenn Sie keins haben. Es gibt mehrere Verleihstationen.",
+          "Nehmen Sie viel Wasser und ein paar Snacks für die längeren Strecken mit.",
+          "Ein Fahrradschloss ist unerlässlich.",
+          "Achten Sie auf die niederländischen Verkehrsregeln für Radfahrer."
+        ],
+        "hu": [
+          "Béreljen kerékpárt, ha nincs sajátja. Több kölcsönző is található.",
+          "Vigyen magával sok vizet és némi harapnivalót a hosszabb szakaszokra.",
+          "A kerékpárzár elengedhetetlen.",
+          "Vegye figyelembe a holland közlekedési szabályokat a kerékpárosokra vonatkozóan."
+        ],
+        "ro": [
+          "Închiriați o bicicletă dacă nu aveți una. Există mai multe stații de închiriere.",
+          "Luați multă apă și câteva gustări pentru porțiunile mai lungi.",
+          "Un lacăt pentru bicicletă este esențial.",
+          "Fiți atenți la regulile de circulație olandeze pentru bicicliști."
+        ],
+        "en": [
+          "Rent a bike if you don't have one. There are several rental stations.",
+          "Bring plenty of water and some snacks for the longer stretches.",
+          "A bike lock is essential.",
+          "Pay attention to Dutch traffic rules for cyclists."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 18.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Oelemars",
+            "hu": "Oelemars parkoló",
+            "ro": "Parcare Oelemars",
+            "en": "Oelemars Car Park"
+          },
+          "coords": [
+            6.648,
+            52.559
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag in der Natur. Parken Sie hier und erkunden Sie die Umgebung zu Fuß.",
+            "hu": "Kezdje a napot a természetben. Parkoljon itt, és fedezze fel a környéket gyalog.",
+            "ro": "Începeți ziua în natură. Parcați aici și explorați zona pe jos.",
+            "en": "Start your day in nature. Park here and explore the area on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Oelemars See",
+            "hu": "Oelemars-tó",
+            "ro": "Lacul Oelemars",
+            "en": "Oelemars Lake"
+          },
+          "coords": [
+            6.65,
+            52.56
+          ],
+          "category": "natural features",
+          "arrive_at": "09:22",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang um den See, um den Tag entspannt zu beginnen.",
+            "hu": "Egy kellemes séta a tó körül a nap laza kezdéséhez.",
+            "ro": "O plimbare frumoasă în jurul lacului pentru a începe ziua relaxat.",
+            "en": "A beautiful walk around the lake to start the day relaxed."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Zentrum",
+            "hu": "Központi parkoló",
+            "ro": "Parcare Centru",
+            "en": "Center Car Park"
+          },
+          "coords": [
+            6.622,
+            52.575
+          ],
+          "category": "transport",
+          "arrive_at": "10:50",
+          "stay_min": 5,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Rest des Tages und erkunden Sie das Stadtzentrum zu Fuß.",
+            "hu": "Parkoljon itt a nap hátralévő részére, és fedezze fel a városközpontot gyalog.",
+            "ro": "Parcați aici pentru restul zilei și explorați centrul orașului pe jos.",
+            "en": "Park here for the rest of the day and explore the city center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Stephanuskerk",
+            "hu": "Szent István-templom",
+            "ro": "Biserica Sfântul Ștefan",
+            "en": "St. Stephen's Church"
+          },
+          "coords": [
+            6.619,
+            52.576
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:01",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Herz des historischen Zentrums, nur einen kurzen Spaziergang vom Parkplatz entfernt.",
+            "hu": "A történelmi központ szíve, csak egy rövid sétára a parkolótól.",
+            "ro": "Inima centrului istoric, la o scurtă plimbare de parcare.",
+            "en": "The heart of the historic center, just a short walk from the car park."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum Hardenberg",
+            "hu": "Hardenbergi Történeti Múzeum",
+            "ro": "Muzeul de Istorie Hardenberg",
+            "en": "Hardenberg Historical Museum"
+          },
+          "coords": [
+            6.621,
+            52.577
+          ],
+          "category": "museums",
+          "arrive_at": "11:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vertiefen Sie Ihr Wissen über die lokale Geschichte nach dem Kirchenbesuch.",
+            "hu": "Mélyítse el tudását a helyi történelemről a templomlátogatás után.",
+            "ro": "Aprofundați-vă cunoștințele despre istoria locală după vizitarea bisericii.",
+            "en": "Deepen your knowledge of local history after visiting the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz De Koppel",
+            "hu": "De Koppel parkoló",
+            "ro": "Parcare De Koppel",
+            "en": "De Koppel Car Park"
+          },
+          "coords": [
+            6.644,
+            52.579
+          ],
+          "category": "natural features",
+          "arrive_at": "13:30",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein kurzer Autowechsel für einen Nachmittag in einer anderen Naturlandschaft.",
+            "hu": "Egy rövid autós váltás egy délutánra egy másik természeti tájra.",
+            "ro": "O scurtă schimbare de mașină pentru o după-amiază într-un alt peisaj natural.",
+            "en": "A short car change for an afternoon in a different natural landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "De Koppel & Vechtpark",
+            "hu": "De Koppel és Vecht-park",
+            "ro": "De Koppel și Parcul Vecht",
+            "en": "De Koppel & Vecht Park"
+          },
+          "coords": [
+            6.645,
+            52.58
+          ],
+          "category": "natural features",
+          "arrive_at": "13:42",
+          "stay_min": 180,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kombinieren Sie das Naturzentrum mit einem langen Spaziergang im angrenzenden Park.",
+            "hu": "Kombinálja a természeti központot egy hosszú sétával a szomszédos parkban.",
+            "ro": "Combinați centrul natural cu o plimbare lungă în parcul adiacent.",
+            "en": "Combine the nature center with a long walk in the adjacent park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Tag mit dem Auto am Oelemars-See für einen ruhigen Morgenspaziergang. Fahren Sie dann ins Zentrum, parken Sie Ihr Auto und erkunden Sie den historischen Kern zu Fuß: die Stephanuskerk und das Museum. Nach dem Mittagessen bringt Sie eine kurze Fahrt zum Naturzentrum De Koppel. Verbringen Sie den Nachmittag mit der Erkundung des Zentrums und des angrenzenden Vechtparks, einem perfekten Beispiel für die Cluster-Walking-Philosophie, bevor Sie den Tag beenden.",
+        "hu": "Kezdje a napot autóval az Oelemars-tónál egy csendes reggeli sétával. Ezután hajtson be a központba, parkolja le az autót, és fedezze fel gyalog a történelmi magot: a Szent István-templomot és a múzeumot. Ebéd után egy rövid autóút elviszi a De Koppel természeti központhoz. Töltse a délutánt a központ és a szomszédos Vecht-park felfedezésével, amely a klaszter-séta filozófia tökéletes példája, mielőtt befejezné a napot.",
+        "ro": "Începeți ziua cu mașina la lacul Oelemars pentru o plimbare liniștită de dimineață. Apoi, conduceți spre centru, parcați mașina și explorați nucleul istoric pe jos: Biserica Sfântul Ștefan și muzeul. După prânz, o scurtă călătorie cu mașina vă duce la centrul natural De Koppel. Petreceți după-amiaza explorând centrul și Parcul Vecht adiacent, un exemplu perfect al filozofiei plimbării în cluster, înainte de a încheia ziua.",
+        "en": "Start your day by car at Oelemars Lake for a quiet morning walk. Then drive to the center, park your car, and explore the historic core on foot: St. Stephen's Church and the museum. After lunch, a short drive takes you to the De Koppel nature center. Spend the afternoon exploring the center and the adjacent Vecht Park, a perfect example of the cluster-walking philosophy, before ending the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant am See",
+            "tip": "Genießen Sie ein Mittagessen mit Blick auf das Wasser in einem der Restaurants in der Nähe von Oelemars."
+          },
+          {
+            "name": "Käsefarm in der Nähe",
+            "tip": "Machen Sie einen kleinen Umweg zu einer Käsefarm, um authentischen holländischen Käse zu kaufen."
+          },
+          {
+            "name": "Eetcafé",
+            "tip": "Besuchen Sie ein gemütliches 'Eetcafé' im Stadtzentrum für ein herzhaftes Abendessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a tónál",
+            "tip": "Ebédeljen vízparti kilátással az Oelemars közelében található éttermek egyikében."
+          },
+          {
+            "name": "Közeli sajtüzem",
+            "tip": "Tegyen egy kis kitérőt egy sajtüzemhez, hogy autentikus holland sajtot vásároljon."
+          },
+          {
+            "name": "Eetcafé",
+            "tip": "Látogasson el egy hangulatos 'Eetcafé'-ba a városközpontban egy kiadós vacsorára."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant pe malul lacului",
+            "tip": "Bucurați-vă de un prânz cu vedere la apă la unul dintre restaurantele de lângă Oelemars."
+          },
+          {
+            "name": "Fermă de brânzeturi din apropiere",
+            "tip": "Faceți un mic ocol la o fermă de brânzeturi pentru a cumpăra brânză olandeză autentică."
+          },
+          {
+            "name": "Eetcafé",
+            "tip": "Vizitați un 'Eetcafé' primitor în centrul orașului pentru o cină copioasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lakeside Restaurant",
+            "tip": "Enjoy lunch with a view of the water at one of the restaurants near Oelemars."
+          },
+          {
+            "name": "Nearby Cheese Farm",
+            "tip": "Take a small detour to a cheese farm to buy authentic Dutch cheese."
+          },
+          {
+            "name": "Eetcafé",
+            "tip": "Visit a cozy 'Eetcafé' in the city center for a hearty dinner."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Versteckte Pfade in Oelemars",
+            "tip": "Erkunden Sie die weniger begangenen Pfade für absolute Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Flussufer im Vechtpark",
+            "tip": "Ein Nachmittag am Wasser, weit weg vom Stadtlärm.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sonnenuntergang am See",
+            "tip": "Fahren Sie am Abend noch einmal zum Oelemars-See, um den Sonnenuntergang zu beobachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rejtett ösvények Oelemars-ban",
+            "tip": "Fedezze fel a kevésbé járt ösvényeket a teljes csendért.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Folyópart a Vecht-parkban",
+            "tip": "Egy délután a vízparton, távol a város zajától.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Naplemente a tónál",
+            "tip": "Este vezessen vissza az Oelemars-tóhoz, hogy megnézze a naplementét.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poteci ascunse în Oelemars",
+            "tip": "Explorați potecile mai puțin circulate pentru o liniște absolută.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malul râului în Parcul Vecht",
+            "tip": "O după-amiază la apă, departe de zgomotul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Apus la lac",
+            "tip": "Conduceți înapoi la lacul Oelemars seara pentru a privi apusul.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hidden paths in Oelemars",
+            "tip": "Explore the less-traveled paths for absolute tranquility.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Riverbank in Vecht Park",
+            "tip": "An afternoon by the water, far from the city noise.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sunset at the lake",
+            "tip": "Drive back to Oelemars Lake in the evening to watch the sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markt in Hardenberg",
+            "tip": "Planen Sie Ihren Besuch an einem Markttag, um lokale Spezialitäten zu kaufen."
+          },
+          {
+            "name": "Souvenirladen im Museum",
+            "tip": "Finden Sie einzigartige Geschenke und Bücher über die Geschichte der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piac Hardenbergben",
+            "tip": "Tervezze a látogatását egy piaci napra, hogy helyi különlegességeket vásároljon."
+          },
+          {
+            "name": "Ajándékbolt a múzeumban",
+            "tip": "Találjon egyedi ajándékokat és könyveket a régió történelméről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața din Hardenberg",
+            "tip": "Planificați-vă vizita într-o zi de piață pentru a cumpăra specialități locale."
+          },
+          {
+            "name": "Magazin de suveniruri la muzeu",
+            "tip": "Găsiți cadouri unice și cărți despre istoria regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market in Hardenberg",
+            "tip": "Plan your visit on a market day to buy local specialties."
+          },
+          {
+            "name": "Museum Gift Shop",
+            "tip": "Find unique gifts and books about the region's history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie Park-and-Ride-Möglichkeiten, falls verfügbar.",
+          "Ein Navigationsgerät ist hilfreich, um die verschiedenen Standorte zu finden.",
+          "Lassen Sie keine Wertsachen im Auto sichtbar liegen.",
+          "Planen Sie genügend Zeit für den Verkehr zwischen den Standorten ein, besonders zu Stoßzeiten."
+        ],
+        "hu": [
+          "Használja a Park and Ride lehetőségeket, ha rendelkezésre állnak.",
+          "Egy navigációs eszköz segít megtalálni a különböző helyszíneket.",
+          "Ne hagyjon értékeket látható helyen az autóban.",
+          "Tervezzen elegendő időt a helyszínek közötti forgalomra, különösen csúcsidőben."
+        ],
+        "ro": [
+          "Folosiți opțiunile de Park and Ride, dacă sunt disponibile.",
+          "Un sistem de navigație este util pentru a găsi diferitele locații.",
+          "Nu lăsați obiecte de valoare la vedere în mașină.",
+          "Planificați suficient timp pentru traficul dintre locații, mai ales la orele de vârf."
+        ],
+        "en": [
+          "Use Park and Ride options if available.",
+          "A navigation device is helpful for finding the different locations.",
+          "Do not leave valuables visible in the car.",
+          "Allow enough time for traffic between locations, especially during peak hours."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Hardenberg",
+            "hu": "Hardenberg vasútállomás",
+            "ro": "Gara Hardenberg",
+            "en": "Hardenberg Station"
+          },
+          "coords": [
+            6.62,
+            52.57
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus ins Zentrum oder beginnen Sie Ihren Spaziergang von hier.",
+            "hu": "Menjen busszal a központba, vagy kezdje innen a sétát.",
+            "ro": "Luați autobuzul spre centru sau începeți plimbarea de aici.",
+            "en": "Take the bus to the center or start your walk from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle Zentrum",
+            "hu": "Központi buszmegálló",
+            "ro": "Stația de autobuz Centru",
+            "en": "Center Bus Stop"
+          },
+          "coords": [
+            6.618,
+            52.575
+          ],
+          "category": "transport",
+          "arrive_at": "09:28",
+          "stay_min": 5,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der erste Cluster: Erkunden Sie von hier aus das historische Herz zu Fuß.",
+            "hu": "Az első klaszter: Fedezze fel innen gyalog a történelmi szívet.",
+            "ro": "Primul cluster: explorați inima istorică pe jos de aici.",
+            "en": "The first cluster: explore the historic heart on foot from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Stephanuskerk & Historisches Museum",
+            "hu": "Szent István-templom és Történeti Múzeum",
+            "ro": "Biserica Sf. Ștefan și Muzeul de Istorie",
+            "en": "St. Stephen's Church & Historical Museum"
+          },
+          "coords": [
+            6.619,
+            52.5765
+          ],
+          "category": "cluster",
+          "arrive_at": "09:37",
+          "stay_min": 140,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden Hauptattraktionen liegen nur wenige Schritte voneinander entfernt.",
+            "hu": "Ez a két fő látnivaló csak néhány lépésre van egymástól.",
+            "ro": "Aceste două atracții principale sunt la doar câțiva pași una de cealaltă.",
+            "en": "These two main attractions are just a few steps from each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle De Koppel",
+            "hu": "De Koppel buszmegálló",
+            "ro": "Stația de autobuz De Koppel",
+            "en": "De Koppel Bus Stop"
+          },
+          "coords": [
+            6.642,
+            52.581
+          ],
+          "category": "transport",
+          "arrive_at": "12:17",
+          "stay_min": 5,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der zweite Cluster: Von hier aus erreichen Sie den Vechtpark und das Naturzentrum.",
+            "hu": "A második klaszter: Innen érhető el a Vecht-park és a természeti központ.",
+            "ro": "Al doilea cluster: de aici puteți ajunge la Parcul Vecht și la centrul natural.",
+            "en": "The second cluster: from here you can reach the Vecht Park and the nature center."
+          }
+        },
+        {
+          "name": {
+            "de": "De Koppel & Vechtpark",
+            "hu": "De Koppel és Vecht-park",
+            "ro": "De Koppel și Parcul Vecht",
+            "en": "De Koppel & Vecht Park"
+          },
+          "coords": [
+            6.645,
+            52.58
+          ],
+          "category": "natural features",
+          "arrive_at": "12:26",
+          "stay_min": 150,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für einen langen Spaziergang und ein Mittagessen in dieser Gegend.",
+            "hu": "Szánjon időt egy hosszú sétára és ebédre ezen a területen.",
+            "ro": "Luați-vă timp pentru o plimbare lungă și un prânz în această zonă.",
+            "en": "Take your time for a long walk and lunch in this area."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle Mühle",
+            "hu": "Malom buszmegálló",
+            "ro": "Stația de autobuz Moară",
+            "en": "Windmill Bus Stop"
+          },
+          "coords": [
+            6.611,
+            52.574
+          ],
+          "category": "transport",
+          "arrive_at": "15:12",
+          "stay_min": 45,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der letzte Halt: Besuchen Sie die Mühle de Star und den Wasserturm, bevor Sie zurück zum Bahnhof fahren.",
+            "hu": "Az utolsó megálló: Látogassa meg a De Star malmot és a víztornyot, mielőtt visszatérne az állomásra.",
+            "ro": "Ultima oprire: vizitați moara De Star și turnul de apă înainte de a vă întoarce la gară.",
+            "en": "The final stop: visit the De Star windmill and the water tower before heading back to the station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die öffentlichen Verkehrsmittel, um Hardenberg zu erkunden. Starten Sie am Bahnhof und nehmen Sie einen Bus ins Zentrum, um die Stephanuskerk und das Museum zu Fuß zu entdecken. Ein weiterer Bus bringt Sie zum Naturcluster De Koppel und Vechtpark, wo Sie den Großteil des Nachmittags verbringen können. Zum Abschluss bringt Sie ein letzter Bus zu den industriellen Wahrzeichen der Stadt, bevor Sie Ihre Reise am Bahnhof beenden.",
+        "hu": "Használja a tömegközlekedést Hardenberg felfedezéséhez. Kezdje a vasútállomáson, és szálljon buszra a központba, hogy gyalog fedezze fel a Szent István-templomot és a múzeumot. Egy másik busz elviszi a De Koppel és Vecht-park természeti klaszteréhez, ahol a délután nagy részét töltheti. Végül egy utolsó busz elviszi a város ipari nevezetességeihez, mielőtt befejezné útját a vasútállomáson.",
+        "ro": "Folosiți transportul public pentru a explora Hardenberg. Începeți de la gară și luați un autobuz spre centru pentru a descoperi pe jos Biserica Sfântul Ștefan și muzeul. Un alt autobuz vă va duce la clusterul natural De Koppel și Parcul Vecht, unde puteți petrece cea mai mare parte a după-amiezii. În cele din urmă, un ultim autobuz vă va duce la reperele industriale ale orașului înainte de a vă încheia călătoria la gară.",
+        "en": "Use public transport to explore Hardenberg. Start at the train station and take a bus to the center to discover St. Stephen's Church and the museum on foot. Another bus will take you to the De Koppel and Vecht Park nature cluster, where you can spend most of the afternoon. Finally, a last bus will take you to the city's industrial landmarks before you end your journey at the train station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Snackbar",
+            "tip": "Probieren Sie eine Frikandel oder Kroket aus einem typisch niederländischen Snackbar."
+          },
+          {
+            "name": "Bäckerei am Bahnhof",
+            "tip": "Holen Sie sich ein belegtes Brötchen (broodje) für Ihre Reise."
+          },
+          {
+            "name": "Café im Zentrum",
+            "tip": "Ein guter Ort für Kaffee und Kuchen nach dem Museumsbesuch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Snackbar (büfé)",
+            "tip": "Kóstoljon meg egy frikandelt vagy krokettet egy tipikus holland büfében."
+          },
+          {
+            "name": "Pékség a vasútállomáson",
+            "tip": "Vegyen egy szendvicset (broodje) az utazáshoz."
+          },
+          {
+            "name": "Kávézó a központban",
+            "tip": "Jó hely egy kávéra és süteményre a múzeumlátogatás után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Snackbar",
+            "tip": "Încercați un frikandel sau kroket de la un snackbar tipic olandez."
+          },
+          {
+            "name": "Brutărie la gară",
+            "tip": "Luați un sandviș (broodje) pentru călătoria dumneavoastră."
+          },
+          {
+            "name": "Cafenea în centru",
+            "tip": "Un loc bun pentru o cafea și o prăjitură după vizita la muzeu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Snackbar",
+            "tip": "Try a frikandel or kroket from a typical Dutch snack bar."
+          },
+          {
+            "name": "Bakery at the station",
+            "tip": "Get a sandwich (broodje) for your journey."
+          },
+          {
+            "name": "Café in the center",
+            "tip": "A good place for coffee and cake after the museum visit."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt durch die Landschaft",
+            "tip": "Genießen Sie die Aussicht aus dem Busfenster zwischen den Haltestellen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eine Bank im Vechtpark",
+            "tip": "Finden Sie einen ruhigen Platz, um dem Treiben zu entfliehen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Warten auf den nächsten Bus",
+            "tip": "Nutzen Sie die kurzen Pausen, um die Umgebung zu beobachten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Utazás a tájon keresztül",
+            "tip": "Élvezze a kilátást a busz ablakából a megállók között.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy pad a Vecht-parkban",
+            "tip": "Találjon egy csendes helyet, hogy elmeneküljön a nyüzsgés elől.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Várakozás a következő buszra",
+            "tip": "Használja ki a rövid szüneteket a környezet megfigyelésére.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătorie prin peisaj",
+            "tip": "Bucurați-vă de priveliștea de la fereastra autobuzului între stații.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O bancă în Parcul Vecht",
+            "tip": "Găsiți un loc liniștit pentru a scăpa de agitație.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Așteptând următorul autobuz",
+            "tip": "Folosiți pauzele scurte pentru a observa împrejurimile.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Journey through the landscape",
+            "tip": "Enjoy the view from the bus window between stops.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A bench in Vecht Park",
+            "tip": "Find a quiet place to escape the hustle and bustle.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Waiting for the next bus",
+            "tip": "Use the short breaks to observe your surroundings.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Bahnhof",
+            "tip": "Kaufen Sie eine Zeitschrift oder einen Snack für die Fahrt."
+          },
+          {
+            "name": "Geschäfte im Stadtzentrum",
+            "tip": "Stöbern Sie in den kleinen Läden rund um den Marktplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a vasútállomáson",
+            "tip": "Vásároljon egy magazint vagy egy snacket az útra."
+          },
+          {
+            "name": "Üzletek a városközpontban",
+            "tip": "Böngésszen a piactér körüli kis boltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la gară",
+            "tip": "Cumpărați o revistă или o gustare pentru călătorie."
+          },
+          {
+            "name": "Magazine în centrul orașului",
+            "tip": "Răsfoiți magazinele mici din jurul pieței."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the station",
+            "tip": "Buy a magazine or a snack for the ride."
+          },
+          {
+            "name": "Shops in the city center",
+            "tip": "Browse the small shops around the market square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Laden Sie die Fahrplan-App herunter, um die Buszeiten in Echtzeit zu verfolgen.",
+          "Seien Sie pünktlich an der Haltestelle, die Busse fahren oft auf die Minute genau.",
+          "Geben Sie dem Fahrer ein Zeichen, wenn Sie an einer Haltestelle aussteigen möchten."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy pénzt takarítson meg.",
+          "Töltse le a menetrend alkalmazást, hogy valós időben kövesse a buszokat.",
+          "Legyen időben a megállóban, a buszok gyakran percre pontosan indulnak.",
+          "Jelezzen a sofőrnek, ha ki szeretne szállni egy megállónál."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru a economisi bani.",
+          "Descărcați aplicația cu orare pentru a urmări orele autobuzelor în timp real.",
+          "Fiți la timp la stație, autobuzele pleacă adesea la minut.",
+          "Faceți un semn șoferului când doriți să coborâți la o stație."
+        ],
+        "en": [
+          "Buy a day ticket for the bus to save money.",
+          "Download the timetable app to track bus times in real time.",
+          "Be at the stop on time, buses often leave on the minute.",
+          "Signal the driver when you want to get off at a stop."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1280 @@
+{
+  "city_id": "greece-messini-cities-v2",
+  "anchor": {
+    "name": "Messini",
+    "coords": [
+      22.0167,
+      37.0333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Archäologisches Museum von Messene",
+            "hu": "Meszíni Régészeti Múzeum",
+            "ro": "Muzeul Arheologic din Messene",
+            "en": "Archaeological Museum of Messene"
+          },
+          "coords": [
+            21.921,
+            37.1725
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Beginnen Sie hier, um den Kontext für die Ruinen zu erhalten. Die ausgestellten Modelle sind besonders aufschlussreich.",
+            "hu": "Kezdje itt, hogy kontextusba helyezze a romokat. A kiállított makettek különösen informatívak.",
+            "ro": "Începeți aici pentru a obține contextul ruinelor. Machetele expuse sunt deosebit de edificatoare.",
+            "en": "Start here to get the context for the ruins. The models on display are especially insightful."
+          }
+        },
+        {
+          "name": {
+            "de": "Asklepieion von Messene",
+            "hu": "Meszíni Aszklépiosz-szentély",
+            "ro": "Asklepieion din Messene",
+            "en": "Asklepieion of Messene"
+          },
+          "coords": [
+            21.92,
+            37.174
+          ],
+          "category": "historical",
+          "arrive_at": "10:56",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Bewundern Sie die Größe des restaurierten Komplexes. Es ist mehr als nur ein Tempel, es war ein Heilzentrum.",
+            "hu": "Csodálja meg a helyreállított komplexum méretét. Ez több volt, mint egy templom, egy gyógyító központ volt.",
+            "ro": "Admirați amploarea complexului restaurat. A fost mai mult decât un templu, a fost un centru de vindecare.",
+            "en": "Admire the scale of the restored complex. It's more than just a temple; it was a healing center."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadion von Messene",
+            "hu": "Meszíni Stadion",
+            "ro": "Stadionul din Messene",
+            "en": "Stadium of Messene"
+          },
+          "coords": [
+            21.918,
+            37.171
+          ],
+          "category": "historical",
+          "arrive_at": "12:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Gehen Sie die gesamte Länge des Stadions entlang. Es ist eines der am besten erhaltenen seiner Art.",
+            "hu": "Sétáljon végig a stadion teljes hosszán. Ez az egyik legjobb állapotban fennmaradt ilyen létesítmény.",
+            "ro": "Parcurgeți întreaga lungime a stadionului. Este unul dintre cele mai bine conservate de acest fel.",
+            "en": "Walk the full length of the stadium. It's one of the most well-preserved of its kind."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Ithomi",
+            "hu": "Ebéd az Ithomi étteremben",
+            "ro": "Prânz la Ithomi",
+            "en": "Lunch at Ithomi"
+          },
+          "coords": [
+            21.9215,
+            37.176
+          ],
+          "category": "gastro",
+          "arrive_at": "13:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Ein schattiger Platz, um traditionelle griechische Gerichte mit Blick auf die archäologische Stätte zu genießen.",
+            "hu": "Egy árnyékos hely a hagyományos görög ételek élvezetére, kilátással a régészeti lelőhelyre.",
+            "ro": "Un loc umbros pentru a savura mâncăruri tradiționale grecești cu vedere la situl arheologic.",
+            "en": "A shady spot to enjoy traditional Greek dishes with a view over the archaeological site."
+          }
+        },
+        {
+          "name": {
+            "de": "Arkadisches Tor",
+            "hu": "Árkádiai kapu",
+            "ro": "Poarta Arcadiană",
+            "en": "Arcadian Gate"
+          },
+          "coords": [
+            21.925,
+            37.18
+          ],
+          "category": "historical",
+          "arrive_at": "15:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Stellen Sie sich die antike Stadtmauer vor. Dieses Tor war der Hauptzugang zur Stadt.",
+            "hu": "Képzelje el az ősi városfalat. Ez a kapu volt a város fő bejárata.",
+            "ro": "Imaginați-vă zidurile antice ale orașului. Această poartă era intrarea principală în cetate.",
+            "en": "Imagine the ancient city walls. This gate was the main entrance to the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Antikes Theater",
+            "hu": "Antik Színház",
+            "ro": "Teatrul Antic",
+            "en": "Ancient Theatre"
+          },
+          "coords": [
+            21.922,
+            37.175
+          ],
+          "category": "historical",
+          "arrive_at": "16:47",
+          "stay_min": 38,
+          "hop_from_prev_min": 42,
+          "hop_from_prev_km": 2.1,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Ein perfekter Abschluss des Tages. Die Akustik ist auch heute noch beeindruckend.",
+            "hu": "Tökéletes befejezése a napnak. Az akusztika ma is lenyűgöző.",
+            "ro": "O încheiere perfectă a zilei. Acustica este încă impresionantă astăzi.",
+            "en": "A perfect spot to end the day's exploration. The acoustics are still impressive today."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag konzentriert sich vollständig auf das weitläufige Gelände des antiken Messene. Am Morgen erkunden Sie das Museum und das beeindruckende Asklepieion, um ein Gefühl für das tägliche Leben und die Heilpraktiken der Antike zu bekommen. Nach dem Mittagessen in der Nähe der Stätte tauchen Sie am Nachmittag tiefer in die Geschichte ein, indem Sie das massive Stadion und das monumentale Arkadische Tor besuchen. Der Tag endet mit einem besinnlichen Moment im antiken Theater, das die Pracht der antiken Zivilisation widerspiegelt.",
+        "hu": "A mai nap teljes egészében az ókori Messzíni hatalmas területére összpontosít. Délelőtt a múzeumot és a lenyűgöző Aszklépiosz-szentélyt fedezi fel, hogy megismerje az ókori mindennapi életet és gyógyító gyakorlatokat. A lelőhely közelében elköltött ebéd után délután mélyebbre merül a történelemben a hatalmas stadion és a monumentális Árkádiai kapu meglátogatásával. A nap az antik színházban egy elmélkedő pillanattal zárul, amely az ókori civilizáció nagyságát tükrözi.",
+        "ro": "Ziua dvs. se concentrează în întregime pe situl extins al Messenei Antice. Dimineața explorați muzeul și impresionantul Asklepieion pentru a vă face o idee despre viața de zi cu zi și practicile de vindecare din antichitate. După prânz lângă sit, după-amiaza vă adânciți în istorie vizitând stadionul masiv și Poarta Arcadiană monumentală. Ziua se încheie cu un moment de reflecție la teatrul antic, reflectând măreția civilizației antice.",
+        "en": "Your day focuses entirely on the vast grounds of Ancient Messene. In the morning, you'll explore the museum and the impressive Asklepieion to get a sense of ancient daily life and healing practices. After lunch near the site, the afternoon takes you deeper into history by visiting the massive stadium and the monumental Arcadian Gate. The day concludes with a reflective moment at the ancient theatre, echoing the grandeur of the ancient civilization."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lalagia (Λαλάγγια)",
+            "tip": "Knusprige Teigstreifen, oft zum Frühstück oder als Snack gegessen."
+          },
+          {
+            "name": "Gournopoula (Γουρνοπούλα)",
+            "tip": "Gegrilltes Spanferkel, eine lokale Spezialität, die man probieren muss."
+          },
+          {
+            "name": "Olivenöl aus Kalamata",
+            "tip": "Die Region ist berühmt für ihr außergewöhnliches Olivenöl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lalagia (Λαλάγγια)",
+            "tip": "Ropogós tésztacsíkok, gyakran reggelire vagy uzsonnára fogyasztják."
+          },
+          {
+            "name": "Gournopoula (Γουρνοπούλα)",
+            "tip": "Roston sült szopós malac, egy helyi specialitás, amit meg kell kóstolni."
+          },
+          {
+            "name": "Kalamata olívaolaj",
+            "tip": "A régió híres a kivételes minőségű olívaolajáról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lalagia (Λαλάγγια)",
+            "tip": "Fâșii de aluat crocante, adesea consumate la micul dejun sau ca gustare."
+          },
+          {
+            "name": "Gournopoula (Γουρνοπούλα)",
+            "tip": "Purcel de lapte la grătar, o specialitate locală ce trebuie încercată."
+          },
+          {
+            "name": "Ulei de măsline de Kalamata",
+            "tip": "Regiunea este renumită pentru uleiul său de măsline excepțional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lalagia (Λαλάγγια)",
+            "tip": "Crispy dough strips, often eaten for breakfast or as a snack."
+          },
+          {
+            "name": "Gournopoula (Γουρνοπούλα)",
+            "tip": "Roasted suckling pig, a local specialty that is a must-try."
+          },
+          {
+            "name": "Kalamata Olive Oil",
+            "tip": "The region is famous for its exceptional olive oil."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kloster Voulkano",
+            "tip": "Fahren Sie für absolute Ruhe und einen atemberaubenden Panoramablick hierher.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Olivenhaine",
+            "tip": "Machen Sie einen Spaziergang durch die alten Olivenhaine, die die archäologische Stätte umgeben.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Voulkano kolostor",
+            "tip": "Vezessen fel ide a teljes nyugalomért és a lélegzetelállító panorámáért.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Olajfaligetek",
+            "tip": "Sétáljon egyet az ősi olajfaligetekben, amelyek körülveszik a régészeti lelőhelyet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mănăstirea Voulkano",
+            "tip": "Conduceți până aici pentru o liniște absolută și o priveliște panoramică uluitoare.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Livezile de măslini",
+            "tip": "Faceți o plimbare prin livezile de măslini antice care înconjoară situl arheologic.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Voulkano Monastery",
+            "tip": "Drive up here for absolute tranquility and a stunning panoramic view.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Olive Groves",
+            "tip": "Take a walk through the ancient olive groves surrounding the archaeological site.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Keramik",
+            "tip": "Handgefertigte Keramik, inspiriert von antiken Designs."
+          },
+          {
+            "name": "Kräuter und Honig",
+            "tip": "Kaufen Sie lokalen Thymianhonig und Bergkräuter wie Oregano und Salbei."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerámia",
+            "tip": "Kézzel készített kerámiák, amelyeket ősi minták ihlettek."
+          },
+          {
+            "name": "Gyógynövények és méz",
+            "tip": "Vásároljon helyi kakukkfűmézet és hegyi gyógynövényeket, mint az oregánó és a zsálya."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică locală",
+            "tip": "Obiecte de ceramică artizanală, inspirate de modele antice."
+          },
+          {
+            "name": "Ierburi și miere",
+            "tip": "Cumpărați miere locală de cimbru și ierburi de munte precum oregano și salvie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Pottery",
+            "tip": "Handmade ceramics inspired by ancient designs."
+          },
+          {
+            "name": "Herbs and Honey",
+            "tip": "Shop for local thyme honey and mountain herbs like oregano and sage."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Dieser Plan konzentriert sich ausschließlich auf die archäologische Stätte, da sie sehr groß ist.",
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie ausreichend Wasser und Sonnenschutz mit, da es wenig Schatten gibt.",
+          "Ein Kombiticket für die Stätte und das Museum ist erhältlich."
+        ],
+        "hu": [
+          "Ez a terv kizárólag a régészeti lelőhelyre összpontosít, mivel az nagyon kiterjedt.",
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "Vigyen magával elegendő vizet és naptejet, mivel kevés az árnyék.",
+          "Kombinált jegy váltható a lelőhelyre és a múzeumba."
+        ],
+        "ro": [
+          "Acest itinerar se concentrează exclusiv pe situl arheologic, deoarece este foarte extins.",
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Luați cu voi suficientă apă și protecție solară, deoarece umbra este limitată.",
+          "Este disponibil un bilet combinat pentru sit și muzeu."
+        ],
+        "en": [
+          "This itinerary focuses solely on the archaeological site as it is very extensive.",
+          "Wear comfortable shoes, as you will be doing a lot of walking.",
+          "Bring plenty of water and sun protection, as there is little shade.",
+          "A combination ticket is available for the site and the museum."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Platz von Messini",
+            "hu": "Meszíni központi tere",
+            "ro": "Piața Centrală din Messini",
+            "en": "Central Square of Messini"
+          },
+          "coords": [
+            22.0167,
+            37.051
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_4lang": {
+            "de": "Starten Sie mit einem Kaffee in einem der lokalen Cafés und beobachten Sie das Treiben.",
+            "hu": "Kezdje a napot egy kávéval a helyi kávézók egyikében, és figyelje a helyi életet.",
+            "ro": "Începeți cu o cafea la una dintre cafenelele locale și observați viața orașului.",
+            "en": "Start with a coffee at one of the local cafes and watch the town life."
+          }
+        },
+        {
+          "name": {
+            "de": "Radtour zum Arkadischen Tor",
+            "hu": "Kerékpártúra az Árkádiai kapuhoz",
+            "ro": "Tur cu bicicleta la Poarta Arcadiană",
+            "en": "Bike ride to the Arcadian Gate"
+          },
+          "coords": [
+            21.925,
+            37.18
+          ],
+          "category": "historical",
+          "arrive_at": "10:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 48,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "bike",
+          "tip_4lang": {
+            "de": "Die Fahrt führt Sie durch ländliche Olivenhaine zur antiken Stätte. Das Tor ist der perfekte Eingang.",
+            "hu": "Az út vidéki olajfaligeteken keresztül vezet az ókori lelőhelyhez. A kapu a tökéletes bejárat.",
+            "ro": "Drumul vă poartă prin livezi de măslini rurale până la situl antic. Poarta este intrarea perfectă.",
+            "en": "The ride takes you through rural olive groves to the ancient site. The Gate is the perfect entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadion von Messene",
+            "hu": "Meszíni Stadion",
+            "ro": "Stadionul din Messene",
+            "en": "Stadium of Messene"
+          },
+          "coords": [
+            21.918,
+            37.171
+          ],
+          "category": "historical",
+          "arrive_at": "11:09",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_4lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und stellen Sie sich die antiken Wettkämpfe vor.",
+            "hu": "Zárja le a kerékpárját, és képzelje el az ókori versenyeket.",
+            "ro": "Legați-vă bicicleta și imaginați-vă competițiile antice.",
+            "en": "Lock up your bike and imagine the ancient competitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Asklepieion & Mittagessen",
+            "hu": "Aszklépiosz-szentély és ebéd",
+            "ro": "Asklepieion & Prânz",
+            "en": "Asklepieion & Lunch"
+          },
+          "coords": [
+            21.92,
+            37.174
+          ],
+          "category": "historical",
+          "arrive_at": "12:12",
+          "stay_min": 120,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_4lang": {
+            "de": "Erkunden Sie den Komplex und essen Sie dann in einem nahegelegenen Restaurant zu Mittag.",
+            "hu": "Fedezze fel a komplexumot, majd ebédeljen egy közeli étteremben.",
+            "ro": "Explorați complexul, apoi luați prânzul la un restaurant din apropiere.",
+            "en": "Explore the complex and then have lunch at a nearby restaurant."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul Arheologic",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            21.921,
+            37.1725
+          ],
+          "category": "museums",
+          "arrive_at": "14:14",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_4lang": {
+            "de": "Eine willkommene Abkühlung und eine Chance, die Funde der Stätte zu sehen.",
+            "hu": "Kellemes hűsölés és lehetőség a lelőhely leleteinek megtekintésére.",
+            "ro": "O pauză binevenită la răcoare și o șansă de a vedea artefactele de pe sit.",
+            "en": "A welcome cool-down and a chance to see the finds from the site."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt nach Messini",
+            "hu": "Visszaút Meszínibe",
+            "ro": "Întoarcere la Messini",
+            "en": "Ride back to Messini"
+          },
+          "coords": [
+            22.0167,
+            37.051
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:32",
+          "stay_min": 47,
+          "hop_from_prev_min": 48,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "bike",
+          "tip_4lang": {
+            "de": "Genießen Sie die gemütliche Rückfahrt und belohnen Sie sich mit einem Eis auf dem Platz.",
+            "hu": "Élvezze a kényelmes visszaútat, és jutalmazza meg magát egy fagyival a téren.",
+            "ro": "Bucurați-vă de plimbarea relaxantă înapoi și recompensați-vă cu o înghețată în piață.",
+            "en": "Enjoy the leisurely ride back and reward yourself with an ice cream in the square."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser sportliche Tag beginnt im modernen Messini, bevor Sie eine malerische Radtour durch die Landschaft zum antiken Messene unternehmen. Sie betreten die Stätte durch das beeindruckende Arkadische Tor. Nach der Erkundung des Stadions und des Asklepieions machen Sie eine Mittagspause. Am Nachmittag bietet das Museum eine kühle Abwechslung, bevor Sie die entspannte Rückfahrt in die Stadt antreten und den Tag auf dem zentralen Platz ausklingen lassen.",
+        "hu": "Ez a sportos nap a modern Meszíniben kezdődik, mielőtt egy festői kerékpártúrára indulna a vidéken keresztül az ókori Meszíni felé. A lenyűgöző Árkádiai kapun keresztül lép be a lelőhelyre. A stadion és az Aszklépiosz-szentély felfedezése után ebédszünetet tart. Délután a múzeum kínál hűsítő kikapcsolódást, mielőtt visszaindulna a városba, és a központi téren zárná a napot.",
+        "ro": "Această zi activă începe în Messini modern, înainte de o plimbare pitorească cu bicicleta prin peisajul rural spre Messene Antică. Veți intra pe sit prin impresionanta Poartă Arcadiană. După explorarea stadionului și a Asklepieionului, veți lua o pauză de prânz. După-amiaza, muzeul oferă o pauză răcoroasă înainte de a porni pe drumul de întoarcere relaxant spre oraș, încheind ziua în piața centrală.",
+        "en": "This active day starts in modern Messini before a scenic bike ride through the countryside to Ancient Messene. You'll enter the site through the impressive Arcadian Gate. After exploring the stadium and Asklepieion, you'll break for lunch. In the afternoon, the museum offers a cool respite before you take the leisurely ride back to town, finishing the day in the central square."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ithomi Restaurant",
+            "tip": "Traditionelle Küche mit herrlicher Aussicht auf die archäologische Stätte."
+          },
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Holen Sie sich eine Spanakopita (Spinatpastete) für einen schnellen Energieschub."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ithomi Étterem",
+            "tip": "Hagyományos konyha, csodálatos kilátással a régészeti lelőhelyre."
+          },
+          {
+            "name": "Helyi pékség",
+            "tip": "Vegyen egy Spanakopitát (spenótos pitét) egy gyors energialöketért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul Ithomi",
+            "tip": "Bucătărie tradițională cu o priveliște superbă asupra sitului arheologic."
+          },
+          {
+            "name": "Brutărie locală",
+            "tip": "Luați o Spanakopita (plăcintă cu spanac) pentru un plus de energie rapid."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ithomi Restaurant",
+            "tip": "Traditional cuisine with a great view over the archaeological site."
+          },
+          {
+            "name": "Local Bakery",
+            "tip": "Grab a spanakopita (spinach pie) for a quick energy boost."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Die Hügel oberhalb des Stadions",
+            "tip": "Klettern Sie für eine ruhige Perspektive und einen weiten Blick über die Stätte.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fahrt durch die Olivenhaine",
+            "tip": "Die Radtour selbst ist eine friedliche Flucht in die Natur.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A stadion feletti dombok",
+            "tip": "Másszon fel a csendes perspektíváért és a lelőhelyre nyíló széles kilátásért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kerékpározás az olajfaligeteken keresztül",
+            "tip": "Maga a kerékpártúra egy békés menekülés a természetbe.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealurile de deasupra stadionului",
+            "tip": "Urcați pentru o perspectivă liniștită și o vedere panoramică asupra sitului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plimbare prin livezile de măslini",
+            "tip": "Plimbarea cu bicicleta în sine este o evadare pașnică în natură.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "The hills above the stadium",
+            "tip": "Climb up for a quiet perspective and a broad view over the site.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ride through the olive groves",
+            "tip": "The bike ride itself is a peaceful escape into nature.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäft des Archäologischen Museums",
+            "tip": "Kaufen Sie hochwertige Repliken und Bücher über die Geschichte von Messene."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Régészeti Múzeum boltja",
+            "tip": "Vásároljon minőségi másolatokat és könyveket Messzíni történelméről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Muzeului Arheologic",
+            "tip": "Cumpărați replici de înaltă calitate și cărți despre istoria Messenei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Archaeological Museum Shop",
+            "tip": "Purchase high-quality replicas and books about the history of Messene."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad, bevor Sie losfahren, insbesondere die Bremsen für die Abfahrten.",
+          "Die Straße zum antiken Messene ist hügelig; seien Sie auf einige Anstiege vorbereitet.",
+          "Ein Helm wird dringend empfohlen.",
+          "Nehmen Sie ein zuverlässiges Schloss mit, um Ihr Fahrrad an den verschiedenen Haltestellen zu sichern."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját, különösen a fékeket a lejtők miatt.",
+          "Az ókori Messzíni felé vezető út dombos; készüljön fel néhány emelkedőre.",
+          "Sisak használata erősen ajánlott.",
+          "Vigyen magával egy megbízható zárat a kerékpár biztosításához a különböző megállóknál."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele pentru coborâri.",
+          "Drumul spre Messene Antică este deluros; fiți pregătiți pentru câteva urcări.",
+          "O cască este foarte recomandată.",
+          "Luați un lacăt de încredere pentru a vă asigura bicicleta la diferitele opriri."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes for the downhills.",
+          "The road to Ancient Messene is hilly; be prepared for some climbing.",
+          "A helmet is highly recommended.",
+          "Bring a reliable lock to secure your bike at the various stops."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:02",
+      "total_km": 21.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Platz & Agios Ioannis",
+            "hu": "Meszíni központi tere és Agios Ioannis",
+            "ro": "Piața Centrală & Agios Ioannis",
+            "en": "Central Square & Agios Ioannis"
+          },
+          "coords": [
+            22.0167,
+            37.051
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_4lang": {
+            "de": "Parken Sie und erkunden Sie den Platz und die nahegelegene Kirche zu Fuß.",
+            "hu": "Parkoljon le, és fedezze fel a teret és a közeli templomot gyalog.",
+            "ro": "Parcați și explorați piața și biserica din apropiere pe jos.",
+            "en": "Park your car and explore the square and the nearby church on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum antiken Messene & Museum",
+            "hu": "Utazás az ókori Meszínibe és a múzeumba",
+            "ro": "Drum spre Messene Antică & Muzeu",
+            "en": "Drive to Ancient Messene & Museum"
+          },
+          "coords": [
+            21.921,
+            37.1725
+          ],
+          "category": "museums",
+          "arrive_at": "10:07",
+          "stay_min": 100,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_4lang": {
+            "de": "Parken Sie auf dem Hauptparkplatz. Das Museum ist der beste Ausgangspunkt.",
+            "hu": "Parkoljon a fő parkolóban. A múzeum a legjobb kiindulópont.",
+            "ro": "Parcați în parcarea principală. Muzeul este cel mai bun punct de plecare.",
+            "en": "Park in the main lot. The museum is the best starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Asklepieion von Messene",
+            "hu": "Meszíni Aszklépiosz-szentély",
+            "ro": "Asklepieion din Messene",
+            "en": "Asklepieion of Messene"
+          },
+          "coords": [
+            21.92,
+            37.174
+          ],
+          "category": "historical",
+          "arrive_at": "11:53",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Ein kurzer Spaziergang vom Museum zu diesem riesigen und gut restaurierten Komplex.",
+            "hu": "Egy rövid séta a múzeumtól ehhez a hatalmas és jól restaurált komplexumhoz.",
+            "ro": "O scurtă plimbare de la muzeu la acest complex vast și bine restaurat.",
+            "en": "A short walk from the museum to this vast and well-restored complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadion von Messene",
+            "hu": "Meszíni Stadion",
+            "ro": "Stadionul din Messene",
+            "en": "Stadium of Messene"
+          },
+          "coords": [
+            21.918,
+            37.171
+          ],
+          "category": "historical",
+          "arrive_at": "13:01",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Spazieren Sie zum Stadion. Die schiere Größe ist aus der Nähe noch beeindruckender.",
+            "hu": "Sétáljon el a stadionhoz. A puszta mérete közelről még lenyűgözőbb.",
+            "ro": "Faceți o plimbare până la stadion. Dimensiunea sa este și mai impresionantă de aproape.",
+            "en": "Stroll down to the stadium. The sheer scale is more impressive up close."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagspause",
+            "hu": "Ebédszünet",
+            "ro": "Pauză de prânz",
+            "en": "Lunch Break"
+          },
+          "coords": [
+            21.9218,
+            37.1755
+          ],
+          "category": "gastro",
+          "arrive_at": "14:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Genießen Sie eine Mahlzeit in einem der Restaurants mit Blick auf die Ruinen.",
+            "hu": "Élvezze az ebédet az egyik étteremben, kilátással a romokra.",
+            "ro": "Savurați o masă la unul dintre restaurantele cu vedere la ruine.",
+            "en": "Enjoy a meal at one of the restaurants overlooking the ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Kloster Voulkano",
+            "hu": "Utazás a Voulkano kolostorhoz",
+            "ro": "Drum spre Mănăstirea Voulkano",
+            "en": "Drive to Voulkano Monastery"
+          },
+          "coords": [
+            21.915,
+            37.195
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:42",
+          "stay_min": 50,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_4lang": {
+            "de": "Die kurvenreiche Straße ist die Aussicht wert. Es ist ein Ort der Ruhe und des Friedens.",
+            "hu": "A kanyargós út megéri a kilátást. A nyugalom és a béke helye.",
+            "ro": "Drumul șerpuit merită priveliștea. Este un loc de liniște și pace.",
+            "en": "The winding drive is worth it for the views. It's a place of tranquility and peace."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr nach Messini",
+            "hu": "Visszatérés Meszínibe",
+            "ro": "Întoarcere în Messini",
+            "en": "Return to Messini"
+          },
+          "coords": [
+            22.0167,
+            37.051
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "17:02",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "car",
+          "tip_4lang": {
+            "de": "Fahren Sie zurück in die Stadt für einen abendlichen Spaziergang oder ein Getränk.",
+            "hu": "Vezessen vissza a városba egy esti sétára vagy egy italra.",
+            "ro": "Conduceți înapoi în oraș pentru o plimbare de seară sau o băutură.",
+            "en": "Drive back to town for an evening stroll or a drink."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt entspannt im modernen Messini. Am Morgen fahren Sie dann zum Cluster des antiken Messene. Sie parken Ihr Auto und verbringen mehrere Stunden damit, die wichtigsten Sehenswürdigkeiten wie das Museum, das Asklepieion und das Stadion zu Fuß zu erkunden. Nach dem Mittagessen mit Blick auf die Ruinen fahren Sie am Nachmittag zum hochgelegenen Kloster Voulkano, um die atemberaubende Aussicht zu genießen. Der Tag endet mit der Rückkehr ins moderne Messini, wo Sie die Eindrücke des Tages Revue passieren lassen können.",
+        "hu": "A nap nyugodtan kezdődik a modern Meszíniben. Délelőtt az ókori Messzínihez utazik. Le parkolja az autóját, és több órát tölt a legfontosabb látnivalók, mint a múzeum, az Aszklépiosz-szentély és a stadion gyalogos felfedezésével. A romokra néző ebéd után délután felautózik a magasan fekvő Voulkano kolostorhoz, hogy élvezze a lélegzetelállító kilátást. A nap a modern Meszínibe való visszatéréssel zárul, ahol felidézheti a nap élményeit.",
+        "ro": "Ziua începe relaxat în Messini modern. Dimineața veți conduce apoi către grupul de situri din Messene Antică. Parcați mașina și petreceți câteva ore explorând pe jos atracțiile principale, cum ar fi muzeul, Asklepieionul și stadionul. După prânzul cu vedere la ruine, după-amiaza veți urca cu mașina la Mănăstirea Voulkano, situată la înălțime, pentru a vă bucura de priveliștea uluitoare. Ziua se încheie cu întoarcerea în Messini modern, unde puteți rememora impresiile zilei.",
+        "en": "The day begins relaxed in modern Messini. In the morning, you'll then drive to the cluster of Ancient Messene. You park your car and spend several hours exploring the main sights on foot, like the museum, the Asklepieion, and the stadium. After lunch overlooking the ruins, the afternoon takes you up to the high-altitude Voulkano Monastery to enjoy the breathtaking views. The day concludes with a return to modern Messini to reflect on the day's experiences."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Taverna am archäologischen Gelände",
+            "tip": "Praktisch und bietet authentische lokale Gerichte."
+          },
+          {
+            "name": "Kafenio am Hauptplatz",
+            "tip": "Genießen Sie einen griechischen Kaffee und beobachten Sie das lokale Leben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Taverna a régészeti lelőhelyen",
+            "tip": "Kényelmes és autentikus helyi ételeket kínál."
+          },
+          {
+            "name": "Kafenio a főtéren",
+            "tip": "Élvezzen egy görög kávét és figyelje a helyi életet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Taverna de la situl arheologic",
+            "tip": "Convenabilă și oferă mâncăruri locale autentice."
+          },
+          {
+            "name": "Kafenio în piața principală",
+            "tip": "Savurați o cafea grecească și observați viața locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Taverna at the archaeological site",
+            "tip": "Convenient and offers authentic local dishes."
+          },
+          {
+            "name": "Kafenio in the main square",
+            "tip": "Enjoy a Greek coffee and watch the local life."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kloster Voulkano",
+            "tip": "Der ultimative Ort für Ruhe und eine unvergleichliche Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spaziergang um das Stadion",
+            "tip": "Trotz seiner Größe kann der Bereich um das Stadion überraschend ruhig sein.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Voulkano kolostor",
+            "tip": "A nyugalom és a páratlan kilátás végső helyszíne.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Séta a stadion körül",
+            "tip": "Mérete ellenére a stadion környéke meglepően csendes lehet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mănăstirea Voulkano",
+            "tip": "Locul suprem pentru liniște și o priveliște de neegalat.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plimbare în jurul stadionului",
+            "tip": "În ciuda dimensiunilor sale, zona din jurul stadionului poate fi surprinzător de liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Voulkano Monastery",
+            "tip": "The ultimate spot for tranquility and an unbeatable view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Walk around the stadium",
+            "tip": "Despite its scale, the area around the stadium can be surprisingly peaceful.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Straßenhändler in der Nähe der Stätte",
+            "tip": "Verkaufen oft lokale Produkte wie Olivenöl und Honig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Utcai árusok a lelőhely közelében",
+            "tip": "Gyakran árulnak helyi termékeket, mint olívaolajat és mézet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vânzători ambulanți lângă sit",
+            "tip": "Adesea vând produse locale precum ulei de măsline și miere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Roadside vendors near the site",
+            "tip": "Often sell local products like olive oil and honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Auto gibt Ihnen die Flexibilität, das abgelegene Kloster Voulkano zu besuchen.",
+          "Parken am antiken Messene ist in der Regel einfach.",
+          "Die Straßen können eng sein, fahren Sie also vorsichtig.",
+          "Vergessen Sie nicht, das Auto abzuschließen und keine Wertsachen sichtbar zu lassen."
+        ],
+        "hu": [
+          "Az autó rugalmasságot biztosít a távoli Voulkano kolostor meglátogatásához.",
+          "A parkolás az ókori Messzíninél általában egyszerű.",
+          "Az utak szűkek lehetnek, ezért vezessen óvatosan.",
+          "Ne felejtse el bezárni az autót, és ne hagyjon látható helyen értékeket."
+        ],
+        "ro": [
+          "Mașina vă oferă flexibilitatea de a vizita mănăstirea izolată Voulkano.",
+          "Parcarea la Messene Antică este de obicei ușoară.",
+          "Drumurile pot fi înguste, așa că șofați cu prudență.",
+          "Nu uitați să încuiați mașina și să nu lăsați obiecte de valoare la vedere."
+        ],
+        "en": [
+          "The car gives you the flexibility to visit the remote Voulkano Monastery.",
+          "Parking at Ancient Messene is usually straightforward.",
+          "Roads can be narrow, so drive with care.",
+          "Don't forget to lock your car and leave no valuables in sight."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:39",
+      "total_km": 16.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Platz von Messini",
+            "hu": "Meszíni központi tere",
+            "ro": "Piața Centrală din Messini",
+            "en": "Central Square of Messini"
+          },
+          "coords": [
+            22.0167,
+            37.051
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_4lang": {
+            "de": "Finden Sie die Bushaltestelle für den Bus zum antiken Messene (Dorf Mavromati).",
+            "hu": "Keresse meg a buszmegállót, ahonnan a busz az ókori Messzínihez (Mavromati falu) indul.",
+            "ro": "Găsiți stația de autobuz pentru autobuzul spre Messene Antică (satul Mavromati).",
+            "en": "Locate the bus stop for the bus to Ancient Messene (Mavromati village)."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum antiken Messene",
+            "hu": "Buszozás az ókori Meszínibe",
+            "ro": "Călătorie cu autobuzul la Messene Antică",
+            "en": "Bus ride to Ancient Messene"
+          },
+          "coords": [
+            21.921,
+            37.1725
+          ],
+          "category": "museums",
+          "arrive_at": "10:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "transit",
+          "tip_4lang": {
+            "de": "Steigen Sie in Mavromati aus und beginnen Sie Ihre Erkundung im Museum.",
+            "hu": "Szálljon le Mavromatiban, és kezdje a felfedezést a múzeumban.",
+            "ro": "Coborâți în Mavromati și începeți explorarea la muzeu.",
+            "en": "Get off at Mavromati and start your exploration at the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Asklepieion & Stadion",
+            "hu": "Aszklépiosz-szentély és Stadion",
+            "ro": "Asklepieion & Stadion",
+            "en": "Asklepieion & Stadium"
+          },
+          "coords": [
+            21.919,
+            37.172
+          ],
+          "category": "historical",
+          "arrive_at": "12:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Erkunden Sie diesen Cluster von Ruinen zu Fuß. Sie liegen nahe beieinander.",
+            "hu": "Fedezze fel ezt a romcsoportot gyalog. Közel vannak egymáshoz.",
+            "ro": "Explorați acest grup de ruine pe jos. Sunt aproape una de cealaltă.",
+            "en": "Explore this cluster of ruins on foot. They are located close to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Mavromati",
+            "hu": "Ebéd Mavromatiban",
+            "ro": "Prânz în Mavromati",
+            "en": "Lunch in Mavromati"
+          },
+          "coords": [
+            21.9218,
+            37.1755
+          ],
+          "category": "gastro",
+          "arrive_at": "14:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Stärken Sie sich vor dem letzten Teil Ihrer Erkundung.",
+            "hu": "Erősítse meg magát a felfedezés utolsó szakasza előtt.",
+            "ro": "Întăriți-vă înainte de ultima parte a explorării.",
+            "en": "Refuel before the last part of your exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Arkadisches Tor",
+            "hu": "Árkádiai kapu",
+            "ro": "Poarta Arcadiană",
+            "en": "Arcadian Gate"
+          },
+          "coords": [
+            21.925,
+            37.18
+          ],
+          "category": "historical",
+          "arrive_at": "15:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Ein kurzer Spaziergang, um die beeindruckenden Befestigungsanlagen der Stadt zu sehen.",
+            "hu": "Egy rövid séta a város lenyűgöző erődítményeinek megtekintéséhez.",
+            "ro": "O scurtă plimbare pentru a vedea fortificațiile impresionante ale orașului.",
+            "en": "A short walk to see the impressive city fortifications."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zurück nach Messini",
+            "hu": "Busszal vissza Meszínibe",
+            "ro": "Autobuz înapoi la Messini",
+            "en": "Bus back to Messini"
+          },
+          "coords": [
+            22.0167,
+            37.051
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:39",
+          "stay_min": 30,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "transit",
+          "tip_4lang": {
+            "de": "Kehren Sie nach Messini zurück und lassen Sie den Tag in einem Café ausklingen.",
+            "hu": "Térjen vissza Meszínibe, és zárja a napot egy kávézóban.",
+            "ro": "Întoarceți-vă la Messini și încheiați ziua la o cafenea.",
+            "en": "Return to Messini and end your day at a cafe."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am zentralen Platz von Messini, von wo aus Sie den Bus zum antiken Messene nehmen. Dieser bringt Sie zum Hauptcluster der archäologischen Stätte. Den Vormittag und frühen Nachmittag verbringen Sie damit, die Ruinen des Museums, des Asklepieions und des Stadions zu Fuß zu erkunden, unterbrochen von einer Mittagspause. Am späten Nachmittag besuchen Sie das Arkadische Tor, bevor Sie den Bus zurück ins moderne Messini nehmen, um den Tag entspannt ausklingen zu lassen.",
+        "hu": "A nap Meszíni központi terén kezdődik, ahonnan busszal utazik az ókori Messzínihez. Ez elviszi a régészeti lelőhely fő klaszteréhez. A délelőttöt és a kora délutánt a múzeum, az Aszklépiosz-szentély és a stadion romjainak gyalogos felfedezésével tölti, ebédszünettel megszakítva. Késő délután meglátogatja az Árkádiai kaput, mielőtt visszabuszozna a modern Meszínibe, hogy nyugodtan zárja a napot.",
+        "ro": "Ziua începe în Piața Centrală din Messini, de unde luați autobuzul spre Messene Antică. Acesta vă va duce la grupul principal al sitului arheologic. Petreceți dimineața și începutul după-amiezii explorând pe jos ruinele muzeului, Asklepieionului și stadionului, cu o pauză de prânz. Spre seară, vizitați Poarta Arcadiană înainte de a lua autobuzul înapoi spre Messini modern pentru a încheia ziua într-un mod relaxat.",
+        "en": "Your day starts at Messini's central square, from where you'll take the bus to Ancient Messene. This will drop you at the main cluster of the archaeological site. You'll spend the morning and early afternoon exploring the ruins of the museum, Asklepieion, and stadium on foot, broken up by a lunch break. In the late afternoon, you'll visit the Arcadian Gate before catching the bus back to modern Messini to end your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ithomi Restaurant",
+            "tip": "Perfekt gelegen für ein Mittagessen während der Erkundung der antiken Stätte."
+          },
+          {
+            "name": "Gournopoula",
+            "tip": "Halten Sie Ausschau nach Restaurants, die dieses traditionelle Spanferkel servieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ithomi Étterem",
+            "tip": "Tökéletes helyen egy ebédhez az ókori lelőhely felfedezése közben."
+          },
+          {
+            "name": "Gournopoula",
+            "tip": "Keressen olyan éttermeket, amelyek ezt a hagyományos szopós malacot szolgálják fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul Ithomi",
+            "tip": "Situat perfect pentru un prânz în timpul explorării sitului antic."
+          },
+          {
+            "name": "Gournopoula",
+            "tip": "Căutați restaurante care servesc acest purcel de lapte tradițional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ithomi Restaurant",
+            "tip": "Perfectly located for lunch while exploring the ancient site."
+          },
+          {
+            "name": "Gournopoula",
+            "tip": "Look for restaurants serving this traditional roasted suckling pig."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obere Sitzreihen des Theaters",
+            "tip": "Ein ruhiger Ort, um die Größe der Stätte zu überblicken."
+          },
+          {
+            "name": "Spaziergang zu den Stadtmauern",
+            "tip": "Entfliehen Sie den Hauptbereichen und genießen Sie die Stille bei den alten Befestigungsanlagen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A színház felső sorai",
+            "tip": "Egy csendes hely, ahonnan áttekintheti a lelőhely nagyságát."
+          },
+          {
+            "name": "Séta a városfalakhoz",
+            "tip": "Meneküljön el a fő területekről, és élvezze a csendet az ősi erődítményeknél.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rândurile superioare ale teatrului",
+            "tip": "Un loc liniștit pentru a admira amploarea sitului."
+          },
+          {
+            "name": "Plimbare la zidurile orașului",
+            "tip": "Evadați din zonele principale și bucurați-vă de liniște lângă fortificațiile antice.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Upper rows of the theatre",
+            "tip": "A quiet spot to overlook the grandeur of the site."
+          },
+          {
+            "name": "Walk to the city walls",
+            "tip": "Escape the main areas and enjoy the quiet by the ancient fortifications.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirladen in Mavromati",
+            "tip": "Finden Sie Postkarten und kleine Andenken an Ihren Besuch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándékbolt Mavromatiban",
+            "tip": "Találjon képeslapokat és apró emléktárgyakat a látogatásáról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri în Mavromati",
+            "tip": "Găsiți vederi și mici suveniruri ale vizitei dumneavoastră."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir shop in Mavromati",
+            "tip": "Find postcards and small mementos of your visit."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, da die Busse möglicherweise nicht häufig fahren.",
+          "Kaufen Sie Ihr Ticket im Voraus, wenn möglich, oder haben Sie Kleingeld für den Busfahrer bereit.",
+          "Beachten Sie die Abfahrtszeit des letzten Busses zurück nach Messini.",
+          "Die Bushaltestelle befindet sich im Dorf Mavromati, in Gehweite zum Eingang der Stätte."
+        ],
+        "hu": [
+          "Előre ellenőrizze a buszmenetrendet, mivel a buszok nem biztos, hogy gyakran közlekednek.",
+          "Ha lehetséges, vegye meg a jegyét előre, vagy készítsen aprópénzt a buszsofőrnek.",
+          "Jegyezze meg az utolsó Meszínibe tartó busz indulási idejét.",
+          "A buszmegálló Mavromati faluban található, sétatávolságra a lelőhely bejáratától."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor în avans, deoarece s-ar putea să nu circule frecvent.",
+          "Cumpărați-vă biletul în avans dacă este posibil, sau aveți bani mărunți pentru șofer.",
+          "Fiți atenți la ora de plecare a ultimului autobuz înapoi spre Messini.",
+          "Stația de autobuz este în satul Mavromati, la mică distanță de mers pe jos de intrarea pe sit."
+        ],
+        "en": [
+          "Check the bus schedule in advance, as services might not be frequent.",
+          "Buy your ticket beforehand if possible, or have small change for the driver.",
+          "Be aware of the last bus departure time back to Messini.",
+          "The bus stop is in Mavromati village, a short walk from the site entrance."
+        ]
+      }
+    }
+  }
+}

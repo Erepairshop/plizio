@@ -1,0 +1,1471 @@
+{
+  "city_id": "spain-badajoz-cities-v2",
+  "anchor": {
+    "name": "Badajoz",
+    "coords": [
+      -6.9706,
+      38.8794
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza Alta",
+            "hu": "Plaza Alta",
+            "ro": "Plaza Alta",
+            "en": "Plaza Alta"
+          },
+          "coords": [
+            -6.971,
+            38.881
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die farbenfrohen Fassaden und maurischen Bögen.",
+            "hu": "Csodálja meg a színes homlokzatokat és a mór stílusú boltíveket.",
+            "ro": "Admirați fațadele colorate și arcadele maure.",
+            "en": "Admire the colorful facades and Moorish arches."
+          }
+        },
+        {
+          "name": {
+            "de": "Alcazaba von Badajoz",
+            "hu": "Alcazaba",
+            "ro": "Alcazaba din Badajoz",
+            "en": "Alcazaba of Badajoz"
+          },
+          "coords": [
+            -6.973,
+            38.882
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie auf den Mauern für eine tolle Aussicht auf die Stadt und den Fluss Guadiana.",
+            "hu": "Sétáljon végig a falakon a városra és a Guadiana folyóra nyíló remek kilátásért.",
+            "ro": "Plimbați-vă pe ziduri pentru o priveliște superbă asupra orașului și a râului Guadiana.",
+            "en": "Walk along the walls for a great view of the city and the Guadiana river."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale San Juan Bautista",
+            "hu": "Keresztelő Szent János-katedrális",
+            "ro": "Catedrala San Juan Bautista",
+            "en": "Cathedral of San Juan Bautista"
+          },
+          "coords": [
+            -6.97,
+            38.878
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Suchen Sie nach dem beeindruckenden Altarbild und den Renaissance-Gemälden.",
+            "hu": "Keresse meg a lenyűgöző oltárképet és a reneszánsz festményeket.",
+            "ro": "Căutați retablul impresionant și picturile renascentiste.",
+            "en": "Look for the impressive altarpiece and the Renaissance paintings."
+          }
+        },
+        {
+          "name": {
+            "de": "Provinzmuseum der Schönen Künste",
+            "hu": "Szépművészeti Múzeum",
+            "ro": "Muzeul Provincial de Arte Frumoase",
+            "en": "Provincial Museum of Fine Arts"
+          },
+          "coords": [
+            -6.971,
+            38.879
+          ],
+          "category": "museums",
+          "arrive_at": "12:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Werke extremadurischer Künstler wie Zurbarán.",
+            "hu": "Koncentráljon az extremadurai művészek, például Zurbarán alkotásaira.",
+            "ro": "Concentrați-vă pe lucrările artiștilor din Extremadura, precum Zurbarán.",
+            "en": "Focus on the works of Extremaduran artists like Zurbarán."
+          }
+        },
+        {
+          "name": {
+            "de": "Giralda von Badajoz",
+            "hu": "Giralda de Badajoz",
+            "ro": "Giralda din Badajoz",
+            "en": "Giralda de Badajoz"
+          },
+          "coords": [
+            -6.97,
+            38.877
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein schönes Fotomotiv, eine Replik der berühmten Giralda von Sevilla.",
+            "hu": "Szép fotótéma, a híres sevillai Giralda másolata.",
+            "ro": "Un subiect frumos pentru fotografii, o replică a faimoasei Giralda din Sevilla.",
+            "en": "A beautiful photo opportunity, a replica of the famous Giralda of Seville."
+          }
+        },
+        {
+          "name": {
+            "de": "Puerta de Palmas",
+            "hu": "Puerta de Palmas",
+            "ro": "Puerta de Palmas",
+            "en": "Puerta de Palmas"
+          },
+          "coords": [
+            -6.976,
+            38.88
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:45",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Das historische Stadttor, perfekt für einen kurzen Stopp.",
+            "hu": "A történelmi városkapu, tökéletes egy rövid megállóhoz.",
+            "ro": "Poarta istorică a orașului, perfectă pentru o scurtă oprire.",
+            "en": "The historic city gate, perfect for a quick stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Puente de Palmas",
+            "hu": "Puente de Palmas",
+            "ro": "Puente de Palmas",
+            "en": "Puente de Palmas"
+          },
+          "coords": [
+            -6.978,
+            38.88
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Überqueren Sie die Brücke bei Sonnenuntergang für eine malerische Aussicht.",
+            "hu": "Menjen át a hídon naplementekor a festői kilátásért.",
+            "ro": "Traversați podul la apus pentru o priveliște pitorească.",
+            "en": "Cross the bridge at sunset for a scenic view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Badajoz beginnt am lebhaften Plaza Alta, dem Herzen der Altstadt. Von dort aus erklimmen Sie die mächtigen Mauern der Alcazaba, einer maurischen Festung, die einen atemberaubenden Blick über die Stadt bietet. Am Mittag tauchen Sie in die sakrale Kunst der Kathedrale ein und bewundern anschließend die regionalen Meisterwerke im Museum der Schönen Künste. Der Nachmittag führt Sie zu ikonischen Wahrzeichen wie der Giralda und der Puerta de Palmas, bevor Ihr Spaziergang mit einem entspannten Ausklang an der historischen Puente de Palmas über dem Fluss Guadiana endet.",
+        "hu": "A nap Badajozban a nyüzsgő Plaza Altán, az óváros szívében kezdődik. Innen mássza meg a mór erőd, az Alcazaba hatalmas falait, ahonnan lélegzetelállító kilátás nyílik a városra. Délben merüljön el a katedrális szakrális művészetében, majd csodálja meg a regionális mesterműveket a Szépművészeti Múzeumban. A délután olyan ikonikus látnivalókhoz vezet, mint a Giralda és a Puerta de Palmas, mielőtt sétája a történelmi Puente de Palmas hídon, a Guadiana folyó felett ér véget.",
+        "ro": "Ziua dvs. în Badajoz începe în vibranta Plaza Alta, inima orașului vechi. De acolo, urcați pe zidurile impunătoare ale Alcazaba, o fortăreață maură ce oferă priveliști uimitoare asupra orașului. La prânz, scufundați-vă în arta sacră a Catedralei și apoi admirați capodoperele regionale la Muzeul de Arte Frumoase. După-amiaza vă poartă spre repere iconice precum Giralda și Puerta de Palmas, înainte ca plimbarea să se încheie cu o relaxare pe istoricul Puente de Palmas, peste râul Guadiana.",
+        "en": "Your day in Badajoz begins at the vibrant Plaza Alta, the heart of the old town. From there, climb the mighty walls of the Alcazaba, a Moorish fortress offering breathtaking views over the city. At midday, immerse yourself in the sacred art of the Cathedral and then admire regional masterpieces at the Museum of Fine Arts. The afternoon takes you to iconic landmarks like the Giralda and Puerta de Palmas, before your walk concludes with a relaxing finish at the historic Puente de Palmas over the Guadiana River."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Migas Extremenas",
+            "tip": "Ein herzhaftes Gericht aus Brotkrumen, oft mit Chorizo und Paprika serviert. Probieren Sie es im La Corchuela."
+          },
+          {
+            "name": "Jamón Ibérico de Bellota",
+            "tip": "Der weltberühmte Eichelschinken aus der Region. Ein Muss in jeder Tapas-Bar."
+          },
+          {
+            "name": "Torta de la Serena",
+            "tip": "Ein cremiger, intensiver Schafskäse, ideal mit einem Glas lokalen Weins."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Migas Extremenas",
+            "tip": "Kenyérmorzsából készült kiadós étel, gyakran chorizóval és paprikával tálalva. Kóstolja meg a La Corchuela étteremben."
+          },
+          {
+            "name": "Jamón Ibérico de Bellota",
+            "tip": "A világhírű, makkon nevelt ibériai sonka a régióból. Minden tapas bárban kötelező."
+          },
+          {
+            "name": "Torta de la Serena",
+            "tip": "Krémes, intenzív ízű juhsajt, ideális egy pohár helyi borral."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Migas Extremenas",
+            "tip": "Un fel de mâncare consistent din pesmet, adesea servit cu chorizo și ardei. Încercați-l la La Corchuela."
+          },
+          {
+            "name": "Jamón Ibérico de Bellota",
+            "tip": "Șunca de ghindă de renume mondial din regiune. O necesitate în orice bar de tapas."
+          },
+          {
+            "name": "Torta de la Serena",
+            "tip": "O brânză cremoasă și intensă de oaie, ideală cu un pahar de vin local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Migas Extremenas",
+            "tip": "A hearty dish made from breadcrumbs, often served with chorizo and peppers. Try it at La Corchuela."
+          },
+          {
+            "name": "Jamón Ibérico de Bellota",
+            "tip": "The world-famous acorn-fed Iberian ham from the region. A must-try in any tapas bar."
+          },
+          {
+            "name": "Torta de la Serena",
+            "tip": "A creamy, intense sheep's cheese, ideal with a glass of local wine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten der Alcazaba",
+            "tip": "Finden Sie eine ruhige Ecke in den weitläufigen Gärten der Festung.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Guadiana",
+            "tip": "Ein Spaziergang entlang des Flusses, besonders am späten Nachmittag.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sonnenuntergang von der Puente de Palmas",
+            "tip": "Der perfekte Ort, um den Tag ausklingen zu lassen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alcazaba kertjei",
+            "tip": "Keressen egy csendes sarkot az erőd tágas kertjeiben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Guadiana folyó partja",
+            "tip": "Séta a folyó mentén, különösen késő délután.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Naplemente a Puente de Palmas hídról",
+            "tip": "Tökéletes hely a nap befejezéséhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile din Alcazaba",
+            "tip": "Găsiți un colț liniștit în grădinile întinse ale fortăreței.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malurile râului Guadiana",
+            "tip": "O plimbare de-a lungul râului, mai ales după-amiaza târziu.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Apus de soare de pe Puente de Palmas",
+            "tip": "Locul perfect pentru a încheia ziua.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gardens of the Alcazaba",
+            "tip": "Find a quiet corner within the expansive gardens of the fortress.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the Guadiana River",
+            "tip": "A walk along the river, especially in the late afternoon.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sunset from Puente de Palmas",
+            "tip": "The perfect spot to watch the day end.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle Menacho",
+            "tip": "Die Haupteinkaufsstraße der Stadt mit einer Mischung aus nationalen und lokalen Marken."
+          },
+          {
+            "name": "Keramik",
+            "tip": "Halten Sie Ausschau nach handbemalter Keramik, einem typischen Handwerk der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle Menacho",
+            "tip": "A város fő bevásárlóutcája, nemzeti és helyi márkák keverékével."
+          },
+          {
+            "name": "Kerámia",
+            "tip": "Keresse a kézzel festett kerámiákat, a régió jellegzetes kézműves termékét."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle Menacho",
+            "tip": "Principala stradă comercială a orașului, cu un amestec de mărci naționale și locale."
+          },
+          {
+            "name": "Ceramică",
+            "tip": "Căutați ceramica pictată manual, un produs artizanal tipic regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle Menacho",
+            "tip": "The city's main shopping street with a mix of national and local brands."
+          },
+          {
+            "name": "Ceramics",
+            "tip": "Look for hand-painted ceramics, a typical craft of the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Viele kleinere Geschäfte und Museen schließen während der Siesta am frühen Nachmittag.",
+          "Nehmen Sie viel Wasser mit, besonders in den heißen Sommermonaten.",
+          "Die meisten Hauptattraktionen sind zu Fuß erreichbar, sodass Sie kein Fahrzeug benötigen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros macskakövei egyenetlenek lehetnek.",
+          "Sok kisebb üzlet és múzeum bezár a kora délutáni szieszta idejére.",
+          "Vigyen magával sok vizet, különösen a forró nyári hónapokban.",
+          "A legtöbb fő látnivaló gyalogosan elérhető, így nincs szüksége járműre."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece pavajul din orașul vechi poate fi denivelat.",
+          "Multe magazine mici și muzee se închid în timpul siestei de la începutul după-amiezii.",
+          "Luați multă apă, mai ales în lunile fierbinți de vară.",
+          "Majoritatea atracțiilor principale sunt la distanță de mers pe jos, deci nu aveți nevoie de un vehicul."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Many smaller shops and museums close for siesta in the early afternoon.",
+          "Bring plenty of water, especially during the hot summer months.",
+          "Most main attractions are within walking distance, so you don't need a vehicle."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 7.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza Alta",
+            "hu": "Plaza Alta",
+            "ro": "Plaza Alta",
+            "en": "Plaza Alta"
+          },
+          "coords": [
+            -6.971,
+            38.881
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie hier mit einem Kaffee, bevor Sie in die Pedale treten.",
+            "hu": "Indítson egy kávéval, mielőtt nyeregbe pattan.",
+            "ro": "Începeți aici cu o cafea înainte de a pedala.",
+            "en": "Start here with a coffee before you start pedaling."
+          }
+        },
+        {
+          "name": {
+            "de": "Alcazaba von Badajoz",
+            "hu": "Alcazaba",
+            "ro": "Alcazaba din Badajoz",
+            "en": "Alcazaba of Badajoz"
+          },
+          "coords": [
+            -6.973,
+            38.882
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Eingang an und erkunden Sie die Festung zu Fuß.",
+            "hu": "Zárja le a kerékpárt a bejáratnál, és fedezze fel gyalog az erődöt.",
+            "ro": "Lăsați bicicleta la intrare și explorați cetatea pe jos.",
+            "en": "Lock your bike at the entrance and explore the fortress on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Puente de Palmas & Puerta de Palmas",
+            "hu": "Puente de Palmas & Puerta de Palmas",
+            "ro": "Puente de Palmas & Puerta de Palmas",
+            "en": "Puente de Palmas & Puerta de Palmas"
+          },
+          "coords": [
+            -6.978,
+            38.88
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:38",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Eine angenehme Fahrt über die Brücke mit Blick auf den Fluss.",
+            "hu": "Kellemes tekerés a hídon át a folyóra néző kilátással.",
+            "ro": "O plimbare plăcută cu bicicleta peste pod, cu vedere la râu.",
+            "en": "A pleasant ride across the bridge with a view of the river."
+          }
+        },
+        {
+          "name": {
+            "de": "MEIAC Museum",
+            "hu": "MEIAC Múzeum",
+            "ro": "Muzeul MEIAC",
+            "en": "MEIAC Museum"
+          },
+          "coords": [
+            -6.965,
+            38.875
+          ],
+          "category": "museums",
+          "arrive_at": "11:23",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie zeitgenössische Kunst aus Spanien, Portugal und Lateinamerika.",
+            "hu": "Fedezze fel a spanyol, portugál és latin-amerikai kortárs művészetet.",
+            "ro": "Descoperiți arta contemporană din Spania, Portugalia și America Latină.",
+            "en": "Discover contemporary art from Spain, Portugal, and Latin America."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale San Juan Bautista",
+            "hu": "Keresztelő Szent János-katedrális",
+            "ro": "Catedrala San Juan Bautista",
+            "en": "Cathedral of San Juan Bautista"
+          },
+          "coords": [
+            -6.97,
+            38.878
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:12",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die festungsartige Architektur dieses einzigartigen Gotteshauses.",
+            "hu": "Csodálja meg ennek az egyedülálló templomnak az erődszerű építészetét.",
+            "ro": "Admirați arhitectura asemănătoare unei fortărețe a acestei biserici unice.",
+            "en": "Admire the fortress-like architecture of this unique church."
+          }
+        },
+        {
+          "name": {
+            "de": "Giralda von Badajoz",
+            "hu": "Giralda de Badajoz",
+            "ro": "Giralda din Badajoz",
+            "en": "Giralda de Badajoz"
+          },
+          "coords": [
+            -6.97,
+            38.877
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:18",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein schöner Abschluss der Tour im kommerziellen Zentrum der Stadt.",
+            "hu": "Szép lezárása a túrának a város kereskedelmi központjában.",
+            "ro": "Un final frumos al turului în centrul comercial al orașului.",
+            "en": "A nice end to the tour in the commercial center of the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich in Badajoz aufs Rad. Ihre Tour beginnt am Plaza Alta, von wo aus Sie schnell zur beeindruckenden Alcazaba gelangen. Nach der Erkundung der Festung radeln Sie über die historische Puente de Palmas und genießen die Aussicht. Am Mittag erwartet Sie das MEIAC mit moderner Kunst. Der Nachmittag führt Sie zurück ins Herz der Stadt zur Kathedrale und zur eleganten Giralda, wo Ihre Radtour durch die Geschichte und Kultur von Badajoz endet.",
+        "hu": "Pattanjon kerékpárra Badajozban. A túra a Plaza Altáról indul, ahonnan gyorsan eljut a lenyűgöző Alcazabához. Az erőd felfedezése után tekerjen át a történelmi Puente de Palmas hídon, és élvezze a kilátást. Délben a MEIAC modern művészettel várja. A délután visszavezet a város szívébe, a katedrálishoz és az elegáns Giraldához, ahol a badajozi történelmen és kultúrán átívelő kerékpártúra véget ér.",
+        "ro": "Urcați-vă pe bicicletă în Badajoz. Turul dvs. începe în Plaza Alta, de unde ajungeți rapid la impresionanta Alcazaba. După explorarea fortăreței, pedalați peste istoricul Puente de Palmas și bucurați-vă de priveliște. La prânz, MEIAC vă așteaptă cu artă modernă. După-amiaza vă duce înapoi în inima orașului, la Catedrală și la eleganta Giralda, unde se încheie turul dvs. cu bicicleta prin istoria și cultura din Badajoz.",
+        "en": "Get on your bike in Badajoz. Your tour starts at Plaza Alta, from where you can quickly reach the impressive Alcazaba. After exploring the fortress, cycle across the historic Puente de Palmas and enjoy the view. At noon, the MEIAC awaits you with modern art. The afternoon takes you back to the heart of the city to the Cathedral and the elegant Giralda, where your bike tour through the history and culture of Badajoz ends."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bocadillo de Jamón",
+            "tip": "Ein einfaches, aber köstliches Sandwich mit dem besten Schinken der Region."
+          },
+          {
+            "name": "Gazpacho",
+            "tip": "Eine erfrischende kalte Suppe, perfekt für eine Pause an einem heißen Tag."
+          },
+          {
+            "name": "Cervecería Campanil",
+            "tip": "Ein beliebter Ort für Tapas und ein kühles Bier nach der Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bocadillo de Jamón",
+            "tip": "Egyszerű, de finom szendvics a régió legjobb sonkájával."
+          },
+          {
+            "name": "Gazpacho",
+            "tip": "Frissítő hideg leves, tökéletes pihenő egy forró napon."
+          },
+          {
+            "name": "Cervecería Campanil",
+            "tip": "Népszerű hely tapasozásra és egy hideg sörre a biciklizés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bocadillo de Jamón",
+            "tip": "Un sandviș simplu, dar delicios, cu cea mai bună șuncă din regiune."
+          },
+          {
+            "name": "Gazpacho",
+            "tip": "O supă rece răcoritoare, perfectă pentru o pauză într-o zi fierbinte."
+          },
+          {
+            "name": "Cervecería Campanil",
+            "tip": "Un loc popular pentru tapas și o bere rece după turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bocadillo de Jamón",
+            "tip": "A simple but delicious sandwich with the best ham from the region."
+          },
+          {
+            "name": "Gazpacho",
+            "tip": "A refreshing cold soup, perfect for a break on a hot day."
+          },
+          {
+            "name": "Cervecería Campanil",
+            "tip": "A popular spot for tapas and a cold beer after the bike tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque de la Trinidad",
+            "tip": "Ein schattiger Park in der Nähe des MEIAC, ideal für eine kurze Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Radweg am Guadiana",
+            "tip": "Folgen Sie dem Flussufer für eine ruhige und flache Fahrt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardines de la Galera",
+            "tip": "Versteckte Gärten innerhalb der Alcazaba-Mauern.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parque de la Trinidad",
+            "tip": "Árnyas park a MEIAC közelében, ideális egy rövid pihenőre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kerékpárút a Guadiana mentén",
+            "tip": "Kövesse a folyópartot egy csendes és sík útvonalon.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardines de la Galera",
+            "tip": "Rejtett kertek az Alcazaba falain belül.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parque de la Trinidad",
+            "tip": "Un parc umbros lângă MEIAC, ideal pentru o scurtă pauză.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pista de biciclete de pe malul râului Guadiana",
+            "tip": "Urmați malul râului pentru o plimbare liniștită și plată.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardines de la Galera",
+            "tip": "Grădini ascunse între zidurile Alcazaba.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parque de la Trinidad",
+            "tip": "A shady park near MEIAC, ideal for a short break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Guadiana River Bike Path",
+            "tip": "Follow the riverbank for a quiet and flat ride.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardines de la Galera",
+            "tip": "Hidden gardens within the Alcazaba walls.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle Menacho",
+            "tip": "Die Haupteinkaufsstraße ist auch mit dem Fahrrad leicht zu erreichen."
+          },
+          {
+            "name": "Lokale Delikatessen",
+            "tip": "Kaufen Sie Olivenöl, Wein oder Pimentón de la Vera als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle Menacho",
+            "tip": "A fő bevásárlóutca kerékpárral is könnyen megközelíthető."
+          },
+          {
+            "name": "Helyi finomságok",
+            "tip": "Vásároljon olívaolajat, bort vagy Pimentón de la Vera paprikát szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle Menacho",
+            "tip": "Strada principală de cumpărături este, de asemenea, ușor accesibilă cu bicicleta."
+          },
+          {
+            "name": "Delicatese locale",
+            "tip": "Cumpărați ulei de măsline, vin sau Pimentón de la Vera ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle Menacho",
+            "tip": "The main shopping street is also easily accessible by bike."
+          },
+          {
+            "name": "Local Delicacies",
+            "tip": "Buy olive oil, wine, or Pimentón de la Vera as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie, ob Ihr Hotel einen Fahrradverleih anbietet, oder suchen Sie nach einem Geschäft in der Innenstadt.",
+          "Die Altstadt hat enge Gassen, fahren Sie vorsichtig.",
+          "Einige Abschnitte, besonders der Aufstieg zur Alcazaba, können steil sein.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, wenn Sie es abstellen."
+        ],
+        "hu": [
+          "Ellenőrizze, hogy a szálloda kínál-e kerékpárkölcsönzést, vagy keressen egy boltot a belvárosban.",
+          "Az óvárosban szűk utcák vannak, vezessen óvatosan.",
+          "Néhány szakasz, különösen az Alcazabához vezető emelkedő, meredek lehet.",
+          "Mindig zárja le jól a kerékpárt, amikor leteszi."
+        ],
+        "ro": [
+          "Verificați dacă hotelul dvs. oferă închiriere de biciclete sau căutați un magazin în centrul orașului.",
+          "Orașul vechi are străzi înguste, conduceți cu prudență.",
+          "Unele secțiuni, în special urcarea către Alcazaba, pot fi abrupte.",
+          "Încuiați-vă întotdeauna bicicleta bine când o parcați."
+        ],
+        "en": [
+          "Check if your hotel offers bike rentals or look for a shop downtown.",
+          "The old town has narrow streets, ride carefully.",
+          "Some sections, especially the climb to the Alcazaba, can be steep.",
+          "Always lock your bike securely when you park it."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken in der Nähe der Alcazaba",
+            "hu": "Parkolás az Alcazaba közelében",
+            "ro": "Parcare lângă Alcazaba",
+            "en": "Parking near the Alcazaba"
+          },
+          "coords": [
+            -6.974,
+            38.883
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag, indem Sie Ihr Auto hier für den Vormittags-Cluster abstellen.",
+            "hu": "Kezdje a napot azzal, hogy itt parkolja le autóját a délelőtti felfedezéshez.",
+            "ro": "Începeți ziua parcând mașina aici pentru grupul de obiective de dimineață.",
+            "en": "Start your day by parking your car here for the morning cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Alcazaba von Badajoz",
+            "hu": "Alcazaba",
+            "ro": "Alcazaba din Badajoz",
+            "en": "Alcazaba of Badajoz"
+          },
+          "coords": [
+            -6.973,
+            38.882
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Türme für die beste Aussicht auf die Umgebung.",
+            "hu": "Másszon fel a tornyokba a környék legjobb kilátásáért.",
+            "ro": "Urcați în turnuri pentru cea mai bună priveliște a împrejurimilor.",
+            "en": "Climb the towers for the best views of the surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza Alta",
+            "hu": "Plaza Alta",
+            "ro": "Plaza Alta",
+            "en": "Plaza Alta"
+          },
+          "coords": [
+            -6.971,
+            38.881
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:38",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gönnen Sie sich eine Kaffeepause in einem der Cafés am Platz.",
+            "hu": "Tartson egy kávészünetet a téren található egyik kávézóban.",
+            "ro": "Luați o pauză de cafea la una dintre cafenelele din piață.",
+            "en": "Take a coffee break at one of the cafes in the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Parken am MEIAC",
+            "hu": "Parkolás a MEIAC mellett",
+            "ro": "Parcare la MEIAC",
+            "en": "Parking at MEIAC"
+          },
+          "coords": [
+            -6.965,
+            38.874
+          ],
+          "category": "transport",
+          "arrive_at": "11:15",
+          "stay_min": 0,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum zweiten Cluster des Tages. Es gibt normalerweise genügend Parkplätze.",
+            "hu": "Vezessen a nap második látnivaló-csoportjához. Általában van elég parkolóhely.",
+            "ro": "Conduceți spre al doilea grup de obiective al zilei. De obicei, există suficient loc de parcare.",
+            "en": "Drive to the second cluster of the day. There is usually enough parking space."
+          }
+        },
+        {
+          "name": {
+            "de": "MEIAC Museum",
+            "hu": "MEIAC Múzeum",
+            "ro": "Muzeul MEIAC",
+            "en": "MEIAC Museum"
+          },
+          "coords": [
+            -6.965,
+            38.875
+          ],
+          "category": "museums",
+          "arrive_at": "11:17",
+          "stay_min": 120,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für die Wechselausstellungen im Erdgeschoss.",
+            "hu": "Szánjon időt a földszinti időszaki kiállításokra.",
+            "ro": "Acordați-vă timp pentru expozițiile temporare de la parter.",
+            "en": "Take your time for the temporary exhibitions on the ground floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Parken im Zentrum (Nähe Kathedrale)",
+            "hu": "Parkolás a központban (Katedrális közelében)",
+            "ro": "Parcare în centru (lângă Catedrală)",
+            "en": "Parking in the center (near Cathedral)"
+          },
+          "coords": [
+            -6.969,
+            38.878
+          ],
+          "category": "transport",
+          "arrive_at": "13:24",
+          "stay_min": 0,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Der letzte Cluster. Suchen Sie nach einem Tiefgaragenplatz für den Rest des Tages.",
+            "hu": "Az utolsó látnivaló-csoport. Keressen egy mélygarázst a nap hátralévő részére.",
+            "ro": "Ultimul grup. Căutați o parcare subterană pentru restul zilei.",
+            "en": "The last cluster. Look for an underground parking space for the rest of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale San Juan Bautista",
+            "hu": "Keresztelő Szent János-katedrális",
+            "ro": "Catedrala San Juan Bautista",
+            "en": "Cathedral of San Juan Bautista"
+          },
+          "coords": [
+            -6.97,
+            38.878
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie die Mischung aus gotischen, Renaissance- und Barockelementen.",
+            "hu": "Figyelje meg a gótikus, reneszánsz és barokk elemek keveredését.",
+            "ro": "Observați amestecul de elemente gotice, renascentiste și baroce.",
+            "en": "Notice the mix of Gothic, Renaissance, and Baroque elements."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Badajoz in bequemen Etappen. Parken Sie zuerst bei der Alcazaba und spazieren Sie durch die Festung und zum nahen Plaza Alta. Dieser Cluster fängt die historische Seele der Stadt ein. Anschließend fahren Sie zum MEIAC, einem modernen Kontrapunkt, wo Sie in zeitgenössische Kunst eintauchen. Für den Nachmittag parken Sie im Stadtzentrum, um die beeindruckende Kathedrale zu besichtigen und das geschäftige Treiben der Stadt zu erleben, bevor Sie den Tag beenden.",
+        "hu": "Autóval kényelmes szakaszokban fedezheti fel Badajozot. Először parkoljon az Alcazabánál, és sétáljon végig az erődben és a közeli Plaza Altán. Ez a látnivaló-csoport megragadja a város történelmi lelkét. Ezután hajtson a MEIAC-hoz, egy modern ellenponthoz, ahol elmerülhet a kortárs művészetben. Délután parkoljon a városközpontban, hogy meglátogassa a lenyűgöző katedrálist és megtapasztalja a város nyüzsgését, mielőtt befejezné a napot.",
+        "ro": "Cu mașina, explorați Badajoz în etape confortabile. Parcați mai întâi lângă Alcazaba și plimbați-vă prin fortăreață și până la Plaza Alta din apropiere. Acest grup surprinde sufletul istoric al orașului. Apoi, conduceți la MEIAC, un contrapunct modern unde vă puteți cufunda în arta contemporană. Pentru după-amiază, parcați în centrul orașului pentru a vizita impunătoarea Catedrală și a experimenta agitația orașului înainte de a încheia ziua.",
+        "en": "By car, you explore Badajoz in comfortable stages. Park first near the Alcazaba and stroll through the fortress and to the nearby Plaza Alta. This cluster captures the historical soul of the city. Then, drive to the MEIAC, a modern counterpoint where you can immerse yourself in contemporary art. For the afternoon, park in the city center to visit the impressive Cathedral and experience the city's hustle and bustle before ending your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurante Gladys",
+            "tip": "Bekannt für seine exzellenten Fleischgerichte und traditionelle extremadurische Küche."
+          },
+          {
+            "name": "Cordero asado",
+            "tip": "Gebratenes Lamm, eine Spezialität der Region, die man nicht verpassen sollte."
+          },
+          {
+            "name": "Vino de Pitarra",
+            "tip": "Ein traditioneller, hausgemachter Wein, der in vielen lokalen Restaurants angeboten wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurante Gladys",
+            "tip": "Kiváló húsételeiről és hagyományos extremadurai konyhájáról ismert."
+          },
+          {
+            "name": "Cordero asado",
+            "tip": "Sült bárány, a régió specialitása, amelyet nem szabad kihagyni."
+          },
+          {
+            "name": "Vino de Pitarra",
+            "tip": "Hagyományos, házi készítésű bor, amelyet sok helyi étteremben kínálnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurante Gladys",
+            "tip": "Renumit pentru preparatele sale excelente din carne și bucătăria tradițională din Extremadura."
+          },
+          {
+            "name": "Cordero asado",
+            "tip": "Miel la cuptor, o specialitate a regiunii care nu trebuie ratată."
+          },
+          {
+            "name": "Vino de Pitarra",
+            "tip": "Un vin tradițional, de casă, oferit în multe restaurante locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurante Gladys",
+            "tip": "Known for its excellent meat dishes and traditional Extremaduran cuisine."
+          },
+          {
+            "name": "Cordero asado",
+            "tip": "Roast lamb, a specialty of the region not to be missed."
+          },
+          {
+            "name": "Vino de Pitarra",
+            "tip": "A traditional, homemade wine offered in many local restaurants."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque de Castelar",
+            "tip": "Eine grüne Oase im Stadtzentrum, ideal für eine Pause nach dem Mittagessen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick von der Alcazaba auf Portugal",
+            "tip": "An klaren Tagen können Sie bis nach Portugal blicken.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Klosterbibliothek",
+            "tip": "Fragen Sie in der Kathedrale nach der Möglichkeit, die alte Bibliothek zu besuchen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parque de Castelar",
+            "tip": "Zöld oázis a városközpontban, ideális egy ebéd utáni pihenőre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás az Alcazabáról Portugáliára",
+            "tip": "Tiszta napokon egészen Portugáliáig elláthat.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kolostorkönyvtár",
+            "tip": "Érdeklődjön a katedrálisban a régi könyvtár megtekintésének lehetőségéről.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parque de Castelar",
+            "tip": "O oază de verdeață în centrul orașului, ideală pentru o pauză după prânz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere spre Portugalia de la Alcazaba",
+            "tip": "În zilele senine, puteți vedea până în Portugalia.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Biblioteca mănăstirii",
+            "tip": "Întrebați la catedrală despre posibilitatea de a vizita vechea bibliotecă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parque de Castelar",
+            "tip": "A green oasis in the city center, ideal for a post-lunch break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View of Portugal from the Alcazaba",
+            "tip": "On clear days, you can see all the way to Portugal.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Monastery Library",
+            "tip": "Ask at the cathedral about the possibility of visiting the old library.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "El Faro Shopping Center",
+            "tip": "Wenn Sie mehr Auswahl suchen, fahren Sie zu diesem modernen Einkaufszentrum am Stadtrand."
+          },
+          {
+            "name": "Handwerk aus Olivenholz",
+            "tip": "Ein schönes und nützliches Souvenir aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "El Faro bevásárlóközpont",
+            "tip": "Ha nagyobb választékot keres, hajtson el ebbe a modern bevásárlóközpontba a város szélén."
+          },
+          {
+            "name": "Olajfából készült kézműves termékek",
+            "tip": "Szép és hasznos szuvenír a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial El Faro",
+            "tip": "Dacă doriți mai multă varietate, mergeți la acest centru comercial modern de la periferia orașului."
+          },
+          {
+            "name": "Artizanat din lemn de măslin",
+            "tip": "Un suvenir frumos și util din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "El Faro Shopping Center",
+            "tip": "If you're looking for more variety, drive to this modern shopping center on the outskirts."
+          },
+          {
+            "name": "Olive Wood Crafts",
+            "tip": "A beautiful and useful souvenir from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie öffentliche Parkhäuser, da das Parken auf der Straße begrenzt ist.",
+          "Planen Sie Ihre Route zwischen den Clustern im Voraus, um Einbahnstraßen zu vermeiden.",
+          "Lassen Sie keine Wertsachen sichtbar im Auto liegen.",
+          "Die Cluster-Walking-Strategie spart Zeit bei der Parkplatzsuche und ist entspannter."
+        ],
+        "hu": [
+          "Használjon nyilvános parkolóházakat, mivel az utcai parkolás korlátozott.",
+          "Tervezze meg előre az útvonalat a látnivaló-csoportok között az egyirányú utcák elkerülése érdekében.",
+          "Ne hagyjon értékeket látható helyen az autóban.",
+          "A klaszter-séta stratégia időt takarít meg a parkolóhely keresésével és sokkal pihentetőbb."
+        ],
+        "ro": [
+          "Folosiți parcările publice, deoarece parcarea pe stradă este limitată.",
+          "Planificați-vă ruta între grupuri în avans pentru a evita străzile cu sens unic.",
+          "Nu lăsați obiecte de valoare la vedere în mașină.",
+          "Strategia de mers pe jos în grupuri economisește timp la căutarea unui loc de parcare și este mai relaxantă."
+        ],
+        "en": [
+          "Use public parking garages as street parking is limited.",
+          "Plan your route between clusters in advance to avoid one-way streets.",
+          "Do not leave valuables visible in the car.",
+          "The cluster-walking strategy saves time searching for parking and is more relaxing."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Plaza Alta",
+            "hu": "Érkezés a Plaza Altára",
+            "ro": "Sosire la Plaza Alta",
+            "en": "Arrival at Plaza Alta"
+          },
+          "coords": [
+            -6.971,
+            38.881
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zur Haltestelle 'Plaza de España', die nur wenige Schritte entfernt ist.",
+            "hu": "Vegyen egy buszt a 'Plaza de España' megállóig, amely csak néhány lépésre van.",
+            "ro": "Luați un autobuz până la stația 'Plaza de España', care este la câțiva pași.",
+            "en": "Take a bus to the 'Plaza de España' stop, which is just a few steps away."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza Alta",
+            "hu": "Plaza Alta",
+            "ro": "Plaza Alta",
+            "en": "Plaza Alta"
+          },
+          "coords": [
+            -6.971,
+            38.881
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:12",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Ausgangspunkt, um die Atmosphäre der Stadt aufzusaugen.",
+            "hu": "Tökéletes kiindulópont a város hangulatának magába szívásához.",
+            "ro": "Punctul de plecare perfect pentru a absorbi atmosfera orașului.",
+            "en": "The perfect starting point to soak up the city's atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Alcazaba von Badajoz",
+            "hu": "Alcazaba",
+            "ro": "Alcazaba din Badajoz",
+            "en": "Alcazaba of Badajoz"
+          },
+          "coords": [
+            -6.973,
+            38.882
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang bergauf vom Plaza Alta.",
+            "hu": "Rövid séta felfelé a Plaza Altáról.",
+            "ro": "O scurtă plimbare la deal de la Plaza Alta.",
+            "en": "A short uphill walk from Plaza Alta."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum MEIAC",
+            "hu": "Utazás a MEIAC-hoz",
+            "ro": "Călătorie spre MEIAC",
+            "en": "Trip to MEIAC"
+          },
+          "coords": [
+            -6.965,
+            38.875
+          ],
+          "category": "transport",
+          "arrive_at": "11:27",
+          "stay_min": 0,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Rand der Altstadt, um zum Museumsviertel zu gelangen.",
+            "hu": "Vegyen buszt az óváros széléről, hogy eljusson a múzeumi negyedbe.",
+            "ro": "Luați un autobuz de la marginea orașului vechi pentru a ajunge în cartierul muzeelor.",
+            "en": "Take a bus from the edge of the old town to get to the museum district."
+          }
+        },
+        {
+          "name": {
+            "de": "MEIAC Museum",
+            "hu": "MEIAC Múzeum",
+            "ro": "Muzeul MEIAC",
+            "en": "MEIAC Museum"
+          },
+          "coords": [
+            -6.965,
+            38.875
+          ],
+          "category": "museums",
+          "arrive_at": "11:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss für Liebhaber moderner und zeitgenössischer Kunst.",
+            "hu": "A modern és kortárs művészet kedvelőinek kötelező.",
+            "ro": "O necesitate pentru iubitorii de artă modernă și contemporană.",
+            "en": "A must-see for lovers of modern and contemporary art."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale und Stadtzentrum",
+            "hu": "Katedrális és városközpont",
+            "ro": "Catedrala și centrul orașului",
+            "en": "Cathedral and City Center"
+          },
+          "coords": [
+            -6.97,
+            38.878
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Bus zurück ins Zentrum für den letzten Teil Ihrer Tour.",
+            "hu": "Menjen busszal vissza a központba a túra utolsó részéhez.",
+            "ro": "Luați autobuzul înapoi în centru pentru ultima parte a turului dumneavoastră.",
+            "en": "Take the bus back to the center for the last part of your tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Badajoz mit öffentlichen Verkehrsmitteln, die Sie zu den wichtigsten Clustern bringen. Beginnen Sie im historischen Herzen rund um den Plaza Alta und die Alcazaba, die Sie bequem zu Fuß erkunden. Ein kurzer Bus-Hop bringt Sie dann zum MEIAC, wo Sie in die Welt der modernen Kunst eintauchen. Am Nachmittag fahren Sie mit dem Bus zurück ins pulsierende Zentrum, um die Kathedrale zu besuchen und durch die Einkaufsstraßen zu schlendern. Diese Methode ist effizient und umweltfreundlich.",
+        "hu": "Fedezze fel Badajozot tömegközlekedéssel, amely elviszi a legfontosabb látnivaló-csoportokhoz. Kezdje a történelmi központban, a Plaza Alta és az Alcazaba környékén, amelyeket kényelmesen felfedezhet gyalog. Egy rövid buszozás után a MEIAC-hoz érkezik, ahol elmerülhet a modern művészet világában. Délután busszal térjen vissza a lüktető központba, hogy meglátogassa a katedrálist és sétáljon a bevásárlóutcákon. Ez a módszer hatékony és környezetbarát.",
+        "ro": "Descoperiți Badajoz cu transportul public, care vă va duce la principalele grupuri de atracții. Începeți în inima istorică din jurul Plaza Alta și Alcazaba, pe care le puteți explora confortabil pe jos. O scurtă călătorie cu autobuzul vă va duce apoi la MEIAC, unde vă puteți cufunda în lumea artei moderne. După-amiaza, luați autobuzul înapoi în centrul vibrant pentru a vizita Catedrala și a vă plimba pe străzile comerciale. Această metodă este eficientă și ecologică.",
+        "en": "Discover Badajoz using public transport to take you to the main clusters. Start in the historic heart around Plaza Alta and the Alcazaba, which you can comfortably explore on foot. A short bus hop then takes you to the MEIAC, where you can immerse yourself in the world of modern art. In the afternoon, take the bus back to the vibrant center to visit the Cathedral and stroll through the shopping streets. This method is efficient and environmentally friendly."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Probieren Sie frische Produkte und lokale Snacks auf dem zentralen Markt."
+          },
+          {
+            "name": "Churros con Chocolate",
+            "tip": "Ein klassischer spanischer Snack, den Sie in vielen Cafés in der Nähe der Bushaltestellen finden."
+          },
+          {
+            "name": "Bar La Marina",
+            "tip": "Eine authentische Bar mit guten Preisen und leckeren, einfachen Tapas."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Kóstoljon friss termékeket és helyi harapnivalókat a központi piacon."
+          },
+          {
+            "name": "Churros con Chocolate",
+            "tip": "Klasszikus spanyol snack, amelyet sok kávézóban megtalál a buszmegállók közelében."
+          },
+          {
+            "name": "Bar La Marina",
+            "tip": "Autentikus bár jó árakkal és finom, egyszerű tapasokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Gustați produse proaspete și gustări locale în piața centrală."
+          },
+          {
+            "name": "Churros con Chocolate",
+            "tip": "O gustare spaniolă clasică pe care o puteți găsi în multe cafenele de lângă stațiile de autobuz."
+          },
+          {
+            "name": "Bar La Marina",
+            "tip": "Un bar autentic cu prețuri bune și tapas delicioase și simple."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Try fresh produce and local snacks at the central market."
+          },
+          {
+            "name": "Churros con Chocolate",
+            "tip": "A classic Spanish snack you can find in many cafes near the bus stops."
+          },
+          {
+            "name": "Bar La Marina",
+            "tip": "An authentic bar with good prices and delicious, simple tapas."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Puente Real",
+            "tip": "Eine modernere Brücke weiter flussaufwärts, die mit dem Bus erreichbar ist und eine andere Perspektive bietet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Iglesia de Santo Domingo",
+            "tip": "Eine ruhigere Kirche abseits der Haupttouristenpfade.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Blick aus dem Bus",
+            "tip": "Genießen Sie die vorbeiziehende Stadtlandschaft während der Fahrt zwischen den Clustern.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Puente Real",
+            "tip": "Egy modernebb híd a folyón feljebb, busszal elérhető, és más perspektívát kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Iglesia de Santo Domingo",
+            "tip": "Csendesebb templom a fő turistaútvonalaktól távolabb.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás a buszról",
+            "tip": "Élvezze az elhaladó városképet a klaszterek közötti utazás során.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Puente Real",
+            "tip": "Un pod mai modern, mai sus pe râu, accesibil cu autobuzul, care oferă o perspectivă diferită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Iglesia de Santo Domingo",
+            "tip": "O biserică mai liniștită, departe de principalele trasee turistice.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Priveliște din autobuz",
+            "tip": "Bucurați-vă de peisajul urban în trecere în timpul călătoriei între grupuri.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Puente Real",
+            "tip": "A more modern bridge further up the river, accessible by bus, offering a different perspective.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Iglesia de Santo Domingo",
+            "tip": "A quieter church away from the main tourist trail.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from the bus",
+            "tip": "Enjoy the passing cityscape during the ride between clusters.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle Menacho",
+            "tip": "Leicht mit dem Bus zu erreichen, das Herz des städtischen Einzelhandels."
+          },
+          {
+            "name": "Produkte aus Kork",
+            "tip": "Extremadura ist ein wichtiger Korkproduzent. Suchen Sie nach Taschen oder Untersetzern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle Menacho",
+            "tip": "Busszal könnyen megközelíthető, a városi kiskereskedelem szíve."
+          },
+          {
+            "name": "Parafa termékek",
+            "tip": "Extremadura fontos parafa-termelő. Keressen táskákat vagy alátéteket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle Menacho",
+            "tip": "Ușor accesibil cu autobuzul, inima comerțului cu amănuntul al orașului."
+          },
+          {
+            "name": "Produse din plută",
+            "tip": "Extremadura este un important producător de plută. Căutați genți sau suporturi de pahare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle Menacho",
+            "tip": "Easily accessible by bus, the heart of the city's retail."
+          },
+          {
+            "name": "Cork products",
+            "tip": "Extremadura is a major cork producer. Look for bags or coasters."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine wiederaufladbare Buskarte (Bonobús) für günstigere Tarife.",
+          "Laden Sie eine Bus-App herunter, um Routen und Fahrpläne in Echtzeit zu verfolgen.",
+          "Die meisten Busse sind klimatisiert, eine willkommene Abkühlung im Sommer.",
+          "Planen Sie etwas Pufferzeit für Wartezeiten an den Haltestellen ein."
+        ],
+        "hu": [
+          "Vásároljon újratölthető buszkártyát (Bonobús) az olcsóbb viteldíjakért.",
+          "Töltsön le egy buszos alkalmazást az útvonalak és menetrendek valós idejű követéséhez.",
+          "A legtöbb busz légkondicionált, ami kellemes hűsölést nyújt nyáron.",
+          "Tervezzen némi pufferidőt a megállókban való várakozásra."
+        ],
+        "ro": [
+          "Cumpărați un card de autobuz reîncărcabil (Bonobús) pentru tarife mai ieftine.",
+          "Descărcați o aplicație de autobuz pentru a urmări rutele și orarele în timp real.",
+          "Majoritatea autobuzelor au aer condiționat, o răcorire binevenită vara.",
+          "Planificați un timp tampon pentru așteptarea în stații."
+        ],
+        "en": [
+          "Buy a rechargeable bus card (Bonobús) for cheaper fares.",
+          "Download a bus app to track routes and schedules in real time.",
+          "Most buses are air-conditioned, a welcome relief in summer.",
+          "Plan for some buffer time for waiting at stops."
+        ]
+      }
+    }
+  }
+}

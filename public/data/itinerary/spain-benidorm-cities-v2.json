@@ -1,0 +1,1399 @@
+{
+  "city_id": "spain-benidorm-cities-v2",
+  "anchor": {
+    "name": "Benidorm",
+    "coords": [
+      -0.1287,
+      38.5342
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Casco Antiguo (Altstadt)",
+            "hu": "Casco Antiguo (Óváros)",
+            "ro": "Casco Antiguo (Orașul Vechi)",
+            "en": "Casco Antiguo (Old Town)"
+          },
+          "coords": [
+            -0.1295,
+            38.535
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den engen Gassen und genießen Sie die Atmosphäre.",
+            "hu": "Tévedj el a szűk sikátorokban, és élvezd a hangulatot.",
+            "ro": "Pierdeți-vă pe străduțele înguste și bucurați-vă de atmosferă.",
+            "en": "Get lost in the narrow streets and enjoy the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de San Jaime y Santa Ana",
+            "hu": "Szent Jakab és Szent Anna templom",
+            "ro": "Biserica San Jaime și Santa Ana",
+            "en": "Church of San Jaime and Santa Ana"
+          },
+          "coords": [
+            -0.1305,
+            38.5352
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:12",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Achten Sie auf die blauen Kuppeln, ein Wahrzeichen von Benidorm.",
+            "hu": "Keresd a kék kupolákat, Benidorm egyik jelképét.",
+            "ro": "Observați cupolele albastre, un simbol al Benidormului.",
+            "en": "Look for the blue domes, a landmark of Benidorm."
+          }
+        },
+        {
+          "name": {
+            "de": "Balcón del Mediterráneo",
+            "hu": "Balcón del Mediterráneo",
+            "ro": "Balcón del Mediterráneo",
+            "en": "Balcón del Mediterráneo"
+          },
+          "coords": [
+            -0.131,
+            38.534
+          ],
+          "category": "natural features",
+          "arrive_at": "10:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Der beste Ort für einen Panoramablick auf beide Strände.",
+            "hu": "A legjobb hely a panorámás kilátáshoz mindkét strandra.",
+            "ro": "Cel mai bun loc pentru o vedere panoramică a ambelor plaje.",
+            "en": "The best spot for a panoramic view of both beaches."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque de Elche",
+            "hu": "Elche Park",
+            "ro": "Parcul Elche",
+            "en": "Parque de Elche"
+          },
+          "coords": [
+            -0.135,
+            38.533
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:32",
+          "stay_min": 30,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein schattiger Ort, um sich auszuruhen und die Tauben zu beobachten.",
+            "hu": "Árnyékos hely a pihenésre és a galambok nézésére.",
+            "ro": "Un loc umbrit pentru a vă odihni și a privi porumbeii.",
+            "en": "A shady spot to rest and watch the doves."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Poniente",
+            "hu": "Poniente strand",
+            "ro": "Plaja Poniente",
+            "en": "Playa de Poniente"
+          },
+          "coords": [
+            -0.14,
+            38.531
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:12",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ruhiger als Levante, ideal für einen entspannten Nachmittag.",
+            "hu": "Csendesebb, mint a Levante, ideális egy pihentető délutánhoz.",
+            "ro": "Mai liniștită decât Levante, ideală pentru o după-amiază relaxantă.",
+            "en": "Quieter than Levante, ideal for a relaxing afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Levante",
+            "hu": "Levante strand",
+            "ro": "Plaja Levante",
+            "en": "Playa de Levante"
+          },
+          "coords": [
+            -0.12,
+            38.537
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:59",
+          "stay_min": 136,
+          "hop_from_prev_min": 47,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Der belebteste Strand mit vielen Bars und Wassersportmöglichkeiten.",
+            "hu": "A legforgalmasabb strand, tele bárokkal és vízisport lehetőségekkel.",
+            "ro": "Cea mai animată plajă, cu multe baruri și sporturi nautice.",
+            "en": "The liveliest beach, full of bars and water sports."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Benidorms Altstadt, dem Casco Antiguo. Schlendern Sie durch die engen Gassen zur Kirche San Jaime y Santa Ana und genießen Sie die atemberaubende Aussicht vom Balcón del Mediterráneo. Am Mittag finden Sie im ruhigen Parque de Elche Schatten, bevor Sie sich am entspannten Poniente-Strand sonnen. Am Nachmittag überqueren Sie die Stadt zum belebten Levante-Strand, wo Sie das pulsierende Leben und die vielen Wassersportmöglichkeiten genießen können. Beenden Sie den Tag in einer der vielen Strandbars bei einem Drink zum Sonnenuntergang.",
+        "hu": "Kezdje a napot Benidorm szívében, a Casco Antiguo óvárosban. Sétáljon a szűk utcákon a San Jaime y Santa Ana templomig, majd gyönyörködjön a Balcón del Mediterráneo lélegzetelállító kilátásában. Délben keressen árnyékot a csendes Elche Parkban, mielőtt a nyugodt Poniente strandon napozna. Délután szelje át a várost a nyüzsgő Levante strandra, ahol élvezheti a pezsgő életet és a vízi sportokat. Zárja a napot egy itallal a naplementében az egyik tengerparti bárban.",
+        "ro": "Începeți ziua în inima orașului vechi din Benidorm, Casco Antiguo. Plimbați-vă pe străduțele înguste până la Biserica San Jaime y Santa Ana, apoi admirați priveliștea uluitoare de la Balcón del Mediterráneo. La prânz, găsiți umbră în liniștitul Parc Elche înainte de a vă relaxa la soare pe plaja Poniente. După-amiaza, traversați orașul spre animata plajă Levante, unde vă puteți bucura de atmosfera vibrantă și de sporturile nautice. Încheiați ziua cu o băutură la apus la unul dintre numeroasele baruri de pe plajă.",
+        "en": "Start your day in the heart of Benidorm's Old Town, the Casco Antiguo. Wander the narrow streets to the Church of San Jaime and Santa Ana, then take in the breathtaking views from the Balcón del Mediterráneo. At midday, find shade in the tranquil Parque de Elche before sunbathing on the relaxed Poniente beach. In the afternoon, cross the city to the bustling Levante beach, where you can enjoy the vibrant life and water sports. End the day with a sunset drink at one of the many beachside bars."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Paella",
+            "tip": "Probieren Sie eine authentische Paella mit Meeresfrüchten in einem der Restaurants am Strand."
+          },
+          {
+            "name": "Arroz a banda",
+            "tip": "Ein lokales Reisgericht, das mit Fischbrühe gekocht wird und oft mit Alioli serviert wird."
+          },
+          {
+            "name": "Tapas",
+            "tip": "Die Tapas-Allee in der Altstadt (Calle Santo Domingo) ist ein Muss für jeden Feinschmecker."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paella",
+            "tip": "Kóstolj meg egy autentikus tenger gyümölcsei paellát az egyik tengerparti étteremben."
+          },
+          {
+            "name": "Arroz a banda",
+            "tip": "Helyi rizsétel, halászlében főzve, gyakran aliolival tálalva."
+          },
+          {
+            "name": "Tapas",
+            "tip": "Az óvárosi tapas-sétány (Calle Santo Domingo) minden ínyenc számára kötelező."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paella",
+            "tip": "Încercați o paella autentică cu fructe de mare la unul dintre restaurantele de pe plajă."
+          },
+          {
+            "name": "Arroz a banda",
+            "tip": "Un preparat local din orez, gătit în supă de pește și adesea servit cu alioli."
+          },
+          {
+            "name": "Tapas",
+            "tip": "Aleea de tapas din Orașul Vechi (Calle Santo Domingo) este o necesitate pentru orice gurmand."
+          }
+        ],
+        "en": [
+          {
+            "name": "Paella",
+            "tip": "Try an authentic seafood paella at one of the beachfront restaurants."
+          },
+          {
+            "name": "Arroz a banda",
+            "tip": "A local rice dish cooked in fish broth, often served with alioli."
+          },
+          {
+            "name": "Tapas",
+            "tip": "The tapas alley in the Old Town (Calle Santo Domingo) is a must for any foodie."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Playa de Poniente",
+            "tip": "Der ruhigere der beiden Hauptstrände, perfekt für eine entspannte Zeit.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parque de Elche",
+            "tip": "Ein grüner, schattiger Park, um der Mittagssonne zu entkommen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick vom Balcón del Mediterráneo",
+            "tip": "Genießen Sie den Sonnenuntergang über dem Meer von diesem ikonischen Aussichtspunkt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Poniente strand",
+            "tip": "A két fő strand közül a csendesebb, tökéletes a pihenéshez.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Elche Park",
+            "tip": "Zöld, árnyékos park, ahol elmenekülhetsz a déli nap elől.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Balcón del Mediterráneo-ról",
+            "tip": "Élvezd a naplementét a tenger felett erről az ikonikus kilátópontról.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Poniente",
+            "tip": "Cea mai liniștită dintre cele două plaje principale, perfectă pentru relaxare.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Elche",
+            "tip": "Un parc verde și umbros pentru a scăpa de soarele de la amiază.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de la Balcón del Mediterráneo",
+            "tip": "Bucurați-vă de apusul peste mare din acest punct de belvedere iconic.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Playa de Poniente",
+            "tip": "The quieter of the two main beaches, perfect for some relaxing time.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parque de Elche",
+            "tip": "A green, shady park to escape the midday sun.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from Balcón del Mediterráneo",
+            "tip": "Enjoy the sunset over the sea from this iconic viewpoint.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Altstadtgeschäfte",
+            "tip": "Stöbern Sie in den kleinen Boutiquen nach Lederwaren, Schmuck und lokalen Handwerksprodukten."
+          },
+          {
+            "name": "Mercado Municipal",
+            "tip": "Ein lebhafter Markt, auf dem Sie frische Produkte und lokale Spezialitäten finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Óvárosi üzletek",
+            "tip": "Böngéssz a kis butikokban bőráruk, ékszerek és helyi kézműves termékek után."
+          },
+          {
+            "name": "Mercado Municipal",
+            "tip": "Élénk piac, ahol friss termékeket és helyi specialitásokat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine din Orașul Vechi",
+            "tip": "Căutați articole din piele, bijuterii și artizanat local în micile buticuri."
+          },
+          {
+            "name": "Mercado Municipal",
+            "tip": "O piață plină de viață unde puteți găsi produse proaspete și specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Town Shops",
+            "tip": "Browse the small boutiques for leather goods, jewelry, and local crafts."
+          },
+          {
+            "name": "Mercado Municipal",
+            "tip": "A bustling market where you can find fresh produce and local specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie viel Wasser mit, besonders in den Sommermonaten.",
+          "Die Altstadt kann überfüllt sein, passen Sie auf Ihre Sachen auf.",
+          "Planen Sie Zeit für ein Mittagessen in einem der Tapas-Restaurants ein."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, mert sokat fogsz sétálni.",
+          "Vigyél magaddal sok vizet, különösen a nyári hónapokban.",
+          "Az óváros zsúfolt lehet, vigyázz az értékeidre.",
+          "Tervezz időt egy ebédre az egyik tapas étteremben."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge mult pe jos.",
+          "Luați cu voi multă apă, mai ales în lunile de vară.",
+          "Orașul vechi poate fi aglomerat, aveți grijă de bunurile voastre.",
+          "Planificați timp pentru prânz la unul dintre restaurantele de tapas."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Bring plenty of water, especially during the summer months.",
+          "The Old Town can get crowded, so be mindful of your belongings.",
+          "Plan for a leisurely lunch at one of the tapas restaurants."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 15.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Parque de Elche",
+            "hu": "Elche Park",
+            "ro": "Parcul Elche",
+            "en": "Parque de Elche"
+          },
+          "coords": [
+            -0.135,
+            38.533
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein guter Ausgangspunkt mit Fahrradverleih in der Nähe.",
+            "hu": "Jó kiindulópont, a közelben kerékpárkölcsönző található.",
+            "ro": "Un punct de plecare bun, cu închirieri de biciclete în apropiere.",
+            "en": "A good starting point with bike rentals available nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Poniente",
+            "hu": "Poniente strand",
+            "ro": "Plaja Poniente",
+            "en": "Playa de Poniente"
+          },
+          "coords": [
+            -0.155,
+            38.528
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:42",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Fahren Sie die lange, moderne Promenade entlang und genießen Sie die Aussicht.",
+            "hu": "Tekerj végig a hosszú, modern sétányon, és élvezd a kilátást.",
+            "ro": "Plimbați-vă cu bicicleta de-a lungul promenadei lungi și moderne și bucurați-vă de priveliște.",
+            "en": "Cycle along the long, modern promenade and enjoy the views."
+          }
+        },
+        {
+          "name": {
+            "de": "Casco Antiguo (Altstadt)",
+            "hu": "Casco Antiguo (Óváros)",
+            "ro": "Casco Antiguo (Orașul Vechi)",
+            "en": "Casco Antiguo (Old Town)"
+          },
+          "coords": [
+            -0.1295,
+            38.535
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie die engen Gassen zu Fuß.",
+            "hu": "Zárd le a biciklidet és fedezd fel gyalog a szűk sikátorokat.",
+            "ro": "Parcați-vă bicicleta și explorați străduțele înguste pe jos.",
+            "en": "Park your bike and explore the narrow streets on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Levante",
+            "hu": "Levante strand",
+            "ro": "Plaja Levante",
+            "en": "Playa de Levante"
+          },
+          "coords": [
+            -0.11,
+            38.538
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ideal für ein Mittagessen und um die lebhafte Atmosphäre aufzusaugen.",
+            "hu": "Ideális egy ebédhez és a nyüzsgő hangulat magába szívásához.",
+            "ro": "Ideal pentru prânz și pentru a absorbi atmosfera plină de viață.",
+            "en": "Ideal for lunch and to soak up the lively atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Serra Gelada Naturpark (Aussichtspunkt)",
+            "hu": "Serra Gelada Natúrpark (kilátó)",
+            "ro": "Parcul Natural Serra Gelada (punct de belvedere)",
+            "en": "Serra Gelada Natural Park (Viewpoint)"
+          },
+          "coords": [
+            -0.095,
+            38.539
+          ],
+          "category": "natural features",
+          "arrive_at": "15:48",
+          "stay_min": 77,
+          "hop_from_prev_min": 48,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Der Anstieg ist anspruchsvoll, aber die Aussicht ist es absolut wert.",
+            "hu": "Az emelkedő kihívást jelent, de a kilátás mindenért kárpótol.",
+            "ro": "Urcușul este solicitant, dar priveliștea merită absolut efortul.",
+            "en": "The climb is challenging, but the view is absolutely worth it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour im Parque de Elche und fahren Sie entlang der eleganten Poniente-Promenade. Genießen Sie die ruhigere Atmosphäre, bevor Sie zurück ins Herz der Stadt radeln, um die Altstadt zu erkunden. Sperren Sie Ihr Rad ab, um zum Balcón del Mediterráneo zu schlendern. Verbringen Sie den Mittag am belebten Levante-Strand, wo unzählige Restaurants auf Sie warten. Am Nachmittag wartet eine Herausforderung: der Anstieg zum Naturpark Serra Gelada, der Sie mit einer spektakulären Aussicht auf die gesamte Küste belohnt.",
+        "hu": "Kezdje a biciklitúrát az Elche Parkból, és tekerjen végig az elegáns Poniente sétányon. Élvezze a nyugodtabb hangulatot, mielőtt visszatérne a város szívébe, hogy felfedezze az Óvárost. Zárja le a kerékpárt, hogy elsétálhasson a Balcón del Mediterráneo-hoz. Töltse a délt a nyüzsgő Levante strandon, ahol számos étterem várja. Délután egy kihívás vár: a Serra Gelada Natúrparkba való feljutás, amely a partvonalra nyíló látványos kilátással jutalmazza.",
+        "ro": "Începeți turul cu bicicleta din Parcul Elche și pedalați de-a lungul promenadei elegante Poniente. Bucurați-vă de atmosfera mai liniștită înainte de a vă întoarce în inima orașului pentru a explora Orașul Vechi. Parcați bicicleta pentru a vă plimba până la Balcón del Mediterráneo. Petreceți prânzul pe plaja animată Levante, cu nenumăratele sale restaurante. După-amiaza, vă așteaptă o provocare: urcarea în Parcul Natural Serra Gelada, care vă va recompensa cu vederi spectaculoase ale întregii coaste.",
+        "en": "Start your bike tour from Parque de Elche and ride along the elegant Poniente promenade. Enjoy the quieter atmosphere before cycling back to the heart of the city to explore the Old Town. Lock up your bike to stroll to the Balcón del Mediterráneo. Spend midday at the lively Levante beach, with its countless restaurants. In the afternoon, a challenge awaits: the climb up to the Serra Gelada Natural Park, rewarding you with spectacular views of the entire coastline."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fideuà",
+            "tip": "Ähnlich wie Paella, aber mit Nudeln statt Reis. Eine köstliche lokale Variante."
+          },
+          {
+            "name": "Pulpo a la gallega",
+            "tip": "Gekochter Oktopus, gewürzt mit Paprika, ein Klassiker in den Tapas-Bars."
+          },
+          {
+            "name": "Horchata mit Fartons",
+            "tip": "Ein erfrischendes Getränk aus Erdmandeln, perfekt nach einer Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fideuà",
+            "tip": "Hasonló a paellához, de rizs helyett tésztával készül. Ízletes helyi változat."
+          },
+          {
+            "name": "Pulpo a la gallega",
+            "tip": "Főtt polip paprikával fűszerezve, a tapas bárok klasszikusa."
+          },
+          {
+            "name": "Horchata Fartons-szal",
+            "tip": "Földimandulából készült frissítő ital, tökéletes egy biciklitúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fideuà",
+            "tip": "Similar cu paella, dar făcut cu tăiței în loc de orez. O variantă locală delicioasă."
+          },
+          {
+            "name": "Pulpo a la gallega",
+            "tip": "Caracatiță fiartă, asezonată cu boia, un clasic în barurile de tapas."
+          },
+          {
+            "name": "Horchata cu fartons",
+            "tip": "O băutură răcoritoare din alune tigrate, perfectă după o plimbare cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fideuà",
+            "tip": "Similar to paella but made with noodles instead of rice. A delicious local variation."
+          },
+          {
+            "name": "Pulpo a la gallega",
+            "tip": "Boiled octopus seasoned with paprika, a classic in the tapas bars."
+          },
+          {
+            "name": "Horchata with Fartons",
+            "tip": "A refreshing drink made from tiger nuts, perfect after a bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfelkreuz der Serra Gelada",
+            "tip": "Ein anstrengender Aufstieg, aber die Stille und die Aussicht sind unbezahlbar.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ende des Poniente-Strandes",
+            "tip": "Je weiter Sie radeln, desto ruhiger wird der Strand.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Illa de Benidorm (aus der Ferne)",
+            "tip": "Beobachten Sie die Insel von der Küste aus und genießen Sie die Meeresbrise.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Serra Gelada csúcskeresztje",
+            "tip": "Fárasztó mászás, de a csend és a kilátás megfizethetetlen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Poniente strand vége",
+            "tip": "Minél messzebb tekersz, annál csendesebbé válik a strand.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Benidorm-sziget (távolról)",
+            "tip": "Figyeld a szigetet a partról, és élvezd a tengeri szellőt.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crucea din Serra Gelada",
+            "tip": "O urcare obositoare, dar liniștea și priveliștea sunt neprețuite.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Capătul plajei Poniente",
+            "tip": "Cu cât pedalezi mai departe, cu atât plaja devine mai liniștită.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Illa de Benidorm (de la distanță)",
+            "tip": "Priviți insula de pe coastă și bucurați-vă de briza mării.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Serra Gelada Summit Cross",
+            "tip": "A strenuous climb, but the silence and the view are priceless.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Far end of Poniente Beach",
+            "tip": "The further you cycle, the quieter the beach becomes.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Illa de Benidorm (from a distance)",
+            "tip": "Watch the island from the coast and enjoy the sea breeze.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Promenadengeschäfte",
+            "tip": "Entlang der Strände finden Sie viele Geschäfte, die Souvenirs und Strandkleidung verkaufen."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Überprüfen Sie die Termine für den Outdoor-Markt, der Kleidung, Lederwaren und mehr anbietet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sétány üzletei",
+            "tip": "A strandok mentén számos üzlet található, ahol ajándéktárgyakat és strandruhákat árulnak."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Ellenőrizd a szabadtéri piac időpontjait, ahol ruhákat, bőrárukat és egyebeket kínálnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele de pe promenadă",
+            "tip": "De-a lungul plajelor veți găsi multe magazine care vând suveniruri și haine de plajă."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Verificați datele pentru piața în aer liber, care oferă haine, articole din piele și multe altele."
+          }
+        ],
+        "en": [
+          {
+            "name": "Promenade Shops",
+            "tip": "Along the beaches, you'll find many shops selling souvenirs and beachwear."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "Check the dates for the outdoor market, which offers clothes, leather goods, and more."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein E-Bike für den Anstieg zur Serra Gelada.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, besonders in belebten Gegenden.",
+          "Benutzen Sie die ausgewiesenen Radwege, wo immer es möglich ist.",
+          "Eine Fahrt bei Sonnenaufgang oder Sonnenuntergang entlang der Küste ist besonders schön."
+        ],
+        "hu": [
+          "Bérelj e-biciklit a Serra Gelada megmászásához.",
+          "Mindig zárd le jól a kerékpárodat, különösen a forgalmas területeken.",
+          "Használd a kijelölt kerékpárutakat, ahol csak lehetséges.",
+          "Egy napkelte vagy napnyugta-túra a part mentén különösen szép."
+        ],
+        "ro": [
+          "Închiriați o bicicletă electrică pentru urcarea la Serra Gelada.",
+          "Încuietăți-vă întotdeauna bine bicicleta, mai ales în zonele aglomerate.",
+          "Folosiți pistele de biciclete desemnate ori de câte ori este posibil.",
+          "O plimbare la răsărit sau la apus de-a lungul coastei este deosebit de frumoasă."
+        ],
+        "en": [
+          "Rent an e-bike for the climb to Serra Gelada.",
+          "Always lock your bike securely, especially in busy areas.",
+          "Use the designated bike lanes wherever possible.",
+          "A sunrise or sunset ride along the coast is particularly beautiful."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 11.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Serra Gelada Naturpark (Parkplatz)",
+            "hu": "Serra Gelada Natúrpark (Parkoló)",
+            "ro": "Parcul Natural Serra Gelada (Parcare)",
+            "en": "Serra Gelada Natural Park (Parking)"
+          },
+          "coords": [
+            -0.09,
+            38.54
+          ],
+          "category": "natural features",
+          "arrive_at": "09:20",
+          "stay_min": 10,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier und beginnen Sie Ihre Wanderung zum Kreuz für eine unglaubliche Aussicht.",
+            "hu": "Parkolj le itt, és indulj el a túrára a kereszthez a hihetetlen kilátásért.",
+            "ro": "Parcați aici și începeți drumeția spre cruce pentru o priveliște incredibilă.",
+            "en": "Park here and start your hike up to the cross for an incredible view."
+          }
+        },
+        {
+          "name": {
+            "de": "Serra Gelada Aussichtspunkt",
+            "hu": "Serra Gelada kilátó",
+            "ro": "Punct de belvedere Serra Gelada",
+            "en": "Serra Gelada Viewpoint"
+          },
+          "coords": [
+            -0.095,
+            38.539
+          ],
+          "category": "natural features",
+          "arrive_at": "09:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Spaziergang lohnt sich für das Panorama über Benidorm und das Meer.",
+            "hu": "A séta megéri a Benidormra és a tengerre nyíló panorámáért.",
+            "ro": "Plimbarea merită pentru panorama asupra Benidormului și a mării.",
+            "en": "The walk is worth it for the panorama over Benidorm and the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Levante (Parkplatz)",
+            "hu": "Levante strand (Parkoló)",
+            "ro": "Plaja Levante (Parcare)",
+            "en": "Playa de Levante (Parking)"
+          },
+          "coords": [
+            -0.115,
+            38.538
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:05",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in einer der Seitenstraßen und genießen Sie den belebten Strand.",
+            "hu": "Parkolj az egyik mellékutcában, és élvezd a nyüzsgő strandot.",
+            "ro": "Parcați pe una dintre străzile laterale și bucurați-vă de plaja animată.",
+            "en": "Park in one of the side streets and enjoy the bustling beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Casco Antiguo (Tiefgarage)",
+            "hu": "Casco Antiguo (Mélygarázs)",
+            "ro": "Casco Antiguo (Parcare subterană)",
+            "en": "Casco Antiguo (Underground Parking)"
+          },
+          "coords": [
+            -0.132,
+            38.536
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:50",
+          "stay_min": 10,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie den historischen Kern zu Fuß.",
+            "hu": "Parkolj itt, és fedezd fel gyalog a történelmi központot.",
+            "ro": "Parcați aici și explorați centrul istoric pe jos.",
+            "en": "Park here and explore the historic core on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Balcón del Mediterráneo",
+            "hu": "Balcón del Mediterráneo",
+            "ro": "Balcón del Mediterráneo",
+            "en": "Balcón del Mediterráneo"
+          },
+          "coords": [
+            -0.131,
+            38.534
+          ],
+          "category": "natural features",
+          "arrive_at": "14:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkhaus zu diesem atemberaubenden Aussichtspunkt.",
+            "hu": "Rövid séta a parkolóháztól ehhez a lélegzetelállító kilátóponthoz.",
+            "ro": "O scurtă plimbare de la parcare până la acest punct de belvedere uimitor.",
+            "en": "A short walk from the parking garage to this stunning viewpoint."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Poniente",
+            "hu": "Poniente strand",
+            "ro": "Plaja Poniente",
+            "en": "Playa de Poniente"
+          },
+          "coords": [
+            -0.145,
+            38.53
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:05",
+          "stay_min": 160,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Finden Sie einen Parkplatz und genießen Sie den Sonnenuntergang am ruhigeren Strand.",
+            "hu": "Keress egy parkolóhelyet, és élvezd a naplementét a csendesebb strandon.",
+            "ro": "Găsiți un loc de parcare și bucurați-vă de apusul de soare pe plaja mai liniștită.",
+            "en": "Find a parking spot and enjoy the sunset on the quieter beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag mit dem Auto zum Naturpark Serra Gelada für eine morgendliche Wanderung mit Panoramablick. Parken Sie Ihr Auto und gehen Sie zu Fuß zum Gipfelkreuz. Fahren Sie mittags zum belebten Levante-Strand, um Sonne zu tanken und die Atmosphäre zu genießen. Am Nachmittag parken Sie im Zentrum und erkunden das historische Herz von Benidorm: die Altstadt und den Balcón del Mediterráneo, alles zu Fuß. Beenden Sie den Tag mit einer kurzen Fahrt zum Poniente-Strand, um einen ruhigen und malerischen Sonnenuntergang zu erleben.",
+        "hu": "Kezdje a napot egy autós kirándulással a Serra Gelada Natúrparkba egy reggeli, panorámás túráért. Parkolja le az autót és sétáljon fel a csúcskereszthez. Délben vezessen a nyüzsgő Levante strandra napozni és élvezni a hangulatot. Délután parkoljon le a központban, és fedezze fel gyalog Benidorm történelmi szívét: az Óvárost és a Balcón del Mediterráneo-t. Zárja a napot egy rövid autózással a Poniente strandra, ahol egy békés és festői naplementében gyönyörködhet.",
+        "ro": "Începeți ziua cu o excursie cu mașina la Parcul Natural Serra Gelada pentru o drumeție matinală cu vederi panoramice. Parcați mașina și mergeți pe jos până la crucea din vârf. La prânz, conduceți spre plaja animată Levante pentru a vă bucura de soare și atmosferă. După-amiaza, parcați în centru și explorați pe jos inima istorică a Benidormului: Orașul Vechi și Balcón del Mediterráneo. Încheiați ziua cu o scurtă călătorie cu mașina până la plaja Poniente pentru a prinde un apus de soare liniștit și pitoresc.",
+        "en": "Start the day by driving to the Serra Gelada Natural Park for a morning hike with panoramic views. Park the car and walk to the summit cross. For midday, drive to the bustling Levante beach to soak up the sun and atmosphere. In the afternoon, park in the center and explore Benidorm's historic heart on foot: the Old Town and the Balcón del Mediterráneo. End the day with a short drive to Poniente beach to catch a peaceful and scenic sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Caldero",
+            "tip": "Ein Fischeintopf, der oft als zwei Gänge serviert wird: zuerst der Fisch, dann der im Sud gekochte Reis."
+          },
+          {
+            "name": "Restaurants in der Altstadt",
+            "tip": "Nach dem Parken finden Sie hier die authentischste Küche."
+          },
+          {
+            "name": "Chiringuitos (Strandbars)",
+            "tip": "Genießen Sie frische Sardinen und ein kaltes Bier direkt am Strand von Poniente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Caldero",
+            "tip": "Halpörkölt, amelyet gyakran két fogásként szolgálnak fel: először a hal, majd a lében főtt rizs."
+          },
+          {
+            "name": "Óvárosi éttermek",
+            "tip": "Miután leparkoltál, itt találod a legautentikusabb konyhát."
+          },
+          {
+            "name": "Chiringuitos (strandbárok)",
+            "tip": "Élvezz friss szardíniát és egy hideg sört közvetlenül a Poniente strandon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caldero",
+            "tip": "O tocană de pește servită adesea în două feluri: mai întâi peștele, apoi orezul gătit în zeama lui."
+          },
+          {
+            "name": "Restaurante din Orașul Vechi",
+            "tip": "După ce parcați, veți găsi aici cea mai autentică bucătărie."
+          },
+          {
+            "name": "Chiringuitos (baruri pe plajă)",
+            "tip": "Bucurați-vă de sardine proaspete și o bere rece chiar pe plaja Poniente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Caldero",
+            "tip": "A fish stew often served as two courses: first the fish, then the rice cooked in the broth."
+          },
+          {
+            "name": "Old Town Restaurants",
+            "tip": "After parking, you'll find the most authentic cuisine here."
+          },
+          {
+            "name": "Chiringuitos (beach bars)",
+            "tip": "Enjoy fresh sardines and a cold beer right on Poniente beach."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Serra Gelada Wanderwege",
+            "tip": "Abseits der Menschenmassen finden Sie hier Ruhe und Natur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Illa de Benidorm",
+            "tip": "Nehmen Sie ein Boot zur Insel für einen ruhigen Ausflug (erfordert separate Planung).",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Sonnenuntergang am Poniente",
+            "tip": "Ein perfekter, friedlicher Abschluss für einen ereignisreichen Tag.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Serra Gelada túraútvonalak",
+            "tip": "A tömegtől távol itt nyugalmat és természetet találsz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Benidorm-sziget",
+            "tip": "Menj hajóval a szigetre egy csendes kirándulásra (külön tervezést igényel).",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Naplemente a Poniente strandon",
+            "tip": "Tökéletes, békés befejezése egy eseménydús napnak.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trasee montane în Serra Gelada",
+            "tip": "Departe de mulțime, aici veți găsi liniște și natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Illa de Benidorm",
+            "tip": "Luați o barcă spre insulă pentru o excursie liniștită (necesită planificare separată).",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Apus la Poniente",
+            "tip": "Un final perfect și pașnic pentru o zi plină de evenimente.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Serra Gelada hiking trails",
+            "tip": "Away from the crowds, you will find peace and nature here.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Illa de Benidorm",
+            "tip": "Take a boat to the island for a quiet getaway (requires separate planning).",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Sunset at Poniente",
+            "tip": "A perfect, peaceful end to an eventful day.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Avenida Martinez Alejos",
+            "tip": "Die Haupteinkaufsstraße mit vielen bekannten Marken."
+          },
+          {
+            "name": "Rincon de Loix Markt",
+            "tip": "Ein großer Freiluftmarkt, der mittwochs und sonntags stattfindet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Avenida Martinez Alejos",
+            "tip": "A fő bevásárlóutca számos ismert márkával."
+          },
+          {
+            "name": "Rincon de Loix piac",
+            "tip": "Nagy szabadtéri piac, amelyet szerdán és vasárnap tartanak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Avenida Martinez Alejos",
+            "tip": "Principala stradă comercială cu multe mărci cunoscute."
+          },
+          {
+            "name": "Piața Rincon de Loix",
+            "tip": "O piață mare în aer liber care are loc miercurea și duminica."
+          }
+        ],
+        "en": [
+          {
+            "name": "Avenida Martinez Alejos",
+            "tip": "The main shopping street with many well-known brands."
+          },
+          {
+            "name": "Rincon de Loix Market",
+            "tip": "A large outdoor market held on Wednesdays and Sundays."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken kann im Sommer teuer und schwierig sein, planen Sie also voraus.",
+          "Achten Sie auf die blauen Zonen (ORA), in denen das Parken zeitlich begrenzt ist.",
+          "Kombinieren Sie Autofahrten mit Spaziergängen, um das Beste aus Ihrem Tag zu machen.",
+          "Ein Auto ermöglicht es Ihnen, auch entlegenere Strände und Aussichtspunkte zu besuchen."
+        ],
+        "hu": [
+          "A parkolás nyáron drága és nehézkes lehet, ezért tervezz előre.",
+          "Figyelj a kék zónákra (ORA), ahol a parkolás időben korlátozott.",
+          "Kombináld az autózást sétával, hogy a legtöbbet hozd ki a napodból.",
+          "Az autó lehetővé teszi, hogy távolabbi strandokat és kilátópontokat is meglátogass."
+        ],
+        "ro": [
+          "Parcarea poate fi scumpă și dificilă în timpul verii, așa că planificați din timp.",
+          "Fiți atenți la zonele albastre (ORA), unde parcarea este limitată în timp.",
+          "Combinați călătoriile cu mașina cu plimbările pentru a profita la maximum de zi.",
+          "O mașină vă permite să vizitați și plaje și puncte de belvedere mai îndepărtate."
+        ],
+        "en": [
+          "Parking can be expensive and difficult in the summer, so plan ahead.",
+          "Pay attention to the blue zones (ORA), where parking is time-limited.",
+          "Combine car trips with walks to make the most of your day.",
+          "A car allows you to visit more remote beaches and viewpoints."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 8.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Casco Antiguo (Bushaltestelle)",
+            "hu": "Casco Antiguo (Buszmegálló)",
+            "ro": "Casco Antiguo (Stație de autobuz)",
+            "en": "Casco Antiguo (Bus Stop)"
+          },
+          "coords": [
+            -0.133,
+            38.537
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 10,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie hier, um das historische Zentrum zu erkunden.",
+            "hu": "Indulj innen a történelmi központ felfedezéséhez.",
+            "ro": "Începeți de aici pentru a explora centrul istoric.",
+            "en": "Start here to explore the historic center."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de San Jaime y Santa Ana",
+            "hu": "Szent Jakab és Szent Anna templom",
+            "ro": "Biserica San Jaime și Santa Ana",
+            "en": "Church of San Jaime and Santa Ana"
+          },
+          "coords": [
+            -0.1305,
+            38.5352
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die Altstadt führt Sie zu dieser schönen Kirche.",
+            "hu": "Rövid séta az óvárosban elvezet ehhez a gyönyörű templomhoz.",
+            "ro": "O scurtă plimbare prin Orașul Vechi vă va duce la această biserică frumoasă.",
+            "en": "A short walk through the old town will lead you to this beautiful church."
+          }
+        },
+        {
+          "name": {
+            "de": "Balcón del Mediterráneo",
+            "hu": "Balcón del Mediterráneo",
+            "ro": "Balcón del Mediterráneo",
+            "en": "Balcón del Mediterráneo"
+          },
+          "coords": [
+            -0.131,
+            38.534
+          ],
+          "category": "natural features",
+          "arrive_at": "10:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht, bevor Sie den Bus zum nächsten Strand nehmen.",
+            "hu": "Élvezd a kilátást, mielőtt buszra szállnál a következő strand felé.",
+            "ro": "Bucurați-vă de priveliște înainte de a lua autobuzul spre următoarea plajă.",
+            "en": "Enjoy the view before taking the bus to the next beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Levante",
+            "hu": "Levante strand",
+            "ro": "Plaja Levante",
+            "en": "Playa de Levante"
+          },
+          "coords": [
+            -0.11,
+            38.538
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:12",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Verbringen Sie den Mittag an diesem belebten, actionreichen Strand.",
+            "hu": "Töltsd a délt ezen a nyüzsgő, akciódús strandon.",
+            "ro": "Petreceți prânzul pe această plajă plină de viață și acțiune.",
+            "en": "Spend midday at this bustling, action-packed beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Poniente (Bushaltestelle)",
+            "hu": "Poniente strand (Buszmegálló)",
+            "ro": "Plaja Poniente (Stație de autobuz)",
+            "en": "Playa de Poniente (Bus Stop)"
+          },
+          "coords": [
+            -0.145,
+            38.53
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:32",
+          "stay_min": 20,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie hier aus für einen ruhigeren Nachmittag.",
+            "hu": "Szállj le itt egy csendesebb délutánért.",
+            "ro": "Coborâți aici pentru o după-amiază mai liniștită.",
+            "en": "Get off here for a quieter afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque de Elche",
+            "hu": "Elche Park",
+            "ro": "Parcul Elche",
+            "en": "Parque de Elche"
+          },
+          "coords": [
+            -0.135,
+            38.533
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:04",
+          "stay_min": 141,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im Park, der nur einen kurzen Spaziergang vom Strand entfernt ist.",
+            "hu": "Pihenj a parkban, ami csak egy rövid sétára van a strandtól.",
+            "ro": "Relaxați-vă în parc, la o scurtă plimbare de plajă.",
+            "en": "Relax in the park, just a short walk from the beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einer kurzen Busfahrt ins Zentrum, gefolgt von einem Spaziergang durch die Altstadt zur Kirche und zum Balcón del Mediterráneo. Genießen Sie die Aussicht, bevor Sie einen Bus zum belebten Levante-Strand nehmen, wo Sie Ihr Mittagessen genießen können. Am Nachmittag bringt Sie eine weitere Busfahrt zum ruhigeren Poniente-Strand. Schlendern Sie von dort zum nahegelegenen Parque de Elche, um sich im Schatten zu entspannen und den Tag ausklingen zu lassen, bevor Sie den Bus zurück nehmen.",
+        "hu": "A nap egy rövid buszozással kezdődik a központba, majd egy sétával az Óvároson keresztül a templomhoz és a Balcón del Mediterráneo-hoz. Élvezze a kilátást, mielőtt buszra szállna a nyüzsgő Levante strandra ebédelni. Délután egy másik buszjárattal a csendesebb Poniente strandra juthat el. Innen sétáljon el a közeli Elche Parkba, hogy árnyékban pihenjen és zárja a napot, mielőtt visszabuszozna.",
+        "ro": "Ziua începe cu o scurtă călătorie cu autobuzul spre centru, urmată de o plimbare prin Orașul Vechi până la biserică și Balcón del Mediterráneo. Admirați priveliștea înainte de a lua un autobuz spre plaja animată Levante pentru prânz. După-amiaza, o altă călătorie cu autobuzul vă va duce la plaja mai liniștită Poniente. De acolo, plimbați-vă până la Parcul Elche din apropiere pentru a vă relaxa la umbră și a încheia ziua înainte de a lua autobuzul înapoi.",
+        "en": "Your day starts with a short bus ride to the center, followed by a walk through the Old Town to the church and the Balcón del Mediterráneo. Take in the views before hopping on a bus to the bustling Levante beach for lunch. In the afternoon, another bus ride takes you to the calmer Poniente beach. From there, stroll to the nearby Parque de Elche to relax in the shade and wind down your day before catching the bus back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tapas-Tour",
+            "tip": "Nutzen Sie die Busse, um die berühmte Tapas-Allee in der Altstadt zu erreichen."
+          },
+          {
+            "name": "Menú del Día",
+            "tip": "Halten Sie Ausschau nach Mittagsmenüs in den Restaurants in der Nähe der Bushaltestellen, um ein günstiges Essen zu bekommen."
+          },
+          {
+            "name": "Heladerías (Eisdielen)",
+            "tip": "Gönnen Sie sich ein Eis, während Sie auf den nächsten Bus warten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tapas túra",
+            "tip": "Használd a buszokat, hogy eljuss az óváros híres tapas sétányára."
+          },
+          {
+            "name": "Menú del Día",
+            "tip": "Keress déli menüket a buszmegállók közelében lévő éttermekben egy olcsó étkezésért."
+          },
+          {
+            "name": "Heladerías (fagylaltozók)",
+            "tip": "Kényeztesd magad egy fagyival, miközben a következő buszra vársz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Turul de Tapas",
+            "tip": "Folosiți autobuzele pentru a ajunge la faimoasa alee de tapas din Orașul Vechi."
+          },
+          {
+            "name": "Menú del Día",
+            "tip": "Căutați meniurile de prânz în restaurantele de lângă stațiile de autobuz pentru o masă la preț redus."
+          },
+          {
+            "name": "Heladerías (gelaterii)",
+            "tip": "Răsfățați-vă cu o înghețată în timp ce așteptați următorul autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tapas Tour",
+            "tip": "Use the buses to get to the famous tapas alley in the Old Town."
+          },
+          {
+            "name": "Menú del Día",
+            "tip": "Look for lunch menus at restaurants near the bus stops for a great value meal."
+          },
+          {
+            "name": "Heladerías (Ice Cream Parlors)",
+            "tip": "Treat yourself to an ice cream while waiting for the next bus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt entlang der Küste",
+            "tip": "Genießen Sie die Aussicht auf das Meer aus dem Busfenster.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Parque de Elche",
+            "tip": "Ein leicht erreichbarer, ruhiger Ort zum Entspannen nach einer Busfahrt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Poniente-Strand",
+            "tip": "Nehmen Sie den Bus zu diesem ruhigeren Strand, um den Menschenmassen zu entkommen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Utazás a part mentén",
+            "tip": "Élvezd a tenger látványát a busz ablakából.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Elche Park",
+            "tip": "Könnyen megközelíthető, csendes hely a pihenésre egy buszozás után.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Poniente strand",
+            "tip": "Válassza a buszt ehhez a csendesebb strandhoz, hogy elkerülje a tömeget.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătorie de-a lungul coastei",
+            "tip": "Bucurați-vă de priveliștea mării de la fereastra autobuzului.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Parcul Elche",
+            "tip": "Un loc liniștit, ușor accesibil, pentru a vă relaxa după o călătorie cu autobuzul.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plaja Poniente",
+            "tip": "Luați autobuzul spre această plajă mai liniștită pentru a scăpa de aglomerație.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ride along the coast",
+            "tip": "Enjoy the sea views from the bus window.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Parque de Elche",
+            "tip": "An easily accessible, quiet spot to relax after a bus journey.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Poniente Beach",
+            "tip": "Take the bus to this quieter beach to escape the crowds.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Geschäfte",
+            "tip": "Die Busse bringen Sie in die Nähe der Haupteinkaufsstraßen."
+          },
+          {
+            "name": "Marktbesuch",
+            "tip": "Planen Sie Ihre Reise so, dass Sie einen der Wochenmärkte mit dem Bus erreichen können."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi üzletek",
+            "tip": "A buszok a fő bevásárlóutcák közelébe visznek."
+          },
+          {
+            "name": "Piaci látogatás",
+            "tip": "Tervezd úgy az utazásodat, hogy busszal elérd a heti piacok egyikét."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine locale",
+            "tip": "Autobuzele vă vor duce în apropierea principalelor străzi comerciale."
+          },
+          {
+            "name": "Vizită la piață",
+            "tip": "Planificați-vă călătoria astfel încât să puteți ajunge la una dintre piețele săptămânale cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Shops",
+            "tip": "The buses will get you close to the main shopping streets."
+          },
+          {
+            "name": "Market Visit",
+            "tip": "Plan your trip to coincide with one of the weekly markets, reachable by bus."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine wiederaufladbare Buskarte (Tarjeta Bus) für günstigere Tarife.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, besonders am Abend.",
+          "Die Busse können im Sommer sehr voll werden, seien Sie also geduldig.",
+          "Nutzen Sie die Klimaanlage im Bus, um sich an heißen Tagen abzukühlen."
+        ],
+        "hu": [
+          "Vásárolj újratölthető buszkártyát (Tarjeta Bus) az olcsóbb viteldíjakért.",
+          "Ellenőrizd előre a buszmenetrendet, különösen este.",
+          "A buszok nyáron nagyon zsúfoltak lehetnek, légy türelmes.",
+          "Használd a busz légkondicionálóját, hogy lehűlj a forró napokon."
+        ],
+        "ro": [
+          "Cumpărați un card de autobuz reîncărcabil (Tarjeta Bus) pentru tarife mai ieftine.",
+          "Verificați din timp orarele autobuzelor, mai ales seara.",
+          "Autobuzele pot deveni foarte aglomerate în timpul verii, așa că aveți răbdare.",
+          "Folosiți aerul condiționat din autobuz pentru a vă răcori în zilele caniculare."
+        ],
+        "en": [
+          "Buy a rechargeable bus card (Tarjeta Bus) for cheaper fares.",
+          "Check the bus schedules in advance, especially in the evening.",
+          "Buses can get very crowded in the summer, so be patient.",
+          "Use the air conditioning on the bus to cool down on hot days."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1123 @@
+{
+  "city_id": "switzerland-schlieren-cities-v2",
+  "anchor": {
+    "name": "Schlieren",
+    "coords": [
+      8.448,
+      47.396
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtplatz Schlieren",
+            "hu": "Schlieren Főtere",
+            "ro": "Piața Centrală Schlieren",
+            "en": "Schlieren Town Square"
+          },
+          "coords": [
+            8.4475,
+            47.3958
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Kaffee in einem der Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
+            "en": "Start your day with a coffee at one of the square's cafés."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtkirche Schlieren",
+            "hu": "Schliereni Városi Templom",
+            "ro": "Biserica Municipală Schlieren",
+            "en": "Schlieren City Church"
+          },
+          "coords": [
+            8.4465,
+            47.3965
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die modernen Glasfenster, die einen Kontrast zur alten Architektur bilden.",
+            "hu": "Figyelje meg a modern ólomüveg ablakokat, amelyek kontrasztot alkotnak a régi építészettel.",
+            "ro": "Observați vitraliile moderne care contrastează cu arhitectura veche.",
+            "en": "Look for the modern stained-glass windows, a contrast to the old architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Stürmeierhuus",
+            "hu": "Stürmeierhuus Múzeum",
+            "ro": "Casa Stürmeierhuus",
+            "en": "Stürmeierhuus Museum"
+          },
+          "coords": [
+            8.4491,
+            47.3949
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Museum zeigt die lokale Geschichte und das frühere Dorfleben.",
+            "hu": "A múzeum a helyi történelmet és a korábbi falusi életet mutatja be.",
+            "ro": "Muzeul prezintă istoria locală și viața rurală de altădată.",
+            "en": "The museum showcases local history and former village life."
+          }
+        },
+        {
+          "name": {
+            "de": "Pischihof",
+            "hu": "Pischihof",
+            "ro": "Curtea Pischihof",
+            "en": "Pischihof"
+          },
+          "coords": [
+            8.4505,
+            47.3971
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:46",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein schönes Beispiel lokaler Architektur, heute ein privates Wohnhaus.",
+            "hu": "A helyi építészet szép példája, ma magánlakóház.",
+            "ro": "Un exemplu frumos de arhitectură locală, acum o reședință privată.",
+            "en": "A fine example of local architecture, now a private residence."
+          }
+        },
+        {
+          "name": {
+            "de": "Gaswerk Schlieren & Gasometer",
+            "hu": "Schliereni Gázgyár és Gáztározó",
+            "ro": "Uzina de Gaz și Gazometrul Schlieren",
+            "en": "Gaswerk Schlieren & Gasometer"
+          },
+          "coords": [
+            8.4405,
+            47.4005
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie das Industriedenkmal, das heute ein Kulturzentrum ist. Mittagessen in der Nähe.",
+            "hu": "Fedezze fel az ipari műemléket, amely ma kulturális központ. Ebédeljen a közelben.",
+            "ro": "Explorați monumentul industrial, acum un centru cultural. Prânz în apropiere.",
+            "en": "Explore the industrial monument, now a cultural hub. Have lunch nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Schliere-Badi",
+            "hu": "Schliere-Badi Strand",
+            "ro": "Ștrandul Schliere-Badi",
+            "en": "Schliere-Badi Lido"
+          },
+          "coords": [
+            8.4552,
+            47.4023
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Perfekt für eine Erfrischung im Sommer oder einen entspannten Spaziergang.",
+            "hu": "Tökéletes egy nyári frissítőhöz vagy egy pihentető sétához.",
+            "ro": "Perfect pentru o pauză răcoritoare vara sau o plimbare relaxantă.",
+            "en": "Perfect for a refreshing break in summer or a relaxing walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Limmatraum",
+            "hu": "Séta a Limmat mentén",
+            "ro": "Plimbare pe malul râului Limmat",
+            "en": "Walk along the Limmatraum"
+          },
+          "coords": [
+            8.4585,
+            47.4041
+          ],
+          "category": "natural features",
+          "arrive_at": "15:37",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Geniessen Sie die Ruhe am Flussufer und beobachten Sie die Natur.",
+            "hu": "Élvezze a folyóparti csendet és figyelje a természetet.",
+            "ro": "Bucurați-vă de liniștea de pe malul râului și observați natura.",
+            "en": "Enjoy the tranquility of the riverbank and observe the nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Schlieren beginnt am belebten Stadtplatz, dem Herzen der Stadt. Von dort aus führt ein kurzer Spaziergang zur historischen Stadtkirche und zum lokalen Museum, dem Stürmeierhuus, wo Sie in die Vergangenheit eintauchen. Gegen Mittag spazieren Sie durch Wohngebiete zum ehemaligen Industrieviertel rund um das Gaswerk. Hier, wo einst gearbeitet wurde, finden Sie heute Kultur und Gastronomie. Nach dem Mittagessen führt Sie Ihr Weg entlang des Flusses Limmat. Sie entdecken die Schliere-Badi und den naturbelassenen Limmatraum. Zum Abschluss des Tages entspannen Sie am Wasser, bevor Sie den Rückweg antreten.",
+        "hu": "A schliereni nap a város szívében, az élettel teli Stadtplatzon kezdődik. Innen egy rövid séta vezet a történelmi városi templomhoz és a helyi múzeumhoz, a Stürmeierhuushoz. Dél körül lakónegyedeken keresztül sétál el az egykori ipari negyedbe a Gázgyár környékén, ahol ma kultúra és gasztronómia várja. Ebéd után útja a Limmat folyó mentén vezet, felfedezve a Schliere-Badi strandot és a természetes Limmatraumot. A nap végén a vízparton pihenhet.",
+        "ro": "Ziua ta în Schlieren începe în Piața Centrală, inima orașului. O scurtă plimbare te duce la biserica istorică și la muzeul local, Stürmeierhuus. Spre prânz, te plimbi prin zone rezidențiale către fostul cartier industrial din jurul Uzinei de Gaz, acum un centru cultural. După masă, drumul te poartă de-a lungul râului Limmat, descoperind ștrandul Schliere-Badi și zona naturală Limmatraum. La finalul zilei, te relaxezi pe malul apei.",
+        "en": "Your day in Schlieren starts at the lively Town Square, the heart of the city. A short walk takes you to the historic city church and the local museum, Stürmeierhuus. Around noon, you'll stroll through residential areas to the former industrial district around the Gaswerk, now a cultural hub. After lunch, your path leads along the Limmat river, discovering the Schliere-Badi lido and the natural Limmatraum. You'll end the day relaxing by the water."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zürcher Geschnetzeltes",
+            "tip": "Probieren Sie dieses klassische Kalbfleischgericht in einem traditionellen Restaurant wie dem 'Wirtschaft zum Pischihof'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zürcher Geschnetzeltes",
+            "tip": "Kóstolja meg ezt a klasszikus borjúételt egy hagyományos étteremben, mint például a 'Wirtschaft zum Pischihof'."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zürcher Geschnetzeltes",
+            "tip": "Încercați acest fel de mâncare clasic din vițel la un restaurant tradițional precum 'Wirtschaft zum Pischihof'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zürcher Geschnetzeltes",
+            "tip": "Try this classic veal dish at a traditional restaurant like 'Wirtschaft zum Pischihof'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Limmatufer",
+            "tip": "Finden Sie eine ruhige Bank entlang des Flusses und geniessen Sie die Stille.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Limmat-part",
+            "tip": "Keressen egy csendes padot a folyó mentén, és élvezze a nyugalmat.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Limmat",
+            "tip": "Găsiți o bancă liniștită de-a lungul râului și bucurați-vă de calm.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Limmat Riverbank",
+            "tip": "Find a quiet bench along the river and enjoy the tranquility.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt Schlieren",
+            "tip": "Wenn Sie an einem Markttag hier sind, finden Sie lokale Produkte und Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Schliereni heti piac",
+            "tip": "Ha piacnapon jár itt, helyi termékeket és különlegességeket talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală Schlieren",
+            "tip": "Dacă sunteți aici într-o zi de piață, veți găsi produse și specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Schlieren Weekly Market",
+            "tip": "If you're here on a market day, you'll find local products and specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag auf den Beinen sein werden.",
+          "Nehmen Sie eine Wasserflasche mit, besonders für den Spaziergang am Fluss.",
+          "Prüfen Sie die Öffnungszeiten des Stürmeierhuus-Museums im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap talpon lesz.",
+          "Vigyen magával egy vizes palackot, különösen a folyóparti sétához.",
+          "Előre ellenőrizze a Stürmeierhuus múzeum nyitvatartási idejét."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge pe jos toată ziua.",
+          "Luați o sticlă de apă, mai ales pentru plimbarea pe malul râului.",
+          "Verificați în avans orele de deschidere ale muzeului Stürmeierhuus."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be on your feet all day.",
+          "Bring a water bottle, especially for the walk along the river.",
+          "Check the opening hours of the Stürmeierhuus museum in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 8.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtplatz Schlieren",
+            "hu": "Schlieren Főtere",
+            "ro": "Piața Centrală Schlieren",
+            "en": "Schlieren Town Square"
+          },
+          "coords": [
+            8.4475,
+            47.3958
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Holen Sie sich Ihr Fahrrad und starten Sie die Tour im Zentrum.",
+            "hu": "Vegye át a kerékpárját és kezdje a túrát a központban.",
+            "ro": "Luați-vă bicicleta și începeți turul din centru.",
+            "en": "Pick up your bike and start the tour in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Gaswerk Schlieren",
+            "hu": "Schliereni Gázgyár",
+            "ro": "Uzina de Gaz Schlieren",
+            "en": "Gaswerk Schlieren"
+          },
+          "coords": [
+            8.4405,
+            47.4005
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um die beeindruckende Industriearchitektur zu bewundern.",
+            "hu": "Egy rövid megálló, hogy megcsodálja a lenyűgöző ipari építészetet.",
+            "ro": "O scurtă oprire pentru a admira arhitectura industrială impresionantă.",
+            "en": "A quick stop to admire the impressive industrial architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Gasometer",
+            "hu": "Gáztározó",
+            "ro": "Gazometru",
+            "en": "Gasometer"
+          },
+          "coords": [
+            8.4411,
+            47.4001
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:28",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der restaurierte Turm ist ein Wahrzeichen von Schlierens industrieller Vergangenheit.",
+            "hu": "A felújított torony Schlieren ipari múltjának egyik jelképe.",
+            "ro": "Turnul restaurat este un simbol al trecutului industrial al orașului Schlieren.",
+            "en": "The restored tower is a landmark of Schlieren's industrial past."
+          }
+        },
+        {
+          "name": {
+            "de": "Limmatraum",
+            "hu": "Limmat-part",
+            "ro": "Zona Limmat",
+            "en": "Limmatraum"
+          },
+          "coords": [
+            8.4585,
+            47.4041
+          ],
+          "category": "natural features",
+          "arrive_at": "11:08",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahren Sie am Fluss entlang und geniessen Sie die Natur. Zeit für ein Picknick.",
+            "hu": "Kerékpározzon a folyó mentén és élvezze a természetet. Ideje egy pikniknek.",
+            "ro": "Mergeți cu bicicleta de-a lungul râului și bucurați-vă de natură. Timp pentru un picnic.",
+            "en": "Cycle along the river and enjoy the nature. Time for a picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Schliere-Badi",
+            "hu": "Schliere-Badi Strand",
+            "ro": "Ștrandul Schliere-Badi",
+            "en": "Schliere-Badi Lido"
+          },
+          "coords": [
+            8.4552,
+            47.4023
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Nehmen Sie ein erfrischendes Bad oder entspannen Sie einfach in der Sonne. Mittagessen hier.",
+            "hu": "Vegyen egy frissítő fürdőt, vagy csak pihenjen a napon. Ebédeljen itt.",
+            "ro": "Faceți o baie răcoritoare sau pur și simplu relaxați-vă la soare. Prânz aici.",
+            "en": "Take a refreshing dip or just relax in the sun. Lunch here."
+          }
+        },
+        {
+          "name": {
+            "de": "Pischihof",
+            "hu": "Pischihof",
+            "ro": "Curtea Pischihof",
+            "en": "Pischihof"
+          },
+          "coords": [
+            8.4505,
+            47.3971
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:42",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Fotostopp auf dem Rückweg ins Zentrum.",
+            "hu": "Egy rövid fotómegálló a központ felé vezető úton.",
+            "ro": "O scurtă oprire pentru fotografii în drum spre centru.",
+            "en": "A quick photo stop on the way back to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Stürmeierhuus",
+            "hu": "Stürmeierhuus Múzeum",
+            "ro": "Casa Stürmeierhuus",
+            "en": "Stürmeierhuus Museum"
+          },
+          "coords": [
+            8.4491,
+            47.3949
+          ],
+          "category": "museums",
+          "arrive_at": "14:03",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Geschichte von Schlieren ein.",
+            "hu": "Merüljön el Schlieren történelmében.",
+            "ro": "Scufundați-vă în istoria orașului Schlieren.",
+            "en": "Immerse yourself in the history of Schlieren."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtkirche Schlieren",
+            "hu": "Schliereni Városi Templom",
+            "ro": "Biserica Municipală Schlieren",
+            "en": "Schlieren City Church"
+          },
+          "coords": [
+            8.4465,
+            47.3965
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem Moment der Ruhe in der Kirche.",
+            "hu": "Zárja a túrát egy csendes pillanattal a templomban.",
+            "ro": "Încheiați turul cu un moment de liniște în biserică.",
+            "en": "End your tour with a moment of peace in the church."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel und beginnen Sie Ihre Radtour am Stadtplatz von Schlieren. Die Route führt Sie zuerst zu den industriellen Wahrzeichen, dem Gaswerk und dem Gasometer. Von dort aus radeln Sie in die Natur, entlang des idyllischen Limmatufers. Gönnen Sie sich eine lange Mittagspause und vielleicht ein Bad in der Schliere-Badi. Am Nachmittag geht es zurück ins Zentrum, wo Sie kulturelle Stopps am Pischihof, dem Stürmeierhuus und der Stadtkirche einlegen. Eine perfekte Mischung aus Industrie, Natur und Kultur.",
+        "hu": "Pattanjon nyeregbe, és kezdje kerékpártúráját a schliereni Stadtplatzról. Az útvonal először az ipari nevezetességekhez, a Gázgyárhoz és a Gáztározóhoz vezet. Onnan a természetbe teker, az idilli Limmat-part mentén. Tartson egy hosszú ebédszünetet és csobbanjon egyet a Schliere-Badiban. Délután visszatér a központba, ahol kulturális megállókat iktat be a Pischihofnál, a Stürmeierhuusnál és a városi templomnál. Az ipar, a természet és a kultúra tökéletes keveréke.",
+        "ro": "Urcați pe bicicletă și începeți turul din Piața Centrală a orașului Schlieren. Traseul vă duce mai întâi la monumentele industriale, Uzina de Gaz și Gazometrul. De acolo, pedalați spre natură, de-a lungul malului idilic al râului Limmat. Acordați-vă o pauză de prânz lungă și poate o baie la Schliere-Badi. După-amiaza, vă întoarceți în centru pentru opriri culturale la Pischihof, Stürmeierhuus și Biserica Municipală. Un amestec perfect de industrie, natură și cultură.",
+        "en": "Get on your bike and start your tour from Schlieren's Town Square. The route first takes you to the industrial landmarks, the Gaswerk and the Gasometer. From there, you'll cycle into nature, along the idyllic banks of the Limmat. Treat yourself to a long lunch break and maybe a swim at the Schliere-Badi. In the afternoon, it's back to the center for cultural stops at Pischihof, Stürmeierhuus, and the City Church. A perfect mix of industry, nature, and culture."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Picknick am Limmatufer",
+            "tip": "Kaufen Sie lokale Produkte auf dem Markt und geniessen Sie ein Picknick mit Aussicht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piknik a Limmat-parton",
+            "tip": "Vásároljon helyi termékeket a piacon, és piknikezzen egy jót a kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Picnic pe malul Limmatului",
+            "tip": "Cumpărați produse locale de la piață și bucurați-vă de un picnic cu priveliște."
+          }
+        ],
+        "en": [
+          {
+            "name": "Picnic on the Limmat riverbank",
+            "tip": "Buy some local produce at the market and enjoy a picnic with a view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fussweg entlang der Limmat",
+            "tip": "Ein ruhiger Radweg abseits der Strassen, perfekt zum Entspannen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyalogút a Limmat mentén",
+            "tip": "Egy csendes kerékpárút az utaktól távol, tökéletes a kikapcsolódáshoz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul Limmatului",
+            "tip": "O pistă de biciclete liniștită, departe de drumuri, perfectă pentru relaxare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike path along the Limmat",
+            "tip": "A quiet cycle path away from the roads, perfect for relaxing.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrrad-Zubehör",
+            "tip": "Lokale Fahrradläden bieten oft spezielle Ausrüstung oder Souvenirs an."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpár-kiegészítők",
+            "tip": "A helyi kerékpárboltok gyakran kínálnak speciális felszereléseket vagy ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Accesorii pentru biciclete",
+            "tip": "Magazinele locale de biciclete oferă adesea echipamente speciale sau suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Accessories",
+            "tip": "Local bike shops often offer special gear or souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck, bevor Sie losfahren.",
+          "Nutzen Sie die gut ausgebauten Radwege entlang der Limmat.",
+          "Schliessen Sie Ihr Fahrrad an den Haltestellen immer gut ab."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a keréknyomást.",
+          "Használja a jól kiépített kerékpárutakat a Limmat mentén.",
+          "Mindig zárja le a kerékpárt a megállóknál."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope înainte de a porni.",
+          "Folosiți pistele de biciclete bine dezvoltate de-a lungul Limmatului.",
+          "Încuiati întotdeauna bicicleta la opriri."
+        ],
+        "en": [
+          "Check your tire pressure before you set off.",
+          "Use the well-developed cycle paths along the Limmat.",
+          "Always lock your bike securely at the stops."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 6.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum Schlieren",
+            "hu": "Parkoló, Schlieren Központ",
+            "ro": "Parcare Centru Schlieren",
+            "en": "Parking Schlieren Center"
+          },
+          "coords": [
+            8.448,
+            47.395
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier, um das Stadtzentrum zu Fuss zu erkunden.",
+            "hu": "Parkoljon itt, hogy gyalog fedezze fel a városközpontot.",
+            "ro": "Parcați aici pentru a explora centrul orașului pe jos.",
+            "en": "Park here to explore the city center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtplatz & Stadtkirche Schlieren",
+            "hu": "Főtér és Városi Templom, Schlieren",
+            "ro": "Piața Centrală și Biserica Municipală Schlieren",
+            "en": "Town Square & City Church Schlieren"
+          },
+          "coords": [
+            8.447,
+            47.396
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:18",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der Platz und die Kirche liegen direkt nebeneinander.",
+            "hu": "A tér és a templom közvetlenül egymás mellett található.",
+            "ro": "Piața și biserica sunt situate una lângă cealaltă.",
+            "en": "The square and the church are located right next to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Stürmeierhuus",
+            "hu": "Stürmeierhuus Múzeum",
+            "ro": "Casa Stürmeierhuus",
+            "en": "Stürmeierhuus Museum"
+          },
+          "coords": [
+            8.4491,
+            47.3949
+          ],
+          "category": "museums",
+          "arrive_at": "10:23",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Stadtplatz zum Heimatmuseum.",
+            "hu": "Egy rövid séta a főtértől a helytörténeti múzeumig.",
+            "ro": "O scurtă plimbare de la piața centrală la muzeul local.",
+            "en": "A short walk from the town square to the local history museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Gaswerk Areal",
+            "hu": "Parkoló, Gázgyár Terület",
+            "ro": "Parcare Zona Uzinei de Gaz",
+            "en": "Parking Gaswerk Area"
+          },
+          "coords": [
+            8.44,
+            47.401
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:03",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum nächsten Cluster und parken Sie. Zeit für das Mittagessen und die Erkundung des Industrieerbes.",
+            "hu": "Vezessen a következő ponthoz és parkoljon. Itt az ebédidő és az ipari örökség felfedezése.",
+            "ro": "Conduceți la următorul grup de obiective și parcați. Timp pentru prânz și explorarea patrimoniului industrial.",
+            "en": "Drive to the next cluster and park. Time for lunch and exploring the industrial heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Gasometer & Gaswerk Schlieren",
+            "hu": "Gáztározó és Gázgyár, Schlieren",
+            "ro": "Gazometrul și Uzina de Gaz Schlieren",
+            "en": "Gasometer & Gaswerk Schlieren"
+          },
+          "coords": [
+            8.4405,
+            47.4005
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:06",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beide Sehenswürdigkeiten befinden sich auf demselben Gelände.",
+            "hu": "Mindkét látnivaló ugyanazon a területen található.",
+            "ro": "Ambele atracții sunt situate în aceeași zonă.",
+            "en": "Both sights are located on the same site."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Limmatraum & Schliere-Badi",
+            "hu": "Utazás a Limmat-parthoz és a Schliere-Badihoz",
+            "ro": "Deplasare spre Limmatraum și Schliere-Badi",
+            "en": "Drive to Limmatraum & Schliere-Badi"
+          },
+          "coords": [
+            8.456,
+            47.403
+          ],
+          "category": "natural features",
+          "arrive_at": "15:06",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Der letzte Halt des Tages für einen entspannten Spaziergang oder eine Erfrischung.",
+            "hu": "A nap utolsó megállója egy pihentető sétához vagy felfrissüléshez.",
+            "ro": "Ultima oprire a zilei pentru o plimbare relaxantă sau o băutură răcoritoare.",
+            "en": "The last stop of the day for a relaxing walk or a refreshment."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Schlieren nutzt das Cluster-Prinzip. Sie parken im Zentrum und erkunden den Stadtplatz, die Kirche und das Museum zu Fuss. Dieser erste Cluster gibt Ihnen einen Einblick in das Herz der Stadt. Danach fahren Sie zum zweiten Cluster, dem Gaswerk-Areal. Nach dem Mittagessen entdecken Sie die Industriedenkmäler. Zum Abschluss des Tages fahren Sie zum Limmatraum. Hier können Sie am Wasser spazieren, im Sommer baden und den Tag entspannt ausklingen lassen, bevor Sie die Heimreise antreten.",
+        "hu": "Az autós napja Schlierenben a klaszter-elvet követi. Parkoljon a központban, és gyalog fedezze fel a főteret, a templomot és a múzeumot. Ez az első klaszter betekintést nyújt a város szívébe. Ezután autózzon a második klaszterhez, a Gázgyár területére, ahol ebéd után felfedezheti az ipari műemlékeket. A nap végén a Limmat-parthoz hajt, ahol sétálhat, nyáron úszhat, és pihentetően zárhatja a napot, mielőtt hazaindul.",
+        "ro": "Ziua ta cu mașina în Schlieren folosește principiul clusterelor. Parchezi în centru și explorezi pe jos Piața Centrală, biserica și muzeul. Acest prim grup îți oferă o perspectivă asupra inimii orașului. Apoi, conduci spre al doilea cluster, zona Uzinei de Gaz, unde, după prânz, descoperi monumentele industriale. La finalul zilei, te deplasezi spre Limmatraum pentru o plimbare pe malul apei, o baie vara și o încheiere relaxantă a zilei înainte de a pleca.",
+        "en": "Your car day in Schlieren uses the cluster principle. You park in the center and explore the town square, church, and museum on foot. This first cluster gives you insight into the heart of the city. Then, you drive to the second cluster, the Gaswerk area, where after lunch, you discover the industrial monuments. To end the day, you drive to the Limmatraum for a walk by the water, a swim in summer, and a relaxing conclusion to your day before heading home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant im Gaswerk-Areal",
+            "tip": "Verbinden Sie die Erkundung des Industrieerbes mit einem modernen Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a Gázgyár területén",
+            "tip": "Kösse össze az ipari örökség felfedezését egy modern ebéddel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant în zona Uzinei de Gaz",
+            "tip": "Combinați explorarea patrimoniului industrial cu un prânz modern."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant in the Gaswerk Area",
+            "tip": "Combine exploring the industrial heritage with a modern lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bank am Limmatufer",
+            "tip": "Nach der Fahrt ist ein ruhiger Moment am Fluss genau das Richtige.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pad a Limmat-parton",
+            "tip": "Az autózás után egy csendes pillanat a folyóparton pont megfelelő.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bancă pe malul Limmatului",
+            "tip": "După o călătorie cu mașina, un moment de liniște pe malul râului este exact ceea ce trebuie.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bench on the Limmat riverbank",
+            "tip": "After the drive, a quiet moment by the river is just the thing.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Kaufen Sie Proviant für die Fahrt, z.B. ein 'Züri-Tirggel'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékség",
+            "tip": "Vásároljon útravalót, például egy 'Züri-Tirggel'-t."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie locală",
+            "tip": "Cumpărați provizii pentru drum, de exemplu un 'Züri-Tirggel'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bakery",
+            "tip": "Buy provisions for the road, for example a 'Züri-Tirggel'."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich im Voraus über Parkmöglichkeiten und -gebühren.",
+          "Ein Navigationsgerät hilft Ihnen, die verschiedenen Cluster leicht zu finden.",
+          "Lassen Sie keine Wertsachen sichtbar im Auto liegen."
+        ],
+        "hu": [
+          "Előre tájékozódjon a parkolási lehetőségekről és díjakról.",
+          "A navigációs eszköz segít könnyen megtalálni a különböző klasztereket.",
+          "Ne hagyjon értékeket látható helyen az autóban."
+        ],
+        "ro": [
+          "Informați-vă în avans despre opțiunile de parcare și taxele aferente.",
+          "Un sistem de navigație vă ajută să găsiți cu ușurință diferitele grupuri de obiective.",
+          "Nu lăsați obiecte de valoare la vedere în mașină."
+        ],
+        "en": [
+          "Find out about parking options and fees in advance.",
+          "A navigation device will help you find the different clusters easily.",
+          "Do not leave valuables visible in the car."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 5.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft Bahnhof Schlieren",
+            "hu": "Érkezés a schliereni pályaudvarra",
+            "ro": "Sosire la Gara Schlieren",
+            "en": "Arrival at Schlieren Station"
+          },
+          "coords": [
+            8.445,
+            47.398
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel.",
+            "hu": "Vásároljon napijegyet a tömegközlekedéshez.",
+            "ro": "Cumpărați un bilet de o zi pentru transportul public.",
+            "en": "Buy a day pass for public transport."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtplatz & Stadtkirche",
+            "hu": "Főtér és Városi Templom",
+            "ro": "Piața Centrală și Biserica Municipală",
+            "en": "Town Square & City Church"
+          },
+          "coords": [
+            8.447,
+            47.396
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:25",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der erste Spaziergang des Tages führt Sie ins historische Herz.",
+            "hu": "A nap első sétája a történelmi szívbe vezet.",
+            "ro": "Prima plimbare a zilei vă duce în inima istorică a orașului.",
+            "en": "The first walk of the day takes you into the historic heart."
+          }
+        },
+        {
+          "name": {
+            "de": "Stürmeierhuus",
+            "hu": "Stürmeierhuus Múzeum",
+            "ro": "Casa Stürmeierhuus",
+            "en": "Stürmeierhuus Museum"
+          },
+          "coords": [
+            8.4491,
+            47.3949
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Geschichte der Stadt in diesem charmanten Museum.",
+            "hu": "Fedezze fel a város történetét ebben a bájos múzeumban.",
+            "ro": "Explorați istoria orașului în acest muzeu fermecător.",
+            "en": "Explore the city's history in this charming museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Gaswerk",
+            "hu": "Buszozás a Gázgyárhoz",
+            "ro": "Călătorie cu autobuzul la Uzina de Gaz",
+            "en": "Bus ride to the Gaswerk"
+          },
+          "coords": [
+            8.4405,
+            47.4005
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:15",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zum zweiten Cluster des Tages. Mittagessen und Erkundung.",
+            "hu": "Menjen busszal a nap második klaszteréhez. Ebéd és felfedezés.",
+            "ro": "Luați autobuzul spre al doilea grup de obiective al zilei. Prânz și explorare.",
+            "en": "Take the bus to the second cluster of the day. Lunch and exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Gasometer",
+            "hu": "Gáztározó",
+            "ro": "Gazometru",
+            "en": "Gasometer"
+          },
+          "coords": [
+            8.4411,
+            47.4001
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:18",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptgebäude des Gaswerks.",
+            "hu": "Rövid séta a Gázgyár főépületétől.",
+            "ro": "O scurtă plimbare de la clădirea principală a uzinei de gaz.",
+            "en": "A short walk from the main Gaswerk building."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt & Spaziergang zur Limmat",
+            "hu": "Buszozás és séta a Limmathoz",
+            "ro": "Călătorie cu autobuzul și plimbare la Limmat",
+            "en": "Bus ride & walk to the Limmat"
+          },
+          "coords": [
+            8.457,
+            47.4035
+          ],
+          "category": "natural features",
+          "arrive_at": "15:18",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einer Busfahrt und einem Spaziergang in der Natur.",
+            "hu": "Zárja a napot egy buszozással és egy sétával a természetben.",
+            "ro": "Încheiați ziua cu o călătorie cu autobuzul și o plimbare în natură.",
+            "en": "End the day with a bus ride and a walk in nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit einer Tageskarte für den öffentlichen Verkehr beginnt Ihr Tag am Bahnhof Schlieren. Zu Fuss erkunden Sie den ersten Cluster: das historische Zentrum mit Stadtplatz, Kirche und Museum. Ein Bus bringt Sie bequem zum zweiten Cluster, dem ehemaligen Gaswerk-Areal, wo Sie zu Mittag essen und in die Industriegeschichte eintauchen. Am Nachmittag bringt Sie ein weiterer Bus in die Nähe der Limmat. Ein entspannter Spaziergang am Flussufer rundet Ihren erlebnisreichen Tag ab, bevor Sie mit dem Bus zurück zum Bahnhof fahren.",
+        "hu": "Egy napijeggyel a tömegközlekedéshez a nap a schliereni pályaudvaron kezdődik. Gyalogosan fedezi fel az első klasztert: a történelmi központot a főtérrel, templommal és múzeummal. Egy busz kényelmesen elviszi a második klaszterhez, az egykori Gázgyár területére, ahol megebédelhet. Délután egy másik busz viszi a Limmat közelébe. Egy pihentető séta a folyóparton zárja az élménydús napot, mielőtt visszabuszozna a pályaudvarra.",
+        "ro": "Cu un bilet de o zi pentru transportul public, ziua ta începe la gara din Schlieren. Explorezi pe jos primul grup de obiective: centrul istoric cu piața, biserica și muzeul. Un autobuz te duce confortabil la al doilea grup, fosta zonă a Uzinei de Gaz, unde iei prânzul. După-amiaza, un alt autobuz te duce aproape de râul Limmat. O plimbare relaxantă pe malul apei încheie ziua ta plină de evenimente, înainte de a te întoarce la gară.",
+        "en": "With a day pass for public transport, your day begins at Schlieren station. You'll explore the first cluster on foot: the historic center with its town square, church, and museum. A bus then takes you comfortably to the second cluster, the former Gaswerk area, where you'll have lunch. In the afternoon, another bus takes you near the Limmat river. A relaxing walk along the riverbank rounds off your eventful day before you take the bus back to the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei-Café am Bahnhof",
+            "tip": "Ein schneller Kaffee und ein Gipfeli, bevor das Abenteuer beginnt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség-kávézó a pályaudvarnál",
+            "tip": "Egy gyors kávé és egy croissant, mielőtt a kaland elkezdődik."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenea-brutărie la gară",
+            "tip": "O cafea rapidă și un croissant înainte de a începe aventura."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery-Café at the station",
+            "tip": "A quick coffee and a croissant before the adventure begins."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Leseecke im Stürmeierhuus",
+            "tip": "Einige Museen haben ruhige Ecken, die zum Verweilen einladen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olvasósarok a Stürmeierhuusban",
+            "tip": "Néhány múzeumnak vannak csendes zugai, amelyek elidőzésre csábítanak.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Colț de lectură în Stürmeierhuus",
+            "tip": "Unele muzee au colțuri liniștite care invită la relaxare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Reading corner in Stürmeierhuus",
+            "tip": "Some museums have quiet corners that invite you to linger.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Bahnhof",
+            "tip": "Besorgen Sie sich eine lokale Zeitung oder ein Magazin für die Busfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Újságos a pályaudvarnál",
+            "tip": "Szerezzen be egy helyi újságot vagy magazint a buszútra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la gară",
+            "tip": "Luați un ziar local sau o revistă pentru călătoria cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the station",
+            "tip": "Get a local newspaper or magazine for the bus ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die Fahrplan-App der lokalen Verkehrsbetriebe herunter.",
+          "Eine Tageskarte ist in der Regel günstiger als mehrere Einzeltickets.",
+          "Achten Sie auf die Abfahrtszeiten, um lange Wartezeiten zu vermeiden."
+        ],
+        "hu": [
+          "Töltse le a helyi közlekedési vállalat menetrend-alkalmazását.",
+          "A napijegy általában olcsóbb, mint több egyedi jegy.",
+          "Figyeljen az indulási időkre, hogy elkerülje a hosszú várakozást."
+        ],
+        "ro": [
+          "Descărcați aplicația cu orarul companiei locale de transport.",
+          "Un bilet de o zi este de obicei mai ieftin decât mai multe bilete individuale.",
+          "Fiți atenți la orele de plecare pentru a evita timpii lungi de așteptare."
+        ],
+        "en": [
+          "Download the timetable app of the local transport company.",
+          "A day ticket is usually cheaper than several single tickets.",
+          "Pay attention to departure times to avoid long waits."
+        ]
+      }
+    }
+  }
+}

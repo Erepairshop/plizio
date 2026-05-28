@@ -1,0 +1,1464 @@
+{
+  "city_id": "uk-perth-cities-v2",
+  "anchor": {
+    "name": "Perth",
+    "coords": [
+      -3.4308,
+      56.395
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "St. John's Kirk",
+            "hu": "Szent János templom",
+            "ro": "Biserica Sf. Ioan (St. John's Kirk)",
+            "en": "St John's Kirk"
+          },
+          "coords": [
+            -3.428,
+            56.3955
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden Buntglasfenster.",
+            "hu": "Figyelje meg a lenyűgöző ólomüveg ablakokat.",
+            "ro": "Fiți atenți la vitraliile impresionante.",
+            "en": "Look out for the impressive stained-glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Perth Museum und Kunstgalerie",
+            "hu": "Perth Múzeum és Művészeti Galéria",
+            "ro": "Muzeul și Galeria de Artă din Perth",
+            "en": "Perth Museum and Art Gallery"
+          },
+          "coords": [
+            -3.4345,
+            56.397
+          ],
+          "category": "museums",
+          "arrive_at": "10:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Die naturhistorische Abteilung ist überraschend fesselnd.",
+            "hu": "A természettudományi kiállítás meglepően lebilincselő.",
+            "ro": "Secțiunea de istorie naturală este surprinzător de captivantă.",
+            "en": "The natural history section is surprisingly captivating."
+          }
+        },
+        {
+          "name": {
+            "de": "Perth Concert Hall",
+            "hu": "Perthi Hangversenyterem",
+            "ro": "Sala de Concerte Perth",
+            "en": "Perth Concert Hall"
+          },
+          "coords": [
+            -3.432,
+            56.396
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:48",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Prüfen Sie, ob tagsüber kostenlose Ausstellungen stattfinden.",
+            "hu": "Nézze meg, vannak-e ingyenes nappali kiállítások.",
+            "ro": "Verificați dacă există expoziții gratuite în timpul zilei.",
+            "en": "Check for any free daytime exhibitions inside."
+          }
+        },
+        {
+          "name": {
+            "de": "North Inch",
+            "hu": "North Inch park",
+            "ro": "Parcul North Inch",
+            "en": "North Inch"
+          },
+          "coords": [
+            -3.435,
+            56.402
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für ein Picknick-Mittagessen am Fluss.",
+            "hu": "Tökéletes hely egy piknik ebédhez a folyóparton.",
+            "ro": "Un loc perfect pentru un prânz la picnic lângă râu.",
+            "en": "A perfect spot for a picnic lunch by the river."
+          }
+        },
+        {
+          "name": {
+            "de": "South Inch",
+            "hu": "South Inch park",
+            "ro": "Parcul South Inch",
+            "en": "South Inch"
+          },
+          "coords": [
+            -3.43,
+            56.388
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:23",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Weniger belebt als North Inch, ideal für einen ruhigen Spaziergang.",
+            "hu": "Kevésbé forgalmas, mint a North Inch, ideális egy csendes sétához.",
+            "ro": "Mai puțin aglomerat decât North Inch, ideal pentru o plimbare liniștită.",
+            "en": "Less busy than North Inch, great for a quiet stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Branklyn Garden",
+            "hu": "Branklyn-kert",
+            "ro": "Grădina Branklyn",
+            "en": "Branklyn Garden"
+          },
+          "coords": [
+            -3.418,
+            56.389
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:43",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein Muss für Pflanzenliebhaber, besonders im Frühling.",
+            "hu": "A növények szerelmeseinek kötelező, különösen tavasszal.",
+            "ro": "O vizită obligatorie pentru iubitorii de plante, mai ales primăvara.",
+            "en": "A must-visit for plant lovers, especially in spring."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Herzen von Perth mit einem Besuch der St. John's Kirk, bevor Sie in die Kultur im Perth Museum eintauchen. Nach dem Mittagessen lädt der weitläufige North Inch Park zu einem entspannten Spaziergang am Fluss Tay ein. Am Nachmittag entdecken Sie den ruhigeren South Inch und beenden Ihre Tour im botanischen Paradies Branklyn Garden. Ein perfekter Tag zu Fuß, der Geschichte, Natur und Kultur miteinander verbindet.",
+        "hu": "Kezdje a napot Perth történelmi szívében, látogasson el a Szent János-templomba, majd merüljön el a kultúrában a Perth Múzeumban. Ebéd után a tágas North Inch park hívogat egy pihentető sétára a Tay folyó mentén. Délután fedezze fel a csendesebb South Inch parkot, és fejezze be a túrát a Branklyn-kert botanikus paradicsomában. Egy tökéletes gyalogos nap, amely ötvözi a történelmet, a természetet és a kultúrát.",
+        "ro": "Începeți-vă ziua în inima istorică a orașului Perth cu o vizită la St. John's Kirk, înainte de a vă cufunda în cultură la Muzeul Perth. După prânz, întinsul parc North Inch vă invită la o plimbare relaxantă de-a lungul râului Tay. Spre după-amiază, explorați mai liniștitul South Inch și încheiați-vă turul în paradisul botanic al Grădinii Branklyn. O zi perfectă pe jos, îmbinând istoria, natura și cultura.",
+        "en": "Start your day in Perth's historic heart with a visit to St. John's Kirk before delving into culture at the Perth Museum. After lunch, the expansive North Inch park calls for a relaxing stroll along the River Tay. In the afternoon, explore the quieter South Inch and finish your tour at the botanical paradise of Branklyn Garden. A perfect day on foot, blending history, nature, and culture."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Haggis, Neeps & Tatties",
+            "tip": "Probieren Sie die schottische Nationalspeise im The Bothy. Eine moderne und köstliche Variante."
+          },
+          {
+            "name": "Cullen Skink",
+            "tip": "Eine cremige geräucherte Schellfischsuppe, perfekt für einen kühlen Tag. In vielen traditionellen Pubs erhältlich."
+          },
+          {
+            "name": "Sticky Toffee Pudding",
+            "tip": "Beenden Sie Ihre Mahlzeit mit diesem klassischen britischen Dessert. Suchen Sie es im 63 Tay Street Restaurant."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Haggis, tarlórépával és krumplival",
+            "tip": "Kóstolja meg Skócia nemzeti ételét a The Bothy-ban. Modern és ízletes fogás."
+          },
+          {
+            "name": "Cullen Skink",
+            "tip": "Krémes füstölt foltos tőkehal leves, tökéletes egy hűvös napra. Sok hagyományos kocsmában kapható."
+          },
+          {
+            "name": "Ragacsos karamellpuding",
+            "tip": "Zárja az étkezést ezzel a klasszikus brit desszerttel. Keresse a 63 Tay Street Restaurant-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Haggis, Neeps & Tatties",
+            "tip": "Încercați mâncarea națională scoțiană la The Bothy. O interpretare modernă și delicioasă."
+          },
+          {
+            "name": "Cullen Skink",
+            "tip": "O supă cremoasă de eglefin afumat, perfectă pentru o zi răcoroasă. Disponibilă în multe pub-uri tradiționale."
+          },
+          {
+            "name": "Budincă de caramel lipicios",
+            "tip": "Încheiați-vă masa cu acest desert britanic clasic. Căutați-l la restaurantul 63 Tay Street."
+          }
+        ],
+        "en": [
+          {
+            "name": "Haggis, Neeps & Tatties",
+            "tip": "Try Scotland's national dish at The Bothy. A modern and delicious take."
+          },
+          {
+            "name": "Cullen Skink",
+            "tip": "A creamy smoked haddock soup, perfect for a chilly day. Available in many traditional pubs."
+          },
+          {
+            "name": "Sticky Toffee Pudding",
+            "tip": "Finish your meal with this classic British dessert. Look for it at 63 Tay Street Restaurant."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kinnoull Hill",
+            "tip": "Steigen Sie auf den Gipfel für einen Panoramablick über Perth und den Fluss Tay. Der Sonnenuntergang ist magisch.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Branklyn Garden",
+            "tip": "Finden Sie eine ruhige Bank zwischen den exotischen Pflanzen. Ein friedlicher Rückzugsort.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Tay",
+            "tip": "Machen Sie einen langsamen Spaziergang entlang des Flusses im North oder South Inch für einen Moment der Ruhe.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kinnoull-hegy",
+            "tip": "Másszon fel a csúcsra, ahonnan panorámás kilátás nyílik Perthre és a Tay folyóra. A naplemente varázslatos.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Branklyn-kert",
+            "tip": "Keressen egy csendes padot az egzotikus növények között. Békés menedék.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Tay folyó partja",
+            "tip": "Tegyen egy lassú sétát a folyó mentén a North vagy South Inch parkban egy csendes pillanatért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Kinnoull",
+            "tip": "Urcați în vârf pentru vederi panoramice ale Perthului și ale râului Tay. Apusul este magic.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina Branklyn",
+            "tip": "Găsiți o bancă liniștită printre plantele exotice. O evadare pașnică.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malurile râului Tay",
+            "tip": "Faceți o plimbare lentă de-a lungul râului în North sau South Inch pentru un moment de liniște.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kinnoull Hill",
+            "tip": "Climb to the top for panoramic views of Perth and the River Tay. Sunset is magical.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Branklyn Garden",
+            "tip": "Find a quiet bench amongst the exotic plants. A peaceful escape.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the River Tay",
+            "tip": "Take a slow walk along the river in North or South Inch for a moment of calm.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Perth Farmers' Market",
+            "tip": "Finden Sie lokale Produkte, Käse und Handwerk. Normalerweise am ersten Samstag im Monat."
+          },
+          {
+            "name": "St John's Shopping Centre",
+            "tip": "Für eine Mischung aus bekannten Marken und lokalen Geschäften im Stadtzentrum."
+          },
+          {
+            "name": "Whisky-Geschäfte",
+            "tip": "Kaufen Sie eine Flasche Scotch Whisky als perfektes Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Perthi termelői piac",
+            "tip": "Keressen helyi termékeket, sajtokat és kézműves árukat. Általában a hónap első szombatján."
+          },
+          {
+            "name": "St John's Bevásárlóközpont",
+            "tip": "Népszerű márkák és helyi üzletek keveréke a városközpontban."
+          },
+          {
+            "name": "Whisky boltok",
+            "tip": "Vásároljon egy üveg skót whiskyt tökéletes ajándékként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Fermierilor din Perth",
+            "tip": "Găsiți produse locale, brânzeturi și meșteșuguri. De obicei, în prima sâmbătă a lunii."
+          },
+          {
+            "name": "Centrul Comercial St John's",
+            "tip": "Pentru un amestec de mărci cunoscute și magazine locale în centrul orașului."
+          },
+          {
+            "name": "Magazine de whisky",
+            "tip": "Cumpărați o sticlă de whisky scoțian ca suvenir perfect."
+          }
+        ],
+        "en": [
+          {
+            "name": "Perth Farmers' Market",
+            "tip": "Find local produce, cheeses, and crafts. Usually on the first Saturday of the month."
+          },
+          {
+            "name": "St John's Shopping Centre",
+            "tip": "For a mix of high-street brands and local shops in the city centre."
+          },
+          {
+            "name": "Whisky Shops",
+            "tip": "Pick up a bottle of Scotch whisky for the perfect souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Ein leichter Regenmantel ist immer eine gute Idee in Schottland, auch wenn der Himmel klar aussieht.",
+          "Die meisten Museen und Galerien in Perth sind kostenlos, aber Spenden sind willkommen.",
+          "Überprüfen Sie die Öffnungszeiten von Branklyn Garden, da sie saisonal variieren."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "Egy könnyű esőkabát mindig jó ötlet Skóciában, még akkor is, ha az ég tisztának tűnik.",
+          "A legtöbb perthi múzeum és galéria ingyenes, de az adományokat szívesen fogadják.",
+          "Ellenőrizze a Branklyn-kert nyitvatartási idejét, mivel az szezonálisan változik."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, veți merge mult pe jos.",
+          "O haină de ploaie ușoară este întotdeauna o idee bună în Scoția, chiar dacă cerul pare senin.",
+          "Majoritatea muzeelor și galeriilor din Perth sunt gratuite, dar donațiile sunt binevenite.",
+          "Verificați programul de funcționare al Grădinii Branklyn, deoarece acesta variază în funcție de sezon."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "A light raincoat is always a good idea in Scotland, even if the sky looks clear.",
+          "Most museums and galleries in Perth are free to enter, but donations are welcome.",
+          "Check the opening times for Branklyn Garden as they can be seasonal."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "South Inch",
+            "hu": "South Inch park",
+            "ro": "Parcul South Inch",
+            "en": "South Inch"
+          },
+          "coords": [
+            -3.43,
+            56.388
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einer schnellen Runde durch den Park, um sich aufzuwärmen.",
+            "hu": "Kezdje a napot egy gyors körrel a parkban bemelegítésként.",
+            "ro": "Începeți-vă ziua cu o tură rapidă prin parc pentru a vă încălzi.",
+            "en": "Start your day with a quick loop of the park to warm up."
+          }
+        },
+        {
+          "name": {
+            "de": "St. John's Kirk",
+            "hu": "Szent János templom",
+            "ro": "Biserica Sf. Ioan (St. John's Kirk)",
+            "en": "St John's Kirk"
+          },
+          "coords": [
+            -3.428,
+            56.3955
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad in der Nähe an und bewundern Sie die Architektur.",
+            "hu": "Zárja le a biciklit a közelben, és csodálja meg az építészetet.",
+            "ro": "Legați-vă bicicleta în apropiere și admirați arhitectura.",
+            "en": "Lock your bike up nearby and admire the architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Perth Museum und Kunstgalerie",
+            "hu": "Perth Múzeum és Művészeti Galéria",
+            "ro": "Muzeul și Galeria de Artă din Perth",
+            "en": "Perth Museum and Art Gallery"
+          },
+          "coords": [
+            -3.4345,
+            56.397
+          ],
+          "category": "museums",
+          "arrive_at": "10:36",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort, um für eine Weile der schottischen Witterung zu entkommen.",
+            "hu": "Remek hely, hogy egy időre elmeneküljön a skót időjárás elől.",
+            "ro": "Un loc minunat pentru a scăpa de vremea scoțiană pentru o vreme.",
+            "en": "A great place to escape the Scottish weather for a while."
+          }
+        },
+        {
+          "name": {
+            "de": "North Inch",
+            "hu": "North Inch park",
+            "ro": "Parcul North Inch",
+            "en": "North Inch"
+          },
+          "coords": [
+            -3.435,
+            56.402
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie die flachen Wege für eine gemütliche Radtour entlang des Flusses.",
+            "hu": "Élvezze a sík utakat egy kellemes biciklizéshez a folyó mentén.",
+            "ro": "Bucurați-vă de potecile plate pentru o plimbare relaxantă cu bicicleta de-a lungul râului.",
+            "en": "Enjoy the flat paths for a leisurely cycle along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Scone-Palast",
+            "hu": "Scone palota",
+            "ro": "Palatul Scone",
+            "en": "Scone Palace"
+          },
+          "coords": [
+            -3.425,
+            56.419
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:02",
+          "stay_min": 120,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Die Radtour hierher ist lohnend. Erkunden Sie das Gelände, nicht nur den Palast.",
+            "hu": "Megéri ide biciklizni. Fedezze fel a birtokot, ne csak a palotát.",
+            "ro": "Plimbarea cu bicicleta până aici merită. Explorați terenurile, nu doar palatul.",
+            "en": "The cycle ride out here is rewarding. Explore the grounds, not just the palace."
+          }
+        },
+        {
+          "name": {
+            "de": "Kinnoull Hill",
+            "hu": "Kinnoull-hegy",
+            "ro": "Dealul Kinnoull",
+            "en": "Kinnoull Hill"
+          },
+          "coords": [
+            -3.4,
+            56.396
+          ],
+          "category": "natural features",
+          "arrive_at": "16:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 33,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Eine anspruchsvolle Radtour, aber die Aussicht am Ende des Tages ist es wert.",
+            "hu": "Kihívást jelentő bicikliút, de a kilátás a nap végén megéri.",
+            "ro": "O urcare provocatoare cu bicicleta, dar priveliștea de la sfârșitul zilei merită.",
+            "en": "A challenging cycle up, but the view is worth it to end your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie mit dem Fahrrad am South Inch und radeln Sie ins Stadtzentrum, um die historische St. John's Kirk und das Perth Museum zu erkunden. Machen Sie eine Mittagspause im North Inch, einem perfekten Ort für ein Picknick. Am Nachmittag unternehmen Sie eine längere Radtour zum majestätischen Scone Palace. Schließen Sie den Tag mit einer anspruchsvollen, aber lohnenden Fahrt auf den Kinnoull Hill ab, um eine atemberaubende Aussicht zu genießen.",
+        "hu": "Induljon biciklivel a South Inch parkból, és tekerjen be a városközpontba, hogy felfedezze a történelmi Szent János-templomot és a Perth Múzeumot. Tartson ebédszünetet a North Inch parkban, ami tökéletes hely egy piknikhez. Délután tegyen egy hosszabb biciklitúrát a fenséges Scone-palotához. Zárja a napot egy kihívást jelentő, de annál nagyobb jutalommal kecsegtető tekeréssel a Kinnoull-hegyre a lélegzetelállító kilátásért.",
+        "ro": "Începeți pe bicicletă la South Inch și pedalați în centrul orașului pentru a explora istorica St. John's Kirk și Muzeul Perth. Luați o pauză de prânz la North Inch, un loc perfect pentru un picnic. După-amiaza, faceți o plimbare mai lungă cu bicicleta până la maiestuosul Palat Scone. Încheiați-vă ziua cu o urcare provocatoare, dar plină de satisfacții, pe dealul Kinnoull pentru priveliști uimitoare.",
+        "en": "Start on your bike at South Inch and cycle into the city centre to explore the historic St. John's Kirk and Perth Museum. Take a lunch break at North Inch, a perfect spot for a picnic. In the afternoon, take a longer cycle out to the majestic Scone Palace. Finish your day with a challenging but rewarding ride up Kinnoull Hill for stunning views."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Scotch Pie",
+            "tip": "Ein herzhafter Snack, perfekt für unterwegs. In den meisten Bäckereien erhältlich."
+          },
+          {
+            "name": "Tablet",
+            "tip": "Ein süßes, krümeliges schottisches Konfekt, das Ihnen einen Energieschub gibt. Suchen Sie nach handgemachten Sorten."
+          },
+          {
+            "name": "Lokales Ale",
+            "tip": "Besuchen Sie nach Ihrer Radtour einen örtlichen Pub wie The Old Ship Inn für ein wohlverdientes Pint."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Skót pite",
+            "tip": "Egy kiadós snack, tökéletes útközben. A legtöbb pékségben kapható."
+          },
+          {
+            "name": "Tablet",
+            "tip": "Édes, omlós skót édesség, ami energiát ad. Keresse a kézműves változatokat."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "A biciklizés után térjen be egy helyi kocsmába, mint a The Old Ship Inn, egy jól megérdemelt korsó sörre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plăcintă scoțiană",
+            "tip": "O gustare consistentă, perfectă pentru a o lua la pachet. Disponibilă în majoritatea brutăriilor."
+          },
+          {
+            "name": "Tablet",
+            "tip": "Un dulce scoțian dulce și fărâmicios pentru un plus de energie. Căutați soiuri artizanale."
+          },
+          {
+            "name": "Bere locală (Ale)",
+            "tip": "După plimbare, vizitați un pub local precum The Old Ship Inn pentru o halbă binemeritată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Scotch Pie",
+            "tip": "A hearty snack perfect for taking on the go. Available from most bakers."
+          },
+          {
+            "name": "Tablet",
+            "tip": "A sweet, crumbly Scottish confection to give you an energy boost. Look for handmade varieties."
+          },
+          {
+            "name": "Local Ale",
+            "tip": "After your ride, visit a local pub like The Old Ship Inn for a well-earned pint."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kinnoull Hill Woodland Park",
+            "tip": "Abseits der Hauptaussichtspunkte gibt es ruhige Waldwege zu entdecken.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Gärten des Scone Palace",
+            "tip": "Verirren Sie sich im Irrgarten oder finden Sie einen ruhigen Platz am Pinetum.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Uferweg des Tay",
+            "tip": "Der Radweg entlang des Flusses ist besonders morgens friedlich.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kinnoull Hill Woodland Park",
+            "tip": "A fő kilátópontoktól távol csendes erdei ösvényeket fedezhet fel.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Scone-palota kertjei",
+            "tip": "Tévedjen el az útvesztőben, vagy keressen egy csendes helyet a fenyvesben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Tay folyóparti ösvény",
+            "tip": "A folyó menti kerékpárút különösen békés reggelente.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Pădure Kinnoull Hill",
+            "tip": "Departe de punctele de belvedere principale, există poteci liniștite de pădure de explorat.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Grădinile Palatului Scone",
+            "tip": "Pierdeți-vă în labirint sau găsiți un loc liniștit lângă Pinetum.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Potecă pe malul râului Tay",
+            "tip": "Pista de biciclete de-a lungul râului este deosebit de pașnică dimineața.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kinnoull Hill Woodland Park",
+            "tip": "Away from the main viewpoints, there are quiet forest trails to explore.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Scone Palace Gardens",
+            "tip": "Get lost in the maze or find a quiet spot by the pinetum.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "River Tay Path",
+            "tip": "The cycle path along the river is especially peaceful in the morning.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Fahrradgeschäfte",
+            "tip": "Holen Sie sich Zubehör oder eine Erinnerung an Ihre Radtour in Perth."
+          },
+          {
+            "name": "Geschenkeladen des Scone Palace",
+            "tip": "Exklusive Souvenirs im Zusammenhang mit der schottischen Geschichte."
+          },
+          {
+            "name": "George Street",
+            "tip": "Bekannt für seine unabhängigen Boutiquen und einzigartigen Geschäfte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerékpárboltok",
+            "tip": "Szerezzen be kiegészítőket vagy egy emléket a perthi biciklizéséről."
+          },
+          {
+            "name": "Scone-palota ajándékboltja",
+            "tip": "Exkluzív ajándéktárgyak a skót történelemhez kapcsolódóan."
+          },
+          {
+            "name": "George Street",
+            "tip": "Független butikjairól és egyedi üzleteiről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine locale de biciclete",
+            "tip": "Luați accesorii sau un suvenir al plimbării cu bicicleta din Perth."
+          },
+          {
+            "name": "Magazinul de cadouri al Palatului Scone",
+            "tip": "Suveniruri exclusive legate de istoria scoțiană."
+          },
+          {
+            "name": "Strada George",
+            "tip": "Cunoscută pentru buticurile sale independente și magazinele unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bike Shops",
+            "tip": "Pick up any accessories or a memento of your Perth cycle."
+          },
+          {
+            "name": "Scone Palace Gift Shop",
+            "tip": "Exclusive souvenirs related to Scottish history."
+          },
+          {
+            "name": "George Street",
+            "tip": "Known for its independent boutiques and unique shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Stellen Sie sicher, dass Ihr Fahrrad in gutem Zustand ist, insbesondere die Bremsen für Kinnoull Hill.",
+          "Nehmen Sie ein gutes Schloss mit, um Ihr Fahrrad zu sichern, während Sie die Sehenswürdigkeiten erkunden.",
+          "Die Radwege entlang des Flusses sind gemeinsam genutzt, achten Sie auf Fußgänger.",
+          "Eine Wasserflasche und Snacks sind für die längeren Fahrten zum Scone Palace und Kinnoull Hill unerlässlich."
+        ],
+        "hu": [
+          "Győződjön meg róla, hogy a kerékpárja jó állapotban van, különösen a fékek a Kinnoull-hegyhez.",
+          "Hozzon magával egy jó lakatot, hogy biztonságban tudhassa a biciklijét a látnivalók felfedezése közben.",
+          "A folyó menti kerékpárutak megosztottak, figyeljen a gyalogosokra.",
+          "Egy kulacs víz és némi rágcsálnivaló elengedhetetlen a hosszabb utakra a Scone-palotához és a Kinnoull-hegyre."
+        ],
+        "ro": [
+          "Asigurați-vă că bicicleta este în stare bună de funcționare, în special frânele pentru Kinnoull Hill.",
+          "Luați un lacăt bun pentru a vă asigura bicicleta în timp ce explorați atracțiile.",
+          "Pistele de biciclete de-a lungul râului sunt partajate, fiți atenți la pietoni.",
+          "O sticlă cu apă și gustări sunt esențiale pentru plimbările mai lungi spre Palatul Scone și Kinnoull Hill."
+        ],
+        "en": [
+          "Ensure your bike is in good condition, especially the brakes for Kinnoull Hill.",
+          "Bring a good lock to secure your bike while exploring attractions.",
+          "The cycle paths along the river are shared use, be mindful of pedestrians.",
+          "A water bottle and snacks are essential for the longer rides to Scone Palace and Kinnoull Hill."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Scone-Palast",
+            "hu": "Scone palota",
+            "ro": "Palatul Scone",
+            "en": "Scone Palace"
+          },
+          "coords": [
+            -3.425,
+            56.419
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:20",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Kommen Sie früh an, um die Menschenmassen zu vermeiden und in Ruhe zu parken.",
+            "hu": "Érkezzen korán, hogy elkerülje a tömeget és nyugodtan parkolhasson.",
+            "ro": "Ajungeți devreme pentru a evita aglomerația și pentru a parca ușor.",
+            "en": "Arrive early to beat the crowds and park with ease."
+          }
+        },
+        {
+          "name": {
+            "de": "Perth Museum und Kunstgalerie",
+            "hu": "Perth Múzeum és Művészeti Galéria",
+            "ro": "Muzeul și Galeria de Artă din Perth",
+            "en": "Perth Museum and Art Gallery"
+          },
+          "coords": [
+            -3.4345,
+            56.397
+          ],
+          "category": "museums",
+          "arrive_at": "12:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in einem der Parkhäuser im Stadtzentrum für diesen Teil der Tour.",
+            "hu": "Parkoljon a városközpont egyik parkolóházában a túra ezen szakaszához.",
+            "ro": "Parcați într-una din parcările din centrul orașului pentru această parte a turului.",
+            "en": "Park in one of the city centre car parks for this cluster of the tour."
+          }
+        },
+        {
+          "name": {
+            "de": "St. John's Kirk",
+            "hu": "Szent János templom",
+            "ro": "Biserica Sf. Ioan (St. John's Kirk)",
+            "en": "St John's Kirk"
+          },
+          "coords": [
+            -3.428,
+            56.3955
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum, der Ihnen einen guten Eindruck vom Stadtzentrum vermittelt.",
+            "hu": "Rövid séta a múzeumtól, amely jó benyomást ad a városközpontról.",
+            "ro": "O scurtă plimbare de la muzeu, care vă oferă o perspectivă bună asupra centrului orașului.",
+            "en": "A short walk from the museum, giving you a good feel for the city centre."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebéd a városközpontban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in City Centre"
+          },
+          "coords": [
+            -3.429,
+            56.396
+          ],
+          "category": "gastro",
+          "arrive_at": "14:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Viele Cafés und Restaurants rund um den Kirk.",
+            "hu": "Számos kávézó és étterem található a templom környékén.",
+            "ro": "Multe cafenele și restaurante în jurul bisericii.",
+            "en": "Plenty of cafes and restaurants around the Kirk."
+          }
+        },
+        {
+          "name": {
+            "de": "Kinnoull Hill",
+            "hu": "Kinnoull-hegy",
+            "ro": "Dealul Kinnoull",
+            "en": "Kinnoull Hill"
+          },
+          "coords": [
+            -3.4,
+            56.396
+          ],
+          "category": "natural features",
+          "arrive_at": "16:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz von Kinnoull Hill und machen Sie einen Spaziergang zum Gipfel.",
+            "hu": "Vezessen a Kinnoull-hegy parkolójába, és sétáljon fel a csúcsra.",
+            "ro": "Conduceți până la parcarea de la Kinnoull Hill pentru o plimbare spre vârf.",
+            "en": "Drive to the Kinnoull Hill car park for a walk to the summit."
+          }
+        },
+        {
+          "name": {
+            "de": "Branklyn Garden",
+            "hu": "Branklyn-kert",
+            "ro": "Grădina Branklyn",
+            "en": "Branklyn Garden"
+          },
+          "coords": [
+            -3.418,
+            56.389
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz des Kinnoull Hill, um Ihren Tag ausklingen zu lassen.",
+            "hu": "Rövid sétára a Kinnoull-hegyi parkolótól, hogy lezárja a napot.",
+            "ro": "O scurtă plimbare de la parcarea Kinnoull Hill pentru a vă încheia ziua.",
+            "en": "A short walk from the Kinnoull Hill car park area to finish your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Ihr Auto, um die weiter entfernten Juwelen von Perth zu erreichen. Beginnen Sie am majestätischen Scone Palace und verbringen Sie den Vormittag damit, seine Pracht zu erkunden. Fahren Sie dann ins Stadtzentrum, parken Sie und erkunden Sie zu Fuß das Kulturviertel, einschließlich des Perth Museums und der St. John's Kirk. Nach dem Mittagessen fahren Sie zu Ihrem letzten Cluster, dem Kinnoull Hill, wo Sie parken und zum Gipfel wandern, um eine unglaubliche Aussicht zu genießen, gefolgt von einem ruhigen Besuch im nahegelegenen Branklyn Garden.",
+        "hu": "Használja autóját, hogy elérje Perth távolabbi gyöngyszemeit. Kezdje a fenséges Scone-palotánál, töltse a délelőttöt a pompájának felfedezésével. Ezután vezessen be a városközpontba, parkoljon le, és fedezze fel gyalog a kulturális negyedet, beleértve a Perth Múzeumot és a Szent János-templomot. Ebéd után vezessen az utolsó állomáshoz, a Kinnoull-hegyhez, ahol leparkolhat és felsétálhat a csúcsra a hihetetlen kilátásért, majd egy békés látogatást tehet a közeli Branklyn-kertben.",
+        "ro": "Folosiți-vă mașina pentru a ajunge la bijuteriile mai îndepărtate din Perth. Începeți la maiestuosul Palat Scone, petrecându-vă dimineața explorându-i grandoarea. Apoi, conduceți în centrul orașului, parcați și explorați pe jos grupul cultural, inclusiv Muzeul Perth și St. John's Kirk. După prânz, conduceți spre ultimul grup, Kinnoull Hill, unde parcați și mergeți pe jos până în vârf pentru vederi incredibile, urmată de o vizită liniștită la Grădina Branklyn din apropiere.",
+        "en": "Use your car to reach Perth's wider gems. Start at the majestic Scone Palace, spending the morning exploring its grandeur. Then, drive into the city centre, park up, and explore the cultural cluster on foot, including Perth Museum and St. John's Kirk. After lunch, drive to your final cluster, Kinnoull Hill, where you'll park and walk to the summit for incredible views, followed by a peaceful visit to the nearby Branklyn Garden."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Farm-Shop-Cafés",
+            "tip": "Viele Hofläden in der Nähe von Perth (z. B. Gloagburn Farm Shop) haben ausgezeichnete Cafés für ein frisches Mittagessen."
+          },
+          {
+            "name": "Perthshire Berries",
+            "tip": "Wenn es Saison hat (Sommer), halten Sie an einem Stand am Straßenrand für die besten Erdbeeren und Himbeeren."
+          },
+          {
+            "name": "Abendessen im Pub auf dem Land",
+            "tip": "Nutzen Sie Ihr Auto und fahren Sie zu einem klassischen Landpub wie dem Meikleour Arms zum Abendessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Farm boltok kávézói",
+            "tip": "Perth környékén számos farm bolt (pl. Gloagburn Farm Shop) kiváló kávézóval rendelkezik egy friss ebédhez."
+          },
+          {
+            "name": "Perthshire bogyós gyümölcsök",
+            "tip": "Ha szezonja van (nyáron), álljon meg egy út menti standnál a legjobb eperért és málnáért."
+          },
+          {
+            "name": "Vacsora egy vidéki kocsmában",
+            "tip": "Használja ki az autót, és vezessen el egy klasszikus vidéki kocsmába, mint a Meikleour Arms, vacsorára."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenele de la magazinele fermelor",
+            "tip": "Multe magazine de ferme de lângă Perth (de exemplu, Gloagburn Farm Shop) au cafenele excelente pentru un prânz proaspăt."
+          },
+          {
+            "name": "Fructe de pădure din Perthshire",
+            "tip": "Dacă este sezon (vara), opriți-vă la o tarabă de pe marginea drumului pentru cele mai bune căpșuni și zmeură."
+          },
+          {
+            "name": "Cină la un pub de la țară",
+            "tip": "Profitați de mașină și conduceți la un pub clasic de la țară precum Meikleour Arms pentru cină."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm Shop Cafes",
+            "tip": "Many farm shops near Perth (e.g., Gloagburn Farm Shop) have excellent cafes for a fresh lunch."
+          },
+          {
+            "name": "Perthshire Berries",
+            "tip": "If in season (summer), stop at a roadside stall for the best strawberries and raspberries."
+          },
+          {
+            "name": "Country Pub Dinner",
+            "tip": "Make use of the car and drive to a classic country pub like the Meikleour Arms for dinner."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Der Friedhof im Scone Palace",
+            "tip": "Ein überraschend ruhiger und historischer Teil des Anwesens.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Kinnoull Hill Tower",
+            "tip": "Klettern Sie weg von den Menschenmassen auf den Turm für eine einsame Aussicht.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Fahrt entlang des Flusses Tay",
+            "tip": "Nehmen Sie die Nebenstraßen entlang des Flusses für eine malerische und ruhige Fahrt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Scone-palota temetkezési helye",
+            "tip": "A birtok meglepően csendes és történelmi része.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Kinnoull-hegyi torony",
+            "tip": "Másszon fel a toronyba a tömegtől távol egy magányos kilátásért.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Autózás a Tay folyó mentén",
+            "tip": "Válassza a folyó menti mellékutakat egy festői és csendes autózásért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul Palatului Scone",
+            "tip": "O parte surprinzător de liniștită și istorică a domeniului.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Turnul de pe Kinnoull Hill",
+            "tip": "Urcați în turn, departe de aglomerație, pentru o priveliște solitară.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Plimbare cu mașina pe lângă râul Tay",
+            "tip": "Luați drumurile secundare de-a lungul râului pentru o plimbare pitorească și liniștită.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "The Scone Palace Graveyard",
+            "tip": "A surprisingly quiet and historic part of the estate.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Kinnoull Hill Tower",
+            "tip": "Climb the tower away from the crowds for a solitary viewpoint.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Drive along the River Tay",
+            "tip": "Take the back roads along the river for a scenic and quiet drive.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "The Highland Chocolatier",
+            "tip": "Ein kleiner Abstecher nach Grandtully für preisgekrönte Schokolade."
+          },
+          {
+            "name": "Antiquitätengeschäfte",
+            "tip": "Perth hat mehrere Antiquitätengeschäfte, perfekt für die Suche nach einem einzigartigen Schatz."
+          },
+          {
+            "name": "Gartencenter",
+            "tip": "Die Gegend um Perth hat einige ausgezeichnete Gartencenter mit einzigartigen Geschenken und lokalen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Highland Chocolatier",
+            "tip": "Egy rövid kitérő Grandtullybe a díjnyertes csokoládékért."
+          },
+          {
+            "name": "Antikváriumok",
+            "tip": "Perthben számos antikvárium található, tökéletesek egy egyedi kincs felkutatásához."
+          },
+          {
+            "name": "Kertészetek",
+            "tip": "Perth környékén néhány kiváló kertészet található egyedi ajándékokkal és helyi termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Highland Chocolatier",
+            "tip": "O mică ocolire până la Grandtully pentru ciocolată premiată."
+          },
+          {
+            "name": "Magazine de antichități",
+            "tip": "Perth are mai multe magazine de antichități, perfecte pentru a căuta o comoară unică."
+          },
+          {
+            "name": "Centre de grădinărit",
+            "tip": "Zona din jurul Perth are câteva centre de grădinărit excelente, cu cadouri unice și produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Highland Chocolatier",
+            "tip": "A slight detour to Grandtully for award-winning chocolates."
+          },
+          {
+            "name": "Antique Shops",
+            "tip": "Perth has several antique shops, perfect for hunting a unique treasure."
+          },
+          {
+            "name": "Garden Centres",
+            "tip": "The area around Perth has some excellent garden centres with unique gifts and local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Parkgebühren im Stadtzentrum können teuer sein, suchen Sie nach Langzeitparkplätzen.",
+          "Planen Sie Ihre Reise zum Scone Palace, da es eine Hauptattraktion ist und viel Zeit in Anspruch nehmen kann.",
+          "Beachten Sie die Parkbeschränkungen an den Ausgangspunkten der Wanderwege wie Kinnoull Hill.",
+          "Ein Navi ist unerlässlich, um die besten Routen zwischen den Clustern zu finden."
+        ],
+        "hu": [
+          "A városközponti parkolás drága lehet, keressen hosszú távú parkolókat.",
+          "Tervezze meg a Scone-palotához vezető utat, mivel ez egy fő látványosság, és sok időt vehet igénybe.",
+          "Vegye figyelembe a parkolási korlátozásokat a túraútvonalak kiindulópontjainál, mint például a Kinnoull-hegynél.",
+          "A navigáció elengedhetetlen a legjobb útvonalak megtalálásához az egyes helyszíncsoportok között."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi scumpă, căutați parcări pe termen lung.",
+          "Planificați-vă călătoria la Palatul Scone, deoarece este o atracție principală și poate dura mult timp.",
+          "Fiți conștienți de restricțiile de parcare la începutul traseelor, cum ar fi cel de la Kinnoull Hill.",
+          "Un GPS este esențial pentru a găsi cele mai bune rute între grupuri."
+        ],
+        "en": [
+          "City centre parking can be expensive, look for long-stay car parks.",
+          "Plan your trip to Scone Palace as it's a major attraction and can take up a lot of time.",
+          "Be aware of parking restrictions at trailheads like Kinnoull Hill.",
+          "A GPS is essential for finding the best routes between clusters."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Perth",
+            "hu": "Perth vasútállomás",
+            "ro": "Gara din Perth",
+            "en": "Perth Railway Station"
+          },
+          "coords": [
+            -3.438,
+            56.391
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für Busse, um Geld zu sparen.",
+            "hu": "Vásároljon napijegyet a buszokra, hogy pénzt takarítson meg.",
+            "ro": "Cumpărați un bilet de o zi pentru autobuze pentru a economisi bani.",
+            "en": "Buy a day-rider bus ticket to save money."
+          }
+        },
+        {
+          "name": {
+            "de": "Perth Museum und Kunstgalerie",
+            "hu": "Perth Múzeum és Művészeti Galéria",
+            "ro": "Muzeul și Galeria de Artă din Perth",
+            "en": "Perth Museum and Art Gallery"
+          },
+          "coords": [
+            -3.4345,
+            56.397
+          ],
+          "category": "museums",
+          "arrive_at": "09:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Viele Buslinien halten in der Nähe des Museums.",
+            "hu": "Számos buszjárat megáll a múzeum közelében.",
+            "ro": "Multe rute de autobuz opresc lângă muzeu.",
+            "en": "Many bus routes stop near the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "St. John's Kirk",
+            "hu": "Szent János templom",
+            "ro": "Biserica Sf. Ioan (St. John's Kirk)",
+            "en": "St John's Kirk"
+          },
+          "coords": [
+            -3.428,
+            56.3955
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie vom Museum durch das Stadtzentrum.",
+            "hu": "Sétáljon a múzeumtól a városközponton keresztül.",
+            "ro": "Plimbați-vă de la muzeu prin centrul orașului.",
+            "en": "Stroll from the museum through the city centre."
+          }
+        },
+        {
+          "name": {
+            "de": "North Inch",
+            "hu": "North Inch park",
+            "ro": "Parcul North Inch",
+            "en": "North Inch"
+          },
+          "coords": [
+            -3.435,
+            56.402
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie zum Mittagessen hierher und genießen Sie die Aussicht auf den Fluss.",
+            "hu": "Sétáljon ide ebédelni, és élvezze a folyóra nyíló kilátást.",
+            "ro": "Mergeți aici pentru prânz și bucurați-vă de priveliștea râului.",
+            "en": "Walk here for lunch and enjoy the river views."
+          }
+        },
+        {
+          "name": {
+            "de": "Branklyn Garden",
+            "hu": "Branklyn-kert",
+            "ro": "Grădina Branklyn",
+            "en": "Branklyn Garden"
+          },
+          "coords": [
+            -3.418,
+            56.389
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus über den Fluss zu diesem botanischen Juwel.",
+            "hu": "Menjen busszal a folyón túlra ehhez a botanikai gyöngyszemhez.",
+            "ro": "Luați un autobuz peste râu până la această bijuterie botanică.",
+            "en": "Take a bus across the river to this botanical gem."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Perths öffentliches Verkehrsnetz macht das Erkunden einfach. Beginnen Sie am Bahnhof und nehmen Sie einen Bus zum Stadtzentrum, wo Sie ein Cluster von Sehenswürdigkeiten zu Fuß erkunden können: das Perth Museum, die St. John's Kirk und den North Inch für ein Mittagessen am Fluss. Am Nachmittag nehmen Sie einen weiteren Bus über den Fluss, um sich im wunderschönen Branklyn Garden zu verlieren, bevor Sie ins Zentrum zurückkehren. Es ist eine entspannte Art, das Beste der Stadt ohne Parkprobleme zu sehen.",
+        "hu": "Perth tömegközlekedési hálózata megkönnyíti a felfedezést. Kezdje a vasútállomáson, és szálljon buszra a városközpontba, ahol egy látnivalókból álló csoportot fedezhet fel gyalog: a Perth Múzeumot, a Szent János-templomot és a North Inch parkot egy folyóparti ebédhez. Délután szálljon egy másik buszra a folyón túlra, hogy elmerüljön a gyönyörű Branklyn-kertben, mielőtt visszatérne a központba. Ez egy pihentető módja annak, hogy a város legjavát parkolási gondok nélkül lássa.",
+        "ro": "Rețeaua de transport public din Perth facilitează explorarea. Începeți de la gară și luați un autobuz spre centrul orașului, unde veți explora pe jos un grup de atracții: Muzeul Perth, Biserica Sf. Ioan și Parcul North Inch pentru un prânz pe malul râului. După-amiaza, luați un alt autobuz peste râu pentru a vă pierde în frumoasa Grădină Branklyn înainte de a vă întoarce în centru. Este o modalitate relaxată de a vedea ce este mai bun în oraș, fără bătaia de cap a parcării.",
+        "en": "Perth's public transport network makes exploring easy. Start from the railway station and catch a bus to the city centre, where you'll explore a cluster of attractions on foot: the Perth Museum, St. John's Kirk, and North Inch for a riverside lunch. In the afternoon, catch another bus across the river to lose yourself in the beautiful Branklyn Garden before heading back to the centre. It's a relaxed way to see the best of the city without the hassle of parking."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Ein schnelles und einfaches Abendessen, das Sie in einem der vielen Imbissläden in der Nähe der Bushaltestellen bekommen."
+          },
+          {
+            "name": "Scones mit Sahne und Marmelade",
+            "tip": "Viele Cafés, wie das im Branklyn Garden, servieren einen ausgezeichneten Cream Tea."
+          },
+          {
+            "name": "Suppe und ein Sandwich",
+            "tip": "Ein klassisches schottisches Mittagessen. Suchen Sie nach Tagesangeboten in den Cafés im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Gyors és könnyű vacsora, amelyet a buszmegállók közelében található számos büfé egyikében szerezhet be."
+          },
+          {
+            "name": "Scone tejszínnel és lekvárral",
+            "tip": "Sok kávézó, mint például a Branklyn-kertben található, kiváló tejszínes teát szolgál fel."
+          },
+          {
+            "name": "Leves és szendvics",
+            "tip": "Klasszikus skót ebéd. Keresse a napi ajánlatokat a városközpont kávézóiban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește cu cartofi prăjiți",
+            "tip": "O cină rapidă și ușoară de luat de la unul dintre numeroasele magazine de specialitate de lângă stațiile de autobuz."
+          },
+          {
+            "name": "Scones cu frișcă și gem",
+            "tip": "Multe cafenele, precum cea de la Grădina Branklyn, servesc un excelent ceai cu frișcă."
+          },
+          {
+            "name": "Supă și un sandviș",
+            "tip": "Un prânz scoțian clasic. Căutați oferte zilnice în cafenelele din centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish and Chips",
+            "tip": "A quick and easy dinner to grab from one of the many 'chippies' near bus stops."
+          },
+          {
+            "name": "Scones with Cream and Jam",
+            "tip": "Many cafes, like the one at Branklyn Garden, serve an excellent cream tea."
+          },
+          {
+            "name": "Soup and a Sandwich",
+            "tip": "A classic Scottish lunch deal. Look for daily specials in city centre cafes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Oberdeck eines Busses",
+            "tip": "Sitzen Sie vorne im Oberdeck für eine großartige Aussicht und eine andere Perspektive auf die Stadt.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Branklyn Garden",
+            "tip": "Dieser Garten ist der perfekte Ort, um dem Trubel der Stadt zu entfliehen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "St. Matthew's Church",
+            "tip": "In der Nähe des Bahnhofs, ein ruhiger Ort zum Nachdenken, bevor Sie Ihre Reise fortsetzen.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy busz felső szintje",
+            "tip": "Üljön a felső szint elejére a nagyszerű kilátásért és a város más szemszögből való megtekintéséért.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Branklyn-kert",
+            "tip": "Ez a kert a tökéletes hely a város nyüzsgésétől való elmenekülésre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szent Máté-templom",
+            "tip": "A vasútállomás közelében található, csendes hely az elmélkedésre, mielőtt folytatná az utazást.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etajul superior al unui autobuz",
+            "tip": "Stați în față la etajul superior pentru o priveliște minunată și o perspectivă diferită asupra orașului.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Grădina Branklyn",
+            "tip": "Această grădină este locul perfect pentru a scăpa de agitația orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Biserica Sf. Matei",
+            "tip": "Aproape de gară, un loc liniștit pentru reflecție înainte de a vă continua călătoria.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Top deck of a bus",
+            "tip": "Sit at the front of the top deck for great views and a different perspective on the city.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Branklyn Garden",
+            "tip": "This garden is the perfect place to escape the bustle of the city.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "St Matthew's Church",
+            "tip": "Near the railway station, a quiet place for reflection before continuing your journey.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Perth High Street",
+            "tip": "Leicht zu Fuß von den wichtigsten Bushaltestellen aus erreichbar, mit allen wichtigen Geschäften."
+          },
+          {
+            "name": "Wohltätigkeitsläden",
+            "tip": "In der South Street gibt es eine gute Auswahl, wo Sie einzigartige Fundstücke und Schnäppchen finden können."
+          },
+          {
+            "name": "Buchhandlungen",
+            "tip": "Besuchen Sie die Waterstones-Filiale in einem wunderschönen alten Bankgebäude."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Perth High Street",
+            "tip": "Könnyen megközelíthető gyalog a fő buszmegállóktól, minden fontos üzlettel."
+          },
+          {
+            "name": "Adományboltok",
+            "tip": "A South Streeten jó választék található, ahol egyedi leleteket és akciókat találhat."
+          },
+          {
+            "name": "Könyvesboltok",
+            "tip": "Nézze meg a Waterstones üzletet, amely egy gyönyörű régi banképületben található."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada principală din Perth",
+            "tip": "Ușor de parcurs pe jos de la principalele stații de autobuz, cu toate magazinele importante."
+          },
+          {
+            "name": "Magazine de caritate",
+            "tip": "Strada South are o selecție bună, unde puteți găsi descoperiri unice și chilipiruri."
+          },
+          {
+            "name": "Librării",
+            "tip": "Vizitați magazinul Waterstones, situat într-o frumoasă clădire veche de bancă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Perth High Street",
+            "tip": "Easily walkable from the main bus stops, with all the major shops."
+          },
+          {
+            "name": "Charity Shops",
+            "tip": "South Street has a good selection, where you can find unique finds and bargains."
+          },
+          {
+            "name": "Bookshops",
+            "tip": "Check out the Waterstones branch, housed in a beautiful old bank building."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie eine lokale Bus-App herunter, um Fahrpläne und Routen in Echtzeit zu verfolgen.",
+          "Die meisten Busse sind kontaktlos, aber es ist gut, etwas Kleingeld für den Fall der Fälle dabei zu haben.",
+          "Kennen Sie den Namen Ihrer Haltestelle oder fragen Sie den Fahrer, er ist normalerweise hilfsbereit.",
+          "Die Busse zum Scone Palace fahren seltener. Planen Sie entsprechend, um nicht stecken zu bleiben."
+        ],
+        "hu": [
+          "Töltsön le egy helyi buszalkalmazást a valós idejű menetrendek és útvonalak követéséhez.",
+          "A legtöbb busz érintésmentes fizetést tesz lehetővé, de jó, ha van nálunk némi aprópénz.",
+          "Tudja a megálló nevét, vagy kérdezze meg a sofőrt; általában segítőkészek.",
+          "A Scone-palotához ritkábban járnak buszok, tervezzen ennek megfelelően, hogy ne ragadjon ott."
+        ],
+        "ro": [
+          "Descărcați o aplicație locală de autobuz pentru a urmări orarele și rutele în timp real.",
+          "Majoritatea autobuzelor sunt contactless, dar este bine să aveți niște mărunțiș la îndemână, pentru orice eventualitate.",
+          "Cunoașteți numele stației dvs. sau întrebați șoferul; de obicei sunt de ajutor.",
+          "Autobuzele spre Palatul Scone circulă mai rar; planificați în consecință pentru a evita să rămâneți blocat."
+        ],
+        "en": [
+          "Download a local bus app to track live timetables and routes.",
+          "Most buses are contactless, but it's good to have some change just in case.",
+          "Know the name of your stop or ask the driver; they are usually helpful.",
+          "Buses to Scone Palace can be less frequent; plan accordingly to avoid getting stranded."
+        ]
+      }
+    }
+  }
+}

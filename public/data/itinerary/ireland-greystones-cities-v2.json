@@ -1,0 +1,1424 @@
+{
+  "city_id": "ireland-greystones-cities-v2",
+  "anchor": {
+    "name": "Greystones",
+    "coords": [
+      -6.062,
+      53.143
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafen von Greystones",
+            "hu": "Greystones kikötője",
+            "ro": "Portul Greystones",
+            "en": "Greystones Harbour"
+          },
+          "coords": [
+            -6.058,
+            53.146
+          ],
+          "category": "port",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Fischerboote und die Robben, die oft im Hafenbecken auftauchen.",
+            "hu": "Figyeld a halászhajókat és a fókákat, amik gyakran felbukkannak a kikötő vizében.",
+            "ro": "Urmăriți bărcile de pescuit și fociile care apar adesea în bazinul portuar.",
+            "en": "Watch the fishing boats and look out for the seals that often visit the basin."
+          }
+        },
+        {
+          "name": {
+            "de": "South Beach",
+            "hu": "South Beach (Déli strand)",
+            "ro": "Plaja de Sud",
+            "en": "South Beach"
+          },
+          "coords": [
+            -6.057,
+            53.141
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für einen langen Spaziergang am Morgen, das Ufer ist eher steinig.",
+            "hu": "Tökéletes hely egy hosszú reggeli sétához. A part inkább kavicsos, mint homokos.",
+            "ro": "Un loc ideal pentru o plimbare lungă de dimineață; malul este mai mult pietros.",
+            "en": "An ideal spot for a long morning walk; the shore is more stony than sandy."
+          }
+        },
+        {
+          "name": {
+            "de": "Greystones Cliff Walk (Anfang)",
+            "hu": "Greystones sziklasétány (Kezdete)",
+            "ro": "Promenada de pe faleza Greystones (Început)",
+            "en": "Greystones Cliff Walk (Start)"
+          },
+          "coords": [
+            -6.055,
+            53.138
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:11",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Gehen Sie nur die ersten 1-2 km für atemberaubende Ausblicke, ohne die ganze Wanderung nach Bray zu machen.",
+            "hu": "Csak az első 1-2 kilométert tedd meg a lélegzetelállító kilátásért, nem kell végigmenni Bray-ig.",
+            "ro": "Parcurgeți doar primii 1-2 km pentru priveliști uimitoare, fără a face întreaga drumeție până la Bray.",
+            "en": "Just walk the first 1-2 km for stunning views without committing to the full hike to Bray."
+          }
+        },
+        {
+          "name": {
+            "de": "The Whale Theatre",
+            "hu": "The Whale Színház",
+            "ro": "Teatrul Whale",
+            "en": "The Whale Theatre"
+          },
+          "coords": [
+            -6.064,
+            53.144
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:41",
+          "stay_min": 20,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Prüfen Sie das Abendprogramm; es gibt oft großartige lokale und nationale Aufführungen.",
+            "hu": "Nézd meg az esti programot; gyakran vannak remek helyi és országos előadások.",
+            "ro": "Verificați programul de seară; adesea au spectacole locale și naționale excelente.",
+            "en": "Check the evening schedule; they often have great local and national performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Burnaby Estate",
+            "hu": "Burnaby birtok",
+            "ro": "Domeniul Burnaby",
+            "en": "Burnaby Estate"
+          },
+          "coords": [
+            -6.07,
+            53.142
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:23",
+          "stay_min": 50,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Ein Spaziergang durch dieses edwardianische Viertel fühlt sich an wie eine Zeitreise.",
+            "hu": "Egy séta ebben az Edward-korabeli negyedben olyan, mint egy időutazás.",
+            "ro": "O plimbare prin acest cartier edwardian te transportă înapoi în timp.",
+            "en": "A walk through this Edwardian neighbourhood feels like stepping back in time."
+          }
+        },
+        {
+          "name": {
+            "de": "La Touche Hotel (Fassade)",
+            "hu": "La Touche Hotel (homlokzat)",
+            "ro": "Hotel La Touche (Fațadă)",
+            "en": "La Touche Hotel (Facade)"
+          },
+          "coords": [
+            -6.061,
+            53.144
+          ],
+          "category": "historical",
+          "arrive_at": "14:41",
+          "stay_min": 180,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Stellen Sie sich die glorreichen Tage dieses einst prächtigen viktorianischen Hotels vor. Jetzt ist es ein schöner Ort zum Mittagessen in der Nähe.",
+            "hu": "Képzeld el ennek az egykor csodás viktoriánus szállodának a dicső napjait. Most egy jó ebédelőhely van a közelben.",
+            "ro": "Imaginați-vă zilele de glorie ale acestui hotel victorian odinioară magnific. Acum este un loc bun pentru prânz în apropiere.",
+            "en": "Imagine the glory days of this once-magnificent Victorian hotel. Now it's a nice spot for lunch nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Greystones beginnt am lebhaften Hafen, wo Sie die Meeresbrise und die maritime Atmosphäre genießen. Ein kurzer Spaziergang führt Sie zum steinigen South Beach, perfekt für einen erfrischenden Morgenspaziergang. Mittags wagen Sie sich auf den Anfang des berühmten Cliff Walk, um spektakuläre Ausblicke auf die Küste zu genießen, ohne sich auf eine lange Wanderung festlegen zu müssen. Am Nachmittag erkunden Sie das kulturelle Herz der Stadt mit einem Besuch des Whale Theatre und schlendern durch das historische Burnaby Estate. Der Tag endet mit einem Blick auf die verblassende Pracht des La Touche Hotels und einem späten Mittagessen in einem der gemütlichen Restaurants in der Nähe, um über die Schönheit der irischen Küste nachzudenken.",
+        "hu": "A greystones-i nap a nyüzsgő kikötőben kezdődik, ahol élvezheti a tengeri szellőt és a tengerparti hangulatot. Egy rövid séta vezet a kavicsos South Beach-re, amely tökéletes egy frissítő reggeli sétához. Délben nekivág a híres Cliff Walk elejének a látványos tengerparti kilátásért, anélkül, hogy egy hosszú túrára vállalkozna. Délután a város kulturális szívét fedezi fel a Whale Színház meglátogatásával és a történelmi Burnaby birtokon való sétával. A nap a La Touche Hotel halványuló pompájának megtekintésével és egy késői ebéddel zárul a közeli hangulatos éttermek egyikében, elmélkedve az ír tengerpart szépségén.",
+        "ro": "Ziua dvs. în Greystones începe în portul plin de viață, bucurându-vă de briza mării și de atmosfera maritimă. O scurtă plimbare vă duce la South Beach, o plajă pietroasă, perfectă pentru o plimbare revigorantă de dimineață. La prânz, vă aventurați la începutul faimoasei promenade Cliff Walk pentru priveliști spectaculoase ale coastei, fără a vă angaja la o drumeție lungă. După-amiaza, explorați inima culturală a orașului cu o vizită la Teatrul Whale și o plimbare prin istoricul domeniu Burnaby. Ziua se încheie cu o privire la splendoarea apusă a Hotelului La Touche și un prânz târziu la unul dintre restaurantele primitoare din apropiere, reflectând la frumusețea coastei irlandeze.",
+        "en": "Your day in Greystones begins at the bustling harbour, enjoying the sea breeze and maritime atmosphere. A short stroll takes you to the stony South Beach, perfect for a refreshing morning walk. At midday, you'll venture onto the start of the famous Cliff Walk for spectacular coastal views without committing to a long hike. The afternoon is for exploring the town's cultural heart with a visit to The Whale Theatre and a wander through the historic Burnaby Estate. The day concludes by viewing the faded grandeur of the La Touche Hotel and enjoying a late lunch at one of the cozy nearby eateries, reflecting on the beauty of the Irish coast."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Happy Pear",
+            "tip": "Berühmt für seine vegetarische und vegane Küche. Probieren Sie die Salatschüsseln."
+          },
+          {
+            "name": "Bochelli",
+            "tip": "Authentische italienische Pizza und Pasta, ein lokaler Favorit."
+          },
+          {
+            "name": "Fish & Chips von Leo Burdock",
+            "tip": "Ein klassisches irisches Gericht, das man am besten am Hafen isst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Happy Pear",
+            "tip": "Híres a vegetáriánus és vegán ételeiről. Kóstold meg a salátatálakat."
+          },
+          {
+            "name": "Bochelli",
+            "tip": "Autentikus olasz pizza és tészta, a helyiek kedvence."
+          },
+          {
+            "name": "Leo Burdock Fish & Chips",
+            "tip": "Klasszikus ír fogás, a legjobb a kikötőben fogyasztani."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Happy Pear",
+            "tip": "Faimos pentru bucătăria sa vegetariană și vegană. Încercați bolurile de salată."
+          },
+          {
+            "name": "Bochelli",
+            "tip": "Pizza și paste italiene autentice, un favorit local."
+          },
+          {
+            "name": "Fish & Chips de la Leo Burdock",
+            "tip": "Un preparat clasic irlandez, cel mai bine savurat lângă port."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Happy Pear",
+            "tip": "Famous for its vegetarian and vegan food. Try the salad bowls."
+          },
+          {
+            "name": "Bochelli",
+            "tip": "Authentic Italian pizza and pasta, a local favourite."
+          },
+          {
+            "name": "Leo Burdock's Fish & Chips",
+            "tip": "A classic Irish staple, best eaten by the harbour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Burnaby Estate",
+            "tip": "Ein friedlicher Spaziergang durch die ruhigen, von Bäumen gesäumten Straßen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "St. Crispin's Cell",
+            "tip": "Eine kleine, alte Ruine, die einen Moment der stillen Besinnung bietet.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Der Cliff Walk bei Sonnenaufgang",
+            "tip": "Erleben Sie die Küste in ihrer ruhigsten Form.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Burnaby birtok",
+            "tip": "Békés séta a csendes, fákkal szegélyezett utcákon.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szent Kriszpin cellája",
+            "tip": "Egy apró, ősi rom, amely egy csendes elmélkedés pillanatát kínálja.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A Cliff Walk napkeltekor",
+            "tip": "Tapasztald meg a tengerpartot a legnyugodtabb állapotában.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Domeniul Burnaby",
+            "tip": "O plimbare pașnică pe străzile liniștite, mărginite de copaci.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Chilia Sf. Crispin",
+            "tip": "O mică ruină veche care oferă un moment de reflecție tăcută.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Promenada de pe faleză la răsărit",
+            "tip": "Experimentați coasta în cea mai liniștită formă a sa.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Burnaby Estate",
+            "tip": "A peaceful stroll through the quiet, tree-lined streets.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "St. Crispin's Cell",
+            "tip": "A tiny, ancient ruin that offers a moment of quiet reflection.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "The Cliff Walk at sunrise",
+            "tip": "Experience the coast at its most tranquil.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Greystones Wochenmarkt",
+            "tip": "Lokale Produkte, Kunsthandwerk und eine lebhafte Atmosphäre (prüfen Sie die Tage)."
+          },
+          {
+            "name": "Bridge Auctioneers",
+            "tip": "Ein interessanter Ort, um nach einzigartigen Antiquitäten und Sammlerstücken zu stöbern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Greystones-i termelői piac",
+            "tip": "Helyi termékek, kézműves termékek és élénk hangulat (ellenőrizd a napokat)."
+          },
+          {
+            "name": "Bridge Auctioneers",
+            "tip": "Érdekes hely egyedi régiségek és gyűjteménydarabok böngészéséhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală Greystones",
+            "tip": "Produse locale, artizanat și o atmosferă plină de viață (verificați zilele)."
+          },
+          {
+            "name": "Bridge Auctioneers",
+            "tip": "Un loc interesant pentru a căuta antichități unice și obiecte de colecție."
+          }
+        ],
+        "en": [
+          {
+            "name": "Greystones Weekly Market",
+            "tip": "Local produce, crafts, and a lively atmosphere (check for days)."
+          },
+          {
+            "name": "Bridge Auctioneers",
+            "tip": "An interesting place to browse for unique antiques and collectibles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel auf unebenem Gelände laufen werden.",
+          "Eine wasserdichte Jacke ist immer eine gute Idee in Irland, auch an sonnigen Tagen.",
+          "Viele Cafés bieten kostenloses WLAN, falls Sie eine Karte überprüfen müssen.",
+          "Der Spaziergang entlang des Strandes ist bei Ebbe am einfachsten."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, mivel sokat fogsz sétálni egyenetlen terepen.",
+          "Egy vízálló dzseki mindig jó ötlet Írországban, még napos napokon is.",
+          "Sok kávézó kínál ingyenes Wi-Fi-t, ha ellenőrizned kell a térképet.",
+          "A tengerparti séta apálykor a legkönnyebb."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe teren denivelat.",
+          "O jachetă impermeabilă este întotdeauna o idee bună în Irlanda, chiar și în zilele însorite.",
+          "Multe cafenele oferă Wi-Fi gratuit dacă trebuie să verificați o hartă.",
+          "Plimbarea de-a lungul plajei este cea mai ușoară la reflux."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking on varied terrain.",
+          "A waterproof jacket is always a good idea in Ireland, even on sunny days.",
+          "Many cafes offer free Wi-Fi if you need to check a map.",
+          "Walking along the beach is easiest at low tide."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradverleih & Start",
+            "hu": "Kerékpárkölcsönző és Indulás",
+            "ro": "Închiriere biciclete și Start",
+            "en": "Bike Rental & Start"
+          },
+          "coords": [
+            -6.063,
+            53.144
+          ],
+          "category": "other",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Mieten Sie Ihr Fahrrad für den Tag. Fragen Sie nach einem Schloss und einem Helm.",
+            "hu": "Bérelj biciklit a mai napra. Kérj lakatot és sisakot is.",
+            "ro": "Închiriați-vă bicicleta pentru o zi. Cereți un lacăt și o cască.",
+            "en": "Rent your bike for the day. Ask for a lock and a helmet."
+          }
+        },
+        {
+          "name": {
+            "de": "Kindlestown Castle",
+            "hu": "Kindlestown kastély",
+            "ro": "Castelul Kindlestown",
+            "en": "Kindlestown Castle"
+          },
+          "coords": [
+            -6.088,
+            53.148
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Eine kurze, aber steile Fahrt bergauf. Die Ruinen sind bescheiden, aber die Aussicht ist es wert.",
+            "hu": "Rövid, de meredek út felfelé. A romok szerények, de a kilátás megéri.",
+            "ro": "O urcare scurtă, dar abruptă. Ruinele sunt modeste, dar priveliștea merită.",
+            "en": "A short but steep uphill ride. The ruins are modest but the view is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Burnaby Estate",
+            "hu": "Burnaby birtok",
+            "ro": "Domeniul Burnaby",
+            "en": "Burnaby Estate"
+          },
+          "coords": [
+            -6.07,
+            53.142
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:32",
+          "stay_min": 45,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Radeln Sie langsam durch die eleganten Straßen und bewundern Sie die Architektur.",
+            "hu": "Tekerj lassan az elegáns utcákon, és csodáld meg az építészetet.",
+            "ro": "Pedalați încet pe străzile elegante și admirați arhitectura.",
+            "en": "Cycle slowly through the elegant streets and admire the architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Greystones",
+            "hu": "Greystones kikötője",
+            "ro": "Portul Greystones",
+            "en": "Greystones Harbour"
+          },
+          "coords": [
+            -6.058,
+            53.146
+          ],
+          "category": "port",
+          "arrive_at": "11:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und genießen Sie ein Mittagessen in einem der Restaurants am Meer.",
+            "hu": "Zárd le a biciklidet, és ebédelj meg az egyik tengerparti étteremben.",
+            "ro": "Încuiați-vă bicicleta și bucurați-vă de prânz la unul dintre restaurantele de la malul mării.",
+            "en": "Lock up your bike and enjoy lunch at one of the seaside eateries."
+          }
+        },
+        {
+          "name": {
+            "de": "South Beach",
+            "hu": "South Beach (Déli strand)",
+            "ro": "Plaja de Sud",
+            "en": "South Beach"
+          },
+          "coords": [
+            -6.057,
+            53.141
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein schöner Ort, um sich nach dem Mittagessen zu entspannen und die Meeresluft zu genießen.",
+            "hu": "Remek hely az ebéd utáni pihenésre és a tengeri levegő élvezetére.",
+            "ro": "Un loc minunat pentru a vă relaxa după prânz și a vă bucura de aerul mării.",
+            "en": "A lovely spot to relax after lunch and enjoy the sea air."
+          }
+        },
+        {
+          "name": {
+            "de": "Greystones Cliff Walk (Küstenradweg)",
+            "hu": "Greystones sziklasétány (parti bicikliút)",
+            "ro": "Promenada de pe faleza Greystones (pistă de biciclete de coastă)",
+            "en": "Greystones Cliff Walk (Coastal Cycle)"
+          },
+          "coords": [
+            -6.055,
+            53.13
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:24",
+          "stay_min": 120,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Radfahren Sie einen Teil des Küstenweges nach Süden für eine andere Perspektive.",
+            "hu": "Biciklizz dél felé a parti út egy szakaszán egy másfajta nézőpontért.",
+            "ro": "Pedalați spre sud pe o parte a traseului de coastă pentru o perspectivă diferită.",
+            "en": "Cycle a portion of the coastal path south for a different perspective."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radtag beginnt damit, dass Sie sich ein Fahrrad schnappen und zum historischen Kindlestown Castle hinauffahren, wo Sie mit Panoramablicken belohnt werden. Von dort aus gleiten Sie durch die eleganten Straßen des Burnaby Estate und bewundern die edwardianische Architektur. Mittags fahren Sie zum lebhaften Hafen von Greystones, um Ihr Fahrrad abzustellen und ein wohlverdientes Mittagessen am Meer zu genießen. Am Nachmittag entspannen Sie sich am South Beach, bevor Sie eine malerische Fahrt entlang des Küstenwegs unternehmen, die Ihnen eine einzigartige Perspektive auf die berühmte Cliff Walk-Route bietet. Es ist ein Tag, der Geschichte, Architektur und die atemberaubende natürliche Schönheit der Küste von Wicklow vereint.",
+        "hu": "A biciklis nap egy kerékpár bérlésével kezdődik, majd feltekersz a történelmi Kindlestown kastélyhoz, ahol panorámás kilátás a jutalmad. Onnan a Burnaby birtok elegáns utcáin siklasz végig, megcsodálva az Edward-korabeli építészetet. Délben Greystones nyüzsgő kikötőjéhez mész, ahol lezárod a biciklidet és egy jól megérdemelt tengerparti ebédet fogyasztasz el. Délután a South Beach-en pihensz, mielőtt egy festői tekerésre indulsz a parti ösvényen, amely egyedi perspektívát kínál a híres Cliff Walk útvonalra. Ez a nap ötvözi a történelmet, az építészetet és Wicklow partjainak lenyűgöző természeti szépségét.",
+        "ro": "Ziua de ciclism începe cu închirierea unei biciclete și urcarea la istoricul Castel Kindlestown, unde veți fi răsplătit cu vederi panoramice. De acolo, veți aluneca pe străzile elegante ale Domeniului Burnaby, admirând arhitectura edwardiană. La prânz, vă îndreptați spre portul plin de viață din Greystones pentru a vă încuia bicicleta și a savura un prânz binemeritat la malul mării. După-amiaza este dedicată relaxării la South Beach înainte de a face o plimbare pitorească de-a lungul cărării de coastă, oferind o perspectivă unică asupra faimoasei rute Cliff Walk. Este o zi care îmbină istoria, arhitectura și frumusețea naturală uluitoare a coastei Wicklow.",
+        "en": "Your cycling day starts by grabbing a bike and heading up to the historic Kindlestown Castle, where you're rewarded with panoramic views. From there, you'll glide through the elegant streets of the Burnaby Estate, admiring the Edwardian architecture. At midday, you'll coast down to Greystones' lively harbour to lock up your bike and enjoy a well-deserved seaside lunch. The afternoon is for relaxing on South Beach before taking a scenic ride along the coastal path, giving you a unique perspective on the famous Cliff Walk route. It's a day combining history, architecture, and the stunning natural beauty of the Wicklow coast."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Fat Fox",
+            "tip": "Bekannt für seine Kaffeespezialitäten und leckeren Sandwiches."
+          },
+          {
+            "name": "Daata",
+            "tip": "Authentische pakistanische Küche, eine köstliche Abwechslung."
+          },
+          {
+            "name": "Platform Pizza",
+            "tip": "In einer umgebauten Bahnhofshalle gelegen, tolle Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Fat Fox",
+            "tip": "Kávékülönlegességeiről és finom szendvicseiről ismert."
+          },
+          {
+            "name": "Daata",
+            "tip": "Autentikus pakisztáni konyha, ízletes változatosság."
+          },
+          {
+            "name": "Platform Pizza",
+            "tip": "Egy átalakított vasútállomás-épületben található, remek hangulattal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Fat Fox",
+            "tip": "Renumit pentru cafelele de specialitate și sandvișurile gustoase."
+          },
+          {
+            "name": "Daata",
+            "tip": "Bucătărie pakistaneză autentică, o schimbare delicioasă de ritm."
+          },
+          {
+            "name": "Platform Pizza",
+            "tip": "Amplasat într-o hală de gară reconvertită, atmosferă excelentă."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Fat Fox",
+            "tip": "Known for its specialty coffees and delicious sandwiches."
+          },
+          {
+            "name": "Daata",
+            "tip": "Authentic Pakistani cuisine, a delicious change of pace."
+          },
+          {
+            "name": "Platform Pizza",
+            "tip": "Situated in a converted train station hall, great atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Der Garten von St. Crispin's Cell",
+            "tip": "Ein versteckter, ruhiger Ort neben der alten Ruine.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Die südliche Küstenroute",
+            "tip": "Weg vom Trubel, nur Sie und das Meer.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sonnenuntergang am Hafen",
+            "tip": "Beobachten Sie, wie die Farben des Himmels das Wasser spiegeln.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Kriszpin cellájának kertje",
+            "tip": "Egy rejtett, békés hely az ősi rom mellett.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A déli parti útvonal",
+            "tip": "Távol a tömegtől, csak te és a tenger.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Naplemente a kikötőben",
+            "tip": "Nézd, ahogy az ég színei visszatükröződnek a vízen.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Chiliei Sf. Crispin",
+            "tip": "Un loc ascuns și liniștit, lângă ruina veche.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Traseul de coastă sudic",
+            "tip": "Departe de aglomerație, doar tu și marea.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Apus de soare la port",
+            "tip": "Priviți cum culorile cerului se reflectă în apă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Crispin's Cell garden",
+            "tip": "A hidden, peaceful spot next to the ancient ruin.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "The southern coastal route",
+            "tip": "Away from the crowds, just you and the sea.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sunset at the harbour",
+            "tip": "Watch the sky's colours reflect on the water.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "AnniePooh",
+            "tip": "Ein schönes Geschäft für irisches Design und Geschenke."
+          },
+          {
+            "name": "Village Bookshop",
+            "tip": "Ein unabhängiger Buchladen mit einer großen Auswahl an irischer Literatur."
+          }
+        ],
+        "hu": [
+          {
+            "name": "AnniePooh",
+            "tip": "Egy szép bolt ír dizájnnal és ajándékokkal."
+          },
+          {
+            "name": "Village Bookshop",
+            "tip": "Független könyvesbolt, ír irodalom széles választékával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "AnniePooh",
+            "tip": "Un magazin drăguț cu design și cadouri irlandeze."
+          },
+          {
+            "name": "Village Bookshop",
+            "tip": "O librărie independentă cu o selecție excelentă de literatură irlandeză."
+          }
+        ],
+        "en": [
+          {
+            "name": "AnniePooh",
+            "tip": "A lovely shop for Irish design and gifts."
+          },
+          {
+            "name": "Village Bookshop",
+            "tip": "An independent bookshop with a great selection of Irish literature."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Bremsen und Reifen, bevor Sie losfahren.",
+          "Einige Straßen können eng sein, fahren Sie also defensiv.",
+          "Schließen Sie Ihr Fahrrad immer an, auch wenn Sie nur für ein paar Minuten anhalten.",
+          "Nehmen Sie Wasser und Snacks für Ihre Fahrt mit."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizd a fékeket és a gumikat.",
+          "Néhány utca szűk lehet, vezess védekezően.",
+          "Mindig zárd le a biciklidet, még akkor is, ha csak pár percre állsz meg.",
+          "Vigyél vizet és harapnivalót az útra."
+        ],
+        "ro": [
+          "Verificați frânele și anvelopele înainte de a porni.",
+          "Unele drumuri pot fi înguste, așa că adoptați un stil de condus defensiv.",
+          "Încuiați-vă întotdeauna bicicleta, chiar dacă vă opriți doar pentru câteva minute.",
+          "Luați apă și gustări pentru plimbare."
+        ],
+        "en": [
+          "Check your brakes and tires before you set off.",
+          "Some roads can be narrow, so ride defensively.",
+          "Always lock your bike, even if stopping for just a few minutes.",
+          "Bring water and snacks for your ride."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken bei Kindlestown Castle",
+            "hu": "Parkolás a Kindlestown kastélynál",
+            "ro": "Parcare la Castelul Kindlestown",
+            "en": "Parking at Kindlestown Castle"
+          },
+          "coords": [
+            -6.088,
+            53.148
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier. Es ist einfacher, morgens einen Parkplatz zu finden.",
+            "hu": "Kezdd itt a napot. Reggel könnyebb parkolóhelyet találni.",
+            "ro": "Începeți-vă ziua aici. Este mai ușor să găsiți parcare dimineața.",
+            "en": "Start your day here. It's easier to find parking in the morning."
+          },
+          "hop_mode": "car"
+        },
+        {
+          "name": {
+            "de": "St. Crispin's Cell",
+            "hu": "Szent Kriszpin cellája",
+            "ro": "Chilia Sf. Crispin",
+            "en": "St. Crispin's Cell"
+          },
+          "coords": [
+            -6.085,
+            53.149
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Burgruine. Ein Moment der Ruhe.",
+            "hu": "Rövid séta a várromtól. Egy pillanatnyi béke.",
+            "ro": "O scurtă plimbare de la ruinele castelului. Un moment de liniște.",
+            "en": "A short walk from the castle ruins. A moment of peace."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Fahrt und Parken am Hafen",
+            "hu": "Autózás és parkolás a kikötőnél",
+            "ro": "Condus și parcare în port",
+            "en": "Drive and Park at the Harbour"
+          },
+          "coords": [
+            -6.059,
+            53.146
+          ],
+          "category": "port",
+          "arrive_at": "10:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto für den Rest des Tages. Genießen Sie ein Mittagessen und erkunden Sie zu Fuß.",
+            "hu": "Parkold le az autót a nap hátralévő részére. Ebédelj meg, és fedezd fel a környéket gyalog.",
+            "ro": "Parcați mașina pentru restul zilei. Bucurați-vă de prânz și explorați pe jos.",
+            "en": "Park your car for the rest of the day. Enjoy lunch and explore on foot."
+          },
+          "hop_mode": "car"
+        },
+        {
+          "name": {
+            "de": "The Whale Theatre",
+            "hu": "The Whale Színház",
+            "ro": "Teatrul Whale",
+            "en": "The Whale Theatre"
+          },
+          "coords": [
+            -6.064,
+            53.144
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:35",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schauen Sie sich die Jugendstil-Architektur an, während Sie zum Mittagessen gehen.",
+            "hu": "Nézd meg a szecessziós építészetet ebédre menet.",
+            "ro": "Admirați arhitectura Art Nouveau în timp ce vă îndreptați spre prânz.",
+            "en": "Check out the Art Nouveau architecture as you walk to lunch."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "South Beach",
+            "hu": "South Beach (Déli strand)",
+            "ro": "Plaja de Sud",
+            "en": "South Beach"
+          },
+          "coords": [
+            -6.057,
+            53.141
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein entspannender Spaziergang nach dem Mittagessen, um die Meeresbrise zu genießen.",
+            "hu": "Egy pihentető séta ebéd után, hogy élvezd a tengeri szellőt.",
+            "ro": "O plimbare relaxantă după prânz pentru a vă bucura de briza mării.",
+            "en": "A relaxing walk after lunch to enjoy the sea breeze."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Greystones Cliff Walk (Aussichtspunkt)",
+            "hu": "Greystones sziklasétány (kilátópont)",
+            "ro": "Promenada de pe faleza Greystones (punct de belvedere)",
+            "en": "Greystones Cliff Walk (Viewpoint)"
+          },
+          "coords": [
+            -6.055,
+            53.138
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:45",
+          "stay_min": 150,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Fahrt zum Anfang des Weges, um die beste Aussicht zu genießen, ohne weit zu laufen.",
+            "hu": "Tegyen egy rövid autós kitérőt az ösvény elejéhez a legjobb kilátásért, anélkül, hogy sokat kellene gyalogolni.",
+            "ro": "Faceți o scurtă călătorie cu mașina până la începutul potecii pentru cele mai bune priveliști, fără a merge mult pe jos.",
+            "en": "Take a short drive to the head of the trail for the best views without a long walk."
+          },
+          "hop_mode": "car"
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Autotag mit einer strategischen Fahrt zum Kindlestown Castle, wo das Parken am Morgen einfacher ist. Nach der Erkundung der Ruinen und einem kurzen Spaziergang zur stillen St. Crispin's Cell fahren Sie zum zweiten Cluster: dem Hafen von Greystones. Hier parken Sie für den Rest des Tages. Genießen Sie ein Mittagessen und erkunden Sie dann zu Fuß die Umgebung, einschließlich des Whale Theatre und eines entspannenden Spaziergangs am South Beach. Für den letzten Akt machen Sie eine kurze Fahrt zum Anfang des Cliff Walk, um die atemberaubende Aussicht zu genießen, ohne sich auf eine anstrengende Wanderung einlassen zu müssen. Diese Reiseroute maximiert den Komfort und das Erlebnis, indem sie kurze Fahrten mit angenehmen Spaziergängen kombiniert.",
+        "hu": "Kezdje az autós napot egy stratégiai utazással a Kindlestown kastélyhoz, ahol reggel könnyebb a parkolás. A romok felfedezése és egy rövid séta a csendes Szent Kriszpin cellájához után vezessen a második klaszterhez: Greystones kikötőjéhez. Itt parkoljon le a nap hátralévő részére. Ebédeljen meg, majd gyalog fedezze fel a környéket, beleértve a Whale Színházat és egy pihentető sétát a South Beach-en. Az utolsó felvonásként tegyen egy rövid autós kitérőt a Cliff Walk elejéhez, hogy megerőltető túra nélkül élvezhesse a lélegzetelállító kilátást. Ez az útiterv maximalizálja a kényelmet és az élményt a rövid autózások és a kellemes séták ötvözésével.",
+        "ro": "Începeți ziua cu mașina printr-o călătorie strategică la Castelul Kindlestown, unde parcarea este mai ușoară dimineața. După explorarea ruinelor și o scurtă plimbare la liniștita Chilie a Sf. Crispin, conduceți la al doilea grup: portul Greystones. Aici, parcați pentru restul zilei. Bucurați-vă de prânz, apoi explorați zona înconjurătoare pe jos, inclusiv Teatrul Whale și o plimbare relaxantă pe South Beach. Pentru actul final, faceți o scurtă călătorie cu mașina până la începutul promenadei Cliff Walk pentru a admira priveliștile uimitoare fără a vă angaja într-o drumeție obositoare. Acest itinerar maximizează confortul și experiența, amestecând călătorii scurte cu mașina cu plimbări plăcute.",
+        "en": "Start your car day with a strategic drive to Kindlestown Castle, where parking is easier in the morning. After exploring the ruins and a short walk to the tranquil St. Crispin's Cell, you'll drive to the second cluster: Greystones Harbour. Here, you park for the day. Enjoy lunch, then explore the surrounding area on foot, including The Whale Theatre and a relaxing stroll on South Beach. For the final act, take a short drive to the head of the Cliff Walk to capture the stunning views without committing to a strenuous hike. This itinerary maximizes convenience and experience by blending short drives with pleasant walks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Three Q's",
+            "tip": "Moderne irische Küche in einem eleganten Ambiente."
+          },
+          {
+            "name": "Summervilles",
+            "tip": "Großartig für ein gemütliches Frühstück oder Mittagessen mit hausgemachten Speisen."
+          },
+          {
+            "name": "Enso's",
+            "tip": "Pizza vom Fass und eine lebhafte Bar-Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Three Q's",
+            "tip": "Modern ír konyha elegáns környezetben."
+          },
+          {
+            "name": "Summervilles",
+            "tip": "Kiváló egy laza reggelihez vagy ebédhez, házi készítésű ételekkel."
+          },
+          {
+            "name": "Enso's",
+            "tip": "Pizza csapról és élénk bárhangulat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Three Q's",
+            "tip": "Bucătărie irlandeză modernă într-un cadru elegant."
+          },
+          {
+            "name": "Summervilles",
+            "tip": "Excelent pentru un mic dejun sau prânz relaxat, cu mâncare de casă."
+          },
+          {
+            "name": "Enso's",
+            "tip": "Pizza la halbă și o atmosferă de bar plină de viață."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Three Q's",
+            "tip": "Modern Irish cuisine in an elegant setting."
+          },
+          {
+            "name": "Summervilles",
+            "tip": "Great for a casual breakfast or lunch with homemade food."
+          },
+          {
+            "name": "Enso's",
+            "tip": "Pizza by the slice and a lively bar atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Burnaby Park",
+            "tip": "Ein ruhiger Park im Herzen des Burnaby Estate.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Die Felsen am Nordende von South Beach",
+            "tip": "Ein ruhiger Ort, um dazusitzen und den Wellen zuzusehen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Abendspaziergang am Hafen",
+            "tip": "Ruhiger, wenn die Tagesausflügler weg sind.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Burnaby Park",
+            "tip": "Békés park a Burnaby birtok szívében.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "A sziklák a South Beach északi végén",
+            "tip": "Csendes hely, ahol leülhetsz és nézheted a hullámokat.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Esti séta a kikötőben",
+            "tip": "Csendesebb, miután a napközbeni kirándulók elmentek.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Burnaby",
+            "tip": "Un parc liniștit în inima Domeniului Burnaby.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Stâncile de la capătul nordic al Plajei de Sud",
+            "tip": "Un loc liniștit pentru a sta și a privi valurile.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare de seară în port",
+            "tip": "Mai liniștit după ce pleacă excursioniștii de o zi.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Burnaby Park",
+            "tip": "A quiet park in the heart of the Burnaby Estate.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "The rocks at the north end of South Beach",
+            "tip": "A quiet spot to sit and watch the waves.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Evening stroll at the harbour",
+            "tip": "Quieter once the day-trippers have left.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Eleven Deli",
+            "tip": "Kaufen Sie lokale Käsesorten, Chutneys und andere irische Feinkost."
+          },
+          {
+            "name": "La Luna",
+            "tip": "Einzigartiger Schmuck und Geschenke von irischen Designern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Eleven Deli",
+            "tip": "Vásárolj helyi sajtokat, chutney-kat és más ír finomságokat."
+          },
+          {
+            "name": "La Luna",
+            "tip": "Egyedi ékszerek és ajándékok ír tervezőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Eleven Deli",
+            "tip": "Cumpărați brânzeturi locale, chutney-uri și alte delicatese irlandeze."
+          },
+          {
+            "name": "La Luna",
+            "tip": "Bijuterii și cadouri unice de la designeri irlandezi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Eleven Deli",
+            "tip": "Pick up some local cheeses, chutneys, and other Irish deli items."
+          },
+          {
+            "name": "La Luna",
+            "tip": "Unique jewellery and gifts from Irish designers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Parkgebühren können variieren, halten Sie also Kleingeld bereit.",
+          "Achten Sie auf Parkbeschränkungen, insbesondere in Wohngebieten.",
+          "Der Verkehr kann im Sommer und an Wochenenden zunehmen, planen Sie also zusätzliche Zeit ein.",
+          "Verwenden Sie eine Navigations-App, um die besten Parkplätze in der Nähe der Cluster zu finden."
+        ],
+        "hu": [
+          "A parkolási díjak változhatnak, legyen nálad aprópénz.",
+          "Figyelj a parkolási korlátozásokra, különösen a lakóövezetekben.",
+          "A forgalom nyáron és hétvégén megnőhet, tervezz plusz idővel.",
+          "Használj navigációs alkalmazást a klaszterekhez közeli legjobb parkolóhelyek megtalálásához."
+        ],
+        "ro": [
+          "Taxele de parcare pot varia, așa că aveți la îndemână monede.",
+          "Fiți atenți la restricțiile de parcare, în special în zonele rezidențiale.",
+          "Traficul poate crește în timpul verii și în weekend, așa că planificați timp suplimentar.",
+          "Folosiți o aplicație de navigare pentru a găsi cele mai bune locuri de parcare lângă grupuri."
+        ],
+        "en": [
+          "Parking fees can vary, so have some change handy.",
+          "Be mindful of parking restrictions, especially in residential areas.",
+          "Traffic can get busy during summer and weekends, so plan for extra time.",
+          "Use a navigation app to find the best parking spots near the clusters."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof Greystones",
+            "hu": "Érkezés a Greystones vasútállomásra",
+            "ro": "Sosire la Gara Greystones",
+            "en": "Arrival at Greystones Station"
+          },
+          "coords": [
+            -6.065,
+            53.144
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den DART-Zug für eine malerische Anreise entlang der Küste.",
+            "hu": "Utazz a DART vonattal a festői tengerparti útvonalon.",
+            "ro": "Luați trenul DART pentru o sosire pitorească de-a lungul coastei.",
+            "en": "Take the DART train for a scenic arrival along the coast."
+          },
+          "hop_mode": "transit"
+        },
+        {
+          "name": {
+            "de": "Hafen von Greystones",
+            "hu": "Greystones kikötője",
+            "ro": "Portul Greystones",
+            "en": "Greystones Harbour"
+          },
+          "coords": [
+            -6.058,
+            53.146
+          ],
+          "category": "port",
+          "arrive_at": "09:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Bahnhof zum ersten Cluster des Tages.",
+            "hu": "Rövid séta az állomástól a nap első klaszteréhez.",
+            "ro": "O scurtă plimbare de la gară la primul grup al zilei.",
+            "en": "A short walk from the station to the day's first cluster."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "South Beach",
+            "hu": "South Beach (Déli strand)",
+            "ro": "Plaja de Sud",
+            "en": "South Beach"
+          },
+          "coords": [
+            -6.057,
+            53.141
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:12",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht auf das Meer, bevor Sie weiter ins Landesinnere gehen.",
+            "hu": "Élvezd a tengeri kilátást, mielőtt beljebb mennél a szárazföld felé.",
+            "ro": "Bucurați-vă de priveliștea mării înainte de a vă îndrepta spre interior.",
+            "en": "Enjoy the sea views before heading further inland."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Burnaby Estate",
+            "hu": "Buszozás a Burnaby birtokhoz",
+            "ro": "Călătorie cu autobuzul la Domeniul Burnaby",
+            "en": "Bus to Burnaby Estate"
+          },
+          "coords": [
+            -6.07,
+            53.142
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus, um zum zweiten Cluster zu gelangen und Energie zu sparen.",
+            "hu": "Menj helyi busszal a második klaszterhez, hogy energiát spórolj.",
+            "ro": "Luați un autobuz local pentru a ajunge la al doilea grup și a economisi energie.",
+            "en": "Take a local bus to get to the second cluster and save your energy."
+          },
+          "hop_mode": "transit"
+        },
+        {
+          "name": {
+            "de": "The Whale Theatre",
+            "hu": "The Whale Színház",
+            "ro": "Teatrul Whale",
+            "en": "The Whale Theatre"
+          },
+          "coords": [
+            -6.064,
+            53.144
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie zurück in Richtung Bahnhof und machen Sie eine Mittagspause in der Nähe des Theaters.",
+            "hu": "Sétálj vissza az állomás felé, és tarts ebédszünetet a színház közelében.",
+            "ro": "Plimbați-vă înapoi spre gară, luând o pauză de prânz lângă teatru.",
+            "en": "Stroll back towards the station area, taking a lunch break near the theatre."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Abfahrt vom Bahnhof Greystones",
+            "hu": "Indulás a Greystones vasútállomásról",
+            "ro": "Plecare de la Gara Greystones",
+            "en": "Departure from Greystones Station"
+          },
+          "coords": [
+            -6.065,
+            53.144
+          ],
+          "category": "transport",
+          "arrive_at": "14:40",
+          "stay_min": 155,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in einem Café in der Nähe des Bahnhofs, bevor Sie den DART zurück nehmen.",
+            "hu": "Pihenj egy kávézóban az állomás közelében, mielőtt visszamennél a DART-tal.",
+            "ro": "Relaxați-vă la o cafenea lângă gară înainte de a lua trenul DART înapoi.",
+            "en": "Relax at a cafe near the station before catching the DART back."
+          },
+          "hop_mode": "walk"
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Reise beginnt mit einer malerischen Fahrt mit dem DART-Zug nach Greystones. Vom Bahnhof aus ist es nur ein kurzer Spaziergang zu Ihrem ersten Erkundungscluster: dem Hafen und dem erfrischenden South Beach. Genießen Sie die maritime Atmosphäre, bevor Sie einen lokalen Bus zum zweiten Cluster nehmen. Dieser Transit-Hop bringt Sie in die Nähe des historischen Burnaby Estate, das Sie in Ihrem eigenen Tempo erkunden können. Danach schlendern Sie zurück in Richtung Stadtzentrum, machen eine Mittagspause in der Nähe des Whale Theatre und beenden Ihren Tag mit einem entspannten Kaffee, bevor Sie den Zug nach Hause nehmen. Dieser Plan kombiniert die malerische Anreise mit dem Zug mit effizienten Spaziergängen und einem kurzen Bustransfer für ein stressfreies Erlebnis.",
+        "hu": "Az utazás a DART vonattal kezdődik, egy festői úton Greystones-ba. Az állomásról rövid séta vezet az első felfedező klaszterhez: a kikötőhöz és a frissítő South Beach-hez. Élvezze a tengeri hangulatot, mielőtt helyi buszra szállna a második klaszterhez. Ez a közlekedési ugrás a történelmi Burnaby birtok közelébe visz, amelyet saját tempójában fedezhet fel. Ezután sétáljon vissza a városközpont felé, tartson ebédszünetet a Whale Színház közelében, és fejezze be a napot egy pihentető kávéval, mielőtt hazaindulna a vonattal. Ez a terv ötvözi a festői vonatos érkezést a hatékony sétákkal és egy rövid busztranszferrel a stresszmentes élmény érdekében.",
+        "ro": "Călătoria dvs. începe cu o plimbare pitorească cu trenul DART până la Greystones. De la gară, este o scurtă plimbare până la primul grup de explorare: portul și plaja răcoroasă South Beach. Bucurați-vă de atmosfera maritimă înainte de a lua un autobuz local către al doilea grup. Acest salt de tranzit vă aduce aproape de istoricul Domeniu Burnaby, pe care îl puteți explora în ritmul propriu. După aceea, vă plimbați înapoi spre centrul orașului, luați o pauză de prânz lângă Teatrul Whale și încheiați ziua cu o cafea relaxantă înainte de a lua trenul spre casă. Acest plan echilibrează sosirea pitorească cu trenul cu plimbări eficiente și un scurt transfer cu autobuzul pentru o experiență fără stres.",
+        "en": "Your journey begins with a scenic DART train ride into Greystones. From the station, it's a short walk to your first cluster of exploration: the harbour and the refreshing South Beach. Soak in the maritime atmosphere before hopping on a local bus to the second cluster. This transit hop brings you near the historic Burnaby Estate, which you can explore at your leisure. Afterwards, you'll stroll back towards the town centre, take a lunch break near The Whale Theatre, and end your day with a relaxing coffee before catching the train home. This plan balances the scenic train arrival with efficient walking and a short bus transfer for a stress-free experience."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sonny's",
+            "tip": "Ein beliebter Ort für Brunch und Kaffee direkt im Stadtzentrum."
+          },
+          {
+            "name": "The Burnaby",
+            "tip": "Ein klassischer Pub für ein herzhaftes Mittagessen und ein Pint."
+          },
+          {
+            "name": "Caffe Delle Stelle",
+            "tip": "Authentischer italienischer Kaffee und Gebäck in der Nähe des Bahnhofs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sonny's",
+            "tip": "Népszerű brunch- és kávézóhely a városközpontban."
+          },
+          {
+            "name": "The Burnaby",
+            "tip": "Klasszikus pub egy kiadós ebédhez és egy korsó sörhöz."
+          },
+          {
+            "name": "Caffe Delle Stelle",
+            "tip": "Autentikus olasz kávé és sütemények az állomás közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sonny's",
+            "tip": "Un loc popular pentru brunch și cafea chiar în centrul orașului."
+          },
+          {
+            "name": "The Burnaby",
+            "tip": "Un pub clasic pentru un prânz consistent și o halbă."
+          },
+          {
+            "name": "Caffe Delle Stelle",
+            "tip": "Cafea și produse de patiserie italiene autentice, lângă gară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sonny's",
+            "tip": "A popular spot for brunch and coffee right in the town centre."
+          },
+          {
+            "name": "The Burnaby",
+            "tip": "A classic pub for a hearty lunch and a pint."
+          },
+          {
+            "name": "Caffe Delle Stelle",
+            "tip": "Authentic Italian coffee and pastries near the station."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Die Gärten des Burnaby Estate",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die edwardianische Pracht.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Der DART-Zug am Fenster",
+            "tip": "Die Fahrt selbst bietet ruhige Momente mit Blick auf das Meer.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Später Nachmittag am South Beach",
+            "tip": "Weniger überfüllt und sehr friedlich.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Burnaby birtok kertjei",
+            "tip": "Találj egy csendes padot, és élvezd az Edward-korabeli pompát.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A DART vonat ablakánál",
+            "tip": "Maga az utazás is kínál csendes pillanatokat a tengerre néző kilátással.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Késő délután a South Beach-en",
+            "tip": "Kevésbé zsúfolt és nagyon békés.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Domeniului Burnaby",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de splendoarea edwardiană.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Trenul DART de la fereastră",
+            "tip": "Călătoria în sine oferă momente de liniște cu vedere la mare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "După-amiază târziu la South Beach",
+            "tip": "Mai puțin aglomerat și foarte pașnic.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "The gardens of the Burnaby Estate",
+            "tip": "Find a quiet bench and enjoy the Edwardian splendour.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "The DART train window seat",
+            "tip": "The journey itself offers quiet moments looking out at the sea.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Late afternoon at South Beach",
+            "tip": "Less crowded and very peaceful.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Nature's Gold",
+            "tip": "Ein Reformhaus mit einer großen Auswahl an Bio-Produkten und lokalen Waren."
+          },
+          {
+            "name": "The Greystones Antiques Centre",
+            "tip": "Stöbern Sie nach Schätzen und Kuriositäten aus der Vergangenheit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nature's Gold",
+            "tip": "Egészségbolt, bio termékek és helyi áruk nagy választékával."
+          },
+          {
+            "name": "The Greystones Antiques Centre",
+            "tip": "Böngéssz a múlt kincsei és érdekességei között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Nature's Gold",
+            "tip": "Un magazin de produse naturiste cu o selecție excelentă de produse organice și bunuri locale."
+          },
+          {
+            "name": "The Greystones Antiques Centre",
+            "tip": "Căutați comori și curiozități din trecut."
+          }
+        ],
+        "en": [
+          {
+            "name": "Nature's Gold",
+            "tip": "A health food shop with a great selection of organic and local goods."
+          },
+          {
+            "name": "The Greystones Antiques Centre",
+            "tip": "Browse for treasures and curiosities from the past."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Leap Card für günstigere Tarife im DART und bei den Bussen.",
+          "Überprüfen Sie den DART-Fahrplan im Voraus, besonders an Wochenenden.",
+          "Die Busfahrpläne können weniger häufig sein, planen Sie Ihre Transfers also sorgfältig.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind vom Bahnhof aus leicht zu Fuß erreichbar."
+        ],
+        "hu": [
+          "Vásárolj Leap Cardot az olcsóbb DART- és buszjegyekért.",
+          "Ellenőrizd előre a DART menetrendjét, különösen hétvégén.",
+          "A buszmenetrendek ritkábbak lehetnek, tervezd meg gondosan az átszállásokat.",
+          "A legtöbb belvárosi látnivaló könnyen megközelíthető gyalog az állomásról."
+        ],
+        "ro": [
+          "Cumpărați un card Leap pentru tarife mai ieftine la DART și autobuze.",
+          "Verificați din timp orarul DART, în special în weekend.",
+          "Orarele autobuzelor pot fi mai puțin frecvente, așa că planificați-vă cu atenție transferurile.",
+          "Majoritatea atracțiilor din centrul orașului sunt ușor accesibile pe jos de la gară."
+        ],
+        "en": [
+          "Buy a Leap Card for cheaper fares on the DART and buses.",
+          "Check the DART timetable in advance, especially on weekends.",
+          "Bus schedules can be less frequent, so plan your transfers carefully.",
+          "Most town centre attractions are within easy walking distance of the station."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1470 @@
+{
+  "city_id": "netherlands-bergen-op-zoom-cities-v2",
+  "anchor": {
+    "name": "Grote Markt, Bergen op Zoom",
+    "coords": [
+      4.2872,
+      51.4942
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadhuis & Grote Markt",
+            "hu": "Városháza és Fő tér",
+            "ro": "Primăria și Piața Mare (Grote Markt)",
+            "en": "City Hall & Grote Markt"
+          },
+          "coords": [
+            4.2872,
+            51.4942
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee in einem der vielen Cafés am Platz.",
+            "hu": "Indítsa a napot egy kávéval a téren található számos kávézó egyikében.",
+            "ro": "Începeți ziua cu o cafea la una dintre numeroasele cafenele din piață.",
+            "en": "Start your day with a coffee at one of the many cafes lining the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Sint-Gertrudiskerk",
+            "hu": "Szent Gertrúd-templom",
+            "ro": "Biserica Sf. Gertruda (Sint-Gertrudiskerk)",
+            "en": "St. Gertrude's Church"
+          },
+          "coords": [
+            4.2885,
+            51.4945
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf die wechselnden Ausstellungen, die oft im Inneren stattfinden.",
+            "hu": "Figyeljen a templom belsejében gyakran megrendezett időszaki kiállításokra.",
+            "ro": "Fiți atenți la expozițiile temporare care au loc adesea în interior.",
+            "en": "Look out for the changing exhibitions often held inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Peperbus Turm",
+            "hu": "Peperbus-torony",
+            "ro": "Turnul Peperbus",
+            "en": "Peperbus Tower"
+          },
+          "coords": [
+            4.2886,
+            51.4946
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Der Aufstieg ist eng, aber die Aussicht über die Dächer der Stadt ist es wert.",
+            "hu": "A lépcső szűk, de a város háztetőire nyíló kilátás megéri a fáradságot.",
+            "ro": "Urcușul este îngust, dar priveliștea deasupra acoperișurilor orașului merită.",
+            "en": "The climb is narrow, but the view over the city's rooftops is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Gevangenpoort",
+            "hu": "Börtönkapu",
+            "ro": "Poarta Prizonierilor (Gevangenpoort)",
+            "en": "Prisoner's Gate"
+          },
+          "coords": [
+            4.289,
+            51.4925
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:16",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Dies ist eines der ältesten Stadttore der Niederlande. Ein toller Fotostopp.",
+            "hu": "Ez Hollandia egyik legrégebbi városkapuja. Nagyszerű fotóhelyszín.",
+            "ro": "Aceasta este una dintre cele mai vechi porți de oraș din Țările de Jos. O oprire excelentă pentru fotografii.",
+            "en": "This is one of the oldest city gates in the Netherlands. A great photo stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Markiezenhof",
+            "hu": "Markiezenhof-palota",
+            "ro": "Palatul Markiezenhof",
+            "en": "Markiezenhof Palace"
+          },
+          "coords": [
+            4.29,
+            51.4955
+          ],
+          "category": "historical",
+          "arrive_at": "11:54",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Planen Sie hier Ihre Mittagspause ein; das Museumscafé ist charmant.",
+            "hu": "Tervezze ide az ebédszünetet; a múzeumi kávézó bájos.",
+            "ro": "Planificați-vă pauza de prânz aici; cafeneaua muzeului este fermecătoare.",
+            "en": "Plan your lunch break here; the museum cafe is charming."
+          }
+        },
+        {
+          "name": {
+            "de": "Theater De Maagd",
+            "hu": "De Maagd Színház",
+            "ro": "Teatrul De Maagd",
+            "en": "Theater De Maagd"
+          },
+          "coords": [
+            4.286,
+            51.495
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:02",
+          "stay_min": 20,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Umwandlung von einer Kirche in ein modernes Theater.",
+            "hu": "Csodálja meg, hogyan alakították át a templomot modern színházzá.",
+            "ro": "Admirați transformarea unei biserici într-un teatru modern.",
+            "en": "Admire the transformation from a church into a modern theatre."
+          }
+        },
+        {
+          "name": {
+            "de": "Ravelijn op den Zoom",
+            "hu": "Ravelijn op den Zoom erőd",
+            "ro": "Fortăreața Ravelijn op den Zoom",
+            "en": "Ravelijn op den Zoom Fortress"
+          },
+          "coords": [
+            4.278,
+            51.498
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Umgeben von Wasser, ist dies ein friedlicher Ort zum Entspannen am Nachmittag.",
+            "hu": "Vízzel körülvéve ez egy békés hely a délutáni pihenéshez.",
+            "ro": "Înconjurat de apă, acesta este un loc linișit pentru a vă relaxa după-amiaza.",
+            "en": "Surrounded by water, this is a peaceful spot to unwind in the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang auf dem belebten Grote Markt, dem Herzen der Stadt. Der Vormittag ist der Erkundung des historischen Zentrums gewidmet, einschließlich des Aufstiegs auf den Peperbus-Turm für eine atemberaubende Aussicht. Nach dem Mittagessen im prächtigen Markiezenhof, dem ältesten Stadtpalast der Niederlande, führt Sie ein längerer Spaziergang zur einzigartigen, von Wasser umgebenen Festung Ravelijn. Schließen Sie den Tag mit einem Spaziergang durch die ruhigen Festungsanlagen ab, eine perfekte Reflexion der reichen Geschichte von Bergen op Zoom.",
+        "hu": "Kezdje a sétát a nyüzsgő Grote Markton, a város szívében. A délelőtt a történelmi központ felfedezésével telik, beleértve a Peperbus-torony megmászását a lélegzetelállító kilátásért. Ebéd után a csodálatos Markiezenhofban, Hollandia legrégebbi városi palotájában, egy hosszabb séta vezet az egyedülálló, vízzel körülvett Ravelijn erődhöz. Zárja a napot egy sétával a csendes erődítmények között, amely tökéletesen tükrözi Bergen op Zoom gazdag történelmét.",
+        "ro": "Începeți turul pietonal în animata Grote Markt, inima orașului. Dimineața este dedicată explorării centrului istoric, inclusiv urcarea în turnul Peperbus pentru priveliști uimitoare. După prânzul la magnificul Markiezenhof, cel mai vechi palat urban din Olanda, o plimbare mai lungă vă va duce la fortăreața unică Ravelijn, înconjurată de apă. Încheiați ziua cu o plimbare prin fortificațiile liniștite, o reflecție perfectă a istoriei bogate a orașului Bergen op Zoom.",
+        "en": "Start your walking tour in the bustling Grote Markt, the heart of the city. The morning is dedicated to exploring the historic centre, including climbing the Peperbus tower for stunning views. After lunch at the magnificent Markiezenhof, the oldest city palace in the Netherlands, a longer walk takes you to the unique water-bound Ravelijn fortress. End the day with a stroll through the quiet fortifications, a perfect reflection of Bergen op Zoom's rich history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brabanter Spargel",
+            "tip": "Saisonal (Frühling), probieren Sie ihn in einem traditionellen Restaurant wie 'De Bloemkool'."
+          },
+          {
+            "name": "Ansjovis",
+            "tip": "Eine lokale Delikatesse, oft als Vorspeise serviert."
+          },
+          {
+            "name": "Zeeuwse Bolus",
+            "tip": "Ein süßes, klebriges Gebäck, perfekt zum Kaffee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brabanti spárga",
+            "tip": "Szezonális (tavasszal), kóstolja meg egy hagyományos étteremben, mint a 'De Bloemkool'."
+          },
+          {
+            "name": "Szardella",
+            "tip": "Helyi finomság, gyakran előételként tálalják."
+          },
+          {
+            "name": "Zeeuwse Bolus",
+            "tip": "Édes, ragacsos sütemény, tökéletes kávé mellé."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Saranghel de Brabant",
+            "tip": "Sezonier (primăvara), încercați-l la un restaurant tradițional precum 'De Bloemkool'."
+          },
+          {
+            "name": "Anșoa",
+            "tip": "O delicatesă locală, adesea servită ca aperitiv."
+          },
+          {
+            "name": "Zeeuwse Bolus",
+            "tip": "Un produs de patiserie dulce și lipicios, perfect cu cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brabant Asparagus",
+            "tip": "Seasonal (spring), try it at a traditional restaurant like 'De Bloemkool'."
+          },
+          {
+            "name": "Anchovies",
+            "tip": "A local delicacy, often served as a starter."
+          },
+          {
+            "name": "Zeeuwse Bolus",
+            "tip": "A sweet, sticky pastry, perfect with coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadspark Kijk in de Pot",
+            "tip": "Etwas außerhalb des Zentrums, ideal für eine ruhige Pause.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Hof van het Markiezenhof",
+            "tip": "Die Innenhöfe des Palastes sind eine Oase der Ruhe.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Entlang der Festungsmauern",
+            "tip": "Ein friedlicher Spaziergang mit Blick auf die alten Verteidigungsanlagen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kijk in de Pot városi park",
+            "tip": "Kicsit a központon kívül, ideális egy csendes szünetre.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "A Markiezenhof udvara",
+            "tip": "A palota belső udvarai a béke oázisai.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Az erőd falai mentén",
+            "tip": "Békés séta a régi védművekre nyíló kilátással.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Kijkin de Pot",
+            "tip": "Puțin în afara centrului, ideal pentru o pauză liniștită.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Curțile Palatului Markiezenhof",
+            "tip": "Curțile interioare ale palatului sunt o oază de pace.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "De-a lungul zidurilor fortăreței",
+            "tip": "O plimbare pașnică cu vedere la vechile apărări.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kijk in de Pot City Park",
+            "tip": "Slightly outside the centre, ideal for a quiet break.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Courtyards of Markiezenhof",
+            "tip": "The palace's inner courtyards are an oasis of peace.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Along the fortress walls",
+            "tip": "A peaceful walk with views of the old defences.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Jeden Donnerstag auf dem Grote Markt für lokale Produkte und Leckereien."
+          },
+          {
+            "name": "'t Vervolg",
+            "tip": "Eine charmante Straße mit einzigartigen Boutiquen und Fachgeschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Minden csütörtökön a Grote Markton, helyi termékekkel és finomságokkal."
+          },
+          {
+            "name": "'t Vervolg",
+            "tip": "Bájos utca egyedi butikokkal és szaküzletekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "În fiecare joi în Grote Markt pentru produse și delicatese locale."
+          },
+          {
+            "name": "'t Vervolg",
+            "tip": "O stradă fermecătoare, cu buticuri unice și magazine specializate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Every Thursday on the Grote Markt for local produce and treats."
+          },
+          {
+            "name": "'t Vervolg",
+            "tip": "A charming street filled with unique boutiques and specialty shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind leicht zu Fuß erreichbar.",
+          "Prüfen Sie die Öffnungszeiten des Peperbus-Turms, da diese variieren können.",
+          "Der Spaziergang zum Ravelijn ist angenehm, aber planen Sie genügend Zeit ein."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óvárosi macskakövek egyenetlenek lehetnek.",
+          "A városközpont legtöbb látnivalója könnyen megközelíthető gyalog.",
+          "Ellenőrizze a Peperbus-torony nyitvatartási idejét, mert az változhat.",
+          "A séta a Ravelijnhez kellemes, de tervezzen rá elegendő időt."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavelele din centrul vechi pot fi denivelate.",
+          "Majoritatea atracțiilor din centrul orașului sunt la mică distanță de mers pe jos.",
+          "Verificați orele de deschidere ale turnului Peperbus, deoarece acestea pot varia.",
+          "Plimbarea până la Ravelijn este plăcută, dar alocați suficient timp."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Most sights in the city centre are within easy walking distance.",
+          "Check the opening hours for the Peperbus tower as they can vary.",
+          "The walk to the Ravelijn is pleasant, but allow enough time for it."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 5.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradverleih & Grote Markt",
+            "hu": "Kerékpárkölcsönző és Fő tér",
+            "ro": "Închiriere biciclete & Grote Markt",
+            "en": "Bike Rental & Grote Markt"
+          },
+          "coords": [
+            4.2872,
+            51.4942
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Mieten Sie Ihr Fahrrad in der Nähe des Zentrums, um den Tag zu beginnen.",
+            "hu": "Béreljen kerékpárt a központ közelében a nap indításához.",
+            "ro": "Închiriați-vă bicicleta aproape de centru pentru a începe ziua.",
+            "en": "Rent your bike near the centre to start the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Ravelijn op den Zoom",
+            "hu": "Ravelijn op den Zoom erőd",
+            "ro": "Fortăreața Ravelijn op den Zoom",
+            "en": "Ravelijn op den Zoom Fortress"
+          },
+          "coords": [
+            4.278,
+            51.498
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:51",
+          "stay_min": 60,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Fahren Sie um die Festung herum, um die einzigartige Lage im Wasser zu schätzen.",
+            "hu": "Tekerjen körbe az erőd körül, hogy értékelje egyedülálló, vízi fekvését.",
+            "ro": "Pedalați în jurul fortăreței pentru a aprecia locația sa unică în apă.",
+            "en": "Cycle around the fortress to appreciate its unique location in the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Theater De Maagd",
+            "hu": "De Maagd Színház",
+            "ro": "Teatrul De Maagd",
+            "en": "Theater De Maagd"
+          },
+          "coords": [
+            4.286,
+            51.495
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und bewundern Sie die Architektur.",
+            "hu": "Parkolja le a biciklit és csodálja meg az építészetet.",
+            "ro": "Parcați-vă bicicleta și admirați arhitectura.",
+            "en": "Park your bike and admire the architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Sint-Gertrudiskerk & Peperbus",
+            "hu": "Szent Gertrúd-templom és Peperbus",
+            "ro": "Biserica Sf. Gertruda și Peperbus",
+            "en": "St. Gertrude's Church & Peperbus"
+          },
+          "coords": [
+            4.2885,
+            51.4945
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Besuch der Kirche mit dem Aufstieg auf den Turm.",
+            "hu": "Kombinálja a templomlátogatást a torony megmászásával.",
+            "ro": "Combinați vizita la biserică cu urcarea în turn.",
+            "en": "Combine the church visit with the tower climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Markiezenhof",
+            "hu": "Markiezenhof-palota",
+            "ro": "Palatul Markiezenhof",
+            "en": "Markiezenhof Palace"
+          },
+          "coords": [
+            4.29,
+            51.4955
+          ],
+          "category": "historical",
+          "arrive_at": "12:36",
+          "stay_min": 120,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für eine lange Mittagspause und um in die Geschichte einzutauchen.",
+            "hu": "Nagyszerű hely egy hosszú ebédszünethez és a történelembe való elmerüléshez.",
+            "ro": "Un loc minunat pentru o pauză lungă de prânz și o imersiune în istorie.",
+            "en": "A great place for a long lunch break and to immerse in history."
+          }
+        },
+        {
+          "name": {
+            "de": "Gevangenpoort",
+            "hu": "Börtönkapu",
+            "ro": "Poarta Prizonierilor (Gevangenpoort)",
+            "en": "Prisoner's Gate"
+          },
+          "coords": [
+            4.289,
+            51.4925
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:41",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp an diesem beeindruckenden mittelalterlichen Tor.",
+            "hu": "Egy rövid megálló ennél a lenyűgöző középkori kapunál.",
+            "ro": "O scurtă oprire la această poartă medievală impresionantă.",
+            "en": "A quick stop at this impressive medieval gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Synagoge",
+            "hu": "Zsinagóga",
+            "ro": "Sinagoga",
+            "en": "Synagogue"
+          },
+          "coords": [
+            4.285,
+            51.493
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:17",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein Moment der Besinnung an diesem wichtigen historischen Ort.",
+            "hu": "A gondolkodás pillanata ezen a fontos történelmi helyen.",
+            "ro": "Un moment de reflecție la acest important sit istoric.",
+            "en": "A moment of reflection at this important historical site."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auf zwei Rädern erkunden Sie Bergen op Zoom schnell und flexibel. Beginnen Sie mit einer Fahrt zur Festung Ravelijn, um die Festungsanlagen zu umrunden. Kehren Sie dann ins Stadtzentrum zurück, um die wichtigsten Sehenswürdigkeiten wie die Sint-Gertrudiskerk und den majestätischen Markiezenhof zu besuchen, wo Sie eine lange Mittagspause einlegen. Der Nachmittag ist kürzeren Fahrten zwischen dem Gevangenpoort und der Synagoge gewidmet, die die vielfältige Geschichte der Stadt zeigen. Diese Route kombiniert Natur, Kultur und Geschichte auf perfekte Weise.",
+        "hu": "Két keréken gyorsan és rugalmasan fedezheti fel Bergen op Zoomot. Kezdje egy túrával a Ravelijn erődhöz, hogy körbejárja az erődítményeket. Ezután térjen vissza a városközpontba a főbb látnivalókhoz, mint a Sint-Gertrudiskerk és a fenséges Markiezenhof, ahol egy hosszú ebédszünetet tarthat. A délután rövidebb utakkal telik a Gevangenpoort és a Zsinagóga között, bemutatva a város sokszínű történelmét. Ez az útvonal tökéletesen ötvözi a természetet, a kultúrát és a történelmet.",
+        "ro": "Explorați Bergen op Zoom rapid și flexibil pe două roți. Începeți cu o plimbare cu bicicleta la fortăreața Ravelijn pentru a înconjura fortificațiile. Apoi, întoarceți-vă în centrul orașului pentru atracțiile principale precum Sint-Gertrudiskerk și magnificul Markiezenhof, unde veți lua o pauză lungă de prânz. După-amiaza este dedicată unor plimbări mai scurte între Gevangenpoort și Sinagogă, prezentând istoria diversă a orașului. Acest traseu îmbină perfect natura, cultura și istoria.",
+        "en": "Explore Bergen op Zoom quickly and flexibly on two wheels. Start with a ride to the Ravelijn fortress to circle the fortifications. Then, return to the city centre for the main attractions like Sint-Gertrudiskerk and the magnificent Markiezenhof, where you'll take a long lunch break. The afternoon is for shorter hops between the Gevangenpoort and the Synagogue, showcasing the city's diverse history. This route perfectly combines nature, culture, and history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brabanter Spargel",
+            "tip": "Saisonal (Frühling), probieren Sie ihn in einem traditionellen Restaurant wie 'De Bloemkool'."
+          },
+          {
+            "name": "Ansjovis",
+            "tip": "Eine lokale Delikatesse, oft als Vorspeise serviert."
+          },
+          {
+            "name": "Zeeuwse Bolus",
+            "tip": "Ein süßes, klebriges Gebäck, perfekt zum Kaffee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brabanti spárga",
+            "tip": "Szezonális (tavasszal), kóstolja meg egy hagyományos étteremben, mint a 'De Bloemkool'."
+          },
+          {
+            "name": "Szardella",
+            "tip": "Helyi finomság, gyakran előételként tálalják."
+          },
+          {
+            "name": "Zeeuwse Bolus",
+            "tip": "Édes, ragacsos sütemény, tökéletes kávé mellé."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Saranghel de Brabant",
+            "tip": "Sezonier (primăvara), încercați-l la un restaurant tradițional precum 'De Bloemkool'."
+          },
+          {
+            "name": "Anșoa",
+            "tip": "O delicatesă locală, adesea servită ca aperitiv."
+          },
+          {
+            "name": "Zeeuwse Bolus",
+            "tip": "Un produs de patiserie dulce și lipicios, perfect cu cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brabant Asparagus",
+            "tip": "Seasonal (spring), try it at a traditional restaurant like 'De Bloemkool'."
+          },
+          {
+            "name": "Anchovies",
+            "tip": "A local delicacy, often served as a starter."
+          },
+          {
+            "name": "Zeeuwse Bolus",
+            "tip": "A sweet, sticky pastry, perfect with coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadspark Kijk in de Pot",
+            "tip": "Etwas außerhalb des Zentrums, ideal für eine ruhige Pause.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Hof van het Markiezenhof",
+            "tip": "Die Innenhöfe des Palastes sind eine Oase der Ruhe.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Entlang der Festungsmauern",
+            "tip": "Ein friedlicher Spaziergang mit Blick auf die alten Verteidigungsanlagen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kijk in de Pot városi park",
+            "tip": "Kicsit a központon kívül, ideális egy csendes szünetre.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "A Markiezenhof udvara",
+            "tip": "A palota belső udvarai a béke oázisai.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Az erőd falai mentén",
+            "tip": "Békés séta a régi védművekre nyíló kilátással.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Kijkin de Pot",
+            "tip": "Puțin în afara centrului, ideal pentru o pauză liniștită.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Curțile Palatului Markiezenhof",
+            "tip": "Curțile interioare ale palatului sunt o oază de pace.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "De-a lungul zidurilor fortăreței",
+            "tip": "O plimbare pașnică cu vedere la vechile apărări.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kijk in de Pot City Park",
+            "tip": "Slightly outside the centre, ideal for a quiet break.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Courtyards of Markiezenhof",
+            "tip": "The palace's inner courtyards are an oasis of peace.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Along the fortress walls",
+            "tip": "A peaceful walk with views of the old defences.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Jeden Donnerstag auf dem Grote Markt für lokale Produkte und Leckereien."
+          },
+          {
+            "name": "'t Vervolg",
+            "tip": "Eine charmante Straße mit einzigartigen Boutiquen und Fachgeschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Minden csütörtökön a Grote Markton, helyi termékekkel és finomságokkal."
+          },
+          {
+            "name": "'t Vervolg",
+            "tip": "Bájos utca egyedi butikokkal és szaküzletekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "În fiecare joi în Grote Markt pentru produse și delicatese locale."
+          },
+          {
+            "name": "'t Vervolg",
+            "tip": "O stradă fermecătoare, cu buticuri unice și magazine specializate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Every Thursday on the Grote Markt for local produce and treats."
+          },
+          {
+            "name": "'t Vervolg",
+            "tip": "A charming street filled with unique boutiques and specialty shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bergen op Zoom ist sehr fahrradfreundlich, aber schließen Sie Ihr Fahrrad immer gut ab.",
+          "Achten Sie in den engen Gassen der Altstadt auf Fußgänger.",
+          "Nutzen Sie die ausgewiesenen Fahrradwege, wo immer möglich.",
+          "Einige Bereiche des Zentrums sind Fußgängerzonen; hier müssen Sie absteigen."
+        ],
+        "hu": [
+          "Bergen op Zoom nagyon biciklibarát, de mindig zárja le jól a kerékpárját.",
+          "Vigyázzon a gyalogosokra az óváros szűk utcáin.",
+          "Használja a kijelölt kerékpárutakat, ahol csak lehetséges.",
+          "A központ egyes részei sétálóövezetek; itt le kell szállnia."
+        ],
+        "ro": [
+          "Bergen op Zoom este foarte prietenos cu bicicletele, dar asigurați-vă întotdeauna bicicleta corespunzător.",
+          "Fiți atenți la pietoni pe străzile înguste din orașul vechi.",
+          "Folosiți pistele de biciclete desemnate ori de câte ori este posibil.",
+          "Unele zone din centru sunt pietonale; va trebui să descălecați aici."
+        ],
+        "en": [
+          "Bergen op Zoom is very bike-friendly, but always lock your bike securely.",
+          "Watch out for pedestrians on the narrow streets of the old town.",
+          "Use the designated cycle paths wherever possible.",
+          "Some areas in the centre are pedestrian-only; you'll need to dismount here."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkhaus Achter de Grote Markt & Spaziergang zum Stadhuis",
+            "hu": "Achter de Grote Markt parkolóház és séta a Városházához",
+            "ro": "Parcarea Achter de Grote Markt și plimbare la Primărie",
+            "en": "Achter de Grote Markt Car Park & Walk to City Hall"
+          },
+          "coords": [
+            4.2855,
+            51.4938
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Vormittag. Es ist ein kurzer Spaziergang zum Hauptplatz.",
+            "hu": "Parkoljon itt a délelőttre. A főtér egy rövid sétára van.",
+            "ro": "Parcați aici pentru dimineață. Este o scurtă plimbare până la piața principală.",
+            "en": "Park here for the morning. It's a short walk to the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Sint-Gertrudiskerk & Peperbus",
+            "hu": "Szent Gertrúd-templom és Peperbus",
+            "ro": "Biserica Sf. Gertruda și Peperbus",
+            "en": "St. Gertrude's Church & Peperbus"
+          },
+          "coords": [
+            4.2885,
+            51.4945
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:41",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erklimmen Sie den Turm nach dem Kirchenbesuch für eine fantastische Aussicht.",
+            "hu": "A templomlátogatás után másszon fel a toronyba a fantasztikus kilátásért.",
+            "ro": "Urcați în turn după vizitarea bisericii pentru o priveliște fantastică.",
+            "en": "Climb the tower after visiting the church for a fantastic view."
+          }
+        },
+        {
+          "name": {
+            "de": "Markiezenhof",
+            "hu": "Markiezenhof-palota",
+            "ro": "Palatul Markiezenhof",
+            "en": "Markiezenhof Palace"
+          },
+          "coords": [
+            4.29,
+            51.4955
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der größte Stadtpalast der Niederlande, planen Sie hier eine lange Pause ein.",
+            "hu": "Hollandia legnagyobb városi palotája, tervezzen itt egy hosszú szünetet.",
+            "ro": "Cel mai mare palat urban din Olanda, planificați o pauză lungă aici.",
+            "en": "The Netherlands' largest city palace, plan for a long break here."
+          }
+        },
+        {
+          "name": {
+            "de": "Gevangenpoort",
+            "hu": "Börtönkapu",
+            "ro": "Poarta Prizonierilor (Gevangenpoort)",
+            "en": "Prisoner's Gate"
+          },
+          "coords": [
+            4.289,
+            51.4925
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:08",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Palast zu diesem historischen Tor.",
+            "hu": "Egy rövid séta a palotától ehhez a történelmi kapuhoz.",
+            "ro": "O scurtă plimbare de la palat la această poartă istorică.",
+            "en": "A short walk from the palace to this historic gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Ravelijn op den Zoom",
+            "hu": "Utazás a Ravelijn op den Zoom erődhöz",
+            "ro": "Deplasare la Ravelijn op den Zoom",
+            "en": "Drive to Ravelijn op den Zoom"
+          },
+          "coords": [
+            4.279,
+            51.4975
+          ],
+          "category": "transport",
+          "arrive_at": "13:54",
+          "stay_min": 5,
+          "hop_mode": "car",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Holen Sie Ihr Auto und fahren Sie zum Parkplatz in der Nähe der Festung.",
+            "hu": "Vegye fel az autóját, és vezessen az erőd melletti parkolóba.",
+            "ro": "Luați mașina și conduceți la parcarea de lângă fortăreață.",
+            "en": "Collect your car and drive to the car park near the fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Erkundung des Ravelijn op den Zoom",
+            "hu": "A Ravelijn op den Zoom felfedezése",
+            "ro": "Explorarea Ravelijn op den Zoom",
+            "en": "Exploring Ravelijn op den Zoom"
+          },
+          "coords": [
+            4.278,
+            51.498
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:04",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, die Festung und die ruhige Umgebung zu erkunden.",
+            "hu": "Szánjon időt az erőd és a csendes környék felfedezésére.",
+            "ro": "Luați-vă timp pentru a explora fortăreața și împrejurimile liniștite.",
+            "en": "Take your time to explore the fortress and its peaceful surroundings."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser auto-basierte Plan kombiniert zentrales Parken mit entspannten Spaziergängen. Parken Sie Ihr Auto in der Nähe des Grote Markt und erkunden Sie den gesamten historischen Kern zu Fuß: vom Stadhuis über den Peperbus bis zum prächtigen Markiezenhof. Nach dem Mittagessen kehren Sie zu Ihrem Auto zurück für eine kurze Fahrt zur beeindruckenden Festung Ravelijn op den Zoom. Dort können Sie den Nachmittag damit verbringen, die einzigartigen Verteidigungsanlagen und die ruhige, wasserreiche Umgebung zu erkunden, bevor Sie den Tag abschließen.",
+        "hu": "Ez az autós útiterv a központi parkolást kényelmes sétákkal ötvözi. Parkolja le autóját a Grote Markt közelében, és fedezze fel gyalog az egész történelmi központot: a Városházától a Peperbuson át a csodálatos Markiezenhofig. Ebéd után térjen vissza autójához, és egy rövid utazással érje el a lenyűgöző Ravelijn op den Zoom erődöt. Töltse a délutánt az egyedi védművek és a csendes, vizes környezet felfedezésével, mielőtt befejezi a napot.",
+        "ro": "Acest itinerar auto combină parcarea centrală cu plimbări relaxante. Parcați mașina lângă Grote Markt și explorați întregul centru istoric pe jos: de la Primărie la Peperbus și magnificul Markiezenhof. După prânz, reveniți la mașină pentru o scurtă călătorie până la impresionanta fortăreață Ravelijn op den Zoom. Petreceți după-amiaza explorând fortificațiile unice și împrejurimile liniștite, pline de apă, înainte de a încheia ziua.",
+        "en": "This car-based plan combines central parking with relaxed walks. Park your car near the Grote Markt and explore the entire historic core on foot: from the City Hall to the Peperbus and the magnificent Markiezenhof. After lunch, return to your car for a short drive to the impressive Ravelijn op den Zoom fortress. Spend the afternoon exploring the unique defences and the quiet, water-rich surroundings before ending your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brabanter Spargel",
+            "tip": "Saisonal (Frühling), probieren Sie ihn in einem traditionellen Restaurant wie 'De Bloemkool'."
+          },
+          {
+            "name": "Ansjovis",
+            "tip": "Eine lokale Delikatesse, oft als Vorspeise serviert."
+          },
+          {
+            "name": "Zeeuwse Bolus",
+            "tip": "Ein süßes, klebriges Gebäck, perfekt zum Kaffee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brabanti spárga",
+            "tip": "Szezonális (tavasszal), kóstolja meg egy hagyományos étteremben, mint a 'De Bloemkool'."
+          },
+          {
+            "name": "Szardella",
+            "tip": "Helyi finomság, gyakran előételként tálalják."
+          },
+          {
+            "name": "Zeeuwse Bolus",
+            "tip": "Édes, ragacsos sütemény, tökéletes kávé mellé."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Saranghel de Brabant",
+            "tip": "Sezonier (primăvara), încercați-l la un restaurant tradițional precum 'De Bloemkool'."
+          },
+          {
+            "name": "Anșoa",
+            "tip": "O delicatesă locală, adesea servită ca aperitiv."
+          },
+          {
+            "name": "Zeeuwse Bolus",
+            "tip": "Un produs de patiserie dulce și lipicios, perfect cu cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brabant Asparagus",
+            "tip": "Seasonal (spring), try it at a traditional restaurant like 'De Bloemkool'."
+          },
+          {
+            "name": "Anchovies",
+            "tip": "A local delicacy, often served as a starter."
+          },
+          {
+            "name": "Zeeuwse Bolus",
+            "tip": "A sweet, sticky pastry, perfect with coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadspark Kijk in de Pot",
+            "tip": "Etwas außerhalb des Zentrums, ideal für eine ruhige Pause.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Hof van het Markiezenhof",
+            "tip": "Die Innenhöfe des Palastes sind eine Oase der Ruhe.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Entlang der Festungsmauern",
+            "tip": "Ein friedlicher Spaziergang mit Blick auf die alten Verteidigungsanlagen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kijk in de Pot városi park",
+            "tip": "Kicsit a központon kívül, ideális egy csendes szünetre.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "A Markiezenhof udvara",
+            "tip": "A palota belső udvarai a béke oázisai.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Az erőd falai mentén",
+            "tip": "Békés séta a régi védművekre nyíló kilátással.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Kijkin de Pot",
+            "tip": "Puțin în afara centrului, ideal pentru o pauză liniștită.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Curțile Palatului Markiezenhof",
+            "tip": "Curțile interioare ale palatului sunt o oază de pace.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "De-a lungul zidurilor fortăreței",
+            "tip": "O plimbare pașnică cu vedere la vechile apărări.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kijk in de Pot City Park",
+            "tip": "Slightly outside the centre, ideal for a quiet break.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Courtyards of Markiezenhof",
+            "tip": "The palace's inner courtyards are an oasis of peace.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Along the fortress walls",
+            "tip": "A peaceful walk with views of the old defences.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Jeden Donnerstag auf dem Grote Markt für lokale Produkte und Leckereien."
+          },
+          {
+            "name": "'t Vervolg",
+            "tip": "Eine charmante Straße mit einzigartigen Boutiquen und Fachgeschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Minden csütörtökön a Grote Markton, helyi termékekkel és finomságokkal."
+          },
+          {
+            "name": "'t Vervolg",
+            "tip": "Bájos utca egyedi butikokkal és szaküzletekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "În fiecare joi în Grote Markt pentru produse și delicatese locale."
+          },
+          {
+            "name": "'t Vervolg",
+            "tip": "O stradă fermecătoare, cu buticuri unice și magazine specializate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Every Thursday on the Grote Markt for local produce and treats."
+          },
+          {
+            "name": "'t Vervolg",
+            "tip": "A charming street filled with unique boutiques and specialty shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich im Voraus über Parkmöglichkeiten und -gebühren im Stadtzentrum.",
+          "Lassen Sie keine Wertsachen im Auto zurück.",
+          "Der Verkehr im Stadtzentrum kann besonders an Markttagen stark sein.",
+          "Beachten Sie, dass große Teile des historischen Zentrums Fußgängerzonen sind."
+        ],
+        "hu": [
+          "Előzetesen tájékozódjon a belvárosi parkolási lehetőségekről és díjakról.",
+          "Ne hagyjon értékeket az autóban.",
+          "A belvárosi forgalom különösen a piaci napokon lehet sűrű.",
+          "Vegye figyelembe, hogy a történelmi központ nagy részei sétálóövezetek."
+        ],
+        "ro": [
+          "Verificați în avans opțiunile de parcare și taxele din centrul orașului.",
+          "Nu lăsați obiecte de valoare în mașină.",
+          "Traficul în centrul orașului poate fi aglomerat, în special în zilele de piață.",
+          "Rețineți că mari părți ale centrului istoric sunt zone pietonale."
+        ],
+        "en": [
+          "Check parking options and fees in the city centre in advance.",
+          "Do not leave valuables in the car.",
+          "Traffic in the city centre can be heavy, especially on market days.",
+          "Be aware that large parts of the historic centre are pedestrian-only zones."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Grote Markt",
+            "hu": "Érkezés a Fő térre",
+            "ro": "Sosire la Grote Markt",
+            "en": "Arrival at Grote Markt"
+          },
+          "coords": [
+            4.2872,
+            51.4942
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Mehrere Buslinien halten in der Nähe des Grote Markt, ein idealer Ausgangspunkt.",
+            "hu": "Számos buszjárat megáll a Grote Markt közelében, ami ideális kiindulópont.",
+            "ro": "Mai multe linii de autobuz opresc lângă Grote Markt, un punct de plecare ideal.",
+            "en": "Several bus lines stop near the Grote Markt, making it an ideal starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Sint-Gertrudiskerk & Peperbus",
+            "hu": "Szent Gertrúd-templom és Peperbus",
+            "ro": "Biserica Sf. Gertruda și Peperbus",
+            "en": "St. Gertrude's Church & Peperbus"
+          },
+          "coords": [
+            4.2885,
+            51.4945
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:41",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Hauptplatz zu diesem ikonischen Wahrzeichen.",
+            "hu": "Csak egy rövid séta a főtértől ehhez az ikonikus látnivalóhoz.",
+            "ro": "La doar o scurtă plimbare de piața principală până la acest punct de reper iconic.",
+            "en": "Just a short walk from the main square to this iconic landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Markiezenhof",
+            "hu": "Markiezenhof-palota",
+            "ro": "Palatul Markiezenhof",
+            "en": "Markiezenhof Palace"
+          },
+          "coords": [
+            4.29,
+            51.4955
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Verbringen Sie hier den Großteil des späten Vormittags und die Mittagszeit.",
+            "hu": "Töltse itt a késő délelőtt és az ebédidő nagy részét.",
+            "ro": "Petreceți cea mai mare parte a dimineții târzii și a prânzului aici.",
+            "en": "Spend the bulk of your late morning and lunch time here."
+          }
+        },
+        {
+          "name": {
+            "de": "Gevangenpoort",
+            "hu": "Börtönkapu",
+            "ro": "Poarta Prizonierilor (Gevangenpoort)",
+            "en": "Prisoner's Gate"
+          },
+          "coords": [
+            4.289,
+            51.4925
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:08",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Dieses mittelalterliche Tor ist ein Muss für Geschichtsliebhaber.",
+            "hu": "Ez a középkori kapu kötelező a történelem szerelmeseinek.",
+            "ro": "Această poartă medievală este o necesitate pentru pasionații de istorie.",
+            "en": "This medieval gate is a must-see for history buffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Ravelijn",
+            "hu": "Buszozás a Ravelijnhez",
+            "ro": "Călătorie cu autobuzul la Ravelijn",
+            "en": "Bus ride to the Ravelijn"
+          },
+          "coords": [
+            4.28,
+            51.497
+          ],
+          "category": "transport",
+          "arrive_at": "14:02",
+          "stay_min": 5,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Zentrum zur Haltestelle in der Nähe der Festung.",
+            "hu": "Szálljon buszra a központból az erőd melletti megállóig.",
+            "ro": "Luați un autobuz din centru până la stația de lângă fortăreață.",
+            "en": "Take a bus from the centre to the stop near the fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Ravelijn op den Zoom",
+            "hu": "Ravelijn op den Zoom erőd",
+            "ro": "Fortăreața Ravelijn op den Zoom",
+            "en": "Ravelijn op den Zoom Fortress"
+          },
+          "coords": [
+            4.278,
+            51.498
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:14",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe und die einzigartige Architektur dieses Ortes.",
+            "hu": "Élvezze a hely csendjét és egyedi építészetét.",
+            "ro": "Bucurați-vă de liniștea și arhitectura unică a acestui loc.",
+            "en": "Enjoy the tranquility and unique architecture of this site."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln können Sie die Stadt mühelos durchqueren. Beginnen Sie im Herzen der Stadt, am Grote Markt, und erkunden Sie den gesamten historischen Kern zu Fuß, genau wie bei einem Spaziergang. Nach dem Mittagessen und der Erkundung des Markiezenhofs nehmen Sie einen Bus für eine kurze Fahrt zur Festung Ravelijn. Dieser Ansatz ermöglicht es Ihnen, den Nachmittag in einer anderen Umgebung zu verbringen, die Festungsanlagen zu erkunden und die Ruhe zu genießen, bevor Sie mit dem Bus ins Stadtzentrum zurückkehren.",
+        "hu": "Tömegközlekedéssel könnyedén bejárhatja a várost. Kezdjen a város szívében, a Grote Markton, és fedezze fel gyalog az egész történelmi központot, akárcsak egy séta során. Ebéd és a Markiezenhof felfedezése után szálljon buszra, és egy rövid utazással érje el a Ravelijn erődöt. Ez a megközelítés lehetővé teszi, hogy a délutánt egy másik környezetben töltse, felfedezve az erődítményeket és élvezve a nyugalmat, mielőtt visszatérne a városközpontba busszal.",
+        "ro": "Traversați orașul fără efort folosind transportul public. Începeți în inima orașului, la Grote Markt, și explorați întregul centru istoric pe jos, la fel ca într-un tur pietonal. După prânz și explorarea Markiezenhof, luați un autobuz pentru o scurtă călătorie la fortăreața Ravelijn. Această abordare vă permite să petreceți după-amiaza într-un cadru diferit, explorând fortificațiile și bucurându-vă de liniște înainte de a vă întoarce în centrul orașului cu autobuzul.",
+        "en": "Traverse the city effortlessly using public transport. Start in the heart of the city at Grote Markt and explore the entire historic core on foot, just like a walking tour. After lunch and exploring the Markiezenhof, take a bus for a short ride to the Ravelijn fortress. This approach allows you to spend the afternoon in a different setting, exploring the fortifications and enjoying the tranquility before returning to the city centre by bus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brabanter Spargel",
+            "tip": "Saisonal (Frühling), probieren Sie ihn in einem traditionellen Restaurant wie 'De Bloemkool'."
+          },
+          {
+            "name": "Ansjovis",
+            "tip": "Eine lokale Delikatesse, oft als Vorspeise serviert."
+          },
+          {
+            "name": "Zeeuwse Bolus",
+            "tip": "Ein süßes, klebriges Gebäck, perfekt zum Kaffee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brabanti spárga",
+            "tip": "Szezonális (tavasszal), kóstolja meg egy hagyományos étteremben, mint a 'De Bloemkool'."
+          },
+          {
+            "name": "Szardella",
+            "tip": "Helyi finomság, gyakran előételként tálalják."
+          },
+          {
+            "name": "Zeeuwse Bolus",
+            "tip": "Édes, ragacsos sütemény, tökéletes kávé mellé."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Saranghel de Brabant",
+            "tip": "Sezonier (primăvara), încercați-l la un restaurant tradițional precum 'De Bloemkool'."
+          },
+          {
+            "name": "Anșoa",
+            "tip": "O delicatesă locală, adesea servită ca aperitiv."
+          },
+          {
+            "name": "Zeeuwse Bolus",
+            "tip": "Un produs de patiserie dulce și lipicios, perfect cu cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brabant Asparagus",
+            "tip": "Seasonal (spring), try it at a traditional restaurant like 'De Bloemkool'."
+          },
+          {
+            "name": "Anchovies",
+            "tip": "A local delicacy, often served as a starter."
+          },
+          {
+            "name": "Zeeuwse Bolus",
+            "tip": "A sweet, sticky pastry, perfect with coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadspark Kijk in de Pot",
+            "tip": "Etwas außerhalb des Zentrums, ideal für eine ruhige Pause.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Hof van het Markiezenhof",
+            "tip": "Die Innenhöfe des Palastes sind eine Oase der Ruhe.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Entlang der Festungsmauern",
+            "tip": "Ein friedlicher Spaziergang mit Blick auf die alten Verteidigungsanlagen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kijk in de Pot városi park",
+            "tip": "Kicsit a központon kívül, ideális egy csendes szünetre.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "A Markiezenhof udvara",
+            "tip": "A palota belső udvarai a béke oázisai.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Az erőd falai mentén",
+            "tip": "Békés séta a régi védművekre nyíló kilátással.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Kijkin de Pot",
+            "tip": "Puțin în afara centrului, ideal pentru o pauză liniștită.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Curțile Palatului Markiezenhof",
+            "tip": "Curțile interioare ale palatului sunt o oază de pace.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "De-a lungul zidurilor fortăreței",
+            "tip": "O plimbare pașnică cu vedere la vechile apărări.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kijk in de Pot City Park",
+            "tip": "Slightly outside the centre, ideal for a quiet break.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Courtyards of Markiezenhof",
+            "tip": "The palace's inner courtyards are an oasis of peace.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Along the fortress walls",
+            "tip": "A peaceful walk with views of the old defences.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Jeden Donnerstag auf dem Grote Markt für lokale Produkte und Leckereien."
+          },
+          {
+            "name": "'t Vervolg",
+            "tip": "Eine charmante Straße mit einzigartigen Boutiquen und Fachgeschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Minden csütörtökön a Grote Markton, helyi termékekkel és finomságokkal."
+          },
+          {
+            "name": "'t Vervolg",
+            "tip": "Bájos utca egyedi butikokkal és szaküzletekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "În fiecare joi în Grote Markt pentru produse și delicatese locale."
+          },
+          {
+            "name": "'t Vervolg",
+            "tip": "O stradă fermecătoare, cu buticuri unice și magazine specializate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Every Thursday on the Grote Markt for local produce and treats."
+          },
+          {
+            "name": "'t Vervolg",
+            "tip": "A charming street filled with unique boutiques and specialty shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, besonders am Wochenende.",
+          "Die meisten Busse sind barrierefrei.",
+          "Die zentralen Haltestellen sind gut ausgeschildert, aber eine Navigations-App kann hilfreich sein."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha több utazást tervez.",
+          "Ellenőrizze előre a buszmenetrendet, különösen hétvégén.",
+          "A legtöbb busz akadálymentesített.",
+          "A központi megállók jól ki vannak táblázva, de egy navigációs alkalmazás hasznos lehet."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă plănuiți mai multe călătorii.",
+          "Verificați programul autobuzelor în avans, în special în weekend.",
+          "Majoritatea autobuzelor sunt accesibile scaunelor cu rotile.",
+          "Stațiile centrale sunt bine semnalizate, dar o aplicație de navigație poate fi de ajutor."
+        ],
+        "en": [
+          "Buy a day pass for the bus if you plan on making multiple trips.",
+          "Check the bus schedule in advance, especially on weekends.",
+          "Most buses are wheelchair accessible.",
+          "Central stops are well-signposted, but a navigation app can be helpful."
+        ]
+      }
+    }
+  }
+}

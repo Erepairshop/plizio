@@ -1,0 +1,1268 @@
+{
+  "city_id": "adapazari-cities-v2",
+  "anchor": {
+    "name": "Adapazarı Kent Meydanı",
+    "coords": [
+      40.7811,
+      30.4056
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Çark-Straße",
+            "hu": "Çark utca",
+            "ro": "Strada Çark",
+            "en": "Çark Street"
+          },
+          "coords": [
+            30.4031,
+            40.7782
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag hier mit einem türkischen Kaffee in einem der vielen Cafés.",
+            "hu": "Kezdje a napot egy török kávéval az utca egyik hangulatos kávézójában.",
+            "ro": "Începeți ziua aici cu o cafea turcească la una dintre numeroasele cafenele.",
+            "en": "Start your day here with a Turkish coffee at one of the many cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Orhan-Gazi-Moschee",
+            "hu": "Orhan Gazi Mecset",
+            "ro": "Moscheea Orhan Gazi",
+            "en": "Orhan Gazi Mosque"
+          },
+          "coords": [
+            30.4015,
+            40.7771
+          ],
+          "category": "churches",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die bescheidene, aber elegante Architektur aus dem 14. Jahrhundert.",
+            "hu": "Figyelje meg a 14. századi, szerény, mégis elegáns építészetet.",
+            "ro": "Observați arhitectura modestă, dar elegantă, datând din secolul al XIV-lea.",
+            "en": "Pay attention to the modest yet elegant 14th-century architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Sakarya-Museum",
+            "hu": "Sakarya Múzeum",
+            "ro": "Muzeul Sakarya",
+            "en": "Sakarya Museum"
+          },
+          "coords": [
+            30.4062,
+            40.7795
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Das Museum ist im ehemaligen Wohnhaus von Atatürk untergebracht.",
+            "hu": "A múzeum Atatürk egykori rezidenciájában kapott helyet.",
+            "ro": "Muzeul este găzduit în fosta reședință a lui Atatürk.",
+            "en": "The museum is housed in Atatürk's former residence."
+          }
+        },
+        {
+          "name": {
+            "de": "Erdbebenmuseum",
+            "hu": "Földrengés Múzeum",
+            "ro": "Muzeul Cutremurului",
+            "en": "Earthquake Museum"
+          },
+          "coords": [
+            30.398,
+            40.7825
+          ],
+          "category": "museums",
+          "arrive_at": "12:40",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein ergreifendes Museum, das an das Erdbeben von 1999 erinnert. Der Simulator ist eindrucksvoll.",
+            "hu": "Megrendítő múzeum, amely az 1999-es földrengésnek állít emléket. A szimulátor nagyon hatásos.",
+            "ro": "Un muzeu emoționant dedicat cutremurului din 1999. Simulatorul este impresionant.",
+            "en": "A poignant museum commemorating the 1999 earthquake. The simulator is impactful."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the Center"
+          },
+          "coords": [
+            30.4,
+            40.78
+          ],
+          "category": "gastro",
+          "arrive_at": "14:20",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Probieren Sie das lokale Gericht 'Islama Köfte' in einem der traditionellen Restaurants.",
+            "hu": "Kóstolja meg a helyi specialitást, az 'Islama Köftét' egy hagyományos étteremben.",
+            "ro": "Încercați specialitatea locală 'Islama Köfte' la unul dintre restaurantele tradiționale.",
+            "en": "Try the local specialty 'Islama Köfte' at one of the traditional restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Kent-Park",
+            "hu": "Kent Park",
+            "ro": "Parcul Kent",
+            "en": "Kent Park"
+          },
+          "coords": [
+            30.3855,
+            40.7851
+          ],
+          "category": "parks",
+          "arrive_at": "16:00",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am künstlichen See oder spazieren Sie durch die grünen Anlagen.",
+            "hu": "Pihenjen a mesterséges tó partján, vagy sétáljon egyet a zöld területeken.",
+            "ro": "Relaxați-vă lângă lacul artificial sau plimbați-vă prin zonele verzi.",
+            "en": "Relax by the artificial lake or take a stroll through the green areas."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Adapazarı beginnt auf der lebhaften Çark-Straße. Von dort aus erkunden Sie das historische Herz der Stadt mit der Orhan-Gazi-Moschee. Am Mittag tauchen Sie in die Geschichte ein, zuerst im Sakarya-Museum, das Atatürk gewidmet ist, und dann im ergreifenden Erdbebenmuseum. Nach einem stärkenden Mittagessen mit lokalen Spezialitäten lassen Sie den Tag im weitläufigen Kent-Park ausklingen, einem perfekten Ort zur Entspannung.",
+        "hu": "Adapazarı-i napja a nyüzsgő Çark utcán kezdődik. Innen fedezi fel a város történelmi szívét, az Orhan Gazi Mecsetet. Délben elmerül a történelemben, először az Atatürknek szentelt Sakarya Múzeumban, majd a megrendítő Földrengés Múzeumban. Egy helyi specialitásokból álló, feltöltő ebéd után a tágas Kent Parkban zárja a napot, amely tökéletes hely a kikapcsolódásra.",
+        "ro": "Ziua dvs. în Adapazarı începe pe animata stradă Çark. De acolo, explorați inima istorică a orașului cu Moscheea Orhan Gazi. La prânz, vă cufundați în istorie, mai întâi la Muzeul Sakarya, dedicat lui Atatürk, apoi la emoționantul Muzeu al Cutremurului. După un prânz revigorant cu specialități locale, încheiați ziua în vastul Parc Kent, un loc perfect pentru relaxare.",
+        "en": "Your day in Adapazarı begins on the lively Çark Street. From there, you'll explore the historical heart of the city with the Orhan Gazi Mosque. At midday, you'll dive into history, first at the Sakarya Museum dedicated to Atatürk, and then at the poignant Earthquake Museum. After a hearty lunch with local specialties, you'll end the day in the spacious Kent Park, a perfect place for relaxation."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Islama Köfte",
+            "tip": "Gegrillte Fleischbällchen, serviert auf in Brühe getunktem Brot. Ein Muss!"
+          },
+          {
+            "name": "Kabak Tatlısı",
+            "tip": "Ein süßes Kürbisdessert, oft mit Walnüssen und Kaymak serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Islama Köfte",
+            "tip": "Grillezett húsgombócok húslevesbe mártott kenyéren tálalva. Ezt ki kell próbálni!"
+          },
+          {
+            "name": "Kabak Tatlısı",
+            "tip": "Édes tökdesszert, gyakran dióval és kaymakkal tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Islama Köfte",
+            "tip": "Chiftele la grătar servite pe pâine înmuiată în bulion. O specialitate de neratat!"
+          },
+          {
+            "name": "Kabak Tatlısı",
+            "tip": "Un desert dulce de dovleac, adesea servit cu nuci și kaymak."
+          }
+        ],
+        "en": [
+          {
+            "name": "Islama Köfte",
+            "tip": "Grilled meatballs served on bread dipped in broth. A must-try!"
+          },
+          {
+            "name": "Kabak Tatlısı",
+            "tip": "A sweet pumpkin dessert, often served with walnuts and kaymak."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kent-Park",
+            "tip": "Finden Sie eine ruhige Bank am See.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Sakarya-Flusses",
+            "tip": "Ein Spaziergang am Flussufer kann sehr beruhigend sein.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kent Park",
+            "tip": "Keressen egy csendes padot a tó mellett.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sakarya folyó partja",
+            "tip": "Egy séta a folyóparton nagyon megnyugtató lehet.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Kent",
+            "tip": "Găsiți o bancă liniștită lângă lac.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul râului Sakarya",
+            "tip": "O plimbare pe malul râului poate fi foarte liniștitoare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kent Park",
+            "tip": "Find a quiet bench by the lake.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sakarya Riverbank",
+            "tip": "A walk along the riverbank can be very calming.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Çark-Straße",
+            "tip": "Die Hauptader für modernes Shopping und Boutiquen."
+          },
+          {
+            "name": "Lokale Märkte",
+            "tip": "Halten Sie Ausschau nach kleinen Märkten mit lokalen Produkten und Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Çark utca",
+            "tip": "A modern vásárlás és butikok fő artériája."
+          },
+          {
+            "name": "Helyi piacok",
+            "tip": "Keresse a helyi termékeket és kézműves árukat kínáló kis piacokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Çark",
+            "tip": "Principala arteră pentru cumpărături moderne și buticuri."
+          },
+          {
+            "name": "Piețe locale",
+            "tip": "Căutați piețe mici cu produse locale și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Çark Street",
+            "tip": "The main artery for modern shopping and boutiques."
+          },
+          {
+            "name": "Local Markets",
+            "tip": "Look for small markets with local produce and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Halten Sie eine Wasserflasche bereit, besonders an warmen Tagen.",
+          "Die meisten zentralen Orte sind leicht zu Fuß erreichbar.",
+          "Planen Sie Pausen in Cafés ein, um die lokale Atmosphäre zu genießen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "Legyen nálad egy üveg víz, különösen meleg napokon.",
+          "A legtöbb központi helyszín könnyen elérhető gyalog.",
+          "Tervezzen szüneteket kávézókban, hogy élvezze a helyi hangulatot."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Aveți la îndemână o sticlă de apă, mai ales în zilele calde.",
+          "Majoritatea locațiilor centrale sunt ușor accesibile pe jos.",
+          "Planificați pauze în cafenele pentru a vă bucura de atmosfera locală."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking a lot.",
+          "Keep a water bottle handy, especially on warm days.",
+          "Most central locations are easily reachable on foot.",
+          "Plan for breaks in cafes to enjoy the local atmosphere."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 10.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kent-Park",
+            "hu": "Kent Park",
+            "ro": "Parcul Kent",
+            "en": "Kent Park"
+          },
+          "coords": [
+            30.3855,
+            40.7851
+          ],
+          "category": "parks",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie mit einer entspannten Runde durch den Park, um sich aufzuwärmen.",
+            "hu": "Kezdje egy laza körrel a parkban, hogy bemelegítsen.",
+            "ro": "Începeți cu o tură relaxantă prin parc pentru a vă încălzi.",
+            "en": "Start with a relaxing loop around the park to warm up."
+          }
+        },
+        {
+          "name": {
+            "de": "Erdbebenmuseum",
+            "hu": "Földrengés Múzeum",
+            "ro": "Muzeul Cutremurului",
+            "en": "Earthquake Museum"
+          },
+          "coords": [
+            30.398,
+            40.7825
+          ],
+          "category": "museums",
+          "arrive_at": "10:20",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie das Museum betreten.",
+            "hu": "Biztonságosan zárja le a kerékpárját, mielőtt belép a múzeumba.",
+            "ro": "Asigurați-vă bicicleta înainte de a intra în muzeu.",
+            "en": "Lock your bike securely before entering the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Çark-Straße",
+            "hu": "Çark utca",
+            "ro": "Strada Çark",
+            "en": "Çark Street"
+          },
+          "coords": [
+            30.4031,
+            40.7782
+          ],
+          "category": "squares",
+          "arrive_at": "12:10",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie die Straße zu Fuß. Hier finden Sie gute Mittagsoptionen.",
+            "hu": "Tegye le a biciklit, és fedezze fel gyalog az utcát. Itt jó ebédelési lehetőségeket talál.",
+            "ro": "Parcați bicicleta și explorați strada pe jos. Aici veți găsi opțiuni bune pentru prânz.",
+            "en": "Park your bike and explore the street on foot. You'll find good lunch options here."
+          }
+        },
+        {
+          "name": {
+            "de": "Orhan-Gazi-Moschee",
+            "hu": "Orhan Gazi Mecset",
+            "ro": "Moscheea Orhan Gazi",
+            "en": "Orhan Gazi Mosque"
+          },
+          "coords": [
+            30.4015,
+            40.7771
+          ],
+          "category": "churches",
+          "arrive_at": "13:35",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang von der Hauptstraße entfernt.",
+            "hu": "Csak egy rövid séta a főutcától.",
+            "ro": "La doar o scurtă plimbare de strada principală.",
+            "en": "Just a short walk from the main street."
+          }
+        },
+        {
+          "name": {
+            "de": "Sakarya-Museum",
+            "hu": "Sakarya Múzeum",
+            "ro": "Muzeul Sakarya",
+            "en": "Sakarya Museum"
+          },
+          "coords": [
+            30.4062,
+            40.7795
+          ],
+          "category": "museums",
+          "arrive_at": "14:30",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Eine kurze Radtour, um mehr über die lokale Geschichte zu erfahren.",
+            "hu": "Egy rövid biciklitúra, hogy többet tudjon meg a helyi történelemről.",
+            "ro": "O scurtă plimbare cu bicicleta pentru a afla mai multe despre istoria locală.",
+            "en": "A short bike ride to learn more about local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt entlang des Flusses",
+            "hu": "Kerékpározás a folyó mentén",
+            "ro": "Plimbare pe malul râului",
+            "en": "Ride along the river"
+          },
+          "coords": [
+            30.395,
+            40.8
+          ],
+          "category": "parks",
+          "arrive_at": "16:10",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einer landschaftlich reizvollen Fahrt am Ufer des Sakarya-Flusses.",
+            "hu": "Zárja a napot egy festői kerékpártúrával a Sakarya folyó partján.",
+            "ro": "Încheiați ziua cu o plimbare pitorească pe malul râului Sakarya.",
+            "en": "End the day with a scenic ride along the bank of the Sakarya River."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Radtag im grünen Kent-Park. Von dort radeln Sie zum bewegenden Erdbebenmuseum. Zur Mittagszeit erreichen Sie die belebte Çark-Straße, wo Sie Ihr Rad abstellen, um zu Mittag zu essen und die Orhan-Gazi-Moschee zu besuchen. Am Nachmittag führt Sie eine kurze Fahrt zum Sakarya-Museum. Beenden Sie Ihr Abenteuer mit einer entspannenden Fahrt entlang des Sakarya-Flusses, um die Landschaft zu genießen.",
+        "hu": "Kezdje kerékpáros napját a zöldellő Kent Parkban. Onnan tekerjen el a megindító Földrengés Múzeumhoz. Délidőben érkezik a forgalmas Çark utcára, ahol leteheti a biciklit, hogy megebédeljen és meglátogassa az Orhan Gazi Mecsetet. Délután egy rövid út vezet a Sakarya Múzeumhoz. Zárja kalandját egy pihentető kerékpározással a Sakarya folyó mentén, élvezve a tájat.",
+        "ro": "Începeți ziua pe bicicletă în verdele Parc Kent. De acolo, pedalați spre emoționantul Muzeu al Cutremurului. La prânz, ajungeți pe animata stradă Çark, unde lăsați bicicleta pentru a lua masa și a vizita Moscheea Orhan Gazi. După-amiaza, o scurtă plimbare vă duce la Muzeul Sakarya. Încheiați aventura cu o plimbare relaxantă de-a lungul râului Sakarya, bucurându-vă de peisaj.",
+        "en": "Start your bike day in the green Kent Park. From there, cycle to the moving Earthquake Museum. At noon, you'll reach the bustling Çark Street, where you can park your bike for lunch and a visit to the Orhan Gazi Mosque. In the afternoon, a short ride takes you to the Sakarya Museum. End your adventure with a relaxing ride along the Sakarya River, enjoying the scenery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Islama Köfte",
+            "tip": "Gönnen Sie sich nach dem Radfahren eine herzhafte Mahlzeit."
+          },
+          {
+            "name": "Ayran",
+            "tip": "Das perfekte erfrischende Joghurtgetränk, um den Durst zu löschen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Islama Köfte",
+            "tip": "Kerékpározás után jutalmazza meg magát egy kiadós étellel."
+          },
+          {
+            "name": "Ayran",
+            "tip": "A tökéletes frissítő joghurtital a szomjoltáshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Islama Köfte",
+            "tip": "Răsfățați-vă cu o masă copioasă după plimbarea cu bicicleta."
+          },
+          {
+            "name": "Ayran",
+            "tip": "Băutura perfectă și răcoritoare din iaurt pentru a vă potoli setea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Islama Köfte",
+            "tip": "Treat yourself to a hearty meal after cycling."
+          },
+          {
+            "name": "Ayran",
+            "tip": "The perfect refreshing yogurt drink to quench your thirst."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kent-Park",
+            "tip": "Der ideale Ort für einen ruhigen Start in den Tag.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Sakarya-Flusses",
+            "tip": "Genießen Sie die Ruhe am Wasser am Ende Ihrer Tour.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kent Park",
+            "tip": "Ideális hely a nap csendes kezdéséhez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sakarya folyó partja",
+            "tip": "Élvezze a vízparti csendet a túra végén.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Kent",
+            "tip": "Locul ideal pentru un început liniștit de zi.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul râului Sakarya",
+            "tip": "Bucurați-vă de liniștea de lângă apă la sfârșitul turului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kent Park",
+            "tip": "The ideal place for a quiet start to the day.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sakarya Riverbank",
+            "tip": "Enjoy the tranquility by the water at the end of your tour.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Çark-Straße",
+            "tip": "Hier finden Sie alles von Kleidung bis zu Souvenirs, aber das Herumtragen kann beim Radfahren umständlich sein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Çark utca",
+            "tip": "A ruháktól a szuvenírekig mindent megtalál, de a cipekedés kényelmetlen lehet biciklizés közben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Çark",
+            "tip": "Veți găsi totul, de la haine la suveniruri, dar transportul lor poate fi incomod pe bicicletă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Çark Street",
+            "tip": "You'll find everything from clothes to souvenirs, but carrying things can be cumbersome while biking."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad sicher abzustellen.",
+          "Adapazarı ist größtenteils flach und daher gut zum Radfahren geeignet.",
+          "Achten Sie auf den Verkehr, besonders im Stadtzentrum."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját.",
+          "Vigyen magával lakatot a kerékpár biztonságos lezárásához.",
+          "Adapazarı többnyire sík, így kiválóan alkalmas a kerékpározásra.",
+          "Vigyázzon a forgalomra, különösen a városközpontban."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni.",
+          "Luați un lacăt pentru a vă asigura bicicleta.",
+          "Adapazarı este în mare parte plat, fiind potrivit pentru ciclism.",
+          "Fiți atenți la trafic, în special în centrul orașului."
+        ],
+        "en": [
+          "Check your bike before you set off.",
+          "Bring a lock to secure your bike.",
+          "Adapazarı is mostly flat, making it great for cycling.",
+          "Be aware of traffic, especially in the city center."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 55.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Çark-Straße & Zentrum",
+            "hu": "Çark utca és központ",
+            "ro": "Strada Çark și Centru",
+            "en": "Çark Street & Center"
+          },
+          "coords": [
+            30.4031,
+            40.7782
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Zentrum und genießen Sie einen Kaffee, bevor es losgeht.",
+            "hu": "Parkoljon le a központban, és igyon egy kávét indulás előtt.",
+            "ro": "Parcați în centru și savurați o cafea înainte de a începe.",
+            "en": "Park in the center and enjoy a coffee before starting."
+          }
+        },
+        {
+          "name": {
+            "de": "Orhan-Gazi-Moschee",
+            "hu": "Orhan Gazi Mecset",
+            "ro": "Moscheea Orhan Gazi",
+            "en": "Orhan Gazi Mosque"
+          },
+          "coords": [
+            30.4015,
+            40.7771
+          ],
+          "category": "churches",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz aus, um die historische Atmosphäre zu erleben.",
+            "hu": "Egy rövid séta a parkolóból, hogy megtapasztalja a történelmi légkört.",
+            "ro": "O scurtă plimbare de la parcare pentru a experimenta atmosfera istorică.",
+            "en": "A short walk from the parking spot to experience the historical atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Sakarya-Museum",
+            "hu": "Sakarya Múzeum",
+            "ro": "Muzeul Sakarya",
+            "en": "Sakarya Museum"
+          },
+          "coords": [
+            30.4062,
+            40.7795
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Zurück zum Auto gehen und zum nahegelegenen Museum fahren oder einfach laufen.",
+            "hu": "Sétáljon vissza az autóhoz, és vezessen a közeli múzeumhoz, vagy csak sétáljon át.",
+            "ro": "Mergeți înapoi la mașină și conduceți la muzeul din apropiere sau pur și simplu mergeți pe jos.",
+            "en": "Walk back towards the car and drive to the nearby museum, or just walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Justinianus-Brücke",
+            "hu": "Jusztiniánus híd",
+            "ro": "Podul lui Iustinian",
+            "en": "Justinian's Bridge"
+          },
+          "coords": [
+            30.33,
+            40.81
+          ],
+          "category": "bridges",
+          "arrive_at": "12:00",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses spätantike römische Bauwerk. Ein großartiger Ort für Fotos.",
+            "hu": "Csodálja meg ezt a késő római kori építményt. Nagyszerű hely a fotózáshoz.",
+            "ro": "Admirați această structură romană târzie. Un loc excelent pentru fotografii.",
+            "en": "Admire this late Roman structure. A great spot for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Fluss",
+            "hu": "Ebéd a folyónál",
+            "ro": "Prânz pe malul râului",
+            "en": "Lunch by the river"
+          },
+          "coords": [
+            30.332,
+            40.809
+          ],
+          "category": "gastro",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "In der Nähe der Brücke gibt es Restaurants mit Blick auf den Fluss Sakarya.",
+            "hu": "A híd közelében vannak éttermek, kilátással a Sakarya folyóra.",
+            "ro": "Există restaurante lângă pod cu vedere la râul Sakarya.",
+            "en": "There are restaurants near the bridge with views of the Sakarya River."
+          }
+        },
+        {
+          "name": {
+            "de": "Poyrazlar-See",
+            "hu": "Poyrazlar-tó",
+            "ro": "Lacul Poyrazlar",
+            "en": "Poyrazlar Lake"
+          },
+          "coords": [
+            30.51,
+            40.85
+          ],
+          "category": "lakes",
+          "arrive_at": "15:05",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 25.0,
+          "tip_5lang": {
+            "de": "Ein wunderschöner See außerhalb der Stadt. Ideal für einen Spaziergang in der Natur.",
+            "hu": "Egy gyönyörű tó a városon kívül. Ideális egy természetközeli sétához.",
+            "ro": "Un lac frumos în afara orașului. Ideal pentru o plimbare în natură.",
+            "en": "A beautiful lake outside the city. Ideal for a walk in nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt ins Zentrum",
+            "hu": "Vissza a központba",
+            "ro": "Întoarcere în centru",
+            "en": "Return to Center"
+          },
+          "coords": [
+            30.4056,
+            40.7811
+          ],
+          "category": "historical",
+          "arrive_at": "17:15",
+          "stay_min": 45,
+          "hop_mode": "car",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 16.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zurück in die Stadt für einen letzten Tee oder ein Abendessen.",
+            "hu": "Vezessen vissza a városba egy utolsó teára vagy vacsorára.",
+            "ro": "Conduceți înapoi în oraș pentru un ultim ceai sau o cină.",
+            "en": "Drive back to the city for a final tea or dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt im Zentrum von Adapazarı, wo Sie nach einem kurzen Spaziergang die Orhan-Gazi-Moschee und das Sakarya-Museum besuchen. Am Vormittag fahren Sie zur beeindruckenden Justinianus-Brücke für einen Sprung in die Antike. Nach einem Mittagessen am Flussufer geht die Reise weiter zum malerischen Poyrazlar-See, einem perfekten Ort für einen naturnahen Nachmittag. Sie beenden den Tag mit der Rückkehr ins Stadtzentrum, reich an historischen und natürlichen Eindrücken.",
+        "hu": "Autós napja Adapazarı központjában kezdődik, ahol egy rövid séta után meglátogatja az Orhan Gazi Mecsetet és a Sakarya Múzeumot. Délelőtt az lenyűgöző Jusztiniánus hídhoz hajt, hogy bepillantson az ókorba. Egy folyóparti ebéd után az utazás a festői Poyrazlar-tóhoz folytatódik, amely tökéletes hely egy természetközeli délutánhoz. A napot a városközpontba való visszatéréssel zárja, tele történelmi és természeti élményekkel.",
+        "ro": "Ziua dvs. cu mașina începe în centrul orașului Adapazarı, unde, după o scurtă plimbare, vizitați Moscheea Orhan Gazi și Muzeul Sakarya. Dimineața, conduceți la impresionantul Pod al lui Iustinian pentru o incursiune în antichitate. După un prânz pe malul râului, călătoria continuă spre pitorescul Lac Poyrazlar, un loc perfect pentru o după-amiază în natură. Încheiați ziua revenind în centrul orașului, îmbogățiți cu impresii istorice și naturale.",
+        "en": "Your car day starts in the center of Adapazarı, where after a short walk you'll visit the Orhan Gazi Mosque and Sakarya Museum. In the morning, you drive to the impressive Justinian's Bridge for a leap into antiquity. After lunch by the river, the journey continues to the picturesque Poyrazlar Lake, a perfect spot for an afternoon in nature. You end the day by returning to the city center, rich with historical and natural impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Islama Köfte",
+            "tip": "Probieren Sie es in einem authentischen Restaurant in der Stadt."
+          },
+          {
+            "name": "Forelle (Alabalık)",
+            "tip": "In den Restaurants am Poyrazlar-See wird oft frische Forelle serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Islama Köfte",
+            "tip": "Kóstolja meg egy autentikus étteremben a városban."
+          },
+          {
+            "name": "Pisztráng (Alabalık)",
+            "tip": "A Poyrazlar-tó melletti éttermekben gyakran szolgálnak fel friss pisztrángot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Islama Köfte",
+            "tip": "Încercați-l la un restaurant autentic din oraș."
+          },
+          {
+            "name": "Păstrăv (Alabalık)",
+            "tip": "Restaurantele de lângă Lacul Poyrazlar servesc adesea păstrăv proaspăt."
+          }
+        ],
+        "en": [
+          {
+            "name": "Islama Köfte",
+            "tip": "Try it at an authentic restaurant in the city."
+          },
+          {
+            "name": "Trout (Alabalık)",
+            "tip": "Restaurants near Poyrazlar Lake often serve fresh trout."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Poyrazlar-See",
+            "tip": "Der ultimative Ort für Ruhe und Frieden.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Justinianus-Brücke",
+            "tip": "Abseits des Stadttrubels können Sie hier die Geschichte auf sich wirken lassen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Poyrazlar-tó",
+            "tip": "A nyugalom és a béke legfőbb helyszíne.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jusztiniánus híd",
+            "tip": "A város zajától távol, itt átadhatja magát a történelemnek.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Poyrazlar",
+            "tip": "Locul suprem pentru pace și liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Podul lui Iustinian",
+            "tip": "Departe de agitația orașului, aici puteți absorbi istoria.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Poyrazlar Lake",
+            "tip": "The ultimate spot for peace and quiet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Justinian's Bridge",
+            "tip": "Away from the city bustle, you can absorb the history here.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Produkte am See",
+            "tip": "Am Poyrazlar-See gibt es oft Stände, die Honig und andere lokale Produkte verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termékek a tónál",
+            "tip": "A Poyrazlar-tónál gyakran vannak mézet és más helyi termékeket árusító standok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse locale lângă lac",
+            "tip": "Lângă Lacul Poyrazlar există adesea tarabe care vând miere și alte produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local products by the lake",
+            "tip": "There are often stalls by Poyrazlar Lake selling honey and other local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Verwenden Sie eine Navigations-App, um die Sehenswürdigkeiten außerhalb der Stadt zu finden.",
+          "Parkmöglichkeiten sind im Zentrum begrenzt, planen Sie entsprechend.",
+          "Überprüfen Sie die Öffnungszeiten der Museen und der Brücke.",
+          "Ein Auto gibt Ihnen die Flexibilität, die ländliche Umgebung zu erkunden."
+        ],
+        "hu": [
+          "Használjon navigációs alkalmazást a városon kívüli látnivalók megtalálásához.",
+          "A parkolási lehetőségek korlátozottak a központban, tervezzen ennek megfelelően.",
+          "Ellenőrizze a múzeumok és a híd nyitvatartási idejét.",
+          "Az autó rugalmasságot ad a vidéki környezet felfedezéséhez."
+        ],
+        "ro": [
+          "Utilizați o aplicație de navigație pentru a găsi atracțiile din afara orașului.",
+          "Parcarea este limitată în centru, planificați în consecință.",
+          "Verificați orele de program ale muzeelor și podului.",
+          "O mașină vă oferă flexibilitatea de a explora împrejurimile rurale."
+        ],
+        "en": [
+          "Use a navigation app to find the sights outside the city.",
+          "Parking is limited in the center, plan accordingly.",
+          "Check the opening hours for the museums and the bridge.",
+          "A car gives you the flexibility to explore the rural surroundings."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 7.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft im Zentrum",
+            "hu": "Érkezés a központba",
+            "ro": "Sosire în centru",
+            "en": "Arrival in the Center"
+          },
+          "coords": [
+            30.4056,
+            40.7811
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Die meisten Busse halten in der Nähe des Kent Meydanı (Stadtplatz).",
+            "hu": "A legtöbb busz a Kent Meydanı (Városi tér) közelében áll meg.",
+            "ro": "Majoritatea autobuzelor opresc lângă Kent Meydanı (Piața Orașului).",
+            "en": "Most buses stop near Kent Meydanı (City Square)."
+          }
+        },
+        {
+          "name": {
+            "de": "Çark-Straße & Orhan-Gazi-Moschee",
+            "hu": "Çark utca és Orhan Gazi Mecset",
+            "ro": "Strada Çark și Moscheea Orhan Gazi",
+            "en": "Çark Street & Orhan Gazi Mosque"
+          },
+          "coords": [
+            30.4031,
+            40.7782
+          ],
+          "category": "squares",
+          "arrive_at": "09:35",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie das kommerzielle und historische Herz der Stadt zu Fuß.",
+            "hu": "Fedezze fel gyalog a város kereskedelmi és történelmi szívét.",
+            "ro": "Explorați pe jos inima comercială și istorică a orașului.",
+            "en": "Explore the commercial and historical heart of the city on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Sakarya-Museum",
+            "hu": "Sakarya Múzeum",
+            "ro": "Muzeul Sakarya",
+            "en": "Sakarya Museum"
+          },
+          "coords": [
+            30.4062,
+            40.7795
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Zentrum, um mehr über die Gründung der Republik zu erfahren.",
+            "hu": "Egy rövid séta a központtól, hogy többet megtudjon a köztársaság alapításáról.",
+            "ro": "O scurtă plimbare din centru pentru a afla mai multe despre fondarea republicii.",
+            "en": "A short walk from the center to learn about the republic's founding."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Park-Cluster",
+            "hu": "Buszozás a parkhoz",
+            "ro": "Călătorie cu autobuzul spre zona parcului",
+            "en": "Transit to the Park Cluster"
+          },
+          "coords": [
+            30.3855,
+            40.7851
+          ],
+          "category": "transport",
+          "arrive_at": "12:50",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus oder Dolmuş in Richtung Kent Park.",
+            "hu": "Menjen helyi busszal vagy dolmuş-sal a Kent Park irányába.",
+            "ro": "Luați un autobuz local sau un dolmuș spre Parcul Kent.",
+            "en": "Take a local bus or dolmuş towards Kent Park."
+          }
+        },
+        {
+          "name": {
+            "de": "Kent-Park & Mittagessen",
+            "hu": "Kent Park és ebéd",
+            "ro": "Parcul Kent și prânz",
+            "en": "Kent Park & Lunch"
+          },
+          "coords": [
+            30.3855,
+            40.7851
+          ],
+          "category": "parks",
+          "arrive_at": "12:50",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Park und essen Sie in einem der Cafés im Park zu Mittag.",
+            "hu": "Élvezze a parkot, és ebédeljen a park egyik kávézójában.",
+            "ro": "Bucurați-vă de parc și luați prânzul la una dintre cafenelele din parc.",
+            "en": "Enjoy the park and have lunch at one of the cafes inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Erdbebenmuseum",
+            "hu": "Földrengés Múzeum",
+            "ro": "Muzeul Cutremurului",
+            "en": "Earthquake Museum"
+          },
+          "coords": [
+            30.398,
+            40.7825
+          ],
+          "category": "museums",
+          "arrive_at": "15:20",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Ein nachdenklich stimmender Spaziergang vom Park zum Museum.",
+            "hu": "Egy elgondolkodtató séta a parktól a múzeumig.",
+            "ro": "O plimbare care îndeamnă la reflecție de la parc la muzeu.",
+            "en": "A thought-provoking walk from the park to the museum."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit der Ankunft im Zentrum von Adapazarı. Sie erkunden das Herz der Stadt zu Fuß und besuchen die Çark-Straße und die Orhan-Gazi-Moschee. Nach dem Besuch des Sakarya-Museums nehmen Sie einen Bus zum zweiten Cluster des Tages. Dort entspannen Sie im Kent-Park und essen zu Mittag. Der Nachmittag ist dem bewegenden Erdbebenmuseum gewidmet, bevor Sie mit dem Bus zurückfahren und den Tag ausklingen lassen.",
+        "hu": "Napja Adapazarı központjába való érkezéssel kezdődik. Gyalogosan fedezi fel a város szívét, meglátogatva a Çark utcát és az Orhan Gazi Mecsetet. A Sakarya Múzeum után busszal utazik a nap második állomás-csoportjához. Ott pihen a Kent Parkban és megebédel. A délutánt a megindító Földrengés Múzeumnak szenteli, mielőtt visszabuszozik, hogy lezárja a napot.",
+        "ro": "Ziua dvs. începe cu sosirea în centrul orașului Adapazarı. Explorați inima orașului pe jos, vizitând strada Çark și Moscheea Orhan Gazi. După Muzeul Sakarya, luați un autobuz către al doilea grup de opriri al zilei. Acolo vă relaxați în Parcul Kent și luați prânzul. După-amiaza este dedicată emoționantului Muzeu al Cutremurului, înainte de a lua autobuzul înapoi pentru a încheia ziua.",
+        "en": "Your day begins arriving in the center of Adapazarı. You explore the city's heart on foot, visiting Çark Street and the Orhan Gazi Mosque. After the Sakarya Museum, you take a bus to the day's second cluster. There, you relax in Kent Park and have lunch. The afternoon is dedicated to the moving Earthquake Museum before you take a bus back to conclude the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Islama Köfte",
+            "tip": "Suchen Sie nach einem Esnaf Lokantası (Handwerkerrestaurant) im Zentrum für eine authentische Erfahrung."
+          },
+          {
+            "name": "Simit",
+            "tip": "Ein schneller und leckerer Snack für unterwegs von einem Straßenverkäufer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Islama Köfte",
+            "tip": "Keressen egy Esnaf Lokantası-t (kisiparos étterem) a központban az autentikus élményért."
+          },
+          {
+            "name": "Simit",
+            "tip": "Gyors és finom harapnivaló útközben egy utcai árustól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Islama Köfte",
+            "tip": "Căutați un Esnaf Lokantası (restaurant pentru meșteșugari) în centru pentru o experiență autentică."
+          },
+          {
+            "name": "Simit",
+            "tip": "O gustare rapidă și delicioasă de la un vânzător ambulant."
+          }
+        ],
+        "en": [
+          {
+            "name": "Islama Köfte",
+            "tip": "Look for an Esnaf Lokantası (craftsmen's restaurant) in the center for an authentic experience."
+          },
+          {
+            "name": "Simit",
+            "tip": "A quick and delicious snack on the go from a street vendor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kent-Park",
+            "tip": "Nach der Busfahrt ein großartiger Ort zum Entspannen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Garten der Orhan-Gazi-Moschee",
+            "tip": "Ein kleiner, friedlicher Ort im Herzen der Stadt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kent Park",
+            "tip": "A buszozás után remek hely a kikapcsolódásra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Orhan Gazi Mecset kertje",
+            "tip": "Egy kicsi, békés hely a város szívében.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Kent",
+            "tip": "Un loc minunat pentru a vă relaxa după călătoria cu autobuzul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Moscheii Orhan Gazi",
+            "tip": "Un loc mic și pașnic în inima orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kent Park",
+            "tip": "A great place to relax after the bus ride.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Orhan Gazi Mosque's garden",
+            "tip": "A small, peaceful spot in the heart of the city.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Çark-Straße",
+            "tip": "Am besten am Anfang oder Ende des Tages besuchen, um die Einkäufe nicht den ganzen Tag tragen zu müssen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Çark utca",
+            "tip": "A legjobb a nap elején vagy végén meglátogatni, hogy ne kelljen egész nap cipelni a vásárolt dolgokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Çark",
+            "tip": "Cel mai bine este să o vizitați la începutul sau la sfârșitul zilei pentru a nu căra cumpărăturile toată ziua."
+          }
+        ],
+        "en": [
+          {
+            "name": "Çark Street",
+            "tip": "Best to visit at the beginning or end of the day to avoid carrying purchases all day."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Kent Kart für eine einfachere Nutzung der öffentlichen Verkehrsmittel.",
+          "Fragen Sie Einheimische oder den Busfahrer nach der richtigen Haltestelle.",
+          "Dolmuş (Sammeltaxis) sind eine flexible Alternative zu Bussen.",
+          "Beachten Sie, dass Busse abends seltener fahren könnten."
+        ],
+        "hu": [
+          "Vásároljon Kent Kart-ot a tömegközlekedés egyszerűbb használatához.",
+          "Kérdezze meg a helyieket vagy a buszsofőrt a helyes megállóról.",
+          "A Dolmuş (iránytaxi) rugalmas alternatívája a buszoknak.",
+          "Vegye figyelembe, hogy a buszok este ritkábban közlekedhetnek."
+        ],
+        "ro": [
+          "Cumpărați un Kent Kart pentru o utilizare mai ușoară a transportului public.",
+          "Întrebați localnicii sau șoferul de autobuz despre stația corectă.",
+          "Dolmuș-urile (taxiuri colective) sunt o alternativă flexibilă la autobuze.",
+          "Rețineți că autobuzele pot circula mai rar seara."
+        ],
+        "en": [
+          "Purchase a Kent Kart for easier use of public transport.",
+          "Ask locals or the bus driver for the correct stop.",
+          "Dolmuş (shared taxis) are a flexible alternative to buses.",
+          "Be aware that buses may run less frequently in the evening."
+        ]
+      }
+    }
+  }
+}

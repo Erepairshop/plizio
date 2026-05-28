@@ -1,0 +1,1068 @@
+{
+  "city_id": "czechrepublic-liberec-cities-v2",
+  "anchor": {
+    "name": "Liberec",
+    "coords": [
+      15.0562,
+      50.7671
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Liberec",
+            "hu": "Libereci Városháza",
+            "ro": "Primăria din Liberec",
+            "en": "Liberec Town Hall"
+          },
+          "coords": [
+            15.0581,
+            50.7698
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besteigen Sie den Turm für eine großartige Aussicht auf die Stadt, wenn es möglich ist.",
+            "hu": "Ha lehet, másszon fel a toronyba a nagyszerű városi kilátásért.",
+            "ro": "Urcați în turn pentru o priveliște superbă asupra orașului, dacă este posibil.",
+            "en": "Climb the tower for a great view of the city if it's open to the public."
+          }
+        },
+        {
+          "name": {
+            "de": "Wallenstein-Häuser",
+            "hu": "Wallenstein-házak",
+            "ro": "Casele Wallenstein",
+            "en": "Wallenstein Houses"
+          },
+          "coords": [
+            15.0602,
+            50.7711
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:48",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Die ältesten Fachwerkhäuser in Liberec, perfekt für ein schnelles Foto.",
+            "hu": "Liberec legrégebbi favázas házai, tökéletesek egy gyors fotóhoz.",
+            "ro": "Cele mai vechi case cu grinzi de lemn din Liberec, perfecte pentru o fotografie rapidă.",
+            "en": "The oldest half-timbered houses in Liberec, perfect for a quick photo."
+          }
+        },
+        {
+          "name": {
+            "de": "F.-X.-Šalda-Theater",
+            "hu": "F. X. Šalda Színház",
+            "ro": "Teatrul F. X. Šalda",
+            "en": "F. X. Šalda Theatre"
+          },
+          "coords": [
+            15.056,
+            50.7685
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:23",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neobarocke Architektur; prüfen Sie, ob eine Führung verfügbar ist.",
+            "hu": "Csodálja meg a neobarokk építészetet; nézze meg, van-e vezetett túra.",
+            "ro": "Admirați arhitectura neo-barocă; verificați dacă este disponibil un tur ghidat.",
+            "en": "Admire the neo-baroque architecture; check if a guided tour is available."
+          }
+        },
+        {
+          "name": {
+            "de": "Nordböhmisches Museum",
+            "hu": "Észak-csehországi Múzeum",
+            "ro": "Muzeul Boemiei de Nord",
+            "en": "North Bohemian Museum"
+          },
+          "coords": [
+            15.066,
+            50.773
+          ],
+          "category": "museums",
+          "arrive_at": "11:03",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Glas- und Textilausstellungen, die regional bedeutsam sind.",
+            "hu": "Fókuszáljon az üveg- és textíliakiállításokra, melyek regionális jelentőségűek.",
+            "ro": "Concentrați-vă pe expozițiile de sticlă și textile, care sunt semnificative la nivel regional.",
+            "en": "Focus on the glass and textile exhibitions, which are regionally significant."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanischer Garten",
+            "hu": "Botanikus Kert",
+            "ro": "Grădina Botanică",
+            "en": "Botanical Garden"
+          },
+          "coords": [
+            15.07,
+            50.774
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:11",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die fleischfressenden Pflanzen und die Orchideensammlung.",
+            "hu": "Ne hagyja ki a húsevő növényeket és az orchidea gyűjteményt.",
+            "ro": "Nu ratați plantele carnivore și colecția de orhidee.",
+            "en": "Don't miss the carnivorous plants and the orchid collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo Liberec",
+            "hu": "Libereci Állatkert",
+            "ro": "Zoo Liberec",
+            "en": "Zoo Liberec"
+          },
+          "coords": [
+            15.0782,
+            50.7758
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:31",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Berühmt für seine weißen Tiger, ein Muss für jeden Besucher.",
+            "hu": "Híres a fehér tigriseiről, minden látogatónak kötelező.",
+            "ro": "Renumit pentru tigrii săi albi, o atracție de neratat pentru orice vizitator.",
+            "en": "Famous for its white tigers, a must-see for any visitor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Liberec beginnt am majestätischen Rathausplatz. Am Vormittag erkunden Sie das historische Herz der Stadt, einschließlich der alten Wallenstein-Häuser und des prachtvollen Theaters. Gegen Mittag tauchen Sie in die Kultur im Nordböhmischen Museum ein und genießen die Ruhe des Botanischen Gartens. Der Nachmittag ist für die Tierwelt im berühmten Liberecer Zoo reserviert, Heimat der seltenen weißen Tiger. Zum Abendessen kehren Sie ins Stadtzentrum zurück, um tschechische Spezialitäten zu probieren und den Tag ausklingen zu lassen.",
+        "hu": "Libereci napja a fenséges Városháza téren kezdődik. A délelőtt folyamán felfedezi a város történelmi szívét, beleértve a régi Wallenstein-házakat és a pompás színházat. Dél körül elmerül a kultúrában az Észak-csehországi Múzeumban, majd élvezi a Botanikus Kert nyugalmát. A délután az állatvilágé a híres Libereci Állatkertben, a ritka fehér tigrisek otthonában. Estére visszatér a városközpontba, hogy megkóstolja a cseh specialitásokat és lezárja a napot.",
+        "ro": "Ziua dvs. în Liberec începe în piața maiestuoasă a Primăriei. Dimineața explorați inima istorică a orașului, inclusiv vechile case Wallenstein și teatrul splendid. Spre prânz, vă cufundați în cultură la Muzeul Boemiei de Nord și vă bucurați de liniștea Grădinii Botanice. După-amiaza este dedicată faunei la faimoasa Grădină Zoologică din Liberec, casă a rariilor tigri albi. Seara, vă întoarceți în centrul orașului pentru a gusta specialități cehe și a încheia ziua.",
+        "en": "Your day in Liberec begins at the majestic Town Hall square. In the morning, you'll explore the historic heart of the city, including the old Wallenstein Houses and the splendid theatre. Around noon, delve into culture at the North Bohemian Museum and enjoy the tranquility of the Botanical Garden. The afternoon is for wildlife at the famous Liberec Zoo, home to the rare white tigers. For the evening, you'll return to the city center to taste Czech specialties and round off the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Rinderbraten in Sahnesoße, ein tschechischer Klassiker. Probieren Sie es im Radniční sklípek direkt am Hauptplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Vadasmarha tejszínes mártással, egy cseh klasszikus. Kóstolja meg a Radniční sklípek-ben a főtéren."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Friptură de vită în sos de smântână, un clasic ceh. Încercați-l la Radniční sklípek, chiar în piața principală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Beef sirloin in cream sauce, a Czech classic. Try it at Radniční sklípek right on the main square."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Botanischer Garten",
+            "tip": "Die Gewächshäuser bieten eine ruhige Flucht aus der Hektik der Stadt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Botanikus Kert",
+            "tip": "Az üvegházak csendes menedéket nyújtanak a város nyüzsgéséből.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică",
+            "tip": "Serele oferă o evadare liniștită din agitația orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Botanical Garden",
+            "tip": "The greenhouses offer a quiet escape from the city bustle.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Böhmisches Glas",
+            "tip": "Suchen Sie in den Souvenirläden im Stadtzentrum nach lokal gefertigtem böhmischem Glas oder Granatschmuck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cseh kristály",
+            "tip": "Keressen helyi készítésű cseh kristályt vagy gránát ékszereket a belvárosi ajándékboltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cristal de Boemia",
+            "tip": "Căutați cristal de Boemia sau bijuterii cu granat, fabricate local, în magazinele de suveniruri din centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bohemian Glass",
+            "tip": "Look for locally crafted Bohemian glass or garnet jewelry in the city center souvenir shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Eine wiederverwendbare Wasserflasche ist eine gute Idee.",
+          "Der Zoo ist ziemlich groß, planen Sie also genügend Zeit ein."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "Egy újratölthető vizes palack jó ötlet.",
+          "Az állatkert elég nagy, tervezzen elegendő időt."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe jos.",
+          "O sticlă de apă reutilizabilă este o idee bună.",
+          "Grădina zoologică este destul de mare, așa că planificați-vă suficient timp."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "A reusable water bottle is a good idea.",
+          "The zoo is quite large, so plan enough time."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 9.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Liberec",
+            "hu": "Libereci Városháza",
+            "ro": "Primăria din Liberec",
+            "en": "Liberec Town Hall"
+          },
+          "coords": [
+            15.0581,
+            50.7698
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab und genießen Sie den Platz.",
+            "hu": "Zárja le biztonságosan a kerékpárját és élvezze a teret.",
+            "ro": "Încuiați-vă bicicleta în siguranță și bucurați-vă de piață.",
+            "en": "Lock your bike securely and enjoy the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Wallenstein-Häuser",
+            "hu": "Wallenstein-házak",
+            "ro": "Casele Wallenstein",
+            "en": "Wallenstein Houses"
+          },
+          "coords": [
+            15.0602,
+            50.7711
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:38",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nur einen kurzen Radweg vom Hauptplatz entfernt.",
+            "hu": "Csak egy rövid bicikliútra a főtértől.",
+            "ro": "La doar o scurtă plimbare cu bicicleta de piața principală.",
+            "en": "Just a short bike ride from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Liberec",
+            "hu": "Libereci kastély",
+            "ro": "Castelul Liberec",
+            "en": "Liberec Chateau"
+          },
+          "coords": [
+            15.0625,
+            50.7715
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:00",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Obwohl es nicht öffentlich zugänglich ist, ist die Fassade beeindruckend.",
+            "hu": "Bár nem látogatható, a homlokzata lenyűgöző.",
+            "ro": "Deși nu este deschis publicului, fațada sa este impresionantă.",
+            "en": "Although not open to the public, its facade is impressive."
+          }
+        },
+        {
+          "name": {
+            "de": "Nordböhmisches Museum",
+            "hu": "Észak-csehországi Múzeum",
+            "ro": "Muzeul Boemiei de Nord",
+            "en": "North Bohemian Museum"
+          },
+          "coords": [
+            15.066,
+            50.773
+          ],
+          "category": "museums",
+          "arrive_at": "10:36",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Es gibt Fahrradständer in der Nähe des Eingangs.",
+            "hu": "A bejárat közelében vannak kerékpártárolók.",
+            "ro": "Există suporturi pentru biciclete lângă intrare.",
+            "en": "There are bike racks available near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanischer Garten",
+            "hu": "Botanikus Kert",
+            "ro": "Grădina Botanică",
+            "en": "Botanical Garden"
+          },
+          "coords": [
+            15.07,
+            50.774
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:20",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein schöner Ort für eine Pause, bevor Sie zum Zoo weiterradeln.",
+            "hu": "Szép hely egy kis pihenőre, mielőtt tovább tekersz az állatkertbe.",
+            "ro": "Un loc frumos pentru o pauză înainte de a pedala spre grădina zoologică.",
+            "en": "A beautiful spot for a break before cycling to the zoo."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo Liberec",
+            "hu": "Libereci Állatkert",
+            "ro": "Zoo Liberec",
+            "en": "Zoo Liberec"
+          },
+          "coords": [
+            15.0782,
+            50.7758
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:45",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der Zoo liegt auf einem Hügel, seien Sie auf eine Steigung vorbereitet.",
+            "hu": "Az állatkert egy dombon van, készüljön fel egy emelkedőre.",
+            "ro": "Grădina zoologică este pe un deal, fiți pregătit pentru o urcare.",
+            "en": "The zoo is on a hill, be prepared for an uphill ride."
+          }
+        },
+        {
+          "name": {
+            "de": "F.-X.-Šalda-Theater",
+            "hu": "F. X. Šalda Színház",
+            "ro": "Teatrul F. X. Šalda",
+            "en": "F. X. Šalda Theatre"
+          },
+          "coords": [
+            15.056,
+            50.7685
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:15",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einem Blick auf dieses architektonische Juwel.",
+            "hu": "Fejezze be a kerékpártúrát egy pillantással erre az építészeti gyöngyszemre.",
+            "ro": "Încheiați-vă turul cu bicicleta admirând această bijuterie arhitecturală.",
+            "en": "End your bike tour by admiring this architectural gem."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad für eine Erkundung von Liberec. Der Morgen führt Sie durch das historische Zentrum, vom Rathaus über die alten Gassen zum Schloss und Museum. Gegen Mittag machen Sie eine Pause im Botanischen Garten. Am Nachmittag radeln Sie zum berühmten Zoo, um die weißen Tiger zu sehen. Die Tour endet wieder im Zentrum, wo Sie das prächtige Theater bewundern, bevor Sie sich ein wohlverdientes Abendessen gönnen.",
+        "hu": "Pattanjon biciklire Liberec felfedezéséhez. A reggel a történelmi központon vezet keresztül, a Városházától a régi utcákon át a kastélyig és a múzeumig. Dél körül pihenjen egyet a Botanikus Kertben. Délután tekerjen el a híres állatkertbe, hogy megnézze a fehér tigriseket. A túra ismét a központban ér véget, ahol megcsodálhatja a pompás színházat, mielőtt elfogyasztana egy jól megérdemelt vacsorát.",
+        "ro": "Urcați-vă pe bicicletă pentru o explorare a orașului Liberec. Dimineața vă poartă prin centrul istoric, de la Primărie prin străduțele vechi până la castel și muzeu. La prânz, faceți o pauză în Grădina Botanică. După-amiaza, pedalați spre faimoasa grădină zoologică pentru a vedea tigrii albi. Turul se încheie înapoi în centru, admirând teatrul magnific înainte de o cină binemeritată.",
+        "en": "Get on your bike for an exploration of Liberec. The morning takes you through the historic center, from the Town Hall through the old streets to the chateau and museum. Around noon, you'll take a break in the Botanical Garden. In the afternoon, cycle to the famous zoo to see the white tigers. The tour concludes back in the center, admiring the magnificent theatre before a well-deserved dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Knedlíky",
+            "tip": "Probieren Sie verschiedene Arten von Knödeln, sowohl süß als auch herzhaft. Viele Restaurants bieten sie an."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Knedli",
+            "tip": "Kóstoljon meg különféle gombócokat, édeset és sósat egyaránt. Sok étterem kínálja őket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Knedlíky",
+            "tip": "Încercați diferite tipuri de găluște, atât dulci, cât și sărate. Multe restaurante le servesc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Knedlíky",
+            "tip": "Try different types of dumplings, both sweet and savory. Many restaurants serve them."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Liberecer Talsperre",
+            "tip": "Wenn Sie Zeit haben, ist eine Radtour um den nahegelegenen Stausee sehr entspannend.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Libereci víztározó",
+            "tip": "Ha van ideje, egy biciklitúra a közeli víztározó körül nagyon pihentető.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Barajul Liberec",
+            "tip": "Dacă aveți timp, o plimbare cu bicicleta în jurul lacului de acumulare din apropiere este foarte relaxantă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Liberec Dam",
+            "tip": "If you have time, a bike ride around the nearby dam is very relaxing.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Märkte",
+            "tip": "Achten Sie auf Bauernmärkte für frische Produkte und lokale Leckereien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piacok",
+            "tip": "Keresse a termelői piacokat friss árukért és helyi finomságokért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe locale",
+            "tip": "Căutați piețele fermierilor pentru produse proaspete și delicatese locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Markets",
+            "tip": "Look out for farmers' markets for fresh produce and local treats."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Einige Straßen im Zentrum können Kopfsteinpflaster haben.",
+          "Liberec ist hügelig, seien Sie auf einige Anstiege vorbereitet.",
+          "Nehmen Sie ein gutes Schloss für Ihr Fahrrad mit."
+        ],
+        "hu": [
+          "Néhány belvárosi utca macskaköves lehet.",
+          "Liberec dombos, készüljön fel emelkedőkre.",
+          "Vigyen magával egy jó lakatot a kerékpárhoz."
+        ],
+        "ro": [
+          "Unele străzi din centru pot fi pavate cu piatră cubică.",
+          "Liberec este deluros, fiți pregătit pentru câteva urcări.",
+          "Luați un lacăt bun pentru bicicletă."
+        ],
+        "en": [
+          "Some streets in the center can be cobbled.",
+          "Liberec is hilly, so be prepared for some climbs.",
+          "Bring a good lock for your bike."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 28.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum",
+            "hu": "Parkoló a központban",
+            "ro": "Parcare în centru",
+            "en": "City Center Parking"
+          },
+          "coords": [
+            15.055,
+            50.767
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto in einem der Parkhäuser in der Nähe des Zentrums für den Vormittag.",
+            "hu": "Parkolja le autóját a központhoz közeli parkolóházak egyikében a délelőttre.",
+            "ro": "Parcați mașina într-una din parcările din apropierea centrului pentru dimineață.",
+            "en": "Park your car in one of the parking garages near the center for the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus und Platz",
+            "hu": "Városháza és tér",
+            "ro": "Primăria și Piața",
+            "en": "Town Hall and Square"
+          },
+          "coords": [
+            15.0581,
+            50.7698
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Rundgang hier. Das Herz von Liberec.",
+            "hu": "Itt kezdje a sétát. Liberec szíve.",
+            "ro": "Începeți turul pietonal de aici. Inima orașului Liberec.",
+            "en": "Start your walking tour here. The heart of Liberec."
+          }
+        },
+        {
+          "name": {
+            "de": "Nordböhmisches Museum",
+            "hu": "Észak-csehországi Múzeum",
+            "ro": "Muzeul Boemiei de Nord",
+            "en": "North Bohemian Museum"
+          },
+          "coords": [
+            15.066,
+            50.773
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein angenehmer Spaziergang vom Hauptplatz durch den Park.",
+            "hu": "Kellemes séta a főtértől a parkon keresztül.",
+            "ro": "O plimbare plăcută de la piața principală prin parc.",
+            "en": "A pleasant walk from the main square through the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Fernsehturm Ještěd",
+            "hu": "Ještěd TV-torony",
+            "ro": "Turnul TV Ještěd",
+            "en": "Ještěd TV Tower"
+          },
+          "coords": [
+            15.004,
+            50.7325
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:20",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 13.0,
+          "tip_5lang": {
+            "de": "Die Fahrt hinauf ist es wert. Spektakuläre Ausblicke und ein einzigartiges Hotel/Restaurant.",
+            "hu": "Megéri felautózni. Látványos kilátás és egy egyedülálló hotel/étterem.",
+            "ro": "Merită să urcați cu mașina. Vederi spectaculoase și un hotel/restaurant unic.",
+            "en": "The drive up is worth it. Spectacular views and a unique hotel/restaurant."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo Liberec",
+            "hu": "Libereci Állatkert",
+            "ro": "Zoo Liberec",
+            "en": "Zoo Liberec"
+          },
+          "coords": [
+            15.0782,
+            50.7758
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:25",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 13.0,
+          "tip_5lang": {
+            "de": "Es gibt einen eigenen Parkplatz für den Zoo. Ein Nachmittag voller Entdeckungen.",
+            "hu": "Az állatkertnek saját parkolója van. Egy felfedezésekkel teli délután.",
+            "ro": "Există o parcare dedicată pentru grădina zoologică. O după-amiază de explorare.",
+            "en": "There is a dedicated parking lot for the zoo. An afternoon of discovery."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanischer Garten",
+            "hu": "Botanikus Kert",
+            "ro": "Grădina Botanică",
+            "en": "Botanical Garden"
+          },
+          "coords": [
+            15.07,
+            50.774
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:30",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Zoo, um den Tag entspannt ausklingen zu lassen.",
+            "hu": "Rövid séta az állatkerttől, hogy pihentetően zárja a napot.",
+            "ro": "O scurtă plimbare de la grădina zoologică pentru a încheia ziua într-un mod relaxant.",
+            "en": "A short walk from the zoo to end the day in a relaxed way."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto haben Sie die Flexibilität, die Highlights von Liberec und Umgebung zu sehen. Parken Sie im Zentrum und verbringen Sie den Vormittag zu Fuß, um den Rathausplatz und das Nordböhmische Museum zu erkunden. Gegen Mittag fahren Sie zum ikonischen Ještěd-Turm für ein Mittagessen mit Aussicht. Der Nachmittag ist der Natur gewidmet, mit einer Fahrt zum berühmten Zoo und einem entspannenden Spaziergang durch den benachbarten Botanischen Garten zum Abschluss. Ein perfekter Mix aus Stadtkultur und Naturerlebnis.",
+        "hu": "Autóval rugalmasan megtekintheti Liberec és környéke legjavát. Parkoljon a központban, és töltse a délelőttöt gyalogosan, felfedezve a Városház teret és az Észak-csehországi Múzeumot. Dél körül hajtson fel az ikonikus Ještěd-toronyhoz egy kilátással egybekötött ebédre. A délután a természeté, egy utazással a híres állatkertbe, és a napot egy pihentető sétával zárja a szomszédos Botanikus Kertben. Tökéletes keveréke a városi kultúrának és a természeti élményeknek.",
+        "ro": "Cu mașina, aveți flexibilitatea de a vedea atracțiile principale din Liberec și împrejurimi. Parcați în centru și petreceți dimineața explorând pe jos piața Primăriei și Muzeul Boemiei de Nord. La prânz, conduceți până la emblematicul Turn Ještěd pentru un prânz cu priveliște. După-amiaza este dedicată naturii, cu o vizită la faimoasa grădină zoologică și o plimbare relaxantă prin Grădina Botanică adiacentă pentru a încheia. Un amestec perfect de cultură urbană și experiență în natură.",
+        "en": "By car, you have the flexibility to see the highlights of Liberec and its surroundings. Park in the center and spend the morning exploring the Town Hall square and the North Bohemian Museum on foot. For lunch, drive up to the iconic Ještěd Tower for a meal with a view. The afternoon is dedicated to nature, with a drive to the famous zoo and a final relaxing walk through the adjacent Botanical Garden. A perfect mix of city culture and natural experience."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant im Ještěd",
+            "tip": "Essen Sie im Restaurant des Turms. Das Essen ist gut, aber die 360-Grad-Aussicht ist unschlagbar."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a Ještěd-toronyban",
+            "tip": "Egyen a torony éttermében. Az étel jó, de a 360 fokos kilátás verhetetlen."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul din Ještěd",
+            "tip": "Mâncați la restaurantul din turn. Mâncarea este bună, dar priveliștea de 360 de grade este imbatabilă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant in Ještěd",
+            "tip": "Dine at the tower's restaurant. The food is good, but the 360-degree view is unbeatable."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ještěd-Gipfel",
+            "tip": "Abseits des Trubels bietet der Gipfel eine ruhige Atmosphäre, besonders an Wochentagen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ještěd-csúcs",
+            "tip": "A nyüzsgéstől távol a csúcs csendes légkört kínál, különösen hétköznap.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Ještěd",
+            "tip": "Departe de agitație, vârful oferă o atmosferă liniștită, mai ales în timpul săptămânii.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ještěd Peak",
+            "tip": "Away from the bustle, the peak offers a tranquil atmosphere, especially on weekdays.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Forum Liberec",
+            "tip": "Ein modernes Einkaufszentrum in der Nähe des Zentrums, falls Sie etwas brauchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Forum Liberec",
+            "tip": "Modern bevásárlóközpont a központ közelében, ha szüksége lenne valamire."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Forum Liberec",
+            "tip": "Un centru comercial modern lângă centru, în caz că aveți nevoie de ceva."
+          }
+        ],
+        "en": [
+          {
+            "name": "Forum Liberec",
+            "tip": "A modern shopping mall near the center in case you need anything."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Parkgebühren im Voraus.",
+          "Der Ještěd-Turm kann bei schlechtem Wetter in den Wolken sein.",
+          "Kaufen Sie Tickets für den Zoo online, um Warteschlangen zu vermeiden."
+        ],
+        "hu": [
+          "Ellenőrizze előre a parkolási díjakat.",
+          "Rossz időben a Ještěd-torony felhőkbe burkolózhat.",
+          "Vásároljon jegyet az állatkertbe online a sorban állás elkerülése érdekében."
+        ],
+        "ro": [
+          "Verificați taxele de parcare în avans.",
+          "Turnul Ještěd poate fi în nori pe vreme rea.",
+          "Cumpărați bilete la zoo online pentru a evita cozile."
+        ],
+        "en": [
+          "Check parking fees in advance.",
+          "Ještěd Tower can be in the clouds during bad weather.",
+          "Buy zoo tickets online to avoid queues."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 18.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Haltestelle Fügnerova",
+            "hu": "Fügnerova megálló",
+            "ro": "Stația Fügnerova",
+            "en": "Fügnerova Stop"
+          },
+          "coords": [
+            15.056,
+            50.765
+          ],
+          "category": "transit-hub",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Der zentrale Verkehrsknotenpunkt. Kaufen Sie hier eine Tageskarte.",
+            "hu": "A központi közlekedési csomópont. Itt vásároljon napijegyet.",
+            "ro": "Nodul central de transport. Cumpărați un bilet de o zi de aici.",
+            "en": "The central transit hub. Buy a day pass here."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus und Platz",
+            "hu": "Városháza és tér",
+            "ro": "Primăria și Piața",
+            "en": "Town Hall and Square"
+          },
+          "coords": [
+            15.0581,
+            50.7698
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Haltestelle Fügnerova.",
+            "hu": "Rövid séta a Fügnerova megállótól.",
+            "ro": "O scurtă plimbare de la stația Fügnerova.",
+            "en": "A short walk from the Fügnerova stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanischer Garten & Zoo",
+            "hu": "Botanikus Kert és Állatkert",
+            "ro": "Grădina Botanică și Zoo",
+            "en": "Botanical Garden & Zoo"
+          },
+          "coords": [
+            15.074,
+            50.775
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:45",
+          "stay_min": 210,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie die Straßenbahnlinie 2 oder 3. Die Haltestelle ist direkt dazwischen. Besuchen Sie beides.",
+            "hu": "Menjen a 2-es vagy 3-as villamossal. A megálló pont a kettő között van. Látogassa meg mindkettőt.",
+            "ro": "Luați tramvaiul 2 sau 3. Stația este chiar între ele. Vizitați-le pe amândouă.",
+            "en": "Take tram line 2 or 3. The stop is right between them. Visit both."
+          }
+        },
+        {
+          "name": {
+            "de": "Nordböhmisches Museum",
+            "hu": "Észak-csehországi Múzeum",
+            "ro": "Muzeul Boemiei de Nord",
+            "en": "North Bohemian Museum"
+          },
+          "coords": [
+            15.066,
+            50.773
+          ],
+          "category": "museums",
+          "arrive_at": "14:40",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Gehen Sie vom Zoo/Garten zurück. Ein entspannter Spaziergang bergab.",
+            "hu": "Sétáljon vissza az állatkerttől/kerttől. Kellemes séta lefelé.",
+            "ro": "Mergeți pe jos înapoi de la zoo/grădină. O plimbare relaxantă la vale.",
+            "en": "Walk back from the zoo/garden. It's a relaxing downhill stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Fernsehturm Ještěd",
+            "hu": "Ještěd TV-torony",
+            "ro": "Turnul TV Ještěd",
+            "en": "Ještěd TV Tower"
+          },
+          "coords": [
+            15.004,
+            50.7325
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "17:15",
+          "stay_min": 75,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 14.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie die Straßenbahn nach Horní Hanychov und dann die Seilbahn. Prüfen Sie den Betriebsstatus der Seilbahn!",
+            "hu": "Menjen villamossal Horní Hanychov-ba, majd siklóval. Ellenőrizze a sikló működési állapotát!",
+            "ro": "Luați tramvaiul până la Horní Hanychov, apoi telecabina. Verificați starea de funcționare a telecabinei!",
+            "en": "Take the tram to Horní Hanychov, then the cable car. Check the cable car's operational status!"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Liberec mit den öffentlichen Verkehrsmitteln. Kaufen Sie eine Tageskarte am Knotenpunkt Fügnerova und beginnen Sie Ihren Tag im historischen Zentrum. Nach der Erkundung des Rathausplatzes bringt Sie die Straßenbahn direkt zum Cluster aus Zoo und Botanischem Garten für einen ausgedehnten Besuch am Mittag. Am Nachmittag spazieren Sie zum nahegelegenen Nordböhmischen Museum. Der Höhepunkt des Tages ist die Fahrt mit Straßenbahn und Seilbahn zum Ještěd-Turm, um den Sonnenuntergang über der Region zu erleben.",
+        "hu": "Fedezze fel Liberecet tömegközlekedéssel. Vásároljon napijegyet a Fügnerova csomópontban, és kezdje a napot a történelmi központban. A Városház tér felfedezése után a villamos egyenesen az állatkert és a botanikus kert együtteséhez viszi egy hosszabb déli látogatásra. Délután sétáljon el a közeli Észak-csehországi Múzeumba. A nap fénypontja a villamos- és siklóút a Ještěd-toronyhoz, hogy megnézze a naplementét a régió felett.",
+        "ro": "Descoperiți Liberec folosind transportul public. Cumpărați un bilet de o zi de la nodul Fügnerova și începeți ziua în centrul istoric. După ce explorați piața Primăriei, tramvaiul vă duce direct la grupul format din Grădina Zoologică și Grădina Botanică pentru o vizită extinsă la prânz. După-amiaza, mergeți pe jos la Muzeul Boemiei de Nord din apropiere. Punctul culminant al zilei este călătoria cu tramvaiul și telecabina până la Turnul Ještěd pentru a admira apusul peste regiune.",
+        "en": "Discover Liberec using public transport. Buy a day pass at the Fügnerova hub and start your day in the historic center. After exploring the Town Hall square, the tram takes you directly to the Zoo and Botanical Garden cluster for a long midday visit. In the afternoon, walk to the nearby North Bohemian Museum. The day's highlight is the tram and cable car trip up to Ještěd Tower to witness the sunset over the region."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Trdelník",
+            "tip": "Ein süßes Gebäck, das oft auf der Straße verkauft wird. Perfekt für einen schnellen Snack zwischen den Fahrten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kürtőskalács (Trdelník)",
+            "tip": "Édes sütemény, amelyet gyakran az utcán árulnak. Tökéletes egy gyors harapnivalóhoz az utazások között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trdelník",
+            "tip": "Un produs de patiserie dulce, adesea vândut pe stradă. Perfect pentru o gustare rapidă între călătorii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trdelník",
+            "tip": "A sweet pastry often sold on the street. Perfect for a quick snack between rides."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ještěd bei Sonnenuntergang",
+            "tip": "Wenn Sie Ihren Tag richtig timen, ist der Sonnenuntergang vom Turm aus magisch.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ještěd naplementekor",
+            "tip": "Ha jól időzíti a napját, a naplemente a toronyból varázslatos.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ještěd la apus",
+            "tip": "Dacă vă planificați bine ziua, apusul de pe turn este magic.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ještěd at sunset",
+            "tip": "If you time your day right, the sunset from the tower is magical.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kristallgeschäfte",
+            "tip": "Liberec liegt in der Kristallregion. Halten Sie Ausschau nach Geschäften, die lokales Glas verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kristályboltok",
+            "tip": "Liberec a Kristályrégióban fekszik. Keresse a helyi üveget árusító üzleteket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de cristal",
+            "tip": "Liberec se află în regiunea cristalului. Căutați magazine care vând sticlă locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crystal Shops",
+            "tip": "Liberec is in the Crystal Valley region. Look for shops selling local glass."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Eine Tageskarte ist am kostengünstigsten.",
+          "Überprüfen Sie immer den Betriebsstatus der Ještěd-Seilbahn, da sie windanfällig ist.",
+          "Die App für den öffentlichen Nahverkehr kann sehr hilfreich sein."
+        ],
+        "hu": [
+          "A napijegy a legköltséghatékonyabb.",
+          "Mindig ellenőrizze a Ještěd-sikló működési állapotát, mivel szélérzékeny.",
+          "A tömegközlekedési alkalmazás nagyon hasznos lehet."
+        ],
+        "ro": [
+          "Un bilet de o zi este cel mai rentabil.",
+          "Verificați întotdeauna starea de funcționare a telecabinei Ještěd, deoarece este sensibilă la vânt.",
+          "Aplicația de transport public poate fi foarte utilă."
+        ],
+        "en": [
+          "A day pass is the most cost-effective option.",
+          "Always check the operational status of the Ještěd cable car as it's sensitive to wind.",
+          "The public transport app can be very helpful."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1252 @@
+{
+  "city_id": "montenegro-tuzi-cities-v2",
+  "anchor": {
+    "name": "Tuzi",
+    "coords": [
+      19.336,
+      42.363
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Tuzi und erkunden Sie das reiche kulturelle Erbe. Am Nachmittag führt Sie ein Spaziergang über den Fluss zur Festung, die einen Panoramablick bietet. Der Abend klingt bei lokalen Spezialitäten aus.",
+        "hu": "Kezdje a napot Tuzi szívében, a gazdag kulturális örökség felfedezésével. Délután a folyón átívelő séta a panorámás kilátást nyújtó erődhöz vezet. Az estét helyi specialitásokkal zárja.",
+        "ro": "Începeți ziua în inima orașului Tuzi, explorând bogata moștenire culturală. După-amiaza, o plimbare peste râu vă duce la fortăreață pentru vederi panoramice. Încheiați seara cu specialități locale.",
+        "en": "Start your day in the heart of Tuzi, exploring its rich cultural heritage. In the afternoon, a walk across the river takes you to the fortress for panoramic views. Conclude the evening with local specialties."
+      },
+      "stops": [
+        {
+          "name": {
+            "de": "Denkmal des Aufstands von 1911",
+            "hu": "Az 1911-es felkelés emlékműve",
+            "ro": "Monumentul Revoltei din 1911",
+            "en": "Monument of the 1911 Uprising"
+          },
+          "coords": [
+            19.3355,
+            42.364
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein wichtiger Ort, um die lokale Geschichte des albanischen Widerstands zu verstehen.",
+            "hu": "Fontos hely a helyi albán ellenállás történetének megértéséhez.",
+            "ro": "Un loc important pentru a înțelege istoria locală a rezistenței albaneze.",
+            "en": "An important spot to understand the local history of Albanian resistance."
+          }
+        },
+        {
+          "name": {
+            "de": "Moschee von Tuzi",
+            "hu": "Tuzi-mecset",
+            "ro": "Moscheea din Tuzi",
+            "en": "Mosque of Tuzi"
+          },
+          "coords": [
+            19.3365,
+            42.3635
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die Kleiderordnung. Die Innenräume sind oft schlicht und friedlich.",
+            "hu": "Ügyeljen a megfelelő öltözékre. A belső tér általában egyszerű és békés.",
+            "ro": "Respectați codul vestimentar. Interiorul este adesea simplu și pașnic.",
+            "en": "Be mindful of the dress code. The interior is often simple and peaceful."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Hl. Antonius",
+            "hu": "Szent Antal-templom",
+            "ro": "Biserica Sfântul Anton",
+            "en": "Church of St. Anthony"
+          },
+          "coords": [
+            19.338,
+            42.3625
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Zentrum für die katholische Gemeinde der Region.",
+            "hu": "A régió katolikus közösségének központja.",
+            "ro": "Un centru pentru comunitatea catolică din regiune.",
+            "en": "A center for the region's Catholic community."
+          }
+        },
+        {
+          "name": {
+            "de": "Ethnografisches Museum",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul Etnografic",
+            "en": "Ethnographic Museum"
+          },
+          "coords": [
+            19.334,
+            42.361
+          ],
+          "category": "museums",
+          "arrive_at": "11:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kleine, aber aufschlussreiche Sammlung, die das traditionelle Leben in Malesija zeigt.",
+            "hu": "Kicsi, de informatív gyűjtemény a hagyományos malesijai életről.",
+            "ro": "Colecție mică, dar revelatoare, care prezintă viața tradițională din Malesija.",
+            "en": "Small but insightful collection showcasing traditional life in Malesija."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Tuzi",
+            "hu": "Tuzi erőd",
+            "ro": "Cetatea Tuzi",
+            "en": "Tuzi Fortress"
+          },
+          "coords": [
+            19.325,
+            42.36
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:28",
+          "stay_min": 70,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Aufstieg ist etwas steil, aber die Aussicht auf die Stadt und die Ebene ist es wert.",
+            "hu": "Kissé meredek a kaptató, de a városra és a síkságra nyíló kilátás megéri.",
+            "ro": "Urcușul este puțin abrupt, dar priveliștea asupra orașului și a câmpiei merită.",
+            "en": "The climb is a bit steep, but the views over the town and plain are worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Brücke von Milješ",
+            "hu": "Milješi híd",
+            "ro": "Podul din Milješ",
+            "en": "Bridge of Milješ"
+          },
+          "coords": [
+            19.345,
+            42.355
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:03",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.25,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Ort, um den Fluss Cijevna zu beobachten und Fotos zu machen.",
+            "hu": "Szép hely a Cijevna folyó megfigyelésére és fotózásra.",
+            "ro": "Un loc frumos pentru a privi râul Cijevna și a face fotografii.",
+            "en": "A lovely spot to watch the Cijevna river and take photos."
+          }
+        }
+      ],
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Flija oder Kacamak",
+            "tip": "Traditionelle Gerichte aus Maismehl, oft mit Käse oder Joghurt serviert."
+          },
+          {
+            "name": "Restaurant Niagara",
+            "tip": "Bekannt für seine Lage nahe den Wasserfällen und traditionelle montenegrinische Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Flija vagy Kacamak",
+            "tip": "Kukoricalisztből készült hagyományos ételek, gyakran sajttal vagy joghurttal tálalva."
+          },
+          {
+            "name": "Niagara Étterem",
+            "tip": "A vízesésekhez közeli fekvéséről és a hagyományos montenegrói konyhájáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Flija sau Kacamak",
+            "tip": "Mâncăruri tradiționale din făină de porumb, adesea servite cu brânză sau iaurt."
+          },
+          {
+            "name": "Restaurant Niagara",
+            "tip": "Cunoscut pentru locația sa de lângă cascade și bucătăria tradițională muntenegreană."
+          }
+        ],
+        "en": [
+          {
+            "name": "Flija or Kacamak",
+            "tip": "Traditional dishes made from cornflour, often served with cheese or yogurt."
+          },
+          {
+            "name": "Restaurant Niagara",
+            "tip": "Known for its location near the waterfalls and traditional Montenegrin cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Cijevna",
+            "tip": "Finden Sie einen ruhigen Platz am Flussufer, um dem Trubel der Stadt zu entkommen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Blick von der Festung Tuzi",
+            "tip": "Genießen Sie die Stille und den weiten Blick über die Landschaft.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Cijevna folyó partja",
+            "tip": "Keressen egy csendes helyet a folyóparton, hogy elmeneküljön a város nyüzsgésétől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a Tuzi erődből",
+            "tip": "Élvezze a csendet és a tájra nyíló széles kilátást.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Cijevna",
+            "tip": "Găsiți un loc liniștit pe malul râului pentru a scăpa de agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere de la Cetatea Tuzi",
+            "tip": "Bucurați-vă de liniște și de priveliștea panoramică asupra peisajului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Cijevna River",
+            "tip": "Find a quiet spot along the riverbank to escape the town's hustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from Tuzi Fortress",
+            "tip": "Enjoy the silence and the expansive view over the landscape.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach frischen Produkten, lokalem Käse und handgefertigten Waren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen friss termékeket, helyi sajtokat és kézműves árukat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse proaspete, brânzeturi locale și produse de artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for fresh produce, local cheeses, and handcrafted goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie Wasser mit, besonders für den Aufstieg zur Festung.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "Vigyen magával vizet, különösen az erődhöz való feljutáshoz.",
+          "A központi látnivalók többsége könnyen elérhető gyalog."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Luați apă cu dumneavoastră, mai ales pentru urcarea la cetate.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "Bring water with you, especially for the climb to the fortress.",
+          "Most sights in the center are easily within walking distance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "narrative_4lang": {
+        "de": "Eine Radtour, die Sie vom Stadtzentrum zu den erfrischenden Cijevna-Wasserfällen führt. Nach der Erkundung der Natur kehren Sie zurück, um die Kulturdenkmäler von Tuzi zu besichtigen, bevor Sie den Tag entspannt ausklingen lassen.",
+        "hu": "Egy kerékpártúra, amely a városközpontból a frissítő Cijevna-vízeséshez vezet. A természet felfedezése után térjen vissza Tuzi kulturális emlékeihez, mielőtt egy pihentető estével zárja a napot.",
+        "ro": "Un tur cu bicicleta care vă poartă din centrul orașului la cascadele răcoritoare ale Cijevnei. După ce explorați natura, vă întoarceți pentru a vedea monumentele culturale din Tuzi înainte de o seară relaxantă.",
+        "en": "A bike tour that takes you from the city center to the refreshing Cijevna Waterfalls. After exploring nature, you'll return to see Tuzi's cultural monuments before a relaxing evening."
+      },
+      "stops": [
+        {
+          "name": {
+            "de": "Cijevna-Wasserfälle (Nijagara)",
+            "hu": "Cijevna-vízesés (Nijagara)",
+            "ro": "Cascadele Cijevna (Nijagara)",
+            "en": "Cijevna Waterfalls (Nijagara)"
+          },
+          "coords": [
+            19.375,
+            42.345
+          ],
+          "category": "natural features",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Am besten im Frühling besuchen, wenn der Wasserstand am höchsten ist.",
+            "hu": "Tavasszal a legszebb, amikor a legmagasabb a vízállás.",
+            "ro": "Cel mai bine de vizitat primăvara, când nivelul apei este cel mai ridicat.",
+            "en": "Best to visit in the spring when the water levels are highest."
+          }
+        },
+        {
+          "name": {
+            "de": "Brücke von Milješ",
+            "hu": "Milješi híd",
+            "ro": "Podul din Milješ",
+            "en": "Bridge of Milješ"
+          },
+          "coords": [
+            19.345,
+            42.355
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:13",
+          "stay_min": 25,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Halten Sie hier für eine kurze Pause und einen schönen Blick auf den Fluss an.",
+            "hu": "Álljon meg itt egy rövid szünetre és gyönyörködjön a folyó látványában.",
+            "ro": "Opriți aici pentru o scurtă pauză și o priveliște frumoasă asupra râului.",
+            "en": "Stop here for a short break and a nice view of the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Hl. Antonius",
+            "hu": "Szent Antal-templom",
+            "ro": "Biserica Sfântul Anton",
+            "en": "Church of St. Anthony"
+          },
+          "coords": [
+            19.338,
+            42.3625
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:47",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie die Kirche betreten.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt belép a templomba.",
+            "ro": "Asigurați-vă bicicleta înainte de a intra în biserică.",
+            "en": "Lock your bike securely before entering the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Ethnografisches Museum",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul Etnografic",
+            "en": "Ethnographic Museum"
+          },
+          "coords": [
+            19.334,
+            42.361
+          ],
+          "category": "museums",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein guter Ort, um sich abzukühlen und mehr über die lokale Kultur zu erfahren.",
+            "hu": "Jó hely a lehűlésre és a helyi kultúra megismerésére.",
+            "ro": "Un loc bun pentru a vă răcori și a învăța despre cultura locală.",
+            "en": "A good place to cool down and learn about local culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Tuzi",
+            "hu": "Tuzi erőd",
+            "ro": "Cetatea Tuzi",
+            "en": "Tuzi Fortress"
+          },
+          "coords": [
+            19.325,
+            42.36
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:14",
+          "stay_min": 70,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Lassen Sie Ihr Fahrrad am Fuß des Hügels und gehen Sie das letzte Stück.",
+            "hu": "Hagyja a kerékpárt a hegy lábánál, és gyalog tegye meg az utolsó szakaszt.",
+            "ro": "Lăsați bicicleta la poalele dealului și urcați pe jos ultima porțiune.",
+            "en": "Leave your bike at the base of the hill and walk the final stretch."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal des Aufstands von 1911",
+            "hu": "Az 1911-es felkelés emlékműve",
+            "ro": "Monumentul Revoltei din 1911",
+            "en": "Monument of the 1911 Uprising"
+          },
+          "coords": [
+            19.3355,
+            42.364
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:24",
+          "stay_min": 21,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer Halt, um über die Geschichte der Region nachzudenken.",
+            "hu": "Egy rövid megálló, hogy elgondolkodjon a régió történelmén.",
+            "ro": "O oprire scurtă pentru a reflecta asupra istoriei regiunii.",
+            "en": "A quick stop to reflect on the region's history."
+          }
+        }
+      ],
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gegrilltes Lamm",
+            "tip": "In der Region sehr beliebt und oft auf traditionelle Weise zubereitet."
+          },
+          {
+            "name": "Lokaler Wein",
+            "tip": "Probieren Sie den Vranac aus den umliegenden Weinbergen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett bárány",
+            "tip": "Nagyon népszerű a régióban, gyakran hagyományos módon elkészítve."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "Kóstolja meg a Vranacot a környező szőlőültetvényekről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miel la grătar",
+            "tip": "Foarte popular în regiune, adesea preparat în mod tradițional."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Încercați Vranac-ul din podgoriile înconjurătoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled Lamb",
+            "tip": "Very popular in the region and often prepared in a traditional way."
+          },
+          {
+            "name": "Local Wine",
+            "tip": "Try the Vranac from the surrounding vineyards."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cijevna-Wasserfälle",
+            "tip": "Das Rauschen des Wassers ist sehr beruhigend. Suchen Sie sich einen Platz abseits der Hauptwege.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Blick von der Festung",
+            "tip": "Ein toller Ort, um am späten Nachmittag die Aussicht zu genießen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cijevna-vízesés",
+            "tip": "A víz zúgása nagyon megnyugtató. Keressen egy helyet a fő ösvényektől távolabb.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás az erődből",
+            "tip": "Nagyszerű hely a késő délutáni kilátás élvezetéhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cascadele Cijevna",
+            "tip": "Sunetul apei este foarte liniștitor. Găsiți un loc departe de potecile principale.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere de la cetate",
+            "tip": "Un loc minunat pentru a admira priveliștea după-amiaza târziu.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cijevna Waterfalls",
+            "tip": "The sound of the water is very calming. Find a spot away from the main paths.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from the fortress",
+            "tip": "A great spot to enjoy the view in the late afternoon.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Olivenöl",
+            "tip": "Suchen Sie nach lokal produziertem Olivenöl, das für seine Qualität bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olívaolaj",
+            "tip": "Keressen helyben termelt olívaolajat, amely a minőségéről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline",
+            "tip": "Căutați ulei de măsline produs local, cunoscut pentru calitatea sa."
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive Oil",
+            "tip": "Look for locally produced olive oil, known for its quality."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen.",
+          "Die Straße zu den Wasserfällen kann befahren sein, fahren Sie vorsichtig.",
+          "Ein Helm wird dringend empfohlen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját, különösen a fékeket.",
+          "A vízeséshez vezető út forgalmas lehet, vezessen óvatosan.",
+          "Sisak használata erősen ajánlott."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele.",
+          "Drumul spre cascade poate fi aglomerat, conduceți cu prudență.",
+          "Se recomandă insistent purtarea căștii."
+        ],
+        "en": [
+          "Check your bike before leaving, especially the brakes.",
+          "The road to the waterfalls can be busy, ride carefully.",
+          "A helmet is strongly recommended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 24.3,
+      "stop_count": 7,
+      "narrative_4lang": {
+        "de": "Dieser Autotagesausflug kombiniert Naturwunder mit reicher Kultur. Beginnen Sie bei den beeindruckenden Cijevna-Wasserfällen, fahren Sie dann zu einer Weinprobe im berühmten Shipčanik-Weinkeller und beenden Sie den Tag mit der Erkundung des historischen Zentrums von Tuzi.",
+        "hu": "Ez az autós napos kirándulás ötvözi a természeti csodákat a gazdag kultúrával. Kezdje a lenyűgöző Cijevna-vízesésnél, majd hajtson el egy borkóstolóra a híres Shipčanik-pincészetbe, és fejezze be a napot Tuzi történelmi központjának felfedezésével.",
+        "ro": "Această excursie de o zi cu mașina combină minunile naturale cu o cultură bogată. Începeți cu impresionantele cascade Cijevna, apoi conduceți la o degustare de vinuri la faimoasa cramă Shipčanik și încheiați ziua explorând centrul istoric al orașului Tuzi.",
+        "en": "This car day trip combines natural wonders with rich culture. Start at the impressive Cijevna Waterfalls, then drive to the famous Shipčanik Wine Cellar for a tasting, and finish by exploring the historic center of Tuzi."
+      },
+      "stops": [
+        {
+          "name": {
+            "de": "Cijevna-Wasserfälle (Nijagara)",
+            "hu": "Cijevna-vízesés (Nijagara)",
+            "ro": "Cascadele Cijevna (Nijagara)",
+            "en": "Cijevna Waterfalls (Nijagara)"
+          },
+          "coords": [
+            19.375,
+            42.345
+          ],
+          "category": "natural features",
+          "arrive_at": "09:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 7,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Restaurants und gehen Sie zu den verschiedenen Aussichtspunkten.",
+            "hu": "Parkoljon az étterem közelében, és sétáljon el a különböző kilátópontokhoz.",
+            "ro": "Parcați lângă restaurant și mergeți pe jos la diferitele puncte de belvedere.",
+            "en": "Park near the restaurant and walk to the different viewpoints."
+          }
+        },
+        {
+          "name": {
+            "de": "Shipčanik Weinkeller",
+            "hu": "Shipčanik borospince",
+            "ro": "Crama Shipčanik",
+            "en": "Shipčanik Wine Cellar"
+          },
+          "coords": [
+            19.36,
+            42.39
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 7.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Buchen Sie Ihre Tour und Verkostung im Voraus, besonders in der Hochsaison.",
+            "hu": "Foglalja le előre a túrát és a kóstolót, különösen főszezonban.",
+            "ro": "Rezervați-vă turul și degustarea în avans, mai ales în sezonul de vârf.",
+            "en": "Book your tour and tasting in advance, especially during peak season."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Tuzi",
+            "hu": "Tuzi erőd",
+            "ro": "Cetatea Tuzi",
+            "en": "Tuzi Fortress"
+          },
+          "coords": [
+            19.325,
+            42.36
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:53",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 8.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Fuße des Hügels. Der Aufstieg ist kurz, aber lohnend.",
+            "hu": "Parkoljon a hegy lábánál. A mászás rövid, de megéri.",
+            "ro": "Parcați la poalele dealului. Urcușul este scurt, dar merită.",
+            "en": "Park at the base of the hill. The climb is short but rewarding."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Hl. Antonius",
+            "hu": "Szent Antal-templom",
+            "ro": "Biserica Sfântul Anton",
+            "en": "Church of St. Anthony"
+          },
+          "coords": [
+            19.338,
+            42.3625
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie den Rest des Zentrums zu Fuß.",
+            "hu": "Parkoljon le itt, és fedezze fel a központ többi részét gyalog.",
+            "ro": "Parcați aici și explorați restul centrului pe jos.",
+            "en": "Park here and explore the rest of the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Moschee von Tuzi",
+            "hu": "Tuzi-mecset",
+            "ro": "Moscheea din Tuzi",
+            "en": "Mosque of Tuzi"
+          },
+          "coords": [
+            19.3365,
+            42.3635
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Kirche aus.",
+            "hu": "Rövid séta a templomtól.",
+            "ro": "La o scurtă plimbare de biserică.",
+            "en": "A short walk from the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Ethnografisches Museum",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul Etnografic",
+            "en": "Ethnographic Museum"
+          },
+          "coords": [
+            19.334,
+            42.361
+          ],
+          "category": "museums",
+          "arrive_at": "15:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokalen Traditionen, bevor Sie zum Auto zurückkehren.",
+            "hu": "Fedezze fel a helyi hagyományokat, mielőtt visszatér az autóhoz.",
+            "ro": "Descoperiți tradițiile locale înainte de a vă întoarce la mașină.",
+            "en": "Discover the local traditions before heading back to the car."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal des Aufstands von 1911",
+            "hu": "Az 1911-es felkelés emlékműve",
+            "ro": "Monumentul Revoltei din 1911",
+            "en": "Monument of the 1911 Uprising"
+          },
+          "coords": [
+            19.3355,
+            42.364
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein letzter Halt, um die Geschichte der Region zu würdigen.",
+            "hu": "Egy utolsó megálló a régió történelmének tiszteletére.",
+            "ro": "O ultimă oprire pentru a onora istoria regiunii.",
+            "en": "A final stop to appreciate the region's history."
+          }
+        }
+      ],
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Vranac Wein",
+            "tip": "Ein Muss, wenn man den Shipčanik-Keller besucht. Kaufen Sie eine Flasche als Souvenir."
+          },
+          {
+            "name": "Tavë Kosi",
+            "tip": "Ein gebackenes Lamm- und Reisgericht mit einer Joghurtsoße, ein albanischer Klassiker."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vranac bor",
+            "tip": "Kötelező, ha a Shipčanik pincészetben jár. Vegyen egy üveggel szuvenírként."
+          },
+          {
+            "name": "Tavë Kosi",
+            "tip": "Sütőben sült bárányhúsos, rizses étel joghurtos öntettel, egy albán klasszikus."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin Vranac",
+            "tip": "O necesitate la vizitarea cramei Shipčanik. Cumpărați o sticlă ca suvenir."
+          },
+          {
+            "name": "Tavë Kosi",
+            "tip": "Un preparat la cuptor din miel și orez cu sos de iaurt, un clasic albanez."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vranac Wine",
+            "tip": "A must-try when visiting the Shipčanik cellar. Buy a bottle as a souvenir."
+          },
+          {
+            "name": "Tavë Kosi",
+            "tip": "A baked lamb and rice dish with a yogurt sauce, an Albanian classic."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Shipčanik Weinkeller",
+            "tip": "Trotz seiner Größe ist der unterirdische Keller kühl, dunkel und bemerkenswert ruhig.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Cijevna-Flussufer",
+            "tip": "Abseits der Wasserfälle finden Sie ruhige Abschnitte zum Entspannen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Shipčanik borospince",
+            "tip": "Mérete ellenére a földalatti pince hűvös, sötét és rendkívül csendes.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Cijevna folyópart",
+            "tip": "A vízesésektől távolabb csendes szakaszokat talál a pihenéshez.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crama Shipčanik",
+            "tip": "În ciuda dimensiunii sale, crama subterană este răcoroasă, întunecată și remarcabil de liniștită.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malul râului Cijevna",
+            "tip": "Departe de cascade, veți găsi secțiuni liniștite pentru relaxare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shipčanik Wine Cellar",
+            "tip": "Despite its size, the underground cellar is cool, dark, and remarkably quiet.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Cijevna Riverbank",
+            "tip": "Away from the main waterfall area, you can find quiet sections to relax.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wein aus dem Shipčanik-Keller",
+            "tip": "Das beste Souvenir aus der Region."
+          },
+          {
+            "name": "Handgefertigte Teppiche",
+            "tip": "Halten Sie in den Dörfern Ausschau nach traditionellen albanischen Webereien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bor a Shipčanik pincészetből",
+            "tip": "A legjobb szuvenír a régióból."
+          },
+          {
+            "name": "Kézzel szőtt szőnyegek",
+            "tip": "Keresse a hagyományos albán szövőműhelyeket a falvakban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin de la Crama Shipčanik",
+            "tip": "Cel mai bun suvenir din regiune."
+          },
+          {
+            "name": "Covoare artizanale",
+            "tip": "Căutați ateliere tradiționale de țesut albaneze în sate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wine from Shipčanik Cellar",
+            "tip": "The best souvenir from the region."
+          },
+          {
+            "name": "Handmade rugs",
+            "tip": "Look for traditional Albanian weaving workshops in the villages."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Öffnungszeiten des Weinkellers und buchen Sie im Voraus.",
+          "Achten Sie auf die Parkmöglichkeiten im Stadtzentrum, die begrenzt sein können.",
+          "Ein Navi ist hilfreich, um die etwas abgelegenen Orte zu finden."
+        ],
+        "hu": [
+          "Ellenőrizze a borospince nyitvatartási idejét, és foglaljon előre.",
+          "Figyeljen a parkolási lehetőségekre a városközpontban, amelyek korlátozottak lehetnek.",
+          "A navigáció segít megtalálni a kissé távoli helyeket."
+        ],
+        "ro": [
+          "Verificați programul de funcționare al cramei și rezervați în avans.",
+          "Fiți atenți la parcarea din centrul orașului, care poate fi limitată.",
+          "Un GPS este util pentru a găsi locațiile mai îndepărtate."
+        ],
+        "en": [
+          "Check the opening hours for the wine cellar and book in advance.",
+          "Be mindful of parking in the town center, which can be limited.",
+          "A GPS is helpful for finding the more remote locations."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 8.1,
+      "stop_count": 6,
+      "narrative_4lang": {
+        "de": "Nutzen Sie lokale Busse, um die weitere Umgebung von Tuzi zu erkunden. Der Tag beginnt mit einer Busfahrt zu den Cijevna-Wasserfällen, gefolgt von einer Rückkehr ins Zentrum, um die historischen und religiösen Stätten zu Fuß zu erkunden.",
+        "hu": "Használja a helyi buszokat Tuzi tágabb környékének felfedezéséhez. A nap egy buszúttal kezdődik a Cijevna-vízeséshez, majd visszatér a központba, hogy gyalog fedezze fel a történelmi és vallási helyszíneket.",
+        "ro": "Folosiți autobuzele locale pentru a explora zona mai largă a orașului Tuzi. Ziua începe cu o călătorie cu autobuzul la cascadele Cijevna, urmată de o întoarcere în centru pentru a explora pe jos siturile istorice și religioase.",
+        "en": "Use local buses to explore the wider Tuzi area. The day starts with a bus ride to the Cijevna Waterfalls, followed by a return to the center to explore the historical and religious sites on foot."
+      },
+      "stops": [
+        {
+          "name": {
+            "de": "Cijevna-Wasserfälle (Nijagara)",
+            "hu": "Cijevna-vízesés (Nijagara)",
+            "ro": "Cascadele Cijevna (Nijagara)",
+            "en": "Cijevna Waterfalls (Nijagara)"
+          },
+          "coords": [
+            19.375,
+            42.345
+          ],
+          "category": "natural features",
+          "arrive_at": "09:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Erkundigen Sie sich nach dem Busfahrplan. Von der Haltestelle ist es ein kurzer Spaziergang.",
+            "hu": "Érdeklődjön a buszmenetrendről. A megállótól rövid séta.",
+            "ro": "Verificați orarul autobuzului. Este o scurtă plimbare de la stație.",
+            "en": "Check the bus schedule in advance. It's a short walk from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Brücke von Milješ",
+            "hu": "Milješi híd",
+            "ro": "Podul din Milješ",
+            "en": "Bridge of Milješ"
+          },
+          "coords": [
+            19.345,
+            42.355
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:22",
+          "stay_min": 30,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang von den Wasserfällen, bevor Sie den Bus zurück nehmen.",
+            "hu": "Kellemes séta a vízesésektől, mielőtt visszamenne a busszal.",
+            "ro": "O plimbare plăcută de la cascade înainte de a lua autobuzul înapoi.",
+            "en": "A pleasant walk from the falls area before you catch the bus back."
+          }
+        },
+        {
+          "name": {
+            "de": "Moschee von Tuzi",
+            "hu": "Tuzi-mecset",
+            "ro": "Moscheea din Tuzi",
+            "en": "Mosque of Tuzi"
+          },
+          "coords": [
+            19.3365,
+            42.3635
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie im Zentrum von Tuzi aus. Die Moschee ist nicht zu übersehen.",
+            "hu": "Szálljon le Tuzi központjában. A mecsetet nem lehet eltéveszteni.",
+            "ro": "Coborâți în centrul orașului Tuzi. Moscheea este ușor de găsit.",
+            "en": "Get off in the center of Tuzi. The mosque is unmissable."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Hl. Antonius",
+            "hu": "Szent Antal-templom",
+            "ro": "Biserica Sfântul Anton",
+            "en": "Church of St. Anthony"
+          },
+          "coords": [
+            19.338,
+            42.3625
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch das Herz der Stadt.",
+            "hu": "Rövid séta a város szívében.",
+            "ro": "O scurtă plimbare prin inima orașului.",
+            "en": "A short walk through the heart of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Ethnografisches Museum",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul Etnografic",
+            "en": "Ethnographic Museum"
+          },
+          "coords": [
+            19.334,
+            42.361
+          ],
+          "category": "museums",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die lokale Kultur und Geschichte.",
+            "hu": "Merüljön el a helyi kultúrában és történelemben.",
+            "ro": "Cufundați-vă în cultura și istoria locală.",
+            "en": "Immerse yourself in the local culture and history."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal des Aufstands von 1911",
+            "hu": "Az 1911-es felkelés emlékműve",
+            "ro": "Monumentul Revoltei din 1911",
+            "en": "Monument of the 1911 Uprising"
+          },
+          "coords": [
+            19.3355,
+            42.364
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein guter Ort, um den Rundgang durch die Stadt abzuschließen.",
+            "hu": "Jó hely a városnéző túra befejezéséhez.",
+            "ro": "Un loc bun pentru a încheia turul pe jos al orașului.",
+            "en": "A good place to conclude the walking tour of the town."
+          }
+        }
+      ],
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Burek",
+            "tip": "Ein herzhaftes Gebäck, gefüllt mit Käse, Fleisch oder Spinat. Perfekt für ein schnelles Mittagessen."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Probieren Sie ein Nikšićko, das beliebteste Bier Montenegros."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Burek",
+            "tip": "Sós péksütemény, sajttal, hússal vagy spenóttal töltve. Tökéletes egy gyors ebédhez."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Kóstolja meg a Nikšićkót, Montenegró legnépszerűbb sörét."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Burek",
+            "tip": "O plăcintă sărată umplută cu brânză, carne sau spanac. Perfectă pentru un prânz rapid."
+          },
+          {
+            "name": "Bere locală",
+            "tip": "Încercați o Nikšićko, cea mai populară bere din Muntenegru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Burek",
+            "tip": "A savory pastry filled with cheese, meat, or spinach. Perfect for a quick lunch."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Try a Nikšićko, Montenegro's most popular beer."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang entlang des Flusses Cijevna",
+            "tip": "Abseits der Wasserfälle ist der Fluss friedlich und ideal für eine Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Innenhof einer Moschee oder Kirche",
+            "tip": "Oft eine Oase der Ruhe im Stadtzentrum.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Cijevna folyó mentén",
+            "tip": "A vízesésektől távol a folyó békés és ideális egy szünetre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Egy mecset vagy templom udvara",
+            "tip": "Gyakran a nyugalom oázisa a városközpontban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare de-a lungul râului Cijevna",
+            "tip": "Departe de cascade, râul este pașnic și ideal pentru o pauză.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea unei moschei sau biserici",
+            "tip": "Adesea o oază de liniște în centrul orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along the Cijevna river",
+            "tip": "Away from the waterfalls, the river is peaceful and ideal for a break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Courtyard of a mosque or church",
+            "tip": "Often an oasis of calm in the town center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Die Region ist bekannt für ihren hochwertigen Honig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "A régió a magas minőségű mézéről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Regiunea este cunoscută pentru mierea sa de înaltă calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "The region is known for its high-quality honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Haben Sie Kleingeld für Bustickets dabei.",
+          "Informieren Sie sich im Voraus über die Busfahrpläne, da diese unregelmäßig sein können.",
+          "Fragen Sie Einheimische nach der richtigen Haltestelle, sie sind meist sehr hilfsbereit."
+        ],
+        "hu": [
+          "Legyen nálad aprópénz a buszjegyekhez.",
+          "Tájékozódjon előre a buszmenetrendekről, mivel azok rendszertelenek lehetnek.",
+          "Kérdezze meg a helyieket a megfelelő megállóról, általában nagyon segítőkészek."
+        ],
+        "ro": [
+          "Aveți la dumneavoastră bani mărunți pentru biletele de autobuz.",
+          "Verificați din timp orarele autobuzelor, deoarece pot fi neregulate.",
+          "Întrebați localnicii despre stația corectă, de obicei sunt foarte amabili."
+        ],
+        "en": [
+          "Have small change ready for bus tickets.",
+          "Check bus schedules in advance as they can be infrequent.",
+          "Ask locals for the right bus stop; they are usually very helpful."
+        ]
+      }
+    }
+  }
+}

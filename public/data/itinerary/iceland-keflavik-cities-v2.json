@@ -1,0 +1,1508 @@
+{
+  "city_id": "iceland-keflavik-cities-v2",
+  "anchor": {
+    "name": "Keflavík",
+    "coords": [
+      -22.56,
+      63.9997
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Isländisches Rock 'n' Roll Museum",
+            "hu": "Izlandi Rock 'n' Roll Múzeum",
+            "ro": "Muzeul Rock 'n' Roll-ului din Islanda",
+            "en": "Icelandic Rock 'n' Roll Museum"
+          },
+          "coords": [
+            -22.558,
+            63.9945
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Interaktive Exponate, probieren Sie Musikinstrumente aus.",
+            "hu": "Interaktív kiállítás, próbáld ki a hangszereket!",
+            "ro": "Expoziții interactive, încercați instrumentele muzicale.",
+            "en": "Interactive exhibits, have a go at playing some instruments."
+          }
+        },
+        {
+          "name": {
+            "de": "Keflavíkurkirkja",
+            "hu": "Keflavíki templom",
+            "ro": "Biserica Keflavíkurkirkja",
+            "en": "Keflavíkurkirkja"
+          },
+          "coords": [
+            -22.555,
+            64.001
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:08",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Beachten Sie die moderne Architektur und die großen Buntglasfenster.",
+            "hu": "Figyeld meg a modern építészetet és a nagy ólomüveg ablakokat.",
+            "ro": "Observați arhitectura modernă și vitraliile mari.",
+            "en": "Note the modern architecture and the large stained-glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Duus Museum",
+            "hu": "Duus Múzeum",
+            "ro": "Muzeul Duus",
+            "en": "Duus Museum"
+          },
+          "coords": [
+            -22.571,
+            64.005
+          ],
+          "category": "museums",
+          "arrive_at": "12:12",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Kulturzentrum mit Kunst, Geschichte und einem Bootsmuseum.",
+            "hu": "Kulturális központ művészettel, történelemmel és hajómúzeummal.",
+            "ro": "Centru cultural cu artă, istorie și un muzeu al bărcilor.",
+            "en": "A cultural hub with art, history, and a boat museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Riesin in der Höhle",
+            "hu": "Az Óriásnő a barlangban",
+            "ro": "Giganta din Peșteră",
+            "en": "The Giantess in the Cave"
+          },
+          "coords": [
+            -22.574,
+            64.006
+          ],
+          "category": "kid-landmark",
+          "arrive_at": "13:38",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein lustiger und leicht gruseliger Halt für Familien, basierend auf isländischen Volksmärchen.",
+            "hu": "Mókás és kicsit ijesztő megálló családoknak, izlandi népmesék alapján.",
+            "ro": "O oprire amuzantă și ușor înfricoșătoare pentru familii, bazată pe basme islandeze.",
+            "en": "A fun and slightly spooky stop for families, based on Icelandic folktales."
+          }
+        },
+        {
+          "name": {
+            "de": "Anchor Monument",
+            "hu": "Horgony Emlékmű",
+            "ro": "Monumentul Ancorei",
+            "en": "Anchor Monument"
+          },
+          "coords": [
+            -22.57,
+            64.0065
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:11",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein Symbol für die maritime Geschichte der Stadt. Toller Fotopunkt am Meer.",
+            "hu": "A város tengerészeti történelmének szimbóluma. Remek fotóhely a tengernél.",
+            "ro": "Un simbol al istoriei maritime a orașului. Punct excelent pentru fotografii lângă mare.",
+            "en": "A symbol of the town's maritime history. Great photo spot by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Stekkjarkot",
+            "hu": "Stekkjarkot",
+            "ro": "Stekkjarkot",
+            "en": "Stekkjarkot"
+          },
+          "coords": [
+            -22.55,
+            63.985
+          ],
+          "category": "historical",
+          "arrive_at": "15:26",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 3,
+          "tip_5lang": {
+            "de": "Ein traditionelles isländisches Fischer- und Bauernhaus aus Torf und Stein.",
+            "hu": "Hagyományos izlandi halász- és parasztház tőzegből és kőből.",
+            "ro": "O cabană tradițională islandeză de pescar și fermier din turbă și piatră.",
+            "en": "A traditional Icelandic fisherman's and farmer's cottage made of turf and stone."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einem musikalischen Paukenschlag im Rock 'n' Roll Museum. Am Vormittag erkunden Sie das spirituelle Zentrum der Stadt, die Keflavíkurkirkja. Gegen Mittag tauchen Sie im Duus Museum und bei der charmanten Riesin in die lokale Kultur und Folklore ein. Der Nachmittag bietet einen Moment der Besinnung am Anchor Monument, bevor Sie einen längeren Spaziergang zum historischen Stekkjarkot unternehmen, um einen Einblick in die Vergangenheit Islands zu erhalten.",
+        "hu": "Kezdje a napot egy zenei robbanással a Rock 'n' Roll Múzeumban. Délelőtt fedezze fel a város spirituális központját, a Keflavíkurkirkját. Dél körül merüljön el a helyi kultúrában és folklórban a Duus Múzeumban és a bájos Óriásnőnél. A délután egy pillanatnyi elmélkedést kínál a Horgony Emlékműnél, mielőtt egy hosszabb sétát tenne a történelmi Stekkjarkothoz, hogy bepillantást nyerjen Izland múltjába.",
+        "ro": "Începeți ziua cu o explozie muzicală la Muzeul Rock 'n' Roll. Dimineața, explorați centrul spiritual al orașului, Keflavíkurkirkja. În jurul prânzului, pătrundeți în cultura și folclorul local la Muzeul Duus și la fermecătoarea Gigantă. După-amiaza oferă un moment de reflecție la Monumentul Ancorei, înainte de o plimbare mai lungă către istoricul Stekkjarkot pentru o privire în trecutul Islandei.",
+        "en": "Start your day with a musical bang at the Rock 'n' Roll Museum. In the morning, explore the spiritual heart of the town, Keflavíkurkirkja. Around midday, delve into local culture and folklore at the Duus Museum and the charming Giantess. The afternoon offers a moment of reflection at the Anchor Monument before a longer walk to the historic Stekkjarkot for a glimpse into Iceland's past."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kjötsúpa (Lammfleischsuppe)",
+            "tip": "Herzhaft und wärmend, perfekt für das isländische Klima. Probieren Sie es im Kaffi Duus."
+          },
+          {
+            "name": "Frischer Fisch des Tages",
+            "tip": "Direkt aus dem Atlantik. Restaurants wie Ráin bieten ausgezeichnete Fänge."
+          },
+          {
+            "name": "Skyr",
+            "tip": "Ein traditionelles isländisches Milchprodukt, ähnlich wie Joghurt, aber dicker. Oft mit Beeren serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kjötsúpa (bárányhúsleves)",
+            "tip": "Kiadós és melengető, tökéletes az izlandi éghajlathoz. Próbálja ki a Kaffi Duus-ban."
+          },
+          {
+            "name": "Friss napi hal",
+            "tip": "Közvetlenül az Atlanti-óceánból. Az olyan éttermek, mint a Ráin, kiváló fogásokat kínálnak."
+          },
+          {
+            "name": "Skyr",
+            "tip": "Hagyományos izlandi tejtermék, hasonló a joghurthoz, de sűrűbb. Gyakran bogyós gyümölcsökkel tálalják."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kjötsúpa (supă de miel)",
+            "tip": "Consistentă și încălzitoare, perfectă pentru clima islandeză. Încercați-o la Kaffi Duus."
+          },
+          {
+            "name": "Peștele proaspăt al zilei",
+            "tip": "Direct din Atlantic. Restaurante precum Ráin oferă capturi excelente."
+          },
+          {
+            "name": "Skyr",
+            "tip": "Un produs lactat tradițional islandez, similar cu iaurtul, dar mai gros. Adesea servit cu fructe de pădure."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kjötsúpa (Lamb Soup)",
+            "tip": "Hearty and warming, perfect for the Icelandic climate. Try it at Kaffi Duus."
+          },
+          {
+            "name": "Fresh Fish of the Day",
+            "tip": "Straight from the Atlantic. Restaurants like Ráin offer excellent catches."
+          },
+          {
+            "name": "Skyr",
+            "tip": "A traditional Icelandic dairy product, similar to yogurt but thicker. Often served with berries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang entlang der Küste",
+            "tip": "Der Weg vom Duus Museum zum Anchor Monument ist oft ruhig und bietet eine tolle Aussicht.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Hügel bei der Keflavíkurkirkja",
+            "tip": "Finden Sie eine Bank in der Nähe der Kirche für einen ruhigen Moment mit Blick über die Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Stekkjarkot Umgebung",
+            "tip": "Die Gegend um das historische Haus ist friedlich und fühlt sich wie eine Zeitreise an.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a tengerparton",
+            "tip": "A Duus Múzeumtól a Horgony Emlékműig vezető út gyakran csendes és nagyszerű kilátást nyújt.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Domb a Keflavíkurkirkja mellett",
+            "tip": "Keressen egy padot a templom közelében egy csendes pillanatra, kilátással a városra.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Stekkjarkot környéke",
+            "tip": "A történelmi ház körüli terület békés, és olyan, mintha visszautazna az időben.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe coastă",
+            "tip": "Calea de la Muzeul Duus la Monumentul Ancorei este adesea liniștită și oferă vederi minunate.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Dealul de lângă Keflavíkurkirkja",
+            "tip": "Găsiți o bancă lângă biserică pentru un moment de liniște cu vedere la oraș.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Împrejurimile Stekkjarkot",
+            "tip": "Zona din jurul casei istorice este pașnică și se simte ca o călătorie înapoi în timp.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along the coastline",
+            "tip": "The path from Duus Museum to the Anchor Monument is often quiet and offers great views.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Hill by Keflavíkurkirkja",
+            "tip": "Find a bench near the church for a quiet moment overlooking the town.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Stekkjarkot Surroundings",
+            "tip": "The area around the historic house is peaceful and feels like a step back in time.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hafnargata Straße",
+            "tip": "Die Hauptstraße mit einer Mischung aus lokalen Geschäften und Boutiquen."
+          },
+          {
+            "name": "Wollwaren",
+            "tip": "Halten Sie Ausschau nach Geschäften, die Lopapeysa (isländische Wollpullover) verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hafnargata utca",
+            "tip": "A főutca helyi üzletek és butikok keverékével."
+          },
+          {
+            "name": "Gyapjúholmik",
+            "tip": "Keressen olyan üzleteket, amelyek Lopapeysa-t (izlandi gyapjúpulóvert) árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Hafnargata",
+            "tip": "Strada principală cu un amestec de magazine locale și buticuri."
+          },
+          {
+            "name": "Articole din lână",
+            "tip": "Căutați magazine care vând Lopapeysa (pulovere islandeze din lână)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hafnargata Street",
+            "tip": "The main street with a mix of local shops and boutiques."
+          },
+          {
+            "name": "Woolen Goods",
+            "tip": "Look for shops selling Lopapeysa (Icelandic wool sweaters)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme, wasserdichte Schuhe.",
+          "Das Wetter kann sich schnell ändern, kleiden Sie sich am besten in Schichten.",
+          "Viele Cafés bieten kostenloses WLAN, wenn Sie eine Pause brauchen.",
+          "Der Spaziergang zum Stekkjarkot ist lang; nehmen Sie Wasser und einen Snack mit."
+        ],
+        "hu": [
+          "Viseljen kényelmes, vízálló cipőt.",
+          "Az időjárás gyorsan változhat, a réteges öltözködés a legjobb.",
+          "Sok kávézó ingyenes Wi-Fi-t kínál, ha szünetre van szüksége.",
+          "A séta a Stekkjarkothoz hosszú; vigyen magával vizet és harapnivalót."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili și impermeabili.",
+          "Vremea se poate schimba rapid, cel mai bine este să vă îmbrăcați în straturi.",
+          "Multe cafenele oferă Wi-Fi gratuit dacă aveți nevoie de o pauză.",
+          "Plimbarea până la Stekkjarkot este lungă; luați apă și o gustare."
+        ],
+        "en": [
+          "Wear comfortable, waterproof shoes.",
+          "The weather can change quickly, so dressing in layers is best.",
+          "Many cafes offer free Wi-Fi if you need a break.",
+          "The walk to Stekkjarkot is long; bring water and a snack."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:39",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Viking World",
+            "hu": "Viking Világ",
+            "ro": "Lumea Vikingilor",
+            "en": "Viking World"
+          },
+          "coords": [
+            -22.529,
+            63.978
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Sehen Sie das beeindruckende Wikingerschiff Íslendingur, eine exakte Nachbildung.",
+            "hu": "Nézd meg a lenyűgöző Íslendingur viking hajót, egy pontos másolatot.",
+            "ro": "Vedeți impresionanta navă vikingă Íslendingur, o replică exactă.",
+            "en": "See the impressive Viking ship Íslendingur, an exact replica."
+          }
+        },
+        {
+          "name": {
+            "de": "Stekkjarkot",
+            "hu": "Stekkjarkot",
+            "ro": "Stekkjarkot",
+            "en": "Stekkjarkot"
+          },
+          "coords": [
+            -22.55,
+            63.985
+          ],
+          "category": "historical",
+          "arrive_at": "11:05",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein Einblick in das einfache, aber harte Leben der isländischen Fischer in der Vergangenheit.",
+            "hu": "Betekintés az izlandi halászok egyszerű, de kemény múltbeli életébe.",
+            "ro": "O privire asupra vieții simple, dar aspre, a pescarilor islandezi din trecut.",
+            "en": "A glimpse into the simple yet harsh life of Icelandic fishermen in the past."
+          }
+        },
+        {
+          "name": {
+            "de": "Isländisches Rock 'n' Roll Museum",
+            "hu": "Izlandi Rock 'n' Roll Múzeum",
+            "ro": "Muzeul Rock 'n' Roll-ului din Islanda",
+            "en": "Icelandic Rock 'n' Roll Museum"
+          },
+          "coords": [
+            -22.558,
+            63.9945
+          ],
+          "category": "museums",
+          "arrive_at": "12:33",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die überraschend reiche Geschichte der isländischen Pop- und Rockmusik.",
+            "hu": "Fedezd fel az izlandi pop- és rockzene meglepően gazdag történelmét.",
+            "ro": "Descoperiți istoria surprinzător de bogată a muzicii pop și rock islandeze.",
+            "en": "Discover the surprisingly rich history of Icelandic pop and rock music."
+          }
+        },
+        {
+          "name": {
+            "de": "Keflavíkurkirkja",
+            "hu": "Keflavíki templom",
+            "ro": "Biserica Keflavíkurkirkja",
+            "en": "Keflavíkurkirkja"
+          },
+          "coords": [
+            -22.555,
+            64.001
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:19",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Ein Ort der Ruhe und des Friedens, der einen Kontrast zur rauen Landschaft bildet.",
+            "hu": "A nyugalom és a béke helye, amely kontrasztot alkot a zord tájjal.",
+            "ro": "Un loc de calm și pace, contrastând cu peisajul aspru.",
+            "en": "A place of calm and peace, contrasting with the harsh landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Duus Museum",
+            "hu": "Duus Múzeum",
+            "ro": "Muzeul Duus",
+            "en": "Duus Museum"
+          },
+          "coords": [
+            -22.571,
+            64.005
+          ],
+          "category": "museums",
+          "arrive_at": "15:08",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der Komplex besteht aus mehreren historischen Gebäuden direkt am Klippenrand.",
+            "hu": "A komplexum több történelmi épületből áll, közvetlenül a szikla szélén.",
+            "ro": "Complexul este format din mai multe clădiri istorice chiar pe marginea stâncii.",
+            "en": "The complex consists of several historic buildings right on the cliff's edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Riesin in der Höhle",
+            "hu": "Az Óriásnő a barlangban",
+            "ro": "Giganta din Peșteră",
+            "en": "The Giantess in the Cave"
+          },
+          "coords": [
+            -22.574,
+            64.006
+          ],
+          "category": "kid-landmark",
+          "arrive_at": "16:31",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Werfen Sie einen Blick in die gemütliche Höhle der schlafenden Riesin.",
+            "hu": "Less be az alvó Óriásnő hangulatos barlangjába.",
+            "ro": "Aruncați o privire în peștera confortabilă a gigantei adormite.",
+            "en": "Peek into the cozy cave of the sleeping giantess."
+          }
+        },
+        {
+          "name": {
+            "de": "Hólmsberg Leuchtturm",
+            "hu": "Hólmsberg világítótorony",
+            "ro": "Farul Hólmsberg",
+            "en": "Hólmsberg Lighthouse"
+          },
+          "coords": [
+            -22.59,
+            63.98
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "17:28",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 8.7,
+          "tip_5lang": {
+            "de": "Eine längere Fahrt, aber die Aussicht auf den Sonnenuntergang ist die Mühe wert.",
+            "hu": "Hosszabb út, de a naplemente látványa megéri a fáradozást.",
+            "ro": "O călătorie mai lungă, dar priveliștea apusului merită efortul.",
+            "en": "A longer ride, but the sunset views are worth the effort."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihr Fahrradabenteuer bei Viking World. Am Vormittag radeln Sie durch die Geschichte bei Stekkjarkot und dem Rock 'n' Roll Museum. Zur Mittagszeit sorgt die Keflavíkurkirkja für einen ruhigen Moment. Am Nachmittag erkunden Sie den Kulturkomplex des Duus Museums und besuchen die Riesin, bevor Sie eine längere Tour zum Hólmsberg Leuchtturm für einen spektakulären Sonnenuntergang unternehmen.",
+        "hu": "Kezdje a kerékpáros kalandot a Viking Világnál. Délelőtt tekerjen át a történelmen a Stekkjarkotnál és a Rock 'n' Roll Múzeumban. Délben a Keflavíkurkirkja gondoskodik egy csendes pillanatról. Délután fedezze fel a Duus Múzeum kulturális komplexumát és látogassa meg az Óriásnőt, mielőtt egy hosszabb túrára indulna a Hólmsberg világítótoronyhoz egy látványos naplementéért.",
+        "ro": "Începeți aventura pe bicicletă la Lumea Vikingilor. Dimineața, pedalați prin istorie la Stekkjarkot și Muzeul Rock 'n' Roll. La prânz, Keflavíkurkirkja oferă un moment de liniște. După-amiaza, explorați complexul cultural al Muzeului Duus și vizitați Giganta, înainte de un tur mai lung la Farul Hólmsberg pentru un apus spectaculos.",
+        "en": "Start your bike adventure at Viking World. In the morning, cycle through history at Stekkjarkot and the Rock 'n' Roll Museum. At midday, Keflavíkurkirkja provides a quiet moment. In the afternoon, explore the cultural complex of Duus Museum and visit the Giantess, before a longer tour to Hólmsberg Lighthouse for a spectacular sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fiskisúpa (Fischsuppe)",
+            "tip": "Eine cremige und köstliche Suppe, die in vielen Küstenrestaurants angeboten wird."
+          },
+          {
+            "name": "Plokkfiskur",
+            "tip": "Ein traditionelles Fischeintopfgericht, serviert mit Roggenbrot. Probieren Sie es bei Olsen Olsen."
+          },
+          {
+            "name": "Isländisches Craft Beer",
+            "tip": "In lokalen Bars gibt es eine wachsende Auswahl, fragen Sie nach einer lokalen Empfehlung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fiskisúpa (halleves)",
+            "tip": "Krémes és ízletes leves, amelyet számos tengerparti étteremben kínálnak."
+          },
+          {
+            "name": "Plokkfiskur",
+            "tip": "Hagyományos halpörkölt, rozskenyérrel tálalva. Kóstolja meg az Olsen Olsenben."
+          },
+          {
+            "name": "Izlandi kézműves sör",
+            "tip": "A helyi bárokban egyre növekvő a választék, kérjen helyi ajánlást."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fiskisúpa (supă de pește)",
+            "tip": "O supă cremoasă și delicioasă oferită la multe restaurante de pe coastă."
+          },
+          {
+            "name": "Plokkfiskur",
+            "tip": "O tocană tradițională de pește, servită cu pâine de secară. Încercați-o la Olsen Olsen."
+          },
+          {
+            "name": "Berea artizanală islandeză",
+            "tip": "Există o selecție în creștere în barurile locale, cereți o recomandare locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fiskisúpa (Fish Soup)",
+            "tip": "A creamy and delicious soup offered at many coastal restaurants."
+          },
+          {
+            "name": "Plokkfiskur",
+            "tip": "A traditional fish stew, served with rye bread. Try it at Olsen Olsen."
+          },
+          {
+            "name": "Icelandic Craft Beer",
+            "tip": "There's a growing selection in local bars, ask for a local recommendation."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hólmsberg Küste",
+            "tip": "Die Küste in der Nähe des Leuchtturms ist wild, windig und perfekt, um die Kraft der Natur zu spüren.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Vatnsnes-See",
+            "tip": "Ein kleiner See in der Nähe von Keflavík, oft ein ruhiger Ort zur Vogelbeobachtung.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Der Pfad hinter Stekkjarkot",
+            "tip": "Folgen Sie dem Küstenpfad für einen friedlichen Spaziergang abseits der Stadt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hólmsberg partvidéke",
+            "tip": "A világítótorony melletti part vad, szeles és tökéletes a természet erejének megérzésére.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Vatnsnes-tó",
+            "tip": "Egy kis tó Keflavík közelében, gyakran csendes hely a madármegfigyeléshez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Az ösvény a Stekkjarkot mögött",
+            "tip": "Kövesse a parti ösvényt egy békés sétáért a várostól távol.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Coasta Hólmsberg",
+            "tip": "Coasta de lângă far este sălbatică, bătută de vânt și perfectă pentru a simți puterea naturii.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lacul Vatnsnes",
+            "tip": "Un mic lac lângă Keflavík, adesea un loc liniștit pentru observarea păsărilor.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cărarea din spatele Stekkjarkot",
+            "tip": "Urmați cărarea de coastă pentru o plimbare liniștită departe de oraș.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hólmsberg Coastline",
+            "tip": "The coast near the lighthouse is wild, windy, and perfect for feeling the power of nature.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lake Vatnsnes",
+            "tip": "A small lake near Keflavík, often a quiet spot for birdwatching.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The path behind Stekkjarkot",
+            "tip": "Follow the coastal path for a peaceful walk away from the town.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Kunsthandwerksläden",
+            "tip": "Suchen Sie nach einzigartigem Schmuck und Keramik, die von der isländischen Natur inspiriert sind."
+          },
+          {
+            "name": "Musikgeschäfte",
+            "tip": "Angesichts der reichen Musikszene finden Sie vielleicht eine lokale Band, die Sie mit nach Hause nehmen können."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keressen egyedi ékszereket és kerámiákat, amelyeket az izlandi természet ihletett."
+          },
+          {
+            "name": "Zeneboltok",
+            "tip": "A gazdag zenei életre való tekintettel talán talál egy helyi zenekart, amit hazavihet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Căutați bijuterii și ceramică unice, inspirate de natura islandeză."
+          },
+          {
+            "name": "Magazine de muzică",
+            "tip": "Având în vedere scena muzicală bogată, s-ar putea să găsiți o trupă locală pe care să o luați acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local artisan shops",
+            "tip": "Look for unique jewelry and ceramics inspired by Icelandic nature."
+          },
+          {
+            "name": "Music Shops",
+            "tip": "Given the rich music scene, you might find a local band to take home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Wind, bevor Sie losfahren; Gegenwind kann anstrengend sein.",
+          "Ein Helm wird dringend empfohlen.",
+          "Die Straßen sind gut, aber achten Sie auf Schotter auf den Nebenstraßen.",
+          "Schließen Sie Ihr Fahrrad an den Sehenswürdigkeiten immer ab."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a szélirányt; a szembeszél fárasztó lehet.",
+          "Sisak használata erősen ajánlott.",
+          "Az utak jók, de figyeljen a murvára a mellékutakon.",
+          "Mindig zárja le a kerékpárját a látnivalóknál."
+        ],
+        "ro": [
+          "Verificați vântul înainte de a pleca; vântul din față poate fi obositor.",
+          "Casca este foarte recomandată.",
+          "Drumurile sunt bune, dar fiți atenți la pietrișul de pe drumurile secundare.",
+          "Întotdeauna încuiați bicicleta la obiectivele turistice."
+        ],
+        "en": [
+          "Check the wind before you set off; a headwind can be tiring.",
+          "A helmet is strongly recommended.",
+          "The roads are good, but be aware of gravel on side paths.",
+          "Always lock your bike at the attractions."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 28.1,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Viking World",
+            "hu": "Viking Világ",
+            "ro": "Lumea Vikingilor",
+            "en": "Viking World"
+          },
+          "coords": [
+            -22.529,
+            63.978
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der beste Startpunkt, mit eigenem Parkplatz. Erkunden Sie das Museum und das Schiff.",
+            "hu": "A legjobb kiindulópont, saját parkolóval. Fedezze fel a múzeumot és a hajót.",
+            "ro": "Cel mai bun punct de plecare, cu parcare proprie. Explorați muzeul și nava.",
+            "en": "The best starting point, with its own parking lot. Explore the museum and the ship."
+          }
+        },
+        {
+          "name": {
+            "de": "Hólmsberg Leuchtturm",
+            "hu": "Hólmsberg világítótorony",
+            "ro": "Farul Hólmsberg",
+            "en": "Hólmsberg Lighthouse"
+          },
+          "coords": [
+            -22.59,
+            63.98
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 9.2,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Leuchtturm für eine atemberaubende Aussicht und eine frische Meeresbrise.",
+            "hu": "Vezessen el a világítótoronyhoz a lélegzetelállító kilátásért és a friss tengeri szellőért.",
+            "ro": "Conduceți până la far pentru priveliști uluitoare și o briză proaspătă de mare.",
+            "en": "Drive out to the lighthouse for stunning views and a fresh sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz am Hafen",
+            "hu": "Parkoló a kikötőnél",
+            "ro": "Parcare în port",
+            "en": "Parking at the Harbor"
+          },
+          "coords": [
+            -22.57,
+            64.004
+          ],
+          "category": "transport",
+          "arrive_at": "12:12",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 10.3,
+          "tip_5lang": {
+            "de": "Parken Sie hier, um den zentralen Küstenbereich zu Fuß zu erkunden.",
+            "hu": "Parkoljon itt, hogy gyalog fedezze fel a központi tengerparti területet.",
+            "ro": "Parcați aici pentru a explora pe jos zona de coastă centrală.",
+            "en": "Park here to explore the central coastal area on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Duus Museum",
+            "hu": "Duus Múzeum",
+            "ro": "Muzeul Duus",
+            "en": "Duus Museum"
+          },
+          "coords": [
+            -22.571,
+            64.005
+          ],
+          "category": "museums",
+          "arrive_at": "12:17",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz zum Kunst- und Geschichtszentrum.",
+            "hu": "Rövid séta a parkolótól a művészeti és történelmi központig.",
+            "ro": "O scurtă plimbare de la parcare la centrul de artă și istorie.",
+            "en": "A short walk from the parking spot to the art and history hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Riesin in der Höhle",
+            "hu": "Az Óriásnő a barlangban",
+            "ro": "Giganta din Peșteră",
+            "en": "The Giantess in the Cave"
+          },
+          "coords": [
+            -22.574,
+            64.006
+          ],
+          "category": "kid-landmark",
+          "arrive_at": "13:42",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Gleich um die Ecke vom Duus Museum, ein Muss für Familien.",
+            "hu": "A Duus Múzeum sarkánál, családoknak kötelező.",
+            "ro": "Chiar după colț de la Muzeul Duus, o vizită obligatorie pentru familii.",
+            "en": "Just around the corner from Duus Museum, a must-visit for families."
+          }
+        },
+        {
+          "name": {
+            "de": "Anchor Monument",
+            "hu": "Horgony Emlékmű",
+            "ro": "Monumentul Ancorei",
+            "en": "Anchor Monument"
+          },
+          "coords": [
+            -22.57,
+            64.0065
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:15",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein letzter Spaziergang am Hafen, bevor Sie zurück zum Auto gehen.",
+            "hu": "Egy utolsó séta a kikötőben, mielőtt visszatérne az autóhoz.",
+            "ro": "O ultimă plimbare prin port înainte de a vă întoarce la mașină.",
+            "en": "One last stroll by the harbor before heading back to the car."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz bei Hljómahöll",
+            "hu": "Parkoló a Hljómahöll mellett",
+            "ro": "Parcare lângă Hljómahöll",
+            "en": "Parking near Hljómahöll"
+          },
+          "coords": [
+            -22.557,
+            63.995
+          ],
+          "category": "transport",
+          "arrive_at": "14:50",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8,
+          "tip_5lang": {
+            "de": "Parken Sie hier für den zweiten Erkundungs-Cluster.",
+            "hu": "Parkoljon itt a második felfedező klaszterhez.",
+            "ro": "Parcați aici pentru al doilea grup de explorare.",
+            "en": "Park here for the second cluster of exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Isländisches Rock 'n' Roll Museum",
+            "hu": "Izlandi Rock 'n' Roll Múzeum",
+            "ro": "Muzeul Rock 'n' Roll-ului din Islanda",
+            "en": "Icelandic Rock 'n' Roll Museum"
+          },
+          "coords": [
+            -22.558,
+            63.9945
+          ],
+          "category": "museums",
+          "arrive_at": "14:52",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Direkt neben dem Hljómahöll-Konzertsaal und dem Parkplatz.",
+            "hu": "Közvetlenül a Hljómahöll koncertterem és a parkoló mellett.",
+            "ro": "Chiar lângă sala de concerte Hljómahöll și parcare.",
+            "en": "Right next to the Hljómahöll concert hall and parking."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt bei Viking World, etwas außerhalb der Stadt. Anschließend fahren Sie zum Hólmsberg Leuchtturm für dramatische Küstenansichten. Gegen Mittag parken Sie am Hafen und erkunden zu Fuß den ersten Cluster: das Duus Museum, die Riesin und das Anchor Monument. Am Nachmittag fahren Sie zu einem zweiten Parkplatz, um den letzten Cluster zu erkunden, der dem reichen musikalischen Erbe Islands im Rock 'n' Roll Museum gewidmet ist.",
+        "hu": "Autós napja a Viking Világnál kezdődik, kissé a városon kívül. Ezután a Hólmsberg világítótoronyhoz hajt a drámai tengerparti kilátásért. Dél körül parkoljon le a kikötőben, és fedezze fel gyalog az első klasztert: a Duus Múzeumot, az Óriásnőt és a Horgony Emlékművet. Délután egy második parkolóhoz hajt, hogy felfedezze az utolsó klasztert, amelyet Izland gazdag zenei örökségének szenteltek a Rock 'n' Roll Múzeumban.",
+        "ro": "Ziua cu mașina începe la Lumea Vikingilor, puțin în afara orașului. Apoi, conduceți la Farul Hólmsberg pentru vederi dramatice ale coastei. În jurul prânzului, parcați în port și explorați pe jos primul grup: Muzeul Duus, Giganta și Monumentul Ancorei. După-amiaza, conduceți la o a doua parcare pentru a explora ultimul grup, dedicat bogatei moșteniri muzicale a Islandei la Muzeul Rock 'n' Roll.",
+        "en": "Your car day starts at Viking World, just outside town. Then, drive to Hólmsberg Lighthouse for dramatic coastal views. Around midday, park at the harbor and explore the first cluster on foot: the Duus Museum, the Giantess, and the Anchor Monument. In the afternoon, drive to a second parking spot to explore the final cluster, dedicated to Iceland's rich musical heritage at the Rock 'n' Roll Museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fernando's Restaurant",
+            "tip": "Ein lokaler Favorit für Pizza und entspannte Mahlzeiten nach einem langen Erkundungstag."
+          },
+          {
+            "name": "Pylsur (Hotdog)",
+            "tip": "Holen Sie sich einen berühmten isländischen Hotdog von einem Imbisswagen für einen schnellen und leckeren Snack."
+          },
+          {
+            "name": "Kaffi Duus",
+            "tip": "Bietet eine großartige Aussicht auf den Hafen und eine Speisekarte mit Schwerpunkt auf Meeresfrüchten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fernando's étterem",
+            "tip": "Helyi kedvenc pizzáért és laza étkezésekért egy hosszú felfedezőnap után."
+          },
+          {
+            "name": "Pylsur (hot dog)",
+            "tip": "Szerezzen be egy híres izlandi hot dogot egy büfékocsiból egy gyors és finom harapnivalóért."
+          },
+          {
+            "name": "Kaffi Duus",
+            "tip": "Nagyszerű kilátást nyújt a kikötőre, és tengeri ételekre összpontosító menüvel rendelkezik."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul Fernando's",
+            "tip": "Un favorit local pentru pizza și mese relaxate după o zi lungă de explorare."
+          },
+          {
+            "name": "Pylsur (Hot Dog)",
+            "tip": "Luați un faimos hot dog islandez de la o rulotă pentru o gustare rapidă și gustoasă."
+          },
+          {
+            "name": "Kaffi Duus",
+            "tip": "Oferă vederi minunate ale portului și un meniu axat pe fructe de mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fernando's Restaurant",
+            "tip": "A local favorite for pizza and casual meals after a long day of exploring."
+          },
+          {
+            "name": "Pylsur (Hot Dog)",
+            "tip": "Grab a famous Icelandic hot dog from a food truck for a quick and tasty snack."
+          },
+          {
+            "name": "Kaffi Duus",
+            "tip": "Offers great views of the harbor and a seafood-focused menu."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Garður Leuchtturm (kurze Fahrt)",
+            "tip": "Ein weiterer nahegelegener Leuchtturm, oft weniger überlaufen als Hólmsberg.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hafnir (kurze Fahrt)",
+            "tip": "Ein kleines Fischerdorf südlich von Keflavík mit einer verlassenen, geisterhaften Atmosphäre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Blick von Viking World",
+            "tip": "Die Aussicht vom Museum über die Bucht ist weit und friedlich.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Garður világítótorony (rövid autóút)",
+            "tip": "Egy másik közeli világítótorony, gyakran kevésbé zsúfolt, mint a Hólmsberg.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hafnir (rövid autóút)",
+            "tip": "Egy kis halászfalu Keflavíktól délre, elhagyatott, kísérteties hangulattal.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a Viking Világból",
+            "tip": "A múzeumból nyíló kilátás az öbölre tágas és békés.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Farul Garður (călătorie scurtă cu mașina)",
+            "tip": "Un alt far din apropiere, adesea mai puțin aglomerat decât Hólmsberg.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hafnir (călătorie scurtă cu mașina)",
+            "tip": "Un mic sat pescăresc la sud de Keflavík, cu o atmosferă abandonată, fantomatică.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere de la Lumea Vikingilor",
+            "tip": "Priveliștea de la muzeu peste golf este vastă și liniștită.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Garður Lighthouse (short drive)",
+            "tip": "Another nearby lighthouse, often less crowded than Hólmsberg.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hafnir (short drive)",
+            "tip": "A small fishing village south of Keflavík with an abandoned, ghostly atmosphere.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from Viking World",
+            "tip": "The view from the museum across the bay is expansive and peaceful.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Supermärkte für isländische Snacks",
+            "tip": "Besuchen Sie Bónus oder Krónan, um Harðfiskur (Trockenfisch) oder isländische Schokolade zu kaufen."
+          },
+          {
+            "name": "Viking World Geschenkeladen",
+            "tip": "Gute Auswahl an Souvenirs zum Thema Wikinger, von Büchern bis hin zu Repliken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szupermarketek izlandi rágcsálnivalókért",
+            "tip": "Látogasson el a Bónusba vagy a Krónanba, hogy Harðfiskurt (szárított halat) vagy izlandi csokoládét vásároljon."
+          },
+          {
+            "name": "Viking Világ ajándékbolt",
+            "tip": "Jó választék viking témájú ajándéktárgyakból, a könyvektől a másolatokig."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarketuri pentru gustări islandeze",
+            "tip": "Vizitați Bónus sau Krónan pentru a cumpăra Harðfiskur (pește uscat) sau ciocolată islandeză."
+          },
+          {
+            "name": "Magazinul de cadouri Lumea Vikingilor",
+            "tip": "Selecție bună de suveniruri cu tematică vikingă, de la cărți la replici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Supermarkets for Icelandic snacks",
+            "tip": "Visit Bónus or Krónan to buy Harðfiskur (dried fish) or Icelandic chocolate."
+          },
+          {
+            "name": "Viking World Gift Shop",
+            "tip": "Good selection of Viking-themed souvenirs, from books to replicas."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken ist in den meisten Gegenden kostenlos, aber überprüfen Sie die Schilder.",
+          "Die Straßenverhältnisse können im Winter schwierig sein; prüfen Sie immer die Wettervorhersage.",
+          "Ein Auto gibt Ihnen die Flexibilität, die weitere Reykjanes-Halbinsel zu erkunden.",
+          "Achten Sie auf die Geschwindigkeitsbegrenzungen, die streng durchgesetzt werden."
+        ],
+        "hu": [
+          "A parkolás a legtöbb területen ingyenes, de ellenőrizze a táblákat.",
+          "Az útviszonyok télen nehezek lehetnek; mindig ellenőrizze az időjárás-előrejelzést.",
+          "Az autó rugalmasságot biztosít a tágabb Reykjanes-félsziget felfedezéséhez.",
+          "Figyeljen a sebességkorlátozásokra, amelyeket szigorúan betartatnak."
+        ],
+        "ro": [
+          "Parcarea este gratuită în majoritatea zonelor, dar verificați semnele.",
+          "Condițiile drumului pot fi dificile iarna; verificați întotdeauna prognoza meteo.",
+          "O mașină vă oferă flexibilitatea de a explora peninsula Reykjanes mai largă.",
+          "Fiți atenți la limitele de viteză, care sunt strict aplicate."
+        ],
+        "en": [
+          "Parking is free in most areas, but check for signs.",
+          "Road conditions can be tricky in winter; always check the forecast.",
+          "A car gives you the flexibility to explore the wider Reykjanes Peninsula.",
+          "Be mindful of speed limits, which are strictly enforced."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 9.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Start: Busbahnhof Hringbraut",
+            "hu": "Indulás: Hringbraut buszpályaudvar",
+            "ro": "Start: Autogara Hringbraut",
+            "en": "Start: Hringbraut Bus Terminal"
+          },
+          "coords": [
+            -22.559,
+            63.996
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt, um den Tag zu beginnen.",
+            "hu": "Központi csomópont a nap indításához.",
+            "ro": "Nod central pentru a începe ziua.",
+            "en": "Central hub to start the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Isländisches Rock 'n' Roll Museum",
+            "hu": "Izlandi Rock 'n' Roll Múzeum",
+            "ro": "Muzeul Rock 'n' Roll-ului din Islanda",
+            "en": "Icelandic Rock 'n' Roll Museum"
+          },
+          "coords": [
+            -22.558,
+            63.9945
+          ],
+          "category": "museums",
+          "arrive_at": "09:13",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang vom Busbahnhof entfernt.",
+            "hu": "Csak egy rövid sétára a buszpályaudvartól.",
+            "ro": "La doar o scurtă plimbare de autogară.",
+            "en": "Just a short walk from the bus terminal."
+          }
+        },
+        {
+          "name": {
+            "de": "Keflavíkurkirkja",
+            "hu": "Keflavíki templom",
+            "ro": "Biserica Keflavíkurkirkja",
+            "en": "Keflavíkurkirkja"
+          },
+          "coords": [
+            -22.555,
+            64.001
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:03",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Gehen Sie nach Norden durch die Stadt, um dieses moderne Wahrzeichen zu erreichen.",
+            "hu": "Sétáljon észak felé a városon keresztül, hogy elérje ezt a modern nevezetességet.",
+            "ro": "Mergeți spre nord prin oraș pentru a ajunge la acest reper modern.",
+            "en": "Walk north through the town to reach this modern landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Viking World",
+            "hu": "Viking Világ",
+            "ro": "Lumea Vikingilor",
+            "en": "Viking World"
+          },
+          "coords": [
+            -22.529,
+            63.978
+          ],
+          "category": "museums",
+          "arrive_at": "12:13",
+          "stay_min": 100,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus der Linie 55 von einer Haltestelle in der Nähe der Kirche.",
+            "hu": "Vegye az 55-ös buszt a templom melletti megállóból.",
+            "ro": "Luați autobuzul 55 de la o stație de lângă biserică.",
+            "en": "Take a number 55 bus from a stop near the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle am Hafen",
+            "hu": "Buszmegálló a kikötőnél",
+            "ro": "Stație de autobuz în port",
+            "en": "Bus Stop at the Harbor"
+          },
+          "coords": [
+            -22.569,
+            64.004
+          ],
+          "category": "transport",
+          "arrive_at": "14:11",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Fahren Sie zurück ins Zentrum und steigen Sie hier für den letzten Rundgang aus.",
+            "hu": "Utazzon vissza a központba, és szálljon le itt az utolsó sétaúthoz.",
+            "ro": "Călătoriți înapoi în centru și coborâți aici pentru turul final pe jos.",
+            "en": "Travel back to the center and get off here for the final walking tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Duus Museum",
+            "hu": "Duus Múzeum",
+            "ro": "Muzeul Duus",
+            "en": "Duus Museum"
+          },
+          "coords": [
+            -22.571,
+            64.005
+          ],
+          "category": "museums",
+          "arrive_at": "14:15",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ihr letzter großer Halt, ein Kulturzentrum mit herrlicher Aussicht.",
+            "hu": "Az utolsó nagy megálló, egy kulturális központ, csodálatos kilátással.",
+            "ro": "Ultima oprire majoră, un centru cultural cu vederi minunate.",
+            "en": "Your final major stop, a cultural hub with lovely views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt im Zentrum, wo Sie das Rock 'n' Roll Museum und die Keflavíkurkirkja zu Fuß erkunden. Am Vormittag nehmen Sie einen Bus nach Viking World für eine Reise in die Vergangenheit. Gegen Mittag bringt Sie ein weiterer Bus zurück ins Herz von Keflavík. Der Nachmittag ist dem letzten Cluster gewidmet: einem Spaziergang zum Duus Museum, wo Sie in die lokale Kunst und Geschichte eintauchen.",
+        "hu": "A tömegközlekedési nap a központban kezdődik, ahol gyalog fedezi fel a Rock 'n' Roll Múzeumot és a Keflavíkurkirkját. Délelőtt busszal utazik a Viking Világba egy múltbeli utazásra. Dél körül egy másik busz visszaviszi Keflavík szívébe. A délután az utolsó klaszternek van szentelve: egy séta a Duus Múzeumba, ahol elmerülhet a helyi művészetben és történelemben.",
+        "ro": "Ziua cu transportul public începe în centru, explorând pe jos Muzeul Rock 'n' Roll și Keflavíkurkirkja. Dimineața, luați un autobuz către Lumea Vikingilor pentru o călătorie în trecut. În jurul prânzului, un alt autobuz vă aduce înapoi în inima orașului Keflavík. După-amiaza este dedicată ultimului grup: o plimbare la Muzeul Duus, scufundându-vă în arta și istoria locală.",
+        "en": "Your transit day begins centrally, exploring the Rock 'n' Roll Museum and Keflavíkurkirkja on foot. In the morning, you'll take a bus out to Viking World for a trip into the past. Around midday, another bus brings you back to the heart of Keflavík. The afternoon is dedicated to the final cluster: a walk to the Duus Museum, immersing yourself in local art and history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckereien (Bakari)",
+            "tip": "Holen Sie sich ein Kleina (frittiertes Gebäck) oder ein Snúður (Zimtschnecke) für eine süße Leckerei."
+          },
+          {
+            "name": "Library Bistro/Bar",
+            "tip": "Im Hotel Berg gelegen, eine gemütliche Option für ein Abendessen oder ein Getränk."
+          },
+          {
+            "name": "Thai Keflavik",
+            "tip": "Eine beliebte Option für authentisches thailändisches Essen, wenn Sie eine Pause von der isländischen Küche brauchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékségek (Bakari)",
+            "tip": "Vegyen egy Kleinát (fánktésztát) vagy egy Snúðurt (fahéjas csigát) egy édes csemegéért."
+          },
+          {
+            "name": "Library Bistro/Bár",
+            "tip": "A Hotel Bergben található, hangulatos lehetőség egy vacsorára vagy egy italra."
+          },
+          {
+            "name": "Thai Keflavik",
+            "tip": "Népszerű lehetőség autentikus thai ételekért, ha szünetet tartana az izlandi konyhától."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutării (Bakari)",
+            "tip": "Luați o Kleina (gogoașă prăjită) sau un Snúður (rulou cu scorțișoară) pentru un deliciu dulce."
+          },
+          {
+            "name": "Library Bistro/Bar",
+            "tip": "Situat în Hotel Berg, o opțiune confortabilă pentru cină sau o băutură."
+          },
+          {
+            "name": "Thai Keflavik",
+            "tip": "O opțiune populară pentru mâncare thailandeză autentică, dacă doriți o pauză de la bucătăria islandeză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakeries (Bakari)",
+            "tip": "Grab a Kleina (fried pastry) or a Snúður (cinnamon roll) for a sweet treat."
+          },
+          {
+            "name": "Library Bistro/Bar",
+            "tip": "Located in Hotel Berg, a cozy option for dinner or a drink."
+          },
+          {
+            "name": "Thai Keflavik",
+            "tip": "A popular option for authentic Thai food if you need a break from Icelandic cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mount Keilir (mit Bus/Wanderung)",
+            "tip": "Für die Abenteuerlustigen, nehmen Sie einen Bus in die Nähe und wandern Sie auf diesen kegelförmigen Vulkan.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Keflavík Hafen",
+            "tip": "Finden Sie einen ruhigen Ort, um die Fischerboote beim Kommen und Gehen zu beobachten.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Leseecke im Duus Museum",
+            "tip": "Das Museum hat oft ruhige Ecken mit Sitzgelegenheiten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Keilir-hegy (busszal/túrával)",
+            "tip": "A kalandvágyóknak: menjenek busszal a közelbe, és túrázzanak fel erre a kúp alakú vulkánra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Keflavíki kikötő",
+            "tip": "Keressen egy csendes helyet, hogy figyelje a halászhajók jövés-menését.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Olvasósarok a Duus Múzeumban",
+            "tip": "A múzeumban gyakran vannak csendes sarkok ülőhelyekkel.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Muntele Keilir (cu autobuz/drumeție)",
+            "tip": "Pentru cei aventuroși, luați un autobuz în apropiere și faceți o drumeție pe acest vulcan conic.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Portul Keflavík",
+            "tip": "Găsiți un loc liniștit pentru a privi bărcile de pescuit venind și plecând.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Colț de lectură la Muzeul Duus",
+            "tip": "Muzeul are adesea colțuri liniștite cu locuri de ședere.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mount Keilir (by bus/hike)",
+            "tip": "For the adventurous, take a bus nearby and hike this cone-shaped volcano.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Keflavík Harbor",
+            "tip": "Find a quiet spot to watch the fishing boats come and go.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Reading nook in Duus Museum",
+            "tip": "The museum often has quiet corners with seating.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschenkeladen im Duus Museum",
+            "tip": "Bietet eine kuratierte Auswahl an Büchern und Handwerk mit Bezug zur Region."
+          },
+          {
+            "name": "Blómaborg",
+            "tip": "Ein Blumen- und Geschenkeladen, der oft einzigartige Haushaltswaren und Dekorationen hat."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Duus Múzeum ajándékboltja",
+            "tip": "Válogatott könyveket és a régióhoz kapcsolódó kézműves termékeket kínál."
+          },
+          {
+            "name": "Blómaborg",
+            "tip": "Virág- és ajándékbolt, ahol gyakran egyedi háztartási cikkeket és dekorációkat találni."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de cadouri al Muzeului Duus",
+            "tip": "Oferă o selecție curatoriată de cărți și meșteșuguri legate de regiune."
+          },
+          {
+            "name": "Blómaborg",
+            "tip": "Un magazin de flori și cadouri care are adesea articole de uz casnic și decorațiuni unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Duus Museum Gift Shop",
+            "tip": "Offers a curated selection of books and crafts related to the region."
+          },
+          {
+            "name": "Blómaborg",
+            "tip": "A flower and gift shop that often has unique homewares and decorations."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für das Bussystem (Strætó) für das beste Preis-Leistungs-Verhältnis.",
+          "Laden Sie die Strætó-App herunter, um Busse in Echtzeit zu verfolgen.",
+          "Die Busfahrpläne können am Wochenende seltener sein, planen Sie entsprechend.",
+          "Seien Sie darauf vorbereitet, zu Fuß zwischen den Bushaltestellen und den Sehenswürdigkeiten zu gehen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszrendszerre (Strætó) a legjobb ár-érték arányért.",
+          "Töltse le a Strætó alkalmazást a buszok valós idejű követéséhez.",
+          "A buszmenetrend hétvégén ritkább lehet, tervezzen ennek megfelelően.",
+          "Készüljön fel a buszmegállók és a látnivalók közötti gyaloglásra."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru sistemul de autobuze (Strætó) pentru cel mai bun raport calitate-preț.",
+          "Descărcați aplicația Strætó pentru a urmări autobuzele în timp real.",
+          "Orarul autobuzelor poate fi mai puțin frecvent în weekend, planificați în consecință.",
+          "Fiți pregătit să mergeți pe jos între stațiile de autobuz și obiective."
+        ],
+        "en": [
+          "Buy a day pass for the bus system (Strætó) for the best value.",
+          "Download the Strætó app for real-time bus tracking.",
+          "Bus schedules can be less frequent on weekends, so plan accordingly.",
+          "Be prepared for some walking between bus stops and the actual sights."
+        ]
+      }
+    }
+  }
+}

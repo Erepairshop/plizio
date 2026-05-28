@@ -1,0 +1,1103 @@
+{
+  "city_id": "norway-horten-cities-v2",
+  "anchor": {
+    "name": "Horten",
+    "coords": [
+      10.48,
+      59.41
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Horten Kirche",
+            "hu": "Horteni templom",
+            "ro": "Biserica din Horten",
+            "en": "Horten Church"
+          },
+          "coords": [
+            10.481,
+            59.415
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neugotische Architektur und die ruhige Atmosphäre im Inneren.",
+            "hu": "Csodálja meg a neogótikus építészetet és a belső tér békés hangulatát.",
+            "ro": "Admirați arhitectura neogotică și atmosfera liniștită din interior.",
+            "en": "Admire the neo-Gothic architecture and the peaceful atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Horten Kanal",
+            "hu": "Horteni csatorna",
+            "ro": "Canalul Horten",
+            "en": "Horten Canal"
+          },
+          "coords": [
+            10.483,
+            59.421
+          ],
+          "category": "natural features",
+          "arrive_at": "10:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang entlang des Wassers, der die Stadt mit der Marinebasis verbindet.",
+            "hu": "Tegyen egy szép sétát a víz mentén, amely összeköti a várost a haditengerészeti bázissal.",
+            "ro": "O plimbare frumoasă de-a lungul apei, care leagă orașul de baza navală.",
+            "en": "A lovely walk along the water, connecting the town to the naval base."
+          }
+        },
+        {
+          "name": {
+            "de": "Preus Museum",
+            "hu": "Preus Múzeum",
+            "ro": "Muzeul Preus",
+            "en": "Preus Museum"
+          },
+          "coords": [
+            10.485,
+            59.428
+          ],
+          "category": "museums",
+          "arrive_at": "10:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Norwegens nationales Museum für Fotografie, ein Muss für Technik- und Kunstliebhaber.",
+            "hu": "Norvégia nemzeti fotográfiai múzeuma, kötelező a technika és a művészet szerelmeseinek.",
+            "ro": "Muzeul național de fotografie al Norvegiei, un loc de neratat pentru pasionații de tehnologie și artă.",
+            "en": "Norway's national museum for photography, a must-visit for tech and art lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "Marinemuseum",
+            "hu": "Tengerészeti Múzeum",
+            "ro": "Muzeul Marinei",
+            "en": "Maritime Museum"
+          },
+          "coords": [
+            10.492,
+            59.431
+          ],
+          "category": "museums",
+          "arrive_at": "12:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche norwegische Marinegeschichte, einschließlich echter U-Boote und Schiffe.",
+            "hu": "Fedezze fel Norvégia gazdag haditengerészeti történelmét, valódi tengeralattjárókkal és hajókkal.",
+            "ro": "Explorați bogata istorie navală norvegiană, inclusiv submarine și nave reale.",
+            "en": "Explore the rich Norwegian naval history, including real submarines and ships."
+          }
+        },
+        {
+          "name": {
+            "de": "Karljohansvern",
+            "hu": "Karljohansvern erőd",
+            "ro": "Fortăreața Karljohansvern",
+            "en": "Karljohansvern Fortress"
+          },
+          "coords": [
+            10.49,
+            59.43
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die alte Marinebasis, heute ein lebendiges Kultur- und Erholungsgebiet.",
+            "hu": "Sétáljon végig a régi haditengerészeti bázison, amely ma egy vibráló kulturális és rekreációs terület.",
+            "ro": "Plimbați-vă prin fosta bază navală, acum o zonă culturală și recreativă vibrantă.",
+            "en": "Walk through the old naval base, now a vibrant cultural and recreational area."
+          }
+        },
+        {
+          "name": {
+            "de": "Munch-Haus",
+            "hu": "Munch-ház",
+            "ro": "Casa Munch",
+            "en": "Munch House"
+          },
+          "coords": [
+            10.482,
+            59.418
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein kleiner Einblick in das Leben des berühmten Malers. Überprüfen Sie die Öffnungszeiten.",
+            "hu": "Egy kis bepillantás a híres festő életébe. Ellenőrizze a nyitvatartási időt.",
+            "ro": "O mică incursiune în viața celebrului pictor. Verificați programul de vizitare.",
+            "en": "A small glimpse into the life of the famous painter. Check for opening hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Lystlunden Park",
+            "hu": "Lystlunden park",
+            "ro": "Parcul Lystlunden",
+            "en": "Lystlunden Park"
+          },
+          "coords": [
+            10.465,
+            59.412
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:05",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Tag bei einem entspannten Spaziergang oder Picknick ausklingen zu lassen.",
+            "hu": "Tökéletes hely a nap lezárására egy pihentető sétával vagy piknikkel.",
+            "ro": "Locul perfect pentru a încheia ziua cu o plimbare relaxantă sau un picnic.",
+            "en": "The perfect place to end the day with a relaxing walk or a picnic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Horten beginnt mit der neugotischen Pracht der Horten Kirche. Spazieren Sie entlang des malerischen Kanals zum Museumsviertel. Am Nachmittag erkunden Sie die historische Marinebasis Karljohansvern. Der Tag endet entspannt im grünen Lystlunden Park.",
+        "hu": "A horteni nap a gótikus templom megtekintésével kezdődik. Sétáljon a festői csatorna mentén a múzeumi negyedbe. Délután fedezze fel a történelmi Karljohansvern haditengerészeti bázist. A napot a zöldellő Lystlunden parkban zárja.",
+        "ro": "Ziua dvs. în Horten începe cu splendoarea neogotică a Bisericii Horten. Plimbați-vă de-a lungul canalului pitoresc spre cartierul muzeelor. După-amiaza, explorați baza navală istorică Karljohansvern. Ziua se încheie relaxant în parcul verde Lystlunden.",
+        "en": "Your day in Horten begins with the neo-Gothic splendor of Horten Church. Stroll along the scenic canal to the museum quarter. In the afternoon, explore the historic Karljohansvern naval base. The day concludes relaxing in the green Lystlunden Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fiskesuppe (Fischsuppe)",
+            "tip": "Probieren Sie eine cremige Fischsuppe in einem der Restaurants am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fiskesuppe (halászlé)",
+            "tip": "Kóstoljon meg egy krémes halászlét a kikötői éttermek egyikében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fiskesuppe (supă de pește)",
+            "tip": "Încercați o supă cremoasă de pește la unul dintre restaurantele din port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fiskesuppe (Fish Soup)",
+            "tip": "Try a creamy fish soup at one of the harborside restaurants."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Kanal",
+            "tip": "Die frühen Morgenstunden am Horten Kanal sind besonders friedlich.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a csatorna mentén",
+            "tip": "A kora reggeli órák a Horten-csatorna mentén különösen békések.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe canal",
+            "tip": "Orele dimineții de-a lungul Canalului Horten sunt deosebit de pașnice.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Canal Walk",
+            "tip": "The early morning hours along the Horten Canal are especially peaceful.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Kunstgalerien",
+            "tip": "In der Nähe von Karljohansvern finden Sie kleine Galerien mit Werken lokaler Künstler."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi művészeti galériák",
+            "tip": "Karljohansvern közelében kis galériákat talál helyi művészek munkáival."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galerii de artă locale",
+            "tip": "Lângă Karljohansvern veți găsi mici galerii cu lucrări ale artiștilor locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Art Galleries",
+            "tip": "Near Karljohansvern, you'll find small galleries featuring works by local artists."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Die meisten Museen befinden sich in unmittelbarer Nähe zueinander.",
+          "Ein Spaziergang entlang des Oslofjords bietet eine atemberaubende Aussicht."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "A legtöbb múzeum sétatávolságra van egymástól.",
+          "Egy séta az Oslo-fjord mentén lélegzetelállító kilátást nyújt."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe jos.",
+          "Majoritatea muzeelor sunt la distanță de mers pe jos una de cealaltă.",
+          "O plimbare de-a lungul fiordului Oslo oferă priveliști uimitoare."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Most museums are within walking distance of each other.",
+          "A walk along the Oslofjord offers stunning views."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:58",
+      "total_km": 18.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Borre Hügelgräber",
+            "hu": "Borre-i halomsírok",
+            "ro": "Movilele funerare Borre",
+            "en": "Borre Burial Mounds"
+          },
+          "coords": [
+            10.468,
+            59.383
+          ],
+          "category": "historical",
+          "arrive_at": "09:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das größte Gräberfeld aus der Wikingerzeit in Nordeuropa. Ein Ort voller Geschichte.",
+            "hu": "Fedezze fel Észak-Európa legnagyobb viking kori temetkezési helyét. Történelemmel teli hely.",
+            "ro": "Explorați cel mai mare cimitir din epoca vikingă din nordul Europei. Un loc plin de istorie.",
+            "en": "Explore the largest burial mound site from the Viking Age in Northern Europe. A place full of history."
+          }
+        },
+        {
+          "name": {
+            "de": "Lystlunden Park",
+            "hu": "Lystlunden park",
+            "ro": "Parcul Lystlunden",
+            "en": "Lystlunden Park"
+          },
+          "coords": [
+            10.465,
+            59.412
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Eine angenehme Pause im Grünen nach der historischen Erkundung.",
+            "hu": "Kellemes pihenő a zöldben a történelmi felfedezőút után.",
+            "ro": "O pauză plăcută în parc după explorarea istorică.",
+            "en": "A pleasant break in the green after the historical exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Horten Kirche",
+            "hu": "Horteni templom",
+            "ro": "Biserica din Horten",
+            "en": "Horten Church"
+          },
+          "coords": [
+            10.481,
+            59.415
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Halt, um die beeindruckende Architektur zu bewundern.",
+            "hu": "Rövid megálló, hogy megcsodálhassa a lenyűgöző építészetet.",
+            "ro": "O scurtă oprire pentru a admira arhitectura impresionantă.",
+            "en": "A brief stop to admire the impressive architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Preus Museum & Marinemuseum",
+            "hu": "Preus és Tengerészeti Múzeum",
+            "ro": "Muzeul Preus și Muzeul Marinei",
+            "en": "Preus & Maritime Museum"
+          },
+          "coords": [
+            10.488,
+            59.429
+          ],
+          "category": "museums",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit für beide Museen ein, sie liegen direkt nebeneinander.",
+            "hu": "Szánjon elég időt mindkét múzeumra, közvetlenül egymás mellett találhatók.",
+            "ro": "Planificați suficient timp pentru ambele muzee, sunt situate unul lângă celălalt.",
+            "en": "Plan enough time for both museums, they are located right next to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Karljohansvern",
+            "hu": "Karljohansvern erőd",
+            "ro": "Fortăreața Karljohansvern",
+            "en": "Karljohansvern Fortress"
+          },
+          "coords": [
+            10.49,
+            59.43
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Radeln Sie durch die historische Festung und genießen Sie die Aussicht auf den Fjord.",
+            "hu": "Kerékpározzon át a történelmi erődön, és élvezze a fjordra nyíló kilátást.",
+            "ro": "Plimbați-vă cu bicicleta prin fortăreața istorică și bucurați-vă de vederea la fiord.",
+            "en": "Cycle through the historic fortress and enjoy the fjord views."
+          }
+        },
+        {
+          "name": {
+            "de": "Küstenblick auf den Bastøy Leuchtturm",
+            "hu": "Parti kilátás a Bastøy-világítótoronyra",
+            "ro": "Vedere de pe coastă la Farul Bastøy",
+            "en": "Coastal View of Bastøy Lighthouse"
+          },
+          "coords": [
+            10.51,
+            59.42
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "17:38",
+          "stay_min": 20,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Ein malerischer Ort, um den Tag ausklingen zu lassen und den Leuchtturm in der Ferne zu sehen.",
+            "hu": "Festői hely a nap lezárására, ahonnan a távolban látható a világítótorony.",
+            "ro": "Un loc pitoresc pentru a încheia ziua, privind farul în depărtare.",
+            "en": "A scenic spot to end the day, viewing the lighthouse in the distance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour mit einer Reise in die Wikingerzeit bei den Borre Hügelgräbern. Fahren Sie zurück ins Zentrum für eine Pause im Lystlunden Park. Am Nachmittag erwarten Sie die Museen und die beeindruckende Festung Karljohansvern. Die Tour endet mit einem malerischen Blick auf den Bastøy Leuchtturm.",
+        "hu": "Kezdje kerékpártúráját egy utazással a viking korba a Borre-i halomsíroknál. Tekerjen vissza a központba egy pihenőre a Lystlunden parkban. Délután a múzeumok és a lenyűgöző Karljohansvern erőd várja. A túra a Bastøy-világítótoronyra nyíló festői kilátással zárul.",
+        "ro": "Începeți turul cu bicicleta cu o călătorie în epoca vikingilor la Movilele Borre. Întoarceți-vă în centru pentru o pauză în Parcul Lystlunden. După-amiaza vă așteaptă muzeele și impresionanta fortăreață Karljohansvern. Turul se încheie cu o vedere pitorească la Farul Bastøy.",
+        "en": "Start your bike tour with a journey into the Viking Age at the Borre Burial Mounds. Cycle back to the center for a break in Lystlunden Park. In the afternoon, the museums and the impressive Karljohansvern Fortress await. The tour ends with a scenic view of Bastøy Lighthouse."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Vafler (Waffeln)",
+            "tip": "Probieren Sie eine norwegische Waffel mit Sauerrahm und Marmelade in einem Café."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vafler (gofri)",
+            "tip": "Kóstoljon meg egy norvég gofrit tejföllel és lekvárral egy kávézóban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vafler (vafă)",
+            "tip": "Încercați o vafă norvegiană cu smântână și gem la o cafenea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vafler (Waffles)",
+            "tip": "Try a Norwegian waffle with sour cream and jam at a café."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Borre Park",
+            "tip": "Das Gelände um die Grabhügel ist weitläufig und friedlich, ideal für eine ruhige Reflexion.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borre Park",
+            "tip": "A halomsírok körüli terület tágas és békés, ideális a csendes elmélkedéshez.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Borre",
+            "tip": "Terenul din jurul movilelor funerare este vast și pașnic, ideal pentru reflecție liniștită.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Borre Park",
+            "tip": "The grounds around the burial mounds are vast and peaceful, ideal for quiet reflection.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Midgard Viking Centre Shop",
+            "tip": "Der Laden im Wikingerzentrum bei Borre bietet einzigartige Souvenirs und Repliken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Midgard Viking Központ boltja",
+            "tip": "A Borre melletti viking központ boltja egyedi ajándéktárgyakat és másolatokat kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Centrului Viking Midgard",
+            "tip": "Magazinul de la centrul viking de lângă Borre oferă suveniruri și replici unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Midgard Viking Centre Shop",
+            "tip": "The shop at the Viking center near Borre offers unique souvenirs and replicas."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Horten und Umgebung sind relativ flach und fahrradfreundlich.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad an den Haltestellen sicher abzustellen.",
+          "Die Küstenradwege bieten die besten Aussichten."
+        ],
+        "hu": [
+          "Horten és környéke viszonylag sík és kerékpárbarát.",
+          "Vigyen magával lakatot, hogy biztonságosan lezárhassa kerékpárját a megállóknál.",
+          "A parti kerékpárutak nyújtják a legjobb kilátást."
+        ],
+        "ro": [
+          "Horten și zona înconjurătoare sunt relativ plate și prietenoase cu bicicletele.",
+          "Luați un lacăt pentru a vă asigura bicicleta la opriri.",
+          "Pistele de biciclete de pe coastă oferă cele mai bune priveliști."
+        ],
+        "en": [
+          "Horten and its surroundings are relatively flat and bike-friendly.",
+          "Bring a lock to secure your bike at the stops.",
+          "The coastal bike paths offer the best views."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 15.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Borre Hügelgräber",
+            "hu": "Borre-i halomsírok",
+            "ro": "Movilele funerare Borre",
+            "en": "Borre Burial Mounds"
+          },
+          "coords": [
+            10.468,
+            59.383
+          ],
+          "category": "historical",
+          "arrive_at": "09:20",
+          "stay_min": 100,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Parken Sie am Midgard Viking Centre und erkunden Sie das historische Gelände zu Fuß.",
+            "hu": "Parkoljon a Midgard Viking Központnál, és fedezze fel gyalog a történelmi helyszínt.",
+            "ro": "Parcați la Centrul Viking Midgard și explorați situl istoric pe jos.",
+            "en": "Park at the Midgard Viking Centre and explore the historic grounds on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Karljohansvern",
+            "hu": "Karljohansvern erőd",
+            "ro": "Fortăreața Karljohansvern",
+            "en": "Karljohansvern Fortress"
+          },
+          "coords": [
+            10.49,
+            59.43
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:20",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Finden Sie einen Parkplatz auf der Halbinsel und beginnen Sie Ihren Rundgang.",
+            "hu": "Keressen egy parkolóhelyet a félszigeten, és kezdje meg a gyalogtúrát.",
+            "ro": "Găsiți un loc de parcare în peninsulă și începeți turul pietonal.",
+            "en": "Find a parking spot on the peninsula and start your walking tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Marinemuseum",
+            "hu": "Tengerészeti Múzeum",
+            "ro": "Muzeul Marinei",
+            "en": "Maritime Museum"
+          },
+          "coords": [
+            10.492,
+            59.431
+          ],
+          "category": "museums",
+          "arrive_at": "12:25",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Vom Haupttor der Festung aus leicht zu Fuß erreichbar.",
+            "hu": "Könnyen megközelíthető gyalog az erőd főkapujától.",
+            "ro": "Ușor accesibil pe jos de la poarta principală a fortăreței.",
+            "en": "An easy walk from the main fortress gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Preus Museum",
+            "hu": "Preus Múzeum",
+            "ro": "Muzeul Preus",
+            "en": "Preus Museum"
+          },
+          "coords": [
+            10.485,
+            59.428
+          ],
+          "category": "museums",
+          "arrive_at": "14:05",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Marinemuseum durch die malerische Umgebung.",
+            "hu": "Rövid séta a Tengerészeti Múzeumtól a festői környezeten keresztül.",
+            "ro": "O scurtă plimbare de la Muzeul Marinei prin împrejurimile pitorești.",
+            "en": "A short walk from the Maritime Museum through the scenic area."
+          }
+        },
+        {
+          "name": {
+            "de": "Horten Kirche",
+            "hu": "Horteni templom",
+            "ro": "Biserica din Horten",
+            "en": "Horten Church"
+          },
+          "coords": [
+            10.481,
+            59.415
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:55",
+          "stay_min": 30,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Parken Sie im Stadtzentrum, um die Kirche und die nahe gelegenen Straßen zu erkunden.",
+            "hu": "Parkoljon a városközpontban, hogy felfedezze a templomot és a közeli utcákat.",
+            "ro": "Parcați în centrul orașului pentru a explora biserica și străzile din apropiere.",
+            "en": "Park in the city center to explore the church and nearby streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Munch-Haus",
+            "hu": "Munch-ház",
+            "ro": "Casa Munch",
+            "en": "Munch House"
+          },
+          "coords": [
+            10.482,
+            59.418
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:30",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang von der Kirche entfernt.",
+            "hu": "Csak egy rövid sétára a templomtól.",
+            "ro": "La doar o scurtă plimbare de biserică.",
+            "en": "Just a short walk from the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Lystlunden Park",
+            "hu": "Lystlunden park",
+            "ro": "Parcul Lystlunden",
+            "en": "Lystlunden Park"
+          },
+          "coords": [
+            10.465,
+            59.412
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:20",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein entspannender Abschluss des Tages, bevor Sie die Stadt verlassen.",
+            "hu": "Pihentető befejezése a napnak, mielőtt elhagyná a várost.",
+            "ro": "Un final relaxant al zilei înainte de a părăsi orașul.",
+            "en": "A relaxing end to the day before you leave the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Auto bei den historischen Borre Hügelgräbern. Fahren Sie dann zur Halbinsel Karljohansvern, parken Sie und erkunden Sie die Festung und die beiden Marinemuseen zu Fuß. Am späten Nachmittag fahren Sie ins Stadtzentrum, um die Kirche und das Munch-Haus zu besichtigen und den Tag im Lystlunden Park ausklingen zu lassen.",
+        "hu": "Kezdje a napot autóval a történelmi Borre-i halomsíroknál. Ezután vezessen a Karljohansvern-félszigetre, parkoljon le, és fedezze fel gyalog az erődöt és a két haditengerészeti múzeumot. Késő délután hajtson be a városközpontba a templomért és a Munch-házért, majd a napot a Lystlunden parkban zárja.",
+        "ro": "Începeți ziua cu mașina la istoricele Movile Borre. Apoi, conduceți spre peninsula Karljohansvern, parcați și explorați fortăreața și cele două muzee maritime pe jos. Spre seară, mergeți în centrul orașului pentru a vedea biserica, Casa Munch și pentru a încheia ziua în Parcul Lystlunden.",
+        "en": "Start your day by car at the historic Borre Burial Mounds. Then drive to the Karljohansvern peninsula, park your car, and explore the fortress and the two maritime museums on foot. In the late afternoon, drive to the city center for the church, Munch House, and finish the day in Lystlunden Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Reker (Garnelen)",
+            "tip": "Genießen Sie frische Garnelen mit Brot, Butter und Zitrone – ein norwegischer Sommerklassiker."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Reker (garnélarák)",
+            "tip": "Élvezze a friss garnélarákot kenyérrel, vajjal és citrommal – egy norvég nyári klasszikus."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Reker (creveți)",
+            "tip": "Savurați creveți proaspeți cu pâine, unt și lămâie – un clasic de vară norvegian."
+          }
+        ],
+        "en": [
+          {
+            "name": "Reker (Shrimp)",
+            "tip": "Enjoy fresh shrimp with bread, butter, and lemon – a Norwegian summer classic."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Küstenstraße südlich von Horten",
+            "tip": "Eine Fahrt entlang der Küste bietet viele ruhige Haltepunkte mit Blick auf den Fjord.",
+            "emoji": "🚗"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parti út Hortentől délre",
+            "tip": "A part menti autózás számos csendes megállót kínál, kilátással a fjordra.",
+            "emoji": "🚗"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumul de coastă la sud de Horten",
+            "tip": "O plimbare cu mașina de-a lungul coastei oferă multe opriri liniștite cu vedere la fiord.",
+            "emoji": "🚗"
+          }
+        ],
+        "en": [
+          {
+            "name": "Coastal road south of Horten",
+            "tip": "A drive along the coast offers many quiet stopping points with fjord views.",
+            "emoji": "🚗"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden in der Umgebung",
+            "tip": "Halten Sie Ausschau nach kleinen Hofläden, die lokale Produkte wie Marmelade oder Honig verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Farmboltok a környéken",
+            "tip": "Keresse a kis farmboltokat, amelyek helyi termékeket, például lekvárt vagy mézet árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de fermă din zonă",
+            "tip": "Căutați mici magazine de fermă care vând produse locale, cum ar fi gem sau miere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops in the area",
+            "tip": "Look out for small farm shops selling local products like jam or honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken kann in den Sommermonaten im Zentrum eine Herausforderung sein.",
+          "Die Cluster-Walking-Methode spart Zeit und Parkgebühren.",
+          "Überprüfen Sie die Öffnungszeiten der Museen im Voraus."
+        ],
+        "hu": [
+          "A parkolás a nyári hónapokban kihívást jelenthet a központban.",
+          "A „cluster walking” módszer időt és parkolási díjakat takarít meg.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét."
+        ],
+        "ro": [
+          "Parcarea poate fi o provocare în centru în timpul lunilor de vară.",
+          "Metoda de 'mers pe jos în grupuri' economisește timp și taxe de parcare.",
+          "Verificați în avans orele de deschidere ale muzeelor."
+        ],
+        "en": [
+          "Parking can be challenging in the center during summer months.",
+          "The cluster-walking method saves time and parking fees.",
+          "Check museum opening hours in advance."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 14.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Borre Hügelgräber",
+            "hu": "Borre-i halomsírok",
+            "ro": "Movilele funerare Borre",
+            "en": "Borre Burial Mounds"
+          },
+          "coords": [
+            10.468,
+            59.383
+          ],
+          "category": "historical",
+          "arrive_at": "09:35",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Zentrum Hortens. Die Haltestelle ist in der Nähe des Eingangs.",
+            "hu": "Menjen busszal Horten központjából. A megálló a bejárat közelében van.",
+            "ro": "Luați un autobuz din centrul orașului Horten. Stația este aproape de intrare.",
+            "en": "Take a bus from Horten center. The stop is near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Horten Zentrum",
+            "hu": "Horten központja",
+            "ro": "Centrul Horten",
+            "en": "Horten Centre"
+          },
+          "coords": [
+            10.48,
+            59.41
+          ],
+          "category": "city",
+          "arrive_at": "11:35",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Steigen Sie hier aus, um die Kirche und das Munch-Haus zu erkunden.",
+            "hu": "Szálljon le itt, hogy felfedezze a templomot és a Munch-házat.",
+            "ro": "Coborâți aici pentru a explora biserica și Casa Munch.",
+            "en": "Get off here to explore the church and Munch House."
+          }
+        },
+        {
+          "name": {
+            "de": "Horten Kirche",
+            "hu": "Horteni templom",
+            "ro": "Biserica din Horten",
+            "en": "Horten Church"
+          },
+          "coords": [
+            10.481,
+            59.415
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:40",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der zentralen Bushaltestelle.",
+            "hu": "Rövid séta a központi buszmegállótól.",
+            "ro": "O scurtă plimbare de la stația centrală de autobuz.",
+            "en": "A short walk from the central bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Karljohansvern",
+            "hu": "Karljohansvern erőd",
+            "ro": "Fortăreața Karljohansvern",
+            "en": "Karljohansvern Fortress"
+          },
+          "coords": [
+            10.49,
+            59.43
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:50",
+          "stay_min": 60,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Ein Bus bringt Sie direkt zum Eingang der ehemaligen Marinebasis.",
+            "hu": "Egy busz közvetlenül a volt haditengerészeti bázis bejáratához viszi.",
+            "ro": "Un autobuz vă va duce direct la intrarea în fosta bază navală.",
+            "en": "A bus will take you directly to the entrance of the former naval base."
+          }
+        },
+        {
+          "name": {
+            "de": "Marinemuseum & Preus Museum",
+            "hu": "Tengerészeti és Preus Múzeum",
+            "ro": "Muzeul Marinei și Muzeul Preus",
+            "en": "Maritime & Preus Museum"
+          },
+          "coords": [
+            10.488,
+            59.429
+          ],
+          "category": "museums",
+          "arrive_at": "13:55",
+          "stay_min": 180,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses Cluster von Museen und Kulturstätten zu Fuß.",
+            "hu": "Fedezze fel gyalog ezt a múzeumi és kulturális helyszínekből álló csoportot.",
+            "ro": "Explorați acest grup de muzee și situri culturale pe jos.",
+            "en": "Explore this cluster of museums and cultural sites on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Lystlunden Park",
+            "hu": "Lystlunden park",
+            "ro": "Parcul Lystlunden",
+            "en": "Lystlunden Park"
+          },
+          "coords": [
+            10.465,
+            59.412
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:25",
+          "stay_min": 64,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang zurück in Richtung Zentrum, um den Tag ausklingen zu lassen.",
+            "hu": "Egy szép séta vissza a központ felé a nap lezárásaként.",
+            "ro": "O plimbare plăcută înapoi spre centru pentru a încheia ziua.",
+            "en": "A nice walk back towards the center to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die öffentlichen Verkehrsmittel, um zuerst zu den weit entfernten Borre Hügelgräbern zu gelangen. Fahren Sie zurück ins Zentrum, um die Kirche zu besichtigen. Ein weiterer Bus bringt Sie zum Karljohansvern-Cluster, wo Sie die Museen und die Festung zu Fuß erkunden. Beenden Sie den Tag mit einem Spaziergang zum Lystlunden Park.",
+        "hu": "Használja a tömegközlekedést, hogy először eljusson a távoli Borre-i halomsírokhoz. Utazzon vissza a központba a templom megtekintéséhez. Egy másik busz elviszi a Karljohansvern-csoporthoz, ahol gyalog fedezheti fel a múzeumokat és az erődöt. A napot egy sétával zárja a Lystlunden parkba.",
+        "ro": "Folosiți transportul public pentru a ajunge mai întâi la îndepărtatele Movile Borre. Întoarceți-vă în centru pentru a vizita biserica. Un alt autobuz vă va duce la grupul Karljohansvern, unde veți explora muzeele și cetatea pe jos. Încheiați ziua cu o plimbare spre Parcul Lystlunden.",
+        "en": "Use public transport to first get to the distant Borre Burial Mounds. Travel back to the center to see the church. Another bus takes you to the Karljohansvern cluster, where you'll explore the museums and fortress on foot. End the day with a walk to Lystlunden Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pølse med lompe",
+            "tip": "Probieren Sie einen norwegischen Hotdog, serviert in einem dünnen Kartoffelfladenbrot."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pølse med lompe",
+            "tip": "Kóstoljon meg egy norvég hot dogot, vékony burgonyás laposkenyérben tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pølse med lompe",
+            "tip": "Încercați un hotdog norvegian, servit într-o lipie subțire de cartofi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pølse med lompe",
+            "tip": "Try a Norwegian hot dog, served in a thin potato flatbread."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fähre beobachten",
+            "tip": "Beobachten Sie die Fähren, die von Horten nach Moss fahren, ein beruhigender Anblick am Fjord.",
+            "emoji": "⛴️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A komp figyelése",
+            "tip": "Nézze a Hortenből Mossba tartó kompot, megnyugtató látvány a fjordnál.",
+            "emoji": "⛴️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Privind feribotul",
+            "tip": "Urmăriți feriboturile care pleacă din Horten spre Moss, o priveliște liniștitoare pe fiord.",
+            "emoji": "⛴️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Watching the ferry",
+            "tip": "Watch the ferries go from Horten to Moss, a calming sight on the fjord.",
+            "emoji": "⛴️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sjøsiden Senter",
+            "tip": "Ein Einkaufszentrum in der Nähe des Busbahnhofs für alle wesentlichen Bedürfnisse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sjøsiden Senter",
+            "tip": "Egy bevásárlóközpont a buszpályaudvar közelében minden alapvető szükséglet kielégítésére."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sjøsiden Senter",
+            "tip": "Un centru comercial lângă autogară pentru toate nevoile esențiale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sjøsiden Senter",
+            "tip": "A shopping center near the bus terminal for any essential needs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für das Bussystem, um Geld zu sparen.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, besonders für die Außenbezirke.",
+          "Die App 'Entur' ist nützlich für die Reiseplanung in ganz Norwegen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszrendszerhez, hogy pénzt takarítson meg.",
+          "Előre ellenőrizze a buszmenetrendet, különösen a külvárosok esetében.",
+          "Az „Entur” alkalmazás hasznos az utazástervezéshez egész Norvégiában."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru sistemul de autobuze pentru a economisi bani.",
+          "Verificați în avans orarele autobuzelor, în special pentru zonele periferice.",
+          "Aplicația 'Entur' este utilă pentru planificarea călătoriilor în toată Norvegia."
+        ],
+        "en": [
+          "Buy a day pass for the bus system to save money.",
+          "Check bus schedules in advance, especially for the outskirts.",
+          "The 'Entur' app is useful for travel planning throughout Norway."
+        ]
+      }
+    }
+  }
+}

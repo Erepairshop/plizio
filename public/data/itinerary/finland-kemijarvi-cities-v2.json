@@ -1,0 +1,1375 @@
+{
+  "city_id": "finland-kemijarvi-cities-v2",
+  "anchor": {
+    "name": "Kemijärvi",
+    "coords": [
+      27.4306,
+      66.7139
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 3.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kulturzentrum Kemijärvi",
+            "hu": "Kemijärvi Kulturális Központ",
+            "ro": "Centrul Cultural Kemijärvi",
+            "en": "Kemijärvi Cultural Centre"
+          },
+          "coords": [
+            27.4315,
+            66.715
+          ],
+          "category": "cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Veranstaltungsplan, oft gibt es lokale Kunstausstellungen.",
+            "hu": "Nézze meg a programfüzetet, gyakran vannak helyi művészeti kiállítások.",
+            "ro": "Verificați programul de evenimente, adesea există expoziții de artă locală.",
+            "en": "Check the event schedule; there are often local art exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Holzskulpturengalerie",
+            "hu": "Faszobor Galéria",
+            "ro": "Galeria de Sculpturi în Lemn",
+            "en": "Wood Sculpture Gallery"
+          },
+          "coords": [
+            27.4295,
+            66.7161
+          ],
+          "category": "museums",
+          "arrive_at": "10:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein Muss für Liebhaber der Holzkunst, die die lappländische Tradition widerspiegelt.",
+            "hu": "A fafaragás szerelmeseinek kötelező, a lappföldi hagyományokat tükrözi.",
+            "ro": "O vizită obligatorie pentru iubitorii de artă în lemn ce reflectă tradiția laponă.",
+            "en": "A must-see for wood art lovers, reflecting Lappish tradition."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Kemijärvi",
+            "hu": "Kemijärvi temploma",
+            "ro": "Biserica din Kemijärvi",
+            "en": "Kemijärvi Church"
+          },
+          "coords": [
+            27.427,
+            66.714
+          ],
+          "category": "churches",
+          "arrive_at": "11:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, aber elegante moderne finnische Kirchenarchitektur.",
+            "hu": "Csodálja meg az egyszerű, mégis elegáns modern finn egyházi építészetet.",
+            "ro": "Admirați arhitectura bisericească finlandeză modernă, simplă dar elegantă.",
+            "en": "Admire the simple yet elegant modern Finnish church architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Motorschlitten-Museum",
+            "hu": "Hómobil Múzeum",
+            "ro": "Muzeul Snowmobile-urilor",
+            "en": "Snowmobile Museum"
+          },
+          "coords": [
+            27.433,
+            66.711
+          ],
+          "category": "museums",
+          "arrive_at": "12:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Faszinierende Einblicke in die Geschichte des wichtigsten Transportmittels im Winter.",
+            "hu": "Lenyűgöző betekintés a legfontosabb téli közlekedési eszköz történetébe.",
+            "ro": "O perspectivă fascinantă asupra istoriei celui mai important mijloc de transport pe timp de iarnă.",
+            "en": "Fascinating insights into the history of the most important means of winter transport."
+          }
+        },
+        {
+          "name": {
+            "de": "Pöyliöjärvi See",
+            "hu": "Pöyliöjärvi-tó",
+            "ro": "Lacul Pöyliöjärvi",
+            "en": "Lake Pöyliöjärvi"
+          },
+          "coords": [
+            27.452,
+            66.705
+          ],
+          "category": "natural features",
+          "arrive_at": "14:37",
+          "stay_min": 98,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für eine Pause und um die ruhige arktische Natur zu genießen.",
+            "hu": "Tökéletes hely egy kis szünetre és a csendes sarkvidéki természet élvezetére.",
+            "ro": "Un loc perfect pentru o pauză și pentru a vă bucura de natura arctică liniștită.",
+            "en": "A perfect spot for a break and to enjoy the serene arctic nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Kemijärvi beginnt mit einem Eintauchen in die lokale Kultur im Kulturzentrum und der Holzskulpturengalerie. Am Vormittag erkunden Sie das spirituelle Herz der Stadt in der modernen Kirche und entdecken im Motorschlitten-Museum die Bedeutung des Winters. Der Nachmittag ist für einen entspannenden Spaziergang am malerischen Pöyliöjärvi-See reserviert. Am Abend lassen Sie die Eindrücke bei einem herzhaften lappländischen Abendessen in einem lokalen Restaurant ausklingen.",
+        "hu": "A kemijärvi-i nap a helyi kultúrában való elmerüléssel kezdődik a Kulturális Központban és a Faszobor Galériában. Délelőtt a modern templomban fedezi fel a város spirituális szívét, majd a Hómobil Múzeumban megismeri a tél fontosságát. A délután egy pihentető sétáé a festői Pöyliöjärvi-tónál. Este egy kiadós lappi vacsorával zárja a napot egy helyi étteremben.",
+        "ro": "Ziua dvs. în Kemijärvi începe cu o imersiune în cultura locală la Centrul Cultural și Galeria de Sculpturi în Lemn. Dimineața explorați inima spirituală a orașului la biserica modernă și descoperiți importanța iernii la Muzeul Snowmobile-urilor. După-amiaza este rezervată unei plimbări relaxante pe malul pitorescului lac Pöyliöjärvi. Seara, vă bucurați de impresii la o cină consistentă laponă într-un restaurant local.",
+        "en": "Your day in Kemijärvi begins with an immersion in local culture at the Cultural Centre and the Wood Sculpture Gallery. In the morning, you'll explore the spiritual heart of the city at the modern church and discover the importance of winter at the Snowmobile Museum. The afternoon is reserved for a relaxing walk by the picturesque Lake Pöyliöjärvi. In the evening, reflect on your experiences over a hearty Lappish dinner at a local restaurant."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rentiergeschnetzeltes (Poronkäristys)",
+            "tip": "Ein traditionelles lappländisches Gericht, serviert mit Kartoffelpüree und Preiselbeeren."
+          },
+          {
+            "name": "Gebratener Lachs",
+            "tip": "Frisch aus den lokalen Seen und Flüssen, oft über offenem Feuer zubereitet."
+          },
+          {
+            "name": "Moltebeeren-Dessert",
+            "tip": "Die „Goldbeere“ der Arktis, als warmer Nachtisch mit Käse (Leipäjuusto)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sautéed Reindeer (Poronkäristys)",
+            "tip": "Hagyományos lappi étel, burgonyapürével és vörös áfonyával tálalva."
+          },
+          {
+            "name": "Sült lazac",
+            "tip": "Frissen a helyi tavakból és folyókból, gyakran nyílt tűzön sütve."
+          },
+          {
+            "name": "Hamvas szeder desszert",
+            "tip": "Az sarkvidék aranybogyója, meleg desszertként sajttal (Leipäjuusto) tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Carne de ren sotată (Poronkäristys)",
+            "tip": "Un fel de mâncare tradițional lapon, servit cu piure de cartofi și merișoare."
+          },
+          {
+            "name": "Somon la grătar",
+            "tip": "Proaspăt din lacurile și râurile locale, adesea preparat pe foc deschis."
+          },
+          {
+            "name": "Desert cu mure pitice",
+            "tip": "„Boabele de aur” ale Arcticii, ca desert cald cu brânză (Leipäjuusto)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sautéed Reindeer (Poronkäristys)",
+            "tip": "A traditional Lappish dish served with mashed potatoes and lingonberries."
+          },
+          {
+            "name": "Grilled Salmon",
+            "tip": "Fresh from the local lakes and rivers, often cooked over an open fire."
+          },
+          {
+            "name": "Cloudberry Dessert",
+            "tip": "The 'gold berry' of the Arctic, served as a warm dessert with 'bread cheese' (Leipäjuusto)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Pöyliöjärvi-Sees",
+            "tip": "Finden Sie eine ruhige Bank und beobachten Sie die Wasservögel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kotavaara Aussichtsturm",
+            "tip": "Ein kurzer Ausflug für einen Panoramablick über die Wälder und Seen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kemijärvi Seeufer",
+            "tip": "Spazieren Sie entlang des größeren Sees für ein Gefühl von Weite und Stille.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pöyliöjärvi-tó partja",
+            "tip": "Keressen egy csendes padot, és figyelje a vízimadarakat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kotavaara kilátótorony",
+            "tip": "Egy rövid kirándulás a panorámás kilátásért az erdőkre és tavakra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kemijärvi-tó partja",
+            "tip": "Sétáljon a nagyobb tó mentén a tágasság és a csend érzéséért.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Pöyliöjärvi",
+            "tip": "Găsiți o bancă liniștită și priviți păsările de apă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Turnul de observație Kotavaara",
+            "tip": "O scurtă excursie pentru o vedere panoramică asupra pădurilor și lacurilor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malul lacului Kemijärvi",
+            "tip": "Plimbați-vă de-a lungul lacului mai mare pentru un sentiment de vastitate și liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shores of Lake Pöyliöjärvi",
+            "tip": "Find a quiet bench and watch the water birds.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kotavaara Observation Tower",
+            "tip": "A short trip for a panoramic view over the forests and lakes.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lake Kemijärvi Shoreline",
+            "tip": "Stroll along the larger lake for a feeling of vastness and silence.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Kunsthandwerk",
+            "tip": "Suchen Sie nach handgefertigten 'Kuksa'-Holztassen oder Rentierlederprodukten."
+          },
+          {
+            "name": "Holzskulpturen",
+            "tip": "Erwerben Sie ein einzigartiges Kunstwerk direkt von der Galerie."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen kézzel készített „Kuksa” facsészéket vagy rénszarvasbőr termékeket."
+          },
+          {
+            "name": "Faszobrok",
+            "tip": "Vásároljon egyedi műalkotást közvetlenül a galériából."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați cești de lemn 'Kuksa' lucrate manual sau produse din piele de ren."
+          },
+          {
+            "name": "Sculpturi în lemn",
+            "tip": "Achiziționați o operă de artă unică direct de la galerie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Handicrafts",
+            "tip": "Look for handmade 'Kuksa' wooden cups or reindeer leather products."
+          },
+          {
+            "name": "Wood Sculptures",
+            "tip": "Purchase a unique piece of art directly from the gallery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag auf den Beinen sein werden.",
+          "Eine wiederverwendbare Wasserflasche ist nützlich.",
+          "Das Wetter kann sich schnell ändern, packen Sie eine leichte Regenjacke ein.",
+          "Überprüfen Sie die Öffnungszeiten der Museen im Voraus, insbesondere außerhalb der Saison."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap talpon lesz.",
+          "Egy újrafelhasználható vizes palack hasznos lehet.",
+          "Az időjárás gyorsan változhat, csomagoljon egy könnyű esőkabátot.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét, különösen szezonon kívül."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți fi pe picioare toată ziua.",
+          "O sticlă de apă reutilizabilă este utilă.",
+          "Vremea se poate schimba rapid, așa că luați o jachetă de ploaie ușoară.",
+          "Verificați orele de deschidere ale muzeelor în avans, mai ales în afara sezonului."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be on your feet all day.",
+          "A reusable water bottle is useful.",
+          "The weather can change quickly, so pack a light rain jacket.",
+          "Check the opening hours of the museums in advance, especially outside of the main season."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pöyliöjärvi See",
+            "hu": "Pöyliöjärvi-tó",
+            "ro": "Lacul Pöyliöjärvi",
+            "en": "Lake Pöyliöjärvi"
+          },
+          "coords": [
+            27.452,
+            66.705
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einer erfrischenden Runde um den See.",
+            "hu": "Kezdje a napot egy frissítő körrel a tó körül.",
+            "ro": "Începeți ziua cu o tură revigorantă în jurul lacului.",
+            "en": "Start the day with a refreshing loop around the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Motorschlitten-Museum",
+            "hu": "Hómobil Múzeum",
+            "ro": "Muzeul Snowmobile-urilor",
+            "en": "Snowmobile Museum"
+          },
+          "coords": [
+            27.433,
+            66.711
+          ],
+          "category": "museums",
+          "arrive_at": "10:02",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und tauchen Sie ein in die arktische Transportgeschichte.",
+            "hu": "Tegye le a biciklit, és merüljön el a sarkvidéki közlekedés történetében.",
+            "ro": "Parcați bicicleta și scufundați-vă în istoria transportului arctic.",
+            "en": "Park your bike and dive into the history of Arctic transportation."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Kemijärvi",
+            "hu": "Kemijärvi Kulturális Központ",
+            "ro": "Centrul Cultural Kemijärvi",
+            "en": "Kemijärvi Cultural Centre"
+          },
+          "coords": [
+            27.4315,
+            66.715
+          ],
+          "category": "cultural centres",
+          "arrive_at": "11:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um die lokale Kunstszene zu erleben.",
+            "hu": "Egy rövid megálló, hogy megtapasztalja a helyi művészeti életet.",
+            "ro": "O oprire scurtă pentru a experimenta scena artistică locală.",
+            "en": "A short stop to experience the local art scene."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Kemijärvi",
+            "hu": "Kemijärvi temploma",
+            "ro": "Biserica din Kemijärvi",
+            "en": "Kemijärvi Church"
+          },
+          "coords": [
+            27.427,
+            66.714
+          ],
+          "category": "churches",
+          "arrive_at": "12:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die Architektur ist einen Besuch wert, auch wenn Sie nicht religiös sind.",
+            "hu": "Az építészet akkor is megér egy látogatást, ha nem vallásos.",
+            "ro": "Arhitectura merită o vizită chiar dacă nu sunteți religios.",
+            "en": "The architecture is worth a visit even if you are not religious."
+          }
+        },
+        {
+          "name": {
+            "de": "Ufer des Kemijärvi Sees",
+            "hu": "Kemijärvi-tó partja",
+            "ro": "Malul Lacului Kemijärvi",
+            "en": "Shores of Lake Kemijärvi"
+          },
+          "coords": [
+            27.41,
+            66.72
+          ],
+          "category": "natural features",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Weite des größten Sees in Lappland.",
+            "hu": "Élvezze Lappföld legnagyobb tavának tágasságát.",
+            "ro": "Bucurați-vă de vastitatea celui mai mare lac din Laponia.",
+            "en": "Enjoy the vastness of the largest lake in Lapland."
+          }
+        },
+        {
+          "name": {
+            "de": "Suomutunturi",
+            "hu": "Suomutunturi",
+            "ro": "Suomutunturi",
+            "en": "Suomutunturi"
+          },
+          "coords": [
+            27.31,
+            66.58
+          ],
+          "category": "natural features",
+          "arrive_at": "15:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Obwohl es weiter entfernt ist, ist die Aussicht vom Gipfel die Radtour wert.",
+            "hu": "Bár távolabb van, a csúcsról nyíló kilátás megéri a biciklizést.",
+            "ro": "Deși este mai departe, priveliștea de pe vârf merită călătoria cu bicicleta.",
+            "en": "Although it's further away, the view from the top is worth the bike ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt am Pöyliöjärvi-See, bevor Sie ins Zentrum radeln, um das Motorschlitten-Museum und das Kulturzentrum zu besuchen. Nach einem Blick auf die Kirche am Vormittag radeln Sie am Ufer des riesigen Kemijärvi-Sees entlang. Der Nachmittag ist einer anspruchsvolleren, aber lohnenden Fahrt zum Suomutunturi-Fjell gewidmet, wo Sie mit einer atemberaubenden Aussicht belohnt werden. Ein perfekter Abschluss für einen aktiven Tag in der Natur.",
+        "hu": "Kerékpártúrája a Pöyliöjärvi-tónál kezdődik, mielőtt a központba tekerne a Hómobil Múzeum és a Kulturális Központ meglátogatásához. Miután délelőtt vetett egy pillantást a templomra, a hatalmas Kemijärvi-tó partján halad tovább. A délután egy nagyobb kihívást jelentő, de annál kifizetődőbb úté a Suomutunturi hegyre, ahol lélegzetelállító kilátásban lesz része. Tökéletes befejezése egy aktív napnak a természetben.",
+        "ro": "Turul cu bicicleta începe la Lacul Pöyliöjärvi înainte de a pedala spre centru pentru a vizita Muzeul Snowmobile-urilor și Centrul Cultural. După o privire la biserică dimineața, pedalați de-a lungul malului imensului Lac Kemijärvi. După-amiaza este dedicată unei plimbări mai solicitante, dar plină de satisfacții, spre dealul Suomutunturi, unde veți fi răsplătit cu priveliști uimitoare. Un final perfect pentru o zi activă în natură.",
+        "en": "Your bike tour starts at Lake Pöyliöjärvi before cycling into the center to visit the Snowmobile Museum and Cultural Centre. After a look at the church in the morning, you cycle along the shore of the huge Lake Kemijärvi. The afternoon is dedicated to a more challenging but rewarding ride to Suomutunturi fell, where you'll be rewarded with breathtaking views. A perfect end to an active day in nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rentiergeschnetzeltes (Poronkäristys)",
+            "tip": "Ein traditionelles lappländisches Gericht, serviert mit Kartoffelpüree und Preiselbeeren."
+          },
+          {
+            "name": "Gebratener Lachs",
+            "tip": "Frisch aus den lokalen Seen und Flüssen, oft über offenem Feuer zubereitet."
+          },
+          {
+            "name": "Moltebeeren-Dessert",
+            "tip": "Die „Goldbeere“ der Arktis, als warmer Nachtisch mit Käse (Leipäjuusto)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sautéed Reindeer (Poronkäristys)",
+            "tip": "Hagyományos lappi étel, burgonyapürével és vörös áfonyával tálalva."
+          },
+          {
+            "name": "Sült lazac",
+            "tip": "Frissen a helyi tavakból és folyókból, gyakran nyílt tűzön sütve."
+          },
+          {
+            "name": "Hamvas szeder desszert",
+            "tip": "Az sarkvidék aranybogyója, meleg desszertként sajttal (Leipäjuusto) tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Carne de ren sotată (Poronkäristys)",
+            "tip": "Un fel de mâncare tradițional lapon, servit cu piure de cartofi și merișoare."
+          },
+          {
+            "name": "Somon la grătar",
+            "tip": "Proaspăt din lacurile și râurile locale, adesea preparat pe foc deschis."
+          },
+          {
+            "name": "Desert cu mure pitice",
+            "tip": "„Boabele de aur” ale Arcticii, ca desert cald cu brânză (Leipäjuusto)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sautéed Reindeer (Poronkäristys)",
+            "tip": "A traditional Lappish dish served with mashed potatoes and lingonberries."
+          },
+          {
+            "name": "Grilled Salmon",
+            "tip": "Fresh from the local lakes and rivers, often cooked over an open fire."
+          },
+          {
+            "name": "Cloudberry Dessert",
+            "tip": "The 'gold berry' of the Arctic, served as a warm dessert with 'bread cheese' (Leipäjuusto)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Pöyliöjärvi-Sees",
+            "tip": "Finden Sie eine ruhige Bank und beobachten Sie die Wasservögel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kotavaara Aussichtsturm",
+            "tip": "Ein kurzer Ausflug für einen Panoramablick über die Wälder und Seen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kemijärvi Seeufer",
+            "tip": "Spazieren Sie entlang des größeren Sees für ein Gefühl von Weite und Stille.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pöyliöjärvi-tó partja",
+            "tip": "Keressen egy csendes padot, és figyelje a vízimadarakat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kotavaara kilátótorony",
+            "tip": "Egy rövid kirándulás a panorámás kilátásért az erdőkre és tavakra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kemijärvi-tó partja",
+            "tip": "Sétáljon a nagyobb tó mentén a tágasság és a csend érzéséért.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Pöyliöjärvi",
+            "tip": "Găsiți o bancă liniștită și priviți păsările de apă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Turnul de observație Kotavaara",
+            "tip": "O scurtă excursie pentru o vedere panoramică asupra pădurilor și lacurilor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malul lacului Kemijärvi",
+            "tip": "Plimbați-vă de-a lungul lacului mai mare pentru un sentiment de vastitate și liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shores of Lake Pöyliöjärvi",
+            "tip": "Find a quiet bench and watch the water birds.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kotavaara Observation Tower",
+            "tip": "A short trip for a panoramic view over the forests and lakes.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lake Kemijärvi Shoreline",
+            "tip": "Stroll along the larger lake for a feeling of vastness and silence.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Kunsthandwerk",
+            "tip": "Suchen Sie nach handgefertigten 'Kuksa'-Holztassen oder Rentierlederprodukten."
+          },
+          {
+            "name": "Holzskulpturen",
+            "tip": "Erwerben Sie ein einzigartiges Kunstwerk direkt von der Galerie."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen kézzel készített „Kuksa” facsészéket vagy rénszarvasbőr termékeket."
+          },
+          {
+            "name": "Faszobrok",
+            "tip": "Vásároljon egyedi műalkotást közvetlenül a galériából."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați cești de lemn 'Kuksa' lucrate manual sau produse din piele de ren."
+          },
+          {
+            "name": "Sculpturi în lemn",
+            "tip": "Achiziționați o operă de artă unică direct de la galerie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Handicrafts",
+            "tip": "Look for handmade 'Kuksa' wooden cups or reindeer leather products."
+          },
+          {
+            "name": "Wood Sculptures",
+            "tip": "Purchase a unique piece of art directly from the gallery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Ein Helm wird dringend empfohlen.",
+          "Nehmen Sie ausreichend Wasser und Snacks für die längere Fahrt mit.",
+          "Beachten Sie, dass einige Wege unbefestigt sein können."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket és a gumikat.",
+          "Sisak használata erősen ajánlott.",
+          "Vigyen elegendő vizet és harapnivalót a hosszabb útra.",
+          "Vegye figyelembe, hogy egyes utak földutak lehetnek."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele și anvelopele.",
+          "O cască este foarte recomandată.",
+          "Luați suficientă apă și gustări pentru călătoria mai lungă.",
+          "Rețineți că unele poteci pot fi neasfaltate."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes and tires.",
+          "A helmet is highly recommended.",
+          "Bring enough water and snacks for the longer ride.",
+          "Be aware that some paths may be unpaved."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 29.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz im Zentrum",
+            "hu": "Parkoló a központban",
+            "ro": "Parcare în centru",
+            "en": "Parking in the Center"
+          },
+          "coords": [
+            27.428,
+            66.7155
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie den ersten Cluster zu Fuß.",
+            "hu": "Parkoljon itt, és fedezze fel az első látnivaló-csoportot gyalog.",
+            "ro": "Parcați aici și explorați primul grup de atracții pe jos.",
+            "en": "Park here and explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Holzskulpturengalerie",
+            "hu": "Faszobor Galéria",
+            "ro": "Galeria de Sculpturi în Lemn",
+            "en": "Wood Sculpture Gallery"
+          },
+          "coords": [
+            27.4295,
+            66.7161
+          ],
+          "category": "museums",
+          "arrive_at": "09:14",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Rundgang mit einem Einblick in die lokale Handwerkskunst.",
+            "hu": "Kezdje a sétát a helyi kézművesség megismerésével.",
+            "ro": "Începeți turul pietonal cu o incursiune în meșteșugurile locale.",
+            "en": "Start your walking tour with an insight into local craftsmanship."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Kemijärvi",
+            "hu": "Kemijärvi temploma",
+            "ro": "Biserica din Kemijärvi",
+            "en": "Kemijärvi Church"
+          },
+          "coords": [
+            27.427,
+            66.714
+          ],
+          "category": "churches",
+          "arrive_at": "10:20",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang führt Sie zu diesem architektonischen Wahrzeichen.",
+            "hu": "Egy rövid séta elvezeti ehhez az építészeti nevezetességhez.",
+            "ro": "O scurtă plimbare vă duce la acest reper arhitectural.",
+            "en": "A short walk takes you to this architectural landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Kotavaara Aussichtsturm",
+            "hu": "Kotavaara kilátótorony",
+            "ro": "Turnul de observație Kotavaara",
+            "en": "Kotavaara Observation Tower"
+          },
+          "coords": [
+            27.58,
+            66.7
+          ],
+          "category": "viewpoints",
+          "arrive_at": "11:25",
+          "stay_min": 45,
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 11.8,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Turm für einen atemberaubenden 360-Grad-Blick auf die Landschaft.",
+            "hu": "Vezessen a toronyhoz, ahonnan lélegzetelállító 360 fokos kilátás nyílik a tájra.",
+            "ro": "Conduceți la turn pentru o priveliște uluitoare de 360 de grade a peisajului.",
+            "en": "Drive to the tower for a stunning 360-degree view of the landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Suomutunturi",
+            "hu": "Suomutunturi",
+            "ro": "Suomutunturi",
+            "en": "Suomutunturi"
+          },
+          "coords": [
+            27.31,
+            66.58
+          ],
+          "category": "natural features",
+          "arrive_at": "12:51",
+          "stay_min": 150,
+          "hop_mode": "car",
+          "hop_from_prev_min": 41,
+          "hop_from_prev_km": 17.5,
+          "tip_5lang": {
+            "de": "Verbringen Sie den Nachmittag in diesem beliebten Erholungsgebiet. Zeit für Mittagessen und eine kurze Wanderung.",
+            "hu": "Töltse a délutánt ebben a népszerű üdülőövezetben. Ebédidő és egy rövid túra.",
+            "ro": "Petreceți după-amiaza în această zonă populară de agrement. Timp pentru prânz și o scurtă drumeție.",
+            "en": "Spend the afternoon at this popular recreational area. Time for lunch and a short hike."
+          }
+        },
+        {
+          "name": {
+            "de": "Kemijärvi See",
+            "hu": "Kemijärvi-tó",
+            "ro": "Lacul Kemijärvi",
+            "en": "Lake Kemijärvi"
+          },
+          "coords": [
+            27.41,
+            66.72
+          ],
+          "category": "natural features",
+          "arrive_at": "16:21",
+          "stay_min": 118,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Spaziergang am Ufer, nachdem Sie am Suomutunturi geparkt haben.",
+            "hu": "Zárja a napot egy tóparti sétával, miután leparkolt a Suomutunturinál.",
+            "ro": "Încheiați ziua cu o plimbare pe malul lacului după ce ați parcat la Suomutunturi.",
+            "en": "End the day with a lakeside stroll after parking near Suomutunturi."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Autotag, indem Sie im Zentrum von Kemijärvi parken. Erkunden Sie den ersten Cluster zu Fuß: die Holzskulpturengalerie und die Kirche. Am späten Vormittag fahren Sie zum Kotavaara-Aussichtsturm für eine spektakuläre Aussicht. Der Nachmittag gehört dem Suomutunturi-Fjell, wo Sie zu Mittag essen und die Natur genießen können. Zum Abschluss des Tages kehren Sie zurück in die Nähe der Stadt für einen ruhigen Spaziergang am Ufer des großen Kemijärvi-Sees.",
+        "hu": "Kezdje az autós napot egy parkolással Kemijärvi központjában. Fedezze fel az első látnivalócsoportot gyalog: a Faszobor Galériát és a templomot. Késő délelőtt vezessen a Kotavaara kilátótoronyhoz a látványos kilátásért. A délután a Suomutunturi hegyé, ahol megebédelhet és élvezheti a természetet. A nap végén térjen vissza a város közelébe egy csendes sétára a nagy Kemijärvi-tó partján.",
+        "ro": "Începeți ziua cu mașina parcând în centrul orașului Kemijärvi. Explorați primul grup de atracții pe jos: Galeria de Sculpturi în Lemn și biserica. Spre sfârșitul dimineții, conduceți la Turnul de Observație Kotavaara pentru o priveliște spectaculoasă. După-amiaza este dedicată dealului Suomutunturi, unde puteți lua prânzul și vă puteți bucura de natură. Încheiați ziua revenind lângă oraș pentru o plimbare liniștită pe malul marelui lac Kemijärvi.",
+        "en": "Start your car day by parking in the center of Kemijärvi. Explore the first cluster on foot: the Wood Sculpture Gallery and the church. In the late morning, drive to the Kotavaara Observation Tower for a spectacular view. The afternoon belongs to Suomutunturi fell, where you can have lunch and enjoy nature. End the day by returning near the town for a quiet walk along the shore of the large Lake Kemijärvi."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rentiergeschnetzeltes (Poronkäristys)",
+            "tip": "Ein traditionelles lappländisches Gericht, serviert mit Kartoffelpüree und Preiselbeeren."
+          },
+          {
+            "name": "Gebratener Lachs",
+            "tip": "Frisch aus den lokalen Seen und Flüssen, oft über offenem Feuer zubereitet."
+          },
+          {
+            "name": "Moltebeeren-Dessert",
+            "tip": "Die „Goldbeere“ der Arktis, als warmer Nachtisch mit Käse (Leipäjuusto)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sautéed Reindeer (Poronkäristys)",
+            "tip": "Hagyományos lappi étel, burgonyapürével és vörös áfonyával tálalva."
+          },
+          {
+            "name": "Sült lazac",
+            "tip": "Frissen a helyi tavakból és folyókból, gyakran nyílt tűzön sütve."
+          },
+          {
+            "name": "Hamvas szeder desszert",
+            "tip": "Az sarkvidék aranybogyója, meleg desszertként sajttal (Leipäjuusto) tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Carne de ren sotată (Poronkäristys)",
+            "tip": "Un fel de mâncare tradițional lapon, servit cu piure de cartofi și merișoare."
+          },
+          {
+            "name": "Somon la grătar",
+            "tip": "Proaspăt din lacurile și râurile locale, adesea preparat pe foc deschis."
+          },
+          {
+            "name": "Desert cu mure pitice",
+            "tip": "„Boabele de aur” ale Arcticii, ca desert cald cu brânză (Leipäjuusto)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sautéed Reindeer (Poronkäristys)",
+            "tip": "A traditional Lappish dish served with mashed potatoes and lingonberries."
+          },
+          {
+            "name": "Grilled Salmon",
+            "tip": "Fresh from the local lakes and rivers, often cooked over an open fire."
+          },
+          {
+            "name": "Cloudberry Dessert",
+            "tip": "The 'gold berry' of the Arctic, served as a warm dessert with 'bread cheese' (Leipäjuusto)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Pöyliöjärvi-Sees",
+            "tip": "Finden Sie eine ruhige Bank und beobachten Sie die Wasservögel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kotavaara Aussichtsturm",
+            "tip": "Ein kurzer Ausflug für einen Panoramablick über die Wälder und Seen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kemijärvi Seeufer",
+            "tip": "Spazieren Sie entlang des größeren Sees für ein Gefühl von Weite und Stille.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pöyliöjärvi-tó partja",
+            "tip": "Keressen egy csendes padot, és figyelje a vízimadarakat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kotavaara kilátótorony",
+            "tip": "Egy rövid kirándulás a panorámás kilátásért az erdőkre és tavakra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kemijärvi-tó partja",
+            "tip": "Sétáljon a nagyobb tó mentén a tágasság és a csend érzéséért.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Pöyliöjärvi",
+            "tip": "Găsiți o bancă liniștită și priviți păsările de apă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Turnul de observație Kotavaara",
+            "tip": "O scurtă excursie pentru o vedere panoramică asupra pădurilor și lacurilor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malul lacului Kemijärvi",
+            "tip": "Plimbați-vă de-a lungul lacului mai mare pentru un sentiment de vastitate și liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shores of Lake Pöyliöjärvi",
+            "tip": "Find a quiet bench and watch the water birds.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kotavaara Observation Tower",
+            "tip": "A short trip for a panoramic view over the forests and lakes.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lake Kemijärvi Shoreline",
+            "tip": "Stroll along the larger lake for a feeling of vastness and silence.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Kunsthandwerk",
+            "tip": "Suchen Sie nach handgefertigten 'Kuksa'-Holztassen oder Rentierlederprodukten."
+          },
+          {
+            "name": "Holzskulpturen",
+            "tip": "Erwerben Sie ein einzigartiges Kunstwerk direkt von der Galerie."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen kézzel készített „Kuksa” facsészéket vagy rénszarvasbőr termékeket."
+          },
+          {
+            "name": "Faszobrok",
+            "tip": "Vásároljon egyedi műalkotást közvetlenül a galériából."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați cești de lemn 'Kuksa' lucrate manual sau produse din piele de ren."
+          },
+          {
+            "name": "Sculpturi în lemn",
+            "tip": "Achiziționați o operă de artă unică direct de la galerie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Handicrafts",
+            "tip": "Look for handmade 'Kuksa' wooden cups or reindeer leather products."
+          },
+          {
+            "name": "Wood Sculptures",
+            "tip": "Purchase a unique piece of art directly from the gallery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten und -gebühren im Voraus.",
+          "Tanken Sie Ihr Auto voll, da Tankstellen in ländlichen Gebieten selten sein können.",
+          "Planen Sie zusätzliche Zeit für unvorhergesehene Stopps für Fotos ein.",
+          "Ein GPS oder eine Offline-Karte ist unerlässlich."
+        ],
+        "hu": [
+          "Előre ellenőrizze a parkolási lehetőségeket és díjakat.",
+          "Töltse tele az autót, mert a benzinkutak ritkák lehetnek a vidéki területeken.",
+          "Tervezzen plusz időt a váratlan fotómegállókra.",
+          "GPS vagy offline térkép elengedhetetlen."
+        ],
+        "ro": [
+          "Verificați opțiunile de parcare și taxele în avans.",
+          "Alimentați mașina, deoarece benzinăriile pot fi rare în zonele rurale.",
+          "Planificați timp suplimentar pentru opriri neprevăzute pentru fotografii.",
+          "Un GPS sau o hartă offline este esențială."
+        ],
+        "en": [
+          "Check parking options and fees in advance.",
+          "Fill up your car, as gas stations can be scarce in rural areas.",
+          "Plan for extra time for unforeseen photo stops.",
+          "A GPS or an offline map is essential."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 5.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Busbahnhof",
+            "hu": "Központi buszpályaudvar",
+            "ro": "Autogara Centrală",
+            "en": "Central Bus Station"
+          },
+          "coords": [
+            27.435,
+            66.713
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier Ihre Erkundung mit den öffentlichen Verkehrsmitteln.",
+            "hu": "Kezdje innen a felfedezést a tömegközlekedéssel.",
+            "ro": "Începeți explorarea de aici folosind transportul public.",
+            "en": "Start your exploration here using public transport."
+          }
+        },
+        {
+          "name": {
+            "de": "Motorschlitten-Museum",
+            "hu": "Hómobil Múzeum",
+            "ro": "Muzeul Snowmobile-urilor",
+            "en": "Snowmobile Museum"
+          },
+          "coords": [
+            27.433,
+            66.711
+          ],
+          "category": "museums",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang von der Bushaltestelle entfernt.",
+            "hu": "Csak egy rövid séta a buszmegállótól.",
+            "ro": "La doar o scurtă plimbare de stația de autobuz.",
+            "en": "Just a short walk from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Kemijärvi",
+            "hu": "Kemijärvi temploma",
+            "ro": "Biserica din Kemijärvi",
+            "en": "Kemijärvi Church"
+          },
+          "coords": [
+            27.427,
+            66.714
+          ],
+          "category": "churches",
+          "arrive_at": "11:01",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch das Stadtzentrum zu diesem markanten Gebäude.",
+            "hu": "Sétáljon át a városközponton ehhez a jellegzetes épülethez.",
+            "ro": "Plimbați-vă prin centrul orașului până la această clădire remarcabilă.",
+            "en": "Stroll through the town center to this striking building."
+          }
+        },
+        {
+          "name": {
+            "de": "Pöyliöjärvi See",
+            "hu": "Pöyliöjärvi-tó",
+            "ro": "Lacul Pöyliöjärvi",
+            "en": "Lake Pöyliöjärvi"
+          },
+          "coords": [
+            27.452,
+            66.705
+          ],
+          "category": "natural features",
+          "arrive_at": "12:33",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus zum See für die Mittagspause und Entspannung.",
+            "hu": "Menjen helyi busszal a tóhoz ebédelni és pihenni.",
+            "ro": "Luați un autobuz local până la lac pentru o pauză de prânz și relaxare.",
+            "en": "Take a local bus to the lake for your lunch break and relaxation."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Kemijärvi",
+            "hu": "Kemijärvi Kulturális Központ",
+            "ro": "Centrul Cultural Kemijärvi",
+            "en": "Kemijärvi Cultural Centre"
+          },
+          "coords": [
+            27.4315,
+            66.715
+          ],
+          "category": "cultural centres",
+          "arrive_at": "15:21",
+          "stay_min": 130,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Fahren Sie zurück ins Zentrum und beenden Sie den Tag mit Kunst und Kultur.",
+            "hu": "Utazzon vissza a központba, és fejezze be a napot művészettel és kultúrával.",
+            "ro": "Călătoriți înapoi în centru și încheiați ziua cu artă și cultură.",
+            "en": "Travel back to the center and end your day with art and culture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Tour mit öffentlichen Verkehrsmitteln startet im Zentrum. Ein Spaziergang führt Sie zum Motorschlitten-Museum und zur Kirche. Am Mittag nehmen Sie den Bus zum Pöyliöjärvi-See, einem perfekten Ort für ein Picknick und eine Pause in der Natur. Am Nachmittag fahren Sie mit dem Bus zurück ins Herz der Stadt, um das Kulturzentrum zu erkunden. Der Abend bietet die Gelegenheit, lokale Spezialitäten zu probieren, bevor Sie den Bus zurück nehmen.",
+        "hu": "A tömegközlekedési túra a központból indul. Egy séta elvezeti a Hómobil Múzeumhoz és a templomhoz. Délben busszal megy a Pöyliöjärvi-tóhoz, amely tökéletes hely egy piknikre és a természetben való pihenésre. Délután busszal tér vissza a város szívébe, hogy felfedezze a Kulturális Központot. Az este lehetőséget nyújt a helyi specialitások megkóstolására, mielőtt visszaindulna a busszal.",
+        "ro": "Turul dvs. cu transportul public începe în centru. O plimbare vă duce la Muzeul Snowmobile-urilor și la biserică. La prânz, luați autobuzul spre Lacul Pöyliöjärvi, un loc perfect pentru un picnic și o pauză în natură. După-amiaza, luați autobuzul înapoi în inima orașului pentru a explora Centrul Cultural. Seara oferă ocazia de a gusta specialități locale înainte de a lua autobuzul înapoi.",
+        "en": "Your public transport tour starts in the center. A walk takes you to the Snowmobile Museum and the church. At noon, you take the bus to Lake Pöyliöjärvi, a perfect spot for a picnic and a break in nature. In the afternoon, you bus back to the heart of the city to explore the Cultural Centre. The evening offers an opportunity to taste local specialties before taking the bus back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rentiergeschnetzeltes (Poronkäristys)",
+            "tip": "Ein traditionelles lappländisches Gericht, serviert mit Kartoffelpüree und Preiselbeeren."
+          },
+          {
+            "name": "Gebratener Lachs",
+            "tip": "Frisch aus den lokalen Seen und Flüssen, oft über offenem Feuer zubereitet."
+          },
+          {
+            "name": "Moltebeeren-Dessert",
+            "tip": "Die „Goldbeere“ der Arktis, als warmer Nachtisch mit Käse (Leipäjuusto)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sautéed Reindeer (Poronkäristys)",
+            "tip": "Hagyományos lappi étel, burgonyapürével és vörös áfonyával tálalva."
+          },
+          {
+            "name": "Sült lazac",
+            "tip": "Frissen a helyi tavakból és folyókból, gyakran nyílt tűzön sütve."
+          },
+          {
+            "name": "Hamvas szeder desszert",
+            "tip": "Az sarkvidék aranybogyója, meleg desszertként sajttal (Leipäjuusto) tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Carne de ren sotată (Poronkäristys)",
+            "tip": "Un fel de mâncare tradițional lapon, servit cu piure de cartofi și merișoare."
+          },
+          {
+            "name": "Somon la grătar",
+            "tip": "Proaspăt din lacurile și râurile locale, adesea preparat pe foc deschis."
+          },
+          {
+            "name": "Desert cu mure pitice",
+            "tip": "„Boabele de aur” ale Arcticii, ca desert cald cu brânză (Leipäjuusto)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sautéed Reindeer (Poronkäristys)",
+            "tip": "A traditional Lappish dish served with mashed potatoes and lingonberries."
+          },
+          {
+            "name": "Grilled Salmon",
+            "tip": "Fresh from the local lakes and rivers, often cooked over an open fire."
+          },
+          {
+            "name": "Cloudberry Dessert",
+            "tip": "The 'gold berry' of the Arctic, served as a warm dessert with 'bread cheese' (Leipäjuusto)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Pöyliöjärvi-Sees",
+            "tip": "Finden Sie eine ruhige Bank und beobachten Sie die Wasservögel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kotavaara Aussichtsturm",
+            "tip": "Ein kurzer Ausflug für einen Panoramablick über die Wälder und Seen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kemijärvi Seeufer",
+            "tip": "Spazieren Sie entlang des größeren Sees für ein Gefühl von Weite und Stille.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pöyliöjärvi-tó partja",
+            "tip": "Keressen egy csendes padot, és figyelje a vízimadarakat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kotavaara kilátótorony",
+            "tip": "Egy rövid kirándulás a panorámás kilátásért az erdőkre és tavakra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kemijärvi-tó partja",
+            "tip": "Sétáljon a nagyobb tó mentén a tágasság és a csend érzéséért.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Pöyliöjärvi",
+            "tip": "Găsiți o bancă liniștită și priviți păsările de apă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Turnul de observație Kotavaara",
+            "tip": "O scurtă excursie pentru o vedere panoramică asupra pădurilor și lacurilor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malul lacului Kemijärvi",
+            "tip": "Plimbați-vă de-a lungul lacului mai mare pentru un sentiment de vastitate și liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shores of Lake Pöyliöjärvi",
+            "tip": "Find a quiet bench and watch the water birds.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kotavaara Observation Tower",
+            "tip": "A short trip for a panoramic view over the forests and lakes.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lake Kemijärvi Shoreline",
+            "tip": "Stroll along the larger lake for a feeling of vastness and silence.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Kunsthandwerk",
+            "tip": "Suchen Sie nach handgefertigten 'Kuksa'-Holztassen oder Rentierlederprodukten."
+          },
+          {
+            "name": "Holzskulpturen",
+            "tip": "Erwerben Sie ein einzigartiges Kunstwerk direkt von der Galerie."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen kézzel készített „Kuksa” facsészéket vagy rénszarvasbőr termékeket."
+          },
+          {
+            "name": "Faszobrok",
+            "tip": "Vásároljon egyedi műalkotást közvetlenül a galériából."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați cești de lemn 'Kuksa' lucrate manual sau produse din piele de ren."
+          },
+          {
+            "name": "Sculpturi în lemn",
+            "tip": "Achiziționați o operă de artă unică direct de la galerie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Handicrafts",
+            "tip": "Look for handmade 'Kuksa' wooden cups or reindeer leather products."
+          },
+          {
+            "name": "Wood Sculptures",
+            "tip": "Purchase a unique piece of art directly from the gallery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Überprüfen Sie den Busfahrplan im Voraus, da die Busse möglicherweise nicht häufig verkehren.",
+          "Seien Sie pünktlich an der Bushaltestelle, besonders auf dem Land.",
+          "Einige Busse akzeptieren möglicherweise nur Bargeld."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Előre ellenőrizze a buszmenetrendet, mivel a járatok ritkák lehetnek.",
+          "Legyen pontosan a buszmegállóban, különösen vidéken.",
+          "Néhány busz csak készpénzt fogadhat el."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Verificați programul autobuzelor în avans, deoarece este posibil ca acestea să nu circule frecvent.",
+          "Fiți la stația de autobuz la timp, mai ales în zonele rurale.",
+          "Este posibil ca unele autobuze să accepte doar numerar."
+        ],
+        "en": [
+          "Buy a day pass for unlimited travel.",
+          "Check the bus schedule in advance, as services may not be frequent.",
+          "Be at the bus stop on time, especially in rural areas.",
+          "Some buses may only accept cash."
+        ]
+      }
+    }
+  }
+}

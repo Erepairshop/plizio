@@ -1,0 +1,1460 @@
+{
+  "city_id": "uk-chester-cities-v2",
+  "anchor": {
+    "name": "Chester",
+    "coords": [
+      -2.8919,
+      53.1905
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Beginnen Sie bei den Chester Rows",
+            "hu": "Kezdés a Chester Rows-nál",
+            "ro": "Începeți la Chester Rows",
+            "en": "Start at Chester Rows"
+          },
+          "coords": [
+            -2.891,
+            53.1904
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die einzigartigen zweistöckigen Geschäfte.",
+            "hu": "Fedezd fel az egyedi, kétszintes üzleteket.",
+            "ro": "Explorați magazinele unice pe două niveluri.",
+            "en": "Explore the unique two-level shops."
+          }
+        },
+        {
+          "name": {
+            "de": "Eastgate und die Eastgate Clock",
+            "hu": "Eastgate és az Eastgate Óra",
+            "ro": "Eastgate și Ceasul Eastgate",
+            "en": "Eastgate and the Eastgate Clock"
+          },
+          "coords": [
+            -2.8885,
+            53.1912
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:55",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Dies ist die meistfotografierte Uhr in England nach dem Big Ben.",
+            "hu": "Ez Anglia legtöbbet fotózott órája a Big Ben után.",
+            "ro": "Acesta este cel mai fotografiat ceas din Anglia după Big Ben.",
+            "en": "This is the most photographed clock in England after Big Ben."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang auf den Stadtmauern von Chester",
+            "hu": "Séta a chesteri városfalakon",
+            "ro": "Plimbare pe Zidurile Orașului Chester",
+            "en": "Walk the Chester City Walls"
+          },
+          "coords": [
+            -2.887,
+            53.189
+          ],
+          "category": "historical",
+          "arrive_at": "10:25",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Machen Sie den kompletten Rundgang für tolle Ausblicke auf die Stadt.",
+            "hu": "Tedd meg a teljes kört a városra nyíló nagyszerű kilátásért.",
+            "ro": "Faceți circuitul complet pentru vederi minunate ale orașului.",
+            "en": "Do the full circuit for great views of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Amphitheater",
+            "hu": "Római amfiteátrum",
+            "ro": "Amfiteatrul Roman",
+            "en": "Roman Amphitheatre"
+          },
+          "coords": [
+            -2.8868,
+            53.1884
+          ],
+          "category": "historical",
+          "arrive_at": "11:55",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Stellen Sie sich die Gladiatorenkämpfe im größten Amphitheater Großbritanniens vor.",
+            "hu": "Képzeld el a gladiátorharcokat Britannia legnagyobb amfiteátrumában.",
+            "ro": "Imaginați-vă luptele de gladiatori în cel mai mare amfiteatru din Marea Britanie.",
+            "en": "Imagine the gladiator contests in Britain's largest amphitheatre."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Chester",
+            "hu": "Chesteri katedrális",
+            "ro": "Catedrala din Chester",
+            "en": "Chester Cathedral"
+          },
+          "coords": [
+            -2.8915,
+            53.192
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die wunderschönen Gärten und das Refektoriumscafé.",
+            "hu": "Ne hagyd ki a gyönyörű kerteket és a refektóriumi kávézót.",
+            "ro": "Nu ratați grădinile frumoase și cafeneaua din refectoriu.",
+            "en": "Don't miss the beautiful gardens and the refectory cafe."
+          }
+        },
+        {
+          "name": {
+            "de": "Grosvenor-Museum",
+            "hu": "Grosvenor Múzeum",
+            "ro": "Muzeul Grosvenor",
+            "en": "Grosvenor Museum"
+          },
+          "coords": [
+            -2.896,
+            53.1878
+          ],
+          "category": "museums",
+          "arrive_at": "14:25",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie römische Grabsteine und ein viktorianisches Naturkundemuseum.",
+            "hu": "Fedezd fel a római sírköveket és egy viktoriánus természettudományi múzeumot.",
+            "ro": "Descoperiți pietre funerare romane și un muzeu de istorie naturală victoriană.",
+            "en": "Discover Roman tombstones and a Victorian natural history museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Entspannung im Grosvenor Park",
+            "hu": "Pihenés a Grosvenor Parkban",
+            "ro": "Relaxare în Parcul Grosvenor",
+            "en": "Relax at Grosvenor Park"
+          },
+          "coords": [
+            -2.882,
+            53.1895
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:25",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Spaziergang oder eine Fahrt mit der Miniatureisenbahn.",
+            "hu": "Tegyen egy békés sétát vagy utazzon a miniatűr vasúton.",
+            "ro": "Bucurați-vă de o plimbare liniștită sau de o călătorie cu trenul miniatural.",
+            "en": "Enjoy a peaceful walk or a ride on the miniature railway."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit der Erkundung der einzigartigen, zweistöckigen Chester Rows und der berühmten Eastgate Clock. Schlendern Sie anschließend entlang der am besten erhaltenen Stadtmauern Großbritanniens, die Sie zum größten römischen Amphitheater des Landes führen. Am Nachmittag tauchen Sie in die tausendjährige Geschichte der Kathedrale von Chester ein und entdecken die römische Vergangenheit der Stadt im Grosvenor Museum. Beenden Sie Ihren Tag mit einem entspannenden Spaziergang durch den wunderschönen viktorianischen Grosvenor Park am Fluss Dee.",
+        "hu": "Kezdje a napot az egyedi, kétszintes Chester Rows és a híres Eastgate óra felfedezésével. Sétáljon végig Britannia legjobb állapotban fennmaradt városfalain, amelyek elvezetik az ország legnagyobb római amfiteátrumához. Délután merüljön el a Chesteri katedrális ezeréves történelmében, majd fedezze fel a város római múltját a Grosvenor Múzeumban. Zárja a napot egy pihentető sétával a Dee folyó melletti gyönyörű viktoriánus Grosvenor Parkban.",
+        "ro": "Începeți-vă ziua explorând unicele Chester Rows cu două niveluri și faimosul ceas Eastgate. Apoi, plimbați-vă de-a lungul celor mai bine conservate ziduri ale orașului din Marea Britanie, care vă vor conduce la cel mai mare amfiteatru roman din țară. După-amiaza, pătrundeți în istoria de o mie de ani a Catedralei din Chester și descoperiți trecutul roman al orașului la Muzeul Grosvenor. Încheiați-vă ziua cu o plimbare relaxantă prin frumosul Parc Grosvenor victorian de lângă râul Dee.",
+        "en": "Start your day exploring the unique, two-level Chester Rows and the famous Eastgate Clock. Then, stroll along Britain's most complete city walls, which will lead you to the country's largest Roman Amphitheatre. In the afternoon, delve into a thousand years of history at Chester Cathedral and discover the city's Roman past at the Grosvenor Museum. End your day with a relaxing walk through the beautiful Victorian Grosvenor Park by the River Dee."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cheshire-Käse",
+            "tip": "Probieren Sie den krümeligen, salzigen Käse, eine lokale Spezialität."
+          },
+          {
+            "name": "The Architect",
+            "tip": "Ein beliebtes Gastropub mit großartiger Aussicht und klassischer britischer Küche."
+          },
+          {
+            "name": "Sticky Walnut",
+            "tip": "Ein preisgekröntes Bistro, das für seine hervorragende Küche bekannt ist; Reservierung empfohlen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cheshire sajt",
+            "tip": "Kóstolja meg a morzsás, sós sajtot, egy helyi különlegességet."
+          },
+          {
+            "name": "The Architect",
+            "tip": "Népszerű gasztropub nagyszerű kilátással és klasszikus brit ételekkel."
+          },
+          {
+            "name": "Sticky Walnut",
+            "tip": "Díjnyertes bisztró, amely kiváló ételeiről ismert; foglalás ajánlott."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză Cheshire",
+            "tip": "Încercați brânza sfărâmicioasă și sărată, o specialitate locală."
+          },
+          {
+            "name": "The Architect",
+            "tip": "Un gastropub popular cu vederi minunate și mâncare britanică clasică."
+          },
+          {
+            "name": "Sticky Walnut",
+            "tip": "Un bistro premiat, cunoscut pentru mâncarea sa excelentă; se recomandă rezervarea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cheshire Cheese",
+            "tip": "Try the crumbly, salty cheese, a local specialty."
+          },
+          {
+            "name": "The Architect",
+            "tip": "A popular gastropub with great views and classic British food."
+          },
+          {
+            "name": "Sticky Walnut",
+            "tip": "An award-winning bistro known for its excellent food; booking recommended."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kathedralengärten",
+            "tip": "Finden Sie eine ruhige Oase im Herzen der Stadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Flussufer des Dee",
+            "tip": "Ein friedlicher Spaziergang entlang des Flusses, besonders am frühen Morgen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Römergärten",
+            "tip": "Ein kleiner, ruhiger Park mit römischen Artefakten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Katedrális kertjei",
+            "tip": "Találjon egy csendes oázist a város szívében.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dee folyó partja",
+            "tip": "Békés séta a folyó mentén, különösen kora reggel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Római kertek",
+            "tip": "Egy kicsi, csendes park római leletekkel.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Catedralei",
+            "tip": "Găsiți o oază de liniște în inima orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malurile râului Dee",
+            "tip": "O plimbare liniștită de-a lungul râului, mai ales dimineața devreme.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Romane",
+            "tip": "Un parc mic și liniștit, cu artefacte romane.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cathedral Gardens",
+            "tip": "Find a quiet oasis in the heart of the city.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "River Dee Banks",
+            "tip": "A peaceful stroll along the river, especially in the early morning.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Roman Gardens",
+            "tip": "A small, quiet park displaying Roman artefacts.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "The Rows",
+            "tip": "Ein einzigartiges Einkaufserlebnis mit unabhängigen Boutiquen und bekannten Marken."
+          },
+          {
+            "name": "Chester Market",
+            "tip": "Ein moderner Indoor-Markt mit Lebensmitteln, Geschenken und Street Food."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Rows",
+            "tip": "Egyedi vásárlási élmény független butikokkal és ismert márkákkal."
+          },
+          {
+            "name": "Chesteri piac",
+            "tip": "Modern beltéri piac élelmiszerrel, ajándékokkal és street fooddal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Rows",
+            "tip": "O experiență unică de cumpărături cu buticuri independente și mărci cunoscute."
+          },
+          {
+            "name": "Piața Chester",
+            "tip": "O piață interioară modernă cu mâncare, cadouri și street food."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Rows",
+            "tip": "A unique shopping experience with independent boutiques and high-street brands."
+          },
+          {
+            "name": "Chester Market",
+            "tip": "A modern indoor market with food, gifts, and street food stalls."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel auf Kopfsteinpflaster laufen werden.",
+          "Die Stadtmauern bieten eine großartige Möglichkeit, sich zu orientieren.",
+          "Viele der zentralen Sehenswürdigkeiten liegen sehr nah beieinander.",
+          "Prüfen Sie die Öffnungszeiten der Kathedrale auf besondere Veranstaltungen oder Gottesdienste."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog macskaköves utakon sétálni.",
+          "A városfalak nagyszerű tájékozódási pontot jelentenek.",
+          "Sok központi látnivaló nagyon közel van egymáshoz.",
+          "Ellenőrizze a katedrális nyitvatartási idejét különleges események vagy istentiszteletek miatt."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe străzi pietruite.",
+          "Zidurile orașului oferă o modalitate excelentă de a vă orienta.",
+          "Multe dintre atracțiile centrale sunt foarte apropiate unele de altele.",
+          "Verificați programul Catedralei pentru evenimente speciale sau slujbe."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be walking on cobbled streets a lot.",
+          "The city walls offer a great way to orient yourself.",
+          "Many of the central attractions are very close to each other.",
+          "Check the Cathedral's opening times for any special events or services."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:16",
+      "total_km": 10.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Start am Chester Cross & Rows",
+            "hu": "Indulás a Chester Cross & Rows-tól",
+            "ro": "Pornire de la Chester Cross & Rows",
+            "en": "Start at Chester Cross & Rows"
+          },
+          "coords": [
+            -2.891,
+            53.1904
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und erkunden Sie die Gänge zu Fuß.",
+            "hu": "Zárd le a biciklidet és fedezd fel a „Rows”-t gyalog.",
+            "ro": "Legați-vă bicicleta și explorați galeriile pe jos.",
+            "en": "Lock up your bike and explore the galleries on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Chester",
+            "hu": "Chesteri katedrális",
+            "ro": "Catedrala din Chester",
+            "en": "Chester Cathedral"
+          },
+          "coords": [
+            -2.8915,
+            53.192
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:44",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Es gibt Fahrradständer in der Nähe des Haupteingangs.",
+            "hu": "A főbejárat közelében vannak kerékpártárolók.",
+            "ro": "Există suporturi pentru biciclete lângă intrarea principală.",
+            "en": "There are bike racks available near the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt entlang der Stadtmauern",
+            "hu": "Kerékpározás a városfalak mentén",
+            "ro": "Plimbare cu bicicleta de-a lungul zidurilor orașului",
+            "en": "Ride alongside the City Walls"
+          },
+          "coords": [
+            -2.898,
+            53.191
+          ],
+          "category": "historical",
+          "arrive_at": "10:53",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Obwohl man nicht auf den Mauern fahren kann, ist der Weg daneben großartig.",
+            "hu": "Bár nem lehet a falakon biciklizni, a mellette lévő út nagyszerű.",
+            "ro": "Deși nu puteți merge cu bicicleta pe ziduri, traseul de lângă ele este excelent.",
+            "en": "While you can't cycle on the walls, the path alongside is great."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Amphitheater und Gärten",
+            "hu": "Római amfiteátrum és kertek",
+            "ro": "Amfiteatrul și Grădinile Romane",
+            "en": "Roman Amphitheatre and Gardens"
+          },
+          "coords": [
+            -2.8868,
+            53.1884
+          ],
+          "category": "historical",
+          "arrive_at": "12:05",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Kombinieren Sie Ihren Besuch mit einer Pause in den angrenzenden Römischen Gärten.",
+            "hu": "Kombináld a látogatást egy pihenővel a szomszédos Római Kertekben.",
+            "ro": "Combinați vizita cu o pauză în Grădinile Romane adiacente.",
+            "en": "Combine your visit with a break in the adjoining Roman Gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt am Fluss Dee entlang zum Grosvenor Park",
+            "hu": "Kerékpártúra a Dee folyó mentén a Grosvenor Parkba",
+            "ro": "Plimbare pe malul râului Dee până la Parcul Grosvenor",
+            "en": "Ride along the River Dee to Grosvenor Park"
+          },
+          "coords": [
+            -2.882,
+            53.1895
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:02",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein schöner, flacher Weg, perfekt für eine gemütliche Radtour. Nehmen Sie ein Picknick mit!",
+            "hu": "Szép, sík út, tökéletes egy laza kerékpártúrához. Vigyél pikniket!",
+            "ro": "O potecă frumoasă și plată, perfectă pentru o plimbare lejeră cu bicicleta. Luați un picnic!",
+            "en": "A lovely flat path perfect for a leisurely cycle. Pack a picnic!"
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum über die Old Dee Bridge",
+            "hu": "Vissza a központba az Old Dee hídon át",
+            "ro": "Întoarcere în centru peste Podul Old Dee",
+            "en": "Return to centre via Old Dee Bridge"
+          },
+          "coords": [
+            -2.8918,
+            53.186
+          ],
+          "category": "historical",
+          "arrive_at": "15:20",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Überqueren Sie die älteste Brücke in Chester und genießen Sie die Aussicht.",
+            "hu": "Kelj át Chester legrégebbi hídján, és élvezd a kilátást.",
+            "ro": "Traversați cel mai vechi pod din Chester și bucurați-vă de priveliște.",
+            "en": "Cross the oldest bridge in Chester and enjoy the views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour im Herzen von Chester, erkunden Sie die berühmten Rows und die beeindruckende Kathedrale. Folgen Sie dann den Wegen entlang der alten Stadtmauern, die Sie zum römischen Amphitheater führen. Am Nachmittag genießen Sie eine malerische Fahrt entlang des Flusses Dee zum weitläufigen Grosvenor Park, ideal für ein Picknick. Überqueren Sie die historische Old Dee Bridge auf Ihrem Rückweg ins Zentrum und genießen Sie die schönen Ausblicke auf den Fluss und die Stadt.",
+        "hu": "Kezdje a kerékpártúrát Chester szívében, fedezze fel a híres Rows-t és a lenyűgöző katedrálist. Ezután kövesse az ősi városfalak mentén futó utakat a római amfiteátrumhoz. Délután élvezze a festői utat a Dee folyó mentén a tágas Grosvenor Parkig, ami ideális egy piknikhez. A visszaúton keljen át a történelmi Old Dee hídon, és gyönyörködjön a folyóra és a városra nyíló kilátásban.",
+        "ro": "Începeți turul cu bicicleta în inima orașului Chester, explorând faimoasele Rows și impresionanta Catedrală. Apoi, urmați potecile de-a lungul vechilor ziduri ale orașului spre Amfiteatrul Roman. După-amiaza, bucurați-vă de o plimbare pitorească de-a lungul râului Dee până la vastul Parc Grosvenor, perfect pentru un picnic. Traversați istoricul Pod Old Dee la întoarcere în centru, admirând priveliștile frumoase ale râului și ale orașului.",
+        "en": "Start your cycling tour in the heart of Chester, exploring the famous Rows and the stunning Cathedral. Then, follow the paths alongside the ancient city walls towards the Roman Amphitheatre. In the afternoon, enjoy a scenic ride along the River Dee to the expansive Grosvenor Park, perfect for a picnic. Cross the historic Old Dee Bridge on your way back to the centre, taking in the beautiful river and city views."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cheshire-Käse",
+            "tip": "Ein Muss, wenn Sie in der Region sind. Perfekt für ein Picknick."
+          },
+          {
+            "name": "The Boathouse",
+            "tip": "Ein Pub direkt am Fluss, ideal für eine Pause während Ihrer Radtour."
+          },
+          {
+            "name": "Jaunty Goat Coffee",
+            "tip": "Ein beliebter, fahrradfreundlicher Coffeeshop im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cheshire sajt",
+            "tip": "Kötelező, ha a régióban jársz. Tökéletes piknikhez."
+          },
+          {
+            "name": "The Boathouse",
+            "tip": "Kocsma közvetlenül a folyóparton, ideális pihenő a kerékpártúra során."
+          },
+          {
+            "name": "Jaunty Goat Coffee",
+            "tip": "Népszerű, kerékpárosbarát kávézó a városközpontban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză Cheshire",
+            "tip": "O necesitate atunci când vă aflați în regiune. Perfectă pentru un picnic."
+          },
+          {
+            "name": "The Boathouse",
+            "tip": "Un pub chiar pe malul râului, ideal pentru o pauză în timpul plimbării cu bicicleta."
+          },
+          {
+            "name": "Jaunty Goat Coffee",
+            "tip": "O cafenea populară, prietenoasă cu bicicliștii, în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cheshire Cheese",
+            "tip": "A must-try when in the region. Perfect for a picnic."
+          },
+          {
+            "name": "The Boathouse",
+            "tip": "A pub right on the riverbank, ideal for a break during your cycle."
+          },
+          {
+            "name": "Jaunty Goat Coffee",
+            "tip": "A popular, bike-friendly coffee shop in the city centre."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Der Wirral Way",
+            "tip": "Für eine längere, ruhige Fahrt aus der Stadt heraus auf einer alten Eisenbahnstrecke.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Countess of Chester Country Park",
+            "tip": "Ein modernes Parkgelände mit guten Wegen zum Radfahren und Spazierengehen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Chester Meadows",
+            "tip": "Fahren Sie über die Old Dee Bridge zu diesen offenen Wiesen für ein wenig Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Wirral Way",
+            "tip": "Egy hosszabb, csendesebb biciklizésért a városon kívül egy régi vasútvonalon.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Countess of Chester Country Park",
+            "tip": "Modern park jó utakkal kerékpározáshoz és sétához.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Chester Meadows",
+            "tip": "Tekerj át az Old Dee hídon ezekre a nyílt rétekre egy kis békéért.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Wirral Way",
+            "tip": "Pentru o plimbare mai lungă și liniștită în afara orașului, pe o veche linie de cale ferată.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Countess of Chester",
+            "tip": "Un parc modern cu poteci bune pentru ciclism și plimbare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pășunile din Chester",
+            "tip": "Mergeți cu bicicleta peste Podul Old Dee spre aceste pajiști deschise pentru puțină liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "The Wirral Way",
+            "tip": "For a longer, quieter ride out of the city along an old railway line.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Countess of Chester Country Park",
+            "tip": "A modern parkland with good paths for cycling and walking.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Chester Meadows",
+            "tip": "Cycle over the Old Dee Bridge to these open meadows for some peace.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradläden",
+            "tip": "Es gibt mehrere unabhängige Fahrradläden im Zentrum für Zubehör oder schnelle Reparaturen."
+          },
+          {
+            "name": "The Rows",
+            "tip": "Schließen Sie Ihr Fahrrad ab und erkunden Sie die einzigartigen Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "A központban több független kerékpárbolt is található kiegészítőkért vagy gyors javításokért."
+          },
+          {
+            "name": "The Rows",
+            "tip": "Zárd le a biciklidet és fedezd fel az egyedi butikokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Există mai multe magazine independente de biciclete în centru pentru accesorii sau reparații rapide."
+          },
+          {
+            "name": "The Rows",
+            "tip": "Legați-vă bicicleta și explorați buticurile unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cycle Shops",
+            "tip": "There are several independent cycle shops in the centre for accessories or quick repairs."
+          },
+          {
+            "name": "The Rows",
+            "tip": "Lock up your bike and explore the unique boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Chester ist relativ flach, aber einige Straßen im Zentrum sind aus Kopfsteinpflaster.",
+          "Schließen Sie Ihr Fahrrad immer sicher ab, besonders in belebten Gegenden.",
+          "Der Millennium Greenway bietet eine hervorragende verkehrsfreie Route durch die Stadt.",
+          "Planen Sie Ihre Route im Voraus, da das Radfahren in einigen Fußgängerzonen eingeschränkt sein kann."
+        ],
+        "hu": [
+          "Chester viszonylag sík, de néhány központi utca macskaköves.",
+          "Mindig biztonságosan zárd le a kerékpárodat, különösen a forgalmas területeken.",
+          "A Millennium Greenway kiváló, forgalomtól mentes útvonalat kínál a városon keresztül.",
+          "Tervezd meg előre az útvonaladat, mivel néhány sétálóövezetben korlátozott lehet a kerékpározás."
+        ],
+        "ro": [
+          "Chester este relativ plat, dar unele străzi din centru sunt pavate cu piatră cubică.",
+          "Legați-vă întotdeauna bicicleta în siguranță, mai ales în zonele aglomerate.",
+          "Millennium Greenway oferă o rută excelentă fără trafic prin oraș.",
+          "Planificați-vă traseul în avans, deoarece ciclismul poate fi restricționat în unele zone pietonale."
+        ],
+        "en": [
+          "Chester is relatively flat, but some central streets are cobbled.",
+          "Always lock your bike securely, especially in busy areas.",
+          "The Millennium Greenway provides an excellent traffic-free route through the city.",
+          "Plan your route in advance as cycling may be restricted in some pedestrianised zones."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 15.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Parken und Erkunden des Stadtzentrums",
+            "hu": "A klaszter: Parkolás és a városközpont felfedezése",
+            "ro": "Cluster A: Parcare și explorarea centrului orașului",
+            "en": "Cluster A: Park and Explore City Centre"
+          },
+          "coords": [
+            -2.891,
+            53.1904
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie in einem der Langzeitparkhäuser wie dem Delamere Street Car Park.",
+            "hu": "Parkolj egy hosszú távú parkolóházban, mint például a Delamere Street Car Park.",
+            "ro": "Parcați într-una din parcările pe termen lung, cum ar fi parcarea de pe strada Delamere.",
+            "en": "Park in one of the long-stay car parks like Delamere Street Car Park."
+          }
+        },
+        {
+          "name": {
+            "de": "Chester Rows & Eastgate Clock",
+            "hu": "Chester Rows és Eastgate óra",
+            "ro": "Chester Rows și Ceasul Eastgate",
+            "en": "Chester Rows & Eastgate Clock"
+          },
+          "coords": [
+            -2.8885,
+            53.1912
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:40",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die Atmosphäre der einzigartigen Ladenpassagen.",
+            "hu": "Merülj el az egyedi bevásárlógalériák hangulatában.",
+            "ro": "Lăsați-vă captivat de atmosfera galeriilor comerciale unice.",
+            "en": "Soak up the atmosphere of the unique shopping galleries."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Chester",
+            "hu": "Chesteri katedrális",
+            "ro": "Catedrala din Chester",
+            "en": "Chester Cathedral"
+          },
+          "coords": [
+            -2.8915,
+            53.192
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:30",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein Muss für Geschichts- und Architekturliebhaber.",
+            "hu": "Kötelező a történelem és az építészet szerelmeseinek.",
+            "ro": "O vizită obligatorie pentru iubitorii de istorie și arhitectură.",
+            "en": "A must-see for history and architecture lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Amphitheater",
+            "hu": "Római amfiteátrum",
+            "ro": "Amfiteatrul Roman",
+            "en": "Roman Amphitheatre"
+          },
+          "coords": [
+            -2.8868,
+            53.1884
+          ],
+          "category": "historical",
+          "arrive_at": "11:50",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Gehen Sie von der Kathedrale hierher, um Ihren Stadtrundgang fortzusetzen.",
+            "hu": "Sétálj ide a katedrálistól, hogy folytasd a városnéző sétádat.",
+            "ro": "Mergeți pe jos de la catedrală aici pentru a continua turul pe jos al orașului.",
+            "en": "Walk here from the Cathedral to continue your city walking tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Fahrt zum Chester Zoo",
+            "hu": "B klaszter: Utazás a Chesteri Állatkertbe",
+            "ro": "Cluster B: Conduceți la Grădina Zoologică din Chester",
+            "en": "Cluster B: Drive to Chester Zoo"
+          },
+          "coords": [
+            -2.882,
+            53.225
+          ],
+          "category": "animal-habitat",
+          "arrive_at": "13:00",
+          "stay_min": 240,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 13.0,
+          "tip_5lang": {
+            "de": "Planen Sie mindestens 4 Stunden ein; buchen Sie Tickets online, um Warteschlangen zu vermeiden.",
+            "hu": "Szánj rá legalább 4 órát; foglalj online jegyet a sorban állás elkerülése érdekében.",
+            "ro": "Planificați cel puțin 4 ore; rezervați biletele online pentru a evita cozile.",
+            "en": "Allow at least 4 hours; book tickets online to avoid queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Rückkehr für einen Spaziergang im Grosvenor Park",
+            "hu": "C klaszter: Visszatérés egy sétára a Grosvenor Parkba",
+            "ro": "Cluster C: Întoarcere pentru o plimbare în Parcul Grosvenor",
+            "en": "Cluster C: Return for a walk in Grosvenor Park"
+          },
+          "coords": [
+            -2.882,
+            53.1895
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:15",
+          "stay_min": 74,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Ein perfekter, entspannender Abschluss des Tages. Parken Sie in der Nähe am Flussufer.",
+            "hu": "Tökéletes, pihentető befejezése a napnak. Parkolj a közelben a folyóparton.",
+            "ro": "O modalitate perfectă și relaxantă de a încheia ziua. Parcați în apropiere, pe malul râului.",
+            "en": "A perfect, relaxing end to the day. Park nearby on the riverside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag, indem Sie im Zentrum von Chester parken und den historischen Kern zu Fuß erkunden. Besuchen Sie die einzigartigen Rows, die Kathedrale und das römische Amphitheater. Am Nachmittag fahren Sie zum weltberühmten Chester Zoo, einem der besten in Europa, wo Sie Stunden damit verbringen können, Tiere aus aller Welt zu entdecken. Kehren Sie am späten Nachmittag in die Stadt zurück und beenden Sie Ihren Tag mit einem ruhigen Spaziergang durch den viktorianischen Grosvenor Park.",
+        "hu": "Kezdje a napot azzal, hogy leparkol Chester központjában, és gyalog fedezi fel a történelmi magot. Látogassa meg az egyedi Rows-t, a katedrálist és a római amfiteátrumot. Délután vezessen el a világhírű Chesteri Állatkertbe, Európa egyik legjobbjába, ahol órákat tölthet a világ minden tájáról származó állatok felfedezésével. Késő délután térjen vissza a városba, és zárja a napot egy békés sétával a viktoriánus Grosvenor Parkban.",
+        "ro": "Începeți-vă ziua parcând în centrul orașului Chester și explorând nucleul istoric pe jos. Vizitați unicele Rows, Catedrala și Amfiteatrul Roman. După-amiaza, conduceți la faimoasa Grădină Zoologică din Chester, una dintre cele mai bune din Europa, unde puteți petrece ore întregi descoperind animale din întreaga lume. Întoarceți-vă în oraș după-amiaza târziu pentru a încheia ziua cu o plimbare liniștită prin Parcul Grosvenor victorian.",
+        "en": "Start your day by parking in central Chester and exploring the historic core on foot. Visit the unique Rows, the Cathedral, and the Roman Amphitheatre. In the afternoon, drive to the world-renowned Chester Zoo, one of the best in Europe, where you can spend hours discovering animals from across the globe. Return to the city in the late afternoon to end your day with a peaceful stroll through the Victorian Grosvenor Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cheshire Farm Ice Cream",
+            "tip": "Ein lokaler Favorit, halten Sie Ausschau nach Verkaufsstellen in und um die Stadt."
+          },
+          {
+            "name": "The Fishpool Inn",
+            "tip": "Ein wunderschönes Landpub, eine kurze Fahrt von Chester entfernt, ideal für ein herzhaftes Mittagessen."
+          },
+          {
+            "name": "Hickory's Smokehouse",
+            "tip": "Am Fluss gelegen, ein großartiger Ort für ein Abendessen im amerikanischen Stil nach Ihrem Tagesausflug."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cheshire Farm fagylalt",
+            "tip": "Helyi kedvenc, keresd az árusítóhelyeket a városban és környékén."
+          },
+          {
+            "name": "The Fishpool Inn",
+            "tip": "Gyönyörű vidéki kocsma, rövid autóútra Chestertől, ideális egy kiadós ebédhez."
+          },
+          {
+            "name": "Hickory's Smokehouse",
+            "tip": "A folyóparton található, nagyszerű hely egy amerikai stílusú vacsorához a nap végén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Înghețată de la ferma Cheshire",
+            "tip": "Un favorit local, căutați punctele de vânzare în oraș și în împrejurimi."
+          },
+          {
+            "name": "The Fishpool Inn",
+            "tip": "Un pub rural superb la o scurtă distanță cu mașina de Chester, perfect pentru un prânz consistent."
+          },
+          {
+            "name": "Hickory's Smokehouse",
+            "tip": "Situat pe râu, un loc minunat pentru o cină în stil american după excursia de o zi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cheshire Farm Ice Cream",
+            "tip": "A local favourite, look out for outlets in and around the city."
+          },
+          {
+            "name": "The Fishpool Inn",
+            "tip": "A gorgeous country pub a short drive from Chester, perfect for a hearty lunch."
+          },
+          {
+            "name": "Hickory's Smokehouse",
+            "tip": "Located on the river, a great spot for an American-style dinner after your day out."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Delamere Forest",
+            "tip": "Eine 20-minütige Fahrt entfernt, bietet es kilometerlange ruhige Wanderwege.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Spaziergang am Kanal",
+            "tip": "Parken Sie und machen Sie einen Spaziergang entlang des Shropshire Union Canal für eine andere Perspektive.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ness Botanische Gärten",
+            "tip": "Etwa 30 Minuten Fahrt, eine wunderschöne und friedliche Anlage.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Delamere erdő",
+            "tip": "20 perces autóútra található, kilométernyi csendes sétaútvonalakat kínál.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Séta a csatorna mentén",
+            "tip": "Parkolj le, és sétálj egyet a Shropshire Union Canal mentén egy másfajta perspektíváért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ness Botanikus Kert",
+            "tip": "Körülbelül 30 perces autóútra, egy gyönyörű és békés hely.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Delamere",
+            "tip": "La 20 de minute de mers cu mașina, oferă kilometri de trasee liniștite de mers pe jos.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Plimbare pe canal",
+            "tip": "Parcați și faceți o plimbare de-a lungul Canalului Shropshire Union pentru o perspectivă diferită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Botanice Ness",
+            "tip": "La aproximativ 30 de minute de mers cu mașina, un loc frumos și liniștit.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Delamere Forest",
+            "tip": "A 20-minute drive away, it offers miles of quiet walking trails.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Canal Walk",
+            "tip": "Park up and take a walk along the Shropshire Union Canal for a different perspective.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ness Botanic Gardens",
+            "tip": "About a 30-minute drive, a beautiful and peaceful setting.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cheshire Oaks Designer Outlet",
+            "tip": "Eine kurze Fahrt von der Stadt entfernt, ist dies eines der größten Outlet-Center in Großbritannien."
+          },
+          {
+            "name": "The Hawarden Estate Farm Shop",
+            "tip": "Eine kurze Fahrt über die Grenze nach Wales für qualitativ hochwertige lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cheshire Oaks Designer Outlet",
+            "tip": "Rövid autóútra a várostól, ez az egyik legnagyobb outlet központ az Egyesült Királyságban."
+          },
+          {
+            "name": "The Hawarden Estate Farm Shop",
+            "tip": "Rövid autóút a határon túlra, Walesbe, minőségi helyi termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cheshire Oaks Designer Outlet",
+            "tip": "La o scurtă distanță cu mașina de oraș, acesta este unul dintre cele mai mari centre outlet din Marea Britanie."
+          },
+          {
+            "name": "Magazinul fermei Hawarden Estate",
+            "tip": "O scurtă călătorie cu mașina peste graniță în Țara Galilor pentru produse locale de calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cheshire Oaks Designer Outlet",
+            "tip": "A short drive from the city, this is one of the UK's largest outlet centres."
+          },
+          {
+            "name": "The Hawarden Estate Farm Shop",
+            "tip": "A short drive over the border into Wales for quality local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum kann teuer sein; Park-and-Ride-Dienste sind eine gute Alternative.",
+          "Buchen Sie Tickets für den Chester Zoo online im Voraus, um Geld zu sparen und Warteschlangen zu vermeiden.",
+          "Der Verkehr kann zu Stoßzeiten stark sein, planen Sie Ihre Fahrten entsprechend.",
+          "Achten Sie auf Fußgängerzonen im Stadtzentrum, die tagsüber für den Verkehr gesperrt sind."
+        ],
+        "hu": [
+          "A városközponti parkolás drága lehet; a Park & Ride szolgáltatások jó alternatívát jelentenek.",
+          "Foglalj jegyet a Chesteri Állatkertbe online előre, hogy pénzt takaríts meg és elkerüld a sorokat.",
+          "A forgalom csúcsidőben nagy lehet, tervezd meg az utazásaidat ennek megfelelően.",
+          "Vigyázz a városközponti sétálóövezetekre, amelyek napközben le vannak zárva a forgalom elől."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi scumpă; serviciile Park and Ride sunt o alternativă bună.",
+          "Rezervați biletele la Grădina Zoologică din Chester online în avans pentru a economisi bani și a evita cozile.",
+          "Traficul poate fi aglomerat la orele de vârf, planificați-vă călătoriile în consecință.",
+          "Fiți atenți la zonele pietonale din centrul orașului, care sunt închise traficului în timpul zilei."
+        ],
+        "en": [
+          "City centre parking can be expensive; Park and Ride services are a good alternative.",
+          "Book Chester Zoo tickets online in advance to save money and avoid queues.",
+          "Traffic can be heavy during peak hours, plan your drives accordingly.",
+          "Be aware of pedestrianised zones in the city centre which are closed to traffic during the day."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 5.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Ankunft und Erkundung des Zentrums",
+            "hu": "A klaszter: Érkezés és a központ felfedezése",
+            "ro": "Cluster A: Sosire și explorarea centrului",
+            "en": "Cluster A: Arrive and Explore Centre"
+          },
+          "coords": [
+            -2.891,
+            53.1904
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Busbahnhof oder einen Zug zum Bahnhof Chester.",
+            "hu": "Menj busszal a buszpályaudvarra vagy vonattal a Chester vasútállomásra.",
+            "ro": "Luați un autobuz până la autogară sau un tren până la gara din Chester.",
+            "en": "Take a bus to the bus interchange or a train to Chester station."
+          }
+        },
+        {
+          "name": {
+            "de": "Chester Rows & Eastgate Clock",
+            "hu": "Chester Rows és Eastgate óra",
+            "ro": "Chester Rows și Ceasul Eastgate",
+            "en": "Chester Rows & Eastgate Clock"
+          },
+          "coords": [
+            -2.8885,
+            53.1912
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das Herz der Stadt, nur einen kurzen Spaziergang vom Busbahnhof entfernt.",
+            "hu": "A város szíve, rövid sétára a buszpályaudvartól.",
+            "ro": "Inima orașului, la o scurtă plimbare de autogară.",
+            "en": "The heart of the city, just a short walk from the bus interchange."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Chester",
+            "hu": "Chesteri katedrális",
+            "ro": "Catedrala din Chester",
+            "en": "Chester Cathedral"
+          },
+          "coords": [
+            -2.8915,
+            53.192
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:30",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur und die ruhigen Gärten.",
+            "hu": "Csodáld meg az építészetet és a békés kerteket.",
+            "ro": "Admirați arhitectura și grădinile liniștite.",
+            "en": "Admire the architecture and the peaceful gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Bus zum Museumsviertel",
+            "hu": "B klaszter: Busszal a múzeumi negyedbe",
+            "ro": "Cluster B: Autobuz spre cartierul muzeelor",
+            "en": "Cluster B: Bus to Museum Quarter"
+          },
+          "coords": [
+            -2.896,
+            53.1878
+          ],
+          "category": "museums",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus für eine kurze Fahrt zum Grosvenor Museum.",
+            "hu": "Menj egy helyi busszal egy rövid útra a Grosvenor Múzeumhoz.",
+            "ro": "Luați un autobuz local pentru o scurtă călătorie până la Muzeul Grosvenor.",
+            "en": "Take a local bus for the short hop to the Grosvenor Museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Amphitheater",
+            "hu": "Római amfiteátrum",
+            "ro": "Amfiteatrul Roman",
+            "en": "Roman Amphitheatre"
+          },
+          "coords": [
+            -2.8868,
+            53.1884
+          ],
+          "category": "historical",
+          "arrive_at": "13:50",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum entfernt, auf dem Weg zum Fluss.",
+            "hu": "Rövid séta a múzeumtól, a folyó felé vezető úton.",
+            "ro": "La o scurtă plimbare de muzeu, în drum spre râu.",
+            "en": "A short walk from the museum, on your way towards the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Bus zum Chester Zoo",
+            "hu": "C klaszter: Busszal a Chesteri Állatkertbe",
+            "ro": "Cluster C: Autobuz spre Grădina Zoologică din Chester",
+            "en": "Cluster C: Bus to Chester Zoo"
+          },
+          "coords": [
+            -2.882,
+            53.225
+          ],
+          "category": "animal-habitat",
+          "arrive_at": "14:50",
+          "stay_min": 194,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Die Buslinie 1 fährt direkt vom Stadtzentrum zum Zoo.",
+            "hu": "Az 1-es busz közvetlenül a városközpontból az állatkertbe visz.",
+            "ro": "Autobuzul numărul 1 merge direct la grădina zoologică din centrul orașului.",
+            "en": "The Number 1 bus service runs directly to the Zoo from the city centre."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Chesters effizientes Busnetz, um Ihren Tag zu beginnen. Erkunden Sie den zentralen Cluster mit den Rows und der Kathedrale zu Fuß. Nehmen Sie dann einen kurzen Bus zum Museumsviertel, um das Grosvenor Museum und das nahe gelegene römische Amphitheater zu entdecken. Am Nachmittag bringt Sie ein direkter Bus zum weltberühmten Chester Zoo für ein unvergessliches Tiererlebnis, bevor Sie am Abend mit dem Bus ins Stadtzentrum zurückkehren.",
+        "hu": "Használja ki Chester hatékony buszhálózatát a nap kezdéséhez. Fedezze fel gyalog a központi klasztert, a Rows-t és a katedrálist. Ezután egy rövid buszúttal jusson el a múzeumi negyedbe, hogy felfedezze a Grosvenor Múzeumot és a közeli római amfiteátrumot. Délután egy közvetlen buszjárattal juthat el a világhírű Chesteri Állatkertbe egy felejthetetlen állatkerti élményért, mielőtt este visszatérne a városközpontba.",
+        "ro": "Folosiți rețeaua eficientă de autobuze din Chester pentru a vă începe ziua. Explorați pe jos grupul central de atracții, inclusiv Rows și Catedrala. Apoi, luați un autobuz pe o distanță scurtă până la cartierul muzeelor pentru a descoperi Muzeul Grosvenor și Amfiteatrul Roman din apropiere. După-amiaza, un autobuz direct vă va duce la faimoasa Grădină Zoologică din Chester pentru o experiență de neuitat cu animale, înainte de a vă întoarce în centrul orașului seara.",
+        "en": "Use Chester's efficient bus network to start your day. Explore the central cluster of the Rows and the Cathedral on foot. Then, take a short bus hop to the museum quarter to discover the Grosvenor Museum and the nearby Roman Amphitheatre. In the afternoon, a direct bus will take you to the world-famous Chester Zoo for an unforgettable animal experience, before returning to the city centre in the evening."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chester Market Food Hall",
+            "tip": "In der Nähe des Busbahnhofs gelegen, bietet es eine große Auswahl an Street Food."
+          },
+          {
+            "name": "The Brewery Tap",
+            "tip": "Ein klassisches Pub in der Nähe des Bahnhofs, bekannt für seine Real Ales."
+          },
+          {
+            "name": "The Yard",
+            "tip": "Ein modernes italienisches Restaurant im Stadtzentrum, leicht mit dem Bus erreichbar."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chester Market Food Hall",
+            "tip": "A buszpályaudvar közelében található, széles választékot kínál street food ételekből."
+          },
+          {
+            "name": "The Brewery Tap",
+            "tip": "Klasszikus pub a vasútállomás közelében, ismert a valódi ale söreiről."
+          },
+          {
+            "name": "The Yard",
+            "tip": "Modern olasz étterem a városközpontban, könnyen megközelíthető busszal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hala alimentară din Piața Chester",
+            "tip": "Situată lângă autogară, oferă o mare varietate de opțiuni de street food."
+          },
+          {
+            "name": "The Brewery Tap",
+            "tip": "Un pub clasic lângă gară, cunoscut pentru berile sale reale."
+          },
+          {
+            "name": "The Yard",
+            "tip": "Un restaurant italian modern în centrul orașului, ușor accesibil cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chester Market Food Hall",
+            "tip": "Located near the bus interchange, offers a huge variety of street food options."
+          },
+          {
+            "name": "The Brewery Tap",
+            "tip": "A classic pub near the train station, known for its real ales."
+          },
+          {
+            "name": "The Yard",
+            "tip": "A modern Italian restaurant in the city centre, easily accessible by bus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Grosvenor Park",
+            "tip": "Leicht mit mehreren Buslinien erreichbar, eine grüne Oase.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang am Kanal",
+            "tip": "Steigen Sie in der Nähe der Stadtmauern aus dem Bus und finden Sie den ruhigen Kanalweg.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. John the Baptist's Church",
+            "tip": "Älter als die Kathedrale, oft ruhiger und sehr atmosphärisch.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grosvenor Park",
+            "tip": "Könnyen megközelíthető több buszjárattal, egy zöld oázis.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Séta a csatorna mentén",
+            "tip": "Szállj le a buszról a városfalak közelében, és találd meg a csendes csatornaparti utat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Keresztelő Szent János templom",
+            "tip": "Idősebb, mint a katedrális, gyakran csendesebb és nagyon hangulatos.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Grosvenor",
+            "tip": "Ușor accesibil cu mai multe linii de autobuz, o oază de verdeață.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare pe canal",
+            "tip": "Coborâți din autobuz lângă zidurile orașului și găsiți poteca liniștită de pe canal.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Biserica Sf. Ioan Botezătorul",
+            "tip": "Mai veche decât catedrala, adesea mai liniștită și foarte atmosferică.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Grosvenor Park",
+            "tip": "Easily reachable on several bus routes, a green oasis.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Canal Walk",
+            "tip": "Hop off the bus near the city walls and find the peaceful canal path.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St John the Baptist's Church",
+            "tip": "Older than the cathedral, often quieter and very atmospheric.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "The Rows",
+            "tip": "Das Haupt-Einkaufsviertel, in dem die meisten Busse halten."
+          },
+          {
+            "name": "Chester Market",
+            "tip": "Direkt neben dem Busbahnhof für einen schnellen Besuch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Rows",
+            "tip": "A fő bevásárlónegyed, a legtöbb busz itt áll meg."
+          },
+          {
+            "name": "Chesteri piac",
+            "tip": "Közvetlenül a buszpályaudvar mellett egy gyors látogatásért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Rows",
+            "tip": "Principala zonă de cumpărături unde opresc majoritatea autobuzelor."
+          },
+          {
+            "name": "Piața Chester",
+            "tip": "Chiar lângă autogară pentru o vizită rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Rows",
+            "tip": "The main shopping district, where most buses will stop."
+          },
+          {
+            "name": "Chester Market",
+            "tip": "Right next to the bus interchange for a quick visit."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Die meisten Busse sind kontaktlos, sodass Sie mit Karte oder Telefon bezahlen können.",
+          "Die Buslinie 1 ist Ihre Verbindung zum Chester Zoo.",
+          "Überprüfen Sie die Fahrpläne für den letzten Bus zurück vom Zoo, besonders an Wochentagen."
+        ],
+        "hu": [
+          "Vásárolj napijegyet a buszra, ha több utazást tervezel.",
+          "A legtöbb busz érintésmentes fizetést tesz lehetővé, így kártyával vagy telefonnal is fizethetsz.",
+          "Az 1-es busz a kapcsolatod a Chesteri Állatkerttel.",
+          "Ellenőrizd a menetrendet az utolsó buszra az állatkertből, különösen hétköznap."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă plănuiți să faceți mai multe călătorii.",
+          "Majoritatea autobuzelor sunt contactless, așa că puteți plăti cu cardul sau telefonul.",
+          "Autobuzul numărul 1 este legătura dvs. cu Grădina Zoologică din Chester.",
+          "Verificați orarul pentru ultimul autobuz care se întoarce de la grădina zoologică, în special în timpul săptămânii."
+        ],
+        "en": [
+          "Buy a daily bus pass if you plan on making multiple trips.",
+          "Most buses are contactless, so you can pay by card or phone.",
+          "The Number 1 bus service is your link to Chester Zoo.",
+          "Check timetables for the last bus back from the Zoo, especially on weekdays."
+        ]
+      }
+    }
+  }
+}

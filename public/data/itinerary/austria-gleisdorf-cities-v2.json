@@ -1,0 +1,1435 @@
+{
+  "city_id": "austria-gleisdorf-cities-v2",
+  "anchor": {
+    "name": "Gleisdorf",
+    "coords": [
+      15.7056,
+      47.1008
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 2.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptplatz",
+            "hu": "Főtér",
+            "ro": "Piața Principală",
+            "en": "Main Square"
+          },
+          "coords": [
+            15.7056,
+            47.1008
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Kaffee in einem der Cafés und beobachten Sie das städtische Leben.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában, és figyelje a város ébredését.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață și observați viața orașului.",
+            "en": "Start your day with a coffee at one of the square's cafes and watch the town life unfold."
+          }
+        },
+        {
+          "name": {
+            "de": "Mariensäule & Rathaus",
+            "hu": "Mária-oszlop és Városháza",
+            "ro": "Coloana Mariei & Primăria",
+            "en": "Mary's Column & Town Hall"
+          },
+          "coords": [
+            15.7058,
+            47.101
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:37",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Diese beiden Wahrzeichen befinden sich direkt am Hauptplatz und sind tolle Fotomotive.",
+            "hu": "Ez a két nevezetesség közvetlenül a főtéren található, és remek fotótémát nyújtanak.",
+            "ro": "Aceste două repere sunt situate chiar în Piața Principală și sunt subiecte excelente pentru fotografii.",
+            "en": "These two landmarks are located right on the Main Square and make for great photo opportunities."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche hl. Laurentius",
+            "hu": "Szent Lőrinc plébániatemplom",
+            "ro": "Biserica parohială Sf. Laurențiu",
+            "en": "Parish Church of St. Lawrence"
+          },
+          "coords": [
+            15.707,
+            47.1015
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, die beeindruckenden Deckenfresken und den barocken Altar zu bewundern.",
+            "hu": "Szánjon időt a lenyűgöző mennyezeti freskók és a barokk oltár megcsodálására.",
+            "ro": "Luați-vă timp pentru a admira frescele impresionante de pe tavan și altarul baroc.",
+            "en": "Take a moment to admire the impressive ceiling frescoes and the baroque altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus der Musik",
+            "hu": "Zene Háza",
+            "ro": "Casa Muzicii",
+            "en": "House of Music"
+          },
+          "coords": [
+            15.704,
+            47.102
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:42",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Spielplan, vielleicht findet abends eine interessante Veranstaltung statt.",
+            "hu": "Ellenőrizze a programot, este talán egy érdekes előadásra is beülhet.",
+            "ro": "Verificați programul, s-ar putea să aibă loc un eveniment interesant seara.",
+            "en": "Check the schedule; you might find an interesting event happening in the evening."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum im Getreidespeicher",
+            "hu": "Múzeum a magtárban",
+            "ro": "Muzeul din hambar",
+            "en": "Museum in the Granary"
+          },
+          "coords": [
+            15.7085,
+            47.1025
+          ],
+          "category": "museums",
+          "arrive_at": "11:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein faszinierender Einblick in die Regionalgeschichte, untergebracht in einem einzigartigen Gebäude.",
+            "hu": "Lenyűgöző betekintés a régió történelmébe egy egyedülálló épületben.",
+            "ro": "O incursiune fascinantă în istoria regională, găzduită într-o clădire unică.",
+            "en": "A fascinating look into regional history, housed in a unique building."
+          }
+        },
+        {
+          "name": {
+            "de": "Solarbaum",
+            "hu": "Szolárfa",
+            "ro": "Arborele Solar",
+            "en": "Solar Tree"
+          },
+          "coords": [
+            15.71,
+            47.099
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:02",
+          "stay_min": 15,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein Symbol für Gleisdorfs Engagement für erneuerbare Energien. Besonders bei Sonnenuntergang schön.",
+            "hu": "Gleisdorf megújuló energia iránti elkötelezettségének szimbóluma. Különösen szép naplementekor.",
+            "ro": "Un simbol al angajamentului orașului Gleisdorf față de energia regenerabilă. Deosebit de frumos la apus.",
+            "en": "A symbol of Gleisdorf's commitment to renewable energy. Especially beautiful at sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "Wellenbad Gleisdorf",
+            "hu": "Gleisdorfi Hullámfürdő",
+            "ro": "Ștrandul cu valuri Gleisdorf",
+            "en": "Gleisdorf Wave Pool"
+          },
+          "coords": [
+            15.698,
+            47.105
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:27",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um sich an einem warmen Nachmittag zu entspannen und abzukühlen.",
+            "hu": "Tökéletes hely a pihenésre és felfrissülésre egy meleg délutánon. Ne felejtse otthon a fürdőruháját!",
+            "ro": "Locul perfect pentru a vă relaxa și răcori într-o după-amiază călduroasă.",
+            "en": "The perfect place to relax and cool off on a warm afternoon. Don't forget your swimsuit!"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Gleisdorf beginnt am belebten Hauptplatz, dem Herzen der Stadt. Von hier aus erkunden Sie die barocke Pracht der Stadtpfarrkirche und die lokale Kultur im Haus der Musik. Nach dem Mittagessen tauchen Sie im Getreidespeicher-Museum in die Geschichte der Region ein. Der Nachmittag steht im Zeichen der Innovation beim Solarbaum, einem Symbol für die nachhaltige Zukunft der Stadt. Zum Abschluss des Tages entspannen Sie im Wellenbad, einer Oase der Erholung.",
+        "hu": "Gleisdorfi napja a város szívében, a nyüzsgő főtéren kezdődik. Innen fedezi fel a plébániatemplom barokk pompáját és a helyi kultúrát a Zene Házában. Ebéd után a Magtár Múzeumban merül el a régió történelmében. A délután az innováció jegyében telik a Szolárfánál, a város fenntartható jövőjének szimbólumánál. A nap végén a Hullámfürdőben, a pihenés oázisában lazíthat.",
+        "ro": "Ziua dvs. în Gleisdorf începe în Piața Principală, inima orașului. De aici, explorați splendoarea barocă a Bisericii Parohiale și cultura locală la Casa Muzicii. După prânz, vă scufundați în istoria regiunii la Muzeul din Hambar. După-amiaza este dedicată inovației la Arborele Solar, un simbol al viitorului sustenabil al orașului. Încheiați ziua relaxându-vă la Ștrandul cu valuri, o oază de recreere.",
+        "en": "Your day in Gleisdorf starts at the bustling Main Square, the heart of the city. From here, you'll explore the baroque splendor of the Parish Church and the local culture at the House of Music. After lunch, delve into the region's history at the Granary Museum. The afternoon is dedicated to innovation at the Solar Tree, a symbol of the city's sustainable future. End your day relaxing at the Wave Pool, an oasis of recreation."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Steirisches Backhendl",
+            "tip": "Ein Muss in der Steiermark. Außen knusprig, innen saftig."
+          },
+          {
+            "name": "Käferbohnensalat mit Kernöl",
+            "tip": "Ein klassischer steirischer Salat, der den nussigen Geschmack des Kürbiskernöls hervorhebt."
+          },
+          {
+            "name": "Gasthaus Zöller",
+            "tip": "Bekannt für seine authentische regionale Küche und gemütliche Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stájer sült csirke (Backhendl)",
+            "tip": "Kötelező fogás Stájerországban. Kívül ropogós, belül szaftos."
+          },
+          {
+            "name": "Tarkabab saláta tökmagolajjal",
+            "tip": "Klasszikus stájer saláta, amely kiemeli a tökmagolaj diós ízét."
+          },
+          {
+            "name": "Gasthaus Zöller",
+            "tip": "Híres az autentikus regionális konyhájáról és a hangulatos légköréről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pui prăjit stirian (Backhendl)",
+            "tip": "O specialitate obligatorie în Stiria. Crocant la exterior, suculent la interior."
+          },
+          {
+            "name": "Salată de fasole Käfer cu ulei de dovleac",
+            "tip": "O salată stiriană clasică ce evidențiază gustul de nucă al uleiului de dovleac."
+          },
+          {
+            "name": "Gasthaus Zöller",
+            "tip": "Renumit pentru bucătăria sa regională autentică și atmosfera primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Styrian Fried Chicken (Backhendl)",
+            "tip": "A must-try when in Styria. Crispy on the outside, juicy on the inside."
+          },
+          {
+            "name": "Scarlet Runner Bean Salad with Pumpkin Seed Oil",
+            "tip": "A classic Styrian salad that highlights the nutty flavor of the pumpkin seed oil."
+          },
+          {
+            "name": "Gasthaus Zöller",
+            "tip": "Known for its authentic regional cuisine and cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang entlang der Raab",
+            "tip": "Ein ruhiger Spaziergang am Flussufer kann sehr entspannend sein.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Garten des Museums",
+            "tip": "Nach dem Museumsbesuch bietet der kleine Garten eine Oase der Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Abendstimmung am Solarbaum",
+            "tip": "Das sanfte Licht der Dämmerung verleiht dem Ort eine besondere Magie.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Rába mentén",
+            "tip": "Egy csendes séta a folyóparton nagyon pihentető lehet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A múzeum kertje",
+            "tip": "A múzeumlátogatás után a kis kert a nyugalom oázisát kínálja.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Esti hangulat a Szolárfánál",
+            "tip": "Az alkonyat lágy fényei különleges varázst kölcsönöznek a helynek.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare de-a lungul râului Raab",
+            "tip": "O plimbare liniștită pe malul râului poate fi foarte relaxantă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina muzeului",
+            "tip": "După vizitarea muzeului, mica grădină oferă o oază de liniște.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Atmosferă de seară la Arborele Solar",
+            "tip": "Lumina blândă a amurgului conferă locului o magie aparte.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Stroll along the Raab River",
+            "tip": "A quiet walk along the riverbank can be very relaxing.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Museum Garden",
+            "tip": "After visiting the museum, its small garden offers an oasis of calm.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Evening mood at the Solar Tree",
+            "tip": "The soft light of dusk gives the place a special magic.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bauernmarkt",
+            "tip": "Finden Sie lokale Produkte, von Kürbiskernöl bis hin zu handwerklichem Käse (meist Freitagvormittag)."
+          },
+          {
+            "name": "Regionale Handwerksläden",
+            "tip": "Suchen Sie nach kleinen Geschäften rund um den Hauptplatz für einzigartige Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői piac",
+            "tip": "Keressen helyi termékeket, a tökmagolajtól a kézműves sajtokig (általában péntek délelőtt)."
+          },
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Nézzen körül a Főtér körüli kis üzletekben egyedi ajándéktárgyakért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața fermierilor",
+            "tip": "Găsiți produse locale, de la ulei de dovleac la brânzeturi artizanale (de obicei vineri dimineața)."
+          },
+          {
+            "name": "Magazine de artizanat regional",
+            "tip": "Căutați magazine mici în jurul Pieței Principale pentru suveniruri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farmers' Market",
+            "tip": "Find local products, from pumpkin seed oil to artisanal cheese (usually on Friday mornings)."
+          },
+          {
+            "name": "Regional Craft Shops",
+            "tip": "Look for small shops around the main square for unique souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag auf den Beinen sein werden.",
+          "Eine wiederverwendbare Wasserflasche ist praktisch, um hydriert zu bleiben.",
+          "Gleisdorf ist kompakt und die meisten Sehenswürdigkeiten sind leicht zu Fuß erreichbar.",
+          "Planen Sie eine längere Mittagspause ein, um die steirische Küche wirklich zu genießen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap talpon lesz.",
+          "Egy újratölthető vizes palack praktikus, hogy hidratált maradjon.",
+          "Gleisdorf kompakt, a legtöbb látnivaló könnyen elérhető gyalog.",
+          "Tervezzen egy hosszabb ebédszünetet, hogy igazán kiélvezhesse a stájer konyhát."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți fi pe picioare toată ziua.",
+          "O sticlă de apă reutilizabilă este utilă pentru a vă menține hidratat.",
+          "Gleisdorf este un oraș compact, iar majoritatea atracțiilor sunt ușor accesibile pe jos.",
+          "Planificați o pauză de prânz mai lungă pentru a vă bucura cu adevărat de bucătăria stiriană."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be on your feet all day.",
+          "A reusable water bottle is handy to stay hydrated.",
+          "Gleisdorf is compact, and most sights are easily reachable on foot.",
+          "Plan for a longer lunch break to truly enjoy the Styrian cuisine."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:15",
+      "total_km": 2.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptplatz",
+            "hu": "Főtér",
+            "ro": "Piața Principală",
+            "en": "Main Square"
+          },
+          "coords": [
+            15.7056,
+            47.1008
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Rad sicher ab und genießen Sie die Atmosphäre des Platzes.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és élvezze a tér hangulatát.",
+            "ro": "Asigurați-vă bicicleta și bucurați-vă de atmosfera pieței.",
+            "en": "Lock your bike securely and enjoy the atmosphere of the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche hl. Laurentius",
+            "hu": "Szent Lőrinc plébániatemplom",
+            "ro": "Biserica parohială Sf. Laurențiu",
+            "en": "Parish Church of St. Lawrence"
+          },
+          "coords": [
+            15.707,
+            47.1015
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Eine kurze Radfahrt vom Hauptplatz entfernt. Der Innenraum ist eine ruhige Pause wert.",
+            "hu": "Csak egy rövid bicikliút a Főtértől. A belső tér megér egy csendes pihenőt.",
+            "ro": "La o scurtă plimbare cu bicicleta de Piața Principală. Interiorul merită o pauză liniștită.",
+            "en": "Just a short bike ride from the Main Square. The interior is worth a quiet break."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum im Getreidespeicher",
+            "hu": "Múzeum a magtárban",
+            "ro": "Muzeul din hambar",
+            "en": "Museum in the Granary"
+          },
+          "coords": [
+            15.7085,
+            47.1025
+          ],
+          "category": "museums",
+          "arrive_at": "10:19",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad am Eingang ab und nehmen Sie sich Zeit für die Ausstellungen.",
+            "hu": "Parkolja le a kerékpárt a bejáratnál, és szánjon időt a kiállításokra.",
+            "ro": "Parcați bicicleta la intrare și acordați-vă timp pentru expoziții.",
+            "en": "Park your bike at the entrance and take your time for the exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus der Musik",
+            "hu": "Zene Háza",
+            "ro": "Casa Muzicii",
+            "en": "House of Music"
+          },
+          "coords": [
+            15.704,
+            47.102
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:04",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein architektonisch interessantes Gebäude, leicht mit dem Fahrrad zu erreichen.",
+            "hu": "Építészetileg érdekes épület, kerékpárral könnyen megközelíthető.",
+            "ro": "O clădire interesantă din punct de vedere arhitectural, ușor accesibilă cu bicicleta.",
+            "en": "An architecturally interesting building, easy to reach by bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Solarbaum",
+            "hu": "Szolárfa",
+            "ro": "Arborele Solar",
+            "en": "Solar Tree"
+          },
+          "coords": [
+            15.71,
+            47.099
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:30",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein gutes Ziel für eine kurze Radtour, um das moderne Wahrzeichen zu sehen.",
+            "hu": "Jó célpont egy rövid kerékpártúrához, hogy megnézze ezt a modern jelképet.",
+            "ro": "O destinație bună pentru o scurtă plimbare cu bicicleta pentru a vedea acest reper modern.",
+            "en": "A good destination for a short bike ride to see the modern landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Wellenbad Gleisdorf",
+            "hu": "Gleisdorfi Hullámfürdő",
+            "ro": "Ștrandul cu valuri Gleisdorf",
+            "en": "Gleisdorf Wave Pool"
+          },
+          "coords": [
+            15.698,
+            47.105
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:53",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nach der Radtour ist dies der ideale Ort zum Entspannen. Es gibt sichere Fahrradständer.",
+            "hu": "A kerékpártúra után ez az ideális hely a pihenésre. Biztonságos kerékpártárolók állnak rendelkezésre.",
+            "ro": "După turul cu bicicleta, acesta este locul ideal pentru a vă relaxa. Există suporturi sigure pentru biciclete.",
+            "en": "After the bike tour, this is the ideal place to relax. There are secure bike racks available."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und entdecken Sie Gleisdorf auf zwei Rädern. Die Tour beginnt am Hauptplatz, führt Sie zur ehrwürdigen Stadtpfarrkirche und weiter zum einzigartigen Museum im Getreidespeicher. Nach einem kulturellen Vormittag radeln Sie zum futuristischen Solarbaum. Den krönenden Abschluss bildet ein entspannter Nachmittag im Wellenbad, wo Sie sich von der Tour erholen können. Die kurzen Distanzen machen die Stadt perfekt für eine Erkundung mit dem Fahrrad.",
+        "hu": "Pattanjon biciklire, és fedezze fel Gleisdorfot két keréken! A túra a Főtérről indul, elvezet a tiszteletreméltó plébániatemplomhoz, majd tovább az egyedülálló Magtár Múzeumhoz. A kulturális délelőtt után a futurisztikus Szolárfához teker. A napot egy pihentető délután zárja a Hullámfürdőben, ahol kipihenheti a túra fáradalmait. A rövid távolságok miatt a város tökéletes a kerékpáros felfedezéshez.",
+        "ro": "Urcați-vă pe bicicletă și descoperiți Gleisdorf pe două roți. Turul începe din Piața Principală, vă duce la venerabila Biserică Parohială și apoi la unicul Muzeu din Hambar. După o dimineață culturală, pedalați spre futuristul Arbore Solar. Turul se încheie cu o după-amiază relaxantă la Ștrandul cu valuri, unde vă puteți reface după efort. Distanțele scurte fac orașul perfect pentru explorarea cu bicicleta.",
+        "en": "Get on your bike and discover Gleisdorf on two wheels. The tour starts at the Main Square, takes you to the venerable Parish Church, and on to the unique Museum in the Granary. After a cultural morning, you'll cycle to the futuristic Solar Tree. The tour concludes with a relaxing afternoon at the Wave Pool, where you can recover from your ride. The short distances make the city perfect for exploring by bike."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Steirisches Backhendl",
+            "tip": "Ein Muss in der Steiermark. Außen knusprig, innen saftig."
+          },
+          {
+            "name": "Käferbohnensalat mit Kernöl",
+            "tip": "Ein klassischer steirischer Salat, der den nussigen Geschmack des Kürbiskernöls hervorhebt."
+          },
+          {
+            "name": "Gasthaus Zöller",
+            "tip": "Bekannt für seine authentische regionale Küche und gemütliche Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stájer sült csirke (Backhendl)",
+            "tip": "Kötelező fogás Stájerországban. Kívül ropogós, belül szaftos."
+          },
+          {
+            "name": "Tarkabab saláta tökmagolajjal",
+            "tip": "Klasszikus stájer saláta, amely kiemeli a tökmagolaj diós ízét."
+          },
+          {
+            "name": "Gasthaus Zöller",
+            "tip": "Híres az autentikus regionális konyhájáról és a hangulatos légköréről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pui prăjit stirian (Backhendl)",
+            "tip": "O specialitate obligatorie în Stiria. Crocant la exterior, suculent la interior."
+          },
+          {
+            "name": "Salată de fasole Käfer cu ulei de dovleac",
+            "tip": "O salată stiriană clasică ce evidențiază gustul de nucă al uleiului de dovleac."
+          },
+          {
+            "name": "Gasthaus Zöller",
+            "tip": "Renumit pentru bucătăria sa regională autentică și atmosfera primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Styrian Fried Chicken (Backhendl)",
+            "tip": "A must-try when in Styria. Crispy on the outside, juicy on the inside."
+          },
+          {
+            "name": "Scarlet Runner Bean Salad with Pumpkin Seed Oil",
+            "tip": "A classic Styrian salad that highlights the nutty flavor of the pumpkin seed oil."
+          },
+          {
+            "name": "Gasthaus Zöller",
+            "tip": "Known for its authentic regional cuisine and cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg an der Raab",
+            "tip": "Folgen Sie dem Radweg entlang des Flusses für eine friedliche Fahrt abseits der Straßen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bank bei der Kirche",
+            "tip": "Eine ruhige Bank im Kirchhof ist ideal für eine kurze Pause.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Liegewiese im Wellenbad",
+            "tip": "Nach dem Radfahren gibt es nichts Besseres, als sich auf der Wiese auszustrecken.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Rába mentén",
+            "tip": "Kövesse a folyó menti kerékpárutat egy békés tekerésért az utaktól távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pad a templomnál",
+            "tip": "Egy csendes pad a templomkertben ideális egy rövid szünetre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Pázsit a Hullámfürdőben",
+            "tip": "A kerékpározás után nincs is jobb, mint elnyújtózni a füvön.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul râului Raab",
+            "tip": "Urmați pista de biciclete de-a lungul râului pentru o plimbare liniștită, departe de drumuri.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bancă lângă biserică",
+            "tip": "O bancă liniștită în curtea bisericii este ideală pentru o scurtă pauză.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Peluza de la ștrand",
+            "tip": "După mersul pe bicicletă, nimic nu este mai bun decât să vă întindeți pe iarbă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike path along the Raab River",
+            "tip": "Follow the cycle path along the river for a peaceful ride away from the roads.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bench at the church",
+            "tip": "A quiet bench in the churchyard is ideal for a short break.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Lawn at the Wave Pool",
+            "tip": "After cycling, there's nothing better than stretching out on the grass.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bauernmarkt",
+            "tip": "Ideal, um sich mit Proviant für die Radtour einzudecken (meist Freitagvormittag)."
+          },
+          {
+            "name": "Sportgeschäfte",
+            "tip": "Falls Sie Zubehör für Ihr Fahrrad benötigen, finden Sie in der Stadt einige Optionen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői piac",
+            "tip": "Ideális hely, hogy feltöltse a készleteit a kerékpártúrára (általában péntek délelőtt)."
+          },
+          {
+            "name": "Sportboltok",
+            "tip": "Ha kerékpár-kiegészítőre van szüksége, talál néhány lehetőséget a városban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața fermierilor",
+            "tip": "Ideal pentru a vă aproviziona pentru turul cu bicicleta (de obicei vineri dimineața)."
+          },
+          {
+            "name": "Magazine de sport",
+            "tip": "Dacă aveți nevoie de accesorii pentru bicicletă, veți găsi câteva opțiuni în oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farmers' Market",
+            "tip": "Ideal for stocking up on provisions for the bike tour (usually Friday mornings)."
+          },
+          {
+            "name": "Sports Shops",
+            "tip": "If you need any accessories for your bike, you'll find a few options in town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck, bevor Sie losfahren.",
+          "Ein gutes Schloss ist unerlässlich, um Ihr Fahrrad an den Haltepunkten zu sichern.",
+          "Gleisdorf ist Teil des R11 Raabtal-Radwegs, der sich für längere Touren anbietet.",
+          "Nutzen Sie einen Rucksack für Wasser, Snacks und eventuelle Einkäufe."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Egy jó lakat elengedhetetlen a kerékpár biztonságos lezárásához a megállóknál.",
+          "Gleisdorf része az R11 Rába-völgyi kerékpárútnak, amely hosszabb túrákra is alkalmas.",
+          "Használjon hátizsákot a víz, snackek és esetleges vásárlások szállítására."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de a porni.",
+          "Un lacăt bun este esențial pentru a vă asigura bicicleta la opriri.",
+          "Gleisdorf face parte din pista de biciclete R11 din valea Raab, care este potrivită pentru tururi mai lungi.",
+          "Folosiți un rucsac pentru apă, gustări și orice cumpărături."
+        ],
+        "en": [
+          "Check your tire pressure before you set off.",
+          "A good lock is essential to secure your bike at the stops.",
+          "Gleisdorf is part of the R11 Raab Valley Cycle Path, which is suitable for longer tours.",
+          "Use a backpack for water, snacks, and any purchases."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:39",
+      "total_km": 5.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum",
+            "hu": "Parkoló a központban",
+            "ro": "Parcare centrală",
+            "en": "Central Car Park"
+          },
+          "coords": [
+            15.708,
+            47.1005
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier, um das historische Zentrum bequem zu Fuß zu erkunden.",
+            "hu": "Parkoljon itt, hogy kényelmesen felfedezhesse a történelmi központot gyalog.",
+            "ro": "Parcați aici pentru a explora convenabil centrul istoric pe jos.",
+            "en": "Park here to conveniently explore the historic center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptplatz & Rathaus",
+            "hu": "Főtér és Városháza",
+            "ro": "Piața Principală & Primăria",
+            "en": "Main Square & Town Hall"
+          },
+          "coords": [
+            15.7056,
+            47.1008
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der erste Spaziergang des Tages führt Sie ins Herz von Gleisdorf.",
+            "hu": "A nap első sétája Gleisdorf szívébe vezet.",
+            "ro": "Prima plimbare a zilei vă duce în inima orașului Gleisdorf.",
+            "en": "The first walk of the day takes you to the heart of Gleisdorf."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche hl. Laurentius",
+            "hu": "Szent Lőrinc plébániatemplom",
+            "ro": "Biserica parohială Sf. Laurențiu",
+            "en": "Parish Church of St. Lawrence"
+          },
+          "coords": [
+            15.707,
+            47.1015
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:49",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz, um die beeindruckende Architektur zu sehen.",
+            "hu": "Egy rövid séta a Főtértől, hogy megcsodálja a lenyűgöző építészetet.",
+            "ro": "O scurtă plimbare de la Piața Principală pentru a vedea arhitectura impresionantă.",
+            "en": "A short walk from the main square to see the impressive architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum im Getreidespeicher",
+            "hu": "Múzeum a magtárban",
+            "ro": "Muzeul din hambar",
+            "en": "Museum in the Granary"
+          },
+          "coords": [
+            15.7085,
+            47.1025
+          ],
+          "category": "museums",
+          "arrive_at": "10:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Dieses Museum ist der letzte Halt in diesem Cluster, bevor Sie zum Auto zurückkehren.",
+            "hu": "Ez a múzeum az utolsó megálló ebben a klaszterben, mielőtt visszatérne az autóhoz.",
+            "ro": "Acest muzeu este ultima oprire din acest cluster înainte de a vă întoarce la mașină.",
+            "en": "This museum is the last stop in this cluster before you return to the car."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Wellenbad/Solarbaum",
+            "hu": "Parkoló a Hullámfürdő/Szolárfa mellett",
+            "ro": "Parcare Ștrand/Arbore Solar",
+            "en": "Car Park Wave Pool/Solar Tree"
+          },
+          "coords": [
+            15.699,
+            47.104
+          ],
+          "category": "transport",
+          "arrive_at": "12:21",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum zweiten Cluster. Von hier aus sind der Solarbaum und das Bad leicht zu Fuß erreichbar.",
+            "hu": "Vezessen a második klaszterhez. Innen a Szolárfa és a fürdő könnyen elérhető gyalog.",
+            "ro": "Conduceți spre al doilea cluster. De aici, Arborele Solar și ștrandul sunt ușor accesibile pe jos.",
+            "en": "Drive to the second cluster. From here, the Solar Tree and the pool are within easy walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Wellenbad Gleisdorf",
+            "hu": "Gleisdorfi Hullámfürdő",
+            "ro": "Ștrandul cu valuri Gleisdorf",
+            "en": "Gleisdorf Wave Pool"
+          },
+          "coords": [
+            15.698,
+            47.105
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:25",
+          "stay_min": 150,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nach der Fahrt und dem Kulturprogramm ist dies der ideale Ort für eine lange, entspannte Pause.",
+            "hu": "Az autózás és a kulturális program után ez az ideális hely egy hosszú, pihentető szünetre.",
+            "ro": "După condus și programul cultural, acesta este locul ideal pentru o pauză lungă și relaxantă.",
+            "en": "After the drive and the cultural program, this is the ideal place for a long, relaxing break."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto entdecken Sie Gleisdorf in zwei bequemen Etappen. Zuerst parken Sie im Zentrum und erkunden zu Fuß den historischen Kern rund um den Hauptplatz, die Kirche und das Museum. Nach einem Vormittag voller Kultur und Geschichte fahren Sie zum zweiten Cluster. Hier parken Sie erneut und widmen den Nachmittag der Entspannung im Wellenbad und einem Besuch beim innovativen Solarbaum. Dieser Plan kombiniert Sightseeing mit Komfort.",
+        "hu": "Autóval két kényelmes szakaszban fedezheti fel Gleisdorfot. Először a központban parkol, és gyalog fedezi fel a történelmi magot a Főtér, a templom és a múzeum körül. A kultúrával és történelemmel teli délelőtt után a második klaszterhez hajt. Itt újra leparkol, és a délutánt a Hullámfürdőben való pihenésnek és az innovatív Szolárfa meglátogatásának szenteli. Ez a terv ötvözi a városnézést a kényelemmel.",
+        "ro": "Cu mașina, descoperiți Gleisdorf în două etape convenabile. Mai întâi, parcați în centru și explorați pe jos nucleul istoric din jurul Pieței Principale, biserica și muzeul. După o dimineață plină de cultură și istorie, conduceți spre al doilea cluster. Aici parcați din nou și dedicați după-amiaza relaxării la Ștrandul cu valuri și unei vizite la inovatorul Arbore Solar. Acest plan combină vizitarea obiectivelor turistice cu confortul.",
+        "en": "By car, you can discover Gleisdorf in two convenient stages. First, park in the center and explore the historic core around the Main Square, the church, and the museum on foot. After a morning full of culture and history, drive to the second cluster. Here you park again and dedicate the afternoon to relaxing at the Wave Pool and visiting the innovative Solar Tree. This plan combines sightseeing with comfort."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Steirisches Backhendl",
+            "tip": "Ein Muss in der Steiermark. Außen knusprig, innen saftig."
+          },
+          {
+            "name": "Käferbohnensalat mit Kernöl",
+            "tip": "Ein klassischer steirischer Salat, der den nussigen Geschmack des Kürbiskernöls hervorhebt."
+          },
+          {
+            "name": "Gasthaus Zöller",
+            "tip": "Bekannt für seine authentische regionale Küche und gemütliche Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stájer sült csirke (Backhendl)",
+            "tip": "Kötelező fogás Stájerországban. Kívül ropogós, belül szaftos."
+          },
+          {
+            "name": "Tarkabab saláta tökmagolajjal",
+            "tip": "Klasszikus stájer saláta, amely kiemeli a tökmagolaj diós ízét."
+          },
+          {
+            "name": "Gasthaus Zöller",
+            "tip": "Híres az autentikus regionális konyhájáról és a hangulatos légköréről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pui prăjit stirian (Backhendl)",
+            "tip": "O specialitate obligatorie în Stiria. Crocant la exterior, suculent la interior."
+          },
+          {
+            "name": "Salată de fasole Käfer cu ulei de dovleac",
+            "tip": "O salată stiriană clasică ce evidențiază gustul de nucă al uleiului de dovleac."
+          },
+          {
+            "name": "Gasthaus Zöller",
+            "tip": "Renumit pentru bucătăria sa regională autentică și atmosfera primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Styrian Fried Chicken (Backhendl)",
+            "tip": "A must-try when in Styria. Crispy on the outside, juicy on the inside."
+          },
+          {
+            "name": "Scarlet Runner Bean Salad with Pumpkin Seed Oil",
+            "tip": "A classic Styrian salad that highlights the nutty flavor of the pumpkin seed oil."
+          },
+          {
+            "name": "Gasthaus Zöller",
+            "tip": "Known for its authentic regional cuisine and cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt durch die Landschaft",
+            "tip": "Genießen Sie die kurze Fahrt zwischen den Clustern, um die ländliche Umgebung zu sehen.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Kirchhof",
+            "tip": "Ein Moment der Stille abseits des Trubels am Hauptplatz.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Nachmittagssonne im Wellenbad",
+            "tip": "Finden Sie einen ruhigen Platz auf der Liegewiese und genießen Sie die Sonne.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Autózás a tájon át",
+            "tip": "Élvezze a rövid utat a klaszterek között, hogy lássa a vidéki környezetet.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Templomkert",
+            "tip": "Egy csendes pillanat a Főtér nyüzsgésétől távol.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Délutáni napsütés a Hullámfürdőben",
+            "tip": "Keressen egy csendes helyet a pázsiton, és élvezze a napsütést.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare cu mașina prin peisaj",
+            "tip": "Bucurați-vă de scurta călătorie între clustere pentru a vedea peisajul rural.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Curtea bisericii",
+            "tip": "Un moment de liniște departe de agitația din Piața Principală.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Soarele de după-amiază la ștrand",
+            "tip": "Găsiți un loc liniștit pe peluză și bucurați-vă de soare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Drive through the countryside",
+            "tip": "Enjoy the short drive between clusters to see the rural surroundings.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Churchyard",
+            "tip": "A moment of silence away from the hustle and bustle of the main square.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Afternoon sun at the Wave Pool",
+            "tip": "Find a quiet spot on the lawn and enjoy the sun.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ab-Hof-Verkauf",
+            "tip": "Halten Sie Ausschau nach Schildern für Direktvermarkter am Stadtrand für frischeste Produkte."
+          },
+          {
+            "name": "Kürbiskernöl",
+            "tip": "Ein perfektes Mitbringsel aus der Steiermark. Kaufen Sie es direkt vom Erzeuger, wenn möglich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői árusítás",
+            "tip": "Keresse a termelői táblákat a város szélén a legfrissebb termékekért."
+          },
+          {
+            "name": "Tökmagolaj",
+            "tip": "Tökéletes ajándék Stájerországból. Ha lehetséges, vásárolja közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vânzare directă de la fermă",
+            "tip": "Fiți atenți la indicatoarele pentru vânzătorii direcți la marginea orașului pentru cele mai proaspete produse."
+          },
+          {
+            "name": "Ulei de sâmburi de dovleac",
+            "tip": "Un suvenir perfect din Stiria. Cumpărați-l direct de la producător, dacă este posibil."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm gate sales",
+            "tip": "Look out for signs for direct sellers on the outskirts of town for the freshest produce."
+          },
+          {
+            "name": "Pumpkin seed oil",
+            "tip": "A perfect souvenir from Styria. Buy it directly from the producer if possible."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Parkgebühren und -zeiten, um Strafzettel zu vermeiden.",
+          "Ein Navigationsgerät hilft, die Parkplätze der einzelnen Cluster schnell zu finden.",
+          "Lassen Sie keine Wertsachen sichtbar im Auto liegen.",
+          "Die Cluster-Planung ermöglicht es Ihnen, das Auto abzustellen und die Atmosphäre zu Fuß zu genießen."
+        ],
+        "hu": [
+          "Ellenőrizze a parkolási díjakat és időket a bírságok elkerülése érdekében.",
+          "Egy navigációs eszköz segít gyorsan megtalálni az egyes klaszterek parkolóit.",
+          "Ne hagyjon értékeket látható helyen az autóban.",
+          "A klaszter-tervezés lehetővé teszi, hogy letegye az autót, és gyalog élvezze a hangulatot."
+        ],
+        "ro": [
+          "Verificați taxele și orele de parcare pentru a evita amenzile.",
+          "Un sistem de navigație vă ajută să găsiți rapid parcările pentru fiecare cluster.",
+          "Nu lăsați obiecte de valoare la vedere în mașină.",
+          "Planificarea pe clustere vă permite să lăsați mașina și să vă bucurați de atmosferă pe jos."
+        ],
+        "en": [
+          "Check parking fees and times to avoid fines.",
+          "A navigation device helps to quickly find the parking lots for each cluster.",
+          "Do not leave valuables visible in the car.",
+          "The cluster planning allows you to leave the car and enjoy the atmosphere on foot."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:07",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Hauptplatz",
+            "hu": "Érkezés a Főtérre",
+            "ro": "Sosire în Piața Principală",
+            "en": "Arrival at Main Square"
+          },
+          "coords": [
+            15.7056,
+            47.1008
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der Busbahnhof liegt zentral und ist der ideale Ausgangspunkt.",
+            "hu": "A buszpályaudvar központi helyen van, és ideális kiindulópont.",
+            "ro": "Autogara este situată central și este punctul de plecare ideal.",
+            "en": "The bus station is centrally located and is the ideal starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptplatz & Mariensäule",
+            "hu": "Főtér és Mária-oszlop",
+            "ro": "Piața Principală & Coloana Mariei",
+            "en": "Main Square & Mary's Column"
+          },
+          "coords": [
+            15.7054,
+            47.1006
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:12",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie den Platz, bevor Sie zur nächsten Haltestelle schlendern.",
+            "hu": "Fedezze fel a teret, mielőtt átsétál a következő megállóhoz.",
+            "ro": "Explorați piața înainte de a vă plimba spre următoarea oprire.",
+            "en": "Explore the square before strolling to the next stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche hl. Laurentius",
+            "hu": "Szent Lőrinc plébániatemplom",
+            "ro": "Biserica parohială Sf. Laurențiu",
+            "en": "Parish Church of St. Lawrence"
+          },
+          "coords": [
+            15.707,
+            47.1015
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Vom Hauptplatz aus leicht zu Fuß erreichbar.",
+            "hu": "A Főtérről gyalog könnyen megközelíthető.",
+            "ro": "Ușor de ajuns pe jos din Piața Principală.",
+            "en": "Easily reachable on foot from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Museum",
+            "hu": "Buszozás a múzeumhoz",
+            "ro": "Călătorie cu autobuzul la muzeu",
+            "en": "Bus ride to the Museum"
+          },
+          "coords": [
+            15.7085,
+            47.1025
+          ],
+          "category": "transport",
+          "arrive_at": "10:46",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den lokalen Bus, um zum nächsten Cluster zu gelangen.",
+            "hu": "Vegye igénybe a helyi buszt a következő klaszter eléréséhez.",
+            "ro": "Luați autobuzul local pentru a ajunge la următorul cluster.",
+            "en": "Take the local bus to get to the next cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum im Getreidespeicher",
+            "hu": "Múzeum a magtárban",
+            "ro": "Muzeul din hambar",
+            "en": "Museum in the Granary"
+          },
+          "coords": [
+            15.7085,
+            47.1025
+          ],
+          "category": "museums",
+          "arrive_at": "10:48",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Die Bushaltestelle ist direkt vor dem Museum.",
+            "hu": "A buszmegálló közvetlenül a múzeum előtt van.",
+            "ro": "Stația de autobuz este chiar în fața muzeului.",
+            "en": "The bus stop is right in front of the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Wellenbad Gleisdorf",
+            "hu": "Gleisdorfi Hullámfürdő",
+            "ro": "Ștrandul cu valuri Gleisdorf",
+            "en": "Gleisdorf Wave Pool"
+          },
+          "coords": [
+            15.698,
+            47.105
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:48",
+          "stay_min": 155,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Eine weitere kurze Busfahrt bringt Sie zur Entspannung am Nachmittag.",
+            "hu": "Egy újabb rövid buszút elviszi Önt a délutáni pihenéshez.",
+            "ro": "O altă călătorie scurtă cu autobuzul vă duce la relaxarea de după-amiază.",
+            "en": "Another short bus ride takes you to your afternoon relaxation."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln lässt sich Gleisdorf stressfrei erkunden. Starten Sie im Zentrum, das Sie zu Fuß erkunden. Ein kurzer Spaziergang führt Sie vom Hauptplatz zur Kirche. Anschließend bringt Sie ein lokaler Bus bequem zum Museum im Getreidespeicher für eine Dosis Regionalgeschichte. Eine weitere Busfahrt später erreichen Sie das Wellenbad, wo Sie den Rest des Nachmittags entspannt ausklingen lassen können.",
+        "hu": "Tömegközlekedéssel stresszmentesen fedezheti fel Gleisdorfot. Kezdje a központban, amelyet gyalog járhat be. Egy rövid séta vezet a Főtértől a templomig. Ezután egy helyi busz kényelmesen elviszi a Magtár Múzeumhoz egy adag regionális történelemért. Egy újabb buszozás után eléri a Hullámfürdőt, ahol a délután hátralévő részét pihenéssel töltheti.",
+        "ro": "Cu transportul public, puteți explora Gleisdorf fără stres. Începeți în centru, pe care îl explorați pe jos. O scurtă plimbare vă duce de la Piața Principală la biserică. Apoi, un autobuz local vă duce convenabil la Muzeul din Hambar pentru o doză de istorie regională. O altă călătorie cu autobuzul mai târziu ajungeți la Ștrandul cu valuri, unde puteți petrece restul după-amiezii relaxându-vă.",
+        "en": "Using public transport, you can explore Gleisdorf stress-free. Start in the center, which you'll explore on foot. A short walk takes you from the main square to the church. Then, a local bus will conveniently take you to the Museum in the Granary for a dose of regional history. Another bus ride later, you'll reach the Wave Pool, where you can spend the rest of the afternoon relaxing."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Steirisches Backhendl",
+            "tip": "Ein Muss in der Steiermark. Außen knusprig, innen saftig."
+          },
+          {
+            "name": "Käferbohnensalat mit Kernöl",
+            "tip": "Ein klassischer steirischer Salat, der den nussigen Geschmack des Kürbiskernöls hervorhebt."
+          },
+          {
+            "name": "Gasthaus Zöller",
+            "tip": "Bekannt für seine authentische regionale Küche und gemütliche Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stájer sült csirke (Backhendl)",
+            "tip": "Kötelező fogás Stájerországban. Kívül ropogós, belül szaftos."
+          },
+          {
+            "name": "Tarkabab saláta tökmagolajjal",
+            "tip": "Klasszikus stájer saláta, amely kiemeli a tökmagolaj diós ízét."
+          },
+          {
+            "name": "Gasthaus Zöller",
+            "tip": "Híres az autentikus regionális konyhájáról és a hangulatos légköréről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pui prăjit stirian (Backhendl)",
+            "tip": "O specialitate obligatorie în Stiria. Crocant la exterior, suculent la interior."
+          },
+          {
+            "name": "Salată de fasole Käfer cu ulei de dovleac",
+            "tip": "O salată stiriană clasică ce evidențiază gustul de nucă al uleiului de dovleac."
+          },
+          {
+            "name": "Gasthaus Zöller",
+            "tip": "Renumit pentru bucătăria sa regională autentică și atmosfera primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Styrian Fried Chicken (Backhendl)",
+            "tip": "A must-try when in Styria. Crispy on the outside, juicy on the inside."
+          },
+          {
+            "name": "Scarlet Runner Bean Salad with Pumpkin Seed Oil",
+            "tip": "A classic Styrian salad that highlights the nutty flavor of the pumpkin seed oil."
+          },
+          {
+            "name": "Gasthaus Zöller",
+            "tip": "Known for its authentic regional cuisine and cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fensterplatz im Bus",
+            "tip": "Beobachten Sie die Stadt aus einer anderen Perspektive, während Sie zum nächsten Ziel fahren.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Kirchhof",
+            "tip": "Ein Moment der Stille abseits des Trubels am Hauptplatz.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Später Nachmittag im Bad",
+            "tip": "Wenn die meisten Besucher gehen, wird es ruhiger und noch entspannender.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ablakhely a buszon",
+            "tip": "Nézze a várost egy másik perspektívából, miközben a következő cél felé utazik.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Templomkert",
+            "tip": "Egy csendes pillanat a Főtér nyüzsgésétől távol.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Késő délután a fürdőben",
+            "tip": "Amikor a legtöbb látogató távozik, csendesebb és még pihentetőbb lesz.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Loc la fereastră în autobuz",
+            "tip": "Observați orașul dintr-o altă perspectivă în timp ce vă deplasați spre următoarea destinație.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Curtea bisericii",
+            "tip": "Un moment de liniște departe de agitația din Piața Principală.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "După-amiază târzie la ștrand",
+            "tip": "Când majoritatea vizitatorilor pleacă, devine mai liniștit și mai relaxant.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Window seat on the bus",
+            "tip": "Watch the city from a different perspective as you travel to the next destination.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Churchyard",
+            "tip": "A moment of silence away from the hustle and bustle of the main square.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Late afternoon at the pool",
+            "tip": "When most visitors leave, it becomes quieter and even more relaxing.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs am Hauptplatz",
+            "tip": "Die Geschäfte rund um den Platz bieten eine Auswahl an lokalen Andenken."
+          },
+          {
+            "name": "Kleine Bäckereien",
+            "tip": "Kaufen Sie lokales Gebäck für eine süße Pause zwischendurch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándéktárgyak a Főtéren",
+            "tip": "A tér körüli üzletek helyi emléktárgyak választékát kínálják."
+          },
+          {
+            "name": "Kis pékségek",
+            "tip": "Vásároljon helyi süteményt egy édes szünethez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri în Piața Principală",
+            "tip": "Magazinele din jurul pieței oferă o selecție de suveniruri locale."
+          },
+          {
+            "name": "Mici brutării",
+            "tip": "Cumpărați produse de patiserie locale pentru o pauză dulce."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenirs at the Main Square",
+            "tip": "The shops around the square offer a selection of local keepsakes."
+          },
+          {
+            "name": "Small bakeries",
+            "tip": "Buy some local pastries for a sweet break in between."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Informieren Sie sich vorab über die Busfahrpläne, um Wartezeiten zu minimieren.",
+          "Die meisten Busse haben Anzeigen für die nächste Haltestelle.",
+          "Haben Sie Kleingeld für Tickets bereit, falls Sie diese direkt beim Fahrer kaufen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha több utazást tervez.",
+          "Előzetesen tájékozódjon a buszmenetrendről a várakozási idők minimalizálása érdekében.",
+          "A legtöbb buszon van kijelző a következő megállóhoz.",
+          "Készítsen elő aprópénzt a jegyekhez, ha közvetlenül a sofőrtől vásárol."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă plănuiți mai multe călătorii.",
+          "Verificați programul autobuzelor în avans pentru a minimiza timpii de așteptare.",
+          "Majoritatea autobuzelor au afișaje pentru următoarea stație.",
+          "Pregătiți mărunțiș pentru bilete dacă le cumpărați direct de la șofer."
+        ],
+        "en": [
+          "Buy a day ticket for the bus if you plan multiple trips.",
+          "Check the bus schedules in advance to minimize waiting times.",
+          "Most buses have displays for the next stop.",
+          "Have small change ready for tickets if you buy them directly from the driver."
+        ]
+      }
+    }
+  }
+}

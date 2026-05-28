@@ -1,0 +1,1344 @@
+{
+  "city_id": "lithuania-telsiai-cities-v2",
+  "anchor": {
+    "name": "Telšiai",
+    "coords": [
+      55.9833,
+      22.25
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bären-Skulpturen",
+            "hu": "Medve-szobrok",
+            "ro": "Sculpturile Ursului",
+            "en": "Bear Sculptures"
+          },
+          "coords": [
+            22.248,
+            55.984
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Suchen Sie alle Bärenstatuen in der Stadt, sie erzählen die Legende der Stadtgründung.",
+            "hu": "Keresd meg a városban elszórt összes medveszobrot, melyek a város alapításának legendáját mesélik el.",
+            "ro": "Căutați toate statuile de urși din oraș, ele spun legenda fondării orașului.",
+            "en": "Look for all the bear statues around the city; they tell the legend of the city's founding."
+          }
+        },
+        {
+          "name": {
+            "de": "Jeschiwa von Telšiai",
+            "hu": "Telšiai-i jesiva",
+            "ro": "Ieșiva din Telšiai",
+            "en": "Telšiai Yeshiva"
+          },
+          "coords": [
+            22.249,
+            55.985
+          ],
+          "category": "historical",
+          "arrive_at": "09:40",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Ein wichtiges Zentrum jüdischer Gelehrsamkeit. Beachten Sie die Architektur und die Gedenktafeln.",
+            "hu": "A zsidó tudományosság egykor fontos központja. Figyeld meg az építészetét és az emléktáblákat.",
+            "ro": "Un centru important al învățăturii evreiești. Observați arhitectura și plăcile comemorative.",
+            "en": "An important center of Jewish scholarship. Note the architecture and commemorative plaques."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Antonius-von-Padua-Kathedrale",
+            "hu": "Páduai Szent Antal-katedrális",
+            "ro": "Catedrala Sfântul Anton de Padova",
+            "en": "St. Anthony of Padua Cathedral"
+          },
+          "coords": [
+            22.251,
+            55.986
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:31",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Bewundern Sie die sieben Altäre und die Rokoko-Kanzel. Der Ausblick vom Turm ist die Mühe wert.",
+            "hu": "Csodáld meg a hét oltárt és a rokokó szószéket. A toronyból nyíló kilátás megéri a fáradságot.",
+            "ro": "Admirați cele șapte altare și amvonul în stil rococo. Priveliștea din turn merită efortul.",
+            "en": "Admire the seven altars and the Rococo pulpit. The view from the tower is worth the effort."
+          }
+        },
+        {
+          "name": {
+            "de": "Samogitisches Museum Alka",
+            "hu": "Alka Szamogitiai Múzeum",
+            "ro": "Muzeul Samogitian Alka",
+            "en": "Samogitian Museum Alka"
+          },
+          "coords": [
+            22.245,
+            55.983
+          ],
+          "category": "museums",
+          "arrive_at": "11:43",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_4lang": {
+            "de": "Planen Sie genügend Zeit ein, um die reiche Kultur und Geschichte von Samogitien zu entdecken.",
+            "hu": "Szánj elég időt Szamogitia gazdag kultúrájának és történelmének felfedezésére. Ebéd a közelben.",
+            "ro": "Planificați suficient timp pentru a explora cultura și istoria bogată a Samogiției.",
+            "en": "Plan enough time to explore the rich culture and history of Samogitia. Plan lunch nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Mastis-See-Promenade",
+            "hu": "Mastis-tó sétánya",
+            "ro": "Promenada Lacului Mastis",
+            "en": "Mastis Lake Promenade"
+          },
+          "coords": [
+            22.235,
+            55.981
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:43",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Ein idealer Ort für einen entspannten Nachmittagsspaziergang oder eine Kaffeepause mit Seeblick.",
+            "hu": "Ideális hely egy pihentető délutáni sétához vagy egy kávészünethez a tóra néző kilátással.",
+            "ro": "Un loc ideal pentru o plimbare relaxantă de după-amiază sau o pauză de cafea cu vedere la lac.",
+            "en": "An ideal spot for a relaxing afternoon walk or a coffee break with a view of the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Mariä-Himmelfahrt-Kirche",
+            "hu": "Nagyboldogasszony-templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Assumption of the Blessed Virgin Mary"
+          },
+          "coords": [
+            22.253,
+            55.978
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:25",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_4lang": {
+            "de": "Diese Holzkirche ist ein verstecktes Juwel. Suchen Sie nach den einzigartigen Holzschnitzereien im Inneren.",
+            "hu": "Ez a fatemplom egy rejtett kincs. Keresd meg a belső tér egyedi fafaragásait.",
+            "ro": "Această biserică din lemn este o bijuterie ascunsă. Căutați sculpturile unice în lemn din interior.",
+            "en": "This wooden church is a hidden gem. Look for the unique wood carvings inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Džiugas-Hügel",
+            "hu": "Džiugas-hegy",
+            "ro": "Dealul Džiugas",
+            "en": "Džiugas Hill"
+          },
+          "coords": [
+            22.26,
+            55.975
+          ],
+          "category": "natural features",
+          "arrive_at": "16:25",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Der beste Ort, um den Sonnenuntergang über Telšiai zu beobachten. Bringen Sie eine Decke mit.",
+            "hu": "A legjobb hely a naplemente megtekintésére Telšiai felett. Hozz magaddal egy takarót.",
+            "ro": "Cel mai bun loc pentru a privi apusul peste Telšiai. Aduceți o pătură.",
+            "en": "The best place to watch the sunset over Telšiai. Bring a blanket."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Telšiai, der Hauptstadt von Samogitien, und entdecken Sie die Legende der Bärenstatuen. Erkunden Sie das reiche jüdische Erbe in der historischen Jeschiwa, bevor Sie die beeindruckende Kathedrale besteigen. Am Nachmittag tauchen Sie im Alka-Museum in die lokale Kultur ein, gefolgt von einem entspannten Spaziergang entlang des malerischen Mastis-Sees. Schließen Sie Ihren Tag mit einem Besuch der charmanten Holzkirche und einem atemberaubenden Sonnenuntergang vom Džiugas-Hügel ab.",
+        "hu": "Kezdje a napot Szamogitia fővárosának, Telšiai-nak a szívében, a medveszobrok legendájának felfedezésével. Ismerje meg a gazdag zsidó örökséget a történelmi jesivában, mielőtt megmássza a lenyűgöző katedrálist. Délután merüljön el a helyi kultúrában az Alka Múzeumban, majd tegyen egy pihentető sétát a festői Mastis-tó partján. Zárja a napot a bájos fatemplom meglátogatásával és egy lélegzetelállító naplementével a Džiugas-hegyről.",
+        "ro": "Începeți ziua în inima orașului Telšiai, capitala Samogiției, descoperind legenda statuilor de urși. Explorați bogata moștenire evreiască la istorica Ieșiva înainte de a urca la impunătoarea catedrală. După-amiaza, pătrundeți în cultura locală la Muzeul Alka, urmată de o plimbare relaxantă de-a lungul pitorescului lac Mastis. Încheiați ziua cu o vizită la fermecătoarea biserică de lemn și un apus de soare uluitor de pe Dealul Džiugas.",
+        "en": "Start your day in the heart of Telšiai, the capital of Samogitia, by discovering the legend of the bear statues. Explore the rich Jewish heritage at the historical Yeshiva before ascending the impressive cathedral. In the afternoon, immerse yourself in local culture at the Alka Museum, followed by a relaxing walk along the scenic Mastis Lake. Conclude your day with a visit to the charming wooden church and a breathtaking sunset from Džiugas Hill."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cepelinai",
+            "tip": "Probieren Sie die traditionellen litauischen Kartoffelklöße, gefüllt mit Fleisch oder Käse."
+          },
+          {
+            "name": "Šaltibarščiai",
+            "tip": "Eine erfrischende kalte Rote-Bete-Suppe, perfekt für einen warmen Tag."
+          },
+          {
+            "name": "Džiugas Käse",
+            "tip": "Verpassen Sie nicht, den berühmten Hartkäse zu probieren, der in Telšiai hergestellt wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cepelinai",
+            "tip": "Kóstold meg a hagyományos litván, hússal vagy sajttal töltött burgonyagombócot."
+          },
+          {
+            "name": "Šaltibarščiai",
+            "tip": "Egy frissítő hideg céklaleves, tökéletes egy meleg napra."
+          },
+          {
+            "name": "Džiugas sajt",
+            "tip": "Ne hagyd ki a Telšiai-ban készülő híres kemény sajtot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cepelinai",
+            "tip": "Încercați găluștele tradiționale lituaniene din cartofi, umplute cu carne sau brânză."
+          },
+          {
+            "name": "Šaltibarščiai",
+            "tip": "O supă rece răcoritoare de sfeclă roșie, perfectă pentru o zi călduroasă."
+          },
+          {
+            "name": "Brânza Džiugas",
+            "tip": "Nu ratați faimoasa brânză tare produsă în Telšiai."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cepelinai",
+            "tip": "Try the traditional Lithuanian potato dumplings, filled with meat or cheese."
+          },
+          {
+            "name": "Šaltibarščiai",
+            "tip": "A refreshing cold beetroot soup, perfect for a warm day."
+          },
+          {
+            "name": "Džiugas Cheese",
+            "tip": "Don't miss trying the famous hard cheese produced in Telšiai."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mastis-See-Promenade",
+            "tip": "Finden Sie eine Bank und genießen Sie die ruhige Aussicht auf den See.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Džiugas-Hügel",
+            "tip": "Der perfekte Ort für einen Panoramablick und einen Moment der Stille bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Garten der Kathedrale",
+            "tip": "Ein kleiner, friedlicher Ort abseits der Menschenmassen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mastis-tó sétánya",
+            "tip": "Keress egy padot és élvezd a tó nyugodt látványát.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Džiugas-hegy",
+            "tip": "Tökéletes hely a panorámás kilátáshoz és egy csendes pillanathoz naplementekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A katedrális kertje",
+            "tip": "Egy kis, békés hely a tömegtől távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada Lacului Mastis",
+            "tip": "Găsiți o bancă și bucurați-vă de priveliștea liniștită a lacului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dealul Džiugas",
+            "tip": "Locul perfect pentru o vedere panoramică și un moment de liniște la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina Catedralei",
+            "tip": "Un loc mic și pașnic, departe de mulțime.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mastis Lake Promenade",
+            "tip": "Find a bench and enjoy the serene view of the lake.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Džiugas Hill",
+            "tip": "The perfect spot for a panoramic view and a quiet moment at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cathedral Garden",
+            "tip": "A small, peaceful spot away from the crowds.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Džiugas Käseladen",
+            "tip": "Kaufen Sie den authentischen Käse direkt von der Quelle."
+          },
+          {
+            "name": "Lokale Kunsthandwerksläden",
+            "tip": "Suchen Sie nach Leinenprodukten und Bernsteinschmuck, den Spezialitäten der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Džiugas Sajtbolt",
+            "tip": "Vásárolj autentikus sajtot közvetlenül a forrásból."
+          },
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keress lenvászon termékeket és borostyán ékszereket, a régió specialitásait."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de brânzeturi Džiugas",
+            "tip": "Cumpărați brânza autentică direct de la sursă."
+          },
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Căutați produse din in și bijuterii din chihlimbar, specialitățile regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Džiugas Cheese Shop",
+            "tip": "Buy the authentic cheese directly from the source."
+          },
+          {
+            "name": "Local Craft Shops",
+            "tip": "Look for linen products and amber jewelry, which are specialties of the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Prüfen Sie die Öffnungszeiten der Museen und Kirchen im Voraus.",
+          "Eine Powerbank für Ihr Telefon ist eine gute Idee für einen ganzen Tag voller Fotos."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, mert sokat fogsz gyalogolni.",
+          "Előre ellenőrizd a múzeumok és templomok nyitvatartási idejét.",
+          "Egy power bank a telefonodhoz jó ötlet egy egész napos fotózáshoz."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Verificați în avans orele de program ale muzeelor și bisericilor.",
+          "O baterie externă pentru telefon este o idee bună pentru o zi întreagă de fotografii."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Check the opening hours of museums and churches in advance.",
+          "A power bank for your phone is a good idea for a full day of photos."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mastis-See-Promenade",
+            "hu": "Mastis-tó sétánya",
+            "ro": "Promenada Lacului Mastis",
+            "en": "Mastis Lake Promenade"
+          },
+          "coords": [
+            22.235,
+            55.981
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Beginnen Sie den Tag mit einer erfrischenden Radtour um den See.",
+            "hu": "Kezdje a napot egy frissítő kerékpártúrával a tó körül.",
+            "ro": "Începeți ziua cu o plimbare revigorantă cu bicicleta în jurul lacului.",
+            "en": "Start the day with a refreshing bike ride around the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Samogitisches Museum Alka",
+            "hu": "Alka Szamogitiai Múzeum",
+            "ro": "Muzeul Samogitian Alka",
+            "en": "Samogitian Museum Alka"
+          },
+          "coords": [
+            22.245,
+            55.983
+          ],
+          "category": "museums",
+          "arrive_at": "10:27",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_4lang": {
+            "de": "Parken Sie Ihr Fahrrad sicher ab, bevor Sie das Museum betreten.",
+            "hu": "Zárd le biztonságosan a kerékpárodat, mielőtt belépsz a múzeumba.",
+            "ro": "Parcați-vă bicicleta în siguranță înainte de a intra în muzeu.",
+            "en": "Park your bike securely before entering the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Antonius-von-Padua-Kathedrale",
+            "hu": "Páduai Szent Antal-katedrális",
+            "ro": "Catedrala Sfântul Anton de Padova",
+            "en": "St. Anthony of Padua Cathedral"
+          },
+          "coords": [
+            22.251,
+            55.986
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:13",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Der Hügel zur Kathedrale ist eine kleine Herausforderung, aber die Aussicht belohnt Sie.",
+            "hu": "A katedrálishoz vezető domb egy kis kihívás, de a kilátás kárpótol.",
+            "ro": "Dealul spre catedrală este o mică provocare, dar priveliștea vă va răsplăti.",
+            "en": "The hill to the cathedral is a bit of a challenge, but the view is rewarding."
+          }
+        },
+        {
+          "name": {
+            "de": "Bären-Skulpturen & Jeschiwa",
+            "hu": "Medve-szobrok és jesiva",
+            "ro": "Sculpturile Ursului & Ieșiva",
+            "en": "Bear Sculptures & Yeshiva"
+          },
+          "coords": [
+            22.248,
+            55.984
+          ],
+          "category": "historical",
+          "arrive_at": "13:19",
+          "stay_min": 50,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Machen Sie eine kurze Tour durch das Stadtzentrum, um die Bären und das jüdische Viertel zu entdecken.",
+            "hu": "Tegyél egy rövid túrát a városközpontban, hogy felfedezd a medvéket és a zsidó negyedet.",
+            "ro": "Faceți un tur rapid al centrului orașului pentru a descoperi urșii și cartierul evreiesc.",
+            "en": "Take a quick tour of the city center to spot the bears and discover the Jewish quarter."
+          }
+        },
+        {
+          "name": {
+            "de": "Samogitisches Dorfmuseum",
+            "hu": "Szamogitiai Falumúzeum",
+            "ro": "Muzeul Satului Samogitian",
+            "en": "Samogitian Village Museum"
+          },
+          "coords": [
+            22.23,
+            55.995
+          ],
+          "category": "museums",
+          "arrive_at": "14:27",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_4lang": {
+            "de": "Dieses Freilichtmuseum ist eine angenehme Radtour vom Stadtzentrum entfernt.",
+            "hu": "Ez a szabadtéri múzeum egy kellemes kerékpártúrára van a városközponttól.",
+            "ro": "Acest muzeu în aer liber este la o plimbare plăcută cu bicicleta de centrul orașului.",
+            "en": "This open-air museum is a pleasant bike ride from the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Džiugas-Hügel",
+            "hu": "Džiugas-hegy",
+            "ro": "Dealul Džiugas",
+            "en": "Džiugas Hill"
+          },
+          "coords": [
+            22.26,
+            55.975
+          ],
+          "category": "natural features",
+          "arrive_at": "16:09",
+          "stay_min": 42,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "tip_4lang": {
+            "de": "Beenden Sie Ihre Radtour mit dem besten Panoramablick auf die Stadt bei Sonnenuntergang.",
+            "hu": "Fejezd be a kerékpártúrát a város legjobb panorámájával naplementekor.",
+            "ro": "Încheiați-vă turul cu bicicleta cu cea mai bună vedere panoramică a orașului la apus.",
+            "en": "End your bike tour with the best panoramic view of the city at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Fahrrad und beginnen Sie den Tag mit einer malerischen Fahrt entlang des Mastis-Sees. Tauchen Sie anschließend im Alka-Museum in die samogitische Geschichte ein, bevor Sie den Hügel zur majestätischen Kathedrale erklimmen. Machen Sie eine Pause im Stadtzentrum, um die berühmten Bärenskulpturen zu finden. Eine längere Fahrt führt Sie zum faszinierenden Freilichtmuseum des Samogitischen Dorfes. Beenden Sie Ihr Abenteuer mit einem Aufstieg auf den Džiugas-Hügel, um einen unvergesslichen Sonnenuntergang zu erleben.",
+        "hu": "Pattanj kerékpárra, és kezdd a napot egy festői tekeréssel a Mastis-tó mentén. Merülj el a szamogitiai történelemben az Alka Múzeumban, mielőtt megmásznád a dombot a fenséges katedrálishoz. Tarts szünetet a belvárosban, hogy megtaláld a híres medveszobrokat. Egy hosszabb út vezet a lenyűgöző Szamogitiai Falumúzeumhoz. Zárd a kalandot a Džiugas-hegy megmászásával egy felejthetetlen naplementéért.",
+        "ro": "Urcați-vă pe bicicletă și începeți ziua cu o plimbare pitorească de-a lungul lacului Mastis. Apoi, pătrundeți în istoria samogitiană la Muzeul Alka înainte de a urca dealul spre catedrala maiestuoasă. Faceți o pauză în centrul orașului pentru a găsi faimoasele sculpturi de urși. O plimbare mai lungă vă va duce la fascinantul Muzeu al Satului Samogitian în aer liber. Încheiați-vă aventura cu o urcare pe Dealul Džiugas pentru un apus de soare de neuitat.",
+        "en": "Hop on your bike and start the day with a scenic ride along Mastis Lake. Then, delve into Samogitian history at the Alka Museum before climbing the hill to the majestic cathedral. Take a break in the city center to find the famous bear sculptures. A longer ride takes you to the fascinating open-air Samogitian Village Museum. End your adventure with a climb up Džiugas Hill for an unforgettable sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Senoji svirnas",
+            "tip": "Ein Restaurant in einem alten Getreidespeicher mit traditioneller litauischer Küche."
+          },
+          {
+            "name": "Kavine Alka",
+            "tip": "Ein Café in der Nähe des Museums, ideal für eine schnelle Mahlzeit oder einen Kaffee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Senoji svirnas",
+            "tip": "Egy régi magtárban található étterem, hagyományos litván konyhával."
+          },
+          {
+            "name": "Kavine Alka",
+            "tip": "Egy kávézó a múzeum közelében, ideális egy gyors étkezéshez vagy kávéhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Senoji svirnas",
+            "tip": "Un restaurant într-un hambar vechi cu bucătărie tradițională lituaniană."
+          },
+          {
+            "name": "Kavine Alka",
+            "tip": "O cafenea lângă muzeu, perfectă pentru o masă rapidă sau o cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Senoji svirnas",
+            "tip": "A restaurant in an old granary serving traditional Lithuanian cuisine."
+          },
+          {
+            "name": "Kavine Alka",
+            "tip": "A café near the museum, perfect for a quick meal or coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rund um den Mastis-See",
+            "tip": "Es gibt viele ruhige Stellen entlang des Radwegs am See.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Samogitisches Dorfmuseum",
+            "tip": "Das weitläufige Gelände des Freilichtmuseums bietet viel Platz und Ruhe.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Mastis-tó körül",
+            "tip": "A tó körüli kerékpárúton sok csendes hely található.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szamogitiai Falumúzeum",
+            "tip": "A szabadtéri múzeum tágas területe sok helyet és csendet kínál.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "În jurul Lacului Mastis",
+            "tip": "Există multe locuri liniștite de-a lungul pistei de biciclete de lângă lac.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Muzeul Satului Samogitian",
+            "tip": "Terenul vast al muzeului în aer liber oferă mult spațiu și liniște.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Around Mastis Lake",
+            "tip": "There are many quiet spots along the bike path by the lake.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Samogitian Village Museum",
+            "tip": "The spacious grounds of the open-air museum offer plenty of peace and quiet.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markt in der Altstadt",
+            "tip": "Suchen Sie nach lokalen Produkten und handgefertigten Souvenirs."
+          },
+          {
+            "name": "Touristeninformationszentrum",
+            "tip": "Hier finden Sie oft eine Auswahl an lokalen Handwerksprodukten und Džiugas-Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piac az óvárosban",
+            "tip": "Keress helyi termékeket és kézzel készített szuveníreket."
+          },
+          {
+            "name": "Turisztikai Információs Központ",
+            "tip": "Itt gyakran találsz helyi kézműves termékeket és Džiugas sajtot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața din Orașul Vechi",
+            "tip": "Căutați produse locale și suveniruri artizanale."
+          },
+          {
+            "name": "Centrul de Informare Turistică",
+            "tip": "Adesea are o selecție de produse artizanale locale și brânză Džiugas."
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Town Market",
+            "tip": "Look for local produce and handmade souvenirs."
+          },
+          {
+            "name": "Tourist Information Center",
+            "tip": "Often has a selection of local crafts and Džiugas cheese."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie ein Fahrradschloss mit.",
+          "Einige Wege können hügelig sein, seien Sie also auf einige Anstiege vorbereitet.",
+          "Nehmen Sie Wasser und Snacks für die längeren Fahrten mit."
+        ],
+        "hu": [
+          "Vigyél magaddal kerékpárzárat.",
+          "Néhány útvonal dombos lehet, ezért készülj fel néhány emelkedőre.",
+          "Vigyél vizet és harapnivalót a hosszabb utakra."
+        ],
+        "ro": [
+          "Aduceți un antifurt pentru bicicletă.",
+          "Unele trasee pot fi deluroase, așa că fiți pregătiți pentru câteva urcări.",
+          "Luați apă și gustări pentru plimbările mai lungi."
+        ],
+        "en": [
+          "Bring a bike lock.",
+          "Some routes can be hilly, so be prepared for some climbs.",
+          "Take water and snacks for the longer rides."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Samogitisches Dorfmuseum",
+            "hu": "Szamogitiai Falumúzeum",
+            "ro": "Muzeul Satului Samogitian",
+            "en": "Samogitian Village Museum"
+          },
+          "coords": [
+            22.23,
+            55.995
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Beginnen Sie hier, um den morgendlichen Andrang zu vermeiden. Es gibt ausreichend Parkplätze.",
+            "hu": "Kezdje itt a napot, hogy elkerülje a reggeli tömeget. Van elegendő parkolóhely.",
+            "ro": "Începeți aici pentru a evita aglomerația de dimineață. Există o parcare amplă.",
+            "en": "Start here to avoid the morning crowds. There is ample parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Mastis-See-Promenade",
+            "hu": "Mastis-tó sétánya",
+            "ro": "Promenada Lacului Mastis",
+            "en": "Mastis Lake Promenade"
+          },
+          "coords": [
+            22.235,
+            55.981
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:15",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_4lang": {
+            "de": "Parken Sie in der Nähe des Sees und machen Sie einen Spaziergang. Cluster 1 für einen Spaziergang am See.",
+            "hu": "Parkolj a tó közelében és tegyél egy sétát. 1. Klaszter: séta a tónál.",
+            "ro": "Parcați lângă lac și faceți o plimbare. Cluster 1 pentru o plimbare pe lac.",
+            "en": "Park near the lake and take a walk. Cluster 1 for a lakeside stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Samogitisches Museum Alka",
+            "hu": "Alka Szamogitiai Múzeum",
+            "ro": "Muzeul Samogitian Alka",
+            "en": "Samogitian Museum Alka"
+          },
+          "coords": [
+            22.245,
+            55.983
+          ],
+          "category": "museums",
+          "arrive_at": "12:27",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.7,
+          "tip_4lang": {
+            "de": "Vom See aus zu Fuß erreichbar. Ein guter Ort für die Mittagszeit.",
+            "hu": "A tótól sétatávolságra. Jó hely az ebédidőre.",
+            "ro": "La câțiva pași de lac. Un loc bun pentru prânz.",
+            "en": "Within walking distance from the lake. A good place for lunchtime."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Zentrum",
+            "hu": "Parkoló a központban",
+            "ro": "Parcare Centru",
+            "en": "City Center Parking"
+          },
+          "coords": [
+            22.25,
+            55.986
+          ],
+          "category": "transport",
+          "arrive_at": "14:09",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Parken Sie hier und erkunden Sie den Rest der Stadt zu Fuß. Cluster 2 beginnt.",
+            "hu": "Parkolj le itt, és fedezd fel a város többi részét gyalog. A 2. klaszter itt kezdődik.",
+            "ro": "Parcați aici și explorați restul orașului pe jos. Începe clusterul 2.",
+            "en": "Park here and explore the rest of the city on foot. Cluster 2 begins."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Antonius-von-Padua-Kathedrale",
+            "hu": "Páduai Szent Antal-katedrális",
+            "ro": "Catedrala Sfântul Anton de Padova",
+            "en": "St. Anthony of Padua Cathedral"
+          },
+          "coords": [
+            22.251,
+            55.986
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:11",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_4lang": {
+            "de": "Die Kathedrale dominiert die Skyline und ist der erste Halt im Stadtzentrum.",
+            "hu": "A katedrális uralja a városképet, és az első megálló a belvárosban.",
+            "ro": "Catedrala domină orizontul și este prima oprire în centrul orașului.",
+            "en": "The cathedral dominates the skyline and is the first stop in the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Bären-Skulpturen & Jeschiwa",
+            "hu": "Medve-szobrok és jesiva",
+            "ro": "Sculpturile Ursului & Ieșiva",
+            "en": "Bear Sculptures & Yeshiva"
+          },
+          "coords": [
+            22.248,
+            55.984
+          ],
+          "category": "historical",
+          "arrive_at": "15:17",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Schlendern Sie durch die Straßen, um diese nahe gelegenen Sehenswürdigkeiten zu finden.",
+            "hu": "Sétálj végig az utcákon, hogy megtaláld ezeket a közeli látnivalókat.",
+            "ro": "Plimbați-vă pe străzi pentru a găsi aceste atracții din apropiere.",
+            "en": "Stroll through the streets to find these nearby sights."
+          }
+        },
+        {
+          "name": {
+            "de": "Džiugas-Hügel",
+            "hu": "Džiugas-hegy",
+            "ro": "Dealul Džiugas",
+            "en": "Džiugas Hill"
+          },
+          "coords": [
+            22.26,
+            55.975
+          ],
+          "category": "natural features",
+          "arrive_at": "16:25",
+          "stay_min": 40,
+          "hop_mode": "car",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 6.5,
+          "tip_4lang": {
+            "de": "Fahren Sie zum Hügel für einen letzten Panoramablick zum Abschluss des Tages.",
+            "hu": "Vezess fel a hegyre egy utolsó panorámás kilátásért a nap végén.",
+            "ro": "Conduceți până la deal pentru o ultimă vedere panoramică pentru a încheia ziua.",
+            "en": "Drive up to the hill for a final panoramic view to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Auto am ruhigen Samogitischen Dorfmuseum. Fahren Sie dann zum Mastis-See, parken Sie und bilden Sie einen Wandercluster, der die Promenade und das nahegelegene Alka-Museum umfasst. Nach dem Mittagessen fahren Sie ins Stadtzentrum, parken erneut und erkunden den zweiten Cluster zu Fuß: die beeindruckende Kathedrale, die Bärenskulpturen und die historische Jeschiwa. Beenden Sie Ihren Tag mit einer kurzen Fahrt zum Džiugas-Hügel für einen spektakulären Sonnenuntergang.",
+        "hu": "Kezdje a napot autóval a csendes Szamogitiai Falumúzeumnál. Ezután vezessen a Mastis-tóhoz, parkoljon le, és alakítson ki egy gyalogos klasztert, amely magában foglalja a sétányt és a közeli Alka Múzeumot. Ebéd után vezessen a belvárosba, parkoljon le újra, és fedezze fel a második klasztert gyalog: a lenyűgöző katedrálist, a medveszobrokat és a történelmi jesivát. Zárja a napot egy rövid autózással a Džiugas-hegyre egy látványos naplementéért.",
+        "ro": "Începeți ziua cu mașina la liniștitul Muzeu al Satului Samogitian. Apoi, conduceți la Lacul Mastis, parcați și formați un grup de plimbare care include promenada și Muzeul Alka din apropiere. După prânz, conduceți în centrul orașului, parcați din nou și explorați al doilea grup pe jos: catedrala impresionantă, sculpturile ursului și istorica Ieșiva. Încheiați ziua cu o scurtă călătorie cu mașina până la Dealul Džiugas pentru un apus de soare spectaculos.",
+        "en": "Start your day by car at the peaceful Samogitian Village Museum. Then, drive to Mastis Lake, park, and form a walking cluster that includes the promenade and the nearby Alka Museum. After lunch, drive to the city center, park again, and explore the second cluster on foot: the impressive cathedral, the bear sculptures, and the historical Yeshiva. End your day with a short drive to Džiugas Hill for a spectacular sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant am See",
+            "tip": "Genießen Sie Ihr Mittagessen mit Blick auf den Mastis-See nach Ihrem Spaziergang."
+          },
+          {
+            "name": "Džiugas Namai",
+            "tip": "Ein Muss für Käseliebhaber, bietet Verkostungen und Gerichte mit dem berühmten Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a tónál",
+            "tip": "Élvezd az ebédet a Mastis-tóra néző kilátással a séta után."
+          },
+          {
+            "name": "Džiugas Namai",
+            "tip": "Sajtimádóknak kötelező, kóstolókat és a híres sajttal készült ételeket kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul de pe lac",
+            "tip": "Bucurați-vă de prânz cu vedere la Lacul Mastis după plimbare."
+          },
+          {
+            "name": "Džiugas Namai",
+            "tip": "O vizită obligatorie pentru iubitorii de brânză, oferind degustări și preparate cu faimoasa brânză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lakeside Restaurant",
+            "tip": "Enjoy lunch with a view of Mastis Lake after your walk."
+          },
+          {
+            "name": "Džiugas Namai",
+            "tip": "A must-visit for cheese lovers, offering tastings and dishes with the famous cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Samogitisches Dorfmuseum",
+            "tip": "Die Weitläufigkeit des Geländes sorgt für einen ruhigen Start in den Tag.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Džiugas-Hügel",
+            "tip": "Der ideale Ort, um den Tag in Ruhe mit einem Panoramablick ausklingen zu lassen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szamogitiai Falumúzeum",
+            "tip": "A terület tágassága békés napkezdést biztosít.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Džiugas-hegy",
+            "tip": "Ideális hely a nap békés lezárásához egy panorámás kilátással.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Muzeul Satului Samogitian",
+            "tip": "Spațiul vast al terenului asigură un început de zi liniștit.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dealul Džiugas",
+            "tip": "Locul ideal pentru a încheia ziua în pace cu o vedere panoramică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Samogitian Village Museum",
+            "tip": "The vastness of the grounds provides a peaceful start to the day.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Džiugas Hill",
+            "tip": "The ideal place to end the day in peace with a panoramic view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsläden",
+            "tip": "Sowohl das Alka- als auch das Dorfmuseum haben einzigartige Souvenirs."
+          },
+          {
+            "name": "Käsegeschäfte in der Stadt",
+            "tip": "Kaufen Sie Džiugas-Käse als Andenken an Ihre Reise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Múzeumi boltok",
+            "tip": "Mind az Alka, mind a Falumúzeum egyedi ajándéktárgyakat kínál."
+          },
+          {
+            "name": "Sajtboltok a városban",
+            "tip": "Vásárolj Džiugas sajtot utazásod emlékéül."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele muzeelor",
+            "tip": "Atât Muzeul Alka, cât și Muzeul Satului au suveniruri unice."
+          },
+          {
+            "name": "Magazine de brânzeturi din oraș",
+            "tip": "Cumpărați brânză Džiugas ca amintire a călătoriei dvs."
+          }
+        ],
+        "en": [
+          {
+            "name": "Museum Shops",
+            "tip": "Both the Alka and Village museums have unique souvenirs."
+          },
+          {
+            "name": "Cheese Shops in Town",
+            "tip": "Buy some Džiugas cheese as a memento of your trip."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie Offline-Karten herunter, falls die Mobilfunkverbindung schlecht ist.",
+          "Halten Sie Kleingeld für das Parken bereit.",
+          "Planen Sie Ihre Cluster, um das Hin- und Herfahren zu minimieren."
+        ],
+        "hu": [
+          "Tölts le offline térképeket, ha a mobilnet-lefedettség gyenge.",
+          "Készíts elő aprópénzt a parkoláshoz.",
+          "Tervezd meg a klasztereket, hogy minimalizáld az oda-vissza autózást."
+        ],
+        "ro": [
+          "Descărcați hărți offline în caz de acoperire slabă a rețelei mobile.",
+          "Aveți la îndemână mărunțiș pentru parcare.",
+          "Planificați-vă grupurile pentru a minimiza condusul înainte și înapoi."
+        ],
+        "en": [
+          "Download offline maps in case mobile coverage is poor.",
+          "Have some small change ready for parking meters.",
+          "Plan your clusters to minimize driving back and forth."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Busbahnhof",
+            "hu": "Központi buszpályaudvar",
+            "ro": "Autogara Centrală",
+            "en": "Central Bus Station"
+          },
+          "coords": [
+            22.255,
+            55.987
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Beginnen Sie Ihren Tag hier. Kaufen Sie eine Tageskarte für den Bus. Cluster 1 beginnt.",
+            "hu": "Kezdje itt a napot. Vegyen egy napijegyet a buszra. Az 1. klaszter itt kezdődik.",
+            "ro": "Începeți ziua aici. Cumpărați un bilet de o zi pentru autobuz. Începe clusterul 1.",
+            "en": "Start your day here. Buy a day pass for the bus. Cluster 1 begins."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Antonius-von-Padua-Kathedrale",
+            "hu": "Páduai Szent Antal-katedrális",
+            "ro": "Catedrala Sfântul Anton de Padova",
+            "en": "St. Anthony of Padua Cathedral"
+          },
+          "coords": [
+            22.251,
+            55.986
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:12",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Ein kurzer Spaziergang von der Bushaltestelle im Zentrum.",
+            "hu": "Egy rövid séta a központi buszmegállótól.",
+            "ro": "La o scurtă plimbare de stația de autobuz centrală.",
+            "en": "A short walk from the central bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Jeschiwa von Telšiai",
+            "hu": "Telšiai-i jesiva",
+            "ro": "Ieșiva din Telšiai",
+            "en": "Telšiai Yeshiva"
+          },
+          "coords": [
+            22.249,
+            55.985
+          ],
+          "category": "historical",
+          "arrive_at": "10:18",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Erkunden Sie das historische jüdische Viertel rund um die Kathedrale.",
+            "hu": "Fedezze fel a katedrális körüli történelmi zsidó negyedet.",
+            "ro": "Explorați cartierul evreiesc istoric din jurul catedralei.",
+            "en": "Explore the historical Jewish quarter surrounding the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle am See",
+            "hu": "Buszmegálló a tónál",
+            "ro": "Stația de autobuz de lângă lac",
+            "en": "Lakeside Bus Stop"
+          },
+          "coords": [
+            22.238,
+            55.982
+          ],
+          "category": "transport",
+          "arrive_at": "11:27",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 3.0,
+          "tip_4lang": {
+            "de": "Nehmen Sie den Bus zum Mastis-See. Cluster 2 beginnt.",
+            "hu": "Menj busszal a Mastis-tóhoz. A 2. klaszter itt kezdődik.",
+            "ro": "Luați autobuzul spre Lacul Mastis. Începe clusterul 2.",
+            "en": "Take the bus to Mastis Lake. Cluster 2 begins."
+          }
+        },
+        {
+          "name": {
+            "de": "Samogitisches Museum Alka",
+            "hu": "Alka Szamogitiai Múzeum",
+            "ro": "Muzeul Samogitian Alka",
+            "en": "Samogitian Museum Alka"
+          },
+          "coords": [
+            22.245,
+            55.983
+          ],
+          "category": "museums",
+          "arrive_at": "11:37",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Vom Bus aus leicht zu Fuß erreichbar.",
+            "hu": "Könnyen megközelíthető gyalog a buszmegállótól.",
+            "ro": "Ușor de ajuns pe jos de la stația de autobuz.",
+            "en": "An easy walk from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Mastis-See-Promenade",
+            "hu": "Mastis-tó sétánya",
+            "ro": "Promenada Lacului Mastis",
+            "en": "Mastis Lake Promenade"
+          },
+          "coords": [
+            22.235,
+            55.981
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:31",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 1.4,
+          "tip_4lang": {
+            "de": "Verbringen Sie den Nachmittag mit einem Spaziergang, einem Mittagessen und Entspannung am See.",
+            "hu": "Töltse a délutánt sétával, ebéddel és pihenéssel a tónál.",
+            "ro": "Petreceți după-amiaza plimbându-vă, luând prânzul și relaxându-vă lângă lac.",
+            "en": "Spend the afternoon walking, having lunch, and relaxing by the lake."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das lokale Bussystem für einen entspannten Tag. Beginnen Sie im Stadtzentrum und erkunden Sie den ersten Wandercluster rund um die Kathedrale und die Jeschiwa. Am späten Vormittag nehmen Sie einen Bus zum Mastis-See. Dort beginnt Ihr zweiter Wandercluster: Entdecken Sie das Alka-Museum und genießen Sie anschließend einen langen, erholsamen Nachmittag an der Seepromenade. Nehmen Sie am späten Nachmittag den Bus zurück ins Zentrum.",
+        "hu": "Használja a helyi buszrendszert egy pihentető naphoz. Kezdje a városközpontban, és fedezze fel az első gyalogos klasztert a katedrális és a jesiva körül. Késő délelőtt szálljon buszra a Mastis-tóhoz. Itt kezdődik a második gyalogos klaszter: fedezze fel az Alka Múzeumot, majd élvezze a hosszú, pihentető délutánt a tóparti sétányon. Késő délután busszal térjen vissza a központba.",
+        "ro": "Folosiți sistemul local de autobuze pentru o zi relaxantă. Începeți în centrul orașului, explorând primul grup de plimbare în jurul catedralei și a Ieșivei. Spre sfârșitul dimineții, luați un autobuz spre Lacul Mastis. Acolo, începe al doilea grup de plimbare: descoperiți Muzeul Alka, apoi bucurați-vă de o după-amiază lungă și relaxantă pe promenada lacului. Luați autobuzul înapoi în centru după-amiaza târziu.",
+        "en": "Utilize the local bus system for a relaxed day. Start in the city center, exploring the first walking cluster around the cathedral and the Yeshiva. In the late morning, take a bus to Mastis Lake. There, your second walking cluster begins: discover the Alka Museum, then enjoy a long, relaxing afternoon on the lake promenade. Take the bus back to the center in the late afternoon."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokales Café im Zentrum",
+            "tip": "Schnappen Sie sich einen Kaffee und Gebäck, bevor Sie Ihren ersten Cluster erkunden."
+          },
+          {
+            "name": "Picknick am See",
+            "tip": "Kaufen Sie lokale Produkte auf einem Markt und genießen Sie ein Picknick am Mastis-See."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kávézó a központban",
+            "tip": "Igyál egy kávét és süteményt, mielőtt felfedeznéd az első klasztert."
+          },
+          {
+            "name": "Piknik a tónál",
+            "tip": "Vásárolj helyi termékeket a piacon, és piknikezz a Mastis-tónál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenea locală în centru",
+            "tip": "Luați o cafea și un produs de patiserie înainte de a explora primul cluster."
+          },
+          {
+            "name": "Picnic la lac",
+            "tip": "Cumpărați produse locale de la o piață și bucurați-vă de un picnic lângă Lacul Mastis."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Café in the Center",
+            "tip": "Grab a coffee and pastry before exploring your first cluster."
+          },
+          {
+            "name": "Picnic by the Lake",
+            "tip": "Buy some local produce from a market and enjoy a picnic by Mastis Lake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hinterhöfe der Altstadt",
+            "tip": "Finden Sie ruhige Ecken abseits der Hauptstraßen im ersten Cluster.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ufer des Mastis-Sees",
+            "tip": "Gehen Sie ein Stück weiter die Promenade entlang, um den Menschenmassen zu entkommen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az óváros hátsó udvarai",
+            "tip": "Találj csendes zugokat a főutcáktól távol az első klaszterben.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A Mastis-tó partja",
+            "tip": "Sétálj egy kicsit tovább a sétányon, hogy elkerüld a tömeget.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curțile din spatele Orașului Vechi",
+            "tip": "Găsiți colțuri liniștite departe de străzile principale în primul cluster.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malul Lacului Mastis",
+            "tip": "Mergeți puțin mai departe de-a lungul promenadei pentru a scăpa de mulțime.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Town Courtyards",
+            "tip": "Find quiet corners away from the main streets in the first cluster.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Shores of Mastis Lake",
+            "tip": "Walk a bit further down the promenade to escape the crowds.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Nähe des Busbahnhofs",
+            "tip": "Kaufen Sie Souvenirs am Ende des Tages, bevor Sie abreisen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok a buszpályaudvar közelében",
+            "tip": "Vásárolj ajándéktárgyakat a nap végén, mielőtt elindulsz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine lângă autogară",
+            "tip": "Cumpărați suveniruri la sfârșitul zilei înainte de a pleca."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops near the bus station",
+            "tip": "Buy souvenirs at the end of the day before you leave."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie den Busfahrplan herunter oder machen Sie ein Foto davon.",
+          "Validieren Sie Ihr Ticket bei jeder Fahrt.",
+          "Behalten Sie die Zeit für den letzten Bus zurück ins Zentrum im Auge."
+        ],
+        "hu": [
+          "Töltsd le vagy fotózd le a buszmenetrendet.",
+          "Érvényesítsd a jegyedet minden utazáskor.",
+          "Figyeld az utolsó, központba tartó busz idejét."
+        ],
+        "ro": [
+          "Descărcați sau faceți o fotografie a orarului autobuzului.",
+          "Validați biletul la fiecare călătorie.",
+          "Fiți atenți la ora ultimului autobuz spre centru."
+        ],
+        "en": [
+          "Download or take a photo of the bus schedule.",
+          "Validate your ticket each time you ride.",
+          "Keep an eye on the time for the last bus back to the center."
+        ]
+      }
+    }
+  }
+}

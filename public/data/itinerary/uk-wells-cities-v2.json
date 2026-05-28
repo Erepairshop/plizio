@@ -1,0 +1,1476 @@
+{
+  "city_id": "uk-wells-cities-v2",
+  "anchor": {
+    "name": "Wells",
+    "coords": [
+      -2.6446,
+      51.2092
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 2.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Marktplatz von Wells",
+            "hu": "Wellsi piactér",
+            "ro": "Piața din Wells",
+            "en": "Wells Market Place"
+          },
+          "coords": [
+            -2.6461,
+            51.2092
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Markt am Mittwoch oder Samstag für lokale Produkte.",
+            "hu": "Szerdán vagy szombaton látogasson el a piacra a helyi termékekért.",
+            "ro": "Vizitați piața miercuri sau sâmbătă pentru produse locale.",
+            "en": "Visit on a Wednesday or Saturday for the bustling local market."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Dom von Wells",
+            "hu": "Wells-i katedrális",
+            "ro": "Catedrala din Wells",
+            "en": "Wells Cathedral"
+          },
+          "coords": [
+            -2.644,
+            51.2102
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:06",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die astronomische Uhr und die Scherenbögen im Inneren.",
+            "hu": "Keresse meg a csillagászati órát és a jellegzetes olló-íveket.",
+            "ro": "Căutați ceasul astronomic și arcadele în foarfecă din interior.",
+            "en": "Look for the astronomical clock and the distinctive scissor arches inside."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Vicar's Close",
+            "hu": "Vicar's Close",
+            "ro": "Vicar's Close",
+            "en": "Vicar's Close"
+          },
+          "coords": [
+            -2.643,
+            51.2111
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:25",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die Straße ist Europas älteste rein zu Wohnzwecken genutzte Straße.",
+            "hu": "Ez Európa legrégebbi, kizárólag lakóépületekből álló utcája.",
+            "ro": "Este cea mai veche stradă pur rezidențială din Europa.",
+            "en": "Claimed to be the oldest purely residential street in Europe."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Bischofspalast und Gärten",
+            "hu": "Püspöki palota és kertek",
+            "ro": "Palatul Episcopal și Grădinile",
+            "en": "Bishop's Palace and Gardens"
+          },
+          "coords": [
+            -2.6435,
+            51.209
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:58",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Schwäne, die eine Glocke für Futter läuten.",
+            "hu": "Ne hagyja ki a harangozó hattyúkat, akik ételért csengetnek.",
+            "ro": "Nu ratați lebedele care trag un clopoțel pentru a cere mâncare.",
+            "en": "Don't miss the swans who ring a bell for food."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "St. Cuthbert's Kirche",
+            "hu": "Szent Cuthbert-templom",
+            "ro": "Biserica Sf. Cuthbert",
+            "en": "St Cuthbert's Church"
+          },
+          "coords": [
+            -2.6508,
+            51.208
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:52",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Oft als die größte Pfarrkirche in Somerset angesehen.",
+            "hu": "Gyakran Somerset legnagyobb plébániatemplomának tartják.",
+            "ro": "Adesea considerată cea mai mare biserică parohială din Somerset.",
+            "en": "Often considered the largest parish church in Somerset."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Wells & Mendip Museum",
+            "hu": "Wells & Mendip Múzeum",
+            "ro": "Muzeul Wells & Mendip",
+            "en": "Wells & Mendip Museum"
+          },
+          "coords": [
+            -2.647,
+            51.2105
+          ],
+          "category": "museums",
+          "arrive_at": "14:42",
+          "stay_min": 123,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die lokale Geschichte, Geologie und Archäologie.",
+            "hu": "Fedezze fel a helyi történelmet, geológiát és régészetet.",
+            "ro": "Explorați istoria locală, geologia și arheologia.",
+            "en": "Explore local history, geology, and archaeology."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem belebten Marktplatz von Wells, dem Herz der Stadt. Der Vormittag ist der Erkundung der heiligen und historischen Stätten gewidmet: der prächtigen Kathedrale, der einzigartigen Vicar's Close und dem befestigten Bischofspalast. Nach einem gemütlichen Mittagessen führt Sie ein kurzer Spaziergang zur beeindruckenden St. Cuthbert's Kirche. Der Nachmittag endet mit einer Reise durch die Zeit im Wells & Mendip Museum, das Einblicke in das reiche Erbe der Region bietet. Genießen Sie einen entspannten Abend in Englands kleinster Stadt.",
+        "hu": "Kezdje a napot Wells nyüzsgő piacterén, a város szívében. A délelőtt a szent és történelmi helyszínek felfedezésével telik: a csodálatos katedrális, az egyedülálló Vicar's Close és a fallal körülvett Püspöki Palota. Egy kellemes ebéd után egy rövid séta vezet a lenyűgöző Szent Cuthbert-templomhoz. A délután a Wells & Mendip Múzeumban tett időutazással zárul, amely bepillantást nyújt a régió gazdag örökségébe. Élvezze a pihentető estét Anglia legkisebb városában.",
+        "ro": "Începeți ziua în vibranta Piață din Wells, inima orașului. Dimineața este dedicată explorării siturilor sacre și istorice: magnifica Catedrală, unica Vicar's Close și Palatul Episcopal fortificat. După un prânz pe îndelete, o scurtă plimbare vă duce la impunătoarea Biserică Sf. Cuthbert. După-amiaza se încheie cu o călătorie în timp la Muzeul Wells & Mendip, care oferă o perspectivă asupra bogatei moșteniri a regiunii. Bucurați-vă de o seară relaxantă în cel mai mic oraș din Anglia.",
+        "en": "Start your day in the bustling Wells Market Place, the heart of the city. The morning is for exploring the sacred and historic sites: the magnificent Cathedral, the unique Vicar's Close, and the moated Bishop's Palace. After a leisurely lunch, a short walk takes you to the impressive St Cuthbert's Church. The afternoon concludes with a journey through time at the Wells & Mendip Museum, offering insights into the region's rich heritage. Enjoy a relaxing evening in England's smallest city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cheddar-Käse",
+            "tip": "Probieren Sie den lokalen, in Höhlen gereiften Cheddar auf dem Markt."
+          },
+          {
+            "name": "Somerset Cider",
+            "tip": "Genießen Sie ein Glas traditionellen Apfelweins in einem örtlichen Pub."
+          },
+          {
+            "name": "The Swan Hotel",
+            "tip": "Ein historisches Hotel, das klassische britische Gerichte mit Blick auf die Kathedrale anbietet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cheddar sajt",
+            "tip": "Kóstolja meg a helyi, barlangban érlelt cheddart a piacon."
+          },
+          {
+            "name": "Somerset almabor",
+            "tip": "Fogyasszon el egy pohár hagyományos almabort egy helyi pubban."
+          },
+          {
+            "name": "The Swan Hotel",
+            "tip": "Történelmi szálloda, amely klasszikus brit ételeket kínál a katedrálisra néző kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză Cheddar",
+            "tip": "Încercați brânza Cheddar locală, maturată în peșteri, de la piață."
+          },
+          {
+            "name": "Cidru de Somerset",
+            "tip": "Savurați un pahar de cidru tradițional la un pub local."
+          },
+          {
+            "name": "Hotelul The Swan",
+            "tip": "Un hotel istoric care oferă preparate britanice clasice cu vedere la catedrală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cheddar Cheese",
+            "tip": "Sample the local, cave-aged Cheddar from the market."
+          },
+          {
+            "name": "Somerset Cider",
+            "tip": "Enjoy a pint of traditional cider at a local pub."
+          },
+          {
+            "name": "The Swan Hotel",
+            "tip": "A historic hotel offering classic British fare with views of the Cathedral."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten des Bischofspalastes",
+            "tip": "Finden Sie eine ruhige Bank bei den Brunnen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang am Fluss Sheppey",
+            "tip": "Ein friedlicher Spaziergang etwas außerhalb des Zentrums.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kathedralen-Kreuzgang",
+            "tip": "Ein stiller, kontemplativer Raum abseits der Menschenmassen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Püspöki Palota kertje",
+            "tip": "Keressen egy csendes padot a kutaknál.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a Sheppey folyó mentén",
+            "tip": "Békés séta a központon kissé kívül eső részen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A katedrális kerengője",
+            "tip": "Csendes, elmélyült tér a tömegtől távol.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Palatului Episcopal",
+            "tip": "Găsiți o bancă liniștită lângă fântâni.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare pe malul râului Sheppey",
+            "tip": "O plimbare pașnică la mică distanță de centru.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Clasura Catedralei",
+            "tip": "Un spațiu tăcut, contemplativ, departe de mulțime.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bishop's Palace Gardens",
+            "tip": "Find a quiet bench by the wells.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "River Sheppey walk",
+            "tip": "A peaceful stroll just outside the centre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cathedral Cloisters",
+            "tip": "A silent, contemplative space away from the crowds.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wells-Markt",
+            "tip": "Kaufen Sie lokale Käsesorten, Chutneys und Kunsthandwerk."
+          },
+          {
+            "name": "Kathedralen-Shop",
+            "tip": "Einzigartige Geschenke und Souvenirs im Zusammenhang mit der Kathedrale."
+          },
+          {
+            "name": "Unabhängige Geschäfte in der High Street",
+            "tip": "Stöbern Sie in den Boutiquen nach Büchern, Kleidung und Antiquitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wellsi piac",
+            "tip": "Vásároljon helyi sajtokat, chutney-kat és kézműves termékeket."
+          },
+          {
+            "name": "Katedrális boltja",
+            "tip": "Egyedi ajándékok és emléktárgyak a katedrálishoz kapcsolódóan."
+          },
+          {
+            "name": "Független üzletek a High Streeten",
+            "tip": "Böngésszen a butikokban könyvekért, ruhákért és régiségekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Wells",
+            "tip": "Cumpărați brânzeturi locale, chutney-uri și produse artizanale."
+          },
+          {
+            "name": "Magazinul Catedralei",
+            "tip": "Cadouri și suveniruri unice legate de catedrală."
+          },
+          {
+            "name": "Magazine independente pe High Street",
+            "tip": "Răsfoiți buticurile pentru cărți, haine și antichități."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wells Market",
+            "tip": "Shop for local cheeses, chutneys, and crafts."
+          },
+          {
+            "name": "Cathedral Shop",
+            "tip": "Unique gifts and souvenirs related to the cathedral."
+          },
+          {
+            "name": "High Street Independents",
+            "tip": "Browse the boutiques for books, clothing, and antiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel auf Kopfsteinpflaster laufen werden.",
+          "Die meisten Hauptattraktionen befinden sich in unmittelbarer Nähe zueinander.",
+          "Prüfen Sie die Öffnungszeiten der Kathedrale und des Palastes im Voraus, da diese aufgrund von Gottesdiensten variieren können.",
+          "Wells ist sehr kompakt, sodass Sie sich leicht verirren und versteckte Gassen entdecken können, ohne sich Sorgen machen zu müssen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog macskaköves utcákon sétálni.",
+          "A legtöbb fő látnivaló sétatávolságra van egymástól.",
+          "Ellenőrizze előre a katedrális és a palota nyitvatartási idejét, mert az istentiszteletek miatt változhat.",
+          "Wells nagyon kompakt, így könnyedén eltévedhet és felfedezhet rejtett sikátorokat anélkül, hogy aggódnia kellene."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe străzi pietruite.",
+          "Majoritatea atracțiilor principale sunt la o distanță foarte mică una de cealaltă.",
+          "Verificați în avans orele de deschidere ale Catedralei și Palatului, deoarece acestea pot varia din cauza slujbelor.",
+          "Wells este foarte compact, așa că vă puteți pierde și descoperi alei ascunse fără griji."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking on cobblestones.",
+          "Most of the main attractions are within a very short walk of each other.",
+          "Check opening times for the Cathedral and Palace in advance as they can vary due to services.",
+          "Wells is very compact, so feel free to get lost and discover hidden alleyways without worry."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:14",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Marktplatz von Wells",
+            "hu": "Wellsi piactér",
+            "ro": "Piața din Wells",
+            "en": "Wells Market Place"
+          },
+          "coords": [
+            -2.6461,
+            51.2092
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der perfekte Startpunkt, um Ihr Fahrrad abzustellen und einen Kaffee zu trinken.",
+            "hu": "Tökéletes kiindulópont, hogy lezárja a kerékpárt és megigyon egy kávét.",
+            "ro": "Punctul de plecare perfect pentru a vă parca bicicleta și a bea o cafea.",
+            "en": "The perfect starting point to lock up your bike and grab a coffee."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Dom von Wells und Vicar's Close",
+            "hu": "Wells-i katedrális és Vicar's Close",
+            "ro": "Catedrala din Wells și Vicar's Close",
+            "en": "Wells Cathedral and Vicar's Close"
+          },
+          "coords": [
+            -2.6435,
+            51.2106
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:53",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie beide Stätten zu Fuß, sie liegen nebeneinander.",
+            "hu": "Fedezze fel mindkét látnivalót gyalog, egymás mellett vannak.",
+            "ro": "Explorați ambele situri pe jos; sunt adiacente.",
+            "en": "Explore both sites on foot; they are adjacent."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Bischofspalast und Gärten",
+            "hu": "Püspöki palota és kertek",
+            "ro": "Palatul Episcopal și Grădinile",
+            "en": "Bishop's Palace and Gardens"
+          },
+          "coords": [
+            -2.6435,
+            51.209
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:25",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad draußen ab und nehmen Sie sich Zeit für die Gärten.",
+            "hu": "Zárja le a kerékpárt kint, és szánjon időt a kertekre.",
+            "ro": "Legați-vă bicicleta afară și bucurați-vă de grădini.",
+            "en": "Lock your bike outside and take your time to enjoy the gardens."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "St. Cuthbert's Kirche",
+            "hu": "Szent Cuthbert-templom",
+            "ro": "Biserica Sf. Cuthbert",
+            "en": "St Cuthbert's Church"
+          },
+          "coords": [
+            -2.6508,
+            51.208
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:51",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt vom Zentrum, aber der beeindruckende Turm ist es wert.",
+            "hu": "Rövid tekerés a központtól, de a lenyűgöző torony megéri.",
+            "ro": "O plimbare scurtă cu bicicleta din centru, dar turnul impresionant merită.",
+            "en": "A short ride from the center, but the impressive tower is worth it."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Milton Lodge Gärten",
+            "hu": "Milton Lodge kertek",
+            "ro": "Grădinile Milton Lodge",
+            "en": "Milton Lodge Gardens"
+          },
+          "coords": [
+            -2.635,
+            51.215
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:39",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3,
+          "tip_5lang": {
+            "de": "Ein kleiner Anstieg, aber die Aussicht über Wells ist die Belohnung.",
+            "hu": "Egy kis emelkedő, de a Wellsre nyíló kilátás a jutalom.",
+            "ro": "O urcare scurtă, dar priveliștile asupra orașului Wells sunt recompensa.",
+            "en": "A bit of a climb, but the views over Wells are the reward."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Fahrt durch die Mendip Hills (Route)",
+            "hu": "Tekerés a Mendip-dombságon (útvonal)",
+            "ro": "Plimbare prin Dealurile Mendip (traseu)",
+            "en": "Mendip Hills ride (route)"
+          },
+          "coords": [
+            -2.66,
+            51.22
+          ],
+          "category": "natural features",
+          "arrive_at": "15:15",
+          "stay_min": 119,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.7,
+          "tip_5lang": {
+            "de": "Folgen Sie dem 'Strawberry Line' Radweg für eine landschaftlich reizvolle, flache Fahrt.",
+            "hu": "Kövesse a 'Strawberry Line' kerékpárutat egy festői, sík útvonalért.",
+            "ro": "Urmați pista de biciclete 'Strawberry Line' pentru o plimbare pitorească și plată.",
+            "en": "Follow the 'Strawberry Line' cycle path for a scenic, flat ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Fahrradabenteuer in Wells beginnt auf dem historischen Marktplatz. Von dort aus ist es nur eine kurze Fahrt zu den wichtigsten Wahrzeichen: der Kathedrale, der Vicar's Close und dem Bischofspalast. Am Vormittag tauchen Sie in die Geschichte ein. Nach dem Mittagessen führt Sie eine angenehme Fahrt zur St. Cuthbert's Kirche und dann bergauf zu den wunderschönen Milton Lodge Gardens, von wo aus Sie eine herrliche Aussicht haben. Der Nachmittag ist einer längeren Fahrt in die malerische Landschaft der Mendip Hills gewidmet, die eine perfekte Flucht aus der Stadt bietet, bevor Sie für den Abend zurückkehren.",
+        "hu": "A wellsi kerékpáros kaland a történelmi piactéren kezdődik. Innen egy rövid tekeréssel elérhetők a főbb nevezetességek: a katedrális, a Vicar's Close és a Püspöki Palota, a délelőttöt a történelembe való elmerüléssel töltve. Ebéd után egy kellemes út vezet a Szent Cuthbert-templomhoz, majd fel a dombra a gyönyörű Milton Lodge kertekhez, ahonnan pazar kilátás nyílik. A délután egy hosszabb túrának van szentelve a festői Mendip-dombság vidékén, amely tökéletes menekülést kínál a városból, mielőtt visszatérne estére.",
+        "ro": "Aventura pe bicicletă în Wells începe în piața istorică. De acolo, este o plimbare scurtă până la reperele cheie: Catedrala, Vicar's Close și Palatul Episcopal, petrecând dimineața scufundându-vă în istorie. După prânz, o plimbare plăcută vă duce la Biserica Sf. Cuthbert, apoi urcați dealul spre frumoasele Grădini Milton Lodge pentru vederi glorioase. După-amiaza este dedicată unei plimbări mai lungi în peisajul rural pitoresc al Dealurilor Mendip, oferind o evadare perfectă din oraș înainte de a vă întoarce pentru seară.",
+        "en": "Your Wells cycling adventure starts in the historic Market Place. From there, it's a short ride to the key landmarks: the Cathedral, Vicar's Close, and the Bishop's Palace, spending the morning immersed in history. After lunch, a pleasant ride takes you to St Cuthbert's Church, then up the hill to the beautiful Milton Lodge Gardens for glorious views. The afternoon is dedicated to a longer ride into the scenic Mendip Hills countryside, providing a perfect escape from the city before returning for the evening."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Good Earth",
+            "tip": "Ein vegetarisches Café, ideal für ein gesundes Mittagessen."
+          },
+          {
+            "name": "Queen Street Deli",
+            "tip": "Holen Sie sich Sandwiches und Snacks für ein Picknick in den Gärten."
+          },
+          {
+            "name": "The Globe Inn",
+            "tip": "Ein fahrradfreundlicher Pub mit Garten für eine Erfrischung nach der Fahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Good Earth",
+            "tip": "Vegetáriánus kávézó, tökéletes egy egészséges ebédhez."
+          },
+          {
+            "name": "Queen Street Deli",
+            "tip": "Szerezzen be szendvicseket és harapnivalókat egy piknikhez a kertekben."
+          },
+          {
+            "name": "The Globe Inn",
+            "tip": "Kerékpárbarát pub kerthelyiséggel a túra utáni frissítőkhöz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Good Earth",
+            "tip": "O cafenea vegetariană, perfectă pentru un prânz sănătos."
+          },
+          {
+            "name": "Queen Street Deli",
+            "tip": "Luați sandvișuri și gustări pentru un picnic în grădini."
+          },
+          {
+            "name": "The Globe Inn",
+            "tip": "Un pub prietenos cu bicicliștii, cu o grădină pentru răcoritoare după plimbare."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Good Earth",
+            "tip": "A vegetarian cafe perfect for a healthy lunch stop."
+          },
+          {
+            "name": "Queen Street Deli",
+            "tip": "Grab sandwiches and snacks for a picnic in the gardens."
+          },
+          {
+            "name": "The Globe Inn",
+            "tip": "A bike-friendly pub with a garden for post-ride refreshments."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Milton Lodge Gärten",
+            "tip": "Finden Sie einen Platz mit Blick auf das Tal für einen Moment der Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Strawberry Line Radweg",
+            "tip": "Genießen Sie die friedliche Landschaft, während Sie in die Pedale treten.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Tor-Hügel",
+            "tip": "Ein kurzer, steiler Spaziergang für einen Panoramablick bei Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Milton Lodge kertek",
+            "tip": "Keressen egy helyet, ahonnan a völgyre néző kilátás nyílik egy pillanatnyi békéért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Strawberry Line kerékpárút",
+            "tip": "Élvezze a békés tájat tekerés közben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Tor Hill",
+            "tip": "Rövid, meredek séta a naplementés panorámáért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Milton Lodge",
+            "tip": "Găsiți un loc cu vedere la vale pentru un moment de pace.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pista de biciclete Strawberry Line",
+            "tip": "Bucurați-vă de peisajul rural pașnic în timp ce pedalați.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dealul Tor",
+            "tip": "O plimbare scurtă și abruptă pentru vederi panoramice la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Milton Lodge Gardens",
+            "tip": "Find a spot overlooking the valley for a moment of peace.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Strawberry Line cycle path",
+            "tip": "Enjoy the peaceful countryside as you pedal.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Tor Hill",
+            "tip": "A short, steep walk for panoramic sunset views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Wells hat mehrere Geschäfte für Zubehör oder schnelle Reparaturen."
+          },
+          {
+            "name": "Bauernläden in der Umgebung",
+            "tip": "Halten Sie Ausschau nach Hofläden am Rande der Stadt für frische Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Wellsben több üzlet is található kiegészítőkért vagy gyors javításokért."
+          },
+          {
+            "name": "Farmboltok a környéken",
+            "tip": "Keresse a farmboltokat a város szélén friss termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Wells are mai multe magazine pentru accesorii sau reparații rapide."
+          },
+          {
+            "name": "Magazine de fermă din jur",
+            "tip": "Fiți atenți la magazinele de la fermă de la periferia orașului pentru produse proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cycle shops",
+            "tip": "Wells has several shops for any accessories or quick repairs."
+          },
+          {
+            "name": "Surrounding Farm Shops",
+            "tip": "Look out for farm shops on the outskirts for fresh produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Schließen Sie Ihr Fahrrad an den vorgesehenen Stellen ab, insbesondere im Stadtzentrum.",
+          "Einige Straßen in Wells sind eng und können überfüllt sein, also fahren Sie vorsichtig.",
+          "Planen Sie Ihre Route zu den Mendip Hills; einige Wege können anspruchsvoll sein.",
+          "Nehmen Sie Wasser und Snacks mit, besonders wenn Sie längere Strecken außerhalb der Stadt planen."
+        ],
+        "hu": [
+          "Zárja le kerékpárját a kijelölt helyeken, különösen a városközpontban.",
+          "Néhány wellsi utca szűk és zsúfolt lehet, ezért óvatosan közlekedjen.",
+          "Tervezze meg az útvonalat a Mendip-dombsághoz; egyes ösvények kihívást jelenthetnek.",
+          "Vigyen magával vizet és harapnivalókat, különösen ha hosszabb utakat tervez a városon kívül."
+        ],
+        "ro": [
+          "Legați-vă bicicleta în zonele desemnate, în special în centrul orașului.",
+          "Unele străzi din Wells sunt înguste și pot fi aglomerate, așa că mergeți cu prudență.",
+          "Planificați-vă traseul către Dealurile Mendip; unele poteci pot fi dificile.",
+          "Luați apă și gustări, mai ales dacă plănuiți plimbări mai lungi în afara orașului."
+        ],
+        "en": [
+          "Lock your bike in designated areas, especially in the city centre.",
+          "Some streets in Wells are narrow and can be busy, so ride with care.",
+          "Plan your route to the Mendip Hills; some paths can be challenging.",
+          "Carry water and snacks, especially if planning longer rides outside the city."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:33",
+      "total_km": 21.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Ebbor-Schlucht Nationales Naturreservat",
+            "hu": "Ebbor-szurdok Nemzeti Természetvédelmi Terület",
+            "ro": "Rezervația Naturală Națională Ebbor Gorge",
+            "en": "Ebbor Gorge National Nature Reserve"
+          },
+          "coords": [
+            -2.62,
+            51.23
+          ],
+          "category": "natural features",
+          "arrive_at": "09:25",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 7,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einer erfrischenden Wanderung. Tragen Sie festes Schuhwerk.",
+            "hu": "Kezdje a napot egy frissítő túrával. Viseljen erős lábbelit.",
+            "ro": "Începeți ziua cu o drumeție revigorantă. Purtați încălțăminte rezistentă.",
+            "en": "Start the day with an invigorating hike. Wear sturdy footwear."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Zentrales Wells (Parken)",
+            "hu": "Wells központja (parkolás)",
+            "ro": "Wells Central (Parcare)",
+            "en": "Central Wells (Parking)"
+          },
+          "coords": [
+            -2.648,
+            51.2085
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:13",
+          "stay_min": 15,
+          "hop_mode": "car",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 8,
+          "tip_5lang": {
+            "de": "Parken Sie auf einem der Langzeitparkplätze und erkunden Sie zu Fuß.",
+            "hu": "Parkoljon egy hosszú távú parkolóban, és fedezze fel a várost gyalog.",
+            "ro": "Parcați într-una din parcările pe termen lung și explorați pe jos.",
+            "en": "Park in a long-stay car park and explore on foot."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Marktplatz & Mittagessen",
+            "hu": "Piactér és ebéd",
+            "ro": "Piața și Prânzul",
+            "en": "Market Place & Lunch"
+          },
+          "coords": [
+            -2.6461,
+            51.2092
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:31",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Saugen Sie die Atmosphäre auf und essen Sie in einem der Cafés zu Mittag.",
+            "hu": "Szívja magába a hangulatot, és ebédeljen az egyik kávézóban.",
+            "ro": "Bucurați-vă de atmosferă și luați prânzul la una dintre cafenele.",
+            "en": "Soak up the atmosphere and have lunch at one of the cafes."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Dom von Wells",
+            "hu": "Wells-i katedrális",
+            "ro": "Catedrala din Wells",
+            "en": "Wells Cathedral"
+          },
+          "coords": [
+            -2.644,
+            51.2102
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:55",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein Muss, das nur einen kurzen Spaziergang vom Marktplatz entfernt ist.",
+            "hu": "Kötelező látnivaló, csak egy rövid séta a piactérről.",
+            "ro": "O vizită obligatorie, la o scurtă plimbare de piață.",
+            "en": "A must-see, just a short stroll from the market square."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Bischofspalast und Gärten",
+            "hu": "Püspöki palota és kertek",
+            "ro": "Palatul Episcopal și Grădinile",
+            "en": "Bishop's Palace and Gardens"
+          },
+          "coords": [
+            -2.6435,
+            51.209
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:14",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie den Palast und die ruhigen Gärten innerhalb des Wassergrabens.",
+            "hu": "Fedezze fel a palotát és a vizesárokon belüli békés kerteket.",
+            "ro": "Explorați palatul și grădinile senine din interiorul șanțului.",
+            "en": "Explore the palace and serene gardens within the moat."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Vicar's Close",
+            "hu": "Vicar's Close",
+            "ro": "Vicar's Close",
+            "en": "Vicar's Close"
+          },
+          "coords": [
+            -2.643,
+            51.2111
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:48",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Gehen Sie diese historische Straße entlang, bevor Sie zum Auto zurückkehren.",
+            "hu": "Sétáljon végig ezen a történelmi utcán, mielőtt visszatér az autóhoz.",
+            "ro": "Plimbați-vă pe această stradă istorică înainte de a vă întoarce la mașină.",
+            "en": "Walk down this historic street before heading back to the car."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Milton Lodge Gärten",
+            "hu": "Milton Lodge kertek",
+            "ro": "Grădinile Milton Lodge",
+            "en": "Milton Lodge Gardens"
+          },
+          "coords": [
+            -2.635,
+            51.215
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:26",
+          "stay_min": 67,
+          "hop_mode": "car",
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem atemberaubenden Blick über die Stadt, die Sie gerade erkundet haben.",
+            "hu": "Zárja a napot egy lenyűgöző kilátással a városra, amelyet éppen felfedezett.",
+            "ro": "Încheiați ziua cu vederi uimitoare asupra orașului pe care tocmai l-ați explorat.",
+            "en": "End the day with stunning views over the city you've just explored."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einer Fahrt zur Ebbor-Schlucht für eine belebende Morgenwanderung in der Natur. Danach fahren Sie in das Herz von Wells, parken Ihr Auto für den Tag und erkunden das mittelalterliche Zentrum zu Fuß. Der Vormittag und frühe Nachmittag sind dem historischen Kern gewidmet: dem Marktplatz, der prächtigen Kathedrale, dem Bischofspalast und der Vicar's Close. Nachdem Sie die Atmosphäre aufgesogen haben, kehren Sie zum Auto zurück und machen eine kurze Fahrt zu den Milton Lodge Gardens, um den Tag mit Panoramablicken auf die Stadt und die umliegende Landschaft zu beenden.",
+        "hu": "A nap egy utazással kezdődik az Ebbor-szurdokhoz egy élénkítő reggeli természetjárásra. Ezt követően Wells szívébe hajt, leteszi az autót a napra, és gyalog fedezi fel a középkori központot. A délelőtt és a kora délután a történelmi magra összpontosul: a piactérre, a csodálatos katedrálisra, a Püspöki Palotára és a Vicar's Close-ra. Miután magába szívta a hangulatot, visszatér az autóhoz egy rövid útra a Milton Lodge kertekhez, hogy a napot a városra és a környező vidékre nyíló panorámás kilátással zárja.",
+        "ro": "Ziua începe cu o excursie la Defileul Ebbor pentru o drumeție matinală revigorantă în natură. După aceea, conduceți în inima orașului Wells, parcați mașina pentru restul zilei și explorați centrul medieval pe jos. Dimineața și începutul după-amiezii sunt dedicate nucleului istoric: Piața, magnifica Catedrală, Palatul Episcopal și Vicar's Close. După ce ați absorbit atmosfera, vă întoarceți la mașină pentru o scurtă călătorie spre Grădinile Milton Lodge, pentru a încheia ziua cu vederi panoramice asupra orașului și peisajului rural înconjurător.",
+        "en": "Your day starts with a drive to Ebbor Gorge for an invigorating morning hike in nature. Afterwards, drive into the heart of Wells, park your car for the day, and explore the medieval centre on foot. The morning and early afternoon are focused on the historic core: the Market Place, the magnificent Cathedral, the Bishop's Palace, and Vicar's Close. After soaking in the atmosphere, you return to the car for a short drive up to Milton Lodge Gardens to end the day with panoramic views of the city and surrounding countryside."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Wookey Hole Inn",
+            "tip": "Ein Pub in der Nähe der Ebbor-Schlucht, ideal für ein Mittagessen nach der Wanderung."
+          },
+          {
+            "name": "Andre's Cafe",
+            "tip": "Ein beliebtes Lokal in der Nähe der Kathedrale mit klassischer französischer Küche."
+          },
+          {
+            "name": "The Crown at Wells",
+            "tip": "Ein historischer Gasthof, der herzhafte Mahlzeiten und lokale Biere serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Wookey Hole Inn",
+            "tip": "Kocsma az Ebbor-szurdok közelében, ideális egy túra utáni ebédhez."
+          },
+          {
+            "name": "Andre's Cafe",
+            "tip": "Népszerű hely a katedrális közelében, klasszikus francia ételekkel."
+          },
+          {
+            "name": "The Crown at Wells",
+            "tip": "Történelmi fogadó, amely bőséges ételeket és helyi söröket kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Wookey Hole Inn",
+            "tip": "Un pub lângă Defileul Ebbor, excelent pentru un prânz după drumeție."
+          },
+          {
+            "name": "Andre's Cafe",
+            "tip": "Un loc popular lângă Catedrală, cu bucătărie clasică franceză."
+          },
+          {
+            "name": "The Crown at Wells",
+            "tip": "Un han istoric care servește mese consistente și beri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Wookey Hole Inn",
+            "tip": "A pub near Ebbor Gorge, great for a post-hike lunch."
+          },
+          {
+            "name": "Andre's Cafe",
+            "tip": "A popular spot near the Cathedral with classic French food."
+          },
+          {
+            "name": "The Crown at Wells",
+            "tip": "A historic coaching inn serving hearty meals and local ales."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ebbor-Schlucht",
+            "tip": "Entfliehen Sie den Menschenmassen und genießen Sie die Ruhe des Waldes.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Gärten des Bischofspalastes",
+            "tip": "Ein ruhiger Zufluchtsort im Herzen der Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Aussicht von den Milton Lodge Gärten",
+            "tip": "Der perfekte Ort, um den Tag in Ruhe ausklingen zu lassen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ebbor-szurdok",
+            "tip": "Meneküljön el a tömeg elől, és élvezze az erdő csendjét.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Püspöki Palota kertje",
+            "tip": "Békés menedék a város szívében.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás a Milton Lodge kertekből",
+            "tip": "Tökéletes hely a nap békés lezárásához.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Defileul Ebbor",
+            "tip": "Evadați din mulțime și bucurați-vă de liniștea pădurii.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Grădinile Palatului Episcopal",
+            "tip": "Un sanctuar de pace în inima orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vedere de la Grădinile Milton Lodge",
+            "tip": "Locul perfect pentru a încheia ziua în liniște.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ebbor Gorge",
+            "tip": "Escape the crowds and enjoy the tranquility of the woods.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Bishop's Palace Gardens",
+            "tip": "A peaceful sanctuary in the heart of the city.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from Milton Lodge Gardens",
+            "tip": "The perfect spot to quietly reflect on the day.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kilver Court Designer Village",
+            "tip": "Eine kurze Autofahrt entfernt, für Designer-Schnäppchen."
+          },
+          {
+            "name": "Clarks Village",
+            "tip": "Ein Outlet-Shopping-Center in der Nähe von Street, etwa 15 Minuten Fahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilver Court Designer Village",
+            "tip": "Rövid autóútra található, designer akciókért."
+          },
+          {
+            "name": "Clarks Village",
+            "tip": "Outlet bevásárlóközpont a közeli Streetben, kb. 15 perces autóútra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kilver Court Designer Village",
+            "tip": "La o scurtă distanță cu mașina, pentru chilipiruri de designer."
+          },
+          {
+            "name": "Clarks Village",
+            "tip": "Un centru comercial de tip outlet în apropiere de Street, la aproximativ 15 minute de mers cu mașina."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kilver Court Designer Village",
+            "tip": "A short drive away for designer bargains."
+          },
+          {
+            "name": "Clarks Village",
+            "tip": "An outlet shopping centre in nearby Street, about a 15-minute drive."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkgebühren und -beschränkungen, bevor Sie ankommen.",
+          "Die Parkplätze im Stadtzentrum können schnell voll sein, besonders an Markttagen.",
+          "Die Straßen auf dem Land können eng und kurvenreich sein, fahren Sie also vorsichtig.",
+          "Verwenden Sie eine Navigations-App, um die besten Routen zwischen den Standorten zu finden und Verkehr zu vermeiden."
+        ],
+        "hu": [
+          "Érkezés előtt ellenőrizze a parkolási díjakat és korlátozásokat.",
+          "A városközponti parkolók gyorsan megtelhetnek, különösen a piaci napokon.",
+          "A vidéki utak szűkek és kanyargósak lehetnek, ezért vezessen óvatosan.",
+          "Használjon navigációs alkalmazást a helyszínek közötti legjobb útvonalak megtalálásához és a forgalom elkerüléséhez."
+        ],
+        "ro": [
+          "Verificați taxele și restricțiile de parcare înainte de a ajunge.",
+          "Parcările din centrul orașului se pot umple rapid, în special în zilele de piață.",
+          "Drumurile rurale pot fi înguste și șerpuite, așa că conduceți cu grijă.",
+          "Utilizați o aplicație de navigație pentru a găsi cele mai bune rute între locații și pentru a evita traficul."
+        ],
+        "en": [
+          "Check parking fees and restrictions before you arrive.",
+          "City centre car parks can fill up quickly, especially on market days.",
+          "Countryside roads can be narrow and winding, so drive with care.",
+          "Use a navigation app to find the best routes between locations and avoid traffic."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:23",
+      "total_km": 5.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Ankunft am Busbahnhof Wells",
+            "hu": "Érkezés a wellsi buszpályaudvarra",
+            "ro": "Sosire la autogara din Wells",
+            "en": "Arrive at Wells Bus Station"
+          },
+          "coords": [
+            -2.648,
+            51.207
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten im Stadtgebiet.",
+            "hu": "Vásároljon napijegyet a korlátlan utazáshoz a városi zónában.",
+            "ro": "Cumpărați un bilet de o zi pentru călătorii nelimitate în zona urbană.",
+            "en": "Buy a day rider ticket for unlimited travel in the local area."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "St. Cuthbert's Kirche",
+            "hu": "Szent Cuthbert-templom",
+            "ro": "Biserica Sf. Cuthbert",
+            "en": "St Cuthbert's Church"
+          },
+          "coords": [
+            -2.6508,
+            51.208
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:28",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ihr erster Halt, nur einen kurzen Spaziergang vom Busbahnhof entfernt.",
+            "hu": "Az első megálló, csak egy rövid sétára a buszpályaudvartól.",
+            "ro": "Prima oprire, la o scurtă plimbare de autogară.",
+            "en": "Your first stop, just a short walk from the bus station."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Fahrt zum Marktplatz",
+            "hu": "Utazás a piactérre",
+            "ro": "Călătorie spre Piață",
+            "en": "Ride to Market Place"
+          },
+          "coords": [
+            -2.6461,
+            51.2092
+          ],
+          "category": "transit",
+          "arrive_at": "10:18",
+          "stay_min": 25,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus für die kurze Fahrt ins Zentrum.",
+            "hu": "Vegyen egy helyi buszt a rövid útra a központba.",
+            "ro": "Luați un autobuz local pentru scurta călătorie în centru.",
+            "en": "Take a local bus for the short hop into the centre."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Dom, Palast & Vicar's Close Cluster",
+            "hu": "Katedrális, Palota és Vicar's Close klaszter",
+            "ro": "Grupul Catedrală, Palat și Vicar's Close",
+            "en": "Cathedral, Palace & Vicar's Close Cluster"
+          },
+          "coords": [
+            -2.644,
+            51.21
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:46",
+          "stay_min": 180,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen gesamten historischen Kern zu Fuß, alles ist nah.",
+            "hu": "Fedezze fel ezt az egész történelmi magot gyalog, minden közel van.",
+            "ro": "Explorați întregul nucleu istoric pe jos; totul este aproape.",
+            "en": "Explore this whole historic core on foot; everything is close."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Wells & Mendip Museum",
+            "hu": "Wells & Mendip Múzeum",
+            "ro": "Muzeul Wells & Mendip",
+            "en": "Wells & Mendip Museum"
+          },
+          "coords": [
+            -2.647,
+            51.2105
+          ],
+          "category": "museums",
+          "arrive_at": "13:51",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nach dem historischen Cluster, ein Spaziergang zum Museum für einen anderen Blickwinkel.",
+            "hu": "A történelmi klaszter után sétáljon el a múzeumba egy másik perspektíváért.",
+            "ro": "După grupul istoric, o plimbare până la muzeu pentru o altă perspectivă.",
+            "en": "After the historic cluster, a walk to the museum for a different perspective."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Bus zu den Milton Lodge Gärten",
+            "hu": "Busz a Milton Lodge kertekhez",
+            "ro": "Autobuz spre Grădinile Milton Lodge",
+            "en": "Bus to Milton Lodge Gardens"
+          },
+          "coords": [
+            -2.635,
+            51.215
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:24",
+          "stay_min": 59,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein Bus bringt Sie in die Nähe; ein kurzer Spaziergang bergauf ist erforderlich.",
+            "hu": "Egy busz elvisz a közelbe; egy rövid séta felfelé szükséges.",
+            "ro": "Un autobuz vă va duce aproape; este necesară o scurtă plimbare la deal.",
+            "en": "A bus will get you close; a short uphill walk is required."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Wells beginnt am zentralen Busbahnhof. Von dort aus ist es ein kurzer Spaziergang zur St. Cuthbert's Kirche, bevor Sie einen Bus ins Herz der Stadt am Marktplatz nehmen. Der Großteil Ihres Tages wird zu Fuß verbracht, um den kompakten historischen Kern zu erkunden: die Kathedrale, den Bischofspalast und die Vicar's Close. Am Nachmittag bietet ein Spaziergang zum Wells & Mendip Museum eine weitere Schicht der Geschichte, bevor Sie einen Bus zu den Milton Lodge Gardens nehmen, um einen letzten Panoramablick zu genießen, bevor Sie zurück zum Busbahnhof fahren.",
+        "hu": "A wellsi nap a központi buszpályaudvaron kezdődik. Innen egy rövid séta vezet a Szent Cuthbert-templomhoz, mielőtt busszal a város szívébe, a piactérre utazna. A nap nagy részét gyalog tölti, felfedezve a kompakt történelmi magot: a katedrálist, a Püspöki Palotát és a Vicar's Close-t. Délután egy séta a Wells & Mendip Múzeumba a történelem egy újabb rétegét tárja fel, mielőtt busszal a Milton Lodge kertekhez menne egy utolsó panorámás kilátásért, mielőtt visszatérne a buszpályaudvarra.",
+        "ro": "Ziua dvs. în Wells începe la autogara centrală. De acolo, este o scurtă plimbare până la Biserica Sf. Cuthbert înainte de a lua un autobuz în inima orașului, la Piață. Cea mai mare parte a zilei este petrecută pe jos, explorând nucleul istoric compact: Catedrala, Palatul Episcopal și Vicar's Close. După-amiaza, o plimbare la Muzeul Wells & Mendip oferă un alt strat de istorie, înainte de a lua un autobuz către Grădinile Milton Lodge pentru o ultimă priveliște panoramică înainte de a vă întoarce la autogară.",
+        "en": "Your day in Wells begins at the central bus station. From there, it's a short walk to St Cuthbert's church before catching a bus into the heart of the city at the Market Place. The majority of your day is spent on foot, exploring the compact historic core: the Cathedral, Bishop's Palace and Vicar's Close. In the afternoon, a walk to the Wells & Mendip Museum provides another layer of history, before you take a bus up to Milton Lodge Gardens for a final panoramic view before heading back to the bus station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bishop's Eye",
+            "tip": "Ein kleines, freundliches Café in der Nähe des Marktplatzes."
+          },
+          {
+            "name": "The City Arms",
+            "tip": "Ein traditioneller Pub mit einer guten Auswahl an Bieren und Pub-Essen."
+          },
+          {
+            "name": "Fosso Lounge",
+            "tip": "Bietet eine breite Speisekarte in einer entspannten Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bishop's Eye",
+            "tip": "Kicsi, barátságos kávézó a piactér közelében."
+          },
+          {
+            "name": "The City Arms",
+            "tip": "Hagyományos pub jó sörválasztékkal és pub-ételekkel."
+          },
+          {
+            "name": "Fosso Lounge",
+            "tip": "Széles menüt kínál laza légkörben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bishop's Eye",
+            "tip": "O cafenea mică și prietenoasă, aproape de Piață."
+          },
+          {
+            "name": "The City Arms",
+            "tip": "Un pub tradițional cu o selecție bună de beri și mâncare de pub."
+          },
+          {
+            "name": "Fosso Lounge",
+            "tip": "Oferă un meniu larg într-o atmosferă relaxată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bishop's Eye",
+            "tip": "A small, friendly cafe close to the Market Place."
+          },
+          {
+            "name": "The City Arms",
+            "tip": "A traditional pub with a good selection of ales and pub food."
+          },
+          {
+            "name": "Fosso Lounge",
+            "tip": "Offers a wide-ranging menu in a relaxed atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Fluss Sheppey",
+            "tip": "Leicht erreichbar vom Busbahnhof für einen Moment der Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bibliothek von Wells",
+            "tip": "Ein ruhiger Ort, um sich auszuruhen und ein Buch zu lesen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Gärten des Bischofspalastes",
+            "tip": "Trotz seiner zentralen Lage finden Sie hier immer einen ruhigen Winkel.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Sheppey folyó mentén",
+            "tip": "Könnyen megközelíthető a buszpályaudvarról egy pillanatnyi békéért.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Wellsi Könyvtár",
+            "tip": "Csendes hely a pihenésre és egy könyv olvasására.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Püspöki Palota kertje",
+            "tip": "Központi elhelyezkedése ellenére mindig találhat egy csendes sarkot.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului Sheppey",
+            "tip": "Ușor accesibil de la autogară pentru un moment de liniște.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Biblioteca Wells",
+            "tip": "Un spațiu tăcut pentru a vă odihni picioarele și a citi o carte.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădinile Palatului Episcopal",
+            "tip": "În ciuda locației sale centrale, puteți găsi întotdeauna un colț liniștit.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "River Sheppey walk",
+            "tip": "Easily accessible from the bus station for a moment of peace.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Wells Library",
+            "tip": "A quiet space to rest your feet and read a book.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Bishop's Palace Gardens",
+            "tip": "Despite its central location, you can always find a quiet corner.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wells-Markt",
+            "tip": "Leicht erreichbar zu Fuß von der Bushaltestelle Market Place."
+          },
+          {
+            "name": "Charity-Läden",
+            "tip": "Wells hat eine ausgezeichnete Auswahl an Charity-Läden für einzigartige Funde."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wellsi piac",
+            "tip": "Könnyen megközelíthető gyalog a piactéri buszmegállóból."
+          },
+          {
+            "name": "Jótékonysági üzletek",
+            "tip": "Wells kiváló jótékonysági bolt-választékkal rendelkezik egyedi leletekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Wells",
+            "tip": "Ușor accesibil pe jos de la stația de autobuz din Piață."
+          },
+          {
+            "name": "Magazine de caritate",
+            "tip": "Wells are o selecție excelentă de magazine de caritate pentru descoperiri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wells Market",
+            "tip": "Easily accessible on foot from the Market Place bus stop."
+          },
+          {
+            "name": "Charity Shops",
+            "tip": "Wells has an excellent selection of charity shops for unique finds."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Haben Sie den Busfahrplan zur Hand oder verwenden Sie eine Transit-App, um Ihre Fahrten zu planen.",
+          "Die Busse können besonders in der Hauptsaison überfüllt sein.",
+          "Eine Tageskarte ist oft günstiger, wenn Sie mehrere Fahrten planen.",
+          "Bestätigen Sie die Nummer und das Ziel des Busses, bevor Sie einsteigen."
+        ],
+        "hu": [
+          "Legyen kéznél a buszmenetrend, vagy használjon egy közlekedési alkalmazást az utazások megtervezéséhez.",
+          "A buszok zsúfoltak lehetnek, különösen a főszezonban.",
+          "A napijegy gyakran olcsóbb, ha több utazást tervez.",
+          "Felszállás előtt erősítse meg a busz számát és célállomását."
+        ],
+        "ro": [
+          "Aveți la îndemână orarul autobuzelor sau utilizați o aplicație de transport pentru a vă planifica călătoriile.",
+          "Autobuzele pot fi aglomerate, în special în timpul sezonului de vârf.",
+          "Un bilet de o zi este adesea mai ieftin dacă plănuiți mai multe călătorii.",
+          "Confirmați numărul și destinația autobuzului înainte de a urca."
+        ],
+        "en": [
+          "Have the bus schedule handy or use a transit app to plan your journeys.",
+          "Buses can get crowded, especially during peak tourist season.",
+          "A day ticket is often cheaper if you plan on making multiple trips.",
+          "Confirm the bus number and destination before you board."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1471 @@
+{
+  "city_id": "romania-posesti-cities-v2",
+  "anchor": {
+    "name": "Posești",
+    "coords": [
+      26.1,
+      45.23
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 5.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Alte Schule von Posești",
+            "hu": "A Posești-i Régi Iskola",
+            "ro": "Școala veche din Posești",
+            "en": "The Old School of Posești"
+          },
+          "coords": [
+            26.101,
+            45.231
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle Architektur der Walachei.",
+            "hu": "Csodálja meg a hagyományos havasalföldi építészetet.",
+            "ro": "Admirați arhitectura tradițională a zonei muntenești.",
+            "en": "Admire the traditional Wallachian architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Heiligen Erzengel",
+            "hu": "Szent Arkangyalok temploma",
+            "ro": "Biserica Sfinții Voievozi",
+            "en": "Church of the Holy Archangels"
+          },
+          "coords": [
+            26.103,
+            45.233
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die alten Ikonen und Wandmalereien im Inneren.",
+            "hu": "Figyelje meg a régi ikonokat és falfestményeket a templomban.",
+            "ro": "Observați icoanele vechi și picturile murale din interior.",
+            "en": "Look for the old icons and mural paintings inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Tradition der Steinmetze",
+            "hu": "A kőfaragók hagyománya",
+            "ro": "Tradiția cioplitorilor în piatră",
+            "en": "The Stone Carvers' Tradition"
+          },
+          "coords": [
+            26.098,
+            45.235
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Suchen Sie eine lokale Werkstatt, um die Handwerker bei der Arbeit zu sehen.",
+            "hu": "Keressen egy helyi műhelyt, hogy megnézze a mestereket munka közben.",
+            "ro": "Căutați un atelier local pentru a vedea meșterii la lucru.",
+            "en": "Look for a local workshop to see the craftsmen at work."
+          }
+        },
+        {
+          "name": {
+            "de": "Holzkirche von Poseștii-Pământeni",
+            "hu": "A Poseștii-Pământeni-i fatemplom",
+            "ro": "Biserica de lemn din Poseștii-Pământeni",
+            "en": "Wooden Church of Poseștii-Pământeni"
+          },
+          "coords": [
+            26.085,
+            45.245
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein Juwel der Volksarchitektur, perfekt für Fotos.",
+            "hu": "A népi építészet gyöngyszeme, tökéletes fotózáshoz.",
+            "ro": "O bijuterie a arhitecturii populare, perfectă pentru fotografii.",
+            "en": "A gem of vernacular architecture, perfect for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Heldenmahnmal Posești",
+            "hu": "Posești-i Hősök Emlékműve",
+            "ro": "Monumentul Eroilor din Posești",
+            "en": "Heroes' Monument of Posești"
+          },
+          "coords": [
+            26.083,
+            45.246
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:45",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Moment der Besinnung auf die lokale Geschichte.",
+            "hu": "Egy pillanatnyi megemlékezés a helyi történelemről.",
+            "ro": "Un moment de reculegere dedicat istoriei locale.",
+            "en": "A moment of reflection on the local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Corbi-Hügel",
+            "hu": "Corbi-domb",
+            "ro": "Dealul Corbi",
+            "en": "Corbi Hill"
+          },
+          "coords": [
+            26.075,
+            45.255
+          ],
+          "category": "natural features",
+          "arrive_at": "14:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Bester Panoramablick auf die umliegenden Täler.",
+            "hu": "A legjobb panoráma a környező völgyekre.",
+            "ro": "Cea mai bună priveliște panoramică asupra văilor înconjurătoare.",
+            "en": "The best panoramic view of the surrounding valleys."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Posești beginnt mit einem Spaziergang durch das Herz des Dorfes, wo Sie die alte Schule und die historischen Kirchen erkunden. Die traditionelle Architektur und die ruhige Atmosphäre geben einen Einblick in das ländliche rumänische Leben.\nAm Mittag besuchen Sie eine Werkstatt der berühmten Steinmetze. Hier können Sie die Handwerkskunst bewundern, die seit Generationen weitergegeben wird. Anschließend führt Sie ein längerer Spaziergang zur einzigartigen Holzkirche, einem Meisterwerk der Volkskunst.\nDer Nachmittag ist der Natur gewidmet. Nach einem kurzen Halt am Heldenmahnmal wandern Sie auf den Corbi-Hügel. Die Anstrengung wird mit einer atemberaubenden Aussicht über die malerische Landschaft belohnt.\nSchließen Sie den Tag mit einem herzhaften lokalen Gericht ab. Die frische Bergluft und die unberührte Natur machen diesen Ausflug zu einem unvergesslichen Erlebnis abseits der ausgetretenen Pfade.",
+        "hu": "A Posești-ben töltött nap egy sétával kezdődik a falu szívében, ahol felfedezheti a régi iskolát és a történelmi templomokat. A hagyományos építészet és a csendes légkör bepillantást enged a vidéki román életbe.\nDélben ellátogat a híres kőfaragók egyik műhelyébe. Itt megcsodálhatja a generációk óta öröklődő mesterségbeli tudást. Ezután egy hosszabb séta vezet az egyedülálló fatemplomhoz, a népművészet remekművéhez.\nA délután a természeté. A hősök emlékművénél tett rövid megálló után felkapaszkodik a Corbi-dombra. A fáradozást a festői tájra nyíló lélegzetelállító kilátás jutalmazza.\nZárja a napot egy kiadós helyi étellel. A friss hegyi levegő és az érintetlen természet felejthetetlen élménnyé teszi ezt a kirándulást a járatlan utakon.",
+        "ro": "Ziua dumneavoastră în Posești începe cu o plimbare prin inima satului, explorând școala veche și bisericile istorice. Arhitectura tradițională și atmosfera liniștită oferă o perspectivă asupra vieții rurale românești.\nLa prânz, vizitați un atelier al renumiților cioplitori în piatră. Aici puteți admira măiestria transmisă de-a lungul generațiilor. Apoi, o plimbare mai lungă vă va duce la biserica de lemn unică, o capodoperă a artei populare.\nDupă-amiaza este dedicată naturii. După o scurtă oprire la Monumentul Eroilor, urcați pe Dealul Corbi. Efortul va fi răsplătit cu o priveliște uluitoare asupra peisajului pitoresc.\nÎncheiați ziua cu o masă locală copioasă. Aerul proaspăt de munte și natura nealterată fac din această excursie o experiență de neuitat, departe de cărările bătătorite.",
+        "en": "Your day in Posești begins with a walk through the heart of the village, exploring the old school and historic churches. The traditional architecture and quiet atmosphere provide a glimpse into rural Romanian life.\nAt midday, you'll visit a workshop of the famous stone carvers. Here you can admire the craftsmanship passed down through generations. Afterwards, a longer walk will take you to the unique wooden church, a masterpiece of folk art.\nThe afternoon is dedicated to nature. After a brief stop at the Heroes' Monument, you will hike up Corbi Hill. The effort is rewarded with a breathtaking view over the picturesque landscape.\nConclude the day with a hearty local meal. The fresh mountain air and untouched nature make this a memorable trip off the beaten path."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bulz Ciobanesc",
+            "tip": "Ein traditionelles Hirtengericht aus Polenta, Käse und oft Speck, im Ofen gebacken. Sehr sättigend."
+          },
+          {
+            "name": "Pastramă de Oaie",
+            "tip": "Gewürztes und geräuchertes Schaffleisch, eine lokale Delikatesse."
+          },
+          {
+            "name": "Țuică",
+            "tip": "Der lokale Pflaumenschnaps, den man in fast jedem Haushalt findet. Mit Vorsicht genießen!"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bulz Ciobanesc",
+            "tip": "Hagyományos pásztorétel puliszkából, sajtból és gyakran szalonnából, sütőben sütve. Nagyon laktató."
+          },
+          {
+            "name": "Pastramă de Oaie",
+            "tip": "Fűszerezett és füstölt birkahús, helyi különlegesség."
+          },
+          {
+            "name": "Țuică",
+            "tip": "Helyi szilvapálinka, amely szinte minden háztartásban megtalálható. Óvatosan fogyassza!"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bulz Ciobanesc",
+            "tip": "Un preparat tradițional ciobănesc din mămăligă, brânză și adesea slănină, copt în cuptor. Foarte sățios."
+          },
+          {
+            "name": "Pastramă de oaie",
+            "tip": "Carne de oaie condimentată și afumată, o delicatesă locală."
+          },
+          {
+            "name": "Țuică",
+            "tip": "Rachiu local de prune, găsit în aproape fiecare gospodărie. A se consuma cu prudență!"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bulz Ciobanesc",
+            "tip": "A traditional shepherd's dish made of polenta, cheese, and often bacon, baked in the oven. Very filling."
+          },
+          {
+            "name": "Pastramă de Oaie",
+            "tip": "Spiced and smoked mutton, a local delicacy."
+          },
+          {
+            "name": "Țuică",
+            "tip": "The local plum brandy, found in almost every household. Enjoy with caution!"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfel des Corbi-Hügels",
+            "tip": "Der perfekte Ort, um die Stille zu genießen und den Blick schweifen zu lassen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Zeletin-Bachs",
+            "tip": "Finden Sie einen ruhigen Platz am Wasser und lauschen Sie dem Plätschern.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirchhof der Holzkirche",
+            "tip": "Ein friedlicher, historischer Ort zur inneren Einkehr.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Corbi-domb csúcsa",
+            "tip": "Tökéletes hely a csend élvezetére és a kilátásban való gyönyörködésre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Zeletin-patak partja",
+            "tip": "Keressen egy csendes helyet a víz mellett, és hallgassa a csobogást.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A fatemplom temetője",
+            "tip": "Békés, történelmi hely a belső elmélyüléshez.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Dealului Corbi",
+            "tip": "Locul perfect pentru a te bucura de liniște și a admira priveliștea.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul pârâului Zeletin",
+            "tip": "Găsește un loc liniștit lângă apă și ascultă susurul ei.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea bisericii de lemn",
+            "tip": "Un loc pașnic, istoric, pentru reculegere.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Summit of Corbi Hill",
+            "tip": "The perfect spot to enjoy the silence and soak in the views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the Zeletin stream",
+            "tip": "Find a quiet spot by the water and listen to its murmur.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Churchyard of the wooden church",
+            "tip": "A peaceful, historic place for contemplation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Steinschnitzereien",
+            "tip": "Kaufen Sie ein handgefertigtes Souvenir direkt von einem lokalen Steinmetz."
+          },
+          {
+            "name": "Lokaler Honig und Käse",
+            "tip": "Fragen Sie in den örtlichen Haushalten nach hausgemachten Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kőfaragványok",
+            "tip": "Vásároljon egy kézzel készített emléktárgyat közvetlenül egy helyi kőfaragótól."
+          },
+          {
+            "name": "Helyi méz és sajt",
+            "tip": "Érdeklődjön a helyi háztartásoknál házi készítésű termékekről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sculpturi în piatră",
+            "tip": "Cumpărați un suvenir lucrat manual direct de la un cioplitor local."
+          },
+          {
+            "name": "Miere și brânză locală",
+            "tip": "Întrebați în gospodăriile locale despre produse de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stone carvings",
+            "tip": "Buy a handcrafted souvenir directly from a local stone carver."
+          },
+          {
+            "name": "Local honey and cheese",
+            "tip": "Ask in the local households for homemade products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Wanderschuhe, da die Wege uneben sein können.",
+          "Nehmen Sie ausreichend Wasser mit, besonders für den Aufstieg zum Corbi-Hügel.",
+          "Einige Orte haben keine festen Öffnungszeiten; es kann hilfreich sein, vorab zu fragen.",
+          "Respektieren Sie die Privatsphäre der Anwohner, wenn Sie durch die Dörfer gehen."
+        ],
+        "hu": [
+          "Viseljen kényelmes túracipőt, mivel az utak egyenetlenek lehetnek.",
+          "Vigyen magával elegendő vizet, különösen a Corbi-dombra való feljutáshoz.",
+          "Néhány helynek nincs fix nyitvatartása; érdemes lehet előre érdeklődni.",
+          "Tartsa tiszteletben a helyiek magánéletét, amikor a falvakon keresztül sétál."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru drumeții, deoarece potecile pot fi denivelate.",
+          "Luați suficientă apă, mai ales pentru urcarea pe Dealul Corbi.",
+          "Unele locații nu au program fix; ar putea fi util să întrebați în prealabil.",
+          "Respectați intimitatea localnicilor când vă plimbați prin sate."
+        ],
+        "en": [
+          "Wear comfortable hiking shoes as the paths can be uneven.",
+          "Bring enough water, especially for the climb to Corbi Hill.",
+          "Some places don't have fixed opening hours; it might be helpful to ask beforehand.",
+          "Respect the privacy of the residents when walking through the villages."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 21.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Dorfzentrum & Alte Schule",
+            "hu": "Faluközpont és Régi Iskola",
+            "ro": "Centrul satului & Școala veche",
+            "en": "Village Center & Old School"
+          },
+          "coords": [
+            26.101,
+            45.231
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie mit einem Gefühl für das lokale Leben.",
+            "hu": "Kezdje a napot a helyi életérzés megismerésével.",
+            "ro": "Începeți cu o incursiune în viața locală.",
+            "en": "Start with a feel for the local life."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Entschlafung",
+            "hu": "Nagyboldogasszony-templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Dormition of the Theotokos"
+          },
+          "coords": [
+            26.115,
+            45.225
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Eine weitere schöne Kirche, die die lokale Frömmigkeit zeigt.",
+            "hu": "Egy újabb gyönyörű templom, amely a helyi vallásosságot tükrözi.",
+            "ro": "O altă biserică frumoasă ce reflectă evlavia locală.",
+            "en": "Another beautiful church showing the local piety."
+          }
+        },
+        {
+          "name": {
+            "de": "Beginn des Zeletin-Tals",
+            "hu": "A Zeletin-völgy kezdete",
+            "ro": "Intrarea în Valea Zeletinului",
+            "en": "Beginning of the Zeletin Valley"
+          },
+          "coords": [
+            26.14,
+            45.21
+          ],
+          "category": "natural features",
+          "arrive_at": "10:55",
+          "stay_min": 20,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Atmen Sie tief durch und genießen Sie die Landschaft, bevor Sie weiterfahren.",
+            "hu": "Vegyen egy mély lélegzetet, és élvezze a tájat, mielőtt továbbhalad.",
+            "ro": "Respirați adânc și bucurați-vă de peisaj înainte de a continua.",
+            "en": "Take a deep breath and enjoy the scenery before moving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Tradition der Steinmetze",
+            "hu": "A kőfaragók hagyománya",
+            "ro": "Tradiția cioplitorilor în piatră",
+            "en": "The Stone Carvers' Tradition"
+          },
+          "coords": [
+            26.098,
+            45.235
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Eine gute Gelegenheit für eine Pause und den Kauf eines einzigartigen Souvenirs.",
+            "hu": "Jó alkalom egy kis pihenésre és egy egyedi szuvenír vásárlására.",
+            "ro": "O bună oportunitate pentru o pauză și pentru a cumpăra un suvenir unic.",
+            "en": "A good opportunity for a break and to buy a unique souvenir."
+          }
+        },
+        {
+          "name": {
+            "de": "Holzkirche von Poseștii-Pământeni",
+            "hu": "A Poseștii-Pământeni-i fatemplom",
+            "ro": "Biserica de lemn din Poseștii-Pământeni",
+            "en": "Wooden Church of Poseștii-Pământeni"
+          },
+          "coords": [
+            26.085,
+            45.245
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und erkunden Sie dieses architektonische Meisterwerk.",
+            "hu": "Parkolja le a biciklit, és fedezze fel ezt az építészeti remekművet.",
+            "ro": "Parcați bicicleta și explorați această capodoperă arhitecturală.",
+            "en": "Park your bike and explore this architectural masterpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Heldenmahnmal Posești",
+            "hu": "Posești-i Hősök Emlékműve",
+            "ro": "Monumentul Eroilor din Posești",
+            "en": "Heroes' Monument of Posești"
+          },
+          "coords": [
+            26.083,
+            45.246
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:30",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer, aber bedeutungsvoller Halt auf Ihrer Tour.",
+            "hu": "Rövid, de jelentőségteljes megálló a túrán.",
+            "ro": "O oprire scurtă, dar plină de semnificație în turul dumneavoastră.",
+            "en": "A short but meaningful stop on your tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Corbi-Hügel",
+            "hu": "Corbi-dombi kilátó",
+            "ro": "Punct de belvedere Dealul Corbi",
+            "en": "Corbi Hill Viewpoint"
+          },
+          "coords": [
+            26.075,
+            45.255
+          ],
+          "category": "viewpoint",
+          "arrive_at": "15:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.8,
+          "tip_5lang": {
+            "de": "Der letzte Anstieg lohnt sich für die spektakuläre Aussicht. Schließen Sie Ihr Rad gut ab.",
+            "hu": "Az utolsó emelkedő megéri a látványos kilátásért. Zárja le jól a kerékpárját.",
+            "ro": "Ultima urcare merită efortul pentru priveliștea spectaculoasă. Asigurați-vă bine bicicleta.",
+            "en": "The final climb is worth it for the spectacular view. Lock your bike securely."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel für eine Erkundungstour durch Posești. Der Morgen führt Sie vom Dorfzentrum zu einer der historischen Kirchen und dann in die malerische Landschaft des Zeletin-Tals, wo die Natur Sie willkommen heißt.\nZur Mittagszeit kehren Sie ins Zentrum des Handwerks zurück und besuchen die Steinmetze. Nach einer wohlverdienten Pause radeln Sie weiter zum Highlight der Region, der beeindruckenden Holzkirche von Poseștii-Pământeni.\nDer Nachmittag wird sportlich mit einem Abstecher zum Heldenmahnmal und dem anschließenden Anstieg zum Corbi-Hügel. Der Panoramablick von oben ist die perfekte Belohnung für Ihre Mühen und ein idealer Ort, um die Eindrücke des Tages zu verarbeiten.\nLassen Sie den Tag in einem lokalen Gasthaus ausklingen. Die Radtour durch die hügelige Landschaft bietet eine perfekte Mischung aus Kultur, Handwerk und Naturerlebnis.",
+        "hu": "Pattanjon nyeregbe egy felfedezőútra Posești környékén. A reggel a faluközpontból az egyik történelmi templomhoz, majd a festői Zeletin-völgy tájaira vezet, ahol a természet üdvözli Önt.\nDélben visszatér a kézművesség központjába, a kőfaragókhoz. Egy jól megérdemelt pihenő után folytatja útját a régió fénypontjához, a lenyűgöző Poseștii-Pământeni-i fatemplomhoz.\nA délután sportosra fordul a hősök emlékművénél tett kitérővel, majd a Corbi-dombra való felkapaszkodással. A fentről nyíló panoráma tökéletes jutalom a fáradozásért, és ideális hely a nap benyomásainak feldolgozására.\nZárja a napot egy helyi vendéglőben. A dombos tájon átvezető kerékpártúra a kultúra, a kézművesség és a természeti élmények tökéletes keverékét kínálja.",
+        "ro": "Urcați-vă pe bicicletă pentru un tur de explorare prin Posești. Dimineața vă poartă din centrul satului la una dintre bisericile istorice și apoi în peisajul pitoresc al Văii Zeletinului, unde natura vă urează bun venit.\nLa prânz, vă întoarceți în centrul meșteșugurilor, vizitând cioplitorii în piatră. După o pauză binemeritată, pedalați mai departe spre punctul culminant al regiunii, impresionanta biserică de lemn din Poseștii-Pământeni.\nDupă-amiaza devine sportivă, cu un ocol la Monumentul Eroilor și urcarea ulterioară pe Dealul Corbi. Priveliștea panoramică de sus este recompensa perfectă pentru eforturile depuse și un loc ideal pentru a procesa impresiile zilei.\nÎncheiați ziua la un han local. Turul cu bicicleta prin peisajul deluros oferă un amestec perfect de cultură, meșteșuguri și experiență în natură.",
+        "en": "Get on your bike for an exploratory tour of Posești. The morning takes you from the village center to one of the historic churches and then into the picturesque landscape of the Zeletin Valley, where nature welcomes you.\nAt noon, you'll return to the center of craftsmanship, visiting the stone carvers. After a well-deserved break, you'll cycle on to the region's highlight, the impressive wooden church of Poseștii-Pământeni.\nThe afternoon gets sporty with a detour to the Heroes' Monument and the subsequent climb up Corbi Hill. The panoramic view from the top is the perfect reward for your efforts and an ideal place to process the day's impressions.\nEnd the day at a local inn. The bike tour through the hilly landscape offers a perfect mix of culture, crafts, and nature experience."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bulz Ciobanesc",
+            "tip": "Ein traditionelles Hirtengericht aus Polenta, Käse und oft Speck, im Ofen gebacken. Sehr sättigend."
+          },
+          {
+            "name": "Pastramă de Oaie",
+            "tip": "Gewürztes und geräuchertes Schaffleisch, eine lokale Delikatesse."
+          },
+          {
+            "name": "Țuică",
+            "tip": "Der lokale Pflaumenschnaps, den man in fast jedem Haushalt findet. Mit Vorsicht genießen!"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bulz Ciobanesc",
+            "tip": "Hagyományos pásztorétel puliszkából, sajtból és gyakran szalonnából, sütőben sütve. Nagyon laktató."
+          },
+          {
+            "name": "Pastramă de Oaie",
+            "tip": "Fűszerezett és füstölt birkahús, helyi különlegesség."
+          },
+          {
+            "name": "Țuică",
+            "tip": "Helyi szilvapálinka, amely szinte minden háztartásban megtalálható. Óvatosan fogyassza!"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bulz Ciobanesc",
+            "tip": "Un preparat tradițional ciobănesc din mămăligă, brânză și adesea slănină, copt în cuptor. Foarte sățios."
+          },
+          {
+            "name": "Pastramă de oaie",
+            "tip": "Carne de oaie condimentată și afumată, o delicatesă locală."
+          },
+          {
+            "name": "Țuică",
+            "tip": "Rachiu local de prune, găsit în aproape fiecare gospodărie. A se consuma cu prudență!"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bulz Ciobanesc",
+            "tip": "A traditional shepherd's dish made of polenta, cheese, and often bacon, baked in the oven. Very filling."
+          },
+          {
+            "name": "Pastramă de Oaie",
+            "tip": "Spiced and smoked mutton, a local delicacy."
+          },
+          {
+            "name": "Țuică",
+            "tip": "The local plum brandy, found in almost every household. Enjoy with caution!"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfel des Corbi-Hügels",
+            "tip": "Der perfekte Ort, um die Stille zu genießen und den Blick schweifen zu lassen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Zeletin-Bachs",
+            "tip": "Finden Sie einen ruhigen Platz am Wasser und lauschen Sie dem Plätschern.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirchhof der Holzkirche",
+            "tip": "Ein friedlicher, historischer Ort zur inneren Einkehr.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Corbi-domb csúcsa",
+            "tip": "Tökéletes hely a csend élvezetére és a kilátásban való gyönyörködésre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Zeletin-patak partja",
+            "tip": "Keressen egy csendes helyet a víz mellett, és hallgassa a csobogást.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A fatemplom temetője",
+            "tip": "Békés, történelmi hely a belső elmélyüléshez.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Dealului Corbi",
+            "tip": "Locul perfect pentru a te bucura de liniște și a admira priveliștea.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul pârâului Zeletin",
+            "tip": "Găsește un loc liniștit lângă apă și ascultă susurul ei.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea bisericii de lemn",
+            "tip": "Un loc pașnic, istoric, pentru reculegere.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Summit of Corbi Hill",
+            "tip": "The perfect spot to enjoy the silence and soak in the views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the Zeletin stream",
+            "tip": "Find a quiet spot by the water and listen to its murmur.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Churchyard of the wooden church",
+            "tip": "A peaceful, historic place for contemplation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Steinschnitzereien",
+            "tip": "Kaufen Sie ein handgefertigtes Souvenir direkt von einem lokalen Steinmetz."
+          },
+          {
+            "name": "Lokaler Honig und Käse",
+            "tip": "Fragen Sie in den örtlichen Haushalten nach hausgemachten Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kőfaragványok",
+            "tip": "Vásároljon egy kézzel készített emléktárgyat közvetlenül egy helyi kőfaragótól."
+          },
+          {
+            "name": "Helyi méz és sajt",
+            "tip": "Érdeklődjön a helyi háztartásoknál házi készítésű termékekről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sculpturi în piatră",
+            "tip": "Cumpărați un suvenir lucrat manual direct de la un cioplitor local."
+          },
+          {
+            "name": "Miere și brânză locală",
+            "tip": "Întrebați în gospodăriile locale despre produse de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stone carvings",
+            "tip": "Buy a handcrafted souvenir directly from a local stone carver."
+          },
+          {
+            "name": "Local honey and cheese",
+            "tip": "Ask in the local households for homemade products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein Mountainbike oder ein robustes Trekkingrad wird für die hügelige Landschaft empfohlen.",
+          "Nehmen Sie ein Reparaturset für Reifenpannen mit, da die Dienstleistungen spärlich sind.",
+          "Planen Sie zusätzliche Zeit für Anstiege ein.",
+          "Achten Sie auf unbefestigte Straßen und landwirtschaftliche Fahrzeuge."
+        ],
+        "hu": [
+          "Hegyi kerékpár vagy erős túrakerékpár ajánlott a dombos terepre.",
+          "Vigyen magával defektjavító készletet, mivel a szolgáltatások ritkák.",
+          "Tervezzen plusz időt az emelkedőkre.",
+          "Vigyázzon a földutakra és a mezőgazdasági járművekre."
+        ],
+        "ro": [
+          "O bicicletă montană sau una de trekking robustă este recomandată pentru peisajul deluros.",
+          "Luați un kit de reparații pentru pană, deoarece serviciile sunt rare.",
+          "Planificați timp suplimentar pentru urcări.",
+          "Fiți atenți la drumurile neasfaltate și la vehiculele agricole."
+        ],
+        "en": [
+          "A mountain bike or a sturdy trekking bike is recommended for the hilly landscape.",
+          "Bring a puncture repair kit, as services are sparse.",
+          "Plan for extra time for climbs.",
+          "Watch out for unpaved roads and agricultural vehicles."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 28.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz bei der Holzkirche (Cluster A)",
+            "hu": "Parkoló a fatemplomnál (A csoport)",
+            "ro": "Parcare la Biserica de Lemn (Grupul A)",
+            "en": "Parking at the Wooden Church (Cluster A)"
+          },
+          "coords": [
+            26.085,
+            45.245
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie am beeindruckendsten Ort. Parken Sie hier und erkunden Sie die Umgebung zu Fuß.",
+            "hu": "Kezdje a leglenyűgözőbb helyszínen. Parkoljon le itt, és fedezze fel a környéket gyalog.",
+            "ro": "Începeți cu cel mai impresionant loc. Parcați aici și explorați zona pe jos.",
+            "en": "Start at the most impressive site. Park here and explore the area on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Heldenmahnmal Posești",
+            "hu": "Posești-i Hősök Emlékműve",
+            "ro": "Monumentul Eroilor din Posești",
+            "en": "Heroes' Monument of Posești"
+          },
+          "coords": [
+            26.083,
+            45.246
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:30",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Holzkirche.",
+            "hu": "Rövid séta a fatemplomtól.",
+            "ro": "O scurtă plimbare de la biserica de lemn.",
+            "en": "A short walk from the wooden church."
+          }
+        },
+        {
+          "name": {
+            "de": "Zeletin-Tal Panorama (Cluster B)",
+            "hu": "Zeletin-völgy panoráma (B csoport)",
+            "ro": "Panoramă Valea Zeletinului (Grupul B)",
+            "en": "Zeletin Valley Panorama (Cluster B)"
+          },
+          "coords": [
+            26.14,
+            45.21
+          ],
+          "category": "natural features",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie tief ins Tal für spektakuläre Ausblicke. Es gibt Parkmöglichkeiten am Straßenrand.",
+            "hu": "Hajtson be mélyen a völgybe a látványos kilátásért. Az út szélén lehet parkolni.",
+            "ro": "Conduceți adânc în vale pentru priveliști spectaculoase. Există locuri de parcare pe marginea drumului.",
+            "en": "Drive deep into the valley for spectacular views. There are parking spots on the roadside."
+          }
+        },
+        {
+          "name": {
+            "de": "Dorfzentrum & Alte Schule (Cluster C)",
+            "hu": "Faluközpont és Régi Iskola (C csoport)",
+            "ro": "Centrul satului & Școala veche (Grupul C)",
+            "en": "Village Center & Old School (Cluster C)"
+          },
+          "coords": [
+            26.101,
+            45.231
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Zentrum und nehmen Sie sich Zeit für ein Mittagessen und einen Spaziergang.",
+            "hu": "Parkoljon a központban, és szánjon időt egy ebédre és egy sétára.",
+            "ro": "Parcați în centru și alocați timp pentru prânz și o plimbare.",
+            "en": "Park in the center and take time for lunch and a walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Tradition der Steinmetze",
+            "hu": "A kőfaragók hagyománya",
+            "ro": "Tradiția cioplitorilor în piatră",
+            "en": "The Stone Carvers' Tradition"
+          },
+          "coords": [
+            26.098,
+            45.235
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besuchen Sie eine Werkstatt in der Nähe des Zentrums.",
+            "hu": "Látogasson el egy műhelybe a központ közelében.",
+            "ro": "Vizitați un atelier din apropierea centrului.",
+            "en": "Visit a workshop near the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Heiligen Erzengel",
+            "hu": "Szent Arkangyalok temploma",
+            "ro": "Biserica Sfinții Voievozi",
+            "en": "Church of the Holy Archangels"
+          },
+          "coords": [
+            26.103,
+            45.233
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Leicht zu Fuß vom Zentrum aus erreichbar.",
+            "hu": "Könnyen megközelíthető gyalog a központból.",
+            "ro": "Ușor accesibil pe jos din centru.",
+            "en": "Easily reachable on foot from the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Corbi-Hügel (Cluster D)",
+            "hu": "Corbi-domb (D csoport)",
+            "ro": "Dealul Corbi (Grupul D)",
+            "en": "Corbi Hill (Cluster D)"
+          },
+          "coords": [
+            26.075,
+            45.255
+          ],
+          "category": "viewpoint",
+          "arrive_at": "15:35",
+          "stay_min": 55,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 7.6,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie so nah wie möglich heran und genießen Sie den letzten Panoramablick des Tages.",
+            "hu": "Hajtson amilyen közel csak lehet, és élvezze a nap utolsó panorámáját.",
+            "ro": "Conduceți cât mai aproape posibil și bucurați-vă de ultima panoramă a zilei.",
+            "en": "Drive as close as you can and enjoy the last panoramic view of the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Posești flexibel in Clustern. Beginnen Sie Ihren Tag am Morgen bei der beeindruckenden Holzkirche, wo Sie parken und die unmittelbare Umgebung mit dem Heldenmahnmal zu Fuß erkunden.\nAnschließend fahren Sie für eine Dosis Natur ins malerische Zeletin-Tal. Nach den Panoramablicken steuern Sie das Dorfzentrum an. Hier ist Zeit für ein Mittagessen und einen Spaziergang zu den Werkstätten der Steinmetze und einer weiteren Kirche.\nDer Nachmittag bringt Sie zu Ihrem letzten Ziel. Eine kurze Fahrt bringt Sie in die Nähe des Corbi-Hügels. Ein kurzer Aufstieg zu Fuß belohnt Sie mit einer finalen, weiten Aussicht über die Region, ein perfekter Abschluss für Ihren Ausflug.\nDie Cluster-Struktur ermöglicht es Ihnen, längere Strecken bequem mit dem Auto zurückzulegen, während Sie die eigentlichen Sehenswürdigkeiten entspannt zu Fuß entdecken und die Atmosphäre auf sich wirken lassen.",
+        "hu": "Autóval rugalmasan, csoportokban fedezheti fel Posești-t. Kezdje a napot reggel a lenyűgöző fatemplomnál, ahol leparkolhat, és gyalog fedezheti fel a közvetlen környéket a Hősök Emlékművével.\nEzután egy adag természetért hajtson a festői Zeletin-völgybe. A panorámás kilátás után vegye az irányt a faluközpont felé. Itt ideje ebédelni és sétálni a kőfaragó műhelyekhez és egy másik templomhoz.\nA délután az utolsó célponthoz viszi. Egy rövid autóút a Corbi-domb közelébe juttatja. Egy rövid gyalogos emelkedő a régióra nyíló végső, tágas kilátással jutalmazza, ami tökéletes lezárása a kirándulásnak.\nA csoportos struktúra lehetővé teszi, hogy a hosszabb távolságokat kényelmesen autóval tegye meg, miközben a tényleges látnivalókat nyugodtan, gyalogosan fedezi fel, és magába szívja a hangulatot.",
+        "ro": "Cu mașina, explorați Poseștiul în mod flexibil, pe grupuri de obiective. Începeți dimineața la impresionanta biserică de lemn, unde parcați și explorați pe jos zona imediată, inclusiv Monumentul Eroilor.\nApoi, conduceți spre pitoreasca Vale a Zeletinului pentru o doză de natură. După priveliștile panoramice, îndreptați-vă spre centrul satului. Aici este timp pentru prânz și o plimbare la atelierele cioplitorilor în piatră și la o altă biserică.\nDupă-amiaza vă duce la ultima destinație. O scurtă călătorie cu mașina vă aduce aproape de Dealul Corbi. O scurtă urcare pe jos vă răsplătește cu o ultimă priveliște amplă asupra regiunii, o încheiere perfectă pentru excursia dumneavoastră.\nStructura pe grupuri vă permite să parcurgeți distanțe mai mari confortabil cu mașina, în timp ce descoperiți obiectivele turistice efective într-un mod relaxat, pe jos, absorbind atmosfera.",
+        "en": "By car, you can explore Posești flexibly in clusters. Start your morning at the impressive wooden church, where you park and explore the immediate area, including the Heroes' Monument, on foot.\nNext, drive to the picturesque Zeletin Valley for a dose of nature. After the panoramic views, head to the village center. Here, there's time for lunch and a walk to the stone carvers' workshops and another church.\nThe afternoon takes you to your final destination. A short drive brings you near Corbi Hill. A brief walk up rewards you with a final, expansive view over the region, a perfect end to your trip.\nThe cluster structure allows you to comfortably cover longer distances by car, while discovering the actual sights in a relaxed manner on foot, soaking up the atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bulz Ciobanesc",
+            "tip": "Ein traditionelles Hirtengericht aus Polenta, Käse und oft Speck, im Ofen gebacken. Sehr sättigend."
+          },
+          {
+            "name": "Pastramă de Oaie",
+            "tip": "Gewürztes und geräuchertes Schaffleisch, eine lokale Delikatesse."
+          },
+          {
+            "name": "Țuică",
+            "tip": "Der lokale Pflaumenschnaps, den man in fast jedem Haushalt findet. Mit Vorsicht genießen!"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bulz Ciobanesc",
+            "tip": "Hagyományos pásztorétel puliszkából, sajtból és gyakran szalonnából, sütőben sütve. Nagyon laktató."
+          },
+          {
+            "name": "Pastramă de Oaie",
+            "tip": "Fűszerezett és füstölt birkahús, helyi különlegesség."
+          },
+          {
+            "name": "Țuică",
+            "tip": "Helyi szilvapálinka, amely szinte minden háztartásban megtalálható. Óvatosan fogyassza!"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bulz Ciobanesc",
+            "tip": "Un preparat tradițional ciobănesc din mămăligă, brânză și adesea slănină, copt în cuptor. Foarte sățios."
+          },
+          {
+            "name": "Pastramă de oaie",
+            "tip": "Carne de oaie condimentată și afumată, o delicatesă locală."
+          },
+          {
+            "name": "Țuică",
+            "tip": "Rachiu local de prune, găsit în aproape fiecare gospodărie. A se consuma cu prudență!"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bulz Ciobanesc",
+            "tip": "A traditional shepherd's dish made of polenta, cheese, and often bacon, baked in the oven. Very filling."
+          },
+          {
+            "name": "Pastramă de Oaie",
+            "tip": "Spiced and smoked mutton, a local delicacy."
+          },
+          {
+            "name": "Țuică",
+            "tip": "The local plum brandy, found in almost every household. Enjoy with caution!"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfel des Corbi-Hügels",
+            "tip": "Der perfekte Ort, um die Stille zu genießen und den Blick schweifen zu lassen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Zeletin-Bachs",
+            "tip": "Finden Sie einen ruhigen Platz am Wasser und lauschen Sie dem Plätschern.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirchhof der Holzkirche",
+            "tip": "Ein friedlicher, historischer Ort zur inneren Einkehr.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Corbi-domb csúcsa",
+            "tip": "Tökéletes hely a csend élvezetére és a kilátásban való gyönyörködésre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Zeletin-patak partja",
+            "tip": "Keressen egy csendes helyet a víz mellett, és hallgassa a csobogást.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A fatemplom temetője",
+            "tip": "Békés, történelmi hely a belső elmélyüléshez.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Dealului Corbi",
+            "tip": "Locul perfect pentru a te bucura de liniște și a admira priveliștea.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul pârâului Zeletin",
+            "tip": "Găsește un loc liniștit lângă apă și ascultă susurul ei.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea bisericii de lemn",
+            "tip": "Un loc pașnic, istoric, pentru reculegere.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Summit of Corbi Hill",
+            "tip": "The perfect spot to enjoy the silence and soak in the views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the Zeletin stream",
+            "tip": "Find a quiet spot by the water and listen to its murmur.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Churchyard of the wooden church",
+            "tip": "A peaceful, historic place for contemplation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Steinschnitzereien",
+            "tip": "Kaufen Sie ein handgefertigtes Souvenir direkt von einem lokalen Steinmetz."
+          },
+          {
+            "name": "Lokaler Honig und Käse",
+            "tip": "Fragen Sie in den örtlichen Haushalten nach hausgemachten Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kőfaragványok",
+            "tip": "Vásároljon egy kézzel készített emléktárgyat közvetlenül egy helyi kőfaragótól."
+          },
+          {
+            "name": "Helyi méz és sajt",
+            "tip": "Érdeklődjön a helyi háztartásoknál házi készítésű termékekről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sculpturi în piatră",
+            "tip": "Cumpărați un suvenir lucrat manual direct de la un cioplitor local."
+          },
+          {
+            "name": "Miere și brânză locală",
+            "tip": "Întrebați în gospodăriile locale despre produse de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stone carvings",
+            "tip": "Buy a handcrafted souvenir directly from a local stone carver."
+          },
+          {
+            "name": "Local honey and cheese",
+            "tip": "Ask in the local households for homemade products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen können eng und kurvig sein, fahren Sie vorsichtig.",
+          "Parkmöglichkeiten sind oft informell am Straßenrand.",
+          "Tanken Sie vorher, da Tankstellen in der Gegend selten sind.",
+          "Achten Sie auf Tiere auf der Straße."
+        ],
+        "hu": [
+          "Az utak szűkek és kanyargósak lehetnek, vezessen óvatosan.",
+          "A parkolás gyakran informális, az út szélén.",
+          "Tankoljon előre, mert a benzinkutak ritkák a környéken.",
+          "Vigyázzon az úton lévő állatokra."
+        ],
+        "ro": [
+          "Drumurile pot fi înguste și șerpuite, conduceți cu prudență.",
+          "Locurile de parcare sunt adesea informale, pe marginea drumului.",
+          "Alimentați în prealabil, deoarece benzinăriile sunt rare în zonă.",
+          "Atenție la animalele de pe carosabil."
+        ],
+        "en": [
+          "The roads can be narrow and winding, drive carefully.",
+          "Parking is often informal on the side of the road.",
+          "Fill up your tank beforehand, as gas stations are rare in the area.",
+          "Watch out for animals on the road."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentralbushaltestelle & Alte Schule (Cluster A)",
+            "hu": "Központi buszmegálló és Régi Iskola (A csoport)",
+            "ro": "Stație centrală & Școala veche (Grupul A)",
+            "en": "Central Bus Stop & Old School (Cluster A)"
+          },
+          "coords": [
+            26.101,
+            45.231
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Starten Sie am Verkehrsknotenpunkt des Dorfes.",
+            "hu": "Kezdje a falu közlekedési csomópontjánál.",
+            "ro": "Începeți de la nodul de transport al satului.",
+            "en": "Start at the village's transport hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Heiligen Erzengel",
+            "hu": "Szent Arkangyalok temploma",
+            "ro": "Biserica Sfinții Voievozi",
+            "en": "Church of the Holy Archangels"
+          },
+          "coords": [
+            26.103,
+            45.233
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Bushaltestelle.",
+            "hu": "Rövid séta a buszmegállótól.",
+            "ro": "O scurtă plimbare de la stația de autobuz.",
+            "en": "A short walk from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Tradition der Steinmetze",
+            "hu": "A kőfaragók hagyománya",
+            "ro": "Tradiția cioplitorilor în piatră",
+            "en": "The Stone Carvers' Tradition"
+          },
+          "coords": [
+            26.098,
+            45.235
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die Handwerkskunst, bevor Sie den Bus zum nächsten Cluster nehmen.",
+            "hu": "Fedezze fel a kézművességet, mielőtt busszal a következő csoporthoz utazik.",
+            "ro": "Explorați meșteșugurile înainte de a lua autobuzul spre următorul grup de obiective.",
+            "en": "Explore the craftsmanship before taking the bus to the next cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle Poseștii-Pământeni (Cluster B)",
+            "hu": "Poseștii-Pământeni megálló (B csoport)",
+            "ro": "Stația Poseștii-Pământeni (Grupul B)",
+            "en": "Poseștii-Pământeni Stop (Cluster B)"
+          },
+          "coords": [
+            26.086,
+            45.244
+          ],
+          "category": "transit-stop",
+          "arrive_at": "12:35",
+          "stay_min": 0,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie hier aus, um die berühmte Holzkirche zu besuchen.",
+            "hu": "Szálljon le itt a híres fatemplom meglátogatásához.",
+            "ro": "Coborâți aici pentru a vizita faimoasa biserică de lemn.",
+            "en": "Get off here to visit the famous wooden church."
+          }
+        },
+        {
+          "name": {
+            "de": "Holzkirche von Poseștii-Pământeni",
+            "hu": "A Poseștii-Pământeni-i fatemplom",
+            "ro": "Biserica de lemn din Poseștii-Pământeni",
+            "en": "Wooden Church of Poseștii-Pământeni"
+          },
+          "coords": [
+            26.085,
+            45.245
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss und der Höhepunkt Ihrer Reise durch die Region.",
+            "hu": "Kötelező látnivaló és a régióban tett utazás fénypontja.",
+            "ro": "O vizită obligatorie și punctul culminant al călătoriei dumneavoastră prin regiune.",
+            "en": "A must-see and the highlight of your journey through the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Corbi-Hügel (zu Fuß von Cluster B)",
+            "hu": "Corbi-domb (gyalog a B csoporttól)",
+            "ro": "Dealul Corbi (pe jos din Grupul B)",
+            "en": "Corbi Hill (walking from Cluster B)"
+          },
+          "coords": [
+            26.075,
+            45.255
+          ],
+          "category": "viewpoint",
+          "arrive_at": "14:50",
+          "stay_min": 130,
+          "hop_from_prev_min": 85,
+          "hop_from_prev_km": 6.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein längerer Spaziergang zum Abschluss, der sich für die Aussicht lohnt. Planen Sie Zeit für den Rückweg zur Bushaltestelle ein.",
+            "hu": "Egy hosszabb séta a végére, ami megéri a kilátásért. Tervezzen időt a buszmegállóba való visszatérésre.",
+            "ro": "O plimbare mai lungă la final, care merită pentru priveliște. Planificați-vă timp pentru a vă întoarce la stația de autobuz.",
+            "en": "A longer walk to finish, which is worth it for the view. Plan time to get back to the bus stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auch mit öffentlichen Verkehrsmitteln lässt sich Posești gut erkunden. Ihre Tour beginnt am Vormittag an der zentralen Bushaltestelle, von wo aus Sie das Dorfzentrum mit seinen historischen Gebäuden und den Handwerksbetrieben zu Fuß entdecken.\nZur Mittagszeit nehmen Sie den Bus zu Ihrem zweiten Cluster in Poseștii-Pământeni. Nach dem Aussteigen spazieren Sie zur weltberühmten Holzkirche. Nehmen Sie sich Zeit, dieses Juwel der Architektur zu bewundern und in einem nahegelegenen Gasthaus zu Mittag zu essen.\nDer Nachmittag ist für eine Wanderung reserviert. Von der Holzkirche aus machen Sie sich auf den Weg zum Corbi-Hügel. Der Aufstieg bietet nicht nur Bewegung, sondern auch eine fantastische Aussicht, die den Tag perfekt abrundet.\nDiese Tour zeigt, dass man auch ohne eigenes Auto tief in die Kultur und Natur der Region eintauchen kann. Es erfordert etwas mehr Planung, belohnt aber mit authentischen Erlebnissen.",
+        "hu": "Tömegközlekedéssel is jól felfedezhető Posești. A túra délelőtt a központi buszmegállóból indul, ahonnan gyalogosan fedezheti fel a faluközpontot történelmi épületeivel és kézműves műhelyeivel.\nDélben busszal utazik a második csoporthoz, Poseștii-Pământeni-be. Leszállás után sétáljon el a világhírű fatemplomhoz. Szánjon időt ennek az építészeti gyöngyszemnek a megcsodálására, és ebédeljen egy közeli vendéglőben.\nA délután egy túrára van fenntartva. A fatemplomtól induljon el a Corbi-domb felé. Az emelkedő nemcsak mozgást kínál, hanem fantasztikus kilátást is, amely tökéletesen zárja a napot.\nEz a túra megmutatja, hogy saját autó nélkül is mélyen elmerülhet a régió kultúrájában és természetében. Kicsit több tervezést igényel, de hiteles élményekkel jutalmaz.",
+        "ro": "Posești poate fi explorat bine și cu transportul public. Turul dumneavoastră începe dimineața la stația centrală de autobuz, de unde explorați pe jos centrul satului cu clădirile sale istorice și atelierele meșteșugărești.\nLa prânz, luați autobuzul spre al doilea grup de obiective din Poseștii-Pământeni. După ce coborâți, faceți o plimbare până la faimoasa biserică de lemn. Acordați-vă timp pentru a admira această bijuterie arhitecturală și pentru a lua prânzul la un han din apropiere.\nDupă-amiaza este rezervată unei drumeții. De la biserica de lemn, porniți spre Dealul Corbi. Urcușul nu oferă doar mișcare, ci și o priveliște fantastică, care încheie perfect ziua.\nAcest tur demonstrează că vă puteți cufunda adânc în cultura și natura regiunii chiar și fără mașină proprie. Necesită puțin mai multă planificare, dar recompensează cu experiențe autentice.",
+        "en": "Posești can also be explored well by public transport. Your tour begins in the morning at the central bus stop, from where you explore the village center with its historic buildings and craft workshops on foot.\nAt noon, you take the bus to your second cluster in Poseștii-Pământeni. After getting off, you'll walk to the world-famous wooden church. Take your time to admire this architectural gem and have lunch at a nearby inn.\nThe afternoon is reserved for a hike. From the wooden church, you set off for Corbi Hill. The climb not only offers exercise but also a fantastic view that perfectly rounds off the day.\nThis tour shows that you can immerse yourself deeply in the region's culture and nature even without your own car. It requires a bit more planning but rewards you with authentic experiences."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bulz Ciobanesc",
+            "tip": "Ein traditionelles Hirtengericht aus Polenta, Käse und oft Speck, im Ofen gebacken. Sehr sättigend."
+          },
+          {
+            "name": "Pastramă de Oaie",
+            "tip": "Gewürztes und geräuchertes Schaffleisch, eine lokale Delikatesse."
+          },
+          {
+            "name": "Țuică",
+            "tip": "Der lokale Pflaumenschnaps, den man in fast jedem Haushalt findet. Mit Vorsicht genießen!"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bulz Ciobanesc",
+            "tip": "Hagyományos pásztorétel puliszkából, sajtból és gyakran szalonnából, sütőben sütve. Nagyon laktató."
+          },
+          {
+            "name": "Pastramă de Oaie",
+            "tip": "Fűszerezett és füstölt birkahús, helyi különlegesség."
+          },
+          {
+            "name": "Țuică",
+            "tip": "Helyi szilvapálinka, amely szinte minden háztartásban megtalálható. Óvatosan fogyassza!"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bulz Ciobanesc",
+            "tip": "Un preparat tradițional ciobănesc din mămăligă, brânză și adesea slănină, copt în cuptor. Foarte sățios."
+          },
+          {
+            "name": "Pastramă de oaie",
+            "tip": "Carne de oaie condimentată și afumată, o delicatesă locală."
+          },
+          {
+            "name": "Țuică",
+            "tip": "Rachiu local de prune, găsit în aproape fiecare gospodărie. A se consuma cu prudență!"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bulz Ciobanesc",
+            "tip": "A traditional shepherd's dish made of polenta, cheese, and often bacon, baked in the oven. Very filling."
+          },
+          {
+            "name": "Pastramă de Oaie",
+            "tip": "Spiced and smoked mutton, a local delicacy."
+          },
+          {
+            "name": "Țuică",
+            "tip": "The local plum brandy, found in almost every household. Enjoy with caution!"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfel des Corbi-Hügels",
+            "tip": "Der perfekte Ort, um die Stille zu genießen und den Blick schweifen zu lassen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Zeletin-Bachs",
+            "tip": "Finden Sie einen ruhigen Platz am Wasser und lauschen Sie dem Plätschern.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirchhof der Holzkirche",
+            "tip": "Ein friedlicher, historischer Ort zur inneren Einkehr.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Corbi-domb csúcsa",
+            "tip": "Tökéletes hely a csend élvezetére és a kilátásban való gyönyörködésre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Zeletin-patak partja",
+            "tip": "Keressen egy csendes helyet a víz mellett, és hallgassa a csobogást.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A fatemplom temetője",
+            "tip": "Békés, történelmi hely a belső elmélyüléshez.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Dealului Corbi",
+            "tip": "Locul perfect pentru a te bucura de liniște și a admira priveliștea.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul pârâului Zeletin",
+            "tip": "Găsește un loc liniștit lângă apă și ascultă susurul ei.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea bisericii de lemn",
+            "tip": "Un loc pașnic, istoric, pentru reculegere.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Summit of Corbi Hill",
+            "tip": "The perfect spot to enjoy the silence and soak in the views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the Zeletin stream",
+            "tip": "Find a quiet spot by the water and listen to its murmur.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Churchyard of the wooden church",
+            "tip": "A peaceful, historic place for contemplation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Steinschnitzereien",
+            "tip": "Kaufen Sie ein handgefertigtes Souvenir direkt von einem lokalen Steinmetz."
+          },
+          {
+            "name": "Lokaler Honig und Käse",
+            "tip": "Fragen Sie in den örtlichen Haushalten nach hausgemachten Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kőfaragványok",
+            "tip": "Vásároljon egy kézzel készített emléktárgyat közvetlenül egy helyi kőfaragótól."
+          },
+          {
+            "name": "Helyi méz és sajt",
+            "tip": "Érdeklődjön a helyi háztartásoknál házi készítésű termékekről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sculpturi în piatră",
+            "tip": "Cumpărați un suvenir lucrat manual direct de la un cioplitor local."
+          },
+          {
+            "name": "Miere și brânză locală",
+            "tip": "Întrebați în gospodăriile locale despre produse de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stone carvings",
+            "tip": "Buy a handcrafted souvenir directly from a local stone carver."
+          },
+          {
+            "name": "Local honey and cheese",
+            "tip": "Ask in the local households for homemade products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, da die Busse selten fahren.",
+          "Kaufen Sie Tickets, wenn möglich, im Voraus oder haben Sie Kleingeld dabei.",
+          "Planen Sie Pufferzeiten für mögliche Verspätungen ein.",
+          "Fragen Sie die Einheimischen nach der richtigen Haltestelle; die Beschilderung kann unklar sein."
+        ],
+        "hu": [
+          "Ellenőrizze előre a buszmenetrendet, mivel a járatok ritkán közlekednek.",
+          "Vásároljon jegyet, ha lehetséges, előre, vagy legyen Önnél aprópénz.",
+          "Tervezzen pufferidőt az esetleges késésekre.",
+          "Kérdezze meg a helyieket a megfelelő megállóról; a jelzések félreérthetőek lehetnek."
+        ],
+        "ro": [
+          "Verificați programul autobuzelor în avans, deoarece circulă rar.",
+          "Cumpărați bilete în avans, dacă este posibil, sau aveți bani mărunți la dumneavoastră.",
+          "Planificați timp tampon pentru posibile întârzieri.",
+          "Întrebați localnicii despre stația corectă; semnalizarea poate fi neclară."
+        ],
+        "en": [
+          "Check the bus schedule in advance, as buses run infrequently.",
+          "Buy tickets in advance if possible, or have small change ready.",
+          "Plan for buffer time for potential delays.",
+          "Ask the locals for the correct stop; signage can be unclear."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1460 @@
+{
+  "city_id": "mersin-cities-v2",
+  "anchor": {
+    "name": "Mersin",
+    "coords": [
+      34.6167,
+      36.8
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Atatürk-Haus Museum",
+            "hu": "Atatürk Ház Múzeum",
+            "ro": "Casa Muzeu Atatürk",
+            "en": "Atatürk House Museum"
+          },
+          "coords": [
+            34.6315,
+            36.808
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die persönlichen Gegenstände und die Geschichte von Atatürk.",
+            "hu": "Fedezze fel Atatürk személyes tárgyait és történelmét.",
+            "ro": "Explorați obiectele personale și istoria lui Atatürk.",
+            "en": "Explore the personal belongings and history of Atatürk."
+          }
+        },
+        {
+          "name": {
+            "de": "Marinemuseum Mersin",
+            "hu": "Mersini Tengerészeti Múzeum",
+            "ro": "Muzeul Naval din Mersin",
+            "en": "Mersin Naval Museum"
+          },
+          "coords": [
+            34.6225,
+            36.792
+          ],
+          "category": "museums",
+          "arrive_at": "10:59",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Besonders die Sammlung von Schiffsmodellen ist beeindruckend.",
+            "hu": "A hajómodellek gyűjteménye különösen lenyűgöző.",
+            "ro": "Colecția de machete de nave este deosebit de impresionantă.",
+            "en": "The collection of ship models is particularly impressive."
+          }
+        },
+        {
+          "name": {
+            "de": "Mersin Marina",
+            "hu": "Mersin Marina",
+            "ro": "Portul de Agrement Mersin",
+            "en": "Mersin Marina"
+          },
+          "coords": [
+            34.6095,
+            36.784
+          ],
+          "category": "port",
+          "arrive_at": "13:03",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Ideal für ein Mittagessen mit Blick auf die Yachten.",
+            "hu": "Ideális egy ebédhez, kilátással a jachtokra.",
+            "ro": "Ideal pentru un prânz cu vedere la iahturi.",
+            "en": "Ideal for a lunch with a view of the yachts."
+          }
+        },
+        {
+          "name": {
+            "de": "Kultur-Park",
+            "hu": "Kultúrpark",
+            "ro": "Parcul Cultural",
+            "en": "Culture Park"
+          },
+          "coords": [
+            34.61,
+            36.79
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:33",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein schöner Ort für einen Spaziergang am Nachmittag am Meer.",
+            "hu": "Kellemes hely egy délutáni sétához a tengerparton.",
+            "ro": "Un loc plăcut pentru o plimbare de după-amiază pe malul mării.",
+            "en": "A nice spot for an afternoon stroll by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Muğdat-Moschee",
+            "hu": "Muğdat-mecset",
+            "ro": "Moscheea Muğdat",
+            "en": "Muğdat Mosque"
+          },
+          "coords": [
+            34.59,
+            36.79
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:20",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckende Architektur und die ruhige Atmosphäre.",
+            "hu": "Figyelje meg a lenyűgöző építészetet és a békés légkört.",
+            "ro": "Observați arhitectura impresionantă și atmosfera liniștită.",
+            "en": "Note the impressive architecture and the quiet atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Kushimoto-Straße",
+            "hu": "Kushimoto utca",
+            "ro": "Strada Kushimoto",
+            "en": "Kushimoto Street"
+          },
+          "coords": [
+            34.605,
+            36.78
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:16",
+          "stay_min": 69,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Perfekt für einen Sonnenuntergangsspaziergang entlang der Küste.",
+            "hu": "Tökéletes egy naplementi sétához a part mentén.",
+            "ro": "Perfect pentru o plimbare la apus de-a lungul coastei.",
+            "en": "Perfect for a sunset walk along the coast."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Mersin mit einem Besuch des Atatürk-Hauses. Nach diesem Einblick in die Geschichte spazieren Sie gemütlich zum Marinemuseum, um die maritime Vergangenheit der Stadt zu entdecken. Am Mittag erreichen Sie die lebhafte Mersin Marina, ein idealer Ort für eine Pause und ein köstliches Mittagessen mit Blick aufs Meer. Am Nachmittag schlendern Sie durch den grünen Kultur-Park, bevor Sie die beeindruckende Muğdat-Moschee besichtigen. Den Abend lassen Sie an der Kushimoto-Straße ausklingen, wo Sie den Sonnenuntergang über dem Mittelmeer genießen.",
+        "hu": "Kezdje a napot Mersin szívében az Atatürk Ház meglátogatásával. A történelmi betekintés után sétáljon el a Tengerészeti Múzeumhoz, hogy felfedezze a város tengeri múltját. Délben érkezzen meg az élettel teli Mersin Marinába, amely ideális hely egy szünetre és egy finom ebédre a tengerre néző kilátással. Délután sétáljon át a zöld Kultúrparkon, mielőtt megtekinti a lenyűgöző Muğdat-mecsetet. Az estét a Kushimoto utcán zárja, ahol élvezheti a naplementét a Földközi-tenger felett.",
+        "ro": "Începeți ziua în inima orașului Mersin cu o vizită la Casa Atatürk. După această incursiune în istorie, plimbați-vă agale spre Muzeul Naval pentru a descoperi trecutul maritim al orașului. La prânz, ajungeți în vibrantul port de agrement Mersin, un loc ideal pentru o pauză și un prânz delicios cu vedere la mare. După-amiaza, plimbați-vă prin Parcul Cultural, înainte de a vizita impresionanta Moschee Muğdat. Încheiați seara pe strada Kushimoto, bucurându-vă de apusul peste Mediterană.",
+        "en": "Start your day in the heart of Mersin with a visit to the Atatürk House. After this glimpse into history, take a leisurely stroll to the Naval Museum to discover the city's maritime past. At noon, you'll reach the lively Mersin Marina, an ideal spot for a break and a delicious lunch overlooking the sea. In the afternoon, wander through the green Culture Park before visiting the impressive Muğdat Mosque. End your evening on Kushimoto Street, enjoying the sunset over the Mediterranean."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tantuni",
+            "tip": "Ein lokales Wrap-Gericht, probieren Sie es bei 'Yaprak Tantuni'."
+          },
+          {
+            "name": "Kerebiç",
+            "tip": "Ein mit Pistazien gefülltes Grießgebäck, ein Muss zum Nachtisch."
+          },
+          {
+            "name": "Frischer Fisch",
+            "tip": "Genießen Sie den Fang des Tages in einem der Restaurants in der Marina."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tantuni",
+            "tip": "Helyi wrap-specialitás, kóstolja meg a 'Yaprak Tantuni'-ban."
+          },
+          {
+            "name": "Kerebiç",
+            "tip": "Pisztáciával töltött darából készült sütemény, kötelező desszert."
+          },
+          {
+            "name": "Friss hal",
+            "tip": "Élvezze a nap fogását a marina egyik éttermében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tantuni",
+            "tip": "O specialitate locală de tip wrap, încercați-o la 'Yaprak Tantuni'."
+          },
+          {
+            "name": "Kerebiç",
+            "tip": "O prăjitură din griș umplută cu fistic, un desert obligatoriu."
+          },
+          {
+            "name": "Pește proaspăt",
+            "tip": "Savurați captura zilei la unul dintre restaurantele din portul de agrement."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tantuni",
+            "tip": "A local wrap dish, try it at 'Yaprak Tantuni'."
+          },
+          {
+            "name": "Kerebiç",
+            "tip": "A semolina pastry filled with pistachios, a must-try dessert."
+          },
+          {
+            "name": "Fresh Fish",
+            "tip": "Enjoy the catch of the day at one of the restaurants in the Marina."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kultur-Park",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die Meeresbrise.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang an der Küste",
+            "tip": "Spazieren Sie entlang der Kushimoto-Straße, um die besten Farben zu sehen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Innenhof der Muğdat-Moschee",
+            "tip": "Ein Ort der Ruhe und Besinnung, abseits des Stadtlärms.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kultúrpark",
+            "tip": "Keressen egy csendes padot, és élvezze a tengeri szellőt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a parton",
+            "tip": "Sétáljon végig a Kushimoto utcán a legjobb színekért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Muğdat-mecset udvara",
+            "tip": "A béke és az elmélkedés helye, távol a város zajától.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Cultural",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de briza mării.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus pe coastă",
+            "tip": "Plimbați-vă de-a lungul străzii Kushimoto pentru a vedea cele mai bune culori.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curtea Moscheii Muğdat",
+            "tip": "Un loc de pace și reflecție, departe de zgomotul orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Culture Park",
+            "tip": "Find a quiet bench and enjoy the sea breeze.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset on the coast",
+            "tip": "Walk along Kushimoto Street to see the best colors.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Muğdat Mosque Courtyard",
+            "tip": "A place of peace and reflection, away from the city noise.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mersin Forum",
+            "tip": "Ein großes Einkaufszentrum mit internationalen und türkischen Marken."
+          },
+          {
+            "name": "Basarviertel",
+            "tip": "Erkunden Sie die kleinen Gassen in der Nähe des Atatürk-Hauses für lokale Produkte und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mersin Forum",
+            "tip": "Nagy bevásárlóközpont nemzetközi és török márkákkal."
+          },
+          {
+            "name": "Bazárnegyed",
+            "tip": "Fedezze fel az Atatürk Ház közelében lévő kis utcákat helyi termékekért és szuvenírekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Forum Mersin",
+            "tip": "Un mare centru comercial cu mărci internaționale și turcești."
+          },
+          {
+            "name": "Cartierul Bazarului",
+            "tip": "Explorați străduțele din apropierea Casei Atatürk pentru produse locale și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mersin Forum",
+            "tip": "A large shopping center with international and Turkish brands."
+          },
+          {
+            "name": "Bazaar Quarter",
+            "tip": "Explore the small streets near the Atatürk House for local products and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie ausreichend Wasser mit, besonders in den Sommermonaten.",
+          "Ein Sonnenhut und Sonnencreme sind unerlässlich.",
+          "Planen Sie genügend Zeit für Pausen in den Parks am Meer ein."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "Vigyen magával elegendő vizet, különösen a nyári hónapokban.",
+          "A kalap és a naptej elengedhetetlen.",
+          "Tervezzen elegendő időt a tengerparti parkokban tartott szünetekre."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Luați suficientă apă, mai ales în lunile de vară.",
+          "O pălărie de soare și crema de protecție solară sunt esențiale.",
+          "Planificați suficient timp pentru pauze în parcurile de pe malul mării."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Bring plenty of water, especially during the summer months.",
+          "A sun hat and sunscreen are essential.",
+          "Plan enough time for breaks in the seaside parks."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Soli-Pompeiopolis",
+            "hu": "Soli-Pompeiopolis",
+            "ro": "Soli-Pompeiopolis",
+            "en": "Soli-Pompeiopolis"
+          },
+          "coords": [
+            34.54,
+            36.77
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für die beeindruckende Säulenstraße.",
+            "hu": "Szánjon időt a lenyűgöző oszlopsorra.",
+            "ro": "Acordați-vă timp pentru impresionanta stradă cu coloane.",
+            "en": "Take your time for the impressive colonnaded street."
+          }
+        },
+        {
+          "name": {
+            "de": "Mersin Forum",
+            "hu": "Mersin Forum",
+            "ro": "Forum Mersin",
+            "en": "Mersin Forum"
+          },
+          "coords": [
+            34.58,
+            36.78
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:54",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Gut für eine kurze Kaffeepause, bevor es weitergeht.",
+            "hu": "Jó egy gyors kávészünetre, mielőtt továbbhalad.",
+            "ro": "Bun pentru o scurtă pauză de cafea înainte de a continua.",
+            "en": "Good for a quick coffee break before moving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Mersin Marina",
+            "hu": "Mersin Marina",
+            "ro": "Portul de Agrement Mersin",
+            "en": "Mersin Marina"
+          },
+          "coords": [
+            34.6095,
+            36.784
+          ],
+          "category": "port",
+          "arrive_at": "11:51",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie die Geschäfte und Restaurants.",
+            "hu": "Tegye le a biciklit, és fedezze fel az üzleteket és éttermeket.",
+            "ro": "Parcați bicicleta și explorați magazinele și restaurantele.",
+            "en": "Park your bike and explore the shops and restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Kushimoto-Straße",
+            "hu": "Kushimoto utca",
+            "ro": "Strada Kushimoto",
+            "en": "Kushimoto Street"
+          },
+          "coords": [
+            34.62,
+            36.79
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:17",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Eine angenehme Radtour entlang der Küste mit toller Aussicht.",
+            "hu": "Kellemes biciklitúra a part mentén, remek kilátással.",
+            "ro": "O plimbare plăcută cu bicicleta de-a lungul coastei, cu priveliști minunate.",
+            "en": "A pleasant bike ride along the coast with great views."
+          }
+        },
+        {
+          "name": {
+            "de": "Marinemuseum Mersin",
+            "hu": "Mersini Tengerészeti Múzeum",
+            "ro": "Muzeul Naval din Mersin",
+            "en": "Mersin Naval Museum"
+          },
+          "coords": [
+            34.6225,
+            36.792
+          ],
+          "category": "museums",
+          "arrive_at": "14:00",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die reiche maritime Geschichte der Türkei.",
+            "hu": "Merüljön el Törökország gazdag tengerészeti történelmében.",
+            "ro": "Scufundați-vă în bogata istorie maritimă a Turciei.",
+            "en": "Immerse yourself in Turkey's rich maritime history."
+          }
+        },
+        {
+          "name": {
+            "de": "Atatürk-Haus Museum",
+            "hu": "Atatürk Ház Múzeum",
+            "ro": "Casa Muzeu Atatürk",
+            "en": "Atatürk House Museum"
+          },
+          "coords": [
+            34.6315,
+            36.808
+          ],
+          "category": "museums",
+          "arrive_at": "15:43",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Ein Muss, um den Gründer der modernen Türkei besser zu verstehen.",
+            "hu": "Kötelező látnivaló a modern Törökország alapítójának jobb megértéséhez.",
+            "ro": "O vizită obligatorie pentru a înțelege mai bine fondatorul Turciei moderne.",
+            "en": "A must-see to better understand the founder of modern Turkey."
+          }
+        },
+        {
+          "name": {
+            "de": "Kultur-Park",
+            "hu": "Kultúrpark",
+            "ro": "Parcul Cultural",
+            "en": "Culture Park"
+          },
+          "coords": [
+            34.61,
+            36.79
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:13",
+          "stay_min": 76,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag entspannt in diesem schönen Park am Meer.",
+            "hu": "Zárja a napot pihenéssel ebben a szép tengerparti parkban.",
+            "ro": "Încheiați ziua relaxându-vă în acest frumos parc de pe malul mării.",
+            "en": "End the day relaxing in this beautiful seaside park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour bei den antiken Ruinen von Soli-Pompeiopolis. Von dort aus radeln Sie Richtung Osten zum modernen Mersin Forum für eine kurze Pause. Weiter geht es zur Mersin Marina, dem pulsierenden Herzen der Küste, wo Sie zu Mittag essen können. Am Nachmittag führt Sie Ihr Weg entlang der malerischen Kushimoto-Straße zum Marinemuseum. Nach einem kulturellen Stopp besuchen Sie das Atatürk-Haus. Schließlich radeln Sie zurück zum Kultur-Park, um den Tag mit einer entspannten Fahrt bei Sonnenuntergang ausklingen zu lassen.",
+        "hu": "Kezdje a kerékpártúrát Soli-Pompeiopolis ősi romjainál. Onnan tekerjen kelet felé a modern Mersin Forumhoz egy rövid szünetre. Folytassa útját a Mersin Marina felé, a part lüktető szívéhez, ahol megebédelhet. Délután az útja a festői Kushimoto utcán vezet a Tengerészeti Múzeumhoz. Egy kulturális megálló után látogasson el az Atatürk Házba. Végül tekerjen vissza a Kultúrparkba, hogy a napot egy pihentető naplementi biciklizéssel zárja.",
+        "ro": "Începeți turul cu bicicleta de la ruinele antice din Soli-Pompeiopolis. De acolo, pedalați spre est, spre modernul Forum Mersin, pentru o scurtă pauză. Continuați spre portul de agrement Mersin, inima vibrantă a coastei, unde puteți lua prânzul. După-amiaza, drumul vă duce de-a lungul pitoreștii străzi Kushimoto spre Muzeul Naval. După o oprire culturală, vizitați Casa Atatürk. În final, pedalați înapoi spre Parcul Cultural pentru a încheia ziua cu o plimbare relaxantă la apus.",
+        "en": "Start your bike tour at the ancient ruins of Soli-Pompeiopolis. From there, cycle east to the modern Mersin Forum for a short break. Continue to Mersin Marina, the vibrant heart of the coast, where you can have lunch. In the afternoon, your path takes you along the scenic Kushimoto Street to the Naval Museum. After a cultural stop, visit the Atatürk House. Finally, cycle back to the Culture Park to end the day with a relaxing sunset ride."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tantuni",
+            "tip": "Ein lokales Wrap-Gericht, probieren Sie es bei 'Yaprak Tantuni'."
+          },
+          {
+            "name": "Kerebiç",
+            "tip": "Ein mit Pistazien gefülltes Grießgebäck, ein Muss zum Nachtisch."
+          },
+          {
+            "name": "Frischer Fisch",
+            "tip": "Genießen Sie den Fang des Tages in einem der Restaurants in der Marina."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tantuni",
+            "tip": "Helyi wrap-specialitás, kóstolja meg a 'Yaprak Tantuni'-ban."
+          },
+          {
+            "name": "Kerebiç",
+            "tip": "Pisztáciával töltött darából készült sütemény, kötelező desszert."
+          },
+          {
+            "name": "Friss hal",
+            "tip": "Élvezze a nap fogását a marina egyik éttermében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tantuni",
+            "tip": "O specialitate locală de tip wrap, încercați-o la 'Yaprak Tantuni'."
+          },
+          {
+            "name": "Kerebiç",
+            "tip": "O prăjitură din griș umplută cu fistic, un desert obligatoriu."
+          },
+          {
+            "name": "Pește proaspăt",
+            "tip": "Savurați captura zilei la unul dintre restaurantele din portul de agrement."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tantuni",
+            "tip": "A local wrap dish, try it at 'Yaprak Tantuni'."
+          },
+          {
+            "name": "Kerebiç",
+            "tip": "A semolina pastry filled with pistachios, a must-try dessert."
+          },
+          {
+            "name": "Fresh Fish",
+            "tip": "Enjoy the catch of the day at one of the restaurants in the Marina."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Soli-Pompeiopolis",
+            "tip": "Wandeln Sie zwischen den antiken Säulen und spüren Sie die Geschichte.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Radweg an der Küste",
+            "tip": "Genießen Sie die Ruhe des Meeres während Ihrer Fahrt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kultur-Park",
+            "tip": "Ein friedlicher Ort, um den Tag ausklingen zu lassen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Soli-Pompeiopolis",
+            "tip": "Sétáljon az ókori oszlopok között, és érezze a történelem szellemét.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Part menti kerékpárút",
+            "tip": "Élvezze a tenger nyugalmát tekerés közben.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kultúrpark",
+            "tip": "Békés hely a nap lezárásához.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Soli-Pompeiopolis",
+            "tip": "Plimbați-vă printre coloanele antice și simțiți istoria.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pista de biciclete de pe coastă",
+            "tip": "Bucurați-vă de liniștea mării în timpul plimbării.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Cultural",
+            "tip": "Un loc pașnic pentru a încheia ziua.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Soli-Pompeiopolis",
+            "tip": "Wander among the ancient columns and feel the history.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Coastal bike path",
+            "tip": "Enjoy the tranquility of the sea during your ride.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Culture Park",
+            "tip": "A peaceful place to end the day.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mersin Forum",
+            "tip": "Ein großes Einkaufszentrum mit internationalen und türkischen Marken."
+          },
+          {
+            "name": "Marina Geschäfte",
+            "tip": "Stöbern Sie in den Boutiquen und Souvenirläden am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mersin Forum",
+            "tip": "Nagy bevásárlóközpont nemzetközi és török márkákkal."
+          },
+          {
+            "name": "Marina üzletek",
+            "tip": "Böngésszen a kikötő butikjaiban és szuvenírboltjaiban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Forum Mersin",
+            "tip": "Un mare centru comercial cu mărci internaționale și turcești."
+          },
+          {
+            "name": "Magazinele din port",
+            "tip": "Răsfoiți buticurile și magazinele de suveniruri din port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mersin Forum",
+            "tip": "A large shopping center with international and Turkish brands."
+          },
+          {
+            "name": "Marina Shops",
+            "tip": "Browse the boutiques and souvenir shops at the harbor."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Nutzen Sie die ausgewiesenen Radwege entlang der Küste.",
+          "Schließen Sie Ihr Fahrrad immer sicher ab, wenn Sie es abstellen.",
+          "Eine leichte Jacke kann für die Abendstunden am Meer nützlich sein."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket és a gumikat.",
+          "Használja a kijelölt kerékpárutakat a part mentén.",
+          "Mindig zárja le biztonságosan a kerékpárt, ha leparkolja.",
+          "Egy könnyű dzseki hasznos lehet az esti órákban a tengerparton."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele și anvelopele.",
+          "Folosiți pistele de biciclete desemnate de-a lungul coastei.",
+          "Încuiați-vă întotdeauna bicicleta în siguranță atunci când o parcați.",
+          "O jachetă ușoară poate fi utilă pentru serile pe malul mării."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes and tires.",
+          "Use the designated bike paths along the coast.",
+          "Always lock your bike securely when you park it.",
+          "A light jacket can be useful for the evenings by the sea."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 20.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Soli-Pompeiopolis",
+            "hu": "Soli-Pompeiopolis",
+            "ro": "Soli-Pompeiopolis",
+            "en": "Soli-Pompeiopolis"
+          },
+          "coords": [
+            34.54,
+            36.77
+          ],
+          "category": "historical",
+          "arrive_at": "09:27",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Eingangs und erkunden Sie das Gelände zu Fuß.",
+            "hu": "Parkoljon a bejárat közelében, és fedezze fel a területet gyalog.",
+            "ro": "Parcați lângă intrare și explorați situl pe jos.",
+            "en": "Park near the entrance and explore the site on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Mersin Marina",
+            "hu": "Mersin Marina",
+            "ro": "Portul de Agrement Mersin",
+            "en": "Mersin Marina"
+          },
+          "coords": [
+            34.6095,
+            36.784
+          ],
+          "category": "port",
+          "arrive_at": "11:14",
+          "stay_min": 40,
+          "hop_mode": "car",
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus der Marina. Von hier aus sind mehrere Attraktionen zu Fuß erreichbar.",
+            "hu": "Parkoljon a Marina parkolóházában. Innen több látnivaló is gyalogosan elérhető.",
+            "ro": "Parcați în parcarea portului de agrement. Mai multe atracții sunt la distanță de mers pe jos de aici.",
+            "en": "Park in the Marina's parking garage. Several attractions are within walking distance from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Marinemuseum Mersin",
+            "hu": "Mersini Tengerészeti Múzeum",
+            "ro": "Muzeul Naval din Mersin",
+            "en": "Mersin Naval Museum"
+          },
+          "coords": [
+            34.6225,
+            36.792
+          ],
+          "category": "museums",
+          "arrive_at": "12:02",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Marina entfernt.",
+            "hu": "Rövid séta a kikötőtől.",
+            "ro": "O scurtă plimbare de la portul de agrement.",
+            "en": "A short walk from the Marina."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen an der Küste",
+            "hu": "Ebéd a parton",
+            "ro": "Prânz pe coastă",
+            "en": "Lunch on the coast"
+          },
+          "coords": [
+            34.615,
+            36.788
+          ],
+          "category": "gastro",
+          "arrive_at": "13:52",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Wählen Sie eines der vielen Restaurants entlang der Promenade.",
+            "hu": "Válasszon a sétány mentén található számos étterem közül.",
+            "ro": "Alegeți unul dintre numeroasele restaurante de pe promenadă.",
+            "en": "Choose one of the many restaurants along the promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Atatürk-Haus Museum",
+            "hu": "Atatürk Ház Múzeum",
+            "ro": "Casa Muzeu Atatürk",
+            "en": "Atatürk House Museum"
+          },
+          "coords": [
+            34.6315,
+            36.808
+          ],
+          "category": "museums",
+          "arrive_at": "15:19",
+          "stay_min": 70,
+          "hop_mode": "car",
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum historischen Zentrum. Parkmöglichkeiten sind in den umliegenden Straßen vorhanden.",
+            "hu": "Vezessen a történelmi központba. Parkolási lehetőségek a környező utcákban találhatók.",
+            "ro": "Conduceți spre centrul istoric. Există locuri de parcare pe străzile din jur.",
+            "en": "Drive to the historic center. Parking is available on the surrounding streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Mersin Forum",
+            "hu": "Mersin Forum",
+            "ro": "Forum Mersin",
+            "en": "Mersin Forum"
+          },
+          "coords": [
+            34.58,
+            36.78
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:40",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Einkaufsbummel in diesem großen Komplex.",
+            "hu": "Zárja a napot egy vásárlással ebben a nagy komplexumban.",
+            "ro": "Încheiați ziua cu o sesiune de cumpărături în acest complex mare.",
+            "en": "End the day with some shopping in this large complex."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Auto bei den antiken Ruinen von Soli-Pompeiopolis westlich der Stadt. Nach der Erkundung dieses historischen Ortes fahren Sie ins Zentrum und parken an der Mersin Marina. Von hier aus bilden das Marinemuseum und die Küstenpromenade einen wunderbaren Spaziergangs-Cluster für den späten Vormittag und das Mittagessen. Am Nachmittag nehmen Sie das Auto für eine kurze Fahrt zum Atatürk-Haus, um in die neuere Geschichte einzutauchen. Schließen Sie Ihren Tag im Mersin Forum ab, einem nahegelegenen Ziel für einen entspannten Einkaufsbummel.",
+        "hu": "Kezdje a napot autóval a várostól nyugatra fekvő Soli-Pompeiopolis ősi romjainál. A történelmi helyszín felfedezése után hajtson be a központba, és parkoljon a Mersin Marinánál. Innen a Tengerészeti Múzeum és a parti sétány csodálatos séta-klasztert alkot a késő délelőttre és ebédre. Délután üljön autóba egy rövid útra az Atatürk Házhoz, hogy elmerüljön a közelmúlt történelmében. Zárja a napot a közeli Mersin Forumban egy kellemes vásárlással.",
+        "ro": "Începeți ziua cu mașina la ruinele antice din Soli-Pompeiopolis, la vest de oraș. După ce explorați acest sit istoric, conduceți spre centru și parcați la portul de agrement Mersin. De aici, Muzeul Naval și promenada de pe coastă formează un minunat grup de plimbare pentru sfârșitul dimineții și prânz. După-amiaza, luați mașina pentru o scurtă călătorie la Casa Atatürk pentru a vă cufunda în istoria mai recentă. Încheiați ziua la Forum Mersin, o destinație apropiată pentru o sesiune de cumpărături relaxantă.",
+        "en": "Start your day by car at the ancient ruins of Soli-Pompeiopolis, west of the city. After exploring this historic site, drive to the center and park at Mersin Marina. From here, the Naval Museum and the coastal promenade form a wonderful walking cluster for the late morning and lunch. In the afternoon, take the car for a short drive to the Atatürk House to delve into more recent history. Conclude your day at Mersin Forum, a nearby destination for some relaxed shopping."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tantuni",
+            "tip": "Ein lokales Wrap-Gericht, probieren Sie es bei 'Yaprak Tantuni'."
+          },
+          {
+            "name": "Kerebiç",
+            "tip": "Ein mit Pistazien gefülltes Grießgebäck, ein Muss zum Nachtisch."
+          },
+          {
+            "name": "Frischer Fisch",
+            "tip": "Genießen Sie den Fang des Tages in einem der Restaurants in der Marina."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tantuni",
+            "tip": "Helyi wrap-specialitás, kóstolja meg a 'Yaprak Tantuni'-ban."
+          },
+          {
+            "name": "Kerebiç",
+            "tip": "Pisztáciával töltött darából készült sütemény, kötelező desszert."
+          },
+          {
+            "name": "Friss hal",
+            "tip": "Élvezze a nap fogását a marina egyik éttermében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tantuni",
+            "tip": "O specialitate locală de tip wrap, încercați-o la 'Yaprak Tantuni'."
+          },
+          {
+            "name": "Kerebiç",
+            "tip": "O prăjitură din griș umplută cu fistic, un desert obligatoriu."
+          },
+          {
+            "name": "Pește proaspăt",
+            "tip": "Savurați captura zilei la unul dintre restaurantele din portul de agrement."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tantuni",
+            "tip": "A local wrap dish, try it at 'Yaprak Tantuni'."
+          },
+          {
+            "name": "Kerebiç",
+            "tip": "A semolina pastry filled with pistachios, a must-try dessert."
+          },
+          {
+            "name": "Fresh Fish",
+            "tip": "Enjoy the catch of the day at one of the restaurants in the Marina."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Soli-Pompeiopolis",
+            "tip": "Finden Sie einen ruhigen Moment zwischen den antiken Steinen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kultur-Park",
+            "tip": "Ein entspannter Spaziergang nach dem Mittagessen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick von der Küstenstraße",
+            "tip": "Halten Sie auf der Fahrt entlang der Küste an und genießen Sie die Aussicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Soli-Pompeiopolis",
+            "tip": "Találjon egy csendes pillanatot az ősi kövek között.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kultúrpark",
+            "tip": "Pihentető séta ebéd után.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a parti útról",
+            "tip": "Álljon meg a part menti út során, és élvezze a kilátást.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Soli-Pompeiopolis",
+            "tip": "Găsiți un moment de liniște printre pietrele antice.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Cultural",
+            "tip": "O plimbare relaxantă după prânz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de pe drumul de coastă",
+            "tip": "Opriți-vă în timpul călătoriei de-a lungul coastei și bucurați-vă de priveliște.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Soli-Pompeiopolis",
+            "tip": "Find a quiet moment among the ancient stones.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Culture Park",
+            "tip": "A relaxing walk after lunch.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the coastal road",
+            "tip": "Stop during your drive along the coast and enjoy the view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mersin Forum",
+            "tip": "Ihr Hauptziel für Einkäufe aller Art."
+          },
+          {
+            "name": "Lokale Märkte",
+            "tip": "Halten Sie Ausschau nach kleinen Märkten für Gewürze und lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mersin Forum",
+            "tip": "A fő célpont mindenféle vásárláshoz."
+          },
+          {
+            "name": "Helyi piacok",
+            "tip": "Keresse a kis piacokat fűszerekért és helyi termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Forum Mersin",
+            "tip": "Destinația principală pentru cumpărături de tot felul."
+          },
+          {
+            "name": "Piețe locale",
+            "tip": "Fiți atenți la piețele mici pentru condimente și produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mersin Forum",
+            "tip": "Your main destination for all kinds of shopping."
+          },
+          {
+            "name": "Local Markets",
+            "tip": "Look out for small markets for spices and local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken kann im Stadtzentrum schwierig sein, nutzen Sie daher die Parkhäuser.",
+          "Planen Sie die Fahrten zwischen den Clustern außerhalb der Hauptverkehrszeiten.",
+          "Beachten Sie die Mautgebühren auf einigen Autobahnen in der Region.",
+          "Ein GPS oder eine Navigations-App ist sehr zu empfehlen."
+        ],
+        "hu": [
+          "A parkolás nehézkes lehet a városközpontban, ezért használja a parkolóházakat.",
+          "Tervezze az utazásokat a klaszterek között a csúcsforgalmon kívüli időpontokra.",
+          "Vegye figyelembe az útdíjakat a régió egyes autópályáin.",
+          "GPS vagy navigációs alkalmazás használata erősen ajánlott."
+        ],
+        "ro": [
+          "Parcarea poate fi dificilă în centrul orașului, așa că folosiți parcările supraetajate.",
+          "Planificați călătoriile între grupuri în afara orelor de vârf.",
+          "Fiți atenți la taxele de drum de pe unele autostrăzi din regiune.",
+          "Un GPS sau o aplicație de navigație este foarte recomandată."
+        ],
+        "en": [
+          "Parking can be difficult in the city center, so use the parking garages.",
+          "Plan your drives between clusters outside of peak traffic hours.",
+          "Be aware of tolls on some highways in the region.",
+          "A GPS or navigation app is highly recommended."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:04",
+      "total_km": 10.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Atatürk-Haus Museum",
+            "hu": "Atatürk Ház Múzeum",
+            "ro": "Casa Muzeu Atatürk",
+            "en": "Atatürk House Museum"
+          },
+          "coords": [
+            34.6315,
+            36.808
+          ],
+          "category": "museums",
+          "arrive_at": "09:25",
+          "stay_min": 80,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Starten Sie im historischen Viertel, das gut mit dem Bus zu erreichen ist.",
+            "hu": "Kezdje a történelmi negyedben, amely busszal jól megközelíthető.",
+            "ro": "Începeți în cartierul istoric, care este ușor accesibil cu autobuzul.",
+            "en": "Start in the historic quarter, which is easily accessible by bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Muğdat-Moschee",
+            "hu": "Muğdat-mecset",
+            "ro": "Moscheea Muğdat",
+            "en": "Muğdat Mosque"
+          },
+          "coords": [
+            34.59,
+            36.79
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:13",
+          "stay_min": 40,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in Richtung Westen, um diese beeindruckende Moschee zu sehen.",
+            "hu": "Menjen busszal nyugat felé, hogy megnézze ezt a lenyűgöző mecsetet.",
+            "ro": "Luați un autobuz spre vest pentru a vedea această moschee impresionantă.",
+            "en": "Take a bus west to see this impressive mosque."
+          }
+        },
+        {
+          "name": {
+            "de": "Mersin Forum",
+            "hu": "Mersin Forum",
+            "ro": "Forum Mersin",
+            "en": "Mersin Forum"
+          },
+          "coords": [
+            34.58,
+            36.78
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:00",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Moschee entfernt, ideal für eine Pause.",
+            "hu": "Rövid séta a mecsettől, ideális egy szünetre.",
+            "ro": "O scurtă plimbare de la moschee, ideală pentru o pauză.",
+            "en": "A short walk from the mosque, ideal for a break."
+          }
+        },
+        {
+          "name": {
+            "de": "Mersin Marina",
+            "hu": "Mersin Marina",
+            "ro": "Portul de Agrement Mersin",
+            "en": "Mersin Marina"
+          },
+          "coords": [
+            34.6095,
+            36.784
+          ],
+          "category": "port",
+          "arrive_at": "13:02",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Bus zur Küste. Hier finden Sie viele Mittagsoptionen.",
+            "hu": "Menjen busszal a partra. Itt számos ebédlehetőséget talál.",
+            "ro": "Luați autobuzul spre coastă. Aici veți găsi multe opțiuni de prânz.",
+            "en": "Take a bus to the coast. You'll find many lunch options here."
+          }
+        },
+        {
+          "name": {
+            "de": "Marinemuseum Mersin",
+            "hu": "Mersini Tengerészeti Múzeum",
+            "ro": "Muzeul Naval din Mersin",
+            "en": "Mersin Naval Museum"
+          },
+          "coords": [
+            34.6225,
+            36.792
+          ],
+          "category": "museums",
+          "arrive_at": "14:38",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie das Museum nach einem kurzen Spaziergang am Hafen entlang.",
+            "hu": "Fedezze fel a múzeumot egy rövid kikötői séta után.",
+            "ro": "Explorați muzeul după o scurtă plimbare de-a lungul portului.",
+            "en": "Explore the museum after a short walk along the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Kultur-Park",
+            "hu": "Kultúrpark",
+            "ro": "Parcul Cultural",
+            "en": "Culture Park"
+          },
+          "coords": [
+            34.61,
+            36.79
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:18",
+          "stay_min": 136,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich zum Abschluss des Tages in diesem zentralen Park.",
+            "hu": "Pihenjen a nap végén ebben a központi parkban.",
+            "ro": "Relaxați-vă la sfârșitul zilei în acest parc central.",
+            "en": "Relax at the end of the day in this central park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die öffentlichen Verkehrsmittel, um den Tag im Atatürk-Haus zu beginnen. Ein Bus bringt Sie dann bequem zum westlichen Cluster, wo Sie die beeindruckende Muğdat-Moschee und das nahegelegene Mersin Forum zu Fuß erkunden können. Am Mittag bringt Sie eine weitere Busfahrt zum Küstencluster. Parken Sie sich für den Nachmittag hier, genießen Sie ein Mittagessen in der Marina und spazieren Sie zum Marinemuseum. Lassen Sie den Tag mit einem entspannten Spaziergang durch den benachbarten Kultur-Park ausklingen.",
+        "hu": "Használja a tömegközlekedést, hogy a napot az Atatürk Házban kezdje. A busz ezután kényelmesen elviszi a nyugati klaszterhez, ahol gyalog felfedezheti a lenyűgöző Muğdat-mecsetet és a közeli Mersin Forumot. Délben egy újabb buszút viszi a tengerparti klaszterhez. Itt töltse a délutánt, ebédeljen a Marinában, és sétáljon el a Tengerészeti Múzeumhoz. Zárja a napot egy pihentető sétával a szomszédos Kultúrparkban.",
+        "ro": "Folosiți transportul public pentru a începe ziua la Casa Atatürk. Un autobuz vă va duce apoi confortabil la grupul vestic, unde puteți explora pe jos impresionanta Moschee Muğdat și apropiatul Forum Mersin. La prânz, o altă călătorie cu autobuzul vă va duce la grupul de pe coastă. Petreceți după-amiaza aici, bucurați-vă de prânz în portul de agrement și plimbați-vă la Muzeul Naval. Încheiați ziua cu o plimbare relaxantă prin Parcul Cultural adiacent.",
+        "en": "Use public transport to start your day at the Atatürk House. A bus will then take you comfortably to the western cluster, where you can explore the impressive Muğdat Mosque and the nearby Mersin Forum on foot. At noon, another bus ride will take you to the coastal cluster. Spend the afternoon here, enjoy lunch at the Marina, and stroll to the Naval Museum. End your day with a relaxing walk through the adjacent Culture Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tantuni",
+            "tip": "Ein lokales Wrap-Gericht, probieren Sie es bei 'Yaprak Tantuni'."
+          },
+          {
+            "name": "Kerebiç",
+            "tip": "Ein mit Pistazien gefülltes Grießgebäck, ein Muss zum Nachtisch."
+          },
+          {
+            "name": "Frischer Fisch",
+            "tip": "Genießen Sie den Fang des Tages in einem der Restaurants in der Marina."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tantuni",
+            "tip": "Helyi wrap-specialitás, kóstolja meg a 'Yaprak Tantuni'-ban."
+          },
+          {
+            "name": "Kerebiç",
+            "tip": "Pisztáciával töltött darából készült sütemény, kötelező desszert."
+          },
+          {
+            "name": "Friss hal",
+            "tip": "Élvezze a nap fogását a marina egyik éttermében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tantuni",
+            "tip": "O specialitate locală de tip wrap, încercați-o la 'Yaprak Tantuni'."
+          },
+          {
+            "name": "Kerebiç",
+            "tip": "O prăjitură din griș umplută cu fistic, un desert obligatoriu."
+          },
+          {
+            "name": "Pește proaspăt",
+            "tip": "Savurați captura zilei la unul dintre restaurantele din portul de agrement."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tantuni",
+            "tip": "A local wrap dish, try it at 'Yaprak Tantuni'."
+          },
+          {
+            "name": "Kerebiç",
+            "tip": "A semolina pastry filled with pistachios, a must-try dessert."
+          },
+          {
+            "name": "Fresh Fish",
+            "tip": "Enjoy the catch of the day at one of the restaurants in the Marina."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kultur-Park",
+            "tip": "Ein großartiger Ort, um Leute zu beobachten oder einfach nur zu entspannen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang am Hafen",
+            "tip": "Finden Sie einen ruhigen Platz abseits der belebten Restaurants.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Innenhof der Muğdat-Moschee",
+            "tip": "Eine Oase der Ruhe mitten in der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kultúrpark",
+            "tip": "Nagyszerű hely a nézelődésre vagy csak a pihenésre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Séta a kikötőben",
+            "tip": "Keressen egy csendes helyet távol a forgalmas éttermektől.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Muğdat-mecset udvara",
+            "tip": "A nyugalom oázisa a város közepén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Cultural",
+            "tip": "Un loc minunat pentru a privi oamenii sau pur și simplu pentru a vă relaxa.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare în port",
+            "tip": "Găsiți un loc liniștit, departe de restaurantele aglomerate.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curtea Moscheii Muğdat",
+            "tip": "O oază de liniște în mijlocul orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Culture Park",
+            "tip": "A great place to people-watch or just relax.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Harbor Walk",
+            "tip": "Find a quiet spot away from the busy restaurants.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Muğdat Mosque Courtyard",
+            "tip": "An oasis of calm in the middle of the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mersin Forum",
+            "tip": "Leicht mit dem Bus zu erreichen und bietet eine große Auswahl an Geschäften."
+          },
+          {
+            "name": "Basar in der Innenstadt",
+            "tip": "Kombinieren Sie Ihren Besuch im Atatürk-Haus mit einem Bummel über den lokalen Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mersin Forum",
+            "tip": "Busszal könnyen megközelíthető, és üzletek széles választékát kínálja."
+          },
+          {
+            "name": "Belvárosi bazár",
+            "tip": "Kösse össze az Atatürk Ház látogatását egy sétával a helyi piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Forum Mersin",
+            "tip": "Ușor de ajuns cu autobuzul și oferă o mare varietate de magazine."
+          },
+          {
+            "name": "Bazarul din centrul orașului",
+            "tip": "Combinați vizita la Casa Atatürk cu o plimbare prin piața locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mersin Forum",
+            "tip": "Easy to reach by bus and offers a wide variety of shops."
+          },
+          {
+            "name": "Downtown Bazaar",
+            "tip": "Combine your visit to the Atatürk House with a stroll through the local market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel, um Geld zu sparen.",
+          "Laden Sie eine lokale ÖPNV-App herunter, um Fahrpläne und Routen in Echtzeit zu sehen.",
+          "Busse können voll sein, seien Sie also auf Stehplätze vorbereitet.",
+          "Behalten Sie Ihre Sachen in überfüllten Bussen im Auge."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
+          "Töltsön le egy helyi tömegközlekedési alkalmazást a valós idejű menetrendekért és útvonalakért.",
+          "A buszok zsúfoltak lehetnek, ezért készüljön fel az állóhelyekre.",
+          "Tartsa szemmel a holmiját a zsúfolt buszokon."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru a economisi bani.",
+          "Descărcați o aplicație locală de transport public pentru orare și rute în timp real.",
+          "Autobuzele pot fi aglomerate, așa că fiți pregătiți să stați în picioare.",
+          "Fiți cu ochii pe bunurile dumneavoastră în autobuzele aglomerate."
+        ],
+        "en": [
+          "Buy a day pass for public transport to save money.",
+          "Download a local public transport app for real-time schedules and routes.",
+          "Buses can be crowded, so be prepared to stand.",
+          "Keep an eye on your belongings on crowded buses."
+        ]
+      }
+    }
+  }
+}

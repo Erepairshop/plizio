@@ -1,0 +1,1324 @@
+{
+  "city_id": "lithuania-siauliai-cities-v2",
+  "anchor": {
+    "name": "Šiauliai",
+    "coords": [
+      55.9333,
+      23.3167
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Šiauliai-Boulevard",
+            "hu": "Šiauliai sétány",
+            "ro": "Bulevardul Šiauliai",
+            "en": "Šiauliai Boulevard"
+          },
+          "coords": [
+            55.9325,
+            23.3158
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Kaffee in einem der vielen Cafés.",
+            "hu": "Indítsa a napot egy kávéval a számos kávézó egyikében.",
+            "ro": "Începeți ziua cu o cafea la una dintre multele cafenele.",
+            "en": "Start your day with a coffee at one of the many cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Platz der Sonnenuhr",
+            "hu": "Napóra tér",
+            "ro": "Piața Ceasului Solar",
+            "en": "Sundial Square"
+          },
+          "coords": [
+            55.934,
+            23.305
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:05",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den goldenen Schützen, das Wahrzeichen der Stadt.",
+            "hu": "Csodálja meg az arany íjászt, a város szimbólumát.",
+            "ro": "Admirați arcașul auriu, simbolul orașului.",
+            "en": "Admire the golden archer, the symbol of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale St. Peter und Paul",
+            "hu": "Szent Péter és Pál székesegyház",
+            "ro": "Catedrala Sfinții Petru și Pavel",
+            "en": "Cathedral of Saints Peter and Paul"
+          },
+          "coords": [
+            55.9333,
+            23.3189
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:48",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf den beeindruckenden Renaissance-Glockenturm.",
+            "hu": "Figyelje meg a lenyűgöző reneszánsz harangtornyot.",
+            "ro": "Observați impresionanta clopotniță renascentistă.",
+            "en": "Pay attention to the impressive Renaissance bell tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Fotografie",
+            "hu": "Fényképészeti Múzeum",
+            "ro": "Muzeul de Fotografie",
+            "en": "Museum of Photography"
+          },
+          "coords": [
+            55.9315,
+            23.3155
+          ],
+          "category": "museums",
+          "arrive_at": "12:09",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Die Dachterrasse bietet eine tolle Aussicht über die Stadt.",
+            "hu": "A tetőteraszról nagyszerű kilátás nyílik a városra.",
+            "ro": "Terasa de pe acoperiș oferă o priveliște superbă asupra orașului.",
+            "en": "The rooftop terrace offers a great view over the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Chaim-Frenkel-Villa",
+            "hu": "Chaim Frenkel-villa",
+            "ro": "Vila Chaim Frenkel",
+            "en": "Chaim Frenkel Villa"
+          },
+          "coords": [
+            55.9288,
+            23.3106
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:58",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Der Park hinter der Villa ist perfekt für eine kurze Pause.",
+            "hu": "A villa mögötti park tökéletes egy rövid pihenőre.",
+            "ro": "Parcul din spatele vilei este perfect pentru o scurtă pauză.",
+            "en": "The park behind the villa is perfect for a short break."
+          }
+        },
+        {
+          "name": {
+            "de": "Talkša-See",
+            "hu": "Talkša-tó",
+            "ro": "Lacul Talkša",
+            "en": "Talkša Lake"
+          },
+          "coords": [
+            55.94,
+            23.328
+          ],
+          "category": "natural features",
+          "arrive_at": "15:31",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Ein Spaziergang am Ufer ist sehr entspannend.",
+            "hu": "Egy séta a tóparton nagyon pihentető.",
+            "ro": "O plimbare pe malul lacului este foarte relaxantă.",
+            "en": "A walk along the shore is very relaxing."
+          }
+        },
+        {
+          "name": {
+            "de": "Eiserner Fuchs",
+            "hu": "Vaskutya",
+            "ro": "Vulpea de Fier",
+            "en": "Iron Fox"
+          },
+          "coords": [
+            55.941,
+            23.329
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:51",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein beliebtes Fotomotiv, besonders bei Sonnenuntergang.",
+            "hu": "Népszerű fotótéma, különösen naplementekor.",
+            "ro": "Un subiect popular pentru fotografii, mai ales la apus.",
+            "en": "A popular photo subject, especially at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem belebten Šiauliai-Boulevard. Am Vormittag erkunden Sie das Herz der Stadt, den Platz der Sonnenuhr und die beeindruckende Kathedrale St. Peter und Paul. Nach einem Mittagessen widmen Sie den Nachmittag der Kultur: das Museum für Fotografie und die prächtige Chaim-Frenkel-Villa. Schließen Sie den Tag mit einem entspannten Spaziergang am Talkša-See ab, wo Sie die berühmte Skulptur des Eisernen Fuchses bewundern können.",
+        "hu": "Kezdje a napot a nyüzsgő Šiauliai sétányon. Délelőtt fedezze fel a város szívét, a Napóra teret és a lenyűgöző Szent Péter és Pál székesegyházat. Ebéd után szentelje a délutánt a kultúrának: a Fényképészeti Múzeumnak és a pazar Chaim Frenkel-villának. Zárja a napot egy pihentető sétával a Talkša-tónál, ahol megcsodálhatja a híres Vaskutya szobrot.",
+        "ro": "Începeți ziua pe animatul bulevard Šiauliai. Dimineața, explorați inima orașului, Piața Ceasului Solar și impresionanta Catedrală Sfinții Petru și Pavel. După prânz, dedicați după-amiaza culturii: Muzeul de Fotografie și somptuoasa Vilă Chaim Frenkel. Încheiați ziua cu o plimbare relaxantă pe malul lacului Talkša, unde puteți admira faimoasa sculptură Vulpea de Fier.",
+        "en": "Start your day on the bustling Šiauliai Boulevard. In the morning, explore the heart of the city, Sundial Square and the impressive Cathedral of Saints Peter and Paul. After lunch, dedicate the afternoon to culture: the Museum of Photography and the magnificent Chaim Frenkel Villa. End the day with a relaxing walk by Talkša Lake, where you can admire the famous Iron Fox sculpture."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cepelinai",
+            "tip": "Probieren Sie die traditionellen litauischen Kartoffelklöße, gefüllt mit Fleisch oder Käse."
+          },
+          {
+            "name": "Šaltibarščiai",
+            "tip": "Eine erfrischende kalte Rote-Bete-Suppe, perfekt für den Sommer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cepelinai",
+            "tip": "Kóstolja meg a hagyományos litván burgonyagombócot, hússal vagy sajttal töltve."
+          },
+          {
+            "name": "Šaltibarščiai",
+            "tip": "Frissítő hideg céklaleves, tökéletes nyárra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cepelinai",
+            "tip": "Încercați găluștele tradiționale lituaniene din cartofi, umplute cu carne sau brânză."
+          },
+          {
+            "name": "Šaltibarščiai",
+            "tip": "O supă rece și răcoritoare de sfeclă roșie, perfectă pentru vară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cepelinai",
+            "tip": "Try the traditional Lithuanian potato dumplings, filled with meat or cheese."
+          },
+          {
+            "name": "Šaltibarščiai",
+            "tip": "A refreshing cold beetroot soup, perfect for summer."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Talkša-See-Ufer",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die Aussicht auf das Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Garten der Chaim-Frenkel-Villa",
+            "tip": "Ein friedlicher Ort abseits des städtischen Trubels.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Talkša-tó partja",
+            "tip": "Keressen egy csendes padot, és élvezze a víz látványát.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Chaim Frenkel-villa kertje",
+            "tip": "Békés hely a városi nyüzsgéstől távol.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Talkša",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de priveliștea apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Vilei Chaim Frenkel",
+            "tip": "Un loc pașnic, departe de agitația orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Talkša Lake Shore",
+            "tip": "Find a quiet bench and enjoy the view of the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Chaim Frenkel Villa Garden",
+            "tip": "A peaceful spot away from the city bustle.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Šiauliai-Boulevard",
+            "tip": "Hier finden Sie eine Vielzahl von Geschäften, von lokalen Boutiquen bis zu bekannten Marken."
+          },
+          {
+            "name": "Bernstein-Souvenirs",
+            "tip": "Halten Sie Ausschau nach einzigartigem Schmuck aus baltischem Bernstein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Šiauliai sétány",
+            "tip": "Számos üzletet talál itt, a helyi butikoktól a jól ismert márkákig."
+          },
+          {
+            "name": "Borostyán szuvenírek",
+            "tip": "Keressen egyedi ékszereket a balti borostyánból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bulevardul Šiauliai",
+            "tip": "Aici veți găsi o varietate de magazine, de la buticuri locale la mărci cunoscute."
+          },
+          {
+            "name": "Suveniruri din chihlimbar",
+            "tip": "Căutați bijuterii unice din chihlimbar baltic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Šiauliai Boulevard",
+            "tip": "You will find a variety of shops here, from local boutiques to well-known brands."
+          },
+          {
+            "name": "Amber Souvenirs",
+            "tip": "Look for unique jewelry made from Baltic amber."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Viele Sehenswürdigkeiten liegen nahe beieinander, was diesen Spaziergang ideal macht.",
+          "Planen Sie eine Mittagspause in der Nähe des Boulevards ein, um die lokale Küche zu probieren."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "Sok látnivaló közel van egymáshoz, ami ideálissá teszi ezt a sétát.",
+          "Tervezzen egy ebédszünetet a sétány közelében, hogy megkóstolja a helyi konyhát."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Multe atracții sunt apropiate una de cealaltă, ceea ce face această plimbare ideală.",
+          "Planificați o pauză de prânz lângă bulevard pentru a gusta bucătăria locală."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking a lot.",
+          "Many sights are close to each other, making this walk ideal.",
+          "Plan a lunch break near the boulevard to try the local cuisine."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradmuseum",
+            "hu": "Kerékpármúzeum",
+            "ro": "Muzeul Bicicletelor",
+            "en": "Bicycle Museum"
+          },
+          "coords": [
+            55.93,
+            23.314
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein Muss für jeden Radfahrer! Beginnen Sie hier Ihre Tour.",
+            "hu": "Minden kerékpárosnak kötelező! Kezdje itt a túrát.",
+            "ro": "O vizită obligatorie pentru orice biciclist! Începeți turul de aici.",
+            "en": "A must-visit for any cyclist! Start your tour here."
+          }
+        },
+        {
+          "name": {
+            "de": "Chaim-Frenkel-Villa",
+            "hu": "Chaim Frenkel-villa",
+            "ro": "Vila Chaim Frenkel",
+            "en": "Chaim Frenkel Villa"
+          },
+          "coords": [
+            55.9288,
+            23.3106
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:44",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und erkunden Sie den schönen Garten.",
+            "hu": "Parkolja le a kerékpárt, és fedezze fel a gyönyörű kertet.",
+            "ro": "Parcați bicicleta și explorați grădina frumoasă.",
+            "en": "Park your bike and explore the beautiful garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Platz der Sonnenuhr",
+            "hu": "Napóra tér",
+            "ro": "Piața Ceasului Solar",
+            "en": "Sundial Square"
+          },
+          "coords": [
+            55.934,
+            23.305
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:12",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp für ein Foto mit dem goldenen Schützen.",
+            "hu": "Egy rövid megálló egy fotóra az arany íjásszal.",
+            "ro": "O oprire scurtă pentru o fotografie cu arcașul auriu.",
+            "en": "A quick stop for a photo with the golden archer."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale St. Peter und Paul",
+            "hu": "Szent Péter és Pál székesegyház",
+            "ro": "Catedrala Sfinții Petru și Pavel",
+            "en": "Cathedral of Saints Peter and Paul"
+          },
+          "coords": [
+            55.9333,
+            23.3189
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:46",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie die Kathedrale betreten.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt belép a székesegyházba.",
+            "ro": "Asigurați-vă bicicleta înainte de a intra în catedrală.",
+            "en": "Lock your bike securely before entering the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Talkša-See & Eiserner Fuchs",
+            "hu": "Talkša-tó és Vaskutya",
+            "ro": "Lacul Talkša și Vulpea de Fier",
+            "en": "Talkša Lake & Iron Fox"
+          },
+          "coords": [
+            55.94,
+            23.328
+          ],
+          "category": "natural features",
+          "arrive_at": "14:19",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Der Radweg um den See ist ideal für eine entspannte Fahrt.",
+            "hu": "A tó körüli kerékpárút ideális egy pihentető tekeréshez.",
+            "ro": "Pista de biciclete din jurul lacului este ideală pentru o plimbare relaxantă.",
+            "en": "The bike path around the lake is ideal for a relaxing ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Šiauliai-Boulevard",
+            "hu": "Šiauliai sétány",
+            "ro": "Bulevardul Šiauliai",
+            "en": "Šiauliai Boulevard"
+          },
+          "coords": [
+            55.9325,
+            23.3158
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:46",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour hier mit einem wohlverdienten Getränk.",
+            "hu": "Fejezze be itt a túrát egy jól megérdemelt itallal.",
+            "ro": "Încheiați turul aici cu o băutură binemeritată.",
+            "en": "End your tour here with a well-deserved drink."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag passenderweise im Fahrradmuseum. Von dort aus radeln Sie zur eleganten Chaim-Frenkel-Villa. Am Mittag erreichen Sie das Stadtzentrum, um den Platz der Sonnenuhr und die Kathedrale zu besichtigen. Der Nachmittag ist für eine ausgedehnte Radtour zum und um den Talkša-See reserviert, wo Sie den Eisernen Fuchs finden. Ihre Tour endet auf dem Šiauliai-Boulevard, dem perfekten Ort zum Entspannen.",
+        "hu": "Kezdje a kerékpáros napot stílusosan a Kerékpármúzeumban. Onnan tekerjen el az elegáns Chaim Frenkel-villához. Délben érkezzen a városközpontba, hogy megnézze a Napóra teret és a székesegyházat. A délután egy hosszabb kerékpártúrára van fenntartva a Talkša-tóhoz és környékére, ahol megtalálja a Vaskutyát. A túra a Šiauliai sétányon ér véget, amely tökéletes hely a pihenésre.",
+        "ro": "Începeți ziua pe bicicletă, cum se cuvine, la Muzeul Bicicletelor. De acolo, pedalați spre eleganta Vilă Chaim Frenkel. La prânz, ajungeți în centrul orașului pentru a vedea Piața Ceasului Solar și Catedrala. După-amiaza este rezervată pentru o plimbare extinsă cu bicicleta la și în jurul lacului Talkša, unde veți găsi Vulpea de Fier. Turul se încheie pe Bulevardul Šiauliai, locul perfect pentru relaxare.",
+        "en": "Start your bike day fittingly at the Bicycle Museum. From there, pedal to the elegant Chaim Frenkel Villa. At noon, you'll reach the city center to see Sundial Square and the Cathedral. The afternoon is reserved for an extended bike ride to and around Talkša Lake, where you'll find the Iron Fox. Your tour concludes on the Šiauliai Boulevard, the perfect place to relax."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cido Arena",
+            "tip": "Kehren Sie im Café der Radrennbahn für einen schnellen Snack ein."
+          },
+          {
+            "name": "Gubernija Brauerei",
+            "tip": "Probieren Sie das lokale Bier nach einem langen Radtag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cido Aréna",
+            "tip": "Álljon meg egy gyors harapnivalóra a velodrom kávézójában."
+          },
+          {
+            "name": "Gubernija Sörfőzde",
+            "tip": "Kóstolja meg a helyi sört egy hosszú kerékpáros nap után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cido Arena",
+            "tip": "Opriți-vă la cafeneaua velodromului pentru o gustare rapidă."
+          },
+          {
+            "name": "Berăria Gubernija",
+            "tip": "Încercați berea locală după o zi lungă de pedalat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cido Arena",
+            "tip": "Stop at the velodrome's cafe for a quick snack."
+          },
+          {
+            "name": "Gubernija Brewery",
+            "tip": "Try the local beer after a long day of cycling."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Talkša-See",
+            "tip": "Die ruhige Strecke ist ideal, um die Natur zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Botanischer Garten der Universität Šiauliai",
+            "tip": "Ein verstecktes Juwel für eine friedliche Pause (ein kleiner Umweg).",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Talkša-tónál",
+            "tip": "A csendes útvonal ideális a természet élvezetéhez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Šiauliai Egyetem Botanikus Kertje",
+            "tip": "Rejtett gyöngyszem egy békés pihenőhöz (kis kitérővel).",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de la lacul Talkša",
+            "tip": "Traseul liniștit este ideal pentru a vă bucura de natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Botanică a Universității din Šiauliai",
+            "tip": "O bijuterie ascunsă pentru o pauză liniștită (un mic ocol).",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Talkša Lake Bike Path",
+            "tip": "The quiet route is ideal for enjoying nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Šiauliai University Botanical Garden",
+            "tip": "A hidden gem for a peaceful break (a slight detour).",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Kaufen Sie lokale Fahrrad-Accessoires als Andenken."
+          },
+          {
+            "name": "Markt auf dem Boulevard",
+            "tip": "Suchen Sie nach lokalen Produkten und Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Vásároljon helyi kerékpáros kiegészítőket emlékként."
+          },
+          {
+            "name": "Piac a sétányon",
+            "tip": "Keressen helyi termékeket és kézműves árukat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Cumpărați accesorii locale pentru biciclete ca suvenir."
+          },
+          {
+            "name": "Piața de pe bulevard",
+            "tip": "Căutați produse locale și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bicycle Shops",
+            "tip": "Buy local bike accessories as a souvenir."
+          },
+          {
+            "name": "Market on the Boulevard",
+            "tip": "Look for local produce and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Šiauliai ist relativ flach und daher gut zum Radfahren geeignet.",
+          "Nutzen Sie die vorhandenen Radwege, insbesondere um den See.",
+          "Überprüfen Sie den Luftdruck Ihrer Reifen, bevor Sie losfahren."
+        ],
+        "hu": [
+          "Šiauliai viszonylag sík, így kiválóan alkalmas kerékpározásra.",
+          "Használja a meglévő kerékpárutakat, különösen a tó körül.",
+          "Indulás előtt ellenőrizze a guminyomást."
+        ],
+        "ro": [
+          "Šiauliai este relativ plat și, prin urmare, potrivit pentru ciclism.",
+          "Utilizați pistele de biciclete existente, în special în jurul lacului.",
+          "Verificați presiunea anvelopelor înainte de a porni."
+        ],
+        "en": [
+          "Šiauliai is relatively flat and therefore well-suited for cycling.",
+          "Use the existing bike paths, especially around the lake.",
+          "Check your tire pressure before you set off."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 8.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Chaim-Frenkel-Villa & Fahrradmuseum",
+            "hu": "A. klaszter: Chaim Frenkel-villa és Kerékpármúzeum",
+            "ro": "Cluster A: Vila Chaim Frenkel și Muzeul Bicicletelor",
+            "en": "Cluster A: Chaim Frenkel Villa & Bicycle Museum"
+          },
+          "coords": [
+            55.9288,
+            23.3106
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:00",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier und beginnen Sie mit der prächtigen Villa.",
+            "hu": "Parkoljon itt, és kezdje a csodálatos villával.",
+            "ro": "Parcați aici și începeți cu vila magnifică.",
+            "en": "Park here and start with the magnificent villa."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrradmuseum (zu Fuß)",
+            "hu": "Kerékpármúzeum (gyalog)",
+            "ro": "Muzeul Bicicletelor (pe jos)",
+            "en": "Bicycle Museum (on foot)"
+          },
+          "coords": [
+            55.93,
+            23.314
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Villa zum Museum.",
+            "hu": "Rövid séta a villától a múzeumig.",
+            "ro": "O scurtă plimbare de la vilă la muzeu.",
+            "en": "A short walk from the villa to the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Zentrum & Kathedrale",
+            "hu": "B. klaszter: Központ és Székesegyház",
+            "ro": "Cluster B: Centru și Catedrală",
+            "en": "Cluster B: Center & Cathedral"
+          },
+          "coords": [
+            55.9333,
+            23.3189
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:34",
+          "stay_min": 75,
+          "hop_mode": "car",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Zentrum. Parken Sie in der Nähe der Kathedrale.",
+            "hu": "Vezessen a központba. Parkoljon a székesegyház közelében.",
+            "ro": "Conduceți spre centru. Parcați lângă catedrală.",
+            "en": "Drive to the center. Park near the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Šiauliai-Boulevard (zu Fuß)",
+            "hu": "Šiauliai sétány (gyalog)",
+            "ro": "Bulevardul Šiauliai (pe jos)",
+            "en": "Šiauliai Boulevard (on foot)"
+          },
+          "coords": [
+            55.9325,
+            23.3158
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:53",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ideal für die Mittagspause und einen kleinen Einkaufsbummel.",
+            "hu": "Ideális ebédszünetre és egy kis vásárlásra.",
+            "ro": "Ideal pentru o pauză de prânz și câteva cumpărături.",
+            "en": "Ideal for a lunch break and a little shopping."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Fotografie (zu Fuß)",
+            "hu": "Fényképészeti Múzeum (gyalog)",
+            "ro": "Muzeul de Fotografie (pe jos)",
+            "en": "Museum of Photography (on foot)"
+          },
+          "coords": [
+            55.9315,
+            23.3155
+          ],
+          "category": "museums",
+          "arrive_at": "14:16",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Dachterrasse!",
+            "hu": "Ne hagyja ki a tetőteraszt!",
+            "ro": "Nu ratați terasa de pe acoperiș!",
+            "en": "Don't miss the rooftop terrace!"
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Talkša-See",
+            "hu": "C. klaszter: Talkša-tó",
+            "ro": "Cluster C: Lacul Talkša",
+            "en": "Cluster C: Talkša Lake"
+          },
+          "coords": [
+            55.94,
+            23.328
+          ],
+          "category": "natural features",
+          "arrive_at": "15:28",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Parken Sie am See und machen Sie einen Spaziergang.",
+            "hu": "Parkoljon a tónál, és tegyen egy sétát.",
+            "ro": "Parcați lângă lac și faceți o plimbare.",
+            "en": "Park by the lake and take a walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Eiserner Fuchs (zu Fuß)",
+            "hu": "Vaskutya (gyalog)",
+            "ro": "Vulpea de Fier (pe jos)",
+            "en": "Iron Fox (on foot)"
+          },
+          "coords": [
+            55.941,
+            23.329
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:33",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der perfekte Abschluss des Tages am Seeufer.",
+            "hu": "Tökéletes befejezése a napnak a tóparton.",
+            "ro": "Finalul perfect al zilei pe malul lacului.",
+            "en": "The perfect end to the day on the lakeshore."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Ihr Auto, um Šiauliai in drei Clustern zu erkunden. Beginnen Sie im Westen bei der Chaim-Frenkel-Villa und dem nahegelegenen Fahrradmuseum. Fahren Sie dann ins Stadtzentrum, parken Sie und erkunden Sie die Kathedrale, den Boulevard und das Fotomuseum zu Fuß. Beenden Sie Ihren Tag mit einer kurzen Fahrt zum Talkša-See für einen entspannten Spaziergang und um die berühmte Skulptur des Eisernen Fuchses zu sehen.",
+        "hu": "Használja autóját, hogy három klaszterben fedezze fel Šiauliait. Kezdje nyugaton a Chaim Frenkel-villával és a közeli Kerékpármúzeummal. Ezután vezessen a városközpontba, parkoljon le, és fedezze fel gyalog a székesegyházat, a sétányt és a Fotómúzeumot. Fejezze be a napot egy rövid autózással a Talkša-tóhoz egy pihentető sétára és a híres Vaskutya szobor megtekintésére.",
+        "ro": "Folosiți mașina pentru a explora Šiauliai în trei clustere. Începeți în vest cu Vila Chaim Frenkel și Muzeul Bicicletelor din apropiere. Apoi, conduceți spre centrul orașului, parcați și explorați pe jos Catedrala, bulevardul și Muzeul de Fotografie. Încheiați ziua cu o scurtă călătorie cu mașina până la lacul Talkša pentru o plimbare relaxantă și pentru a vedea faimoasa sculptură Vulpea de Fier.",
+        "en": "Use your car to explore Šiauliai in three clusters. Start in the west with the Chaim Frenkel Villa and the nearby Bicycle Museum. Then drive to the city center, park, and explore the Cathedral, the boulevard, and the Museum of Photography on foot. End your day with a short drive to Talkša Lake for a relaxing walk and to see the famous Iron Fox sculpture."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Joniškio Dvarelis",
+            "tip": "Etwas außerhalb, aber die Fahrt für authentische litauische Küche wert."
+          },
+          {
+            "name": "Cask 215",
+            "tip": "Gute Burger und eine große Auswahl an Bieren im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Joniškio Dvarelis",
+            "tip": "Kicsit kiesik, de megéri az utat az autentikus litván konyháért."
+          },
+          {
+            "name": "Cask 215",
+            "tip": "Jó hamburgerek és nagy sörválaszték a városközpontban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Joniškio Dvarelis",
+            "tip": "Puțin în afara orașului, dar merită drumul pentru bucătăria lituaniană autentică."
+          },
+          {
+            "name": "Cask 215",
+            "tip": "Burgeri buni și o selecție largă de beri în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Joniškio Dvarelis",
+            "tip": "A bit outside, but worth the drive for authentic Lithuanian cuisine."
+          },
+          {
+            "name": "Cask 215",
+            "tip": "Good burgers and a wide selection of beers in the city center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hügel der Kreuze (Ausflug)",
+            "tip": "Eine 15-minütige Fahrt, aber ein unvergesslicher, spiritueller Ort.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Botanischer Garten",
+            "tip": "Ein ruhiger Ort, um dem Trubel zu entfliehen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Keresztek hegye (kirándulás)",
+            "tip": "15 perces autóút, de egy felejthetetlen, spirituális hely.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Botanikus Kert",
+            "tip": "Csendes hely a nyüzsgés elől.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Crucilor (excursie)",
+            "tip": "La 15 minute de mers cu mașina, dar un loc spiritual de neuitat.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Grădina Botanică",
+            "tip": "Un loc liniștit pentru a scăpa de agitație.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hill of Crosses (excursion)",
+            "tip": "A 15-minute drive, but an unforgettable, spiritual place.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Botanical Garden",
+            "tip": "A quiet place to escape the hustle and bustle.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Akropolis Einkaufszentrum",
+            "tip": "Wenn Sie große Marken suchen, fahren Sie hierher."
+          },
+          {
+            "name": "Lokale Märkte",
+            "tip": "Suchen Sie nach Bauernmärkten für frische Produkte und lokale Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Akropolis bevásárlóközpont",
+            "tip": "Ha nagy márkákat keres, vezessen ide."
+          },
+          {
+            "name": "Helyi piacok",
+            "tip": "Keressen termelői piacokat friss termékekért és helyi különlegességekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul comercial Akropolis",
+            "tip": "Dacă sunteți în căutarea unor mărci mari, conduceți aici."
+          },
+          {
+            "name": "Piețe locale",
+            "tip": "Căutați piețe agricole pentru produse proaspete și specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Akropolis Shopping Center",
+            "tip": "If you're looking for big brands, drive here."
+          },
+          {
+            "name": "Local Markets",
+            "tip": "Look for farmers' markets for fresh produce and local specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in der Innenstadt kann gebührenpflichtig sein. Achten Sie auf Schilder.",
+          "Das Auto ermöglicht es Ihnen, auch Ziele außerhalb des Zentrums wie den Hügel der Kreuze leicht zu erreichen.",
+          "Planen Sie Ihre Route im Voraus, um Verkehr zu vermeiden."
+        ],
+        "hu": [
+          "A belvárosi parkolás díjköteles lehet. Figyeljen a táblákra.",
+          "Az autó lehetővé teszi, hogy könnyen elérjen a központon kívüli célpontokat is, mint például a Keresztek hegyét.",
+          "Tervezze meg előre az útvonalat a forgalom elkerülése érdekében."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi contra cost. Fiți atenți la indicatoare.",
+          "Mașina vă permite să ajungeți cu ușurință la destinații din afara centrului, cum ar fi Dealul Crucilor.",
+          "Planificați-vă ruta în avans pentru a evita traficul."
+        ],
+        "en": [
+          "Parking in the city center may be subject to a fee. Pay attention to signs.",
+          "The car allows you to easily reach destinations outside the center, such as the Hill of Crosses.",
+          "Plan your route in advance to avoid traffic."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Zentrum",
+            "hu": "A. klaszter: Központ",
+            "ro": "Cluster A: Centru",
+            "en": "Cluster A: Center"
+          },
+          "coords": [
+            55.9325,
+            23.3158
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Boulevard, dem Startpunkt.",
+            "hu": "Menjen busszal a sétányhoz, a kiindulóponthoz.",
+            "ro": "Luați un autobuz până la bulevard, punctul de plecare.",
+            "en": "Take a bus to the boulevard, the starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale St. Peter und Paul (zu Fuß)",
+            "hu": "Szent Péter és Pál székesegyház (gyalog)",
+            "ro": "Catedrala Sfinții Petru și Pavel (pe jos)",
+            "en": "Cathedral of Saints Peter and Paul (on foot)"
+          },
+          "coords": [
+            55.9333,
+            23.3189
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:54",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Boulevard entfernt.",
+            "hu": "Csak egy rövid séta a sétánytól.",
+            "ro": "La doar o scurtă plimbare de bulevard.",
+            "en": "Just a short walk from the boulevard."
+          }
+        },
+        {
+          "name": {
+            "de": "Platz der Sonnenuhr (zu Fuß)",
+            "hu": "Napóra tér (gyalog)",
+            "ro": "Piața Ceasului Solar (pe jos)",
+            "en": "Sundial Square (on foot)"
+          },
+          "coords": [
+            55.934,
+            23.305
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:06",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang durch die Innenstadt.",
+            "hu": "Kellemes séta a belvárosban.",
+            "ro": "O plimbare plăcută prin centrul orașului.",
+            "en": "A pleasant walk through the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Chaim-Frenkel-Villa",
+            "hu": "B. klaszter: Chaim Frenkel-villa",
+            "ro": "Cluster B: Vila Chaim Frenkel",
+            "en": "Cluster B: Chaim Frenkel Villa"
+          },
+          "coords": [
+            55.9288,
+            23.3106
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:53",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zur Villa und planen Sie hier Ihre Mittagspause.",
+            "hu": "Menjen busszal a villához, és tervezze ide az ebédszünetet.",
+            "ro": "Luați un autobuz spre vilă și planificați-vă aici pauza de prânz.",
+            "en": "Take a bus to the villa and plan your lunch break here."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Talkša-See",
+            "hu": "C. klaszter: Talkša-tó",
+            "ro": "Cluster C: Lacul Talkša",
+            "en": "Cluster C: Talkša Lake"
+          },
+          "coords": [
+            55.94,
+            23.328
+          ],
+          "category": "natural features",
+          "arrive_at": "14:11",
+          "stay_min": 75,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Eine kurze Busfahrt bringt Sie zum See für einen Nachmittagsspaziergang.",
+            "hu": "Egy rövid buszút visz a tóhoz egy délutáni sétára.",
+            "ro": "O scurtă călătorie cu autobuzul vă duce la lac pentru o plimbare de după-amiază.",
+            "en": "A short bus ride takes you to the lake for an afternoon walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Eiserner Fuchs (zu Fuß)",
+            "hu": "Vaskutya (gyalog)",
+            "ro": "Vulpea de Fier (pe jos)",
+            "en": "Iron Fox (on foot)"
+          },
+          "coords": [
+            55.941,
+            23.329
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:31",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Leicht zu Fuß vom Seeufer aus zu erreichen.",
+            "hu": "Könnyen megközelíthető gyalog a tópartról.",
+            "ro": "Ușor de accesat pe jos de pe malul lacului.",
+            "en": "Easily accessible on foot from the lakeshore."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Šiauliai mit öffentlichen Verkehrsmitteln, indem Sie von Cluster zu Cluster reisen. Beginnen Sie Ihren Tag im Zentrum, wo Sie den Boulevard, die Kathedrale und den Platz der Sonnenuhr zu Fuß erkunden. Nehmen Sie dann einen Bus zur prächtigen Chaim-Frenkel-Villa für eine ausgiebige Besichtigung. Eine weitere Busfahrt bringt Sie am Nachmittag zum Talkša-See, wo Sie Ihren Tag mit einem Spaziergang zur Skulptur des Eisernen Fuchses ausklingen lassen.",
+        "hu": "Fedezze fel Šiauliait tömegközlekedéssel, klaszterről klaszterre utazva. Kezdje a napot a központban, ahol gyalogosan fedezi fel a sétányt, a székesegyházat és a Napóra teret. Ezután busszal menjen el a csodálatos Chaim Frenkel-villához egy hosszabb látogatásra. Egy újabb buszút viszi el délután a Talkša-tóhoz, ahol a napot egy sétával zárja a Vaskutya szoborhoz.",
+        "ro": "Descoperiți Šiauliai cu transportul public, călătorind din cluster în cluster. Începeți ziua în centru, explorând pe jos bulevardul, catedrala și Piața Ceasului Solar. Apoi, luați un autobuz spre magnifica Vilă Chaim Frenkel pentru o vizită extinsă. O altă călătorie cu autobuzul vă va duce după-amiaza la lacul Talkša, unde vă puteți încheia ziua cu o plimbare până la sculptura Vulpea de Fier.",
+        "en": "Discover Šiauliai by public transport, traveling from cluster to cluster. Start your day in the center, exploring the boulevard, the cathedral, and Sundial Square on foot. Then take a bus to the magnificent Chaim Frenkel Villa for an extensive visit. Another bus ride will take you to Talkša Lake in the afternoon, where you can end your day with a walk to the Iron Fox sculpture."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Probieren Sie Kibinai (gefüllte Teigtaschen) für einen schnellen und günstigen Snack."
+          },
+          {
+            "name": "Savas Kampas",
+            "tip": "Ein gemütliches Restaurant im Zentrum, das bei Einheimischen beliebt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékségek",
+            "tip": "Kóstolja meg a Kibinai-t (töltött tésztatáska) egy gyors és olcsó harapnivalóért."
+          },
+          {
+            "name": "Savas Kampas",
+            "tip": "Hangulatos étterem a központban, a helyiek körében népszerű."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutării locale",
+            "tip": "Încercați Kibinai (plăcinte umplute) pentru o gustare rapidă și ieftină."
+          },
+          {
+            "name": "Savas Kampas",
+            "tip": "Un restaurant primitor în centru, popular printre localnici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bakeries",
+            "tip": "Try Kibinai (stuffed pastries) for a quick and cheap snack."
+          },
+          {
+            "name": "Savas Kampas",
+            "tip": "A cozy restaurant in the center, popular with locals."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtpark",
+            "tip": "Ein kurzer Spaziergang vom Zentrum entfernt, bietet er eine ruhige Oase.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Ufer des Talkša-Sees",
+            "tip": "Abseits der Hauptwege finden Sie ruhige Plätze am Wasser.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi Park",
+            "tip": "Rövid sétára a központtól, csendes oázist kínál.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "A Talkša-tó partja",
+            "tip": "A fő utaktól távol csendes helyeket talál a víz mellett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul orașului",
+            "tip": "La o scurtă plimbare de centru, oferă o oază de liniște.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Malul lacului Talkša",
+            "tip": "Departe de potecile principale, veți găsi locuri liniștite lângă apă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Park",
+            "tip": "A short walk from the center, it offers a quiet oasis.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Shore of Talkša Lake",
+            "tip": "Away from the main paths, you will find quiet spots by the water.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zentralmarkt (Turgus)",
+            "tip": "Erleben Sie das lokale Leben und finden Sie alles von Lebensmitteln bis zu Kleidung."
+          },
+          {
+            "name": "Leinenprodukte",
+            "tip": "Litauen ist bekannt für sein hochwertiges Leinen; ein perfektes Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi piac (Turgus)",
+            "tip": "Tapasztalja meg a helyi életet, és találjon meg mindent az élelmiszerektől a ruhákig."
+          },
+          {
+            "name": "Len termékek",
+            "tip": "Litvánia híres a kiváló minőségű lenvásznáról; tökéletes szuvenír."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Centrală (Turgus)",
+            "tip": "Experimentați viața locală și găsiți totul, de la alimente la haine."
+          },
+          {
+            "name": "Produse din in",
+            "tip": "Lituania este cunoscută pentru inul său de înaltă calitate; un suvenir perfect."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Market (Turgus)",
+            "tip": "Experience local life and find everything from food to clothes."
+          },
+          {
+            "name": "Linen Products",
+            "tip": "Lithuania is known for its high-quality linen; a perfect souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Nutzen Sie eine ÖPNV-App, um die besten Verbindungen zu finden.",
+          "Die Busse fahren regelmäßig, aber überprüfen Sie den Fahrplan für den Abend."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy pénzt takarítson meg.",
+          "Használjon tömegközlekedési alkalmazást a legjobb összeköttetések megtalálásához.",
+          "A buszok rendszeresen közlekednek, de este ellenőrizze a menetrendet."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru a economisi bani.",
+          "Folosiți o aplicație de transport public pentru a găsi cele mai bune conexiuni.",
+          "Autobuzele circulă regulat, dar verificați programul pentru seară."
+        ],
+        "en": [
+          "Buy a day ticket for the bus to save money.",
+          "Use a public transport app to find the best connections.",
+          "Buses run regularly, but check the schedule for the evening."
+        ]
+      }
+    }
+  }
+}

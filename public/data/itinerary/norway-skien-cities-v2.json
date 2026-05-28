@@ -1,0 +1,1532 @@
+{
+  "city_id": "norway-skien-cities-v2",
+  "anchor": {
+    "name": "Skien",
+    "coords": [
+      9.605,
+      59.206
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Handelstorget (Marktplatz)",
+            "hu": "Handelstorget (Piactér)",
+            "ro": "Handelstorget (Piața Centrală)",
+            "en": "Handelstorget (Market Square)"
+          },
+          "coords": [
+            9.6088,
+            59.2095
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier mit einem Kaffee und beobachten Sie das morgendliche Treiben.",
+            "hu": "Kezdje a napot egy kávéval, és figyelje a reggeli nyüzsgést.",
+            "ro": "Începeți ziua aici cu o cafea, privind agitația matinală a orașului.",
+            "en": "Start your day here with a coffee and watch the morning bustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Skien Kirke (Kirche von Skien)",
+            "hu": "Skien Kirke (Skieni templom)",
+            "ro": "Skien Kirke (Biserica din Skien)",
+            "en": "Skien Kirke (Skien Church)"
+          },
+          "coords": [
+            9.606,
+            59.211
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden Zwillingstürme und die farbenfrohen Glasfenster.",
+            "hu": "Csodálja meg a lenyűgöző ikertornyokat és a színes ólomüveg ablakokat.",
+            "ro": "Admirați impunătoarele turnuri gemene și vitraliile colorate.",
+            "en": "Admire the impressive twin spires and the colorful stained-glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Henrik Ibsen Museum",
+            "hu": "Henrik Ibsen Múzeum",
+            "ro": "Muzeul Henrik Ibsen",
+            "en": "Henrik Ibsen Museum"
+          },
+          "coords": [
+            9.596,
+            59.21
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:43",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Ein Muss für Literaturliebhaber. Erleben Sie das Zuhause aus der Kindheit des Dramatikers.",
+            "hu": "Irodalomkedvelőknek kötelező. Lépjen be a drámaíró gyermekkori otthonába.",
+            "ro": "O vizită obligatorie pentru iubitorii de literatură. Experimentați casa copilăriei dramaturgului.",
+            "en": "A must-visit for literature lovers. Experience the playwright's childhood home."
+          }
+        },
+        {
+          "name": {
+            "de": "Brekkeparken",
+            "hu": "Brekkeparken",
+            "ro": "Parcul Brekke",
+            "en": "Brekkeparken"
+          },
+          "coords": [
+            9.599,
+            59.213
+          ],
+          "category": "museums",
+          "arrive_at": "12:31",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie ein Mittagessen im Parkcafé mit herrlicher Aussicht auf die Stadt.",
+            "hu": "Ebédeljen a park kávézójában, ahonnan csodás kilátás nyílik a városra.",
+            "ro": "Luați prânzul la cafeneaua din parc, cu o priveliște superbă asupra orașului.",
+            "en": "Enjoy lunch at the park's café with a magnificent view over the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Telemarkskanalen (Schleuse in Skien)",
+            "hu": "Telemark-csatorna (A skieni zsilip)",
+            "ro": "Canalul Telemark (Ecluza din Skien)",
+            "en": "Telemark Canal (Skien Lock)"
+          },
+          "coords": [
+            9.609,
+            59.206
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:57",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Beobachten Sie, wie die Boote durch die historische Schleusenanlage manövriert werden.",
+            "hu": "Nézze, ahogy a hajók áthaladnak a történelmi zsiliprendszeren.",
+            "ro": "Urmăriți cum bărcile sunt manevrate prin sistemul istoric de ecluze.",
+            "en": "Watch the boats navigate through the historic lock system."
+          }
+        },
+        {
+          "name": {
+            "de": "Bakkestranda",
+            "hu": "Bakkestranda",
+            "ro": "Plaja Bakkestranda",
+            "en": "Bakkestranda"
+          },
+          "coords": [
+            9.617,
+            59.202
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:17",
+          "stay_min": 58,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um am Wasser zu entspannen und den Tag ausklingen zu lassen.",
+            "hu": "Tökéletes hely a pihenésre a vízparton és a nap lezárására.",
+            "ro": "Locul perfect pentru a vă relaxa lângă apă și a încheia ziua.",
+            "en": "The perfect spot to relax by the water and wind down your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Skien beginnt am belebten Handelstorget, dem Herz der Stadt. Nach einem Besuch der majestätischen Skien Kirke tauchen Sie in die Welt von Henrik Ibsen ein, dem berühmtesten Sohn der Stadt. Der Nachmittag gehört der Natur und Technik: Zuerst entspannen Sie im weitläufigen Brekkeparken mit seinem Freilichtmuseum, bevor Sie das technische Wunderwerk des Telemarkkanals bewundern. Der Spaziergang endet an der Bakkestranda, wo Sie am Wasser die Seele baumeln lassen.",
+        "hu": "A skieni nap a nyüzsgő Handelstorgeten, a város szívében kezdődik. A fenséges Skien Kirke megtekintése után elmerülhet Henrik Ibsen, a város leghíresebb szülöttjének világában. A délután a természeté és a technikáé: először a tágas Brekkeparken skanzenjében pihenhet, majd megcsodálhatja a Telemark-csatorna műszaki remekét. A séta a Bakkestrandán ér véget, ahol a vízparton lazíthat.",
+        "ro": "Ziua dvs. în Skien începe în vibranta Handelstorget, inima orașului. După o vizită la maiestuoasa Biserică Skien, vă veți scufunda în lumea lui Henrik Ibsen, cel mai faimos fiu al orașului. După-amiaza este dedicată naturii și tehnologiei: mai întâi vă relaxați în vastul parc Brekke, cu muzeul său în aer liber, înainte de a admira minunea tehnică a Canalului Telemark. Plimbarea se încheie la Bakkestranda, unde vă puteți relaxa pe malul apei.",
+        "en": "Your day in Skien begins at the bustling Handelstorget, the heart of the city. After visiting the majestic Skien Kirke, you'll delve into the world of Henrik Ibsen, the city's most famous son. The afternoon is for nature and engineering: first, relax in the spacious Brekkeparken with its open-air museum, then marvel at the technical wonder of the Telemark Canal. The walk ends at Bakkestranda, where you can unwind by the water."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fårikål",
+            "tip": "Norwegisches Nationalgericht aus Lamm und Kohl, perfekt für einen kühleren Tag."
+          },
+          {
+            "name": "Jacob & Gabriel",
+            "tip": "Modernes Restaurant mit Fokus auf lokale Zutaten und skandinavische Aromen."
+          },
+          {
+            "name": "Lunds Taffel",
+            "tip": "Klassische norwegische Küche in einem gemütlichen und historischen Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fårikål",
+            "tip": "Norvégia nemzeti étele, bárányhúsból és káposztából. Hűvösebb napokra tökéletes."
+          },
+          {
+            "name": "Jacob & Gabriel",
+            "tip": "Modern étterem helyi alapanyagokkal és skandináv ízekkel."
+          },
+          {
+            "name": "Lunds Taffel",
+            "tip": "Klasszikus norvég konyha egy hangulatos, történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fårikål",
+            "tip": "Mâncarea națională a Norvegiei, din miel și varză, perfectă pentru o zi mai răcoroasă."
+          },
+          {
+            "name": "Jacob & Gabriel",
+            "tip": "Restaurant modern axat pe ingrediente locale și arome scandinave."
+          },
+          {
+            "name": "Lunds Taffel",
+            "tip": "Bucătărie norvegiană clasică într-o ambianță confortabilă și istorică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fårikål",
+            "tip": "Norway's national dish, made of lamb and cabbage, perfect for a cooler day."
+          },
+          {
+            "name": "Jacob & Gabriel",
+            "tip": "A modern restaurant focusing on local ingredients and Scandinavian flavors."
+          },
+          {
+            "name": "Lunds Taffel",
+            "tip": "Classic Norwegian cuisine in a cozy and historic setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang entlang des Skienselva",
+            "tip": "Folgen Sie dem Flussufer für eine friedliche Flucht aus der Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eine Bank im Brekkeparken",
+            "tip": "Finden Sie einen ruhigen Platz im oberen Teil des Parks mit Blick auf die Stadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bakkestranda am späten Nachmittag",
+            "tip": "Der Strand leert sich, und das sanfte Plätschern des Wassers ist sehr beruhigend.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Skienselva folyó mentén",
+            "tip": "Kövesse a folyópartot egy békés meneküléshez a város zajától.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy pad a Brekkeparkenben",
+            "tip": "Keressen egy csendes helyet a park felső részén, kilátással a városra.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bakkestranda késő délután",
+            "tip": "A part kiürül, és a víz csobogása nagyon megnyugtató.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare de-a lungul râului Skienselva",
+            "tip": "Urmați malul râului pentru o evadare liniștită din oraș.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O bancă în Parcul Brekke",
+            "tip": "Găsiți un loc liniștit în partea superioară a parcului cu vedere la oraș.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bakkestranda după-amiaza târziu",
+            "tip": "Plaja se golește, iar sunetul blând al apei este foarte calmant.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Stroll along the Skienselva river",
+            "tip": "Follow the riverbank for a peaceful escape from the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A bench in Brekkeparken",
+            "tip": "Find a quiet spot in the upper part of the park overlooking the city.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bakkestranda in the late afternoon",
+            "tip": "The beach gets emptier, and the gentle sound of the water is very calming.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Arkaden Skien",
+            "tip": "Einkaufszentrum im Stadtzentrum für Mode, Design und mehr."
+          },
+          {
+            "name": "Lokale Kunsthandwerksläden",
+            "tip": "Suchen Sie nach kleinen Geschäften rund um den Handelstorget, die norwegisches Kunsthandwerk verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arkaden Skien",
+            "tip": "Bevásárlóközpont a városközpontban divatért, dizájnért és egyebekért."
+          },
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keressen kis boltokat a Handelstorget körül, ahol norvég kézműves termékeket árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arkaden Skien",
+            "tip": "Centru comercial în centrul orașului pentru modă, design și multe altele."
+          },
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Căutați magazine mici în jurul pieței Handelstorget care vând produse artizanale norvegiene."
+          }
+        ],
+        "en": [
+          {
+            "name": "Arkaden Skien",
+            "tip": "Shopping center in the city center for fashion, design, and more."
+          },
+          {
+            "name": "Local artisan shops",
+            "tip": "Look for small shops around Handelstorget selling Norwegian handicrafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Gelände hügelig sein kann, besonders der Weg zum Brekkeparken.",
+          "Einige Abschnitte entlang des Flusses können windig sein, also ist eine leichte Jacke ratsam.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus, da sie saisonal variieren können.",
+          "Nehmen Sie sich Zeit für eine Kaffeepause, eine norwegische 'Fika', um die lokale Kultur aufzusaugen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a terep néhol dombos, különösen a Brekkeparken felé vezető úton.",
+          "A folyó menti szakaszok szelesek lehetnek, ezért ajánlott egy könnyű dzseki.",
+          "Ellenőrizze előre a múzeumok nyitvatartását, mert szezonálisan változhat.",
+          "Szánjon időt egy kávészünetre, egy norvég 'fikára', hogy magába szívja a helyi kultúrát."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece terenul poate fi deluros, în special urcarea spre Brekkeparken.",
+          "Unele secțiuni de-a lungul râului pot fi vântoase, așa că o jachetă ușoară este recomandabilă.",
+          "Verificați orele de deschidere ale muzeelor în avans, deoarece pot varia sezonier.",
+          "Luați-vă timp pentru o pauză de cafea, o 'fika' norvegiană, pentru a absorbi cultura locală."
+        ],
+        "en": [
+          "Wear comfortable shoes as the terrain can be hilly, especially the walk up to Brekkeparken.",
+          "Some sections along the river can be windy, so a light jacket is advisable.",
+          "Check museum opening hours in advance as they can vary seasonally.",
+          "Take time for a coffee break, a Norwegian 'fika', to soak up the local culture."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 11.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Handelstorget (Marktplatz)",
+            "hu": "Handelstorget (Piactér)",
+            "ro": "Handelstorget (Piața Centrală)",
+            "en": "Handelstorget (Market Square)"
+          },
+          "coords": [
+            9.6088,
+            59.2095
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Perfekter Ausgangspunkt. Parken Sie Ihr Fahrrad und erkunden Sie den Platz zu Fuß.",
+            "hu": "Tökéletes kiindulópont. Parkolja le a biciklit és fedezze fel a teret gyalog.",
+            "ro": "Punct de plecare perfect. Parcați bicicleta și explorați piața pe jos.",
+            "en": "Perfect starting point. Park your bike and explore the square on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Ibsenhuset (Kulturzentrum)",
+            "hu": "Ibsenhuset (Kulturális Központ)",
+            "ro": "Ibsenhuset (Centrul Cultural)",
+            "en": "Ibsenhuset (Cultural Centre)"
+          },
+          "coords": [
+            9.613,
+            59.213
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:40",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Sehen Sie sich das Programm an, vielleicht gibt es eine interessante Nachmittagsvorstellung.",
+            "hu": "Nézze meg a programot, hátha van egy érdekes délutáni előadás.",
+            "ro": "Verificați programul, poate prindeți un spectacol interesant după-amiaza.",
+            "en": "Check the schedule, there might be an interesting afternoon performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Skien Kirke",
+            "hu": "Skien Kirke",
+            "ro": "Skien Kirke",
+            "en": "Skien Kirke"
+          },
+          "coords": [
+            9.606,
+            59.211
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:04",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Eine kurze, aber lohnenswerte Fahrt vom Ibsenhuset entfernt.",
+            "hu": "Egy rövid, de megérő út az Ibsenhusettől.",
+            "ro": "O plimbare scurtă, dar care merită, de la Ibsenhuset.",
+            "en": "A short but worthwhile ride from Ibsenhuset."
+          }
+        },
+        {
+          "name": {
+            "de": "Henrik Ibsen Museum",
+            "hu": "Henrik Ibsen Múzeum",
+            "ro": "Muzeul Henrik Ibsen",
+            "en": "Henrik Ibsen Museum"
+          },
+          "coords": [
+            9.596,
+            59.21
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:50",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Der Bauernhof Venstøp ist ein Stück außerhalb, aber mit dem Fahrrad gut erreichbar.",
+            "hu": "A Venstøp farm kissé kiesik, de biciklivel könnyen elérhető.",
+            "ro": "Ferma Venstøp este puțin mai departe, dar ușor accesibilă cu bicicleta.",
+            "en": "The Venstøp farm is a bit outside but easily reachable by bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Brekkeparken",
+            "hu": "Brekkeparken",
+            "ro": "Parcul Brekke",
+            "en": "Brekkeparken"
+          },
+          "coords": [
+            9.599,
+            59.213
+          ],
+          "category": "museums",
+          "arrive_at": "12:13",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schieben Sie Ihr Fahrrad den steilen Hügel hinauf und genießen Sie die Aussicht und das Mittagessen.",
+            "hu": "Tolja fel a biciklit a meredek dombon, és élvezze a kilátást és az ebédet.",
+            "ro": "Împingeți bicicleta pe dealul abrupt și bucurați-vă de priveliște și de prânz.",
+            "en": "Push your bike up the steep hill and enjoy the view and lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Klosterøya",
+            "hu": "Klosterøya",
+            "ro": "Klosterøya",
+            "en": "Klosterøya"
+          },
+          "coords": [
+            9.615,
+            59.207
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:02",
+          "stay_min": 50,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Insel mit ihrer Mischung aus alter Industrie und modernen Wohnungen.",
+            "hu": "Fedezze fel a szigetet a régi ipar és a modern lakások keverékével.",
+            "ro": "Explorați insula cu amestecul său de industrie veche și locuințe moderne.",
+            "en": "Explore the island with its mix of old industry and modern apartments."
+          }
+        },
+        {
+          "name": {
+            "de": "Telemarkskanalen",
+            "hu": "Telemark-csatorna",
+            "ro": "Canalul Telemark",
+            "en": "Telemark Canal"
+          },
+          "coords": [
+            9.625,
+            59.195
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:10",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Radeln Sie entlang des Kanals und sehen Sie sich die verschiedenen Schleusen an.",
+            "hu": "Biciklizzen a csatorna mentén, és nézze meg a különböző zsilipeket.",
+            "ro": "Mergeți cu bicicleta de-a lungul canalului pentru a vedea diferitele ecluze.",
+            "en": "Cycle along the canal path to see the various locks in action."
+          }
+        },
+        {
+          "name": {
+            "de": "Bakkestranda",
+            "hu": "Bakkestranda",
+            "ro": "Plaja Bakkestranda",
+            "en": "Bakkestranda"
+          },
+          "coords": [
+            9.617,
+            59.202
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:34",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.1,
+          "tip_5lang": {
+            "de": "Ein entspannender Abschluss Ihrer Radtour, mit Platz zum Ausruhen.",
+            "hu": "A kerékpártúra pihentető befejezése, ahol van hely a lazításra.",
+            "ro": "O încheiere relaxantă a turului cu bicicleta, cu spațiu pentru odihnă.",
+            "en": "A relaxing end to your bike tour, with space to rest."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auf zwei Rädern erkunden Sie Skien umfassend. Vom Start am Handelstorget geht es zum Kulturzentrum Ibsenhuset und zur imposanten Kirche. Eine längere Fahrt führt Sie zum Ibsen Museum und zum hochgelegenen Brekkeparken für eine Mittagspause. Am Nachmittag überqueren Sie den Fluss zur Industrieinsel Klosterøya und folgen dann dem berühmten Telemarkskanal. Die Tour endet entspannt am Stadtstrand Bakkestranda, wo Sie die Eindrücke des Tages Revue passieren lassen können.",
+        "hu": "Két keréken átfogóan felfedezheti Skient. A Handelstorgetről indulva az Ibsenhuset kulturális központhoz és az impozáns templomhoz teker. Egy hosszabb út vezet az Ibsen Múzeumhoz és a magasan fekvő Brekkeparkenbe egy ebédszünetre. Délután átkel a folyón a Klosterøya ipari szigetre, majd a híres Telemark-csatornát követi. A túra a Bakkestranda városi strandon ér véget, ahol felidézheti a nap élményeit.",
+        "ro": "Pe două roți, veți explora Skien în mod cuprinzător. Pornind de la Handelstorget, veți pedala spre centrul cultural Ibsenhuset și biserica impunătoare. O plimbare mai lungă vă va duce la Muzeul Ibsen și la parcul Brekke, situat la înălțime, pentru o pauză de prânz. După-amiaza, traversați râul spre insula industrială Klosterøya, apoi urmați faimosul Canal Telemark. Turul se încheie relaxant la plaja orașului, Bakkestranda.",
+        "en": "On two wheels, you'll explore Skien comprehensively. Starting from Handelstorget, you'll cycle to the Ibsenhuset cultural center and the imposing church. A longer ride takes you to the Ibsen Museum and the elevated Brekkeparken for a lunch break. In the afternoon, you'll cross the river to the industrial island of Klosterøya, then follow the famous Telemark Canal. The tour concludes with a relaxing stop at the city beach, Bakkestranda."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pølse med lompe",
+            "tip": "Ein schneller, klassischer norwegischer Hotdog, ideal für unterwegs."
+          },
+          {
+            "name": "Strøm Mat & Bar",
+            "tip": "Moderne Brasserie mit toller Atmosphäre, gut für ein stärkendes Abendessen."
+          },
+          {
+            "name": "La Bodega",
+            "tip": "Tapas-Bar, um verschiedene kleine Gerichte nach einem langen Radtag zu teilen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pølse med lompe",
+            "tip": "Egy gyors, klasszikus norvég hot dog, ideális útközben."
+          },
+          {
+            "name": "Strøm Mat & Bar",
+            "tip": "Modern brasserie remek hangulattal, jó egy kiadós vacsorához."
+          },
+          {
+            "name": "La Bodega",
+            "tip": "Tapas bár, ahol egy hosszú biciklis nap után megoszthat különféle falatkákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pølse med lompe",
+            "tip": "Un hotdog norvegian clasic și rapid, ideal pentru o gustare pe drum."
+          },
+          {
+            "name": "Strøm Mat & Bar",
+            "tip": "Braserie modernă cu o atmosferă grozavă, potrivită pentru o cină consistentă."
+          },
+          {
+            "name": "La Bodega",
+            "tip": "Un bar de tapas unde puteți împărți diverse gustări după o zi lungă de pedalat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pølse med lompe",
+            "tip": "A quick, classic Norwegian hot dog, perfect for a snack on the go."
+          },
+          {
+            "name": "Strøm Mat & Bar",
+            "tip": "Modern brasserie with a great atmosphere, good for a hearty dinner."
+          },
+          {
+            "name": "La Bodega",
+            "tip": "A tapas bar to share various small dishes after a long day of cycling."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Telemarkskanal",
+            "tip": "Der Weg entlang des Wassers ist flach und friedlich, abseits des Stadtverkehrs.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gimsøy Kloster Ruinen",
+            "tip": "Ein ruhiger historischer Ort auf Klosterøya zum Nachdenken.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Hjellevannet",
+            "tip": "Machen Sie eine Pause am Seeufer und genießen Sie die Stille.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Telemark-csatorna mentén",
+            "tip": "A vízparti út sík és békés, távol a városi forgalomtól.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gimsøy kolostor romjai",
+            "tip": "Egy csendes, történelmi hely Klosterøya szigetén az elmélkedésre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Hjellevannet tó",
+            "tip": "Tartson egy szünetet a tóparton, és élvezze a csendet.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul Canalului Telemark",
+            "tip": "Traseul de-a lungul apei este plat și pașnic, departe de traficul urban.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ruinele Mănăstirii Gimsøy",
+            "tip": "Un loc istoric liniștit pe insula Klosterøya pentru contemplare.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Lacul Hjellevannet",
+            "tip": "Luați o pauză pe malul lacului și bucurați-vă de liniște.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike path along the Telemark Canal",
+            "tip": "The path along the water is flat and peaceful, away from city traffic.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gimsøy Abbey Ruins",
+            "tip": "A quiet historical spot on Klosterøya for contemplation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Hjellevannet Lake",
+            "tip": "Take a break by the lake shore and enjoy the silence.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sport 1 Skien",
+            "tip": "Falls Sie Fahrradausrüstung oder Outdoor-Bekleidung benötigen."
+          },
+          {
+            "name": "Mersmak",
+            "tip": "Ein Feinkostladen, um lokale norwegische Spezialitäten als Souvenir zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sport 1 Skien",
+            "tip": "Ha kerékpáros felszerelésre vagy outdoor ruházatra van szüksége."
+          },
+          {
+            "name": "Mersmak",
+            "tip": "Delikátbolt, ahol helyi norvég különlegességeket vásárolhat szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sport 1 Skien",
+            "tip": "În caz că aveți nevoie de echipament pentru bicicletă sau îmbrăcăminte outdoor."
+          },
+          {
+            "name": "Mersmak",
+            "tip": "O delicatesă pentru a cumpăra specialități locale norvegiene ca suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sport 1 Skien",
+            "tip": "In case you need any bike gear or outdoor clothing."
+          },
+          {
+            "name": "Mersmak",
+            "tip": "A delicatessen to buy local Norwegian specialties as souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Leihen Sie sich ein Fahrrad mit Gängen, da es einige Steigungen gibt.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, besonders in der Innenstadt.",
+          "Viele Wege entlang des Wassers sind für Radfahrer und Fußgänger gemeinsam.",
+          "Ein kleiner Rucksack für Wasser und Snacks ist bei einer längeren Radtour unerlässlich."
+        ],
+        "hu": [
+          "Béreljen váltós kerékpárt, mert vannak emelkedők.",
+          "Mindig zárja le jól a kerékpárt, különösen a belvárosban.",
+          "Sok vízparti út közös a kerékpárosok és a gyalogosok számára.",
+          "Egy kis hátizsák víznek és harapnivalóknak elengedhetetlen egy hosszabb túrán."
+        ],
+        "ro": [
+          "Închiriați o bicicletă cu viteze, deoarece există câteva dealuri.",
+          "Încuietăți întotdeauna bicicleta în siguranță, mai ales în centrul orașului.",
+          "Multe căi de-a lungul apei sunt partajate între bicicliști și pietoni.",
+          "Un rucsac mic pentru apă și gustări este esențial într-un tur lung cu bicicleta."
+        ],
+        "en": [
+          "Rent a bike with gears, as there are some inclines.",
+          "Always lock your bike securely, especially in the city center.",
+          "Many paths along the water are shared between cyclists and pedestrians.",
+          "A small backpack for water and snacks is essential on a longer bike tour."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum (nahe Handelstorget)",
+            "hu": "Parkoló a központban (Handelstorget közelében)",
+            "ro": "Parcare centrală (lângă Handelstorget)",
+            "en": "City Center Parking (near Handelstorget)"
+          },
+          "coords": [
+            9.6105,
+            59.2105
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_mode": "car",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier und beginnen Sie Ihren ersten Rundgang.",
+            "hu": "Parkoljon le itt, és kezdje meg az első sétakört.",
+            "ro": "Parcați aici și începeți primul cluster de mers pe jos.",
+            "en": "Park here and start your first walking cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Handelstorget & Skien Kirke",
+            "hu": "Handelstorget és Skien Kirke",
+            "ro": "Handelstorget și Biserica Skien",
+            "en": "Handelstorget & Skien Kirke"
+          },
+          "coords": [
+            9.6088,
+            59.2095
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:26",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie den Platz und die beeindruckende Kirche zu Fuß.",
+            "hu": "Fedezze fel a teret és az impozáns templomot gyalog.",
+            "ro": "Explorați piața și biserica impresionantă pe jos.",
+            "en": "Explore the square and the impressive church on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Ibsenhuset",
+            "hu": "Ibsenhuset",
+            "ro": "Ibsenhuset",
+            "en": "Ibsenhuset"
+          },
+          "coords": [
+            9.613,
+            59.213
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:34",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Marktplatz zum modernen Kulturzentrum der Stadt.",
+            "hu": "Rövid séta a piactértől a város modern kulturális központjáig.",
+            "ro": "O plimbare scurtă de la piață la centrul cultural modern al orașului.",
+            "en": "A short walk from the main square to the city's modern cultural hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Henrik Ibsen Museum & Brekkeparken",
+            "hu": "Henrik Ibsen Múzeum és Brekkeparken",
+            "ro": "Muzeul Henrik Ibsen și Parcul Brekke",
+            "en": "Henrik Ibsen Museum & Brekkeparken"
+          },
+          "coords": [
+            9.597,
+            59.212
+          ],
+          "category": "museums",
+          "arrive_at": "11:03",
+          "stay_min": 180,
+          "hop_mode": "car",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.1,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Museum, parken Sie dort und erkunden Sie das Museum und den angrenzenden Park.",
+            "hu": "Vezessen a múzeumhoz, parkoljon le, és fedezze fel a múzeumot és a szomszédos parkot.",
+            "ro": "Conduceți la muzeu, parcați și explorați atât muzeul, cât și parcul adiacent.",
+            "en": "Drive to the museum, park, and explore both the museum and the adjacent park."
+          }
+        },
+        {
+          "name": {
+            "de": "Klosterøya Parkplatz",
+            "hu": "Klosterøya parkoló",
+            "ro": "Parcare Klosterøya",
+            "en": "Klosterøya Parking"
+          },
+          "coords": [
+            9.615,
+            59.207
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:16",
+          "stay_min": 15,
+          "hop_mode": "car",
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.1,
+          "tip_5lang": {
+            "de": "Der Ausgangspunkt für die Erkundung des Uferbereichs.",
+            "hu": "A vízparti terület felfedezésének kiindulópontja.",
+            "ro": "Punctul de plecare pentru explorarea zonei de pe malul apei.",
+            "en": "The starting point for your waterfront exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Telemarkskanalen (Schleusen)",
+            "hu": "Telemark-csatorna (Zsiliprendszer)",
+            "ro": "Canalul Telemark (Ecluze)",
+            "en": "Telemark Canal (Locks)"
+          },
+          "coords": [
+            9.609,
+            59.206
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:39",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Von Klosterøya aus ist es ein kurzer Spaziergang zu den historischen Schleusen.",
+            "hu": "Klosterøya szigetéről rövid séta a történelmi zsilipekhez.",
+            "ro": "De la Klosterøya, este o scurtă plimbare până la ecluzele istorice.",
+            "en": "From Klosterøya, it's a short walk to the historic locks."
+          }
+        },
+        {
+          "name": {
+            "de": "Bakkestranda",
+            "hu": "Bakkestranda",
+            "ro": "Plaja Bakkestranda",
+            "en": "Bakkestranda"
+          },
+          "coords": [
+            9.617,
+            59.202
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:55",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schließen Sie den Tag mit einem entspannten Spaziergang am Flussufer ab.",
+            "hu": "Zárja a napot egy pihentető sétával a folyóparton.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă de-a lungul malului râului.",
+            "en": "End your day with a relaxing stroll along the riverbank."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto gruppieren Sie Skiens Highlights in drei Cluster. Starten Sie im Zentrum (Cluster 1), wo Sie Handelstorget, die Kirche und das Ibsenhuset zu Fuß erkunden. Dann fahren Sie zum Ibsen Museum und dem Brekkeparken (Cluster 2) für eine ausgedehnte Kultur- und Mittagspause. Der Nachmittag gehört dem Wasser: Sie fahren nach Klosterøya (Cluster 3) und entdecken von dort aus zu Fuß die Schleusen des Telemarkkanals und den entspannenden Stadtstrand Bakkestranda. Diese Methode kombiniert Komfort mit intensivem Erleben.",
+        "hu": "Autóval Skien látnivalóit három klaszterbe csoportosíthatja. Kezdjen a központban (1. klaszter), ahol gyalog felfedezheti a Handelstorgetet, a templomot és az Ibsenhusetet. Ezután vezessen az Ibsen Múzeumhoz és a Brekkeparkenbe (2. klaszter) egy hosszabb kulturális és ebédszünetre. A délután a vízé: hajtson el Klosterøya szigetére (3. klaszter), és onnan gyalog fedezze fel a Telemark-csatorna zsilipjeit és a pihentető Bakkestranda városi strandot. Ez a módszer ötvözi a kényelmet az intenzív élménnyel.",
+        "ro": "Cu mașina, grupați atracțiile din Skien în trei clustere. Începeți în centru (Cluster 1), explorând pe jos Handelstorget, biserica și Ibsenhuset. Apoi, conduceți la Muzeul Ibsen și Parcul Brekke (Cluster 2) pentru o pauză extinsă de cultură și prânz. După-amiaza este dedicată apei: conduceți spre Klosterøya (Cluster 3) și de acolo explorați pe jos ecluzele Canalului Telemark și plaja relaxantă Bakkestranda. Această metodă combină confortul cu experiența intensă.",
+        "en": "By car, you'll group Skien's highlights into three clusters. Start in the center (Cluster 1), exploring Handelstorget, the church, and Ibsenhuset on foot. Then, drive to the Ibsen Museum and Brekkeparken (Cluster 2) for an extended cultural and lunch break. The afternoon is for the waterfront: drive to Klosterøya (Cluster 3) and from there, explore the Telemark Canal locks and the relaxing Bakkestranda city beach on foot. This method mixes convenience with immersive exploration."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kjøttkaker",
+            "tip": "Norwegische Fleischbällchen, serviert mit Erbsenpüree und Kartoffeln. Herzhaft und lecker."
+          },
+          {
+            "name": "Henrik & Kompani",
+            "tip": "Ein stilvolles Café und Restaurant, ideal für ein Mittagessen in der Nähe des Zentrums."
+          },
+          {
+            "name": "Thien-mat",
+            "tip": "Wenn Sie Lust auf etwas anderes haben, probieren Sie dieses hoch bewertete vietnamesische Restaurant."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kjøttkaker",
+            "tip": "Norvég húsgolyók, borsópürével és burgonyával tálalva. Kiadós és finom."
+          },
+          {
+            "name": "Henrik & Kompani",
+            "tip": "Stílusos kávézó és étterem, ideális ebédre a központ közelében."
+          },
+          {
+            "name": "Thien-mat",
+            "tip": "Ha valami másra vágyik, próbálja ki ezt a magasra értékelt vietnami éttermet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kjøttkaker",
+            "tip": "Chiftele norvegiene servite cu piure de mazăre și cartofi. Consistent și gustos."
+          },
+          {
+            "name": "Henrik & Kompani",
+            "tip": "O cafenea și un restaurant elegant, ideal pentru prânz în apropierea centrului."
+          },
+          {
+            "name": "Thien-mat",
+            "tip": "Dacă aveți poftă de ceva diferit, încercați acest restaurant vietnamez foarte apreciat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kjøttkaker",
+            "tip": "Norwegian meatballs served with stewed peas and potatoes. Hearty and delicious."
+          },
+          {
+            "name": "Henrik & Kompani",
+            "tip": "A stylish café and restaurant, great for lunch near the center."
+          },
+          {
+            "name": "Thien-mat",
+            "tip": "If you're in the mood for something different, try this highly-rated Vietnamese restaurant."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt im Brekkeparken",
+            "tip": "Der beste Panoramablick über Skien, den man mit dem Auto leicht erreichen kann.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ufer des Hjellevannet",
+            "tip": "Fahren Sie ein kurzes Stück aus der Stadt heraus, um die Ruhe am See zu finden.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spaziergang über die Bryggevannet-Brücke",
+            "tip": "Eine ruhige Perspektive auf Klosterøya und das Stadtzentrum.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópont a Brekkeparkenben",
+            "tip": "A legjobb panorámás kilátás Skienre, autóval könnyen megközelíthető.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Hjellevannet tó partja",
+            "tip": "Vezessen egy kicsit ki a városból a tó nyugalmáért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Séta a Bryggevannet hídon",
+            "tip": "Nyugodt perspektíva Klosterøya szigetére és a városközpontra.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere în Parcul Brekke",
+            "tip": "Cea mai bună vedere panoramică asupra orașului Skien, ușor accesibilă cu mașina.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malul lacului Hjellevannet",
+            "tip": "Conduceți puțin în afara orașului pentru a găsi liniștea lacului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plimbare pe podul Bryggevannet",
+            "tip": "O perspectivă liniștită asupra Klosterøya și a centrului orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint in Brekkeparken",
+            "tip": "The best panoramic view of Skien, easily accessible by car.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Shores of Hjellevannet lake",
+            "tip": "Drive a short distance out of the city to find tranquility by the lake.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Walk across the Bryggevannet bridge",
+            "tip": "A quiet perspective on Klosterøya and the city center.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lietorvet Senter",
+            "tip": "Ein weiteres Einkaufszentrum mit guter Parkmöglichkeit für eine schnelle Shopping-Tour."
+          },
+          {
+            "name": "Gågata (Fußgängerzone)",
+            "tip": "Parken Sie in der Nähe und schlendern Sie durch die Haupteinkaufsstraße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lietorvet Senter",
+            "tip": "Egy másik bevásárlóközpont jó parkolási lehetőséggel egy gyors vásárláshoz."
+          },
+          {
+            "name": "Gågata (sétálóutca)",
+            "tip": "Parkoljon a közelben, és sétáljon végig a fő bevásárlóutcán."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lietorvet Senter",
+            "tip": "Un alt centru comercial cu parcare bună pentru o sesiune rapidă de cumpărături."
+          },
+          {
+            "name": "Gågata (strada pietonală)",
+            "tip": "Parcați în apropiere și plimbați-vă pe strada principală de cumpărături."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lietorvet Senter",
+            "tip": "Another shopping center with good parking for a quick shopping stop."
+          },
+          {
+            "name": "Gågata (pedestrian street)",
+            "tip": "Park nearby and stroll down the main shopping street."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Parkhäuser im Stadtzentrum. Sie sind gut ausgeschildert.",
+          "Parkgebühren können hoch sein, planen Sie also Ihr Budget entsprechend.",
+          "Die Straßen in der Innenstadt können eng sein, fahren Sie also vorsichtig.",
+          "Die Cluster-Methode spart Zeit und Parkgebühren und ermöglicht intensivere Spaziergänge."
+        ],
+        "hu": [
+          "Használja a városközponti parkolóházakat. Jól ki vannak táblázva.",
+          "A parkolási díjak magasak lehetnek, tervezze meg a költségvetését.",
+          "A belvárosi utcák szűkek lehetnek, vezessen óvatosan.",
+          "A klaszter-módszer időt és parkolási díjakat takarít meg, miközben intenzívebb sétákat tesz lehetővé."
+        ],
+        "ro": [
+          "Folosiți parcările supraetajate din centrul orașului. Sunt bine semnalizate.",
+          "Taxele de parcare pot fi mari, așa că planificați-vă bugetul corespunzător.",
+          "Străzile din centrul orașului pot fi înguste, așa că conduceți cu atenție.",
+          "Metoda cluster economisește timp și taxe de parcare și permite plimbări mai imersive."
+        ],
+        "en": [
+          "Use the parking garages in the city center; they are well-signposted.",
+          "Parking fees can be high, so plan your budget accordingly.",
+          "The streets in the city center can be narrow, so drive carefully.",
+          "The cluster method saves time and parking fees and allows for more immersive walks."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:54",
+      "total_km": 7.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Landmannstorget (Busbahnhof)",
+            "hu": "Landmannstorget (buszpályaudvar)",
+            "ro": "Landmannstorget (autogară)",
+            "en": "Landmannstorget (Bus Terminal)"
+          },
+          "coords": [
+            9.613,
+            59.208
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der zentrale Knotenpunkt für alle Buslinien in Skien. Hier beginnt Ihr Abenteuer.",
+            "hu": "Skien összes buszjáratának központi csomópontja. Itt kezdődik a kalandja.",
+            "ro": "Nodul central pentru toate liniile de autobuz din Skien. Aventura dvs. începe aici.",
+            "en": "The central hub for all bus lines in Skien. Your adventure starts here."
+          }
+        },
+        {
+          "name": {
+            "de": "Handelstorget & Skien Kirke",
+            "hu": "Handelstorget és Skien Kirke",
+            "ro": "Handelstorget și Biserica Skien",
+            "en": "Handelstorget & Skien Kirke"
+          },
+          "coords": [
+            9.6088,
+            59.2095
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:33",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Busbahnhof zu den ersten Sehenswürdigkeiten.",
+            "hu": "Rövid séta a buszpályaudvartól az első látnivalókig.",
+            "ro": "O scurtă plimbare de la autogară la primele atracții.",
+            "en": "A short walk from the bus terminal to the first sights."
+          }
+        },
+        {
+          "name": {
+            "de": "Brekkeparken",
+            "hu": "Brekkeparken",
+            "ro": "Parcul Brekke",
+            "en": "Brekkeparken"
+          },
+          "coords": [
+            9.599,
+            59.213
+          ],
+          "category": "museums",
+          "arrive_at": "10:49",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus den Hügel hinauf, um Energie für die Erkundung des Parks zu sparen.",
+            "hu": "Menjen busszal a dombra, hogy energiát takarítson meg a park felfedezéséhez.",
+            "ro": "Luați autobuzul până sus pe deal pentru a economisi energie pentru explorarea parcului.",
+            "en": "Take the bus up the hill to save energy for exploring the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Henrik Ibsen Museum",
+            "hu": "Henrik Ibsen Múzeum",
+            "ro": "Muzeul Henrik Ibsen",
+            "en": "Henrik Ibsen Museum"
+          },
+          "coords": [
+            9.596,
+            59.21
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:57",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein angenehmer Spaziergang bergab vom Brekkeparken zum Geburtshaus des Dramatikers.",
+            "hu": "Kellemes séta lefelé a Brekkeparkenből a drámaíró szülőházához.",
+            "ro": "O plimbare plăcută la vale de la Parcul Brekke la casa memorială a dramaturgului.",
+            "en": "A pleasant downhill walk from Brekkeparken to the playwright's home."
+          }
+        },
+        {
+          "name": {
+            "de": "Klosterøya",
+            "hu": "Klosterøya",
+            "ro": "Klosterøya",
+            "en": "Klosterøya"
+          },
+          "coords": [
+            9.615,
+            59.207
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:28",
+          "stay_min": 20,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zurück ins Tal und über den Fluss zu dieser historischen Insel.",
+            "hu": "Menjen busszal vissza a völgybe és át a folyón erre a történelmi szigetre.",
+            "ro": "Luați un autobuz înapoi în vale și peste râu spre această insulă istorică.",
+            "en": "Take a bus back down into the valley and across the river to this historic island."
+          }
+        },
+        {
+          "name": {
+            "de": "Telemarkskanalen",
+            "hu": "Telemark-csatorna",
+            "ro": "Canalul Telemark",
+            "en": "Telemark Canal"
+          },
+          "coords": [
+            9.609,
+            59.206
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:56",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Die Schleusen sind von der Bushaltestelle auf Klosterøya aus leicht zu Fuß erreichbar.",
+            "hu": "A zsilipek könnyen megközelíthetők gyalog a Klosterøya-i buszmegállótól.",
+            "ro": "Ecluzele sunt la o scurtă plimbare de stația de autobuz de pe Klosterøya.",
+            "en": "The locks are an easy walk from the bus stop on Klosterøya."
+          }
+        },
+        {
+          "name": {
+            "de": "Bakkestranda",
+            "hu": "Bakkestranda",
+            "ro": "Plaja Bakkestranda",
+            "en": "Bakkestranda"
+          },
+          "coords": [
+            9.617,
+            59.202
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:12",
+          "stay_min": 102,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit einem entspannenden Aufenthalt am Strand, bevor Sie zum Busbahnhof zurückkehren.",
+            "hu": "Fejezze be a napot egy pihentető strandolással, mielőtt visszatérne a buszpályaudvarra.",
+            "ro": "Încheiați ziua cu o ședere relaxantă la plajă înainte de a vă întoarce la autogară.",
+            "en": "Finish your day with a relaxing stay at the beach before heading back to the bus terminal."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln erleben Sie Skien wie ein Einheimischer. Vom zentralen Busbahnhof aus erkunden Sie zunächst das Stadtzentrum zu Fuß. Ein Bus bringt Sie bequem auf den Hügel zum Brekkeparken und dem Ibsen Museum, was Ihnen den Aufstieg erspart. Nach der Talfahrt bringt Sie ein weiterer Bus über den Fluss nach Klosterøya. Von dort aus sind die beeindruckenden Schleusen und der Stadtstrand Bakkestranda leicht zu Fuß erreichbar, bevor Sie Ihre Reise am Busbahnhof beenden.",
+        "hu": "A tömegközlekedéssel úgy élheti át Skient, mint egy helyi. A központi buszpályaudvarról először gyalog fedezheti fel a városközpontot. Egy busz kényelmesen felviszi a dombra a Brekkeparkenbe és az Ibsen Múzeumhoz, megkímélve Önt a kaptatótól. A völgybe való visszatérés után egy másik busz átviszi a folyón Klosterøya szigetére. Onnan a lenyűgöző zsilipek és a Bakkestranda városi strand könnyen elérhetők gyalog, mielőtt a buszpályaudvaron befejezné útját.",
+        "ro": "Cu transportul public, veți experimenta Skien ca un localnic. De la autogara centrală, explorați mai întâi centrul orașului pe jos. Un autobuz vă duce confortabil sus pe deal la Parcul Brekke și Muzeul Ibsen, scutindu-vă de urcuș. După coborâre, un alt autobuz vă duce peste râu la Klosterøya. De acolo, ecluzele impresionante și plaja orașului Bakkestranda sunt ușor accesibile pe jos, înainte de a vă încheia călătoria la autogară.",
+        "en": "Using public transit, you'll experience Skien like a local. From the central bus terminal, you first explore the city center on foot. A bus takes you comfortably up the hill to Brekkeparken and the Ibsen Museum, saving you the climb. After descending, another bus takes you across the river to Klosterøya. From there, the impressive locks and Bakkestranda city beach are an easy walk away, before you conclude your journey back at the terminal."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Waffeln mit Brunost",
+            "tip": "Probieren Sie eine norwegische Waffel mit dem typischen süßen braunen Käse, erhältlich in vielen Cafés."
+          },
+          {
+            "name": "New Agra",
+            "tip": "Ein beliebtes indisches Restaurant, das leicht mit dem Bus zu erreichen ist."
+          },
+          {
+            "name": "Stockmand",
+            "tip": "Restaurant und Bar im Herzen der Stadt, ideal für ein Abendessen nach der Tour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gofri Brunost sajttal",
+            "tip": "Kóstoljon meg egy norvég gofrit a jellegzetes édes barna sajttal, sok kávézóban kapható."
+          },
+          {
+            "name": "New Agra",
+            "tip": "Népszerű indiai étterem, busszal könnyen megközelíthető."
+          },
+          {
+            "name": "Stockmand",
+            "tip": "Étterem és bár a város szívében, ideális vacsorához a túra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vafe cu Brunost",
+            "tip": "Încercați o vafă norvegiană cu brânză maro dulce, specifică, disponibilă în multe cafenele."
+          },
+          {
+            "name": "New Agra",
+            "tip": "Un restaurant indian popular, ușor accesibil cu autobuzul."
+          },
+          {
+            "name": "Stockmand",
+            "tip": "Restaurant și bar în inima orașului, ideal pentru cină după tur."
+          }
+        ],
+        "en": [
+          {
+            "name": "Waffles with Brunost",
+            "tip": "Try a Norwegian waffle with the typical sweet brown cheese, available in many cafes."
+          },
+          {
+            "name": "New Agra",
+            "tip": "A popular Indian restaurant easily reachable by bus."
+          },
+          {
+            "name": "Stockmand",
+            "tip": "Restaurant and bar in the heart of the city, ideal for a post-tour dinner."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lundedalen Park",
+            "tip": "Ein ruhiger Park, der mit einer kurzen Busfahrt erreicht werden kann, ideal für eine Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Am Ufer von Bryggevannet",
+            "tip": "Finden Sie eine ruhige Bank mit Blick auf das Wasser zwischen dem Zentrum und Klosterøya.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Skien Friedhof",
+            "tip": "Ein friedlicher und wunderschön gepflegter Ort für einen stillen Spaziergang.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lundedalen park",
+            "tip": "Egy csendes park, amely rövid buszozással elérhető, ideális egy szünetre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Bryggevannet partján",
+            "tip": "Keressen egy csendes padot, kilátással a vízre a központ és Klosterøya között.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Skieni temető",
+            "tip": "Békés és gyönyörűen gondozott hely egy csendes sétához.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Lundedalen",
+            "tip": "Un parc liniștit accesibil cu o scurtă călătorie cu autobuzul, perfect pentru o pauză.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pe malul Bryggevannet",
+            "tip": "Găsiți o bancă liniștită cu vedere la apă între centru și Klosterøya.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul din Skien",
+            "tip": "Un loc pașnic și frumos întreținut pentru o plimbare liniștită.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lundedalen Park",
+            "tip": "A quiet park reachable by a short bus ride, perfect for a break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "On the banks of Bryggevannet",
+            "tip": "Find a quiet bench overlooking the water between the center and Klosterøya.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Skien Cemetery",
+            "tip": "A peaceful and beautifully maintained place for a quiet walk.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fretex",
+            "tip": "Ein Second-Hand-Laden, in dem Sie einzigartige norwegische Fundstücke entdecken können."
+          },
+          {
+            "name": "Herkules Senter",
+            "tip": "Ein großes Einkaufszentrum am Stadtrand, das mit mehreren Buslinien erreichbar ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fretex",
+            "tip": "Egy használtruha-bolt, ahol egyedi norvég kincsekre bukkanhat."
+          },
+          {
+            "name": "Herkules Senter",
+            "tip": "Nagy bevásárlóközpont a város szélén, több buszjárattal is megközelíthető."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fretex",
+            "tip": "Un magazin second-hand unde puteți descoperi comori norvegiene unice."
+          },
+          {
+            "name": "Centrul Herkules",
+            "tip": "Un centru comercial mare la marginea orașului, accesibil cu mai multe linii de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fretex",
+            "tip": "A second-hand shop where you might discover unique Norwegian finds."
+          },
+          {
+            "name": "Herkules Senter",
+            "tip": "A large shopping mall on the outskirts of town, reachable by several bus lines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, sie ist günstiger als Einzeltickets.",
+          "Laden Sie die lokale ÖPNV-App 'Farte' herunter, um Fahrpläne und Routen in Echtzeit zu sehen.",
+          "Beachten Sie, dass die Busse sonntags und abends seltener fahren.",
+          "Geben Sie dem Busfahrer ein Zeichen, wenn Sie an einer Haltestelle warten, um sicherzustellen, dass er anhält."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, olcsóbb, mint a vonaljegyek.",
+          "Töltse le a helyi 'Farte' közlekedési alkalmazást a valós idejű menetrendekért és útvonalakért.",
+          "Vegye figyelembe, hogy a buszok vasárnap és este ritkábban közlekednek.",
+          "Intsen a buszsofőrnek, ha egy megállóban várakozik, hogy biztosan megálljon."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz, este mai ieftin decât biletele individuale.",
+          "Descărcați aplicația locală de transport public 'Farte' pentru orare și rute în timp real.",
+          "Rețineți că autobuzele circulă mai rar duminica și seara.",
+          "Faceți semn șoferului de autobuz când așteptați într-o stație pentru a vă asigura că oprește."
+        ],
+        "en": [
+          "Buy a day pass for the bus; it's cheaper than single tickets.",
+          "Download the local public transport app 'Farte' for real-time schedules and routes.",
+          "Be aware that buses run less frequently on Sundays and in the evenings.",
+          "Signal the bus driver when you are waiting at a stop to ensure they stop for you."
+        ]
+      }
+    }
+  }
+}

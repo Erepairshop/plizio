@@ -1,0 +1,990 @@
+{
+  "city_id": "spain-gijon-cities-v2",
+  "anchor": {
+    "name": "Gijón",
+    "coords": [
+      -5.6615,
+      43.5357
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:24",
+      "total_km": 4.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Cimavilla",
+          "coords": [
+            -5.6611,
+            43.5451
+          ],
+          "category": "old-town",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verlaufen Sie sich in den engen Gassen dieses ehemaligen Fischerviertels.",
+            "hu": "Tévedjen el az egykori halásznegyed szűk utcácskáiban.",
+            "ro": "Pierde-te pe străduțele înguste ale acestui fost cartier de pescari.",
+            "en": "Get lost in the narrow streets of this former fishermen's quarter."
+          }
+        },
+        {
+          "name": "Termas Romanas",
+          "coords": [
+            -5.6628,
+            43.5448
+          ],
+          "category": "museum",
+          "arrive_at": "10:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die gut erhaltenen römischen Bäder direkt am Meer.",
+            "hu": "Csodálja meg a jó állapotban fennmaradt tengerparti római fürdőket.",
+            "ro": "Admiră băile romane bine conservate, chiar pe malul mării.",
+            "en": "Admire the well-preserved Roman baths right by the sea."
+          }
+        },
+        {
+          "name": "Elogio del Horizonte",
+          "coords": [
+            -5.6615,
+            43.5485
+          ],
+          "category": "monument",
+          "arrive_at": "11:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Stellen Sie sich in die Mitte der Skulptur, um das Rauschen des Meeres zu hören.",
+            "hu": "Álljon a szobor közepébe, hogy hallja a tenger zúgását.",
+            "ro": "Stai în mijlocul sculpturii pentru a auzi sunetul mării.",
+            "en": "Stand in the middle of the sculpture to hear the sound of the sea."
+          }
+        },
+        {
+          "name": "Playa de San Lorenzo",
+          "coords": [
+            -5.654,
+            43.541
+          ],
+          "category": "beach",
+          "arrive_at": "12:04",
+          "stay_min": 120,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekt für einen langen Strandspaziergang und ein Mittagessen mit Meerblick.",
+            "hu": "Tökéletes egy hosszú tengerparti sétához és egy tengerre néző ebédhez.",
+            "ro": "Perfect pentru o plimbare lungă pe plajă și un prânz cu vedere la mare.",
+            "en": "Perfect for a long beach walk and a seaside lunch."
+          }
+        },
+        {
+          "name": "Acuario de Gijón",
+          "coords": [
+            -5.6748,
+            43.5422
+          ],
+          "category": "natural feature",
+          "arrive_at": "14:44",
+          "stay_min": 100,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die kantabrische und tropische Unterwasserwelt.",
+            "hu": "Fedezze fel a kantábriai és a trópusi tengeri élővilágot.",
+            "ro": "Descoperă viața marină cantabrică și tropicală.",
+            "en": "Discover the Cantabrian and tropical marine life."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Vormittag gehört dem historischen Charme von Cimavilla und den antiken römischen Bädern, die uns in die Vergangenheit zurückversetzen. Mittags lassen wir uns am goldenen Sandstrand von San Lorenzo den Wind um die Nase wehen, wo wir auch lokale Spezialitäten kosten können. Der Nachmittag rundet das Erlebnis mit einem Besuch im modernen Aquarium ab, das einen faszinierenden Einblick in die Meereswelt bietet.",
+        "hu": "A délelőtt Cimavilla történelmi bájáé és az ókori római fürdőké, amelyek visszarepítenek az időben. Délben a San Lorenzo aranyhomokos partján élvezzük a tengeri levegőt, ahol megkóstolhatjuk a helyi ízeket is. A délutánt a modern akvárium koronázza meg, amely lenyűgöző bepillantást enged a víz alatti világba.",
+        "ro": "Dimineața este dedicată farmecului istoric al Cimavilla și băilor romane antice, care ne întorc în timp. La prânz, ne bucurăm de briza mării pe nisipul auriu de la San Lorenzo, unde putem savura și arome locale. După-amiaza se încheie cu o vizită la acvariul modern, oferind o perspectivă fascinantă asupra vieții marine.",
+        "en": "The morning belongs to the historical charm of Cimavilla and the ancient Roman baths, taking us back in time. At noon, we enjoy the sea breeze on the golden sands of San Lorenzo, where we can also taste local flavors. The afternoon is crowned by a visit to the modern aquarium, offering a fascinating glimpse into the marine world."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sidra",
+            "tip": "Probieren Sie den traditionell eingeschenkten Apfelwein in einer Sidrería."
+          },
+          {
+            "name": "Fabada Asturiana",
+            "tip": "Ein herzhafter Bohneneintopf, perfekt nach einem Spaziergang."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sidra",
+            "tip": "Kóstolja meg a hagyományosan magasról töltött almabort egy sidreriában."
+          },
+          {
+            "name": "Fabada Asturiana",
+            "tip": "Egy kiadós babpörkölt, amely tökéletes egy hosszú séta után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sidra",
+            "tip": "Încearcă cidrul turnat tradițional de la înălțime într-o sidrerie."
+          },
+          {
+            "name": "Fabada Asturiana",
+            "tip": "O tocană de fasole sățioasă, perfectă după o plimbare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sidra",
+            "tip": "Try the traditionally high-poured cider in a local sidrería."
+          },
+          {
+            "name": "Fabada Asturiana",
+            "tip": "A hearty bean stew, perfect after a long walk."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cerro de Santa Catalina",
+            "tip": "Grüne Oase über der Stadt mit weitem Meerblick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cerro de Santa Catalina",
+            "tip": "Zöld oázis a város felett, tágas tengeri kilátással.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cerro de Santa Catalina",
+            "tip": "Oază verde deasupra orașului cu vedere panoramică la mare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cerro de Santa Catalina",
+            "tip": "Green oasis above the city with sweeping sea views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle Corrida",
+            "tip": "Die Haupteinkaufsstraße für lokale Boutiquen und bekannte Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle Corrida",
+            "tip": "A fő bevásárlóutca helyi butikokkal és ismert márkákkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle Corrida",
+            "tip": "Principala stradă comercială cu buticuri locale și branduri cunoscute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle Corrida",
+            "tip": "The main shopping street for local boutiques and popular brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Wetter an der Küste kann schnell umschlagen, nehmen Sie eine leichte Jacke mit.",
+          "Die Altstadt hat teilweise Kopfsteinpflaster, bequeme Schuhe sind ein Muss.",
+          "Mittagessen gibt es hier typischerweise erst ab 14:00 Uhr.",
+          "Achten Sie in den Sidrerías darauf, wie der Kellner den Apfelwein einschenkt."
+        ],
+        "hu": [
+          "A tengerparti időjárás gyorsan változhat, vigyen magával egy könnyű kabátot.",
+          "Az óvárosban sok a macskaköves utca, a kényelmes cipő elengedhetetlen.",
+          "Az ebédet itt jellemzően csak 14:00 óra után szolgálják fel.",
+          "Figyelje meg a sidreriákban, milyen ügyesen tölti a pincér az almabort."
+        ],
+        "ro": [
+          "Vremea pe coastă se poate schimba rapid, ia o jachetă ușoară cu tine.",
+          "Orașul vechi are străzi pietruite, încălțămintea confortabilă este obligatorie.",
+          "Prânzul este servit aici de obicei abia după ora 14:00.",
+          "Urmărește în sidrerii cum toarnă chelnerul cidrul de la înălțime."
+        ],
+        "en": [
+          "Coastal weather can change quickly, so bring a light jacket.",
+          "The old town features cobblestone streets, making comfortable shoes a must.",
+          "Lunch is typically served here only after 2:00 PM.",
+          "Watch how the waiter skillfully pours the cider from up high in the sidrerías."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 8.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Acuario de Gijón",
+          "coords": [
+            -5.6748,
+            43.5422
+          ],
+          "category": "natural feature",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit den Meeresbewohnern der Region.",
+            "hu": "Indítsa a napot a régió tengeri élőlényeivel.",
+            "ro": "Începe ziua explorând viața marină a regiunii.",
+            "en": "Start the day with the region's marine inhabitants."
+          }
+        },
+        {
+          "name": "Museo del Ferrocarril",
+          "coords": [
+            -5.6725,
+            43.5401
+          ],
+          "category": "museum",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Erkunden Sie historische Dampflokomotiven in diesem ehemaligen Bahnhof.",
+            "hu": "Fedezze fel a történelmi gőzmozdonyokat ebben az egykori vasútállomásban.",
+            "ro": "Explorează locomotive cu abur istorice în această fostă gară.",
+            "en": "Explore historical steam locomotives in this former railway station."
+          }
+        },
+        {
+          "name": "Cimavilla",
+          "coords": [
+            -5.6611,
+            43.5451
+          ],
+          "category": "old-town",
+          "arrive_at": "12:02",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie vorsichtig durch die engen Gassen zur Halbinsel hinauf.",
+            "hu": "Óvatosan tekerjen át a szűk utcákon fel a félszigetre.",
+            "ro": "Pedalează cu grijă pe străzile înguste până sus pe peninsulă.",
+            "en": "Ride carefully through the narrow streets up to the peninsula."
+          }
+        },
+        {
+          "name": "Elogio del Horizonte",
+          "coords": [
+            -5.6615,
+            43.5485
+          ],
+          "category": "monument",
+          "arrive_at": "13:07",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der höchste Punkt der Route belohnt mit bester Meeresbrise.",
+            "hu": "Az útvonal legmagasabb pontja, amely a legjobb tengeri szellővel jutalmaz.",
+            "ro": "Cel mai înalt punct al traseului te răsplătește cu cea mai bună briză marină.",
+            "en": "The highest point of the route rewards you with the best sea breeze."
+          }
+        },
+        {
+          "name": "Playa de San Lorenzo",
+          "coords": [
+            -5.654,
+            43.541
+          ],
+          "category": "beach",
+          "arrive_at": "13:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Strandpromenade ist ideal für eine entspannte Fahrt.",
+            "hu": "A tengerparti sétány ideális egy pihentető kerékpározáshoz.",
+            "ro": "Promenada de pe plajă este ideală pentru o plimbare relaxantă pe bicicletă.",
+            "en": "The beach promenade is ideal for a relaxed ride."
+          }
+        },
+        {
+          "name": "Universidad Laboral",
+          "coords": [
+            -5.6186,
+            43.524
+          ],
+          "category": "cultural centre",
+          "arrive_at": "15:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Das monumentale Gebäude beeindruckt mit Spaniens höchstem Steinturm.",
+            "hu": "A monumentális épület lenyűgöző Spanyolország legmagasabb kőtornyával.",
+            "ro": "Clădirea monumentală impresionează cu cel mai înalt turn de piatră din Spania.",
+            "en": "The monumental building impresses with Spain's tallest stone tower."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir radeln zunächst entspannt am Wasser entlang vom Aquarium zum Eisenbahnmuseum. Danach wird es in Cimavilla etwas steiler, aber der Panoramablick am Elogio del Horizonte macht jede Anstrengung wett. Eine ausgedehnte Fahrt entlang der Strandpromenade bringt uns schließlich zum gigantischen Bauwerk der Universidad Laboral, etwas außerhalb des Trubels.",
+        "hu": "Először kényelmesen tekerünk a víz mentén az akváriumtól a vasútmúzeumig. Utána egy kicsit meredekebb lesz a terep Cimavilla felé, de a panoráma az Elogio del Horizonte-nél minden fáradtságot megér. Egy hosszabb tekerés a tengerparti sétányon végül elvezet minket az Universidad Laboral hatalmas épületéhez a nyüzsgéstől távolabb.",
+        "ro": "Pedalăm inițial relaxat de-a lungul apei, de la acvariu la muzeul feroviar. Apoi traseul devine ușor abrupt în Cimavilla, dar panorama de la Elogio del Horizonte compensează efortul. O plimbare mai lungă pe promenada plajei ne duce în final către clădirea gigantică a Universidad Laboral, departe de agitație.",
+        "en": "We first cycle relaxed along the water from the aquarium to the railway museum. It gets a bit steeper towards Cimavilla, but the panoramic view at Elogio del Horizonte makes up for the effort. A longer ride along the beach promenade finally takes us to the gigantic structure of Universidad Laboral, away from the hustle and bustle."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cachopo",
+            "tip": "Ein paniertes, gefülltes Rindersteak, das hungrige Radler sättigt."
+          },
+          {
+            "name": "Sidra",
+            "tip": "Ein kühler Apfelwein erfrischt am besten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cachopo",
+            "tip": "Egy rántott, töltött marhaszelet, amely jól lakatja az éhes biciklistákat."
+          },
+          {
+            "name": "Sidra",
+            "tip": "Egy hűsítő almabor a legjobb frissítő."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cachopo",
+            "tip": "O friptură de vită pane, umplută, care satură bicicliștii înfometați."
+          },
+          {
+            "name": "Sidra",
+            "tip": "Un cidru rece este cea mai bună răcoritoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cachopo",
+            "tip": "A breaded, stuffed beef steak that satisfies hungry cyclists."
+          },
+          {
+            "name": "Sidra",
+            "tip": "A cool cider is the best refreshment."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mirador de la Providencia",
+            "tip": "Ruhiger Aussichtspunkt am Ende einer schönen Küstenradtour.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mirador de la Providencia",
+            "tip": "Csendes kilátó egy szép tengerparti bicikliút végén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mirador de la Providencia",
+            "tip": "Punct de belvedere liniștit la finalul unui frumos traseu de coastă pe bicicletă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mirador de la Providencia",
+            "tip": "Quiet viewpoint at the end of a beautiful coastal bike ride.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado del Sur",
+            "tip": "Lokaler Markt mit frischen Produkten der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado del Sur",
+            "tip": "Helyi piac a régió friss termékeivel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado del Sur",
+            "tip": "Piață locală cu produse proaspete din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado del Sur",
+            "tip": "Local market with fresh produce from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Strandpromenade hat einen eigenen, gut markierten Radweg.",
+          "In Cimavilla müssen Sie sich den Platz oft mit Fußgängern teilen.",
+          "Schließen Sie Ihr Rad immer gut ab, besonders in Strandnähe.",
+          "Die Route zur Universidad Laboral führt über sichere, flache Straßen."
+        ],
+        "hu": [
+          "A tengerparti sétánynak saját, jól jelzett kerékpárútja van.",
+          "Cimavillában a helyet gyakran a gyalogosokkal kell megosztani.",
+          "Mindig zárja le jól a biciklijét, különösen a strand közelében.",
+          "Az Universidad Laboral felé vezető út biztonságos, sík terepen halad."
+        ],
+        "ro": [
+          "Promenada de pe plajă are o pistă de biciclete separată și bine marcată.",
+          "În Cimavilla, spațiul trebuie adesea împărțit cu pietonii.",
+          "Încuie-ți mereu bine bicicleta, mai ales lângă plajă.",
+          "Traseul către Universidad Laboral trece pe străzi sigure, plate."
+        ],
+        "en": [
+          "The beach promenade has its own well-marked bike lane.",
+          "In Cimavilla, you often have to share the space with pedestrians.",
+          "Always lock your bike securely, especially near the beach.",
+          "The route to Universidad Laboral goes over safe, flat roads."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 15.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Cimavilla",
+          "coords": [
+            -5.6611,
+            43.5451
+          ],
+          "category": "old-town",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie außerhalb des Zentrums und gehen Sie zu Fuß in die Altstadt.",
+            "hu": "Parkoljon le a központon kívül, és sétáljon be az óvárosba.",
+            "ro": "Parchează în afara centrului și mergi pe jos spre orașul vechi.",
+            "en": "Park outside the center and walk into the old town."
+          }
+        },
+        {
+          "name": "Termas Romanas",
+          "coords": [
+            -5.6628,
+            43.5448
+          ],
+          "category": "museum",
+          "arrive_at": "10:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Bäder befinden sich direkt am Rand von Cimavilla.",
+            "hu": "A fürdők közvetlenül Cimavilla szélén találhatók.",
+            "ro": "Băile se află chiar la marginea cartierului Cimavilla.",
+            "en": "The baths are located right on the edge of Cimavilla."
+          }
+        },
+        {
+          "name": "Elogio del Horizonte",
+          "coords": [
+            -5.6615,
+            43.5485
+          ],
+          "category": "monument",
+          "arrive_at": "11:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Blick über das Kantabrische Meer.",
+            "hu": "Élvezze a tágas kilátást a Kantábriai-tengerre.",
+            "ro": "Bucură-te de vederea panoramică asupra Mării Cantabrice.",
+            "en": "Enjoy the expansive view over the Cantabrian Sea."
+          }
+        },
+        {
+          "name": "Universidad Laboral",
+          "coords": [
+            -5.6186,
+            43.524
+          ],
+          "category": "cultural centre",
+          "arrive_at": "11:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein riesiger Komplex mit tollen Parkmöglichkeiten direkt vor Ort.",
+            "hu": "Hatalmas komplexum nagyszerű parkolási lehetőségekkel a helyszínen.",
+            "ro": "Un complex imens, cu opțiuni excelente de parcare la fața locului.",
+            "en": "A huge complex with great parking facilities right on site."
+          }
+        },
+        {
+          "name": "Jardín Botánico Atlántico",
+          "coords": [
+            -5.6146,
+            43.5218
+          ],
+          "category": "natural feature",
+          "arrive_at": "13:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto stehen und spazieren Sie zum nahegelegenen Garten.",
+            "hu": "Hagyja az autót, és sétáljon át a közeli botanikus kertbe.",
+            "ro": "Lasă mașina și plimbă-te până la grădina botanică din apropiere.",
+            "en": "Leave the car and walk over to the nearby botanical garden."
+          }
+        },
+        {
+          "name": "Playa de San Lorenzo",
+          "coords": [
+            -5.654,
+            43.541
+          ],
+          "category": "beach",
+          "arrive_at": "15:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zurück in die Stadt, um den Nachmittag am Strand ausklingen zu lassen.",
+            "hu": "Vezessen vissza a városba, hogy a tengerparton zárja a délutánt.",
+            "ro": "Condu înapoi în oraș pentru a-ți încheia după-amiaza pe plajă.",
+            "en": "Drive back to the city to finish off the afternoon on the beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir teilen den Tag in klare Cluster auf: Am Vormittag erkunden wir den Stadtkern und die historische Halbinsel Cimavilla bequem zu Fuß. Gegen Mittag bringt uns das Auto in wenigen Minuten hinaus zur monumentalen Universidad Laboral und dem wunderschönen botanischen Garten, wo wir ohne Parkplatzsorgen flanieren können. Am späten Nachmittag fahren wir zurück an den Strand, um den Tag gemütlich ausklingen zu lassen.",
+        "hu": "A napot egyértelmű klaszterekre bontjuk: délelőtt gyalogosan fedezzük fel a belvárost és a történelmi Cimavilla félszigetet. Délben az autó percek alatt elvisz minket a monumentális Universidad Laboralhoz és a gyönyörű botanikus kerthez, ahol parkolási gondok nélkül sétálhatunk. Késő délután visszatérünk a strandra egy kellemes kikapcsolódásra.",
+        "ro": "Împărțim ziua în grupuri clare: dimineața explorăm la pas centrul orașului și peninsula istorică Cimavilla. La prânz, mașina ne duce în câteva minute la monumentala Universidad Laboral și la frumoasa grădină botanică, unde ne putem plimba fără grija parcării. Spre sfârșitul după-amiezii, ne întoarcem la plajă pentru a ne relaxa.",
+        "en": "We divide the day into clear clusters: in the morning, we explore the city center and the historical Cimavilla peninsula on foot. By noon, the car takes us out in a few minutes to the monumental Universidad Laboral and the beautiful botanical garden, where we can stroll without parking worries. In the late afternoon, we drive back to the beach to wind down the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pastel de Cabracho",
+            "tip": "Eine herzhafte Fischpastete, die gut als Vorspeise taugt."
+          },
+          {
+            "name": "Sidra",
+            "tip": "Denken Sie daran: Wer fährt, trinkt Wasser statt Sidra!"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pastel de Cabracho",
+            "tip": "Egy sós halpástétom, amely kiváló előételnek."
+          },
+          {
+            "name": "Sidra",
+            "tip": "Ne feledje: aki vezet, vizet igyon almabor helyett!"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pastel de Cabracho",
+            "tip": "Un pateu savuros de pește, excelent ca antreu."
+          },
+          {
+            "name": "Sidra",
+            "tip": "Reține: cine conduce, bea apă în loc de cidru!"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pastel de Cabracho",
+            "tip": "A savory fish pâté that serves well as a starter."
+          },
+          {
+            "name": "Sidra",
+            "tip": "Remember: whoever is driving drinks water instead of cider!"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardín Botánico Atlántico",
+            "tip": "Viel Platz, um Ruhe zwischen dichten Baumgruppen zu finden.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardín Botánico Atlántico",
+            "tip": "Bőven van hely, hogy csendet találjunk a sűrű fák között.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardín Botánico Atlántico",
+            "tip": "Spațiu din plin pentru a găsi liniște printre copacii deși.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardín Botánico Atlántico",
+            "tip": "Plenty of space to find quiet among dense clusters of trees.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Centro Comercial Los Fresnos",
+            "tip": "Ein großes Einkaufszentrum mit eigener Tiefgarage."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Centro Comercial Los Fresnos",
+            "tip": "Nagy bevásárlóközpont saját mélygarázzsal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centro Comercial Los Fresnos",
+            "tip": "Un centru comercial mare, cu parcare subterană proprie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Centro Comercial Los Fresnos",
+            "tip": "A large shopping mall with its own underground parking."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Lassen Sie in Cimavilla das Auto stehen, die Gassen sind teils gesperrt.",
+          "Parken Sie für die Universität am besten direkt auf dem Großparkplatz.",
+          "Mittags herrscht um die Strände oft viel Verkehr, planen Sie Puffer ein.",
+          "Eine Fahrt ins Grüne bietet einen tollen Kontrast zum Altstadtrummel."
+        ],
+        "hu": [
+          "Cimavillában hagyja az autót, az utcák egy része le van zárva.",
+          "Az egyetemnél a legjobb közvetlenül a nagy parkolóban megállni.",
+          "Délben a strandok környékén nagy a forgalom, számoljon némi tartalékidővel.",
+          "A zöldbe tett kirándulás remek kontrasztja az óvárosi nyüzsgésnek."
+        ],
+        "ro": [
+          "Lasă mașina în afara zonei Cimavilla, unele străzi sunt închise.",
+          "Pentru universitate, cel mai bine este să parchezi direct în parcarea mare.",
+          "La prânz este adesea trafic intens în jurul plajelor, alocă timp suplimentar.",
+          "O plimbare în natură oferă un contrast grozav cu agitația din orașul vechi."
+        ],
+        "en": [
+          "Leave the car outside Cimavilla; some streets are closed to traffic.",
+          "For the university, it is best to park directly in the large lot.",
+          "Traffic around the beaches is often heavy at noon, so allow extra time.",
+          "A drive into the greenery offers a great contrast to the old town bustle."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:59",
+      "total_km": 4.1,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": "Museo del Ferrocarril",
+          "coords": [
+            -5.6725,
+            43.5401
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Starten Sie im Westen der Stadt, gut erreichbar mit mehreren Buslinien.",
+            "hu": "Induljon a város nyugati részén, ahová több buszjárat is kényelmesen elviszi.",
+            "ro": "Începe în vestul orașului, ușor accesibil cu mai multe linii de autobuz.",
+            "en": "Start in the west of the city, easily accessible by several bus routes."
+          }
+        },
+        {
+          "name": "Acuario de Gijón",
+          "coords": [
+            -5.6748,
+            43.5422
+          ],
+          "category": "natural feature",
+          "arrive_at": "10:26",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang vom Museum entfernt direkt am Poniente-Strand.",
+            "hu": "Csak egy rövid sétára a múzeumtól, közvetlenül a Poniente strandon.",
+            "ro": "La o scurtă plimbare de muzeu, chiar pe plaja Poniente.",
+            "en": "Just a short walk from the museum right on Poniente beach."
+          }
+        },
+        {
+          "name": "Cimavilla",
+          "coords": [
+            -5.6611,
+            43.5451
+          ],
+          "category": "old-town",
+          "arrive_at": "12:11",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus ins Zentrum, um lange Fußmärsche zu vermeiden.",
+            "hu": "Buszozzon be a központba, hogy elkerülje a hosszú sétákat.",
+            "ro": "Ia autobuzul spre centru pentru a evita mersul lung pe jos.",
+            "en": "Take the bus into the center to avoid long walks."
+          }
+        },
+        {
+          "name": "Elogio del Horizonte",
+          "coords": [
+            -5.6615,
+            43.5485
+          ],
+          "category": "monument",
+          "arrive_at": "13:31",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang über die Halbinsel bringt Sie zu diesem Aussichtspunkt.",
+            "hu": "Egy kellemes séta a félszigeten elvezet ehhez a kilátóponthoz.",
+            "ro": "O plimbare plăcută pe peninsulă te duce la acest punct de belvedere.",
+            "en": "A pleasant walk across the peninsula takes you to this viewpoint."
+          }
+        },
+        {
+          "name": "Playa de San Lorenzo",
+          "coords": [
+            -5.654,
+            43.541
+          ],
+          "category": "beach",
+          "arrive_at": "14:19",
+          "stay_min": 100,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Strand schließt sich direkt an die Altstadt an.",
+            "hu": "A strand közvetlenül csatlakozik az óvároshoz.",
+            "ro": "Plaja se conectează direct la orașul vechi.",
+            "en": "The beach connects right to the old town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir nutzen die städtischen Busse geschickt, um die größeren Distanzen zu überbrücken. Am Morgen entdecken wir den modernen Westen mit Museum und Aquarium. Danach lassen wir uns per Bus direkt in das Herz der Altstadt fahren. Den Nachmittag verbringen wir entspannt, spazieren über die grüne Spitze von Cimavilla und enden an der belebten Promenade von San Lorenzo.",
+        "hu": "Okosan használjuk a városi buszokat a nagyobb távolságok áthidalására. Reggel a modern nyugati részt fedezzük fel a múzeummal és az akváriummal. Utána busszal egyenesen az óváros szívébe utazunk. A délutánt pihentető sétával töltjük Cimavilla zöldellő csúcsán, és a San Lorenzo nyüzsgő sétányán fejezzük be.",
+        "ro": "Folosim inteligent autobuzele urbane pentru a acoperi distanțele mai mari. Dimineața descoperim vestul modern, cu muzeul și acvariul. Apoi luăm autobuzul direct în inima orașului vechi. Ne petrecem după-amiaza relaxat, plimbându-ne peste vârful verde al cartierului Cimavilla și terminând pe aglomerata promenadă San Lorenzo.",
+        "en": "We cleverly use city buses to bridge the larger distances. In the morning, we discover the modern west with the museum and aquarium. Then we take a bus directly into the heart of the old town. We spend the afternoon relaxed, walking across the green tip of Cimavilla and ending on the lively promenade of San Lorenzo."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Schneller Snack für unterwegs am Strand."
+          },
+          {
+            "name": "Sidra",
+            "tip": "Probieren Sie sie in einer der Sidrerías nahe den Bushaltestellen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Gyors tintahalas szendvics útközben a tengerparton."
+          },
+          {
+            "name": "Sidra",
+            "tip": "Kóstolja meg az egyik buszmegálló közeli sidreriában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "O gustare rapidă pentru drum la plajă."
+          },
+          {
+            "name": "Sidra",
+            "tip": "Încearcă-l într-una din sidreriile de lângă stațiile de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Quick calamari sandwich snack on the go at the beach."
+          },
+          {
+            "name": "Sidra",
+            "tip": "Try it in one of the sidrerías near the bus stops."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Poniente Strandpromenade",
+            "tip": "Am Morgen noch herrlich ruhig und entspannt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Poniente sétány",
+            "tip": "Reggel még csodálatosan csendes és pihentető.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada Poniente",
+            "tip": "Dimineața este încă minunat de liniștită și relaxantă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Poniente Promenade",
+            "tip": "Still wonderfully quiet and relaxing in the morning.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Barrio del Carmen",
+            "tip": "Kleines Viertel mit traditionellen Geschäften und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Barrio del Carmen",
+            "tip": "Kis negyed hagyományos üzletekkel és szuvenírekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Barrio del Carmen",
+            "tip": "Un cartier mic cu magazine tradiționale și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Barrio del Carmen",
+            "tip": "Small neighborhood with traditional shops and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die lokalen Busse sind günstig und fahren regelmäßig.",
+          "Kaufen Sie am besten eine Mehrfahrtenkarte, wenn Sie den ganzen Tag unterwegs sind.",
+          "Die Fußwege im Zentrum sind kurz und gut ausgebaut.",
+          "Achten Sie auf die Abfahrtszeiten, besonders am späten Nachmittag."
+        ],
+        "hu": [
+          "A helyi buszok olcsók és rendszeresen járnak.",
+          "A legjobb egy többutas jegyet venni, ha egész nap úton van.",
+          "A belvárosban a sétautak rövidek és jól kiépítettek.",
+          "Figyeljen az indulási időkre, különösen késő délután."
+        ],
+        "ro": [
+          "Autobuzele locale sunt ieftine și circulă regulat.",
+          "Cel mai bine este să cumperi un bilet cu mai multe călătorii dacă ești pe drum toată ziua.",
+          "Traseele pietonale din centru sunt scurte și bine dezvoltate.",
+          "Fii atent la orele de plecare, în special spre sfârșitul după-amiezii."
+        ],
+        "en": [
+          "The local buses are cheap and run regularly.",
+          "It is best to buy a multi-trip ticket if you are traveling all day.",
+          "Pedestrian paths in the center are short and well-developed.",
+          "Pay attention to departure times, especially in the late afternoon."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1405 @@
+{
+  "city_id": "czechrepublic-valasske-mezirici-cities-v2",
+  "anchor": {
+    "name": "Wallachisch Meseritsch",
+    "coords": [
+      17.9714,
+      49.4714
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtplatz",
+            "hu": "Főtér",
+            "ro": "Piața centrală",
+            "en": "Main Square"
+          },
+          "coords": [
+            17.9716,
+            49.4715
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historischen Bürgerhäuser, die den Platz säumen.",
+            "hu": "Csodálja meg a teret szegélyező történelmi polgárházakat!",
+            "ro": "Admirați casele istorice burgheze care înconjoară piața.",
+            "en": "Admire the historic townhouses that line the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Himmelfahrt",
+            "hu": "Nagyboldogasszony-templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Assumption of the Virgin Mary"
+          },
+          "coords": [
+            17.9708,
+            49.4725
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Suchen Sie nach dem barocken Hauptaltar und den kunstvollen Deckenfresken.",
+            "hu": "Keresse meg a barokk főoltárt és a díszes mennyezeti freskókat!",
+            "ro": "Căutați altarul principal baroc și frescele elaborate de pe tavan.",
+            "en": "Look for the Baroque main altar and the ornate ceiling frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Žerotín",
+            "hu": "Žerotín-kastély",
+            "ro": "Castelul Žerotín",
+            "en": "Žerotín Chateau"
+          },
+          "coords": [
+            17.973,
+            49.474
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Heute ein Kulturzentrum. Prüfen Sie, ob gerade eine Veranstaltung stattfindet.",
+            "hu": "Ma kulturális központ. Nézze meg, van-e éppen valamilyen rendezvény!",
+            "ro": "Astăzi este un centru cultural. Verificați dacă are loc un eveniment.",
+            "en": "Now a cultural center. Check if there's an event happening."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Walachei",
+            "hu": "Valach Múzeum",
+            "ro": "Muzeul Valahiei",
+            "en": "Museum of the Wallachian Region"
+          },
+          "coords": [
+            17.9695,
+            49.4761
+          ],
+          "category": "museums",
+          "arrive_at": "12:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Fokus auf die Gobelin- und Glasherstellung, die für die Region berühmt ist.",
+            "hu": "Koncentráljon a régióban híres gobelin- és üvegkészítésre!",
+            "ro": "Concentrați-vă pe tapiserie și producția de sticlă, renumite în regiune.",
+            "en": "Focus on the tapestry and glass manufacturing famous in the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Kinský",
+            "hu": "Kinský-kastély",
+            "ro": "Castelul Kinský",
+            "en": "Kinský Chateau"
+          },
+          "coords": [
+            17.968,
+            49.4755
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:55",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beherbergt einen Teil des Museums und ist von einem schönen Park umgeben.",
+            "hu": "A múzeum egy részének ad otthont, és egy szép park veszi körül.",
+            "ro": "Găzduiește o parte a muzeului și este înconjurat de un parc frumos.",
+            "en": "Houses part of the museum and is surrounded by a beautiful park."
+          }
+        },
+        {
+          "name": {
+            "de": "Dreifaltigkeitskirche",
+            "hu": "Szentháromság-templom",
+            "ro": "Biserica Sfânta Treime",
+            "en": "Church of the Holy Trinity"
+          },
+          "coords": [
+            17.976,
+            49.468
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:23",
+          "stay_min": 35,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Ein kleineres, aber stimmungsvolles Gotteshaus abseits der Hauptwege.",
+            "hu": "Egy kisebb, de hangulatos templom a fő útvonalaktól távolabb.",
+            "ro": "O biserică mai mică, dar plină de atmosferă, departe de căile principale.",
+            "en": "A smaller but atmospheric church away from the main paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Sternwarte",
+            "hu": "Csillagvizsgáló",
+            "ro": "Observatorul astronomic",
+            "en": "Observatory"
+          },
+          "coords": [
+            17.965,
+            49.48
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "16:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Prüfen Sie die Öffnungszeiten für öffentliche Beobachtungen am Abend.",
+            "hu": "Ellenőrizze a nyilvános esti megfigyelések nyitvatartási idejét!",
+            "ro": "Verificați programul pentru observații publice de seară.",
+            "en": "Check the opening hours for public evening viewings."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem lebhaften Stadtplatz, umgeben von farbenfrohen Fassaden. Am Vormittag erkunden Sie die spirituelle Ruhe der Himmelfahrtskirche und die kulturelle Bedeutung des Žerotín-Schlosses. Der Nachmittag ist der reichen Geschichte der Region im Walachischen Museum und im Kinský-Schloss gewidmet. Beenden Sie Ihre Tour mit einem stillen Moment in der Dreifaltigkeitskirche und einem Blick zu den Sternen in der örtlichen Sternwarte.",
+        "hu": "Indítsa a napot a nyüzsgő Főtéren, színes homlokzatokkal körülvéve. Délelőtt fedezze fel a Nagyboldogasszony-templom spirituális nyugalmát és a Žerotín-kastély kulturális központját. A délután a régió gazdag történelméről szól a Valach Múzeumban és a Kinský-kastélyban. Zárja a túrát egy csendes pillanattal a Szentháromság-templomban és egy pillantással a csillagokra a helyi csillagvizsgálóban.",
+        "ro": "Începeți ziua în Piața centrală plină de viață, înconjurat de fațade colorate. În cursul dimineții, explorați liniștea spirituală a Bisericii Adormirea Maicii Domnului și centrul cultural din Castelul Žerotín. După-amiaza este dedicată istoriei bogate a regiunii la Muzeul Valahiei și Castelul Kinský. Încheiați turul cu un moment de liniște la Biserica Sfânta Treime și o privire spre stele la observatorul local.",
+        "en": "Start your day in the lively Main Square, surrounded by colorful facades. In the morning, explore the spiritual tranquility of the Church of the Assumption and the cultural hub at Žerotín Chateau. The afternoon is dedicated to the region's rich history at the Wallachian Museum and Kinský Chateau. End your tour with a quiet moment at the Holy Trinity Church and a gaze towards the stars at the local observatory."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Valašská kyselice",
+            "tip": "Eine traditionelle Sauerkrautsuppe mit Wurst, typisch für die Region."
+          },
+          {
+            "name": "Štramberské uši",
+            "tip": "Ein Lebkuchengebäck in Form von Ohren, eine lokale Spezialität."
+          },
+          {
+            "name": "Restaurant U Zvonu",
+            "tip": "Bekannt für seine authentische tschechische und walachische Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Valašská kyselice",
+            "tip": "Hagyományos savanyúkáposzta-leves kolbásszal, a régióra jellemző."
+          },
+          {
+            "name": "Štramberki fül",
+            "tip": "Fülek formájú mézeskalács sütemény, helyi különlegesség."
+          },
+          {
+            "name": "U Zvonu Étterem",
+            "tip": "Híres az autentikus cseh és valach konyhájáról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Valašská kyselice",
+            "tip": "O supă tradițională de varză acră cu cârnați, specifică regiunii."
+          },
+          {
+            "name": "Urechi de Štramberk",
+            "tip": "Un fursec de turtă dulce în formă de urechi, o specialitate locală."
+          },
+          {
+            "name": "Restaurant U Zvonu",
+            "tip": "Renumit pentru bucătăria sa autentică cehă și valahă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Valašská kyselice",
+            "tip": "A traditional sauerkraut soup with sausage, typical for the region."
+          },
+          {
+            "name": "Štramberk Ears",
+            "tip": "A gingerbread cookie shaped like ears, a local specialty."
+          },
+          {
+            "name": "Restaurant U Zvonu",
+            "tip": "Known for its authentic Czech and Wallachian cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park am Schloss Kinský",
+            "tip": "Ein ruhiger Ort für einen Spaziergang nach dem Museumsbesuch.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer der Rožnovská Bečva",
+            "tip": "Finden Sie eine Bank am Fluss und beobachten Sie das Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Blick von der Sternwarte",
+            "tip": "Auch tagsüber ein schöner, ruhiger Aussichtspunkt über die Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Kinský-kastély parkja",
+            "tip": "Csendes hely egy sétára a múzeumlátogatás után.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Rožnovská Bečva folyó partja",
+            "tip": "Keressen egy padot a folyóparton, és nézze a vizet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a csillagvizsgálóból",
+            "tip": "Nappal is szép, csendes kilátópont a városra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul de la Castelul Kinský",
+            "tip": "Un loc liniștit pentru o plimbare după vizitarea muzeului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malurile râului Rožnovská Bečva",
+            "tip": "Găsiți o bancă pe malul râului și priviți apa.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere de la Observator",
+            "tip": "Chiar și în timpul zilei, un punct de belvedere frumos și liniștit asupra orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Park at Kinský Chateau",
+            "tip": "A quiet place for a walk after the museum visit.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the Rožnovská Bečva River",
+            "tip": "Find a bench by the river and watch the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from the Observatory",
+            "tip": "Even during the day, a nice, quiet viewpoint over the city.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerkskunst",
+            "tip": "Suchen Sie nach handgemachten Holzspielzeugen oder bestickten Textilien."
+          },
+          {
+            "name": "Mährische Weine",
+            "tip": "Obwohl keine Weinregion, finden Sie Geschäfte, die Weine aus Südmähren anbieten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen kézzel készített fajátékokat vagy hímzett textíliákat."
+          },
+          {
+            "name": "Morva borok",
+            "tip": "Bár nem borvidék, találhat üzleteket, amelyek dél-morvaországi borokat kínálnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați jucării din lemn lucrate manual sau textile brodate."
+          },
+          {
+            "name": "Vinuri din Moravia",
+            "tip": "Deși nu este o regiune viticolă, veți găsi magazine care oferă vinuri din Moravia de Sud."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local crafts",
+            "tip": "Look for handmade wooden toys or embroidered textiles."
+          },
+          {
+            "name": "Moravian wines",
+            "tip": "Although not a wine region, you can find shops offering wines from South Moravia."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten liegen nahe beieinander, ein Spaziergang ist die beste Art, die Stadt zu erkunden.",
+          "Nehmen Sie sich Zeit, um in einem der Cafés am Hauptplatz einen Kaffee zu trinken."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óvárosi macskakő egyenetlen lehet.",
+          "A legtöbb látnivaló közel van egymáshoz, a séta a legjobb módja a város felfedezésének.",
+          "Szánjon időt egy kávéra a főtéri kávézók egyikében."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din centrul vechi poate fi denivelat.",
+          "Majoritatea atracțiilor sunt apropiate una de cealaltă, plimbarea fiind cel mai bun mod de a explora orașul.",
+          "Luați-vă timp să savurați o cafea la una dintre cafenelele din piața principală."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Most sights are close to each other, walking is the best way to explore the city.",
+          "Take time to have a coffee in one of the cafes on the main square."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtplatz",
+            "hu": "Főtér",
+            "ro": "Piața centrală",
+            "en": "Main Square"
+          },
+          "coords": [
+            17.9716,
+            49.4715
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und schlendern Sie über den Platz.",
+            "hu": "Zárja le a biciklijét, és sétáljon körbe a téren.",
+            "ro": "Încuietoarea bicicletei și plimbați-vă prin piață.",
+            "en": "Lock up your bike and stroll across the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Žerotín",
+            "hu": "Žerotín-kastély",
+            "ro": "Castelul Žerotín",
+            "en": "Žerotín Chateau"
+          },
+          "coords": [
+            17.973,
+            49.474
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der Innenhof ist oft für Radfahrer zugänglich.",
+            "hu": "Az udvar gyakran nyitva áll a kerékpárosok előtt.",
+            "ro": "Curtea este adesea accesibilă bicicliștilor.",
+            "en": "The courtyard is often accessible to cyclists."
+          }
+        },
+        {
+          "name": {
+            "de": "Schüttboden (Sýpka)",
+            "hu": "Magtár (Sýpka)",
+            "ro": "Hambarul (Sýpka)",
+            "en": "The Granary (Sýpka)"
+          },
+          "coords": [
+            17.9755,
+            49.473
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:38",
+          "stay_min": 20,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein alter Getreidespeicher, der heute für Ausstellungen genutzt wird. Werfen Sie einen kurzen Blick hinein.",
+            "hu": "Egy régi magtár, ma kiállításoknak ad otthont. Vessen rá egy pillantást!",
+            "ro": "Un vechi hambar folosit acum pentru expoziții. Aruncați o privire rapidă înăuntru.",
+            "en": "An old granary now used for exhibitions. Take a quick look inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Walachei & Schloss Kinský",
+            "hu": "Valach Múzeum & Kinský-kastély",
+            "ro": "Muzeul Valahiei & Castelul Kinský",
+            "en": "Museum of the Wallachian Region & Kinský Chateau"
+          },
+          "coords": [
+            17.968,
+            49.4755
+          ],
+          "category": "museums",
+          "arrive_at": "11:06",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Kombinieren Sie beide Orte, da sie direkt nebeneinander liegen.",
+            "hu": "Kombinálja a két helyszínt, mivel közvetlenül egymás mellett vannak.",
+            "ro": "Combinați ambele locații, deoarece sunt chiar una lângă alta.",
+            "en": "Combine both sites as they are right next to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Himmelfahrt",
+            "hu": "Nagyboldogasszony-templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Assumption of the Virgin Mary"
+          },
+          "coords": [
+            17.9708,
+            49.4725
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:11",
+          "stay_min": 35,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Eine kurze Pause, um die beeindruckende Architektur zu bewundern.",
+            "hu": "Egy rövid pihenő, hogy megcsodálja a lenyűgöző építészetet.",
+            "ro": "O scurtă pauză pentru a admira arhitectura impresionantă.",
+            "en": "A short break to admire the impressive architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Sternwarte",
+            "hu": "Csillagvizsgáló",
+            "ro": "Observatorul astronomic",
+            "en": "Observatory"
+          },
+          "coords": [
+            17.965,
+            49.48
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "13:58",
+          "stay_min": 45,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Der Anstieg lohnt sich für die Aussicht. Oben gibt es einen Platz zum Ausruhen.",
+            "hu": "Megéri feltekerni a kilátásért. Fent van egy hely a pihenésre.",
+            "ro": "Urcarea merită pentru priveliște. Există un loc de odihnă în vârf.",
+            "en": "The climb is worth it for the view. There's a place to rest at the top."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel und beginnen Sie am Stadtplatz. Eine kurze Fahrt bringt Sie zum Žerotín-Schloss und dem umgebauten Sýpka-Speicher. Gegen Mittag tauchen Sie in die Kultur im Walachischen Museum ein. Nach dem Mittagessen machen Sie eine andächtige Pause an der Himmelfahrtskirche, bevor Sie den Tag mit einer leichten Herausforderung und einer lohnenden Aussicht an der Sternwarte abschließen.",
+        "hu": "Pattanjon nyeregbe, és kezdjen a Főtéren! Egy rövid tekerés elviszi a Žerotín-kastélyhoz és az átalakított Sýpka magtárhoz. Dél körül merüljön el a kultúrában a Valach Múzeumban. Ebéd után tartson egy áhítatos szünetet a Nagyboldogasszony-templomnál, mielőtt egy könnyű kihívással és egy jutalmazó kilátással zárja a napot a csillagvizsgálónál.",
+        "ro": "Urcați-vă pe bicicletă și porniți din Piața centrală. O scurtă plimbare vă duce la Castelul Žerotín și la hambarul renovat Sýpka. În jurul prânzului, scufundați-vă în cultură la Muzeul Valahiei. După prânz, faceți o pauză pioasă la Biserica Adormirea Maicii Domnului înainte de a încheia ziua cu o provocare ușoară și o priveliște plină de satisfacții la Observator.",
+        "en": "Hop on your bike and start at the Main Square. A short ride takes you to Žerotín Chateau and the converted Sýpka Granary. Around noon, dive into culture at the Wallachian Museum. After lunch, take a reverent break at the Church of the Assumption before finishing the day with a slight challenge and a rewarding view at the Observatory."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pivní bar U Černého medvěda",
+            "tip": "Ein guter Ort für ein lokales Bier und eine herzhafte Mahlzeit."
+          },
+          {
+            "name": "Valašský frgál",
+            "tip": "Ein großer, dünner Kuchen mit verschiedenen Füllungen, perfekt für einen Energieschub."
+          },
+          {
+            "name": "Klobása",
+            "tip": "Probieren Sie eine gegrillte Wurst von einem lokalen Stand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pivní bar U Černého medvěda",
+            "tip": "Jó hely egy helyi sörre és egy kiadós ételre."
+          },
+          {
+            "name": "Valašský frgál",
+            "tip": "Nagy, vékony pite különféle töltelékekkel, tökéletes energiafeltöltéshez."
+          },
+          {
+            "name": "Klobása",
+            "tip": "Kóstoljon meg egy grillezett kolbászt egy helyi standnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pivní bar U Černého medvěda",
+            "tip": "Un loc bun pentru o bere locală și o masă copioasă."
+          },
+          {
+            "name": "Valašský frgál",
+            "tip": "O plăcintă mare și subțire cu diverse umpluturi, perfectă pentru un plus de energie."
+          },
+          {
+            "name": "Klobása",
+            "tip": "Încercați un cârnat la grătar de la o tarabă locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pivní bar U Černého medvěda",
+            "tip": "A good spot for a local beer and a hearty meal."
+          },
+          {
+            "name": "Valašský frgál",
+            "tip": "A large, thin pie with various fillings, perfect for an energy boost."
+          },
+          {
+            "name": "Klobása",
+            "tip": "Try a grilled sausage from a local stand."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg entlang der Bečva",
+            "tip": "Folgen Sie dem Fluss für eine entspannte Fahrt abseits des Stadtzentrums.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park am Schloss Kinský",
+            "tip": "Ein idealer Ort für eine Pause im Grünen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hügel der Sternwarte",
+            "tip": "Auch wenn Sie nicht hineingehen, ist die Umgebung friedlich.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Bečva mentén",
+            "tip": "Kövesse a folyót egy pihentető tekerésért a városközponton kívül.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Kinský-kastély parkja",
+            "tip": "Ideális hely egy szünetre a zöldben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A csillagvizsgáló dombja",
+            "tip": "Még ha nem is megy be, a környék békés.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul râului Bečva",
+            "tip": "Urmați râul pentru o plimbare relaxantă departe de centrul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul de la Castelul Kinský",
+            "tip": "Un loc ideal pentru o pauză în natură.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dealul Observatorului",
+            "tip": "Chiar dacă nu intrați, zona înconjurătoare este pașnică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike path along the Bečva River",
+            "tip": "Follow the river for a relaxing ride away from the city center.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park at Kinský Chateau",
+            "tip": "An ideal place for a break in the green.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Observatory Hill",
+            "tip": "Even if you don't go inside, the surrounding area is peaceful.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Falls Sie Zubehör oder eine schnelle Reparatur benötigen."
+          },
+          {
+            "name": "Bauernmarkt",
+            "tip": "Halten Sie Ausschau nach einem Markt für frische, lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Ha kiegészítőkre vagy gyors javításra van szüksége."
+          },
+          {
+            "name": "Termelői piac",
+            "tip": "Keressen egy piacot friss, helyi termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "În caz că aveți nevoie de accesorii sau de o reparație rapidă."
+          },
+          {
+            "name": "Piața agricolă",
+            "tip": "Fiți atenți la o piață pentru produse proaspete, locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shops",
+            "tip": "In case you need any accessories or a quick repair."
+          },
+          {
+            "name": "Farmers' market",
+            "tip": "Look out for a market for fresh, local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Einige Straßen im Zentrum haben Kopfsteinpflaster, fahren Sie dort vorsichtig.",
+          "Die Stadt ist relativ flach, aber der Anstieg zur Sternwarte erfordert etwas Anstrengung.",
+          "Nutzen Sie die Radwege entlang des Flusses für eine angenehme Fahrt."
+        ],
+        "hu": [
+          "Néhány belvárosi utca macskaköves, ott óvatosan közlekedjen.",
+          "A város viszonylag sík, de a csillagvizsgálóhoz való emelkedő némi erőfeszítést igényel.",
+          "Használja a folyó menti kerékpárutakat egy kellemes tekeréshez."
+        ],
+        "ro": [
+          "Unele străzi din centru au pavaj, conduceți cu atenție acolo.",
+          "Orașul este relativ plat, dar urcarea la Observator necesită puțin efort.",
+          "Folosiți pistele de biciclete de-a lungul râului pentru o plimbare plăcută."
+        ],
+        "en": [
+          "Some streets in the center are cobblestoned, ride carefully there.",
+          "The city is relatively flat, but the climb to the observatory requires some effort.",
+          "Use the bike paths along the river for a pleasant ride."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum & Stadtplatz",
+            "hu": "Parkoló a központban és Főtér",
+            "ro": "Parcare centrală & Piața centrală",
+            "en": "Central Parking & Main Square"
+          },
+          "coords": [
+            17.972,
+            49.471
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier für den ersten Cluster. Der Platz ist nur wenige Schritte entfernt.",
+            "hu": "Parkoljon itt az első látnivalócsoporthoz. A tér csak pár lépés.",
+            "ro": "Parcați aici pentru primul grup de atracții. Piața este la câțiva pași.",
+            "en": "Park here for the first cluster. The square is a few steps away."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Himmelfahrt",
+            "hu": "Nagyboldogasszony-templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Assumption of the Virgin Mary"
+          },
+          "coords": [
+            17.9708,
+            49.4725
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:37",
+          "stay_min": 35,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz durch die historischen Gassen.",
+            "hu": "Rövid séta a Főtérről a történelmi sikátorokon keresztül.",
+            "ro": "O scurtă plimbare de la piața principală pe aleile istorice.",
+            "en": "A short walk from the main square through the historic alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Žerotín",
+            "hu": "Žerotín-kastély",
+            "ro": "Castelul Žerotín",
+            "en": "Žerotín Chateau"
+          },
+          "coords": [
+            17.973,
+            49.474
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:18",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Vom selben Parkplatz aus leicht zu Fuß erreichbar.",
+            "hu": "Könnyen megközelíthető gyalog ugyanarról a parkolóról.",
+            "ro": "Ușor de ajuns pe jos din aceeași parcare.",
+            "en": "Easily reachable on foot from the same parking spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Walachei & Schloss Kinský",
+            "hu": "Valach Múzeum & Kinský-kastély",
+            "ro": "Muzeul Valahiei & Castelul Kinský",
+            "en": "Museum of the Wallachian Region & Kinský Chateau"
+          },
+          "coords": [
+            17.968,
+            49.4755
+          ],
+          "category": "museums",
+          "arrive_at": "11:43",
+          "stay_min": 150,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum zweiten Cluster. Es gibt Parkplätze in der Nähe des Schlossparks.",
+            "hu": "Vezessen a második látnivalócsoporthoz. A kastélypark közelében van parkoló.",
+            "ro": "Conduceți la al doilea grup de atracții. Există parcare lângă parcul castelului.",
+            "en": "Drive to the second cluster. There's parking near the chateau park."
+          }
+        },
+        {
+          "name": {
+            "de": "Dreifaltigkeitskirche",
+            "hu": "Szentháromság-templom",
+            "ro": "Biserica Sfânta Treime",
+            "en": "Church of the Holy Trinity"
+          },
+          "coords": [
+            17.976,
+            49.468
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:30",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Vom Kinský-Schloss aus ein längerer Spaziergang oder eine sehr kurze Autofahrt.",
+            "hu": "A Kinský-kastélytól egy hosszabb séta vagy egy nagyon rövid autóút.",
+            "ro": "O plimbare mai lungă sau o călătorie foarte scurtă cu mașina de la Castelul Kinský.",
+            "en": "A longer walk or a very short drive from Kinský Chateau."
+          }
+        },
+        {
+          "name": {
+            "de": "Sternwarte",
+            "hu": "Csillagvizsgáló",
+            "ro": "Observatorul astronomic",
+            "en": "Observatory"
+          },
+          "coords": [
+            17.965,
+            49.48
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "15:15",
+          "stay_min": 50,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum letzten Ziel des Tages. Der Panoramablick ist die Fahrt wert.",
+            "hu": "Vezessen a nap utolsó állomásához. A panoráma megéri az utat.",
+            "ro": "Conduceți la ultima destinație a zilei. Vederea panoramică merită călătoria.",
+            "en": "Drive to the final destination for the day. The panoramic view is worth the drive."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Parken Sie im Zentrum und erkunden Sie den ersten Cluster zu Fuß: den Stadtplatz, die Himmelfahrtskirche und das Žerotín-Schloss. Am späten Vormittag fahren Sie zum Kinský-Schloss, wo Sie das Museum besuchen und zu Mittag essen können. Nach einem Spaziergang zur Dreifaltigkeitskirche fahren Sie am Nachmittag zur Sternwarte, um einen atemberaubenden Blick über die Stadt zu genießen und den Tag ausklingen zu lassen.",
+        "hu": "Parkoljon a központban, és fedezze fel gyalog az első látnivalócsoportot: a Főteret, a Nagyboldogasszony-templomot és a Žerotín-kastélyt. Késő délelőtt vezessen át a Kinský-kastélyhoz, ahol meglátogathatja a múzeumot és ebédelhet. A Szentháromság-templomhoz tett séta után délután hajtson fel a csillagvizsgálóhoz, ahonnan lenyűgöző kilátás nyílik a városra, és zárja a napot.",
+        "ro": "Parcați în centru și explorați pe jos primul grup de atracții: Piața centrală, Biserica Adormirea Maicii Domnului și Castelul Žerotín. La sfârșitul dimineții, conduceți la Castelul Kinský pentru muzeu și prânz. După o plimbare la Biserica Sfânta Treime, călătoria de după-amiază vă duce la Observator pentru vederi panoramice ale orașului pentru a încheia ziua.",
+        "en": "Park centrally and explore the first cluster on foot: the Main Square, the Church of the Assumption, and Žerotín Chateau. Late morning, drive to the Kinský Chateau for the museum and lunch. After a walk to the Holy Trinity Church, the afternoon drive takes you to the Observatory for sweeping city views to end your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurace a penzion U Hrádku",
+            "tip": "Gute Wahl für ein Mittagessen in der Nähe des Kinský-Schlosses."
+          },
+          {
+            "name": "Slivovice",
+            "tip": "Probieren Sie den berühmten Pflaumenschnaps der Region (nicht, wenn Sie fahren!)."
+          },
+          {
+            "name": "Halušky",
+            "tip": "Obwohl slowakisch, sind diese Knödel auch hier beliebt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurace a penzion U Hrádku",
+            "tip": "Jó választás ebédre a Kinský-kastély közelében."
+          },
+          {
+            "name": "Slivovica",
+            "tip": "Kóstolja meg a régió híres szilvapálinkáját (ne, ha vezet!)."
+          },
+          {
+            "name": "Halušky",
+            "tip": "Bár szlovák étel, ezek a galuskák itt is népszerűek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurace a penzion U Hrádku",
+            "tip": "O alegere bună pentru prânz lângă Castelul Kinský."
+          },
+          {
+            "name": "Slivovitz",
+            "tip": "Încercați faimoasa țuică de prune a regiunii (nu dacă conduceți!)."
+          },
+          {
+            "name": "Halušky",
+            "tip": "Deși slovace, aceste găluște sunt populare și aici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurace a penzion U Hrádku",
+            "tip": "A good choice for lunch near the Kinský Chateau."
+          },
+          {
+            "name": "Slivovitz",
+            "tip": "Try the region's famous plum brandy (not if you're driving!)."
+          },
+          {
+            "name": "Halušky",
+            "tip": "Although Slovak, these dumplings are also popular here."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlosspark Kinský",
+            "tip": "Ein weitläufiger Park, ideal für einen ruhigen Spaziergang.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Wanderwege um die Sternwarte",
+            "tip": "Die Wälder rund um die Sternwarte bieten Ruhe und Frieden.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Am Flussufer parken",
+            "tip": "Finden Sie einen ruhigen Parkplatz am Fluss für eine kurze Pause.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kinský-kastélypark",
+            "tip": "Tágas park, ideális egy csendes sétához.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Túraútvonalak a csillagvizsgáló körül",
+            "tip": "A csillagvizsgáló körüli erdők csendet és békét kínálnak.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parkolás a folyóparton",
+            "tip": "Keressen egy csendes parkolóhelyet a folyónál egy rövid szünetre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului Kinský",
+            "tip": "Un parc extins, ideal pentru o plimbare liniștită.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Trasee montane în jurul Observatorului",
+            "tip": "Pădurile din jurul observatorului oferă liniște și pace.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcare pe malul râului",
+            "tip": "Găsiți un loc de parcare liniștit lângă râu pentru o scurtă pauză.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kinský Chateau Park",
+            "tip": "A spacious park, ideal for a quiet walk.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hiking trails around the Observatory",
+            "tip": "The woods around the observatory offer peace and quiet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parking by the river",
+            "tip": "Find a quiet parking spot by the river for a short break.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Halten Sie außerhalb der Stadt Ausschau nach Schildern für 'prodej ze dvora' (Verkauf ab Hof)."
+          },
+          {
+            "name": "Souvenirladen im Museum",
+            "tip": "Bietet oft einzigartige, handgefertigte Artikel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok",
+            "tip": "A városon kívül keresse a 'prodej ze dvora' (udvari árusítás) táblákat."
+          },
+          {
+            "name": "Ajándékbolt a múzeumban",
+            "tip": "Gyakran kínál egyedi, kézzel készített tárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine la fermă",
+            "tip": "În afara orașului, căutați semne pentru 'prodej ze dvora' (vânzare de la fermă)."
+          },
+          {
+            "name": "Magazin de suveniruri la muzeu",
+            "tip": "Oferă adesea articole unice, lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops",
+            "tip": "Outside the city, look for signs for 'prodej ze dvora' (farm gate sales)."
+          },
+          {
+            "name": "Museum gift shop",
+            "tip": "Often offers unique, handcrafted items."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken ist im Zentrum gebührenpflichtig. Halten Sie Münzen bereit.",
+          "Planen Sie Ihre Route zwischen den Clustern, um den Verkehr zur Mittagszeit zu vermeiden.",
+          "Achten Sie auf Parkbeschränkungen, besonders in der Nähe der Hauptsehenswürdigkeiten."
+        ],
+        "hu": [
+          "A parkolás a központban fizetős. Készítsen elő érméket.",
+          "Tervezze meg az útvonalat a látnivalócsoportok között, hogy elkerülje a déli forgalmat.",
+          "Figyeljen a parkolási korlátozásokra, különösen a fő látnivalók közelében."
+        ],
+        "ro": [
+          "Parcarea în centru este cu plată. Pregătiți monede.",
+          "Planificați-vă ruta între grupurile de atracții pentru a evita traficul la prânz.",
+          "Fiți atenți la restricțiile de parcare, în special în apropierea atracțiilor principale."
+        ],
+        "en": [
+          "Parking in the center is paid. Have coins ready.",
+          "Plan your route between clusters to avoid noon traffic.",
+          "Be aware of parking restrictions, especially near the main sights."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtplatz",
+            "hu": "Főtér",
+            "ro": "Piața centrală",
+            "en": "Main Square"
+          },
+          "coords": [
+            17.9716,
+            49.4715
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Die meisten Buslinien halten in der Nähe. Ein idealer Ausgangspunkt.",
+            "hu": "A legtöbb buszjárat a közelben áll meg. Ideális kiindulópont.",
+            "ro": "Majoritatea liniilor de autobuz opresc în apropiere. Un punct de plecare ideal.",
+            "en": "Most bus lines stop nearby. An ideal starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Himmelfahrt",
+            "hu": "Nagyboldogasszony-templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Assumption of the Virgin Mary"
+          },
+          "coords": [
+            17.9708,
+            49.4725
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:43",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz aus, um den ersten Cluster zu erkunden.",
+            "hu": "Rövid séta a térről az első látnivalócsoport felfedezéséhez.",
+            "ro": "O scurtă plimbare din piață pentru a explora primul grup de atracții.",
+            "en": "A short walk from the square to explore the first cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Kinský & Museum",
+            "hu": "Kinský-kastély & Múzeum",
+            "ro": "Castelul Kinský & Muzeu",
+            "en": "Kinský Chateau & Museum"
+          },
+          "coords": [
+            17.968,
+            49.4755
+          ],
+          "category": "museums",
+          "arrive_at": "10:48",
+          "stay_min": 140,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum zweiten Cluster. Die Haltestelle ist nahe am Schlosspark.",
+            "hu": "Menjen busszal a második látnivalócsoporthoz. A megálló a kastélypark közelében van.",
+            "ro": "Luați un autobuz către al doilea grup de atracții. Stația este aproape de parcul castelului.",
+            "en": "Take a bus to the second cluster. The stop is near the chateau park."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Žerotín",
+            "hu": "Žerotín-kastély",
+            "ro": "Castelul Žerotín",
+            "en": "Žerotín Chateau"
+          },
+          "coords": [
+            17.973,
+            49.474
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:16",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Kinský-Schloss zurück in Richtung Zentrum.",
+            "hu": "Rövid séta a Kinský-kastélytól vissza a központ felé.",
+            "ro": "O scurtă plimbare de la Castelul Kinský înapoi spre centru.",
+            "en": "A short walk from Kinský Chateau back towards the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Sternwarte",
+            "hu": "Csillagvizsgáló",
+            "ro": "Observatorul astronomic",
+            "en": "Observatory"
+          },
+          "coords": [
+            17.965,
+            49.48
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "14:46",
+          "stay_min": 45,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Die letzte Fahrt des Tages. Möglicherweise müssen Sie vom Bus aus noch ein Stück bergauf gehen.",
+            "hu": "A nap utolsó utazása. Lehet, hogy a buszról még sétálnia kell egy kicsit felfelé.",
+            "ro": "Ultima călătorie a zilei. S-ar putea să trebuiască să urcați puțin de la stația de autobuz.",
+            "en": "The last transit ride of the day. You might have to walk uphill a bit from the bus."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am zentralen Stadtplatz, der mit dem Bus leicht erreichbar ist, und erkunden Sie die nahe gelegene Kirche zu Fuß. Nehmen Sie dann einen Bus zum Museumskomplex am Kinský-Schloss für eine ausgiebige Kultur- und Mittagspause. Am Nachmittag spazieren Sie zum Žerotín-Schloss, bevor Sie einen letzten Bus zur Sternwarte nehmen, um den Tag mit einer schönen Aussicht zu beenden.",
+        "hu": "Kezdjen a busszal könnyen megközelíthető központi Főtéren, és fedezze fel gyalog a közeli templomot. Ezután buszozzon el a Kinský-kastély múzeumi komplexumába egy kiadós kulturális és ebédszünetre. Délután sétáljon el a Žerotín-kastélyhoz, mielőtt egy utolsó busszal felmegy a csillagvizsgálóhoz, hogy egy szép kilátással zárja a napot.",
+        "ro": "Începeți din Piața centrală, ușor accesibilă cu autobuzul, și explorați biserica din apropiere pe jos. Apoi, luați un autobuz către complexul muzeal de la Castelul Kinský pentru o pauză culturală și de prânz extinsă. După-amiaza, plimbați-vă la Castelul Žerotín înainte de a lua un ultim autobuz spre Observator pentru a încheia ziua cu o priveliște frumoasă.",
+        "en": "Start at the central Main Square, easily reached by bus, and explore the nearby church on foot. Then, take a bus to the museum complex at Kinský Chateau for an extended cultural and lunch break. In the afternoon, stroll to Žerotín Chateau before catching a final bus to the Observatory to end the day with a beautiful view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Imbiss am Busbahnhof",
+            "tip": "Schnell und einfach für einen Happen zwischendurch."
+          },
+          {
+            "name": "Pekárna (Bäckerei)",
+            "tip": "Holen Sie sich ein frisches Gebäck für die Busfahrt."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Am Ende des Tages, probieren Sie ein Radegast oder Ostravar."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Büfé a buszpályaudvaron",
+            "tip": "Gyors és egyszerű egy falatra útközben."
+          },
+          {
+            "name": "Pekárna (Pékség)",
+            "tip": "Vegyen egy friss péksüteményt a buszútra."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "A nap végén kóstoljon meg egy Radegastot vagy Ostravaart."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gustare la autogară",
+            "tip": "Rapid și ușor pentru o gustare între mese."
+          },
+          {
+            "name": "Pekárna (Brutărie)",
+            "tip": "Luați un produs de patiserie proaspăt pentru călătoria cu autobuzul."
+          },
+          {
+            "name": "Bere locală",
+            "tip": "La sfârșitul zilei, încercați o Radegast sau Ostravar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Snack bar at the bus station",
+            "tip": "Quick and easy for a bite on the go."
+          },
+          {
+            "name": "Pekárna (Bakery)",
+            "tip": "Grab a fresh pastry for the bus ride."
+          },
+          {
+            "name": "Local beer",
+            "tip": "At the end of the day, try a Radegast or Ostravar."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obere Sitzreihe im Bus",
+            "tip": "Bietet eine andere Perspektive auf die Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Eine Bank im Schlosspark Kinský",
+            "tip": "Entspannen Sie sich, während Sie auf den nächsten Bus warten.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang entlang der Bečva",
+            "tip": "Wenn Sie Zeit haben, steigen Sie eine Haltestelle früher aus und gehen Sie am Fluss entlang.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Felső üléssor a buszon",
+            "tip": "Más perspektívát nyújt a városra.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Egy pad a Kinský-kastélyparkban",
+            "tip": "Pihenjen, amíg a következő buszra vár.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Séta a Bečva mentén",
+            "tip": "Ha van ideje, szálljon le egy megállóval korábban, és sétáljon a folyó mentén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rândul de sus în autobuz",
+            "tip": "Oferă o perspectivă diferită asupra orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "O bancă în Parcul Castelului Kinský",
+            "tip": "Relaxați-vă în timp ce așteptați următorul autobuz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare de-a lungul râului Bečva",
+            "tip": "Dacă aveți timp, coborâți cu o stație mai devreme și plimbați-vă pe malul râului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Top deck of the bus",
+            "tip": "Offers a different perspective of the city.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A bench in Kinský Chateau Park",
+            "tip": "Relax while waiting for your next bus.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Walk along the Bečva River",
+            "tip": "If you have time, get off one stop early and walk by the river.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Für Zeitschriften, Getränke und letzte Souvenirs."
+          },
+          {
+            "name": "Kleine Läden in der Nähe der Haltestellen",
+            "tip": "Manchmal findet man dort unerwartete Schätze."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszpályaudvaron",
+            "tip": "Magazinok, italok és utolsó pillanatos ajándéktárgyak."
+          },
+          {
+            "name": "Kis boltok a megállók közelében",
+            "tip": "Néha váratlan kincseket találhat ott."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la autogară",
+            "tip": "Pentru reviste, băuturi și suveniruri de ultim moment."
+          },
+          {
+            "name": "Mici magazine lângă stații",
+            "tip": "Uneori puteți găsi comori neașteptate acolo."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus station",
+            "tip": "For magazines, drinks, and last-minute souvenirs."
+          },
+          {
+            "name": "Small shops near the stops",
+            "tip": "Sometimes you can find unexpected treasures there."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr, das ist am günstigsten.",
+          "Überprüfen Sie den Busfahrplan im Voraus, besonders für die letzte Fahrt des Tages.",
+          "Haben Sie etwas Kleingeld für Tickets dabei, falls Sie diese beim Fahrer kaufen müssen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, az a legolcsóbb.",
+          "Ellenőrizze előre a buszmenetrendet, különösen a nap utolsó járatát.",
+          "Legyen Önnél aprópénz a jegyekhez, ha a sofőrnél kell megvennie."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public, este cel mai ieftin.",
+          "Verificați programul autobuzelor în avans, în special pentru ultima călătorie a zilei.",
+          "Aveți la îndemână mărunțiș pentru bilete în cazul în care trebuie să le cumpărați de la șofer."
+        ],
+        "en": [
+          "Buy a day pass for public transport, it's the cheapest option.",
+          "Check the bus schedule in advance, especially for the last ride of the day.",
+          "Have some small change for tickets in case you need to buy them from the driver."
+        ]
+      }
+    }
+  }
+}

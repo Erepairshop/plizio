@@ -1,0 +1,1548 @@
+{
+  "city_id": "greece-karpathos-town-cities-v2",
+  "anchor": {
+    "name": "Karpathos Stadt",
+    "coords": [
+      35.5,
+      27.2167
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafenpromenade von Pigadia",
+            "hu": "Pigadia kikötői sétánya",
+            "ro": "Promenada portului Pigadia",
+            "en": "Pigadia Harbour Promenade"
+          },
+          "coords": [
+            35.5085,
+            27.2151
+          ],
+          "category": "promenades",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee und beobachten Sie die Fischerboote.",
+            "hu": "Kezdje a napot egy kávéval, és nézze a halászhajókat.",
+            "ro": "Începeți ziua cu o cafea și priviți bărcile de pescari.",
+            "en": "Start your day with a coffee and watch the fishing boats."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Karpathos",
+            "hu": "Karpathos városháza",
+            "ro": "Primăria din Karpathos",
+            "en": "Karpathos Town Hall"
+          },
+          "coords": [
+            35.5098,
+            27.2158
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die neoklassizistische Architektur und die lokale Flagge.",
+            "hu": "Figyelje meg a neoklasszikus építészetet és a helyi zászlót.",
+            "ro": "Observați arhitectura neoclasică și steagul local.",
+            "en": "Notice the neoclassical architecture and the local flag."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            35.5105,
+            27.2165
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die minoischen und mykenischen Artefakte.",
+            "hu": "Koncentráljon a minószi és mükénéi leletekre.",
+            "ro": "Concentrați-vă pe artefactele minoice și miceniene.",
+            "en": "Focus on the Minoan and Mycenaean artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Agia Fotini Kirche",
+            "hu": "Agia Fotini templom",
+            "ro": "Biserica Agia Fotini",
+            "en": "Agia Fotini Church"
+          },
+          "coords": [
+            35.5133,
+            27.2189
+          ],
+          "category": "churches",
+          "arrive_at": "12:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eine wunderschöne Kapelle direkt am Wasser, ideal für Fotos.",
+            "hu": "Gyönyörű kápolna a vízparton, ideális fotózáshoz.",
+            "ro": "O capelă frumoasă chiar lângă apă, ideală pentru fotografii.",
+            "en": "A beautiful chapel right by the water, perfect for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal des unbekannten Soldaten",
+            "hu": "Az ismeretlen katona emlékműve",
+            "ro": "Monumentul Soldatului Necunoscut",
+            "en": "Monument of the Unknown Soldier"
+          },
+          "coords": [
+            35.5112,
+            27.2145
+          ],
+          "category": "monuments",
+          "arrive_at": "13:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Moment der Stille, um die Geschichte der Insel zu ehren.",
+            "hu": "Egy csendes pillanat a sziget történelmének tiszteletére.",
+            "ro": "Un moment de reculegere pentru a onora istoria insulei.",
+            "en": "A moment of silence to honor the island's history."
+          }
+        },
+        {
+          "name": {
+            "de": "Vrontis Strand",
+            "hu": "Vrontis strand",
+            "ro": "Plaja Vrontis",
+            "en": "Vrontis Beach"
+          },
+          "coords": [
+            35.5211,
+            27.2123
+          ],
+          "category": "beaches",
+          "arrive_at": "13:50",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein langer Sandstrand, ideal für einen entspannten Nachmittag.",
+            "hu": "Hosszú homokos strand, tökéletes egy pihentető délutánhoz.",
+            "ro": "O plajă lungă cu nisip, ideală pentru o după-amiază relaxantă.",
+            "en": "A long sandy beach, ideal for a relaxing afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Poseidon-Höhle",
+            "hu": "Poszeidón-barlang",
+            "ro": "Peștera lui Poseidon",
+            "en": "Poseidon's Cave"
+          },
+          "coords": [
+            35.5125,
+            27.2198
+          ],
+          "category": "natural features",
+          "arrive_at": "17:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Historische Stätte mit mythologischer Bedeutung nahe dem Meer.",
+            "hu": "Történelmi hely mitológiai jelentőséggel a tenger közelében.",
+            "ro": "Sit istoric cu semnificație mitologică, aproape de mare.",
+            "en": "Historic site with mythological significance near the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Karpathos-Stadt beginnt an der belebten Hafenpromenade, dem Herzen von Pigadia. Nach einem Spaziergang durch die neoklassizistischen Gassen entdecken Sie im Archäologischen Museum die antike Vergangenheit der Insel. Am Mittag finden Sie Ruhe in der malerischen Agia Fotini Kapelle, einem Juwel direkt am Wasser. Der Nachmittag gehört dem ausgedehnten Vrontis Strand, wo Sie die griechische Sonne und das kristallklare Wasser genießen. Zum Abschluss des Tages erkunden Sie die mystische Poseidon-Höhle, während die Sonne langsam untergeht.",
+        "hu": "A nap Pigadia nyüzsgő kikötői sétányán kezdődik. A neoklasszikus utcákon tett séta után a Régészeti Múzeumban fedezheti fel a sziget ókori múltját. Délben nyugalmat talál a festői Agia Fotini kápolnánál. A délután a tágas Vrontis strandé, ahol élvezheti a görög napsütést és a kristálytiszta vizet. A nap végén fedezze fel a misztikus Poszeidón-barlangot, miközben a nap lassan lenyugszik.",
+        "ro": "Ziua începe pe promenada plină de viață a portului din Pigadia. După o plimbare pe străzile neoclasice, descoperiți trecutul antic al insulei la Muzeul de Arheologie. La prânz, găsiți liniște la pitoreasca capelă Agia Fotini. După-amiaza este dedicată plajei Vrontis, unde vă bucurați de soarele grecesc și de apa cristalină. La finalul zilei, explorați misterioasa Peșteră a lui Poseidon în timp ce soarele apune.",
+        "en": "Your day starts at the bustling harbour promenade of Pigadia. After a walk through the neoclassical streets, you'll discover the island's ancient past at the Archaeological Museum. At noon, find peace at the picturesque Agia Fotini chapel. The afternoon is for Vrontis Beach, where you can enjoy the Greek sun and crystal-clear water. End the day exploring the mystical Poseidon's Cave as the sun sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Makarounes",
+            "tip": "Probieren Sie die handgemachte Pasta mit Zwiebeln und Käse in einer traditionellen Taverne."
+          },
+          {
+            "name": "Frischer Fisch",
+            "tip": "Genießen Sie den Fang des Tages in einem der Restaurants am Hafen."
+          },
+          {
+            "name": "Karpathisches Lamm",
+            "tip": "Langsam geschmortes Lamm mit lokalen Kräutern, ein Muss für Fleischliebhaber."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Makarounes",
+            "tip": "Kóstolja meg a kézzel készített tésztát hagymával és sajttal egy hagyományos tavernában."
+          },
+          {
+            "name": "Friss hal",
+            "tip": "Élvezze a nap fogását a kikötői éttermek egyikében."
+          },
+          {
+            "name": "Kárpáthoszi bárány",
+            "tip": "Lassan párolt bárány helyi fűszerekkel, kötelező a húsimádóknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Makarounes",
+            "tip": "Încercați pastele făcute manual cu ceapă și brânză într-o tavernă tradițională."
+          },
+          {
+            "name": "Pește proaspăt",
+            "tip": "Savurați captura zilei la unul dintre restaurantele din port."
+          },
+          {
+            "name": "Miel de Karpathos",
+            "tip": "Miel gătit lent cu ierburi locale, o necesitate pentru iubitorii de carne."
+          }
+        ],
+        "en": [
+          {
+            "name": "Makarounes",
+            "tip": "Try the handmade pasta with onions and cheese in a traditional taverna."
+          },
+          {
+            "name": "Fresh Fish",
+            "tip": "Enjoy the catch of the day at one of the harbour restaurants."
+          },
+          {
+            "name": "Karpathian Lamb",
+            "tip": "Slow-cooked lamb with local herbs, a must for meat lovers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Agia Fotini Kapelle",
+            "tip": "Ein ruhiger Ort am Meer, perfekt für eine kurze Pause und Kontemplation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sonnenuntergang am Vrontis Strand",
+            "tip": "Finden Sie einen ruhigen Platz am Ende des Strandes, um die spektakulären Farben zu genießen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spaziergang zur Akropolis",
+            "tip": "Auch wenn Sie nicht ganz hinaufgehen, bietet der Weg dorthin eine friedliche Atmosphäre.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Agia Fotini kápolna",
+            "tip": "Csendes hely a tengernél, tökéletes egy rövid szünetre és elmélkedésre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Naplemente a Vrontis strandon",
+            "tip": "Találjon egy csendes helyet a strand végén, hogy élvezze a látványos színeket.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Séta az Akropolisz felé",
+            "tip": "Még ha nem is megy fel teljesen, az odavezető út békés hangulatot áraszt.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capela Agia Fotini",
+            "tip": "Un loc liniștit lângă mare, perfect pentru o scurtă pauză și contemplare.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Apus la plaja Vrontis",
+            "tip": "Găsiți un loc liniștit la capătul plajei pentru a vă bucura de culorile spectaculoase.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plimbare spre Acropole",
+            "tip": "Chiar dacă nu urcați complet, drumul până acolo oferă o atmosferă pașnică.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Agia Fotini Chapel",
+            "tip": "A quiet spot by the sea, perfect for a short break and contemplation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sunset at Vrontis Beach",
+            "tip": "Find a quiet spot at the end of the beach to enjoy the spectacular colours.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Walk towards the Acropolis",
+            "tip": "Even if you don't go all the way up, the path there offers a peaceful atmosphere.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Keramik",
+            "tip": "Handgefertigte Töpferwaren mit traditionellen Inselmotiven."
+          },
+          {
+            "name": "Thymianhonig",
+            "tip": "Kaufen Sie den berühmten aromatischen Honig von Karpathos direkt von lokalen Produzenten."
+          },
+          {
+            "name": "Lederwaren",
+            "tip": "In den Gassen von Pigadia finden Sie kleine Geschäfte mit handgefertigten Sandalen und Taschen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerámia",
+            "tip": "Kézzel készített agyagedények hagyományos szigeti motívumokkal."
+          },
+          {
+            "name": "Kakukkfűméz",
+            "tip": "Vásárolja meg a híres aromás kárpáthoszi mézet közvetlenül a helyi termelőktől."
+          },
+          {
+            "name": "Bőráruk",
+            "tip": "Pigadia sikátoraiban kézzel készített szandálokat és táskákat árusító kis boltokat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică locală",
+            "tip": "Obiecte de olărit lucrate manual cu motive tradiționale insulare."
+          },
+          {
+            "name": "Miere de cimbru",
+            "tip": "Cumpărați faimoasa miere aromată din Karpathos direct de la producătorii locali."
+          },
+          {
+            "name": "Articole din piele",
+            "tip": "Pe aleile din Pigadia veți găsi mici magazine cu sandale și genți lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Ceramics",
+            "tip": "Handmade pottery with traditional island motifs."
+          },
+          {
+            "name": "Thyme Honey",
+            "tip": "Buy the famous aromatic honey of Karpathos directly from local producers."
+          },
+          {
+            "name": "Leather Goods",
+            "tip": "In the alleys of Pigadia you will find small shops with handmade sandals and bags."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Straßen teilweise uneben sind.",
+          "Nehmen Sie ausreichend Wasser mit, besonders in den Sommermonaten.",
+          "Eine Kopfbedeckung und Sonnencreme sind unerlässlich.",
+          "Planen Sie am Nachmittag eine längere Pause am Strand ein, um der größten Hitze zu entgehen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az utcák néhol egyenetlenek.",
+          "Vigyen magával elegendő vizet, különösen a nyári hónapokban.",
+          "A fejfedő és a naptej elengedhetetlen.",
+          "Tervezzen egy hosszabb délutáni szünetet a strandon, hogy elkerülje a legnagyobb hőséget."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece străzile pot fi denivelate.",
+          "Luați suficientă apă, mai ales în lunile de vară.",
+          "O pălărie și crema de protecție solară sunt esențiale.",
+          "Planificați o pauză mai lungă la plajă după-amiaza pentru a evita căldura cea mai mare."
+        ],
+        "en": [
+          "Wear comfortable shoes as the streets can be uneven.",
+          "Bring plenty of water, especially during the summer months.",
+          "A hat and sunscreen are essential.",
+          "Plan a longer break at the beach in the afternoon to avoid the peak heat."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 10.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafenpromenade von Pigadia",
+            "hu": "Pigadia kikötői sétánya",
+            "ro": "Promenada portului Pigadia",
+            "en": "Pigadia Harbour Promenade"
+          },
+          "coords": [
+            35.5085,
+            27.2151
+          ],
+          "category": "promenades",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Mieten Sie Ihr Fahrrad in der Nähe des Hafens, um den Tag zu beginnen.",
+            "hu": "Béreljen kerékpárt a kikötő közelében a nap indításához.",
+            "ro": "Închiriați bicicleta de lângă port pentru a începe ziua.",
+            "en": "Rent your bike near the harbour to start the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Vrontis Strand",
+            "hu": "Vrontis strand",
+            "ro": "Plaja Vrontis",
+            "en": "Vrontis Beach"
+          },
+          "coords": [
+            35.5211,
+            27.2123
+          ],
+          "category": "beaches",
+          "arrive_at": "09:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie entlang der Küstenstraße für eine malerische Ankunft.",
+            "hu": "Tekerjen a part menti úton a festői érkezésért.",
+            "ro": "Pedalați de-a lungul drumului de coastă pentru o sosire pitorească.",
+            "en": "Cycle along the coastal road for a scenic arrival."
+          }
+        },
+        {
+          "name": {
+            "de": "Akropolis von Potideon",
+            "hu": "Potideon Akropolisza",
+            "ro": "Acropola din Potideon",
+            "en": "Acropolis of Potideon"
+          },
+          "coords": [
+            35.5245,
+            27.2101
+          ],
+          "category": "historical",
+          "arrive_at": "11:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad am Fuße des Hügels ab und genießen Sie den Aufstieg.",
+            "hu": "Hagyja a kerékpárt a domb alján, és élvezze a mászást.",
+            "ro": "Lăsați bicicleta la poalele dealului și bucurați-vă de urcare.",
+            "en": "Leave your bike at the bottom of the hill and enjoy the climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Poseidon-Höhle",
+            "hu": "Poszeidón-barlang",
+            "ro": "Peștera lui Poseidon",
+            "en": "Poseidon's Cave"
+          },
+          "coords": [
+            35.5125,
+            27.2198
+          ],
+          "category": "natural features",
+          "arrive_at": "13:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer, aber lohnender Abstecher mit dem Fahrrad.",
+            "hu": "Rövid, de megéri a kitérőt kerékpárral.",
+            "ro": "Un ocol scurt, dar care merită făcut cu bicicleta.",
+            "en": "A short but rewarding detour by bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            35.5105,
+            27.2165
+          ],
+          "category": "museums",
+          "arrive_at": "14:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad sicher und tauchen Sie in die Geschichte ein.",
+            "hu": "Parkolja le biztonságosan a kerékpárt, és merüljön el a történelemben.",
+            "ro": "Parcați bicicleta în siguranță și scufundați-vă în istorie.",
+            "en": "Park your bike safely and dive into history."
+          }
+        },
+        {
+          "name": {
+            "de": "Freilichttheater",
+            "hu": "Szabadtéri Színház",
+            "ro": "Teatrul în aer liber",
+            "en": "Open-air Theatre"
+          },
+          "coords": [
+            35.5155,
+            27.2115
+          ],
+          "category": "theatres",
+          "arrive_at": "16:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein schöner Ort, um den Tag mit Blick über die Stadt ausklingen zu lassen.",
+            "hu": "Szép hely a nap befejezéséhez, kilátással a városra.",
+            "ro": "Un loc frumos pentru a încheia ziua cu o vedere asupra orașului.",
+            "en": "A beautiful place to end the day with a view over the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radabenteuer beginnt am Hafen von Pigadia. Sie fahren die malerische Küste entlang zum Vrontis Strand für ein erstes Bad. Von dort aus ist es nur ein kurzer Anstieg zur antiken Akropolis von Potideon, wo Geschichte lebendig wird. Nach dem historischen Ausflug machen Sie einen Abstecher zur mythischen Poseidon-Höhle. Am Nachmittag kehren Sie ins Zentrum zurück, um im Archäologischen Museum in die Kultur einzutauchen. Den Tag beenden Sie im Freilichttheater mit einem Panoramablick über die Ägäis bei Sonnenuntergang.",
+        "hu": "A kerékpáros kaland Pigadia kikötőjében kezdődik. A festői tengerparton tekerve érkezik a Vrontis strandra egy frissítő úszásra. Onnan egy rövid emelkedő vezet Potideon ősi Akropoliszához. A történelmi kitérő után látogasson el a misztikus Poszeidón-barlanghoz. Délután térjen vissza a központba, hogy a Régészeti Múzeumban elmerüljön a kultúrában. A napot a szabadtéri színházban fejezi be, ahonnan panorámás kilátás nyílik az Égei-tengerre naplementekor.",
+        "ro": "Aventura pe bicicletă începe în portul Pigadia. Pedalați de-a lungul coastei pitorești până la plaja Vrontis pentru o primă baie. De acolo, este o urcare scurtă până la vechea Acropolă din Potideon. După excursia istorică, faceți un ocol la mitica Peșteră a lui Poseidon. După-amiaza, reveniți în centru pentru a vă cufunda în cultură la Muzeul de Arheologie. Încheiați ziua la teatrul în aer liber, cu o vedere panoramică asupra Mării Egee la apus.",
+        "en": "Your cycling adventure starts at Pigadia harbour. You'll ride along the scenic coast to Vrontis Beach for a first swim. From there, it's a short climb to the ancient Acropolis of Potideon. After the historical excursion, make a detour to the mythical Poseidon's Cave. In the afternoon, return to the centre to immerse yourself in culture at the Archaeological Museum. End the day at the open-air theatre with a panoramic view over the Aegean Sea at sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Oktopus am Spieß",
+            "tip": "Ein perfekter Snack nach einer Radtour, oft in Strandtavernen erhältlich."
+          },
+          {
+            "name": "Griechischer Salat",
+            "tip": "Frisch und leicht, ideal für ein Mittagessen in der Hitze."
+          },
+          {
+            "name": "Lokaler Wein",
+            "tip": "Probieren Sie einen trockenen Weißwein von der Insel, um sich zu erfrischen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nyársonsült polip",
+            "tip": "Tökéletes harapnivaló egy kerékpártúra után, gyakran kapható a tengerparti tavernában."
+          },
+          {
+            "name": "Görög saláta",
+            "tip": "Friss és könnyű, ideális ebéd a hőségben."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "Kóstoljon meg egy száraz fehérbort a szigetről a felüdülésért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caracatiță la proțap",
+            "tip": "O gustare perfectă după o tură cu bicicleta, adesea disponibilă la tavernele de pe plajă."
+          },
+          {
+            "name": "Salată grecească",
+            "tip": "Proaspătă și ușoară, ideală pentru un prânz pe căldură."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Încercați un vin alb sec de pe insulă pentru a vă reîmprospăta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Octopus on a skewer",
+            "tip": "A perfect snack after a bike ride, often available at beach tavernas."
+          },
+          {
+            "name": "Greek Salad",
+            "tip": "Fresh and light, ideal for a lunch in the heat."
+          },
+          {
+            "name": "Local wine",
+            "tip": "Try a dry white wine from the island to refresh yourself."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blick von der Akropolis",
+            "tip": "Die Aussicht über die Bucht ist atemberaubend und die Anstrengung wert.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Nördliches Ende des Vrontis Strandes",
+            "tip": "Weniger überlaufen und ideal für eine ruhige Schwimmpause.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Panagia Evangelistria",
+            "tip": "Eine kleine, friedliche Kirche auf dem Weg, perfekt für einen Moment der Stille.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás az Akropoliszról",
+            "tip": "A kilátás az öbölre lélegzetelállító és megéri a fáradságot.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vrontis strand északi vége",
+            "tip": "Kevésbé zsúfolt és ideális egy csendes úszásra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Panagia Evangelistria",
+            "tip": "Egy kicsi, békés templom útközben, tökéletes egy csendes pillanatra.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la Acropole",
+            "tip": "Priveliștea asupra golfului este uluitoare și merită efortul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Capătul nordic al plajei Vrontis",
+            "tip": "Mai puțin aglomerat și ideal pentru o pauză de înot liniștită.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Panagia Evangelistria",
+            "tip": "O biserică mică și pașnică pe drum, perfectă pentru un moment de liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the Acropolis",
+            "tip": "The view over the bay is breathtaking and worth the effort.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Northern end of Vrontis Beach",
+            "tip": "Less crowded and ideal for a quiet swimming break.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Panagia Evangelistria",
+            "tip": "A small, peaceful church on the way, perfect for a moment of silence.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Olivenöl",
+            "tip": "Kaufen Sie hochwertiges, kaltgepresstes Olivenöl von lokalen Bauern."
+          },
+          {
+            "name": "Karpathische Stickerei",
+            "tip": "Einzigartige Textilien mit komplexen, farbenfrohen Mustern."
+          },
+          {
+            "name": "Kräuter und Gewürze",
+            "tip": "Nehmen Sie den Duft der Insel mit nach Hause, besonders Oregano und Thymian."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olívaolaj",
+            "tip": "Vásároljon kiváló minőségű, hidegen sajtolt olívaolajat helyi gazdáktól."
+          },
+          {
+            "name": "Kárpáthoszi hímzés",
+            "tip": "Egyedi textilek bonyolult, színes mintákkal."
+          },
+          {
+            "name": "Gyógynövények és fűszerek",
+            "tip": "Vigye haza a sziget illatát, különösen az oregánót és a kakukkfüvet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline",
+            "tip": "Cumpărați ulei de măsline de înaltă calitate, presat la rece, de la fermierii locali."
+          },
+          {
+            "name": "Broderie din Karpathos",
+            "tip": "Textile unice cu modele complexe și colorate."
+          },
+          {
+            "name": "Ierburi și condimente",
+            "tip": "Luați acasă parfumul insulei, în special oregano și cimbru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive oil",
+            "tip": "Buy high-quality, cold-pressed olive oil from local farmers."
+          },
+          {
+            "name": "Karpathian embroidery",
+            "tip": "Unique textiles with complex, colourful patterns."
+          },
+          {
+            "name": "Herbs and spices",
+            "tip": "Take the scent of the island home with you, especially oregano and thyme."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Die Straßen können steil sein; ein E-Bike könnte eine gute Option sein.",
+          "Tragen Sie einen Helm und helle Kleidung, um gut sichtbar zu sein.",
+          "Schließen Sie Ihr Fahrrad immer ab, wenn Sie es abstellen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket és a gumikat.",
+          "Az utak meredekek lehetnek; egy e-bike jó választás lehet.",
+          "Viseljen sisakot és világos ruhát, hogy jól látható legyen.",
+          "Mindig zárja le a kerékpárt, amikor leparkolja."
+        ],
+        "ro": [
+          "Verificați bicicleta înainte de a pleca, în special frânele și anvelopele.",
+          "Drumurile pot fi abrupte; o bicicletă electrică ar putea fi o opțiune bună.",
+          "Purtați cască și haine deschise la culoare pentru a fi vizibil.",
+          "Încuiati întotdeauna bicicleta când o parcați."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes and tires.",
+          "The roads can be steep; an e-bike might be a good option.",
+          "Wear a helmet and bright clothing to be visible.",
+          "Always lock your bike when you park it."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 9.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum Pigadia",
+            "hu": "Parkoló Pigadia központjában",
+            "ro": "Parcare centrul Pigadia",
+            "en": "Parking Pigadia Center"
+          },
+          "coords": [
+            35.509,
+            27.214
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie das erste Cluster zu Fuß.",
+            "hu": "Parkoljon itt, és fedezze fel az első klasztert gyalog.",
+            "ro": "Parcați aici și explorați primul cluster pe jos.",
+            "en": "Park here and explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafenpromenade von Pigadia",
+            "hu": "Pigadia kikötői sétánya",
+            "ro": "Promenada portului Pigadia",
+            "en": "Pigadia Harbour Promenade"
+          },
+          "coords": [
+            35.5085,
+            27.2151
+          ],
+          "category": "promenades",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie am Wasser entlang und genießen Sie die morgendliche Atmosphäre.",
+            "hu": "Sétáljon a vízparton, és élvezze a reggeli hangulatot.",
+            "ro": "Plimbați-vă pe malul apei și bucurați-vă de atmosfera de dimineață.",
+            "en": "Stroll along the waterfront and enjoy the morning atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            35.5105,
+            27.2165
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hafen entfernt, der sich wirklich lohnt.",
+            "hu": "Egy rövid séta a kikötőtől, ami igazán megéri.",
+            "ro": "O scurtă plimbare de la port care chiar merită.",
+            "en": "A short walk from the harbour that is really worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Vrontis Strand",
+            "hu": "Parkoló Vrontis strand",
+            "ro": "Parcare plaja Vrontis",
+            "en": "Parking Vrontis Beach"
+          },
+          "coords": [
+            35.52,
+            27.212
+          ],
+          "category": "transport",
+          "arrive_at": "12:05",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum zweiten Cluster. Von hier aus ist alles zu Fuß erreichbar.",
+            "hu": "Vezessen a második klaszterhez. Innentől minden gyalogosan elérhető.",
+            "ro": "Conduceți la al doilea cluster. De aici totul este accesibil pe jos.",
+            "en": "Drive to the second cluster. Everything is within walking distance from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Vrontis Strand",
+            "hu": "Vrontis strand",
+            "ro": "Plaja Vrontis",
+            "en": "Vrontis Beach"
+          },
+          "coords": [
+            35.5211,
+            27.2123
+          ],
+          "category": "beaches",
+          "arrive_at": "12:10",
+          "stay_min": 180,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zeit für ein langes Mittagessen und Entspannung am Meer.",
+            "hu": "Ideje egy hosszú ebédnek és pihenésnek a tengernél.",
+            "ro": "Timpul pentru un prânz lung și relaxare la mare.",
+            "en": "Time for a long lunch and relaxation by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Akropolis von Potideon",
+            "hu": "Potideon Akropolisza",
+            "ro": "Acropola din Potideon",
+            "en": "Acropolis of Potideon"
+          },
+          "coords": [
+            35.5245,
+            27.2101
+          ],
+          "category": "historical",
+          "arrive_at": "15:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer, steiler Spaziergang vom Strand zu den antiken Ruinen.",
+            "hu": "Rövid, meredek séta a strandtól az ókori romokhoz.",
+            "ro": "O scurtă plimbare abruptă de la plajă la ruinele antice.",
+            "en": "A short, steep walk from the beach to the ancient ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Freilichttheater Aussichtspunkt",
+            "hu": "Szabadtéri Színház kilátó",
+            "ro": "Punct de belvedere Teatrul în aer liber",
+            "en": "Open-air Theatre Viewpoint"
+          },
+          "coords": [
+            35.5155,
+            27.2115
+          ],
+          "category": "theatres",
+          "arrive_at": "17:15",
+          "stay_min": 34,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum letzten Halt des Tages für einen spektakulären Sonnenuntergang.",
+            "hu": "Vezessen a nap utolsó állomásához egy látványos naplementéért.",
+            "ro": "Conduceți la ultima oprire a zilei pentru un apus spectaculos.",
+            "en": "Drive to the last stop of the day for a spectacular sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag, indem Sie Ihr Auto im Zentrum von Pigadia parken. Das erste Cluster erkunden Sie zu Fuß: Schlendern Sie entlang der Hafenpromenade und tauchen Sie im Archäologischen Museum in die Geschichte ein. Mittags fahren Sie zum zweiten Cluster am Vrontis Strand. Hier parken Sie erneut und genießen einen langen Nachmittag am Meer, gefolgt von einem Spaziergang hinauf zur antiken Akropolis. Zum Abschluss des Tages fahren Sie zum Freilichttheater, einem perfekten Ort, um den Sonnenuntergang über Karpathos zu erleben.",
+        "hu": "Kezdje a napot azzal, hogy leparkolja autóját Pigadia központjában. Az első klasztert gyalog fedezi fel: sétáljon végig a kikötői sétányon, és merüljön el a történelemben a Régészeti Múzeumban. Délben vezessen a második klaszterhez a Vrontis strandnál. Itt újra parkol, és egy hosszú délutánt tölt a tengernél, majd felsétál az ősi Akropoliszhoz. A nap végén autózzon el a szabadtéri színházhoz, amely tökéletes hely a naplemente megcsodálására Karpathos felett.",
+        "ro": "Începeți ziua parcând mașina în centrul Pigadiei. Explorați primul cluster pe jos: plimbați-vă de-a lungul promenadei portului și scufundați-vă în istorie la Muzeul de Arheologie. La prânz, conduceți la al doilea cluster de la plaja Vrontis. Aici parcați din nou și bucurați-vă de o după-amiază lungă la mare, urmată de o plimbare până la vechea Acropolă. La sfârșitul zilei, conduceți la teatrul în aer liber, un loc perfect pentru a privi apusul peste Karpathos.",
+        "en": "Start your day by parking your car in the centre of Pigadia. Explore the first cluster on foot: stroll along the harbour promenade and delve into history at the Archaeological Museum. At noon, drive to the second cluster at Vrontis Beach. Here you park again and enjoy a long afternoon by the sea, followed by a walk up to the ancient Acropolis. At the end of the day, drive to the open-air theatre, a perfect spot to watch the sunset over Karpathos."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Taverne am Vrontis Strand",
+            "tip": "Genießen Sie frische Meeresfrüchte mit Blick auf das Wasser nach dem Schwimmen."
+          },
+          {
+            "name": "Karpathische Wurst",
+            "tip": "Probieren Sie die würzige, lokale Wurst, oft gegrillt serviert."
+          },
+          {
+            "name": "Souma",
+            "tip": "Ein starker lokaler Schnaps, der nach dem Essen als Digestif getrunken wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Taverna a Vrontis strandon",
+            "tip": "Élvezze a friss tenger gyümölcseit a vízre néző kilátással úszás után."
+          },
+          {
+            "name": "Kárpáthoszi kolbász",
+            "tip": "Kóstolja meg a fűszeres helyi kolbászt, gyakran grillezve tálalják."
+          },
+          {
+            "name": "Souma",
+            "tip": "Erős helyi pálinka, amelyet étkezés után emésztéssegítőként isznak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Taverna la plaja Vrontis",
+            "tip": "Savurați fructe de mare proaspete cu vedere la apă după înot."
+          },
+          {
+            "name": "Cârnați din Karpathos",
+            "tip": "Încercați cârnații locali picanți, adesea serviți la grătar."
+          },
+          {
+            "name": "Souma",
+            "tip": "O băutură spirtoasă locală tare, băută ca digestiv după masă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Taverna at Vrontis Beach",
+            "tip": "Enjoy fresh seafood with a view of the water after swimming."
+          },
+          {
+            "name": "Karpathian sausage",
+            "tip": "Try the spicy local sausage, often served grilled."
+          },
+          {
+            "name": "Souma",
+            "tip": "A strong local spirit drunk as a digestif after a meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Panoramablick vom Freilichttheater",
+            "tip": "Der ideale Ort für einen ruhigen Abschluss des Tages mit Weitblick.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Aufstieg zur Akropolis",
+            "tip": "Der Weg bietet immer wieder ruhige Momente und tolle Ausblicke.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Agia Kyriaki Kapelle",
+            "tip": "Eine kleine, abgelegene Kapelle, die oft übersehen wird, aber sehr friedlich ist.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Panorámás kilátás a szabadtéri színháztól",
+            "tip": "Ideális hely a nap csendes befejezéséhez, távoli kilátással.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Mászás az Akropoliszra",
+            "tip": "Az út újra és újra csendes pillanatokat és nagyszerű kilátást kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Agia Kyriaki kápolna",
+            "tip": "Egy kicsi, eldugott kápolna, amelyet gyakran figyelmen kívül hagynak, de nagyon békés.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere panoramică de la teatrul în aer liber",
+            "tip": "Locul ideal pentru un final liniștit de zi, cu o priveliște vastă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Urcarea spre Acropole",
+            "tip": "Cărarea oferă momente de liniște repetate și priveliști minunate.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Capela Agia Kyriaki",
+            "tip": "O capelă mică, retrasă, adesea trecută cu vederea, dar foarte pașnică.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Panoramic view from the open-air theatre",
+            "tip": "The ideal place for a quiet end to the day with a wide view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Climb to the Acropolis",
+            "tip": "The path offers quiet moments and great views again and again.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Agia Kyriaki Chapel",
+            "tip": "A small, secluded chapel that is often overlooked but very peaceful.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Karpathische Weine",
+            "tip": "Besuchen Sie einen lokalen Laden und lassen Sie sich beraten, um eine Flasche mit nach Hause zu nehmen."
+          },
+          {
+            "name": "Handgeschnitzte Holzfiguren",
+            "tip": "Einzigartige Souvenirs, die die lokale Handwerkskunst widerspiegeln."
+          },
+          {
+            "name": "Getrocknete Kräuter",
+            "tip": "Nehmen Sie einen Vorrat an Oregano, Salbei und Thymian von der Insel mit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kárpáthoszi borok",
+            "tip": "Látogasson el egy helyi boltba, és kérjen tanácsot, hogy melyik üveggel vigye haza."
+          },
+          {
+            "name": "Kézzel faragott fafigurák",
+            "tip": "Egyedi szuvenírek, amelyek a helyi kézművességet tükrözik."
+          },
+          {
+            "name": "Szárított gyógynövények",
+            "tip": "Vigyen magával egy adagot a szigeti oregánóból, zsályából és kakukkfűből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinuri din Karpathos",
+            "tip": "Vizitați un magazin local și cereți sfatul pentru a alege o sticlă de luat acasă."
+          },
+          {
+            "name": "Figurine din lemn sculptate manual",
+            "tip": "Suveniruri unice care reflectă meșteșugul local."
+          },
+          {
+            "name": "Ierburi uscate",
+            "tip": "Luați cu voi o provizie de oregano, salvie și cimbru de pe insulă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Karpathian wines",
+            "tip": "Visit a local shop and get advice on which bottle to take home."
+          },
+          {
+            "name": "Hand-carved wooden figures",
+            "tip": "Unique souvenirs that reflect local craftsmanship."
+          },
+          {
+            "name": "Dried herbs",
+            "tip": "Take a supply of oregano, sage and thyme from the island with you."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten im Voraus, besonders in der Hochsaison.",
+          "Ein kleineres Auto ist in den engen Straßen von Vorteil.",
+          "Lassen Sie keine Wertsachen im Auto liegen.",
+          "Die Cluster-Walking-Methode spart Zeit und Stress bei der Parkplatzsuche."
+        ],
+        "hu": [
+          "Előre tájékozódjon a parkolási lehetőségekről, különösen a főszezonban.",
+          "Egy kisebb autó előnyös a szűk utcákban.",
+          "Ne hagyjon értéktárgyakat az autóban.",
+          "A klaszter-séta módszer időt és stresszt takarít meg a parkolóhely keresésénél."
+        ],
+        "ro": [
+          "Verificați opțiunile de parcare în avans, mai ales în sezonul de vârf.",
+          "O mașină mai mică este avantajoasă pe străzile înguste.",
+          "Nu lăsați obiecte de valoare în mașină.",
+          "Metoda de plimbare pe clustere economisește timp și stres la căutarea unui loc de parcare."
+        ],
+        "en": [
+          "Check parking options in advance, especially in high season.",
+          "A smaller car is an advantage in the narrow streets.",
+          "Do not leave valuables in the car.",
+          "The cluster-walking method saves time and stress when looking for a parking space."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Busbahnhof Pigadia",
+            "hu": "Pigadia központi buszpályaudvar",
+            "ro": "Autogara centrală Pigadia",
+            "en": "Pigadia Central Bus Station"
+          },
+          "coords": [
+            35.5075,
+            27.2145
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Startpunkt, um die Stadt und die nähere Umgebung zu erkunden.",
+            "hu": "A kiindulópont a város és a környék felfedezéséhez.",
+            "ro": "Punctul de plecare pentru a explora orașul și împrejurimile.",
+            "en": "The starting point for exploring the city and its surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafenpromenade von Pigadia",
+            "hu": "Pigadia kikötői sétánya",
+            "ro": "Promenada portului Pigadia",
+            "en": "Pigadia Harbour Promenade"
+          },
+          "coords": [
+            35.5085,
+            27.2151
+          ],
+          "category": "promenades",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Busbahnhof entfernt.",
+            "hu": "Csak egy rövid séta a buszpályaudvartól.",
+            "ro": "La doar o scurtă plimbare de autogară.",
+            "en": "Just a short walk from the bus station."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Karpathos",
+            "hu": "Karpathos városháza",
+            "ro": "Primăria din Karpathos",
+            "en": "Karpathos Town Hall"
+          },
+          "coords": [
+            35.5098,
+            27.2158
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie das Herz der städtischen Verwaltung auf Ihrem Spaziergang.",
+            "hu": "Fedezze fel a városi közigazgatás szívét sétája során.",
+            "ro": "Descoperiți inima administrației orașului în timpul plimbării.",
+            "en": "Discover the heart of the city administration on your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle Vrontis",
+            "hu": "Vrontis buszmegálló",
+            "ro": "Stația de autobuz Vrontis",
+            "en": "Vrontis Bus Stop"
+          },
+          "coords": [
+            35.5195,
+            27.2125
+          ],
+          "category": "transport",
+          "arrive_at": "11:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zum Strand-Cluster. Überprüfen Sie den Fahrplan.",
+            "hu": "Menjen busszal a strandklaszterhez. Ellenőrizze a menetrendet.",
+            "ro": "Luați autobuzul spre clusterul de plaje. Verificați orarul.",
+            "en": "Take the bus to the beach cluster. Check the timetable."
+          }
+        },
+        {
+          "name": {
+            "de": "Vrontis Strand",
+            "hu": "Vrontis strand",
+            "ro": "Plaja Vrontis",
+            "en": "Vrontis Beach"
+          },
+          "coords": [
+            35.5211,
+            27.2123
+          ],
+          "category": "beaches",
+          "arrive_at": "11:05",
+          "stay_min": 180,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie den langen Sandstrand und das klare Wasser.",
+            "hu": "Élvezze a hosszú homokos strandot és a tiszta vizet.",
+            "ro": "Bucurați-vă de plaja lungă cu nisip și de apa limpede.",
+            "en": "Enjoy the long sandy beach and clear water."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle Akropolis",
+            "hu": "Akropolisz buszmegálló",
+            "ro": "Stația de autobuz Acropole",
+            "en": "Acropolis Bus Stop"
+          },
+          "coords": [
+            35.523,
+            27.2105
+          ],
+          "category": "transport",
+          "arrive_at": "14:45",
+          "stay_min": 150,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.8,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Vom Strand aus kann man hierherlaufen oder einen Bus für eine Haltestelle nehmen, dann zur Akropolis aufsteigen.",
+            "hu": "A strandról ide lehet sétálni, vagy egy megállót buszozni, majd felmászni az Akropoliszra.",
+            "ro": "De la plajă puteți merge pe jos sau luați autobuzul o stație, apoi urcați la Acropole.",
+            "en": "From the beach you can walk here or take a bus for one stop, then climb to the Acropolis."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr autofreier Tag beginnt am zentralen Busbahnhof von Pigadia. Erkunden Sie das erste Cluster zu Fuß, vom geschäftigen Hafen bis zum Rathaus. Nehmen Sie dann den Bus, der Sie bequem zum zweiten Cluster bringt: dem Vrontis Strand. Hier verbringen Sie den Großteil des Tages mit Schwimmen und Sonnenbaden. Ein kurzer Spaziergang oder eine weitere Busfahrt bringt Sie in die Nähe der antiken Akropolis von Potideon, die Sie am späten Nachmittag erklimmen. Am Abend bringt Sie der Bus zurück ins Zentrum von Pigadia.",
+        "hu": "Autómentes napja Pigadia központi buszpályaudvarán kezdődik. Fedezze fel gyalog az első klasztert, a nyüzsgő kikötőtől a városházáig. Ezután szálljon buszra, amely kényelmesen elviszi a második klaszterhez: a Vrontis strandhoz. Itt tölti a nap nagy részét úszással és napozással. Egy rövid séta vagy egy újabb buszozás elviszi az ókori Potideon Akropolisz közelébe, amelyet késő délután mászhat meg. Este a busz visszaviszi Pigadia központjába.",
+        "ro": "Ziua fără mașină începe la autogara centrală din Pigadia. Explorați primul cluster pe jos, de la portul aglomerat la primărie. Apoi luați autobuzul, care vă va duce confortabil la al doilea cluster: plaja Vrontis. Aici veți petrece cea mai mare parte a zilei înotând și făcând plajă. O scurtă plimbare sau o altă călătorie cu autobuzul vă va duce aproape de vechea Acropolă din Potideon, pe care o veți urca după-amiaza târziu. Seara, autobuzul vă va duce înapoi în centrul Pigadiei.",
+        "en": "Your car-free day begins at Pigadia's central bus station. Explore the first cluster on foot, from the bustling harbour to the town hall. Then take the bus that will comfortably take you to the second cluster: Vrontis Beach. Here you will spend most of the day swimming and sunbathing. A short walk or another bus ride will take you close to the ancient Acropolis of Potideon, which you will climb in the late afternoon. In the evening, the bus will take you back to the centre of Pigadia."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gyros Pita",
+            "tip": "Ein schneller, leckerer und günstiger Snack in der Nähe des Busbahnhofs."
+          },
+          {
+            "name": "Mezedes",
+            "tip": "Bestellen Sie verschiedene kleine Gerichte zum Teilen in einer Taverne in der Stadt."
+          },
+          {
+            "name": "Gefülltes Gemüse (Gemista)",
+            "tip": "Tomaten und Paprika gefüllt mit Reis und Kräutern, eine klassische griechische Mahlzeit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyros pita",
+            "tip": "Gyors, finom és olcsó harapnivaló a buszpályaudvar közelében."
+          },
+          {
+            "name": "Mezedes",
+            "tip": "Rendeljen különféle kis ételeket megosztásra egy városi tavernában."
+          },
+          {
+            "name": "Töltött zöldségek (Gemista)",
+            "tip": "Rizzsel és fűszerekkel töltött paradicsom és paprika, egy klasszikus görög étel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gyros Pita",
+            "tip": "O gustare rapidă, delicioasă și ieftină lângă autogară."
+          },
+          {
+            "name": "Mezedes",
+            "tip": "Comandați diverse feluri de mâncare mici pentru a le împărți într-o tavernă din oraș."
+          },
+          {
+            "name": "Legume umplute (Gemista)",
+            "tip": "Roșii și ardei umpluți cu orez și ierburi, o masă grecească clasică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gyros Pita",
+            "tip": "A quick, tasty and cheap snack near the bus station."
+          },
+          {
+            "name": "Mezedes",
+            "tip": "Order various small dishes to share in a taverna in town."
+          },
+          {
+            "name": "Stuffed vegetables (Gemista)",
+            "tip": "Tomatoes and peppers stuffed with rice and herbs, a classic Greek meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Panagia Evangelistria",
+            "tip": "Eine ruhige Kirche im Stadtzentrum, ideal für eine kurze Flucht aus der Hektik.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang am Abend",
+            "tip": "Schlendern Sie durch die weniger belebten Gassen abseits der Hauptpromenade.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Felsen am Ende des Strandes",
+            "tip": "Klettern Sie auf die Felsen am Ende von Vrontis für eine private Aussicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Panagia Evangelistria",
+            "tip": "Csendes templom a városközpontban, ideális egy rövid menekülésre a nyüzsgésből.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Esti séta",
+            "tip": "Sétáljon a kevésbé forgalmas sikátorokban a fő sétánytól távol.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sziklák a strand végén",
+            "tip": "Másszon fel a Vrontis végén lévő sziklákra egy privát kilátásért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Panagia Evangelistria",
+            "tip": "O biserică liniștită în centrul orașului, ideală pentru o scurtă evadare din agitație.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare de seară",
+            "tip": "Plimbați-vă pe aleile mai puțin aglomerate, departe de promenada principală.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Stâncile de la capătul plajei",
+            "tip": "Urcați-vă pe stâncile de la capătul plajei Vrontis pentru o priveliște privată.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Panagia Evangelistria",
+            "tip": "A quiet church in the city centre, ideal for a short escape from the hustle and bustle.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Evening walk",
+            "tip": "Stroll through the less crowded alleys away from the main promenade.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Rocks at the end of the beach",
+            "tip": "Climb the rocks at the end of Vrontis for a private view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Komboloi (Sorgenperlen)",
+            "tip": "Ein traditionelles griechisches Mitbringsel in vielen Variationen."
+          },
+          {
+            "name": "Strandzubehör",
+            "tip": "In den Geschäften am Hafen finden Sie alles, was Sie für einen Tag am Meer benötigen."
+          },
+          {
+            "name": "Postkarten",
+            "tip": "Senden Sie Grüße aus Karpathos mit schönen Motiven der Insel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Komboloi (aggodalmi gyöngyök)",
+            "tip": "Hagyományos görög szuvenír, sokféle változatban."
+          },
+          {
+            "name": "Strandkellékek",
+            "tip": "A kikötői boltokban mindent megtalál, amire egy tengerparti naphoz szüksége lehet."
+          },
+          {
+            "name": "Képeslapok",
+            "tip": "Küldjön üdvözletet Karpathosról a sziget gyönyörű motívumaival."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Komboloi (mărgele de îngrijorare)",
+            "tip": "Un suvenir tradițional grecesc în multe variante."
+          },
+          {
+            "name": "Accesorii de plajă",
+            "tip": "În magazinele din port veți găsi tot ce aveți nevoie pentru o zi la mare."
+          },
+          {
+            "name": "Cărți poștale",
+            "tip": "Trimiteți salutări din Karpathos cu motive frumoase ale insulei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Komboloi (worry beads)",
+            "tip": "A traditional Greek souvenir in many variations."
+          },
+          {
+            "name": "Beach accessories",
+            "tip": "In the shops at the harbour you will find everything you need for a day at the sea."
+          },
+          {
+            "name": "Postcards",
+            "tip": "Send greetings from Karpathos with beautiful motifs of the island."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket, wenn Sie mehrere Fahrten planen.",
+          "Die Busse fahren nicht immer pünktlich, planen Sie etwas Pufferzeit ein.",
+          "Informieren Sie sich über den letzten Bus zurück ins Zentrum.",
+          "In der Hochsaison können die Busse sehr voll sein."
+        ],
+        "hu": [
+          "Vásároljon napijegyet, ha több utazást tervez.",
+          "A buszok nem mindig indulnak pontosan, tervezzen be némi pufferidőt.",
+          "Tájékozódjon az utolsó buszról, amely visszamegy a központba.",
+          "A főszezonban a buszok nagyon zsúfoltak lehetnek."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi dacă plănuiți mai multe călătorii.",
+          "Autobuzele nu circulă întotdeauna la timp, planificați un timp tampon.",
+          "Informați-vă despre ultimul autobuz înapoi spre centru.",
+          "În sezonul de vârf, autobuzele pot fi foarte aglomerate."
+        ],
+        "en": [
+          "Buy a day ticket if you are planning several trips.",
+          "The buses do not always run on time, so plan some buffer time.",
+          "Find out about the last bus back to the centre.",
+          "In high season, the buses can be very crowded."
+        ]
+      }
+    }
+  }
+}

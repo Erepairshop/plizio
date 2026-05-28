@@ -1,0 +1,1396 @@
+{
+  "city_id": "poland-legnica-cities-v2",
+  "anchor": {
+    "name": "Liegnitz",
+    "coords": [
+      16.1553,
+      51.207
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Altes Rathaus und Marktplatz",
+            "hu": "Régi Városháza és Piactér",
+            "ro": "Primăria Veche și Piața Centrală",
+            "en": "Old Town Hall and Market Square"
+          },
+          "coords": [
+            16.1618,
+            51.2075
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die barocke Fassade und die Neptunstatue.",
+            "hu": "Csodálja meg a barokk homlokzatot és a Neptun-szobrot.",
+            "ro": "Admirați fațada barocă și statuia lui Neptun.",
+            "en": "Admire the Baroque facade and the Neptune statue."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale St. Peter und Paul",
+            "hu": "Szent Péter és Pál Katedrális",
+            "ro": "Catedrala Sfinții Petru și Pavel",
+            "en": "Cathedral of Saints Peter and Paul"
+          },
+          "coords": [
+            16.1645,
+            51.2082
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Suchen Sie nach dem gotischen Portal und den beeindruckenden Glasfenstern.",
+            "hu": "Keresse meg a gótikus kapuzatot és a lenyűgöző ólomüveg ablakokat.",
+            "ro": "Căutați portalul gotic și vitraliile impresionante.",
+            "en": "Look for the Gothic portal and the impressive stained-glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Piastenschloss",
+            "hu": "Piast-kastély",
+            "ro": "Castelul Piast",
+            "en": "Piast Castle"
+          },
+          "coords": [
+            16.158,
+            51.2105
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:05",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besteigen Sie die Türme für eine großartige Aussicht auf die Stadt.",
+            "hu": "Másszon fel a tornyokba a városra nyíló nagyszerű kilátásért.",
+            "ro": "Urcați în turnuri pentru o priveliște minunată asupra orașului.",
+            "en": "Climb the towers for a great view of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Johannes der Täufer",
+            "hu": "Keresztelő Szent János-templom",
+            "ro": "Biserica Sf. Ioan Botezătorul",
+            "en": "Church of St. John the Baptist"
+          },
+          "coords": [
+            16.1595,
+            51.2065
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:50",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Eine wunderschöne Barockkirche mit einem beeindruckenden Inneren.",
+            "hu": "Egy gyönyörű barokk templom, lenyűgöző belső térrel.",
+            "ro": "O frumoasă biserică barocă cu un interior impresionant.",
+            "en": "A beautiful Baroque church with an impressive interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Kupfermuseum",
+            "hu": "Rézmúzeum",
+            "ro": "Muzeul Cuprului",
+            "en": "Museum of Copper"
+          },
+          "coords": [
+            16.165,
+            51.209
+          ],
+          "category": "museums",
+          "arrive_at": "13:50",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über die Geschichte des Kupferbergbaus in der Region.",
+            "hu": "Tudjon meg mindent a régió rézbányászatának történetéről.",
+            "ro": "Aflați totul despre istoria mineritului de cupru din regiune.",
+            "en": "Learn all about the history of copper mining in the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Ritterakademie",
+            "hu": "Lovagi Akadémia",
+            "ro": "Academia Cavalerilor",
+            "en": "Knight's Academy"
+          },
+          "coords": [
+            16.156,
+            51.211
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:45",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein prächtiges Beispiel barocker Architektur, das heute als Kulturzentrum dient.",
+            "hu": "A barokk építészet csodálatos példája, ma kulturális központ.",
+            "ro": "Un exemplu magnific de arhitectură barocă, acum centru cultural.",
+            "en": "A magnificent example of Baroque architecture, now a cultural center."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark",
+            "hu": "Városi Park",
+            "ro": "Parcul Municipal",
+            "en": "City Park"
+          },
+          "coords": [
+            16.17,
+            51.205
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:50",
+          "stay_min": 65,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der perfekte Ort für einen entspannten Spaziergang am Ende des Tages.",
+            "hu": "Tökéletes hely egy pihentető sétához a nap végén.",
+            "ro": "Locul perfect pentru o plimbare relaxantă la sfârșitul zilei.",
+            "en": "The perfect place for a relaxing walk at the end of the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem historischen Marktplatz von Liegnitz, umgeben von farbenfrohen Gebäuden. Der Vormittag führt Sie zu den heiligen Hallen der Kathedrale und der Johanneskirche und taucht Sie in die reiche Geschichte des Piastenschlosses ein. Nach einem Mittagessen mit regionalen Spezialitäten erkunden Sie im Kupfermuseum das industrielle Erbe der Stadt und bewundern die barocke Pracht der Ritterakademie. Schließen Sie Ihren Tag mit einem friedlichen Spaziergang durch den grünen Stadtpark ab und lassen Sie die Eindrücke der schlesischen Kultur auf sich wirken.",
+        "hu": "Kezdje a napot Liegnitz történelmi piacterén, színes épületekkel körülvéve. A délelőtt a katedrális és a Szent János-templom szent csarnokaiba vezet, majd elmerülhet a Piast-kastély gazdag történelmében. Egy helyi specialitásokból álló ebéd után fedezze fel a város ipari örökségét a Rézmúzeumban, és csodálja meg a Lovagi Akadémia barokk pompáját. Zárja a napot egy békés sétával a zöld Városi Parkban, magába szívva a sziléziai kultúra benyomásait.",
+        "ro": "Începeți ziua în piața istorică din Legnica, înconjurat de clădiri colorate. Dimineața vă poartă spre sălile sfinte ale Catedralei și Bisericii Sf. Ioan, urmată de o imersiune în istoria bogată a Castelului Piast. După un prânz cu specialități locale, explorați moștenirea industrială a orașului la Muzeul Cuprului și admirați splendoarea barocă a Academiei Cavalerilor. Încheiați ziua cu o plimbare liniștită prin Parcul Municipal, absorbind impresiile culturii sileziene.",
+        "en": "Start your day in the historic market square of Legnica, surrounded by colorful buildings. The morning takes you to the sacred halls of the Cathedral and St. John's Church, followed by an immersion in the rich history of Piast Castle. After a lunch of local specialties, explore the city's industrial heritage at the Museum of Copper and admire the Baroque splendor of the Knight's Academy. Conclude your day with a peaceful stroll through the green City Park, soaking in the impressions of Silesian culture."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pierogi Śląskie",
+            "tip": "Probieren Sie diese schlesischen Teigtaschen, oft gefüllt mit Kartoffeln und Käse."
+          },
+          {
+            "name": "Bigos",
+            "tip": "Ein herzhafter Sauerkrauteintopf mit verschiedenen Fleischsorten."
+          },
+          {
+            "name": "Restauracja Ratuszowa",
+            "tip": "Speisen Sie mit Blick auf das Alte Rathaus und genießen Sie traditionelle polnische Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pierogi Śląskie",
+            "tip": "Kóstolja meg ezeket a sziléziai derelyéket, gyakran krumplival és sajttal töltve."
+          },
+          {
+            "name": "Bigos",
+            "tip": "Egy kiadós savanyúkáposzta-egytálétel, különféle húsokkal."
+          },
+          {
+            "name": "Ratuszowa Étterem",
+            "tip": "Étkezzen a Régi Városházára néző kilátással és élvezze a hagyományos lengyel konyhát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierogi Śląskie",
+            "tip": "Încercați aceste găluște sileziene, adesea umplute cu cartofi și brânză."
+          },
+          {
+            "name": "Bigos",
+            "tip": "O tocană consistentă de varză murată cu diverse tipuri de carne."
+          },
+          {
+            "name": "Restaurant Ratuszowa",
+            "tip": "Luați masa cu vedere la Primăria Veche și savurați bucătăria tradițională poloneză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierogi Śląskie",
+            "tip": "Try these Silesian dumplings, often filled with potatoes and cheese."
+          },
+          {
+            "name": "Bigos",
+            "tip": "A hearty hunter's stew made with sauerkraut and various meats."
+          },
+          {
+            "name": "Ratuszowa Restaurant",
+            "tip": "Dine with a view of the Old Town Hall and enjoy traditional Polish cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtpark",
+            "tip": "Finden Sie eine ruhige Bank am Teich und beobachten Sie die Schwäne.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Schlosshöfe",
+            "tip": "Die Innenhöfe des Piastenschlosses bieten eine ruhige Zuflucht vor der Hektik der Stadt.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Ufer der Kaczawa",
+            "tip": "Ein Spaziergang entlang des Flusses Kaczawa kann sehr beruhigend sein.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi Park",
+            "tip": "Keressen egy csendes padot a tó mellett, és figyelje a hattyúkat.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kastély udvarai",
+            "tip": "A Piast-kastély belső udvarai csendes menedéket nyújtanak a város nyüzsgésétől.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Kaczawa folyó partja",
+            "tip": "Egy séta a Kaczawa folyó mentén nagyon megnyugtató lehet.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Municipal",
+            "tip": "Găsiți o bancă liniștită lângă iaz și priviți lebedele.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curțile Castelului",
+            "tip": "Curțile interioare ale Castelului Piast oferă un refugiu liniștit de agitația orașului.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Malurile râului Kaczawa",
+            "tip": "O plimbare de-a lungul râului Kaczawa poate fi foarte liniștitoare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Park",
+            "tip": "Find a quiet bench by the pond and watch the swans.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Castle Courtyards",
+            "tip": "The courtyards of Piast Castle offer a quiet escape from the city bustle.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Banks of the Kaczawa River",
+            "tip": "A walk along the Kaczawa river can be very calming.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirläden am Marktplatz",
+            "tip": "Hier finden Sie handgefertigte Keramik und lokale Handwerksprodukte."
+          },
+          {
+            "name": "Kupferschmuck",
+            "tip": "Als Andenken an das 'Kupferreich' von Liegnitz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándékboltok a Piactéren",
+            "tip": "Itt kézzel készített kerámiákat és helyi kézműves termékeket talál."
+          },
+          {
+            "name": "Réz ékszerek",
+            "tip": "Liegnitz 'rézbirodalmának' emlékére."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de suveniruri din Piață",
+            "tip": "Aici veți găsi ceramică artizanală și produse de artizanat local."
+          },
+          {
+            "name": "Bijuterii din cupru",
+            "tip": "Ca amintire a 'imperiului cuprului' din Legnica."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir shops in the Market Square",
+            "tip": "You can find handmade pottery and local craft products here."
+          },
+          {
+            "name": "Copper Jewelry",
+            "tip": "As a memento of Legnica's 'copper empire'."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Halten Sie nach den vielen Zwergenstatuen Ausschau, die in der Stadt versteckt sind.",
+          "Einige Museen haben an bestimmten Tagen freien Eintritt."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert a macskakő az óvárosban egyenetlen lehet.",
+          "A központi látnivalók többsége könnyen megközelíthető gyalog.",
+          "Keresse a városban elrejtett számos törpe szobrot.",
+          "Néhány múzeum bizonyos napokon ingyenesen látogatható."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din centrul vechi poate fi denivelat.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Fiți atenți la numeroasele statui de pitici ascunse prin oraș.",
+          "Unele muzee au intrare liberă în anumite zile."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Most central sights are easily within walking distance.",
+          "Keep an eye out for the many dwarf statues hidden around the city.",
+          "Some museums have free admission on specific days."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:16",
+      "total_km": 7.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Altes Rathaus und Marktplatz",
+            "hu": "Régi Városháza és Piactér",
+            "ro": "Primăria Veche și Piața Centrală",
+            "en": "Old Town Hall and Market Square"
+          },
+          "coords": [
+            16.1618,
+            51.2075
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und genießen Sie einen Kaffee in einem der Cafés.",
+            "hu": "Zárja le a kerékpárt és élvezzen egy kávét az egyik kávézóban.",
+            "ro": "Legați-vă bicicleta și savurați o cafea la una dintre cafenele.",
+            "en": "Lock up your bike and enjoy a coffee at one of the cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale St. Peter und Paul",
+            "hu": "Szent Péter és Pál Katedrális",
+            "ro": "Catedrala Sfinții Petru și Pavel",
+            "en": "Cathedral of Saints Peter and Paul"
+          },
+          "coords": [
+            16.1645,
+            51.2082
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:43",
+          "stay_min": 50,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer, aber eindrucksvoller Besuch ist ein Muss.",
+            "hu": "Egy rövid, de lenyűgöző látogatás kötelező.",
+            "ro": "O vizită scurtă, dar impresionantă este obligatorie.",
+            "en": "A short but impressive visit is a must."
+          }
+        },
+        {
+          "name": {
+            "de": "Piastenschloss & Haynauer Torturm",
+            "hu": "Piast-kastély és Chojnów-torony",
+            "ro": "Castelul Piast & Turnul Chojnów",
+            "en": "Piast Castle & Chojnów Tower"
+          },
+          "coords": [
+            16.158,
+            51.2105
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:39",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Schlossbesuch mit einem Blick vom nahegelegenen Turm.",
+            "hu": "Kombinálja a kastélylátogatást a közeli toronyból nyíló kilátással.",
+            "ro": "Combinați vizita la castel cu o priveliște din turnul din apropiere.",
+            "en": "Combine the castle visit with a view from the nearby tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Ritterakademie",
+            "hu": "Lovagi Akadémia",
+            "ro": "Academia Cavalerilor",
+            "en": "Knight's Academy"
+          },
+          "coords": [
+            16.156,
+            51.211
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:12",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto von der beeindruckenden Fassade.",
+            "hu": "Készítsen egy fotót a lenyűgöző homlokzatról.",
+            "ro": "Faceți o fotografie a fațadei impresionante.",
+            "en": "Take a photo of the impressive facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Kupfermuseum",
+            "hu": "Rézmúzeum",
+            "ro": "Muzeul Cuprului",
+            "en": "Museum of Copper"
+          },
+          "coords": [
+            16.165,
+            51.209
+          ],
+          "category": "museums",
+          "arrive_at": "13:04",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein Muss, um die lokale Identität zu verstehen.",
+            "hu": "Kötelező a helyi identitás megértéséhez.",
+            "ro": "O vizită obligatorie pentru a înțelege identitatea locală.",
+            "en": "A must-visit to understand the local identity."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Johannes der Täufer",
+            "hu": "Keresztelő Szent János-templom",
+            "ro": "Biserica Sf. Ioan Botezătorul",
+            "en": "Church of St. John the Baptist"
+          },
+          "coords": [
+            16.1595,
+            51.2065
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:52",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Halten Sie inne und bewundern Sie die Ruhe dieses barocken Juwels.",
+            "hu": "Álljon meg és csodálja meg e barokk ékszer csendjét.",
+            "ro": "Opriți-vă și admirați liniștea acestei bijuterii baroce.",
+            "en": "Pause and admire the tranquility of this baroque gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark",
+            "hu": "Városi Park",
+            "ro": "Parcul Municipal",
+            "en": "City Park"
+          },
+          "coords": [
+            16.17,
+            51.205
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:44",
+          "stay_min": 92,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Fahren Sie auf den Wegen und genießen Sie die Natur.",
+            "hu": "Kerékpározzon az ösvényeken és élvezze a természetet.",
+            "ro": "Plimbați-vă cu bicicleta pe alei și bucurați-vă de natură.",
+            "en": "Cycle through the paths and enjoy the nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Fahrrad und beginnen Sie Ihre Tour auf dem Marktplatz von Liegnitz. Eine kurze Fahrt bringt Sie zu den beeindruckenden Kirchen der Stadt und zum historischen Piastenschloss. Am Mittag, nach dem Genuss der barocken Ritterakademie, radeln Sie zum Kupfermuseum, um in die lokale Geschichte einzutauchen. Der Nachmittag ist für eine entspannte Fahrt zum Stadtpark reserviert, wo Sie die grünen Wege erkunden und den Tag ausklingen lassen können.",
+        "hu": "Pattanjon kerékpárra, és kezdje a túrát Liegnitz piacterén. Egy rövid tekerés elvezeti a város lenyűgöző templomaihoz és a történelmi Piast-kastélyhoz. Délben, miután megcsodálta a barokk Lovagi Akadémiát, tekerjen el a Rézmúzeumba, hogy elmerüljön a helyi történelemben. A délután egy pihentető kerékpártúrára van fenntartva a Városi Parkba, ahol felfedezheti a zöld ösvényeket és lezárhatja a napot.",
+        "ro": "Urcați-vă pe bicicletă și începeți turul în Piața din Legnica. O scurtă plimbare vă va duce la bisericile impresionante ale orașului și la Castelul istoric Piast. La prânz, după ce ați admirat Academia Cavalerilor în stil baroc, pedalați spre Muzeul Cuprului pentru a vă cufunda în istoria locală. După-amiaza este rezervată unei plimbări relaxante cu bicicleta în Parcul Municipal, unde puteți explora aleile verzi și încheia ziua.",
+        "en": "Hop on your bike and start your tour in the Market Square of Legnica. A short ride will take you to the city's impressive churches and the historic Piast Castle. At midday, after enjoying the baroque Knight's Academy, cycle to the Museum of Copper to delve into local history. The afternoon is reserved for a relaxing bike ride to the City Park, where you can explore the green paths and wind down your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Żurek",
+            "tip": "Eine traditionelle saure Roggenmehlsuppe, perfekt für eine Stärkung."
+          },
+          {
+            "name": "Kluski śląskie",
+            "tip": "Schlesische Kartoffelklöße, oft als Beilage serviert."
+          },
+          {
+            "name": "Bar Mleczny",
+            "tip": "Für ein schnelles, günstiges und authentisches polnisches Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Żurek",
+            "tip": "Hagyományos lengyel savanyú rozsleves, tökéletes feltöltődés."
+          },
+          {
+            "name": "Kluski śląskie",
+            "tip": "Sziléziai burgonyagombóc, gyakran köretként tálalva."
+          },
+          {
+            "name": "Tejbár (Bar Mleczny)",
+            "tip": "Egy gyors, olcsó és autentikus lengyel ebédért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Żurek",
+            "tip": "O supă tradițională acră de secară, perfectă pentru a vă reîncărca bateriile."
+          },
+          {
+            "name": "Kluski śląskie",
+            "tip": "Găluște de cartofi sileziene, adesea servite ca garnitură."
+          },
+          {
+            "name": "Bar Mleczny (Bar de lapte)",
+            "tip": "Pentru un prânz polonez rapid, ieftin și autentic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Żurek",
+            "tip": "A traditional sour rye soup, perfect for a refuel."
+          },
+          {
+            "name": "Kluski śląskie",
+            "tip": "Silesian potato dumplings, often served as a side dish."
+          },
+          {
+            "name": "Bar Mleczny (Milk Bar)",
+            "tip": "For a quick, cheap, and authentic Polish lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Japanischer Garten im Stadtpark",
+            "tip": "Ein besonders ruhiger Abschnitt im Park.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Friedhof der Sowjetsoldaten",
+            "tip": "Ein historischer und stiller Ort zum Nachdenken.",
+            "emoji": "🕊️"
+          },
+          {
+            "name": "Blick von der Schlossmauer",
+            "tip": "Finden Sie einen ruhigen Platz entlang der alten Mauern.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Japánkert a Városi Parkban",
+            "tip": "Egy különösen csendes rész a parkon belül.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Szovjet Katonai Temető",
+            "tip": "Egy történelmi és csendes hely az elmélkedésre.",
+            "emoji": "🕊️"
+          },
+          {
+            "name": "Kilátás a várfalról",
+            "tip": "Keressen egy csendes helyet a régi falak mentén.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Japoneză din Parcul Municipal",
+            "tip": "O secțiune deosebit de liniștită în parc.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Cimitirul soldaților sovietici",
+            "tip": "Un loc istoric și tăcut pentru reflecție.",
+            "emoji": "🕊️"
+          },
+          {
+            "name": "Vedere de pe zidurile castelului",
+            "tip": "Găsiți un loc liniștit de-a lungul zidurilor vechi.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Japanese Garden in the City Park",
+            "tip": "A particularly peaceful section within the park.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Soviet Soldiers' Cemetery",
+            "tip": "A historical and silent place for reflection.",
+            "emoji": "🕊️"
+          },
+          {
+            "name": "View from the castle walls",
+            "tip": "Find a quiet spot along the ancient walls.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt (Targowisko Miejskie)",
+            "tip": "Kaufen Sie frische Produkte und erleben Sie das lokale Leben."
+          },
+          {
+            "name": "Schlesische Handwerkskunst",
+            "tip": "Achten Sie auf Holzschnitzereien und bestickte Textilien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac (Targowisko Miejskie)",
+            "tip": "Vásároljon friss termékeket és tapasztalja meg a helyi életet."
+          },
+          {
+            "name": "Sziléziai kézművesség",
+            "tip": "Keresse a fafaragásokat és a hímzett textíliákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală (Targowisko Miejskie)",
+            "tip": "Cumpărați produse proaspete și experimentați viața locală."
+          },
+          {
+            "name": "Artizanat silezian",
+            "tip": "Căutați sculpturi în lemn și textile brodate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market (Targowisko Miejskie)",
+            "tip": "Buy fresh produce and experience local life."
+          },
+          {
+            "name": "Silesian Handicrafts",
+            "tip": "Look for wood carvings and embroidered textiles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Liegnitz ist relativ flach und daher gut zum Radfahren geeignet.",
+          "Nutzen Sie Fahrradständer in der Nähe der Hauptattraktionen.",
+          "Achten Sie auf ausgewiesene Radwege, besonders außerhalb des Zentrums.",
+          "Eine Fahrradklingel ist im Stadtverkehr nützlich."
+        ],
+        "hu": [
+          "Liegnitz viszonylag sík, így kiválóan alkalmas kerékpározásra.",
+          "Használja a fő látnivalók közelében található kerékpártárolókat.",
+          "Figyeljen a kijelölt kerékpárutakra, különösen a központon kívül.",
+          "Egy kerékpárcsengő hasznos a városi forgalomban."
+        ],
+        "ro": [
+          "Legnica este relativ plată, fiind potrivită pentru ciclism.",
+          "Folosiți suporturile de biciclete de lângă atracțiile principale.",
+          "Fiți atenți la pistele de biciclete desemnate, mai ales în afara centrului.",
+          "Un claxon de bicicletă este util în traficul urban."
+        ],
+        "en": [
+          "Legnica is relatively flat, making it great for cycling.",
+          "Use bike racks near the main attractions.",
+          "Pay attention to designated bike lanes, especially outside the center.",
+          "A bike bell is useful in city traffic."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 9.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Altstadt (Cluster A)",
+            "hu": "Parkoló, Óváros (A csoport)",
+            "ro": "Parcare Centrul Vechi (Cluster A)",
+            "en": "Old Town Car Park (Cluster A)"
+          },
+          "coords": [
+            16.166,
+            51.207
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Vormittag. Das Zentrum ist zu Fuß erreichbar.",
+            "hu": "Parkoljon itt a délelőttre. A központ gyalogosan elérhető.",
+            "ro": "Parcați aici pentru dimineață. Centrul este accesibil pe jos.",
+            "en": "Park here for the morning. The center is accessible on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Rathaus und Kathedrale",
+            "hu": "Régi Városháza és Katedrális",
+            "ro": "Primăria Veche și Catedrala",
+            "en": "Old Town Hall and Cathedral"
+          },
+          "coords": [
+            16.1625,
+            51.2078
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie den Marktplatz und die nahe gelegene Kathedrale zu Fuß.",
+            "hu": "Fedezze fel gyalog a Piacteret és a közeli Katedrálist.",
+            "ro": "Explorați Piața și Catedrala din apropiere pe jos.",
+            "en": "Explore the Market Square and the nearby Cathedral on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kupfermuseum",
+            "hu": "Rézmúzeum",
+            "ro": "Muzeul Cuprului",
+            "en": "Museum of Copper"
+          },
+          "coords": [
+            16.165,
+            51.209
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Vom Marktplatz aus ein kurzer Spaziergang.",
+            "hu": "A Piactérről egy rövid séta.",
+            "ro": "O scurtă plimbare de la Piață.",
+            "en": "A short walk from the Market Square."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Piastenschloss (Cluster B)",
+            "hu": "Parkoló, Piast-kastély (B csoport)",
+            "ro": "Parcare Castelul Piast (Cluster B)",
+            "en": "Piast Castle Car Park (Cluster B)"
+          },
+          "coords": [
+            16.157,
+            51.2115
+          ],
+          "category": "transport",
+          "arrive_at": "12:50",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Schlossbereich und parken Sie neu für den Nachmittag.",
+            "hu": "Vezessen a kastély területére és parkoljon le a délutánra.",
+            "ro": "Conduceți spre zona castelului și parcați din nou pentru după-amiază.",
+            "en": "Drive to the castle area and park again for the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Piastenschloss und Ritterakademie",
+            "hu": "Piast-kastély és Lovagi Akadémia",
+            "ro": "Castelul Piast și Academia Cavalerilor",
+            "en": "Piast Castle and Knight's Academy"
+          },
+          "coords": [
+            16.1575,
+            51.2108
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:00",
+          "stay_min": 150,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Diese beiden prächtigen Gebäude liegen nebeneinander.",
+            "hu": "Ez a két csodálatos épület egymás mellett található.",
+            "ro": "Aceste două clădiri magnifice sunt situate una lângă alta.",
+            "en": "These two magnificent buildings are located next to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark",
+            "hu": "Városi Park",
+            "ro": "Parcul Municipal",
+            "en": "City Park"
+          },
+          "coords": [
+            16.17,
+            51.205
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:05",
+          "stay_min": 70,
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Park, um den Tag entspannt ausklingen zu lassen.",
+            "hu": "Vezessen a parkba, hogy pihentetően zárja a napot.",
+            "ro": "Conduceți spre parc pentru a încheia ziua într-un mod relaxant.",
+            "en": "Drive to the park to end the day in a relaxed way."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Tag, indem Sie Ihr Auto in der Nähe der Altstadt parken. Erkunden Sie zu Fuß den Marktplatz, die Kathedrale und das Kupfermuseum. Am Mittag fahren Sie zum Schloss-Cluster, wo Sie das imposante Piastenschloss und die elegante Ritterakademie entdecken. Der Nachmittag endet mit einer kurzen Fahrt zum Stadtpark, einem idealen Ort, um sich nach einem Tag voller Entdeckungen zu entspannen und die Natur zu genießen.",
+        "hu": "Kezdje a napot azzal, hogy leparkolja autóját az óváros közelében. Fedezze fel gyalog a piacteret, a katedrálist és a Rézmúzeumot. Délben vezessen át a kastély-negyedbe, ahol felfedezheti a lenyűgöző Piast-kastélyt és az elegáns Lovagi Akadémiát. A nap egy rövid autóúttal zárul a Városi Parkba, amely ideális hely a pihenésre és a természet élvezetére egy felfedezésekkel teli nap után.",
+        "ro": "Începeți ziua parcând mașina lângă centrul vechi. Explorați pe jos Piața, Catedrala și Muzeul Cuprului. La prânz, conduceți spre zona castelului, unde veți descoperi impunătorul Castel Piast și eleganta Academie a Cavalerilor. Ziua se încheie cu o scurtă călătorie cu mașina spre Parcul Municipal, un loc ideal pentru a vă relaxa și a vă bucura de natură după o zi plină de descoperiri.",
+        "en": "Start your day by parking your car near the Old Town. Explore the Market Square, the Cathedral, and the Museum of Copper on foot. At noon, drive to the castle cluster, where you'll discover the imposing Piast Castle and the elegant Knight's Academy. The day concludes with a short drive to the City Park, an ideal place to relax and enjoy nature after a day full of discoveries."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schlesisches Himmelreich",
+            "tip": "Ein traditionelles Fleischgericht mit Backobst in Sahnesauce."
+          },
+          {
+            "name": "Karczma",
+            "tip": "Suchen Sie nach einem 'Karczma' (traditionelles Gasthaus) für ein authentisches Erlebnis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sziléziai mennyország (Schlesisches Himmelreich)",
+            "tip": "Hagyományos húsétel aszalt gyümölcsökkel, tejszínes mártásban."
+          },
+          {
+            "name": "Karczma (Csárda)",
+            "tip": "Keressen egy 'Karczma'-t egy autentikus élményért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Schlesisches Himmelreich",
+            "tip": "Un preparat tradițional din carne cu fructe uscate în sos de smântână."
+          },
+          {
+            "name": "Karczma (Herghelie)",
+            "tip": "Căutați o 'Karczma' pentru o experiență autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Silesian Heaven (Schlesisches Himmelreich)",
+            "tip": "A traditional meat dish with dried fruit in a cream sauce."
+          },
+          {
+            "name": "Karczma (Inn)",
+            "tip": "Look for a 'Karczma' for an authentic dining experience."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mausoleum der Piasten",
+            "tip": "Innerhalb der Johanneskirche, ein Ort der Stille und Geschichte.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Satty-Wälder",
+            "tip": "Eine kurze Autofahrt entfernt für einen Spaziergang in der Natur.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piast Mauzóleum",
+            "tip": "A Szent János-templomban található, a csend és a történelem helye.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Satty erdő",
+            "tip": "Egy rövid autóútra található egy természetközeli sétáért.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mausoleul Piast",
+            "tip": "În interiorul Bisericii Sf. Ioan, un loc de liniște și istorie.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Pădurile Satty",
+            "tip": "La o scurtă distanță cu mașina pentru o plimbare în natură.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mausoleum of the Piasts",
+            "tip": "Inside St. John's Church, a place of silence and history.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Satty Forests",
+            "tip": "A short drive away for a walk in nature.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bernsteinschmuck",
+            "tip": "Polen ist berühmt für seinen Bernstein (Bursztyn)."
+          },
+          {
+            "name": "Galeria Piastów",
+            "tip": "Ein modernes Einkaufszentrum für alle Bedürfnisse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borostyán ékszerek",
+            "tip": "Lengyelország híres a borostyánjáról (Bursztyn)."
+          },
+          {
+            "name": "Galeria Piastów",
+            "tip": "Egy modern bevásárlóközpont minden igényre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bijuterii din chihlimbar",
+            "tip": "Polonia este renumită pentru chihlimbarul său (Bursztyn)."
+          },
+          {
+            "name": "Galeria Piastów",
+            "tip": "Un centru comercial modern pentru toate nevoile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Amber Jewelry",
+            "tip": "Poland is famous for its amber (Bursztyn)."
+          },
+          {
+            "name": "Galeria Piastów",
+            "tip": "A modern shopping mall for all needs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf Parkzonen und Gebühren in der Innenstadt.",
+          "Tagesparkplätze sind oft günstiger als stundenweises Parken.",
+          "Planen Sie Ihre Fahrten zwischen den Clustern außerhalb der Stoßzeiten.",
+          "Ein GPS ist unerlässlich, um sich in der Stadt zurechtzufinden."
+        ],
+        "hu": [
+          "Figyeljen a parkolási zónákra és díjakra a belvárosban.",
+          "A napijegyes parkolók gyakran olcsóbbak, mint az óránkénti parkolás.",
+          "Tervezze az utazásokat a klaszterek között a csúcsidőn kívülre.",
+          "A GPS elengedhetetlen a városban való navigáláshoz."
+        ],
+        "ro": [
+          "Fiți atenți la zonele de parcare și la taxele din centrul orașului.",
+          "Parcările pe o zi întreagă sunt adesea mai ieftine decât parcarea cu ora.",
+          "Planificați-vă călătoriile între clustere în afara orelor de vârf.",
+          "Un GPS este esențial pentru a naviga prin oraș."
+        ],
+        "en": [
+          "Pay attention to parking zones and fees in the city center.",
+          "All-day car parks are often cheaper than hourly parking.",
+          "Plan your drives between clusters outside of peak hours.",
+          "A GPS is essential for navigating the city."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Haltestelle Altstadt (Cluster A)",
+            "hu": "Megálló, Óváros (A csoport)",
+            "ro": "Stația Centrul Vechi (Cluster A)",
+            "en": "Old Town Stop (Cluster A)"
+          },
+          "coords": [
+            16.1655,
+            51.208
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier. Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr.",
+            "hu": "Kezdje itt. Vásároljon napijegyet a tömegközlekedéshez.",
+            "ro": "Începeți aici. Cumpărați un bilet de o zi pentru transportul public.",
+            "en": "Start here. Buy a day pass for public transport."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Rathaus und Kathedrale",
+            "hu": "Régi Városháza és Katedrális",
+            "ro": "Primăria Veche și Catedrala",
+            "en": "Old Town Hall and Cathedral"
+          },
+          "coords": [
+            16.1625,
+            51.2078
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Bushaltestelle.",
+            "hu": "Rövid séta a buszmegállótól.",
+            "ro": "O scurtă plimbare de la stația de autobuz.",
+            "en": "A short walk from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Kupfermuseum",
+            "hu": "Rézmúzeum",
+            "ro": "Muzeul Cuprului",
+            "en": "Museum of Copper"
+          },
+          "coords": [
+            16.165,
+            51.209
+          ],
+          "category": "museums",
+          "arrive_at": "11:05",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Kupfergeschichte, bevor Sie den Bus zum nächsten Cluster nehmen.",
+            "hu": "Fedezze fel a réz történetét, mielőtt busszal a következő klaszterhez utazna.",
+            "ro": "Descoperiți istoria cuprului înainte de a lua autobuzul spre următorul cluster.",
+            "en": "Discover the copper history before taking the bus to the next cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle Piastenschloss (Cluster B)",
+            "hu": "Megálló, Piast-kastély (B csoport)",
+            "ro": "Stația Castelul Piast (Cluster B)",
+            "en": "Piast Castle Stop (Cluster B)"
+          },
+          "coords": [
+            16.157,
+            51.2115
+          ],
+          "category": "transport",
+          "arrive_at": "12:55",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Steigen Sie hier aus, um das Schloss und die Akademie zu erkunden.",
+            "hu": "Szálljon le itt a kastély és az akadémia felfedezéséhez.",
+            "ro": "Coborâți aici pentru a explora castelul și academia.",
+            "en": "Get off here to explore the castle and academy."
+          }
+        },
+        {
+          "name": {
+            "de": "Piastenschloss und Ritterakademie",
+            "hu": "Piast-kastély és Lovagi Akadémia",
+            "ro": "Castelul Piast și Academia Cavalerilor",
+            "en": "Piast Castle and Knight's Academy"
+          },
+          "coords": [
+            16.1575,
+            51.2108
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:05",
+          "stay_min": 150,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für diese beiden benachbarten Sehenswürdigkeiten.",
+            "hu": "Szánjon időt erre a két szomszédos látnivalóra.",
+            "ro": "Luați-vă timp pentru aceste două atracții învecinate.",
+            "en": "Take your time for these two neighboring sights."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark",
+            "hu": "Városi Park",
+            "ro": "Parcul Municipal",
+            "en": "City Park"
+          },
+          "coords": [
+            16.17,
+            51.205
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:10",
+          "stay_min": 85,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Eine letzte Busfahrt bringt Sie in die grüne Lunge der Stadt.",
+            "hu": "Egy utolsó buszút a város zöld tüdejébe visz.",
+            "ro": "O ultimă călătorie cu autobuzul vă va duce la plămânul verde al orașului.",
+            "en": "A final bus ride takes you to the city's green lung."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit einer Tageskarte für den Nahverkehr beginnt Ihre Reise im Herzen der Altstadt. Nach einem Spaziergang um den Marktplatz und die Kathedrale nehmen Sie den Bus zum Schloss-Cluster. Hier verbringen Sie den Mittag damit, das Piastenschloss und die Ritterakademie zu bewundern. Am späten Nachmittag bringt Sie ein weiterer Bus in den Stadtpark, wo Sie den Tag in ruhiger, grüner Umgebung ausklingen lassen können.",
+        "hu": "Egy tömegközlekedési napijeggyel a kezében kezdődik az utazás az óváros szívében. A piactér és a katedrális körüli séta után busszal utazik a kastély-klaszterhez. Itt tölti a délt a Piast-kastély és a Lovagi Akadémia csodálatával. Késő délután egy másik busz viszi a Városi Parkba, ahol egy csendes, zöld környezetben fejezheti be a napot.",
+        "ro": "Cu un bilet de o zi pentru transportul public, călătoria dvs. începe în inima centrului vechi. După o plimbare în jurul pieței și a catedralei, luați autobuzul spre clusterul castelului. Aici vă veți petrece amiaza admirând Castelul Piast și Academia Cavalerilor. Spre seară, un alt autobuz vă va duce la Parcul Municipal, unde puteți încheia ziua într-un mediu liniștit și verde.",
+        "en": "With a public transport day pass, your journey begins in the heart of the Old Town. After a walk around the Market Square and the Cathedral, you take a bus to the castle cluster. Here you'll spend midday admiring Piast Castle and the Knight's Academy. In the late afternoon, another bus will take you to the City Park, where you can end the day in a quiet, green setting."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zapiekanka",
+            "tip": "Ein beliebtes polnisches Streetfood, ähnlich einem langen offenen Sandwich."
+          },
+          {
+            "name": "Pączki",
+            "tip": "Probieren Sie diese köstlichen polnischen Donuts als süßen Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zapiekanka",
+            "tip": "Népszerű lengyel street food, egy hosszú, nyitott szendvicshez hasonló."
+          },
+          {
+            "name": "Pączki",
+            "tip": "Kóstolja meg ezeket a finom lengyel fánkokat édes snackként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zapiekanka",
+            "tip": "Un street food polonez popular, asemănător unui sandviș lung deschis."
+          },
+          {
+            "name": "Pączki",
+            "tip": "Încercați aceste delicioase gogoși poloneze ca gustare dulce."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zapiekanka",
+            "tip": "A popular Polish street food, similar to a long open-faced sandwich."
+          },
+          {
+            "name": "Pączki",
+            "tip": "Try these delicious Polish doughnuts for a sweet snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bibliothek der Ritterakademie",
+            "tip": "Ein Ort der Stille und des Wissens, falls zugänglich.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Seitenstraßen der Altstadt",
+            "tip": "Verlieren Sie sich in den weniger belebten Gassen.",
+            "emoji": "🏘️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Lovagi Akadémia könyvtára",
+            "tip": "A csend és a tudás helye, ha látogatható.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Az óváros mellékutcái",
+            "tip": "Vesszen el a kevésbé forgalmas sikátorokban.",
+            "emoji": "🏘️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biblioteca Academiei Cavalerilor",
+            "tip": "Un loc de tăcere și cunoaștere, dacă este accesibil.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Străduțele laterale ale Centrului Vechi",
+            "tip": "Pierdeți-vă pe aleile mai puțin aglomerate.",
+            "emoji": "🏘️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Knight's Academy Library",
+            "tip": "A place of silence and knowledge, if accessible.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Side streets of the Old Town",
+            "tip": "Get lost in the less crowded alleys.",
+            "emoji": "🏘️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Regionale Lebensmittel",
+            "tip": "Kaufen Sie Oscypek-Käse oder lokale Wurstwaren auf einem Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi élelmiszerek",
+            "tip": "Vásároljon Oscypek sajtot vagy helyi kolbászokat a piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse alimentare regionale",
+            "tip": "Cumpărați brânză Oscypek sau mezeluri locale de la o piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Regional Foods",
+            "tip": "Buy Oscypek cheese or local sausages from a market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie eine Nahverkehrs-App herunter, um Routen und Fahrpläne zu prüfen.",
+          "Eine Tageskarte ist die kostengünstigste Option für mehrere Fahrten.",
+          "Validieren Sie Ihr Ticket beim Einsteigen, um Strafen zu vermeiden.",
+          "Beachten Sie, dass Busse am Abend und am Wochenende seltener fahren könnten."
+        ],
+        "hu": [
+          "Töltsön le egy tömegközlekedési alkalmazást az útvonalak és menetrendek ellenőrzéséhez.",
+          "Egy napijegy a legköltséghatékonyabb megoldás több utazáshoz.",
+          "Érvényesítse a jegyét felszálláskor a büntetések elkerülése érdekében.",
+          "Vegye figyelembe, hogy a buszok este és hétvégén ritkábban járhatnak."
+        ],
+        "ro": [
+          "Descărcați o aplicație de transport public pentru a verifica rutele și orarele.",
+          "Un bilet de o zi este cea mai rentabilă opțiune pentru mai multe călătorii.",
+          "Validați-vă biletul la urcare pentru a evita amenzile.",
+          "Rețineți că autobuzele pot circula mai rar seara și în weekend."
+        ],
+        "en": [
+          "Download a public transport app to check routes and schedules.",
+          "A day pass is the most cost-effective option for multiple trips.",
+          "Validate your ticket upon boarding to avoid fines.",
+          "Be aware that buses may run less frequently in the evening and on weekends."
+        ]
+      }
+    }
+  }
+}

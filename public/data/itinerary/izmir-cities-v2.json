@@ -1,0 +1,1581 @@
+{
+  "city_id": "izmir-cities-v2",
+  "anchor": {
+    "name": "Izmir",
+    "coords": [
+      27.1428,
+      38.4237
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:55",
+      "total_km": 6.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Uhrturm von Izmir (Konak-Platz)",
+            "hu": "Izmiri óratorony (Konak tér)",
+            "ro": "Turnul cu Ceas din Izmir (Piața Konak)",
+            "en": "Izmir Clock Tower (Konak Square)"
+          },
+          "coords": [
+            27.1287,
+            38.4187
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Der perfekte Startpunkt. Füttern Sie die Tauben und genießen Sie die Meeresbrise.",
+            "hu": "Tökéletes kiindulópont. Etesd meg a galambokat és élvezd a tengeri szellőt.",
+            "ro": "Punctul de plecare perfect. Hrăniți porumbeii și bucurați-vă de briza mării.",
+            "en": "The perfect starting point. Feed the pigeons and enjoy the sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Kemeraltı-Basar",
+            "hu": "Kemeraltı bazár",
+            "ro": "Bazarul Kemeraltı",
+            "en": "Kemeraltı Bazaar"
+          },
+          "coords": [
+            27.1325,
+            38.4195
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:43",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den Gassen. Handeln ist hier Teil des Erlebnisses!",
+            "hu": "Vessz el a sikátorokban! Az alkudozás itt az élmény része!",
+            "ro": "Pierdeți-vă pe alei. Negocierea face parte din experiență aici!",
+            "en": "Get lost in the alleys. Haggling is part of the experience here!"
+          }
+        },
+        {
+          "name": {
+            "de": "Hisar-Moschee",
+            "hu": "Hisar-mecset",
+            "ro": "Moscheea Hisar",
+            "en": "Hisar Mosque"
+          },
+          "coords": [
+            27.1337,
+            38.4182
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die osmanische Architektur mitten im Basar. Achten Sie auf angemessene Kleidung.",
+            "hu": "Csodáld meg az oszmán építészetet a bazár közepén. Ügyelj a megfelelő öltözékre.",
+            "ro": "Admirați arhitectura otomană în mijlocul bazarului. Asigurați-vă că purtați o ținută adecvată.",
+            "en": "Admire the Ottoman architecture in the middle of the bazaar. Be mindful of the dress code."
+          }
+        },
+        {
+          "name": {
+            "de": "Kizlaragasi Hani",
+            "hu": "Kızlarağası Hanı",
+            "ro": "Kizlaragasi Hani",
+            "en": "Kizlaragasi Hani"
+          },
+          "coords": [
+            27.1344,
+            38.4178
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:42",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Trinken Sie einen türkischen Kaffee in diesem historischen Karawanserei-Hof.",
+            "hu": "Igyál egy török kávét ebben a történelmi karavánszeráj udvarán.",
+            "ro": "Beți o cafea turcească în curtea acestui han istoric.",
+            "en": "Have a Turkish coffee in this historic caravanserai courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Agora von Smyrna",
+            "hu": "Szmirnai agora",
+            "ro": "Agora din Smirna",
+            "en": "Agora of Smyrna"
+          },
+          "coords": [
+            27.1388,
+            38.4191
+          ],
+          "category": "historical",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Stellen Sie sich das römische Leben zwischen den antiken Säulen und Bögen vor.",
+            "hu": "Képzeld el a római életet az ókori oszlopok és boltívek között.",
+            "ro": "Imaginați-vă viața romană printre coloanele și arcadele antice.",
+            "en": "Imagine Roman life among the ancient columns and arches."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum Izmir",
+            "hu": "Izmiri Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie din Izmir",
+            "en": "Izmir Archaeological Museum"
+          },
+          "coords": [
+            27.1263,
+            38.4147
+          ],
+          "category": "museums",
+          "arrive_at": "14:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Artefakte aus der Agora, um Ihre Tour zu vervollständigen.",
+            "hu": "Koncentrálj az agorából származó leletekre, hogy teljes legyen a túrád.",
+            "ro": "Concentrează-te pe artefactele de la Agora pentru a-ți completa turul.",
+            "en": "Focus on the artifacts from the Agora to complete your tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Asansör (Historischer Aufzug)",
+            "hu": "Asansör (Történelmi lift)",
+            "ro": "Asansör (Liftul istoric)",
+            "en": "Asansör (Historical Elevator)"
+          },
+          "coords": [
+            27.1201,
+            38.4095
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Aufzug nach oben und genießen Sie den Panoramablick bei einem Drink.",
+            "hu": "Menj fel a lifttel a panorámás kilátásért egy ital mellett.",
+            "ro": "Urcați cu liftul pentru o priveliște panoramică savurând o băutură.",
+            "en": "Take the elevator up for a panoramic view over a drink."
+          }
+        },
+        {
+          "name": {
+            "de": "Kordonboyu Promenade",
+            "hu": "Kordonboyu sétány",
+            "ro": "Promenada Kordonboyu",
+            "en": "Kordonboyu Promenade"
+          },
+          "coords": [
+            27.1322,
+            38.4285
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "18:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Finden Sie eine Bank, beobachten Sie den Sonnenuntergang und das geschäftige Treiben der Stadt.",
+            "hu": "Keress egy padot, nézd a naplementét és a város nyüzsgését.",
+            "ro": "Găsiți o bancă, priviți apusul și agitația orașului.",
+            "en": "Find a bench, watch the sunset and the city's hustle and bustle."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am symbolträchtigen Uhrturm, dem Herzen von Izmir. Tauchen Sie dann in das Labyrinth des Kemeraltı-Basars ein, wo Geschichte und Handel aufeinandertreffen. Am Nachmittag reisen Sie in die Römerzeit in der Agora von Smyrna zurück. Schließen Sie den Tag mit einem entspannten Spaziergang entlang der Kordonboyu-Promenade ab und genießen Sie den Sonnenuntergang über der Ägäis.",
+        "hu": "Kezdje a napot az ikonikus Óratoronynál, Izmir szívében. Merüljön el a Kemeraltı bazár labirintusában, ahol a történelem és a kereskedelem találkozik. Délután utazzon vissza a római korba a szmirnai agorán. Zárja a napot egy pihentető sétával a Kordonboyu sétányon, élvezve az égei-tengeri naplementét.",
+        "ro": "Începeți ziua la emblematicul Turn cu Ceas, inima Izmirului. Apoi, scufundați-vă în labirintul Bazarului Kemeraltı, unde istoria și comerțul se întâlnesc. După-amiaza, călătoriți înapoi în timp, în perioada romană, la Agora din Smirna. Încheiați ziua cu o plimbare relaxantă de-a lungul promenadei Kordonboyu, admirând apusul peste Marea Egee.",
+        "en": "Start your day at the iconic Clock Tower, the heart of Izmir. Then, dive into the labyrinth of Kemeraltı Bazaar, where history and commerce meet. In the afternoon, travel back to Roman times at the Agora of Smyrna. End the day with a relaxing stroll along the Kordonboyu promenade, watching the sunset over the Aegean."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kumru",
+            "tip": "Ein warmes Sandwich mit Wurst, Käse und Tomaten. Probieren Sie es bei Kumrucu Şevki am Kordon."
+          },
+          {
+            "name": "Boyoz",
+            "tip": "Ein lokales Gebäck, oft mit einem hartgekochten Ei zum Frühstück gegessen. Finden Sie es in jeder Bäckerei in Alsancak."
+          },
+          {
+            "name": "Meeresfrüchte am Kordon",
+            "tip": "Wählen Sie eines der vielen Fischrestaurants am Kordon für frischen Fisch und Raki."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kumru",
+            "tip": "Meleg szendvics kolbásszal, sajttal és paradicsommal. Kóstold meg a Kumrucu Şevkiben a Kordonon."
+          },
+          {
+            "name": "Boyoz",
+            "tip": "Helyi péksütemény, gyakran keménytojással reggelire. Minden Alsancak-i pékségben megtalálható."
+          },
+          {
+            "name": "Tenger gyümölcsei a Kordonon",
+            "tip": "Válassz a Kordon számos halétterme közül egy friss halért és rakiért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kumru",
+            "tip": "Un sandviș cald cu cârnați, brânză și roșii. Încercați-l la Kumrucu Şevki pe Kordon."
+          },
+          {
+            "name": "Boyoz",
+            "tip": "Un produs de patiserie local, adesea mâncat cu un ou fiert la micul dejun. Găsiți-l în orice patiserie din Alsancak."
+          },
+          {
+            "name": "Fructe de mare pe Kordon",
+            "tip": "Alegeți unul dintre multele restaurante de pește de pe Kordon pentru pește proaspăt și raki."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kumru",
+            "tip": "A warm sandwich with sausage, cheese, and tomato. Try it at Kumrucu Şevki on the Kordon."
+          },
+          {
+            "name": "Boyoz",
+            "tip": "A local pastry, often eaten with a hard-boiled egg for breakfast. Find it at any bakery in Alsancak."
+          },
+          {
+            "name": "Seafood on the Kordon",
+            "tip": "Choose one of the many fish restaurants on the Kordon for fresh fish and raki."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kadifekale",
+            "tip": "Obwohl es ein Spaziergang ist, ist die Aussicht von oben ruhig und atemberaubend.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kordonboyu am frühen Morgen",
+            "tip": "Spazieren Sie bei Sonnenaufgang für eine friedliche Erfahrung.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hof der Hisar-Moschee",
+            "tip": "Finden Sie einen ruhigen Moment abseits des Basar-Trubels.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kadifekale",
+            "tip": "Bár séta, a kilátás fentről nyugodt és lélegzetelállító.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kora reggeli Kordonboyu",
+            "tip": "Sétálj napkeltekor a békés élményért.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hisar-mecset udvara",
+            "tip": "Találj egy csendes pillanatot a bazár nyüzsgésétől távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kadifekale",
+            "tip": "Deși este o plimbare, priveliștea de sus este liniștită și uluitoare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kordonboyu dimineața devreme",
+            "tip": "Plimbați-vă la răsărit pentru o experiență pașnică.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea Moscheii Hisar",
+            "tip": "Găsiți un moment de liniște departe de agitația bazarului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kadifekale",
+            "tip": "Although a walk, the view from the top is serene and breathtaking.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Early Morning Kordonboyu",
+            "tip": "Stroll at sunrise for a peaceful experience.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hisar Mosque Courtyard",
+            "tip": "Find a quiet moment away from the bazaar's hustle.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kemeraltı-Basar",
+            "tip": "Der beste Ort für alles, von Gewürzen und türkischen Köstlichkeiten bis hin zu Lederwaren und Souvenirs."
+          },
+          {
+            "name": "Kizlaragasi Hani",
+            "tip": "Spezialisiert auf Antiquitäten, Teppiche und Kunsthandwerk. Ein Schatz für Sammler."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kemeraltı bazár",
+            "tip": "A legjobb hely mindenre, a fűszerektől és a török édességektől a bőrárukig és ajándéktárgyakig."
+          },
+          {
+            "name": "Kızlarağası Hanı",
+            "tip": "Régiségekre, szőnyegekre és kézműves termékekre szakosodott. Kincs a gyűjtőknek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bazarul Kemeraltı",
+            "tip": "Cel mai bun loc pentru orice, de la condimente și delicii turcești la articole din piele și suveniruri."
+          },
+          {
+            "name": "Kizlaragasi Hani",
+            "tip": "Specializat în antichități, covoare și obiecte de artizanat. O comoară pentru colecționari."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kemeraltı Bazaar",
+            "tip": "The best place for everything from spices and Turkish delight to leather goods and souvenirs."
+          },
+          {
+            "name": "Kizlaragasi Hani",
+            "tip": "Specializes in antiques, carpets, and handicrafts. A treasure for collectors."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Bleiben Sie hydriert, besonders in den Sommermonaten.",
+          "Haben Sie immer etwas Bargeld für kleine Einkäufe im Basar dabei.",
+          "Seien Sie beim Überqueren der Straßen vorsichtig, der Verkehr kann chaotisch sein.",
+          "Lernen Sie ein paar türkische Grundbegriffe, die Einheimischen werden es zu schätzen wissen."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, sokat fogsz sétálni.",
+          "Maradj hidratált, különösen a nyári hónapokban.",
+          "Mindig legyen nálad készpénz a bazári apró vásárlásokhoz.",
+          "Légy óvatos az úton való átkeléskor, a forgalom kaotikus lehet.",
+          "Tanulj meg néhány alapvető török kifejezést, a helyiek értékelni fogják."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, veți merge mult pe jos.",
+          "Hidratați-vă, mai ales în lunile de vară.",
+          "Aveți întotdeauna niște bani lichizi pentru cumpărături mici în bazar.",
+          "Fiți atenți când traversați străzile, traficul poate fi haotic.",
+          "Învățați câteva fraze de bază în turcă, localnicii vor aprecia."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Stay hydrated, especially during the summer months.",
+          "Always have some cash for small purchases in the bazaar.",
+          "Be careful when crossing the streets, traffic can be chaotic.",
+          "Learn a few basic Turkish phrases, the locals will appreciate it."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kordonboyu Promenade",
+            "hu": "Kordonboyu sétány",
+            "ro": "Promenada Kordonboyu",
+            "en": "Kordonboyu Promenade"
+          },
+          "coords": [
+            27.135,
+            38.432
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einer leichten Radtour entlang der Küste.",
+            "hu": "Kezdje a napot egy könnyű kerékpártúrával a part mentén.",
+            "ro": "Începeți ziua cu o plimbare ușoară cu bicicleta de-a lungul coastei.",
+            "en": "Start the day with a light bike ride along the coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm von Izmir",
+            "hu": "Izmiri óratorony",
+            "ro": "Turnul cu Ceas din Izmir",
+            "en": "Izmir Clock Tower"
+          },
+          "coords": [
+            27.1287,
+            38.4187
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:05",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und machen Sie das obligatorische Foto.",
+            "hu": "Zárd le a biciklidet és készítsd el a kötelező fotót.",
+            "ro": "Parcați bicicleta și faceți fotografia obligatorie.",
+            "en": "Lock your bike and take the mandatory photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Kemeraltı-Basar (zu Fuß)",
+            "hu": "Kemeraltı bazár (gyalog)",
+            "ro": "Bazarul Kemeraltı (pe jos)",
+            "en": "Kemeraltı Bazaar (on foot)"
+          },
+          "coords": [
+            27.1325,
+            38.4195
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Am besten zu Fuß erkunden. Schließen Sie Ihr Fahrrad sicher ab.",
+            "hu": "A legjobb gyalog felfedezni. Zárd le biztonságosan a biciklidet.",
+            "ro": "Cel mai bine explorat pe jos. Încuiați-vă bicicleta în siguranță.",
+            "en": "Best explored on foot. Lock your bike securely."
+          }
+        },
+        {
+          "name": {
+            "de": "Agora von Smyrna",
+            "hu": "Szmirnai agora",
+            "ro": "Agora din Smirna",
+            "en": "Agora of Smyrna"
+          },
+          "coords": [
+            27.1388,
+            38.4191
+          ],
+          "category": "historical",
+          "arrive_at": "12:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Eingang und tauchen Sie ein in die antike Geschichte.",
+            "hu": "Tekerj a bejárathoz és merülj el az ókori történelemben.",
+            "ro": "Mergeți cu bicicleta până la intrare și scufundați-vă în istoria antică.",
+            "en": "Cycle to the entrance and immerse yourself in ancient history."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum Izmir",
+            "hu": "Izmiri Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie din Izmir",
+            "en": "Izmir Archaeological Museum"
+          },
+          "coords": [
+            27.1263,
+            38.4147
+          ],
+          "category": "museums",
+          "arrive_at": "13:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Eine erfrischende Pause von der Sonne und eine Dosis Kultur.",
+            "hu": "Frissítő szünet a nap elől és egy adag kultúra.",
+            "ro": "O pauză răcoritoare de la soare și o doză de cultură.",
+            "en": "A refreshing break from the sun and a dose of culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Asansör",
+            "hu": "Asansör",
+            "ro": "Asansör",
+            "en": "Asansör"
+          },
+          "coords": [
+            27.1201,
+            38.4095
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der kurze Anstieg mit dem Rad lohnt sich für die Aussicht. Nehmen Sie den Aufzug nach oben!",
+            "hu": "A rövid emelkedő kerékpárral megéri a kilátásért. Menj fel a lifttel!",
+            "ro": "Scurta urcare cu bicicleta merită pentru priveliște. Luați liftul sus!",
+            "en": "The short uphill cycle is worth it for the view. Take the elevator up!"
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück zum Kordonboyu",
+            "hu": "Vissza a Kordonboyu-ra",
+            "ro": "Înapoi la Kordonboyu",
+            "en": "Return to Kordonboyu"
+          },
+          "coords": [
+            27.135,
+            38.432
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:10",
+          "stay_min": 55,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Beenden Sie die Radtour dort, wo Sie begonnen haben, und genießen Sie den Abend am Meer.",
+            "hu": "Fejezd be a túrát ott, ahol elkezdted, és élvezd az estét a tengerparton.",
+            "ro": "Încheiați turul cu bicicleta acolo unde ați început și bucurați-vă de seară pe malul mării.",
+            "en": "Finish the bike tour where you started and enjoy the evening by the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour entlang der malerischen Kordonboyu-Promenade. Fahren Sie ins historische Zentrum, um den Uhrturm und den belebten Kemeraltı-Basar zu sehen. Am Nachmittag radeln Sie zu den antiken Ruinen der Agora und genießen die Aussicht vom historischen Asansör. Beenden Sie den Tag mit einer entspannten Rückfahrt entlang der Küste, während die Sonne untergeht.",
+        "hu": "Kezdje a kerékpártúrát a festői Kordonboyu sétányon. Tekerjen be a történelmi központba, hogy megnézze az Óratornyot és a nyüzsgő Kemeraltı bazárt. Délután kerékpározzon el az agora ókori romjaihoz, és élvezze a kilátást a történelmi Asansörből. Zárja a napot egy pihentető tekeréssel a tengerparton, miközben a nap lenyugszik.",
+        "ro": "Începeți turul cu bicicleta de-a lungul pitoreștii promenade Kordonboyu. Pedalați spre centrul istoric pentru a vedea Turnul cu Ceas și agitatul Bazar Kemeraltı. După-amiaza, mergeți cu bicicleta la ruinele antice ale Agorei și bucurați-vă de priveliștea de la istoricul Asansör. Încheiați ziua cu o plimbare relaxantă înapoi de-a lungul coastei, în timp ce soarele apune.",
+        "en": "Start your cycling tour along the scenic Kordonboyu promenade. Pedal to the historic center to see the Clock Tower and the bustling Kemeraltı Bazaar. In the afternoon, cycle to the ancient ruins of the Agora and enjoy the view from the historic Asansör. End the day with a relaxing ride back along the coast as the sun sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gevrek & Tee",
+            "tip": "Ein klassischer Izmir-Snack. Holen Sie sich einen Sesamring (Gevrek) von einem Straßenverkäufer und genießen Sie ihn mit türkischem Tee."
+          },
+          {
+            "name": "Midye Dolma",
+            "tip": "Gefüllte Muscheln, ein beliebter Straßensnack. Perfekt für einen schnellen Energieschub."
+          },
+          {
+            "name": "Fischbrot (Balık Ekmek)",
+            "tip": "Finden Sie Stände in der Nähe der Fähren für ein köstliches und schnelles Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gevrek és tea",
+            "tip": "Klasszikus izmiri snack. Vegyél egy szezámmagos perecet (gevrek) egy utcai árustól és fogyaszd török teával."
+          },
+          {
+            "name": "Midye Dolma",
+            "tip": "Töltött kagyló, népszerű utcai étel. Tökéletes egy gyors energiabombához."
+          },
+          {
+            "name": "Halas szendvics (Balık Ekmek)",
+            "tip": "Keress standokat a kompok közelében egy finom és gyors ebédért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gevrek și ceai",
+            "tip": "O gustare clasică din Izmir. Luați un inel de susan (gevrek) de la un vânzător ambulant și savurați-l cu ceai turcesc."
+          },
+          {
+            "name": "Midye Dolma",
+            "tip": "Midii umplute, o gustare stradală populară. Perfect pentru un impuls rapid de energie."
+          },
+          {
+            "name": "Sandviș cu pește (Balık Ekmek)",
+            "tip": "Găsiți tarabe lângă feriboturi pentru un prânz delicios și rapid."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gevrek & Tea",
+            "tip": "A classic Izmir snack. Grab a sesame ring (gevrek) from a street vendor and enjoy it with Turkish tea."
+          },
+          {
+            "name": "Midye Dolma",
+            "tip": "Stuffed mussels, a popular street food snack. Perfect for a quick energy boost."
+          },
+          {
+            "name": "Fish Sandwich (Balık Ekmek)",
+            "tip": "Find stalls near the ferry terminals for a delicious and quick lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "St.-Polycarp-Kirche",
+            "tip": "Eine friedliche Oase im Herzen der Stadt. Überprüfen Sie die Öffnungszeiten.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kültürpark",
+            "tip": "Eine große Grünfläche, ideal für eine Pause vom Radfahren.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sonnenuntergang am Bostanlı-Pier",
+            "tip": "Fahren Sie weiter die Küste entlang für einen der besten Sonnenuntergangsorte.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Polikárp-templom",
+            "tip": "Békés oázis a város szívében. Ellenőrizd a nyitvatartási időt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kültürpark",
+            "tip": "Nagy zöldterület, ideális egy kis pihenésre a biciklizésből.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Naplemente a Bostanlı mólónál",
+            "tip": "Tekerj tovább a part mentén az egyik legjobb naplemente helyszínért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica Sf. Policarp",
+            "tip": "O oază de pace în inima orașului. Verificați orele de deschidere.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kültürpark",
+            "tip": "Un spațiu verde mare, ideal pentru o pauză de la ciclism.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Apus de soare la debarcaderul Bostanlı",
+            "tip": "Pedalați mai departe de-a lungul coastei pentru unul dintre cele mai bune locuri de apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Polycarp Church",
+            "tip": "A peaceful oasis in the heart of the city. Check for opening hours.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kültürpark",
+            "tip": "A large green space, ideal for a break from cycling.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bostanlı Pier Sunset",
+            "tip": "Cycle further down the coast for one of the best sunset spots.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte in Alsancak",
+            "tip": "Finden Sie lokale Geschäfte für Zubehör oder schnelle Reparaturen."
+          },
+          {
+            "name": "Markt von Bostanlı (Bospa)",
+            "tip": "Wenn Sie an einem Markttag dort sind, ist es ein großartiger Ort, um lokale Produkte zu sehen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok Alsancakban",
+            "tip": "Találj helyi boltokat kiegészítőkért vagy gyors javításokért."
+          },
+          {
+            "name": "Bostanlı piac (Bospa)",
+            "tip": "Ha piacnapon vagy ott, remek hely a helyi termékek megtekintésére."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete din Alsancak",
+            "tip": "Găsiți magazine locale pentru accesorii sau reparații rapide."
+          },
+          {
+            "name": "Piața Bostanlı (Bospa)",
+            "tip": "Dacă sunteți acolo într-o zi de piață, este un loc minunat pentru a vedea produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops in Alsancak",
+            "tip": "Find local shops for any accessories or quick repairs."
+          },
+          {
+            "name": "Bostanlı Market (Bospa)",
+            "tip": "If you're there on a market day, it's a great place to see local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Viele Hauptstraßen haben Radwege, besonders entlang der Küste.",
+          "Tragen Sie einen Helm und seien Sie im Stadtverkehr wachsam.",
+          "Einige Fähren erlauben Fahrräder, was eine Abkürzung über die Bucht sein kann.",
+          "Schließen Sie Ihr Fahrrad immer an einem sicheren Ort ab.",
+          "Die Hügel wie Kadifekale sind anspruchsvoll, aber die Aussicht ist es wert."
+        ],
+        "hu": [
+          "Sok főúton van kerékpárút, különösen a part mentén.",
+          "Viselj sisakot és légy éber a városi forgalomban.",
+          "Néhány komp engedélyezi a kerékpárokat, ami lerövidítheti az utat az öbölön át.",
+          "Mindig zárd le a biciklidet biztonságos helyen.",
+          "Az olyan dombok, mint a Kadifekale, kihívást jelentenek, de a kilátás megéri."
+        ],
+        "ro": [
+          "Multe drumuri principale au piste de biciclete, în special de-a lungul coastei.",
+          "Purtați cască și fiți vigilenți în traficul urban.",
+          "Unele feriboturi permit biciclete, ceea ce poate fi o scurtătură peste golf.",
+          "Încuiați-vă întotdeauna bicicleta într-un loc sigur.",
+          "Dealurile precum Kadifekale sunt provocatoare, dar priveliștile merită."
+        ],
+        "en": [
+          "Many main roads have bike lanes, especially along the coast.",
+          "Wear a helmet and be vigilant in city traffic.",
+          "Some ferries allow bikes, which can be a shortcut across the bay.",
+          "Always lock your bike in a secure place.",
+          "The hills like Kadifekale are challenging, but the views are worth it."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 24.6,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Kadifekale",
+            "hu": "Kadifekale",
+            "ro": "Kadifekale",
+            "en": "Kadifekale"
+          },
+          "coords": [
+            27.146,
+            38.409
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie morgens für die beste Aussicht und weniger Menschenmassen nach oben. Parken ist oben möglich.",
+            "hu": "Hajtson fel reggel a legjobb kilátásért és a kisebb tömegért. Parkolás a csúcson lehetséges.",
+            "ro": "Conduceți dimineața pentru cea mai bună priveliște și mai puține aglomerații. Parcarea este disponibilă sus.",
+            "en": "Drive up in the morning for the best views and fewer crowds. Parking is available at the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Agora von Smyrna",
+            "hu": "Szmirnai agora",
+            "ro": "Agora din Smirna",
+            "en": "Agora of Smyrna"
+          },
+          "coords": [
+            27.1388,
+            38.4191
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in den umliegenden Straßen. Dies ist Ihr erster großer Rundgang.",
+            "hu": "Parkolj a környező utcákban. Ez az első nagyobb séta a környéken.",
+            "ro": "Parcați pe străzile din jur. Acesta este primul dvs. grup de mers pe jos.",
+            "en": "Park in the surrounding streets. This is your first major walking cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Kemeraltı-Basar (Eingang)",
+            "hu": "Kemeraltı bazár (bejárat)",
+            "ro": "Bazarul Kemeraltı (intrare)",
+            "en": "Kemeraltı Bazaar (Entrance)"
+          },
+          "coords": [
+            27.136,
+            38.419
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Agora aus ist es ein kurzer Spaziergang. Mittagessen im Basar!",
+            "hu": "Az Agorától egy rövid séta. Ebédelj a bazárban!",
+            "ro": "O scurtă plimbare de la Agora. Luați prânzul în bazar!",
+            "en": "It's a short walk from the Agora. Have lunch inside the bazaar!"
+          }
+        },
+        {
+          "name": {
+            "de": "Hisar-Moschee & Kizlaragasi Hani",
+            "hu": "Hisar-mecset & Kızlarağası Hanı",
+            "ro": "Moscheea Hisar & Kizlaragasi Hani",
+            "en": "Hisar Mosque & Kizlaragasi Hani"
+          },
+          "coords": [
+            27.134,
+            38.418
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:03",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden liegen direkt nebeneinander im Herzen des Basars.",
+            "hu": "Ez a kettő egymás mellett van a bazár szívében.",
+            "ro": "Aceste două sunt chiar una lângă alta în inima bazarului.",
+            "en": "These two are right next to each other in the heart of the bazaar."
+          }
+        },
+        {
+          "name": {
+            "de": "Konak-Platz & Uhrturm",
+            "hu": "Konak tér és Óratorony",
+            "ro": "Piața Konak și Turnul cu Ceas",
+            "en": "Konak Square & Clock Tower"
+          },
+          "coords": [
+            27.1287,
+            38.4187
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:58",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verlassen Sie den Basar, um zum Platz zu gelangen, bevor Sie zu Ihrem Auto zurückkehren.",
+            "hu": "Hagyja el a bazárt, hogy a térre jusson, mielőtt visszatérne az autójához.",
+            "ro": "Ieșiți din bazar pentru a ajunge în piață înainte de a vă întoarce la mașină.",
+            "en": "Exit the bazaar to reach the square before heading back to your car."
+          }
+        },
+        {
+          "name": {
+            "de": "Asansör (Karataş)",
+            "hu": "Asansör (Karataş)",
+            "ro": "Asansör (Karataș)",
+            "en": "Asansör (Karataş)"
+          },
+          "coords": [
+            27.1201,
+            38.4095
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:03",
+          "stay_min": 50,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Stadtteil Karataş. Das Parken kann schwierig sein, aber es lohnt sich.",
+            "hu": "Vezessen Karataş negyedébe. A parkolás nehézkes lehet, de megéri.",
+            "ro": "Conduceți spre cartierul Karataș. Parcarea poate fi dificilă, dar merită.",
+            "en": "Drive to the Karataş district. Parking can be tricky, but it's worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum Izmir",
+            "hu": "Izmiri Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie din Izmir",
+            "en": "Izmir Archaeological Museum"
+          },
+          "coords": [
+            27.1263,
+            38.4147
+          ],
+          "category": "museums",
+          "arrive_at": "16:58",
+          "stay_min": 0,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Asansör. Prüfen Sie die Schließzeiten!",
+            "hu": "Rövid séta az Asansörtől. Ellenőrizd a zárási időt!",
+            "ro": "O scurtă plimbare de la Asansör. Verificați orele de închidere!",
+            "en": "A short walk from Asansör. Check closing times!"
+          }
+        },
+        {
+          "name": {
+            "de": "Kordonboyu (Alsancak)",
+            "hu": "Kordonboyu (Alsancak)",
+            "ro": "Kordonboyu (Alsancak)",
+            "en": "Kordonboyu (Alsancak)"
+          },
+          "coords": [
+            27.138,
+            38.435
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 57,
+          "hop_from_prev_km": 11.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie nach Alsancak, parken Sie und beenden Sie den Tag mit einem Spaziergang und Abendessen am Meer.",
+            "hu": "Vezessen Alsancakba, parkoljon le, és fejezze be a napot egy sétával és vacsorával a tengerparton.",
+            "ro": "Conduceți spre Alsancak, parcați și încheiați ziua cu o plimbare și cină pe malul mării.",
+            "en": "Drive to Alsancak, park, and end your day with a walk and dinner by the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer Panoramafahrt zum Kadifekale. Fahren Sie dann hinunter, um das antike Herz der Stadt in der Agora und dem Kemeraltı-Basar zu erkunden. Am Nachmittag bringt Sie Ihr Auto zum historischen Asansör für einen atemberaubenden Blick über die Bucht. Beenden Sie den Tag in Alsancak, wo Sie entlang der lebhaften Kordonboyu-Promenade spazieren und die Meeresbrise genießen können.",
+        "hu": "Kezdje a napot egy panorámás autózással a Kadifekale-ra. Ezután hajtson le, hogy felfedezze a város ókori szívét az Agoránál és a Kemeraltı bazárban. Délután az autója elviszi a történelmi Asansörhöz, ahonnan lélegzetelállító kilátás nyílik az öbölre. Fejezze be a napot Alsancakban, sétáljon végig a nyüzsgő Kordonboyu sétányon, és élvezze a tengeri szellőt.",
+        "ro": "Începeți ziua cu o plimbare panoramică cu mașina până la Kadifekale. Apoi, coborâți pentru a explora inima antică a orașului la Agora și Bazarul Kemeraltı. După-amiaza, mașina vă va duce la istoricul Asansör pentru o priveliște uluitoare asupra golfului. Încheiați ziua în Alsancak, plimbându-vă de-a lungul promenadei animate Kordonboyu și bucurându-vă de briza mării.",
+        "en": "Start your day with a panoramic drive up to Kadifekale. Then, drive down to explore the ancient heart of the city at the Agora and Kemeraltı Bazaar cluster. In the afternoon, your car will take you to the historic Asansör for a stunning view over the bay. End the day in Alsancak, strolling along the lively Kordonboyu promenade and enjoying the sea breeze."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Şiş Kebap im Basar",
+            "tip": "Finden Sie ein lokales 'esnaf lokantası' (Handwerkerrestaurant) für authentische Kebabs."
+          },
+          {
+            "name": "Restaurant auf dem Asansör",
+            "tip": "Genießen Sie ein gehobenes Abendessen mit der besten Aussicht der Stadt."
+          },
+          {
+            "name": "Lokale Weine",
+            "tip": "Die Region Izmir ist für ihre Weinberge bekannt. Probieren Sie einen lokalen Bornova Misketi."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saslik a bazárban",
+            "tip": "Keress egy helyi 'esnaf lokantası'-t (kisiparos étterem) az autentikus kebabokért."
+          },
+          {
+            "name": "Étterem az Asansör tetején",
+            "tip": "Élvezz egy elegáns vacsorát a város legjobb kilátásával."
+          },
+          {
+            "name": "Helyi borok",
+            "tip": "Az izmiri régió híres a szőlőültetvényeiről. Kóstolj meg egy helyi Bornova Misketit."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Șiș Kebab în Bazar",
+            "tip": "Găsiți un 'esnaf lokantası' (restaurant pentru meseriași) local pentru kebaburi autentice."
+          },
+          {
+            "name": "Restaurantul de la Asansör",
+            "tip": "Bucurați-vă de o cină rafinată cu cea mai bună priveliște din oraș."
+          },
+          {
+            "name": "Vinuri locale",
+            "tip": "Regiunea Izmir este cunoscută pentru podgoriile sale. Încercați un Bornova Misketi local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Şiş Kebap in the Bazaar",
+            "tip": "Find a local 'esnaf lokantası' (tradesmen restaurant) for authentic kebabs."
+          },
+          {
+            "name": "Asansör Restaurant",
+            "tip": "Enjoy a fine dining experience with the best view in the city."
+          },
+          {
+            "name": "Local Wines",
+            "tip": "The Izmir region is known for its vineyards. Try a local Bornova Misketi."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Dario-Moreno-Straße",
+            "tip": "Eine charmante, ruhige Straße am Fuße des Asansör.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Izmir Wildlife Park",
+            "tip": "Eine kurze Autofahrt von der Stadt entfernt, ein großartiger Ort für Naturliebhaber.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Blick von Kadifekale",
+            "tip": "Trotz seiner Beliebtheit können Sie ruhige Ecken mit einer herrlichen Aussicht finden.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dario Moreno utca",
+            "tip": "Bájos, csendes utca az Asansör lábánál.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Izmiri Vadaspark",
+            "tip": "Rövid autóútra a várostól, remek hely a természet szerelmeseinek.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a Kadifekale-ról",
+            "tip": "Népszerűsége ellenére találhat csendes zugokat, ahonnan nagyszerű kilátás nyílik.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Dario Moreno",
+            "tip": "O stradă fermecătoare și liniștită la poalele Asansörului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Natural din Izmir",
+            "tip": "La o scurtă distanță cu mașina de oraș, un loc minunat pentru iubitorii de natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Priveliștea de la Kadifekale",
+            "tip": "În ciuda popularității sale, puteți găsi colțuri liniștite cu o priveliște magnifică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dario Moreno Street",
+            "tip": "A charming, quiet street at the base of the Asansör.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Izmir Wildlife Park",
+            "tip": "A short drive out of the city, a great place for nature lovers.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from Kadifekale",
+            "tip": "Despite its popularity, you can find quiet corners with a magnificent view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Forum Bornova",
+            "tip": "Ein großes Einkaufszentrum im Freien, wenn Sie moderne Einkaufsmöglichkeiten suchen."
+          },
+          {
+            "name": "Antiquitätenläden in Kemeraltı",
+            "tip": "Abseits der Hauptwege finden Sie versteckte Läden mit einzigartigen Fundstücken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Forum Bornova",
+            "tip": "Nagy, szabadtéri bevásárlóközpont, ha modern vásárlási élményre vágyik."
+          },
+          {
+            "name": "Régiségboltok Kemeraltıban",
+            "tip": "A fő utaktól távolabb rejtett boltokat találhat egyedi leletekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Forum Bornova",
+            "tip": "Un mare centru comercial în aer liber dacă sunteți în căutarea cumpărăturilor moderne."
+          },
+          {
+            "name": "Magazine de antichități în Kemeraltı",
+            "tip": "În afara căilor principale, puteți găsi magazine ascunse cu descoperiri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Forum Bornova",
+            "tip": "A large, open-air shopping mall if you are looking for modern shopping."
+          },
+          {
+            "name": "Antique shops in Kemeraltı",
+            "tip": "Off the main paths, you can find hidden shops with unique finds."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken kann in der Innenstadt eine Herausforderung sein. Nutzen Sie kostenpflichtige Parkplätze.",
+          "Der Verkehr kann während der Stoßzeiten stark sein. Planen Sie Ihre Fahrten entsprechend.",
+          "Ein GPS ist für die Navigation in den Einbahnstraßen der Stadt unerlässlich.",
+          "Die Cluster-Walking-Methode spart Zeit und Parkgebühren.",
+          "Achten Sie auf Motorroller, die durch den Verkehr schlüpfen."
+        ],
+        "hu": [
+          "A parkolás kihívást jelenthet a belvárosban. Használjon fizetős parkolókat.",
+          "A forgalom csúcsidőben sűrű lehet. Tervezze meg az utazásait ennek megfelelően.",
+          "A GPS elengedhetetlen a város egyirányú utcáin való navigáláshoz.",
+          "A klaszteres séta módszer időt és parkolási díjakat takarít meg.",
+          "Vigyázz a forgalomban suhanó robogókra."
+        ],
+        "ro": [
+          "Parcarea poate fi o provocare în centrul orașului. Folosiți parcările cu plată.",
+          "Traficul poate fi intens în orele de vârf. Planificați-vă călătoriile în consecință.",
+          "Un GPS este esențial pentru a naviga pe străzile cu sens unic ale orașului.",
+          "Metoda de mers pe jos în grup economisește timp și taxe de parcare.",
+          "Atenție la scuterele care se strecoară prin trafic."
+        ],
+        "en": [
+          "Parking can be a challenge in the city center. Use paid parking lots.",
+          "Traffic can be heavy during rush hours. Plan your drives accordingly.",
+          "A GPS is essential for navigating the city's one-way streets.",
+          "The cluster-walking method saves time and parking fees.",
+          "Be aware of scooters weaving through traffic."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:10",
+      "total_km": 9.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Konak-Platz & Uhrturm",
+            "hu": "Konak tér és Óratorony",
+            "ro": "Piața Konak și Turnul cu Ceas",
+            "en": "Konak Square & Clock Tower"
+          },
+          "coords": [
+            27.1287,
+            38.4187
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie die Metro bis Konak. Der Platz liegt direkt am Ausgang.",
+            "hu": "Menj metróval Konakig. A tér közvetlenül a kijáratnál van.",
+            "ro": "Luați metroul până la Konak. Piața este chiar la ieșire.",
+            "en": "Take the Metro to Konak. The square is right at the exit."
+          }
+        },
+        {
+          "name": {
+            "de": "Kemeraltı & Hisar-Moschee",
+            "hu": "Kemeraltı és Hisar-mecset",
+            "ro": "Kemeraltı și Moscheea Hisar",
+            "en": "Kemeraltı & Hisar Mosque"
+          },
+          "coords": [
+            27.1337,
+            38.4182
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie vom Konak-Platz in den Basar. Dieser Spaziergang führt Sie durch das Herz des Marktes.",
+            "hu": "Sétálj a Konak térről a bazárba. Ez a séta a piac szívén vezet keresztül.",
+            "ro": "Plimbați-vă de la Piața Konak în bazar. Această plimbare vă duce prin inima pieței.",
+            "en": "Stroll from Konak Square into the bazaar. This walking cluster takes you through the market's heart."
+          }
+        },
+        {
+          "name": {
+            "de": "Kizlaragasi Hani",
+            "hu": "Kızlarağası Hanı",
+            "ro": "Kizlaragasi Hani",
+            "en": "Kizlaragasi Hani"
+          },
+          "coords": [
+            27.1344,
+            38.4178
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:32",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie einen Kaffee, bevor Sie zum nächsten Cluster übergehen.",
+            "hu": "Igyon egy kávét, mielőtt a következő fürthöz lépne.",
+            "ro": "Bucurați-vă de o cafea înainte de a trece la următorul grup.",
+            "en": "Enjoy a coffee break before moving to the next cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Agora von Smyrna",
+            "hu": "Szmirnai agora",
+            "ro": "Agora din Smirna",
+            "en": "Agora of Smyrna"
+          },
+          "coords": [
+            27.1388,
+            38.4191
+          ],
+          "category": "historical",
+          "arrive_at": "12:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie die Metro von Konak nach Çankaya (1 Haltestelle) und gehen Sie zu Fuß.",
+            "hu": "Menj metróval Konakból Çankayába (1 megálló) és sétálj.",
+            "ro": "Luați metroul de la Konak la Çankaya (1 stație) și mergeți pe jos.",
+            "en": "Take the metro from Konak to Çankaya (1 stop) and walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum Izmir",
+            "hu": "Izmiri Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie din Izmir",
+            "en": "Izmir Archaeological Museum"
+          },
+          "coords": [
+            27.1263,
+            38.4147
+          ],
+          "category": "museums",
+          "arrive_at": "14:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein angenehmer Spaziergang vom Agora-Viertel. Kombinieren Sie es mit dem Ethnographischen Museum nebenan.",
+            "hu": "Kellemes séta az Agora negyedből. Kombináld a szomszédos Néprajzi Múzeummal.",
+            "ro": "O plimbare plăcută din cartierul Agora. Combinați-o cu Muzeul de Etnografie de alături.",
+            "en": "A pleasant walk from the Agora area. Combine it with the Ethnography Museum next door."
+          }
+        },
+        {
+          "name": {
+            "de": "Asansör",
+            "hu": "Asansör",
+            "ro": "Asansör",
+            "en": "Asansör"
+          },
+          "coords": [
+            27.1201,
+            38.4095
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie die Straßenbahn (T2) von Konak nach Karataş für eine malerische Fahrt.",
+            "hu": "Menj villamossal (T2) Konakból Karataşba egy festői útra.",
+            "ro": "Luați tramvaiul (T2) de la Konak la Karataș pentru o călătorie pitorească.",
+            "en": "Take the tram (T2) from Konak to Karataş for a scenic ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Kordonboyu",
+            "hu": "Kordonboyu",
+            "ro": "Kordonboyu",
+            "en": "Kordonboyu"
+          },
+          "coords": [
+            27.1322,
+            38.4285
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Fahren Sie mit der Straßenbahn zurück nach Alsancak, um den Abend ausklingen zu lassen.",
+            "hu": "Menj vissza villamossal Alsancakba, hogy lezárd az estét.",
+            "ro": "Luați tramvaiul înapoi spre Alsancak pentru a încheia seara.",
+            "en": "Take the tram back to Alsancak to end your evening."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Izmirs effiziente Metro und Straßenbahn. Beginnen Sie am Konak-Platz, nur wenige Schritte von der Metro-Station entfernt. Spazieren Sie durch den Kemeraltı-Basar. Nehmen Sie die Metro eine Haltestelle weiter zur antiken Agora. Am Nachmittag bringt Sie eine malerische Straßenbahnfahrt zum Asansör und dann zum Kordonboyu, um einen perfekten Sonnenuntergang zu erleben.",
+        "hu": "Használja ki Izmir hatékony metró- és villamoshálózatát. Kezdje a Konak téren, pár lépésre a metróállomástól. Sétáljon végig a Kemeraltı bazáron. Menjen egy megállót metróval az ókori agoráig. Délután egy festői villamosút visz az Asansörhöz, majd a Kordonboyu-hoz a tökéletes naplementéért.",
+        "ro": "Folosiți metroul și tramvaiul eficiente din Izmir. Începeți din Piața Konak, la câțiva pași de stația de metrou. Plimbați-vă prin clusterul Bazarului Kemeraltı. Luați metroul o stație până la Agora antică. După-amiaza, o plimbare pitorească cu tramvaiul vă va duce la Asansör și apoi la Kordonboyu pentru un apus perfect.",
+        "en": "Use Izmir's efficient metro and tram. Start at Konak Square, steps from the metro station. Walk through the Kemeraltı Bazaar cluster. Take the metro one stop to the ancient Agora. In the afternoon, a scenic tram ride takes you to Asansör and then to Kordonboyu for a perfect sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Simit",
+            "tip": "Der türkische Bagel, perfekt für einen schnellen Snack zwischen den Fahrten. Erhältlich an jeder Ecke."
+          },
+          {
+            "name": "Eis am Kordon",
+            "tip": "Belohnen Sie sich nach einem langen Tag mit einem 'dondurma' von einem der vielen Stände."
+          },
+          {
+            "name": "Türkischer Tee im Kizlaragasi Hani",
+            "tip": "Machen Sie eine Pause vom Sightseeing in einer authentischen Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Simit",
+            "tip": "A török perec, tökéletes egy gyors harapnivalóhoz az utak között. Minden sarkon kapható."
+          },
+          {
+            "name": "Fagylalt a Kordonon",
+            "tip": "Jutalmazd meg magad egy hosszú nap után egy 'dondurmával' a sok stand egyikéből."
+          },
+          {
+            "name": "Török tea a Kızlarağası Hanı-ban",
+            "tip": "Tarts szünetet a városnézésben egy autentikus környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Simit",
+            "tip": "Covrigul turcesc, perfect pentru o gustare rapidă între călătorii. Disponibil la fiecare colț."
+          },
+          {
+            "name": "Înghețată pe Kordon",
+            "tip": "Recompensați-vă după o zi lungă cu o 'dondurma' de la una dintre numeroasele tarabe."
+          },
+          {
+            "name": "Ceai turcesc la Kizlaragasi Hani",
+            "tip": "Luați o pauză de la vizitarea obiectivelor turistice într-o atmosferă autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Simit",
+            "tip": "The Turkish bagel, perfect for a quick snack between transit rides. Available at every corner."
+          },
+          {
+            "name": "Ice Cream on the Kordon",
+            "tip": "Reward yourself after a long day with a 'dondurma' from one of the many stalls."
+          },
+          {
+            "name": "Turkish Tea at Kizlaragasi Hani",
+            "tip": "Take a break from sightseeing in an authentic atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fährfahrt",
+            "tip": "Nehmen Sie eine Fähre über die Bucht nach Karşıyaka für eine friedliche Perspektive auf die Stadt.",
+            "emoji": "⛴️"
+          },
+          {
+            "name": "Archäologischer Museumsgarten",
+            "tip": "Der Außenbereich des Museums ist oft ruhig und hat interessante Steinartefakte.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick vom Asansör",
+            "tip": "Genießen Sie einen ruhigen Moment über der Stadt, besonders an Wochentagen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Komp út",
+            "tip": "Menj komppal Karşıyakába az öbölön át egy békés városnézésért.",
+            "emoji": "⛴️"
+          },
+          {
+            "name": "Régészeti Múzeum kertje",
+            "tip": "A múzeum szabadtéri területe gyakran csendes és érdekes kőleleteket rejt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás az Asansörről",
+            "tip": "Élvezz egy csendes pillanatot a város felett, különösen hétköznap.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare cu feribotul",
+            "tip": "Luați un feribot peste golf spre Karşıyaka pentru o perspectivă pașnică asupra orașului.",
+            "emoji": "⛴️"
+          },
+          {
+            "name": "Grădina Muzeului de Arheologie",
+            "tip": "Zona exterioară a muzeului este adesea liniștită și are artefacte interesante din piatră.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Priveliștea de la Asansör",
+            "tip": "Bucurați-vă de un moment de liniște deasupra orașului, mai ales în timpul săptămânii.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ferry Ride",
+            "tip": "Take a ferry across the bay to Karşıyaka for a peaceful perspective of the city.",
+            "emoji": "⛴️"
+          },
+          {
+            "name": "Archaeological Museum Garden",
+            "tip": "The outdoor area of the museum is often quiet and has interesting stone artifacts.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from Asansör",
+            "tip": "Enjoy a quiet moment above the city, especially on weekdays.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Läden in der Nähe der Metro-Stationen",
+            "tip": "In der Nähe der Haltestellen Konak und Çankaya gibt es viele Einkaufsmöglichkeiten."
+          },
+          {
+            "name": "Buchhandlungen in Alsancak",
+            "tip": "Wenn Sie in Alsancak ankommen, erkunden Sie die Seitenstraßen für charmante Buchläden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok a metróállomások közelében",
+            "tip": "A Konak és a Çankaya megállók közelében számos vásárlási lehetőség található."
+          },
+          {
+            "name": "Könyvesboltok Alsancakban",
+            "tip": "Amikor megérkezel Alsancakba, fedezd fel a mellékutcákat a bájos könyvesboltokért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine lângă stațiile de metrou",
+            "tip": "Există o mulțime de opțiuni de cumpărături în apropierea stațiilor Konak și Çankaya."
+          },
+          {
+            "name": "Librării în Alsancak",
+            "tip": "Când ajungeți în Alsancak, explorați străzile laterale pentru librării fermecătoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops near Metro Stations",
+            "tip": "There are plenty of shopping options near Konak and Çankaya stops."
+          },
+          {
+            "name": "Bookstores in Alsancak",
+            "tip": "When you arrive in Alsancak, explore the side streets for charming bookstores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine 'İzmirim Kart' für einfaches Reisen mit allen öffentlichen Verkehrsmitteln.",
+          "Die Metro kann während der Stoßzeiten überfüllt sein.",
+          "Die Straßenbahn entlang der Küste ist eine der malerischsten Fahrten in der Stadt.",
+          "Überprüfen Sie die Fahrpläne der letzten Züge und Straßenbahnen, um nicht stecken zu bleiben.",
+          "Kombinieren Sie Transit mit kurzen Spaziergängen für das beste Erlebnis."
+        ],
+        "hu": [
+          "Vásárolj egy 'İzmirim Kart'-ot az egyszerű utazáshoz minden tömegközlekedési eszközön.",
+          "A metró csúcsidőben zsúfolt lehet.",
+          "A tengerparti villamos az egyik legfestőibb út a városban.",
+          "Ellenőrizd az utolsó vonatok és villamosok menetrendjét, hogy ne ragadj ott.",
+          "Kombináld a közlekedést rövid sétákkal a legjobb élményért."
+        ],
+        "ro": [
+          "Cumpărați un 'İzmirim Kart' pentru a călători ușor cu toate mijloacele de transport public.",
+          "Metroul poate fi aglomerat în orele de vârf.",
+          "Tramvaiul de-a lungul coastei este una dintre cele mai pitorești plimbări din oraș.",
+          "Verificați orarele ultimelor trenuri și tramvaie pentru a nu rămâne blocat.",
+          "Combinați transportul în comun cu plimbări scurte pentru cea mai bună experiență."
+        ],
+        "en": [
+          "Buy an 'İzmirim Kart' for easy travel on all public transport.",
+          "The metro can be crowded during peak hours.",
+          "The tram along the coast is one of the most scenic rides in the city.",
+          "Check the schedules for the last trains and trams to avoid getting stranded.",
+          "Combine transit with short walks for the best experience."
+        ]
+      }
+    }
+  }
+}

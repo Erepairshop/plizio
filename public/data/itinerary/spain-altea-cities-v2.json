@@ -1,0 +1,1424 @@
+{
+  "city_id": "spain-altea-cities-v2",
+  "anchor": {
+    "name": "Altea",
+    "coords": [
+      -0.052,
+      38.598
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt (Casco Antiguo)",
+            "hu": "Óváros (Casco Antiguo)",
+            "ro": "Orașul vechi (Casco Antiguo)",
+            "en": "Old Town (Casco Antiguo)"
+          },
+          "coords": [
+            -0.051,
+            38.6
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den weiß getünchten Gassen und entdecken Sie die vielen kleinen Kunstgalerien.",
+            "hu": "Tévedjen el a fehérre meszelt utcácskákban, és fedezze fel a számos apró művészeti galériát.",
+            "ro": "Pierdeți-vă pe aleile vopsite în alb și descoperiți numeroasele galerii de artă.",
+            "en": "Get lost in the whitewashed alleys and discover the many small art galleries."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Nuestra Señora del Consuelo",
+            "hu": "Nuestra Señora del Consuelo templom",
+            "ro": "Biserica Nuestra Señora del Consuelo",
+            "en": "Church of Nuestra Señora del Consuelo"
+          },
+          "coords": [
+            -0.0515,
+            38.6005
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die berühmten blau-weißen Kacheln der Kuppeln, das Wahrzeichen von Altea.",
+            "hu": "Csodálja meg a kupolák híres kék-fehér csempéit, Altea szimbólumát.",
+            "ro": "Admirați faimoasele țigle albastre și albe ale cupolelor, simbolul orașului Altea.",
+            "en": "Admire the famous blue and white tiles of the domes, the landmark of Altea."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Mirador de los Cronistas",
+            "hu": "Mirador de los Cronistas kilátó",
+            "ro": "Punct de belvedere Mirador de los Cronistas",
+            "en": "Mirador de los Cronistas Viewpoint"
+          },
+          "coords": [
+            -0.052,
+            38.601
+          ],
+          "category": "natural features",
+          "arrive_at": "11:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der beste Panoramablick über die Bucht von Altea. Perfekt für Fotos.",
+            "hu": "A legjobb panorámakilátás az Alteai-öbölre. Tökéletes fotók készítéséhez.",
+            "ro": "Cea mai bună vedere panoramică asupra golfului Altea. Perfect pentru fotografii.",
+            "en": "The best panoramic view over the bay of Altea. Perfect for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Playa de la Roda",
+            "hu": "Playa de la Roda strand",
+            "ro": "Plaja de la Roda",
+            "en": "Playa de la Roda Beach"
+          },
+          "coords": [
+            -0.048,
+            38.596
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie ein Mittagessen in einem der Chiringuitos direkt am Strand.",
+            "hu": "Ebédeljen az egyik tengerparti chiringuitóban.",
+            "ro": "Savurați prânzul la unul dintre chiringuitos de pe plajă.",
+            "en": "Enjoy lunch at one of the chiringuitos right on the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Altea",
+            "hu": "Alteai kikötő",
+            "ro": "Portul din Altea",
+            "en": "Port of Altea"
+          },
+          "coords": [
+            -0.045,
+            38.592
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Fischerboote und genießen Sie die entspannte Atmosphäre.",
+            "hu": "Nézze a halászhajókat és élvezze a nyugodt légkört.",
+            "ro": "Urmăriți bărcile de pescuit și bucurați-vă de atmosfera relaxată.",
+            "en": "Watch the fishing boats and enjoy the relaxed atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Russisch-Orthodoxe Kirche",
+            "hu": "Orosz Ortodox Templom",
+            "ro": "Biserica Ortodoxă Rusă",
+            "en": "Russian Orthodox Church"
+          },
+          "coords": [
+            0.001,
+            38.615
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein überraschendes Stück russischer Architektur an der Costa Blanca, komplett aus Holz gebaut.",
+            "hu": "Egy meglepő darab orosz építészet a Costa Blancán, teljes egészében fából épült.",
+            "ro": "O bucată surprinzătoare de arhitectură rusă pe Costa Blanca, construită în întregime din lemn.",
+            "en": "A surprising piece of Russian architecture on the Costa Blanca, built entirely of wood."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag in den charmanten Gassen der Altstadt von Altea, die zum ikonischen Kirchplatz führt. Genießen Sie die atemberaubende Aussicht, bevor Sie zum Mittagessen und Entspannen an den Strand hinabsteigen. Schlendern Sie am Nachmittag am Hafen entlang und beenden Sie Ihren Spaziergang mit einem Besuch der einzigartigen russisch-orthodoxen Kirche. Ein Tag voller Kontraste zwischen mediterranem Flair und überraschender Architektur.",
+        "hu": "Kezdje a napot Altea hangulatos óvárosának sikátoraiban, melyek az ikonikus templom térre vezetnek. Élvezze a lélegzetelállító kilátást, mielőtt leereszkedik a partra ebédelni és pihenni. Délután sétáljon végig a kikötő mentén, és zárja a napot az egyedi orosz ortodox templom meglátogatásával. A mediterrán hangulat és a meglepő építészet kontrasztjainak napja.",
+        "ro": "Începeți ziua pe străduțele fermecătoare ale orașului vechi din Altea, care duc la piața emblematică a bisericii. Bucurați-vă de priveliștile uluitoare înainte de a coborî la plajă pentru prânz și relaxare. După-amiaza, plimbați-vă de-a lungul portului și încheiați plimbarea cu o vizită la biserica ortodoxă rusă unică. O zi de contraste între farmecul mediteranean și arhitectura surprinzătoare.",
+        "en": "Start your day in the charming alleys of Altea's old town, leading to the iconic church square. Enjoy the breathtaking views before descending to the beach for lunch and relaxation. In the afternoon, stroll along the port and finish your walk with a visit to the unique Russian Orthodox Church. A day of contrasts between Mediterranean charm and surprising architecture."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Arroz a banda",
+            "tip": "Ein lokales Reisgericht mit Fisch, das man in den Restaurants am Meer probieren sollte."
+          },
+          {
+            "name": "Espencat",
+            "tip": "Ein Salat aus gerösteten Paprika, Auberginen und Kabeljau, typisch für die Region."
+          },
+          {
+            "name": "Restaurante Oustau de Altea",
+            "tip": "Bekannt für seine kreative mediterrane Küche in einem romantischen Ambiente in der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arroz a banda",
+            "tip": "Helyi, halas rizsétel, amelyet a tengerparti éttermekben érdemes megkóstolni."
+          },
+          {
+            "name": "Espencat",
+            "tip": "Sült paprikából, padlizsánból és tőkehalból készült saláta, a régióra jellemző."
+          },
+          {
+            "name": "Restaurante Oustau de Altea",
+            "tip": "Kreatív mediterrán konyhájáról ismert, romantikus környezetben az óvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arroz a banda",
+            "tip": "Un preparat local din orez cu pește, de încercat la restaurantele de pe malul mării."
+          },
+          {
+            "name": "Espencat",
+            "tip": "O salată de ardei copți, vinete și cod, tipică pentru regiune."
+          },
+          {
+            "name": "Restaurante Oustau de Altea",
+            "tip": "Renumit pentru bucătăria sa mediteraneană creativă într-un cadru romantic din orașul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Arroz a banda",
+            "tip": "A local rice dish with fish, a must-try at the seaside restaurants."
+          },
+          {
+            "name": "Espencat",
+            "tip": "A salad of roasted peppers, eggplants, and cod, typical of the region."
+          },
+          {
+            "name": "Restaurante Oustau de Altea",
+            "tip": "Known for its creative Mediterranean cuisine in a romantic setting in the old town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardín de los Sentidos",
+            "tip": "Ein exotischer Teegarten, perfekt für eine ruhige Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang am Strand von Cap Negret",
+            "tip": "Ein ruhigerer Strand nördlich von Altea, ideal um den Sonnenuntergang zu beobachten.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spaziergang durch die Sierra de Bèrnia",
+            "tip": "Für diejenigen, die eine Wanderung mit spektakulärer Aussicht suchen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardín de los Sentidos",
+            "tip": "Egzotikus teakert, tökéletes egy csendes pihenőhöz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a Cap Negret strandon",
+            "tip": "Egy csendesebb strand Alteától északra, ideális a naplemente megtekintéséhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Séta a Sierra de Bèrnia hegységben",
+            "tip": "Azoknak, akik egy látványos kilátást nyújtó túrára vágynak.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardín de los Sentidos",
+            "tip": "O grădină de ceai exotică, perfectă pentru o pauză liniștită.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus de soare pe plaja Cap Negret",
+            "tip": "O plajă mai liniștită la nord de Altea, ideală pentru a privi apusul.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Drumeție în Sierra de Bèrnia",
+            "tip": "Pentru cei care caută o drumeție cu priveliști spectaculoase.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardín de los Sentidos",
+            "tip": "An exotic tea garden, perfect for a quiet break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset at Cap Negret beach",
+            "tip": "A quieter beach north of Altea, ideal for watching the sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hike in the Sierra de Bèrnia",
+            "tip": "For those looking for a hike with spectacular views.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kunsthandwerksmarkt",
+            "tip": "In den Sommermonaten findet auf dem Kirchplatz ein Markt mit lokalem Kunsthandwerk statt."
+          },
+          {
+            "name": "Boutiquen in der Altstadt",
+            "tip": "Einzigartige Kleidung, Schmuck und Keramik von lokalen Künstlern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves piac",
+            "tip": "A nyári hónapokban helyi kézműves termékek vására a templom téren."
+          },
+          {
+            "name": "Butikok az óvárosban",
+            "tip": "Egyedi ruhák, ékszerek és kerámiák helyi művészektől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de artizanat",
+            "tip": "În lunile de vară, în piața bisericii are loc o piață cu produse de artizanat locale."
+          },
+          {
+            "name": "Buticuri în orașul vechi",
+            "tip": "Haine unice, bijuterii și ceramică de la artiști locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Artisan Market",
+            "tip": "During the summer months, a market with local crafts is held in the church square."
+          },
+          {
+            "name": "Boutiques in the Old Town",
+            "tip": "Unique clothing, jewelry, and ceramics from local artists."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Straßen in der Altstadt steil und gepflastert sind.",
+          "Beginnen Sie früh am Morgen, um die Menschenmassen und die Mittagshitze zu vermeiden.",
+          "Nehmen Sie viel Wasser mit, besonders im Sommer.",
+          "Die meisten Geschäfte halten eine Siesta, planen Sie Ihren Einkaufsbummel entsprechend."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, az óváros utcái meredekek és macskakövesek.",
+          "Kezdje a napot korán reggel, hogy elkerülje a tömeget és a déli hőséget.",
+          "Hozzon magával sok vizet, különösen nyáron.",
+          "A legtöbb üzlet sziesztát tart, tervezze a vásárlást ennek megfelelően."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece străzile din orașul vechi sunt abrupte și pavate.",
+          "Începeți devreme dimineața pentru a evita aglomerația și căldura de la amiază.",
+          "Luați multă apă cu dumneavoastră, mai ales vara.",
+          "Majoritatea magazinelor respectă siesta, planificați-vă cumpărăturile în consecință."
+        ],
+        "en": [
+          "Wear comfortable shoes as the streets in the old town are steep and cobbled.",
+          "Start early in the morning to avoid the crowds and midday heat.",
+          "Bring plenty of water, especially in summer.",
+          "Most shops observe a siesta, so plan your shopping accordingly."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafen von Altea",
+            "hu": "Alteai kikötő",
+            "ro": "Portul din Altea",
+            "en": "Port of Altea"
+          },
+          "coords": [
+            -0.045,
+            38.592
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie mit einer frischen Meeresbrise und beobachten Sie die morgendliche Aktivität im Hafen.",
+            "hu": "Kezdje a napot a friss tengeri szellővel, és figyelje a reggeli nyüzsgést a kikötőben.",
+            "ro": "Începeți ziua cu o briză proaspătă de mare și urmăriți activitatea de dimineață din port.",
+            "en": "Start with a fresh sea breeze and watch the morning activity in the port."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Playa de la Roda",
+            "hu": "Playa de la Roda strand",
+            "ro": "Plaja de la Roda",
+            "en": "Playa de la Roda Beach"
+          },
+          "coords": [
+            -0.048,
+            38.596
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:44",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Eine angenehme Fahrt entlang der Promenade. Perfekt für einen Kaffee am Morgen.",
+            "hu": "Kellemes tekerés a sétány mentén. Tökéletes egy reggeli kávéhoz.",
+            "ro": "O plimbare plăcută de-a lungul promenadei. Perfect pentru o cafea de dimineață.",
+            "en": "A pleasant ride along the promenade. Perfect for a morning coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt (Casco Antiguo)",
+            "hu": "Óváros (Casco Antiguo)",
+            "ro": "Orașul vechi (Casco Antiguo)",
+            "en": "Old Town (Casco Antiguo)"
+          },
+          "coords": [
+            -0.051,
+            38.6
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad am Fuße des Hügels ab und erkunden Sie die steilen Gassen zu Fuß.",
+            "hu": "Zárja le a kerékpárt a domb alján, és fedezze fel a meredek utcákat gyalog.",
+            "ro": "Parcați bicicleta la poalele dealului și explorați aleile abrupte pe jos.",
+            "en": "Park your bike at the bottom of the hill and explore the steep alleys on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Nuestra Señora del Consuelo",
+            "hu": "Nuestra Señora del Consuelo templom",
+            "ro": "Biserica Nuestra Señora del Consuelo",
+            "en": "Church of Nuestra Señora del Consuelo"
+          },
+          "coords": [
+            -0.0515,
+            38.6005
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für die Aussicht und die ikonischen blauen Kuppeln.",
+            "hu": "Megéri a fáradságot a kilátásért és az ikonikus kék kupolákért.",
+            "ro": "Urcarea merită efortul pentru priveliște și cupolele albastre iconice.",
+            "en": "The climb is worth it for the view and the iconic blue domes."
+          }
+        },
+        {
+          "name": {
+            "de": "Palau Altea Centre d'Arts",
+            "hu": "Palau Altea Művészeti Központ",
+            "ro": "Centrul de Arte Palau Altea",
+            "en": "Palau Altea Centre for the Arts"
+          },
+          "coords": [
+            -0.055,
+            38.599
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Prüfen Sie das Programm auf Ausstellungen oder Veranstaltungen. Das Gebäude selbst ist modern und sehenswert.",
+            "hu": "Nézze meg a programot kiállítások vagy események után. Maga az épület modern és érdemes megnézni.",
+            "ro": "Verificați programul pentru expoziții sau evenimente. Clădirea în sine este modernă și merită văzută.",
+            "en": "Check the program for any exhibitions or events. The building itself is modern and worth seeing."
+          }
+        },
+        {
+          "name": {
+            "de": "Russisch-Orthodoxe Kirche",
+            "hu": "Orosz Ortodox Templom",
+            "ro": "Biserica Ortodoxă Rusă",
+            "en": "Russian Orthodox Church"
+          },
+          "coords": [
+            0.001,
+            38.615
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:58",
+          "stay_min": 66,
+          "hop_from_prev_min": 48,
+          "hop_from_prev_km": 13.3,
+          "tip_5lang": {
+            "de": "Eine längere, aber lohnende Fahrt. Die Holzkirche ist ein faszinierender Kontrast zur spanischen Architektur.",
+            "hu": "Hosszabb, de megéri. A fatemplom lenyűgöző kontrasztot alkot a spanyol építészettel.",
+            "ro": "O plimbare mai lungă, dar care merită. Biserica de lemn este un contrast fascinant cu arhitectura spaniolă.",
+            "en": "A longer but rewarding ride. The wooden church is a fascinating contrast to Spanish architecture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am lebhaften Hafen und fahren Sie die Promenade entlang. Stellen Sie Ihr Fahrrad ab, um die steile Altstadt zu Fuß zu erkunden, und genießen Sie die Aussicht von der Kirche. Nach dem Mittagessen besuchen Sie das moderne Kulturzentrum, bevor Sie eine längere Tour zur beeindruckenden russisch-orthodoxen Kirche unternehmen. Ein aktiver Tag, der Küste, Kultur und unerwartete Entdeckungen verbindet.",
+        "hu": "Kezdje a kerékpártúrát a nyüzsgő kikötőből, és tekerjen végig a sétányon. Hagyja a kerékpárt, hogy gyalog fedezze fel a meredek óvárost, és élvezze a kilátást a templomtól. Ebéd után látogasson el a modern kulturális központba, mielőtt egy hosszabb túrára indulna a lenyűgöző orosz ortodox templomhoz. Aktív nap, amely ötvözi a tengerpartot, a kultúrát és a váratlan felfedezéseket.",
+        "ro": "Începeți turul cu bicicleta din portul plin de viață și mergeți de-a lungul promenadei. Lăsați bicicleta pentru a explora pe jos orașul vechi abrupt, bucurându-vă de priveliștea de la biserică. După prânz, vizitați centrul cultural modern înainte de a face un tur mai lung la impresionanta biserică ortodoxă rusă. O zi activă care combină coasta, cultura și descoperirile neașteptate.",
+        "en": "Start your bike tour from the lively port and ride along the promenade. Leave your bike to explore the steep old town on foot, enjoying the view from the church. After lunch, visit the modern cultural center before taking a longer tour to the impressive Russian Orthodox Church. An active day combining the coast, culture, and unexpected discoveries."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Paella",
+            "tip": "Suchen Sie nach einem Restaurant, das Paella über dem Holzfeuer zubereitet, für den authentischen Geschmack."
+          },
+          {
+            "name": "Horchata mit Fartons",
+            "tip": "Ein erfrischendes Getränk aus Erdmandeln, perfekt für eine Pause am Nachmittag."
+          },
+          {
+            "name": "La Capella",
+            "tip": "Restaurant in einer ehemaligen Kapelle mit atemberaubendem Blick und ausgezeichneter Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paella",
+            "tip": "Keressen egy éttermet, ahol fatüzelésű tűzön készítik a paellát az autentikus ízért."
+          },
+          {
+            "name": "Horchata Fartons-szal",
+            "tip": "Tigrismogyoróból készült frissítő ital, tökéletes egy délutáni szünethez."
+          },
+          {
+            "name": "La Capella",
+            "tip": "Egykori kápolnában található étterem, lélegzetelállító kilátással és kiváló konyhával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paella",
+            "tip": "Căutați un restaurant care prepară paella pe foc de lemne pentru un gust autentic."
+          },
+          {
+            "name": "Horchata cu Fartons",
+            "tip": "O băutură răcoritoare din alune de pământ, perfectă pentru o pauză de după-amiază."
+          },
+          {
+            "name": "La Capella",
+            "tip": "Restaurant într-o fostă capelă, cu o priveliște uluitoare și o bucătărie excelentă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Paella",
+            "tip": "Look for a restaurant that cooks paella over a wood fire for the authentic taste."
+          },
+          {
+            "name": "Horchata with Fartons",
+            "tip": "A refreshing drink made from tiger nuts, perfect for an afternoon break."
+          },
+          {
+            "name": "La Capella",
+            "tip": "Restaurant in a former chapel with breathtaking views and excellent cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Playa de la Solsida",
+            "tip": "Ein abgelegener FKK-Strand, der Ruhe und klares Wasser bietet.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Cala del Soio",
+            "tip": "Eine kleine Felsbucht, ideal zum Schnorcheln und Entspannen abseits der Massen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussicht vom Leuchtturm von Albir",
+            "tip": "Eine leichte Radtour vom benachbarten Albir mit herrlicher Aussicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Playa de la Solsida",
+            "tip": "Félreeső nudista strand, amely békét és tiszta vizet kínál.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Cala del Soio",
+            "tip": "Kis sziklás öböl, ideális sznorkelezéshez és a tömegtől távoli pihenéshez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás az Albiri világítótoronyból",
+            "tip": "Könnyű kerékpártúra a szomszédos Albirból, csodálatos kilátással.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Playa de la Solsida",
+            "tip": "O plajă retrasă pentru nudiști, care oferă liniște și apă limpede.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Cala del Soio",
+            "tip": "Un mic golf stâncos, ideal pentru snorkeling și relaxare departe de mulțime.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere de la farul din Albir",
+            "tip": "O plimbare ușoară cu bicicleta din orașul vecin Albir, cu vederi magnifice.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Playa de la Solsida",
+            "tip": "A secluded nudist beach offering peace and clear water.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Cala del Soio",
+            "tip": "A small rocky cove, ideal for snorkeling and relaxing away from the crowds.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from Albir Lighthouse",
+            "tip": "An easy bike ride from neighboring Albir with magnificent views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt am Dienstag",
+            "tip": "Ein großer Markt mit allem von frischem Obst bis zu Kleidung und Souvenirs."
+          },
+          {
+            "name": "Keramikläden",
+            "tip": "Altea ist bekannt für seine Keramik. Suchen Sie nach handbemalten Stücken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kedd heti piac",
+            "tip": "Nagy piac, ahol a friss gyümölcstől a ruhákig és ajándéktárgyakig mindent megtalál."
+          },
+          {
+            "name": "Kerámia üzletek",
+            "tip": "Altea híres a kerámiáiról. Keressen kézzel festett darabokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală de marți",
+            "tip": "O piață mare cu de toate, de la fructe proaspete la haine și suveniruri."
+          },
+          {
+            "name": "Magazine de ceramică",
+            "tip": "Altea este renumită pentru ceramica sa. Căutați piese pictate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tuesday Weekly Market",
+            "tip": "A large market with everything from fresh fruit to clothes and souvenirs."
+          },
+          {
+            "name": "Ceramics Shops",
+            "tip": "Altea is famous for its ceramics. Look for hand-painted pieces."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein E-Bike, um den Aufstieg in die Altstadt zu erleichtern.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, besonders in touristischen Gebieten.",
+          "Nutzen Sie die Radwege entlang der Küste für eine sichere und malerische Fahrt.",
+          "Achten Sie auf den Verkehr, da die Straßen eng sein können."
+        ],
+        "hu": [
+          "Béreljen e-biciklit, hogy megkönnyítse a feljutást az óvárosba.",
+          "Mindig zárja le jól a kerékpárját, különösen a turisztikai területeken.",
+          "Használja a tengerparti kerékpárutakat a biztonságos és festői utazáshoz.",
+          "Vigyázzon a forgalomra, mivel az utak szűkek lehetnek."
+        ],
+        "ro": [
+          "Închiriați o bicicletă electrică pentru a facilita urcarea în orașul vechi.",
+          "Încuietăți întotdeauna bicicleta, mai ales în zonele turistice.",
+          "Folosiți pistele de biciclete de-a lungul coastei pentru o plimbare sigură și pitorească.",
+          "Fiți atenți la trafic, deoarece străzile pot fi înguste."
+        ],
+        "en": [
+          "Rent an e-bike to make the climb to the old town easier.",
+          "Always lock your bike securely, especially in tourist areas.",
+          "Use the bike lanes along the coast for a safe and scenic ride.",
+          "Be aware of traffic as streets can be narrow."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:31",
+      "total_km": 19.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Altstadt",
+            "hu": "Óvárosi parkoló",
+            "ro": "Parcare Orașul Vechi",
+            "en": "Old Town Car Park"
+          },
+          "coords": [
+            -0.054,
+            38.5985
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und beginnen Sie Ihren Rundgang. Früh ankommen sichert die besten Plätze.",
+            "hu": "Parkoljon itt, és kezdje meg a sétát. A korai érkezés biztosítja a legjobb helyeket.",
+            "ro": "Parcați aici și începeți turul pietonal. Sosirea devreme asigură cele mai bune locuri.",
+            "en": "Park here and start your walking tour. Arriving early secures the best spots."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt (Casco Antiguo)",
+            "hu": "Óváros (Casco Antiguo)",
+            "ro": "Orașul vechi (Casco Antiguo)",
+            "en": "Old Town (Casco Antiguo)"
+          },
+          "coords": [
+            -0.051,
+            38.6
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der erste Spaziergang des Tages führt durch das Labyrinth der weißen Häuser.",
+            "hu": "A nap első sétája a fehér házak labirintusán vezet keresztül.",
+            "ro": "Prima plimbare a zilei vă poartă prin labirintul de case albe.",
+            "en": "The first walk of the day takes you through the labyrinth of white houses."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Nuestra Señora del Consuelo",
+            "hu": "Nuestra Señora del Consuelo templom",
+            "ro": "Biserica Nuestra Señora del Consuelo",
+            "en": "Church of Nuestra Señora del Consuelo"
+          },
+          "coords": [
+            -0.0515,
+            38.6005
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Höhepunkt des ersten Clusters, nur wenige Schritte vom Hauptplatz entfernt.",
+            "hu": "Az első klaszter fénypontja, csak pár lépésre a főtértől.",
+            "ro": "Punctul culminant al primului cluster, la doar câțiva pași de piața principală.",
+            "en": "The highlight of the first cluster, just a few steps from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Russisch-Orthodoxe Kirche",
+            "hu": "Orosz Ortodox Templom",
+            "ro": "Biserica Ortodoxă Rusă",
+            "en": "Russian Orthodox Church"
+          },
+          "coords": [
+            0.001,
+            38.615
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Eine kurze Autofahrt zu einem völlig anderen Kulturerlebnis. Eigene Parkplätze vorhanden.",
+            "hu": "Rövid autóút egy teljesen más kulturális élményhez. Saját parkolóval rendelkezik.",
+            "ro": "O scurtă călătorie cu mașina către o experiență culturală complet diferită. Parcare proprie disponibilă.",
+            "en": "A short drive to a completely different cultural experience. Private parking available."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Altea",
+            "hu": "Alteai kikötő",
+            "ro": "Portul din Altea",
+            "en": "Port of Altea"
+          },
+          "coords": [
+            -0.045,
+            38.592
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 11,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Hafens für den Mittagscluster. Ideal für ein Fischrestaurant.",
+            "hu": "Parkoljon a kikötő közelében az ebédklaszterhez. Ideális egy halétteremhez.",
+            "ro": "Parcați lângă port pentru clusterul de prânz. Ideal pentru un restaurant cu specific pescăresc.",
+            "en": "Park near the port for the lunch cluster. Ideal for a fish restaurant."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Playa de la Roda",
+            "hu": "Playa de la Roda strand",
+            "ro": "Plaja de la Roda",
+            "en": "Playa de la Roda Beach"
+          },
+          "coords": [
+            -0.048,
+            38.596
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hafen zum Hauptstrand für einen entspannten Nachmittag.",
+            "hu": "Rövid séta a kikötőtől a fő strandig egy pihentető délutánért.",
+            "ro": "O scurtă plimbare de la port la plaja principală pentru o după-amiază relaxantă.",
+            "en": "A short walk from the port to the main beach for a relaxing afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Turm von la Galera",
+            "hu": "Torre de la Galera",
+            "ro": "Turnul Galera",
+            "en": "Tower of la Galera"
+          },
+          "coords": [
+            -0.035,
+            38.588
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "17:16",
+          "stay_min": 45,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem historischen Wachturm für einen letzten Panoramablick zum Sonnenuntergang.",
+            "hu": "Vezessen el ehhez a történelmi őrtoronyhoz egy utolsó panorámás naplementéért.",
+            "ro": "Conduceți până la acest turn de veghe istoric pentru o ultimă priveliște panoramică la apus.",
+            "en": "Drive to this historic watchtower for a final panoramic sunset view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Autotag ist in drei Cluster unterteilt. Beginnen Sie mit dem Parken in der Nähe der Altstadt, um die Gassen und die Kirche zu Fuß zu erkunden. Fahren Sie dann zur einzigartigen russisch-orthodoxen Kirche. Der dritte Cluster konzentriert sich auf die Küste: Parken Sie am Hafen für ein Mittagessen und einen entspannten Spaziergang zum Strand. Beenden Sie den Tag mit einer kurzen Fahrt zu einem historischen Turm für einen malerischen Sonnenuntergang.",
+        "hu": "Ez az autós nap három klaszterre oszlik. Kezdje az óváros közelében parkolva, hogy gyalog fedezze fel a sikátorokat és a templomot. Ezután vezessen el az egyedülálló orosz ortodox templomhoz. A harmadik klaszter a partvidékre összpontosít: parkoljon a kikötőben ebédhez és egy pihentető sétához a strandig. Zárja a napot egy rövid autózással egy történelmi toronyhoz a festői naplementéért.",
+        "ro": "Această zi cu mașina este împărțită în trei clustere. Începeți prin a parca lângă orașul vechi pentru a explora pe jos aleile și biserica. Apoi, conduceți la biserica ortodoxă rusă unică. Al treilea cluster se concentrează pe coastă: parcați în port pentru prânz și o plimbare relaxantă la plajă. Încheiați ziua cu o scurtă călătorie cu mașina la un turn istoric pentru un apus de soare pitoresc.",
+        "en": "This car day is divided into three clusters. Start by parking near the old town to explore the alleys and church on foot. Then, drive to the unique Russian Orthodox Church. The third cluster focuses on the coast: park at the port for lunch and a relaxing walk to the beach. End the day with a short drive to a historic tower for a scenic sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Caldero",
+            "tip": "Ein Fischeintopf, der oft mit Reis und Alioli serviert wird. Ein Muss in einem Hafenrestaurant."
+          },
+          {
+            "name": "Coques a la Calfó",
+            "tip": "Eine Art herzhafte Pizza mit Sardinen oder Gemüse, perfekt für einen schnellen Imbiss."
+          },
+          {
+            "name": "Restaurante La Maja",
+            "tip": "Bietet traditionelle Gerichte mit modernem Touch und einer großen Auswahl an lokalen Weinen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Caldero",
+            "tip": "Halpörkölt, gyakran rizzsel és aliolival tálalva. Kötelező egy kikötői étteremben."
+          },
+          {
+            "name": "Coques a la Calfó",
+            "tip": "Egyfajta sós pizza szardíniával vagy zöldségekkel, tökéletes egy gyors harapnivalóhoz."
+          },
+          {
+            "name": "Restaurante La Maja",
+            "tip": "Hagyományos ételeket kínál modern csavarral és helyi borok széles választékával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caldero",
+            "tip": "O tocană de pește, adesea servită cu orez și alioli. O necesitate într-un restaurant din port."
+          },
+          {
+            "name": "Coques a la Calfó",
+            "tip": "Un fel de pizza sărată cu sardine sau legume, perfectă pentru o gustare rapidă."
+          },
+          {
+            "name": "Restaurante La Maja",
+            "tip": "Oferă mâncăruri tradiționale cu o notă modernă și o selecție largă de vinuri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Caldero",
+            "tip": "A fish stew often served with rice and alioli. A must-have in a port restaurant."
+          },
+          {
+            "name": "Coques a la Calfó",
+            "tip": "A type of savory pizza with sardines or vegetables, perfect for a quick snack."
+          },
+          {
+            "name": "Restaurante La Maja",
+            "tip": "Offers traditional dishes with a modern twist and a wide selection of local wines."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Algar Wasserfälle",
+            "tip": "Eine kurze Autofahrt ins Landesinnere zu erfrischenden Wasserfällen und Naturpools.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Blick vom Kreuz auf der Sierra Bèrnia",
+            "tip": "Eine anspruchsvolle Fahrt, aber mit unschlagbarer Aussicht über die gesamte Küste.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Playa Mascarat",
+            "tip": "Eine ruhige Bucht nördlich von Altea, ideal zum Entspannen und Schwimmen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Algar-vízesések",
+            "tip": "Rövid autóút a szárazföld belsejébe frissítő vízesésekhez és természetes medencékhez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a Sierra Bèrnia keresztjétől",
+            "tip": "Kihívást jelentő út, de verhetetlen kilátással az egész partvidékre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Playa Mascarat",
+            "tip": "Csendes öböl Alteától északra, ideális pihenésre és úszásra.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cascadele Algar",
+            "tip": "O scurtă călătorie cu mașina în interior pentru cascade răcoritoare și piscine naturale.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere de la crucea de pe Sierra Bèrnia",
+            "tip": "O călătorie dificilă, dar cu vederi imbatabile asupra întregii coaste.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plaja Mascarat",
+            "tip": "Un golf liniștit la nord de Altea, ideal pentru relaxare și înot.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Algar Waterfalls",
+            "tip": "A short drive inland to refreshing waterfalls and natural pools.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from the cross on Sierra Bèrnia",
+            "tip": "A challenging drive but with unbeatable views over the entire coast.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Playa Mascarat",
+            "tip": "A quiet cove north of Altea, ideal for relaxing and swimming.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Weine",
+            "tip": "Besuchen Sie eine Bodega in der Umgebung, um Moscatel-Wein zu probieren und zu kaufen."
+          },
+          {
+            "name": "Olivenöl",
+            "tip": "Die Region ist bekannt für ihr hochwertiges Olivenöl. Suchen Sie nach kleinen Produzenten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi borok",
+            "tip": "Látogasson el egy helyi bodegába, hogy megkóstolja és megvásárolja a Moscatel bort."
+          },
+          {
+            "name": "Olívaolaj",
+            "tip": "A régió híres a kiváló minőségű olívaolajáról. Keressen kis termelőket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinuri locale",
+            "tip": "Vizitați o cramă din zonă pentru a degusta și cumpăra vin Moscatel."
+          },
+          {
+            "name": "Ulei de măsline",
+            "tip": "Regiunea este cunoscută pentru uleiul său de măsline de înaltă calitate. Căutați micii producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Wines",
+            "tip": "Visit a local bodega to taste and buy Moscatel wine."
+          },
+          {
+            "name": "Olive Oil",
+            "tip": "The region is known for its high-quality olive oil. Look for small producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Parkplätze sind im Sommer schnell voll. Nutzen Sie die gebührenpflichtigen Parkhäuser.",
+          "Achten Sie auf die engen Einbahnstraßen in der Nähe der Altstadt.",
+          "Planen Sie zusätzliche Zeit für den Verkehr ein, besonders an Markttagen (Dienstag).",
+          "Ein kleineres Auto ist für das Manövrieren und Parken in Altea von Vorteil."
+        ],
+        "hu": [
+          "A parkolóhelyek nyáron gyorsan megtelnek. Használja a fizetős parkolóházakat.",
+          "Vigyázzon a szűk egyirányú utcákra az óváros közelében.",
+          "Tervezzen plusz időt a forgalomra, különösen a piaci napokon (kedd).",
+          "Egy kisebb autó előnyösebb a manőverezéshez és parkoláshoz Alteában."
+        ],
+        "ro": [
+          "Parcările se umplu rapid vara. Folosiți parcările cu plată.",
+          "Fiți atenți la străzile înguste cu sens unic din apropierea orașului vechi.",
+          "Planificați timp suplimentar pentru trafic, în special în zilele de piață (marți).",
+          "O mașină mai mică este avantajoasă pentru manevrare și parcare în Altea."
+        ],
+        "en": [
+          "Parking spots fill up quickly in summer. Use the paid parking garages.",
+          "Be careful on the narrow one-way streets near the old town.",
+          "Allow extra time for traffic, especially on market days (Tuesday).",
+          "A smaller car is advantageous for maneuvering and parking in Altea."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 5.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bushaltestelle Altea Altstadt",
+            "hu": "Altea óváros buszmegálló",
+            "ro": "Stația de autobuz Altea Orașul Vechi",
+            "en": "Altea Old Town Bus Stop"
+          },
+          "coords": [
+            -0.053,
+            38.599
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus L10 von Benidorm/Albir oder den lokalen Bus, um direkt unterhalb der Altstadt anzukommen.",
+            "hu": "Menjen az L10 busszal Benidormból/Albirból, vagy a helyi busszal, hogy közvetlenül az óváros alá érkezzen.",
+            "ro": "Luați autobuzul L10 din Benidorm/Albir sau autobuzul local pentru a ajunge chiar sub orașul vechi.",
+            "en": "Take the L10 bus from Benidorm/Albir or the local bus to arrive just below the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt & Kirche N.S. del Consuelo",
+            "hu": "Óváros és N.S. del Consuelo templom",
+            "ro": "Orașul vechi și Biserica N.S. del Consuelo",
+            "en": "Old Town & Church of N.S. del Consuelo"
+          },
+          "coords": [
+            -0.051,
+            38.6
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erklimmen Sie den Hügel und erkunden Sie den ersten Cluster aus Gassen und dem Hauptplatz.",
+            "hu": "Másszon fel a dombra, és fedezze fel az első klasztert, a sikátorokat és a főteret.",
+            "ro": "Urcați dealul și explorați primul cluster de alei și piața principală.",
+            "en": "Climb the hill and explore the first cluster of alleys and the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Palau Altea Centre d'Arts",
+            "hu": "Palau Altea Művészeti Központ",
+            "ro": "Centrul de Arte Palau Altea",
+            "en": "Palau Altea Centre for the Arts"
+          },
+          "coords": [
+            -0.055,
+            38.599
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Abstieg vom Kirchplatz zu diesem modernen Kulturgebäude.",
+            "hu": "Rövid séta lefelé a templom tértől ehhez a modern kulturális épülethez.",
+            "ro": "O scurtă coborâre de la piața bisericii la această clădire culturală modernă.",
+            "en": "A short walk down from the church square to this modern cultural building."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle Strandpromenade",
+            "hu": "Tengerparti sétány megálló",
+            "ro": "Stația de pe promenada de pe plajă",
+            "en": "Beach Promenade Stop"
+          },
+          "coords": [
+            -0.049,
+            38.595
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus für eine kurze Fahrt zum Strandcluster. Zeit für Mittagessen und Entspannung am Meer.",
+            "hu": "Menjen busszal egy rövid utat a strandklaszterhez. Itt az idő ebédelni és pihenni a tengerparton.",
+            "ro": "Luați autobuzul pentru o scurtă călătorie până la clusterul de plajă. Timp pentru prânz și relaxare la mare.",
+            "en": "Take the bus for a short ride to the beach cluster. Time for lunch and relaxation by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Altea",
+            "hu": "Alteai kikötő",
+            "ro": "Portul din Altea",
+            "en": "Port of Altea"
+          },
+          "coords": [
+            -0.045,
+            38.592
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie die Promenade entlang zum Hafen und beobachten Sie das Treiben.",
+            "hu": "Sétáljon végig a sétányon a kikötőig, és figyelje a nyüzsgést.",
+            "ro": "Plimbați-vă de-a lungul promenadei până în port și urmăriți agitația.",
+            "en": "Stroll along the promenade to the port and watch the hustle and bustle."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den lokalen Bus, um mühelos zwischen den beiden Hauptbereichen von Altea zu wechseln. Beginnen Sie Ihren Tag mit einer Busfahrt zum Altstadt-Cluster, wo Sie die Kirche und die malerischen Straßen zu Fuß erkunden. Nach einem Vormittag voller Kultur bringt Sie ein weiterer Bus zum Küsten-Cluster. Hier können Sie am Strand zu Mittag essen und den Nachmittag entspannt am Hafen ausklingen lassen.",
+        "hu": "Használja a helyi buszt, hogy könnyedén váltson Altea két fő területe között. Kezdje a napot egy buszúttal az óvárosi klaszterbe, ahol gyalogosan fedezheti fel a templomot és a festői utcákat. A kulturális délelőtt után egy másik busz elviszi a tengerparti klaszterbe. Itt ebédelhet a strandon, és a délutánt a kikötőben pihenve fejezheti be.",
+        "ro": "Folosiți autobuzul local pentru a comuta fără efort între cele două zone principale din Altea. Începeți ziua cu o călătorie cu autobuzul către clusterul orașului vechi, unde puteți explora biserica și străzile pitorești pe jos. După o dimineață culturală, un alt autobuz vă va duce la clusterul de coastă. Aici puteți lua prânzul pe plajă și puteți încheia după-amiaza relaxându-vă în port.",
+        "en": "Use the local bus to switch effortlessly between Altea's two main areas. Start your day with a bus ride to the old town cluster, where you can explore the church and picturesque streets on foot. After a cultural morning, another bus will take you to the coastal cluster. Here you can have lunch on the beach and end the afternoon relaxing at the port."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tapas-Tour",
+            "tip": "Probieren Sie verschiedene Tapas-Bars in der Altstadt. Jede hat ihre eigene Spezialität."
+          },
+          {
+            "name": "Fideuà",
+            "tip": "Ähnlich wie Paella, aber mit Nudeln statt Reis. Eine köstliche lokale Variante."
+          },
+          {
+            "name": "El Perro Negro",
+            "tip": "Eine beliebte Tapas-Bar in der Altstadt, bekannt für ihre lebhafte Atmosphäre und kreativen Gerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tapas túra",
+            "tip": "Próbáljon ki több tapas bárt az óvárosban. Mindegyiknek megvan a maga specialitása."
+          },
+          {
+            "name": "Fideuà",
+            "tip": "Hasonló a paellához, de tésztával rizs helyett. Finom helyi változat."
+          },
+          {
+            "name": "El Perro Negro",
+            "tip": "Népszerű tapas bár az óvárosban, élénk hangulatáról és kreatív ételeiről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tur de tapas",
+            "tip": "Încercați diferite baruri de tapas din orașul vechi. Fiecare are propria sa specialitate."
+          },
+          {
+            "name": "Fideuà",
+            "tip": "Similar cu paella, dar cu tăiței în loc de orez. O variantă locală delicioasă."
+          },
+          {
+            "name": "El Perro Negro",
+            "tip": "Un bar popular de tapas din orașul vechi, cunoscut pentru atmosfera sa plină de viață și preparatele creative."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tapas Tour",
+            "tip": "Try different tapas bars in the old town. Each has its own specialty."
+          },
+          {
+            "name": "Fideuà",
+            "tip": "Similar to paella, but with noodles instead of rice. A delicious local variation."
+          },
+          {
+            "name": "El Perro Negro",
+            "tip": "A popular tapas bar in the old town, known for its lively atmosphere and creative dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof von Altea",
+            "tip": "Bietet eine ruhige Atmosphäre und einen überraschend schönen Blick auf das Meer.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang entlang des Flusses Algar",
+            "tip": "Ein flacher, einfacher Spaziergang, der vom Strand ins Landesinnere führt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bibliothek im Kulturzentrum",
+            "tip": "Ein moderner, klimatisierter Ort, um sich für eine Weile zurückzuziehen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alteai temető",
+            "tip": "Csendes légkört és meglepően szép kilátást nyújt a tengerre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta az Algar folyó mentén",
+            "tip": "Sík, könnyű séta, amely a strandtól a szárazföld belseje felé vezet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Könyvtár a kulturális központban",
+            "tip": "Modern, légkondicionált hely, ahol egy időre elvonulhat.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul din Altea",
+            "tip": "Oferă o atmosferă liniștită și o vedere surprinzător de frumoasă la mare.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare de-a lungul râului Algar",
+            "tip": "O plimbare plată, ușoară, care duce de la plajă spre interior.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Biblioteca de la centrul cultural",
+            "tip": "Un loc modern, cu aer condiționat, unde vă puteți retrage pentru o vreme.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Altea Cemetery",
+            "tip": "Offers a quiet atmosphere and a surprisingly beautiful view of the sea.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk along the Algar river",
+            "tip": "A flat, easy walk leading inland from the beach.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Library in the cultural center",
+            "tip": "A modern, air-conditioned place to retreat for a while.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markthalle (Mercado Municipal)",
+            "tip": "Kaufen Sie lokale Produkte, Käse und Schinken für ein Picknick am Strand."
+          },
+          {
+            "name": "Schmuckateliers",
+            "tip": "Viele Künstler in Altea stellen einzigartigen handgefertigten Schmuck her."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vásárcsarnok (Mercado Municipal)",
+            "tip": "Vásároljon helyi termékeket, sajtot és sonkát egy tengerparti piknikhez."
+          },
+          {
+            "name": "Ékszerstúdiók",
+            "tip": "Sok művész Alteában egyedi, kézzel készített ékszereket készít."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Municipală (Mercado Municipal)",
+            "tip": "Cumpărați produse locale, brânză și șuncă pentru un picnic pe plajă."
+          },
+          {
+            "name": "Ateliere de bijuterii",
+            "tip": "Mulți artiști din Altea creează bijuterii unice, lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market Hall (Mercado Municipal)",
+            "tip": "Buy local products, cheese, and ham for a picnic on the beach."
+          },
+          {
+            "name": "Jewelry Ateliers",
+            "tip": "Many artists in Altea create unique handmade jewelry."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine 'Bono-Bus'-Karte für ermäßigte Fahrpreise, wenn Sie mehrere Fahrten planen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, da die Frequenzen variieren können.",
+          "Der Bus L10 verbindet Altea mit Benidorm und Albir und ist eine gute Option für Tagesausflüge.",
+          "Halten Sie Kleingeld für den Busfahrer bereit, da große Scheine möglicherweise nicht akzeptiert werden."
+        ],
+        "hu": [
+          "Vásároljon 'Bono-Bus' kártyát a kedvezményes utazáshoz, ha több utat tervez.",
+          "Ellenőrizze előre a buszmenetrendet, mivel a járatok sűrűsége változhat.",
+          "Az L10-es busz összeköti Alteát Benidormmal és Albirral, jó lehetőség napos kirándulásokhoz.",
+          "Tartson aprópénzt a buszsofőr számára, mert a nagy címleteket esetleg nem fogadják el."
+        ],
+        "ro": [
+          "Cumpărați un card 'Bono-Bus' pentru tarife reduse dacă planificați mai multe călătorii.",
+          "Verificați programul autobuzelor în avans, deoarece frecvențele pot varia.",
+          "Autobuzul L10 leagă Altea de Benidorm și Albir și este o opțiune bună pentru excursii de o zi.",
+          "Pregătiți monede pentru șoferul de autobuz, deoarece bancnotele mari s-ar putea să nu fie acceptate."
+        ],
+        "en": [
+          "Buy a 'Bono-Bus' card for discounted fares if you plan multiple trips.",
+          "Check the bus schedule in advance, as frequencies can vary.",
+          "The L10 bus connects Altea with Benidorm and Albir and is a good option for day trips.",
+          "Have small change ready for the bus driver, as large notes may not be accepted."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1630 @@
+{
+  "city_id": "belgium-ghent-cities-v2",
+  "anchor": {
+    "name": "Gent",
+    "coords": [
+      3.7174,
+      51.0543
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.4,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Sankt-Michael-Brücke",
+            "hu": "Szent Mihály-híd",
+            "ro": "Podul Sfântul Mihail",
+            "en": "St. Michael's Bridge"
+          },
+          "coords": [
+            3.7208,
+            51.0543
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der beste Ort für ein Panoramafoto der drei berühmten Türme von Gent.",
+            "hu": "A legjobb hely egy panorámakép készítéséhez Gent híres három tornyáról.",
+            "ro": "Cel mai bun loc pentru o fotografie panoramică cu cele trei turnuri faimoase din Gent.",
+            "en": "The best spot for a panoramic photo of Ghent's famous three towers."
+          }
+        },
+        {
+          "name": {
+            "de": "Graslei und Korenlei",
+            "hu": "Graslei és Korenlei",
+            "ro": "Graslei și Korenlei",
+            "en": "Graslei and Korenlei"
+          },
+          "coords": [
+            3.7215,
+            51.0549
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie eine Bootsfahrt auf den Kanälen, um die Giebelhäuser vom Wasser aus zu sehen.",
+            "hu": "Tegyen egy csónaktúrát a csatornákon, hogy a vízből is megcsodálhassa a díszes homlokzatokat.",
+            "ro": "Faceți o plimbare cu barca pe canale pentru a vedea casele medievale de pe maluri.",
+            "en": "Take a boat tour on the canals to see the gabled houses from the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt-Nikolaus-Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "St. Nicholas' Church"
+          },
+          "coords": [
+            3.7225,
+            51.0541
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckende Orgel und das zentrale Kirchenschiff im Schelde-Gotik-Stil.",
+            "hu": "Figyelje meg a lenyűgöző orgonát és a Schelde-i gótikus stílusú főhajót.",
+            "ro": "Observați orga impresionantă și nava centrală în stil gotic Scheldt.",
+            "en": "Look for the impressive organ and the central nave built in the Scheldt Gothic style."
+          }
+        },
+        {
+          "name": {
+            "de": "Genter Belfried",
+            "hu": "Genti harangtorony",
+            "ro": "Beffroi-ul din Gent",
+            "en": "Belfry of Ghent"
+          },
+          "coords": [
+            3.7249,
+            51.053
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:58",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Steigen Sie die Stufen für eine unvergleichliche Aussicht auf die Stadt hinauf. Der Aufzug ist eine Option für den Rückweg.",
+            "hu": "Mássza meg a lépcsőket a városra nyíló páratlan kilátásért. Lefelé akár lifttel is jöhet.",
+            "ro": "Urcați treptele pentru o priveliște de neegalat asupra orașului. Liftul este o opțiune la coborâre.",
+            "en": "Climb the steps for an unparalleled view of the city. The elevator is an option for the way down."
+          }
+        },
+        {
+          "name": {
+            "de": "Sint-Baafskathedraal",
+            "hu": "Szent Bávó-katedrális",
+            "ro": "Catedrala Sfântul Bavo",
+            "en": "St. Bavo's Cathedral"
+          },
+          "coords": [
+            3.7236,
+            51.0531
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Hier befindet sich der Genter Altar der Gebrüder van Eyck. Buchen Sie Ihr Ticket im Voraus!",
+            "hu": "Itt található a Van Eyck testvérek Genti oltára. Foglalja le a jegyét előre!",
+            "ro": "Adăpostește altarul din Gent realizat de frații van Eyck. Rezervați-vă biletul în avans!",
+            "en": "Home to the Ghent Altarpiece by the van Eyck brothers. Book your ticket in advance!"
+          }
+        },
+        {
+          "name": {
+            "de": "Gravensteen",
+            "hu": "Gravensteen (Grófok Vára)",
+            "ro": "Castelul Gravensteen",
+            "en": "Gravensteen (Castle of the Counts)"
+          },
+          "coords": [
+            3.7214,
+            51.0573
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Der Audioguide ist witzig und informativ und erweckt die Geschichte der Burg zum Leben.",
+            "hu": "Az audio guide humoros és informatív, életre kelti a vár történetét.",
+            "ro": "Ghidul audio este amuzant și informativ, aducând la viață istoria castelului.",
+            "en": "The audio guide is witty and informative, bringing the castle's history to life."
+          }
+        },
+        {
+          "name": {
+            "de": "Patershol",
+            "hu": "Patershol negyed",
+            "ro": "Cartierul Patershol",
+            "en": "Patershol District"
+          },
+          "coords": [
+            3.7225,
+            51.0581
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:01",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Verirren Sie sich in den engen Gassen und entdecken Sie gemütliche Restaurants und einzigartige Boutiquen.",
+            "hu": "Tévedjen el a szűk sikátorokban, és fedezzen fel hangulatos éttermeket és egyedi butikokat.",
+            "ro": "Rătăciți-vă pe aleile înguste pentru a descoperi restaurante cochete și buticuri unice.",
+            "en": "Get lost in the narrow alleys to discover cozy restaurants and unique boutiques."
+          }
+        },
+        {
+          "name": {
+            "de": "Vrijdagmarkt",
+            "hu": "Vrijdagmarkt (Pénteki piac)",
+            "ro": "Piața Vrijdagmarkt",
+            "en": "Vrijdagmarkt (Friday Market)"
+          },
+          "coords": [
+            3.7265,
+            51.057
+          ],
+          "category": "market",
+          "arrive_at": "16:11",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Platz freitags oder samstags für den traditionellen Markt. Probieren Sie lokale Snacks!",
+            "hu": "Látogasson el a térre pénteken vagy szombaton a hagyományos piac idején. Kóstoljon helyi finomságokat!",
+            "ro": "Vizitați piața vinerea sau sâmbăta pentru târgul tradițional. Gustați gustările locale!",
+            "en": "Visit on a Friday or Saturday for the traditional market. Try some local snacks!"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einem atemberaubenden Blick von der St.-Michael-Brücke, dem perfekten Ort für Fotos. Am Vormittag erkunden Sie das historische Herz von Gent, schlendern entlang der Graslei und Korenlei und bewundern die majestätischen Kirchen. Verbringen Sie den Nachmittag damit, in die mittelalterliche Vergangenheit im Gravensteen einzutauchen und sich in den charmanten Gassen von Patershol zu verlieren. Beenden Sie Ihren Tag auf dem belebten Vrijdagmarkt, wo Sie die lokale Atmosphäre bei einem Drink in einem der vielen Cafés genießen können.",
+        "hu": "Kezdje a napot egy lélegzetelállító kilátással a Szent Mihály-hídról, ami tökéletes fotóhelyszín. A délelőttöt Gent történelmi szívének felfedezésével töltse, sétáljon végig a Graslei és Korenlei partján, és csodálja meg a fenséges templomokat. Délután merüljön el a középkori múltban a Gravensteen várában, és tévedjen el a Patershol bájos sikátoraiban. Zárja a napot a nyüzsgő Vrijdagmarkt téren, ahol egy ital mellett élvezheti a helyi hangulatot a számos kávézó egyikében.",
+        "ro": "Începeți ziua cu o priveliște uluitoare de pe Podul Sf. Mihail, locul perfect pentru fotografii. Dimineața, explorați inima istorică a Gentului, plimbându-vă pe Graslei și Korenlei și admirând bisericile maiestuoase. Petreceți după-amiaza cufundându-vă în trecutul medieval la Gravensteen și rătăcindu-vă pe aleile fermecătoare din Patershol. Încheiați ziua în vibranta Vrijdagmarkt, savurând atmosfera locală cu o băutură la una dintre numeroasele cafenele.",
+        "en": "Start your day with a breathtaking view from St. Michael's Bridge, the perfect photo spot. Spend the morning exploring Ghent's historic heart, strolling along the Graslei and Korenlei and admiring the majestic churches. Spend the afternoon delving into the medieval past at the Gravensteen and getting lost in the charming alleys of Patershol. End your day at the bustling Vrijdagmarkt, soaking up the local atmosphere with a drink at one of the many cafés."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gentse Waterzooi",
+            "tip": "Ein cremiger Eintopf mit Huhn oder Fisch, Gemüse und Kartoffeln. Probieren Sie ihn im 't Klokhuys in Patershol."
+          },
+          {
+            "name": "Cuberdons (Neuzekes)",
+            "tip": "Kegelförmige, violette Süßigkeiten mit einem flüssigen Himbeerkern. Kaufen Sie sie an einem Straßenstand."
+          },
+          {
+            "name": "Tierenteyn-Senf",
+            "tip": "Ein scharfer, traditioneller Senf. Besuchen Sie das ursprüngliche Geschäft für eine Kostprobe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gentse Waterzooi",
+            "tip": "Krémes egytálétel csirkével vagy hallal, zöldségekkel és burgonyával. Kóstolja meg a 't Klokhuys étteremben a Patersholban."
+          },
+          {
+            "name": "Cuberdon (Neuzeke)",
+            "tip": "Kúp alakú, lila édesség folyékony málna töltelékkel. Utcai árusnál szerezze be."
+          },
+          {
+            "name": "Tierenteyn mustár",
+            "tip": "Erős, hagyományos mustár. Látogasson el az eredeti boltba egy kóstolóért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gentse Waterzooi",
+            "tip": "O tocană cremoasă cu pui sau pește, legume și cartofi. Încercați-o la 't Klokhuys în Patershol."
+          },
+          {
+            "name": "Cuberdons (Neuzekes)",
+            "tip": "Bomboane mov în formă de con cu un interior lichid de zmeură. Cumpărați-le de la un stand stradal."
+          },
+          {
+            "name": "Muștar Tierenteyn",
+            "tip": "Un muștar picant, tradițional. Vizitați magazinul original pentru o degustare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gentse Waterzooi",
+            "tip": "A creamy stew with chicken or fish, vegetables, and potatoes. Try it at 't Klokhuys in Patershol."
+          },
+          {
+            "name": "Cuberdons (Neuzekes)",
+            "tip": "Cone-shaped, purple sweets with a liquid raspberry core. Buy them from a street vendor's cart."
+          },
+          {
+            "name": "Tierenteyn Mustard",
+            "tip": "A sharp, traditional mustard. Visit the original shop for a tasting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Karmeliterkloster",
+            "tip": "Finden Sie einen Moment der Ruhe im versteckten Innenhof dieses ehemaligen Klosters.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Appelbrugparkje",
+            "tip": "Eine kleine, weniger bekannte Grünfläche mit Blick auf das Gravensteen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang am Kanal",
+            "tip": "Ein früher Morgenspaziergang entlang der Kanäle, bevor die Menschenmassen eintreffen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Karmelita kolostor",
+            "tip": "Találjon egy csendes pillanatot ennek az egykori kolostornak a rejtett udvarán.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Appelbrugparkje",
+            "tip": "Egy kis, kevésbé ismert zöld terület, kilátással a Gravensteen várára.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Csatornaparti séta",
+            "tip": "Egy kora reggeli séta a csatornák mentén, mielőtt a tömeg megérkezik.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mănăstirea Carmelite",
+            "tip": "Găsiți un moment de liniște în curtea ascunsă a acestei foste mănăstiri.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Appelbrugparkje",
+            "tip": "Un mic parc, mai puțin cunoscut, cu vedere la Castelul Gravensteen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare pe canal",
+            "tip": "O plimbare de dimineață devreme de-a lungul canalelor, înainte de sosirea mulțimilor.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Carmelite Friary",
+            "tip": "Find a moment of peace in the hidden courtyard of this former monastery.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Appelbrugparkje",
+            "tip": "A small, lesser-known green space with a view of the Gravensteen castle.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Canal Walk",
+            "tip": "An early morning stroll along the canals before the crowds arrive.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Veldstraat",
+            "tip": "Die Haupteinkaufsstraße mit bekannten Marken und Kaufhäusern."
+          },
+          {
+            "name": "Antiquitätenläden in der Jan Breydelstraat",
+            "tip": "Stöbern Sie nach einzigartigen Schätzen und Vintage-Funden."
+          },
+          {
+            "name": "The Great Butchers' Hall",
+            "tip": "Kaufen Sie lokale Köstlichkeiten wie Ganda-Schinken und Tierenteyn-Senf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Veldstraat",
+            "tip": "A fő bevásárlóutca ismert márkákkal és áruházakkal."
+          },
+          {
+            "name": "Antikváriumok a Jan Breydelstraat utcában",
+            "tip": "Böngésszen egyedi kincsek és vintage leletek után."
+          },
+          {
+            "name": "A Nagy Mészárosok Csarnoka",
+            "tip": "Vásároljon helyi finomságokat, mint a Ganda sonka és a Tierenteyn mustár."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Veldstraat",
+            "tip": "Principala stradă comercială cu mărci cunoscute și magazine universale."
+          },
+          {
+            "name": "Magazine de antichități pe Jan Breydelstraat",
+            "tip": "Căutați comori unice și obiecte de epocă."
+          },
+          {
+            "name": "Sala Mare a Măcelarilor",
+            "tip": "Cumpărați delicatese locale precum șunca Ganda și muștarul Tierenteyn."
+          }
+        ],
+        "en": [
+          {
+            "name": "Veldstraat",
+            "tip": "The main shopping street with high-street brands and department stores."
+          },
+          {
+            "name": "Antique shops on Jan Breydelstraat",
+            "tip": "Browse for unique treasures and vintage finds."
+          },
+          {
+            "name": "The Great Butchers' Hall",
+            "tip": "Shop for local delicacies like Ganda Ham and Tierenteyn mustard."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster uneben sein kann.",
+          "Die meisten Attraktionen im Stadtzentrum sind leicht zu Fuß erreichbar.",
+          "Eine CityCard Gent kann sich lohnen, wenn Sie viele Museen und Attraktionen besuchen möchten.",
+          "Vergessen Sie Ihre Kamera nicht – Gent ist unglaublich fotogen!"
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskaköves utcák egyenetlenek lehetnek.",
+          "A legtöbb belvárosi látnivaló könnyen megközelíthető gyalog.",
+          "A Gent CityCard megérheti, ha sok múzeumot és látnivalót tervez meglátogatni.",
+          "Ne hagyja otthon a fényképezőgépét – Gent hihetetlenül fotogén!"
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul poate fi denivelat.",
+          "Majoritatea atracțiilor din centrul orașului sunt ușor accesibile pe jos.",
+          "Un CityCard Gent poate fi rentabil dacă intenționați să vizitați multe muzee și atracții.",
+          "Nu vă uitați aparatul foto – Gent este incredibil de fotogenic!"
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestone streets can be uneven.",
+          "Most attractions in the city center are within easy walking distance.",
+          "A CityCard Gent can be worthwhile if you plan to visit many museums and attractions.",
+          "Don't forget your camera – Ghent is incredibly photogenic!"
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:24",
+      "total_km": 10.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Sankt-Michael-Brücke",
+            "hu": "Szent Mihály-híd",
+            "ro": "Podul Sfântul Mihail",
+            "en": "St. Michael's Bridge"
+          },
+          "coords": [
+            3.7208,
+            51.0543
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und genießen Sie die Aussicht, bevor Sie Ihre Tour beginnen.",
+            "hu": "Zárja le a biciklijét, és élvezze a kilátást, mielőtt elkezdi a túrát.",
+            "ro": "Legați-vă bicicleta și bucurați-vă de priveliște înainte de a începe turul.",
+            "en": "Lock up your bike and enjoy the view before starting your tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Graslei und Korenlei",
+            "hu": "Graslei és Korenlei",
+            "ro": "Graslei și Korenlei",
+            "en": "Graslei and Korenlei"
+          },
+          "coords": [
+            3.7215,
+            51.0549
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:22",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Fahren Sie langsam und achten Sie auf Fußgänger in diesem belebten Bereich.",
+            "hu": "Lassan haladjon, és figyeljen a gyalogosokra ezen a forgalmas területen.",
+            "ro": "Pedalați încet și fiți atenți la pietoni în această zonă aglomerată.",
+            "en": "Cycle slowly and be mindful of pedestrians in this busy area."
+          }
+        },
+        {
+          "name": {
+            "de": "Gravensteen",
+            "hu": "Gravensteen (Grófok Vára)",
+            "ro": "Castelul Gravensteen",
+            "en": "Gravensteen (Castle of the Counts)"
+          },
+          "coords": [
+            3.7214,
+            51.0573
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Es gibt Fahrradständer in der Nähe des Eingangs. Ein Muss für Geschichtsliebhaber.",
+            "hu": "A bejárat közelében kerékpártárolók találhatók. Történelemkedvelőknek kötelező.",
+            "ro": "Există suporturi pentru biciclete lângă intrare. O vizită obligatorie pentru pasionații de istorie.",
+            "en": "There are bike racks near the entrance. A must-visit for history buffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Vrijdagmarkt",
+            "hu": "Vrijdagmarkt (Pénteki piac)",
+            "ro": "Piața Vrijdagmarkt",
+            "en": "Vrijdagmarkt (Friday Market)"
+          },
+          "coords": [
+            3.7265,
+            51.057
+          ],
+          "category": "market",
+          "arrive_at": "11:21",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für eine Mittagspause. Viele Cafés mit Außenterrassen.",
+            "hu": "Nagyszerű hely egy ebédszünetre. Számos kávézó terasszal.",
+            "ro": "Un loc excelent pentru o pauză de prânz. Multe cafenele cu terase exterioare.",
+            "en": "A great spot for a lunch break. Lots of cafes with outdoor terraces."
+          }
+        },
+        {
+          "name": {
+            "de": "Sint-Baafskathedraal",
+            "hu": "Szent Bávó-katedrális",
+            "ro": "Catedrala Sfântul Bavo",
+            "en": "St. Bavo's Cathedral"
+          },
+          "coords": [
+            3.7236,
+            51.0531
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für den Genter Altar. Die Details sind unglaublich.",
+            "hu": "Szánjon időt a Genti oltárra. A részletek lenyűgözőek.",
+            "ro": "Acordați-vă timp pentru Altarul din Gent. Detaliile sunt incredibile.",
+            "en": "Take your time for the Ghent Altarpiece. The details are incredible."
+          }
+        },
+        {
+          "name": {
+            "de": "MSK (Museum der Schönen Künste)",
+            "hu": "MSK (Szépművészeti Múzeum)",
+            "ro": "MSK (Muzeul de Arte Frumoase)",
+            "en": "MSK (Museum of Fine Arts)"
+          },
+          "coords": [
+            3.7198,
+            51.0375
+          ],
+          "category": "museums",
+          "arrive_at": "13:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Fahren Sie durch den Citadelpark, um zum Museum zu gelangen. Eine schöne, grüne Route.",
+            "hu": "Tekerjen át a Citadelparkon, hogy elérje a múzeumot. Egy szép, zöld útvonal.",
+            "ro": "Pedalați prin Parcul Citadel pentru a ajunge la muzeu. Un traseu frumos și verde.",
+            "en": "Cycle through the Citadelpark to get to the museum. A beautiful, green route."
+          }
+        },
+        {
+          "name": {
+            "de": "SMAK (Städtisches Museum für aktuelle Kunst)",
+            "hu": "SMAK (Kortárs Művészeti Múzeum)",
+            "ro": "SMAK (Muzeul Municipal de Artă Contemporană)",
+            "en": "SMAK (Municipal Museum of Contemporary Art)"
+          },
+          "coords": [
+            3.7184,
+            51.0369
+          ],
+          "category": "museums",
+          "arrive_at": "15:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Direkt gegenüber dem MSK. Kombinieren Sie beide für einen ganzen Tag voller Kunst.",
+            "hu": "Közvetlenül az MSK-val szemben található. Kombinálja a kettőt egy teljes művészeti napért.",
+            "ro": "Chiar vizavi de MSK. Combinați cele două pentru o zi întreagă de artă.",
+            "en": "Located just opposite the MSK. Combine both for a full day of art."
+          }
+        },
+        {
+          "name": {
+            "de": "Patershol",
+            "hu": "Patershol negyed",
+            "ro": "Cartierul Patershol",
+            "en": "Patershol District"
+          },
+          "coords": [
+            3.7225,
+            51.0581
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "17:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Tag mit einem Abendessen in einem der vielen ausgezeichneten Restaurants ausklingen zu lassen.",
+            "hu": "Tökéletes hely a nap befejezéséhez egy vacsorával a sok kiváló étterem egyikében.",
+            "ro": "Locul perfect pentru a încheia ziua cu o cină la unul dintre multele restaurante excelente.",
+            "en": "The perfect place to end your day with dinner at one of the many excellent restaurants."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad durch Gent zu fahren ist ein Vergnügen. Beginnen Sie am fotogenen St.-Michael-Brücke, radeln Sie dann zum mittelalterlichen Gravensteen. Genießen Sie eine Mittagspause auf dem belebten Vrijdagmarkt, bevor Sie die spirituelle Atmosphäre der Sint-Baafskathedraal erleben. Am Nachmittag fahren Sie durch den Citadelpark zu den Kunstmuseen MSK und SMAK. Beenden Sie Ihre Tour in den charmanten Gassen von Patershol, wo ein köstliches Abendessen auf Sie wartet.",
+        "hu": "Biciklivel bejárni Gentet egy élmény. Kezdjen a fotogén Szent Mihály-hídnál, majd tekerjen a középkori Gravensteenhez. Ebédeljen a nyüzsgő Vrijdagmarkt téren, mielőtt átadná magát a Szent Bávó-katedrális spirituális hangulatának. Délután a Citadelparkon keresztül jut el az MSK és SMAK művészeti múzeumokhoz. Fejezze be a túrát a Patershol bájos sikátoraiban, ahol finom vacsora várja.",
+        "ro": "A explora Gentul pe bicicletă este o încântare. Începeți de la fotogenicul Pod Sf. Mihail, apoi pedalați spre medievalul Gravensteen. Bucurați-vă de o pauză de prânz în vibranta Vrijdagmarkt înainte de a experimenta atmosfera spirituală a Catedralei Sf. Bavo. După-amiaza, mergeți prin Parcul Citadel spre muzeele de artă MSK și SMAK. Încheiați turul pe aleile fermecătoare din Patershol, unde vă așteaptă o cină delicioasă.",
+        "en": "Exploring Ghent by bike is a delight. Start at the photogenic St. Michael's Bridge, then pedal to the medieval Gravensteen. Enjoy a lunch break in the bustling Vrijdagmarkt before experiencing the spiritual atmosphere of St. Bavo's Cathedral. In the afternoon, ride through the Citadelpark to the art museums, MSK and SMAK. Finish your tour in the charming alleys of Patershol, where a delicious dinner awaits."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frites Atelier",
+            "tip": "Gourmet-Pommes frites mit einer Vielzahl von Saucen."
+          },
+          {
+            "name": "Gentse Gruut",
+            "tip": "Ein lokales Bier, das mit Kräutern anstelle von Hopfen gebraut wird. Besuchen Sie die Brauerei."
+          },
+          {
+            "name": "Pakhuis",
+            "tip": "Ein atemberaubendes Brasserie-Restaurant in einem umgebauten Lagerhaus."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Frites Atelier",
+            "tip": "Gourmet sült krumpli különféle szószokkal."
+          },
+          {
+            "name": "Gentse Gruut",
+            "tip": "Helyi sör, amelyet komló helyett fűszerekkel főznek. Látogasson el a sörfőzdébe."
+          },
+          {
+            "name": "Pakhuis",
+            "tip": "Lenyűgöző brasserie egy átalakított raktárépületben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Frites Atelier",
+            "tip": "Cartofi prăjiți gourmet cu o varietate de sosuri."
+          },
+          {
+            "name": "Gentse Gruut",
+            "tip": "O bere locală produsă cu ierburi în loc de hamei. Vizitați fabrica de bere."
+          },
+          {
+            "name": "Pakhuis",
+            "tip": "O brasierie uimitoare într-un depozit transformat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Frites Atelier",
+            "tip": "Gourmet fries with a variety of sauces."
+          },
+          {
+            "name": "Gentse Gruut",
+            "tip": "A local beer brewed with herbs instead of hops. Visit the brewery."
+          },
+          {
+            "name": "Pakhuis",
+            "tip": "A stunning brasserie-style restaurant in a converted warehouse."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Citadelpark",
+            "tip": "Ein großer, ruhiger Park, ideal für eine Radpause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Beginenhof St. Elisabeth",
+            "tip": "Ein ruhiger, historischer Ort, der zum UNESCO-Weltkulturerbe gehört.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Entlang der Leie radeln",
+            "tip": "Fahren Sie stadtauswärts entlang des Flusses für eine friedliche Landschaftsfahrt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Citadelpark",
+            "tip": "Nagy, csendes park, ideális egy biciklis pihenőre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent Erzsébet beginaház",
+            "tip": "Csendes, történelmi helyszín, az UNESCO Világörökség része.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Biciklizés a Leie mentén",
+            "tip": "Tekerjen ki a városból a folyó mentén egy békés, festői útvonalon.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Citadel",
+            "tip": "Un parc mare și liniștit, perfect pentru o pauză de la pedalat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Beguinage Sf. Elisabeta",
+            "tip": "Un sit istoric liniștit, inclus în patrimoniul mondial UNESCO.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pedalând de-a lungul râului Leie",
+            "tip": "Ieșiți din oraș pe malul râului pentru o plimbare pitorească și liniștită.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Citadelpark",
+            "tip": "A large, quiet park, perfect for a cycling break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. Elisabeth Beguinage",
+            "tip": "A tranquil, historic site and a UNESCO World Heritage site.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cycling along the Leie river",
+            "tip": "Head out of the city along the river for a peaceful, scenic ride.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradläden",
+            "tip": "Gent hat viele ausgezeichnete Fahrradläden für Zubehör oder Reparaturen."
+          },
+          {
+            "name": "Oudburg",
+            "tip": "Eine Straße im Patershol mit unabhängigen Boutiquen und Designerläden."
+          },
+          {
+            "name": "Blumenmarkt Kouter",
+            "tip": "Ein wunderschöner Blumenmarkt, der sonntags stattfindet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Gentben számos kiváló kerékpárbolt található kiegészítőkért vagy javításokért."
+          },
+          {
+            "name": "Oudburg",
+            "tip": "A Patershol egyik utcája független butikokkal és dizájnerboltokkal."
+          },
+          {
+            "name": "Kouter virágpiac",
+            "tip": "Gyönyörű virágpiac, amelyet vasárnaponként tartanak."
+          },
+          {
+            "name": "Târgul de flori Kouter",
+            "tip": "O piață de flori frumoasă care are loc duminica."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Gent are multe magazine excelente de biciclete pentru accesorii sau reparații."
+          },
+          {
+            "name": "Oudburg",
+            "tip": "O stradă din Patershol, cu buticuri independente și magazine de designer."
+          },
+          {
+            "name": "Târgul de flori Kouter",
+            "tip": "O piață de flori frumoasă care are loc duminica."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "Ghent has many excellent bike shops for accessories or repairs."
+          },
+          {
+            "name": "Oudburg",
+            "tip": "A street in Patershol with independent boutiques and designer stores."
+          },
+          {
+            "name": "Kouter Flower Market",
+            "tip": "A beautiful flower market held on Sundays."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad von De Fietsambassade an mehreren Stellen in der Stadt.",
+          "Achten Sie auf die Straßenbahnschienen, besonders bei Nässe.",
+          "Nutzen Sie die gut ausgebauten Radwege, um sich sicher fortzubewegen.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, auch für kurze Stopps."
+        ],
+        "hu": [
+          "Béreljen kerékpárt a De Fietsambassade-tól a város több pontján.",
+          "Vigyázzon a villamossínekre, különösen nedves időben.",
+          "Használja a jól kiépített kerékpárutakat a biztonságos közlekedéshez.",
+          "Mindig zárja le jól a kerékpárját, még rövid megállók esetén is."
+        ],
+        "ro": [
+          "Închiriați o bicicletă de la De Fietsambassade în mai multe locații din oraș.",
+          "Fiți atenți la șinele de tramvai, mai ales când sunt ude.",
+          "Folosiți pistele de biciclete bine dezvoltate pentru a vă deplasa în siguranță.",
+          "Legați-vă întotdeauna bine bicicleta, chiar și pentru opriri scurte."
+        ],
+        "en": [
+          "Rent a bike from De Fietsambassade at several points in the city.",
+          "Watch out for tram tracks, especially when they are wet.",
+          "Use the well-developed cycle paths to get around safely.",
+          "Always lock your bike securely, even for short stops."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkhaus Vrijdagmarkt",
+            "hu": "Vrijdagmarkt parkolóház",
+            "ro": "Parcarea Vrijdagmarkt",
+            "en": "Vrijdagmarkt Parking Garage"
+          },
+          "coords": [
+            3.7275,
+            51.0575
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein zentraler Ausgangspunkt. Parken Sie hier für den Vormittag.",
+            "hu": "Központi kiindulópont. Parkoljon itt a délelőttre.",
+            "ro": "Un punct de plecare central. Parcați aici pentru dimineață.",
+            "en": "A central starting point. Park here for the morning cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Vrijdagmarkt",
+            "hu": "Vrijdagmarkt (Pénteki piac)",
+            "ro": "Piața Vrijdagmarkt",
+            "en": "Vrijdagmarkt (Friday Market)"
+          },
+          "coords": [
+            3.7265,
+            51.057
+          ],
+          "category": "market",
+          "arrive_at": "09:05",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einem Kaffee in einem der vielen Cafés rund um den Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér körüli számos kávézó egyikében.",
+            "ro": "Începeți ziua cu o cafea la una dintre multele cafenele din jurul pieței.",
+            "en": "Start your day with a coffee at one of the many cafes surrounding the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Gravensteen",
+            "hu": "Gravensteen (Grófok Vára)",
+            "ro": "Castelul Gravensteen",
+            "en": "Gravensteen (Castle of the Counts)"
+          },
+          "coords": [
+            3.7214,
+            51.0573
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:47",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Vrijdagmarkt. Planen Sie genügend Zeit für die Besichtigung ein.",
+            "hu": "Rövid séta a Vrijdagmarkt-tól. Szánjon elég időt a látogatásra.",
+            "ro": "O plimbare scurtă de la Vrijdagmarkt. Alocați suficient timp pentru vizită.",
+            "en": "A short walk from Vrijdagmarkt. Allow plenty of time to explore."
+          }
+        },
+        {
+          "name": {
+            "de": "Graslei und Korenlei",
+            "hu": "Graslei és Korenlei",
+            "ro": "Graslei și Korenlei",
+            "en": "Graslei and Korenlei"
+          },
+          "coords": [
+            3.7215,
+            51.0549
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:25",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der malerischste Teil von Gent. Perfekt für Fotos und zum Genießen der Atmosphäre.",
+            "hu": "Gent legfestőibb része. Tökéletes fotózáshoz és a hangulat élvezetéhez.",
+            "ro": "Cea mai pitorească parte a Gentului. Perfectă pentru fotografii și pentru a admira atmosfera.",
+            "en": "The most picturesque part of Ghent. Perfect for photos and soaking in the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkhaus Kouter",
+            "hu": "Kouter parkolóház",
+            "ro": "Parcarea Kouter",
+            "en": "Kouter Parking Garage"
+          },
+          "coords": [
+            3.7258,
+            51.0494
+          ],
+          "category": "transport",
+          "arrive_at": "12:30",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum nächsten Cluster. Parken Sie hier für den Nachmittag.",
+            "hu": "Vezessen a következő csoporthoz. Parkoljon itt a délutánra.",
+            "ro": "Conduceți spre următorul grup de atracții. Parcați aici pentru după-amiază.",
+            "en": "Drive to the next cluster. Park here for the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Sint-Baafskathedraal",
+            "hu": "Szent Bávó-katedrális",
+            "ro": "Catedrala Sfântul Bavo",
+            "en": "St. Bavo's Cathedral"
+          },
+          "coords": [
+            3.7236,
+            51.0531
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:41",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Vom Parkhaus Kouter aus leicht zu Fuß erreichbar. Buchen Sie Tickets für den Genter Altar online.",
+            "hu": "Könnyen megközelíthető gyalog a Kouter parkolóházból. Foglaljon jegyet online a Genti oltárhoz.",
+            "ro": "Ușor accesibil pe jos de la parcarea Kouter. Rezervați bilete online pentru Altarul din Gent.",
+            "en": "An easy walk from Kouter parking. Book tickets for the Ghent Altarpiece online."
+          }
+        },
+        {
+          "name": {
+            "de": "MSK (Museum der Schönen Künste)",
+            "hu": "MSK (Szépművészeti Múzeum)",
+            "ro": "MSK (Muzeul de Arte Frumoase)",
+            "en": "MSK (Museum of Fine Arts)"
+          },
+          "coords": [
+            3.7198,
+            51.0375
+          ],
+          "category": "museums",
+          "arrive_at": "14:46",
+          "stay_min": 150,
+          "hop_mode": "car",
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Museumsviertel und parken Sie in der Nähe. Ein Nachmittag voller Kunst.",
+            "hu": "Vezessen a múzeumi negyedbe, és parkoljon a közelben. Egy művészettel teli délután.",
+            "ro": "Conduceți spre cartierul muzeelor și parcați în apropiere. O după-amiază plină de artă.",
+            "en": "Drive to the museum quarter and park nearby. An afternoon of art awaits."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie verschiedene Stadtteile Gents bequem erkunden. Beginnen Sie Ihren Tag im nördlichen Zentrum, parken Sie am Vrijdagmarkt und erkunden Sie zu Fuß das Gravensteen und die malerische Graslei. Am Nachmittag fahren Sie in den Süden, um die geistige Ruhe der Sint-Baafskathedraal zu erleben und anschließend in die beeindruckende Kunstsammlung des MSK einzutauchen. Diese Route kombiniert kurze Fahrten mit angenehmen Spaziergängen.",
+        "hu": "Az autó lehetővé teszi, hogy kényelmesen felfedezze Gent különböző részeit. Kezdje a napot az északi központban, parkoljon a Vrijdagmarktnál, és fedezze fel gyalog a Gravensteen várat és a festői Grasleit. Délután vezessen délre, hogy megtapasztalja a Szent Bávó-katedrális spirituális nyugalmát, majd merüljön el az MSK lenyűgöző művészeti gyűjteményében. Ez az útvonal rövid autóutakat kombinál kellemes sétákkal.",
+        "ro": "Cu mașina, puteți explora convenabil diferite cartiere din Gent. Începeți ziua în centrul de nord, parcând la Vrijdagmarkt și explorând pe jos Castelul Gravensteen și pitorescul Graslei. După-amiaza, conduceți spre sud pentru a experimenta liniștea spirituală a Catedralei Sf. Bavo, urmată de o imersiune în colecția de artă impresionantă a MSK. Acest traseu combină drumuri scurte cu plimbări plăcute.",
+        "en": "Using a car allows you to conveniently explore different districts of Ghent. Start your day in the northern center, parking at Vrijdagmarkt and exploring the Gravensteen castle and picturesque Graslei on foot. In the afternoon, drive south to experience the spiritual calm of St. Bavo's Cathedral, followed by an immersion in the impressive art collection at the MSK. This route combines short drives with pleasant walks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gentse Stoverij",
+            "tip": "Ein reichhaltiger Rindfleischeintopf, der in Bier gekocht wird. Suchen Sie nach Restaurants, die es traditionell zubereiten."
+          },
+          {
+            "name": "Mattentaart",
+            "tip": "Ein kleines Käsekuchengebäck aus der Region. Perfekt für einen süßen Snack."
+          },
+          {
+            "name": "De Superette",
+            "tip": "Eine trendige Bäckerei und ein Restaurant des berühmten Küchenchefs Kobe Desramaults, etwas außerhalb des Zentrums."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gentse Stoverij",
+            "tip": "Gazdag marharagu sörben főzve. Keressen olyan éttermeket, amelyek hagyományosan készítik."
+          },
+          {
+            "name": "Mattentaart",
+            "tip": "A régióból származó kis, túrós sütemény. Tökéletes édes uzsonnára."
+          },
+          {
+            "name": "De Superette",
+            "tip": "A híres séf, Kobe Desramaults trendi péksége és étterme, kissé a központon kívül."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gentse Stoverij",
+            "tip": "O tocană bogată de vită gătită în bere. Căutați restaurante care o prepară în mod tradițional."
+          },
+          {
+            "name": "Mattentaart",
+            "tip": "O mică plăcintă cu brânză, specifică regiunii. Perfectă pentru o gustare dulce."
+          },
+          {
+            "name": "De Superette",
+            "tip": "O brutărie și un restaurant la modă, deținut de renumitul bucătar Kobe Desramaults, puțin în afara centrului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gentse Stoverij",
+            "tip": "A rich beef stew cooked in beer. Look for restaurants that prepare it traditionally."
+          },
+          {
+            "name": "Mattentaart",
+            "tip": "A small cheesecake pastry, local to the region. Perfect for a sweet snack."
+          },
+          {
+            "name": "De Superette",
+            "tip": "A trendy bakery and restaurant by famous chef Kobe Desramaults, slightly outside the center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sint-Pietersabdij Weinberg",
+            "tip": "Ein überraschend ruhiger Weinberg hinter der Abtei. Ideal für eine Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bourgoyen-Ossemeersen",
+            "tip": "Ein großes Naturschutzgebiet am Rande der Stadt, perfekt für einen kurzen Spaziergang in der Natur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussicht vom Gravensteen",
+            "tip": "Oben auf der Burg ist es oft ruhiger und bietet eine tolle Aussicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Péter-apátság szőlőskertje",
+            "tip": "Meglepően csendes szőlőskert az apátság mögött. Ideális egy szünetre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bourgoyen-Ossemeersen",
+            "tip": "Nagy természetvédelmi terület a város szélén, tökéletes egy rövid természeti sétához.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a Gravensteenről",
+            "tip": "A vár tetején gyakran csendesebb, és nagyszerű kilátást nyújt.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via Abației Sf. Petru",
+            "tip": "O vie surprinzător de liniștită în spatele abației. Ideală pentru o pauză.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bourgoyen-Ossemeersen",
+            "tip": "O rezervație naturală mare la marginea orașului, perfectă pentru o scurtă plimbare în natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Priveliștea de la Gravensteen",
+            "tip": "În vârful castelului este adesea mai liniște și oferă priveliști minunate.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Peter's Abbey Vineyard",
+            "tip": "A surprisingly quiet vineyard behind the abbey. Ideal for a break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bourgoyen-Ossemeersen",
+            "tip": "A large nature reserve on the edge of the city, perfect for a short nature walk.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from Gravensteen",
+            "tip": "It's often quieter at the top of the castle, offering great views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Dok Noord",
+            "tip": "Ein Einkaufszentrum in einem renovierten Industriegebiet etwas außerhalb des Zentrums."
+          },
+          {
+            "name": "Serpentstraat & Onderbergen",
+            "tip": "Straßen, die für ihre gehobenen Boutiquen und Designerläden bekannt sind."
+          },
+          {
+            "name": "Produzentenmärkte",
+            "tip": "Suchen Sie nach lokalen Märkten für frische Produkte und handwerkliche Waren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dok Noord",
+            "tip": "Bevásárlóközpont egy felújított ipari területen, kissé a központon kívül."
+          },
+          {
+            "name": "Serpentstraat és Onderbergen",
+            "tip": "Utcák, amelyek a felsőkategóriás butikjaikról és dizájnerboltjaikról ismertek."
+          },
+          {
+            "name": "Termelői piacok",
+            "tip": "Keressen helyi piacokat friss termékekért és kézműves árukért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dok Noord",
+            "tip": "Un centru comercial într-o zonă industrială renovată, chiar în afara centrului."
+          },
+          {
+            "name": "Serpentstraat și Onderbergen",
+            "tip": "Străzi cunoscute pentru buticurile de lux și magazinele de designer."
+          },
+          {
+            "name": "Piețe de producători",
+            "tip": "Căutați piețe locale pentru produse proaspete și articole artizanale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dok Noord",
+            "tip": "A shopping center in a renovated industrial area just outside the center."
+          },
+          {
+            "name": "Serpentstraat & Onderbergen",
+            "tip": "Streets known for their upscale boutiques and designer stores."
+          },
+          {
+            "name": "Producer markets",
+            "tip": "Look for local markets for fresh produce and artisanal goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Park-and-Ride-Anlagen (P+R) am Stadtrand, um den Verkehr im Zentrum zu vermeiden.",
+          "Die Genter Innenstadt ist eine Umweltzone (LEZ). Überprüfen Sie, ob Ihr Fahrzeug die Anforderungen erfüllt.",
+          "Parkhäuser sind gut ausgeschildert, können aber teuer sein.",
+          "Planen Sie Ihre Fahrten zwischen den Clustern außerhalb der Hauptverkehrszeiten."
+        ],
+        "hu": [
+          "Használja a város szélén található Park and Ride (P+R) létesítményeket, hogy elkerülje a belvárosi forgalmat.",
+          "Gent belvárosa alacsony kibocsátású zóna (LEZ). Ellenőrizze, hogy járműve megfelel-e a követelményeknek.",
+          "A parkolóházak jól ki vannak táblázva, de drágák lehetnek.",
+          "Tervezze az utazásokat a klaszterek között a csúcsforgalmon kívüli időpontokra."
+        ],
+        "ro": [
+          "Folosiți facilitățile Park and Ride (P+R) de la periferia orașului pentru a evita traficul din centru.",
+          "Centrul orașului Gent este o zonă cu emisii scăzute (LEZ). Verificați dacă vehiculul dvs. îndeplinește cerințele.",
+          "Parcările supraetajate sunt bine semnalizate, dar pot fi costisitoare.",
+          "Planificați-vă deplasările între grupurile de atracții în afara orelor de vârf."
+        ],
+        "en": [
+          "Use the Park and Ride (P+R) facilities on the outskirts of the city to avoid city center traffic.",
+          "Ghent's city center is a Low Emission Zone (LEZ). Check if your vehicle meets the requirements.",
+          "Parking garages are well-signposted but can be expensive.",
+          "Plan your drives between clusters outside of peak traffic hours."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:58",
+      "total_km": 5.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Haltestelle Korenmarkt",
+            "hu": "Korenmarkt megálló",
+            "ro": "Stația Korenmarkt",
+            "en": "Korenmarkt Stop"
+          },
+          "coords": [
+            3.722,
+            51.0545
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein wichtiger Verkehrsknotenpunkt im Zentrum, ideal als Ausgangspunkt.",
+            "hu": "Fontos közlekedési csomópont a központban, ideális kiindulópont.",
+            "ro": "Un nod important de transport în centru, ideal ca punct de plecare.",
+            "en": "A major transit hub in the center, ideal for starting your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt-Nikolaus-Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "St. Nicholas' Church"
+          },
+          "coords": [
+            3.7225,
+            51.0541
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:03",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Gleich neben der Haltestelle. Ihr erster Blick auf Gents gotische Pracht.",
+            "hu": "Közvetlenül a megálló mellett. Az első pillantás Gent gótikus pompájára.",
+            "ro": "Chiar lângă stație. Prima dvs. privire asupra splendorii gotice a Gentului.",
+            "en": "Right next to the stop. Your first look at Ghent's Gothic splendor."
+          }
+        },
+        {
+          "name": {
+            "de": "Genter Belfried",
+            "hu": "Genti harangtorony",
+            "ro": "Beffroi-ul din Gent",
+            "en": "Belfry of Ghent"
+          },
+          "coords": [
+            3.7249,
+            51.053
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:48",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besteigen Sie den Turm für eine Vogelperspektive auf Ihr nächstes Ziel.",
+            "hu": "Mássza meg a tornyot, hogy madártávlatból láthassa a következő célpontját.",
+            "ro": "Urcați în turn pentru o vedere panoramică asupra următoarei destinații.",
+            "en": "Climb the tower for a bird's-eye view of your next destination."
+          }
+        },
+        {
+          "name": {
+            "de": "Sint-Baafskathedraal",
+            "hu": "Szent Bávó-katedrális",
+            "ro": "Catedrala Sfântul Bavo",
+            "en": "St. Bavo's Cathedral"
+          },
+          "coords": [
+            3.7236,
+            51.0531
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:52",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das spirituelle Herz von Gent. Verpassen Sie nicht den weltberühmten Altar.",
+            "hu": "Gent spirituális szíve. Ne hagyja ki a világhírű oltárt.",
+            "ro": "Inima spirituală a Gentului. Nu ratați altarul de renume mondial.",
+            "en": "The spiritual heart of Ghent. Don't miss the world-famous altarpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle Gravensteen",
+            "hu": "Gravensteen megálló",
+            "ro": "Stația Gravensteen",
+            "en": "Gravensteen Stop"
+          },
+          "coords": [
+            3.72,
+            51.057
+          ],
+          "category": "transport",
+          "arrive_at": "12:15",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie die Straßenbahn für eine kurze Fahrt zum nächsten historischen Cluster.",
+            "hu": "Menjen villamossal egy rövid utat a következő történelmi csoporthoz.",
+            "ro": "Luați tramvaiul pentru o scurtă călătorie spre următorul grup istoric.",
+            "en": "Take the tram for a short ride to the next historical cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Gravensteen",
+            "hu": "Gravensteen (Grófok Vára)",
+            "ro": "Castelul Gravensteen",
+            "en": "Gravensteen (Castle of the Counts)"
+          },
+          "coords": [
+            3.7214,
+            51.0573
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:18",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Direkt an der Haltestelle. Bereiten Sie sich auf eine Reise in die Vergangenheit vor.",
+            "hu": "Közvetlenül a megálló mellett. Készüljön fel egy utazásra a múltba.",
+            "ro": "Chiar lângă stație. Pregătiți-vă pentru o călătorie înapoi în timp.",
+            "en": "Right by the stop. Prepare for a journey back in time."
+          }
+        },
+        {
+          "name": {
+            "de": "MSK (Museum der Schönen Künste)",
+            "hu": "MSK (Szépművészeti Múzeum)",
+            "ro": "MSK (Muzeul de Arte Frumoase)",
+            "en": "MSK (Museum of Fine Arts)"
+          },
+          "coords": [
+            3.7198,
+            51.0375
+          ],
+          "category": "museums",
+          "arrive_at": "14:02",
+          "stay_min": 180,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie die Straßenbahnlinie 1 in Richtung Süden zum Museumsviertel im Citadelpark.",
+            "hu": "Menjen az 1-es villamossal dél felé a múzeumi negyedbe a Citadelparkban.",
+            "ro": "Luați tramvaiul 1 spre sud, spre cartierul muzeelor din Parcul Citadel.",
+            "en": "Take tram line 1 south to the museum district in Citadelpark."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das effiziente Straßenbahnnetz von Gent, um die Highlights zu entdecken. Beginnen Sie im Herzen der Stadt am Korenmarkt, wo Sie die wichtigsten Kirchen und den Belfried zu Fuß erkunden können. Eine kurze Straßenbahnfahrt bringt Sie dann zur imposanten Burg Gravensteen. Am Nachmittag bringt Sie eine weitere Straßenbahnfahrt in den ruhigen Citadelpark, wo Sie in die Welt der Kunst im MSK eintauchen können. Es ist eine perfekte Mischung aus Spaziergängen und entspannten Fahrten.",
+        "hu": "Használja Gent hatékony villamoshálózatát a legfontosabb látnivalók felfedezéséhez. Kezdjen a város szívében, a Korenmarktnál, ahonnan gyalogosan felfedezheti a fő templomokat és a harangtornyot. Egy rövid villamosút elviszi a lenyűgöző Gravensteen várhoz. Délután egy másik villamosjárattal a csendes Citadelparkba juthat, ahol elmerülhet az MSK művészeti világában. Ez a séta és a pihentető utazás tökéletes keveréke.",
+        "ro": "Folosiți rețeaua eficientă de tramvaie din Gent pentru a descoperi punctele de atracție. Începeți în inima orașului la Korenmarkt, unde puteți explora pe jos principalele biserici și Beffroi. O scurtă călătorie cu tramvaiul vă va duce apoi la impunătorul castel Gravensteen. După-amiaza, o altă călătorie cu tramvaiul vă va duce în liniștitul Parc Citadel, unde vă puteți cufunda în lumea artei la MSK. Este o combinație perfectă de plimbări și călătorii relaxante.",
+        "en": "Use Ghent's efficient tram network to discover the highlights. Start in the heart of the city at Korenmarkt, where you can explore the main churches and the Belfry on foot. A short tram ride then takes you to the imposing Gravensteen castle. In the afternoon, another tram journey will bring you to the tranquil Citadelpark, where you can immerse yourself in the world of art at the MSK. It's a perfect blend of walking and relaxed rides."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bier an der Leie",
+            "tip": "Genießen Sie ein lokales 'Gentse Tripel' in einer der Bars entlang des Flusses."
+          },
+          {
+            "name": "Waffeln",
+            "tip": "Probieren Sie eine Brüsseler Waffel (leicht und knusprig) von einem Straßenverkäufer."
+          },
+          {
+            "name": "Mémé Gusta",
+            "tip": "Ein beliebtes Restaurant in der Nähe des Gravensteen, das flämische Klassiker serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sör a Leie partján",
+            "tip": "Élvezzen egy helyi 'Gentse Tripel' sört a folyó menti bárok egyikében."
+          },
+          {
+            "name": "Gofri",
+            "tip": "Kóstoljon meg egy brüsszeli gofrit (könnyű és ropogós) egy utcai árustól."
+          },
+          {
+            "name": "Mémé Gusta",
+            "tip": "Népszerű étterem a Gravensteen közelében, amely flamand klasszikusokat szolgál fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bere pe malul râului Leie",
+            "tip": "Savurați o 'Gentse Tripel' locală la unul dintre barurile de pe malul râului."
+          },
+          {
+            "name": "Gofre",
+            "tip": "Încercați o gofră de Bruxelles (ușoară și crocantă) de la un vânzător ambulant."
+          },
+          {
+            "name": "Mémé Gusta",
+            "tip": "Un restaurant popular lângă Gravensteen, care servește preparate clasice flamande."
+          }
+        ],
+        "en": [
+          {
+            "name": "Beer by the Leie",
+            "tip": "Enjoy a local 'Gentse Tripel' at one of the bars along the river."
+          },
+          {
+            "name": "Waffles",
+            "tip": "Try a Brussels-style waffle (light and crispy) from a street vendor."
+          },
+          {
+            "name": "Mémé Gusta",
+            "tip": "A popular restaurant near Gravensteen serving Flemish classics."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Der Kräutergarten von St. Peter's Abbey",
+            "tip": "Ein ruhiger, duftender Garten, der mit der Straßenbahn erreichbar ist.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Blick von der St.-Michael-Brücke am Abend",
+            "tip": "Wenn die Lichter angehen und die Menschenmassen sich auflösen.",
+            "emoji": "🌃"
+          },
+          {
+            "name": "Zitadellenpark",
+            "tip": "Spazieren Sie nach Ihrem Museumsbesuch durch den Park.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Szent Péter-apátság fűszerkertje",
+            "tip": "Csendes, illatos kert, villamossal megközelíthető.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Kilátás a Szent Mihály-hídról este",
+            "tip": "Amikor a fények felgyúlnak és a tömeg oszladozik.",
+            "emoji": "🌃"
+          },
+          {
+            "name": "Citadelpark",
+            "tip": "Sétáljon a parkban a múzeumlátogatás után.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina de ierburi a Abației Sf. Petru",
+            "tip": "O grădină liniștită și parfumată, accesibilă cu tramvaiul.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Vedere de pe Podul Sf. Mihail seara",
+            "tip": "Când se aprind luminile și mulțimile se dispersează.",
+            "emoji": "🌃"
+          },
+          {
+            "name": "Parcul Citadel",
+            "tip": "Plimbați-vă prin parc după vizita la muzeu.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Peter's Abbey Herb Garden",
+            "tip": "A quiet, fragrant garden accessible by tram.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "View from St. Michael's Bridge at night",
+            "tip": "As the lights come on and the crowds disperse.",
+            "emoji": "🌃"
+          },
+          {
+            "name": "Citadelpark",
+            "tip": "Stroll through the park after your museum visit.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mageleinstraat",
+            "tip": "Eine charmante Straße mit einzigartigen Geschäften in der Nähe des Belfrieds."
+          },
+          {
+            "name": "Donkersteeg",
+            "tip": "Eine enge Gasse voller kleiner, unabhängiger Läden."
+          },
+          {
+            "name": "Souvenirläden rund um das Gravensteen",
+            "tip": "Hier finden Sie typische Souvenirs, darunter Drachen und Burgmodelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mageleinstraat",
+            "tip": "Bájos utca egyedi üzletekkel a harangtorony közelében."
+          },
+          {
+            "name": "Donkersteeg",
+            "tip": "Szűk sikátor tele kis, független boltokkal."
+          },
+          {
+            "name": "Ajándékboltok a Gravensteen körül",
+            "tip": "Itt tipikus ajándéktárgyakat talál, köztük sárkányokat és vármodelleket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mageleinstraat",
+            "tip": "O stradă fermecătoare cu magazine unice lângă Beffroi."
+          },
+          {
+            "name": "Donkersteeg",
+            "tip": "O alee îngustă plină de magazine mici, independente."
+          },
+          {
+            "name": "Magazine de suveniruri în jurul Gravensteen",
+            "tip": "Găsiți suveniruri tipice aici, inclusiv dragoni și modele de castel."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mageleinstraat",
+            "tip": "A charming street with unique shops near the Belfry."
+          },
+          {
+            "name": "Donkersteeg",
+            "tip": "A narrow alley filled with small, independent stores."
+          },
+          {
+            "name": "Souvenir shops around the Gravensteen",
+            "tip": "Find typical souvenirs here, including dragons and castle models."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte oder eine 10-Fahrten-Karte von De Lijn für das beste Preis-Leistungs-Verhältnis.",
+          "Validieren Sie Ihr Ticket jedes Mal, wenn Sie in eine Straßenbahn oder einen Bus einsteigen.",
+          "Die Straßenbahnen sind oft der schnellste Weg, um längere Strecken in der Stadt zurückzulegen.",
+          "Die Google Maps App bietet genaue Fahrpläne für den öffentlichen Nahverkehr in Echtzeit."
+        ],
+        "hu": [
+          "Vásároljon napijegyet vagy 10 utazásos kártyát a De Lijn-től a legjobb ár-érték arányért.",
+          "Érvényesítse a jegyét minden alkalommal, amikor felszáll egy villamosra vagy buszra.",
+          "A villamosok gyakran a leggyorsabb módja a hosszabb távolságok megtételének a városban.",
+          "A Google Maps alkalmazás pontos, valós idejű tömegközlekedési menetrendeket biztosít."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi sau o cartelă cu 10 călătorii de la De Lijn pentru cel mai bun raport calitate-preț.",
+          "Validați biletul de fiecare dată când urcați într-un tramvai sau autobuz.",
+          "Tramvaiele sunt adesea cel mai rapid mod de a parcurge distanțe mai lungi în oraș.",
+          "Aplicația Google Maps oferă orare precise și în timp real pentru transportul public."
+        ],
+        "en": [
+          "Buy a day pass or a 10-journey card from De Lijn for the best value.",
+          "Validate your ticket each time you board a tram or bus.",
+          "Trams are often the quickest way to cover longer distances in the city.",
+          "The Google Maps app provides accurate, real-time public transport schedules."
+        ]
+      }
+    }
+  }
+}

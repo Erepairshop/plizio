@@ -1,0 +1,1495 @@
+{
+  "city_id": "ukraine-mykolaiv-cities-v2",
+  "anchor": {
+    "name": "Mykolajiw",
+    "coords": [
+      31.9946,
+      46.975
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Soborna-Straße",
+            "hu": "Szoborna utca",
+            "ro": "Strada Soborna",
+            "en": "Soborna Street"
+          },
+          "coords": [
+            31.9948,
+            46.9751
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag hier mit einem Kaffee in einem der vielen Cafés.",
+            "hu": "Kezdje a napot egy kávéval az utca egyik hangulatos kávézójában.",
+            "ro": "Începeți ziua aici cu o cafea la una dintre numeroasele cafenele.",
+            "en": "Start your day here with a coffee from one of the many cafés."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale der Geburt der Heiligen Jungfrau Maria",
+            "hu": "Szűz Mária Születése Székesegyház",
+            "ro": "Catedrala Nașterea Sfintei Fecioare Maria",
+            "en": "Cathedral of the Nativity of the Blessed Virgin Mary"
+          },
+          "coords": [
+            31.9972,
+            46.9765
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckende Ikonostase und die ruhige Atmosphäre.",
+            "hu": "Figyelje meg a lenyűgöző ikonosztázt és élvezze a csendes légkört.",
+            "ro": "Observați iconostasul impresionant și atmosfera liniștită.",
+            "en": "Pay attention to the impressive iconostasis and the quiet atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Regionales Heimatmuseum Mykolajiw",
+            "hu": "Mikolajivi Helytörténeti Múzeum",
+            "ro": "Muzeul Regional de Istorie Locală din Mykolaiv",
+            "en": "Mykolaiv Regional Museum of Local Lore"
+          },
+          "coords": [
+            31.991,
+            46.9772
+          ],
+          "category": "museums",
+          "arrive_at": "11:21",
+          "stay_min": 90,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Die archäologische Sammlung mit skythischen Artefakten ist ein Muss.",
+            "hu": "A szkíta leleteket bemutató régészeti gyűjtemény kihagyhatatlan.",
+            "ro": "Colecția arheologică cu artefacte scitice este o necesitate.",
+            "en": "The archaeological collection with Scythian artifacts is a must-see."
+          }
+        },
+        {
+          "name": {
+            "de": "Admiralitätsgebäude",
+            "hu": "Admiralitás épülete",
+            "ro": "Clădirea Amiralității",
+            "en": "Admiralty Building"
+          },
+          "coords": [
+            31.9845,
+            46.978
+          ],
+          "category": "historical",
+          "arrive_at": "13:05",
+          "stay_min": 70,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein Symbol der Schiffbaugeschichte der Stadt. Ideal für Fotos.",
+            "hu": "A város hajóépítő történelmének szimbóluma. Ideális fotók készítéséhez.",
+            "ro": "Un simbol al istoriei construcțiilor navale a orașului. Ideal pentru fotografii.",
+            "en": "A symbol of the city's shipbuilding history. Great for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Schiffbau und Flotte",
+            "hu": "Hajógyártási és Flotta Múzeum",
+            "ro": "Muzeul Construcțiilor Navale și al Flotei",
+            "en": "Museum of Shipbuilding and Fleet"
+          },
+          "coords": [
+            31.9821,
+            46.9775
+          ],
+          "category": "museums",
+          "arrive_at": "14:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das einzige Museum dieser Art in der Ukraine. Planen Sie genügend Zeit ein.",
+            "hu": "Az egyetlen ilyen jellegű múzeum Ukrajnában. Szánjon rá elég időt.",
+            "ro": "Singurul muzeu de acest fel din Ucraina. Planificați suficient timp.",
+            "en": "The only museum of its kind in Ukraine. Plan enough time."
+          }
+        },
+        {
+          "name": {
+            "de": "Jachtclub Mykolajiw",
+            "hu": "Mikolajivi Jachtklub",
+            "ro": "Clubul de Iahting Mykolaiv",
+            "en": "Mykolaiv Yacht Club"
+          },
+          "coords": [
+            31.972,
+            46.974
+          ],
+          "category": "port",
+          "arrive_at": "16:17",
+          "stay_min": 60,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Perfekter Ort, um den Tag ausklingen zu lassen und den Sonnenuntergang zu beobachten.",
+            "hu": "Tökéletes hely a nap lezárására és a naplemente megtekintésére.",
+            "ro": "Locul perfect pentru a încheia ziua și a privi apusul.",
+            "en": "Perfect place to end the day and watch the sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang auf der lebhaften Soborna-Straße, dem Herzen von Mykolajiw. Am Vormittag erkunden Sie die spirituelle Seite der Stadt in der beeindruckenden Kathedrale und tauchen im Heimatmuseum in die antike Geschichte der Region ein. Der Nachmittag ist der maritimen Seele von Mykolajiw gewidmet. Besichtigen Sie das historische Admiralitätsgebäude und das einzigartige Museum für Schiffbau, das die Bedeutung der Stadt für die Flotte zeigt. Schließen Sie den Tag entspannt im Jachtclub ab, wo Sie die Boote im Licht der untergehenden Sonne beobachten und die frische Brise vom Fluss genießen können.",
+        "hu": "Kezdje a gyalogtúrát a nyüzsgő Szoborna utcán, Mikolajiv szívében. Délelőtt fedezze fel a város spirituális oldalát a lenyűgöző székesegyházban, majd merüljön el a régió ókori történelmében a Helytörténeti Múzeumban. A délután Mikolajiv tengeri lelkének van szentelve. Látogasson el a történelmi Admiralitás épületéhez és az egyedülálló Hajógyártási Múzeumhoz, amely bemutatja a város flottában betöltött szerepét. A napot pihenéssel zárja a Jachtklubban, ahol a lemenő nap fényében ringatózó hajókat nézheti, és élvezheti a folyó felől fújó friss szellőt.",
+        "ro": "Începeți turul pietonal pe animata stradă Soborna, inima orașului Mykolaiv. Dimineața, explorați latura spirituală a orașului la impresionanta catedrală și pătrundeți în istoria antică a regiunii la Muzeul de Istorie Locală. După-amiaza este dedicată sufletului maritim al Mykolaivului. Vizitați clădirea istorică a Amiralității și unicul Muzeu al Construcțiilor Navale, care arată importanța orașului pentru flotă. Încheiați ziua relaxându-vă la Clubul de Iahting, unde puteți privi bărcile în lumina apusului și vă puteți bucura de briza proaspătă a râului.",
+        "en": "Start your walking tour on the lively Soborna Street, the heart of Mykolaiv. In the morning, explore the spiritual side of the city at the impressive cathedral and delve into the region's ancient history at the Local Lore Museum. The afternoon is dedicated to Mykolaiv's maritime soul. Visit the historic Admiralty building and the unique Museum of Shipbuilding, showcasing the city's importance to the fleet. End the day relaxing at the Yacht Club, watching the boats in the light of the setting sun and enjoying the fresh breeze from the river."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Borschtsch",
+            "tip": "Probieren Sie die lokale Variante dieser berühmten Rote-Bete-Suppe."
+          },
+          {
+            "name": "Wareniki",
+            "tip": "Gefüllte Teigtaschen, oft mit Kartoffeln oder Käse, serviert mit saurer Sahne."
+          },
+          {
+            "name": "Frischer Fisch aus dem Südlichen Bug",
+            "tip": "Genießen Sie in einem Restaurant am Flussufer den Fang des Tages."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borscs",
+            "tip": "Kóstolja meg ennek a híres céklalevesnek a helyi változatát."
+          },
+          {
+            "name": "Vareniki",
+            "tip": "Töltött tésztabatyuk, gyakran krumplival vagy túróval, tejföllel tálalva."
+          },
+          {
+            "name": "Friss hal a Déli-Bug folyóból",
+            "tip": "Élvezze a nap fogását egy folyóparti étteremben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Borș",
+            "tip": "Încercați versiunea locală a acestei faimoase supe de sfeclă roșie."
+          },
+          {
+            "name": "Varenyky",
+            "tip": "Găluște umplute, adesea cu cartofi sau brânză, servite cu smântână."
+          },
+          {
+            "name": "Pește proaspăt din Bugul de Sud",
+            "tip": "Savurați captura zilei la un restaurant de pe malul râului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Borscht",
+            "tip": "Try the local version of this famous beetroot soup."
+          },
+          {
+            "name": "Varenyky",
+            "tip": "Filled dumplings, often with potatoes or cheese, served with sour cream."
+          },
+          {
+            "name": "Fresh fish from the Southern Bug",
+            "tip": "Enjoy the catch of the day at a riverside restaurant."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Uferpromenade am Jachtclub",
+            "tip": "Ein ruhiger Spaziergang am Abend, um die Lichter der Stadt auf dem Wasser zu sehen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Park Peremohy",
+            "tip": "Ein großer Park, ideal für eine Pause im Grünen, etwas abseits der Route.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Innerer Hof der Kathedrale",
+            "tip": "Eine Oase der Ruhe mitten im Stadtzentrum.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sétány a Jachtklubnál",
+            "tip": "Egy csendes esti séta, hogy lássa a város fényeit a vízen tükröződni.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Peremohi Park",
+            "tip": "Nagy park, ideális egy zöld pihenőre, kicsit távolabb az útvonaltól.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A székesegyház belső udvara",
+            "tip": "A nyugalom szigete a városközpont közepén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada de la Clubul de Iahting",
+            "tip": "O plimbare liniștită de seară pentru a vedea luminile orașului pe apă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Peremohy",
+            "tip": "Un parc mare, ideal pentru o pauză în natură, puțin în afara traseului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea interioară a catedralei",
+            "tip": "O oază de liniște în mijlocul centrului orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Promenade at the Yacht Club",
+            "tip": "A quiet evening walk to see the city lights on the water.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Peremohy Park",
+            "tip": "A large park, ideal for a green break, slightly off the route.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Inner courtyard of the cathedral",
+            "tip": "An oasis of calm in the middle of the city center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Soborna-Straße",
+            "tip": "Die Haupt-Einkaufsstraße mit lokalen Boutiquen und bekannten Marken."
+          },
+          {
+            "name": "Zentralmarkt",
+            "tip": "Erleben Sie das lokale Leben und finden Sie frische Produkte und traditionelle Waren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szoborna utca",
+            "tip": "A fő bevásárlóutca helyi butikokkal és ismert márkákkal."
+          },
+          {
+            "name": "Központi Piac",
+            "tip": "Tapasztalja meg a helyi életet, és találjon friss termékeket és hagyományos árukat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Soborna",
+            "tip": "Principala stradă comercială cu buticuri locale și mărci cunoscute."
+          },
+          {
+            "name": "Piața Centrală",
+            "tip": "Experimentați viața locală și găsiți produse proaspete și bunuri tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Soborna Street",
+            "tip": "The main shopping street with local boutiques and well-known brands."
+          },
+          {
+            "name": "Central Market",
+            "tip": "Experience local life and find fresh produce and traditional goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit.",
+          "Die meisten Museen sind montags geschlossen, planen Sie entsprechend.",
+          "Halten Sie immer etwas Bargeld für kleine Einkäufe oder Trinkgelder bereit."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakő egyenetlen lehet az óvárosban.",
+          "Hozzon magával újratölthető vizes palackot.",
+          "A legtöbb múzeum hétfőn zárva tart, tervezzen ennek megfelelően.",
+          "Mindig legyen Önnél készpénz kisebb vásárlásokhoz vagy borravalóhoz."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din centrul vechi poate fi denivelat.",
+          "Luați cu dumneavoastră o sticlă de apă reutilizabilă.",
+          "Majoritatea muzeelor sunt închise lunea, planificați în consecință.",
+          "Aveți întotdeauna niște numerar pentru cumpărături mici sau bacșișuri."
+        ],
+        "en": [
+          "Wear comfortable shoes, as the cobblestones in the old town can be uneven.",
+          "Bring a reusable water bottle with you.",
+          "Most museums are closed on Mondays, so plan accordingly.",
+          "Always have some cash on hand for small purchases or tips."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Soborna-Straße",
+            "hu": "Szoborna utca",
+            "ro": "Strada Soborna",
+            "en": "Soborna Street"
+          },
+          "coords": [
+            31.9948,
+            46.9751
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, während Sie die Fußgängerzone erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárját, amíg felfedezi a sétálóutcát.",
+            "ro": "Asigurați-vă bicicleta în timp ce explorați zona pietonală.",
+            "en": "Lock your bike securely while exploring the pedestrian area."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale der Geburt der Heiligen Jungfrau Maria",
+            "hu": "Szűz Mária Születése Székesegyház",
+            "ro": "Catedrala Nașterea Sfintei Fecioare Maria",
+            "en": "Cathedral of the Nativity of the Blessed Virgin Mary"
+          },
+          "coords": [
+            31.9972,
+            46.9765
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:43",
+          "stay_min": 50,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die kurze Fahrt durch die ruhigen Straßen zum Dom.",
+            "hu": "Élvezze a rövid utat a csendes utcákon a székesegyházhoz.",
+            "ro": "Bucurați-vă de scurta plimbare pe străzile liniștite spre catedrală.",
+            "en": "Enjoy the short ride through the quiet streets to the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Admiralitätsgebäude",
+            "hu": "Admiralitás épülete",
+            "ro": "Clădirea Amiralității",
+            "en": "Admiralty Building"
+          },
+          "coords": [
+            31.9845,
+            46.978
+          ],
+          "category": "historical",
+          "arrive_at": "10:42",
+          "stay_min": 45,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Eine angenehme Radtour entlang des Flusses führt Sie zu diesem Wahrzeichen.",
+            "hu": "Egy kellemes folyóparti biciklizés elvezeti ehhez a nevezetességhez.",
+            "ro": "O plimbare plăcută cu bicicleta de-a lungul râului vă va duce la acest reper.",
+            "en": "A pleasant bike ride along the river will lead you to this landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Schiffbau und Flotte",
+            "hu": "Hajógyártási és Flotta Múzeum",
+            "ro": "Muzeul Construcțiilor Navale și al Flotei",
+            "en": "Museum of Shipbuilding and Fleet"
+          },
+          "coords": [
+            31.9821,
+            46.9775
+          ],
+          "category": "museums",
+          "arrive_at": "11:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Es gibt Fahrradständer in der Nähe des Eingangs.",
+            "hu": "A bejárat közelében kerékpártárolók találhatók.",
+            "ro": "Există suporturi pentru biciclete lângă intrare.",
+            "en": "There are bike racks near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Jachtclub Mykolajiw",
+            "hu": "Mikolajivi Jachtklub",
+            "ro": "Clubul de Iahting Mykolaiv",
+            "en": "Mykolaiv Yacht Club"
+          },
+          "coords": [
+            31.972,
+            46.974
+          ],
+          "category": "port",
+          "arrive_at": "13:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für eine Mittagspause mit Blick auf den Fluss.",
+            "hu": "Nagyszerű hely egy ebédszünetre a folyóra néző kilátással.",
+            "ro": "Un loc minunat pentru o pauză de prânz cu vedere la râu.",
+            "en": "A great spot for a lunch break with a view of the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Warwariwskyj-Brücke",
+            "hu": "Varvarivszkij híd",
+            "ro": "Podul Varvarivskyi",
+            "en": "Varvarivskyi Bridge"
+          },
+          "coords": [
+            31.96,
+            46.95
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:58",
+          "stay_min": 30,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3,
+          "tip_5lang": {
+            "de": "Fahren Sie auf dem Radweg, um die einzigartige Klappbrückenkonstruktion zu bewundern.",
+            "hu": "Haladjon a kerékpárúton, hogy megcsodálhassa az egyedülálló felnyitható hídszerkezetet.",
+            "ro": "Mergeți pe pista de biciclete pentru a admira construcția unică a podului basculant.",
+            "en": "Ride on the bike path to admire the unique drawbridge construction."
+          }
+        },
+        {
+          "name": {
+            "de": "Mykolajiw Zoo",
+            "hu": "Mikolajivi Állatkert",
+            "ro": "Grădina Zoologică din Mykolaiv",
+            "en": "Mykolaiv Zoo"
+          },
+          "coords": [
+            32.005,
+            46.965
+          ],
+          "category": "animal-habitat",
+          "arrive_at": "15:55",
+          "stay_min": 105,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Der Zoo ist weitläufig; planen Sie Ihre Route im Voraus, um Ihre Lieblingstiere zu sehen.",
+            "hu": "Az állatkert hatalmas; tervezze meg előre az útvonalat, hogy láthassa kedvenc állatait.",
+            "ro": "Grădina zoologică este extinsă; planificați-vă traseul în avans pentru a vedea animalele preferate.",
+            "en": "The zoo is extensive; plan your route in advance to see your favorite animals."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad für eine dynamische Tour durch Mykolajiw. Beginnen Sie im Stadtzentrum auf der Soborna-Straße und radeln Sie zur historischen Kathedrale. Am Vormittag folgen Sie dem Flussufer, vorbei am Admiralitätsgebäude und dem Schiffbaumuseum, und spüren die maritime Brise. Machen Sie eine längere Pause im Jachtclub, ideal für ein Mittagessen am Wasser. Am Nachmittag wartet ein kleines Abenteuer: Überqueren Sie die beeindruckende Warwariwskyj-Brücke und beenden Sie Ihre Tour mit einem Besuch im berühmten Mykolajiw Zoo, einem der besten der Ukraine.",
+        "hu": "Pattanjon kerékpárra egy dinamikus mikolajivi túrához. Kezdjen a városközpontban a Szoborna utcán, majd tekerjen el a történelmi székesegyházhoz. Délelőtt kövesse a folyópartot az Admiralitás épülete és a Hajógyártási Múzeum mellett, érezve a tengeri szellőt. Tartson egy hosszabb ebédszünetet a Jachtklubban. Délután egy kis kaland vár: keljen át a lenyűgöző Varvarivszkij hídon, és zárja a túrát Ukrajna egyik legjobb állatkertjének, a Mikolajivi Állatkertnek a meglátogatásával.",
+        "ro": "Urcați-vă pe bicicletă pentru un tur dinamic al Mykolaivului. Începeți în centrul orașului pe strada Soborna și pedalați spre catedrala istorică. Dimineața, urmați malul râului, trecând pe lângă clădirea Amiralității și Muzeul Construcțiilor Navale, simțind briza maritimă. Faceți o pauză mai lungă la Clubul de Iahting, ideal pentru un prânz pe malul apei. După-amiaza, vă așteaptă o mică aventură: traversați impresionantul pod Varvarivskyi și încheiați turul cu o vizită la renumita Grădină Zoologică din Mykolaiv, una dintre cele mai bune din Ucraina.",
+        "en": "Get on your bike for a dynamic tour of Mykolaiv. Start in the city center on Soborna Street and cycle to the historic cathedral. In the morning, follow the riverbank past the Admiralty building and the Shipbuilding Museum, feeling the maritime breeze. Take a longer break at the Yacht Club, ideal for lunch by the water. In the afternoon, a small adventure awaits: cross the impressive Varvarivskyi Bridge and end your tour with a visit to the famous Mykolaiv Zoo, one of the best in Ukraine."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Okroschka",
+            "tip": "Eine erfrischende kalte Suppe, perfekt für einen warmen Tag nach dem Radfahren."
+          },
+          {
+            "name": "Kwas",
+            "tip": "Ein traditionelles fermentiertes Getränk, um Ihren Durst zu löschen."
+          },
+          {
+            "name": "Pampuschki",
+            "tip": "Knoblauchbrötchen, die oft zu Borschtsch serviert werden und neue Energie geben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Okroska",
+            "tip": "Frissítő hideg leves, tökéletes egy meleg napon a biciklizés után."
+          },
+          {
+            "name": "Kvasz",
+            "tip": "Hagyományos erjesztett ital a szomjoltáshoz."
+          },
+          {
+            "name": "Pampuski",
+            "tip": "Fokhagymás zsemle, amelyet gyakran borscshoz szolgálnak fel, és új energiát ad."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Okroshka",
+            "tip": "O supă rece răcoritoare, perfectă pentru o zi caldă după ciclism."
+          },
+          {
+            "name": "Cvas",
+            "tip": "O băutură tradițională fermentată pentru a vă potoli setea."
+          },
+          {
+            "name": "Pampushky",
+            "tip": "Chifle cu usturoi servite adesea cu borș, care vă vor reîncărca bateriile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Okroshka",
+            "tip": "A refreshing cold soup, perfect for a warm day after cycling."
+          },
+          {
+            "name": "Kvass",
+            "tip": "A traditional fermented drink to quench your thirst."
+          },
+          {
+            "name": "Pampushky",
+            "tip": "Garlic bread rolls often served with borscht, great for refueling."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Flussuferweg",
+            "tip": "Genießen Sie die ruhige Fahrt entlang des Südlichen Bug.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Botanischer Garten der Universität",
+            "tip": "Eine grüne Oase, etwas abseits der Hauptroute, perfekt für eine ruhige Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussicht von der Warwariwskyj-Brücke",
+            "tip": "Halten Sie an, um den Panoramablick auf den Fluss und die Stadt zu genießen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Folyóparti út",
+            "tip": "Élvezze a csendes utat a Déli-Bug mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egyetemi Botanikus Kert",
+            "tip": "Zöld oázis a fő útvonaltól távolabb, tökéletes egy csendes pihenőre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Varvarivszkij hídról",
+            "tip": "Álljon meg, hogy élvezze a panorámás kilátást a folyóra és a városra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Potecă pe malul râului",
+            "tip": "Bucurați-vă de plimbarea liniștită de-a lungul Bugului de Sud.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Botanică a Universității",
+            "tip": "O oază de verdeață, puțin în afara traseului principal, perfectă pentru o pauză liniștită.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de pe Podul Varvarivskyi",
+            "tip": "Opriți-vă pentru a admira panorama râului și a orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Riverbank path",
+            "tip": "Enjoy the quiet ride along the Southern Bug.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "University Botanical Garden",
+            "tip": "A green oasis, slightly off the main route, perfect for a quiet break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from Varvarivskyi Bridge",
+            "tip": "Stop to enjoy the panoramic view of the river and the city.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Kunstgalerien",
+            "tip": "Finden Sie einzigartige Gemälde oder Skulpturen von Mykolajiwer Künstlern."
+          },
+          {
+            "name": "Ukrainische bestickte Hemden (Wyschywanka)",
+            "tip": "Ein wunderschönes und authentisches Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi művészeti galériák",
+            "tip": "Találjon egyedi festményeket vagy szobrokat mikolajivi művészektől."
+          },
+          {
+            "name": "Ukrán hímzett ing (Vysivanka)",
+            "tip": "Gyönyörű és autentikus szuvenír."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galerii de artă locale",
+            "tip": "Găsiți picturi sau sculpturi unice de la artiștii din Mykolaiv."
+          },
+          {
+            "name": "Cămăși brodate ucrainene (Vyshyvanka)",
+            "tip": "Un suvenir frumos și autentic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Art Galleries",
+            "tip": "Find unique paintings or sculptures by Mykolaiv artists."
+          },
+          {
+            "name": "Ukrainian embroidered shirts (Vyshyvanka)",
+            "tip": "A beautiful and authentic souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck vor der Abfahrt.",
+          "In Mykolajiw gibt es einige Hügel, seien Sie also auf Steigungen vorbereitet.",
+          "Ein Helm wird dringend empfohlen.",
+          "Nutzen Sie Fahrradwege, wo immer sie verfügbar sind."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Mikolajivben van néhány emelkedő, készüljön fel rájuk.",
+          "Sisak viselése erősen ajánlott.",
+          "Használja a kerékpárutakat, ahol csak elérhetők."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de a pleca.",
+          "Mykolaiv are câteva dealuri, așa că fiți pregătiți pentru urcări.",
+          "O cască este foarte recomandată.",
+          "Folosiți pistele de biciclete oriunde sunt disponibile."
+        ],
+        "en": [
+          "Check your tire pressure before you leave.",
+          "Mykolaiv has some hills, so be prepared for climbs.",
+          "A helmet is highly recommended.",
+          "Use bike lanes wherever they are available."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 19.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Mykolajiw Zoo",
+            "hu": "Mikolajivi Állatkert",
+            "ro": "Grădina Zoologică din Mykolaiv",
+            "en": "Mykolaiv Zoo"
+          },
+          "coords": [
+            32.005,
+            46.965
+          ],
+          "category": "animal-habitat",
+          "arrive_at": "09:10",
+          "stay_min": 150,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie früh los, um einen guten Parkplatz zu finden und die morgendliche Tieraktivität zu erleben.",
+            "hu": "Érkezzen korán, hogy jó parkolóhelyet találjon és láthassa a reggel aktív állatokat.",
+            "ro": "Veniți devreme pentru a găsi un loc bun de parcare și pentru a experimenta activitatea animalelor de dimineață.",
+            "en": "Arrive early to find a good parking spot and experience the morning animal activity."
+          }
+        },
+        {
+          "name": {
+            "de": "Warwariwskyj-Brücke",
+            "hu": "Varvarivszkij híd",
+            "ro": "Podul Varvarivskyi",
+            "en": "Varvarivskyi Bridge"
+          },
+          "coords": [
+            31.96,
+            46.95
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:51",
+          "stay_min": 25,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie auf der einen Seite und gehen Sie ein Stück zu Fuß, um die Aussicht zu genießen.",
+            "hu": "Parkoljon le az egyik oldalon, és sétáljon egy kicsit, hogy élvezze a kilátást.",
+            "ro": "Parcați pe o parte și mergeți pe jos pentru a vă bucura de priveliște.",
+            "en": "Park on one side and walk a bit to enjoy the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Soborna-Straße & Mittagessen",
+            "hu": "Szoborna utca és ebéd",
+            "ro": "Strada Soborna și prânz",
+            "en": "Soborna Street & Lunch"
+          },
+          "coords": [
+            31.9948,
+            46.9751
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 9,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Suchen Sie einen Parkplatz in einer Nebenstraße und erkunden Sie das Zentrum zu Fuß.",
+            "hu": "Keressen parkolóhelyet egy mellékutcában, és fedezze fel a központot gyalog.",
+            "ro": "Găsiți un loc de parcare pe o stradă lăturalnică și explorați centrul pe jos.",
+            "en": "Find a parking spot on a side street and explore the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale der Geburt der Heiligen Jungfrau Maria",
+            "hu": "Szűz Mária Születése Székesegyház",
+            "ro": "Catedrala Nașterea Sfintei Fecioare Maria",
+            "en": "Cathedral of the Nativity of the Blessed Virgin Mary"
+          },
+          "coords": [
+            31.9972,
+            46.9765
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:11",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz.",
+            "hu": "Rövid séta a főtérről.",
+            "ro": "O scurtă plimbare din piața principală.",
+            "en": "A short walk from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Admiralitätsgebäude",
+            "hu": "Admiralitás épülete",
+            "ro": "Clădirea Amiralității",
+            "en": "Admiralty Building"
+          },
+          "coords": [
+            31.9845,
+            46.978
+          ],
+          "category": "historical",
+          "arrive_at": "15:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Folgen Sie der Uferpromenade für einen schönen Spaziergang.",
+            "hu": "Kövesse a folyóparti sétányt egy kellemes sétához.",
+            "ro": "Urmați promenada de pe malul apei pentru o plimbare frumoasă.",
+            "en": "Follow the waterfront promenade for a beautiful walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Schiffbau und Flotte",
+            "hu": "Hajógyártási és Flotta Múzeum",
+            "ro": "Muzeul Construcțiilor Navale și al Flotei",
+            "en": "Museum of Shipbuilding and Fleet"
+          },
+          "coords": [
+            31.9821,
+            46.9775
+          ],
+          "category": "museums",
+          "arrive_at": "15:46",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum ist Teil desselben historischen Komplexes wie die Admiralität.",
+            "hu": "A múzeum ugyanahhoz a történelmi komplexumhoz tartozik, mint az Admiralitás.",
+            "ro": "Muzeul face parte din același complex istoric ca și Amiralitatea.",
+            "en": "The museum is part of the same historical complex as the Admiralty."
+          }
+        },
+        {
+          "name": {
+            "de": "Jachtclub Mykolajiw",
+            "hu": "Mikolajivi Jachtklub",
+            "ro": "Clubul de Iahting Mykolaiv",
+            "en": "Mykolaiv Yacht Club"
+          },
+          "coords": [
+            31.972,
+            46.974
+          ],
+          "category": "port",
+          "arrive_at": "17:05",
+          "stay_min": 55,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Abschluss des Tages hierher, um den Sonnenuntergang über dem Wasser zu genießen.",
+            "hu": "A nap végén vezessen ide, hogy élvezze a naplementét a víz felett.",
+            "ro": "Conduceți aici la sfârșitul zilei pentru a vă bucura de apusul peste apă.",
+            "en": "Drive here at the end of the day to enjoy the sunset over the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die Flexibilität des Autos, um Mykolajiws vielfältige Attraktionen zu erkunden. Beginnen Sie den Tag im berühmten Zoo, einem Highlight für die ganze Familie. Am Vormittag fahren Sie zur Warwariwskyj-Brücke für einen atemberaubenden Panoramablick. Parken Sie Ihr Auto im Stadtzentrum für den Mittag. Nach dem Mittagessen auf der Soborna-Straße erkunden Sie das historische Herz der Stadt zu Fuß: die Kathedrale, das Admiralitätsgebäude und das Schiffbaumuseum. Zum Abschluss des Tages fahren Sie zum Jachtclub, einem perfekten Ort, um sich zu entspannen und den Sonnenuntergang zu beobachten.",
+        "hu": "Használja ki az autó nyújtotta rugalmasságot Mikolajiv változatos látnivalóinak felfedezéséhez. Kezdje a napot a híres állatkertben, amely az egész család számára fénypont. Délelőtt vezessen el a Varvarivszkij hídhoz a lélegzetelállító panorámáért. Délben parkolja le az autót a városközpontban. A Szoborna utcán elfogyasztott ebéd után fedezze fel gyalog a város történelmi szívét: a székesegyházat, az Admiralitás épületét és a Hajógyártási Múzeumot. A nap végén vezessen el a Jachtklubhoz, amely tökéletes hely a pihenésre és a naplemente megcsodálására.",
+        "ro": "Folosiți flexibilitatea mașinii pentru a explora diversele atracții ale Mykolaivului. Începeți ziua la faimoasa grădină zoologică, un punct de atracție pentru întreaga familie. Dimineața, conduceți la podul Varvarivskyi pentru o panoramă uluitoare. Parcați mașina în centrul orașului la prânz. După prânzul pe strada Soborna, explorați inima istorică a orașului pe jos: catedrala, clădirea Amiralității și Muzeul Construcțiilor Navale. La sfârșitul zilei, conduceți la Clubul de Iahting, un loc perfect pentru a vă relaxa și a privi apusul.",
+        "en": "Use the flexibility of the car to explore Mykolaiv's diverse attractions. Start the day at the famous zoo, a highlight for the whole family. In the morning, drive to the Varvarivskyi Bridge for a breathtaking panoramic view. Park your car in the city center for lunch. After lunch on Soborna Street, explore the historic heart of the city on foot: the cathedral, the Admiralty building, and the Shipbuilding Museum. At the end of the day, drive to the Yacht Club, a perfect place to relax and watch the sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schaschlik",
+            "tip": "Gegrillte Fleischspieße, ein herzhaftes Gericht, das in vielen Restaurants erhältlich ist."
+          },
+          {
+            "name": "Salat Olivier",
+            "tip": "Ein klassischer ukrainischer Kartoffelsalat."
+          },
+          {
+            "name": "Krim-Sekt",
+            "tip": "Probieren Sie einen lokalen Sekt, der oft in der Region hergestellt wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saslik",
+            "tip": "Grillezett húsnyárs, egy kiadós étel, amely sok étteremben kapható."
+          },
+          {
+            "name": "Olivier saláta",
+            "tip": "Klasszikus ukrán burgonyasaláta."
+          },
+          {
+            "name": "Krími pezsgő",
+            "tip": "Kóstoljon meg egy helyi pezsgőt, amelyet gyakran a régióban készítenek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Șașlîk",
+            "tip": "Frigărui de carne la grătar, un fel de mâncare consistent disponibil în multe restaurante."
+          },
+          {
+            "name": "Salată Olivier",
+            "tip": "O salată clasică de cartofi ucraineană."
+          },
+          {
+            "name": "Vin spumant din Crimeea",
+            "tip": "Încercați un vin spumant local, adesea produs în regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shashlik",
+            "tip": "Grilled meat skewers, a hearty dish available in many restaurants."
+          },
+          {
+            "name": "Olivier Salad",
+            "tip": "A classic Ukrainian potato salad."
+          },
+          {
+            "name": "Crimean sparkling wine",
+            "tip": "Try a local sparkling wine, often produced in the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lisky Park",
+            "tip": "Ein großer Waldpark am Rande der Stadt, ideal für einen ruhigen Spaziergang.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Blick von der Inhul-Brücke",
+            "tip": "Eine weitere Brücke mit toller Aussicht, oft weniger überlaufen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Früher Morgen im Zoo",
+            "tip": "Erleben Sie die Ruhe des Zoos, bevor die Menschenmassen eintreffen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Liszki Park",
+            "tip": "Nagy erdős park a város szélén, ideális egy csendes sétához.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Kilátás az Inhul hídról",
+            "tip": "Egy másik híd nagyszerű kilátással, gyakran kevésbé zsúfolt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kora reggel az állatkertben",
+            "tip": "Tapasztalja meg az állatkert nyugalmát, mielőtt a tömeg megérkezik.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Lisky",
+            "tip": "Un parc forestier mare la marginea orașului, ideal pentru o plimbare liniștită.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Vedere de pe podul Inhul",
+            "tip": "Un alt pod cu priveliști grozave, adesea mai puțin aglomerat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dimineața devreme la zoo",
+            "tip": "Experimentați liniștea grădinii zoologice înainte de sosirea mulțimilor.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lisky Park",
+            "tip": "A large forest park on the edge of the city, ideal for a quiet walk.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "View from the Inhul Bridge",
+            "tip": "Another bridge with great views, often less crowded.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Early morning at the zoo",
+            "tip": "Experience the tranquility of the zoo before the crowds arrive.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bernsteinschmuck",
+            "tip": "Ein klassisches Souvenir aus der Schwarzmeerregion."
+          },
+          {
+            "name": "Handgefertigte Keramik",
+            "tip": "Suchen Sie auf lokalen Märkten nach einzigartigen, handbemalten Töpferwaren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borostyán ékszerek",
+            "tip": "Klasszikus szuvenír a Fekete-tenger régiójából."
+          },
+          {
+            "name": "Kézzel készített kerámia",
+            "tip": "Keressen egyedi, kézzel festett kerámiákat a helyi piacokon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bijuterii din chihlimbar",
+            "tip": "Un suvenir clasic din regiunea Mării Negre."
+          },
+          {
+            "name": "Ceramică artizanală",
+            "tip": "Căutați obiecte unice de ceramică pictate manual în piețele locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Amber jewelry",
+            "tip": "A classic souvenir from the Black Sea region."
+          },
+          {
+            "name": "Handmade ceramics",
+            "tip": "Look for unique, hand-painted pottery in local markets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie eine Navigations-App, um den Verkehr zu umgehen.",
+          "Parken kann im Stadtzentrum eine Herausforderung sein; planen Sie Zeit für die Parkplatzsuche ein.",
+          "Achten Sie auf die örtlichen Verkehrsregeln und Geschwindigkeitsbegrenzungen.",
+          "Ein Auto ermöglicht es Ihnen, auch Sehenswürdigkeiten außerhalb des Stadtzentrums leicht zu erreichen."
+        ],
+        "hu": [
+          "Használjon navigációs alkalmazást a forgalom elkerülésére.",
+          "A parkolás kihívást jelenthet a városközpontban; tervezzen időt a parkolóhely keresésére.",
+          "Vegye figyelembe a helyi közlekedési szabályokat és sebességkorlátozásokat.",
+          "Az autó lehetővé teszi, hogy könnyen elérje a városközponton kívüli látnivalókat is."
+        ],
+        "ro": [
+          "Utilizați o aplicație de navigație pentru a evita traficul.",
+          "Parcarea poate fi o provocare în centrul orașului; planificați timp pentru a găsi un loc.",
+          "Fiți atenți la regulile de circulație locale și la limitele de viteză.",
+          "O mașină vă permite să ajungeți cu ușurință la atracțiile din afara centrului orașului."
+        ],
+        "en": [
+          "Use a navigation app to avoid traffic.",
+          "Parking can be challenging in the city center; plan time to find a spot.",
+          "Pay attention to local traffic rules and speed limits.",
+          "A car allows you to easily reach sights outside the city center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 15.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Soborna-Straße",
+            "hu": "Szoborna utca",
+            "ro": "Strada Soborna",
+            "en": "Soborna Street"
+          },
+          "coords": [
+            31.9948,
+            46.9751
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Dies ist der zentrale Knotenpunkt für viele Bus- und Trolleybuslinien.",
+            "hu": "Ez számos busz- és trolibuszjárat központi csomópontja.",
+            "ro": "Acesta este nodul central pentru multe linii de autobuz și troleibuz.",
+            "en": "This is the central hub for many bus and trolleybus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale der Geburt der Heiligen Jungfrau Maria",
+            "hu": "Szűz Mária Születése Székesegyház",
+            "ro": "Catedrala Nașterea Sfintei Fecioare Maria",
+            "en": "Cathedral of the Nativity of the Blessed Virgin Mary"
+          },
+          "coords": [
+            31.9972,
+            46.9765
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:56",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang von der Hauptstraße entfernt.",
+            "hu": "Csak egy rövid séta a főúttól.",
+            "ro": "La doar o scurtă plimbare de strada principală.",
+            "en": "Just a short walk from the main street."
+          }
+        },
+        {
+          "name": {
+            "de": "Regionales Heimatmuseum Mykolajiw",
+            "hu": "Mikolajivi Helytörténeti Múzeum",
+            "ro": "Muzeul Regional de Istorie Locală din Mykolaiv",
+            "en": "Mykolaiv Regional Museum of Local Lore"
+          },
+          "coords": [
+            31.991,
+            46.9772
+          ],
+          "category": "museums",
+          "arrive_at": "10:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein angenehmer Spaziergang durch den historischen Kern.",
+            "hu": "Kellemes séta a történelmi belvároson keresztül.",
+            "ro": "O plimbare plăcută prin centrul istoric.",
+            "en": "A pleasant walk through the historic core."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Schiffbau und Flotte",
+            "hu": "Hajógyártási és Flotta Múzeum",
+            "ro": "Muzeul Construcțiilor Navale și al Flotei",
+            "en": "Museum of Shipbuilding and Fleet"
+          },
+          "coords": [
+            31.9821,
+            46.9775
+          ],
+          "category": "museums",
+          "arrive_at": "12:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 4,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Trolleybus entlang der Admiral's'ka Straße.",
+            "hu": "Menjen trolibusszal az Admiralszka utca mentén.",
+            "ro": "Luați un troleibuz de-a lungul străzii Admirals'ka.",
+            "en": "Take a trolleybus along Admirals'ka street."
+          }
+        },
+        {
+          "name": {
+            "de": "Jachtclub Mykolajiw",
+            "hu": "Mikolajivi Jachtklub",
+            "ro": "Clubul de Iahting Mykolaiv",
+            "en": "Mykolaiv Yacht Club"
+          },
+          "coords": [
+            31.972,
+            46.974
+          ],
+          "category": "port",
+          "arrive_at": "14:09",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang vom Schiffbaumuseum entlang des Flusses.",
+            "hu": "Szép séta a Hajógyártási Múzeumtól a folyó mentén.",
+            "ro": "O plimbare frumoasă de la Muzeul Construcțiilor Navale de-a lungul râului.",
+            "en": "A nice walk from the Shipbuilding Museum along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Mykolajiw Zoo",
+            "hu": "Mikolajivi Állatkert",
+            "ro": "Grădina Zoologică din Mykolaiv",
+            "en": "Mykolaiv Zoo"
+          },
+          "coords": [
+            32.005,
+            46.965
+          ],
+          "category": "animal-habitat",
+          "arrive_at": "15:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 9,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Mehrere Buslinien verbinden das Zentrum mit dem Zoo. Planen Sie die Fahrtzeit ein.",
+            "hu": "Több buszjárat köti össze a központot az állatkerttel. Tervezze be az utazási időt.",
+            "ro": "Mai multe linii de autobuz leagă centrul de grădina zoologică. Planificați timpul de călătorie.",
+            "en": "Several bus lines connect the center to the zoo. Allow for travel time."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in der Nähe des Zoos",
+            "hu": "Vacsora az állatkert közelében",
+            "ro": "Cină lângă grădina zoologică",
+            "en": "Dinner near the Zoo"
+          },
+          "coords": [
+            32.007,
+            46.966
+          ],
+          "category": "gastro",
+          "arrive_at": "17:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Es gibt einige gute lokale Restaurants in der Nähe, um den Tag ausklingen zu lassen.",
+            "hu": "A közelben van néhány jó helyi étterem, ahol lezárhatja a napot.",
+            "ro": "Există câteva restaurante locale bune în apropiere pentru a încheia ziua.",
+            "en": "There are some good local restaurants nearby to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Mykolajiw mit den öffentlichen Verkehrsmitteln, eine großartige Möglichkeit, die Stadt wie ein Einheimischer zu erleben. Beginnen Sie Ihren Tag im Zentrum und erkunden Sie die Soborna-Straße und die nahe gelegene Kathedrale zu Fuß. Am Vormittag bringt Sie ein Trolleybus bequem zum maritimen Viertel, wo das Schiffbaumuseum und der Jachtclub auf Sie warten. Der Nachmittag steht ganz im Zeichen der Natur: Eine längere Busfahrt führt Sie zum berühmten Mykolajiw Zoo, wo Sie den Rest des Tages zwischen faszinierenden Tieren verbringen können, bevor Sie in der Nähe zu Abend essen.",
+        "hu": "Fedezze fel Mikolajivet a tömegközlekedéssel, ami remek módja annak, hogy helyiként élje át a várost. Kezdje a napot a központban, és fedezze fel gyalog a Szoborna utcát és a közeli székesegyházat. Délelőtt egy trolibusz kényelmesen elviszi a tengeri negyedbe, ahol a Hajógyártási Múzeum és a Jachtklub várja. A délután a természet jegyében telik: egy hosszabb buszút vezet a híres Mikolajivi Állatkerthez, ahol a nap hátralévő részét lenyűgöző állatok között töltheti, mielőtt a közelben megvacsorázik.",
+        "ro": "Descoperiți Mykolaiv cu transportul public, o modalitate excelentă de a experimenta orașul ca un localnic. Începeți ziua în centru și explorați pe jos strada Soborna și catedrala din apropiere. Dimineața, un troleibuz vă va duce confortabil în cartierul maritim, unde vă așteaptă Muzeul Construcțiilor Navale și Clubul de Iahting. După-amiaza este dedicată naturii: o călătorie mai lungă cu autobuzul vă va duce la faimoasa Grădină Zoologică din Mykolaiv, unde puteți petrece restul zilei printre animale fascinante înainte de a lua cina în apropiere.",
+        "en": "Discover Mykolaiv by public transport, a great way to experience the city like a local. Start your day in the center and explore Soborna Street and the nearby cathedral on foot. In the morning, a trolleybus will take you comfortably to the maritime district, where the Shipbuilding Museum and the Yacht Club await. The afternoon is all about nature: a longer bus ride will take you to the famous Mykolaiv Zoo, where you can spend the rest of the day among fascinating animals before having dinner nearby."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Piroggen",
+            "tip": "Gebackene oder gebratene Brötchen mit verschiedenen Füllungen, ein perfekter Snack für unterwegs."
+          },
+          {
+            "name": "Syrniki",
+            "tip": "Quarkpfannkuchen, oft zum Frühstück gegessen, aber auch als Dessert erhältlich."
+          },
+          {
+            "name": "Uzvar",
+            "tip": "Ein traditioneller Kompott aus getrockneten Früchten, sehr erfrischend."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pirog",
+            "tip": "Sült vagy rántott zsemlék különféle töltelékekkel, tökéletes útközbeni harapnivaló."
+          },
+          {
+            "name": "Syrniki",
+            "tip": "Túrós palacsinta, amelyet gyakran reggelire esznek, de desszertként is kapható."
+          },
+          {
+            "name": "Uzvar",
+            "tip": "Hagyományos aszalt gyümölcskompót, nagyon frissítő."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pirojki",
+            "tip": "Chifle coapte sau prăjite cu diverse umpluturi, o gustare perfectă pentru drum."
+          },
+          {
+            "name": "Syrniki",
+            "tip": "Clătite din brânză de vaci, adesea consumate la micul dejun, dar disponibile și ca desert."
+          },
+          {
+            "name": "Uzvar",
+            "tip": "Un compot tradițional din fructe uscate, foarte răcoritor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pirozhki",
+            "tip": "Baked or fried buns with various fillings, a perfect snack on the go."
+          },
+          {
+            "name": "Syrniki",
+            "tip": "Curd pancakes, often eaten for breakfast but also available as a dessert."
+          },
+          {
+            "name": "Uzvar",
+            "tip": "A traditional compote made from dried fruits, very refreshing."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Fahrt mit dem Flussschiff",
+            "tip": "Entfliehen Sie dem Trubel der Stadt und sehen Sie Mykolajiw vom Wasser aus.",
+            "emoji": "⛴️"
+          },
+          {
+            "name": "Lesesaal der Stadtbibliothek",
+            "tip": "Ein ruhiger, klimatisierter Ort für eine Pause an einem heißen Tag.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Spaziergang entlang des Inhul-Flusses",
+            "tip": "Die Uferpromenade ist oft ruhiger als im Haupttouristengebiet.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hajókázás a folyón",
+            "tip": "Meneküljön el a város nyüzsgésétől, és nézze meg Mikolajivet a vízről.",
+            "emoji": "⛴️"
+          },
+          {
+            "name": "Városi Könyvtár olvasóterme",
+            "tip": "Csendes, légkondicionált hely egy forró napi pihenőre.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Séta az Inhul folyó mentén",
+            "tip": "A folyóparti sétány gyakran csendesebb, mint a fő turisztikai terület.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O plimbare cu barca pe râu",
+            "tip": "Evadați din agitația orașului și vedeți Mykolaiv de pe apă.",
+            "emoji": "⛴️"
+          },
+          {
+            "name": "Sala de lectură a Bibliotecii Orășenești",
+            "tip": "Un loc liniștit, cu aer condiționat, pentru o pauză într-o zi fierbinte.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Plimbare de-a lungul râului Inhul",
+            "tip": "Promenada de pe malul apei este adesea mai liniștită decât zona turistică principală.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "A riverboat trip",
+            "tip": "Escape the hustle and bustle of the city and see Mykolaiv from the water.",
+            "emoji": "⛴️"
+          },
+          {
+            "name": "City Library Reading Room",
+            "tip": "A quiet, air-conditioned place for a break on a hot day.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Walk along the Inhul River",
+            "tip": "The waterfront promenade is often quieter than the main tourist area.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Petrivka-Buchmarkt",
+            "tip": "Ein berühmter Markt für Bücher, aber auch für Musik und Antiquitäten."
+          },
+          {
+            "name": "Lokaler Honig",
+            "tip": "Die Ukraine ist berühmt für ihren Honig; ein süßes und gesundes Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Petrivka könyvpiac",
+            "tip": "Híres könyvpiac, de zenét és régiségeket is találhat."
+          },
+          {
+            "name": "Helyi méz",
+            "tip": "Ukrajna híres a mézéről; édes és egészséges szuvenír."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de carte Petrivka",
+            "tip": "O piață renumită pentru cărți, dar și pentru muzică și antichități."
+          },
+          {
+            "name": "Miere locală",
+            "tip": "Ucraina este renumită pentru mierea sa; un suvenir dulce și sănătos."
+          }
+        ],
+        "en": [
+          {
+            "name": "Petrivka Book Market",
+            "tip": "A famous market for books, but also for music and antiques."
+          },
+          {
+            "name": "Local Honey",
+            "tip": "Ukraine is famous for its honey; a sweet and healthy souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Die Routen können verwirrend sein, verwenden Sie eine App zur Routenplanung.",
+          "Die Fahrzeuge können zu Stoßzeiten sehr voll werden.",
+          "Validieren Sie Ihr Ticket immer, um eine Strafe zu vermeiden."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Az útvonalak zavaróak lehetnek, használjon útvonaltervező alkalmazást.",
+          "A járművek csúcsidőben nagyon zsúfoltak lehetnek.",
+          "Mindig érvényesítse a jegyét, hogy elkerülje a büntetést."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Traseele pot fi confuze, utilizați o aplicație de planificare a rutei.",
+          "Vehiculele pot deveni foarte aglomerate la orele de vârf.",
+          "Validați întotdeauna biletul pentru a evita o amendă."
+        ],
+        "en": [
+          "Buy a day pass for unlimited rides.",
+          "Routes can be confusing, use a route planning app.",
+          "Vehicles can get very crowded during peak hours.",
+          "Always validate your ticket to avoid a fine."
+        ]
+      }
+    }
+  }
+}

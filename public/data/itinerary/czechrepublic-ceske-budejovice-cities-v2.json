@@ -1,0 +1,1524 @@
+{
+  "city_id": "czechrepublic-ceske-budejovice-cities-v2",
+  "anchor": {
+    "name": "Budweis",
+    "coords": [
+      14.4747,
+      48.9747
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Přemysl-Otakar-II.-Platz",
+            "hu": "Přemysl Otakar II tér",
+            "ro": "Piața Přemysl Otakar al II-lea",
+            "en": "Přemysl Otakar II Square"
+          },
+          "coords": [
+            14.4747,
+            48.9747
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf den „verlorenen Stein“ – wer nach 21 Uhr darauf tritt, findet nicht mehr nach Hause.",
+            "hu": "Keresse meg az „elveszett követ”! A legenda szerint aki este 9 után rálép, nem talál többé haza.",
+            "ro": "Căutați „piatra rătăcirii”. Legenda spune că cine calcă pe ea după ora 21:00 nu va mai găsi drumul spre casă.",
+            "en": "Look for the 'wandering stone' – legend says if you step on it after 9 PM, you won't find your way home."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus und Samson-Brunnen",
+            "hu": "Városháza és Sámson-kút",
+            "ro": "Primăria și Fântâna lui Samson",
+            "en": "Town Hall and Samson's Fountain"
+          },
+          "coords": [
+            14.4735,
+            48.975
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die allegorischen Statuen am Rathaus, die Gerechtigkeit, Tapferkeit, Weisheit und Besonnenheit darstellen.",
+            "hu": "Csodálja meg a Városháza allegorikus szobrait: az Igazságot, Bátorságot, Bölcsességet és Óvatosságot.",
+            "ro": "Admirați statuile alegorice de pe Primărie, reprezentând Justiția, Curajul, Înțelepciunea și Prudența.",
+            "en": "Admire the allegorical statues on the Town Hall representing Justice, Bravery, Wisdom, and Prudence."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale St. Nikolaus",
+            "hu": "Szent Miklós-székesegyház",
+            "ro": "Catedrala Sfântul Nicolae",
+            "en": "St. Nicholas Cathedral"
+          },
+          "coords": [
+            14.4772,
+            48.9761
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Kathedrale wurde nach einem Brand im 17. Jahrhundert im Barockstil wiederaufgebaut.",
+            "hu": "A katedrálist a 17. századi tűzvész után barokk stílusban építették újjá.",
+            "ro": "Catedrala a fost reconstruită în stil baroc după un incendiu devastator în secolul al XVII-lea.",
+            "en": "The cathedral was rebuilt in the Baroque style after a major fire in the 17th century."
+          }
+        },
+        {
+          "name": {
+            "de": "Schwarzer Turm",
+            "hu": "Fekete-torony",
+            "ro": "Turnul Negru",
+            "en": "Black Tower"
+          },
+          "coords": [
+            14.4778,
+            48.9758
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Steigen Sie die 225 Stufen für die beste Aussicht über die Stadt und die umliegende Landschaft.",
+            "hu": "Mássza meg a 225 lépcsőfokot a városra és a környékre nyíló legjobb kilátásért!",
+            "ro": "Urcați cele 225 de trepte pentru cea mai bună priveliște asupra orașului și a peisajului înconjurător.",
+            "en": "Climb the 225 steps for the best view over the city and the surrounding countryside."
+          }
+        },
+        {
+          "name": {
+            "de": "Turm Eiserne Jungfrau",
+            "hu": "Vasalótorony (Vasleány)",
+            "ro": "Turnul Fecioara de Fier",
+            "en": "Iron Maiden Tower"
+          },
+          "coords": [
+            14.469,
+            48.973
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:08",
+          "stay_min": 25,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Teil der ehemaligen Stadtbefestigung. Ein schöner Spaziergang entlang des Flusses Maltsch.",
+            "hu": "Az egykori városi erődítmény része. Tegyen egy szép sétát a Malše folyó partján!",
+            "ro": "Parte a fostelor fortificații ale orașului. O plimbare frumoasă de-a lungul râului Malše.",
+            "en": "Part of the former city fortifications. It's a beautiful walk along the Malše river."
+          }
+        },
+        {
+          "name": {
+            "de": "Südböhmisches Museum",
+            "hu": "Dél-Csehországi Múzeum",
+            "ro": "Muzeul Boemiei de Sud",
+            "en": "Museum of South Bohemia"
+          },
+          "coords": [
+            14.48,
+            48.973
+          ],
+          "category": "museums",
+          "arrive_at": "13:03",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit für die umfangreiche Sammlung zur Natur, Archäologie und Geschichte der Region ein.",
+            "hu": "Szánjon elég időt a régió természetét, régészetét és történelmét bemutató gazdag gyűjteményre.",
+            "ro": "Rezervați-vă suficient timp pentru colecția extinsă despre natura, arheologia și istoria regiunii.",
+            "en": "Allow plenty of time for the extensive collection on the region's nature, archaeology, and history."
+          }
+        },
+        {
+          "name": {
+            "de": "Budweiser Budvar Brauerei",
+            "hu": "Budweiser Budvar Sörgyár",
+            "ro": "Fabrica de bere Budweiser Budvar",
+            "en": "Budweiser Budvar Brewery"
+          },
+          "coords": [
+            14.493,
+            48.985
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:27",
+          "stay_min": 90,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Buchen Sie die Tour im Voraus online. Die Verkostung des unpasteurisierten Bieres ist ein Highlight!",
+            "hu": "Foglalja le a túrát online előre! A pasztőrözetlen sör kóstolása a fénypont.",
+            "ro": "Rezervați turul online în avans. Degustarea berii nepasteurizate este un punct culminant!",
+            "en": "Book the tour online in advance. The tasting of the unpasteurized beer is a highlight!"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem prächtigen Přemysl-Otakar-II.-Platz, einem der größten Plätze Europas. Bewundern Sie das barocke Rathaus und den Samson-Brunnen, bevor Sie zur St.-Nikolaus-Kathedrale und dem Schwarzen Turm schlendern, um einen Panoramablick zu genießen. Der Vormittag steht im Zeichen der historischen Architektur des Stadtzentrums. Nach dem Mittagessen führt Sie ein Spaziergang entlang der alten Stadtmauern zum Turm der Eisernen Jungfrau und weiter zum Südböhmischen Museum, wo Sie tief in die regionale Geschichte eintauchen. Am Nachmittag erleben Sie die Seele von Budweis bei einer Führung durch die weltberühmte Budweiser Budvar Brauerei, inklusive einer wohlverdienten Bierprobe. Lassen Sie den Abend in einer der traditionellen Gaststätten ausklingen und genießen Sie die lokale Küche und das frisch gezapfte Bier.",
+        "hu": "Kezdje a napot a csodálatos Přemysl Otakar II téren, Európa egyik legnagyobb terén. Csodálja meg a barokk Városházát és a Sámson-kutat, majd sétáljon át a Szent Miklós-székesegyházhoz és a Fekete-toronyhoz egy panorámás kilátásért. A délelőtt a történelmi városközpont építészetének jegyében telik. Ebéd után a régi városfalak mentén tett séta elvezeti a Vasleány-toronyhoz, majd a Dél-Csehországi Múzeumhoz, ahol elmerülhet a régió történelmében. Délután fedezze fel Budweis lelkét egy vezetett túrán a világhírű Budweiser Budvar Sörgyárban, beleértve egy jól megérdemelt sörkóstolót is. Zárja az estét egy hagyományos vendéglőben, élvezve a helyi konyhát és a frissen csapolt sört.",
+        "ro": "Începeți ziua în magnifica Piață Přemysl Otakar al II-lea, una dintre cele mai mari piețe din Europa. Admirați primăria barocă și Fântâna lui Samson înainte de a vă plimba spre Catedrala Sf. Nicolae și Turnul Negru pentru o vedere panoramică. Dimineața este dedicată arhitecturii istorice a centrului orașului. După prânz, o plimbare de-a lungul vechilor ziduri ale orașului vă va duce la Turnul Fecioarei de Fier și apoi la Muzeul Boemiei de Sud, unde veți aprofunda istoria regională. După-amiaza, experimentați sufletul orașului Budweis cu un tur ghidat la faimoasa fabrică de bere Budweiser Budvar, inclusiv o degustare de bere binemeritată. Încheiați seara într-unul dintre restaurantele tradiționale, savurând bucătăria locală și berea proaspătă la halbă.",
+        "en": "Start your day in the magnificent Přemysl Otakar II Square, one of the largest squares in Europe. Admire the Baroque Town Hall and Samson's Fountain before strolling to St. Nicholas Cathedral and the Black Tower for a panoramic view. The morning is dedicated to the historic architecture of the city center. After lunch, a walk along the old city walls will lead you to the Iron Maiden Tower and on to the Museum of South Bohemia, where you can delve into regional history. In the afternoon, experience the soul of Budweis with a guided tour of the world-famous Budweiser Budvar Brewery, including a well-deserved beer tasting. End the evening in one of the traditional pubs, enjoying local cuisine and freshly tapped beer."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Masné krámy (Fleischbänke)",
+            "tip": "Probieren Sie den traditionellen Lendenbraten (Svíčková) in diesem historischen Bierhaus."
+          },
+          {
+            "name": "Budweiser Budvar",
+            "tip": "Das unfiltrierte Hefelager direkt in der Brauereigaststätte ist ein Muss."
+          },
+          {
+            "name": "Karpfen nach Budweiser Art",
+            "tip": "Eine lokale Spezialität, die man in vielen traditionellen Restaurants findet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Masné krámy (Hús-piac)",
+            "tip": "Kóstolja meg a hagyományos vadasmarhát (Svíčková) ebben a történelmi sörözőben."
+          },
+          {
+            "name": "Budweiser Budvar",
+            "tip": "A szűretlen élesztős láger sör közvetlenül a sörgyár éttermében kötelező."
+          },
+          {
+            "name": "Budweisi ponty",
+            "tip": "Helyi specialitás, amelyet sok hagyományos étteremben megtalál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Masné krámy (Halele de Carne)",
+            "tip": "Încercați mușchiul de vită tradițional (Svíčková) în această berărie istorică."
+          },
+          {
+            "name": "Budweiser Budvar",
+            "tip": "Berea lager nefiltrată cu drojdie, servită direct la restaurantul fabricii, este obligatorie."
+          },
+          {
+            "name": "Crap în stil Budweis",
+            "tip": "O specialitate locală găsită în multe restaurante tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Masné krámy (Meat Market)",
+            "tip": "Try the traditional sirloin in cream sauce (Svíčková) in this historic beer hall."
+          },
+          {
+            "name": "Budweiser Budvar",
+            "tip": "The unfiltered yeast lager straight from the brewery restaurant is a must-try."
+          },
+          {
+            "name": "Budweis-style Carp",
+            "tip": "A local specialty found in many traditional restaurants."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Maltsch-Ufer",
+            "tip": "Ein ruhiger Weg entlang des kleineren Flusses, perfekt für eine Pause vom Trubel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sokolsky-Insel",
+            "tip": "Eine grüne Oase zwischen Moldau und Maltsch, ideal zum Entspannen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick vom Schwarzen Turm",
+            "tip": "Oben ist es oft ruhiger und der Ausblick ist die beste Belohnung.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Malše folyó partján",
+            "tip": "Csendes útvonal a kisebbik folyó mentén, tökéletes egy kis pihenésre a nyüzsgéstől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sokolský-sziget",
+            "tip": "Zöld oázis a Moldva és a Malše között, ideális a pihenésre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Fekete-toronyból",
+            "tip": "Fent gyakran csendesebb, és a kilátás a legjobb jutalom.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului Malše",
+            "tip": "O potecă liniștită de-a lungul râului mai mic, perfectă pentru o pauză de la agitație.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Insula Sokolský",
+            "tip": "O oază de verdeață între Vltava și Malše, ideală pentru relaxare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere din Turnul Negru",
+            "tip": "Sus este adesea mai liniștit, iar priveliștea este cea mai bună recompensă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along the Malše River bank",
+            "tip": "A quiet path along the smaller river, perfect for a break from the bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sokolský Island",
+            "tip": "A green oasis between the Vltava and Malše rivers, ideal for relaxing.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the Black Tower",
+            "tip": "It's often quieter at the top, and the view is the best reward.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Märkte am Platz",
+            "tip": "Halten Sie Ausschau nach saisonalen Märkten für handgemachte Produkte und lokale Erzeugnisse."
+          },
+          {
+            "name": "Budweiser Souvenirs",
+            "tip": "Der Shop in der Brauerei bietet eine große Auswahl an Geschenken für Bierliebhaber."
+          },
+          {
+            "name": "Koh-i-Noor Hardtmuth",
+            "tip": "Besuchen Sie einen Laden der berühmten Bleistiftmarke, die hier gegründet wurde."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piacok a téren",
+            "tip": "Keresse a szezonális piacokat kézműves termékekért és helyi finomságokért."
+          },
+          {
+            "name": "Budweiser ajándéktárgyak",
+            "tip": "A sörgyár boltja széles választékot kínál ajándékokból a sörkedvelőknek."
+          },
+          {
+            "name": "Koh-i-Noor Hardtmuth",
+            "tip": "Látogasson el a híres ceruzamárka egyik üzletébe, amelyet itt alapítottak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe locale în piață",
+            "tip": "Căutați piețele sezoniere pentru produse artizanale și produse locale."
+          },
+          {
+            "name": "Suveniruri Budweiser",
+            "tip": "Magazinul de la fabrică oferă o gamă largă de cadouri pentru iubitorii de bere."
+          },
+          {
+            "name": "Koh-i-Noor Hardtmuth",
+            "tip": "Vizitați un magazin al celebrului brand de creioane care a fost fondat aici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local markets on the square",
+            "tip": "Look out for seasonal markets for handmade crafts and local produce."
+          },
+          {
+            "name": "Budweiser Souvenirs",
+            "tip": "The brewery shop offers a wide range of gifts for beer lovers."
+          },
+          {
+            "name": "Koh-i-Noor Hardtmuth",
+            "tip": "Visit a store of the famous pencil brand that was founded here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Nehmen Sie sich Zeit für einen Kaffee in einem der vielen Cafés am Hauptplatz.",
+          "Prüfen Sie die Öffnungszeiten des Schwarzen Turms, da diese saisonal variieren können."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakő az óvárosban egyenetlen lehet.",
+          "A központi látnivalók többsége könnyen elérhető gyalog.",
+          "Szánjon időt egy kávéra a főtéren található számos kávézó egyikében.",
+          "Ellenőrizze a Fekete-torony nyitvatartási idejét, mivel az szezonálisan változhat."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din centrul vechi poate fi denivelat.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Luați-vă timp pentru o cafea la una dintre numeroasele cafenele din piața principală.",
+          "Verificați programul de funcționare al Turnului Negru, deoarece acesta poate varia în funcție de sezon."
+        ],
+        "en": [
+          "Wear comfortable shoes, as the cobblestones in the old town can be uneven.",
+          "Most sights in the center are within easy walking distance.",
+          "Take time for a coffee at one of the many cafes on the main square.",
+          "Check the opening hours for the Black Tower, as they can vary seasonally."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 10.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Přemysl-Otakar-II.-Platz",
+            "hu": "Přemysl Otakar II tér",
+            "ro": "Piața Přemysl Otakar al II-lea",
+            "en": "Přemysl Otakar II Square"
+          },
+          "coords": [
+            14.4747,
+            48.9747
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab, bevor Sie den Platz zu Fuß erkunden.",
+            "hu": "Biztonságosan zárja le a kerékpárját, mielőtt gyalog felfedezné a teret.",
+            "ro": "Parcați-vă bicicleta într-un loc sigur înainte de a explora piața pe jos.",
+            "en": "Securely lock your bike before exploring the square on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Schwarzer Turm & Kathedrale",
+            "hu": "Fekete-torony és Székesegyház",
+            "ro": "Turnul Negru & Catedrala",
+            "en": "Black Tower & Cathedral"
+          },
+          "coords": [
+            14.4775,
+            48.9759
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Besuch beider Wahrzeichen, da sie direkt nebeneinander liegen.",
+            "hu": "Kombinálja a két nevezetesség meglátogatását, mivel közvetlenül egymás mellett helyezkednek el.",
+            "ro": "Combinați vizita la ambele obiective, deoarece sunt situate chiar unul lângă celălalt.",
+            "en": "Combine the visit to both landmarks as they are located right next to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Südböhmisches Museum",
+            "hu": "Dél-Csehországi Múzeum",
+            "ro": "Muzeul Boemiei de Sud",
+            "en": "Museum of South Bohemia"
+          },
+          "coords": [
+            14.48,
+            48.973
+          ],
+          "category": "museums",
+          "arrive_at": "10:38",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Es gibt Fahrradständer vor dem Museum.",
+            "hu": "A múzeum előtt kerékpártárolók találhatók.",
+            "ro": "Există suporturi pentru biciclete în fața muzeului.",
+            "en": "There are bike racks in front of the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt am Moldau-Ufer",
+            "hu": "Kerékpárút a Moldva partján",
+            "ro": "Plimbare pe malul râului Vltava",
+            "en": "Ride along the Vltava River"
+          },
+          "coords": [
+            14.465,
+            48.978
+          ],
+          "category": "river",
+          "arrive_at": "12:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie die flache und malerische Strecke, die sich perfekt für eine entspannte Radtour eignet.",
+            "hu": "Élvezze a sík és festői útvonalat, amely tökéletes egy nyugodt kerékpártúrához.",
+            "ro": "Bucurați-vă de traseul plat și pitoresc, perfect pentru o plimbare relaxantă cu bicicleta.",
+            "en": "Enjoy the flat and scenic route, perfect for a relaxed bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Turm Eiserne Jungfrau",
+            "hu": "Vasalótorony (Vasleány)",
+            "ro": "Turnul Fecioara de Fier",
+            "en": "Iron Maiden Tower"
+          },
+          "coords": [
+            14.469,
+            48.973
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:57",
+          "stay_min": 20,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Von hier aus haben Sie einen guten Blick auf den Zusammenfluss von Moldau und Maltsch.",
+            "hu": "Innen jó kilátás nyílik a Moldva és a Malše folyók összefolyására.",
+            "ro": "De aici aveți o priveliște bună asupra confluenței râurilor Vltava și Malše.",
+            "en": "From here you have a good view of the confluence of the Vltava and Malše rivers."
+          }
+        },
+        {
+          "name": {
+            "de": "Budweiser Budvar Brauerei",
+            "hu": "Budweiser Budvar Sörgyár",
+            "ro": "Fabrica de bere Budweiser Budvar",
+            "en": "Budweiser Budvar Brewery"
+          },
+          "coords": [
+            14.493,
+            48.985
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:37",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Radtour zur Brauerei ist eine gute Möglichkeit, sich das Bier zu verdienen!",
+            "hu": "A sörgyárhoz vezető kerékpártúra remek módja annak, hogy kiérdemelje a sört!",
+            "ro": "Turul cu bicicleta până la fabrică este o modalitate bună de a vă câștiga berea!",
+            "en": "The bike ride to the brewery is a great way to earn your beer!"
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück zum Hauptplatz",
+            "hu": "Vissza a főtérre",
+            "ro": "Înapoi în piața principală",
+            "en": "Back to the Main Square"
+          },
+          "coords": [
+            14.4747,
+            48.9747
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:15",
+          "stay_min": 35,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag bei einem kalten Getränk in einem der Cafés am Platz.",
+            "hu": "Zárja a napot egy hideg itallal a tér egyik kávézójában.",
+            "ro": "Încheiați ziua cu o băutură rece la una dintre cafenelele din piață.",
+            "en": "End the day with a cold drink at one of the cafes on the square."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel und beginnen Sie Ihre Erkundung auf dem weitläufigen Hauptplatz von Budweis. Von dort aus radeln Sie zu den nahegelegenen Wahrzeichen, der St.-Nikolaus-Kathedrale und dem Schwarzen Turm. Am Vormittag führt Sie Ihre Route zum Südböhmischen Museum, bevor Sie eine malerische Fahrt entlang des Moldauufers genießen, eine perfekte Flucht aus der Stadt. Zur Mittagszeit erreichen Sie den mittelalterlichen Turm der Eisernen Jungfrau. Die Hauptattraktion des Nachmittags ist die Fahrt zur berühmten Budweiser Budvar Brauerei, wo eine Tour und eine Verkostung auf Sie warten. Der Rückweg führt Sie zum Abschluss Ihrer Radtour wieder ins Herz der Stadt, auf den Přemysl-Otakar-II.-Platz.",
+        "hu": "Pattanjon nyeregbe, és kezdje a felfedezést Budweis tágas főterén. Innen tekerjen el a közeli nevezetességekhez, a Szent Miklós-székesegyházhoz és a Fekete-toronyhoz. A délelőtt folyamán az útvonala a Dél-Csehországi Múzeumhoz vezet, mielőtt egy festői utat tenne a Moldva partján, ami tökéletes menekülés a városból. Délidőben éri el a középkori Vasleány-tornyot. A délután fő attrakciója a híres Budweiser Budvar Sörgyárhoz vezető út, ahol túra és kóstoló várja. Visszafelé az út a város szívébe, a Přemysl Otakar II térre vezet, lezárva a kerékpártúrát.",
+        "ro": "Urcați-vă pe bicicletă și începeți explorarea în piața principală spațioasă din Budweis. De acolo, pedalați spre reperele din apropiere, Catedrala Sf. Nicolae și Turnul Negru. În cursul dimineții, traseul vă duce la Muzeul Boemiei de Sud înainte de a vă bucura de o plimbare pitorească de-a lungul malurilor râului Vltava, o evadare perfectă din oraș. La prânz, veți ajunge la turnul medieval Fecioara de Fier. Principala atracție a după-amiezii este plimbarea cu bicicleta până la faimoasa fabrică de bere Budweiser Budvar, unde vă așteaptă un tur și o degustare. Drumul de întoarcere vă duce înapoi în inima orașului, în Piața Přemysl Otakar al II-lea, pentru a încheia turul pe bicicletă.",
+        "en": "Hop on your bike and start your exploration in the spacious main square of Budweis. From there, pedal to the nearby landmarks, St. Nicholas Cathedral and the Black Tower. In the morning, your route takes you to the Museum of South Bohemia before you enjoy a scenic ride along the banks of the Vltava River, a perfect escape from the city. Around noon, you'll reach the medieval Iron Maiden Tower. The main attraction of the afternoon is the ride to the famous Budweiser Budvar Brewery, where a tour and tasting await. The way back takes you to the heart of the city, Přemysl Otakar II Square, to conclude your cycling tour."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Masné krámy (Fleischbänke)",
+            "tip": "Probieren Sie den traditionellen Lendenbraten (Svíčková) in diesem historischen Bierhaus."
+          },
+          {
+            "name": "Budweiser Budvar",
+            "tip": "Das unfiltrierte Hefelager direkt in der Brauereigaststätte ist ein Muss."
+          },
+          {
+            "name": "Karpfen nach Budweiser Art",
+            "tip": "Eine lokale Spezialität, die man in vielen traditionellen Restaurants findet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Masné krámy (Hús-piac)",
+            "tip": "Kóstolja meg a hagyományos vadasmarhát (Svíčková) ebben a történelmi sörözőben."
+          },
+          {
+            "name": "Budweiser Budvar",
+            "tip": "A szűretlen élesztős láger sör közvetlenül a sörgyár éttermében kötelező."
+          },
+          {
+            "name": "Budweisi ponty",
+            "tip": "Helyi specialitás, amelyet sok hagyományos étteremben megtalál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Masné krámy (Halele de Carne)",
+            "tip": "Încercați mușchiul de vită tradițional (Svíčková) în această berărie istorică."
+          },
+          {
+            "name": "Budweiser Budvar",
+            "tip": "Berea lager nefiltrată cu drojdie, servită direct la restaurantul fabricii, este obligatorie."
+          },
+          {
+            "name": "Crap în stil Budweis",
+            "tip": "O specialitate locală găsită în multe restaurante tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Masné krámy (Meat Market)",
+            "tip": "Try the traditional sirloin in cream sauce (Svíčková) in this historic beer hall."
+          },
+          {
+            "name": "Budweiser Budvar",
+            "tip": "The unfiltered yeast lager straight from the brewery restaurant is a must-try."
+          },
+          {
+            "name": "Budweis-style Carp",
+            "tip": "A local specialty found in many traditional restaurants."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Maltsch-Ufer",
+            "tip": "Ein ruhiger Weg entlang des kleineren Flusses, perfekt für eine Pause vom Trubel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sokolsky-Insel",
+            "tip": "Eine grüne Oase zwischen Moldau und Maltsch, ideal zum Entspannen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick vom Schwarzen Turm",
+            "tip": "Oben ist es oft ruhiger und der Ausblick ist die beste Belohnung.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Malše folyó partján",
+            "tip": "Csendes útvonal a kisebbik folyó mentén, tökéletes egy kis pihenésre a nyüzsgéstől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sokolský-sziget",
+            "tip": "Zöld oázis a Moldva és a Malše között, ideális a pihenésre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Fekete-toronyból",
+            "tip": "Fent gyakran csendesebb, és a kilátás a legjobb jutalom.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului Malše",
+            "tip": "O potecă liniștită de-a lungul râului mai mic, perfectă pentru o pauză de la agitație.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Insula Sokolský",
+            "tip": "O oază de verdeață între Vltava și Malše, ideală pentru relaxare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere din Turnul Negru",
+            "tip": "Sus este adesea mai liniștit, iar priveliștea este cea mai bună recompensă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along the Malše River bank",
+            "tip": "A quiet path along the smaller river, perfect for a break from the bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sokolský Island",
+            "tip": "A green oasis between the Vltava and Malše rivers, ideal for relaxing.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the Black Tower",
+            "tip": "It's often quieter at the top, and the view is the best reward.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Märkte am Platz",
+            "tip": "Halten Sie Ausschau nach saisonalen Märkten für handgemachte Produkte und lokale Erzeugnisse."
+          },
+          {
+            "name": "Budweiser Souvenirs",
+            "tip": "Der Shop in der Brauerei bietet eine große Auswahl an Geschenken für Bierliebhaber."
+          },
+          {
+            "name": "Koh-i-Noor Hardtmuth",
+            "tip": "Besuchen Sie einen Laden der berühmten Bleistiftmarke, die hier gegründet wurde."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piacok a téren",
+            "tip": "Keresse a szezonális piacokat kézműves termékekért és helyi finomságokért."
+          },
+          {
+            "name": "Budweiser ajándéktárgyak",
+            "tip": "A sörgyár boltja széles választékot kínál ajándékokból a sörkedvelőknek."
+          },
+          {
+            "name": "Koh-i-Noor Hardtmuth",
+            "tip": "Látogasson el a híres ceruzamárka egyik üzletébe, amelyet itt alapítottak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe locale în piață",
+            "tip": "Căutați piețele sezoniere pentru produse artizanale și produse locale."
+          },
+          {
+            "name": "Suveniruri Budweiser",
+            "tip": "Magazinul de la fabrică oferă o gamă largă de cadouri pentru iubitorii de bere."
+          },
+          {
+            "name": "Koh-i-Noor Hardtmuth",
+            "tip": "Vizitați un magazin al celebrului brand de creioane care a fost fondat aici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local markets on the square",
+            "tip": "Look out for seasonal markets for handmade crafts and local produce."
+          },
+          {
+            "name": "Budweiser Souvenirs",
+            "tip": "The brewery shop offers a wide range of gifts for beer lovers."
+          },
+          {
+            "name": "Koh-i-Noor Hardtmuth",
+            "tip": "Visit a store of the famous pencil brand that was founded here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Stadt ist größtenteils flach und sehr fahrradfreundlich.",
+          "Nutzen Sie die gut ausgebauten Radwege entlang der Flüsse.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, besonders an belebten Orten.",
+          "Viele Cafés und Restaurants erlauben es, das Fahrrad in Sichtweite abzustellen."
+        ],
+        "hu": [
+          "A város többnyire sík és nagyon kerékpárbarát.",
+          "Használja ki a folyók mentén jól kiépített kerékpárutakat.",
+          "Mindig gondosan zárja le a kerékpárját, különösen forgalmas helyeken.",
+          "Sok kávézó és étterem megengedi, hogy a kerékpárt látótávolságon belül helyezze el."
+        ],
+        "ro": [
+          "Orașul este în mare parte plat și foarte prietenos cu bicicliștii.",
+          "Folosiți pistele de biciclete bine dezvoltate de-a lungul râurilor.",
+          "Asigurați-vă întotdeauna bicicleta corespunzător, mai ales în locurile aglomerate.",
+          "Multe cafenele și restaurante vă permit să parcați bicicleta la vedere."
+        ],
+        "en": [
+          "The city is mostly flat and very bike-friendly.",
+          "Take advantage of the well-developed cycle paths along the rivers.",
+          "Always lock your bike securely, especially in busy places.",
+          "Many cafes and restaurants allow you to park your bike within sight."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 8.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken am Altstadt-Cluster",
+            "hu": "Parkolás az Óvárosi klaszternél",
+            "ro": "Parcare la clusterul Orașul Vechi",
+            "en": "Parking at the Old Town Cluster"
+          },
+          "coords": [
+            14.478,
+            48.972
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in einem der Parkhäuser am Rande der Altstadt für einen stressfreien Tag.",
+            "hu": "Parkoljon az óváros szélén található parkolóházak egyikében a stresszmentes nap érdekében.",
+            "ro": "Parcați într-una dintre parcările de la marginea orașului vechi pentru o zi fără stres.",
+            "en": "Park in one of the parking garages on the edge of the old town for a stress-free day."
+          }
+        },
+        {
+          "name": {
+            "de": "Přemysl-Otakar-II.-Platz & Rathaus",
+            "hu": "Přemysl Otakar II tér és Városháza",
+            "ro": "Piața Přemysl Otakar II și Primăria",
+            "en": "Přemysl Otakar II Square & Town Hall"
+          },
+          "coords": [
+            14.4747,
+            48.9747
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der gesamte Platz ist eine Fußgängerzone, genießen Sie den Spaziergang.",
+            "hu": "Az egész tér sétálóövezet, élvezze a sétát.",
+            "ro": "Întreaga piață este o zonă pietonală, bucurați-vă de plimbare.",
+            "en": "The entire square is a pedestrian zone, enjoy the walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Schwarzer Turm & St. Nikolaus Kathedrale",
+            "hu": "Fekete-torony és Szent Miklós-székesegyház",
+            "ro": "Turnul Negru și Catedrala Sf. Nicolae",
+            "en": "Black Tower & St. Nicholas Cathedral"
+          },
+          "coords": [
+            14.4775,
+            48.9759
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Turm aus können Sie Ihren nächsten Cluster, die Brauerei, in der Ferne sehen.",
+            "hu": "A toronyból a távolban láthatja a következő klasztert, a sörgyárat.",
+            "ro": "Din turn puteți vedea în depărtare următorul cluster, fabrica de bere.",
+            "en": "From the tower, you can see your next cluster, the brewery, in the distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Südböhmisches Museum",
+            "hu": "Dél-Csehországi Múzeum",
+            "ro": "Muzeul Boemiei de Sud",
+            "en": "Museum of South Bohemia"
+          },
+          "coords": [
+            14.48,
+            48.973
+          ],
+          "category": "museums",
+          "arrive_at": "11:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz, aber eine Welt voller Geschichte.",
+            "hu": "Csak egy rövid séta a főtértől, de a történelem egy egész világa.",
+            "ro": "O scurtă plimbare de la piața principală, dar o lume întreagă de istorie.",
+            "en": "A short walk from the main square, but a world of history inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Budweiser Budvar Brauerei",
+            "hu": "Utazás a Budweiser Budvar Sörgyárhoz",
+            "ro": "Călătorie la Fabrica de Bere Budweiser Budvar",
+            "en": "Drive to Budweiser Budvar Brewery"
+          },
+          "coords": [
+            14.493,
+            48.985
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zurück zum Parkhaus, holen Sie Ihr Auto und folgen Sie der Beschilderung zur Brauerei. Es gibt ausreichend Parkplätze.",
+            "hu": "Menjen vissza a parkolóházba, vegye fel az autóját és kövesse a sörgyár felé vezető táblákat. Elegendő parkolóhely áll rendelkezésre.",
+            "ro": "Mergeți înapoi la parcare, luați mașina și urmați indicatoarele către fabrică. Există o parcare amplă.",
+            "en": "Head back to the garage, get your car, and follow the signs to the brewery. There's ample parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Fluss",
+            "hu": "Folyóparti séta",
+            "ro": "Plimbare pe malul râului",
+            "en": "Riverside Walk"
+          },
+          "coords": [
+            14.469,
+            48.973
+          ],
+          "category": "river",
+          "arrive_at": "16:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie nach der Brauerei in der Nähe der Maltsch-Mündung für einen entspannenden Abendspaziergang.",
+            "hu": "A sörgyár után parkoljon a Malše torkolatának közelében egy pihentető esti sétára.",
+            "ro": "După vizita la fabrică, parcați lângă confluența râului Malše pentru o plimbare relaxantă de seară.",
+            "en": "After the brewery, park near the Malše confluence for a relaxing evening walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag, indem Sie Ihr Auto am Rande der Altstadt parken. Der erste Cluster Ihres Besuchs ist das historische Herz: der riesige Hauptplatz, das Rathaus und der Aufstieg auf den Schwarzen Turm für eine atemberaubende Aussicht. Nach einem Spaziergang zum nahegelegenen Südböhmischen Museum kehren Sie zu Ihrem Auto zurück. Am Nachmittag fahren Sie zum zweiten Cluster: der weltberühmten Budweiser Budvar Brauerei. Nehmen Sie an einer Führung teil, um die Geheimnisse des Bieres zu entdecken, und genießen Sie eine Verkostung. Zum Abschluss des Tages fahren Sie zum Ufer der Maltsch, um bei einem ruhigen Spaziergang die Eindrücke des Tages Revue passieren zu lassen.",
+        "hu": "Kezdje a napot azzal, hogy leparkolja autóját az óváros szélén. A látogatás első klasztere a történelmi szív: a hatalmas főtér, a Városháza és a Fekete-torony megmászása a lélegzetelállító kilátásért. Miután átsétált a közeli Dél-Csehországi Múzeumba, térjen vissza az autójához. Délután vezessen át a második klaszterhez: a világhírű Budweiser Budvar Sörgyárhoz. Vegyen részt egy vezetett túrán, hogy felfedezze a sör titkait, és élvezze a kóstolót. A nap lezárásaként autózzon el a Malše folyó partjára egy csendes sétára, hogy feldolgozza a nap élményeit.",
+        "ro": "Începeți ziua parcând mașina la marginea orașului vechi. Primul cluster al vizitei dumneavoastră este inima istorică: piața principală gigantică, primăria și urcarea în Turnul Negru pentru o priveliște uluitoare. După o plimbare la Muzeul Boemiei de Sud din apropiere, vă întoarceți la mașină. După-amiaza, conduceți spre al doilea cluster: faimoasa fabrică de bere Budweiser Budvar. Participați la un tur ghidat pentru a descoperi secretele berii și bucurați-vă de o degustare. Pentru a încheia ziua, conduceți spre malurile râului Malše pentru o plimbare liniștită, reflectând la experiențele zilei.",
+        "en": "Start your day by parking your car on the edge of the old town. The first cluster of your visit is the historic heart: the giant main square, the town hall, and the climb up the Black Tower for a breathtaking view. After a walk to the nearby Museum of South Bohemia, you return to your car. In the afternoon, you'll drive to the second cluster: the world-famous Budweiser Budvar Brewery. Take a guided tour to discover the secrets of its beer and enjoy a tasting. To end the day, drive to the banks of the Malše river for a quiet walk to reflect on the day's experiences."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Masné krámy (Fleischbänke)",
+            "tip": "Probieren Sie den traditionellen Lendenbraten (Svíčková) in diesem historischen Bierhaus."
+          },
+          {
+            "name": "Budweiser Budvar",
+            "tip": "Das unfiltrierte Hefelager direkt in der Brauereigaststätte ist ein Muss."
+          },
+          {
+            "name": "Karpfen nach Budweiser Art",
+            "tip": "Eine lokale Spezialität, die man in vielen traditionellen Restaurants findet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Masné krámy (Hús-piac)",
+            "tip": "Kóstolja meg a hagyományos vadasmarhát (Svíčková) ebben a történelmi sörözőben."
+          },
+          {
+            "name": "Budweiser Budvar",
+            "tip": "A szűretlen élesztős láger sör közvetlenül a sörgyár éttermében kötelező."
+          },
+          {
+            "name": "Budweisi ponty",
+            "tip": "Helyi specialitás, amelyet sok hagyományos étteremben megtalál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Masné krámy (Halele de Carne)",
+            "tip": "Încercați mușchiul de vită tradițional (Svíčková) în această berărie istorică."
+          },
+          {
+            "name": "Budweiser Budvar",
+            "tip": "Berea lager nefiltrată cu drojdie, servită direct la restaurantul fabricii, este obligatorie."
+          },
+          {
+            "name": "Crap în stil Budweis",
+            "tip": "O specialitate locală găsită în multe restaurante tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Masné krámy (Meat Market)",
+            "tip": "Try the traditional sirloin in cream sauce (Svíčková) in this historic beer hall."
+          },
+          {
+            "name": "Budweiser Budvar",
+            "tip": "The unfiltered yeast lager straight from the brewery restaurant is a must-try."
+          },
+          {
+            "name": "Budweis-style Carp",
+            "tip": "A local specialty found in many traditional restaurants."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Maltsch-Ufer",
+            "tip": "Ein ruhiger Weg entlang des kleineren Flusses, perfekt für eine Pause vom Trubel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sokolsky-Insel",
+            "tip": "Eine grüne Oase zwischen Moldau und Maltsch, ideal zum Entspannen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick vom Schwarzen Turm",
+            "tip": "Oben ist es oft ruhiger und der Ausblick ist die beste Belohnung.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Malše folyó partján",
+            "tip": "Csendes útvonal a kisebbik folyó mentén, tökéletes egy kis pihenésre a nyüzsgéstől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sokolský-sziget",
+            "tip": "Zöld oázis a Moldva és a Malše között, ideális a pihenésre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Fekete-toronyból",
+            "tip": "Fent gyakran csendesebb, és a kilátás a legjobb jutalom.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului Malše",
+            "tip": "O potecă liniștită de-a lungul râului mai mic, perfectă pentru o pauză de la agitație.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Insula Sokolský",
+            "tip": "O oază de verdeață între Vltava și Malše, ideală pentru relaxare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere din Turnul Negru",
+            "tip": "Sus este adesea mai liniștit, iar priveliștea este cea mai bună recompensă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along the Malše River bank",
+            "tip": "A quiet path along the smaller river, perfect for a break from the bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sokolský Island",
+            "tip": "A green oasis between the Vltava and Malše rivers, ideal for relaxing.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the Black Tower",
+            "tip": "It's often quieter at the top, and the view is the best reward.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Märkte am Platz",
+            "tip": "Halten Sie Ausschau nach saisonalen Märkten für handgemachte Produkte und lokale Erzeugnisse."
+          },
+          {
+            "name": "Budweiser Souvenirs",
+            "tip": "Der Shop in der Brauerei bietet eine große Auswahl an Geschenken für Bierliebhaber."
+          },
+          {
+            "name": "Koh-i-Noor Hardtmuth",
+            "tip": "Besuchen Sie einen Laden der berühmten Bleistiftmarke, die hier gegründet wurde."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piacok a téren",
+            "tip": "Keresse a szezonális piacokat kézműves termékekért és helyi finomságokért."
+          },
+          {
+            "name": "Budweiser ajándéktárgyak",
+            "tip": "A sörgyár boltja széles választékot kínál ajándékokból a sörkedvelőknek."
+          },
+          {
+            "name": "Koh-i-Noor Hardtmuth",
+            "tip": "Látogasson el a híres ceruzamárka egyik üzletébe, amelyet itt alapítottak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe locale în piață",
+            "tip": "Căutați piețele sezoniere pentru produse artizanale și produse locale."
+          },
+          {
+            "name": "Suveniruri Budweiser",
+            "tip": "Magazinul de la fabrică oferă o gamă largă de cadouri pentru iubitorii de bere."
+          },
+          {
+            "name": "Koh-i-Noor Hardtmuth",
+            "tip": "Vizitați un magazin al celebrului brand de creioane care a fost fondat aici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local markets on the square",
+            "tip": "Look out for seasonal markets for handmade crafts and local produce."
+          },
+          {
+            "name": "Budweiser Souvenirs",
+            "tip": "The brewery shop offers a wide range of gifts for beer lovers."
+          },
+          {
+            "name": "Koh-i-Noor Hardtmuth",
+            "tip": "Visit a store of the famous pencil brand that was founded here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Beachten Sie die Parkgebühren und -zeiten, um Strafzettel zu vermeiden.",
+          "Die Altstadt ist eine Fußgängerzone; das Auto ist nur für die Anreise zu den Clustern nützlich.",
+          "Der Fahrer sollte nach der Brauereitour auf Alkohol verzichten. Kaufen Sie stattdessen Bier für später.",
+          "Planen Sie etwas Pufferzeit für den Verkehr zwischen den Clustern ein."
+        ],
+        "hu": [
+          "Vegye figyelembe a parkolási díjakat és időket a büntetések elkerülése érdekében.",
+          "Az óváros sétálóövezet; az autó csak a klaszterekhez való eljutáshoz hasznos.",
+          "A sofőr a sörgyári túra után tartózkodjon az alkoholtól. Inkább vásároljon sört későbbre.",
+          "Tervezzen némi pufferidőt a klaszterek közötti forgalomra."
+        ],
+        "ro": [
+          "Fiți atenți la taxele și orele de parcare pentru a evita amenzile.",
+          "Centrul vechi este o zonă pietonală; mașina este utilă doar pentru a ajunge la clustere.",
+          "Șoferul ar trebui să se abțină de la alcool după turul fabricii de bere. Cumpărați bere pentru mai târziu.",
+          "Planificați un timp tampon pentru traficul dintre clustere."
+        ],
+        "en": [
+          "Pay attention to parking fees and times to avoid fines.",
+          "The old town is a pedestrian zone; the car is only useful for getting to the clusters.",
+          "The driver should refrain from alcohol after the brewery tour. Buy some beer for later instead.",
+          "Plan for some buffer time for traffic between clusters."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 7.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Hauptplatz (Haltestelle Piaristická)",
+            "hu": "Érkezés a főtérre (Piaristická megálló)",
+            "ro": "Sosire în Piața Principală (stația Piaristická)",
+            "en": "Arrival at Main Square (Piaristická stop)"
+          },
+          "coords": [
+            14.476,
+            48.976
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr für maximale Flexibilität.",
+            "hu": "Vásároljon napijegyet a tömegközlekedéshez a maximális rugalmasság érdekében.",
+            "ro": "Cumpărați un bilet de o zi pentru transportul public pentru flexibilitate maximă.",
+            "en": "Buy a day ticket for public transport for maximum flexibility."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang: Hauptplatz, Rathaus, Schwarzer Turm",
+            "hu": "Séta: Főtér, Városháza, Fekete-torony",
+            "ro": "Plimbare: Piața Principală, Primăria, Turnul Negru",
+            "en": "Walk: Main Square, Town Hall, Black Tower"
+          },
+          "coords": [
+            14.475,
+            48.975
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dieser Cluster ist kompakt und ideal, um zu Fuß erkundet zu werden.",
+            "hu": "Ez a klaszter kompakt és ideális a gyalogos felfedezéshez.",
+            "ro": "Acest cluster este compact și ideal pentru a fi explorat pe jos.",
+            "en": "This cluster is compact and ideal for exploring on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Südböhmisches Museum",
+            "hu": "Dél-Csehországi Múzeum",
+            "ro": "Muzeul Boemiei de Sud",
+            "en": "Museum of South Bohemia"
+          },
+          "coords": [
+            14.48,
+            48.973
+          ],
+          "category": "museums",
+          "arrive_at": "11:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Hauptplatz aus in wenigen Minuten zu Fuß erreichbar.",
+            "hu": "A főtértől néhány perces sétával elérhető.",
+            "ro": "La câteva minute de mers pe jos de piața principală.",
+            "en": "Just a few minutes' walk from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Budweiser Budvar Brauerei (Haltestelle Budvar)",
+            "hu": "Utazás a Budweiser Budvar Sörgyárhoz (Budvar megálló)",
+            "ro": "Călătorie la Fabrica de Bere Budweiser Budvar (stația Budvar)",
+            "en": "Trip to Budweiser Budvar Brewery (Budvar stop)"
+          },
+          "coords": [
+            14.493,
+            48.985
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus der Linie 2 vom Stadtzentrum. Die Haltestelle ist direkt vor der Brauerei.",
+            "hu": "Vegye igénybe a 2-es buszt a városközpontból. A megálló közvetlenül a sörgyár előtt van.",
+            "ro": "Luați autobuzul linia 2 din centrul orașului. Stația este chiar în fața fabricii.",
+            "en": "Take bus line 2 from the city center. The stop is right in front of the brewery."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum und Abendessen",
+            "hu": "Visszatérés a központba és vacsora",
+            "ro": "Întoarcere în centru și cină",
+            "en": "Return to the Center and Dinner"
+          },
+          "coords": [
+            14.4747,
+            48.9747
+          ],
+          "category": "gastro",
+          "arrive_at": "16:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die Busse fahren regelmäßig zurück ins Zentrum, wo Sie eine große Auswahl an Restaurants finden.",
+            "hu": "A buszok rendszeresen közlekednek vissza a központba, ahol éttermek széles választékát találja.",
+            "ro": "Autobuzele circulă regulat înapoi spre centru, unde veți găsi o selecție largă de restaurante.",
+            "en": "Buses run regularly back to the center, where you'll find a wide selection of restaurants."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das effiziente öffentliche Verkehrsnetz von Budweis. Starten Sie mit dem Bus zum Hauptplatz, dem Zentrum des ersten Clusters. Erkunden Sie den Platz, das Rathaus und den Schwarzen Turm zu Fuß. Ein kurzer Spaziergang führt Sie weiter zum Südböhmischen Museum. Nach dem Eintauchen in die Geschichte nehmen Sie einen Bus zum zweiten Cluster: der Budweiser Budvar Brauerei. Die Führung und Verkostung sind ein Höhepunkt des Nachmittags. Anschließend bringt Sie der Bus bequem zurück ins Stadtzentrum, wo Sie den Tag in einem der vielen ausgezeichneten Restaurants ausklingen lassen können.",
+        "hu": "Használja ki Budweis hatékony tömegközlekedési hálózatát. Induljon busszal a főtérre, az első klaszter központjába. Fedezze fel gyalog a teret, a Városházát és a Fekete-tornyot. Egy rövid séta elvezeti a Dél-Csehországi Múzeumhoz. A történelembe való elmerülés után szálljon buszra a második klaszterhez: a Budweiser Budvar Sörgyárhoz. A vezetett túra és a kóstoló a délután fénypontja. Ezután a busz kényelmesen visszaviszi a városközpontba, ahol a napot a számos kiváló étterem egyikében zárhatja.",
+        "ro": "Utilizați rețeaua eficientă de transport public din Budweis. Începeți cu autobuzul spre Piața Principală, centrul primului cluster. Explorați piața, primăria și Turnul Negru pe jos. O scurtă plimbare vă va duce la Muzeul Boemiei de Sud. După imersiunea în istorie, luați un autobuz spre al doilea cluster: fabrica de bere Budweiser Budvar. Turul ghidat și degustarea sunt un punct culminant al după-amiezii. Apoi, autobuzul vă va duce confortabil înapoi în centrul orașului, unde puteți încheia ziua la unul dintre multele restaurante excelente.",
+        "en": "Take advantage of Budweis's efficient public transport network. Start by taking a bus to the main square, the center of the first cluster. Explore the square, the town hall, and the Black Tower on foot. A short walk will take you to the Museum of South Bohemia. After immersing yourself in history, take a bus to the second cluster: the Budweiser Budvar Brewery. The guided tour and tasting are a highlight of the afternoon. Afterwards, the bus will conveniently take you back to the city center, where you can end the day at one of the many excellent restaurants."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Masné krámy (Fleischbänke)",
+            "tip": "Probieren Sie den traditionellen Lendenbraten (Svíčková) in diesem historischen Bierhaus."
+          },
+          {
+            "name": "Budweiser Budvar",
+            "tip": "Das unfiltrierte Hefelager direkt in der Brauereigaststätte ist ein Muss."
+          },
+          {
+            "name": "Karpfen nach Budweiser Art",
+            "tip": "Eine lokale Spezialität, die man in vielen traditionellen Restaurants findet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Masné krámy (Hús-piac)",
+            "tip": "Kóstolja meg a hagyományos vadasmarhát (Svíčková) ebben a történelmi sörözőben."
+          },
+          {
+            "name": "Budweiser Budvar",
+            "tip": "A szűretlen élesztős láger sör közvetlenül a sörgyár éttermében kötelező."
+          },
+          {
+            "name": "Budweisi ponty",
+            "tip": "Helyi specialitás, amelyet sok hagyományos étteremben megtalál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Masné krámy (Halele de Carne)",
+            "tip": "Încercați mușchiul de vită tradițional (Svíčková) în această berărie istorică."
+          },
+          {
+            "name": "Budweiser Budvar",
+            "tip": "Berea lager nefiltrată cu drojdie, servită direct la restaurantul fabricii, este obligatorie."
+          },
+          {
+            "name": "Crap în stil Budweis",
+            "tip": "O specialitate locală găsită în multe restaurante tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Masné krámy (Meat Market)",
+            "tip": "Try the traditional sirloin in cream sauce (Svíčková) in this historic beer hall."
+          },
+          {
+            "name": "Budweiser Budvar",
+            "tip": "The unfiltered yeast lager straight from the brewery restaurant is a must-try."
+          },
+          {
+            "name": "Budweis-style Carp",
+            "tip": "A local specialty found in many traditional restaurants."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Maltsch-Ufer",
+            "tip": "Ein ruhiger Weg entlang des kleineren Flusses, perfekt für eine Pause vom Trubel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sokolsky-Insel",
+            "tip": "Eine grüne Oase zwischen Moldau und Maltsch, ideal zum Entspannen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick vom Schwarzen Turm",
+            "tip": "Oben ist es oft ruhiger und der Ausblick ist die beste Belohnung.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Malše folyó partján",
+            "tip": "Csendes útvonal a kisebbik folyó mentén, tökéletes egy kis pihenésre a nyüzsgéstől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sokolský-sziget",
+            "tip": "Zöld oázis a Moldva és a Malše között, ideális a pihenésre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Fekete-toronyból",
+            "tip": "Fent gyakran csendesebb, és a kilátás a legjobb jutalom.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului Malše",
+            "tip": "O potecă liniștită de-a lungul râului mai mic, perfectă pentru o pauză de la agitație.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Insula Sokolský",
+            "tip": "O oază de verdeață între Vltava și Malše, ideală pentru relaxare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere din Turnul Negru",
+            "tip": "Sus este adesea mai liniștit, iar priveliștea este cea mai bună recompensă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along the Malše River bank",
+            "tip": "A quiet path along the smaller river, perfect for a break from the bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sokolský Island",
+            "tip": "A green oasis between the Vltava and Malše rivers, ideal for relaxing.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the Black Tower",
+            "tip": "It's often quieter at the top, and the view is the best reward.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Märkte am Platz",
+            "tip": "Halten Sie Ausschau nach saisonalen Märkten für handgemachte Produkte und lokale Erzeugnisse."
+          },
+          {
+            "name": "Budweiser Souvenirs",
+            "tip": "Der Shop in der Brauerei bietet eine große Auswahl an Geschenken für Bierliebhaber."
+          },
+          {
+            "name": "Koh-i-Noor Hardtmuth",
+            "tip": "Besuchen Sie einen Laden der berühmten Bleistiftmarke, die hier gegründet wurde."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piacok a téren",
+            "tip": "Keresse a szezonális piacokat kézműves termékekért és helyi finomságokért."
+          },
+          {
+            "name": "Budweiser ajándéktárgyak",
+            "tip": "A sörgyár boltja széles választékot kínál ajándékokból a sörkedvelőknek."
+          },
+          {
+            "name": "Koh-i-Noor Hardtmuth",
+            "tip": "Látogasson el a híres ceruzamárka egyik üzletébe, amelyet itt alapítottak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe locale în piață",
+            "tip": "Căutați piețele sezoniere pentru produse artizanale și produse locale."
+          },
+          {
+            "name": "Suveniruri Budweiser",
+            "tip": "Magazinul de la fabrică oferă o gamă largă de cadouri pentru iubitorii de bere."
+          },
+          {
+            "name": "Koh-i-Noor Hardtmuth",
+            "tip": "Vizitați un magazin al celebrului brand de creioane care a fost fondat aici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local markets on the square",
+            "tip": "Look out for seasonal markets for handmade crafts and local produce."
+          },
+          {
+            "name": "Budweiser Souvenirs",
+            "tip": "The brewery shop offers a wide range of gifts for beer lovers."
+          },
+          {
+            "name": "Koh-i-Noor Hardtmuth",
+            "tip": "Visit a store of the famous pencil brand that was founded here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahrkarten können in Tabakläden (Tabák) oder über mobile Apps gekauft werden.",
+          "Denken Sie daran, Ihr Ticket beim Einsteigen in den Bus oder die Straßenbahn zu entwerten.",
+          "Die Busfahrpläne sind an den Haltestellen ausgehängt. Prüfen Sie die Zeiten für Ihre Rückfahrt.",
+          "Fragen Sie im Hotel nach einer Karte des öffentlichen Nahverkehrs."
+        ],
+        "hu": [
+          "Jegyeket dohányboltokban (Tabák) vagy mobilalkalmazásokon keresztül lehet vásárolni.",
+          "Ne felejtse el érvényesíteni a jegyét, amikor felszáll a buszra vagy villamosra.",
+          "A buszmenetrendek ki vannak függesztve a megállókban. Ellenőrizze a visszautazás időpontjait.",
+          "Kérjen a szállodában egy tömegközlekedési térképet."
+        ],
+        "ro": [
+          "Biletele pot fi cumpărate de la chioșcurile de ziare (Tabák) sau prin aplicații mobile.",
+          "Nu uitați să vă validați biletul la urcarea în autobuz sau tramvai.",
+          "Orarele autobuzelor sunt afișate la stații. Verificați orele pentru călătoria de întoarcere.",
+          "Cereți la hotel o hartă a transportului public."
+        ],
+        "en": [
+          "Tickets can be purchased at tobacco shops (Tabák) or via mobile apps.",
+          "Remember to validate your ticket when boarding the bus or tram.",
+          "Bus schedules are posted at the stops. Check the times for your return journey.",
+          "Ask your hotel for a public transport map."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1263 @@
+{
+  "city_id": "austria-liezen-cities-v2",
+  "anchor": {
+    "name": "Liezen",
+    "coords": [
+      47.5756,
+      14.2403
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptplatz",
+            "hu": "Főtér",
+            "ro": "Piața Principală",
+            "en": "Main Square"
+          },
+          "coords": [
+            47.5756,
+            14.2403
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag hier mit einem Kaffee und beobachten Sie das städtische Leben.",
+            "hu": "Kezdje a napot egy kávéval, és figyelje a város ébredését.",
+            "ro": "Începeți ziua aici cu o cafea și priviți viața orașului.",
+            "en": "Start your day here with a coffee and watch the town life unfold."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Liezen",
+            "hu": "Liezeni Városháza",
+            "ro": "Primăria Liezen",
+            "en": "Liezen Town Hall"
+          },
+          "coords": [
+            47.5761,
+            14.2415
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:35",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Architektur und die lokalen Bekanntmachungen am Eingang.",
+            "hu": "Figyelje meg az építészeti stílust és a bejáratnál lévő helyi hirdetményeket.",
+            "ro": "Observați arhitectura și anunțurile locale de la intrare.",
+            "en": "Pay attention to the architecture and the local announcements at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kriegerdenkmal",
+            "hu": "Háborús Emlékmű",
+            "ro": "Monumentul Eroilor",
+            "en": "War Memorial"
+          },
+          "coords": [
+            47.5748,
+            14.2422
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer, besinnlicher Halt, um der lokalen Geschichte zu gedenken.",
+            "hu": "Egy rövid, elgondolkodtató megálló a helyi történelem tiszteletére.",
+            "ro": "O oprire scurtă, reflexivă, pentru a comemora istoria locală.",
+            "en": "A brief, reflective stop to commemorate local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Vitus",
+            "hu": "Szent Vitus Plébániatemplom",
+            "ro": "Biserica parohială Sf. Vitus",
+            "en": "Parish Church of St. Vitus"
+          },
+          "coords": [
+            47.5742,
+            14.2435
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Innenraum für seine ruhige Atmosphäre und die Glasfenster.",
+            "hu": "Látogasson be a csendes hangulatért és a gyönyörű üvegablakokért.",
+            "ro": "Vizitați interiorul pentru atmosfera sa liniștită și vitraliile sale.",
+            "en": "Visit the interior for its serene atmosphere and stained-glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturhaus Liezen",
+            "hu": "Liezeni Kultúrház",
+            "ro": "Casa de Cultură Liezen",
+            "en": "Liezen Culture House"
+          },
+          "coords": [
+            47.5729,
+            14.2461
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Prüfen Sie das Programm auf lokale Ausstellungen oder Veranstaltungen.",
+            "hu": "Nézze meg a programot, hátha van helyi kiállítás vagy esemény.",
+            "ro": "Verificați programul pentru expoziții sau evenimente locale.",
+            "en": "Check the schedule for any local exhibitions or events."
+          }
+        },
+        {
+          "name": {
+            "de": "Ennsfluss-Promenade",
+            "hu": "Enns-folyó sétánya",
+            "ro": "Promenada râului Enns",
+            "en": "Enns River Promenade"
+          },
+          "coords": [
+            47.5681,
+            14.251
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:30",
+          "stay_min": 105,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Perfekt für einen entspannten Spaziergang am Nachmittag. Bringen Sie ein Buch mit.",
+            "hu": "Tökéletes egy pihentető délutáni sétához. Hozzon magával egy könyvet.",
+            "ro": "Perfect pentru o plimbare relaxantă de după-amiază. Aduceți o carte.",
+            "en": "Perfect for a relaxing afternoon walk. Bring a book."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Liezen am Hauptplatz und genießen Sie die zentraleuropäische Stadtatmosphäre. Nach einem Vormittag voller Kultur und Geschichte in der St.-Vitus-Kirche und dem Kulturhaus, wo Sie vielleicht eine lokale Ausstellung entdecken, ist es Zeit für das Mittagessen. Der Nachmittag ist für einen entspannenden Spaziergang entlang der Enns reserviert, der Ihnen eine Pause vom städtischen Trubel bietet. Schließen Sie den Tag mit einem traditionellen österreichischen Abendessen ab und lassen Sie die Eindrücke dieser charmanten Stadt auf sich wirken.",
+        "hu": "Kezdje a napot Liezen szívében, a Főtéren, élvezve a közép-európai városi hangulatot. A délelőtti kulturális és történelmi feltöltődés után a Szent Vitus-templomban és a Kultúrházban, ahol talán egy helyi kiállítást is elcsíphet, ideje ebédelni. A délután az Enns folyó menti pihentető sétáé, amely kikapcsolódást nyújt a városi nyüzsgésből. Zárja a napot egy hagyományos osztrák vacsorával, átadva magát e bájos város benyomásainak.",
+        "ro": "Începeți ziua în inima orașului Liezen, în Piața Principală, bucurându-vă de atmosfera urbană central-europeană. După o dimineață de cultură și istorie la Biserica Sf. Vitus și Casa de Cultură, unde s-ar putea să descoperiți o expoziție locală, este timpul pentru prânz. După-amiaza este rezervată unei plimbări relaxante de-a lungul râului Enns, oferindu-vă o pauză de la agitația urbană. Încheiați ziua cu o cină tradițională austriacă, reflectând la impresiile acestui oraș fermecător.",
+        "en": "Start your day in the heart of Liezen at the Main Square, enjoying the Central European town atmosphere. After a morning of culture and history at St. Vitus Church and the Culture House, where you might catch a local exhibition, it's time for lunch. The afternoon is reserved for a relaxing walk along the Enns River promenade, offering a break from the urban bustle. Conclude your day with a traditional Austrian dinner, reflecting on the impressions of this charming town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Steirerkasnocken",
+            "tip": "Herzhafte Käsespätzle, ein Muss in der Steiermark."
+          },
+          {
+            "name": "Gasthof 'Zum alten Markt'",
+            "tip": "Traditionelle Küche in einem gemütlichen Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stájer sajtos galuska (Steirerkasnocken)",
+            "tip": "Kiadós sajtos nokedli, kötelező Stájerországban."
+          },
+          {
+            "name": "'Zum alten Markt' Vendéglő",
+            "tip": "Hagyományos konyha, hangulatos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Găluște cu brânză stiriană (Steirerkasnocken)",
+            "tip": "Găluște consistente cu brânză, o specialitate obligatorie în Stiria."
+          },
+          {
+            "name": "Restaurantul 'Zum alten Markt'",
+            "tip": "Bucătărie tradițională într-o atmosferă primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Styrian Cheese Dumplings (Steirerkasnocken)",
+            "tip": "Hearty cheese spaetzle, a must-try in Styria."
+          },
+          {
+            "name": "'Zum alten Markt' Inn",
+            "tip": "Traditional cuisine in a cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ennsfluss-Promenade",
+            "tip": "Ein ruhiger Ort, um dem Rauschen des Flusses zu lauschen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bänke bei der St. Vitus Kirche",
+            "tip": "Ein friedlicher Ort zum Nachdenken.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Enns-folyó sétánya",
+            "tip": "Csendes hely, ahol hallgathatja a folyó zúgását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Padok a Szent Vitus-templomnál",
+            "tip": "Békés hely az elmélkedésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada râului Enns",
+            "tip": "Un loc liniștit pentru a asculta susurul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Băncile de lângă Biserica Sf. Vitus",
+            "tip": "Un loc pașnic pentru reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Enns River Promenade",
+            "tip": "A quiet spot to listen to the rushing river.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Benches at St. Vitus Church",
+            "tip": "A peaceful place for contemplation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bauernmarkt am Hauptplatz",
+            "tip": "Suchen Sie nach lokalen Produkten und Handwerk (oft an Samstagen)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői piac a Főtéren",
+            "tip": "Keressen helyi termékeket és kézműves árukat (gyakran szombatonként)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața agricolă din Piața Principală",
+            "tip": "Căutați produse locale și artizanat (adesea sâmbăta)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farmer's Market on the Main Square",
+            "tip": "Look for local produce and crafts (often on Saturdays)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das gesamte Sightseeing zu Fuß erfolgt.",
+          "Prüfen Sie die Öffnungszeiten des Kulturhauses im Voraus.",
+          "Ein Regenschirm ist immer eine gute Idee in den Alpen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az egész városnézés gyalog történik.",
+          "Előre ellenőrizze a Kultúrház nyitvatartását.",
+          "Az Alpokban egy esernyő mindig jó ötlet."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece toate vizitele se fac pe jos.",
+          "Verificați în avans programul de funcționare al Casei de Cultură.",
+          "O umbrelă este întotdeauna o idee bună în Alpi."
+        ],
+        "en": [
+          "Wear comfortable shoes as all sightseeing is on foot.",
+          "Check the opening hours of the Culture House in advance.",
+          "An umbrella is always a good idea in the Alps."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptplatz & Rathaus",
+            "hu": "Főtér és Városháza",
+            "ro": "Piața Principală și Primăria",
+            "en": "Main Square & Town Hall"
+          },
+          "coords": [
+            47.5758,
+            14.2409
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und erkunden Sie den Platz zu Fuß.",
+            "hu": "Zárja le a biciklit, és fedezze fel a teret gyalog.",
+            "ro": "Legați-vă bicicleta și explorați piața pe jos.",
+            "en": "Lock up your bike and explore the square on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Vitus",
+            "hu": "Szent Vitus Plébániatemplom",
+            "ro": "Biserica parohială Sf. Vitus",
+            "en": "Parish Church of St. Vitus"
+          },
+          "coords": [
+            47.5742,
+            14.2435
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein kurzer Halt, um die spirituelle Atmosphäre aufzusaugen.",
+            "hu": "Egy rövid megálló, hogy magába szívja a spirituális hangulatot.",
+            "ro": "O scurtă oprire pentru a absorbi atmosfera spirituală.",
+            "en": "A quick stop to soak in the spiritual atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturhaus Liezen",
+            "hu": "Liezeni Kultúrház",
+            "ro": "Casa de Cultură Liezen",
+            "en": "Liezen Culture House"
+          },
+          "coords": [
+            47.5729,
+            14.2461
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ideal für eine Pause an einem regnerischen Tag, um eine Ausstellung zu sehen.",
+            "hu": "Ideális egy esős napi megállóhoz, hogy megnézzen egy kiállítást.",
+            "ro": "Ideal pentru o pauză într-o zi ploioasă pentru a vedea o expoziție.",
+            "en": "Ideal for a break on a rainy day to see an exhibition."
+          }
+        },
+        {
+          "name": {
+            "de": "Ennsfluss-Promenade",
+            "hu": "Enns-folyó sétánya",
+            "ro": "Promenada râului Enns",
+            "en": "Enns River Promenade"
+          },
+          "coords": [
+            47.5681,
+            14.251
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Folgen Sie dem Radweg entlang des Flusses für eine malerische Fahrt.",
+            "hu": "Kövesse a folyó menti kerékpárutat egy festői tekerésért.",
+            "ro": "Urmați pista de biciclete de-a lungul râului pentru o plimbare pitorească.",
+            "en": "Follow the bike path along the river for a scenic ride."
+          }
+        },
+        {
+          "name": {
+            "de": "ELI Einkaufszentrum",
+            "hu": "ELI Bevásárlóközpont",
+            "ro": "Centrul Comercial ELI",
+            "en": "ELI Shopping Center"
+          },
+          "coords": [
+            47.5701,
+            14.2388
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein moderner Kontrast zur Altstadt. Gut für einen schnellen Snack.",
+            "hu": "Modern kontraszt az óvároshoz képest. Jó egy gyors harapnivalóhoz.",
+            "ro": "Un contrast modern cu orașul vechi. Bun pentru o gustare rapidă.",
+            "en": "A modern contrast to the old town. Good for a quick snack."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Pyhrn",
+            "hu": "Pyhrn kilátópont",
+            "ro": "Punct de belvedere Pyhrn",
+            "en": "Pyhrn Viewpoint"
+          },
+          "coords": [
+            47.585,
+            14.22
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "15:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Der Anstieg lohnt sich für den Panoramablick über das Tal.",
+            "hu": "Megéri a fáradságot feltekerni a völgyre nyíló panorámáért.",
+            "ro": "Urcușul merită pentru vederea panoramică asupra văii.",
+            "en": "The climb is worth it for the panoramic view over the valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück zum Hauptplatz",
+            "hu": "Vissza a Főtérre",
+            "ro": "Înapoi la Piața Principală",
+            "en": "Return to Main Square"
+          },
+          "coords": [
+            47.5756,
+            14.2403
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour, wo sie begann, und genießen Sie ein wohlverdientes Getränk.",
+            "hu": "Fejezze be a kerékpártúrát ott, ahol elkezdte, és élvezzen egy jól megérdemelt italt.",
+            "ro": "Încheiați turul cu bicicleta acolo unde a început și savurați o băutură binemeritată.",
+            "en": "End your bike tour where it began and enjoy a well-deserved drink."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Liezen auf zwei Rädern. Starten Sie im Zentrum, bevor Sie zur Kirche und zum Kulturhaus radeln. Der Vormittag gipfelt in einer entspannten Fahrt entlang der Enns. Nach dem Mittagessen führt Sie die Tour zu einem modernen Kontrapunkt, dem ELI Einkaufszentrum. Der Höhepunkt des Nachmittags ist der Anstieg zum Aussichtspunkt Pyhrn, der Sie mit einer atemberaubenden Aussicht belohnt. Kehren Sie zum Hauptplatz zurück, um den Tag ausklingen zu lassen.",
+        "hu": "Fedezze fel Liezent két keréken. Induljon a központból, majd tekerjen el a templomhoz és a Kultúrházhoz. A délelőtt egy pihentető Enns-parti biciklizésben csúcsosodik ki. Ebéd után a túra egy modern ellenponthoz, az ELI bevásárlóközponthoz vezet. A délután fénypontja a Pyhrn kilátóhoz való feljutás, amely lélegzetelállító kilátással jutalmazza. Térjen vissza a Főtérre, hogy lezárja a napot.",
+        "ro": "Explorați Liezen pe două roți. Porniți din centru, înainte de a pedala spre biserică și casa de cultură. Dimineața culminează cu o plimbare relaxantă de-a lungul râului Enns. După prânz, turul vă duce la un contrapunct modern, centrul comercial ELI. Punctul culminant al după-amiezii este urcarea la punctul de belvedere Pyhrn, care vă răsplătește cu o priveliște uluitoare. Întoarceți-vă în Piața Principală pentru a încheia ziua.",
+        "en": "Explore Liezen on two wheels. Start in the center before cycling to the church and culture house. The morning culminates in a relaxing ride along the Enns. After lunch, the tour takes you to a modern counterpoint, the ELI shopping center. The highlight of the afternoon is the climb to the Pyhrn viewpoint, which rewards you with a breathtaking view. Return to the Main Square to round off the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Apfelstrudel",
+            "tip": "Ein Klassiker, der nach einer Radtour besonders gut schmeckt."
+          },
+          {
+            "name": "Radler",
+            "tip": "Das perfekte Getränk für Radfahrer - Bier gemischt mit Limonade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Almásrétes (Apfelstrudel)",
+            "tip": "Egy klasszikus, ami különösen jól esik egy biciklitúra után."
+          },
+          {
+            "name": "Radler",
+            "tip": "A tökéletes ital kerékpárosoknak - sör limonádéval keverve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ștrudel cu mere (Apfelstrudel)",
+            "tip": "Un clasic care este deosebit de gustos după un tur cu bicicleta."
+          },
+          {
+            "name": "Radler",
+            "tip": "Băutura perfectă pentru bicicliști - bere amestecată cu limonadă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Apple Strudel (Apfelstrudel)",
+            "tip": "A classic that tastes especially good after a bike tour."
+          },
+          {
+            "name": "Radler",
+            "tip": "The perfect drink for cyclists - beer mixed with lemonade."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Pyhrn",
+            "tip": "Genießen Sie die Stille und den weiten Blick nach dem Aufstieg.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Am Ufer der Enns",
+            "tip": "Finden Sie einen ruhigen Platz abseits des Hauptweges.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pyhrn kilátópont",
+            "tip": "Élvezze a csendet és a széles kilátást a mászás után.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Az Enns partján",
+            "tip": "Keressen egy csendes helyet a főúttól távolabb.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Pyhrn",
+            "tip": "Bucurați-vă de liniște și de priveliștea largă după urcare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pe malul râului Enns",
+            "tip": "Găsiți un loc liniștit departe de poteca principală.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pyhrn Viewpoint",
+            "tip": "Enjoy the silence and the wide view after the climb.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "On the banks of the Enns",
+            "tip": "Find a quiet spot away from the main path.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Sportgeschäfte",
+            "tip": "Für Fahrradzubehör oder Outdoor-Ausrüstung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi sportboltok",
+            "tip": "Kerékpáros kiegészítőkért vagy túrafelszerelésért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine sportive locale",
+            "tip": "Pentru accesorii de biciclete sau echipament de exterior."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local sports shops",
+            "tip": "For bike accessories or outdoor gear."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie ein Fahrradschloss mit.",
+          "Eine Wasserflasche ist unerlässlich, besonders für den Anstieg zum Aussichtspunkt.",
+          "Der Radweg entlang der Enns ist meist flach und für alle Fitnesslevel geeignet."
+        ],
+        "hu": [
+          "Hozzon magával kerékpárzárat.",
+          "A vizes palack elengedhetetlen, különösen a kilátóhoz való emelkedőn.",
+          "Az Enns menti kerékpárút többnyire sík és minden edzettségi szintnek megfelel."
+        ],
+        "ro": [
+          "Aduceți un antifurt pentru bicicletă.",
+          "O sticlă de apă este esențială, mai ales pentru urcarea la punctul de belvedere.",
+          "Pista de biciclete de-a lungul Enns este în mare parte plată și potrivită pentru toate nivelurile de fitness."
+        ],
+        "en": [
+          "Bring a bike lock.",
+          "A water bottle is essential, especially for the climb to the viewpoint.",
+          "The bike path along the Enns is mostly flat and suitable for all fitness levels."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 15.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Aussichtspunkt Pyhrn",
+            "hu": "Parkoló a Pyhrn kilátópontnál",
+            "ro": "Parcare la punctul de belvedere Pyhrn",
+            "en": "Parking at Pyhrn Viewpoint"
+          },
+          "coords": [
+            47.5845,
+            14.2205
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie mit einer beeindruckenden Aussicht, um einen Überblick zu bekommen.",
+            "hu": "Kezdje egy lenyűgöző kilátással, hogy áttekintést kapjon a környékről.",
+            "ro": "Începeți cu o priveliște impresionantă pentru a obține o imagine de ansamblu.",
+            "en": "Start with an impressive view to get an overview of the area."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Zentrum (Cluster Innenstadt)",
+            "hu": "Parkoló a központban (Belvárosi klaszter)",
+            "ro": "Parcare în centru (Cluster Centru)",
+            "en": "Parking in the Center (Downtown Cluster)"
+          },
+          "coords": [
+            47.5765,
+            14.24
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:45",
+          "stay_min": 10,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie die nächsten Stationen zu Fuß.",
+            "hu": "Parkoljon le itt, és fedezze fel a következő állomásokat gyalog.",
+            "ro": "Parcați aici și explorați următoarele opriri pe jos.",
+            "en": "Park here and explore the next few stops on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptplatz & Rathaus",
+            "hu": "Főtér és Városháza",
+            "ro": "Piața Principală și Primăria",
+            "en": "Main Square & Town Hall"
+          },
+          "coords": [
+            47.5756,
+            14.2403
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Herz der Stadt, ideal für einen ersten Eindruck.",
+            "hu": "A város szíve, ideális az első benyomásokhoz.",
+            "ro": "Inima orașului, ideală pentru o primă impresie.",
+            "en": "The heart of the city, ideal for a first impression."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Vitus",
+            "hu": "Szent Vitus Plébániatemplom",
+            "ro": "Biserica parohială Sf. Vitus",
+            "en": "Parish Church of St. Vitus"
+          },
+          "coords": [
+            47.5742,
+            14.2435
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Ort der Ruhe und Besinnung inmitten der Stadt.",
+            "hu": "A nyugalom és az elmélyülés helye a város közepén.",
+            "ro": "Un loc de liniște și reculegere în mijlocul orașului.",
+            "en": "A place of peace and contemplation in the middle of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "ELI Einkaufszentrum (Cluster Shopping)",
+            "hu": "ELI Bevásárlóközpont (Vásárló klaszter)",
+            "ro": "Centrul Comercial ELI (Cluster Cumpărături)",
+            "en": "ELI Shopping Center (Shopping Cluster)"
+          },
+          "coords": [
+            47.5701,
+            14.2388
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Gut für eine Mittagspause und um dem Wetter zu entfliehen.",
+            "hu": "Jó választás ebédidőre és hogy elmeneküljön az időjárás elől.",
+            "ro": "Bun pentru o pauză de prânz și pentru a scăpa de vreme.",
+            "en": "Good for a lunch break and to escape the weather."
+          }
+        },
+        {
+          "name": {
+            "de": "Ennsfluss-Promenade (Cluster Natur)",
+            "hu": "Enns-folyó sétánya (Természet klaszter)",
+            "ro": "Promenada râului Enns (Cluster Natură)",
+            "en": "Enns River Promenade (Nature Cluster)"
+          },
+          "coords": [
+            47.5681,
+            14.251
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und genießen Sie einen langen Spaziergang am Flussufer.",
+            "hu": "Parkoljon a közelben, és élvezzen egy hosszú sétát a folyóparton.",
+            "ro": "Parcați în apropiere și bucurați-vă de o plimbare lungă pe malul râului.",
+            "en": "Park nearby and enjoy a long walk along the riverbank."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Fluss",
+            "hu": "Séta a folyóparton",
+            "ro": "Plimbare pe râu",
+            "en": "River Walk"
+          },
+          "coords": [
+            47.567,
+            14.253
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:30",
+          "stay_min": 49,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Finden Sie eine Bank und genießen Sie die Aussicht.",
+            "hu": "Keressen egy padot, és élvezze a kilátást.",
+            "ro": "Găsiți o bancă și bucurați-vă de priveliște.",
+            "en": "Find a bench and enjoy the view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto haben Sie die Flexibilität, Liezen und seine Umgebung vollständig zu erkunden. Beginnen Sie am Aussichtspunkt Pyhrn für eine spektakuläre Einführung. Fahren Sie dann ins Zentrum, parken Sie und entdecken Sie den historischen Kern zu Fuß. Der Vormittag ist der Kultur gewidmet. Zum Mittagessen und für einen Einkaufsbummel fahren Sie zum ELI Einkaufszentrum. Den Nachmittag verbringen Sie in der Natur bei einem ausgedehnten Spaziergang entlang der Enns, bevor Sie den Tag gemütlich ausklingen lassen.",
+        "hu": "Az autó rugalmasságot biztosít Liezen és környéke teljes felfedezéséhez. Kezdje a Pyhrn kilátónál egy látványos bevezetővel. Ezután hajtson be a központba, parkoljon le, és fedezze fel gyalog a történelmi magot. A délelőtt a kultúráé. Ebédelni és vásárolni az ELI bevásárlóközpontba hajtson. A délutánt a természetben töltse egy hosszú sétával az Enns mentén, mielőtt kényelmesen lezárja a napot.",
+        "ro": "Cu mașina, aveți flexibilitatea de a explora pe deplin Liezen și împrejurimile sale. Începeți de la punctul de belvedere Pyhrn pentru o introducere spectaculoasă. Apoi, conduceți spre centru, parcați și explorați nucleul istoric pe jos. Dimineața este dedicată culturii. Pentru prânz și cumpărături, mergeți la centrul comercial ELI. Petreceți după-amiaza în natură cu o plimbare extinsă de-a lungul râului Enns înainte de a încheia ziua într-un mod relaxat.",
+        "en": "By car, you have the flexibility to fully explore Liezen and its surroundings. Start at the Pyhrn viewpoint for a spectacular introduction. Then, drive to the center, park, and discover the historic core on foot. The morning is dedicated to culture. For lunch and some shopping, drive to the ELI Shopping Center. Spend the afternoon in nature with an extensive walk along the Enns before ending the day leisurely."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Backhendlsalat",
+            "tip": "Ein leichterer steirischer Klassiker, perfekt für ein Mittagessen."
+          },
+          {
+            "name": "Hofladen-Produkte",
+            "tip": "Suchen Sie nach lokalen Bauernhöfen für authentische Snacks."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rántott csirkés saláta (Backhendlsalat)",
+            "tip": "Egy könnyebb stájer klasszikus, tökéletes ebédre."
+          },
+          {
+            "name": "Tanyasi boltok termékei",
+            "tip": "Keressen helyi gazdaságokat autentikus harapnivalókért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Salată cu pui pane (Backhendlsalat)",
+            "tip": "Un clasic stirian mai ușor, perfect pentru prânz."
+          },
+          {
+            "name": "Produse de la fermă",
+            "tip": "Căutați ferme locale pentru gustări autentice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fried Chicken Salad (Backhendlsalat)",
+            "tip": "A lighter Styrian classic, perfect for lunch."
+          },
+          {
+            "name": "Farm shop products",
+            "tip": "Look for local farms for authentic snacks."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Pyhrn",
+            "tip": "Der beste Ort für Panoramablicke und Ruhe am Morgen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Abgelegene Abschnitte der Enns-Promenade",
+            "tip": "Gehen Sie weiter als die meisten, um absolute Stille zu finden.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pyhrn kilátópont",
+            "tip": "A legjobb hely a panorámás kilátáshoz és a reggeli csendhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Az Enns-sétány távoli szakaszai",
+            "tip": "Menjen tovább a legtöbb embernél, hogy teljes csendet találjon.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Pyhrn",
+            "tip": "Cel mai bun loc pentru vederi panoramice și liniște dimineața.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Secțiuni izolate ale promenadei Enns",
+            "tip": "Mergeți mai departe decât majoritatea pentru a găsi liniște absolută.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pyhrn Viewpoint",
+            "tip": "The best place for panoramic views and morning quiet.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Secluded sections of the Enns promenade",
+            "tip": "Walk further than most to find absolute silence.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "ELI Einkaufszentrum",
+            "tip": "Eine große Auswahl an Geschäften unter einem Dach."
+          },
+          {
+            "name": "Souvenirs im Stadtzentrum",
+            "tip": "Kleine Läden rund um den Hauptplatz bieten lokale Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "ELI Bevásárlóközpont",
+            "tip": "Üzletek széles választéka egy helyen."
+          },
+          {
+            "name": "Szuvenírek a városközpontban",
+            "tip": "A Főtér körüli kis boltok helyi emléktárgyakat kínálnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial ELI",
+            "tip": "O selecție largă de magazine sub un singur acoperiș."
+          },
+          {
+            "name": "Suveniruri în centrul orașului",
+            "tip": "Micile magazine din jurul Pieței Principale oferă suveniruri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "ELI Shopping Center",
+            "tip": "A wide selection of shops under one roof."
+          },
+          {
+            "name": "Souvenirs in the city center",
+            "tip": "Small shops around the main square offer local mementos."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkgebühren im Stadtzentrum können anfallen.",
+          "Planen Sie genügend Zeit für den Verkehr ein, besonders an Wochentagen.",
+          "Nutzen Sie eine Navigations-App, um die besten Parkplätze zu finden."
+        ],
+        "hu": [
+          "A városközpontban parkolási díjak merülhetnek fel.",
+          "Tervezzen elegendő időt a forgalomra, különösen hétköznap.",
+          "Használjon navigációs alkalmazást a legjobb parkolóhelyek megtalálásához."
+        ],
+        "ro": [
+          "Se pot aplica taxe de parcare în centrul orașului.",
+          "Planificați suficient timp pentru trafic, în special în zilele lucrătoare.",
+          "Utilizați o aplicație de navigație pentru a găsi cele mai bune locuri de parcare."
+        ],
+        "en": [
+          "Parking fees may apply in the city center.",
+          "Allow enough time for traffic, especially on weekdays.",
+          "Use a navigation app to find the best parking spots."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft Busbahnhof (Cluster Zentrum)",
+            "hu": "Érkezés a buszpályaudvarra (Központi klaszter)",
+            "ro": "Sosire la autogară (Cluster Centru)",
+            "en": "Arrival at Bus Station (Center Cluster)"
+          },
+          "coords": [
+            47.5768,
+            14.2405
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Orientieren Sie sich und machen Sie sich bereit für einen Tag voller Entdeckungen.",
+            "hu": "Tájékozódjon, és készüljön fel egy felfedezésekkel teli napra.",
+            "ro": "Orientați-vă și pregătiți-vă pentru o zi de explorare.",
+            "en": "Get your bearings and get ready for a day of exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptplatz & Rathaus",
+            "hu": "Főtér és Városháza",
+            "ro": "Piața Principală și Primăria",
+            "en": "Main Square & Town Hall"
+          },
+          "coords": [
+            47.5756,
+            14.2403
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Busbahnhof, um Ihre Erkundung zu beginnen.",
+            "hu": "Egy rövid séta a buszpályaudvartól a felfedezés megkezdéséhez.",
+            "ro": "O scurtă plimbare de la autogară pentru a începe explorarea.",
+            "en": "A short walk from the bus station to start your exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Vitus",
+            "hu": "Szent Vitus Plébániatemplom",
+            "ro": "Biserica parohială Sf. Vitus",
+            "en": "Parish Church of St. Vitus"
+          },
+          "coords": [
+            47.5742,
+            14.2435
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur, bevor Sie Ihren Spaziergang fortsetzen.",
+            "hu": "Csodálja meg az építészetet, mielőtt folytatná a sétát.",
+            "ro": "Admirați arhitectura înainte de a continua plimbarea.",
+            "en": "Admire the architecture before continuing your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum ELI Einkaufszentrum",
+            "hu": "Utazás az ELI bevásárlóközponthoz",
+            "ro": "Călătorie la Centrul Comercial ELI",
+            "en": "Trip to ELI Shopping Center"
+          },
+          "coords": [
+            47.5701,
+            14.2388
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus. Eine gute Gelegenheit für das Mittagessen.",
+            "hu": "Szálljon fel egy helyi buszra. Jó lehetőség az ebédre.",
+            "ro": "Luați un autobuz local. O bună oportunitate pentru prânz.",
+            "en": "Take a local bus. A good opportunity for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Ennsfluss-Promenade",
+            "hu": "Utazás az Enns-folyó sétányához",
+            "ro": "Călătorie la Promenada râului Enns",
+            "en": "Trip to Enns River Promenade"
+          },
+          "coords": [
+            47.5681,
+            14.251
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 4.8,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein weiterer Bus bringt Sie in die Nähe des Flusses für einen entspannten Nachmittag.",
+            "hu": "Egy másik busz elviszi a folyó közelébe egy pihentető délutánra.",
+            "ro": "Un alt autobuz vă duce aproape de râu pentru o după-amiază relaxantă.",
+            "en": "Another bus takes you near the river for a relaxing afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr zum Busbahnhof",
+            "hu": "Visszatérés a buszpályaudvarra",
+            "ro": "Întoarcere la autogară",
+            "en": "Return to Bus Station"
+          },
+          "coords": [
+            47.5768,
+            14.2405
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit für Ihre Rückfahrt ein.",
+            "hu": "Tervezzen elegendő időt a visszautazásra.",
+            "ro": "Planificați-vă suficient timp pentru călătoria de întoarcere.",
+            "en": "Allow plenty of time for your return journey."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Nutzung öffentlicher Verkehrsmittel in Liezen ist eine effiziente Möglichkeit, die Stadt zu sehen. Beginnen Sie Ihren Tag im Zentrum, das Sie nach Ihrer Ankunft am Busbahnhof zu Fuß erkunden. Der Vormittag steht im Zeichen von Kultur und Geschichte. Eine kurze Busfahrt bringt Sie zum Mittagessen ins ELI Einkaufszentrum. Am Nachmittag bringt Sie ein weiterer Bus zur Enns-Promenade, wo Sie die Natur genießen können. Beenden Sie Ihren Tag mit der Rückkehr zum Busbahnhof, bereit für Ihre Weiterreise.",
+        "hu": "A tömegközlekedés használata Liezenben hatékony módja a város megtekintésének. Kezdje a napot a központban, amelyet a buszpályaudvarra érkezés után gyalog fedezhet fel. A délelőtt a kultúra és a történelem jegyében telik. Egy rövid buszozás elviszi ebédelni az ELI bevásárlóközpontba. Délután egy másik busz az Enns-sétányhoz viszi, ahol élvezheti a természetet. Fejezze be a napot a buszpályaudvarra való visszatéréssel, készen az utazás folytatására.",
+        "ro": "Utilizarea transportului public în Liezen este o modalitate eficientă de a vedea orașul. Începeți ziua în centru, explorându-l pe jos după sosirea la autogară. Dimineața este dedicată culturii și istoriei. O scurtă călătorie cu autobuzul vă duce la centrul comercial ELI pentru prânz. După-amiaza, un alt autobuz vă va duce la promenada Enns pentru a vă bucura de natură. Încheiați ziua întorcându-vă la autogară, gata pentru următoarea călătorie.",
+        "en": "Using public transport in Liezen is an efficient way to see the city. Start your day in the center, exploring on foot after arriving at the bus station. The morning is dedicated to culture and history. A short bus ride takes you to the ELI shopping center for lunch. In the afternoon, another bus will take you to the Enns promenade to enjoy nature. End your day by returning to the bus station, ready for your onward journey."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Leberknödelsuppe",
+            "tip": "Eine wärmende Suppe, ideal vor einer Busfahrt."
+          },
+          {
+            "name": "Food Court im ELI",
+            "tip": "Eine schnelle und einfache Option für das Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Májgombócleves (Leberknödelsuppe)",
+            "tip": "Egy melengető leves, ideális buszozás előtt."
+          },
+          {
+            "name": "Ételudvar az ELI-ben",
+            "tip": "Gyors és egyszerű ebédlehetőség."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supă cu găluște de ficat (Leberknödelsuppe)",
+            "tip": "O supă caldă, ideală înainte de o călătorie cu autobuzul."
+          },
+          {
+            "name": "Food court la ELI",
+            "tip": "O opțiune rapidă și ușoară pentru prânz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Liver Dumpling Soup (Leberknödelsuppe)",
+            "tip": "A warming soup, ideal before a bus ride."
+          },
+          {
+            "name": "Food court at ELI",
+            "tip": "A quick and easy option for lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Bank an der Enns",
+            "tip": "Warten Sie auf Ihren Bus in ruhiger Umgebung.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhof bei St. Vitus",
+            "tip": "Ein unerwartet friedlicher Ort.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy pad az Enns partján",
+            "tip": "Várja a buszt csendes környezetben.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Temető a Szent Vitus mellett",
+            "tip": "Váratlanul békés hely.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă pe malul Enns",
+            "tip": "Așteptați autobuzul într-un cadru liniștit.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul de lângă Sf. Vitus",
+            "tip": "Un loc neașteptat de pașnic.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench on the Enns",
+            "tip": "Wait for your bus in a quiet setting.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cemetery at St. Vitus",
+            "tip": "An unexpectedly peaceful place.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Für Last-Minute-Reisebedarf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszpályaudvaron",
+            "tip": "Utolsó pillanatos utazási kellékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la autogară",
+            "tip": "Pentru necesități de călătorie de ultim moment."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus station",
+            "tip": "For last-minute travel necessities."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die Busse, um Geld zu sparen.",
+          "Überprüfen Sie den Busfahrplan im Voraus online.",
+          "Haben Sie Kleingeld für Tickets parat, die Sie beim Fahrer kaufen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszokra, hogy pénzt takarítson meg.",
+          "Ellenőrizze előre online a buszmenetrendet.",
+          "Készítsen elő aprópénzt a sofőrnél vásárolt jegyekhez."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru autobuze pentru a economisi bani.",
+          "Verificați programul autobuzelor online în avans.",
+          "Aveți la îndemână mărunțiș pentru biletele cumpărate de la șofer."
+        ],
+        "en": [
+          "Buy a day pass for the buses to save money.",
+          "Check the bus schedule online in advance.",
+          "Have small change ready for tickets bought from the driver."
+        ]
+      }
+    }
+  }
+}

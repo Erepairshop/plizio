@@ -1,0 +1,1239 @@
+{
+  "city_id": "moldova-bender-cities-v2",
+  "anchor": {
+    "name": "Bender",
+    "coords": [
+      46.8322,
+      29.4792
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Verklärungskathedrale",
+            "hu": "Színeváltozás-székesegyház",
+            "ro": "Catedrala Schimbarea la Față",
+            "en": "Transfiguration Cathedral"
+          },
+          "coords": [
+            29.475,
+            46.834
+          ],
+          "category": "churches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beachten Sie die neoklassizistischen Fresken und die beeindruckende Ikonostase.",
+            "hu": "Figyelje meg a neoklasszicista freskókat és a lenyűgöző ikonosztázt.",
+            "ro": "Observați frescele neoclasice și iconostasul impresionant.",
+            "en": "Note the neoclassical frescoes and the impressive iconostasis."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum Bender",
+            "hu": "Benderi Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie și Etnografie din Bender",
+            "en": "Bender Museum of Local History"
+          },
+          "coords": [
+            29.473,
+            46.833
+          ],
+          "category": "museums",
+          "arrive_at": "10:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Die Ausstellungen zur Geschichte der Festung sind besonders aufschlussreich.",
+            "hu": "Az erőd történetét bemutató kiállítások különösen tanulságosak.",
+            "ro": "Expozițiile despre istoria cetății sunt deosebit de edificatoare.",
+            "en": "The exhibitions on the history of the fortress are particularly insightful."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Bender",
+            "hu": "Benderi erőd",
+            "ro": "Cetatea Bender (Tighina)",
+            "en": "Bender Fortress"
+          },
+          "coords": [
+            29.485,
+            46.838
+          ],
+          "category": "castles",
+          "arrive_at": "12:28",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die weitläufigen Mauern für einen Panoramablick auf den Dnjestr.",
+            "hu": "Fedezze fel a kiterjedt falakat, ahonnan panorámás kilátás nyílik a Dnyeszterre.",
+            "ro": "Explorați zidurile extinse pentru o vedere panoramică asupra Nistrului.",
+            "en": "Explore the extensive walls for a panoramic view of the Dniester River."
+          }
+        },
+        {
+          "name": {
+            "de": "Alexander-Newski-Kathedrale",
+            "hu": "Alekszandr Nyevszkij-székesegyház",
+            "ro": "Catedrala Alexandr Nevski",
+            "en": "Alexander Nevsky Cathedral"
+          },
+          "coords": [
+            29.483,
+            46.837
+          ],
+          "category": "churches",
+          "arrive_at": "14:04",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein restauriertes Juwel innerhalb des Festungskomplexes, perfekt für einen ruhigen Moment.",
+            "hu": "Egy restaurált gyöngyszem az erődkomplexumon belül, tökéletes egy csendes pillanatra.",
+            "ro": "O bijuterie restaurată în cadrul complexului cetății, perfectă pentru un moment de liniște.",
+            "en": "A restored gem within the fortress complex, perfect for a quiet moment."
+          }
+        },
+        {
+          "name": {
+            "de": "Militär-Gedenkstätte",
+            "hu": "Katonai Emlékhely",
+            "ro": "Complexul Memorial de Glorie Militară",
+            "en": "Military Glory Memorial"
+          },
+          "coords": [
+            29.482,
+            46.839
+          ],
+          "category": "historical",
+          "arrive_at": "14:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein ergreifender Ort, der den verschiedenen Konflikten in der Geschichte der Region gewidmet ist.",
+            "hu": "Megrendítő hely, amelyet a régió történelmének különböző konfliktusainak szenteltek.",
+            "ro": "Un loc emoționant dedicat diverselor conflicte din istoria regiunii.",
+            "en": "A poignant site dedicated to the various conflicts in the region's history."
+          }
+        },
+        {
+          "name": {
+            "de": "Dnjestr-Promenade",
+            "hu": "Dnyeszter-sétány",
+            "ro": "Promenada de pe Nistru",
+            "en": "Dniester Promenade"
+          },
+          "coords": [
+            29.488,
+            46.835
+          ],
+          "category": "promenades",
+          "arrive_at": "16:09",
+          "stay_min": 90,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Tag mit einem entspannten Spaziergang am Flussufer ausklingen zu lassen.",
+            "hu": "Tökéletes hely a nap lezárására egy pihentető sétával a folyóparton.",
+            "ro": "Locul perfect pentru a încheia ziua cu o plimbare relaxantă pe malul râului.",
+            "en": "The perfect spot to end the day with a relaxing stroll along the riverbank."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im spirituellen Herzen von Bender an der Verklärungskathedrale. Tauchen Sie im Heimatmuseum in die vielschichtige Geschichte der Stadt ein. Am Nachmittag erobern Sie die mächtige Festung Bender, erkunden ihre Nebengebäude und zollen an der Militär-Gedenkstätte Tribut. Lassen Sie den Tag mit einem friedlichen Spaziergang entlang der Dnjestr-Promenade ausklingen und genießen Sie die ruhige Atmosphäre.",
+        "hu": "Kezdje a napot Bender spirituális szívében, a Színeváltozás-székesegyháznál. Merüljön el a város gazdag történelmében a helytörténeti múzeumban. Délután hódítsa meg a hatalmas benderi erődöt, fedezze fel a hozzá tartozó épületeket és rója le tiszteletét a katonai emlékhelynél. Zárja a napot egy békés sétával a Dnyeszter-sétányon, élvezve a nyugodt légkört.",
+        "ro": "Începeți ziua în inima spirituală a Benderului, la Catedrala Schimbarea la Față. Aprofundați istoria complexă a orașului la Muzeul de Istorie. După-amiaza, cuceriți impunătoarea Cetate Bender, explorați anexele sale și aduceți un omagiu la Memorialul Gloriei Militare. Încheiați ziua cu o plimbare liniștită de-a lungul promenadei Nistrului, bucurându-vă de atmosfera senină.",
+        "en": "Start your day in the spiritual heart of Bender at the Transfiguration Cathedral. Delve into the city's layered history at the Museum of Local History. In the afternoon, conquer the mighty Bender Fortress, explore its adjacent structures, and pay respects at the Military Glory Memorial. Conclude your day with a peaceful walk along the Dniester Promenade, soaking in the serene atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Plăcinte",
+            "tip": "Probieren Sie diese traditionellen Gebäcke mit verschiedenen Füllungen wie Käse oder Kartoffeln."
+          },
+          {
+            "name": "Mămăligă",
+            "tip": "Ein herzhaftes Maismehl-Gericht, ähnlich der Polenta, oft mit Käse und saurer Sahne serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plăcinte",
+            "tip": "Kóstolja meg ezeket a hagyományos péksüteményeket különféle töltelékekkel, például túróval vagy krumplival."
+          },
+          {
+            "name": "Mămăligă",
+            "tip": "Kiadós kukoricaliszt-étel, hasonló a puliszkához, gyakran sajttal és tejföllel tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plăcinte",
+            "tip": "Încercați aceste produse de patiserie tradiționale cu diverse umpluturi, precum brânză sau cartofi."
+          },
+          {
+            "name": "Mămăligă",
+            "tip": "O mâncare consistentă din mălai, asemănătoare cu polenta, servită adesea cu brânză și smântână."
+          }
+        ],
+        "en": [
+          {
+            "name": "Plăcinte",
+            "tip": "Try these traditional pastries with various fillings like cheese or potatoes."
+          },
+          {
+            "name": "Mămăligă",
+            "tip": "A hearty cornmeal dish similar to polenta, often served with cheese and sour cream."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Dnjestr-Ufer",
+            "tip": "Finden Sie eine ruhige Bank entlang der Promenade, um den Fluss zu beobachten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Innenhof der Festung",
+            "tip": "Abseits der Hauptwege bietet der weite Innenhof ruhige Ecken.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dnyeszter-part",
+            "tip": "Keressen egy csendes padot a sétány mentén, és figyelje a folyót.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Az erőd udvara",
+            "tip": "A fő utaktól távol, a tágas udvar csendes zugokat kínál.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Nistrului",
+            "tip": "Găsiți o bancă liniștită de-a lungul promenadei pentru a privi râul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea interioară a cetății",
+            "tip": "Departe de cărările principale, curtea vastă oferă colțuri liniștite.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dniester Riverbank",
+            "tip": "Find a quiet bench along the promenade to watch the river.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fortress Courtyard",
+            "tip": "Away from the main paths, the vast courtyard offers quiet corners.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Märkten für handgemachte Souvenirs und lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen helyi piacokat kézzel készített szuvenírekért és helyi termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați piețele locale pentru suveniruri artizanale și produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for local markets for handmade souvenirs and local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Halten Sie Wasser bereit, besonders an warmen Tagen.",
+          "Die meisten Sehenswürdigkeiten liegen nahe beieinander.",
+          "Einige Orte akzeptieren möglicherweise nur Bargeld."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Legyen Önnél víz, különösen meleg napokon.",
+          "A legtöbb látnivaló közel van egymáshoz.",
+          "Néhány helyen lehet, hogy csak készpénzt fogadnak el."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Aveți apă la dumneavoastră, mai ales în zilele călduroase.",
+          "Majoritatea atracțiilor sunt apropiate una de cealaltă.",
+          "Unele locuri pot accepta doar numerar."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Keep water with you, especially on warm days.",
+          "Most of the main sights are located close to each other.",
+          "Some places may only accept cash."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bender-Bahnhof",
+            "hu": "Benderi pályaudvar",
+            "ro": "Gara Bender",
+            "en": "Bender Train Station"
+          },
+          "coords": [
+            29.465,
+            46.831
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur aus der Zarenzeit dieses historischen Verkehrsknotenpunkts.",
+            "hu": "Csodálja meg e történelmi közlekedési csomópont cári kori építészetét.",
+            "ro": "Admirați arhitectura din epoca țaristă a acestui nod de transport istoric.",
+            "en": "Admire the Tsarist-era architecture of this historic transportation hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Verklärungskathedrale",
+            "hu": "Színeváltozás-székesegyház",
+            "ro": "Catedrala Schimbarea la Față",
+            "en": "Transfiguration Cathedral"
+          },
+          "coords": [
+            29.475,
+            46.834
+          ],
+          "category": "churches",
+          "arrive_at": "09:38",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad in der Nähe ab und nehmen Sie sich Zeit für das Innere.",
+            "hu": "Zárja le a biciklijét a közelben, és szánjon időt a belső tér megtekintésére.",
+            "ro": "Legați-vă bicicleta în apropiere și acordați-vă timp pentru a explora interiorul.",
+            "en": "Lock your bike nearby and take your time to appreciate the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum Bender",
+            "hu": "Benderi Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie și Etnografie",
+            "en": "Bender Museum of Local History"
+          },
+          "coords": [
+            29.473,
+            46.833
+          ],
+          "category": "museums",
+          "arrive_at": "10:31",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Eine großartige Pause von der Radtour, um tief in die lokale Kultur einzutauchen.",
+            "hu": "Nagyszerű szünet a biciklizésben, hogy elmerüljön a helyi kultúrában.",
+            "ro": "O pauză excelentă de la ciclism pentru a aprofunda cultura locală.",
+            "en": "A great break from cycling to dive deep into the local culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Bender",
+            "hu": "Benderi erőd",
+            "ro": "Cetatea Bender (Tighina)",
+            "en": "Bender Fortress"
+          },
+          "coords": [
+            29.485,
+            46.838
+          ],
+          "category": "castles",
+          "arrive_at": "12:12",
+          "stay_min": 90,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Haupttor, aber seien Sie bereit, Ihr Fahrrad für die Erkundung des riesigen Geländes abzustellen.",
+            "hu": "Tekerjen a főkapuig, de készüljön fel rá, hogy a hatalmas terület felfedezéséhez le kell tennie a kerékpárt.",
+            "ro": "Pedalați până la poarta principală, dar fiți pregătiți să lăsați bicicleta pentru a explora terenul vast.",
+            "en": "Cycle to the main gate, but be prepared to park your bike to explore the vast grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Alexander-Newski-Kathedrale",
+            "hu": "Alekszandr Nyevszkij-székesegyház",
+            "ro": "Catedrala Alexandr Nevski",
+            "en": "Alexander Nevsky Cathedral"
+          },
+          "coords": [
+            29.483,
+            46.837
+          ],
+          "category": "churches",
+          "arrive_at": "13:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nur eine kurze Radtour vom Hauptbereich der Festung entfernt.",
+            "hu": "Csak egy rövid bicikliút az erőd fő részétől.",
+            "ro": "La doar o scurtă plimbare cu bicicleta de zona principală a cetății.",
+            "en": "Just a short bike ride from the main fortress area."
+          }
+        },
+        {
+          "name": {
+            "de": "Militär-Gedenkstätte",
+            "hu": "Katonai Emlékhely",
+            "ro": "Complexul Memorial de Glorie Militară",
+            "en": "Military Glory Memorial"
+          },
+          "coords": [
+            29.482,
+            46.839
+          ],
+          "category": "historical",
+          "arrive_at": "14:19",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein Ort der Besinnung, leicht mit dem Fahrrad vom Festungshügel aus erreichbar.",
+            "hu": "Az elmélkedés helye, könnyen megközelíthető kerékpárral az erőddombról.",
+            "ro": "Un loc de reflecție, ușor accesibil cu bicicleta de pe dealul cetății.",
+            "en": "A place for reflection, easily reachable by bike from the fortress hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Dnjestr-Promenade",
+            "hu": "Dnyeszter-sétány",
+            "ro": "Promenada de pe Nistru",
+            "en": "Dniester Promenade"
+          },
+          "coords": [
+            29.488,
+            46.835
+          ],
+          "category": "promenades",
+          "arrive_at": "15:10",
+          "stay_min": 105,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.9,
+          "tip_5lang": {
+            "de": "Perfekt für eine gemütliche Radtour am Abend entlang des Flusses.",
+            "hu": "Tökéletes egy kellemes esti kerékpártúrához a folyó mentén.",
+            "ro": "Perfect pentru o plimbare relaxantă cu bicicleta seara, de-a lungul râului.",
+            "en": "Perfect for a leisurely evening cycle along the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am historischen Bahnhof von Bender und radeln Sie dann ins Stadtzentrum zur prächtigen Verklärungskathedrale. Nach einem tiefen Einblick in die Geschichte im Heimatmuseum geht es bergauf zur imposanten Festung Bender. Erkunden Sie den Festungskomplex, einschließlich der Alexander-Newski-Kathedrale und der Militär-Gedenkstätte. Beenden Sie Ihre Tour mit einer entspannten Fahrt entlang der Dnjestr-Promenade, während die Sonne untergeht.",
+        "hu": "Kezdje kerékpártúráját a történelmi benderi pályaudvarnál, majd tekerjen be a városközpontba a csodálatos Színeváltozás-székesegyházhoz. Miután a helytörténeti múzeumban elmélyült a történelemben, induljon felfelé az impozáns benderi erőd felé. Fedezze fel az erődkomplexumot, beleértve az Alekszandr Nyevszkij-székesegyházat és a katonai emlékhelyet. Zárja a túrát egy pihentető tekeréssel a Dnyeszter-sétányon, miközben a nap lenyugszik.",
+        "ro": "Începeți turul cu bicicleta de la gara istorică din Bender, apoi pedalați spre centrul orașului la magnifica Catedrală Schimbarea la Față. După o incursiune în istorie la muzeul local, urcați spre impunătoarea Cetate Bender. Explorați complexul cetății, inclusiv Catedrala Alexandr Nevski și Memorialul Gloriei Militare. Încheiați turul cu o plimbare relaxantă de-a lungul promenadei Nistrului la apus.",
+        "en": "Kick off your cycling tour at the historic Bender Train Station, then pedal to the city center to the magnificent Transfiguration Cathedral. After a deep dive into history at the local museum, head uphill to the imposing Bender Fortress. Explore the fortress complex, including the Alexander Nevsky Cathedral and the Military Glory Memorial. Finish your tour with a relaxing ride along the Dniester Promenade as the sun sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kvass",
+            "tip": "Ein erfrischendes, fermentiertes Getränk, das an Straßenständen verkauft wird und perfekt für eine Radpause ist."
+          },
+          {
+            "name": "Grătar",
+            "tip": "Lokale Grillgerichte, die Energie für Ihre Fahrt liefern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kvasz",
+            "tip": "Frissítő, erjesztett ital, amelyet utcai árusoknál kapni, tökéletes egy biciklis pihenőhöz."
+          },
+          {
+            "name": "Grătar",
+            "tip": "Helyi grillételek, amelyek energiát adnak a tekeréshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cvas",
+            "tip": "O băutură răcoritoare, fermentată, vândută la tarabe, perfectă pentru o pauză de ciclism."
+          },
+          {
+            "name": "Grătar",
+            "tip": "Mâncăruri locale la grătar care vă vor oferi energie pentru plimbare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kvass",
+            "tip": "A refreshing fermented beverage sold at street stalls, perfect for a cycling break."
+          },
+          {
+            "name": "Grătar",
+            "tip": "Local grilled meats that will fuel your ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park in der Nähe der Festung",
+            "tip": "Ein weniger überfüllter Ort zum Ausruhen nach dem Aufstieg.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Früher Morgen am Dnjestr",
+            "tip": "Erleben Sie die Promenade, bevor die Menschenmassen kommen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Park az erőd közelében",
+            "tip": "Kevésbé zsúfolt hely a pihenésre a hegymászás után.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kora reggel a Dnyeszternél",
+            "tip": "Tapasztalja meg a sétányt, mielőtt a tömeg megérkezik.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul de lângă cetate",
+            "tip": "Un loc mai puțin aglomerat pentru a vă odihni după urcare.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Dimineața devreme pe Nistru",
+            "tip": "Experimentați promenada înainte de a se aglomera.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Park near the Fortress",
+            "tip": "A less crowded spot to rest after the climb.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Early morning on the Dniester",
+            "tip": "Experience the promenade before the crowds arrive.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Lokale Geschäfte könnten Zubehör oder Souvenirs mit Fahrradmotiven haben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "A helyi boltokban lehetnek kerékpáros témájú kiegészítők vagy ajándéktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Magazinele locale ar putea avea accesorii sau suveniruri cu tematică ciclistă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "Local shops might have accessories or cycling-themed souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt.",
+          "Bender ist relativ flach, aber der Anstieg zur Festung ist eine Herausforderung.",
+          "Schließen Sie Ihr Fahrrad immer sicher ab.",
+          "Planen Sie Ihre Route im Voraus."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját.",
+          "Bender viszonylag sík, de az erődhöz vezető emelkedő kihívást jelent.",
+          "Mindig zárja le biztonságosan a kerékpárját.",
+          "Tervezze meg előre az útvonalat."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni.",
+          "Bender este relativ plat, dar urcarea spre cetate este o provocare.",
+          "Asigurați-vă întotdeauna bicicleta în mod corespunzător.",
+          "Planificați-vă traseul în avans."
+        ],
+        "en": [
+          "Check your bike before setting off.",
+          "Bender is relatively flat, but the climb to the fortress is a challenge.",
+          "Always lock your bike securely.",
+          "Plan your route in advance."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Festung Bender Parkplatz",
+            "hu": "Benderi Erőd Parkoló",
+            "ro": "Parcare Cetatea Bender",
+            "en": "Bender Fortress Parking"
+          },
+          "coords": [
+            29.484,
+            46.84
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Startpunkt des Tages. Parken Sie hier, um den Festungshügel zu erkunden.",
+            "hu": "A nap kiindulópontja. Parkoljon itt az erőddomb felfedezéséhez.",
+            "ro": "Punctul de plecare al zilei. Parcați aici pentru a explora dealul cetății.",
+            "en": "Starting point for the day. Park here to explore the fortress hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Militär-Gedenkstätte",
+            "hu": "Katonai Emlékhely",
+            "ro": "Complexul Memorial de Glorie Militară",
+            "en": "Military Glory Memorial"
+          },
+          "coords": [
+            29.482,
+            46.839
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz aus.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "O scurtă plimbare de la parcare.",
+            "en": "A short walk from the parking area."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Bender",
+            "hu": "Benderi erőd",
+            "ro": "Cetatea Bender (Tighina)",
+            "en": "Bender Fortress"
+          },
+          "coords": [
+            29.485,
+            46.838
+          ],
+          "category": "castles",
+          "arrive_at": "10:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, das riesige Gelände zu erkunden.",
+            "hu": "Szánjon időt a hatalmas terület felfedezésére.",
+            "ro": "Acordați-vă timp pentru a explora terenul vast.",
+            "en": "Take your time to explore the vast grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Innenstadt",
+            "hu": "Belvárosi Parkoló",
+            "ro": "Parcare Centru",
+            "en": "City Center Parking"
+          },
+          "coords": [
+            29.474,
+            46.832
+          ],
+          "category": "transport",
+          "arrive_at": "12:15",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den zweiten Teil des Tages. Von hier aus ist alles zu Fuß erreichbar.",
+            "hu": "Parkoljon itt a nap második részére. Innen minden gyalogosan elérhető.",
+            "ro": "Parcați aici pentru a doua parte a zilei. Totul este accesibil pe jos de aici.",
+            "en": "Park here for the second part of the day. Everything is walkable from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Verklärungskathedrale",
+            "hu": "Színeváltozás-székesegyház",
+            "ro": "Catedrala Schimbarea la Față",
+            "en": "Transfiguration Cathedral"
+          },
+          "coords": [
+            29.475,
+            46.834
+          ],
+          "category": "churches",
+          "arrive_at": "12:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Hauptkathedrale der Stadt, ein Muss für jeden Besucher.",
+            "hu": "A város főkatedrálisa, minden látogató számára kötelező.",
+            "ro": "Catedrala principală a orașului, o vizită obligatorie.",
+            "en": "The city's main cathedral, a must-see for any visitor."
+          }
+        },
+        {
+          "name": {
+            "de": "Dnjestr-Promenade",
+            "hu": "Dnyeszter-sétány",
+            "ro": "Promenada de pe Nistru",
+            "en": "Dniester Promenade"
+          },
+          "coords": [
+            29.488,
+            46.835
+          ],
+          "category": "promenades",
+          "arrive_at": "14:20",
+          "stay_min": 145,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein längerer Spaziergang zum Flussufer, ideal für den Nachmittag.",
+            "hu": "Hosszabb séta a folyópartra, ideális délutánra.",
+            "ro": "O plimbare mai lungă până la malul râului, ideală pentru după-amiază.",
+            "en": "A longer walk to the riverfront, ideal for the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Auto auf dem Hügel der Festung Bender. Parken Sie und erkunden Sie zu Fuß die Militär-Gedenkstätte und die beeindruckende Festung selbst. Nach dem Mittagessen fahren Sie ins Stadtzentrum, parken erneut und entdecken die Verklärungskathedrale. Beenden Sie den Tag mit einem ausgedehnten Spaziergang zur Dnjestr-Promenade, bevor Sie zu Ihrem Auto zurückkehren.",
+        "hu": "Kezdje a napot autóval a benderi erőd dombján. Parkoljon le, és fedezze fel gyalog a katonai emlékhelyet és magát a lenyűgöző erődöt. Ebéd után hajtson be a városközpontba, parkoljon le újra, és fedezze fel a Színeváltozás-székesegyházat. Zárja a napot egy hosszabb sétával a Dnyeszter-sétányhoz, mielőtt visszatérne az autójához.",
+        "ro": "Începeți ziua cu mașina pe dealul Cetății Bender. Parcați și explorați pe jos Memorialul Gloriei Militare și impresionanta cetate. După prânz, conduceți spre centrul orașului, parcați din nou și descoperiți Catedrala Schimbarea la Față. Încheiați ziua cu o plimbare extinsă până la promenada Nistrului înainte de a vă întoarce la mașină.",
+        "en": "Start your day by car at the Bender Fortress hill. Park and explore the Military Glory Memorial and the impressive fortress itself on foot. After lunch, drive down to the city center, park again, and discover the Transfiguration Cathedral. End your day with an extended walk to the Dniester Promenade before returning to your car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant 'Smak'",
+            "tip": "Bekannt für seine traditionelle moldauische Küche in der Nähe des Stadtzentrums."
+          },
+          {
+            "name": "Kaffee und Kuchen",
+            "tip": "Viele Cafés im Zentrum bieten eine Pause vom Sightseeing."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smak étterem",
+            "tip": "Hagyományos moldáv konyhájáról ismert a városközpont közelében."
+          },
+          {
+            "name": "Kávé és sütemény",
+            "tip": "A központban számos kávézó kínál pihenést a városnézés közben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul 'Smak'",
+            "tip": "Cunoscut pentru bucătăria sa tradițională moldovenească, aproape de centrul orașului."
+          },
+          {
+            "name": "Cafea și prăjituri",
+            "tip": "Multe cafenele din centru oferă o pauză de la vizitarea obiectivelor turistice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant 'Smak'",
+            "tip": "Known for its traditional Moldovan cuisine near the city center."
+          },
+          {
+            "name": "Coffee and Cake",
+            "tip": "Many cafes in the center offer a break from sightseeing."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkte der Festung",
+            "tip": "Finden Sie einen ruhigen Platz auf den Mauern mit Blick auf den Fluss.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Seitenstraßen im Zentrum",
+            "tip": "Entfliehen Sie den Hauptstraßen und entdecken Sie ruhigere Gassen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az erőd kilátópontjai",
+            "tip": "Keressen egy csendes helyet a falakon, kilátással a folyóra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mellékutcák a központban",
+            "tip": "Meneküljön el a főutcákról, és fedezzen fel csendesebb sikátorokat.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Puncte de belvedere ale cetății",
+            "tip": "Găsiți un loc liniștit pe ziduri cu vedere la râu.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Străzi lăturalnice în centru",
+            "tip": "Evadați de pe străzile principale și descoperiți alei mai liniștite.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fortress Viewpoints",
+            "tip": "Find a quiet spot on the walls overlooking the river.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Side streets in the center",
+            "tip": "Escape the main roads and discover quieter alleys.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirläden bei der Festung",
+            "tip": "Gute Auswahl an Souvenirs mit Bezug zur Festung und zur Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándékboltok az erődnél",
+            "tip": "Jó választék az erődhez és a régióhoz kapcsolódó ajándéktárgyakból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de suveniruri la cetate",
+            "tip": "O selecție bună de suveniruri legate de cetate și de regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir shops at the Fortress",
+            "tip": "Good selection of souvenirs related to the fortress and the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken kann im Stadtzentrum eine Herausforderung sein; nutzen Sie ausgewiesene Parkplätze.",
+          "Planen Sie zwei Hauptparkstopps für den Tag.",
+          "Beachten Sie die örtlichen Verkehrsregeln.",
+          "Haben Sie Kleingeld für Parkautomaten bereit."
+        ],
+        "hu": [
+          "A parkolás kihívást jelenthet a városközpontban; használja a kijelölt parkolókat.",
+          "Tervezzen két fő parkolási megállót a napra.",
+          "Vegye figyelembe a helyi közlekedési szabályokat.",
+          "Készítsen aprópénzt a parkolóautomatákhoz."
+        ],
+        "ro": [
+          "Parcarea poate fi o provocare în centrul orașului; folosiți parcările desemnate.",
+          "Planificați două opriri principale de parcare pentru o zi.",
+          "Respectați regulile de circulație locale.",
+          "Aveți la îndemână monede pentru automatele de parcare."
+        ],
+        "en": [
+          "Parking can be challenging in the city center; use designated lots.",
+          "Plan for two main parking stops for the day.",
+          "Be aware of local traffic regulations.",
+          "Have change ready for parking meters."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 7.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Verklärungskathedrale",
+            "hu": "Színeváltozás-székesegyház",
+            "ro": "Catedrala Schimbarea la Față",
+            "en": "Transfiguration Cathedral"
+          },
+          "coords": [
+            29.475,
+            46.834
+          ],
+          "category": "churches",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Starten Sie an dieser zentralen Haltestelle.",
+            "hu": "Induljon ettől a központi megállótól.",
+            "ro": "Începeți de la această stație centrală.",
+            "en": "Start at this central bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum Bender",
+            "hu": "Benderi Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie și Etnografie",
+            "en": "Bender Museum of Local History"
+          },
+          "coords": [
+            29.473,
+            46.833
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang von der Kathedrale entfernt.",
+            "hu": "Csak egy rövid sétára a katedrálistól.",
+            "ro": "La doar o scurtă plimbare de catedrală.",
+            "en": "Just a short walk from the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Bender",
+            "hu": "Benderi erőd",
+            "ro": "Cetatea Bender (Tighina)",
+            "en": "Bender Fortress"
+          },
+          "coords": [
+            29.485,
+            46.838
+          ],
+          "category": "castles",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus oder ein Marschrutka zum Festungshügel.",
+            "hu": "Menjen busszal vagy marsrutkával az erőddombra.",
+            "ro": "Luați un autobuz sau o marșrutcă până la dealul cetății.",
+            "en": "Take a bus or marshrutka up to the fortress hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Alexander-Newski-Kathedrale",
+            "hu": "Alekszandr Nyevszkij-székesegyház",
+            "ro": "Catedrala Alexandr Nevski",
+            "en": "Alexander Nevsky Cathedral"
+          },
+          "coords": [
+            29.483,
+            46.837
+          ],
+          "category": "churches",
+          "arrive_at": "13:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den Festungskomplex zu Fuß.",
+            "hu": "Fedezze fel gyalog az erődkomplexumot.",
+            "ro": "Explorați complexul cetății pe jos.",
+            "en": "Explore the fortress complex on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Dnjestr-Promenade",
+            "hu": "Dnyeszter-sétány",
+            "ro": "Promenada de pe Nistru",
+            "en": "Dniester Promenade"
+          },
+          "coords": [
+            29.488,
+            46.835
+          ],
+          "category": "promenades",
+          "arrive_at": "14:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.9,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zurück ins Tal und gehen Sie zum Fluss.",
+            "hu": "Menjen busszal vissza a völgybe, és sétáljon le a folyóhoz.",
+            "ro": "Luați un autobuz înapoi în vale și mergeți pe jos până la râu.",
+            "en": "Take a bus back down to the valley and walk to the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Kino Gorki",
+            "hu": "Gorkij mozi",
+            "ro": "Cinematograful Gorki",
+            "en": "Gorky Cinema"
+          },
+          "coords": [
+            29.4765,
+            46.8325
+          ],
+          "category": "theatres",
+          "arrive_at": "16:05",
+          "stay_min": 70,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die sowjetische Architektur auf dem Rückweg ins Zentrum.",
+            "hu": "Csodálja meg a szovjet építészetet a központ felé vezető úton.",
+            "ro": "Admirați arhitectura sovietică pe drumul de întoarcere spre centru.",
+            "en": "Admire the Soviet architecture on your way back to the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie im Herzen von Bender mit einem Spaziergang von der Verklärungskathedrale zum Heimatmuseum. Nehmen Sie dann einen Bus, um die mächtige Festung Bender auf dem Hügel zu erreichen. Nach der Erkundung des Festungsgeländes bringt Sie ein weiterer Bus zur Dnjestr-Promenade für einen entspannten Nachmittag. Schließen Sie den Tag mit einem Blick auf die Architektur des Gorki-Kinos ab, während Sie zurück ins Zentrum schlendern.",
+        "hu": "Kezdje Bender szívében egy sétával a Színeváltozás-székesegyháztól a helytörténeti múzeumig. Ezután szálljon buszra, hogy feljusson a dombon álló hatalmas benderi erődhöz. Az erőd területének felfedezése után egy másik buszjárattal juthat el a Dnyeszter-sétányhoz egy pihentető délutánra. Zárja a napot a Gorkij mozi építészetének megcsodálásával, miközben visszasétál a központba.",
+        "ro": "Începeți în inima Benderului cu o plimbare de la Catedrala Schimbarea la Față la Muzeul de Istorie. Apoi, luați un autobuz pentru a ajunge la impunătoarea Cetate Bender de pe deal. După explorarea zonei cetății, un alt autobuz vă va duce la promenada Nistrului pentru o după-amiază relaxantă. Încheiați ziua admirând arhitectura Cinematografului Gorki în timp ce vă plimbați înapoi spre centru.",
+        "en": "Start in the heart of Bender with a walk from the Transfiguration Cathedral to the Museum of Local History. Then, catch a bus to reach the mighty Bender Fortress on the hill. After exploring the fortress grounds, another transit ride will take you down to the Dniester Promenade for a relaxing afternoon. End your day by admiring the architecture of the Gorky Cinema as you stroll back towards the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Straßenverkäufer",
+            "tip": "Probieren Sie lokale Snacks wie 'Gogoși' (Krapfen) in der Nähe von Bushaltestellen."
+          },
+          {
+            "name": "Ciorbă",
+            "tip": "Eine traditionelle saure Suppe, die in vielen lokalen Restaurants erhältlich ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Utcai árusok",
+            "tip": "Kóstoljon meg helyi harapnivalókat, mint a 'gogoși' (fánk) a buszmegállók közelében."
+          },
+          {
+            "name": "Csorba",
+            "tip": "Hagyományos savanyú leves, amely számos helyi étteremben kapható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vânzători ambulanți",
+            "tip": "Încercați gustări locale precum gogoșile în apropierea stațiilor de autobuz."
+          },
+          {
+            "name": "Ciorbă",
+            "tip": "O supă acră tradițională, disponibilă la multe restaurante locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Street Food Vendors",
+            "tip": "Try local snacks like 'gogoși' (donuts) near bus stops."
+          },
+          {
+            "name": "Ciorbă",
+            "tip": "A traditional sour soup available in many local eateries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt aus der Stadt",
+            "tip": "Beobachten Sie das lokale Leben vom Fenster eines Busses oder Marschrutkas aus.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Blick von der Festung",
+            "tip": "Genießen Sie die Aussicht, bevor Sie den Bus zurück nehmen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás a városból kifelé",
+            "tip": "Figyelje a helyi életet egy busz vagy marsrutka ablakából.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Kilátás az erődből",
+            "tip": "Élvezze a kilátást, mielőtt visszaindulna a busszal.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătorie cu autobuzul în afara orașului",
+            "tip": "Observați viața locală de la fereastra unui autobuz sau a unei marșrutci.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Vedere de la cetate",
+            "tip": "Bucurați-vă de priveliște înainte de a lua autobuzul înapoi.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride out of town",
+            "tip": "Observe local life from the window of a bus or marshrutka.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "View from the Fortress",
+            "tip": "Enjoy the view before you take the bus back.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske",
+            "tip": "Kleine Kioske in der Nähe von Haltestellen verkaufen oft Getränke, Snacks und kleine Notwendigkeiten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok",
+            "tip": "A megállók közelében lévő kis kioszkok gyakran árulnak italokat, rágcsálnivalókat és apróbb szükségleti cikkeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri",
+            "tip": "Chioșcurile mici de lângă stații vând adesea băuturi, gustări și mici necesități."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks",
+            "tip": "Small kiosks near stops often sell drinks, snacks, and small necessities."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Machen Sie sich mit den lokalen Bus- oder Marschrutka-Routen vertraut.",
+          "Haben Sie Kleingeld für die Fahrpreise bereit.",
+          "Die Fahrpläne können unregelmäßig sein, also planen Sie Pufferzeit ein.",
+          "Fragen Sie Einheimische nach der richtigen Haltestelle, wenn Sie unsicher sind."
+        ],
+        "hu": [
+          "Ismerkedjen meg a helyi busz- vagy marsrutka-útvonalakkal.",
+          "Készítsen aprópénzt a viteldíjakhoz.",
+          "A menetrendek szabálytalanok lehetnek, ezért tervezzen pufferidőt.",
+          "Kérdezze meg a helyieket a megfelelő megállóról, ha bizonytalan."
+        ],
+        "ro": [
+          "Familiarizați-vă cu rutele locale de autobuz sau marșrutcă.",
+          "Aveți pregătit numerar mărunt pentru bilete.",
+          "Orarele pot fi neregulate, așa că planificați timp suplimentar.",
+          "Întrebați localnicii despre stația corectă dacă nu sunteți sigur."
+        ],
+        "en": [
+          "Familiarize yourself with the local bus or marshrutka routes.",
+          "Have small cash ready for fares.",
+          "Schedules can be irregular, so plan for buffer time.",
+          "Ask locals for the right stop if you're unsure."
+        ]
+      }
+    }
+  }
+}

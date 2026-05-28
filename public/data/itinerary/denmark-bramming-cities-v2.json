@@ -1,0 +1,1421 @@
+{
+  "city_id": "denmark-bramming-cities-v2",
+  "anchor": {
+    "name": "Bramming",
+    "coords": [
+      55.47,
+      8.7
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Bramming",
+            "hu": "Brammingi pályaudvar",
+            "ro": "Gara Bramming",
+            "en": "Bramming Station"
+          },
+          "coords": [
+            8.6998,
+            55.4691
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische dänische Bahnhofsarchitektur aus dem Jahr 1874.",
+            "hu": "Csodálja meg az 1874-ből származó klasszikus dán vasútállomás-építészetet.",
+            "ro": "Admirați arhitectura clasică a gării daneze, datând din 1874.",
+            "en": "Admire the classic Danish station architecture from 1874."
+          }
+        },
+        {
+          "name": {
+            "de": "Sct. Ansgar Kirke",
+            "hu": "Szent Ansgar-templom",
+            "ro": "Biserica Sf. Ansgar",
+            "en": "Sct. Ansgar Church"
+          },
+          "coords": [
+            8.7035,
+            55.4715
+          ],
+          "category": "churches",
+          "arrive_at": "09:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beachten Sie die modernen, hellen Innenräume, die einen Kontrast zur traditionellen Außenseite bilden.",
+            "hu": "Figyelje meg a modern, világos belső tereket, amelyek kontrasztot alkotnak a hagyományos külsővel.",
+            "ro": "Observați interiorul modern și luminos, în contrast cu exteriorul tradițional.",
+            "en": "Note the modern, bright interiors, which contrast with the traditional exterior."
+          }
+        },
+        {
+          "name": {
+            "de": "Bramming Kirke",
+            "hu": "Brammingi templom",
+            "ro": "Biserica Bramming",
+            "en": "Bramming Church"
+          },
+          "coords": [
+            8.7051,
+            55.4742
+          ],
+          "category": "churches",
+          "arrive_at": "10:19",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Suchen Sie nach dem markanten romanischen Taufbecken, einem der ältesten Stücke der Kirche.",
+            "hu": "Keresse a jellegzetes román stílusú keresztelőkutat, a templom egyik legrégebbi darabját.",
+            "ro": "Căutați cristelnița romanică distinctivă, una dintre cele mai vechi piese ale bisericii.",
+            "en": "Look for the distinctive Romanesque font, one of the oldest pieces in the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Bramming Egnsmuseum",
+            "hu": "Brammingi Helytörténeti Múzeum",
+            "ro": "Muzeul Regional Bramming",
+            "en": "Bramming Regional Museum"
+          },
+          "coords": [
+            8.7077,
+            55.4768
+          ],
+          "category": "museums",
+          "arrive_at": "11:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Ausstellung über die Entwicklung der Landwirtschaft in der Region.",
+            "hu": "Ne hagyja ki a régió mezőgazdaságának fejlődéséről szóló kiállítást.",
+            "ro": "Nu ratați expoziția despre dezvoltarea agriculturii în regiune.",
+            "en": "Don't miss the exhibition on the development of agriculture in the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Innenstadt",
+            "hu": "Ebéd a városközpontban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the Town Center"
+          },
+          "coords": [
+            8.7045,
+            55.472
+          ],
+          "category": "gastro",
+          "arrive_at": "12:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie ein klassisches Smørrebrød in einem der örtlichen Cafés.",
+            "hu": "Kóstoljon meg egy klasszikus Smørrebrødet a helyi kávézók egyikében.",
+            "ro": "Încercați un Smørrebrød clasic la una dintre cafenelele locale.",
+            "en": "Try a classic Smørrebrød at one of the local cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Bramming Lystanlæg",
+            "hu": "Brammingi Díszpark",
+            "ro": "Parcul Bramming Lystanlæg",
+            "en": "Bramming Pleasure Garden"
+          },
+          "coords": [
+            8.6855,
+            55.4725
+          ],
+          "category": "parks",
+          "arrive_at": "14:46",
+          "stay_min": 99,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für einen ruhigen Spaziergang am Nachmittag. Suchen Sie nach dem kleinen See.",
+            "hu": "Tökéletes hely egy csendes délutáni sétához. Keresse meg a kis tavat.",
+            "ro": "Un loc perfect pentru o plimbare liniștită de după-amiază. Căutați micul lac.",
+            "en": "A perfect spot for a quiet afternoon walk. Look for the small lake."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Wandertag in Bramming beginnt am historischen Bahnhof, einem Zeugnis der Eisenbahngeschichte der Stadt. Am Vormittag erkunden Sie das spirituelle Herz der Stadt, indem Sie die moderne Sct. Ansgar Kirke und die ältere Bramming Kirke besuchen, die jeweils einen einzigartigen architektonischen Charme bieten. Der Mittag ist der Kultur gewidmet, mit einem tiefen Einblick in die lokale Geschichte im Bramming Egnsmuseum, gefolgt von einem herzhaften dänischen Mittagessen im Stadtzentrum. Der Nachmittag ist für Entspannung im Grünen reserviert. Ein langer Spaziergang zum und durch den Bramming Lystanlæg Park bietet eine friedliche Flucht und Zeit, die ruhige Atmosphäre der Stadt zu genießen, bevor Ihr Tag zu Ende geht.",
+        "hu": "A brammingi séta a történelmi vasútállomáson kezdődik, amely a város vasúti örökségének tanúja. A délelőttöt a város spirituális szívének felfedezésével tölti, meglátogatva a modern Szent Ansgar-templomot és a régebbi Bramming-templomot, amelyek egyedi építészeti bájjal rendelkeznek. A dél a kultúráé, mélyreható betekintést nyerhet a helyi történelembe a Brammingi Helytörténeti Múzeumban, majd egy kiadós dán ebédet fogyaszthat a városközpontban. A délután a zöldben való pihenésé. Egy hosszú séta a Bramming Lystanlæg parkhoz és azon keresztül békés menedéket és időt kínál a város csendes hangulatának élvezetére, mielőtt a nap véget ér.",
+        "ro": "Ziua dvs. de plimbare în Bramming începe la gara istorică, o mărturie a moștenirii feroviare a orașului. Dimineața explorați inima spirituală a orașului vizitând moderna Biserică Sf. Ansgar și mai vechea Biserică Bramming, fiecare oferind un farmec arhitectural unic. Amiaza este dedicată culturii, cu o incursiune profundă în istoria locală la Muzeul Regional Bramming, urmată de un prânz danez consistent în centrul orașului. După-amiaza este rezervată relaxării în natură. O plimbare lungă până la și prin parcul Bramming Lystanlæg oferă o evadare pașnică și timp pentru a absorbi atmosfera liniștită a orașului înainte de a încheia ziua.",
+        "en": "Your walking day in Bramming begins at the historic station, a testament to the town's railway heritage. The morning is for exploring the town's spiritual heart by visiting the modern Sct. Ansgar Church and the older Bramming Church, each offering unique architectural charm. Midday is dedicated to culture with a deep dive into local history at the Bramming Regional Museum, followed by a hearty Danish lunch in the town center. The afternoon is reserved for green relaxation. A long walk to and through the Bramming Lystanlæg park provides a peaceful escape and time to absorb the town's quiet atmosphere before your day concludes."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Klassisches dänisches offenes Sandwich, perfekt für ein leichtes Mittagessen."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Dänische Fleischbällchen, oft mit Kartoffelsalat serviert."
+          },
+          {
+            "name": "Wienerbrød",
+            "tip": "Zum Kaffee ein dänisches Gebäck aus einem örtlichen 'Bageri' (Bäckerei) genießen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Klasszikus dán nyitott szendvics, tökéletes egy könnyű ebédhez."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Dán húsgombócok, gyakran burgonyasalátával tálalva."
+          },
+          {
+            "name": "Wienerbrød",
+            "tip": "Élvezzen egy dán péksüteményt egy helyi 'Bageri'-ből (pékség) a kávé mellé."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Sandviș deschis clasic danez, perfect pentru un prânz ușor."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Chiftele daneze, adesea servite cu salată de cartofi."
+          },
+          {
+            "name": "Wienerbrød",
+            "tip": "Savurați o patiserie daneză de la o 'Bageri' (brutărie) locală cu cafeaua dvs."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Classic Danish open-faced sandwich, perfect for a light lunch."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Danish meatballs, often served with potato salad."
+          },
+          {
+            "name": "Wienerbrød",
+            "tip": "Enjoy a Danish pastry from a local 'Bageri' (bakery) with your coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bramming Lystanlæg",
+            "tip": "Finden Sie eine ruhige Bank am See, um zu lesen oder die Natur zu beobachten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhof der Bramming Kirke",
+            "tip": "Ein friedlicher und gut gepflegter Ort der Besinnung.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang entlang der Bäche",
+            "tip": "Folgen Sie einem der kleinen Bäche, die durch die Stadt fließen, für einen ruhigen Moment.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bramming Lystanlæg",
+            "tip": "Keressen egy csendes padot a tónál olvasáshoz vagy a természet megfigyeléséhez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Brammingi templom temetője",
+            "tip": "Békés és gondozott hely az elmélkedésre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a patakok mentén",
+            "tip": "Kövesse a városon átfolyó kis patakok egyikét egy csendes pillanatért.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bramming Lystanlæg",
+            "tip": "Găsiți o bancă liniștită lângă lac pentru a citi sau a privi natura.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul Bisericii Bramming",
+            "tip": "Un loc pașnic și bine întreținut pentru reflecție.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare de-a lungul pârâurilor",
+            "tip": "Urmați unul dintre micile pârâuri care traversează orașul pentru un moment de liniște.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bramming Lystanlæg",
+            "tip": "Find a quiet bench by the lake to read or watch nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bramming Kirke Churchyard",
+            "tip": "A peaceful and well-maintained space for reflection.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk along the streams",
+            "tip": "Follow one of the small streams crossing the town for a quiet moment.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Kunsthandwerksläden",
+            "tip": "Suchen Sie nach kleinen, unabhängigen Geschäften, die handgefertigte Waren verkaufen."
+          },
+          {
+            "name": "SuperBrugsen oder Rema 1000",
+            "tip": "Kaufen Sie authentische dänische Snacks oder Lebensmittel als Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keressen kis, független boltokat, amelyek kézzel készített termékeket árulnak."
+          },
+          {
+            "name": "SuperBrugsen vagy Rema 1000",
+            "tip": "Vásároljon autentikus dán rágcsálnivalókat vagy élelmiszereket szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine locale de artizanat",
+            "tip": "Căutați magazine mici, independente, care vând produse artizanale."
+          },
+          {
+            "name": "SuperBrugsen sau Rema 1000",
+            "tip": "Cumpărați gustări sau alimente daneze autentice ca suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local artisan shops",
+            "tip": "Look for small, independent shops selling handmade goods."
+          },
+          {
+            "name": "SuperBrugsen or Rema 1000",
+            "tip": "Pick up some authentic Danish snacks or groceries as souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie fast 4 km laufen werden.",
+          "Prüfen Sie die Öffnungszeiten des Egnsmuseums im Voraus, da diese saisonal sein können.",
+          "Die meisten Geschäfte und Cafés befinden sich im Stadtzentrum, planen Sie Ihr Mittagessen entsprechend.",
+          "Bramming ist recht flach, was das Gehen erleichtert."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel majdnem 4 km-t fog sétálni.",
+          "Ellenőrizze előre az Egnsmuseum nyitvatartási idejét, mivel az szezonális lehet.",
+          "A legtöbb üzlet és kávézó a városközpontban található, tervezze meg ebédjét ennek megfelelően.",
+          "Bramming meglehetősen sík, ami megkönnyíti a sétát."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge aproape 4 km.",
+          "Verificați în avans programul de funcționare al Muzeului Egnsmuseum, deoarece poate fi sezonier.",
+          "Majoritatea magazinelor și cafenelelor sunt în centrul orașului, planificați-vă prânzul în consecință.",
+          "Bramming este destul de plat, ceea ce face mersul pe jos ușor."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be walking nearly 4 km.",
+          "Check the opening hours for the Egnsmuseum in advance, as they can be seasonal.",
+          "Most shops and cafes are in the town center, so plan your lunch accordingly.",
+          "Bramming is quite flat, making for easy walking."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Bramming",
+            "hu": "Brammingi pályaudvar",
+            "ro": "Gara Bramming",
+            "en": "Bramming Station"
+          },
+          "coords": [
+            8.6998,
+            55.4691
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Startpunkt Ihrer Radtour, perfekt, um die Atmosphäre der Stadt aufzunehmen.",
+            "hu": "A kerékpártúra kiindulópontja, tökéletes a város hangulatának befogadására.",
+            "ro": "Punctul de plecare al turului dvs. cu bicicleta, perfect pentru a absorbi atmosfera orașului.",
+            "en": "Starting point of your bike tour, perfect for absorbing the town's atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Bramming Kirke & Sct. Ansgar Kirke",
+            "hu": "Brammingi templom és Szent Ansgar-templom",
+            "ro": "Biserica Bramming & Biserica Sf. Ansgar",
+            "en": "Bramming Church & Sct. Ansgar Church"
+          },
+          "coords": [
+            8.7043,
+            55.4728
+          ],
+          "category": "churches",
+          "arrive_at": "09:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie beide Hauptkirchen, die nur eine kurze Radfahrt voneinander entfernt sind.",
+            "hu": "Látogassa meg mindkét fő templomot, amelyek csak egy rövid bicikliútra vannak egymástól.",
+            "ro": "Vizitați ambele biserici principale, aflate la o scurtă plimbare cu bicicleta una de cealaltă.",
+            "en": "Visit both main churches, located just a short bike ride apart."
+          }
+        },
+        {
+          "name": {
+            "de": "Bramming Egnsmuseum",
+            "hu": "Brammingi Helytörténeti Múzeum",
+            "ro": "Muzeul Regional Bramming",
+            "en": "Bramming Regional Museum"
+          },
+          "coords": [
+            8.7077,
+            55.4768
+          ],
+          "category": "museums",
+          "arrive_at": "10:28",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und tauchen Sie für eine Weile in die lokale Geschichte ein.",
+            "hu": "Parkolja le a kerékpárt, és merüljön el egy időre a helyi történelemben.",
+            "ro": "Parcați bicicleta și scufundați-vă în istoria locală pentru o vreme.",
+            "en": "Park your bike and dive into local history for a while."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            8.705,
+            55.4722
+          ],
+          "category": "gastro",
+          "arrive_at": "12:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tanken Sie Energie in einem Restaurant im Zentrum, bevor Sie die längere Nachmittagsfahrt antreten.",
+            "hu": "Töltődjön fel egy központi étteremben a hosszabb délutáni tekerés előtt.",
+            "ro": "Realimentați-vă la un restaurant din centru înainte de plimbarea mai lungă de după-amiază.",
+            "en": "Fuel up at a central restaurant before the longer afternoon ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Terp Spejdercenter",
+            "hu": "Terp Cserkészközpont",
+            "ro": "Centrul de Cercetași Terp",
+            "en": "Terp Spejdercenter"
+          },
+          "coords": [
+            8.6581,
+            55.4925
+          ],
+          "category": "parks",
+          "arrive_at": "13:39",
+          "stay_min": 60,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die offene Natur und die ruhige Umgebung, ein schöner Kontrast zur Stadt.",
+            "hu": "Élvezze a nyílt természetet és a csendes környezetet, ami szép kontrasztot alkot a várossal.",
+            "ro": "Bucurați-vă de natura deschisă și de împrejurimile liniștite, un contrast plăcut cu orașul.",
+            "en": "Enjoy the open nature and quiet surroundings, a nice contrast to the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Bramming Lystanlæg",
+            "hu": "Brammingi Díszpark",
+            "ro": "Parcul Bramming Lystanlæg",
+            "en": "Bramming Pleasure Garden"
+          },
+          "coords": [
+            8.6855,
+            55.4725
+          ],
+          "category": "parks",
+          "arrive_at": "15:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause im Park und genießen Sie die Landschaft auf dem Rückweg ins Zentrum.",
+            "hu": "Pihenjen a parkban, és élvezze a tájat a központ felé vezető úton.",
+            "ro": "Faceți o pauză în parc, bucurându-vă de peisaj în drum spre centru.",
+            "en": "Take a break in the park, enjoying the scenery on your way back to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaj Lykke Golfklub",
+            "hu": "Kaj Lykke Golfklub",
+            "ro": "Clubul de Golf Kaj Lykke",
+            "en": "Kaj Lykke Golf Club"
+          },
+          "coords": [
+            8.7383,
+            55.4611
+          ],
+          "category": "parks",
+          "arrive_at": "16:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.4,
+          "tip_5lang": {
+            "de": "Auch wenn Sie nicht spielen, ist die Landschaft wunderschön für eine letzte Radtour des Tages.",
+            "hu": "Még ha nem is játszik, a táj gyönyörű a nap utolsó kerékpártúrájához.",
+            "ro": "Chiar dacă nu jucați, peisajul este frumos pentru o ultimă plimbare cu bicicleta a zilei.",
+            "en": "Even if you don't play, the scenery is beautiful for a final ride of the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour durch Bramming beginnt am Bahnhof und führt Sie schnell zu den beiden Hauptkirchen der Stadt. Der Vormittag verbindet Spiritualität mit Geschichte, während Sie vom Gotteshaus zum Egnsmuseum radeln, um mehr über das Erbe der Region zu erfahren. Nach einem stärkenden Mittagessen im Zentrum unternehmen Sie eine längere Fahrt aufs Land zum Terp Spejdercenter, wo Sie die dänische Natur genießen können. Auf dem Rückweg radeln Sie durch den ruhigen Lystanlæg-Park für einen Moment der Ruhe. Der Tag endet mit einer malerischen Schleife um den Kaj Lykke Golfklub, die einen letzten Blick auf die grüne Landschaft Westjütlands bietet, bevor Sie Ihre Erkundung beenden.",
+        "hu": "A brammingi kerékpártúra a vasútállomástól indul, és gyorsan elvezeti a város két fő templomához. A délelőtt a spiritualitást a történelemmel ötvözi, miközben a templomoktól az Egnsmuseumhoz teker, hogy megismerje a régió örökségét. Egy feltöltődést nyújtó ebéd után a központban egy hosszabb útra indul a vidékre, a Terp Cserkészközponthoz, ahol élvezheti a dán természetet. Visszafelé a csendes Lystanlæg parkon keresztül teker, egy pillanatnyi nyugalomért. A nap egy festői körrel zárul a Kaj Lykke Golfklub körül, amely egy utolsó pillantást vet Nyugat-Jütland zöld tájaira, mielőtt befejezné a felfedezést.",
+        "ro": "Turul dvs. cu bicicleta prin Bramming începe de la gară, ducându-vă rapid la cele două biserici principale ale orașului. Dimineața combină spiritualitatea cu istoria în timp ce pedalați de la lăcașurile de cult la Muzeul Egnsmuseum pentru a învăța despre moștenirea zonei. După un prânz revigorant în centru, vă aventurați într-o plimbare mai lungă la țară, la Centrul de Cercetași Terp, pentru o doză de natură daneză. Pe drumul de întoarcere, treceți prin liniștitul parc Lystanlæg pentru un moment de pace. Ziua se încheie cu o buclă pitorească în jurul Clubului de Golf Kaj Lykke, oferind o ultimă priveliște a peisajului verde din Iutlanda de Vest înainte de a încheia explorarea.",
+        "en": "Your bike tour of Bramming starts from the station, quickly taking you to the town's two main churches. The morning blends spirituality with history as you pedal from the places of worship to the Egnsmuseum to learn about the area's heritage. After a refueling lunch in the center, you'll venture on a longer ride into the countryside to Terp Spejdercenter for a dose of Danish nature. On your way back, you'll cycle through the tranquil Lystanlæg park for a moment of peace. The day concludes with a scenic loop around Kaj Lykke Golf Club, offering a final view of the green West Jutland landscape before finishing your exploration."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pølser",
+            "tip": "Ein dänischer Hotdog von einem 'Pølsevogn' (Hotdog-Wagen) ist ein schneller und leckerer Biker-Snack."
+          },
+          {
+            "name": "Kartoffelsalat",
+            "tip": "Eine häufige und sättigende Beilage zu vielen dänischen Gerichten."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Belohnen Sie sich nach Ihrer Fahrt mit einem kalten Bier aus einer örtlichen Brauerei."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pølser",
+            "tip": "Egy dán hot dog egy 'Pølsevogn'-ból (hot dogos kocsi) gyors és ízletes harapnivaló egy kerékpárosnak."
+          },
+          {
+            "name": "Burgonyasaláta",
+            "tip": "Gyakori és laktató köret sok dán ételhez."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Jutalmazza meg magát egy hideg sörrel egy helyi sörfőzdéből a tekerés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pølser",
+            "tip": "Un hotdog danez de la un 'Pølsevogn' (cărucior de hotdog) este o gustare rapidă și gustoasă pentru bicicliști."
+          },
+          {
+            "name": "Salată de cartofi",
+            "tip": "O garnitură comună și sățioasă la multe feluri de mâncare daneze."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "Recompensați-vă cu o bere rece de la o berărie locală după plimbare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pølser",
+            "tip": "A Danish hot dog from a 'Pølsevogn' (hot dog cart) is a quick and tasty biker's snack."
+          },
+          {
+            "name": "Kartoffelsalat",
+            "tip": "A common and filling side dish with many Danish meals."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Reward yourself with a cold beer from a local brewery after your ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Terp Spejdercenter",
+            "tip": "Die offenen Felder und Wälder bieten viel Ruhe und Frieden.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Radweg nach Gørding",
+            "tip": "Einige Abschnitte der Radwege außerhalb der Stadt sind besonders ruhig.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bank im Lystanlæg",
+            "tip": "Halten Sie für eine ruhige Pause im Park an.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Terp Cserkészközpont",
+            "tip": "A nyílt mezők és erdők békét és csendet kínálnak.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kerékpárút Gørding felé",
+            "tip": "A városon kívüli kerékpárutak egyes szakaszai különösen csendesek.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pad a Lystanlæg parkban",
+            "tip": "Álljon meg egy csendes pihenőre a parkban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul de Cercetași Terp",
+            "tip": "Câmpiile deschise și pădurile oferă multă pace și liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pista de biciclete spre Gørding",
+            "tip": "Anumite porțiuni ale pistelor de biciclete din afara orașului sunt deosebit de liniștite.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bancă în Lystanlæg",
+            "tip": "Opriți-vă pentru o pauză liniștită în parc.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Terp Spejdercenter",
+            "tip": "The open fields and forests offer plenty of peace and quiet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bike path towards Gørding",
+            "tip": "Certain stretches of the cycle paths outside town are especially quiet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bench in Lystanlæg",
+            "tip": "Stop for a quiet break inside the park.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Besuchen Sie ein lokales Fahrradgeschäft für Zubehör oder Souvenirs."
+          },
+          {
+            "name": "Hofladen",
+            "tip": "Halten Sie Ausschau nach 'Gårdbutik'-Schildern auf dem Land für frische lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Látogasson el egy helyi kerékpárboltba kiegészítőkért vagy szuvenírekért."
+          },
+          {
+            "name": "Tanyasi bolt",
+            "tip": "Keresse a 'Gårdbutik' táblákat vidéken a friss helyi termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Vizitați un magazin local de biciclete pentru accesorii sau suveniruri."
+          },
+          {
+            "name": "Magazin de fermă",
+            "tip": "Fiți atenți la semnele 'Gårdbutik' la țară pentru produse locale proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "Pop into a local bike shop for any accessories or souvenirs."
+          },
+          {
+            "name": "Farm Shop",
+            "tip": "Look out for 'Gårdbutik' signs in the countryside for fresh local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad im Voraus, wenn Sie keins mitbringen.",
+          "Dänemark ist fahrradfreundlich, aber tragen Sie zur Sicherheit immer einen Helm.",
+          "Nehmen Sie Wasser und Snacks für die längeren Fahrten außerhalb der Stadt mit.",
+          "Achten Sie auf die Radwegbeschilderung, die in Dänemark ausgezeichnet ist."
+        ],
+        "hu": [
+          "Béreljen előre kerékpárt, ha nem hoz magával.",
+          "Dánia kerékpárbarát, de a biztonság kedvéért mindig viseljen sisakot.",
+          "Vigyen vizet és harapnivalókat a hosszabb, városon kívüli utakra.",
+          "Figyeljen a kerékpárút jelzéseire, amelyek Dániában kiválóak."
+        ],
+        "ro": [
+          "Închiriați o bicicletă în avans dacă nu vă aduceți una.",
+          "Danemarca este prietenoasă cu bicicletele, dar purtați întotdeauna o cască pentru siguranță.",
+          "Luați apă și gustări pentru plimbările mai lungi în afara orașului.",
+          "Fiți atenți la semnalizarea pistelor de biciclete, care este excelentă în Danemarca."
+        ],
+        "en": [
+          "Rent a bike in advance if you are not bringing your own.",
+          "Denmark is bike-friendly, but always wear a helmet for safety.",
+          "Bring water and snacks for the longer rides outside the town.",
+          "Pay attention to the cycle path signage, which is excellent in Denmark."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 25.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Bramming Zentrum: Parken",
+            "hu": "Bramming központ klaszter: Parkolás",
+            "ro": "Cluster Centru Bramming: Parcare",
+            "en": "Bramming Center Cluster: Parking"
+          },
+          "coords": [
+            8.7015,
+            55.47
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Finden Sie einen zentralen Parkplatz, um das Stadtzentrum zu Fuß zu erkunden.",
+            "hu": "Keressen egy központi parkolót, ahonnan gyalog felfedezheti a városközpontot.",
+            "ro": "Găsiți o parcare centrală pentru a explora centrul orașului pe jos.",
+            "en": "Find a central parking spot to explore the town center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Bramming Kirke",
+            "hu": "Brammingi templom",
+            "ro": "Biserica Bramming",
+            "en": "Bramming Church"
+          },
+          "coords": [
+            8.7051,
+            55.4742
+          ],
+          "category": "churches",
+          "arrive_at": "09:18",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz zur ältesten Kirche der Stadt.",
+            "hu": "Egy rövid séta a parkolótól a város legrégebbi templomáig.",
+            "ro": "O scurtă plimbare de la parcare până la cea mai veche biserică din oraș.",
+            "en": "A short walk from your parking spot to the town's oldest church."
+          }
+        },
+        {
+          "name": {
+            "de": "Bramming Egnsmuseum",
+            "hu": "Brammingi Helytörténeti Múzeum",
+            "ro": "Muzeul Regional Bramming",
+            "en": "Bramming Regional Museum"
+          },
+          "coords": [
+            8.7077,
+            55.4768
+          ],
+          "category": "museums",
+          "arrive_at": "10:09",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Setzen Sie Ihren Spaziergang zum Museum fort, um mehr über die lokale Geschichte zu erfahren.",
+            "hu": "Folytassa sétáját a múzeum felé, hogy megismerje a helyi történelmet.",
+            "ro": "Continuați plimbarea până la muzeu pentru a afla despre istoria locală.",
+            "en": "Continue your walk to the museum to learn about local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt & Besuch der Gørding Kirke",
+            "hu": "Utazás és a Gørdingi templom meglátogatása",
+            "ro": "Condus & Vizită la Biserica Gørding",
+            "en": "Drive & Visit Gørding Church"
+          },
+          "coords": [
+            8.8711,
+            55.4795
+          ],
+          "category": "churches",
+          "arrive_at": "12:12",
+          "stay_min": 50,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 10.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt zu einer charmanten Dorfkirche in der Nähe.",
+            "hu": "Egy rövid autóút egy közeli, bájos falusi templomhoz.",
+            "ro": "O scurtă călătorie cu mașina până la o biserică de sat fermecătoare din apropiere.",
+            "en": "A short drive to a charming nearby village church."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Gørding oder Bramming",
+            "hu": "Ebéd Gørdingben vagy Brammingban",
+            "ro": "Prânz în Gørding sau Bramming",
+            "en": "Lunch in Gørding or Bramming"
+          },
+          "coords": [
+            8.87,
+            55.478
+          ],
+          "category": "gastro",
+          "arrive_at": "13:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Finden Sie einen lokalen 'Kro' (Gasthof) für ein authentisches dänisches Mittagessen.",
+            "hu": "Keressen egy helyi 'Kro'-t (fogadót) egy autentikus dán ebédhez.",
+            "ro": "Găsiți un 'Kro' (han) local pentru un prânz danez autentic.",
+            "en": "Find a local 'Kro' (inn) for an authentic Danish lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt & Entspannung im Kaj Lykke Golfklub",
+            "hu": "Utazás és pihenés a Kaj Lykke Golfklubban",
+            "ro": "Condus & Relaxare la Clubul de Golf Kaj Lykke",
+            "en": "Drive & Relax at Kaj Lykke Golf Club"
+          },
+          "coords": [
+            8.7383,
+            55.4611
+          ],
+          "category": "parks",
+          "arrive_at": "15:10",
+          "stay_min": 125,
+          "hop_from_prev_min": 48,
+          "hop_from_prev_km": 14.4,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Genießen Sie die schöne Landschaft und vielleicht einen Kaffee im Clubhaus.",
+            "hu": "Élvezze a gyönyörű tájat és esetleg egy kávét a klubházban.",
+            "ro": "Bucurați-vă de peisajul frumos și poate de o cafea la club.",
+            "en": "Enjoy the beautiful scenery and perhaps a coffee at the clubhouse."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Bramming konzentriert sich auf eine „Cluster-Walking“-Strategie. Sie beginnen damit, Ihr Auto im Zentrum von Bramming zu parken und machen dann einen gemütlichen Spaziergang zu den historischen Sehenswürdigkeiten, einschließlich der Bramming Kirke und dem Egnsmuseum. Am Vormittag tauchen Sie in das Erbe der Stadt ein. Gegen Mittag fahren Sie in das nahegelegene Dorf Gørding, um dessen charmante Kirche zu sehen und ein authentisches Mittagessen in einem lokalen Gasthof zu genießen. Dies bildet Ihren zweiten Cluster. Der Nachmittag ist für landschaftliche Entspannung reserviert, mit einer Fahrt zum Kaj Lykke Golfklub. Hier können Sie die grünen Weiten Westjütlands genießen und Ihren Tag in einer ruhigen Umgebung ausklingen lassen, bevor Sie zurückfahren.",
+        "hu": "Az autós napja Brammingban a „klaszteres séta” stratégiára összpontosít. A központban parkolva kezdi, majd egy kellemes sétát tesz a történelmi helyszínekhez, beleértve a Brammingi templomot és az Egnsmuseumot. A délelőtt a város örökségébe való elmerülésről szól. Dél körül átautózik a közeli Gørding faluba, hogy megnézze annak bájos templomát, és egy autentikus ebédet fogyasszon egy helyi fogadóban. Ez alkotja a második klasztert. A délután a festői pihenésé, egy autózással a Kaj Lykke Golfklubhoz. Itt élvezheti Nyugat-Jütland zöld tájait, és egy nyugodt környezetben zárhatja a napot, mielőtt visszaindulna.",
+        "ro": "Ziua dvs. cu mașina în Bramming se concentrează pe o strategie de „mers pe jos în cluster”. Începeți prin a parca mașina în centrul orașului Bramming, apoi faceți o plimbare relaxantă către siturile sale de patrimoniu, inclusiv Biserica Bramming și Muzeul Egnsmuseum. Dimineața este o imersiune în moștenirea orașului. Spre prânz, conduceți spre satul din apropiere, Gørding, pentru a vedea biserica sa fermecătoare și a savura un prânz autentic la un han local. Acesta formează al doilea cluster. După-amiaza este rezervată relaxării pitorești, cu o călătorie cu mașina la Clubul de Golf Kaj Lykke. Aici vă puteți bucura de întinderile verzi din Iutlanda de Vest, încheind ziua într-un cadru liniștit înainte de a vă întoarce.",
+        "en": "Your car day in Bramming focuses on a 'cluster-walking' strategy. You'll start by parking in the center of Bramming, then take a leisurely walk to its heritage sites, including Bramming Church and the Egnsmuseum. The morning is an immersion in the town's heritage. Around midday, you'll drive to the nearby village of Gørding to see its charming church and enjoy an authentic lunch at a local inn. This forms your second cluster. The afternoon is reserved for scenic relaxation with a drive to Kaj Lykke Golf Club. Here you can enjoy the green expanses of West Jutland, ending your day in a tranquil setting before heading back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Stegt flæsk med persillesovs",
+            "tip": "Dänemarks Nationalgericht: knuspriger Schweinebauch mit Petersiliensoße."
+          },
+          {
+            "name": "Kro-Platte",
+            "tip": "Ein traditioneller Gasthof ('Kro') bietet oft eine Platte mit verschiedenen lokalen Spezialitäten an."
+          },
+          {
+            "name": "Æblekage",
+            "tip": "Ein klassischer dänischer Apfelkuchen als Dessert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stegt flæsk med persillesovs",
+            "tip": "Dánia nemzeti étele: ropogós sertéshas petrezselyemmártással."
+          },
+          {
+            "name": "Fogadó tál",
+            "tip": "Egy hagyományos fogadó ('Kro') gyakran kínál egy tálat különböző helyi specialitásokkal."
+          },
+          {
+            "name": "Æblekage",
+            "tip": "Klasszikus dán almás sütemény desszertként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stegt flæsk med persillesovs",
+            "tip": "Mâncarea națională a Danemarcei: burtă de porc crocantă cu sos de pătrunjel."
+          },
+          {
+            "name": "Platoul hanului",
+            "tip": "Un han tradițional ('Kro') oferă adesea un platou cu diverse specialități locale."
+          },
+          {
+            "name": "Æblekage",
+            "tip": "O prăjitură clasică daneză cu mere pentru desert."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stegt flæsk med persillesovs",
+            "tip": "Denmark's national dish: crispy pork belly with parsley sauce."
+          },
+          {
+            "name": "Kro Platte",
+            "tip": "A traditional inn ('Kro') will often offer a platter with various local specialties."
+          },
+          {
+            "name": "Æblekage",
+            "tip": "A classic Danish apple cake for dessert."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kaj Lykke Golfklub",
+            "tip": "Die Weite des Golfplatzes ist sehr friedlich, auch für Nicht-Golfer.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Landstraßen um Gørding",
+            "tip": "Eine langsame Fahrt durch die ländliche Landschaft kann sehr entspannend sein.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirchhof Gørding",
+            "tip": "Ein ruhiger Ort, um die Stille des Dorfes zu genießen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kaj Lykke Golfklub",
+            "tip": "A golfpálya tágassága nagyon békés, még a nem golfozók számára is.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vidéki utak Gørding körül",
+            "tip": "Egy lassú autózás a vidéki tájon nagyon pihentető lehet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Gørdingi templomkert",
+            "tip": "Csendes hely a falu csendjének élvezetéhez.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Clubul de Golf Kaj Lykke",
+            "tip": "Întinderea terenului de golf este foarte pașnică, chiar și pentru non-jucători.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Drumurile de țară din jurul Gørding",
+            "tip": "O plimbare lentă cu mașina prin peisajul rural poate fi foarte relaxantă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cimitirul bisericii Gørding",
+            "tip": "Un loc liniștit pentru a te bucura de liniștea satului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kaj Lykke Golf Club",
+            "tip": "The expanse of the golf course is very peaceful, even for non-golfers.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Country roads around Gørding",
+            "tip": "A slow drive through the rural landscape can be very relaxing.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Gørding Churchyard",
+            "tip": "A quiet spot to enjoy the silence of the village.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Keramik",
+            "tip": "Halten Sie in den Dörfern Ausschau nach Schildern für lokale Töpfer oder Kunsthandwerker."
+          },
+          {
+            "name": "Antiquitätenläden",
+            "tip": "Auf dem Land finden sich oft kleine 'Antik'-Läden mit einzigartigen Fundstücken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerámia",
+            "tip": "Keresse a falvakban a helyi fazekasokra vagy kézművesekre utaló táblákat."
+          },
+          {
+            "name": "Antikváriumok",
+            "tip": "Vidéken gyakran találhatók kis 'Antik' boltok egyedi leletekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică locală",
+            "tip": "Fiți atenți la semnele pentru olari sau artizani locali în sate."
+          },
+          {
+            "name": "Magazine de antichități",
+            "tip": "Magazinele mici 'Antik' cu descoperiri unice se găsesc adesea la țară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Pottery",
+            "tip": "Look for signs for local potters or artisans in the villages."
+          },
+          {
+            "name": "Antique Shops",
+            "tip": "Small 'Antik' shops with unique finds can often be found in the countryside."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken ist im Zentrum von Bramming in der Regel einfach, aber achten Sie auf Zeitbeschränkungen.",
+          "Die Straßen auf dem Land sind schmal; fahren Sie vorsichtig.",
+          "Ein GPS ist hilfreich, um die ländlichen Kirchen und Sehenswürdigkeiten zu finden.",
+          "Tanken Sie, bevor Sie die Stadt verlassen, da Tankstellen auf dem Land rar sein können."
+        ],
+        "hu": [
+          "A parkolás általában könnyű Bramming központjában, de figyeljen az időkorlátozásokra.",
+          "A vidéki utak keskenyek; vezessen óvatosan.",
+          "A GPS hasznos a vidéki templomok és látnivalók megtalálásához.",
+          "Tankoljon, mielőtt elhagyja a várost, mivel a benzinkutak ritkák lehetnek vidéken."
+        ],
+        "ro": [
+          "Parcarea este de obicei ușoară în centrul orașului Bramming, dar fiți atenți la restricțiile de timp.",
+          "Drumurile de la țară sunt înguste; conduceți cu atenție.",
+          "Un GPS este util pentru a găsi bisericile și siturile rurale.",
+          "Alimentați înainte de a părăsi orașul, deoarece benzinăriile pot fi rare la țară."
+        ],
+        "en": [
+          "Parking is generally easy in Bramming's center, but be aware of time limits.",
+          "Countryside roads are narrow; drive with care.",
+          "A GPS is helpful for finding the rural churches and sites.",
+          "Fill up on gas before leaving town, as stations can be sparse in the countryside."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof Bramming",
+            "hu": "Érkezés a Brammingi pályaudvarra",
+            "ro": "Sosire la Gara Bramming",
+            "en": "Arrival at Bramming Station"
+          },
+          "coords": [
+            8.6998,
+            55.4691
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Der Bahnhof ist Ihr zentraler Knotenpunkt für den Tag.",
+            "hu": "A vasútállomás a napi központi csomópontja.",
+            "ro": "Gara este nodul dvs. central pentru această zi.",
+            "en": "The station is your central hub for the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Zentrum: Sct. Ansgar & Bramming Kirke",
+            "hu": "Központ klaszter: Szent Ansgar és Brammingi templom",
+            "ro": "Cluster Centru: Biserica Sf. Ansgar & Bramming",
+            "en": "Center Cluster: Sct. Ansgar & Bramming Church"
+          },
+          "coords": [
+            8.7043,
+            55.4728
+          ],
+          "category": "churches",
+          "arrive_at": "09:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Bahnhof, um die beiden Hauptkirchen zu erkunden.",
+            "hu": "Egy rövid séta a pályaudvartól a két fő templom felfedezéséhez.",
+            "ro": "O scurtă plimbare de la gară pentru a explora cele două biserici principale.",
+            "en": "A short walk from the station to explore the two main churches."
+          }
+        },
+        {
+          "name": {
+            "de": "Bramming Egnsmuseum",
+            "hu": "Brammingi Helytörténeti Múzeum",
+            "ro": "Muzeul Regional Bramming",
+            "en": "Bramming Regional Museum"
+          },
+          "coords": [
+            8.7077,
+            55.4768
+          ],
+          "category": "museums",
+          "arrive_at": "10:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie weiter zum Museum, das sich ebenfalls im zentralen Cluster befindet.",
+            "hu": "Sétáljon tovább a múzeumhoz, amely szintén a központi klaszterben található.",
+            "ro": "Continuați pe jos până la muzeu, aflat tot în clusterul central.",
+            "en": "Continue walking to the museum, also within the central cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt & Spaziergang zum Bramming Lystanlæg",
+            "hu": "Buszozás és séta a Bramming Lystanlæg parkhoz",
+            "ro": "Călătorie cu autobuzul și plimbare la Bramming Lystanlæg",
+            "en": "Bus Ride & Walk to Bramming Lystanlæg"
+          },
+          "coords": [
+            8.6855,
+            55.4725
+          ],
+          "category": "parks",
+          "arrive_at": "13:11",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus Richtung Westen für ein paar Haltestellen, um näher an den Park zu gelangen.",
+            "hu": "Menjen néhány megállót egy helyi busszal nyugat felé, hogy közelebb kerüljön a parkhoz.",
+            "ro": "Luați un autobuz local spre vest pentru câteva stații pentru a vă apropia de parc.",
+            "en": "Take a local bus west for a few stops to get closer to the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt & Spaziergang zum Terp Spejdercenter",
+            "hu": "Buszozás és séta a Terp Cserkészközponthoz",
+            "ro": "Călătorie cu autobuzul și plimbare la Centrul Terp",
+            "en": "Bus Ride & Walk to Terp Spejdercenter"
+          },
+          "coords": [
+            8.6581,
+            55.4925
+          ],
+          "category": "parks",
+          "arrive_at": "15:09",
+          "stay_min": 101,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 4.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus nach Norden, um die offene Landschaft um das Pfadfinderzentrum zu erkunden.",
+            "hu": "Menjen busszal észak felé, hogy felfedezze a cserkészközpont körüli nyílt tájat.",
+            "ro": "Luați un autobuz spre nord pentru a explora peisajul deschis din jurul centrului de cercetași.",
+            "en": "Take a bus north to explore the open landscape around the scout center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln in Bramming nutzt den Bahnhof als Ausgangspunkt. Der Vormittag besteht aus einem einfachen „Walk-Cluster“ im Stadtzentrum, bei dem Sie die Kirchen und das Museum besuchen, die alle leicht zu Fuß vom Bahnhof aus erreichbar sind. Nach dem Mittagessen nutzen Sie das lokale Busnetz, um zu Ihrem zweiten Cluster zu gelangen: dem Bramming Lystanlæg Park. Eine kurze Busfahrt bringt Sie in die Nähe, und ein kurzer Spaziergang führt Sie in diese grüne Oase. Am Nachmittag bringt Sie eine weitere Busfahrt zum Terp Spejdercenter, Ihrem dritten Cluster, wo Sie eine andere Seite von Brammings Naturlandschaft erleben können, bevor Sie für Ihre Abreise zum Bahnhof zurückkehren.",
+        "hu": "A tömegközlekedéssel töltött napja Brammingban a vasútállomást használja kiindulópontként. A délelőtt egy egyszerű „sétaklaszterből” áll a városközpontban, ahol meglátogatja a templomokat és a múzeumot, mindezt könnyen elérhetően a vasútállomástól. Ebéd után a helyi buszhálózatot használja, hogy eljusson a második klaszterhez: a Bramming Lystanlæg parkhoz. Egy rövid buszút közel viszi, és egy rövid séta elvezeti ebbe a zöld oázisba. Délután egy másik buszút viszi a Terp Cserkészközponthoz, a harmadik klaszterhez, ahol megtapasztalhatja Bramming természeti tájának egy másik oldalát, mielőtt visszatérne a vasútállomásra az induláshoz.",
+        "ro": "Ziua dvs. cu transportul public în Bramming folosește gara ca bază. Dimineața constă într-un „cluster de mers pe jos” simplu în centrul orașului, vizitând bisericile și muzeul, toate la distanță de mers pe jos de gară. După prânz, folosiți rețeaua locală de autobuze pentru a ajunge la al doilea cluster: parcul Bramming Lystanlæg. O scurtă călătorie cu autobuzul vă aduce în apropiere, iar o plimbare scurtă vă duce în această oază de verdeață. După-amiaza, o altă călătorie cu autobuzul vă duce la Centrul de Cercetași Terp, al treilea cluster, unde puteți experimenta o altă latură a peisajului natural din Bramming înainte de a vă întoarce la gară pentru plecare.",
+        "en": "Your public transit day in Bramming uses the train station as its base. The morning consists of a simple 'walk cluster' in the town center, visiting the churches and museum, all within easy walking distance of the station. After lunch, you'll use the local bus network to get to your second cluster: the Bramming Lystanlæg park. A short bus ride gets you close, and a brief walk takes you into this green oasis. In the afternoon, another bus journey takes you to the Terp Spejdercenter, your third cluster, where you can experience a different side of Bramming's natural landscape before returning to the station for your departure."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bageri-Sandwich",
+            "tip": "Holen Sie sich ein frisches Sandwich von einer Bäckerei ('Bageri') für ein schnelles Mittagessen unterwegs."
+          },
+          {
+            "name": "Koldskål",
+            "tip": "An einem warmen Tag ist diese gekühlte Buttermilchsuppe eine erfrischende Leckerei."
+          },
+          {
+            "name": "Lakrids",
+            "tip": "Probieren Sie dänisches Lakritz, das in vielen Geschmacksrichtungen erhältlich ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Péksüteményes szendvics",
+            "tip": "Vegyen egy friss szendvicset egy pékségből ('Bageri') egy gyors ebédhez útközben."
+          },
+          {
+            "name": "Koldskål",
+            "tip": "Meleg napon ez a hűtött íróleves frissítő finomság."
+          },
+          {
+            "name": "Lakrids",
+            "tip": "Kóstolja meg a dán édesgyökeret, amely sokféle ízben kapható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sandviș de la brutărie",
+            "tip": "Luați un sandviș proaspăt de la o brutărie ('Bageri') pentru un prânz rapid din mers."
+          },
+          {
+            "name": "Koldskål",
+            "tip": "Într-o zi călduroasă, această supă rece de lapte bătut este un deliciu răcoritor."
+          },
+          {
+            "name": "Lakrids",
+            "tip": "Încercați lemnul dulce danez, care vine în multe arome."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bageri Sandwich",
+            "tip": "Grab a fresh sandwich from a bakery ('Bageri') for a quick lunch on the go."
+          },
+          {
+            "name": "Koldskål",
+            "tip": "On a warm day, this chilled buttermilk soup is a refreshing treat."
+          },
+          {
+            "name": "Lakrids",
+            "tip": "Try some Danish licorice, which comes in many flavors."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfenster",
+            "tip": "Genießen Sie die vorbeiziehende Landschaft von Ihrem Sitzplatz im Bus aus.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Warten auf den Bus",
+            "tip": "Die Momente des Wartens auf den Bus können unerwartet friedlich sein.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Entfernte Parkbank",
+            "tip": "Finden Sie eine Bank abseits der Hauptwege im Lystanlæg.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszablak",
+            "tip": "Élvezze az elsuhanó tájat a busz üléséből.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Buszra várva",
+            "tip": "A buszra való várakozás pillanatai váratlanul békések lehetnek.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Távoli pad a parkban",
+            "tip": "Keressen egy padot a Lystanlæg fő útjaitól távol.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fereastra autobuzului",
+            "tip": "Bucurați-vă de peisajul care trece de pe scaunul dvs. din autobuz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Așteptând autobuzul",
+            "tip": "Momentele de așteptare a autobuzului pot fi neașteptat de pașnice.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Bancă îndepărtată în parc",
+            "tip": "Găsiți o bancă departe de cărările principale din Lystanlæg.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus Window",
+            "tip": "Enjoy the passing scenery from your seat on the bus.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Waiting for the bus",
+            "tip": "The moments waiting for the bus can be unexpectedly peaceful.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Distant park bench",
+            "tip": "Find a bench away from the main paths in Lystanlæg.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Bahnhof",
+            "tip": "Kaufen Sie eine Zeitung oder ein Magazin für Ihre Busfahrt."
+          },
+          {
+            "name": "Lokaler Supermarkt",
+            "tip": "Kaufen Sie dänische Schokolade oder Kekse, die Sie mit nach Hause nehmen können."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a pályaudvaron",
+            "tip": "Vásároljon újságot vagy magazint a buszútra."
+          },
+          {
+            "name": "Helyi szupermarket",
+            "tip": "Vásároljon dán csokoládét vagy kekszet, amit hazavihet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la gară",
+            "tip": "Cumpărați un ziar sau o revistă pentru călătoria cu autobuzul."
+          },
+          {
+            "name": "Supermarket local",
+            "tip": "Cumpărați ciocolată sau biscuiți danezi pentru a-i lua acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Kiosk",
+            "tip": "Pick up a newspaper or magazine for your bus journey."
+          },
+          {
+            "name": "Local Supermarket",
+            "tip": "Buy some Danish chocolates or biscuits to take home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn diese verfügbar ist, um Geld zu sparen.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, da die Busse in ländlichen Gebieten nicht so häufig fahren.",
+          "Haben Sie Kleingeld für den Bus dabei, falls keine Kartenzahlung möglich ist.",
+          "Laden Sie Offline-Karten herunter, da die Mobilfunkabdeckung in einigen Gebieten lückenhaft sein kann."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha elérhető, hogy pénzt takarítson meg.",
+          "Ellenőrizze előre a buszmenetrendet, mivel a vidéki területeken ritkábban járhatnak a buszok.",
+          "Legyen nálad aprópénz a buszra, ha a kártyás fizetés nem lehetséges.",
+          "Töltsön le offline térképeket, mivel a mobil lefedettség foltos lehet egyes területeken."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz, dacă este disponibil, pentru a economisi bani.",
+          "Verificați din timp orarele autobuzelor, deoarece serviciile pot fi mai puțin frecvente în zonele rurale.",
+          "Aveți la dvs. mărunțiș pentru autobuz, în caz că nu se poate plăti cu cardul.",
+          "Descărcați hărți offline, deoarece acoperirea mobilă poate fi discontinuă în unele zone."
+        ],
+        "en": [
+          "Buy a day pass for the bus if available to save money.",
+          "Check bus schedules in advance, as services can be less frequent in rural areas.",
+          "Have small change for the bus in case card payment is not an option.",
+          "Download offline maps, as mobile coverage can be patchy in some areas."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1532 @@
+{
+  "city_id": "sweden-norrkoping-cities-v2",
+  "anchor": {
+    "name": "Norrköping",
+    "coords": [
+      58.5877,
+      16.1924
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 3.4,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Carl Johans Park",
+            "hu": "Carl Johans Park",
+            "ro": "Parcul Carl Johans",
+            "en": "Carl Johans Park"
+          },
+          "coords": [
+            16.189,
+            58.589
+          ],
+          "category": "parks",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Berühmt für seine Kaktus-Pflanzungen im Sommer.",
+            "hu": "Nyáron a kaktusz-ültetvényeiről híres.",
+            "ro": "Renumit pentru plantațiile de cactuși din timpul verii.",
+            "en": "Famous for its cactus plantations during the summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Motala Ström & Strömparken",
+            "hu": "Motala Ström és Strömparken",
+            "ro": "Râul Motala și Parcul Strömparken",
+            "en": "Motala Ström & Strömparken"
+          },
+          "coords": [
+            16.186,
+            58.59
+          ],
+          "category": "natural features",
+          "arrive_at": "09:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Setzen Sie sich auf eine Bank und beobachten Sie die Stromschnellen.",
+            "hu": "Üljön le egy padra és figyelje a zúgókat.",
+            "ro": "Așezați-vă pe o bancă și priviți repezișurile.",
+            "en": "Sit on a bench and watch the rapids."
+          }
+        },
+        {
+          "name": {
+            "de": "Industrielandschaft (Industrilandskapet)",
+            "hu": "Ipari táj (Industrilandskapet)",
+            "ro": "Peisajul Industrial (Industrilandskapet)",
+            "en": "The Industrial Landscape (Industrilandskapet)"
+          },
+          "coords": [
+            16.182,
+            58.589
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die gelben Gebäude entlang des Flusses sind bei Nacht wunderschön beleuchtet.",
+            "hu": "A folyó menti sárga épületek éjjel gyönyörűen ki vannak világítva.",
+            "ro": "Clădirile galbene de-a lungul râului sunt frumos iluminate noaptea.",
+            "en": "The yellow buildings along the river are beautifully lit at night."
+          }
+        },
+        {
+          "name": {
+            "de": "Arbeitsmuseum (Arbetets museum)",
+            "hu": "Munka Múzeuma (Arbetets museum)",
+            "ro": "Muzeul Muncii (Arbetets museum)",
+            "en": "Museum of Work (Arbetets museum)"
+          },
+          "coords": [
+            16.18,
+            58.5895
+          ],
+          "category": "museums",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum befindet sich in einer ehemaligen Baumwollspinnerei, genannt 'Strykjärnet' (das Bügeleisen).",
+            "hu": "A múzeum egy 'Strykjärnet' (vasaló) nevű egykori pamutfonóban található.",
+            "ro": "Muzeul este situat într-o fostă filatură de bumbac, numită 'Strykjärnet' (fierul de călcat).",
+            "en": "The museum is housed in a former cotton mill called 'Strykjärnet' (The Flatiron)."
+          }
+        },
+        {
+          "name": {
+            "de": "Visualisierungszentrum C (Visualiseringscenter C)",
+            "hu": "Vizuális Központ C (Visualiseringscenter C)",
+            "ro": "Centrul de Vizualizare C (Visualiseringscenter C)",
+            "en": "Visualization Center C (Visualiseringscenter C)"
+          },
+          "coords": [
+            16.182,
+            58.5885
+          ],
+          "category": "cultural centres",
+          "arrive_at": "13:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie die interaktiven Ausstellungen aus – ideal für alle Altersgruppen.",
+            "hu": "Próbálja ki az interaktív kiállításokat – minden korosztály számára ideális.",
+            "ro": "Încercați expozițiile interactive - ideale pentru toate vârstele.",
+            "en": "Try out the interactive exhibits - great for all ages."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Norrköping (Norrköpings Stadsmuseum)",
+            "hu": "Norrköpingi Városi Múzeum (Norrköpings Stadsmuseum)",
+            "ro": "Muzeul Orașului Norrköping (Norrköpings Stadsmuseum)",
+            "en": "Norrköping City Museum (Norrköpings Stadsmuseum)"
+          },
+          "coords": [
+            16.178,
+            58.588
+          ],
+          "category": "museums",
+          "arrive_at": "15:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Konzentriert sich auf die lokale Handwerks- und Industriegeschichte.",
+            "hu": "A helyi kézműves és ipari történelemre összpontosít.",
+            "ro": "Se concentrează pe istoria meșteșugurilor și industrială locală.",
+            "en": "Focuses on the local craft and industrial history."
+          }
+        },
+        {
+          "name": {
+            "de": "Matteus-Kirche (Matteuskyrkan)",
+            "hu": "Máté-templom (Matteuskyrkan)",
+            "ro": "Biserica Sf. Matei (Matteuskyrkan)",
+            "en": "St. Matthew's Church (Matteuskyrkan)"
+          },
+          "coords": [
+            16.2,
+            58.586
+          ],
+          "category": "churches",
+          "arrive_at": "16:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besteigen Sie den Turm für eine großartige Aussicht auf die Stadt.",
+            "hu": "Másszon fel a toronyba a városra nyíló nagyszerű kilátásért.",
+            "ro": "Urcați în turn pentru o priveliște minunată asupra orașului.",
+            "en": "Climb the tower for a great view of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstmuseum Norrköping (Norrköpings Konstmuseum)",
+            "hu": "Norrköpingi Művészeti Múzeum (Norrköpings Konstmuseum)",
+            "ro": "Muzeul de Artă din Norrköping (Norrköpings Konstmuseum)",
+            "en": "Norrköping Art Museum (Norrköpings Konstmuseum)"
+          },
+          "coords": [
+            16.184,
+            58.585
+          ],
+          "category": "museums",
+          "arrive_at": "17:45",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Fokus auf schwedischen Modernismus und zeitgenössische Kunst.",
+            "hu": "A svéd modernizmusra és a kortárs művészetre összpontosít.",
+            "ro": "Accent pe modernismul suedez și arta contemporană.",
+            "en": "Focus on Swedish modernism and contemporary art."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im grünen Herzen der Stadt, dem Carl Johans Park, bevor Sie dem Rauschen des Motala Ström folgen. Am Vormittag erkunden Sie die beeindruckende Industrielandschaft, ein Zeugnis der Vergangenheit Norrköpings als „Schwedens Manchester“. Der Nachmittag ist den Museen gewidmet. Sie tauchen im Arbeitsmuseum und im Stadtmuseum in die Geschichte ein und erleben im Visualisierungszentrum die Zukunft. Beenden Sie Ihren Tag mit spiritueller Ruhe in der Matteus-Kirche und einem künstlerischen Abschluss im Kunstmuseum, alles bequem zu Fuß erreichbar.",
+        "hu": "Kezdje a napot a város zöld szívében, a Carl Johans Parkban, mielőtt a Motala Ström folyó zúgását követné. A délelőttöt az impozáns ipari táj felfedezésével töltse, amely Norrköping „Svédország Manchestere”-ként ismert múltjának tanúja. A délután a múzeumoké. Merüljön el a történelemben a Munka Múzeumában és a Városi Múzeumban, majd tapasztalja meg a jövőt a Vizuális Központban. Zárja a napot a Máté-templom spirituális nyugalmával és egy művészeti élménnyel a Művészeti Múzeumban, mindezt kényelmes sétatávolságra.",
+        "ro": "Începeți ziua în inima verde a orașului, Parcul Carl Johans, înainte de a urma vuietul râului Motala. Dimineața, explorați peisajul industrial impresionant, o mărturie a trecutului orașului Norrköping ca „Manchesterul Suediei”. După-amiaza este dedicată muzeelor. Pătrundeți în istorie la Muzeul Muncii și la Muzeul Orașului și experimentați viitorul la Centrul de Vizualizare. Încheiați ziua cu liniștea spirituală a Bisericii Sf. Matei și o notă artistică la Muzeul de Artă, toate la o distanță de mers pe jos.",
+        "en": "Start your day in the green heart of the city, Carl Johans Park, before following the rush of the Motala Ström river. In the morning, explore the impressive Industrial Landscape, a testament to Norrköping's past as 'Sweden's Manchester'. The afternoon is dedicated to museums. Delve into history at the Museum of Work and the City Museum, and experience the future at the Visualization Center. End your day with the spiritual tranquility of St. Matthew's Church and an artistic finish at the Art Museum, all within easy walking distance."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Köttbullar",
+            "tip": "Probieren Sie die klassischen schwedischen Fleischbällchen mit Preiselbeermarmelade."
+          },
+          {
+            "name": "Kanelbulle",
+            "tip": "Eine Zimtschnecke ist ein Muss für eine schwedische 'Fika' (Kaffeepause)."
+          },
+          {
+            "name": "Pappa Grappa",
+            "tip": "Beliebtes italienisches Restaurant in der Industrielandschaft."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Köttbullar",
+            "tip": "Kóstolja meg a klasszikus svéd húsgombócokat vörösáfonya lekvárral."
+          },
+          {
+            "name": "Kanelbulle",
+            "tip": "Egy fahéjas csiga kötelező egy svéd 'fikához' (kávészünet)."
+          },
+          {
+            "name": "Pappa Grappa",
+            "tip": "Népszerű olasz étterem az ipari negyedben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Köttbullar",
+            "tip": "Încercați chiftelele suedeze clasice cu gem de merișoare."
+          },
+          {
+            "name": "Kanelbulle",
+            "tip": "O ruladă cu scorțișoară este obligatorie pentru o 'fika' suedeză (pauză de cafea)."
+          },
+          {
+            "name": "Pappa Grappa",
+            "tip": "Restaurant italian popular în zona industrială."
+          }
+        ],
+        "en": [
+          {
+            "name": "Köttbullar",
+            "tip": "Try the classic Swedish meatballs with lingonberry jam."
+          },
+          {
+            "name": "Kanelbulle",
+            "tip": "A cinnamon bun is a must for a Swedish 'fika' (coffee break)."
+          },
+          {
+            "name": "Pappa Grappa",
+            "tip": "Popular Italian restaurant in the Industrial Landscape."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Folkparken",
+            "tip": "Ein größerer Park etwas außerhalb des Zentrums, ideal für einen ruhigen Spaziergang.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Ufer des Motala Ström",
+            "tip": "Finden Sie eine ruhige Stelle entlang des Flusses, um dem Wasser zu lauschen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Åbackarna Naturreservat",
+            "tip": "Ein wunderschönes Naturreservat für längere, friedliche Spaziergänge.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Folkparken",
+            "tip": "Egy nagyobb park kissé a központon kívül, ideális egy csendes sétához.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Motala Ström partja",
+            "tip": "Keressen egy csendes helyet a folyó mentén, és hallgassa a víz csobogását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Åbackarna Természetvédelmi Terület",
+            "tip": "Gyönyörű természetvédelmi terület hosszabb, békés sétákhoz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Folkparken",
+            "tip": "Un parc mai mare, puțin în afara centrului, ideal pentru o plimbare liniștită.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Malul râului Motala",
+            "tip": "Găsiți un loc liniștit de-a lungul râului pentru a asculta apa.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rezervația Naturală Åbackarna",
+            "tip": "O rezervație naturală frumoasă pentru plimbări mai lungi și pașnice.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Folkparken",
+            "tip": "A larger park slightly outside the center, perfect for a quiet walk.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Banks of Motala Ström",
+            "tip": "Find a quiet spot along the river to listen to the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Åbackarna Nature Reserve",
+            "tip": "A beautiful nature reserve for longer, peaceful walks.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Knäppingsborg",
+            "tip": "Ein charmantes Viertel mit kleinen Geschäften, Boutiquen und Restaurants."
+          },
+          {
+            "name": "Drottninggatan",
+            "tip": "Die Haupteinkaufsstraße mit bekannten Marken und Kaufhäusern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Knäppingsborg",
+            "tip": "Bájos negyed kis üzletekkel, butikokkal és éttermekkel."
+          },
+          {
+            "name": "Drottninggatan",
+            "tip": "A fő bevásárlóutca ismert márkákkal és áruházakkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Knäppingsborg",
+            "tip": "Un cartier fermecător cu magazine mici, buticuri și restaurante."
+          },
+          {
+            "name": "Drottninggatan",
+            "tip": "Strada principală de cumpărături cu mărci cunoscute și magazine universale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Knäppingsborg",
+            "tip": "A charming quarter with small shops, boutiques, and restaurants."
+          },
+          {
+            "name": "Drottninggatan",
+            "tip": "The main shopping street with well-known brands and department stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Industrielandschaft uneben sein kann.",
+          "Die meisten Museen sind montags geschlossen, überprüfen Sie die Öffnungszeiten im Voraus.",
+          "Eine 'Fika' (Kaffeepause mit Gebäck) am Nachmittag ist ein wesentlicher Bestandteil der schwedischen Kultur.",
+          "Achten Sie auf die gelben Straßenbahnen, ein Wahrzeichen von Norrköping."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az ipari táj macskakövei egyenetlenek lehetnek.",
+          "A legtöbb múzeum hétfőn zárva tart, előre ellenőrizze a nyitvatartási időket.",
+          "Egy délutáni 'fika' (kávészünet süteménnyel) a svéd kultúra elengedhetetlen része.",
+          "Figyeljen a sárga villamosokra, Norrköping egyik jelképére."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din Peisajul Industrial poate fi denivelat.",
+          "Majoritatea muzeelor sunt închise lunea, verificați programul în avans.",
+          "O 'fika' (pauză de cafea cu produse de patiserie) după-amiaza este o parte esențială a culturii suedeze.",
+          "Fiți atenți la tramvaiele galbene, un simbol al orașului Norrköping."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the Industrial Landscape can be uneven.",
+          "Most museums are closed on Mondays, check opening hours in advance.",
+          "An afternoon 'fika' (coffee break with pastries) is an essential part of Swedish culture.",
+          "Watch out for the yellow trams, a landmark of Norrköping."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 7.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Konstmuseum Norrköping",
+            "hu": "Norrköpingi Művészeti Múzeum",
+            "ro": "Muzeul de Artă din Norrköping",
+            "en": "Norrköping Art Museum"
+          },
+          "coords": [
+            16.184,
+            58.585
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, um sich auf einen Tag voller visueller Eindrücke einzustimmen.",
+            "hu": "Kezdje itt, hogy ráhangolódjon a vizuális élményekkel teli napra.",
+            "ro": "Începeți aici pentru a vă pregăti pentru o zi plină de impresii vizuale.",
+            "en": "Start here to get in the mood for a day of visual impressions."
+          }
+        },
+        {
+          "name": {
+            "de": "Carl Johans Park",
+            "hu": "Carl Johans Park",
+            "ro": "Parcul Carl Johans",
+            "en": "Carl Johans Park"
+          },
+          "coords": [
+            16.189,
+            58.589
+          ],
+          "category": "parks",
+          "arrive_at": "10:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine schnelle Radtour durch den Park, um die berühmten Kaktusbeete zu sehen.",
+            "hu": "Egy gyors biciklitúra a parkon keresztül a híres kaktuszágyások megtekintéséhez.",
+            "ro": "O plimbare rapidă cu bicicleta prin parc pentru a vedea faimoasele plantații de cactuși.",
+            "en": "A quick bike ride through the park to see the famous cactus beds."
+          }
+        },
+        {
+          "name": {
+            "de": "Louis De Geer Konzertsaal & Konferenz",
+            "hu": "Louis De Geer Koncert- és Konferenciaközpont",
+            "ro": "Sala de Concerte și Conferințe Louis De Geer",
+            "en": "Louis De Geer Concert & Congress Hall"
+          },
+          "coords": [
+            16.183,
+            58.591
+          ],
+          "category": "cultural centres",
+          "arrive_at": "11:25",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Das Gebäude, eine ehemalige Papierfabrik, ist ein architektonisches Highlight.",
+            "hu": "Az épület, egy egykori papírgyár, építészeti remekmű.",
+            "ro": "Clădirea, o fostă fabrică de hârtie, este un punct de atracție arhitectural.",
+            "en": "The building, a former paper mill, is an architectural highlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Industrielandschaft (Industrilandskapet)",
+            "hu": "Ipari táj (Industrilandskapet)",
+            "ro": "Peisajul Industrial (Industrilandskapet)",
+            "en": "The Industrial Landscape (Industrilandskapet)"
+          },
+          "coords": [
+            16.182,
+            58.589
+          ],
+          "category": "historical",
+          "arrive_at": "11:48",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radfahren Sie entlang des Flusses, um die besten Fotospots zu finden.",
+            "hu": "Biciklizzen végig a folyó mentén, hogy megtalálja a legjobb fotóhelyeket.",
+            "ro": "Mergeți cu bicicleta de-a lungul râului pentru a găsi cele mai bune locuri de fotografiat.",
+            "en": "Cycle along the river to find the best photo spots."
+          }
+        },
+        {
+          "name": {
+            "de": "Arbeitsmuseum (Arbetets museum)",
+            "hu": "Munka Múzeuma (Arbetets museum)",
+            "ro": "Muzeul Muncii (Arbetets museum)",
+            "en": "Museum of Work (Arbetets museum)"
+          },
+          "coords": [
+            16.18,
+            58.5895
+          ],
+          "category": "museums",
+          "arrive_at": "12:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad draußen an und nehmen Sie sich Zeit für die Ausstellungen und das Mittagessen.",
+            "hu": "Zárja le a kerékpárt kint, és szánjon időt a kiállításokra és az ebédre.",
+            "ro": "Legați-vă bicicleta afară și acordați-vă timp pentru expoziții și prânz.",
+            "en": "Lock your bike outside and take your time for the exhibitions and lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Åbackarna Naturreservat (Flussaufwärts)",
+            "hu": "Åbackarna Természetvédelmi Terület (folyón felfelé)",
+            "ro": "Rezervația Naturală Åbackarna (în amonte)",
+            "en": "Åbackarna Nature Reserve (Upstream)"
+          },
+          "coords": [
+            16.16,
+            58.585
+          ],
+          "category": "natural features",
+          "arrive_at": "15:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine erfrischende Radtour aus der Stadt heraus in die Natur.",
+            "hu": "Egy frissítő biciklitúra a városból a természetbe.",
+            "ro": "O plimbare revigorantă cu bicicleta din oraș în natură.",
+            "en": "A refreshing bike ride out of the city and into nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Matteus-Kirche (Matteuskyrkan)",
+            "hu": "Máté-templom (Matteuskyrkan)",
+            "ro": "Biserica Sf. Matei (Matteuskyrkan)",
+            "en": "St. Matthew's Church (Matteuskyrkan)"
+          },
+          "coords": [
+            16.2,
+            58.586
+          ],
+          "category": "churches",
+          "arrive_at": "16:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit dem beeindruckenden Blick vom Kirchturm.",
+            "hu": "Fejezze be a túrát a templomtoronyból nyíló lenyűgöző kilátással.",
+            "ro": "Încheiați turul cu priveliștea impresionantă din turnul bisericii.",
+            "en": "End your tour with the impressive view from the church tower."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad für eine dynamische Erkundung Norrköpings. Beginnen Sie mit einem kulturellen Paukenschlag im Kunstmuseum und radeln Sie dann zum Carl Johans Park. Am Vormittag folgen Sie dem Flusslauf, bewundern die Industrielandschaft und halten am architektonisch reizvollen Louis De Geer Konzertsaal. Nach einer längeren Mittagspause und einem Besuch im Arbeitsmuseum entfliehen Sie am Nachmittag dem städtischen Trubel mit einer erfrischenden Fahrt zum Åbackarna Naturreservat. Der Tag endet mit dem Panoramablick vom Turm der Matteus-Kirche.",
+        "hu": "Pattanjon kerékpárra Norrköping dinamikus felfedezéséhez. Kezdjen egy kulturális felütéssel a Művészeti Múzeumban, majd tekerjen el a Carl Johans Parkba. Délelőtt kövesse a folyó útját, csodálja meg az ipari tájat, és álljon meg az építészetileg lenyűgöző Louis De Geer Koncertteremnél. Egy hosszabb ebédszünet és a Munka Múzeumának meglátogatása után délután elmenekülhet a városi nyüzsgésből egy frissítő kerékpártúrával az Åbackarna Természetvédelmi Területre. A nap a Máté-templom tornyából nyíló panorámával zárul.",
+        "ro": "Urcați-vă pe bicicletă pentru o explorare dinamică a orașului Norrköping. Începeți cu o explozie culturală la Muzeul de Artă, apoi pedalați spre Parcul Carl Johans. Dimineața, urmați cursul râului, admirați peisajul industrial și opriți-vă la Sala de Concerte Louis De Geer, o bijuterie arhitecturală. După o pauză de prânz mai lungă și o vizită la Muzeul Muncii, evadați din agitația urbană după-amiaza cu o plimbare revigorantă cu bicicleta la Rezervația Naturală Åbackarna. Ziua se încheie cu vederea panoramică din turnul Bisericii Sf. Matei.",
+        "en": "Get on your bike for a dynamic exploration of Norrköping. Start with a cultural bang at the Art Museum, then cycle to Carl Johans Park. In the morning, follow the river's course, admire the Industrial Landscape, and stop at the architecturally stunning Louis De Geer Concert Hall. After a longer lunch break and a visit to the Museum of Work, escape the urban bustle in the afternoon with a refreshing ride to the Åbackarna Nature Reserve. The day concludes with the panoramic view from the tower of St. Matthew's Church."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lax (Lachs)",
+            "tip": "Probieren Sie geräucherten oder gebeizten Lachs, eine schwedische Spezialität."
+          },
+          {
+            "name": "Fika-Pausen",
+            "tip": "Planen Sie mehrere kurze Stopps für Kaffee und Gebäck ein, um Energie zu tanken."
+          },
+          {
+            "name": "Saliga Munken",
+            "tip": "Gemütlicher Pub mit gutem Essen, perfekt nach einer langen Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lax (lazac)",
+            "tip": "Kóstolja meg a füstölt vagy pácolt lazacot, egy svéd specialitást."
+          },
+          {
+            "name": "Fika szünetek",
+            "tip": "Tervezzen be több rövid megállót kávéra és süteményre, hogy feltöltődjön energiával."
+          },
+          {
+            "name": "Saliga Munken",
+            "tip": "Hangulatos pub jó ételekkel, tökéletes egy hosszú biciklitúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lax (somon)",
+            "tip": "Încercați somonul afumat sau marinat, o specialitate suedeză."
+          },
+          {
+            "name": "Pauze Fika",
+            "tip": "Planificați mai multe opriri scurte pentru cafea și produse de patiserie pentru a vă reîncărca bateriile."
+          },
+          {
+            "name": "Saliga Munken",
+            "tip": "Un pub confortabil cu mâncare bună, perfect după o plimbare lungă cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lax (Salmon)",
+            "tip": "Try smoked or cured salmon, a Swedish specialty."
+          },
+          {
+            "name": "Fika breaks",
+            "tip": "Plan for several short stops for coffee and pastries to refuel."
+          },
+          {
+            "name": "Saliga Munken",
+            "tip": "Cozy pub with good food, perfect after a long bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Åbackarna Naturreservat",
+            "tip": "Der perfekte Ort, um dem Stadtlärm zu entkommen und die Natur zu genießen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang am Fluss",
+            "tip": "Die Radwege entlang des Motala Ström sind ideal für eine entspannte Fahrt.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Blick von der Matteus-Kirche",
+            "tip": "Genießen Sie die Stille und die weite Aussicht über die Stadt.",
+            "emoji": "🌇"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Åbackarna Természetvédelmi Terület",
+            "tip": "Tökéletes hely a város zajától való elszakadásra és a természet élvezetére.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Séta a folyó mentén",
+            "tip": "A Motala Ström menti kerékpárutak ideálisak egy pihentető tekeréshez.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Kilátás a Máté-templomból",
+            "tip": "Élvezze a csendet és a városra nyíló széles kilátást.",
+            "emoji": "🌇"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rezervația Naturală Åbackarna",
+            "tip": "Locul perfect pentru a scăpa de zgomotul orașului și a te bucura de natură.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare pe malul râului",
+            "tip": "Pistele de biciclete de-a lungul râului Motala sunt ideale pentru o plimbare relaxantă.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Vedere de la Biserica Sf. Matei",
+            "tip": "Bucurați-vă de liniște și de vederea panoramică asupra orașului.",
+            "emoji": "🌇"
+          }
+        ],
+        "en": [
+          {
+            "name": "Åbackarna Nature Reserve",
+            "tip": "The perfect place to escape the city noise and enjoy nature.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Riverfront ride",
+            "tip": "The bike paths along the Motala Ström are great for a relaxing ride.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "View from St. Matthew's Church",
+            "tip": "Enjoy the silence and the wide view over the city.",
+            "emoji": "🌇"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Fahrradgeschäfte",
+            "tip": "Kaufen Sie einzigartiges Fahrradzubehör oder schwedisches Design."
+          },
+          {
+            "name": "Hantverksmagasinet i Knäppingsborg",
+            "tip": "Handwerksladen mit lokalen Produkten, ideal für Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerékpárüzletek",
+            "tip": "Vásároljon egyedi kerékpár-kiegészítőket vagy svéd dizájn termékeket."
+          },
+          {
+            "name": "Hantverksmagasinet i Knäppingsborg",
+            "tip": "Kézműves bolt helyi termékekkel, ideális ajándéktárgyak vásárlásához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine locale de biciclete",
+            "tip": "Cumpărați accesorii unice pentru biciclete sau design suedez."
+          },
+          {
+            "name": "Hantverksmagasinet i Knäppingsborg",
+            "tip": "Magazin de artizanat cu produse locale, ideal pentru suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local bike shops",
+            "tip": "Shop for unique bike accessories or Swedish design."
+          },
+          {
+            "name": "Hantverksmagasinet i Knäppingsborg",
+            "tip": "Craft shop with local products, ideal for souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Luftdruck Ihrer Reifen, bevor Sie losfahren.",
+          "Nutzen Sie die gut ausgebauten Radwege, insbesondere entlang des Flusses.",
+          "Ein Helm wird empfohlen, ist aber für Erwachsene nicht gesetzlich vorgeschrieben.",
+          "Die meisten Sehenswürdigkeiten sind fahrradfreundlich, mit Abstellmöglichkeiten in der Nähe."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Használja a jól kiépített kerékpárutakat, különösen a folyó mentén.",
+          "A sisak ajánlott, de felnőttek számára nem kötelező.",
+          "A legtöbb látnivaló kerékpárbarát, a közelben parkolási lehetőséggel."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de a porni.",
+          "Folosiți pistele de biciclete bine dezvoltate, în special de-a lungul râului.",
+          "Se recomandă casca, dar nu este obligatorie prin lege pentru adulți.",
+          "Majoritatea atracțiilor sunt prietenoase cu bicicletele, cu locuri de parcare în apropiere."
+        ],
+        "en": [
+          "Check your tire pressure before you set off.",
+          "Use the well-developed bike paths, especially along the river.",
+          "A helmet is recommended but not legally required for adults.",
+          "Most sights are bike-friendly with places to park nearby."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster-Parkplatz: Louis De Geer",
+            "hu": "Klaszter parkoló: Louis De Geer",
+            "ro": "Parcare cluster: Louis De Geer",
+            "en": "Cluster Parking: Louis De Geer"
+          },
+          "coords": [
+            16.184,
+            58.5915
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den ganzen Tag. Die meisten Sehenswürdigkeiten sind zu Fuß erreichbar.",
+            "hu": "Parkoljon itt egész napra. A legtöbb látnivaló gyalogosan elérhető.",
+            "ro": "Parcați aici pentru întreaga zi. Majoritatea atracțiilor sunt la distanță de mers pe jos.",
+            "en": "Park here for the day. Most sights are within walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Industrielandschaft & Louis De Geer Halle",
+            "hu": "Ipari táj és Louis De Geer Csarnok",
+            "ro": "Peisajul Industrial & Sala Louis De Geer",
+            "en": "Industrial Landscape & Louis De Geer Hall"
+          },
+          "coords": [
+            16.183,
+            58.591
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Spaziergang direkt vom Parkhaus aus.",
+            "hu": "Kezdje a sétát közvetlenül a parkolóházból.",
+            "ro": "Începeți plimbarea direct de la parcare.",
+            "en": "Start your walk directly from the parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 1: Arbetets museum & Visualiseringscenter C",
+            "hu": "1. klaszter: Munka Múzeuma és Vizuális Központ C",
+            "ro": "Cluster 1: Muzeul Muncii & Centrul de Vizualizare C",
+            "en": "Cluster 1: Museum of Work & Visualization Center C"
+          },
+          "coords": [
+            16.181,
+            58.589
+          ],
+          "category": "museums",
+          "arrive_at": "10:20",
+          "stay_min": 180,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden Museen liegen nebeneinander. Planen Sie hier auch Ihre Mittagspause ein.",
+            "hu": "Ez a két múzeum egymás mellett található. Tervezze ide az ebédszünetet is.",
+            "ro": "Aceste două muzee sunt situate unul lângă altul. Planificați-vă și pauza de prânz aici.",
+            "en": "These two museums are located next to each other. Plan your lunch break here as well."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Stadtmuseum & Strömparken",
+            "hu": "2. klaszter: Városi Múzeum és Strömparken",
+            "ro": "Cluster 2: Muzeul Orașului & Parcul Strömparken",
+            "en": "Cluster 2: City Museum & Strömparken"
+          },
+          "coords": [
+            16.179,
+            58.5885
+          ],
+          "category": "museums",
+          "arrive_at": "13:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach dem Museum können Sie einen entspannten Spaziergang im Park machen.",
+            "hu": "A múzeum után tegyen egy pihentető sétát a parkban.",
+            "ro": "După muzeu, puteți face o plimbare relaxantă în parc.",
+            "en": "After the museum, you can take a relaxing walk in the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Neuer Parkplatz: Nahe Kunstmuseum",
+            "hu": "Új parkoló: A Művészeti Múzeum közelében",
+            "ro": "Parcare nouă: Lângă Muzeul de Artă",
+            "en": "New Parking: Near Art Museum"
+          },
+          "coords": [
+            16.183,
+            58.584
+          ],
+          "category": "transport",
+          "arrive_at": "15:05",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Für den südlichen Teil der Stadt ist es einfacher, das Auto umzuparken.",
+            "hu": "A város déli részéhez egyszerűbb átparkolni az autót.",
+            "ro": "Pentru partea de sud a orașului, este mai ușor să mutați mașina.",
+            "en": "For the southern part of the city, it's easier to move the car."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Kunstmuseum & Matteus-Kirche",
+            "hu": "3. klaszter: Művészeti Múzeum és Máté-templom",
+            "ro": "Cluster 3: Muzeul de Artă & Biserica Sf. Matei",
+            "en": "Cluster 3: Art Museum & St. Matthew's Church"
+          },
+          "coords": [
+            16.184,
+            58.585
+          ],
+          "category": "museums",
+          "arrive_at": "15:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie das Kunstmuseum und spazieren Sie dann zur beeindruckenden Kirche.",
+            "hu": "Fedezze fel a Művészeti Múzeumot, majd sétáljon át a lenyűgöző templomhoz.",
+            "ro": "Explorați Muzeul de Artă și apoi faceți o plimbare până la biserica impresionantă.",
+            "en": "Explore the Art Museum and then take a walk to the impressive church."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 4: Carl Johans Park",
+            "hu": "4. klaszter: Carl Johans Park",
+            "ro": "Cluster 4: Parcul Carl Johans",
+            "en": "Cluster 4: Carl Johans Park"
+          },
+          "coords": [
+            16.189,
+            58.589
+          ],
+          "category": "parks",
+          "arrive_at": "17:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.6,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein letzter Halt, um den Tag im Grünen ausklingen zu lassen, bevor Sie die Stadt verlassen.",
+            "hu": "Egy utolsó megálló, hogy a napot a zöldben fejezze be, mielőtt elhagyja a várost.",
+            "ro": "O ultimă oprire pentru a încheia ziua în spațiul verde înainte de a părăsi orașul.",
+            "en": "A final stop to end the day in the green before you leave the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die Flexibilität des Autos, um Norrköping in Clustern zu erkunden. Parken Sie morgens im Herzen der Industrielandschaft und entdecken Sie zu Fuß das Arbeitsmuseum, das Visualisierungszentrum und die historischen Gebäude. Nach dem Mittagessen schlendern Sie durch den Strömparken. Am Nachmittag fahren Sie zu einem neuen Parkplatz, um das Kunstmuseum und die Matteus-Kirche im Süden der Stadt zu besichtigen. Beenden Sie den Tag mit einem entspannten Besuch im berühmten Carl Johans Park. Diese Methode kombiniert kurze Fahrten mit ausgedehnten, immersiven Spaziergängen.",
+        "hu": "Használja ki az autó rugalmasságát, és fedezze fel Norrköpinget klaszterekben. Reggel parkoljon az ipari táj szívében, és sétálva fedezze fel a Munka Múzeumát, a Vizuális Központot és a történelmi épületeket. Ebéd után sétáljon át a Strömparkenen. Délután hajtson át egy új parkolóba, hogy megnézze a város déli részén található Művészeti Múzeumot és a Máté-templomot. Zárja a napot egy pihentető látogatással a híres Carl Johans Parkban. Ez a módszer a rövid autózásokat hosszabb, magával ragadó sétákkal ötvözi.",
+        "ro": "Folosiți flexibilitatea mașinii pentru a explora Norrköping în clustere. Dimineața, parcați în inima Peisajului Industrial și descoperiți pe jos Muzeul Muncii, Centrul de Vizualizare și clădirile istorice. După prânz, plimbați-vă prin Strömparken. După-amiaza, conduceți spre o nouă parcare pentru a vizita Muzeul de Artă și Biserica Sf. Matei în sudul orașului. Încheiați ziua cu o vizită relaxantă la faimosul Parc Carl Johans. Această metodă combină călătorii scurte cu mașina cu plimbări lungi și captivante.",
+        "en": "Use the flexibility of the car to explore Norrköping in clusters. In the morning, park in the heart of the Industrial Landscape and discover the Museum of Work, the Visualization Center, and the historic buildings on foot. After lunch, stroll through Strömparken. In the afternoon, drive to a new parking spot to visit the Art Museum and St. Matthew's Church in the south of the city. End the day with a relaxing visit to the famous Carl Johans Park. This method combines short drives with extended, immersive walks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kroppkakor",
+            "tip": "Gefüllte Kartoffelklöße, eine traditionelle schwedische Mahlzeit."
+          },
+          {
+            "name": "Restaurant Enoteket",
+            "tip": "Genießen Sie gehobene Küche mit Blick auf den Motala Ström."
+          },
+          {
+            "name": "Burger & Co",
+            "tip": "Eine gute Option für ein schnelles, aber hochwertiges Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kroppkakor",
+            "tip": "Töltött burgonyagombóc, egy hagyományos svéd étel."
+          },
+          {
+            "name": "Restaurant Enoteket",
+            "tip": "Élvezze a fine dining fogásokat a Motala Ström folyóra néző kilátással."
+          },
+          {
+            "name": "Burger & Co",
+            "tip": "Jó választás egy gyors, de minőségi ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kroppkakor",
+            "tip": "Găluște de cartofi umplute, o masă tradițională suedeză."
+          },
+          {
+            "name": "Restaurant Enoteket",
+            "tip": "Bucurați-vă de o masă rafinată cu vedere la râul Motala."
+          },
+          {
+            "name": "Burger & Co",
+            "tip": "O opțiune bună pentru un prânz rapid, dar de înaltă calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kroppkakor",
+            "tip": "Filled potato dumplings, a traditional Swedish meal."
+          },
+          {
+            "name": "Restaurant Enoteket",
+            "tip": "Enjoy fine dining with a view of the Motala Ström."
+          },
+          {
+            "name": "Burger & Co",
+            "tip": "A good option for a quick but high-quality lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Färjeparken",
+            "tip": "Ein ruhiger Park am Wasser, ideal für eine Pause vom Fahren.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Blick von den oberen Etagen des Arbeitsmuseums",
+            "tip": "Genießen Sie die Aussicht auf die Industrielandschaft in Ruhe.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang um die Matteus-Kirche",
+            "tip": "Der Bereich um die Kirche ist oft sehr friedlich.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Färjeparken",
+            "tip": "Csendes park a vízparton, ideális egy kis szünetre a vezetésben.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a Munka Múzeumának felső emeleteiről",
+            "tip": "Élvezze csendben az ipari tájra nyíló kilátást.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a Máté-templom körül",
+            "tip": "A templom környéke gyakran nagyon békés.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Färje",
+            "tip": "Un parc liniștit lângă apă, ideal pentru o pauză de la condus.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere de la etajele superioare ale Muzeului Muncii",
+            "tip": "Bucurați-vă de vederea asupra Peisajului Industrial în liniște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare în jurul Bisericii Sf. Matei",
+            "tip": "Zona din jurul bisericii este adesea foarte pașnică.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Färjeparken",
+            "tip": "A quiet park by the water, ideal for a break from driving.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from the upper floors of the Museum of Work",
+            "tip": "Enjoy the view of the Industrial Landscape in peace.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk around St. Matthew's Church",
+            "tip": "The area around the church is often very peaceful.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Linden & Spiralen",
+            "tip": "Zwei große Einkaufszentren in der Innenstadt für alle Bedürfnisse."
+          },
+          {
+            "name": "Gamla Stan (Altstadt)",
+            "tip": "Charmante Gassen mit unabhängigen Geschäften und Cafés."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Linden & Spiralen",
+            "tip": "Két nagy bevásárlóközpont a belvárosban, minden igényt kielégítve."
+          },
+          {
+            "name": "Gamla Stan (Óváros)",
+            "tip": "Bájos sikátorok független üzletekkel és kávézókkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Linden & Spiralen",
+            "tip": "Două centre comerciale mari în centrul orașului pentru toate nevoile."
+          },
+          {
+            "name": "Gamla Stan (Orașul Vechi)",
+            "tip": "Străduțe fermecătoare cu magazine independente și cafenele."
+          }
+        ],
+        "en": [
+          {
+            "name": "Linden & Spiralen",
+            "tip": "Two large shopping malls in the city center for all your needs."
+          },
+          {
+            "name": "Gamla Stan (Old Town)",
+            "tip": "Charming alleys with independent shops and cafes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken im Stadtzentrum ist kostenpflichtig. Halten Sie eine Kreditkarte oder eine Park-App bereit.",
+          "Die 'Park & Walk'-Strategie ist in Norrköpings kompaktem Zentrum oft am effizientesten.",
+          "Beachten Sie die Umweltzonen, falls Sie ein älteres Dieselfahrzeug fahren.",
+          "Planen Sie zusätzliche Zeit für die Parkplatzsuche an belebten Tagen ein."
+        ],
+        "hu": [
+          "A belvárosi parkolás díjköteles. Készítsen elő hitelkártyát vagy parkolóalkalmazást.",
+          "A 'Parkolj és Sétálj' stratégia gyakran a leghatékonyabb Norrköping kompakt központjában.",
+          "Vegye figyelembe a környezetvédelmi zónákat, ha régebbi dízeljárművet vezet.",
+          "Tervezzen plusz időt a parkolóhely keresésére forgalmas napokon."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului este contra cost. Pregătiți un card de credit sau o aplicație de parcare.",
+          "Strategia 'Parchează și mergi' este adesea cea mai eficientă în centrul compact al orașului Norrköping.",
+          "Fiți atenți la zonele cu emisii reduse dacă conduceți un vehicul diesel mai vechi.",
+          "Planificați timp suplimentar pentru a găsi un loc de parcare în zilele aglomerate."
+        ],
+        "en": [
+          "Parking in the city center is paid. Have a credit card or a parking app ready.",
+          "The 'Park & Walk' strategy is often the most efficient in Norrköping's compact center.",
+          "Be aware of environmental zones if you are driving an older diesel vehicle.",
+          "Plan for extra time to find parking on busy days."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Ankunft Södertull",
+            "hu": "1. klaszter: Érkezés Södertullba",
+            "ro": "Cluster 1: Sosire la Södertull",
+            "en": "Cluster 1: Arrival at Södertull"
+          },
+          "coords": [
+            16.188,
+            58.587
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Dies ist ein wichtiger Verkehrsknotenpunkt. Beginnen Sie hier Ihren Spaziergang.",
+            "hu": "Ez egy fontos közlekedési csomópont. Kezdje innen a sétát.",
+            "ro": "Acesta este un nod de transport important. Începeți plimbarea de aici.",
+            "en": "This is a major transit hub. Start your walk from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Konstmuseum & Matteus-Kirche",
+            "hu": "Művészeti Múzeum és Máté-templom",
+            "ro": "Muzeul de Artă și Biserica Sf. Matei",
+            "en": "Art Museum & St. Matthew's Church"
+          },
+          "coords": [
+            16.184,
+            58.585
+          ],
+          "category": "museums",
+          "arrive_at": "09:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Knotenpunkt Södertull bringt Sie zu diesem kulturellen Duo.",
+            "hu": "Egy rövid séta a Södertull csomóponttól elvezeti Önt ehhez a kulturális duóhoz.",
+            "ro": "O scurtă plimbare de la nodul Södertull vă duce la acest duo cultural.",
+            "en": "A short walk from the Södertull hub takes you to this cultural duo."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Ankunft Rådhuset (Straßenbahn)",
+            "hu": "2. klaszter: Érkezés a Rådhusethez (villamos)",
+            "ro": "Cluster 2: Sosire la Rådhuset (tramvai)",
+            "en": "Cluster 2: Arrival at Rådhuset (Tram)"
+          },
+          "coords": [
+            16.185,
+            58.59
+          ],
+          "category": "transport",
+          "arrive_at": "11:30",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie die Straßenbahnlinie 2 oder 3 für eine malerische Fahrt über den Fluss.",
+            "hu": "Menjen a 2-es vagy 3-as villamossal egy festői utazásért a folyón át.",
+            "ro": "Luați tramvaiul 2 sau 3 pentru o călătorie pitorească peste râu.",
+            "en": "Take tram line 2 or 3 for a scenic ride across the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Industrielandschaft & Arbetets museum",
+            "hu": "Ipari táj és Munka Múzeuma",
+            "ro": "Peisajul Industrial & Muzeul Muncii",
+            "en": "Industrial Landscape & Museum of Work"
+          },
+          "coords": [
+            16.181,
+            58.589
+          ],
+          "category": "historical",
+          "arrive_at": "11:30",
+          "stay_min": 180,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie das Herz der Industriegeschichte und essen Sie im Museumscafé zu Mittag.",
+            "hu": "Fedezze fel az ipartörténet szívét és ebédeljen a múzeumi kávézóban.",
+            "ro": "Explorați inima istoriei industriale și luați prânzul la cafeneaua muzeului.",
+            "en": "Explore the heart of industrial history and have lunch at the museum cafe."
+          }
+        },
+        {
+          "name": {
+            "de": "Visualiseringscenter C & Stadtmuseum",
+            "hu": "Vizuális Központ C és Városi Múzeum",
+            "ro": "Centrul de Vizualizare C & Muzeul Orașului",
+            "en": "Visualization Center C & City Museum"
+          },
+          "coords": [
+            16.18,
+            58.588
+          ],
+          "category": "museums",
+          "arrive_at": "14:35",
+          "stay_min": 150,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein weiterer kurzer Spaziergang bringt Sie zu den nächsten beiden Museen.",
+            "hu": "Egy újabb rövid séta elvezeti Önt a következő két múzeumhoz.",
+            "ro": "O altă plimbare scurtă vă duce la următoarele două muzee.",
+            "en": "Another short walk takes you to the next two museums."
+          }
+        },
+        {
+          "name": {
+            "de": "Carl Johans Park & Strömparken",
+            "hu": "Carl Johans Park és Strömparken",
+            "ro": "Parcul Carl Johans & Parcul Strömparken",
+            "en": "Carl Johans Park & Strömparken"
+          },
+          "coords": [
+            16.187,
+            58.59
+          ],
+          "category": "parks",
+          "arrive_at": "17:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem entspannenden Spaziergang durch die Parks, bevor Sie die Straßenbahn zurück nehmen.",
+            "hu": "Zárja a napot egy pihentető sétával a parkokban, mielőtt visszamenne a villamoshoz.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă prin parcuri înainte de a lua tramvaiul înapoi.",
+            "en": "End the day with a relaxing walk through the parks before taking the tram back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erleben Sie Norrköping mit seinen ikonischen gelben Straßenbahnen. Beginnen Sie Ihren Tag südlich des Flusses mit einem Besuch im Kunstmuseum und der Matteus-Kirche. Eine kurze Straßenbahnfahrt bringt Sie dann ins Herz der Industrielandschaft. Verbringen Sie den Großteil des Tages damit, dieses faszinierende Gebiet zu Fuß zu erkunden, einschließlich des Arbeitsmuseums und des Visualisierungszentrums. Beenden Sie Ihre Tour mit einem Spaziergang durch die zentralen Parks, bevor Sie wieder in die Straßenbahn steigen. Diese Methode ist effizient, malerisch und sehr authentisch für Norrköping.",
+        "hu": "Tapasztalja meg Norrköpinget az ikonikus sárga villamosaival. Kezdje a napot a folyótól délre a Művészeti Múzeum és a Máté-templom meglátogatásával. Egy rövid villamosút ezután az ipari táj szívébe viszi. Töltse a nap nagy részét ennek a lenyűgöző területnek a gyalogos felfedezésével, beleértve a Munka Múzeumát és a Vizuális Központot. Fejezze be a túrát egy sétával a központi parkokban, mielőtt újra villamosra szállna. Ez a módszer hatékony, festői és nagyon autentikus Norrköping számára.",
+        "ro": "Experimentați Norrköping cu tramvaiele sale galbene iconice. Începeți ziua la sud de râu cu o vizită la Muzeul de Artă și Biserica Sf. Matei. O scurtă călătorie cu tramvaiul vă va duce apoi în inima Peisajului Industrial. Petreceți cea mai mare parte a zilei explorând această zonă fascinantă pe jos, inclusiv Muzeul Muncii și Centrul de Vizualizare. Încheiați turul cu o plimbare prin parcurile centrale înainte de a lua din nou tramvaiul. Această metodă este eficientă, pitorească și foarte autentică pentru Norrköping.",
+        "en": "Experience Norrköping with its iconic yellow trams. Start your day south of the river with a visit to the Art Museum and St. Matthew's Church. A short tram ride will then take you to the heart of the Industrial Landscape. Spend the majority of the day exploring this fascinating area on foot, including the Museum of Work and the Visualization Center. Finish your tour with a walk through the central parks before hopping back on a tram. This method is efficient, scenic, and very authentic to Norrköping."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Straßenbahn-Café (Spårvagnscafé)",
+            "tip": "In den Sommermonaten gibt es manchmal ein Café in einer historischen Straßenbahn."
+          },
+          {
+            "name": "Östgöta Kök",
+            "tip": "Restaurantkette mit Fokus auf lokalen Zutaten aus der Region Östergötland."
+          },
+          {
+            "name": "Saluhallen (Markthalle)",
+            "tip": "Probieren Sie verschiedene lokale Delikatessen an den Marktständen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Villamos Kávézó (Spårvagnscafé)",
+            "tip": "A nyári hónapokban néha egy történelmi villamosban működik kávézó."
+          },
+          {
+            "name": "Östgöta Kök",
+            "tip": "Étteremlánc, amely Östergötland régió helyi alapanyagaira összpontosít."
+          },
+          {
+            "name": "Saluhallen (Vásárcsarnok)",
+            "tip": "Kóstoljon meg különböző helyi finomságokat a piaci standoknál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafeneaua din tramvai (Spårvagnscafé)",
+            "tip": "În lunile de vară, uneori există o cafenea într-un tramvai istoric."
+          },
+          {
+            "name": "Östgöta Kök",
+            "tip": "Lanț de restaurante axat pe ingrediente locale din regiunea Östergötland."
+          },
+          {
+            "name": "Saluhallen (Piața interioară)",
+            "tip": "Încercați diverse delicatese locale la standurile din piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tram Café (Spårvagnscafé)",
+            "tip": "During the summer months, there is sometimes a café in a historic tram."
+          },
+          {
+            "name": "Östgöta Kök",
+            "tip": "Restaurant chain focusing on local ingredients from the Östergötland region."
+          },
+          {
+            "name": "Saluhallen (Market Hall)",
+            "tip": "Try various local delicacies from the market stalls."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Fahrt mit der Straßenbahn",
+            "tip": "Die Straßenbahnfahrt selbst kann eine entspannende Möglichkeit sein, die Stadt zu sehen.",
+            "emoji": "🚋"
+          },
+          {
+            "name": "Hörsalsparken",
+            "tip": "Ein kleiner, zentraler Park, der oft ruhiger ist als der Carl Johans Park.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Leseecke im Stadtmuseum",
+            "tip": "Machen Sie eine Pause und blättern Sie in Büchern über die lokale Geschichte.",
+            "emoji": "📚"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy villamosút",
+            "tip": "Maga a villamosút is pihentető módja lehet a városnézésnek.",
+            "emoji": "🚋"
+          },
+          {
+            "name": "Hörsalsparken",
+            "tip": "Egy kicsi, központi park, amely gyakran csendesebb, mint a Carl Johans Park.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Olvasósarok a Városi Múzeumban",
+            "tip": "Tartson egy szünetet, és lapozgasson a helytörténeti könyvekben.",
+            "emoji": "📚"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O călătorie cu tramvaiul",
+            "tip": "Călătoria cu tramvaiul în sine poate fi o modalitate relaxantă de a vedea orașul.",
+            "emoji": "🚋"
+          },
+          {
+            "name": "Parcul Hörsals",
+            "tip": "Un parc mic, central, adesea mai liniștit decât Parcul Carl Johans.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Colțul de lectură din Muzeul Orașului",
+            "tip": "Luați o pauză și răsfoiți cărți despre istoria locală.",
+            "emoji": "📚"
+          }
+        ],
+        "en": [
+          {
+            "name": "A tram ride",
+            "tip": "The tram ride itself can be a relaxing way to see the city.",
+            "emoji": "🚋"
+          },
+          {
+            "name": "Hörsalsparken",
+            "tip": "A small, central park that is often quieter than Carl Johans Park.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Reading corner in the City Museum",
+            "tip": "Take a break and browse through books about local history.",
+            "emoji": "📚"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsläden",
+            "tip": "Die Museumsshops bieten einzigartige Geschenke und Bücher."
+          },
+          {
+            "name": "Norrköping's Second-Hand-Läden",
+            "tip": "Entlang der Straßenbahnlinien finden sich viele tolle Second-Hand-Läden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Múzeumi boltok",
+            "tip": "A múzeumi boltok egyedi ajándékokat és könyveket kínálnak."
+          },
+          {
+            "name": "Norrköping használtruha-üzletei",
+            "tip": "A villamosvonalak mentén számos remek használtruha-üzlet található."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele muzeelor",
+            "tip": "Magazinele muzeelor oferă cadouri și cărți unice."
+          },
+          {
+            "name": "Magazinele second-hand din Norrköping",
+            "tip": "Există multe magazine second-hand grozave de-a lungul liniilor de tramvai."
+          }
+        ],
+        "en": [
+          {
+            "name": "Museum shops",
+            "tip": "The museum shops offer unique gifts and books."
+          },
+          {
+            "name": "Norrköping's second-hand stores",
+            "tip": "There are many great second-hand stores along the tram lines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr für unbegrenzte Fahrten.",
+          "Die Straßenbahnlinien 2 und 3 sind die wichtigsten für Touristen und decken die meisten Sehenswürdigkeiten ab.",
+          "Die App von Östgötatrafiken ist nützlich für Fahrpläne und Ticketkauf in Echtzeit.",
+          "Validieren Sie Ihr Ticket bei jedem Einsteigen, auch beim Umsteigen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez a korlátlan utazás érdekében.",
+          "A 2-es és 3-as villamosvonalak a legfontosabbak a turisták számára, és a legtöbb látnivalót lefedik.",
+          "Az Östgötatrafiken alkalmazás hasznos a valós idejű menetrendekhez és jegyvásárláshoz.",
+          "Érvényesítse a jegyét minden felszálláskor, még átszálláskor is."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru călătorii nelimitate.",
+          "Liniile de tramvai 2 și 3 sunt cele mai importante pentru turiști și acoperă majoritatea atracțiilor.",
+          "Aplicația Östgötatrafiken este utilă pentru orare în timp real și achiziționarea de bilete.",
+          "Validați biletul la fiecare urcare, inclusiv la transfer."
+        ],
+        "en": [
+          "Buy a day pass for public transport for unlimited travel.",
+          "Tram lines 2 and 3 are the most important for tourists and cover most sights.",
+          "The Östgötatrafiken app is useful for real-time schedules and ticket purchases.",
+          "Validate your ticket every time you board, even when transferring."
+        ]
+      }
+    }
+  }
+}

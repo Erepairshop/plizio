@@ -1,0 +1,1484 @@
+{
+  "city_id": "denmark-hjoerring-cities-v2",
+  "anchor": {
+    "name": "Hjørring",
+    "coords": [
+      9.98,
+      57.46
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "P. Nørkjærs Plads",
+            "hu": "P. Nørkjærs Plads tér",
+            "ro": "Piața P. Nørkjærs",
+            "en": "P. Nørkjærs Plads"
+          },
+          "coords": [
+            9.981,
+            57.461
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Kaffee in einem der Cafés am Platz.",
+            "hu": "Indítsa a napot egy kávéval a tér egyik kávézójában!",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
+            "en": "Start your day with a coffee at one of the cafés on the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Springvandet Brunnen",
+            "hu": "Springvandet szökőkút",
+            "ro": "Fântâna Springvandet",
+            "en": "The Springvandet Fountain"
+          },
+          "coords": [
+            9.9815,
+            57.4612
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:39",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein schöner Fotopunkt im Herzen der Stadt.",
+            "hu": "Remek fotóhely a város szívében.",
+            "ro": "Un loc frumos pentru fotografii în inima orașului.",
+            "en": "A great photo spot in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt Catharinæ Kirche",
+            "hu": "Szent Katalin-templom",
+            "ro": "Biserica Sf. Ecaterina",
+            "en": "St. Catharinæ Church"
+          },
+          "coords": [
+            9.983,
+            57.46
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:02",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Achten Sie auf das beeindruckende Altarbild und die ruhige Atmosphäre.",
+            "hu": "Figyelje meg a lenyűgöző oltárképet és a békés légkört.",
+            "ro": "Observați altarul impresionant și atmosfera liniștită.",
+            "en": "Pay attention to the impressive altarpiece and the quiet atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Vendsyssel Historisches Museum",
+            "hu": "Vendsyssel Történeti Múzeum",
+            "ro": "Muzeul de Istorie Vendsyssel",
+            "en": "Vendsyssel Historical Museum"
+          },
+          "coords": [
+            9.977,
+            57.4635
+          ],
+          "category": "museums",
+          "arrive_at": "11:02",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die reiche Geschichte Nordjütlands ein.",
+            "hu": "Merüljön el Észak-Jütland gazdag történelmében!",
+            "ro": "Cufundați-vă în istoria bogată a Iutlandei de Nord.",
+            "en": "Immerse yourself in the rich history of North Jutland."
+          }
+        },
+        {
+          "name": {
+            "de": "Vendsyssel Kunstmuseum",
+            "hu": "Vendsyssel Művészeti Múzeum",
+            "ro": "Muzeul de Artă Vendsyssel",
+            "en": "Vendsyssel Museum of Art"
+          },
+          "coords": [
+            9.978,
+            57.463
+          ],
+          "category": "museums",
+          "arrive_at": "12:26",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Moderne dänische Kunst in einem architektonisch beeindruckenden Gebäude.",
+            "hu": "Modern dán művészet egy építészetileg lenyűgöző épületben.",
+            "ro": "Artă daneză modernă într-o clădire impresionantă din punct de vedere arhitectural.",
+            "en": "Modern Danish art in an architecturally impressive building."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt Olai Kirche",
+            "hu": "Szent Olaf-templom",
+            "ro": "Biserica Sf. Olai",
+            "en": "St. Olai's Church"
+          },
+          "coords": [
+            9.985,
+            57.458
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:22",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Eine der ältesten Kirchen der Stadt, suchen Sie nach den mittelalterlichen Fresken.",
+            "hu": "A város egyik legrégebbi temploma, keresse a középkori freskókat!",
+            "ro": "Una dintre cele mai vechi biserici din oraș, căutați frescele medievale.",
+            "en": "One of the oldest churches in the city, look for the medieval frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Christiansgave Park",
+            "hu": "Christiansgave park",
+            "ro": "Parcul Christiansgave",
+            "en": "Christiansgave Park"
+          },
+          "coords": [
+            9.975,
+            57.465
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:20",
+          "stay_min": 85,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in der grünen Oase der Stadt oder machen Sie ein Picknick.",
+            "hu": "Pihenjen a város zöld oázisában vagy piknikezzen egyet!",
+            "ro": "Relaxați-vă în oaza de verdeață a orașului sau faceți un picnic.",
+            "en": "Relax in the city's green oasis or have a picnic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang am belebten P. Nørkjærs Plads, dem Herzen von Hjørring. Am Vormittag erkunden Sie die historischen Kirchen der Stadt, wie die Sankt Catharinæ. Der Mittag ist der Kultur gewidmet, mit Besuchen im Geschichts- und Kunstmuseum, die beide die Seele von Vendsyssel zeigen. Am Nachmittag spazieren Sie zur alten Sankt Olai Kirche, bevor Sie den Tag im ruhigen Christiansgave Park ausklingen lassen, einer perfekten grünen Oase zum Entspannen.",
+        "hu": "Kezdje a gyalogtúrát Hjørring szívében, a nyüzsgő P. Nørkjærs Plads téren. A délelőttöt a város történelmi templomainak, például a Szent Katalin-templomnak a felfedezésével töltse. Az ebédidő a kultúráé, látogasson el a Történeti és a Művészeti Múzeumba, amelyek bemutatják Vendsyssel lelkét. Délután sétáljon el a régi Szent Olaf-templomhoz, majd zárja a napot a békés Christiansgave parkban, egy tökéletes zöld oázisban a pihenéshez.",
+        "ro": "Începeți turul pe jos în inima orașului Hjørring, în vibranta piață P. Nørkjærs Plads. Dimineața este dedicată explorării bisericilor istorice ale orașului, cum ar fi Biserica Sf. Ecaterina. Prânzul este pentru cultură, cu vizite la muzeele de istorie și artă, ambele prezentând sufletul regiunii Vendsyssel. După-amiaza, plimbați-vă până la vechea Biserică Sf. Olai înainte de a încheia ziua în liniștitul Parc Christiansgave, o oază verde perfectă pentru relaxare.",
+        "en": "Start your walking tour in the heart of Hjørring at the bustling P. Nørkjærs Plads. The morning is for exploring the city's historic churches, like St. Catharinæ. Midday is for culture, with visits to the historical and art museums, both showcasing the soul of Vendsyssel. In the afternoon, stroll to the old St. Olai's Church before ending your day in the peaceful Christiansgave Park, a perfect green oasis for relaxation."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Probieren Sie das klassische dänische offene Sandwich bei 'Bones Restaurant'."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Genießen Sie dänische Fleischbällchen im 'Bryghuset Vendia'."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Das 'Bryghuset Vendia' braut sein eigenes Bier, ein Muss für Bierliebhaber."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Kóstolja meg a klasszikus dán nyitott szendvicset a 'Bones Restaurant' étteremben."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Élvezze a dán húsgombócokat a 'Bryghuset Vendia' étteremben."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "A 'Bryghuset Vendia' saját sört főz, amit a sörkedvelőknek kötelező megkóstolniuk."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Încercați sandvișul deschis danez clasic la 'Bones Restaurant'."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Savurați chiftelele daneze la 'Bryghuset Vendia'."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "'Bryghuset Vendia' își produce propria bere, o necesitate pentru iubitorii de bere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Try the classic Danish open-faced sandwich at 'Bones Restaurant'."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Enjoy Danish meatballs at 'Bryghuset Vendia'."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "'Bryghuset Vendia' brews its own beer, a must-try for beer lovers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Christiansgave Park",
+            "tip": "Finden Sie eine ruhige Bank am Teich.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Inneres der Sankt Olai Kirche",
+            "tip": "Ein Moment der Stille in einem alten Gebäude.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Museumsgarten",
+            "tip": "Der Garten hinter dem Historischen Museum ist oft sehr friedlich.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Christiansgave Park",
+            "tip": "Keressen egy csendes padot a tó mellett.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szent Olaf-templom belseje",
+            "tip": "Egy csendes pillanat egy ősi épületben.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Múzeumkert",
+            "tip": "A Történeti Múzeum mögötti kert gyakran nagyon békés.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Christiansgave",
+            "tip": "Găsiți o bancă liniștită lângă iaz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Interiorul Bisericii Sf. Olai",
+            "tip": "Un moment de liniște într-o clădire veche.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădina Muzeului",
+            "tip": "Grădina din spatele Muzeului de Istorie este adesea foarte pașnică.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Christiansgave Park",
+            "tip": "Find a quiet bench by the pond.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Inside St. Olai's Church",
+            "tip": "A moment of silence in an ancient building.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Museum Garden",
+            "tip": "The garden behind the Historical Museum is often very peaceful.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Metropol ShoppingCenter",
+            "tip": "Moderne Geschäfte und dänisches Design."
+          },
+          {
+            "name": "Fußgängerzonen",
+            "tip": "Stöbern Sie in den kleinen Boutiquen rund um den zentralen Platz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Metropol Bevásárlóközpont",
+            "tip": "Modern üzletek és dán design."
+          },
+          {
+            "name": "Sétálóutcák",
+            "tip": "Böngésszen a központi tér körüli kis butikokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Metropol",
+            "tip": "Magazine moderne și design danez."
+          },
+          {
+            "name": "Străzi pietonale",
+            "tip": "Răsfoiți micile buticuri din jurul pieței centrale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Metropol ShoppingCenter",
+            "tip": "Modern shops and Danish design."
+          },
+          {
+            "name": "Pedestrian Streets",
+            "tip": "Browse the small boutiques around the central square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Museen sind montags geschlossen, planen Sie entsprechend.",
+          "Ein leichter Regenmantel ist immer eine gute Idee, auch im Sommer.",
+          "Halten Sie nach den vielen kleinen Skulpturen und Kunstwerken Ausschau, die in der Stadt verteilt sind."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óvárosi macskakövek egyenetlenek lehetnek.",
+          "A legtöbb múzeum hétfőn zárva tart, tervezzen ennek megfelelően.",
+          "Egy könnyű esőkabát mindig jó ötlet, még nyáron is.",
+          "Keresse a városban elszórtan található sok kis szobrot és műalkotást."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din centrul vechi poate fi denivelat.",
+          "Majoritatea muzeelor sunt închise lunea, planificați-vă în consecință.",
+          "O pelerină de ploaie ușoară este întotdeauna o idee bună, chiar și vara.",
+          "Fiți atenți la numeroasele sculpturi mici și opere de artă răspândite prin oraș."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Most museums are closed on Mondays, so plan accordingly.",
+          "A light raincoat is always a good idea, even in summer.",
+          "Look out for the many small sculptures and pieces of art dotted around the city."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "P. Nørkjærs Plads",
+            "hu": "P. Nørkjærs Plads tér",
+            "ro": "Piața P. Nørkjærs",
+            "en": "P. Nørkjærs Plads"
+          },
+          "coords": [
+            9.981,
+            57.461
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und genießen Sie die Atmosphäre des Platzes.",
+            "hu": "Zárja le a kerékpárját, és élvezze a tér hangulatát.",
+            "ro": "Legați-vă bicicleta și bucurați-vă de atmosfera pieței.",
+            "en": "Lock up your bike and enjoy the atmosphere of the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt Catharinæ Kirche",
+            "hu": "Szent Katalin-templom",
+            "ro": "Biserica Sf. Ecaterina",
+            "en": "St. Catharinæ Church"
+          },
+          "coords": [
+            9.983,
+            57.46
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:34",
+          "stay_min": 35,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Die größte Kirche der Stadt ist ein kurzer Radausflug vom Zentrum entfernt.",
+            "hu": "A város legnagyobb temploma csak egy rövid bicikliútra van a központtól.",
+            "ro": "Cea mai mare biserică din oraș se află la o scurtă plimbare cu bicicleta de centru.",
+            "en": "The largest church in the city is a short bike ride from the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt Olai Kirche",
+            "hu": "Szent Olaf-templom",
+            "ro": "Biserica Sf. Olai",
+            "en": "St. Olai's Church"
+          },
+          "coords": [
+            9.985,
+            57.458
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:14",
+          "stay_min": 35,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Radeln Sie zur ältesten Kirche und bewundern Sie ihre schlichte Schönheit.",
+            "hu": "Tekerjen el a legrégebbi templomhoz, és csodálja meg egyszerű szépségét.",
+            "ro": "Pedalați până la cea mai veche biserică și admirați-i frumusețea simplă.",
+            "en": "Cycle to the oldest church and admire its simple beauty."
+          }
+        },
+        {
+          "name": {
+            "de": "Christiansgave Park",
+            "hu": "Christiansgave park",
+            "ro": "Parcul Christiansgave",
+            "en": "Christiansgave Park"
+          },
+          "coords": [
+            9.975,
+            57.465
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:01",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause. Es gibt viel Platz, um das Fahrrad abzustellen.",
+            "hu": "Tökéletes egy ebédszünethez. Bőven van hely a kerékpár leállítására.",
+            "ro": "Perfect pentru o pauză de prânz. Există mult spațiu pentru a parca bicicleta.",
+            "en": "Perfect for a lunch break. There's plenty of space to park your bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Vendsyssel Historisches Museum",
+            "hu": "Vendsyssel Történeti Múzeum",
+            "ro": "Muzeul de Istorie Vendsyssel",
+            "en": "Vendsyssel Historical Museum"
+          },
+          "coords": [
+            9.977,
+            57.4635
+          ],
+          "category": "museums",
+          "arrive_at": "12:20",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Lernen Sie die Gegend kennen, durch die Sie gerade radeln.",
+            "hu": "Ismerje meg a környéket, ahol éppen kerékpározik.",
+            "ro": "Aflați despre zona prin care pedalați.",
+            "en": "Learn about the area you're cycling through."
+          }
+        },
+        {
+          "name": {
+            "de": "Vendsyssel Kunstmuseum",
+            "hu": "Vendsyssel Művészeti Múzeum",
+            "ro": "Muzeul de Artă Vendsyssel",
+            "en": "Vendsyssel Museum of Art"
+          },
+          "coords": [
+            9.978,
+            57.463
+          ],
+          "category": "museums",
+          "arrive_at": "13:42",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kultureller Kontrapunkt zu Ihrer sportlichen Aktivität.",
+            "hu": "Kulturális ellenpont a sportos tevékenységhez.",
+            "ro": "Un contrapunct cultural la activitatea dumneavoastră sportivă.",
+            "en": "A cultural counterpoint to your sporty activity."
+          }
+        },
+        {
+          "name": {
+            "de": "Metropol ShoppingCenter",
+            "hu": "Metropol Bevásárlóközpont",
+            "ro": "Centrul Comercial Metropol",
+            "en": "Metropol ShoppingCenter"
+          },
+          "coords": [
+            9.988,
+            57.462
+          ],
+          "category": "shopping",
+          "arrive_at": "15:40",
+          "stay_min": 70,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Einkaufsbummel oder einem Snack.",
+            "hu": "Zárja a napot egy kis vásárlással vagy egy harapnivalóval.",
+            "ro": "Încheiați ziua cu o sesiune de cumpărături sau o gustare.",
+            "en": "End the day with some shopping or a snack."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel für eine Erkundungstour durch Hjørring. Beginnen Sie am P. Nørkjærs Plads und radeln Sie am Vormittag zu den beiden bedeutenden Kirchen, Sankt Catharinæ und Sankt Olai. Gönnen Sie sich gegen Mittag eine ausgedehnte Pause im Christiansgave Park. Der Nachmittag steht im Zeichen der Kultur: Besuchen Sie die beiden Vendsyssel-Museen, bevor Sie Ihre Tour mit einem entspannten Einkaufsbummel im Metropol-Center abschließen.",
+        "hu": "Pattanjon nyeregbe, és fedezze fel Hjørringet! Kezdjen a P. Nørkjærs Plads téren, majd délelőtt tekerjen el a két jelentős templomhoz, a Szent Katalinhoz és a Szent Olafhoz. Dél körül tartson egy hosszabb szünetet a Christiansgave parkban. A délután a kultúráé: látogasson el a két Vendsyssel Múzeumba, mielőtt a túrát egy laza vásárlással zárja a Metropol központban.",
+        "ro": "Urcați-vă pe bicicletă pentru un tur de explorare a orașului Hjørring. Începeți din Piața P. Nørkjærs și pedalați dimineața către cele două biserici importante, Sf. Ecaterina și Sf. Olai. La prânz, acordați-vă o pauză extinsă în Parcul Christiansgave. După-amiaza este dedicată culturii: vizitați cele două muzee Vendsyssel înainte de a încheia turul cu o sesiune relaxantă de cumpărături la centrul Metropol.",
+        "en": "Hop on your bike for an exploratory tour of Hjørring. Start at P. Nørkjærs Plads and cycle in the morning to the two significant churches, St. Catharinæ and St. Olai. Around noon, treat yourself to an extended break in Christiansgave Park. The afternoon is dedicated to culture: visit the two Vendsyssel museums before concluding your tour with some relaxed shopping at the Metropol center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Probieren Sie das klassische dänische offene Sandwich bei 'Bones Restaurant'."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Genießen Sie dänische Fleischbällchen im 'Bryghuset Vendia'."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Das 'Bryghuset Vendia' braut sein eigenes Bier, ein Muss für Bierliebhaber."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Kóstolja meg a klasszikus dán nyitott szendvicset a 'Bones Restaurant' étteremben."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Élvezze a dán húsgombócokat a 'Bryghuset Vendia' étteremben."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "A 'Bryghuset Vendia' saját sört főz, amit a sörkedvelőknek kötelező megkóstolniuk."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Încercați sandvișul deschis danez clasic la 'Bones Restaurant'."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Savurați chiftelele daneze la 'Bryghuset Vendia'."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "'Bryghuset Vendia' își produce propria bere, o necesitate pentru iubitorii de bere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Try the classic Danish open-faced sandwich at 'Bones Restaurant'."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Enjoy Danish meatballs at 'Bryghuset Vendia'."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "'Bryghuset Vendia' brews its own beer, a must-try for beer lovers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Christiansgave Park",
+            "tip": "Finden Sie eine ruhige Bank am Teich.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Inneres der Sankt Olai Kirche",
+            "tip": "Ein Moment der Stille in einem alten Gebäude.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Museumsgarten",
+            "tip": "Der Garten hinter dem Historischen Museum ist oft sehr friedlich.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Christiansgave Park",
+            "tip": "Keressen egy csendes padot a tó mellett.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szent Olaf-templom belseje",
+            "tip": "Egy csendes pillanat egy ősi épületben.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Múzeumkert",
+            "tip": "A Történeti Múzeum mögötti kert gyakran nagyon békés.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Christiansgave",
+            "tip": "Găsiți o bancă liniștită lângă iaz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Interiorul Bisericii Sf. Olai",
+            "tip": "Un moment de liniște într-o clădire veche.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădina Muzeului",
+            "tip": "Grădina din spatele Muzeului de Istorie este adesea foarte pașnică.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Christiansgave Park",
+            "tip": "Find a quiet bench by the pond.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Inside St. Olai's Church",
+            "tip": "A moment of silence in an ancient building.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Museum Garden",
+            "tip": "The garden behind the Historical Museum is often very peaceful.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Metropol ShoppingCenter",
+            "tip": "Moderne Geschäfte und dänisches Design."
+          },
+          {
+            "name": "Fußgängerzonen",
+            "tip": "Stöbern Sie in den kleinen Boutiquen rund um den zentralen Platz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Metropol Bevásárlóközpont",
+            "tip": "Modern üzletek és dán design."
+          },
+          {
+            "name": "Sétálóutcák",
+            "tip": "Böngésszen a központi tér körüli kis butikokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Metropol",
+            "tip": "Magazine moderne și design danez."
+          },
+          {
+            "name": "Străzi pietonale",
+            "tip": "Răsfoiți micile buticuri din jurul pieței centrale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Metropol ShoppingCenter",
+            "tip": "Modern shops and Danish design."
+          },
+          {
+            "name": "Pedestrian Streets",
+            "tip": "Browse the small boutiques around the central square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Hjørring ist fahrradfreundlich, aber achten Sie in den engen Gassen der Altstadt auf Fußgänger.",
+          "Nutzen Sie die Fahrradständer, die an vielen Sehenswürdigkeiten vorhanden sind.",
+          "Eine Fahrradkarte ist nützlich, aber die Stadt ist klein genug, um sich leicht zurechtzufinden.",
+          "Prüfen Sie den Reifendruck vor der Abfahrt."
+        ],
+        "hu": [
+          "Hjørring kerékpárbarát, de vigyázzon a gyalogosokra az óváros szűk sikátoraiban.",
+          "Használja a sok látnivalónál található kerékpártárolókat.",
+          "Egy kerékpáros térkép hasznos, de a város elég kicsi ahhoz, hogy könnyen eligazodjon.",
+          "Indulás előtt ellenőrizze a guminyomást."
+        ],
+        "ro": [
+          "Hjørring este prietenos cu bicicletele, dar fiți atenți la pietoni pe străduțele înguste din orașul vechi.",
+          "Folosiți suporturile pentru biciclete disponibile la multe atracții.",
+          "O hartă pentru biciclete este utilă, dar orașul este suficient de mic pentru a vă orienta ușor.",
+          "Verificați presiunea anvelopelor înainte de a pleca."
+        ],
+        "en": [
+          "Hjørring is bike-friendly, but watch out for pedestrians in the narrow alleys of the old town.",
+          "Use the bike racks available at many of the sights.",
+          "A bike map is useful, but the city is small enough to navigate easily.",
+          "Check your tire pressure before setting off."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 2.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum",
+            "hu": "Központi parkoló",
+            "ro": "Parcare centrală",
+            "en": "City Center Parking"
+          },
+          "coords": [
+            9.982,
+            57.4615
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier für den ersten Teil des Tages.",
+            "hu": "Parkoljon itt a nap első részére.",
+            "ro": "Parcați aici pentru prima parte a zilei.",
+            "en": "Park here for the first part of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "P. Nørkjærs Plads & Springvandet",
+            "hu": "P. Nørkjærs Plads és a Springvandet",
+            "ro": "Piața P. Nørkjærs & Fântâna",
+            "en": "P. Nørkjærs Plads & Springvandet"
+          },
+          "coords": [
+            9.981,
+            57.461
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:23",
+          "stay_min": 35,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie den Hauptplatz und seine Umgebung zu Fuß.",
+            "hu": "Fedezze fel gyalog a főteret és környékét.",
+            "ro": "Explorați piața principală și împrejurimile sale pe jos.",
+            "en": "Explore the main square and its surroundings on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt Catharinæ Kirche",
+            "hu": "Szent Katalin-templom",
+            "ro": "Biserica Sf. Ecaterina",
+            "en": "St. Catharinæ Church"
+          },
+          "coords": [
+            9.983,
+            57.46
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:02",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Platz entfernt.",
+            "hu": "Csak egy rövid séta a tértől.",
+            "ro": "La doar o scurtă plimbare de piață.",
+            "en": "Just a short walk from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Museumsviertel",
+            "hu": "Múzeumi negyed parkolója",
+            "ro": "Parcare Cartierul Muzeelor",
+            "en": "Museum Quarter Parking"
+          },
+          "coords": [
+            9.976,
+            57.464
+          ],
+          "category": "museums",
+          "arrive_at": "10:52",
+          "stay_min": 5,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum nächsten Cluster und parken Sie erneut.",
+            "hu": "Hajtson a következő csoporthoz, és parkoljon le újra.",
+            "ro": "Conduceți la următorul cluster și parcați din nou.",
+            "en": "Drive to the next cluster and park again."
+          }
+        },
+        {
+          "name": {
+            "de": "Vendsyssel Kunst- & Geschichtsmuseum",
+            "hu": "Vendsyssel Művészeti és Történeti Múzeum",
+            "ro": "Muzeul de Artă și Istorie Vendsyssel",
+            "en": "Vendsyssel Art & History Museum"
+          },
+          "coords": [
+            9.9775,
+            57.4632
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 180,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die beiden Museen liegen nebeneinander, planen Sie genügend Zeit ein.",
+            "hu": "A két múzeum egymás mellett található, tervezzen elegendő időt a látogatásra.",
+            "ro": "Cele două muzee sunt unul lângă altul, planificați-vă suficient timp.",
+            "en": "The two museums are next to each other, so plan enough time."
+          }
+        },
+        {
+          "name": {
+            "de": "Christiansgave Park",
+            "hu": "Christiansgave park",
+            "ro": "Parcul Christiansgave",
+            "en": "Christiansgave Park"
+          },
+          "coords": [
+            9.975,
+            57.465
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:04",
+          "stay_min": 151,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein entspannender Spaziergang nach dem Museumsbesuch.",
+            "hu": "Egy pihentető séta a múzeumlátogatás után.",
+            "ro": "O plimbare relaxantă după vizita la muzeu.",
+            "en": "A relaxing walk after the museum visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser auto-optimierte Tag teilt Hjørring in zwei begehbare Cluster. Parken Sie am Morgen im Zentrum, um den P. Nørkjærs Plads und die Sankt Catharinæ Kirche zu Fuß zu erkunden. Gegen Mittag fahren Sie zum Museumsviertel. Dort parken Sie erneut und widmen den Nachmittag den beiden Vendsyssel-Museen und einem ausgedehnten, entspannenden Spaziergang im angrenzenden Christiansgave Park. Diese Methode kombiniert den Komfort des Autos mit dem Vergnügen des Entdeckens zu Fuß.",
+        "hu": "Ez az autóra optimalizált nap két gyalogosan bejárható részre osztja Hjørringet. Reggel parkoljon le a központban, hogy gyalog fedezze fel a P. Nørkjærs Plads teret és a Szent Katalin-templomot. Dél körül hajtson át a múzeumi negyedbe. Itt parkoljon le újra, és szentelje a délutánt a két Vendsyssel Múzeumnak és egy hosszú, pihentető sétának a szomszédos Christiansgave parkban. Ez a módszer ötvözi az autó kényelmét a gyalogos felfedezés örömével.",
+        "ro": "Această zi optimizată pentru mașină împarte Hjørring în două clustere pietonale. Dimineața, parcați în centru pentru a explora pe jos Piața P. Nørkjærs și Biserica Sf. Ecaterina. La prânz, conduceți către cartierul muzeelor. Parcați din nou acolo și dedicați după-amiaza celor două muzee Vendsyssel și unei plimbări lungi și relaxante în Parcul Christiansgave adiacent. Această metodă combină confortul mașinii cu plăcerea explorării pe jos.",
+        "en": "This car-optimized day divides Hjørring into two walkable clusters. In the morning, park in the center to explore P. Nørkjærs Plads and St. Catharinæ Church on foot. Around noon, drive to the museum quarter. Park there again and dedicate the afternoon to the two Vendsyssel museums and a long, relaxing walk in the adjacent Christiansgave Park. This method combines the convenience of a car with the pleasure of discovery on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Probieren Sie das klassische dänische offene Sandwich bei 'Bones Restaurant'."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Genießen Sie dänische Fleischbällchen im 'Bryghuset Vendia'."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Das 'Bryghuset Vendia' braut sein eigenes Bier, ein Muss für Bierliebhaber."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Kóstolja meg a klasszikus dán nyitott szendvicset a 'Bones Restaurant' étteremben."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Élvezze a dán húsgombócokat a 'Bryghuset Vendia' étteremben."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "A 'Bryghuset Vendia' saját sört főz, amit a sörkedvelőknek kötelező megkóstolniuk."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Încercați sandvișul deschis danez clasic la 'Bones Restaurant'."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Savurați chiftelele daneze la 'Bryghuset Vendia'."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "'Bryghuset Vendia' își produce propria bere, o necesitate pentru iubitorii de bere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Try the classic Danish open-faced sandwich at 'Bones Restaurant'."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Enjoy Danish meatballs at 'Bryghuset Vendia'."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "'Bryghuset Vendia' brews its own beer, a must-try for beer lovers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Christiansgave Park",
+            "tip": "Finden Sie eine ruhige Bank am Teich.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Inneres der Sankt Olai Kirche",
+            "tip": "Ein Moment der Stille in einem alten Gebäude.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Museumsgarten",
+            "tip": "Der Garten hinter dem Historischen Museum ist oft sehr friedlich.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Christiansgave Park",
+            "tip": "Keressen egy csendes padot a tó mellett.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szent Olaf-templom belseje",
+            "tip": "Egy csendes pillanat egy ősi épületben.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Múzeumkert",
+            "tip": "A Történeti Múzeum mögötti kert gyakran nagyon békés.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Christiansgave",
+            "tip": "Găsiți o bancă liniștită lângă iaz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Interiorul Bisericii Sf. Olai",
+            "tip": "Un moment de liniște într-o clădire veche.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădina Muzeului",
+            "tip": "Grădina din spatele Muzeului de Istorie este adesea foarte pașnică.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Christiansgave Park",
+            "tip": "Find a quiet bench by the pond.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Inside St. Olai's Church",
+            "tip": "A moment of silence in an ancient building.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Museum Garden",
+            "tip": "The garden behind the Historical Museum is often very peaceful.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Metropol ShoppingCenter",
+            "tip": "Moderne Geschäfte und dänisches Design."
+          },
+          {
+            "name": "Fußgängerzonen",
+            "tip": "Stöbern Sie in den kleinen Boutiquen rund um den zentralen Platz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Metropol Bevásárlóközpont",
+            "tip": "Modern üzletek és dán design."
+          },
+          {
+            "name": "Sétálóutcák",
+            "tip": "Böngésszen a központi tér körüli kis butikokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Metropol",
+            "tip": "Magazine moderne și design danez."
+          },
+          {
+            "name": "Străzi pietonale",
+            "tip": "Răsfoiți micile buticuri din jurul pieței centrale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Metropol ShoppingCenter",
+            "tip": "Modern shops and Danish design."
+          },
+          {
+            "name": "Pedestrian Streets",
+            "tip": "Browse the small boutiques around the central square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf Parkgebühren im Stadtzentrum; oft gibt es eine zeitliche Begrenzung.",
+          "Lassen Sie keine Wertsachen im Auto zurück, besonders nicht auf öffentlichen Parkplätzen.",
+          "Die Cluster-Methode funktioniert am besten bei gutem Wetter.",
+          "Planen Sie etwas Pufferzeit für die Parkplatzsuche ein."
+        ],
+        "hu": [
+          "Figyeljen a parkolási díjakra a városközpontban; gyakran van időkorlát.",
+          "Ne hagyjon értékeket az autóban, különösen nyilvános parkolókban.",
+          "A klaszter-módszer leginkább jó időben működik.",
+          "Tervezzen be némi plusz időt a parkolóhely-keresésre."
+        ],
+        "ro": [
+          "Fiți atenți la taxele de parcare din centrul orașului; adesea există o limită de timp.",
+          "Nu lăsați obiecte de valoare în mașină, în special în parcările publice.",
+          "Metoda cluster funcționează cel mai bine pe vreme bună.",
+          "Planificați un timp tampon pentru găsirea unui loc de parcare."
+        ],
+        "en": [
+          "Be aware of parking fees in the city center; there's often a time limit.",
+          "Do not leave valuables in the car, especially in public parking lots.",
+          "The cluster method works best in good weather.",
+          "Plan some buffer time for finding a parking spot."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 2.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof",
+            "hu": "Érkezés a buszpályaudvarra",
+            "ro": "Sosire la autogară",
+            "en": "Arrival at the bus station"
+          },
+          "coords": [
+            9.989,
+            57.46
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für uneingeschränkte Fahrten.",
+            "hu": "Vásároljon napijegyet a korlátlan utazáshoz.",
+            "ro": "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+            "en": "Buy a day ticket for unlimited travel."
+          }
+        },
+        {
+          "name": {
+            "de": "P. Nørkjærs Plads",
+            "hu": "P. Nørkjærs Plads tér",
+            "ro": "Piața P. Nørkjærs",
+            "en": "P. Nørkjærs Plads"
+          },
+          "coords": [
+            9.981,
+            57.461
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:30",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Der Platz ist das pulsierende Herz der Stadt.",
+            "hu": "A tér a város lüktető szíve.",
+            "ro": "Piața este inima vibrantă a orașului.",
+            "en": "The square is the vibrant heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt Catharinæ & Sankt Olai Kirchen",
+            "hu": "Szent Katalin és Szent Olaf templomok",
+            "ro": "Bisericile Sf. Ecaterina și Sf. Olai",
+            "en": "St. Catharinæ & St. Olai Churches"
+          },
+          "coords": [
+            9.984,
+            57.459
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:04",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die beiden Hauptkirchen, die nur einen kurzen Spaziergang voneinander entfernt sind.",
+            "hu": "Fedezze fel a két fő templomot, amelyek csak egy rövid sétára vannak egymástól.",
+            "ro": "Explorați cele două biserici principale, la o scurtă plimbare una de cealaltă.",
+            "en": "Explore the two main churches, which are a short walk from each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Museumsviertel",
+            "hu": "Utazás a múzeumi negyedbe",
+            "ro": "Călătorie spre Cartierul Muzeelor",
+            "en": "Trip to the Museum Quarter"
+          },
+          "coords": [
+            9.976,
+            57.464
+          ],
+          "category": "transit",
+          "arrive_at": "11:44",
+          "stay_min": 5,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus für die kurze Fahrt.",
+            "hu": "Vegyen egy helyi buszt a rövid útra.",
+            "ro": "Luați un autobuz local pentru călătoria scurtă.",
+            "en": "Take a local bus for the short ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Vendsyssel Kunst- & Geschichtsmuseum",
+            "hu": "Vendsyssel Művészeti és Történeti Múzeum",
+            "ro": "Muzeul de Artă și Istorie Vendsyssel",
+            "en": "Vendsyssel Art & History Museum"
+          },
+          "coords": [
+            9.9775,
+            57.4632
+          ],
+          "category": "museums",
+          "arrive_at": "11:52",
+          "stay_min": 180,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie einen langen Nachmittag inmitten von Kunst und Geschichte.",
+            "hu": "Élvezze a hosszú délutánt a művészet és a történelem közepette.",
+            "ro": "Bucurați-vă de o după-amiază lungă în mijlocul artei și istoriei.",
+            "en": "Enjoy a long afternoon amidst art and history."
+          }
+        },
+        {
+          "name": {
+            "de": "Christiansgave Park",
+            "hu": "Christiansgave park",
+            "ro": "Parcul Christiansgave",
+            "en": "Christiansgave Park"
+          },
+          "coords": [
+            9.975,
+            57.465
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:56",
+          "stay_min": 159,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Tag ausklingen zu lassen, bevor Sie den Bus zurück nehmen.",
+            "hu": "Tökéletes hely a nap befejezéséhez, mielőtt visszamenne a busszal.",
+            "ro": "Locul perfect pentru a încheia ziua înainte de a lua autobuzul înapoi.",
+            "en": "The perfect place to end the day before taking the bus back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Hjørring bequem mit öffentlichen Verkehrsmitteln. Beginnen Sie am zentralen Busbahnhof und spazieren Sie am Vormittag zum P. Nørkjærs Plads und den nahegelegenen Kirchen. Nach der Erkundung des Stadtzentrums zu Fuß nehmen Sie einen Bus zum zweiten Cluster: dem Museumsviertel. Verbringen Sie den Nachmittag damit, in die Kunst und Geschichte einzutauchen, und entspannen Sie sich anschließend im Christiansgave Park, bevor Sie Ihre Rückfahrt antreten.",
+        "hu": "Fedezze fel Hjørringet kényelmesen a tömegközlekedéssel. Kezdje a központi buszpályaudvaron, és sétáljon délelőtt a P. Nørkjærs Plads térhez és a közeli templomokhoz. Miután gyalog felfedezte a városközpontot, szálljon buszra a második csoporthoz: a múzeumi negyedhez. Töltse a délutánt a művészetben és a történelemben való elmerüléssel, majd pihenjen a Christiansgave parkban, mielőtt visszaindulna.",
+        "ro": "Descoperiți Hjørring confortabil cu transportul public. Începeți de la autogara centrală și plimbați-vă dimineața spre Piața P. Nørkjærs și bisericile din apropiere. După explorarea centrului orașului pe jos, luați un autobuz către al doilea cluster: cartierul muzeelor. Petreceți după-amiaza cufundându-vă în artă și istorie, apoi relaxați-vă în Parcul Christiansgave înainte de a vă întoarce.",
+        "en": "Discover Hjørring comfortably using public transport. Start at the central bus station and walk in the morning to P. Nørkjærs Plads and the nearby churches. After exploring the city center on foot, take a bus to the second cluster: the museum quarter. Spend the afternoon immersing yourself in art and history, then relax in Christiansgave Park before heading back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Probieren Sie das klassische dänische offene Sandwich bei 'Bones Restaurant'."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Genießen Sie dänische Fleischbällchen im 'Bryghuset Vendia'."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Das 'Bryghuset Vendia' braut sein eigenes Bier, ein Muss für Bierliebhaber."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Kóstolja meg a klasszikus dán nyitott szendvicset a 'Bones Restaurant' étteremben."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Élvezze a dán húsgombócokat a 'Bryghuset Vendia' étteremben."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "A 'Bryghuset Vendia' saját sört főz, amit a sörkedvelőknek kötelező megkóstolniuk."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Încercați sandvișul deschis danez clasic la 'Bones Restaurant'."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Savurați chiftelele daneze la 'Bryghuset Vendia'."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "'Bryghuset Vendia' își produce propria bere, o necesitate pentru iubitorii de bere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Try the classic Danish open-faced sandwich at 'Bones Restaurant'."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Enjoy Danish meatballs at 'Bryghuset Vendia'."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "'Bryghuset Vendia' brews its own beer, a must-try for beer lovers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Christiansgave Park",
+            "tip": "Finden Sie eine ruhige Bank am Teich.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Inneres der Sankt Olai Kirche",
+            "tip": "Ein Moment der Stille in einem alten Gebäude.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Museumsgarten",
+            "tip": "Der Garten hinter dem Historischen Museum ist oft sehr friedlich.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Christiansgave Park",
+            "tip": "Keressen egy csendes padot a tó mellett.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szent Olaf-templom belseje",
+            "tip": "Egy csendes pillanat egy ősi épületben.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Múzeumkert",
+            "tip": "A Történeti Múzeum mögötti kert gyakran nagyon békés.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Christiansgave",
+            "tip": "Găsiți o bancă liniștită lângă iaz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Interiorul Bisericii Sf. Olai",
+            "tip": "Un moment de liniște într-o clădire veche.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădina Muzeului",
+            "tip": "Grădina din spatele Muzeului de Istorie este adesea foarte pașnică.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Christiansgave Park",
+            "tip": "Find a quiet bench by the pond.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Inside St. Olai's Church",
+            "tip": "A moment of silence in an ancient building.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Museum Garden",
+            "tip": "The garden behind the Historical Museum is often very peaceful.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Metropol ShoppingCenter",
+            "tip": "Moderne Geschäfte und dänisches Design."
+          },
+          {
+            "name": "Fußgängerzonen",
+            "tip": "Stöbern Sie in den kleinen Boutiquen rund um den zentralen Platz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Metropol Bevásárlóközpont",
+            "tip": "Modern üzletek és dán design."
+          },
+          {
+            "name": "Sétálóutcák",
+            "tip": "Böngésszen a központi tér körüli kis butikokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Metropol",
+            "tip": "Magazine moderne și design danez."
+          },
+          {
+            "name": "Străzi pietonale",
+            "tip": "Răsfoiți micile buticuri din jurul pieței centrale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Metropol ShoppingCenter",
+            "tip": "Modern shops and Danish design."
+          },
+          {
+            "name": "Pedestrian Streets",
+            "tip": "Browse the small boutiques around the central square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Eine Tageskarte ist oft günstiger als Einzelfahrscheine.",
+          "Laden Sie die lokale ÖPNV-App herunter, um Fahrpläne in Echtzeit zu sehen.",
+          "Die Busse sind pünktlich, seien Sie also rechtzeitig an der Haltestelle.",
+          "Überprüfen Sie die Betriebszeiten, besonders wenn Sie abends zurückfahren."
+        ],
+        "hu": [
+          "A napijegy gyakran olcsóbb, mint az egyedi jegyek.",
+          "Töltse le a helyi tömegközlekedési alkalmazást a valós idejű menetrendekért.",
+          "A buszok pontosak, ezért legyen időben a megállóban.",
+          "Ellenőrizze a közlekedési időközöket, különösen, ha este utazik vissza."
+        ],
+        "ro": [
+          "Un bilet de o zi este adesea mai ieftin decât biletele individuale.",
+          "Descărcați aplicația locală de transport public pentru a vedea orarele în timp real.",
+          "Autobuzele sunt punctuale, așa că fiți la stație la timp.",
+          "Verificați orele de funcționare, mai ales dacă vă întoarceți seara."
+        ],
+        "en": [
+          "A day pass is often cheaper than single tickets.",
+          "Download the local public transport app for real-time schedules.",
+          "Buses are punctual, so be at the stop on time.",
+          "Check the operating hours, especially if you're traveling back in the evening."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1488 @@
+{
+  "city_id": "albania-kamez-cities-v2",
+  "anchor": {
+    "name": "Kamëz",
+    "coords": [
+      19.7594,
+      41.3817
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mutter-Teresa-Platz",
+            "hu": "Teréz anya tér",
+            "ro": "Piața Maica Tereza",
+            "en": "Mother Teresa Square"
+          },
+          "coords": [
+            19.7594,
+            41.3817
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Kaffee in einem der lokalen Cafés am Platz.",
+            "hu": "Indítsa a napot egy kávéval a tér egyik helyi kávézójában.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele locale din piață.",
+            "en": "Start your day with a coffee at one of the local cafes on the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Boulevard 'Blue'",
+            "hu": "'Kék' körút",
+            "ro": "Bulevardul 'Albastru'",
+            "en": "Boulevard 'Blue'"
+          },
+          "coords": [
+            19.761,
+            41.3825
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:41",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für einen Morgenspaziergang, um das städtische Leben zu beobachten.",
+            "hu": "Ideális hely egy reggeli sétához és a városi élet megfigyeléséhez.",
+            "ro": "Un loc ideal pentru o plimbare de dimineață pentru a observa viața urbană.",
+            "en": "An ideal spot for a morning stroll to observe the city life."
+          }
+        },
+        {
+          "name": {
+            "de": "Mutter-Teresa-Statue",
+            "hu": "Teréz anya szobor",
+            "ro": "Statuia Maicii Tereza",
+            "en": "Mother Teresa Statue"
+          },
+          "coords": [
+            19.7588,
+            41.381
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:19",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Eine Hommage an die albanische Ikone, perfekt für ein kurzes Innehalten.",
+            "hu": "Tisztelgés az albán ikon előtt, tökéletes egy rövid megállóhoz.",
+            "ro": "Un omagiu adus icoanei albaneze, perfect pentru o scurtă oprire.",
+            "en": "A tribute to the Albanian icon, perfect for a brief stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturpalast Kamëz",
+            "hu": "Kamëzi Kultúrpalota",
+            "ro": "Palatul Culturii Kamëz",
+            "en": "Palace of Culture Kamëz"
+          },
+          "coords": [
+            19.7625,
+            41.384
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:50",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Prüfen Sie, ob es tagsüber Ausstellungen oder offene Türen gibt.",
+            "hu": "Nézze meg, vannak-e napközben kiállítások vagy nyitott napok.",
+            "ro": "Verificați dacă există expoziții sau evenimente deschise în timpul zilei.",
+            "en": "Check if there are any daytime exhibitions or open doors."
+          }
+        },
+        {
+          "name": {
+            "de": "Moschee von Kamëz",
+            "hu": "Kamëzi mecset",
+            "ro": "Moscheea din Kamëz",
+            "en": "Mosque of Kamëz"
+          },
+          "coords": [
+            19.757,
+            41.385
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:02",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Achten Sie auf angemessene Kleidung und die Gebetszeiten.",
+            "hu": "Ügyeljen a megfelelő öltözékre és a imaidőpontokra.",
+            "ro": "Respectați ținuta decentă și orele de rugăciune.",
+            "en": "Be mindful of appropriate dress code and prayer times."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark Kamëz",
+            "hu": "Kamëzi Városliget",
+            "ro": "Parcul Orașului Kamëz",
+            "en": "Kamëz City Park"
+          },
+          "coords": [
+            19.749,
+            41.38
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:16",
+          "stay_min": 150,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 34,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für ein Picknick-Mittagessen und eine Pause vom Stadttrubel.",
+            "hu": "Nagyszerű hely egy piknik ebédhez és egy kis pihenéshez a város zajától.",
+            "ro": "Un loc minunat pentru un prânz la picnic și o pauză de la agitația orașului.",
+            "en": "A great place for a picnic lunch and a break from the city bustle."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang durch Kamëz beginnt am belebten Mutter-Teresa-Platz, dem Herzen der Stadt. Am Vormittag erkunden Sie die zentralen Sehenswürdigkeiten wie den Boulevard 'Blue' und die Mutter-Teresa-Statue, gefolgt von einem kulturellen Besuch im Kulturpalast. Am Mittag tauchen Sie in die spirituelle Atmosphäre der Moschee ein, bevor Sie den Nachmittag entspannt im weitläufigen Stadtpark verbringen. Der Tag endet mit einem gemütlichen Rückweg ins Zentrum, gefüllt mit Eindrücken des lokalen Lebens.",
+        "hu": "Sétája Kamëzban a nyüzsgő Teréz anya téren, a város szívében kezdődik. Délelőtt fedezze fel a központi látnivalókat, mint a 'Kék' körutat és a Teréz anya szobrot, majd tegyen egy kulturális látogatást a Kultúrpalotában. Délben merüljön el a mecset spirituális légkörében, mielőtt a délutánt a tágas városi parkban töltené pihenéssel. A nap a központba való kényelmes visszasétálással zárul, tele a helyi élet benyomásaival.",
+        "ro": "Plimbarea dvs. prin Kamëz începe în vibranta Piață Maica Tereza, inima orașului. În cursul dimineții, explorați reperele centrale, cum ar fi Bulevardul 'Albastru' și Statuia Maicii Tereza, urmate de o vizită culturală la Palatul Culturii. La prânz, cufundați-vă în atmosfera spirituală a moscheii înainte de a petrece o după-amiază relaxantă în parcul spațios al orașului. Ziua se încheie cu o plimbare lejeră înapoi spre centru, plină de impresii despre viața locală.",
+        "en": "Your walking tour of Kamëz begins at the vibrant Mother Teresa Square, the heart of the city. In the morning, you'll explore central landmarks like Boulevard 'Blue' and the Mother Teresa Statue, followed by a cultural visit to the Palace of Culture. At noon, immerse yourself in the spiritual atmosphere of the mosque before spending a relaxing afternoon in the spacious city park. The day concludes with a leisurely stroll back to the center, filled with impressions of local life."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tavë Kosi",
+            "tip": "Ein traditioneller albanischer Auflauf aus Lammfleisch und Joghurt."
+          },
+          {
+            "name": "Byrek",
+            "tip": "Ein herzhafter Kuchen, gefüllt mit Käse, Fleisch oder Spinat, perfekt für einen schnellen Imbiss."
+          },
+          {
+            "name": "Qofte",
+            "tip": "Gegrillte oder gebratene Fleischbällchen, oft mit Salat und Brot serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tavë Kosi",
+            "tip": "Hagyományos albán bárányhúsos, joghurtos rakott étel."
+          },
+          {
+            "name": "Byrek",
+            "tip": "Sós pite sajttal, hússal vagy spenóttal töltve, tökéletes egy gyors harapnivalóhoz."
+          },
+          {
+            "name": "Qofte",
+            "tip": "Grillezett vagy sült húsgombócok, gyakran salátával és kenyérrel tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tavë Kosi",
+            "tip": "O caserolă tradițională albaneză făcută cu carne de miel și iaurt."
+          },
+          {
+            "name": "Byrek",
+            "tip": "O plăcintă sărată umplută cu brânză, carne sau spanac, perfectă pentru o gustare rapidă."
+          },
+          {
+            "name": "Qofte",
+            "tip": "Chiftele la grătar sau prăjite, adesea servite cu salată și pâine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tavë Kosi",
+            "tip": "A traditional Albanian casserole made with lamb and yogurt."
+          },
+          {
+            "name": "Byrek",
+            "tip": "A savory pie filled with cheese, meat, or spinach, perfect for a quick snack."
+          },
+          {
+            "name": "Qofte",
+            "tip": "Grilled or fried meatballs, often served with salad and bread."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtpark Kamëz",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die Natur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park der Landwirtschaftlichen Universität",
+            "tip": "Ein friedlicher, akademischer Campus für einen ruhigen Spaziergang.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Paskuqan-Sees",
+            "tip": "Ideal für einen Moment der Besinnung am Wasser.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kamëzi Városliget",
+            "tip": "Keressen egy csendes padot, és élvezze a természetet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Agrártudományi Egyetem Parkja",
+            "tip": "Békés, akadémiai kampusz egy csendes sétához.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Paskuqan-tó partja",
+            "tip": "Ideális egy csendes pillanathoz a víz mellett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Orașului Kamëz",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Universității Agricole",
+            "tip": "Un campus academic pașnic pentru o plimbare liniștită.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malul Lacului Paskuqan",
+            "tip": "Ideal pentru un moment de reflecție lângă apă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kamëz City Park",
+            "tip": "Find a quiet bench and enjoy the nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park of the Agricultural University",
+            "tip": "A peaceful, academic campus for a quiet walk.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Shores of Paskuqan Lake",
+            "tip": "Ideal for a moment of reflection by the water.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Märkten für frische Produkte und handgemachte Waren."
+          },
+          {
+            "name": "Souvenirläden",
+            "tip": "In der Nähe des Mutter-Teresa-Platzes finden Sie kleine Läden mit traditionellen albanischen Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen helyi piacokat friss termékekért és kézműves árukért."
+          },
+          {
+            "name": "Ajándékboltok",
+            "tip": "A Teréz anya tér közelében talál kis boltokat, ahol hagyományos albán ajándéktárgyakat árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați piețele locale pentru produse proaspete și articole de artizanat."
+          },
+          {
+            "name": "Magazine de suveniruri",
+            "tip": "Lângă Piața Maica Tereza, veți găsi mici magazine cu suveniruri tradiționale albaneze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for local markets for fresh produce and handmade goods."
+          },
+          {
+            "name": "Souvenir Shops",
+            "tip": "Near Mother Teresa Square, you'll find small shops with traditional Albanian souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit.",
+          "Beginnen Sie früh, um die Mittagshitze zu vermeiden.",
+          "Achten Sie auf Ihre Umgebung in belebten Gegenden."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "Hozzon magával újratölthető vizes palackot.",
+          "Kezdje korán, hogy elkerülje a déli hőséget.",
+          "Vigyázzon a környezetére a forgalmas területeken."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Luați cu dvs. o sticlă de apă reutilizabilă.",
+          "Începeți devreme pentru a evita căldura de la amiază.",
+          "Fiți atenți la împrejurimile dvs. în zonele aglomerate."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "Bring a reusable water bottle.",
+          "Start early to avoid the midday heat.",
+          "Be aware of your surroundings in crowded areas."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Mutter-Teresa-Platz",
+            "hu": "Teréz anya tér",
+            "ro": "Piața Maica Tereza",
+            "en": "Mother Teresa Square"
+          },
+          "coords": [
+            19.7594,
+            41.3817
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Mieten Sie Ihr Fahrrad in der Nähe und machen Sie sich bereit für die Tour.",
+            "hu": "Béreljen kerékpárt a közelben, és készüljön fel a túrára.",
+            "ro": "Închiriați bicicleta din apropiere și pregătiți-vă pentru tur.",
+            "en": "Rent your bike nearby and get ready for the tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Boulevard 'Blue'",
+            "hu": "'Kék' körút",
+            "ro": "Bulevardul 'Albastru'",
+            "en": "Boulevard 'Blue'"
+          },
+          "coords": [
+            19.761,
+            41.3825
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:32",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Radeln Sie gemütlich den Boulevard entlang und genießen Sie die Atmosphäre.",
+            "hu": "Tekerjen végig kényelmesen a körúton és élvezze a hangulatot.",
+            "ro": "Pedalați pe bulevard într-un ritm lejer și bucurați-vă de atmosferă.",
+            "en": "Cycle leisurely down the boulevard and enjoy the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturpalast Kamëz",
+            "hu": "Kamëzi Kultúrpalota",
+            "ro": "Palatul Culturii Kamëz",
+            "en": "Palace of Culture Kamëz"
+          },
+          "coords": [
+            19.7625,
+            41.384
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:00",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie hineingehen.",
+            "hu": "Biztonságosan zárja le a kerékpárját, mielőtt bemegy.",
+            "ro": "Asigurați-vă bicicleta înainte de a intra.",
+            "en": "Lock your bike securely before heading inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Park der Landwirtschaftlichen Universität",
+            "hu": "Agrártudományi Egyetem Parkja",
+            "ro": "Parcul Universității Agricole",
+            "en": "Park of the Agricultural University"
+          },
+          "coords": [
+            19.775,
+            41.39
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Eine angenehme Radtour zum Campus, genießen Sie die grüne Umgebung.",
+            "hu": "Kellemes biciklitúra a kampuszig, élvezze a zöld környezetet.",
+            "ro": "O plimbare plăcută cu bicicleta până la campus, bucurați-vă de împrejurimile verzi.",
+            "en": "A pleasant bike ride to the campus, enjoy the green surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark Kamëz",
+            "hu": "Kamëzi Városliget",
+            "ro": "Parcul Orașului Kamëz",
+            "en": "Kamëz City Park"
+          },
+          "coords": [
+            19.749,
+            41.38
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:18",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ideal für eine längere Mittagspause, vielleicht mit einem Picknick.",
+            "hu": "Ideális egy hosszabb ebédszünethez, esetleg piknikkel.",
+            "ro": "Ideal pentru o pauză de prânz mai lungă, poate cu un picnic.",
+            "en": "Ideal for a longer lunch break, perhaps with a picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Paskuqan-See",
+            "hu": "Paskuqan-tó",
+            "ro": "Lacul Paskuqan",
+            "en": "Paskuqan Lake"
+          },
+          "coords": [
+            19.78,
+            41.365
+          ],
+          "category": "natural features",
+          "arrive_at": "14:00",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Die Radtour zum See ist erfrischend. Genießen Sie die Aussicht.",
+            "hu": "A tóhoz vezető bicikliút frissítő. Élvezze a kilátást.",
+            "ro": "Plimbarea cu bicicleta până la lac este revigorantă. Bucurați-vă de priveliște.",
+            "en": "The bike ride to the lake is refreshing. Enjoy the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Moschee von Kamëz",
+            "hu": "Kamëzi mecset",
+            "ro": "Moscheea din Kamëz",
+            "en": "Mosque of Kamëz"
+          },
+          "coords": [
+            19.757,
+            41.385
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:45",
+          "stay_min": 66,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Der letzte Halt des Tages, ein Moment der Ruhe.",
+            "hu": "A nap utolsó állomása, egy pillanatnyi nyugalom.",
+            "ro": "Ultima oprire a zilei, un moment de liniște.",
+            "en": "The last stop of the day, a moment of tranquility."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und starten Sie am Mutter-Teresa-Platz. Die morgendliche Tour führt Sie durch das Zentrum, vorbei am Kulturpalast zum grünen Campus der Landwirtschaftlichen Universität. Genießen Sie ein Mittagessen im Stadtpark, bevor Sie am Nachmittag eine erfrischende Fahrt zum Paskuqan-See unternehmen. Die Tour endet mit einem besinnlichen Besuch der Moschee, bevor Sie Ihr Fahrrad zurückgeben.",
+        "hu": "Pattanjon kerékpárra és induljon a Teréz anya térről. A reggeli túra a központon keresztül vezet, elhaladva a Kultúrpalota mellett az Agrártudományi Egyetem zöld kampuszáig. Ebédeljen a városi parkban, mielőtt délután egy frissítő tekerésre indulna a Paskuqan-tóhoz. A túra a mecset megtekintésével zárul, mielőtt visszavinné a kerékpárt.",
+        "ro": "Urcați-vă pe bicicletă și porniți din Piața Maica Tereza. Turul de dimineață vă duce prin centru, pe lângă Palatul Culturii, până la campusul verde al Universității Agricole. Savurați prânzul în parcul orașului înainte de a face o plimbare revigorantă spre Lacul Paskuqan după-amiaza. Turul se încheie cu o vizită contemplativă la moschee înainte de a returna bicicleta.",
+        "en": "Hop on your bike and start from Mother Teresa Square. The morning tour takes you through the center, past the Palace of Culture, to the green campus of the Agricultural University. Enjoy lunch in the city park before taking a refreshing ride to Paskuqan Lake in the afternoon. The tour concludes with a contemplative visit to the mosque before returning your bike."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fërgesë",
+            "tip": "Ein herzhaftes Gericht aus Paprika, Tomaten und Hüttenkäse."
+          },
+          {
+            "name": "Petulla",
+            "tip": "Frittierter Teig, oft mit Käse oder Honig serviert, ideal für Energie."
+          },
+          {
+            "name": "Lokale Fruchtsäfte",
+            "tip": "Erfrischende Säfte aus saisonalen Früchten von lokalen Anbietern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fërgesë",
+            "tip": "Kiadós étel paprikából, paradicsomból és túróból."
+          },
+          {
+            "name": "Petulla",
+            "tip": "Sült tészta, gyakran sajttal vagy mézzel tálalva, ideális energiapótláshoz."
+          },
+          {
+            "name": "Helyi gyümölcslevek",
+            "tip": "Helyi termelők szezonális gyümölcseiből készült frissítő levek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fërgesë",
+            "tip": "Un fel de mâncare consistent din ardei, roșii și brânză de vaci."
+          },
+          {
+            "name": "Petulla",
+            "tip": "Aluat prăjit, adesea servit cu brânză sau miere, ideal pentru energie."
+          },
+          {
+            "name": "Sucuri de fructe locale",
+            "tip": "Sucuri răcoritoare din fructe de sezon de la vânzătorii locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fërgesë",
+            "tip": "A hearty dish made of peppers, tomatoes, and cottage cheese."
+          },
+          {
+            "name": "Petulla",
+            "tip": "Fried dough, often served with cheese or honey, great for energy."
+          },
+          {
+            "name": "Local fruit juices",
+            "tip": "Refreshing juices from seasonal fruits by local vendors."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Paskuqan-See",
+            "tip": "Eine friedliche Strecke mit schöner Aussicht.",
+            "emoji": "🚴‍♀️"
+          },
+          {
+            "name": "Botanischer Garten (Universität)",
+            "tip": "Entdecken Sie die ruhigen Ecken des Universitätsparks.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Sonnenuntergang am See",
+            "tip": "Der perfekte Ort, um den Tag ausklingen zu lassen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Paskuqan-tónál",
+            "tip": "Békés útvonal gyönyörű kilátással.",
+            "emoji": "🚴‍♀️"
+          },
+          {
+            "name": "Botanikus Kert (Egyetem)",
+            "tip": "Fedezze fel az egyetemi park csendes zugait.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Naplemente a tónál",
+            "tip": "Tökéletes hely a nap befejezéséhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de la Lacul Paskuqan",
+            "tip": "Un traseu pașnic cu priveliști frumoase.",
+            "emoji": "🚴‍♀️"
+          },
+          {
+            "name": "Grădina Botanică (Universitate)",
+            "tip": "Descoperiți colțurile liniștite ale parcului universitar.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Apus la lac",
+            "tip": "Locul perfect pentru a încheia ziua.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Paskuqan Lake Bike Path",
+            "tip": "A peaceful route with beautiful views.",
+            "emoji": "🚴‍♀️"
+          },
+          {
+            "name": "Botanical Garden (University)",
+            "tip": "Explore the quiet corners of the university park.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Sunset at the lake",
+            "tip": "The perfect spot to end the day.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradzubehörläden",
+            "tip": "Falls Sie etwas für Ihre Tour benötigen."
+          },
+          {
+            "name": "Handwerkermarkt",
+            "tip": "Suchen Sie nach einzigartigen, handgefertigten Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Ha szüksége lenne valamire a túrához."
+          },
+          {
+            "name": "Kézműves piac",
+            "tip": "Keressen egyedi, kézzel készített ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de accesorii pentru biciclete",
+            "tip": "În caz că aveți nevoie de ceva pentru turul dvs."
+          },
+          {
+            "name": "Târg de artizanat",
+            "tip": "Căutați suveniruri unice, realizate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike accessory shops",
+            "tip": "In case you need anything for your tour."
+          },
+          {
+            "name": "Artisan Market",
+            "tip": "Look for unique, handmade souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt.",
+          "Tragen Sie einen Helm.",
+          "Nehmen Sie eine Karte oder ein GPS-Gerät mit.",
+          "Planen Sie Pausen ein, um sich zu erholen und zu hydrieren."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt.",
+          "Viseljen sisakot.",
+          "Vigyen magával térképet vagy GPS-eszközt.",
+          "Tervezzen szüneteket a pihenésre és hidratálásra."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca.",
+          "Purtați cască.",
+          "Luați o hartă sau un dispozitiv GPS.",
+          "Planificați pauze pentru a vă odihni și a vă hidrata."
+        ],
+        "en": [
+          "Check your bike before you leave.",
+          "Wear a helmet.",
+          "Bring a map or GPS device.",
+          "Plan for breaks to rest and hydrate."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:18",
+      "total_km": 11.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Paskuqan-See",
+            "hu": "Paskuqan-tó",
+            "ro": "Lacul Paskuqan",
+            "en": "Paskuqan Lake"
+          },
+          "coords": [
+            19.78,
+            41.365
+          ],
+          "category": "natural features",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einer ruhigen Fahrt zum See. Genießen Sie die morgendliche Stille.",
+            "hu": "Kezdje a napot egy nyugodt autózással a tóhoz. Élvezze a reggeli csendet.",
+            "ro": "Începeți ziua cu o plimbare liniștită cu mașina până la lac. Bucurați-vă de liniștea dimineții.",
+            "en": "Start the day with a quiet drive to the lake. Enjoy the morning tranquility."
+          }
+        },
+        {
+          "name": {
+            "de": "Park der Landwirtschaftlichen Universität",
+            "hu": "Agrártudományi Egyetem Parkja",
+            "ro": "Parcul Universității Agricole",
+            "en": "Park of the Agricultural University"
+          },
+          "coords": [
+            19.775,
+            41.39
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:33",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und spazieren Sie durch den akademischen Campus.",
+            "hu": "Parkoljon a közelben, és sétáljon egyet az egyetemi kampuszon.",
+            "ro": "Parcați în apropiere și faceți o plimbare prin campusul academic.",
+            "en": "Park nearby and take a stroll through the academic campus."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark Kamëz",
+            "hu": "Kamëzi Városliget",
+            "ro": "Parcul Orașului Kamëz",
+            "en": "Kamëz City Park"
+          },
+          "coords": [
+            19.749,
+            41.38
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:50",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Ein guter Ort für eine Mittagspause. Es gibt genügend Parkplätze.",
+            "hu": "Jó hely egy ebédszünetre. Elegendő parkolóhely áll rendelkezésre.",
+            "ro": "Un loc bun pentru o pauză de prânz. Există suficiente locuri de parcare.",
+            "en": "A good spot for a lunch break. There is ample parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Mutter-Teresa-Platz",
+            "hu": "Teréz anya tér",
+            "ro": "Piața Maica Tereza",
+            "en": "Mother Teresa Square"
+          },
+          "coords": [
+            19.7594,
+            41.3817
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:42",
+          "stay_min": 20,
+          "hop_mode": "car",
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Das Zentrum des Geschehens. Parken Sie hier und erkunden Sie die Umgebung zu Fuß.",
+            "hu": "Az események központja. Parkoljon le itt, és fedezze fel a környéket gyalog.",
+            "ro": "Centrul acțiunii. Parcați aici și explorați zona pe jos.",
+            "en": "The center of the action. Park here and explore the area on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturpalast Kamëz",
+            "hu": "Kamëzi Kultúrpalota",
+            "ro": "Palatul Culturii Kamëz",
+            "en": "Palace of Culture Kamëz"
+          },
+          "coords": [
+            19.7625,
+            41.384
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:10",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Platz entfernt.",
+            "hu": "Csak egy rövid séta a tértől.",
+            "ro": "La doar o scurtă plimbare de piață.",
+            "en": "Just a short walk from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Moschee von Kamëz",
+            "hu": "Kamëzi mecset",
+            "ro": "Moscheea din Kamëz",
+            "en": "Mosque of Kamëz"
+          },
+          "coords": [
+            19.757,
+            41.385
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:10",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses spirituelle Zentrum im Herzen der Stadt.",
+            "hu": "Fedezze fel ezt a spirituális központot a város szívében.",
+            "ro": "Descoperiți acest centru spiritual în inima orașului.",
+            "en": "Discover this spiritual center in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Boulevard 'Blue'",
+            "hu": "'Kék' körút",
+            "ro": "Bulevardul 'Albastru'",
+            "en": "Boulevard 'Blue'"
+          },
+          "coords": [
+            19.761,
+            41.3825
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:18",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Spaziergang und Abendessen entlang des Boulevards.",
+            "hu": "Zárja a napot egy sétával és vacsorával a körút mentén.",
+            "ro": "Încheiați ziua cu o plimbare și o cină de-a lungul bulevardului.",
+            "en": "End the day with a stroll and dinner along the boulevard."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit dem Auto beginnt entspannt am Paskuqan-See. Vormittags fahren Sie zum Campus der Universität und dann weiter zum Stadtpark für eine ausgedehnte Mittagspause. Am Nachmittag parken Sie im Zentrum und erkunden den Mutter-Teresa-Platz und die nahegelegenen Kulturstätten wie den Kulturpalast und die Moschee zu Fuß. Der Abend klingt gemütlich auf dem Boulevard 'Blue' aus.",
+        "hu": "Autós napja a Paskuqan-tónál kezdődik. Délelőtt az egyetemi kampuszhoz hajt, majd a városi parkba egy hosszabb ebédszünetre. Délután a központban parkol, és gyalog fedezi fel a Teréz anya teret és a közeli kulturális helyszíneket, mint a Kultúrpalotát és a mecsetet. Az estét a 'Kék' körúton zárja.",
+        "ro": "Ziua dvs. cu mașina începe relaxat la Lacul Paskuqan. Dimineața conduceți spre campusul universitar și apoi spre parcul orașului pentru o pauză de prânz prelungită. După-amiaza, parcați în centru și explorați pe jos Piața Maica Tereza și siturile culturale din apropiere, cum ar fi Palatul Culturii și moscheea. Seara se încheie pe Bulevardul 'Albastru'.",
+        "en": "Your day by car begins relaxed at Paskuqan Lake. In the morning, you'll drive to the university campus and then on to the city park for an extended lunch break. In the afternoon, you'll park in the center and explore Mother Teresa Square and the nearby cultural sites like the Palace of Culture and the mosque on foot. The evening concludes on Boulevard 'Blue'."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Flija",
+            "tip": "Ein geschichteter, pfannkuchenartiger Kuchen, der oft bei Feiern serviert wird."
+          },
+          {
+            "name": "Speca të mbushura",
+            "tip": "Gefüllte Paprika mit Reis und Fleisch, ein Hausmannskost-Klassiker."
+          },
+          {
+            "name": "Rakia",
+            "tip": "Probieren Sie den lokalen Obstbrand, aber mit Vorsicht!"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Flija",
+            "tip": "Rétegezett, palacsintaszerű sütemény, amelyet gyakran ünnepségeken szolgálnak fel."
+          },
+          {
+            "name": "Speca të mbushura",
+            "tip": "Töltött paprika rizzsel és hússal, egy házias klasszikus."
+          },
+          {
+            "name": "Rakia",
+            "tip": "Kóstolja meg a helyi gyümölcspálinkát, de csak óvatosan!"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Flija",
+            "tip": "O prăjitură stratificată, asemănătoare clătitelor, servită adesea la celebrări."
+          },
+          {
+            "name": "Speca të mbushura",
+            "tip": "Ardei umpluți cu orez și carne, un clasic al bucătăriei de casă."
+          },
+          {
+            "name": "Rachiu",
+            "tip": "Încercați țuica locală de fructe, dar cu moderație!"
+          }
+        ],
+        "en": [
+          {
+            "name": "Flija",
+            "tip": "A layered pancake-like cake often served at celebrations."
+          },
+          {
+            "name": "Speca të mbushura",
+            "tip": "Stuffed peppers with rice and meat, a home-style classic."
+          },
+          {
+            "name": "Rakia",
+            "tip": "Try the local fruit brandy, but with caution!"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Früher Morgen am Paskuqan-See",
+            "tip": "Die beste Zeit, um die Ruhe des Sees zu erleben.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Versteckte Gärten im Universitätspark",
+            "tip": "Finden Sie einen abgelegenen Ort zum Entspannen.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Spätnachmittag im Stadtpark",
+            "tip": "Wenn die Menschenmassen nachlassen, ist es besonders friedlich.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kora reggel a Paskuqan-tónál",
+            "tip": "A legjobb idő a tó nyugalmának megtapasztalására.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rejtett kertek az Egyetemi Parkban",
+            "tip": "Keressen egy félreeső helyet a pihenéshez.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Késő délután a Városligetben",
+            "tip": "Amikor a tömeg csökken, különösen békés.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dimineața devreme la Lacul Paskuqan",
+            "tip": "Cel mai bun moment pentru a experimenta liniștea lacului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădini ascunse în Parcul Universității",
+            "tip": "Găsiți un loc retras pentru a vă relaxa.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "După-amiaza târziu în Parcul Orașului",
+            "tip": "Este deosebit de pașnic atunci când mulțimile se răresc.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Early morning at Paskuqan Lake",
+            "tip": "The best time to experience the tranquility of the lake.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hidden gardens in the University Park",
+            "tip": "Find a secluded spot to relax.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Late afternoon in the City Park",
+            "tip": "It's especially peaceful as the crowds thin out.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Straßenverkäufer",
+            "tip": "Halten Sie Ausschau nach Verkäufern, die lokale Snacks und Getränke anbieten."
+          },
+          {
+            "name": "Buchhandlungen",
+            "tip": "Vielleicht finden Sie ein Buch über die albanische Geschichte oder Kultur."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Utcai árusok",
+            "tip": "Keresse azokat az árusokat, akik helyi harapnivalókat és italokat kínálnak."
+          },
+          {
+            "name": "Könyvesboltok",
+            "tip": "Talán talál egy könyvet az albán történelemről vagy kultúráról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vânzători ambulanți",
+            "tip": "Fiți atenți la vânzătorii care oferă gustări și băuturi locale."
+          },
+          {
+            "name": "Librării",
+            "tip": "Ați putea găsi o carte despre istoria sau cultura albaneză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Street vendors",
+            "tip": "Look out for vendors offering local snacks and drinks."
+          },
+          {
+            "name": "Bookstores",
+            "tip": "You might find a book on Albanian history or culture."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie eine GPS-App für eine einfache Navigation.",
+          "Achten Sie auf die Parkvorschriften im Stadtzentrum.",
+          "Halten Sie Kleingeld für Parkgebühren bereit.",
+          "Planen Sie zusätzliche Zeit für den Verkehr während der Stoßzeiten ein."
+        ],
+        "hu": [
+          "Használjon GPS-alkalmazást az egyszerű navigációhoz.",
+          "Ügyeljen a parkolási szabályokra a városközpontban.",
+          "Készítsen elő aprópénzt a parkolási díjakhoz.",
+          "Tervezzen plusz időt a csúcsforgalomra."
+        ],
+        "ro": [
+          "Utilizați o aplicație GPS pentru o navigare ușoară.",
+          "Fiți atenți la regulile de parcare în centrul orașului.",
+          "Pregătiți monede pentru taxele de parcare.",
+          "Planificați timp suplimentar pentru trafic în orele de vârf."
+        ],
+        "en": [
+          "Use a GPS app for easy navigation.",
+          "Be mindful of parking regulations in the city center.",
+          "Have small change ready for parking fees.",
+          "Plan for extra time for traffic during peak hours."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 7.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mutter-Teresa-Platz",
+            "hu": "Teréz anya tér",
+            "ro": "Piața Maica Tereza",
+            "en": "Mother Teresa Square"
+          },
+          "coords": [
+            19.7594,
+            41.3817
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie am zentralen Knotenpunkt, der gut mit öffentlichen Verkehrsmitteln erreichbar ist.",
+            "hu": "Kezdje a központi csomópontnál, amely tömegközlekedéssel jól megközelíthető.",
+            "ro": "Începeți de la nodul central, ușor accesibil cu transportul public.",
+            "en": "Start at the central hub, easily accessible by public transport."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturpalast Kamëz",
+            "hu": "Kamëzi Kultúrpalota",
+            "ro": "Palatul Culturii Kamëz",
+            "en": "Palace of Culture Kamëz"
+          },
+          "coords": [
+            19.7625,
+            41.384
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:28",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz aus.",
+            "hu": "Rövid séta a tértől.",
+            "ro": "La o scurtă plimbare de piață.",
+            "en": "A short walk from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Moschee von Kamëz",
+            "hu": "Kamëzi mecset",
+            "ro": "Moscheea din Kamëz",
+            "en": "Mosque of Kamëz"
+          },
+          "coords": [
+            19.757,
+            41.385
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:23",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie das religiöse Herzstück des ersten Clusters.",
+            "hu": "Fedezze fel az első klaszter vallási központját.",
+            "ro": "Explorați inima religioasă a primului cluster.",
+            "en": "Explore the religious heart of the first cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Park der Landwirtschaftlichen Universität",
+            "hu": "Agrártudományi Egyetem Parkja",
+            "ro": "Parcul Universității Agricole",
+            "en": "Park of the Agricultural University"
+          },
+          "coords": [
+            19.775,
+            41.39
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:33",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Universitätscampus für eine Mittagspause im Grünen.",
+            "hu": "Menjen busszal az egyetemi kampuszra egy zöldben töltött ebédszünetért.",
+            "ro": "Luați un autobuz spre campusul universitar pentru o pauză de prânz în natură.",
+            "en": "Take a bus to the university campus for a lunch break amidst greenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark Kamëz",
+            "hu": "Kamëzi Városliget",
+            "ro": "Parcul Orașului Kamëz",
+            "en": "Kamëz City Park"
+          },
+          "coords": [
+            19.749,
+            41.38
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:31",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 3.4,
+          "tip_5lang": {
+            "de": "Eine weitere Busfahrt bringt Sie zu diesem großen Park für einen entspannten Nachmittag.",
+            "hu": "Egy másik buszút elviszi ehhez a nagy parkhoz egy pihentető délutánra.",
+            "ro": "O altă călătorie cu autobuzul vă duce la acest parc mare pentru o după-amiază relaxantă.",
+            "en": "Another bus ride takes you to this large park for a relaxing afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Boulevard 'Blue'",
+            "hu": "'Kék' körút",
+            "ro": "Bulevardul 'Albastru'",
+            "en": "Boulevard 'Blue'"
+          },
+          "coords": [
+            19.761,
+            41.3825
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:00",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zurück ins Zentrum, um den Tag mit einem Abendessen ausklingen zu lassen.",
+            "hu": "Utazzon vissza a központba, hogy vacsorával zárja a napot.",
+            "ro": "Întoarceți-vă în centru pentru a încheia ziua cu cina.",
+            "en": "Head back to the center to end the day with dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt im Herzen von Kamëz, am Mutter-Teresa-Platz. Am Vormittag erkunden Sie das zentrale Cluster zu Fuß. Anschließend bringt Sie ein Bus zum ruhigen Park der Universität für eine Mittagspause. Am Nachmittag fahren Sie mit dem Bus zum weitläufigen Stadtpark, um zu entspannen, bevor Sie für den Abend ins Zentrum zurückkehren.",
+        "hu": "Tömegközlekedési napja Kamëz szívében, a Teréz anya téren kezdődik. Délelőtt gyalogosan fedezi fel a központi klasztert. Ezután egy busz elviszi az egyetem csendes parkjába egy ebédszünetre. Délután busszal a tágas városi parkba utazik pihenni, mielőtt estére visszatérne a központba.",
+        "ro": "Ziua dvs. cu transportul public începe în inima orașului Kamëz, în Piața Maica Tereza. Dimineața explorați clusterul central pe jos. Apoi, un autobuz vă duce la parcul liniștit al universității pentru o pauză de prânz. După-amiaza, luați autobuzul spre parcul spațios al orașului pentru a vă relaxa înainte de a vă întoarce în centru pentru seară.",
+        "en": "Your day using public transit starts in the heart of Kamëz, at Mother Teresa Square. In the morning, you'll explore the central cluster on foot. Then, a bus will take you to the university's quiet park for a lunch break. In the afternoon, you'll travel by bus to the spacious city park to relax before returning to the center for the evening."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Simite",
+            "tip": "Ein Sesamkringel, den man oft bei Straßenverkäufern findet."
+          },
+          {
+            "name": "Dhurata",
+            "tip": "Ein Joghurtgetränk, das gut zu herzhaften Speisen passt."
+          },
+          {
+            "name": "Kadaif",
+            "tip": "Ein süßes Gebäck aus dünnen Nudeln, Nüssen und Sirup."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Simite",
+            "tip": "Szezámmagos perec, amelyet gyakran utcai árusoknál találni."
+          },
+          {
+            "name": "Dhurata",
+            "tip": "Joghurtital, amely jól illik a sós ételekhez."
+          },
+          {
+            "name": "Kadaif",
+            "tip": "Édes sütemény vékony tésztából, diófélékből és szirupból."
+          },
+          {
+            "name": "Ballokume",
+            "tip": "Kukoricalisztből készült sütemény, Elbasan specialitása, de máshol is megtalálható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Simite",
+            "tip": "Un covrig cu susan, adesea găsit la vânzătorii ambulanți."
+          },
+          {
+            "name": "Dhurata",
+            "tip": "O băutură pe bază de iaurt care se potrivește bine cu mâncărurile sărate."
+          },
+          {
+            "name": "Cataif",
+            "tip": "O prăjitură dulce făcută din fidea subțire, nuci și sirop."
+          }
+        ],
+        "en": [
+          {
+            "name": "Simite",
+            "tip": "A sesame-covered bread ring, often found at street vendors."
+          },
+          {
+            "name": "Dhurata",
+            "tip": "A yogurt-based drink that pairs well with savory foods."
+          },
+          {
+            "name": "Kadaif",
+            "tip": "A sweet pastry made of thin noodles, nuts, and syrup."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Bank im Park der Universität",
+            "tip": "Ein ruhiger Ort, um ein Buch zu lesen.",
+            "emoji": "📖"
+          },
+          {
+            "name": "Am Rande des Stadtparks",
+            "tip": "Weniger überlaufen und ideal zum Entspannen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Eine ruhige Seitenstraße",
+            "tip": "Entfliehen Sie dem Trubel der Hauptboulevards.",
+            "emoji": "🚶"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy pad az Egyetemi Parkban",
+            "tip": "Csendes hely egy könyv olvasásához.",
+            "emoji": "📖"
+          },
+          {
+            "name": "A Városliget szélén",
+            "tip": "Kevésbé zsúfolt és ideális a pihenéshez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Egy csendes mellékutca",
+            "tip": "Meneküljön el a fő körutak nyüzsgésétől.",
+            "emoji": "🚶"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă în Parcul Universității",
+            "tip": "Un loc liniștit pentru a citi o carte.",
+            "emoji": "📖"
+          },
+          {
+            "name": "La marginea Parcului Orașului",
+            "tip": "Mai puțin aglomerat și ideal pentru relaxare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "O stradă laterală liniștită",
+            "tip": "Evadați din agitația bulevardelor principale.",
+            "emoji": "🚶"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench in the University Park",
+            "tip": "A quiet place to read a book.",
+            "emoji": "📖"
+          },
+          {
+            "name": "The edge of the City Park",
+            "tip": "Less crowded and ideal for relaxation.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A quiet side street",
+            "tip": "Escape the hustle of the main boulevards.",
+            "emoji": "🚶"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske an Bushaltestellen",
+            "tip": "Praktisch für Getränke und Snacks unterwegs."
+          },
+          {
+            "name": "Kleine Bäckereien",
+            "tip": "Probieren Sie frisches, lokales Gebäck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok a buszmegállókban",
+            "tip": "Praktikus italokhoz és harapnivalókhoz útközben."
+          },
+          {
+            "name": "Kis pékségek",
+            "tip": "Kóstoljon friss, helyi péksüteményeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri la stațiile de autobuz",
+            "tip": "Convenabil pentru băuturi și gustări din mers."
+          },
+          {
+            "name": "Mici brutării",
+            "tip": "Încercați produse de patiserie proaspete, locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks at bus stops",
+            "tip": "Convenient for drinks and snacks on the go."
+          },
+          {
+            "name": "Small bakeries",
+            "tip": "Try fresh, local pastries."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Überprüfen Sie den Busfahrplan im Voraus.",
+          "Seien Sie an den Haltestellen aufmerksam, um Ihre nicht zu verpassen.",
+          "Validieren Sie Ihr Ticket beim Einsteigen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Ellenőrizze előre a buszmenetrendet.",
+          "Legyen figyelmes a megállókban, nehogy lemaradjon a sajátjáról.",
+          "Érvényesítse jegyét felszálláskor."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Verificați programul autobuzelor în avans.",
+          "Fiți atenți la stații pentru a nu o rata pe a dvs.",
+          "Validați-vă biletul la urcare."
+        ],
+        "en": [
+          "Buy a day pass for unlimited travel.",
+          "Check the bus schedule in advance.",
+          "Be attentive at stops so you don't miss yours.",
+          "Validate your ticket when you board."
+        ]
+      }
+    }
+  }
+}

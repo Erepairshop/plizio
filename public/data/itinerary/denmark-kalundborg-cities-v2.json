@@ -1,0 +1,1212 @@
+{
+  "city_id": "denmark-kalundborg-cities-v2",
+  "anchor": {
+    "name": "Kalundborg",
+    "coords": [
+      11.08,
+      55.68
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Højbyen (Die Altstadt)",
+            "hu": "Højbyen (Óváros)",
+            "ro": "Højbyen (Orașul vechi)",
+            "en": "Højbyen (The Old Town)"
+          },
+          "coords": [
+            11.078,
+            55.681
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier mit einem Kaffee in einem der charmanten Cafés.",
+            "hu": "Kezdje a napot egy kávéval az egyik hangulatos kávézóban.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele fermecătoare.",
+            "en": "Start your day here with a coffee from one of the charming cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Vor Frue Kirke (Liebfrauenkirche)",
+            "hu": "Vor Frue Kirke (Miasszonyunk-templom)",
+            "ro": "Biserica Vor Frue (Biserica Maicii Domnului)",
+            "en": "Vor Frue Kirke (Church of Our Lady)"
+          },
+          "coords": [
+            11.079,
+            55.682
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die einzigartige fünftürmige Architektur, die an eine Burg erinnert.",
+            "hu": "Figyelje meg az egyedülálló, várra emlékeztető öttornyú építészetet.",
+            "ro": "Observați arhitectura unică cu cinci turnuri, care amintește de un castel.",
+            "en": "Notice the unique five-towered architecture, reminiscent of a castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Bispegården",
+            "hu": "Bispegården (Püspöki Palota)",
+            "ro": "Bispegården (Palatul Episcopal)",
+            "en": "Bispegården (The Bishop's Palace)"
+          },
+          "coords": [
+            11.077,
+            55.68
+          ],
+          "category": "museums",
+          "arrive_at": "10:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eines der am besten erhaltenen mittelalterlichen Steinhäuser Dänemarks.",
+            "hu": "Dánia egyik legjobb állapotban megmaradt középkori kőháza.",
+            "ro": "Una dintre cele mai bine conservate case medievale din piatră din Danemarca.",
+            "en": "One of Denmark's best-preserved medieval stone houses."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalundborg Museum",
+            "hu": "Kalundborg Múzeum",
+            "ro": "Muzeul Kalundborg",
+            "en": "Kalundborg Museum"
+          },
+          "coords": [
+            11.081,
+            55.679
+          ],
+          "category": "museums",
+          "arrive_at": "11:23",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vertiefen Sie sich in die lokale Geschichte, von der Wikingerzeit bis zur industriellen Entwicklung.",
+            "hu": "Merüljön el a helyi történelemben, a viking kortól az ipari fejlődésig.",
+            "ro": "Aprofundați istoria locală, de la epoca vikingilor la dezvoltarea industrială.",
+            "en": "Dive into local history, from the Viking era to industrial development."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalundborg Hafen",
+            "hu": "Kalundborg kikötő",
+            "ro": "Portul Kalundborg",
+            "en": "Kalundborg Harbour"
+          },
+          "coords": [
+            11.075,
+            55.677
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein idealer Ort für ein Mittagessen mit frischem Fisch und Blick auf die Fähren.",
+            "hu": "Ideális hely egy friss halból készült ebédhez, kilátással a kompokra.",
+            "ro": "Un loc ideal pentru un prânz cu pește proaspăt, cu vedere la feriboturi.",
+            "en": "An ideal spot for lunch with fresh fish while watching the ferries."
+          }
+        },
+        {
+          "name": {
+            "de": "Møllebakken",
+            "hu": "Møllebakken (Malom-domb)",
+            "ro": "Møllebakken (Dealul Morii)",
+            "en": "Møllebakken (Mill Hill)"
+          },
+          "coords": [
+            11.085,
+            55.685
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Stadt und die Bucht von der Spitze des Hügels.",
+            "hu": "Élvezze a panorámát a városra és az öbölre a domb tetejéről.",
+            "ro": "Bucurați-vă de vederea panoramică asupra orașului și a golfului de pe vârful dealului.",
+            "en": "Enjoy the panoramic view of the town and bay from the top of the hill."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im Herzen von Kalundborg, der historischen Altstadt Højbyen. Am Vormittag erkunden Sie die beeindruckende fünftürmige Kirche und die mittelalterlichen Gebäude. Nach dem Mittagessen im lebhaften Hafenviertel, wo Sie frische Meeresfrüchte genießen, schlendern Sie am Nachmittag zum Møllebakken. Der Abend klingt mit einem entspannten Spaziergang und dem Genuss lokaler Spezialitäten aus, während Sie die ruhige dänische Atmosphäre auf sich wirken lassen.",
+        "hu": "A nap Kalundborg szívében, a történelmi Højbyen óvárosban kezdődik. Délelőtt felfedezi a lenyűgöző öttornyú templomot és a középkori épületeket. Ebéd után a nyüzsgő kikötőnegyedben, ahol friss tengeri herkentyűket fogyaszthat, délután a Møllebakken felé veszi az irányt. Az estét egy pihentető sétával és helyi specialitások kóstolásával zárja, miközben magába szívja a nyugodt dán hangulatot.",
+        "ro": "Ziua dvs. începe în inima orașului Kalundborg, centrul vechi istoric Højbyen. În cursul dimineții, explorați impresionanta biserică cu cinci turnuri și clădirile medievale. După prânzul în cartierul portuar plin de viață, unde savurați fructe de mare proaspete, vă plimbați spre Møllebakken după-amiaza. Seara se încheie cu o plimbare relaxantă și degustarea specialităților locale, în timp ce absorbiți atmosfera liniștită daneză.",
+        "en": "Your day begins in the heart of Kalundborg, the historic old town of Højbyen. In the morning, you'll explore the impressive five-towered church and medieval buildings. After lunch in the bustling harbour district, enjoying fresh seafood, you'll stroll towards Møllebakken in the afternoon. The evening concludes with a relaxing walk and tasting local specialties while soaking in the calm Danish atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Stegt flæsk med persillesovs",
+            "tip": "Dänemarks Nationalgericht, knuspriger Schweinebauch mit Petersiliensoße."
+          },
+          {
+            "name": "Frischer Hering",
+            "tip": "Direkt aus dem Hafen, gebraten oder eingelegt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stegt flæsk med persillesovs",
+            "tip": "Dánia nemzeti étele, ropogós sertéscsászár petrezselyemmártással."
+          },
+          {
+            "name": "Friss hering",
+            "tip": "Közvetlenül a kikötőből, sütve vagy pácolva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stegt flæsk med persillesovs",
+            "tip": "Mâncarea națională a Danemarcei, burtă de porc crocantă cu sos de pătrunjel."
+          },
+          {
+            "name": "Hering proaspăt",
+            "tip": "Direct din port, prăjit sau marinat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stegt flæsk med persillesovs",
+            "tip": "Denmark's national dish, crispy pork belly with parsley sauce."
+          },
+          {
+            "name": "Fresh Herring",
+            "tip": "Straight from the harbour, either fried or pickled."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Møllebakken bei Sonnenuntergang",
+            "tip": "Perfekter Ort, um den Tag mit Blick auf die Stadt ausklingen zu lassen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spaziergang entlang des Fjords",
+            "tip": "Ruhige Wege außerhalb des Hafens.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Møllebakken naplementekor",
+            "tip": "Tökéletes hely a nap lezárására, kilátással a városra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Séta a fjord mentén",
+            "tip": "Csendes ösvények a kikötőn kívül.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Møllebakken la apus",
+            "tip": "Locul perfect pentru a încheia ziua cu o priveliște asupra orașului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plimbare de-a lungul fiordului",
+            "tip": "Cărări liniștite în afara portului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Møllebakken at sunset",
+            "tip": "Perfect spot to end the day with a view over the city.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Walk along the fjord",
+            "tip": "Quiet paths just outside the harbour.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Keramik",
+            "tip": "In den kleinen Läden der Altstadt finden sich handgefertigte Stücke."
+          },
+          {
+            "name": "Bernsteinschmuck",
+            "tip": "Ein klassisches Souvenir von der dänischen Küste."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerámia",
+            "tip": "Kézzel készített darabok az óváros kis üzleteiben."
+          },
+          {
+            "name": "Borostyán ékszerek",
+            "tip": "Klasszikus szuvenír a dán partokról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică locală",
+            "tip": "Piese lucrate manual pot fi găsite în micile magazine din orașul vechi."
+          },
+          {
+            "name": "Bijuterii din chihlimbar",
+            "tip": "Un suvenir clasic de pe coasta daneză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local ceramics",
+            "tip": "Handmade pieces can be found in the small shops of the old town."
+          },
+          {
+            "name": "Amber jewelry",
+            "tip": "A classic souvenir from the Danish coast."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in Højbyen uneben sein kann.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus, besonders außerhalb der Saison."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel Højbyen macskakövei egyenetlenek lehetnek.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét, különösen a főszezonon kívül."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din Højbyen poate fi denivelat.",
+          "Verificați în avans orele de deschidere ale muzeelor, mai ales în afara sezonului."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in Højbyen can be uneven.",
+          "Check museum opening hours in advance, especially outside the main season."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 16.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Højbyen (Die Altstadt)",
+            "hu": "Højbyen (Óváros)",
+            "ro": "Højbyen (Orașul vechi)",
+            "en": "Højbyen (The Old Town)"
+          },
+          "coords": [
+            11.078,
+            55.681
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie die engen Gassen zu Fuß.",
+            "hu": "Parkolja le a kerékpárt, és fedezze fel gyalog a szűk sikátorokat.",
+            "ro": "Parcați bicicleta și explorați aleile înguste pe jos.",
+            "en": "Park your bike and explore the narrow alleys on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Vor Frue Kirke",
+            "hu": "Vor Frue Kirke",
+            "ro": "Biserica Vor Frue",
+            "en": "Vor Frue Kirke"
+          },
+          "coords": [
+            11.079,
+            55.682
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Kirche ist ein Wahrzeichen und von fast überall in der Stadt aus sichtbar.",
+            "hu": "A templom a város jelképe, és szinte mindenhonnan látható.",
+            "ro": "Biserica este un punct de reper, vizibil din aproape orice parte a orașului.",
+            "en": "The church is a landmark, visible from almost everywhere in the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalundborg Hafen",
+            "hu": "Kalundborg kikötő",
+            "ro": "Portul Kalundborg",
+            "en": "Kalundborg Harbour"
+          },
+          "coords": [
+            11.075,
+            55.677
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:28",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beobachten Sie das Kommen und Gehen der Fähren nach Samsø.",
+            "hu": "Nézze a Samsø felé tartó kompok jövés-menését.",
+            "ro": "Urmăriți feriboturile care vin și pleacă spre Samsø.",
+            "en": "Watch the ferries coming and going to the island of Samsø."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Lerchenborg",
+            "hu": "Lerchenborg kastély",
+            "ro": "Castelul Lerchenborg",
+            "en": "Lerchenborg Castle"
+          },
+          "coords": [
+            11.15,
+            55.65
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:12",
+          "stay_min": 120,
+          "hop_from_prev_min": 44,
+          "hop_from_prev_km": 7.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Planen Sie Zeit für einen Spaziergang durch die wunderschönen Barockgärten ein.",
+            "hu": "Szánjon időt egy sétára a gyönyörű barokk kertekben.",
+            "ro": "Planificați timp pentru o plimbare prin frumoasele grădini baroce.",
+            "en": "Plan for time to walk through the beautiful baroque gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Møllebakken",
+            "hu": "Møllebakken",
+            "ro": "Møllebakken",
+            "en": "Møllebakken"
+          },
+          "coords": [
+            11.085,
+            55.685
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:00",
+          "stay_min": 145,
+          "hop_from_prev_min": 48,
+          "hop_from_prev_km": 7.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um sich nach der Radtour zu entspannen und die Aussicht zu genießen.",
+            "hu": "Tökéletes hely a pihenésre a kerékpártúra után, és a kilátás élvezetére.",
+            "ro": "Locul perfect pentru a vă relaxa după turul cu bicicleta și a vă bucura de priveliște.",
+            "en": "The perfect place to relax after your bike ride and enjoy the view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auf zwei Rädern entdecken Sie Kalundborg und seine Umgebung. Der Vormittag ist dem historischen Zentrum gewidmet, bevor Sie zum Hafen radeln. Das Highlight ist die Tour zum prächtigen Schloss Lerchenborg, wo Sie ein ausgedehntes Mittagessen und einen Spaziergang durch die Gärten genießen. Am Nachmittag kehren Sie in die Stadt zurück und beenden den Tag entspannt auf dem Møllebakken mit einem weiten Blick über die Landschaft.",
+        "hu": "Két keréken fedezi fel Kalundborgot és környékét. A délelőtt a történelmi központé, mielőtt a kikötőbe tekeregne. A nap fénypontja a csodálatos Lerchenborg kastélyhoz vezető túra, ahol egy kiadós ebédet és egy kerti sétát élvezhet. Délután visszatér a városba, és a napot a Møllebakkenen pihenve, a tájra nyíló széles kilátással zárja.",
+        "ro": "Descoperiți Kalundborg și împrejurimile sale pe două roți. Dimineața este dedicată centrului istoric înainte de a pedala spre port. Punctul culminant este turul la magnificul Castel Lerchenborg, unde vă bucurați de un prânz prelungit și o plimbare prin grădini. După-amiaza vă întoarceți în oraș și încheiați ziua relaxându-vă pe Møllebakken, cu o priveliște vastă asupra peisajului.",
+        "en": "Discover Kalundborg and its surroundings on two wheels. The morning is dedicated to the historic center before you cycle to the harbour. The highlight is the tour to the magnificent Lerchenborg Castle, where you can enjoy an extended lunch and a walk through the gardens. In the afternoon, you'll return to the city and end the day relaxing on Møllebakken with a wide view over the landscape."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Das klassische dänische offene Sandwich, perfekt für ein schnelles Mittagessen."
+          },
+          {
+            "name": "Wienerbrød",
+            "tip": "Ein Muss zum Kaffee am Nachmittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smørrebrød",
+            "tip": "A klasszikus dán szendvics, tökéletes egy gyors ebédhez."
+          },
+          {
+            "name": "Wienerbrød",
+            "tip": "Kötelező a délutáni kávé mellé."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Sandvișul deschis danez clasic, perfect pentru un prânz rapid."
+          },
+          {
+            "name": "Wienerbrød",
+            "tip": "O necesitate la cafeaua de după-amiază."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smørrebrød",
+            "tip": "The classic Danish open-faced sandwich, perfect for a quick lunch."
+          },
+          {
+            "name": "Wienerbrød",
+            "tip": "A must-have with your afternoon coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Die Gärten von Schloss Lerchenborg",
+            "tip": "Eine Oase der Ruhe und Schönheit.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Küstenradweg bei Røsnæs",
+            "tip": "Für eine längere, ruhige Tour mit Meerblick.",
+            "emoji": "🚴"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Lerchenborg kastély kertjei",
+            "tip": "A béke és a szépség oázisa.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parti kerékpárút Røsnæs közelében",
+            "tip": "Egy hosszabb, csendes túrához tengeri kilátással.",
+            "emoji": "🚴"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Castelului Lerchenborg",
+            "tip": "O oază de pace și frumusețe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pista de biciclete de coastă lângă Røsnæs",
+            "tip": "Pentru un tur mai lung și liniștit, cu vedere la mare.",
+            "emoji": "🚴"
+          }
+        ],
+        "en": [
+          {
+            "name": "The gardens of Lerchenborg Castle",
+            "tip": "An oasis of peace and beauty.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Coastal bike path near Røsnæs",
+            "tip": "For a longer, quiet tour with sea views.",
+            "emoji": "🚴"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden rund um Kalundborg",
+            "tip": "Kaufen Sie lokale Produkte wie Honig, Obst und Gemüse direkt vom Erzeuger."
+          },
+          {
+            "name": "Fahrradzubehör",
+            "tip": "In der Stadt gibt es mehrere Geschäfte für Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Farmboltok Kalundborg környékén",
+            "tip": "Vásároljon helyi termékeket, mint a méz, gyümölcs és zöldség, közvetlenül a termelőtől."
+          },
+          {
+            "name": "Kerékpár-kiegészítők",
+            "tip": "A városban több kerékpáros bolt is található."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele fermelor din jurul Kalundborg",
+            "tip": "Cumpărați produse locale precum miere, fructe și legume direct de la producători."
+          },
+          {
+            "name": "Accesorii pentru biciclete",
+            "tip": "Există mai multe magazine în oraș pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops around Kalundborg",
+            "tip": "Buy local products like honey, fruit, and vegetables directly from the producer."
+          },
+          {
+            "name": "Cycling accessories",
+            "tip": "There are several shops in town catering to cyclists."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad mit guter Gangschaltung für die hügelige Landschaft.",
+          "Nehmen Sie ausreichend Wasser und Snacks für die Tour zum Schloss mit."
+        ],
+        "hu": [
+          "Béreljen jó sebességváltóval ellátott kerékpárt a dombos tájhoz.",
+          "Vigyen magával elegendő vizet és harapnivalót a kastélytúrára."
+        ],
+        "ro": [
+          "Închiriați o bicicletă cu viteze bune pentru peisajul deluros.",
+          "Luați suficientă apă și gustări pentru turul la castel."
+        ],
+        "en": [
+          "Rent a bike with good gears for the hilly landscape.",
+          "Take enough water and snacks for the tour to the castle."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 54.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Højbyen",
+            "hu": "Parkoló Højbyen",
+            "ro": "Parcare Højbyen",
+            "en": "Højbyen Parking"
+          },
+          "coords": [
+            11.078,
+            55.681
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier, um das historische Zentrum zu erkunden.",
+            "hu": "Parkoljon itt a történelmi központ felfedezéséhez.",
+            "ro": "Parcați aici pentru a explora centrul istoric.",
+            "en": "Park here to explore the historic center."
+          }
+        },
+        {
+          "name": {
+            "de": "Vor Frue Kirke & Altstadt",
+            "hu": "Vor Frue Kirke és Óváros",
+            "ro": "Biserica Vor Frue & Centrul Vechi",
+            "en": "Vor Frue Kirke & Old Town"
+          },
+          "coords": [
+            11.079,
+            55.682
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie von der Kirche durch die alten Gassen zum Museum.",
+            "hu": "Sétáljon a templomtól a régi sikátorokon át a múzeumig.",
+            "ro": "Plimbați-vă de la biserică pe străduțele vechi până la muzeu.",
+            "en": "Stroll from the church through the old alleys to the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalundborg Museum",
+            "hu": "Kalundborg Múzeum",
+            "ro": "Muzeul Kalundborg",
+            "en": "Kalundborg Museum"
+          },
+          "coords": [
+            11.081,
+            55.679
+          ],
+          "category": "museums",
+          "arrive_at": "10:38",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz entfernt.",
+            "hu": "Rövid séta a főtértől.",
+            "ro": "La o scurtă plimbare de piața principală.",
+            "en": "A short walk from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Lerchenborg",
+            "hu": "Lerchenborg kastély",
+            "ro": "Castelul Lerchenborg",
+            "en": "Lerchenborg Castle"
+          },
+          "coords": [
+            11.15,
+            55.65
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:00",
+          "stay_min": 130,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 7.6,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein Juwel der Barockarchitektur. Nehmen Sie sich Zeit für die Gärten.",
+            "hu": "A barokk építészet gyöngyszeme. Szánjon időt a kertekre.",
+            "ro": "O bijuterie a arhitecturii baroce. Luați-vă timp pentru grădini.",
+            "en": "A jewel of baroque architecture. Take time for the gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Røsnæs Fyr",
+            "hu": "Røsnæs világítótorony",
+            "ro": "Farul Røsnæs",
+            "en": "Røsnæs Lighthouse"
+          },
+          "coords": [
+            10.92,
+            55.74
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:58",
+          "stay_min": 90,
+          "hop_from_prev_min": 48,
+          "hop_from_prev_km": 26.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Die Fahrt zur Spitze der Halbinsel wird mit atemberaubenden Aussichten belohnt.",
+            "hu": "A félsziget csúcsára vezető út lélegzetelállító kilátással jutalmaz.",
+            "ro": "Drumul spre vârful peninsulei este răsplătit cu priveliști uluitoare.",
+            "en": "The drive to the tip of the peninsula is rewarded with breathtaking views."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen im Hafen von Kalundborg",
+            "hu": "Vacsora a kalundborgi kikötőben",
+            "ro": "Cină în portul Kalundborg",
+            "en": "Dinner at Kalundborg Harbour"
+          },
+          "coords": [
+            11.075,
+            55.677
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 42,
+          "hop_from_prev_km": 20.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Kehren Sie für ein entspanntes Abendessen mit Blick aufs Wasser in die Stadt zurück.",
+            "hu": "Térjen vissza a városba egy pihentető, vízparti vacsorára.",
+            "ro": "Întoarceți-vă în oraș pentru o cină relaxantă cu vedere la apă.",
+            "en": "Return to the city for a relaxing dinner with a view of the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto haben Sie die Freiheit, Kalundborgs Juwelen zu entdecken. Sie beginnen im historischen Zentrum, bevor Sie zum eleganten Schloss Lerchenborg fahren. Der Höhepunkt des Tages ist die Fahrt zum Leuchtturm von Røsnæs, dem westlichsten Punkt Seelands, wo Sie eine spektakuläre Aussicht genießen. Der Tag endet mit einem köstlichen Abendessen am Hafen von Kalundborg, während Sie die maritimen Eindrücke des Tages Revue passieren lassen.",
+        "hu": "Az autó szabadságot ad Kalundborg kincseinek felfedezéséhez. A történelmi központban kezd, majd az elegáns Lerchenborg kastélyhoz hajt. A nap fénypontja az út a Røsnæs világítótoronyhoz, Sjælland legnyugatibb pontjához, ahol látványos kilátásban gyönyörködhet. A napot egy finom vacsorával zárja a kalundborgi kikötőben, miközben felidézi a nap tengeri élményeit.",
+        "ro": "Cu mașina, aveți libertatea de a descoperi bijuteriile din Kalundborg. Începeți în centrul istoric înainte de a conduce la elegantul Castel Lerchenborg. Punctul culminant al zilei este drumul spre Farul Røsnæs, cel mai vestic punct al Zeelandei, unde vă bucurați de o priveliște spectaculoasă. Ziua se încheie cu o cină delicioasă în portul Kalundborg, rememorând impresiile maritime ale zilei.",
+        "en": "With a car, you have the freedom to discover Kalundborg's gems. You'll start in the historic center before driving to the elegant Lerchenborg Castle. The highlight of the day is the drive to Røsnæs Lighthouse, Zealand's westernmost point, where you'll enjoy spectacular views. The day concludes with a delicious dinner at Kalundborg Harbour, reflecting on the day's maritime impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fiskefrikadeller",
+            "tip": "Dänische Fischfrikadellen, oft mit Remoulade serviert."
+          },
+          {
+            "name": "Rødgrød med fløde",
+            "tip": "Ein klassisches dänisches Dessert aus roten Beeren mit Sahne."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fiskefrikadeller",
+            "tip": "Dán halfasírt, gyakran remuláddal tálalva."
+          },
+          {
+            "name": "Rødgrød med fløde",
+            "tip": "Klasszikus dán desszert piros bogyós gyümölcsökből, tejszínnel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fiskefrikadeller",
+            "tip": "Chiftele de pește daneze, adesea servite cu sos remoulade."
+          },
+          {
+            "name": "Rødgrød med fløde",
+            "tip": "Un desert danez clasic din fructe de pădure roșii cu smântână."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fiskefrikadeller",
+            "tip": "Danish fish cakes, often served with remoulade sauce."
+          },
+          {
+            "name": "Rødgrød med fløde",
+            "tip": "A classic Danish red berry dessert with cream."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Die Spitze von Røsnæs",
+            "tip": "Wind, Wellen und eine endlose Aussicht über das Kattegat.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Park von Schloss Lerchenborg",
+            "tip": "Spazieren Sie durch die alten Alleen.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Røsnæs csúcsa",
+            "tip": "Szél, hullámok és végtelen kilátás a Kattegatra.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "A Lerchenborg kastély parkja",
+            "tip": "Sétáljon végig a régi fasorokon.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Røsnæs",
+            "tip": "Vânt, valuri și o priveliște nesfârșită asupra Kattegat.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Parcul Castelului Lerchenborg",
+            "tip": "Plimbați-vă pe vechile alei.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "The tip of Røsnæs",
+            "tip": "Wind, waves, and an endless view over the Kattegat.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Lerchenborg Castle Park",
+            "tip": "Stroll through the old avenues.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kunsthandwerk auf Røsnæs",
+            "tip": "Entlang der Straße zum Leuchtturm gibt es oft kleine Galerien und Werkstätten."
+          },
+          {
+            "name": "Delikatessen aus dem Schlossladen",
+            "tip": "Im Lerchenborg gibt es oft lokale Spezialitäten zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves termékek Røsnæs-en",
+            "tip": "A világítótoronyhoz vezető út mentén gyakran találhatók kis galériák és műhelyek."
+          },
+          {
+            "name": "Finomságok a kastélyboltból",
+            "tip": "Lerchenborgban gyakran lehet helyi specialitásokat vásárolni."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat pe Røsnæs",
+            "tip": "Există adesea mici galerii și ateliere de-a lungul drumului spre far."
+          },
+          {
+            "name": "Delicatese din magazinul castelului",
+            "tip": "Specialități locale sunt adesea disponibile pentru cumpărare la Lerchenborg."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crafts on Røsnæs",
+            "tip": "There are often small galleries and workshops along the road to the lighthouse."
+          },
+          {
+            "name": "Delicacies from the castle shop",
+            "tip": "Local specialties are often available for purchase at Lerchenborg."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Öffnungszeiten des Leuchtturms, da der Aufstieg saisonabhängig ist.",
+          "Parken in der Altstadt ist begrenzt; nutzen Sie die ausgewiesenen Parkplätze."
+        ],
+        "hu": [
+          "Ellenőrizze a világítótorony nyitvatartási idejét, mivel a feljutás szezonális lehet.",
+          "Az óvárosban korlátozott a parkolás; használja a kijelölt parkolókat."
+        ],
+        "ro": [
+          "Verificați orele de deschidere ale farului, deoarece urcarea poate fi sezonieră.",
+          "Parcarea în orașul vechi este limitată; folosiți parcările desemnate."
+        ],
+        "en": [
+          "Check the lighthouse opening hours as climbing it can be seasonal.",
+          "Parking in the old town is limited; use the designated parking areas."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 6.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof Kalundborg",
+            "hu": "Érkezés a kalundborgi állomásra",
+            "ro": "Sosire la Gara Kalundborg",
+            "en": "Arrival at Kalundborg Station"
+          },
+          "coords": [
+            11.083,
+            55.678
+          ],
+          "category": "transit-hub",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für die lokalen Busse.",
+            "hu": "Vásároljon napijegyet a helyi buszokra.",
+            "ro": "Cumpărați un bilet de o zi pentru autobuzele locale.",
+            "en": "Buy a day ticket for the local buses."
+          }
+        },
+        {
+          "name": {
+            "de": "Højbyen & Vor Frue Kirke",
+            "hu": "Højbyen és Vor Frue Kirke",
+            "ro": "Højbyen & Biserica Vor Frue",
+            "en": "Højbyen & Vor Frue Kirke"
+          },
+          "coords": [
+            11.078,
+            55.681
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:28",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Zentrum zu Fuß, alles ist nah beieinander.",
+            "hu": "Fedezze fel gyalog a történelmi központot, minden közel van.",
+            "ro": "Explorați centrul istoric pe jos, totul este aproape.",
+            "en": "Explore the historic center on foot, everything is close together."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalundborg Museum",
+            "hu": "Kalundborg Múzeum",
+            "ro": "Muzeul Kalundborg",
+            "en": "Kalundborg Museum"
+          },
+          "coords": [
+            11.081,
+            55.679
+          ],
+          "category": "museums",
+          "arrive_at": "11:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Hauptplatz aus leicht zu Fuß erreichbar.",
+            "hu": "Könnyen megközelíthető gyalog a főtérről.",
+            "ro": "Ușor de ajuns pe jos din piața principală.",
+            "en": "Easily walkable from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalundborg Hafen",
+            "hu": "Kalundborg kikötő",
+            "ro": "Portul Kalundborg",
+            "en": "Kalundborg Harbour"
+          },
+          "coords": [
+            11.075,
+            55.677
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Zentrum zum Hafen für ein Mittagessen am Wasser.",
+            "hu": "Menjen busszal a központból a kikötőbe egy vízparti ebédre.",
+            "ro": "Luați un autobuz din centru spre port pentru un prânz pe malul apei.",
+            "en": "Take a bus from the center to the harbour for a waterside lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Møllebakken",
+            "hu": "Møllebakken",
+            "ro": "Møllebakken",
+            "en": "Møllebakken"
+          },
+          "coords": [
+            11.085,
+            55.685
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hafen entfernt, um den Tag ausklingen zu lassen.",
+            "hu": "Rövid séta a kikötőtől a nap lezárásaként.",
+            "ro": "O scurtă plimbare de la port pentru a încheia ziua.",
+            "en": "A short walk up from the harbour to end your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln erkunden Sie Kalundborg entspannt. Sie starten am Bahnhof und fahren ins historische Herz der Stadt. Nach der Erkundung von Højbyen zu Fuß bringt Sie ein Bus zum Hafen, wo Sie zu Mittag essen. Der Nachmittag ist einem Spaziergang zum Møllebakken gewidmet, von wo aus Sie eine wunderbare Aussicht haben. Am Abend fahren Sie zurück zum Bahnhof und blicken auf einen Tag voller Eindrücke zurück.",
+        "hu": "Tömegközlekedéssel kényelmesen felfedezheti Kalundborgot. A pályaudvarról indulva a város történelmi szívébe utazik. Miután gyalog felfedezte Højbyent, busz viszi a kikötőbe, ahol megebédel. A délutánt a Møllebakkenre tett séta tölti ki, ahonnan csodálatos a kilátás. Este visszautazik a pályaudvarra, egy élményekkel teli nap után.",
+        "ro": "Explorați Kalundborg într-un mod relaxat folosind transportul public. Porniți de la gară și călătoriți în inima istorică a orașului. După ce explorați Højbyen pe jos, un autobuz vă duce în port pentru prânz. După-amiaza este dedicată unei plimbări spre Møllebakken, de unde aveți o priveliște minunată. Seara vă întoarceți la gară, reflectând la o zi plină de impresii.",
+        "en": "Explore Kalundborg in a relaxed way using public transport. You'll start at the train station and travel to the historic heart of the city. After exploring Højbyen on foot, a bus takes you to the harbour for lunch. The afternoon is dedicated to a walk up to Møllebakken, where you have a wonderful view. In the evening, you'll travel back to the station, reflecting on a day full of impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pølser",
+            "tip": "Ein dänischer Hotdog von einem lokalen Pølsevogn (Wurstwagen)."
+          },
+          {
+            "name": "Fiskefilet med pommes frites",
+            "tip": "Ein klassisches, unkompliziertes Gericht, das man am Hafen findet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pølser",
+            "tip": "Dán hot dog egy helyi pølsevogn-tól (virsliárus kocsi)."
+          },
+          {
+            "name": "Fiskefilet med pommes frites",
+            "tip": "Klasszikus, egyszerű étel, amit a kikötőben talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pølser",
+            "tip": "Un hotdog danez de la un pølsevogn local (cărucior de cârnați)."
+          },
+          {
+            "name": "Fiskefilet med pommes frites",
+            "tip": "Un fel de mâncare clasic, simplu, găsit în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pølser",
+            "tip": "A Danish hot dog from a local pølsevogn (sausage wagon)."
+          },
+          {
+            "name": "Fiskefilet med pommes frites",
+            "tip": "A classic, simple fish and chips dish found at the harbour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof an der Vor Frue Kirke",
+            "tip": "Ein ruhiger, historischer Ort im Zentrum der Stadt.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Bank am Fjord",
+            "tip": "Finden Sie eine Bank etwas abseits des Hafentrubels.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Vor Frue Kirke melletti temető",
+            "tip": "Csendes, történelmi hely a város központjában.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Pad a fjordnál",
+            "tip": "Keressen egy padot a kikötői nyüzsgéstől távolabb.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul de la Biserica Vor Frue",
+            "tip": "Un loc liniștit, istoric, în centrul orașului.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "O bancă lângă fiord",
+            "tip": "Găsiți o bancă departe de agitația portului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cemetery at Vor Frue Kirke",
+            "tip": "A quiet, historic spot in the center of the city.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "A bench by the fjord",
+            "tip": "Find a bench away from the hustle and bustle of the harbour.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Supermarkt für dänische Süßigkeiten",
+            "tip": "Decken Sie sich mit Lakritz und anderen lokalen Leckereien ein."
+          },
+          {
+            "name": "Buchhandlung im Zentrum",
+            "tip": "Finden Sie ein Buch über die dänische Geschichte oder ein schönes Postkarten-Set."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szupermarket dán édességekért",
+            "tip": "Töltse fel készleteit medvecukorral és más helyi finomságokkal."
+          },
+          {
+            "name": "Könyvesbolt a központban",
+            "tip": "Keressen egy könyvet a dán történelemről vagy egy szép képeslap-készletet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarket pentru dulciuri daneze",
+            "tip": "Aprovizionați-vă cu lemn dulce și alte delicatese locale."
+          },
+          {
+            "name": "Librărie în centru",
+            "tip": "Găsiți o carte despre istoria daneză sau un set frumos de cărți poștale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Supermarket for Danish candy",
+            "tip": "Stock up on licorice and other local treats."
+          },
+          {
+            "name": "Bookshop in the center",
+            "tip": "Find a book on Danish history or a nice set of postcards."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die 'Rejseplanen'-App herunter, um Bus- und Zugfahrpläne in Echtzeit zu sehen.",
+          "Beachten Sie, dass Busse auf dem Land seltener fahren, planen Sie also voraus."
+        ],
+        "hu": [
+          "Töltse le a 'Rejseplanen' alkalmazást a valós idejű busz- és vonatmenetrendekért.",
+          "Vegye figyelembe, hogy a buszok vidéken ritkábban közlekednek, ezért tervezzen előre."
+        ],
+        "ro": [
+          "Descărcați aplicația 'Rejseplanen' pentru orarele autobuzelor și trenurilor în timp real.",
+          "Rețineți că autobuzele din mediul rural circulă mai rar, așa că planificați din timp."
+        ],
+        "en": [
+          "Download the 'Rejseplanen' app for real-time bus and train schedules.",
+          "Be aware that buses in the countryside may be infrequent, so plan ahead."
+        ]
+      }
+    }
+  }
+}

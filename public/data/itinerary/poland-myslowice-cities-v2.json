@@ -1,0 +1,1278 @@
+{
+  "city_id": "poland-myslowice-cities-v2",
+  "anchor": {
+    "name": "Myslowitz",
+    "coords": [
+      19.136,
+      50.2415
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz (Rynek)",
+            "hu": "Főtér (Rynek)",
+            "ro": "Piața Centrală (Rynek)",
+            "en": "Market Square (Rynek)"
+          },
+          "coords": [
+            19.138,
+            50.242
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Beginnen Sie Ihren Tag mit einem Kaffee in einem der Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában!",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
+            "en": "Start your day with a coffee at one of the square's cafés."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Mysłowice",
+            "hu": "Mysłowicei Városháza",
+            "ro": "Primăria din Mysłowice",
+            "en": "Mysłowice Town Hall"
+          },
+          "coords": [
+            19.1375,
+            50.2422
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Achten Sie auf die architektonischen Details des historischen Gebäudes.",
+            "hu": "Figyelje meg a történelmi épület építészeti részleteit!",
+            "ro": "Observați detaliile arhitecturale ale clădirii istorice.",
+            "en": "Pay attention to the architectural details of the historic building."
+          }
+        },
+        {
+          "name": {
+            "de": "Herz-Jesu-Kirche",
+            "hu": "Jézus Szíve-templom",
+            "ro": "Biserica Preasfânta Inimă a lui Iisus",
+            "en": "Sacred Heart Church"
+          },
+          "coords": [
+            19.141,
+            50.24
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Besuchen Sie das Innere, um die beeindruckenden Buntglasfenster zu sehen.",
+            "hu": "Látogasson be, hogy megcsodálja a lenyűgöző ólomüveg ablakokat.",
+            "ro": "Intrați înăuntru pentru a vedea vitraliile impresionante.",
+            "en": "Visit the interior to see the impressive stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Heimsuchung",
+            "hu": "Sarlós Boldogasszony-templom",
+            "ro": "Biserica Vizita Fecioarei Maria",
+            "en": "Church of the Visitation of the Blessed Virgin Mary"
+          },
+          "coords": [
+            19.135,
+            50.243
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_4lang": {
+            "de": "Dies ist eine der ältesten Kirchen der Stadt, spüren Sie die Geschichte.",
+            "hu": "Ez a város egyik legrégebbi temploma, érezze a történelem szellemét.",
+            "ro": "Aceasta este una dintre cele mai vechi biserici din oraș, simțiți istoria.",
+            "en": "This is one of the oldest churches in the city, feel the history."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Mysłowice",
+            "hu": "Mysłowicei Városi Múzeum",
+            "ro": "Muzeul Orașului Mysłowice",
+            "en": "Mysłowice City Museum"
+          },
+          "coords": [
+            19.132,
+            50.241
+          ],
+          "category": "museums",
+          "arrive_at": "12:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Planen Sie nach dem Museumsbesuch eine Mittagspause ein.",
+            "hu": "A múzeumlátogatás után tervezzen be egy ebédszünetet.",
+            "ro": "Planificați o pauză de prânz după vizitarea muzeului.",
+            "en": "Plan for a lunch break after visiting the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Park Zamkowy",
+            "hu": "Kastélypark (Park Zamkowy)",
+            "ro": "Parcul Castelului (Park Zamkowy)",
+            "en": "Castle Park (Park Zamkowy)"
+          },
+          "coords": [
+            19.13,
+            50.238
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_4lang": {
+            "de": "Perfekt für einen entspannten Spaziergang am Nachmittag.",
+            "hu": "Tökéletes hely egy pihentető délutáni sétához.",
+            "ro": "Perfect pentru o plimbare relaxantă de după-amiază.",
+            "en": "Perfect for a relaxing afternoon stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Dreikaisereck",
+            "hu": "Három Császár Sarok",
+            "ro": "Colțul celor Trei Împărați",
+            "en": "Three Emperors' Corner"
+          },
+          "coords": [
+            19.175,
+            50.225
+          ],
+          "category": "natural features",
+          "arrive_at": "16:33",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Ein historischer Ort, an dem drei Reiche aufeinandertrafen. Großartig für Fotos.",
+            "hu": "Egy történelmi hely, ahol három birodalom találkozott. Nagyszerű fotóhelyszín.",
+            "ro": "Un loc istoric unde se întâlneau trei imperii. Excelent pentru fotografii.",
+            "en": "A historic spot where three empires met. Great for photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Mysłowice beginnt am lebhaften Marktplatz und führt Sie durch das historische Herz der Stadt. Sie erkunden architektonische Juwelen und heilige Stätten. Am Nachmittag tauchen Sie in die lokale Geschichte im Stadtmuseum ein, bevor Sie im Park Zamkowy entspannen. Der Tag endet am geschichtsträchtigen Dreikaisereck, einem Ort von großer europäischer Bedeutung.",
+        "hu": "A mysłowice-i nap a nyüzsgő Főtéren kezdődik, és a város történelmi szívén vezet keresztül. Építészeti gyöngyszemeket és szent helyeket fedez fel. Délután elmerül a helyi történelemben a Városi Múzeumban, majd a Kastélyparkban pihen. A nap a történelmi Három Császár Saroknál ér véget, amely nagy európai jelentőséggel bír.",
+        "ro": "Ziua dvs. în Mysłowice începe în Piața Centrală plină de viață și vă poartă prin inima istorică a orașului. Explorați bijuterii arhitecturale și locuri sacre. După-amiaza, vă scufundați în istoria locală la Muzeul Orașului înainte de a vă relaxa în Parcul Castelului. Ziua se încheie la istoricul Colț al celor Trei Împărați, un loc de mare importanță europeană.",
+        "en": "Your day in Mysłowice begins at the lively Market Square and takes you through the historical heart of the city. You'll explore architectural gems and sacred sites. In the afternoon, immerse yourself in local history at the City Museum before relaxing in Castle Park. The day concludes at the historic Three Emperors' Corner, a place of great European significance."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pierogi Śląskie",
+            "tip": "Probieren Sie die schlesische Variante der berühmten Teigtaschen, oft mit Fleisch oder Kraut gefüllt."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Eine traditionelle saure Roggenmehlsuppe, perfekt für ein herzhaftes Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sziléziai pierogi",
+            "tip": "Kóstolja meg a híres derelye sziléziai változatát, gyakran hússal vagy káposztával töltve."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Hagyományos savanyú rozsleves, tökéletes egy kiadós ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierogi sileziene",
+            "tip": "Încercați versiunea sileziană a faimoaselor găluște, adesea umplute cu carne sau varză."
+          },
+          {
+            "name": "Żurek",
+            "tip": "O supă acră tradițională de secară, perfectă pentru un prânz consistent."
+          }
+        ],
+        "en": [
+          {
+            "name": "Silesian Pierogi",
+            "tip": "Try the Silesian version of the famous dumplings, often filled with meat or cabbage."
+          },
+          {
+            "name": "Żurek",
+            "tip": "A traditional sour rye soup, perfect for a hearty lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park Zamkowy",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die Natur mitten in der Stadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer der Przemsza",
+            "tip": "Ein Spaziergang entlang des Flusses kann sehr beruhigend sein.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kastélypark",
+            "tip": "Keressen egy csendes padot, és élvezze a természetet a város közepén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Przemsza folyó partja",
+            "tip": "Egy séta a folyó mentén nagyon megnyugtató lehet.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de natură în mijlocul orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malul râului Przemsza",
+            "tip": "O plimbare de-a lungul râului poate fi foarte liniștitoare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Park",
+            "tip": "Find a quiet bench and enjoy nature in the middle of the city.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the Przemsza River",
+            "tip": "A walk along the river can be very calming.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerksprodukte",
+            "tip": "Suchen Sie in den kleinen Läden rund um den Marktplatz nach schlesischen Souvenirs."
+          },
+          {
+            "name": "Frischer Markt",
+            "tip": "Wenn Sie an einem Markttag dort sind, kaufen Sie lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen sziléziai szuveníreket a Főtér körüli kis üzletekben."
+          },
+          {
+            "name": "Helyi piac",
+            "tip": "Ha piacnapon jár ott, vásároljon helyi termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse de artizanat local",
+            "tip": "Căutați suveniruri sileziene în micile magazine din jurul Pieței Centrale."
+          },
+          {
+            "name": "Piața locală",
+            "tip": "Dacă sunteți acolo într-o zi de piață, cumpărați produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Crafts",
+            "tip": "Look for Silesian souvenirs in the small shops around the Market Square."
+          },
+          {
+            "name": "Fresh Market",
+            "tip": "If you're there on a market day, buy some local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Halten Sie eine Flasche Wasser bereit, besonders im Sommer.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "Készítsen be egy üveg vizet, különösen nyáron.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Aveți la îndemână o sticlă cu apă, mai ales vara.",
+          "Verificați în avans orele de deschidere ale muzeelor."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Keep a bottle of water handy, especially in the summer.",
+          "Check the opening hours of the museums in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Dreikaisereck",
+            "hu": "Három Császár Sarok",
+            "ro": "Colțul celor Trei Împărați",
+            "en": "Three Emperors' Corner"
+          },
+          "coords": [
+            19.175,
+            50.225
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Ein guter Startpunkt, um die historische Bedeutung der Region zu verstehen.",
+            "hu": "Jó kiindulópont a régió történelmi jelentőségének megértéséhez.",
+            "ro": "Un bun punct de plecare pentru a înțelege importanța istorică a regiunii.",
+            "en": "A great starting point to understand the historical significance of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Park Zamkowy",
+            "hu": "Kastélypark (Park Zamkowy)",
+            "ro": "Parcul Castelului (Park Zamkowy)",
+            "en": "Castle Park (Park Zamkowy)"
+          },
+          "coords": [
+            19.13,
+            50.238
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.3,
+          "tip_4lang": {
+            "de": "Machen Sie eine kurze Pause und genießen Sie die grüne Oase.",
+            "hu": "Tartson egy rövid szünetet és élvezze a zöld oázist.",
+            "ro": "Faceți o scurtă pauză și bucurați-vă de oaza de verdeață.",
+            "en": "Take a short break and enjoy the green oasis."
+          }
+        },
+        {
+          "name": {
+            "de": "Marktplatz (Rynek)",
+            "hu": "Főtér (Rynek)",
+            "ro": "Piața Centrală (Rynek)",
+            "en": "Market Square (Rynek)"
+          },
+          "coords": [
+            19.138,
+            50.242
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_4lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie den zentralen Platz.",
+            "hu": "Tegye le a biciklit és fedezze fel a központi teret.",
+            "ro": "Parcați bicicleta și explorați piața centrală.",
+            "en": "Park your bike and explore the central square."
+          }
+        },
+        {
+          "name": {
+            "de": "Herz-Jesu-Kirche",
+            "hu": "Jézus Szíve-templom",
+            "ro": "Biserica Preasfânta Inimă a lui Iisus",
+            "en": "Sacred Heart Church"
+          },
+          "coords": [
+            19.141,
+            50.24
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Ein kurzer Halt, um die neugotische Architektur zu bewundern.",
+            "hu": "Egy rövid megálló a neogótikus építészet megcsodálására.",
+            "ro": "O scurtă oprire pentru a admira arhitectura neogotică.",
+            "en": "A quick stop to admire the neo-Gothic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentrales Feuerwehrmuseum",
+            "hu": "Központi Tűzoltómúzeum",
+            "ro": "Muzeul Central al Pompierilor",
+            "en": "Central Museum of Firefighting"
+          },
+          "coords": [
+            19.145,
+            50.255
+          ],
+          "category": "museums",
+          "arrive_at": "13:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_4lang": {
+            "de": "Ein faszinierendes Museum, nicht nur für Technikbegeisterte. Mittagessen danach.",
+            "hu": "Lenyűgöző múzeum, nem csak a technika rajongóinak. Utána ebédeljen.",
+            "ro": "Un muzeu fascinant, nu numai pentru pasionații de tehnologie. Luați prânzul după.",
+            "en": "A fascinating museum, not just for technology enthusiasts. Have lunch afterwards."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Mysłowice",
+            "hu": "Mysłowicei Városi Múzeum",
+            "ro": "Muzeul Orașului Mysłowice",
+            "en": "Mysłowice City Museum"
+          },
+          "coords": [
+            19.132,
+            50.241
+          ],
+          "category": "museums",
+          "arrive_at": "15:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_4lang": {
+            "de": "Ergänzen Sie Ihr Wissen über die Stadtgeschichte.",
+            "hu": "Egészítse ki tudását a város történelméről.",
+            "ro": "Completați-vă cunoștințele despre istoria orașului.",
+            "en": "Complement your knowledge of the city's history."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Heimsuchung",
+            "hu": "Sarlós Boldogasszony-templom",
+            "ro": "Biserica Vizita Fecioarei Maria",
+            "en": "Church of the Visitation"
+          },
+          "coords": [
+            19.135,
+            50.243
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:16",
+          "stay_min": 35,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Ein schöner, ruhiger Abschluss Ihrer Radtour.",
+            "hu": "Egy szép, csendes befejezése a kerékpártúrának.",
+            "ro": "Un final frumos și liniștit pentru turul cu bicicleta.",
+            "en": "A beautiful, quiet end to your bike tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet am historischen Dreikaisereck und führt Sie durch den grünen Park Zamkowy ins Stadtzentrum. Am Marktplatz steigen Sie ab, um die zentrale Kirche zu besichtigen. Am Nachmittag erwarten Sie zwei spannende Museen, die Ihnen die technische und städtische Geschichte näherbringen, bevor Sie den Tag bei einer der ältesten Kirchen der Stadt ausklingen lassen.",
+        "hu": "A kerékpártúra a történelmi Három Császár Saroktól indul, és a zöld Kastélyparkon keresztül vezet a városközpontba. A Főtéren leszáll, hogy megnézze a központi templomot. Délután két izgalmas múzeum várja, amelyek bemutatják a technikai és városi történelmet, mielőtt a napot a város egyik legrégebbi templománál fejezi be.",
+        "ro": "Turul cu bicicleta începe de la istoricul Colț al celor Trei Împărați și vă duce prin Parcul verde al Castelului până în centrul orașului. În Piața Centrală coborâți pentru a vizita biserica centrală. După-amiaza vă așteaptă două muzee interesante care vă prezintă istoria tehnică și urbană, înainte de a încheia ziua la una dintre cele mai vechi biserici din oraș.",
+        "en": "Your bike tour starts at the historic Three Emperors' Corner and takes you through the green Castle Park to the city center. At the Market Square, you'll dismount to visit the central church. In the afternoon, two exciting museums await, introducing you to the technical and urban history, before you end the day at one of the city's oldest churches."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Barszcz",
+            "tip": "Eine Rote-Bete-Suppe, die leicht und erfrischend ist, ideal für Radfahrer."
+          },
+          {
+            "name": "Kiełbasa z grilla",
+            "tip": "Eine gegrillte polnische Wurst, schnell und lecker."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Barszcz (céklaleves)",
+            "tip": "Könnyű és frissítő céklaleves, ideális kerékpárosoknak."
+          },
+          {
+            "name": "Grillezett kiełbasa",
+            "tip": "Grillezett lengyel kolbász, gyors és finom."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Borș de sfeclă roșie",
+            "tip": "O supă de sfeclă roșie ușoară și răcoritoare, ideală pentru bicicliști."
+          },
+          {
+            "name": "Kiełbasa la grătar",
+            "tip": "Un cârnat polonez la grătar, rapid și delicios."
+          }
+        ],
+        "en": [
+          {
+            "name": "Barszcz (Beetroot soup)",
+            "tip": "A light and refreshing beetroot soup, ideal for cyclists."
+          },
+          {
+            "name": "Grilled Kiełbasa",
+            "tip": "A grilled Polish sausage, quick and delicious."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg entlang der Przemsza",
+            "tip": "Folgen Sie dem Fluss für eine ruhige Fahrt abseits des Stadtverkehrs.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dreikaisereck am Morgen",
+            "tip": "Erleben Sie die Stille dieses historischen Ortes, bevor die meisten Besucher eintreffen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Przemsza mentén",
+            "tip": "Kövesse a folyót egy csendes utazáshoz a városi forgalomtól távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Három Császár Sarok reggel",
+            "tip": "Tapasztalja meg a történelmi hely csendjét, mielőtt a legtöbb látogató megérkezik.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul Przemsza",
+            "tip": "Urmați râul pentru o plimbare liniștită, departe de traficul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Colțul celor Trei Împărați dimineața",
+            "tip": "Experimentați liniștea acestui loc istoric înainte de sosirea majorității vizitatorilor.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike path along the Przemsza",
+            "tip": "Follow the river for a quiet ride away from the city traffic.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Three Emperors' Corner in the morning",
+            "tip": "Experience the silence of this historic place before most visitors arrive.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradzubehör",
+            "tip": "In der Stadt gibt es einige Geschäfte, falls Sie etwas für Ihr Rad benötigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpár-kiegészítők",
+            "tip": "A városban van néhány üzlet, ha szüksége lenne valamire a kerékpárjához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Accesorii pentru biciclete",
+            "tip": "Există câteva magazine în oraș în caz că aveți nevoie de ceva pentru bicicleta dvs."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike accessories",
+            "tip": "There are a few shops in the city in case you need something for your bike."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Schließen Sie Ihr Fahrrad immer gut ab, wenn Sie es abstellen.",
+          "Achten Sie auf den Verkehr, besonders in der Innenstadt.",
+          "Ein Helm wird dringend empfohlen."
+        ],
+        "hu": [
+          "Mindig zárja le jól a kerékpárját, ha leteszi.",
+          "Vigyázzon a forgalomra, különösen a belvárosban.",
+          "A sisak használata erősen ajánlott."
+        ],
+        "ro": [
+          "Asigurați-vă întotdeauna bicicleta corespunzător când o parcați.",
+          "Fiți atenți la trafic, mai ales în centrul orașului.",
+          "Se recomandă insistent purtarea căștii."
+        ],
+        "en": [
+          "Always lock your bike securely when you park it.",
+          "Be mindful of traffic, especially in the city center.",
+          "A helmet is strongly recommended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Dreikaisereck",
+            "hu": "Három Császár Sarok",
+            "ro": "Colțul celor Trei Împărați",
+            "en": "Three Emperors' Corner"
+          },
+          "coords": [
+            19.175,
+            50.225
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_4lang": {
+            "de": "Starten Sie am Rande der Stadt. Es gibt gute Parkmöglichkeiten in der Nähe.",
+            "hu": "Kezdje a város szélén. A közelben jó parkolási lehetőségek vannak.",
+            "ro": "Începeți de la marginea orașului. Există o parcare bună în apropiere.",
+            "en": "Start on the outskirts of the city. There is good parking nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Zentrum",
+            "hu": "Parkoló a központban",
+            "ro": "Parcare în centru",
+            "en": "City Center Parking"
+          },
+          "coords": [
+            19.139,
+            50.243
+          ],
+          "category": "transport",
+          "arrive_at": "10:05",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "car",
+          "tip_4lang": {
+            "de": "Parken Sie hier für den Rest des Vormittags und erkunden Sie das Zentrum zu Fuß.",
+            "hu": "Parkoljon le itt a délelőtt hátralévő részére, és fedezze fel a központot gyalog.",
+            "ro": "Parcați aici pentru restul dimineții și explorați centrul pe jos.",
+            "en": "Park here for the rest of the morning and explore the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Marktplatz & Rathaus",
+            "hu": "Főtér és Városháza",
+            "ro": "Piața Centrală și Primăria",
+            "en": "Market Square & Town Hall"
+          },
+          "coords": [
+            19.138,
+            50.242
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Spazieren Sie über den Platz und bewundern Sie das Rathaus.",
+            "hu": "Sétáljon át a téren és csodálja meg a Városházát.",
+            "ro": "Plimbați-vă prin piață și admirați Primăria.",
+            "en": "Stroll across the square and admire the Town Hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Herz-Jesu-Kirche",
+            "hu": "Jézus Szíve-templom",
+            "ro": "Biserica Preasfânta Inimă a lui Iisus",
+            "en": "Sacred Heart Church"
+          },
+          "coords": [
+            19.141,
+            50.24
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Ein kurzer Spaziergang vom Marktplatz zu dieser beeindruckenden Kirche.",
+            "hu": "Egy rövid séta a Főtértől ehhez a lenyűgöző templomhoz.",
+            "ro": "O scurtă plimbare de la Piața Centrală la această biserică impresionantă.",
+            "en": "A short walk from the Market Square to this impressive church."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentrales Feuerwehrmuseum",
+            "hu": "Központi Tűzoltómúzeum",
+            "ro": "Muzeul Central al Pompierilor",
+            "en": "Central Museum of Firefighting"
+          },
+          "coords": [
+            19.145,
+            50.255
+          ],
+          "category": "museums",
+          "arrive_at": "12:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "car",
+          "tip_4lang": {
+            "de": "Fahren Sie zum Museum, es hat einen eigenen Parkplatz. Planen Sie Zeit für das Mittagessen ein.",
+            "hu": "Vezessen a múzeumhoz, saját parkolója van. Tervezzen időt az ebédre.",
+            "ro": "Conduceți la muzeu, are parcare proprie. Planificați timp pentru prânz.",
+            "en": "Drive to the museum, it has its own parking lot. Plan time for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Park Zamkowy",
+            "hu": "Kastélypark (Park Zamkowy)",
+            "ro": "Parcul Castelului (Park Zamkowy)",
+            "en": "Castle Park (Park Zamkowy)"
+          },
+          "coords": [
+            19.13,
+            50.238
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:01",
+          "stay_min": 90,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Lassen Sie das Auto stehen und beenden Sie den Tag mit einem entspannten Spaziergang im Park.",
+            "hu": "Hagyja az autót, és fejezze be a napot egy pihentető sétával a parkban.",
+            "ro": "Lăsați mașina și încheiați ziua cu o plimbare relaxantă în parc.",
+            "en": "Leave the car and end the day with a relaxing walk in the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt am historischen Dreikaisereck. Von dort fahren Sie ins Zentrum von Mysłowice, parken Ihr Auto und erkunden den Marktplatz und die Herz-Jesu-Kirche zu Fuß. Dies bildet Ihren ersten 'Walking Cluster'. Am Nachmittag fahren Sie zum faszinierenden Feuerwehrmuseum für den zweiten Stopp. Den Tag lassen Sie dann entspannt im nahegelegenen Park Zamkowy ausklingen, Ihrem letzten 'Walking Cluster'.",
+        "hu": "Az autós túra a történelmi Három Császár Saroknál kezdődik. Onnan Mysłowice központjába hajt, leparkolja az autót, és gyalog fedezi fel a Főteret és a Jézus Szíve-templomot. Ez alkotja az első „sétáló klasztert”. Délután a lenyűgöző Tűzoltómúzeumhoz hajt a második megállóhoz. A napot a közeli Kastélyparkban tett pihentető sétával zárja, amely az utolsó „sétáló klaszter”.",
+        "ro": "Turul cu mașina începe de la istoricul Colț al celor Trei Împărați. De acolo, conduceți spre centrul orașului Mysłowice, parcați mașina și explorați pe jos Piața Centrală și Biserica Preasfânta Inimă a lui Iisus. Acesta formează primul dvs. 'cluster de mers pe jos'. După-amiaza, conduceți la fascinantul Muzeu al Pompierilor pentru a doua oprire. Încheiați ziua relaxându-vă în Parcul Castelului din apropiere, ultimul dvs. 'cluster de mers pe jos'.",
+        "en": "Your car tour begins at the historic Three Emperors' Corner. From there, you drive to the center of Mysłowice, park your car, and explore the Market Square and the Sacred Heart Church on foot. This forms your first 'walking cluster'. In the afternoon, you drive to the fascinating Firefighting Museum for the second stop. You then end the day relaxing in the nearby Castle Park, your final 'walking cluster'."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rolada Śląska",
+            "tip": "Eine schlesische Rinderroulade, ein Muss für Fleischliebhaber."
+          },
+          {
+            "name": "Kluski śląskie",
+            "tip": "Schlesische Kartoffelklöße, oft als Beilage serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sziléziai marhatekercs (Rolada)",
+            "tip": "Sziléziai marhatekercs, kötelező a hús kedvelőinek."
+          },
+          {
+            "name": "Sziléziai gombóc (Kluski)",
+            "tip": "Sziléziai burgonyagombóc, gyakran köretként tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ruladă sileziană (Rolada)",
+            "tip": "O ruladă de vită sileziană, obligatorie pentru iubitorii de carne."
+          },
+          {
+            "name": "Găluște sileziene (Kluski)",
+            "tip": "Găluște de cartofi sileziene, adesea servite ca garnitură."
+          }
+        ],
+        "en": [
+          {
+            "name": "Silesian Beef Roulade (Rolada)",
+            "tip": "A Silesian beef roulade, a must-try for meat lovers."
+          },
+          {
+            "name": "Silesian Dumplings (Kluski)",
+            "tip": "Silesian potato dumplings, often served as a side dish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park Zamkowy am späten Nachmittag",
+            "tip": "Genießen Sie die Ruhe, wenn der Park sich leert.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Fahrt durch die Vororte",
+            "tip": "Die Fahrt zwischen den Clustern kann Ihnen einen Einblick in das ruhigere Leben außerhalb des Zentrums geben.",
+            "emoji": "🚗"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kastélypark késő délután",
+            "tip": "Élvezze a csendet, ahogy a park kiürül.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Autózás a külvárosban",
+            "tip": "A klaszterek közötti utazás bepillantást enged a központon kívüli csendesebb életbe.",
+            "emoji": "🚗"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului după-amiaza târziu",
+            "tip": "Bucurați-vă de liniște pe măsură ce parcul se golește.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare prin suburbii",
+            "tip": "Călătoria între clustere vă poate oferi o perspectivă asupra vieții mai liniștite din afara centrului.",
+            "emoji": "🚗"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Park in the late afternoon",
+            "tip": "Enjoy the peace and quiet as the park empties out.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Drive through the suburbs",
+            "tip": "The drive between clusters can give you a glimpse of the quieter life outside the center.",
+            "emoji": "🚗"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bernsteinschmuck",
+            "tip": "Obwohl nicht direkt von der Küste, ist Bernstein ein beliebtes polnisches Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borostyán ékszerek",
+            "tip": "Bár nem közvetlenül a tengerpartról származik, a borostyán népszerű lengyel szuvenír."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bijuterii din chihlimbar",
+            "tip": "Deși nu provine direct de pe coastă, chihlimbarul este un suvenir polonez popular."
+          }
+        ],
+        "en": [
+          {
+            "name": "Amber Jewelry",
+            "tip": "Although not directly from the coast, amber is a popular Polish souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie eine Navigations-App, um Parkplätze in der Nähe der Cluster zu finden.",
+          "Achten Sie auf Parkgebühren im Stadtzentrum.",
+          "Planen Sie zusätzliche Zeit für den Verkehr während der Stoßzeiten ein."
+        ],
+        "hu": [
+          "Használjon navigációs alkalmazást a klaszterek közelében lévő parkolók megtalálásához.",
+          "Vigyázzon a parkolási díjakra a városközpontban.",
+          "Tervezzen plusz időt a csúcsforgalomra."
+        ],
+        "ro": [
+          "Utilizați o aplicație de navigație pentru a găsi parcări în apropierea clusterelor.",
+          "Fiți atenți la taxele de parcare din centrul orașului.",
+          "Planificați timp suplimentar pentru trafic în orele de vârf."
+        ],
+        "en": [
+          "Use a navigation app to find parking near the clusters.",
+          "Be aware of parking fees in the city center.",
+          "Plan for extra time for traffic during peak hours."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:18",
+      "total_km": 8.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof Mysłowice",
+            "hu": "Érkezés a Mysłowice buszpályaudvarra",
+            "ro": "Sosire la autogara Mysłowice",
+            "en": "Arrival at Mysłowice Bus Station"
+          },
+          "coords": [
+            19.14,
+            50.244
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_4lang": {
+            "de": "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr.",
+            "hu": "Vásároljon napijegyet a tömegközlekedéshez.",
+            "ro": "Cumpărați un bilet de o zi pentru transportul public.",
+            "en": "Buy a day pass for public transport."
+          }
+        },
+        {
+          "name": {
+            "de": "Marktplatz & Rathaus",
+            "hu": "Főtér és Városháza",
+            "ro": "Piața Centrală și Primăria",
+            "en": "Market Square & Town Hall"
+          },
+          "coords": [
+            19.138,
+            50.242
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Beginnen Sie Ihren Rundgang im Herzen der Stadt.",
+            "hu": "Kezdje a sétát a város szívében.",
+            "ro": "Începeți turul pietonal în inima orașului.",
+            "en": "Start your walking tour in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Mysłowice",
+            "hu": "Mysłowicei Városi Múzeum",
+            "ro": "Muzeul Orașului Mysłowice",
+            "en": "Mysłowice City Museum"
+          },
+          "coords": [
+            19.132,
+            50.241
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Ein kurzer Spaziergang vom Platz zum Museum.",
+            "hu": "Rövid séta a tértől a múzeumig.",
+            "ro": "O scurtă plimbare de la piață la muzeu.",
+            "en": "A short walk from the square to the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Dreikaisereck",
+            "hu": "Három Császár Sarok",
+            "ro": "Colțul celor Trei Împărați",
+            "en": "Three Emperors' Corner"
+          },
+          "coords": [
+            19.175,
+            50.225
+          ],
+          "category": "natural features",
+          "arrive_at": "12:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_4lang": {
+            "de": "Nehmen Sie einen Bus zu diesem historischen Ort. Planen Sie hier Ihr Mittagessen.",
+            "hu": "Menjen busszal ehhez a történelmi helyhez. Tervezze ide az ebédjét.",
+            "ro": "Luați un autobuz până la acest loc istoric. Planificați-vă prânzul aici.",
+            "en": "Take a bus to this historic site. Plan your lunch here."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentrales Feuerwehrmuseum",
+            "hu": "Központi Tűzoltómúzeum",
+            "ro": "Muzeul Central al Pompierilor",
+            "en": "Central Museum of Firefighting"
+          },
+          "coords": [
+            19.145,
+            50.255
+          ],
+          "category": "museums",
+          "arrive_at": "14:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_4lang": {
+            "de": "Eine weitere Busfahrt bringt Sie zu diesem einzigartigen Museum.",
+            "hu": "Egy újabb buszozás elviszi Önt ehhez az egyedülálló múzeumhoz.",
+            "ro": "O altă călătorie cu autobuzul vă va duce la acest muzeu unic.",
+            "en": "Another bus ride will take you to this unique museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Park Zamkowy",
+            "hu": "Kastélypark (Park Zamkowy)",
+            "ro": "Parcul Castelului (Park Zamkowy)",
+            "en": "Castle Park (Park Zamkowy)"
+          },
+          "coords": [
+            19.13,
+            50.238
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:18",
+          "stay_min": 90,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Vom Museum aus können Sie zum Park spazieren und den Tag ausklingen lassen.",
+            "hu": "A múzeumtól átsétálhat a parkba, és lezárhatja a napot.",
+            "ro": "De la muzeu puteți merge pe jos până la parc pentru a încheia ziua.",
+            "en": "You can walk from the museum to the park to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit einer Tageskarte starten Sie Ihren Tag im Zentrum von Mysłowice und erkunden den ersten Cluster mit Marktplatz und Stadtmuseum zu Fuß. Anschließend bringt Sie ein Bus zum historischen Dreikaisereck, Ihrem zweiten Halt. Eine weitere Busfahrt führt Sie am Nachmittag zum faszinierenden Feuerwehrmuseum. Ihren Tag beenden Sie mit einem entspannenden Spaziergang zum Park Zamkowy, der vom Museum aus zu Fuß erreichbar ist.",
+        "hu": "Napijeggyel kezdi a napot Mysłowice központjában, és gyalog fedezi fel az első klasztert, a Főteret és a Városi Múzeumot. Ezután egy busz elviszi a történelmi Három Császár Sarokhoz, a második megállóhoz. Délután egy újabb buszjárattal jut el a lenyűgöző Tűzoltómúzeumba. A napot egy pihentető sétával zárja a Kastélyparkban, amely a múzeumtól gyalogosan is elérhető.",
+        "ro": "Cu un bilet de o zi, începeți ziua în centrul orașului Mysłowice și explorați pe jos primul cluster, incluzând Piața Centrală și Muzeul Orașului. Apoi, un autobuz vă duce la istoricul Colț al celor Trei Împărați, a doua dvs. oprire. O altă călătorie cu autobuzul vă duce după-amiaza la fascinantul Muzeu al Pompierilor. Încheiați ziua cu o plimbare relaxantă la Parcul Castelului, accesibil pe jos de la muzeu.",
+        "en": "With a day pass, you start your day in the center of Mysłowice, exploring the first cluster with the Market Square and City Museum on foot. A bus then takes you to the historic Three Emperors' Corner, your second stop. Another bus ride in the afternoon leads you to the fascinating Firefighting Museum. You end your day with a relaxing walk to Castle Park, which is within walking distance from the museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zapiekanka",
+            "tip": "Ein überbackenes Baguette, ein klassischer polnischer Straßensnack."
+          },
+          {
+            "name": "Pączki",
+            "tip": "Probieren Sie diese köstlichen polnischen Donuts als süßen Leckerbissen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zapiekanka",
+            "tip": "Sült bagett, klasszikus lengyel street food."
+          },
+          {
+            "name": "Pączki",
+            "tip": "Kóstolja meg ezeket a finom lengyel fánkokat édes csemegének."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zapiekanka",
+            "tip": "O baghetă gratinată, un snack stradal polonez clasic."
+          },
+          {
+            "name": "Pączki",
+            "tip": "Încercați aceste gogoși poloneze delicioase ca desert."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zapiekanka",
+            "tip": "An open-faced toasted baguette, a classic Polish street food snack."
+          },
+          {
+            "name": "Pączki",
+            "tip": "Try these delicious Polish doughnuts for a sweet treat."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt durch die Stadt",
+            "tip": "Beobachten Sie das Stadtleben vom Fenster aus.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Kirche Mariä Heimsuchung",
+            "tip": "Ein ruhiger Ort für eine kurze Pause und Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás a városon keresztül",
+            "tip": "Figyelje a városi életet az ablakból.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Sarlós Boldogasszony-templom",
+            "tip": "Csendes hely egy rövid szünetre és elmélkedésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătorie cu autobuzul prin oraș",
+            "tip": "Observați viața orașului de la fereastră.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Biserica Vizita Fecioarei Maria",
+            "tip": "Un loc liniștit pentru o scurtă pauză și reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride through the city",
+            "tip": "Watch the city life from the window.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Church of the Visitation",
+            "tip": "A quiet place for a short break and reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Regionale Lebensmittel",
+            "tip": "Kaufen Sie in einem lokalen Geschäft schlesische Spezialitäten."
+          },
+          {
+            "name": "Bücher über die Geschichte Schlesiens",
+            "tip": "Suchen Sie in einer Buchhandlung nach lokaler Literatur."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi élelmiszerek",
+            "tip": "Vásároljon sziléziai specialitásokat egy helyi boltban."
+          },
+          {
+            "name": "Könyvek Szilézia történelméről",
+            "tip": "Keressen helyi irodalmat egy könyvesboltban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse alimentare regionale",
+            "tip": "Cumpărați specialități sileziene dintr-un magazin local."
+          },
+          {
+            "name": "Cărți despre istoria Sileziei",
+            "tip": "Căutați literatură locală într-o librărie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Regional Foods",
+            "tip": "Buy Silesian specialties in a local shop."
+          },
+          {
+            "name": "Books on Silesian History",
+            "tip": "Look for local literature in a bookstore."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie eine Fahrplan-App herunter, um die Buszeiten zu überprüfen.",
+          "Halten Sie Kleingeld für Tickets bereit, falls Sie diese im Bus kaufen.",
+          "Seien Sie sich der Endhaltestellen bewusst, um nicht in die falsche Richtung zu fahren."
+        ],
+        "hu": [
+          "Töltsön le egy menetrend alkalmazást a busz idők ellenőrzéséhez.",
+          "Készítsen aprópénzt a jegyekhez, ha a buszon veszi meg.",
+          "Legyen tisztában a végállomásokkal, hogy ne menjen rossz irányba."
+        ],
+        "ro": [
+          "Descărcați o aplicație cu orare pentru a verifica orele de autobuz.",
+          "Pregătiți mărunțiș pentru bilete dacă le cumpărați din autobuz.",
+          "Fiți atenți la stațiile terminus pentru a nu merge în direcția greșită."
+        ],
+        "en": [
+          "Download a timetable app to check bus times.",
+          "Have small change ready for tickets if you buy them on the bus.",
+          "Be aware of the final destinations to avoid going in the wrong direction."
+        ]
+      }
+    }
+  }
+}

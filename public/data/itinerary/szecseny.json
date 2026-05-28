@@ -1,0 +1,1508 @@
+{
+  "city_id": "szecseny",
+  "anchor": {
+    "name": "Szécsény",
+    "coords": [
+      19.5167,
+      48.0833
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Borjúpást (Kälberweide)",
+            "hu": "Borjúpást",
+            "ro": "Pășunea Vițeilor (Borjúpást)",
+            "en": "Borjúpást (Calf Meadow)"
+          },
+          "coords": [
+            19.518,
+            48.083
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Ausgangspunkt, um die Atmosphäre der Stadt aufzusaugen.",
+            "hu": "Tökéletes kiindulópont a város hangulatának befogadásához.",
+            "ro": "Punctul de plecare perfect pentru a absorbi atmosfera orașului.",
+            "en": "The perfect starting point to soak up the city's atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Feuerturm",
+            "hu": "Tűztorony",
+            "ro": "Turnul de Foc",
+            "en": "Fire Tower"
+          },
+          "coords": [
+            19.5191,
+            48.0835
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Steigen Sie für eine fantastische Aussicht auf die Stadt und die umliegende Landschaft hinauf.",
+            "hu": "Menj fel a toronyba a fantasztikus kilátásért a városra és a környékre.",
+            "ro": "Urcați pentru o priveliște fantastică a orașului și a peisajului înconjurător.",
+            "en": "Climb up for a fantastic view of the town and the surrounding countryside."
+          }
+        },
+        {
+          "name": {
+            "de": "Franziskanerkloster und Kirche",
+            "hu": "Ferences kolostor és templom",
+            "ro": "Mănăstirea și Biserica Franciscană",
+            "en": "Franciscan Monastery and Church"
+          },
+          "coords": [
+            19.5195,
+            48.0842
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die gut erhaltenen mittelalterlichen Fresken im Inneren.",
+            "hu": "Figyeld meg a jól megőrzött középkori freskókat a templomban.",
+            "ro": "Fiți atenți la frescele medievale bine conservate din interior.",
+            "en": "Look for the well-preserved medieval frescoes inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Forgách",
+            "hu": "Forgách-kastély",
+            "ro": "Castelul Forgách",
+            "en": "Forgách Castle"
+          },
+          "coords": [
+            19.5208,
+            48.0855
+          ],
+          "category": "museums",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum im Inneren erzählt die bewegte Geschichte der Region Nógrád.",
+            "hu": "A benne található múzeum Nógrád megye eseménydús történelmét meséli el.",
+            "ro": "Muzeul din interior spune istoria plină de evenimente a regiunii Nógrád.",
+            "en": "The museum inside tells the eventful history of the Nógrád region."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebéd a belvárosban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city center"
+          },
+          "coords": [
+            19.5185,
+            48.0838
+          ],
+          "category": "gastro",
+          "arrive_at": "13:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie eine lokale Spezialität wie Palóc-Gulasch in einem der traditionellen Restaurants.",
+            "hu": "Kóstolj meg egy helyi specialitást, például a palócgulyást az egyik hagyományos étteremben.",
+            "ro": "Încercați o specialitate locală, cum ar fi gulașul Palóc, la unul dintre restaurantele tradiționale.",
+            "en": "Try a local specialty like Palóc goulash in one of the traditional restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Reste der Stadtmauer",
+            "hu": "Városfal maradványai",
+            "ro": "Rămășițele zidului orașului",
+            "en": "Remains of the Town Wall"
+          },
+          "coords": [
+            19.516,
+            48.082
+          ],
+          "category": "historical",
+          "arrive_at": "14:31",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Spaziergang entlang der Mauern versetzt Sie zurück in die Zeit der osmanischen Belagerungen.",
+            "hu": "Séta a falak mentén visszarepít az oszmán ostromok idejébe.",
+            "ro": "O plimbare de-a lungul zidurilor vă duce înapoi în timpul asediilor otomane.",
+            "en": "A walk along the walls takes you back to the time of the Ottoman sieges."
+          }
+        },
+        {
+          "name": {
+            "de": "Robinson-Inseln",
+            "hu": "Robinson-szigetek",
+            "ro": "Insulele Robinson",
+            "en": "Robinson Islands"
+          },
+          "coords": [
+            19.505,
+            48.079
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannender Ort, um den Tag ausklingen zu lassen, ideal für einen Spaziergang am See.",
+            "hu": "Pihentető hely a nap befejezéséhez, ideális egy tóparti sétához.",
+            "ro": "Un loc relaxant pentru a încheia ziua, ideal pentru o plimbare pe malul lacului.",
+            "en": "A relaxing place to end the day, ideal for a walk by the lake."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Szécsény beginnt am historischen Borjúpást Platz. Am Morgen erklimmen Sie den Feuerturm für eine atemberaubende Aussicht und besuchen das ruhige Franziskanerkloster. Nach dem Mittagessen erkunden Sie das prächtige Forgách-Schloss und sein Museum, das Ihnen die reiche Geschichte der Region näherbringt. Am Nachmittag schlendern Sie entlang der alten Stadtmauern und spüren die Vergangenheit der Stadt. Der Tag endet mit einem entspannenden Spaziergang auf den friedlichen Robinson-Inseln, wo Sie die Natur genießen und die Eindrücke des Tages Revue passieren lassen können.",
+        "hu": "A szécsényi nap a történelmi Borjúpáston kezdődik. Délelőtt mássza meg a Tűztornyot a lélegzetelállító kilátásért, majd látogasson el a csendes Ferences kolostorba. Ebéd után fedezze fel a csodálatos Forgách-kastélyt és múzeumát, amely bemutatja a régió gazdag történelmét. Délután sétáljon végig a régi városfalak mentén, és érezze át a város múltját. A napot egy pihentető séta zárja a békés Robinson-szigeteken, ahol élvezheti a természetet és feldolgozhatja a nap élményeit.",
+        "ro": "Ziua dvs. în Szécsény începe în istorica piață Borjúpást. Dimineața, urcați în Turnul de Foc pentru o priveliște uluitoare și vizitați liniștita Mănăstire Franciscană. După prânz, explorați magnificul Castel Forgách și muzeul său, care vă va introduce în bogata istorie a regiunii. După-amiaza, plimbați-vă de-a lungul vechilor ziduri ale orașului, simțind trecutul acestuia. Ziua se încheie cu o plimbare relaxantă pe liniștitele Insule Robinson, unde vă puteți bucura de natură și puteți reflecta asupra impresiilor zilei.",
+        "en": "Your day in Szécsény begins at the historic Borjúpást square. In the morning, you'll climb the Fire Tower for a breathtaking view and visit the tranquil Franciscan Monastery. After lunch, explore the magnificent Forgách Castle and its museum, which introduces you to the region's rich history. In the afternoon, stroll along the old town walls, feeling the city's past. The day concludes with a relaxing walk on the peaceful Robinson Islands, where you can enjoy nature and reflect on the day's impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Palócgulasch",
+            "tip": "Ein herzhafter, aber nicht zu scharfer Gulasch mit grünen Bohnen und Dill. Suchen Sie nach einem 'Csárda' für ein authentisches Erlebnis."
+          },
+          {
+            "name": "Túrós Csusza",
+            "tip": "Nudeln mit Quark und geräuchertem Speck – ein einfaches, aber köstliches ungarisches Komfortessen."
+          },
+          {
+            "name": "Gundel-Palatschinken",
+            "tip": "Ein berühmtes ungarisches Dessert: ein mit Walnuss gefüllter Crêpe, serviert mit Schokoladensauce."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palócgulyás",
+            "tip": "Kiadós, de nem túl csípős gulyás zöldbabbal és kaporral. Keress egy csárdát az autentikus élményért."
+          },
+          {
+            "name": "Túrós Csusza",
+            "tip": "Tésztás étel túróval és füstölt szalonnával – egyszerű, de finom magyar kényelmi étel."
+          },
+          {
+            "name": "Gundel-palacsinta",
+            "tip": "Híres magyar desszert: dióval töltött palacsinta csokoládéöntettel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gulaș Palóc",
+            "tip": "Un gulaș consistent, dar nu prea picant, cu fasole verde și mărar. Căutați o 'Csárda' pentru o experiență autentică."
+          },
+          {
+            "name": "Túrós Csusza",
+            "tip": "Paste cu brânză de vaci și slănină afumată - o mâncare maghiară simplă, dar delicioasă."
+          },
+          {
+            "name": "Clătite Gundel",
+            "tip": "Un desert maghiar celebru: o clătită umplută cu nucă, servită cu sos de ciocolată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Palóc Goulash",
+            "tip": "A hearty but not too spicy goulash with green beans and dill. Look for a 'Csárda' for an authentic experience."
+          },
+          {
+            "name": "Túrós Csusza",
+            "tip": "Pasta with cottage cheese and smoked bacon - a simple but delicious Hungarian comfort food."
+          },
+          {
+            "name": "Gundel Pancake",
+            "tip": "A famous Hungarian dessert: a walnut-filled crepe served with chocolate sauce."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Robinson-Inseln",
+            "tip": "Finden Sie eine ruhige Bank am Wasser und beobachten Sie die Vögel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Garten des Franziskanerklosters",
+            "tip": "Ein abgeschiedener und friedlicher Ort, um dem Trubel der Stadt zu entkommen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick vom Feuerturm bei Sonnenuntergang",
+            "tip": "Wenn Sie Ihren Besuch richtig timen, werden Sie mit goldenem Licht über der Stadt belohnt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Robinson-szigetek partja",
+            "tip": "Keress egy csendes padot a vízparton, és figyeld a madarakat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ferences kolostor kertje",
+            "tip": "Elzárt és békés hely, ahol elmenekülhetsz a város nyüzsgésétől.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Tűztoronyból naplementekor",
+            "tip": "Ha jól időzíted a látogatást, arany fénnyel jutalmaz a város felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile Insulelor Robinson",
+            "tip": "Găsiți o bancă liniștită lângă apă și priviți păsările.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Mănăstirii Franciscane",
+            "tip": "Un loc izolat și pașnic pentru a evada din agitația orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de la Turnul de Foc la apus",
+            "tip": "Dacă vă programați corect vizita, veți fi răsplătit cu o lumină aurie peste oraș.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shores of the Robinson Islands",
+            "tip": "Find a quiet bench by the water and watch the birds.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Garden of the Franciscan Monastery",
+            "tip": "A secluded and peaceful spot to escape the hustle of the town.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the Fire Tower at sunset",
+            "tip": "If you time your visit right, you'll be rewarded with golden light over the town.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Bauernmarkt",
+            "tip": "Suchen Sie nach saisonalen Produkten, hausgemachten Marmeladen und lokalem Honig (normalerweise am Wochenende)."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Halten Sie Ausschau nach traditioneller Palóc-Stickerei und Töpferwaren in den kleinen Läden rund um den Hauptplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termelői piac",
+            "tip": "Keress szezonális termékeket, házi lekvárokat és helyi mézet (általában hétvégén)."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keresd a hagyományos palóc hímzést és kerámiát a főtér körüli kis boltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală a fermierilor",
+            "tip": "Căutați produse de sezon, gemuri de casă și miere locală (de obicei în weekend)."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Fiți atenți la broderiile și ceramica tradițională Palóc în magazinele mici din jurul pieței principale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Farmers' Market",
+            "tip": "Look for seasonal produce, homemade jams, and local honey (usually on weekends)."
+          },
+          {
+            "name": "Artisan Shops",
+            "tip": "Keep an eye out for traditional Palóc embroidery and pottery in the small shops around the main square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten sind zu Fuß erreichbar, also nehmen Sie sich Zeit und genießen Sie die kurzen Spaziergänge.",
+          "Einige kleinere Museen oder Geschäfte können während der Mittagszeit schließen.",
+          "Bringen Sie Wasser mit, besonders an warmen Tagen, da es zwischen den Hauptsehenswürdigkeiten nur wenige Geschäfte gibt."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, mivel a macskakövek egyenetlenek lehetnek az óvárosban.",
+          "A legtöbb látnivaló gyalogosan elérhető, ezért szánj időt és élvezd a rövid sétákat.",
+          "Néhány kisebb múzeum vagy üzlet bezárhat ebédidőben.",
+          "Vigyél magaddal vizet, különösen meleg napokon, mivel a fő látnivalók között kevés bolt található."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din centrul vechi poate fi denivelat.",
+          "Majoritatea atracțiilor sunt la distanță de mers pe jos, așa că nu vă grăbiți și bucurați-vă de plimbările scurte.",
+          "Unele muzee sau magazine mai mici se pot închide în timpul prânzului.",
+          "Aduceți apă, mai ales în zilele calde, deoarece există puține magazine între principalele atracții."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Most sights are within easy walking distance, so take your time and enjoy the short strolls.",
+          "Some smaller museums or shops might close during lunchtime.",
+          "Bring water, especially on warm days, as there are few shops between the main sights."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 6.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Borjúpást (Kälberweide)",
+            "hu": "Borjúpást",
+            "ro": "Pășunea Vițeilor (Borjúpást)",
+            "en": "Borjúpást (Calf Meadow)"
+          },
+          "coords": [
+            19.518,
+            48.083
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie das Zentrum zu Fuß erkunden.",
+            "hu": "Zárd le biztonságosan a biciklidet, mielőtt gyalog felfedeznéd a központot.",
+            "ro": "Asigurați-vă bicicleta înainte de a explora centrul pe jos.",
+            "en": "Lock your bike securely before exploring the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Feuerturm",
+            "hu": "Tűztorony",
+            "ro": "Turnul de Foc",
+            "en": "Fire Tower"
+          },
+          "coords": [
+            19.5191,
+            48.0835
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Von oben können Sie Ihre nächste Radroute durch die Stadt planen.",
+            "hu": "Fentről megtervezheted a következő bicikliutadat a városon keresztül.",
+            "ro": "De sus, vă puteți planifica următorul traseu de bicicletă prin oraș.",
+            "en": "From the top, you can plan your next cycling route through the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Forgách",
+            "hu": "Forgách-kastély",
+            "ro": "Castelul Forgách",
+            "en": "Forgách Castle"
+          },
+          "coords": [
+            19.5208,
+            48.0855
+          ],
+          "category": "museums",
+          "arrive_at": "10:19",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Es gibt normalerweise Fahrradständer in der Nähe des Eingangs.",
+            "hu": "A bejárat közelében általában vannak kerékpártárolók.",
+            "ro": "De obicei, există suporturi pentru biciclete lângă intrare.",
+            "en": "There are usually bike racks near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Franziskanerkloster und Kirche",
+            "hu": "Ferences kolostor és templom",
+            "ro": "Mănăstirea și Biserica Franciscană",
+            "en": "Franciscan Monastery and Church"
+          },
+          "coords": [
+            19.5195,
+            48.0842
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe, bevor Sie wieder in die Pedale treten.",
+            "hu": "Élvezd a csendet, mielőtt újra nyeregbe pattansz.",
+            "ro": "Bucurați-vă de liniște înainte de a pedala din nou.",
+            "en": "Enjoy the tranquility before you start pedaling again."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            19.5185,
+            48.0838
+          ],
+          "category": "gastro",
+          "arrive_at": "12:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Stärken Sie sich für die Nachmittagstour.",
+            "hu": "Erősíts a délutáni túrára.",
+            "ro": "Luați putere pentru turul de după-amiază.",
+            "en": "Recharge your energy for the afternoon tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Reste der Stadtmauer",
+            "hu": "Városfal maradványai",
+            "ro": "Rămășițele zidului orașului",
+            "en": "Remains of the Town Wall"
+          },
+          "coords": [
+            19.516,
+            48.082
+          ],
+          "category": "historical",
+          "arrive_at": "14:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radfahren entlang der äußeren Wege gibt eine großartige Perspektive auf die Verteidigungsanlagen.",
+            "hu": "A külső ösvényeken való kerékpározás nagyszerű perspektívát ad a védművekről.",
+            "ro": "Mersul pe bicicletă de-a lungul potecilor exterioare oferă o perspectivă excelentă asupra fortificațiilor.",
+            "en": "Cycling along the outer paths gives a great perspective on the fortifications."
+          }
+        },
+        {
+          "name": {
+            "de": "Robinson-Inseln",
+            "hu": "Robinson-szigetek",
+            "ro": "Insulele Robinson",
+            "en": "Robinson Islands"
+          },
+          "coords": [
+            19.505,
+            48.079
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein flacher, einfacher Radweg führt zu den Inseln, ideal für eine entspannte Fahrt.",
+            "hu": "Egy sík, könnyű kerékpárút vezet a szigetekre, ideális egy pihentető tekeréshez.",
+            "ro": "O pistă de biciclete plată și ușoară duce la insule, ideală pentru o plimbare relaxantă.",
+            "en": "A flat, easy cycle path leads to the islands, ideal for a relaxed ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radtag in Szécsény startet am Borjúpást, dem Herzen der Stadt. Am Vormittag radeln Sie zum Feuerturm und zum imposanten Forgách-Schloss. Nach einer Erkundung des Schlosses und einer ruhigen Pause im Franziskanerkloster stärken Sie sich beim Mittagessen. Am Nachmittag führt Sie Ihre Route entlang der historischen Stadtmauern, die von vergangenen Zeiten zeugen. Die Tour endet mit einer gemütlichen Fahrt zu den Robinson-Inseln, wo Sie am Wasser entspannen und die Natur genießen können.",
+        "hu": "A szécsényi biciklis nap a város szívében, a Borjúpáston indul. Délelőtt a Tűztoronyhoz és az impozáns Forgách-kastélyhoz tekersz. A kastély felfedezése és a Ferences kolostorban tartott csendes pihenő után megebédelsz. Délután az útvonal a történelmi városfalak mentén vezet, amelyek a régmúltról tanúskodnak. A túra egy kényelmes tekeréssel zárul a Robinson-szigetekhez, ahol pihenhetsz a vízparton és élvezheted a természetet.",
+        "ro": "Ziua dvs. pe bicicletă în Szécsény începe la Borjúpást, inima orașului. Dimineața, pedalați spre Turnul de Foc și impunătorul Castel Forgách. După explorarea castelului și o pauză liniștită la Mănăstirea Franciscană, luați prânzul. După-amiaza, traseul vă duce de-a lungul zidurilor istorice ale orașului, care mărturisesc vremurile trecute. Turul se încheie cu o plimbare lejeră spre Insulele Robinson, unde vă puteți relaxa lângă apă și vă puteți bucura de natură.",
+        "en": "Your cycling day in Szécsény starts at Borjúpást, the heart of the town. In the morning, you'll pedal to the Fire Tower and the imposing Forgách Castle. After exploring the castle and taking a quiet break at the Franciscan Monastery, you'll have lunch. In the afternoon, your route takes you along the historic town walls, which bear witness to times gone by. The tour ends with a leisurely ride to the Robinson Islands, where you can relax by the water and enjoy nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Palócgulasch",
+            "tip": "Ein herzhafter, aber nicht zu scharfer Gulasch mit grünen Bohnen und Dill. Suchen Sie nach einem 'Csárda' für ein authentisches Erlebnis."
+          },
+          {
+            "name": "Túrós Csusza",
+            "tip": "Nudeln mit Quark und geräuchertem Speck – ein einfaches, aber köstliches ungarisches Komfortessen."
+          },
+          {
+            "name": "Gundel-Palatschinken",
+            "tip": "Ein berühmtes ungarisches Dessert: ein mit Walnuss gefüllter Crêpe, serviert mit Schokoladensauce."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palócgulyás",
+            "tip": "Kiadós, de nem túl csípős gulyás zöldbabbal és kaporral. Keress egy csárdát az autentikus élményért."
+          },
+          {
+            "name": "Túrós Csusza",
+            "tip": "Tésztás étel túróval és füstölt szalonnával – egyszerű, de finom magyar kényelmi étel."
+          },
+          {
+            "name": "Gundel-palacsinta",
+            "tip": "Híres magyar desszert: dióval töltött palacsinta csokoládéöntettel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gulaș Palóc",
+            "tip": "Un gulaș consistent, dar nu prea picant, cu fasole verde și mărar. Căutați o 'Csárda' pentru o experiență autentică."
+          },
+          {
+            "name": "Túrós Csusza",
+            "tip": "Paste cu brânză de vaci și slănină afumată - o mâncare maghiară simplă, dar delicioasă."
+          },
+          {
+            "name": "Clătite Gundel",
+            "tip": "Un desert maghiar celebru: o clătită umplută cu nucă, servită cu sos de ciocolată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Palóc Goulash",
+            "tip": "A hearty but not too spicy goulash with green beans and dill. Look for a 'Csárda' for an authentic experience."
+          },
+          {
+            "name": "Túrós Csusza",
+            "tip": "Pasta with cottage cheese and smoked bacon - a simple but delicious Hungarian comfort food."
+          },
+          {
+            "name": "Gundel Pancake",
+            "tip": "A famous Hungarian dessert: a walnut-filled crepe served with chocolate sauce."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg zu den Robinson-Inseln",
+            "tip": "Die Fahrt selbst ist friedlich und führt durch Grünflächen.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Garten des Franziskanerklosters",
+            "tip": "Ein abgeschiedener und friedlicher Ort, um dem Trubel der Stadt zu entkommen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick vom Feuerturm bei Sonnenuntergang",
+            "tip": "Wenn Sie Ihren Besuch richtig timen, werden Sie mit goldenem Licht über der Stadt belohnt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Robinson-szigetekhez",
+            "tip": "Maga az út is békés és zöld területeken vezet keresztül.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Ferences kolostor kertje",
+            "tip": "Elzárt és békés hely, ahol elmenekülhetsz a város nyüzsgésétől.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Tűztoronyból naplementekor",
+            "tip": "Ha jól időzíted a látogatást, arany fénnyel jutalmaz a város felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete către Insulele Robinson",
+            "tip": "Plimbarea în sine este pașnică și trece prin zone verzi.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Grădina Mănăstirii Franciscane",
+            "tip": "Un loc izolat și pașnic pentru a evada din agitația orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de la Turnul de Foc la apus",
+            "tip": "Dacă vă programați corect vizita, veți fi răsplătit cu o lumină aurie peste oraș.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike path to the Robinson Islands",
+            "tip": "The ride itself is peaceful and passes through green areas.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Garden of the Franciscan Monastery",
+            "tip": "A secluded and peaceful spot to escape the hustle of the town.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the Fire Tower at sunset",
+            "tip": "If you time your visit right, you'll be rewarded with golden light over the town.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Bauernmarkt",
+            "tip": "Suchen Sie nach saisonalen Produkten, hausgemachten Marmeladen und lokalem Honig (normalerweise am Wochenende)."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Halten Sie Ausschau nach traditioneller Palóc-Stickerei und Töpferwaren in den kleinen Läden rund um den Hauptplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termelői piac",
+            "tip": "Keress szezonális termékeket, házi lekvárokat és helyi mézet (általában hétvégén)."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keresd a hagyományos palóc hímzést és kerámiát a főtér körüli kis boltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală a fermierilor",
+            "tip": "Căutați produse de sezon, gemuri de casă și miere locală (de obicei în weekend)."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Fiți atenți la broderiile și ceramica tradițională Palóc în magazinele mici din jurul pieței principale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Farmers' Market",
+            "tip": "Look for seasonal produce, homemade jams, and local honey (usually on weekends)."
+          },
+          {
+            "name": "Artisan Shops",
+            "tip": "Keep an eye out for traditional Palóc embroidery and pottery in the small shops around the main square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Szécsény ist relativ flach und fahrradfreundlich, aber achten Sie auf Kopfsteinpflaster im Zentrum.",
+          "Nehmen Sie ein gutes Schloss mit, da Sie Ihr Fahrrad oft abstellen werden, um die Sehenswürdigkeiten zu Fuß zu erkunden.",
+          "Der Weg zu den Robinson-Inseln ist eine angenehme, leichte Fahrt.",
+          "Prüfen Sie den Reifendruck, bevor Sie losfahren."
+        ],
+        "hu": [
+          "Szécsény viszonylag sík és biciklibarát, de vigyázz a macskakövekre a központban.",
+          "Vigyél magaddal egy jó lakatot, mivel gyakran le kell majd tenned a biciklit, hogy gyalog fedezd fel a látnivalókat.",
+          "A Robinson-szigetekhez vezető út kellemes, könnyű tekerés.",
+          "Indulás előtt ellenőrizd a guminyomást."
+        ],
+        "ro": [
+          "Szécsény este relativ plat și prietenos cu bicicletele, dar aveți grijă la pavajul din centru.",
+          "Luați o încuietoare bună, deoarece veți lăsa adesea bicicleta pentru a explora atracțiile pe jos.",
+          "Calea către Insulele Robinson este o plimbare plăcută și ușoară.",
+          "Verificați presiunea anvelopelor înainte de a porni."
+        ],
+        "en": [
+          "Szécsény is relatively flat and bike-friendly, but watch out for cobblestones in the center.",
+          "Bring a good lock, as you'll often be parking your bike to explore sights on foot.",
+          "The path to the Robinson Islands is a pleasant, easy ride.",
+          "Check your tire pressure before you set off."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 3.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Stadtzentrum",
+            "hu": "Parkoló a városközpontban",
+            "ro": "Parcare în centrul orașului",
+            "en": "Parking in the city center"
+          },
+          "coords": [
+            19.5215,
+            48.0825
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Tag. Das historische Zentrum lässt sich am besten zu Fuß erkunden.",
+            "hu": "Parkolj le itt egész napra. A történelmi központot a legjobb gyalog felfedezni.",
+            "ro": "Parcați aici pentru o zi. Centrul istoric este cel mai bine explorat pe jos.",
+            "en": "Park here for the day. The historic center is best explored on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Borjúpást und Feuerturm",
+            "hu": "Borjúpást és Tűztorony",
+            "ro": "Borjúpást și Turnul de Foc",
+            "en": "Borjúpást and Fire Tower"
+          },
+          "coords": [
+            19.5185,
+            48.0833
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:18",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Erkundungstour hier, im Herzen der Stadt.",
+            "hu": "Kezdje a felfedezést itt, a város szívében.",
+            "ro": "Începeți explorarea aici, în inima orașului.",
+            "en": "Start your exploration here, in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Franziskanerkloster und Kirche",
+            "hu": "Ferences kolostor és templom",
+            "ro": "Mănăstirea și Biserica Franciscană",
+            "en": "Franciscan Monastery and Church"
+          },
+          "coords": [
+            19.5195,
+            48.0842
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz entfernt liegt dieses Juwel der Ruhe.",
+            "hu": "Rövid sétára a főtértől található ez a csendes gyöngyszem.",
+            "ro": "La o scurtă plimbare de piața principală se află această bijuterie de liniște.",
+            "en": "A short walk from the main square lies this gem of tranquility."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Forgách",
+            "hu": "Forgách-kastély",
+            "ro": "Castelul Forgách",
+            "en": "Forgách Castle"
+          },
+          "coords": [
+            19.5208,
+            48.0855
+          ],
+          "category": "museums",
+          "arrive_at": "11:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der größte Komplex der Stadt, planen Sie genügend Zeit für das Museum ein.",
+            "hu": "A város legnagyobb komplexuma, szánj elég időt a múzeumra.",
+            "ro": "Cel mai mare complex din oraș, planificați suficient timp pentru muzeu.",
+            "en": "The largest complex in the city, plan enough time for the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the center"
+          },
+          "coords": [
+            19.5185,
+            48.0838
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kehren Sie für eine Mahlzeit in den zentralen Bereich zurück.",
+            "hu": "Térj vissza a központi részre egy ebédre.",
+            "ro": "Întoarceți-vă în zona centrală pentru o masă.",
+            "en": "Return to the central area for a meal."
+          }
+        },
+        {
+          "name": {
+            "de": "Reste der Stadtmauer",
+            "hu": "Városfal maradványai",
+            "ro": "Rămășițele zidului orașului",
+            "en": "Remains of the Town Wall"
+          },
+          "coords": [
+            19.516,
+            48.082
+          ],
+          "category": "historical",
+          "arrive_at": "14:26",
+          "stay_min": 50,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Mauern umgeben den größten Teil des historischen Kerns, den Sie erkundet haben.",
+            "hu": "A falak veszik körül a felfedezett történelmi mag nagy részét.",
+            "ro": "Zidurile înconjoară cea mai mare parte a nucleului istoric pe care l-ați explorat.",
+            "en": "The walls surround most of the historic core you've been exploring."
+          }
+        },
+        {
+          "name": {
+            "de": "Robinson-Inseln",
+            "hu": "Robinson-szigetek",
+            "ro": "Insulele Robinson",
+            "en": "Robinson Islands"
+          },
+          "coords": [
+            19.505,
+            48.079
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Nehmen Sie das Auto für diesen kurzen Ausflug aus dem Zentrum für einen entspannten Abschluss des Tages.",
+            "hu": "Vedd az autót ehhez a rövid kiruccanáshoz a központból a nap pihentető lezárásaként.",
+            "ro": "Luați mașina pentru această scurtă excursie din centru pentru un final relaxant de zi.",
+            "en": "Take the car for this short trip out of the center for a relaxing end to the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Sie parken Ihr Auto im Zentrum von Szécsény und beginnen den Tag mit einem Spaziergang zum Borjúpást und dem Feuerturm. Der Vormittag ist der Erkundung des historischen Kerns gewidmet, einschließlich des Franziskanerklosters und des prächtigen Forgách-Schlosses. Nach einem gemütlichen Mittagessen in der Innenstadt schlendern Sie entlang der alten Stadtmauern. Zum Abschluss des Tages fahren Sie zu den nahegelegenen Robinson-Inseln, einem perfekten Ort, um in der Natur zu entspannen und die malerische Landschaft zu genießen.",
+        "hu": "Az autót Szécsény központjában parkolja le, és a napot a Borjúpástra és a Tűztoronyhoz tett sétával kezdi. A délelőtt a történelmi központ felfedezésének szentelt, beleértve a Ferences kolostort és a csodálatos Forgách-kastélyt. A belvárosi kellemes ebéd után sétáljon végig a régi városfalak mentén. A nap végén autózzon el a közeli Robinson-szigetekre, amely tökéletes hely a természetben való pihenésre és a festői táj élvezetére.",
+        "ro": "Parcați mașina în centrul orașului Szécsény și începeți ziua cu o plimbare spre Borjúpást și Turnul de Foc. Dimineața este dedicată explorării nucleului istoric, inclusiv a Mănăstirii Franciscane și a magnificului Castel Forgách. După un prânz plăcut în centrul orașului, plimbați-vă de-a lungul vechilor ziduri ale orașului. La sfârșitul zilei, conduceți spre Insulele Robinson din apropiere, un loc perfect pentru a vă relaxa în natură și a vă bucura de peisajul pitoresc.",
+        "en": "You park your car in the center of Szécsény and start the day with a walk to Borjúpást and the Fire Tower. The morning is dedicated to exploring the historic core, including the Franciscan Monastery and the magnificent Forgách Castle. After a pleasant lunch downtown, you'll stroll along the old town walls. At the end of the day, you drive to the nearby Robinson Islands, a perfect place to relax in nature and enjoy the picturesque scenery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Palócgulasch",
+            "tip": "Ein herzhafter, aber nicht zu scharfer Gulasch mit grünen Bohnen und Dill. Suchen Sie nach einem 'Csárda' für ein authentisches Erlebnis."
+          },
+          {
+            "name": "Túrós Csusza",
+            "tip": "Nudeln mit Quark und geräuchertem Speck – ein einfaches, aber köstliches ungarisches Komfortessen."
+          },
+          {
+            "name": "Gundel-Palatschinken",
+            "tip": "Ein berühmtes ungarisches Dessert: ein mit Walnuss gefüllter Crêpe, serviert mit Schokoladensauce."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palócgulyás",
+            "tip": "Kiadós, de nem túl csípős gulyás zöldbabbal és kaporral. Keress egy csárdát az autentikus élményért."
+          },
+          {
+            "name": "Túrós Csusza",
+            "tip": "Tésztás étel túróval és füstölt szalonnával – egyszerű, de finom magyar kényelmi étel."
+          },
+          {
+            "name": "Gundel-palacsinta",
+            "tip": "Híres magyar desszert: dióval töltött palacsinta csokoládéöntettel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gulaș Palóc",
+            "tip": "Un gulaș consistent, dar nu prea picant, cu fasole verde și mărar. Căutați o 'Csárda' pentru o experiență autentică."
+          },
+          {
+            "name": "Túrós Csusza",
+            "tip": "Paste cu brânză de vaci și slănină afumată - o mâncare maghiară simplă, dar delicioasă."
+          },
+          {
+            "name": "Clătite Gundel",
+            "tip": "Un desert maghiar celebru: o clătită umplută cu nucă, servită cu sos de ciocolată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Palóc Goulash",
+            "tip": "A hearty but not too spicy goulash with green beans and dill. Look for a 'Csárda' for an authentic experience."
+          },
+          {
+            "name": "Túrós Csusza",
+            "tip": "Pasta with cottage cheese and smoked bacon - a simple but delicious Hungarian comfort food."
+          },
+          {
+            "name": "Gundel Pancake",
+            "tip": "A famous Hungarian dessert: a walnut-filled crepe served with chocolate sauce."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Robinson-Inseln",
+            "tip": "Finden Sie eine ruhige Bank am Wasser und beobachten Sie die Vögel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Garten des Franziskanerklosters",
+            "tip": "Ein abgeschiedener und friedlicher Ort, um dem Trubel der Stadt zu entkommen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick vom Feuerturm bei Sonnenuntergang",
+            "tip": "Wenn Sie Ihren Besuch richtig timen, werden Sie mit goldenem Licht über der Stadt belohnt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Robinson-szigetek partja",
+            "tip": "Keress egy csendes padot a vízparton, és figyeld a madarakat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ferences kolostor kertje",
+            "tip": "Elzárt és békés hely, ahol elmenekülhetsz a város nyüzsgésétől.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Tűztoronyból naplementekor",
+            "tip": "Ha jól időzíted a látogatást, arany fénnyel jutalmaz a város felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile Insulelor Robinson",
+            "tip": "Găsiți o bancă liniștită lângă apă și priviți păsările.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Mănăstirii Franciscane",
+            "tip": "Un loc izolat și pașnic pentru a evada din agitația orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de la Turnul de Foc la apus",
+            "tip": "Dacă vă programați corect vizita, veți fi răsplătit cu o lumină aurie peste oraș.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shores of the Robinson Islands",
+            "tip": "Find a quiet bench by the water and watch the birds.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Garden of the Franciscan Monastery",
+            "tip": "A secluded and peaceful spot to escape the hustle of the town.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the Fire Tower at sunset",
+            "tip": "If you time your visit right, you'll be rewarded with golden light over the town.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Bauernmarkt",
+            "tip": "Suchen Sie nach saisonalen Produkten, hausgemachten Marmeladen und lokalem Honig (normalerweise am Wochenende)."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Halten Sie Ausschau nach traditioneller Palóc-Stickerei und Töpferwaren in den kleinen Läden rund um den Hauptplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termelői piac",
+            "tip": "Keress szezonális termékeket, házi lekvárokat és helyi mézet (általában hétvégén)."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keresd a hagyományos palóc hímzést és kerámiát a főtér körüli kis boltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală a fermierilor",
+            "tip": "Căutați produse de sezon, gemuri de casă și miere locală (de obicei în weekend)."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Fiți atenți la broderiile și ceramica tradițională Palóc în magazinele mici din jurul pieței principale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Farmers' Market",
+            "tip": "Look for seasonal produce, homemade jams, and local honey (usually on weekends)."
+          },
+          {
+            "name": "Artisan Shops",
+            "tip": "Keep an eye out for traditional Palóc embroidery and pottery in the small shops around the main square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Finden Sie einen zentralen Parkplatz für den ganzen Tag; das Zentrum ist klein und zu Fuß erreichbar.",
+          "Die Straßen können eng sein, fahren Sie also vorsichtig im historischen Kern.",
+          "Die Fahrt zu den Robinson-Inseln ist kurz und unkompliziert.",
+          "Überprüfen Sie die Parkvorschriften, um Strafzettel zu vermeiden."
+        ],
+        "hu": [
+          "Keress egy központi parkolót egész napra; a központ kicsi és gyalogosan bejárható.",
+          "Az utcák szűkek lehetnek, ezért óvatosan vezess a történelmi központban.",
+          "Az út a Robinson-szigetekhez rövid és egyszerű.",
+          "Ellenőrizd a parkolási szabályokat a büntetések elkerülése érdekében."
+        ],
+        "ro": [
+          "Găsiți o parcare centrală pentru întreaga zi; centrul este mic și se poate explora pe jos.",
+          "Străzile pot fi înguste, așa că conduceți cu atenție în nucleul istoric.",
+          "Drumul spre Insulele Robinson este scurt și simplu.",
+          "Verificați regulile de parcare pentru a evita amenzile."
+        ],
+        "en": [
+          "Find a central parking spot for the whole day; the center is small and walkable.",
+          "The streets can be narrow, so drive carefully in the historic core.",
+          "The drive to the Robinson Islands is short and straightforward.",
+          "Check parking regulations to avoid fines."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:11",
+      "total_km": 1.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof Szécsény",
+            "hu": "Érkezés a szécsényi buszpályaudvarra",
+            "ro": "Sosire la autogara Szécsény",
+            "en": "Arrival at Szécsény Bus Station"
+          },
+          "coords": [
+            19.522,
+            48.0815
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Von hier aus sind die meisten Sehenswürdigkeiten bequem zu Fuß erreichbar.",
+            "hu": "Innentől a legtöbb látnivaló kényelmesen elérhető gyalog.",
+            "ro": "De aici, majoritatea atracțiilor sunt la o distanță de mers pe jos.",
+            "en": "From here, most sights are within easy walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Borjúpást und Feuerturm",
+            "hu": "Borjúpást és Tűztorony",
+            "ro": "Borjúpást și Turnul de Foc",
+            "en": "Borjúpást and Fire Tower"
+          },
+          "coords": [
+            19.5185,
+            48.0833
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:18",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ihr erster Halt, um in die Atmosphäre der Stadt einzutauchen.",
+            "hu": "Az első megálló, hogy belemerülj a város hangulatába.",
+            "ro": "Prima oprire pentru a vă cufunda în atmosfera orașului.",
+            "en": "Your first stop to immerse yourself in the city's atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Franziskanerkloster und Kirche",
+            "hu": "Ferences kolostor és templom",
+            "ro": "Mănăstirea și Biserica Franciscană",
+            "en": "Franciscan Monastery and Church"
+          },
+          "coords": [
+            19.5195,
+            48.0842
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Ort der Stille, nur einen kurzen Spaziergang vom Trubel entfernt.",
+            "hu": "A csend helye, csak egy rövid sétára a nyüzsgéstől.",
+            "ro": "Un loc de liniște la doar o scurtă plimbare de agitație.",
+            "en": "A place of silence, just a short walk from the hustle and bustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Forgách",
+            "hu": "Forgách-kastély",
+            "ro": "Castelul Forgách",
+            "en": "Forgách Castle"
+          },
+          "coords": [
+            19.5208,
+            48.0855
+          ],
+          "category": "museums",
+          "arrive_at": "11:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein, um die reiche Sammlung des Museums zu erkunden.",
+            "hu": "Szánj elég időt a múzeum gazdag gyűjteményének felfedezésére.",
+            "ro": "Planificați suficient timp pentru a explora bogata colecție a muzeului.",
+            "en": "Plan enough time to explore the museum's rich collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            19.5185,
+            48.0838
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Es gibt viele Möglichkeiten rund um den Hauptplatz.",
+            "hu": "Számos lehetőség van a főtér környékén.",
+            "ro": "Există multe opțiuni în jurul pieței principale.",
+            "en": "There are many options around the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus und Stadtmauer",
+            "hu": "Városháza és Városfal",
+            "ro": "Primăria și Zidul Orașului",
+            "en": "Town Hall and Town Wall"
+          },
+          "coords": [
+            19.516,
+            48.0825
+          ],
+          "category": "historical",
+          "arrive_at": "14:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem Blick auf die Zivilverwaltung und die Verteidigungsgeschichte der Stadt.",
+            "hu": "Fejezd be a túrát a város polgári közigazgatásának és védelmi történelmének megtekintésével.",
+            "ro": "Încheiați-vă turul cu o privire asupra administrației civile și a istoriei defensive a orașului.",
+            "en": "End your tour with a look at the city's civil administration and defensive history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nach Ihrer Ankunft am Busbahnhof von Szécsény erkunden Sie die Stadt vollständig zu Fuß. Der Weg führt Sie vom zentralen Borjúpást zum Feuerturm und weiter zu den ruhigen religiösen Stätten. Der Vormittag gipfelt in einem Besuch des beeindruckenden Forgách-Schlosses. Nach dem Mittagessen im Herzen der Stadt entdecken Sie das Rathaus und die Überreste der alten Stadtmauern, bevor Sie am Nachmittag gemütlich zum Busbahnhof zurückkehren.",
+        "hu": "Miután megérkezett a szécsényi buszpályaudvarra, teljes egészében gyalogosan fedezi fel a várost. Az út a központi Borjúpástról a Tűztoronyhoz vezet, majd tovább a csendes vallási helyszínekhez. A délelőtt a lenyűgöző Forgách-kastély meglátogatásával csúcsosodik ki. A város szívében elköltött ebéd után felfedezi a Városházát és a régi városfalak maradványait, mielőtt délután kényelmesen visszasétálna a buszpályaudvarra.",
+        "ro": "După sosirea la autogara din Szécsény, explorați orașul în întregime pe jos. Traseul vă duce de la Borjúpást central la Turnul de Foc și mai departe la siturile religioase liniștite. Dimineața culminează cu o vizită la impresionantul Castel Forgách. După prânzul în inima orașului, descoperiți Primăria și rămășițele vechilor ziduri ale orașului, înainte de a vă întoarce pe jos la autogară după-amiaza.",
+        "en": "After arriving at Szécsény's bus station, you explore the town entirely on foot. The path takes you from the central Borjúpást to the Fire Tower and on to the quiet religious sites. The morning culminates in a visit to the impressive Forgách Castle. After lunch in the heart of the town, you'll discover the Town Hall and the remains of the old town walls before strolling back to the bus station in the afternoon."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Palócgulasch",
+            "tip": "Ein herzhafter, aber nicht zu scharfer Gulasch mit grünen Bohnen und Dill. Suchen Sie nach einem 'Csárda' für ein authentisches Erlebnis."
+          },
+          {
+            "name": "Túrós Csusza",
+            "tip": "Nudeln mit Quark und geräuchertem Speck – ein einfaches, aber köstliches ungarisches Komfortessen."
+          },
+          {
+            "name": "Gundel-Palatschinken",
+            "tip": "Ein berühmtes ungarisches Dessert: ein mit Walnuss gefüllter Crêpe, serviert mit Schokoladensauce."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palócgulyás",
+            "tip": "Kiadós, de nem túl csípős gulyás zöldbabbal és kaporral. Keress egy csárdát az autentikus élményért."
+          },
+          {
+            "name": "Túrós Csusza",
+            "tip": "Tésztás étel túróval és füstölt szalonnával – egyszerű, de finom magyar kényelmi étel."
+          },
+          {
+            "name": "Gundel-palacsinta",
+            "tip": "Híres magyar desszert: dióval töltött palacsinta csokoládéöntettel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gulaș Palóc",
+            "tip": "Un gulaș consistent, dar nu prea picant, cu fasole verde și mărar. Căutați o 'Csárda' pentru o experiență autentică."
+          },
+          {
+            "name": "Túrós Csusza",
+            "tip": "Paste cu brânză de vaci și slănină afumată - o mâncare maghiară simplă, dar delicioasă."
+          },
+          {
+            "name": "Clătite Gundel",
+            "tip": "Un desert maghiar celebru: o clătită umplută cu nucă, servită cu sos de ciocolată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Palóc Goulash",
+            "tip": "A hearty but not too spicy goulash with green beans and dill. Look for a 'Csárda' for an authentic experience."
+          },
+          {
+            "name": "Túrós Csusza",
+            "tip": "Pasta with cottage cheese and smoked bacon - a simple but delicious Hungarian comfort food."
+          },
+          {
+            "name": "Gundel Pancake",
+            "tip": "A famous Hungarian dessert: a walnut-filled crepe served with chocolate sauce."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Garten des Franziskanerklosters",
+            "tip": "Ein abgeschiedener und friedlicher Ort, um dem Trubel der Stadt zu entkommen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ein Spaziergang entlang der Stadtmauer",
+            "tip": "In den ruhigeren Abschnitten können Sie die Geschichte auf sich wirken lassen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Eine Bank im Schlosspark",
+            "tip": "Nach dem Museumsbesuch können Sie hier im Schatten der Bäume entspannen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ferences kolostor kertje",
+            "tip": "Elzárt és békés hely, ahol elmenekülhetsz a város nyüzsgésétől.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Séta a városfal mentén",
+            "tip": "A csendesebb szakaszokon magadba szívhatod a történelmet.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Egy pad a kastélyparkban",
+            "tip": "A múzeumlátogatás után itt pihenhetsz a fák árnyékában.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Mănăstirii Franciscane",
+            "tip": "Un loc izolat și pașnic pentru a evada din agitația orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "O plimbare de-a lungul zidului orașului",
+            "tip": "În secțiunile mai liniștite, puteți absorbi istoria.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "O bancă în parcul castelului",
+            "tip": "După vizitarea muzeului, vă puteți relaxa aici la umbra copacilor.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Garden of the Franciscan Monastery",
+            "tip": "A secluded and peaceful spot to escape the hustle of the town.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A walk along the town wall",
+            "tip": "In the quieter sections, you can soak up the history.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A bench in the castle park",
+            "tip": "After visiting the museum, you can relax here in the shade of the trees.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Bauernmarkt",
+            "tip": "Suchen Sie nach saisonalen Produkten, hausgemachten Marmeladen und lokalem Honig (normalerweise am Wochenende)."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Halten Sie Ausschau nach traditioneller Palóc-Stickerei und Töpferwaren in den kleinen Läden rund um den Hauptplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termelői piac",
+            "tip": "Keress szezonális termékeket, házi lekvárokat és helyi mézet (általában hétvégén)."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keresd a hagyományos palóc hímzést és kerámiát a főtér körüli kis boltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală a fermierilor",
+            "tip": "Căutați produse de sezon, gemuri de casă și miere locală (de obicei în weekend)."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Fiți atenți la broderiile și ceramica tradițională Palóc în magazinele mici din jurul pieței principale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Farmers' Market",
+            "tip": "Look for seasonal produce, homemade jams, and local honey (usually on weekends)."
+          },
+          {
+            "name": "Artisan Shops",
+            "tip": "Keep an eye out for traditional Palóc embroidery and pottery in the small shops around the main square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere für die Rückfahrt.",
+          "Alle wichtigen Sehenswürdigkeiten in Szécsény sind vom Busbahnhof aus leicht zu Fuß erreichbar.",
+          "Dies ist eine sehr fußgängerfreundliche Stadt, also sind keine zusätzlichen Transportmittel erforderlich.",
+          "Kaufen Sie Rückfahrkarten im Voraus, wenn möglich."
+        ],
+        "hu": [
+          "Előre ellenőrizd a buszmenetrendet, különösen a visszautat.",
+          "Szécsény összes fő látnivalója könnyen megközelíthető gyalog a buszpályaudvarról.",
+          "Ez egy nagyon gyalogosbarát város, így nincs szükség további közlekedési eszközökre.",
+          "Ha lehetséges, vedd meg a retúrjegyeket előre."
+        ],
+        "ro": [
+          "Verificați programul autobuzelor în avans, în special pentru călătoria de întoarcere.",
+          "Toate atracțiile principale din Szécsény sunt la distanță de mers pe jos de la autogară.",
+          "Acesta este un oraș foarte prietenos cu pietonii, deci nu este necesar transport suplimentar.",
+          "Cumpărați bilete de întoarcere în avans, dacă este posibil."
+        ],
+        "en": [
+          "Check the bus schedule in advance, especially for the return trip.",
+          "All major sights in Szécsény are easily walkable from the bus station.",
+          "This is a very pedestrian-friendly town, so no additional transport is needed.",
+          "Buy return tickets in advance if possible."
+        ]
+      }
+    }
+  }
+}

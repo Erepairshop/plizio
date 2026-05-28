@@ -1,0 +1,1484 @@
+{
+  "city_id": "romania-toplita-cities-v2",
+  "anchor": {
+    "name": "Toplița",
+    "coords": [
+      25.35,
+      46.91
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentralpark",
+            "hu": "Központi park",
+            "ro": "Parcul Central",
+            "en": "Central Park"
+          },
+          "coords": [
+            25.3512,
+            46.9155
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem entspannten Spaziergang und genießen Sie die frische Morgenluft.",
+            "hu": "Kezdje a napot egy kellemes sétával, és élvezze a friss reggeli levegőt.",
+            "ro": "Începeți ziua cu o plimbare relaxantă, bucurându-vă de aerul proaspăt de dimineață.",
+            "en": "Start your day with a relaxing walk and enjoy the fresh morning air."
+          }
+        },
+        {
+          "name": {
+            "de": "Herrenhaus Urmánczy",
+            "hu": "Urmánczy-kúria",
+            "ro": "Conacul Urmánczy",
+            "en": "Urmánczy Mansion"
+          },
+          "coords": [
+            25.3538,
+            46.9171
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die einzigartige Architektur, die vom ungarischen Jugendstil inspiriert ist.",
+            "hu": "Csodálja meg az egyedi, magyar szecessziós ihletésű építészetet.",
+            "ro": "Admirați arhitectura unică, inspirată de stilul Art Nouveau maghiar.",
+            "en": "Admire the unique architecture inspired by the Hungarian Art Nouveau style."
+          }
+        },
+        {
+          "name": {
+            "de": "Heldendenkmal",
+            "hu": "Hősök emlékműve",
+            "ro": "Monumentul Eroilor",
+            "en": "Heroes' Monument"
+          },
+          "coords": [
+            25.352,
+            46.914
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:18",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Halt, um der lokalen Geschichte zu gedenken.",
+            "hu": "Egy rövid megálló, hogy megemlékezzen a helyi történelemről.",
+            "ro": "O scurtă oprire pentru a comemora istoria locală.",
+            "en": "A brief stop to commemorate local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Holzkirche von Călimănel",
+            "hu": "Kalimán-pataki fatemplom",
+            "ro": "Biserica de lemn din Călimănel",
+            "en": "Wooden Church of Călimănel"
+          },
+          "coords": [
+            25.341,
+            46.922
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schönes Beispiel für traditionelle rumänische Holzarchitektur.",
+            "hu": "A hagyományos román faépítészet gyönyörű példája.",
+            "ro": "Un exemplu frumos de arhitectură tradițională românească în lemn.",
+            "en": "A beautiful example of traditional Romanian wooden architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Thermischer Wasserfall",
+            "hu": "Hőforrás-vízesés",
+            "ro": "Cascada cu apă termală",
+            "en": "Thermal Waterfall"
+          },
+          "coords": [
+            25.358,
+            46.928
+          ],
+          "category": "natural features",
+          "arrive_at": "13:13",
+          "stay_min": 50,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein einzigartiges Naturschauspiel, besonders im Winter, wenn der Dampf aufsteigt.",
+            "hu": "Egyedülálló természeti látványosság, különösen télen, amikor gőzölög.",
+            "ro": "Un spectacol natural unic, mai ales iarna când se ridică aburii.",
+            "en": "A unique natural spectacle, especially in winter when the steam rises."
+          }
+        },
+        {
+          "name": {
+            "de": "Banffy-Thermalbad",
+            "hu": "Bánffy termálfürdő",
+            "ro": "Băile termale Banffy",
+            "en": "Banffy Thermal Spa"
+          },
+          "coords": [
+            25.359,
+            46.929
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:09",
+          "stay_min": 150,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im heilenden Thermalwasser, um den Tag ausklingen zu lassen.",
+            "hu": "Lazítson a gyógyhatású termálvízben a nap végén.",
+            "ro": "Relaxați-vă în apa termală vindecătoare pentru a încheia ziua.",
+            "en": "Relax in the healing thermal waters to end your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Am Morgen erkunden Sie das kulturelle Herz von Toplița, vom grünen Zentralpark bis zum architektonisch einzigartigen Urmánczy-Herrenhaus. Mittags führt Sie ein Spaziergang zur historischen Holzkirche und weiter zum beeindruckenden Thermalwasserfall. Der Nachmittag ist der puren Entspannung im Banffy-Thermalbad gewidmet, wo Sie die heilende Wirkung des Wassers genießen. Am Abend lassen Sie die Erlebnisse in einem der gemütlichen lokalen Restaurants Revue passieren.",
+        "hu": "Reggel fedezze fel Maroshévíz kulturális szívét, a zöldellő Központi parktól az építészetileg egyedi Urmánczy-kúriáig. Délben egy séta elvezeti a történelmi fatemplomhoz, majd tovább a lenyűgöző hőforrás-vízeséshez. A délután a Bánffy termálfürdőben a tiszta kikapcsolódásé, ahol élvezheti a víz gyógyító hatását. Este elevenítse fel az élményeket egy hangulatos helyi étteremben.",
+        "ro": "Dimineața explorați inima culturală a Topliței, de la Parcul Central plin de verdeață la Conacul Urmánczy, unic din punct de vedere arhitectural. La prânz, o plimbare vă duce la biserica istorică de lemn și mai departe, la impresionanta cascadă termală. După-amiaza este dedicată relaxării pure la Băile Termale Banffy, unde vă veți bucura de efectele vindecătoare ale apei. Seara, rememorați experiențele într-unul dintre restaurantele locale primitoare.",
+        "en": "In the morning, explore the cultural heart of Toplița, from the green Central Park to the architecturally unique Urmánczy Mansion. At noon, a walk takes you to the historic wooden church and further to the impressive thermal waterfall. The afternoon is dedicated to pure relaxation at the Banffy Thermal Spa, where you'll enjoy the healing effects of the water. In the evening, reflect on your experiences at one of the cozy local restaurants."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bulz Ciobanesc",
+            "tip": "Ein herzhaftes Gericht aus Polenta, Käse und oft Speck, perfekt nach einem langen Spaziergang."
+          },
+          {
+            "name": "Ciorbă de Burtă",
+            "tip": "Probieren Sie diese traditionelle Kuttelsuppe, wenn Sie abenteuerlustig sind."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Ein köstliches Dessert aus gebratenem Teig, serviert mit Sauerrahm und Marmelade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Juhászbulz",
+            "tip": "Kiadós puliszkaétel sajttal, gyakran szalonnával, tökéletes egy hosszú séta után."
+          },
+          {
+            "name": "Pacalleves (Ciorbă de burtă)",
+            "tip": "Kóstolja meg ezt a hagyományos levest, ha kalandvágyó."
+          },
+          {
+            "name": "Túrós fánk (Papanași)",
+            "tip": "Ízletes sült tészta desszert, tejföllel és lekvárral tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bulz Ciobanesc",
+            "tip": "Un fel de mâncare consistent din mămăligă, brânză și adesea slănină, perfect după o plimbare lungă."
+          },
+          {
+            "name": "Ciorbă de Burtă",
+            "tip": "Încercați această ciorbă tradițională dacă sunteți aventuros."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Un desert delicios din aluat prăjit, servit cu smântână și gem."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shepherd's Bulz",
+            "tip": "A hearty dish of polenta, cheese, and often bacon, perfect after a long walk."
+          },
+          {
+            "name": "Tripe Soup (Ciorbă de Burtă)",
+            "tip": "Try this traditional soup if you're feeling adventurous."
+          },
+          {
+            "name": "Papanași",
+            "tip": "A delicious fried dough dessert served with sour cream and jam."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Mureș-Flusses",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses, um dem Trubel der Stadt zu entkommen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Klostergarten Hl. Prophet Elias",
+            "tip": "Finden Sie Frieden und Stille im gepflegten Garten des Klosters.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Abend im Banffy-Bad",
+            "tip": "Das Thermalwasser ist am Abend besonders entspannend.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maros folyó partja",
+            "tip": "Egy csendes séta a folyó mentén, hogy elmeneküljön a város nyüzsgésétől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent Illés Próféta kolostor kertje",
+            "tip": "Találjon békét és csendet a kolostor gondozott kertjében.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Est a Bánffy fürdőben",
+            "tip": "A termálvíz este különösen pihentető.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Mureș",
+            "tip": "O plimbare liniștită de-a lungul râului pentru a scăpa de agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Mănăstirii Sfântul Prooroc Ilie",
+            "tip": "Găsiți pace și liniște în grădina îngrijită a mănăstirii.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Seara la Băile Banffy",
+            "tip": "Apa termală este deosebit de relaxantă seara.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Mureș River",
+            "tip": "A quiet walk along the river to escape the hustle and bustle of the town.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Garden of St. Elijah Prophet Monastery",
+            "tip": "Find peace and quiet in the monastery's well-kept garden.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Evening at Banffy Spa",
+            "tip": "The thermal water is especially relaxing in the evening.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte, hausgemachten Käse und traditionelle Wurstwaren."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Suchen Sie nach handgeschnitzten Holzgegenständen und bestickten Textilien als Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket, házi sajtot és hagyományos kolbászokat."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keressen kézzel faragott fa tárgyakat és hímzett textíliákat szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse proaspete, brânzeturi de casă și mezeluri tradiționale."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Căutați obiecte din lemn sculptate manual și textile brodate ca suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for fresh produce, homemade cheese, and traditional sausages."
+          },
+          {
+            "name": "Craft Shops",
+            "tip": "Look for hand-carved wooden items and embroidered textiles as souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit, um hydriert zu bleiben.",
+          "Prüfen Sie die Öffnungszeiten des Banffy-Bades im Voraus.",
+          "Vergessen Sie Ihre Badesachen und ein Handtuch nicht."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Hozzon magával újratölthető vizes palackot, hogy hidratált maradjon.",
+          "Ellenőrizze előre a Bánffy fürdő nyitvatartási idejét.",
+          "Ne felejtse otthon a fürdőruháját és a törölközőjét."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Luați o sticlă de apă reutilizabilă pentru a vă menține hidratat.",
+          "Verificați în avans programul de funcționare al Băilor Banffy.",
+          "Nu uitați costumul de baie și un prosop."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Bring a reusable water bottle to stay hydrated.",
+          "Check the opening hours of the Banffy Spa in advance.",
+          "Don't forget your swimwear and a towel."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentralpark",
+            "hu": "Központi park",
+            "ro": "Parcul Central",
+            "en": "Central Park"
+          },
+          "coords": [
+            25.3512,
+            46.9155
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Radtour mit einer Runde durch den Park.",
+            "hu": "Kezdje a biciklitúrát egy körrel a parkban.",
+            "ro": "Începeți turul cu bicicleta cu o tură prin parc.",
+            "en": "Start your bike tour with a lap around the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Herrenhaus Urmánczy",
+            "hu": "Urmánczy-kúria",
+            "ro": "Conacul Urmánczy",
+            "en": "Urmánczy Mansion"
+          },
+          "coords": [
+            25.3538,
+            46.9171
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:44",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab, während Sie das Anwesen erkunden.",
+            "hu": "Biztonságosan zárja le a kerékpárt, amíg felfedezi a birtokot.",
+            "ro": "Asigurați-vă bicicleta într-un loc sigur în timp ce explorați conacul.",
+            "en": "Securely lock your bike while you explore the mansion."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Hl. Prophet Elias",
+            "hu": "Szent Illés Próféta kolostor",
+            "ro": "Mănăstirea Sfântul Prooroc Ilie",
+            "en": "Monastery of the Holy Prophet Elijah"
+          },
+          "coords": [
+            25.335,
+            46.92
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:41",
+          "stay_min": 50,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Weg zum Kloster ist etwas steil, aber die Aussicht ist es wert.",
+            "hu": "Az út a kolostorhoz kissé meredek, de a kilátás megéri.",
+            "ro": "Drumul spre mănăstire este puțin abrupt, dar priveliștea merită efortul.",
+            "en": "The path to the monastery is a bit steep, but the view is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Skipiste Bradul",
+            "hu": "Bradul sípálya",
+            "ro": "Pârtia de schi Bradul",
+            "en": "Bradul Ski Slope"
+          },
+          "coords": [
+            25.365,
+            46.9
+          ],
+          "category": "natural features",
+          "arrive_at": "12:01",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Im Sommer eine tolle Gegend für eine Mountainbike-Herausforderung.",
+            "hu": "Nyáron remek terület egy hegyikerékpáros kihíváshoz.",
+            "ro": "Vara, este o zonă excelentă pentru o provocare cu bicicleta montană.",
+            "en": "In summer, it's a great area for a mountain biking challenge."
+          }
+        },
+        {
+          "name": {
+            "de": "Holzkirche von Călimănel",
+            "hu": "Kalimán-pataki fatemplom",
+            "ro": "Biserica de lemn din Călimănel",
+            "en": "Wooden Church of Călimănel"
+          },
+          "coords": [
+            25.341,
+            46.922
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein friedlicher Ort, um nach der Fahrt vom Skigebiet eine Pause einzulegen.",
+            "hu": "Békés hely a pihenésre a sípályáról való leereszkedés után.",
+            "ro": "Un loc pașnic pentru a lua o pauză după coborârea de la pârtia de schi.",
+            "en": "A peaceful spot to take a break after the ride from the ski slope."
+          }
+        },
+        {
+          "name": {
+            "de": "Thermischer Wasserfall",
+            "hu": "Hőforrás-vízesés",
+            "ro": "Cascada cu apă termală",
+            "en": "Thermal Waterfall"
+          },
+          "coords": [
+            25.358,
+            46.928
+          ],
+          "category": "natural features",
+          "arrive_at": "14:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fühlen Sie den warmen Sprühnebel des Wasserfalls – eine Belohnung nach der Radtour.",
+            "hu": "Érezze a vízesés meleg permetét – jutalom a biciklizés után.",
+            "ro": "Simțiți pulverizarea caldă a cascadei - o recompensă după turul cu bicicleta.",
+            "en": "Feel the warm spray from the waterfall – a reward after the bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Banffy-Thermalbad",
+            "hu": "Bánffy termálfürdő",
+            "ro": "Băile termale Banffy",
+            "en": "Banffy Thermal Spa"
+          },
+          "coords": [
+            25.359,
+            46.929
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:56",
+          "stay_min": 120,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Das perfekte Ende Ihrer Radtour: Entspannen Sie Ihre Muskeln im Thermalwasser.",
+            "hu": "A kerékpártúra tökéletes befejezése: lazítsa el izmait a termálvízben.",
+            "ro": "Finalul perfect pentru turul cu bicicleta: relaxați-vă mușchii în apa termală.",
+            "en": "The perfect end to your bike tour: relax your muscles in the thermal water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt im Zentrum von Toplița und führt Sie zum Urmánczy-Herrenhaus und dem steilen Anstieg zum Kloster des Heiligen Propheten Elias. Am Mittag erobern Sie die Wege rund um die Skipiste Bradul, bevor Sie zur ruhigen Holzkirche von Călimănel hinabfahren. Am Nachmittag erreichen Sie den einzigartigen Thermalwasserfall und beenden den Tag mit einer wohlverdienten Entspannung im Banffy-Thermalbad. Der Abend bietet die Gelegenheit, die lokale Küche zu genießen.",
+        "hu": "A kerékpártúra Maroshévíz központjából indul, elvezet az Urmánczy-kúriához és a Szent Illés Próféta kolostorhoz vezető meredek emelkedőhöz. Délben meghódítja a Bradul sípálya körüli ösvényeket, mielőtt leereszkedik a csendes Kalimán-pataki fatemplomhoz. Délután eléri az egyedülálló hőforrás-vízesést, és a napot a Bánffy termálfürdőben való megérdemelt pihenéssel zárja. Az este lehetőséget nyújt a helyi konyha megkóstolására.",
+        "ro": "Turul cu bicicleta începe în centrul Topliței, ducându-vă la Conacul Urmánczy și la urcușul abrupt spre Mănăstirea Sfântul Prooroc Ilie. La prânz, cuceriți potecile din jurul pârtiei de schi Bradul înainte de a coborî la liniștita biserică de lemn din Călimănel. După-amiaza ajungeți la cascada termală unică și încheiați ziua cu o relaxare binemeritată la Băile Termale Banffy. Seara oferă ocazia de a savura bucătăria locală.",
+        "en": "Your bike tour starts in the center of Toplița, taking you to the Urmánczy Mansion and up the steep climb to the Monastery of the Holy Prophet Elijah. At noon, you'll conquer the trails around the Bradul ski slope before descending to the quiet wooden church of Călimănel. In the afternoon, you'll reach the unique thermal waterfall and end the day with a well-deserved relaxation at the Banffy Thermal Spa. The evening offers a chance to savor the local cuisine."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bulz Ciobanesc",
+            "tip": "Ein herzhaftes Gericht aus Polenta, Käse und oft Speck, perfekt nach einem langen Spaziergang."
+          },
+          {
+            "name": "Ciorbă de Burtă",
+            "tip": "Probieren Sie diese traditionelle Kuttelsuppe, wenn Sie abenteuerlustig sind."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Ein köstliches Dessert aus gebratenem Teig, serviert mit Sauerrahm und Marmelade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Juhászbulz",
+            "tip": "Kiadós puliszkaétel sajttal, gyakran szalonnával, tökéletes egy hosszú séta után."
+          },
+          {
+            "name": "Pacalleves (Ciorbă de burtă)",
+            "tip": "Kóstolja meg ezt a hagyományos levest, ha kalandvágyó."
+          },
+          {
+            "name": "Túrós fánk (Papanași)",
+            "tip": "Ízletes sült tészta desszert, tejföllel és lekvárral tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bulz Ciobanesc",
+            "tip": "Un fel de mâncare consistent din mămăligă, brânză și adesea slănină, perfect după o plimbare lungă."
+          },
+          {
+            "name": "Ciorbă de Burtă",
+            "tip": "Încercați această ciorbă tradițională dacă sunteți aventuros."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Un desert delicios din aluat prăjit, servit cu smântână și gem."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shepherd's Bulz",
+            "tip": "A hearty dish of polenta, cheese, and often bacon, perfect after a long walk."
+          },
+          {
+            "name": "Tripe Soup (Ciorbă de Burtă)",
+            "tip": "Try this traditional soup if you're feeling adventurous."
+          },
+          {
+            "name": "Papanași",
+            "tip": "A delicious fried dough dessert served with sour cream and jam."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Mureș-Flusses",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses, um dem Trubel der Stadt zu entkommen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Klostergarten Hl. Prophet Elias",
+            "tip": "Finden Sie Frieden und Stille im gepflegten Garten des Klosters.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Abend im Banffy-Bad",
+            "tip": "Das Thermalwasser ist am Abend besonders entspannend.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maros folyó partja",
+            "tip": "Egy csendes séta a folyó mentén, hogy elmeneküljön a város nyüzsgésétől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent Illés Próféta kolostor kertje",
+            "tip": "Találjon békét és csendet a kolostor gondozott kertjében.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Est a Bánffy fürdőben",
+            "tip": "A termálvíz este különösen pihentető.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Mureș",
+            "tip": "O plimbare liniștită de-a lungul râului pentru a scăpa de agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Mănăstirii Sfântul Prooroc Ilie",
+            "tip": "Găsiți pace și liniște în grădina îngrijită a mănăstirii.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Seara la Băile Banffy",
+            "tip": "Apa termală este deosebit de relaxantă seara.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Mureș River",
+            "tip": "A quiet walk along the river to escape the hustle and bustle of the town.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Garden of St. Elijah Prophet Monastery",
+            "tip": "Find peace and quiet in the monastery's well-kept garden.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Evening at Banffy Spa",
+            "tip": "The thermal water is especially relaxing in the evening.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte, hausgemachten Käse und traditionelle Wurstwaren."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Suchen Sie nach handgeschnitzten Holzgegenständen und bestickten Textilien als Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket, házi sajtot és hagyományos kolbászokat."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keressen kézzel faragott fa tárgyakat és hímzett textíliákat szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse proaspete, brânzeturi de casă și mezeluri tradiționale."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Căutați obiecte din lemn sculptate manual și textile brodate ca suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for fresh produce, homemade cheese, and traditional sausages."
+          },
+          {
+            "name": "Craft Shops",
+            "tip": "Look for hand-carved wooden items and embroidered textiles as souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Einige Wege können steil sein, seien Sie also auf Anstiege vorbereitet.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad an den Haltestellen sicher abzustellen.",
+          "Tragen Sie einen Helm für Ihre Sicherheit."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket és a gumikat.",
+          "Néhány út meredek lehet, ezért készüljön fel az emelkedőkre.",
+          "Hozzon magával lakatot, hogy biztonságosan lezárhassa a kerékpárt a megállóknál.",
+          "Viseljen sisakot a biztonsága érdekében."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele și anvelopele.",
+          "Unele poteci pot fi abrupte, așa că fiți pregătiți pentru urcări.",
+          "Luați un lacăt pentru a vă asigura bicicleta la opriri.",
+          "Purtați o cască de protecție pentru siguranța dumneavoastră."
+        ],
+        "en": [
+          "Check your bike before leaving, especially the brakes and tires.",
+          "Some paths can be steep, so be prepared for climbs.",
+          "Bring a lock to secure your bike at stops.",
+          "Wear a helmet for your safety."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:39",
+      "total_km": 14.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Skipiste Bradul",
+            "hu": "Bradul sípálya",
+            "ro": "Pârtia de schi Bradul",
+            "en": "Bradul Ski Slope"
+          },
+          "coords": [
+            25.365,
+            46.9
+          ],
+          "category": "natural features",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Starten Sie am höchsten Punkt für eine tolle Aussicht, auch ohne Schnee.",
+            "hu": "Kezdje a legmagasabb ponton a nagyszerű kilátásért, akár hó nélkül is.",
+            "ro": "Începeți de la cel mai înalt punct pentru o priveliște minunată, chiar și fără zăpadă.",
+            "en": "Start at the highest point for a great view, even without snow."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Hl. Prophet Elias",
+            "hu": "Szent Illés Próféta kolostor",
+            "ro": "Mănăstirea Sfântul Prooroc Ilie",
+            "en": "Monastery of the Holy Prophet Elijah"
+          },
+          "coords": [
+            25.335,
+            46.92
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Fuße des Hügels und genießen Sie den kurzen Spaziergang hinauf.",
+            "hu": "Parkoljon a domb lábánál, és élvezze a rövid sétát felfelé.",
+            "ro": "Parcați la poalele dealului și bucurați-vă de scurta plimbare până sus.",
+            "en": "Park at the bottom of the hill and enjoy the short walk up."
+          }
+        },
+        {
+          "name": {
+            "de": "Holzkirche von Călimănel",
+            "hu": "Kalimán-pataki fatemplom",
+            "ro": "Biserica de lemn din Călimănel",
+            "en": "Wooden Church of Călimănel"
+          },
+          "coords": [
+            25.341,
+            46.922
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:38",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Kloster aus, um dieses Juwel der Holzarchitektur zu sehen.",
+            "hu": "Rövid séta a kolostortól, hogy megnézze ezt a faépítészeti gyöngyszemet.",
+            "ro": "O scurtă plimbare de la mănăstire pentru a vedea această bijuterie a arhitecturii în lemn.",
+            "en": "A short walk from the monastery to see this gem of wooden architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Herrenhaus Urmánczy",
+            "hu": "Urmánczy-kúria",
+            "ro": "Conacul Urmánczy",
+            "en": "Urmánczy Mansion"
+          },
+          "coords": [
+            25.3538,
+            46.9171
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:28",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Zentrums und erkunden Sie diesen Bereich zu Fuß.",
+            "hu": "Parkoljon a központhoz közel, és fedezze fel ezt a területet gyalog.",
+            "ro": "Parcați lângă centru și explorați această zonă pe jos.",
+            "en": "Park near the center and explore this area on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentralpark",
+            "hu": "Központi park",
+            "ro": "Parcul Central",
+            "en": "Central Park"
+          },
+          "coords": [
+            25.3512,
+            46.9155
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:32",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Ort für eine Mittagspause oder um ein Eis zu essen.",
+            "hu": "Szép hely egy ebédszünetre vagy egy fagyizásra.",
+            "ro": "Un loc frumos pentru o pauză de prânz sau pentru a mânca o înghețată.",
+            "en": "A lovely spot for a lunch break or to grab an ice cream."
+          }
+        },
+        {
+          "name": {
+            "de": "Thermischer Wasserfall",
+            "hu": "Hőforrás-vízesés",
+            "ro": "Cascada cu apă termală",
+            "en": "Thermal Waterfall"
+          },
+          "coords": [
+            25.358,
+            46.928
+          ],
+          "category": "natural features",
+          "arrive_at": "14:14",
+          "stay_min": 45,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Spaziergang vom Park zum Wasserfall ist angenehm und nicht zu lang.",
+            "hu": "A séta a parkból a vízeséshez kellemes és nem túl hosszú.",
+            "ro": "Plimbarea de la parc la cascadă este plăcută și nu prea lungă.",
+            "en": "The walk from the park to the waterfall is pleasant and not too long."
+          }
+        },
+        {
+          "name": {
+            "de": "Banffy-Thermalbad",
+            "hu": "Bánffy termálfürdő",
+            "ro": "Băile termale Banffy",
+            "en": "Banffy Thermal Spa"
+          },
+          "coords": [
+            25.359,
+            46.929
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:09",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lassen Sie Ihr Auto in der Nähe geparkt und beenden Sie den Tag entspannt im Spa.",
+            "hu": "Hagyja az autót a közelben parkolni, és fejezze be a napot pihenéssel a fürdőben.",
+            "ro": "Lăsați mașina parcată în apropiere și încheiați ziua relaxându-vă la spa.",
+            "en": "Leave your car parked nearby and finish the day relaxing at the spa."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Am Morgen fahren Sie zu den äußeren Sehenswürdigkeiten: Genießen Sie die Aussicht von der Skipiste Bradul und besuchen Sie dann das abgeschiedene Kloster. Mittags erkunden Sie das historische Zentrum zu Fuß, vom Urmánczy-Herrenhaus bis zum Zentralpark, bevor Sie zum Thermal-Cluster spazieren. Der Nachmittag ist ganz der Entspannung gewidmet, zuerst am Thermalwasserfall und dann im heilenden Wasser des Banffy-Bades. Abends kehren Sie zu Ihrem Auto zurück, erfrischt und bereit für ein herzhaftes Abendessen.",
+        "hu": "Reggel hajtson el a külső látnivalókhoz: élvezze a kilátást a Bradul sípályáról, majd látogasson el az eldugott kolostorba. Délben fedezze fel gyalog a történelmi központot, az Urmánczy-kúriától a Központi parkig, mielőtt átsétál a termálfürdőkhöz. A délután teljes egészében a pihenésé, először a hőforrás-vízesésnél, majd a Bánffy fürdő gyógyvizében. Este frissen és egy kiadós vacsorára készen tér vissza az autójához.",
+        "ro": "Dimineața conduceți spre atracțiile exterioare: bucurați-vă de priveliștea de pe pârtia de schi Bradul, apoi vizitați mănăstirea retrasă. La prânz, explorați centrul istoric pe jos, de la Conacul Urmánczy la Parcul Central, înainte de a vă plimba spre clusterul termal. După-amiaza este dedicată în întregime relaxării, mai întâi la cascada termală și apoi în apele vindecătoare de la Băile Banffy. Seara, vă întoarceți la mașină, reîmprospătat și gata pentru o cină copioasă.",
+        "en": "In the morning, drive to the outer attractions: enjoy the view from the Bradul ski slope, then visit the secluded monastery. At noon, explore the historic center on foot, from the Urmánczy Mansion to the Central Park, before strolling to the thermal cluster. The afternoon is entirely dedicated to relaxation, first at the thermal waterfall and then in the healing waters of the Banffy Spa. In the evening, you return to your car, refreshed and ready for a hearty dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bulz Ciobanesc",
+            "tip": "Ein herzhaftes Gericht aus Polenta, Käse und oft Speck, perfekt nach einem langen Spaziergang."
+          },
+          {
+            "name": "Ciorbă de Burtă",
+            "tip": "Probieren Sie diese traditionelle Kuttelsuppe, wenn Sie abenteuerlustig sind."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Ein köstliches Dessert aus gebratenem Teig, serviert mit Sauerrahm und Marmelade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Juhászbulz",
+            "tip": "Kiadós puliszkaétel sajttal, gyakran szalonnával, tökéletes egy hosszú séta után."
+          },
+          {
+            "name": "Pacalleves (Ciorbă de burtă)",
+            "tip": "Kóstolja meg ezt a hagyományos levest, ha kalandvágyó."
+          },
+          {
+            "name": "Túrós fánk (Papanași)",
+            "tip": "Ízletes sült tészta desszert, tejföllel és lekvárral tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bulz Ciobanesc",
+            "tip": "Un fel de mâncare consistent din mămăligă, brânză și adesea slănină, perfect după o plimbare lungă."
+          },
+          {
+            "name": "Ciorbă de Burtă",
+            "tip": "Încercați această ciorbă tradițională dacă sunteți aventuros."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Un desert delicios din aluat prăjit, servit cu smântână și gem."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shepherd's Bulz",
+            "tip": "A hearty dish of polenta, cheese, and often bacon, perfect after a long walk."
+          },
+          {
+            "name": "Tripe Soup (Ciorbă de Burtă)",
+            "tip": "Try this traditional soup if you're feeling adventurous."
+          },
+          {
+            "name": "Papanași",
+            "tip": "A delicious fried dough dessert served with sour cream and jam."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Mureș-Flusses",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses, um dem Trubel der Stadt zu entkommen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Klostergarten Hl. Prophet Elias",
+            "tip": "Finden Sie Frieden und Stille im gepflegten Garten des Klosters.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Abend im Banffy-Bad",
+            "tip": "Das Thermalwasser ist am Abend besonders entspannend.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maros folyó partja",
+            "tip": "Egy csendes séta a folyó mentén, hogy elmeneküljön a város nyüzsgésétől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent Illés Próféta kolostor kertje",
+            "tip": "Találjon békét és csendet a kolostor gondozott kertjében.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Est a Bánffy fürdőben",
+            "tip": "A termálvíz este különösen pihentető.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Mureș",
+            "tip": "O plimbare liniștită de-a lungul râului pentru a scăpa de agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Mănăstirii Sfântul Prooroc Ilie",
+            "tip": "Găsiți pace și liniște în grădina îngrijită a mănăstirii.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Seara la Băile Banffy",
+            "tip": "Apa termală este deosebit de relaxantă seara.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Mureș River",
+            "tip": "A quiet walk along the river to escape the hustle and bustle of the town.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Garden of St. Elijah Prophet Monastery",
+            "tip": "Find peace and quiet in the monastery's well-kept garden.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Evening at Banffy Spa",
+            "tip": "The thermal water is especially relaxing in the evening.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte, hausgemachten Käse und traditionelle Wurstwaren."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Suchen Sie nach handgeschnitzten Holzgegenständen und bestickten Textilien als Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket, házi sajtot és hagyományos kolbászokat."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keressen kézzel faragott fa tárgyakat és hímzett textíliákat szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse proaspete, brânzeturi de casă și mezeluri tradiționale."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Căutați obiecte din lemn sculptate manual și textile brodate ca suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for fresh produce, homemade cheese, and traditional sausages."
+          },
+          {
+            "name": "Craft Shops",
+            "tip": "Look for hand-carved wooden items and embroidered textiles as souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Planen Sie Ihre Parkplätze im Voraus, insbesondere in den belebteren Gegenden.",
+          "Ein GPS oder eine Navigations-App ist sehr zu empfehlen.",
+          "Halten Sie Kleingeld für eventuelle Parkgebühren bereit.",
+          "Lassen Sie keine Wertsachen im Auto sichtbar liegen."
+        ],
+        "hu": [
+          "Tervezze meg előre a parkolást, különösen a forgalmasabb területeken.",
+          "GPS vagy navigációs alkalmazás használata erősen ajánlott.",
+          "Készítsen elő aprópénzt az esetleges parkolási díjakhoz.",
+          "Ne hagyjon értékeket látható helyen az autóban."
+        ],
+        "ro": [
+          "Planificați-vă parcarea în avans, mai ales în zonele mai aglomerate.",
+          "Un GPS sau o aplicație de navigație este foarte recomandată.",
+          "Pregătiți monede pentru eventualele taxe de parcare.",
+          "Nu lăsați obiecte de valoare la vedere în mașină."
+        ],
+        "en": [
+          "Plan your parking in advance, especially in the busier areas.",
+          "A GPS or navigation app is highly recommended.",
+          "Keep some change handy for any parking fees.",
+          "Do not leave valuables visible in the car."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 7.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentralpark",
+            "hu": "Központi park",
+            "ro": "Parcul Central",
+            "en": "Central Park"
+          },
+          "coords": [
+            25.3512,
+            46.9155
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus ins Zentrum und beginnen Sie Ihren Tag hier.",
+            "hu": "Buszozzon be a központba, és itt kezdje a napot.",
+            "ro": "Luați un autobuz spre centru și începeți-vă ziua aici.",
+            "en": "Take a bus to the center and start your day here."
+          }
+        },
+        {
+          "name": {
+            "de": "Herrenhaus Urmánczy",
+            "hu": "Urmánczy-kúria",
+            "ro": "Conacul Urmánczy",
+            "en": "Urmánczy Mansion"
+          },
+          "coords": [
+            25.3538,
+            46.9171
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Park entfernt, leicht zu Fuß erreichbar.",
+            "hu": "Rövid séta a parktól, könnyen megközelíthető gyalog.",
+            "ro": "La o scurtă plimbare de parc, ușor accesibil pe jos.",
+            "en": "A short walk from the park, easily accessible on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Heldendenkmal",
+            "hu": "Hősök emlékműve",
+            "ro": "Monumentul Eroilor",
+            "en": "Heroes' Monument"
+          },
+          "coords": [
+            25.352,
+            46.914
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:08",
+          "stay_min": 20,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Auf dem Rückweg durch den Park gelegen.",
+            "hu": "A parkon keresztül visszafelé vezető úton található.",
+            "ro": "Situat în drumul de întoarcere prin parc.",
+            "en": "Located on your way back through the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Hl. Prophet Elias",
+            "hu": "Szent Illés Próféta kolostor",
+            "ro": "Mănăstirea Sfântul Prooroc Ilie",
+            "en": "Monastery of the Holy Prophet Elijah"
+          },
+          "coords": [
+            25.335,
+            46.92
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:18",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Prüfen Sie den Busfahrplan, da die Busse in diese Gegend möglicherweise seltener fahren.",
+            "hu": "Ellenőrizze a buszmenetrendet, mivel a buszok ritkábban járhatnak erre.",
+            "ro": "Verificați orarul autobuzelor, deoarece s-ar putea să fie mai rare în această zonă.",
+            "en": "Check the bus schedule as buses to this area might be less frequent."
+          }
+        },
+        {
+          "name": {
+            "de": "Banffy-Thermalbad",
+            "hu": "Bánffy termálfürdő",
+            "ro": "Băile termale Banffy",
+            "en": "Banffy Thermal Spa"
+          },
+          "coords": [
+            25.359,
+            46.929
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:03",
+          "stay_min": 150,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Thermalbereich für einen entspannten Nachmittag.",
+            "hu": "Buszozzon el a termálfürdőhöz egy pihentető délutánért.",
+            "ro": "Luați un autobuz spre zona termală pentru o după-amiază relaxantă.",
+            "en": "Take a bus to the thermal area for a relaxing afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Thermischer Wasserfall",
+            "hu": "Hőforrás-vízesés",
+            "ro": "Cascada cu apă termală",
+            "en": "Thermal Waterfall"
+          },
+          "coords": [
+            25.358,
+            46.928
+          ],
+          "category": "natural features",
+          "arrive_at": "16:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Spa, um dieses Naturwunder zu sehen.",
+            "hu": "Rövid séta a fürdőtől, hogy megnézze ezt a természeti csodát.",
+            "ro": "O scurtă plimbare de la spa pentru a vedea această minune naturală.",
+            "en": "A short walk from the spa to see this natural wonder."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Toplița, indem Sie die zentralen Sehenswürdigkeiten wie den Park und das Urmánczy-Herrenhaus zu Fuß erkunden. Am Mittag bringt Sie ein Bus zum ruhigen Kloster des Heiligen Propheten Elias. Am Nachmittag fahren Sie mit dem Bus zum Thermalbereich. Dort können Sie sich im Banffy-Bad entspannen und einen kurzen Spaziergang zum beeindruckenden Thermalwasserfall machen. Am Abend kehren Sie mit dem Bus ins Stadtzentrum zurück.",
+        "hu": "Kezdje a napot Maroshévíz szívében, gyalogosan felfedezve a központi látnivalókat, mint a park és az Urmánczy-kúria. Délben egy busz elviszi a csendes Szent Illés Próféta kolostorhoz. Délután busszal utazik a termálfürdő negyedébe. Itt pihenhet a Bánffy fürdőben, és tehet egy rövid sétát a lenyűgöző hőforrás-vízeséshez. Este busszal tér vissza a városközpontba.",
+        "ro": "Începeți ziua în inima Topliței, explorând pe jos atracțiile centrale, cum ar fi parcul și Conacul Urmánczy. La prânz, un autobuz vă duce la liniștita Mănăstire Sfântul Prooroc Ilie. După-amiaza, luați autobuzul spre zona termală. Acolo vă puteți relaxa la Băile Banffy și puteți face o scurtă plimbare până la impresionanta cascadă termală. Seara, reveniți în centrul orașului cu autobuzul.",
+        "en": "Start your day in the heart of Toplița, exploring the central sights like the park and Urmánczy Mansion on foot. At noon, a bus takes you to the serene Monastery of the Holy Prophet Elijah. In the afternoon, you'll travel by bus to the thermal district. There you can relax at the Banffy Spa and take a short walk to the impressive thermal waterfall. In the evening, return to the town center by bus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bulz Ciobanesc",
+            "tip": "Ein herzhaftes Gericht aus Polenta, Käse und oft Speck, perfekt nach einem langen Spaziergang."
+          },
+          {
+            "name": "Ciorbă de Burtă",
+            "tip": "Probieren Sie diese traditionelle Kuttelsuppe, wenn Sie abenteuerlustig sind."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Ein köstliches Dessert aus gebratenem Teig, serviert mit Sauerrahm und Marmelade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Juhászbulz",
+            "tip": "Kiadós puliszkaétel sajttal, gyakran szalonnával, tökéletes egy hosszú séta után."
+          },
+          {
+            "name": "Pacalleves (Ciorbă de burtă)",
+            "tip": "Kóstolja meg ezt a hagyományos levest, ha kalandvágyó."
+          },
+          {
+            "name": "Túrós fánk (Papanași)",
+            "tip": "Ízletes sült tészta desszert, tejföllel és lekvárral tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bulz Ciobanesc",
+            "tip": "Un fel de mâncare consistent din mămăligă, brânză și adesea slănină, perfect după o plimbare lungă."
+          },
+          {
+            "name": "Ciorbă de Burtă",
+            "tip": "Încercați această ciorbă tradițională dacă sunteți aventuros."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Un desert delicios din aluat prăjit, servit cu smântână și gem."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shepherd's Bulz",
+            "tip": "A hearty dish of polenta, cheese, and often bacon, perfect after a long walk."
+          },
+          {
+            "name": "Tripe Soup (Ciorbă de Burtă)",
+            "tip": "Try this traditional soup if you're feeling adventurous."
+          },
+          {
+            "name": "Papanași",
+            "tip": "A delicious fried dough dessert served with sour cream and jam."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Mureș-Flusses",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses, um dem Trubel der Stadt zu entkommen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Klostergarten Hl. Prophet Elias",
+            "tip": "Finden Sie Frieden und Stille im gepflegten Garten des Klosters.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Abend im Banffy-Bad",
+            "tip": "Das Thermalwasser ist am Abend besonders entspannend.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maros folyó partja",
+            "tip": "Egy csendes séta a folyó mentén, hogy elmeneküljön a város nyüzsgésétől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent Illés Próféta kolostor kertje",
+            "tip": "Találjon békét és csendet a kolostor gondozott kertjében.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Est a Bánffy fürdőben",
+            "tip": "A termálvíz este különösen pihentető.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Mureș",
+            "tip": "O plimbare liniștită de-a lungul râului pentru a scăpa de agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Mănăstirii Sfântul Prooroc Ilie",
+            "tip": "Găsiți pace și liniște în grădina îngrijită a mănăstirii.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Seara la Băile Banffy",
+            "tip": "Apa termală este deosebit de relaxantă seara.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Mureș River",
+            "tip": "A quiet walk along the river to escape the hustle and bustle of the town.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Garden of St. Elijah Prophet Monastery",
+            "tip": "Find peace and quiet in the monastery's well-kept garden.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Evening at Banffy Spa",
+            "tip": "The thermal water is especially relaxing in the evening.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte, hausgemachten Käse und traditionelle Wurstwaren."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Suchen Sie nach handgeschnitzten Holzgegenständen und bestickten Textilien als Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket, házi sajtot és hagyományos kolbászokat."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keressen kézzel faragott fa tárgyakat és hímzett textíliákat szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse proaspete, brânzeturi de casă și mezeluri tradiționale."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Căutați obiecte din lemn sculptate manual și textile brodate ca suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for fresh produce, homemade cheese, and traditional sausages."
+          },
+          {
+            "name": "Craft Shops",
+            "tip": "Look for hand-carved wooden items and embroidered textiles as souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Besorgen Sie sich eine Tageskarte für den Bus, wenn diese verfügbar ist, um Geld zu sparen.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, besonders für die letzte Fahrt zurück ins Zentrum.",
+          "Haben Sie Geduld, Busse können manchmal Verspätung haben.",
+          "Eine Transport-App auf Ihrem Handy kann bei der Routenplanung hilfreich sein."
+        ],
+        "hu": [
+          "Ha elérhető, vegyen buszos napijegyet, hogy pénzt takarítson meg.",
+          "Ellenőrizze előre a buszmenetrendet, különösen az utolsó, központba tartó járatot.",
+          "Legyen türelmes, a buszok néha késhetnek.",
+          "Egy közlekedési alkalmazás a telefonján segíthet az útvonaltervezésben."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru autobuz, dacă este disponibil, pentru a economisi bani.",
+          "Verificați din timp orarele autobuzelor, mai ales pentru ultima cursă înapoi spre centru.",
+          "Aveți răbdare, autobuzele pot avea uneori întârzieri.",
+          "O aplicație de transport pe telefon vă poate fi de ajutor în planificarea traseului."
+        ],
+        "en": [
+          "Get a day pass for the bus if available to save money.",
+          "Check the bus schedules in advance, especially for the last ride back to the center.",
+          "Be patient, buses can sometimes be delayed.",
+          "A transport app on your phone can be helpful for route planning."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1460 @@
+{
+  "city_id": "croatia-karlovac-cities-v2",
+  "anchor": {
+    "name": "Karlovac",
+    "coords": [
+      15.5553,
+      45.4929
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Karlovac-Stern (Altstadt)",
+            "hu": "Károlyvárosi Csillag (Óváros)",
+            "ro": "Steaua Karlovac (Orașul Vechi)",
+            "en": "Karlovac Star (Old Town)"
+          },
+          "coords": [
+            15.554,
+            45.493
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die einzigartige sechseckige Festungsanlage aus der Renaissance.",
+            "hu": "Csodálja meg az egyedülálló, hatszögletű reneszánsz erődítményt.",
+            "ro": "Admirați fortăreața renascentistă unică, în formă de hexagon.",
+            "en": "Admire the unique hexagonal Renaissance fortress layout."
+          }
+        },
+        {
+          "name": {
+            "de": "Franziskanerkloster und Museum",
+            "hu": "Ferences kolostor és múzeum",
+            "ro": "Mănăstirea și Muzeul Franciscan",
+            "en": "Franciscan Monastery and Museum"
+          },
+          "coords": [
+            15.556,
+            45.4915
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum beherbergt eine beeindruckende Sammlung sakraler Kunst.",
+            "hu": "A múzeum lenyűgöző szakrális művészeti gyűjteménynek ad otthont.",
+            "ro": "Muzeul găzduiește o colecție impresionantă de artă sacră.",
+            "en": "The museum houses an impressive collection of sacral art."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Nikolaus",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sf. Nicolae",
+            "en": "Church of St. Nicholas"
+          },
+          "coords": [
+            15.557,
+            45.4925
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die wunderschöne Ikonostase in dieser serbisch-orthodoxen Kirche.",
+            "hu": "Figyelje meg a gyönyörű ikonosztázt ebben a szerb ortodox templomban.",
+            "ro": "Observați frumoasa iconostas din această biserică ortodoxă sârbă.",
+            "en": "Notice the beautiful iconostasis in this Serbian Orthodox church."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum des Heimatkriegs",
+            "hu": "Honvédő Háború Múzeuma",
+            "ro": "Muzeul Războiului de Independență",
+            "en": "Museum of the Homeland War"
+          },
+          "coords": [
+            15.549,
+            45.496
+          ],
+          "category": "museums",
+          "arrive_at": "12:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein bewegendes Museum, das der jüngeren Geschichte Kroatiens gewidmet ist.",
+            "hu": "Egy megindító múzeum, amelyet Horvátország közelmúltjának szenteltek.",
+            "ro": "Un muzeu emoționant dedicat istoriei recente a Croației.",
+            "en": "A moving museum dedicated to Croatia's recent history."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquatika - Süßwasseraquarium",
+            "hu": "Aquatika - Édesvízi Akvárium",
+            "ro": "Aquatika - Acvariul de apă dulce",
+            "en": "Aquatika - Freshwater Aquarium"
+          },
+          "coords": [
+            15.542,
+            45.498
+          ],
+          "category": "museums",
+          "arrive_at": "14:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Unterwasserwelt der kroatischen Flüsse und Seen.",
+            "hu": "Fedezze fel a horvát folyók és tavak gazdag vízi világát.",
+            "ro": "Descoperiți bogata lume subacvatică a râurilor și lacurilor croate.",
+            "en": "Discover the rich underwater world of Croatian rivers and lakes."
+          }
+        },
+        {
+          "name": {
+            "de": "Foginovo Strandbad",
+            "hu": "Foginovo strand",
+            "ro": "Plaja Foginovo",
+            "en": "Foginovo Beach"
+          },
+          "coords": [
+            15.545,
+            45.501
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um sich an einem warmen Tag im Fluss Korana abzukühlen.",
+            "hu": "Tökéletes hely a felüdülésre a Korana folyóban egy meleg napon.",
+            "ro": "Locul perfect pentru a vă răcori în râul Korana într-o zi călduroasă.",
+            "en": "The perfect place to cool off in the Korana river on a warm day."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Dubovac",
+            "hu": "Dubovac vára",
+            "ro": "Castelul Dubovac",
+            "en": "Dubovac Castle"
+          },
+          "coords": [
+            15.529,
+            45.502
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "17:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick über Karlovac von diesem mittelalterlichen Schloss.",
+            "hu": "Élvezze a panorámát Károlyvárosra ebből a középkori várból.",
+            "ro": "Bucurați-vă de vederea panoramică asupra Karlovacului de la acest castel medieval.",
+            "en": "Enjoy the panoramic view over Karlovac from this medieval castle."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Karlovac, dem einzigartigen Festungsstern. Am Morgen erkunden Sie das historische Zentrum und seine Kirchen. Mittags tauchen Sie in die jüngere und aquatische Geschichte der Region ein. Der Nachmittag ist der Entspannung am Fluss und dem Aufstieg zur mittelalterlichen Burg für eine atemberaubende Aussicht gewidmet. Schließen Sie den Tag mit einem traditionellen Abendessen ab und lassen Sie die Eindrücke dieser Stadt der vier Flüsse auf sich wirken.",
+        "hu": "Kezdje a napot Károlyváros szívében, az egyedülálló csillagerődben. Délelőtt fedezze fel a történelmi központot és templomait. Délben merüljön el a régió közelmúltjában és vízi világában. A délután a folyóparti pihenésé és a középkori várhoz való felsétálásé, ahonnan lélegzetelállító a kilátás. Zárja a napot egy hagyományos vacsorával, és élvezze a négy folyó városának benyomásait.",
+        "ro": "Începeți ziua în inima Karlovacului, fortăreața unică în formă de stea. Dimineața explorați centrul istoric și bisericile sale. La prânz, scufundați-vă în istoria acvatică și recentă a regiunii. După-amiaza este dedicată relaxării pe malul râului și urcării la castelul medieval pentru priveliști uimitoare. Încheiați ziua cu o cină tradițională, reflectând la impresiile acestui oraș al celor patru râuri.",
+        "en": "Start your day in the heart of Karlovac, the unique fortress star. In the morning, explore the historic center and its churches. At midday, dive into the region's recent and aquatic history. The afternoon is for relaxing by the river and climbing to the medieval castle for stunning views. End the day with a traditional dinner, reflecting on the impressions of this city of four rivers."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lovački rogovi",
+            "tip": "Probieren Sie Wildgerichte in einem Restaurant in der Nähe der Burg Dubovac."
+          },
+          {
+            "name": "Štrukli",
+            "tip": "Eine lokale Teigwarenspezialität, süß oder herzhaft."
+          },
+          {
+            "name": "Fisch aus dem Fluss",
+            "tip": "Frischer Fisch aus einem der vier Flüsse von Karlovac."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lovački rogovi",
+            "tip": "Kóstoljon vadételeket egy étteremben a Dubovac vára közelében."
+          },
+          {
+            "name": "Štrukli",
+            "tip": "Helyi tészta specialitás, édesen vagy sósan."
+          },
+          {
+            "name": "Folyami hal",
+            "tip": "Friss hal Károlyváros négy folyójának egyikéből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lovački rogovi",
+            "tip": "Încercați preparate din vânat la un restaurant de lângă Castelul Dubovac."
+          },
+          {
+            "name": "Štrukli",
+            "tip": "O specialitate locală de patiserie, dulce sau sărată."
+          },
+          {
+            "name": "Pește de râu",
+            "tip": "Pește proaspăt din unul dintre cele patru râuri ale Karlovacului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lovački rogovi",
+            "tip": "Try game dishes at a restaurant near Dubovac Castle."
+          },
+          {
+            "name": "Štrukli",
+            "tip": "A local pastry specialty, either sweet or savory."
+          },
+          {
+            "name": "River fish",
+            "tip": "Fresh fish from one of Karlovac's four rivers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vrbanić-Garten",
+            "tip": "Ein ruhiger botanischer Garten, perfekt für einen friedlichen Spaziergang.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Flusses Korana",
+            "tip": "Finden Sie einen ruhigen Platz am Ufer und beobachten Sie das fließende Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Blick von der Burg Dubovac",
+            "tip": "Genießen Sie die Stille am späten Nachmittag mit Blick auf die Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vrbanić-kert",
+            "tip": "Csendes botanikus kert, tökéletes egy békés sétához.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Korana folyó partja",
+            "tip": "Keressen egy csendes helyet a parton, és nézze a víz folyását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a Dubovac várból",
+            "tip": "Élvezze a késő délutáni csendet a városra nyíló kilátással.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Vrbanić",
+            "tip": "O grădină botanică liniștită, perfectă pentru o plimbare pașnică.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malul râului Korana",
+            "tip": "Găsiți un loc liniștit pe mal și priviți apa curgând.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere de la Castelul Dubovac",
+            "tip": "Bucurați-vă de liniștea după-amiezii târzii cu vedere la oraș.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vrbanić Garden",
+            "tip": "A quiet botanical garden, perfect for a peaceful stroll.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Korana Riverbank",
+            "tip": "Find a quiet spot on the bank and watch the water flow.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from Dubovac Castle",
+            "tip": "Enjoy the late afternoon tranquility overlooking the city.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stadtmarkt Karlovac",
+            "tip": "Kaufen Sie frische lokale Produkte und handgemachte Waren."
+          },
+          {
+            "name": "Souvenirs bei der Burg Dubovac",
+            "tip": "Finden Sie einzigartige Andenken mit Bezug zur Geschichte der Burg."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Károlyvárosi városi piac",
+            "tip": "Vásároljon friss helyi termékeket és kézműves árukat."
+          },
+          {
+            "name": "Ajándéktárgyak a Dubovac várnál",
+            "tip": "Találjon egyedi, a vár történelméhez kapcsolódó emléktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața orașului Karlovac",
+            "tip": "Cumpărați produse locale proaspete și articole de artizanat."
+          },
+          {
+            "name": "Suveniruri la Castelul Dubovac",
+            "tip": "Găsiți suveniruri unice legate de istoria castelului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Karlovac City Market",
+            "tip": "Shop for fresh local produce and handmade goods."
+          },
+          {
+            "name": "Souvenirs at Dubovac Castle",
+            "tip": "Find unique keepsakes related to the castle's history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie bei warmem Wetter Badesachen für das Foginovo Strandbad mit.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus.",
+          "Ein Großteil der Altstadt ist eine Fußgängerzone, was das Spazierengehen sehr angenehm macht."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "Meleg időben vigyen fürdőruhát a Foginovo strandra.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét.",
+          "Az óváros nagy része sétálóövezet, ami nagyon kellemessé teszi a sétát."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Luați un costum de baie pentru plaja Foginovo pe vreme caldă.",
+          "Verificați în avans orele de funcționare ale muzeelor.",
+          "O mare parte din centrul vechi este pietonală, ceea ce face plimbarea foarte plăcută."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Bring a swimsuit for Foginovo Beach in warm weather.",
+          "Check the opening hours of the museums in advance.",
+          "Much of the old town is pedestrian-friendly, making it a pleasant walk."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Burg Dubovac",
+            "hu": "Dubovac vára",
+            "ro": "Castelul Dubovac",
+            "en": "Dubovac Castle"
+          },
+          "coords": [
+            15.529,
+            45.502
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einer großartigen Aussicht, bevor Sie in die Stadt hinabfahren.",
+            "hu": "Kezdje a napot egy remek kilátással, mielőtt legurul a városba.",
+            "ro": "Începeți ziua cu o priveliște minunată înainte de a coborî cu bicicleta în oraș.",
+            "en": "Start your day with a great view before cycling down into the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquatika - Süßwasseraquarium",
+            "hu": "Aquatika - Édesvízi Akvárium",
+            "ro": "Aquatika - Acvariul de apă dulce",
+            "en": "Aquatika - Freshwater Aquarium"
+          },
+          "coords": [
+            15.542,
+            45.498
+          ],
+          "category": "museums",
+          "arrive_at": "10:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein schöner Radweg führt am Fluss entlang zum Aquarium.",
+            "hu": "Szép kerékpárút vezet a folyó mentén az akváriumhoz.",
+            "ro": "O pistă de biciclete frumoasă duce la acvariu de-a lungul râului.",
+            "en": "A nice cycle path leads to the aquarium along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum des Heimatkriegs",
+            "hu": "Honvédő Háború Múzeuma",
+            "ro": "Muzeul Războiului de Independență",
+            "en": "Museum of the Homeland War"
+          },
+          "coords": [
+            15.549,
+            45.496
+          ],
+          "category": "museums",
+          "arrive_at": "12:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Nur eine kurze Radtour vom Aquarium entfernt, um mehr über die lokale Geschichte zu erfahren.",
+            "hu": "Csak egy rövid biciklizésre az akváriumtól, hogy többet tudjon meg a helyi történelemről.",
+            "ro": "La doar o scurtă plimbare cu bicicleta de la acvariu pentru a afla despre istoria locală.",
+            "en": "Just a short bike ride from the aquarium to learn about local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Karlovac-Stern (Altstadt)",
+            "hu": "Károlyvárosi Csillag (Óváros)",
+            "ro": "Steaua Karlovac (Orașul Vechi)",
+            "en": "Karlovac Star (Old Town)"
+          },
+          "coords": [
+            15.554,
+            45.493
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie die Gassen der Festung zu Fuß.",
+            "hu": "Tegye le a biciklit, és fedezze fel gyalog az erőd sikátorait.",
+            "ro": "Parcați bicicleta și explorați pe jos aleile fortăreței.",
+            "en": "Park your bike and explore the alleys of the fortress on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Vrbanić-Garten",
+            "hu": "Vrbanić-kert",
+            "ro": "Grădina Vrbanić",
+            "en": "Vrbanić Garden"
+          },
+          "coords": [
+            15.562,
+            45.487
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein schöner Ort für eine Pause, bevor Sie zum Fluss weiterfahren.",
+            "hu": "Szép hely egy kis pihenőre, mielőtt tovább tekersz a folyóhoz.",
+            "ro": "Un loc frumos pentru o pauză înainte de a continua spre râu.",
+            "en": "A lovely place for a break before you continue to the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Foginovo Strandbad",
+            "hu": "Foginovo strand",
+            "ro": "Plaja Foginovo",
+            "en": "Foginovo Beach"
+          },
+          "coords": [
+            15.545,
+            45.501
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:40",
+          "stay_min": 95,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einem erfrischenden Bad im Fluss Korana.",
+            "hu": "Zárja a kerékpártúrát egy frissítő fürdővel a Korana folyóban.",
+            "ro": "Încheiați turul cu bicicleta cu o baie răcoritoare în râul Korana.",
+            "en": "End your bike tour with a refreshing dip in the Korana river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie auf der Burg Dubovac für einen Panoramablick und radeln Sie dann hinunter zum Fluss, um das Aquatika zu besuchen. Mittags erkunden Sie die bewegte Geschichte im Heimatkriegsmuseum, bevor Sie in die sternförmige Altstadt fahren. Am Nachmittag entspannen Sie im Vrbanić-Garten und beenden den Tag mit einem Bad am beliebten Foginovo-Flussstrand. Diese Tour verbindet Kultur, Geschichte und Natur auf zwei Rädern.",
+        "hu": "Induljon a Dubovac várból a panorámáért, majd tekerjen le a folyóhoz az Aquatika meglátogatásához. Délben fedezze fel a megindító történelmet a Honvédő Háború Múzeumában, mielőtt a csillag alakú óvárosba kerekezik. Délután pihenjen a Vrbanić-kertben, és fejezze be a napot egy fürdőzéssel a népszerű Foginovo folyóparti strandon. Ez a túra ötvözi a kultúrát, a történelmet és a természetet két keréken.",
+        "ro": "Începeți la Castelul Dubovac pentru o vedere panoramică, apoi coborâți cu bicicleta la râu pentru a vizita Aquatika. La prânz, explorați istoria emoționantă la Muzeul Războiului de Independență înainte de a pedala spre orașul vechi în formă de stea. După-amiaza, relaxați-vă în Grădina Vrbanić și încheiați ziua cu o baie la populara plajă fluvială Foginovo. Acest tur combină cultura, istoria și natura pe două roți.",
+        "en": "Start at Dubovac Castle for a panoramic view, then cycle down to the river to visit Aquatika. At midday, explore the moving history at the Homeland War Museum before cycling to the star-shaped old town. In the afternoon, relax in the Vrbanić Garden and end the day with a swim at the popular Foginovo river beach. This tour combines culture, history, and nature on two wheels."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kavana-Restaurant 'Pod Starim Krovovima'",
+            "tip": "Ein klassisches Restaurant im Herzen der Stadt, ideal für ein Mittagessen."
+          },
+          {
+            "name": "Karlovacko Bier",
+            "tip": "Probieren Sie das berühmte lokale Bier, das hier gebraut wird."
+          },
+          {
+            "name": "Crna rotkva s sirom",
+            "tip": "Ein lokaler Snack aus schwarzem Rettich mit Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kavana-étterem 'Pod Starim Krovovima'",
+            "tip": "Klasszikus étterem a város szívében, ideális ebédre."
+          },
+          {
+            "name": "Karlovačko sör",
+            "tip": "Kóstolja meg a híres helyi sört, amelyet itt főznek."
+          },
+          {
+            "name": "Crna rotkva s sirom",
+            "tip": "Helyi harapnivaló fekete retekből sajttal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul-cafenea 'Pod Starim Krovovima'",
+            "tip": "Un restaurant clasic în inima orașului, perfect pentru prânz."
+          },
+          {
+            "name": "Berea Karlovacko",
+            "tip": "Încercați faimoasa bere locală produsă aici."
+          },
+          {
+            "name": "Crna rotkva s sirom",
+            "tip": "O gustare locală din ridiche neagră cu brânză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kavana-Restaurant 'Pod Starim Krovovima'",
+            "tip": "A classic restaurant in the heart of the city, perfect for lunch."
+          },
+          {
+            "name": "Karlovacko Beer",
+            "tip": "Try the famous local beer that is brewed here."
+          },
+          {
+            "name": "Crna rotkva s sirom",
+            "tip": "A local snack of black radish with cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Fluss Kupa",
+            "tip": "Eine friedliche Fahrt entlang des Flusses, weg vom Stadtzentrum.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Vrbanić-Garten",
+            "tip": "Ein verstecktes Juwel der Ruhe und Botanik.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang am Foginovo",
+            "tip": "Beobachten Sie, wie die Sonne über dem Wasser untergeht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Kupa folyó mentén",
+            "tip": "Békés tekerés a folyó mentén, távol a városközponttól.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Vrbanić-kert",
+            "tip": "A nyugalom és a botanika rejtett gyöngyszeme.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a Foginovónál",
+            "tip": "Nézze, ahogy a nap lemegy a víz felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul râului Kupa",
+            "tip": "O plimbare liniștită de-a lungul râului, departe de centrul orașului.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Grădina Vrbanić",
+            "tip": "O bijuterie ascunsă de liniște și botanică.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus de soare la Foginovo",
+            "tip": "Priviți soarele apunând peste apă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kupa River Cycle Path",
+            "tip": "A peaceful ride along the river, away from the city center.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Vrbanić Garden",
+            "tip": "A hidden gem of tranquility and botany.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset at Foginovo",
+            "tip": "Watch the sun set over the water.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Honigproduzenten",
+            "tip": "Suchen Sie nach Ständen, die Honig aus der Region Kordun verkaufen."
+          },
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "In Karlovac gibt es mehrere Geschäfte für Zubehör oder Reparaturen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méztermelők",
+            "tip": "Keressen standokat, ahol a Kordun régióból származó mézet árulnak."
+          },
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Károlyvárosban több üzlet is található kiegészítők vagy javítások céljából."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Producători locali de miere",
+            "tip": "Căutați tarabe care vând miere din regiunea Kordun."
+          },
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Karlovac are mai multe magazine pentru accesorii sau reparații."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey Producers",
+            "tip": "Look for stalls selling honey from the Kordun region."
+          },
+          {
+            "name": "Bike Shops",
+            "tip": "Karlovac has several shops for any accessories or repairs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Schließen Sie Ihr Fahrrad immer gut ab, wenn Sie es abstellen.",
+          "Die Stadt ist relativ flach, aber der Aufstieg zur Burg erfordert etwas Anstrengung.",
+          "Achten Sie auf Fußgänger auf den gemeinsamen Wegen entlang der Flüsse.",
+          "Einige Straßen in der Altstadt haben Kopfsteinpflaster, fahren Sie also vorsichtig."
+        ],
+        "hu": [
+          "Mindig zárja le jól a kerékpárját, amikor leparkolja.",
+          "A város viszonylag sík, de a várhoz való feljutás némi erőfeszítést igényel.",
+          "Vigyázzon a gyalogosokra a folyók menti közös utakon.",
+          "Néhány óvárosi utca macskaköves, ezért óvatosan közlekedjen."
+        ],
+        "ro": [
+          "Încuietăți întotdeauna bicicleta în siguranță când o lăsați.",
+          "Orașul este relativ plat, dar urcarea la castel necesită un oarecare efort.",
+          "Fiți atenți la pietoni pe potecile comune de-a lungul râurilor.",
+          "Unele străzi din orașul vechi au piatră cubică, așa că mergeți cu grijă."
+        ],
+        "en": [
+          "Always lock your bike securely when leaving it.",
+          "The city is relatively flat, but the climb to the castle requires some effort.",
+          "Be mindful of pedestrians on the shared paths along the rivers.",
+          "Some streets in the old town are cobblestoned, so ride with care."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 11.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Burg Dubovac",
+            "hu": "Dubovac vára",
+            "ro": "Castelul Dubovac",
+            "en": "Dubovac Castle"
+          },
+          "coords": [
+            15.529,
+            45.502
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Schloss und genießen Sie die morgendliche Aussicht.",
+            "hu": "Parkoljon a várnál, és élvezze a reggeli kilátást.",
+            "ro": "Parcați la castel și bucurați-vă de priveliștea de dimineață.",
+            "en": "Park at the castle and enjoy the morning view."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquatika & Museum des Heimatkriegs Cluster",
+            "hu": "Aquatika és Honvédő Háború Múzeuma Klaszter",
+            "ro": "Clusterul Aquatika și Muzeul Războiului de Independență",
+            "en": "Aquatika & Homeland War Museum Cluster"
+          },
+          "coords": [
+            15.545,
+            45.497
+          ],
+          "category": "museums",
+          "arrive_at": "10:45",
+          "stay_min": 200,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und besuchen Sie beide Museen zu Fuß, sie liegen nahe beieinander.",
+            "hu": "Parkoljon itt, és látogassa meg mindkét múzeumot gyalog, közel vannak egymáshoz.",
+            "ro": "Parcați aici și vizitați ambele muzee pe jos, sunt aproape unul de celălalt.",
+            "en": "Park here and visit both museums on foot, they are close to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Karlovac-Stern (Altstadt)",
+            "hu": "Károlyvárosi Csillag (Óváros)",
+            "ro": "Steaua Karlovac (Orașul Vechi)",
+            "en": "Karlovac Star (Old Town)"
+          },
+          "coords": [
+            15.554,
+            45.493
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.1,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Finden Sie einen Parkplatz am Rande des Sterns und erkunden Sie ihn zu Fuß.",
+            "hu": "Keressen parkolóhelyet a Csillag szélén, és fedezze fel gyalog.",
+            "ro": "Găsiți un loc de parcare la marginea Stelei și explorați pe jos.",
+            "en": "Find a parking spot on the edge of the Star and explore on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Franziskanerkloster und Kirche St. Nikolaus",
+            "hu": "Ferences kolostor és Szent Miklós-templom",
+            "ro": "Mănăstirea Franciscană și Biserica Sf. Nicolae",
+            "en": "Franciscan Monastery and Church of St. Nicholas"
+          },
+          "coords": [
+            15.5565,
+            45.492
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden wichtigen religiösen Stätten liegen nur wenige Gehminuten voneinander entfernt.",
+            "hu": "Ez a két fontos vallási helyszín csak pár perc sétára van egymástól.",
+            "ro": "Aceste două situri religioase importante se află la câteva minute de mers pe jos unul de celălalt.",
+            "en": "These two important religious sites are just a few minutes' walk from each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Foginovo Strandbad",
+            "hu": "Foginovo strand",
+            "ro": "Plaja Foginovo",
+            "en": "Foginovo Beach"
+          },
+          "coords": [
+            15.545,
+            45.501
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:44",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Fluss für eine entspannte Pause am Ende des Tages.",
+            "hu": "Hajtson le a folyóhoz egy pihentető szünetre a nap végén.",
+            "ro": "Conduceți la râu pentru o pauză relaxantă la sfârșitul zilei.",
+            "en": "Drive down to the river for a relaxing break at the end of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Vrbanić-Garten",
+            "hu": "Vrbanić-kert",
+            "ro": "Grădina Vrbanić",
+            "en": "Vrbanić Garden"
+          },
+          "coords": [
+            15.562,
+            45.487
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:49",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schließen Sie den Tag mit einem friedlichen Spaziergang durch diesen historischen Garten ab.",
+            "hu": "Zárja a napot egy békés sétával ebben a történelmi kertben.",
+            "ro": "Încheiați ziua cu o plimbare liniștită prin această grădină istorică.",
+            "en": "End the day with a peaceful stroll through this historic garden."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Karlovac in bequemen Clustern. Beginnen Sie auf der Burg Dubovac für einen atemberaubenden Morgenblick. Fahren Sie dann zum Museumscluster, um in die Welt der Flüsse und die lokale Geschichte einzutauchen. Nach dem Mittagessen parken Sie in der Nähe der Altstadt und erkunden die sternförmige Festung und ihre Kirchen zu Fuß. Beenden Sie den Tag mit einer kurzen Fahrt zum Flussufer für eine wohlverdiente Entspannung.",
+        "hu": "Autóval kényelmes klaszterekben fedezheti fel Károlyvárost. Kezdje a Dubovac váránál egy lélegzetelállító reggeli kilátásért. Ezután hajtson a múzeumi negyedbe, hogy elmerüljön a folyók világában és a helyi történelemben. Ebéd után parkoljon az óváros közelében, és fedezze fel gyalog a csillag alakú erődöt és templomait. Zárja a napot egy rövid autózással a folyópartra egy jól megérdemelt pihenésért.",
+        "ro": "Cu mașina, explorați Karlovac în clustere convenabile. Începeți la Castelul Dubovac pentru o priveliște matinală uluitoare. Apoi, conduceți la clusterul de muzee pentru a vă cufunda în lumea râurilor și istoria locală. După prânz, parcați lângă orașul vechi și explorați pe jos fortăreața în formă de stea și bisericile sale. Încheiați ziua cu o scurtă călătorie cu mașina până la malul râului pentru o relaxare binemeritată.",
+        "en": "By car, explore Karlovac in convenient clusters. Start at Dubovac Castle for a stunning morning view. Then, drive to the museum cluster to immerse yourself in the world of rivers and local history. After lunch, park near the old town and explore the star-shaped fortress and its churches on foot. End the day with a short drive to the riverbank for some well-deserved relaxation."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Kastel",
+            "tip": "Ein gehobenes Restaurant in der Nähe der Burg mit fantastischer Aussicht."
+          },
+          {
+            "name": "Konoba Kostanjac",
+            "tip": "Eine traditionelle Taverne, die für ihre Grillgerichte bekannt ist."
+          },
+          {
+            "name": "Pizzeria Tiffany",
+            "tip": "Eine beliebte Wahl für ein zwangloses Abendessen in der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kastel étterem",
+            "tip": "Elegáns étterem a vár közelében, fantasztikus kilátással."
+          },
+          {
+            "name": "Konoba Kostanjac",
+            "tip": "Hagyományos taverna, amely grillételeiről ismert."
+          },
+          {
+            "name": "Pizzeria Tiffany",
+            "tip": "Népszerű választás egy laza vacsorához a városban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Kastel",
+            "tip": "Un restaurant elegant lângă castel, cu o priveliște fantastică."
+          },
+          {
+            "name": "Konoba Kostanjac",
+            "tip": "O tavernă tradițională cunoscută pentru preparatele sale la grătar."
+          },
+          {
+            "name": "Pizzeria Tiffany",
+            "tip": "O alegere populară pentru o cină informală în oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Kastel",
+            "tip": "An upscale restaurant near the castle with fantastic views."
+          },
+          {
+            "name": "Konoba Kostanjac",
+            "tip": "A traditional tavern known for its grilled dishes."
+          },
+          {
+            "name": "Pizzeria Tiffany",
+            "tip": "A popular choice for a casual dinner in the city."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Arboretum Šumarske škole",
+            "tip": "Ein friedliches Arboretum, etwas außerhalb des Zentrums, mit dem Auto leicht erreichbar.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Die vier Flüsse",
+            "tip": "Fahren Sie zu einem ruhigen Ort an einem der Flüsse Kupa, Korana, Mrežnica oder Dobra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dubovac am frühen Morgen",
+            "tip": "Besuchen Sie die Burg, bevor die Menschenmassen ankommen, für eine meditative Erfahrung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Erdészeti Iskola Arborétuma",
+            "tip": "Békés arborétum a központtól kicsit távolabb, autóval könnyen megközelíthető.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "A négy folyó",
+            "tip": "Hajtson el egy csendes helyre a Kupa, Korana, Mrežnica vagy Dobra folyók egyikénél.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kora reggeli Dubovac",
+            "tip": "Látogassa meg a várat, mielőtt a tömeg megérkezik, egy meditatív élményért.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arboretumul Școlii Forestiere",
+            "tip": "Un arboretum pașnic, chiar în afara centrului, ușor accesibil cu mașina.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Cele patru râuri",
+            "tip": "Conduceți către un loc liniștit pe unul dintre râurile Kupa, Korana, Mrežnica sau Dobra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dubovac dimineața devreme",
+            "tip": "Vizitați castelul înainte de sosirea mulțimilor pentru o experiență meditativă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Arboretum of the Forestry School",
+            "tip": "A peaceful arboretum just outside the center, easily reachable by car.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "The Four Rivers",
+            "tip": "Drive to a quiet spot on one of the Kupa, Korana, Mrežnica, or Dobra rivers.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Early morning Dubovac",
+            "tip": "Visit the castle before the crowds arrive for a meditative experience.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Supernova Karlovac",
+            "tip": "Ein modernes Einkaufszentrum am Rande der Stadt für alle Ihre Bedürfnisse."
+          },
+          {
+            "name": "Käse von der Straße",
+            "tip": "Halten Sie Ausschau nach lokalen Verkäufern von hausgemachtem Käse auf den Landstraßen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Supernova Karlovac",
+            "tip": "Modern bevásárlóközpont a város szélén, minden igényt kielégít."
+          },
+          {
+            "name": "Sajt az út mentén",
+            "tip": "Keresse a helyi, házi sajtot árusítókat a vidéki utakon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supernova Karlovac",
+            "tip": "Un centru comercial modern la marginea orașului pentru toate nevoile dumneavoastră."
+          },
+          {
+            "name": "Brânză de la marginea drumului",
+            "tip": "Fiți atenți la vânzătorii locali de brânză de casă pe drumurile de țară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Supernova Karlovac",
+            "tip": "A modern shopping center on the outskirts of the city for all your needs."
+          },
+          {
+            "name": "Roadside Cheese",
+            "tip": "Look out for local vendors selling homemade cheese on the country roads."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken kann im Stadtzentrum eine Herausforderung sein, besonders an Wochentagen. Suchen Sie nach gebührenpflichtigen Parkplätzen.",
+          "Die Straßen in der Altstadt sind eng; fahren Sie langsam.",
+          "Ein Auto ermöglicht es Ihnen, auch die Umgebung von Karlovac zu erkunden, wie die Mrežnica-Schlucht.",
+          "Achten Sie auf die Parkzonen, um Strafzettel zu vermeiden."
+        ],
+        "hu": [
+          "A parkolás kihívást jelenthet a városközpontban, különösen hétköznap. Keressen fizetős parkolókat.",
+          "Az óváros utcái szűkek; vezessen lassan.",
+          "Az autó lehetővé teszi, hogy felfedezze Károlyváros környékét is, például a Mrežnica-kanyont.",
+          "Figyeljen a parkolási zónákra a bírságok elkerülése érdekében."
+        ],
+        "ro": [
+          "Parcarea poate fi o provocare în centrul orașului, mai ales în timpul săptămânii. Căutați parcări cu plată.",
+          "Străzile din orașul vechi sunt înguste; conduceți încet.",
+          "O mașină vă permite să explorați și împrejurimile Karlovacului, cum ar fi canionul Mrežnica.",
+          "Fiți atenți la zonele de parcare pentru a evita amenzile."
+        ],
+        "en": [
+          "Parking can be challenging in the city center, especially on weekdays. Look for paid parking lots.",
+          "The streets in the old town are narrow; drive slowly.",
+          "A car allows you to also explore the surroundings of Karlovac, like the Mrežnica canyon.",
+          "Pay attention to parking zones to avoid fines."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 8.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Karlovac-Stern (Altstadt)",
+            "hu": "Károlyvárosi Csillag (Óváros)",
+            "ro": "Steaua Karlovac (Orașul Vechi)",
+            "en": "Karlovac Star (Old Town)"
+          },
+          "coords": [
+            15.554,
+            45.493
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Hauptplatz, um Ihren Tag zu beginnen.",
+            "hu": "Menjen busszal a főtérre, hogy elkezdje a napot.",
+            "ro": "Luați un autobuz spre piața principală pentru a vă începe ziua.",
+            "en": "Take a bus to the main square to start your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Franziskanerkloster und Museum",
+            "hu": "Ferences kolostor és múzeum",
+            "ro": "Mănăstirea și Muzeul Franciscan",
+            "en": "Franciscan Monastery and Museum"
+          },
+          "coords": [
+            15.556,
+            45.4915
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz durch die historischen Straßen.",
+            "hu": "Rövid séta a főtérről a történelmi utcákon keresztül.",
+            "ro": "O scurtă plimbare de la piața principală prin străzile istorice.",
+            "en": "A short walk from the main square through the historic streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquatika - Süßwasseraquarium",
+            "hu": "Aquatika - Édesvízi Akvárium",
+            "ro": "Aquatika - Acvariul de apă dulce",
+            "en": "Aquatika - Freshwater Aquarium"
+          },
+          "coords": [
+            15.542,
+            45.498
+          ],
+          "category": "museums",
+          "arrive_at": "11:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in Richtung des Flusses Korana, um das Aquarium zu erreichen.",
+            "hu": "Menjen busszal a Korana folyó irányába, hogy elérje az akváriumot.",
+            "ro": "Luați un autobuz spre râul Korana pentru a ajunge la acvariu.",
+            "en": "Take a bus towards the Korana river to reach the aquarium."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum des Heimatkriegs",
+            "hu": "Honvédő Háború Múzeuma",
+            "ro": "Muzeul Războiului de Independență",
+            "en": "Museum of the Homeland War"
+          },
+          "coords": [
+            15.549,
+            45.496
+          ],
+          "category": "museums",
+          "arrive_at": "13:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dieses Museum befindet sich in Gehweite des Aquariums.",
+            "hu": "Ez a múzeum sétatávolságra van az akváriumtól.",
+            "ro": "Acest muzeu se află la distanță de mers pe jos de acvariu.",
+            "en": "This museum is within walking distance of the aquarium."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Dubovac",
+            "hu": "Dubovac vára",
+            "ro": "Castelul Dubovac",
+            "en": "Dubovac Castle"
+          },
+          "coords": [
+            15.529,
+            45.502
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine Buslinie bringt Sie auf den Hügel zur mittelalterlichen Burg.",
+            "hu": "Egy buszjárat felvisz a dombra a középkori várhoz.",
+            "ro": "O linie de autobuz vă va duce pe dealul castelului medieval.",
+            "en": "A bus line will take you up the hill to the medieval castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Foginovo Strandbad",
+            "hu": "Foginovo strand",
+            "ro": "Plaja Foginovo",
+            "en": "Foginovo Beach"
+          },
+          "coords": [
+            15.545,
+            45.501
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie von der Burg hinunter zum Flussstrand, um den Tag ausklingen zu lassen.",
+            "hu": "Sétáljon le a várból a folyóparti strandra, hogy befejezze a napot.",
+            "ro": "Coborâți pe jos de la castel la plaja fluvială pentru a încheia ziua.",
+            "en": "Walk down from the castle to the river beach to finish the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Karlovac mit öffentlichen Verkehrsmitteln, beginnend im sternförmigen Zentrum. Ein kurzer Spaziergang führt Sie zu den heiligen Stätten. Nehmen Sie dann einen Bus zum Flussufer für einen Besuch im Aquatika und dem nahegelegenen Museum. Am Nachmittag bringt Sie ein Bus auf den Hügel zur Burg Dubovac für eine fantastische Aussicht, bevor Sie den Tag am Flussstrand Foginovo ausklingen lassen.",
+        "hu": "Fedezze fel Károlyvárost tömegközlekedéssel, kezdve a csillag alakú központban. Egy rövid séta elvezeti a szent helyekhez. Ezután buszozzon a folyópartra az Aquatika és a közeli múzeum meglátogatásához. Délután egy busz felvisz a Dubovac várához a fantasztikus kilátásért, mielőtt a napot a Foginovo folyóparti strandon zárja.",
+        "ro": "Descoperiți Karlovac cu transportul public, începând din centrul în formă de stea. O scurtă plimbare vă duce la siturile sacre. Apoi, luați un autobuz spre malul râului pentru o vizită la Aquatika și la muzeul din apropiere. După-amiaza, un autobuz vă duce pe deal la Castelul Dubovac pentru o priveliște fantastică, înainte de a încheia ziua la plaja fluvială Foginovo.",
+        "en": "Discover Karlovac using public transport, starting in the star-shaped center. A short walk takes you to the sacred sites. Then, take a bus to the riverside for a visit to Aquatika and the nearby museum. In the afternoon, a bus takes you up the hill to Dubovac Castle for a fantastic view, before ending the day at the Foginovo river beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Greence",
+            "tip": "Ein gesundes Fast-Food-Restaurant in der Nähe des Busbahnhofs."
+          },
+          {
+            "name": "Burek",
+            "tip": "Ein perfekter schneller Imbiss, den Sie in vielen Bäckereien finden."
+          },
+          {
+            "name": "Eisdielen im Zentrum",
+            "tip": "Gönnen Sie sich nach einem Spaziergang ein Eis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Greence",
+            "tip": "Egészséges gyorsétterem a buszpályaudvar közelében."
+          },
+          {
+            "name": "Burek",
+            "tip": "Tökéletes gyors harapnivaló, amelyet számos pékségben megtalál."
+          },
+          {
+            "name": "Fagylaltozók a központban",
+            "tip": "Kényeztesse magát egy fagyival séta után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Greence",
+            "tip": "Un restaurant fast-food sănătos lângă autogară."
+          },
+          {
+            "name": "Burek",
+            "tip": "O gustare rapidă perfectă găsită la multe brutării."
+          },
+          {
+            "name": "Înghețată în centru",
+            "tip": "Răsfățați-vă cu o înghețată după o plimbare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Greence",
+            "tip": "A healthy fast-food place near the bus station."
+          },
+          {
+            "name": "Burek",
+            "tip": "A perfect quick snack found at many bakeries."
+          },
+          {
+            "name": "Ice cream shops in the center",
+            "tip": "Treat yourself to an ice cream after a walk."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirche St. Nikolaus",
+            "tip": "Finden Sie einen Moment der Ruhe in dieser wunderschönen orthodoxen Kirche.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Spaziergang entlang des Flusses Korana",
+            "tip": "Ein friedlicher Spaziergang vom Aquarium zum Strand.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Die Gärten um die Burg Dubovac",
+            "tip": "Erkunden Sie die ruhigen Bereiche rund um die Burgmauern.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Miklós-templom",
+            "tip": "Találjon egy pillanatnyi csendet ebben a gyönyörű ortodox templomban.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Séta a Korana folyó mentén",
+            "tip": "Békés séta az akváriumtól a strandig.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Dubovac várat körülvevő kertek",
+            "tip": "Fedezze fel a várfal körüli csendes területeket.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica Sf. Nicolae",
+            "tip": "Găsiți un moment de liniște în această frumoasă biserică ortodoxă.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Plimbare de-a lungul râului Korana",
+            "tip": "O plimbare liniștită de la acvariu la plajă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile din jurul Castelului Dubovac",
+            "tip": "Explorați zonele liniștite din jurul zidurilor castelului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Church of St. Nicholas",
+            "tip": "Find a moment of peace inside this beautiful Orthodox church.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Walk along the Korana River",
+            "tip": "A peaceful walk from the aquarium to the beach.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The gardens around Dubovac Castle",
+            "tip": "Explore the quiet areas surrounding the castle walls.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Kaufen Sie Zeitungen, Snacks oder eine Fahrkarte."
+          },
+          {
+            "name": "Geschäfte in der Altstadt",
+            "tip": "Stöbern Sie in den kleinen Geschäften rund um den Hauptplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszpályaudvaron",
+            "tip": "Vásároljon újságot, rágcsálnivalót vagy jegyet."
+          },
+          {
+            "name": "Boltok az óvárosban",
+            "tip": "Böngésszen a főtér körüli kis üzletekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la autogară",
+            "tip": "Cumpărați ziare, gustări sau un bilet."
+          },
+          {
+            "name": "Magazine în orașul vechi",
+            "tip": "Răsfoiți micile magazine din jurul pieței principale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus station",
+            "tip": "Buy newspapers, snacks, or a ticket."
+          },
+          {
+            "name": "Shops in the Old Town",
+            "tip": "Browse the small shops around the main square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere für Linien, die weniger häufig verkehren.",
+          "Die meisten Busse sind modern und klimatisiert.",
+          "Halten Sie Kleingeld für Tickets bereit, wenn Sie direkt beim Fahrer kaufen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha több utazást tervez.",
+          "Előre ellenőrizze a buszmenetrendet, különösen a ritkábban közlekedő járatok esetében.",
+          "A legtöbb busz modern és légkondicionált.",
+          "Készítsen aprópénzt a jegyekhez, ha közvetlenül a sofőrtől vásárol."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă plănuiți mai multe călătorii.",
+          "Verificați programul autobuzelor în avans, în special pentru liniile mai puțin frecvente.",
+          "Majoritatea autobuzelor sunt moderne și au aer condiționat.",
+          "Păstrați mărunțiș pentru bilete dacă cumpărați direct de la șofer."
+        ],
+        "en": [
+          "Buy a daily bus ticket if you plan on making multiple trips.",
+          "Check the bus schedule in advance, especially for less frequent lines.",
+          "Most buses are modern and air-conditioned.",
+          "Keep small change ready for tickets if buying directly from the driver."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1069 @@
+{
+  "city_id": "czechrepublic-sumperk-cities-v2",
+  "anchor": {
+    "name": "Mährisch Schönberg",
+    "coords": [
+      16.9706,
+      49.9653
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Friedensplatz",
+          "coords": [
+            16.9706,
+            49.9653
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der ideale Ausgangspunkt, um die historische Atmosphäre von Šumperk einzuatmen.",
+            "hu": "Tökéletes kiindulópont Šumperk történelmi hangulatának befogadására.",
+            "ro": "Punctul de plecare ideal pentru a absorbi atmosfera istorică din Šumperk.",
+            "en": "The perfect starting point to take in the historical atmosphere of Šumperk."
+          }
+        },
+        {
+          "name": "Rathaus Šumperk",
+          "coords": [
+            16.9708,
+            49.9652
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:37",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckende Fassade des Gebäudes, das den Platz dominiert.",
+            "hu": "Figyelje meg a teret uraló épület lenyűgöző homlokzatát.",
+            "ro": "Admirați fațada impresionantă a clădirii care domină piața.",
+            "en": "Notice the impressive facade of the building dominating the square."
+          }
+        },
+        {
+          "name": "St.-Johannes-der-Täufer-Kirche",
+          "coords": [
+            16.9715,
+            49.9655
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Werfen Sie einen Blick auf die prächtigen Barockaltäre im Inneren.",
+            "hu": "Vessen egy pillantást a lenyűgöző barokk oltárokra odabent.",
+            "ro": "Aruncați o privire la altarele baroce magnifice din interior.",
+            "en": "Take a look at the magnificent Baroque altars inside."
+          }
+        },
+        {
+          "name": "Geschader-Haus",
+          "coords": [
+            16.972,
+            49.9645
+          ],
+          "category": "museums",
+          "arrive_at": "10:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Hier erfahren Sie mehr über die dunklen Zeiten der Hexenprozesse im 17. Jahrhundert.",
+            "hu": "Itt többet megtudhat a 17. századi boszorkányperek sötét időszakáról.",
+            "ro": "Aici puteți afla mai multe despre vremurile întunecate ale proceselor vrăjitoarelor.",
+            "en": "Learn more about the dark times of the 17th-century witch trials here."
+          }
+        },
+        {
+          "name": "Kirche Mariä Verkündigung",
+          "coords": [
+            16.973,
+            49.966
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Fresken und die Architektur spiegeln die reiche Geschichte der Stadt wider.",
+            "hu": "A freskók és az építészet tükrözik a város gazdag történelmét.",
+            "ro": "Frescele și arhitectura reflectă istoria bogată a orașului.",
+            "en": "The frescoes and architecture reflect the rich history of the city."
+          }
+        },
+        {
+          "name": "Pavlínin-Hof",
+          "coords": [
+            16.976,
+            49.965
+          ],
+          "category": "museums",
+          "arrive_at": "13:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Neben Ausstellungen lädt der angrenzende Park zu einer kurzen Pause ein.",
+            "hu": "A kiállítások mellett a szomszédos park rövid pihenőre csábít.",
+            "ro": "Pe lângă expoziții, parcul adiacent vă invită la o scurtă pauză.",
+            "en": "Besides exhibitions, the adjacent park invites you for a short break."
+          }
+        },
+        {
+          "name": "Heimatmuseum",
+          "coords": [
+            16.9735,
+            49.9635
+          ],
+          "category": "museums",
+          "arrive_at": "15:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tiefere Einblicke in die regionale Kultur und Naturgeschichte.",
+            "hu": "Mélyebb betekintés a regionális kultúrába és természettörténetbe.",
+            "ro": "Perspective mai profunde asupra culturii și istoriei naturale regionale.",
+            "en": "Deeper insights into regional culture and natural history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Am Vormittag erkunden wir das Herz von Šumperk mit dem Friedensplatz, dem prächtigen Rathaus und der historischen Kirche. Nachmittags tauchen wir in die faszinierende und teils düstere Geschichte der Stadt ein, insbesondere bei den Ausstellungen zu den Hexenprozessen. Der Spaziergang ist leicht zu bewältigen und verbindet architektonische Highlights mit tiefgreifenden kulturellen Einblicken.",
+        "hu": "Délelőtt felfedezzük Šumperk szívét a Béke térrel, a pompás városházával és a történelmi templommal. Délután elmerülünk a város lenyűgöző és olykor sötét történelmében, különösen a boszorkányperekről szóló kiállításokon. A séta könnyen teljesíthető, és az építészeti fénypontokat ötvözi a mély kulturális betekintésekkel.",
+        "ro": "Dimineața explorăm inima orașului Šumperk cu Piața Păcii, magnifica primărie și biserica istorică. După-amiaza ne adâncim în istoria fascinantă și uneori întunecată a orașului, în special expozițiile despre procesele vrăjitoarelor. Plimbarea este ușor de parcurs și combină atracțiile arhitecturale cu perspective culturale profunde.",
+        "en": "In the morning, we explore the heart of Šumperk with Peace Square, the magnificent town hall, and the historic church. In the afternoon, we delve into the city's fascinating and sometimes dark history, especially the exhibitions on witch trials. The walk is easy to manage and combines architectural highlights with deep cultural insights."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Böhmische Knödel",
+            "tip": "Probieren Sie diese Spezialität in einem traditionellen Wirtshaus nahe dem Zentrum."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Ein erfrischendes tschechisches Bier gehört zu jeder Mahlzeit dazu."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cseh knédli",
+            "tip": "Kóstolja meg ezt a specialitást egy hagyományos vendéglőben a központ közelében."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Egy frissítő cseh sör minden étkezés elengedhetetlen része."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Găluște boeme",
+            "tip": "Încercați această specialitate într-o tavernă tradițională lângă centru."
+          },
+          {
+            "name": "Bere locală",
+            "tip": "O bere cehă răcoritoare este o necesitate la orice masă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bohemian dumplings",
+            "tip": "Try this specialty in a traditional tavern near the center."
+          },
+          {
+            "name": "Local beer",
+            "tip": "A refreshing Czech beer is a must with every meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park beim Pavlínin-Hof",
+            "tip": "Ein ruhiger Ort für eine Pause unter alten Bäumen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Park a Pavlínin-udvar mellett",
+            "tip": "Csendes hely egy kis pihenésre az öreg fák alatt.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul de la Curtea Pavlínin",
+            "tip": "Un loc liniștit pentru o pauză sub copaci bătrâni.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Park at Pavlínin Court",
+            "tip": "A quiet spot for a break under old trees.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs am Friedensplatz",
+            "tip": "Kleine Andenken und lokales Kunsthandwerk in den Gassen rund um den Platz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvenírek a Béke téren",
+            "tip": "Apró emléktárgyak és helyi kézműves termékek a tér körüli utcákban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri în Piața Păcii",
+            "tip": "Mici suveniruri și meșteșuguri locale pe străduțele din jurul pieței."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenirs at Peace Square",
+            "tip": "Small mementos and local crafts in the alleys around the square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Zentrum lässt sich am besten zu Fuß erkunden.",
+          "Achten Sie auf die Pflastersteine, bequemes Schuhwerk ist ratsam.",
+          "Einige Museen schließen montags, prüfen Sie die Öffnungszeiten im Voraus."
+        ],
+        "hu": [
+          "A központot a legjobb gyalogosan felfedezni.",
+          "Ügyeljen a macskakövekre, kényelmes cipő viselése ajánlott.",
+          "Néhány múzeum hétfőn zárva tart, ellenőrizze a nyitvatartást."
+        ],
+        "ro": [
+          "Centrul se explorează cel mai bine pe jos.",
+          "Atenție la pietrele de pavaj, se recomandă încălțăminte confortabilă.",
+          "Unele muzee sunt închise lunea, verificați din timp programul."
+        ],
+        "en": [
+          "The center is best explored on foot.",
+          "Watch out for the cobblestones, comfortable footwear is advisable.",
+          "Some museums are closed on Mondays, check opening hours in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:20",
+      "total_km": 3.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Friedensplatz",
+          "coords": [
+            16.9706,
+            49.9653
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Morgens ist der Platz noch angenehm leer für Radfahrer.",
+            "hu": "Reggel a tér még kellemesen üres a kerékpárosok számára.",
+            "ro": "Dimineața, piața este încă plăcut de goală pentru bicicliști.",
+            "en": "In the morning, the square is still pleasantly empty for cyclists."
+          }
+        },
+        {
+          "name": "Schiller-Denkmal",
+          "coords": [
+            16.978,
+            49.963
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:41",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein schöner Ort für einen kurzen Fotostopp.",
+            "hu": "Szép hely egy rövid fotómegállóhoz.",
+            "ro": "Un loc frumos pentru o scurtă oprire foto.",
+            "en": "A beautiful spot for a quick photo stop."
+          }
+        },
+        {
+          "name": "Pavlínin-Hof",
+          "coords": [
+            16.976,
+            49.965
+          ],
+          "category": "museums",
+          "arrive_at": "09:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahrräder können meist sicher in der Nähe abgestellt werden.",
+            "hu": "A kerékpárokat többnyire biztonságosan le lehet tenni a közelben.",
+            "ro": "Bicicletele pot fi de obicei parcate în siguranță în apropiere.",
+            "en": "Bicycles can usually be parked safely nearby."
+          }
+        },
+        {
+          "name": "Villa Doris",
+          "coords": [
+            16.9745,
+            49.9645
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein prächtiges Beispiel der lokalen Architektur des 19. Jahrhunderts.",
+            "hu": "A helyi 19. századi építészet pompás példája.",
+            "ro": "Un exemplu magnific al arhitecturii locale din secolul al XIX-lea.",
+            "en": "A magnificent example of local 19th-century architecture."
+          }
+        },
+        {
+          "name": "Geschader-Haus",
+          "coords": [
+            16.972,
+            49.9645
+          ],
+          "category": "museums",
+          "arrive_at": "12:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Lassen Sie sich von der Geschichte der Hexenprozesse fesseln.",
+            "hu": "Hagyja, hogy lenyűgözze a boszorkányperek története.",
+            "ro": "Lăsați-vă captivați de istoria proceselor vrăjitoarelor.",
+            "en": "Let yourself be captivated by the history of the witch trials."
+          }
+        },
+        {
+          "name": "St.-Johannes-der-Täufer-Kirche",
+          "coords": [
+            16.9715,
+            49.9655
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der letzte Halt bietet architektonische Ruhe und Besinnung.",
+            "hu": "Az utolsó megálló építészeti nyugalmat és elmélkedést kínál.",
+            "ro": "Ultima oprire oferă pace arhitecturală și contemplare.",
+            "en": "The last stop offers architectural peace and contemplation."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden wir entspannt die Highlights von Šumperk, vom zentralen Friedensplatz bis zum etwas außerhalb liegenden Schiller-Denkmal. Die kurzen Wege zwischen den Museen und historischen Villen machen die Route kurzweilig und flexibel. Eine ideale Tour für einen aktiven und kulturellen Vormittag.",
+        "hu": "Kerékpárral kényelmesen fedezzük fel Šumperk nevezetességeit, a központi Béke tértől a kissé kijjebb található Schiller-emlékműig. A múzeumok és történelmi villák közötti rövid távolságok szórakoztatóvá és rugalmassá teszik az utat. Ideális túra egy aktív és kulturális délelőtthöz.",
+        "ro": "Cu bicicleta explorăm relaxați atracțiile din Šumperk, de la Piața Păcii centrală până la Monumentul Schiller situat puțin mai departe. Distanțele scurte dintre muzee și vilele istorice fac traseul distractiv și flexibil. Un tur ideal pentru o dimineață activă și culturală.",
+        "en": "By bike, we relaxedly explore the highlights of Šumperk, from the central Peace Square to the slightly out-of-the-way Schiller Monument. The short distances between the museums and historic villas make the route entertaining and flexible. An ideal tour for an active and cultural morning."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kofola",
+            "tip": "Probieren Sie diese tschechische Limonade als Erfrischung nach dem Radfahren."
+          },
+          {
+            "name": "Palačinky",
+            "tip": "Süße Pfannkuchen zur Stärkung am Nachmittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kofola",
+            "tip": "Kóstolja meg ezt a cseh limonádét frissítőként biciklizés után."
+          },
+          {
+            "name": "Palačinky",
+            "tip": "Édes palacsinta délutáni erősítésként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kofola",
+            "tip": "Încercați această limonadă cehă ca răcoritoare după mersul pe bicicletă."
+          },
+          {
+            "name": "Palačinky",
+            "tip": "Clătite dulci pentru întărire după-amiaza."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kofola",
+            "tip": "Try this Czech lemonade as a refreshment after cycling."
+          },
+          {
+            "name": "Palačinky",
+            "tip": "Sweet pancakes for an energy boost in the afternoon."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtrand",
+            "tip": "Am Rande der Stadt gibt es ruhige Radwege mit Blick auf die Berge.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Város széle",
+            "tip": "A város szélén csendes kerékpárutak találhatók, hegyekre néző kilátással.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Periferia orașului",
+            "tip": "La marginea orașului există piste de biciclete liniștite cu vedere la munți.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "City outskirts",
+            "tip": "On the outskirts of the city there are quiet cycle paths with views of the mountains.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Kaufen Sie frisches Gebäck für ein Picknick unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékség",
+            "tip": "Vásároljon friss pékárut egy útközbeni piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie locală",
+            "tip": "Cumpărați produse de patiserie proaspete pentru un picnic pe drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local bakery",
+            "tip": "Buy fresh pastries for a picnic on the go."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Beachten Sie die Verkehrsregeln im Stadtzentrum.",
+          "Ein Fahrradschloss ist für die Museumsbesuche unerlässlich.",
+          "Die Strecken sind größtenteils flach und gut ausgebaut."
+        ],
+        "hu": [
+          "Vegye figyelembe a közlekedési szabályokat a városközpontban.",
+          "A múzeumlátogatásokhoz elengedhetetlen a kerékpárzár.",
+          "Az útvonalak nagyrészt síkok és jól kiépítettek."
+        ],
+        "ro": [
+          "Respectați regulile de circulație în centrul orașului.",
+          "O încuietoare pentru bicicletă este esențială pentru vizitele la muzee.",
+          "Traseele sunt în mare parte plate și bine dezvoltate."
+        ],
+        "en": [
+          "Observe the traffic rules in the city center.",
+          "A bicycle lock is essential for museum visits.",
+          "The routes are mostly flat and well developed."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:20",
+      "total_km": 3.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Friedensplatz",
+          "coords": [
+            16.9706,
+            49.9653
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto in der Nähe des Zentrums und beginnen Sie den Tag am Platz.",
+            "hu": "Parkolja le autóját a központ közelében, és kezdje a napot a téren.",
+            "ro": "Parcați mașina aproape de centru și începeți ziua în piață.",
+            "en": "Park your car near the center and start the day at the square."
+          }
+        },
+        {
+          "name": "Rathaus Šumperk",
+          "coords": [
+            16.9708,
+            49.9652
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:37",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Rathaus ist nur wenige Schritte vom Parkplatz entfernt.",
+            "hu": "A városháza csak néhány lépésre van a parkolótól.",
+            "ro": "Primăria este la doar câțiva pași de parcare.",
+            "en": "The town hall is just a few steps from the parking lot."
+          }
+        },
+        {
+          "name": "St.-Johannes-der-Täufer-Kirche",
+          "coords": [
+            16.9715,
+            49.9655
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die architektonischen Details dieser historischen Kirche.",
+            "hu": "Csodálja meg ennek a történelmi templomnak az építészeti részleteit.",
+            "ro": "Admirați detaliile arhitecturale ale acestei biserici istorice.",
+            "en": "Admire the architectural details of this historic church."
+          }
+        },
+        {
+          "name": "Heimatmuseum",
+          "coords": [
+            16.9735,
+            49.9635
+          ],
+          "category": "museums",
+          "arrive_at": "10:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum nächsten Cluster und parken Sie beim Museum.",
+            "hu": "Hajtson a következő zónába, és parkoljon le a múzeumnál.",
+            "ro": "Conduceți către următorul cluster și parcați la muzeu.",
+            "en": "Drive to the next cluster and park by the museum."
+          }
+        },
+        {
+          "name": "Geschader-Haus",
+          "coords": [
+            16.972,
+            49.9645
+          ],
+          "category": "museums",
+          "arrive_at": "12:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum zur nächsten faszinierenden Ausstellung.",
+            "hu": "Rövid séta a múzeumtól a következő lenyűgöző kiállításig.",
+            "ro": "O scurtă plimbare de la muzeu la următoarea expoziție fascinantă.",
+            "en": "A short walk from the museum to the next fascinating exhibition."
+          }
+        },
+        {
+          "name": "Pavlínin-Hof",
+          "coords": [
+            16.976,
+            49.965
+          ],
+          "category": "museums",
+          "arrive_at": "14:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt bringt Sie zu diesem kulturellen Zentrum.",
+            "hu": "Rövid autózás viszi el ebbe a kulturális központba.",
+            "ro": "Un scurt drum cu mașina vă aduce în acest centru cultural.",
+            "en": "A short drive brings you to this cultural center."
+          }
+        },
+        {
+          "name": "Villa Doris",
+          "coords": [
+            16.9745,
+            49.9645
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit der Besichtigung dieser schönen Residenz.",
+            "hu": "Fejezze be a napot ennek a gyönyörű rezidenciának a megtekintésével.",
+            "ro": "Încheiați ziua cu vizitarea acestei frumoase reședințe.",
+            "en": "End the day by visiting this beautiful residence."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden wir bequem die verschiedenen Viertel von Šumperk. Wir parken im historischen Zentrum für die ersten Erkundungen zu Fuß, fahren dann zu den Hauptmuseen und beenden den Tag bei den eleganten Villen und Parks. Dieses Cluster-Konzept spart Zeit und schont die Beine.",
+        "hu": "Autóval kényelmesen összekötjük Šumperk különböző negyedeit. A történelmi központban parkolunk az első gyalogos felfedezésekhez, majd a főbb múzeumokhoz hajtunk, és a napot az elegáns villáknál és parkoknál fejezzük be. Ez a zónás koncepció időt takarít meg és kíméli a lábakat.",
+        "ro": "Cu mașina conectăm convenabil diferitele cartiere din Šumperk. Parcăm în centrul istoric pentru primele explorări pe jos, apoi conducem la muzeele principale și terminăm ziua la vilele elegante și parcuri. Acest concept de cluster economisește timp și protejează picioarele.",
+        "en": "By car, we conveniently connect the different districts of Šumperk. We park in the historic center for the first explorations on foot, then drive to the main museums and end the day at the elegant villas and parks. This cluster concept saves time and spares your legs."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schweinebraten mit Kraut",
+            "tip": "Der Klassiker in tschechischen Gasthäusern."
+          },
+          {
+            "name": "Smažený sýr",
+            "tip": "Gebackener Käse, perfekt für ein schnelles und deftiges Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sertéssült káposztával",
+            "tip": "A cseh vendéglők klasszikusa."
+          },
+          {
+            "name": "Smažený sýr",
+            "tip": "Rántott sajt, tökéletes egy gyors és laktató ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Friptură de porc cu varză",
+            "tip": "Clasicul în tavernele cehe."
+          },
+          {
+            "name": "Smažený sýr",
+            "tip": "Cașcaval pane, perfect pentru un prânz rapid și copios."
+          }
+        ],
+        "en": [
+          {
+            "name": "Roast pork with cabbage",
+            "tip": "The classic in Czech taverns."
+          },
+          {
+            "name": "Smažený sýr",
+            "tip": "Fried cheese, perfect for a quick and hearty lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt am Stadtrand",
+            "tip": "Fahren Sie etwas aus der Stadt heraus für einen weiten Blick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópont a város szélén",
+            "tip": "Hajtson ki egy kicsit a városból a széles panorámáért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere la periferie",
+            "tip": "Conduceți puțin în afara orașului pentru o vedere panoramică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint on the outskirts",
+            "tip": "Drive a little out of town for a wide view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Supermarkt am Rand",
+            "tip": "Praktisch, um regionale Produkte wie Senf oder Oblaten zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szupermarket a peremvidéken",
+            "tip": "Praktikus regionális termékek, például mustár vagy ostya vásárlásához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarket la periferie",
+            "tip": "Practic pentru cumpărarea de produse regionale precum muștarul sau napolitanele."
+          }
+        ],
+        "en": [
+          {
+            "name": "Supermarket on the outskirts",
+            "tip": "Practical for buying regional products like mustard or wafers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die zentralen Parkplätze und gehen Sie innerhalb der Zonen zu Fuß.",
+          "Parkuhren sind oft in Betrieb, Münzen bereithalten.",
+          "Die Straßen im Zentrum können schmal sein."
+        ],
+        "hu": [
+          "Használja a központi parkolókat, és a zónákon belül gyalogoljon.",
+          "A parkolóórák gyakran működnek, készítsen elő aprópénzt.",
+          "A központban az utcák szűkek lehetnek."
+        ],
+        "ro": [
+          "Folosiți parcările centrale și mergeți pe jos în interiorul zonelor.",
+          "Parcometrele sunt adesea în funcțiune, aveți monede pregătite.",
+          "Străzile din centru pot fi înguste."
+        ],
+        "en": [
+          "Use the central parking lots and walk within the zones.",
+          "Parking meters are often in operation, have coins ready.",
+          "The streets in the center can be narrow."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Rathaus Šumperk",
+          "coords": [
+            16.9708,
+            49.9652
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die Bushaltestelle im Zentrum bringt Sie direkt zu den ersten Sehenswürdigkeiten.",
+            "hu": "A központban lévő buszmegálló közvetlenül az első látnivalókhoz viszi.",
+            "ro": "Stația de autobuz din centru vă duce direct la primele obiective turistice.",
+            "en": "The bus stop in the center takes you right to the first sights."
+          }
+        },
+        {
+          "name": "Friedensplatz",
+          "coords": [
+            16.9706,
+            49.9653
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:37",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Platz lädt zum Verweilen und Beobachten des bunten Treibens ein.",
+            "hu": "A tér elidőzésre és a színes forgatag megfigyelésére csábít.",
+            "ro": "Piața vă invită să zăboviți și să urmăriți agitația colorată.",
+            "en": "The square invites you to linger and watch the colorful hustle and bustle."
+          }
+        },
+        {
+          "name": "St.-Johannes-der-Täufer-Kirche",
+          "coords": [
+            16.9715,
+            49.9655
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nutzen Sie die ruhige Atmosphäre in der Kirche für eine kleine Pause.",
+            "hu": "Használja ki a templom nyugodt légkörét egy kis pihenésre.",
+            "ro": "Profitați de atmosfera liniștită din biserică pentru o mică pauză.",
+            "en": "Take advantage of the peaceful atmosphere in the church for a short break."
+          }
+        },
+        {
+          "name": "Pavlínin-Hof",
+          "coords": [
+            16.976,
+            49.965
+          ],
+          "category": "museums",
+          "arrive_at": "10:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine kurze Busfahrt bringt Sie in dieses Museums-Viertel.",
+            "hu": "Egy rövid buszút hozza el ebbe a múzeumi negyedbe.",
+            "ro": "O scurtă călătorie cu autobuzul vă aduce în acest cartier al muzeelor.",
+            "en": "A short bus ride takes you to this museum district."
+          }
+        },
+        {
+          "name": "Theater Šumperk",
+          "coords": [
+            16.975,
+            49.964
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur des lokalen Theaters.",
+            "hu": "Csodálja meg a helyi színház építészetét.",
+            "ro": "Admirați arhitectura teatrului local.",
+            "en": "Admire the architecture of the local theater."
+          }
+        },
+        {
+          "name": "Geschader-Haus",
+          "coords": [
+            16.972,
+            49.9645
+          ],
+          "category": "museums",
+          "arrive_at": "13:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zur Ausstellung über die Hexenprozesse.",
+            "hu": "Szálljon fel a buszra a boszorkányperekről szóló kiállításhoz.",
+            "ro": "Luați autobuzul spre expoziția despre procesele vrăjitoarelor.",
+            "en": "Take the bus to the exhibition on the witch trials."
+          }
+        },
+        {
+          "name": "Heimatmuseum",
+          "coords": [
+            16.9735,
+            49.9635
+          ],
+          "category": "museums",
+          "arrive_at": "15:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Den Abschluss bildet das umfassende Heimatmuseum, nur wenige Meter entfernt.",
+            "hu": "A programot a mindössze néhány méterre lévő átfogó helytörténeti múzeum zárja.",
+            "ro": "Programul se încheie la muzeul de istorie locală, la doar câțiva metri distanță.",
+            "en": "The program concludes at the comprehensive local history museum, just a few meters away."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln navigieren wir clever zwischen den wichtigsten Zonen von Šumperk. Vom historischen Rathaus über den Pavlínin-Hof bis hin zu den düsteren Ausstellungen im Geschader-Haus – die kurzen Busfahrten schonen die Kräfte und ermöglichen es, den Tag optimal für die vielen kulturellen Highlights zu nutzen.",
+        "hu": "Tömegközlekedéssel okosan navigálunk Šumperk legfontosabb zónái között. A történelmi városházától a Pavlínin-udvaron át a Geschader-ház komor kiállításaiig – a rövid buszutak kímélik az erőt, és lehetővé teszik, hogy a napot optimálisan kihasználjuk a számos kulturális fénypontra.",
+        "ro": "Folosind transportul public, navigăm inteligent între cele mai importante zone din Šumperk. De la primăria istorică la Curtea Pavlínin și la expozițiile sumbre din Casa Geschader - călătoriile scurte cu autobuzul economisesc energie și vă permit să valorificați la maximum ziua pentru numeroasele atracții culturale.",
+        "en": "Using public transport, we smartly navigate between the most important zones of Šumperk. From the historic town hall to the Pavlínin Court and the gloomy exhibitions in the Geschader House - the short bus rides save energy and allow you to make the most of the day for the many cultural highlights."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kaffee und Kuchen",
+            "tip": "Viele Cafés am Friedensplatz bieten nachmittags hervorragende Desserts an."
+          },
+          {
+            "name": "Biergulasch",
+            "tip": "Deftiges Essen, das sich gut mit dem lokalen ÖPNV verbinden lässt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kávé és sütemény",
+            "tip": "A Béke téren sok kávézó kínál kiváló desszerteket délutánonként."
+          },
+          {
+            "name": "Sörpörkölt",
+            "tip": "Kiadós étel, amely jól összeköthető a helyi tömegközlekedéssel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafea și prăjituri",
+            "tip": "Multe cafenele din Piața Păcii oferă deserturi excelente după-amiaza."
+          },
+          {
+            "name": "Gulaș cu bere",
+            "tip": "Mâncare consistentă care poate fi ușor combinată cu transportul public local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Coffee and cake",
+            "tip": "Many cafes on Peace Square offer excellent desserts in the afternoon."
+          },
+          {
+            "name": "Beer goulash",
+            "tip": "Hearty food that can be easily combined with local public transport."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park am Museum",
+            "tip": "Entspannen Sie nach der Ausstellung auf einer Bank.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Park a múzeumnál",
+            "tip": "Pihenjen meg a kiállítás után egy padon.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul de la muzeu",
+            "tip": "Relaxați-vă pe o bancă după expoziție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Park at the museum",
+            "tip": "Relax on a bench after the exhibition.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bahnhofsnähe",
+            "tip": "Rund um den zentralen Knotenpunkt finden Sie Kioske und kleinere Geschäfte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pályaudvar környéke",
+            "tip": "A központi csomópont körül kioszkokat és kisebb üzleteket talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zona gării",
+            "tip": "În jurul nodului central veți găsi chioșcuri și magazine mai mici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Station area",
+            "tip": "Around the central hub you will find kiosks and smaller shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket, um flexibel zu bleiben.",
+          "Die Busverbindungen sind am Wochenende oft weniger dicht getaktet.",
+          "Achten Sie auf die elektronischen Anzeigetafeln an den Haltestellen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a rugalmasság érdekében.",
+          "Hétvégén a buszjáratok gyakran ritkábban közlekednek.",
+          "Figyelje az elektronikus kijelzőket a megállókban."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru a rămâne flexibil.",
+          "Conexiunile de autobuz sunt adesea mai puțin frecvente în weekend.",
+          "Atenție la panourile electronice de la stații."
+        ],
+        "en": [
+          "Buy a day ticket to remain flexible.",
+          "Bus connections are often less frequent on weekends.",
+          "Pay attention to the electronic display boards at the stops."
+        ]
+      }
+    }
+  }
+}

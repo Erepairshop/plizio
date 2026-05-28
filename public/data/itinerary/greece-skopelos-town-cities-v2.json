@@ -1,0 +1,1451 @@
+{
+  "city_id": "greece-skopelos-town-cities-v2",
+  "anchor": {
+    "name": "Skopelos Stadt",
+    "coords": [
+      23.7167,
+      39.1167
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadtgassen & Frühstück",
+            "hu": "Óvárosi sikátorok és reggeli",
+            "ro": "Străduțele din Orașul Vechi și mic dejun",
+            "en": "Old Town Alleys & Breakfast"
+          },
+          "coords": [
+            23.7275,
+            39.1225
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den weiß getünchten Gassen und entdecken Sie ein lokales Café für einen Skopelos-Käsekuchen.",
+            "hu": "Vesszen el a fehérre meszelt sikátorokban, és keressen egy helyi kávézót egy skopelosi sajtos pitére.",
+            "ro": "Pierdeți-vă pe aleile văruite în alb și găsiți o cafenea locală pentru o plăcintă cu brânză din Skopelos.",
+            "en": "Get lost in the whitewashed alleys and find a local café for a Skopelos cheese pie."
+          }
+        },
+        {
+          "name": {
+            "de": "Vakratsa-Herrenhaus",
+            "hu": "Vakratsa-kúria",
+            "ro": "Conacul Vakratsa",
+            "en": "Vakratsa Mansion"
+          },
+          "coords": [
+            23.7268,
+            39.1218
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Einblick in das Leben einer wohlhabenden Insel-Familie des 20. Jahrhunderts. Achten Sie auf die traditionellen Möbel.",
+            "hu": "Betekintés egy 20. századi jómódú szigeti család életébe. Figyelje meg a hagyományos bútorokat!",
+            "ro": "O privire în viața unei familii înstărite de pe insulă din secolul al XX-lea. Fiți atenți la mobilierul tradițional.",
+            "en": "A glimpse into the life of a wealthy 20th-century island family. Look for the traditional furniture."
+          }
+        },
+        {
+          "name": {
+            "de": "Volkskundemuseum Skopelos",
+            "hu": "Szkopeloszi Néprajzi Múzeum",
+            "ro": "Muzeul de Folclor din Skopelos",
+            "en": "Folklore Museum of Skopelos"
+          },
+          "coords": [
+            23.728,
+            39.121
+          ],
+          "category": "museums",
+          "arrive_at": "11:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Kulturgeschichte der Insel, von der Stickerei bis zur Töpferei. Perfekt für ein tieferes Verständnis.",
+            "hu": "Fedezze fel a sziget gazdag kultúrtörténetét a hímzéstől a kerámiáig. Tökéletes a mélyebb megértéshez.",
+            "ro": "Descoperiți istoria culturală bogată a insulei, de la broderie la ceramică. Perfect pentru o înțelegere mai profundă.",
+            "en": "Discover the island's rich cultural history, from embroidery to pottery. Perfect for a deeper understanding."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Athanasios",
+            "hu": "Agios Athanasios templom",
+            "ro": "Biserica Agios Athanasios",
+            "en": "Church of Agios Athanasios"
+          },
+          "coords": [
+            23.7295,
+            39.1228
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Eine charmante kleine Kirche im Herzen der Stadt, oft übersehen. Ideal für einen Moment der Ruhe.",
+            "hu": "Egy bájos kis templom a város szívében, gyakran figyelmen kívül hagyják. Ideális egy pillanatnyi csendre.",
+            "ro": "O bisericuță fermecătoare în inima orașului, adesea trecută cu vederea. Ideală pentru un moment de liniște.",
+            "en": "A charming small church in the heart of town, often overlooked. Ideal for a moment of peace."
+          }
+        },
+        {
+          "name": {
+            "de": "Venezianische Festung (Kastro)",
+            "hu": "Velencei erőd (Kastro)",
+            "ro": "Fortăreața Venețiană (Kastro)",
+            "en": "Venetian Fortress (Kastro)"
+          },
+          "coords": [
+            23.7305,
+            39.1235
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der Aufstieg ist steil, aber die Panoramaaussicht auf die Ägäis ist die Mühe absolut wert.",
+            "hu": "Az emelkedő meredek, de az Égei-tengerre nyíló panoráma megéri a fáradságot.",
+            "ro": "Urcușul este abrupt, dar vederea panoramică asupra Mării Egee merită absolut efortul.",
+            "en": "The climb is steep, but the panoramic view of the Aegean Sea is absolutely worth the effort."
+          }
+        },
+        {
+          "name": {
+            "de": "Panagitsa tou Pyrgou",
+            "hu": "Panagitsa tou Pyrgou",
+            "ro": "Panagitsa tou Pyrgou",
+            "en": "Panagitsa tou Pyrgou"
+          },
+          "coords": [
+            23.7298,
+            39.124
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Die berühmteste Kirche von Skopelos, perfekt für Fotos bei Sonnenuntergang. Betreten Sie sie, um die Ikonen zu sehen.",
+            "hu": "Szkopelosz leghíresebb temploma, tökéletes naplementés fotókhoz. Lépjen be, hogy megnézze az ikonokat.",
+            "ro": "Cea mai faimoasă biserică din Skopelos, perfectă pentru fotografii la apus. Intrați pentru a vedea icoanele.",
+            "en": "The most famous church in Skopelos, perfect for sunset photos. Step inside to see the icons."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafenpromenade Skopelos",
+            "hu": "Szkopeloszi kikötői sétány",
+            "ro": "Promenada din portul Skopelos",
+            "en": "Skopelos Harbour Promenade"
+          },
+          "coords": [
+            23.7285,
+            39.1215
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag bei einem Spaziergang entlang der Uferpromenade, beobachten Sie die Boote und genießen Sie ein Eis.",
+            "hu": "Zárja a napot egy sétával a vízparton, nézze a hajókat és élvezzen egy fagyit.",
+            "ro": "Încheiați ziua cu o plimbare pe faleză, privind bărcile și savurând o înghețată.",
+            "en": "End your day with a stroll along the waterfront, watch the boats, and enjoy an ice cream."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im Labyrinth der Altstadtgassen von Skopelos, wo weiß getünchte Häuser mit blauen Fensterläden eine postkartenreife Kulisse bilden. Am Vormittag erkunden Sie historische Herrenhäuser und das Volkskundemuseum, um in die reiche Kultur der Insel einzutauchen. Nach dem Mittagessen führt Sie ein Aufstieg zur venezianischen Festung und zur ikonischen Kirche Panagitsa tou Pyrgou, wo Sie mit atemberaubenden Ausblicken belohnt werden. Der Abend klingt entspannt an der lebhaften Hafenpromenade aus, wo Tavernen zum Verweilen einladen.",
+        "hu": "A nap Szkopelosz óvárosának labirintusában kezdődik, ahol a fehérre meszelt, kék zsalugáteres házak képeslapra illő hátteret biztosítanak. Délelőtt történelmi kúriákat és a néprajzi múzeumot fedezi fel, hogy elmerüljön a sziget gazdag kultúrájában. Ebéd után egy emelkedő vezet a velencei erődhöz és az ikonikus Panagitsa tou Pyrgou templomhoz, ahol lélegzetelállító kilátásban lesz része. Az estét a nyüzsgő kikötői sétányon fejezi be, ahol a tavernák maradásra csábítanak.",
+        "ro": "Ziua dvs. începe în labirintul străduțelor din Orașul Vechi Skopelos, unde casele văruite în alb cu obloane albastre creează un cadru de carte poștală. Dimineața explorați conace istorice și muzeul de folclor pentru a vă cufunda în cultura bogată a insulei. După prânz, o urcare vă duce la fortăreața venețiană și la biserica iconică Panagitsa tou Pyrgou, unde veți fi răsplătit cu vederi uluitoare. Seara se încheie relaxat pe promenada animată a portului, unde tavernele vă invită să zăboviți.",
+        "en": "Your day begins in the labyrinth of Skopelos's Old Town alleys, where whitewashed houses with blue shutters create a picture-postcard setting. In the morning, you'll explore historic mansions and the folklore museum to immerse yourself in the island's rich culture. After lunch, a climb takes you to the Venetian fortress and the iconic Panagitsa tou Pyrgou church, where you'll be rewarded with breathtaking views. The evening ends relaxing on the lively harbor promenade, where taverns invite you to linger."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Skopelos Käsepastete (Strifti Tiropita)",
+            "tip": "Ein Muss! Suchen Sie nach einer traditionellen Bäckerei, die sie frisch herstellt."
+          },
+          {
+            "name": "Frischer Fisch & Meeresfrüchte",
+            "tip": "Die Tavernen am Hafen bieten den Fang des Tages. Fragen Sie nach den Empfehlungen."
+          },
+          {
+            "name": "Ziegenfleisch mit Pflaumen",
+            "tip": "Eine lokale Spezialität, die süße und herzhafte Aromen kombiniert. Ein einzigartiges Geschmackserlebnis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szkopeloszi sajtos pite (Strifti Tiropita)",
+            "tip": "Ezt ki kell próbálni! Keressen egy hagyományos pékséget, ahol frissen sütik."
+          },
+          {
+            "name": "Friss hal és tenger gyümölcsei",
+            "tip": "A kikötői tavernák a napi fogást kínálják. Kérdezze meg az ajánlatokat."
+          },
+          {
+            "name": "Kecskehús szilvával",
+            "tip": "Helyi specialitás, amely ötvözi az édes és sós ízeket. Egyedi ízélmény."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plăcintă cu brânză din Skopelos (Strifti Tiropita)",
+            "tip": "O necesitate! Căutați o brutărie tradițională care o face proaspătă."
+          },
+          {
+            "name": "Pește proaspăt și fructe de mare",
+            "tip": "Tavernele din port oferă captura zilei. Întrebați de recomandări."
+          },
+          {
+            "name": "Carne de capră cu prune",
+            "tip": "O specialitate locală care combină arome dulci și sărate. O experiență gustativă unică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Skopelos Cheese Pie (Strifti Tiropita)",
+            "tip": "A must-try! Look for a traditional bakery that makes them fresh."
+          },
+          {
+            "name": "Fresh Fish & Seafood",
+            "tip": "The taverns at the harbor offer the catch of the day. Ask for recommendations."
+          },
+          {
+            "name": "Goat with Plums",
+            "tip": "A local specialty combining sweet and savory flavors. A unique taste experience."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussicht von der Venezianischen Festung",
+            "tip": "Gehen Sie am späten Nachmittag für die beste Aussicht und weniger Menschenmassen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gärten des Vakratsa-Herrenhauses",
+            "tip": "Eine kleine, friedliche Oase mitten in der Stadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Eine ruhige Gasse",
+            "tip": "Biegen Sie einfach von den Hauptwegen ab und finden Sie Ihren eigenen friedlichen Ort.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a velencei erődből",
+            "tip": "Menjen késő délután a legjobb kilátásért és a kevesebb tömegért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Vakratsa-kúria kertje",
+            "tip": "Egy kicsi, békés oázis a város közepén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Egy csendes sikátor",
+            "tip": "Csak térjen le a főbb útvonalakról, és találja meg a saját békés helyét.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la Fortăreața Venețiană",
+            "tip": "Mergeți după-amiaza târziu pentru cea mai bună priveliște și mai puțină aglomerație.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile Conacului Vakratsa",
+            "tip": "O mică oază de pace în mijlocul orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "O alee liniștită",
+            "tip": "Abateți-vă de la potecile principale și găsiți-vă propriul loc liniștit.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the Venetian Fortress",
+            "tip": "Go in the late afternoon for the best light and fewer crowds.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gardens of Vakratsa Mansion",
+            "tip": "A small, peaceful oasis right in the middle of town.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A quiet alleyway",
+            "tip": "Just turn off the main paths and find your own peaceful spot.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Keramik",
+            "tip": "Suchen Sie nach handbemalten Stücken, die von lokalen Künstlern hergestellt wurden. Viele Geschäfte in der Altstadt."
+          },
+          {
+            "name": "Olivenöl und Honig",
+            "tip": "Skopelos ist berühmt für seine landwirtschaftlichen Produkte. Perfekte Souvenirs zum Mitnehmen."
+          },
+          {
+            "name": "Handgefertigter Schmuck",
+            "tip": "Kleine Boutiquen bieten einzigartige Designs an, die von der Insel inspiriert sind."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerámiák",
+            "tip": "Keressen helyi művészek által készített, kézzel festett darabokat. Számos üzlet az óvárosban."
+          },
+          {
+            "name": "Olívaolaj és méz",
+            "tip": "Szkopelosz híres mezőgazdasági termékeiről. Tökéletes ajándéktárgyak hazavitelre."
+          },
+          {
+            "name": "Kézzel készített ékszerek",
+            "tip": "A kis butikok egyedi, a sziget által inspirált mintákat kínálnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică locală",
+            "tip": "Căutați piese pictate manual, realizate de artiști locali. Multe magazine în Orașul Vechi."
+          },
+          {
+            "name": "Ulei de măsline și miere",
+            "tip": "Skopelos este renumit pentru produsele sale agricole. Suveniruri perfecte de luat acasă."
+          },
+          {
+            "name": "Bijuterii artizanale",
+            "tip": "Micile buticuri oferă modele unice inspirate de insulă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Ceramics",
+            "tip": "Look for hand-painted pieces made by local artists. Many shops in the Old Town."
+          },
+          {
+            "name": "Olive Oil and Honey",
+            "tip": "Skopelos is famous for its agricultural products. Perfect souvenirs to take home."
+          },
+          {
+            "name": "Handmade Jewelry",
+            "tip": "Small boutiques offer unique designs inspired by the island."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe! Die Kopfsteinpflasterstraßen sind charmant, aber uneben.",
+          "Nehmen Sie viel Wasser mit, besonders in den Sommermonaten.",
+          "Seien Sie respektvoll, wenn Sie Kirchen betreten; Schultern und Knie sollten bedeckt sein.",
+          "Die besten Fotomotive finden Sie oft, wenn Sie sich absichtlich in den Gassen verirren."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt! A macskaköves utcák hangulatosak, de egyenetlenek.",
+          "Vigyen magával sok vizet, különösen a nyári hónapokban.",
+          "Legyen tisztelettudó a templomokba való belépéskor; a vállakat és a térdeket takarni kell.",
+          "A legjobb fotótémákat gyakran akkor találja, ha szándékosan eltéved a sikátorokban."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă! Străzile pietruite sunt fermecătoare, dar denivelate.",
+          "Luați multă apă cu voi, mai ales în lunile de vară.",
+          "Fiți respectuoși la intrarea în biserici; umerii și genunchii ar trebui să fie acoperiți.",
+          "Cele mai bune oportunități foto se găsesc adesea rătăcind intenționat pe alei."
+        ],
+        "en": [
+          "Wear comfortable shoes! The cobblestone streets are charming but uneven.",
+          "Bring plenty of water, especially during the summer months.",
+          "Be respectful when entering churches; shoulders and knees should be covered.",
+          "The best photo opportunities are often found by getting intentionally lost in the alleyways."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafenpromenade & Radverleih",
+            "hu": "Kikötői sétány és kerékpárkölcsönzés",
+            "ro": "Promenada portului și închiriere de biciclete",
+            "en": "Harbour Promenade & Bike Rental"
+          },
+          "coords": [
+            23.7285,
+            39.1215
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einer leichten Fahrt entlang der Küste. Viele Verleihstationen befinden sich hier.",
+            "hu": "Kezdje a napot egy könnyű tekeréssel a part mentén. Számos kölcsönző található itt.",
+            "ro": "Începeți ziua cu o plimbare ușoară de-a lungul coastei. Aici se găsesc multe centre de închiriere.",
+            "en": "Start your day with an easy ride along the coast. Many rental shops are located here."
+          }
+        },
+        {
+          "name": {
+            "de": "Erkundung der Altstadtgassen",
+            "hu": "Az óváros sikátorainak felfedezése",
+            "ro": "Explorarea străduțelor din Orașul Vechi",
+            "en": "Exploring the Old Town Alleys"
+          },
+          "coords": [
+            23.7275,
+            39.1225
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Schieben Sie Ihr Fahrrad durch die engeren Gassen. Es ist eher ein Spaziergang mit dem Rad.",
+            "hu": "Tolja a kerékpárt a szűkebb sikátorokban. Ez inkább egy séta a biciklivel.",
+            "ro": "Împingeți bicicleta pe aleile mai înguste. Este mai mult o plimbare cu bicicleta alături.",
+            "en": "You may need to walk your bike through the narrower alleys. It's more of a walk-and-bike experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Volkskundemuseum Skopelos",
+            "hu": "Szkopeloszi Néprajzi Múzeum",
+            "ro": "Muzeul de Folclor din Skopelos",
+            "en": "Folklore Museum of Skopelos"
+          },
+          "coords": [
+            23.728,
+            39.121
+          ],
+          "category": "museums",
+          "arrive_at": "11:10",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad draußen und nehmen Sie sich Zeit für die reiche Geschichte der Insel.",
+            "hu": "Parkolja le a kerékpárt kint, és szánjon időt a sziget gazdag történelmére.",
+            "ro": "Parcați bicicleta afară și acordați-vă timp pentru istoria bogată a insulei.",
+            "en": "Park your bike outside and take your time to appreciate the island's rich history."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Kloster Evangelistria",
+            "hu": "Kerékpárral az Evangelistria kolostorhoz",
+            "ro": "Tură cu bicicleta la Mănăstirea Evangelistria",
+            "en": "Ride to Evangelistria Monastery"
+          },
+          "coords": [
+            23.733,
+            39.135
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Eine anspruchsvolle, aber lohnende Fahrt bergauf. Packen Sie Wasser ein! Die Ruhe und die Aussicht sind die Belohnung.",
+            "hu": "Kihívást jelentő, de hálás út felfelé. Csomagoljon vizet! A csend és a kilátás a jutalom.",
+            "ro": "O urcare provocatoare, dar plină de satisfacții. Luați apă! Liniștea și priveliștea sunt recompensa.",
+            "en": "A challenging but rewarding uphill ride. Pack water! The tranquility and the views are the reward."
+          }
+        },
+        {
+          "name": {
+            "de": "Venezianische Festung & Panagitsa tou Pyrgou",
+            "hu": "Velencei erőd és Panagitsa tou Pyrgou",
+            "ro": "Fortăreața Venețiană și Panagitsa tou Pyrgou",
+            "en": "Venetian Fortress & Panagitsa tou Pyrgou"
+          },
+          "coords": [
+            23.7305,
+            39.1235
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Der letzte Anstieg des Tages. Sichern Sie Ihr Fahrrad gut, bevor Sie die Aussicht genießen.",
+            "hu": "A nap utolsó emelkedője. Zárja le jól a kerékpárt, mielőtt élvezi a kilátást.",
+            "ro": "Ultima urcare a zilei. Asigurați-vă bine bicicleta înainte de a admira priveliștea.",
+            "en": "The final climb of the day. Secure your bike well before enjoying the views."
+          }
+        },
+        {
+          "name": {
+            "de": "Entspannung am Hafen",
+            "hu": "Pihenés a kikötőben",
+            "ro": "Relaxare în port",
+            "en": "Relaxation at the Harbour"
+          },
+          "coords": [
+            23.7288,
+            39.1212
+          ],
+          "category": "gastro",
+          "arrive_at": "16:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Geben Sie Ihr Fahrrad zurück und belohnen Sie sich mit einem späten Mittagessen oder einem Drink in einer Taverne am Wasser.",
+            "hu": "Adja vissza a kerékpárt, és jutalmazza meg magát egy késői ebéddel vagy egy itallal egy vízparti tavernában.",
+            "ro": "Returnați bicicleta și răsplătiți-vă cu un prânz târziu sau o băutură la o tavernă pe malul apei.",
+            "en": "Return your bike and reward yourself with a late lunch or a drink at a waterfront tavern."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radtag beginnt entspannt an der Hafenpromenade, bevor Sie die Altstadt erkunden, wo Sie Ihr Rad durch die engen Gassen schieben. Nach einem kulturellen Stopp im Volkskundemuseum nehmen Sie die Herausforderung an: eine Fahrt bergauf zum friedlichen Kloster Evangelistria, das eine herrliche Aussicht bietet. Am Nachmittag erobern Sie die venezianische Festung für weitere Panoramablicke und beenden den Tag verdientermaßen mit einem erfrischenden Getränk in einer der Hafentavernen.",
+        "hu": "A biciklis nap a kikötői sétányon kezdődik lazán, mielőtt felfedezné az óvárost, ahol a szűk sikátorokon át kell tolnia a kerékpárt. A néprajzi múzeumban tett kulturális megálló után vállalkozik a kihívásra: egy hegyi útra a békés Evangelistria kolostorhoz, ahonnan csodás kilátás nyílik. Délután meghódítja a velencei erődöt további panorámákért, és a napot megérdemelten fejezi be egy frissítő itallal a kikötői tavernák egyikében.",
+        "ro": "Ziua dvs. pe bicicletă începe relaxat pe promenada portului, înainte de a explora Orașul Vechi, unde va trebui să împingeți bicicleta pe străduțele înguste. După o oprire culturală la Muzeul de Folclor, acceptați provocarea: o urcare la liniștita Mănăstire Evangelistria, care oferă priveliști superbe. După-amiaza, cuceriți fortăreața venețiană pentru mai multe panorame și încheiați ziua meritat cu o băutură răcoritoare la una dintre tavernele din port.",
+        "en": "Your cycling day starts relaxed at the harbor promenade before exploring the Old Town, where you'll walk your bike through the narrow alleys. After a cultural stop at the Folklore Museum, you'll take on the challenge: an uphill ride to the peaceful Evangelistria Monastery, offering magnificent views. In the afternoon, you'll conquer the Venetian fortress for more panoramas, ending the day deservedly with a refreshing drink at one of the harbor taverns."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Skopelos Käsepastete (Strifti Tiropita)",
+            "tip": "Der perfekte, energiereiche Snack für eine Radtour."
+          },
+          {
+            "name": "Griechischer Salat (Horiatiki)",
+            "tip": "Leicht und erfrischend nach einer anstrengenden Fahrt. Suchen Sie nach Tavernen, die lokales Gemüse verwenden."
+          },
+          {
+            "name": "Souvlaki / Gyros",
+            "tip": "Eine schnelle und leckere Mahlzeit, die Sie in vielen kleinen Lokalen in der Nähe des Hafens finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szkopeloszi sajtos pite (Strifti Tiropita)",
+            "tip": "A tökéletes, energiadús harapnivaló egy biciklitúrához."
+          },
+          {
+            "name": "Görög saláta (Horiatiki)",
+            "tip": "Könnyű és frissítő egy megerőltető út után. Keressen olyan tavernákat, amelyek helyi zöldségeket használnak."
+          },
+          {
+            "name": "Souvlaki / Gyros",
+            "tip": "Gyors és finom étel, amelyet számos kis étteremben megtalál a kikötő közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plăcintă cu brânză din Skopelos (Strifti Tiropita)",
+            "tip": "Gustarea perfectă, plină de energie, pentru o tură cu bicicleta."
+          },
+          {
+            "name": "Salată grecească (Horiatiki)",
+            "tip": "Ușoară și răcoritoare după o plimbare obositoare. Căutați taverne care folosesc legume locale."
+          },
+          {
+            "name": "Souvlaki / Gyros",
+            "tip": "O masă rapidă și delicioasă pe care o puteți găsi la multe restaurante mici de lângă port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Skopelos Cheese Pie (Strifti Tiropita)",
+            "tip": "The perfect high-energy snack for a bike ride."
+          },
+          {
+            "name": "Greek Salad (Horiatiki)",
+            "tip": "Light and refreshing after a strenuous ride. Look for taverns using local vegetables."
+          },
+          {
+            "name": "Souvlaki / Gyros",
+            "tip": "A quick and delicious meal you can find in many small eateries near the port."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kloster Evangelistria",
+            "tip": "Nach der anstrengenden Fahrt ist die Stille des Klosters eine himmlische Belohnung.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Aussichtspunkt auf dem Weg zum Kloster",
+            "tip": "Halten Sie auf halbem Weg an, um durchzuatmen und die Aussicht auf die Stadt zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ende der Hafenmole",
+            "tip": "Ein ruhiger Ort, um die Fischerboote und das Meer zu beobachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Evangelistria kolostor",
+            "tip": "A megerőltető út után a kolostor csendje mennyei jutalom.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Kilátópont a kolostorhoz vezető úton",
+            "tip": "Álljon meg félúton, hogy levegőt vegyen, és élvezze a városra nyíló kilátást.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A kikötői móló vége",
+            "tip": "Csendes hely a halászhajók és a tenger megfigyelésére.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mănăstirea Evangelistria",
+            "tip": "După urcușul obositor, liniștea mănăstirii este o recompensă divină.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Punct de belvedere pe drumul spre mănăstire",
+            "tip": "Opriți-vă la jumătatea drumului pentru a vă trage sufletul și a admira vederea asupra orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Capătul digului din port",
+            "tip": "Un loc liniștit pentru a privi bărcile de pescuit și marea.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Evangelistria Monastery",
+            "tip": "After the strenuous ride, the silence of the monastery is a heavenly reward.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Viewpoint on the way to the monastery",
+            "tip": "Stop halfway up to catch your breath and enjoy the view of the town.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "End of the harbour mole",
+            "tip": "A quiet spot to watch the fishing boats and the sea.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "'Mamma Mia!' Souvenirs",
+            "tip": "Viele Geschäfte verkaufen Artikel, die sich auf den berühmten Film beziehen, der auf der Insel gedreht wurde."
+          },
+          {
+            "name": "Lokale Kräuter und Gewürze",
+            "tip": "Nehmen Sie die Aromen Griechenlands mit nach Hause. Oregano und Thymian sind besonders gut."
+          }
+        ],
+        "hu": [
+          {
+            "name": "'Mamma Mia!' ajándéktárgyak",
+            "tip": "Sok üzlet árul a szigeten forgatott híres filmhez kapcsolódó termékeket."
+          },
+          {
+            "name": "Helyi fűszernövények és fűszerek",
+            "tip": "Vigye haza Görögország ízeit. Az oregánó és a kakukkfű különösen jó."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri 'Mamma Mia!'",
+            "tip": "Multe magazine vând articole legate de celebrul film care a fost filmat pe insulă."
+          },
+          {
+            "name": "Ierburi și condimente locale",
+            "tip": "Luați acasă aromele Greciei. Oregano și cimbrul sunt deosebit de bune."
+          }
+        ],
+        "en": [
+          {
+            "name": "'Mamma Mia!' Souvenirs",
+            "tip": "Many shops sell items related to the famous movie that was filmed on the island."
+          },
+          {
+            "name": "Local Herbs and Spices",
+            "tip": "Take the flavors of Greece home with you. Oregano and thyme are particularly good."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad, insbesondere die Bremsen, bevor Sie losfahren.",
+          "Die Straßen können eng und kurvenreich sein; fahren Sie vorsichtig.",
+          "Ein E-Bike wird für die Fahrt zum Kloster dringend empfohlen, wenn Sie kein erfahrener Radfahrer sind.",
+          "Schließen Sie Ihr Fahrrad immer ab, wenn Sie es abstellen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket.",
+          "Az utak szűkek és kanyargósak lehetnek; vezessen óvatosan.",
+          "Az e-bike erősen ajánlott a kolostorhoz való utazáshoz, ha nem tapasztalt kerékpáros.",
+          "Mindig zárja le a kerékpárt, amikor otthagyja."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta, în special frânele, înainte de a porni.",
+          "Drumurile pot fi înguste și sinuoase; conduceți cu prudență.",
+          "O bicicletă electrică este foarte recomandată pentru drumul spre mănăstire dacă nu sunteți un ciclist experimentat.",
+          "Încuiati-vă întotdeauna bicicleta când o lăsați."
+        ],
+        "en": [
+          "Check your bike, especially the brakes, before you set off.",
+          "The roads can be narrow and winding; ride with care.",
+          "An e-bike is highly recommended for the ride to the monastery if you are not an experienced cyclist.",
+          "Always lock your bike when you leave it."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 9.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken & Altstadt-Cluster",
+            "hu": "Parkolás és Óváros-klaszter",
+            "ro": "Parcare și Clusterul Orașul Vechi",
+            "en": "Parking & Old Town Cluster"
+          },
+          "coords": [
+            23.729,
+            39.12
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie am großen Parkplatz am Hafen. Von hier aus erkunden Sie den ersten Cluster zu Fuß.",
+            "hu": "Parkoljon a kikötő melletti nagy parkolóban. Innen gyalogosan fedezheti fel az első klasztert.",
+            "ro": "Parcați în parcarea mare de lângă port. De aici veți explora primul cluster pe jos.",
+            "en": "Park at the large car park by the harbour. From here, you'll explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafenpromenade & Volkskundemuseum",
+            "hu": "Kikötői sétány és Néprajzi Múzeum",
+            "ro": "Promenada portului și Muzeul de Folclor",
+            "en": "Harbour Promenade & Folklore Museum"
+          },
+          "coords": [
+            23.728,
+            39.121
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz aus. Genießen Sie die Atmosphäre, bevor Sie ins Museum gehen.",
+            "hu": "Rövid séta a parkolótól. Élvezze a hangulatot, mielőtt a múzeumba menne.",
+            "ro": "O scurtă plimbare de la parcare. Bucurați-vă de atmosferă înainte de a intra în muzeu.",
+            "en": "A short walk from the car park. Enjoy the atmosphere before heading into the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Kastro-Cluster: Venezianische Festung & Panagitsa tou Pyrgou",
+            "hu": "Kastro-klaszter: Velencei erőd és Panagitsa tou Pyrgou",
+            "ro": "Clusterul Kastro: Fortăreața Venețiană și Panagitsa tou Pyrgou",
+            "en": "Kastro Cluster: Venetian Fortress & Panagitsa tou Pyrgou"
+          },
+          "coords": [
+            23.7305,
+            39.1235
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Der Spaziergang hinauf ist ein wesentlicher Teil des Erlebnisses. Der Ausblick entschädigt für die Mühe.",
+            "hu": "A felfelé vezető séta az élmény lényeges része. A kilátás kárpótol a fáradozásért.",
+            "ro": "Plimbarea până sus este o parte esențială a experienței. Priveliștea compensează efortul.",
+            "en": "The walk up is an essential part of the experience. The view compensates for the effort."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Kloster-Cluster",
+            "hu": "Utazás a Kolostor-klaszterhez",
+            "ro": "Călătorie spre Clusterul Mănăstirii",
+            "en": "Drive to Monastery Cluster"
+          },
+          "coords": [
+            23.733,
+            39.135
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Kloster Evangelistria. Genießen Sie die Ruhe und die spirituelle Atmosphäre.",
+            "hu": "Vezessen el az Evangelistria kolostorhoz. Élvezze a nyugalmat és a spirituális légkört.",
+            "ro": "Conduceți spre Mănăstirea Evangelistria. Bucurați-vă de liniște și de atmosfera spirituală.",
+            "en": "Drive to the Evangelistria Monastery. Enjoy the tranquility and spiritual atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr zum Hafen-Cluster",
+            "hu": "Visszatérés a Kikötő-klaszterbe",
+            "ro": "Întoarcere la Clusterul Portului",
+            "en": "Return to Harbour Cluster"
+          },
+          "coords": [
+            23.729,
+            39.12
+          ],
+          "category": "gastro",
+          "arrive_at": "16:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zurück in die Stadt, parken Sie und suchen Sie sich eine schöne Taverne für ein spätes Mittag- oder frühes Abendessen.",
+            "hu": "Vezessen vissza a városba, parkoljon le, és keressen egy szép tavernát egy késői ebédhez vagy korai vacsorához.",
+            "ro": "Conduceți înapoi în oraș, parcați și găsiți o tavernă drăguță pentru un prânz târziu sau o cină devreme.",
+            "en": "Drive back to town, park, and find a nice taverna for a late lunch or early dinner."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendlicher Spaziergang",
+            "hu": "Esti séta",
+            "ro": "Plimbare de seară",
+            "en": "Evening Stroll"
+          },
+          "coords": [
+            23.7285,
+            39.1215
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:30",
+          "stay_min": 55,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein letzter Spaziergang entlang der Promenade, um die Atmosphäre des Abends aufzusaugen.",
+            "hu": "Egy utolsó séta a sétányon, hogy magába szívja az esti hangulatot.",
+            "ro": "O ultimă plimbare de-a lungul promenadei pentru a absorbi atmosfera serii.",
+            "en": "One last stroll along the promenade to soak up the evening atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto nutzen Sie die Flexibilität, verschiedene Cluster zu erkunden. Sie parken am Hafen und entdecken die Altstadt und das Kastro-Viertel zu Fuß. Am Vormittag erleben Sie das geschäftige Treiben am Wasser und die Geschichte im Museum. Nach einem Spaziergang zur Festung mit ihren grandiosen Ausblicken fahren Sie am Nachmittag zum ruhigen Kloster Evangelistria, das in den Hügeln liegt. Der Tag endet mit einer Rückkehr in die Stadt für ein köstliches Abendessen in einer Hafentaverne.",
+        "hu": "Az autóval kihasználhatja a rugalmasságot a különböző klaszterek felfedezéséhez. A kikötőben parkol, majd gyalog fedezi fel az óvárost és a Kastro negyedet. Délelőtt megtapasztalja a vízparti nyüzsgést és a múzeum történelmét. A csodás kilátást nyújtó erődhöz tett séta után délután elautózik a dombok között fekvő csendes Evangelistria kolostorhoz. A nap egy kikötői tavernában elfogyasztott finom vacsorával zárul a városba való visszatérés után.",
+        "ro": "Cu mașina, profitați de flexibilitatea de a explora diferite clustere. Parcați în port și descoperiți Orașul Vechi și cartierul Kastro pe jos. Dimineața, experimentați agitația de pe malul apei și istoria la muzeu. După o plimbare la fortăreață cu priveliștile sale grandioase, după-amiaza conduceți spre liniștita Mănăstire Evangelistria, situată pe dealuri. Ziua se încheie cu o întoarcere în oraș pentru o cină delicioasă la o tavernă din port.",
+        "en": "With the car, you enjoy the flexibility of exploring different clusters. You'll park at the harbor and discover the Old Town and the Kastro district on foot. In the morning, you experience the waterfront buzz and history at the museum. After a walk up to the fortress with its grand views, you'll drive to the serene Evangelistria Monastery in the hills in the afternoon. The day concludes with a return to town for a delicious dinner at a harbor tavern."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tavernen außerhalb der Stadt",
+            "tip": "Nutzen Sie das Auto, um eine abgelegene Taverne mit authentischer lokaler Küche zu finden."
+          },
+          {
+            "name": "Skopelos Käsepastete (Strifti Tiropita)",
+            "tip": "Kaufen Sie eine für die Fahrt als Snack."
+          },
+          {
+            "name": "Lokaler Wein",
+            "tip": "Fragen Sie nach dem lokalen Hauswein, er ist oft überraschend gut und preiswert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városon kívüli tavernák",
+            "tip": "Használja az autót, hogy találjon egy eldugott tavernát autentikus helyi konyhával."
+          },
+          {
+            "name": "Szkopeloszi sajtos pite (Strifti Tiropita)",
+            "tip": "Vegyél egyet útravalónak."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "Kérje a helyi házi bort, gyakran meglepően jó és olcsó."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Taverne în afara orașului",
+            "tip": "Folosiți mașina pentru a găsi o tavernă izolată cu bucătărie locală autentică."
+          },
+          {
+            "name": "Plăcintă cu brânză din Skopelos (Strifti Tiropita)",
+            "tip": "Cumpărați una pentru drum, ca gustare."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Întrebați de vinul casei local, este adesea surprinzător de bun și ieftin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Taverns outside the town",
+            "tip": "Use the car to find a remote tavern with authentic local cuisine."
+          },
+          {
+            "name": "Skopelos Cheese Pie (Strifti Tiropita)",
+            "tip": "Buy one for the road as a snack."
+          },
+          {
+            "name": "Local Wine",
+            "tip": "Ask for the local house wine; it's often surprisingly good and inexpensive."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kloster Evangelistria",
+            "tip": "Ein Ort der tiefen Ruhe, weit weg vom Trubel der Stadt.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Ein kleiner, unbekannter Strand",
+            "tip": "Mit dem Auto können Sie leicht einen der vielen kleinen Strände in der Nähe der Stadt für eine private Pause finden.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Aussicht von den Hügeln",
+            "tip": "Halten Sie auf dem Weg zum oder vom Kloster an einem Aussichtspunkt an.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Evangelistria kolostor",
+            "tip": "A mély béke helye, távol a város nyüzsgésétől.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Egy kicsi, ismeretlen strand",
+            "tip": "Autóval könnyen találhat egyet a város közelében lévő sok kis strand közül egy privát pihenőre.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Kilátás a dombokról",
+            "tip": "Álljon meg egy kilátópontnál a kolostorhoz vezető úton vagy onnan visszafelé.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mănăstirea Evangelistria",
+            "tip": "Un loc de pace profundă, departe de agitația orașului.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "O plajă mică, necunoscută",
+            "tip": "Cu mașina puteți găsi cu ușurință una dintre multele plaje mici de lângă oraș pentru o pauză privată.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Vedere de pe dealuri",
+            "tip": "Opriți-vă la un punct de belvedere pe drumul spre sau de la mănăstire.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Evangelistria Monastery",
+            "tip": "A place of deep peace, far from the hustle and bustle of the town.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "A small, unknown beach",
+            "tip": "With a car, you can easily find one of the many small beaches near the town for a private break.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "View from the hills",
+            "tip": "Stop at a viewpoint on the way to or from the monastery.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Halten Sie Ausschau nach kleinen Ständen am Straßenrand, die lokale Produkte wie Feigen oder Mandeln verkaufen."
+          },
+          {
+            "name": "Kunstgalerien",
+            "tip": "Skopelos hat eine blühende Kunstszene. Besuchen Sie eine Galerie, um einzigartige Werke zu sehen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői boltok",
+            "tip": "Figyelje az út menti kis standokat, amelyek helyi termékeket, például fügét vagy mandulát árulnak."
+          },
+          {
+            "name": "Művészeti galériák",
+            "tip": "Szkopelosznak virágzó művészeti élete van. Látogasson el egy galériába, hogy egyedi alkotásokat lásson."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de la fermă",
+            "tip": "Fiți atenți la micile tarabe de pe marginea drumului care vând produse locale, cum ar fi smochine sau migdale."
+          },
+          {
+            "name": "Galerii de artă",
+            "tip": "Skopelos are o scenă artistică înfloritoare. Vizitați o galerie pentru a vedea lucrări unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops",
+            "tip": "Look out for small roadside stalls selling local produce like figs or almonds."
+          },
+          {
+            "name": "Art Galleries",
+            "tip": "Skopelos has a thriving art scene. Visit a gallery to see unique works."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken kann im Juli und August eine Herausforderung sein. Seien Sie geduldig oder parken Sie etwas außerhalb.",
+          "Die Straßen sind eng und kurvenreich; ein kleines Auto ist von Vorteil.",
+          "Achten Sie auf Ziegen auf der Straße, besonders in den ländlichen Gebieten.",
+          "Verwenden Sie eine GPS-App, aber vertrauen Sie auch den Straßenschildern."
+        ],
+        "hu": [
+          "A parkolás júliusban és augusztusban kihívást jelenthet. Legyen türelmes, vagy parkoljon kicsit kijjebb.",
+          "Az utak szűkek és kanyargósak; egy kis autó előnyös.",
+          "Vigyázzon a kecskékre az úton, különösen a vidéki területeken.",
+          "Használjon GPS-alkalmazást, de bízzon az útjelző táblákban is."
+        ],
+        "ro": [
+          "Parcarea poate fi o provocare în iulie și august. Aveți răbdare sau parcați puțin mai departe.",
+          "Drumurile sunt înguste și sinuoase; o mașină mică este avantajoasă.",
+          "Atenție la caprele de pe drum, mai ales în zonele rurale.",
+          "Folosiți o aplicație GPS, dar aveți încredere și în indicatoarele rutiere."
+        ],
+        "en": [
+          "Parking can be a challenge in July and August. Be patient or park a little further out.",
+          "The roads are narrow and winding; a small car is advantageous.",
+          "Watch out for goats on the road, especially in the rural areas.",
+          "Use a GPS app, but also trust the road signs."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 8.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof & Altstadt",
+            "hu": "Érkezés a buszpályaudvarra és Óváros",
+            "ro": "Sosire la stația de autobuz și Orașul Vechi",
+            "en": "Arrival at Bus Station & Old Town"
+          },
+          "coords": [
+            23.727,
+            39.12
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Der Hauptbusbahnhof liegt günstig am Hafen. Beginnen Sie Ihre Erkundungstour direkt in den Gassen der Altstadt.",
+            "hu": "A fő buszpályaudvar kényelmesen a kikötőben található. Kezdje a felfedezést közvetlenül az óváros sikátoraiban.",
+            "ro": "Stația principală de autobuz este situată convenabil în port. Începeți explorarea direct pe străduțele din Orașul Vechi.",
+            "en": "The main bus station is conveniently located at the harbor. Start your exploration directly in the alleys of the Old Town."
+          }
+        },
+        {
+          "name": {
+            "de": "Venezianische Festung",
+            "hu": "Velencei erőd",
+            "ro": "Fortăreața Venețiană",
+            "en": "Venetian Fortress"
+          },
+          "coords": [
+            23.7305,
+            39.1235
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:45",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein Spaziergang bergauf durch die Stadt, der sich für die Aussicht lohnt.",
+            "hu": "Egy séta felfelé a városon keresztül, ami megéri a kilátásért.",
+            "ro": "O plimbare la deal prin oraș care merită pentru priveliște.",
+            "en": "A walk uphill through the town that's well worth it for the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Panagitsa tou Pyrgou",
+            "hu": "Panagitsa tou Pyrgou",
+            "ro": "Panagitsa tou Pyrgou",
+            "en": "Panagitsa tou Pyrgou"
+          },
+          "coords": [
+            23.7298,
+            39.124
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Direkt unterhalb der Festung gelegen, ist dies ein Muss für jeden Besucher.",
+            "hu": "Közvetlenül az erőd alatt található, minden látogató számára kötelező.",
+            "ro": "Situată chiar sub fortăreață, aceasta este o vizită obligatorie pentru fiecare vizitator.",
+            "en": "Located just below the fortress, this is a must-see for every visitor."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Kloster Evangelistria",
+            "hu": "Buszozás az Evangelistria kolostorhoz",
+            "ro": "Călătorie cu autobuzul la Mănăstirea Evangelistria",
+            "en": "Bus Ride to Evangelistria Monastery"
+          },
+          "coords": [
+            23.733,
+            39.135
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus vom Hafen. Prüfen Sie den Fahrplan im Voraus, da die Busse nicht oft fahren.",
+            "hu": "Szálljon buszra a kikötőből. Ellenőrizze előre a menetrendet, mert a buszok nem járnak sűrűn.",
+            "ro": "Luați autobuzul din port. Verificați orarul în avans, deoarece autobuzele nu circulă des.",
+            "en": "Take the bus from the harbor. Check the schedule in advance as buses may not be frequent."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zurück & Hafenpromenade",
+            "hu": "Buszozás vissza és kikötői sétány",
+            "ro": "Călătorie cu autobuzul înapoi și promenada portului",
+            "en": "Bus Ride Back & Harbour Promenade"
+          },
+          "coords": [
+            23.7285,
+            39.1215
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Kehren Sie in die Stadt zurück und genießen Sie einen entspannten Spaziergang am Wasser.",
+            "hu": "Térjen vissza a városba, és élvezze a pihentető sétát a vízparton.",
+            "ro": "Întoarceți-vă în oraș și bucurați-vă de o plimbare relaxantă pe malul apei.",
+            "en": "Return to town and enjoy a relaxing stroll by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in einer Taverne",
+            "hu": "Vacsora egy tavernában",
+            "ro": "Cină la o tavernă",
+            "en": "Dinner at a Taverna"
+          },
+          "coords": [
+            23.728,
+            39.121
+          ],
+          "category": "gastro",
+          "arrive_at": "17:15",
+          "stay_min": 55,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Wählen Sie eine der vielen einladenden Tavernen für ein authentisches griechisches Abendessen.",
+            "hu": "Válasszon egyet a sok hívogató taverna közül egy autentikus görög vacsorához.",
+            "ro": "Alegeți una dintre multele taverne primitoare pentru o cină grecească autentică.",
+            "en": "Choose one of the many inviting tavernas for an authentic Greek dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Tour mit öffentlichen Verkehrsmitteln beginnt im Herzen der Stadt Skopelos, die Sie vom Busbahnhof aus leicht zu Fuß erreichen. Der Vormittag ist der Erkundung der verwinkelten Gassen und dem Aufstieg zur venezianischen Festung gewidmet. Am Nachmittag nutzen Sie den lokalen Bus für einen Ausflug zum abgeschiedenen Kloster Evangelistria, einem Ort der Ruhe. Nach Ihrer Rückkehr in die Stadt lassen Sie den Tag an der lebhaften Hafenpromenade ausklingen, wo Sie das Kommen und Gehen der Boote beobachten können.",
+        "hu": "A tömegközlekedési túra Szkopelosz város szívében kezdődik, amely a buszpályaudvarról könnyen megközelíthető gyalog. A délelőtt a kanyargós sikátorok felfedezésével és a velencei erődhöz való feljutással telik. Délután a helyi buszt használja egy kiránduláshoz az eldugott Evangelistria kolostorhoz, a nyugalom helyére. Miután visszatért a városba, a napot a nyüzsgő kikötői sétányon fejezi be, ahol figyelheti a hajók jövés-menését.",
+        "ro": "Turul dvs. cu transportul public începe în inima orașului Skopelos, ușor accesibil pe jos de la stația de autobuz. Dimineața este dedicată explorării străduțelor întortocheate și urcării la fortăreața venețiană. După-amiaza, folosiți autobuzul local pentru o excursie la mănăstirea izolată Evangelistria, un loc de liniște. La întoarcerea în oraș, încheiați ziua pe promenada animată a portului, urmărind du-te-vino-ul bărcilor.",
+        "en": "Your public transit tour starts in the heart of Skopelos town, easily reached on foot from the bus station. The morning is dedicated to exploring the winding alleys and climbing to the Venetian fortress. In the afternoon, you'll use the local bus for a trip to the secluded Evangelistria Monastery, a place of tranquility. Upon returning to town, you'll end the day on the lively harbor promenade, watching the boats come and go."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Skopelos Käsepastete (Strifti Tiropita)",
+            "tip": "Ein schneller, sättigender Snack, den man am Busbahnhof für die Fahrt kaufen kann."
+          },
+          {
+            "name": "Gefülltes Gemüse (Gemista)",
+            "tip": "Ein klassisches griechisches Gericht, das in vielen Tavernen angeboten wird."
+          },
+          {
+            "name": "Ouzo mit Meze",
+            "tip": "Genießen Sie wie ein Einheimischer einen Ouzo mit kleinen Vorspeisen am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szkopeloszi sajtos pite (Strifti Tiropita)",
+            "tip": "Gyors, laktató harapnivaló, amit a buszpályaudvaron lehet venni az útra."
+          },
+          {
+            "name": "Töltött zöldségek (Gemista)",
+            "tip": "Klasszikus görög étel, amelyet számos tavernában kínálnak."
+          },
+          {
+            "name": "Ouzo meze-vel",
+            "tip": "Élvezze, mint egy helyi, egy ouzót kis előételekkel a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plăcintă cu brânză din Skopelos (Strifti Tiropita)",
+            "tip": "O gustare rapidă și sățioasă pe care o puteți cumpăra de la stația de autobuz pentru drum."
+          },
+          {
+            "name": "Legume umplute (Gemista)",
+            "tip": "Un fel de mâncare grecesc clasic, servit în multe taverne."
+          },
+          {
+            "name": "Ouzo cu Meze",
+            "tip": "Bucurați-vă ca un localnic de un ouzo cu mici aperitive în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Skopelos Cheese Pie (Strifti Tiropita)",
+            "tip": "A quick, filling snack to buy at the bus station for the ride."
+          },
+          {
+            "name": "Stuffed Vegetables (Gemista)",
+            "tip": "A classic Greek dish served in many tavernas."
+          },
+          {
+            "name": "Ouzo with Meze",
+            "tip": "Enjoy like a local with an ouzo and small appetizers by the harbour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kloster Evangelistria",
+            "tip": "Nehmen Sie sich Zeit, die Stille zu genießen, bevor der nächste Bus zurückfährt.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Blick von der Festung am Morgen",
+            "tip": "Weniger überfüllt als am Abend und eine friedliche Art, den Tag zu beginnen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eine Bank an der Promenade",
+            "tip": "Setzen Sie sich und schauen Sie einfach nur dem Meer zu.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Evangelistria kolostor",
+            "tip": "Szánjon időt a csend élvezetére, mielőtt a következő busz visszaindul.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Kilátás az erődből reggel",
+            "tip": "Kevésbé zsúfolt, mint este, és békés módja a napkezdésnek.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy pad a sétányon",
+            "tip": "Üljön le, és csak nézze a tengert.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mănăstirea Evangelistria",
+            "tip": "Luați-vă timp să vă bucurați de liniște înainte ca următorul autobuz să plece înapoi.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Vedere de la fortăreață dimineața",
+            "tip": "Mai puțin aglomerat decât seara și un mod pașnic de a începe ziua.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O bancă pe promenadă",
+            "tip": "Așezați-vă și priviți pur și simplu marea.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Evangelistria Monastery",
+            "tip": "Take your time to enjoy the silence before the next bus goes back.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "View from the fortress in the morning",
+            "tip": "Less crowded than in the evening and a peaceful way to start the day.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A bench on the promenade",
+            "tip": "Sit down and just watch the sea.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Produkte",
+            "tip": "Geschäfte in der Nähe des Hafens verkaufen oft die besten lokalen Produkte wie Öl, Honig und Wein."
+          },
+          {
+            "name": "Postkarten und Bücher",
+            "tip": "Ein Kiosk am Hafen ist der beste Ort für Postkarten oder ein Buch über die Insel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termékek",
+            "tip": "A kikötő közelében lévő üzletek gyakran árulják a legjobb helyi termékeket, mint az olaj, méz és bor."
+          },
+          {
+            "name": "Képeslapok és könyvek",
+            "tip": "A kikötői kioszk a legjobb hely képeslapokért vagy a szigetről szóló könyvekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse locale",
+            "tip": "Magazinele de lângă port vând adesea cele mai bune produse locale, cum ar fi ulei, miere și vin."
+          },
+          {
+            "name": "Cărți poștale și cărți",
+            "tip": "Un chioșc din port este cel mai bun loc pentru cărți poștale sau o carte despre insulă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Products",
+            "tip": "Shops near the harbor often sell the best local products like oil, honey, and wine."
+          },
+          {
+            "name": "Postcards and Books",
+            "tip": "A kiosk at the port is the best place for postcards or a book about the island."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Busfahrpläne online oder direkt am Busbahnhof, da sie sich saisonal ändern können.",
+          "Kaufen Sie Ihr Ticket im Voraus, wenn möglich.",
+          "Seien Sie pünktlich an der Bushaltestelle, besonders für die weniger frequentierten Routen.",
+          "Kombinieren Sie Busfahrten mit Spaziergängen für das beste Erlebnis."
+        ],
+        "hu": [
+          "Ellenőrizze a buszmenetrendet online vagy közvetlenül a buszpályaudvaron, mivel szezonálisan változhatnak.",
+          "Ha lehetséges, vegye meg a jegyét előre.",
+          "Legyen időben a buszmegállóban, különösen a ritkábban járt útvonalakon.",
+          "Kombinálja a buszozást sétákkal a legjobb élmény érdekében."
+        ],
+        "ro": [
+          "Verificați orarele autobuzelor online sau direct la stația de autobuz, deoarece se pot schimba sezonier.",
+          "Cumpărați biletul în avans, dacă este posibil.",
+          "Fiți la timp la stația de autobuz, mai ales pentru rutele mai puțin frecvente.",
+          "Combinați călătoriile cu autobuzul cu plimbări pentru cea mai bună experiență."
+        ],
+        "en": [
+          "Check bus schedules online or directly at the bus station as they can change seasonally.",
+          "Buy your ticket in advance if possible.",
+          "Be at the bus stop on time, especially for the less frequent routes.",
+          "Combine bus rides with walks for the best experience."
+        ]
+      }
+    }
+  }
+}

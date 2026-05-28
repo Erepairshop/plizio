@@ -1,0 +1,1316 @@
+{
+  "city_id": "finland-kokkola-cities-v2",
+  "anchor": {
+    "name": "Kokkola",
+    "coords": [
+      23.1311,
+      63.8372
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 3.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Kokkola",
+            "hu": "Kokkolai Városháza",
+            "ro": "Primăria din Kokkola",
+            "en": "Kokkola Town Hall"
+          },
+          "coords": [
+            23.1322,
+            63.8381
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die nationale romantische Architektur und die zentrale Lage.",
+            "hu": "Csodálja meg a nemzeti romantikus építészetet és a központi elhelyezkedést.",
+            "ro": "Admirați arhitectura romantică națională și locația sa centrală.",
+            "en": "Admire the National Romantic architecture and its central location."
+          }
+        },
+        {
+          "name": {
+            "de": "Neristan (Altstadt)",
+            "hu": "Neristan (Óváros)",
+            "ro": "Neristan (Orașul vechi)",
+            "en": "Neristan (Old Town)"
+          },
+          "coords": [
+            23.1305,
+            63.8395
+          ],
+          "category": "old-town",
+          "arrive_at": "09:43",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den engen Gassen mit bunten Holzhäusern.",
+            "hu": "Vesszen el a szűk utcácskákban a színes faházak között.",
+            "ro": "Pierdeți-vă pe străduțele înguste cu case de lemn colorate.",
+            "en": "Get lost in the narrow streets with colourful wooden houses."
+          }
+        },
+        {
+          "name": {
+            "de": "K.H. Renlund Museum",
+            "hu": "K.H. Renlund Múzeum",
+            "ro": "Muzeul K.H. Renlund",
+            "en": "K.H. Renlund Museum"
+          },
+          "coords": [
+            23.1298,
+            63.8399
+          ],
+          "category": "museums",
+          "arrive_at": "11:19",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Museum ist in mehreren Gebäuden in Neristan verteilt. Verpassen Sie nicht das Kieppi Naturhistorische Museum.",
+            "hu": "A múzeum több épületben található Neristanban. Ne hagyja ki a Kieppi Természettudományi Múzeumot.",
+            "ro": "Muzeul este împărțit în mai multe clădiri din Neristan. Nu ratați Muzeul de Istorie Naturală Kieppi.",
+            "en": "The museum is spread across several buildings in Neristan. Don't miss the Kieppi Natural History Museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Englischer Park",
+            "hu": "Angol Park",
+            "ro": "Parcul Englez",
+            "en": "English Park"
+          },
+          "coords": [
+            23.1355,
+            63.8415
+          ],
+          "category": "parks",
+          "arrive_at": "13:11",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein schöner Ort für ein Picknick oder einfach nur zum Entspannen am Wasser.",
+            "hu": "Szép hely egy piknikhez vagy csak pihenni a vízparton.",
+            "ro": "Un loc frumos pentru un picnic sau doar pentru a vă relaxa lângă apă.",
+            "en": "A lovely spot for a picnic or just to relax by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Kaarlela",
+            "hu": "Kaarlela-i templom",
+            "ro": "Biserica din Kaarlela",
+            "en": "Kaarlela Church"
+          },
+          "coords": [
+            23.133,
+            63.825
+          ],
+          "category": "churches",
+          "arrive_at": "14:58",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Eine der ältesten Steinkirchen in Mittelfinnland mit mittelalterlichem Ursprung.",
+            "hu": "Közép-Finnország egyik legrégebbi kőtemploma, középkori gyökerekkel.",
+            "ro": "Una dintre cele mai vechi biserici de piatră din Ostrobotnia Centrală, cu origini medievale.",
+            "en": "One of the oldest stone churches in Central Ostrobothnia, with medieval origins."
+          }
+        },
+        {
+          "name": {
+            "de": "Mustakari",
+            "hu": "Mustakari",
+            "ro": "Mustakari",
+            "en": "Mustakari"
+          },
+          "coords": [
+            23.109,
+            63.848
+          ],
+          "category": "parks",
+          "arrive_at": "16:08",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die Meeresbrise und den Blick auf den Archipel vom Yachthafen aus.",
+            "hu": "Élvezze a tengeri szellőt és a szigetvilág látványát a kikötőből.",
+            "ro": "Bucurați-vă de briza mării și de vederea arhipelagului din portul de agrement.",
+            "en": "Enjoy the sea breeze and the view of the archipelago from the marina."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Kokkola beginnt am architektonisch reizvollen Rathaus, bevor Sie in die charmanten Holzhausgassen von Neristan eintauchen. Nach einem tiefen Einblick in die lokale Geschichte im K.H. Renlund Museum, das sich über mehrere Gebäude erstreckt, ist es Zeit für eine Mittagspause. Am Nachmittag schlendern Sie durch den Englischen Park und besuchen die historische Kirche von Kaarlela, eine der ältesten der Region. Der Tag endet am Meer in Mustakari, wo Sie die frische Meeresbrise und die Aussicht auf den Schärengarten genießen, bevor Sie den Abend ausklingen lassen.",
+        "hu": "A kokkolai nap a lenyűgöző építészeti stílusú Városházánál kezdődik, mielőtt elmerülne Neristan bájos, faházakkal szegélyezett utcáin. Miután a több épületben elhelyezkedő K.H. Renlund Múzeumban mélyrehatóan megismerte a helyi történelmet, ideje ebédelni. Délután sétáljon át az Angol Parkon, és látogasson el a történelmi Kaarlela-i templomhoz, a régió egyik legrégebbi templomához. A nap a tengerparton, Mustakariban ér véget, ahol élvezheti a friss tengeri szellőt és a szigetvilágra nyíló kilátást, mielőtt lezárná az estét.",
+        "ro": "Ziua dvs. în Kokkola începe la Primăria cu arhitectură impresionantă, înainte de a vă cufunda în străduțele fermecătoare cu case de lemn din Neristan. După o incursiune profundă în istoria locală la Muzeul K.H. Renlund, care se întinde pe mai multe clădiri, este timpul pentru o pauză de prânz. După-amiaza, vă plimbați prin Parcul Englez și vizitați biserica istorică din Kaarlela, una dintre cele mai vechi din regiune. Ziua se încheie la malul mării, în Mustakari, unde vă bucurați de briza proaspătă și de vederea arhipelagului înainte de a încheia seara.",
+        "en": "Your day in Kokkola begins at the architecturally pleasing Town Hall before you dive into the charming wooden house streets of Neristan. After a deep dive into local history at the K.H. Renlund Museum, which is spread across several buildings, it's time for a lunch break. In the afternoon, you'll stroll through the English Park and visit the historic Kaarlela Church, one of the oldest in the region. The day concludes by the sea at Mustakari, enjoying the fresh sea breeze and the archipelago view before winding down for the evening."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokaler Fisch",
+            "tip": "Probieren Sie frisch geräucherten Lachs oder Hering, eine Spezialität der Küstenregion."
+          },
+          {
+            "name": "Restaurant Nera",
+            "tip": "Ein beliebtes Restaurant in Neristan, das für sein gemütliches Ambiente und seine skandinavische Küche bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi hal",
+            "tip": "Kóstolja meg a frissen füstölt lazacot vagy heringet, a tengerparti régió specialitását."
+          },
+          {
+            "name": "Nera Étterem",
+            "tip": "Népszerű étterem Neristanban, amely hangulatos környezetéről és skandináv konyhájáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește local",
+            "tip": "Încercați somon sau hering proaspăt afumat, o specialitate a regiunii de coastă."
+          },
+          {
+            "name": "Restaurant Nera",
+            "tip": "Un restaurant popular în Neristan, cunoscut pentru atmosfera sa primitoare și bucătăria scandinavă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Fish",
+            "tip": "Try freshly smoked salmon or herring, a specialty of the coastal region."
+          },
+          {
+            "name": "Restaurant Nera",
+            "tip": "A popular restaurant in Neristan known for its cozy atmosphere and Scandinavian cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Englischer Park",
+            "tip": "Finden Sie eine ruhige Bank am Wasser und beobachten Sie die Boote.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirchhof von Kaarlela",
+            "tip": "Der historische Friedhof rund um die Kirche ist ein Ort des Friedens und der Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Angol Park",
+            "tip": "Keressen egy csendes padot a vízparton, és nézze a csónakokat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kaarlela-i templom kertje",
+            "tip": "A templom körüli történelmi temető a béke és az elmélkedés helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Englez",
+            "tip": "Găsiți o bancă liniștită lângă apă și priviți bărcile.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul Bisericii Kaarlela",
+            "tip": "Cimitirul istoric din jurul bisericii este un loc de pace și reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "English Park",
+            "tip": "Find a quiet bench by the water and watch the boats.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kaarlela Churchyard",
+            "tip": "The historic cemetery surrounding the church is a place of peace and reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handwerksläden in Neristan",
+            "tip": "Entdecken Sie einzigartiges lokales Kunsthandwerk, Töpferwaren und Textilien in den kleinen Boutiquen."
+          },
+          {
+            "name": "Marktplatz (Kauppatori)",
+            "tip": "Besuchen Sie den Markt für frische Beeren, Gemüse und lokale Produkte (besonders im Sommer)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves boltok Neristanban",
+            "tip": "Fedezze fel az egyedi helyi kézműves termékeket, kerámiákat és textíliákat a kis butikokban."
+          },
+          {
+            "name": "Piactér (Kauppatori)",
+            "tip": "Látogasson el a piacra friss bogyókért, zöldségekért és helyi termékekért (különösen nyáron)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat în Neristan",
+            "tip": "Descoperiți obiecte de artizanat locale unice, ceramică și textile în micile buticuri."
+          },
+          {
+            "name": "Piața Centrală (Kauppatori)",
+            "tip": "Vizitați piața pentru fructe de pădure proaspete, legume și produse locale (în special vara)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Artisan Shops in Neristan",
+            "tip": "Discover unique local handicrafts, pottery, and textiles in the small boutiques."
+          },
+          {
+            "name": "Market Square (Kauppatori)",
+            "tip": "Visit the market for fresh berries, vegetables, and local produce (especially in summer)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in Neristan uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind leicht zu Fuß erreichbar.",
+          "Planen Sie für das K.H. Renlund Museum genügend Zeit ein, da es aus mehreren Teilen besteht.",
+          "Prüfen Sie die Öffnungszeiten der Kirche, da diese variieren können."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakövek Neristanban egyenetlenek lehetnek.",
+          "A belváros legtöbb látnivalója könnyen megközelíthető gyalog.",
+          "Tervezzen elegendő időt a K.H. Renlund Múzeumra, mivel több részből áll.",
+          "Ellenőrizze a templom nyitvatartási idejét, mert az változhat."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavelele din Neristan pot fi denivelate.",
+          "Majoritatea atracțiilor din centrul orașului sunt ușor accesibile pe jos.",
+          "Alocați suficient timp pentru Muzeul K.H. Renlund, deoarece este format din mai multe părți.",
+          "Verificați orele de deschidere ale bisericii, deoarece acestea pot varia."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in Neristan can be uneven.",
+          "Most attractions in the city center are within easy walking distance.",
+          "Allow plenty of time for the K.H. Renlund Museum as it consists of several parts.",
+          "Check the opening hours for the church as they can vary."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Neristan (Altstadt)",
+            "hu": "Neristan (Óváros)",
+            "ro": "Neristan (Orașul vechi)",
+            "en": "Neristan (Old Town)"
+          },
+          "coords": [
+            23.1305,
+            63.8395
+          ],
+          "category": "old-town",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie die engen Gassen zu Fuß.",
+            "hu": "Tegye le a biciklit, és fedezze fel gyalog a szűk utcákat.",
+            "ro": "Parcați bicicleta și explorați străduțele înguste pe jos.",
+            "en": "Park your bike and explore the narrow alleys on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "K.H. Renlund Museum",
+            "hu": "K.H. Renlund Múzeum",
+            "ro": "Muzeul K.H. Renlund",
+            "en": "K.H. Renlund Museum"
+          },
+          "coords": [
+            23.1298,
+            63.8399
+          ],
+          "category": "museums",
+          "arrive_at": "10:27",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das Viertel ist ein Freilichtmuseum, aber die Ausstellungen im Inneren sind es wert.",
+            "hu": "Az egész negyed egy szabadtéri múzeum, de a belső kiállítások is megérik.",
+            "ro": "Cartierul este un muzeu în aer liber, dar expozițiile din interior merită vizitate.",
+            "en": "The quarter is an open-air museum, but the exhibitions inside are worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Englischer Park",
+            "hu": "Angol Park",
+            "ro": "Parcul Englez",
+            "en": "English Park"
+          },
+          "coords": [
+            23.1355,
+            63.8415
+          ],
+          "category": "parks",
+          "arrive_at": "12:03",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für eine Mittagspause. Es gibt Radwege entlang des Wassers.",
+            "hu": "Tökéletes hely egy ebédszünetre. A víz mentén kerékpárutak is vannak.",
+            "ro": "Un loc perfect pentru o pauză de prânz. Există piste de biciclete de-a lungul apei.",
+            "en": "A perfect spot for a lunch break. There are bike paths along the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Halkokari Denkmal",
+            "hu": "Halkokari emlékmű",
+            "ro": "Monumentul Halkokari",
+            "en": "Halkokari Monument"
+          },
+          "coords": [
+            23.088,
+            63.846
+          ],
+          "category": "monuments",
+          "arrive_at": "13:18",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Erinnert an eine Seeschlacht. Ein schöner Abstecher entlang der Küste.",
+            "hu": "Egy tengeri csatára emlékeztet. Szép kitérő a part mentén.",
+            "ro": "Comemorează o bătălie navală. Un ocol frumos de-a lungul coastei.",
+            "en": "Commemorates a naval battle. A nice detour along the coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Mustakari",
+            "hu": "Mustakari",
+            "ro": "Mustakari",
+            "en": "Mustakari"
+          },
+          "coords": [
+            23.109,
+            63.848
+          ],
+          "category": "parks",
+          "arrive_at": "13:46",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Hier legen die Boote nach Tankar ab. Ein lebhafter Ort im Sommer.",
+            "hu": "Innen indulnak a hajók Tankar felé. Nyáron nyüzsgő hely.",
+            "ro": "Bărcile spre Tankar pleacă de aici. Un loc plin de viață în timpul verii.",
+            "en": "Boats to Tankar leave from here. A lively spot in the summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Kaarlela",
+            "hu": "Kaarlela-i templom",
+            "ro": "Biserica din Kaarlela",
+            "en": "Kaarlela Church"
+          },
+          "coords": [
+            23.133,
+            63.825
+          ],
+          "category": "churches",
+          "arrive_at": "15:07",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Die Radtour zur Kirche führt Sie aus dem Stadtzentrum heraus in eine ruhigere Gegend.",
+            "hu": "A templomhoz vezető kerékpárút kivisz a városközpontból egy csendesebb környékre.",
+            "ro": "Plimbarea cu bicicleta până la biserică vă scoate din centrul orașului într-o zonă mai liniștită.",
+            "en": "The bike ride to the church takes you out of the city center into a quieter area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag im Herzen von Kokkola, der Altstadt Neristan. Nachdem Sie die Atmosphäre und das K.H. Renlund Museum genossen haben, radeln Sie zum Englischen Park für eine wohlverdiente Mittagspause. Am Nachmittag führt Sie eine malerische Küstenroute zum Halkokari Denkmal und zum belebten Hafen von Mustakari. Die letzte Etappe führt Sie landeinwärts zur historischen Kirche von Kaarlela, bevor Sie den Tag beenden. Diese Tour kombiniert städtisches Flair mit wunderschöner Küstenlandschaft.",
+        "hu": "Kezdje a kerékpáros napot Kokkola szívében, Neristan óvárosában. Miután élvezte a hangulatot és a K.H. Renlund Múzeumot, tekerjen el az Angol Parkba egy jól megérdemelt ebédszünetre. Délután egy festői tengerparti útvonal vezet a Halkokari emlékműhöz és a nyüzsgő Mustakari kikötőbe. Az utolsó szakasz a szárazföld belseje felé, a történelmi Kaarlela-i templomhoz vezet, mielőtt befejezné a napot. Ez a túra ötvözi a városi hangulatot a gyönyörű tengerparti tájjal.",
+        "ro": "Începeți-vă ziua pe bicicletă în inima orașului Kokkola, în Orașul Vechi Neristan. După ce v-ați bucurat de atmosferă și de Muzeul K.H. Renlund, pedalați spre Parcul Englez pentru o pauză de prânz binemeritată. După-amiaza, un traseu pitoresc de coastă vă duce la Monumentul Halkokari și la portul plin de viață Mustakari. Ultima etapă vă duce în interiorul uscatului, la biserica istorică din Kaarlela, înainte de a încheia ziua. Acest tur combină farmecul urban cu peisajul frumos de coastă.",
+        "en": "Start your cycling day in the heart of Kokkola, the Old Town of Neristan. After soaking up the atmosphere and the K.H. Renlund Museum, pedal to the English Park for a well-deserved lunch break. In the afternoon, a scenic coastal route takes you to the Halkokari Monument and the bustling Mustakari harbour. The final leg leads you inland to the historic Kaarlela Church before you call it a day. This tour combines urban flair with beautiful coastal scenery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Café im Englischen Park",
+            "tip": "Ein idealer Stopp für Kaffee und Kuchen (kahvi ja pulla) während Ihrer Radtour."
+          },
+          {
+            "name": "Mustakari Restaurant",
+            "tip": "Genießen Sie ein Abendessen mit Meerblick, spezialisiert auf Fischgerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kávézó az Angol Parkban",
+            "tip": "Ideális megálló egy kávéra és süteményre (kahvi ja pulla) a kerékpártúra során."
+          },
+          {
+            "name": "Mustakari Étterem",
+            "tip": "Élvezze a tengerre néző vacsorát, amely halételekre specializálódott."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenea în Parcul Englez",
+            "tip": "O oprire ideală pentru o cafea și o prăjitură (kahvi ja pulla) în timpul turului cu bicicleta."
+          },
+          {
+            "name": "Restaurant Mustakari",
+            "tip": "Bucurați-vă de o cină cu vedere la mare, specializată în preparate din pește."
+          }
+        ],
+        "en": [
+          {
+            "name": "Café in the English Park",
+            "tip": "An ideal stop for coffee and a pastry (kahvi ja pulla) during your bike tour."
+          },
+          {
+            "name": "Mustakari Restaurant",
+            "tip": "Enjoy dinner with a sea view, specializing in fish dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Küstenradweg",
+            "tip": "Der Weg zwischen dem Englischen Park und Halkokari bietet ruhige Abschnitte mit toller Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ufer von Kaarlela",
+            "tip": "In der Nähe der Kirche finden Sie ruhige Plätze am Flussufer.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parti kerékpárút",
+            "tip": "Az Angol Park és Halkokari közötti út csendes szakaszokat kínál remek kilátással.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kaarlela folyópartja",
+            "tip": "A templom közelében csendes helyeket talál a folyóparton.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de coastă",
+            "tip": "Traseul dintre Parcul Englez și Halkokari oferă secțiuni liniștite cu priveliști minunate.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malul râului Kaarlela",
+            "tip": "Lângă biserică veți găsi locuri liniștite pe malul râului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Coastal Bike Path",
+            "tip": "The path between the English Park and Halkokari offers quiet sections with great views.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kaarlela riverside",
+            "tip": "Near the church, you can find quiet spots by the river.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Mieten Sie ein Fahrrad für den Tag oder kaufen Sie Zubehör in einem der örtlichen Geschäfte."
+          },
+          {
+            "name": "Lokale Delikatessen",
+            "tip": "Kaufen Sie geräucherten Fisch oder Roggenbrot auf dem Markt als Proviant für Ihre Tour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Béreljen kerékpárt egy napra, vagy vásároljon kiegészítőket az egyik helyi üzletben."
+          },
+          {
+            "name": "Helyi finomságok",
+            "tip": "Vásároljon füstölt halat vagy rozskenyeret a piacon útravalónak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Închiriați o bicicletă pentru o zi sau cumpărați accesorii de la unul dintre magazinele locale."
+          },
+          {
+            "name": "Delicatese locale",
+            "tip": "Cumpărați pește afumat sau pâine de secară de la piață ca provizii pentru turul dvs."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "Rent a bike for the day or buy accessories at one of the local shops."
+          },
+          {
+            "name": "Local Delicacies",
+            "tip": "Buy smoked fish or rye bread from the market as provisions for your tour."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kokkola ist relativ flach und daher ideal zum Radfahren.",
+          "Achten Sie auf die ausgewiesenen Radwege, besonders entlang der Küste.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, wenn Sie es abstellen, um Sehenswürdigkeiten zu besichtigen.",
+          "Nehmen Sie eine Wasserflasche und Snacks für unterwegs mit."
+        ],
+        "hu": [
+          "Kokkola viszonylag sík, így ideális a kerékpározáshoz.",
+          "Figyeljen a kijelölt kerékpárutakra, különösen a part mentén.",
+          "Mindig zárja le jól a kerékpárt, amikor leteszi a látnivalók megtekintéséhez.",
+          "Vigyen magával egy üveg vizet és harapnivalót az útra."
+        ],
+        "ro": [
+          "Kokkola este relativ plat, ceea ce îl face ideal pentru ciclism.",
+          "Fiți atenți la pistele de biciclete desemnate, în special de-a lungul coastei.",
+          "Încuiați-vă întotdeauna bicicleta în siguranță atunci când o parcați pentru a vizita obiectivele turistice.",
+          "Luați cu voi o sticlă de apă și gustări pentru drum."
+        ],
+        "en": [
+          "Kokkola is relatively flat, making it ideal for cycling.",
+          "Pay attention to the designated bike paths, especially along the coast.",
+          "Always lock your bike securely when parking it to visit attractions.",
+          "Bring a water bottle and snacks for the journey."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 42.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Leuchtturm Tankar",
+            "hu": "Tankar világítótorony",
+            "ro": "Farul Tankar",
+            "en": "Tankar Lighthouse"
+          },
+          "coords": [
+            22.851,
+            63.955
+          ],
+          "category": "lighthouses",
+          "arrive_at": "10:30",
+          "stay_min": 150,
+          "hop_mode": "car",
+          "hop_from_prev_min": 90,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Hafen Mustakari und nehmen Sie ein Fährboot. Prüfen Sie den Fahrplan im Voraus!",
+            "hu": "Vezessen a Mustakari kikötőbe, és szálljon kompra. Előre ellenőrizze a menetrendet!",
+            "ro": "Conduceți până la portul Mustakari și luați un feribot. Verificați programul în avans!",
+            "en": "Drive to Mustakari harbour and take a ferry boat. Check the schedule in advance!"
+          }
+        },
+        {
+          "name": {
+            "de": "Halkokari Denkmal",
+            "hu": "Halkokari emlékmű",
+            "ro": "Monumentul Halkokari",
+            "en": "Halkokari Monument"
+          },
+          "coords": [
+            23.088,
+            63.846
+          ],
+          "category": "monuments",
+          "arrive_at": "13:50",
+          "stay_min": 20,
+          "hop_mode": "car",
+          "hop_from_prev_min": 80,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Nach der Rückkehr von Tankar ein kurzer Halt, um an die Seeschlacht zu erinnern.",
+            "hu": "Miután visszatért Tankarból, egy rövid megálló a tengeri csatára emlékezve.",
+            "ro": "După întoarcerea de la Tankar, o scurtă oprire pentru a comemora bătălia navală.",
+            "en": "After returning from Tankar, a quick stop to commemorate the naval battle."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Neristan",
+            "hu": "Parkoló Neristan",
+            "ro": "Parcare Neristan",
+            "en": "Neristan Parking"
+          },
+          "coords": [
+            23.128,
+            63.841
+          ],
+          "category": "squares",
+          "arrive_at": "14:20",
+          "stay_min": 10,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier, um den Rest des Tages die Altstadt zu Fuß zu erkunden.",
+            "hu": "Parkoljon le itt, és a nap hátralévő részében fedezze fel gyalog az óvárost.",
+            "ro": "Parcați aici pentru a explora orașul vechi pe jos pentru restul zilei.",
+            "en": "Park here to explore the old town on foot for the rest of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Neristan (Altstadt)",
+            "hu": "Neristan (Óváros)",
+            "ro": "Neristan (Orașul vechi)",
+            "en": "Neristan (Old Town)"
+          },
+          "coords": [
+            23.1305,
+            63.8395
+          ],
+          "category": "old-town",
+          "arrive_at": "14:34",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie einen späten Mittagssnack in einem der charmanten Cafés.",
+            "hu": "Fogyasszon el egy késői ebédet az egyik hangulatos kávézóban.",
+            "ro": "Bucurați-vă de o gustare târzie la una dintre cafenelele fermecătoare.",
+            "en": "Enjoy a late lunch snack in one of the charming cafés."
+          }
+        },
+        {
+          "name": {
+            "de": "K.H. Renlund Museum",
+            "hu": "K.H. Renlund Múzeum",
+            "ro": "Muzeul K.H. Renlund",
+            "en": "K.H. Renlund Museum"
+          },
+          "coords": [
+            23.1298,
+            63.8399
+          ],
+          "category": "museums",
+          "arrive_at": "15:35",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Hauptausstellung im Roos-Haus.",
+            "hu": "Koncentráljon a Roos-házban található fő kiállításra.",
+            "ro": "Concentrați-vă pe expoziția principală din Casa Roos.",
+            "en": "Focus on the main exhibition in the Roos House."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Kokkola",
+            "hu": "Kokkolai Városháza",
+            "ro": "Primăria din Kokkola",
+            "en": "Kokkola Town Hall"
+          },
+          "coords": [
+            23.1322,
+            63.8381
+          ],
+          "category": "squares",
+          "arrive_at": "17:01",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein schöner Abschluss des Stadtrundgangs, bevor Sie zum Auto zurückkehren.",
+            "hu": "Szép befejezése a városnézésnek, mielőtt visszatérne az autóhoz.",
+            "ro": "O încheiere frumoasă a turului orașului înainte de a vă întoarce la mașină.",
+            "en": "A nice end to the city walk before heading back to the car."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Kaarlela",
+            "hu": "Kaarlela-i templom",
+            "ro": "Biserica din Kaarlela",
+            "en": "Kaarlela Church"
+          },
+          "coords": [
+            23.133,
+            63.825
+          ],
+          "category": "churches",
+          "arrive_at": "17:45",
+          "stay_min": 35,
+          "hop_mode": "car",
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 9.2,
+          "tip_5lang": {
+            "de": "Ein kurzer abendlicher Besuch dieser stimmungsvollen mittelalterlichen Kirche.",
+            "hu": "Rövid esti látogatás ebben a hangulatos középkori templomban.",
+            "ro": "O scurtă vizită de seară la această biserică medievală plină de atmosferă.",
+            "en": "A short evening visit to this atmospheric medieval church."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt mit einem Abenteuer: Sie fahren zum Hafen und nehmen ein Boot zur Insel Tankar, um den berühmten Leuchtturm zu besuchen. Nach Ihrer Rückkehr am frühen Nachmittag machen Sie einen kurzen Halt am Halkokari Denkmal. Dann parken Sie Ihr Auto in der Nähe von Neristan, um den Rest des Tages das historische Herz von Kokkola zu Fuß zu erkunden. Sie schlendern durch die Holzhausgassen, besuchen das K.H. Renlund Museum und bewundern das Rathaus. Ein kurzer abendlicher Abstecher zur mittelalterlichen Kirche von Kaarlela rundet Ihren erlebnisreichen Tag ab.",
+        "hu": "Az autós nap egy kalanddal kezdődik: a kikötőbe hajt, és hajóval megy a Tankar-szigetre, hogy meglátogassa a híres világítótornyot. Kora délutáni visszaérkezése után rövid megállót tesz a Halkokari emlékműnél. Ezután leparkolja az autót Neristan közelében, hogy a nap hátralévő részében gyalog fedezze fel Kokkola történelmi szívét. Sétáljon a faházas utcákon, látogasson el a K.H. Renlund Múzeumba, és csodálja meg a Városházát. Egy rövid esti kitérő a középkori Kaarlela-i templomhoz teszi teljessé az eseménydús napot.",
+        "ro": "Ziua cu mașina începe cu o aventură: conduceți spre port și luați o barcă spre insula Tankar pentru a vizita faimosul far. După întoarcerea dvs. la începutul după-amiezii, faceți o scurtă oprire la Monumentul Halkokari. Apoi, parcați mașina lângă Neristan pentru a explora inima istorică a Kokkolei pe jos pentru restul zilei. Vă plimbați pe aleile cu case de lemn, vizitați Muzeul K.H. Renlund și admirați Primăria. O scurtă ocolire de seară la biserica medievală din Kaarlela completează ziua plină de evenimente.",
+        "en": "Your car day starts with an adventure: driving to the harbour and taking a boat to Tankar island to visit the famous lighthouse. After returning in the early afternoon, you'll make a quick stop at the Halkokari Monument. Then, park your car near Neristan to explore the historic heart of Kokkola on foot for the rest of the day. You'll wander through the wooden house alleys, visit the K.H. Renlund Museum, and admire the Town Hall. A short evening detour to the medieval Kaarlela Church completes your eventful day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tankar Café",
+            "tip": "Probieren Sie die berühmte Lachssuppe auf der Insel Tankar."
+          },
+          {
+            "name": "Roast Kokkola",
+            "tip": "Ein modernes Café im Stadtzentrum, ideal für einen Kaffee nach Ihrer Rückkehr vom Archipel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tankar Kávézó",
+            "tip": "Kóstolja meg a híres lazaclevest a Tankar-szigeten."
+          },
+          {
+            "name": "Roast Kokkola",
+            "tip": "Modern kávézó a városközpontban, ideális egy kávéra, miután visszatért a szigetvilágból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafeneaua Tankar",
+            "tip": "Încercați faimoasa supă de somon pe insula Tankar."
+          },
+          {
+            "name": "Roast Kokkola",
+            "tip": "O cafenea modernă în centrul orașului, ideală pentru o cafea după întoarcerea din arhipelag."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tankar Café",
+            "tip": "Try the famous salmon soup on Tankar island."
+          },
+          {
+            "name": "Roast Kokkola",
+            "tip": "A modern café in the city centre, perfect for a coffee after your return from the archipelago."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tankar Insel",
+            "tip": "Abseits des Leuchtturms finden Sie ruhige Felsküsten und pure Natur.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ein Hinterhof in Neristan",
+            "tip": "Werfen Sie einen Blick in die ruhigen, privaten Gärten hinter den Holzhäusern.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tankar-sziget",
+            "tip": "A világítótoronytól távolabb csendes, sziklás partokat és tiszta természetet talál.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Egy hátsó udvar Neristanban",
+            "tip": "Vessen egy pillantást a faházak mögötti csendes, privát kertekbe.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Insula Tankar",
+            "tip": "Departe de far, veți găsi coaste stâncoase liniștite și natură pură.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "O curte interioară în Neristan",
+            "tip": "Aruncați o privire în grădinile liniștite și private din spatele caselor de lemn.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tankar Island",
+            "tip": "Away from the lighthouse, you'll find quiet rocky shores and pure nature.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A backyard in Neristan",
+            "tip": "Take a peek into the quiet, private gardens behind the wooden houses.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Leuchtturm-Souvenirs",
+            "tip": "Kaufen Sie ein Modell des Tankar-Leuchtturms oder Postkarten auf der Insel."
+          },
+          {
+            "name": "Antiquitätenläden",
+            "tip": "In und um Neristan gibt es einige Läden mit maritimen Antiquitäten und finnischem Design."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Világítótorony-szuvenírek",
+            "tip": "Vásároljon egy Tankar világítótorony modellt vagy képeslapokat a szigeten."
+          },
+          {
+            "name": "Antikváriumok",
+            "tip": "Neristanban és környékén talál néhány boltot tengeri régiségekkel és finn dizájnnal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri cu farul",
+            "tip": "Cumpărați un model al farului Tankar sau cărți poștale de pe insulă."
+          },
+          {
+            "name": "Magazine de antichități",
+            "tip": "În și în jurul Neristanului există câteva magazine cu antichități maritime și design finlandez."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lighthouse Souvenirs",
+            "tip": "Buy a model of the Tankar lighthouse or postcards on the island."
+          },
+          {
+            "name": "Antique Shops",
+            "tip": "In and around Neristan, there are some shops with maritime antiques and Finnish design."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Ausflug nach Tankar ist wetterabhängig. Prüfen Sie die Bedingungen und den Fährbetrieb.",
+          "Buchen Sie die Fährtickets nach Tankar im Voraus, besonders in der Hochsaison.",
+          "Das Parken in der Nähe von Neristan kann im Sommer eine Herausforderung sein. Seien Sie geduldig.",
+          "Kombinieren Sie Auto und Boot für ein umfassendes Erlebnis der Küste von Kokkola."
+        ],
+        "hu": [
+          "A tankari kirándulás időjárásfüggő. Ellenőrizze a körülményeket és a komp közlekedését.",
+          "Foglalja le előre a kompjegyet Tankarba, különösen a főszezonban.",
+          "A parkolás Neristan közelében nyáron kihívást jelenthet. Legyen türelmes.",
+          "Kombinálja az autót és a hajót a kokkolai partvidék átfogó élményéért."
+        ],
+        "ro": [
+          "Excursia la Tankar depinde de vreme. Verificați condițiile și programul feribotului.",
+          "Rezervați biletele de feribot către Tankar în avans, în special în sezonul de vârf.",
+          "Parcarea lângă Neristan poate fi o provocare în timpul verii. Aveți răbdare.",
+          "Combinați mașina și barca pentru o experiență completă a coastei Kokkola."
+        ],
+        "en": [
+          "The trip to Tankar is weather-dependent. Check the conditions and ferry operation.",
+          "Book ferry tickets to Tankar in advance, especially during peak season.",
+          "Parking near Neristan can be challenging in summer. Be patient.",
+          "Combine car and boat for a comprehensive experience of the Kokkola coast."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 10.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Busbahnhof",
+            "hu": "Központi buszpályaudvar",
+            "ro": "Autogara Centrală",
+            "en": "Central Bus Station"
+          },
+          "coords": [
+            23.136,
+            63.836
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für bequemes Reisen.",
+            "hu": "Vásároljon napijegyet a kényelmes utazáshoz.",
+            "ro": "Cumpărați un bilet de o zi pentru o călătorie convenabilă.",
+            "en": "Purchase a day ticket for convenient travel."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Kaarlela",
+            "hu": "Kaarlela-i templom",
+            "ro": "Biserica din Kaarlela",
+            "en": "Kaarlela Church"
+          },
+          "coords": [
+            23.133,
+            63.825
+          ],
+          "category": "churches",
+          "arrive_at": "09:40",
+          "stay_min": 45,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Der erste Halt führt Sie etwas außerhalb des Zentrums zu diesem historischen Juwel.",
+            "hu": "Az első megálló egy kicsit a központon kívülre visz ehhez a történelmi gyöngyszemhez.",
+            "ro": "Prima oprire vă duce puțin în afara centrului, la această bijuterie istorică.",
+            "en": "The first stop takes you slightly outside the center to this historic gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathausplatz (Zentrum)",
+            "hu": "Városház tér (Központ)",
+            "ro": "Piața Primăriei (Centru)",
+            "en": "Town Hall Square (Center)"
+          },
+          "coords": [
+            23.1322,
+            63.8381
+          ],
+          "category": "squares",
+          "arrive_at": "10:45",
+          "stay_min": 15,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Steigen Sie hier aus, um den zentralen Cluster zu Fuß zu erkunden.",
+            "hu": "Szálljon le itt, hogy gyalog fedezze fel a központi részt.",
+            "ro": "Coborâți aici pentru a explora grupul central pe jos.",
+            "en": "Get off here to explore the central cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Neristan (Altstadt)",
+            "hu": "Neristan (Óváros)",
+            "ro": "Neristan (Orașul vechi)",
+            "en": "Neristan (Old Town)"
+          },
+          "coords": [
+            23.1305,
+            63.8395
+          ],
+          "category": "old-town",
+          "arrive_at": "11:05",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit zum Mittagessen und zum Erkunden der Geschäfte.",
+            "hu": "Szánjon időt az ebédre és a boltok felfedezésére.",
+            "ro": "Luați-vă timp pentru prânz și pentru a explora magazinele.",
+            "en": "Take your time for lunch and exploring the shops."
+          }
+        },
+        {
+          "name": {
+            "de": "K.H. Renlund Museum",
+            "hu": "K.H. Renlund Múzeum",
+            "ro": "Muzeul K.H. Renlund",
+            "en": "K.H. Renlund Museum"
+          },
+          "coords": [
+            23.1298,
+            63.8399
+          ],
+          "category": "museums",
+          "arrive_at": "13:07",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Leicht zu Fuß von den Restaurants in Neristan zu erreichen.",
+            "hu": "Könnyen megközelíthető gyalog a neristani éttermektől.",
+            "ro": "Ușor de ajuns pe jos de la restaurantele din Neristan.",
+            "en": "An easy walk from the lunch spots in Neristan."
+          }
+        },
+        {
+          "name": {
+            "de": "Mustakari",
+            "hu": "Mustakari",
+            "ro": "Mustakari",
+            "en": "Mustakari"
+          },
+          "coords": [
+            23.109,
+            63.848
+          ],
+          "category": "parks",
+          "arrive_at": "15:22",
+          "stay_min": 75,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Zentrum zum Hafen, um den Nachmittag am Meer zu verbringen.",
+            "hu": "Menjen busszal a központból a kikötőbe, hogy a délutánt a tengernél töltse.",
+            "ro": "Luați un autobuz din centru spre port pentru a petrece după-amiaza la mare.",
+            "en": "Take a bus from the center to the harbour to spend the afternoon by the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt mit dem Kauf einer Tageskarte. Die erste Fahrt führt Sie zur historischen Kirche von Kaarlela am Rande der Stadt. Danach kehren Sie ins Zentrum zurück, um den Hauptcluster von Kokkola zu Fuß zu erkunden. Sie verbringen den Großteil des Tages damit, durch Neristan zu schlendern, zu Mittag zu essen und das K.H. Renlund Museum zu besuchen. Am späten Nachmittag nehmen Sie einen weiteren Bus, der Sie zum Hafen von Mustakari bringt, wo Sie den Tag mit Blick auf das Meer und die Schären ausklingen lassen.",
+        "hu": "A tömegközlekedéssel töltött nap egy napijegy megvásárlásával kezdődik. Az első út a város szélén található történelmi Kaarlela-i templomhoz vezet. Ezután visszatér a központba, hogy gyalog fedezze fel Kokkola központi részét. A nap nagy részét Neristanban sétálva, ebédelve és a K.H. Renlund Múzeumot látogatva tölti. Késő délután egy másik buszra száll, amely elviszi a Mustakari kikötőbe, ahol a tengerre és a szigetvilágra nyíló kilátással zárja a napot.",
+        "ro": "Ziua dvs. cu transportul public începe cu achiziționarea unui bilet de o zi. Prima călătorie vă duce la biserica istorică din Kaarlela, la marginea orașului. După aceea, vă întoarceți în centru pentru a explora pe jos grupul principal din Kokkola. Petreceți cea mai mare parte a zilei plimbându-vă prin Neristan, luând prânzul și vizitând Muzeul K.H. Renlund. Spre seară, luați un alt autobuz care vă duce în portul Mustakari, unde încheiați ziua cu o priveliște asupra mării și a arhipelagului.",
+        "en": "Your day on public transport begins with purchasing a day pass. The first ride takes you to the historic Kaarlela Church on the edge of town. Afterwards, you return to the center to explore Kokkola's main cluster on foot. You'll spend the bulk of the day wandering through Neristan, having lunch, and visiting the K.H. Renlund Museum. In the late afternoon, you'll catch another bus to Mustakari harbour, where you'll end the day with views of the sea and the archipelago."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Markthalle (Kauppahalli)",
+            "tip": "Schnappen Sie sich ein schnelles, lokales Mittagessen in der Nähe des Busbahnhofs."
+          },
+          {
+            "name": "Cafés in Neristan",
+            "tip": "Viele gemütliche Optionen für eine Kaffeepause während Ihres Rundgangs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vásárcsarnok (Kauppahalli)",
+            "tip": "Egyen egy gyors, helyi ebédet a buszpályaudvar közelében."
+          },
+          {
+            "name": "Kávézók Neristanban",
+            "tip": "Számos hangulatos lehetőség egy kávészünetre a séta során."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hala Pieței (Kauppahalli)",
+            "tip": "Luați un prânz rapid, local, lângă autogară."
+          },
+          {
+            "name": "Cafenele în Neristan",
+            "tip": "Multe opțiuni primitoare pentru o pauză de cafea în timpul turului pietonal."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market Hall (Kauppahalli)",
+            "tip": "Grab a quick, local lunch near the bus station."
+          },
+          {
+            "name": "Cafés in Neristan",
+            "tip": "Plenty of cozy options for a coffee break during your walking tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Suntinsuun Uimaranta",
+            "tip": "Ein Strand in der Nähe von Mustakari, der mit dem Bus erreichbar ist, für einen ruhigen Moment.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spaziergang am Fluss Suntinsuu",
+            "tip": "Vom Zentrum aus können Sie entlang des Flusses spazieren, um dem Trubel zu entkommen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Suntinsuun Uimaranta",
+            "tip": "Egy strand Mustakari közelében, busszal elérhető, egy csendes pillanatra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Séta a Suntinsuu folyó mentén",
+            "tip": "A központból a folyó mentén sétálhat, hogy elkerülje a nyüzsgést.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suntinsuun Uimaranta",
+            "tip": "O plajă lângă Mustakari, accesibilă cu autobuzul, pentru un moment de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plimbare pe malul râului Suntinsuu",
+            "tip": "Din centru, puteți merge de-a lungul râului pentru a scăpa de agitație.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Suntinsuun Uimaranta",
+            "tip": "A beach near Mustakari, reachable by bus, for a quiet moment.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Walk along Suntinsuu River",
+            "tip": "From the center, you can walk along the river to escape the hustle and bustle.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Einkaufszentrum Chydenia",
+            "tip": "Befindet sich im Stadtzentrum und bietet eine Vielzahl von Geschäften an einem Ort."
+          },
+          {
+            "name": "Lokale Handwerksläden",
+            "tip": "Verstreut in Neristan, ideal zum Stöbern während des Rundgangs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chydenia bevásárlóközpont",
+            "tip": "A városközpontban található, és számos üzletet kínál egy helyen."
+          },
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Neristanban szétszórva találhatók, ideálisak a séta közbeni nézelődéshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Chydenia",
+            "tip": "Situat în centrul orașului, oferă o varietate de magazine într-un singur loc."
+          },
+          {
+            "name": "Magazine locale de artizanat",
+            "tip": "Împrăștiate prin Neristan, ideale pentru a arunca o privire în timpul turului pietonal."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chydenia Shopping Center",
+            "tip": "Located in the city center, offering a variety of shops in one place."
+          },
+          {
+            "name": "Local artisan shops",
+            "tip": "Scattered throughout Neristan, perfect for browsing during your walking tour."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die lokale Busfahrplan-App herunter oder machen Sie ein Foto vom Fahrplan an den Haltestellen.",
+          "Die Busse verkehren möglicherweise nicht so häufig, insbesondere abends und am Wochenende. Planen Sie im Voraus.",
+          "Eine Tageskarte ist in der Regel günstiger als mehrere Einzelfahrkarten.",
+          "Winken Sie dem Busfahrer zu, damit er weiß, dass Sie an der Haltestelle einsteigen möchten."
+        ],
+        "hu": [
+          "Töltse le a helyi buszmenetrend-alkalmazást, vagy készítsen fotót a menetrendről a megállókban.",
+          "A buszok nem feltétlenül közlekednek olyan sűrűn, különösen este és hétvégén. Tervezzen előre.",
+          "A napijegy általában olcsóbb, mint több vonaljegy.",
+          "Intsen a buszsofőrnek, hogy tudja, fel akar szállni a megállóban."
+        ],
+        "ro": [
+          "Descărcați aplicația locală cu orarele autobuzelor sau faceți o fotografie a orarului din stații.",
+          "Autobuzele s-ar putea să nu circule la fel de frecvent, în special seara și în weekend. Planificați din timp.",
+          "Un bilet de o zi este de obicei mai ieftin decât mai multe bilete individuale.",
+          "Faceți semn șoferului de autobuz pentru a-i arăta că doriți să urcați în stație."
+        ],
+        "en": [
+          "Download the local bus schedule app or take a photo of the timetable at the stops.",
+          "Buses may not run as frequently, especially in the evenings and on weekends. Plan ahead.",
+          "A day ticket is usually cheaper than buying multiple single tickets.",
+          "Wave at the bus driver to let them know you want to get on at the stop."
+        ]
+      }
+    }
+  }
+}

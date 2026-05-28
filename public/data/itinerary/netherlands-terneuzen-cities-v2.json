@@ -1,0 +1,1508 @@
+{
+  "city_id": "netherlands-terneuzen-cities-v2",
+  "anchor": {
+    "name": "Terneuzen",
+    "coords": [
+      3.82,
+      51.32
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Oud Terneuzen (Altstadt)",
+            "hu": "Oud Terneuzen (Óváros)",
+            "ro": "Oud Terneuzen (Orașul vechi)",
+            "en": "Oud Terneuzen (Old Town)"
+          },
+          "coords": [
+            3.8315,
+            51.3362
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie mit einem Kaffee in einem der kleinen Cafés, um die Atmosphäre aufzusaugen.",
+            "hu": "Kezdje a napot egy kávéval az egyik kis kávézóban, hogy magába szívja a hangulatot.",
+            "ro": "Începeți cu o cafea la una dintre micile cafenele pentru a absorbi atmosfera.",
+            "en": "Start with a coffee at one of the small cafés to soak in the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Grote Kerk",
+            "hu": "Grote Kerk (Nagytemplom)",
+            "ro": "Grote Kerk (Biserica Mare)",
+            "en": "Grote Kerk (Great Church)"
+          },
+          "coords": [
+            3.8325,
+            51.3355
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden Glasfenster, die Geschichten erzählen.",
+            "hu": "Figyelje meg a lenyűgöző ólomüveg ablakokat, amelyek történeteket mesélnek.",
+            "ro": "Fiți atenți la vitraliile impresionante care spun povești.",
+            "en": "Pay attention to the impressive stained-glass windows that tell stories."
+          }
+        },
+        {
+          "name": {
+            "de": "Willibrordustoren",
+            "hu": "Willibrordus-torony",
+            "ro": "Turnul Willibrordus",
+            "en": "Willibrordus Tower"
+          },
+          "coords": [
+            3.833,
+            51.3348
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:00",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der ehemalige Leuchtturm bietet einen tollen Fotohintergrund.",
+            "hu": "Az egykori világítótorony nagyszerű fotóhátteret kínál.",
+            "ro": "Fostul far oferă un fundal excelent pentru fotografii.",
+            "en": "The former lighthouse offers a great photo backdrop."
+          }
+        },
+        {
+          "name": {
+            "de": "Monument 'De Vliegende Hollander'",
+            "hu": "A 'Bolygó Hollandi' emlékmű",
+            "ro": "Monumentul 'Olandezul Zburător'",
+            "en": "Monument 'The Flying Dutchman'"
+          },
+          "coords": [
+            3.8288,
+            51.3385
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:35",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Lesen Sie die Legende, bevor Sie das Denkmal besuchen, um seine Bedeutung voll zu erfassen.",
+            "hu": "Olvassa el a legendát, mielőtt meglátogatja az emlékművet, hogy teljes mértékben megértse jelentését.",
+            "ro": "Citiți legenda înainte de a vizita monumentul pentru a-i înțelege pe deplin semnificația.",
+            "en": "Read the legend before visiting the monument to fully grasp its meaning."
+          }
+        },
+        {
+          "name": {
+            "de": "Scheldeboulevard",
+            "hu": "Schelde sétány",
+            "ro": "Bulevardul Schelde",
+            "en": "Scheldt Boulevard"
+          },
+          "coords": [
+            3.824,
+            51.34
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:00",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekter Ort für ein Mittagessen mit Blick auf die vorbeifahrenden Seeschiffe.",
+            "hu": "Tökéletes hely egy ebédhez, kilátással az elhaladó tengeri hajókra.",
+            "ro": "Locul perfect pentru prânz cu vedere la navele maritime care trec.",
+            "en": "Perfect spot for lunch with a view of the passing sea ships."
+          }
+        },
+        {
+          "name": {
+            "de": "Portaal van Vlaanderen",
+            "hu": "Portaal van Vlaanderen (Flandria Kapuja)",
+            "ro": "Portaal van Vlaanderen (Poarta Flandrei)",
+            "en": "Portaal van Vlaanderen (Gateway to Flanders)"
+          },
+          "coords": [
+            3.8151,
+            51.3294
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:25",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Buchen Sie eine Rundfahrt durch die Schleusen – ein beeindruckendes Erlebnis!",
+            "hu": "Foglaljon egy túrát a zsilipeken keresztül – lenyűgöző élmény!",
+            "ro": "Rezervați un tur prin ecluze - o experiență impresionantă!",
+            "en": "Book a tour through the locks—it's an impressive experience!"
+          }
+        },
+        {
+          "name": {
+            "de": "Schoolmuseum 'Schooltijd'",
+            "hu": "'Schooltijd' Iskolamúzeum",
+            "ro": "Muzeul Școlii 'Schooltijd'",
+            "en": "School Museum 'Schooltijd'"
+          },
+          "coords": [
+            3.834,
+            51.332
+          ],
+          "category": "museums",
+          "arrive_at": "16:20",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Probieren Sie das Schreiben mit einem Griffel auf einer Schiefertafel aus.",
+            "hu": "Próbálja ki az írást palatáblán egy íróvesszővel.",
+            "ro": "Încercați să scrieți pe o tăbliță de ardezie cu un stilet.",
+            "en": "Try writing on a slate with a stylus."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Terneuzen beginnt mit einem Spaziergang durch die historischen Gassen von Oud Terneuzen, gefolgt von der ruhigen Atmosphäre der Grote Kerk. Am Vormittag entdecken Sie die maritimen Legenden am Denkmal des Fliegenden Holländers und genießen die Aussicht vom Willibrordustoren. Mittags entspannen Sie am Scheldeboulevard, beobachten die riesigen Schiffe und genießen ein lokales Mittagessen. Am Nachmittag tauchen Sie in die beeindruckende Technik des Portaal van Vlaanderen ein und beenden den Tag mit einer nostalgischen Reise in die Vergangenheit im Schoolmuseum 'Schooltijd'.",
+        "hu": "A terneuzeni nap egy sétával kezdődik Oud Terneuzen történelmi utcáin, majd a Grote Kerk csendes hangulatát élvezheti. Délelőtt a Bolygó Hollandi emlékművénél felfedezi a tengeri legendákat, és megcsodálja a kilátást a Willibrordus-toronyból. Délben a Schelde sétányon pihen, figyeli az óriási hajókat és elfogyaszt egy helyi ebédet. Délután elmerül a Portaal van Vlaanderen lenyűgöző technológiájában, majd a napot egy nosztalgikus utazással zárja a 'Schooltijd' Iskolamúzeumban.",
+        "ro": "Ziua dvs. în Terneuzen începe cu o plimbare pe aleile istorice din Oud Terneuzen, urmată de atmosfera liniștită a Grote Kerk. În cursul dimineții, descoperiți legendele maritime la monumentul Olandezul Zburător și admirați priveliștea din turnul Willibrordus. La prânz, vă relaxați pe bulevardul Schelde, urmărind navele uriașe și savurând un prânz local. După-amiaza, vă scufundați în tehnologia impresionantă de la Portaal van Vlaanderen și încheiați ziua cu o călătorie nostalgică în trecut la Muzeul Școlii 'Schooltijd'.",
+        "en": "Your day in Terneuzen begins with a stroll through the historic alleys of Oud Terneuzen, followed by the quiet atmosphere of the Grote Kerk. In the morning, you'll discover maritime legends at the Flying Dutchman monument and admire the view from the Willibrordus Tower. At noon, you'll relax on the Scheldt Boulevard, watching the huge ships and enjoying a local lunch. In the afternoon, you'll delve into the impressive technology at Portaal van Vlaanderen and end the day with a nostalgic journey into the past at the 'Schooltijd' School Museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zeeuwse Mosselen",
+            "tip": "Frisch aus der Oosterschelde, am besten mit Pommes Frites serviert."
+          },
+          {
+            "name": "Zeeuwse Bolus",
+            "tip": "Ein klebriges, süßes Gebäck, perfekt zum Kaffee."
+          },
+          {
+            "name": "Kibbeling",
+            "tip": "Frittierte Kabeljaustücke, ein beliebter Snack an der Küste."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zeelandi kagyló",
+            "tip": "Frissen az Oosterscheldéből, sült krumplival tálalva a legjobb."
+          },
+          {
+            "name": "Zeelandi Bolus",
+            "tip": "Ragacsos, édes péksütemény, tökéletes kávé mellé."
+          },
+          {
+            "name": "Kibbeling",
+            "tip": "Sült tőkehal darabok, népszerű tengerparti snack."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Midii de Zeeland",
+            "tip": "Proaspete din Oosterschelde, servite cel mai bine cu cartofi prăjiți."
+          },
+          {
+            "name": "Bolus de Zeeland",
+            "tip": "Un produs de patiserie lipicios și dulce, perfect cu cafea."
+          },
+          {
+            "name": "Kibbeling",
+            "tip": "Bucăți de cod prăjit, o gustare populară pe coastă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zeeland Mussels",
+            "tip": "Fresh from the Oosterschelde, best served with fries."
+          },
+          {
+            "name": "Zeeland Bolus",
+            "tip": "A sticky, sweet pastry, perfect with coffee."
+          },
+          {
+            "name": "Kibbeling",
+            "tip": "Fried cod pieces, a popular coastal snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Scheldeboulevard bei Sonnenuntergang",
+            "tip": "Beobachten Sie, wie die Sonne hinter den Kränen und Schiffen untergeht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Park Zeeland",
+            "tip": "Ein ruhiger Spaziergang abseits des geschäftigen Zentrums.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Eine Bank an der Grote Kerk",
+            "tip": "Ein Moment der Stille im historischen Herzen der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Schelde sétány naplementekor",
+            "tip": "Nézze, ahogy a nap lemegy a daruk és hajók mögött.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Zeeland Park",
+            "tip": "Egy csendes séta távol a nyüzsgő központtól.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Egy pad a Grote Kerk mellett",
+            "tip": "Egy csendes pillanat a város történelmi szívében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bulevardul Schelde la apus",
+            "tip": "Priviți cum soarele apune în spatele macaralelor și navelor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Zeeland",
+            "tip": "O plimbare liniștită departe de centrul aglomerat.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "O bancă la Grote Kerk",
+            "tip": "Un moment de liniște în inima istorică a orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Scheldt Boulevard at sunset",
+            "tip": "Watch the sun set behind the cranes and ships.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Park Zeeland",
+            "tip": "A quiet walk away from the busy center.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A bench at the Grote Kerk",
+            "tip": "A moment of silence in the historic heart of the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Finden Sie lokale Produkte und Spezialitäten auf dem Markt am Dienstag."
+          },
+          {
+            "name": "Geschäfte in Oud Terneuzen",
+            "tip": "Stöbern Sie in den kleinen Boutiquen nach einzigartigen Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Találjon helyi termékeket és különlegességeket a keddi piacon."
+          },
+          {
+            "name": "Üzletek Oud Terneuzenben",
+            "tip": "Böngésszen a kis butikokban egyedi szuvenírekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Găsiți produse locale și specialități la piața de marți."
+          },
+          {
+            "name": "Magazine în Oud Terneuzen",
+            "tip": "Răsfoiți micile buticuri pentru suveniruri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Find local produce and specialties at the Tuesday market."
+          },
+          {
+            "name": "Shops in Oud Terneuzen",
+            "tip": "Browse the small boutiques for unique souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag auf den Beinen sein werden.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus, da diese variieren können.",
+          "Eine wiederverwendbare Wasserflasche ist eine gute Idee, um hydriert zu bleiben.",
+          "Nehmen Sie sich Zeit für eine Pause in einem Café, um das lokale Leben zu beobachten."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap talpon lesz.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét, mert az változhat.",
+          "Egy újrafelhasználható vizes palack jó ötlet, hogy hidratált maradjon.",
+          "Szánjon időt egy kávézói szünetre, hogy megfigyelje a helyi életet."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți fi în picioare toată ziua.",
+          "Verificați în avans orele de deschidere ale muzeelor, deoarece acestea pot varia.",
+          "O sticlă de apă reutilizabilă este o idee bună pentru a rămâne hidratat.",
+          "Luați-vă timp pentru o pauză la o cafenea pentru a observa viața locală."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be on your feet all day.",
+          "Check the opening hours of the museums in advance as they can vary.",
+          "A reusable water bottle is a good idea to stay hydrated.",
+          "Take time for a break in a café to observe local life."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Oud Terneuzen (Altstadt)",
+            "hu": "Oud Terneuzen (Óváros)",
+            "ro": "Oud Terneuzen (Orașul vechi)",
+            "en": "Oud Terneuzen (Old Town)"
+          },
+          "coords": [
+            3.8315,
+            51.3362
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und erkunden Sie die engen Gassen zu Fuß.",
+            "hu": "Parkolja le a kerékpárt, és fedezze fel gyalog a szűk utcákat.",
+            "ro": "Parcați bicicleta și explorați aleile înguste pe jos.",
+            "en": "Park your bike and explore the narrow alleys on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Scheldeboulevard",
+            "hu": "Schelde sétány",
+            "ro": "Bulevardul Schelde",
+            "en": "Scheldt Boulevard"
+          },
+          "coords": [
+            3.824,
+            51.34
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:01",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Eine gemütliche Radtour entlang des Boulevards mit ständiger Aussicht auf das Wasser.",
+            "hu": "Kellemes kerékpártúra a sétány mentén, állandó kilátással a vízre.",
+            "ro": "O plimbare relaxantă cu bicicleta de-a lungul bulevardului, cu vedere constantă la apă.",
+            "en": "A leisurely bike ride along the boulevard with a constant view of the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Monument 'De Vliegende Hollander'",
+            "hu": "A 'Bolygó Hollandi' emlékmű",
+            "ro": "Monumentul 'Olandezul Zburător'",
+            "en": "Monument 'The Flying Dutchman'"
+          },
+          "coords": [
+            3.8288,
+            51.3385
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:04",
+          "stay_min": 15,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp auf Ihrer Radtour, um der Legende zu gedenken.",
+            "hu": "Rövid megálló a kerékpártúrán, hogy megemlékezzen a legendáról.",
+            "ro": "O scurtă oprire în turul cu bicicleta pentru a comemora legenda.",
+            "en": "A quick stop on your bike tour to commemorate the legend."
+          }
+        },
+        {
+          "name": {
+            "de": "Portaal van Vlaanderen",
+            "hu": "Portaal van Vlaanderen",
+            "ro": "Portaal van Vlaanderen",
+            "en": "Portaal van Vlaanderen"
+          },
+          "coords": [
+            3.8151,
+            51.3294
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:34",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit für die Schleusenführung und das Mittagessen in der Nähe ein.",
+            "hu": "Tervezzen elég időt a zsilip-túrára és az ebédre a közelben.",
+            "ro": "Planificați suficient timp pentru turul ecluzei și pentru prânz în apropiere.",
+            "en": "Plan enough time for the lock tour and lunch nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Park Zeeland",
+            "hu": "Zeeland Park",
+            "ro": "Parcul Zeeland",
+            "en": "Park Zeeland"
+          },
+          "coords": [
+            3.845,
+            51.325
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:04",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Der perfekte Ort für eine Pause im Grünen nach dem industriellen Flair des Hafens.",
+            "hu": "Tökéletes hely egy zöld pihenőre a kikötő ipari hangulata után.",
+            "ro": "Locul perfect pentru o pauză în verdeață după flerul industrial al portului.",
+            "en": "The perfect place for a green break after the industrial flair of the port."
+          }
+        },
+        {
+          "name": {
+            "de": "Schoolmuseum 'Schooltijd'",
+            "hu": "'Schooltijd' Iskolamúzeum",
+            "ro": "Muzeul Școlii 'Schooltijd'",
+            "en": "School Museum 'Schooltijd'"
+          },
+          "coords": [
+            3.834,
+            51.332
+          ],
+          "category": "museums",
+          "arrive_at": "15:39",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein schöner Kontrast zum Rest des Tages, besonders wenn Sie mit Kindern unterwegs sind.",
+            "hu": "Szép kontraszt a nap többi részéhez képest, különösen, ha gyerekekkel utazik.",
+            "ro": "Un contrast plăcut cu restul zilei, mai ales dacă călătoriți cu copii.",
+            "en": "A nice contrast to the rest of the day, especially if you are traveling with children."
+          }
+        },
+        {
+          "name": {
+            "de": "Grote Kerk & Willibrordustoren",
+            "hu": "Grote Kerk és Willibrordus-torony",
+            "ro": "Grote Kerk și Turnul Willibrordus",
+            "en": "Grote Kerk & Willibrordus Tower"
+          },
+          "coords": [
+            3.8327,
+            51.3351
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:27",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem Blick auf die historischen Wahrzeichen, die Sie am Morgen aus der Ferne gesehen haben.",
+            "hu": "Fejezze be a túrát a történelmi nevezetességek megtekintésével, amelyeket reggel távolról látott.",
+            "ro": "Încheiați turul cu o privire la reperele istorice pe care le-ați văzut de la distanță dimineața.",
+            "en": "End your tour with a look at the historic landmarks you saw from a distance in the morning."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und beginnen Sie den Tag in Oud Terneuzen. Radeln Sie am Morgen entlang des belebten Scheldeboulevards, vorbei am Denkmal des Fliegenden Holländers, und spüren Sie die Meeresbrise. Zur Mittagszeit erreichen Sie das technische Wunderwerk Portaal van Vlaanderen, wo Sie eine ausgiebige Pause einlegen. Am Nachmittag radeln Sie durch das Grün des Parks Zeeland, bevor Sie im Schoolmuseum in die Schulzeit von einst eintauchen und den Tag mit einem letzten Blick auf die historischen Türme der Stadt beenden.",
+        "hu": "Pattanjon kerékpárra, és kezdje a napot Oud Terneuzenben. Reggel tekerjen végig a nyüzsgő Schelde sétányon, elhaladva a Bolygó Hollandi emlékműve mellett, és érezze a tengeri szellőt. Délidőben érkezik meg a Portaal van Vlaanderen műszaki csodájához, ahol hosszabb szünetet tart. Délután áthalad a Zeeland Park zöldjén, mielőtt az Iskolamúzeumban elmerülne a régi idők iskolai életében, és a napot a város történelmi tornyainak utolsó megtekintésével zárja.",
+        "ro": "Urcați-vă pe bicicletă și începeți ziua în Oud Terneuzen. Dimineața pedalați de-a lungul aglomeratului bulevard Schelde, trecând pe lângă monumentul Olandezul Zburător și simțind briza mării. La prânz, ajungeți la minunea tehnică Portaal van Vlaanderen, unde faceți o pauză lungă. După-amiaza, pedalați prin verdeața Parcului Zeeland înainte de a vă cufunda în viața școlară de altădată la Muzeul Școlii și de a încheia ziua cu o ultimă privire la turnurile istorice ale orașului.",
+        "en": "Hop on your bike and start the day in Oud Terneuzen. In the morning, cycle along the bustling Scheldt Boulevard, past the Flying Dutchman monument, and feel the sea breeze. At lunchtime, you'll reach the technical marvel of Portaal van Vlaanderen, where you'll take an extended break. In the afternoon, cycle through the greenery of Park Zeeland before immersing yourself in the school days of yesteryear at the School Museum and ending the day with a final look at the city's historic towers."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pfannkuchenhaus",
+            "tip": "Ein herzhafter oder süßer Pfannkuchen ist der perfekte Treibstoff für Radfahrer."
+          },
+          {
+            "name": "Fischbrötchen am Boulevard",
+            "tip": "Ein schneller, leckerer und lokaler Happen für zwischendurch."
+          },
+          {
+            "name": "Lokale Brauerei",
+            "tip": "Belohnen Sie sich nach der Tour mit einem handwerklich gebrauten Bier."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palacsintaház",
+            "tip": "Egy sós vagy édes palacsinta tökéletes üzemanyag a kerékpárosoknak."
+          },
+          {
+            "name": "Halas szendvics a sétányon",
+            "tip": "Gyors, finom és helyi falat útközben."
+          },
+          {
+            "name": "Helyi sörfőzde",
+            "tip": "Jutalmazza meg magát egy kézműves sörrel a túra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Casă de clătite",
+            "tip": "O clătită sărată sau dulce este combustibilul perfect pentru bicicliști."
+          },
+          {
+            "name": "Sandviș cu pește pe bulevard",
+            "tip": "O gustare rapidă, delicioasă și locală pentru drum."
+          },
+          {
+            "name": "Berărie locală",
+            "tip": "Recompensați-vă cu o bere artizanală după tur."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pancake House",
+            "tip": "A hearty or sweet pancake is the perfect fuel for cyclists."
+          },
+          {
+            "name": "Fish sandwich on the boulevard",
+            "tip": "A quick, delicious, and local bite for on the go."
+          },
+          {
+            "name": "Local Brewery",
+            "tip": "Reward yourself with a craft beer after the tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg entlang des Kanals Gent-Terneuzen",
+            "tip": "Entfliehen Sie dem Trubel und beobachten Sie die Binnenschiffe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eine Bank im Park Zeeland",
+            "tip": "Lesen Sie ein Buch oder genießen Sie einfach die Ruhe im Grünen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Die Stille in der Grote Kerk",
+            "tip": "Ein kühler, ruhiger Ort an einem warmen Tag.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Gent-Terneuzen csatorna mentén",
+            "tip": "Meneküljön el a nyüzsgés elől, és figyelje a folyami hajókat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy pad a Zeeland Parkban",
+            "tip": "Olvasson egy könyvet, vagy csak élvezze a csendet a zöldben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A csend a Grote Kerkben",
+            "tip": "Hűvös, csendes hely egy meleg napon.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul canalului Gent-Terneuzen",
+            "tip": "Evadați din agitație și priviți barjele.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O bancă în Parcul Zeeland",
+            "tip": "Citiți o carte sau pur și simplu bucurați-vă de liniștea din parc.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Liniștea din Grote Kerk",
+            "tip": "Un loc răcoros și liniștit într-o zi călduroasă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike path along the Ghent-Terneuzen Canal",
+            "tip": "Escape the hustle and bustle and watch the barges.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A bench in Park Zeeland",
+            "tip": "Read a book or just enjoy the peace and quiet in the green.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "The silence in the Grote Kerk",
+            "tip": "A cool, quiet place on a warm day.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Kaufen Sie lokales Zubehör oder ein Souvenir mit Fahrradmotiv."
+          },
+          {
+            "name": "Bauernläden außerhalb der Stadt",
+            "tip": "Machen Sie einen kleinen Umweg für frisches Obst und Käse direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Vásároljon helyi kiegészítőket vagy kerékpáros témájú szuvenírt."
+          },
+          {
+            "name": "Tanyasi boltok a városon kívül",
+            "tip": "Tegyen egy kis kitérőt friss gyümölcsért és sajért közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Cumpărați accesorii locale sau un suvenir cu tematică ciclistă."
+          },
+          {
+            "name": "Magazine agricole în afara orașului",
+            "tip": "Faceți un mic ocol pentru fructe proaspete și brânză direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bicycle shop",
+            "tip": "Buy local accessories or a cycling-themed souvenir."
+          },
+          {
+            "name": "Farm shops outside the city",
+            "tip": "Take a small detour for fresh fruit and cheese directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad bei einem der lokalen Anbieter, wenn Sie keins dabeihaben.",
+          "Achten Sie auf die Windverhältnisse, besonders am Boulevard.",
+          "Ein Helm wird empfohlen.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, auch bei kurzen Stopps."
+        ],
+        "hu": [
+          "Béreljen kerékpárt az egyik helyi szolgáltatónál, ha nincs sajátja.",
+          "Figyeljen a szélviszonyokra, különösen a sétányon.",
+          "Sisak viselése ajánlott.",
+          "Mindig zárja le jól a kerékpárt, még rövid megállók esetén is."
+        ],
+        "ro": [
+          "Închiriați o bicicletă de la unul dintre furnizorii locali dacă nu aveți una.",
+          "Fiți atenți la condițiile de vânt, în special pe bulevard.",
+          "Se recomandă purtarea căștii.",
+          "Încuiati întotdeauna bicicleta, chiar și pentru opriri scurte."
+        ],
+        "en": [
+          "Rent a bike from one of the local providers if you don't have one.",
+          "Pay attention to the wind conditions, especially on the boulevard.",
+          "A helmet is recommended.",
+          "Always lock your bike securely, even for short stops."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Historisches Zentrum (Parken)",
+            "hu": "1. klaszter: Történelmi központ (Parkolás)",
+            "ro": "Cluster 1: Centru Istoric (Parcare)",
+            "en": "Cluster 1: Historic Center (Parking)"
+          },
+          "coords": [
+            3.8345,
+            51.3365
+          ],
+          "category": "parking",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto zentral, um die Altstadt zu Fuß zu erkunden.",
+            "hu": "Parkolja le autóját központilag, hogy gyalog fedezze fel az óvárost.",
+            "ro": "Parcați mașina central pentru a explora orașul vechi pe jos.",
+            "en": "Park your car centrally to explore the old town on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Oud Terneuzen & Grote Kerk",
+            "hu": "Oud Terneuzen és Grote Kerk",
+            "ro": "Oud Terneuzen & Grote Kerk",
+            "en": "Oud Terneuzen & Grote Kerk"
+          },
+          "coords": [
+            3.832,
+            51.3358
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die Gassen und besuchen Sie die Kirche.",
+            "hu": "Sétáljon végig az utcákon és látogasson el a templomba.",
+            "ro": "Plimbați-vă pe alei și vizitați biserica.",
+            "en": "Stroll through the alleys and visit the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Willibrordustoren & Monument 'De Vliegende Hollander'",
+            "hu": "Willibrordus-torony és a 'Bolygó Hollandi' emlékmű",
+            "ro": "Turnul Willibrordus & Monumentul 'Olandezul Zburător'",
+            "en": "Willibrordus Tower & 'The Flying Dutchman' Monument"
+          },
+          "coords": [
+            3.8298,
+            51.3375
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:35",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang zu zwei weiteren wichtigen Wahrzeichen.",
+            "hu": "Rövid séta két másik fontos nevezetességhez.",
+            "ro": "O scurtă plimbare către alte două repere importante.",
+            "en": "A short walk to two other important landmarks."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Scheldeboulevard (Parken)",
+            "hu": "2. klaszter: Schelde sétány (Parkolás)",
+            "ro": "Cluster 2: Bulevardul Schelde (Parcare)",
+            "en": "Cluster 2: Scheldt Boulevard (Parking)"
+          },
+          "coords": [
+            3.824,
+            51.34
+          ],
+          "category": "parking",
+          "arrive_at": "11:15",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für das Mittagessen und einen langen Spaziergang am Wasser.",
+            "hu": "Szánjon időt az ebédre és egy hosszú sétára a vízparton.",
+            "ro": "Luați-vă timp pentru prânz și o plimbare lungă pe malul apei.",
+            "en": "Take time for lunch and a long walk by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Hafen & Kultur (Parken)",
+            "hu": "3. klaszter: Kikötő és kultúra (Parkolás)",
+            "ro": "Cluster 3: Port și Cultură (Parcare)",
+            "en": "Cluster 3: Port & Culture (Parking)"
+          },
+          "coords": [
+            3.8151,
+            51.3294
+          ],
+          "category": "parking",
+          "arrive_at": "13:25",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parken Sie hier für die nächsten beiden Stopps.",
+            "hu": "Parkoljon itt a következő két megállóhoz.",
+            "ro": "Parcați aici pentru următoarele două opriri.",
+            "en": "Park here for the next two stops."
+          }
+        },
+        {
+          "name": {
+            "de": "Portaal van Vlaanderen",
+            "hu": "Portaal van Vlaanderen",
+            "ro": "Portaal van Vlaanderen",
+            "en": "Portaal van Vlaanderen"
+          },
+          "coords": [
+            3.8151,
+            51.3294
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:30",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Das Informationszentrum ist der beste Ausgangspunkt für Ihren Besuch.",
+            "hu": "A látogatóközpont a legjobb kiindulópont a látogatáshoz.",
+            "ro": "Centrul de informare este cel mai bun punct de plecare pentru vizita dumneavoastră.",
+            "en": "The information center is the best starting point for your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 4: Park Zeeland",
+            "hu": "4. klaszter: Zeeland Park",
+            "ro": "Cluster 4: Parcul Zeeland",
+            "en": "Cluster 4: Park Zeeland"
+          },
+          "coords": [
+            3.845,
+            51.325
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:25",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem entspannten Spaziergang im Park.",
+            "hu": "Zárja a napot egy pihentető sétával a parkban.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă în parc.",
+            "en": "End the day with a relaxing walk in the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Terneuzen ist in Cluster aufgeteilt. Sie beginnen im historischen Herzen, wo Sie parken und zu Fuß Oud Terneuzen, die Grote Kerk und die maritimen Denkmäler erkunden. Anschließend fahren Sie zum Scheldeboulevard für ein ausgedehntes Mittagessen mit Schiffsbeobachtung. Am Nachmittag bringt Sie Ihr Auto zum beeindruckenden Portaal van Vlaanderen, um die Schleusentechnik zu bewundern. Den Abschluss bildet eine entspannte Fahrt zum Park Zeeland für einen ruhigen Spaziergang im Grünen.",
+        "hu": "Az autós napja Terneuzenben klaszterekre van osztva. A történelmi szívben kezd, ahol leparkol, és gyalog fedezi fel Oud Terneuzent, a Grote Kerket és a tengeri emlékműveket. Ezután a Schelde sétányhoz hajt egy kiadós ebédre, hajónézéssel egybekötve. Délután az autója elviszi a lenyűgöző Portaal van Vlaanderenhez, hogy megcsodálja a zsiliptechnikát. A napot egy pihentető autózás zárja a Zeeland Parkba egy csendes sétára a zöldben.",
+        "ro": "Ziua dvs. cu mașina în Terneuzen este împărțită în clustere. Începeți în inima istorică, unde parcați și explorați pe jos Oud Terneuzen, Grote Kerk și monumentele maritime. Apoi conduceți la Bulevardul Schelde pentru un prânz prelungit cu privit la nave. După-amiaza, mașina vă duce la impresionantul Portaal van Vlaanderen pentru a admira tehnologia ecluzelor. Ziua se încheie cu o plimbare relaxantă cu mașina până la Parcul Zeeland pentru o plimbare liniștită în natură.",
+        "en": "Your car day in Terneuzen is divided into clusters. You start in the historic heart, where you park and explore Oud Terneuzen, the Grote Kerk, and the maritime monuments on foot. Then you drive to the Scheldt Boulevard for a long lunch while watching the ships. In the afternoon, your car takes you to the impressive Portaal van Vlaanderen to admire the lock technology. The day concludes with a relaxing drive to Park Zeeland for a quiet walk in the green."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant am Boulevard",
+            "tip": "Wählen Sie ein Restaurant mit Terrasse für die beste Aussicht."
+          },
+          {
+            "name": "Bistro in Oud Terneuzen",
+            "tip": "Genießen Sie ein intimes Abendessen in historischer Umgebung."
+          },
+          {
+            "name": "Eisdiele",
+            "tip": "Ein Eis zum Mitnehmen für Ihren Spaziergang am Wasser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a sétányon",
+            "tip": "Válasszon egy teraszos éttermet a legjobb kilátásért."
+          },
+          {
+            "name": "Bisztró Oud Terneuzenben",
+            "tip": "Élvezzen egy meghitt vacsorát történelmi környezetben."
+          },
+          {
+            "name": "Fagylaltozó",
+            "tip": "Egy elviteles fagylalt a vízparti sétához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant pe bulevard",
+            "tip": "Alegeți un restaurant cu terasă pentru cea mai bună priveliște."
+          },
+          {
+            "name": "Bistro în Oud Terneuzen",
+            "tip": "Bucurați-vă de o cină intimă într-un cadru istoric."
+          },
+          {
+            "name": "Gelaterie",
+            "tip": "O înghețată la pachet pentru plimbarea pe malul apei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant on the boulevard",
+            "tip": "Choose a restaurant with a terrace for the best view."
+          },
+          {
+            "name": "Bistro in Oud Terneuzen",
+            "tip": "Enjoy an intimate dinner in a historic setting."
+          },
+          {
+            "name": "Ice cream parlor",
+            "tip": "An ice cream to go for your walk by the water."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt entlang des Kanals",
+            "tip": "Eine ruhige Fahrt aus der Stadt heraus bietet eine andere Perspektive.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Spätnachmittag im Park Zeeland",
+            "tip": "Wenn die meisten Besucher gegangen sind, finden Sie hier absolute Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussichtspunkt am Scheldeboulevard",
+            "tip": "Parken Sie und schauen Sie einfach nur den Schiffen nach.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Autózás a csatorna mentén",
+            "tip": "Egy csendes út a városból kifelé más perspektívát kínál.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Késő délután a Zeeland Parkban",
+            "tip": "Amikor a legtöbb látogató már elment, itt teljes nyugalmat talál.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátópont a Schelde sétányon",
+            "tip": "Parkoljon le, és csak nézze a hajókat.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare cu mașina de-a lungul canalului",
+            "tip": "O plimbare liniștită în afara orașului oferă o perspectivă diferită.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "După-amiază târzie în Parcul Zeeland",
+            "tip": "Când majoritatea vizitatorilor au plecat, veți găsi aici o liniște absolută.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Punct de belvedere pe Bulevardul Schelde",
+            "tip": "Parcați și priviți pur și simplu navele.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Drive along the canal",
+            "tip": "A quiet drive out of town offers a different perspective.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Late afternoon in Park Zeeland",
+            "tip": "When most visitors have left, you will find absolute peace here.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Viewpoint on the Scheldt Boulevard",
+            "tip": "Park your car and just watch the ships go by.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden in der Umgebung",
+            "tip": "Nutzen Sie das Auto, um authentische lokale Produkte direkt vom Bauernhof zu kaufen."
+          },
+          {
+            "name": "Große Supermärkte am Stadtrand",
+            "tip": "Praktisch, um sich mit niederländischen Spezialitäten für zu Hause einzudecken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok a környéken",
+            "tip": "Használja ki az autót, hogy autentikus helyi termékeket vásároljon közvetlenül a gazdaságból."
+          },
+          {
+            "name": "Nagy szupermarketek a város szélén",
+            "tip": "Praktikus, hogy feltöltse otthoni készleteit holland különlegességekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine agricole din zonă",
+            "tip": "Folosiți mașina pentru a cumpăra produse locale autentice direct de la fermă."
+          },
+          {
+            "name": "Supermarketuri mari la periferia orașului",
+            "tip": "Practic pentru a vă aproviziona cu specialități olandeze pentru acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops in the area",
+            "tip": "Use the car to buy authentic local products directly from the farm."
+          },
+          {
+            "name": "Large supermarkets on the outskirts",
+            "tip": "Convenient for stocking up on Dutch specialties for home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich im Voraus über Parkmöglichkeiten und -gebühren.",
+          "Ein Navigationssystem ist hilfreich, um zwischen den Clustern zu navigieren.",
+          "Planen Sie etwas Pufferzeit für den Verkehr ein, besonders rund um den Hafen.",
+          "Achten Sie auf Fahrradfahrer, die in den Niederlanden oft Vorrang haben."
+        ],
+        "hu": [
+          "Előre tájékozódjon a parkolási lehetőségekről és díjakról.",
+          "A navigációs rendszer hasznos a klaszterek közötti navigáláshoz.",
+          "Tervezzen némi pufferidőt a forgalomra, különösen a kikötő környékén.",
+          "Vigyázzon a kerékpárosokra, akiknek Hollandiában gyakran elsőbbségük van."
+        ],
+        "ro": [
+          "Informați-vă în avans despre opțiunile de parcare și taxe.",
+          "Un sistem de navigație este util pentru a naviga între clustere.",
+          "Planificați un timp tampon pentru trafic, în special în jurul portului.",
+          "Fiți atenți la bicicliști, care au adesea prioritate în Olanda."
+        ],
+        "en": [
+          "Find out about parking options and fees in advance.",
+          "A navigation system is helpful for navigating between clusters.",
+          "Plan some buffer time for traffic, especially around the port.",
+          "Watch out for cyclists, who often have the right of way in the Netherlands."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:39",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Zentrum (Bushaltestelle Stadhuis)",
+            "hu": "1. klaszter: Központ (Városháza buszmegálló)",
+            "ro": "Cluster 1: Centru (Stația de autobuz Stadhuis)",
+            "en": "Cluster 1: Center (Stadhuis bus stop)"
+          },
+          "coords": [
+            3.834,
+            51.334
+          ],
+          "category": "transit_stop",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Von hier aus sind die wichtigsten Sehenswürdigkeiten der Altstadt zu Fuß erreichbar.",
+            "hu": "Innen az óváros főbb nevezetességei gyalogosan elérhetők.",
+            "ro": "De aici, principalele atracții ale orașului vechi sunt la distanță de mers pe jos.",
+            "en": "From here, the main sights of the old town are within walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Oud Terneuzen & Grote Kerk",
+            "hu": "Oud Terneuzen és Grote Kerk",
+            "ro": "Oud Terneuzen & Grote Kerk",
+            "en": "Oud Terneuzen & Grote Kerk"
+          },
+          "coords": [
+            3.832,
+            51.3358
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:18",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, die Atmosphäre dieses historischen Viertels aufzusaugen.",
+            "hu": "Szánjon időt arra, hogy magába szívja ennek a történelmi negyednek a hangulatát.",
+            "ro": "Luați-vă timp pentru a absorbi atmosfera acestui cartier istoric.",
+            "en": "Take time to soak up the atmosphere of this historic district."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Scheldeboulevard (Bushaltestelle)",
+            "hu": "2. klaszter: Schelde sétány (Buszmegálló)",
+            "ro": "Cluster 2: Bulevardul Schelde (Stație de autobuz)",
+            "en": "Cluster 2: Scheldt Boulevard (Bus stop)"
+          },
+          "coords": [
+            3.8245,
+            51.3395
+          ],
+          "category": "transit_stop",
+          "arrive_at": "11:08",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht und ein Mittagessen, bevor Sie zum nächsten Cluster weitergehen.",
+            "hu": "Élvezze a kilátást és egy ebédet, mielőtt továbbindul a következő klaszterhez.",
+            "ro": "Bucurați-vă de priveliște și de un prânz înainte de a merge la următorul cluster.",
+            "en": "Enjoy the view and a lunch before moving on to the next cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Monument 'De Vliegende Hollander'",
+            "hu": "A 'Bolygó Hollandi' emlékmű",
+            "ro": "Monumentul 'Olandezul Zburător'",
+            "en": "Monument 'The Flying Dutchman'"
+          },
+          "coords": [
+            3.8288,
+            51.3385
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:13",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Vom Boulevard aus leicht zu Fuß erreichbar.",
+            "hu": "A sétányról könnyen megközelíthető gyalog.",
+            "ro": "Ușor accesibil pe jos de pe bulevard.",
+            "en": "Easily accessible on foot from the boulevard."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Portaal van Vlaanderen (Bushaltestelle)",
+            "hu": "3. klaszter: Portaal van Vlaanderen (Buszmegálló)",
+            "ro": "Cluster 3: Portaal van Vlaanderen (Stație de autobuz)",
+            "en": "Cluster 3: Portaal van Vlaanderen (Bus stop)"
+          },
+          "coords": [
+            3.8155,
+            51.33
+          ],
+          "category": "transit_stop",
+          "arrive_at": "13:58",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Der Bus bringt Sie direkt zum Eingangsbereich des Schleusenkomplexes.",
+            "hu": "A busz közvetlenül a zsilipkomplexum bejáratához viszi.",
+            "ro": "Autobuzul vă duce direct la intrarea în complexul de ecluze.",
+            "en": "The bus takes you directly to the entrance of the lock complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Portaal van Vlaanderen & Schoolmuseum",
+            "hu": "Portaal van Vlaanderen és Iskolamúzeum",
+            "ro": "Portaal van Vlaanderen & Muzeul Școlii",
+            "en": "Portaal van Vlaanderen & School Museum"
+          },
+          "coords": [
+            3.819,
+            51.3298
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:06",
+          "stay_min": 150,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Besuch der modernen Technik mit einer Reise in die Vergangenheit im nahegelegenen Museum.",
+            "hu": "Kombinálja a modern technika látogatását egy múltbeli utazással a közeli múzeumban.",
+            "ro": "Combinați vizita la tehnologia modernă cu o călătorie în trecut la muzeul din apropiere.",
+            "en": "Combine the visit to modern technology with a trip into the past at the nearby museum."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Bus entdecken Sie Terneuzen in bequemen Etappen. Starten Sie im Zentrum und erkunden Sie die Altstadt zu Fuß. Ein kurzer Bus-Hop bringt Sie zum Scheldeboulevard für eine Mittagspause mit Aussicht. Am Nachmittag fahren Sie weiter zum Portaal van Vlaanderen. Von dort aus ist es nur ein kurzer Spaziergang zum Schoolmuseum, wo Sie den Tag zwischen beeindruckender Ingenieurskunst und nostalgischen Klassenzimmern ausklingen lassen.",
+        "hu": "Busszal kényelmes szakaszokban fedezheti fel Terneuzent. Kezdje a központban, és fedezze fel gyalog az óvárost. Egy rövid buszozás elviszi a Schelde sétányra egy kilátással egybekötött ebédszünetre. Délután továbbutazik a Portaal van Vlaanderenhez. Onnan csak egy rövid séta az Iskolamúzeum, ahol a lenyűgöző mérnöki munka és a nosztalgikus osztálytermek között zárhatja a napot.",
+        "ro": "Cu autobuzul, descoperiți Terneuzen în etape confortabile. Începeți în centru și explorați orașul vechi pe jos. O scurtă călătorie cu autobuzul vă duce la Bulevardul Schelde pentru o pauză de prânz cu priveliște. După-amiaza, continuați spre Portaal van Vlaanderen. De acolo, este doar o scurtă plimbare până la Muzeul Școlii, unde puteți încheia ziua între inginerie impresionantă și săli de clasă nostalgice.",
+        "en": "Discover Terneuzen in comfortable stages by bus. Start in the center and explore the old town on foot. A short bus hop takes you to the Scheldt Boulevard for a lunch break with a view. In the afternoon, you continue to the Portaal van Vlaanderen. From there, it's just a short walk to the School Museum, where you can end the day between impressive engineering and nostalgic classrooms."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Snackbar am Busbahnhof",
+            "tip": "Für einen schnellen, typisch niederländischen Snack wie eine Frikandel."
+          },
+          {
+            "name": "Café in der Nähe einer Haltestelle",
+            "tip": "Nutzen Sie die Wartezeit auf den nächsten Bus für einen Kaffee."
+          },
+          {
+            "name": "Restaurant mit Take-Away",
+            "tip": "Holen Sie sich etwas zu Essen und genießen Sie es im Park."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Büfé a buszpályaudvaron",
+            "tip": "Egy gyors, tipikus holland snackért, mint a frikandel."
+          },
+          {
+            "name": "Kávézó egy megálló közelében",
+            "tip": "Használja ki a következő buszra való várakozási időt egy kávéra."
+          },
+          {
+            "name": "Elviteles étterem",
+            "tip": "Vegyen valami ennivalót, és fogyassza el a parkban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gustare la stația de autobuz",
+            "tip": "Pentru o gustare rapidă, tipic olandeză, cum ar fi un frikandel."
+          },
+          {
+            "name": "Cafenea lângă o stație",
+            "tip": "Folosiți timpul de așteptare pentru următorul autobuz pentru o cafea."
+          },
+          {
+            "name": "Restaurant cu mâncare la pachet",
+            "tip": "Luați ceva de mâncare și savurați-l în parc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Snack bar at the bus station",
+            "tip": "For a quick, typical Dutch snack like a frikandel."
+          },
+          {
+            "name": "Café near a bus stop",
+            "tip": "Use the waiting time for the next bus for a coffee."
+          },
+          {
+            "name": "Restaurant with take-away",
+            "tip": "Get some food and enjoy it in the park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Die obere Etage eines Doppeldeckerbusses",
+            "tip": "Bietet eine überraschend ruhige Perspektive auf die Stadt.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Ein Spaziergang entlang des Kanals",
+            "tip": "Erreichbar von der Haltestelle Portaal van Vlaanderen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eine ruhige Ecke in der Grote Kerk",
+            "tip": "Ein Ort der Besinnung, nur wenige Schritte von der Bushaltestelle entfernt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy emeletes busz felső szintje",
+            "tip": "Meglepően csendes perspektívát kínál a városra.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Séta a csatorna mentén",
+            "tip": "A Portaal van Vlaanderen megállótól érhető el.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy csendes sarok a Grote Kerkben",
+            "tip": "Az elmélkedés helye, csak néhány lépésre a buszmegállótól.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etajul superior al unui autobuz supraetajat",
+            "tip": "Oferă o perspectivă surprinzător de liniștită asupra orașului.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "O plimbare de-a lungul canalului",
+            "tip": "Accesibil de la stația Portaal van Vlaanderen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Un colț liniștit în Grote Kerk",
+            "tip": "Un loc de contemplare, la doar câțiva pași de stația de autobuz.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "The upper deck of a double-decker bus",
+            "tip": "Offers a surprisingly quiet perspective of the city.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "A walk along the canal",
+            "tip": "Accessible from the Portaal van Vlaanderen stop.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A quiet corner in the Grote Kerk",
+            "tip": "A place of contemplation, just a few steps from the bus stop.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Kaufen Sie eine Zeitung oder ein Magazin für die Fahrt."
+          },
+          {
+            "name": "Geschäfte in der Nähe des Stadhuis",
+            "tip": "Erledigen Sie kleine Einkäufe, während Sie auf Ihren Anschluss warten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszpályaudvaron",
+            "tip": "Vásároljon újságot vagy magazint az útra."
+          },
+          {
+            "name": "Üzletek a Városháza közelében",
+            "tip": "Végezzen kisebb bevásárlásokat, amíg a csatlakozásra vár."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la stația de autobuz",
+            "tip": "Cumpărați un ziar sau o revistă pentru călătorie."
+          },
+          {
+            "name": "Magazine lângă Stadhuis",
+            "tip": "Faceți cumpărături mici în timp ce așteptați legătura."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus station",
+            "tip": "Buy a newspaper or magazine for the journey."
+          },
+          {
+            "name": "Shops near the Stadhuis",
+            "tip": "Do some small shopping while waiting for your connection."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Laden Sie die Fahrplan-App herunter, um Echtzeit-Informationen zu erhalten.",
+          "Geben Sie dem Fahrer ein Zeichen, wenn Sie an Ihrer Haltestelle aussteigen möchten.",
+          "Planen Sie Ihre Route im Voraus, um Umstiegszeiten zu minimieren."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Töltse le a menetrendi alkalmazást a valós idejű információkért.",
+          "Jelezzen a sofőrnek, ha le szeretne szállni a megállójában.",
+          "Tervezze meg előre az útvonalat az átszállási idők minimalizálása érdekében."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Descărcați aplicația cu orare pentru informații în timp real.",
+          "Faceți semn șoferului când doriți să coborâți la stația dvs.",
+          "Planificați-vă ruta în avans pentru a minimiza timpii de transfer."
+        ],
+        "en": [
+          "Buy a day pass for unlimited travel.",
+          "Download the timetable app for real-time information.",
+          "Signal the driver when you want to get off at your stop.",
+          "Plan your route in advance to minimize transfer times."
+        ]
+      }
+    }
+  }
+}

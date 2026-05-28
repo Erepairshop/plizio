@@ -1,0 +1,1401 @@
+{
+  "city_id": "ireland-gort-cities-v2",
+  "anchor": {
+    "name": "Gort",
+    "coords": [
+      -8.825,
+      53.065
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 3.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "St. Colman's Church",
+            "hu": "Szt. Colman-templom",
+            "ro": "Biserica Sf. Colman",
+            "en": "St. Colman's Church"
+          },
+          "coords": [
+            -8.823,
+            53.066
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beachten Sie die neugotischen Details und die ruhige Atmosphäre im Inneren.",
+            "hu": "Figyelje meg a neogótikus részleteket és a csendes belső atmoszférát.",
+            "ro": "Observați detaliile neogotice și atmosfera liniștită din interior.",
+            "en": "Note the neo-gothic details and the quiet atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "The Weighbridge",
+            "hu": "A mérlegház",
+            "ro": "Cântarul public",
+            "en": "The Weighbridge"
+          },
+          "coords": [
+            -8.8245,
+            53.0655
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:05",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein schnelles Foto an diesem historischen Marktplatz-Wahrzeichen.",
+            "hu": "Egy gyors fotó ennél a történelmi, piactéri nevezetességnél.",
+            "ro": "O fotografie rapidă la acest reper istoric din piață.",
+            "en": "A quick photo stop at this historic market square landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Gort River Walk",
+            "hu": "Gort folyóparti séta",
+            "ro": "Promenada de pe râul Gort",
+            "en": "Gort River Walk"
+          },
+          "coords": [
+            -8.828,
+            53.067
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für einen friedlichen Spaziergang. Suchen Sie nach den Enten!",
+            "hu": "Ideális hely egy békés sétához. Keresse a kacsákat!",
+            "ro": "Un loc ideal pentru o plimbare liniștită. Căutați rațele!",
+            "en": "An ideal spot for a peaceful stroll. Look for the ducks!"
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im The Field",
+            "hu": "Ebédszünet a The Field-ben",
+            "ro": "Pauză de prânz la The Field",
+            "en": "Lunch break at The Field"
+          },
+          "coords": [
+            -8.824,
+            53.065
+          ],
+          "category": "gastro",
+          "arrive_at": "12:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Probieren Sie den traditionellen Irish Stew für ein authentisches Erlebnis.",
+            "hu": "Kóstolja meg a hagyományos ír pörköltet az autentikus élményért.",
+            "ro": "Încercați tocană irlandeză tradițională pentru o experiență autentică.",
+            "en": "Try the traditional Irish Stew for an authentic experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Kiltartan Gregory Museum",
+            "hu": "Kiltartan Gregory Múzeum",
+            "ro": "Muzeul Kiltartan Gregory",
+            "en": "Kiltartan Gregory Museum"
+          },
+          "coords": [
+            -8.815,
+            53.055
+          ],
+          "category": "museums",
+          "arrive_at": "13:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Verbindung zwischen Lady Gregory und W.B. Yeats.",
+            "hu": "Fedezze fel a kapcsolatot Lady Gregory és W.B. Yeats között.",
+            "ro": "Descoperiți legătura dintre Lady Gregory și W.B. Yeats.",
+            "en": "Discover the connection between Lady Gregory and W.B. Yeats."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Gort beginnt mit der stillen Betrachtung in der St. Colman's Church, gefolgt von einem kurzen Halt am historischen Weighbridge. Am Vormittag genießen Sie die Natur bei einem gemütlichen Spaziergang entlang des Gort River. Zum Mittagessen stärken Sie sich mit herzhafter irischer Küche. Der Nachmittag ist der lokalen Geschichte im Kiltartan Gregory Museum gewidmet, das einen Einblick in das literarische Erbe der Region bietet.",
+        "hu": "A gorti nap a Szt. Colman-templomban kezdődik csendes elmélkedéssel, majd egy rövid megállóval a történelmi mérlegháznál. A délelőttöt a természetben tölti egy kellemes sétával a Gort folyó mentén. Ebédre kiadós ír ételekkel erősíthet. A délután a helyi történelemé a Kiltartan Gregory Múzeumban, amely bepillantást nyújt a régió irodalmi örökségébe.",
+        "ro": "Ziua dvs. în Gort începe cu o contemplare liniștită la Biserica Sf. Colman, urmată de o oprire scurtă la istoricul cântar public. Dimineața vă bucurați de natură cu o plimbare agale de-a lungul râului Gort. La prânz, vă veți reîncărca cu bucătărie irlandeză consistentă. După-amiaza este dedicată istoriei locale la Muzeul Kiltartan Gregory, care oferă o perspectivă asupra moștenirii literare a regiunii.",
+        "en": "Your day in Gort begins with quiet contemplation at St. Colman's Church, followed by a brief stop at the historic Weighbridge. The morning is for enjoying nature with a leisurely stroll along the Gort River Walk. For lunch, you'll refuel with hearty Irish cuisine. The afternoon is dedicated to local history at the Kiltartan Gregory Museum, offering insight into the region's literary heritage."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Irish Stew",
+            "tip": "Ein herzhafter Lammeintopf, perfekt für einen kühlen Tag."
+          },
+          {
+            "name": "O'Grady's Bar and Restaurant",
+            "tip": "Bekannt für seine traditionelle Atmosphäre und gutes Essen."
+          },
+          {
+            "name": "Soda Bread",
+            "tip": "Probieren Sie es mit Butter und Marmelade zum Frühstück oder als Beilage."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ír pörkölt",
+            "tip": "Kiadós bárányragu, tökéletes egy hűvös napon."
+          },
+          {
+            "name": "O'Grady's Bar and Restaurant",
+            "tip": "Hagyományos hangulatáról és jó ételeiről ismert."
+          },
+          {
+            "name": "Szódás kenyér",
+            "tip": "Próbálja ki vajjal és lekvárral reggelire vagy köretként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tocană irlandeză",
+            "tip": "O tocană consistentă de miel, perfectă pentru o zi răcoroasă."
+          },
+          {
+            "name": "O'Grady's Bar and Restaurant",
+            "tip": "Cunoscut pentru atmosfera sa tradițională și mâncarea bună."
+          },
+          {
+            "name": "Pâine cu bicarbonat",
+            "tip": "Încercați-o cu unt și gem la micul dejun sau ca garnitură."
+          }
+        ],
+        "en": [
+          {
+            "name": "Irish Stew",
+            "tip": "A hearty lamb stew, perfect for a cool day."
+          },
+          {
+            "name": "O'Grady's Bar and Restaurant",
+            "tip": "Known for its traditional atmosphere and good food."
+          },
+          {
+            "name": "Soda Bread",
+            "tip": "Try it with butter and jam for breakfast or as a side."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gort River Walk",
+            "tip": "Finden Sie eine Bank am Fluss und lauschen Sie dem Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stiller Garten in Coole Park",
+            "tip": "Ein abgeschiedener Ort, umgeben von alten Mauern und Poesie.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sonnenuntergang bei Thoor Ballylee",
+            "tip": "Beobachten Sie, wie das Licht auf dem alten Turm verblasst.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gort folyóparti séta",
+            "tip": "Keressen egy padot a folyó mellett, és hallgassa a víz csobogását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Csendes kert a Coole Parkban",
+            "tip": "Egy eldugott hely, régi falakkal és költészettel körülvéve.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Naplemente a Thoor Ballylee-nél",
+            "tip": "Nézze, ahogy a fények elhalványulnak az ősi tornyon.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada râului Gort",
+            "tip": "Găsiți o bancă lângă râu și ascultați susurul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina liniștită din Coole Park",
+            "tip": "Un loc retras, înconjurat de ziduri vechi și poezie.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Apus la Thoor Ballylee",
+            "tip": "Priviți cum lumina se estompează pe turnul antic.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gort River Walk",
+            "tip": "Find a bench by the river and listen to the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Quiet Garden at Coole Park",
+            "tip": "A secluded spot surrounded by old walls and poetry.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sunset at Thoor Ballylee",
+            "tip": "Watch the light fade on the ancient tower.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gort Farmers Market",
+            "tip": "Freitags für lokale Produkte und Handwerk."
+          },
+          {
+            "name": "Lokale Handwerksläden",
+            "tip": "Suchen Sie nach handgefertigtem Schmuck und Wollwaren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gorti termelői piac",
+            "tip": "Péntekenként helyi termékekért és kézműves árukért."
+          },
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keressen kézzel készített ékszereket és gyapjútermékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața fermierilor din Gort",
+            "tip": "Vinerea, pentru produse locale și meșteșuguri."
+          },
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Căutați bijuterii lucrate manual și articole din lână."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gort Farmers Market",
+            "tip": "Fridays for local produce and crafts."
+          },
+          {
+            "name": "Local Craft Shops",
+            "tip": "Look for handmade jewellery and woollens."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag auf den Beinen sein werden.",
+          "Ein leichter Regenmantel ist immer eine gute Idee in Irland, auch wenn die Sonne scheint.",
+          "Nehmen Sie sich Zeit für ein Gespräch mit den Einheimischen in einem Pub.",
+          "Prüfen Sie die Öffnungszeiten des Museums im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap talpon lesz.",
+          "Egy könnyű esőkabát mindig jó ötlet Írországban, még akkor is, ha süt a nap.",
+          "Szakítson időt egy beszélgetésre a helyiekkel egy pubban.",
+          "Előre ellenőrizze a múzeum nyitvatartási idejét."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți fi în picioare toată ziua.",
+          "O haină de ploaie ușoară este întotdeauna o idee bună în Irlanda, chiar dacă soarele strălucește.",
+          "Faceți-vă timp pentru o conversație cu localnicii într-un pub.",
+          "Verificați orele de deschidere ale muzeului în avans."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be on your feet all day.",
+          "A light raincoat is always a good idea in Ireland, even when the sun is shining.",
+          "Make time for a chat with the locals in a pub.",
+          "Check the museum's opening hours in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:39",
+      "total_km": 19.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Start: Gort Zentrum",
+            "hu": "Indulás: Gort központja",
+            "ro": "Start: Centrul Gort",
+            "en": "Start: Gort Centre"
+          },
+          "coords": [
+            -8.825,
+            53.065
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Holen Sie sich Ihr Fahrrad und überprüfen Sie die Reifen, bevor Sie losfahren.",
+            "hu": "Vegye át a kerékpárt, és indulás előtt ellenőrizze a gumikat.",
+            "ro": "Luați-vă bicicleta și verificați anvelopele înainte de a porni.",
+            "en": "Pick up your bike and check the tires before you set off."
+          }
+        },
+        {
+          "name": {
+            "de": "Thoor Ballylee",
+            "hu": "Thoor Ballylee",
+            "ro": "Thoor Ballylee",
+            "en": "Thoor Ballylee"
+          },
+          "coords": [
+            -8.777,
+            53.102
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 4.8,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Wendeltreppe für die Aussicht, die Yeats inspirierte.",
+            "hu": "Másszon fel a csigalépcsőn a Yeats-et inspiráló kilátásért.",
+            "ro": "Urcați scara în spirală pentru priveliștea care l-a inspirat pe Yeats.",
+            "en": "Climb the winding stair for the view that inspired Yeats."
+          }
+        },
+        {
+          "name": {
+            "de": "Coole Park",
+            "hu": "Coole Park",
+            "ro": "Parcul Coole",
+            "en": "Coole Park"
+          },
+          "coords": [
+            -8.816,
+            53.085
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Suchen Sie den 'Autograph Tree', der mit den Initialen berühmter Schriftsteller verziert ist.",
+            "hu": "Keresse meg az 'Autográf Fát', amelyet híres írók iniciáléi díszítenek.",
+            "ro": "Căutați 'Copacul cu autografe', inscripționat cu inițialele unor scriitori celebri.",
+            "en": "Look for the 'Autograph Tree', carved with the initials of famous writers."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Gort",
+            "hu": "Ebéd Gortban",
+            "ro": "Prânz în Gort",
+            "en": "Lunch in Gort"
+          },
+          "coords": [
+            -8.824,
+            53.065
+          ],
+          "category": "gastro",
+          "arrive_at": "13:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab und genießen Sie eine wohlverdiente Pause.",
+            "hu": "Zárja le biztonságosan a kerékpárt, és élvezze a jól megérdemelt pihenőt.",
+            "ro": "Asigurați-vă bicicleta și bucurați-vă de o pauză binemeritată.",
+            "en": "Lock up your bike securely and enjoy a well-deserved break."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Kilmacduagh",
+            "hu": "Kilmacduagh-i kolostor",
+            "ro": "Mănăstirea Kilmacduagh",
+            "en": "Kloster Kilmacduagh"
+          },
+          "coords": [
+            -8.868,
+            53.042
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den schiefen Rundturm, Irlands Antwort auf Pisa.",
+            "hu": "Csodálja meg a ferde kerek tornyot, Írország válaszát Pisára.",
+            "ro": "Minunați-vă de turnul rotund înclinat, răspunsul Irlandei la Pisa.",
+            "en": "Marvel at the leaning round tower, Ireland's answer to Pisa."
+          }
+        },
+        {
+          "name": {
+            "de": "Lough Cutra Castle (Ansicht)",
+            "hu": "Lough Cutra kastély (kilátás)",
+            "ro": "Castelul Lough Cutra (vedere)",
+            "en": "Lough Cutra Castle (View)"
+          },
+          "coords": [
+            -8.855,
+            53.025
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.4,
+          "tip_5lang": {
+            "de": "Das Schloss ist in Privatbesitz, aber die Aussicht vom Seeufer aus ist atemberaubend.",
+            "hu": "A kastély magántulajdonban van, de a kilátás a tó partjáról lélegzetelállító.",
+            "ro": "Castelul este proprietate privată, dar priveliștea de pe malul lacului este uimitoare.",
+            "en": "The castle is private, but the view from the lough's edge is stunning."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag in Gort und fahren Sie nach Norden zum Thoor Ballylee, dem ehemaligen Wohnsitz von W.B. Yeats. Nach der Erkundung des Turms führt eine kurze Fahrt zum Coole Park, wo Sie durch die Wälder spazieren können. Am Nachmittag kehren Sie nach Gort zurück, um zu Mittag zu essen, bevor Sie sich auf den Weg nach Süden zum beeindruckenden schiefen Turm von Kilmacduagh machen. Beenden Sie den Tag mit einem Blick auf das Lough Cutra Castle, bevor Sie nach Gort zurückkehren.",
+        "hu": "Kezdje a kerékpáros napot Gortban, és tekerjen északra Thoor Ballylee-be, W.B. Yeats egykori otthonába. A torony felfedezése után egy rövid út a Coole Parkba vezet, ahol sétálhat az erdőben. Délután térjen vissza Gortba ebédelni, mielőtt dél felé veszi az irányt a lenyűgöző, ferde Kilmacduagh-toronyhoz. A napot a Lough Cutra kastély megtekintésével zárja, mielőtt visszatérne Gortba.",
+        "ro": "Începeți-vă ziua de ciclism în Gort, îndreptându-vă spre nord către Thoor Ballylee, fosta casă a lui W.B. Yeats. După explorarea turnului, o scurtă plimbare vă duce la Coole Park pentru o plimbare prin pădure. Vă întoarceți la Gort pentru prânz la amiază, înainte de a vă aventura spre sud la impresionantul turn înclinat din Kilmacduagh. Încheiați ziua cu o priveliște a Castelului Lough Cutra înainte de a vă întoarce la Gort.",
+        "en": "Start your cycling day in Gort, heading north to Thoor Ballylee, W.B. Yeats' former home. After exploring the tower, a short ride takes you to Coole Park for a walk through the woods. You'll return to Gort for lunch at midday before venturing south to the impressive leaning tower of Kilmacduagh. End the day with a view of Lough Cutra Castle before the cycle back to Gort."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Field",
+            "tip": "Ein traditioneller Pub mit gutem Essen und einer freundlichen Atmosphäre."
+          },
+          {
+            "name": "Sullivan's Hotel",
+            "tip": "Bietet eine Auswahl an Gerichten, die sich perfekt zur Stärkung eignen."
+          },
+          {
+            "name": "Ein Fläschchen Wasser",
+            "tip": "Vergessen Sie nicht, hydriert zu bleiben!"
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Field",
+            "tip": "Hagyományos pub jó ételekkel és barátságos légkörrel."
+          },
+          {
+            "name": "Sullivan's Hotel",
+            "tip": "Változatos ételeket kínál, amelyek tökéletesek az energiaszerzéshez."
+          },
+          {
+            "name": "Egy üveg víz",
+            "tip": "Ne felejtsen el hidratált maradni!"
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Field",
+            "tip": "Un pub tradițional cu mâncare bună și o atmosferă prietenoasă."
+          },
+          {
+            "name": "Sullivan's Hotel",
+            "tip": "Oferă o varietate de feluri de mâncare perfecte pentru realimentare."
+          },
+          {
+            "name": "O sticlă de apă",
+            "tip": "Nu uitați să vă hidratați!"
+          }
+        ],
+        "en": [
+          {
+            "name": "The Field",
+            "tip": "A traditional pub with good food and a friendly atmosphere."
+          },
+          {
+            "name": "Sullivan's Hotel",
+            "tip": "Offers a range of dishes perfect for refueling."
+          },
+          {
+            "name": "A flask of water",
+            "tip": "Don't forget to stay hydrated!"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Coole Park Walled Garden",
+            "tip": "Ein friedlicher, von Mauern umschlossener Garten.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Lough Cutra",
+            "tip": "Genießen Sie die Stille des Sees.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Blick von Thoor Ballylee",
+            "tip": "Ein ruhiger Moment über den Baumwipfeln.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Coole Park fallal körülvett kertje",
+            "tip": "Békés, fallal körülvett kert.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Lough Cutra partja",
+            "tip": "Élvezze a tó csendjét.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a Thoor Ballylee-ből",
+            "tip": "Egy csendes pillanat a fák koronája felett.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina cu ziduri Coole Park",
+            "tip": "O grădină pașnică, înconjurată de ziduri.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malul lacului Lough Cutra",
+            "tip": "Bucurați-vă de liniștea lacului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Priveliștea de la Thoor Ballylee",
+            "tip": "Un moment de liniște deasupra vârfurilor copacilor.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Coole Park Walled Garden",
+            "tip": "A peaceful walled garden.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Shore of Lough Cutra",
+            "tip": "Enjoy the silence of the lough.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from Thoor Ballylee",
+            "tip": "A quiet moment above the treetops.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gort's Main Street",
+            "tip": "Stöbern Sie in den kleinen Läden nach einem Souvenir."
+          },
+          {
+            "name": "Yeats-Bücher bei Thoor Ballylee",
+            "tip": "Ein passendes Andenken an Ihren Besuch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gort főutcája",
+            "tip": "Böngésszen a kis boltokban egy szuvenírért."
+          },
+          {
+            "name": "Yeats könyvek a Thoor Ballylee-nél",
+            "tip": "Megfelelő emléktárgy a látogatásról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada principală din Gort",
+            "tip": "Răsfoiți micile magazine pentru un suvenir."
+          },
+          {
+            "name": "Cărți de Yeats la Thoor Ballylee",
+            "tip": "Un suvenir potrivit pentru vizita dvs."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gort's Main Street",
+            "tip": "Browse the small shops for a souvenir."
+          },
+          {
+            "name": "Yeats books at Thoor Ballylee",
+            "tip": "A fitting memento of your visit."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen können eng sein, fahren Sie also vorsichtig.",
+          "Ein Helm wird dringend empfohlen.",
+          "Das Wetter kann sich schnell ändern, kleiden Sie sich in Schichten.",
+          "Einige Abschnitte können hügelig sein, seien Sie also auf etwas Anstrengung vorbereitet."
+        ],
+        "hu": [
+          "Az utak szűkek lehetnek, ezért vezessen óvatosan.",
+          "Sisak viselése erősen ajánlott.",
+          "Az időjárás gyorsan változhat, öltözzön rétegesen.",
+          "Néhány szakasz dombos lehet, ezért készüljön fel némi erőfeszítésre."
+        ],
+        "ro": [
+          "Drumurile pot fi înguste, așa că mergeți cu grijă.",
+          "Se recomandă insistent purtarea căștii de protecție.",
+          "Vremea se poate schimba rapid, îmbrăcați-vă în straturi.",
+          "Unele porțiuni pot fi deluroase, așa că fiți pregătit pentru puțin efort."
+        ],
+        "en": [
+          "The roads can be narrow, so cycle with care.",
+          "A helmet is highly recommended.",
+          "The weather can change quickly, so dress in layers.",
+          "Some sections can be hilly, so be prepared for some effort."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 31.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Coole Park",
+            "hu": "A klaszter: Coole Park",
+            "ro": "Cluster A: Parcul Coole",
+            "en": "Cluster A: Coole Park"
+          },
+          "coords": [
+            -8.816,
+            53.085
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier. Sie werden den Park und den nächsten Halt zu Fuß erkunden.",
+            "hu": "Parkoljon itt. A parkot és a következő megállót gyalog fogja felfedezni.",
+            "ro": "Parcați aici. Veți explora parcul și următoarea oprire pe jos.",
+            "en": "Park here. You will explore the park and the next stop on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Autograph Tree",
+            "hu": "Autográf Fa",
+            "ro": "Copacul cu autografe",
+            "en": "Autograph Tree"
+          },
+          "coords": [
+            -8.815,
+            53.086
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:37",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptparkplatz, um die Initialen zu finden.",
+            "hu": "Egy rövid séta a fő parkolóból, hogy megtalálja az iniciálékat.",
+            "ro": "O scurtă plimbare de la parcarea principală pentru a găsi inițialele.",
+            "en": "A short walk from the main car park to find the initials."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Thoor Ballylee",
+            "hu": "B klaszter: Thoor Ballylee",
+            "ro": "Cluster B: Thoor Ballylee",
+            "en": "Cluster B: Thoor Ballylee"
+          },
+          "coords": [
+            -8.777,
+            53.102
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.1,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Yeats' alter Turm. Die Fahrt hierher bietet schöne Ausblicke auf die Landschaft.",
+            "hu": "Yeats régi tornya. Az ide vezető út szép vidéki kilátást nyújt.",
+            "ro": "Vechiul turn al lui Yeats. Drumul până aici oferă priveliști rurale frumoase.",
+            "en": "Yeats' old tower. The drive here offers lovely rural views."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Gort Stadtzentrum (Mittagessen)",
+            "hu": "C klaszter: Gort városközpont (Ebéd)",
+            "ro": "Cluster C: Centrul orașului Gort (Prânz)",
+            "en": "Cluster C: Gort Town Centre (Lunch)"
+          },
+          "coords": [
+            -8.824,
+            53.065
+          ],
+          "category": "gastro",
+          "arrive_at": "12:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Zentrum und genießen Sie eine Mahlzeit in einem der lokalen Pubs.",
+            "hu": "Parkoljon a központban, és ebédeljen az egyik helyi pubban.",
+            "ro": "Parcați în centru și bucurați-vă de o masă la unul dintre puburile locale.",
+            "en": "Park in the centre and enjoy a meal at one of the local pubs."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Colman's Church",
+            "hu": "Szt. Colman-templom",
+            "ro": "Biserica Sf. Colman",
+            "en": "St. Colman's Church"
+          },
+          "coords": [
+            -8.823,
+            53.066
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Mittagessen zu diesem friedlichen Ort.",
+            "hu": "Egy rövid séta az ebédtől ehhez a békés helyhez.",
+            "ro": "O scurtă plimbare de la prânz la acest loc pașnic.",
+            "en": "A short walk from your lunch spot to this peaceful place."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster D: Kloster Kilmacduagh",
+            "hu": "D klaszter: Kilmacduagh-i kolostor",
+            "ro": "Cluster D: Mănăstirea Kilmacduagh",
+            "en": "Cluster D: Kilmacduagh Monastery"
+          },
+          "coords": [
+            -8.868,
+            53.042
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 7.4,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Der Parkplatz ist nahe an den Ruinen. Bereiten Sie sich auf den schiefen Turm vor!",
+            "hu": "A parkoló közel van a romokhoz. Készüljön fel a ferde toronyra!",
+            "ro": "Parcarea este aproape de ruine. Pregătiți-vă pentru turnul înclinat!",
+            "en": "The car park is close to the ruins. Prepare to be amazed by the leaning tower!"
+          }
+        },
+        {
+          "name": {
+            "de": "Lough Cutra Castle (Ansicht)",
+            "hu": "Lough Cutra kastély (kilátás)",
+            "ro": "Castelul Lough Cutra (vedere)",
+            "en": "Lough Cutra Castle (View)"
+          },
+          "coords": [
+            -8.855,
+            53.025
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:13",
+          "stay_min": 25,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 8.4,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein letzter Halt, um die malerische Aussicht zu genießen, bevor der Tag zu Ende geht.",
+            "hu": "Egy utolsó megálló, hogy élvezze a festői kilátást a nap vége előtt.",
+            "ro": "O ultimă oprire pentru a admira priveliștea pitorească înainte de sfârșitul zilei.",
+            "en": "A final stop to take in the scenic view before your day ends."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt im Coole Park, einem literarischen Heiligtum. Nach einem Spaziergang fahren Sie zum Thoor Ballylee, um in die Welt von Yeats einzutauchen. Zur Mittagszeit fahren Sie ins Zentrum von Gort für eine Mahlzeit und einen kurzen Spaziergang zur St. Colman's Church. Der Nachmittag führt Sie nach Süden zur beeindruckenden Klosteranlage von Kilmacduagh und endet mit einem malerischen Blick auf Lough Cutra Castle, wodurch ein Tag voller Natur, Poesie und Geschichte abgerundet wird.",
+        "hu": "Az autós nap a Coole Parkban, egy irodalmi szentélyben kezdődik. Séta után Thoor Ballylee felé veszi az irányt, hogy elmerüljön Yeats világában. Ebédidőben Gort központjába hajt egy étkezésre és egy rövid sétára a Szt. Colman-templomhoz. A délután délre visz Kilmacduagh lenyűgöző kolostorromjaihoz, és a napot a Lough Cutra kastély festői látványával zárja, egy természettel, költészettel és történelemmel teli napot kerekítve.",
+        "ro": "Ziua dvs. cu mașina începe la Coole Park, un sanctuar literar. După o plimbare, conduceți la Thoor Ballylee pentru a vă cufunda în lumea lui Yeats. La prânz, mergeți în centrul orașului Gort pentru o masă și o scurtă plimbare la Biserica Sf. Colman. După-amiaza vă duce spre sud la impresionantul sit monahal Kilmacduagh și se încheie cu o priveliște pitorească a Castelului Lough Cutra, completând o zi de natură, poezie și istorie.",
+        "en": "Your car day starts at Coole Park, a literary sanctuary. After a walk, you'll drive to Thoor Ballylee to immerse in Yeats' world. For lunch, you head into Gort town centre for a meal and a short walk to St. Colman's Church. The afternoon takes you south to the stunning monastic site of Kilmacduagh and finishes with a scenic view of Lough Cutra Castle, completing a day of nature, poetry, and history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Gallery Cafe",
+            "tip": "Ein schöner Ort für Kaffee und Kuchen in Gort."
+          },
+          {
+            "name": "Ein Picknick im Coole Park",
+            "tip": "Packen Sie einen Korb und genießen Sie die Natur."
+          },
+          {
+            "name": "The Field Bar",
+            "tip": "Für ein Pint nach einem langen Tag voller Entdeckungen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Gallery Cafe",
+            "tip": "Kellemes hely egy kávéra és süteményre Gortban."
+          },
+          {
+            "name": "Piknik a Coole Parkban",
+            "tip": "Csomagoljon egy kosarat, és élvezze a természetet."
+          },
+          {
+            "name": "The Field Bar",
+            "tip": "Egy pintre egy hosszú felfedező nap után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Gallery Cafe",
+            "tip": "Un loc minunat pentru o cafea și o prăjitură în Gort."
+          },
+          {
+            "name": "Un picnic în Coole Park",
+            "tip": "Împachetați un coș și bucurați-vă de natură."
+          },
+          {
+            "name": "The Field Bar",
+            "tip": "Pentru o halbă după o zi lungă de explorare."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Gallery Cafe",
+            "tip": "A lovely spot for coffee and cake in Gort."
+          },
+          {
+            "name": "A picnic in Coole Park",
+            "tip": "Pack a basket and enjoy the natural surroundings."
+          },
+          {
+            "name": "The Field Bar",
+            "tip": "For a pint after a long day of exploring."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Coole Park Waldwege",
+            "tip": "Verlieren Sie sich auf den ruhigen Wegen.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Kilmacduagh bei Sonnenuntergang",
+            "tip": "Die Ruinen sind in der Abenddämmerung besonders stimmungsvoll.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Blick auf Lough Cutra",
+            "tip": "Ein Moment der Ruhe mit Blick auf den See.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Coole Park erdei ösvényei",
+            "tip": "Vesszen el a csendes utakon.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Kilmacduagh naplementekor",
+            "tip": "A romok alkonyatkor különösen hangulatosak.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kilátás a Lough Cutra-ra",
+            "tip": "Egy csendes pillanat a tóra nézve.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Potecile din pădurea Coole Park",
+            "tip": "Pierdeți-vă pe cărările liniștite.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Kilmacduagh la apus",
+            "tip": "Ruinele sunt deosebit de atmosferice la amurg.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Priveliștea spre Lough Cutra",
+            "tip": "Un moment de liniște cu vedere la lac.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Coole Park forest trails",
+            "tip": "Get lost on the quiet paths.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Kilmacduagh at sunset",
+            "tip": "The ruins are especially atmospheric at dusk.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "View over Lough Cutra",
+            "tip": "A moment of peace looking over the lough.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gort's Craft Shops",
+            "tip": "Finden Sie einzigartige, lokal hergestellte Geschenke."
+          },
+          {
+            "name": "Coole Park Visitor Centre",
+            "tip": "Bücher und Souvenirs mit Bezug zur irischen Literatur."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gort kézműves boltjai",
+            "tip": "Találjon egyedi, helyben készült ajándékokat."
+          },
+          {
+            "name": "Coole Park Látogatóközpont",
+            "tip": "Könyvek és ajándéktárgyak az ír irodalomhoz kapcsolódóan."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele de artizanat din Gort",
+            "tip": "Găsiți cadouri unice, realizate local."
+          },
+          {
+            "name": "Centrul de vizitatori Coole Park",
+            "tip": "Cărți și suveniruri legate de literatura irlandeză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gort's Craft Shops",
+            "tip": "Find unique, locally-made gifts."
+          },
+          {
+            "name": "Coole Park Visitor Centre",
+            "tip": "Books and souvenirs related to Irish literature."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ländliche Straßen in Irland können schmal sein, fahren Sie also langsam und vorsichtig.",
+          "Parken Sie nur auf ausgewiesenen Flächen, besonders an historischen Stätten.",
+          "Die Mobilfunkabdeckung kann in ländlichen Gebieten lückenhaft sein, laden Sie also Karten herunter.",
+          "Viele Orte sind kostenlos, aber eine Spende wird oft geschätzt."
+        ],
+        "hu": [
+          "Az írországi vidéki utak szűkek lehetnek, ezért vezessen lassan és óvatosan.",
+          "Csak a kijelölt helyeken parkoljon, különösen a történelmi helyszíneken.",
+          "A mobilhálózati lefedettség foltos lehet a vidéki területeken, ezért töltse le a térképeket.",
+          "Sok hely ingyenes, de az adományokat gyakran értékelik."
+        ],
+        "ro": [
+          "Drumurile rurale din Irlanda pot fi înguste, așa că conduceți încet și cu prudență.",
+          "Parcați numai în zonele desemnate, în special la siturile istorice.",
+          "Acoperirea mobilă poate fi inconsistentă în zonele rurale, așa că descărcați hărțile.",
+          "Multe situri sunt gratuite, dar o donație este adesea apreciată."
+        ],
+        "en": [
+          "Rural Irish roads can be narrow, so drive slowly and with caution.",
+          "Park only in designated areas, especially at historic sites.",
+          "Mobile coverage can be patchy in rural areas, so download maps.",
+          "Many sites are free to enter, but a donation is often appreciated."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 14.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Gort Stadtzentrum",
+            "hu": "A klaszter: Gort városközpont",
+            "ro": "Cluster A: Centrul orașului Gort",
+            "en": "Cluster A: Gort Town Centre"
+          },
+          "coords": [
+            -8.823,
+            53.066
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einem kurzen Spaziergang zur St. Colman's Church.",
+            "hu": "Kezdje a napot egy rövid sétával a Szt. Colman-templomhoz.",
+            "ro": "Începeți ziua cu o scurtă plimbare la Biserica Sf. Colman.",
+            "en": "Start your day with a short walk to St. Colman's Church."
+          }
+        },
+        {
+          "name": {
+            "de": "The Weighbridge",
+            "hu": "A mérlegház",
+            "ro": "Cântarul public",
+            "en": "The Weighbridge"
+          },
+          "coords": [
+            -8.8245,
+            53.0655
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:40",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein historisches Wahrzeichen im Herzen der Stadt, nur wenige Schritte entfernt.",
+            "hu": "Történelmi nevezetesség a város szívében, csak néhány lépésre.",
+            "ro": "Un reper istoric în inima orașului, la doar câțiva pași distanță.",
+            "en": "A historic landmark in the heart of town, just a few steps away."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Coole Park",
+            "hu": "B klaszter: Coole Park",
+            "ro": "Cluster B: Parcul Coole",
+            "en": "Cluster B: Coole Park"
+          },
+          "coords": [
+            -8.816,
+            53.085
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:29",
+          "stay_min": 120,
+          "hop_from_prev_min": 34,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zum Park. Erkunden Sie die Wege und den ummauerten Garten.",
+            "hu": "Menjen busszal a parkba. Fedezze fel az ösvényeket és a fallal körülvett kertet.",
+            "ro": "Luați autobuzul până la parc. Explorați potecile și grădina cu ziduri.",
+            "en": "Take the bus to the park. Explore the trails and the walled garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Gort",
+            "hu": "Ebéd Gortban",
+            "ro": "Prânz în Gort",
+            "en": "Lunch in Gort"
+          },
+          "coords": [
+            -8.824,
+            53.065
+          ],
+          "category": "gastro",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Bus zurück ins Zentrum für eine wohlverdiente Mahlzeit.",
+            "hu": "Térjen vissza busszal a központba egy jól megérdemelt ebédre.",
+            "ro": "Întoarceți-vă cu autobuzul în centru pentru o masă binemeritată.",
+            "en": "Take the bus back to the centre for a well-deserved meal."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Thoor Ballylee",
+            "hu": "C klaszter: Thoor Ballylee",
+            "ro": "Cluster C: Thoor Ballylee",
+            "en": "Cluster C: Thoor Ballylee"
+          },
+          "coords": [
+            -8.777,
+            53.102
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 37,
+          "hop_from_prev_km": 5.8,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der letzte Bus des Tages bringt Sie zu Yeats' Turm. Überprüfen Sie den Rückfahrplan!",
+            "hu": "A nap utolsó busza elviszi Yeats tornyához. Ellenőrizze a visszaindulási menetrendet!",
+            "ro": "Ultimul autobuz al zilei vă va duce la turnul lui Yeats. Verificați programul de întoarcere!",
+            "en": "The final bus trip of the day takes you to Yeats' tower. Check the return schedule!"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr autofreier Tag beginnt im Herzen von Gort, wo Sie die wichtigsten Sehenswürdigkeiten zu Fuß erkunden. Am Vormittag bringt Sie ein Bus in den ruhigen Coole Park für einen langen Spaziergang. Sie kehren zum Mittagessen nach Gort zurück, bevor Sie einen weiteren Bus nach Thoor Ballylee nehmen, um in die poetische Vergangenheit einzutauchen. Dieser Plan maximiert die wichtigsten Sehenswürdigkeiten, die mit öffentlichen Verkehrsmitteln erreichbar sind, und kombiniert sie mit Spaziergängen.",
+        "hu": "Az autómentes nap Gort szívében kezdődik, ahol gyalog fedezi fel a központi látnivalókat. Délelőtt egy busz viszi a békés Coole Parkba egy hosszú sétára. Visszatér Gortba ebédelni, majd egy másik busszal Thoor Ballylee-be utazik, hogy elmerüljön a költői múltban. Ez a terv maximalizálja a tömegközlekedéssel elérhető fő látnivalókat, séta-szakaszokkal kombinálva.",
+        "ro": "Ziua dvs. fără mașină începe în inima orașului Gort, explorând obiectivele centrale pe jos. O călătorie cu autobuzul la mijlocul dimineții vă duce la liniștitul Parc Coole pentru o plimbare extinsă. Vă întoarceți la Gort pentru prânz înainte de a lua un alt autobuz către Thoor Ballylee pentru a vă cufunda în trecutul poetic. Acest itinerar maximizează siturile cheie accesibile prin transport public, combinându-le cu segmente de mers pe jos.",
+        "en": "Your car-free day begins in the heart of Gort, exploring the central sights on foot. A mid-morning bus journey takes you to the serene Coole Park for an extended walk. You'll return to Gort for lunch before taking another bus to Thoor Ballylee to immerse yourself in the poetic past. This itinerary maximizes the key sites accessible by public transport, combining them with walking segments."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Holen Sie sich ein Gebäck für die Busfahrt."
+          },
+          {
+            "name": "SuperValu Gort",
+            "tip": "Ideal, um ein Sandwich und Getränke für Ihr Abenteuer zu besorgen."
+          },
+          {
+            "name": "Ein traditioneller Pub",
+            "tip": "Beenden Sie Ihren Tag mit einem Pint und vielleicht etwas Musik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékség",
+            "tip": "Vegyen egy péksüteményt a buszútra."
+          },
+          {
+            "name": "SuperValu Gort",
+            "tip": "Ideális egy szendvics és italok beszerzésére a kalandhoz."
+          },
+          {
+            "name": "Egy hagyományos pub",
+            "tip": "Zárja a napot egy pinttel és talán némi zenével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie locală",
+            "tip": "Luați un produs de patiserie pentru călătoria cu autobuzul."
+          },
+          {
+            "name": "SuperValu Gort",
+            "tip": "Ideal pentru a lua un sandviș și băuturi pentru aventura dvs."
+          },
+          {
+            "name": "Un pub tradițional",
+            "tip": "Încheiați-vă ziua cu o halbă și poate ceva muzică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bakery",
+            "tip": "Grab a pastry for the bus ride."
+          },
+          {
+            "name": "SuperValu Gort",
+            "tip": "Ideal for grabbing a sandwich and drinks for your adventure."
+          },
+          {
+            "name": "A traditional pub",
+            "tip": "End your day with a pint and maybe some music."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Oberes Stockwerk von Thoor Ballylee",
+            "tip": "Ein ruhiger Raum mit Blick auf die Landschaft.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ein Spaziergang durch den Wald im Coole Park",
+            "tip": "Hören Sie den Vögeln und dem Wind zu.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Eine Bank auf dem Marktplatz von Gort",
+            "tip": "Beobachten Sie das Kommen und Gehen des Stadtlebens.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Thoor Ballylee felső emelete",
+            "tip": "Csendes hely a vidékre néző kilátással.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta az erdőben a Coole Parkban",
+            "tip": "Hallgassa a madarakat és a szelet.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Egy pad Gort piacterén",
+            "tip": "Nézze a városi élet jövés-menését.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etajul superior al Thoor Ballylee",
+            "tip": "Un spațiu liniștit cu vedere la peisajul rural.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "O plimbare prin pădurea din Coole Park",
+            "tip": "Ascultați păsările și vântul.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "O bancă în Piața Gort",
+            "tip": "Priviți agitația vieții de oraș.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Top floor of Thoor Ballylee",
+            "tip": "A quiet space overlooking the countryside.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A walk in the woods at Coole Park",
+            "tip": "Listen to the birds and the wind.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "A bench in Gort's market square",
+            "tip": "Watch the comings and goings of town life.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschenkeladen im Coole Park",
+            "tip": "Finden Sie Bücher und naturbezogene Artikel."
+          },
+          {
+            "name": "Die Buchhandlung in Gort",
+            "tip": "Ein großartiger Ort, um einen Band von Yeats' Poesie zu finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándékbolt a Coole Parkban",
+            "tip": "Találjon könyveket és természethez kapcsolódó tárgyakat."
+          },
+          {
+            "name": "A gorti könyvesbolt",
+            "tip": "Nagyszerű hely, hogy megtalálja Yeats költészetének egy kötetét."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de cadouri Coole Park",
+            "tip": "Găsiți cărți și articole legate de natură."
+          },
+          {
+            "name": "Librăria din Gort",
+            "tip": "Un loc minunat pentru a găsi un volum de poezie a lui Yeats."
+          }
+        ],
+        "en": [
+          {
+            "name": "Coole Park gift shop",
+            "tip": "Find books and nature-related items."
+          },
+          {
+            "name": "The bookshop in Gort",
+            "tip": "A great place to find a volume of Yeats' poetry."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, da die Verbindungen selten sein können.",
+          "Kaufen Sie eine Tageskarte, wenn sie verfügbar ist, um Geld zu sparen.",
+          "Winken Sie dem Busfahrer zu, um sicherzustellen, dass er anhält.",
+          "Seien Sie auf Wartezeiten vorbereitet; nutzen Sie sie, um die Umgebung zu genießen."
+        ],
+        "hu": [
+          "Előre ellenőrizze a buszmenetrendet, mivel a járatok ritkák lehetnek.",
+          "Vásároljon napijegyet, ha elérhető, hogy pénzt takarítson meg.",
+          "Intsen a buszsofőrnek, hogy biztosan megálljon.",
+          "Készüljön fel a várakozási időre; használja ki a környék élvezetére."
+        ],
+        "ro": [
+          "Verificați programul autobuzelor în avans, deoarece serviciile pot fi rare.",
+          "Cumpărați un bilet de o zi dacă este disponibil pentru a economisi bani.",
+          "Faceți semn șoferului de autobuz pentru a vă asigura că oprește.",
+          "Fiți pregătit pentru timpii de așteptare; folosiți-i pentru a vă bucura de împrejurimi."
+        ],
+        "en": [
+          "Check the bus schedule in advance, as services can be infrequent.",
+          "Buy a day-pass ticket if available to save money.",
+          "Wave for the bus driver to ensure they stop for you.",
+          "Be prepared for some waiting time; use it to enjoy the surroundings."
+        ]
+      }
+    }
+  }
+}

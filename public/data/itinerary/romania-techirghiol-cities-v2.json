@@ -1,0 +1,1460 @@
+{
+  "city_id": "romania-techirghiol-cities-v2",
+  "anchor": {
+    "name": "Techirghiol",
+    "coords": [
+      28.6,
+      44.06
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentralpark",
+            "hu": "Központi Park",
+            "ro": "Parcul Central",
+            "en": "Central Park"
+          },
+          "coords": [
+            28.601,
+            44.055
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein idealer Ausgangspunkt, um die Atmosphäre der Stadt aufzusaugen.",
+            "hu": "Ideális kiindulópont, hogy magába szívja a város hangulatát.",
+            "ro": "Un punct de plecare ideal pentru a absorbi atmosfera orașului.",
+            "en": "An ideal starting point to soak up the city's atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Prophet Elija",
+            "hu": "Szent Illés próféta-templom",
+            "ro": "Biserica Sfântul Prooroc Ilie",
+            "en": "Saint Elijah the Prophet Church"
+          },
+          "coords": [
+            28.603,
+            44.056
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die orthodoxen Ikonen und die friedliche Stille im Inneren.",
+            "hu": "Figyelje meg az ortodox ikonokat és a benti békés csendet.",
+            "ro": "Observați icoanele ortodoxe și liniștea pașnică din interior.",
+            "en": "Pay attention to the Orthodox icons and the peaceful silence inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Balneologisches Sanatorium",
+            "hu": "Balneológiai Szanatórium",
+            "ro": "Sanatoriul Balnear Techirghiol",
+            "en": "Balneological Sanatorium"
+          },
+          "coords": [
+            28.606,
+            44.052
+          ],
+          "category": "historical",
+          "arrive_at": "10:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die Geschichte der berühmten Schlammbehandlungen.",
+            "hu": "Ismerje meg a híres iszapkezelések történetét.",
+            "ro": "Aflați despre istoria faimoaselor tratamente cu nămol.",
+            "en": "Learn about the history of the famous mud treatments."
+          }
+        },
+        {
+          "name": {
+            "de": "Tekir-Statue",
+            "hu": "Tekir szobra",
+            "ro": "Statuia lui Tekir",
+            "en": "Tekir's Statue"
+          },
+          "coords": [
+            28.612,
+            44.049
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:39",
+          "stay_min": 15,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Foto mit der Eselstatue, der Legende nach Gründer des Kurortes, ist ein Muss.",
+            "hu": "Egy fotó a szamár szobrával, a legenda szerint a fürdőhely alapítójával, kötelező.",
+            "ro": "O fotografie cu statuia măgarului, fondatorul stațiunii conform legendei, este o necesitate.",
+            "en": "A photo with the donkey statue, the resort's founder according to legend, is a must."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Heilige Maria",
+            "hu": "Szent Mária-kolostor",
+            "ro": "Mănăstirea Sfânta Maria",
+            "en": "Saint Mary Monastery"
+          },
+          "coords": [
+            28.615,
+            44.047
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Ort der Ruhe direkt am See. Der hölzerne Kirchenbau ist einzigartig.",
+            "hu": "A nyugalom helye közvetlenül a tó partján. A fatemplom egyedülálló.",
+            "ro": "Un loc de liniște chiar pe malul lacului. Biserica de lemn este unică.",
+            "en": "A place of tranquility right on the lake. The wooden church is unique."
+          }
+        },
+        {
+          "name": {
+            "de": "Uferpromenade & Techirghiol-See",
+            "hu": "Tóparti sétány és Techirghiol-tó",
+            "ro": "Faleza & Lacul Techirghiol",
+            "en": "Lakeside Promenade & Lake Techirghiol"
+          },
+          "coords": [
+            28.61,
+            44.05
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zeit für ein Mittagessen und einen langen Spaziergang entlang des Salzsees.",
+            "hu": "Ideje egy ebédnek és egy hosszú sétának a sós tó partján.",
+            "ro": "Timp pentru prânz și o plimbare lungă de-a lungul lacului sărat.",
+            "en": "Time for lunch and a long walk along the salt lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanischer Garten",
+            "hu": "Botanikus Kert",
+            "ro": "Grădina Botanică",
+            "en": "Botanical Garden"
+          },
+          "coords": [
+            28.595,
+            44.058
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:05",
+          "stay_min": 70,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner, ruhiger Abschluss des Tages zwischen seltenen Pflanzenarten.",
+            "hu": "A nap szép, csendes lezárása ritka növényfajok között.",
+            "ro": "O încheiere frumoasă și liniștită a zilei printre specii de plante rare.",
+            "en": "A beautiful, quiet end to the day among rare plant species."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Techirghiol beginnt im grünen Herzen der Stadt, dem Zentralpark. Nach einem Besuch der orthodoxen Kirche erkunden Sie die Geschichte des Kurortes im berühmten Sanatorium. Mittags erreichen Sie das Ufer des Salzsees, wo die Legende von Tekir und die spirituelle Ruhe des Klosters St. Maria auf Sie warten. Der Nachmittag gehört ganz der Entspannung an der Promenade, wo Sie die heilende Luft genießen, bevor Sie den Tag im friedlichen Botanischen Garten ausklingen lassen.",
+        "hu": "A nap Techirghiolban a város zöld szívében, a Központi Parkban kezdődik. Az ortodox templom meglátogatása után a híres szanatóriumban fedezheti fel a fürdőváros történelmét. Délben eléri a sós tó partját, ahol Tekir legendája és a Szent Mária-kolostor spirituális nyugalma várja. A délután a sétányon való pihenésé, ahol élvezheti a gyógyító levegőt, mielőtt a napot a békés Botanikus Kertben zárná.",
+        "ro": "Ziua dvs. în Techirghiol începe în inima verde a orașului, Parcul Central. După o vizită la biserica ortodoxă, explorați istoria stațiunii la faimosul Sanatoriu. La prânz, ajungeți pe malul lacului sărat, unde vă așteaptă legenda lui Tekir și liniștea spirituală a Mănăstirii Sf. Maria. După-amiaza este dedicată relaxării pe faleză, bucurându-vă de aerul vindecător, înainte de a încheia ziua în Grădina Botanică pașnică.",
+        "en": "Your day in Techirghiol begins in the green heart of the city, the Central Park. After a visit to the Orthodox church, you'll explore the history of the spa town at the famous Sanatorium. At noon, you'll reach the shore of the salt lake, where the legend of Tekir and the spiritual tranquility of St. Mary's Monastery await. The afternoon is for relaxing on the promenade, enjoying the healing air, before ending the day in the peaceful Botanical Garden."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Saramură de crap",
+            "tip": "Karpfen in Salzlake, ein lokales Fischgericht."
+          },
+          {
+            "name": "Plachie de pește",
+            "tip": "Im Ofen gebackener Fisch mit Gemüse."
+          },
+          {
+            "name": "Restaurant Marea Neagră",
+            "tip": "Bekannt für frische Fischgerichte direkt am See."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saramură de crap",
+            "tip": "Ponty sós lében, egy helyi halkülönlegesség."
+          },
+          {
+            "name": "Plachie de pește",
+            "tip": "Sütőben sült hal zöldségekkel."
+          },
+          {
+            "name": "Restaurant Marea Neagră",
+            "tip": "Híres a friss halételeiről, közvetlenül a tó partján."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Saramură de crap",
+            "tip": "Un preparat local din pește, crap gătit în saramură."
+          },
+          {
+            "name": "Plachie de pește",
+            "tip": "Pește la cuptor cu legume."
+          },
+          {
+            "name": "Restaurant Marea Neagră",
+            "tip": "Renumit pentru preparatele din pește proaspăt, chiar pe malul lacului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Saramură de crap",
+            "tip": "Carp in brine, a local fish specialty."
+          },
+          {
+            "name": "Plachie de pește",
+            "tip": "Oven-baked fish with vegetables."
+          },
+          {
+            "name": "Restaurant Marea Neagră",
+            "tip": "Known for fresh fish dishes right on the lake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenuntergang am Techirghiol-See",
+            "tip": "Finden Sie eine Bank an der Promenade und genießen Sie die Farben.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Garten des Klosters Heilige Maria",
+            "tip": "Ein friedlicher Ort der Besinnung.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Botanischer Garten",
+            "tip": "Spazieren Sie auf den ruhigen Wegen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente a Techirghiol-tónál",
+            "tip": "Keressen egy padot a sétányon, és élvezze a színeket.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Szent Mária-kolostor kertje",
+            "tip": "A gondolkodás békés helye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Botanikus Kert",
+            "tip": "Sétáljon a csendes ösvényeken.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apus de soare pe Lacul Techirghiol",
+            "tip": "Găsiți o bancă pe faleză și bucurați-vă de culori.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina Mănăstirii Sfânta Maria",
+            "tip": "Un loc pașnic pentru reflecție.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădina Botanică",
+            "tip": "Plimbați-vă pe aleile liniștite.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunset over Lake Techirghiol",
+            "tip": "Find a bench on the promenade and enjoy the colors.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Garden of Saint Mary Monastery",
+            "tip": "A peaceful place for reflection.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Botanical Garden",
+            "tip": "Stroll along the quiet paths.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Therapeutischer Schlamm",
+            "tip": "Kaufen Sie den berühmten Sapropelschlamm als Souvenir."
+          },
+          {
+            "name": "Lokale Handwerksprodukte",
+            "tip": "Kleine Läden in der Nähe der Promenade bieten handgemachte Waren an."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyógyiszap",
+            "tip": "Vásároljon a híres szapropél iszapból szuvenírként."
+          },
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "A sétány közelében lévő kis boltok kézzel készített árukat kínálnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Nămol sapropelic",
+            "tip": "Cumpărați faimosul nămol sapropelic ca suvenir."
+          },
+          {
+            "name": "Produse de artizanat local",
+            "tip": "Mici magazine de lângă faleză oferă produse lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Therapeutic Mud",
+            "tip": "Buy the famous sapropelic mud as a souvenir."
+          },
+          {
+            "name": "Local Handicrafts",
+            "tip": "Small shops near the promenade offer handmade goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel zu Fuß unterwegs sein werden.",
+          "Vergessen Sie Ihre Kamera nicht, besonders für den Sonnenuntergang am See.",
+          "Planen Sie Zeit für ein Schlammbad oder eine Behandlung ein, um die lokale Erfahrung voll auszukosten.",
+          "Wasser und Sonnenschutz sind an sonnigen Tagen unerlässlich."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "Ne felejtse otthon a fényképezőgépét, különösen a tavi naplementéhez.",
+          "Tervezzen időt egy iszapfürdőre vagy kezelésre, hogy teljes mértékben átélje a helyi élményt.",
+          "Víz és naptej elengedhetetlen a napsütéses napokon."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Nu uitați aparatul foto, mai ales pentru apusul de soare pe lac.",
+          "Planificați timp pentru o baie de nămol sau un tratament pentru a experimenta pe deplin experiența locală.",
+          "Apa și protecția solară sunt esențiale în zilele însorite."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking a lot.",
+          "Don't forget your camera, especially for the sunset over the lake.",
+          "Schedule time for a mud bath or treatment to fully embrace the local experience.",
+          "Water and sunscreen are essential on sunny days."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentralpark",
+            "hu": "Központi Park",
+            "ro": "Parcul Central",
+            "en": "Central Park"
+          },
+          "coords": [
+            28.601,
+            44.055
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Radtour hier, nachdem Sie Ihr Fahrrad überprüft haben.",
+            "hu": "Indítsa innen a kerékpártúrát, miután ellenőrizte a kerékpárját.",
+            "ro": "Începeți turul cu bicicleta de aici, după ce v-ați verificat bicicleta.",
+            "en": "Start your bike tour here after checking your bicycle."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanischer Garten",
+            "hu": "Botanikus Kert",
+            "ro": "Grădina Botanică",
+            "en": "Botanical Garden"
+          },
+          "coords": [
+            28.595,
+            44.058
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:26",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und genießen Sie einen ruhigen Spaziergang.",
+            "hu": "Zárja le a kerékpárját, és élvezze a csendes sétát.",
+            "ro": "Încuiați-vă bicicleta și bucurați-vă de o plimbare liniștită.",
+            "en": "Lock up your bike and enjoy a quiet walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Balneologisches Sanatorium",
+            "hu": "Balneológiai Szanatórium",
+            "ro": "Sanatoriul Balnear Techirghiol",
+            "en": "Balneological Sanatorium"
+          },
+          "coords": [
+            28.606,
+            44.052
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um das imposante Gebäude und seine Geschichte zu bewundern.",
+            "hu": "Egy rövid megálló, hogy megcsodálja a lenyűgöző épületet és annak történetét.",
+            "ro": "O oprire scurtă pentru a admira clădirea impunătoare și istoria sa.",
+            "en": "A short stop to admire the imposing building and its history."
+          }
+        },
+        {
+          "name": {
+            "de": "Uferpromenade (Start)",
+            "hu": "Tóparti sétány (Kezdet)",
+            "ro": "Faleza (Start)",
+            "en": "Lakeside Promenade (Start)"
+          },
+          "coords": [
+            28.61,
+            44.05
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:28",
+          "stay_min": 10,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Fahrt entlang des Sees von hier aus.",
+            "hu": "Innen kezdje a tó menti tekerést.",
+            "ro": "Începeți plimbarea pe malul lacului de aici.",
+            "en": "Start your ride along the lake from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Heilige Maria",
+            "hu": "Szent Mária-kolostor",
+            "ro": "Mănăstirea Sfânta Maria",
+            "en": "Saint Mary Monastery"
+          },
+          "coords": [
+            28.615,
+            44.047
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und nehmen Sie sich Zeit für diesen spirituellen Ort.",
+            "hu": "Parkolja le a kerékpárt, és szánjon időt erre a spirituális helyre.",
+            "ro": "Parcați bicicleta și acordați-vă timp pentru acest loc spiritual.",
+            "en": "Park your bike and take time for this spiritual place."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am See",
+            "hu": "Ebéd a tónál",
+            "ro": "Prânz pe malul lacului",
+            "en": "Lunch by the lake"
+          },
+          "coords": [
+            28.613,
+            44.048
+          ],
+          "category": "gastro",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Viele Restaurants hier bieten einen tollen Blick und frischen Fisch.",
+            "hu": "Sok itteni étterem remek kilátást és friss halat kínál.",
+            "ro": "Multe restaurante de aici oferă o priveliște superbă și pește proaspăt.",
+            "en": "Many restaurants here offer a great view and fresh fish."
+          }
+        },
+        {
+          "name": {
+            "de": "Rundfahrt am Seeufer",
+            "hu": "Tóparti körút",
+            "ro": "Tur pe malul lacului",
+            "en": "Lakeside Circuit"
+          },
+          "coords": [
+            28.62,
+            44.055
+          ],
+          "category": "natural features",
+          "arrive_at": "14:45",
+          "stay_min": 95,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie die Brise und die Aussicht auf den See auf einer entspannten Fahrt.",
+            "hu": "Élvezze a szellőt és a tóra nyíló kilátást egy laza tekerés közben.",
+            "ro": "Bucurați-vă de briză și de priveliștea lacului într-o plimbare relaxantă.",
+            "en": "Enjoy the breeze and the view of the lake on a relaxed ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad für eine Erkundungstour durch Techirghiol. Vom Zentrum aus radeln Sie zuerst zum ruhigen Botanischen Garten. Weiter geht es zum historischen Sanatorium, bevor Sie die malerische Promenade am See erreichen. Die Hauptattraktion ist das Kloster St. Maria, ein perfekter Ort für eine längere Pause und ein Mittagessen. Der Nachmittag ist einer ausgedehnten Rundfahrt am Ufer des Salzsees gewidmet, bei der Sie die einzigartige Landschaft und die frische Luft in vollen Zügen genießen.",
+        "hu": "Pattanjon kerékpárra, és fedezze fel Techirghiolt! A központból először a csendes Botanikus Kertbe tekerjen. Ezután a történelmi szanatórium következik, mielőtt elérné a festői tóparti sétányt. A fő látnivaló a Szent Mária-kolostor, tökéletes hely egy hosszabb pihenőre és ebédre. A délutánt a sós tó partján tett hosszabb körútnak szentelheti, ahol teljes mértékben élvezheti az egyedülálló tájat és a friss levegőt.",
+        "ro": "Urcați pe bicicletă pentru un tur de explorare a Techirghiolului. Din centru, pedalați mai întâi spre liniștita Grădină Botanică. Continuați spre istoricul Sanatoriu înainte de a ajunge pe faleza pitorească a lacului. Atracția principală este Mănăstirea Sf. Maria, un loc perfect pentru o pauză mai lungă și prânz. După-amiaza este dedicată unui tur extins pe malul lacului sărat, unde vă puteți bucura din plin de peisajul unic și de aerul curat.",
+        "en": "Get on your bike for an exploratory tour of Techirghiol. From the center, you'll first cycle to the quiet Botanical Garden. Continue to the historic Sanatorium before reaching the picturesque lakeside promenade. The main attraction is the St. Mary Monastery, a perfect place for a longer break and lunch. The afternoon is dedicated to an extended tour along the shore of the salt lake, where you can fully enjoy the unique landscape and fresh air."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Saramură de crap",
+            "tip": "Karpfen in Salzlake, ein lokales Fischgericht."
+          },
+          {
+            "name": "Plachie de pește",
+            "tip": "Im Ofen gebackener Fisch mit Gemüse."
+          },
+          {
+            "name": "Restaurant Marea Neagră",
+            "tip": "Bekannt für frische Fischgerichte direkt am See."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saramură de crap",
+            "tip": "Ponty sós lében, egy helyi halkülönlegesség."
+          },
+          {
+            "name": "Plachie de pește",
+            "tip": "Sütőben sült hal zöldségekkel."
+          },
+          {
+            "name": "Restaurant Marea Neagră",
+            "tip": "Híres a friss halételeiről, közvetlenül a tó partján."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Saramură de crap",
+            "tip": "Un preparat local din pește, crap gătit în saramură."
+          },
+          {
+            "name": "Plachie de pește",
+            "tip": "Pește la cuptor cu legume."
+          },
+          {
+            "name": "Restaurant Marea Neagră",
+            "tip": "Renumit pentru preparatele din pește proaspăt, chiar pe malul lacului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Saramură de crap",
+            "tip": "Carp in brine, a local fish specialty."
+          },
+          {
+            "name": "Plachie de pește",
+            "tip": "Oven-baked fish with vegetables."
+          },
+          {
+            "name": "Restaurant Marea Neagră",
+            "tip": "Known for fresh fish dishes right on the lake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenuntergang am Techirghiol-See",
+            "tip": "Finden Sie eine Bank an der Promenade und genießen Sie die Farben.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Garten des Klosters Heilige Maria",
+            "tip": "Ein friedlicher Ort der Besinnung.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Botanischer Garten",
+            "tip": "Spazieren Sie auf den ruhigen Wegen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente a Techirghiol-tónál",
+            "tip": "Keressen egy padot a sétányon, és élvezze a színeket.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Szent Mária-kolostor kertje",
+            "tip": "A gondolkodás békés helye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Botanikus Kert",
+            "tip": "Sétáljon a csendes ösvényeken.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apus de soare pe Lacul Techirghiol",
+            "tip": "Găsiți o bancă pe faleză și bucurați-vă de culorile.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina Mănăstirii Sfânta Maria",
+            "tip": "Un loc pașnic pentru reflecție.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădina Botanică",
+            "tip": "Plimbați-vă pe aleile liniștite.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunset over Lake Techirghiol",
+            "tip": "Find a bench on the promenade and enjoy the colors.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Garden of Saint Mary Monastery",
+            "tip": "A peaceful place for reflection.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Botanical Garden",
+            "tip": "Stroll along the quiet paths.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Therapeutischer Schlamm",
+            "tip": "Kaufen Sie den berühmten Sapropelschlamm als Souvenir."
+          },
+          {
+            "name": "Lokale Handwerksprodukte",
+            "tip": "Kleine Läden in der Nähe der Promenade bieten handgemachte Waren an."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyógyiszap",
+            "tip": "Vásároljon a híres szapropél iszapból szuvenírként."
+          },
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "A sétány közelében lévő kis boltok kézzel készített árukat kínálnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Nămol sapropelic",
+            "tip": "Cumpărați faimosul nămol sapropelic ca suvenir."
+          },
+          {
+            "name": "Produse de artizanat local",
+            "tip": "Mici magazine de lângă faleză oferă produse lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Therapeutic Mud",
+            "tip": "Buy the famous sapropelic mud as a souvenir."
+          },
+          {
+            "name": "Local Handicrafts",
+            "tip": "Small shops near the promenade offer handmade goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad an den Haltestellen sicher abzustellen.",
+          "Die Promenade ist flach und ideal für eine entspannte Fahrt, aber achten Sie auf Fußgänger.",
+          "Eine Wasserflasche ist bei einer Radtour unerlässlich."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját.",
+          "Vigyen magával lakatot, hogy biztonságosan lezárhassa a kerékpárt a megállóknál.",
+          "A sétány sík és ideális egy laza tekeréshez, de figyeljen a gyalogosokra.",
+          "Egy vizes palack elengedhetetlen a kerékpártúrán."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca.",
+          "Luați un lacăt pentru a vă asigura bicicleta la opriri.",
+          "Faleza este plată și ideală pentru o plimbare relaxantă, dar fiți atenți la pietoni.",
+          "O sticlă de apă este esențială într-un tur cu bicicleta."
+        ],
+        "en": [
+          "Check your bike before you leave.",
+          "Bring a lock to secure your bike at the stops.",
+          "The promenade is flat and ideal for a relaxed ride, but watch out for pedestrians.",
+          "A water bottle is essential on a bike tour."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 11.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Stadtzentrum: Parken",
+            "hu": "Városközpont Klaszter: Parkolás",
+            "ro": "Cluster Centru: Parcare",
+            "en": "City Center Cluster: Parking"
+          },
+          "coords": [
+            28.6,
+            44.054
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie das Zentrum zu Fuß.",
+            "hu": "Parkoljon le itt, és fedezze fel a központot gyalog.",
+            "ro": "Parcați aici și explorați centrul pe jos.",
+            "en": "Park here and explore the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentralpark & Kirche St. Elija",
+            "hu": "Központi Park és Szent Illés-templom",
+            "ro": "Parcul Central & Biserica Sf. Ilie",
+            "en": "Central Park & St. Elijah Church"
+          },
+          "coords": [
+            28.601,
+            44.055
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang verbindet diese beiden zentralen Punkte.",
+            "hu": "Egy rövid séta köti össze ezt a két központi pontot.",
+            "ro": "O scurtă plimbare leagă aceste două puncte centrale.",
+            "en": "A short walk connects these two central points."
+          }
+        },
+        {
+          "name": {
+            "de": "Balneologisches Sanatorium",
+            "hu": "Balneológiai Szanatórium",
+            "ro": "Sanatoriul Balnear",
+            "en": "Balneological Sanatorium"
+          },
+          "coords": [
+            28.606,
+            44.052
+          ],
+          "category": "historical",
+          "arrive_at": "10:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Herz des Kurortes, nur wenige Gehminuten vom Park entfernt.",
+            "hu": "A fürdőhely szíve, csak pár perc sétára a parktól.",
+            "ro": "Inima stațiunii, la doar câteva minute de mers pe jos de parc.",
+            "en": "The heart of the spa resort, just a few minutes' walk from the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Seeufer: Kloster & Statue",
+            "hu": "Tóparti Klaszter: Kolostor és Szobor",
+            "ro": "Cluster Malul Lacului: Mănăstire & Statuie",
+            "en": "Lakeside Cluster: Monastery & Statue"
+          },
+          "coords": [
+            28.614,
+            44.048
+          ],
+          "category": "transport",
+          "arrive_at": "11:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum See, parken Sie und besuchen Sie das Kloster und die Tekir-Statue.",
+            "hu": "Vezessen a tóhoz, parkoljon le, és látogassa meg a kolostort és a Tekir-szobrot.",
+            "ro": "Conduceți spre lac, parcați și vizitați mănăstirea și statuia lui Tekir.",
+            "en": "Drive to the lake, park, and visit the monastery and Tekir's statue."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Spaziergang an der Promenade",
+            "hu": "Ebéd és séta a sétányon",
+            "ro": "Prânz și plimbare pe faleză",
+            "en": "Lunch and stroll on the promenade"
+          },
+          "coords": [
+            28.61,
+            44.05
+          ],
+          "category": "gastro",
+          "arrive_at": "12:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach dem Mittagessen ist ein Verdauungsspaziergang an der Seeluft perfekt.",
+            "hu": "Ebéd után tökéletes egy emésztést segítő séta a tiszta tavi levegőn.",
+            "ro": "După prânz, o plimbare digestivă în aerul lacului este perfectă.",
+            "en": "After lunch, a digestive walk in the lake air is perfect."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Techirghiol-See",
+            "hu": "Kilátópont a Techirghiol-tónál",
+            "ro": "Punct de belvedere Lacul Techirghiol",
+            "en": "Lake Techirghiol Viewpoint"
+          },
+          "coords": [
+            28.625,
+            44.06
+          ],
+          "category": "natural features",
+          "arrive_at": "15:25",
+          "stay_min": 95,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zu einem erhöhten Punkt für einen Panoramablick und den Sonnenuntergang.",
+            "hu": "Vezessen egy magaslati ponthoz a panorámás kilátásért és a naplementéért.",
+            "ro": "Conduceți spre un punct înalt pentru o vedere panoramică și apus.",
+            "en": "Drive to a high point for a panoramic view and the sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erleben Sie Techirghiol in zwei Clustern. Am Morgen parken Sie im Zentrum und spazieren vom Park zur Kirche und zum historischen Sanatorium. Danach fahren Sie zum Seeufer, dem zweiten Cluster. Hier erwarten Sie das spirituelle Kloster St. Maria und die legendäre Tekir-Statue. Nach einem entspannten Mittagessen an der Promenade fahren Sie am späten Nachmittag zu einem Aussichtspunkt, um den atemberaubenden Blick über den Salzsee bei Sonnenuntergang zu genießen.",
+        "hu": "Autóval két klaszterben élheti át Techirghiolt. Reggel a központban parkol, és a parkból a templomhoz és a történelmi szanatóriumhoz sétál. Ezután a tóparthoz, a második klaszterhez hajt. Itt várja a spirituális Szent Mária-kolostor és a legendás Tekir-szobor. A sétányon elköltött pihentető ebéd után késő délután egy kilátóponthoz hajt, hogy élvezze a sós tóra nyíló lélegzetelállító kilátást naplementekor.",
+        "ro": "Cu mașina, veți experimenta Techirghiol în două clustere. Dimineața, parcați în centru și vă plimbați din parc la biserică și la sanatoriul istoric. Apoi, conduceți spre malul lacului, al doilea cluster. Aici vă așteaptă spirituala Mănăstire Sf. Maria și legendara statuie a lui Tekir. După un prânz relaxant pe faleză, mergeți după-amiaza târziu la un punct de belvedere pentru a vă bucura de priveliștea uluitoare asupra lacului sărat la apus.",
+        "en": "With a car, you'll experience Techirghiol in two clusters. In the morning, park in the center and stroll from the park to the church and the historic sanatorium. Then, drive to the lakeside, the second cluster. Here, the spiritual St. Mary Monastery and the legendary Tekir statue await you. After a relaxing lunch on the promenade, you'll drive to a viewpoint in the late afternoon to enjoy the breathtaking view over the salt lake at sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Saramură de crap",
+            "tip": "Karpfen in Salzlake, ein lokales Fischgericht."
+          },
+          {
+            "name": "Plachie de pește",
+            "tip": "Im Ofen gebackener Fisch mit Gemüse."
+          },
+          {
+            "name": "Restaurant Marea Neagră",
+            "tip": "Bekannt für frische Fischgerichte direkt am See."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saramură de crap",
+            "tip": "Ponty sós lében, egy helyi halkülönlegesség."
+          },
+          {
+            "name": "Plachie de pește",
+            "tip": "Sütőben sült hal zöldségekkel."
+          },
+          {
+            "name": "Restaurant Marea Neagră",
+            "tip": "Híres a friss halételeiről, közvetlenül a tó partján."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Saramură de crap",
+            "tip": "Un preparat local din pește, crap gătit în saramură."
+          },
+          {
+            "name": "Plachie de pește",
+            "tip": "Pește la cuptor cu legume."
+          },
+          {
+            "name": "Restaurant Marea Neagră",
+            "tip": "Renumit pentru preparatele din pește proaspăt, chiar pe malul lacului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Saramură de crap",
+            "tip": "Carp in brine, a local fish specialty."
+          },
+          {
+            "name": "Plachie de pește",
+            "tip": "Oven-baked fish with vegetables."
+          },
+          {
+            "name": "Restaurant Marea Neagră",
+            "tip": "Known for fresh fish dishes right on the lake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenuntergang am Techirghiol-See",
+            "tip": "Finden Sie eine Bank an der Promenade und genießen Sie die Farben.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Garten des Klosters Heilige Maria",
+            "tip": "Ein friedlicher Ort der Besinnung.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Botanischer Garten",
+            "tip": "Spazieren Sie auf den ruhigen Wegen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente a Techirghiol-tónál",
+            "tip": "Keressen egy padot a sétányon, és élvezze a színeket.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Szent Mária-kolostor kertje",
+            "tip": "A gondolkodás békés helye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Botanikus Kert",
+            "tip": "Sétáljon a csendes ösvényeken.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apus de soare pe Lacul Techirghiol",
+            "tip": "Găsiți o bancă pe faleză și bucurați-vă de culori.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina Mănăstirii Sfânta Maria",
+            "tip": "Un loc pașnic pentru reflecție.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădina Botanică",
+            "tip": "Plimbați-vă pe aleile liniștite.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunset over Lake Techirghiol",
+            "tip": "Find a bench on the promenade and enjoy the colors.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Garden of Saint Mary Monastery",
+            "tip": "A peaceful place for reflection.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Botanical Garden",
+            "tip": "Stroll along the quiet paths.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Therapeutischer Schlamm",
+            "tip": "Kaufen Sie den berühmten Sapropelschlamm als Souvenir."
+          },
+          {
+            "name": "Lokale Handwerksprodukte",
+            "tip": "Kleine Läden in der Nähe der Promenade bieten handgemachte Waren an."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyógyiszap",
+            "tip": "Vásároljon a híres szapropél iszapból szuvenírként."
+          },
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "A sétány közelében lévő kis boltok kézzel készített árukat kínálnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Nămol sapropelic",
+            "tip": "Cumpărați faimosul nămol sapropelic ca suvenir."
+          },
+          {
+            "name": "Produse de artizanat local",
+            "tip": "Mici magazine de lângă faleză oferă produse lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Therapeutic Mud",
+            "tip": "Buy the famous sapropelic mud as a souvenir."
+          },
+          {
+            "name": "Local Handicrafts",
+            "tip": "Small shops near the promenade offer handmade goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten und -gebühren im Voraus.",
+          "Ein Auto gibt Ihnen die Flexibilität, auch abgelegenere Aussichtspunkte zu erreichen.",
+          "Planen Sie genügend Zeit für den Verkehr ein, besonders in der Hochsaison.",
+          "Kombinieren Sie Autofahrten mit Spaziergängen für das beste Erlebnis."
+        ],
+        "hu": [
+          "Előre tájékozódjon a parkolási lehetőségekről és díjakról.",
+          "Az autó rugalmasságot ad a távolabbi kilátópontok eléréséhez is.",
+          "Tervezzen elegendő időt a közlekedésre, különösen a főszezonban.",
+          "A legjobb élmény érdekében kombinálja az autózást sétákkal."
+        ],
+        "ro": [
+          "Verificați opțiunile de parcare și taxele în avans.",
+          "O mașină vă oferă flexibilitatea de a ajunge la puncte de belvedere mai îndepărtate.",
+          "Planificați suficient timp pentru trafic, mai ales în sezonul de vârf.",
+          "Combinați călătoriile cu mașina cu plimbările pe jos pentru cea mai bună experiență."
+        ],
+        "en": [
+          "Check parking options and fees in advance.",
+          "A car gives you the flexibility to reach more distant viewpoints.",
+          "Allow enough time for traffic, especially in high season.",
+          "Combine car rides with walks for the best experience."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft im Zentrum",
+            "hu": "Érkezés a központba",
+            "ro": "Sosire în centru",
+            "en": "Arrival in the Center"
+          },
+          "coords": [
+            28.601,
+            44.055
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus ins Zentrum und steigen Sie am Zentralpark aus.",
+            "hu": "Buszozzon be a központba, és szálljon le a Központi Parknál.",
+            "ro": "Luați autobuzul spre centru și coborâți la Parcul Central.",
+            "en": "Take the bus to the center and get off at Central Park."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang: Park, Kirche & Sanatorium",
+            "hu": "Séta: Park, Templom és Szanatórium",
+            "ro": "Plimbare: Parc, Biserică & Sanatoriu",
+            "en": "Walk: Park, Church & Sanatorium"
+          },
+          "coords": [
+            28.604,
+            44.054
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die wichtigsten Sehenswürdigkeiten des Zentrums in einem gemütlichen Spaziergang.",
+            "hu": "Fedezze fel a központ főbb látnivalóit egy kényelmes sétával.",
+            "ro": "Explorați principalele atracții ale centrului într-o plimbare lejeră.",
+            "en": "Explore the main sights of the center on a leisurely walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Seeufer",
+            "hu": "Buszozás a tóparthoz",
+            "ro": "Călătorie cu autobuzul spre malul lacului",
+            "en": "Bus ride to the lakeside"
+          },
+          "coords": [
+            28.614,
+            44.048
+          ],
+          "category": "transport",
+          "arrive_at": "11:35",
+          "stay_min": 5,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein kurzer Bus bringt Sie zum zweiten Cluster des Tages.",
+            "hu": "Egy rövid buszút elviszi a nap második klaszteréhez.",
+            "ro": "Un autobuz scurt vă duce la al doilea cluster al zilei.",
+            "en": "A short bus ride takes you to the second cluster of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang: Kloster, Statue & Mittagessen",
+            "hu": "Séta: Kolostor, Szobor és Ebéd",
+            "ro": "Plimbare: Mănăstire, Statuie & Prânz",
+            "en": "Walk: Monastery, Statue & Lunch"
+          },
+          "coords": [
+            28.615,
+            44.047
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:45",
+          "stay_min": 150,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besuchen Sie das Kloster und die Statue, bevor Sie ein Restaurant für das Mittagessen auswählen.",
+            "hu": "Látogassa meg a kolostort és a szobrot, mielőtt éttermet választ ebédre.",
+            "ro": "Vizitați mănăstirea și statuia înainte de a alege un restaurant pentru prânz.",
+            "en": "Visit the monastery and the statue before choosing a restaurant for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Entspannung an der Uferpromenade",
+            "hu": "Pihenés a tóparti sétányon",
+            "ro": "Relaxare pe faleză",
+            "en": "Relaxation on the Lakeside Promenade"
+          },
+          "coords": [
+            28.61,
+            44.05
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:20",
+          "stay_min": 150,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verbringen Sie den Rest des Nachmittags damit, am See zu spazieren und die Atmosphäre zu genießen.",
+            "hu": "Töltse a délután hátralévő részét a tó menti sétával és a hangulat élvezetével.",
+            "ro": "Petreceți restul după-amiezii plimbându-vă pe malul lacului și bucurându-vă de atmosferă.",
+            "en": "Spend the rest of the afternoon strolling by the lake and enjoying the atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erkunden Sie Techirghiol effizient. Der Bus bringt Sie morgens ins Zentrum, wo Sie Park, Kirche und Sanatorium zu Fuß entdecken. Eine weitere kurze Busfahrt führt Sie am späten Vormittag zum Seeufer. Dort spazieren Sie vom Kloster zur Tekir-Statue und genießen ein ausgiebiges Mittagessen. Der gesamte Nachmittag steht Ihnen zur freien Verfügung, um an der Promenade zu flanieren, die heilende Wirkung des Sees zu spüren und den Tag entspannt ausklingen zu lassen.",
+        "hu": "Tömegközlekedéssel hatékonyan fedezheti fel Techirghiolt. A busz reggel a központba viszi, ahol gyalogosan fedezheti fel a parkot, a templomot és a szanatóriumot. Egy újabb rövid buszút vezet a tóparthoz késő délelőtt. Onnan a kolostortól a Tekir-szoborhoz sétál, és egy kiadós ebédet fogyaszt. Az egész délután szabadon áll rendelkezésére, hogy a sétányon korzózzon, érezze a tó gyógyító hatását, és pihentetően zárja a napot.",
+        "ro": "Cu transportul public, explorați Techirghiolul eficient. Autobuzul vă duce dimineața în centru, unde descoperiți parcul, biserica și sanatoriul pe jos. O altă călătorie scurtă cu autobuzul vă duce pe malul lacului spre sfârșitul dimineții. Acolo, vă plimbați de la mănăstire la statuia lui Tekir și savurați un prânz copios. Toată după-amiaza este la dispoziția dvs. pentru a vă plimba pe faleză, a simți efectul vindecător al lacului și a încheia ziua relaxat.",
+        "en": "Using public transport, you can explore Techirghiol efficiently. The bus takes you to the center in the morning, where you can discover the park, church, and sanatorium on foot. Another short bus ride takes you to the lakeside in the late morning. From there, you can walk from the monastery to the Tekir statue and enjoy a hearty lunch. The entire afternoon is at your disposal to stroll along the promenade, feel the healing effect of the lake, and end the day in a relaxed manner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Saramură de crap",
+            "tip": "Karpfen in Salzlake, ein lokales Fischgericht."
+          },
+          {
+            "name": "Plachie de pește",
+            "tip": "Im Ofen gebackener Fisch mit Gemüse."
+          },
+          {
+            "name": "Restaurant Marea Neagră",
+            "tip": "Bekannt für frische Fischgerichte direkt am See."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saramură de crap",
+            "tip": "Ponty sós lében, egy helyi halkülönlegesség."
+          },
+          {
+            "name": "Plachie de pește",
+            "tip": "Sütőben sült hal zöldségekkel."
+          },
+          {
+            "name": "Restaurant Marea Neagră",
+            "tip": "Híres a friss halételeiről, közvetlenül a tó partján."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Saramură de crap",
+            "tip": "Un preparat local din pește, crap gătit în saramură."
+          },
+          {
+            "name": "Plachie de pește",
+            "tip": "Pește la cuptor cu legume."
+          },
+          {
+            "name": "Restaurant Marea Neagră",
+            "tip": "Renumit pentru preparatele din pește proaspăt, chiar pe malul lacului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Saramură de crap",
+            "tip": "Carp in brine, a local fish specialty."
+          },
+          {
+            "name": "Plachie de pește",
+            "tip": "Oven-baked fish with vegetables."
+          },
+          {
+            "name": "Restaurant Marea Neagră",
+            "tip": "Known for fresh fish dishes right on the lake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenuntergang am Techirghiol-See",
+            "tip": "Finden Sie eine Bank an der Promenade und genießen Sie die Farben.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Garten des Klosters Heilige Maria",
+            "tip": "Ein friedlicher Ort der Besinnung.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Botanischer Garten",
+            "tip": "Spazieren Sie auf den ruhigen Wegen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente a Techirghiol-tónál",
+            "tip": "Keressen egy padot a sétányon, és élvezze a színeket.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Szent Mária-kolostor kertje",
+            "tip": "A gondolkodás békés helye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Botanikus Kert",
+            "tip": "Sétáljon a csendes ösvényeken.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apus de soare pe Lacul Techirghiol",
+            "tip": "Găsiți o bancă pe faleză și bucurați-vă de culori.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina Mănăstirii Sfânta Maria",
+            "tip": "Un loc pașnic pentru reflecție.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădina Botanică",
+            "tip": "Plimbați-vă pe aleile liniștite.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunset over Lake Techirghiol",
+            "tip": "Find a bench on the promenade and enjoy the colors.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Garden of Saint Mary Monastery",
+            "tip": "A peaceful place for reflection.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Botanical Garden",
+            "tip": "Stroll along the quiet paths.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Therapeutischer Schlamm",
+            "tip": "Kaufen Sie den berühmten Sapropelschlamm als Souvenir."
+          },
+          {
+            "name": "Lokale Handwerksprodukte",
+            "tip": "Kleine Läden in der Nähe der Promenade bieten handgemachte Waren an."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyógyiszap",
+            "tip": "Vásároljon a híres szapropél iszapból szuvenírként."
+          },
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "A sétány közelében lévő kis boltok kézzel készített árukat kínálnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Nămol sapropelic",
+            "tip": "Cumpărați faimosul nămol sapropelic ca suvenir."
+          },
+          {
+            "name": "Produse de artizanat local",
+            "tip": "Mici magazine de lângă faleză oferă produse lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Therapeutic Mud",
+            "tip": "Buy the famous sapropelic mud as a souvenir."
+          },
+          {
+            "name": "Local Handicrafts",
+            "tip": "Small shops near the promenade offer handmade goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich im Voraus über die Busfahrpläne und Routen.",
+          "Eine Tageskarte kann eine kostengünstige Option sein.",
+          "Seien Sie pünktlich an der Haltestelle, besonders bei weniger frequentierten Linien.",
+          "Die Kombination aus Bus und Spaziergang ist ideal für eine Kleinstadt wie Techirghiol."
+        ],
+        "hu": [
+          "Tájékozódjon előre a buszmenetrendekről és útvonalakról.",
+          "Egy napijegy költséghatékony megoldás lehet.",
+          "Legyen pontosan a megállóban, különösen a ritkábban közlekedő járatoknál.",
+          "A busz és a séta kombinációja ideális egy olyan kisvárosban, mint Techirghiol."
+        ],
+        "ro": [
+          "Informați-vă în avans despre orarele și rutele autobuzelor.",
+          "Un bilet de o zi poate fi o opțiune rentabilă.",
+          "Fiți la stație la timp, mai ales pentru liniile mai puțin frecvente.",
+          "Combinația de autobuz și mers pe jos este ideală pentru un oraș mic ca Techirghiol."
+        ],
+        "en": [
+          "Find out about bus schedules and routes in advance.",
+          "A day ticket can be a cost-effective option.",
+          "Be at the bus stop on time, especially for less frequent lines.",
+          "The combination of bus and walking is ideal for a small town like Techirghiol."
+        ]
+      }
+    }
+  }
+}

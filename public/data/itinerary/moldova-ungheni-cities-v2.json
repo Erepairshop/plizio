@@ -1,0 +1,1316 @@
+{
+  "city_id": "moldova-ungheni-cities-v2",
+  "anchor": {
+    "name": "Ungheni",
+    "coords": [
+      27.8003,
+      47.2094
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Platz der Vereinigung",
+            "hu": "Egyesülés tere",
+            "ro": "Piața Unirii",
+            "en": "Union Square"
+          },
+          "coords": [
+            27.8003,
+            47.2094
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier mit einem Kaffee in einem der lokalen Cafés.",
+            "hu": "Indítsa a napot egy kávéval a tér valamelyik helyi kávézójában.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele locale din piață.",
+            "en": "Start your day here with a coffee from one of the local cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für Stefan den Großen",
+            "hu": "Nagy István emlékműve",
+            "ro": "Monumentul lui Ștefan cel Mare",
+            "en": "Stephen the Great Monument"
+          },
+          "coords": [
+            27.8015,
+            47.209
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:40",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für ein Foto, um sich an Ihren Besuch zu erinnern.",
+            "hu": "Kiváló hely egy fotóhoz, hogy megörökítse látogatását.",
+            "ro": "Un loc excelent pentru o fotografie care să vă amintească de vizită.",
+            "en": "A great spot for a photo to remember your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Alexander-Newski-Kathedrale",
+            "hu": "Alekszandr Nyevszkij-székesegyház",
+            "ro": "Catedrala Alexandr Nevski",
+            "en": "Alexander Nevsky Cathedral"
+          },
+          "coords": [
+            27.7985,
+            47.2085
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden Fresken im Inneren.",
+            "hu": "Figyelje meg a lenyűgöző belső freskókat.",
+            "ro": "Observați frescele impresionante din interior.",
+            "en": "Take note of the impressive frescoes inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Geschichte und Ethnographie",
+            "hu": "Történeti és Néprajzi Múzeum",
+            "ro": "Muzeul de Istorie și Etnografie",
+            "en": "Museum of History and Ethnography"
+          },
+          "coords": [
+            27.795,
+            47.207
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Planen Sie genug Zeit ein, die Exponate zur lokalen Kultur sind faszinierend.",
+            "hu": "Szánjon rá elég időt, a helyi kultúráról szóló kiállítások lenyűgözőek.",
+            "ro": "Planificați-vă suficient timp, exponatele despre cultura locală sunt fascinante.",
+            "en": "Plan enough time, the exhibits on local culture are fascinating."
+          }
+        },
+        {
+          "name": {
+            "de": "Eiffels Brücke",
+            "hu": "Eiffel-híd",
+            "ro": "Podul Eiffel",
+            "en": "Eiffel Bridge"
+          },
+          "coords": [
+            27.788,
+            47.204
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:00",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Ein Spaziergang über die Brücke bietet eine einzigartige Perspektive.",
+            "hu": "Sétáljon át a hídon az egyedi perspektívért.",
+            "ro": "O plimbare peste pod oferă o perspectivă unică.",
+            "en": "A walk across the bridge offers a unique perspective."
+          }
+        },
+        {
+          "name": {
+            "de": "Grigore-Vieru-Park",
+            "hu": "Grigore Vieru park",
+            "ro": "Parcul Grigore Vieru",
+            "en": "Grigore Vieru Park"
+          },
+          "coords": [
+            27.81,
+            47.215
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:10",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um sich am Nachmittag zu entspannen.",
+            "hu": "Tökéletes hely a délutáni pihenéshez.",
+            "ro": "Locul perfect pentru a vă relaxa după-amiaza.",
+            "en": "The perfect place to relax in the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Ungheni am Platz der Vereinigung. Am Vormittag erkunden Sie die historischen und religiösen Stätten im Stadtzentrum, darunter die beeindruckende Alexander-Newski-Kathedrale. Nach dem Mittagessen führt Sie ein längerer Spaziergang zur berühmten Eiffel-Brücke, einem technischen Wunderwerk. Schließen Sie den Tag mit einem entspannten Spaziergang im Grigore-Vieru-Park ab, wo Sie die lokale Atmosphäre genießen können.",
+        "hu": "Kezdje a napot Ungheni szívében, az Egyesülés terén. Délelőtt fedezze fel a városközpont történelmi és vallási helyszíneit, köztük a lenyűgöző Alekszandr Nyevszkij-székesegyházat. Ebéd után egy hosszabb séta vezet a híres Eiffel-hídhoz, egy mérnöki csodához. Zárja a napot egy pihentető sétával a Grigore Vieru parkban, ahol élvezheti a helyi hangulatot.",
+        "ro": "Începeți ziua în inima orașului Ungheni, în Piața Unirii. În cursul dimineții, explorați siturile istorice și religioase din centrul orașului, inclusiv impresionanta Catedrală Alexandr Nevski. După prânz, o plimbare mai lungă vă va duce la faimosul Pod Eiffel, o minune a ingineriei. Încheiați ziua cu o plimbare relaxantă în Parcul Grigore Vieru, unde vă puteți bucura de atmosfera locală.",
+        "en": "Start your day in the heart of Ungheni at Union Square. In the morning, explore the historical and religious sites in the city center, including the impressive Alexander Nevsky Cathedral. After lunch, a longer walk will take you to the famous Eiffel Bridge, an engineering marvel. End the day with a relaxing stroll in Grigore Vieru Park, where you can soak up the local atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Plăcinte",
+            "tip": "Probieren Sie diese traditionellen Pasteten mit verschiedenen Füllungen wie Käse oder Kartoffeln."
+          },
+          {
+            "name": "Mămăligă cu brânză",
+            "tip": "Ein klassisches moldauisches Gericht aus Polenta mit Käse und saurer Sahne."
+          },
+          {
+            "name": "Zeamă",
+            "tip": "Eine leichte und erfrischende Hühnersuppe, perfekt für ein Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plăcinte",
+            "tip": "Kóstolja meg ezeket a hagyományos pitéket különféle töltelékekkel, például sajttal vagy burgonyával."
+          },
+          {
+            "name": "Mămăligă cu brânză",
+            "tip": "Klasszikus moldáv étel puliszkából, sajttal és tejföllel."
+          },
+          {
+            "name": "Zeamă",
+            "tip": "Könnyű és frissítő csirkeleves, tökéletes ebédre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plăcinte",
+            "tip": "Încercați aceste plăcinte tradiționale cu diverse umpluturi, cum ar fi brânză sau cartofi."
+          },
+          {
+            "name": "Mămăligă cu brânză",
+            "tip": "Un preparat clasic moldovenesc din mămăligă cu brânză și smântână."
+          },
+          {
+            "name": "Zeamă",
+            "tip": "O supă de pui ușoară și răcoritoare, perfectă pentru prânz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Plăcinte",
+            "tip": "Try these traditional pies with various fillings like cheese or potatoes."
+          },
+          {
+            "name": "Mămăligă cu brânză",
+            "tip": "A classic Moldovan dish of polenta with cheese and sour cream."
+          },
+          {
+            "name": "Zeamă",
+            "tip": "A light and refreshing chicken soup, perfect for lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Pruth bei der Eiffel-Brücke",
+            "tip": "Finden Sie einen ruhigen Platz am Flussufer, um die Ingenieurskunst zu bewundern.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eine Bank im Grigore-Vieru-Park",
+            "tip": "Ein idealer Ort, um ein Buch zu lesen oder die Leute zu beobachten.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Prut partja az Eiffel-hídnál",
+            "tip": "Keressen egy csendes helyet a folyóparton, hogy megcsodálhassa a mérnöki munkát.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy pad a Grigore Vieru parkban",
+            "tip": "Ideális hely egy könyv olvasásához vagy az emberek figyeléséhez.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Prutului lângă Podul Eiffel",
+            "tip": "Găsiți un loc liniștit pe malul râului pentru a admira ingineria.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O bancă în Parcul Grigore Vieru",
+            "tip": "Un loc ideal pentru a citi o carte sau a privi oamenii.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bank of the Prut River near Eiffel Bridge",
+            "tip": "Find a quiet spot on the riverbank to admire the engineering.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A bench in Grigore Vieru Park",
+            "tip": "An ideal place to read a book or people-watch.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach handgefertigten Souvenirs und lokalen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen kézzel készített szuveníreket és helyi termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați suveniruri artizanale și produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for handmade souvenirs and local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit.",
+          "Die besten Plăcinte finden Sie oft in kleinen, unscheinbaren Bäckereien.",
+          "Prüfen Sie die Öffnungszeiten des Museums im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "Hozzon magával újratölthető vizes palackot.",
+          "A legjobb plăcinte-t gyakran kis, jellegtelen pékségekben találja.",
+          "Előre ellenőrizze a múzeum nyitvatartási idejét."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Luați cu voi o sticlă de apă reutilizabilă.",
+          "Cele mai bune plăcinte se găsesc adesea în brutării mici, neînsemnate.",
+          "Verificați dinainte programul de funcționare al muzeului."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Bring a reusable water bottle with you.",
+          "The best plăcinte are often found in small, unassuming bakeries.",
+          "Check the museum's opening hours in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:47",
+      "total_km": 7.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Platz der Vereinigung",
+            "hu": "Egyesülés tere",
+            "ro": "Piața Unirii",
+            "en": "Union Square"
+          },
+          "coords": [
+            27.8003,
+            47.2094
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab, bevor Sie den Platz erkunden.",
+            "hu": "Biztonságosan zárja le a kerékpárját, mielőtt felfedezné a teret.",
+            "ro": "Asigurați-vă bicicleta înainte de a explora piața.",
+            "en": "Secure your bike before exploring the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Alexander-Newski-Kathedrale",
+            "hu": "Alekszandr Nyevszkij-székesegyház",
+            "ro": "Catedrala Alexandr Nevski",
+            "en": "Alexander Nevsky Cathedral"
+          },
+          "coords": [
+            27.7985,
+            47.2085
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:34",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit, um die Ruhe im Inneren zu genießen.",
+            "hu": "Szánjon egy percet a belső nyugalom élvezetére.",
+            "ro": "Luați-vă un moment pentru a vă bucura de liniștea din interior.",
+            "en": "Take a moment to enjoy the tranquility inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Geschichte und Ethnographie",
+            "hu": "Történeti és Néprajzi Múzeum",
+            "ro": "Muzeul de Istorie și Etnografie",
+            "en": "Museum of History and Ethnography"
+          },
+          "coords": [
+            27.795,
+            47.207
+          ],
+          "category": "museums",
+          "arrive_at": "10:19",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein Muss, um die reiche Geschichte der Region zu verstehen.",
+            "hu": "Kötelező látnivaló a régió gazdag történelmének megértéséhez.",
+            "ro": "O vizită obligatorie pentru a înțelege istoria bogată a regiunii.",
+            "en": "A must-visit to understand the rich history of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Eiffels Brücke",
+            "hu": "Eiffel-híd",
+            "ro": "Podul Eiffel",
+            "en": "Eiffel Bridge"
+          },
+          "coords": [
+            27.788,
+            47.204
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:00",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Die Fahrt zur Brücke entlang des Flusses ist besonders schön.",
+            "hu": "A folyó menti út a hídhoz különösen szép.",
+            "ro": "Plimbarea cu bicicleta de-a lungul râului până la pod este deosebit de frumoasă.",
+            "en": "The ride to the bridge along the river is particularly beautiful."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Nikolaus",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "Saint Nicholas Church"
+          },
+          "coords": [
+            27.805,
+            47.211
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:00",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein schönes Beispiel für die lokale religiöse Architektur.",
+            "hu": "A helyi vallási építészet szép példája.",
+            "ro": "Un exemplu frumos de arhitectură religioasă locală.",
+            "en": "A beautiful example of local religious architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Grigore-Vieru-Park",
+            "hu": "Grigore Vieru park",
+            "ro": "Parcul Grigore Vieru",
+            "en": "Grigore Vieru Park"
+          },
+          "coords": [
+            27.81,
+            47.215
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:10",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Fahren Sie auf den Parkwegen und genießen Sie die Natur.",
+            "hu": "Kerékpározzon a park útjain és élvezze a természetet.",
+            "ro": "Plimbați-vă cu bicicleta pe aleile parcului și bucurați-vă de natură.",
+            "en": "Ride your bike on the park paths and enjoy nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Skulpturenpark Micul Cluj",
+            "hu": "Micul Cluj szoborpark",
+            "ro": "Parcul de sculpturi Micul Cluj",
+            "en": "Micul Cluj Sculpture Park"
+          },
+          "coords": [
+            27.812,
+            47.216
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:22",
+          "stay_min": 55,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die interessanten modernen Skulpturen.",
+            "hu": "Fedezze fel az érdekes modern szobrokat.",
+            "ro": "Descoperiți sculpturile moderne interesante.",
+            "en": "Discover the interesting modern sculptures."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad für eine aktive Erkundung von Ungheni. Beginnen Sie im Zentrum und radeln Sie zu den wichtigsten historischen Stätten. Am Vormittag führt Sie die Route zum Museum und dann zur ikonischen Eiffel-Brücke über den Pruth. Nach dem Mittagessen erkunden Sie die östlichen Stadtteile, besuchen eine weitere Kirche und entspannen in den weitläufigen Parks der Stadt, wo Sie den Tag zwischen Kunst und Natur ausklingen lassen.",
+        "hu": "Pattanjon kerékpárra Ungheni aktív felfedezéséhez. Induljon a központból, és tekerjen el a főbb történelmi helyszínekhez. A délelőtti útvonal a múzeumhoz, majd az ikonikus Eiffel-hídhoz vezet a Prut folyón. Ebéd után fedezze fel a keleti városrészeket, látogasson meg egy másik templomot, és pihenjen a város tágas parkjaiban, ahol a napot művészet és természet között zárhatja.",
+        "ro": "Urcați-vă pe bicicletă pentru o explorare activă a orașului Ungheni. Începeți din centru și pedalați către principalele situri istorice. Traseul de dimineață vă duce la muzeu și apoi la emblematicul Pod Eiffel peste Prut. După prânz, explorați cartierele estice, vizitați o altă biserică și relaxați-vă în parcurile spațioase ale orașului, încheind ziua între artă și natură.",
+        "en": "Get on your bike for an active exploration of Ungheni. Start in the center and cycle to the main historical sites. The morning route takes you to the museum and then to the iconic Eiffel Bridge over the Prut River. After lunch, explore the eastern districts, visit another church, and relax in the city's spacious parks, ending the day between art and nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Casa Veche",
+            "tip": "Ein großartiger Ort für ein herzhaftes Mittagessen, um Energie zu tanken."
+          },
+          {
+            "name": "Lokale Weine",
+            "tip": "Moldawien ist für seine Weine bekannt, probieren Sie eine lokale Sorte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Casa Veche étterem",
+            "tip": "Nagyszerű hely egy kiadós ebédhez, hogy energiát gyűjtsön."
+          },
+          {
+            "name": "Helyi borok",
+            "tip": "Moldova híres a borairól, kóstoljon meg egy helyi fajtát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul Casa Veche",
+            "tip": "Un loc excelent pentru un prânz consistent pentru a vă reîncărca bateriile."
+          },
+          {
+            "name": "Vinuri locale",
+            "tip": "Moldova este renumită pentru vinurile sale, încercați un soi local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Casa Veche Restaurant",
+            "tip": "A great place for a hearty lunch to recharge your energy."
+          },
+          {
+            "name": "Local wines",
+            "tip": "Moldova is famous for its wines, try a local variety."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Pruth",
+            "tip": "Genießen Sie die friedliche Atmosphäre abseits des Stadtverkehrs.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Der hintere Teil des Skulpturenparks",
+            "tip": "Ein ruhiger Bereich, um die Kunstwerke in Stille zu betrachten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Prut mentén",
+            "tip": "Élvezze a békés hangulatot távol a városi forgalomtól.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A szoborpark hátsó része",
+            "tip": "Egy csendes rész, ahol csendben szemlélheti a műalkotásokat.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de pe malul Prutului",
+            "tip": "Bucurați-vă de atmosfera pașnică, departe de traficul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Partea din spate a Parcului de sculpturi",
+            "tip": "O zonă liniștită pentru a contempla operele de artă în tăcere.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike path along the Prut River",
+            "tip": "Enjoy the peaceful atmosphere away from the city traffic.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The back of the Sculpture Park",
+            "tip": "A quiet area to contemplate the artworks in silence.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handwerkermarkt",
+            "tip": "Halten Sie Ausschau nach handgefertigtem Schmuck und Keramik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves piac",
+            "tip": "Keressen kézzel készített ékszereket és kerámiákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Târgul de artizanat",
+            "tip": "Căutați bijuterii și ceramică artizanală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Craft Market",
+            "tip": "Look for handmade jewelry and pottery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck vor der Abfahrt.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad sicher abzustellen.",
+          "Einige Straßen können holprig sein, fahren Sie vorsichtig.",
+          "Planen Sie Pausen ein, um sich auszuruhen und zu hydrieren."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Hozzon magával lakatot a kerékpár biztonságos lezárásához.",
+          "Néhány út rázós lehet, vezessen óvatosan.",
+          "Tervezzen be szüneteket pihenésre és hidratálásra."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope înainte de a pleca.",
+          "Luați un lacăt pentru a vă asigura bicicleta.",
+          "Unele drumuri pot fi denivelate, conduceți cu prudență.",
+          "Planificați pauze pentru a vă odihni și hidrata."
+        ],
+        "en": [
+          "Check your tire pressure before setting off.",
+          "Bring a lock to secure your bike.",
+          "Some roads can be bumpy, ride with care.",
+          "Plan for breaks to rest and hydrate."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:16",
+      "total_km": 11.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz nahe Platz der Vereinigung",
+            "hu": "Parkoló az Egyesülés tere közelében",
+            "ro": "Parcare lângă Piața Unirii",
+            "en": "Parking near Union Square"
+          },
+          "coords": [
+            27.801,
+            47.21
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier für den ersten Teil Ihrer Erkundung.",
+            "hu": "Parkoljon itt a felfedezés első részéhez.",
+            "ro": "Parcați aici pentru prima parte a explorării.",
+            "en": "Park here for the first cluster of your exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Platz der Vereinigung & Denkmal",
+            "hu": "Egyesülés tere és Emlékmű",
+            "ro": "Piața Unirii & Monumentul",
+            "en": "Union Square & Monument"
+          },
+          "coords": [
+            27.8003,
+            47.2094
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:18",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie den zentralen Platz und das nahegelegene Denkmal zu Fuß.",
+            "hu": "Fedezze fel gyalog a központi teret és a közeli emlékművet.",
+            "ro": "Explorați pe jos piața centrală și monumentul din apropiere.",
+            "en": "Explore the central square and the nearby monument on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Alexander-Newski-Kathedrale",
+            "hu": "Alekszandr Nyevszkij-székesegyház",
+            "ro": "Catedrala Alexandr Nevski",
+            "en": "Alexander Nevsky Cathedral"
+          },
+          "coords": [
+            27.7985,
+            47.2085
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:03",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von Ihrem Parkplatz aus.",
+            "hu": "Egy rövid séta a parkolótól.",
+            "ro": "O scurtă plimbare de la locul de parcare.",
+            "en": "A short walk from where you parked."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Geschichte und Ethnographie",
+            "hu": "Történeti és Néprajzi Múzeum",
+            "ro": "Muzeul de Istorie și Etnografie",
+            "en": "Museum of History and Ethnography"
+          },
+          "coords": [
+            27.795,
+            47.207
+          ],
+          "category": "museums",
+          "arrive_at": "11:08",
+          "stay_min": 100,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Fahren Sie hierher und finden Sie einen neuen Parkplatz.",
+            "hu": "Vezessen ide, és keressen egy új parkolóhelyet.",
+            "ro": "Conduceți aici și găsiți un nou loc de parcare.",
+            "en": "Drive here and find a new parking spot for the next cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Eiffels Brücke",
+            "hu": "Eiffel-híd",
+            "ro": "Podul Eiffel",
+            "en": "Eiffel Bridge"
+          },
+          "coords": [
+            27.788,
+            47.204
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:00",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto stehen und spazieren Sie zur Brücke.",
+            "hu": "Hagyja az autót, és sétáljon el a hídhoz.",
+            "ro": "Lăsați mașina și faceți o plimbare până la pod.",
+            "en": "Leave the car and take a walk to the bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Grigore-Vieru-Park",
+            "hu": "Grigore Vieru park",
+            "ro": "Parcul Grigore Vieru",
+            "en": "Grigore Vieru Park"
+          },
+          "coords": [
+            27.81,
+            47.215
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:20",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Die letzte Fahrt des Tages führt Sie in die grünen Lungen der Stadt.",
+            "hu": "A nap utolsó autózása a város zöld tüdejébe vezet.",
+            "ro": "Ultima călătorie cu mașina a zilei vă duce în plămânii verzi ai orașului.",
+            "en": "The last drive of the day takes you to the city's green lungs."
+          }
+        },
+        {
+          "name": {
+            "de": "Skulpturenpark Micul Cluj",
+            "hu": "Micul Cluj szoborpark",
+            "ro": "Parcul de sculpturi Micul Cluj",
+            "en": "Micul Cluj Sculpture Park"
+          },
+          "coords": [
+            27.812,
+            47.216
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:27",
+          "stay_min": 79,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Dieser Park liegt direkt nebenan, ein einfacher Spaziergang.",
+            "hu": "Ez a park közvetlenül a szomszédban van, egy könnyű séta.",
+            "ro": "Acest parc este chiar alături, o plimbare ușoară.",
+            "en": "This park is right next door, an easy walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Auto, um Ungheni in bequemen Abschnitten zu erkunden. Parken Sie im Zentrum und entdecken Sie den Hauptplatz und die Kathedrale zu Fuß. Am Vormittag fahren Sie zum Museumsviertel und zur Eiffel-Brücke für den zweiten Besichtigungs-Cluster. Den Nachmittag verbringen Sie in den weitläufigen Parks im Osten der Stadt, die Sie nach einer kurzen Autofahrt erreichen und wo Sie den Tag in Ruhe ausklingen lassen können.",
+        "hu": "Használja az autót Ungheni kényelmes szakaszokban történő felfedezéséhez. Parkoljon a központban, és fedezze fel gyalog a főteret és a katedrálist. Délelőtt hajtson át a múzeumi negyedbe és az Eiffel-hídhoz a második látnivaló-csoporthoz. A délutánt a város keleti részén található tágas parkokban töltse, amelyeket egy rövid autóút után ér el, és ahol békésen zárhatja a napot.",
+        "ro": "Folosiți mașina pentru a explora Ungheniul în segmente convenabile. Parcați în centru și descoperiți pe jos piața principală și catedrala. Dimineața, conduceți către cartierul muzeelor și Podul Eiffel pentru al doilea grup de vizitare. Petreceți după-amiaza în parcurile spațioase din estul orașului, ajungând acolo după o scurtă călătorie cu mașina, unde puteți încheia ziua în liniște.",
+        "en": "Use the car to explore Ungheni in convenient clusters. Park in the center and discover the main square and cathedral on foot. In the morning, drive to the museum district and the Eiffel Bridge for the second sightseeing cluster. Spend the afternoon in the spacious parks in the east of the city, reached after a short drive, where you can end the day peacefully."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant mit Parkplatz",
+            "tip": "Suchen Sie nach einem Restaurant mit eigenen Parkplätzen, um die Mittagszeit stressfrei zu gestalten."
+          },
+          {
+            "name": "Mititei (Mici)",
+            "tip": "Gegrillte Hackfleischröllchen, ein herzhafter und beliebter Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem parkolóval",
+            "tip": "Keressen egy saját parkolóval rendelkező éttermet a stresszmentes ebédidőért."
+          },
+          {
+            "name": "Mititei (Mici)",
+            "tip": "Grillezett darált hús tekercsek, egy kiadós és népszerű snack."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant cu parcare",
+            "tip": "Căutați un restaurant cu parcare proprie pentru un prânz fără stres."
+          },
+          {
+            "name": "Mititei (Mici)",
+            "tip": "Rulouri din carne tocată la grătar, o gustare consistentă și populară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant with parking",
+            "tip": "Look for a restaurant with its own parking to make lunchtime stress-free."
+          },
+          {
+            "name": "Mititei (Mici)",
+            "tip": "Grilled minced meat rolls, a hearty and popular snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt in der Nähe der Brücke",
+            "tip": "Fahren Sie zu einem Punkt mit guter Sicht auf den Fluss und die Brücke.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ein abgelegener Teil des Grigore-Vieru-Parks",
+            "tip": "Fahren Sie zum hinteren Eingang für einen ruhigeren Zugang.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópont a híd közelében",
+            "tip": "Vezessen egy olyan ponthoz, ahonnan jó kilátás nyílik a folyóra és a hídra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Grigore Vieru park egy eldugott része",
+            "tip": "Hajtson a hátsó bejárathoz a csendesebb bejutásért.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere lângă pod",
+            "tip": "Conduceți spre un punct cu o vedere bună asupra râului și podului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "O parte retrasă a Parcului Grigore Vieru",
+            "tip": "Conduceți la intrarea din spate pentru un acces mai liniștit.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint near the bridge",
+            "tip": "Drive to a spot with a good view of the river and bridge.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A secluded part of Grigore Vieru Park",
+            "tip": "Drive to the back entrance for a quieter access.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weingut am Stadtrand",
+            "tip": "Machen Sie einen kurzen Abstecher, um eine Flasche authentischen moldauischen Weins zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pincészet a város szélén",
+            "tip": "Tegyen egy rövid kitérőt, hogy vásároljon egy üveg autentikus moldáv bort."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cramă la marginea orașului",
+            "tip": "Faceți o scurtă abatere pentru a cumpăra o sticlă de vin moldovenesc autentic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Winery on the outskirts",
+            "tip": "Make a short detour to buy a bottle of authentic Moldovan wine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie Offline-Karten herunter, um die Navigation zu erleichtern.",
+          "Achten Sie auf Parkbeschränkungen im Stadtzentrum.",
+          "Halten Sie Kleingeld für Parkuhren bereit.",
+          "Die Cluster-Walking-Methode ist ideal, um das Beste aus Ihrem Besuch zu machen."
+        ],
+        "hu": [
+          "Töltsön le offline térképeket a könnyebb navigáció érdekében.",
+          "Figyeljen a parkolási korlátozásokra a városközpontban.",
+          "Tartson magánál aprópénzt a parkolóórákhoz.",
+          "A klaszteres gyaloglás módszere ideális, hogy a legtöbbet hozza ki a látogatásból."
+        ],
+        "ro": [
+          "Descărcați hărți offline pentru a facilita navigarea.",
+          "Fiți atenți la restricțiile de parcare din centrul orașului.",
+          "Păstrați monede pentru parcometre.",
+          "Metoda de plimbare în clustere este ideală pentru a profita la maximum de vizită."
+        ],
+        "en": [
+          "Download offline maps to make navigation easier.",
+          "Be aware of parking restrictions in the city center.",
+          "Keep small change ready for parking meters.",
+          "The cluster-walking method is ideal for making the most of your visit."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentralbushaltestelle (nahe Platz der Vereinigung)",
+            "hu": "Központi buszmegálló (Egyesülés tere közelében)",
+            "ro": "Stație centrală de autobuz (lângă Piața Unirii)",
+            "en": "Central Bus Stop (near Union Square)"
+          },
+          "coords": [
+            27.802,
+            47.2099
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier, im Herzen des öffentlichen Verkehrsnetzes.",
+            "hu": "Kezdje a napot itt, a tömegközlekedési hálózat szívében.",
+            "ro": "Începeți ziua aici, în inima rețelei de transport public.",
+            "en": "Start your day here, in the heart of the public transport network."
+          }
+        },
+        {
+          "name": {
+            "de": "Platz der Vereinigung",
+            "hu": "Egyesülés tere",
+            "ro": "Piața Unirii",
+            "en": "Union Square"
+          },
+          "coords": [
+            27.8003,
+            47.2094
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:18",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der Platz ist nur wenige Schritte von der Bushaltestelle entfernt.",
+            "hu": "A tér csak néhány lépésre van a buszmegállótól.",
+            "ro": "Piața este la doar câțiva pași de stația de autobuz.",
+            "en": "The square is just a few steps from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Alexander-Newski-Kathedrale",
+            "hu": "Alekszandr Nyevszkij-székesegyház",
+            "ro": "Catedrala Alexandr Nevski",
+            "en": "Alexander Nevsky Cathedral"
+          },
+          "coords": [
+            27.7985,
+            47.2085
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:48",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang durch die Innenstadt.",
+            "hu": "Egy kellemes séta a belvároson keresztül.",
+            "ro": "O plimbare plăcută prin centrul orașului.",
+            "en": "A pleasant walk through the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Museumshaltestelle",
+            "hu": "Múzeum megálló",
+            "ro": "Stația Muzeu",
+            "en": "Museum Stop"
+          },
+          "coords": [
+            27.7955,
+            47.2075
+          ],
+          "category": "transport",
+          "arrive_at": "10:53",
+          "stay_min": 5,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus, um zum nächsten Besichtigungscluster zu gelangen.",
+            "hu": "Szálljon buszra, hogy eljusson a következő látnivaló-csoporthoz.",
+            "ro": "Luați un autobuz pentru a ajunge la următorul cluster de vizitare.",
+            "en": "Take a bus to get to the next sightseeing cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum & Eiffels Brücke",
+            "hu": "Múzeum és Eiffel-híd",
+            "ro": "Muzeul & Podul Eiffel",
+            "en": "Museum & Eiffel Bridge"
+          },
+          "coords": [
+            27.795,
+            47.207
+          ],
+          "category": "museums",
+          "arrive_at": "11:03",
+          "stay_min": 140,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kombinieren Sie das Museum mit einem Spaziergang zur Brücke.",
+            "hu": "Kombinálja a múzeumot egy sétával a hídhoz.",
+            "ro": "Combinați muzeul cu o plimbare până la pod.",
+            "en": "Combine the museum with a walk to the bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle Grigore-Vieru-Park",
+            "hu": "Grigore Vieru park buszmegálló",
+            "ro": "Stația Parcul Grigore Vieru",
+            "en": "Grigore Vieru Park Bus Stop"
+          },
+          "coords": [
+            27.809,
+            47.214
+          ],
+          "category": "transport",
+          "arrive_at": "14:13",
+          "stay_min": 5,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Die letzte Fahrt bringt Sie in die grüne Oase der Stadt.",
+            "hu": "Az utolsó utazás a város zöld oázisába visz.",
+            "ro": "Ultima călătorie vă duce în oaza verde a orașului.",
+            "en": "The final transit ride takes you to the city's green oasis."
+          }
+        },
+        {
+          "name": {
+            "de": "Grigore-Vieru-Park & Skulpturenpark",
+            "hu": "Grigore Vieru park és Szoborpark",
+            "ro": "Parcul Grigore Vieru & Parcul de sculpturi",
+            "en": "Grigore Vieru Park & Sculpture Park"
+          },
+          "coords": [
+            27.81,
+            47.215
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:23",
+          "stay_min": 142,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beide Parks sind miteinander verbunden und können leicht zu Fuß erkundet werden.",
+            "hu": "Mindkét park össze van kötve, és könnyen felfedezhető gyalog.",
+            "ro": "Ambele parcuri sunt conectate și pot fi explorate cu ușurință pe jos.",
+            "en": "Both parks are connected and can be easily explored on foot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Ungheni effizient mit öffentlichen Verkehrsmitteln. Beginnen Sie Ihren Tag im Zentrum und erkunden Sie den ersten Cluster aus Platz, Denkmal und Kathedrale zu Fuß. Ein Bus bringt Sie dann zum zweiten Cluster, wo das Museum und die berühmte Eiffel-Brücke auf Sie warten. Den Nachmittag verbringen Sie nach einer weiteren kurzen Busfahrt im grünen Herzen der Stadt, wo Sie zwei Parks erkunden und den Tag entspannt ausklingen lassen.",
+        "hu": "Fedezze fel Unghenit hatékonyan a tömegközlekedéssel. Kezdje a napot a központban, és fedezze fel gyalog az első látnivaló-csoportot: a teret, az emlékművet és a katedrálist. Ezután egy busz elviszi a második csoporthoz, ahol a múzeum és a híres Eiffel-híd várja. A délutánt egy újabb rövid buszozás után a város zöld szívében töltse, ahol két parkot fedezhet fel, és lazán zárhatja a napot.",
+        "ro": "Explorați eficient Ungheniul cu transportul public. Începeți ziua în centru și explorați pe jos primul cluster format din piață, monument și catedrală. Un autobuz vă va duce apoi la al doilea cluster, unde vă așteaptă muzeul și faimosul Pod Eiffel. Petreceți după-amiaza, după o altă scurtă călătorie cu autobuzul, în inima verde a orașului, unde puteți explora două parcuri și încheia ziua într-un mod relaxat.",
+        "en": "Explore Ungheni efficiently using public transport. Start your day in the center and explore the first cluster of the square, monument, and cathedral on foot. A bus will then take you to the second cluster, where the museum and the famous Eiffel Bridge await. Spend the afternoon, after another short bus ride, in the green heart of the city, where you can explore two parks and end the day in a relaxed manner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Straßenimbiss",
+            "tip": "Probieren Sie eine schnelle und leckere Plăcintă von einem Stand in der Nähe einer Bushaltestelle."
+          },
+          {
+            "name": "Ciorbă",
+            "tip": "Eine traditionelle saure Suppe, die in vielen lokalen Restaurants serviert wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Utcai étel",
+            "tip": "Kóstoljon meg egy gyors és finom Plăcintă-t egy standnál egy buszmegálló közelében."
+          },
+          {
+            "name": "Csorba",
+            "tip": "Hagyományos savanyú leves, amelyet sok helyi étteremben szolgálnak fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mâncare stradală",
+            "tip": "Încercați o Plăcintă rapidă și delicioasă de la o tarabă de lângă o stație de autobuz."
+          },
+          {
+            "name": "Ciorbă",
+            "tip": "O supă acră tradițională, servită în multe restaurante locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Street food",
+            "tip": "Try a quick and delicious Plăcintă from a stall near a bus stop."
+          },
+          {
+            "name": "Ciorbă",
+            "tip": "A traditional sour soup served in many local restaurants."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Oberdeck eines Busses",
+            "tip": "Wenn verfügbar, bietet das Oberdeck eine andere Perspektive auf die Stadt.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Ein ruhiger Platz in der Kathedrale",
+            "tip": "Finden Sie einen Moment der Stille abseits der Hauptwege.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy busz emelete",
+            "tip": "Ha van, az emelet más perspektívát kínál a városra.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Egy csendes hely a katedrálisban",
+            "tip": "Keressen egy csendes pillanatot a fő útvonalaktól távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etajul superior al unui autobuz",
+            "tip": "Dacă este disponibil, etajul superior oferă o perspectivă diferită asupra orașului.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Un loc liniștit în catedrală",
+            "tip": "Găsiți un moment de liniște departe de traseele principale.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Upper deck of a bus",
+            "tip": "If available, the upper deck offers a different perspective of the city.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "A quiet spot in the cathedral",
+            "tip": "Find a moment of silence away from the main paths.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk an der Haltestelle",
+            "tip": "Kaufen Sie eine Zeitung oder ein lokales Magazin für Ihre Fahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a megállóban",
+            "tip": "Vásároljon egy újságot vagy egy helyi magazint az utazáshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc din stație",
+            "tip": "Cumpărați un ziar sau o revistă locală pentru călătoria dvs."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the stop",
+            "tip": "Buy a newspaper or a local magazine for your ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Informieren Sie sich über die Busfahrpläne, um Wartezeiten zu minimieren.",
+          "Halten Sie sich an den Haltestellen gut fest, wenn Sie auf den Bus warten.",
+          "Validieren Sie Ihr Ticket bei jeder Fahrt, um Strafen zu vermeiden."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Tájékozódjon a buszmenetrendekről a várakozási idő minimalizálása érdekében.",
+          "A megállókban kapaszkodjon meg, miközben a buszra vár.",
+          "Minden utazásnál érvényesítse a jegyét a bírságok elkerülése érdekében."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Verificați orarele autobuzelor pentru a minimiza timpul de așteptare.",
+          "Țineți-vă bine în stații în timp ce așteptați autobuzul.",
+          "Validați biletul la fiecare călătorie pentru a evita amenzile."
+        ],
+        "en": [
+          "Buy a day pass for unlimited travel.",
+          "Check bus schedules to minimize waiting times.",
+          "Hold on tight at the stops while waiting for the bus.",
+          "Validate your ticket on every ride to avoid fines."
+        ]
+      }
+    }
+  }
+}

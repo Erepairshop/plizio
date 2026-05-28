@@ -1,0 +1,1240 @@
+{
+  "city_id": "portugal-idanha-a-nova-cities-v2",
+  "anchor": {
+    "name": "Idanha-a-Nova",
+    "coords": [
+      -7.2333,
+      39.9333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 3.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Pelourinho von Idanha-a-Nova",
+            "hu": "Idanha-a-Nova pellengére",
+            "ro": "Pelourinho din Idanha-a-Nova",
+            "en": "Pillory of Idanha-a-Nova"
+          },
+          "coords": [
+            -7.233,
+            39.9335
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein perfekter Ausgangspunkt, um die Symbolik der alten portugiesischen Justiz zu verstehen.",
+            "hu": "Tökéletes kiindulópont a régi portugál igazságszolgáltatás szimbolikájának megértéséhez.",
+            "ro": "Un punct de plecare perfect pentru a înțelege simbolismul justiției portugheze vechi.",
+            "en": "A perfect starting point to understand the symbolism of ancient Portuguese justice."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja Matriz von Idanha-a-Nova",
+            "hu": "Idanha-a-Nova főtemploma",
+            "ro": "Biserica Matriz din Idanha-a-Nova",
+            "en": "Mother Church of Idanha-a-Nova"
+          },
+          "coords": [
+            -7.2325,
+            39.934
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die manuelinischen Details und das beeindruckende Altarbild.",
+            "hu": "Figyelje meg a mánueli stílusú részleteket és a lenyűgöző oltárképet.",
+            "ro": "Observați detaliile manueline și altarul impresionant.",
+            "en": "Look for the Manueline details and the impressive altarpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss von Idanha-a-Nova",
+            "hu": "Idanha-a-Nova vára",
+            "ro": "Castelul din Idanha-a-Nova",
+            "en": "Castle of Idanha-a-Nova"
+          },
+          "coords": [
+            -7.238,
+            39.936
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für die Ruinen und die Aussicht. Tragen Sie festes Schuhwerk.",
+            "hu": "Megéri a kaptatót a romokért és a kilátásért. Viseljen erős cipőt.",
+            "ro": "Urcușul merită pentru ruine și priveliște. Purtați încălțăminte rezistentă.",
+            "en": "The climb is worth it for the ruins and the view. Wear sturdy shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro do Castelo",
+            "hu": "Vár-kilátó",
+            "ro": "Punct de vedere al Castelului",
+            "en": "Castle Viewpoint"
+          },
+          "coords": [
+            -7.2385,
+            39.9365
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "11:58",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der beste Ort für Panoramafotos der Stadt und der umliegenden Landschaft.",
+            "hu": "A legjobb hely panorámaképek készítésére a városról és a környező tájról.",
+            "ro": "Cel mai bun loc pentru fotografii panoramice ale orașului și peisajului înconjurător.",
+            "en": "The best spot for panoramic photos of the town and the surrounding landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Raiano",
+            "hu": "Raiano Kulturális Központ",
+            "ro": "Centrul Cultural Raiano",
+            "en": "Raiano Cultural Centre"
+          },
+          "coords": [
+            -7.231,
+            39.932
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:23",
+          "stay_min": 100,
+          "hop_from_prev_min": 140,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie das Programm auf Ausstellungen oder Veranstaltungen. Inklusive 80 Minuten Mittagessen vor dem Besuch.",
+            "hu": "Nézze meg a programot kiállításokért vagy eseményekért. A látogatás előtt 80 perces ebédszünetet is tartalmaz.",
+            "ro": "Verificați programul pentru expoziții sau evenimente. Include 80 de minute pentru prânz înainte de vizită.",
+            "en": "Check the schedule for any exhibitions or events. Includes an 80-minute lunch break before the visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am historischen Pelourinho, bevor Sie zur majestätischen Igreja Matriz schlendern. Der Vormittag ist dem Aufstieg zur Burg und ihrem Aussichtspunkt gewidmet, der eine atemberaubende Aussicht bietet. Nach einem gemütlichen Mittagessen tauchen Sie am Nachmittag in die lokale Kultur im Centro Cultural Raiano ein und lassen den Tag entspannt ausklingen.",
+        "hu": "Kezdje a napot a történelmi pellengérnél, majd sétáljon át a fenséges főtemplomhoz. A délelőtt a várhoz és a kilátóponthoz való feljutásról szól, ahonnan lélegzetelállító a kilátás. Egy kényelmes ebéd után délután merüljön el a helyi kultúrában a Raiano Kulturális Központban, egy pihentető lezárásaként a napnak.",
+        "ro": "Începeți ziua la istoricul Pelourinho înainte de a vă plimba la maiestuoasa Biserică Matriz. Dimineața este dedicată urcării la castel și la punctul său de vedere, oferind priveliști uimitoare. După un prânz pe îndelete, scufundați-vă în cultura locală la Centrul Cultural Raiano după-amiaza pentru un final relaxant.",
+        "en": "Start your day at the historic Pillory before strolling to the majestic Mother Church. The morning is dedicated to the climb up to the castle and its viewpoint, offering stunning vistas. After a leisurely lunch, immerse yourself in local culture at the Raiano Cultural Centre in the afternoon for a relaxing finish."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Queijo de Castelo Branco",
+            "tip": "Probieren Sie diesen berühmten lokalen Käse, der oft mit hausgemachtem Brot serviert wird."
+          },
+          {
+            "name": "Maranho",
+            "tip": "Ein herzhaftes traditionelles Gericht aus Ziegenfleisch, Reis und Minze, das man probieren muss."
+          },
+          {
+            "name": "Restaurante O Espanhol",
+            "tip": "Bekannt für seine authentische regionale Küche in gemütlicher Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Queijo de Castelo Branco",
+            "tip": "Kóstolja meg ezt a híres helyi sajtot, amelyet gyakran házi kenyérrel szolgálnak fel."
+          },
+          {
+            "name": "Maranho",
+            "tip": "Kiadós, hagyományos étel kecskehúsból, rizsből és mentából, amelyet meg kell kóstolni."
+          },
+          {
+            "name": "Restaurante O Espanhol",
+            "tip": "Híres az autentikus regionális konyhájáról, otthonos légkörben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Queijo de Castelo Branco",
+            "tip": "Gustați această brânză locală renumită, adesea servită cu pâine de casă."
+          },
+          {
+            "name": "Maranho",
+            "tip": "Un fel de mâncare tradițional consistent din carne de capră, orez și mentă, de încercat neapărat."
+          },
+          {
+            "name": "Restaurante O Espanhol",
+            "tip": "Renumit pentru bucătăria sa regională autentică într-o atmosferă primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Queijo de Castelo Branco",
+            "tip": "Taste this famous local cheese, often served with homemade bread."
+          },
+          {
+            "name": "Maranho",
+            "tip": "A hearty traditional dish made from goat meat, rice, and mint that is a must-try."
+          },
+          {
+            "name": "Restaurante O Espanhol",
+            "tip": "Known for its authentic regional cuisine in a cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Miradouro do Castelo",
+            "tip": "Genießen Sie die Ruhe und den weiten Blick über die Ebenen der Beira Baixa.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gassen von Idanha-a-Nova",
+            "tip": "Verirren Sie sich in den ruhigen, engen Gassen abseits der Hauptplätze.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vár-kilátó",
+            "tip": "Élvezze a csendet és a Beira Baixa síkságára nyíló panorámát.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Idanha-a-Nova sikátorai",
+            "tip": "Tévedjen el a főterektől távoli, csendes, szűk sikátorokban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de vedere al Castelului",
+            "tip": "Bucurați-vă de liniște și de priveliștea panoramică asupra câmpiilor din Beira Baixa.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Străduțele din Idanha-a-Nova",
+            "tip": "Pierdeți-vă pe străduțele înguste și liniștite, departe de piețele principale.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Viewpoint",
+            "tip": "Enjoy the tranquility and the vast view over the plains of Beira Baixa.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Alleys of Idanha-a-Nova",
+            "tip": "Get lost in the quiet, narrow alleys away from the main squares.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerksläden",
+            "tip": "Suchen Sie nach Adufe (traditionelles Tamburin), Stickereien und Töpferwaren."
+          },
+          {
+            "name": "Olivenöl",
+            "tip": "Die Region ist für ihr hochwertiges Olivenöl bekannt. Ein tolles Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keressen Adufe-t (hagyományos tamburin), hímzéseket és kerámiákat."
+          },
+          {
+            "name": "Olívaolaj",
+            "tip": "A régió híres a kiváló minőségű olívaolajáról. Nagyszerű szuvenír."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Căutați Adufe (tamburină tradițională), broderii și ceramică."
+          },
+          {
+            "name": "Ulei de măsline",
+            "tip": "Regiunea este cunoscută pentru uleiul său de măsline de înaltă calitate. Un suvenir excelent."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Artisan Shops",
+            "tip": "Look for the Adufe (traditional tambourine), embroidery, and pottery."
+          },
+          {
+            "name": "Olive Oil",
+            "tip": "The region is known for its high-quality olive oil. A great souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie sehr bequeme Schuhe, da das Gelände hügelig ist.",
+          "Nehmen Sie Wasser mit, besonders für den Aufstieg zur Burg.",
+          "Planen Sie ein langes Mittagessen ein, um die lokale Küche zu genießen."
+        ],
+        "hu": [
+          "Viseljen nagyon kényelmes cipőt, mivel a terep dombos.",
+          "Vigyen magával vizet, különösen a várhoz való feljutáshoz.",
+          "Tervezzen egy hosszú ebédet, hogy élvezhesse a helyi konyhát."
+        ],
+        "ro": [
+          "Purtați pantofi foarte confortabili, deoarece terenul este deluros.",
+          "Luați apă cu dvs., mai ales pentru urcarea la castel.",
+          "Planificați un prânz lung pentru a savura bucătăria locală."
+        ],
+        "en": [
+          "Wear very comfortable shoes as the terrain is hilly.",
+          "Bring water, especially for the climb to the castle.",
+          "Plan for a long lunch to savor the local cuisine."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 25.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtzentrum (Pelourinho & Igreja Matriz)",
+            "hu": "Városközpont (Pellengér és Főtemplom)",
+            "ro": "Centrul orașului (Pelourinho & Biserica Matriz)",
+            "en": "Town Center (Pillory & Mother Church)"
+          },
+          "coords": [
+            -7.233,
+            39.9335
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Erkunden Sie das Herz der Stadt, bevor Sie zu Ihrer Radtour aufbrechen.",
+            "hu": "Fedezze fel a város szívét, mielőtt elindulna a kerékpártúrára.",
+            "ro": "Explorați inima orașului înainte de a porni în turul cu bicicleta.",
+            "en": "Explore the heart of the town before setting off on your bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Staudamm Marechal Carmona",
+            "hu": "Marechal Carmona gát",
+            "ro": "Barajul Marechal Carmona",
+            "en": "Marechal Carmona Dam"
+          },
+          "coords": [
+            -7.25,
+            39.9
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "10:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine erfrischende Fahrt zum Stausee. Ideal für eine Pause und um die Landschaft zu genießen.",
+            "hu": "Egy frissítő út a víztározóhoz. Ideális egy szünetre és a táj élvezetére.",
+            "ro": "O plimbare revigorantă până la baraj. Ideal pentru o pauză și pentru a vă bucura de peisaj.",
+            "en": "A refreshing ride to the reservoir. Ideal for a break and to enjoy the scenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagspause auf dem Land",
+            "hu": "Ebédszünet vidéken",
+            "ro": "Pauză de prânz la țară",
+            "en": "Lunch break in the countryside"
+          },
+          "coords": [
+            -7.24,
+            39.91
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Finden Sie ein lokales Restaurant auf dem Rückweg in die Stadt.",
+            "hu": "Keressen egy helyi éttermet a városba visszavezető úton.",
+            "ro": "Găsiți un restaurant local pe drumul de întoarcere în oraș.",
+            "en": "Find a local restaurant on your way back towards the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss von Idanha-a-Nova",
+            "hu": "Idanha-a-Nova vára",
+            "ro": "Castelul din Idanha-a-Nova",
+            "en": "Castle of Idanha-a-Nova"
+          },
+          "coords": [
+            -7.238,
+            39.936
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der letzte Anstieg des Tages. Stellen Sie Ihr Fahrrad am Fuße des Hügels ab und gehen Sie zu Fuß weiter.",
+            "hu": "A nap utolsó emelkedője. Zárja le a kerékpárt a hegy alján, és sétáljon fel.",
+            "ro": "Ultima urcare a zilei. Lăsați bicicleta la baza dealului și urcați pe jos.",
+            "en": "The final climb of the day. Lock your bike at the base of the hill and walk up."
+          }
+        },
+        {
+          "name": {
+            "de": "Capela de São Dâmaso",
+            "hu": "Szent Damasus-kápolna",
+            "ro": "Capela São Dâmaso",
+            "en": "Chapel of São Dâmaso"
+          },
+          "coords": [
+            -7.225,
+            39.93
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein friedlicher Abschluss Ihrer Radtour, etwas außerhalb des Hauptortes.",
+            "hu": "A kerékpártúra békés befejezése, kissé a fővároson kívül.",
+            "ro": "O încheiere pașnică a turului cu bicicleta, puțin în afara orașului principal.",
+            "en": "A peaceful end to your bike tour, slightly outside the main town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie im Herzen von Idanha-a-Nova, bevor Sie eine malerische Radtour zum Marechal Carmona Damm unternehmen. Genießen Sie die Ruhe am Wasser, bevor Sie für ein authentisches Mittagessen zurück ins Landesinnere fahren. Der Nachmittag bringt eine Herausforderung mit dem Anstieg zur Burg, aber die Belohnung ist die Aussicht. Beenden Sie Ihren Tag mit einem besinnlichen Besuch der Kapelle São Dâmaso.",
+        "hu": "Induljon Idanha-a-Nova szívéből, mielőtt egy festői kerékpártúrára indulna a Marechal Carmona gáthoz. Élvezze a vízparti nyugalmat, majd tekerjen vissza a szárazföldre egy autentikus ebédért. A délután kihívást tartogat a várhoz való feljutással, de a jutalom a kilátás. Zárja a napot egy elmélkedő látogatással a Szent Damasus-kápolnában.",
+        "ro": "Porniți din inima orașului Idanha-a-Nova înainte de o plimbare pitorească cu bicicleta la barajul Marechal Carmona. Bucurați-vă de liniștea de lângă apă înainte de a vă întoarce în interior pentru un prânz autentic. După-amiaza aduce o provocare cu urcarea la castel, dar recompensa este priveliștea. Încheiați ziua cu o vizită contemplativă la Capela São Dâmaso.",
+        "en": "Set off from the heart of Idanha-a-Nova before a scenic bike ride to the Marechal Carmona Dam. Enjoy the tranquility by the water before heading back inland for an authentic lunch. The afternoon brings a challenge with the climb to the castle, but the reward is the view. End your day with a contemplative visit to the Chapel of São Dâmaso."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Tascas",
+            "tip": "Suchen Sie nach kleinen, familiengeführten Restaurants für ein authentisches 'prato do dia' (Tagesgericht)."
+          },
+          {
+            "name": "Sopa da Beira",
+            "tip": "Eine nahrhafte Gemüsesuppe, perfekt zur Stärkung nach einer Radtour."
+          },
+          {
+            "name": "Vinho da Beira Interior",
+            "tip": "Probieren Sie den lokalen Wein, der für seine einzigartigen Aromen bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi 'tasca'-k",
+            "tip": "Keressen kis, családi éttermeket egy autentikus 'prato do dia' (napi menü) elfogyasztásához."
+          },
+          {
+            "name": "Sopa da Beira",
+            "tip": "Tápanyagban gazdag zöldségleves, tökéletes feltöltődés egy kerékpártúra után."
+          },
+          {
+            "name": "Vinho da Beira Interior",
+            "tip": "Kóstolja meg a helyi bort, amely egyedi ízvilágáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tascas locale",
+            "tip": "Căutați restaurante mici, de familie, pentru un 'prato do dia' (preparatul zilei) autentic."
+          },
+          {
+            "name": "Sopa da Beira",
+            "tip": "O supă de legume hrănitoare, perfectă pentru a vă reface energia după o plimbare cu bicicleta."
+          },
+          {
+            "name": "Vinho da Beira Interior",
+            "tip": "Gustați vinul local, cunoscut pentru aromele sale unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local 'Tascas'",
+            "tip": "Look for small, family-run eateries for an authentic 'prato do dia' (dish of the day)."
+          },
+          {
+            "name": "Sopa da Beira",
+            "tip": "A nutritious vegetable soup, perfect for refueling after a bike ride."
+          },
+          {
+            "name": "Vinho da Beira Interior",
+            "tip": "Taste the local wine, known for its unique flavors."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Stausees",
+            "tip": "Finden Sie einen ruhigen Platz am Wasser zum Entspannen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ländliche Wege",
+            "tip": "Genießen Sie die Stille der Landschaft auf den Wegen rund um Idanha.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A víztározó partja",
+            "tip": "Keressen egy csendes helyet a víz mellett a pihenéshez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vidéki utak",
+            "tip": "Élvezze a vidék csendjét az Idanha körüli utakon.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile lacului de acumulare",
+            "tip": "Găsiți un loc liniștit lângă apă pentru a vă relaxa.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Drumuri rurale",
+            "tip": "Bucurați-vă de liniștea peisajului rural pe drumurile din jurul Idanha.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Reservoir",
+            "tip": "Find a quiet spot by the water to relax.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rural Roads",
+            "tip": "Enjoy the silence of the countryside on the roads around Idanha.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Produkten wie Honig, Käse und Wurstwaren."
+          },
+          {
+            "name": "Folar da Páscoa",
+            "tip": "Wenn Sie um Ostern herum zu Besuch sind, probieren Sie dieses traditionelle süße Brot."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen helyi termékeket, mint a méz, sajt és kolbászfélék."
+          },
+          {
+            "name": "Folar da Páscoa",
+            "tip": "Ha húsvét környékén látogat el, kóstolja meg ezt a hagyományos édes kenyeret."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse locale precum miere, brânză și mezeluri."
+          },
+          {
+            "name": "Folar da Páscoa",
+            "tip": "Dacă vizitați în preajma Paștelui, încercați acest cozonac tradițional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for local produce like honey, cheese, and cured meats."
+          },
+          {
+            "name": "Folar da Páscoa",
+            "tip": "If visiting around Easter, try this traditional sweet bread."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Das Gelände kann anspruchsvoll sein, seien Sie auf Steigungen vorbereitet.",
+          "Nehmen Sie Snacks und viel Wasser mit."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket és a gumikat.",
+          "A terep kihívást jelenthet, készüljön fel az emelkedőkre.",
+          "Vigyen magával harapnivalót és sok vizet."
+        ],
+        "ro": [
+          "Verificați bicicleta înainte de a pleca, în special frânele și anvelopele.",
+          "Terenul poate fi solicitant, fiți pregătit pentru urcări.",
+          "Luați cu dvs. gustări și multă apă."
+        ],
+        "en": [
+          "Check your bike before leaving, especially brakes and tires.",
+          "The terrain can be challenging, be prepared for hills.",
+          "Carry snacks and plenty of water."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 31.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Idanha-a-Nova (Zentrum)",
+            "hu": "Idanha-a-Nova-klaszter (Központ)",
+            "ro": "Cluster Idanha-a-Nova (Centru)",
+            "en": "Idanha-a-Nova Cluster (Center)"
+          },
+          "coords": [
+            -7.2333,
+            39.9333
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto und erkunden Sie den Pelourinho, die Igreja Matriz und die nahegelegenen Gassen zu Fuß.",
+            "hu": "Parkolja le az autót, és fedezze fel gyalog a pellengért, a főtemplomot és a közeli sikátorokat.",
+            "ro": "Parcați mașina și explorați Pelourinho, Biserica Matriz și străduțele din apropiere pe jos.",
+            "en": "Park your car and explore the Pillory, Mother Church, and nearby alleys on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Idanha-a-Nova (Schloss)",
+            "hu": "Idanha-a-Nova-klaszter (Vár)",
+            "ro": "Cluster Idanha-a-Nova (Castel)",
+            "en": "Idanha-a-Nova Cluster (Castle)"
+          },
+          "coords": [
+            -7.238,
+            39.936
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Stadtzentrum zum Schloss, um die Ruinen und die Aussicht zu genießen.",
+            "hu": "Egy rövid séta a városközpontból a várhoz, hogy élvezze a romokat és a kilátást.",
+            "ro": "O scurtă plimbare de la centrul orașului la castel pentru a vă bucura de ruine și de priveliște.",
+            "en": "A short walk from the town center to the castle to enjoy the ruins and the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Idanha-a-Velha",
+            "hu": "Idanha-a-Velha",
+            "ro": "Idanha-a-Velha",
+            "en": "Idanha-a-Velha"
+          },
+          "coords": [
+            -7.14,
+            40.06
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:40",
+          "stay_min": 150,
+          "hop_from_prev_min": 105,
+          "hop_from_prev_km": 15.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem historischen Dorf. Planen Sie Zeit für das Mittagessen und die Erkundung der römischen Ruinen ein.",
+            "hu": "Vezessen el ebbe a történelmi faluba. Tervezzen időt az ebédre és a római romok felfedezésére.",
+            "ro": "Conduceți până la acest sat istoric. Planificați timp pentru prânz și pentru a explora ruinele romane.",
+            "en": "Drive to this historic village. Plan time for lunch and exploring the Roman ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Staudamm Marechal Carmona",
+            "hu": "Marechal Carmona gát",
+            "ro": "Barajul Marechal Carmona",
+            "en": "Marechal Carmona Dam"
+          },
+          "coords": [
+            -7.25,
+            39.9
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "16:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 16.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein entspannender Abschluss des Tages am Stausee, perfekt für Fotos im späten Nachmittagslicht.",
+            "hu": "A nap pihentető lezárása a víztározónál, tökéletes a késő délutáni fényekben való fotózáshoz.",
+            "ro": "O oprire relaxantă la sfârșitul zilei la baraj, perfectă pentru fotografii în lumina de după-amiază.",
+            "en": "A relaxing end to the day at the reservoir, perfect for photos in the late afternoon light."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr nach Idanha-a-Nova",
+            "hu": "Visszatérés Idanha-a-Novába",
+            "ro": "Întoarcere la Idanha-a-Nova",
+            "en": "Return to Idanha-a-Nova"
+          },
+          "coords": [
+            -7.2333,
+            39.9333
+          ],
+          "category": "gastro",
+          "arrive_at": "17:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Kehren Sie für einen Kaffee oder ein frühes Abendessen in die Stadt zurück.",
+            "hu": "Térjen vissza a városba egy kávéra vagy egy korai vacsorára.",
+            "ro": "Întoarceți-vă în oraș pentru o cafea sau o cină timpurie.",
+            "en": "Return to town for a coffee or an early dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen ist der Erkundung des Zentrums von Idanha-a-Nova gewidmet, alles zu Fuß von einem einzigen Parkplatz aus. Nach der Erkundung des Schlosses fahren Sie am Nachmittag in das bezaubernde historische Dorf Idanha-a-Velha. Hier genießen Sie ein Mittagessen inmitten von Geschichte. Der Tag endet mit einem ruhigen Besuch des Marechal Carmona Damms, bevor Sie nach Idanha-a-Nova zurückkehren.",
+        "hu": "A délelőtt Idanha-a-Nova központjának felfedezésével telik, mindezt egyetlen parkolóhelyről, gyalogosan. A vár felfedezése után délután utazzon el a bájos, történelmi Idanha-a-Velha faluba ebédelni a történelem közepette. A nap egy békés látogatással zárul a Marechal Carmona gátnál, mielőtt visszatérne Idanha-a-Novába.",
+        "ro": "Dimineața este dedicată explorării centrului orașului Idanha-a-Nova, totul pe jos dintr-o singură parcare. După ce ați explorat castelul, după-amiaza conduceți spre fermecătorul sat istoric Idanha-a-Velha pentru prânz în mijlocul istoriei. Ziua se încheie cu o vizită liniștită la barajul Marechal Carmona înainte de a vă întoarce la Idanha-a-Nova.",
+        "en": "The morning is for exploring the center of Idanha-a-Nova, all on foot from a single parking spot. After exploring the castle, the afternoon takes you to the charming historic village of Idanha-a-Velha for lunch amidst history. The day concludes with a peaceful visit to the Marechal Carmona Dam before returning to Idanha-a-Nova."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurante O Lampião (Idanha-a-Velha)",
+            "tip": "Probieren Sie traditionelle Gerichte in einem der historischsten Dörfer Portugals."
+          },
+          {
+            "name": "Ensopado de Borrego",
+            "tip": "Ein Lamm-Eintopf, der langsam gekocht wird und reich an Geschmack ist."
+          },
+          {
+            "name": "Filhós",
+            "tip": "Ein frittiertes Gebäck, das oft bei Festen gegessen wird, aber auch in lokalen Bäckereien zu finden ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurante O Lampião (Idanha-a-Velha)",
+            "tip": "Kóstoljon meg hagyományos ételeket Portugália egyik legtörténelmibb falujában."
+          },
+          {
+            "name": "Ensopado de Borrego",
+            "tip": "Lassan főtt báránypörkölt, gazdag ízvilággal."
+          },
+          {
+            "name": "Filhós",
+            "tip": "Fesztiválokon gyakori fánkféle, de helyi pékségekben is megtalálható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurante O Lampião (Idanha-a-Velha)",
+            "tip": "Încercați mâncăruri tradiționale într-unul dintre cele mai istorice sate din Portugalia."
+          },
+          {
+            "name": "Ensopado de Borrego",
+            "tip": "O tocană de miel gătită lent, bogată în arome."
+          },
+          {
+            "name": "Filhós",
+            "tip": "Un produs de patiserie prăjit, adesea consumat la festivaluri, dar disponibil și în brutăriile locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurante O Lampião (Idanha-a-Velha)",
+            "tip": "Try traditional dishes in one of Portugal's most historic villages."
+          },
+          {
+            "name": "Ensopado de Borrego",
+            "tip": "A slow-cooked lamb stew that is rich in flavor."
+          },
+          {
+            "name": "Filhós",
+            "tip": "A fried pastry often eaten at festivals but also found in local bakeries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Straßen von Idanha-a-Velha",
+            "tip": "Spazieren Sie durch die alten, stillen Straßen und spüren Sie die Jahrhunderte der Geschichte.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Miradouro do Castelo",
+            "tip": "Ein großartiger Ort für Stille, bevor die Menschenmassen kommen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ufer des Stausees",
+            "tip": "Finden Sie einen friedlichen Platz, um die Natur zu genießen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Idanha-a-Velha utcái",
+            "tip": "Sétáljon végig az ősi, csendes utcákon, és érezze az évszázadok történelmét.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Vár-kilátó",
+            "tip": "Nagyszerű hely a csendre, mielőtt a tömeg megérkezik.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A víztározó partja",
+            "tip": "Keressen egy békés helyet a természet élvezetére.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Străzile din Idanha-a-Velha",
+            "tip": "Plimbați-vă pe străzile vechi și tăcute și simțiți secolele de istorie.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Punct de vedere al Castelului",
+            "tip": "Un loc minunat pentru liniște înainte de sosirea mulțimilor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malurile lacului de acumulare",
+            "tip": "Găsiți un loc pașnic pentru a vă bucura de natură.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Streets of Idanha-a-Velha",
+            "tip": "Walk the ancient, silent streets and feel the centuries of history.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Castle Viewpoint",
+            "tip": "A great spot for quiet before the crowds might arrive.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Banks of the Reservoir",
+            "tip": "Find a peaceful spot to enjoy nature.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handwerk aus Idanha-a-Velha",
+            "tip": "Das Dorf hat oft kleine Läden, die einzigartige, lokal hergestellte Waren verkaufen."
+          },
+          {
+            "name": "Käse und Wurstwaren",
+            "tip": "Kaufen Sie direkt bei den Produzenten in den Dörfern rund um Idanha-a-Nova."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves termékek Idanha-a-Velhából",
+            "tip": "A faluban gyakran vannak kis boltok, amelyek egyedi, helyben készült termékeket árulnak."
+          },
+          {
+            "name": "Sajt és felvágottak",
+            "tip": "Vásároljon közvetlenül a termelőktől az Idanha-a-Nova körüli falvakban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat din Idanha-a-Velha",
+            "tip": "Satul are adesea mici magazine care vând bunuri unice, fabricate local."
+          },
+          {
+            "name": "Brânzeturi și mezeluri",
+            "tip": "Cumpărați direct de la producători din satele din jurul Idanha-a-Nova."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crafts from Idanha-a-Velha",
+            "tip": "The village often has small shops selling unique, locally made goods."
+          },
+          {
+            "name": "Cheese and Cured Meats",
+            "tip": "Buy directly from producers in the villages around Idanha-a-Nova."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Planen Sie Ihre Route im Voraus, da der Handyempfang lückenhaft sein kann.",
+          "Haben Sie Bargeld für kleine Einkäufe und einige Restaurants dabei.",
+          "Die Straßen sind eng, fahren Sie vorsichtig."
+        ],
+        "hu": [
+          "Tervezze meg előre az útvonalat, mert a mobil térerő akadozhat.",
+          "Legyen Önnél készpénz a kisebb vásárlásokhoz és egyes éttermekhez.",
+          "Az utak szűkek, vezessen óvatosan."
+        ],
+        "ro": [
+          "Planificați-vă traseul în avans, deoarece semnalul la telefon poate fi slab.",
+          "Aveți numerar pentru cumpărături mici și unele restaurante.",
+          "Drumurile sunt înguste, conduceți cu prudență."
+        ],
+        "en": [
+          "Plan your route in advance as mobile signal can be patchy.",
+          "Have cash for small purchases and some restaurants.",
+          "The roads are narrow, drive carefully."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 18.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Zentrum (Pelourinho & Igreja)",
+            "hu": "Központ klaszter (Pellengér és templom)",
+            "ro": "Cluster Centru (Pelourinho & Biserică)",
+            "en": "Center Cluster (Pillory & Church)"
+          },
+          "coords": [
+            -7.2333,
+            39.9333
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie am Hauptbusbahnhof und gehen Sie zu den nahegelegenen historischen Sehenswürdigkeiten.",
+            "hu": "Kezdje a fő buszpályaudvartól, és sétáljon el a közeli történelmi látnivalókhoz.",
+            "ro": "Începeți de la autogara principală și mergeți pe jos la locurile istorice din apropiere.",
+            "en": "Start from the main bus station and walk to the nearby historic sites."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Schloss",
+            "hu": "Vár klaszter",
+            "ro": "Cluster Castel",
+            "en": "Castle Cluster"
+          },
+          "coords": [
+            -7.238,
+            39.936
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie den Hügel hinauf zum Schloss. Der Spaziergang ist Teil des Erlebnisses.",
+            "hu": "Sétáljon fel a dombon a várhoz. A séta az élmény része.",
+            "ro": "Urcați dealul până la castel. Plimbarea face parte din experiență.",
+            "en": "Walk up the hill to the castle. The walk is part of the experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Idanha-a-Velha",
+            "hu": "Idanha-a-Velha",
+            "ro": "Idanha-a-Velha",
+            "en": "Idanha-a-Velha"
+          },
+          "coords": [
+            -7.14,
+            40.06
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:30",
+          "stay_min": 180,
+          "hop_from_prev_min": 150,
+          "hop_from_prev_km": 15.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den regionalen Bus. Beinhaltet eine Mittagspause und Zeit, das Dorf zu erkunden.",
+            "hu": "Szálljon fel a regionális buszra. Tartalmaz egy ebédszünetet és időt a falu felfedezésére.",
+            "ro": "Luați autobuzul regional. Include o pauză de prânz și timp pentru a explora satul.",
+            "en": "Take the regional bus. Includes a lunch break and time to explore the village."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr nach Idanha-a-Nova",
+            "hu": "Visszatérés Idanha-a-Novába",
+            "ro": "Întoarcere la Idanha-a-Nova",
+            "en": "Return to Idanha-a-Nova"
+          },
+          "coords": [
+            -7.2333,
+            39.9333
+          ],
+          "category": "transit",
+          "arrive_at": "17:15",
+          "stay_min": 20,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Fahren Sie zurück zum Hauptknotenpunkt, um den Tag zu beenden.",
+            "hu": "Utazzon vissza a fő csomópontra a nap befejezéséhez.",
+            "ro": "Călătoriți înapoi la nodul principal pentru a încheia ziua.",
+            "en": "Travel back to the main hub to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit der Erkundung des Zentrums von Idanha-a-Nova, gefolgt von einem Spaziergang zum Schloss. Am Nachmittag bringt Sie ein Regionalbus in das faszinierende Dorf Idanha-a-Velha, wo Sie genügend Zeit für Erkundungen und ein Mittagessen haben. Der Bus bringt Sie am späten Nachmittag zurück und beendet so einen Tag voller historischer Entdeckungen.",
+        "hu": "A nap Idanha-a-Nova központjának felfedezésével kezdődik, majd egy sétával folytatódik a várhoz. Délután egy regionális busz viszi el a lenyűgöző Idanha-a-Velha faluba, ahol bőven lesz ideje felfedezni és megebédelni. A busz késő délután hozza vissza, lezárva egy történelmi felfedezésekkel teli napot.",
+        "ro": "Ziua începe cu explorarea centrului orașului Idanha-a-Nova, urmată de o plimbare până la castel. După-amiaza, un autobuz regional vă duce la fascinantul sat Idanha-a-Velha, unde aveți timp suficient pentru explorare și prânz. Autobuzul vă aduce înapoi după-amiaza târziu, încheind o zi plină de descoperiri istorice.",
+        "en": "Your day begins exploring the center of Idanha-a-Nova, followed by a walk up to the castle. In the afternoon, a regional bus takes you to the fascinating village of Idanha-a-Velha, with ample time for exploration and lunch. The bus will bring you back in the late afternoon, concluding a day of historical discovery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bifana",
+            "tip": "Ein klassisches portugiesisches Schweinefleisch-Sandwich, perfekt für ein schnelles Mittagessen."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Auch wenn es nicht aus der Region stammt, ist es immer ein Genuss in einem lokalen Café."
+          },
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Suchen Sie nach Broa de Mel (Honigbrot) oder anderen regionalen Süßigkeiten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bifana",
+            "tip": "Klasszikus portugál sertéshúsos szendvics, tökéletes egy gyors ebédhez."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Bár nem helyi specialitás, egy helyi kávézóban mindig élvezet."
+          },
+          {
+            "name": "Helyi pékségek",
+            "tip": "Keressen Broa de Mel-t (mézes kenyér) vagy más regionális édességeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bifana",
+            "tip": "Un sandviș clasic portughez cu carne de porc, perfect pentru un prânz rapid."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Chiar dacă nu este originar din regiune, este întotdeauna un deliciu la o cafenea locală."
+          },
+          {
+            "name": "Brutării locale",
+            "tip": "Căutați Broa de Mel (pâine cu miere) sau alte dulciuri regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bifana",
+            "tip": "A classic Portuguese pork sandwich, perfect for a quick lunch."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Even if not native to the region, it's always a treat at a local cafe."
+          },
+          {
+            "name": "Local Bakeries",
+            "tip": "Look for Broa de Mel (honey bread) or other regional sweets."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kathedrale von Idanha-a-Velha",
+            "tip": "Ein Ort von unglaublicher Ruhe und alter Geschichte.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Busfahrt durch die Landschaft",
+            "tip": "Schauen Sie aus dem Fenster und genießen Sie die vorbeiziehende Landschaft.",
+            "emoji": "🚌"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Idanha-a-Velha katedrálisa",
+            "tip": "Hihetetlen nyugalom és ősi történelem helyszíne.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Buszozás a vidéken",
+            "tip": "Nézzen ki az ablakon, és élvezze az elsuhanó tájat.",
+            "emoji": "🚌"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Catedrala din Idanha-a-Velha",
+            "tip": "Un loc de o liniște incredibilă și istorie veche.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Călătorie cu autobuzul prin peisajul rural",
+            "tip": "Priviți pe fereastră și bucurați-vă de peisajul care trece.",
+            "emoji": "🚌"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cathedral of Idanha-a-Velha",
+            "tip": "A place of incredible peace and ancient history.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Bus ride through the countryside",
+            "tip": "Look out the window and enjoy the passing scenery.",
+            "emoji": "🚌"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Reproduktionen römischer Artefakte",
+            "tip": "In Idanha-a-Velha finden Sie vielleicht Souvenirs, die von seiner römischen Vergangenheit inspiriert sind."
+          },
+          {
+            "name": "Kräuter und Gewürze",
+            "tip": "Kaufen Sie aromatische Kräuter wie Rosmarin und Thymian, die in der Region wild wachsen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Római kori tárgyak másolatai",
+            "tip": "Idanha-a-Velhában találhat a római múlt által ihletett szuveníreket."
+          },
+          {
+            "name": "Gyógynövények és fűszerek",
+            "tip": "Vásároljon aromás gyógynövényeket, mint a rozmaring és a kakukkfű, amelyek vadon teremnek a régióban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Reproduceri de artefacte romane",
+            "tip": "În Idanha-a-Velha ați putea găsi suveniruri inspirate de trecutul său roman."
+          },
+          {
+            "name": "Ierburi și condimente",
+            "tip": "Cumpărați ierburi aromatice precum rozmarin și cimbru, care cresc sălbatice în regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Roman artifact reproductions",
+            "tip": "In Idanha-a-Velha, you might find souvenirs inspired by its Roman past."
+          },
+          {
+            "name": "Herbs and Spices",
+            "tip": "Buy aromatic herbs like rosemary and thyme that grow wild in the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Busfahrpläne im Voraus, da die Verbindungen begrenzt sein können.",
+          "Kaufen Sie Tickets im Voraus, wenn möglich.",
+          "Seien Sie pünktlich an den Bushaltestellen."
+        ],
+        "hu": [
+          "Előre ellenőrizze a buszmenetrendet, mivel a járatok ritkák lehetnek.",
+          "Ha lehetséges, vegye meg a jegyeket előre.",
+          "Legyen pontos a buszmegállókban."
+        ],
+        "ro": [
+          "Verificați în avans orarele autobuzelor, deoarece serviciile pot fi limitate.",
+          "Cumpărați bilete în avans, dacă este posibil.",
+          "Fiți punctuali la stațiile de autobuz."
+        ],
+        "en": [
+          "Check bus schedules in advance, as services can be limited.",
+          "Buy tickets beforehand if possible.",
+          "Be punctual at the bus stops."
+        ]
+      }
+    }
+  }
+}

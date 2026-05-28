@@ -1,0 +1,1396 @@
+{
+  "city_id": "poland-zielona-gora-cities-v2",
+  "anchor": {
+    "name": "Grünberg",
+    "coords": [
+      15.5062,
+      51.9356
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt und Rathaus",
+            "hu": "Óváros és Városháza",
+            "ro": "Orașul vechi și Primăria",
+            "en": "Old Town and Town Hall"
+          },
+          "coords": [
+            15.506,
+            51.9365
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suchen Sie nach den kleinen Bachus-Figuren, die in der ganzen Stadt verteilt sind.",
+            "hu": "Keresd a kis Bacchus-szobrokat, melyek az egész városban elszórtan megtalálhatók.",
+            "ro": "Căutați micile statui ale lui Bachus, răspândite prin tot orașul.",
+            "en": "Look for the small Bacchus figures scattered throughout the city."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Hedwigs Kathedrale",
+            "hu": "Szent Hedvig-székesegyház",
+            "ro": "Catedrala Sf. Hedviga",
+            "en": "St. Hedwig's Cathedral"
+          },
+          "coords": [
+            15.5085,
+            51.9372
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie die beeindruckenden Buntglasfenster und die hohe Decke.",
+            "hu": "Figyeld meg a lenyűgöző ólomüveg ablakokat és a magas mennyezetet.",
+            "ro": "Observați vitraliile impresionante și tavanul înalt.",
+            "en": "Note the impressive stained-glass windows and the high ceiling."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum des Lebuser Landes",
+            "hu": "Lubuszi Föld Múzeuma",
+            "ro": "Muzeul ținutului Lubusz",
+            "en": "Museum of the Lubusz Land"
+          },
+          "coords": [
+            15.504,
+            51.9385
+          ],
+          "category": "museums",
+          "arrive_at": "10:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Weinausstellung ist ein Muss, um die lokale Geschichte zu verstehen.",
+            "hu": "A borkészítési kiállítás kötelező a helyi történelem megértéséhez.",
+            "ro": "Expoziția despre vin este esențială pentru a înțelege istoria locală.",
+            "en": "The wine exhibition is a must-see to understand the local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Weinbergpark",
+            "hu": "Szőlőhegy Park",
+            "ro": "Parcul Viticol",
+            "en": "Vineyard Park"
+          },
+          "coords": [
+            15.5165,
+            51.94
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Ort für ein Mittagspicknick mit Blick über die Stadt.",
+            "hu": "Tökéletes hely egy déli piknikhez, kilátással a városra.",
+            "ro": "Locul perfect pentru un picnic la prânz cu vedere asupra orașului.",
+            "en": "The perfect spot for a lunch picnic with a view over the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Palmenhaus",
+            "hu": "Pálmaház",
+            "ro": "Palmenhaus (Sera de palmieri)",
+            "en": "Palm House"
+          },
+          "coords": [
+            15.515,
+            51.939
+          ],
+          "category": "natural features",
+          "arrive_at": "14:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie einen Kaffee im Restaurant auf dem Dach mit Panoramablick.",
+            "hu": "Fogyassz el egy kávét a tetőtéri étteremben, ahonnan panorámás a kilátás.",
+            "ro": "Savurați o cafea la restaurantul de pe acoperiș cu vedere panoramică.",
+            "en": "Enjoy a coffee at the rooftop restaurant with a panoramic view."
+          }
+        },
+        {
+          "name": {
+            "de": "Piastowski-Park",
+            "hu": "Piastowski Park",
+            "ro": "Parcul Piastowski",
+            "en": "Piastowski Park"
+          },
+          "coords": [
+            15.498,
+            51.942
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:40",
+          "stay_min": 65,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Ort, um den Tag ausklingen zu lassen und die Natur zu genießen.",
+            "hu": "Egy szép hely a nap lezárására és a természet élvezetére.",
+            "ro": "Un loc frumos pentru a încheia ziua și a vă bucura de natură.",
+            "en": "A lovely place to end the day and enjoy nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Grünberg beginnt im Herzen der Altstadt, wo Sie das historische Rathaus bewundern. Am Vormittag erkunden Sie die geistliche und kulturelle Seite der Stadt mit einem Besuch der St. Hedwigs Kathedrale und dem Museum des Lebuser Landes, das die reiche Weingeschichte der Region beleuchtet. Der Nachmittag steht im Zeichen der Natur: Sie spazieren zum berühmten Weinbergpark und dem exotischen Palmenhaus, die beide einen fantastischen Blick über die Stadt bieten. Zum Ausklang des Tages schlendern Sie durch den ruhigen Piastowski-Park und genießen die friedliche Atmosphäre, bevor Sie sich auf den Weg zum Abendessen machen.",
+        "hu": "A nap Grünbergben az Óváros szívében kezdődik, ahol megcsodálhatja a történelmi Városházát. Délelőtt a város spirituális és kulturális oldalát fedezi fel a Szent Hedvig-székesegyház és a Lubuszi Föld Múzeumának meglátogatásával, amely bemutatja a régió gazdag bortörténetét. A délután a természet jegyében telik: elsétál a híres Szőlőhegy Parkba és az egzotikus Pálmaházhoz, mindkettő fantasztikus kilátást nyújt a városra. A nap végén átsétál a csendes Piastowski Parkon, és élvezi a békés hangulatot, mielőtt vacsorázni indulna.",
+        "ro": "Ziua dvs. în Grünberg începe în inima orașului vechi, admirând Primăria istorică. Dimineața explorați latura spirituală și culturală a orașului cu o vizită la Catedrala Sf. Hedviga și la Muzeul ținutului Lubusz, care evidențiază bogata istorie viticolă a regiunii. După-amiaza este dedicată naturii: vă plimbați până la faimosul Parc Viticol și exotica Seră de Palmieri, ambele oferind priveliști fantastice asupra orașului. La finalul zilei, vă plimbați prin liniștitul Parc Piastowski, bucurându-vă de atmosfera pașnică înainte de a merge la cină.",
+        "en": "Your day in Grünberg begins in the heart of the Old Town, admiring the historic Town Hall. In the morning, you'll explore the city's spiritual and cultural side with a visit to St. Hedwig's Cathedral and the Museum of the Lubusz Land, which highlights the region's rich wine history. The afternoon is all about nature: you'll stroll to the famous Vineyard Park and the exotic Palm House, both offering fantastic views over the city. To round off the day, you'll wander through the quiet Piastowski Park, enjoying the peaceful atmosphere before heading to dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pierogi (Piroggen)",
+            "tip": "Probieren Sie die traditionellen polnischen Teigtaschen bei 'Pierogarnia Kubiel'."
+          },
+          {
+            "name": "Żurek (Saure Mehlsuppe)",
+            "tip": "Eine herzhafte Suppe, oft im Brot serviert, im 'Karczma Bachus'."
+          },
+          {
+            "name": "Lokaler Wein",
+            "tip": "Besuchen Sie die 'Winny Dworek' für eine Verkostung der lokalen Rebsorten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pierogi (lengyel derelye)",
+            "tip": "Kóstold meg a hagyományos lengyel táskákat a 'Pierogarnia Kubiel' étteremben."
+          },
+          {
+            "name": "Żurek (kovászos leves)",
+            "tip": "Kiadós leves, gyakran cipóban tálalva, a 'Karczma Bachus'-ban."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "Látogass el a 'Winny Dworek'-be a helyi szőlőfajták kóstolójára."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierogi (găluște poloneze)",
+            "tip": "Încercați găluștele tradiționale poloneze la 'Pierogarnia Kubiel'."
+          },
+          {
+            "name": "Żurek (supă acră de secară)",
+            "tip": "O supă consistentă, adesea servită în pâine, la 'Karczma Bachus'."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Vizitați 'Winny Dworek' pentru o degustare a soiurilor locale de vin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierogi (Polish dumplings)",
+            "tip": "Try the traditional Polish dumplings at 'Pierogarnia Kubiel'."
+          },
+          {
+            "name": "Żurek (Sour rye soup)",
+            "tip": "A hearty soup, often served in bread, at 'Karczma Bachus'."
+          },
+          {
+            "name": "Local Wine",
+            "tip": "Visit 'Winny Dworek' for a tasting of the local grape varieties."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Weinbergpark",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie den Panoramablick.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Piastowski-Park",
+            "tip": "Ein Spaziergang entlang der Teiche ist sehr entspannend.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Botanischer Garten",
+            "tip": "Entdecken Sie die ruhigen Ecken dieses friedlichen Gartens.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szőlőhegy Park",
+            "tip": "Keress egy csendes padot, és élvezd a panorámás kilátást.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Piastowski Park",
+            "tip": "Egy séta a tavak mentén nagyon pihentető.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Botanikus Kert",
+            "tip": "Fedezd fel ennek a békés kertnek a csendes zugait.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Viticol",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de vederea panoramică.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Piastowski",
+            "tip": "O plimbare de-a lungul iazurilor este foarte relaxantă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grădina Botanică",
+            "tip": "Descoperiți colțurile liniștite ale acestei grădini pașnice.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vineyard Park",
+            "tip": "Find a quiet bench and enjoy the panoramic view.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Piastowski Park",
+            "tip": "A walk along the ponds is very relaxing.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Botanical Garden",
+            "tip": "Discover the quiet corners of this peaceful garden.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Deptak (Fußgängerzone)",
+            "tip": "Die Hauptstraße für lokale Geschäfte und Souvenirs."
+          },
+          {
+            "name": "Lokaler Wein",
+            "tip": "Kaufen Sie eine Flasche Wein direkt von einem der Weingüter am Stadtrand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Deptak (Sétálóutca)",
+            "tip": "A fő utca helyi boltokkal és ajándéktárgyakkal."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "Vásárolj egy üveg bort közvetlenül a város szélén található pincészetek egyikéből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Deptak (zona pietonală)",
+            "tip": "Strada principală pentru magazine locale și suveniruri."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Cumpărați o sticlă de vin direct de la una dintre cramele de la periferia orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Deptak (Pedestrian Street)",
+            "tip": "The main street for local shops and souvenirs."
+          },
+          {
+            "name": "Local Wine",
+            "tip": "Buy a bottle of wine directly from one of the wineries on the outskirts of the city."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die Stadt ist bekannt für ihr Weinfest im September, das Winobranie.",
+          "Viele Sehenswürdigkeiten sind zu Fuß erreichbar, planen Sie also einen gemütlichen Spaziergang ein."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, mivel az óvárosi macskakövek egyenetlenek lehetnek.",
+          "A város a szeptemberi borfesztiváljáról, a Winobranie-ról híres.",
+          "Sok látnivaló gyalogosan is elérhető, ezért tervezz be egy kellemes sétát."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din orașul vechi poate fi denivelat.",
+          "Orașul este renumit pentru festivalul vinului din septembrie, numit Winobranie.",
+          "Multe atracții sunt accesibile pe jos, așa că planificați o plimbare relaxantă."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the Old Town can be uneven.",
+          "The city is famous for its wine festival in September, called Winobranie.",
+          "Many sights are within walking distance, so plan for a leisurely stroll."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Piastowski-Park",
+            "hu": "Piastowski Park",
+            "ro": "Parcul Piastowski",
+            "en": "Piastowski Park"
+          },
+          "coords": [
+            15.498,
+            51.942
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einer entspannten Runde durch den Park.",
+            "hu": "Kezdd a napot egy pihentető körrel a parkban.",
+            "ro": "Începeți ziua cu o tură relaxantă prin parc.",
+            "en": "Start the day with a relaxing lap around the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum des Lebuser Landes",
+            "hu": "Lubuszi Föld Múzeuma",
+            "ro": "Muzeul ținutului Lubusz",
+            "en": "Museum of the Lubusz Land"
+          },
+          "coords": [
+            15.504,
+            51.9385
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Hier können Sie Ihr Fahrrad sicher abstellen und in die Geschichte eintauchen.",
+            "hu": "Itt biztonságosan leparkolhatod a biciklidet és elmerülhetsz a történelemben.",
+            "ro": "Puteți parca bicicleta în siguranță aici și vă puteți cufunda în istorie.",
+            "en": "You can safely park your bike here and delve into history."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt und Rathaus",
+            "hu": "Óváros és Városháza",
+            "ro": "Orașul vechi și Primăria",
+            "en": "Old Town and Town Hall"
+          },
+          "coords": [
+            15.506,
+            51.9365
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie die charmanten Gassen zu Fuß.",
+            "hu": "Tedd le a biciklit, és fedezd fel gyalog a bájos utcákat.",
+            "ro": "Parcați bicicleta și explorați aleile fermecătoare pe jos.",
+            "en": "Park your bike and explore the charming alleys on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Hedwigs Kathedrale",
+            "hu": "Szent Hedvig-székesegyház",
+            "ro": "Catedrala Sf. Hedviga",
+            "en": "St. Hedwig's Cathedral"
+          },
+          "coords": [
+            15.5085,
+            51.9372
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer Abstecher vom Hauptplatz, der sich lohnt.",
+            "hu": "Egy rövid, de megérő kitérő a főtérről.",
+            "ro": "O scurtă deviere de la piața principală care merită.",
+            "en": "A short detour from the main square that is well worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Weinbergpark & Palmenhaus",
+            "hu": "Szőlőhegy Park és Pálmaház",
+            "ro": "Parcul Viticol și Sera de Palmieri",
+            "en": "Vineyard Park & Palm House"
+          },
+          "coords": [
+            15.516,
+            51.9395
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:38",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Anstieg lohnt sich für die Aussicht und die exotischen Pflanzen.",
+            "hu": "Az emelkedő megéri a kilátásért és az egzotikus növényekért.",
+            "ro": "Urcușul merită pentru priveliște și plantele exotice.",
+            "en": "The climb is worth it for the view and the exotic plants."
+          }
+        },
+        {
+          "name": {
+            "de": "Focus Mall",
+            "hu": "Focus Mall",
+            "ro": "Focus Mall",
+            "en": "Focus Mall"
+          },
+          "coords": [
+            15.495,
+            51.932
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein interessanter Kontrast zur Altstadt, in einem ehemaligen Fabrikgebäude.",
+            "hu": "Érdekes kontraszt az óvárossal, egy régi gyárépületben.",
+            "ro": "Un contrast interesant cu orașul vechi, într-o fostă clădire industrială.",
+            "en": "An interesting contrast to the old town, in a former factory building."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet im grünen Piastowski-Park. Von dort aus radeln Sie zum Museum des Lebuser Landes, um in die Weingeschichte einzutauchen. Zur Mittagszeit erreichen Sie die belebte Altstadt, wo Sie das Rathaus und die nahegelegene Kathedrale besichtigen. Der anspruchsvollste Teil der Tour führt Sie am Nachmittag hinauf zum Weinbergpark und dem Palmenhaus – die Belohnung ist eine atemberaubende Aussicht. Zum Abschluss rollen Sie gemütlich zur Focus Mall, einem modernen Einkaufszentrum in einem historischen Industriegebäude, das einen spannenden Kontrast bietet.",
+        "hu": "A kerékpártúra a zöld Piastowski Parkból indul. Onnan a Lubuszi Föld Múzeumához kerekezik, hogy elmerüljön a borászat történetében. Délben éri el az élettel teli Óvárost, ahol megtekintheti a Városházát és a közeli székesegyházat. A túra legnehezebb része délután a Szőlőhegy Parkhoz és a Pálmaházhoz vezet fel – a jutalom a lélegzetelállító kilátás. Végül kényelmesen legurul a Focus Mallhoz, egy modern bevásárlóközponthoz egy történelmi ipari épületben, amely izgalmas kontrasztot kínál.",
+        "ro": "Turul dvs. cu bicicleta începe în Parcul Piastowski. De acolo, pedalați spre Muzeul ținutului Lubusz pentru a aprofunda istoria vinului. La prânz, ajungeți în vibrantul Oraș Vechi, unde vizitați Primăria și catedrala din apropiere. Cea mai provocatoare parte a turului vă duce după-amiaza sus, la Parcul Viticol și Sera de Palmieri – recompensa este o priveliște uluitoare. La final, coborâți agale spre Focus Mall, un centru comercial modern într-o clădire industrială istorică, oferind un contrast interesant.",
+        "en": "Your bike tour starts in the green Piastowski Park. From there, you'll cycle to the Museum of the Lubusz Land to delve into the history of wine. At noon, you'll reach the lively Old Town to visit the Town Hall and the nearby cathedral. The most challenging part of the tour takes you up to the Vineyard Park and Palm House in the afternoon – the reward is a breathtaking view. Finally, you'll leisurely roll down to Focus Mall, a modern shopping center in a historic industrial building, offering an exciting contrast."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pierogi (Piroggen)",
+            "tip": "Probieren Sie die traditionellen polnischen Teigtaschen bei 'Pierogarnia Kubiel'."
+          },
+          {
+            "name": "Żurek (Saure Mehlsuppe)",
+            "tip": "Eine herzhafte Suppe, oft im Brot serviert, im 'Karczma Bachus'."
+          },
+          {
+            "name": "Lokaler Wein",
+            "tip": "Besuchen Sie die 'Winny Dworek' für eine Verkostung der lokalen Rebsorten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pierogi (lengyel derelye)",
+            "tip": "Kóstold meg a hagyományos lengyel táskákat a 'Pierogarnia Kubiel' étteremben."
+          },
+          {
+            "name": "Żurek (kovászos leves)",
+            "tip": "Kiadós leves, gyakran cipóban tálalva, a 'Karczma Bachus'-ban."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "Látogass el a 'Winny Dworek'-be a helyi szőlőfajták kóstolójára."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierogi (găluște poloneze)",
+            "tip": "Încercați găluștele tradiționale poloneze la 'Pierogarnia Kubiel'."
+          },
+          {
+            "name": "Żurek (supă acră de secară)",
+            "tip": "O supă consistentă, adesea servită în pâine, la 'Karczma Bachus'."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Vizitați 'Winny Dworek' pentru o degustare a soiurilor locale de vin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierogi (Polish dumplings)",
+            "tip": "Try the traditional Polish dumplings at 'Pierogarnia Kubiel'."
+          },
+          {
+            "name": "Żurek (Sour rye soup)",
+            "tip": "A hearty soup, often served in bread, at 'Karczma Bachus'."
+          },
+          {
+            "name": "Local Wine",
+            "tip": "Visit 'Winny Dworek' for a tasting of the local grape varieties."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Weinbergpark",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie den Panoramablick.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Piastowski-Park",
+            "tip": "Ein Spaziergang entlang der Teiche ist sehr entspannend.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Botanischer Garten",
+            "tip": "Entdecken Sie die ruhigen Ecken dieses friedlichen Gartens.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szőlőhegy Park",
+            "tip": "Keress egy csendes padot, és élvezd a panorámás kilátást.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Piastowski Park",
+            "tip": "Egy séta a tavak mentén nagyon pihentető.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Botanikus Kert",
+            "tip": "Fedezd fel ennek a békés kertnek a csendes zugait.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Viticol",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de vederea panoramică.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Piastowski",
+            "tip": "O plimbare de-a lungul iazurilor este foarte relaxantă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grădina Botanică",
+            "tip": "Descoperiți colțurile liniștite ale acestei grădini pașnice.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vineyard Park",
+            "tip": "Find a quiet bench and enjoy the panoramic view.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Piastowski Park",
+            "tip": "A walk along the ponds is very relaxing.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Botanical Garden",
+            "tip": "Discover the quiet corners of this peaceful garden.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Deptak (Fußgängerzone)",
+            "tip": "Die Hauptstraße für lokale Geschäfte und Souvenirs."
+          },
+          {
+            "name": "Lokaler Wein",
+            "tip": "Kaufen Sie eine Flasche Wein direkt von einem der Weingüter am Stadtrand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Deptak (Sétálóutca)",
+            "tip": "A fő utca helyi boltokkal és ajándéktárgyakkal."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "Vásárolj egy üveg bort közvetlenül a város szélén található pincészetek egyikéből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Deptak (zona pietonală)",
+            "tip": "Strada principală pentru magazine locale și suveniruri."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Cumpărați o sticlă de vin direct de la una dintre cramele de la periferia orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Deptak (Pedestrian Street)",
+            "tip": "The main street for local shops and souvenirs."
+          },
+          {
+            "name": "Local Wine",
+            "tip": "Buy a bottle of wine directly from one of the wineries on the outskirts of the city."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Radwege entlang der Hauptstraßen.",
+          "Einige Hügel erfordern etwas Anstrengung, sind aber machbar.",
+          "Schließen Sie Ihr Fahrrad in der Innenstadt gut an."
+        ],
+        "hu": [
+          "Használd a főutak menti kerékpárutakat.",
+          "Néhány emelkedő némi erőfeszítést igényel, de teljesíthető.",
+          "A belvárosban gondosan zárd le a kerékpárodat."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete de-a lungul drumurilor principale.",
+          "Unele dealuri necesită puțin efort, dar sunt fezabile.",
+          "Legați-vă bine bicicleta în centrul orașului."
+        ],
+        "en": [
+          "Use the bike lanes along the main roads.",
+          "Some hills require a bit of effort but are manageable.",
+          "Lock your bike securely in the city center."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 11.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Focus Mall & Parken",
+            "hu": "Focus Mall és Parkolás",
+            "ro": "Focus Mall și Parcare",
+            "en": "Focus Mall & Parking"
+          },
+          "coords": [
+            15.495,
+            51.932
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und beginnen Sie Ihren Tag mit einem Blick auf die moderne Architektur.",
+            "hu": "Parkolj le itt, és kezdd a napot a modern építészet megtekintésével.",
+            "ro": "Parcați aici și începeți ziua admirând arhitectura modernă.",
+            "en": "Park here and start your day with a look at modern architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt & Rathaus",
+            "hu": "Óváros és Városháza",
+            "ro": "Orașul vechi și Primăria",
+            "en": "Old Town and Town Hall"
+          },
+          "coords": [
+            15.506,
+            51.9365
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Das Herz der Stadt. Parken Sie am Rande der Altstadt.",
+            "hu": "A város szíve. Parkolj az óváros szélén.",
+            "ro": "Inima orașului. Parcați la marginea orașului vechi.",
+            "en": "The heart of the city. Park on the edge of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Hedwigs Kathedrale",
+            "hu": "Szent Hedvig-székesegyház",
+            "ro": "Catedrala Sf. Hedviga",
+            "en": "St. Hedwig's Cathedral"
+          },
+          "coords": [
+            15.5085,
+            51.9372
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Rathausplatz entfernt.",
+            "hu": "Csak egy rövid séta a Városház tértől.",
+            "ro": "La doar o scurtă plimbare de piața primăriei.",
+            "en": "Just a short walk from the Town Hall square."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum des Lebuser Landes",
+            "hu": "Lubuszi Föld Múzeuma",
+            "ro": "Muzeul ținutului Lubusz",
+            "en": "Museum of the Lubusz Land"
+          },
+          "coords": [
+            15.504,
+            51.9385
+          ],
+          "category": "museums",
+          "arrive_at": "11:28",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die Geschichte des Weins in dieser Region.",
+            "hu": "Fedezze fel a borászat történetét ebben a régióban.",
+            "ro": "Explorați istoria vinului în această regiune.",
+            "en": "Explore the history of wine in this region."
+          }
+        },
+        {
+          "name": {
+            "de": "Palmenhaus & Weinbergpark",
+            "hu": "Pálmaház és Szőlőhegy Park",
+            "ro": "Sera de Palmieri și Parcul Viticol",
+            "en": "Palm House & Vineyard Park"
+          },
+          "coords": [
+            15.5155,
+            51.9395
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:23",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie auf den Hügel, parken Sie und genießen Sie beide Attraktionen.",
+            "hu": "Hajtson fel a dombra, parkoljon le, és élvezze mindkét látnivalót.",
+            "ro": "Urcați pe deal cu mașina, parcați și bucurați-vă de ambele atracții.",
+            "en": "Drive up the hill, park, and enjoy both attractions."
+          }
+        },
+        {
+          "name": {
+            "de": "Piastowski-Park",
+            "hu": "Piastowski Park",
+            "ro": "Parcul Piastowski",
+            "en": "Piastowski Park"
+          },
+          "coords": [
+            15.498,
+            51.942
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:41",
+          "stay_min": 84,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein schöner Abschluss des Tages in einer ruhigen, grünen Umgebung.",
+            "hu": "A nap kellemes lezárása egy csendes, zöld környezetben.",
+            "ro": "O încheiere frumoasă a zilei într-un mediu liniștit și verde.",
+            "en": "A beautiful end to the day in a quiet, green setting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt bei der Focus Mall, wo Sie bequem parken. Von dort fahren Sie zum ersten Cluster, der historischen Altstadt. Nachdem Sie geparkt haben, erkunden Sie zu Fuß das Rathaus, die Kathedrale und das Museum. Am Nachmittag fahren Sie zum zweiten Cluster: dem Weinbergpark und dem Palmenhaus. Parken Sie auf dem Hügel und genießen Sie die Aussicht und die exotische Atmosphäre. Die letzte Fahrt führt Sie zum weitläufigen Piastowski-Park, dem perfekten Ort, um den Tag entspannt ausklingen zu lassen.",
+        "hu": "Az autós nap a Focus Mallnál kezdődik, ahol kényelmesen parkolhat. Onnan az első állomáscsoporthoz, a történelmi Óvároshoz hajt. A parkolás után gyalog fedezi fel a Városházát, a székesegyházat és a múzeumot. Délután a második állomáscsoporthoz, a Szőlőhegy Parkhoz és a Pálmaházhoz autózik. Parkoljon a dombon, és élvezze a kilátást és az egzotikus hangulatot. Az utolsó út a tágas Piastowski Parkhoz vezet, amely tökéletes hely a nap pihentető befejezéséhez.",
+        "ro": "Ziua dvs. cu mașina începe la Focus Mall, unde puteți parca convenabil. De acolo, conduceți spre primul cluster, centrul istoric. După ce parcați, explorați pe jos Primăria, catedrala și muzeul. După-amiaza, conduceți spre al doilea cluster: Parcul Viticol și Sera de Palmieri. Parcați pe deal și bucurați-vă de priveliște și de atmosfera exotică. Ultima călătorie vă duce la vastul Parc Piastowski, locul perfect pentru a încheia ziua într-un mod relaxat.",
+        "en": "Your day by car begins at Focus Mall, where you can park conveniently. From there, you drive to the first cluster, the historic Old Town. After parking, you explore the Town Hall, the cathedral, and the museum on foot. In the afternoon, you drive to the second cluster: the Vineyard Park and the Palm House. Park on the hill and enjoy the view and the exotic atmosphere. The final drive takes you to the expansive Piastowski Park, the perfect place to end the day in a relaxed manner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pierogi (Piroggen)",
+            "tip": "Probieren Sie die traditionellen polnischen Teigtaschen bei 'Pierogarnia Kubiel'."
+          },
+          {
+            "name": "Żurek (Saure Mehlsuppe)",
+            "tip": "Eine herzhafte Suppe, oft im Brot serviert, im 'Karczma Bachus'."
+          },
+          {
+            "name": "Lokaler Wein",
+            "tip": "Besuchen Sie die 'Winny Dworek' für eine Verkostung der lokalen Rebsorten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pierogi (lengyel derelye)",
+            "tip": "Kóstold meg a hagyományos lengyel táskákat a 'Pierogarnia Kubiel' étteremben."
+          },
+          {
+            "name": "Żurek (kovászos leves)",
+            "tip": "Kiadós leves, gyakran cipóban tálalva, a 'Karczma Bachus'-ban."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "Látogass el a 'Winny Dworek'-be a helyi szőlőfajták kóstolójára."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierogi (găluște poloneze)",
+            "tip": "Încercați găluștele tradiționale poloneze la 'Pierogarnia Kubiel'."
+          },
+          {
+            "name": "Żurek (supă acră de secară)",
+            "tip": "O supă consistentă, adesea servită în pâine, la 'Karczma Bachus'."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Vizitați 'Winny Dworek' pentru o degustare a soiurilor locale de vin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierogi (Polish dumplings)",
+            "tip": "Try the traditional Polish dumplings at 'Pierogarnia Kubiel'."
+          },
+          {
+            "name": "Żurek (Sour rye soup)",
+            "tip": "A hearty soup, often served in bread, at 'Karczma Bachus'."
+          },
+          {
+            "name": "Local Wine",
+            "tip": "Visit 'Winny Dworek' for a tasting of the local grape varieties."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Weinbergpark",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie den Panoramablick.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Piastowski-Park",
+            "tip": "Ein Spaziergang entlang der Teiche ist sehr entspannend.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Botanischer Garten",
+            "tip": "Entdecken Sie die ruhigen Ecken dieses friedlichen Gartens.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szőlőhegy Park",
+            "tip": "Keress egy csendes padot, és élvezd a panorámás kilátást.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Piastowski Park",
+            "tip": "Egy séta a tavak mentén nagyon pihentető.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Botanikus Kert",
+            "tip": "Fedezd fel ennek a békés kertnek a csendes zugait.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Viticol",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de vederea panoramică.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Piastowski",
+            "tip": "O plimbare de-a lungul iazurilor este foarte relaxantă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grădina Botanică",
+            "tip": "Descoperiți colțurile liniștite ale acestei grădini pașnice.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vineyard Park",
+            "tip": "Find a quiet bench and enjoy the panoramic view.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Piastowski Park",
+            "tip": "A walk along the ponds is very relaxing.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Botanical Garden",
+            "tip": "Discover the quiet corners of this peaceful garden.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Deptak (Fußgängerzone)",
+            "tip": "Die Hauptstraße für lokale Geschäfte und Souvenirs."
+          },
+          {
+            "name": "Lokaler Wein",
+            "tip": "Kaufen Sie eine Flasche Wein direkt von einem der Weingüter am Stadtrand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Deptak (Sétálóutca)",
+            "tip": "A fő utca helyi boltokkal és ajándéktárgyakkal."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "Vásárolj egy üveg bort közvetlenül a város szélén található pincészetek egyikéből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Deptak (zona pietonală)",
+            "tip": "Strada principală pentru magazine locale și suveniruri."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Cumpărați o sticlă de vin direct de la una dintre cramele de la periferia orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Deptak (Pedestrian Street)",
+            "tip": "The main street for local shops and souvenirs."
+          },
+          {
+            "name": "Local Wine",
+            "tip": "Buy a bottle of wine directly from one of the wineries on the outskirts of the city."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Parkhäuser am Rande der Altstadt, da das Parken im Zentrum begrenzt ist.",
+          "Planen Sie Ihre Route, um den Verkehr zur Stoßzeit zu vermeiden.",
+          "Ein Auto ermöglicht auch Ausflüge zu den umliegenden Weingütern."
+        ],
+        "hu": [
+          "Használd az óváros szélén található parkolóházakat, mivel a központban korlátozott a parkolás.",
+          "Tervezd meg az útvonalat, hogy elkerüld a csúcsforgalmat.",
+          "Az autó lehetővé teszi a környező pincészetekhez való kirándulást is."
+        ],
+        "ro": [
+          "Folosiți parcările de la marginea orașului vechi, deoarece parcarea în centru este limitată.",
+          "Planificați-vă ruta pentru a evita traficul de la orele de vârf.",
+          "O mașină permite și excursii la cramele din jur."
+        ],
+        "en": [
+          "Use the parking garages on the edge of the old town, as parking in the center is limited.",
+          "Plan your route to avoid rush hour traffic.",
+          "A car also allows for trips to the surrounding wineries."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 5.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptbahnhof & Ankunft",
+            "hu": "Főpályaudvar és érkezés",
+            "ro": "Gara Centrală și Sosire",
+            "en": "Main Station & Arrival"
+          },
+          "coords": [
+            15.513,
+            51.933
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für den Bus, um sich frei bewegen zu können.",
+            "hu": "Vásárolj egy napijegyet a buszra a szabad mozgáshoz.",
+            "ro": "Cumpărați un bilet de o zi pentru autobuz pentru a vă deplasa liber.",
+            "en": "Buy a day ticket for the bus to move around freely."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt & Rathaus",
+            "hu": "Óváros és Városháza",
+            "ro": "Orașul vechi și Primăria",
+            "en": "Old Town and Town Hall"
+          },
+          "coords": [
+            15.506,
+            51.9365
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie an der Haltestelle 'Palmiarnia' aus und gehen Sie zu Fuß.",
+            "hu": "Szállj le a 'Palmiarnia' megállónál és sétálj.",
+            "ro": "Coborâți la stația 'Palmiarnia' și mergeți pe jos.",
+            "en": "Get off at the 'Palmiarnia' stop and walk."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Hedwigs Kathedrale & Museum",
+            "hu": "Szent Hedvig-székesegyház és Múzeum",
+            "ro": "Catedrala Sf. Hedviga și Muzeul",
+            "en": "St. Hedwig's Cathedral & Museum"
+          },
+          "coords": [
+            15.5065,
+            51.9378
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:45",
+          "stay_min": 140,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beide Attraktionen liegen nahe beieinander im Herzen der Altstadt.",
+            "hu": "Mindkét látnivaló közel van egymáshoz az óváros szívében.",
+            "ro": "Ambele atracții sunt aproape una de cealaltă, în inima orașului vechi.",
+            "en": "Both attractions are close to each other in the heart of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Palmenhaus & Weinbergpark",
+            "hu": "Pálmaház és Szőlőhegy Park",
+            "ro": "Sera de Palmieri și Parcul Viticol",
+            "en": "Palm House & Vineyard Park"
+          },
+          "coords": [
+            15.5155,
+            51.9395
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zum Weinberg und genießen Sie die Aussicht und die Pflanzen.",
+            "hu": "Menj busszal a szőlőhegyre, és élvezd a kilátást és a növényeket.",
+            "ro": "Luați autobuzul până la vie și bucurați-vă de priveliște și de plante.",
+            "en": "Take the bus to the vineyard and enjoy the view and the plants."
+          }
+        },
+        {
+          "name": {
+            "de": "Piastowski-Park",
+            "hu": "Piastowski Park",
+            "ro": "Parcul Piastowski",
+            "en": "Piastowski Park"
+          },
+          "coords": [
+            15.498,
+            51.942
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannter Spaziergang zum Abschluss des Tages.",
+            "hu": "Egy pihentető séta a nap végén.",
+            "ro": "O plimbare relaxantă pentru a încheia ziua.",
+            "en": "A relaxing walk to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Tour mit öffentlichen Verkehrsmitteln beginnt am Hauptbahnhof. Mit dem Bus fahren Sie zum ersten Cluster, der Altstadt. Nach dem Aussteigen erkunden Sie zu Fuß das Rathaus, die Kathedrale und das Museum. Am Nachmittag bringt Sie ein weiterer Bus zum zweiten Cluster, dem Weinbergpark. Genießen Sie die Aussicht vom Palmenhaus, bevor Sie einen kurzen Spaziergang zum Piastowski-Park unternehmen, um den Tag in Ruhe ausklingen zu lassen, bevor Sie den Bus zurück ins Zentrum nehmen.",
+        "hu": "A tömegközlekedési túra a főpályaudvarról indul. Busszal utazik az első állomáscsoporthoz, az Óvároshoz. Leszállás után gyalog fedezi fel a Városházát, a székesegyházat és a múzeumot. Délután egy másik busz viszi a második állomáscsoporthoz, a Szőlőhegy Parkhoz. Élvezze a kilátást a Pálmaházból, mielőtt egy rövid sétát tesz a Piastowski Parkba, hogy békében zárja a napot, majd busszal visszatér a központba.",
+        "ro": "Turul dvs. cu transportul public începe la Gara Centrală. Cu autobuzul, mergeți la primul cluster, Orașul Vechi. După ce coborâți, explorați pe jos Primăria, catedrala și muzeul. După-amiaza, un alt autobuz vă duce la al doilea cluster, Parcul Viticol. Bucurați-vă de priveliștea de la Sera de Palmieri înainte de a face o scurtă plimbare până la Parcul Piastowski pentru a încheia ziua în liniște, înainte de a lua autobuzul înapoi spre centru.",
+        "en": "Your tour by public transport starts at the Main Station. By bus, you travel to the first cluster, the Old Town. After getting off, you explore the Town Hall, the cathedral, and the museum on foot. In the afternoon, another bus takes you to the second cluster, the Vineyard Park. Enjoy the view from the Palm House before taking a short walk to Piastowski Park to end the day peacefully, before taking the bus back to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pierogi (Piroggen)",
+            "tip": "Probieren Sie die traditionellen polnischen Teigtaschen bei 'Pierogarnia Kubiel'."
+          },
+          {
+            "name": "Żurek (Saure Mehlsuppe)",
+            "tip": "Eine herzhafte Suppe, oft im Brot serviert, im 'Karczma Bachus'."
+          },
+          {
+            "name": "Lokaler Wein",
+            "tip": "Besuchen Sie die 'Winny Dworek' für eine Verkostung der lokalen Rebsorten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pierogi (lengyel derelye)",
+            "tip": "Kóstold meg a hagyományos lengyel táskákat a 'Pierogarnia Kubiel' étteremben."
+          },
+          {
+            "name": "Żurek (kovászos leves)",
+            "tip": "Kiadós leves, gyakran cipóban tálalva, a 'Karczma Bachus'-ban."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "Látogass el a 'Winny Dworek'-be a helyi szőlőfajták kóstolójára."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierogi (găluște poloneze)",
+            "tip": "Încercați găluștele tradiționale poloneze la 'Pierogarnia Kubiel'."
+          },
+          {
+            "name": "Żurek (supă acră de secară)",
+            "tip": "O supă consistentă, adesea servită în pâine, la 'Karczma Bachus'."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Vizitați 'Winny Dworek' pentru o degustare a soiurilor locale de vin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierogi (Polish dumplings)",
+            "tip": "Try the traditional Polish dumplings at 'Pierogarnia Kubiel'."
+          },
+          {
+            "name": "Żurek (Sour rye soup)",
+            "tip": "A hearty soup, often served in bread, at 'Karczma Bachus'."
+          },
+          {
+            "name": "Local Wine",
+            "tip": "Visit 'Winny Dworek' for a tasting of the local grape varieties."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Weinbergpark",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie den Panoramablick.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Piastowski-Park",
+            "tip": "Ein Spaziergang entlang der Teiche ist sehr entspannend.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Botanischer Garten",
+            "tip": "Entdecken Sie die ruhigen Ecken dieses friedlichen Gartens.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szőlőhegy Park",
+            "tip": "Keress egy csendes padot, és élvezd a panorámás kilátást.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Piastowski Park",
+            "tip": "Egy séta a tavak mentén nagyon pihentető.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Botanikus Kert",
+            "tip": "Fedezd fel ennek a békés kertnek a csendes zugait.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Viticol",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de vederea panoramică.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Piastowski",
+            "tip": "O plimbare de-a lungul iazurilor este foarte relaxantă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grădina Botanică",
+            "tip": "Descoperiți colțurile liniștite ale acestei grădini pașnice.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vineyard Park",
+            "tip": "Find a quiet bench and enjoy the panoramic view.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Piastowski Park",
+            "tip": "A walk along the ponds is very relaxing.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Botanical Garden",
+            "tip": "Discover the quiet corners of this peaceful garden.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Deptak (Fußgängerzone)",
+            "tip": "Die Hauptstraße für lokale Geschäfte und Souvenirs."
+          },
+          {
+            "name": "Lokaler Wein",
+            "tip": "Kaufen Sie eine Flasche Wein direkt von einem der Weingüter am Stadtrand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Deptak (Sétálóutca)",
+            "tip": "A fő utca helyi boltokkal és ajándéktárgyakkal."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "Vásárolj egy üveg bort közvetlenül a város szélén található pincészetek egyikéből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Deptak (zona pietonală)",
+            "tip": "Strada principală pentru magazine locale și suveniruri."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Cumpărați o sticlă de vin direct de la una dintre cramele de la periferia orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Deptak (Pedestrian Street)",
+            "tip": "The main street for local shops and souvenirs."
+          },
+          {
+            "name": "Local Wine",
+            "tip": "Buy a bottle of wine directly from one of the wineries on the outskirts of the city."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Eine Tageskarte ist die günstigste Option für mehrere Fahrten.",
+          "Die Busfahrpläne finden Sie online oder an den Haltestellen.",
+          "Die meisten Busse sind modern und klimatisiert."
+        ],
+        "hu": [
+          "A napijegy a legolcsóbb megoldás több utazáshoz.",
+          "A buszmenetrendeket online vagy a megállókban találod.",
+          "A legtöbb busz modern és légkondicionált."
+        ],
+        "ro": [
+          "Un bilet de o zi este cea mai ieftină opțiune pentru mai multe călătorii.",
+          "Orarul autobuzelor poate fi găsit online sau la stații.",
+          "Majoritatea autobuzelor sunt moderne și au aer condiționat."
+        ],
+        "en": [
+          "A day ticket is the cheapest option for multiple trips.",
+          "Bus schedules can be found online or at the stops.",
+          "Most buses are modern and air-conditioned."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1484 @@
+{
+  "city_id": "poland-elblag-cities-v2",
+  "anchor": {
+    "name": "Elbing",
+    "coords": [
+      19.4045,
+      54.1559
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Elbinger Altstadt & Markttor",
+            "hu": "Elblągi Óváros és Piaci kapu",
+            "ro": "Orașul vechi Elbląg și Poarta Pieței",
+            "en": "Elbląg Old Town & Market Gate"
+          },
+          "coords": [
+            19.4021,
+            54.158
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier mit einem Kaffee und beobachten Sie das Treiben.",
+            "hu": "Kezdje a napot egy kávéval, és figyelje a város ébredését.",
+            "ro": "Începeți ziua aici cu o cafea, privind agitația orașului.",
+            "en": "Start here with a coffee and watch the town come to life."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti és Történeti Múzeum",
+            "ro": "Muzeul de Arheologie și Istorie",
+            "en": "Archaeological and Historical Museum"
+          },
+          "coords": [
+            19.4005,
+            54.1575
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Fokus auf die Wikingerausstellung Truso.",
+            "hu": "Koncentráljon a Truso viking településről szóló kiállításra.",
+            "ro": "Concentrați-vă pe expoziția despre așezarea vikingă Truso.",
+            "en": "Focus on the exhibition about the Truso Viking settlement."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Nikolaus Kathedrale",
+            "hu": "Szent Miklós-székesegyház",
+            "ro": "Catedrala Sfântul Nicolae",
+            "en": "St. Nicholas Cathedral"
+          },
+          "coords": [
+            19.398,
+            54.1565
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besteigen Sie den Turm für eine großartige Aussicht auf die Stadt.",
+            "hu": "Másszon fel a toronyba a városra nyíló csodás kilátásért.",
+            "ro": "Urcați în turn pentru o priveliște magnifică asupra orașului.",
+            "en": "Climb the tower for a great view of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstzentrum Galeria EL",
+            "hu": "Galeria EL Művészeti Központ",
+            "ro": "Centrul de Artă Galeria EL",
+            "en": "Art Centre Galeria EL"
+          },
+          "coords": [
+            19.3958,
+            54.1572
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie, ob es aktuelle Ausstellungen zeitgenössischer Kunst gibt.",
+            "hu": "Nézze meg, van-e aktuális kortárs művészeti kiállítás.",
+            "ro": "Verificați dacă există expoziții curente de artă contemporană.",
+            "en": "Check for any current contemporary art exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Elbing-Kanal",
+            "hu": "Séta az Elbląg-csatorna mentén",
+            "ro": "Plimbare de-a lungul Canalului Elbląg",
+            "en": "Walk along the Elbląg Canal"
+          },
+          "coords": [
+            19.4065,
+            54.161
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Finden Sie eine Bank und schauen Sie den Booten auf dem Fluss zu.",
+            "hu": "Keressen egy padot, és nézze a hajókat a folyón.",
+            "ro": "Găsiți o bancă și priviți bărcile de pe râu.",
+            "en": "Find a bench and watch the boats on the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Bażantarnia-Park",
+            "hu": "Bażantarnia Park",
+            "ro": "Parcul Bażantarnia",
+            "en": "Bażantarnia Park"
+          },
+          "coords": [
+            19.465,
+            54.162
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein langer Spaziergang, aber der Wald ist die Mühe wert.",
+            "hu": "Hosszú séta, de az erdő megéri a fáradságot.",
+            "ro": "O plimbare lungă, dar pădurea merită efortul.",
+            "en": "It's a long walk, but the forest is worth the effort."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in der Altstadt",
+            "hu": "Vacsora az Óvárosban",
+            "ro": "Cină în Orașul Vechi",
+            "en": "Dinner in the Old Town"
+          },
+          "coords": [
+            19.401,
+            54.1585
+          ],
+          "category": "gastro",
+          "arrive_at": "18:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Wählen Sie ein Restaurant mit Blick auf den Fluss für eine schöne Atmosphäre.",
+            "hu": "Válasszon egy folyóra néző éttermet a hangulatért.",
+            "ro": "Alegeți un restaurant cu vedere la râu pentru o atmosferă plăcută.",
+            "en": "Choose a restaurant with a river view for a nice atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Elbing, der sorgfältig restaurierten Altstadt, und nehmen Sie die Atmosphäre am Markttor auf. Am Vormittag tauchen Sie im Archäologischen Museum in die reiche Geschichte der Region ein, bevor Sie die hoch aufragende St.-Nikolaus-Kathedrale bestaunen. Nach einem Mittagessen voller lokaler Aromen lassen Sie sich von der modernen Kunst in der Galeria EL inspirieren, die in einer ehemaligen Kirche untergebracht ist. Am Nachmittag unternehmen Sie einen entspannenden Spaziergang entlang des berühmten Elbing-Kanals und gehen dann weiter zum grünen Bażantarnia-Park, um der Stadt zu entfliehen. Beenden Sie Ihren Tag mit einem köstlichen Abendessen in einem der charmanten Restaurants der Altstadt und lassen Sie die Erlebnisse des Tages Revue passieren.",
+        "hu": "Kezdje a napot Elbląg szívében, a gondosan felújított Óvárosban, magába szívva a Piaci kapu hangulatát. Délelőtt merüljön el a régió gazdag történelmében a Régészeti Múzeumban, mielőtt megcsodálná a tornyosuló Szent Miklós-székesegyházat. Egy helyi ízekkel teli ebéd után merítsen ihletet a Galeria EL modern művészetéből, amely egy egykori templomban kapott helyet. Délután tegyen egy pihentető sétát a híres Elbląg-csatorna mentén, majd induljon a zöldellő Bażantarnia Parkba egy kis városi kikapcsolódásért. Zárja a napot egy finom vacsorával az Óváros egyik hangulatos éttermében, felidézve a nap élményeit.",
+        "ro": "Începeți ziua în inima orașului Elbląg, Orașul Vechi meticulos restaurat, absorbind atmosfera de la Poarta Pieței. La amiază, pătrundeți în istoria bogată a regiunii la Muzeul de Arheologie înainte de a admira impunătoarea Catedrală Sf. Nicolae. După un prânz plin de arome locale, lăsați-vă inspirat de arta modernă de la Galeria EL, găzduită într-o fostă biserică. După-amiaza, faceți o plimbare relaxantă de-a lungul faimosului Canal Elbląg, apoi mergeți spre Parcul verde Bażantarnia pentru o evadare din oraș. Încheiați ziua cu o cină delicioasă la unul dintre restaurantele fermecătoare din Orașul Vechi, reflectând la aventurile zilei.",
+        "en": "Start your day in the heart of Elbląg, the meticulously restored Old Town, absorbing the atmosphere at the Market Gate. In the morning, delve into the region's rich history at the Archaeological Museum before marveling at the towering St. Nicholas Cathedral. After a lunch filled with local flavors, get inspired by the modern art at Galeria EL, housed in a former church. In the afternoon, take a relaxing stroll along the famous Elbląg Canal, then head to the leafy Bażantarnia Park for a city escape. End your day with a delicious dinner at one of the Old Town's charming restaurants, reflecting on the day's adventures."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pierogi",
+            "tip": "Probieren Sie die klassischen gefüllten Teigtaschen mit verschiedenen Füllungen."
+          },
+          {
+            "name": "Zander (Sandacz)",
+            "tip": "Frischer Fisch aus den nahegelegenen Gewässern, oft einfach gegrillt oder gebraten."
+          },
+          {
+            "name": "Studnia Smaków",
+            "tip": "Ein Restaurant, das für seine moderne Interpretation der polnischen Küche bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pierogi",
+            "tip": "Kóstolja meg a klasszikus töltött táskákat különféle töltelékekkel."
+          },
+          {
+            "name": "Süllő (Sandacz)",
+            "tip": "Friss hal a közeli vizekből, gyakran egyszerűen grillezve vagy sütve."
+          },
+          {
+            "name": "Studnia Smaków",
+            "tip": "A lengyel konyha modern értelmezéséről ismert étterem."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierogi",
+            "tip": "Încercați găluștele clasice umplute cu diverse umpluturi."
+          },
+          {
+            "name": "Șalău (Sandacz)",
+            "tip": "Pește proaspăt din apele din apropiere, adesea pur și simplu la grătar sau prăjit."
+          },
+          {
+            "name": "Studnia Smaków",
+            "tip": "Un restaurant cunoscut pentru interpretarea sa modernă a bucătăriei poloneze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierogi",
+            "tip": "Try the classic filled dumplings with various fillings."
+          },
+          {
+            "name": "Zander (Sandacz)",
+            "tip": "Fresh fish from the nearby waters, often simply grilled or fried."
+          },
+          {
+            "name": "Studnia Smaków",
+            "tip": "A restaurant known for its modern interpretation of Polish cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bażantarnia-Park",
+            "tip": "Finden Sie einen ruhigen Weg und genießen Sie die Geräusche des Waldes.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Ufer des Elbing-Flusses",
+            "tip": "Ein ruhiger Ort am frühen Morgen, um den Sonnenaufgang zu beobachten.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ruinen der Marienkirche",
+            "tip": "Ein nachdenklicher und historischer Ort, der zum Innehalten einlädt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bażantarnia Park",
+            "tip": "Keressen egy csendes ösvényt, és élvezze az erdő hangjait.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Az Elbląg-folyó partja",
+            "tip": "Csendes hely kora reggel a napfelkelte megtekintéséhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Mária-templom romjai",
+            "tip": "Elgondolkodtató és történelmi hely a csendes elmélkedéshez.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Bażantarnia",
+            "tip": "Găsiți o potecă liniștită și bucurați-vă de sunetele pădurii.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Malurile râului Elbląg",
+            "tip": "Un loc liniștit dimineața devreme pentru a privi răsăritul.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ruinele Bisericii Sf. Maria",
+            "tip": "Un loc istoric și contemplativ pentru o pauză liniștită.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bażantarnia Park",
+            "tip": "Find a quiet trail and enjoy the sounds of the forest.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Banks of the Elbląg River",
+            "tip": "A quiet spot in the early morning to watch the sunrise.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ruins of St. Mary's Church",
+            "tip": "A thoughtful and historic place for a quiet reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stary Rynek (Alter Markt)",
+            "tip": "Suchen Sie nach lokalen Handwerksläden, die Bernstein und Keramik verkaufen."
+          },
+          {
+            "name": "Bernsteinschmuck",
+            "tip": "Ein klassisches Souvenir aus der Ostseeregion."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stary Rynek (Régi Piactér)",
+            "tip": "Keressen helyi kézműves boltokat, ahol borostyánt és kerámiát árulnak."
+          },
+          {
+            "name": "Borostyán ékszerek",
+            "tip": "Klasszikus szuvenír a balti-tengeri régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stary Rynek (Piața Veche)",
+            "tip": "Căutați magazine de artizanat local care vând chihlimbar și ceramică."
+          },
+          {
+            "name": "Bijuterii din chihlimbar",
+            "tip": "Un suvenir clasic din regiunea Mării Baltice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stary Rynek (Old Market Square)",
+            "tip": "Look for local artisan shops selling amber and ceramics."
+          },
+          {
+            "name": "Amber Jewelry",
+            "tip": "A classic souvenir from the Baltic region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Nehmen Sie Wasser mit, besonders wenn Sie vorhaben, zum Bażantarnia-Park zu laufen.",
+          "Die meisten Sehenswürdigkeiten in der Altstadt sind leicht zu Fuß erreichbar.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus, da diese variieren können."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az Óváros macskakövei egyenetlenek lehetnek.",
+          "Vigyen magával vizet, különösen, ha a Bażantarnia Parkba tervez sétálni.",
+          "Az Óváros legtöbb látnivalója könnyen megközelíthető gyalog.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét, mert az változhat."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din Orașul Vechi poate fi denivelat.",
+          "Luați apă cu dvs., mai ales dacă intenționați să mergeți pe jos până la Parcul Bażantarnia.",
+          "Majoritatea atracțiilor din Orașul Vechi sunt la mică distanță de mers pe jos.",
+          "Verificați în avans orele de funcționare ale muzeelor, deoarece acestea pot varia."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the Old Town can be uneven.",
+          "Bring water, especially if you plan to walk to Bażantarnia Park.",
+          "Most attractions in the Old Town are within easy walking distance.",
+          "Check the opening hours of museums in advance as they can vary."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Elbinger Altstadt & Markttor",
+            "hu": "Elblągi Óváros és Piaci kapu",
+            "ro": "Orașul vechi Elbląg și Poarta Pieței",
+            "en": "Elbląg Old Town & Market Gate"
+          },
+          "coords": [
+            19.4021,
+            54.158
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab und erkunden Sie die Gassen zu Fuß.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és fedezze fel a sikátorokat gyalog.",
+            "ro": "Asigurați-vă bicicleta și explorați aleile pe jos.",
+            "en": "Lock your bike securely and explore the alleys on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Nikolaus Kathedrale",
+            "hu": "Szent Miklós-székesegyház",
+            "ro": "Catedrala Sfântul Nicolae",
+            "en": "St. Nicholas Cathedral"
+          },
+          "coords": [
+            19.398,
+            54.1565
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer Halt, um die gotische Architektur zu bewundern.",
+            "hu": "Egy rövid megálló a gótikus építészet megcsodálására.",
+            "ro": "O oprire scurtă pentru a admira arhitectura gotică.",
+            "en": "A quick stop to admire the Gothic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti és Történeti Múzeum",
+            "ro": "Muzeul de Arheologie și Istorie",
+            "en": "Archaeological and Historical Museum"
+          },
+          "coords": [
+            19.4005,
+            54.1575
+          ],
+          "category": "museums",
+          "arrive_at": "11:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekt für einen regnerischen Teil des Tages.",
+            "hu": "Tökéletes program a nap egy esős részére.",
+            "ro": "Perfect pentru o parte ploioasă a zilei.",
+            "en": "Perfect for a rainy part of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Radweg am Elbing-Kanal",
+            "hu": "Kerékpárút az Elbląg-csatorna mentén",
+            "ro": "Pistă de biciclete de-a lungul Canalului Elbląg",
+            "en": "Bike ride along the Elbląg Canal"
+          },
+          "coords": [
+            19.41,
+            54.165
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie die flache Strecke und die einzigartige Landschaft.",
+            "hu": "Élvezze a sík terepet és az egyedülálló tájat.",
+            "ro": "Bucurați-vă de traseul plat și de peisajul unic.",
+            "en": "Enjoy the flat route and the unique scenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Bażantarnia-Park",
+            "hu": "Bażantarnia Park",
+            "ro": "Parcul Bażantarnia",
+            "en": "Bażantarnia Park"
+          },
+          "coords": [
+            19.465,
+            54.162
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Erkunden Sie die Waldwege mit dem Fahrrad.",
+            "hu": "Fedezze fel az erdei ösvényeket kerékpárral.",
+            "ro": "Explorați potecile pădurii cu bicicleta.",
+            "en": "Explore the forest trails by bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinen der Marienkirche",
+            "hu": "A Mária-templom romjai",
+            "ro": "Ruinele Bisericii Sf. Maria",
+            "en": "Ruins of St. Mary's Church"
+          },
+          "coords": [
+            19.397,
+            54.159
+          ],
+          "category": "historical",
+          "arrive_at": "16:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer, besinnlicher Halt auf dem Rückweg in die Stadt.",
+            "hu": "Egy rövid, elgondolkodtató megálló a városba visszavezető úton.",
+            "ro": "O oprire scurtă și contemplativă în drum spre oraș.",
+            "en": "A short, contemplative stop on the way back to the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen mit Blick auf den Fluss",
+            "hu": "Vacsora folyóra néző kilátással",
+            "ro": "Cină cu vedere la râu",
+            "en": "Dinner with a River View"
+          },
+          "coords": [
+            19.4015,
+            54.1588
+          ],
+          "category": "gastro",
+          "arrive_at": "17:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Belohnen Sie sich nach einem aktiven Tag.",
+            "hu": "Jutalmazza meg magát egy aktív nap után.",
+            "ro": "Recompensați-vă după o zi activă.",
+            "en": "Reward yourself after an active day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und beginnen Sie Ihre Tour in der Elbinger Altstadt. Nach der Erkundung der historischen Gassen fahren Sie zur St.-Nikolaus-Kathedrale und zum Archäologischen Museum. Am Mittag genießen Sie eine malerische Fahrt entlang des Elbing-Kanals, ein technisches Wunderwerk. Der Nachmittag ist für den ausgedehnten Bażantarnia-Park reserviert, wo Sie die Natur auf zwei Rädern genießen können. Auf dem Rückweg halten Sie an den stimmungsvollen Ruinen der Marienkirche inne, bevor Sie Ihren Tag mit einem wohlverdienten Abendessen an der Uferpromenade ausklingen lassen.",
+        "hu": "Pattanjon biciklire, és kezdje a túrát az elblągi Óvárosban. A történelmi utcák felfedezése után tekerjen el a Szent Miklós-székesegyházhoz és a Régészeti Múzeumhoz. Délben élvezze a festői kerékpárutat az Elbląg-csatorna, egy műszaki csoda mentén. A délután a tágas Bażantarnia Parké, ahol két keréken élvezheti a természetet. Visszafelé álljon meg a hangulatos Mária-templom romjainál, mielőtt egy jól megérdemelt vacsorával zárná a napot a folyóparton.",
+        "ro": "Urcați-vă pe bicicletă și începeți turul în Orașul Vechi din Elbląg. După ce explorați străzile istorice, mergeți cu bicicleta la Catedrala Sf. Nicolae și la Muzeul de Arheologie. La prânz, bucurați-vă de o plimbare pitorească de-a lungul Canalului Elbląg, o minune a ingineriei. După-amiaza este rezervată pentru vastul Parc Bażantarnia, unde vă puteți bucura de natură pe două roți. Pe drumul de întoarcere, opriți-vă la ruinele evocatoare ale Bisericii Sf. Maria înainte de a încheia ziua cu o cină binemeritată pe malul râului.",
+        "en": "Hop on your bike and start your tour in Elbląg's Old Town. After exploring the historic streets, cycle to St. Nicholas Cathedral and the Archaeological Museum. At midday, enjoy a scenic ride along the Elbląg Canal, an engineering marvel. The afternoon is reserved for the expansive Bażantarnia Park, where you can enjoy nature on two wheels. On your way back, pause at the evocative ruins of St. Mary's Church before ending your day with a well-deserved dinner on the riverfront."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pierogi",
+            "tip": "Probieren Sie die klassischen gefüllten Teigtaschen mit verschiedenen Füllungen."
+          },
+          {
+            "name": "Zander (Sandacz)",
+            "tip": "Frischer Fisch aus den nahegelegenen Gewässern, oft einfach gegrillt oder gebraten."
+          },
+          {
+            "name": "Studnia Smaków",
+            "tip": "Ein Restaurant, das für seine moderne Interpretation der polnischen Küche bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pierogi",
+            "tip": "Kóstolja meg a klasszikus töltött táskákat különféle töltelékekkel."
+          },
+          {
+            "name": "Süllő (Sandacz)",
+            "tip": "Friss hal a közeli vizekből, gyakran egyszerűen grillezve vagy sütve."
+          },
+          {
+            "name": "Studnia Smaków",
+            "tip": "A lengyel konyha modern értelmezéséről ismert étterem."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierogi",
+            "tip": "Încercați găluștele clasice umplute cu diverse umpluturi."
+          },
+          {
+            "name": "Șalău (Sandacz)",
+            "tip": "Pește proaspăt din apele din apropiere, adesea pur și simplu la grătar sau prăjit."
+          },
+          {
+            "name": "Studnia Smaków",
+            "tip": "Un restaurant cunoscut pentru interpretarea sa modernă a bucătăriei poloneze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierogi",
+            "tip": "Try the classic filled dumplings with various fillings."
+          },
+          {
+            "name": "Zander (Sandacz)",
+            "tip": "Fresh fish from the nearby waters, often simply grilled or fried."
+          },
+          {
+            "name": "Studnia Smaków",
+            "tip": "A restaurant known for its modern interpretation of Polish cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bażantarnia-Park",
+            "tip": "Finden Sie einen ruhigen Weg und genießen Sie die Geräusche des Waldes.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Ufer des Elbing-Flusses",
+            "tip": "Ein ruhiger Ort am frühen Morgen, um den Sonnenaufgang zu beobachten.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ruinen der Marienkirche",
+            "tip": "Ein nachdenklicher und historischer Ort, der zum Innehalten einlädt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bażantarnia Park",
+            "tip": "Keressen egy csendes ösvényt, és élvezze az erdő hangjait.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Az Elbląg-folyó partja",
+            "tip": "Csendes hely kora reggel a napfelkelte megtekintéséhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Mária-templom romjai",
+            "tip": "Elgondolkodtató és történelmi hely a csendes elmélkedéshez.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Bażantarnia",
+            "tip": "Găsiți o potecă liniștită și bucurați-vă de sunetele pădurii.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Malurile râului Elbląg",
+            "tip": "Un loc liniștit dimineața devreme pentru a privi răsăritul.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ruinele Bisericii Sf. Maria",
+            "tip": "Un loc istoric și contemplativ pentru o pauză linișită.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bażantarnia Park",
+            "tip": "Find a quiet trail and enjoy the sounds of the forest.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Banks of the Elbląg River",
+            "tip": "A quiet spot in the early morning to watch the sunrise.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ruins of St. Mary's Church",
+            "tip": "A thoughtful and historic place for a quiet reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stary Rynek (Alter Markt)",
+            "tip": "Suchen Sie nach lokalen Handwerksläden, die Bernstein und Keramik verkaufen."
+          },
+          {
+            "name": "Bernsteinschmuck",
+            "tip": "Ein klassisches Souvenir aus der Ostseeregion."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stary Rynek (Régi Piactér)",
+            "tip": "Keressen helyi kézműves boltokat, ahol borostyánt és kerámiát árulnak."
+          },
+          {
+            "name": "Borostyán ékszerek",
+            "tip": "Klasszikus szuvenír a balti-tengeri régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stary Rynek (Piața Veche)",
+            "tip": "Căutați magazine de artizanat local care vând chihlimbar și ceramică."
+          },
+          {
+            "name": "Bijuterii din chihlimbar",
+            "tip": "Un suvenir clasic din regiunea Mării Baltice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stary Rynek (Old Market Square)",
+            "tip": "Look for local artisan shops selling amber and ceramics."
+          },
+          {
+            "name": "Amber Jewelry",
+            "tip": "A classic souvenir from the Baltic region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf den Verkehr, wenn Sie auf den Hauptstraßen fahren.",
+          "Einige Wege im Bażantarnia-Park sind unbefestigt und eignen sich besser für Mountainbikes.",
+          "Nehmen Sie ein gutes Schloss mit, um Ihr Fahrrad an den Sehenswürdigkeiten sicher abzustellen.",
+          "Planen Sie zusätzliche Zeit für unvorhergesehene Stopps und Fotomöglichkeiten ein."
+        ],
+        "hu": [
+          "Vigyázzon a forgalomra, amikor a főutakon közlekedik.",
+          "A Bażantarnia Park egyes ösvényei burkolatlanok, és jobban megfelelnek a hegyi kerékpároknak.",
+          "Vigyen magával egy jó lakatot, hogy biztonságosan lezárhassa kerékpárját a látnivalóknál.",
+          "Tervezzen plusz időt a váratlan megállókra és fotózási lehetőségekre."
+        ],
+        "ro": [
+          "Fiți atenți la trafic atunci când mergeți pe drumurile principale.",
+          "Unele trasee din Parcul Bażantarnia sunt neasfaltate și mai potrivite pentru biciclete de munte.",
+          "Luați un lacăt bun pentru a vă asigura bicicleta la obiectivele turistice.",
+          "Planificați timp suplimentar pentru opriri neașteptate și oportunități foto."
+        ],
+        "en": [
+          "Be mindful of traffic when cycling on main roads.",
+          "Some trails in Bażantarnia Park are unpaved and better suited for mountain bikes.",
+          "Bring a good lock to secure your bike at the attractions.",
+          "Plan for extra time for unexpected stops and photo opportunities."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:39",
+      "total_km": 15.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Altstadt (Cluster A)",
+            "hu": "Parkoló az Óvárosnál (A Klaszter)",
+            "ro": "Parcare Orașul Vechi (Cluster A)",
+            "en": "Old Town Car Park (Cluster A)"
+          },
+          "coords": [
+            19.395,
+            54.155
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Vormittag. Es gibt mehrere kostenpflichtige Parkplätze.",
+            "hu": "Parkoljon le itt a délelőttre. Több fizetős parkoló is található.",
+            "ro": "Parcați aici pentru dimineață. Există mai multe parcări cu plată.",
+            "en": "Park here for the morning. There are several paid parking lots."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Nikolaus Kathedrale & Altstadt",
+            "hu": "Szent Miklós-székesegyház és Óváros",
+            "ro": "Catedrala Sf. Nicolae și Orașul Vechi",
+            "en": "St. Nicholas Cathedral & Old Town"
+          },
+          "coords": [
+            19.398,
+            54.1565
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die Kathedrale und schlendern Sie dann zum Markttor.",
+            "hu": "Fedezze fel a székesegyházat, majd sétáljon el a Piaci kapuhoz.",
+            "ro": "Explorați catedrala și apoi plimbați-vă până la Poarta Pieței.",
+            "en": "Explore the cathedral and then wander towards the Market Gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti és Történeti Múzeum",
+            "ro": "Muzeul de Arheologie și Istorie",
+            "en": "Archaeological and Historical Museum"
+          },
+          "coords": [
+            19.4005,
+            54.1575
+          ],
+          "category": "museums",
+          "arrive_at": "10:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Marktplatz entfernt.",
+            "hu": "Egy rövid sétára a piactértől.",
+            "ro": "La o scurtă plimbare de piață.",
+            "en": "A short walk from the market square."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Elbing-Kanal (Cluster B)",
+            "hu": "Utazás az Elbląg-csatornához (B Klaszter)",
+            "ro": "Călătorie la Canalul Elbląg (Cluster B)",
+            "en": "Drive to Elbląg Canal (Cluster B)"
+          },
+          "coords": [
+            19.53,
+            54.2
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 7,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zu einer der berühmten geneigten Ebenen außerhalb der Stadt.",
+            "hu": "Vezessen el a város melletti egyik híres lejtős síkhoz.",
+            "ro": "Conduceți la unul dintre faimoasele planuri înclinate din afara orașului.",
+            "en": "Drive to one of the famous inclined planes outside the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Bażantarnia-Park (Cluster C)",
+            "hu": "Bażantarnia Park (C Klaszter)",
+            "ro": "Parcul Bażantarnia (Cluster C)",
+            "en": "Bażantarnia Park (Cluster C)"
+          },
+          "coords": [
+            19.465,
+            54.162
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Eingang des Parks und machen Sie einen langen Spaziergang.",
+            "hu": "Parkoljon a park bejáratánál, és tegyen egy hosszú sétát.",
+            "ro": "Parcați la intrarea în parc și faceți o plimbare lungă.",
+            "en": "Park at the entrance of the park and take a long walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in der Altstadt",
+            "hu": "Vacsora az Óvárosban",
+            "ro": "Cină în Orașul Vechi",
+            "en": "Dinner in the Old Town"
+          },
+          "coords": [
+            19.401,
+            54.1585
+          ],
+          "category": "gastro",
+          "arrive_at": "17:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zurück im ersten Cluster für eine wohlverdiente Mahlzeit.",
+            "hu": "Vissza az első klaszterbe egy jól megérdemelt étkezésért.",
+            "ro": "Înapoi la primul cluster pentru o masă binemeritată.",
+            "en": "Back in the first cluster for a well-deserved meal."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Auto, indem Sie in der Nähe der Altstadt parken. Erkunden Sie das historische Zentrum zu Fuß, einschließlich der St.-Nikolaus-Kathedrale und des Archäologischen Museums. Nach dem Mittagessen fahren Sie aus der Stadt hinaus, um die einzigartigen geneigten Ebenen des Elbing-Kanals zu erleben, ein Wunder der Technik des 19. Jahrhunderts. Am Nachmittag fahren Sie zum Bażantarnia-Park, einem riesigen Waldgebiet, das sich perfekt für einen langen Spaziergang in der Natur eignet. Kehren Sie am Abend in die Stadt zurück, um in der charmanten Atmosphäre der Altstadt zu Abend zu essen.",
+        "hu": "Kezdje a napot autóval, parkoljon le az Óváros közelében. Fedezze fel gyalog a történelmi központot, beleértve a Szent Miklós-székesegyházat és a Régészeti Múzeumot. Ebéd után hajtson ki a városból, hogy megtapasztalja az Elbląg-csatorna egyedülálló lejtős síkjait, a 19. századi mérnöki munka csodáját. Délután irány a Bażantarnia Park, egy hatalmas erdős terület, amely tökéletes egy hosszú természetjáráshoz. Este térjen vissza a városba, hogy az Óváros bájos hangulatában vacsorázzon.",
+        "ro": "Începeți ziua cu mașina, parcând lângă Orașul Vechi. Explorați centrul istoric pe jos, inclusiv Catedrala Sf. Nicolae și Muzeul de Arheologie. După prânz, ieșiți din oraș pentru a experimenta planurile înclinate unice ale Canalului Elbląg, o minune a ingineriei din secolul al XIX-lea. După-amiaza, mergeți la Parcul Bażantarnia, o zonă forestieră vastă, perfectă pentru o plimbare lungă în natură. Seara, întoarceți-vă în oraș pentru cină în atmosfera fermecătoare a Orașului Vechi.",
+        "en": "Start your day by car, parking near the Old Town. Explore the historic center on foot, including St. Nicholas Cathedral and the Archaeological Museum. After lunch, drive out of the city to experience the unique inclined planes of the Elbląg Canal, a 19th-century engineering marvel. In the afternoon, head to Bażantarnia Park, a vast forest area perfect for a long walk in nature. Return to the city in the evening for dinner in the charming atmosphere of the Old Town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pierogi",
+            "tip": "Probieren Sie die klassischen gefüllten Teigtaschen mit verschiedenen Füllungen."
+          },
+          {
+            "name": "Zander (Sandacz)",
+            "tip": "Frischer Fisch aus den nahegelegenen Gewässern, oft einfach gegrillt oder gebraten."
+          },
+          {
+            "name": "Studnia Smaków",
+            "tip": "Ein Restaurant, das für seine moderne Interpretation der polnischen Küche bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pierogi",
+            "tip": "Kóstolja meg a klasszikus töltött táskákat különféle töltelékekkel."
+          },
+          {
+            "name": "Süllő (Sandacz)",
+            "tip": "Friss hal a közeli vizekből, gyakran egyszerűen grillezve vagy sütve."
+          },
+          {
+            "name": "Studnia Smaków",
+            "tip": "A lengyel konyha modern értelmezéséről ismert étterem."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierogi",
+            "tip": "Încercați găluștele clasice umplute cu diverse umpluturi."
+          },
+          {
+            "name": "Șalău (Sandacz)",
+            "tip": "Pește proaspăt din apele din apropiere, adesea pur și simplu la grătar sau prăjit."
+          },
+          {
+            "name": "Studnia Smaków",
+            "tip": "Un restaurant cunoscut pentru interpretarea sa modernă a bucătăriei poloneze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierogi",
+            "tip": "Try the classic filled dumplings with various fillings."
+          },
+          {
+            "name": "Zander (Sandacz)",
+            "tip": "Fresh fish from the nearby waters, often simply grilled or fried."
+          },
+          {
+            "name": "Studnia Smaków",
+            "tip": "A restaurant known for its modern interpretation of Polish cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bażantarnia-Park",
+            "tip": "Finden Sie einen ruhigen Weg und genießen Sie die Geräusche des Waldes.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Ufer des Elbing-Flusses",
+            "tip": "Ein ruhiger Ort am frühen Morgen, um den Sonnenaufgang zu beobachten.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ruinen der Marienkirche",
+            "tip": "Ein nachdenklicher und historischer Ort, der zum Innehalten einlädt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bażantarnia Park",
+            "tip": "Keressen egy csendes ösvényt, és élvezze az erdő hangjait.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Az Elbląg-folyó partja",
+            "tip": "Csendes hely kora reggel a napfelkelte megtekintéséhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Mária-templom romjai",
+            "tip": "Elgondolkodtató és történelmi hely a csendes elmélkedéshez.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Bażantarnia",
+            "tip": "Găsiți o potecă liniștită și bucurați-vă de sunetele pădurii.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Malurile râului Elbląg",
+            "tip": "Un loc liniștit dimineața devreme pentru a privi răsăritul.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ruinele Bisericii Sf. Maria",
+            "tip": "Un loc istoric și contemplativ pentru o pauză liniștită.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bażantarnia Park",
+            "tip": "Find a quiet trail and enjoy the sounds of the forest.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Banks of the Elbląg River",
+            "tip": "A quiet spot in the early morning to watch the sunrise.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ruins of St. Mary's Church",
+            "tip": "A thoughtful and historic place for a quiet reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stary Rynek (Alter Markt)",
+            "tip": "Suchen Sie nach lokalen Handwerksläden, die Bernstein und Keramik verkaufen."
+          },
+          {
+            "name": "Bernsteinschmuck",
+            "tip": "Ein klassisches Souvenir aus der Ostseeregion."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stary Rynek (Régi Piactér)",
+            "tip": "Keressen helyi kézműves boltokat, ahol borostyánt és kerámiát árulnak."
+          },
+          {
+            "name": "Borostyán ékszerek",
+            "tip": "Klasszikus szuvenír a balti-tengeri régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stary Rynek (Piața Veche)",
+            "tip": "Căutați magazine de artizanat local care vând chihlimbar și ceramică."
+          },
+          {
+            "name": "Bijuterii din chihlimbar",
+            "tip": "Un suvenir clasic din regiunea Mării Baltice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stary Rynek (Old Market Square)",
+            "tip": "Look for local artisan shops selling amber and ceramics."
+          },
+          {
+            "name": "Amber Jewelry",
+            "tip": "A classic souvenir from the Baltic region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Parkgebühren und -beschränkungen, bevor Sie Ihr Auto abstellen.",
+          "Der Verkehr kann in der Innenstadt zu Stoßzeiten stark sein.",
+          "Ein GPS ist hilfreich, um zu den Sehenswürdigkeiten außerhalb des Zentrums zu navigieren.",
+          "Tanken Sie außerhalb des Stadtzentrums, wo die Preise in der Regel niedriger sind."
+        ],
+        "hu": [
+          "Ellenőrizze a parkolási díjakat és korlátozásokat, mielőtt leparkolná autóját.",
+          "A forgalom csúcsidőben sűrű lehet a belvárosban.",
+          "GPS hasznos a központon kívüli látnivalókhoz való navigáláshoz.",
+          "Tankoljon a városközponton kívül, ahol az árak általában alacsonyabbak."
+        ],
+        "ro": [
+          "Verificați taxele de parcare și restricțiile înainte de a vă lăsa mașina.",
+          "Traficul poate fi aglomerat în centrul orașului la orele de vârf.",
+          "Un GPS este util pentru a naviga la atracțiile din afara centrului.",
+          "Alimentați în afara centrului orașului, unde prețurile sunt de obicei mai mici."
+        ],
+        "en": [
+          "Check parking fees and restrictions before leaving your car.",
+          "Traffic can be heavy in the city center during peak hours.",
+          "A GPS is helpful for navigating to attractions outside the center.",
+          "Refuel outside the city center where prices are usually lower."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 10.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentrum Haltestelle (Cluster A)",
+            "hu": "Központi megálló (A Klaszter)",
+            "ro": "Stația Centrală (Cluster A)",
+            "en": "Central Stop (Cluster A)"
+          },
+          "coords": [
+            19.403,
+            54.159
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier. Die meisten Bus- und Straßenbahnlinien halten in der Nähe.",
+            "hu": "Kezdje itt. A legtöbb busz- és villamosvonal a közelben áll meg.",
+            "ro": "Începeți de aici. Majoritatea liniilor de autobuz și tramvai opresc în apropiere.",
+            "en": "Start here. Most bus and tram lines stop nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Elbinger Altstadt & Markttor",
+            "hu": "Elblągi Óváros és Piaci kapu",
+            "ro": "Orașul vechi Elbląg și Poarta Pieței",
+            "en": "Elbląg Old Town & Market Gate"
+          },
+          "coords": [
+            19.4021,
+            54.158
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die Atmosphäre der wiederaufgebauten Stadt.",
+            "hu": "Merüljön el az újjáépített város hangulatában.",
+            "ro": "Pătrundeți în atmosfera orașului reconstruit.",
+            "en": "Immerse yourself in the atmosphere of the rebuilt city."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Nikolaus Kathedrale",
+            "hu": "Szent Miklós-székesegyház",
+            "ro": "Catedrala Sfântul Nicolae",
+            "en": "St. Nicholas Cathedral"
+          },
+          "coords": [
+            19.398,
+            54.1565
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotische Architektur und das beeindruckende Innere.",
+            "hu": "Csodálja meg a gótikus építészetet és a lenyűgöző belső teret.",
+            "ro": "Admirați arhitectura gotică și interiorul impresionant.",
+            "en": "Admire the Gothic architecture and the impressive interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Bażantarnia-Park (Cluster B)",
+            "hu": "Utazás a Bażantarnia Parkba (B Klaszter)",
+            "ro": "Călătorie la Parcul Bażantarnia (Cluster B)",
+            "en": "Trip to Bażantarnia Park (Cluster B)"
+          },
+          "coords": [
+            19.465,
+            54.162
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:15",
+          "stay_min": 180,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Stadtzentrum. Planen Sie Zeit für einen langen Spaziergang und ein Picknick ein.",
+            "hu": "Vegyen buszt a városközpontból. Tervezzen időt egy hosszú sétára és piknikre.",
+            "ro": "Luați un autobuz din centrul orașului. Planificați timp pentru o plimbare lungă și un picnic.",
+            "en": "Take a bus from the city center. Plan time for a long walk and a picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstzentrum Galeria EL",
+            "hu": "Galeria EL Művészeti Központ",
+            "ro": "Centrul de Artă Galeria EL",
+            "en": "Art Centre Galeria EL"
+          },
+          "coords": [
+            19.3958,
+            54.1572
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Zurück im Stadtzentrum für eine Dosis moderner Kunst.",
+            "hu": "Vissza a városközpontba egy adag modern művészetért.",
+            "ro": "Înapoi în centrul orașului pentru o doză de artă modernă.",
+            "en": "Back in the city center for a dose of modern art."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in der Altstadt",
+            "hu": "Vacsora az Óvárosban",
+            "ro": "Cină în Orașul Vechi",
+            "en": "Dinner in the Old Town"
+          },
+          "coords": [
+            19.401,
+            54.1585
+          ],
+          "category": "gastro",
+          "arrive_at": "17:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schließen Sie den Tag mit einem gemütlichen Abendessen ab.",
+            "hu": "Zárja a napot egy kellemes vacsorával.",
+            "ro": "Încheiați ziua cu o cină relaxantă.",
+            "en": "End the day with a relaxing dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die öffentlichen Verkehrsmittel von Elbing, um den Tag zu beginnen. Steigen Sie im Zentrum aus und erkunden Sie die Altstadt und die Kathedrale zu Fuß. Am Mittag nehmen Sie einen Bus zum weitläufigen Bażantarnia-Park, einem perfekten Ort für eine lange Auszeit in der Natur und vielleicht ein Picknick. Am späten Nachmittag kehren Sie mit dem Bus ins Zentrum zurück, um das einzigartige Kunstzentrum Galeria EL zu besuchen, das sich in einer alten Kirche befindet. Beenden Sie Ihren Erkundungstag mit einem Abendessen in einem der vielen Restaurants in der Nähe des Flusses.",
+        "hu": "Használja Elbląg tömegközlekedését a nap elindításához. Szálljon le a központban, és fedezze fel gyalog az Óvárost és a székesegyházat. Délben buszozzon el a tágas Bażantarnia Parkba, amely tökéletes hely egy hosszú természeti kikapcsolódásra és talán egy piknikre. Késő délután térjen vissza busszal a központba, hogy meglátogassa az egyedülálló Galeria EL művészeti központot, amely egy régi templomban található. Zárja a felfedezéssel töltött napot egy vacsorával a folyó melletti számos étterem egyikében.",
+        "ro": "Folosiți transportul public din Elbląg pentru a începe ziua. Coborâți în centru și explorați Orașul Vechi și catedrala pe jos. La prânz, luați un autobuz spre vastul Parc Bażantarnia, un loc perfect pentru o pauză lungă în natură și poate un picnic. Spre după-amiaza târziu, reveniți cu autobuzul în centru pentru a vizita Centrul de Artă unic Galeria EL, situat într-o biserică veche. Încheiați ziua de explorare cu o cină la unul dintre numeroasele restaurante de lângă râu.",
+        "en": "Use Elbląg's public transport to kick off the day. Get off in the center and explore the Old Town and the cathedral on foot. At midday, take a bus to the expansive Bażantarnia Park, a perfect spot for a long nature break and perhaps a picnic. In the late afternoon, return to the center by bus to visit the unique Art Centre Galeria EL, located in an old church. Conclude your day of exploration with dinner at one of the many restaurants near the river."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pierogi",
+            "tip": "Probieren Sie die klassischen gefüllten Teigtaschen mit verschiedenen Füllungen."
+          },
+          {
+            "name": "Zander (Sandacz)",
+            "tip": "Frischer Fisch aus den nahegelegenen Gewässern, oft einfach gegrillt oder gebraten."
+          },
+          {
+            "name": "Studnia Smaków",
+            "tip": "Ein Restaurant, das für seine moderne Interpretation der polnischen Küche bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pierogi",
+            "tip": "Kóstolja meg a klasszikus töltött táskákat különféle töltelékekkel."
+          },
+          {
+            "name": "Süllő (Sandacz)",
+            "tip": "Friss hal a közeli vizekből, gyakran egyszerűen grillezve vagy sütve."
+          },
+          {
+            "name": "Studnia Smaków",
+            "tip": "A lengyel konyha modern értelmezéséről ismert étterem."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierogi",
+            "tip": "Încercați găluștele clasice umplute cu diverse umpluturi."
+          },
+          {
+            "name": "Șalău (Sandacz)",
+            "tip": "Pește proaspăt din apele din apropiere, adesea pur și simplu la grătar sau prăjit."
+          },
+          {
+            "name": "Studnia Smaków",
+            "tip": "Un restaurant cunoscut pentru interpretarea sa modernă a bucătăriei poloneze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierogi",
+            "tip": "Try the classic filled dumplings with various fillings."
+          },
+          {
+            "name": "Zander (Sandacz)",
+            "tip": "Fresh fish from the nearby waters, often simply grilled or fried."
+          },
+          {
+            "name": "Studnia Smaków",
+            "tip": "A restaurant known for its modern interpretation of Polish cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bażantarnia-Park",
+            "tip": "Finden Sie einen ruhigen Weg und genießen Sie die Geräusche des Waldes.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Ufer des Elbing-Flusses",
+            "tip": "Ein ruhiger Ort am frühen Morgen, um den Sonnenaufgang zu beobachten.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ruinen der Marienkirche",
+            "tip": "Ein nachdenklicher und historischer Ort, der zum Innehalten einlädt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bażantarnia Park",
+            "tip": "Keressen egy csendes ösvényt, és élvezze az erdő hangjait.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Az Elbląg-folyó partja",
+            "tip": "Csendes hely kora reggel a napfelkelte megtekintéséhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Mária-templom romjai",
+            "tip": "Elgondolkodtató és történelmi hely a csendes elmélkedéshez.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Bażantarnia",
+            "tip": "Găsiți o potecă liniștită și bucurați-vă de sunetele pădurii.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Malurile râului Elbląg",
+            "tip": "Un loc liniștit dimineața devreme pentru a privi răsăritul.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ruinele Bisericii Sf. Maria",
+            "tip": "Un loc istoric și contemplativ pentru o pauză liniștită.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bażantarnia Park",
+            "tip": "Find a quiet trail and enjoy the sounds of the forest.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Banks of the Elbląg River",
+            "tip": "A quiet spot in the early morning to watch the sunrise.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ruins of St. Mary's Church",
+            "tip": "A thoughtful and historic place for a quiet reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stary Rynek (Alter Markt)",
+            "tip": "Suchen Sie nach lokalen Handwerksläden, die Bernstein und Keramik verkaufen."
+          },
+          {
+            "name": "Bernsteinschmuck",
+            "tip": "Ein klassisches Souvenir aus der Ostseeregion."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stary Rynek (Régi Piactér)",
+            "tip": "Keressen helyi kézműves boltokat, ahol borostyánt és kerámiát árulnak."
+          },
+          {
+            "name": "Borostyán ékszerek",
+            "tip": "Klasszikus szuvenír a balti-tengeri régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stary Rynek (Piața Veche)",
+            "tip": "Căutați magazine de artizanat local care vând chihlimbar și ceramică."
+          },
+          {
+            "name": "Bijuterii din chihlimbar",
+            "tip": "Un suvenir clasic din regiunea Mării Baltice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stary Rynek (Old Market Square)",
+            "tip": "Look for local artisan shops selling amber and ceramics."
+          },
+          {
+            "name": "Amber Jewelry",
+            "tip": "A classic souvenir from the Baltic region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte, um unbegrenzt mit Bussen und Straßenbahnen fahren zu können.",
+          "Laden Sie eine Nahverkehrs-App herunter, um Fahrpläne und Routen in Echtzeit zu verfolgen.",
+          "Beachten Sie, dass Busse zu Stoßzeiten voll sein können.",
+          "Validieren Sie Ihr Ticket immer, um eine Strafe zu vermeiden."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan busz- és villamosutazáshoz.",
+          "Töltsön le egy tömegközlekedési alkalmazást a valós idejű menetrendek és útvonalak követéséhez.",
+          "Vegye figyelembe, hogy a buszok csúcsidőben zsúfoltak lehetnek.",
+          "Mindig érvényesítse a jegyét a bírság elkerülése érdekében."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate cu autobuzul și tramvaiul.",
+          "Descărcați o aplicație de transport public pentru a urmări orarele și rutele în timp real.",
+          "Rețineți că autobuzele pot fi aglomerate la orele de vârf.",
+          "Validați-vă întotdeauna biletul pentru a evita o amendă."
+        ],
+        "en": [
+          "Buy a day pass for unlimited bus and tram travel.",
+          "Download a public transport app to track real-time schedules and routes.",
+          "Be aware that buses can be crowded during peak hours.",
+          "Always validate your ticket to avoid a fine."
+        ]
+      }
+    }
+  }
+}

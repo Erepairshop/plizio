@@ -1,0 +1,985 @@
+{
+  "city_id": "czechrepublic-most-cities-v2",
+  "anchor": {
+    "name": "Most",
+    "coords": [
+      13.6362,
+      50.503
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "1. Platz (První náměstí)",
+            "hu": "1. tér (První náměstí)",
+            "ro": "Piața 1 (První náměstí)",
+            "en": "1st Square (První náměstí)"
+          },
+          "coords": [
+            13.6385,
+            50.5015
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag im modernen Herzen der Stadt.",
+            "hu": "Kezdje a napot a város modern szívében!",
+            "ro": "Începeți ziua în inima modernă a orașului.",
+            "en": "Start your day in the modern heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadttheater Most",
+            "hu": "Mosti Városi Színház",
+            "ro": "Teatrul Municipal Most",
+            "en": "Most Municipal Theatre"
+          },
+          "coords": [
+            13.6398,
+            50.5008
+          ],
+          "category": "theatres",
+          "arrive_at": "09:40",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die sozialistisch-moderne Architektur.",
+            "hu": "Csodálja meg a szocialista-modern építészetet!",
+            "ro": "Admirați arhitectura modernistă socialistă.",
+            "en": "Admire the socialist-modernist architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Mariä-Himmelfahrt-Kirche",
+            "hu": "Szűz Mária Mennybemenetele templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Assumption of the Virgin Mary"
+          },
+          "coords": [
+            13.649,
+            50.5172
+          ],
+          "category": "churches",
+          "arrive_at": "10:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Erfahren Sie die unglaubliche Geschichte der Verschiebung der Kirche.",
+            "hu": "Ismerje meg a templom elmozgatásának hihetetlen történetét.",
+            "ro": "Aflați povestea incredibilă a mutării bisericii.",
+            "en": "Learn the incredible story of the church's relocation."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Most-See",
+            "hu": "Ebéd a Mosti-tónál",
+            "ro": "Prânz la Lacul Most",
+            "en": "Lunch at Lake Most"
+          },
+          "coords": [
+            13.651,
+            50.518
+          ],
+          "category": "gastro",
+          "arrive_at": "11:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht auf den See während des Essens.",
+            "hu": "Élvezze a tóra nyíló kilátást ebéd közben.",
+            "ro": "Bucurați-vă de vederea la lac în timpul mesei.",
+            "en": "Enjoy the view of the lake while you eat."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Hněvín",
+            "hu": "Hněvín Vár",
+            "ro": "Castelul Hněvín",
+            "en": "Hněvín Castle"
+          },
+          "coords": [
+            13.626,
+            50.517
+          ],
+          "category": "castles",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für den Panoramablick über die Stadt.",
+            "hu": "A hegymászás megéri a panorámás kilátásért a városra.",
+            "ro": "Urcușul merită pentru vederea panoramică asupra orașului.",
+            "en": "The climb is worth it for the panoramic view over the city."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Wenzels-Kirche",
+            "hu": "Szent Vencel-templom",
+            "ro": "Biserica Sfântul Wenceslas",
+            "en": "Church of St. Wenceslas"
+          },
+          "coords": [
+            13.6355,
+            50.502
+          ],
+          "category": "churches",
+          "arrive_at": "15:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort im Herzen des alten Most.",
+            "hu": "Egy békés hely a régi Most szívében.",
+            "ro": "Un loc liniștit în inima vechiului Most.",
+            "en": "A peaceful spot in the heart of old Most."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Most beginnt am modernen 1. Platz und führt Sie zum Theater, bevor Sie die faszinierende Geschichte der verschobenen Mariä-Himmelfahrt-Kirche am Rande des Most-Sees entdecken. Nach dem Mittagessen mit Seeblick besteigen Sie die Burg Hněvín für eine atemberaubende Aussicht. Der Nachmittag bietet einen Moment der Ruhe in der St.-Wenzels-Kirche. Der Abend endet mit einem gemütlichen Spaziergang zurück ins Zentrum, wo Sie die Eindrücke des Tages Revue passieren lassen können.",
+        "hu": "Mosti napja a modern 1. téren kezdődik, majd a színház felé veszi az irányt, mielőtt felfedezné a Mosti-tó partján álló, elmozgatott Szűz Mária-templom lenyűgöző történetét. Egy tóparti ebéd után megmássza a Hněvín várat a lélegzetelállító kilátásért. A délután a Szent Vencel-templomban kínál egy csendes pillanatot. Az este egy kellemes sétával zárul vissza a központba, ahol felidézheti a nap élményeit.",
+        "ro": "Ziua dvs. în Most începe în moderna Piața 1 și vă duce la teatru, înainte de a descoperi istoria fascinantă a bisericii mutate Adormirea Maicii Domnului, pe malul lacului Most. După prânzul cu vedere la lac, urcați la Castelul Hněvín pentru o priveliște uluitoare. După-amiaza oferă un moment de liniște la Biserica Sf. Wenceslas. Seara se încheie cu o plimbare relaxantă înapoi în centru, reflectând la impresiile zilei.",
+        "en": "Your day in Most starts at the modern 1st Square and takes you to the theatre before you discover the fascinating history of the relocated Church of the Assumption of the Virgin Mary on the edge of Lake Most. After a lakeside lunch, you'll climb Hněvín Castle for a breathtaking view. The afternoon offers a quiet moment at the Church of St. Wenceslas. The evening concludes with a leisurely stroll back to the center, reflecting on the day's impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Probieren Sie das klassische tschechische Rinderfilet in Sahnesauce mit Knödeln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Kóstolja meg a klasszikus cseh vadasmarhát tejszínes mártással, knédlivel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Încercați mușchiul de vită ceh clasic în sos de smântână cu găluște."
+          }
+        ],
+        "en": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Try the classic Czech beef sirloin in cream sauce with dumplings."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Most-Sees",
+            "tip": "Ein Spaziergang entlang des Sees bietet Ruhe und eine schöne Aussicht.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mosti-tó partja",
+            "tip": "Egy séta a tó mentén nyugalmat és gyönyörű kilátást kínál.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Lacului Most",
+            "tip": "O plimbare de-a lungul lacului oferă liniște și o priveliște frumoasă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shores of Lake Most",
+            "tip": "A walk along the lake offers tranquility and beautiful views.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Märkte",
+            "tip": "Halten Sie Ausschau nach regionalen Produkten und handgemachten Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piacok",
+            "tip": "Keresse a regionális termékeket és a kézzel készített ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe locale",
+            "tip": "Căutați produse regionale și suveniruri artizanale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local markets",
+            "tip": "Look for regional products and handmade souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da der Aufstieg zur Burg steil sein kann.",
+          "Prüfen Sie die Öffnungszeiten der Kirchen, da diese variieren können."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a várhoz való feljutás meredek lehet.",
+          "Ellenőrizze a templomok nyitvatartási idejét, mivel az változhat."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece urcarea la castel poate fi abruptă.",
+          "Verificați orele de deschidere ale bisericilor, deoarece acestea pot varia."
+        ],
+        "en": [
+          "Wear comfortable shoes as the climb to the castle can be steep.",
+          "Check the opening hours of the churches as they can vary."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "1. Platz (První náměstí)",
+            "hu": "1. tér (První náměstí)",
+            "ro": "Piața 1 (První náměstí)",
+            "en": "1st Square (První náměstí)"
+          },
+          "coords": [
+            13.6385,
+            50.5015
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Mariä-Himmelfahrt-Kirche",
+            "hu": "Szűz Mária Mennybemenetele templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Assumption of the Virgin Mary"
+          },
+          "coords": [
+            13.649,
+            50.5172
+          ],
+          "category": "churches",
+          "arrive_at": "09:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5
+        },
+        {
+          "name": {
+            "de": "Most-See Umrundung (Teil)",
+            "hu": "Mosti-tó kör (részlet)",
+            "ro": "Turul Lacului Most (parțial)",
+            "en": "Lake Most Circuit (partial)"
+          },
+          "coords": [
+            13.67,
+            50.52
+          ],
+          "category": "natural",
+          "arrive_at": "10:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Freizeitgelände Benedikt",
+            "hu": "Ebéd a Benedikt szabadidőközpontnál",
+            "ro": "Prânz la Zona de Agrement Benedikt",
+            "en": "Lunch at Benedikt Recreation Area"
+          },
+          "coords": [
+            13.675,
+            50.495
+          ],
+          "category": "gastro",
+          "arrive_at": "12:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0
+        },
+        {
+          "name": {
+            "de": "Autodrom Most (Aussichtspunkt)",
+            "hu": "Autodrom Most (kilátópont)",
+            "ro": "Autodrom Most (punct de belvedere)",
+            "en": "Autodrom Most (viewpoint)"
+          },
+          "coords": [
+            13.606,
+            50.52
+          ],
+          "category": "landmark",
+          "arrive_at": "14:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0
+        },
+        {
+          "name": {
+            "de": "Burg Hněvín",
+            "hu": "Hněvín Vár",
+            "ro": "Castelul Hněvín",
+            "en": "Hněvín Castle"
+          },
+          "coords": [
+            13.626,
+            50.517
+          ],
+          "category": "castles",
+          "arrive_at": "15:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0
+        },
+        {
+          "name": {
+            "de": "Zurück zum 1. Platz",
+            "hu": "Vissza az 1. térre",
+            "ro": "Înapoi la Piața 1",
+            "en": "Back to the 1st Square"
+          },
+          "coords": [
+            13.6385,
+            50.5015
+          ],
+          "category": "squares",
+          "arrive_at": "17:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel und erkunden Sie Most auf zwei Rädern. Vom Stadtzentrum aus radeln Sie zur berühmten verschobenen Kirche und umrunden dann einen Teil des malerischen Most-Sees. Nach dem Mittagessen im Freizeitgelände Benedikt werfen Sie einen Blick auf das Autodrom, bevor Sie den Anstieg zur Burg Hněvín wagen. Die Panoramaaussicht ist die Belohnung für Ihre Mühe. Der Tag endet entspannt im Herzen der Stadt, wo Sie Ihre Radtour ausklingen lassen können.",
+        "hu": "Pattanjon nyeregbe és fedezze fel Mostot két keréken! A városközpontból tekerjen el a híres, elmozgatott templomhoz, majd kerülje meg a festői Mosti-tó egy részét. A Benedikt szabadidőközpontban elköltött ebéd után vessen egy pillantást az Autodromra, mielőtt nekivág a Hněvín várhoz vezető emelkedőnek. A panorámás kilátás a jutalom az erőfeszítésért. A nap a város szívében ér véget, ahol kipihenheti a kerékpártúra fáradalmait.",
+        "ro": "Urcați-vă pe bicicletă și explorați Most pe două roți. Din centrul orașului, pedalați spre faimoasa biserică mutată, apoi înconjurați o parte din pitorescul Lac Most. După prânz la Zona de Agrement Benedikt, aruncați o privire la Autodrom înainte de a îndrăzni să urcați la Castelul Hněvín. Priveliștea panoramică este recompensa pentru efortul depus. Ziua se încheie relaxat în inima orașului, unde vă puteți relaxa după turul cu bicicleta.",
+        "en": "Get on your bike and explore Most on two wheels. From the city center, cycle to the famous relocated church, then circle part of the picturesque Lake Most. After lunch at the Benedikt Recreation Area, take a look at the Autodrom before braving the climb to Hněvín Castle. The panoramic view is the reward for your efforts. The day ends relaxed in the heart of the city, where you can unwind after your bike tour."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kofola",
+            "tip": "Probieren Sie das tschechische Kräuter-Cola als erfrischendes Getränk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kofola",
+            "tip": "Kóstolja meg a cseh gyógynövényes kólát frissítő italként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kofola",
+            "tip": "Încercați cola cehă pe bază de plante ca băutură răcoritoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kofola",
+            "tip": "Try the Czech herbal cola as a refreshing drink."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Benedikt",
+            "tip": "Ein ruhiger Abschnitt zum Radfahren abseits des Stadtverkehrs.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút Benediktnél",
+            "tip": "Egy csendes szakasz a városi forgalomtól távol eső kerékpározáshoz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de la Benedikt",
+            "tip": "O secțiune liniștită pentru ciclism, departe de traficul urban.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike path at Benedikt",
+            "tip": "A quiet section for cycling away from city traffic.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Für den Fall, dass Sie Zubehör oder eine schnelle Reparatur benötigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Ha esetleg kiegészítőkre vagy gyors javításra van szüksége."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "În caz că aveți nevoie de accesorii sau de o reparație rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shops",
+            "tip": "In case you need accessories or a quick repair."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie genügend Wasser mit, besonders für den Anstieg zur Burg.",
+          "Schließen Sie Ihr Fahrrad an den Sehenswürdigkeiten sicher ab."
+        ],
+        "hu": [
+          "Vigyen magával elegendő vizet, különösen a várhoz való emelkedőhöz.",
+          "Zárja le biztonságosan kerékpárját a látnivalóknál."
+        ],
+        "ro": [
+          "Luați suficientă apă, mai ales pentru urcarea la castel.",
+          "Asigurați-vă bicicleta în siguranță la obiectivele turistice."
+        ],
+        "en": [
+          "Bring enough water, especially for the climb to the castle.",
+          "Securely lock your bike at the sights."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 25.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Autodrom Most",
+            "hu": "Parkoló az Autodrom Mostnál",
+            "ro": "Parcare la Autodromul Most",
+            "en": "Parking at Autodrom Most"
+          },
+          "coords": [
+            13.605,
+            50.521
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Starten Sie Ihren Tag mit dem Dröhnen der Motoren.",
+            "hu": "Kezdje a napot a motorok dübörgésével.",
+            "ro": "Începeți ziua cu zgomotul motoarelor.",
+            "en": "Start your day with the roar of engines."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Burg Hněvín",
+            "hu": "Parkoló a Hněvín várnál",
+            "ro": "Parcare la Castelul Hněvín",
+            "en": "Parking at Hněvín Castle"
+          },
+          "coords": [
+            13.625,
+            50.516
+          ],
+          "category": "castles",
+          "arrive_at": "10:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und genießen Sie den Spaziergang zur Burg.",
+            "hu": "Parkoljon itt, és élvezze a sétát a várhoz.",
+            "ro": "Parcați aici și bucurați-vă de plimbarea până la castel.",
+            "en": "Park here and enjoy the walk to the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussicht von der Burg",
+            "hu": "Kilátás a várból",
+            "ro": "Vedere de la castel",
+            "en": "View from the castle"
+          },
+          "coords": [
+            13.626,
+            50.517
+          ],
+          "category": "viewpoint",
+          "arrive_at": "10:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der beste Ort für ein Panoramafoto von Most und der Umgebung.",
+            "hu": "A legjobb hely egy panorámakép készítéséhez Mostról és környékéről.",
+            "ro": "Cel mai bun loc pentru o fotografie panoramică a orașului Most și a împrejurimilor.",
+            "en": "The best place for a panoramic photo of Most and its surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz am Most-See",
+            "hu": "Parkoló a Mosti-tónál",
+            "ro": "Parcare la Lacul Most",
+            "en": "Parking at Lake Most"
+          },
+          "coords": [
+            13.652,
+            50.518
+          ],
+          "category": "natural",
+          "arrive_at": "12:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Zentraler Punkt für den Besuch der Kirche und ein Mittagessen.",
+            "hu": "Központi pont a templomlátogatáshoz és egy ebédhez.",
+            "ro": "Punct central pentru vizitarea bisericii și pentru prânz.",
+            "en": "Central point for visiting the church and having lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Mariä-Himmelfahrt-Kirche",
+            "hu": "Szűz Mária Mennybemenetele templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Assumption of the Virgin Mary"
+          },
+          "coords": [
+            13.649,
+            50.5172
+          ],
+          "category": "churches",
+          "arrive_at": "12:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss für jeden Geschichts- und Architekturliebhaber.",
+            "hu": "Minden történelem- és építészetkedvelő számára kötelező.",
+            "ro": "O necesitate pentru orice iubitor de istorie și arhitectură.",
+            "en": "A must-see for any history and architecture enthusiast."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkhaus im Stadtzentrum",
+            "hu": "Parkolóház a városközpontban",
+            "ro": "Parcare în centrul orașului",
+            "en": "Parking in the city center"
+          },
+          "coords": [
+            13.64,
+            50.502
+          ],
+          "category": "squares",
+          "arrive_at": "15:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Auto hier ab, um das Zentrum zu Fuß zu erkunden.",
+            "hu": "Parkolja le itt az autóját, hogy gyalog fedezze fel a központot.",
+            "ro": "Parcați mașina aici pentru a explora centrul pe jos.",
+            "en": "Park your car here to explore the center on foot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto haben Sie die Freiheit, die weit verstreuten Highlights von Most zu entdecken. Beginnen Sie am Autodrom, fahren Sie dann zur majestätischen Burg Hněvín für einen atemberaubenden Blick. Der nächste Cluster ist der Most-See, wo Sie die verschobene Kirche bewundern und zu Mittag essen. Der Nachmittag ist für das moderne Stadtzentrum reserviert. Parken Sie Ihr Auto und erkunden Sie den 1. Platz und das Theater zu Fuß, um den Tag gemütlich ausklingen zu lassen.",
+        "hu": "Autóval szabadon felfedezheti Most szétszórt nevezetességeit. Kezdjen az Autodromnál, majd hajtson fel a fenséges Hněvín várhoz a lélegzetelállító kilátásért. A következő klaszter a Mosti-tó, ahol megcsodálhatja az elmozgatott templomot és megebédelhet. A délután a modern városközponté. Parkolja le autóját, és fedezze fel gyalog az 1. teret és a színházat, hogy kényelmesen zárja a napot.",
+        "ro": "Cu mașina, aveți libertatea de a descoperi atracțiile dispersate din Most. Începeți la Autodrom, apoi conduceți la maiestuosul Castel Hněvín pentru o priveliște uluitoare. Următorul grup este Lacul Most, unde puteți admira biserica mutată și puteți lua prânzul. După-amiaza este rezervată pentru centrul modern al orașului. Parcați mașina și explorați Piața 1 și teatrul pe jos pentru a încheia ziua într-un mod relaxant.",
+        "en": "By car, you have the freedom to discover the scattered highlights of Most. Start at the Autodrom, then drive to the majestic Hněvín Castle for a breathtaking view. The next cluster is Lake Most, where you can admire the relocated church and have lunch. The afternoon is reserved for the modern city center. Park your car and explore the 1st Square and the theatre on foot to end the day comfortably."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurace na Hradě Hněvín",
+            "tip": "Speisen Sie wie ein König mit Blick auf die Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a Hněvín várban",
+            "tip": "Étkezzen királyként, kilátással a városra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant la Castelul Hněvín",
+            "tip": "Mâncați ca un rege cu vedere la oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant at Hněvín Castle",
+            "tip": "Dine like a king with a view of the city."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt bei der Burg",
+            "tip": "Ein ruhiger Ort, um die Weite der Landschaft zu genießen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópont a várnál",
+            "tip": "Egy csendes hely, ahol élvezheti a táj tágasságát.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere lângă castel",
+            "tip": "Un loc liniștit pentru a vă bucura de vastitatea peisajului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint near the castle",
+            "tip": "A quiet place to enjoy the vastness of the landscape.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Central Most Einkaufszentrum",
+            "tip": "Moderne Einkaufsmöglichkeiten im Herzen der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Central Most bevásárlóközpont",
+            "tip": "Modern bevásárlási lehetőségek a város szívében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Central Most",
+            "tip": "Oportunități moderne de cumpărături în inima orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Most Shopping Center",
+            "tip": "Modern shopping opportunities in the heart of the city."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Planen Sie Ihre Route im Voraus, um die Parkmöglichkeiten an den Clustern zu nutzen.",
+          "Achten Sie auf Veranstaltungen im Autodrom, die den Verkehr beeinträchtigen könnten."
+        ],
+        "hu": [
+          "Tervezze meg előre az útvonalát, hogy kihasználja a klasztereknél lévő parkolási lehetőségeket.",
+          "Figyeljen az Autodromban zajló eseményekre, amelyek befolyásolhatják a forgalmat."
+        ],
+        "ro": [
+          "Planificați-vă traseul în avans pentru a profita de parcarea de la clustere.",
+          "Fiți atenți la evenimentele de la Autodrom, care ar putea afecta traficul."
+        ],
+        "en": [
+          "Plan your route in advance to take advantage of parking at the clusters.",
+          "Be aware of events at the Autodrom that could affect traffic."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentrum (Haltestelle 1. náměstí)",
+            "hu": "Központ (1. náměstí megálló)",
+            "ro": "Centru (stația 1. náměstí)",
+            "en": "Center (1. náměstí stop)"
+          },
+          "coords": [
+            13.638,
+            50.501
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit"
+        },
+        {
+          "name": {
+            "de": "Stadttheater Most",
+            "hu": "Mosti Városi Színház",
+            "ro": "Teatrul Municipal Most",
+            "en": "Most Municipal Theatre"
+          },
+          "coords": [
+            13.6398,
+            50.5008
+          ],
+          "category": "theatres",
+          "arrive_at": "09:45",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Haltestelle Kostel (Kirche)",
+            "hu": "Kostel (Templom) megálló",
+            "ro": "Stația Kostel (Biserică)",
+            "en": "Kostel (Church) stop"
+          },
+          "coords": [
+            13.65,
+            50.516
+          ],
+          "category": "churches",
+          "arrive_at": "10:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit"
+        },
+        {
+          "name": {
+            "de": "Mariä-Himmelfahrt-Kirche",
+            "hu": "Szűz Mária Mennybemenetele templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Assumption of the Virgin Mary"
+          },
+          "coords": [
+            13.649,
+            50.5172
+          ],
+          "category": "churches",
+          "arrive_at": "10:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Haltestelle Hněvín",
+            "hu": "Hněvín megálló",
+            "ro": "Stația Hněvín",
+            "en": "Hněvín stop"
+          },
+          "coords": [
+            13.627,
+            50.515
+          ],
+          "category": "castles",
+          "arrive_at": "13:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "transit"
+        },
+        {
+          "name": {
+            "de": "Burg Hněvín",
+            "hu": "Hněvín Vár",
+            "ro": "Castelul Hněvín",
+            "en": "Hněvín Castle"
+          },
+          "coords": [
+            13.626,
+            50.517
+          ],
+          "category": "castles",
+          "arrive_at": "13:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk"
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das öffentliche Verkehrsnetz von Most, um die Stadt zu erkunden. Beginnen Sie im Zentrum und spazieren Sie zum Theater. Nehmen Sie dann den Bus zur berühmten verschobenen Kirche und dem See, wo Sie auch zu Mittag essen können. Am Nachmittag bringt Sie ein weiterer Bus zur Burg Hněvín, von wo aus Sie eine fantastische Aussicht genießen können. Ein letzter Bus bringt Sie zurück ins Zentrum, um den Tag abzuschließen.",
+        "hu": "Használja Most tömegközlekedési hálózatát a város felfedezéséhez. Kezdje a központban, és sétáljon el a színházhoz. Ezután buszozzon el a híres, elmozgatott templomhoz és a tóhoz, ahol ebédelhet is. Délután egy másik busz felvisz a Hněvín várhoz, ahonnan fantasztikus kilátás nyílik. Egy utolsó busz visszavisz a központba, hogy lezárja a napot.",
+        "ro": "Folosiți rețeaua de transport public din Most pentru a explora orașul. Începeți din centru și plimbați-vă până la teatru. Apoi, luați autobuzul către faimoasa biserică mutată și lac, unde puteți lua și prânzul. După-amiaza, un alt autobuz vă va duce la Castelul Hněvín pentru o priveliște fantastică. Un ultim autobuz vă va aduce înapoi în centru pentru a încheia ziua.",
+        "en": "Use Most's public transport network to explore the city. Start in the center and walk to the theatre. Then take the bus to the famous relocated church and the lake, where you can also have lunch. In the afternoon, another bus will take you up to Hněvín Castle for a fantastic view. A final bus will take you back to the center to end the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pivní sýr",
+            "tip": "Probieren Sie diesen würzigen Bierkäse, eine lokale Spezialität, in einem der Pubs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pivní sýr",
+            "tip": "Kóstolja meg ezt a fűszeres sörsajtot, egy helyi különlegességet az egyik pubban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pivní sýr",
+            "tip": "Încercați această brânză de bere picantă, o specialitate locală, într-unul dintre pub-uri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pivní sýr",
+            "tip": "Try this spicy beer cheese, a local specialty, in one of the pubs."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang um den See",
+            "tip": "Nach dem Kirchenbesuch bietet der See einen ruhigen Ort zum Entspannen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a tó körül",
+            "tip": "A templomlátogatás után a tó csendes helyet kínál a pihenéshez.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare în jurul lacului",
+            "tip": "După vizitarea bisericii, lacul oferă un loc liniștit pentru relaxare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk around the lake",
+            "tip": "After visiting the church, the lake offers a quiet place to relax.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske an Haltestellen",
+            "tip": "Kaufen Sie Fahrkarten oder einen schnellen Snack für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok a megállókban",
+            "tip": "Vásároljon jegyeket vagy egy gyors harapnivalót útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri în stații",
+            "tip": "Cumpărați bilete sau o gustare rapidă pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks at stops",
+            "tip": "Buy tickets or a quick snack for the road."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr, um Geld zu sparen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere für die Rückfahrt von der Burg."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
+          "Ellenőrizze előre a buszmenetrendet, különösen a várból való visszautazáshoz."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru a economisi bani.",
+          "Verificați programul autobuzelor în avans, în special pentru călătoria de întoarcere de la castel."
+        ],
+        "en": [
+          "Buy a day pass for public transport to save money.",
+          "Check the bus schedule in advance, especially for the return trip from the castle."
+        ]
+      }
+    }
+  }
+}

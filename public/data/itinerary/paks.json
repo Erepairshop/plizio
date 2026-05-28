@@ -1,0 +1,1232 @@
+{
+  "city_id": "paks",
+  "anchor": {
+    "name": "Paks",
+    "coords": [
+      46.6167,
+      18.8667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Sárgödör-Platz",
+            "hu": "Sárgödör tér",
+            "ro": "Piața Sárgödör",
+            "en": "Sárgödör Square"
+          },
+          "coords": [
+            46.6195,
+            18.8592
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die in die Lösswand gehauenen Weinkeller.",
+            "hu": "Csodálja meg a löszfalba vájt présházakat és borospincéket!",
+            "ro": "Admirați casele de presare și pivnițele de vin săpate în peretele de loess.",
+            "en": "Admire the press houses and wine cellars carved into the loess wall."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Paks",
+            "hu": "Városi Múzeum Paks",
+            "ro": "Muzeul Orășenesc Paks",
+            "en": "Paks Town Museum"
+          },
+          "coords": [
+            46.618,
+            18.8631
+          ],
+          "category": "museums",
+          "arrive_at": "09:48",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche lokale Geschichte und Volkskunst der Region.",
+            "hu": "Ismerje meg a város gazdag helytörténetét és a környék népművészetét.",
+            "ro": "Explorați istoria locală bogată și arta populară a regiunii.",
+            "en": "Explore the rich local history and folk art of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Heilig-Geist-Kirche",
+            "hu": "Szentlélek-templom",
+            "ro": "Biserica Sfântul Duh",
+            "en": "Holy Spirit Church"
+          },
+          "coords": [
+            46.6215,
+            18.8672
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:28",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Meisterwerk der organischen Architektur von Imre Makovecz.",
+            "hu": "Makovecz Imre organikus építészetének világhírű remekműve.",
+            "ro": "O capodoperă a arhitecturii organice realizată de Imre Makovecz.",
+            "en": "A world-famous masterpiece of organic architecture by Imre Makovecz."
+          }
+        },
+        {
+          "name": {
+            "de": "Erzsébet Großes Hotel",
+            "hu": "Erzsébet Nagy Szálloda",
+            "ro": "Marele Hotel Erzsébet",
+            "en": "Erzsébet Grand Hotel"
+          },
+          "coords": [
+            46.6199,
+            18.8688
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:17",
+          "stay_min": 20,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein ikonisches Gebäude im Herzen der Stadt, perfekt für ein Foto.",
+            "hu": "A város szívében álló ikonikus épület, tökéletes egy fotóhoz.",
+            "ro": "O clădire emblematică în inima orașului, perfectă pentru o fotografie.",
+            "en": "An iconic building in the heart of the city, perfect for a photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Donaupromenade",
+            "hu": "Duna-parti sétány",
+            "ro": "Promenada Dunării",
+            "en": "Danube Promenade"
+          },
+          "coords": [
+            46.6185,
+            18.8721
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:43",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie ein Mittagessen in einem der Restaurants mit Blick auf den Fluss.",
+            "hu": "Ebédeljen meg az egyik folyóparti étteremben, gyönyörködve a kilátásban!",
+            "ro": "Luați prânzul la unul dintre restaurantele cu vedere la fluviu.",
+            "en": "Have lunch at one of the riverside restaurants with a view."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Atomenergie",
+            "hu": "Atomerőmű Múzeum",
+            "ro": "Muzeul Energiei Atomice",
+            "en": "Atomic Energy Museum"
+          },
+          "coords": [
+            46.5783,
+            18.8554
+          ],
+          "category": "museums",
+          "arrive_at": "15:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 53,
+          "hop_from_prev_km": 2.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein einzigartiges Museum, das die Geschichte des ungarischen Kernkraftwerks zeigt.",
+            "hu": "Egyedülálló múzeum, mely bemutatja a magyar atomerőmű történetét.",
+            "ro": "Un muzeu unic care prezintă istoria centralei nucleare din Ungaria.",
+            "en": "A unique museum showcasing the history of the Hungarian nuclear power plant."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am Sárgödör-Platz und bewundern Sie die einzigartigen Weinkeller. Schlendern Sie durch das historische Zentrum zum Stadtmuseum und tauchen Sie in die lokale Kultur ein. Die organische Architektur der Heilig-Geist-Kirche wird Sie beeindrucken. Gönnen Sie sich ein Mittagessen an der Donaupromenade mit herrlichem Blick auf den Fluss. Am Nachmittag bietet ein Spaziergang zum Museum für Atomenergie einen faszinierenden Einblick in die moderne Geschichte von Paks. Lassen Sie den Abend in einem gemütlichen Restaurant ausklingen.",
+        "hu": "Kezdje a napot a Sárgödör téren, megcsodálva az egyedi présházakat. Sétáljon át a történelmi központon a Városi Múzeumhoz, és merüljön el a helyi kultúrában! A Szentlélek-templom organikus építészete le fogja nyűgözni. Ebédeljen a Duna-parti sétányon, ahonnan csodás a kilátás a folyóra. Délután az Atomerőmű Múzeumhoz tett séta lenyűgöző betekintést nyújt Paks modern kori történelmébe. Zárja az estét egy hangulatos étteremben.",
+        "ro": "Începeți ziua în Piața Sárgödör, admirând pivnițele unice. Plimbați-vă prin centrul istoric până la Muzeul Orașului pentru o doză de cultură locală. Arhitectura organică a Bisericii Sfântului Duh vă va impresiona. Savurați prânzul pe Promenada Dunării, cu o priveliște minunată asupra fluviului. După-amiaza, o plimbare la Muzeul Energiei Atomice oferă o perspectivă fascinantă asupra istoriei moderne a orașului Paks. Încheiați seara la un restaurant primitor.",
+        "en": "Start your day at Sárgödör Square, admiring the unique cellars. Stroll through the historic center to the Town Museum for a dose of local culture. The organic architecture of the Holy Spirit Church will impress you. Enjoy lunch on the Danube Promenade with a wonderful view of the river. In the afternoon, a walk to the Atomic Energy Museum offers a fascinating insight into the modern history of Paks. End your evening at a cozy restaurant."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Halászlé (Fischsuppe)",
+            "tip": "Probieren Sie die lokale Variante, die oft mit Nudeln serviert wird, in einer der Csárdas am Donauufer."
+          },
+          {
+            "name": "Túrós Csusza",
+            "tip": "Ein herzhaftes Nudelgericht mit Hüttenkäse und Speck, perfekt nach einem langen Spaziergang."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paksi halászlé",
+            "tip": "Kóstolja meg a helyi, gyufatésztás specialitást az egyik Duna-parti csárdában!"
+          },
+          {
+            "name": "Túrós csusza",
+            "tip": "Kiadós tésztaétel túróval és szalonnapörccel, tökéletes egy hosszú séta után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supă de pește (Halászlé)",
+            "tip": "Încercați versiunea locală, adesea servită cu tăiței, la una dintre csárdele de pe malul Dunării."
+          },
+          {
+            "name": "Túrós Csusza",
+            "tip": "Un fel de mâncare consistent din paste cu brânză de vaci și slănină, perfect după o plimbare lungă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fisherman's Soup (Halászlé)",
+            "tip": "Try the local version, often served with pasta, at one of the inns on the Danube bank."
+          },
+          {
+            "name": "Túrós Csusza",
+            "tip": "A hearty pasta dish with cottage cheese and bacon, perfect after a long walk."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Donauufer",
+            "tip": "Finden Sie eine ruhige Bank am Flussufer und beobachten Sie die vorbeiziehenden Schiffe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ürge-mező Naturschutzgebiet",
+            "tip": "Ein friedlicher Ort, um die einzigartige Flora und Fauna zu genießen, etwas außerhalb der Stadt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Duna-part",
+            "tip": "Keressen egy csendes padot a folyóparton, és nézze a lassan elhaladó hajókat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ürge-mező",
+            "tip": "Békés hely a város szélén, ahol az egyedi növény- és állatvilágban gyönyörködhet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Dunării",
+            "tip": "Găsiți o bancă liniștită pe malul fluviului și priviți navele trecând.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rezervația naturală Ürge-mező",
+            "tip": "Un loc pașnic pentru a vă bucura de flora și fauna unică, chiar în afara orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Danube Bank",
+            "tip": "Find a quiet bench on the riverbank and watch the ships go by.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ürge-mező Nature Reserve",
+            "tip": "A peaceful place to enjoy the unique flora and fauna just outside the city.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Wein",
+            "tip": "Kaufen Sie eine Flasche Wein aus den Kellern am Sárgödör-Platz als Souvenir."
+          },
+          {
+            "name": "Handwerksprodukte",
+            "tip": "Halten Sie im Stadtzentrum Ausschau nach Geschäften, die lokale Töpferwaren und Stickereien verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi bor",
+            "tip": "Vásároljon egy üveg bort a Sárgödör téri pincékből szuvenírként."
+          },
+          {
+            "name": "Kézműves termékek",
+            "tip": "A központban keresse a helyi kerámiákat és hímzéseket árusító üzleteket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin local",
+            "tip": "Cumpărați o sticlă de vin de la pivnițele din Piața Sárgödör ca suvenir."
+          },
+          {
+            "name": "Produse artizanale",
+            "tip": "Căutați în centrul orașului magazine care vând ceramică și broderii locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Wine",
+            "tip": "Buy a bottle of wine from the cellars at Sárgödör Square as a souvenir."
+          },
+          {
+            "name": "Handicrafts",
+            "tip": "Look for shops in the city center selling local pottery and embroidery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie einige Kilometer zurücklegen werden.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind leicht zu Fuß erreichbar.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus.",
+          "Der Spaziergang zum Atomenergiemuseum ist lang; ziehen Sie für diesen Teil ein Taxi oder einen Bus in Betracht."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "A belvárosi látnivalók többsége könnyen elérhető gyalog.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét.",
+          "Az Atomerőmű Múzeumhoz hosszú az út; fontolja meg a taxit vagy buszt erre a szakaszra."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți parcurge câțiva kilometri.",
+          "Majoritatea atracțiilor din centrul orașului sunt ușor accesibile pe jos.",
+          "Verificați în avans programul de funcționare al muzeelor.",
+          "Plimbarea până la Muzeul Energiei Atomice este lungă; luați în considerare un taxi sau autobuz pentru această parte."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be covering a few kilometers.",
+          "Most sights in the city center are within easy walking distance.",
+          "Check the opening hours of the museums in advance.",
+          "The walk to the Atomic Energy Museum is long; consider a taxi or bus for that part."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Sárgödör-Platz",
+            "hu": "Sárgödör tér",
+            "ro": "Piața Sárgödör",
+            "en": "Sárgödör Square"
+          },
+          "coords": [
+            46.6195,
+            18.8592
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Radtour hier, nachdem Sie die Keller bewundert haben.",
+            "hu": "Innen induljon a kerékpártúra, miután megcsodálta a pincéket.",
+            "ro": "Începeți turul cu bicicleta de aici după ce ați admirat pivnițele.",
+            "en": "Start your bike tour from here after admiring the cellars."
+          }
+        },
+        {
+          "name": {
+            "de": "Heilig-Geist-Kirche",
+            "hu": "Szentlélek-templom",
+            "ro": "Biserica Sfântul Duh",
+            "en": "Holy Spirit Church"
+          },
+          "coords": [
+            46.6215,
+            18.8672
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und nehmen Sie sich Zeit, die Architektur zu bewundern.",
+            "hu": "Zárja le a kerékpárt, és szánjon időt az építészeti remekmű megcsodálására.",
+            "ro": "Legați-vă bicicleta și luați-vă timp să admirați arhitectura.",
+            "en": "Lock up your bike and take time to admire the architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Donaupromenade",
+            "hu": "Duna-parti sétány",
+            "ro": "Promenada Dunării",
+            "en": "Danube Promenade"
+          },
+          "coords": [
+            46.6185,
+            18.8721
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie am Fluss entlang und genießen Sie die Aussicht. Hier gibt es viele Plätze zum Mittagessen.",
+            "hu": "Tekerjen végig a folyó mentén, és élvezze a kilátást. Számos ebédelőhely található itt.",
+            "ro": "Pedalați de-a lungul fluviului și bucurați-vă de priveliște. Există multe locuri pentru prânz aici.",
+            "en": "Cycle along the river and enjoy the view. Plenty of spots for lunch here."
+          }
+        },
+        {
+          "name": {
+            "de": "Lussonium (Römisches Kastell)",
+            "hu": "Lussonium (Római erőd)",
+            "ro": "Lussonium (Castru roman)",
+            "en": "Lussonium (Roman Fort)"
+          },
+          "coords": [
+            46.5942,
+            18.9011
+          ],
+          "category": "historical",
+          "arrive_at": "12:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Radtour zu den römischen Ruinen ist eine Reise in die Vergangenheit.",
+            "hu": "A római kori romokhoz vezető kerékpárút egy utazás a múltba.",
+            "ro": "Plimbarea cu bicicleta până la ruinele romane este o călătorie înapoi în timp.",
+            "en": "The bike ride to the Roman ruins is a journey back in time."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Atomenergie",
+            "hu": "Atomerőmű Múzeum",
+            "ro": "Muzeul Energiei Atomice",
+            "en": "Atomic Energy Museum"
+          },
+          "coords": [
+            46.5783,
+            18.8554
+          ],
+          "category": "museums",
+          "arrive_at": "13:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radfahren Sie zum Museum für einen Kontrast zwischen alter und moderner Technologie.",
+            "hu": "Tekerjen el a múzeumig, hogy lássa az ókori és a modern technológia közötti kontrasztot.",
+            "ro": "Pedalați până la muzeu pentru un contrast între tehnologia antică și cea modernă.",
+            "en": "Cycle to the museum for a contrast between ancient and modern technology."
+          }
+        },
+        {
+          "name": {
+            "de": "Ürge-mező Naturschutzgebiet",
+            "hu": "Ürge-mező",
+            "ro": "Rezervația naturală Ürge-mező",
+            "en": "Ürge-mező Nature Reserve"
+          },
+          "coords": [
+            46.6311,
+            18.8325
+          ],
+          "category": "natural features",
+          "arrive_at": "16:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einem entspannten Ausflug in die Natur.",
+            "hu": "Zárja a kerékpártúrát egy pihentető kirándulással a természetben.",
+            "ro": "Încheiați turul cu bicicleta cu o excursie relaxantă în natură.",
+            "en": "End your bike tour with a relaxing trip into nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine Radtour ist ideal, um Paks und seine Umgebung zu erkunden. Beginnen Sie am Sárgödör-Platz, fahren Sie zur beeindruckenden Heilig-Geist-Kirche und dann hinunter zur Donaupromenade für eine entspannte Mittagspause. Am Nachmittag führt Sie die Tour zu den antiken römischen Ruinen von Lussonium, gefolgt von einem Besuch des modernen Atomenergiemuseums. Beenden Sie den Tag mit einer ruhigen Fahrt durch das Ürge-mező Naturschutzgebiet, um die lokale Tierwelt zu beobachten.",
+        "hu": "A kerékpártúra ideális Paks és környékének felfedezésére. Induljon a Sárgödör térről, tekerjen el a lenyűgöző Szentlélek-templomhoz, majd le a Duna-parti sétányra egy pihentető ebédhez. Délután az ókori római Lussonium romjaihoz, majd a modern Atomerőmű Múzeumhoz vezet az út. Zárja a napot egy csendes tekeréssel az Ürge-mezőn, megfigyelve a helyi élővilágot.",
+        "ro": "Un tur cu bicicleta este ideal pentru a explora Paks și împrejurimile sale. Începeți din Piața Sárgödör, mergeți la impresionanta Biserică a Sfântului Duh, apoi coborâți la Promenada Dunării pentru o pauză de prânz relaxantă. După-amiaza, turul vă duce la ruinele romane antice de la Lussonium, urmat de o vizită la modernul Muzeu al Energiei Atomice. Încheiați ziua cu o plimbare liniștită prin Rezervația Naturală Ürge-mező pentru a observa fauna locală.",
+        "en": "A bike tour is ideal for exploring Paks and its surroundings. Start at Sárgödör Square, ride to the impressive Holy Spirit Church, then head down to the Danube Promenade for a relaxing lunch break. In the afternoon, the tour takes you to the ancient Roman ruins of Lussonium, followed by a visit to the modern Atomic Energy Museum. End the day with a quiet ride through the Ürge-mező Nature Reserve to observe local wildlife."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lángos",
+            "tip": "Ein perfekter, schneller Snack für Radfahrer, oft an Ständen in der Nähe der Promenade erhältlich."
+          },
+          {
+            "name": "Gulyásleves",
+            "tip": "Ein nahrhaftes Mittagessen, um Energie für die Nachmittagstour zu tanken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lángos",
+            "tip": "Tökéletes, gyors harapnivaló kerékpárosoknak, gyakran kapható a sétány közelében lévő standoknál."
+          },
+          {
+            "name": "Gulyásleves",
+            "tip": "Tápanyagdús ebéd, hogy energiát gyűjtsön a délutáni túrához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lángos",
+            "tip": "O gustare perfectă și rapidă pentru bicicliști, adesea disponibilă la standurile de lângă promenadă."
+          },
+          {
+            "name": "Supă de gulaș",
+            "tip": "Un prânz hrănitor pentru a vă alimenta pentru turul de după-amiază."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lángos",
+            "tip": "A perfect, quick snack for cyclists, often available at stalls near the promenade."
+          },
+          {
+            "name": "Goulash Soup",
+            "tip": "A nutritious lunch to fuel up for the afternoon ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg entlang der Donau",
+            "tip": "Finden Sie einen ruhigen Abschnitt des Weges, um anzuhalten und die Landschaft zu genießen.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Aussicht von Lussonium",
+            "tip": "Genießen Sie die Ruhe und den weiten Blick über die Landschaft von den antiken Ruinen aus.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Duna-parti kerékpárút",
+            "tip": "Keressen egy csendes szakaszt, ahol megállhat és élvezheti a tájat.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Kilátás Lussoniumból",
+            "tip": "Élvezze a csendet és a tájra nyíló széles kilátást az ókori romoktól.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul Dunării",
+            "tip": "Găsiți o secțiune liniștită a traseului pentru a vă opri și a admira peisajul.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Vedere de la Lussonium",
+            "tip": "Bucurați-vă de liniște și de priveliștea largă asupra peisajului de la ruinele antice.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Danube cycle path",
+            "tip": "Find a quiet section of the path to stop and enjoy the scenery.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "View from Lussonium",
+            "tip": "Enjoy the tranquility and the wide view over the landscape from the ancient ruins.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Suchen Sie nach Bauernmärkten oder kleinen Läden für köstlichen Honig aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Keressen termelői piacokat vagy kis boltokat, ahol finom helyi mézet árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Căutați piețele fermierilor sau magazinele mici pentru miere locală delicioasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Look for farmers' markets or small shops for delicious local honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Stellen Sie sicher, dass Ihr Fahrrad in gutem Zustand ist und bringen Sie ein Schloss mit.",
+          "Einige Wege außerhalb der Stadt können uneben sein.",
+          "Nehmen Sie ausreichend Wasser mit, besonders für die Fahrt nach Lussonium.",
+          "Paks ist relativ flach und daher gut zum Radfahren geeignet."
+        ],
+        "hu": [
+          "Győződjön meg róla, hogy a kerékpárja jó állapotban van, és vigyen magával lakatot.",
+          "A városon kívüli utak némelyike egyenetlen lehet.",
+          "Vigyen elegendő vizet, különösen a Lussoniumhoz vezető útra.",
+          "Paks viszonylag sík, így ideális a kerékpározáshoz."
+        ],
+        "ro": [
+          "Asigurați-vă că bicicleta este în stare bună și aduceți un lacăt.",
+          "Unele poteci din afara orașului pot fi denivelate.",
+          "Luați suficientă apă, mai ales pentru drumul spre Lussonium.",
+          "Paks este relativ plat, fiind excelent pentru ciclism."
+        ],
+        "en": [
+          "Make sure your bike is in good condition and bring a lock.",
+          "Some paths outside the city can be uneven.",
+          "Bring plenty of water, especially for the ride to Lussonium.",
+          "Paks is relatively flat, making it great for cycling."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 21.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Start: Parken am Sárgödör-Platz",
+            "hu": "Klaszter kezdete: Parkolás a Sárgödör térnél",
+            "ro": "Start Cluster: Parcare în Piața Sárgödör",
+            "en": "Cluster Start: Parking at Sárgödör Square"
+          },
+          "coords": [
+            46.6195,
+            18.8592
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein guter Ausgangspunkt mit Parkmöglichkeiten. Erkunden Sie diesen Cluster zu Fuß.",
+            "hu": "Jó kiindulópont parkolási lehetőséggel. Fedezze fel ezt a klasztert gyalog!",
+            "ro": "Un bun punct de plecare cu parcare. Explorați acest cluster pe jos.",
+            "en": "A good starting point with parking available. Explore this cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Paks",
+            "hu": "Városi Múzeum Paks",
+            "ro": "Muzeul Orășenesc Paks",
+            "en": "Paks Town Museum"
+          },
+          "coords": [
+            46.618,
+            18.8631
+          ],
+          "category": "museums",
+          "arrive_at": "09:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz, um in die lokale Geschichte einzutauchen.",
+            "hu": "Rövid séta a térről, hogy elmerüljön a helytörténetben.",
+            "ro": "O scurtă plimbare din piață pentru a vă cufunda în istoria locală.",
+            "en": "A short walk from the square to dive into local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Heilig-Geist-Kirche",
+            "hu": "Szentlélek-templom",
+            "ro": "Biserica Sfântul Duh",
+            "en": "Holy Spirit Church"
+          },
+          "coords": [
+            46.6215,
+            18.8672
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie zu diesem architektonischen Wunder, bevor Sie zum Auto zurückkehren.",
+            "hu": "Sétáljon el ehhez az építészeti csodához, mielőtt visszatérne az autóhoz.",
+            "ro": "Mergeți pe jos la această minune arhitecturală înainte de a vă întoarce la mașină.",
+            "en": "Walk to this architectural wonder before heading back to the car."
+          }
+        },
+        {
+          "name": {
+            "de": "Nächster Cluster: Lussonium (Römisches Kastell)",
+            "hu": "Következő klaszter: Lussonium (Római erőd)",
+            "ro": "Următorul Cluster: Lussonium (Castru roman)",
+            "en": "Next Cluster: Lussonium (Roman Fort)"
+          },
+          "coords": [
+            46.5942,
+            18.9011
+          ],
+          "category": "historical",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 4.6,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem abgelegenen Ort und erkunden Sie die alten römischen Ruinen.",
+            "hu": "Vezessen el erre a távoli helyre, és fedezze fel az ókori római romokat.",
+            "ro": "Conduceți până la această locație îndepărtată și explorați ruinele romane antice.",
+            "en": "Drive to this remote location and explore the ancient Roman ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Donaupromenade für das Mittagessen",
+            "hu": "Duna-parti sétány ebédre",
+            "ro": "Promenada Dunării pentru prânz",
+            "en": "Danube Promenade for Lunch"
+          },
+          "coords": [
+            46.6185,
+            18.8721
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zurück ins Stadtzentrum und parken Sie in der Nähe der Promenade für eine Mahlzeit am Fluss.",
+            "hu": "Vezessen vissza a városközpontba, és parkoljon a sétány közelében egy folyóparti ebédhez.",
+            "ro": "Conduceți înapoi în centrul orașului și parcați lângă promenadă pentru o masă pe malul fluviului.",
+            "en": "Drive back to the city center and park near the promenade for a riverside meal."
+          }
+        },
+        {
+          "name": {
+            "de": "Letzter Cluster: Museum für Atomenergie",
+            "hu": "Utolsó klaszter: Atomerőmű Múzeum",
+            "ro": "Ultimul Cluster: Muzeul Energiei Atomice",
+            "en": "Final Cluster: Atomic Energy Museum"
+          },
+          "coords": [
+            46.5783,
+            18.8554
+          ],
+          "category": "museums",
+          "arrive_at": "15:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt zum Kraftwerk für einen Einblick in die industrielle Seite von Paks.",
+            "hu": "Rövid autóút az erőműhöz, hogy bepillantást nyerjen Paks ipari oldalába.",
+            "ro": "O scurtă călătorie cu mașina până la centrală pentru o privire asupra laturii industriale a orașului Paks.",
+            "en": "A short drive to the power plant for a glimpse into Paks's industrial side."
+          }
+        },
+        {
+          "name": {
+            "de": "Ürge-mező Naturschutzgebiet",
+            "hu": "Ürge-mező",
+            "ro": "Rezervația naturală Ürge-mező",
+            "en": "Ürge-mező Nature Reserve"
+          },
+          "coords": [
+            46.6311,
+            18.8325
+          ],
+          "category": "natural features",
+          "arrive_at": "17:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein optionaler letzter Halt, um den Tag in der Natur ausklingen zu lassen.",
+            "hu": "Opcionális utolsó megálló, hogy a természetben zárja a napot.",
+            "ro": "O ultimă oprire opțională pentru a încheia ziua în natură.",
+            "en": "An optional final stop to end the day surrounded by nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie die vielfältigen Attraktionen von Paks effizient erkunden. Parken Sie im Zentrum, um den historischen Sárgödör-Platz und die beeindruckende Makovecz-Kirche zu Fuß zu entdecken. Fahren Sie dann zu den römischen Ruinen von Lussonium für eine Dosis alter Geschichte. Kehren Sie für ein Mittagessen mit Blick auf die Donau ins Zentrum zurück. Der Nachmittag ist der modernen Technologie im Atomenergiemuseum gewidmet. Ein kurzer Abstecher zum Ürge-mező Naturschutzgebiet rundet den Tag ab.",
+        "hu": "Autóval hatékonyan fedezheti fel Paks változatos látnivalóit. Parkoljon a központban, és gyalog fedezze fel a történelmi Sárgödör teret és a lenyűgöző Makovecz-templomot. Ezután vezessen el a római Lussonium romjaihoz egy adag ókori történelemért. Térjen vissza a központba egy Duna-parti ebédre. A délután a modern technológiáé az Atomerőmű Múzeumban. A napot egy rövid kitérő zárja az Ürge-mezőn.",
+        "ro": "Cu mașina, puteți explora eficient atracțiile diverse ale orașului Paks. Parcați în centru pentru a descoperi pe jos Piața istorică Sárgödör și impresionanta biserică Makovecz. Apoi, conduceți la ruinele romane de la Lussonium pentru o doză de istorie antică. Întoarceți-vă în centru pentru un prânz cu vedere la Dunăre. După-amiaza este dedicată tehnologiei moderne la Muzeul Energiei Atomice. O scurtă ocolire la Rezervația Naturală Ürge-mező încheie ziua.",
+        "en": "By car, you can efficiently explore the diverse attractions of Paks. Park in the center to discover the historic Sárgödör Square and the impressive Makovecz church on foot. Then, drive to the Roman ruins of Lussonium for a dose of ancient history. Return to the center for a riverside lunch on the Danube. The afternoon is dedicated to modern technology at the Atomic Energy Museum. A quick detour to the Ürge-mező Nature Reserve completes the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Csárda-Spezialitäten",
+            "tip": "Nutzen Sie das Auto, um eine traditionelle Csárda etwas außerhalb der Stadt für ein authentisches ungarisches Essen zu besuchen."
+          },
+          {
+            "name": "Kürtőskalács (Baumstriezel)",
+            "tip": "Halten Sie Ausschau nach Ständen, die diesen süßen Leckerbissen verkaufen, besonders bei Veranstaltungen oder am Wochenende."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csárda specialitások",
+            "tip": "Használja ki az autót, és látogasson el egy hagyományos, város széli csárdába egy autentikus magyar vacsoráért."
+          },
+          {
+            "name": "Kürtőskalács",
+            "tip": "Keresse azokat a standokat, ahol ezt az édes finomságot árulják, különösen rendezvényeken vagy hétvégén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Specialități la Csárda",
+            "tip": "Folosiți mașina pentru a vizita o csárdă tradițională la periferia orașului pentru o masă maghiară autentică."
+          },
+          {
+            "name": "Kürtőskalács",
+            "tip": "Fiți atenți la standurile care vând acest deliciu dulce, mai ales la evenimente sau în weekend."
+          }
+        ],
+        "en": [
+          {
+            "name": "Csárda Specialties",
+            "tip": "Use the car to visit a traditional csárda just outside the city for an authentic Hungarian meal."
+          },
+          {
+            "name": "Kürtőskalács (Chimney Cake)",
+            "tip": "Keep an eye out for stalls selling this sweet treat, especially during events or on weekends."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ürge-mező bei Sonnenuntergang",
+            "tip": "Fahren Sie am späten Nachmittag dorthin, um die friedliche Atmosphäre zu genießen, wenn das Licht weich wird.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Abgelegene Stelle am Donauufer",
+            "tip": "Fahren Sie ein Stück aus der Stadt heraus entlang des Flusses, um einen ruhigen Ort zum Entspannen zu finden.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ürge-mező naplementekor",
+            "tip": "Hajtson ki késő délután, hogy élvezze a békés hangulatot a lágyuló fényekben.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Elhagyatott Duna-parti szakasz",
+            "tip": "Vezessen ki a városból a folyó mentén, hogy találjon egy csendes, pihenésre alkalmas helyet.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ürge-mező la apus",
+            "tip": "Conduceți acolo după-amiaza târziu pentru a vă bucura de atmosfera pașnică în lumina blândă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Loc retras pe malul Dunării",
+            "tip": "Conduceți puțin în afara orașului de-a lungul fluviului pentru a găsi un loc liniștit pentru relaxare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ürge-mező at sunset",
+            "tip": "Drive there in the late afternoon to enjoy the peaceful atmosphere as the light softens.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Secluded spot on the Danube bank",
+            "tip": "Drive a little way out of town along the river to find a quiet spot to relax.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Paks-Souvenirs",
+            "tip": "Besuchen Sie das Souvenirgeschäft im Atomenergiemuseum für einzigartige Erinnerungsstücke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paksi ajándéktárgyak",
+            "tip": "Látogasson el az Atomerőmű Múzeum ajándékboltjába egyedi emléktárgyakért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri din Paks",
+            "tip": "Vizitați magazinul de suveniruri de la Muzeul Energiei Atomice pentru amintiri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Paks Souvenirs",
+            "tip": "Visit the gift shop at the Atomic Energy Museum for unique memorabilia."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Parkmöglichkeiten und -gebühren im Voraus.",
+          "Ein GPS ist nützlich, um Orte wie Lussonium zu finden.",
+          "Die Cluster-Walking-Methode spart Zeit und Parkplatzsuche.",
+          "Planen Sie für das Fahren zwischen den Clustern genügend Zeit ein."
+        ],
+        "hu": [
+          "Előre tájékozódjon a parkolási lehetőségekről és díjakról.",
+          "GPS hasznos lehet az olyan helyek megtalálásához, mint Lussonium.",
+          "A klaszteres-sétálós módszer időt és parkolóhely-keresést takarít meg.",
+          "Tervezzen elegendő időt a klaszterek közötti autózásra."
+        ],
+        "ro": [
+          "Verificați din timp opțiunile de parcare și taxele.",
+          "Un GPS este util pentru a găsi locații precum Lussonium.",
+          "Metoda de plimbare în cluster economisește timp și bătăi de cap cu parcarea.",
+          "Planificați suficient timp pentru a conduce între clustere."
+        ],
+        "en": [
+          "Check parking options and fees in advance.",
+          "A GPS is useful for finding locations like Lussonium.",
+          "The cluster-walking method saves time and parking hassles.",
+          "Plan enough time for driving between clusters."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Stadtzentrum",
+            "hu": "A. klaszter: Városközpont",
+            "ro": "Cluster A: Centrul orașului",
+            "en": "Cluster A: City Center"
+          },
+          "coords": [
+            46.6199,
+            18.8688
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie an einer zentralen Bushaltestelle in der Nähe des Erzsébet Hotels.",
+            "hu": "Kezdje egy központi buszmegállónál az Erzsébet Szálloda közelében.",
+            "ro": "Începeți la o stație de autobuz centrală, lângă Hotelul Erzsébet.",
+            "en": "Start at a central bus stop near the Erzsébet Hotel."
+          }
+        },
+        {
+          "name": {
+            "de": "Heilig-Geist-Kirche",
+            "hu": "Szentlélek-templom",
+            "ro": "Biserica Sfântul Duh",
+            "en": "Holy Spirit Church"
+          },
+          "coords": [
+            46.6215,
+            18.8672
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang zu diesem architektonischen Juwel.",
+            "hu": "Rövid séta ehhez az építészeti gyöngyszemhez.",
+            "ro": "O scurtă plimbare până la această bijuterie arhitecturală.",
+            "en": "A short walk to this architectural gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Paks",
+            "hu": "Városi Múzeum Paks",
+            "ro": "Muzeul Orășenesc Paks",
+            "en": "Paks Town Museum"
+          },
+          "coords": [
+            46.618,
+            18.8631
+          ],
+          "category": "museums",
+          "arrive_at": "10:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie zurück durch das Zentrum, um mehr über die Vergangenheit der Stadt zu erfahren.",
+            "hu": "Sétáljon vissza a központon keresztül, hogy többet tudjon meg a város múltjáról.",
+            "ro": "Mergeți înapoi prin centru pentru a afla despre trecutul orașului.",
+            "en": "Walk back through the center to learn about the city's past."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Donauufer",
+            "hu": "B. klaszter: Duna-part",
+            "ro": "Cluster B: Malul Dunării",
+            "en": "Cluster B: Danube Bank"
+          },
+          "coords": [
+            46.6185,
+            18.8721
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:59",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus zur Promenade für das Mittagessen.",
+            "hu": "Menjen helyi busszal a sétányra ebédelni.",
+            "ro": "Luați un autobuz local până la promenadă pentru prânz.",
+            "en": "Take a local bus to the promenade for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Atomkraft",
+            "hu": "C. klaszter: Atomenergia",
+            "ro": "Cluster C: Energie Atomică",
+            "en": "Cluster C: Atomic Power"
+          },
+          "coords": [
+            46.5783,
+            18.8554
+          ],
+          "category": "museums",
+          "arrive_at": "14:14",
+          "stay_min": 120,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 9,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die Busfahrt zum Museum ist eine kleine Reise für sich.",
+            "hu": "A buszozás a múzeumhoz önmagában is egy kisebb utazás.",
+            "ro": "Călătoria cu autobuzul până la muzeu este o mică excursie în sine.",
+            "en": "The bus ride to the museum is a small journey in itself."
+          }
+        },
+        {
+          "name": {
+            "de": "Sárgödör-Platz zum Abschluss",
+            "hu": "Sárgödör tér a befejezéshez",
+            "ro": "Piața Sárgödör pentru încheiere",
+            "en": "Sárgödör Square to Finish"
+          },
+          "coords": [
+            46.6195,
+            18.8592
+          ],
+          "category": "historical",
+          "arrive_at": "16:39",
+          "stay_min": 56,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zurück und beenden Sie den Tag an den malerischen Weinkellern.",
+            "hu": "Buszozzon vissza, és fejezze be a napot a festői pincéknél.",
+            "ro": "Luați un autobuz înapoi și încheiați ziua la pivnițele pitorești.",
+            "en": "Take a bus back and finish the day at the picturesque wine cellars."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln können Sie Paks wie ein Einheimischer erleben. Beginnen Sie im Zentrum und erkunden Sie die wichtigsten Sehenswürdigkeiten zu Fuß. Nehmen Sie dann einen Bus zur Donaupromenade für ein entspanntes Mittagessen. Eine längere Busfahrt am Nachmittag bringt Sie zum faszinierenden Museum für Atomenergie. Beenden Sie Ihren Tag, indem Sie mit dem Bus zurück zum Sárgödör-Platz fahren, um die einzigartige Atmosphäre der Weinkeller bei Sonnenuntergang zu genießen.",
+        "hu": "A tömegközlekedéssel úgy ismerheti meg Paksot, mint egy helyi. Kezdje a központban, és fedezze fel gyalog a fő látnivalókat. Ezután buszozzon el a Duna-parti sétányra egy pihentető ebédért. Egy hosszabb délutáni buszút elviszi a lenyűgöző Atomerőmű Múzeumba. Zárja a napot a Sárgödör térre visszabuszozva, hogy naplementekor élvezhesse a pincék egyedi hangulatát.",
+        "ro": "Folosind transportul public, puteți experimenta Paks ca un localnic. Începeți în centru și explorați principalele atracții pe jos. Apoi, luați un autobuz până la Promenada Dunării pentru un prânz relaxant. O călătorie mai lungă cu autobuzul după-amiaza vă va duce la fascinantul Muzeu al Energiei Atomice. Încheiați ziua luând autobuzul înapoi în Piața Sárgödör pentru a vă bucura de atmosfera unică a pivnițelor la apus.",
+        "en": "Using public transit allows you to experience Paks like a local. Start in the center and explore the main sights on foot. Then, take a bus to the Danube Promenade for a relaxing lunch. A longer bus ride in the afternoon will take you to the fascinating Atomic Energy Museum. End your day by taking a bus back to Sárgödör Square to enjoy the unique atmosphere of the wine cellars at sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Péksütemény (Gebäck)",
+            "tip": "Holen Sie sich ein süßes oder herzhaftes Gebäck von einer lokalen Bäckerei für eine schnelle Mahlzeit unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Péksütemény",
+            "tip": "Vegyen egy édes vagy sós péksüteményt egy helyi pékségből egy gyors, útközbeni étkezéshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse de patiserie (Péksütemény)",
+            "tip": "Luați un produs de patiserie dulce sau sărat de la o brutărie locală pentru o masă rapidă din mers."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pastries (Péksütemény)",
+            "tip": "Grab a sweet or savory pastry from a local bakery for a quick meal on the go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blick aus dem Busfenster",
+            "tip": "Die Fahrt zum Atomkraftwerk bietet einen anderen Blick auf die Stadt und ihre Umgebung.",
+            "emoji": "🚌"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a busz ablakából",
+            "tip": "Az atomerőműhöz vezető út más perspektívát nyújt a városra és környékére.",
+            "emoji": "🚌"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Privind pe geamul autobuzului",
+            "tip": "Călătoria spre centrala atomică oferă o perspectivă diferită asupra orașului și a împrejurimilor sale.",
+            "emoji": "🚌"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the bus window",
+            "tip": "The ride to the atomic plant offers a different perspective on the city and its surroundings.",
+            "emoji": "🚌"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Fragen Sie nach dem Markttag, um lokale Produkte und das tägliche Leben zu erleben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Érdeklődjön a piacnap felől, hogy megtapasztalja a helyi termékeket és a mindennapi életet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Întrebați despre ziua de piață pentru a experimenta produsele locale și viața de zi cu zi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Ask about the market day to experience local produce and daily life."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Besorgen Sie sich einen Fahrplan für die lokalen Busse oder nutzen Sie eine ÖPNV-App.",
+          "Eine Tageskarte könnte günstiger sein, wenn Sie mehrere Fahrten planen.",
+          "Beachten Sie die Abfahrtszeiten, besonders für die letzte Fahrt des Tages.",
+          "Die Cluster-Walking-Strategie funktioniert auch gut mit öffentlichen Verkehrsmitteln."
+        ],
+        "hu": [
+          "Szerezzen be egy helyi buszmenetrendet, vagy használjon egy tömegközlekedési alkalmazást.",
+          "Egy napijegy olcsóbb lehet, ha több utat tervez.",
+          "Vegye figyelembe az indulási időket, különösen a nap utolsó járatánál.",
+          "A klaszteres-sétálós stratégia tömegközlekedéssel is jól működik."
+        ],
+        "ro": [
+          "Obțineți un orar al autobuzelor locale sau folosiți o aplicație de transport public.",
+          "Un abonament de o zi poate fi mai ieftin dacă planificați mai multe călătorii.",
+          "Fiți atenți la orele de plecare, în special pentru ultima cursă a zilei.",
+          "Strategia de plimbare în cluster funcționează bine și cu transportul public."
+        ],
+        "en": [
+          "Get a local bus schedule or use a public transport app.",
+          "A day pass might be cheaper if you plan multiple trips.",
+          "Be mindful of departure times, especially for the last service of the day.",
+          "The cluster-walking strategy works well with public transit too."
+        ]
+      }
+    }
+  }
+}

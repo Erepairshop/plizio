@@ -1,0 +1,1412 @@
+{
+  "city_id": "austria-kapfenberg-cities-v2",
+  "anchor": {
+    "name": "Kapfenberg",
+    "coords": [
+      15.2889,
+      47.4436
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 3.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptplatz & Altes Rathaus",
+            "hu": "Főtér és Régi Városháza",
+            "ro": "Piața Principală și Primăria Veche",
+            "en": "Main Square & Old Town Hall"
+          },
+          "coords": [
+            15.288,
+            47.443
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Kaffee in einem der Cafés am Platz und bewundern Sie die historischen Fassaden.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában, és csodálja meg a történelmi homlokzatokat.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață și admirați fațadele istorice.",
+            "en": "Start your day with a coffee at one of the square's cafes and admire the historic facades."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Oswald",
+            "hu": "Szent Oszvald plébániatemplom",
+            "ro": "Biserica parohială Sf. Oswald",
+            "en": "Parish Church of St. Oswald"
+          },
+          "coords": [
+            15.2895,
+            47.4445
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden Deckenfresken und den kunstvollen Hochaltar.",
+            "hu": "Figyelje meg a lenyűgöző mennyezeti freskókat és a díszes főoltárt.",
+            "ro": "Fiți atenți la frescele impresionante de pe tavan și la altarul principal elaborat.",
+            "en": "Pay attention to the impressive ceiling frescoes and the ornate high altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum",
+            "hu": "Kulturális Központ",
+            "ro": "Centrul Cultural",
+            "en": "Cultural Centre"
+          },
+          "coords": [
+            15.292,
+            47.4425
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie das aktuelle Programm, vielleicht gibt es eine interessante Ausstellung oder Veranstaltung.",
+            "hu": "Ellenőrizze az aktuális programot, talán van egy érdekes kiállítás vagy esemény.",
+            "ro": "Verificați programul actual, s-ar putea să existe o expoziție sau un eveniment interesant.",
+            "en": "Check the current program, there might be an interesting exhibition or event."
+          }
+        },
+        {
+          "name": {
+            "de": "Roseggerpark",
+            "hu": "Rosegger park",
+            "ro": "Parcul Rosegger",
+            "en": "Rosegger Park"
+          },
+          "coords": [
+            15.291,
+            47.442
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein idealer Ort für eine Mittagspause im Grünen. Packen Sie ein kleines Picknick ein.",
+            "hu": "Ideális hely egy ebédszünetre a zöldben. Csomagoljon egy kis pikniket.",
+            "ro": "Un loc ideal pentru o pauză de prânz în natură. Luați cu voi un mic picnic.",
+            "en": "An ideal spot for a lunch break amidst greenery. Pack a small picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Mürzufer-Promenade",
+            "hu": "Mürz-parti sétány",
+            "ro": "Promenada de pe malul Mürz",
+            "en": "Mürz River Promenade"
+          },
+          "coords": [
+            15.289,
+            47.441
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannender Spaziergang entlang des Flusses, um die Seele baumeln zu lassen.",
+            "hu": "Egy pihentető séta a folyó mentén, hogy kikapcsolódjon.",
+            "ro": "O plimbare relaxantă de-a lungul râului pentru a vă limpezi mintea.",
+            "en": "A relaxing walk along the river to unwind."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Oberkapfenberg",
+            "hu": "Oberkapfenberg vára",
+            "ro": "Castelul Oberkapfenberg",
+            "en": "Oberkapfenberg Castle"
+          },
+          "coords": [
+            15.296,
+            47.451
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 1.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Aufstieg ist steil, aber die Aussicht und die Greifvogelschau sind die Mühe wert. Planen Sie Zeit für die Show ein.",
+            "hu": "Az emelkedő meredek, de a kilátás és a ragadozómadár-bemutató megéri a fáradságot. Szánjon időt a bemutatóra.",
+            "ro": "Urcușul este abrupt, dar priveliștea și spectacolul cu păsări de pradă merită efortul. Planificați timp pentru spectacol.",
+            "en": "The climb is steep, but the view and the bird of prey show are worth the effort. Plan time for the show."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am belebten Hauptplatz, dem Herzen von Kapfenberg. Nach der Besichtigung der nahen St.-Oswald-Kirche führt Sie ein kurzer Spaziergang zum Kulturzentrum und in den ruhigen Roseggerpark. Der Nachmittag steht im Zeichen eines Spaziergangs entlang der Mürz und des Aufstiegs zur majestätischen Burg Oberkapfenberg. Der anspruchsvolle, aber lohnende Weg bietet einen Einblick in die Natur, die die Stadt umgibt. Der Abend klingt mit dem Panoramablick von der Burg aus, während die Lichter der Stadt zu leuchten beginnen.",
+        "hu": "Kezdje a napot a nyüzsgő Főtéren, Kapfenberg szívében. A közeli Szent Oszvald-templom megtekintése után egy rövid séta vezet a Kulturális Központhoz és a csendes Rosegger parkba. A délután a Mürz menti sétáról és a fenséges Oberkapfenberg várához való felkapaszkodásról szól. A kihívást jelentő, de hálás út bepillantást nyújt a várost körülvevő természetbe. Az estét a várból nyíló panorámában gyönyörködve zárja, miközben a város fényei kigyúlnak.",
+        "ro": "Începeți ziua în Piața Principală, inima orașului Kapfenberg. După vizitarea bisericii Sf. Oswald din apropiere, o scurtă plimbare vă va duce la Centrul Cultural și la liniștitul Parc Rosegger. După-amiaza este dedicată unei plimbări de-a lungul râului Mürz și urcării la majestuosul Castel Oberkapfenberg. Traseul provocator, dar plin de satisfacții, oferă o perspectivă asupra naturii care înconjoară orașul. Seara se încheie admirând priveliștea panoramică de la castel, în timp ce luminile orașului încep să sclipească.",
+        "en": "Start your day in the bustling Main Square, the heart of Kapfenberg. After visiting the nearby St. Oswald's Church, a short walk takes you to the Cultural Centre and the tranquil Rosegger Park. The afternoon is dedicated to a walk along the Mürz River and the ascent to the majestic Oberkapfenberg Castle. The challenging but rewarding path offers a glimpse into the nature surrounding the city. The evening concludes with the panoramic view from the castle as the city lights begin to glow."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Steirisches Wurzelfleisch",
+            "tip": "Ein deftiger Klassiker aus Schweinefleisch und Wurzelgemüse. Probieren Sie es im Gasthof „Zur alten Post“."
+          },
+          {
+            "name": "Käferbohnensalat",
+            "tip": "Ein erfrischender Salat mit steirischen Käferbohnen und Kernöl. Perfekt als leichte Mahlzeit."
+          },
+          {
+            "name": "Apfelstrudel",
+            "tip": "Ein süßer Abschluss mit warmem Apfelstrudel und Vanillesauce in einem der Cafés am Hauptplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stájer gyökérhús (Wurzelfleisch)",
+            "tip": "Kiadós klasszikus sertéshúsból és gyökérzöldségekből. Kóstolja meg a „Zur alten Post” fogadóban."
+          },
+          {
+            "name": "Tarkabab saláta",
+            "tip": "Frissítő saláta stájer tarkababból és tökmagolajjal. Tökéletes könnyű ételként."
+          },
+          {
+            "name": "Almásrétes",
+            "tip": "Édes befejezés meleg almásrétessel és vaníliaszósszal a Főtér egyik kávézójában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Wurzelfleisch stirian",
+            "tip": "Un fel de mâncare clasic consistent, din carne de porc și legume rădăcinoase. Încercați-l la hanul „Zur alten Post”."
+          },
+          {
+            "name": "Salată de fasole Käferbohnen",
+            "tip": "O salată răcoritoare cu fasole stiriană și ulei de dovleac. Perfectă ca o masă ușoară."
+          },
+          {
+            "name": "Strudel cu mere",
+            "tip": "Un final dulce cu strudel cald de mere și sos de vanilie la una dintre cafenelele din Piața Principală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Styrian Wurzelfleisch (Root Meat)",
+            "tip": "A hearty classic made from pork and root vegetables. Try it at the 'Zur alten Post' inn."
+          },
+          {
+            "name": "Scarlet Runner Bean Salad",
+            "tip": "A refreshing salad with Styrian scarlet runner beans and pumpkin seed oil. Perfect as a light meal."
+          },
+          {
+            "name": "Apple Strudel",
+            "tip": "A sweet finish with warm apple strudel and vanilla sauce in one of the cafes on the Main Square."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Mürz",
+            "tip": "Finden Sie eine ruhige Bank am Flussufer und lauschen Sie dem Plätschern des Wassers.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Roseggerpark",
+            "tip": "Abseits der Hauptwege finden sich stille Ecken zum Lesen oder Entspannen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Burg Oberkapfenberg (Abend)",
+            "tip": "Nachdem die meisten Besucher gegangen sind, bietet die Burg eine friedliche Atmosphäre mit toller Aussicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mürz folyó partja",
+            "tip": "Keressen egy csendes padot a folyóparton, és hallgassa a víz csobogását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rosegger park",
+            "tip": "A fő utaktól távol csendes zugokat talál olvasáshoz vagy pihenéshez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Oberkapfenberg vára (este)",
+            "tip": "Miután a legtöbb látogató elment, a vár békés hangulatot és nagyszerű kilátást kínál.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Mürz",
+            "tip": "Găsiți o bancă liniștită pe malul râului și ascultați susurul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Rosegger",
+            "tip": "Departe de aleile principale, veți găsi colțuri liniștite pentru citit sau relaxare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Castelul Oberkapfenberg (seara)",
+            "tip": "După plecarea majorității vizitatorilor, castelul oferă o atmosferă pașnică și o priveliște minunată.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Mürz River",
+            "tip": "Find a quiet bench on the riverbank and listen to the sound of the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rosegger Park",
+            "tip": "Away from the main paths, you'll find quiet corners for reading or relaxing.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Oberkapfenberg Castle (Evening)",
+            "tip": "After most visitors have left, the castle offers a peaceful atmosphere with a great view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Wenn Sie an einem Markttag da sind, finden Sie lokale Produkte und Handwerk am Hauptplatz."
+          },
+          {
+            "name": "Steirisches Kernöl",
+            "tip": "Ein Muss als Souvenir. Suchen Sie nach kleinen, lokalen Produzenten in den Feinkostläden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Ha piacnapon van ott, helyi termékeket és kézműves árukat talál a Főtéren."
+          },
+          {
+            "name": "Stájer tökmagolaj",
+            "tip": "Kötelező szuvenír. Keresse a kis, helyi termelőket a csemegeboltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Dacă sunteți acolo într-o zi de piață, veți găsi produse locale și artizanat în Piața Principală."
+          },
+          {
+            "name": "Ulei de dovleac stirian",
+            "tip": "Un suvenir obligatoriu. Căutați micii producători locali în magazinele de delicatese."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "If you're there on a market day, you'll find local produce and crafts on the Main Square."
+          },
+          {
+            "name": "Styrian Pumpkin Seed Oil",
+            "tip": "A must-have souvenir. Look for small, local producers in the delicacy shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, besonders für den Aufstieg zur Burg.",
+          "Der Weg zur Burg ist nicht barrierefrei.",
+          "Prüfen Sie die Zeiten der Greifvogelschau auf der Burg im Voraus.",
+          "Eine Wasserflasche ist für den Spaziergang unerlässlich."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, különösen a várhoz való feljutáshoz.",
+          "A várhoz vezető út nem akadálymentesített.",
+          "Előre ellenőrizze a ragadozómadár-bemutató időpontjait a várban.",
+          "A sétához elengedhetetlen egy vizes palack."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, în special pentru urcarea la castel.",
+          "Calea către castel nu este accesibilă scaunelor cu rotile.",
+          "Verificați din timp orele spectacolului cu păsări de pradă de la castel.",
+          "O sticlă de apă este esențială pentru plimbare."
+        ],
+        "en": [
+          "Wear comfortable shoes, especially for the climb to the castle.",
+          "The path to the castle is not wheelchair accessible.",
+          "Check the times of the bird of prey show at the castle in advance.",
+          "A water bottle is essential for the walk."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptplatz",
+            "hu": "Főtér",
+            "ro": "Piața Principală",
+            "en": "Main Square"
+          },
+          "coords": [
+            15.288,
+            47.443
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekter Ausgangspunkt. Schließen Sie Ihr Rad sicher ab, um den Platz zu Fuß zu erkunden.",
+            "hu": "Tökéletes kiindulópont. Zárja le biztonságosan a kerékpárját, hogy gyalog fedezze fel a teret.",
+            "ro": "Punct de plecare perfect. Asigurați-vă bicicleta pentru a explora piața pe jos.",
+            "en": "Perfect starting point. Lock your bike securely to explore the square on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Oswald",
+            "hu": "Szent Oszvald plébániatemplom",
+            "ro": "Biserica parohială Sf. Oswald",
+            "en": "Parish Church of St. Oswald"
+          },
+          "coords": [
+            15.2895,
+            47.4445
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:42",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt vom Hauptplatz entfernt. Nehmen Sie sich einen Moment Zeit für die Stille im Inneren.",
+            "hu": "Rövid út a Főtértől. Szánjon egy percet a benti csendre.",
+            "ro": "La o scurtă plimbare cu bicicleta de Piața Principală. Acordați-vă un moment de liniște în interior.",
+            "en": "A short ride from the Main Square. Take a moment for the silence inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Mürzufer-Promenade",
+            "hu": "Mürz-parti sétány",
+            "ro": "Promenada de pe malul Mürz",
+            "en": "Mürz River Promenade"
+          },
+          "coords": [
+            15.289,
+            47.441
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:18",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Radweg entlang des Flusses ist flach und ideal für eine gemütliche Fahrt.",
+            "hu": "A folyó menti kerékpárút sík és ideális egy kényelmes tekeréshez.",
+            "ro": "Pista de biciclete de-a lungul râului este plată și ideală pentru o plimbare relaxantă.",
+            "en": "The cycle path along the river is flat and ideal for a leisurely ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Roseggerpark",
+            "hu": "Rosegger park",
+            "ro": "Parcul Rosegger",
+            "en": "Rosegger Park"
+          },
+          "coords": [
+            15.291,
+            47.442
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:21",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein guter Ort, um eine Pause einzulegen und die Batterien für den Anstieg zur Burg aufzuladen.",
+            "hu": "Jó hely egy kis szünetre és az akkumulátorok feltöltésére a várhoz való emelkedő előtt.",
+            "ro": "Un loc bun pentru a lua o pauză și a vă reîncărca bateriile pentru urcarea la castel.",
+            "en": "A good place to take a break and recharge your batteries for the climb to the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Oberkapfenberg",
+            "hu": "Oberkapfenberg vára",
+            "ro": "Castelul Oberkapfenberg",
+            "en": "Oberkapfenberg Castle"
+          },
+          "coords": [
+            15.296,
+            47.451
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:18",
+          "stay_min": 120,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Anstieg ist eine Herausforderung, aber mit dem Rad machbar. Oben gibt es eine Belohnung in der Burgtaverne.",
+            "hu": "Az emelkedő kihívást jelent, de kerékpárral teljesíthető. Fent jutalom vár a vártavernában.",
+            "ro": "Urcarea este o provocare, dar realizabilă cu bicicleta. Sus vă așteaptă o recompensă la taverna castelului.",
+            "en": "The climb is a challenge, but manageable by bike. A reward awaits at the castle tavern at the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Rettenwandhöhle",
+            "hu": "Rettenwand-barlang",
+            "ro": "Peștera Rettenwand",
+            "en": "Rettenwand Cave"
+          },
+          "coords": [
+            15.33,
+            47.46
+          ],
+          "category": "natural features",
+          "arrive_at": "15:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 8.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine längere, aber landschaftlich reizvolle Fahrt von der Burg. Prüfen Sie die Öffnungszeiten der Höhle.",
+            "hu": "Hosszabb, de festői út a vártól. Ellenőrizze a barlang nyitvatartási idejét.",
+            "ro": "O plimbare mai lungă, dar pitorească de la castel. Verificați orele de deschidere ale peșterii.",
+            "en": "A longer but scenic ride from the castle. Check the cave's opening hours."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und starten Sie am Hauptplatz. Die Route führt Sie schnell zur St.-Oswald-Kirche, bevor Sie eine entspannte Fahrt entlang der Mürz genießen. Nach einer Pause im Roseggerpark nehmen Sie den sportlichen Anstieg zur Burg Oberkapfenberg in Angriff, wo Sie mit einer grandiosen Aussicht und einer langen Mittagspause belohnt werden. Am Nachmittag führt eine längere, malerische Tour durch die Landschaft zur faszinierenden Rettenwandhöhle. Der Tag endet mit der Erkundung der unterirdischen Welt, bevor Sie zurück in die Stadt radeln.",
+        "hu": "Pattanjon kerékpárra és induljon a Főtérről. Az útvonal gyorsan elviszi a Szent Oszvald-templomhoz, mielőtt egy pihentető tekerést élvezne a Mürz mentén. A Rosegger parkban tartott szünet után vágjon neki a sportos emelkedőnek Oberkapfenberg várához, ahol grandiózus kilátás és egy hosszú ebédszünet a jutalma. Délután egy hosszabb, festői túra vezet a tájon keresztül a lenyűgöző Rettenwand-barlanghoz. A nap a föld alatti világ felfedezésével zárul, mielőtt visszatekerne a városba.",
+        "ro": "Urcați-vă pe bicicletă și porniți din Piața Principală. Traseul vă duce rapid la Biserica Sf. Oswald înainte de a vă bucura de o plimbare relaxantă de-a lungul râului Mürz. După o pauză în Parcul Rosegger, abordați urcarea sportivă către Castelul Oberkapfenberg, unde veți fi răsplătit cu o priveliște magnifică și o pauză de prânz lungă. După-amiaza, un tur mai lung și pitoresc prin peisaj duce la fascinanta Peșteră Rettenwand. Ziua se încheie cu explorarea lumii subterane înainte de a vă întoarce cu bicicleta în oraș.",
+        "en": "Hop on your bike and start at the Main Square. The route quickly takes you to St. Oswald's Church before you enjoy a relaxing ride along the Mürz. After a break in Rosegger Park, tackle the challenging climb to Oberkapfenberg Castle, where you'll be rewarded with a magnificent view and a long lunch break. In the afternoon, a longer, scenic tour through the countryside leads to the fascinating Rettenwand Cave. The day ends with exploring the underground world before cycling back to the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brettljause in der Burgtaverne",
+            "tip": "Nach dem Anstieg zur Burg schmeckt eine zünftige Jause mit regionalen Spezialitäten besonders gut."
+          },
+          {
+            "name": "Eis-Greissler",
+            "tip": "Belohnen Sie sich nach der Radtour mit einem handgemachten Eis aus lokalen Zutaten."
+          },
+          {
+            "name": "Radler",
+            "tip": "Das perfekte Getränk für eine Pause – erfrischend und nicht zu stark."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paraszttál a vártavernában",
+            "tip": "A várhoz való feljutás után különösen jól esik egy kiadós uzsonna regionális specialitásokkal."
+          },
+          {
+            "name": "Eis-Greissler fagyizó",
+            "tip": "Jutalmazza meg magát a kerékpártúra után egy helyi alapanyagokból készült kézműves fagylalttal."
+          },
+          {
+            "name": "Radler",
+            "tip": "A tökéletes ital egy szünethez – frissítő és nem túl erős."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gustare tradițională la taverna castelului",
+            "tip": "După urcarea la castel, o gustare consistentă cu specialități regionale este deosebit de gustoasă."
+          },
+          {
+            "name": "Înghețata de la Eis-Greissler",
+            "tip": "Recompensați-vă după turul cu bicicleta cu o înghețată artizanală din ingrediente locale."
+          },
+          {
+            "name": "Radler",
+            "tip": "Băutura perfectă pentru o pauză - răcoritoare și nu prea tare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brettljause (Platter) at the Castle Tavern",
+            "tip": "After the climb to the castle, a hearty snack with regional specialties tastes especially good."
+          },
+          {
+            "name": "Eis-Greissler Ice Cream",
+            "tip": "Reward yourself after the bike tour with a handmade ice cream from local ingredients."
+          },
+          {
+            "name": "Radler",
+            "tip": "The perfect drink for a break - refreshing and not too strong."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg an der Mürz",
+            "tip": "Besonders am Vormittag ist der Radweg ruhig und friedlich.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtspunkt auf dem Weg zur Burg",
+            "tip": "Halten Sie auf halbem Weg an, um durchzuatmen und die Aussicht auf die Stadt zu genießen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Wald um die Rettenwandhöhle",
+            "tip": "Die Stille des Waldes ist eine willkommene Abwechslung nach der Radfahrt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Mürz mentén",
+            "tip": "Különösen délelőtt csendes és békés a kerékpárút.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátópont a várhoz vezető úton",
+            "tip": "Álljon meg félúton, hogy levegőt vegyen és élvezze a városra nyíló kilátást.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Erdő a Rettenwand-barlang körül",
+            "tip": "Az erdő csendje kellemes felüdülés a kerékpározás után.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul Mürz",
+            "tip": "În special dimineața, pista de biciclete este liniștită și pașnică.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Punct de belvedere pe drumul spre castel",
+            "tip": "Opriți-vă la jumătatea drumului pentru a respira și a vă bucura de priveliștea asupra orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Pădurea din jurul Peșterii Rettenwand",
+            "tip": "Liniștea pădurii este o schimbare binevenită după plimbarea cu bicicleta.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cycle Path along the Mürz",
+            "tip": "Especially in the morning, the cycle path is quiet and peaceful.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Viewpoint on the way to the castle",
+            "tip": "Stop halfway to catch your breath and enjoy the view of the city.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Forest around Rettenwand Cave",
+            "tip": "The silence of the forest is a welcome change after the bike ride.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Falls Sie Ersatzteile oder Zubehör benötigen, gibt es in der Stadt gut sortierte Läden."
+          },
+          {
+            "name": "Regionale Produkte vom Bauernmarkt",
+            "tip": "Kaufen Sie Snacks für die Tour oder ein Mitbringsel wie Honig oder Schnaps."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Ha pótalkatrészekre vagy kiegészítőkre van szüksége, a városban jól felszerelt boltok találhatók."
+          },
+          {
+            "name": "Helyi termékek a termelői piacról",
+            "tip": "Vásároljon harapnivalót a túrára vagy ajándéktárgyat, például mézet vagy pálinkát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Dacă aveți nevoie de piese de schimb sau accesorii, există magazine bine aprovizionate în oraș."
+          },
+          {
+            "name": "Produse regionale de la piața fermierilor",
+            "tip": "Cumpărați gustări pentru tur sau un suvenir precum miere sau rachiu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "If you need spare parts or accessories, there are well-stocked shops in the city."
+          },
+          {
+            "name": "Regional products from the farmers' market",
+            "tip": "Buy snacks for the tour or a souvenir like honey or schnapps."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Stellen Sie sicher, dass Ihr Fahrrad für Steigungen geeignet ist.",
+          "Nehmen Sie genügend Wasser und einige Snacks für unterwegs mit.",
+          "Ein Helm ist dringend zu empfehlen, besonders für die Abfahrten.",
+          "Prüfen Sie den Wetterbericht, da die Route bei Nässe anspruchsvoller ist."
+        ],
+        "hu": [
+          "Győződjön meg róla, hogy kerékpárja alkalmas az emelkedőkhöz.",
+          "Vigyen magával elegendő vizet és néhány harapnivalót az útra.",
+          "Sisak használata erősen ajánlott, különösen a lejtőkön.",
+          "Ellenőrizze az időjárás-előrejelzést, mivel nedves időben az útvonal nagyobb kihívást jelent."
+        ],
+        "ro": [
+          "Asigurați-vă că bicicleta este potrivită pentru urcări.",
+          "Luați suficientă apă și câteva gustări pentru drum.",
+          "O cască este foarte recomandată, în special pentru coborâri.",
+          "Verificați prognoza meteo, deoarece traseul este mai dificil pe vreme umedă."
+        ],
+        "en": [
+          "Make sure your bike is suitable for climbs.",
+          "Take enough water and some snacks for the road.",
+          "A helmet is highly recommended, especially for the descents.",
+          "Check the weather forecast, as the route is more challenging in wet conditions."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 16.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum & Hauptplatz",
+            "hu": "Parkoló a központban és Főtér",
+            "ro": "Parcare în centru și Piața Principală",
+            "en": "City Center Car Park & Main Square"
+          },
+          "coords": [
+            15.287,
+            47.4435
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto in einem der zentralen Parkhäuser für den ersten Teil des Tages.",
+            "hu": "Parkolja le az autóját az egyik központi parkolóházban a nap első részére.",
+            "ro": "Parcați mașina într-una dintre parcările centrale pentru prima parte a zilei.",
+            "en": "Park your car in one of the central car parks for the first part of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Oswald",
+            "hu": "Szent Oszvald plébániatemplom",
+            "ro": "Biserica parohială Sf. Oswald",
+            "en": "Parish Church of St. Oswald"
+          },
+          "coords": [
+            15.2895,
+            47.4445
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz durch die Gassen der Altstadt.",
+            "hu": "Rövid séta a Főtértől az óváros sikátorain keresztül.",
+            "ro": "O scurtă plimbare de la Piața Principală pe străduțele orașului vechi.",
+            "en": "A short walk from the Main Square through the alleys of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Mürzufer-Promenade",
+            "hu": "Mürz-parti sétány",
+            "ro": "Promenada de pe malul Mürz",
+            "en": "Mürz River Promenade"
+          },
+          "coords": [
+            15.289,
+            47.441
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie vom Kirchenhügel hinunter zum Fluss für eine erfrischende Pause.",
+            "hu": "Sétáljon le a templomdombról a folyóhoz egy frissítő szünetre.",
+            "ro": "Coborâți de pe dealul bisericii la râu pentru o pauză răcoritoare.",
+            "en": "Stroll down from the church hill to the river for a refreshing break."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Oberkapfenberg",
+            "hu": "Oberkapfenberg vára",
+            "ro": "Castelul Oberkapfenberg",
+            "en": "Oberkapfenberg Castle"
+          },
+          "coords": [
+            15.296,
+            47.451
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:45",
+          "stay_min": 130,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz der Burg. Hier können Sie zu Mittag essen und die Greifvogelschau besuchen.",
+            "hu": "Vezessen a vár parkolójába. Itt ebédelhet és megnézheti a ragadozómadár-bemutatót.",
+            "ro": "Conduceți până la parcarea castelului. Aici puteți lua prânzul și puteți asista la spectacolul cu păsări de pradă.",
+            "en": "Drive to the castle car park. Here you can have lunch and watch the bird of prey show."
+          }
+        },
+        {
+          "name": {
+            "de": "Rettenwandhöhle",
+            "hu": "Rettenwand-barlang",
+            "ro": "Peștera Rettenwand",
+            "en": "Rettenwand Cave"
+          },
+          "coords": [
+            15.33,
+            47.46
+          ],
+          "category": "natural features",
+          "arrive_at": "14:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 12.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Die Fahrt zur Höhle führt durch eine malerische Landschaft. Tragen Sie feste Schuhe für die Führung.",
+            "hu": "A barlanghoz vezető út festői tájon vezet keresztül. Viseljen erős cipőt a túrához.",
+            "ro": "Drumul spre peșteră trece printr-un peisaj pitoresc. Purtați încălțăminte rezistentă pentru tur.",
+            "en": "The drive to the cave leads through picturesque scenery. Wear sturdy shoes for the tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen im Stadtzentrum",
+            "hu": "Vacsora a városközpontban",
+            "ro": "Cină în centrul orașului",
+            "en": "Dinner in the City Center"
+          },
+          "coords": [
+            15.2885,
+            47.4432
+          ],
+          "category": "gastro",
+          "arrive_at": "16:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kehren Sie ins Zentrum zurück, um den Tag bei einem gemütlichen Abendessen ausklingen zu lassen.",
+            "hu": "Térjen vissza a központba, hogy egy kellemes vacsorával zárja a napot.",
+            "ro": "Întoarceți-vă în centru pentru a încheia ziua cu o cină relaxantă.",
+            "en": "Return to the center to end the day with a leisurely dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt mit dem Parken im Stadtzentrum, gefolgt von einem Spaziergang zum Hauptplatz, zur Kirche und entlang der Mürz. Dieser erste Cluster lässt sich bequem zu Fuß erkunden. Gegen Mittag steigen Sie wieder ins Auto und fahren zur hochgelegenen Burg Oberkapfenberg für das Mittagessen und die spektakuläre Greifvogelschau. Am Nachmittag bringt Sie eine kurze Fahrt durch die steirische Landschaft zur beeindruckenden Rettenwandhöhle, einem Naturwunder der Region. Der Tag endet, wo er begann: im Stadtzentrum, bei einem wohlverdienten Abendessen in einem der lokalen Restaurants.",
+        "hu": "A nap a belvárosi parkolással kezdődik, majd séta a Főtérre, a templomhoz és a Mürz mentén. Ez az első klaszter kényelmesen felfedezhető gyalog. Dél körül visszaül az autóba, és felhajt a magasan fekvő Oberkapfenberg várához ebédelni és megnézni a látványos ragadozómadár-bemutatót. Délután egy rövid autózás a stájer tájon keresztül elvisz a lenyűgöző Rettenwand-barlanghoz, a régió természeti csodájához. A nap ott ér véget, ahol elkezdődött: a belvárosban, egy jól megérdemelt vacsorával az egyik helyi étteremben.",
+        "ro": "Ziua începe cu parcarea în centrul orașului, urmată de o plimbare către Piața Principală, biserică și de-a lungul râului Mürz. Acest prim grup de obiective poate fi explorat confortabil pe jos. Spre prânz, vă urcați din nou în mașină și conduceți la castelul Oberkapfenberg, situat la înălțime, pentru prânz și spectacolul spectaculos cu păsări de pradă. După-amiaza, o scurtă călătorie cu mașina prin peisajul stirian vă duce la impresionanta Peșteră Rettenwand, o minune naturală a regiunii. Ziua se încheie acolo unde a început: în centrul orașului, cu o cină binemeritată la unul dintre restaurantele locale.",
+        "en": "The day begins by parking in the city center, followed by a walk to the Main Square, the church, and along the Mürz River. This first cluster is comfortably explored on foot. Around noon, you get back in the car and drive up to the high-altitude Oberkapfenberg Castle for lunch and the spectacular bird of prey show. In the afternoon, a short drive through the Styrian landscape takes you to the impressive Rettenwand Cave, a natural wonder of the region. The day ends where it began: in the city center, with a well-deserved dinner at one of the local restaurants."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Backhendl",
+            "tip": "Ein steirischer Klassiker. Knusprig gebratenes Hähnchen, oft mit Kartoffelsalat serviert."
+          },
+          {
+            "name": "Burgtaverne Oberkapfenberg",
+            "tip": "Genießen Sie eine Mahlzeit mit Aussicht. Die Speisekarte bietet oft Ritteressen an."
+          },
+          {
+            "name": "Buschenschank (in der Nähe)",
+            "tip": "Fahren Sie zu einem nahegelegenen Heurigen für eine authentische Jause und lokalen Wein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rántott csirke (Backhendl)",
+            "tip": "Stájer klasszikus. Ropogósra sült csirke, gyakran burgonyasalátával tálalva."
+          },
+          {
+            "name": "Oberkapfenberg vártaverna",
+            "tip": "Élvezze az étkezést kilátással. Az étlapon gyakran szerepelnek lovagi lakomák."
+          },
+          {
+            "name": "Buschenschank (a közelben)",
+            "tip": "Látogasson el egy közeli borozóba egy autentikus uzsonnáért és helyi borért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pui prăjit (Backhendl)",
+            "tip": "Un clasic stirian. Pui prăjit crocant, adesea servit cu salată de cartofi."
+          },
+          {
+            "name": "Taverna Castelului Oberkapfenberg",
+            "tip": "Bucurați-vă de o masă cu priveliște. Meniul oferă adesea festinuri cavalerești."
+          },
+          {
+            "name": "Buschenschank (în apropiere)",
+            "tip": "Conduceți la o tavernă locală din apropiere pentru o gustare autentică și vin local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fried Chicken (Backhendl)",
+            "tip": "A Styrian classic. Crispy fried chicken, often served with potato salad."
+          },
+          {
+            "name": "Oberkapfenberg Castle Tavern",
+            "tip": "Enjoy a meal with a view. The menu often features knightly feasts."
+          },
+          {
+            "name": "Buschenschank (nearby)",
+            "tip": "Drive to a nearby wine tavern for an authentic snack and local wine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Waldwege um die Burg",
+            "tip": "Nach dem Mittagessen können Sie einen kurzen Verdauungsspaziergang auf den Wegen rund um die Burg machen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vor der Rettenwandhöhle",
+            "tip": "Der Bereich vor dem Höhleneingang ist oft ruhig und von Natur umgeben.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sonnenuntergang von der Burg",
+            "tip": "Wenn es die Zeit erlaubt, kehren Sie zur Burg zurück, um den Sonnenuntergang zu beobachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Erdei ösvények a vár körül",
+            "tip": "Ebéd után tehet egy rövid emésztő sétát a vár körüli ösvényeken.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Rettenwand-barlang előtt",
+            "tip": "A barlang bejárata előtti terület gyakran csendes és természettel körülvett.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Naplemente a várból",
+            "tip": "Ha az idő engedi, térjen vissza a várhoz megnézni a naplementét.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cărări prin pădurea din jurul castelului",
+            "tip": "După prânz, puteți face o scurtă plimbare digestivă pe cărările din jurul castelului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "În fața Peșterii Rettenwand",
+            "tip": "Zona din fața intrării în peșteră este adesea liniștită și înconjurată de natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Apus de soare de la castel",
+            "tip": "Dacă timpul vă permite, întoarceți-vă la castel pentru a privi apusul.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Forest paths around the castle",
+            "tip": "After lunch, you can take a short digestive walk on the paths around the castle.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "In front of Rettenwand Cave",
+            "tip": "The area in front of the cave entrance is often quiet and surrounded by nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sunset from the castle",
+            "tip": "If time permits, return to the castle to watch the sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Burg-Shop",
+            "tip": "Hier finden Sie mittelalterliche Souvenirs und Andenken an die Greifvogelschau."
+          },
+          {
+            "name": "Hofläden in der Umgebung",
+            "tip": "Halten Sie auf den Landstraßen Ausschau nach Schildern für Hofläden, die frische Produkte verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Várbolt",
+            "tip": "Itt középkori szuveníreket és a ragadozómadár-bemutatóval kapcsolatos emléktárgyakat talál."
+          },
+          {
+            "name": "Tanyasi boltok a környéken",
+            "tip": "A vidéki utakon figyelje a friss termékeket árusító tanyasi boltok tábláit."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul castelului",
+            "tip": "Aici veți găsi suveniruri medievale și amintiri de la spectacolul cu păsări de pradă."
+          },
+          {
+            "name": "Magazinele fermelor din zonă",
+            "tip": "Pe drumurile de țară, fiți atenți la indicatoarele către magazinele fermelor care vând produse proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Shop",
+            "tip": "Here you will find medieval souvenirs and mementos from the bird of prey show."
+          },
+          {
+            "name": "Farm shops in the area",
+            "tip": "On the country roads, look out for signs for farm shops selling fresh produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Parkgebühren und -zeiten in der Innenstadt.",
+          "Buchen Sie Tickets für die Höhlenführung online, um Wartezeiten zu vermeiden.",
+          "Planen Sie genügend Zeit für die Fahrten zwischen den Orten ein, um die Landschaft zu genießen.",
+          "Ein Navigationsgerät ist hilfreich, um die ländlichen Adressen zu finden."
+        ],
+        "hu": [
+          "Ellenőrizze a parkolási díjakat és időket a belvárosban.",
+          "Foglaljon jegyet online a barlangtúrára a várakozási idő elkerülése érdekében.",
+          "Szánjon elegendő időt a helyszínek közötti utazásra, hogy élvezhesse a tájat.",
+          "A vidéki címek megtalálásához hasznos egy navigációs eszköz."
+        ],
+        "ro": [
+          "Verificați taxele de parcare și orarele din centrul orașului.",
+          "Rezervați biletele pentru turul peșterii online pentru a evita timpii de așteptare.",
+          "Planificați suficient timp pentru deplasările între locații pentru a vă bucura de peisaj.",
+          "Un sistem de navigație este util pentru a găsi adresele rurale."
+        ],
+        "en": [
+          "Check parking fees and times in the city center.",
+          "Book tickets for the cave tour online to avoid waiting times.",
+          "Allow enough time for the drives between locations to enjoy the scenery.",
+          "A navigation device is helpful for finding the rural addresses."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 4.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft Busbahnhof & Hauptplatz",
+            "hu": "Érkezés a buszpályaudvarra és Főtér",
+            "ro": "Sosire la autogară și Piața Principală",
+            "en": "Arrival at Bus Station & Main Square"
+          },
+          "coords": [
+            15.2875,
+            47.4428
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Busbahnhof liegt zentral. Beginnen Sie Ihre Erkundung direkt am angrenzenden Hauptplatz.",
+            "hu": "A buszpályaudvar központi helyen fekszik. Kezdje a felfedezést közvetlenül a szomszédos Főtéren.",
+            "ro": "Autogara este situată central. Începeți explorarea chiar din Piața Principală adiacentă.",
+            "en": "The bus station is centrally located. Start your exploration right at the adjacent Main Square."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Oswald",
+            "hu": "Szent Oszvald plébániatemplom",
+            "ro": "Biserica parohială Sf. Oswald",
+            "en": "Parish Church of St. Oswald"
+          },
+          "coords": [
+            15.2895,
+            47.4445
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer, angenehmer Spaziergang vom Hauptplatz.",
+            "hu": "Rövid, kellemes séta a Főtértől.",
+            "ro": "O scurtă și plăcută plimbare de la Piața Principală.",
+            "en": "A short, pleasant walk from the Main Square."
+          }
+        },
+        {
+          "name": {
+            "de": "Mürzufer-Promenade",
+            "hu": "Mürz-parti sétány",
+            "ro": "Promenada de pe malul Mürz",
+            "en": "Mürz River Promenade"
+          },
+          "coords": [
+            15.289,
+            47.441
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den ersten Stadt-Cluster zu Fuß und genießen Sie die Atmosphäre am Fluss.",
+            "hu": "Fedezze fel az első városi klasztert gyalog, és élvezze a folyóparti hangulatot.",
+            "ro": "Explorați primul grup de obiective din oraș pe jos și bucurați-vă de atmosfera de pe malul râului.",
+            "en": "Explore the first city cluster on foot and enjoy the atmosphere by the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zur Burg Oberkapfenberg",
+            "hu": "Busszal Oberkapfenberg várához",
+            "ro": "Autobuz spre Castelul Oberkapfenberg",
+            "en": "Bus to Oberkapfenberg Castle"
+          },
+          "coords": [
+            15.296,
+            47.451
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:10",
+          "stay_min": 150,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.7,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie eine Buslinie, die in Richtung Burg fährt. Von der Haltestelle ist es ein kurzer Fußweg bergauf.",
+            "hu": "Válasszon egy buszjáratot, amely a vár felé közlekedik. A megállótól rövid séta vezet felfelé.",
+            "ro": "Luați o linie de autobuz care merge spre castel. De la stație este o scurtă plimbare pe jos la deal.",
+            "en": "Take a bus line that goes towards the castle. It's a short uphill walk from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum & Abendessen",
+            "hu": "Visszatérés a központba és vacsora",
+            "ro": "Întoarcere în centru și cină",
+            "en": "Return to Center & Dinner"
+          },
+          "coords": [
+            15.2885,
+            47.4432
+          ],
+          "category": "gastro",
+          "arrive_at": "15:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach dem Burgbesuch fahren Sie mit dem Bus zurück ins Zentrum für einen entspannten Tagesausklang.",
+            "hu": "A várlátogatás után buszozzon vissza a központba egy pihentető napzárásra.",
+            "ro": "După vizitarea castelului, luați autobuzul înapoi în centru pentru o încheiere relaxantă a zilei.",
+            "en": "After the castle visit, take the bus back to the center for a relaxing end to the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt am zentralen Busbahnhof, von wo aus Sie den ersten Cluster – Hauptplatz, Kirche und Mürzufer – bequem zu Fuß erkunden. Dies gibt Ihnen ein Gefühl für das historische Herz der Stadt. Gegen Mittag nutzen Sie das öffentliche Verkehrsnetz, um zum zweiten Cluster, der majestätischen Burg Oberkapfenberg, zu gelangen. Planen Sie hier genügend Zeit für die Erkundung, die Greifvogelschau und eine Mittagspause ein. Am späten Nachmittag bringt Sie der Bus zurück ins Zentrum, wo Sie den Tag in einem der gemütlichen Restaurants ausklingen lassen können, bevor Sie die Heimreise antreten.",
+        "hu": "A nap a központi buszpályaudvaron kezdődik, ahonnan kényelmesen, gyalog fedezheti fel az első klasztert – a Főteret, a templomot és a Mürz partját. Ezáltal átérezheti a város történelmi szívének hangulatát. Dél körül a tömegközlekedést használva jut el a második klaszterhez, a fenséges Oberkapfenberg várához. Tervezzen itt elegendő időt a felfedezésre, a ragadozómadár-bemutatóra és egy ebédszünetre. Késő délután a busz visszaviszi a központba, ahol a hazautazás előtt az egyik hangulatos étteremben zárhatja a napot.",
+        "ro": "Ziua începe la autogara centrală, de unde puteți explora confortabil pe jos primul grup de obiective - Piața Principală, biserica și malul râului Mürz. Acest lucru vă va oferi o senzație a inimii istorice a orașului. Spre prânz, folosiți rețeaua de transport public pentru a ajunge la al doilea grup, majestuosul Castel Oberkapfenberg. Planificați suficient timp aici pentru explorare, spectacolul cu păsări de pradă și o pauză de prânz. Spre seară, autobuzul vă duce înapoi în centru, unde puteți încheia ziua într-unul dintre restaurantele primitoare înainte de a vă întoarce acasă.",
+        "en": "The day begins at the central bus station, from where you can comfortably explore the first cluster – Main Square, church, and the Mürz riverbank – on foot. This gives you a feel for the historic heart of the city. Around noon, you use the public transport network to get to the second cluster, the majestic Oberkapfenberg Castle. Plan enough time here for exploration, the bird of prey show, and a lunch break. In the late afternoon, the bus takes you back to the center, where you can end the day in one of the cozy restaurants before heading home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Würstelstand am Hauptplatz",
+            "tip": "Für einen schnellen und authentischen Snack zwischendurch. Probieren Sie eine Käsekrainer."
+          },
+          {
+            "name": "Gasthaus im Zentrum",
+            "tip": "Suchen Sie ein traditionelles Gasthaus für ein herzhaftes Abendessen mit steirischen Spezialitäten."
+          },
+          {
+            "name": "Kaffee und Kuchen",
+            "tip": "Gönnen Sie sich eine Pause in einer der Konditoreien nach der Rückkehr von der Burg."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Virslis bódé a Főtéren",
+            "tip": "Egy gyors és autentikus harapnivalóért. Kóstolja meg a Käsekrainert (sajtos virslit)."
+          },
+          {
+            "name": "Vendéglő a központban",
+            "tip": "Keressen egy hagyományos vendéglőt egy kiadós vacsorához stájer specialitásokkal."
+          },
+          {
+            "name": "Kávé és sütemény",
+            "tip": "Engedjen meg magának egy szünetet az egyik cukrászdában, miután visszatért a várból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stand de cârnați în Piața Principală",
+            "tip": "Pentru o gustare rapidă și autentică. Încercați un Käsekrainer (cârnat cu brânză)."
+          },
+          {
+            "name": "Restaurant tradițional în centru",
+            "tip": "Căutați un restaurant tradițional pentru o cină consistentă cu specialități stiriene."
+          },
+          {
+            "name": "Cafea și prăjitură",
+            "tip": "Acordați-vă o pauză la una dintre cofetării după întoarcerea de la castel."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sausage stand at the Main Square",
+            "tip": "For a quick and authentic snack. Try a Käsekrainer (cheese-filled sausage)."
+          },
+          {
+            "name": "Inn in the city center",
+            "tip": "Look for a traditional inn for a hearty dinner with Styrian specialties."
+          },
+          {
+            "name": "Coffee and cake",
+            "tip": "Treat yourself to a break in one of the pastry shops after returning from the castle."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof bei St. Oswald",
+            "tip": "Ein Ort der Stille und Besinnung, oft mit einer schönen Aussicht.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Auf dem Weg zur Burg",
+            "tip": "Der Fußweg von der Bushaltestelle zur Burg führt durch ein ruhiges Waldstück.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bank im Roseggerpark",
+            "tip": "Finden Sie eine abgelegene Bank und beobachten Sie das Treiben aus der Ferne.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Temető a Szent Oszvald-templomnál",
+            "tip": "A csend és az elmélkedés helye, gyakran szép kilátással.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A várhoz vezető úton",
+            "tip": "A buszmegállótól a várhoz vezető gyalogút egy csendes erdőrészen halad át.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pad a Rosegger parkban",
+            "tip": "Keressen egy félreeső padot, és figyelje a nyüzsgést távolról.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul de lângă Sf. Oswald",
+            "tip": "Un loc de liniște și contemplare, adesea cu o priveliște frumoasă.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Pe drumul spre castel",
+            "tip": "Poteca de la stația de autobuz la castel trece printr-o porțiune liniștită de pădure.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "O bancă în Parcul Rosegger",
+            "tip": "Găsiți o bancă retrasă și priviți agitația de la distanță.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cemetery at St. Oswald's",
+            "tip": "A place of silence and contemplation, often with a beautiful view.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "On the way to the castle",
+            "tip": "The footpath from the bus stop to the castle passes through a quiet piece of forest.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bench in Rosegger Park",
+            "tip": "Find a secluded bench and watch the hustle and bustle from a distance.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Trafik (Tabakladen)",
+            "tip": "Hier können Sie Bustickets und oft auch Postkarten kaufen."
+          },
+          {
+            "name": "Bäckereien im Zentrum",
+            "tip": "Kaufen Sie lokales Gebäck wie Mohnflesserl für eine Stärkung unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trafik (dohánybolt)",
+            "tip": "Itt buszjegyeket és gyakran képeslapokat is vásárolhat."
+          },
+          {
+            "name": "Pékségek a központban",
+            "tip": "Vásároljon helyi péksüteményeket, például mákos tekercset (Mohnflesserl) útravalónak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trafik (magazin de tutun)",
+            "tip": "Aici puteți cumpăra bilete de autobuz și adesea și vederi."
+          },
+          {
+            "name": "Brutării în centru",
+            "tip": "Cumpărați produse de patiserie locale, cum ar fi Mohnflesserl, pentru o gustare pe drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trafik (Tobacconist)",
+            "tip": "Here you can buy bus tickets and often postcards as well."
+          },
+          {
+            "name": "Bakeries in the center",
+            "tip": "Buy local pastries like Mohnflesserl (poppy seed rolls) for a snack on the go."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Informieren Sie sich über die Abfahrtszeiten der Busse, besonders für die Rückfahrt von der Burg.",
+          "Haben Sie etwas Kleingeld für Tickets bereit, falls keine Kartenzahlung möglich ist.",
+          "Die meisten Buslinien verkehren tagsüber regelmäßig, aber abends seltener."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha több utazást tervez.",
+          "Tájékozódjon a buszok indulási idejéről, különösen a várból való visszautazáshoz.",
+          "Készítsen elő aprópénzt a jegyekhez, ha a kártyás fizetés nem lehetséges.",
+          "A legtöbb buszjárat napközben rendszeresen, de este ritkábban közlekedik."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă planificați mai multe călătorii.",
+          "Informați-vă despre orele de plecare ale autobuzelor, în special pentru întoarcerea de la castel.",
+          "Aveți la îndemână niște mărunțiș pentru bilete, în cazul în care plata cu cardul nu este posibilă.",
+          "Majoritatea liniilor de autobuz circulă regulat în timpul zilei, dar mai rar seara."
+        ],
+        "en": [
+          "Buy a day ticket for the bus if you are planning multiple trips.",
+          "Find out about the bus departure times, especially for the return trip from the castle.",
+          "Have some small change ready for tickets in case card payment is not possible.",
+          "Most bus lines run regularly during the day, but less frequently in the evening."
+        ]
+      }
+    }
+  }
+}

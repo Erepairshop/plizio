@@ -1,0 +1,1364 @@
+{
+  "city_id": "portugal-amadora-cities-v2",
+  "anchor": {
+    "name": "Amadora",
+    "coords": [
+      -9.2312,
+      38.7589
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Beginnen Sie am Parque Central da Amadora",
+            "hu": "Kezdje a Parque Central da Amadora parkban",
+            "ro": "Începeți la Parque Central da Amadora",
+            "en": "Start at Parque Central da Amadora"
+          },
+          "coords": [
+            -9.2236,
+            38.7595
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie einen Morgenkaffee in einem der Kioske, bevor Sie den Park erkunden.",
+            "hu": "Élvezzen egy reggeli kávét az egyik kioszkban, mielőtt felfedezné a parkot.",
+            "ro": "Savurați o cafea de dimineață la unul dintre chioșcuri înainte de a explora parcul.",
+            "en": "Enjoy a morning coffee at one of the kiosks before exploring the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Roque Gameiro",
+            "hu": "Casa Roque Gameiro",
+            "ro": "Casa Roque Gameiro",
+            "en": "Casa Roque Gameiro"
+          },
+          "coords": [
+            -9.2278,
+            38.7601
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die Aquarellmalereien, die das Haus schmücken, viele vom Künstler selbst.",
+            "hu": "Figyelje meg a házat díszítő akvarell festményeket, sokat maga a művész festett.",
+            "ro": "Fiți atenți la picturile în acuarelă care decorează casa, multe realizate de artistul însuși.",
+            "en": "Look for the watercolor paintings that decorate the house, many by the artist himself."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro dos Aloés",
+            "hu": "Teatro dos Aloés",
+            "ro": "Teatro dos Aloés",
+            "en": "Teatro dos Aloés"
+          },
+          "coords": [
+            -9.2305,
+            38.7582
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie, ob während Ihres Besuchs eine Matinee-Vorstellung oder eine Probe stattfindet.",
+            "hu": "Nézze meg, van-e matiné előadás vagy próba a látogatása során.",
+            "ro": "Verificați dacă există un spectacol de matineu sau o repetiție în timpul vizitei dvs.",
+            "en": "Check if there's a matinee performance or a rehearsal happening during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Theaters",
+            "hu": "Ebéd a színház közelében",
+            "ro": "Prânz lângă teatru",
+            "en": "Lunch near the theatre"
+          },
+          "coords": [
+            -9.231,
+            38.7578
+          ],
+          "category": "gastro",
+          "arrive_at": "12:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie ein lokales Restaurant für 'Bacalhau à Brás', ein portugiesisches Grundnahrungsmittel.",
+            "hu": "Próbáljon ki egy helyi éttermet, ahol 'Bacalhau à Brás'-t, egy portugál alapételt szolgálnak fel.",
+            "ro": "Încercați un restaurant local pentru 'Bacalhau à Brás', un preparat de bază portughez.",
+            "en": "Try a local restaurant for 'Bacalhau à Brás', a Portuguese staple."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja da Reboleira",
+            "hu": "Igreja da Reboleira",
+            "ro": "Igreja da Reboleira",
+            "en": "Igreja da Reboleira"
+          },
+          "coords": [
+            -9.2411,
+            38.7543
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit, um die modernen Buntglasfenster zu bewundern.",
+            "hu": "Szánjon egy percet a modern ólomüveg ablakok megcsodálására.",
+            "ro": "Luați-vă un moment pentru a admira vitraliile moderne.",
+            "en": "Take a moment to appreciate the modern stained glass windows."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einem erfrischenden Spaziergang im Parque Central. Am Vormittag tauchen Sie in die Kunst in der Casa Roque Gameiro ein, dem ehemaligen Zuhause eines berühmten portugiesischen Malers. Nach einem kurzen Blick auf das örtliche Theater genießen Sie ein gemütliches Mittagessen. Der Nachmittag ist einem Spaziergang zur Igreja da Reboleira gewidmet, wo Sie die Ruhe und die moderne Architektur genießen können. Am Abend entspannen Sie sich und denken über die versteckten Juwelen der Stadt nach.",
+        "hu": "Kezdje a napot egy frissítő sétával a Parque Centralban. A délelőtt folyamán merüljön el a művészetben a Casa Roque Gameiro-ban, egy híres portugál festő egykori otthonában. Miután vetett egy pillantást a helyi színházra, ebédeljen egy jót. A délutánt a Igreja da Reboleira felé tett sétának szentelje, hogy élvezze a nyugalmat és a modern építészetet. Este pihenjen és gondolkodjon el a város rejtett gyöngyszemein.",
+        "ro": "Începeți ziua cu o plimbare revigorantă în Parque Central. La amiază, scufundați-vă în artă la Casa Roque Gameiro, fosta casă a unui faimos pictor portughez. După o scurtă privire la teatrul local, bucurați-vă de un prânz pe îndelete. După-amiaza este dedicată unei plimbări spre Igreja da Reboleira pentru a-i absorbi liniștea și arhitectura modernă. Seara, relaxați-vă și reflectați asupra nestematelor ascunse ale orașului.",
+        "en": "Start your day with a refreshing walk in Parque Central. In the mid-morning, immerse yourself in art at Casa Roque Gameiro, the former home of a famous Portuguese painter. After a quick look at the local theatre, enjoy a leisurely lunch. The afternoon is dedicated to a stroll towards Igreja da Reboleira to absorb its tranquility and modern architecture. In the evening, relax and reflect on the city's hidden gems."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bacalhau à Brás",
+            "tip": "Ein klassisches portugiesisches Gericht aus geschreddertem Kabeljau, Zwiebeln, Kartoffeln und Eiern."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Obwohl aus Lissabon, finden Sie diese köstlichen Puddingtörtchen überall."
+          },
+          {
+            "name": "Frango Assado (Piri-Piri Hähnchen)",
+            "tip": "Suchen Sie nach einem Churrasqueira für köstlich gegrilltes Hähnchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bacalhau à Brás",
+            "tip": "Klasszikus portugál étel aprított tőkehalból, hagymából, burgonyából és tojásból."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Bár Lisszabonból származik, ezeket a finom pudingos tortácskákat mindenhol megtalálja."
+          },
+          {
+            "name": "Frango Assado (Piri-Piri csirke)",
+            "tip": "Keressen egy Churrasqueirát a finom grillezett csirkéért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bacalhau à Brás",
+            "tip": "Un fel de mâncare clasic portughez făcut din cod mărunțit, ceapă, cartofi și ouă."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Deși originar din Lisabona, puteți găsi aceste delicioase tarte cu cremă peste tot."
+          },
+          {
+            "name": "Frango Assado (Pui Piri-Piri)",
+            "tip": "Căutați o Churrasqueira pentru un pui la grătar delicios."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bacalhau à Brás",
+            "tip": "A classic Portuguese dish made of shredded cod, onions, potatoes, and eggs."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Although from Lisbon, you can find these delicious custard tarts everywhere."
+          },
+          {
+            "name": "Frango Assado (Piri-Piri Chicken)",
+            "tip": "Look for a 'Churrasqueira' for deliciously grilled chicken."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque Central da Amadora",
+            "tip": "Finden Sie eine ruhige Bank abseits der Hauptwege.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Gärten der Casa Roque Gameiro",
+            "tip": "Die Gärten des Hauses sind oft ein ruhiger Ort.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "In der Nähe des Aqueduto",
+            "tip": "Ein Spaziergang entlang der weniger überlaufenen Abschnitte des Aquädukts kann friedlich sein.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parque Central da Amadora",
+            "tip": "Keressen egy csendes padot a fő utaktól távol.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Casa Roque Gameiro kertjei",
+            "tip": "A ház kertjei gyakran békés helyet jelentenek.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Az Akvadukt közelében",
+            "tip": "Séta az akvadukt kevésbé forgalmas szakaszai mentén békés lehet.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parque Central da Amadora",
+            "tip": "Găsiți o bancă liniștită departe de cărările principale.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grădinile Casei Roque Gameiro",
+            "tip": "Grădinile casei sunt adesea un loc pașnic.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Lângă Apeduct",
+            "tip": "O plimbare de-a lungul secțiunilor mai puțin aglomerate ale apeductului poate fi liniștitoare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parque Central da Amadora",
+            "tip": "Find a quiet bench away from the main paths.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Gardens of Casa Roque Gameiro",
+            "tip": "The gardens of the house are often a peaceful spot.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Near the Aqueduct",
+            "tip": "Walking along less crowded sections of the aqueduct can be peaceful.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt (Mercado)",
+            "tip": "Suchen Sie nach einem lokalen Markt für frische Produkte und lokale Käsesorten."
+          },
+          {
+            "name": "Straßengeschäfte",
+            "tip": "Erkunden Sie die Geschäfte in den Hauptstraßen nach portugiesischer Keramik und Textilien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac (Mercado)",
+            "tip": "Keressen egy helyi piacot friss termékekért és helyi sajtokért."
+          },
+          {
+            "name": "Utcai üzletek",
+            "tip": "Fedezze fel a főutcák üzleteit portugál kerámiákért és textíliákért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Locală (Mercado)",
+            "tip": "Căutați o piață locală pentru produse proaspete și brânzeturi locale."
+          },
+          {
+            "name": "Magazine Stradale",
+            "tip": "Explorați magazinele de pe străzile principale pentru ceramică și textile portugheze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market (Mercado)",
+            "tip": "Look for a local market for fresh produce and local cheeses."
+          },
+          {
+            "name": "Street Shops",
+            "tip": "Explore the shops on the main avenues for Portuguese ceramics and textiles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit.",
+          "Die meisten Einheimischen in Geschäften und Restaurants sprechen etwas Englisch.",
+          "Mittagessen ist die Hauptmahlzeit des Tages, daher sind die Restaurants zur Mittagszeit belebter."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "Vigyen magával újratölthető vizes palackot.",
+          "A legtöbb helyi a boltokban és éttermekben beszél valamennyire angolul.",
+          "Az ebéd a nap fő étkezése, ezért az éttermek délben forgalmasabbak."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, veți merge mult pe jos.",
+          "Luați cu voi o sticlă de apă reutilizabilă.",
+          "Majoritatea localnicilor din magazine și restaurante vorbesc puțină engleză.",
+          "Prânzul este masa principală a zilei, așa că restaurantele sunt mai aglomerate la prânz."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Bring a reusable water bottle.",
+          "Most locals in shops and restaurants will speak some English.",
+          "Lunch is the main meal of the day, so restaurants are busier at noon."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 15.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Start: Moinhos da Funcheira",
+            "hu": "Indulás: Moinhos da Funcheira",
+            "ro": "Start: Moinhos da Funcheira",
+            "en": "Start: Moinhos da Funcheira"
+          },
+          "coords": [
+            -9.2488,
+            38.7511
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Dies sind restaurierte Windmühlen, die einen Einblick in die industrielle Vergangenheit der Region geben.",
+            "hu": "Ezek felújított szélmalmok, amelyek bepillantást engednek a régió ipari múltjába.",
+            "ro": "Acestea sunt mori de vânt restaurate care oferă o perspectivă asupra trecutului industrial al regiunii.",
+            "en": "These are restored windmills offering a glimpse into the region's industrial past."
+          }
+        },
+        {
+          "name": {
+            "de": "Aqueduto das Águas Livres",
+            "hu": "Aqueduto das Águas Livres",
+            "ro": "Aqueduto das Águas Livres",
+            "en": "Aqueduto das Águas Livres"
+          },
+          "coords": [
+            -9.213,
+            38.7458
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:12",
+          "stay_min": 60,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 3.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radfahren Sie entlang eines Teils des Weges neben dem Aquädukt für beeindruckende Ausblicke.",
+            "hu": "Kerékpározzon végig az akvadukt melletti út egy szakaszán a lenyűgöző kilátásért.",
+            "ro": "Mergeți cu bicicleta de-a lungul unei secțiuni a căii de lângă apeduct pentru priveliști impresionante.",
+            "en": "Cycle along a section of the path beside the aqueduct for impressive views."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Central da Amadora",
+            "hu": "Parque Central da Amadora",
+            "ro": "Parque Central da Amadora",
+            "en": "Parque Central da Amadora"
+          },
+          "coords": [
+            -9.2236,
+            38.7595
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für eine Mittagspause. Schließen Sie Ihr Fahrrad ab und genießen Sie ein Picknick.",
+            "hu": "Nagyszerű hely egy ebédszeünetre. Zárja le a kerékpárját és piknikezzen egyet.",
+            "ro": "Un loc excelent pentru o pauză de prânz. Încuiați-vă bicicleta și bucurați-vă de un picnic.",
+            "en": "A great spot for a lunch break. Lock up your bike and enjoy a picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Roque Gameiro",
+            "hu": "Casa Roque Gameiro",
+            "ro": "Casa Roque Gameiro",
+            "en": "Casa Roque Gameiro"
+          },
+          "coords": [
+            -9.2278,
+            38.7601
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:08",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Dieses wunderschöne Haus zeigt die Arbeit des berühmten Aquarellmalers.",
+            "hu": "Ez a gyönyörű ház a híres akvarellfestő munkásságát mutatja be.",
+            "ro": "Această casă frumoasă prezintă opera celebrului pictor acuarelist.",
+            "en": "This beautiful house showcases the work of the famous watercolor painter."
+          }
+        },
+        {
+          "name": {
+            "de": "Necrópole de Carenque",
+            "hu": "Necrópole de Carenque",
+            "ro": "Necropola de la Carenque",
+            "en": "Necropolis of Carenque"
+          },
+          "coords": [
+            -9.255,
+            38.7753
+          ],
+          "category": "historical",
+          "arrive_at": "14:53",
+          "stay_min": 98,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine kurze Radtour außerhalb der Stadt führt Sie zu diesen alten, in den Fels gehauenen Gräbern. Es ist ein historischer Abstecher.",
+            "hu": "Egy rövid biciklitúra a városon kívül elvezet ezekhez az ősi, sziklába vájt sírokhoz. Ez egy történelmi kitérő.",
+            "ro": "O scurtă plimbare cu bicicleta în afara orașului vă duce la aceste morminte antice săpate în stâncă. Este un ocol istoric.",
+            "en": "A short bike ride out of the city takes you to these ancient rock-cut tombs. It's a historical detour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag mit einer Erkundung des industriellen Erbes bei den Moinhos da Funcheira. Fahren Sie dann zum beeindruckenden Aquädukt für eine Dosis Geschichte und Ingenieurskunst. Zur Mittagszeit können Sie sich im Parque Central entspannen und neue Energie tanken. Am Nachmittag tauchen Sie in die Kunst in der Casa Roque Gameiro ein, bevor Sie eine historische Reise zur antiken Nekropole von Carenque unternehmen. Ihr Tag endet mit einer tiefen Wertschätzung für die vielfältige Geschichte von Amadora.",
+        "hu": "Kezdje a kerékpáros napot az ipari örökség felfedezésével a Moinhos da Funcheira-nál. Ezután tekerjen a lenyűgöző akvadukthoz egy adag történelemért és mérnöki tudományért. Ebédidőben pihenjen és töltődjön fel a Parque Centralban. Délután merüljön el a művészetben a Casa Roque Gameiro-ban, mielőtt egy történelmi utazást tenne az ősi Carenque nekropoliszhoz. A nap végén mélyen értékelni fogja Amadora változatos történelmét.",
+        "ro": "Începeți ziua pe bicicletă explorând patrimoniul industrial la Moinhos da Funcheira. Apoi, pedalați spre impresionantul apeduct pentru o doză de istorie și inginerie. La prânz, relaxați-vă și reîncărcați-vă bateriile în Parque Central. După-amiaza, scufundați-vă în artă la Casa Roque Gameiro înainte de a face o călătorie istorică la necropola antică de la Carenque. Ziua se încheie cu o apreciere profundă a istoriei diverse a Amadorei.",
+        "en": "Start your cycling day exploring industrial heritage at Moinhos da Funcheira. Then, pedal to the impressive aqueduct for a dose of history and engineering. At midday, relax and recharge in Parque Central. In the afternoon, immerse yourself in art at Casa Roque Gameiro before taking a historical journey to the ancient Necropolis of Carenque. Your day ends with a deep appreciation for Amadora's diverse history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bifana",
+            "tip": "Ein einfaches, aber köstliches Schweinefleischsandwich, perfekt für einen schnellen Bissen."
+          },
+          {
+            "name": "Sardinhas Assadas",
+            "tip": "Wenn Sie im Sommer zu Besuch sind, sind gegrillte Sardinen ein Muss."
+          },
+          {
+            "name": "Caldo Verde",
+            "tip": "Eine traditionelle portugiesische Suppe mit Grünkohl, Kartoffeln und Chouriço."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bifana",
+            "tip": "Egyszerű, de finom sertéshúsos szendvics, tökéletes egy gyors harapnivalóhoz."
+          },
+          {
+            "name": "Sardinhas Assadas",
+            "tip": "Ha nyáron látogat el, a grillezett szardínia kihagyhatatlan."
+          },
+          {
+            "name": "Caldo Verde",
+            "tip": "Hagyományos portugál leves kelkáposztával, burgonyával és chouriço-val."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bifana",
+            "tip": "Un sandviș simplu, dar delicios, cu carne de porc, perfect pentru o gustare rapidă."
+          },
+          {
+            "name": "Sardinhas Assadas",
+            "tip": "Dacă vizitați vara, sardinele la grătar sunt o necesitate."
+          },
+          {
+            "name": "Caldo Verde",
+            "tip": "O supă tradițională portugheză cu varză kale, cartofi și chouriço."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bifana",
+            "tip": "A simple yet delicious pork sandwich, perfect for a quick bite."
+          },
+          {
+            "name": "Sardinhas Assadas",
+            "tip": "If you're visiting in summer, grilled sardines are a must-try."
+          },
+          {
+            "name": "Caldo Verde",
+            "tip": "A traditional Portuguese soup with collard greens, potatoes, and chouriço."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Jamor",
+            "tip": "In der Nähe der Nekropole finden Sie ruhige Plätze am Fluss.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parque da Mónica",
+            "tip": "Ein weiterer Park, der oft ruhiger ist als der zentrale.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang von einer Anhöhe",
+            "tip": "Suchen Sie eine der Anhöhen der Stadt für einen Blick auf den Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jamor folyó partja",
+            "tip": "A nekropolisz közelében csendes helyeket találhat a folyó mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parque da Mónica",
+            "tip": "Egy másik park, amely gyakran csendesebb, mint a központi.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente egy magaslatról",
+            "tip": "Keressen egyet a város dombjai közül a naplemente megtekintéséhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Jamor",
+            "tip": "Lângă necropolă, găsiți locuri liniștite lângă râu.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parque da Mónica",
+            "tip": "Un alt parc, adesea mai liniștit decât cel central.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus de soare de pe un deal",
+            "tip": "Găsiți unul dintre dealurile orașului pentru o priveliște la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of Jamor River",
+            "tip": "Near the necropolis, find quiet spots by the river.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parque da Mónica",
+            "tip": "Another park that's often quieter than the central one.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset from a high point",
+            "tip": "Find one of the city's hills for a sunset view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Lokale Fahrradgeschäfte haben möglicherweise einzigartige Trikots oder Zubehör."
+          },
+          {
+            "name": "Kunsthandwerksläden",
+            "tip": "Suchen Sie nach kleinen Läden, die handgefertigte portugiesische Waren verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "A helyi kerékpárboltokban egyedi mezeket vagy kiegészítőket találhat."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keressen kis boltokat, amelyek kézzel készített portugál árukat árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Magazinele locale de biciclete pot avea tricouri sau accesorii unice."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Căutați magazine mici care vând produse artizanale portugheze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "Local bike shops might have unique jerseys or accessories."
+          },
+          {
+            "name": "Artisan Shops",
+            "tip": "Look for small shops selling handmade Portuguese goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Amadora hat einige Hügel, seien Sie also auf Steigungen vorbereitet.",
+          "Schließen Sie Ihr Fahrrad immer an, auch wenn Sie nur kurz anhalten.",
+          "Viele Straßen sind möglicherweise nicht fahrradfreundlich, seien Sie also vorsichtig im Verkehr.",
+          "Eine Powerbank zum Aufladen des Telefons für die Navigation ist nützlich."
+        ],
+        "hu": [
+          "Amadorában vannak dombok, tehát készüljön fel az emelkedőkre.",
+          "Mindig zárja le a kerékpárját, még akkor is, ha csak rövid időre áll meg.",
+          "Sok út nem feltétlenül kerékpárbarát, ezért legyen óvatos a forgalomban.",
+          "Hasznos lehet egy power bank a telefon navigációhoz való töltéséhez."
+        ],
+        "ro": [
+          "Amadora are câteva dealuri, așa că fiți pregătiți pentru urcări.",
+          "Întotdeauna încuiați-vă bicicleta, chiar dacă vă opriți doar pentru un moment.",
+          "Multe străzi pot să nu fie prietenoase cu bicicletele, așa că fiți prudenți în trafic.",
+          "O baterie externă pentru a vă încărca telefonul pentru navigație este utilă."
+        ],
+        "en": [
+          "Amadora has some hills, so be prepared for climbs.",
+          "Always lock your bike, even if stopping for a moment.",
+          "Many roads may not be bike-friendly, so be cautious in traffic.",
+          "A power bank to charge your phone for navigation is useful."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:41",
+      "total_km": 21.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrt zur Necrópole de Carenque & parken",
+            "hu": "Utazás a Necrópole de Carenque-hez és parkolás",
+            "ro": "Conduceți la Necropola de la Carenque și parcați",
+            "en": "Drive to Necropolis of Carenque & Park"
+          },
+          "coords": [
+            -9.255,
+            38.7753
+          ],
+          "category": "historical",
+          "arrive_at": "09:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie mit dem am weitesten entfernten Punkt. Es gibt normalerweise Parkplätze in der Nähe dieser historischen Stätte.",
+            "hu": "Kezdje a legtávolabbi ponttal. Általában van parkolóhely e történelmi helyszín közelében.",
+            "ro": "Începeți cu cel mai îndepărtat punct. De obicei, există parcare disponibilă lângă acest sit istoric.",
+            "en": "Start with the furthest point. There's usually parking available near this historic site."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zu den Moinhos da Funcheira",
+            "hu": "Utazás a Moinhos da Funcheira-hoz",
+            "ro": "Conduceți la Moinhos da Funcheira",
+            "en": "Drive to Moinhos da Funcheira"
+          },
+          "coords": [
+            -9.2488,
+            38.7511
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe der Windmühlen und machen Sie einen kurzen Spaziergang, um sie zu sehen.",
+            "hu": "Parkoljon a szélmalmok közelében, és tegyen egy rövid sétát, hogy megnézze őket.",
+            "ro": "Parcați lângă morile de vânt și faceți o scurtă plimbare pentru a le vedea.",
+            "en": "Park near the windmills and take a short walk to see them."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt ins Zentrum & parken",
+            "hu": "Utazás a központba és parkolás",
+            "ro": "Conduceți spre centru și parcați",
+            "en": "Drive to the Center & Park"
+          },
+          "coords": [
+            -9.224,
+            38.759
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Finden Sie einen zentralen Parkplatz in der Nähe des Parque Central. Hier beginnt Ihr Rundgang.",
+            "hu": "Keressen egy központi parkolót a Parque Central közelében. Innen indul a sétája.",
+            "ro": "Găsiți o parcare centrală lângă Parque Central. Acesta este punctul de plecare pentru turul dvs. pe jos.",
+            "en": "Find a central parking spot near Parque Central. This will be your base for the walking cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Spaziergang zur Casa Roque Gameiro",
+            "hu": "Ebéd és séta a Casa Roque Gameiro-hoz",
+            "ro": "Prânz și plimbare la Casa Roque Gameiro",
+            "en": "Lunch and Walk to Casa Roque Gameiro"
+          },
+          "coords": [
+            -9.2278,
+            38.7601
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach dem Mittagessen in einem lokalen Restaurant ist es nur ein kurzer Spaziergang zum Haus.",
+            "hu": "Ebéd után egy helyi étteremben csak egy rövid séta a ház.",
+            "ro": "După prânz la un restaurant local, este o plimbare scurtă până la casă.",
+            "en": "After lunch at a local eatery, it's a short walk to the house."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zum Teatro dos Aloés",
+            "hu": "Séta a Teatro dos Aloés-hez",
+            "ro": "Plimbare la Teatro dos Aloés",
+            "en": "Walk to Teatro dos Aloés"
+          },
+          "coords": [
+            -9.2305,
+            38.7582
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie vom Haus zum Theater und erleben Sie die lokale Atmosphäre.",
+            "hu": "Sétáljon el a háztól a színházig, és szívja magába a helyi hangulatot.",
+            "ro": "Mergeți pe jos de la casă la teatru, absorbind atmosfera locală.",
+            "en": "Walk from the house to the theatre, absorbing the local atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zur Biblioteca Municipal",
+            "hu": "Séta a Biblioteca Municipal-hoz",
+            "ro": "Plimbare la Biblioteca Municipală",
+            "en": "Walk to the Municipal Library"
+          },
+          "coords": [
+            -9.229,
+            38.756
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Rundgang in der Stadtbibliothek, einem modernen Kulturzentrum.",
+            "hu": "Fejezze be a sétát a városi könyvtárnál, egy modern kulturális központnál.",
+            "ro": "Încheiați-vă turul pe jos la biblioteca municipală, un centru cultural modern.",
+            "en": "End your walking tour at the municipal library, a modern cultural hub."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer Fahrt zur fernen und alten Necrópole de Carenque. Fahren Sie dann weiter zu den historischen Windmühlen. Zur Mittagszeit parken Sie Ihr Auto im Zentrum und beginnen einen Spaziergang. Genießen Sie das Mittagessen, gefolgt von einem Besuch in der kunstvollen Casa Roque Gameiro. Am Nachmittag schlendern Sie zum Theater und zur Bibliothek und tauchen in das lokale Kulturleben ein, bevor Sie zu Ihrem Auto zurückkehren.",
+        "hu": "Kezdje a napot egy utazással a távoli és ősi Necrópole de Carenque-hez. Ezután vezessen tovább a történelmi szélmalmokhoz. Ebédidőben parkolja le autóját a központban, és induljon sétára. Ebédeljen, majd látogasson el a művészi Casa Roque Gameiro-ba. Délután sétáljon el a színházhoz és a könyvtárhoz, elmerülve a helyi kulturális életben, mielőtt visszatérne az autójához.",
+        "ro": "Începeți ziua cu o călătorie spre îndepărtata și antica Necropolă de la Carenque. Apoi, conduceți mai departe spre morile de vânt istorice. La prânz, parcați mașina în centru și începeți un tur pe jos. Bucurați-vă de prânz, urmat de o vizită la artistica Casă Roque Gameiro. După-amiaza, plimbați-vă la teatru și bibliotecă, absorbind viața culturală locală înainte de a vă întoarce la mașină.",
+        "en": "Start your day by driving to the distant and ancient Necropolis of Carenque. Then, drive onwards to the historic windmills. At midday, park your car in the center and begin a walking cluster. Enjoy lunch, followed by a visit to the artistic Casa Roque Gameiro. In the afternoon, stroll to the theatre and library, absorbing the local cultural life before heading back to your car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cozido à Portuguesa",
+            "tip": "Ein herzhafter Eintopf mit verschiedenen Fleischsorten und Gemüse, perfekt nach einem Vormittag voller Erkundungen."
+          },
+          {
+            "name": "Arroz de Marisco",
+            "tip": "Obwohl keine Küstenstadt, können Sie dennoch ausgezeichneten Meeresfrüchtereis finden."
+          },
+          {
+            "name": "Queijo da Serra",
+            "tip": "Probieren Sie diesen berühmten portugiesischen Schafskäse, wenn Sie ihn finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cozido à Portuguesa",
+            "tip": "Bőséges pörkölt különböző húsokkal és zöldségekkel, tökéletes egy felfedezéssel töltött délelőtt után."
+          },
+          {
+            "name": "Arroz de Marisco",
+            "tip": "Bár nem tengerparti város, mégis találhat kiváló tenger gyümölcsei rizst."
+          },
+          {
+            "name": "Queijo da Serra",
+            "tip": "Kóstolja meg ezt a híres portugál juhsajtot, ha talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cozido à Portuguesa",
+            "tip": "O tocană consistentă cu diverse cărnuri și legume, perfectă după o dimineață de explorare."
+          },
+          {
+            "name": "Arroz de Marisco",
+            "tip": "Deși nu este un oraș de coastă, puteți găsi totuși orez cu fructe de mare excelent."
+          },
+          {
+            "name": "Queijo da Serra",
+            "tip": "Încercați această faimoasă brânză de oaie portugheză dacă o găsiți."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cozido à Portuguesa",
+            "tip": "A hearty stew of various meats and vegetables, perfect after a morning of exploring."
+          },
+          {
+            "name": "Arroz de Marisco",
+            "tip": "Although not a coastal city, you can still find excellent seafood rice."
+          },
+          {
+            "name": "Queijo da Serra",
+            "tip": "Try this famous Portuguese sheep's cheese if you can find it."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Necrópole de Carenque Umgebung",
+            "tip": "Die Gegend um die Nekropole ist oft sehr ruhig und geschichtsträchtig.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parque Florestal de Monsanto",
+            "tip": "Eine kurze Autofahrt entfernt liegt dieser riesige Park, der eine großartige Flucht aus der Stadt bietet.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Blick vom Aquädukt",
+            "tip": "Finden Sie einen Aussichtspunkt in der Nähe des Aquädukts für einen Panoramablick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Necrópole de Carenque környéke",
+            "tip": "A nekropolisz környéke gyakran nagyon csendes és történelmi hangulatú.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parque Florestal de Monsanto",
+            "tip": "Egy rövid autóútra található ez a hatalmas park, amely nagyszerű menekülést kínál a városból.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Kilátás az Akvaduktról",
+            "tip": "Keressen egy kilátópontot az akvadukt közelében a panorámás kilátásért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Împrejurimile Necropolei de la Carenque",
+            "tip": "Zona din jurul necropolei este adesea foarte liniștită și plină de istorie.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Forestier Monsanto",
+            "tip": "La o scurtă distanță cu mașina se află acest parc imens, o evadare excelentă din oraș.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Vedere de la Apeduct",
+            "tip": "Găsiți un punct de belvedere lângă apeduct pentru o priveliște panoramică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Necropolis of Carenque surroundings",
+            "tip": "The area around the necropolis is often very quiet and steeped in history.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Monsanto Forest Park",
+            "tip": "A short drive away, this huge park is a great escape from the city.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "View from the Aqueduct",
+            "tip": "Find a viewpoint near the aqueduct for a panoramic view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Dolce Vita Tejo",
+            "tip": "Eines der größten Einkaufszentren Europas ist nur eine kurze Autofahrt entfernt."
+          },
+          {
+            "name": "Lokale Konditoreien (Pastelarias)",
+            "tip": "Kaufen Sie eine Schachtel lokales Gebäck, um sie mit nach Hause zu nehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dolce Vita Tejo",
+            "tip": "Európa egyik legnagyobb bevásárlóközpontja csak egy rövid autóútra van."
+          },
+          {
+            "name": "Helyi cukrászdák (Pastelarias)",
+            "tip": "Vásároljon egy doboz helyi süteményt hazavitelre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dolce Vita Tejo",
+            "tip": "Unul dintre cele mai mari centre comerciale din Europa se află la o scurtă distanță cu mașina."
+          },
+          {
+            "name": "Cofetării locale (Pastelarias)",
+            "tip": "Cumpărați o cutie de produse de patiserie locale pentru a le lua acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dolce Vita Tejo",
+            "tip": "One of Europe's largest shopping centers is a short drive away."
+          },
+          {
+            "name": "Local Pastry Shops (Pastelarias)",
+            "tip": "Buy a box of local pastries to take home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie Offline-Karten herunter, um die Navigation zu erleichtern.",
+          "Parken im Zentrum kann eine Herausforderung sein; Parkhäuser sind eine sichere Wette.",
+          "Achten Sie auf Mautstraßen in der Umgebung von Lissabon.",
+          "Ein Auto gibt Ihnen die Flexibilität, abgelegene Orte wie die Nekropole leicht zu besuchen."
+        ],
+        "hu": [
+          "Töltse le az offline térképeket a könnyebb navigáció érdekében.",
+          "A központban a parkolás kihívást jelenthet; a parkolóházak biztos megoldást jelentenek.",
+          "Figyeljen a fizetős utakra Lisszabon környékén.",
+          "Az autó rugalmasságot ad ahhoz, hogy könnyedén meglátogassa az olyan távoli helyeket, mint a nekropolisz."
+        ],
+        "ro": [
+          "Descărcați hărți offline pentru a facilita navigarea.",
+          "Parcarea în centru poate fi o provocare; parcările supraetajate sunt o opțiune sigură.",
+          "Fiți atenți la drumurile cu taxă din jurul Lisabonei.",
+          "O mașină vă oferă flexibilitatea de a vizita cu ușurință locuri îndepărtate precum necropola."
+        ],
+        "en": [
+          "Download offline maps to help with navigation.",
+          "Parking in the center can be challenging; parking garages are a safe bet.",
+          "Be aware of toll roads in the greater Lisbon area.",
+          "A car gives you the flexibility to visit outlying sites like the necropolis easily."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 9.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrt zur Station Reboleira & Spaziergang zur Kirche",
+            "hu": "Utazás a Reboleira állomásra és séta a templomhoz",
+            "ro": "Călătorie la stația Reboleira și plimbare la biserică",
+            "en": "Trip to Reboleira Station & Walk to Church"
+          },
+          "coords": [
+            -9.2411,
+            38.7543
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die U-Bahn-Station Reboleira (Blaue Linie) ist ein guter Ausgangspunkt.",
+            "hu": "A Reboleira metróállomás (kék vonal) jó kiindulópont.",
+            "ro": "Stația de metrou Reboleira (Linia Albastră) este un bun punct de plecare.",
+            "en": "Reboleira metro station (Blue Line) is a good starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zum Parque Central da Amadora",
+            "hu": "Séta a Parque Central da Amadora-hoz",
+            "ro": "Plimbare la Parque Central da Amadora",
+            "en": "Walk to Parque Central da Amadora"
+          },
+          "coords": [
+            -9.2236,
+            38.7595
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein angenehmer Spaziergang vom Kirchenviertel zum Herzen der Stadt.",
+            "hu": "Kellemes séta a templomnegyedből a város szívébe.",
+            "ro": "O plimbare plăcută din cartierul bisericii în inima orașului.",
+            "en": "A pleasant walk from the church district to the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt ins Zentrum & Spaziergang zur Casa Roque Gameiro",
+            "hu": "Utazás a központba és séta a Casa Roque Gameiro-hoz",
+            "ro": "Călătorie în centru și plimbare la Casa Roque Gameiro",
+            "en": "Trip to Center & Walk to Casa Roque Gameiro"
+          },
+          "coords": [
+            -9.2278,
+            38.7601
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus, um näher an den zentralen Kulturcluster zu gelangen.",
+            "hu": "Vegyen egy helyi buszt, hogy közelebb kerüljön a központi kulturális negyedhez.",
+            "ro": "Luați un autobuz local pentru a vă apropia de clusterul cultural central.",
+            "en": "Take a local bus to get closer to the central cultural cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zum Teatro dos Aloés",
+            "hu": "Séta a Teatro dos Aloés-hez",
+            "ro": "Plimbare la Teatro dos Aloés",
+            "en": "Walk to Teatro dos Aloés"
+          },
+          "coords": [
+            -9.2305,
+            38.7582
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:19",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie ein Mittagessen in der Nähe des Theaters, bevor Sie es erkunden.",
+            "hu": "Ebédeljen a színház közelében, mielőtt felfedezné.",
+            "ro": "Bucurați-vă de prânz lângă teatru înainte de a-l explora.",
+            "en": "Enjoy lunch near the theatre before exploring it."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Aqueduto das Águas Livres",
+            "hu": "Busz az Aqueduto das Águas Livres-hez",
+            "ro": "Autobuz spre Aqueduto das Águas Livres",
+            "en": "Bus to Aqueduto das Águas Livres"
+          },
+          "coords": [
+            -9.213,
+            38.7458
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:29",
+          "stay_min": 66,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der letzte Ausflug des Tages, um das technische Wunderwerk zu sehen, das Lissabon mit Wasser versorgte.",
+            "hu": "A nap utolsó kirándulása, hogy megnézze a mérnöki csodát, amely Lisszabont vízzel látta el.",
+            "ro": "Ultima excursie a zilei pentru a vedea minunea inginerească care a aprovizionat Lisabona cu apă.",
+            "en": "The final trip of the day to see the engineering marvel that supplied Lisbon with water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Reise mit den öffentlichen Verkehrsmitteln an der Station Reboleira und besuchen Sie die nahegelegene Kirche. Gehen Sie dann zum Parque Central für eine grüne Pause. Ein weiterer Bus bringt Sie ins Herz des Kulturviertels. Nach dem Mittagessen erkunden Sie zu Fuß die Casa Roque Gameiro und das Theater. Am späten Nachmittag bringt Sie ein letzter Bus zum beeindruckenden Aquädukt, ein perfekter Abschluss Ihres Erkundungstages.",
+        "hu": "Kezdje a tömegközlekedési utazást a Reboleira állomáson, és látogasson el a közeli templomba. Sétáljon el a Parque Centralba egy zöld szünetért. Egy másik busz elviszi a kulturális negyed szívébe. Ebéd után fedezze fel gyalog a Casa Roque Gameiro-t és a színházat. Késő délután egy utolsó busz elviszi a lenyűgöző akvadukthoz, amely tökéletes befejezése a felfedező napnak.",
+        "ro": "Începeți călătoria cu transportul public la stația Reboleira, vizitând biserica din apropiere. Apoi, mergeți pe jos până la Parque Central pentru o pauză verde. Un alt autobuz vă va duce în inima clusterului cultural. După prânz, explorați Casa Roque Gameiro și teatrul pe jos. La sfârșitul după-amiezii, un ultim autobuz vă va duce la impresionantul apeduct, o încheiere perfectă a zilei de explorare.",
+        "en": "Start your transit journey at Reboleira station, visiting the nearby church. Then, walk to Parque Central for a green break. Another bus takes you to the heart of the cultural cluster. After lunch, explore Casa Roque Gameiro and the theatre on foot. In the late afternoon, a final bus ride takes you to the impressive aqueduct, a perfect end to your day of exploration."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Francesinha",
+            "tip": "Obwohl aus Porto stammend, finden Sie Versionen dieses monströsen Fleischsandwiches auch hier."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "Ein erfrischender, leicht sprudelnder junger Wein, der perfekt zum Mittagessen passt."
+          },
+          {
+            "name": "Pão com Chouriço",
+            "tip": "Ein köstliches Brot, das mit Chouriço-Wurst gebacken wird und oft auf Märkten verkauft wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Francesinha",
+            "tip": "Bár Portóból származik, ennek a szörnyeteg méretű húsos szendvicsnek a változatait itt is megtalálja."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "Frissítő, enyhén szénsavas fiatal bor, tökéletes ebédhez."
+          },
+          {
+            "name": "Pão com Chouriço",
+            "tip": "Finom, chouriço kolbásszal sütött kenyér, amelyet gyakran piacokon árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Francesinha",
+            "tip": "Deși originar din Porto, puteți găsi versiuni ale acestui sandviș monstruos cu carne și aici."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "Un vin tânăr răcoritor, ușor acidulat, perfect pentru prânz."
+          },
+          {
+            "name": "Pão com Chouriço",
+            "tip": "O pâine delicioasă coaptă cu cârnați chouriço, adesea vândută în piețe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Francesinha",
+            "tip": "Although from Porto, you can find versions of this monstrous meat sandwich here."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "A refreshing, slightly sparkling young wine, perfect with lunch."
+          },
+          {
+            "name": "Pão com Chouriço",
+            "tip": "A delicious bread baked with chouriço sausage, often sold at markets."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Biblioteca Municipal",
+            "tip": "Die Bibliothek selbst kann ein ruhiger Zufluchtsort sein.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parque Aventura",
+            "tip": "Ein weiterer Park, der mit dem Bus erreichbar ist und Raum zum Entspannen bietet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang entlang des Aquädukts",
+            "tip": "Suchen Sie sich einen ruhigen Abschnitt zum Spazierengehen und Nachdenken.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Biblioteca Municipal",
+            "tip": "Maga a könyvtár is csendes menedék lehet.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parque Aventura",
+            "tip": "Egy másik park, amely busszal elérhető, és helyet kínál a pihenésre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Séta az Akvadukt mentén",
+            "tip": "Keressen egy csendes szakaszt a sétához és az elmélkedéshez.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biblioteca Municipală",
+            "tip": "Biblioteca însăși poate fi un refugiu liniștit.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parque Aventura",
+            "tip": "Un alt parc accesibil cu autobuzul, care oferă spațiu pentru relaxare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare de-a lungul Apeductului",
+            "tip": "Găsiți o secțiune liniștită pentru a vă plimba și a reflecta.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Municipal Library",
+            "tip": "The library itself can be a quiet refuge.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parque Aventura",
+            "tip": "Another park accessible by bus that offers space to relax.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Walk along the Aqueduct",
+            "tip": "Find a quiet section to walk and reflect.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Straßenverkäufer",
+            "tip": "Halten Sie Ausschau nach Verkäufern in der Nähe von Bahnhöfen, die Snacks und Schmuck verkaufen."
+          },
+          {
+            "name": "Colombo Einkaufszentrum",
+            "tip": "Mit der U-Bahn erreichbar, ist dies ein weiteres riesiges Einkaufszentrum für ernsthaftes Einkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Utcai árusok",
+            "tip": "Figyelje az állomások közelében lévő árusokat, akik rágcsálnivalókat és csecsebecséket árulnak."
+          },
+          {
+            "name": "Colombo Bevásárlóközpont",
+            "tip": "Metróval elérhető, ez egy másik hatalmas bevásárlóközpont a komoly vásárláshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vânzători ambulanți",
+            "tip": "Fiți atenți la vânzătorii de lângă stații care vând gustări și mărunțișuri."
+          },
+          {
+            "name": "Centrul Comercial Colombo",
+            "tip": "Accesibil cu metroul, acesta este un alt centru comercial imens pentru cumpărături serioase."
+          }
+        ],
+        "en": [
+          {
+            "name": "Street Vendors",
+            "tip": "Look out for vendors near stations selling snacks and trinkets."
+          },
+          {
+            "name": "Colombo Shopping Centre",
+            "tip": "Accessible by metro, this is another huge mall for serious shopping."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine 'Viva Viagem'-Karte für die einfachste Art, für alle öffentlichen Verkehrsmittel zu bezahlen.",
+          "Validieren Sie Ihr Ticket jedes Mal, wenn Sie in einen Bus, eine U-Bahn oder eine Straßenbahn einsteigen.",
+          "Busfahrpläne können variieren, überprüfen Sie die Zeiten also im Voraus.",
+          "Verwenden Sie eine ÖPNV-App, um Ihre Route in Echtzeit zu planen."
+        ],
+        "hu": [
+          "Vásároljon egy 'Viva Viagem' kártyát a legegyszerűbb fizetési módhoz az összes tömegközlekedési eszközön.",
+          "Érvényesítse a jegyét minden alkalommal, amikor felszáll egy buszra, metróra vagy villamosra.",
+          "A buszmenetrendek változhatnak, ezért ellenőrizze előre az időpontokat.",
+          "Használjon egy tömegközlekedési alkalmazást az útvonal valós idejű megtervezéséhez."
+        ],
+        "ro": [
+          "Cumpărați un card 'Viva Viagem' pentru cel mai simplu mod de a plăti pentru tot transportul public.",
+          "Validați-vă biletul de fiecare dată când urcați într-un autobuz, metrou sau tramvai.",
+          "Orarele autobuzelor pot varia, așa că verificați orele în avans.",
+          "Utilizați o aplicație de transport public pentru a vă planifica traseul în timp real."
+        ],
+        "en": [
+          "Buy a 'Viva Viagem' card for the easiest way to pay for all public transport.",
+          "Validate your ticket every time you board a bus, metro, or tram.",
+          "Bus schedules can vary, so check times in advance.",
+          "Use a public transit app to plan your route in real-time."
+        ]
+      }
+    }
+  }
+}

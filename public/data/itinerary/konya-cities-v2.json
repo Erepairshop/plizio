@@ -1,0 +1,1508 @@
+{
+  "city_id": "konya-cities-v2",
+  "anchor": {
+    "name": "Konya",
+    "coords": [
+      32.4833,
+      37.8667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Alaeddin-Hügel & Moschee",
+            "hu": "Alaeddin-domb és mecset",
+            "ro": "Dealul și Moscheea Alaeddin",
+            "en": "Alaeddin Hill & Mosque"
+          },
+          "coords": [
+            32.4842,
+            37.8745
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier für einen Panoramablick auf die Stadt und um die alte Moschee zu erkunden.",
+            "hu": "Kezdje itt a napot, hogy panorámát kapjon a városról és felfedezze az ősi mecsetet.",
+            "ro": "Începeți de aici pentru o vedere panoramică a orașului și pentru a explora vechea moschee.",
+            "en": "Start here for a panoramic view of the city and to explore the ancient mosque."
+          }
+        },
+        {
+          "name": {
+            "de": "Medrese der Dünnen Minarette",
+            "hu": "Vékony Minaretű Medresze",
+            "ro": "Madrasa Minaretului Subțire",
+            "en": "Ince Minareli (Slender Minaret) Madrasa"
+          },
+          "coords": [
+            32.4801,
+            37.8748
+          ],
+          "category": "museums",
+          "arrive_at": "10:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie das kunstvolle Steinmetzwerk am Eingang, ein Meisterwerk der Seldschuken.",
+            "hu": "Csodálja meg a bejárat bonyolult kőfaragását, a szeldzsuk művészet remekművét.",
+            "ro": "Admirați sculptura complexă în piatră de la intrare, o capodoperă selgiucidă.",
+            "en": "Admire the intricate stone carving at the entrance, a Seljuk masterpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Karatay-Medrese",
+            "hu": "Karatay Medresze",
+            "ro": "Madrasa Karatay",
+            "en": "Karatay Madrasa"
+          },
+          "coords": [
+            32.4855,
+            37.8761
+          ],
+          "category": "museums",
+          "arrive_at": "11:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Heute ein Museum für Fliesenkunst. Die Kuppel mit den Sternenmustern ist atemberaubend.",
+            "hu": "Ma csempeművészeti múzeum. A csillagmintás kupola lélegzetelállító.",
+            "ro": "Astăzi este un muzeu de artă a faianței. Domul cu modele stelare este uluitor.",
+            "en": "Now a museum of tile art. The dome with its star patterns is breathtaking."
+          }
+        },
+        {
+          "name": {
+            "de": "Mevlana-Museum",
+            "hu": "Mevlana Múzeum",
+            "ro": "Muzeul Mevlana",
+            "en": "Mevlana Museum"
+          },
+          "coords": [
+            32.5052,
+            37.8714
+          ],
+          "category": "museums",
+          "arrive_at": "13:38",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie genug Zeit für diesen spirituellen Ort ein. Respektvolle Kleidung ist erforderlich.",
+            "hu": "Szánjon elegendő időt erre a spirituális helyre. Tiszteletteljes öltözet szükséges.",
+            "ro": "Planificați suficient timp pentru acest loc spiritual. Este necesară o ținută respectuoasă.",
+            "en": "Allow plenty of time for this spiritual place. Respectful attire is required."
+          }
+        },
+        {
+          "name": {
+            "de": "Selimiye-Moschee",
+            "hu": "Szelim-mecset",
+            "ro": "Moscheea Selimiye",
+            "en": "Selimiye Mosque"
+          },
+          "coords": [
+            32.5041,
+            37.8708
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein klassisches Beispiel osmanischer Architektur, direkt neben dem Mevlana-Museum.",
+            "hu": "A klasszikus oszmán építészet példája, közvetlenül a Mevlana Múzeum mellett.",
+            "ro": "Un exemplu clasic de arhitectură otomană, chiar lângă Muzeul Mevlana.",
+            "en": "A classic example of Ottoman architecture, located right next to the Mevlana Museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Aziziye-Moschee",
+            "hu": "Aziziye-mecset",
+            "ro": "Moscheea Aziziye",
+            "en": "Aziziye Mosque"
+          },
+          "coords": [
+            32.5001,
+            37.8702
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Einzigartige Mischung aus Barock und osmanischem Stil mit zwei Minaretten mit Balkonen.",
+            "hu": "A barokk és az oszmán stílus egyedi keveréke, két erkélyes minarettel.",
+            "ro": "Un amestec unic de stil baroc și otoman, cu două minarete cu balcoane.",
+            "en": "A unique mix of Baroque and Ottoman styles, with two minarets with balconies."
+          }
+        },
+        {
+          "name": {
+            "de": "Historischer Basar",
+            "hu": "Történelmi bazár",
+            "ro": "Bazarul Istoric",
+            "en": "Historical Bazaar"
+          },
+          "coords": [
+            32.5015,
+            37.871
+          ],
+          "category": "shopping",
+          "arrive_at": "17:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den Gassen und probieren Sie lokale Süßigkeiten. Feilschen ist üblich.",
+            "hu": "Vesszen el a sikátorokban, és kóstoljon helyi édességeket. Az alku szokás.",
+            "ro": "Pierdeți-vă pe alei și gustați dulciuri locale. Negocierea este obișnuită.",
+            "en": "Get lost in the alleys and try local sweets. Bargaining is common."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt auf dem historischen Alaeddin-Hügel. Der Vormittag ist der Erkundung der prächtigen seldschukischen Medresen gewidmet, die alle zu Fuß erreichbar sind. Nach einem Spaziergang durch das Zentrum erreichen Sie am Nachmittag den spirituellen Kern der Stadt, das Mevlana-Museum, und die benachbarten osmanischen Moscheen. Der Tag endet im Labyrinth des alten Basars, wo Sie in das lokale Leben eintauchen können.",
+        "hu": "A nap a történelmi Alaeddin-dombon kezdődik. A délelőttöt a csodálatos szeldzsuk medreszék felfedezésének szenteljük, melyek mind gyalogosan elérhetők. A központon átsétálva délután éri el a város spirituális szívét, a Mevlana Múzeumot és a szomszédos oszmán mecseteket. A nap a régi bazár labirintusában ér véget, ahol elmerülhet a helyi életben.",
+        "ro": "Ziua începe pe istoricul Deal Alaeddin. Dimineața este dedicată explorării magnificelor madrasa selgiucide, toate la distanță de mers pe jos. După o plimbare prin centru, după-amiaza ajungeți la inima spirituală a orașului, Muzeul Mevlana, și la moscheile otomane adiacente. Ziua se încheie în labirintul vechiului bazar, unde vă puteți cufunda în viața locală.",
+        "en": "Your day starts on the historic Alaeddin Hill. The morning is dedicated to exploring the magnificent Seljuk madrasas, all within walking distance. After a walk through the center, you'll reach the city's spiritual heart in the afternoon, the Mevlana Museum, and the adjacent Ottoman mosques. The day ends in the labyrinth of the old bazaar, where you can immerse yourself in local life."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Etli Ekmek",
+            "tip": "Probieren Sie dieses 'Brot mit Fleisch', eine lange, dünne Pizza-ähnliche Spezialität."
+          },
+          {
+            "name": "Fırın Kebabı",
+            "tip": "Langsam im Ofen gegartes Lammfleisch, unglaublich zart."
+          },
+          {
+            "name": "Mevlana Böreği",
+            "tip": "Ein Gebäck mit Käse oder Hackfleisch, oft in einer runden Form serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Etli Ekmek",
+            "tip": "Kóstolja meg ezt a 'húsos kenyeret', egy hosszú, vékony pizza-szerű különlegességet."
+          },
+          {
+            "name": "Fırın Kebabı",
+            "tip": "Sütőben lassan sült bárányhús, hihetetlenül omlós."
+          },
+          {
+            "name": "Mevlana Böreği",
+            "tip": "Sajttal vagy darált hússal töltött pite, gyakran kerek formában tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etli Ekmek",
+            "tip": "Încercați această 'pâine cu carne', o specialitate lungă și subțire, asemănătoare cu pizza."
+          },
+          {
+            "name": "Fırın Kebabı",
+            "tip": "Miel gătit lent la cuptor, incredibil de fraged."
+          },
+          {
+            "name": "Mevlana Böreği",
+            "tip": "O plăcintă cu brânză sau carne tocată, adesea servită într-o formă rotundă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Etli Ekmek",
+            "tip": "Try this 'bread with meat', a long, thin pizza-like specialty."
+          },
+          {
+            "name": "Fırın Kebabı",
+            "tip": "Lamb slowly cooked in the oven, incredibly tender."
+          },
+          {
+            "name": "Mevlana Böreği",
+            "tip": "A pastry with cheese or minced meat, often served in a round shape."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Alaeddin-Hügel",
+            "tip": "Finden Sie eine Bank im Park auf dem Hügel, um dem Trubel der Stadt zu entkommen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Garten des Mevlana-Museums",
+            "tip": "Der Innenhof ist ein Ort der Ruhe und Besinnung.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Meram-Weingärten (außerhalb)",
+            "tip": "Für einen längeren ruhigen Ausflug sind diese Gärten ideal.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alaeddin-domb",
+            "tip": "Keressen egy padot a dombon lévő parkban, hogy elmeneküljön a város nyüzsgésétől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mevlana Múzeum kertje",
+            "tip": "Az udvar a béke és az elmélkedés helye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Meram szőlőskertek (kívül esik)",
+            "tip": "Egy hosszabb, csendes kiruccanáshoz ezek a kertek ideálisak.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Alaeddin",
+            "tip": "Găsiți o bancă în parc pe deal pentru a scăpa de agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Muzeului Mevlana",
+            "tip": "Curtea interioară este un loc de pace și reflecție.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Viile Meram (în afara traseului)",
+            "tip": "Pentru o evadare liniștită mai lungă, aceste grădini sunt ideale.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Alaeddin Hill",
+            "tip": "Find a bench in the park on the hill to escape the city bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mevlana Museum Garden",
+            "tip": "The courtyard is a place of peace and reflection.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Meram Vineyards (out of the way)",
+            "tip": "For a longer quiet getaway, these gardens are ideal.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Konya Basar",
+            "tip": "Ein Labyrinth aus Geschäften, die alles von Gewürzen bis zu Teppichen verkaufen."
+          },
+          {
+            "name": "Süßwarenläden",
+            "tip": "Probieren Sie 'Mevlana Şekeri', ein lokales Bonbon."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konya Bazár",
+            "tip": "Üzletek labirintusa, ahol a fűszerektől a szőnyegekig mindent árulnak."
+          },
+          {
+            "name": "Cukrászdák",
+            "tip": "Kóstolja meg a 'Mevlana Şekeri'-t, egy helyi cukorkát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bazarul din Konya",
+            "tip": "Un labirint de magazine care vând de la condimente la covoare."
+          },
+          {
+            "name": "Magazine de dulciuri",
+            "tip": "Încercați 'Mevlana Şekeri', o bomboană locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konya Bazaar",
+            "tip": "A labyrinth of shops selling everything from spices to carpets."
+          },
+          {
+            "name": "Sweet Shops",
+            "tip": "Try 'Mevlana Şekeri', a local candy."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Halten Sie immer eine Flasche Wasser bereit, besonders in den Sommermonaten.",
+          "Beim Betreten von Moscheen müssen Frauen ihr Haar bedecken und alle ihre Schuhe ausziehen.",
+          "Die meisten zentralen Sehenswürdigkeiten sind leicht zu Fuß erreichbar."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "Mindig legyen Önnél egy üveg víz, különösen a nyári hónapokban.",
+          "A mecsetekbe való belépéskor a nőknek el kell takarniuk a hajukat, és mindenkinek le kell vennie a cipőjét.",
+          "A legtöbb központi látnivaló könnyen elérhető gyalog."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge mult pe jos.",
+          "Aveți întotdeauna la dumneavoastră o sticlă de apă, mai ales în lunile de vară.",
+          "La intrarea în moschei, femeile trebuie să-și acopere părul și toată lumea trebuie să se descalțe.",
+          "Majoritatea atracțiilor centrale sunt ușor accesibile pe jos."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Always have a bottle of water with you, especially during the summer months.",
+          "When entering mosques, women must cover their hair, and everyone must take off their shoes.",
+          "Most central sights are easily reachable on foot."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 21.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Alaeddin-Hügel & Moschee",
+            "hu": "Alaeddin-domb és mecset",
+            "ro": "Dealul și Moscheea Alaeddin",
+            "en": "Alaeddin Hill & Mosque"
+          },
+          "coords": [
+            32.4842,
+            37.8745
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Fuße des Hügels ab und erkunden Sie den Park und die Moschee zu Fuß.",
+            "hu": "Zárja le a kerékpárt a domb alján, és fedezze fel a parkot és a mecsetet gyalog.",
+            "ro": "Lăsați bicicleta la baza dealului și explorați parcul și moscheea pe jos.",
+            "en": "Lock your bike at the bottom of the hill and explore the park and mosque on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Medrese der Dünnen Minarette",
+            "hu": "Vékony Minaretű Medresze",
+            "ro": "Madrasa Minaretului Subțire",
+            "en": "Ince Minareli Madrasa"
+          },
+          "coords": [
+            32.4801,
+            37.8748
+          ],
+          "category": "museums",
+          "arrive_at": "09:53",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer Radausflug, aber ein Muss wegen der unglaublichen Fassade.",
+            "hu": "Rövid kitérő kerékpárral, de a hihetetlen homlokzat miatt kötelező.",
+            "ro": "O scurtă plimbare cu bicicleta, dar merită pentru fațada incredibilă.",
+            "en": "A short bike ride, but a must-see for its incredible facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Mevlana-Museum",
+            "hu": "Mevlana Múzeum",
+            "ro": "Muzeul Mevlana",
+            "en": "Mevlana Museum"
+          },
+          "coords": [
+            32.5052,
+            37.8714
+          ],
+          "category": "museums",
+          "arrive_at": "11:08",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Es gibt Fahrradständer in der Nähe. Nehmen Sie sich Zeit für diesen zentralen Ort.",
+            "hu": "A közelben vannak kerékpártárolók. Szánjon időt erre a központi helyre.",
+            "ro": "Există suporturi pentru biciclete în apropiere. Acordați-vă timp pentru acest loc central.",
+            "en": "There are bike racks nearby. Take your time for this central location."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the Center"
+          },
+          "coords": [
+            32.502,
+            37.8705
+          ],
+          "category": "gastro",
+          "arrive_at": "13:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stärken Sie sich mit einem Etli Ekmek, bevor Sie die längere Radtour antreten.",
+            "hu": "Erősítsen meg egy Etli Ekmekkel a hosszabb kerékpártúra előtt.",
+            "ro": "Întăriți-vă cu un Etli Ekmek înainte de turul mai lung cu bicicleta.",
+            "en": "Fuel up with an Etli Ekmek before tackling the longer bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Tropischer Schmetterlingsgarten",
+            "hu": "Trópusi Pillangókert",
+            "ro": "Grădina Tropicală cu Fluturi",
+            "en": "Tropical Butterfly Garden"
+          },
+          "coords": [
+            32.5638,
+            37.915
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:24",
+          "stay_min": 100,
+          "hop_from_prev_min": 51,
+          "hop_from_prev_km": 8.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine längere Fahrt, aber die Belohnung ist eine Oase voller Schmetterlinge. Überprüfen Sie die Öffnungszeiten.",
+            "hu": "Hosszabb út, de a jutalom egy oázis tele pillangókkal. Ellenőrizze a nyitvatartási időt.",
+            "ro": "O plimbare mai lungă, dar recompensa este o oază plină de fluturi. Verificați programul.",
+            "en": "A longer ride, but the reward is an oasis full of butterflies. Check the opening hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Meram-Weingärten",
+            "hu": "Meram szőlőskertek",
+            "ro": "Viile Meram",
+            "en": "Meram Vineyards"
+          },
+          "coords": [
+            32.4045,
+            37.8543
+          ],
+          "category": "natural features",
+          "arrive_at": "17:42",
+          "stay_min": 50,
+          "hop_from_prev_min": 58,
+          "hop_from_prev_km": 9.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einer entspannten Radtour durch diese historischen Gärten am Stadtrand.",
+            "hu": "Zárja a napot egy pihentető kerékpártúrával ezekben a történelmi kertekben a város szélén.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă cu bicicleta prin aceste grădini istorice de la periferia orașului.",
+            "en": "End the day with a relaxing bike ride through these historic gardens on the outskirts."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Plan kombiniert städtische Erkundung mit Ausflügen in die Natur. Der Morgen konzentriert sich auf die historischen Stätten im Zentrum, die leicht mit dem Fahrrad zu erreichen sind. Nach dem Mittagessen unternehmen Sie eine längere Radtour zum beeindruckenden Tropischen Schmetterlingsgarten. Der Tag endet mit einer entspannten Fahrt durch die berühmten Meram-Gärten, ein perfekter Abschluss, um die Landschaft von Konya zu genießen.",
+        "hu": "Ez a terv ötvözi a városi felfedezést a természeti kirándulásokkal. A délelőtt a központ történelmi helyszíneire összpontosít, melyek könnyen elérhetők kerékpárral. Ebéd után egy hosszabb biciklitúrát tesz a lenyűgöző Trópusi Pillangókerthez. A nap a híres Meram kertekben tett pihentető tekeréssel zárul, ami tökéletes befejezése Konya tájainak élvezetének.",
+        "ro": "Acest plan combină explorarea urbană cu incursiuni în natură. Dimineața se concentrează pe siturile istorice din centru, ușor accesibile cu bicicleta. După prânz, veți face o plimbare mai lungă cu bicicleta până la impresionanta Grădină Tropicală cu Fluturi. Ziua se încheie cu o plimbare relaxantă prin faimoasele grădini Meram, o încheiere perfectă pentru a vă bucura de peisajul din Konya.",
+        "en": "This plan combines urban exploration with nature excursions. The morning focuses on the historical sites in the center, easily accessible by bike. After lunch, you'll take a longer bike ride to the impressive Tropical Butterfly Garden. The day ends with a relaxing ride through the famous Meram gardens, a perfect conclusion to enjoy the Konya landscape."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Etli Ekmek",
+            "tip": "Perfekter, energiereicher Treibstoff für einen Radtag."
+          },
+          {
+            "name": "Ayran",
+            "tip": "Ein erfrischendes Joghurtgetränk, um nach der Fahrt abzukühlen."
+          },
+          {
+            "name": "Tirit",
+            "tip": "Ein herzhaftes Gericht aus Brot und Fleisch, ideal nach einem langen Tag im Sattel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Etli Ekmek",
+            "tip": "Tökéletes, energiadús üzemanyag egy kerékpáros naphoz."
+          },
+          {
+            "name": "Ayran",
+            "tip": "Frissítő joghurtital a tekerés utáni lehűléshez."
+          },
+          {
+            "name": "Tirit",
+            "tip": "Kenyérből és húsból készült kiadós étel, ideális egy hosszú nyeregben töltött nap után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etli Ekmek",
+            "tip": "Combustibil perfect, bogat în energie, pentru o zi pe bicicletă."
+          },
+          {
+            "name": "Ayran",
+            "tip": "O băutură răcoritoare de iaurt pentru a vă răcori după plimbare."
+          },
+          {
+            "name": "Tirit",
+            "tip": "Un fel de mâncare consistent din pâine și carne, ideal după o zi lungă în șa."
+          }
+        ],
+        "en": [
+          {
+            "name": "Etli Ekmek",
+            "tip": "Perfect high-energy fuel for a day of cycling."
+          },
+          {
+            "name": "Ayran",
+            "tip": "A refreshing yogurt drink to cool down after the ride."
+          },
+          {
+            "name": "Tirit",
+            "tip": "A hearty dish of bread and meat, ideal after a long day in the saddle."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Alaeddin-Hügel",
+            "tip": "Der Park auf dem Hügel ist ein guter Ort für eine Pause am Morgen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Tropischer Schmetterlingsgarten",
+            "tip": "Eine ruhige, feuchte Oase, die einen Kontrast zur Stadt bildet.",
+            "emoji": "🦋"
+          },
+          {
+            "name": "Meram-Weingärten",
+            "tip": "Der Inbegriff der Ruhe am Stadtrand.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alaeddin-domb",
+            "tip": "A dombon lévő park jó hely egy reggeli szünetre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Trópusi Pillangókert",
+            "tip": "Csendes, párás oázis, amely kontrasztot képez a várossal.",
+            "emoji": "🦋"
+          },
+          {
+            "name": "Meram szőlőskertek",
+            "tip": "A nyugalom megtestesítője a város szélén.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Alaeddin",
+            "tip": "Parcul de pe deal este un loc bun pentru o pauză de dimineață.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Tropicală cu Fluturi",
+            "tip": "O oază liniștită și umedă care contrastează cu orașul.",
+            "emoji": "🦋"
+          },
+          {
+            "name": "Viile Meram",
+            "tip": "Chintesența liniștii la periferia orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Alaeddin Hill",
+            "tip": "The park on the hill is a good spot for a morning break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Tropical Butterfly Garden",
+            "tip": "A quiet, humid oasis that contrasts with the city.",
+            "emoji": "🦋"
+          },
+          {
+            "name": "Meram Vineyards",
+            "tip": "The epitome of tranquility on the outskirts.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Fahrradläden",
+            "tip": "Falls Sie Zubehör oder eine schnelle Reparatur benötigen."
+          },
+          {
+            "name": "Konya Basar",
+            "tip": "Kaufen Sie leichte Souvenirs, die in einen Rucksack passen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerékpárboltok",
+            "tip": "Ha kiegészítőre vagy gyors javításra van szüksége."
+          },
+          {
+            "name": "Konya Bazár",
+            "tip": "Vásároljon könnyű szuveníreket, amelyek elférnek egy hátizsákban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine locale de biciclete",
+            "tip": "În caz că aveți nevoie de accesorii sau de o reparație rapidă."
+          },
+          {
+            "name": "Bazarul din Konya",
+            "tip": "Cumpărați suveniruri ușoare care încap într-un rucsac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bike Shops",
+            "tip": "In case you need any accessories or a quick fix."
+          },
+          {
+            "name": "Konya Bazaar",
+            "tip": "Buy light souvenirs that can fit in a backpack."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad mit guter Gangschaltung für die unterschiedlichen Terrains.",
+          "Tragen Sie einen Helm und achten Sie auf den Verkehr, der vielleicht nicht an Radfahrer gewöhnt ist.",
+          "Planen Sie Ihre Route im Voraus, insbesondere für die längeren Fahrten außerhalb des Zentrums.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad sicher abzustellen."
+        ],
+        "hu": [
+          "Béreljen jó sebességváltóval rendelkező kerékpárt a különböző terepekre.",
+          "Viseljen sisakot, és figyeljen a forgalomra, amely talán nincs hozzászokva a kerékpárosokhoz.",
+          "Tervezze meg előre az útvonalat, különösen a központon kívüli hosszabb utakra.",
+          "Vigyen magával lakatot a kerékpár biztonságos lezárásához."
+        ],
+        "ro": [
+          "Închiriați o bicicletă cu viteze bune pentru diferitele tipuri de teren.",
+          "Purtați cască și fiți atenți la trafic, care s-ar putea să nu fie obișnuit cu bicicliștii.",
+          "Planificați-vă traseul în avans, în special pentru plimbările mai lungi în afara centrului.",
+          "Luați cu dumneavoastră un lacăt pentru a vă asigura bicicleta."
+        ],
+        "en": [
+          "Rent a bike with good gears for the varied terrain.",
+          "Wear a helmet and be mindful of traffic, which may not be used to cyclists.",
+          "Plan your route in advance, especially for the longer rides outside the center.",
+          "Bring a lock to secure your bike safely."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 30.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Tropischer Schmetterlingsgarten",
+            "hu": "1. klaszter: Trópusi Pillangókert",
+            "ro": "Cluster 1: Grădina Tropicală cu Fluturi",
+            "en": "Cluster 1: Tropical Butterfly Garden"
+          },
+          "coords": [
+            32.5638,
+            37.915
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 9.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag hier, um den Menschenmassen zu entgehen. Parkplätze sind morgens reichlich vorhanden.",
+            "hu": "Kezdje itt a napot, hogy elkerülje a tömeget. Reggel bőségesen van parkolóhely.",
+            "ro": "Începeți ziua aici pentru a evita aglomerația. Parcarea este abundentă dimineața.",
+            "en": "Start the day here to avoid the crowds. Parking is plentiful in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Meram-Gärten (Parken & Spazieren)",
+            "hu": "2. klaszter: Meram kertek (Parkolás és séta)",
+            "ro": "Cluster 2: Grădinile Meram (Parcare și plimbare)",
+            "en": "Cluster 2: Meram Gardens (Park & Walk)"
+          },
+          "coords": [
+            32.4045,
+            37.8543
+          ],
+          "category": "natural features",
+          "arrive_at": "11:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 15.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zu den Gärten, parken Sie und genießen Sie einen Spaziergang und ein Mittagessen in einem der Restaurants am Bach.",
+            "hu": "Vezessen el a kertekhez, parkoljon le, és élvezze a sétát és egy ebédet a patak menti éttermek egyikében.",
+            "ro": "Conduceți până la grădini, parcați și bucurați-vă de o plimbare și un prânz la unul dintre restaurantele de pe malul pârâului.",
+            "en": "Drive to the gardens, park your car, and enjoy a walk and lunch at one of the streamside restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Alaeddin-Hügel (Parken)",
+            "hu": "3. klaszter: Alaeddin-domb (Parkolás)",
+            "ro": "Cluster 3: Dealul Alaeddin (Parcare)",
+            "en": "Cluster 3: Alaeddin Hill (Parking)"
+          },
+          "coords": [
+            32.4842,
+            37.8745
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Rest des Nachmittags. Dies ist Ihr Ausgangspunkt für den historischen Kern.",
+            "hu": "Parkoljon le itt a délután hátralévő részére. Ez a kiindulópontja a történelmi városmagnak.",
+            "ro": "Parcați aici pentru restul după-amiezii. Acesta este punctul de plecare pentru centrul istoric.",
+            "en": "Park here for the rest of the afternoon. This is your base for the historical core."
+          }
+        },
+        {
+          "name": {
+            "de": "Medrese der Dünnen Minarette",
+            "hu": "Vékony Minaretű Medresze",
+            "ro": "Madrasa Minaretului Subțire",
+            "en": "Ince Minareli Madrasa"
+          },
+          "coords": [
+            32.4801,
+            37.8748
+          ],
+          "category": "museums",
+          "arrive_at": "13:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Alaeddin-Hügel, um das seldschukische Steinmetzwerk zu bewundern.",
+            "hu": "Rövid séta az Alaeddin-dombtól, hogy megcsodálja a szeldzsuk kőfaragást.",
+            "ro": "O scurtă plimbare de la Dealul Alaeddin pentru a admira sculptura selgiucidă.",
+            "en": "A short walk from Alaeddin Hill to admire the Seljuk stonework."
+          }
+        },
+        {
+          "name": {
+            "de": "Karatay-Medrese",
+            "hu": "Karatay Medresze",
+            "ro": "Madrasa Karatay",
+            "en": "Karatay Madrasa"
+          },
+          "coords": [
+            32.4855,
+            37.8761
+          ],
+          "category": "museums",
+          "arrive_at": "14:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Überqueren Sie den Hügel, um dieses beeindruckende Kachelmuseum zu sehen.",
+            "hu": "Menjen át a dombon, hogy megnézze ezt a lenyűgöző csempemúzeumot.",
+            "ro": "Traversați dealul pentru a vedea acest impresionant muzeu de faianță.",
+            "en": "Walk across the hill to see this impressive tile museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Mevlana-Museum",
+            "hu": "Mevlana Múzeum",
+            "ro": "Muzeul Mevlana",
+            "en": "Mevlana Museum"
+          },
+          "coords": [
+            32.5052,
+            37.8714
+          ],
+          "category": "museums",
+          "arrive_at": "16:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein längerer Spaziergang, aber es lohnt sich. Beenden Sie Ihren Tag an diesem spirituellen Zentrum.",
+            "hu": "Hosszabb séta, de megéri. Fejezze be a napot ebben a spirituális központban.",
+            "ro": "O plimbare mai lungă, dar merită. Încheiați-vă ziua la acest centru spiritual.",
+            "en": "A longer walk, but well worth it. End your day at this spiritual hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Selimiye-Moschee",
+            "hu": "Szelim-mecset",
+            "ro": "Moscheea Selimiye",
+            "en": "Selimiye Mosque"
+          },
+          "coords": [
+            32.5041,
+            37.8708
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "18:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein letzter Halt, um die osmanische Architektur neben dem Mevlana-Museum zu bewundern.",
+            "hu": "Egy utolsó megálló, hogy megcsodálja az oszmán építészetet a Mevlana Múzeum mellett.",
+            "ro": "O ultimă oprire pentru a admira arhitectura otomană de lângă Muzeul Mevlana.",
+            "en": "One last stop to admire the Ottoman architecture next to the Mevlana Museum."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Auto-Plan maximiert Ihre Reichweite und minimiert den Parkstress. Beginnen Sie den Tag in den ruhigen Außenbezirken, dem Schmetterlingsgarten und den Meram-Gärten. Nach dem Mittagessen fahren Sie ins Zentrum, parken einmal auf dem Alaeddin-Hügel und verbringen den Rest des Nachmittags damit, das reiche seldschukische und osmanische Erbe von Konya zu Fuß zu erkunden, was in einem Besuch des Mevlana-Museums gipfelt.",
+        "hu": "Ez az autós terv maximalizálja az elérhető látnivalókat és minimalizálja a parkolási stresszt. Kezdje a napot a csendes külvárosban, a Pillangókertben és a Meram kertekben. Ebéd után vezessen a központba, parkoljon le az Alaeddin-dombon, és töltse a délutánt Konya gazdag szeldzsuk és oszmán örökségének gyalogos felfedezésével, ami a Mevlana Múzeum meglátogatásában csúcsosodik ki.",
+        "ro": "Acest plan auto vă maximizează raza de acțiune și minimizează stresul parcării. Începeți ziua în suburbiile liniștite, la Grădina cu Fluturi și Grădinile Meram. După prânz, conduceți spre centru, parcați o dată la Dealul Alaeddin și petreceți restul după-amiezii explorând pe jos bogata moștenire selgiucidă și otomană a Konyei, culminând cu o vizită la Muzeul Mevlana.",
+        "en": "This car plan maximizes your range while minimizing parking stress. Start the day in the quiet outskirts, at the Butterfly Garden and Meram Gardens. After lunch, drive to the center, park once at Alaeddin Hill, and spend the rest of the afternoon exploring Konya's rich Seljuk and Ottoman heritage on foot, culminating in a visit to the Mevlana Museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurants in Meram",
+            "tip": "Genießen Sie ein Mittagessen mit Aussicht in den Gärten."
+          },
+          {
+            "name": "Etli Ekmek",
+            "tip": "Eine schnelle und sättigende Mahlzeit, wenn Sie im Zentrum unterwegs sind."
+          },
+          {
+            "name": "Lokale Cafés",
+            "tip": "Perfekt für eine Teepause zwischen den Besichtigungen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Éttermek Meramban",
+            "tip": "Élvezze az ebédet kilátással a kertekben."
+          },
+          {
+            "name": "Etli Ekmek",
+            "tip": "Gyors és laktató étel, ha a központban sétál."
+          },
+          {
+            "name": "Helyi kávézók",
+            "tip": "Tökéletes egy teázásra a látnivalók között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurante în Meram",
+            "tip": "Bucurați-vă de un prânz cu vedere în grădini."
+          },
+          {
+            "name": "Etli Ekmek",
+            "tip": "O masă rapidă și sățioasă în timp ce explorați centrul."
+          },
+          {
+            "name": "Cafenele locale",
+            "tip": "Perfecte pentru o pauză de ceai între vizite."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurants in Meram",
+            "tip": "Enjoy lunch with a view in the gardens."
+          },
+          {
+            "name": "Etli Ekmek",
+            "tip": "A quick and filling meal while walking in the center."
+          },
+          {
+            "name": "Local Cafes",
+            "tip": "Perfect for a tea break between sightseeing."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tropischer Schmetterlingsgarten",
+            "tip": "Eine ruhige Flucht aus der Stadt.",
+            "emoji": "🦋"
+          },
+          {
+            "name": "Meram-Gärten",
+            "tip": "Ideal für einen entspannten Spaziergang am Vormittag.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Alaeddin-Hügel Park",
+            "tip": "Ein Moment der Ruhe, bevor Sie sich in die belebten Straßen begeben.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trópusi Pillangókert",
+            "tip": "Csendes menekülés a városból.",
+            "emoji": "🦋"
+          },
+          {
+            "name": "Meram kertek",
+            "tip": "Ideális egy pihentető délelőtti sétához.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Alaeddin-domb parkja",
+            "tip": "Egy pillanatnyi csend, mielőtt belevetné magát a forgalmas utcákba.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Tropicală cu Fluturi",
+            "tip": "O evadare liniștită din oraș.",
+            "emoji": "🦋"
+          },
+          {
+            "name": "Grădinile Meram",
+            "tip": "Ideal pentru o plimbare relaxantă de dimineață.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul de pe Dealul Alaeddin",
+            "tip": "Un moment de liniște înainte de a intra pe străzile aglomerate.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tropical Butterfly Garden",
+            "tip": "A peaceful escape from the city.",
+            "emoji": "🦋"
+          },
+          {
+            "name": "Meram Gardens",
+            "tip": "Ideal for a relaxing mid-morning walk.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Alaeddin Hill Park",
+            "tip": "A moment of quiet before heading into the busy streets.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in Meram",
+            "tip": "Finden Sie lokales Handwerk und Produkte."
+          },
+          {
+            "name": "Basar in der Nähe des Mevlana-Museums",
+            "tip": "Ideal für Souvenirs am Ende des Tages."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Üzletek Meramban",
+            "tip": "Találjon helyi kézműves termékeket."
+          },
+          {
+            "name": "Bazár a Mevlana Múzeum közelében",
+            "tip": "Ideális szuvenírek vásárlására a nap végén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine în Meram",
+            "tip": "Găsiți artizanat și produse locale."
+          },
+          {
+            "name": "Bazarul de lângă Muzeul Mevlana",
+            "tip": "Ideal pentru suveniruri la sfârșitul zilei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops in Meram",
+            "tip": "Find local crafts and produce."
+          },
+          {
+            "name": "Bazaar near Mevlana Museum",
+            "tip": "Ideal for end-of-day souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie eine Navigations-App, um die Parkplätze in der Nähe der Cluster zu finden.",
+          "Beachten Sie die Parkgebühren im Stadtzentrum.",
+          "Planen Sie zusätzliche Zeit für den Verkehr ein, insbesondere zu Stoßzeiten.",
+          "Lassen Sie keine Wertsachen im Auto sichtbar liegen."
+        ],
+        "hu": [
+          "Használjon navigációs alkalmazást a klaszterek közelében lévő parkolók megtalálásához.",
+          "Vegye figyelembe a parkolási díjakat a városközpontban.",
+          "Tervezzen plusz időt a forgalomra, különösen csúcsidőben.",
+          "Ne hagyjon értékeket látható helyen az autóban."
+        ],
+        "ro": [
+          "Utilizați o aplicație de navigație pentru a găsi parcări lângă clustere.",
+          "Fiți conștienți de taxele de parcare din centrul orașului.",
+          "Planificați timp suplimentar pentru trafic, în special în orele de vârf.",
+          "Nu lăsați obiecte de valoare la vedere în mașină."
+        ],
+        "en": [
+          "Use a navigation app to find parking near the clusters.",
+          "Be aware of parking fees in the city center.",
+          "Allow extra time for traffic, especially during peak hours.",
+          "Do not leave valuables visible in the car."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 14.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Alaeddin Haltestelle",
+            "hu": "1. klaszter: Alaeddin megálló",
+            "ro": "Cluster 1: Stația Alaeddin",
+            "en": "Cluster 1: Alaeddin Stop"
+          },
+          "coords": [
+            32.4842,
+            37.8745
+          ],
+          "category": "transit",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem zentralen Verkehrsknotenpunkt. Die meisten Straßenbahnen halten hier.",
+            "hu": "Kezdje a napot ezen a központi közlekedési csomóponton. A legtöbb villamos itt áll meg.",
+            "ro": "Începeți ziua la acest nod central de transport. Majoritatea tramvaielor opresc aici.",
+            "en": "Start your day at this central transit hub. Most trams stop here."
+          }
+        },
+        {
+          "name": {
+            "de": "Alaeddin-Moschee",
+            "hu": "Alaeddin-mecset",
+            "ro": "Moscheea Alaeddin",
+            "en": "Alaeddin Mosque"
+          },
+          "coords": [
+            32.4845,
+            37.8748
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur wenige Schritte von der Straßenbahnhaltestelle entfernt, auf dem Hügel gelegen.",
+            "hu": "Csak néhány lépésre a villamosmegállótól, a dombon található.",
+            "ro": "La doar câțiva pași de stația de tramvai, situată pe deal.",
+            "en": "Just a few steps from the tram stop, located on the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Karatay-Medrese",
+            "hu": "Karatay Medresze",
+            "ro": "Madrasa Karatay",
+            "en": "Karatay Madrasa"
+          },
+          "coords": [
+            32.4855,
+            37.8761
+          ],
+          "category": "museums",
+          "arrive_at": "10:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein einfacher Spaziergang um den Hügel, um die exquisite Fliesenausstellung zu sehen.",
+            "hu": "Könnyű séta a domb körül, hogy megnézze a kiváló csempekiállítást.",
+            "ro": "O plimbare ușoară în jurul dealului pentru a vedea expoziția rafinată de faianță.",
+            "en": "An easy walk around the hill to see the exquisite tile exhibition."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Mevlana Haltestelle",
+            "hu": "2. klaszter: Mevlana megálló",
+            "ro": "Cluster 2: Stația Mevlana",
+            "en": "Cluster 2: Mevlana Stop"
+          },
+          "coords": [
+            32.503,
+            37.8715
+          ],
+          "category": "transit",
+          "arrive_at": "11:30",
+          "stay_min": 5,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie die Straßenbahn für ein paar Haltestellen. Von hier aus ist der Mevlana-Komplex zu Fuß erreichbar.",
+            "hu": "Menjen villamossal néhány megállót. Innen gyalogosan elérhető a Mevlana komplexum.",
+            "ro": "Luați tramvaiul pentru câteva stații. Complexul Mevlana este la distanță de mers pe jos de aici.",
+            "en": "Take the tram for a few stops. The Mevlana complex is within walking distance from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Mevlana-Museum",
+            "hu": "Mevlana Múzeum",
+            "ro": "Muzeul Mevlana",
+            "en": "Mevlana Museum"
+          },
+          "coords": [
+            32.5052,
+            37.8714
+          ],
+          "category": "museums",
+          "arrive_at": "11:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der spirituelle Höhepunkt Ihrer Reise. Nehmen Sie sich Zeit, die Atmosphäre aufzusaugen.",
+            "hu": "Utazásának spirituális csúcspontja. Szánjon időt a hangulat befogadására.",
+            "ro": "Punctul culminant spiritual al călătoriei dumneavoastră. Luați-vă timp să absorbiți atmosfera.",
+            "en": "The spiritual highlight of your trip. Take your time to soak in the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Aziziye-Moschee & Basar",
+            "hu": "Aziziye-mecset és bazár",
+            "ro": "Moscheea și Bazarul Aziziye",
+            "en": "Aziziye Mosque & Bazaar"
+          },
+          "coords": [
+            32.5001,
+            37.8702
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie diese einzigartige Moschee und essen Sie im nahe gelegenen Basar zu Mittag.",
+            "hu": "Fedezze fel ezt az egyedülálló mecsetet, és ebédeljen a közeli bazárban.",
+            "ro": "Explorați această moschee unică și luați prânzul în bazarul din apropiere.",
+            "en": "Explore this unique mosque and have lunch in the nearby bazaar."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Tropischer Schmetterlingsgarten (Busfahrt)",
+            "hu": "3. klaszter: Trópusi Pillangókert (Buszozás)",
+            "ro": "Cluster 3: Grădina Tropicală cu Fluturi (Călătorie cu autobuzul)",
+            "en": "Cluster 3: Tropical Butterfly Garden (Bus Ride)"
+          },
+          "coords": [
+            32.5638,
+            37.915
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Stadtzentrum. Planen Sie die Busfahrpläne, da dies eine längere Fahrt ist.",
+            "hu": "Vegyen buszt a városközpontból. Tervezze meg a buszmenetrendet, mivel ez egy hosszabb út.",
+            "ro": "Luați un autobuz din centrul orașului. Planificați-vă în funcție de programul autobuzelor, deoarece aceasta este o călătorie mai lungă.",
+            "en": "Take a bus from the city center. Plan around the bus schedules as this is a longer trip."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Plan nutzt Konyas effizientes Straßenbahnsystem und Busnetz. Sie beginnen am Alaeddin-Hügel, erkunden den ersten Cluster von Sehenswürdigkeiten zu Fuß und nehmen dann eine kurze Straßenbahnfahrt zum Mevlana-Viertel. Nach der Erkundung des spirituellen Herzens der Stadt und des Basars unternehmen Sie am Nachmittag eine längere Busfahrt zum tropischen Paradies des Schmetterlingsgartens, ein schöner Kontrast zur städtischen Umgebung.",
+        "hu": "Ez a terv Konya hatékony villamos- és buszhálózatát használja ki. Az Alaeddin-dombnál kezdi a napot, gyalog fedezi fel az első látnivaló-csoportot, majd egy rövid villamosúttal eljut a Mevlana negyedbe. A város spirituális szívének és a bazárnak a felfedezése után délután egy hosszabb buszútra indul a Pillangókert trópusi paradicsomába, ami szép kontrasztot alkot a városi környezettel.",
+        "ro": "Acest plan utilizează sistemul eficient de tramvai și rețeaua de autobuze din Konya. Începeți de la Dealul Alaeddin, explorați primul cluster de atracții pe jos, apoi luați un tramvai pe o distanță scurtă până în cartierul Mevlana. După ce explorați inima spirituală a orașului și bazarul, după-amiaza faceți o călătorie mai lungă cu autobuzul spre paradisul tropical al Grădinii cu Fluturi, un contrast plăcut cu mediul urban.",
+        "en": "This plan utilizes Konya's efficient tram system and bus network. You start at Alaeddin Hill, explore the first cluster of sights on foot, then take a short tram ride to the Mevlana district. After exploring the city's spiritual heart and the bazaar, you take a longer bus ride in the afternoon to the tropical paradise of the Butterfly Garden, a nice contrast to the urban environment."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Etli Ekmek",
+            "tip": "Leicht in den Restaurants im Basar zu finden."
+          },
+          {
+            "name": "Simit",
+            "tip": "Ein schneller Snack von einem Straßenverkäufer, ideal für unterwegs."
+          },
+          {
+            "name": "Türkischer Tee (Çay)",
+            "tip": "Machen Sie eine Pause in einem der vielen Teehäuser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Etli Ekmek",
+            "tip": "Könnyen megtalálható a bazár éttermeiben."
+          },
+          {
+            "name": "Simit",
+            "tip": "Gyors harapnivaló egy utcai árustól, ideális útközben."
+          },
+          {
+            "name": "Török tea (Çay)",
+            "tip": "Tartson szünetet a számos teaház egyikében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etli Ekmek",
+            "tip": "Ușor de găsit în restaurantele din bazar."
+          },
+          {
+            "name": "Simit",
+            "tip": "O gustare rapidă de la un vânzător ambulant, ideală pentru călătorii."
+          },
+          {
+            "name": "Ceai turcesc (Çay)",
+            "tip": "Luați o pauză la una dintre numeroasele ceainării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Etli Ekmek",
+            "tip": "Easily found in the restaurants in the bazaar."
+          },
+          {
+            "name": "Simit",
+            "tip": "A quick snack from a street vendor, ideal for on the go."
+          },
+          {
+            "name": "Turkish Tea (Çay)",
+            "tip": "Take a break at one of the many tea houses."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Alaeddin-Hügel Park",
+            "tip": "Ein guter Ort, um den Tag zu beginnen und Ihre Route zu planen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Innenhof des Mevlana-Museums",
+            "tip": "Trotz der Menschenmassen ein Ort der Ruhe.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Tropischer Schmetterlingsgarten",
+            "tip": "Verlieren Sie sich in der ruhigen, grünen Umgebung.",
+            "emoji": "🦋"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alaeddin-domb parkja",
+            "tip": "Jó hely a nap kezdéséhez és az útvonal megtervezéséhez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mevlana Múzeum udvara",
+            "tip": "A tömeg ellenére a nyugalom helye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Trópusi Pillangókert",
+            "tip": "Vesszen el a csendes, zöld környezetben.",
+            "emoji": "🦋"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul de pe Dealul Alaeddin",
+            "tip": "Un loc bun pentru a începe ziua și a vă planifica traseul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea Muzeului Mevlana",
+            "tip": "Un loc de liniște, în ciuda mulțimii.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădina Tropicală cu Fluturi",
+            "tip": "Pierdeți-vă în mediul liniștit și verde.",
+            "emoji": "🦋"
+          }
+        ],
+        "en": [
+          {
+            "name": "Alaeddin Hill Park",
+            "tip": "A good place to start the day and plan your route.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mevlana Museum Courtyard",
+            "tip": "A place of peace despite the crowds.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Tropical Butterfly Garden",
+            "tip": "Get lost in the quiet, green environment.",
+            "emoji": "🦋"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Konya Basar",
+            "tip": "Ein Muss für ein authentisches Einkaufserlebnis."
+          },
+          {
+            "name": "Geschäfte rund um das Mevlana-Museum",
+            "tip": "Spezialisiert auf religiöse Souvenirs und Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konya Bazár",
+            "tip": "Kötelező az autentikus vásárlási élményért."
+          },
+          {
+            "name": "Üzletek a Mevlana Múzeum körül",
+            "tip": "Vallási szuvenírekre és kézműves termékekre szakosodtak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bazarul din Konya",
+            "tip": "O necesitate pentru o experiență de cumpărături autentică."
+          },
+          {
+            "name": "Magazine în jurul Muzeului Mevlana",
+            "tip": "Specializate în suveniruri religioase și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konya Bazaar",
+            "tip": "A must-visit for an authentic shopping experience."
+          },
+          {
+            "name": "Shops around Mevlana Museum",
+            "tip": "Specializing in religious souvenirs and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine 'Elkart'-Karte für eine einfache Nutzung der öffentlichen Verkehrsmittel.",
+          "Überprüfen Sie die Fahrpläne der Straßenbahnen und Busse im Voraus, insbesondere für die Fahrt zum Schmetterlingsgarten.",
+          "Die Straßenbahnen können zu Stoßzeiten überfüllt sein, planen Sie entsprechend.",
+          "Behalten Sie Ihre Haltestellen im Auge, da die Ansagen möglicherweise nicht immer klar sind."
+        ],
+        "hu": [
+          "Vásároljon 'Elkart' kártyát a tömegközlekedés egyszerű használatához.",
+          "Ellenőrizze előre a villamos- és buszmenetrendeket, különösen a Pillangókerthez való utazáshoz.",
+          "A villamosok csúcsidőben zsúfoltak lehetnek, tervezzen ennek megfelelően.",
+          "Figyelje a megállókat, mivel a bemondások nem mindig egyértelműek."
+        ],
+        "ro": [
+          "Cumpărați un card 'Elkart' pentru utilizarea ușoară a transportului public.",
+          "Verificați în avans orarele tramvaielor și autobuzelor, în special pentru călătoria la Grădina cu Fluturi.",
+          "Tramvaiele pot fi aglomerate la orele de vârf, planificați în consecință.",
+          "Fiți atenți la stații, deoarece anunțurile s-ar putea să nu fie întotdeauna clare."
+        ],
+        "en": [
+          "Purchase an 'Elkart' card for easy use of public transport.",
+          "Check tram and bus schedules in advance, especially for the trip to the Butterfly Garden.",
+          "Trams can be crowded during peak hours, plan accordingly.",
+          "Keep an eye on your stops, as announcements may not always be clear."
+        ]
+      }
+    }
+  }
+}

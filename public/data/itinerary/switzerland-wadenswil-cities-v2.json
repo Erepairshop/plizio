@@ -1,0 +1,1448 @@
+{
+  "city_id": "switzerland-wadenswil-cities-v2",
+  "anchor": {
+    "name": "Wädenswil",
+    "coords": [
+      47.229,
+      8.672
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Reformierte Kirche Wädenswil",
+            "hu": "Wädenswili Református Templom",
+            "ro": "Biserica Reformată din Wädenswil",
+            "en": "Wädenswil Reformed Church"
+          },
+          "coords": [
+            8.6705,
+            47.2275
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beachten Sie die beeindruckende Orgel und die schlichte Eleganz des Innenraums.",
+            "hu": "Figyelje meg a lenyűgöző orgonát és a belső tér egyszerű eleganciáját.",
+            "ro": "Observați orga impresionantă și eleganța simplă a interiorului.",
+            "en": "Note the impressive organ and the simple elegance of the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Gessner-Haus",
+            "hu": "Gessner-ház",
+            "ro": "Casa Gessner",
+            "en": "Gessner House"
+          },
+          "coords": [
+            8.6715,
+            47.2268
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein historisches Gebäude, das an den berühmten Dichter und Maler Salomon Gessner erinnert.",
+            "hu": "Történelmi épület, amely a híres költőre és festőre, Salomon Gessnerre emlékeztet.",
+            "ro": "O clădire istorică ce amintește de faimosul poet și pictor Salomon Gessner.",
+            "en": "A historic building commemorating the famous poet and painter Salomon Gessner."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Wädenswil",
+            "hu": "Wädenswil Kastély",
+            "ro": "Castelul Wädenswil",
+            "en": "Wädenswil Castle"
+          },
+          "coords": [
+            8.6738,
+            47.2255
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Heute ein Forschungszentrum. Schlendern Sie durch den Schlosspark und genießen Sie die Aussicht.",
+            "hu": "Ma kutatóközpont. Sétáljon végig a kastélyparkon, és élvezze a kilátást.",
+            "ro": "Astăzi un centru de cercetare. Plimbați-vă prin parcul castelului și bucurați-vă de priveliște.",
+            "en": "Now a research center. Stroll through the castle park and enjoy the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am See",
+            "hu": "Ebéd a tónál",
+            "ro": "Prânz pe malul lacului",
+            "en": "Lunch by the Lake"
+          },
+          "coords": [
+            8.677,
+            47.228
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Wählen Sie ein Restaurant mit Terrasse für eine tolle Aussicht auf den Zürichsee.",
+            "hu": "Válasszon egy teraszos éttermet, ahonnan remek kilátás nyílik a Zürichi-tóra.",
+            "ro": "Alegeți un restaurant cu terasă pentru o priveliște superbă asupra lacului Zürich.",
+            "en": "Choose a restaurant with a terrace for a great view of Lake Zurich."
+          }
+        },
+        {
+          "name": {
+            "de": "Zürichsee-Ufer",
+            "hu": "Zürichi-tó partja",
+            "ro": "Malul Lacului Zürich",
+            "en": "Lake Zurich Shore"
+          },
+          "coords": [
+            8.6795,
+            47.23
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Perfekt für einen entspannten Spaziergang. Im Sommer kann man hier auch baden.",
+            "hu": "Tökéletes egy pihentető sétához. Nyáron itt úszni is lehet.",
+            "ro": "Perfect pentru o plimbare relaxantă. Vara, puteți înota aici.",
+            "en": "Perfect for a relaxing walk. In summer, you can also go for a swim here."
+          }
+        },
+        {
+          "name": {
+            "de": "Weinbauzentrum Wädenswil",
+            "hu": "Wädenswili Borászati Központ",
+            "ro": "Centrul Viticol Wädenswil",
+            "en": "Wädenswil Winegrowing Center"
+          },
+          "coords": [
+            8.6655,
+            47.231
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Verkosten Sie lokale Weine und erfahren Sie mehr über den Weinbau in der Region.",
+            "hu": "Kóstoljon helyi borokat, és tudjon meg többet a régió borászatáról.",
+            "ro": "Degustați vinuri locale și aflați mai multe despre viticultura din regiune.",
+            "en": "Taste local wines and learn more about viticulture in the region."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit der Erkundung des historischen Herzens von Wädenswil, von der schlichten Kirche bis zum stattlichen Schloss. Nach einem gemütlichen Mittagessen am Wasser verbringen Sie den Nachmittag mit einem Spaziergang entlang des Seeufers, bevor Sie den Tag mit einem Glas lokalen Weins im Weinbauzentrum ausklingen lassen. Eine perfekte Mischung aus Kultur, Natur und Genuss.",
+        "hu": "Kezdje a napot Wädenswil történelmi szívének felfedezésével, az egyszerű templomtól a fenséges kastélyig. Egy kellemes, vízparti ebéd után töltse a délutánt a tóparti sétával, mielőtt a napot egy pohár helyi borral zárná a Borászati Központban. A kultúra, a természet és az ízek tökéletes keveréke.",
+        "ro": "Începeți ziua explorând inima istorică a orașului Wädenswil, de la biserica sobră la castelul impunător. După un prânz relaxant pe malul apei, petreceți după-amiaza plimbându-vă de-a lungul malului lacului, înainte de a încheia ziua cu un pahar de vin local la Centrul Viticol. Un amestec perfect de cultură, natură și răsfăț.",
+        "en": "Start your day exploring the historic heart of Wädenswil, from the simple church to the stately castle. After a leisurely lunch by the water, spend the afternoon strolling along the lake shore before ending the day with a glass of local wine at the Winegrowing Center. A perfect blend of culture, nature, and indulgence."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zürcher Geschnetzeltes",
+            "tip": "Ein Muss in der Region Zürich. Kalbfleisch in Rahmsauce, oft mit Rösti serviert."
+          },
+          {
+            "name": "Fischknusperli",
+            "tip": "Frittierte Fischfiletstücke aus dem See, ein beliebter Snack am Ufer."
+          },
+          {
+            "name": "Käsefondue",
+            "tip": "Ein Schweizer Klassiker, ideal für einen gemütlichen Abend."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zürcher Geschnetzeltes",
+            "tip": "Kötelező fogás a zürichi régióban. Borjúhús tejszínes szószban, gyakran röszivel tálalva."
+          },
+          {
+            "name": "Fischknusperli",
+            "tip": "Sült halfilé darabok a tóból, népszerű parti snack."
+          },
+          {
+            "name": "Sajtfondü",
+            "tip": "Svájci klasszikus, ideális egy hangulatos estére."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zürcher Geschnetzeltes",
+            "tip": "O specialitate obligatorie în regiunea Zürich. Vițel în sos cremos, adesea servit cu Rösti."
+          },
+          {
+            "name": "Fischknusperli",
+            "tip": "Bucățele de file de pește prăjit din lac, o gustare populară pe mal."
+          },
+          {
+            "name": "Fondue de brânză",
+            "tip": "Un clasic elvețian, ideal pentru o seară confortabilă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zürcher Geschnetzeltes",
+            "tip": "A must-try dish in the Zurich region. Veal in a cream sauce, often served with Rösti."
+          },
+          {
+            "name": "Fischknusperli",
+            "tip": "Fried fish fillet pieces from the lake, a popular snack on the shore."
+          },
+          {
+            "name": "Cheese Fondue",
+            "tip": "A Swiss classic, ideal for a cozy evening."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Zürichsee-Ufer",
+            "tip": "Finden Sie eine ruhige Bank und beobachten Sie die Boote und Schwäne.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schlosspark",
+            "tip": "Ein friedlicher Ort mit altem Baumbestand und schöner Aussicht.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang am See",
+            "tip": "Das Westufer bietet oft spektakuläre Sonnenuntergänge über dem Wasser.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zürichi-tó partja",
+            "tip": "Keressen egy csendes padot, és figyelje a csónakokat és a hattyúkat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kastélypark",
+            "tip": "Békés hely öreg fákkal és szép kilátással.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a tónál",
+            "tip": "A nyugati part gyakran kínál látványos naplementéket a víz felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Lacului Zürich",
+            "tip": "Găsiți o bancă liniștită și priviți bărcile și lebedele.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Castelului",
+            "tip": "Un loc pașnic cu copaci bătrâni și priveliști frumoase.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus de soare la lac",
+            "tip": "Malul de vest oferă adesea apusuri spectaculoase peste apă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lake Zurich Shore",
+            "tip": "Find a quiet bench and watch the boats and swans.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Castle Park",
+            "tip": "A peaceful spot with old trees and beautiful views.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset at the lake",
+            "tip": "The western shore often offers spectacular sunsets over the water.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Kaufen Sie frische lokale Produkte, Käse und Spezialitäten direkt von den Erzeugern."
+          },
+          {
+            "name": "Lokaler Wein",
+            "tip": "Erwerben Sie eine Flasche 'Wädenswiler' direkt vom Weinbauzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Vásároljon friss helyi termékeket, sajtot és különlegességeket közvetlenül a termelőktől."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "Vásároljon egy üveg 'Wädenswiler' bort közvetlenül a Borászati Központból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Cumpărați produse locale proaspete, brânzeturi și specialități direct de la producători."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Achiziționați o sticlă de 'Wädenswiler' direct de la Centrul Viticol."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Buy fresh local produce, cheese, and specialties directly from the producers."
+          },
+          {
+            "name": "Local Wine",
+            "tip": "Purchase a bottle of 'Wädenswiler' directly from the Winegrowing Center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Prüfen Sie die Öffnungszeiten des Weinbauzentrums im Voraus.",
+          "Ein Fernglas ist nützlich für die Vogelbeobachtung am Seeufer.",
+          "Nehmen Sie an sonnigen Tagen Badekleidung mit."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Előre ellenőrizze a Borászati Központ nyitvatartási idejét.",
+          "Egy távcső hasznos lehet a madármegfigyeléshez a tóparton.",
+          "Napos időben vigyen magával fürdőruhát."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Verificați în avans programul de funcționare al Centrului Viticol.",
+          "Un binoclu este util pentru observarea păsărilor pe malul lacului.",
+          "Luați cu voi un costum de baie în zilele însorite."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Check the opening hours of the Winegrowing Center in advance.",
+          "Binoculars are useful for bird watching on the lake shore.",
+          "Bring swimwear on sunny days."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:33",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Start: Bahnhof Wädenswil",
+            "hu": "Indulás: Wädenswil vasútállomás",
+            "ro": "Start: Gara Wädenswil",
+            "en": "Start: Wädenswil Train Station"
+          },
+          "coords": [
+            8.673,
+            47.229
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Mieten Sie ein Fahrrad in der Nähe des Bahnhofs, um den Tag zu beginnen.",
+            "hu": "Béreljen kerékpárt az állomás közelében a nap megkezdéséhez.",
+            "ro": "Închiriați o bicicletă lângă gară pentru a începe ziua.",
+            "en": "Rent a bike near the train station to start your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Wädenswil",
+            "hu": "Wädenswil Kastély",
+            "ro": "Castelul Wädenswil",
+            "en": "Wädenswil Castle"
+          },
+          "coords": [
+            8.6738,
+            47.2255
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:31",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Halt, um den Schlosspark zu bewundern.",
+            "hu": "Álljon meg egy rövid időre, hogy megcsodálja a kastélyparkot.",
+            "ro": "Faceți o scurtă oprire pentru a admira parcul castelului.",
+            "en": "Make a short stop to admire the castle park."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt entlang des Zürichsee-Ufers",
+            "hu": "Kerékpárút a Zürichi-tó partján",
+            "ro": "Plimbare cu bicicleta pe malul lacului Zürich",
+            "en": "Ride along the Lake Zurich Shore"
+          },
+          "coords": [
+            8.66,
+            47.235
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:31",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Geniessen Sie die flache und malerische Strecke direkt am Wasser.",
+            "hu": "Élvezze a sík és festői útvonalat közvetlenül a víz mellett.",
+            "ro": "Bucurați-vă de traseul plat și pitoresc chiar pe malul apei.",
+            "en": "Enjoy the flat and scenic route right by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Halbinsel Au",
+            "hu": "Au-félsziget",
+            "ro": "Peninsula Au",
+            "en": "Au Peninsula"
+          },
+          "coords": [
+            8.6455,
+            47.2435
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "11:11",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein Naturjuwel. Umrunden Sie die Halbinsel und essen Sie im historischen Gasthof zu Mittag.",
+            "hu": "Természeti ékszer. Kerülje meg a félszigetet, és ebédeljen a történelmi fogadóban.",
+            "ro": "O bijuterie naturală. Înconjurați peninsula și luați prânzul la hanul istoric.",
+            "en": "A natural gem. Circle the peninsula and have lunch at the historic inn."
+          }
+        },
+        {
+          "name": {
+            "de": "Weinbauzentrum Wädenswil",
+            "hu": "Wädenswili Borászati Központ",
+            "ro": "Centrul Viticol Wädenswil",
+            "en": "Wädenswil Winegrowing Center"
+          },
+          "coords": [
+            8.6655,
+            47.231
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:41",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Lohnender Abstecher für eine Weinprobe nach dem Mittagessen.",
+            "hu": "Érdemes kitérőt tenni egy ebéd utáni borkóstolóra.",
+            "ro": "O deviere care merită pentru o degustare de vin după prânz.",
+            "en": "A worthwhile detour for a post-lunch wine tasting."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt und Ausklang",
+            "hu": "Visszaút és levezetés",
+            "ro": "Întoarcere și relaxare",
+            "en": "Return and Wind Down"
+          },
+          "coords": [
+            8.673,
+            47.229
+          ],
+          "category": "shopping",
+          "arrive_at": "15:04",
+          "stay_min": 150,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Geben Sie Ihr Fahrrad zurück und geniessen Sie einen Kaffee oder ein Eis im Stadtzentrum.",
+            "hu": "Adja vissza a kerékpárt, és élvezzen egy kávét vagy egy fagyit a városközpontban.",
+            "ro": "Returnați bicicleta și savurați o cafea sau o înghețată în centrul orașului.",
+            "en": "Return your bike and enjoy a coffee or an ice cream in the city center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine Radtour in Wädenswil ist ideal, um die Stadt und die herrliche Landschaft des Zürichsees zu verbinden. Vom Schloss aus radeln Sie entlang des Ufers zur idyllischen Halbinsel Au, dem perfekten Ort für eine Mittagspause. Der Nachmittag führt Sie zum Weinbauzentrum, bevor Sie gemütlich ins Zentrum zurückkehren. Ein aktiver Tag voller schöner Ausblicke und lokaler Entdeckungen.",
+        "hu": "Egy wädenswili kerékpártúra ideális a város és a Zürichi-tó csodálatos tájának összekapcsolására. A kastélytól a part mentén tekerjen az idilli Au-félszigetre, amely tökéletes hely egy ebédszünetre. A délután a Borászati Központba vezet, mielőtt kényelmesen visszatérne a központba. Aktív nap, tele gyönyörű kilátással és helyi felfedezésekkel.",
+        "ro": "Un tur cu bicicleta în Wädenswil este ideal pentru a combina orașul cu peisajul magnific al lacului Zürich. De la castel, pedalați de-a lungul malului până la idilica Peninsulă Au, locul perfect pentru o pauză de prânz. După-amiaza vă duce la Centrul Viticol, înainte de a vă întoarce în centru într-un ritm lejer. O zi activă, plină de priveliști frumoase și descoperiri locale.",
+        "en": "A bike tour in Wädenswil is ideal for combining the city with the magnificent scenery of Lake Zurich. From the castle, cycle along the shore to the idyllic Au Peninsula, the perfect spot for a lunch break. The afternoon takes you to the Winegrowing Center before returning to the center at a leisurely pace. An active day full of beautiful views and local discoveries."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gasthof Halbinsel Au",
+            "tip": "Historisches Ambiente und eine ausgezeichnete Küche mit Seeblick."
+          },
+          {
+            "name": "Bäckerei-Konditorei",
+            "tip": "Holen Sie sich ein 'Wädi-Brötli' oder andere lokale Backwaren für ein Picknick."
+          },
+          {
+            "name": "Gelateria am See",
+            "tip": "Ein erfrischendes Eis nach der Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gasthof Halbinsel Au",
+            "tip": "Történelmi hangulat és kiváló konyha, kilátással a tóra."
+          },
+          {
+            "name": "Pékség-cukrászda",
+            "tip": "Vegyen egy 'Wädi-Brötli'-t vagy más helyi pékárut egy piknikhez."
+          },
+          {
+            "name": "Fagylaltozó a tónál",
+            "tip": "Egy frissítő fagylalt a kerékpártúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hanul Peninsula Au",
+            "tip": "Ambianță istorică și bucătărie excelentă cu vedere la lac."
+          },
+          {
+            "name": "Brutărie-Patiserie",
+            "tip": "Luați un 'Wädi-Brötli' sau alte produse de patiserie locale pentru un picnic."
+          },
+          {
+            "name": "Gelateria de pe malul lacului",
+            "tip": "O înghețată răcoritoare după turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gasthof Halbinsel Au",
+            "tip": "Historic ambiance and excellent cuisine with a lake view."
+          },
+          {
+            "name": "Bakery-Confectionery",
+            "tip": "Get a 'Wädi-Brötli' or other local baked goods for a picnic."
+          },
+          {
+            "name": "Gelateria by the lake",
+            "tip": "A refreshing ice cream after the bike tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spitze der Halbinsel Au",
+            "tip": "Ein ruhiger Ort, umgeben von Wasser, mit Blick auf die Alpen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rebberge",
+            "tip": "Eine Radtour durch die Weinberge oberhalb der Stadt bietet Ruhe und tolle Ausblicke.",
+            "emoji": "🍇"
+          },
+          {
+            "name": "Badeplatz bei Au",
+            "tip": "Ein weniger überlaufener Ort zum Entspannen und Schwimmen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az Au-félsziget csúcsa",
+            "tip": "Csendes hely, vízzel körülvéve, kilátással az Alpokra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szőlőültetvények",
+            "tip": "Egy kerékpártúra a város feletti szőlőültetvényeken nyugalmat és remek kilátást kínál.",
+            "emoji": "🍇"
+          },
+          {
+            "name": "Fürdőhely Au-nál",
+            "tip": "Kevésbé zsúfolt hely a pihenésre és úszásra.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Peninsulei Au",
+            "tip": "Un loc liniștit înconjurat de apă, cu vedere la Alpi.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Viile",
+            "tip": "Un tur cu bicicleta prin podgoriile de deasupra orașului oferă liniște și priveliști minunate.",
+            "emoji": "🍇"
+          },
+          {
+            "name": "Loc de scăldat lângă Au",
+            "tip": "Un loc mai puțin aglomerat pentru relaxare și înot.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tip of the Au Peninsula",
+            "tip": "A quiet spot surrounded by water, with views of the Alps.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vineyards",
+            "tip": "A bike ride through the vineyards above the town offers tranquility and great views.",
+            "emoji": "🍇"
+          },
+          {
+            "name": "Bathing spot near Au",
+            "tip": "A less crowded place to relax and swim.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofladen",
+            "tip": "In der Umgebung gibt es viele Bauernhöfe, die frische Produkte direkt verkaufen."
+          },
+          {
+            "name": "Sportgeschäft",
+            "tip": "Falls Sie Zubehör für Ihr Fahrrad oder Ihre Wanderung benötigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői bolt",
+            "tip": "A környéken számos gazdaság található, ahol friss termékeket árulnak."
+          },
+          {
+            "name": "Sportbolt",
+            "tip": "Ha kiegészítőkre van szüksége a kerékpározáshoz vagy túrázáshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de fermă",
+            "tip": "Există multe ferme în zonă care vând produse proaspete direct."
+          },
+          {
+            "name": "Magazin de sport",
+            "tip": "În cazul în care aveți nevoie de accesorii pentru bicicletă sau drumeție."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shop",
+            "tip": "There are many farms in the area that sell fresh produce directly."
+          },
+          {
+            "name": "Sports shop",
+            "tip": "In case you need accessories for your bike or hike."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck und die Bremsen, bevor Sie losfahren.",
+          "Nehmen Sie genügend Wasser mit, besonders für die Fahrt zur Halbinsel.",
+          "Ein Helm wird dringend empfohlen.",
+          "Respektieren Sie die Wege und die Natur, besonders auf der Halbinsel Au."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást és a fékeket.",
+          "Vigyen magával elegendő vizet, különösen a félszigetre vezető útra.",
+          "Sisak használata erősen ajánlott.",
+          "Tartsa tiszteletben az utakat és a természetet, különösen az Au-félszigeten."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor și frânele înainte de a porni.",
+          "Luați suficientă apă cu voi, în special pentru drumul spre peninsulă.",
+          "Purtarea căștii este puternic recomandată.",
+          "Respectați potecile și natura, în special în Peninsula Au."
+        ],
+        "en": [
+          "Check your tire pressure and brakes before you set off.",
+          "Take plenty of water with you, especially for the ride to the peninsula.",
+          "A helmet is highly recommended.",
+          "Respect the paths and nature, especially on the Au Peninsula."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 24.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Parken in der Innenstadt",
+            "hu": "A klaszter: Parkolás a belvárosban",
+            "ro": "Cluster A: Parcare în centrul orașului",
+            "en": "Cluster A: Park in the City Center"
+          },
+          "coords": [
+            8.6725,
+            47.2285
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Suchen Sie ein Parkhaus im Zentrum. Von hier aus erkunden Sie den ersten Cluster zu Fuss.",
+            "hu": "Keressen egy parkolóházat a központban. Innen gyalogosan fedezheti fel az első klasztert.",
+            "ro": "Căutați o parcare supraetajată în centru. De aici puteți explora primul cluster pe jos.",
+            "en": "Look for a multi-story car park in the center. From here, explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Reformierte Kirche & Gessner-Haus",
+            "hu": "Református templom és Gessner-ház",
+            "ro": "Biserica Reformată și Casa Gessner",
+            "en": "Reformed Church & Gessner House"
+          },
+          "coords": [
+            8.671,
+            47.227
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang verbindet diese beiden historischen Stätten.",
+            "hu": "Egy rövid séta köti össze ezt a két történelmi helyszínt.",
+            "ro": "O scurtă plimbare leagă aceste două situri istorice.",
+            "en": "A short walk connects these two historic sites."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Wädenswil",
+            "hu": "Wädenswil Kastély",
+            "ro": "Castelul Wädenswil",
+            "en": "Wädenswil Castle"
+          },
+          "coords": [
+            8.6738,
+            47.2255
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Spaziergang zum Schloss durch den Park ist sehr angenehm.",
+            "hu": "A sétány a parkon keresztül a kastélyhoz nagyon kellemes.",
+            "ro": "Plimbarea spre castel prin parc este foarte plăcută.",
+            "en": "The walk to the castle through the park is very pleasant."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Fahrt zur Halbinsel Au",
+            "hu": "B klaszter: Utazás az Au-félszigetre",
+            "ro": "Cluster B: Drumul spre Peninsula Au",
+            "en": "Cluster B: Drive to the Au Peninsula"
+          },
+          "coords": [
+            8.6455,
+            47.2435
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "11:25",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Eingang der Halbinsel und erkunden Sie sie zu Fuss. Planen Sie hier Ihr Mittagessen ein.",
+            "hu": "Parkoljon a félsziget bejáratánál, és fedezze fel gyalog. Tervezze ide az ebédjét.",
+            "ro": "Parcați la intrarea în peninsulă și explorați-o pe jos. Planificați-vă prânzul aici.",
+            "en": "Park at the entrance to the peninsula and explore it on foot. Plan your lunch here."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang & Mittagessen auf der Halbinsel Au",
+            "hu": "Séta és ebéd az Au-félszigeten",
+            "ro": "Plimbare și prânz în Peninsula Au",
+            "en": "Walk & Lunch on the Au Peninsula"
+          },
+          "coords": [
+            8.648,
+            47.245
+          ],
+          "category": "gastro",
+          "arrive_at": "11:30",
+          "stay_min": 0,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Geniessen Sie die Natur und die hervorragende Gastronomie.",
+            "hu": "Élvezze a természetet és a kiváló gasztronómiát.",
+            "ro": "Bucurați-vă de natură și de gastronomia excelentă.",
+            "en": "Enjoy the nature and the excellent gastronomy."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Fahrt zum Wädenswiler Berg",
+            "hu": "C klaszter: Utazás a Wädenswiler Berg-re",
+            "ro": "Cluster C: Drumul spre Wädenswiler Berg",
+            "en": "Cluster C: Drive to Wädenswiler Berg"
+          },
+          "coords": [
+            8.695,
+            47.215
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "14:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 18.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein kurzer, aber kurvenreicher Aufstieg für eine fantastische Aussicht.",
+            "hu": "Rövid, de kanyargós út egy fantasztikus kilátásért.",
+            "ro": "O urcare scurtă, dar sinuoasă, pentru o priveliște fantastică.",
+            "en": "A short but winding climb for a fantastic view."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt und kurzer Spaziergang",
+            "hu": "Kilátó és rövid séta",
+            "ro": "Punct de belvedere și scurtă plimbare",
+            "en": "Viewpoint and short walk"
+          },
+          "coords": [
+            8.697,
+            47.214
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Geniessen Sie den Panoramablick über den See und die Alpen, bevor Sie zurückfahren.",
+            "hu": "Élvezze a panorámás kilátást a tóra és az Alpokra, mielőtt visszaindul.",
+            "ro": "Bucurați-vă de vederea panoramică asupra lacului și a Alpilor înainte de a vă întoarce.",
+            "en": "Enjoy the panoramic view over the lake and the Alps before heading back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Auto ermöglicht es Ihnen, die Höhepunkte von Wädenswil mit den Naturparadiesen der Umgebung zu kombinieren. Erkunden Sie morgens das historische Zentrum zu Fuss. Nach einer kurzen Fahrt erreichen Sie die Halbinsel Au für ein idyllisches Mittagessen. Der Nachmittag ist für den Wädenswiler Berg reserviert, von wo aus Sie eine unvergessliche Aussicht geniessen, bevor der Tag zu Ende geht.",
+        "hu": "Az autó lehetővé teszi, hogy Wädenswil nevezetességeit a környező természeti paradicsomokkal kombinálja. Reggel fedezze fel gyalog a történelmi központot. Egy rövid autóút után elérheti az Au-félszigetet egy idilli ebédhez. A délután a Wädenswiler Bergé, ahonnan felejthetetlen kilátás nyílik, mielőtt a nap véget ér.",
+        "ro": "Mașina vă permite să combinați atracțiile din Wädenswil cu paradisurile naturale din jur. Explorați centrul istoric pe jos dimineața. După o scurtă călătorie cu mașina, ajungeți la Peninsula Au pentru un prânz idilic. După-amiaza este rezervată pentru Wädenswiler Berg, de unde vă puteți bucura de o priveliște de neuitat înainte de sfârșitul zilei.",
+        "en": "The car allows you to combine the highlights of Wädenswil with the surrounding natural paradises. Explore the historic center on foot in the morning. After a short drive, you'll reach the Au Peninsula for an idyllic lunch. The afternoon is reserved for the Wädenswiler Berg, from where you can enjoy an unforgettable view before the day ends."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant auf dem Berg",
+            "tip": "Verbinden Sie die Aussicht auf dem Wädenswiler Berg mit einer herzhaften Mahlzeit."
+          },
+          {
+            "name": "Landgasthof",
+            "tip": "Entdecken Sie traditionelle Schweizer Küche in einem der Gasthöfe ausserhalb der Stadt."
+          },
+          {
+            "name": "Picknick",
+            "tip": "Kaufen Sie lokale Produkte und machen Sie ein Picknick auf der Halbinsel Au."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a hegyen",
+            "tip": "Kombinálja a Wädenswiler Berg kilátását egy kiadós étkezéssel."
+          },
+          {
+            "name": "Vidéki fogadó",
+            "tip": "Fedezze fel a hagyományos svájci konyhát a városon kívüli fogadók egyikében."
+          },
+          {
+            "name": "Piknik",
+            "tip": "Vásároljon helyi termékeket, és piknikezzen az Au-félszigeten."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant pe munte",
+            "tip": "Combinați priveliștea de pe Wädenswiler Berg cu o masă copioasă."
+          },
+          {
+            "name": "Han rustic",
+            "tip": "Descoperiți bucătăria tradițională elvețiană la una dintre pensiunile din afara orașului."
+          },
+          {
+            "name": "Picnic",
+            "tip": "Cumpărați produse locale și faceți un picnic în Peninsula Au."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant on the mountain",
+            "tip": "Combine the view from Wädenswiler Berg with a hearty meal."
+          },
+          {
+            "name": "Country inn",
+            "tip": "Discover traditional Swiss cuisine in one of the inns outside the city."
+          },
+          {
+            "name": "Picnic",
+            "tip": "Buy local products and have a picnic on the Au Peninsula."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wädenswiler Berg",
+            "tip": "Oben angekommen, finden Sie zahlreiche ruhige Wege und Bänke.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Schlosspark Au",
+            "tip": "Ein weiterer friedlicher Ort auf der Halbinsel, ideal für eine Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Waldwege",
+            "tip": "Die Wälder rund um Wädenswil sind perfekt für eine stille Flucht aus dem Alltag.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wädenswiler Berg",
+            "tip": "A csúcsra érve számos csendes utat és padot talál.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Au kastélypark",
+            "tip": "Egy másik békés hely a félszigeten, ideális egy szünetre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Erdei ösvények",
+            "tip": "A Wädenswil körüli erdők tökéletesek a csendes meneküléshez a mindennapokból.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Wädenswiler Berg",
+            "tip": "Odată ajuns în vârf, veți găsi numeroase poteci și bănci liniștite.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Castelului Au",
+            "tip": "Un alt loc pașnic pe peninsulă, ideal pentru o pauză.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Poteci de pădure",
+            "tip": "Pădurile din jurul Wädenswil sunt perfecte pentru o evadare liniștită din cotidian.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Wädenswiler Berg",
+            "tip": "Once at the top, you will find numerous quiet paths and benches.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Au Castle Park",
+            "tip": "Another peaceful spot on the peninsula, ideal for a break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Forest trails",
+            "tip": "The forests around Wädenswil are perfect for a quiet escape from everyday life.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Käserei",
+            "tip": "Besuchen Sie eine lokale Käserei und probieren Sie die verschiedenen Sorten."
+          },
+          {
+            "name": "Schokoladenmanufaktur",
+            "tip": "Schweizer Schokolade ist weltberühmt – finden Sie eine kleine Manufaktur in der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sajtüzem",
+            "tip": "Látogasson el egy helyi sajtüzembe, és kóstolja meg a különböző fajtákat."
+          },
+          {
+            "name": "Csokoládémanufaktúra",
+            "tip": "A svájci csokoládé világhírű – keressen egy kis manufaktúrát a régióban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fabrică de brânzeturi",
+            "tip": "Vizitați o fabrică locală de brânzeturi și degustați diferitele sortimente."
+          },
+          {
+            "name": "Manufactură de ciocolată",
+            "tip": "Ciocolata elvețiană este renumită în întreaga lume – găsiți o mică manufactură în regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cheese dairy",
+            "tip": "Visit a local cheese dairy and taste the different varieties."
+          },
+          {
+            "name": "Chocolate manufactory",
+            "tip": "Swiss chocolate is world-famous – find a small manufactory in the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die Parkgebühren und -zeiten.",
+          "Die Strassen zum Wädenswiler Berg können eng und kurvig sein.",
+          "Haben Sie immer etwas Bargeld für kleine Einkäufe auf Bauernhöfen dabei.",
+          "Laden Sie Offline-Karten herunter, da der Empfang in ländlichen Gebieten schwach sein kann."
+        ],
+        "hu": [
+          "Ügyeljen a parkolási díjakra és időkorlátokra.",
+          "A Wädenswiler Berg-re vezető utak szűkek és kanyargósak lehetnek.",
+          "Mindig tartson magánál készpénzt a termelői vásárlásokhoz.",
+          "Töltsön le offline térképeket, mivel a térerő gyenge lehet a vidéki területeken."
+        ],
+        "ro": [
+          "Fiți atenți la taxele și duratele de parcare.",
+          "Drumurile spre Wädenswiler Berg pot fi înguste și sinuoase.",
+          "Aveți întotdeauna numerar la voi pentru cumpărături mici de la ferme.",
+          "Descărcați hărți offline, deoarece semnalul poate fi slab în zonele rurale."
+        ],
+        "en": [
+          "Pay attention to parking fees and times.",
+          "The roads to Wädenswiler Berg can be narrow and winding.",
+          "Always have some cash with you for small purchases at farms.",
+          "Download offline maps, as reception can be weak in rural areas."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 10.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Ankunft Bahnhof Wädenswil",
+            "hu": "A klaszter: Érkezés a Wädenswil vasútállomásra",
+            "ro": "Cluster A: Sosire la gara Wädenswil",
+            "en": "Cluster A: Arrival at Wädenswil Train Station"
+          },
+          "coords": [
+            8.673,
+            47.229
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Bahnhof ist der perfekte Ausgangspunkt. Erkunden Sie das Zentrum zu Fuss.",
+            "hu": "Az állomás tökéletes kiindulópont. Fedezze fel a központot gyalog.",
+            "ro": "Gara este punctul de plecare perfect. Explorați centrul pe jos.",
+            "en": "The train station is the perfect starting point. Explore the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Reformierte Kirche & Schloss Wädenswil",
+            "hu": "Református templom és Wädenswil kastély",
+            "ro": "Biserica Reformată și Castelul Wädenswil",
+            "en": "Reformed Church & Wädenswil Castle"
+          },
+          "coords": [
+            8.672,
+            47.226
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:18",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die Altstadt verbindet diese beiden wichtigen Sehenswürdigkeiten.",
+            "hu": "Egy rövid séta az óvárosban összeköti ezt a két fontos látnivalót.",
+            "ro": "O scurtă plimbare prin orașul vechi leagă aceste două atracții importante.",
+            "en": "A short walk through the old town connects these two important sights."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Bus zur Halbinsel Au",
+            "hu": "B klaszter: Busszal az Au-félszigetre",
+            "ro": "Cluster B: Autobuz spre Peninsula Au",
+            "en": "Cluster B: Bus to the Au Peninsula"
+          },
+          "coords": [
+            8.6455,
+            47.2435
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "11:18",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus Richtung Halbinsel. Geniessen Sie die Fahrt und planen Sie hier Ihr Mittagessen.",
+            "hu": "Menjen busszal a félsziget felé. Élvezze az utazást és tervezze ide az ebédjét.",
+            "ro": "Luați autobuzul spre peninsulă. Bucurați-vă de călătorie și planificați-vă prânzul aici.",
+            "en": "Take the bus towards the peninsula. Enjoy the ride and plan your lunch here."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Ufer der Halbinsel Au",
+            "hu": "Séta az Au-félsziget partján",
+            "ro": "Plimbare pe malul Peninsulei Au",
+            "en": "Walk on the shore of the Au Peninsula"
+          },
+          "coords": [
+            8.648,
+            47.245
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:28",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Rundweg führt um die Halbinsel.",
+            "hu": "Egy szép körút vezet a félsziget körül.",
+            "ro": "Un frumos traseu circular înconjoară peninsula.",
+            "en": "A beautiful circular path leads around the peninsula."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Bus zum Weinbauzentrum",
+            "hu": "C klaszter: Busszal a Borászati Központhoz",
+            "ro": "Cluster C: Autobuz spre Centrul Viticol",
+            "en": "Cluster C: Bus to the Winegrowing Center"
+          },
+          "coords": [
+            8.6655,
+            47.231
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Bus bringt Sie bequem zurück in Richtung Stadt zum Weinzentrum.",
+            "hu": "A busz kényelmesen visszaviszi a város irányába a borászati központhoz.",
+            "ro": "Autobuzul vă duce confortabil înapoi spre oraș, la centrul viticol.",
+            "en": "The bus takes you comfortably back towards the city to the wine center."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Zürichsee-Ufer",
+            "hu": "Séta a Zürichi-tó partján",
+            "ro": "Plimbare pe malul lacului Zürich",
+            "en": "Walk along the Lake Zurich Shore"
+          },
+          "coords": [
+            8.678,
+            47.2295
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:50",
+          "stay_min": 85,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag mit einem entspannten Spaziergang am See ausklingen, bevor Sie den Zug nach Hause nehmen.",
+            "hu": "Zárja a napot egy pihentető sétával a tóparton, mielőtt hazaindulna a vonattal.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă pe malul lacului înainte de a lua trenul spre casă.",
+            "en": "End the day with a relaxing walk by the lake before taking the train home."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln lässt sich Wädenswil entspannt erkunden. Nach einem Spaziergang durch das Zentrum bringt Sie ein Bus zur wunderschönen Halbinsel Au. Nach einem Mittagessen in der Natur geht es weiter zum Weinbauzentrum für eine Kostprobe. Den Abschluss bildet ein ruhiger Spaziergang am Seeufer, bevor Sie bequem vom Bahnhof Wädenswil Ihre Heimreise antreten.",
+        "hu": "Tömegközlekedéssel Wädenswil pihentetően felfedezhető. A központban tett séta után egy busz elvisz a gyönyörű Au-félszigetre. A természetben elköltött ebéd után a Borászati Központba megyünk egy kóstolóra. A napot egy csendes tóparti séta zárja, mielőtt kényelmesen hazautazna a wädenswili állomásról.",
+        "ro": "Wädenswil poate fi explorat într-un mod relaxat folosind transportul public. După o plimbare prin centru, un autobuz vă duce la frumoasa Peninsulă Au. După un prânz în natură, călătoria continuă spre Centrul Viticol pentru o degustare. Ziua se încheie cu o plimbare liniștită pe malul lacului înainte de a vă întoarce acasă confortabil de la gara Wädenswil.",
+        "en": "Wädenswil can be explored in a relaxed way using public transport. After a walk through the center, a bus takes you to the beautiful Au Peninsula. After lunch in nature, the journey continues to the Winegrowing Center for a tasting. The day ends with a quiet walk on the lake shore before you comfortably travel home from Wädenswil station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Take-Away am Bahnhof",
+            "tip": "Schnappen Sie sich einen Kaffee und ein Gipfeli, um den Tag zu beginnen."
+          },
+          {
+            "name": "Restaurant mit Seeblick",
+            "tip": "Viele Restaurants am Ufer sind gut mit dem Bus erreichbar."
+          },
+          {
+            "name": "Bäckerei im Dorf",
+            "tip": "Ideal für eine süsse Stärkung am Nachmittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Elvitelre az állomáson",
+            "tip": "Kapjon be egy kávét és egy croissant-t a nap indításához."
+          },
+          {
+            "name": "Étterem tóparti kilátással",
+            "tip": "Sok tóparti étterem könnyen megközelíthető busszal."
+          },
+          {
+            "name": "Pékség a faluban",
+            "tip": "Ideális egy édes délutáni feltöltődéshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Take-Away la gară",
+            "tip": "Luați o cafea și un croissant pentru a începe ziua."
+          },
+          {
+            "name": "Restaurant cu vedere la lac",
+            "tip": "Multe restaurante de pe mal sunt ușor accesibile cu autobuzul."
+          },
+          {
+            "name": "Brutărie în sat",
+            "tip": "Ideal pentru o gustare dulce de după-amiază."
+          }
+        ],
+        "en": [
+          {
+            "name": "Take-away at the station",
+            "tip": "Grab a coffee and a croissant to start the day."
+          },
+          {
+            "name": "Restaurant with a lake view",
+            "tip": "Many restaurants on the shore are easily accessible by bus."
+          },
+          {
+            "name": "Bakery in the village",
+            "tip": "Ideal for a sweet afternoon snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Bank am See",
+            "tip": "Der perfekte Ort, um auf den nächsten Bus zu warten oder einfach die Aussicht zu geniessen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Leseecke im Park",
+            "tip": "Finden Sie einen ruhigen Platz im Schlosspark.",
+            "emoji": "📖"
+          },
+          {
+            "name": "Fahrt mit der Fähre",
+            "tip": "Als Alternative zum Bus können Sie eine kurze Fährfahrt auf dem See machen.",
+            "emoji": "⛴️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pad a tónál",
+            "tip": "Tökéletes hely a következő buszra várni, vagy csak élvezni a kilátást.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Olvasósarok a parkban",
+            "tip": "Keressen egy csendes helyet a kastélyparkban.",
+            "emoji": "📖"
+          },
+          {
+            "name": "Kompút",
+            "tip": "A busz alternatívájaként tehet egy rövid komp utat a tavon.",
+            "emoji": "⛴️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă pe malul lacului",
+            "tip": "Locul perfect pentru a aștepta următorul autobuz sau pur și simplu pentru a vă bucura de priveliște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Colț de lectură în parc",
+            "tip": "Găsiți un loc liniștit în parcul castelului.",
+            "emoji": "📖"
+          },
+          {
+            "name": "Călătorie cu feribotul",
+            "tip": "Ca alternativă la autobuz, puteți face o scurtă călătorie cu feribotul pe lac.",
+            "emoji": "⛴️"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench by the lake",
+            "tip": "The perfect place to wait for the next bus or just enjoy the view.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Reading corner in the park",
+            "tip": "Find a quiet spot in the castle park.",
+            "emoji": "📖"
+          },
+          {
+            "name": "Ferry ride",
+            "tip": "As an alternative to the bus, you can take a short ferry ride on the lake.",
+            "emoji": "⛴️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bahnhofskiosk",
+            "tip": "Für Last-Minute-Souvenirs oder Reiselektüre."
+          },
+          {
+            "name": "Dorfladen",
+            "tip": "Kleine Läden im Zentrum bieten oft einzigartige lokale Produkte an."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Állomási kioszk",
+            "tip": "Last minute ajándéktárgyakhoz vagy úti olvasmányokhoz."
+          },
+          {
+            "name": "Falu boltja",
+            "tip": "A központban lévő kis üzletek gyakran kínálnak egyedi helyi termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la gară",
+            "tip": "Pentru suveniruri de ultim moment sau lectură de călătorie."
+          },
+          {
+            "name": "Magazin sătesc",
+            "tip": "Micile magazine din centru oferă adesea produse locale unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Station kiosk",
+            "tip": "For last-minute souvenirs or travel reading."
+          },
+          {
+            "name": "Village shop",
+            "tip": "Small shops in the center often offer unique local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den öffentlichen Verkehr, um Geld zu sparen.",
+          "Informieren Sie sich über die Busfahrpläne, um Wartezeiten zu minimieren.",
+          "Die meisten Busse sind barrierefrei.",
+          "Apps für den öffentlichen Verkehr können bei der Planung sehr hilfreich sein."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
+          "Tájékozódjon a buszmenetrendekről a várakozási idők minimalizálása érdekében.",
+          "A legtöbb busz akadálymentesített.",
+          "A tömegközlekedési alkalmazások nagyon hasznosak lehetnek a tervezésben."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru a economisi bani.",
+          "Verificați orarele autobuzelor pentru a minimiza timpii de așteptare.",
+          "Majoritatea autobuzelor sunt accesibile persoanelor cu dizabilități.",
+          "Aplicațiile de transport public pot fi foarte utile în planificare."
+        ],
+        "en": [
+          "Buy a day ticket for public transport to save money.",
+          "Check the bus schedules to minimize waiting times.",
+          "Most buses are wheelchair accessible.",
+          "Public transport apps can be very helpful for planning."
+        ]
+      }
+    }
+  }
+}

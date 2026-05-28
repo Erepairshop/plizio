@@ -1,0 +1,1319 @@
+{
+  "city_id": "poi-mt-valletta",
+  "anchor": {
+    "name": "St. John's Co-Cathedral",
+    "coords": [
+      14.5125,
+      35.8975
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadttor von Valletta",
+            "hu": "Valletta városkapuja",
+            "ro": "Poarta Orașului Valletta",
+            "en": "Valletta City Gate"
+          },
+          "coords": [
+            14.5086,
+            35.895
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Das moderne Design von Renzo Piano ist ein beeindruckender Einstieg in die Stadt.",
+            "hu": "Renzo Piano modern terve lenyűgöző belépőt kínál a városba.",
+            "ro": "Designul modern al lui Renzo Piano este o intrare impresionantă în oraș.",
+            "en": "The modern design by Renzo Piano makes for a striking entrance to the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalmuseum für Archäologie",
+            "hu": "Nemzeti Régészeti Múzeum",
+            "ro": "Muzeul Național de Arheologie",
+            "en": "National Museum of Archaeology"
+          },
+          "coords": [
+            14.5103,
+            35.8972
+          ],
+          "category": "museums",
+          "arrive_at": "09:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die neolithischen Artefakte, insbesondere die 'Schlafende Dame'.",
+            "hu": "Fókuszáljon a neolitikus leletekre, különösen az 'Alvó Hölgy' szoborra.",
+            "ro": "Concentrați-vă pe artefactele neolitice, în special pe „Doamna Adormită”.",
+            "en": "Focus on the Neolithic artifacts, especially the 'Sleeping Lady' figurine."
+          }
+        },
+        {
+          "name": {
+            "de": "St. John's Co-Cathedral",
+            "hu": "Szent János-társkatedrális",
+            "ro": "Co-Catedrala Sf. Ioan",
+            "en": "St. John's Co-Cathedral"
+          },
+          "coords": [
+            14.5125,
+            35.8975
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht Caravaggios 'Die Enthauptung Johannes des Täufers' im Oratorium.",
+            "hu": "Ne hagyja ki Caravaggio 'Keresztelő Szent János lefejezése' című festményét az Oratóriumban.",
+            "ro": "Nu ratați „Decapitarea Sfântului Ioan Botezătorul” de Caravaggio în Oratoriu.",
+            "en": "Don't miss Caravaggio's 'The Beheading of Saint John the Baptist' in the Oratory."
+          }
+        },
+        {
+          "name": {
+            "de": "Großmeisterpalast",
+            "hu": "Nagymesteri palota",
+            "ro": "Palatul Marilor Maeștri",
+            "en": "Grandmaster's Palace"
+          },
+          "coords": [
+            14.514,
+            35.899
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die Waffenkammer zeigt eine beeindruckende Sammlung von Rüstungen der Ritter.",
+            "hu": "A Fegyvertár a lovagok páncéljainak lenyűgöző gyűjteményét mutatja be.",
+            "ro": "Armureria prezintă o colecție impresionantă de armuri ale cavalerilor.",
+            "en": "The Armoury displays an impressive collection of the Knights' suits of armour."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Rocca Piccola",
+            "hu": "Casa Rocca Piccola",
+            "ro": "Casa Rocca Piccola",
+            "en": "Casa Rocca Piccola"
+          },
+          "coords": [
+            14.5158,
+            35.8995
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Eine Führung gibt Einblick in das Leben einer maltesischen Adelsfamilie.",
+            "hu": "A vezetett túra bepillantást enged egy máltai nemesi család életébe.",
+            "ro": "Un tur ghidat oferă o perspectivă asupra vieții unei familii nobile malteze.",
+            "en": "Taking a guided tour offers a real glimpse into the life of a Maltese noble family."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort St. Elmo",
+            "hu": "Szent Elmo erőd",
+            "ro": "Fortul Sf. Elmo",
+            "en": "Fort St. Elmo"
+          },
+          "coords": [
+            14.518,
+            35.902
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:28",
+          "stay_min": 90,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Nationale Kriegsmuseum im Inneren und genießen Sie den Hafenblick.",
+            "hu": "Látogasson el a benne található Nemzeti Hadimúzeumba, és élvezze a kikötőre nyíló kilátást.",
+            "ro": "Vizitați Muzeul Național de Război din interior și bucurați-vă de vederea spre port.",
+            "en": "Visit the National War Museum inside and enjoy the harbour views."
+          }
+        },
+        {
+          "name": {
+            "de": "Upper Barrakka Gardens",
+            "hu": "Felső-Barrakka kertek",
+            "ro": "Grădinile Upper Barrakka",
+            "en": "Upper Barrakka Gardens"
+          },
+          "coords": [
+            14.512,
+            35.8945
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Kommen Sie vor 16:00 Uhr, um den Salutschuss der Kanonen über dem Grand Harbour zu erleben.",
+            "hu": "Érkezzen 16:00 óra előtt, hogy láthassa az ágyúk díszlövését a Nagy Kikötő felett.",
+            "ro": "Veniți înainte de ora 16:00 pentru a prinde Saluting Battery deasupra Marelui Port.",
+            "en": "Arrive before 4 PM to witness the Saluting Battery cannon fire over the Grand Harbour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am modernen Stadttor und führt Sie tief in die Geschichte Vallettas. Der Vormittag ist der reichen Vergangenheit gewidmet, vom prähistorischen Museum bis zur opulenten Kathedrale der Ritter. Mittags tauchen Sie in die Welt der Großmeister ein, bevor Sie am Nachmittag das private Leben des Adels und die militärische Stärke der Stadt erkunden. Der Tag endet mit einem atemberaubenden Panoramablick über den Grand Harbour, während die Sonne untergeht.",
+        "hu": "A nap a modern városkapunál kezdődik, és mélyen Valletta történelmébe vezet. A délelőtt a gazdag múlté, a prehisztorikus múzeumtól a lovagok pazar katedrálisáig. Délben elmerül a nagymesterek világában, majd délután a nemesség magánéletét és a város katonai erejét fedezi fel. A nap a Nagy Kikötőre nyíló lélegzetelállító panorámával zárul naplementekor.",
+        "ro": "Ziua dvs. începe la poarta modernă a orașului, ducându-vă adânc în istoria Vallettei. Dimineața este dedicată trecutului bogat, de la muzeul preistoric la catedrala opulentă a cavalerilor. La prânz, vă veți cufunda în lumea Marilor Maeștri, înainte de a explora viața privată a nobilimii și puterea militară a orașului după-amiaza. Ziua se încheie cu o panoramă uluitoare asupra Marelui Port la apus.",
+        "en": "Your day starts at the modern City Gate, taking you deep into Valletta's history. The morning is dedicated to the rich past, from the prehistoric museum to the opulent cathedral of the Knights. At midday, you'll delve into the world of the Grandmasters before exploring the private life of nobility and the city's military might in the afternoon. The day concludes with a breathtaking panoramic view over the Grand Harbour as the sun sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pastizzi",
+            "tip": "Ein herzhaftes, mit Ricotta oder Erbsenpüree gefülltes Gebäck, perfekt für einen schnellen Snack."
+          },
+          {
+            "name": "Ftira",
+            "tip": "Ein traditionelles maltesisches Sauerteigbrot, oft als Sandwich mit Thunfisch, Oliven und Kapern."
+          },
+          {
+            "name": "Lampuki Pie",
+            "tip": "Eine Fischpastete mit Goldmakrele, ein saisonaler Genuss im Herbst."
+          },
+          {
+            "name": "Cisk Lager",
+            "tip": "Das lokale Bier, erfrischend und leicht, ideal für einen warmen Tag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pastizzi",
+            "tip": "Sós, ricottával vagy borsópürével töltött péksütemény, tökéletes egy gyors harapnivalóhoz."
+          },
+          {
+            "name": "Ftira",
+            "tip": "Hagyományos máltai kovászos kenyér, gyakran szendvicsként tonhallal, olajbogyóval és kapribogyóval."
+          },
+          {
+            "name": "Lampuki pite",
+            "tip": "Delfinhalas pite, szezonális finomság ősszel."
+          },
+          {
+            "name": "Cisk Lager",
+            "tip": "A helyi sör, frissítő és könnyű, ideális egy meleg napon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pastizzi",
+            "tip": "Un produs de patiserie savuros umplut cu ricotta sau piure de mazăre, perfect pentru o gustare rapidă."
+          },
+          {
+            "name": "Ftira",
+            "tip": "O pâine tradițională malteză cu maia, adesea servită ca sandviș cu ton, măsline și capere."
+          },
+          {
+            "name": "Plăcintă Lampuki",
+            "tip": "O plăcintă cu pește dorado, o delicatesă de sezon în toamnă."
+          },
+          {
+            "name": "Cisk Lager",
+            "tip": "Berea locală, răcoritoare și ușoară, ideală pentru o zi călduroasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pastizzi",
+            "tip": "A savoury pastry filled with ricotta or mushy peas, perfect for a quick snack."
+          },
+          {
+            "name": "Ftira",
+            "tip": "A traditional Maltese sourdough bread, often served as a sandwich with tuna, olives, and capers."
+          },
+          {
+            "name": "Lampuki Pie",
+            "tip": "A fish pie made with dolphinfish, a seasonal treat in autumn."
+          },
+          {
+            "name": "Cisk Lager",
+            "tip": "The local beer, refreshing and light, ideal for a warm day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lower Barrakka Gardens",
+            "tip": "Weniger überlaufen als die Upper Gardens, mit einem neoklassischen Tempel und Hafenblick.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hastings Gardens",
+            "tip": "Ein ruhiger Ort auf der Westbastion mit Blick auf den Marsamxett Harbour.",
+            "emoji": "🏞️"
+          },
+          {
+            "nameSonnenuntergang am Fort St. Elmo": "Sunset at Fort St. Elmo",
+            "tip": "Finden Sie einen Platz an der Küste in der Nähe des Forts für einen ungestörten Blick auf den Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alsó-Barrakka kertek",
+            "tip": "Kevésbé zsúfolt, mint a Felső kertek, neoklasszikus templommal és kikötői kilátással.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hastings kertek",
+            "tip": "Csendes hely a nyugati bástyán, kilátással a Marsamxett kikötőre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Naplemente a Szent Elmo erődnél",
+            "tip": "Keressen egy helyet a part mentén az erőd közelében a zavartalan naplementéért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Lower Barrakka",
+            "tip": "Mai puțin aglomerate decât Grădinile Superioare, cu un templu neoclasic și vedere la port.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grădinile Hastings",
+            "tip": "Un loc liniștit pe bastionul vestic, cu vedere la Portul Marsamxett.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Apus de soare la Fortul Sf. Elmo",
+            "tip": "Găsiți un loc pe coastă lângă fort pentru o priveliște neîntreruptă a apusului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lower Barrakka Gardens",
+            "tip": "Less crowded than the Upper Gardens, with a neoclassical temple and harbour views.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hastings Gardens",
+            "tip": "A quiet spot on the western bastion overlooking Marsamxett Harbour.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sunset at Fort St. Elmo",
+            "tip": "Find a spot on the coast near the fort for an unobstructed sunset view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Republic Street",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus internationalen Marken und lokalen Geschäften."
+          },
+          {
+            "name": "Ta' Qali Craft Village",
+            "tip": "Etwas außerhalb von Valletta, aber ideal für handgefertigte Glaswaren, Filigranschmuck und Keramik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Republic Street",
+            "tip": "A fő bevásárlóutca, ahol nemzetközi márkák és helyi üzletek keverednek."
+          },
+          {
+            "name": "Ta' Qali kézműves falu",
+            "tip": "Kicsit Vallettán kívül, de ideális kézzel készített üvegáruk, filigrán ékszerek és kerámiák vásárlására."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Republicii",
+            "tip": "Principala stradă comercială, cu un amestec de mărci internaționale și magazine locale."
+          },
+          {
+            "name": "Satul de meșteșuguri Ta' Qali",
+            "tip": "Puțin în afara Vallettei, dar excelent pentru sticlărie lucrată manual, bijuterii filigranate și ceramică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Republic Street",
+            "tip": "The main shopping thoroughfare, with a mix of international brands and local shops."
+          },
+          {
+            "name": "Ta' Qali Craft Village",
+            "tip": "A bit outside Valletta, but great for handmade glassware, filigree jewellery, and pottery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Straßen von Valletta hügelig und oft gepflastert sind.",
+          "Valletta ist eine kompakte Stadt, die sich am besten zu Fuß erkunden lässt, aber seien Sie auf steile Anstiege vorbereitet.",
+          "Eine wiederverwendbare Wasserflasche ist unerlässlich, besonders in den Sommermonaten.",
+          "Viele historische Stätten haben begrenzte Öffnungszeiten, also planen Sie im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel Valletta utcái dombosak és gyakran macskakövesek.",
+          "Valletta egy kompakt város, amelyet a legjobban gyalog lehet felfedezni, de készüljön fel a meredek emelkedőkre.",
+          "Egy újrafelhasználható vizes palack elengedhetetlen, különösen a nyári hónapokban.",
+          "Sok történelmi helyszín korlátozott nyitvatartással rendelkezik, ezért tervezzen előre."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece străzile din Valletta sunt deluroase și adesea pavate.",
+          "Valletta este un oraș compact, cel mai bine explorat pe jos, dar fiți pregătiți pentru urcări abrupte.",
+          "O sticlă de apă reutilizabilă este esențială, mai ales în lunile de vară.",
+          "Multe situri istorice au program limitat, așa că planificați din timp."
+        ],
+        "en": [
+          "Wear comfortable shoes as Valletta's streets are hilly and often cobblestoned.",
+          "Valletta is a compact city best explored on foot, but be prepared for steep climbs.",
+          "A reusable water bottle is essential, especially during summer months.",
+          "Many historical sites have limited opening hours, so plan ahead."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradverleih am Stadttor",
+            "hu": "Kerékpárkölcsönző a városkapunál",
+            "ro": "Închiriere biciclete la Poarta Orașului",
+            "en": "Bike Rental near City Gate"
+          },
+          "coords": [
+            14.508,
+            35.8948
+          ],
+          "category": "service",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Wählen Sie ein E-Bike, um die Hügel von Valletta leichter zu bewältigen.",
+            "hu": "Válasszon e-biciklit, hogy könnyebben megbirkózzon Valletta dombjaival.",
+            "ro": "Alegeți o bicicletă electrică pentru a face față mai ușor dealurilor din Valletta.",
+            "en": "Opt for an e-bike to handle Valletta's hills more easily."
+          }
+        },
+        {
+          "name": {
+            "de": "Upper Barrakka Gardens",
+            "hu": "Felső-Barrakka kertek",
+            "ro": "Grădinile Upper Barrakka",
+            "en": "Upper Barrakka Gardens"
+          },
+          "coords": [
+            14.512,
+            35.8945
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:26",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und genießen Sie die Aussicht, bevor die Menschenmassen kommen.",
+            "hu": "Zárja le a kerékpárt, és élvezze a kilátást, mielőtt a tömeg megérkezik.",
+            "ro": "Parcați-vă bicicleta și bucurați-vă de priveliște înainte de a se aglomera.",
+            "en": "Lock up your bike and enjoy the view before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Valletta Waterfront",
+            "hu": "Valletta vízpartja",
+            "ro": "Faleza Valletta",
+            "en": "Valletta Waterfront"
+          },
+          "coords": [
+            14.505,
+            35.891
+          ],
+          "category": "gastro",
+          "arrive_at": "10:38",
+          "stay_min": 30,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Eine angenehme, flache Fahrt entlang des Wassers mit vielen Cafés für eine Pause.",
+            "hu": "Kellemes, sík tekerés a víz mentén, sok kávézóval egy pihenőre.",
+            "ro": "O plimbare plăcută, plată, de-a lungul apei, cu multe cafenele pentru o pauză.",
+            "en": "A pleasant, flat ride along the water with plenty of cafes for a break."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort St. Elmo",
+            "hu": "Szent Elmo erőd",
+            "ro": "Fortul Sf. Elmo",
+            "en": "Fort St. Elmo"
+          },
+          "coords": [
+            14.518,
+            35.902
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:26",
+          "stay_min": 120,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad draußen an und verbringen Sie Zeit im Nationalen Kriegsmuseum.",
+            "hu": "Zárja le a kerékpárt kint, és töltsön időt a Nemzeti Hadimúzeumban.",
+            "ro": "Legați-vă bicicleta afară și petreceți timp explorând Muzeul Național de Război.",
+            "en": "Lock your bike outside and spend quality time exploring the National War Museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoel Theatre",
+            "hu": "Manoel Színház",
+            "ro": "Teatrul Manoel",
+            "en": "Manoel Theatre"
+          },
+          "coords": [
+            14.512,
+            35.8998
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:38",
+          "stay_min": 45,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Prüfen Sie, ob eine kurze Besichtigung des Auditoriums möglich ist, es ist wunderschön.",
+            "hu": "Ellenőrizze, hogy lehetséges-e egy gyors túra az auditóriumban; gyönyörű.",
+            "ro": "Verificați dacă este disponibil un tur rapid al auditoriului; este uimitor.",
+            "en": "Check if a quick tour of the auditorium is available; it's stunning."
+          }
+        },
+        {
+          "name": {
+            "de": "St. John's Co-Cathedral (Außenansicht)",
+            "hu": "Szent János-társkatedrális (kívülről)",
+            "ro": "Co-Catedrala Sf. Ioan (exterior)",
+            "en": "St. John's Co-Cathedral (Exterior View)"
+          },
+          "coords": [
+            14.5125,
+            35.8975
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:26",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Fassade, die im Kontrast zum opulenten Inneren steht.",
+            "hu": "Csodálja meg a visszafogott homlokzatot, amely ellentétben áll a pazar belsővel.",
+            "ro": "Admirați fațada simplă, care contrastează puternic cu interiorul opulent.",
+            "en": "Admire the plain facade, which contrasts sharply with the opulent interior."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radtag beginnt mit der Abholung Ihres (E-)Bikes und einem ersten Panoramablick von den Upper Barrakka Gardens. Sie gleiten hinunter zur Valletta Waterfront für eine flache, malerische Fahrt. Der Hauptteil des Tages ist dem imposanten Fort St. Elmo an der Spitze der Halbinsel gewidmet. Am Nachmittag radeln Sie zurück ins Herz der Stadt, um das historische Manoel Theatre und die berühmte Kathedrale von außen zu bewundern, bevor Sie Ihr Fahrrad zurückgeben.",
+        "hu": "A biciklis nap az (e-)bicikli átvételével és egy első panorámaképpel kezdődik a Felső-Barrakka kertekből. Legurul a Valletta vízpartjára egy sík, festői útra. A nap nagy részét a félsziget csúcsán álló impozáns Szent Elmo erődnek szenteli. Délután visszateker a város szívébe, hogy megcsodálja a történelmi Manoel Színházat és a híres katedrálist kívülről, mielőtt visszaadná a kerékpárt.",
+        "ro": "Ziua dvs. pe bicicletă începe cu ridicarea (e-)bicicletei și o primă vedere panoramică de la Grădinile Upper Barrakka. Coborâți spre Faleza Valletta pentru o plimbare plată și pitorească. Partea principală a zilei este dedicată impunătorului Fort Sf. Elmo, la vârful peninsulei. După-amiaza, pedalați înapoi în inima orașului pentru a admira exteriorul istoric al Teatrului Manoel și faimoasa co-catedrală înainte de a returna bicicleta.",
+        "en": "Your cycling day starts by picking up your (e-)bike and getting an initial panoramic view from the Upper Barrakka Gardens. You'll glide down to the Valletta Waterfront for a flat, scenic ride. The main part of the day is dedicated to the imposing Fort St. Elmo at the tip of the peninsula. In the afternoon, you'll cycle back into the heart of the city to admire the exterior of the historic Manoel Theatre and the famed Co-Cathedral before returning your bike."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kinnie",
+            "tip": "Ein bittersüßes kohlensäurehaltiges Getränk aus Bitterorangen und aromatischen Kräutern. Sehr maltesisch."
+          },
+          {
+            "name": "Meeresfrüchte-Pasta",
+            "tip": "An der Waterfront finden Sie Restaurants, die frische Pasta mit dem Fang des Tages servieren."
+          },
+          {
+            "name": "Maltesischer Kaffee",
+            "tip": "Traditionell mit Anis und Nelken gewürzt, eine einzigartige Kaffeepause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kinnie",
+            "tip": "Keserédes szénsavas ital keserűnarancsból és aromás gyógynövényekből. Nagyon máltai."
+          },
+          {
+            "name": "Tenger gyümölcsei tészta",
+            "tip": "A vízparton talál éttermeket, amelyek friss tésztát szolgálnak fel a napi fogással."
+          },
+          {
+            "name": "Máltai kávé",
+            "tip": "Hagyományosan ánizzsal és szegfűszeggel ízesítve, egyedi kávészünet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kinnie",
+            "tip": "O băutură carbogazoasă dulce-amăruie făcută din portocale amare și ierburi aromatice. Foarte malteză."
+          },
+          {
+            "name": "Paste cu fructe de mare",
+            "tip": "Pe faleză veți găsi restaurante care servesc paste proaspete cu captura zilei."
+          },
+          {
+            "name": "Cafea malteză",
+            "tip": "Aromatizată în mod tradițional cu anason și cuișoare, o pauză de cafea unică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kinnie",
+            "tip": "A bittersweet carbonated soft drink made from bitter oranges and aromatic herbs. Very Maltese."
+          },
+          {
+            "name": "Seafood Pasta",
+            "tip": "At the Waterfront, you'll find restaurants serving fresh pasta with the catch of the day."
+          },
+          {
+            "name": "Maltese Coffee",
+            "tip": "Traditionally spiced with aniseed and cloves, a unique coffee break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Breakwater Bridge",
+            "tip": "Fahren Sie zum Wellenbrecher für eine tolle Aussicht zurück auf die Stadt und das offene Meer.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Entlang der Ringstraße",
+            "tip": "Die Straße, die um Valletta herumführt, bietet ruhigere Abschnitte und ständig wechselnde Ausblicke.",
+            "emoji": "🚲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hullámtörő híd",
+            "tip": "Tekerjen ki a hullámtörőhöz, ahonnan remek kilátás nyílik a városra és a nyílt tengerre.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "A körgyűrű mentén",
+            "tip": "A Valletta körüli út csendesebb szakaszokat és folyamatosan változó kilátást kínál.",
+            "emoji": "🚲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Podul Digului",
+            "tip": "Pedalați până la dig pentru o priveliște minunată înapoi spre oraș și spre marea deschisă.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "De-a lungul șoselei de centură",
+            "tip": "Drumul care înconjoară Valletta oferă secțiuni mai liniștite și priveliști mereu schimbătoare.",
+            "emoji": "🚲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Breakwater Bridge",
+            "tip": "Cycle out to the breakwater for a great view back at the city and of the open sea.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Along the Ring Road",
+            "tip": "The road circling Valletta offers quieter sections and ever-changing views.",
+            "emoji": "🚲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Is-Suq tal-Belt",
+            "tip": "Ein moderner Lebensmittelmarkt, in dem Sie lokale Köstlichkeiten und Souvenirs finden können."
+          },
+          {
+            "name": "Merchant Street Market",
+            "tip": "Ein täglicher Freiluftmarkt mit Kleidung, Souvenirs und Haushaltswaren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Is-Suq tal-Belt",
+            "tip": "Modern élelmiszerpiac, ahol helyi finomságokat és ajándéktárgyakat találhat."
+          },
+          {
+            "name": "Merchant Street piac",
+            "tip": "Napi szabadtéri piac ruhákkal, ajándéktárgyakkal és háztartási cikkekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Is-Suq tal-Belt",
+            "tip": "O piață alimentară modernă unde puteți găsi delicatese locale și suveniruri."
+          },
+          {
+            "name": "Piața de pe Strada Merchant",
+            "tip": "O piață zilnică în aer liber cu haine, suveniruri și articole de uz casnic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Is-Suq tal-Belt",
+            "tip": "A modern food market where you can find local delicacies and souvenirs."
+          },
+          {
+            "name": "Merchant Street Market",
+            "tip": "A daily open-air market with clothes, souvenirs, and household goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Radfahren in den Hauptstraßen von Valletta kann aufgrund des Verkehrs und der engen Gassen eine Herausforderung sein.",
+          "Schließen Sie Ihr Fahrrad immer sicher ab, besonders in belebten Gegenden.",
+          "Ein Helm wird dringend empfohlen.",
+          "Nutzen Sie den Barrakka Lift, um Ihr Fahrrad (gegen Gebühr) zwischen der Waterfront und den Upper Gardens zu transportieren."
+        ],
+        "hu": [
+          "A kerékpározás Valletta főutcáin kihívást jelenthet a forgalom és a szűk sikátorok miatt.",
+          "Mindig biztonságosan zárja le a kerékpárját, különösen a forgalmas területeken.",
+          "Sisak használata erősen ajánlott.",
+          "Használja a Barrakka liftet, hogy (díj ellenében) szállítsa a kerékpárját a vízpart és a Felső kertek között."
+        ],
+        "ro": [
+          "Ciclismul pe străzile principale din Valletta poate fi o provocare din cauza traficului și a aleilor înguste.",
+          "Legați-vă întotdeauna bicicleta în siguranță, mai ales în zonele aglomerate.",
+          "Se recomandă insistent purtarea căștii.",
+          "Folosiți Liftul Barrakka pentru a vă transporta bicicleta (contra cost) între Faleză și Grădinile Superioare."
+        ],
+        "en": [
+          "Cycling in Valletta's main streets can be challenging due to traffic and narrow alleys.",
+          "Always lock your bike securely, especially in busy areas.",
+          "A helmet is strongly recommended.",
+          "Use the Barrakka Lift to transport your bike (for a fee) between the Waterfront and the Upper Gardens."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 16.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken außerhalb des Stadttors",
+            "hu": "Parkolás a városkapun kívül",
+            "ro": "Parcare în afara Porții Orașului",
+            "en": "Parking outside City Gate"
+          },
+          "coords": [
+            14.505,
+            35.894
+          ],
+          "category": "service",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie auf dem MCP-Parkplatz und gehen Sie zu Fuß in die Stadt, um Verkehrsstress zu vermeiden.",
+            "hu": "Parkoljon az MCP parkolóban, és sétáljon be a városba, hogy elkerülje a forgalmi dugókat.",
+            "ro": "Parcați în parcarea MCP și mergeți pe jos în oraș pentru a evita stresul din trafic.",
+            "en": "Park at the MCP car park and walk into the city to avoid traffic stress."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadttor & Nationalmuseum für Archäologie",
+            "hu": "Városkapu és Nemzeti Régészeti Múzeum",
+            "ro": "Poarta Orașului și Muzeul Național de Arheologie",
+            "en": "City Gate & National Museum of Archaeology"
+          },
+          "coords": [
+            14.509,
+            35.896
+          ],
+          "category": "cluster",
+          "arrive_at": "09:01",
+          "stay_min": 120,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Rundgang direkt nach dem Betreten der Stadt.",
+            "hu": "Kezdje a gyalogtúrát rögtön a városba lépés után.",
+            "ro": "Începeți turul pietonal imediat ce intrați în oraș.",
+            "en": "Start your walking tour right after entering the city."
+          }
+        },
+        {
+          "name": {
+            "de": "St. John's Co-Cathedral",
+            "hu": "Szent János-társkatedrális",
+            "ro": "Co-Catedrala Sf. Ioan",
+            "en": "St. John's Co-Cathedral"
+          },
+          "coords": [
+            14.5125,
+            35.8975
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Audioguide ist sehr informativ und im Eintrittspreis inbegriffen.",
+            "hu": "Az audio guide nagyon informatív és benne van a belépőjegy árában.",
+            "ro": "Ghidul audio este foarte informativ și inclus în prețul biletului.",
+            "en": "The audio guide is very informative and included in the entrance fee."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zu den Three Cities (Aussichtspunkt)",
+            "hu": "Utazás a Három Városhoz (kilátó)",
+            "ro": "Călătorie spre cele Trei Orașe (punct de belvedere)",
+            "en": "Drive to the Three Cities (Viewpoint)"
+          },
+          "coords": [
+            14.522,
+            35.888
+          ],
+          "category": "viewpoint",
+          "arrive_at": "12:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie nach Senglea, um den besten Blick zurück auf Valletta und den Grand Harbour zu haben.",
+            "hu": "Vezessen el Sengleába a legjobb kilátásért Vallettára és a Nagy Kikötőre.",
+            "ro": "Conduceți spre Senglea pentru cea mai bună priveliște înapoi spre Valletta și Marele Port.",
+            "en": "Drive to Senglea for the best viewpoint back towards Valletta and the Grand Harbour."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Birgu",
+            "hu": "Ebéd Birguban",
+            "ro": "Prânz în Birgu",
+            "en": "Lunch in Birgu"
+          },
+          "coords": [
+            14.523,
+            35.887
+          ],
+          "category": "gastro",
+          "arrive_at": "13:37",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die charmanten Straßen von Birgu und finden Sie ein Restaurant am Wasser.",
+            "hu": "Fedezze fel Birgu bájos utcáit, és keressen egy éttermet a vízparton.",
+            "ro": "Explorați străzile fermecătoare din Birgu și găsiți un restaurant pe malul apei.",
+            "en": "Explore the charming streets of Birgu and find a restaurant by the waterfront."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr nach Valletta: Upper Barrakka Gardens",
+            "hu": "Vissza Vallettába: Felső-Barrakka kertek",
+            "ro": "Întoarcere în Valletta: Grădinile Upper Barrakka",
+            "en": "Return to Valletta: Upper Barrakka Gardens"
+          },
+          "coords": [
+            14.512,
+            35.8945
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:35",
+          "stay_min": 95,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie erneut und beenden Sie den Tag mit dem Sonnenuntergang über dem Hafen.",
+            "hu": "Parkoljon le újra, és fejezze be a napot a naplementével a kikötő felett.",
+            "ro": "Parcați din nou și încheiați ziua cu apusul de soare peste port.",
+            "en": "Park again and end the day watching the sunset over the harbour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto genießen Sie Flexibilität. Sie parken am Morgen und erkunden den oberen Teil von Valletta zu Fuß, einschließlich des Museums und der Kathedrale. Mittags fahren Sie über den Hafen zu den historischen Three Cities, genießen eine spektakuläre Aussicht auf Valletta und ein entspanntes Mittagessen in Birgu. Am Nachmittag kehren Sie zurück, um den Tag in den Upper Barrakka Gardens ausklingen zu lassen und das berühmte Panorama bei Sonnenuntergang zu erleben.",
+        "hu": "Az autóval rugalmasságot élvezhet. Reggel leparkol, és gyalog fedezi fel Valletta felső részét, beleértve a múzeumot és a katedrálist. Délben átautózik a kikötőn a történelmi Három Városhoz, ahol lenyűgöző kilátás nyílik Vallettára és egy kellemes ebéd vár Birguban. Délután visszatér, hogy a napot a Felső-Barrakka kertekben fejezze be, és élvezze a híres panorámát naplementekor.",
+        "ro": "Cu mașina, vă bucurați de flexibilitate. Parcați dimineața și explorați partea superioară a Vallettei pe jos, inclusiv muzeul și catedrala. La prânz, conduceți peste port spre istoricele Trei Orașe pentru o priveliște spectaculoasă a Vallettei și un prânz relaxant în Birgu. După-amiaza, vă întoarceți pentru a încheia ziua la Grădinile Upper Barrakka, admirând faimoasa panoramă la apus.",
+        "en": "With a car, you enjoy flexibility. You'll park in the morning and explore the upper part of Valletta on foot, including the museum and cathedral. At midday, you drive across the harbour to the historic Three Cities for a spectacular view back at Valletta and a relaxed lunch in Birgu. In the afternoon, you return to finish the day at the Upper Barrakka Gardens, catching the famous panorama at sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Aljotta",
+            "tip": "Eine traditionelle Knoblauch-Fischsuppe, oft in den Restaurants von Birgu zu finden."
+          },
+          {
+            "name": "Kaninchen-Eintopf (Stuffat tal-Fenek)",
+            "tip": "Maltas Nationalgericht, ein reichhaltiger und herzhafter Eintopf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aljotta",
+            "tip": "Hagyományos fokhagymás halleves, gyakran megtalálható Birgu éttermeiben."
+          },
+          {
+            "name": "Nyúlpörkölt (Stuffat tal-Fenek)",
+            "tip": "Málta nemzeti étele, gazdag és kiadós pörkölt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Aljotta",
+            "tip": "O supă tradițională de pește cu usturoi, adesea găsită în restaurantele din Birgu."
+          },
+          {
+            "name": "Tocăniță de iepure (Stuffat tal-Fenek)",
+            "tip": "Mâncarea națională a Maltei, o tocană bogată și consistentă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Aljotta",
+            "tip": "A traditional garlic fish soup, often found in the restaurants of Birgu."
+          },
+          {
+            "name": "Rabbit Stew (Stuffat tal-Fenek)",
+            "tip": "Malta's national dish, a rich and hearty stew."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gardjola Gardens, Senglea",
+            "tip": "Ein Wachturm mit Panoramablick auf den Grand Harbour, ein Muss, wenn Sie in den Three Cities sind.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Dingli Cliffs",
+            "tip": "Wenn Sie Zeit haben, eine 20-minütige Fahrt von Valletta entfernt, für Maltas höchste Klippen und dramatische Sonnenuntergänge.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gardjola kertek, Senglea",
+            "tip": "Őrtorony panorámás kilátással a Nagy Kikötőre, kötelező, ha a Három Városban jár.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Dingli sziklák",
+            "tip": "Ha van ideje, 20 perces autóútra Vallettától, Málta legmagasabb szikláiért és drámai naplementéért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Gardjola, Senglea",
+            "tip": "Un turn de veghe cu vederi panoramice ale Marelui Port, o vizită obligatorie dacă vă aflați în cele Trei Orașe.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Stâncile Dingli",
+            "tip": "Dacă aveți timp, la 20 de minute de mers cu mașina de Valletta, pentru cele mai înalte stânci din Malta și apusuri dramatice.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gardjola Gardens, Senglea",
+            "tip": "A watchtower with panoramic views of the Grand Harbour, a must-visit when in the Three Cities.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Dingli Cliffs",
+            "tip": "If you have time, a 20-minute drive from Valletta for Malta's highest cliffs and dramatic sunsets.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marsaxlokk Market (Sonntag)",
+            "tip": "Wenn Sie an einem Sonntag dort sind, fahren Sie zu diesem berühmten Fischerdorfmarkt für frischen Fisch und lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marsaxlokk piac (vasárnap)",
+            "tip": "Ha vasárnap van, vezessen el ehhez a híres halászfalu piacához friss halért és helyi termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Marsaxlokk (duminică)",
+            "tip": "Dacă este duminică, conduceți la această faimoasă piață a satului pescăresc pentru pește proaspăt și produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marsaxlokk Market (Sunday)",
+            "tip": "If it's a Sunday, drive to this famous fishing village market for fresh fish and local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Fahren in Valletta ist nicht zu empfehlen. Parken Sie außerhalb und gehen Sie zu Fuß.",
+          "Die Parkplätze rund um Valletta füllen sich schnell, kommen Sie also früh.",
+          "Achten Sie auf die CVA-Zone (Controlled Vehicular Access) in Valletta, für die Gebühren anfallen.",
+          "Ein Auto gibt Ihnen die Freiheit, andere Teile Maltas wie Mdina oder die Strände leicht zu erkunden."
+        ],
+        "hu": [
+          "Vallettában nem ajánlott vezetni. Parkoljon kívül, és sétáljon.",
+          "A Valletta körüli parkolók gyorsan megtelnek, ezért érkezzen korán.",
+          "Vigyázzon a CVA (Controlled Vehicular Access) zónára Vallettában, amely díjköteles.",
+          "Az autó szabadságot ad, hogy könnyedén felfedezze Málta más részeit, például Mdinát vagy a strandokat."
+        ],
+        "ro": [
+          "Nu se recomandă condusul în Valletta. Parcați în afara orașului și mergeți pe jos.",
+          "Parcările din jurul Vallettei se umplu repede, așa că ajungeți devreme.",
+          "Fiți atenți la zona CVA (Controlled Vehicular Access) din Valletta, care implică taxe.",
+          "O mașină vă oferă libertatea de a explora cu ușurință alte părți ale Maltei, cum ar fi Mdina sau plajele."
+        ],
+        "en": [
+          "Driving inside Valletta is not recommended. Park outside and walk.",
+          "Car parks around Valletta fill up quickly, so arrive early.",
+          "Be aware of the CVA (Controlled Vehicular Access) zone in Valletta, which incurs charges.",
+          "A car gives you the freedom to easily explore other parts of Malta like Mdina or the beaches."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof Valletta",
+            "hu": "Érkezés a vallettai buszpályaudvarra",
+            "ro": "Sosire la autogara din Valletta",
+            "en": "Arrival at Valletta Bus Terminus"
+          },
+          "coords": [
+            14.507,
+            35.895
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tallinja Card für eine kostengünstige und einfache Nutzung der Busse.",
+            "hu": "Vásároljon Tallinja kártyát a buszok költséghatékony és egyszerű használatához.",
+            "ro": "Cumpărați un card Tallinja pentru o utilizare ieftină și ușoară a autobuzelor.",
+            "en": "Purchase a Tallinja Card for cost-effective and easy use of the buses."
+          }
+        },
+        {
+          "name": {
+            "de": "St. John's Co-Cathedral",
+            "hu": "Szent János-társkatedrális",
+            "ro": "Co-Catedrala Sf. Ioan",
+            "en": "St. John's Co-Cathedral"
+          },
+          "coords": [
+            14.5125,
+            35.8975
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Eingang befindet sich in der Republic Street. Achten Sie auf bescheidene Kleidung.",
+            "hu": "A bejárat a Republic Streeten található. Ügyeljen a szerény öltözékre.",
+            "ro": "Intrarea este pe Strada Republicii. Asigurați-vă că aveți o ținută modestă.",
+            "en": "The entrance is on Republic Street. Be mindful of the modest dress code."
+          }
+        },
+        {
+          "name": {
+            "de": "Großmeisterpalast",
+            "hu": "Nagymesteri palota",
+            "ro": "Palatul Marilor Maeștri",
+            "en": "Grandmaster's Palace"
+          },
+          "coords": [
+            14.514,
+            35.899
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Palast beherbergt heute das Büro des Präsidenten von Malta.",
+            "hu": "A palota ma Málta elnökének hivatalának ad otthont.",
+            "ro": "Palatul găzduiește astăzi biroul Președintelui Maltei.",
+            "en": "The palace now houses the office of the President of Malta."
+          }
+        },
+        {
+          "name": {
+            "de": "Fähre nach Sliema",
+            "hu": "Komp Sliemába",
+            "ro": "Feribot spre Sliema",
+            "en": "Ferry to Sliema"
+          },
+          "coords": [
+            14.509,
+            35.903
+          ],
+          "category": "transport",
+          "arrive_at": "12:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die Fährfahrt selbst bietet fantastische Fotomotive von der Skyline Vallettas.",
+            "hu": "Maga a kompút fantasztikus fotólehetőségeket kínál Valletta látképéről.",
+            "ro": "Călătoria cu feribotul în sine oferă oportunități foto fantastice ale orizontului Vallettei.",
+            "en": "The ferry ride itself offers fantastic photo opportunities of Valletta's skyline."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Einkaufen in Sliema",
+            "hu": "Ebéd és vásárlás Sliemában",
+            "ro": "Prânz și cumpărături în Sliema",
+            "en": "Lunch and Shopping in Sliema"
+          },
+          "coords": [
+            14.505,
+            35.912
+          ],
+          "category": "cluster",
+          "arrive_at": "13:17",
+          "stay_min": 120,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die Promenade und besuchen Sie 'The Point', Maltas größtes Einkaufszentrum.",
+            "hu": "Fedezze fel a sétányt, és látogasson el a 'The Point'-ba, Málta legnagyobb bevásárlóközpontjába.",
+            "ro": "Explorați promenada și vizitați „The Point”, cel mai mare centru comercial din Malta.",
+            "en": "Explore the promenade and visit 'The Point', Malta's largest shopping mall."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr nach Valletta: Upper Barrakka Gardens",
+            "hu": "Vissza Vallettába: Felső-Barrakka kertek",
+            "ro": "Întoarcere în Valletta: Grădinile Upper Barrakka",
+            "en": "Return to Valletta: Upper Barrakka Gardens"
+          },
+          "coords": [
+            14.512,
+            35.8945
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:45",
+          "stay_min": 110,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie die Fähre zurück und fahren Sie mit dem Barrakka Lift nach oben, um den Tag ausklingen zu lassen.",
+            "hu": "Menjen vissza komppal, majd a Barrakka lifttel fel a nap befejezéséhez.",
+            "ro": "Luați feribotul înapoi și apoi Liftul Barrakka pentru a încheia ziua.",
+            "en": "Take the ferry back and then the Barrakka Lift up to end your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am zentralen Busbahnhof, von wo aus Sie das Herz von Valletta zu Fuß erkunden. Sie besichtigen die Kathedrale und den Palast, bevor Sie einen Ortswechsel vornehmen. Eine kurze Fährfahrt bringt Sie mittags ins moderne Sliema für ein Mittagessen am Wasser und einen Einkaufsbummel. Am Nachmittag kehren Sie mit der Fähre und dem Aufzug zurück nach Valletta, um den Tag mit dem berühmten Panoramablick von den Upper Barrakka Gardens zu beenden.",
+        "hu": "A nap a központi buszpályaudvaron kezdődik, ahonnan gyalog fedezi fel Valletta szívét. Meglátogatja a katedrálist és a palotát, mielőtt helyszínt vált. Egy rövid kompút viszi délben a modern Sliemába egy vízparti ebédre és vásárlásra. Délután komppal és lifttel tér vissza Vallettába, hogy a napot a Felső-Barrakka kertek híres panorámájával zárja.",
+        "ro": "Ziua dvs. începe la autogara centrală, de unde explorați inima Vallettei pe jos. Vizitați co-catedrala și palatul înainte de o schimbare de peisaj. O scurtă călătorie cu feribotul vă duce la prânz în modernul Sliema pentru un prânz pe malul apei și cumpărături. După-amiaza, vă întoarceți cu feribotul și liftul în Valletta pentru a încheia ziua cu faimoasa panoramă de la Grădinile Upper Barrakka.",
+        "en": "Your day starts at the central bus terminus, from where you'll explore the heart of Valletta on foot. You'll visit the co-cathedral and the palace before a change of scenery. A short ferry ride takes you to modern Sliema for a waterfront lunch and some shopping at midday. In the afternoon, you return via ferry and lift back up into Valletta to end the day with the famous panoramic view from the Upper Barrakka Gardens."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Imqaret",
+            "tip": "Ein traditionelles Dessert, frittiertes Gebäck gefüllt mit Datteln. Oft an Straßenständen verkauft."
+          },
+          {
+            "name": "Lokale Weine",
+            "tip": "Probieren Sie einen Gellewza oder Ghirghentina, die einheimischen Rebsorten Maltas."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Imqaret",
+            "tip": "Hagyományos desszert, datolyával töltött, sült tészta. Gyakran utcai árusoknál kapható."
+          },
+          {
+            "name": "Helyi borok",
+            "tip": "Kóstoljon meg egy Gellewza vagy Ghirghentina bort, Málta őshonos szőlőfajtáit."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Imqaret",
+            "tip": "Un desert tradițional, patiserie prăjită umplută cu curmale. Adesea vândut la tarabe stradale."
+          },
+          {
+            "name": "Vinuri locale",
+            "tip": "Încercați un Gellewza sau Ghirghentina, soiurile de struguri autohtone din Malta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Imqaret",
+            "tip": "A traditional dessert, deep-fried pastry filled with dates. Often sold at street stalls."
+          },
+          {
+            "name": "Local Wines",
+            "tip": "Try a Gellewza or Ghirghentina, the indigenous grape varietals of Malta."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tigné Point, Sliema",
+            "tip": "Ein großartiger Ort, um die Skyline von Valletta aus der Ferne zu fotografieren, besonders bei Sonnenuntergang.",
+            "emoji": "🏙️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tigné Point, Sliema",
+            "tip": "Nagyszerű hely Valletta látképének távolról történő fotózásához, különösen naplementekor.",
+            "emoji": "🏙️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tigné Point, Sliema",
+            "tip": "Un loc excelent pentru a fotografia orizontul Vallettei de la distanță, mai ales la apus.",
+            "emoji": "🏙️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tigné Point, Sliema",
+            "tip": "A great spot to photograph the Valletta skyline from a distance, especially at sunset.",
+            "emoji": "🏙️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "The Point Shopping Mall",
+            "tip": "Maltas größtes Einkaufszentrum in Sliema für alle Ihre Einkaufsbedürfnisse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Point bevásárlóközpont",
+            "tip": "Málta legnagyobb bevásárlóközpontja Sliemában minden vásárlási igény kielégítésére."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial The Point",
+            "tip": "Cel mai mare mall din Malta, situat în Sliema, pentru toate nevoile dvs. de cumpărături."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Point Shopping Mall",
+            "tip": "Malta's largest shopping mall located in Sliema for all your retail needs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Busnetz ist umfassend und verbindet Valletta mit fast allen Teilen der Insel.",
+          "Busse können in der Hochsaison überfüllt sein, also planen Sie zusätzliche Zeit ein.",
+          "Die Valletta-Sliema-Fähre ist eine schnelle und malerische Alternative zum Bus.",
+          "Behalten Sie den Busfahrplan im Auge, besonders abends, da die Frequenzen abnehmen."
+        ],
+        "hu": [
+          "A buszhálózat kiterjedt, és összeköti Vallettát a sziget szinte minden részével.",
+          "A buszok a főszezonban zsúfoltak lehetnek, ezért tervezzen plusz időt.",
+          "A Valletta-Sliema komp gyors és festői alternatívája a busznak.",
+          "Tartsa szemmel a buszmenetrendet, különösen este, mivel a járatok ritkulnak."
+        ],
+        "ro": [
+          "Rețeaua de autobuze este extinsă, conectând Valletta cu aproape toate părțile insulei.",
+          "Autobuzele pot fi aglomerate în sezonul de vârf, așa că alocați timp suplimentar.",
+          "Feribotul Valletta-Sliema este o alternativă rapidă și pitorească la autobuz.",
+          "Urmăriți programul autobuzelor, mai ales seara, deoarece frecvența scade."
+        ],
+        "en": [
+          "The bus network is comprehensive, connecting Valletta to almost all parts of the island.",
+          "Buses can be crowded during peak season, so allow for extra time.",
+          "The Valletta-Sliema ferry is a quick and scenic alternative to the bus.",
+          "Keep an eye on the bus schedule, especially in the evening as frequencies decrease."
+        ]
+      }
+    }
+  }
+}

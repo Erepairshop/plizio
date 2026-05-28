@@ -1,0 +1,1052 @@
+{
+  "city_id": "switzerland-riehen-cities-v2",
+  "anchor": {
+    "name": "Riehen",
+    "coords": [
+      47.584,
+      7.649
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 2.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Dorfkirche Riehen",
+            "hu": "Riehen falusi temploma",
+            "ro": "Biserica din satul Riehen",
+            "en": "Dorfkirche Riehen"
+          },
+          "coords": [
+            47.5841,
+            7.6492
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spätgotische Architektur im historischen Dorfkern.",
+            "hu": "Késő gótikus építészet a történelmi faluközpontban.",
+            "ro": "Arhitectură gotică târzie în centrul istoric al satului.",
+            "en": "Late Gothic architecture in the historic village center."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus zu den Sieben Kurfürsten",
+            "hu": "Ház a hét választófejedelemhez",
+            "ro": "Casa celor Șapte Electori",
+            "en": "Haus zu den Sieben Kurfürsten"
+          },
+          "coords": [
+            47.5835,
+            7.6488
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prächtiges Fachwerkhaus aus dem 16. Jahrhundert.",
+            "hu": "Pompás gerendavázas ház a 16. századból.",
+            "ro": "Casă splendidă cu structură de lemn din secolul al XVI-lea.",
+            "en": "Splendid half-timbered house from the 16th century."
+          }
+        },
+        {
+          "name": {
+            "de": "Spielzeugmuseum Riehen",
+            "hu": "Riehen Játékmúzeum",
+            "ro": "Muzeul Jucăriilor din Riehen",
+            "en": "Toy Museum Riehen"
+          },
+          "coords": [
+            47.5852,
+            7.6495
+          ],
+          "category": "museums",
+          "arrive_at": "10:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Wunderbare Sammlung von historischem Spielzeug in einem alten Landsitz.",
+            "hu": "Csodálatos régi játékgyűjtemény egy egykori udvarházban.",
+            "ro": "O colecție minunată de jucării istorice într-un vechi conac.",
+            "en": "Wonderful collection of historic toys in an old country estate."
+          }
+        },
+        {
+          "name": {
+            "de": "Sarasinpark",
+            "hu": "Sarasinpark",
+            "ro": "Parcul Sarasin",
+            "en": "Sarasinpark"
+          },
+          "coords": [
+            47.5858,
+            7.6521
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ideal für eine entspannte Mittagspause im Grünen.",
+            "hu": "Ideális egy pihentető ebédszünethez a zöldben.",
+            "ro": "Ideal pentru o pauză de prânz relaxantă în mijlocul naturii.",
+            "en": "Ideal for a relaxing lunch break in the greenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Fondation Beyeler",
+            "hu": "Beyeler Alapítvány",
+            "ro": "Fundația Beyeler",
+            "en": "Fondation Beyeler"
+          },
+          "coords": [
+            47.5882,
+            7.6515
+          ],
+          "category": "museums",
+          "arrive_at": "13:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eines der bedeutendsten Kunstmuseen der Schweiz, entworfen von Renzo Piano.",
+            "hu": "Svájc egyik legfontosabb művészeti múzeuma, Renzo Piano tervezte.",
+            "ro": "Unul dintre cele mai importante muzee de artă din Elveția, proiectat de Renzo Piano.",
+            "en": "One of Switzerland's most important art museums, designed by Renzo Piano."
+          }
+        },
+        {
+          "name": {
+            "de": "Gedenkstätte für Flüchtlinge",
+            "hu": "Menekültek Emlékhelye",
+            "ro": "Monumentul Refugiaților",
+            "en": "Refugee Memorial"
+          },
+          "coords": [
+            47.5822,
+            7.6455
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein bewegender Ort der Erinnerung an die Grenze.",
+            "hu": "Megható emlékhely a határ közelében.",
+            "ro": "Un loc emoționant de memorie la graniță.",
+            "en": "A moving place of remembrance near the border."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im malerischen Dorfkern von Riehen mit der historischen Kirche und dem Spielzeugmuseum. Nach einem Spaziergang durch den Sarasinpark erwartet Sie das architektonische Meisterwerk der Fondation Beyeler mit Weltklasse-Kunst. Den Abschluss bildet ein Besuch der Gedenkstätte für Flüchtlinge nahe der Grenze.",
+        "hu": "Kezdje a napot Riehen festői faluközpontjában a történelmi templommal és a Játékmúzeummal. Egy rövid séta után a Sarasinparkon keresztül elérheti a Beyeler Alapítvány építészeti remekművét és világhírű gyűjteményét. A napot a határ menti Menekültek Emlékhelyének megtekintésével zárhatja.",
+        "ro": "Începeți ziua în centrul pitoresc al satului Riehen, vizitând biserica istorică și Muzeul Jucăriilor. După o plimbare prin parcul Sarasin, vă așteaptă capodopera arhitecturală a Fundației Beyeler cu artă de talie mondială. Încheiați ziua cu o vizită la Monumentul Refugiaților situat lângă frontieră.",
+        "en": "Start your day in the picturesque village center of Riehen with the historic church and the Toy Museum. After a walk through Sarasinpark, the architectural masterpiece of Fondation Beyeler awaits with world-class art. Conclude your tour with a visit to the Refugee Memorial near the border."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Berower Gut",
+            "tip": "Hervorragende Küche direkt bei der Fondation Beyeler."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Berower Gut",
+            "tip": "Kiváló konyha közvetlenül a Beyeler Alapítvány mellett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Berower Gut",
+            "tip": "Bucătărie excelentă chiar lângă Fundația Beyeler."
+          }
+        ],
+        "en": [
+          {
+            "name": "Berower Gut",
+            "tip": "Excellent cuisine right next to Fondation Beyeler."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sarasinpark",
+            "tip": "Ruhige Oase mit alten Bäumen.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sarasinpark",
+            "tip": "Csendes oázis öreg fákkal.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Sarasin",
+            "tip": "Oază de liniște cu arbori bătrâni.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sarasinpark",
+            "tip": "Quiet oasis with old trees.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsshop Beyeler",
+            "tip": "Exklusive Kunstbücher und Designobjekte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Beyeler Múzeumi Bolt",
+            "tip": "Exkluzív művészeti könyvek és design tárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Fundației Beyeler",
+            "tip": "Cărți de artă exclusive și obiecte de design."
+          }
+        ],
+        "en": [
+          {
+            "name": "Beyeler Museum Shop",
+            "tip": "Exclusive art books and design objects."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Riehen ist sehr fussgängerfreundlich.",
+          "Kombinieren Sie den Besuch mit einem Abstecher nach Basel (Tram 6)."
+        ],
+        "hu": [
+          "Riehen nagyon gyalogosbarát település.",
+          "Érdemes összekötni a látogatást Bázellel (6-os villamos)."
+        ],
+        "ro": [
+          "Riehen este o localitate foarte prietenoasă cu pietonii.",
+          "Combinați vizita cu o excursie la Basel (tramvaiul 6)."
+        ],
+        "en": [
+          "Riehen is very pedestrian-friendly.",
+          "Combine your visit with a trip to Basel (Tram 6)."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Dorfkirche Riehen",
+            "hu": "Riehen falusi temploma",
+            "ro": "Biserica din satul Riehen",
+            "en": "Dorfkirche Riehen"
+          },
+          "coords": [
+            47.5841,
+            7.6492
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Zentraler Ausgangspunkt für die Biketour.",
+            "hu": "Központi kiindulópont a kerékpártúrához.",
+            "ro": "Punct central de plecare pentru turul cu bicicleta.",
+            "en": "Central starting point for the bike tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturbad Riehen",
+            "hu": "Riehen természetes fürdő",
+            "ro": "Bazinul natural din Riehen",
+            "en": "Naturbad Riehen"
+          },
+          "coords": [
+            47.5955,
+            7.6582
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Von Herzog & de Meuron entworfenes biologisches Freibad.",
+            "hu": "Herzog & de Meuron által tervezett biológiai strand.",
+            "ro": "Ștrand biologic proiectat de Herzog & de Meuron.",
+            "en": "Biological outdoor pool designed by Herzog & de Meuron."
+          }
+        },
+        {
+          "name": {
+            "de": "Fondation Beyeler",
+            "hu": "Beyeler Alapítvány",
+            "ro": "Fundația Beyeler",
+            "en": "Fondation Beyeler"
+          },
+          "coords": [
+            47.5882,
+            7.6515
+          ],
+          "category": "museums",
+          "arrive_at": "11:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekter Stopp für Kunstliebhaber.",
+            "hu": "Tökéletes megálló a művészetkedvelőknek.",
+            "ro": "Oprește ideală pentru iubitorii de artă.",
+            "en": "Perfect stop for art lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "Sarasinpark",
+            "hu": "Sarasinpark",
+            "ro": "Parcul Sarasin",
+            "en": "Sarasinpark"
+          },
+          "coords": [
+            47.5858,
+            7.6521
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Gemütliche Fahrt durch die Parkalleen.",
+            "hu": "Kellemes tekerés a park sugárútjain.",
+            "ro": "O plimbare plăcută prin aleile parcului.",
+            "en": "Cosy ride through the park avenues."
+          }
+        },
+        {
+          "name": {
+            "de": "Wenkenpark",
+            "hu": "Wenkenpark",
+            "ro": "Parcul Wenken",
+            "en": "Wenkenpark"
+          },
+          "coords": [
+            47.5755,
+            7.6592
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Historische Reitbahn und Villa mit schönem Barockgarten.",
+            "hu": "Történelmi lovaglópálya és villa szép barokk kerttel.",
+            "ro": "Manaj istoric și vilă cu o grădină barocă superbă.",
+            "en": "Historic riding arena and villa with a beautiful Baroque garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Gedenkstätte für Flüchtlinge",
+            "hu": "Menekültek Emlékhelye",
+            "ro": "Monumentul Refugiaților",
+            "en": "Refugee Memorial"
+          },
+          "coords": [
+            47.5822,
+            7.6455
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Abschluss der Tour an der Grenze zu Deutschland.",
+            "hu": "A túra zárása a német határnál.",
+            "ro": "Finalul turului la granița cu Germania.",
+            "en": "End of the tour at the German border."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Riehen und seine grünen Oasen mit dem Fahrrad. Vom historischen Zentrum führt der Weg zum architektonisch einzigartigen Naturbad. Danach besuchen Sie die weltberühmte Fondation Beyeler und radeln weiter zum herrschaftlichen Wenkenpark mit seinem Barockgarten. Ein Besuch der Gedenkstätte für Flüchtlinge rundet die Tour ab.",
+        "hu": "Fedezze fel Riehent és zöld oázisait kerékpárral. A történelmi központból az út az építészetileg egyedülálló természetes fürdőhöz vezet. Ezután látogasson el a világhírű Beyeler Alapítványhoz, majd tekerjen tovább az uradalmi Wenkenparkba és barokk kertjébe. A túrát a Menekültek Emlékhelyének megtekintése teszi teljessé.",
+        "ro": "Explorați Riehen și oazele sale verzi cu bicicleta. Din centrul istoric, drumul vă duce la bazinul natural cu o arhitectură unică. Apoi vizitați celebra Fundație Beyeler și continuați cu bicicleta spre parcul Wenken și grădina sa barocă. O vizită la Monumentul Refugiaților completează turul.",
+        "en": "Explore Riehen and its green oases by bike. From the historic center, the path leads to the architecturally unique biological pool. Then visit the world-famous Fondation Beyeler and cycle on to the stately Wenkenpark with its Baroque garden. A visit to the Refugee Memorial completes the tour."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro im Naturbad",
+            "tip": "Frische Snacks in entspannter Badeatmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro a strandon",
+            "tip": "Friss snackek pihentető fürdőhangulatban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro la ștrand",
+            "tip": "Gustări proaspete într-o atmosferă relaxantă de vacanță."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro at Naturbad",
+            "tip": "Fresh snacks in a relaxed bathing atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wenkenpark",
+            "tip": "Weitläufige Wiesen und barocke Gartenkunst.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wenkenpark",
+            "tip": "Tágas rétek és barokk kertművészet.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Wenken",
+            "tip": "Pajiști vaste și artă peisagistică barocă.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Wenkenpark",
+            "tip": "Extensive meadows and Baroque garden art.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt Riehen",
+            "tip": "Lokale Produkte auf dem Dorfplatz (freitags)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rieheni hetipiac",
+            "tip": "Helyi termékek a falutéren (péntekenként)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală Riehen",
+            "tip": "Produse locale în piața satului (vinerea)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Riehen Weekly Market",
+            "tip": "Local products in the village square (Fridays)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Strecke ist flach und sehr sicher.",
+          "Nutzen Sie die Velostationen bei den Museen."
+        ],
+        "hu": [
+          "Az útvonal sík és nagyon biztonságos.",
+          "Használja a múzeumok melletti kerékpártárolókat."
+        ],
+        "ro": [
+          "Traseul este plat și foarte sigur.",
+          "Folosiți stațiile de biciclete de lângă muzee."
+        ],
+        "en": [
+          "The route is flat and very safe.",
+          "Use the bike stations near the museums."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Dorfkirche Riehen",
+            "hu": "Riehen falusi temploma",
+            "ro": "Biserica din satul Riehen",
+            "en": "Dorfkirche Riehen"
+          },
+          "coords": [
+            47.5841,
+            7.6492
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parkhaus Zentrum in unmittelbarer Nähe.",
+            "hu": "Központi parkolóház a közvetlen közelben.",
+            "ro": "Parcare subterană în imediata apropiere.",
+            "en": "Center parking garage in the immediate vicinity."
+          }
+        },
+        {
+          "name": {
+            "de": "Spielzeugmuseum Riehen",
+            "hu": "Riehen Játékmúzeum",
+            "ro": "Muzeul Jucăriilor din Riehen",
+            "en": "Toy Museum Riehen"
+          },
+          "coords": [
+            47.5852,
+            7.6495
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Spass für Gross und Klein im Dorfzentrum.",
+            "hu": "Szórakozás kicsiknek és nagyoknak a faluközpontban.",
+            "ro": "Distracție pentru mici și mari în centrul satului.",
+            "en": "Fun for all ages in the village center."
+          }
+        },
+        {
+          "name": {
+            "de": "Fondation Beyeler",
+            "hu": "Beyeler Alapítvány",
+            "ro": "Fundația Beyeler",
+            "en": "Fondation Beyeler"
+          },
+          "coords": [
+            47.5882,
+            7.6515
+          ],
+          "category": "museums",
+          "arrive_at": "11:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besucherparkplätze vorhanden.",
+            "hu": "Látogatói parkolóhelyek állnak rendelkezésre.",
+            "ro": "Locuri de parcare disponibile pentru vizitatori.",
+            "en": "Visitor parking spaces available."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturbad Riehen",
+            "hu": "Riehen természetes fürdő",
+            "ro": "Bazinul natural din Riehen",
+            "en": "Naturbad Riehen"
+          },
+          "coords": [
+            47.5955,
+            7.6582
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Badeerlebnis ganz ohne Chemie.",
+            "hu": "Fürdőélmény vegyszerek nélkül.",
+            "ro": "Experiență de scăldat fără chimicale.",
+            "en": "Bathing experience without chemicals."
+          }
+        },
+        {
+          "name": {
+            "de": "Wenkenpark",
+            "hu": "Wenkenpark",
+            "ro": "Parcul Wenken",
+            "en": "Wenkenpark"
+          },
+          "coords": [
+            47.5755,
+            7.6592
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parkplätze beim Parkeingang vorhanden.",
+            "hu": "Parkolóhelyek a park bejáratánál.",
+            "ro": "Parcare disponibilă la intrarea în parc.",
+            "en": "Parking spaces available at the park entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus zu den Sieben Kurfürsten",
+            "hu": "Ház a hét választófejedelemhez",
+            "ro": "Casa celor Șapte Electori",
+            "en": "Haus zu den Sieben Kurfürsten"
+          },
+          "coords": [
+            47.5835,
+            7.6488
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Kurzer Stopp beim historischen Fotomotiv.",
+            "hu": "Rövid megálló a történelmi fotótémánál.",
+            "ro": "O scurtă oprire pentru o fotografie istorică.",
+            "en": "Short stop at the historic photo spot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Riehen bequem mit dem Auto. Beginnen Sie im Dorfkern mit Kirche und Spielzeugmuseum. Nach dem Kunstgenuss in der Fondation Beyeler fahren Sie zum biologischen Naturbad. Den Nachmittag verbringen Sie im eleganten Wenkenpark, bevor Sie zum historischen 'Haus zu den Sieben Kurfürsten' zurückkehren.",
+        "hu": "Fedezze fel Riehent kényelmesen, autóval. Kezdje a faluközpontban a templommal és a Játékmúzeummal. A Beyeler Alapítvány művészeti élményei után látogasson el a biológiai strandra. A délutánt az elegáns Wenkenparkban töltheti, majd térjen vissza a történelmi 'Ház a hét választófejedelemhez' épülethez.",
+        "ro": "Descoperiți Riehen confortabil cu mașina. Începeți în centrul satului cu biserica și Muzeul Jucăriilor. După experiența artistică de la Fundația Beyeler, mergeți la bazinul natural biologic. Petreceți după-amiaza în elegantul parc Wenken, înainte de a reveni la istorica 'Casă a celor Șapte Electori'.",
+        "en": "Discover Riehen comfortably by car. Start in the village center with the church and Toy Museum. After enjoying art at Fondation Beyeler, drive to the biological swimming pool. Spend the afternoon in the elegant Wenkenpark before returning to the historic 'Haus zu den Sieben Kurfürsten'."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Reithalle Wenkenpark",
+            "tip": "Geniessen Sie Speisen im besonderen Ambiente der historischen Reithalle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Reithalle Wenkenpark",
+            "tip": "Élvezze az ételeket a történelmi lovarda különleges környezetében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Reithalle Wenkenpark",
+            "tip": "Savurați preparate într-o ambianță deosebită, în manejul istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Reithalle Wenkenpark",
+            "tip": "Enjoy meals in the special ambiance of the historic riding hall."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Englischer Garten im Wenkenpark",
+            "tip": "Ruhe pur abseits der Hauptwege.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Angolkert a Wenkenparkban",
+            "tip": "Tiszta nyugalom a főutaktól távol.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Engleză din Wenkenpark",
+            "tip": "Liniște deplină departe de aleile principale.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "English Garden in Wenkenpark",
+            "tip": "Pure tranquility away from the main paths.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Läderach Chocolatier",
+            "tip": "Feinste Schweizer Schokolade im Dorf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Läderach Csokoládézó",
+            "tip": "A legfinomabb svájci csokoládé a faluban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Läderach Chocolatier",
+            "tip": "Cea mai fină ciocolată elvețiană din sat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Läderach Chocolatier",
+            "tip": "Finest Swiss chocolate in the village."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Beachten Sie die Parkzonen (Blaue Zone).",
+          "Das Naturbad hat begrenzte Parkmöglichkeiten an heissen Tagen."
+        ],
+        "hu": [
+          "Figyeljen a parkolási zónákra (kék zóna).",
+          "A strandon korlátozott a parkolás forró napokon."
+        ],
+        "ro": [
+          "Respectați zonele de parcare (Zona Albastră).",
+          "Bazinul natural are locuri de parcare limitate în zilele toride."
+        ],
+        "en": [
+          "Pay attention to the parking zones (Blue Zone).",
+          "Naturbad has limited parking on hot days."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 5.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fondation Beyeler",
+            "hu": "Beyeler Alapítvány",
+            "ro": "Fundația Beyeler",
+            "en": "Fondation Beyeler"
+          },
+          "coords": [
+            47.5882,
+            7.6515
+          ],
+          "category": "museums",
+          "arrive_at": "09:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Haltestelle 'Riehen, Fondation Beyeler' (Tram 6).",
+            "hu": "'Riehen, Fondation Beyeler' megálló (6-os villamos).",
+            "ro": "Stația 'Riehen, Fondation Beyeler' (tramvaiul 6).",
+            "en": "Stop 'Riehen, Fondation Beyeler' (Tram 6)."
+          }
+        },
+        {
+          "name": {
+            "de": "Sarasinpark",
+            "hu": "Sarasinpark",
+            "ro": "Parcul Sarasin",
+            "en": "Sarasinpark"
+          },
+          "coords": [
+            47.5858,
+            7.6521
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Museum.",
+            "hu": "Rövid séta a múzeumtól.",
+            "ro": "Scurtă plimbare de la muzeu.",
+            "en": "Short walk from the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Dorfkirche Riehen",
+            "hu": "Riehen falusi temploma",
+            "ro": "Biserica din satul Riehen",
+            "en": "Dorfkirche Riehen"
+          },
+          "coords": [
+            47.5841,
+            7.6492
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Im Herzen des historischen Dorfkerns.",
+            "hu": "A történelmi faluközpont szívében.",
+            "ro": "În inima centrului istoric al satului.",
+            "en": "In the heart of the historic village center."
+          }
+        },
+        {
+          "name": {
+            "de": "Spielzeugmuseum Riehen",
+            "hu": "Riehen Játékmúzeum",
+            "ro": "Muzeul Jucăriilor din Riehen",
+            "en": "Toy Museum Riehen"
+          },
+          "coords": [
+            47.5852,
+            7.6495
+          ],
+          "category": "museums",
+          "arrive_at": "13:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zu Fuss in wenigen Minuten erreichbar.",
+            "hu": "Gyalog pár perc alatt elérhető.",
+            "ro": "Accesibil pe jos în câteva minute.",
+            "en": "Accessible on foot in a few minutes."
+          }
+        },
+        {
+          "name": {
+            "de": "Wenkenpark",
+            "hu": "Wenkenpark",
+            "ro": "Parcul Wenken",
+            "en": "Wenkenpark"
+          },
+          "coords": [
+            47.5755,
+            7.6592
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Buslinie 32 bis Haltestelle 'Wenkenpark'.",
+            "hu": "32-es busz a 'Wenkenpark' megállóig.",
+            "ro": "Linia de autobuz 32 până la stația 'Wenkenpark'.",
+            "en": "Bus line 32 to stop 'Wenkenpark'."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus zu den Sieben Kurfürsten",
+            "hu": "Ház a hét választófejedelemhez",
+            "ro": "Casa celor Șapte Electori",
+            "en": "Haus zu den Sieben Kurfürsten"
+          },
+          "coords": [
+            47.5835,
+            7.6488
+          ],
+          "category": "famous residences",
+          "arrive_at": "17:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Rückfahrt zum Dorfzentrum mit dem Bus.",
+            "hu": "Visszautazás a faluközpontba busszal.",
+            "ro": "Întoarcere în centrul satului cu autobuzul.",
+            "en": "Return to the village center by bus."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das hervorragende ÖV-Netz von Riehen. Beginnen Sie bei der weltberühmten Fondation Beyeler (Tram 6). Nach einem Spaziergang durch den Sarasinpark zum historischen Dorfkern mit Kirche und Spielzeugmuseum bringt Sie der Bus 32 zum prachtvollen Wenkenpark. Den Abschluss bildet das markante 'Haus zu den Sieben Kurfürsten'.",
+        "hu": "Használja Riehen kiváló tömegközlekedési hálózatát. Kezdjen a világhírű Beyeler Alapítványnál (6-os villamos). A Sarasinparkon keresztül sétáljon a történelmi faluközpontba, ahol a templom és a Játékmúzeum várja, majd a 32-es busszal utazzon a pompás Wenkenparkba. A napot a jellegzetes 'Ház a hét választófejedelemhez' épületnél zárja.",
+        "ro": "Folosiți excelenta rețea de transport public din Riehen. Începeți la celebra Fundație Beyeler (tramvaiul 6). După o plimbare prin parcul Sarasin spre centrul istoric cu biserica și Muzeul Jucăriilor, autobuzul 32 vă duce la superbul parc Wenken. Finalul zilei aparține emblematicei 'Case a celor Șapte Electori'.",
+        "en": "Utilize Riehen's excellent public transport network. Start at the world-famous Fondation Beyeler (Tram 6). After a walk through Sarasinpark to the historic village center with its church and Toy Museum, bus 32 takes you to the magnificent Wenkenpark. Conclude your day at the striking 'Haus zu den Sieben Kurfürsten'."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gasthof zum Goldenen Sternen",
+            "tip": "Traditionelle Schweizer Küche im Dorfzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gasthof zum Goldenen Sternen",
+            "tip": "Hagyományos svájci konyha a faluközpontban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gasthof zum Goldenen Sternen",
+            "tip": "Bucătărie tradițională elvețiană în centrul satului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gasthof zum Goldenen Sternen",
+            "tip": "Traditional Swiss cuisine in the village center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sarasinpark Weiher",
+            "tip": "Idyllischer Teich im Park.",
+            "emoji": "🦆"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sarasinpark tavacska",
+            "tip": "Idilli tavacska a parkban.",
+            "emoji": "🦆"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Iazul din Parcul Sarasin",
+            "tip": "Iaz idilic în interiorul parcului.",
+            "emoji": "🦆"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sarasinpark Pond",
+            "tip": "Idyllic pond in the park.",
+            "emoji": "🦆"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Riehener Buchhandlung",
+            "tip": "Gemütliche Buchhandlung mit lokaler Auswahl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rieheni Könyvesbolt",
+            "tip": "Hangulatos könyvesbolt helyi kínálattal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Librăria din Riehen",
+            "tip": "Librărie primitoare cu o selecție locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Riehen Bookstore",
+            "tip": "Cozy bookstore with local selection."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das TNW-Ticket ist auch in Riehen gültig.",
+          "Die Tram 6 fährt alle 7.5 Minuten nach Basel."
+        ],
+        "hu": [
+          "A bázeli TNW jegy Riehenben is érvényes.",
+          "A 6-os villamos 7.5 percenként jár Bázelbe."
+        ],
+        "ro": [
+          "Biletul TNW este valabil și în Riehen.",
+          "Tramvaiul 6 circulă spre Basel la fiecare 7.5 minute."
+        ],
+        "en": [
+          "The TNW ticket is also valid in Riehen.",
+          "Tram 6 runs every 7.5 minutes to Basel."
+        ]
+      }
+    }
+  }
+}

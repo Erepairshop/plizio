@@ -1,0 +1,1484 @@
+{
+  "city_id": "latvia-madona-cities-v2",
+  "anchor": {
+    "name": "Madona",
+    "coords": [
+      26.2208,
+      56.8525
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saieta-Platz",
+            "hu": "Saieta tér",
+            "ro": "Piața Saieta",
+            "en": "Saieta Square"
+          },
+          "coords": [
+            26.2199,
+            56.8531
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag im Herzen der Stadt, beobachten Sie das lokale Leben.",
+            "hu": "Kezdje a napot a város szívében, és figyelje a helyi életet.",
+            "ro": "Începeți ziua în inima orașului, observând viața locală.",
+            "en": "Start your day in the heart of the city, watching local life unfold."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Madona",
+            "hu": "Madonai Városháza",
+            "ro": "Primăria Madona",
+            "en": "Madona Town Hall"
+          },
+          "coords": [
+            26.2215,
+            56.8528
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:40",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses wichtigen städtischen Gebäudes.",
+            "hu": "Csodálja meg ennek a fontos városi épületnek az építészetét.",
+            "ro": "Admirați arhitectura acestei clădiri civice importante.",
+            "en": "Admire the architecture of this important civic building."
+          }
+        },
+        {
+          "name": {
+            "de": "Brunnen Lūsis",
+            "hu": "Lūsis-kút",
+            "ro": "Fântâna Lūsis",
+            "en": "Lūsis Fountain"
+          },
+          "coords": [
+            26.2225,
+            56.854
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:06",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein beliebter Fotopunkt und lokaler Treffpunkt.",
+            "hu": "Népszerű fotóhely és helyi találkozóhely.",
+            "ro": "Un loc popular pentru fotografii și un punct de întâlnire local.",
+            "en": "A popular photo spot and a local meeting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum Madona",
+            "hu": "Madonai Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie Locală Madona",
+            "en": "Madona Museum of Local History"
+          },
+          "coords": [
+            26.2168,
+            56.8552
+          ],
+          "category": "museums",
+          "arrive_at": "10:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die reiche Geschichte und Kultur der Region.",
+            "hu": "Merüljön el a régió gazdag történelmében és kultúrájában.",
+            "ro": "Pătrundeți în istoria și cultura bogată a regiunii.",
+            "en": "Dive into the rich history and culture of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Liebesschlucht",
+            "hu": "Szerelem-szurdok",
+            "ro": "Defileul Iubirii",
+            "en": "Love Ravine"
+          },
+          "coords": [
+            26.228,
+            56.85
+          ],
+          "category": "natural features",
+          "arrive_at": "12:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein malerischer Ort für einen romantischen und ruhigen Spaziergang.",
+            "hu": "Festői hely egy romantikus és csendes sétához.",
+            "ro": "Un loc pitoresc pentru o plimbare romantică și liniștită.",
+            "en": "A picturesque spot for a romantic and quiet walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Smeceres sils",
+            "hu": "Smeceres sils park",
+            "ro": "Parcul Smeceres sils",
+            "en": "Smeceres sils Park"
+          },
+          "coords": [
+            26.17,
+            56.845
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie sich oder genießen Sie Outdoor-Aktivitäten in diesem Kiefernwald.",
+            "hu": "Pihenjen vagy élvezze a szabadtéri tevékenységeket ebben a fenyőerdőben.",
+            "ro": "Relaxați-vă sau bucurați-vă de activități în aer liber în această pădure de pini.",
+            "en": "Relax or enjoy outdoor activities in this pine forest."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Madona beginnt am lebhaften Saieta-Platz und führt Sie zu architektonischen Perlen wie dem Rathaus. Am Vormittag entdecken Sie die lokale Geschichte im Heimatmuseum. Der Nachmittag ist der Natur gewidmet, mit einem Spaziergang durch die romantische Liebesschlucht und Entspannung im Kiefernwald von Smeceres sils. Am Abend genießen Sie die lettische Küche in einem der gemütlichen Restaurants der Stadt.",
+        "hu": "A madonai nap a nyüzsgő Saieta térnél kezdődik, majd olyan építészeti gyöngyszemekhez vezet, mint a Városháza. Délelőtt a helytörténeti múzeumban ismerkedhet meg a helyi történelemmel. A délután a természeté, egy sétával a romantikus Szerelem-szurdokban és pihenéssel a Smeceres sils fenyőerdőjében. Este élvezze a lett konyhát a város egyik hangulatos éttermében.",
+        "ro": "Ziua dvs. în Madona începe în vibranta Piață Saieta, ducându-vă la bijuterii arhitecturale precum Primăria. Dimineața, explorați istoria locală la Muzeul de Istorie. După-amiaza este dedicată naturii, cu o plimbare prin romanticul Defileu al Iubirii și relaxare în pădurea de pini Smeceres sils. Seara, savurați bucătăria letonă la unul dintre restaurantele primitoare ale orașului.",
+        "en": "Your day in Madona starts at the lively Saieta Square, leading you to architectural gems like the Town Hall. In the morning, you'll explore local history at the museum. The afternoon is dedicated to nature, with a walk through the romantic Love Ravine and relaxation in the Smeceres sils pine forest. In the evening, savor Latvian cuisine at one of the city's cozy restaurants."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Graue Erbsen mit Speck",
+            "tip": "Ein herzhaftes lettisches Nationalgericht, perfekt für ein Mittagessen."
+          },
+          {
+            "name": "Rupjmaize",
+            "tip": "Probieren Sie das traditionelle Roggenbrot, eine Grundlage der lettischen Küche."
+          },
+          {
+            "name": "Šmakovka",
+            "tip": "Ein starker lokaler Brand, der oft als Digestif genossen wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szürke borsó szalonnával",
+            "tip": "Kiadós lett nemzeti étel, tökéletes ebédre."
+          },
+          {
+            "name": "Rupjmaize",
+            "tip": "Kóstolja meg a hagyományos rozskenyeret, a lett konyha alapját."
+          },
+          {
+            "name": "Šmakovka",
+            "tip": "Erős helyi párlat, amelyet gyakran emésztéssegítőként fogyasztanak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mazăre gri cu șuncă",
+            "tip": "Un fel de mâncare național leton consistent, perfect pentru prânz."
+          },
+          {
+            "name": "Rupjmaize",
+            "tip": "Încercați pâinea tradițională de secară, o bază a bucătăriei letone."
+          },
+          {
+            "name": "Šmakovka",
+            "tip": "O băutură spirtoasă locală puternică, adesea savurată ca digestiv."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grey peas with bacon",
+            "tip": "A hearty Latvian national dish, perfect for lunch."
+          },
+          {
+            "name": "Rupjmaize",
+            "tip": "Try the traditional rye bread, a staple of Latvian cuisine."
+          },
+          {
+            "name": "Šmakovka",
+            "tip": "A strong local spirit, often enjoyed as a digestive."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Madona-Sees",
+            "tip": "Finden Sie eine ruhige Bank am Seeufer für einen Moment der Besinnung.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Liebesschlucht",
+            "tip": "Das sanfte Rauschen des Baches macht dies zu einem perfekten Ort der Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Smeceres sils",
+            "tip": "Ein Spaziergang unter den hohen Kiefern ist unglaublich beruhigend.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Madona-tó partja",
+            "tip": "Keressen egy csendes padot a tóparton egy pillanatnyi elmélkedéshez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szerelem-szurdok",
+            "tip": "A patak halk csobogása tökéletes hellyé teszi a nyugalomra.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Smeceres sils",
+            "tip": "Séta a magas fenyők alatt hihetetlenül megnyugtató.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Madona",
+            "tip": "Găsiți o bancă liniștită pe malul lacului pentru un moment de reflecție.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Defileul Iubirii",
+            "tip": "Sunetul blând al pârâului face din acesta un loc perfect pentru liniște.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Smeceres sils",
+            "tip": "O plimbare sub pinii înalți este incredibil de calmantă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shore of Lake Madona",
+            "tip": "Find a quiet bench by the lake shore for a moment of reflection.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Love Ravine",
+            "tip": "The gentle sound of the stream makes this a perfect place for tranquility.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Smeceres sils",
+            "tip": "A walk beneath the tall pines is incredibly calming.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach handgefertigten Leinenprodukten und lokalem Honig."
+          },
+          {
+            "name": "Kunsthandwerksläden",
+            "tip": "Finden Sie einzigartige Keramik und Holzarbeiten von lokalen Künstlern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen kézzel készített lenvászon termékeket és helyi mézet."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Találjon egyedi kerámiákat és fafaragásokat helyi művészektől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse artizanale din in și miere locală."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Găsiți ceramică unică și obiecte din lemn de la artiști locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for handmade linen products and local honey."
+          },
+          {
+            "name": "Artisan Shops",
+            "tip": "Find unique ceramics and woodwork from local artists."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den größten Teil des Tages zu Fuß unterwegs sein werden.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit.",
+          "Prüfen Sie die Öffnungszeiten des Museums im Voraus.",
+          "Ein leichter Regenmantel ist immer eine gute Idee in Lettland, auch im Sommer."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a nap nagy részében gyalogolni fog.",
+          "Hozzon magával újratölthető vizes palackot.",
+          "Ellenőrizze előre a múzeum nyitvatartási idejét.",
+          "Egy könnyű esőkabát mindig jó ötlet Lettországban, még nyáron is."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge pe jos cea mai mare parte a zilei.",
+          "Luați cu voi o sticlă de apă reutilizabilă.",
+          "Verificați în prealabil programul de funcționare al muzeului.",
+          "O pelerină de ploaie ușoară este întotdeauna o idee bună în Letonia, chiar și vara."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be walking for most of the day.",
+          "Bring a reusable water bottle.",
+          "Check the museum's opening hours in advance.",
+          "A light raincoat is always a good idea in Latvia, even in summer."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 22.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Saieta-Platz",
+            "hu": "Saieta tér",
+            "ro": "Piața Saieta",
+            "en": "Saieta Square"
+          },
+          "coords": [
+            26.2199,
+            56.8531
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Radtour vom zentralen Platz aus.",
+            "hu": "Indítsa a kerékpártúrát a központi térről.",
+            "ro": "Începeți turul cu bicicleta din piața centrală.",
+            "en": "Start your bike tour from the central square."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum Madona",
+            "hu": "Madonai Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie Locală Madona",
+            "en": "Madona Museum of Local History"
+          },
+          "coords": [
+            26.2168,
+            56.8552
+          ],
+          "category": "museums",
+          "arrive_at": "09:36",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie das Museum betreten.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt belép a múzeumba.",
+            "ro": "Încuiați-vă bicicleta în siguranță înainte de a intra în muzeu.",
+            "en": "Lock your bike securely before entering the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Smeceres sils",
+            "hu": "Smeceres sils park",
+            "ro": "Parcul Smeceres sils",
+            "en": "Smeceres sils Park"
+          },
+          "coords": [
+            26.17,
+            56.845
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie die Radwege, die durch diesen wunderschönen Wald führen.",
+            "hu": "Élvezze a gyönyörű erdőn átvezető kerékpárutakat.",
+            "ro": "Bucurați-vă de traseele de ciclism care traversează această pădure frumoasă.",
+            "en": "Enjoy the cycling trails that run through this beautiful forest."
+          }
+        },
+        {
+          "name": {
+            "de": "Herrenhaus Lazdona",
+            "hu": "Lazdona-i udvarház",
+            "ro": "Conacul Lazdona",
+            "en": "Lazdona Manor"
+          },
+          "coords": [
+            26.3,
+            56.84
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 42,
+          "hop_from_prev_km": 7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine längere, aber lohnende Fahrt, um dieses historische Juwel zu sehen.",
+            "hu": "Hosszabb, de megéri az utat, hogy megnézze ezt a történelmi gyöngyszemet.",
+            "ro": "O plimbare mai lungă, dar care merită, pentru a vedea această bijuterie istorică.",
+            "en": "A longer but rewarding ride to see this historical gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Herrenhaus Birži",
+            "hu": "Birži-i udvarház",
+            "ro": "Conacul Birži",
+            "en": "Birži Manor"
+          },
+          "coords": [
+            26.4167,
+            56.9
+          ],
+          "category": "historical",
+          "arrive_at": "14:51",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Entdecken Sie ein weiteres beeindruckendes Herrenhaus in der Landschaft.",
+            "hu": "Fedezzen fel egy másik lenyűgöző udvarházat a vidéken.",
+            "ro": "Descoperiți un alt conac impresionant în peisajul rural.",
+            "en": "Discover another impressive manor house in the countryside."
+          }
+        },
+        {
+          "name": {
+            "de": "Liebesschlucht",
+            "hu": "Szerelem-szurdok",
+            "ro": "Defileul Iubirii",
+            "en": "Love Ravine"
+          },
+          "coords": [
+            26.228,
+            56.85
+          ],
+          "category": "natural features",
+          "arrive_at": "16:09",
+          "stay_min": 45,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einem entspannten Spaziergang in dieser Schlucht.",
+            "hu": "Fejezze be a kerékpártúrát egy pihentető sétával ebben a szurdokban.",
+            "ro": "Încheiați turul cu bicicleta cu o plimbare relaxantă în acest defileu.",
+            "en": "End your bike tour with a relaxing walk in this ravine."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour durch Madona beginnt im Stadtzentrum, bevor Sie sich auf den Weg zum historischen Museum machen. Der Vormittag führt Sie durch den erfrischenden Smeceres sils Wald. Nach dem Mittagessen radeln Sie durch die malerische Landschaft zu den beeindruckenden Herrenhäusern von Lazdona und Birži. Der Tag endet mit einem friedlichen Ausklang in der Liebesschlucht, bevor Sie in die Stadt zurückkehren.",
+        "hu": "A madonai kerékpártúra a városközpontban kezdődik, mielőtt a történelmi múzeum felé venné az irányt. A délelőtt a frissítő Smeceres sils erdőn keresztül vezet. Ebéd után a festői tájon át tekerhet a lenyűgöző lazdona-i és birži-i udvarházakhoz. A nap békés lezárásaként a Szerelem-szurdokban pihenhet, mielőtt visszatérne a városba.",
+        "ro": "Turul dvs. cu bicicleta prin Madona începe în centrul orașului înainte de a vă îndrepta spre muzeul de istorie. Dimineața vă poartă prin pădurea răcoritoare Smeceres sils. După prânz, pedalați prin peisajul pitoresc până la impresionantele conace din Lazdona și Birži. Ziua se încheie cu o relaxare pașnică în Defileul Iubirii înainte de a vă întoarce în oraș.",
+        "en": "Your bike tour of Madona begins in the city center before heading to the history museum. The morning takes you through the refreshing Smeceres sils forest. After lunch, you'll cycle through the picturesque countryside to the impressive manors of Lazdona and Birži. The day concludes with a peaceful wind-down at the Love Ravine before returning to town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sklandrausis",
+            "tip": "Ein süßer oder herzhafter Karotten- und Kartoffelkuchen, perfekt als Energieschub."
+          },
+          {
+            "name": "Kvass",
+            "tip": "Ein traditionelles fermentiertes Getränk aus Roggenbrot, sehr erfrischend."
+          },
+          {
+            "name": "Geräucherter Fisch",
+            "tip": "Genießen Sie lokal geräucherten Fisch von den nahegelegenen Seen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sklandrausis",
+            "tip": "Édes vagy sós sárgarépa- és burgonyapite, tökéletes energiafeltöltéshez."
+          },
+          {
+            "name": "Kvasz",
+            "tip": "Hagyományos, rozskenyérből erjesztett ital, nagyon frissítő."
+          },
+          {
+            "name": "Füstölt hal",
+            "tip": "Élvezze a közeli tavakból származó, helyben füstölt halat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sklandrausis",
+            "tip": "O plăcintă dulce sau sărată de morcovi și cartofi, perfectă pentru un plus de energie."
+          },
+          {
+            "name": "Cvas",
+            "tip": "O băutură tradițională fermentată din pâine de secară, foarte răcoritoare."
+          },
+          {
+            "name": "Pește afumat",
+            "tip": "Savurați pește afumat local din lacurile din apropiere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sklandrausis",
+            "tip": "A sweet or savory carrot and potato pie, perfect for an energy boost."
+          },
+          {
+            "name": "Kvass",
+            "tip": "A traditional fermented beverage made from rye bread, very refreshing."
+          },
+          {
+            "name": "Smoked fish",
+            "tip": "Enjoy locally smoked fish from the nearby lakes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pfade im Smeceres sils",
+            "tip": "Halten Sie an und lauschen Sie dem Wind in den Kiefern.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Gärten des Herrenhauses Lazdona",
+            "tip": "Ein ruhiger Ort, um die historische Atmosphäre auf sich wirken zu lassen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ein abgelegener Ort in der Liebesschlucht",
+            "tip": "Finden Sie Ihren eigenen friedlichen Ort am Bach.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ösvények a Smeceres sils-ben",
+            "tip": "Álljon meg, és hallgassa a szél susogását a fenyők között.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Lazdona-i udvarház kertje",
+            "tip": "Csendes hely, ahol magába szívhatja a történelmi légkört.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Egy eldugott hely a Szerelem-szurdokban",
+            "tip": "Találja meg saját békés helyét a patak mentén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cărările din Smeceres sils",
+            "tip": "Opriți-vă și ascultați vântul printre pini.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Grădinile Conacului Lazdona",
+            "tip": "Un loc liniștit pentru a absorbi atmosfera istorică.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Un loc retras în Defileul Iubirii",
+            "tip": "Găsiți-vă propriul loc pașnic lângă pârâu.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Trails in Smeceres sils",
+            "tip": "Stop and listen to the wind in the pine trees.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Lazdona Manor gardens",
+            "tip": "A quiet spot to absorb the historical atmosphere.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A secluded spot in Love Ravine",
+            "tip": "Find your own peaceful spot by the stream.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Halten Sie auf Ihrer Radtour Ausschau nach Schildern für frische landwirtschaftliche Produkte."
+          },
+          {
+            "name": "Souvenirladen des Museums",
+            "tip": "Kaufen Sie Bücher über die lokale Geschichte und Nachbildungen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok",
+            "tip": "Kerékpártúrája során figyelje a friss termékeket hirdető táblákat."
+          },
+          {
+            "name": "Múzeumi ajándékbolt",
+            "tip": "Vásároljon könyveket a helyi történelemről és replikákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine la fermă",
+            "tip": "Fiți atenți la indicatoarele pentru produse proaspete de la fermă în timpul plimbării cu bicicleta."
+          },
+          {
+            "name": "Magazinul de suveniruri al muzeului",
+            "tip": "Cumpărați cărți despre istoria locală și replici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm stands",
+            "tip": "Keep an eye out for signs for fresh farm produce during your ride."
+          },
+          {
+            "name": "Museum gift shop",
+            "tip": "Purchase books on local history and replicas."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Ein Helm wird dringend empfohlen.",
+          "Nehmen Sie ausreichend Wasser und einige Snacks für die längeren Strecken mit.",
+          "Laden Sie eine Offline-Karte auf Ihr Handy, da die Netzabdeckung auf dem Land lückenhaft sein kann."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját, különösen a fékeket és a gumikat.",
+          "Sisak viselése erősen ajánlott.",
+          "Vigyen magával elegendő vizet és némi harapnivalót a hosszabb szakaszokra.",
+          "Töltsön le offline térképet a telefonjára, mivel a vidéki lefedettség hiányos lehet."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele și anvelopele.",
+          "O cască este foarte recomandată.",
+          "Luați suficientă apă și câteva gustări pentru porțiunile mai lungi.",
+          "Descărcați o hartă offline pe telefon, deoarece acoperirea poate fi slabă în zonele rurale."
+        ],
+        "en": [
+          "Check your bike before you leave, especially brakes and tires.",
+          "A helmet is highly recommended.",
+          "Bring enough water and some snacks for the longer stretches.",
+          "Download an offline map to your phone, as coverage can be patchy in the countryside."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 54.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Herrenhaus Birži",
+            "hu": "Birži-i udvarház",
+            "ro": "Conacul Birži",
+            "en": "Birži Manor"
+          },
+          "coords": [
+            26.4167,
+            56.9
+          ],
+          "category": "historical",
+          "arrive_at": "09:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 15,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit dem am weitesten entfernten Punkt, einem beeindruckenden historischen Herrenhaus.",
+            "hu": "Kezdje a napot a legtávolabbi ponttal, egy lenyűgöző történelmi udvarházzal.",
+            "ro": "Începeți ziua cu cel mai îndepărtat punct, un conac istoric impresionant.",
+            "en": "Start your day with the furthest point, an impressive historic manor."
+          }
+        },
+        {
+          "name": {
+            "de": "Herrenhaus Lazdona",
+            "hu": "Lazdona-i udvarház",
+            "ro": "Conacul Lazdona",
+            "en": "Lazdona Manor"
+          },
+          "coords": [
+            26.3,
+            56.84
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 12,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie weiter zu einem weiteren architektonischen Juwel der Region.",
+            "hu": "Vezessen tovább a régió egy másik építészeti gyöngyszeméhez.",
+            "ro": "Conduceți spre o altă bijuterie arhitecturală a regiunii.",
+            "en": "Drive on to another architectural jewel of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Smeceres sils",
+            "hu": "Smeceres sils park",
+            "ro": "Parcul Smeceres sils",
+            "en": "Smeceres sils Park"
+          },
+          "coords": [
+            26.17,
+            56.845
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 25,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Perfekt für einen Mittagsspaziergang und ein Picknick nach der morgendlichen Fahrt.",
+            "hu": "Tökéletes egy déli sétához és piknikhez a reggeli autózás után.",
+            "ro": "Perfect pentru o plimbare la prânz și un picnic după condusul de dimineață.",
+            "en": "Perfect for a midday walk and a picnic after the morning's drive."
+          }
+        },
+        {
+          "name": {
+            "de": "Madona Zentrum (Parken)",
+            "hu": "Madona központ (Parkolás)",
+            "ro": "Centrul Madona (Parcare)",
+            "en": "Madona Center (Parking)"
+          },
+          "coords": [
+            26.218,
+            56.854
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:35",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier Ihr Auto für den Rest des Nachmittags und erkunden Sie die Stadt zu Fuß.",
+            "hu": "Parkolja le itt az autóját a délután hátralévő részére, és fedezze fel a várost gyalog.",
+            "ro": "Parcați mașina aici pentru restul după-amiezii și explorați orașul pe jos.",
+            "en": "Park your car here for the rest of the afternoon and explore the town on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum Madona",
+            "hu": "Madonai Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie Locală Madona",
+            "en": "Madona Museum of Local History"
+          },
+          "coords": [
+            26.2168,
+            56.8552
+          ],
+          "category": "museums",
+          "arrive_at": "14:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ihr erster Halt im Stadtzentrum, nur einen kurzen Spaziergang vom Parkplatz entfernt.",
+            "hu": "Az első megálló a városközpontban, rövid sétára a parkolótól.",
+            "ro": "Prima dvs. oprire în centrul orașului, la o scurtă plimbare de parcare.",
+            "en": "Your first stop in the town center, a short walk from the car park."
+          }
+        },
+        {
+          "name": {
+            "de": "Saieta-Platz",
+            "hu": "Saieta tér",
+            "ro": "Piața Saieta",
+            "en": "Saieta Square"
+          },
+          "coords": [
+            26.2199,
+            56.8531
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:35",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie zum Hauptplatz, um die Atmosphäre der Stadt aufzusaugen.",
+            "hu": "Sétáljon el a főtérre, hogy magába szívja a város hangulatát.",
+            "ro": "Plimbați-vă până în piața principală pentru a absorbi atmosfera orașului.",
+            "en": "Stroll over to the main square to soak up the town's atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Brunnen Lūsis",
+            "hu": "Lūsis-kút",
+            "ro": "Fântâna Lūsis",
+            "en": "Lūsis Fountain"
+          },
+          "coords": [
+            26.2225,
+            56.854
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "17:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Abschluss für Ihren Spaziergang durch die Stadt.",
+            "hu": "Szép lezárása a városi sétának.",
+            "ro": "Un final frumos pentru plimbarea dvs. prin oraș.",
+            "en": "A nice end to your walk through the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Liebesschlucht",
+            "hu": "Szerelem-szurdok",
+            "ro": "Defileul Iubirii",
+            "en": "Love Ravine"
+          },
+          "coords": [
+            26.228,
+            56.85
+          ],
+          "category": "natural features",
+          "arrive_at": "17:25",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer, erfrischender Spaziergang zum Abschluss des Tages.",
+            "hu": "Egy rövid, frissítő séta a nap lezárásaként.",
+            "ro": "O scurtă plimbare revigorantă pentru a încheia ziua.",
+            "en": "A short, refreshing walk to cap off the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt mit einer Fahrt zu den historischen Herrenhäusern von Birži und Lazdona auf dem Land. Mittags entspannen Sie sich im weitläufigen Smeceres sils Wald. Am Nachmittag parken Sie im Zentrum von Madona und erkunden zu Fuß den Stadtkern: Besuchen Sie das Museum, schlendern Sie über den Saieta-Platz und beenden Sie den Tag mit einem ruhigen Spaziergang in der Liebesschlucht.",
+        "hu": "Az autós nap egy utazással kezdődik a vidéki Birži és Lazdona történelmi udvarházaihoz. Délben a tágas Smeceres sils erdőben pihenhet. Délután Madona központjában parkol le, és gyalog fedezi fel a város magját: látogasson el a múzeumba, sétáljon a Saieta téren, és fejezze be a napot egy csendes sétával a Szerelem-szurdokban.",
+        "ro": "Ziua dvs. cu mașina începe cu o călătorie la conacele istorice Birži și Lazdona din mediul rural. La prânz, vă relaxați în întinsa pădure Smeceres sils. După-amiaza, parcați în centrul Madonei și explorați nucleul orașului pe jos: vizitați muzeul, plimbați-vă prin Piața Saieta și încheiați ziua cu o plimbare liniștită în Defileul Iubirii.",
+        "en": "Your car day begins with a drive to the historic manors of Birži and Lazdona in the countryside. At midday, you'll relax in the expansive Smeceres sils forest. In the afternoon, you park in the center of Madona and explore the town core on foot: visit the museum, stroll through Saieta Square, and end the day with a quiet walk in the Love Ravine."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gasthäuser auf dem Land",
+            "tip": "Suchen Sie nach traditionellen Gasthäusern in der Nähe der Herrenhäuser für ein authentisches Mittagessen."
+          },
+          {
+            "name": "Birkensaft",
+            "tip": "Ein einzigartiges lettisches Getränk, das im Frühling gesammelt wird."
+          },
+          {
+            "name": "Kaltes Rote-Bete-Süppchen (Aukstā zupa)",
+            "tip": "An einem warmen Tag unglaublich erfrischend."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vidéki fogadók",
+            "tip": "Keressen hagyományos fogadókat az udvarházak közelében egy autentikus ebédért."
+          },
+          {
+            "name": "Nyírfalé",
+            "tip": "Egyedülálló lett ital, amelyet tavasszal gyűjtenek."
+          },
+          {
+            "name": "Hideg céklaleves (Aukstā zupa)",
+            "tip": "Hihetetlenül frissítő egy meleg napon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hanse rurale",
+            "tip": "Căutați hanuri tradiționale lângă conace pentru un prânz autentic."
+          },
+          {
+            "name": "Sevă de mesteacăn",
+            "tip": "O băutură letonă unică, recoltată primăvara."
+          },
+          {
+            "name": "Supă rece de sfeclă (Aukstā zupa)",
+            "tip": "Incredibil de răcoritoare într-o zi caldă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Countryside inns",
+            "tip": "Look for traditional inns near the manors for an authentic lunch."
+          },
+          {
+            "name": "Birch sap",
+            "tip": "A unique Latvian beverage harvested in the spring."
+          },
+          {
+            "name": "Cold beetroot soup (Aukstā zupa)",
+            "tip": "Incredibly refreshing on a warm day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gelände des Herrenhauses Birži",
+            "tip": "Spazieren Sie durch die alten Alleen und genießen Sie die Stille.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Ein Picknickplatz im Smeceres sils",
+            "tip": "Finden Sie einen ruhigen Ort für ein Mittagessen in der Natur.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Später Nachmittag in der Liebesschlucht",
+            "tip": "Die Schlucht ist am Ende des Tages besonders friedlich.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Birži-i udvarház területe",
+            "tip": "Sétáljon végig az öreg fasorokon, és élvezze a csendet.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Piknikezőhely a Smeceres sils-ben",
+            "tip": "Keressen egy csendes helyet egy ebédhez a természetben.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Késő délután a Szerelem-szurdokban",
+            "tip": "A szurdok különösen békés a nap végén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Domeniul Conacului Birži",
+            "tip": "Plimbați-vă pe aleile vechi și bucurați-vă de liniște.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Un loc de picnic în Smeceres sils",
+            "tip": "Găsiți un loc liniștit pentru a lua prânzul în natură.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "După-amiază târzie în Defileul Iubirii",
+            "tip": "Defileul este deosebit de pașnic la sfârșitul zilei.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Birži Manor grounds",
+            "tip": "Walk the old avenues and enjoy the silence.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "A picnic spot in Smeceres sils",
+            "tip": "Find a quiet spot for lunch surrounded by nature.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Late afternoon in the Love Ravine",
+            "tip": "The ravine is especially peaceful at the end of the day.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kunsthandwerk in Madona",
+            "tip": "Die Geschäfte im Stadtzentrum bieten eine gute Auswahl an lokalen Handwerksprodukten."
+          },
+          {
+            "name": "Produkte vom Bauernhof",
+            "tip": "Achten Sie auf Schilder, die Honig, Käse oder geräuchertes Fleisch direkt vom Erzeuger verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves termékek Madonában",
+            "tip": "A városközpont üzletei jó választékot kínálnak helyi kézműves termékekből."
+          },
+          {
+            "name": "Tanyasi termékek",
+            "tip": "Figyelje a táblákat, amelyek mézet, sajtot vagy füstölt húst árulnak közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat în Madona",
+            "tip": "Magazinele din centrul orașului oferă o selecție bună de produse artizanale locale."
+          },
+          {
+            "name": "Produse de la fermă",
+            "tip": "Fiți atenți la indicatoarele care vând miere, brânză sau carne afumată direct de la producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crafts in Madona",
+            "tip": "The shops in the town center offer a good selection of local handicrafts."
+          },
+          {
+            "name": "Farm products",
+            "tip": "Look for signs selling honey, cheese, or cured meats direct from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Stellen Sie sicher, dass Sie genügend Kraftstoff für die Fahrten auf dem Land haben.",
+          "Die Straßen zu den Herrenhäusern können eng sein, fahren Sie also vorsichtig.",
+          "Verwenden Sie eine GPS-Navigation, aber haben Sie auch eine Karte als Backup.",
+          "Planen Sie zusätzliche Zeit für unvorhergesehene Stopps für Fotos ein."
+        ],
+        "hu": [
+          "Győződjön meg róla, hogy elegendő üzemanyaga van a vidéki utakra.",
+          "Az udvarházakhoz vezető utak szűkek lehetnek, vezessen óvatosan.",
+          "Használjon GPS-navigációt, de legyen Önnél térkép is tartalékként.",
+          "Tervezzen plusz időt a váratlan fotómegállókra."
+        ],
+        "ro": [
+          "Asigurați-vă că aveți suficient combustibil pentru drumurile de la țară.",
+          "Drumurile către conace pot fi înguste, așa că șofați cu prudență.",
+          "Folosiți navigația GPS, dar aveți și o hartă de rezervă.",
+          "Planificați timp suplimentar pentru opriri neprevăzute pentru fotografii."
+        ],
+        "en": [
+          "Make sure you have enough fuel for the countryside drives.",
+          "The roads to the manors can be narrow, so drive with care.",
+          "Use GPS navigation, but have a map as a backup as well.",
+          "Plan for extra time for unplanned photo stops."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saieta-Platz",
+            "hu": "Saieta tér",
+            "ro": "Piața Saieta",
+            "en": "Saieta Square"
+          },
+          "coords": [
+            26.2199,
+            56.8531
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie am zentralen Busknotenpunkt der Stadt.",
+            "hu": "Kezdje a város központi buszcsomópontjánál.",
+            "ro": "Începeți de la nodul central de autobuze al orașului.",
+            "en": "Start at the city's central bus hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum Madona",
+            "hu": "Madonai Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie Locală Madona",
+            "en": "Madona Museum of Local History"
+          },
+          "coords": [
+            26.2168,
+            56.8552
+          ],
+          "category": "museums",
+          "arrive_at": "09:33",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz zum Museum.",
+            "hu": "Rövid séta a tértől a múzeumig.",
+            "ro": "O scurtă plimbare de la piață la muzeu.",
+            "en": "A short walk from the square to the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus nach Lazdona",
+            "hu": "Busz Lazdonába",
+            "ro": "Autobuz spre Lazdona",
+            "en": "Bus to Lazdona"
+          },
+          "coords": [
+            26.225,
+            56.852
+          ],
+          "category": "transit",
+          "arrive_at": "11:23",
+          "stay_min": 5,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie den lokalen Bus in Richtung Lazdona.",
+            "hu": "Szálljon fel a helyi buszra Lazdona felé.",
+            "ro": "Luați autobuzul local spre Lazdona.",
+            "en": "Take the local bus towards Lazdona."
+          }
+        },
+        {
+          "name": {
+            "de": "Herrenhaus Lazdona",
+            "hu": "Lazdona-i udvarház",
+            "ro": "Conacul Lazdona",
+            "en": "Lazdona Manor"
+          },
+          "coords": [
+            26.3,
+            56.84
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:58",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie in der Nähe des Herrenhauses aus und genießen Sie die historische Stätte.",
+            "hu": "Szálljon le az udvarház közelében, és élvezze a történelmi helyszínt.",
+            "ro": "Coborâți lângă conac și bucurați-vă de situl istoric.",
+            "en": "Get off near the manor and enjoy the historic site."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zurück ins Zentrum",
+            "hu": "Busz vissza a központba",
+            "ro": "Autobuz înapoi în centru",
+            "en": "Bus back to center"
+          },
+          "coords": [
+            26.29,
+            56.841
+          ],
+          "category": "transit",
+          "arrive_at": "13:33",
+          "stay_min": 5,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Bus zurück nach Madona, um den Nachmittag zu verbringen.",
+            "hu": "Utazzon busszal vissza Madonába a délutáni programhoz.",
+            "ro": "Luați autobuzul înapoi în Madona pentru după-amiază.",
+            "en": "Take the bus back to Madona for the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Smeceres sils",
+            "hu": "Smeceres sils park",
+            "ro": "Parcul Smeceres sils",
+            "en": "Smeceres sils Park"
+          },
+          "coords": [
+            26.17,
+            56.845
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:08",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Einige Buslinien halten in der Nähe des Parks, ideal für einen erholsamen Nachmittag.",
+            "hu": "Néhány buszjárat megáll a park közelében, ideális egy pihentető délutánhoz.",
+            "ro": "Unele rute de autobuz opresc lângă parc, ideal pentru o după-amiază relaxantă.",
+            "en": "Some bus routes stop near the park, ideal for a relaxing afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt im Zentrum von Madona mit einem Besuch des Museums. Anschließend nehmen Sie einen lokalen Bus zum prächtigen Herrenhaus Lazdona. Nach der Erkundung des Anwesens fahren Sie mit dem Bus zurück in Richtung Stadt und steigen in der Nähe des Smeceres sils Waldes aus, wo Sie einen langen, erholsamen Nachmittag verbringen. Am Abend kehren Sie ins Stadtzentrum zurück, um zu Abend zu essen.",
+        "hu": "A tömegközlekedéssel töltött nap Madona központjában kezdődik a múzeum meglátogatásával. Ezután helyi busszal utazik a csodálatos Lazdona-i udvarházhoz. A birtok felfedezése után busszal tér vissza a város felé, és a Smeceres sils erdő közelében száll le, ahol egy hosszú, pihentető délutánt tölthet. Este visszatér a városközpontba vacsorázni.",
+        "ro": "Ziua dvs. cu transportul public începe în centrul Madonei cu o vizită la muzeu. Apoi, luați un autobuz local spre splendidul Conac Lazdona. După explorarea domeniului, luați autobuzul înapoi spre oraș, coborând lângă pădurea Smeceres sils pentru o după-amiază lungă și relaxantă. Seara, vă întoarceți în centrul orașului pentru cină.",
+        "en": "Your day using public transport starts in the center of Madona with a visit to the museum. You'll then take a local bus to the splendid Lazdona Manor. After exploring the estate, you bus back towards town, getting off near the Smeceres sils forest for a long, relaxing afternoon. In the evening, you return to the city center for dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Cafés",
+            "tip": "Holen Sie sich Gebäck und Kaffee in einem Café in der Nähe des Busbahnhofs, bevor Ihr Tag beginnt."
+          },
+          {
+            "name": "Roggenbrot-Nachtisch (Rupjmaizes kārtojums)",
+            "tip": "Ein geschichtetes Dessert aus Roggenbrotkrumen, Sahne und Marmelade."
+          },
+          {
+            "name": "Bistro-Mittagessen",
+            "tip": "Genießen Sie ein schnelles und erschwingliches Mittagessen in einem der Bistros der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kávézók",
+            "tip": "Vegyen süteményt és kávét egy buszpályaudvar közeli kávézóban, mielőtt elkezdi a napot."
+          },
+          {
+            "name": "Rozskenyér desszert (Rupjmaizes kārtojums)",
+            "tip": "Réteges desszert rozskenyérmorzsából, tejszínből és lekvárból."
+          },
+          {
+            "name": "Bisztró ebéd",
+            "tip": "Élvezzen egy gyors és megfizethető ebédet a város egyik bisztrójában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenele locale",
+            "tip": "Luați produse de patiserie și o cafea de la o cafenea de lângă autogară înainte de a începe ziua."
+          },
+          {
+            "name": "Desert din pâine de secară (Rupjmaizes kārtojums)",
+            "tip": "Un desert stratificat făcut din pesmet de pâine de secară, smântână și gem."
+          },
+          {
+            "name": "Prânz la bistro",
+            "tip": "Bucurați-vă de un prânz rapid și accesibil la unul dintre bistrourile din oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local cafes",
+            "tip": "Grab a pastry and coffee from a cafe near the bus station before your day starts."
+          },
+          {
+            "name": "Rye bread dessert (Rupjmaizes kārtojums)",
+            "tip": "A layered dessert made with rye bread crumbs, cream, and jam."
+          },
+          {
+            "name": "Bistro lunch",
+            "tip": "Enjoy a quick and affordable lunch at one of the town's bistros."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine ruhige Ecke im Herrenhauspark",
+            "tip": "Entfliehen Sie den Menschenmassen und genießen Sie die Ruhe des Anwesens.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Bank im Smeceres sils",
+            "tip": "Setzen Sie sich und genießen Sie die frische Waldluft.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Fensterplatz im Bus",
+            "tip": "Beobachten Sie die Landschaft, die auf dem Weg zu Ihrem nächsten Ziel vorbeizieht.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy csendes sarok az udvarház parkjában",
+            "tip": "Meneküljön el a tömeg elől, és élvezze a birtok nyugalmát.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Pad a Smeceres sils-ben",
+            "tip": "Üljön le, és élvezze a friss erdei levegőt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ablak melletti ülés a buszon",
+            "tip": "Figyelje a tájat, amint elhalad a következő úti cél felé.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Un colț liniștit în parcul conacului",
+            "tip": "Evadați de mulțime și bucurați-vă de liniștea domeniului.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Bancă în Smeceres sils",
+            "tip": "Așezați-vă și bucurați-vă de aerul proaspăt al pădurii.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Loc la geam în autobuz",
+            "tip": "Priviți peisajul rural trecând în drum spre următoarea destinație.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "A quiet corner in the manor park",
+            "tip": "Escape the crowds and enjoy the tranquility of the estate.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Bench in Smeceres sils",
+            "tip": "Sit and enjoy the fresh forest air.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Window seat on the bus",
+            "tip": "Watch the countryside go by on the way to your next destination.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Kaufen Sie Snacks, Getränke und vielleicht eine lokale Zeitung für Ihre Reise."
+          },
+          {
+            "name": "Kleine Läden in der Nähe der Haltestellen",
+            "tip": "Halten Sie Ausschau nach kleinen Geschäften, die lokale Produkte verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszpályaudvaron",
+            "tip": "Vásároljon rágcsálnivalót, italokat és esetleg egy helyi újságot az utazáshoz."
+          },
+          {
+            "name": "Kis boltok a megállók közelében",
+            "tip": "Figyelje a helyi termékeket árusító kis boltokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la autogară",
+            "tip": "Cumpărați gustări, băuturi și poate un ziar local pentru călătoria dvs."
+          },
+          {
+            "name": "Magazine mici lângă stații",
+            "tip": "Fiți atenți la magazinele mici care vând produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus station",
+            "tip": "Pick up snacks, drinks, and maybe a local newspaper for your journey."
+          },
+          {
+            "name": "Small shops near the stops",
+            "tip": "Keep an eye out for small shops selling local goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, da die Busse in ländlichen Gebieten nicht häufig fahren.",
+          "Kaufen Sie Tickets im Voraus oder stellen Sie sicher, dass Sie Kleingeld für den Fahrer haben.",
+          "Geben Sie dem Fahrer ein klares Signal, wenn Sie an einer Haltestelle aussteigen möchten.",
+          "Seien Sie sich der letzten Busverbindung zurück in die Stadt bewusst, um nicht stecken zu bleiben."
+        ],
+        "hu": [
+          "Ellenőrizze előre a buszmenetrendet, mivel a vidéki területeken ritkán járnak a buszok.",
+          "Vásároljon jegyet előre, vagy győződjön meg róla, hogy van aprópénze a sofőr számára.",
+          "Adjon egyértelmű jelet a sofőrnek, ha egy megállónál le akar szállni.",
+          "Legyen tisztában az utolsó buszjárattal vissza a városba, hogy ne ragadjon ott."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor în avans, deoarece autobuzele pot circula rar în zonele rurale.",
+          "Cumpărați bilete în prealabil sau asigurați-vă că aveți bani mărunți pentru șofer.",
+          "Semnalizați clar șoferului când doriți să coborâți la o stație.",
+          "Fiți conștienți de ultimul autobuz înapoi în oraș pentru a evita să rămâneți blocat."
+        ],
+        "en": [
+          "Check the bus schedule in advance, as services can be infrequent in rural areas.",
+          "Buy tickets beforehand or make sure you have small change for the driver.",
+          "Give a clear signal to the driver when you want to get off at a stop.",
+          "Be aware of the last bus back to town to avoid getting stranded."
+        ]
+      }
+    }
+  }
+}

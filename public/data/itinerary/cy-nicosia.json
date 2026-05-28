@@ -1,0 +1,1455 @@
+{
+  "city_id": "cy-nicosia",
+  "anchor": {
+    "name": "Nikosia",
+    "coords": [
+      33.3666,
+      35.1666
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ledrastraße & Shacolas Tower",
+            "hu": "Ledra utca és Shacolas-torony",
+            "ro": "Strada Ledra și Turnul Shacolas",
+            "en": "Ledra Street & Shacolas Tower"
+          },
+          "coords": [
+            33.3615,
+            35.1715
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie mit einem Kaffee und gehen Sie dann zum Turm für eine 360°-Aussicht.",
+            "hu": "Kezdje egy kávéval, majd menjen fel a toronyba a 360°-os kilátásért.",
+            "ro": "Începeți cu o cafea și apoi urcați în turn pentru o priveliște de 360°.",
+            "en": "Start with a coffee, then head up the tower for a 360° view."
+          }
+        },
+        {
+          "name": {
+            "de": "Büyük Han",
+            "hu": "Büyük Han (Nagy Fogadó)",
+            "ro": "Büyük Han (Marele Han)",
+            "en": "Büyük Han (Great Inn)"
+          },
+          "coords": [
+            33.364,
+            35.176
+          ],
+          "category": "historical",
+          "arrive_at": "10:22",
+          "stay_min": 50,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die kleinen Kunsthandwerksläden in den ehemaligen Schlafräumen.",
+            "hu": "Fedezze fel az egykori hálóhelyiségekben található kis kézműves boltokat.",
+            "ro": "Explorați micile magazine de artizanat din fostele dormitoare.",
+            "en": "Explore the small artisan shops in the former sleeping quarters."
+          }
+        },
+        {
+          "name": {
+            "de": "Selimiye-Moschee",
+            "hu": "Selimiye-mecset",
+            "ro": "Moscheea Selimiye",
+            "en": "Selimiye Mosque"
+          },
+          "coords": [
+            33.365,
+            35.1765
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beachten Sie die gotische Architektur, die von einer Kathedrale in eine Moschee umgewandelt wurde.",
+            "hu": "Figyelje meg a gótikus építészetet, egy katedrálisból mecsetté alakított épületet.",
+            "ro": "Observați arhitectura gotică, o catedrală transformată în moschee.",
+            "en": "Note the Gothic architecture, a cathedral converted into a mosque."
+          }
+        },
+        {
+          "name": {
+            "de": "Erzbischöflicher Palast",
+            "hu": "Érseki palota",
+            "ro": "Palatul Arhiepiscopal",
+            "en": "Archbishop's Palace"
+          },
+          "coords": [
+            33.3675,
+            35.1735
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:06",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der Palast ist nicht immer geöffnet, aber die Fassade allein ist schon beeindruckend.",
+            "hu": "A palota nem mindig látogatható, de a homlokzata önmagában is lenyűgöző.",
+            "ro": "Palatul nu este întotdeauna deschis, dar fațada în sine este impresionantă.",
+            "en": "The palace isn't always open, but the facade alone is impressive."
+          }
+        },
+        {
+          "name": {
+            "de": "Famagusta-Tor & Freiheitsdenkmal",
+            "hu": "Famagustai kapu és Szabadság-emlékmű",
+            "ro": "Poarta Famagusta și Monumentul Libertății",
+            "en": "Famagusta Gate & Liberty Monument"
+          },
+          "coords": [
+            33.3725,
+            35.1725
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ideal für eine Mittagspause in der Nähe; das Tor beherbergt oft Ausstellungen.",
+            "hu": "Ideális egy közeli ebédszünethez; a kapu gyakran ad otthont kiállításoknak.",
+            "ro": "Ideal pentru o pauză de prânz în apropiere; poarta găzduiește adesea expoziții.",
+            "en": "Perfect for a lunch break nearby; the gate often hosts exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Zypern-Museum",
+            "hu": "Ciprusi Múzeum",
+            "ro": "Muzeul Ciprului",
+            "en": "Cyprus Museum"
+          },
+          "coords": [
+            33.357,
+            35.171
+          ],
+          "category": "museums",
+          "arrive_at": "14:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit für die beeindruckende Sammlung antiker Artefakte ein.",
+            "hu": "Tervezzen elegendő időt a lenyűgöző ókori leletek gyűjteményére.",
+            "ro": "Planificați suficient timp pentru colecția impresionantă de artefacte antice.",
+            "en": "Plan enough time for the impressive collection of ancient artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang auf der Venezianischen Mauer",
+            "hu": "Séta a velencei falakon",
+            "ro": "Plimbare pe zidurile venețiene",
+            "en": "Walk on the Venetian Walls"
+          },
+          "coords": [
+            33.369,
+            35.165
+          ],
+          "category": "historical",
+          "arrive_at": "17:01",
+          "stay_min": 54,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Ein entspannender Abschluss des Tages mit Blick auf die Stadt bei Sonnenuntergang.",
+            "hu": "Pihentető lezárása a napnak, naplementekor a városra nyíló kilátással.",
+            "ro": "O încheiere relaxantă a zilei cu vedere la oraș la apus.",
+            "en": "A relaxing end to the day with a view of the city at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im pulsierenden Herzen der Ledrastraße und führt Sie dann in den historischen Norden zum Büyük Han und zur Selimiye-Moschee. Am Nachmittag erkunden Sie die Ostseite mit dem Erzbischöflichen Palast und dem Famagusta-Tor, gefolgt von einem tiefen Einblick in die Geschichte im Zypern-Museum. Der Tag endet mit einem friedlichen Spaziergang auf den alten Stadtmauern.",
+        "hu": "A nap a nyüzsgő Ledra utca szívében kezdődik, majd az északi történelmi részbe vezet a Büyük Hanhoz és a Selimiye-mecsethez. Délután felfedezi a keleti oldalt az Érseki Palotával és a Famagustai kapuval, majd elmélyül a történelemben a Ciprusi Múzeumban. A nap egy békés sétával zárul az ősi városfalakon.",
+        "ro": "Ziua începe în inima vibrantă a străzii Ledra, apoi vă duce în nordul istoric la Büyük Han și Moscheea Selimiye. După-amiaza explorați partea de est cu Palatul Arhiepiscopal și Poarta Famagusta, urmată de o incursiune profundă în istorie la Muzeul Ciprului. Ziua se încheie cu o plimbare liniștită pe vechile ziduri ale orașului.",
+        "en": "Your day starts in the vibrant heart of Ledra Street, then takes you to the historic north for Büyük Han and Selimiye Mosque. In the afternoon, you'll explore the eastern side with the Archbishop's Palace and Famagusta Gate, followed by a deep dive into history at the Cyprus Museum. The day concludes with a peaceful walk on the ancient city walls."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Halloumi",
+            "tip": "Gegrillt oder frisch, ein Muss in seiner Heimat."
+          },
+          {
+            "name": "Souvlaki",
+            "tip": "Probieren Sie es in einem lokalen Grillhaus für ein authentisches Erlebnis."
+          },
+          {
+            "name": "Meze Platte",
+            "tip": "Bestellen Sie eine für den Tisch, um eine Vielzahl von zypriotischen Aromen zu probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halloumi",
+            "tip": "Grillezve vagy frissen, kötelező megkóstolni a szülőhazájában."
+          },
+          {
+            "name": "Souvlaki",
+            "tip": "Kóstolja meg egy helyi grillházban az autentikus élményért."
+          },
+          {
+            "name": "Meze tál",
+            "tip": "Rendeljen egyet az asztalra, hogy megkóstolhassa a ciprusi ízek sokféleségét."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Halloumi",
+            "tip": "La grătar sau proaspăt, o necesitate în patria sa."
+          },
+          {
+            "name": "Souvlaki",
+            "tip": "Încercați-l la o tavernă locală pentru o experiență autentică."
+          },
+          {
+            "name": "Platou Meze",
+            "tip": "Comandați unul pentru masă pentru a gusta o varietate de arome cipriote."
+          }
+        ],
+        "en": [
+          {
+            "name": "Halloumi",
+            "tip": "Grilled or fresh, a must-try in its homeland."
+          },
+          {
+            "name": "Souvlaki",
+            "tip": "Try it at a local grill house for an authentic experience."
+          },
+          {
+            "name": "Meze Platter",
+            "tip": "Order one for the table to sample a variety of Cypriot flavors."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Innenhof des Büyük Han",
+            "tip": "Finden Sie eine ruhige Ecke für einen türkischen Kaffee.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Stadtpark",
+            "tip": "Ein grüner Rückzugsort direkt außerhalb der Mauern.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Auf den Festungsmauern bei Sonnenuntergang",
+            "tip": "Perfekter Ort, um den Tag ausklingen zu lassen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Büyük Han udvara",
+            "tip": "Találjon egy csendes sarkot egy török kávéhoz.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Városi Park",
+            "tip": "Zöld menedékhely közvetlenül a falakon kívül.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Az erőd falain naplementekor",
+            "tip": "Tökéletes hely a nap befejezéséhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea interioară a Büyük Han",
+            "tip": "Găsiți un colț liniștit pentru o cafea turcească.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Municipal",
+            "tip": "O oază de verdeață chiar în afara zidurilor.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pe zidurile fortăreței la apus",
+            "tip": "Locul perfect pentru a încheia ziua.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Büyük Han Courtyard",
+            "tip": "Find a quiet corner for a Turkish coffee.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Municipal Gardens",
+            "tip": "A green retreat just outside the walls.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "On the Fortress Walls at Sunset",
+            "tip": "Perfect spot to wind down the day.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ledrastraße",
+            "tip": "Eine Mischung aus internationalen Marken und lokalen Geschäften."
+          },
+          {
+            "name": "Laiki Geitonia",
+            "tip": "Traditionelle Souvenirs und Handwerksprodukte in einem restaurierten Viertel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ledra utca",
+            "tip": "Nemzetközi márkák és helyi üzletek keveréke."
+          },
+          {
+            "name": "Laiki Geitonia",
+            "tip": "Hagyományos szuvenírek és kézműves termékek egy felújított negyedben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Ledra",
+            "tip": "Un amestec de mărci internaționale și magazine locale."
+          },
+          {
+            "name": "Laiki Geitonia",
+            "tip": "Suveniruri tradiționale și produse artizanale într-un cartier restaurat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ledra Street",
+            "tip": "A mix of international brands and local shops."
+          },
+          {
+            "name": "Laiki Geitonia",
+            "tip": "Traditional souvenirs and handicrafts in a restored neighborhood."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, das Kopfsteinpflaster kann uneben sein.",
+          "Haben Sie Ihren Ausweis dabei, falls Sie die Grüne Linie überqueren möchten.",
+          "Wasser mitnehmen, besonders im Sommer."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, a macskakő egyenetlen lehet.",
+          "Legyen Önnél személyi igazolvány, ha át akar kelni a Zöld Vonalon.",
+          "Vigyen magával vizet, különösen nyáron."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, pavajul poate fi denivelat.",
+          "Aveți actul de identitate la dumneavoastră dacă doriți să traversați Linia Verde.",
+          "Luați apă, mai ales vara."
+        ],
+        "en": [
+          "Wear comfortable shoes, the cobblestones can be uneven.",
+          "Carry ID if you plan to cross the Green Line.",
+          "Bring water, especially in summer."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Paphos-Tor",
+            "hu": "Paphosi kapu",
+            "ro": "Poarta Paphos",
+            "en": "Paphos Gate"
+          },
+          "coords": [
+            33.3555,
+            35.172
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein guter Ausgangspunkt, um die westlichen Mauern zu erkunden.",
+            "hu": "Jó kiindulópont a nyugati falak felfedezéséhez.",
+            "ro": "Un bun punct de plecare pentru a explora zidurile vestice.",
+            "en": "A great starting point to explore the western walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Zypern-Museum",
+            "hu": "Ciprusi Múzeum",
+            "ro": "Muzeul Ciprului",
+            "en": "Cyprus Museum"
+          },
+          "coords": [
+            33.357,
+            35.171
+          ],
+          "category": "museums",
+          "arrive_at": "09:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie die antiken Schätze entdecken.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt felfedezné az ókori kincseket.",
+            "ro": "Legați-vă bicicleta în siguranță înainte de a explora comorile antice.",
+            "en": "Lock your bike securely before diving into the ancient treasures."
+          }
+        },
+        {
+          "name": {
+            "de": "Ledrastraße",
+            "hu": "Ledra utca",
+            "ro": "Strada Ledra",
+            "en": "Ledra Street"
+          },
+          "coords": [
+            33.3615,
+            35.1715
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und genießen Sie einen Spaziergang und ein Mittagessen.",
+            "hu": "Parkolja le a kerékpárt, és élvezze a sétát és az ebédet.",
+            "ro": "Parcați bicicleta și bucurați-vă de o plimbare și de prânz.",
+            "en": "Park your bike and enjoy a stroll and some lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Büyük Han & Selimiye-Moschee",
+            "hu": "Büyük Han és Selimiye-mecset",
+            "ro": "Büyük Han și Moscheea Selimiye",
+            "en": "Büyük Han & Selimiye Mosque"
+          },
+          "coords": [
+            33.3645,
+            35.1763
+          ],
+          "category": "historical",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Dieses Duo im Norden ist ein Muss. Erkunden Sie die Innenhöfe und die Architektur.",
+            "hu": "Ez az északi páros kihagyhatatlan. Fedezze fel az udvarokat és az építészetet.",
+            "ro": "Acest duo din nord este o necesitate. Explorați curțile și arhitectura.",
+            "en": "This northern duo is a must-see. Explore the courtyards and architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Famagusta-Tor",
+            "hu": "Famagustai kapu",
+            "ro": "Poarta Famagusta",
+            "en": "Famagusta Gate"
+          },
+          "coords": [
+            33.3725,
+            35.1725
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause an diesem mächtigen venezianischen Tor.",
+            "hu": "Tartson egy szünetet ennél a hatalmas velencei kapunál.",
+            "ro": "Faceți o pauză la această poartă venețiană masivă.",
+            "en": "Take a break at this massive Venetian gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt entlang der Venezianischen Mauer",
+            "hu": "Kerékpározás a velencei fal mentén",
+            "ro": "Tur cu bicicleta de-a lungul Zidurilor Venețiene",
+            "en": "Ride along the Venetian Walls"
+          },
+          "coords": [
+            33.369,
+            35.165
+          ],
+          "category": "historical",
+          "arrive_at": "15:16",
+          "stay_min": 88,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Eine komplette Runde um die Altstadt auf den Wegen entlang der Mauern.",
+            "hu": "Egy teljes kör az óváros körül a falak menti ösvényeken.",
+            "ro": "Un tur complet al orașului vechi pe cărările de-a lungul zidurilor.",
+            "en": "A full loop around the old city on the paths alongside the walls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt am Paphos-Tor und führt Sie schnell zum kulturellen Herzstück, dem Zypern-Museum. Zur Mittagszeit erkunden Sie die belebte Ledrastraße. Am Nachmittag tauchen Sie in den osmanischen Teil der Stadt ein, bevor Sie entlang der beeindruckenden venezianischen Mauern radeln und die Runde zurücklegen.",
+        "hu": "A kerékpártúra a Paphosi kapunál kezdődik, és gyorsan a kulturális központhoz, a Ciprusi Múzeumhoz vezet. Délben felfedezi a nyüzsgő Ledra utcát. Délután elmerül a város oszmán részében, mielőtt végigteker a lenyűgöző velencei falak mentén, teljesítve a kört.",
+        "ro": "Turul cu bicicleta începe de la Poarta Paphos, ducându-vă rapid la inima culturală, Muzeul Ciprului. La prânz, explorați aglomerata stradă Ledra. După-amiaza, pătrundeți în partea otomană a orașului înainte de a pedala de-a lungul impresionantelor ziduri venețiene, completând circuitul.",
+        "en": "Your bike tour starts at Paphos Gate, quickly taking you to the cultural heart, the Cyprus Museum. At midday, you'll explore the bustling Ledra Street. The afternoon is for delving into the Ottoman part of the city before cycling along the impressive Venetian walls, completing the loop."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sheftalia",
+            "tip": "Eine lokale Wurst, perfekt für einen schnellen Bissen vom Grill."
+          },
+          {
+            "name": "Kleftiko",
+            "tip": "Langsam gegartes Lamm, das vom Knochen fällt. Suchen Sie nach einem traditionellen Restaurant."
+          },
+          {
+            "name": "Zypriotischer Kaffee",
+            "tip": "Stark und aromatisch, in einem Briki zubereitet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sheftalia",
+            "tip": "Helyi kolbász, tökéletes egy gyors falatra a grillről."
+          },
+          {
+            "name": "Kleftiko",
+            "tip": "Lassan sült bárány, ami leesik a csontról. Keressen egy hagyományos éttermet."
+          },
+          {
+            "name": "Ciprusi kávé",
+            "tip": "Erős és aromás, brikiben készítve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sheftalia",
+            "tip": "Un cârnat local, perfect pentru o gustare rapidă la grătar."
+          },
+          {
+            "name": "Kleftiko",
+            "tip": "Miel gătit lent, care cade de pe os. Căutați un restaurant tradițional."
+          },
+          {
+            "name": "Cafea cipriotă",
+            "tip": "Puternică și aromată, preparată într-un ibric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sheftalia",
+            "tip": "A local sausage, perfect for a quick bite from the grill."
+          },
+          {
+            "name": "Kleftiko",
+            "tip": "Slow-cooked lamb that falls off the bone. Look for a traditional restaurant."
+          },
+          {
+            "name": "Cypriot Coffee",
+            "tip": "Strong and aromatic, prepared in a briki."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park am Paphos-Tor",
+            "tip": "Ein ruhiger Startpunkt für Ihre Tour.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Versteckte Gassen in der Altstadt",
+            "tip": "Verlieren Sie sich in den ruhigeren Wohnstraßen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang am Freiheitsdenkmal",
+            "tip": "Ein nachdenklicher Ort, um den Tag zu beenden.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Park a Paphosi kapunál",
+            "tip": "Csendes kiindulópont a túrához.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rejtett sikátorok az óvárosban",
+            "tip": "Vesszen el a csendesebb lakóutcákban.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a Szabadság-emlékműnél",
+            "tip": "Elgondolkodtató hely a nap befejezéséhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul de la Poarta Paphos",
+            "tip": "Un punct de plecare liniștit pentru turul dumneavoastră.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Străduțe ascunse în Orașul Vechi",
+            "tip": "Pierdeți-vă pe străzile rezidențiale mai liniștite.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus la Monumentul Libertății",
+            "tip": "Un loc contemplativ pentru a încheia ziua.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Park at Paphos Gate",
+            "tip": "A quiet starting point for your tour.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hidden alleys in the Old Town",
+            "tip": "Get lost in the quieter residential streets.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset at the Liberty Monument",
+            "tip": "A contemplative spot to end the day.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handwerksläden im Büyük Han",
+            "tip": "Einzigartige handgefertigte Waren von lokalen Künstlern."
+          },
+          {
+            "name": "Markt in der Altstadt",
+            "tip": "Finden Sie lokale Produkte und Leckereien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves boltok a Büyük Hanban",
+            "tip": "Egyedi, kézzel készített termékek helyi művészektől."
+          },
+          {
+            "name": "Piac az óvárosban",
+            "tip": "Találjon helyi termékeket és finomságokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat în Büyük Han",
+            "tip": "Produse unice, lucrate manual, de la artiști locali."
+          },
+          {
+            "name": "Piața din Orașul Vechi",
+            "tip": "Găsiți produse locale și delicatese."
+          }
+        ],
+        "en": [
+          {
+            "name": "Artisan shops in Büyük Han",
+            "tip": "Unique handmade goods from local artists."
+          },
+          {
+            "name": "Market in the Old Town",
+            "tip": "Find local produce and treats."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt ist größtenteils flach, aber einige Straßen haben Kopfsteinpflaster.",
+          "Achten Sie auf Fußgänger in den engen Gassen.",
+          "Einige Bereiche sind reine Fußgängerzonen; schieben Sie Ihr Fahrrad dort."
+        ],
+        "hu": [
+          "Az óváros többnyire sík, de néhány utca macskaköves.",
+          "Vigyázzon a gyalogosokra a szűk sikátorokban.",
+          "Néhány terület csak gyalogos zóna; ott tolja a kerékpárt."
+        ],
+        "ro": [
+          "Orașul Vechi este în mare parte plat, dar unele străzi au pavele.",
+          "Atenție la pietoni pe aleile înguste.",
+          "Unele zone sunt exclusiv pietonale; împingeți bicicleta acolo."
+        ],
+        "en": [
+          "The old city is mostly flat, but some streets are cobblestoned.",
+          "Watch out for pedestrians in the narrow alleys.",
+          "Some areas are pedestrian-only; walk your bike there."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:39",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken in der Nähe des Zypern-Museums",
+            "hu": "Parkolás a Ciprusi Múzeum közelében",
+            "ro": "Parcare lângă Muzeul Ciprului",
+            "en": "Parking near the Cyprus Museum"
+          },
+          "coords": [
+            33.356,
+            35.17
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier, um das erste Cluster zu Fuß zu erkunden.",
+            "hu": "Kezdje a napot itt, hogy gyalogosan fedezze fel az első látnivaló-csoportot.",
+            "ro": "Începeți ziua aici pentru a explora primul grup de atracții pe jos.",
+            "en": "Start your day here to explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Zypern-Museum",
+            "hu": "Ciprusi Múzeum",
+            "ro": "Muzeul Ciprului",
+            "en": "Cyprus Museum"
+          },
+          "coords": [
+            33.357,
+            35.171
+          ],
+          "category": "museums",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in Jahrtausende zypriotischer Geschichte.",
+            "hu": "Merüljön el Ciprus történelmének évezredeiben.",
+            "ro": "Scufundați-vă în milenii de istorie cipriotă.",
+            "en": "Immerse yourself in millennia of Cypriot history."
+          }
+        },
+        {
+          "name": {
+            "de": "Paphos-Tor und Stadtmauern",
+            "hu": "Paphosi kapu és városfalak",
+            "ro": "Poarta Paphos și zidurile orașului",
+            "en": "Paphos Gate and City Walls"
+          },
+          "coords": [
+            33.3555,
+            35.172
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum, um die venezianische Ingenieurskunst zu bewundern.",
+            "hu": "Rövid séta a múzeumtól, hogy megcsodálhassa a velencei mérnöki munkát.",
+            "ro": "O scurtă plimbare de la muzeu pentru a admira ingineria venețiană.",
+            "en": "A short walk from the museum to admire the Venetian engineering."
+          }
+        },
+        {
+          "name": {
+            "de": "Parken in der Nähe des Famagusta-Tors",
+            "hu": "Parkolás a Famagustai kapu közelében",
+            "ro": "Parcare lângă Poarta Famagusta",
+            "en": "Parking near Famagusta Gate"
+          },
+          "coords": [
+            33.3735,
+            35.1715
+          ],
+          "category": "transport",
+          "arrive_at": "11:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Zeit für Cluster zwei und eine Mittagspause.",
+            "hu": "Itt az idő a második látnivaló-csoportra és egy ebédszünetre.",
+            "ro": "Timpul pentru al doilea grup de atracții și o pauză de prânz.",
+            "en": "Time for cluster two and a lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Famagusta-Tor & Freiheitsdenkmal",
+            "hu": "Famagustai kapu és Szabadság-emlékmű",
+            "ro": "Poarta Famagusta și Monumentul Libertății",
+            "en": "Famagusta Gate & Liberty Monument"
+          },
+          "coords": [
+            33.3725,
+            35.1725
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:08",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie das Tor und die nahegelegenen Statuen.",
+            "hu": "Csodálja meg a kaput és a közeli szobrokat.",
+            "ro": "Admirați poarta și statuile din apropiere.",
+            "en": "Admire the gate and the nearby statues."
+          }
+        },
+        {
+          "name": {
+            "de": "Parken im Norden & Spaziergang zum Büyük Han",
+            "hu": "Parkolás északon és séta a Büyük Hanhoz",
+            "ro": "Parcare în nord și plimbare la Büyük Han",
+            "en": "Park in the North & Walk to Büyük Han"
+          },
+          "coords": [
+            33.363,
+            35.179
+          ],
+          "category": "transport",
+          "arrive_at": "13:49",
+          "stay_min": 0,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Letzter Stopp, um den historischen Kern des Nordens zu erkunden.",
+            "hu": "Utolsó megálló az északi történelmi mag felfedezéséhez.",
+            "ro": "Ultima oprire pentru a explora nucleul istoric al nordului.",
+            "en": "Final stop to explore the historic core of the north."
+          }
+        },
+        {
+          "name": {
+            "de": "Büyük Han & Selimiye-Moschee",
+            "hu": "Büyük Han és Selimiye-mecset",
+            "ro": "Büyük Han și Moscheea Selimiye",
+            "en": "Büyük Han & Selimiye Mosque"
+          },
+          "coords": [
+            33.3645,
+            35.1763
+          ],
+          "category": "historical",
+          "arrive_at": "13:58",
+          "stay_min": 221,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für die Handwerksläden, einen Kaffee und die beeindruckende Moschee.",
+            "hu": "Szánjon időt a kézműves boltokra, egy kávéra és a lenyűgöző mecsetre.",
+            "ro": "Acordați-vă timp pentru magazinele de artizanat, o cafea și impresionanta moschee.",
+            "en": "Take your time for the artisan shops, a coffee, and the impressive mosque."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Sie beginnen westlich der Mauern mit einem Museumsbesuch (Cluster 1). Dann fahren Sie zur Ostseite für das Mittagessen und erkunden die Umgebung des Famagusta-Tors (Cluster 2). Der Nachmittag ist dem historischen Herzen des Nordens gewidmet, wo Sie parken und die Atmosphäre des Büyük Han und der Selimiye-Moschee aufsaugen (Cluster 3).",
+        "hu": "A falaktól nyugatra kezdi a napot egy múzeumlátogatással (1. látnivaló-csoport). Ezután a keleti oldalra hajt ebédelni és felfedezni a Famagustai kapu környékét (2. látnivaló-csoport). A délutánt az északi történelmi szívnek szenteli, ahol leparkol és magába szívja a Büyük Han és a Selimiye-mecset hangulatát (3. látnivaló-csoport).",
+        "ro": "Începeți la vest de ziduri cu o vizită la muzeu (Grupul 1). Apoi, conduceți spre partea de est pentru prânz și explorarea zonei Porții Famagusta (Grupul 2). După-amiaza este dedicată inimii istorice a nordului, unde parcați și absorbiți atmosfera de la Büyük Han și Moscheea Selimiye (Grupul 3).",
+        "en": "You start west of the walls with a museum visit (Cluster 1). Then, you'll drive to the eastern side for lunch and exploration around Famagusta Gate (Cluster 2). The afternoon is dedicated to the historic heart of the north, where you park and soak in the atmosphere of Büyük Han and Selimiye Mosque (Cluster 3)."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Halloumi Pie",
+            "tip": "Eine herzhafte Gebäckspezialität, die man in Bäckereien findet."
+          },
+          {
+            "name": "Zypriotischer Salat",
+            "tip": "Frisch und knackig mit Kapern, Oliven und Feta."
+          },
+          {
+            "name": "Commandaria Wein",
+            "tip": "Ein süßer Dessertwein mit antiker Geschichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halloumis pite",
+            "tip": "Kiadós pékáru, pékségekben kapható."
+          },
+          {
+            "name": "Ciprusi saláta",
+            "tip": "Friss és ropogós, kapribogyóval, olívabogyóval és fetával."
+          },
+          {
+            "name": "Commandaria bor",
+            "tip": "Édes desszertbor, amelynek története az ókorba nyúlik vissza."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plăcintă cu halloumi",
+            "tip": "O specialitate de patiserie sărată găsită în brutării."
+          },
+          {
+            "name": "Salată cipriotă",
+            "tip": "Proaspătă și crocantă cu capere, măsline și feta."
+          },
+          {
+            "name": "Vin Commandaria",
+            "tip": "Un vin de desert dulce cu o istorie antică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Halloumi Pie",
+            "tip": "A savory pastry found in bakeries."
+          },
+          {
+            "name": "Cypriot Salad",
+            "tip": "Fresh and crisp with capers, olives, and feta."
+          },
+          {
+            "name": "Commandaria Wine",
+            "tip": "A sweet dessert wine with an ancient history."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Athalassa National Forest Park",
+            "tip": "Eine kurze Autofahrt für einen Naturspaziergang.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eine ruhige Taverne",
+            "tip": "Suchen Sie abseits der Hauptstraßen nach einem authentischen, ruhigen Mittagessen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Omeriye-Moschee-Gärten",
+            "tip": "Eine friedliche Oase im Herzen der Stadt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Athalassa Nemzeti Erdőpark",
+            "tip": "Rövid autóútra egy természetközeli sétáért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy csendes taverna",
+            "tip": "Keressen a főutcáktól távol egy autentikus, csendes ebédhelyet.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Omeriye mecset kertjei",
+            "tip": "Békés oázis a város szívében.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Național Forestier Athalassa",
+            "tip": "O scurtă călătorie cu mașina pentru o plimbare în natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O tavernă liniștită",
+            "tip": "Căutați departe de străzile principale pentru un prânz autentic și liniștit.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădinile Moscheii Omeriye",
+            "tip": "O oază de pace în inima orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Athalassa National Forest Park",
+            "tip": "A short drive away for a nature walk.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A quiet taverna",
+            "tip": "Look off the main streets for an authentic, peaceful lunch.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Omeriye Mosque Gardens",
+            "tip": "A peaceful oasis in the heart of the city.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "The Mall of Cyprus",
+            "tip": "Für ein modernes Einkaufserlebnis außerhalb des Zentrums."
+          },
+          {
+            "name": "Lokale Töpferwaren",
+            "tip": "Halten Sie Ausschau nach Werkstätten, die traditionelle Keramik verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Mall of Cyprus",
+            "tip": "Modern bevásárlási élményért a központon kívül."
+          },
+          {
+            "name": "Helyi kerámiák",
+            "tip": "Keresse a hagyományos kerámiát árusító műhelyeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Mall of Cyprus",
+            "tip": "Pentru o experiență modernă de cumpărături în afara centrului."
+          },
+          {
+            "name": "Ceramică locală",
+            "tip": "Căutați ateliere care vând ceramică tradițională."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Mall of Cyprus",
+            "tip": "For a modern shopping experience outside the center."
+          },
+          {
+            "name": "Local pottery",
+            "tip": "Look for workshops selling traditional ceramics."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken kann in der Altstadt schwierig sein; nutzen Sie die ausgewiesenen Parkplätze außerhalb der Mauern.",
+          "Beachten Sie die Einbahnstraßen.",
+          "Klimaanlage ist im Sommer ein Segen."
+        ],
+        "hu": [
+          "A parkolás nehézkes lehet az óvárosban; használja a falakon kívüli kijelölt parkolókat.",
+          "Figyeljen az egyirányú utcákra.",
+          "A légkondicionálás áldás a nyáron."
+        ],
+        "ro": [
+          "Parcarea poate fi dificilă în Orașul Vechi; folosiți parcările desemnate în afara zidurilor.",
+          "Fiți atenți la străzile cu sens unic.",
+          "Aerul condiționat este o binecuvântare vara."
+        ],
+        "en": [
+          "Parking can be tricky in the Old Town; use designated car parks outside the walls.",
+          "Be aware of one-way streets.",
+          "Air conditioning is a blessing in summer."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof Solomos-Platz",
+            "hu": "Érkezés a Solomos téri buszpályaudvarra",
+            "ro": "Sosire la autogara din Piața Solomos",
+            "en": "Arrival at Solomos Square Bus Station"
+          },
+          "coords": [
+            33.36,
+            35.174
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt, idealer Startpunkt für den Tag.",
+            "hu": "Központi csomópont, ideális kiindulópont a naphoz.",
+            "ro": "Nod central, punct de plecare ideal pentru o zi.",
+            "en": "Central hub, ideal starting point for the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Ledrastraße & Shacolas Tower",
+            "hu": "Ledra utca és Shacolas-torony",
+            "ro": "Strada Ledra și Turnul Shacolas",
+            "en": "Ledra Street & Shacolas Tower"
+          },
+          "coords": [
+            33.3615,
+            35.1715
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Busbahnhof, um die Atmosphäre aufzusaugen.",
+            "hu": "Rövid séta a buszpályaudvartól, hogy magába szívja a hangulatot.",
+            "ro": "O scurtă plimbare de la autogară pentru a absorbi atmosfera.",
+            "en": "A short walk from the bus station to soak up the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Erzbischöflichen Palast",
+            "hu": "Buszozás az Érseki Palotához",
+            "ro": "Călătorie cu autobuzul la Palatul Arhiepiscopal",
+            "en": "Bus to Archbishop's Palace"
+          },
+          "coords": [
+            33.367,
+            35.173
+          ],
+          "category": "transport",
+          "arrive_at": "10:35",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus, der in Richtung Famagusta-Tor fährt.",
+            "hu": "Szálljon fel egy buszra, amely a Famagustai kapu felé tart.",
+            "ro": "Luați un autobuz care merge spre Poarta Famagusta.",
+            "en": "Take a bus that heads towards the Famagusta Gate area."
+          }
+        },
+        {
+          "name": {
+            "de": "Erzbischöflicher Palast & Johanneskathedrale",
+            "hu": "Érseki palota és Szent János-székesegyház",
+            "ro": "Palatul Arhiepiscopal și Catedrala Sf. Ioan",
+            "en": "Archbishop's Palace & St. John's Cathedral"
+          },
+          "coords": [
+            33.3675,
+            35.1735
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kulturelles und religiöses Zentrum, das man zu Fuß erkunden kann.",
+            "hu": "Gyalogosan felfedezhető kulturális és vallási központ.",
+            "ro": "Un centru cultural și religios de explorat pe jos.",
+            "en": "A cultural and religious hub to be explored on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Zypern-Museum",
+            "hu": "Buszozás a Ciprusi Múzeumhoz",
+            "ro": "Călătorie cu autobuzul la Muzeul Ciprului",
+            "en": "Bus to the Cyprus Museum"
+          },
+          "coords": [
+            33.358,
+            35.1705
+          ],
+          "category": "transport",
+          "arrive_at": "12:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Bus zurück zum Solomos-Platz und dann ein kurzer Spaziergang zum Museum.",
+            "hu": "Busszal vissza a Solomos térre, majd rövid séta a múzeumhoz.",
+            "ro": "Autobuz înapoi în Piața Solomos și apoi o scurtă plimbare până la muzeu.",
+            "en": "Bus back towards Solomos Square and then a short walk to the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang durch Laiki Geitonia",
+            "hu": "Séta a Laiki Geitonia negyedben",
+            "ro": "Plimbare prin Laiki Geitonia",
+            "en": "Walk through Laiki Geitonia"
+          },
+          "coords": [
+            33.3642,
+            35.1708
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:05",
+          "stay_min": 190,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verbringen Sie den Rest des Nachmittags mit Einkaufen, Essen und Erkunden dieses Viertels.",
+            "hu": "Töltse a délután hátralévő részét vásárlással, evéssel és a negyed felfedezésével.",
+            "ro": "Petreceți restul după-amiezii făcând cumpărături, mâncând și explorând acest cartier.",
+            "en": "Spend the rest of the afternoon shopping, eating, and exploring this neighborhood."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vom zentralen Busbahnhof aus gehen Sie zur Ledrastraße. Anschließend bringt Sie ein Bus zum östlichen Cluster mit dem Erzbischöflichen Palast. Eine weitere Busfahrt führt Sie zum wichtigsten Museum der Insel. Der Tag endet mit einem ausgedehnten Spaziergang durch das charmante Viertel Laiki Geitonia, wo Sie Souvenirs und Abendessen finden.",
+        "hu": "A központi buszpályaudvarról a Ledra utcába sétál. Ezután egy busz elviszi a keleti látnivaló-csoporthoz az Érseki Palotával. Egy másik buszút a sziget legfontosabb múzeumához vezet. A nap egy hosszú sétával zárul a bájos Laiki Geitonia negyedben, ahol szuveníreket és vacsorát talál.",
+        "ro": "De la autogara centrală, mergeți pe jos până la strada Ledra. Apoi, un autobuz vă duce la grupul estic de atracții, cu Palatul Arhiepiscopal. O altă călătorie cu autobuzul vă va duce la cel mai important muzeu de pe insulă. Ziua se încheie cu o plimbare lungă prin cartierul fermecător Laiki Geitonia, pentru suveniruri și cină.",
+        "en": "From the central bus station, you'll walk to Ledra Street. A bus then takes you to the eastern cluster featuring the Archbishop's Palace. Another bus ride brings you to the island's most important museum. The day ends with a long stroll through the charming Laiki Geitonia neighborhood for souvenirs and dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Probieren Sie eine 'Tahinopita' (Tahin-Pastete) für einen schnellen Snack."
+          },
+          {
+            "name": "Taverne in Laiki Geitonia",
+            "tip": "Viele bieten Mittagsmenüs für ein gutes Preis-Leistungs-Verhältnis an."
+          },
+          {
+            "name": "Frischer Granatapfelsaft",
+            "tip": "An vielen Straßenecken verkauft, besonders erfrischend."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékség",
+            "tip": "Kóstoljon meg egy 'tahinopitát' (tahini pite) egy gyors harapnivalóért."
+          },
+          {
+            "name": "Taverna a Laiki Geitonia negyedben",
+            "tip": "Sokan kínálnak ebédmenüt jó ár-érték arányban."
+          },
+          {
+            "name": "Friss gránátalmalé",
+            "tip": "Sok utcasarkon árulják, különösen frissítő."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie locală",
+            "tip": "Încercați o 'tahinopita' (plăcintă cu tahini) pentru o gustare rapidă."
+          },
+          {
+            "name": "Tavernă în Laiki Geitonia",
+            "tip": "Multe oferă meniuri de prânz la un preț avantajos."
+          },
+          {
+            "name": "Suc proaspăt de rodie",
+            "tip": "Vândut la multe colțuri de stradă, deosebit de răcoritor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local bakery",
+            "tip": "Try a 'tahinopita' (tahini pie) for a quick snack."
+          },
+          {
+            "name": "Taverna in Laiki Geitonia",
+            "tip": "Many offer set lunch menus for good value."
+          },
+          {
+            "name": "Fresh pomegranate juice",
+            "tip": "Sold on many street corners, especially refreshing."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Chrysaliniotissa-Viertel",
+            "tip": "Eines der ältesten Viertel, sehr ruhig und malerisch.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Stadtpark",
+            "tip": "In der Nähe des Parlaments, gut erreichbar vom Solomos-Platz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ein Café abseits der Ledra",
+            "tip": "Suchen Sie in einer Seitengasse nach einem ruhigeren Ort.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chrysaliniotissa negyed",
+            "tip": "Az egyik legrégebbi negyed, nagyon csendes és festői.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Városi Park",
+            "tip": "A parlament közelében, könnyen megközelíthető a Solomos térről.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy kávézó a Ledrától távolabb",
+            "tip": "Keressen egy csendesebb helyet egy mellékutcában.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cartierul Chrysaliniotissa",
+            "tip": "Unul dintre cele mai vechi cartiere, foarte liniștit și pitoresc.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Municipal",
+            "tip": "Lângă Parlament, ușor accesibil din Piața Solomos.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O cafenea departe de Ledra",
+            "tip": "Căutați un loc mai liniștit pe o stradă lăturalnică.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Chrysaliniotissa Quarter",
+            "tip": "One of the oldest quarters, very quiet and picturesque.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Municipal Gardens",
+            "tip": "Near the parliament, easily reachable from Solomos Square.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A cafe off Ledra street",
+            "tip": "Look down a side alley for a quieter spot.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ledrastraße",
+            "tip": "Haupt-Einkaufsmeile für Kleidung und mehr."
+          },
+          {
+            "name": "Laiki Geitonia",
+            "tip": "Der beste Ort für traditionelle zypriotische Souvenirs und Handarbeiten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ledra utca",
+            "tip": "Fő bevásárlóutca ruhákért és egyebekért."
+          },
+          {
+            "name": "Laiki Geitonia",
+            "tip": "A legjobb hely a hagyományos ciprusi szuvenírekért és kézműves termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Ledra",
+            "tip": "Principala arteră comercială pentru haine și multe altele."
+          },
+          {
+            "name": "Laiki Geitonia",
+            "tip": "Cel mai bun loc pentru suveniruri tradiționale cipriote și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ledra Street",
+            "tip": "Main shopping drag for clothes and more."
+          },
+          {
+            "name": "Laiki Geitonia",
+            "tip": "The best place for traditional Cypriot souvenirs and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Busfahrpläne finden Sie online oder an den Haltestellen.",
+          "Validieren Sie Ihr Ticket beim Einsteigen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "A buszmenetrendeket online vagy a megállókban találja.",
+          "Érvényesítse a jegyét felszálláskor."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Orarele autobuzelor pot fi găsite online sau la stații.",
+          "Validați biletul la urcare."
+        ],
+        "en": [
+          "Buy a day pass for unlimited rides.",
+          "Bus schedules can be found online or at the stops.",
+          "Validate your ticket when you board."
+        ]
+      }
+    }
+  }
+}

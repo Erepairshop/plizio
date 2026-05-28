@@ -1,0 +1,1424 @@
+{
+  "city_id": "uk-reading-cities-v2",
+  "anchor": {
+    "name": "Reading",
+    "coords": [
+      -0.9781,
+      51.4543
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Forbury Gärten",
+            "hu": "Forbury Gardens",
+            "ro": "Grădinile Forbury",
+            "en": "Forbury Gardens"
+          },
+          "coords": [
+            -0.9745,
+            51.456
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die riesige Maiwand-Löwenstatue, ein ikonisches Denkmal.",
+            "hu": "Csodálja meg a hatalmas Maiwand-oroszlán szobrot, egy ikonikus emlékművet.",
+            "ro": "Admirați imensa statuie a Leului Maiwand, un monument iconic.",
+            "en": "Admire the huge Maiwand Lion statue, an iconic monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinen der Abtei von Reading",
+            "hu": "Readingi apátság romjai",
+            "ro": "Ruinele Abației Reading",
+            "en": "Reading Abbey Ruins"
+          },
+          "coords": [
+            -0.973,
+            51.4558
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Suchen Sie nach dem Grab von König Heinrich I., der hier begraben sein soll.",
+            "hu": "Keresse I. Henrik király sírját, akit állítólag itt temettek el.",
+            "ro": "Căutați mormântul Regelui Henric I, despre care se spune că este îngropat aici.",
+            "en": "Look for the tomb of King Henry I, who is said to be buried here."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Jakobskirche",
+            "hu": "Szent Jakab-templom",
+            "ro": "Biserica Sfântul Iacob",
+            "en": "St James's Church"
+          },
+          "coords": [
+            -0.9738,
+            51.455
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beachten Sie, wie die Kirche aus Steinen der angrenzenden Abtei erbaut wurde.",
+            "hu": "Figyelje meg, hogyan épült a templom a szomszédos apátság köveiből.",
+            "ro": "Observați cum biserica a fost construită folosind pietre din abația adiacentă.",
+            "en": "Notice how the church was built using stones from the adjacent abbey."
+          }
+        },
+        {
+          "name": {
+            "de": "Reading Museum",
+            "hu": "Readingi Múzeum",
+            "ro": "Muzeul Reading",
+            "en": "Reading Museum"
+          },
+          "coords": [
+            -0.971,
+            51.4545
+          ],
+          "category": "museums",
+          "arrive_at": "12:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die originalgroße Nachbildung des Teppichs von Bayeux.",
+            "hu": "Ne hagyja ki a bayeux-i kárpit életnagyságú másolatát.",
+            "ro": "Nu ratați replica în mărime naturală a Tapiseriei de la Bayeux.",
+            "en": "Don't miss the full-size replica of the Bayeux Tapestry."
+          }
+        },
+        {
+          "name": {
+            "de": "Kennet & Avon Kanal",
+            "hu": "Kennet és Avon-csatorna",
+            "ro": "Canalul Kennet & Avon",
+            "en": "Kennet & Avon Canal"
+          },
+          "coords": [
+            -0.9735,
+            51.451
+          ],
+          "category": "natural features",
+          "arrive_at": "14:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Machen Sie einen gemütlichen Spaziergang entlang des Treidelpfades und beobachten Sie die Narrowboats.",
+            "hu": "Tegyen egy kellemes sétát a vontatóúton, és nézze a keskeny hajókat.",
+            "ro": "Faceți o plimbare agale de-a lungul cărării de tractare și priviți ambarcațiunile înguste.",
+            "en": "Take a leisurely stroll along the towpath and watch the narrowboats go by."
+          }
+        },
+        {
+          "name": {
+            "de": "Reading Minster",
+            "hu": "Readingi apátsági templom",
+            "ro": "Mănăstirea din Reading",
+            "en": "Reading Minster"
+          },
+          "coords": [
+            -0.9788,
+            51.4552
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Suchen Sie nach der bestickten Tafel, die die 1200-jährige Geschichte der Kirche darstellt.",
+            "hu": "Keresse a hímzett táblát, amely a templom 1200 éves történetét ábrázolja.",
+            "ro": "Căutați panoul brodat care descrie cei 1200 de ani de istorie a bisericii.",
+            "en": "Look for the embroidered panel depicting the church's 1200 year history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag in der Ruhe der Forbury Gardens, bevor Sie in die Geschichte der angrenzenden Reading Abbey Ruins eintauchen. Am Nachmittag schlendern Sie zum Reading Museum, um die lokale Geschichte, einschließlich der berühmten Nachbildung des Teppichs von Bayeux, zu entdecken. Schließen Sie Ihren Spaziergang mit einem friedlichen Spaziergang entlang des Kennet & Avon Kanals ab, beobachten Sie die Boote und genießen Sie die ruhige Atmosphäre. Beenden Sie den Tag mit einem Besuch des ehrwürdigen Reading Minster.",
+        "hu": "Kezdje a napot a Forbury Gardens nyugalmában, mielőtt elmélyül a szomszédos Reading Apátság romjainak történelmében. Délután sétáljon el a Reading Múzeumba, hogy felfedezze a helyi történelmet, beleértve a híres bayeux-i kárpit másolatát. Zárja a sétát egy békés sétával a Kennet & Avon-csatorna mentén, figyelve a hajókat és élvezve a nyugodt légkört. A napot a tiszteletreméltó Readingi apátsági templom meglátogatásával fejezze be.",
+        "ro": "Începeți ziua în liniștea Grădinilor Forbury înainte de a vă cufunda în istoria ruinelor Abației Reading adiacente. La amiază, plimbați-vă până la Muzeul Reading pentru a descoperi istoria locală, inclusiv faimoasa replică a Tapiseriei de la Bayeux. Încheiați-vă plimbarea cu o promenadă pașnică de-a lungul Canalului Kennet & Avon, urmărind bărcile și bucurându-vă de atmosfera liniștită. Terminați ziua cu o vizită la venerabila Mănăstire din Reading.",
+        "en": "Start your day in the tranquility of Forbury Gardens before delving into the history at the adjacent Reading Abbey Ruins. In the afternoon, stroll over to the Reading Museum to discover local history, including the famous Bayeux Tapestry replica. Conclude your walk with a peaceful stroll along the Kennet & Avon Canal, watching the boats and soaking in the calm atmosphere. Finish the day with a visit to the venerable Reading Minster."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lardy Cake",
+            "tip": "Ein traditioneller, reichhaltiger und süßer Kuchen aus der Region. Probieren Sie ihn in einer örtlichen Bäckerei."
+          },
+          {
+            "name": "Lokale Biere",
+            "tip": "Reading hat eine starke Brautradition. Besuchen Sie einen Pub wie The Alehouse, um lokale Biere zu probieren."
+          },
+          {
+            "name": "The Market House",
+            "tip": "Ein Food-Court mit einer Vielzahl von Street-Food-Optionen, perfekt für ein zwangloses Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lardy Cake",
+            "tip": "Hagyományos, gazdag, édes sütemény a régióból. Kóstolja meg egy helyi pékségben."
+          },
+          {
+            "name": "Helyi sörök",
+            "tip": "Reading erős sörfőző hagyományokkal rendelkezik. Látogasson el egy pubba, mint a The Alehouse, hogy megkóstolja a helyi söröket."
+          },
+          {
+            "name": "The Market House",
+            "tip": "Ételudvar különféle street food lehetőségekkel, tökéletes egy laza ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Prăjitură Lardy",
+            "tip": "O prăjitură tradițională, bogată și dulce, specifică regiunii. Încercați-o la o brutărie locală."
+          },
+          {
+            "name": "Beri locale",
+            "tip": "Reading are o tradiție puternică în fabricarea berii. Vizitați un pub precum The Alehouse pentru a gusta berile locale."
+          },
+          {
+            "name": "The Market House",
+            "tip": "O curte alimentară cu o varietate de opțiuni de street food, perfectă pentru un prânz informal."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lardy Cake",
+            "tip": "A traditional rich, sweet cake from the region. Try a slice at a local bakery."
+          },
+          {
+            "name": "Local Ales",
+            "tip": "Reading has a strong brewing tradition. Visit a pub like The Alehouse to sample local beers."
+          },
+          {
+            "name": "The Market House",
+            "tip": "A food court with a variety of street food options, perfect for a casual lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Themse-Pfad",
+            "tip": "Überqueren Sie die Reading Bridge und genießen Sie einen ruhigen Spaziergang entlang des Flusses.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Caversham Court Gardens",
+            "tip": "Wunderschön gepflegte Gärten am Flussufer, ein verstecktes Juwel.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Harris Garden (University)",
+            "tip": "Ein friedlicher botanischer Garten auf dem Campus der Universität, der für die Öffentlichkeit zugänglich ist.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Temze-ösvényen",
+            "tip": "Menjen át a Reading-hídon egy csendes folyóparti sétára.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Caversham Court Gardens",
+            "tip": "Gyönyörűen gondozott kertek a folyóparton, egy rejtett gyöngyszem.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Harris Garden (Egyetem)",
+            "tip": "Egy békés botanikus kert az egyetemi kampuszon, amely nyitva áll a nyilvánosság előtt.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe Calea Tamisei",
+            "tip": "Traversați Podul Reading pentru o plimbare liniștită de-a lungul râului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Curții Caversham",
+            "tip": "Grădini frumos întreținute pe malul râului, o bijuterie ascunsă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grădina Harris (Universitate)",
+            "tip": "O grădină botanică pașnică în campusul universitar, deschisă publicului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Thames Path walk",
+            "tip": "Cross Reading Bridge for a quiet walk along the river.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Caversham Court Gardens",
+            "tip": "Beautifully maintained riverside gardens, a hidden gem.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Harris Garden (University)",
+            "tip": "A peaceful botanical garden on the university campus, open to the public.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "The Oracle",
+            "tip": "Das wichtigste Einkaufszentrum der Stadt mit einer Mischung aus bekannten Marken und Restaurants am Flussufer."
+          },
+          {
+            "name": "Harris Arcade",
+            "tip": "Eine charmante viktorianische Arkade mit unabhängigen Geschäften, die einzigartige Geschenke und Sammlerstücke verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Oracle",
+            "tip": "A város fő bevásárlóközpontja, ahol a nagy márkák és a folyóparti éttermek keverednek."
+          },
+          {
+            "name": "Harris Arcade",
+            "tip": "Bájos viktoriánus árkád független boltokkal, ahol egyedi ajándékokat és gyűjteményeket árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Oracle",
+            "tip": "Principalul centru comercial al orașului, cu un amestec de mărci de renume și restaurante pe malul râului."
+          },
+          {
+            "name": "Harris Arcade",
+            "tip": "O arcadă victoriană fermecătoare cu magazine independente care vând cadouri și obiecte de colecție unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Oracle",
+            "tip": "The town's main shopping centre, with a mix of high-street brands and riverside dining."
+          },
+          {
+            "name": "Harris Arcade",
+            "tip": "A charming Victorian arcade with independent shops selling unique gifts and collectibles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum kompakt und sehr gut zu Fuß erreichbar ist.",
+          "Die meisten Museen und historischen Stätten sind zu Fuß erreichbar.",
+          "Halten Sie Ausschau nach den blauen Plaketten, die auf historisch bedeutsame Gebäude hinweisen.",
+          "Der Treidelpfad des Kanals kann nach Regen matschig sein, seien Sie also vorbereitet."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a városközpont kompakt és nagyon jól bejárható.",
+          "A legtöbb múzeum és történelmi helyszín gyalogosan elérhető.",
+          "Keresse a kék táblákat, amelyek a történelmileg jelentős épületeket jelölik.",
+          "A csatorna vontatóútja eső után sáros lehet, készüljön fel."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul orașului este compact și foarte ușor de parcurs pe jos.",
+          "Majoritatea muzeelor și siturilor istorice se află la distanță de mers pe jos.",
+          "Fiți atenți la plăcile albastre care marchează clădirile cu semnificație istorică.",
+          "Cărarea de tractare a canalului poate fi noroioasă după ploaie, așa că fiți pregătiți."
+        ],
+        "en": [
+          "Wear comfortable shoes as the town centre is compact and very walkable.",
+          "Most museums and historical sites are within easy walking distance of each other.",
+          "Look out for the blue plaques that mark buildings of historical significance.",
+          "The canal towpath can be muddy after rain, so be prepared."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 10.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kennet & Avon Kanal",
+            "hu": "Kennet és Avon-csatorna",
+            "ro": "Canalul Kennet & Avon",
+            "en": "Kennet & Avon Canal"
+          },
+          "coords": [
+            -0.973,
+            51.451
+          ],
+          "category": "natural features",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einer friedlichen Radtour entlang des flachen Treidelpfades.",
+            "hu": "Kezdje a napot egy békés kerékpártúrával a sík vontatóúton.",
+            "ro": "Începeți ziua cu o plimbare pașnică cu bicicleta de-a lungul cărării plate de tractare.",
+            "en": "Start your day with a peaceful cycle along the flat towpath."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für englisches Landleben (MERL)",
+            "hu": "Angol Vidéki Élet Múzeuma (MERL)",
+            "ro": "Muzeul Vieții Rurale Engleze (MERL)",
+            "en": "Museum of English Rural Life (MERL)"
+          },
+          "coords": [
+            -0.945,
+            51.446
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein faszinierendes Museum an der Universität. Es gibt Fahrradständer.",
+            "hu": "Lenyűgöző múzeum az egyetemen. Kerékpártárolók rendelkezésre állnak.",
+            "ro": "Un muzeu fascinant la universitate. Sunt disponibile rasteluri pentru biciclete.",
+            "en": "A fascinating museum at the university. Cycle racks are available."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinen der Abtei von Reading",
+            "hu": "Readingi apátság romjai",
+            "ro": "Ruinele Abației Reading",
+            "en": "Reading Abbey Ruins"
+          },
+          "coords": [
+            -0.973,
+            51.4558
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und erkunden Sie die weitläufigen Ruinen zu Fuß.",
+            "hu": "Zárja le a kerékpárját, és fedezze fel a kiterjedt romokat gyalog.",
+            "ro": "Legați-vă bicicleta și explorați ruinele întinse pe jos.",
+            "en": "Lock up your bike and explore the extensive ruins on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Forbury Gärten",
+            "hu": "Forbury Gardens",
+            "ro": "Grădinile Forbury",
+            "en": "Forbury Gardens"
+          },
+          "coords": [
+            -0.9745,
+            51.456
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für eine Mittagspause, direkt neben der Abtei.",
+            "hu": "Tökéletes hely egy ebédszünetre, közvetlenül az apátság mellett.",
+            "ro": "Un loc perfect pentru o pauză de prânz, chiar lângă abație.",
+            "en": "A perfect spot for a lunch break, right next to the abbey."
+          }
+        },
+        {
+          "name": {
+            "de": "Caversham Court Gärten",
+            "hu": "Caversham Court Gardens",
+            "ro": "Grădinile Curții Caversham",
+            "en": "Caversham Court"
+          },
+          "coords": [
+            -0.972,
+            51.464
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Fahren Sie über die Caversham Bridge zu diesen wunderschönen Gärten am Flussufer.",
+            "hu": "Kerékpározzon át a Caversham hídon ezekhez a gyönyörű folyóparti kertekhez.",
+            "ro": "Treceți cu bicicleta peste Podul Caversham spre aceste frumoase grădini de pe malul râului.",
+            "en": "Cycle over Caversham Bridge to these beautiful riverside gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Reading Minster",
+            "hu": "Readingi apátsági templom",
+            "ro": "Mănăstirea din Reading",
+            "en": "Reading Minster"
+          },
+          "coords": [
+            -0.9788,
+            51.4552
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour in diesem historischen Zentrum der Stadt.",
+            "hu": "Fejezze be a túrát a város e történelmi központjában.",
+            "ro": "Încheiați-vă turul la acest centru istoric al orașului.",
+            "en": "Finish your tour at this historic town hub."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Fahrradtour kombiniert Natur und Kultur. Beginnen Sie mit einer entspannten Fahrt entlang des Kennet & Avon Kanals, bevor Sie zum informativen Museum für englisches Landleben radeln. Nach dem Mittagessen erkunden Sie das historische Herz von Reading mit den Abteiruinen und den Forbury Gardens. Überqueren Sie die Themse für einen Besuch der wunderschönen Caversham Court Gardens, ein friedlicher Rückzugsort. Beenden Sie Ihre Radtour am Reading Minster, der seit Jahrhunderten ein zentraler Punkt der Stadt ist.",
+        "hu": "Ez a kerékpártúra a természetet és a kultúrát ötvözi. Kezdje egy laza tekeréssel a Kennet & Avon-csatorna mentén, mielőtt elbiciklizik az informatív Angol Vidéki Élet Múzeumába. Ebéd után fedezze fel Reading történelmi szívét az apátsági romokkal és a Forbury Gardens-szel. Keljen át a Temzén, és látogasson el a gyönyörű Caversham Court Gardens-be, egy békés menedékhelyre. A túrát a Readingi apátsági templomnál fejezze be, amely évszázadok óta a város központi pontja.",
+        "ro": "Acest tur cu bicicleta combină natura și cultura. Începeți cu o plimbare relaxantă de-a lungul Canalului Kennet & Avon înainte de a merge cu bicicleta la informativul Muzeu al Vieții Rurale Engleze. După prânz, explorați inima istorică a orașului Reading, cu ruinele abației și Grădinile Forbury. Traversați Tamisa pentru o vizită la frumoasele Grădini Caversham Court, un refugiu pașnic. Încheiați-vă călătoria la Mănăstirea din Reading, un punct central al orașului de secole.",
+        "en": "This bike tour blends nature and culture. Start with a relaxed ride along the Kennet & Avon Canal before cycling to the informative Museum of English Rural Life. After lunch, explore Reading's historic heart at the Abbey Ruins and Forbury Gardens. Cross the Thames for a visit to the beautiful Caversham Court Gardens, a peaceful retreat. End your cycle at Reading Minster, a focal point of the town for centuries."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Blue Collar Feastival",
+            "tip": "Wenn es stattfindet, ein fantastischer Street-Food-Markt in den Forbury Gardens mit vielen Optionen."
+          },
+          {
+            "name": "The Bel & The Dragon",
+            "tip": "Ein stilvoller Ort am Kanal für ein gehobeneres Essen oder einen Drink."
+          },
+          {
+            "name": "Picnic in Caversham Court",
+            "tip": "Kaufen Sie lokale Produkte auf dem Reading Farmers' Market (wenn er stattfindet) für ein Picknick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Blue Collar Feastival",
+            "tip": "Ha éppen van, egy fantasztikus street food piac a Forbury Gardens-ben, rengeteg lehetőséggel."
+          },
+          {
+            "name": "The Bel & The Dragon",
+            "tip": "Stílusos hely a csatorna mentén egy elegánsabb étkezéshez vagy italhoz."
+          },
+          {
+            "name": "Piknik a Caversham Courtban",
+            "tip": "Vásároljon helyi termékeket a Readingi Termelői Piacon (ha éppen van) egy piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Blue Collar Feastival",
+            "tip": "Dacă este în desfășurare, o piață fantastică de street food în Grădinile Forbury, cu o mulțime de opțiuni."
+          },
+          {
+            "name": "The Bel & The Dragon",
+            "tip": "Un loc elegant pe canal pentru o masă sau o băutură mai rafinată."
+          },
+          {
+            "name": "Picnic în Curtea Caversham",
+            "tip": "Cumpărați produse locale de la Piața Fermierilor din Reading (dacă este deschisă) pentru un picnic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Blue Collar Feastival",
+            "tip": "If it's on, a fantastic street food market in Forbury Gardens with lots of options."
+          },
+          {
+            "name": "The Bel & The Dragon",
+            "tip": "A stylish canalside spot for a more upmarket meal or drink."
+          },
+          {
+            "name": "Picnic in Caversham Court",
+            "tip": "Grab some local produce from Reading Farmers' Market (if on) for a picnic."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Themse-Pfad bei Caversham",
+            "tip": "Der Weg auf der Nordseite des Flusses ist oft ruhiger.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhof der Abtei Reading",
+            "tip": "Ein überraschend ruhiger und historischer Ort direkt im Zentrum.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Whiteknights Campus",
+            "tip": "Radfahren Sie durch den weitläufigen, parkähnlichen Campus der Universität in der Nähe des MERL.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Temze-ösvény Cavershamnél",
+            "tip": "A folyó északi oldalán lévő ösvény gyakran csendesebb.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Readingi apátság temetője",
+            "tip": "Meglepően csendes és történelmi hely a központban.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Whiteknights Campus",
+            "tip": "Kerékpározzon át az egyetem tágas, parkszerű kampuszán a MERL közelében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calea Tamisei la Caversham",
+            "tip": "Cărarea de pe partea de nord a râului este adesea mai liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul Abației Reading",
+            "tip": "Un loc surprinzător de liniștit și istoric chiar în centru.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Campusul Whiteknights",
+            "tip": "Plimbați-vă cu bicicleta prin campusul întins, asemănător unui parc, al universității, lângă MERL.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Thames Path at Caversham",
+            "tip": "The path on the north side of the river is often quieter.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Reading Abbey Graveyard",
+            "tip": "A surprisingly quiet and historic spot right in the centre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Whiteknights Campus",
+            "tip": "Cycle through the university's spacious, park-like campus near MERL.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Reading hat mehrere gute Fahrradgeschäfte wie AW Cycles für Zubehör oder schnelle Reparaturen."
+          },
+          {
+            "name": "Unabhängige Geschäfte in Caversham",
+            "tip": "Stöbern Sie in den kleinen Geschäften in Caversham, nachdem Sie die Gärten besucht haben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Readingben több jó kerékpárbolt is található, mint például az AW Cycles, kiegészítőkért vagy gyors javításokért."
+          },
+          {
+            "name": "Független boltok Cavershamben",
+            "tip": "Böngésszen a kis boltokban Cavershamben, miután meglátogatta a kerteket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Reading are mai multe magazine bune de biciclete, cum ar fi AW Cycles, pentru accesorii sau reparații rapide."
+          },
+          {
+            "name": "Magazine independente din Caversham",
+            "tip": "Răsfoiți micile magazine din Caversham după ce vizitați grădinile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cycle Shops",
+            "tip": "Reading has several good bike shops like AW Cycles for any supplies or quick repairs."
+          },
+          {
+            "name": "Caversham Independent Shops",
+            "tip": "Browse the small shops in Caversham after visiting the gardens."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Reading ist größtenteils flach, aber es gibt einige sanfte Hügel in Richtung Universität.",
+          "Schließen Sie Ihr Fahrrad immer an, auch wenn Sie nur kurz anhalten.",
+          "Die National Cycle Route 4 (NCN4) verläuft durch Reading und bietet eine gute Orientierung.",
+          "Einige Teile des Themse-Pfads können schmal sein, seien Sie also rücksichtsvoll gegenüber Fußgängern."
+        ],
+        "hu": [
+          "Reading nagyrészt sík, de az egyetem felé vannak enyhe emelkedők.",
+          "Mindig zárja le a kerékpárját, még akkor is, ha csak rövid időre áll meg.",
+          "A 4-es számú nemzeti kerékpárút (NCN4) áthalad Readingen, jó tájékozódási pontot nyújtva.",
+          "A Temze-ösvény egyes szakaszai keskenyek lehetnek, legyen tekintettel a gyalogosokra."
+        ],
+        "ro": [
+          "Reading este în mare parte plat, dar există câteva dealuri blânde spre universitate.",
+          "Legați-vă întotdeauna bicicleta, chiar dacă vă opriți doar pentru o clipă.",
+          "Ruta Națională de Ciclism 4 (NCN4) trece prin Reading, oferind o orientare bună.",
+          "Anumite părți ale Căii Tamisei pot fi înguste, așa că fiți politicoși cu pietonii."
+        ],
+        "en": [
+          "Reading is mostly flat, but there are some gentle hills towards the university.",
+          "Always lock your bike securely, even if stopping for a moment.",
+          "The National Cycle Route 4 (NCN4) runs through Reading, providing a good spine for navigation.",
+          "Some parts of the Thames Path can be narrow, so be considerate of pedestrians."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 8.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum für englisches Landleben (MERL)",
+            "hu": "Angol Vidéki Élet Múzeuma (MERL)",
+            "ro": "Muzeul Vieții Rurale Engleze (MERL)",
+            "en": "Museum of English Rural Life (MERL)"
+          },
+          "coords": [
+            -0.945,
+            51.446
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, um den morgendlichen Verkehr zu vermeiden. Es gibt einen eigenen Parkplatz.",
+            "hu": "Kezdje itt, hogy elkerülje a reggeli forgalmat. Saját parkolóval rendelkezik.",
+            "ro": "Începeți de aici pentru a evita traficul de dimineață. Există o parcare dedicată.",
+            "en": "Start here to avoid the morning town traffic. There's a dedicated car park."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang im Whiteknights Park",
+            "hu": "Séta a Whiteknights Parkban",
+            "ro": "Plimbare în Parcul Whiteknights",
+            "en": "Whiteknights Park Walk"
+          },
+          "coords": [
+            -0.942,
+            51.443
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Spaziergang um den See auf dem Campus der Universität.",
+            "hu": "Tegyen egy rövid sétát a tó körül az egyetemi kampuszon.",
+            "ro": "Faceți o scurtă plimbare în jurul lacului din campusul universitar.",
+            "en": "Take a short walk around the lake on the university campus."
+          }
+        },
+        {
+          "name": {
+            "de": "Caversham Court Gärten",
+            "hu": "Caversham Court Gardens",
+            "ro": "Grădinile Curții Caversham",
+            "en": "Caversham Court"
+          },
+          "coords": [
+            -0.972,
+            51.464
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie nach Norden über den Fluss. Es gibt begrenzte Parkmöglichkeiten in der Nähe.",
+            "hu": "Vezessen északra a folyón át. Korlátozott parkolási lehetőség a közelben.",
+            "ro": "Conduceți spre nord peste râu. Există parcare limitată în apropiere.",
+            "en": "Drive north across the river. There is limited nearby street parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Forbury Gärten",
+            "hu": "Forbury Gardens",
+            "ro": "Grădinile Forbury",
+            "en": "Forbury Gardens"
+          },
+          "coords": [
+            -0.9745,
+            51.456
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus The Oracle oder Q-Park und beginnen Sie Ihren Rundgang.",
+            "hu": "Parkoljon a The Oracle vagy a Q-Park parkolóházban, és kezdje meg a gyalogtúrát.",
+            "ro": "Parcați în parcarea The Oracle sau Q-Park și începeți turul pe jos.",
+            "en": "Park at The Oracle or Q-Park car park and start your walking tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinen der Abtei von Reading",
+            "hu": "Readingi apátság romjai",
+            "ro": "Ruinele Abației Reading",
+            "en": "Reading Abbey Ruins"
+          },
+          "coords": [
+            -0.973,
+            51.4558
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von den Gärten zu den beeindruckenden Klosterruinen.",
+            "hu": "Rövid séta a kertektől a lenyűgöző apátsági romokig.",
+            "ro": "O scurtă plimbare de la grădini la ruinele impresionante ale abației.",
+            "en": "A short walk from the gardens into the impressive abbey ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Reading Museum",
+            "hu": "Readingi Múzeum",
+            "ro": "Muzeul Reading",
+            "en": "Reading Museum"
+          },
+          "coords": [
+            -0.971,
+            51.4545
+          ],
+          "category": "museums",
+          "arrive_at": "15:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum befindet sich im Rathaus, einem beeindruckenden viktorianischen Gebäude.",
+            "hu": "A múzeum a Városházán található, egy lenyűgöző viktoriánus épületben.",
+            "ro": "Muzeul este situat în Primărie, o clădire victoriană impresionantă.",
+            "en": "The museum is located in the Town Hall, an impressive Victorian building."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Kennet & Avon Kanal",
+            "hu": "Séta a Kennet és Avon-csatorna mentén",
+            "ro": "Plimbare pe Canalul Kennet & Avon",
+            "en": "Kennet & Avon Canal Walk"
+          },
+          "coords": [
+            -0.9735,
+            51.451
+          ],
+          "category": "natural features",
+          "arrive_at": "17:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem kurzen Spaziergang entlang des Kanals, bevor Sie zu Ihrem Auto zurückkehren.",
+            "hu": "Fejezze be a napot egy rövid sétával a csatorna mentén, mielőtt visszatérne az autójához.",
+            "ro": "Încheiați ziua cu o scurtă plimbare de-a lungul canalului înainte de a vă întoarce la mașină.",
+            "en": "End the day with a brief walk along the canal before heading back to your car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour maximiert die Effizienz, indem sie Sehenswürdigkeiten in Clustern zusammenfasst. Beginnen Sie im Süden am Museum für englisches Landleben, wo das Parken einfach ist. Fahren Sie dann nach Norden nach Caversham für einen ruhigen Spaziergang am Flussufer. Am Nachmittag parken Sie im Zentrum und erkunden zu Fuß das historische Herz von Reading: die Forbury Gardens, die Abteiruinen und das Reading Museum. Ein kurzer Spaziergang entlang des Kanals rundet Ihren Tag ab, bevor Sie zu Ihrem Auto zurückkehren.",
+        "hu": "Ez az autótúra maximalizálja a hatékonyságot a látnivalók csoportosításával. Kezdjen délen, az Angol Vidéki Élet Múzeumánál, ahol könnyű parkolni. Ezután vezessen északra Cavershambe egy csendes folyóparti sétáért. Délután parkoljon le a központban, és fedezze fel gyalog Reading történelmi szívét: a Forbury Gardenst, az apátsági romokat és a Reading Múzeumot. Egy rövid séta a csatorna mentén zárja a napot, mielőtt visszatérne az autójához.",
+        "ro": "Acest tur cu mașina maximizează eficiența prin gruparea atracțiilor. Începeți în sud, la Muzeul Vieții Rurale Engleze, unde parcarea este ușoară. Apoi, conduceți spre nord, la Caversham, pentru o plimbare liniștită pe malul râului. După-amiaza, parcați în centru și explorați pe jos inima istorică a orașului Reading: Grădinile Forbury, ruinele abației și Muzeul Reading. O scurtă plimbare de-a lungul canalului încheie ziua înainte de a vă întoarce la mașină.",
+        "en": "This car tour maximises efficiency by clustering sights. Start south at the Museum of English Rural Life where parking is easy. Then, drive north to Caversham for a peaceful riverside walk. In the afternoon, park centrally and explore Reading's historic heart on foot: Forbury Gardens, the Abbey Ruins, and Reading Museum. A brief walk along the canal completes your day before returning to your car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Miller of Mansfield (Goring)",
+            "tip": "Wenn Sie Zeit haben, ist dies ein gefeierter Pub, der eine kurze, malerische Fahrt von Reading entfernt liegt."
+          },
+          {
+            "name": "The Cunning Man",
+            "tip": "Ein malerischer Pub am Kanal am Rande der Stadt, der mit dem Auto erreichbar ist."
+          },
+          {
+            "name": "Shed",
+            "tip": "Ein Café im Zentrum, das für seinen hervorragenden Kaffee und seine Sandwiches bekannt ist, ideal für einen schnellen Happen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Miller of Mansfield (Goring)",
+            "tip": "Ha van ideje, ez egy híres pub egy rövid, festői autóútra Readingtől."
+          },
+          {
+            "name": "The Cunning Man",
+            "tip": "Festői csatorna-parti pub a város szélén, autóval elérhető."
+          },
+          {
+            "name": "Shed",
+            "tip": "Kávézó a központban, kiváló kávéjáról és szendvicseiről ismert, ideális egy gyors harapnivalóhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Miller of Mansfield (Goring)",
+            "tip": "Dacă aveți timp, acesta este un pub aclamat la o scurtă și pitorească distanță cu mașina de Reading."
+          },
+          {
+            "name": "The Cunning Man",
+            "tip": "Un pub pitoresc pe malul canalului, la marginea orașului, accesibil cu mașina."
+          },
+          {
+            "name": "Shed",
+            "tip": "O cafenea în centru, cunoscută pentru cafeaua și sandvișurile excelente, ideală pentru o gustare rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Miller of Mansfield (Goring)",
+            "tip": "If you have time, this is an acclaimed pub a short, scenic drive from Reading."
+          },
+          {
+            "name": "The Cunning Man",
+            "tip": "A picturesque canalside pub on the outskirts of town, accessible by car."
+          },
+          {
+            "name": "Shed",
+            "tip": "A central café known for excellent coffee and sandwiches, great for a quick bite."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Basildon Park (National Trust)",
+            "tip": "Ein prächtiges Anwesen, nur eine kurze Autofahrt von Reading entfernt, für einen friedlichen Nachmittag.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The Oracle Riverside",
+            "tip": "Sitzen Sie am späten Nachmittag auf einer Bank am Fluss und beobachten Sie die Welt vorbeiziehen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Harris Garden (University)",
+            "tip": "In der Nähe des MERL, ein friedlicher Ort zum Entspannen nach dem Museumsbesuch.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Basildon Park (National Trust)",
+            "tip": "Pompás birtok egy rövid autóútra Readingtől egy békés délutánért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The Oracle folyópart",
+            "tip": "Üljön le egy padra a folyóparton késő délután, és nézze a világot.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Harris Garden (Egyetem)",
+            "tip": "A MERL közelében, egy békés hely a pihenésre a múzeumi látogatás után.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Basildon (National Trust)",
+            "tip": "O proprietate magnifică la o scurtă distanță cu mașina de Reading, pentru o după-amiază pașnică.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul râului Oracle",
+            "tip": "Stați pe o bancă lângă râu la sfârșitul după-amiezii și priviți lumea trecând.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina Harris (Universitate)",
+            "tip": "Aproape de MERL, un loc pașnic pentru a vă relaxa după vizita la muzeu.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Basildon Park (National Trust)",
+            "tip": "A magnificent country estate a short drive from Reading for a peaceful afternoon.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The Oracle Riverside",
+            "tip": "Sit on a bench by the river in the late afternoon and watch the world go by.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Harris Garden (University)",
+            "tip": "Near MERL, a peaceful place to decompress after your museum visit.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vicars' Meats",
+            "tip": "Ein berühmter Metzgerladen in der Nähe der Stadt, der für seine hochwertigen lokalen Produkte bekannt ist."
+          },
+          {
+            "name": "Gartencenter in der Umgebung",
+            "tip": "Die Landschaft von Berkshire ist voll von Gartencentern, die oft auch Cafés und Geschenkeläden haben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vicars' Meats",
+            "tip": "Híres hentesüzlet a város közelében, amely a minőségi helyi termékeiről ismert."
+          },
+          {
+            "name": "Kertészeti központok a környéken",
+            "tip": "Berkshire vidéke tele van kertészeti központokkal, amelyek gyakran kávézókkal és ajándékboltokkal is rendelkeznek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vicars' Meats",
+            "tip": "O măcelărie renumită lângă oraș, cunoscută pentru produsele locale de înaltă calitate."
+          },
+          {
+            "name": "Centre de grădinărit din jur",
+            "tip": "Zona rurală din Berkshire este plină de centre de grădinărit care au adesea și cafenele și magazine de cadouri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vicars' Meats",
+            "tip": "A famous butcher near the town, known for high-quality local produce."
+          },
+          {
+            "name": "Surrounding Garden Centres",
+            "tip": "The Berkshire countryside is full of garden centres that often have cafés and gift shops too."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Park-and-Ride-Dienste, um das Fahren im Stadtzentrum zu vermeiden.",
+          "Parken im Stadtzentrum kann teuer sein; Parkhäuser wie The Oracle sind am bequemsten.",
+          "Achten Sie auf Busspuren, die zu bestimmten Zeiten aktiv sind.",
+          "Planen Sie Ihre Fahrten außerhalb der Stoßzeiten (7:30-9:30 und 16:30-18:30), wenn möglich."
+        ],
+        "hu": [
+          "Használja a Park and Ride szolgáltatásokat, hogy elkerülje a városközponti vezetést.",
+          "A városközponti parkolás drága lehet; a parkolóházak, mint a The Oracle, a legkényelmesebbek.",
+          "Vigyázzon a buszsávokra, amelyek bizonyos időpontokban aktívak.",
+          "Ha lehetséges, tervezze az utazásokat a csúcsidőn kívülre (7:30-9:30 és 16:30-18:30)."
+        ],
+        "ro": [
+          "Folosiți serviciile Park and Ride pentru a evita condusul în centrul orașului.",
+          "Parcarea în centrul orașului poate fi scumpă; parcările multietajate precum The Oracle sunt cele mai convenabile.",
+          "Fiți atenți la benzile de autobuz, care sunt active la anumite ore.",
+          "Planificați-vă călătoriile în afara orelor de vârf (7:30-9:30 și 16:30-18:30), dacă este posibil."
+        ],
+        "en": [
+          "Use the Park and Ride services to avoid driving in the town centre.",
+          "Town centre parking can be expensive; multi-storey car parks like The Oracle are most convenient.",
+          "Be aware of bus lanes which are active at certain times.",
+          "Plan your drives to avoid rush hour (7:30-9:30 am and 4:30-6:30 pm) if possible."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ruinen der Abtei von Reading & Forbury Gärten",
+            "hu": "Readingi apátság romjai és Forbury Gardens",
+            "ro": "Ruinele Abației Reading și Grădinile Forbury",
+            "en": "Reading Abbey Ruins & Forbury Gardens"
+          },
+          "coords": [
+            -0.973,
+            51.4558
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie am Bahnhof von Reading, der nur einen kurzen Spaziergang entfernt ist.",
+            "hu": "Kezdje a Reading vasútállomáson, amely csak egy rövid sétára van.",
+            "ro": "Începeți de la gara Reading, care se află la o scurtă plimbare.",
+            "en": "Start at Reading railway station, which is just a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Reading Museum",
+            "hu": "Readingi Múzeum",
+            "ro": "Muzeul Reading",
+            "en": "Reading Museum"
+          },
+          "coords": [
+            -0.971,
+            51.4545
+          ],
+          "category": "museums",
+          "arrive_at": "10:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein einfacher Spaziergang durch das Stadtzentrum von der Abtei aus.",
+            "hu": "Könnyű séta a városközponton keresztül az apátságtól.",
+            "ro": "O plimbare ușoară prin centrul orașului de la abație.",
+            "en": "An easy walk through the town centre from the abbey."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für englisches Landleben (MERL)",
+            "hu": "Angol Vidéki Élet Múzeuma (MERL)",
+            "ro": "Muzeul Vieții Rurale Engleze (MERL)",
+            "en": "Museum of English Rural Life (MERL)"
+          },
+          "coords": [
+            -0.945,
+            51.446
+          ],
+          "category": "museums",
+          "arrive_at": "12:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus der 'Claret'-Route vom Stadtzentrum zur Universität.",
+            "hu": "Vegyen egy 'Claret' útvonalú buszt a városközpontból az egyetemre.",
+            "ro": "Luați un autobuz pe ruta 'Claret' din centrul orașului spre universitate.",
+            "en": "Take a 'Claret' route bus from the town centre to the university."
+          }
+        },
+        {
+          "name": {
+            "de": "Kennet & Avon Kanal",
+            "hu": "Kennet és Avon-csatorna",
+            "ro": "Canalul Kennet & Avon",
+            "en": "Kennet & Avon Canal"
+          },
+          "coords": [
+            -0.9735,
+            51.451
+          ],
+          "category": "natural features",
+          "arrive_at": "15:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück ins Zentrum und machen Sie einen Spaziergang zum Kanal.",
+            "hu": "Menjen vissza busszal a központba, és sétáljon le a csatornához.",
+            "ro": "Luați autobuzul înapoi în centru și faceți o plimbare până la canal.",
+            "en": "Take the bus back to the centre and walk down to the canal."
+          }
+        },
+        {
+          "name": {
+            "de": "Reading Minster",
+            "hu": "Readingi apátsági templom",
+            "ro": "Mănăstirea din Reading",
+            "en": "Reading Minster"
+          },
+          "coords": [
+            -0.9788,
+            51.4552
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Kanal zum St. Mary's Butts, wo sich der Minster befindet.",
+            "hu": "Rövid séta a csatornától a St. Mary's Butts-ig, ahol az apátsági templom található.",
+            "ro": "O scurtă plimbare de la canal la St Mary's Butts, unde se află mănăstirea.",
+            "en": "A short walk from the canal to St Mary's Butts where the Minster is."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Readings ausgezeichnetes Busnetz macht die Erkundung einfach. Beginnen Sie im historischen Kern rund um die Abtei, der vom Bahnhof aus leicht zu Fuß erreichbar ist. Gehen Sie zum Reading Museum, bevor Sie einen Bus zum faszinierenden Museum für englisches Landleben nehmen. Kehren Sie ins Zentrum zurück für einen Nachmittagsspaziergang entlang des Kennet & Avon Kanals. Beenden Sie Ihre Tour mit einem Besuch des Reading Minster, bevor Sie Ihren Bus oder Zug nach Hause nehmen.",
+        "hu": "Reading kiváló buszhálózata megkönnyíti a felfedezést. Kezdje a történelmi központban, az apátság környékén, amely könnyen megközelíthető a vasútállomásról. Sétáljon el a Reading Múzeumba, mielőtt buszra szállna a lenyűgöző Angol Vidéki Élet Múzeumába. Térjen vissza a központba egy délutáni sétára a Kennet & Avon-csatorna mentén. A túrát a Readingi apátsági templom meglátogatásával fejezze be, mielőtt hazafelé venné a buszt vagy a vonatot.",
+        "ro": "Rețeaua excelentă de autobuze din Reading face explorarea ușoară. Începeți în nucleul istoric din jurul abației, ușor de parcurs pe jos de la gară. Plimbați-vă la Muzeul Reading înainte de a lua un autobuz către fascinantul Muzeu al Vieții Rurale Engleze. Întoarceți-vă în centru pentru o plimbare de după-amiază de-a lungul Canalului Kennet & Avon. Încheiați-vă turul cu o vizită la Mănăstirea din Reading înainte de a lua autobuzul sau trenul spre casă.",
+        "en": "Reading's excellent bus network makes exploring easy. Start in the historic core around the Abbey, easily walkable from the train station. Walk to the Reading Museum before hopping on a bus to the fascinating Museum of English Rural Life. Return to the centre for an afternoon stroll along the Kennet & Avon Canal. Finish your tour with a visit to Reading Minster before catching your bus or train home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Reading Station Food Stalls",
+            "tip": "Schnappen Sie sich einen Kaffee und ein Gebäck, bevor Sie Ihren Tag beginnen."
+          },
+          {
+            "name": "The Greyfriar",
+            "tip": "Ein traditioneller Pub in der Nähe des Bahnhofs, der für seine Kuchen und Biere bekannt ist."
+          },
+          {
+            "name": "Street Food at The Market House",
+            "tip": "In der Nähe vieler zentraler Bushaltestellen, ideal für ein schnelles und abwechslungsreiches Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Readingi állomás ételstandjai",
+            "tip": "Vegyen egy kávét és egy péksüteményt, mielőtt elkezdi a napot."
+          },
+          {
+            "name": "The Greyfriar",
+            "tip": "Hagyományos pub az állomás közelében, pitéiről és söreiről ismert."
+          },
+          {
+            "name": "Street Food a The Market House-ban",
+            "tip": "Sok központi buszmegálló közelében található, ideális egy gyors és változatos ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Standuri de mâncare la Gara Reading",
+            "tip": "Luați o cafea și un produs de patiserie înainte de a vă începe ziua."
+          },
+          {
+            "name": "The Greyfriar",
+            "tip": "Un pub tradițional lângă gară, cunoscut pentru plăcintele și berile sale."
+          },
+          {
+            "name": "Mâncare stradală la The Market House",
+            "tip": "Aproape de multe stații de autobuz centrale, ideal pentru un prânz rapid și variat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Reading Station Food Stalls",
+            "tip": "Grab a coffee and a pastry before you start your day."
+          },
+          {
+            "name": "The Greyfriar",
+            "tip": "A traditional pub near the station known for its pies and ales."
+          },
+          {
+            "name": "Street Food at The Market House",
+            "tip": "Close to many central bus stops, great for a quick and varied lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Oberdeck eines Busses",
+            "tip": "Nehmen Sie Platz auf dem Oberdeck für eine andere Perspektive auf die Stadt, besonders auf der Strecke zur Universität.",
+            "emoji": "🏙️"
+          },
+          {
+            "name": "St. Giles' Churchyard",
+            "tip": "Ein friedlicher, historischer Kirchhof, der etwas abseits der Hauptstraßen liegt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang am Flussufer in Caversham",
+            "tip": "Nehmen Sie einen Bus zur Caversham Bridge und genießen Sie die Ruhe am Fluss.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Busz emeleti szintje",
+            "tip": "Üljön fel az emeletre, hogy más szemszögből lássa a várost, különösen az egyetemi útvonalon.",
+            "emoji": "🏙️"
+          },
+          {
+            "name": "St. Giles' templomkert",
+            "tip": "Békés, történelmi templomkert, kissé távolabb a főbb utcáktól.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Folyóparti séta Cavershamben",
+            "tip": "Menjen busszal a Caversham hídhoz, és élvezze a folyóparti nyugalmat.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etajul superior al unui autobuz",
+            "tip": "Luați un loc la etaj pentru o perspectivă diferită asupra orașului, în special pe ruta spre universitate.",
+            "emoji": "🏙️"
+          },
+          {
+            "name": "Cimitirul Bisericii St. Giles",
+            "tip": "Un cimitir pașnic, istoric, situat puțin în afara străzilor principale.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare pe malul râului în Caversham",
+            "tip": "Luați un autobuz până la Podul Caversham și bucurați-vă de liniștea de lângă râu.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Top deck of a bus",
+            "tip": "Grab a seat on the top deck for a different perspective of the town, especially on the university route.",
+            "emoji": "🏙️"
+          },
+          {
+            "name": "St Giles' Churchyard",
+            "tip": "A peaceful, historic churchyard set back from the main streets.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Riverside walk at Caversham",
+            "tip": "Take a bus to Caversham Bridge and enjoy the tranquility by the river.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "The Oracle Shopping Centre",
+            "tip": "Direkt neben wichtigen Bushaltestellen und bietet eine breite Palette von Geschäften."
+          },
+          {
+            "name": "John Lewis",
+            "tip": "Ein großes Kaufhaus, das alles von Kleidung bis Elektronik verkauft, in der Nähe der zentralen Haltestellen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Oracle bevásárlóközpont",
+            "tip": "A főbb buszmegállók mellett található, és üzletek széles választékát kínálja."
+          },
+          {
+            "name": "John Lewis",
+            "tip": "Nagy áruház, amely ruházattól az elektronikáig mindent árul, a központi megállók közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul comercial The Oracle",
+            "tip": "Chiar lângă stațiile de autobuz majore, oferind o gamă largă de magazine."
+          },
+          {
+            "name": "John Lewis",
+            "tip": "Un magazin universal mare care vinde de la haine la electronice, aproape de stațiile centrale."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Oracle Shopping Centre",
+            "tip": "Right next to major bus stops and offers a wide range of shops."
+          },
+          {
+            "name": "John Lewis",
+            "tip": "A large department store selling everything from clothes to electronics, near the central stops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte ('day pass') für unbegrenzte Fahrten mit den Bussen von Reading.",
+          "Nutzen Sie die Reading Buses App, um Busse in Echtzeit zu verfolgen und Ihre Reise zu planen.",
+          "Die meisten Busse akzeptieren kontaktlose Zahlungen, was den Kauf von Fahrkarten erleichtert.",
+          "Die Busse können zu Stoßzeiten voll sein, planen Sie also zusätzliche Zeit ein."
+        ],
+        "hu": [
+          "Vásároljon napijegyet ('day pass') a korlátlan utazáshoz a Reading buszain.",
+          "Használja a Reading Buses alkalmazást a buszok valós idejű követésére és az utazás megtervezésére.",
+          "A legtöbb busz elfogadja az érintésmentes fizetést, ami megkönnyíti a jegyvásárlást.",
+          "A buszok zsúfoltak lehetnek csúcsidőben, ezért tervezzen plusz időt."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi ('day pass') pentru călătorii nelimitate cu autobuzele din Reading.",
+          "Utilizați aplicația Reading Buses pentru a urmări autobuzele în timp real și a vă planifica călătoria.",
+          "Majoritatea autobuzelor acceptă plăți contactless, ceea ce face achiziționarea biletelor ușoară.",
+          "Autobuzele pot fi aglomerate la orele de vârf, așa că acordați-vă timp suplimentar."
+        ],
+        "en": [
+          "Buy a 'day pass' for unlimited travel on Reading's buses.",
+          "Use the Reading Buses app to track buses in real-time and plan your journey.",
+          "Most buses accept contactless payments, making buying tickets easy.",
+          "Buses can be crowded during peak hours, so allow for extra time."
+        ]
+      }
+    }
+  }
+}

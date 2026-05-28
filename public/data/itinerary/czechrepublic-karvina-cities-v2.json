@@ -1,0 +1,1460 @@
+{
+  "city_id": "czechrepublic-karvina-cities-v2",
+  "anchor": {
+    "name": "Karwin",
+    "coords": [
+      18.5414,
+      49.854
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Masaryk-Platz",
+            "hu": "Masaryk tér",
+            "ro": "Piața Masaryk",
+            "en": "Masaryk Square"
+          },
+          "coords": [
+            18.5414,
+            49.854
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag im Herzen der Stadt, umgeben von historischer Architektur.",
+            "hu": "Kezdje a napot a város szívében, történelmi épületekkel körülvéve.",
+            "ro": "Începeți ziua în inima orașului, înconjurat de arhitectură istorică.",
+            "en": "Start your day in the heart of the city, surrounded by historical architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Karviná",
+            "hu": "Karvinái Városháza",
+            "ro": "Primăria Karviná",
+            "en": "Karviná Town Hall"
+          },
+          "coords": [
+            18.541,
+            49.8542
+          ],
+          "category": "landmark",
+          "arrive_at": "09:39",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie das beeindruckende Gebäude, das die lokale Verwaltung beherbergt.",
+            "hu": "Csodálja meg a lenyűgöző épületet, amely a helyi közigazgatásnak ad otthont.",
+            "ro": "Admirați clădirea impresionantă care găzduiește administrația locală.",
+            "en": "Admire the impressive building that houses the local administration."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Peter-von-Alcantara-Kirche",
+            "hu": "Szent Péter von Alcantara-templom",
+            "ro": "Biserica Sf. Petru de Alcantara",
+            "en": "Church of St. Peter of Alcantara"
+          },
+          "coords": [
+            18.542,
+            49.853
+          ],
+          "category": "churches",
+          "arrive_at": "10:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese schiefe Kirche ist ein einzigartiges Fotomotiv aufgrund von Bergbauschäden.",
+            "hu": "Ez a ferde templom egyedülálló fotótéma a bányászat okozta süllyedés miatt.",
+            "ro": "Această biserică înclinată este un subiect foto unic datorită surpărilor miniere.",
+            "en": "This leaning church is a unique photo opportunity due to mining subsidence."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Fryštát",
+            "hu": "Fryštát-kastély",
+            "ro": "Castelul Fryštát",
+            "en": "Fryštát Chateau"
+          },
+          "coords": [
+            18.544,
+            49.8555
+          ],
+          "category": "castles",
+          "arrive_at": "10:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil, um die opulenten Innenräume zu sehen.",
+            "hu": "Vegyen részt egy tárlatvezetésen, hogy megtekinthesse a pazar belső tereket.",
+            "ro": "Participați la un tur ghidat pentru a vedea interioarele opulente.",
+            "en": "Join a guided tour to see the opulent interiors."
+          }
+        },
+        {
+          "name": {
+            "de": "Park Boženy Němcové",
+            "hu": "Božena Němcová Park",
+            "ro": "Parcul Božena Němcová",
+            "en": "Božena Němcová Park"
+          },
+          "coords": [
+            18.548,
+            49.857
+          ],
+          "category": "parks",
+          "arrive_at": "12:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekt für ein Mittagspicknick oder einen entspannten Spaziergang am See.",
+            "hu": "Tökéletes egy déli piknikhez vagy egy pihentető sétához a tó mellett.",
+            "ro": "Perfect pentru un picnic la prânz sau o plimbare relaxantă pe malul lacului.",
+            "en": "Perfect for a midday picnic or a relaxing stroll by the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Lázně Darkov (Heilbad)",
+            "hu": "Darkov Gyógyfürdő",
+            "ro": "Băile Darkov",
+            "en": "Darkov Spa"
+          },
+          "coords": [
+            18.525,
+            49.835
+          ],
+          "category": "landmark",
+          "arrive_at": "14:28",
+          "stay_min": 157,
+          "hop_from_prev_min": 43,
+          "hop_from_prev_km": 2.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Auch wenn Sie keine Behandlung buchen, ist die Architektur des Kurhauses sehenswert.",
+            "hu": "Még ha nem is vesz igénybe kezelést, a fürdőház építészete megér egy látogatást.",
+            "ro": "Chiar dacă nu rezervați un tratament, arhitectura spa-ului merită văzută.",
+            "en": "Even if not booking a treatment, the spa house architecture is worth seeing."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Karviná beginnt am zentralen Masaryk-Platz, dem pulsierenden Herzen der Stadt. Von hier aus erkunden Sie zu Fuß das nahegelegene Rathaus und die berühmte schiefe Kirche St. Peter von Alcantara, ein Zeugnis der Bergbaugeschichte der Region. Der Vormittag gipfelt in einem Besuch des prächtigen Schlosses Fryštát, wo Sie in die aristokratische Vergangenheit eintauchen.\nNach der Kultur am Morgen ist es Zeit für Entspannung. Der angrenzende Boženy Němcové Park bietet eine grüne Oase für einen Mittagsspaziergang oder ein Picknick. Hier können Sie die Natur genießen und sich für den zweiten Teil Ihres Tages stärken. Der Park ist ein beliebter Treffpunkt für Einheimische und Besucher gleichermaßen.\nAm Nachmittag führt Sie ein längerer Spaziergang zum berühmten Heilbad Lázně Darkov. Die einzigartige Architektur und die ruhige Atmosphäre des Kurortes sind eine Welt für sich. Nehmen Sie sich Zeit, das Gelände zu erkunden und die heilende Umgebung auf sich wirken zu lassen.\nDer Tag klingt in der friedlichen Umgebung des Kurparks aus. Lassen Sie die vielfältigen Eindrücke des Tages Revue passieren, von der städtischen Architektur über die herrschaftliche Pracht bis hin zur beruhigenden Natur des Heilbades, bevor Sie Ihren Weg zurück antreten.",
+        "hu": "Karvinái napja a központi Masaryk téren kezdődik, a város lüktető szívében. Innen gyalogosan fedezi fel a közeli Városházát és a híres ferde Szent Péter von Alcantara-templomot, amely a régió bányászati múltjának tanúja. A délelőtt a csodálatos Fryštát-kastély meglátogatásával csúcsosodik ki, ahol elmerülhet az arisztokrata múltban.\nA délelőtti kultúra után itt az ideje a pihenésnek. A szomszédos Božena Němcová Park zöld oázist kínál egy déli sétához vagy piknikhez. Itt élvezheti a természetet és erőt gyűjthet a nap második felére. A park a helyiek és a látogatók kedvelt találkozóhelye.\nDélután egy hosszabb séta vezet a híres Darkov Gyógyfürdőhöz. A gyógyhely egyedi építészete és nyugodt légköre egy külön világ. Szánjon időt a terület felfedezésére, és hagyja, hogy a gyógyító környezet hasson önre.\nA nap a fürdőpark békés környezetében ér véget. Idézze fel a nap sokszínű benyomásait, a városi építészettől a főúri pompán át a gyógyfürdő nyugtató természetéig, mielőtt visszaindulna.",
+        "ro": "Ziua dumneavoastră în Karviná începe în Piața centrală Masaryk, inima vibrantă a orașului. De aici, explorați pe jos Primăria din apropiere și faimoasa biserică înclinată a Sfântului Petru de Alcantara, o mărturie a istoriei miniere a regiunii. Dimineața culminează cu o vizită la magnificul Castel Fryštát, unde vă veți cufunda în trecutul aristocratic.\nDupă cultura de dimineață, este timpul pentru relaxare. Parcul adiacent Božena Němcová oferă o oază de verdeață pentru o plimbare de prânz sau un picnic. Aici vă puteți bucura de natură și vă puteți reîncărca pentru a doua parte a zilei. Parcul este un loc de întâlnire popular atât pentru localnici, cât și pentru vizitatori.\nDupă-amiaza, o plimbare mai lungă vă va duce la faimosul spa Lázně Darkov. Arhitectura unică și atmosfera liniștită a stațiunii balneare sunt o lume în sine. Acordați-vă timp pentru a explora terenul și pentru a absorbi mediul vindecător.\nZiua se încheie în împrejurimile pașnice ale parcului spa. Reflectați asupra impresiilor diverse ale zilei, de la arhitectura urbană și splendoarea nobiliară la natura liniștitoare a spa-ului, înainte de a vă întoarce.",
+        "en": "Your day in Karviná begins at the central Masaryk Square, the vibrant heart of the city. From here, you'll explore the nearby Town Hall and the famous leaning Church of St. Peter of Alcantara on foot, a testament to the region's mining history. The morning culminates in a visit to the magnificent Fryštát Chateau, where you'll delve into the aristocratic past.\nAfter the morning's culture, it's time for relaxation. The adjacent Božena Němcová Park offers a green oasis for a midday stroll or a picnic. Here you can enjoy nature and recharge for the second part of your day. The park is a popular meeting place for locals and visitors alike.\nIn the afternoon, a longer walk takes you to the famous Lázně Darkov spa. The unique architecture and tranquil atmosphere of the spa resort are a world unto themselves. Take your time to explore the grounds and soak in the healing environment.\nThe day concludes in the peaceful surroundings of the spa park. Reflect on the day's diverse impressions, from urban architecture and stately splendor to the calming nature of the spa, before making your way back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schlesische Kartoffelklöße",
+            "tip": "Ein herzhaftes lokales Gericht, oft mit Gulasch oder gebratenem Fleisch serviert."
+          },
+          {
+            "name": "Zelná polévka (Kohlsuppe)",
+            "tip": "Eine traditionelle Suppe, die besonders im Winter wärmt."
+          },
+          {
+            "name": "Restaurace a penzion U Lesa",
+            "tip": "Bekannt für seine traditionelle tschechische Küche in einer gemütlichen Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sziléziai burgonyagombóc",
+            "tip": "Kiadós helyi étel, gyakran gulyással vagy sült hússal tálalva."
+          },
+          {
+            "name": "Zelná polévka (Káposztaleves)",
+            "tip": "Hagyományos leves, amely különösen télen melegít."
+          },
+          {
+            "name": "Restaurace a penzion U Lesa",
+            "tip": "Hagyományos cseh konyhájáról ismert, hangulatos légkörben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Găluște de cartofi sileziene",
+            "tip": "Un fel de mâncare local consistent, adesea servit cu gulaș sau friptură."
+          },
+          {
+            "name": "Zelná polévka (Supă de varză)",
+            "tip": "O supă tradițională care te încălzește, mai ales iarna."
+          },
+          {
+            "name": "Restaurace a penzion U Lesa",
+            "tip": "Renumit pentru bucătăria sa tradițională cehă într-o atmosferă primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Silesian potato dumplings",
+            "tip": "A hearty local dish, often served with goulash or roasted meat."
+          },
+          {
+            "name": "Zelná polévka (Cabbage soup)",
+            "tip": "A traditional soup that is especially warming in winter."
+          },
+          {
+            "name": "Restaurace a penzion U Lesa",
+            "tip": "Known for its traditional Czech cuisine in a cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park Boženy Němcové",
+            "tip": "Finden Sie eine ruhige Bank am See und beobachten Sie die Schwäne.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kurpark von Lázně Darkov",
+            "tip": "Die gepflegten Gärten und stillen Wege laden zur Meditation ein.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ufer des Flusses Olsa",
+            "tip": "Ein Spaziergang entlang des Flusses kann sehr beruhigend sein.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Božena Němcová Park",
+            "tip": "Keressen egy csendes padot a tónál, és nézze a hattyúkat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Darkov Gyógyfürdő parkja",
+            "tip": "A gondozott kertek és csendes ösvények meditációra hívnak.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Olza folyó partja",
+            "tip": "Egy séta a folyó mentén nagyon megnyugtató lehet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Božena Němcová",
+            "tip": "Găsiți o bancă liniștită lângă lac și priviți lebedele.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul balnear din Lázně Darkov",
+            "tip": "Grădinile îngrijite și aleile liniștite invită la meditație.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malul râului Olza",
+            "tip": "O plimbare de-a lungul râului poate fi foarte liniștitoare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Božena Němcová Park",
+            "tip": "Find a quiet bench by the lake and watch the swans.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spa Park of Lázně Darkov",
+            "tip": "The manicured gardens and quiet paths are perfect for meditation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Banks of the Olza River",
+            "tip": "A walk along the river can be very calming.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Märkte",
+            "tip": "Halten Sie Ausschau nach saisonalen Märkten für lokale Produkte und Handwerk."
+          },
+          {
+            "name": "Souvenirs im Schloss Fryštát",
+            "tip": "Der Geschenkeladen im Schloss bietet oft einzigartige Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piacok",
+            "tip": "Keresse a szezonális piacokat helyi termékekért és kézműves árukért."
+          },
+          {
+            "name": "Ajándéktárgyak a Fryštát-kastélyban",
+            "tip": "A kastély ajándékboltja gyakran kínál egyedi emléktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe locale",
+            "tip": "Căutați piețele sezoniere pentru produse locale și artizanat."
+          },
+          {
+            "name": "Suveniruri la Castelul Fryštát",
+            "tip": "Magazinul de cadouri al castelului oferă adesea suveniruri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Markets",
+            "tip": "Look out for seasonal markets for local produce and handicrafts."
+          },
+          {
+            "name": "Souvenirs at Fryštát Chateau",
+            "tip": "The chateau's gift shop often offers unique keepsakes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da dieser Plan viel zu Fuß gehen beinhaltet.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit, um hydriert zu bleiben.",
+          "Prüfen Sie die Öffnungszeiten von Schloss Fryštát im Voraus.",
+          "Ein kleiner Rucksack ist nützlich für Snacks und Souvenirs."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel ez a terv sok gyaloglást tartalmaz.",
+          "Hozzon magával egy újratölthető vizes palackot, hogy hidratált maradjon.",
+          "Előre ellenőrizze a Fryštát-kastély nyitvatartási idejét.",
+          "Egy kis hátizsák hasznos lehet a rágcsálnivalók és ajándéktárgyak számára."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece acest plan implică mult mers pe jos.",
+          "Luați cu voi o sticlă de apă reutilizabilă pentru a vă menține hidratați.",
+          "Verificați în avans programul de funcționare al Castelului Fryštát.",
+          "Un rucsac mic este util pentru gustări și suveniruri."
+        ],
+        "en": [
+          "Wear comfortable shoes as this plan involves a lot of walking.",
+          "Bring a reusable water bottle to stay hydrated.",
+          "Check the opening hours of Fryštát Chateau in advance.",
+          "A small backpack is useful for carrying snacks and souvenirs."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Masaryk-Platz",
+            "hu": "Masaryk tér",
+            "ro": "Piața Masaryk",
+            "en": "Masaryk Square"
+          },
+          "coords": [
+            18.5414,
+            49.854
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein idealer Ausgangspunkt für Ihre Radtour durch die Stadt.",
+            "hu": "Ideális kiindulópont a városi kerékpártúrához.",
+            "ro": "Un punct de plecare ideal pentru turul cu bicicleta al orașului.",
+            "en": "An ideal starting point for your bike tour of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Fryštát & Park Boženy Němcové",
+            "hu": "Fryštát-kastély & Božena Němcová Park",
+            "ro": "Castelul Fryštát & Parcul Božena Němcová",
+            "en": "Fryštát Chateau & Božena Němcová Park"
+          },
+          "coords": [
+            18.546,
+            49.856
+          ],
+          "category": "castles",
+          "arrive_at": "09:36",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Kombinieren Sie Kultur und Natur. Schließen Sie Ihr Rad an und erkunden Sie beides.",
+            "hu": "Kombinálja a kultúrát a természettel. Zárja le a kerékpárját, és fedezze fel mindkettőt.",
+            "ro": "Combinați cultura cu natura. Lăsați bicicleta și explorați ambele.",
+            "en": "Combine culture and nature. Lock up your bike and explore both."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Kreuzerhöhung",
+            "hu": "Szent Kereszt Felmagasztalása templom",
+            "ro": "Biserica Înălțarea Sfintei Cruci",
+            "en": "Church of the Exaltation of the Holy Cross"
+          },
+          "coords": [
+            18.551,
+            49.858
+          ],
+          "category": "churches",
+          "arrive_at": "11:12",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer Halt bei dieser Kirche bietet einen Moment der Ruhe.",
+            "hu": "Egy rövid megálló ennél a templomnál egy pillanatnyi nyugalmat kínál.",
+            "ro": "O scurtă oprire la această biserică oferă un moment de liniște.",
+            "en": "A short stop at this church offers a moment of peace."
+          }
+        },
+        {
+          "name": {
+            "de": "Darkov-Brücke",
+            "hu": "Darkov-híd",
+            "ro": "Podul Darkov",
+            "en": "Darkov Bridge"
+          },
+          "coords": [
+            18.528,
+            49.8365
+          ],
+          "category": "bridges",
+          "arrive_at": "12:06",
+          "stay_min": 20,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine beeindruckende Bogenbrücke, ideal für ein Erinnerungsfoto.",
+            "hu": "Lenyűgöző ívhíd, ideális egy emlékkép készítéséhez.",
+            "ro": "Un pod arcuit impresionant, ideal pentru o fotografie de suvenir.",
+            "en": "An impressive arch bridge, ideal for a souvenir photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Lázně Darkov (Heilbad)",
+            "hu": "Darkov Gyógyfürdő",
+            "ro": "Băile Darkov",
+            "en": "Darkov Spa"
+          },
+          "coords": [
+            18.525,
+            49.835
+          ],
+          "category": "landmark",
+          "arrive_at": "12:32",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Rad ab und genießen Sie ein Mittagessen in einem der Kur-Restaurants.",
+            "hu": "Tegye le a kerékpárt, és ebédeljen a gyógyfürdő egyik éttermében.",
+            "ro": "Lăsați bicicleta și bucurați-vă de un prânz la unul dintre restaurantele spa.",
+            "en": "Park your bike and enjoy lunch at one of the spa's restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Peter-von-Alcantara-Kirche",
+            "hu": "Szent Péter von Alcantara-templom",
+            "ro": "Biserica Sf. Petru de Alcantara",
+            "en": "Church of St. Peter of Alcantara"
+          },
+          "coords": [
+            18.542,
+            49.853
+          ],
+          "category": "churches",
+          "arrive_at": "14:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der 'schiefe Turm von Karviná' ist auf dem Rückweg ins Zentrum ein Muss.",
+            "hu": "A 'karvinái ferde torony' kötelező látnivaló a központba való visszaúton.",
+            "ro": "'Turnul înclinat din Karviná' este o vizită obligatorie pe drumul de întoarcere spre centru.",
+            "en": "The 'leaning tower of Karviná' is a must-see on your way back to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Ausklang am Masaryk-Platz",
+            "hu": "Levezetés a Masaryk téren",
+            "ro": "Relaxare în Piața Masaryk",
+            "en": "Wind-down at Masaryk Square"
+          },
+          "coords": [
+            18.5414,
+            49.854
+          ],
+          "category": "squares",
+          "arrive_at": "15:09",
+          "stay_min": 72,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem Kaffee in einem der Cafés am Platz.",
+            "hu": "Zárja a túrát egy kávéval a tér egyik kávézójában.",
+            "ro": "Încheiați turul cu o cafea la una dintre cafenelele din piață.",
+            "en": "End your tour with a coffee at one of the square's cafes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich in den Sattel und beginnen Sie Ihre Radtour am Masaryk-Platz. Die erste Etappe führt Sie zum Schloss Fryštát und dem angrenzenden Park, eine perfekte Kombination aus Kultur und Natur. Nach einer kurzen Fahrt erreichen Sie die Kirche der Kreuzerhöhung für einen Moment der Stille.\nDie Mittagstour führt Sie aus dem Stadtzentrum heraus zur beeindruckenden Darkov-Brücke und weiter zum Kurort Lázně Darkov. Dies ist der ideale Ort für eine ausgedehnte Mittagspause. Genießen Sie die ruhige Atmosphäre und die einzigartige Architektur, bevor Sie sich wieder auf den Weg machen.\nAm Nachmittag radeln Sie zurück in Richtung Zentrum. Ein wichtiger Stopp ist die schiefe Kirche St. Peter von Alcantara, ein faszinierendes Wahrzeichen der Stadt. Ihre Neigung macht sie zu einem unvergesslichen Anblick.\nIhre Radtour endet dort, wo sie begonnen hat: am Masaryk-Platz. Hier können Sie in einem der vielen Cafés entspannen und die Erlebnisse des Tages bei einer Tasse Kaffee oder einem kühlen Getränk Revue passieren lassen.",
+        "hu": "Pattanjon nyeregbe, és kezdje kerékpártúráját a Masaryk térről. Az első szakasz a Fryštát-kastélyhoz és a szomszédos parkhoz vezet, amely a kultúra és a természet tökéletes kombinációja. Egy rövid tekerés után elérheti a Szent Kereszt Felmagasztalása templomot egy csendes pillanatra.\nA déli túra kivezeti a városközpontból a lenyűgöző Darkov-hídhoz, majd tovább a Darkov Gyógyfürdőhöz. Ez az ideális hely egy hosszabb ebédszünetre. Élvezze a nyugodt légkört és az egyedi építészetet, mielőtt újra útra kelne.\nDélután visszateker a központ felé. Fontos megálló a ferde Szent Péter von Alcantara-templom, a város lenyűgöző nevezetessége. Dőlése felejthetetlen látvánnyá teszi.\nA kerékpártúra ott ér véget, ahol elkezdődött: a Masaryk téren. Itt pihenhet az egyik kávézóban, és egy csésze kávé vagy egy hűsítő ital mellett felidézheti a nap élményeit.",
+        "ro": "Urcați-vă pe bicicletă și începeți turul din Piața Masaryk. Prima etapă vă duce la Castelul Fryštát și la parcul adiacent, o combinație perfectă de cultură și natură. După o scurtă pedalare, ajungeți la Biserica Înălțarea Sfintei Cruci pentru un moment de liniște.\nTurul de la prânz vă scoate din centrul orașului către impresionantul Pod Darkov și mai departe către stațiunea balneară Lázně Darkov. Acesta este locul ideal pentru o pauză de prânz prelungită. Bucurați-vă de atmosfera liniștită și de arhitectura unică înainte de a porni din nou la drum.\nDupă-amiaza, pedalați înapoi spre centru. O oprire importantă este biserica înclinată a Sfântului Petru de Alcantara, un reper fascinant al orașului. Înclinația sa o face o priveliște de neuitat.\nTurul cu bicicleta se încheie acolo unde a început: în Piața Masaryk. Aici vă puteți relaxa la una dintre numeroasele cafenele și puteți rememora experiențele zilei la o ceașcă de cafea sau o băutură rece.",
+        "en": "Get on your bike and start your tour from Masaryk Square. The first leg takes you to Fryštát Chateau and the adjacent park, a perfect combination of culture and nature. After a short ride, you'll reach the Church of the Exaltation of the Holy Cross for a moment of peace.\nThe midday tour takes you out of the city center to the impressive Darkov Bridge and on to the Lázně Darkov spa resort. This is the ideal place for an extended lunch break. Enjoy the quiet atmosphere and unique architecture before you set off again.\nIn the afternoon, you'll cycle back towards the center. An important stop is the leaning Church of St. Peter of Alcantara, a fascinating city landmark. Its tilt makes it an unforgettable sight.\nYour bike tour ends where it began: at Masaryk Square. Here you can relax in one of the many cafes and reflect on the day's experiences over a cup of coffee or a cool drink."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smažený sýr",
+            "tip": "Panierter und gebratener Käse, ein tschechischer Klassiker, der Energie für die Radtour gibt."
+          },
+          {
+            "name": "Kofola vom Fass",
+            "tip": "Probieren Sie das lokale Kräuter-Cola als erfrischende Alternative."
+          },
+          {
+            "name": "Restaurant Zámeček Petrovice",
+            "tip": "Ein wenig außerhalb, aber mit dem Rad erreichbar, bietet gehobene Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smažený sýr",
+            "tip": "Rántott sajt, egy cseh klasszikus, amely energiát ad a kerékpártúrához."
+          },
+          {
+            "name": "Csapolt Kofola",
+            "tip": "Kóstolja meg a helyi gyógynövényes kólát frissítő alternatívaként."
+          },
+          {
+            "name": "Restaurant Zámeček Petrovice",
+            "tip": "Kicsit kijjebb esik, de kerékpárral elérhető, és elegáns konyhát kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smažený sýr",
+            "tip": "Brânză pane prăjită, un clasic ceh care vă oferă energie pentru turul cu bicicleta."
+          },
+          {
+            "name": "Kofola la halbă",
+            "tip": "Încercați cola locală din plante ca o alternativă răcoritoare."
+          },
+          {
+            "name": "Restaurant Zámeček Petrovice",
+            "tip": "Puțin în afara orașului, dar accesibil cu bicicleta, oferă bucătărie rafinată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smažený sýr",
+            "tip": "Fried cheese, a Czech classic that provides energy for the bike tour."
+          },
+          {
+            "name": "Draught Kofola",
+            "tip": "Try the local herbal cola as a refreshing alternative."
+          },
+          {
+            "name": "Restaurant Zámeček Petrovice",
+            "tip": "A bit outside but reachable by bike, offering fine dining."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt entlang der Olsa",
+            "tip": "Viele Radwege folgen dem Fluss und bieten eine friedliche Kulisse.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bänke im Kurpark Darkov",
+            "tip": "Ein idealer Ort für eine Pause im Schatten.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Versteckte Ecken im Park Boženy Němcové",
+            "tip": "Abseits der Hauptwege finden Sie ruhige Plätze.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tekerés az Olza mentén",
+            "tip": "Sok kerékpárút követi a folyót, békés hátteret biztosítva.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Padok a Darkov Gyógyfürdő parkjában",
+            "tip": "Ideális hely egy árnyékos pihenőre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Rejtett zugok a Božena Němcová Parkban",
+            "tip": "A fő utaktól távol csendes helyeket talál.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului Olza",
+            "tip": "Multe piste de biciclete urmează cursul râului, oferind un peisaj pașnic.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bănci în parcul balnear Darkov",
+            "tip": "Un loc ideal pentru o pauză la umbră.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Colțuri ascunse în Parcul Božena Němcová",
+            "tip": "Departe de aleile principale veți găsi locuri liniștite.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ride along the Olza River",
+            "tip": "Many cycle paths follow the river, offering a peaceful backdrop.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Benches in Darkov Spa Park",
+            "tip": "An ideal place for a break in the shade.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Hidden corners in Božena Němcová Park",
+            "tip": "Away from the main paths, you'll find quiet spots.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Lokale Geschäfte bieten Zubehör oder schnelle Reparaturen an."
+          },
+          {
+            "name": "Bauernmärkte am Stadtrand",
+            "tip": "Mit dem Rad leicht erreichbar, um frische lokale Produkte zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "A helyi üzletek kiegészítőket vagy gyors javításokat kínálnak."
+          },
+          {
+            "name": "Termelői piacok a város szélén",
+            "tip": "Kerékpárral könnyen elérhetők, hogy friss helyi termékeket vásároljon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Magazinele locale oferă accesorii sau reparații rapide."
+          },
+          {
+            "name": "Piețe agricole la periferia orașului",
+            "tip": "Ușor accesibile cu bicicleta pentru a cumpăra produse locale proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "Local shops offer accessories or quick repairs."
+          },
+          {
+            "name": "Farmer's markets on the outskirts",
+            "tip": "Easily reachable by bike to buy fresh local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck und die Bremsen vor Beginn der Tour.",
+          "Ein Helm wird dringend empfohlen.",
+          "Nutzen Sie die ausgewiesenen Radwege, wo immer möglich.",
+          "Schließen Sie Ihr Fahrrad immer an, wenn Sie es unbeaufsichtigt lassen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást és a fékeket.",
+          "A sisak használata erősen ajánlott.",
+          "Ahol csak lehetséges, használja a kijelölt kerékpárutakat.",
+          "Mindig zárja le a kerékpárját, ha felügyelet nélkül hagyja."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope și frânele înainte de a începe turul.",
+          "Se recomandă insistent purtarea căștii.",
+          "Folosiți pistele de biciclete desemnate ori de câte ori este posibil.",
+          "Legați întotdeauna bicicleta când o lăsați nesupravegheată."
+        ],
+        "en": [
+          "Check your tire pressure and brakes before starting the tour.",
+          "A helmet is strongly recommended.",
+          "Use the designated cycle paths wherever possible.",
+          "Always lock your bike when leaving it unattended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 11.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Start: Parken am Masaryk-Platz",
+            "hu": "Klaszter kezdete: Parkolás a Masaryk téren",
+            "ro": "Start Cluster: Parcare în Piața Masaryk",
+            "en": "Cluster Start: Parking at Masaryk Square"
+          },
+          "coords": [
+            18.5414,
+            49.854
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto in der Nähe und erkunden Sie das historische Zentrum zu Fuß.",
+            "hu": "Parkolja le az autót a közelben, és fedezze fel gyalog a történelmi központot.",
+            "ro": "Parcați mașina în apropiere și explorați centrul istoric pe jos.",
+            "en": "Park your car nearby and explore the historic center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Fryštát",
+            "hu": "Fryštát-kastély",
+            "ro": "Castelul Fryštát",
+            "en": "Fryštát Chateau"
+          },
+          "coords": [
+            18.544,
+            49.8555
+          ],
+          "category": "castles",
+          "arrive_at": "09:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz führt Sie zu diesem prächtigen Wahrzeichen.",
+            "hu": "Egy rövid séta a térről elvezeti ehhez a csodálatos nevezetességhez.",
+            "ro": "O scurtă plimbare din piață vă duce la acest reper magnific.",
+            "en": "A short walk from the square takes you to this magnificent landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Peter-von-Alcantara-Kirche",
+            "hu": "Szent Péter von Alcantara-templom",
+            "ro": "Biserica Sf. Petru de Alcantara",
+            "en": "Church of St. Peter of Alcantara"
+          },
+          "coords": [
+            18.542,
+            49.853
+          ],
+          "category": "churches",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie zurück durch den Platz, um dieses einzigartige, geneigte Bauwerk zu sehen.",
+            "hu": "Sétáljon vissza a téren keresztül, hogy megnézze ezt az egyedülálló, dőlt építményt.",
+            "ro": "Mergeți înapoi prin piață pentru a vedea această structură unică, înclinată.",
+            "en": "Walk back through the square to see this unique, tilted structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Cluster Lázně Darkov",
+            "hu": "Utazás a Darkov Gyógyfürdő klaszterhez",
+            "ro": "Călătorie spre Clusterul Băile Darkov",
+            "en": "Drive to Lázně Darkov Cluster"
+          },
+          "coords": [
+            18.525,
+            49.835
+          ],
+          "category": "landmark",
+          "arrive_at": "12:07",
+          "stay_min": 90,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Zeit für einen Szenenwechsel. Fahren Sie zum Kurort für Mittagessen und Entspannung.",
+            "hu": "Itt az ideje a környezetváltozásnak. Vezessen a gyógyfürdőbe ebédelni és pihenni.",
+            "ro": "Timpul pentru o schimbare de decor. Conduceți spre stațiunea balneară pentru prânz și relaxare.",
+            "en": "Time for a change of scenery. Drive to the spa for lunch and relaxation."
+          }
+        },
+        {
+          "name": {
+            "de": "Darkov-Brücke",
+            "hu": "Darkov-híd",
+            "ro": "Podul Darkov",
+            "en": "Darkov Bridge"
+          },
+          "coords": [
+            18.528,
+            49.8365
+          ],
+          "category": "bridges",
+          "arrive_at": "13:40",
+          "stay_min": 20,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Kurpark aus ist es nur ein kurzer Spaziergang zu dieser eleganten Brücke.",
+            "hu": "A gyógyparkból csak egy rövid séta ez az elegáns híd.",
+            "ro": "De la parcul spa este doar o scurtă plimbare până la acest pod elegant.",
+            "en": "From the spa park, it's just a short walk to this elegant bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Abschluss im Park Boženy Němcové",
+            "hu": "Befejezés a Božena Němcová Parkban",
+            "ro": "Încheiere în Parcul Božena Němcová",
+            "en": "Conclusion at Božena Němcová Park"
+          },
+          "coords": [
+            18.548,
+            49.857
+          ],
+          "category": "parks",
+          "arrive_at": "14:20",
+          "stay_min": 170,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kehren Sie zum Auto zurück und fahren Sie zum Park für einen letzten entspannten Spaziergang.",
+            "hu": "Térjen vissza az autóhoz, és vezessen a parkba egy utolsó, pihentető sétára.",
+            "ro": "Întoarceți-vă la mașină și conduceți spre parc pentru o ultimă plimbare relaxantă.",
+            "en": "Return to the car and drive to the park for a final relaxing walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Karviná beginnt mit strategischem Parken im Zentrum. Der erste Cluster konzentriert sich auf das historische Herz: den Masaryk-Platz, das prächtige Schloss Fryštát und die faszinierende schiefe Kirche. Alles ist bequem zu Fuß erreichbar, sodass Sie die Atmosphäre aufsaugen können.\nZur Mittagszeit steigen Sie wieder ins Auto und fahren zum zweiten Cluster, dem ruhigen Kurort Lázně Darkov. Hier können Sie in einem der Restaurants zu Mittag essen und anschließend einen Spaziergang zur eleganten Darkov-Brücke machen. Dieser Ortswechsel bietet einen schönen Kontrast zum städtischen Treiben.\nAm Nachmittag kehren Sie zum Auto zurück für eine kurze Fahrt zum weitläufigen Park Boženy Němcové. Dies ist der perfekte Ort, um den Tag ausklingen zu lassen. Genießen Sie die Natur, spazieren Sie am See entlang und lassen Sie die Eindrücke des Tages sacken.\nDer Cluster-Ansatz ermöglicht es Ihnen, sowohl die zentralen Sehenswürdigkeiten als auch die entspannteren Orte am Rande der Stadt effizient zu erleben. Der Tag endet mit der Flexibilität, von Ihrem letzten Halt aus direkt die Heim- oder Weiterreise anzutreten.",
+        "hu": "Autós napja Karvinában stratégiai parkolással kezdődik a központban. Az első klaszter a történelmi szívre összpontosít: a Masaryk térre, a csodálatos Fryštát-kastélyra és a lenyűgöző ferde templomra. Minden kényelmesen elérhető gyalog, így magába szívhatja a hangulatot.\nDélidőben szálljon vissza az autóba, és vezessen a második klaszterhez, a csendes Darkov Gyógyfürdőhöz. Itt megebédelhet az egyik étteremben, majd tehet egy sétát az elegáns Darkov-hídhoz. Ez a helyszínváltás szép kontrasztot kínál a városi nyüzsgéssel szemben.\nDélután térjen vissza az autóhoz egy rövid útra a tágas Božena Němcová Parkba. Ez a tökéletes hely a nap lezárásához. Élvezze a természetet, sétáljon a tó mentén, és hagyja leülepedni a nap benyomásait.\nA klaszter-megközelítés lehetővé teszi, hogy hatékonyan megtapasztalja mind a központi látnivalókat, mind a város szélén található pihentetőbb helyeket. A nap azzal a rugalmassággal ér véget, hogy az utolsó megállóból közvetlenül hazaindulhat vagy továbbutazhat.",
+        "ro": "Ziua dumneavoastră cu mașina în Karviná începe cu o parcare strategică în centru. Primul cluster se concentrează pe inima istorică: Piața Masaryk, magnificul Castel Fryštát și fascinanta biserică înclinată. Totul este ușor accesibil pe jos, permițându-vă să absorbiți atmosfera.\nLa prânz, vă urcați din nou în mașină și conduceți spre al doilea cluster, stațiunea balneară liniștită Lázně Darkov. Aici puteți lua prânzul la unul dintre restaurante și apoi puteți face o plimbare până la elegantul Pod Darkov. Această schimbare de locație oferă un contrast plăcut cu agitația urbană.\nDupă-amiaza, vă întoarceți la mașină pentru o scurtă călătorie spre vastul Parc Boženy Němcové. Acesta este locul perfect pentru a încheia ziua. Bucurați-vă de natură, plimbați-vă pe malul lacului și lăsați impresiile zilei să se așeze.\nAbordarea pe clustere vă permite să experimentați eficient atât atracțiile centrale, cât și locurile mai relaxate de la marginea orașului. Ziua se încheie cu flexibilitatea de a pleca direct acasă sau de a continua călătoria de la ultima oprire.",
+        "en": "Your car day in Karviná starts with strategic parking in the center. The first cluster focuses on the historic heart: Masaryk Square, the magnificent Fryštát Chateau, and the fascinating leaning church. Everything is within easy walking distance, allowing you to soak up the atmosphere.\nAt lunchtime, get back in the car and drive to the second cluster, the tranquil Lázně Darkov spa resort. Here you can have lunch in one of the restaurants and then take a walk to the elegant Darkov Bridge. This change of location offers a nice contrast to the urban bustle.\nIn the afternoon, return to the car for a short drive to the expansive Boženy Němcové Park. This is the perfect place to wind down the day. Enjoy nature, stroll along the lake, and let the day's impressions sink in.\nThe cluster approach allows you to efficiently experience both the central sights and the more relaxed places on the outskirts. The day ends with the flexibility to head straight home or continue your journey from your last stop."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gulasch mit Knödeln",
+            "tip": "Ein Klassiker, der in vielen traditionellen Restaurants in der Innenstadt zu finden ist."
+          },
+          {
+            "name": "Pivnice U Pásků",
+            "tip": "Ein authentisches tschechisches Pub-Erlebnis mit gutem Bier und deftigem Essen."
+          },
+          {
+            "name": "Kaffee und Kuchen im Kurhaus",
+            "tip": "Gönnen Sie sich eine süße Pause in der eleganten Atmosphäre des Lázně Darkov."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gulyás knédlivel",
+            "tip": "Klasszikus, amely a belváros számos hagyományos éttermében megtalálható."
+          },
+          {
+            "name": "Pivnice U Pásků",
+            "tip": "Autentikus cseh kocsmaélmény jó sörrel és kiadós ételekkel."
+          },
+          {
+            "name": "Kávé és sütemény a fürdőházban",
+            "tip": "Kényeztesse magát egy édes szünettel a Lázně Darkov elegáns légkörében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gulaș cu găluște",
+            "tip": "Un clasic care se găsește în multe restaurante tradiționale din centrul orașului."
+          },
+          {
+            "name": "Pivnice U Pásků",
+            "tip": "O experiență autentică de pub ceh, cu bere bună și mâncare consistentă."
+          },
+          {
+            "name": "Cafea și prăjituri la casa balneară",
+            "tip": "Răsfățați-vă cu o pauză dulce în atmosfera elegantă de la Lázně Darkov."
+          }
+        ],
+        "en": [
+          {
+            "name": "Goulash with dumplings",
+            "tip": "A classic found in many traditional restaurants in the city center."
+          },
+          {
+            "name": "Pivnice U Pásků",
+            "tip": "An authentic Czech pub experience with good beer and hearty food."
+          },
+          {
+            "name": "Coffee and cake at the spa house",
+            "tip": "Treat yourself to a sweet break in the elegant atmosphere of Lázně Darkov."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof neben der Kreuzerhöhungskirche",
+            "tip": "Ein Ort der Stille und Geschichte.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Spaziergang im Kurpark Darkov",
+            "tip": "Die sorgfältig angelegten Wege sind ideal für einen ruhigen Moment.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Der See im Park Boženy Němcové",
+            "tip": "Finden Sie einen abgelegenen Platz am Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Temető a Szent Kereszt Felmagasztalása templom mellett",
+            "tip": "A csend és a történelem helye.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Séta a Darkov Gyógyfürdő parkjában",
+            "tip": "A gondosan kialakított utak ideálisak egy csendes pillanatra.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A tó a Božena Němcová Parkban",
+            "tip": "Keressen egy félreeső helyet a vízparton.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul de lângă Biserica Înălțarea Sfintei Cruci",
+            "tip": "Un loc de liniște și istorie.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Plimbare în parcul balnear Darkov",
+            "tip": "Cărările atent amenajate sunt ideale pentru un moment de liniște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Lacul din Parcul Božena Němcové",
+            "tip": "Găsiți un loc retras lângă apă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cemetery next to the Church of the Exaltation of the Holy Cross",
+            "tip": "A place of silence and history.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Walk in the Darkov Spa Park",
+            "tip": "The carefully laid out paths are ideal for a quiet moment.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "The lake in Božena Němcová Park",
+            "tip": "Find a secluded spot by the water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kur-Oblaten (Lázeňské oplatky)",
+            "tip": "Eine Spezialität, die man in Kurorten findet. Kaufen Sie eine Packung als Souvenir."
+          },
+          {
+            "name": "Lokales Kunsthandwerk",
+            "tip": "Suchen Sie in kleinen Geschäften abseits des Hauptplatzes nach handgefertigten Waren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyógyostya (Lázeňské oplatky)",
+            "tip": "A gyógyfürdőhelyeken található specialitás. Vegyen egy csomaggal emlékként."
+          },
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen kézzel készített árukat a főtértől távolabb eső kis üzletekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Napolitane de spa (Lázeňské oplatky)",
+            "tip": "O specialitate găsită în stațiunile balneare. Cumpărați un pachet ca suvenir."
+          },
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați produse artizanale în magazinele mici de pe străduțele lăturalnice ale pieței principale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Spa wafers (Lázeňské oplatky)",
+            "tip": "A specialty found in spa towns. Buy a pack as a souvenir."
+          },
+          {
+            "name": "Local handicrafts",
+            "tip": "Look for handmade goods in small shops off the main square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Parkmöglichkeiten und -gebühren im Voraus.",
+          "Ein Navigationsgerät ist hilfreich, um zwischen den Clustern zu navigieren.",
+          "Lassen Sie keine Wertsachen sichtbar im Auto liegen.",
+          "Planen Sie genügend Zeit für den Verkehr ein, besonders zu Stoßzeiten."
+        ],
+        "hu": [
+          "Előre tájékozódjon a parkolási lehetőségekről és díjakról.",
+          "A navigációs eszköz segít a klaszterek közötti navigálásban.",
+          "Ne hagyjon értéktárgyakat látható helyen az autóban.",
+          "Tervezzen elegendő időt a forgalomra, különösen csúcsidőben."
+        ],
+        "ro": [
+          "Verificați în avans opțiunile de parcare și taxele.",
+          "Un sistem de navigație este util pentru a naviga între clustere.",
+          "Nu lăsați obiecte de valoare la vedere în mașină.",
+          "Planificați suficient timp pentru trafic, mai ales la orele de vârf."
+        ],
+        "en": [
+          "Check parking options and fees in advance.",
+          "A navigation device is helpful for navigating between clusters.",
+          "Do not leave valuables visible in the car.",
+          "Allow enough time for traffic, especially during peak hours."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:02",
+      "total_km": 8.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Hauptbahnhof/Busbahnhof",
+            "hu": "Érkezés a főpályaudvarra/buszpályaudvarra",
+            "ro": "Sosire la Gara Centrală/Autogară",
+            "en": "Arrival at Main Train/Bus Station"
+          },
+          "coords": [
+            18.53,
+            49.851
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr für die beste Flexibilität.",
+            "hu": "Vásároljon napijegyet a tömegközlekedésre a legjobb rugalmasság érdekében.",
+            "ro": "Cumpărați un bilet de o zi pentru transportul public pentru cea mai bună flexibilitate.",
+            "en": "Buy a day pass for public transport for the best flexibility."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Zentrum: Masaryk-Platz",
+            "hu": "Centrum Klaszter: Masaryk tér",
+            "ro": "Cluster Centru: Piața Masaryk",
+            "en": "Center Cluster: Masaryk Square"
+          },
+          "coords": [
+            18.5414,
+            49.854
+          ],
+          "category": "squares",
+          "arrive_at": "09:33",
+          "stay_min": 20,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus ins Zentrum. Von hier aus ist der erste Cluster zu Fuß erreichbar.",
+            "hu": "Menjen busszal a központba. Innen az első klaszter gyalogosan elérhető.",
+            "ro": "Luați autobuzul spre centru. De aici, primul cluster este accesibil pe jos.",
+            "en": "Take the bus to the center. From here, the first cluster is walkable."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Fryštát",
+            "hu": "Fryštát-kastély",
+            "ro": "Castelul Fryštát",
+            "en": "Fryštát Chateau"
+          },
+          "coords": [
+            18.544,
+            49.8555
+          ],
+          "category": "castles",
+          "arrive_at": "09:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie das Schloss und seinen Park, bevor Sie zum nächsten Punkt weitergehen.",
+            "hu": "Fedezze fel a kastélyt és parkját, mielőtt továbbindulna a következő ponthoz.",
+            "ro": "Explorați castelul și parcul său înainte de a trece la următorul punct.",
+            "en": "Explore the castle and its park before moving on to the next point."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Cluster Lázně Darkov",
+            "hu": "Utazás a Darkov Gyógyfürdő klaszterhez",
+            "ro": "Călătorie spre Clusterul Băile Darkov",
+            "en": "Trip to Lázně Darkov Cluster"
+          },
+          "coords": [
+            18.525,
+            49.835
+          ],
+          "category": "landmark",
+          "arrive_at": "11:42",
+          "stay_min": 120,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Suchen Sie die richtige Buslinie, die Sie direkt zum Kurort bringt. Zeit fürs Mittagessen.",
+            "hu": "Keresse meg a megfelelő buszjáratot, amely közvetlenül a gyógyfürdőbe visz. Ideje ebédelni.",
+            "ro": "Găsiți linia de autobuz potrivită care vă duce direct la stațiunea balneară. Timpul pentru prânz.",
+            "en": "Find the right bus line to take you directly to the spa. Time for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Darkov-Brücke",
+            "hu": "Darkov-híd",
+            "ro": "Podul Darkov",
+            "en": "Darkov Bridge"
+          },
+          "coords": [
+            18.528,
+            49.8365
+          ],
+          "category": "bridges",
+          "arrive_at": "13:45",
+          "stay_min": 20,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannter Verdauungsspaziergang führt Sie von den Restaurants zur Brücke.",
+            "hu": "Egy pihentető emésztő séta vezet az éttermektől a hídhoz.",
+            "ro": "O plimbare digestivă relaxantă vă duce de la restaurante la pod.",
+            "en": "A relaxing digestive walk takes you from the restaurants to the bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum & St.-Peter-von-Alcantara-Kirche",
+            "hu": "Visszatérés a központba & Szent Péter von Alcantara-templom",
+            "ro": "Întoarcere în centru & Biserica Sf. Petru de Alcantara",
+            "en": "Return to Center & St. Peter of Alcantara Church"
+          },
+          "coords": [
+            18.542,
+            49.853
+          ],
+          "category": "churches",
+          "arrive_at": "14:41",
+          "stay_min": 141,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück ins Zentrum für Ihren letzten Besichtigungspunkt.",
+            "hu": "Menjen busszal vissza a központba az utolsó látnivalóhoz.",
+            "ro": "Luați autobuzul înapoi în centru pentru ultimul punct de vizitare.",
+            "en": "Take the bus back to the center for your final sightseeing stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr autofreier Tag beginnt mit der Ankunft am Bahnhof und dem Kauf einer Tageskarte. Der erste Bus bringt Sie ins Herz der Stadt, zum Masaryk-Platz. Von hier aus erkunden Sie den ersten Cluster zu Fuß: das Schloss Fryštát und seinen Park. Genießen Sie die zentrale Atmosphäre, bevor Sie zum nächsten Ziel aufbrechen.\nUm die Mittagszeit nehmen Sie einen weiteren Bus, der Sie aus der Stadt zum zweiten Cluster, dem Heilbad Lázně Darkov, bringt. Dieser ruhige Ort ist perfekt für eine entspannte Mittagspause. Nach dem Essen spazieren Sie zur nahegelegenen Darkov-Brücke, einem architektonischen Highlight.\nAm Nachmittag bringt Sie der Bus zurück ins Zentrum. Hier besuchen Sie die letzte große Sehenswürdigkeit des Tages: die bemerkenswerte schiefe Kirche St. Peter von Alcantara. Ihre einzigartige Geschichte und Erscheinung bilden einen denkwürdigen Abschluss Ihres Rundgangs.\nDer Tag endet mit einem gemütlichen Ausklang in einem Café in der Innenstadt, bevor Sie den Bus zurück zum Bahnhof nehmen. Dieser Plan zeigt, wie einfach es ist, Karvinás Hauptattraktionen mit öffentlichen Verkehrsmitteln zu entdecken, indem man Spaziergänge und Busfahrten geschickt kombiniert.",
+        "hu": "Autómentes napja a pályaudvarra érkezéssel és egy napijegy megvásárlásával kezdődik. Az első busz a város szívébe, a Masaryk térre viszi. Innen gyalogosan fedezi fel az első klasztert: a Fryštát-kastélyt és parkját. Élvezze a központi hangulatot, mielőtt a következő cél felé indul.\nDélidőben egy másik buszra száll, amely kiviszi a városból a második klaszterhez, a Darkov Gyógyfürdőhöz. Ez a csendes hely tökéletes egy pihentető ebédszünethez. Ebéd után sétáljon el a közeli Darkov-hídhoz, egy építészeti gyöngyszemhez.\nDélután a busz visszaviszi a központba. Itt meglátogatja a nap utolsó nagy látványosságát: a figyelemre méltó ferde Szent Péter von Alcantara-templomot. Egyedi története és megjelenése emlékezetes lezárást ad a túrának.\nA nap egy kellemes levezetéssel ér véget egy belvárosi kávézóban, mielőtt busszal visszamenne a pályaudvarra. Ez a terv megmutatja, milyen egyszerű felfedezni Karviná főbb látnivalóit tömegközlekedéssel, ügyesen kombinálva a sétákat és a buszutakat.",
+        "ro": "Ziua dumneavoastră fără mașină începe cu sosirea la gară și achiziționarea unui bilet de o zi. Primul autobuz vă duce în inima orașului, în Piața Masaryk. De aici, explorați primul cluster pe jos: Castelul Fryštát și parcul său. Bucurați-vă de atmosfera centrală înainte de a porni spre următoarea destinație.\nLa prânz, luați un alt autobuz care vă scoate din oraș spre al doilea cluster, stațiunea balneară Lázně Darkov. Acest loc liniștit este perfect pentru o pauză de prânz relaxantă. După masă, plimbați-vă până la Podul Darkov din apropiere, un punct de atracție arhitectural.\nDupă-amiaza, autobuzul vă aduce înapoi în centru. Aici veți vizita ultima atracție majoră a zilei: remarcabila biserică înclinată a Sfântului Petru de Alcantara. Istoria și aspectul său unic oferă o concluzie memorabilă turului dumneavoastră.\nZiua se încheie cu o relaxare plăcută la o cafenea din centrul orașului înainte de a lua autobuzul înapoi la gară. Acest plan demonstrează cât de ușor este să descoperiți principalele atracții ale Karvinei folosind transportul public, combinând inteligent plimbările pe jos cu călătoriile cu autobuzul.",
+        "en": "Your car-free day begins with arrival at the station and buying a day pass. The first bus takes you to the heart of the city, Masaryk Square. From here, you explore the first cluster on foot: Fryštát Chateau and its park. Enjoy the central atmosphere before heading to the next destination.\nAround noon, you'll take another bus out of the city to the second cluster, the Lázně Darkov spa. This quiet place is perfect for a relaxing lunch break. After your meal, stroll to the nearby Darkov Bridge, an architectural highlight.\nIn the afternoon, the bus takes you back to the center. Here you'll visit the last major sight of the day: the remarkable leaning Church of St. Peter of Alcantara. Its unique history and appearance provide a memorable conclusion to your tour.\nThe day ends with a leisurely wind-down at a downtown café before taking the bus back to the station. This plan shows how easy it is to discover Karviná's main attractions by public transport, cleverly combining walks and bus rides."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei-Snack",
+            "tip": "Holen Sie sich unterwegs ein süßes oder herzhaftes Gebäck (koláč) von einer lokalen Bäckerei."
+          },
+          {
+            "name": "Lokales Bier (Pivo)",
+            "tip": "Beenden Sie den Tag in einem Pub in der Nähe Ihrer letzten Haltestelle."
+          },
+          {
+            "name": "Restaurace Fryštátská chalupa",
+            "tip": "Ein traditionelles Restaurant in der Nähe des Schlosses, gut für ein frühes Abendessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Péksütemény",
+            "tip": "Vegyen egy édes vagy sós süteményt (koláč) egy helyi pékségből útközben."
+          },
+          {
+            "name": "Helyi sör (Pivo)",
+            "tip": "Zárja a napot egy kocsmában az utolsó megálló közelében."
+          },
+          {
+            "name": "Restaurace Fryštátská chalupa",
+            "tip": "Hagyományos étterem a kastély közelében, jó egy korai vacsorára."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gustare de la patiserie",
+            "tip": "Luați un produs de patiserie dulce sau sărat (koláč) de la o brutărie locală pe drum."
+          },
+          {
+            "name": "Bere locală (Pivo)",
+            "tip": "Încheiați ziua la un pub aproape de ultima oprire."
+          },
+          {
+            "name": "Restaurace Fryštátská chalupa",
+            "tip": "Un restaurant tradițional lângă castel, bun pentru o cină timpurie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery snack",
+            "tip": "Grab a sweet or savory pastry (koláč) from a local bakery on the go."
+          },
+          {
+            "name": "Local beer (Pivo)",
+            "tip": "End the day at a pub near your last stop."
+          },
+          {
+            "name": "Restaurace Fryštátská chalupa",
+            "tip": "A traditional restaurant near the castle, good for an early dinner."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt aus der Stadt",
+            "tip": "Beobachten Sie die vorbeiziehende Landschaft und genießen Sie einen Moment der Ruhe.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Hinterer Teil des Schlossparks",
+            "tip": "Entfliehen Sie den Menschenmassen in den ruhigeren Abschnitten des Parks.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Eine stille Bank in Lázně Darkov",
+            "tip": "Atmen Sie tief durch und genießen Sie die heilende Atmosphäre.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás kifelé a városból",
+            "tip": "Nézze az elsuhanó tájat, és élvezze a csend pillanatát.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "A kastélypark hátsó része",
+            "tip": "Meneküljön el a tömeg elől a park csendesebb részein.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Egy csendes pad Darkovban",
+            "tip": "Vegyen egy mély lélegzetet, és élvezze a gyógyító légkört.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătoria cu autobuzul în afara orașului",
+            "tip": "Priviți peisajul care trece și bucurați-vă de un moment de liniște.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Partea din spate a parcului castelului",
+            "tip": "Evadați de mulțime în secțiunile mai liniștite ale parcului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "O bancă liniștită în Lázně Darkov",
+            "tip": "Respirați adânc și bucurați-vă de atmosfera vindecătoare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride out of town",
+            "tip": "Watch the passing scenery and enjoy a moment of peace.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Back of the castle park",
+            "tip": "Escape the crowds in the quieter sections of the park.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A quiet bench in Lázně Darkov",
+            "tip": "Take a deep breath and enjoy the healing atmosphere.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Kaufen Sie Last-Minute-Souvenirs oder einen Snack für die Heimfahrt."
+          },
+          {
+            "name": "Kleine Läden in der Altstadt",
+            "tip": "Entdecken Sie einzigartige Fundstücke, während Sie zum Schloss spazieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszpályaudvaron",
+            "tip": "Vásároljon utolsó pillanatos ajándéktárgyakat vagy harapnivalót a hazaútra."
+          },
+          {
+            "name": "Kis üzletek az óvárosban",
+            "tip": "Fedezzen fel egyedi leleteket, miközben a kastély felé sétál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la autogară",
+            "tip": "Cumpărați suveniruri de ultim moment sau o gustare pentru drumul spre casă."
+          },
+          {
+            "name": "Magazine mici în orașul vechi",
+            "tip": "Descoperiți descoperiri unice în timp ce vă plimbați spre castel."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus station",
+            "tip": "Buy last-minute souvenirs or a snack for the journey home."
+          },
+          {
+            "name": "Small shops in the old town",
+            "tip": "Discover unique finds while walking to the castle."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die offizielle App für den öffentlichen Nahverkehr herunter, um Fahrpläne und Routen in Echtzeit zu sehen.",
+          "Achten Sie auf die Ansagen der Haltestellen oder verfolgen Sie die Route auf Ihrem Handy.",
+          "Eine Powerbank für Ihr Smartphone ist nützlich für die Navigation und Fahrplanabfragen.",
+          "Validieren Sie Ihr Ticket bei Fahrtantritt, um Strafen zu vermeiden."
+        ],
+        "hu": [
+          "Töltse le a hivatalos tömegközlekedési alkalmazást a valós idejű menetrendekért és útvonalakért.",
+          "Figyeljen a megálló-bejelentésekre, vagy kövesse az útvonalat a telefonján.",
+          "Egy powerbank a telefonjához hasznos a navigációhoz és a menetrend-lekérdezésekhez.",
+          "Érvényesítse a jegyét az utazás megkezdésekor, hogy elkerülje a bírságokat."
+        ],
+        "ro": [
+          "Descărcați aplicația oficială de transport public pentru orare și rute în timp real.",
+          "Fiți atenți la anunțurile stațiilor sau urmăriți ruta pe telefon.",
+          "O baterie externă pentru smartphone-ul dvs. este utilă pentru navigație și verificarea orarelor.",
+          "Validați biletul la începutul călătoriei pentru a evita amenzile."
+        ],
+        "en": [
+          "Download the official public transport app for real-time schedules and routes.",
+          "Pay attention to the stop announcements or track the route on your phone.",
+          "A power bank for your smartphone is useful for navigation and schedule lookups.",
+          "Validate your ticket at the start of your journey to avoid fines."
+        ]
+      }
+    }
+  }
+}

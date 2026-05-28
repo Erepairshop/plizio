@@ -1,0 +1,1004 @@
+{
+  "city_id": "gyongyos",
+  "anchor": {
+    "name": "Gyöngyös, Fő tér",
+    "coords": [
+      19.9281,
+      47.7833
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 2.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptplatz (Fő tér)",
+            "hu": "Fő tér",
+            "ro": "Piața Principală (Fő tér)",
+            "en": "Main Square (Fő tér)"
+          },
+          "coords": [
+            19.9281,
+            47.7833
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Kaffee in einem der Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában!",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
+            "en": "Start your day with a coffee at one of the square's cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Bertalan-Kirche",
+            "hu": "Szent Bertalan-templom",
+            "ro": "Biserica Sfântul Bartolomeu",
+            "en": "St. Bartholomew's Church"
+          },
+          "coords": [
+            19.9285,
+            47.7845
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotische Architektur und die beeindruckende Schatzkammer.",
+            "hu": "Csodálja meg a gótikus építészetet és a lenyűgöző kincstárat!",
+            "ro": "Admirați arhitectura gotică și tezaurul impresionant.",
+            "en": "Admire the Gothic architecture and the impressive treasury."
+          }
+        },
+        {
+          "name": {
+            "de": "Franziskanerkirche",
+            "hu": "Ferences templom",
+            "ro": "Biserica Franciscană",
+            "en": "Franciscan Church"
+          },
+          "coords": [
+            19.931,
+            47.783
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:28",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Achten Sie auf die einzigartige barocke Bibliothek neben der Kirche.",
+            "hu": "Figyelje meg a templom melletti egyedülálló barokk könyvtárat!",
+            "ro": "Observați biblioteca barocă unică de lângă biserică.",
+            "en": "Notice the unique Baroque library next to the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Mátra-Museum (Orczy-Schloss)",
+            "hu": "Mátra Múzeum (Orczy-kastély)",
+            "ro": "Muzeul Mátra (Castelul Orczy)",
+            "en": "Mátra Museum (Orczy Castle)"
+          },
+          "coords": [
+            19.923,
+            47.784
+          ],
+          "category": "museums",
+          "arrive_at": "11:23",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht das berühmte Mammutskelett und den Naturpavillon.",
+            "hu": "Ne hagyja ki a híres mamutcsontvázat és a természettudományi pavilont!",
+            "ro": "Nu ratați faimosul schelet de mamut și pavilionul de istorie naturală.",
+            "en": "Don't miss the famous mammoth skeleton and the natural history pavilion."
+          }
+        },
+        {
+          "name": {
+            "de": "Weinmuseum von Gyöngyös",
+            "hu": "Gyöngyösi Bormúzeum",
+            "ro": "Muzeul Vinului din Gyöngyös",
+            "en": "Wine Museum of Gyöngyös"
+          },
+          "coords": [
+            19.927,
+            47.7825
+          ],
+          "category": "museums",
+          "arrive_at": "13:21",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ideal für eine Mittagspause mit Weinprobe der lokalen Mátra-Weine.",
+            "hu": "Ideális egy ebédszünetre a helyi mátrai borok kóstolásával.",
+            "ro": "Ideal pentru o pauză de prânz cu degustare de vinuri locale Mátra.",
+            "en": "Ideal for a lunch break with a tasting of local Mátra wines."
+          }
+        },
+        {
+          "name": {
+            "de": "Szent-Anna-Kapelle",
+            "hu": "Szent Anna-kápolna",
+            "ro": "Capela Sfânta Ana",
+            "en": "St. Anne Chapel"
+          },
+          "coords": [
+            19.934,
+            47.7805
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:09",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort für einen besinnlichen Abschluss des Stadtrundgangs.",
+            "hu": "Csendes hely a városnézés elmélkedő befejezéséhez.",
+            "ro": "Un loc liniștit pentru o încheiere contemplativă a turului orașului.",
+            "en": "A quiet spot for a contemplative end to the city tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang beginnt am lebhaften Fő tér, dem Herzen von Gyöngyös. Am Vormittag erkunden Sie die monumentale St.-Bertalan-Kirche und die nahegelegene Franziskanerkirche. Nach einem tiefen Einblick in die Natur- und Lokalgeschichte im Mátra-Museum zur Mittagszeit, widmen Sie den Nachmittag den Weinen der Region im Bormúzeum. Der Tag endet mit einem friedlichen Besuch der kleinen Szent-Anna-Kapelle.",
+        "hu": "Sétája Gyöngyös szívében, a nyüzsgő Fő téren kezdődik. A délelőtt folyamán felfedezi a monumentális Szent Bertalan-templomot és a közeli Ferences templomot. Délben a Mátra Múzeumban mély betekintést nyer a természet- és helytörténetbe, majd a délutánt a Bormúzeumban a régió borainak szenteli. A napot a csendes Szent Anna-kápolna meglátogatásával zárja.",
+        "ro": "Plimbarea dvs. începe în vibranta Piață Principală, inima orașului Gyöngyös. Dimineața explorați monumentala Biserică Sf. Bartolomeu și Biserica Franciscană din apropiere. La prânz, după o incursiune în istoria naturală și locală la Muzeul Mátra, dedicați după-amiaza vinurilor din regiune la Muzeul Vinului. Ziua se încheie cu o vizită liniștită la mica Capelă Sf. Ana.",
+        "en": "Your walk begins in the lively Main Square, the heart of Gyöngyös. In the morning, you'll explore the monumental St. Bartholomew's Church and the nearby Franciscan Church. After a deep dive into natural and local history at the Mátra Museum at noon, you'll dedicate the afternoon to the region's wines at the Wine Museum. The day concludes with a peaceful visit to the small St. Anne Chapel."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bori Mami Étterem",
+            "tip": "Probieren Sie das 'Mátrai borzaska', ein lokales Schnitzelgericht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bori Mami Étterem",
+            "tip": "Kóstolja meg a mátrai borzaskát, egy helyi specialitást!"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Bori Mami",
+            "tip": "Încercați 'Mátrai borzaska', un șnițel local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bori Mami Restaurant",
+            "tip": "Try the 'Mátrai borzaska', a local schnitzel dish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Garten des Orczy-Schlosses",
+            "tip": "Ein ruhiger Spaziergang nach dem Museumsbesuch.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az Orczy-kastély kertje",
+            "tip": "Csendes séta a múzeumlátogatás után.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Castelului Orczy",
+            "tip": "O plimbare liniștită după vizita la muzeu.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Garden of the Orczy Castle",
+            "tip": "A quiet walk after visiting the museum.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Weinläden",
+            "tip": "Kaufen Sie eine Flasche Mátra-Weißwein als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi borboltok",
+            "tip": "Vásároljon egy üveg mátrai fehérbort szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de vinuri locale",
+            "tip": "Cumpărați o sticlă de vin alb de Mátra ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local wine shops",
+            "tip": "Buy a bottle of Mátra white wine as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum Kopfsteinpflaster hat.",
+          "Die meisten Sehenswürdigkeiten sind zu Fuß erreichbar."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, a belváros macskaköves.",
+          "A legtöbb látnivaló gyalogosan elérhető."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, centrul orașului este pavat cu piatră cubică.",
+          "Majoritatea atracțiilor sunt accesibile pe jos."
+        ],
+        "en": [
+          "Wear comfortable shoes as the city center has cobblestones.",
+          "Most attractions are within walking distance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 8.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptplatz (Fő tér)",
+            "hu": "Fő tér",
+            "ro": "Piața Principală (Fő tér)",
+            "en": "Main Square (Fő tér)"
+          },
+          "coords": [
+            19.9281,
+            47.7833
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Mieten Sie ein Fahrrad in der Nähe, um die Tour zu beginnen.",
+            "hu": "Béreljen a közelben kerékpárt a túra megkezdéséhez!",
+            "ro": "Închiriați o bicicletă din apropiere pentru a începe turul.",
+            "en": "Rent a bike nearby to start the tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Mátra-Museum (Orczy-Schloss)",
+            "hu": "Mátra Múzeum (Orczy-kastély)",
+            "ro": "Muzeul Mátra (Castelul Orczy)",
+            "en": "Mátra Museum (Orczy Castle)"
+          },
+          "coords": [
+            19.923,
+            47.784
+          ],
+          "category": "museums",
+          "arrive_at": "09:35",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, während Sie das Schloss und den Park erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárját, amíg a kastélyt és a parkot fedezi fel.",
+            "ro": "Asigurați-vă bicicleta în timp ce explorați castelul și parcul.",
+            "en": "Lock your bike securely while exploring the castle and its park."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Bertalan-Kirche",
+            "hu": "Szent Bertalan-templom",
+            "ro": "Biserica Sfântul Bartolomeu",
+            "en": "St. Bartholomew's Church"
+          },
+          "coords": [
+            19.9285,
+            47.7845
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:21",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Pause und bewundern Sie das größte gotische Gebäude der Region.",
+            "hu": "Tartson egy rövid szünetet és csodálja meg a régió legnagyobb gótikus épületét.",
+            "ro": "Luați o scurtă pauză pentru a admira cea mai mare clădire gotică din regiune.",
+            "en": "Take a short break to admire the largest Gothic building in the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Mátra-Waldbahn",
+            "hu": "Mátravasút",
+            "ro": "Calea Ferată Forestieră Mátra",
+            "en": "Mátra Forest Railway"
+          },
+          "coords": [
+            19.9195,
+            47.7925
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:19",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Fahrplan für eine kurze nostalgische Fahrt in die Mátra-Berge.",
+            "hu": "Nézze meg a menetrendet egy rövid nosztalgiavasutazáshoz a Mátrába!",
+            "ro": "Verificați orarul pentru o scurtă călătorie nostalgică în Munții Mátra.",
+            "en": "Check the schedule for a short nostalgic ride into the Mátra mountains."
+          }
+        },
+        {
+          "name": {
+            "de": "Mátra-Tor",
+            "hu": "Mátra Kapu",
+            "ro": "Poarta Mátra",
+            "en": "Mátra Gate"
+          },
+          "coords": [
+            19.9333,
+            47.8
+          ],
+          "category": "natural features",
+          "arrive_at": "14:04",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Ein schöner Ort für ein Picknick und den Startpunkt für kurze Wanderungen.",
+            "hu": "Szép hely egy piknikhez és rövid túrák kiindulópontja.",
+            "ro": "Un loc frumos pentru un picnic și punctul de plecare pentru drumeții scurte.",
+            "en": "A lovely spot for a picnic and the starting point for short hikes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt im Stadtzentrum und führt Sie schnell zum Mátra-Museum im Orczy-Schloss. Nach der Kultur radeln Sie zurück ins Zentrum zur St.-Bertalan-Kirche. Der Mittag ist einem Abstecher zur nostalgischen Mátra-Waldbahn gewidmet. Am Nachmittag radeln Sie weiter zum Mátra-Tor, dem symbolischen Eingang zum Mátra-Gebirge, wo Sie die Natur genießen und den Tag ausklingen lassen können.",
+        "hu": "Kerékpártúrája a városközpontból indul, és gyorsan eljut az Orczy-kastélyban található Mátra Múzeumhoz. A kultúra után visszateker a központba, a Szent Bertalan-templomhoz. A dél a nosztalgikus Mátravasúthoz tett kitérőé. Délután továbbteker a Mátra Kapuhoz, a Mátra-hegység szimbolikus bejáratához, ahol élvezheti a természetet és lezárhatja a napot.",
+        "ro": "Turul cu bicicleta începe în centrul orașului și vă duce rapid la Muzeul Mátra din Castelul Orczy. După cultură, pedalați înapoi în centru la Biserica Sf. Bartolomeu. Prânzul este dedicat unei excursii la nostalgica Cale Ferată Forestieră Mátra. După-amiaza, continuați să pedalați spre Poarta Mátra, intrarea simbolică în Munții Mátra, unde vă puteți bucura de natură și încheia ziua.",
+        "en": "Your bike tour starts in the city center and quickly takes you to the Mátra Museum in the Orczy Castle. After some culture, you'll cycle back to the center to St. Bartholomew's Church. Noon is dedicated to a side trip to the nostalgic Mátra Forest Railway. In the afternoon, you'll continue cycling to the Mátra Gate, the symbolic entrance to the Mátra Mountains, where you can enjoy nature and end the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kékes Étterem",
+            "tip": "Traditionelle ungarische Küche in der Nähe des Stadtzentrums."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kékes Étterem",
+            "tip": "Hagyományos magyar konyha a városközpont közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Kékes",
+            "tip": "Bucătărie tradițională maghiară lângă centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kékes Restaurant",
+            "tip": "Traditional Hungarian cuisine near the city center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sástó",
+            "tip": "Ein kurzer Abstecher mit dem Rad zum höchsten natürlichen See Ungarns.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sástó",
+            "tip": "Rövid kitérő kerékpárral Magyarország legmagasabban fekvő természetes tavához.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sástó",
+            "tip": "O scurtă deviere cu bicicleta la cel mai înalt lac natural din Ungaria.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sástó",
+            "tip": "A short detour by bike to Hungary's highest natural lake.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bauernmarkt",
+            "tip": "Kaufen Sie lokalen Honig und handgemachte Produkte (prüfen Sie die Markttage)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői piac",
+            "tip": "Vásároljon helyi mézet és kézműves termékeket (ellenőrizze a piaci napokat!)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați miere locală și produse artizanale (verificați zilele de piață)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farmers' Market",
+            "tip": "Buy local honey and handmade products (check for market days)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Einige Strecken in Richtung Mátra haben leichte Steigungen.",
+          "Nehmen Sie eine Flasche Wasser mit, besonders für die Fahrt zum Mátra-Tor."
+        ],
+        "hu": [
+          "Néhány szakasz a Mátra felé enyhén emelkedik.",
+          "Vigyen magával egy üveg vizet, különösen a Mátra Kapu felé vezető útra."
+        ],
+        "ro": [
+          "Unele trasee spre Mátra au pante ușoare.",
+          "Luați o sticlă de apă, mai ales pentru drumul spre Poarta Mátra."
+        ],
+        "en": [
+          "Some routes towards the Mátra have slight inclines.",
+          "Take a bottle of water, especially for the ride to the Mátra Gate."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 35.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz im Stadtzentrum & Hauptplatz",
+            "hu": "Belvárosi parkoló és Fő tér",
+            "ro": "Parcare în centru și Piața Principală",
+            "en": "City Center Parking & Main Square"
+          },
+          "coords": [
+            19.9281,
+            47.7833
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto hier für den ersten Teil des Tages.",
+            "hu": "Parkolja le az autót a nap első részére.",
+            "ro": "Parcați mașina aici pentru prima parte a zilei.",
+            "en": "Park your car here for the first part of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Bertalan-Kirche",
+            "hu": "Szent Bertalan-templom",
+            "ro": "Biserica Sfântul Bartolomeu",
+            "en": "St. Bartholomew's Church"
+          },
+          "coords": [
+            19.9285,
+            47.7845
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:30",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz.",
+            "hu": "Rövid séta a Fő térről.",
+            "ro": "O scurtă plimbare din Piața Principală.",
+            "en": "A short walk from the Main Square."
+          }
+        },
+        {
+          "name": {
+            "de": "Mátra-Museum (Orczy-Schloss)",
+            "hu": "Mátra Múzeum (Orczy-kastély)",
+            "ro": "Muzeul Mátra (Castelul Orczy)",
+            "en": "Mátra Museum (Orczy Castle)"
+          },
+          "coords": [
+            19.923,
+            47.784
+          ],
+          "category": "museums",
+          "arrive_at": "10:18",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte und Natur der Mátra-Region.",
+            "hu": "Fedezze fel a Mátra-vidék gazdag történelmét és természetét!",
+            "ro": "Descoperiți istoria și natura bogată a regiunii Mátra.",
+            "en": "Discover the rich history and nature of the Mátra region."
+          }
+        },
+        {
+          "name": {
+            "de": "Oxygen Adrenalin Park",
+            "hu": "Oxygen Adrenalin Park",
+            "ro": "Oxygen Adrenalin Park",
+            "en": "Oxygen Adrenalin Park"
+          },
+          "coords": [
+            20.015,
+            47.825
+          ],
+          "category": "natural features",
+          "arrive_at": "12:13",
+          "stay_min": 150,
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für Abenteuer und Mittagessen mit Panoramablick.",
+            "hu": "Kalandra és egy panorámás ebédre kiváló hely.",
+            "ro": "Un loc minunat pentru aventură și un prânz cu vedere panoramică.",
+            "en": "A great place for adventure and lunch with a panoramic view."
+          }
+        },
+        {
+          "name": {
+            "de": "Mátra-Waldbahn",
+            "hu": "Mátravasút",
+            "ro": "Calea Ferată Forestieră Mátra",
+            "en": "Mátra Forest Railway"
+          },
+          "coords": [
+            19.9195,
+            47.7925
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:13",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 19.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zurück in Richtung Stadt und halten Sie für eine nostalgische Zugfahrt.",
+            "hu": "Vezessen vissza a város felé, és álljon meg egy nosztalgiavonatozásra.",
+            "ro": "Conduceți înapoi spre oraș și opriți-vă pentru o călătorie cu trenul nostalgic.",
+            "en": "Drive back towards town and stop for a nostalgic train ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Weingut in der Mátra-Region",
+            "hu": "Pincészet a Mátrai borvidéken",
+            "ro": "Cramă în regiunea viticolă Mátra",
+            "en": "Winery in the Mátra region"
+          },
+          "coords": [
+            19.9,
+            47.77
+          ],
+          "category": "gastro",
+          "arrive_at": "16:29",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einer Weinprobe der berühmten lokalen Weißweine.",
+            "hu": "Zárja a napot a híres helyi fehérborok kóstolásával.",
+            "ro": "Încheiați ziua cu o degustare a faimoaselor vinuri albe locale.",
+            "en": "End the day with a tasting of the famous local white wines."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt mit dem Parken im Zentrum von Gyöngyös. Sie erkunden zu Fuß den Hauptplatz, die St.-Bertalan-Kirche und das Mátra-Museum. Am späten Vormittag fahren Sie in die Mátra-Berge zum Oxygen Adrenalin Park für Abenteuer und Mittagessen. Auf dem Rückweg am Nachmittag halten Sie bei der Mátra-Waldbahn für eine nostalgische Fahrt, bevor Sie den Tag in einem lokalen Weingut ausklingen lassen.",
+        "hu": "A nap Gyöngyös központjában parkolással kezdődik. Gyalogosan fedezi fel a Fő teret, a Szent Bertalan-templomot és a Mátra Múzeumot. Késő délelőtt autóval indul a Mátra-hegységbe az Oxygen Adrenalin Parkba kalandra és ebédre. Délután visszafelé megáll a Mátravasútnál egy nosztalgiavonatozásra, mielőtt egy helyi pincészetben zárná a napot.",
+        "ro": "Ziua începe cu parcarea în centrul orașului Gyöngyös. Explorați pe jos Piața Principală, Biserica Sf. Bartolomeu și Muzeul Mátra. Spre sfârșitul dimineții, conduceți spre Munții Mátra la Oxygen Adrenalin Park pentru aventură și prânz. Pe drumul de întoarcere după-amiaza, opriți-vă la Calea Ferată Forestieră Mátra pentru o plimbare nostalgică, înainte de a încheia ziua la o cramă locală.",
+        "en": "The day starts by parking in the center of Gyöngyös. You'll explore the Main Square, St. Bartholomew's Church, and the Mátra Museum on foot. In the late morning, you drive into the Mátra Mountains to the Oxygen Adrenalin Park for adventure and lunch. On the way back in the afternoon, you stop at the Mátra Forest Railway for a nostalgic ride before ending the day at a local winery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Vida Tanya Étterem",
+            "tip": "Genießen Sie authentische ungarische Gerichte in einer rustikalen Umgebung außerhalb der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vida Tanya Étterem",
+            "tip": "Élvezze az autentikus magyar ételeket egy rusztikus környezetben a városon kívül."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Vida Tanya",
+            "tip": "Bucurați-vă de mâncăruri maghiare autentice într-un cadru rustic în afara orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vida Tanya Restaurant",
+            "tip": "Enjoy authentic Hungarian dishes in a rustic setting outside the city."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kékestető Aussichtspunkt",
+            "tip": "Fahren Sie zum höchsten Punkt Ungarns für eine atemberaubende Aussicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kékestetői kilátó",
+            "tip": "Autózzon fel Magyarország legmagasabb pontjára a lélegzetelállító kilátásért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Kékestető",
+            "tip": "Conduceți până la cel mai înalt punct din Ungaria pentru o priveliște uluitoare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kékestető Viewpoint",
+            "tip": "Drive to the highest point in Hungary for a breathtaking view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Abasári Bolt",
+            "tip": "Ein ausgezeichneter Ort, um preisgekrönte Weine aus der Region zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Abasári Bolt",
+            "tip": "Kiváló hely díjnyertes borok vásárlására a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Abasár",
+            "tip": "Un loc excelent pentru a cumpăra vinuri premiate din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Abasár Bolt",
+            "tip": "An excellent place to buy award-winning wines from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Öffnungszeiten des Adrenalin-Parks im Voraus.",
+          "Planen Sie genügend Zeit für die Bergstraßen ein."
+        ],
+        "hu": [
+          "Előre ellenőrizze az Adrenalin Park nyitvatartási idejét.",
+          "Tervezzen elegendő időt a hegyi utakra."
+        ],
+        "ro": [
+          "Verificați în avans programul parcului de adrenalină.",
+          "Planificați suficient timp pentru drumurile montane."
+        ],
+        "en": [
+          "Check the opening hours of the Adrenalin Park in advance.",
+          "Allow enough time for the mountain roads."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptplatz (Fő tér)",
+            "hu": "Fő tér",
+            "ro": "Piața Principală (Fő tér)",
+            "en": "Main Square (Fő tér)"
+          },
+          "coords": [
+            19.9281,
+            47.7833
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Der Busbahnhof ist in der Nähe. Beginnen Sie hier Ihre Erkundung.",
+            "hu": "A buszpályaudvar a közelben van. Kezdje itt a felfedezést!",
+            "ro": "Autogara este în apropiere. Începeți explorarea de aici.",
+            "en": "The bus station is nearby. Start your exploration here."
+          }
+        },
+        {
+          "name": {
+            "de": "Franziskanerkirche",
+            "hu": "Ferences templom",
+            "ro": "Biserica Franciscană",
+            "en": "Franciscan Church"
+          },
+          "coords": [
+            19.931,
+            47.783
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz durch die Altstadtgassen.",
+            "hu": "Rövid séta a Fő térről az óváros utcáin keresztül.",
+            "ro": "O scurtă plimbare din Piața Principală pe străduțele orașului vechi.",
+            "en": "A short walk from the main square through the old town alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Mátra-Museum (Orczy-Schloss)",
+            "hu": "Mátra Múzeum (Orczy-kastély)",
+            "ro": "Muzeul Mátra (Castelul Orczy)",
+            "en": "Mátra Museum (Orczy Castle)"
+          },
+          "coords": [
+            19.923,
+            47.784
+          ],
+          "category": "museums",
+          "arrive_at": "10:28",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Das größte Museum der Stadt ist ein Muss.",
+            "hu": "A város legnagyobb múzeuma kötelező látnivaló.",
+            "ro": "Cel mai mare muzeu din oraș este o vizită obligatorie.",
+            "en": "The city's largest museum is a must-see."
+          }
+        },
+        {
+          "name": {
+            "de": "Mátrafüred (erreichbar mit Bus)",
+            "hu": "Mátrafüred (busszal elérhető)",
+            "ro": "Mátrafüred (accesibil cu autobuzul)",
+            "en": "Mátrafüred (reachable by bus)"
+          },
+          "coords": [
+            19.983,
+            47.833
+          ],
+          "category": "natural features",
+          "arrive_at": "12:38",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus nach Mátrafüred für ein Mittagessen in den Bergen.",
+            "hu": "Menjen helyi busszal Mátrafüredre egy hegyi ebédre!",
+            "ro": "Luați un autobuz local spre Mátrafüred pentru un prânz la munte.",
+            "en": "Take a local bus to Mátrafüred for lunch in the mountains."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Bertalan-Kirche",
+            "hu": "Szent Bertalan-templom",
+            "ro": "Biserica Sfântul Bartolomeu",
+            "en": "St. Bartholomew's Church"
+          },
+          "coords": [
+            19.9285,
+            47.7845
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:08",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Kehren Sie ins Stadtzentrum zurück, um die größte Kirche zu besichtigen.",
+            "hu": "Térjen vissza a városközpontba, hogy megnézze a legnagyobb templomot.",
+            "ro": "Întoarceți-vă în centrul orașului pentru a vizita cea mai mare biserică.",
+            "en": "Return to the city center to visit the largest church."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie am Hauptplatz, der leicht vom Busbahnhof aus zu erreichen ist. Der Vormittag ist der Erkundung des historischen Zentrums zu Fuß gewidmet, einschließlich der Franziskanerkirche und dem Mátra-Museum. Zur Mittagszeit nehmen Sie einen Bus nach Mátrafüred, um die Bergluft und ein traditionelles Essen zu genießen. Am Nachmittag kehren Sie in die Stadt zurück, um den Tag mit einem Besuch der beeindruckenden St.-Bertalan-Kirche abzuschließen.",
+        "hu": "Kezdje a Fő téren, amely könnyen megközelíthető a buszpályaudvarról. A délelőtt a történelmi központ gyalogos felfedezéséé, beleértve a Ferences templomot és a Mátra Múzeumot. Délben busszal utazik Mátrafüredre, hogy élvezze a hegyi levegőt és egy hagyományos ebédet. Délután visszatér a városba, hogy a napot a lenyűgöző Szent Bertalan-templom meglátogatásával zárja.",
+        "ro": "Începeți în Piața Principală, ușor accesibilă de la autogară. Dimineața este dedicată explorării pe jos a centrului istoric, inclusiv Biserica Franciscană și Muzeul Mátra. La prânz, luați un autobuz spre Mátrafüred pentru a vă bucura de aerul de munte și de o masă tradițională. După-amiaza, vă întoarceți în oraș pentru a încheia ziua cu o vizită la impresionanta Biserică Sf. Bartolomeu.",
+        "en": "Start at the Main Square, easily accessible from the bus station. The morning is dedicated to exploring the historic center on foot, including the Franciscan Church and the Mátra Museum. At noon, you take a bus to Mátrafüred to enjoy the mountain air and a traditional meal. In the afternoon, you return to the city to end the day with a visit to the impressive St. Bartholomew's Church."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hegyi-csárda Mátrafüred",
+            "tip": "Probieren Sie Forelle oder andere lokale Spezialitäten in den Bergen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hegyi-csárda Mátrafüred",
+            "tip": "Kóstolja meg a pisztrángot vagy más helyi specialitásokat a hegyekben!"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hegyi-csárda Mátrafüred",
+            "tip": "Încercați păstrăv sau alte specialități locale la munte."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hegyi-csárda Mátrafüred",
+            "tip": "Try trout or other local specialties in the mountains."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bene-patak Wasserfall, Mátrafüred",
+            "tip": "Ein kurzer Spaziergang zu einem kleinen Wasserfall.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bene-patak vízesés, Mátrafüred",
+            "tip": "Rövid séta egy kis vízeséshez.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cascada Bene-patak, Mátrafüred",
+            "tip": "O scurtă plimbare până la o mică cascadă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bene-patak Waterfall, Mátrafüred",
+            "tip": "A short walk to a small waterfall.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirläden in Mátrafüred",
+            "tip": "Kaufen Sie handgefertigte Holzarbeiten oder lokale Marmeladen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvenírboltok Mátrafüreden",
+            "tip": "Vásároljon kézzel készített faárut vagy helyi lekvárokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de suveniruri în Mátrafüred",
+            "tip": "Cumpărați obiecte din lemn lucrate manual sau gemuri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir shops in Mátrafüred",
+            "tip": "Buy handcrafted wooden items or local jams."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Die Busse in die Mátra fahren regelmäßig, aber prüfen Sie den Fahrplan für die Rückfahrt."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha több utazást tervez.",
+          "A mátrai buszok rendszeresen járnak, de ellenőrizze a visszaúti menetrendet."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă plănuiți mai multe călătorii.",
+          "Autobuzele spre Mátra circulă regulat, dar verificați orarul pentru călătoria de întoarcere."
+        ],
+        "en": [
+          "Buy a day pass for the bus if you plan multiple trips.",
+          "Buses to the Mátra run regularly, but check the schedule for your return trip."
+        ]
+      }
+    }
+  }
+}

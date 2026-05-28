@@ -1,0 +1,1541 @@
+{
+  "city_id": "poland-kalisz-cities-v2",
+  "anchor": {
+    "name": "Kalisch",
+    "coords": [
+      18.0911,
+      51.7611
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus und Marktplatz",
+            "hu": "Városháza és Fő tér",
+            "ro": "Primăria și Piața Centrală",
+            "en": "Town Hall and Main Market Square"
+          },
+          "coords": [
+            18.092,
+            51.7615
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besteigen Sie den Rathausturm für eine großartige Aussicht auf die Altstadt.",
+            "hu": "Másszon fel a városháza tornyába a csodálatos kilátásért az óvárosra.",
+            "ro": "Urcați în turnul primăriei pentru o priveliște superbă asupra orașului vechi.",
+            "en": "Climb the town hall tower for a great view of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale St. Nikolaus",
+            "hu": "Szent Miklós-katedrális",
+            "ro": "Catedrala Sfântul Nicolae",
+            "en": "St. Nicholas Cathedral"
+          },
+          "coords": [
+            18.087,
+            51.762
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:06",
+          "stay_min": 45,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Achten Sie auf die gotischen Gewölbe und die beeindruckende Orgel im Inneren.",
+            "hu": "Figyelje meg a gótikus boltozatokat és a lenyűgöző orgonát.",
+            "ro": "Observați bolțile gotice și orga impresionantă din interior.",
+            "en": "Look for the Gothic vaults and the impressive organ inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Steinerne Brücke",
+            "hu": "Kőhíd",
+            "ro": "Podul de Piatră",
+            "en": "Stone Bridge"
+          },
+          "coords": [
+            18.084,
+            51.76
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:01",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für Fotos, der die Altstadt mit dem Theaterviertel verbindet.",
+            "hu": "Tökéletes fotóhelyszín, amely összeköti az óvárost a színházi negyeddel.",
+            "ro": "Un loc perfect pentru fotografii, ce leagă orașul vechi de cartierul teatrelor.",
+            "en": "A perfect spot for photos, connecting the Old Town to the theatre district."
+          }
+        },
+        {
+          "name": {
+            "de": "Bogusławski-Theater",
+            "hu": "Bogusławski Színház",
+            "ro": "Teatrul Bogusławski",
+            "en": "Bogusławski Theatre"
+          },
+          "coords": [
+            18.082,
+            51.759
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:29",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Spielplan für Abendvorstellungen – es lohnt sich oft.",
+            "hu": "Nézze meg az esti előadások műsorát – gyakran megéri.",
+            "ro": "Verificați programul pentru spectacole de seară – adesea merită.",
+            "en": "Check the schedule for evening performances – it's often worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika St. Joseph",
+            "hu": "Szent József-bazilika",
+            "ro": "Bazilica Sfântul Iosif",
+            "en": "St. Joseph's Basilica"
+          },
+          "coords": [
+            18.08,
+            51.764
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:12",
+          "stay_min": 50,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Ein wichtiges Pilgerziel. Beachten Sie die Votivgaben rund um das Gnadenbild.",
+            "hu": "Fontos zarándokhely. Figyelje meg a kegykép körüli fogadalmi ajándékokat.",
+            "ro": "Un important centru de pelerinaj. Observați ofrandele votive din jurul icoanei miraculoase.",
+            "en": "An important pilgrimage site. Note the votive offerings around the miraculous painting."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark",
+            "hu": "Városi Park",
+            "ro": "Parcul Municipal",
+            "en": "City Park"
+          },
+          "coords": [
+            18.08,
+            51.757
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:32",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ideal für eine Mittagspause. Mieten Sie ein Tretboot auf dem Fluss Prosna.",
+            "hu": "Ideális egy ebédszünetre. Béreljen vízibiciklit a Prosna folyón.",
+            "ro": "Ideal pentru o pauză de prânz. Închiriați o hidrobicicletă pe râul Prosna.",
+            "en": "Ideal for a lunch break. Rent a paddle boat on the Prosna river."
+          }
+        },
+        {
+          "name": {
+            "de": "Stanislaus-Kirche",
+            "hu": "Szent Szaniszló-templom",
+            "ro": "Biserica Sfântul Stanislav",
+            "en": "St. Stanislaus' Church"
+          },
+          "coords": [
+            18.095,
+            51.7625
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:06",
+          "stay_min": 45,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Eine friedliche Franziskanerkirche, etwas abseits der Haupttouristenpfade.",
+            "hu": "Egy békés ferences templom, kissé távolabb a fő turistaútvonalaktól.",
+            "ro": "O biserică franciscană liniștită, puțin retrasă de rutele turistice principale.",
+            "en": "A peaceful Franciscan church, slightly off the main tourist path."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Kalisz, am historischen Marktplatz. Der Vormittag ist der Erkundung der gotischen Kathedrale und einem Spaziergang über die berühmte Steinerne Brücke gewidmet, die Ihnen einen Einblick in die mittelalterliche Seele der Stadt gibt. Der Nachmittag bietet eine Mischung aus Kultur im Bogusławski-Theater und spiritueller Einkehr in der Basilika St. Joseph, einem landesweit bekannten Wallfahrtsort. Lassen Sie den Tag mit einem ausgedehnten, entspannenden Spaziergang durch den üppigen Stadtpark ausklingen, wo Sie am Ufer des Flusses Prosna neue Energie tanken können.",
+        "hu": "Kezdje a napot Kalisz szívében, a történelmi Fő téren. A délelőtt a gótikus katedrális felfedezésével és egy sétával telik a híres Kőhídon, amely bepillantást enged a város középkori lelkébe. A délután a kultúra és a spiritualitás keverékét kínálja a Bogusławski Színházban és az országosan ismert zarándokhelyen, a Szent József-bazilikában. A napot egy hosszú, pihentető sétával zárja a buja Városi Parkban, ahol feltöltődhet a Prosna folyó partján.",
+        "ro": "Începeți ziua în inima orașului Kalisz, în Piața Centrală istorică. Dimineața este dedicată explorării catedralei gotice și unei plimbări peste faimosul Pod de Piatră, oferindu-vă o perspectivă asupra sufletului medieval al orașului. După-amiaza oferă un amestec de cultură la Teatrul Bogusławski și reculegere spirituală la Bazilica Sfântul Iosif, un important loc de pelerinaj național. Încheiați ziua cu o plimbare lungă și relaxantă prin Parcul Municipal luxuriant, unde vă puteți reîncărca bateriile pe malul râului Prosna.",
+        "en": "Start your day in the heart of Kalisz at the historic Main Market Square. The morning is dedicated to exploring the Gothic cathedral and taking a stroll across the famous Stone Bridge, giving you a glimpse into the city's medieval soul. The afternoon offers a mix of culture at the Bogusławski Theatre and spiritual reflection at St. Joseph's Basilica, a nationally renowned pilgrimage site. Conclude your day with a long, relaxing walk through the lush City Park, where you can recharge by the banks of the Prosna river."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Andruty kaliskie",
+            "tip": "Probieren Sie diese hauchdünnen, süßen Waffeln, eine lokale Spezialität."
+          },
+          {
+            "name": "Pyry z gzikiem",
+            "tip": "Obwohl es aus der Region Großpolen stammt, finden Sie hier köstliche Pellkartoffeln mit Hüttenkäse."
+          },
+          {
+            "name": "Restauracja KTW",
+            "tip": "Bietet eine Mischung aus polnischer und europäischer Küche in einem eleganten Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Andruty kaliskie",
+            "tip": "Kóstolja meg ezt a papírvékony, édes ostyát, amely helyi különlegesség."
+          },
+          {
+            "name": "Pyry z gzikiem",
+            "tip": "Bár Nagy-Lengyelországból származik, itt is talál ízletes héjában sült krumplit túróval."
+          },
+          {
+            "name": "KTW Étterem",
+            "tip": "Lengyel és európai konyha keverékét kínálja elegáns környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Andruty kaliskie",
+            "tip": "Încercați aceste napolitane subțiri și dulci, o specialitate locală."
+          },
+          {
+            "name": "Pyry z gzikiem",
+            "tip": "Deși originar din Polonia Mare, veți găsi aici cartofi copți delicioși cu brânză de vaci."
+          },
+          {
+            "name": "Restaurant KTW",
+            "tip": "Oferă un amestec de bucătărie poloneză și europeană într-un cadru elegant."
+          }
+        ],
+        "en": [
+          {
+            "name": "Andruty kaliskie",
+            "tip": "Try these paper-thin, sweet wafers, a local specialty."
+          },
+          {
+            "name": "Pyry z gzikiem",
+            "tip": "Although from the Greater Poland region, you'll find delicious jacket potatoes with cottage cheese here."
+          },
+          {
+            "name": "KTW Restaurant",
+            "tip": "Offers a mix of Polish and European cuisine in an elegant setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Prosna im Stadtpark",
+            "tip": "Finden Sie eine ruhige Bank und beobachten Sie den Fluss.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Archäologisches Reservat Zawodzie",
+            "tip": "Ein Spaziergang durch die rekonstruierte frühmittelalterliche Siedlung ist sehr friedlich.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Garten des Franziskanerklosters",
+            "tip": "Ein versteckter, ruhiger Ort neben der Stanislaus-Kirche.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Prosna-part a Városi Parkban",
+            "tip": "Keressen egy csendes padot, és nézze a folyót.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Zawodzie Régészeti Rezervátum",
+            "tip": "Egy séta az újjáépített kora középkori településen nagyon békés.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ferences kolostor kertje",
+            "tip": "Rejtett, csendes hely a Szent Szaniszló-templom mellett.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Prosna în Parcul Municipal",
+            "tip": "Găsiți o bancă liniștită și priviți râul curgând.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rezervația Arheologică Zawodzie",
+            "tip": "O plimbare prin așezarea reconstruită din evul mediu timpuriu este foarte pașnică.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grădina mănăstirii franciscane",
+            "tip": "Un loc ascuns și liniștit lângă Biserica Sfântul Stanislav.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Prosna in the City Park",
+            "tip": "Find a quiet bench and watch the river flow.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Zawodzie Archaeological Reserve",
+            "tip": "A walk through the reconstructed early medieval settlement is very peaceful.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Franciscan Monastery Garden",
+            "tip": "A hidden, quiet spot next to St. Stanislaus' Church.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marktplatz (Rynek)",
+            "tip": "Lokale Händler bieten oft frische Produkte und kleine Souvenirs an."
+          },
+          {
+            "name": "Andruty Waffeln",
+            "tip": "Kaufen Sie eine Packung 'Andruty kaliskie' als einzigartiges und leckeres Mitbringsel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fő tér (Rynek)",
+            "tip": "A helyi árusok gyakran kínálnak friss termékeket és apró ajándéktárgyakat."
+          },
+          {
+            "name": "Andruty ostya",
+            "tip": "Vásároljon egy csomag 'andruty kaliskie'-t egyedi és finom ajándékként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Centrală (Rynek)",
+            "tip": "Vânzătorii locali oferă adesea produse proaspete și suveniruri mici."
+          },
+          {
+            "name": "Napolitane Andruty",
+            "tip": "Cumpărați un pachet de 'andruty kaliskie' ca un suvenir unic și delicios."
+          }
+        ],
+        "en": [
+          {
+            "name": "Main Market Square (Rynek)",
+            "tip": "Local vendors often offer fresh produce and small souvenirs."
+          },
+          {
+            "name": "Andruty Wafers",
+            "tip": "Buy a pack of 'andruty kaliskie' as a unique and tasty souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Halten Sie eine Kamera für die malerischen Gassen und die Architektur bereit.",
+          "Planen Sie eine längere Pause im Stadtpark ein, besonders an einem sonnigen Tag."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óvárosi macskakövek egyenetlenek lehetnek.",
+          "A központi látnivalók többsége könnyen megközelíthető gyalog.",
+          "Készítsen fényképezőgépet a festői sikátorok és az építészet megörökítéséhez.",
+          "Tervezzen hosszabb pihenőt a Városi Parkban, különösen egy napsütéses napon."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din centrul vechi poate fi denivelat.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Pregătiți aparatul foto pentru aleile pitorești și arhitectură.",
+          "Planificați o pauză mai lungă în Parcul Municipal, mai ales într-o zi însorită."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Most central sights are easily within walking distance.",
+          "Keep a camera ready for the picturesque alleys and architecture.",
+          "Plan for a longer break in the City Park, especially on a sunny day."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 12.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus und Marktplatz",
+            "hu": "Városháza és Fő tér",
+            "ro": "Primăria și Piața Centrală",
+            "en": "Town Hall and Main Market Square"
+          },
+          "coords": [
+            18.092,
+            51.7615
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie den Turm besteigen.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt felmegy a toronyba.",
+            "ro": "Asigurați-vă bicicleta înainte de a urca în turn.",
+            "en": "Lock your bike securely before climbing the tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale St. Nikolaus",
+            "hu": "Szent Miklós-katedrális",
+            "ro": "Catedrala Sfântul Nicolae",
+            "en": "St. Nicholas Cathedral"
+          },
+          "coords": [
+            18.087,
+            51.762
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die kurze Fahrt durch die historischen Gassen zur Kathedrale.",
+            "hu": "Élvezze a rövid utat a történelmi sikátorokon keresztül a katedrálishoz.",
+            "ro": "Bucurați-vă de scurta plimbare pe străduțele istorice până la catedrală.",
+            "en": "Enjoy the short ride through the historic alleys to the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Steinerne Brücke",
+            "hu": "Kőhíd",
+            "ro": "Podul de Piatră",
+            "en": "Stone Bridge"
+          },
+          "coords": [
+            18.084,
+            51.76
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:28",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schieben Sie Ihr Fahrrad über die Brücke, um die Aussicht in Ruhe zu genießen.",
+            "hu": "Tolja át a kerékpárt a hídon, hogy nyugodtan élvezhesse a kilátást.",
+            "ro": "Traversați podul pe lângă bicicletă pentru a admira priveliștea în liniște.",
+            "en": "Walk your bike across the bridge to enjoy the view at a leisurely pace."
+          }
+        },
+        {
+          "name": {
+            "de": "Bogusławski-Theater",
+            "hu": "Bogusławski Színház",
+            "ro": "Teatrul Bogusławski",
+            "en": "Bogusławski Theatre"
+          },
+          "coords": [
+            18.082,
+            51.759
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:46",
+          "stay_min": 20,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur von außen; das Gebäude ist sehr fotogen.",
+            "hu": "Csodálja meg az építészetet kívülről; az épület nagyon fotogén.",
+            "ro": "Admirați arhitectura din exterior; clădirea este foarte fotogenică.",
+            "en": "Admire the architecture from the outside; the building is very photogenic."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark",
+            "hu": "Városi Park",
+            "ro": "Parcul Municipal",
+            "en": "City Park"
+          },
+          "coords": [
+            18.08,
+            51.757
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:12",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Perfekt für eine erste Pause. Fahren Sie entlang der Wege am Flussufer.",
+            "hu": "Tökéletes egy első pihenőre. Kerékpározzon a folyóparti utakon.",
+            "ro": "Perfect pentru o primă pauză. Plimbați-vă cu bicicleta pe aleile de pe malul râului.",
+            "en": "Perfect for a first break. Ride along the riverside paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Reservat Zawodzie",
+            "hu": "Zawodzie Régészeti Rezervátum",
+            "ro": "Rezervația Arheologică Zawodzie",
+            "en": "Zawodzie Archaeological Reserve"
+          },
+          "coords": [
+            18.065,
+            51.75
+          ],
+          "category": "museums",
+          "arrive_at": "12:27",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Eine faszinierende Reise in die Vergangenheit. Hier erfahren Sie, wie Kalisz begann.",
+            "hu": "Lenyűgöző utazás a múltba. Itt megtudhatja, hogyan kezdődött Kalisz története.",
+            "ro": "O călătorie fascinantă în trecut. Aici veți afla cum a luat naștere Kalisz.",
+            "en": "A fascinating journey into the past. This is where you learn how Kalisz began."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika St. Joseph",
+            "hu": "Szent József-bazilika",
+            "ro": "Bazilica Sfântul Iosif",
+            "en": "St. Joseph's Basilica"
+          },
+          "coords": [
+            18.08,
+            51.764
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:18",
+          "stay_min": 50,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für die Besichtigung des Schatzes und der unterirdischen Kapelle.",
+            "hu": "Szánjon időt a kincstár és a földalatti kápolna megtekintésére.",
+            "ro": "Luați-vă timp pentru a vizita tezaurul și capela subterană.",
+            "en": "Take time to visit the treasury and the underground chapel."
+          }
+        },
+        {
+          "name": {
+            "de": "Stanislaus-Kirche",
+            "hu": "Szent Szaniszló-templom",
+            "ro": "Biserica Sfântul Stanislav",
+            "en": "St. Stanislaus' Church"
+          },
+          "coords": [
+            18.095,
+            51.7625
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:29",
+          "stay_min": 45,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Der letzte Halt des Tages, ein Ort der Ruhe und Besinnung.",
+            "hu": "A nap utolsó állomása, a béke és az elmélkedés helye.",
+            "ro": "Ultima oprire a zilei, un loc de pace și reflecție.",
+            "en": "The last stop of the day, a place of peace and reflection."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel und beginnen Sie Ihre Tour auf dem belebten Marktplatz von Kalisz. Der Vormittag führt Sie zu den heiligen Hallen der Nikolaus-Kathedrale und über die Steinerne Brücke, bevor Sie eine entspannte Fahrt durch den Stadtpark genießen. Am Nachmittag radeln Sie etwas weiter hinaus zum Archäologischen Reservat Zawodzie, um in die Ursprünge der Stadt einzutauchen. Der Rückweg führt Sie zur berühmten Basilika St. Joseph und endet bei der friedlichen Stanislaus-Kirche.",
+        "hu": "Pattanjon nyeregbe, és kezdje a túrát Kalisz nyüzsgő Fő terén. A délelőtt a Szent Miklós-katedrális szent csarnokaiba és a Kőhídon át vezet, mielőtt egy pihentető tekerést tenne a Városi Parkban. Délután kicsit messzebbre, a Zawodzie Régészeti Rezervátumhoz biciklizik, hogy elmerüljön a város eredetében. A visszaút a híres Szent József-bazilikához vezet, és a békés Szent Szaniszló-templomnál ér véget.",
+        "ro": "Urcați-vă pe bicicletă și începeți turul în Piața Centrală plină de viață din Kalisz. Dimineața vă va purta prin sălile sfinte ale Catedralei Sf. Nicolae și peste Podul de Piatră, înainte de a vă bucura de o plimbare relaxantă prin Parcul Municipal. După-amiaza, pedalați puțin mai departe, la Rezervația Arheologică Zawodzie, pentru a pătrunde în originile orașului. Drumul de întoarcere vă va duce la renumita Bazilică Sf. Iosif și se va încheia la liniștita Biserică Sf. Stanislav.",
+        "en": "Hop on your bike and start your tour in the bustling Main Market Square of Kalisz. The morning will take you to the sacred halls of St. Nicholas Cathedral and across the Stone Bridge before enjoying a relaxing ride through the City Park. In the afternoon, you'll cycle a bit further out to the Zawodzie Archaeological Reserve to delve into the city's origins. The way back will lead you to the famous St. Joseph's Basilica, finishing at the peaceful St. Stanislaus' Church."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Andruty kaliskie",
+            "tip": "Der perfekte leichte Snack für eine Radtour."
+          },
+          {
+            "name": "Bar Mleczny 'Kalina'",
+            "tip": "Eine authentische Milchbar für ein schnelles, günstiges und traditionelles polnisches Mittagessen."
+          },
+          {
+            "name": "Restauracja Roma",
+            "tip": "Gute Pizza und Pasta, um nach einem langen Radtag die Kohlenhydratspeicher wieder aufzufüllen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Andruty kaliskie",
+            "tip": "Tökéletes könnyű snack egy kerékpártúrához."
+          },
+          {
+            "name": "Bar Mleczny 'Kalina'",
+            "tip": "Autentikus tejbár egy gyors, olcsó és hagyományos lengyel ebédhez."
+          },
+          {
+            "name": "Roma Étterem",
+            "tip": "Jó pizza és tészta, hogy feltöltse a szénhidrátraktárakat egy hosszú tekerés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Andruty kaliskie",
+            "tip": "Gustarea perfectă și ușoară pentru o plimbare cu bicicleta."
+          },
+          {
+            "name": "Bar Mleczny 'Kalina'",
+            "tip": "Un bar de lapte autentic pentru un prânz polonez rapid, ieftin și tradițional."
+          },
+          {
+            "name": "Restaurant Roma",
+            "tip": "Pizza și paste bune pentru a reface rezervele de carbohidrați după o zi lungă pe bicicletă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Andruty kaliskie",
+            "tip": "The perfect light snack for a bike tour."
+          },
+          {
+            "name": "Bar Mleczny 'Kalina'",
+            "tip": "An authentic milk bar for a quick, cheap, and traditional Polish lunch."
+          },
+          {
+            "name": "Roma Restaurant",
+            "tip": "Good pizza and pasta to refuel on carbs after a long day of cycling."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg entlang der Prosna",
+            "tip": "Folgen Sie dem Fluss aus der Stadt heraus für ruhige Momente.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhof an der Rogatka",
+            "tip": "Ein historischer Friedhof mit schönen alten Grabsteinen und viel Grün.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussichtspunkt bei Zawodzie",
+            "tip": "Bietet einen weiten Blick über das Flusstal.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Prosna mentén",
+            "tip": "Kövesse a folyót kifelé a városból a csendes pillanatokért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rogatka temető",
+            "tip": "Történelmi temető gyönyörű régi sírkövekkel és sok zölddel.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátópont Zawodzie-nál",
+            "tip": "Széles kilátást nyújt a folyóvölgyre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul Prosnei",
+            "tip": "Urmați râul în afara orașului pentru momente de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul Rogatka",
+            "tip": "Un cimitir istoric cu pietre funerare vechi și frumoase și multă verdeață.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Punct de belvedere lângă Zawodzie",
+            "tip": "Oferă o vedere largă asupra văii râului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike path along the Prosna river",
+            "tip": "Follow the river out of the city for some quiet moments.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rogatka Cemetery",
+            "tip": "A historic cemetery with beautiful old tombstones and lots of greenery.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Viewpoint near Zawodzie",
+            "tip": "Offers a wide view over the river valley.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Fahrradgeschäfte",
+            "tip": "Für Zubehör oder ein kleines Andenken mit Fahrradbezug."
+          },
+          {
+            "name": "Bernsteinschmuck",
+            "tip": "In vielen Juweliergeschäften in der Innenstadt finden Sie schönen polnischen Bernstein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerékpárboltok",
+            "tip": "Kiegészítőkért vagy egy kis kerékpáros témájú ajándéktárgyért."
+          },
+          {
+            "name": "Borostyán ékszerek",
+            "tip": "Sok belvárosi ékszerüzletben találhat gyönyörű lengyel borostyánt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine locale de biciclete",
+            "tip": "Pentru accesorii sau un mic suvenir legat de ciclism."
+          },
+          {
+            "name": "Bijuterii din chihlimbar",
+            "tip": "Veți găsi frumosul chihlimbar polonez în multe magazine de bijuterii din centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local bike shops",
+            "tip": "For accessories or a small cycling-related souvenir."
+          },
+          {
+            "name": "Amber jewelry",
+            "tip": "You can find beautiful Polish amber in many jewelry shops downtown."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Radwege, wo immer es möglich ist, besonders entlang des Flusses.",
+          "Achten Sie auf Fußgänger in den engen Gassen der Altstadt.",
+          "Ein leichtes Schloss ist empfehlenswert, um das Fahrrad bei den Haltestellen zu sichern.",
+          "Nehmen Sie Wasser und einen kleinen Snack für die längere Fahrt nach Zawodzie mit."
+        ],
+        "hu": [
+          "Használja a kerékpárutakat, ahol csak lehetséges, különösen a folyó mentén.",
+          "Vigyázzon a gyalogosokra az óváros szűk sikátoraiban.",
+          "Ajánlott egy könnyű lakat a kerékpár biztosításához a megállóknál.",
+          "Vigyen vizet és egy kis harapnivalót a hosszabb, Zawodzie-ba vezető útra."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete ori de câte ori este posibil, în special de-a lungul râului.",
+          "Fiți atenți la pietoni pe străduțele înguste din orașul vechi.",
+          "Se recomandă un lacăt ușor pentru a asigura bicicleta la opriri.",
+          "Luați apă și o mică gustare pentru drumul mai lung spre Zawodzie."
+        ],
+        "en": [
+          "Use bike paths wherever possible, especially along the river.",
+          "Be mindful of pedestrians in the narrow alleys of the old town.",
+          "A light lock is recommended for securing the bike at stops.",
+          "Bring water and a small snack for the longer ride to Zawodzie."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:42",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Rathaus",
+            "hu": "1. Klaszter: Városháza",
+            "ro": "Cluster 1: Primăria",
+            "en": "Cluster 1: Town Hall"
+          },
+          "coords": [
+            18.092,
+            51.7615
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in einem der Parkhäuser in der Nähe des Zentrums. Dies ist der Ausgangspunkt für Ihren Stadtrundgang.",
+            "hu": "Parkoljon a központ közeli parkolóházak egyikében. Ez a gyalogtúra kiindulópontja.",
+            "ro": "Parcați într-una din parcările din apropierea centrului. Acesta este punctul de plecare pentru turul pietonal.",
+            "en": "Park in one of the garages near the center. This is the starting point for your walking tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale St. Nikolaus",
+            "hu": "Szent Miklós-katedrális",
+            "ro": "Catedrala Sfântul Nicolae",
+            "en": "St. Nicholas Cathedral"
+          },
+          "coords": [
+            18.087,
+            51.762
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Rathausplatz durch charmante Gassen.",
+            "hu": "Rövid séta a Városháza tértől a bájos sikátorokon keresztül.",
+            "ro": "O scurtă plimbare de la Piața Primăriei pe alei fermecătoare.",
+            "en": "A short walk from the Town Hall square through charming alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Steinerne Brücke",
+            "hu": "Kőhíd",
+            "ro": "Podul de Piatră",
+            "en": "Stone Bridge"
+          },
+          "coords": [
+            18.084,
+            51.76
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:38",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf den Fluss Prosna, bevor Sie zum Auto zurückkehren.",
+            "hu": "Élvezze a Prosna folyóra nyíló kilátást, mielőtt visszatérne az autóhoz.",
+            "ro": "Admirați vederea râului Prosna înainte de a vă întoarce la mașină.",
+            "en": "Enjoy the view of the Prosna river before heading back to the car."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Basilika St. Joseph",
+            "hu": "2. Klaszter: Szent József-bazilika",
+            "ro": "Cluster 2: Bazilica Sfântul Iosif",
+            "en": "Cluster 2: St. Joseph's Basilica"
+          },
+          "coords": [
+            18.08,
+            51.764
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:08",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum nächsten Cluster. Es gibt normalerweise Parkplätze in der Nähe der Basilika.",
+            "hu": "Vezessen a következő klaszterhez. Általában van parkoló a bazilika közelében.",
+            "ro": "Conduceți spre următorul cluster. De obicei, există locuri de parcare în apropierea bazilicii.",
+            "en": "Drive to the next cluster. There are usually parking spots available near the basilica."
+          }
+        },
+        {
+          "name": {
+            "de": "Bogusławski-Theater",
+            "hu": "Bogusławski Színház",
+            "ro": "Teatrul Bogusławski",
+            "en": "Bogusławski Theatre"
+          },
+          "coords": [
+            18.082,
+            51.759
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein angenehmer Spaziergang von der Basilika über den Fluss.",
+            "hu": "Kellemes séta a bazilikától a folyón át.",
+            "ro": "O plimbare plăcută de la bazilică peste râu.",
+            "en": "A pleasant walk from the basilica across the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark",
+            "hu": "Városi Park",
+            "ro": "Parcul Municipal",
+            "en": "City Park"
+          },
+          "coords": [
+            18.08,
+            51.757
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Park liegt direkt neben dem Theater und ist ideal für eine Mittagspause.",
+            "hu": "A park közvetlenül a színház mellett található, ideális egy ebédszünethez.",
+            "ro": "Parcul este chiar lângă teatru, ideal pentru o pauză de prânz.",
+            "en": "The park is right next to the theatre, ideal for a lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Archäologisches Reservat Zawodzie",
+            "hu": "3. Klaszter: Zawodzie Régészeti Rezervátum",
+            "ro": "Cluster 3: Rezervația Arheologică Zawodzie",
+            "en": "Cluster 3: Zawodzie Archaeological Reserve"
+          },
+          "coords": [
+            18.065,
+            51.75
+          ],
+          "category": "museums",
+          "arrive_at": "14:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Die letzte Fahrt des Tages führt Sie zu den Ursprüngen der Stadt. Es gibt einen eigenen Parkplatz.",
+            "hu": "A nap utolsó autós útja a város eredetéhez vezet. Saját parkolóval rendelkezik.",
+            "ro": "Ultimul drum cu mașina al zilei vă duce la originile orașului. Există o parcare dedicată.",
+            "en": "The last drive of the day takes you to the city's origins. There is a dedicated parking lot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Parken Sie Ihr Auto im Zentrum und erkunden Sie den ersten Cluster zu Fuß: den Marktplatz, die Kathedrale und die Steinerne Brücke. Am Vormittag fahren Sie zum zweiten Cluster, um die beeindruckende Basilika St. Joseph zu besichtigen und anschließend einen Spaziergang zum Theater und in den Stadtpark für eine Mittagspause zu unternehmen. Der Nachmittag ist für eine kurze Fahrt zum Archäologischen Reservat Zawodzie reserviert, wo Sie in die faszinierende Geschichte der frühmittelalterlichen Siedlung eintauchen können, bevor Sie den Tag beenden.",
+        "hu": "Parkolja le az autót a központban, és fedezze fel gyalog az első klasztert: a Fő teret, a katedrálist és a Kőhidat. Délelőtt vezessen át a második klaszterhez, hogy meglátogassa a lenyűgöző Szent József-bazilikát, majd sétáljon el a színházhoz és a Városi Parkba egy ebédszünetre. A délután egy rövid autózásra van fenntartva a Zawodzie Régészeti Rezervátumhoz, ahol elmerülhet a kora középkori település lenyűgöző történelmében, mielőtt befejezné a napot.",
+        "ro": "Parcați mașina în centru și explorați primul cluster pe jos: Piața Centrală, catedrala și Podul de Piatră. La amiază, conduceți spre al doilea cluster pentru a vizita impresionanta Bazilică Sf. Iosif, urmată de o plimbare la teatru și în Parcul Municipal pentru o pauză de prânz. După-amiaza este rezervată unei scurte călătorii cu mașina la Rezervația Arheologică Zawodzie, unde vă puteți cufunda în istoria fascinantă a așezării medievale timpurii înainte de a încheia ziua.",
+        "en": "Park your car in the center and explore the first cluster on foot: the Market Square, the cathedral, and the Stone Bridge. Mid-morning, drive to the second cluster to visit the impressive St. Joseph's Basilica, followed by a walk to the theatre and into the City Park for a lunch break. The afternoon is reserved for a short drive to the Zawodzie Archaeological Reserve, where you can immerse yourself in the fascinating history of the early medieval settlement before ending your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restauracja Anabell",
+            "tip": "In der Nähe des Stadtparks, gut für ein entspanntes Mittagessen nach dem Spaziergang."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Suchen Sie nach einem Restaurant, das eine Vielzahl von hausgemachten Piroggen anbietet."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Eine traditionelle polnische saure Roggensuppe, perfekt für ein herzhaftes Essen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Anabell Étterem",
+            "tip": "A Városi Park közelében, jó választás egy pihentető ebédhez a séta után."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Keressen egy éttermet, amely házi készítésű pierogi széles választékát kínálja."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Hagyományos lengyel savanyú rozsleves, tökéletes egy kiadós étkezéshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Anabell",
+            "tip": "Aproape de Parcul Municipal, bun pentru un prânz relaxant după plimbare."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Căutați un restaurant care oferă o varietate de pierogi de casă."
+          },
+          {
+            "name": "Żurek",
+            "tip": "O supă acră de secară tradițională poloneză, perfectă pentru o masă consistentă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Anabell Restaurant",
+            "tip": "Near the City Park, good for a relaxed lunch after your walk."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Look for a restaurant offering a variety of homemade pierogi."
+          },
+          {
+            "name": "Żurek",
+            "tip": "A traditional Polish sour rye soup, perfect for a hearty meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wald von Winiary",
+            "tip": "Eine kurze Autofahrt vom Zentrum entfernt, ideal für einen ruhigen Spaziergang in der Natur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer der Prosna außerhalb der Stadt",
+            "tip": "Fahren Sie ein Stück flussaufwärts oder -abwärts für abgelegene Angel- und Picknickplätze.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang über den Feldern",
+            "tip": "Fahren Sie am Abend aus der Stadt hinaus und beobachten Sie den Sonnenuntergang über der weiten Landschaft Großpolens.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Winiary-erdő",
+            "tip": "Rövid autóútra a központtól, ideális egy csendes erdei sétához.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Prosna-part a városon kívül",
+            "tip": "Vezessen egy kicsit a folyón felfelé vagy lefelé eldugott horgász- és piknikezőhelyekért.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a mezők felett",
+            "tip": "Este vezessen ki a városból, és nézze a naplementét a nagy-lengyelországi táj felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Winiary",
+            "tip": "La o scurtă călătorie cu mașina de centru, ideală pentru o plimbare liniștită în natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malurile Prosnei în afara orașului",
+            "tip": "Conduceți puțin în amonte sau în aval pentru locuri izolate de pescuit și picnic.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus de soare peste câmpuri",
+            "tip": "Seara, ieșiți din oraș cu mașina pentru a privi apusul peste peisajul vast al Poloniei Mari.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Winiary Forest",
+            "tip": "A short drive from the center, ideal for a quiet walk in nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the Prosna outside the city",
+            "tip": "Drive a little upstream or downstream for secluded fishing and picnic spots.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset over the fields",
+            "tip": "Drive out of the city in the evening to watch the sunset over the vast Greater Poland landscape.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Galeria Amber",
+            "tip": "Ein modernes Einkaufszentrum für alles, was Sie vielleicht vergessen haben."
+          },
+          {
+            "name": "Hofläden in der Umgebung",
+            "tip": "Wenn Sie aufs Land fahren, halten Sie Ausschau nach Schildern für frische Produkte direkt vom Bauernhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Galeria Amber",
+            "tip": "Modern bevásárlóközpont mindenért, amit esetleg elfelejtett."
+          },
+          {
+            "name": "Tanyasi boltok a környéken",
+            "tip": "Ha vidékre utazik, figyelje a friss, tanyasi termékeket hirdető táblákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galeria Amber",
+            "tip": "Un centru comercial modern pentru orice ați fi putut uita."
+          },
+          {
+            "name": "Magazine la fermă în zona rurală",
+            "tip": "Dacă mergeți în mediul rural, căutați semne care indică produse proaspete direct de la fermă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Galeria Amber",
+            "tip": "A modern shopping mall for anything you might have forgotten."
+          },
+          {
+            "name": "Farm shops in the countryside",
+            "tip": "If you drive into the countryside, look for signs for fresh produce direct from the farm."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkgebühren im Voraus; einige Bereiche haben zeitliche Begrenzungen.",
+          "Der Verkehr kann zu Stoßzeiten zunehmen, planen Sie entsprechend.",
+          "Ein GPS ist unerlässlich, um sich zwischen den Clustern zurechtzufinden.",
+          "Nutzen Sie das Auto, um auch etwas weiter entfernte, aber lohnenswerte Orte wie das Reservat Zawodzie zu besuchen."
+        ],
+        "hu": [
+          "Ellenőrizze előre a parkolási díjakat; egyes területeken időbeli korlátozások vannak.",
+          "A forgalom csúcsidőben megnövekedhet, tervezzen ennek megfelelően.",
+          "GPS elengedhetetlen a klaszterek közötti navigáláshoz.",
+          "Használja az autót, hogy távolabbi, de érdemes helyeket is meglátogasson, mint például a Zawodzie Rezervátum."
+        ],
+        "ro": [
+          "Verificați taxele de parcare în avans; unele zone au limite de timp.",
+          "Traficul poate fi aglomerat la orele de vârf, planificați în consecință.",
+          "Un GPS este esențial pentru a naviga între clustere.",
+          "Folosiți mașina pentru a vizita locuri mai îndepărtate, dar care merită, cum ar fi Rezervația Zawodzie."
+        ],
+        "en": [
+          "Check parking fees in advance; some areas have time limits.",
+          "Traffic can be heavy during peak hours, so plan accordingly.",
+          "A GPS is essential for navigating between clusters.",
+          "Use the car to visit slightly more distant but worthwhile places like the Zawodzie Reserve."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 9.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Rathaus",
+            "hu": "1. Klaszter: Városháza",
+            "ro": "Cluster 1: Primăria",
+            "en": "Cluster 1: Town Hall"
+          },
+          "coords": [
+            18.092,
+            51.7615
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Hauptplatz (Rynek). Dies ist Ihr erster Cluster.",
+            "hu": "Menjen busszal a Fő térre (Rynek). Ez az első klaszter.",
+            "ro": "Luați un autobuz până în Piața Principală (Rynek). Acesta este primul dvs. cluster.",
+            "en": "Take a bus to the Main Square (Rynek). This is your first cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale St. Nikolaus",
+            "hu": "Szent Miklós-katedrális",
+            "ro": "Catedrala Sfântul Nicolae",
+            "en": "St. Nicholas Cathedral"
+          },
+          "coords": [
+            18.087,
+            51.762
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:48",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Rathaus durch die Altstadt.",
+            "hu": "Rövid séta a Városházától az óvároson keresztül.",
+            "ro": "O scurtă plimbare de la primărie prin orașul vechi.",
+            "en": "A short walk from the town hall through the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Stanislaus-Kirche",
+            "hu": "Szent Szaniszló-templom",
+            "ro": "Biserica Sfântul Stanislav",
+            "en": "St. Stanislaus' Church"
+          },
+          "coords": [
+            18.095,
+            51.7625
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:49",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die letzte Station in diesem Cluster, bevor Sie den Bus nehmen.",
+            "hu": "Az utolsó állomás ebben a klaszterben, mielőtt buszra szállna.",
+            "ro": "Ultima oprire din acest cluster înainte de a lua autobuzul.",
+            "en": "The last stop in this cluster before you take the bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Basilika St. Joseph",
+            "hu": "2. Klaszter: Szent József-bazilika",
+            "ro": "Cluster 2: Bazilica Sfântul Iosif",
+            "en": "Cluster 2: St. Joseph's Basilica"
+          },
+          "coords": [
+            18.08,
+            51.764
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:47",
+          "stay_min": 50,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus, der in die Nähe des Heiligtums St. Joseph fährt.",
+            "hu": "Menjen busszal a Szent József-szentély közelébe.",
+            "ro": "Luați un autobuz care merge în apropierea Sanctuarului Sf. Iosif.",
+            "en": "Take a bus that goes near St. Joseph's Sanctuary."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark",
+            "hu": "Városi Park",
+            "ro": "Parcul Municipal",
+            "en": "City Park"
+          },
+          "coords": [
+            18.08,
+            51.757
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:51",
+          "stay_min": 90,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Heiligtum aus ist es ein schöner Spaziergang zum Park für eine längere Pause.",
+            "hu": "A szentélytől kellemes séta vezet a parkba egy hosszabb pihenőre.",
+            "ro": "De la sanctuar, este o plimbare plăcută până la parc pentru o pauză mai lungă.",
+            "en": "From the sanctuary, it's a nice walk to the park for a long break."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Archäologisches Reservat Zawodzie",
+            "hu": "3. Klaszter: Zawodzie Régészeti Rezervátum",
+            "ro": "Cluster 3: Rezervația Arheologică Zawodzie",
+            "en": "Cluster 3: Zawodzie Archaeological Reserve"
+          },
+          "coords": [
+            18.065,
+            51.75
+          ],
+          "category": "museums",
+          "arrive_at": "14:41",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Für diesen letzten Halt müssen Sie möglicherweise eine andere Buslinie nehmen. Überprüfen Sie die Route im Voraus.",
+            "hu": "Ehhez az utolsó megállóhoz lehet, hogy másik buszjáratra kell szállnia. Ellenőrizze az útvonalat előre.",
+            "ro": "Pentru această ultimă oprire, s-ar putea să fie nevoie să luați o altă linie de autobuz. Verificați ruta în avans.",
+            "en": "You might need to take a different bus line for this final stop. Check the route beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum",
+            "hu": "Vissza a központba",
+            "ro": "Întoarcere în centru",
+            "en": "Return to Center"
+          },
+          "coords": [
+            18.0911,
+            51.7611
+          ],
+          "category": "transit",
+          "arrive_at": "17:19",
+          "stay_min": 0,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück ins Stadtzentrum, um den Tag ausklingen zu lassen.",
+            "hu": "Menjen busszal vissza a városközpontba, hogy lezárja a napot.",
+            "ro": "Luați autobuzul înapoi în centrul orașului pentru a încheia ziua.",
+            "en": "Take the bus back to the city center to wrap up your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das öffentliche Verkehrsnetz von Kalisz. Beginnen Sie mit einer Busfahrt zum Marktplatz und erkunden Sie die Altstadt zu Fuß. Ein weiterer Bus bringt Sie am späten Vormittag in die Nähe der Basilika St. Joseph, von wo aus Sie gemütlich zum Stadtpark für eine ausgiebige Mittagspause schlendern können. Der Nachmittag ist einem Ausflug mit dem Bus zum Archäologischen Reservat Zawodzie gewidmet, der Ihnen tiefe Einblicke in die Anfänge Polens gewährt, bevor Sie ins Zentrum zurückkehren.",
+        "hu": "Használja ki Kalisz tömegközlekedési hálózatát. Kezdje egy buszúttal a Fő térre, és fedezze fel gyalog az óvárost. Késő délelőtt egy másik busz elviszi a Szent József-bazilika közelébe, ahonnan kényelmesen átsétálhat a Városi Parkba egy kiadós ebédszünetre. A délután egy buszos kirándulásról szól a Zawodzie Régészeti Rezervátumba, amely mély betekintést nyújt Lengyelország kezdeteibe, mielőtt visszatérne a központba.",
+        "ro": "Folosiți rețeaua de transport public din Kalisz. Începeți cu o călătorie cu autobuzul până la Piața Centrală și explorați orașul vechi pe jos. Un alt autobuz vă va duce spre sfârșitul dimineții în apropierea Bazilicii Sf. Iosif, de unde puteți face o plimbare lejeră până în Parcul Municipal pentru o pauză de prânz consistentă. După-amiaza este dedicată unei excursii cu autobuzul la Rezervația Arheologică Zawodzie, oferindu-vă o perspectivă profundă asupra începuturilor Poloniei, înainte de a vă întoarce în centru.",
+        "en": "Make use of Kalisz's public transport network. Start with a bus ride to the Market Square and explore the old town on foot. Another bus will take you near St. Joseph's Basilica in the late morning, from where you can take a leisurely stroll to the City Park for a long lunch break. The afternoon is dedicated to a bus trip to the Zawodzie Archaeological Reserve, giving you deep insights into Poland's beginnings before you return to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zapiekanka",
+            "tip": "Ein schnelles und beliebtes polnisches Streetfood, das an vielen Kiosken erhältlich ist."
+          },
+          {
+            "name": "Bar 'Podgrodzie'",
+            "tip": "Ein lokaler Favorit in der Nähe des Zawodzie-Reservats für traditionelle Küche."
+          },
+          {
+            "name": "Kawiarnia 'Pączkarnia'",
+            "tip": "Probieren Sie frische Pączki (polnische Donuts) als süße Belohnung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zapiekanka",
+            "tip": "Gyors és népszerű lengyel utcai étel, számos kioszkban kapható."
+          },
+          {
+            "name": "Bar 'Podgrodzie'",
+            "tip": "Helyi kedvenc a Zawodzie Rezervátum közelében, hagyományos konyhával."
+          },
+          {
+            "name": "Kawiarnia 'Pączkarnia'",
+            "tip": "Kóstoljon meg friss pączkit (lengyel fánkot) édes jutalomként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zapiekanka",
+            "tip": "Un street-food polonez rapid și popular, disponibil la multe chioșcuri."
+          },
+          {
+            "name": "Bar 'Podgrodzie'",
+            "tip": "Un favorit local lângă Rezervația Zawodzie pentru bucătăria tradițională."
+          },
+          {
+            "name": "Kawiarnia 'Pączkarnia'",
+            "tip": "Încercați pączki proaspeți (gogoși poloneze) ca o recompensă dulce."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zapiekanka",
+            "tip": "A quick and popular Polish street food, available at many kiosks."
+          },
+          {
+            "name": "Bar 'Podgrodzie'",
+            "tip": "A local favorite near the Zawodzie Reserve for traditional cuisine."
+          },
+          {
+            "name": "Kawiarnia 'Pączkarnia'",
+            "tip": "Try fresh pączki (Polish doughnuts) as a sweet treat."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Städtischer Friedhof",
+            "tip": "Mit dem Bus erreichbar, ein riesiger, parkähnlicher Friedhof für einen langen, ruhigen Spaziergang.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Obere Etage eines Doppeldeckerbusses",
+            "tip": "Bietet eine andere, ruhigere Perspektive auf die Stadt, während Sie fahren.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Park am Wasserreservoir",
+            "tip": "Ein weniger bekannter Park, der mit dem Bus erreichbar ist und eine ruhige Atmosphäre bietet.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi temető",
+            "tip": "Busszal elérhető, hatalmas, parkszerű temető egy hosszú, csendes sétához.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Emeletes busz felső szintje",
+            "tip": "Más, csendesebb perspektívát nyújt a városra utazás közben.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Park a víztározónál",
+            "tip": "Kevésbé ismert, busszal elérhető park, amely csendes légkört kínál.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul Municipal",
+            "tip": "Accesibil cu autobuzul, un cimitir imens, asemănător unui parc, pentru o plimbare lungă și liniștită.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Etajul superior al unui autobuz etajat",
+            "tip": "Oferă o perspectivă diferită, mai liniștită, a orașului în timp ce călătoriți.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul de lângă rezervorul de apă",
+            "tip": "Un parc mai puțin cunoscut, accesibil cu autobuzul, care oferă o atmosferă liniștită.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Municipal Cemetery",
+            "tip": "Accessible by bus, a huge, park-like cemetery for a long, quiet walk.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Upper deck of a double-decker bus",
+            "tip": "Offers a different, quieter perspective of the city while you travel.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Park by the water reservoir",
+            "tip": "A lesser-known park accessible by bus, offering a quiet atmosphere.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markthalle (Hala Targowa)",
+            "tip": "Ein authentisches Einkaufserlebnis mit den Einheimischen. Gut mit dem Bus zu erreichen."
+          },
+          {
+            "name": "Cepelia",
+            "tip": "Suchen Sie nach Geschäften mit diesem Namen für traditionelles polnisches Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vásárcsarnok (Hala Targowa)",
+            "tip": "Autentikus vásárlási élmény a helyiekkel. Busszal jól megközelíthető."
+          },
+          {
+            "name": "Cepelia",
+            "tip": "Keressen ilyen nevű üzleteket a hagyományos lengyel kézműves termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hala de Piață (Hala Targowa)",
+            "tip": "O experiență de cumpărături autentică alături de localnici. Ușor accesibilă cu autobuzul."
+          },
+          {
+            "name": "Cepelia",
+            "tip": "Căutați magazine cu acest nume pentru artizanat tradițional polonez."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market Hall (Hala Targowa)",
+            "tip": "An authentic shopping experience with the locals. Easily reachable by bus."
+          },
+          {
+            "name": "Cepelia",
+            "tip": "Look for stores with this name for traditional Polish handicrafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, das ist in der Regel am günstigsten.",
+          "Laden Sie eine App für den öffentlichen Nahverkehr herunter, um Routen und Fahrpläne in Echtzeit zu verfolgen.",
+          "Achten Sie auf die Endhaltestellen, besonders auf dem Weg nach Zawodzie.",
+          "Behalten Sie Ihre Sachen an belebten Haltestellen und in vollen Bussen im Auge."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, általában ez a legolcsóbb.",
+          "Töltsön le egy tömegközlekedési alkalmazást az útvonalak és menetrendek valós idejű követéséhez.",
+          "Figyeljen a végállomásokra, különösen a Zawodzie felé vezető úton.",
+          "Vigyázzon az értékeire a forgalmas megállókban és a zsúfolt buszokon."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz, de obicei este cel mai ieftin.",
+          "Descărcați o aplicație de transport public pentru a urmări rutele și orarele în timp real.",
+          "Fiți atenți la stațiile terminus, în special în drum spre Zawodzie.",
+          "Aveți grijă de bunurile dumneavoastră în stațiile aglomerate și în autobuzele pline."
+        ],
+        "en": [
+          "Buy a day pass for the bus, it's usually the most economical option.",
+          "Download a public transport app to track routes and schedules in real-time.",
+          "Pay attention to the final destinations, especially when heading to Zawodzie.",
+          "Keep an eye on your belongings at busy stops and on crowded buses."
+        ]
+      }
+    }
+  }
+}

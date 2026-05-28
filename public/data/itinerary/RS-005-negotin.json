@@ -1,0 +1,1380 @@
+{
+  "city_id": "RS-005-negotin",
+  "anchor": {
+    "name": "Negotin",
+    "coords": [
+      22.53,
+      44.2264
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hajduk-Veljko-Denkmal",
+            "hu": "Hajduk Veljko emlékműve",
+            "ro": "Monumentul lui Hajduk Veljko",
+            "en": "Hajduk Veljko Monument"
+          },
+          "coords": [
+            22.531,
+            44.2255
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Starten Sie Ihren Tag am Denkmal des serbischen Helden, ein großartiger Ort für Fotos.",
+            "hu": "Kezdje a napot a szerb hős emlékművénél, remek fotóhelyszín.",
+            "ro": "Începeți ziua la monumentul eroului sârb, un loc excelent pentru fotografii.",
+            "en": "Start your day at the monument of the Serbian hero, a great spot for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale der Heiligen Dreifaltigkeit",
+            "hu": "Szentháromság-székesegyház",
+            "ro": "Catedrala Sfânta Treime",
+            "en": "Cathedral of the Holy Trinity"
+          },
+          "coords": [
+            22.532,
+            44.226
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie die beeindruckende Ikonostase und die neoklassizistische Architektur.",
+            "hu": "Figyelje meg a lenyűgöző ikonosztázt és a neoklasszikus építészetet.",
+            "ro": "Observați iconostasul impresionant și arhitectura neoclasică.",
+            "en": "Note the impressive iconostasis and the neoclassical architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Kirche der Geburt Christi",
+            "hu": "Régi Születés Temploma",
+            "ro": "Biserica veche a Nașterii Domnului",
+            "en": "Old Church of the Nativity"
+          },
+          "coords": [
+            22.533,
+            44.228
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese Kirche ist älter als die Kathedrale und hat eine intimere Atmosphäre.",
+            "hu": "Ez a templom régebbi, mint a székesegyház, és bensőségesebb hangulatú.",
+            "ro": "Această biserică este mai veche decât catedrala și are o atmosferă mai intimă.",
+            "en": "This church is older than the cathedral and has a more intimate atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Mokranjac-Haus",
+            "hu": "Mokranjac-ház",
+            "ro": "Casa Memorială Mokranjac",
+            "en": "Mokranjac House"
+          },
+          "coords": [
+            22.534,
+            44.227
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss für Musikliebhaber, gewidmet dem berühmtesten Komponisten Serbiens.",
+            "hu": "Zenebarátoknak kötelező, Szerbia leghíresebb zeneszerzőjének szentelve.",
+            "ro": "O vizită obligatorie pentru iubitorii de muzică, dedicată celui mai faimos compozitor sârb.",
+            "en": "A must-visit for music lovers, dedicated to Serbia's most famous composer."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Krajina",
+            "hu": "Krajina Múzeum",
+            "ro": "Muzeul Krajinei",
+            "en": "Museum of Krajina"
+          },
+          "coords": [
+            22.535,
+            44.229
+          ],
+          "category": "museums",
+          "arrive_at": "12:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein, um die archäologischen und ethnografischen Sammlungen zu sehen.",
+            "hu": "Szánjon elegendő időt a régészeti és néprajzi gyűjtemények megtekintésére.",
+            "ro": "Planificați suficient timp pentru a vedea colecțiile arheologice și etnografice.",
+            "en": "Allow enough time to see the archaeological and ethnographic collections."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Innenstadt",
+            "hu": "Ebéd a belvárosban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city center"
+          },
+          "coords": [
+            22.532,
+            44.2265
+          ],
+          "category": "gastro",
+          "arrive_at": "14:18",
+          "stay_min": 110,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie Pljeskavica oder Ćevapi in einem der lokalen Restaurants.",
+            "hu": "Kóstolja meg a Pljeskavica-t vagy a Ćevapi-t az egyik helyi étteremben.",
+            "ro": "Încercați Pljeskavica sau Ćevapi la unul dintre restaurantele locale.",
+            "en": "Try Pljeskavica or Ćevapi at one of the local restaurants."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Negotin beginnt im Herzen der Stadt am Denkmal von Hajduk Veljko. Nach einem Vormittag, an dem Sie die religiöse Architektur erkunden, einschließlich der großen Kathedrale und der alten Geburtskirche, tauchen Sie in die Kultur ein. Das Mokranjac-Haus ehrt den musikalischen Sohn der Stadt, während das Krajina-Museum die tiefere Geschichte der Region enthüllt. Nach einem lehrreichen Vormittag genießen Sie ein herzhaftes serbisches Mittagessen in einem lokalen Restaurant. Der Nachmittag steht zur freien Verfügung, um durch die Straßen zu schlendern und die Atmosphäre aufzusaugen, bevor Sie Ihren Tag ausklingen lassen.",
+        "hu": "A negotini nap a város szívében, Hajduk Veljko emlékművénél kezdődik. A délelőttöt a vallási építészet, köztük a nagy székesegyház és a régi Születés templomának felfedezésével tölti, majd elmerül a kultúrában. A Mokranjac-ház a város zenei fiának állít emléket, a Krajina Múzeum pedig a régió mélyebb történelmét tárja fel. Az ismeretterjesztő délelőtt után egy kiadós szerb ebédet fogyaszthat el egy helyi étteremben. A délután szabadon telik, sétálgathat az utcákon és élvezheti a hangulatot, mielőtt lezárná a napot.",
+        "ro": "Ziua dumneavoastră în Negotin începe în inima orașului, la monumentul lui Hajduk Veljko. După o dimineață explorând arhitectura religioasă, inclusiv măreața catedrală și vechea Biserică a Nașterii, vă veți cufunda în cultură. Casa Mokranjac onorează fiul muzical al orașului, în timp ce Muzeul Krajinei dezvăluie istoria mai profundă a regiunii. După o dimineață educativă, savurați un prânz sârbesc consistent la un restaurant local. După-amiaza este liberă pentru a vă plimba pe străzi și a absorbi atmosfera înainte de a încheia ziua.",
+        "en": "Your day in Negotin starts in the heart of the city at the Hajduk Veljko monument. After a morning exploring the religious architecture, including the grand cathedral and the old Church of the Nativity, you'll dive into culture. The Mokranjac House honors the city's musical son, while the Krajina Museum reveals the region's deeper history. Following an educational morning, enjoy a hearty Serbian lunch at a local restaurant. The afternoon is free to wander the streets and soak up the atmosphere before concluding your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pljeskavica",
+            "tip": "Ein großes, gewürztes Fleisch-Patty, oft mit Fladenbrot und Zwiebeln serviert."
+          },
+          {
+            "name": "Ćevapi",
+            "tip": "Gegrillte Hackfleischröllchen, ein Balkan-Klassiker."
+          },
+          {
+            "name": "Negotinska tamjanika",
+            "tip": "Probieren Sie diesen lokalen Weißwein, der für sein aromatisches Bouquet bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pljeskavica",
+            "tip": "Nagy, fűszeres húspogácsa, gyakran lepénykenyérrel és hagymával tálalva."
+          },
+          {
+            "name": "Ćevapi",
+            "tip": "Grillezett darált hús tekercsek, egy balkáni klasszikus."
+          },
+          {
+            "name": "Negotinska tamjanika",
+            "tip": "Kóstolja meg ezt a helyi fehérbort, amely aromás illatáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pljeskavica",
+            "tip": "O chiftea mare și condimentată de carne, adesea servită cu lipie și ceapă."
+          },
+          {
+            "name": "Ćevapi",
+            "tip": "Rulouri de carne tocată la grătar, un clasic balcanic."
+          },
+          {
+            "name": "Negotinska tamjanika",
+            "tip": "Încercați acest vin alb local, cunoscut pentru buchetul său aromatic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pljeskavica",
+            "tip": "A large, spiced meat patty, often served with flatbread and onions."
+          },
+          {
+            "name": "Ćevapi",
+            "tip": "Grilled minced meat rolls, a Balkan classic."
+          },
+          {
+            "name": "Negotinska tamjanika",
+            "tip": "Try this local white wine, known for its aromatic bouquet."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang entlang der Donau (in der Nähe)",
+            "tip": "Ein kurzer Ausflug aus der Stadt bietet friedliche Ausblicke auf den Fluss.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hof des Klosters Bukovo",
+            "tip": "Auch wenn es eine Fahrt erfordert, ist der Klosterhof ein Ort der Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Duna mentén (a közelben)",
+            "tip": "Egy rövid kiruccanás a városból békés kilátást nyújt a folyóra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Bukovo kolostor udvara",
+            "tip": "Bár utazást igényel, a kolostor udvara a nyugalom helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul Dunării (în apropiere)",
+            "tip": "O scurtă excursie în afara orașului oferă priveliști pașnice ale fluviului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea Mănăstirii Bukovo",
+            "tip": "Chiar dacă necesită o deplasare, curtea mănăstirii este un loc de liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along the Danube (nearby)",
+            "tip": "A short trip out of the city offers peaceful river views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Courtyard of Bukovo Monastery",
+            "tip": "Even if it requires a drive, the monastery courtyard is a place of tranquility.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Produkten, Käse und handgemachten Waren."
+          },
+          {
+            "name": "Souvenirläden in der Innenstadt",
+            "tip": "Finden Sie Andenken, die sich auf Mokranjac oder lokalen Wein beziehen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen helyi termékeket, sajtokat és kézműves árukat."
+          },
+          {
+            "name": "Szuvírboltok a belvárosban",
+            "tip": "Találjon Mokranjac-hoz vagy a helyi borhoz kapcsolódó emléktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse locale, brânzeturi și produse artizanale."
+          },
+          {
+            "name": "Magazine de suveniruri din centru",
+            "tip": "Găsiți suveniruri legate de Mokranjac sau de vinul local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for local produce, cheeses, and handmade goods."
+          },
+          {
+            "name": "Downtown Souvenir Shops",
+            "tip": "Find memorabilia related to Mokranjac or local wine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag auf den Beinen sein werden.",
+          "Nehmen Sie Wasser mit, besonders an warmen Tagen.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind leicht zu Fuß erreichbar.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap talpon lesz.",
+          "Vigyen magával vizet, különösen meleg napokon.",
+          "A legtöbb belvárosi látnivaló könnyen megközelíthető gyalog.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți fi în picioare toată ziua.",
+          "Luați apă cu dumneavoastră, mai ales în zilele calde.",
+          "Majoritatea atracțiilor din centrul orașului sunt ușor accesibile pe jos.",
+          "Verificați în avans orele de funcționare ale muzeelor."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be on your feet all day.",
+          "Carry water with you, especially on warm days.",
+          "Most sights in the city center are within easy walking distance.",
+          "Check museum opening hours in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hajduk-Veljko-Denkmal",
+            "hu": "Hajduk Veljko emlékműve",
+            "ro": "Monumentul lui Hajduk Veljko",
+            "en": "Hajduk Veljko Monument"
+          },
+          "coords": [
+            22.531,
+            44.2255
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein idealer Ausgangspunkt für Ihre Radtour.",
+            "hu": "Ideális kiindulópont a biciklitúrához.",
+            "ro": "Un punct de plecare ideal pentru turul cu bicicleta.",
+            "en": "An ideal starting point for your bike tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale der Heiligen Dreifaltigkeit",
+            "hu": "Szentháromság-székesegyház",
+            "ro": "Catedrala Sfânta Treime",
+            "en": "Cathedral of the Holy Trinity"
+          },
+          "coords": [
+            22.532,
+            44.226
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie die Kathedrale betreten.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt belép a székesegyházba.",
+            "ro": "Asigurați-vă bicicleta înainte de a intra în catedrală.",
+            "en": "Lock your bike securely before entering the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Krajina",
+            "hu": "Krajina Múzeum",
+            "ro": "Muzeul Krajinei",
+            "en": "Museum of Krajina"
+          },
+          "coords": [
+            22.535,
+            44.229
+          ],
+          "category": "museums",
+          "arrive_at": "10:09",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine längere Pause, um in die Geschichte der Region einzutauchen.",
+            "hu": "Egy hosszabb pihenő, hogy elmerüljön a régió történelmében.",
+            "ro": "O pauză mai lungă pentru a vă adânci în istoria regiunii.",
+            "en": "A longer break to immerse yourself in the region's history."
+          }
+        },
+        {
+          "name": {
+            "de": "Mokranjac-Haus",
+            "hu": "Mokranjac-ház",
+            "ro": "Casa Memorială Mokranjac",
+            "en": "Mokranjac House"
+          },
+          "coords": [
+            22.534,
+            44.227
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:43",
+          "stay_min": 50,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Nur eine kurze Fahrt vom Museum entfernt, eine Hommage an den Komponisten.",
+            "hu": "Csak egy rövid útra a múzeumtól, tisztelgés a zeneszerző előtt.",
+            "ro": "La o scurtă plimbare de muzeu, un omagiu adus compozitorului.",
+            "en": "Just a short ride from the museum, a tribute to the composer."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Bukovo",
+            "hu": "Bukovo kolostor",
+            "ro": "Mănăstirea Bukovo",
+            "en": "Bukovo Monastery"
+          },
+          "coords": [
+            22.485,
+            44.215
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Fahrt aus der Stadt ist die friedliche Atmosphäre des Klosters wert.",
+            "hu": "A városból kivezető út megéri a kolostor békés hangulatáért.",
+            "ro": "Plimbarea în afara orașului merită pentru atmosfera pașnică a mănăstirii.",
+            "en": "The ride out of town is worth the monastery's peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Spätes Mittagessen & Weinprobe",
+            "hu": "Késői ebéd és borkóstoló",
+            "ro": "Prânz târziu și degustare de vin",
+            "en": "Late Lunch & Wine Tasting"
+          },
+          "coords": [
+            22.525,
+            44.225
+          ],
+          "category": "gastro",
+          "arrive_at": "14:48",
+          "stay_min": 92,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Belohnen Sie sich nach der Rückfahrt mit lokalen Spezialitäten und Wein.",
+            "hu": "Jutalmazza meg magát a visszaút után helyi specialitásokkal és borral.",
+            "ro": "Recompensați-vă cu specialități locale și vin după călătoria de întoarcere.",
+            "en": "Reward yourself with local specialties and wine after the ride back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Fahrrad für eine Erkundungstour durch Negotin und seine Umgebung. Beginnen Sie im Stadtzentrum und besuchen Sie die wichtigsten historischen und kulturellen Sehenswürdigkeiten. Am Vormittag radeln Sie zwischen den Kirchen, Museen und dem Mokranjac-Haus hin und her. Am Mittag begeben Sie sich auf eine längere Fahrt zum ruhigen Kloster Bukovo, wo Sie die spirituelle Atmosphäre und die schöne Umgebung genießen können. Die Rückfahrt führt Sie zurück in die Stadt, wo Sie sich mit einem wohlverdienten späten Mittagessen und vielleicht einem Glas des berühmten lokalen Weins belohnen.",
+        "hu": "Pattanjon biciklire, és fedezze fel Negotint és környékét. Kezdje a városközpontban, látogassa meg a főbb történelmi és kulturális látnivalókat. Délelőtt tekerjen a templomok, múzeumok és a Mokranjac-ház között. Délben induljon egy hosszabb útra a békés Bukovo kolostorhoz, ahol élvezheti a spirituális légkört és a gyönyörű környezetet. A visszaút visszavezet a városba egy jól megérdemelt késői ebédre, és talán egy pohár híres helyi borra.",
+        "ro": "Urcați-vă pe bicicletă pentru o explorare a orașului Negotin și a împrejurimilor sale. Începeți din centrul orașului, vizitând principalele situri istorice și culturale. Dimineața vă va găsi pedalând între biserici, muzee și Casa Mokranjac. La prânz, porniți într-o plimbare mai lungă spre liniștita Mănăstire Bukovo, unde vă puteți bucura de atmosfera spirituală și de împrejurimile frumoase. Călătoria de întoarcere vă aduce înapoi în oraș pentru un prânz târziu binemeritat și poate un pahar din renumitul vin local.",
+        "en": "Hop on your bike for an exploration of Negotin and its surroundings. Start in the city center, hitting the main historical and cultural sites. The morning will see you cycling between churches, museums, and the Mokranjac House. At midday, embark on a longer ride to the tranquil Bukovo Monastery, where you can enjoy the spiritual atmosphere and beautiful setting. The return journey brings you back into town for a well-deserved late lunch and perhaps a glass of the famous local wine."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gibanica",
+            "tip": "Ein herzhafter Käsekuchen, perfekt als Energielieferant."
+          },
+          {
+            "name": "Lokale Weine",
+            "tip": "Die Region ist berühmt für ihre Weine; besuchen Sie ein Weingut oder eine Weinbar."
+          },
+          {
+            "name": "Sarma",
+            "tip": "Kohlrouladen gefüllt mit Fleisch und Reis, ein traditionelles Gericht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gibanica",
+            "tip": "Sós túrós pite, tökéletes energiaforrás."
+          },
+          {
+            "name": "Helyi borok",
+            "tip": "A régió híres borairól; látogasson el egy pincészetbe vagy borbárba."
+          },
+          {
+            "name": "Sarma",
+            "tip": "Hússal és rizzsel töltött káposztatekercs, egy hagyományos étel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gibanica",
+            "tip": "O plăcintă sărată cu brânză, perfectă pentru energie."
+          },
+          {
+            "name": "Vinuri locale",
+            "tip": "Regiunea este renumită pentru vinurile sale; vizitați o cramă sau un bar de vinuri."
+          },
+          {
+            "name": "Sarma",
+            "tip": "Sarmale umplute cu carne și orez, un fel de mâncare tradițional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gibanica",
+            "tip": "A savory cheese pie, perfect for energy."
+          },
+          {
+            "name": "Local Wines",
+            "tip": "The region is famous for its wines; visit a winery or a wine bar."
+          },
+          {
+            "name": "Sarma",
+            "tip": "Cabbage rolls stuffed with meat and rice, a traditional dish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kloster Bukovo",
+            "tip": "Der Inbegriff von Frieden und Ruhe.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Fahrt entlang der Landstraßen",
+            "tip": "Genießen Sie die Stille der Landschaft außerhalb der Stadt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bukovo kolostor",
+            "tip": "A béke és a nyugalom megtestesítője.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Tekerés a vidéki utakon",
+            "tip": "Élvezze a városon kívüli vidék csendjét.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mănăstirea Bukovo",
+            "tip": "Chintesența păcii și a liniștii.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare pe drumurile de țară",
+            "tip": "Bucurați-vă de liniștea peisajului rural din afara orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bukovo Monastery",
+            "tip": "The epitome of peace and quiet.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ride along country roads",
+            "tip": "Enjoy the silence of the countryside outside the city.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Flaschen Wein",
+            "tip": "Kaufen Sie direkt bei den Weingütern von Bukovo oder Rajačke Pimnice (wenn Sie mit dem Auto fahren)."
+          },
+          {
+            "name": "Handgemachter Honig",
+            "tip": "Suchen Sie nach lokalem Honig auf den Märkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palackozott bor",
+            "tip": "Vásároljon közvetlenül a Bukovo vagy Rajačke Pimnice pincészeteiből (ha autóval megy)."
+          },
+          {
+            "name": "Kézműves méz",
+            "tip": "Keressen helyi mézet a piacokon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sticle de vin",
+            "tip": "Cumpărați direct de la cramele din Bukovo sau Rajačke Pimnice (dacă mergeți cu mașina)."
+          },
+          {
+            "name": "Miere artizanală",
+            "tip": "Căutați miere locală în piețe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bottles of Wine",
+            "tip": "Buy directly from the wineries at Bukovo or Rajačke Pimnice (if going by car)."
+          },
+          {
+            "name": "Artisanal Honey",
+            "tip": "Look for local honey in the markets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Stellen Sie sicher, dass Ihr Fahrrad in gutem Zustand ist, insbesondere für die Fahrt zum Kloster.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad bei Besichtigungen zu sichern.",
+          "Die Straßen können hügelig sein; seien Sie auf einige Anstiege vorbereitet.",
+          "Ein Helm wird dringend empfohlen."
+        ],
+        "hu": [
+          "Győződjön meg róla, hogy a kerékpárja jó állapotban van, különösen a kolostorhoz vezető útra.",
+          "Vigyen magával lakatot, hogy lezárja a kerékpárt a látogatások során.",
+          "Az utak dombosak lehetnek; készüljön fel néhány emelkedőre.",
+          "A sisak viselése erősen ajánlott."
+        ],
+        "ro": [
+          "Asigurați-vă că bicicleta este în stare bună, mai ales pentru drumul spre mănăstire.",
+          "Luați un lacăt pentru a vă asigura bicicleta în timpul vizitelor.",
+          "Drumurile pot fi deluroase; fiți pregătiți pentru câteva urcări.",
+          "Se recomandă insistent purtarea căștii de protecție."
+        ],
+        "en": [
+          "Ensure your bike is in good condition, especially for the ride to the monastery.",
+          "Bring a lock to secure your bike during sightseeing stops.",
+          "The roads can be hilly; be prepared for some climbing.",
+          "A helmet is strongly recommended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 65.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Innenstadt von Negotin",
+            "hu": "1. klaszter: Negotin belvárosa",
+            "ro": "Cluster 1: Centrul orașului Negotin",
+            "en": "Cluster 1: Negotin City Center"
+          },
+          "coords": [
+            22.532,
+            44.226
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto im Zentrum und erkunden Sie die ersten Sehenswürdigkeiten zu Fuß.",
+            "hu": "Parkolja le az autót a központban, és fedezze fel az első látnivalókat gyalog.",
+            "ro": "Parcați mașina în centru și explorați primele atracții pe jos.",
+            "en": "Park your car in the center and explore the first few sights on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Hajduk-Veljko-Denkmal & Kathedrale",
+            "hu": "Hajduk Veljko emlékmű & Székesegyház",
+            "ro": "Monumentul lui Hajduk Veljko și Catedrala",
+            "en": "Hajduk Veljko Monument & Cathedral"
+          },
+          "coords": [
+            22.5315,
+            44.2257
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden Wahrzeichen liegen direkt beieinander.",
+            "hu": "Ez a két nevezetesség közvetlenül egymás mellett található.",
+            "ro": "Aceste două repere sunt chiar unul lângă celălalt.",
+            "en": "These two landmarks are right next to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Krajina",
+            "hu": "Krajina Múzeum",
+            "ro": "Muzeul Krajinei",
+            "en": "Museum of Krajina"
+          },
+          "coords": [
+            22.535,
+            44.229
+          ],
+          "category": "museums",
+          "arrive_at": "10:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz zum Museum.",
+            "hu": "Egy rövid séta a főtértől a múzeumig.",
+            "ro": "O scurtă plimbare de la piața principală la muzeu.",
+            "en": "A short walk from the main square to the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Rajačke Pimnice",
+            "hu": "2. klaszter: Rajačke Pimnice",
+            "ro": "Cluster 2: Pivnițele Rajačke",
+            "en": "Cluster 2: Rajačke Pimnice"
+          },
+          "coords": [
+            22.56,
+            44.09
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:06",
+          "stay_min": 120,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 25.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem einzigartigen Weindorf. Erkunden Sie die alten Steinkeller zu Fuß.",
+            "hu": "Vezessen el ehhez az egyedülálló borfaluhoz. Fedezze fel gyalog a régi kőpincéket.",
+            "ro": "Conduceți spre acest sat vinicol unic. Explorați vechile pivnițe de piatră pe jos.",
+            "en": "Drive to this unique wine village. Explore the old stone cellars on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Weinprobe in Pimnice",
+            "hu": "Ebéd és borkóstoló a Pimnicében",
+            "ro": "Prânz și degustare de vin la Pimnice",
+            "en": "Lunch and Wine Tasting at Pimnice"
+          },
+          "coords": [
+            22.561,
+            44.091
+          ],
+          "category": "gastro",
+          "arrive_at": "14:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Viele Keller bieten traditionelle Speisen und Weinproben an.",
+            "hu": "Sok pince kínál hagyományos ételeket és borkóstolót.",
+            "ro": "Multe pivnițe oferă mâncare tradițională și degustări de vin.",
+            "en": "Many cellars offer traditional food and wine tasting."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Vratna-Tore",
+            "hu": "3. klaszter: Vratna kapuk",
+            "ro": "Cluster 3: Porțile Vratnei",
+            "en": "Cluster 3: Vratna Gates"
+          },
+          "coords": [
+            22.33,
+            44.22
+          ],
+          "category": "natural features",
+          "arrive_at": "16:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 42,
+          "hop_from_prev_km": 38.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem Naturwunder. Ein Wanderweg führt Sie zu den Felsentoren.",
+            "hu": "Vezessen el ehhez a természeti csodához. Egy túraútvonal vezet a sziklakapukhoz.",
+            "ro": "Conduceți spre această minune naturală. O potecă de drumeție vă duce la porțile de piatră.",
+            "en": "Drive to this natural wonder. A hiking trail leads you to the stone gates."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Vratna",
+            "hu": "Vratna kolostor",
+            "ro": "Mănăstirea Vratna",
+            "en": "Vratna Monastery"
+          },
+          "coords": [
+            22.335,
+            44.222
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:29",
+          "stay_min": 31,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kleines Kloster in der Nähe der Tore, perfekt für einen ruhigen Abschluss.",
+            "hu": "Egy kis kolostor a kapuk közelében, tökéletes a csendes befejezéshez.",
+            "ro": "O mică mănăstire lângă porți, perfectă pentru o încheiere liniștită.",
+            "en": "A small monastery near the gates, perfect for a quiet conclusion."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie das Beste von Negotin und der dramatischen Landschaft der Krajina entdecken. Beginnen Sie Ihren Vormittag mit einem Spaziergang durch das historische Zentrum von Negotin und besuchen Sie die wichtigsten Sehenswürdigkeiten. Am Mittag fahren Sie zum faszinierenden Weindorf Rajačke Pimnice, wo Sie in die einzigartige Atmosphäre der alten Steinkeller eintauchen und ein traditionelles Mittagessen mit Weinprobe genießen. Der Nachmittag ist einem Abenteuer gewidmet: eine Fahrt zu den beeindruckenden Vratna-Toren, einem Naturwunder aus Felsbögen. Ein kurzer Spaziergang in der Nähe zum Kloster Vratna rundet einen Tag voller Kontraste zwischen Kultur, Gastronomie und Natur ab.",
+        "hu": "Autóval felfedezheti Negotin legjavát és a Krajina drámai tájait. Kezdje a délelőttöt egy sétával Negotin történelmi központjában. Délben utazzon el a lenyűgöző Rajačke Pimnice borfaluba, ahol elmerülhet a régi kőpincék egyedi hangulatában, és elfogyaszthat egy hagyományos ebédet borkóstolóval. A délután egy kalandé: egy utazás a lenyűgöző Vratna-kapukhoz, egy sziklaívekből álló természeti csodához. Egy közeli rövid séta a Vratna kolostorhoz teszi teljessé a kultúra, a gasztronómia és a természet kontrasztjaival teli napot.",
+        "ro": "Cu mașina, puteți descoperi tot ce este mai bun în Negotin și peisajul dramatic al Krajinei. Începeți dimineața cu un grup de opriri pietonale în centrul istoric al Negotinului. La prânz, conduceți spre fascinantul sat vinicol Rajačke Pimnice, unde vă puteți cufunda în atmosfera unică a vechilor pivnițe de piatră pentru un prânz tradițional și degustare de vin. După-amiaza este dedicată aventurii: o călătorie spre impresionantele Porți ale Vratnei, o minune naturală a arcadelor de stâncă. O scurtă plimbare în apropiere spre Mănăstirea Vratna încheie o zi plină de contraste între cultură, gastronomie și natură.",
+        "en": "The car allows you to unlock the best of Negotin and the dramatic Krajina landscape. Start your morning with a cluster of walking stops in Negotin's historic center. For midday, drive to the fascinating Rajačke Pimnice wine village, where you can immerse yourself in the unique atmosphere of the ancient stone cellars for a traditional lunch and wine tasting. The afternoon is for adventure: a drive to the stunning Vratna Gates, a natural wonder of rock arches. A short nearby walk to Vratna Monastery completes a day of contrasts between culture, gastronomy, and nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lamm am Spieß",
+            "tip": "Eine Spezialität, die oft in den Restaurants in der Nähe von Natursehenswürdigkeiten angeboten wird."
+          },
+          {
+            "name": "Pimnice Wein",
+            "tip": "Probieren Sie die einzigartigen Weine direkt von den Erzeugern in den historischen Kellern."
+          },
+          {
+            "name": "Kačamak",
+            "tip": "Ein traditionelles Maisbrei-Gericht, oft mit Käse oder Sahne serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nyárson sült bárány",
+            "tip": "Specialitás, amelyet gyakran kínálnak a természeti látnivalók közelében lévő éttermekben."
+          },
+          {
+            "name": "Pimnice bor",
+            "tip": "Kóstolja meg az egyedi borokat közvetlenül a termelőktől a történelmi pincékben."
+          },
+          {
+            "name": "Kačamak",
+            "tip": "Hagyományos kukoricakása étel, gyakran sajttal vagy tejföllel tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miel la proțap",
+            "tip": "O specialitate adesea găsită la restaurantele din apropierea atracțiilor naturale."
+          },
+          {
+            "name": "Vin de Pimnice",
+            "tip": "Gustați vinurile unice direct de la producători în pivnițele istorice."
+          },
+          {
+            "name": "Kačamak",
+            "tip": "Un fel de mâncare tradițional din mălai, adesea servit cu brânză sau smântână."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lamb on a spit",
+            "tip": "A specialty often found at restaurants near natural attractions."
+          },
+          {
+            "name": "Pimnice Wine",
+            "tip": "Taste the unique wines directly from the producers in the historic cellars."
+          },
+          {
+            "name": "Kačamak",
+            "tip": "A traditional cornmeal porridge dish, often served with cheese or cream."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vratna-Tore",
+            "tip": "Die Wanderung zu den Toren bietet atemberaubende Ausblicke und ruhige Momente.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kloster Bukovo",
+            "tip": "Ein Abstecher auf dem Weg zurück von Vratna bietet einen Moment der Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vratna-kapuk",
+            "tip": "A kapukhoz vezető túra lélegzetelállító kilátást és csendes pillanatokat kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bukovo kolostor",
+            "tip": "Egy kitérő a Vratnából visszafelé vezető úton egy pillanatnyi elmélkedést kínál.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Porțile Vratnei",
+            "tip": "Drumeția spre porți oferă priveliști uluitoare și momente de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mănăstirea Bukovo",
+            "tip": "Un ocol pe drumul de întoarcere de la Vratna oferă un moment de contemplare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vratna Gates",
+            "tip": "The hike to the gates offers stunning views and quiet moments.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bukovo Monastery",
+            "tip": "A detour on the way back from Vratna provides a moment of contemplation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wein aus Rajačke Pimnice",
+            "tip": "Kaufen Sie authentischen Wein, den Sie sonst nirgendwo finden."
+          },
+          {
+            "name": "Lokales Kunsthandwerk",
+            "tip": "In den Dörfern rund um Negotin finden Sie oft einzigartige handgemachte Gegenstände."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bor Rajačke Pimnicéből",
+            "tip": "Vásároljon autentikus bort, amelyet máshol nem talál."
+          },
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Negotin körüli falvakban gyakran talál egyedi kézműves tárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin de la Rajačke Pimnice",
+            "tip": "Cumpărați vin autentic pe care nu îl veți găsi în altă parte."
+          },
+          {
+            "name": "Artizanat local",
+            "tip": "În satele din jurul Negotinului puteți găsi adesea obiecte unice, lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wine from Rajačke Pimnice",
+            "tip": "Buy authentic wine you won't find anywhere else."
+          },
+          {
+            "name": "Local crafts",
+            "tip": "You can often find unique handmade items in the villages surrounding Negotin."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Stellen Sie sicher, dass Sie genügend Benzin haben, bevor Sie die Stadt verlassen.",
+          "Die Straßen zu den Natursehenswürdigkeiten können eng und kurvenreich sein.",
+          "Tragen Sie gutes Schuhwerk für die Wanderung zu den Vratna-Toren.",
+          "Der Fahrer sollte bei der Weinprobe vorsichtig sein."
+        ],
+        "hu": [
+          "Győződjön meg róla, hogy elegendő üzemanyaga van, mielőtt elhagyja a várost.",
+          "A természeti látnivalókhoz vezető utak szűkek és kanyargósak lehetnek.",
+          "Viseljen jó lábbelit a Vratna-kapukhoz vezető túrához.",
+          "A sofőr legyen óvatos a borkóstolón."
+        ],
+        "ro": [
+          "Asigurați-vă că aveți suficient combustibil înainte de a părăsi orașul.",
+          "Drumurile spre atracțiile naturale pot fi înguste și șerpuite.",
+          "Purtați încălțăminte adecvată pentru drumeția spre Porțile Vratnei.",
+          "Șoferul ar trebui să fie precaut la degustarea de vin."
+        ],
+        "en": [
+          "Make sure you have enough fuel before leaving the city.",
+          "The roads to the natural attractions can be narrow and winding.",
+          "Wear good footwear for the hike to the Vratna Gates.",
+          "The driver should be cautious with wine tasting."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Negotin Zentrum (zu Fuß)",
+            "hu": "1. klaszter: Negotin központ (gyalog)",
+            "ro": "Cluster 1: Centrul Negotin (pe jos)",
+            "en": "Cluster 1: Negotin Center (on foot)"
+          },
+          "coords": [
+            22.531,
+            44.2255
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie am zentralen Busbahnhof und gehen Sie zum Hajduk-Veljko-Denkmal.",
+            "hu": "Induljon a központi buszpályaudvarról és sétáljon a Hajduk Veljko emlékműhöz.",
+            "ro": "Începeți de la autogara centrală și mergeți pe jos până la Monumentul lui Hajduk Veljko.",
+            "en": "Start from the central bus station and walk to the Hajduk Veljko Monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale der Heiligen Dreifaltigkeit",
+            "hu": "Szentháromság-székesegyház",
+            "ro": "Catedrala Sfânta Treime",
+            "en": "Cathedral of the Holy Trinity"
+          },
+          "coords": [
+            22.532,
+            44.226
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:12",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Denkmal entfernt.",
+            "hu": "Rövid séta az emlékműtől.",
+            "ro": "O scurtă plimbare de la monument.",
+            "en": "A short walk from the monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Krajina",
+            "hu": "Krajina Múzeum",
+            "ro": "Muzeul Krajinei",
+            "en": "Museum of Krajina"
+          },
+          "coords": [
+            22.535,
+            44.229
+          ],
+          "category": "museums",
+          "arrive_at": "10:01",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der letzte Halt in Ihrem Rundgang durch das Zentrum.",
+            "hu": "Az utolsó megálló a belvárosi sétán.",
+            "ro": "Ultima oprire în turul dumneavoastră pietonal prin centru.",
+            "en": "The final stop in your walking tour of the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Innenstadt",
+            "hu": "Ebéd a belvárosban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city center"
+          },
+          "coords": [
+            22.533,
+            44.227
+          ],
+          "category": "gastro",
+          "arrive_at": "11:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Stärken Sie sich vor Ihrer Busfahrt am Nachmittag.",
+            "hu": "Erősítsen a délutáni buszozás előtt.",
+            "ro": "Luați-vă puteri înainte de călătoria cu autobuzul de după-amiază.",
+            "en": "Fuel up before your afternoon bus journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Kloster Bukovo",
+            "hu": "2. klaszter: Bukovo kolostor",
+            "ro": "Cluster 2: Mănăstirea Bukovo",
+            "en": "Cluster 2: Bukovo Monastery"
+          },
+          "coords": [
+            22.485,
+            44.215
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:14",
+          "stay_min": 90,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus zum Kloster. Informieren Sie sich über den Fahrplan.",
+            "hu": "Menjen helyi busszal a kolostorhoz. Tájékozódjon a menetrendről.",
+            "ro": "Luați un autobuz local spre mănăstire. Verificați orarul acestuia.",
+            "en": "Take a local bus to the monastery. Check its schedule."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr nach Negotin",
+            "hu": "Visszatérés Negotinba",
+            "ro": "Întoarcere la Negotin",
+            "en": "Return to Negotin"
+          },
+          "coords": [
+            22.53,
+            44.2264
+          ],
+          "category": "historical",
+          "arrive_at": "15:12",
+          "stay_min": 138,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 6.9,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück ins Zentrum und genießen Sie den Rest des Nachmittags zur freien Verfügung.",
+            "hu": "Menjen vissza busszal a központba, és élvezze a délután hátralévő részét szabadon.",
+            "ro": "Luați autobuzul înapoi în centru și bucurați-vă de restul după-amiezii pe îndelete.",
+            "en": "Take the bus back to the center and enjoy the rest of the afternoon at your leisure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Plan nutzt den lokalen Nahverkehr, um Negotin und einen wichtigen nahegelegenen Ort zu verbinden. Der Vormittag ist einem umfassenden Rundgang durch das Stadtzentrum von Negotin gewidmet, bei dem Sie von der Kathedrale zum Museum schlendern. Nach einem stärkenden Mittagessen in der Stadt nehmen Sie einen lokalen Bus für eine spirituelle Reise zum Kloster Bukovo. Verbringen Sie dort Zeit in der ruhigen Umgebung, bevor Sie am Nachmittag den Bus zurück ins Stadtzentrum nehmen. Der Rest des Tages steht Ihnen zur freien Verfügung, um einzukaufen, einen Kaffee zu trinken oder einfach die lokale Atmosphäre zu genießen.",
+        "hu": "Ez a terv a helyi tömegközlekedést használja Negotin és egy fontos közeli helyszín összekötésére. A délelőttöt egy átfogó séta teszi ki Negotin belvárosában, a székesegyháztól a múzeumig. Egy kiadós városi ebéd után helyi busszal induljon egy spirituális utazásra a Bukovo kolostorhoz. Töltsön időt a nyugodt környezetben, mielőtt délután visszabuszozik a városközpontba. A nap hátralévő részében szabadon vásárolhat, kávézhat, vagy egyszerűen csak élvezheti a helyi hangulatot.",
+        "ro": "Acest itinerar folosește transportul public local pentru a conecta Negotinul cu un sit important din apropiere. Dimineața este dedicată unui tur pietonal cuprinzător al centrului orașului Negotin, plimbându-vă de la catedrală la muzeu. După un prânz revigorant în oraș, luați un autobuz local pentru o călătorie spirituală la Mănăstirea Bukovo. Petreceți timp în împrejurimile sale senine înainte de a lua autobuzul înapoi în centrul orașului după-amiaza. Restul zilei este la dispoziția dumneavoastră pentru cumpărături, o cafea sau pur și simplu pentru a vă bucura de atmosfera locală.",
+        "en": "This itinerary uses local transit to connect Negotin and one key nearby site. The morning is dedicated to a comprehensive walking tour of Negotin's city center, strolling from the cathedral to the museum. After a fortifying lunch in town, you'll take a local bus for a spiritual journey to Bukovo Monastery. Spend time in its serene surroundings before catching the bus back to the city center in the afternoon. The rest of your day is free for shopping, coffee, or just enjoying the local vibe."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Burek",
+            "tip": "Ein Blätterteiggebäck mit Fleisch- oder Käsefüllung, ideal für ein schnelles Frühstück oder einen Snack."
+          },
+          {
+            "name": "Krofne",
+            "tip": "Serbische Donuts, ein süßer Genuss."
+          },
+          {
+            "name": "Domaća kafa",
+            "tip": "Starker, türkischer Kaffee, der überall serviert wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Burek",
+            "tip": "Húsos vagy sajtos töltelékű leveles tészta, ideális gyors reggelire vagy uzsonnára."
+          },
+          {
+            "name": "Krofne",
+            "tip": "Szerb fánk, édes finomság."
+          },
+          {
+            "name": "Domaća kafa",
+            "tip": "Erős, török kávé, mindenhol felszolgálják."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Burek",
+            "tip": "O plăcintă din foietaj umplută cu carne sau brânză, ideală pentru un mic dejun rapid sau o gustare."
+          },
+          {
+            "name": "Krofne",
+            "tip": "Gogoși sârbești, un deliciu dulce."
+          },
+          {
+            "name": "Domaća kafa",
+            "tip": "Cafea tare, turcească, servită peste tot."
+          }
+        ],
+        "en": [
+          {
+            "name": "Burek",
+            "tip": "A flaky pastry filled with meat or cheese, great for a quick breakfast or snack."
+          },
+          {
+            "name": "Krofne",
+            "tip": "Serbian doughnuts, a sweet treat."
+          },
+          {
+            "name": "Domaća kafa",
+            "tip": "Strong, Turkish-style coffee served everywhere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kloster Bukovo",
+            "tip": "Ein Ort der Ruhe, der mit dem Bus erreichbar ist.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ein Café in einer Seitenstraße",
+            "tip": "Entfliehen Sie dem Trubel und beobachten Sie das Leben vor Ort.",
+            "emoji": "☕"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bukovo kolostor",
+            "tip": "A nyugalom helye, busszal elérhető.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kávézó egy mellékutcában",
+            "tip": "Meneküljön el a nyüzsgés elől, és figyelje a helyi életet.",
+            "emoji": "☕"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mănăstirea Bukovo",
+            "tip": "Un loc de liniște accesibil cu autobuzul.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "O cafenea pe o stradă lăturalnică",
+            "tip": "Evadați din agitație și priviți viața locală.",
+            "emoji": "☕"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bukovo Monastery",
+            "tip": "A place of peace accessible by bus.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A cafe on a side street",
+            "tip": "Escape the bustle and watch local life.",
+            "emoji": "☕"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt in Negotin",
+            "tip": "Kaufen Sie frische Produkte oder kleine Snacks für Ihre Busfahrt."
+          },
+          {
+            "name": "Ikonen und religiöse Andenken",
+            "tip": "Erhältlich im Klosterladen in Bukovo."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac Negotinban",
+            "tip": "Vásároljon friss termékeket vagy kis harapnivalókat a buszútra."
+          },
+          {
+            "name": "Ikonok és vallási emléktárgyak",
+            "tip": "Kapható a bukovói kolostor boltjában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală din Negotin",
+            "tip": "Cumpărați produse proaspete sau mici gustări pentru călătoria cu autobuzul."
+          },
+          {
+            "name": "Icoane și suveniruri religioase",
+            "tip": "Disponibile la magazinul mănăstirii din Bukovo."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local market in Negotin",
+            "tip": "Buy some fresh produce or small snacks for your bus ride."
+          },
+          {
+            "name": "Icons and religious souvenirs",
+            "tip": "Available at the monastery shop in Bukovo."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich im Voraus über die Busfahrpläne, da diese möglicherweise nicht häufig verkehren.",
+          "Haben Sie Kleingeld für die Bustickets dabei.",
+          "Planen Sie Pufferzeiten für eventuelle Busverspätungen ein.",
+          "Fragen Sie Einheimische oder den Busfahrer nach der richtigen Haltestelle für das Kloster."
+        ],
+        "hu": [
+          "Előre tájékozódjon a buszmenetrendről, mert lehet, hogy nem járnak sűrűn.",
+          "Legyen nálad aprópénz a buszjegyekre.",
+          "Tervezzen pufferidőt az esetleges buszkésésekre.",
+          "Kérdezze meg a helyieket vagy a buszsofőrt a kolostorhoz megfelelő megállóról."
+        ],
+        "ro": [
+          "Verificați în avans orarele autobuzelor, deoarece s-ar putea să nu fie frecvente.",
+          "Aveți la îndemână bani mărunți pentru biletele de autobuz.",
+          "Lăsați timp suplimentar în program pentru posibile întârzieri ale autobuzelor.",
+          "Întrebați localnicii sau șoferul de autobuz care este stația corectă pentru mănăstire."
+        ],
+        "en": [
+          "Check bus schedules in advance, as they might not be frequent.",
+          "Have small change ready for bus fares.",
+          "Plan buffer time for any potential bus delays.",
+          "Ask locals or the bus driver for the correct stop for the monastery."
+        ]
+      }
+    }
+  }
+}

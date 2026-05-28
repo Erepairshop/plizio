@@ -1,0 +1,1518 @@
+{
+  "city_id": "czechrepublic-hradec-kralove-cities-v2",
+  "anchor": {
+    "name": "Königgrätz",
+    "coords": [
+      15.8319,
+      50.2086
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Velké náměstí (Großer Platz)",
+            "hu": "Velké náměstí (Nagy tér)",
+            "ro": "Velké náměstí (Piața Mare)",
+            "en": "Velké náměstí (Great Square)"
+          },
+          "coords": [
+            15.8325,
+            50.209
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee und beobachten Sie das städtische Leben.",
+            "hu": "Kezdje a napot egy kávéval, és figyelje a város ébredését.",
+            "ro": "Începeți ziua aici cu o cafea, privind viața orașului.",
+            "en": "Start your day here with a coffee and watch the city life."
+          }
+        },
+        {
+          "name": {
+            "de": "Weißer Turm",
+            "hu": "Fehér torony",
+            "ro": "Turnul Alb",
+            "en": "White Tower"
+          },
+          "coords": [
+            15.832,
+            50.2092
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für die beste Aussicht auf die Stadt und die Umgebung.",
+            "hu": "A lépcsőzés megéri a fáradságot a városra nyíló legjobb kilátásért.",
+            "ro": "Urcarea merită efortul pentru cea mai bună priveliște asupra orașului.",
+            "en": "The climb is worth it for the best view of the city and its surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Heilig-Geist-Kathedrale",
+            "hu": "Szentlélek-katedrális",
+            "ro": "Catedrala Sfântul Duh",
+            "en": "Cathedral of the Holy Spirit"
+          },
+          "coords": [
+            15.833,
+            50.2095
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Achten Sie auf die einzigartige gotische Backsteinarchitektur.",
+            "hu": "Figyelje meg az egyedülálló gótikus téglajegyeket.",
+            "ro": "Observați arhitectura gotică unică, din cărămidă.",
+            "en": "Notice the unique Gothic brick architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Galerie für moderne Kunst",
+            "hu": "Modern Művészeti Galéria",
+            "ro": "Galeria de Artă Modernă",
+            "en": "Gallery of Modern Art"
+          },
+          "coords": [
+            15.83,
+            50.2105
+          ],
+          "category": "museums",
+          "arrive_at": "11:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein Muss für Liebhaber der tschechischen Kunst des 20. Jahrhunderts.",
+            "hu": "A 20. századi cseh művészet kedvelőinek kötelező.",
+            "ro": "O vizită obligatorie pentru iubitorii de artă cehă din secolul XX.",
+            "en": "A must-see for lovers of 20th-century Czech art."
+          }
+        },
+        {
+          "name": {
+            "de": "Ostböhmisches Museum",
+            "hu": "Kelet-Csehországi Múzeum",
+            "ro": "Muzeul Boemiei de Est",
+            "en": "Museum of Eastern Bohemia"
+          },
+          "coords": [
+            15.827,
+            50.211
+          ],
+          "category": "museums",
+          "arrive_at": "12:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das Jugendstilgebäude selbst ist ebenso beeindruckend wie die Ausstellungen.",
+            "hu": "Maga a szecessziós épület is lenyűgöző.",
+            "ro": "Clădirea Art Nouveau este la fel de impresionantă ca și exponatele.",
+            "en": "The Art Nouveau building itself is as impressive as the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Klicpera-Theater",
+            "hu": "Klicpera Színház",
+            "ro": "Teatrul Klicpera",
+            "en": "Klicpera Theatre"
+          },
+          "coords": [
+            15.8285,
+            50.208
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:05",
+          "stay_min": 20,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fassade und prüfen Sie den Spielplan für Abendvorstellungen.",
+            "hu": "Csodálja meg a homlokzatot, és nézze meg az esti programot.",
+            "ro": "Admirați fațada și verificați programul pentru un spectacol de seară.",
+            "en": "Admire the facade and check the schedule for an evening performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Jirásek-Park",
+            "hu": "Jirásek park",
+            "ro": "Parcul Jirásek",
+            "en": "Jirásek Park"
+          },
+          "coords": [
+            15.835,
+            50.206
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:39",
+          "stay_min": 106,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für einen entspannten Spaziergang am Zusammenfluss von Elbe und Adler.",
+            "hu": "Tökéletes hely egy pihentető sétára az Elba és az Orlice összefolyásánál.",
+            "ro": "Un loc perfect pentru o plimbare relaxantă la confluența râurilor Elba și Orlice.",
+            "en": "A perfect spot for a relaxing walk at the confluence of the Elbe and Orlice rivers."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Königgrätz beginnt am historischen Großen Platz, umgeben von architektonischen Juwelen. Nach dem Aufstieg auf den Weißen Turm für eine Panoramaaussicht erkunden Sie die gotische Heilig-Geist-Kathedrale. Am Vormittag tauchen Sie in die tschechische Kunst in der Galerie für moderne Kunst ein. Der Nachmittag ist der reichen Geschichte im Ostböhmischen Museum gewidmet. Später bewundern Sie das Klicpera-Theater, bevor Sie den Tag mit einem ruhigen Spaziergang im Jirásek-Park am Flussufer ausklingen lassen.",
+        "hu": "A nap Hradec Královéban a történelmi Nagy téren indul, építészeti gyöngyszemekkel körülvéve. Miután megmássza a Fehér tornyot a panorámáért, felfedezi a gótikus Szentlélek-katedrálist. A délelőtt a cseh művészeté a Modern Művészeti Galériában. A délután a gazdag történelemé a Kelet-Csehországi Múzeumban. Később megcsodálja a Klicpera Színházat, mielőtt egy csendes sétával zárja a napot a folyóparti Jirásek parkban.",
+        "ro": "Ziua dvs. în Hradec Králové începe în Piața Mare istorică, înconjurată de bijuterii arhitecturale. După ce urcați în Turnul Alb pentru o priveliște panoramică, explorați gotica Catedrală a Sfântului Duh. Dimineața vă scufundați în arta cehă la Galeria de Artă Modernă. După-amiaza este dedicată istoriei bogate la Muzeul Boemiei de Est. Mai târziu, admirați Teatrul Klicpera înainte de a încheia ziua cu o plimbare liniștită în Parcul Jirásek de pe malul râului.",
+        "en": "Your day in Hradec Králové begins at the historic Great Square, surrounded by architectural gems. After climbing the White Tower for a panoramic view, you'll explore the Gothic Cathedral of the Holy Spirit. The morning is for immersing yourself in Czech art at the Gallery of Modern Art. The afternoon is dedicated to the rich history at the Museum of Eastern Bohemia. Later, admire the Klicpera Theatre before ending the day with a peaceful stroll in Jirásek Park by the river."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Špork",
+            "tip": "Probieren Sie das 'Hovězí guláš' (Rindergulasch) in diesem traditionellen Restaurant."
+          },
+          {
+            "name": "Na Hradě",
+            "tip": "Genießen Sie 'Svíčková na smetaně' mit einem tollen Blick auf die Kathedrale."
+          },
+          {
+            "name": "Lokál U Bílého koníčka",
+            "tip": "Perfekt für ein kühles Pilsner Urquell und klassische tschechische Biersnacks."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Špork",
+            "tip": "Kóstolja meg a 'Hovězí guláš'-t (marhagulyás) ebben a hagyományos étteremben."
+          },
+          {
+            "name": "Na Hradě",
+            "tip": "Élvezze a 'Svíčková na smetaně'-t a katedrálisra nyíló remek kilátással."
+          },
+          {
+            "name": "Lokál U Bílého koníčka",
+            "tip": "Tökéletes egy hideg Pilsner Urquellhez és klasszikus cseh sörkorcsolyákhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Špork",
+            "tip": "Încercați 'Hovězí guláš' (gulaș de vită) la acest restaurant tradițional."
+          },
+          {
+            "name": "Na Hradě",
+            "tip": "Savurați 'Svíčková na smetaně' cu o priveliște minunată spre catedrală."
+          },
+          {
+            "name": "Lokál U Bílého koníčka",
+            "tip": "Perfect pentru o bere Pilsner Urquell rece și gustări clasice cehe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Špork",
+            "tip": "Try the 'Hovězí guláš' (beef goulash) at this traditional restaurant."
+          },
+          {
+            "name": "Na Hradě",
+            "tip": "Enjoy 'Svíčková na smetaně' with a great view of the cathedral."
+          },
+          {
+            "name": "Lokál U Bílého koníčka",
+            "tip": "Perfect for a cold Pilsner Urquell and classic Czech beer snacks."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jirásek-Park",
+            "tip": "Finden Sie eine Bank am Fluss und genießen Sie die Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Zusammenfluss von Elbe und Adler",
+            "tip": "Ein malerischer Ort, ideal zum Nachdenken und Entspannen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dachterrasse der Galerie für moderne Kunst",
+            "tip": "Ein ruhiger Ort mit einer einzigartigen Perspektive auf die Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jirásek park",
+            "tip": "Keressen egy padot a folyó mellett, és élvezze a csendet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Elba és Orlice összefolyása",
+            "tip": "Festői hely, ideális elmélkedéshez és pihenéshez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Modern Művészeti Galéria tetőterasza",
+            "tip": "Csendes hely, ahonnan egyedi perspektíva nyílik a városra.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Jirásek",
+            "tip": "Găsiți o bancă lângă râu și bucurați-vă de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Confluența râurilor Elba și Orlice",
+            "tip": "Un loc pitoresc, ideal pentru reflecție și relaxare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Terasa de pe acoperișul Galeriei de Artă Modernă",
+            "tip": "Un spațiu liniștit cu o perspectivă unică asupra orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jirásek Park",
+            "tip": "Find a bench by the river and enjoy the tranquility.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Confluence of Elbe and Orlice",
+            "tip": "A picturesque spot, ideal for reflection and relaxation.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Rooftop terrace of the Gallery of Modern Art",
+            "tip": "A quiet space offering a unique perspective of the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte am Großen Platz",
+            "tip": "Finden Sie lokale Souvenirs und böhmisches Kristallglas."
+          },
+          {
+            "name": "Bauernmarkt (Zelená brána)",
+            "tip": "Kaufen Sie frische lokale Produkte und handgemachte Waren, wenn er stattfindet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Üzletek a Nagy téren",
+            "tip": "Keressen helyi ajándéktárgyakat és cseh kristályt."
+          },
+          {
+            "name": "Termelői piac (Zelená brána)",
+            "tip": "Vásároljon friss helyi termékeket és kézműves árukat, ha épp piacnap van."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine în Piața Mare",
+            "tip": "Găsiți suveniruri locale și cristal de Boemia."
+          },
+          {
+            "name": "Piața fermierilor (Zelená brána)",
+            "tip": "Cumpărați produse locale proaspete și articole de artizanat, dacă este deschisă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops in the Great Square",
+            "tip": "Find local souvenirs and Bohemian crystal."
+          },
+          {
+            "name": "Farmers' Market (Zelená brána)",
+            "tip": "Shop for fresh local produce and handmade goods if it's market day."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Planen Sie zusätzliche Zeit für Fotostopps ein, besonders am Flussufer.",
+          "Prüfen Sie die Öffnungszeiten der Museen, da diese montags oft geschlossen sind."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, a macskakő egyenetlen lehet az óvárosban.",
+          "A legtöbb központi látnivaló könnyen elérhető gyalog.",
+          "Tervezzen plusz időt a fotózásra, különösen a folyóparton.",
+          "Ellenőrizze a múzeumok nyitvatartását, hétfőnként gyakran zárva tartanak."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, pavajul din centrul vechi poate fi denivelat.",
+          "Majoritatea atracțiilor centrale sunt ușor accesibile pe jos.",
+          "Planificați timp suplimentar pentru opriri foto, în special pe malul râului.",
+          "Verificați programul muzeelor, deoarece sunt adesea închise lunea."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Most central sights are within easy walking distance.",
+          "Allow extra time for photo stops, especially along the riverbank.",
+          "Check museum opening times, as they are often closed on Mondays."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Velké náměstí (Großer Platz)",
+            "hu": "Velké náměstí (Nagy tér)",
+            "ro": "Velké náměstí (Piața Mare)",
+            "en": "Velké náměstí (Great Square)"
+          },
+          "coords": [
+            15.8325,
+            50.209
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Rad an und erkunden Sie den Platz zu Fuß.",
+            "hu": "Zárja le a biciklit, és fedezze fel a teret gyalog.",
+            "ro": "Încuietoarea bicicletei și explorați piața pe jos.",
+            "en": "Lock up your bike and explore the square on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Heilig-Geist-Kathedrale & Weißer Turm",
+            "hu": "Szentlélek-katedrális és Fehér torony",
+            "ro": "Catedrala Sf. Duh și Turnul Alb",
+            "en": "Holy Spirit Cathedral & White Tower"
+          },
+          "coords": [
+            15.8328,
+            50.2093
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kombinieren Sie diese beiden Wahrzeichen, sie liegen direkt nebeneinander.",
+            "hu": "Kombinálja ezt a két látnivalót, egymás mellett vannak.",
+            "ro": "Combinați aceste două repere, sunt chiar unul lângă celălalt.",
+            "en": "Combine these two landmarks, they are right next to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Ostböhmisches Museum",
+            "hu": "Kelet-Csehországi Múzeum",
+            "ro": "Muzeul Boemiei de Est",
+            "en": "Museum of Eastern Bohemia"
+          },
+          "coords": [
+            15.827,
+            50.211
+          ],
+          "category": "museums",
+          "arrive_at": "11:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Ein kurzer, angenehmer Ritt über die Elbe bringt Sie zu diesem Juwel.",
+            "hu": "Egy rövid, kellemes tekerés az Elba felett eljuttatja ehhez a gyöngyszemhez.",
+            "ro": "O plimbare scurtă și plăcută peste Elba vă duce la această bijuterie.",
+            "en": "A short, pleasant ride across the Elbe brings you to this gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Galerie für moderne Kunst",
+            "hu": "Modern Művészeti Galéria",
+            "ro": "Galeria de Artă Modernă",
+            "en": "Gallery of Modern Art"
+          },
+          "coords": [
+            15.83,
+            50.2105
+          ],
+          "category": "museums",
+          "arrive_at": "12:47",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad in der Nähe ab und genießen Sie die Kunst.",
+            "hu": "Parkolja le a kerékpárt a közelben, és élvezze a művészetet.",
+            "ro": "Parcați bicicleta în apropiere și bucurați-vă de artă.",
+            "en": "Park your bike nearby and enjoy the art."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserkraftwerk Hučák",
+            "hu": "Hučák vízerőmű",
+            "ro": "Hidrocentrala Hučák",
+            "en": "Hučák Hydroelectric Power Plant"
+          },
+          "coords": [
+            15.825,
+            50.2075
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:26",
+          "stay_min": 50,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein faszinierender Einblick in die Industriegeschichte, leicht mit dem Rad erreichbar.",
+            "hu": "Lenyűgöző bepillantás az ipartörténetbe, kerékpárral könnyen elérhető.",
+            "ro": "O privire fascinantă în istoria industrială, ușor accesibilă cu bicicleta.",
+            "en": "A fascinating look into industrial history, easily reachable by bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Klicpera-Theater",
+            "hu": "Klicpera Színház",
+            "ro": "Teatrul Klicpera",
+            "en": "Klicpera Theatre"
+          },
+          "coords": [
+            15.8285,
+            50.208
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:21",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto von dem schönen Gebäude auf Ihrer Radtour.",
+            "hu": "Készítsen egy fotót a gyönyörű épületről a biciklitúra során.",
+            "ro": "Faceți o fotografie a clădirii frumoase în timpul turului cu bicicleta.",
+            "en": "Snap a photo of the beautiful building on your bike tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Jirásek-Park",
+            "hu": "Jirásek park",
+            "ro": "Parcul Jirásek",
+            "en": "Jirásek Park"
+          },
+          "coords": [
+            15.835,
+            50.206
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:59",
+          "stay_min": 96,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einer entspannten Fahrt durch den Park entlang des Flusses.",
+            "hu": "Zárja a kerékpártúrát egy pihentető tekeréssel a parkban a folyó mentén.",
+            "ro": "Încheiați turul cu bicicleta cu o plimbare relaxantă prin parc de-a lungul râului.",
+            "en": "End your bike tour with a relaxing ride through the park along the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie mit dem Fahrrad am Großen Platz und besuchen Sie die nahegelegene Kathedrale und den Turm. Am Vormittag radeln Sie über die Elbe zum beeindruckenden Ostböhmischen Museum und zur Galerie für moderne Kunst. Nach dem Mittagessen führt Sie eine kurze Fahrt zum historischen Wasserkraftwerk Hučák. Am Nachmittag geht es weiter zum Klicpera-Theater, bevor Sie den Tag mit einer gemütlichen Fahrt durch den Jirásek-Park ausklingen lassen.",
+        "hu": "Induljon kerékpárral a Nagy térről, és látogassa meg a közeli katedrálist és tornyot. Délelőtt tekerjen át az Elba felett a lenyűgöző Kelet-Csehországi Múzeumhoz és a Modern Művészeti Galériához. Ebéd után egy rövid út vezet a történelmi Hučák vízerőműhöz. Délután folytassa útját a Klicpera Színházhoz, mielőtt a napot egy kellemes tekeréssel zárná a Jirásek parkon keresztül.",
+        "ro": "Începeți cu bicicleta din Piața Mare, vizitând catedrala și turnul din apropiere. Dimineața, pedalați peste Elba până la impresionantul Muzeu al Boemiei de Est și la Galeria de Artă Modernă. După prânz, o scurtă plimbare vă duce la hidrocentrala istorică Hučák. După-amiaza, continuați spre Teatrul Klicpera înainte de a încheia ziua cu o plimbare relaxantă prin Parcul Jirásek.",
+        "en": "Start by bike from the Great Square, visiting the nearby cathedral and tower. In the morning, cycle across the Elbe to the impressive Museum of Eastern Bohemia and the Gallery of Modern Art. After lunch, a short ride takes you to the historic Hučák Hydroelectric Power Plant. In the afternoon, continue to the Klicpera Theatre before ending the day with a leisurely ride through Jirásek Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Špork",
+            "tip": "Probieren Sie das 'Hovězí guláš' (Rindergulasch) in diesem traditionellen Restaurant."
+          },
+          {
+            "name": "Na Hradě",
+            "tip": "Genießen Sie 'Svíčková na smetaně' mit einem tollen Blick auf die Kathedrale."
+          },
+          {
+            "name": "Lokál U Bílého koníčka",
+            "tip": "Perfekt für ein kühles Pilsner Urquell und klassische tschechische Biersnacks."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Špork",
+            "tip": "Kóstolja meg a 'Hovězí guláš'-t (marhagulyás) ebben a hagyományos étteremben."
+          },
+          {
+            "name": "Na Hradě",
+            "tip": "Élvezze a 'Svíčková na smetaně'-t a katedrálisra nyíló remek kilátással."
+          },
+          {
+            "name": "Lokál U Bílého koníčka",
+            "tip": "Tökéletes egy hideg Pilsner Urquellhez és klasszikus cseh sörkorcsolyákhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Špork",
+            "tip": "Încercați 'Hovězí guláš' (gulaș de vită) la acest restaurant tradițional."
+          },
+          {
+            "name": "Na Hradě",
+            "tip": "Savurați 'Svíčková na smetaně' cu o priveliște minunată spre catedrală."
+          },
+          {
+            "name": "Lokál U Bílého koníčka",
+            "tip": "Perfect pentru o bere Pilsner Urquell rece și gustări clasice cehe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Špork",
+            "tip": "Try the 'Hovězí guláš' (beef goulash) at this traditional restaurant."
+          },
+          {
+            "name": "Na Hradě",
+            "tip": "Enjoy 'Svíčková na smetaně' with a great view of the cathedral."
+          },
+          {
+            "name": "Lokál U Bílého koníčka",
+            "tip": "Perfect for a cold Pilsner Urquell and classic Czech beer snacks."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jirásek-Park",
+            "tip": "Finden Sie eine Bank am Fluss und genießen Sie die Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Zusammenfluss von Elbe und Adler",
+            "tip": "Ein malerischer Ort, ideal zum Nachdenken und Entspannen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dachterrasse der Galerie für moderne Kunst",
+            "tip": "Ein ruhiger Ort mit einer einzigartigen Perspektive auf die Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jirásek park",
+            "tip": "Keressen egy padot a folyó mellett, és élvezze a csendet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Elba és Orlice összefolyása",
+            "tip": "Festői hely, ideális elmélkedéshez és pihenéshez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Modern Művészeti Galéria tetőterasza",
+            "tip": "Csendes hely, ahonnan egyedi perspektíva nyílik a városra.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Jirásek",
+            "tip": "Găsiți o bancă lângă râu și bucurați-vă de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Confluența râurilor Elba și Orlice",
+            "tip": "Un loc pitoresc, ideal pentru reflecție și relaxare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Terasa de pe acoperișul Galeriei de Artă Modernă",
+            "tip": "Un spațiu liniștit cu o perspectivă unică asupra orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jirásek Park",
+            "tip": "Find a bench by the river and enjoy the tranquility.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Confluence of Elbe and Orlice",
+            "tip": "A picturesque spot, ideal for reflection and relaxation.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Rooftop terrace of the Gallery of Modern Art",
+            "tip": "A quiet space offering a unique perspective of the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte am Großen Platz",
+            "tip": "Finden Sie lokale Souvenirs und böhmisches Kristallglas."
+          },
+          {
+            "name": "Bauernmarkt (Zelená brána)",
+            "tip": "Kaufen Sie frische lokale Produkte und handgemachte Waren, wenn er stattfindet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Üzletek a Nagy téren",
+            "tip": "Keressen helyi ajándéktárgyakat és cseh kristályt."
+          },
+          {
+            "name": "Termelői piac (Zelená brána)",
+            "tip": "Vásároljon friss helyi termékeket és kézműves árukat, ha épp piacnap van."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine în Piața Mare",
+            "tip": "Găsiți suveniruri locale și cristal de Boemia."
+          },
+          {
+            "name": "Piața fermierilor (Zelená brána)",
+            "tip": "Cumpărați produse locale proaspete și articole de artizanat, dacă este deschisă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops in the Great Square",
+            "tip": "Find local souvenirs and Bohemian crystal."
+          },
+          {
+            "name": "Farmers' Market (Zelená brána)",
+            "tip": "Shop for fresh local produce and handmade goods if it's market day."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die gut ausgebauten Radwege entlang der Elbe.",
+          "Ein Fahrradschloss ist unerlässlich, um Ihr Rad sicher abzustellen.",
+          "Die Stadt ist relativ flach und daher sehr fahrradfreundlich.",
+          "Achten Sie auf Fußgänger in den belebten Bereichen der Altstadt."
+        ],
+        "hu": [
+          "Használja a jól kiépített kerékpárutakat az Elba mentén.",
+          "A kerékpárzár elengedhetetlen a biztonságos parkoláshoz.",
+          "A város viszonylag sík, ezért nagyon biciklibarát.",
+          "Vigyázzon a gyalogosokra az óváros forgalmas részein."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete bine dezvoltate de-a lungul râului Elba.",
+          "O încuietoare pentru bicicletă este esențială pentru a vă parca bicicleta în siguranță.",
+          "Orașul este relativ plat și, prin urmare, foarte prietenos cu bicicletele.",
+          "Fiți atenți la pietoni în zonele aglomerate ale orașului vechi."
+        ],
+        "en": [
+          "Take advantage of the well-developed cycle paths along the Elbe river.",
+          "A bike lock is essential for parking your bike securely.",
+          "The city is relatively flat and therefore very bike-friendly.",
+          "Be mindful of pedestrians in the busy areas of the old town."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Altstadt",
+            "hu": "Parkoló az Óvárosnál",
+            "ro": "Parcare Centrul Vechi",
+            "en": "Old Town Car Park"
+          },
+          "coords": [
+            15.8355,
+            50.21
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und beginnen Sie Ihren Rundgang durch die Altstadt.",
+            "hu": "Parkoljon le itt, és induljon az óvárosi sétára.",
+            "ro": "Parcați aici și începeți turul pe jos al centrului vechi.",
+            "en": "Park here and start your walking tour of the Old Town."
+          }
+        },
+        {
+          "name": {
+            "de": "Velké náměstí (Großer Platz)",
+            "hu": "Velké náměstí (Nagy tér)",
+            "ro": "Velké náměstí (Piața Mare)",
+            "en": "Velké náměstí (Great Square)"
+          },
+          "coords": [
+            15.8325,
+            50.209
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:17",
+          "stay_min": 30,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der zentrale Punkt des ersten Clusters Ihrer Tour.",
+            "hu": "A túra első klaszterének központi pontja.",
+            "ro": "Punctul central al primului grup de atracții din turul dvs.",
+            "en": "The central point of the first cluster of your tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Heilig-Geist-Kathedrale & Weißer Turm",
+            "hu": "Szentlélek-katedrális és Fehér torony",
+            "ro": "Catedrala Sf. Duh și Turnul Alb",
+            "en": "Holy Spirit Cathedral & White Tower"
+          },
+          "coords": [
+            15.8328,
+            50.2093
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden Wahrzeichen sind nur einen Steinwurf voneinander entfernt.",
+            "hu": "Ez a két nevezetesség csak egy kőhajításnyira van egymástól.",
+            "ro": "Aceste două repere sunt la o aruncătură de băț unul de celălalt.",
+            "en": "These two landmarks are just a stone's throw from each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz am Museum",
+            "hu": "Parkoló a múzeumnál",
+            "ro": "Parcare la muzeu",
+            "en": "Museum Car Park"
+          },
+          "coords": [
+            15.826,
+            50.2115
+          ],
+          "category": "transport",
+          "arrive_at": "11:20",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum zweiten Cluster und parken Sie in der Nähe der Museen.",
+            "hu": "Vezessen a második klaszterhez, és parkoljon a múzeumok közelében.",
+            "ro": "Conduceți la al doilea grup de atracții și parcați lângă muzee.",
+            "en": "Drive to the second cluster and park near the museums."
+          }
+        },
+        {
+          "name": {
+            "de": "Ostböhmisches Museum",
+            "hu": "Kelet-Csehországi Múzeum",
+            "ro": "Muzeul Boemiei de Est",
+            "en": "Museum of Eastern Bohemia"
+          },
+          "coords": [
+            15.827,
+            50.211
+          ],
+          "category": "museums",
+          "arrive_at": "11:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das beeindruckende Gebäude von Jan Kotěra ist ein Highlight.",
+            "hu": "Jan Kotěra lenyűgöző épülete kihagyhatatlan.",
+            "ro": "Clădirea impresionantă a lui Jan Kotěra este un punct de atracție.",
+            "en": "The impressive building by Jan Kotěra is a highlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Galerie für moderne Kunst",
+            "hu": "Modern Művészeti Galéria",
+            "ro": "Galeria de Artă Modernă",
+            "en": "Gallery of Modern Art"
+          },
+          "coords": [
+            15.83,
+            50.2105
+          ],
+          "category": "museums",
+          "arrive_at": "13:13",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Ostböhmischen Museum entfernt.",
+            "hu": "Csak egy rövid séta a Kelet-Csehországi Múzeumtól.",
+            "ro": "La o scurtă plimbare de Muzeul Boemiei de Est.",
+            "en": "Just a short walk from the Museum of Eastern Bohemia."
+          }
+        },
+        {
+          "name": {
+            "de": "Jirásek-Park & Flussufer",
+            "hu": "Jirásek park és folyópart",
+            "ro": "Parcul Jirásek și malul râului",
+            "en": "Jirásek Park & Riverbank"
+          },
+          "coords": [
+            15.835,
+            50.206
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:58",
+          "stay_min": 107,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum letzten Ziel des Tages für einen entspannenden Abschluss.",
+            "hu": "Vezessen a nap utolsó állomásához egy pihentető befejezésért.",
+            "ro": "Conduceți la destinația finală a zilei pentru o încheiere relaxantă.",
+            "en": "Drive to the final destination of the day for a relaxing end."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag, indem Sie in der Nähe der Altstadt parken. Erkunden Sie den ersten Cluster zu Fuß: den Großen Platz, die Kathedrale und den Weißen Turm. Am Vormittag fahren Sie zum zweiten Cluster, den Museen. Parken Sie erneut und besuchen Sie das Ostböhmische Museum und die Galerie für moderne Kunst. Den Nachmittag verbringen Sie am Flussufer. Fahren Sie zum Jirásek-Park, dem perfekten Ort, um den Tag entspannt ausklingen zu lassen.",
+        "hu": "Kezdje a napot az óváros közelében parkolva. Fedezze fel gyalog az első látnivalócsoportot: a Nagy teret, a katedrálist és a Fehér tornyot. Délelőtt vezessen át a második csoporthoz, a múzeumokhoz. Parkoljon le újra, és látogassa meg a Kelet-Csehországi Múzeumot és a Modern Művészeti Galériát. A délutánt a folyóparton töltse. Vezessen el a Jirásek parkba, amely tökéletes hely a nap pihentető befejezéséhez.",
+        "ro": "Începeți ziua parcând lângă Centrul Vechi. Explorați primul grup de atracții pe jos: Piața Mare, Catedrala și Turnul Alb. Dimineața, conduceți la al doilea grup, muzeele. Parcați din nou și vizitați Muzeul Boemiei de Est și Galeria de Artă Modernă. Petreceți după-amiaza pe malul râului. Conduceți la Parcul Jirásek, locul perfect pentru a încheia ziua într-un mod relaxant.",
+        "en": "Start your day by parking near the Old Town. Explore the first cluster on foot: the Great Square, the Cathedral, and the White Tower. In the morning, drive to the second cluster, the museums. Park again and visit the Museum of Eastern Bohemia and the Gallery of Modern Art. Spend the afternoon by the river. Drive to Jirásek Park, the perfect place to end the day with relaxation."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Špork",
+            "tip": "Probieren Sie das 'Hovězí guláš' (Rindergulasch) in diesem traditionellen Restaurant."
+          },
+          {
+            "name": "Na Hradě",
+            "tip": "Genießen Sie 'Svíčková na smetaně' mit einem tollen Blick auf die Kathedrale."
+          },
+          {
+            "name": "Lokál U Bílého koníčka",
+            "tip": "Perfekt für ein kühles Pilsner Urquell und klassische tschechische Biersnacks."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Špork",
+            "tip": "Kóstolja meg a 'Hovězí guláš'-t (marhagulyás) ebben a hagyományos étteremben."
+          },
+          {
+            "name": "Na Hradě",
+            "tip": "Élvezze a 'Svíčková na smetaně'-t a katedrálisra nyíló remek kilátással."
+          },
+          {
+            "name": "Lokál U Bílého koníčka",
+            "tip": "Tökéletes egy hideg Pilsner Urquellhez és klasszikus cseh sörkorcsolyákhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Špork",
+            "tip": "Încercați 'Hovězí guláš' (gulaș de vită) la acest restaurant tradițional."
+          },
+          {
+            "name": "Na Hradě",
+            "tip": "Savurați 'Svíčková na smetaně' cu o priveliște minunată spre catedrală."
+          },
+          {
+            "name": "Lokál U Bílého koníčka",
+            "tip": "Perfect pentru o bere Pilsner Urquell rece și gustări clasice cehe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Špork",
+            "tip": "Try the 'Hovězí guláš' (beef goulash) at this traditional restaurant."
+          },
+          {
+            "name": "Na Hradě",
+            "tip": "Enjoy 'Svíčková na smetaně' with a great view of the cathedral."
+          },
+          {
+            "name": "Lokál U Bílého koníčka",
+            "tip": "Perfect for a cold Pilsner Urquell and classic Czech beer snacks."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jirásek-Park",
+            "tip": "Finden Sie eine Bank am Fluss und genießen Sie die Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Zusammenfluss von Elbe und Adler",
+            "tip": "Ein malerischer Ort, ideal zum Nachdenken und Entspannen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dachterrasse der Galerie für moderne Kunst",
+            "tip": "Ein ruhiger Ort mit einer einzigartigen Perspektive auf die Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jirásek park",
+            "tip": "Keressen egy padot a folyó mellett, és élvezze a csendet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Elba és Orlice összefolyása",
+            "tip": "Festői hely, ideális elmélkedéshez és pihenéshez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Modern Művészeti Galéria tetőterasza",
+            "tip": "Csendes hely, ahonnan egyedi perspektíva nyílik a városra.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Jirásek",
+            "tip": "Găsiți o bancă lângă râu și bucurați-vă de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Confluența râurilor Elba și Orlice",
+            "tip": "Un loc pitoresc, ideal pentru reflecție și relaxare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Terasa de pe acoperișul Galeriei de Artă Modernă",
+            "tip": "Un spațiu liniștit cu o perspectivă unică asupra orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jirásek Park",
+            "tip": "Find a bench by the river and enjoy the tranquility.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Confluence of Elbe and Orlice",
+            "tip": "A picturesque spot, ideal for reflection and relaxation.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Rooftop terrace of the Gallery of Modern Art",
+            "tip": "A quiet space offering a unique perspective of the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte am Großen Platz",
+            "tip": "Finden Sie lokale Souvenirs und böhmisches Kristallglas."
+          },
+          {
+            "name": "Bauernmarkt (Zelená brána)",
+            "tip": "Kaufen Sie frische lokale Produkte und handgemachte Waren, wenn er stattfindet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Üzletek a Nagy téren",
+            "tip": "Keressen helyi ajándéktárgyakat és cseh kristályt."
+          },
+          {
+            "name": "Termelői piac (Zelená brána)",
+            "tip": "Vásároljon friss helyi termékeket és kézműves árukat, ha épp piacnap van."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine în Piața Mare",
+            "tip": "Găsiți suveniruri locale și cristal de Boemia."
+          },
+          {
+            "name": "Piața fermierilor (Zelená brána)",
+            "tip": "Cumpărați produse locale proaspete și articole de artizanat, dacă este deschisă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops in the Great Square",
+            "tip": "Find local souvenirs and Bohemian crystal."
+          },
+          {
+            "name": "Farmers' Market (Zelená brána)",
+            "tip": "Shop for fresh local produce and handmade goods if it's market day."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die öffentlichen Parkplätze oder Parkhäuser am Rande der Altstadt.",
+          "Die Cluster-Walking-Methode ist ideal, um Parkprobleme zu vermeiden.",
+          "Planen Sie die Fahrzeiten zwischen den Clustern außerhalb der Stoßzeiten, wenn möglich.",
+          "Ein Navigationsgerät ist hilfreich, um die Parkplätze leicht zu finden."
+        ],
+        "hu": [
+          "Használja a nyilvános parkolókat vagy parkolóházakat az óváros szélén.",
+          "A klaszter-séta módszer ideális a parkolási problémák elkerülésére.",
+          "Tervezze az utazást a klaszterek között csúcsidőn kívül, ha lehetséges.",
+          "A navigációs eszköz segít a parkolók könnyű megtalálásában."
+        ],
+        "ro": [
+          "Folosiți parcările publice sau garajele de la marginea centrului vechi.",
+          "Metoda de mers pe jos în grupuri este ideală pentru a evita problemele de parcare.",
+          "Planificați timpii de condus între grupuri în afara orelor de vârf, dacă este posibil.",
+          "Un dispozitiv de navigație este util pentru a găsi cu ușurință parcările."
+        ],
+        "en": [
+          "Use public car parks or garages on the edge of the old town.",
+          "The cluster-walking method is ideal for avoiding parking problems.",
+          "Plan your driving times between clusters outside of peak hours if possible.",
+          "A navigation device is helpful for finding the car parks easily."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Haltestelle Adalbertinum",
+            "hu": "Adalbertinum megálló",
+            "ro": "Stația Adalbertinum",
+            "en": "Adalbertinum Stop"
+          },
+          "coords": [
+            15.8338,
+            50.2099
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Tour an dieser zentralen Haltestelle in der Nähe des Großen Platzes.",
+            "hu": "Kezdje a túrát erről a központi megállóról a Nagy tér közelében.",
+            "ro": "Începeți turul de la această stație centrală, aproape de Piața Mare.",
+            "en": "Start your tour from this central stop near the Great Square."
+          }
+        },
+        {
+          "name": {
+            "de": "Velké náměstí & Weißer Turm",
+            "hu": "Velké náměstí és Fehér torony",
+            "ro": "Velké náměstí și Turnul Alb",
+            "en": "Velké náměstí & White Tower"
+          },
+          "coords": [
+            15.8322,
+            50.2091
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den Platz und besteigen Sie den Turm für eine großartige Aussicht.",
+            "hu": "Fedezze fel a teret, és másszon fel a toronyba a nagyszerű kilátásért.",
+            "ro": "Explorați piața și urcați în turn pentru o priveliște minunată.",
+            "en": "Explore the square and climb the tower for a great view."
+          }
+        },
+        {
+          "name": {
+            "de": "Heilig-Geist-Kathedrale",
+            "hu": "Szentlélek-katedrális",
+            "ro": "Catedrala Sfântul Duh",
+            "en": "Cathedral of the Holy Spirit"
+          },
+          "coords": [
+            15.833,
+            50.2095
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzes Stück vom Turm entfernt, bewundern Sie dieses gotische Meisterwerk.",
+            "hu": "A toronytól rövid sétatávolságra, csodálja meg ezt a gótikus remekművet.",
+            "ro": "La mică distanță de turn, admirați această capodoperă gotică.",
+            "en": "A short walk from the tower, admire this Gothic masterpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle Museum",
+            "hu": "Múzeum megálló",
+            "ro": "Stația Muzeu",
+            "en": "Museum Stop"
+          },
+          "coords": [
+            15.8258,
+            50.2112
+          ],
+          "category": "transport",
+          "arrive_at": "11:24",
+          "stay_min": 5,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus oder eine Straßenbahn zum zweiten Cluster des Tages.",
+            "hu": "Vegyen buszt vagy villamost a nap második klaszteréhez.",
+            "ro": "Luați un autobuz sau un tramvai către al doilea grup de atracții al zilei.",
+            "en": "Take a bus or tram to the second cluster of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Ostböhmisches Museum",
+            "hu": "Kelet-Csehországi Múzeum",
+            "ro": "Muzeul Boemiei de Est",
+            "en": "Museum of Eastern Bohemia"
+          },
+          "coords": [
+            15.827,
+            50.211
+          ],
+          "category": "museums",
+          "arrive_at": "11:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum liegt direkt an der Haltestelle.",
+            "hu": "A múzeum közvetlenül a megállónál található.",
+            "ro": "Muzeul este situat chiar lângă stație.",
+            "en": "The museum is located right by the stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserkraftwerk Hučák",
+            "hu": "Hučák vízerőmű",
+            "ro": "Hidrocentrala Hučák",
+            "en": "Hučák Hydroelectric Power Plant"
+          },
+          "coords": [
+            15.825,
+            50.2075
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:21",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein interessanter Spaziergang entlang des Flusses vom Museum aus.",
+            "hu": "Érdekes séta a folyó mentén a múzeumtól.",
+            "ro": "O plimbare interesantă de-a lungul râului de la muzeu.",
+            "en": "An interesting walk along the river from the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Jirásek-Park",
+            "hu": "Jirásek park",
+            "ro": "Parcul Jirásek",
+            "en": "Jirásek Park"
+          },
+          "coords": [
+            15.835,
+            50.206
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:53",
+          "stay_min": 146,
+          "hop_from_prev_min": 42,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schließen Sie den Tag mit einem langen, entspannten Spaziergang durch den Park ab.",
+            "hu": "Zárja a napot egy hosszú, pihentető sétával a parkban.",
+            "ro": "Încheiați ziua cu o plimbare lungă și relaxantă prin parc.",
+            "en": "End the day with a long, relaxing walk through the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt an einer zentralen Haltestelle. Der erste Cluster, die Altstadt mit Platz, Turm und Kathedrale, wird zu Fuß erkundet. Am Vormittag bringt Sie ein Bus zum zweiten Cluster, wo Sie das Ostböhmische Museum und das nahegelegene Wasserkraftwerk Hučák besuchen. Der Nachmittag ist einem ausgedehnten Spaziergang gewidmet, der Sie durch den Jirásek-Park führt und Ihnen erlaubt, die grüne Lunge der Stadt zu genießen.",
+        "hu": "A tömegközlekedéssel töltött nap egy központi megállónál kezdődik. Az első látnivalócsoportot, az óvárost a térrel, toronnyal és katedrálissal gyalog fedezi fel. Délelőtt egy busz viszi a második csoporthoz, ahol meglátogatja a Kelet-Csehországi Múzeumot és a közeli Hučák vízerőművet. A délután egy hosszú sétáé, amely a Jirásek parkon keresztül vezet, lehetővé téve, hogy élvezze a város zöld tüdejét.",
+        "ro": "Ziua dvs. cu transportul public începe la o stație centrală. Primul grup de atracții, Centrul Vechi cu piața, turnul și catedrala sa, este explorat pe jos. Dimineața, un autobuz vă duce la al doilea grup, unde vizitați Muzeul Boemiei de Est și hidrocentrala Hučák din apropiere. După-amiaza este dedicată unei plimbări extinse care vă duce prin Parcul Jirásek, permițându-vă să vă bucurați de plămânul verde al orașului.",
+        "en": "Your day using public transit starts at a central stop. The first cluster, the Old Town with its square, tower, and cathedral, is explored on foot. In the morning, a bus takes you to the second cluster, where you'll visit the Museum of Eastern Bohemia and the nearby Hučák Hydroelectric Power Plant. The afternoon is dedicated to an extensive walk that takes you through Jirásek Park, allowing you to enjoy the city's green lung."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Špork",
+            "tip": "Probieren Sie das 'Hovězí guláš' (Rindergulasch) in diesem traditionellen Restaurant."
+          },
+          {
+            "name": "Na Hradě",
+            "tip": "Genießen Sie 'Svíčková na smetaně' mit einem tollen Blick auf die Kathedrale."
+          },
+          {
+            "name": "Lokál U Bílého koníčka",
+            "tip": "Perfekt für ein kühles Pilsner Urquell und klassische tschechische Biersnacks."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Špork",
+            "tip": "Kóstolja meg a 'Hovězí guláš'-t (marhagulyás) ebben a hagyományos étteremben."
+          },
+          {
+            "name": "Na Hradě",
+            "tip": "Élvezze a 'Svíčková na smetaně'-t a katedrálisra nyíló remek kilátással."
+          },
+          {
+            "name": "Lokál U Bílého koníčka",
+            "tip": "Tökéletes egy hideg Pilsner Urquellhez és klasszikus cseh sörkorcsolyákhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Špork",
+            "tip": "Încercați 'Hovězí guláš' (gulaș de vită) la acest restaurant tradițional."
+          },
+          {
+            "name": "Na Hradě",
+            "tip": "Savurați 'Svíčková na smetaně' cu o priveliște minunată spre catedrală."
+          },
+          {
+            "name": "Lokál U Bílého koníčka",
+            "tip": "Perfect pentru o bere Pilsner Urquell rece și gustări clasice cehe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Špork",
+            "tip": "Try the 'Hovězí guláš' (beef goulash) at this traditional restaurant."
+          },
+          {
+            "name": "Na Hradě",
+            "tip": "Enjoy 'Svíčková na smetaně' with a great view of the cathedral."
+          },
+          {
+            "name": "Lokál U Bílého koníčka",
+            "tip": "Perfect for a cold Pilsner Urquell and classic Czech beer snacks."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jirásek-Park",
+            "tip": "Finden Sie eine Bank am Fluss und genießen Sie die Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Zusammenfluss von Elbe und Adler",
+            "tip": "Ein malerischer Ort, ideal zum Nachdenken und Entspannen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dachterrasse der Galerie für moderne Kunst",
+            "tip": "Ein ruhiger Ort mit einer einzigartigen Perspektive auf die Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jirásek park",
+            "tip": "Keressen egy padot a folyó mellett, és élvezze a csendet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Elba és Orlice összefolyása",
+            "tip": "Festői hely, ideális elmélkedéshez és pihenéshez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Modern Művészeti Galéria tetőterasza",
+            "tip": "Csendes hely, ahonnan egyedi perspektíva nyílik a városra.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Jirásek",
+            "tip": "Găsiți o bancă lângă râu și bucurați-vă de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Confluența râurilor Elba și Orlice",
+            "tip": "Un loc pitoresc, ideal pentru reflecție și relaxare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Terasa de pe acoperișul Galeriei de Artă Modernă",
+            "tip": "Un spațiu liniștit cu o perspectivă unică asupra orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jirásek Park",
+            "tip": "Find a bench by the river and enjoy the tranquility.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Confluence of Elbe and Orlice",
+            "tip": "A picturesque spot, ideal for reflection and relaxation.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Rooftop terrace of the Gallery of Modern Art",
+            "tip": "A quiet space offering a unique perspective of the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte am Großen Platz",
+            "tip": "Finden Sie lokale Souvenirs und böhmisches Kristallglas."
+          },
+          {
+            "name": "Bauernmarkt (Zelená brána)",
+            "tip": "Kaufen Sie frische lokale Produkte und handgemachte Waren, wenn er stattfindet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Üzletek a Nagy téren",
+            "tip": "Keressen helyi ajándéktárgyakat és cseh kristályt."
+          },
+          {
+            "name": "Termelői piac (Zelená brána)",
+            "tip": "Vásároljon friss helyi termékeket és kézműves árukat, ha épp piacnap van."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine în Piața Mare",
+            "tip": "Găsiți suveniruri locale și cristal de Boemia."
+          },
+          {
+            "name": "Piața fermierilor (Zelená brána)",
+            "tip": "Cumpărați produse locale proaspete și articole de artizanat, dacă este deschisă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops in the Great Square",
+            "tip": "Find local souvenirs and Bohemian crystal."
+          },
+          {
+            "name": "Farmers' Market (Zelená brána)",
+            "tip": "Shop for fresh local produce and handmade goods if it's market day."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel für unbegrenzte Fahrten.",
+          "Informieren Sie sich über die Fahrpläne, um Wartezeiten zu minimieren.",
+          "Die meisten Busse und Straßenbahnen sind modern und barrierefrei.",
+          "Behalten Sie Ihr Ticket, da Kontrollen häufig sind."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Tájékozódjon a menetrendekről a várakozási idők minimalizálása érdekében.",
+          "A legtöbb busz és villamos modern és akadálymentesített.",
+          "Tartsa meg a jegyét, az ellenőrzések gyakoriak."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Verificați orarele pentru a minimiza timpii de așteptare.",
+          "Majoritatea autobuzelor și tramvaielor sunt moderne și accesibile.",
+          "Păstrați biletul, deoarece controalele sunt frecvente."
+        ],
+        "en": [
+          "Buy a day pass for unlimited travel on public transport.",
+          "Check the schedules to minimize waiting times.",
+          "Most buses and trams are modern and accessible.",
+          "Keep your ticket, as inspections are common."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1484 @@
+{
+  "city_id": "cyprus-latsia-cities-v2",
+  "anchor": {
+    "name": "Latsia",
+    "coords": [
+      33.3656,
+      35.1053
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pame Latsia Platz",
+            "hu": "Pame Latsia tér",
+            "ro": "Piața Pame Latsia",
+            "en": "Pame Latsia Square"
+          },
+          "coords": [
+            33.366,
+            35.105
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem zypriotischen Kaffee in einem der lokalen Kafenions.",
+            "hu": "Kezdje a napot egy ciprusi kávéval a helyi kávézók egyikében.",
+            "ro": "Începeți ziua cu o cafea cipriotă la una dintre cafenelele locale.",
+            "en": "Start your day with a Cypriot coffee at one of the local kafenions."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Georgios Kirche",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Sfântul Gheorghe",
+            "en": "Saint George Church"
+          },
+          "coords": [
+            33.3685,
+            35.1065
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden Ikonen und die ruhige Atmosphäre im Inneren.",
+            "hu": "Figyelje meg a lenyűgöző ikonokat és a belső tér békés hangulatát.",
+            "ro": "Observați icoanele impresionante și atmosfera liniștită din interior.",
+            "en": "Pay attention to the impressive icons and the serene atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Latsia",
+            "hu": "Latsia Kulturális Központ",
+            "ro": "Centrul Cultural Latsia",
+            "en": "Latsia Cultural Centre"
+          },
+          "coords": [
+            33.3633,
+            35.107
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie den Spielplan auf lokale Ausstellungen oder Veranstaltungen.",
+            "hu": "Ellenőrizze a programot helyi kiállítások vagy események után.",
+            "ro": "Verificați programul pentru expoziții sau evenimente locale.",
+            "en": "Check the schedule for any local exhibitions or events."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einer Taverne",
+            "hu": "Ebéd egy tavernában",
+            "ro": "Prânz la o tavernă",
+            "en": "Lunch at a Tavern"
+          },
+          "coords": [
+            33.3645,
+            35.104
+          ],
+          "category": "gastro",
+          "arrive_at": "12:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie die lokalen Meze für eine Vielfalt an zypriotischen Aromen.",
+            "hu": "Kóstolja meg a helyi meze-t a ciprusi ízek sokféleségéért.",
+            "ro": "Încercați meze-ul local pentru o varietate de arome cipriote.",
+            "en": "Try the local meze for a variety of Cypriot flavors."
+          }
+        },
+        {
+          "name": {
+            "de": "Latsia Aussichtspunkt",
+            "hu": "Latsia kilátó",
+            "ro": "Punctul de belvedere Latsia",
+            "en": "Latsia Viewpoint"
+          },
+          "coords": [
+            33.385,
+            35.095
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "14:13",
+          "stay_min": 25,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bester Ort für einen Panoramablick über die Stadt und die Umgebung.",
+            "hu": "A legjobb hely a városra és a környékre nyíló panorámás kilátásért.",
+            "ro": "Cel mai bun loc pentru o vedere panoramică asupra orașului și a împrejurimilor.",
+            "en": "The best spot for a panoramic view of the city and its surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Athalassa-Nationalpark",
+            "hu": "Athalassa Nemzeti Park",
+            "ro": "Parcul Național Athalassa",
+            "en": "Athalassa National Park"
+          },
+          "coords": [
+            33.391,
+            35.115
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:06",
+          "stay_min": 90,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Machen Sie einen entspannten Spaziergang um den See, um den Tag ausklingen zu lassen.",
+            "hu": "Tegyen egy pihentető sétát a tó körül a nap lezárásaként.",
+            "ro": "Faceți o plimbare relaxantă în jurul lacului pentru a încheia ziua.",
+            "en": "Take a relaxing walk around the lake to end your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Latsia beginnt auf dem belebten Pame Latsia Platz, wo Sie das lokale Leben bei einem Kaffee beobachten. Von dort aus schlendern Sie zur historischen Agios Georgios Kirche und tauchen in die spirituelle Ruhe ein, bevor Sie das nahegelegene Kulturzentrum erkunden. Am Mittag erwartet Sie eine authentische zypriotische Taverne mit einer köstlichen Meze-Auswahl. Nach dem Essen führt Sie ein längerer Spaziergang zum Latsia Aussichtspunkt, der Sie mit einem atemberaubenden Panorama belohnt. Der Nachmittag klingt mit einem friedlichen Spaziergang durch den Athalassa-Nationalpark aus, eine grüne Oase, die zum Entspannen einlädt und einen perfekten Abschluss für Ihren Erkundungstag zu Fuß bildet.",
+        "hu": "A latsiai nap a nyüzsgő Pame Latsia téren kezdődik, ahol egy kávé mellett figyelheti a helyi életet. Innen a történelmi Szent György-templomhoz sétál, elmerülve a spirituális nyugalomban, mielőtt felfedezné a közeli kulturális központot. Délben egy autentikus ciprusi taverna várja ízletes meze-választékkal. Ebéd után egy hosszabb séta vezet a Latsia kilátóhoz, amely lélegzetelállító panorámával jutalmazza. A délutánt egy békés séta zárja az Athalassa Nemzeti Parkban, egy zöld oázisban, amely pihenésre csábít, és tökéletes befejezése a gyalogos felfedezőútnak.",
+        "ro": "Ziua dvs. în Latsia începe în vibranta Piață Pame Latsia, observând viața locală la o cafea. De acolo, vă plimbați spre istorica Biserică Sfântul Gheorghe, cufundându-vă în liniștea sa spirituală înainte de a explora centrul cultural din apropiere. La prânz, o tavernă cipriotă autentică vă așteaptă cu o selecție delicioasă de meze. După masă, o plimbare mai lungă vă duce la Punctul de belvedere Latsia, care vă răsplătește cu o panoramă uluitoare. După-amiaza se încheie cu o plimbare liniștită prin Parcul Național Athalassa, o oază de verdeață care invită la relaxare și oferă o încheiere perfectă pentru ziua dvs. de explorare pe jos.",
+        "en": "Your day in Latsia begins at the vibrant Pame Latsia Square, observing local life over a coffee. From there, you stroll to the historic Saint George Church, immersing yourself in its spiritual tranquility before exploring the nearby cultural centre. At noon, an authentic Cypriot tavern awaits with a delicious meze selection. After lunch, a longer walk takes you to the Latsia Viewpoint, rewarding you with a breathtaking panorama. The afternoon concludes with a peaceful walk through the Athalassa National Park, a green oasis that invites relaxation and provides a perfect end to your day of exploration on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Halloumi vom Grill",
+            "tip": "Ein Muss auf Zypern, oft mit einem Spritzer Zitrone serviert."
+          },
+          {
+            "name": "Souvlaki (Grillspieße)",
+            "tip": "Saftige Fleischspieße, perfekt als schneller und leckerer Imbiss."
+          },
+          {
+            "name": "Sheftalia",
+            "tip": "Würzige, gegrillte Wurst ohne Haut, ein einzigartiger lokaler Genuss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett halloumi",
+            "tip": "Cipruson kötelező, gyakran egy csepp citrommal tálalva."
+          },
+          {
+            "name": "Souvlaki (nyársonsült)",
+            "tip": "Szaftos húsdarabok nyárson, tökéletes gyors és finom harapnivaló."
+          },
+          {
+            "name": "Sheftalia",
+            "tip": "Fűszeres, grillezett, bőr nélküli kolbász, egyedi helyi finomság."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Halloumi la grătar",
+            "tip": "O necesitate în Cipru, adesea servit cu un strop de lămâie."
+          },
+          {
+            "name": "Souvlaki (frigărui la grătar)",
+            "tip": "Frigărui suculente de carne, perfecte pentru o gustare rapidă și delicioasă."
+          },
+          {
+            "name": "Sheftalia",
+            "tip": "Cârnați picanți la grătar fără pieliță, o delicatesă locală unică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled Halloumi",
+            "tip": "A must-try in Cyprus, often served with a squeeze of lemon."
+          },
+          {
+            "name": "Souvlaki (Grilled Skewers)",
+            "tip": "Juicy meat skewers, perfect for a quick and delicious bite."
+          },
+          {
+            "name": "Sheftalia",
+            "tip": "Spicy, grilled skinless sausage, a unique local delicacy."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Athalassa-Nationalpark",
+            "tip": "Finden Sie eine ruhige Bank am See und genießen Sie die Natur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Innenraum der Agios Eleftherios Kirche",
+            "tip": "Ein Ort der Stille und Besinnung abseits der Hektik.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Latsia Aussichtspunkt",
+            "tip": "Genießen Sie die weite Aussicht und die friedliche Atmosphäre am späten Nachmittag.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Athalassa Nemzeti Park",
+            "tip": "Keressen egy csendes padot a tónál, és élvezze a természetet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent Eleftheriosz-templom belseje",
+            "tip": "A csend és az elmélkedés helye a nyüzsgéstől távol.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Latsia kilátó",
+            "tip": "Élvezze a széles kilátást és a békés hangulatot a késő délutáni órákban.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Național Athalassa",
+            "tip": "Găsiți o bancă liniștită lângă lac și bucurați-vă de natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Interiorul Bisericii Sf. Elefterie",
+            "tip": "Un loc de liniște și contemplare, departe de agitație.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Punctul de belvedere Latsia",
+            "tip": "Bucurați-vă de priveliștea vastă și de atmosfera pașnică la sfârșitul după-amiezii.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Athalassa National Park",
+            "tip": "Find a quiet bench by the lake and enjoy nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Inside Agios Eleftherios Church",
+            "tip": "A place for silence and contemplation away from the hustle.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Latsia Viewpoint",
+            "tip": "Enjoy the wide view and the peaceful atmosphere in the late afternoon.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach handgefertigter Keramik und bestickten Leinenwaren."
+          },
+          {
+            "name": "Lefkara-Spitze",
+            "tip": "Auch wenn es nicht direkt aus Latsia stammt, finden Sie hier oft Geschäfte, die diese berühmte zypriotische Spitze verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen kézzel készített kerámiákat és hímzett vászonárut."
+          },
+          {
+            "name": "Lefkarai csipke",
+            "tip": "Bár nem közvetlenül Latsiából származik, gyakran találhat itt üzleteket, amelyek ezt a híres ciprusi csipkét árulják."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați ceramică artizanală și articole din pânză brodată."
+          },
+          {
+            "name": "Dantelă de Lefkara",
+            "tip": "Chiar dacă nu este originară din Latsia, puteți găsi adesea magazine care vând această faimoasă dantelă cipriotă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for handmade pottery and embroidered linens."
+          },
+          {
+            "name": "Lefkara Lace",
+            "tip": "While not native to Latsia, you can often find shops selling this famous Cypriot lace."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie ausreichend Wasser mit, besonders in den wärmeren Monaten.",
+          "Eine kleine Powerbank für Ihr Smartphone ist nützlich für Navigation und Fotos.",
+          "Respektieren Sie die Öffnungszeiten und Kleiderordnung der Kirchen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Vigyen magával elegendő vizet, különösen a melegebb hónapokban.",
+          "Egy kis power bank a telefonjához hasznos lehet a navigációhoz és a fotózáshoz.",
+          "Tartsa tiszteletben a templomok nyitvatartási idejét és öltözködési szabályait."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Luați suficientă apă, mai ales în lunile mai calde.",
+          "O baterie externă mică pentru telefon este utilă pentru navigație și fotografii.",
+          "Respectați orele de program și codul vestimentar al bisericilor."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Bring plenty of water, especially during the warmer months.",
+          "A small power bank for your smartphone is useful for navigation and photos.",
+          "Respect the opening hours and dress code of the churches."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Pame Latsia Platz",
+            "hu": "Pame Latsia tér",
+            "ro": "Piața Pame Latsia",
+            "en": "Pame Latsia Square"
+          },
+          "coords": [
+            33.366,
+            35.105
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ideal, um die Atmosphäre aufzusaugen, bevor Sie in die Pedale treten.",
+            "hu": "Ideális a hangulat magába szívására, mielőtt nyeregbe pattan.",
+            "ro": "Ideal pentru a absorbi atmosfera înainte de a începe să pedalați.",
+            "en": "Ideal for soaking up the atmosphere before you start pedaling."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Eleftherios Kirche",
+            "hu": "Szent Eleftheriosz-templom",
+            "ro": "Biserica Sfântul Elefterie",
+            "en": "Agios Eleftherios Church"
+          },
+          "coords": [
+            33.36,
+            35.108
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer Halt, um die moderne byzantinische Architektur zu bewundern.",
+            "hu": "Egy rövid megálló a modern bizánci építészet megcsodálására.",
+            "ro": "O scurtă oprire pentru a admira arhitectura bizantină modernă.",
+            "en": "A brief stop to admire the modern Byzantine architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Mall of Cyprus",
+            "hu": "Mall of Cyprus",
+            "ro": "Mall of Cyprus",
+            "en": "Mall of Cyprus"
+          },
+          "coords": [
+            33.383,
+            35.116
+          ],
+          "category": "shopping",
+          "arrive_at": "10:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Mehr als nur Shopping – ein guter Ort für eine kurze, klimatisierte Pause.",
+            "hu": "Több, mint vásárlás – jó hely egy rövid, légkondicionált szünetre.",
+            "ro": "Mai mult decât cumpărături - un loc bun pentru o pauză scurtă, cu aer condiționat.",
+            "en": "More than just shopping - a good place for a short, air-conditioned break."
+          }
+        },
+        {
+          "name": {
+            "de": "Athalassa-Nationalpark",
+            "hu": "Athalassa Nemzeti Park",
+            "ro": "Parcul Național Athalassa",
+            "en": "Athalassa National Park"
+          },
+          "coords": [
+            33.391,
+            35.115
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie auf den ausgewiesenen Wegen und genießen Sie die Flora und Fauna.",
+            "hu": "Kerékpározzon a kijelölt utakon, és élvezze a növény- és állatvilágot.",
+            "ro": "Pedalați pe potecile desemnate și bucurați-vă de floră și faună.",
+            "en": "Cycle on the designated paths and enjoy the flora and fauna."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Park",
+            "hu": "Ebéd a parknál",
+            "ro": "Prânz lângă parc",
+            "en": "Lunch by the Park"
+          },
+          "coords": [
+            33.395,
+            35.11
+          ],
+          "category": "gastro",
+          "arrive_at": "12:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stärken Sie sich in einem Restaurant mit Blick ins Grüne.",
+            "hu": "Erősödjön meg egy zöldre néző étteremben.",
+            "ro": "Revigorați-vă la un restaurant cu vedere la verdeață.",
+            "en": "Refuel at a restaurant with a view of the greenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Latsia Aussichtspunkt",
+            "hu": "Latsia kilátó",
+            "ro": "Punctul de belvedere Latsia",
+            "en": "Latsia Viewpoint"
+          },
+          "coords": [
+            33.385,
+            35.095
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "14:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Anstieg lohnt sich für die fantastische Aussicht – ein tolles Fotomotiv.",
+            "hu": "Megéri a kaptatót a fantasztikus kilátásért – remek fotótéma.",
+            "ro": "Urcușul merită efortul pentru priveliștea fantastică - un motiv foto excelent.",
+            "en": "The climb is worth it for the fantastic view - a great photo opportunity."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtisches Stadion Latsia",
+            "hu": "Latsia Városi Stadion",
+            "ro": "Stadionul Municipal Latsia",
+            "en": "Latsia Municipal Stadium"
+          },
+          "coords": [
+            33.355,
+            35.1
+          ],
+          "category": "landmark",
+          "arrive_at": "14:47",
+          "stay_min": 15,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto von diesem lokalen Sportzentrum, bevor Sie ins Zentrum zurückkehren.",
+            "hu": "Készítsen egy fotót erről a helyi sportközpontról, mielőtt visszatér a központba.",
+            "ro": "Faceți o fotografie a acestui centru sportiv local înainte de a vă întoarce în centru.",
+            "en": "Take a photo of this local sports hub before heading back to the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour durch Latsia startet im Herzen der Stadt, am Pame Latsia Platz. Nach einem kurzen Stopp an der modernen Agios Eleftherios Kirche radeln Sie weiter zum kommerziellen Zentrum, der Mall of Cyprus, für eine erfrischende Pause. Von dort ist es nur ein Katzensprung zum weitläufigen Athalassa-Nationalpark, wo Sie auf ruhigen Wegen die Natur genießen. Das Mittagessen nehmen Sie in einem Restaurant am Rande des Parks ein. Frisch gestärkt erklimmen Sie den Latsia Aussichtspunkt, der Ihre Mühe mit einer spektakulären Aussicht belohnt. Auf dem Rückweg ins Zentrum werfen Sie noch einen kurzen Blick auf das städtische Stadion, bevor Ihr aktiver Tag auf zwei Rädern ausklingt.",
+        "hu": "A latsiai kerékpártúra a város szívében, a Pame Latsia téren indul. A modern Szent Eleftheriosz-templomnál tett rövid megálló után a kereskedelmi központhoz, a Mall of Cyprushoz teker, egy frissítő szünetre. Innen már csak egy ugrás a tágas Athalassa Nemzeti Park, ahol csendes utakon élvezheti a természetet. Az ebédet a park szélén lévő étteremben fogyasztja el. Feltöltődve megmássza a Latsia kilátót, amely fáradozását látványos kilátással jutalmazza. A központ felé vezető úton még egy pillantást vet a városi stadionra, mielőtt aktív napja a két keréken véget ér.",
+        "ro": "Turul dvs. cu bicicleta prin Latsia începe în inima orașului, în Piața Pame Latsia. După o scurtă oprire la moderna Biserică Sfântul Elefterie, pedalați spre centrul comercial, Mall of Cyprus, pentru o pauză răcoritoare. De acolo, este doar o aruncătură de băț până la vastul Parc Național Athalassa, unde vă bucurați de natură pe poteci liniștite. Luați prânzul la un restaurant la marginea parcului. Proaspăt întărit, urcați la Punctul de belvedere Latsia, care vă răsplătește efortul cu o priveliște spectaculoasă. Pe drumul de întoarcere spre centru, aruncați o privire rapidă la stadionul municipal, înainte ca ziua dvs. activă pe două roți să se încheie.",
+        "en": "Your cycling tour of Latsia starts in the heart of the city, at Pame Latsia Square. After a brief stop at the modern Agios Eleftherios Church, you pedal on to the commercial hub, the Mall of Cyprus, for a refreshing break. From there, it's just a stone's throw to the expansive Athalassa National Park, where you can enjoy nature on quiet paths. You'll have lunch at a restaurant on the edge of the park. Freshly refueled, you climb to the Latsia Viewpoint, which rewards your effort with a spectacular view. On the way back to the center, you take a quick look at the municipal stadium before your active day on two wheels comes to an end."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Halloumi vom Grill",
+            "tip": "Ein Muss auf Zypern, oft mit einem Spritzer Zitrone serviert."
+          },
+          {
+            "name": "Souvlaki (Grillspieße)",
+            "tip": "Saftige Fleischspieße, perfekt als schneller und leckerer Imbiss."
+          },
+          {
+            "name": "Frischer Orangensaft",
+            "tip": "Erfrischend und überall erhältlich, um neue Energie zu tanken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett halloumi",
+            "tip": "Cipruson kötelező, gyakran egy csepp citrommal tálalva."
+          },
+          {
+            "name": "Souvlaki (nyársonsült)",
+            "tip": "Szaftos húsdarabok nyárson, tökéletes gyors és finom harapnivaló."
+          },
+          {
+            "name": "Friss narancslé",
+            "tip": "Frissítő és mindenhol kapható, hogy új energiával töltődjön fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Halloumi la grătar",
+            "tip": "O necesitate în Cipru, adesea servit cu un strop de lămâie."
+          },
+          {
+            "name": "Souvlaki (frigărui la grătar)",
+            "tip": "Frigărui suculente de carne, perfecte pentru o gustare rapidă și delicioasă."
+          },
+          {
+            "name": "Suc proaspăt de portocale",
+            "tip": "Răcoritor și disponibil peste tot pentru a vă reîncărca bateriile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled Halloumi",
+            "tip": "A must-try in Cyprus, often served with a squeeze of lemon."
+          },
+          {
+            "name": "Souvlaki (Grilled Skewers)",
+            "tip": "Juicy meat skewers, perfect for a quick and delicious bite."
+          },
+          {
+            "name": "Fresh Orange Juice",
+            "tip": "Refreshing and widely available to recharge your energy."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Botanischer Garten im Athalassa Park",
+            "tip": "Ein ruhigerer Teil des Parks, ideal für eine kurze Pause im Schatten.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Agios Georgios Kirche",
+            "tip": "Besuchen Sie sie am frühen Nachmittag, wenn weniger los ist.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sonnenuntergang vom Latsia Aussichtspunkt",
+            "tip": "Wenn Ihre Tour bis zum Abend dauert, ist dies der beste Ort dafür.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Botanikus kert az Athalassa Parkban",
+            "tip": "A park egy csendesebb része, ideális egy rövid, árnyékos pihenőre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szent György-templom",
+            "tip": "Látogassa meg kora délután, amikor kevesebben vannak.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Naplemente a Latsia kilátóból",
+            "tip": "Ha a túra estig tart, ez a legjobb hely erre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică din Parcul Athalassa",
+            "tip": "O parte mai liniștită a parcului, ideală pentru o scurtă pauză la umbră.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Biserica Sfântul Gheorghe",
+            "tip": "Vizitați-o la începutul după-amiezii, când este mai puțin aglomerat.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Apus de soare de la Punctul de belvedere Latsia",
+            "tip": "Dacă turul dvs. durează până seara, acesta este cel mai bun loc pentru asta.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Botanical Garden in Athalassa Park",
+            "tip": "A quieter part of the park, ideal for a short break in the shade.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Saint George Church",
+            "tip": "Visit in the early afternoon when it's less busy.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sunset from Latsia Viewpoint",
+            "tip": "If your tour extends into the evening, this is the best spot for it.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mall of Cyprus",
+            "tip": "Bietet eine Mischung aus internationalen Marken und lokalen Geschäften."
+          },
+          {
+            "name": "Souvenirgeschäfte im Zentrum",
+            "tip": "Suchen Sie nach Olivenholzprodukten und lokalen Weinen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mall of Cyprus",
+            "tip": "Nemzetközi márkák és helyi üzletek keverékét kínálja."
+          },
+          {
+            "name": "Szuvírboltok a központban",
+            "tip": "Keressen olajfából készült termékeket és helyi borokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mall of Cyprus",
+            "tip": "Oferă un amestec de mărci internaționale și magazine locale."
+          },
+          {
+            "name": "Magazine de suveniruri în centru",
+            "tip": "Căutați produse din lemn de măslin și vinuri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mall of Cyprus",
+            "tip": "Offers a mix of international brands and local shops."
+          },
+          {
+            "name": "Souvenir shops in the center",
+            "tip": "Look for olive wood products and local wines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Ein Helm ist dringend zu empfehlen.",
+          "Nutzen Sie Fahrradschlösser, wenn Sie Ihr Rad abstellen, um Sehenswürdigkeiten zu besichtigen.",
+          "Planen Sie Ihre Route, um steile Anstiege zu vermeiden, wenn Sie nicht darauf vorbereitet sind."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját, különösen a fékeket és a gumikat.",
+          "A sisak viselése erősen ajánlott.",
+          "Használjon kerékpárzárat, amikor leparkolja a kerékpárt a látnivalók megtekintéséhez.",
+          "Tervezze meg az útvonalat a meredek emelkedők elkerülése érdekében, ha nincs felkészülve rájuk."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele și anvelopele.",
+          "O cască este foarte recomandată.",
+          "Folosiți lacăte pentru bicicletă atunci când o parcați pentru a vizita obiectivele turistice.",
+          "Planificați-vă ruta pentru a evita urcușurile abrupte dacă nu sunteți pregătit pentru ele."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes and tires.",
+          "A helmet is highly recommended.",
+          "Use bike locks when parking your bike to visit attractions.",
+          "Plan your route to avoid steep climbs if you're not prepared for them."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:39",
+      "total_km": 11.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Parken am Athalassa-Nationalpark",
+            "hu": "1. klaszter: Parkolás az Athalassa Nemzeti Parknál",
+            "ro": "Cluster 1: Parcare la Parcul Național Athalassa",
+            "en": "Cluster 1: Parking at Athalassa National Park"
+          },
+          "coords": [
+            33.39,
+            35.118
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie im Grünen. Parken Sie hier für den Vormittag.",
+            "hu": "Kezdje a zöldben. Parkoljon itt a délelőtt folyamán.",
+            "ro": "Începeți în zona verde. Parcați aici pentru dimineață.",
+            "en": "Start in the green. Park here for the morning cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Vogelbeobachtungsturm",
+            "hu": "Madármegfigyelő torony",
+            "ro": "Turnul de observare a păsărilor",
+            "en": "Bird Watching Tower"
+          },
+          "coords": [
+            33.394,
+            35.114
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "11:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz aus. Bringen Sie ein Fernglas mit.",
+            "hu": "Rövid séta a parkolótól. Hozzon távcsövet.",
+            "ro": "O scurtă plimbare de la parcare. Aduceți un binoclu.",
+            "en": "A short walk from the parking area. Bring binoculars."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Parken im Zentrum & Mittagessen",
+            "hu": "2. klaszter: Parkolás a központban és ebéd",
+            "ro": "Cluster 2: Parcare în centru și prânz",
+            "en": "Cluster 2: Parking in the Center & Lunch"
+          },
+          "coords": [
+            33.367,
+            35.1045
+          ],
+          "category": "gastro",
+          "arrive_at": "11:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 5.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie zentral, um die nächsten Sehenswürdigkeiten zu Fuß zu erkunden.",
+            "hu": "Parkoljon központilag, hogy gyalog fedezze fel a következő látnivalókat.",
+            "ro": "Parcați central pentru a explora următoarele atracții pe jos.",
+            "en": "Park centrally to explore the next cluster of sights on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Pame Latsia Platz",
+            "hu": "Pame Latsia tér",
+            "ro": "Piața Pame Latsia",
+            "en": "Pame Latsia Square"
+          },
+          "coords": [
+            33.366,
+            35.105
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:08",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Herz der Stadt, nur wenige Schritte von Ihrem Parkplatz entfernt.",
+            "hu": "A város szíve, csak néhány lépésre a parkolótól.",
+            "ro": "Inima orașului, la doar câțiva pași de parcarea dvs.",
+            "en": "The heart of the city, just a few steps from your parking spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Georgios Kirche",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Sfântul Gheorghe",
+            "en": "Saint George Church"
+          },
+          "coords": [
+            33.3685,
+            35.1065
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang durch die Gassen führt Sie zu dieser Kirche.",
+            "hu": "Egy szép séta a sikátorokon keresztül vezet ehhez a templomhoz.",
+            "ro": "O plimbare frumoasă pe străduțe vă duce la această biserică.",
+            "en": "A nice walk through the alleys leads you to this church."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Mall of Cyprus",
+            "hu": "3. klaszter: Mall of Cyprus",
+            "ro": "Cluster 3: Mall of Cyprus",
+            "en": "Cluster 3: Mall of Cyprus"
+          },
+          "coords": [
+            33.383,
+            35.116
+          ],
+          "category": "shopping",
+          "arrive_at": "14:26",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Einkaufszentrum für einen entspannten Nachmittag.",
+            "hu": "Vezessen a bevásárlóközponthoz egy pihentető délutánért.",
+            "ro": "Conduceți la mall pentru o după-amiază relaxantă.",
+            "en": "Drive to the mall for a relaxed afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Latsia Aussichtspunkt",
+            "hu": "Latsia kilátó",
+            "ro": "Punctul de belvedere Latsia",
+            "en": "Latsia Viewpoint"
+          },
+          "coords": [
+            33.385,
+            35.095
+          ],
+          "arrive_at": "15:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "car",
+          "category": "natural features (caves, viewpoints)",
+          "tip_5lang": {
+            "de": "Ein kurzer letzter Fahrt, um den Tag mit einer tollen Aussicht abzuschließen.",
+            "hu": "Egy rövid utolsó út, hogy a napot egy remek kilátással zárja.",
+            "ro": "O ultimă scurtă călătorie pentru a încheia ziua cu o priveliște minunată.",
+            "en": "A short final drive to end the day with a great view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Latsia nutzt die Cluster-Walking-Philosophie. Sie beginnen mit einer Fahrt zum Athalassa-Nationalpark, parken und erkunden die grüne Lunge der Region zu Fuß, inklusive eines Abstechers zum Vogelbeobachtungsturm. Zur Mittagszeit fahren Sie ins Zentrum, stellen Ihr Auto ab und genießen ein authentisches Mahl. Anschließend entdecken Sie den Pame Latsia Platz und die Agios Georgios Kirche bei einem gemütlichen Spaziergang. Am Nachmittag fahren Sie zum dritten Cluster, der Mall of Cyprus, für eine klimatisierte Shopping-Pause. Den Abschluss bildet eine kurze Fahrt zum Latsia Aussichtspunkt, von wo aus Sie den Sonnenuntergang über der Landschaft bewundern, bevor Sie den Tag beenden.",
+        "hu": "Az autós napja Latsiában a „cluster-walking” filozófiát követi. Az Athalassa Nemzeti Parkba való autózással kezd, leparkol, és gyalog fedezi fel a régió zöld tüdejét, beleértve egy kitérőt a madármegfigyelő toronyhoz. Ebédidőben a központba hajt, leteszi az autót, és elfogyaszt egy autentikus ebédet. Ezt követően egy kellemes sétával fedezi fel a Pame Latsia teret és a Szent György-templomot. Délután a harmadik klaszterhez, a Mall of Cyprushoz hajt egy légkondicionált vásárlási szünetre. A napot egy rövid autózás zárja a Latsia kilátóhoz, ahonnan megcsodálhatja a naplementét a táj felett, mielőtt befejezi a napot.",
+        "ro": "Ziua dvs. cu mașina în Latsia utilizează filozofia „cluster-walking”. Începeți cu o călătorie spre Parcul Național Athalassa, parcați și explorați plămânul verde al regiunii pe jos, inclusiv o vizită la turnul de observare a păsărilor. La prânz, conduceți în centru, parcați mașina și savurați o masă autentică. Apoi, descoperiți Piața Pame Latsia și Biserica Sfântul Gheorghe într-o plimbare relaxată. După-amiaza, conduceți spre al treilea cluster, Mall of Cyprus, pentru o pauză de cumpărături cu aer condiționat. Ziua se încheie cu o scurtă călătorie spre Punctul de belvedere Latsia, de unde admirați apusul peste peisaj înainte de a încheia ziua.",
+        "en": "Your car day in Latsia uses the cluster-walking philosophy. You start with a drive to Athalassa National Park, park, and explore the region's green lung on foot, including a detour to the bird watching tower. At lunchtime, you drive to the center, park your car, and enjoy an authentic meal. Afterward, you discover Pame Latsia Square and Saint George Church on a leisurely walk. In the afternoon, you drive to the third cluster, the Mall of Cyprus, for an air-conditioned shopping break. The day concludes with a short drive to the Latsia Viewpoint, from where you can admire the sunset over the landscape before ending your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kleftiko (Lamm)",
+            "tip": "Langsam im Ofen gegartes Lamm, das auf der Zunge zergeht."
+          },
+          {
+            "name": "Lokaler Wein",
+            "tip": "Zypern hat eine alte Weintradition. Probieren Sie einen Xynisteri (weiß) oder Maratheftiko (rot)."
+          },
+          {
+            "name": "Anari-Käse",
+            "tip": "Ein weicher, milder Ricotta-ähnlicher Käse, oft mit Honig und Nüssen serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kleftiko (bárány)",
+            "tip": "Lassan, sütőben sült bárány, ami elolvad a szájban."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "Ciprusnak ősi borászati hagyományai vannak. Kóstoljon meg egy Xynisteri (fehér) vagy Maratheftiko (vörös) bort."
+          },
+          {
+            "name": "Anari sajt",
+            "tip": "Lágy, enyhe, ricottához hasonló sajt, gyakran mézzel és dióval tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kleftiko (miel)",
+            "tip": "Miel gătit lent la cuptor, care se topește în gură."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Cipru are o tradiție viticolă veche. Încercați un Xynisteri (alb) sau Maratheftiko (roșu)."
+          },
+          {
+            "name": "Brânză Anari",
+            "tip": "O brânză moale, asemănătoare cu ricotta, adesea servită cu miere și nuci."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kleftiko (Lamb)",
+            "tip": "Slow-cooked lamb in an oven that melts in your mouth."
+          },
+          {
+            "name": "Local Wine",
+            "tip": "Cyprus has an ancient winemaking tradition. Try a Xynisteri (white) or Maratheftiko (red)."
+          },
+          {
+            "name": "Anari Cheese",
+            "tip": "A soft, mild ricotta-like cheese, often served with honey and nuts."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Athalassa Park am frühen Morgen",
+            "tip": "Bevor die Massen kommen, ist der Park ein Ort der absoluten Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Picknick am Latsia Aussichtspunkt",
+            "tip": "Packen Sie einen Korb und genießen Sie die Stille mit einer grandiosen Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Seitenkapelle in der Agios Georgios Kirche",
+            "tip": "Ein stiller Ort zum Innehalten und Nachdenken.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Athalassa Park kora reggel",
+            "tip": "Mielőtt a tömeg megérkezik, a park az abszolút nyugalom helye.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Piknik a Latsia kilátónál",
+            "tip": "Csomagoljon egy kosarat, és élvezze a csendet a nagyszerű kilátás mellett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Oldalkápolna a Szent György-templomban",
+            "tip": "Egy csendes hely a megállásra és az elmélkedésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Athalassa dimineața devreme",
+            "tip": "Înainte de sosirea mulțimilor, parcul este un loc de liniște absolută.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Picnic la Punctul de belvedere Latsia",
+            "tip": "Împachetați un coș și bucurați-vă de liniște cu o priveliște magnifică.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Capela laterală din Biserica Sfântul Gheorghe",
+            "tip": "Un loc tăcut pentru a te opri și a reflecta.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Athalassa Park in the early morning",
+            "tip": "Before the crowds arrive, the park is a place of absolute tranquility.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Picnic at Latsia Viewpoint",
+            "tip": "Pack a basket and enjoy the silence with a magnificent view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Side chapel in Saint George Church",
+            "tip": "A quiet place to pause and reflect.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mall of Cyprus",
+            "tip": "Umfassendes Einkaufen mit internationalen und lokalen Marken."
+          },
+          {
+            "name": "Hofläden außerhalb der Stadt",
+            "tip": "Mit dem Auto leicht erreichbar, bieten sie frisches Olivenöl und Honig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mall of Cyprus",
+            "tip": "Átfogó vásárlás nemzetközi és helyi márkákkal."
+          },
+          {
+            "name": "Tanyasi boltok a városon kívül",
+            "tip": "Autóval könnyen elérhetők, friss olívaolajat és mézet kínálnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mall of Cyprus",
+            "tip": "Cumpărături complete cu mărci internaționale și locale."
+          },
+          {
+            "name": "Magazine de la ferme în afara orașului",
+            "tip": "Ușor accesibile cu mașina, oferă ulei de măsline proaspăt și miere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mall of Cyprus",
+            "tip": "Comprehensive shopping with international and local brands."
+          },
+          {
+            "name": "Farm shops outside the city",
+            "tip": "Easily accessible by car, they offer fresh olive oil and honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie eine Navigations-App, um die Parkplätze der einzelnen Cluster zu finden.",
+          "Prüfen Sie die Parkgebühren und -zeiten, um Strafzettel zu vermeiden.",
+          "Das Auto gibt Ihnen die Flexibilität, auch weiter entfernte Sehenswürdigkeiten zu besuchen.",
+          "Achten Sie auf den lokalen Verkehr, besonders zu Stoßzeiten."
+        ],
+        "hu": [
+          "Használjon navigációs alkalmazást az egyes klaszterek parkolóinak megtalálásához.",
+          "Ellenőrizze a parkolási díjakat és időket a büntetések elkerülése érdekében.",
+          "Az autó rugalmasságot biztosít a távolabbi látnivalók meglátogatásához is.",
+          "Figyeljen a helyi forgalomra, különösen csúcsidőben."
+        ],
+        "ro": [
+          "Utilizați o aplicație de navigație pentru a găsi parcările pentru fiecare cluster.",
+          "Verificați taxele și orele de parcare pentru a evita amenzile.",
+          "Mașina vă oferă flexibilitatea de a vizita și atracții mai îndepărtate.",
+          "Fiți atenți la traficul local, în special la orele de vârf."
+        ],
+        "en": [
+          "Use a navigation app to find the parking areas for each cluster.",
+          "Check parking fees and times to avoid tickets.",
+          "The car gives you the flexibility to visit more distant attractions.",
+          "Be mindful of local traffic, especially during peak hours."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:13",
+      "total_km": 10.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Ankunft am Pame Latsia Platz",
+            "hu": "1. klaszter: Érkezés a Pame Latsia térre",
+            "ro": "Cluster 1: Sosire în Piața Pame Latsia",
+            "en": "Cluster 1: Arrival at Pame Latsia Square"
+          },
+          "coords": [
+            33.366,
+            35.105
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus ins Zentrum und beginnen Sie Ihre Erkundung hier.",
+            "hu": "Menjen busszal a központba, és kezdje itt a felfedezést.",
+            "ro": "Luați un autobuz spre centru și începeți explorarea de aici.",
+            "en": "Take a bus to the center and start your exploration here."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Georgios Kirche",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Sfântul Gheorghe",
+            "en": "Saint George Church"
+          },
+          "coords": [
+            33.3685,
+            35.1065
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz aus.",
+            "hu": "Rövid séta a térről.",
+            "ro": "O scurtă plimbare din piață.",
+            "en": "A short walk from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            33.364,
+            35.106
+          ],
+          "category": "gastro",
+          "arrive_at": "10:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Wählen Sie eine Taverne in den Gassen für ein authentisches Erlebnis.",
+            "hu": "Válasszon egy tavernát a sikátorokban az autentikus élményért.",
+            "ro": "Alegeți o tavernă pe străduțe pentru o experiență autentică.",
+            "en": "Choose a tavern in the alleyways for an authentic experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Fahrt zur Mall of Cyprus",
+            "hu": "2. klaszter: Utazás a Mall of Cyprushoz",
+            "ro": "Cluster 2: Călătorie la Mall of Cyprus",
+            "en": "Cluster 2: Trip to the Mall of Cyprus"
+          },
+          "coords": [
+            33.383,
+            35.116
+          ],
+          "category": "shopping",
+          "arrive_at": "12:23",
+          "stay_min": 70,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Bus bringt Sie direkt zum Haupteingang.",
+            "hu": "A busz közvetlenül a főbejárathoz viszi.",
+            "ro": "Autobuzul vă duce direct la intrarea principală.",
+            "en": "The bus takes you directly to the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Athalassa-Nationalpark",
+            "hu": "Athalassa Nemzeti Park",
+            "ro": "Parcul Național Athalassa",
+            "en": "Athalassa National Park"
+          },
+          "coords": [
+            33.391,
+            35.115
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:37",
+          "stay_min": 120,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Einkaufszentrum entfernt, ideal für den Nachmittag.",
+            "hu": "Csak egy rövid sétára a bevásárlóközponttól, ideális délutánra.",
+            "ro": "La doar o scurtă plimbare de mall, ideal pentru după-amiază.",
+            "en": "Just a short walk from the mall, ideal for the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Latsia Aussichtspunkt",
+            "hu": "3. klaszter: Latsia kilátó",
+            "ro": "Cluster 3: Punctul de belvedere Latsia",
+            "en": "Cluster 3: Latsia Viewpoint"
+          },
+          "coords": [
+            33.385,
+            35.095
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "16:17",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in die Nähe und genießen Sie den Ausblick zum Abschluss.",
+            "hu": "Menjen busszal a közelbe, és élvezze a kilátást a végén.",
+            "ro": "Luați un autobuz în apropiere și bucurați-vă de priveliște la final.",
+            "en": "Take a bus nearby and enjoy the view to finish."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln in Latsia beginnt mit einer Busfahrt zum zentralen Pame Latsia Platz. Von hier aus erkunden Sie den ersten Cluster zu Fuß, besuchen die Agios Georgios Kirche und genießen ein Mittagessen in einer charmanten Taverne. Danach bringt Sie der Bus zum zweiten Cluster, der Mall of Cyprus. Nach einer Shopping- oder Klimapause spazieren Sie zum benachbarten Athalassa-Nationalpark und verbringen dort den Großteil des Nachmittags. Eine letzte kurze Busfahrt führt Sie zum Latsia Aussichtspunkt, dem dritten Cluster, um den Tag mit einer beeindruckenden Aussicht zu beenden, bevor Sie die Rückfahrt antreten.",
+        "hu": "A tömegközlekedéssel töltött napja Latsiában egy buszúttal kezdődik a központi Pame Latsia térre. Innen gyalog fedezi fel az első klasztert, meglátogatja a Szent György-templomot, és elfogyaszt egy ebédet egy bájos tavernában. Ezután a busz a második klaszterhez, a Mall of Cyprushoz viszi. Egy vásárlási vagy légkondicionált szünet után átsétál a szomszédos Athalassa Nemzeti Parkba, és ott tölti a délután nagy részét. Egy utolsó rövid buszút vezet a Latsia kilátóhoz, a harmadik klaszterhez, hogy a napot egy lenyűgöző kilátással zárja, mielőtt visszaindulna.",
+        "ro": "Ziua dvs. cu transportul public în Latsia începe cu o călătorie cu autobuzul spre Piața centrală Pame Latsia. De aici, explorați primul cluster pe jos, vizitând Biserica Sfântul Gheorghe și savurând prânzul la o tavernă fermecătoare. Apoi, autobuzul vă duce la al doilea cluster, Mall of Cyprus. După o pauză de cumpărături sau de aer condiționat, vă plimbați până la Parcul Național Athalassa din apropiere și petreceți acolo cea mai mare parte a după-amiezii. O ultimă călătorie scurtă cu autobuzul vă duce la Punctul de belvedere Latsia, al treilea cluster, pentru a încheia ziua cu o priveliște impresionantă înainte de a vă întoarce.",
+        "en": "Your day using public transport in Latsia begins with a bus ride to the central Pame Latsia Square. From here, you explore the first cluster on foot, visiting Saint George Church and enjoying lunch at a charming tavern. Afterward, the bus takes you to the second cluster, the Mall of Cyprus. After a shopping or air-conditioned break, you walk over to the adjacent Athalassa National Park and spend most of the afternoon there. A final short bus ride takes you to the Latsia Viewpoint, the third cluster, to end the day with an impressive view before you head back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Halloumi-Pastete",
+            "tip": "Eine herzhafte Gebäckvariante mit dem berühmten Käse."
+          },
+          {
+            "name": "Commandaria",
+            "tip": "Probieren Sie ein kleines Glas dieses süßen Dessertweins, einer der ältesten Weine der Welt."
+          },
+          {
+            "name": "Griechischer Salat",
+            "tip": "Immer eine erfrischende und gesunde Wahl an einem warmen Tag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halloumi pite",
+            "tip": "A híres sajttal készült sós sütemény."
+          },
+          {
+            "name": "Commandaria",
+            "tip": "Kóstoljon meg egy kis pohárral ebből az édes desszertborból, a világ egyik legrégebbi borából."
+          },
+          {
+            "name": "Görög saláta",
+            "tip": "Mindig frissítő és egészséges választás egy meleg napon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plăcintă cu Halloumi",
+            "tip": "O variantă de patiserie sărată cu celebra brânză."
+          },
+          {
+            "name": "Commandaria",
+            "tip": "Încercați un pahar mic din acest vin de desert dulce, unul dintre cele mai vechi vinuri din lume."
+          },
+          {
+            "name": "Salată grecească",
+            "tip": "Întotdeauna o alegere răcoritoare și sănătoasă într-o zi călduroasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Halloumi Pie",
+            "tip": "A savory pastry version featuring the famous cheese."
+          },
+          {
+            "name": "Commandaria",
+            "tip": "Try a small glass of this sweet dessert wine, one of the world's oldest wines."
+          },
+          {
+            "name": "Greek Salad",
+            "tip": "Always a refreshing and healthy choice on a warm day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bank im Athalassa Park",
+            "tip": "Finden Sie einen abgelegenen Platz, um dem Stadtlärm zu entfliehen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spätnachmittag in der Agios Eleftherios Kirche",
+            "tip": "Ein friedlicher Ort, wenn die meisten Besucher bereits gegangen sind.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Aussichtspunkt bei Dämmerung",
+            "tip": "Beobachten Sie, wie die Lichter der Stadt angehen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pad az Athalassa Parkban",
+            "tip": "Keressen egy félreeső helyet, hogy elmeneküljön a város zajától.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Késő délután a Szent Eleftheriosz-templomban",
+            "tip": "Békés hely, amikor a legtöbb látogató már elment.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátó szürkületkor",
+            "tip": "Nézze, ahogy felgyulladnak a város fényei.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bancă în Parcul Athalassa",
+            "tip": "Găsiți un loc retras pentru a scăpa de zgomotul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "După-amiază târzie la Biserica Sf. Elefterie",
+            "tip": "Un loc pașnic după ce majoritatea vizitatorilor au plecat.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Punct de belvedere la amurg",
+            "tip": "Priviți cum se aprind luminile orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bench in Athalassa Park",
+            "tip": "Find a secluded spot to escape the city noise.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Late afternoon at Agios Eleftherios Church",
+            "tip": "A peaceful place once most visitors have left.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Viewpoint at dusk",
+            "tip": "Watch the city lights turn on.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kleine Läden um den Pame Latsia Platz",
+            "tip": "Hier finden Sie authentische Souvenirs und lokales Kunsthandwerk."
+          },
+          {
+            "name": "Mall of Cyprus",
+            "tip": "Für alles andere, von Mode bis Elektronik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kis üzletek a Pame Latsia tér körül",
+            "tip": "Itt autentikus szuveníreket és helyi kézműves termékeket talál."
+          },
+          {
+            "name": "Mall of Cyprus",
+            "tip": "Minden másért, a divattól az elektronikáig."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mici magazine în jurul Pieței Pame Latsia",
+            "tip": "Aici veți găsi suveniruri autentice și artizanat local."
+          },
+          {
+            "name": "Mall of Cyprus",
+            "tip": "Pentru orice altceva, de la modă la electronice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Small shops around Pame Latsia Square",
+            "tip": "Here you will find authentic souvenirs and local crafts."
+          },
+          {
+            "name": "Mall of Cyprus",
+            "tip": "For everything else, from fashion to electronics."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Haben Sie den Busfahrplan zur Hand oder nutzen Sie eine App, um Wartezeiten zu minimieren.",
+          "Halten Sie Kleingeld für Tickets bereit, falls keine Kartenzahlung möglich ist.",
+          "Die Busse können voll sein, seien Sie also auf Stehplätze vorbereitet."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy pénzt takarítson meg.",
+          "Legyen kéznél a buszmenetrend, vagy használjon egy alkalmazást a várakozási idő minimalizálására.",
+          "Tartson magánál aprópénzt a jegyekhez, ha a kártyás fizetés nem lehetséges.",
+          "A buszok zsúfoltak lehetnek, ezért készüljön fel az állóhelyekre."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru a economisi bani.",
+          "Aveți la îndemână orarul autobuzelor sau folosiți o aplicație pentru a minimiza timpii de așteptare.",
+          "Pregătiți mărunțiș pentru bilete în cazul în care plata cu cardul nu este posibilă.",
+          "Autobuzele pot fi aglomerate, așa că fiți pregătiți pentru locuri în picioare."
+        ],
+        "en": [
+          "Buy a day pass for the bus to save money.",
+          "Have the bus schedule handy or use an app to minimize waiting times.",
+          "Keep small change ready for tickets in case card payment is not possible.",
+          "Buses can be crowded, so be prepared for standing room."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1396 @@
+{
+  "city_id": "parad",
+  "anchor": {
+    "name": "Parád",
+    "coords": [
+      20.0333,
+      47.9167
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Károlyi-Schloss",
+            "hu": "Károlyi-kastély",
+            "ro": "Castelul Károlyi",
+            "en": "Károlyi Castle"
+          },
+          "coords": [
+            20.0411,
+            47.9175
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassizistische Architektur und die historischen Innenräume.",
+            "hu": "Csodáld meg a klasszicista építészetet és a történelmi belső tereket.",
+            "ro": "Admirați arhitectura clasicistă și interioarele istorice.",
+            "en": "Admire the classicist architecture and the historic interiors."
+          }
+        },
+        {
+          "name": {
+            "de": "Kutschenmuseum (Cifra-Stall)",
+            "hu": "Kocsimúzeum (Cifra Istálló)",
+            "ro": "Muzeul de Calești (Grajdul Cifra)",
+            "en": "Carriage Museum (Cifra Stable)"
+          },
+          "coords": [
+            20.0401,
+            47.9182
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Sehen Sie sich die reich verzierten Kutschen der Aristokratie an.",
+            "hu": "Nézd meg az arisztokrácia gazdagon díszített kocsijait.",
+            "ro": "Vedeți trăsurile bogat decorate ale aristocrației.",
+            "en": "See the richly decorated carriages of the aristocracy."
+          }
+        },
+        {
+          "name": {
+            "de": "Erzsébet-Park",
+            "hu": "Erzsébet Park Hotel",
+            "ro": "Parcul Elisabeta",
+            "en": "Erzsébet Park"
+          },
+          "coords": [
+            20.035,
+            47.9205
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:34",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für einen entspannten Spaziergang und zum Genießen der Natur.",
+            "hu": "Ideális hely egy pihentető sétához és a természet élvezetéhez.",
+            "ro": "Un loc ideal pentru o plimbare relaxantă și pentru a vă bucura de natură.",
+            "en": "An ideal place for a relaxing walk and enjoying nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Freskó Restaurant",
+            "hu": "Freskó Étterem",
+            "ro": "Restaurantul Fresco",
+            "en": "Fresco Restaurant"
+          },
+          "coords": [
+            20.0388,
+            47.9191
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Probieren Sie die Palóc-Suppe, eine lokale Spezialität.",
+            "hu": "Kóstold meg a palóc levest, egy helyi specialitást!",
+            "ro": "Încercați supa Palóc, o specialitate locală.",
+            "en": "Try the Palóc soup, a local specialty."
+          }
+        },
+        {
+          "name": {
+            "de": "Ilona-völgy-Wasserfall",
+            "hu": "Ilona-völgyi-vízesés",
+            "ro": "Cascada din Valea Ilona",
+            "en": "Ilona Valley Waterfall"
+          },
+          "coords": [
+            20.05,
+            47.8833
+          ],
+          "category": "natural features",
+          "arrive_at": "14:59",
+          "stay_min": 90,
+          "hop_from_prev_min": 80,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Der höchste natürliche Wasserfall Ungarns, besonders beeindruckend nach Regenfällen.",
+            "hu": "Magyarország legmagasabb természetes vízesése, esőzések után különösen lenyűgöző.",
+            "ro": "Cea mai înaltă cascadă naturală din Ungaria, deosebit de impresionantă după ploi.",
+            "en": "The highest natural waterfall in Hungary, especially impressive after rainfall."
+          }
+        },
+        {
+          "name": {
+            "de": "Parádfürdő-Heilbad",
+            "hu": "Parádfürdői Gyógyfürdő",
+            "ro": "Băile Termale Parádfürdő",
+            "en": "Parádfürdő Thermal Bath"
+          },
+          "coords": [
+            20.0333,
+            47.9167
+          ],
+          "category": "natural features",
+          "arrive_at": "16:44",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit einem Blick auf das historische Badehaus.",
+            "hu": "Zárja a napot a történelmi fürdőház megtekintésével.",
+            "ro": "Încheiați-vă ziua cu o privire la baia istorică.",
+            "en": "End your day with a view of the historic bathhouse."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einem Spaziergang durch die Geschichte im Károlyi-Schloss und dem Kutschenmuseum. Genießen Sie die frische Luft im Erzsébet-Park. Nach einem herzhaften Mittagessen im Freskó Restaurant unternehmen Sie eine erfrischende Wanderung zum Ilona-Tal-Wasserfall. Beenden Sie Ihren Tag mit dem Anblick des historischen Heilbads und genießen Sie die ruhige Atmosphäre von Parádfürdő.",
+        "hu": "Kezdje a napot egy történelmi sétával a Károlyi-kastélyban és a Kocsimúzeumban! Élvezze a friss levegőt az Erzsébet parkban! Egy kiadós ebéd után a Freskó Étteremben tegyen egy frissítő túrát az Ilona-völgyi vízeséshez! Zárja a napot a történelmi gyógyfürdő látványával, élvezve Parádfürdő nyugodt hangulatát!",
+        "ro": "Începeți-vă ziua cu o plimbare prin istorie la Castelul Károlyi și Muzeul de Calești. Bucurați-vă de aerul proaspăt în Parcul Erzsébet. După un prânz copios la Restaurantul Fresco, faceți o drumeție revigorantă la Cascada din Valea Ilona. Încheiați-vă ziua cu priveliștea băii termale istorice, bucurându-vă de atmosfera liniștită din Parádfürdő.",
+        "en": "Start your day with a walk through history at the Károlyi Castle and the Carriage Museum. Enjoy the fresh air in Erzsébet Park. After a hearty lunch at Fresco Restaurant, take a refreshing hike to the Ilona Valley Waterfall. End your day with the sight of the historic thermal bath, enjoying the peaceful atmosphere of Parádfürdő."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Palóc-Suppe",
+            "tip": "Eine herzhafte, grüne Bohnen- und Lammfleischsuppe."
+          },
+          {
+            "name": "Tócsni mit Sauerrahm",
+            "tip": "Ein lokaler Kartoffelpuffer, perfekt als Snack."
+          },
+          {
+            "name": "Freskó Étterem",
+            "tip": "Bekannt für seine traditionelle ungarische Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palócgulyás",
+            "tip": "Kiadós, zöldbabos bárányraguleves."
+          },
+          {
+            "name": "Tócsni tejföllel",
+            "tip": "Helyi krumplilángos, tökéletes harapnivaló."
+          },
+          {
+            "name": "Freskó Étterem",
+            "tip": "Hagyományos magyar konyhájáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supă Palóc",
+            "tip": "O supă consistentă de fasole verde și miel."
+          },
+          {
+            "name": "Tócsni cu smântână",
+            "tip": "O clătită locală de cartofi, perfectă ca gustare."
+          },
+          {
+            "name": "Restaurantul Fresco",
+            "tip": "Renumit pentru bucătăria sa tradițională maghiară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Palóc Soup",
+            "tip": "A hearty green bean and lamb soup."
+          },
+          {
+            "name": "Tócsni with sour cream",
+            "tip": "A local potato pancake, perfect as a snack."
+          },
+          {
+            "name": "Fresco Restaurant",
+            "tip": "Known for its traditional Hungarian cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ilona-Tal-Wasserfall",
+            "tip": "Das Rauschen des Wassers ist unglaublich beruhigend.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Erzsébet-Park",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die Stille.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang entlang des Baches",
+            "tip": "Ein friedlicher Weg, um dem Trubel zu entkommen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ilona-völgyi vízesés",
+            "tip": "A víz zúgása hihetetlenül megnyugtató.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Erzsébet park",
+            "tip": "Keressen egy csendes padot és élvezze a nyugalmat.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Séta a patak mentén",
+            "tip": "Békés útvonal a nyüzsgés elől.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cascada din Valea Ilona",
+            "tip": "Sunetul apei este incredibil de liniștitor.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Erzsébet",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de tăcere.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare de-a lungul pârâului",
+            "tip": "O cale pașnică pentru a scăpa de agitație.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ilona Valley Waterfall",
+            "tip": "The sound of the water is incredibly calming.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Erzsébet Park",
+            "tip": "Find a quiet bench and enjoy the silence.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Walk along the stream",
+            "tip": "A peaceful way to escape the hustle and bustle.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Parádi Mineralwasser",
+            "tip": "Nehmen Sie eine Flasche des berühmten Heilwassers mit nach Hause."
+          },
+          {
+            "name": "Lokale Handwerksprodukte",
+            "tip": "Halten Sie Ausschau nach kleinen Geschäften, die Holzschnitzereien und Keramik verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parádi ásványvíz",
+            "tip": "Vigyen haza egy üveggel a híres gyógyvízből."
+          },
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keresse a fafaragásokat és kerámiákat áruló kis boltokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apa minerală Parád",
+            "tip": "Luați acasă o sticlă din faimoasa apă medicinală."
+          },
+          {
+            "name": "Produse de artizanat locale",
+            "tip": "Căutați magazine mici care vând sculpturi în lemn și ceramică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Parád Mineral Water",
+            "tip": "Take home a bottle of the famous medicinal water."
+          },
+          {
+            "name": "Local handicrafts",
+            "tip": "Look for small shops selling wood carvings and ceramics."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Wanderschuhe, besonders für den Weg zum Wasserfall.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit und füllen Sie sie an den öffentlichen Brunnen auf.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus, da diese saisonal variieren können.",
+          "Eine Powerbank für Ihr Telefon ist nützlich, da Sie viele Fotos machen werden."
+        ],
+        "hu": [
+          "Viseljen kényelmes túracipőt, különösen a vízeséshez vezető úton.",
+          "Vigyen magával újratölthető vizes palackot, és töltse fel a közkutaknál.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét, mert az szezonálisan változhat.",
+          "Hasznos lehet egy power bank a telefonjához, mert sok képet fog készíteni."
+        ],
+        "ro": [
+          "Purtați pantofi de drumeție confortabili, mai ales pentru poteca spre cascadă.",
+          "Luați o sticlă de apă reutilizabilă și umpleți-o de la fântânile publice.",
+          "Verificați în avans programul muzeelor, deoarece acesta poate varia în funcție de sezon.",
+          "Un power bank pentru telefon este util, deoarece veți face multe fotografii."
+        ],
+        "en": [
+          "Wear comfortable hiking shoes, especially for the trail to the waterfall.",
+          "Bring a reusable water bottle and fill it up at the public fountains.",
+          "Check the opening hours of the museums in advance, as they can vary seasonally.",
+          "A power bank for your phone is useful as you will be taking a lot of photos."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:13",
+      "total_km": 10.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parádfürdő-Heilbad",
+            "hu": "Parádfürdői Gyógyfürdő",
+            "ro": "Băile Termale Parádfürdő",
+            "en": "Parádfürdő Thermal Bath"
+          },
+          "coords": [
+            20.0333,
+            47.9167
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier und bewundern Sie das historische Gebäude.",
+            "hu": "Kezdje itt a napot, és csodálja meg a történelmi épületet.",
+            "ro": "Începeți aici și admirați clădirea istorică.",
+            "en": "Start here and admire the historic building."
+          }
+        },
+        {
+          "name": {
+            "de": "Ehemalige Glasfabrik Parádsasvár",
+            "hu": "Volt Parádsasvári Üvegyár",
+            "ro": "Fosta fabrică de sticlă Parádsasvár",
+            "en": "Former Parádsasvár Glass Factory"
+          },
+          "coords": [
+            19.986,
+            47.9103
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die reiche Geschichte der Glasherstellung in der Region.",
+            "hu": "Ismerje meg a régió gazdag üveggyártási történelmét.",
+            "ro": "Aflați despre istoria bogată a fabricării sticlei din regiune.",
+            "en": "Learn about the rich history of glassmaking in the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Károlyi-Schloss",
+            "hu": "Károlyi-kastély",
+            "ro": "Castelul Károlyi",
+            "en": "Károlyi Castle"
+          },
+          "coords": [
+            20.0411,
+            47.9175
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:20",
+          "stay_min": 70,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und machen Sie eine Tour durch das Schloss.",
+            "hu": "Zárja le a kerékpárt és tegyen egy túrát a kastélyban.",
+            "ro": "Legați-vă bicicleta și faceți un tur al castelului.",
+            "en": "Lock up your bike and take a tour of the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Freskó Restaurant",
+            "hu": "Freskó Étterem",
+            "ro": "Restaurantul Fresco",
+            "en": "Fresco Restaurant"
+          },
+          "coords": [
+            20.0388,
+            47.9191
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Stärken Sie sich mit einem traditionellen ungarischen Mittagessen.",
+            "hu": "Töltődjön fel egy hagyományos magyar ebéddel.",
+            "ro": "Reîncărcați-vă cu un prânz tradițional maghiar.",
+            "en": "Recharge with a traditional Hungarian lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Mineralwassermuseum",
+            "hu": "Ásványvíz Múzeum",
+            "ro": "Muzeul Apei Minerale",
+            "en": "Mineral Water Museum"
+          },
+          "coords": [
+            20.0365,
+            47.92
+          ],
+          "category": "museums",
+          "arrive_at": "13:56",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kleines, aber feines Museum über die berühmten Wässer von Parád.",
+            "hu": "Kicsi, de érdekes múzeum Parád híres vizeiről.",
+            "ro": "Un muzeu mic, dar interesant, despre faimoasele ape din Parád.",
+            "en": "A small but interesting museum about the famous waters of Parád."
+          }
+        },
+        {
+          "name": {
+            "de": "Erzsébet-Park",
+            "hu": "Erzsébet Park Hotel",
+            "ro": "Parcul Elisabeta",
+            "en": "Erzsébet Park"
+          },
+          "coords": [
+            20.035,
+            47.9205
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:41",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im Park, bevor Sie Ihre Radtour beenden.",
+            "hu": "Pihenjen a parkban, mielőtt befejezi a kerékpártúrát.",
+            "ro": "Relaxați-vă în parc înainte de a încheia turul cu bicicleta.",
+            "en": "Relax in the park before finishing your bike tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Fahrrad und beginnen Sie den Tag mit einer Fahrt nach Parádsasvár, um die alte Glasfabrik zu sehen. Fahren Sie zurück ins Zentrum, um das prächtige Károlyi-Schloss zu erkunden. Nach einem stärkenden Mittagessen besuchen Sie das Mineralwassermuseum. Beenden Sie Ihre Tour mit einer entspannten Zeit im Erzsébet-Park, wo Sie die ruhige Atmosphäre genießen können.",
+        "hu": "Pattanjon kerékpárra, és kezdje a napot egy túrával Parádsasvárra, a régi üveggyárhoz! Tekerjen vissza a központba, hogy felfedezze a csodálatos Károlyi-kastélyt! Egy kiadós ebéd után látogasson el az Ásványvíz Múzeumba! Zárja a túrát egy pihentető időtöltéssel az Erzsébet parkban, élvezve a nyugodt hangulatot!",
+        "ro": "Urcați-vă pe bicicletă și începeți ziua cu o plimbare la Parádsasvár pentru a vedea vechea fabrică de sticlă. Pedalați înapoi în centru pentru a explora magnificul Castel Károlyi. După un prânz copios, vizitați Muzeul Apei Minerale. Încheiați-vă turul cu o perioadă de relaxare în Parcul Erzsébet, bucurându-vă de atmosfera liniștită.",
+        "en": "Hop on your bike and start the day with a ride to Parádsasvár to see the old glass factory. Cycle back to the center to explore the magnificent Károlyi Castle. After a hearty lunch, visit the Mineral Water Museum. End your tour with a relaxing time in Erzsébet Park, enjoying the peaceful atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Palóc-Suppe",
+            "tip": "Eine herzhafte, grüne Bohnen- und Lammfleischsuppe."
+          },
+          {
+            "name": "Mátraer Borzas",
+            "tip": "Ein mit Käse und Sauerrahm überbackenes Schnitzel, perfekt nach einer Radtour."
+          },
+          {
+            "name": "Freskó Étterem",
+            "tip": "Fahrradfreundliches Restaurant mit traditioneller Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palócgulyás",
+            "tip": "Kiadós, zöldbabos bárányraguleves."
+          },
+          {
+            "name": "Mátrai borzaska",
+            "tip": "Sajttal, tejföllel borított hús, tökéletes egy biciklis túra után."
+          },
+          {
+            "name": "Freskó Étterem",
+            "tip": "Kerékpárosbarát étterem, hagyományos konyhával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supă Palóc",
+            "tip": "O supă consistentă de fasole verde și miel."
+          },
+          {
+            "name": "Mátrai Borzas",
+            "tip": "Un șnițel acoperit cu brânză și smântână, perfect după o tură cu bicicleta."
+          },
+          {
+            "name": "Restaurantul Fresco",
+            "tip": "Restaurant prietenos cu bicicliștii, cu bucătărie tradițională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Palóc Soup",
+            "tip": "A hearty green bean and lamb soup."
+          },
+          {
+            "name": "Mátra-style 'Borzas'",
+            "tip": "A schnitzel topped with cheese and sour cream, perfect after a bike tour."
+          },
+          {
+            "name": "Fresco Restaurant",
+            "tip": "Bike-friendly restaurant with traditional cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Erzsébet-Park",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die Stille nach der Radtour.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Weg nach Parádsasvár",
+            "tip": "Die ruhigen Waldabschnitte bieten eine friedliche Fahrt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Kövesdi-Bachs",
+            "tip": "Ein guter Ort für eine kurze Pause und um dem Wasser zu lauschen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Erzsébet park",
+            "tip": "Keressen egy csendes padot és élvezze a nyugalmat a tekerés után.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Út Parádsasvár felé",
+            "tip": "A csendes erdei szakaszok békés utazást kínálnak.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kövesdi-patak partja",
+            "tip": "Jó hely egy rövid pihenőre és a víz hallgatására.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Erzsébet",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de tăcere după plimbarea cu bicicleta.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Drumul spre Parádsasvár",
+            "tip": "Secțiunile liniștite de pădure oferă o plimbare pașnică.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul pârâului Kövesdi",
+            "tip": "Un loc bun pentru o scurtă pauză și pentru a asculta apa.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Erzsébet Park",
+            "tip": "Find a quiet bench and enjoy the silence after your ride.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Road to Parádsasvár",
+            "tip": "The quiet forest sections offer a peaceful ride.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of Kövesdi stream",
+            "tip": "A good spot for a short break and listening to the water.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Glaswaren aus Parádsasvár",
+            "tip": "Auch wenn die Fabrik geschlossen ist, finden Sie vielleicht lokale Geschäfte, die alte Stücke verkaufen."
+          },
+          {
+            "name": "Parádi Mineralwasser",
+            "tip": "Füllen Sie Ihre Flaschen auf oder kaufen Sie eine als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parádsasvári üvegáru",
+            "tip": "Bár a gyár bezárt, találhat helyi boltokat, amelyek régi darabokat árulnak."
+          },
+          {
+            "name": "Parádi ásványvíz",
+            "tip": "Töltse fel a palackját, vagy vegyen egyet szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sticlărie din Parádsasvár",
+            "tip": "Chiar dacă fabrica este închisă, puteți găsi magazine locale care vând piese vechi."
+          },
+          {
+            "name": "Apa minerală Parád",
+            "tip": "Umpleți-vă sticlele sau cumpărați una ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Parádsasvár Glassware",
+            "tip": "Even though the factory is closed, you might find local shops selling vintage pieces."
+          },
+          {
+            "name": "Parád Mineral Water",
+            "tip": "Fill up your bottles or buy one as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Luftdruck Ihrer Reifen vor der Abfahrt.",
+          "Die Straßen können hügelig sein, seien Sie also auf einige Anstiege vorbereitet.",
+          "Nehmen Sie ein Fahrradschloss mit, um Ihr Fahrrad an den Haltestellen sicher abzustellen.",
+          "Ein kleiner Rucksack für Wasser, Snacks und eine Regenjacke ist empfehlenswert."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Az utak dombosak lehetnek, így készüljön fel néhány emelkedőre.",
+          "Vigyen magával kerékpárzárat, hogy biztonságban lezárhassa a megállóknál.",
+          "Ajánlott egy kis hátizsák víznek, harapnivalóknak és esőkabátnak."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de a pleca.",
+          "Drumurile pot fi deluroase, așa că fiți pregătit pentru câteva urcări.",
+          "Luați un lacăt de bicicletă pentru a vă asigura bicicleta la opriri.",
+          "Se recomandă un rucsac mic pentru apă, gustări și o geacă de ploaie."
+        ],
+        "en": [
+          "Check your tire pressure before heading out.",
+          "The roads can be hilly, so be prepared for some climbs.",
+          "Bring a bike lock to secure your bike at the stops.",
+          "A small backpack for water, snacks, and a rain jacket is recommended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 10.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ilona-völgy-Wasserfall",
+            "hu": "Ilona-völgyi-vízesés",
+            "ro": "Cascada din Valea Ilona",
+            "en": "Ilona Valley Waterfall"
+          },
+          "coords": [
+            20.05,
+            47.8833
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz und machen Sie die kurze Wanderung zum Wasserfall.",
+            "hu": "Vezessen a parkolóig, majd tegyen egy rövid sétát a vízeséshez.",
+            "ro": "Conduceți până la parcare și faceți o scurtă drumeție până la cascadă.",
+            "en": "Drive to the parking lot and take the short hike to the waterfall."
+          }
+        },
+        {
+          "name": {
+            "de": "Ehemalige Glasfabrik Parádsasvár",
+            "hu": "Volt Parádsasvári Üvegyár",
+            "ro": "Fosta fabrică de sticlă Parádsasvár",
+            "en": "Former Parádsasvár Glass Factory"
+          },
+          "coords": [
+            19.986,
+            47.9103
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 9.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und erkunden Sie das historische Industrieerbe.",
+            "hu": "Parkoljon a közelben, és fedezze fel a történelmi ipari örökséget.",
+            "ro": "Parcați în apropiere și explorați patrimoniul industrial istoric.",
+            "en": "Park nearby and explore the historic industrial heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Károlyi-Schloss",
+            "hu": "Károlyi-kastély",
+            "ro": "Castelul Károlyi",
+            "en": "Károlyi Castle"
+          },
+          "coords": [
+            20.0411,
+            47.9175
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:32",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Hauptziel im Zentrum von Parádfürdő.",
+            "hu": "Parádfürdő központjának fő látványossága.",
+            "ro": "Atracția principală din centrul Parádfürdő.",
+            "en": "The main attraction in the center of Parádfürdő."
+          }
+        },
+        {
+          "name": {
+            "de": "Kutschenmuseum (Cifra-Stall)",
+            "hu": "Kocsimúzeum (Cifra Istálló)",
+            "ro": "Muzeul de Calești (Grajdul Cifra)",
+            "en": "Carriage Museum (Cifra Stable)"
+          },
+          "coords": [
+            20.0401,
+            47.9182
+          ],
+          "category": "museums",
+          "arrive_at": "12:44",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang vom Schloss entfernt.",
+            "hu": "Csak egy rövid séta a kastélytól.",
+            "ro": "La doar o scurtă plimbare de castel.",
+            "en": "Just a short walk from the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Freskó Restaurant",
+            "hu": "Freskó Étterem",
+            "ro": "Restaurantul Fresco",
+            "en": "Fresco Restaurant"
+          },
+          "coords": [
+            20.0388,
+            47.9191
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie ein wohlverdientes Mittagessen.",
+            "hu": "Élvezze a jól megérdemelt ebédet.",
+            "ro": "Bucurați-vă de un prânz binemeritat.",
+            "en": "Enjoy a well-deserved lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Mineralwassermuseum",
+            "hu": "Ásványvíz Múzeum",
+            "ro": "Muzeul Apei Minerale",
+            "en": "Mineral Water Museum"
+          },
+          "coords": [
+            20.0365,
+            47.92
+          ],
+          "category": "museums",
+          "arrive_at": "14:58",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über die Heilquellen der Region.",
+            "hu": "Tudjon meg mindent a régió gyógyforrásairól.",
+            "ro": "Aflați totul despre izvoarele medicinale din regiune.",
+            "en": "Learn all about the region's medicinal springs."
+          }
+        },
+        {
+          "name": {
+            "de": "Erzsébet-Park",
+            "hu": "Erzsébet Park Hotel",
+            "ro": "Parcul Elisabeta",
+            "en": "Erzsébet Park"
+          },
+          "coords": [
+            20.035,
+            47.9205
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:43",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannender Abschluss des Tages.",
+            "hu": "A nap pihentető lezárása.",
+            "ro": "Un final relaxant de zi.",
+            "en": "A relaxing end to the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit der natürlichen Schönheit des Ilona-Tal-Wasserfalls. Fahren Sie dann nach Parádsasvár, um das Erbe der Glasherstellung zu entdecken. Parken Sie Ihr Auto im Zentrum von Parádfürdő und erkunden Sie zu Fuß das Károlyi-Schloss, das Kutschenmuseum und das Mineralwassermuseum. Genießen Sie ein köstliches Mittagessen, bevor Sie den Tag im ruhigen Erzsébet-Park ausklingen lassen.",
+        "hu": "Kezdje a napot az Ilona-völgyi vízesés természeti szépségével! Ezután vezessen Parádsasvárra, hogy felfedezze az üveggyártás örökségét! Parkolja le autóját Parádfürdő központjában, és fedezze fel gyalog a Károlyi-kastélyt, a Kocsimúzeumot és az Ásványvíz Múzeumot! Élvezzen egy finom ebédet, mielőtt a csendes Erzsébet parkban zárja a napot!",
+        "ro": "Începeți-vă ziua cu frumusețea naturală a Cascadei din Valea Ilona. Apoi, conduceți la Parádsasvár pentru a descoperi moștenirea fabricării sticlei. Parcați mașina în centrul Parádfürdő și explorați pe jos Castelul Károlyi, Muzeul de Calești și Muzeul Apei Minerale. Bucurați-vă de un prânz delicios înainte de a încheia ziua în liniștitul Parc Erzsébet.",
+        "en": "Start your day with the natural beauty of the Ilona Valley Waterfall. Then drive to Parádsasvár to discover the heritage of glassmaking. Park your car in the center of Parádfürdő and explore the Károlyi Castle, Carriage Museum, and Mineral Water Museum on foot. Enjoy a delicious lunch before ending the day in the peaceful Erzsébet Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Palóc-Suppe",
+            "tip": "Eine herzhafte, grüne Bohnen- und Lammfleischsuppe."
+          },
+          {
+            "name": "Mátraer Borzas",
+            "tip": "Ein mit Käse und Sauerrahm überbackenes Schnitzel."
+          },
+          {
+            "name": "Sasvár Vendéglő",
+            "tip": "Eine gute Option in der Nähe von Parádsasvár für eine Kaffeepause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palócgulyás",
+            "tip": "Kiadós, zöldbabos bárányraguleves."
+          },
+          {
+            "name": "Mátrai borzaska",
+            "tip": "Sajttal, tejföllel borított hús."
+          },
+          {
+            "name": "Sasvár Vendéglő",
+            "tip": "Jó lehetőség Parádsasvár közelében egy kávészünetre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supă Palóc",
+            "tip": "O supă consistentă de fasole verde și miel."
+          },
+          {
+            "name": "Mátrai Borzas",
+            "tip": "Un șnițel acoperit cu brânză și smântână."
+          },
+          {
+            "name": "Restaurantul Sasvár",
+            "tip": "O opțiune bună lângă Parádsasvár pentru o pauză de cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Palóc Soup",
+            "tip": "A hearty green bean and lamb soup."
+          },
+          {
+            "name": "Mátra-style 'Borzas'",
+            "tip": "A schnitzel topped with cheese and sour cream."
+          },
+          {
+            "name": "Sasvár Restaurant",
+            "tip": "A good option near Parádsasvár for a coffee break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ilona-Tal-Wasserfall",
+            "tip": "Ein perfekter Ort, um dem Alltag zu entfliehen und die Natur zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Erzsébet-Park",
+            "tip": "Finden Sie eine ruhige Ecke zum Entspannen nach dem Mittagessen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussichtspunkte in der Mátra",
+            "tip": "Halten Sie auf den kurvenreichen Straßen an, um die atemberaubende Aussicht zu genießen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ilona-völgyi vízesés",
+            "tip": "Tökéletes hely a mindennapok elől való menekülésre és a természet élvezetére.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Erzsébet park",
+            "tip": "Keressen egy csendes sarkot a pihenéshez ebéd után.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátópontok a Mátrában",
+            "tip": "Álljon meg a kanyargós utakon, hogy megcsodálja a lélegzetelállító kilátást.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cascada din Valea Ilona",
+            "tip": "Un loc perfect pentru a scăpa de cotidian și a te bucura de natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Erzsébet",
+            "tip": "Găsiți un colț liniștit pentru a vă relaxa după prânz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Puncte de belvedere în Munții Mátra",
+            "tip": "Opriți-vă pe drumurile șerpuite pentru a admira priveliștile uluitoare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ilona Valley Waterfall",
+            "tip": "A perfect place to escape the everyday and enjoy nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Erzsébet Park",
+            "tip": "Find a quiet corner to relax after lunch.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Viewpoints in the Mátra Mountains",
+            "tip": "Stop along the winding roads to take in the breathtaking views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Parádi Mineralwasser",
+            "tip": "Kaufen Sie eine Kiste des berühmten Heilwassers direkt von der Quelle."
+          },
+          {
+            "name": "Glas-Souvenirs",
+            "tip": "Suchen Sie nach einzigartigen Glasstücken in den örtlichen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parádi ásványvíz",
+            "tip": "Vásároljon egy kartonnal a híres gyógyvízből, egyenesen a forrás közeléből."
+          },
+          {
+            "name": "Üveg ajándéktárgyak",
+            "tip": "Keressen egyedi üvegtárgyakat a helyi boltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apa minerală Parád",
+            "tip": "Cumpărați o cutie din faimoasa apă medicinală direct de la sursă."
+          },
+          {
+            "name": "Suveniruri din sticlă",
+            "tip": "Căutați piese unice de sticlă în magazinele locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Parád Mineral Water",
+            "tip": "Buy a case of the famous medicinal water straight from the source."
+          },
+          {
+            "name": "Glass souvenirs",
+            "tip": "Look for unique glass pieces in the local shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die Parkgebühren in den touristischen Gebieten.",
+          "Die Straßen in der Mátra können eng und kurvenreich sein, fahren Sie also vorsichtig.",
+          "Haben Sie etwas Bargeld für kleinere Einkäufe oder Parkuhren dabei.",
+          "Ein GPS oder eine Navigations-App ist unerlässlich, um die abgelegenen Orte zu finden."
+        ],
+        "hu": [
+          "Figyeljen a parkolási díjakra a turisztikai területeken.",
+          "A mátrai utak szűkek és kanyargósak lehetnek, ezért vezessen óvatosan.",
+          "Tartson magánál készpénzt a kisebb vásárlásokhoz vagy parkolóórákhoz.",
+          "GPS vagy navigációs alkalmazás elengedhetetlen a távoli helyek megtalálásához."
+        ],
+        "ro": [
+          "Fiți atenți la taxele de parcare în zonele turistice.",
+          "Drumurile din Mátra pot fi înguste și șerpuite, așa că conduceți cu prudență.",
+          "Aveți la dumneavoastră niște numerar pentru cumpărături mici sau parcometre.",
+          "Un GPS sau o aplicație de navigație este esențială pentru a găsi locațiile îndepărtate."
+        ],
+        "en": [
+          "Be mindful of parking fees in tourist areas.",
+          "The roads in the Mátra can be narrow and winding, so drive carefully.",
+          "Have some cash on hand for small purchases or parking meters.",
+          "A GPS or navigation app is essential for finding the remote locations."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 9.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parádfürdő, Krankenhaus (Bushaltestelle)",
+            "hu": "Parádfürdő, Kórház (buszmegálló)",
+            "ro": "Parádfürdő, Spital (stație de autobuz)",
+            "en": "Parádfürdő, Hospital (bus stop)"
+          },
+          "coords": [
+            20.033,
+            47.9208
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ihr Ausgangspunkt. Überprüfen Sie den Busfahrplan nach Parádsasvár.",
+            "hu": "A kiindulópont. Ellenőrizze a Parádsasvárra tartó busz menetrendjét.",
+            "ro": "Punctul de plecare. Verificați orarul autobuzului spre Parádsasvár.",
+            "en": "Your starting point. Check the bus schedule to Parádsasvár."
+          }
+        },
+        {
+          "name": {
+            "de": "Ehemalige Glasfabrik Parádsasvár",
+            "hu": "Volt Parádsasvári Üvegyár",
+            "ro": "Fosta fabrică de sticlă Parádsasvár",
+            "en": "Former Parádsasvár Glass Factory"
+          },
+          "coords": [
+            19.986,
+            47.9103
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie aus und entdecken Sie die industrielle Vergangenheit.",
+            "hu": "Szálljon le és fedezze fel az ipari múltat.",
+            "ro": "Coborâți și explorați trecutul industrial.",
+            "en": "Get off and explore the industrial past."
+          }
+        },
+        {
+          "name": {
+            "de": "Károlyi-Schloss",
+            "hu": "Károlyi-kastély",
+            "ro": "Castelul Károlyi",
+            "en": "Károlyi Castle"
+          },
+          "coords": [
+            20.0411,
+            47.9175
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück ins Zentrum von Parádfürdő.",
+            "hu": "Menjen vissza busszal Parádfürdő központjába.",
+            "ro": "Luați autobuzul înapoi în centrul Parádfürdő.",
+            "en": "Take the bus back to the center of Parádfürdő."
+          }
+        },
+        {
+          "name": {
+            "de": "Kutschenmuseum (Cifra-Stall)",
+            "hu": "Kocsimúzeum (Cifra Istálló)",
+            "ro": "Muzeul de Calești (Grajdul Cifra)",
+            "en": "Carriage Museum (Cifra Stable)"
+          },
+          "coords": [
+            20.0401,
+            47.9182
+          ],
+          "category": "museums",
+          "arrive_at": "12:27",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Schloss entfernt.",
+            "hu": "Rövid séta a kastélytól.",
+            "ro": "O scurtă plimbare de la castel.",
+            "en": "A short walk from the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Freskó Restaurant",
+            "hu": "Freskó Étterem",
+            "ro": "Restaurantul Fresco",
+            "en": "Fresco Restaurant"
+          },
+          "coords": [
+            20.0388,
+            47.9191
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zeit für eine wohlverdiente Mittagspause.",
+            "hu": "Ideje egy jól megérdemelt ebédszünetnek.",
+            "ro": "Timpul pentru o pauză de prânz binemeritată.",
+            "en": "Time for a well-deserved lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Erzsébet-Park",
+            "hu": "Erzsébet Park Hotel",
+            "ro": "Parcul Elisabeta",
+            "en": "Erzsébet Park"
+          },
+          "coords": [
+            20.035,
+            47.9205
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:41",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie sich, bevor Sie den Bus zurück nehmen.",
+            "hu": "Pihenjen, mielőtt visszamenne a buszhoz.",
+            "ro": "Relaxați-vă înainte de a lua autobuzul înapoi.",
+            "en": "Relax before taking the bus back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den lokalen Bus, um Ihren Tag zu beginnen und nach Parádsasvár zu fahren, um die Glasfabrik zu besichtigen. Fahren Sie mit dem Bus zurück ins Zentrum von Parádfürdő und erkunden Sie zu Fuß das Károlyi-Schloss und das Kutschenmuseum. Nach dem Mittagessen können Sie einen entspannten Spaziergang durch den Erzsébet-Park machen, bevor Sie Ihre Heimreise antreten.",
+        "hu": "Használja a helyi buszt a nap megkezdéséhez, és utazzon Parádsasvárra az üveggyárhoz! Térjen vissza busszal Parádfürdő központjába, és fedezze fel gyalog a Károlyi-kastélyt és a Kocsimúzeumot! Ebéd után tegyen egy pihentető sétát az Erzsébet parkban, mielőtt hazaindulna!",
+        "ro": "Folosiți autobuzul local pentru a vă începe ziua, călătorind la Parádsasvár pentru a vedea fabrica de sticlă. Luați autobuzul înapoi în centrul Parádfürdő și explorați pe jos Castelul Károlyi și Muzeul de Calești. După prânz, bucurați-vă de o plimbare relaxantă prin Parcul Erzsébet înainte de a vă întoarce acasă.",
+        "en": "Use the local bus to start your day, traveling to Parádsasvár to see the glass factory. Take the bus back to the center of Parádfürdő and explore Károlyi Castle and the Carriage Museum on foot. After lunch, enjoy a relaxing walk through Erzsébet Park before heading home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lángos",
+            "tip": "Ein schneller und leckerer ungarischer Snack, den man an Straßenständen finden kann."
+          },
+          {
+            "name": "Freskó Étterem",
+            "tip": "Zentral gelegen und gut mit öffentlichen Verkehrsmitteln erreichbar."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lángos",
+            "tip": "Gyors és finom magyar harapnivaló, amit az utcai árusoknál talál."
+          },
+          {
+            "name": "Freskó Étterem",
+            "tip": "Központi fekvésű és tömegközlekedéssel is jól megközelíthető."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lángos",
+            "tip": "O gustare maghiară rapidă și gustoasă, găsită la standurile stradale."
+          },
+          {
+            "name": "Restaurantul Fresco",
+            "tip": "Situat central și ușor accesibil cu transportul public."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lángos",
+            "tip": "A quick and tasty Hungarian snack found at street stalls."
+          },
+          {
+            "name": "Fresco Restaurant",
+            "tip": "Centrally located and easily accessible by public transport."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt durch die Mátra",
+            "tip": "Schauen Sie aus dem Fenster und genießen Sie die vorbeiziehende Landschaft.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Erzsébet-Park",
+            "tip": "Ein ruhiger Ort, um auf den Bus zu warten.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszút a Mátrán keresztül",
+            "tip": "Nézzen ki az ablakon, és élvezze az elsuhanó tájat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Erzsébet park",
+            "tip": "Csendes hely a buszra való várakozáshoz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătorie cu autobuzul prin Mátra",
+            "tip": "Priviți pe fereastră și bucurați-vă de peisajul care trece.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Erzsébet",
+            "tip": "Un loc liniștit pentru a aștepta autobuzul.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride through the Mátra",
+            "tip": "Look out the window and enjoy the passing scenery.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Erzsébet Park",
+            "tip": "A quiet place to wait for the bus.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Märkte",
+            "tip": "Halten Sie an den Bushaltestellen Ausschau nach kleinen Märkten mit lokalen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piacok",
+            "tip": "A buszmegállók közelében keresse a helyi termékeket árusító kis piacokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe locale",
+            "tip": "Căutați piețe mici cu produse locale în apropierea stațiilor de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local markets",
+            "tip": "Look for small markets with local products near the bus stops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, da die Busse in ländlichen Gebieten nicht häufig fahren.",
+          "Kaufen Sie eine Tageskarte, wenn diese verfügbar ist, um Geld zu sparen.",
+          "Haben Sie den genauen Fahrpreis oder eine Fahrkarte bereit, um den Einstieg zu beschleunigen.",
+          "Seien Sie sich der letzten Busabfahrt bewusst, um nicht stecken zu bleiben."
+        ],
+        "hu": [
+          "Előre ellenőrizze a buszmenetrendet, mivel a buszok ritkábban közlekednek a vidéki területeken.",
+          "Vásároljon napijegyet, ha elérhető, hogy pénzt takarítson meg.",
+          "Készítse elő a pontos viteldíjat vagy a jegyet a gyorsabb felszállás érdekében.",
+          "Legyen tisztában az utolsó busz indulásával, hogy ne ragadjon ott."
+        ],
+        "ro": [
+          "Verificați programul autobuzelor în avans, deoarece autobuzele pot circula mai rar în zonele rurale.",
+          "Cumpărați un bilet de o zi, dacă este disponibil, pentru a economisi bani.",
+          "Aveți pregătit tariful exact sau un bilet pentru a grăbi îmbarcarea.",
+          "Fiți conștienți de ultima plecare a autobuzului pentru a nu rămâne blocat."
+        ],
+        "en": [
+          "Check the bus schedule in advance, as buses may not run frequently in rural areas.",
+          "Buy a day pass if available to save money.",
+          "Have the exact fare or a ticket ready to speed up boarding.",
+          "Be aware of the last bus departure to avoid getting stranded."
+        ]
+      }
+    }
+  }
+}

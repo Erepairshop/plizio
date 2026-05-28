@@ -1,0 +1,1435 @@
+{
+  "city_id": "portugal-almada-cities-v2",
+  "anchor": {
+    "name": "Almada",
+    "coords": [
+      -9.1558,
+      38.6761
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Start am Cais do Ginjal",
+            "hu": "Indulás a Cais do Ginjal rakpartról",
+            "ro": "Început la Cais do Ginjal",
+            "en": "Start at Cais do Ginjal"
+          },
+          "coords": [
+            -9.1495,
+            38.6852
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Morgenkaffee mit Blick auf Lissabon.",
+            "hu": "Igyon meg egy reggeli kávét a Lisszabonra néző kilátással.",
+            "ro": "Savurați o cafea de dimineață cu vedere la Lisabona.",
+            "en": "Enjoy a morning coffee with a view of Lisbon."
+          }
+        },
+        {
+          "name": {
+            "de": "Elevador da Boca do Vento",
+            "hu": "Elevador da Boca do Vento",
+            "ro": "Elevador da Boca do Vento",
+            "en": "Elevador da Boca do Vento"
+          },
+          "coords": [
+            -9.1531,
+            38.6841
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der Panoramalift bietet eine atemberaubende Aussicht.",
+            "hu": "A panorámaliftből lélegzetelállító a kilátás.",
+            "ro": "Liftul panoramic oferă priveliști uluitoare.",
+            "en": "The panoramic elevator offers breathtaking views."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa da Cerca - Zentrum für zeitgenössische Kunst",
+            "hu": "Casa da Cerca - Kortárs Művészeti Központ",
+            "ro": "Casa da Cerca - Centru de Artă Contemporană",
+            "en": "Casa da Cerca - Centre for Contemporary Art"
+          },
+          "coords": [
+            -9.156,
+            38.6835
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Verweilen Sie im Teegarten für einen Moment der Ruhe.",
+            "hu": "Pihenjen egy pillanatra a teaház kertjében.",
+            "ro": "Relaxați-vă în grădina de ceai pentru un moment de liniște.",
+            "en": "Linger in the tea garden for a moment of peace."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Fluss",
+            "hu": "Ebédszünet a folyóparton",
+            "ro": "Pauză de prânz pe malul râului",
+            "en": "Lunch break by the river"
+          },
+          "coords": [
+            -9.151,
+            38.6855
+          ],
+          "category": "gastro",
+          "arrive_at": "12:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Probieren Sie den gegrillten Fisch in einem der Restaurants am Cais.",
+            "hu": "Kóstolja meg a grillezett halat a rakparti éttermek egyikében.",
+            "ro": "Încercați peștele la grătar la unul dintre restaurantele de pe Cais.",
+            "en": "Try the grilled fish at one of the restaurants on the Cais."
+          }
+        },
+        {
+          "name": {
+            "de": "Fragata D. Fernando II e Glória",
+            "hu": "Fragata D. Fernando II e Glória",
+            "ro": "Fragata D. Fernando II e Glória",
+            "en": "Fragata D. Fernando II e Glória"
+          },
+          "coords": [
+            -9.1438,
+            38.6881
+          ],
+          "category": "museums",
+          "arrive_at": "14:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Ein Muss für alle, die sich für die Seefahrtsgeschichte interessieren.",
+            "hu": "Kötelező látnivaló a tengerészet története iránt érdeklődőknek.",
+            "ro": "O vizită obligatorie pentru oricine este interesat de istoria navală.",
+            "en": "A must-visit for anyone interested in naval history."
+          }
+        },
+        {
+          "name": {
+            "de": "Entspannung im Jardim do Rio",
+            "hu": "Pihenés a Jardim do Rio parkban",
+            "ro": "Relaxare în Jardim do Rio",
+            "en": "Relaxation at Jardim do Rio"
+          },
+          "coords": [
+            -9.1415,
+            38.6895
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Sonnenuntergang über Lissabon zu beobachten.",
+            "hu": "Tökéletes hely a lisszaboni naplemente megcsodálásához.",
+            "ro": "Locul perfect pentru a privi apusul peste Lisabona.",
+            "en": "The perfect spot to watch the sunset over Lisbon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am Cais do Ginjal, wo der Charme der alten Lagerhäuser und der Duft des Meeres die Luft erfüllen. Der Panoramablick auf Lissabon ist der perfekte Start. Am Vormittag erkunden Sie die Kunst in der Casa da Cerca und genießen die Ruhe des botanischen Gartens. Die Aussicht vom Elevador da Boca do Vento ist ein Muss, bevor Sie zum Mittagessen einkehren. Der Nachmittag ist der Seefahrtsgeschichte auf der Fregatte D. Fernando II e Glória gewidmet, ein beeindruckendes Schiff, das Geschichten aus fernen Ländern erzählt. Schließen Sie den Tag im Jardim do Rio ab, beobachten Sie, wie die Sonne untergeht und die Lichter von Lissabon zu funkeln beginnen, und genießen Sie die friedliche Atmosphäre, die nur Almada bieten kann.",
+        "hu": "Kezdje a napot a Cais do Ginjal-on, ahol a régi raktárépületek bája és a tenger illata tölti be a levegőt. A Lisszabonra nyíló panoráma tökéletes kezdés. Délelőtt fedezze fel a Casa da Cerca művészetét és élvezze a botanikus kert nyugalmát. Az Elevador da Boca do Vento kilátása kötelező, mielőtt ebédelni térne. A délután a D. Fernando II e Glória fregatt tengerészeti történelmének szentelt, egy lenyűgöző hajó, amely távoli földek történeteit meséli el. Zárja a napot a Jardim do Rio-ban, nézze, ahogy a nap lenyugszik, és Lisszabon fényei elkezdenek ragyogni, élvezve a békés hangulatot, amit csak Almada nyújthat.",
+        "ro": "Începeți ziua la Cais do Ginjal, unde farmecul vechilor depozite și mirosul mării umplu aerul. Vederea panoramică a Lisabonei este începutul perfect. La amiază, explorați arta la Casa da Cerca și bucurați-vă de liniștea grădinii botanice. Priveliștea de la Elevador da Boca do Vento este o necesitate înainte de a vă opri pentru prânz. După-amiaza este dedicată istoriei navale pe fregata D. Fernando II e Glória, o navă impresionantă care spune povești din ținuturi îndepărtate. Încheiați ziua la Jardim do Rio, privind apusul soarelui și luminile Lisabonei care încep să sclipească, bucurându-vă de atmosfera pașnică pe care numai Almada o poate oferi.",
+        "en": "Start your day at Cais do Ginjal, where the charm of old warehouses and the scent of the sea fill the air. The panoramic view of Lisbon is the perfect start. In the morning, explore the art at Casa da Cerca and enjoy the tranquility of its botanical garden. The view from the Elevador da Boca do Vento is a must-see before stopping for lunch. The afternoon is dedicated to maritime history on the frigate D. Fernando II e Glória, an impressive ship that tells stories of distant lands. End the day at Jardim do Rio, watching the sun set and Lisbon's lights begin to twinkle, soaking in the peaceful atmosphere that only Almada can offer."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ponto Final",
+            "tip": "Berühmt für seine gelben Tische direkt am Wasser. Reservieren Sie im Voraus!"
+          },
+          {
+            "name": "Atira-te ao Rio",
+            "tip": "Eine weitere fantastische Option mit unglaublicher Aussicht und frischen Meeresfrüchten."
+          },
+          {
+            "name": "Ameijoas à Bulhão Pato",
+            "tip": "Probieren Sie dieses klassische portugiesische Muschelgericht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ponto Final",
+            "tip": "Híres a közvetlenül a vízparton lévő sárga asztalairól. Foglaljon előre!"
+          },
+          {
+            "name": "Atira-te ao Rio",
+            "tip": "Egy másik fantasztikus lehetőség hihetetlen kilátással és friss tengeri ételekkel."
+          },
+          {
+            "name": "Ameijoas à Bulhão Pato",
+            "tip": "Kóstolja meg ezt a klasszikus portugál kagylóételt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ponto Final",
+            "tip": "Faimos pentru mesele sale galbene chiar pe malul apei. Rezervați în avans!"
+          },
+          {
+            "name": "Atira-te ao Rio",
+            "tip": "O altă opțiune fantastică cu vederi incredibile și fructe de mare proaspete."
+          },
+          {
+            "name": "Ameijoas à Bulhão Pato",
+            "tip": "Încercați acest fel de mâncare clasic portughez cu scoici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ponto Final",
+            "tip": "Famous for its yellow tables right on the water's edge. Book in advance!"
+          },
+          {
+            "name": "Atira-te ao Rio",
+            "tip": "Another fantastic option with incredible views and fresh seafood."
+          },
+          {
+            "name": "Ameijoas à Bulhão Pato",
+            "tip": "You must try this classic Portuguese clam dish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardim da Casa da Cerca",
+            "tip": "Ein ruhiger botanischer Garten mit Blick auf den Tejo.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang am Cais do Ginjal",
+            "tip": "Beobachten Sie, wie die Sonne hinter der Brücke des 25. April untergeht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parque da Paz",
+            "tip": "Ein riesiger Park, perfekt für einen ruhigen Spaziergang abseits der Menschenmassen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardim da Casa da Cerca",
+            "tip": "Egy csendes botanikus kert, kilátással a Tajo folyóra.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a Cais do Ginjal-on",
+            "tip": "Nézze, ahogy a nap lenyugszik az Április 25. híd mögött.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parque da Paz",
+            "tip": "Hatalmas park, tökéletes egy csendes sétához a tömegtől távol.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardim da Casa da Cerca",
+            "tip": "O grădină botanică liniștită cu vedere la râul Tagus.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus de soare la Cais do Ginjal",
+            "tip": "Urmăriți soarele apunând în spatele podului 25 de Abril.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parque da Paz",
+            "tip": "Un parc imens, perfect pentru o plimbare liniștită departe de mulțime.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardim da Casa da Cerca",
+            "tip": "A quiet botanical garden overlooking the Tagus River.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset at Cais do Ginjal",
+            "tip": "Watch the sun dip behind the 25 de Abril Bridge.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parque da Paz (Peace Park)",
+            "tip": "A huge park perfect for a quiet walk away from the crowds.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado de Almada",
+            "tip": "Ein lokaler Markt, um frische Produkte und die lokale Atmosphäre zu erleben."
+          },
+          {
+            "name": "Rua Cândido dos Reis (in Cacilhas)",
+            "tip": "Bekannt für seine vielen Restaurants, aber es gibt auch kleine Läden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado de Almada",
+            "tip": "Helyi piac, ahol friss termékeket és a helyi hangulatot tapasztalhatja meg."
+          },
+          {
+            "name": "Rua Cândido dos Reis (Cacilhas-ban)",
+            "tip": "Számos étterméről ismert, de kisebb boltok is találhatók itt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado de Almada",
+            "tip": "O piață locală pentru a experimenta produse proaspete și atmosfera locală."
+          },
+          {
+            "name": "Rua Cândido dos Reis (în Cacilhas)",
+            "tip": "Cunoscută pentru numeroasele sale restaurante, dar are și magazine mici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Almada Market",
+            "tip": "A local market to experience fresh produce and the local vibe."
+          },
+          {
+            "name": "Rua Cândido dos Reis (in Cacilhas)",
+            "tip": "Known for its many restaurants, but it also has small shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster uneben sein kann.",
+          "Nehmen Sie die Fähre von Cais do Sodré in Lissabon nach Cacilhas für die beste Anreise.",
+          "Vergessen Sie Ihre Kamera nicht; die Aussicht auf Lissabon ist unschlagbar.",
+          "Viele Restaurants am Wasser haben mittags geschlossen, also planen Sie entsprechend."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakövek egyenetlenek lehetnek.",
+          "A legjobb megközelítés érdekében vegye igénybe a kompot a lisszaboni Cais do Sodré-ról Cacilhas-ba.",
+          "Ne felejtse otthon a fényképezőgépét; a Lisszabonra nyíló kilátás verhetetlen.",
+          "Sok vízparti étterem bezár délután, ezért tervezzen ennek megfelelően."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavelele pot fi denivelate.",
+          "Luați feribotul de la Cais do Sodré din Lisabona la Cacilhas pentru cea mai bună abordare.",
+          "Nu vă uitați aparatul foto; priveliștile Lisabonei sunt imbatabile.",
+          "Multe restaurante de pe malul apei se închid la prânz, așa că planificați-vă în consecință."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones can be uneven.",
+          "Take the ferry from Cais do Sodré in Lisbon to Cacilhas for the best approach.",
+          "Don't forget your camera; the views of Lisbon are unbeatable.",
+          "Many waterfront restaurants close for the afternoon, so plan accordingly."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradverleih & Cais do Ginjal",
+            "hu": "Kerékpárkölcsönzés és Cais do Ginjal",
+            "ro": "Închiriere biciclete & Cais do Ginjal",
+            "en": "Bike Rental & Cais do Ginjal"
+          },
+          "coords": [
+            -9.148,
+            38.686
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einer Fahrt entlang des Flusses.",
+            "hu": "Kezdje a napot egy tekeréssel a folyó mentén.",
+            "ro": "Începeți ziua cu o plimbare de-a lungul râului.",
+            "en": "Start the day with a ride along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Fragata D. Fernando II e Glória",
+            "hu": "Fragata D. Fernando II e Glória",
+            "ro": "Fragata D. Fernando II e Glória",
+            "en": "Fragata D. Fernando II e Glória"
+          },
+          "coords": [
+            -9.1438,
+            38.6881
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie an Bord gehen.",
+            "hu": "Zárja le biztonságosan a kerékpárt, mielőtt a fedélzetre lép.",
+            "ro": "Asigurați-vă bicicleta înainte de a urca la bord.",
+            "en": "Lock your bike securely before stepping aboard."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque da Paz",
+            "hu": "Parque da Paz",
+            "ro": "Parque da Paz",
+            "en": "Parque da Paz (Peace Park)"
+          },
+          "coords": [
+            -9.166,
+            38.665
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für ein Picknick und eine Pause vom Radfahren.",
+            "hu": "Nagyszerű hely egy piknikhez és egy kis pihenéshez.",
+            "ro": "Un loc minunat pentru un picnic și o pauză de la pedalat.",
+            "en": "A great place for a picnic and a break from cycling."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Zentral-Almada",
+            "hu": "Ebéd Almada központjában",
+            "ro": "Prânz în centrul Almadei",
+            "en": "Lunch in Central Almada"
+          },
+          "coords": [
+            -9.158,
+            38.678
+          ],
+          "category": "gastro",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Suchen Sie nach einer lokalen 'Tasca' für ein authentisches Essen.",
+            "hu": "Keressen egy helyi 'tasca'-t egy autentikus étkezéshez.",
+            "ro": "Căutați o 'tasca' locală pentru o masă autentică.",
+            "en": "Look for a local 'tasca' for an authentic meal."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa da Cerca",
+            "hu": "Casa da Cerca",
+            "ro": "Casa da Cerca",
+            "en": "Casa da Cerca"
+          },
+          "coords": [
+            -9.156,
+            38.6835
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und genießen Sie die Kunst und die Gärten.",
+            "hu": "Parkolja le a biciklit, és élvezze a művészetet és a kerteket.",
+            "ro": "Parcați bicicleta și bucurați-vă de artă și de grădini.",
+            "en": "Park your bike and enjoy the art and gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück zum Cais do Ginjal für den Sonnenuntergang",
+            "hu": "Vissza a Cais do Ginjal-hoz naplementére",
+            "ro": "Înapoi la Cais do Ginjal pentru apus",
+            "en": "Return to Cais do Ginjal for sunset"
+          },
+          "coords": [
+            -9.1495,
+            38.6852
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag, wo er begann, aber mit dem goldenen Licht des Abends.",
+            "hu": "Fejezze be a napot ott, ahol elkezdte, de az este arany fényében.",
+            "ro": "Încheiați ziua unde a început, dar cu lumina aurie a serii.",
+            "en": "End the day where it began, but with the golden light of evening."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie mit dem Fahrrad entlang des Tejo und spüren Sie die Meeresbrise. Die Route führt Sie zuerst zur majestätischen Fregatte D. Fernando II e Glória. Am Vormittag wagen Sie sich ins Landesinnere zum weitläufigen Parque da Paz, einer grünen Oase, die perfekt für eine Pause ist. Nach dem Mittagessen in einer traditionellen Tasca im Herzen von Almada, geht es bergauf zur Casa da Cerca, wo Kunst und Natur eine wunderbare Symbiose eingehen. Der Nachmittag klingt mit einer entspannten Rückfahrt zum Cais do Ginjal aus, um einen unvergesslichen Sonnenuntergang zu erleben, der den Himmel in warme Farben taucht. Es ist der perfekte Abschluss eines aktiven Tages.",
+        "hu": "Kezdje a kerékpártúrát a Tejo mentén, érezve a tengeri szellőt. Az útvonal először a fenséges D. Fernando II e Glória fregatthoz vezet. Délelőtt merészkedjen be a szárazföldre a tágas Parque da Paz-ba, egy zöld oázisba, amely tökéletes egy kis pihenőre. Ebéd után egy hagyományos tascában Almada szívében, feltekerve a Casa da Cerca-hoz, ahol a művészet és a természet csodálatos szimbiózist alkot. A délután egy laza visszaúttal zárul a Cais do Ginjal-hoz, hogy egy felejthetetlen naplementét élvezhessen, amely meleg színekbe borítja az eget. Ez a tökéletes befejezése egy aktív napnak.",
+        "ro": "Începeți plimbarea cu bicicleta de-a lungul râului Tagus, simțind briza mării. Traseul vă duce mai întâi la majestuoasa fregată D. Fernando II e Glória. La amiază, aventurați-vă în interior spre vastul Parque da Paz, o oază verde perfectă pentru o pauză. După prânz la o tasca tradițională în inima Almadei, urcați dealul spre Casa da Cerca, unde arta și natura se combină într-o simbioză minunată. După-amiaza se încheie cu o plimbare relaxantă înapoi la Cais do Ginjal pentru a prinde un apus de neuitat, pictând cerul în culori calde. Este finalul perfect pentru o zi activă.",
+        "en": "Start your bike ride along the Tagus River, feeling the sea breeze. The route first takes you to the majestic frigate D. Fernando II e Glória. In the morning, venture inland to the expansive Parque da Paz, a green oasis perfect for a break. After lunch at a traditional tasca in the heart of Almada, it's uphill to Casa da Cerca, where art and nature combine in wonderful symbiosis. The afternoon concludes with a relaxed ride back to Cais do Ginjal to catch an unforgettable sunset, painting the sky in warm colors. It's the perfect end to an active day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frischer Fisch",
+            "tip": "Die Restaurants in Cacilhas sind bekannt für ihren 'peixe fresco'."
+          },
+          {
+            "name": "Tasca do Rato",
+            "tip": "Eine authentische, unprätentiöse Option für ein herzhaftes Mittagessen."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Tanken Sie Energie mit einem oder zwei dieser berühmten Puddingtörtchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Friss hal",
+            "tip": "A cacilhasi éttermek híresek a 'peixe fresco'-jukról."
+          },
+          {
+            "name": "Tasca do Rato",
+            "tip": "Autentikus, szerény lehetőség egy kiadós ebédhez."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Töltődjön fel energiával egy-két híres pudingos kosárkával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește proaspăt",
+            "tip": "Restaurantele din Cacilhas sunt renumite pentru 'peixe fresco'."
+          },
+          {
+            "name": "Tasca do Rato",
+            "tip": "O opțiune autentică, fără pretenții, pentru un prânz copios."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Realimentați-vă cu unul sau două dintre aceste faimoase tarte cu cremă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fresh Fish",
+            "tip": "The restaurants in Cacilhas are renowned for their 'peixe fresco'."
+          },
+          {
+            "name": "Tasca do Rato",
+            "tip": "An authentic, no-frills option for a hearty lunch."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Refuel with one or two of these famous custard tarts."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Der See im Parque da Paz",
+            "tip": "Ein ruhiger Ort, um Vögel zu beobachten und sich zu entspannen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardim do Rio",
+            "tip": "Weniger überlaufen als Cais do Ginjal, aber mit ebenso schöner Aussicht.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Aussichtspunkt bei Casa da Cerca",
+            "tip": "Genießen Sie den Panoramablick in Ruhe, weg von den Massen am Aufzug.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A tó a Parque da Paz-ban",
+            "tip": "Csendes hely a madármegfigyeléshez és a pihenéshez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardim do Rio",
+            "tip": "Kevésbé zsúfolt, mint a Cais do Ginjal, de ugyanolyan szép kilátással.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátópont a Casa da Cerca-nál",
+            "tip": "Élvezze a panorámát nyugalomban, távol a liftnél lévő tömegtől.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul din Parque da Paz",
+            "tip": "Un loc liniștit pentru a privi păsările și a vă relaxa.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardim do Rio",
+            "tip": "Mai puțin aglomerat decât Cais do Ginjal, dar cu vederi la fel de frumoase.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Punct de belvedere la Casa da Cerca",
+            "tip": "Bucurați-vă de priveliștea panoramică în liniște, departe de aglomerația de la lift.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "The lake at Parque da Paz",
+            "tip": "A tranquil spot for birdwatching and relaxing.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardim do Rio",
+            "tip": "Less crowded than Cais do Ginjal but with equally beautiful views.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Viewpoint at Casa da Cerca",
+            "tip": "Enjoy the panoramic view in peace, away from the elevator crowds.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Forum Almada",
+            "tip": "Ein großes Einkaufszentrum, falls Sie etwas Bestimmtes brauchen. Besser mit dem Auto erreichbar."
+          },
+          {
+            "name": "Lokale Kunst bei Casa da Cerca",
+            "tip": "Der Museumsshop bietet möglicherweise einzigartige Souvenirs an."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Forum Almada",
+            "tip": "Nagy bevásárlóközpont, ha valami konkrétra van szüksége. Jobb autóval megközelíteni."
+          },
+          {
+            "name": "Helyi művészet a Casa da Cerca-ban",
+            "tip": "A múzeumi bolt egyedi szuveníreket kínálhat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Forum Almada",
+            "tip": "Un centru comercial mare dacă aveți nevoie de ceva specific. Mai bine accesibil cu mașina."
+          },
+          {
+            "name": "Artă locală la Casa da Cerca",
+            "tip": "Magazinul muzeului poate oferi suveniruri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Forum Almada",
+            "tip": "A large shopping mall if you need anything specific. Better reached by car."
+          },
+          {
+            "name": "Local Art at Casa da Cerca",
+            "tip": "The museum shop might offer unique souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Almada ist hügelig; ein E-Bike könnte eine gute Idee sein.",
+          "Achten Sie auf den Verkehr, besonders außerhalb der Radwege.",
+          "Nehmen Sie viel Wasser mit, besonders an warmen Tagen.",
+          "Prüfen Sie die Öffnungszeiten der Sehenswürdigkeiten, bevor Sie losfahren."
+        ],
+        "hu": [
+          "Almada dombos; egy e-kerékpár jó ötlet lehet.",
+          "Vigyázzon a forgalomra, különösen a kerékpárutakon kívül.",
+          "Vigyen magával sok vizet, különösen meleg napokon.",
+          "Indulás előtt ellenőrizze a látnivalók nyitvatartási idejét."
+        ],
+        "ro": [
+          "Almada este deluroasă; o bicicletă electrică ar putea fi o idee bună.",
+          "Fiți atenți la trafic, mai ales în afara pistelor de biciclete.",
+          "Luați multă apă cu dumneavoastră, mai ales în zilele călduroase.",
+          "Verificați orele de funcționare ale atracțiilor înainte de a pleca."
+        ],
+        "en": [
+          "Almada is hilly; an e-bike might be a good idea.",
+          "Be mindful of traffic, especially outside of dedicated bike lanes.",
+          "Carry plenty of water, especially on warm days.",
+          "Check the opening hours of attractions before you set off."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 25.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Santuário do Cristo Rei",
+            "hu": "Santuário do Cristo Rei",
+            "ro": "Santuário do Cristo Rei",
+            "en": "Santuário do Cristo Rei"
+          },
+          "coords": [
+            -9.1715,
+            38.6786
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Kommen Sie früh, um die Menschenmassen zu vermeiden und den besten Parkplatz zu bekommen.",
+            "hu": "Érkezzen korán, hogy elkerülje a tömeget és a legjobb parkolóhelyet kapja.",
+            "ro": "Veniți devreme pentru a evita aglomerația și pentru a obține cel mai bun loc de parcare.",
+            "en": "Arrive early to avoid the crowds and get the best parking spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Parken in Almada Velha & Casa da Cerca",
+            "hu": "Parkolás Almada Velha-ban és Casa da Cerca",
+            "ro": "Parcare în Almada Velha și Casa da Cerca",
+            "en": "Park in Almada Velha & Casa da Cerca"
+          },
+          "coords": [
+            -9.157,
+            38.682
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Parken Sie das Auto und erkunden Sie den ersten Teil des Tages zu Fuß.",
+            "hu": "Parkolja le az autót, és fedezze fel a nap első részét gyalog.",
+            "ro": "Parcați mașina și explorați prima parte a zilei pe jos.",
+            "en": "Park the car and explore this first cluster of the day on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Elevador da Boca do Vento",
+            "hu": "Elevador da Boca do Vento",
+            "ro": "Elevador da Boca do Vento",
+            "en": "Elevador da Boca do Vento"
+          },
+          "coords": [
+            -9.1531,
+            38.6841
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Casa da Cerca mit toller Aussicht.",
+            "hu": "Rövid séta a Casa da Cerca-tól, nagyszerű kilátással.",
+            "ro": "O scurtă plimbare de la Casa da Cerca cu vederi minunate.",
+            "en": "A short walk from Casa da Cerca with great views."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Cais do Ginjal",
+            "hu": "Ebéd a Cais do Ginjal-nál",
+            "ro": "Prânz la Cais do Ginjal",
+            "en": "Lunch at Cais do Ginjal"
+          },
+          "coords": [
+            -9.15,
+            38.6853
+          ],
+          "category": "gastro",
+          "arrive_at": "12:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Gehen Sie die Treppe oder den Aufzug hinunter zu den berühmten Restaurants am Fluss.",
+            "hu": "Menjen le a lépcsőn vagy a lifttel a híres folyóparti éttermekhez.",
+            "ro": "Coborâți scările sau liftul spre faimoasele restaurante de pe malul apei.",
+            "en": "Walk down the stairs or take the elevator to the famous riverside restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Solar dos Zagallos",
+            "hu": "Solar dos Zagallos",
+            "ro": "Solar dos Zagallos",
+            "en": "Solar dos Zagallos"
+          },
+          "coords": [
+            -9.15,
+            38.653
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Ein kulturelles Juwel mit wunderschönen Gärten, das einen Besuch wert ist.",
+            "hu": "Egy kulturális gyöngyszem gyönyörű kertekkel, érdemes meglátogatni.",
+            "ro": "O bijuterie culturală cu grădini frumoase, care merită o vizită.",
+            "en": "A cultural gem with beautiful gardens, well worth the drive."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque da Paz",
+            "hu": "Parque da Paz",
+            "ro": "Parque da Paz",
+            "en": "Parque da Paz (Peace Park)"
+          },
+          "coords": [
+            -9.166,
+            38.665
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Machen Sie einen entspannenden Spaziergang, um den Tag ausklingen zu lassen.",
+            "hu": "Tegyen egy pihentető sétát a nap lezárásaként.",
+            "ro": "Faceți o plimbare relaxantă pentru a încheia ziua.",
+            "en": "Take a relaxing stroll to wind down your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen mit Aussicht",
+            "hu": "Vacsora kilátással",
+            "ro": "Cină cu priveliște",
+            "en": "Dinner with a view"
+          },
+          "coords": [
+            -9.231,
+            38.705
+          ],
+          "category": "gastro",
+          "arrive_at": "17:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zu den Stränden von Costa da Caparica für ein Abendessen bei Sonnenuntergang.",
+            "hu": "Menjen el a Costa da Caparica strandjaira egy naplementés vacsorára.",
+            "ro": "Conduceți spre plajele din Costa da Caparica pentru o cină la apus.",
+            "en": "Drive to the beaches of Costa da Caparica for a sunset dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Almada beginnt am höchsten Punkt, dem Cristo Rei, für unvergleichliche Ausblicke am Morgen. Danach fahren Sie zum historischen Herzen von Almada. Parken Sie Ihr Auto und erkunden Sie zu Fuß die Casa da Cerca und den Elevador da Boca do Vento. Steigen Sie zum Mittagessen zum Cais do Ginjal hinab. Am Nachmittag bringt Sie Ihr Auto zum eleganten Solar dos Zagallos, einem Palast voller Geschichte und Kultur. Beenden Sie den Tag im weitläufigen Parque da Paz für einen ruhigen Spaziergang, bevor Sie für ein Abendessen bei Sonnenuntergang an die nahegelegenen Strände der Costa da Caparica fahren.",
+        "hu": "Autós napja Almadában a legmagasabb ponton, a Cristo Rei-nél kezdődik, ahol páratlan reggeli kilátásban lesz része. Ezután Almada történelmi szívébe hajt. Parkolja le az autót, és fedezze fel gyalog a Casa da Cerca-t és az Elevador da Boca do Vento-t. Ebédhez ereszkedjen le a Cais do Ginjal-hoz. Délután az autója elviszi az elegáns Solar dos Zagallos-hoz, egy történelemmel és kultúrával teli palotához. A napot a tágas Parque da Paz-ban fejezze be egy csendes sétával, mielőtt a közeli Costa da Caparica strandjaira hajtana egy naplementés vacsorára.",
+        "ro": "Ziua dumneavoastră cu mașina în Almada începe la cel mai înalt punct, Cristo Rei, pentru vederi matinale de neegalat. Apoi, conduceți spre inima istorică a Almadei. Parcați mașina și explorați pe jos Casa da Cerca și Elevador da Boca do Vento. Coborâți la Cais do Ginjal pentru prânz. După-amiaza, mașina vă duce la elegantul Solar dos Zagallos, un palat plin de istorie și cultură. Încheiați ziua în vastul Parque da Paz pentru o plimbare liniștită înainte de a conduce spre plajele din apropiere de Costa da Caparica pentru o cină la apus.",
+        "en": "Your car day in Almada starts at its highest point, the Cristo Rei, for unparalleled morning views. Then, drive to the historic heart of Almada. Park your car and explore on foot, visiting Casa da Cerca and the Elevador da Boca do Vento. Descend to Cais do Ginjal for lunch. In the afternoon, your car takes you to the elegant Solar dos Zagallos, a palace steeped in history and culture. End your day in the expansive Parque da Paz for a quiet walk, before driving to the nearby beaches of Costa da Caparica for a sunset dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurantes an der Costa da Caparica",
+            "tip": "Probieren Sie frische Meeresfrüchte mit den Füßen fast im Sand."
+          },
+          {
+            "name": "Leitão (Spanferkel)",
+            "tip": "Suchen Sie nach einem Restaurant, das diese portugiesische Spezialität serviert."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "Ein erfrischender Wein, der perfekt zu Meeresfrüchten passt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Éttermek a Costa da Caparica-n",
+            "tip": "Kóstoljon friss tengeri ételeket, szinte a homokban állva."
+          },
+          {
+            "name": "Leitão (Szopós malac)",
+            "tip": "Keressen egy éttermet, amely ezt a portugál különlegességet szolgálja fel."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "Frissítő bor, amely tökéletesen illik a tenger gyümölcseihez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurante pe Costa da Caparica",
+            "tip": "Încercați fructe de mare proaspete cu picioarele aproape în nisip."
+          },
+          {
+            "name": "Leitão (purcel de lapte)",
+            "tip": "Căutați un restaurant care servește această specialitate portugheză."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "Un vin revigorant care se potrivește perfect cu fructele de mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurants on Costa da Caparica",
+            "tip": "Try fresh seafood with your feet almost in the sand."
+          },
+          {
+            "name": "Leitão (Suckling Pig)",
+            "tip": "Look for a restaurant serving this Portuguese specialty."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "A refreshing wine that pairs perfectly with seafood."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten des Solar dos Zagallos",
+            "tip": "Ein friedlicher Rückzugsort mit barockem Charme.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussicht vom Cristo Rei",
+            "tip": "Oben an der Statue ist es oft ruhiger und bietet eine spirituelle Atmosphäre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ein abgelegener Strand an der Costa da Caparica",
+            "tip": "Fahren Sie ein wenig weiter südlich, um ruhigere Abschnitte zu finden.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Solar dos Zagallos kertjei",
+            "tip": "Békés menedék barokk bájjal.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Cristo Rei-től",
+            "tip": "A szobor tetején gyakran csendesebb és spirituálisabb a hangulat.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Egy eldugott strand a Costa da Caparica-n",
+            "tip": "Hajtson egy kicsit délebbre, hogy csendesebb szakaszokat találjon.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile de la Solar dos Zagallos",
+            "tip": "Un refugiu pașnic cu farmec baroc.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Priveliștea de la Cristo Rei",
+            "tip": "Sus la statuie este adesea mai liniștit și oferă o atmosferă spirituală.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "O plajă izolată pe Costa da Caparica",
+            "tip": "Conduceți puțin mai la sud pentru a găsi porțiuni mai liniștite.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gardens of Solar dos Zagallos",
+            "tip": "A peaceful retreat with baroque charm.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from Cristo Rei",
+            "tip": "It's often quieter at the top of the statue, offering a spiritual atmosphere.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A secluded beach on Costa da Caparica",
+            "tip": "Drive a little further south to find quieter stretches.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Forum Almada",
+            "tip": "Das größte Einkaufszentrum der Region, leicht mit dem Auto erreichbar."
+          },
+          {
+            "name": "Kunsthandwerkermärkte",
+            "tip": "Halten Sie Ausschau nach saisonalen Märkten in der Umgebung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Forum Almada",
+            "tip": "A régió legnagyobb bevásárlóközpontja, könnyen megközelíthető autóval."
+          },
+          {
+            "name": "Kézműves piacok",
+            "tip": "Figyelje a szezonális piacokat a környéken."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Forum Almada",
+            "tip": "Cel mai mare centru comercial din regiune, ușor accesibil cu mașina."
+          },
+          {
+            "name": "Piețe de artizanat",
+            "tip": "Fiți atenți la piețele sezoniere din zonă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Forum Almada",
+            "tip": "The largest shopping centre in the region, easily accessible by car."
+          },
+          {
+            "name": "Artisan Markets",
+            "tip": "Keep an eye out for seasonal markets in the area."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken kann in Almada Velha schwierig sein; nutzen Sie ausgewiesene Parkhäuser.",
+          "Die Maut für die Brücke des 25. April wird nur bei der Fahrt nach Süden (nach Almada) erhoben.",
+          "Beachten Sie, dass einige kleinere Straßen sehr eng sein können.",
+          "Ein GPS ist unerlässlich, um sich in den verschiedenen Stadtteilen zurechtzufinden."
+        ],
+        "hu": [
+          "A parkolás nehéz lehet Almada Velha-ban; használja a kijelölt parkolóházakat.",
+          "Az Április 25. híd díját csak dél felé (Almada felé) haladva kell fizetni.",
+          "Vegye figyelembe, hogy néhány kisebb utca nagyon szűk lehet.",
+          "GPS elengedhetetlen a különböző városrészekben való navigáláshoz."
+        ],
+        "ro": [
+          "Parcarea poate fi dificilă în Almada Velha; folosiți parcările desemnate.",
+          "Taxa de pod pentru podul 25 de Abril se plătește doar la ieșirea din Lisabona spre sud (spre Almada).",
+          "Rețineți că unele străzi mai mici pot fi foarte înguste.",
+          "Un GPS este esențial pentru a naviga prin diferitele cartiere."
+        ],
+        "en": [
+          "Parking can be challenging in Almada Velha; use designated car parks.",
+          "The toll on the 25 de Abril Bridge is only paid when heading south (to Almada).",
+          "Be aware that some smaller streets can be very narrow.",
+          "A GPS is essential for navigating between the different clusters."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 8.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft mit der Fähre in Cacilhas & Spaziergang zum Cais do Ginjal",
+            "hu": "Érkezés komppal Cacilhasba és séta a Cais do Ginjalhoz",
+            "ro": "Sosire cu feribotul în Cacilhas & plimbare la Cais do Ginjal",
+            "en": "Ferry Arrival in Cacilhas & walk to Cais do Ginjal"
+          },
+          "coords": [
+            -9.146,
+            38.687
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Die Fährfahrt von Lissabon ist der beste Start für Ihren Tag in Almada.",
+            "hu": "A lisszaboni kompozás a legjobb módja a nap elkezdésének Almadában.",
+            "ro": "Călătoria cu feribotul de la Lisabona este cel mai bun mod de a începe ziua în Almada.",
+            "en": "The ferry ride from Lisbon is the best start to your Almada day."
+          }
+        },
+        {
+          "name": {
+            "de": "Elevador da Boca do Vento & Jardim do Rio",
+            "hu": "Elevador da Boca do Vento & Jardim do Rio",
+            "ro": "Elevador da Boca do Vento & Jardim do Rio",
+            "en": "Elevador da Boca do Vento & Jardim do Rio"
+          },
+          "coords": [
+            -9.1531,
+            38.6841
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Gehen Sie zu Fuß zwischen diesen beiden nahegelegenen Attraktionen.",
+            "hu": "Sétáljon a két közeli látnivaló között.",
+            "ro": "Plimbați-vă între aceste două atracții apropiate.",
+            "en": "Walk between these two nearby attractions."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Cacilhas",
+            "hu": "Ebéd Cacilhasban",
+            "ro": "Prânz în Cacilhas",
+            "en": "Lunch in Cacilhas"
+          },
+          "coords": [
+            -9.145,
+            38.689
+          ],
+          "category": "gastro",
+          "arrive_at": "11:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Die Rua Cândido dos Reis ist voll von ausgezeichneten Fischrestaurants.",
+            "hu": "A Rua Cândido dos Reis tele van kiváló haléttermekkel.",
+            "ro": "Rua Cândido dos Reis este plină de restaurante excelente cu pește.",
+            "en": "Rua Cândido dos Reis is packed with excellent seafood restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Cristo Rei",
+            "hu": "Busszal a Cristo Rei-hez",
+            "ro": "Autobuz spre Cristo Rei",
+            "en": "Bus to Cristo Rei"
+          },
+          "coords": [
+            -9.1715,
+            38.6786
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus 3001 vom Terminal in Cacilhas.",
+            "hu": "Vegye a 3001-es buszt a cacilhasi terminálról.",
+            "ro": "Luați autobuzul 3001 de la terminalul din Cacilhas.",
+            "en": "Take bus 3001 from the terminal in Cacilhas."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zur Casa da Cerca",
+            "hu": "Busszal a Casa da Cerca-hoz",
+            "ro": "Autobuz spre Casa da Cerca",
+            "en": "Bus to Casa da Cerca"
+          },
+          "coords": [
+            -9.156,
+            38.6835
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kehren Sie nach Almada Velha zurück, um Kunst und Gärten zu genießen.",
+            "hu": "Térjen vissza Almada Velha-ba, hogy élvezze a művészetet és a kerteket.",
+            "ro": "Întoarceți-vă în Almada Velha pentru artă și grădini.",
+            "en": "Return towards Almada Velha for art and gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zurück zur Fähre",
+            "hu": "Séta vissza a komphoz",
+            "ro": "Plimbare înapoi la feribot",
+            "en": "Walk back to the ferry"
+          },
+          "coords": [
+            -9.146,
+            38.687
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie einen letzten Drink in Cacilhas, bevor Sie nach Lissabon zurückkehren.",
+            "hu": "Igyon meg egy utolsó italt Cacilhasban, mielőtt visszatér Lisszabonba.",
+            "ro": "Savurați o ultimă băutură în Cacilhas înainte de a vă întoarce la Lisabona.",
+            "en": "Enjoy one last drink in Cacilhas before heading back to Lisbon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einer malerischen Fährfahrt von Lissabon nach Cacilhas. Der erste Cluster, der zu Fuß erkundet wird, umfasst das Ufer, den Elevador und den Jardim do Rio. Nach einem köstlichen Mittagessen in der Restaurant-Meile von Cacilhas bringt Sie ein Bus zum zweiten Cluster: dem hoch aufragenden Cristo Rei. Bewundern Sie die 360-Grad-Aussicht, bevor Sie mit dem Bus zu Ihrem dritten Cluster fahren, der Casa da Cerca, um einen Nachmittag mit Kunst zu verbringen. Der Tag endet dort, wo er begann, mit einem gemütlichen Spaziergang zurück zum Fährterminal Cacilhas, mit dem Kopf voller Eindrücke vom anderen Ufer des Tejo.",
+        "hu": "A nap egy festői kompozással kezdődik Lisszabonból Cacilhasba. Az első, gyalogosan felfedezett klaszter a vízpartot, az Elevadort és a Jardim do Rio-t foglalja magában. Egy finom ebéd után Cacilhas éttermi negyedében egy busz viszi a második klaszterhez: a tornyosuló Cristo Rei-hez. Csodálja meg a 360 fokos kilátást, mielőtt busszal a harmadik klaszterhez, a Casa da Cerca-hoz utazik egy művészettel teli délutánra. A nap ott ér véget, ahol elkezdődött, egy kényelmes sétával vissza a cacilhasi kompkikötőbe, fejben tele a Tejo túlsó partjának benyomásaival.",
+        "ro": "Ziua dumneavoastră începe cu o călătorie pitorească cu feribotul de la Lisabona la Cacilhas. Primul grup de atracții, explorat pe jos, include malul apei, Elevador și Jardim do Rio. După un prânz delicios în zona restaurantelor din Cacilhas, un autobuz vă duce la al doilea grup: impunătorul Cristo Rei. Admirați priveliștile de 360 de grade înainte de a lua un alt autobuz spre al treilea grup, Casa da Cerca, pentru o după-amiază de artă. Ziua se încheie acolo unde a început, cu o plimbare agale înapoi la terminalul de feribot din Cacilhas, cu mintea plină de imagini de pe malul celălalt al râului Tagus.",
+        "en": "Your day begins with a scenic ferry ride from Lisbon to Cacilhas. The first cluster, explored on foot, includes the waterfront, the Elevador, and Jardim do Rio. After a delicious lunch in Cacilhas's restaurant strip, a bus takes you to the second cluster: the towering Cristo Rei. Admire the 360-degree views before taking another bus to your third cluster, Casa da Cerca, for an afternoon of art. The day ends where it began, with a leisurely stroll back to the Cacilhas ferry terminal, your head full of sights from the other side of the Tagus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cervejaria Cabrinha",
+            "tip": "Ein lokaler Favorit in Cacilhas für Meeresfrüchte und Bier."
+          },
+          {
+            "name": "Restaurante Farol",
+            "tip": "Etwas abseits der Hauptstraße, bietet oft ein besseres Preis-Leistungs-Verhältnis."
+          },
+          {
+            "name": "Caldeirada de peixe",
+            "tip": "Ein herzhafter Fischeintopf, perfekt für ein sättigendes Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cervejaria Cabrinha",
+            "tip": "Helyi kedvenc Cacilhasban a tenger gyümölcseiért és a sörért."
+          },
+          {
+            "name": "Restaurante Farol",
+            "tip": "Kicsit távolabb a főutcától, gyakran jobb ár-érték arányt kínál."
+          },
+          {
+            "name": "Caldeirada de peixe",
+            "tip": "Kiadós halászlé, tökéletes egy laktató ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cervejaria Cabrinha",
+            "tip": "Un local favorit în Cacilhas pentru fructe de mare și bere."
+          },
+          {
+            "name": "Restaurante Farol",
+            "tip": "Puțin în afara drumului principal, oferă adesea o valoare mai bună."
+          },
+          {
+            "name": "Caldeirada de peixe",
+            "tip": "O tocană copioasă de pește, perfectă pentru un prânz sățios."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cervejaria Cabrinha",
+            "tip": "A local favorite in Cacilhas for seafood and beer."
+          },
+          {
+            "name": "Restaurante Farol",
+            "tip": "Slightly off the main strip, often offering better value."
+          },
+          {
+            "name": "Caldeirada de peixe",
+            "tip": "A hearty fish stew, perfect for a filling lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Die Gärten der Casa da Cerca",
+            "tip": "Finden Sie eine ruhige Ecke, um die Aussicht und die Pflanzen zu genießen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick von der Spitze des Cristo Rei",
+            "tip": "Über den Massen schwebend, ist es ein Moment der stillen Besinnung.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang entlang des Ginjal am späten Nachmittag",
+            "tip": "Wenn die Mittagspause vorbei ist, wird es ruhiger.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Casa da Cerca kertjei",
+            "tip": "Találjon egy csendes sarkot, ahol élvezheti a kilátást és a növényeket.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Cristo Rei tetejéről",
+            "tip": "A tömeg felett lebegve ez a csendes elmélkedés pillanata.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Késő délutáni séta a Ginjal mentén",
+            "tip": "Amikor az ebédidő tömege elvonul, csendesebbé válik.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile de la Casa da Cerca",
+            "tip": "Găsiți un colț liniștit pentru a vă bucura de priveliște și de plante.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Priveliștea din vârful Cristo Rei",
+            "tip": "Plutind deasupra mulțimilor, este un moment de reflecție tăcută.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare pe Ginjal după-amiaza târziu",
+            "tip": "Când aglomerația de la prânz se dispersează, devine mai liniștit.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "The gardens at Casa da Cerca",
+            "tip": "Find a quiet corner to enjoy the views and the plants.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the top of Cristo Rei",
+            "tip": "Floating above the crowds, it's a moment of quiet reflection.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Late afternoon walk along the Ginjal",
+            "tip": "It gets quieter once the lunchtime rush has dispersed.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirladen am Cristo Rei",
+            "tip": "Für religiöse Andenken und Postkarten."
+          },
+          {
+            "name": "Lokale Läden in Almada Velha",
+            "tip": "Stöbern Sie in den kleinen Geschäften rund um die Hauptplätze."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándékbolt a Cristo Rei-nél",
+            "tip": "Vallási emléktárgyakért és képeslapokért."
+          },
+          {
+            "name": "Helyi boltok Almada Velha-ban",
+            "tip": "Böngésszen a főterek körüli kis üzletekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri la Cristo Rei",
+            "tip": "Pentru amintiri religioase și cărți poștale."
+          },
+          {
+            "name": "Magazine locale în Almada Velha",
+            "tip": "Răsfoiți micile magazine din jurul piețelor principale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gift shop at Cristo Rei",
+            "tip": "For religious mementos and postcards."
+          },
+          {
+            "name": "Local shops in Almada Velha",
+            "tip": "Browse the small shops around the main squares."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine 'Zapping'-Karte für die öffentlichen Verkehrsmittel in Lissabon, die auch auf den Fähren und Bussen in Almada gültig ist.",
+          "Überprüfen Sie den Busfahrplan im Voraus, da die Busse möglicherweise nicht so häufig fahren wie in Lissabon.",
+          "Die Fähre ist die schnellste und schönste Art, den Fluss zu überqueren.",
+          "Seien Sie auf einige Wartezeiten bei den Bushaltestellen vorbereitet."
+        ],
+        "hu": [
+          "Vásároljon egy 'Zapping' kártyát a lisszaboni tömegközlekedéshez, amely érvényes az almadai kompokon és buszokon is.",
+          "Ellenőrizze előre a buszmenetrendet, mivel a buszok nem feltétlenül közlekednek olyan gyakran, mint Lisszabonban.",
+          "A komp a leggyorsabb és legszebb módja a folyón való átkelésnek.",
+          "Készüljön fel némi várakozásra a buszmegállókban."
+        ],
+        "ro": [
+          "Cumpărați un card 'Zapping' pentru transportul public din Lisabona, care este valabil și pe feriboturile și autobuzele din Almada.",
+          "Verificați programul autobuzelor în avans, deoarece s-ar putea să nu fie la fel de frecvente ca în Lisabona.",
+          "Feribotul este cel mai rapid și mai pitoresc mod de a traversa râul.",
+          "Fiți pregătiți pentru unele așteptări la stațiile de autobuz."
+        ],
+        "en": [
+          "Buy a 'Zapping' card for public transport in Lisbon, which is valid on the ferries and buses in Almada.",
+          "Check the bus schedule in advance, as services may not be as frequent as in Lisbon.",
+          "The ferry is the quickest and most scenic way to cross the river.",
+          "Be prepared for some waiting at bus stops."
+        ]
+      }
+    }
+  }
+}

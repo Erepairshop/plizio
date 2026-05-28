@@ -1,0 +1,1468 @@
+{
+  "city_id": "uk-canterbury-cities-v2",
+  "anchor": {
+    "name": "Canterbury",
+    "coords": [
+      1.0789,
+      51.2802
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Westgate-Türme",
+            "hu": "Westgate-tornyok",
+            "ro": "Turnurile Westgate",
+            "en": "Westgate Towers"
+          },
+          "coords": [
+            1.0725,
+            51.2815
+          ],
+          "category": "towers",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Spitze für einen tollen Blick auf die Stadt und die Kathedrale.",
+            "hu": "Másszon fel a tetejére, ahonnan remek kilátás nyílik a városra és a katedrálisra.",
+            "ro": "Urcați în vârf pentru o priveliște minunată asupra orașului și a catedralei.",
+            "en": "Climb to the top for a great view of the city and cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Weberhaus",
+            "hu": "Régi Szövőház",
+            "ro": "Casa Veche a Țesătorilor",
+            "en": "Old Weaver's House"
+          },
+          "coords": [
+            1.0781,
+            51.2795
+          ],
+          "category": "historical",
+          "arrive_at": "10:02",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Perfekter Fotospot am Fluss Stour. Einige der besten Pubs der Stadt sind in der Nähe.",
+            "hu": "Tökéletes fotóhely a Stour folyó mellett. A közelben található a város néhány legjobb pubja.",
+            "ro": "Loc perfect pentru fotografii lângă râul Stour. Unele dintre cele mai bune pub-uri din oraș sunt în apropiere.",
+            "en": "Perfect photo spot by the River Stour. Some of the city's best pubs are nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Beaney House of Art & Knowledge",
+            "hu": "Beaney Művészeti és Tudás Háza",
+            "ro": "Casa de Artă și Cunoaștere Beaney",
+            "en": "Beaney House of Art & Knowledge"
+          },
+          "coords": [
+            1.079,
+            51.279
+          ],
+          "category": "museums",
+          "arrive_at": "10:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der Eintritt ist frei. Eine vielseitige Mischung aus Kunst, Geschichte und Büchern.",
+            "hu": "A belépés ingyenes. A művészet, a történelem és a könyvek eklektikus keveréke.",
+            "ro": "Intrarea este gratuită. Un amestec eclectic de artă, istorie și cărți.",
+            "en": "Admission is free. An eclectic mix of art, history, and books."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Canterbury",
+            "hu": "Canterburyi katedrális",
+            "ro": "Catedrala Canterbury",
+            "en": "Canterbury Cathedral"
+          },
+          "coords": [
+            1.0789,
+            51.2802
+          ],
+          "category": "cathedrals",
+          "arrive_at": "11:37",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Buchen Sie Tickets online, um Warteschlangen zu vermeiden. Verpassen Sie nicht die Krypta.",
+            "hu": "Foglaljon jegyet online a sorban állás elkerülése érdekében. Ne hagyja ki a kriptát!",
+            "ro": "Rezervați biletele online pentru a evita cozile. Nu ratați cripta.",
+            "en": "Book tickets online to avoid queues. Don't miss the crypt."
+          }
+        },
+        {
+          "name": {
+            "de": "Abtei St. Augustin",
+            "hu": "Szent Ágoston-apátság",
+            "ro": "Abația Sf. Augustin",
+            "en": "St. Augustine's Abbey"
+          },
+          "coords": [
+            1.085,
+            51.279
+          ],
+          "category": "historical",
+          "arrive_at": "13:19",
+          "stay_min": 70,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Teil des UNESCO-Weltkulturerbes. Nutzen Sie den Audioguide, um die Ruinen zum Leben zu erwecken.",
+            "hu": "Az UNESCO Világörökség része. Használja az audio guide-ot, hogy életre keltse a romokat.",
+            "ro": "Parte a Patrimoniului Mondial UNESCO. Folosiți ghidul audio pentru a da viață ruinelor.",
+            "en": "Part of the UNESCO World Heritage site. Use the audio guide to bring the ruins to life."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Martin",
+            "hu": "Szent Márton-templom",
+            "ro": "Biserica Sf. Martin",
+            "en": "St. Martin's Church"
+          },
+          "coords": [
+            1.091,
+            51.2795
+          ],
+          "category": "churches",
+          "arrive_at": "14:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Die älteste Pfarrkirche im englischsprachigen Raum, die noch in Gebrauch ist. Ein Ort von großer Ruhe.",
+            "hu": "A legrégebbi, ma is használatban lévő plébániatemplom az angol nyelvű világban. A nyugalom szigete.",
+            "ro": "Cea mai veche biserică parohială în uz continuu din lumea vorbitoare de limbă engleză. Un loc de o mare liniște.",
+            "en": "The oldest parish church in continuous use in the English-speaking world. A place of great tranquility."
+          }
+        },
+        {
+          "name": {
+            "de": "Dane John Gärten",
+            "hu": "Dane John kertek",
+            "ro": "Grădinile Dane John",
+            "en": "Dane John Gardens"
+          },
+          "coords": [
+            1.078,
+            51.275
+          ],
+          "category": "parks",
+          "arrive_at": "15:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie zum Hügel für eine schöne Aussicht und entspannen Sie sich in diesem friedlichen Park im Stadtzentrum.",
+            "hu": "Sétáljon fel a dombra a szép kilátásért, és pihenjen ebben a békés belvárosi parkban.",
+            "ro": "Urcați pe movilă pentru o priveliște frumoasă și relaxați-vă în acest parc liniștit din centrul orașului.",
+            "en": "Walk up to the mound for a lovely view and relax in this peaceful city-centre park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang beginnt an den imposanten Westgate Towers, dem mittelalterlichen Tor zur Stadt. Am Morgen erkunden Sie die charmanten Straßen entlang des Flusses Stour und das künstlerische Beaney House. Der Mittag ist der prächtigen Kathedrale von Canterbury gewidmet, einem Meisterwerk der Gotik und dem Herzen des englischen Christentums. Am Nachmittag tauchen Sie tiefer in die Geschichte ein und besuchen die ruhigen Ruinen der Abtei St. Augustin und die uralte St. Martin's Church. Der Tag endet mit einem entspannten Spaziergang in den Dane John Gardens, wo Sie vom Hügel aus die Aussicht genießen können.",
+        "hu": "Sétája a lenyűgöző Westgate-tornyoknál, a város középkori kapujánál kezdődik. A délelőtt folyamán felfedezheti a Stour folyó menti bájos utcákat és a művészi Beaney Házat. Az ebédidő a csodálatos Canterburyi katedrálisnak van szentelve, amely a gótikus építészet remekműve és az angol kereszténység szíve. Délután mélyebbre merül a történelemben a Szent Ágoston-apátság békés romjainál és az ősi Szent Márton-templomnál. A nap a Dane John kertekben tett pihentető sétával zárul, ahol a dombtetőről élvezheti a kilátást.",
+        "ro": "Plimbarea dumneavoastră începe la impunătoarele Turnuri Westgate, poarta medievală a orașului. Dimineața explorați străzile fermecătoare de-a lungul râului Stour și artistica Casă Beaney. Miezul zilei este dedicat magnificei Catedrale Canterbury, o capodoperă a arhitecturii gotice și inima creștinismului englez. După-amiaza, pătrundeți mai adânc în istorie la ruinele liniștite ale Abației Sf. Augustin și la vechea Biserică Sf. Martin. Ziua se încheie cu o plimbare relaxantă în Grădinile Dane John, bucurându-vă de priveliștea de pe movilă.",
+        "en": "Your walking tour begins at the imposing Westgate Towers, the city's medieval gateway. In the morning, you'll explore the charming streets along the River Stour and the artistic Beaney House. Midday is devoted to the magnificent Canterbury Cathedral, a masterpiece of Gothic architecture and the heart of English Christianity. In the afternoon, delve deeper into history at the tranquil ruins of St. Augustine's Abbey and the ancient St. Martin's Church. The day concludes with a relaxing stroll in the Dane John Gardens, enjoying the view from the mound."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kentish Ale in einem traditionellen Pub",
+            "tip": "Probieren Sie ein lokales Bier in einem historischen Pub wie The Parrot oder The Old Buttermarket."
+          },
+          {
+            "name": "Nachmittagstee",
+            "tip": "Genießen Sie Scones mit Clotted Cream und Marmelade in einem der vielen gemütlichen Teestuben."
+          },
+          {
+            "name": "Canterbury Tart",
+            "tip": "Eine lokale Spezialität, ein mit Äpfeln gefüllter und mit einer Zitronenglasur überzogener Kuchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kentish Ale egy hagyományos pubban",
+            "tip": "Kóstoljon meg egy helyi sört egy történelmi pubban, mint a The Parrot vagy a The Old Buttermarket."
+          },
+          {
+            "name": "Délutáni tea",
+            "tip": "Élvezze a pogácsát tejszínnel és lekvárral a sok hangulatos teázó egyikében."
+          },
+          {
+            "name": "Canterbury pite",
+            "tip": "Helyi specialitás, egy almával töltött és citrommázzal bevont sütemény."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bere Kentish într-un pub tradițional",
+            "tip": "Încercați o halbă de bere locală la un pub istoric precum The Parrot sau The Old Buttermarket."
+          },
+          {
+            "name": "Ceaiul de după-amiază",
+            "tip": "Savurați scones cu frișcă bătută și gem la una dintre numeroasele ceainării confortabile."
+          },
+          {
+            "name": "Tarta Canterbury",
+            "tip": "O specialitate locală, o tartă umplută cu mere și acoperită cu o glazură de lămâie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kentish Ale in a Traditional Pub",
+            "tip": "Try a pint of local ale at a historic pub like The Parrot or The Old Buttermarket."
+          },
+          {
+            "name": "Afternoon Tea",
+            "tip": "Indulge in scones with clotted cream and jam at one of the many cosy tea rooms."
+          },
+          {
+            "name": "Canterbury Tart",
+            "tip": "A local speciality, a tart filled with apples and topped with a lemon glaze."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Fluss Stour",
+            "tip": "Folgen Sie dem Pfad entlang des Flusses für eine friedliche Flucht aus den belebten Straßen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Greyfriars Chapel and Gardens",
+            "tip": "Ein verstecktes Juwel, eine winzige Kapelle, die über dem Fluss gebaut wurde, umgeben von einem ruhigen Garten.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Die Precincts der Kathedrale",
+            "tip": "Auch wenn Sie nicht hineingehen, ist das Umherwandern auf dem Gelände friedlich und bietet atemberaubende Ausblicke.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Stour folyó mentén",
+            "tip": "Kövesse a folyó menti ösvényt, hogy békésen elmeneküljön a nyüzsgő utcák elől.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Greyfriars-kápolna és kertek",
+            "tip": "Egy rejtett gyöngyszem, egy apró kápolna a folyó fölé építve, amelyet egy csendes kert vesz körül.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A katedrális körzete",
+            "tip": "Még ha nem is megy be, a területen való séta békés és lenyűgöző kilátást nyújt.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului Stour",
+            "tip": "Urmați poteca de-a lungul râului pentru o evadare liniștită din agitația străzilor.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Capela și Grădinile Greyfriars",
+            "tip": "O bijuterie ascunsă, o capelă minusculă construită peste râu, înconjurată de o grădină liniștită.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Incinta Catedralei",
+            "tip": "Chiar dacă nu intrați înăuntru, plimbarea prin incintă este liniștită și oferă vederi uimitoare.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "River Stour Walk",
+            "tip": "Follow the path along the river for a peaceful escape from the busy streets.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Greyfriars Chapel and Gardens",
+            "tip": "A hidden gem, a tiny chapel built over the river surrounded by a quiet garden.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "The Cathedral Precincts",
+            "tip": "Even if you don't go inside, walking around the grounds is peaceful and offers stunning views.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "The King's Mile",
+            "tip": "Eine charmante Gegend mit unabhängigen Boutiquen, Kunstgalerien und Spezialitätengeschäften."
+          },
+          {
+            "name": "Kathedrale-Shop",
+            "tip": "Kaufen Sie einzigartige Geschenke, Bücher und Souvenirs im Zusammenhang mit der Kathedrale und ihrer Geschichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The King's Mile",
+            "tip": "Bájos környék független butikokkal, művészeti galériákkal és különleges boltokkal."
+          },
+          {
+            "name": "Katedrális ajándékbolt",
+            "tip": "Vásároljon egyedi ajándékokat, könyveket és szuveníreket a katedrálisról és annak történelméről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The King's Mile",
+            "tip": "O zonă fermecătoare de buticuri independente, galerii de artă și magazine de specialitate."
+          },
+          {
+            "name": "Magazinul Catedralei",
+            "tip": "Cumpărați cadouri unice, cărți și suveniruri legate de catedrală și de istoria sa."
+          }
+        ],
+        "en": [
+          {
+            "name": "The King's Mile",
+            "tip": "A charming area of independent boutiques, art galleries, and specialist shops."
+          },
+          {
+            "name": "Cathedral Shop",
+            "tip": "Shop for unique gifts, books, and souvenirs related to the cathedral and its history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel auf Kopfsteinpflaster laufen werden.",
+          "Canterbury ist sehr kompakt, so dass man sich leicht zu Fuß fortbewegen kann.",
+          "Buchen Sie Tickets für die Hauptattraktionen wie die Kathedrale und die Abtei im Voraus online, um Zeit zu sparen.",
+          "Prüfen Sie die Öffnungszeiten, da einige historische Stätten, insbesondere die Kirchen, eingeschränkte Öffnungszeiten haben können."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog macskaköves utcákon sétálni.",
+          "Canterbury nagyon kompakt, így gyalogosan könnyen bejárható.",
+          "Foglaljon jegyet online a főbb látnivalókhoz, mint a katedrális és az apátság, hogy időt takarítson meg.",
+          "Ellenőrizze a nyitvatartási időket, mivel néhány történelmi helyszín, különösen a templomok, korlátozott nyitvatartással rendelkezhetnek."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe străzi pietruite.",
+          "Canterbury este foarte compact, ceea ce îl face ușor de explorat pe jos.",
+          "Rezervați biletele online în avans pentru atracțiile principale, cum ar fi Catedrala și Abația, pentru a economisi timp.",
+          "Verificați orele de deschidere, deoarece unele situri istorice, în special bisericile, pot avea program limitat."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking on cobbled streets.",
+          "Canterbury is very compact, making it easy to get around on foot.",
+          "Book tickets online in advance for major attractions like the Cathedral and Abbey to save time.",
+          "Check opening times, as some historic sites, especially the churches, can have limited hours."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 7.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Westgate-Türme",
+            "hu": "Westgate-tornyok",
+            "ro": "Turnurile Westgate",
+            "en": "Westgate Towers"
+          },
+          "coords": [
+            1.0725,
+            51.2815
+          ],
+          "category": "towers",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein guter Ausgangspunkt mit Fahrradständern in der Nähe. Schließen Sie Ihr Fahrrad gut an.",
+            "hu": "Jó kiindulópont, a közelben kerékpártárolókkal. Zárja le jól a kerékpárját.",
+            "ro": "Un punct de plecare bun, cu parcări pentru biciclete în apropiere. Asigurați-vă bine bicicleta.",
+            "en": "A good starting point with bike racks nearby. Lock your bike securely."
+          }
+        },
+        {
+          "name": {
+            "de": "Greyfriars Chapel",
+            "hu": "Greyfriars-kápolna",
+            "ro": "Capela Greyfriars",
+            "en": "Greyfriars Chapel"
+          },
+          "coords": [
+            1.076,
+            51.278
+          ],
+          "category": "churches",
+          "arrive_at": "09:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp. Der Garten ist ein ruhiger Ort für eine kleine Pause.",
+            "hu": "Egy gyors megálló. A kert csendes hely egy rövid szünetre.",
+            "ro": "O oprire scurtă. Grădina este un loc liniștit pentru o pauză rapidă.",
+            "en": "A quick stop. The garden is a quiet place for a short break."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Museum Canterbury",
+            "hu": "Canterbury Római Múzeum",
+            "ro": "Muzeul Roman din Canterbury",
+            "en": "Canterbury Roman Museum"
+          },
+          "coords": [
+            1.0795,
+            51.2785
+          ],
+          "category": "museums",
+          "arrive_at": "10:13",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Unterirdisches Museum, das die römischen Fundamente der Stadt zeigt. Faszinierend und kühl an einem heißen Tag.",
+            "hu": "Földalatti múzeum, amely a város római kori alapjait mutatja be. Lenyűgöző és hűvös egy forró napon.",
+            "ro": "Muzeu subteran care prezintă fundațiile romane ale orașului. Fascinant și răcoros într-o zi călduroasă.",
+            "en": "Underground museum showcasing the city's Roman foundations. Fascinating and cool on a hot day."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Canterbury",
+            "hu": "Canterburyi katedrális",
+            "ro": "Catedrala Canterbury",
+            "en": "Canterbury Cathedral"
+          },
+          "coords": [
+            1.0789,
+            51.2802
+          ],
+          "category": "cathedrals",
+          "arrive_at": "11:16",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Fahrräder sind auf dem Gelände nicht erlaubt, aber es gibt Abstellmöglichkeiten in der Nähe des Eingangs.",
+            "hu": "A kerékpárok nem megengedettek a területen, de a bejárat közelében vannak tárolók.",
+            "ro": "Bicicletele nu sunt permise în incintă, dar există locuri de parcare în apropierea intrării.",
+            "en": "Bikes aren't allowed inside the grounds, but there are racks near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Abtei St. Augustin",
+            "hu": "Szent Ágoston-apátság",
+            "ro": "Abația Sf. Augustin",
+            "en": "St. Augustine's Abbey"
+          },
+          "coords": [
+            1.085,
+            51.279
+          ],
+          "category": "historical",
+          "arrive_at": "12:52",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein einfacher und flacher Radweg von der Kathedrale aus. Schließen Sie Ihr Fahrrad am Eingang an.",
+            "hu": "Könnyű, sík kerékpárút a katedrálistól. Zárja le a kerékpárt a bejáratnál.",
+            "ro": "O plimbare ușoară și plată cu bicicleta de la catedrală. Legați-vă bicicleta la intrare.",
+            "en": "An easy and flat ride from the cathedral. Lock your bike at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Martin",
+            "hu": "Szent Márton-templom",
+            "ro": "Biserica Sf. Martin",
+            "en": "St. Martin's Church"
+          },
+          "coords": [
+            1.091,
+            51.2795
+          ],
+          "category": "churches",
+          "arrive_at": "13:57",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der Höhepunkt der UNESCO-Stätte. Eine kurze, aber lohnende Fahrt bergauf.",
+            "hu": "Az UNESCO helyszín csúcspontja. Rövid, de megéri az emelkedőt.",
+            "ro": "Punctul culminant al sitului UNESCO. O plimbare scurtă, dar plină de satisfacții, în pantă.",
+            "en": "The culmination of the UNESCO site. A short but rewarding uphill ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Great Stour Way",
+            "hu": "Great Stour Way (sétány)",
+            "ro": "Great Stour Way",
+            "en": "Great Stour Way"
+          },
+          "coords": [
+            1.06,
+            51.27
+          ],
+          "category": "parks",
+          "arrive_at": "14:51",
+          "stay_min": 114,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.1,
+          "tip_5lang": {
+            "de": "Ein schöner Radweg entlang des Flusses, perfekt für eine entspannte Fahrt am Nachmittag.",
+            "hu": "Egy szép kerékpárút a folyó mentén, tökéletes egy pihentető délutáni tekeréshez.",
+            "ro": "O pistă de biciclete frumoasă de-a lungul râului, perfectă pentru o plimbare relaxantă după-amiaza.",
+            "en": "A lovely cycle path along the river, perfect for a relaxing afternoon ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag an den historischen Westgate Towers. Am Vormittag fahren Sie am Fluss entlang zur ruhigen Greyfriars Chapel, bevor Sie im Römischen Museum in die Vergangenheit eintauchen. Das Herzstück Ihrer Tour ist die prächtige Kathedrale von Canterbury, ein Muss. Nach dem Mittagessen führt Sie eine kurze Fahrt zur UNESCO-Stätte der Abtei St. Augustin und der alten St. Martin's Church. Der Nachmittag ist für eine friedliche Fahrt auf dem Great Stour Way reserviert, bei der Sie die Landschaft und die frische Luft genießen.",
+        "hu": "Kezdje kerékpáros napját a történelmi Westgate-tornyoknál. A délelőtt folyamán a folyó mentén tekerhet a békés Greyfriars-kápolnához, mielőtt elmerülne a múltban a Római Múzeumban. Túrájának központi eleme a csodálatos Canterburyi katedrális, amelyet kötelező megnézni. Ebéd után egy rövid tekerés vezet az UNESCO Világörökség részét képező Szent Ágoston-apátsághoz és az ősi Szent Márton-templomhoz. A délutánt egy békés kerékpározásra tartogattuk a Great Stour Way mentén, élvezve a tájat és a friss levegőt.",
+        "ro": "Începeți ziua de ciclism la istoricele Turnuri Westgate. Dimineața, pedalați de-a lungul râului până la liniștita Capelă Greyfriars înainte de a vă adânci în trecut la Muzeul Roman. Piesa centrală a turului dumneavoastră este magnifica Catedrală Canterbury, o vizită obligatorie. După prânz, o scurtă plimbare cu bicicleta vă duce la situl UNESCO al Abației Sf. Augustin și la vechea Biserică Sf. Martin. După-amiaza este rezervată unei plimbări liniștite pe Great Stour Way, bucurându-vă de peisaj și de aerul curat.",
+        "en": "Start your cycling day at the historic Westgate Towers. In the morning, you'll pedal along the river to the tranquil Greyfriars Chapel before delving into the past at the Roman Museum. The centrepiece of your tour is the magnificent Canterbury Cathedral, a must-see. After lunch, a short ride takes you to the UNESCO site of St. Augustine's Abbey and the ancient St. Martin's Church. The afternoon is reserved for a peaceful ride along the Great Stour Way, enjoying the scenery and fresh air."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Picknick im Park",
+            "tip": "Holen Sie sich lokale Produkte vom The Goods Shed und machen Sie ein Picknick in den Westgate Gardens."
+          },
+          {
+            "name": "Gypsy Tart",
+            "tip": "Eine extrem süße kentische Spezialität, die Sie nach einer Radtour mit Energie versorgt."
+          },
+          {
+            "name": "Cidre aus Kent",
+            "tip": "Probieren Sie einen erfrischenden lokalen Apfelwein, besonders an einem warmen Tag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piknik a parkban",
+            "tip": "Vegyen helyi termékeket a The Goods Shed piacról, és piknikezzen a Westgate Gardensben."
+          },
+          {
+            "name": "Gypsy pite",
+            "tip": "Egy rendkívül édes kenti specialitás, amely energiát ad egy kerékpártúra után."
+          },
+          {
+            "name": "Kenti almabor",
+            "tip": "Kóstoljon meg egy frissítő helyi almabort, különösen egy meleg napon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Picnic în parc",
+            "tip": "Luați produse locale de la The Goods Shed și bucurați-vă de un picnic în Westgate Gardens."
+          },
+          {
+            "name": "Tarta Gypsy",
+            "tip": "O specialitate din Kent extrem de dulce, care vă va energiza după o plimbare cu bicicleta."
+          },
+          {
+            "name": "Cidru de Kent",
+            "tip": "Încercați un cidru local răcoritor, mai ales într-o zi caldă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Park Picnic",
+            "tip": "Grab some local produce from The Goods Shed market and have a picnic in Westgate Gardens."
+          },
+          {
+            "name": "Gypsy Tart",
+            "tip": "An intensely sweet Kentish speciality that will give you an energy boost after a cycle."
+          },
+          {
+            "name": "Kentish Cider",
+            "tip": "Try a refreshing local cider, especially on a warm day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Westgate Gardens",
+            "tip": "Ein wunderschöner formeller Garten, perfekt für eine Pause. Suchen Sie nach dem berühmten Punting am Fluss.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Toddler's Cove",
+            "tip": "Ein Spielplatz und offener Bereich entlang des Great Stour Way, gut für eine Familienpause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Der Weg nach St. Martin's",
+            "tip": "Die Straßen werden ruhiger, wenn Sie sich der ältesten Kirche nähern, mit schönen Häusern entlang des Weges.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Westgate Gardens",
+            "tip": "Egy gyönyörű, formális kert, tökéletes egy pihenőre. Keresse a híres csónakázást a folyón.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Toddler's Cove",
+            "tip": "Játszótér és nyílt terület a Great Stour Way mentén, jó egy családi pihenőre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Szent Márton-templomhoz vezető út",
+            "tip": "Az utcák csendesebbé válnak, ahogy közeledik a legrégebbi templomhoz, útközben gyönyörű házakkal.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Westgate",
+            "tip": "O grădină formală frumoasă, perfectă pentru o pauză. Fiți atenți la faimoasele plimbări cu barca pe râu.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Toddler's Cove",
+            "tip": "Un loc de joacă și o zonă deschisă de-a lungul Great Stour Way, potrivită pentru o pauză în familie.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Calea către Sf. Martin",
+            "tip": "Străzile devin mai liniștite pe măsură ce vă apropiați de cea mai veche biserică, cu case frumoase pe drum.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Westgate Gardens",
+            "tip": "A beautiful formal garden perfect for a break. Look out for the famous punting on the river.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Toddler's Cove",
+            "tip": "A playground and open area along the Great Stour Way, good for a family break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "The path to St. Martin's",
+            "tip": "The streets get quieter as you approach the oldest church, with beautiful houses along the way.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Canterbury hat mehrere gute Fahrradgeschäfte für Zubehör oder schnelle Reparaturen."
+          },
+          {
+            "name": "The Goods Shed",
+            "tip": "Ein Bauernmarkt neben dem Bahnhof Canterbury West, ideal für lokale Leckereien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Canterburyben több jó kerékpárbolt is található kiegészítőkért vagy gyors javításokért."
+          },
+          {
+            "name": "The Goods Shed",
+            "tip": "Termelői piac a Canterbury West állomás mellett, ideális helyi finomságok beszerzésére."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Canterbury are mai multe magazine bune de biciclete pentru accesorii sau reparații rapide."
+          },
+          {
+            "name": "The Goods Shed",
+            "tip": "O piață agricolă lângă gara Canterbury West, excelentă pentru delicatese locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cycle Shops",
+            "tip": "Canterbury has several good cycle shops for any accessories or quick repairs."
+          },
+          {
+            "name": "The Goods Shed",
+            "tip": "A farmers' market next to Canterbury West station, great for local treats."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Viele der zentralen Straßen sind für den Verkehr gesperrt, aber achten Sie auf Fußgänger.",
+          "Schließen Sie Ihr Fahrrad immer ab, auch wenn Sie es nur für ein paar Minuten abstellen.",
+          "Folgen Sie den nationalen Radrouten 1 und 18, die durch die Stadt und die Umgebung führen.",
+          "Das Gelände ist größtenteils flach, aber es gibt einige sanfte Hügel außerhalb des Zentrums."
+        ],
+        "hu": [
+          "Sok központi utca le van zárva a forgalom elől, de figyeljen a gyalogosokra.",
+          "Mindig zárja le a kerékpárját, még akkor is, ha csak néhány percre hagyja ott.",
+          "Kövesse az 1-es és 18-as nemzeti kerékpárútvonalakat, amelyek áthaladnak a városon és a környéken.",
+          "A terep többnyire sík, de a központon kívül vannak enyhe emelkedők."
+        ],
+        "ro": [
+          "Multe dintre străzile centrale sunt pietonale, dar fiți atenți la pietoni.",
+          "Legați-vă întotdeauna bicicleta, chiar dacă o lăsați doar pentru câteva minute.",
+          "Urmați Rutele Naționale de Ciclism 1 și 18, care trec prin oraș și zona înconjurătoare.",
+          "Terenul este în mare parte plat, dar există câteva dealuri domoale în afara centrului."
+        ],
+        "en": [
+          "Many of the central streets are pedestrianised, but be mindful of pedestrians.",
+          "Always lock your bike, even if leaving it for just a few minutes.",
+          "Follow National Cycle Routes 1 and 18 which pass through the city and surrounding area.",
+          "The terrain is mostly flat, but there are some gentle hills outside the centre."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkhaus Dane John",
+            "hu": "Dane John parkolóház",
+            "ro": "Parcare auto Dane John",
+            "en": "Dane John Car Park"
+          },
+          "coords": [
+            1.0785,
+            51.2745
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Tag. Es ist zentral und ermöglicht einen einfachen Zugang zum ersten Cluster von Sehenswürdigkeiten.",
+            "hu": "Parkoljon itt a napra. Központi helyen van, és könnyű hozzáférést biztosít az első látnivalócsoporthoz.",
+            "ro": "Parcați aici pentru o zi. Este central și permite accesul ușor la primul grup de atracții.",
+            "en": "Park here for the day. It's central and allows easy access to the first cluster of sights."
+          }
+        },
+        {
+          "name": {
+            "de": "Dane John Gärten",
+            "hu": "Dane John kertek",
+            "ro": "Grădinile Dane John",
+            "en": "Dane John Gardens"
+          },
+          "coords": [
+            1.078,
+            51.275
+          ],
+          "category": "parks",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einem Spaziergang zum Hügel für einen Panoramablick auf die Stadt.",
+            "hu": "Kezdje a napot egy sétával a dombra, ahonnan panorámás kilátás nyílik a városra.",
+            "ro": "Începeți ziua cu o plimbare până la movilă pentru o vedere panoramică a orașului.",
+            "en": "Start your day with a walk up to the mound for a panoramic city view."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Römisches Museum Canterbury",
+            "hu": "Canterbury Római Múzeum",
+            "ro": "Muzeul Roman din Canterbury",
+            "en": "Canterbury Roman Museum"
+          },
+          "coords": [
+            1.0795,
+            51.2785
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein einfacher Spaziergang vom Park aus. Entdecken Sie die römische Vergangenheit der Stadt, die unter Ihren Füßen liegt.",
+            "hu": "Könnyű séta a parktól. Fedezze fel a város római kori múltját a lábai alatt.",
+            "ro": "O plimbare ușoară din parc. Descoperiți trecutul roman al orașului de sub picioarele voastre.",
+            "en": "An easy walk from the park. Discover the city's Roman past beneath your feet."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Canterbury",
+            "hu": "Canterburyi katedrális",
+            "ro": "Catedrala Canterbury",
+            "en": "Canterbury Cathedral"
+          },
+          "coords": [
+            1.0789,
+            51.2802
+          ],
+          "category": "cathedrals",
+          "arrive_at": "11:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der Höhepunkt des Tages. Nehmen Sie sich Zeit, die Architektur, die Geschichte und die Glasfenster zu bewundern.",
+            "hu": "A nap fénypontja. Szánjon időt az építészet, a történelem és az ólomüveg ablakok megcsodálására.",
+            "ro": "Punctul culminant al zilei. Luați-vă timp să admirați arhitectura, istoria și vitraliile.",
+            "en": "The highlight of the day. Take your time to admire the architecture, history, and stained glass."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Parkplatz an der Longport Road",
+            "hu": "Longport Road parkoló",
+            "ro": "Parcare Longport",
+            "en": "Longport Car Park"
+          },
+          "coords": [
+            1.087,
+            51.28
+          ],
+          "category": "transport",
+          "arrive_at": "13:55",
+          "stay_min": 0,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Fahren und parken Sie hier für das zweite Cluster. Es liegt zwischen der Abtei und der Kirche.",
+            "hu": "Vezessen és parkoljon itt a második csoporthoz. Az apátság és a templom között található.",
+            "ro": "Conduceți și parcați aici pentru al doilea grup. Este situat între abație și biserică.",
+            "en": "Drive and park here for the second cluster. It's located between the Abbey and the Church."
+          },
+          "hop_mode": "car"
+        },
+        {
+          "name": {
+            "de": "Abtei St. Augustin und Kirche St. Martin",
+            "hu": "Szent Ágoston-apátság és Szent Márton-templom",
+            "ro": "Abația Sf. Augustin și Biserica Sf. Martin",
+            "en": "St. Augustine's Abbey & St. Martin's Church"
+          },
+          "coords": [
+            1.088,
+            51.2792
+          ],
+          "category": "historical",
+          "arrive_at": "14:00",
+          "stay_min": 165,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese beiden Teile des UNESCO-Weltkulturerbes zu Fuß vom Parkplatz aus. Beginnen Sie mit der Abtei.",
+            "hu": "Fedezze fel ezt a két UNESCO Világörökségi helyszínt gyalog a parkolóból. Kezdje az apátsággal.",
+            "ro": "Explorați aceste două părți ale sitului Patrimoniului Mondial UNESCO pe jos de la parcare. Începeți cu Abația.",
+            "en": "Explore these two parts of the UNESCO World Heritage site on foot from the car park. Start with the Abbey."
+          },
+          "hop_mode": "walk"
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag ist in zwei leicht begehbare Cluster unterteilt. Beginnen Sie mit dem Parken in der Nähe der Dane John Gardens. Der Vormittag ist der Erkundung des südlichen Teils des Stadtzentrums gewidmet, vom Panoramablick in den Gärten über die römischen Überreste bis hin zum spirituellen Herzen der prächtigen Kathedrale. Nach dem Mittagessen fahren Sie eine kurze Strecke zu einem anderen Parkplatz, von dem aus Sie das UNESCO-Weltkulturerbe der Abtei St. Augustin und der ältesten Kirche Englands, St. Martin's, bequem zu Fuß erreichen können. Diese Strategie minimiert das Fahren und maximiert das Eintauchen in die Geschichte.",
+        "hu": "Autós napja két könnyen bejárható részre oszlik. Kezdje a parkolással a Dane John kertek közelében. A délelőtt a városközpont déli részének felfedezésével telik, a kertek panorámájától a római kori maradványokon át a csodálatos katedrális spirituális szívéig. Ebéd után egy rövid autóút egy másik parkolóhoz vezet, amely gyalogosan is könnyen megközelíthetővé teszi a Szent Ágoston-apátság és Anglia legrégebbi temploma, a Szent Márton-templom UNESCO Világörökségi helyszínét. Ez a stratégia minimalizálja a vezetést és maximalizálja a történelmi elmélyülést.",
+        "ro": "Ziua dumneavoastră cu mașina este concepută în două grupuri ușor de parcurs pe jos. Începeți prin a parca lângă Grădinile Dane John. Dimineața este dedicată explorării părții de sud a centrului orașului, de la priveliștile panoramice din grădini, la vestigiile romane și la inima spirituală a magnificei Catedrale. După prânz, o scurtă călătorie cu mașina vă duce la o altă parcare, plasându-vă la o distanță de mers pe jos de situl Patrimoniului Mondial UNESCO al Abației Sf. Augustin și al celei mai vechi biserici din Anglia, Sf. Martin. Această strategie reduce la minimum condusul și maximizează imersiunea istorică.",
+        "en": "Your car-based day is designed in two easy walking clusters. Start by parking near Dane John Gardens. The morning is for exploring the southern part of the city centre, from the panoramic views in the gardens, to the Roman remains, and the spiritual heart at the magnificent Cathedral. After lunch, a short drive takes you to another car park, placing you within easy walking distance of the UNESCO World Heritage site of St. Augustine's Abbey and England's oldest church, St. Martin's. This strategy minimizes driving and maximizes historical immersion."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pub-Mittagessen",
+            "tip": "Genießen Sie ein herzhaftes Mittagessen in einem Pub in der Nähe der Kathedrale, bevor Sie zum nächsten Cluster fahren."
+          },
+          {
+            "name": "The Goods Shed",
+            "tip": "Ein Bauernmarkt und Restaurant neben dem Bahnhof Canterbury West. Fahren Sie am Ende des Tages dorthin, um lokale Produkte zu kaufen."
+          },
+          {
+            "name": "Fordwich Arms",
+            "tip": "Wenn Sie Zeit haben, fahren Sie in das nahe gelegene Dorf Fordwich zu diesem mit einem Michelin-Stern ausgezeichneten Pub am Flussufer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pub-ebéd",
+            "tip": "Élvezzen egy kiadós ebédet egy katedrális közeli pubban, mielőtt a következő helyszínre indul."
+          },
+          {
+            "name": "The Goods Shed",
+            "tip": "Termelői piac és étterem a Canterbury West állomás mellett. Menjen oda a nap végén helyi termékekért."
+          },
+          {
+            "name": "Fordwich Arms",
+            "tip": "Ha van ideje, vezessen el a közeli Fordwich faluba ehhez a Michelin-csillagos, folyóparti pubhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Prânz la pub",
+            "tip": "Bucurați-vă de un prânz consistent la un pub de lângă catedrală înainte de a vă deplasa la următorul grup."
+          },
+          {
+            "name": "The Goods Shed",
+            "tip": "O piață agricolă și un restaurant lângă gara Canterbury West. Conduceți acolo la sfârșitul zilei pentru produse locale."
+          },
+          {
+            "name": "Fordwich Arms",
+            "tip": "Dacă aveți timp, conduceți până în satul din apropiere, Fordwich, pentru acest pub cu stele Michelin de pe malul râului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pub Lunch",
+            "tip": "Enjoy a hearty lunch at a pub near the Cathedral before you drive to the next cluster."
+          },
+          {
+            "name": "The Goods Shed",
+            "tip": "A farmers' market and restaurant next to Canterbury West station. Drive there at the end of the day for local produce."
+          },
+          {
+            "name": "Fordwich Arms",
+            "tip": "If you have time, drive to the nearby village of Fordwich for this Michelin-starred pub on the riverside."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Dane John Mound",
+            "tip": "Der beste Aussichtspunkt, um sich zu orientieren und die Stadt von oben zu sehen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "St. Augustine's Abbey Grounds",
+            "tip": "Die Weite der Ruinen sorgt für ein Gefühl von Frieden und Raum, selbst wenn andere Besucher da sind.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Canterbury's Gassen",
+            "tip": "Schlendern Sie nach dem Parken durch die kleinen Gassen abseits der Hauptstraßen, um versteckte Ecken zu entdecken.",
+            "emoji": "🚶"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dane John domb",
+            "tip": "A legjobb kilátópont a tájékozódáshoz és a város felülről való megtekintéséhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Szent Ágoston-apátság területe",
+            "tip": "A romok hatalmas kiterjedése békét és teret ad, még akkor is, ha más látogatók is vannak.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Canterbury sikátorai",
+            "tip": "Parkolás után sétáljon a főutcákról leágazó kis sikátorokban, hogy rejtett zugokat fedezzen fel.",
+            "emoji": "🚶"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Movila Dane John",
+            "tip": "Cel mai bun punct de observație pentru a vă orienta și a vedea orașul de sus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Terenurile Abației Sf. Augustin",
+            "tip": "Întinderea vastă a ruinelor creează un sentiment de pace și spațiu, chiar și cu alți vizitatori în jur.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aleile din Canterbury",
+            "tip": "După ce parcați, plimbați-vă pe aleile mici de pe străzile principale pentru a descoperi colțuri ascunse.",
+            "emoji": "🚶"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dane John Mound",
+            "tip": "The best vantage point to get your bearings and see the city from above.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "St. Augustine's Abbey Grounds",
+            "tip": "The sheer scale of the ruins creates a sense of peace and space, even with other visitors around.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Canterbury's Lanes",
+            "tip": "After parking, wander the small lanes off the main high street to discover hidden corners.",
+            "emoji": "🚶"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Unabhängige Geschäfte",
+            "tip": "Die autofreien Hauptstraßen sind voller einzigartiger Geschäfte. Erkunden Sie sie zu Fuß vom Parkplatz aus."
+          },
+          {
+            "name": "Souvenirs des Weltkulturerbes",
+            "tip": "Sowohl die Kathedrale als auch die Abtei haben ausgezeichnete Geschäfte für hochwertige Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Független üzletek",
+            "tip": "A gyalogos főutcák tele vannak egyedi üzletekkel. Fedezze fel őket gyalog a parkolóból."
+          },
+          {
+            "name": "Világörökségi ajándéktárgyak",
+            "tip": "A katedrálisnak és az apátságnak is kiváló ajándékboltja van minőségi szuvenírekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine independente",
+            "tip": "Străzile principale pietonale sunt pline de magazine unice. Explorați-le pe jos de la parcare."
+          },
+          {
+            "name": "Suveniruri de la Patrimoniul Mondial",
+            "tip": "Atât Catedrala, cât și Abația au magazine excelente pentru suveniruri de calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Independent Shops",
+            "tip": "The pedestrianised high streets are full of unique shops. Explore them on foot from the car park."
+          },
+          {
+            "name": "World Heritage Souvenirs",
+            "tip": "Both the Cathedral and the Abbey have excellent shops for high-quality souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Park-and-Ride-Dienste sind eine hervorragende Alternative zum Fahren in die Innenstadt.",
+          "Parken in der Innenstadt kann teuer sein. Verwenden Sie eine Park-App, um Preise zu vergleichen und zu bezahlen.",
+          "Achten Sie auf die Beschilderung der 'Clean Air Zone', obwohl Privatwagen derzeit nicht betroffen sind.",
+          "Der Verkehr kann auf den Ringstraßen zu Stoßzeiten stark sein. Planen Sie zusätzliche Zeit für die Fahrt zwischen den Clustern ein."
+        ],
+        "hu": [
+          "A Park and Ride szolgáltatások kiváló alternatívát jelentenek a belvárosi vezetés helyett.",
+          "A belvárosi parkolás drága lehet. Használjon parkolási alkalmazást az árak összehasonlításához és a fizetéshez.",
+          "Legyen tisztában a 'Clean Air Zone' jelzésekkel, bár ez jelenleg nem érinti a személygépkocsikat.",
+          "A forgalom csúcsidőben nagy lehet a körgyűrűkön. Tervezzen extra időt a klaszterek közötti utazáshoz."
+        ],
+        "ro": [
+          "Serviciile Park and Ride sunt o alternativă excelentă la condusul în centrul orașului.",
+          "Parcarea în centrul orașului poate fi scumpă. Folosiți o aplicație de parcare pentru a compara prețurile și a plăti.",
+          "Fiți conștienți de semnalizarea 'Clean Air Zone', deși mașinile private nu sunt în prezent afectate.",
+          "Traficul poate fi aglomerat pe șoselele de centură la orele de vârf. Planificați timp suplimentar pentru a vă deplasa între grupuri."
+        ],
+        "en": [
+          "The Park and Ride services are an excellent alternative to driving into the city centre.",
+          "City centre parking can be expensive. Use a parking app to compare prices and pay.",
+          "Be aware of 'Clean Air Zone' signage, although private cars are not currently charged.",
+          "Traffic can be heavy on the ring roads at peak times. Allow extra time for driving between clusters."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Busbahnhof Canterbury",
+            "hu": "Canterbury buszpályaudvar",
+            "ro": "Stația de autobuz Canterbury",
+            "en": "Canterbury Bus Station"
+          },
+          "coords": [
+            1.082,
+            51.277
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier. Die meisten Buslinien der Stadt halten hier an, was es zu einem großartigen Ausgangspunkt macht.",
+            "hu": "Kezdje itt. A legtöbb városi buszjárat itt áll meg, így remek kiindulópont.",
+            "ro": "Începeți aici. Majoritatea serviciilor de autobuz din oraș opresc aici, făcându-l un punct de plecare excelent.",
+            "en": "Start here. Most city bus services stop here, making it a great hub to begin."
+          }
+        },
+        {
+          "name": {
+            "de": "Beaney House und Römisches Museum",
+            "hu": "Beaney Ház és Római Múzeum",
+            "ro": "Casa Beaney și Muzeul Roman",
+            "en": "Beaney House & Roman Museum"
+          },
+          "coords": [
+            1.0792,
+            51.2787
+          ],
+          "category": "museums",
+          "arrive_at": "09:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kombinieren Sie diese beiden Attraktionen, die nur einen kurzen Spaziergang vom Busbahnhof entfernt sind.",
+            "hu": "Kombinálja ezt a két látnivalót, amelyek rövid sétára vannak a buszpályaudvartól.",
+            "ro": "Combinați aceste două atracții, aflate la o scurtă plimbare de stația de autobuz.",
+            "en": "Combine these two attractions, which are a short walk from the bus station."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Canterbury",
+            "hu": "Canterburyi katedrális",
+            "ro": "Catedrala Canterbury",
+            "en": "Canterbury Cathedral"
+          },
+          "coords": [
+            1.0789,
+            51.2802
+          ],
+          "category": "cathedrals",
+          "arrive_at": "11:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom ersten Cluster aus, dies ist der Hauptfokus Ihres Vormittags.",
+            "hu": "Egy rövid séta az első csoporttól, ez a délelőtt fő fókusza.",
+            "ro": "La o scurtă plimbare de primul grup, acesta este principalul punct de atracție al dimineții.",
+            "en": "A short walk from the first cluster, this is the main focus of your morning."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Abtei St. Augustin",
+            "hu": "Szent Ágoston-apátság",
+            "ro": "Abația Sf. Augustin",
+            "en": "St. Augustine's Abbey"
+          },
+          "coords": [
+            1.085,
+            51.279
+          ],
+          "category": "historical",
+          "arrive_at": "13:10",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus (z.B. die Linien 8, 9 oder den UNI1) vom Busbahnhof zur Haltestelle der Abtei.",
+            "hu": "Menjen busszal (pl. 8, 9 vagy UNI1) a buszpályaudvarról az apátsági megállóig.",
+            "ro": "Luați un autobuz (cum ar fi 8, 9 sau UNI1) de la stația de autobuz până la stația de la abație.",
+            "en": "Take a bus (like the 8, 9, or UNI1) from the bus station to the Abbey stop."
+          },
+          "hop_mode": "transit"
+        },
+        {
+          "name": {
+            "de": "Kirche St. Martin",
+            "hu": "Szent Márton-templom",
+            "ro": "Biserica Sf. Martin",
+            "en": "St. Martin's Church"
+          },
+          "coords": [
+            1.091,
+            51.2795
+          ],
+          "category": "churches",
+          "arrive_at": "14:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein kurzer, aber steiler Spaziergang von der Abtei aus, der Sie zum Höhepunkt des UNESCO-Komplexes führt.",
+            "hu": "Egy rövid, de meredek séta az apátságtól, amely az UNESCO komplexum csúcspontjához vezet.",
+            "ro": "O plimbare scurtă, dar abruptă, de la abație, care vă duce la punctul culminant al complexului UNESCO.",
+            "en": "A short but steep walk from the Abbey, taking you to the pinnacle of the UNESCO complex."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Westgate-Türme und Gärten",
+            "hu": "Westgate-tornyok és kertek",
+            "ro": "Turnurile și Grădinile Westgate",
+            "en": "Westgate Towers and Gardens"
+          },
+          "coords": [
+            1.0725,
+            51.2815
+          ],
+          "category": "towers",
+          "arrive_at": "15:40",
+          "stay_min": 110,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zurück ins Zentrum und gehen Sie zu den Westgate Towers, um den Tag mit einem Spaziergang in den Gärten zu beenden.",
+            "hu": "Menjen vissza busszal a központba, és sétáljon a Westgate-tornyokhoz, hogy a napot egy kerti sétával zárja.",
+            "ro": "Luați un autobuz înapoi în centru și mergeți la Turnurile Westgate pentru a încheia ziua cu o plimbare prin grădini.",
+            "en": "Take a bus back to the centre and walk to Westgate Towers to end the day with a stroll in the gardens."
+          },
+          "hop_mode": "transit"
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt am zentralen Busbahnhof, dem Knotenpunkt für Ihre Erkundungen. Der Vormittag ist einem Spaziergang gewidmet, der das Beaney House, das Römische Museum und die beeindruckende Kathedrale umfasst, die alle leicht zu Fuß erreichbar sind. Nach dem Mittagessen bringt Sie ein kurzer Bus Sie zum zweiten Cluster, dem UNESCO-Weltkulturerbe der Abtei St. Augustin und der St. Martin's Church. Um den Tag ausklingen zu lassen, fahren Sie mit dem Bus zurück ins Zentrum für einen entspannten Besuch der Westgate Towers und der angrenzenden Gärten, ein perfekter Abschluss Ihrer historischen Reise.",
+        "hu": "Tömegközlekedési napja a központi buszpályaudvaron kezdődik, amely a felfedezés csomópontja. A délelőtt egy gyalogos körútnak van szentelve, amely magában foglalja a Beaney Házat, a Római Múzeumot és a lenyűgöző katedrálist, mind könnyen elérhető. Ebéd után egy rövid buszozás elviszi a második csoportba, a Szent Ágoston-apátság és a Szent Márton-templom UNESCO Világörökségi helyszínére. A nap lezárásaként busszal térjen vissza a központba, hogy egy pihentető látogatást tegyen a Westgate-tornyoknál és a szomszédos kerteknél, tökéletes befejezése a történelmi utazásnak.",
+        "ro": "Ziua dumneavoastră cu transportul public începe la autogara centrală, centrul explorării. Dimineața este dedicată unui circuit pietonal care include Casa Beaney, Muzeul Roman și impunătoarea Catedrală, toate la distanță de mers pe jos. După prânz, o scurtă călătorie cu autobuzul vă transportă la al doilea grup, situl Patrimoniului Mondial UNESCO al Abației Sf. Augustin și Biserica Sf. Martin. Pentru a încheia ziua, luați un autobuz înapoi în centru pentru o vizită relaxantă la Turnurile Westgate și grădinile adiacente, o încheiere perfectă a călătoriei dumneavoastră istorice.",
+        "en": "Your public transport day begins at the central bus station, the hub for your exploration. The morning is dedicated to a walking circuit covering the Beaney House, Roman Museum, and the awesome Cathedral, all within easy reach. After lunch, a short bus ride transports you to the second cluster, the UNESCO World Heritage site of St. Augustine's Abbey and St. Martin's Church. To wind down, take a bus back to the centre for a relaxing visit to Westgate Towers and the adjacent gardens, a perfect end to your historic journey."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mahlzeit am Busbahnhof",
+            "tip": "In der Nähe des Busbahnhofs gibt es viele schnelle und einfache Verpflegungsmöglichkeiten, ideal für einen schnellen Happen zwischen den Bussen."
+          },
+          {
+            "name": "Kaffee und Kuchen",
+            "tip": "Machen Sie eine Pause in einem der unabhängigen Cafés entlang der Hauptstraße."
+          },
+          {
+            "name": "Internationale Küche",
+            "tip": "Die Gegend um die Westgate Towers bietet eine Vielzahl an Restaurants mit internationaler Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étkezés a buszpályaudvaron",
+            "tip": "A buszpályaudvar közelében számos gyors és egyszerű étkezési lehetőség található, ideális egy gyors falatra a buszok között."
+          },
+          {
+            "name": "Kávé és sütemény",
+            "tip": "Tartson szünetet a főutca mentén található független kávézók egyikében."
+          },
+          {
+            "name": "Nemzetközi konyha",
+            "tip": "A Westgate-tornyok környéke számos nemzetközi éttermet kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Masa de la stația de autobuz",
+            "tip": "Există o mulțime de opțiuni de mâncare rapidă și ușoară în apropierea stației de autobuz, ideale pentru o gustare rapidă între autobuze."
+          },
+          {
+            "name": "Cafea și prăjitură",
+            "tip": "Luați o pauză la una dintre cafenelele independente de pe strada principală."
+          },
+          {
+            "name": "Bucătărie internațională",
+            "tip": "Zona din jurul Turnurilor Westgate are o varietate de restaurante care servesc bucătărie internațională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus Station Bites",
+            "tip": "There are plenty of quick and easy food options near the bus station, ideal for a quick bite between buses."
+          },
+          {
+            "name": "Coffee and Cake",
+            "tip": "Take a break at one of the independent coffee shops along the main high street."
+          },
+          {
+            "name": "International Cuisine",
+            "tip": "The area around Westgate Towers has a variety of restaurants serving international food."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obere Etage des Busses",
+            "tip": "Sitzen Sie oben in einem Doppeldeckerbus für eine großartige Aussicht auf die Stadt, während Sie zwischen den Orten reisen.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Kirchhof von St. Martin",
+            "tip": "Ein unglaublich friedlicher und historischer Ort, der sich weit weg vom Trubel der Stadt anfühlt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Dane John Gardens",
+            "tip": "Leicht erreichbar vom Busbahnhof, ist es ein großartiger Ort, um den Tag zu beginnen oder zu beenden.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A busz emelete",
+            "tip": "Üljön egy emeletes busz felső szintjére, ahonnan remek kilátás nyílik a városra, miközben a helyszínek között utazik.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Szent Márton-templom kertje",
+            "tip": "Egy hihetetlenül békés és történelmi hely, amely távol esik a város nyüzsgésétől.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Dane John kertek",
+            "tip": "Könnyen megközelíthető a buszpályaudvartól, remek hely a nap kezdéséhez vagy befejezéséhez.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etajul superior al autobuzului",
+            "tip": "Stați la etajul superior al unui autobuz cu două etaje pentru vederi minunate ale orașului în timp ce călătoriți între locații.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Cimitirul Bisericii Sf. Martin",
+            "tip": "Un loc incredibil de pașnic și istoric, care se simte la o lume distanță de agitația orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădinile Dane John",
+            "tip": "Ușor accesibil de la stația de autobuz, este un loc minunat pentru a începe sau a termina ziua.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Top Deck of the Bus",
+            "tip": "Sit at the top of a double-decker bus for great views of the city as you travel between sites.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "St. Martin's Churchyard",
+            "tip": "An incredibly peaceful and historic spot that feels a world away from the city bustle.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Dane John Gardens",
+            "tip": "Easily accessible from the bus station, it's a great place to start or end the day.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Whitefriars Shopping Centre",
+            "tip": "Das wichtigste Einkaufszentrum der Stadt, direkt neben dem Busbahnhof gelegen."
+          },
+          {
+            "name": "Buttermarket",
+            "tip": "Ein Platz in der Nähe des Kathedralentors mit einer Mischung aus Geschäften und Restaurants."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Whitefriars bevásárlóközpont",
+            "tip": "A város fő bevásárlóközpontja, közvetlenül a buszpályaudvar mellett található."
+          },
+          {
+            "name": "Buttermarket",
+            "tip": "Egy tér a katedrális kapuja közelében, üzletek és éttermek keverékével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul comercial Whitefriars",
+            "tip": "Principalul centru comercial al orașului, situat chiar lângă stația de autobuz."
+          },
+          {
+            "name": "Buttermarket",
+            "tip": "O piață lângă poarta catedralei, cu un amestec de magazine și restaurante."
+          }
+        ],
+        "en": [
+          {
+            "name": "Whitefriars Shopping Centre",
+            "tip": "The city's main shopping centre, located right next to the bus station."
+          },
+          {
+            "name": "Buttermarket",
+            "tip": "A square near the cathedral gate with a mix of shops and eateries."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten mit den Stagecoach-Bussen in der Stadt.",
+          "Verwenden Sie die Stagecoach Bus-App, um Live-Buszeiten zu verfolgen und Ihre Reise zu planen.",
+          "Die meisten Busse sind kontaktlos, so dass Sie einfach mit Ihrer Karte oder Ihrem Telefon bezahlen können.",
+          "Die Busse können zu Stoßzeiten, insbesondere während der Schulzeit, sehr voll sein."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz a Stagecoach buszain a városban.",
+          "Használja a Stagecoach Bus alkalmazást az élő buszmenetrendek követéséhez és az utazás megtervezéséhez.",
+          "A legtöbb busz érintésmentes, így könnyen fizethet kártyával vagy telefonnal.",
+          "A buszok csúcsidőben, különösen az iskolai időszakban, nagyon zsúfoltak lehetnek."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate cu autobuzele Stagecoach din oraș.",
+          "Utilizați aplicația Stagecoach Bus pentru a urmări orele de sosire în timp real ale autobuzelor și pentru a vă planifica călătoria.",
+          "Majoritatea autobuzelor sunt contactless, așa că puteți plăti cu ușurință cu cardul sau telefonul.",
+          "Autobuzele pot fi aglomerate la orele de vârf, în special în timpul curselor școlare."
+        ],
+        "en": [
+          "Buy a 'DayRider' ticket for unlimited travel on Stagecoach buses within the city.",
+          "Use the Stagecoach Bus app to track live bus times and plan your journey.",
+          "Most buses are contactless, so you can just tap on with your card or phone.",
+          "Buses can get very busy at peak times, especially during the school run."
+        ]
+      }
+    }
+  }
+}

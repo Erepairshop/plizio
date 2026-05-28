@@ -1,0 +1,1556 @@
+{
+  "city_id": "uk-coventry-cities-v2",
+  "anchor": {
+    "name": "Coventry",
+    "coords": [
+      -1.5197,
+      52.4068
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Lady Godiva Statue",
+            "hu": "Lady Godiva szobra",
+            "ro": "Statuia Lady Godiva",
+            "en": "Lady Godiva Statue"
+          },
+          "coords": [
+            -1.5108,
+            52.4081
+          ],
+          "category": "monuments",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Startpunkt, um die Legende der Stadt kennenzulernen.",
+            "hu": "Tökéletes kiindulópont a város legendájának megismeréséhez.",
+            "ro": "Punctul de plecare perfect pentru a învăța legenda orașului.",
+            "en": "The perfect starting point to learn the city's legend."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinen der Kathedrale von Coventry",
+            "hu": "Coventry-i katedrális romjai",
+            "ro": "Ruinele Catedralei din Coventry",
+            "en": "Coventry Cathedral Ruins"
+          },
+          "coords": [
+            -1.5073,
+            52.4084
+          ],
+          "category": "cathedrals",
+          "arrive_at": "09:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.35,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spüren Sie die Geschichte in den vom Krieg gezeichneten Mauern.",
+            "hu": "Érezd a történelmet a háború sebhelyeit viselő falak között.",
+            "ro": "Simțiți istoria între zidurile marcate de război.",
+            "en": "Feel the history within the war-scarred walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Holy Trinity Kirche",
+            "hu": "Szentháromság-templom",
+            "ro": "Biserica Sfânta Treime",
+            "en": "Holy Trinity Church"
+          },
+          "coords": [
+            -1.5085,
+            52.4088
+          ],
+          "category": "churches",
+          "arrive_at": "10:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suchen Sie nach dem mittelalterlichen 'Jüngsten Gericht'-Gemälde.",
+            "hu": "Keresd a középkori 'Végítélet' festményt.",
+            "ro": "Căutați pictura medievală 'Judecata de Apoi'.",
+            "en": "Look for the medieval 'Doom' painting inside."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Mary's Guildhall",
+            "hu": "Szent Mária Céhterem",
+            "ro": "Sala de bresle St. Mary's",
+            "en": "St. Mary's Guildhall"
+          },
+          "coords": [
+            -1.5079,
+            52.4077
+          ],
+          "category": "museums",
+          "arrive_at": "11:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie den Raum, in dem Maria Stuart gefangen gehalten wurde.",
+            "hu": "Fedezd fel a termet, ahol Stuart Máriát is fogva tartották.",
+            "ro": "Descoperiți camera unde se spune că a fost ținută Maria, Regina Scoției.",
+            "en": "Discover the room where Mary Queen of Scots was reputedly held."
+          }
+        },
+        {
+          "name": {
+            "de": "Herbert Kunstgalerie & Museum",
+            "hu": "Herbert Művészeti Galéria és Múzeum",
+            "ro": "Galeria de Artă și Muzeul Herbert",
+            "en": "Herbert Art Gallery & Museum"
+          },
+          "coords": [
+            -1.5061,
+            52.4079
+          ],
+          "category": "museums",
+          "arrive_at": "13:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ideal für eine Mittagspause mit Kunst und Geschichte.",
+            "hu": "Ideális egy ebédszünetre művészettel és történelemmel.",
+            "ro": "Ideal pentru o pauză de prânz cu artă și istorie.",
+            "en": "Ideal for a lunch break combined with art and history."
+          }
+        },
+        {
+          "name": {
+            "de": "Coventry Transport Museum",
+            "hu": "Coventry Közlekedési Múzeum",
+            "ro": "Muzeul Transporturilor din Coventry",
+            "en": "Coventry Transport Museum"
+          },
+          "coords": [
+            -1.507,
+            52.4102
+          ],
+          "category": "museums",
+          "arrive_at": "14:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht den Geschwindigkeitsrekordhalter ThrustSSC.",
+            "hu": "Ne hagyd ki a ThrustSSC sebességrekorder járművet.",
+            "ro": "Nu ratați deținătorul recordului de viteză, ThrustSSC.",
+            "en": "Don't miss the land speed record holder, ThrustSSC."
+          }
+        },
+        {
+          "name": {
+            "de": "Spon Street",
+            "hu": "Spon utca",
+            "ro": "Strada Spon",
+            "en": "Spon Street"
+          },
+          "coords": [
+            -1.5165,
+            52.4093
+          ],
+          "category": "old-town",
+          "arrive_at": "16:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Mittelalterliche Gebäude, die hierher verlegt wurden. Perfekt für Fotos.",
+            "hu": "Ide áthelyezett középkori épületek. Tökéletes fotótéma.",
+            "ro": "Clădiri medievale care au fost mutate aici. Perfect pentru fotografii.",
+            "en": "Medieval buildings that were moved here. Perfect for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Belgrade Theatre",
+            "hu": "Belgrade Színház",
+            "ro": "Teatrul Belgrade",
+            "en": "Belgrade Theatre"
+          },
+          "coords": [
+            -1.513,
+            52.4105
+          ],
+          "category": "theatres",
+          "arrive_at": "17:45",
+          "stay_min": 0,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie den Spielplan für eine Abendvorstellung.",
+            "hu": "Nézd meg a műsort egy esti előadásra.",
+            "ro": "Verificați programul pentru un spectacol de seară.",
+            "en": "Check the schedule for an evening show."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Herzen von Coventry, umgeben von Legenden und der Widerstandsfähigkeit der Kathedrale. Am Mittag tauchen Sie in die reiche Kunst- und Industriegeschichte der Stadt ein, die Coventry geprägt hat. Der Nachmittag führt Sie durch die Zeit, von den schnellsten Autos der Welt bis zu mittelalterlichen Straßen, die eine einzigartige Geschichte erzählen. Beenden Sie Ihren Spaziergang mit einem Hauch von Kultur und genießen Sie die Atmosphäre des Theaterviertels.",
+        "hu": "Kezdje a napot Coventry történelmi szívében, legendákkal és a katedrális szellemiségével körülvéve. Délben merüljön el a város gazdag művészeti és ipari múltjában. A délután időutazásra visz, a világ leggyorsabb autóitól a középkori utcákig, amelyek egyedi történetet mesélnek. Zárja a sétát egy kis kultúrával, élvezve a színházi negyed hangulatát.",
+        "ro": "Începeți ziua în inima istorică a Coventry, înconjurat de legende și de rezistența catedralei. La prânz, pătrundeți în bogata istorie artistică și industrială care a modelat orașul. După-amiaza vă poartă într-o călătorie în timp, de la cele mai rapide mașini din lume la străzi medievale care spun o poveste unică. Încheiați plimbarea cu o notă de cultură, bucurându-vă de atmosfera cartierului teatrelor.",
+        "en": "Start your day in Coventry's historic heart, surrounded by legends and the resilience of its cathedral. At midday, immerse yourself in the rich artistic and industrial history that has shaped the city. The afternoon takes you on a journey through time, from the world's fastest cars to medieval streets that tell a unique story. Conclude your walk with a touch of culture, soaking up the atmosphere of the theatre district."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Coventry Godcake",
+            "tip": "Ein dreieckiges Gebäck, das man in vielen Bäckereien findet."
+          },
+          {
+            "name": "Balti Triangle",
+            "tip": "Nicht weit vom Zentrum, bekannt für exzellente Currys."
+          },
+          {
+            "name": "Turmeric Gold",
+            "tip": "Ein preisgekröntes indisches Restaurant für ein feines Abendessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Coventry Godcake",
+            "tip": "Háromszög alakú sütemény, számos pékségben kapható."
+          },
+          {
+            "name": "Balti Triangle",
+            "tip": "Nem messze a központtól, kiváló curry specialitásokkal."
+          },
+          {
+            "name": "Turmeric Gold",
+            "tip": "Díjnyertes indiai étterem egy elegáns vacsorához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Coventry Godcake",
+            "tip": "O prăjitură triunghiulară găsită în multe brutării."
+          },
+          {
+            "name": "Balti Triangle",
+            "tip": "Nu departe de centru, renumit pentru curry-uri excelente."
+          },
+          {
+            "name": "Turmeric Gold",
+            "tip": "Un restaurant indian premiat pentru o cină rafinată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Coventry Godcake",
+            "tip": "A triangular pastry found in many local bakeries."
+          },
+          {
+            "name": "Balti Triangle",
+            "tip": "Not far from the centre, known for excellent curries."
+          },
+          {
+            "name": "Turmeric Gold",
+            "tip": "An award-winning Indian restaurant for a fine dining experience."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ruinen der Kathedrale",
+            "tip": "Ein friedlicher Ort der Besinnung.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Lady Herbert's Garden",
+            "tip": "Ein versteckter Garten in der Nähe des Transportmuseums.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Coventry Canal Basin",
+            "tip": "Machen Sie einen kurzen Spaziergang entlang des Wassers.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Katedrális romjai",
+            "tip": "Békés hely az elmélkedésre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Lady Herbert kertje",
+            "tip": "Rejtett kert a Közlekedési Múzeum közelében.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Coventry csatorna medencéje",
+            "tip": "Tegyél egy rövid sétát a víz mentén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ruinele Catedralei",
+            "tip": "Un loc pașnic pentru reflecție.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădina Lady Herbert",
+            "tip": "O grădină ascunsă lângă Muzeul Transporturilor.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bazinul Canalului Coventry",
+            "tip": "Faceți o scurtă plimbare de-a lungul apei.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cathedral Ruins",
+            "tip": "A peaceful spot for reflection.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Lady Herbert's Garden",
+            "tip": "A hidden garden near the Transport Museum.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Coventry Canal Basin",
+            "tip": "Take a short stroll along the water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Spon Street",
+            "tip": "Einzigartige Geschenke in historischen Gebäuden."
+          },
+          {
+            "name": "Coventry Market",
+            "tip": "Ein traditioneller Innenmarkt für alles von Lebensmitteln bis Mode."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Spon utca",
+            "tip": "Egyedi ajándékok történelmi épületekben."
+          },
+          {
+            "name": "Coventry-i piac",
+            "tip": "Hagyományos fedett piac, élelmiszertől a divatig."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Spon",
+            "tip": "Cadouri unice în clădiri istorice."
+          },
+          {
+            "name": "Piața Coventry",
+            "tip": "O piață interioară tradițională pentru de toate, de la mâncare la modă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Spon Street",
+            "tip": "Unique gifts in historic buildings."
+          },
+          {
+            "name": "Coventry Market",
+            "tip": "A traditional indoor market for everything from food to fashion."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, das Kopfsteinpflaster kann uneben sein.",
+          "Viele Museen sind kostenlos, aber Spenden sind willkommen.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Planen Sie zusätzliche Zeit für die Kathedrale ein; es gibt viel zu sehen."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, a macskakő egyenetlen lehet.",
+          "Sok múzeum ingyenes, de az adományokat szívesen fogadják.",
+          "A központi látnivalók többsége könnyen megközelíthető gyalog.",
+          "Tervezz plusz időt a katedrálisra; sok a látnivaló."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, pavajul poate fi denivelat.",
+          "Multe muzee sunt gratuite, dar donațiile sunt binevenite.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Planificați timp suplimentar pentru catedrală; sunt multe de văzut."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones can be uneven.",
+          "Many of the museums are free to enter, but donations are welcome.",
+          "Most city centre attractions are within easy walking distance.",
+          "Budget extra time for the cathedral; there is a lot to see."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Coventry Transport Museum",
+            "hu": "Coventry Közlekedési Múzeum",
+            "ro": "Muzeul Transporturilor din Coventry",
+            "en": "Coventry Transport Museum"
+          },
+          "coords": [
+            -1.507,
+            52.4102
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie dort, wo Coventrys industrielles Herz schlägt. Fahrradständer vorhanden.",
+            "hu": "Kezdd ott, ahol Coventry ipari szíve dobog. Kerékpártároló rendelkezésre áll.",
+            "ro": "Începeți de unde bate inima industrială a Coventry. Parcări pentru biciclete disponibile.",
+            "en": "Start where Coventry's industrial heart beats. Bike racks available."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedralenviertel",
+            "hu": "Katedrális negyed",
+            "ro": "Cartierul Catedralei",
+            "en": "Cathedral Quarter"
+          },
+          "coords": [
+            -1.5073,
+            52.4084
+          ],
+          "category": "cathedrals",
+          "arrive_at": "10:56",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und erkunden Sie die neue und alte Kathedrale.",
+            "hu": "Zárd le a biciklidet, és fedezd fel az új és a régi katedrálist.",
+            "ro": "Legați-vă bicicleta și explorați catedrala nouă și cea veche.",
+            "en": "Lock up your bike and explore the new and old cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Mary's Guildhall",
+            "hu": "Szent Mária Céhterem",
+            "ro": "Sala de bresle St. Mary's",
+            "en": "St. Mary's Guildhall"
+          },
+          "coords": [
+            -1.5079,
+            52.4077
+          ],
+          "category": "historical",
+          "arrive_at": "12:29",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang von der Kathedrale entfernt.",
+            "hu": "Csak egy rövid séta a katedrálistól.",
+            "ro": "La o scurtă plimbare de catedrală.",
+            "en": "Just a short walk from the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Spon Street",
+            "hu": "Ebédszünet a Spon utcában",
+            "ro": "Prânz pe strada Spon",
+            "en": "Lunch at Spon Street"
+          },
+          "coords": [
+            -1.5165,
+            52.4093
+          ],
+          "category": "gastro",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Viele Pubs und Restaurants in mittelalterlicher Kulisse.",
+            "hu": "Számos pub és étterem középkori környezetben.",
+            "ro": "Multe pub-uri și restaurante într-un cadru medieval.",
+            "en": "Plenty of pubs and restaurants in a medieval setting."
+          }
+        },
+        {
+          "name": {
+            "de": "War Memorial Park",
+            "hu": "Háborús Emlékpark",
+            "ro": "Parcul Memorial de Război",
+            "en": "War Memorial Park"
+          },
+          "coords": [
+            -1.5205,
+            52.3928
+          ],
+          "category": "parks",
+          "arrive_at": "15:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine angenehme Fahrt, um sich die Beine zu vertreten und die Gärten zu genießen.",
+            "hu": "Kellemes tekerés a parkba, hogy kinyújtóztasd a lábaidat és élvezd a kerteket.",
+            "ro": "O plimbare plăcută cu bicicleta pentru a vă întinde picioarele și a vă bucura de grădini.",
+            "en": "A pleasant ride to stretch your legs and enjoy the gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Herbert Kunstgalerie & Museum",
+            "hu": "Herbert Művészeti Galéria és Múzeum",
+            "ro": "Galeria de Artă și Muzeul Herbert",
+            "en": "Herbert Art Gallery & Museum"
+          },
+          "coords": [
+            -1.5061,
+            52.4079
+          ],
+          "category": "museums",
+          "arrive_at": "16:49",
+          "stay_min": 0,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie zurück ins Zentrum, um Ihre Tour ausklingen zu lassen.",
+            "hu": "Tekerj vissza a központba, hogy lezárd a túrát.",
+            "ro": "Pedalați înapoi spre centru pentru a încheia turul.",
+            "en": "Ride back to the centre to finish your tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Abschiedsgetränk in der Nähe der Kathedrale",
+            "hu": "Búcsúital a katedrális közelében",
+            "ro": "Băutură de adio lângă Catedrală",
+            "en": "Farewell drink near the Cathedral"
+          },
+          "coords": [
+            -1.5065,
+            52.4082
+          ],
+          "category": "gastro",
+          "arrive_at": "17:15",
+          "stay_min": 0,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie ein letztes Getränk mit Blick auf die Geschichte.",
+            "hu": "Élvezz egy utolsó italt a történelemre nézve.",
+            "ro": "Bucurați-vă de o ultimă băutură cu vedere la istorie.",
+            "en": "Enjoy one last drink with a view of history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour im Herzen der Autoindustrie Englands. Am Vormittag erkunden Sie das historische Zentrum und seine bewegende Geschichte. Nach dem Mittagessen in einer mittelalterlichen Straße führt Sie eine längere Fahrt in den grünen Süden der Stadt. Beenden Sie den Tag, indem Sie die kulturellen Highlights im Stadtzentrum Revue passieren lassen.",
+        "hu": "Kezdje a kerékpártúrát Anglia autóiparának szívében. Délelőtt fedezze fel a történelmi központot és annak megindító múltját. Ebéd után egy középkori utcában egy hosszabb út vezet a város zöld déli részébe. Zárja a napot a belváros kulturális nevezetességeinek felidézésével.",
+        "ro": "Începeți turul cu bicicleta în inima industriei auto din Anglia. Dimineața explorați centrul istoric și trecutul său emoționant. După prânzul pe o stradă medievală, o plimbare mai lungă vă duce în sudul verde al orașului. Încheiați ziua trecând în revistă atracțiile culturale din centrul orașului.",
+        "en": "Start your bike tour in the heart of England's motor industry. In the morning, explore the historic centre and its moving past. After lunch on a medieval street, a longer ride takes you to the city's green south. End the day by circling back to the cultural highlights in the city centre."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Golden Cross",
+            "tip": "Einer der ältesten Pubs in Coventry, in der Spon Street."
+          },
+          {
+            "name": "Coventry Godcake",
+            "tip": "Tanken Sie Energie mit diesem lokalen Gebäck."
+          },
+          {
+            "name": "FarGo Village",
+            "tip": "Ein kreativer Raum mit Street Food und unabhängigen Cafés."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Golden Cross",
+            "tip": "Coventry egyik legrégebbi pubja a Spon utcában."
+          },
+          {
+            "name": "Coventry Godcake",
+            "tip": "Töltődj fel energiával ezzel a helyi süteménnyel."
+          },
+          {
+            "name": "FarGo Village",
+            "tip": "Kreatív tér street fooddal és független kávézókkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Golden Cross",
+            "tip": "Unul dintre cele mai vechi pub-uri din Coventry, pe strada Spon."
+          },
+          {
+            "name": "Coventry Godcake",
+            "tip": "Reîncărcați-vă cu energie cu această prăjitură locală."
+          },
+          {
+            "name": "FarGo Village",
+            "tip": "Un spațiu creativ cu mâncare stradală și cafenele independente."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Golden Cross",
+            "tip": "One of Coventry's oldest pubs, on Spon Street."
+          },
+          {
+            "name": "Coventry Godcake",
+            "tip": "Refuel with this local pastry."
+          },
+          {
+            "name": "FarGo Village",
+            "tip": "A creative space with street food and independent cafes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "War Memorial Park",
+            "tip": "Große Grünflächen für eine Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Coventry Canal",
+            "tip": "Folgen Sie dem Radweg für eine ruhige Fahrt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Gärten der Kathedrale",
+            "tip": "Ein Moment der Stille im Herzen der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Háborús Emlékpark",
+            "tip": "Hatalmas zöldterület egy kis szünetre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Coventry-csatorna",
+            "tip": "Kövesd a kerékpárutat egy csendes tekeréshez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Katedrális kertjei",
+            "tip": "A csend pillanata a város szívében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Memorial de Război",
+            "tip": "Spații verzi largi pentru o pauză.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Canalul Coventry",
+            "tip": "Urmați pista de biciclete pentru o plimbare liniștită.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grădinile Catedralei",
+            "tip": "Un moment de liniște în inima orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "War Memorial Park",
+            "tip": "Large green space for a break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Coventry Canal",
+            "tip": "Follow the cycle path for a peaceful ride.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cathedral Gardens",
+            "tip": "A moment of quiet in the heart of the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "FarGo Village",
+            "tip": "Unabhängige Geschäfte und Handwerksateliers."
+          },
+          {
+            "name": "West Orchards Shopping Centre",
+            "tip": "Für alle Mainstream-Shopping-Bedürfnisse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "FarGo Village",
+            "tip": "Független boltok és kézműves műhelyek."
+          },
+          {
+            "name": "West Orchards bevásárlóközpont",
+            "tip": "Mindenféle mainstream vásárlási igényre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "FarGo Village",
+            "tip": "Magazine independente și ateliere de artizanat."
+          },
+          {
+            "name": "Centrul Comercial West Orchards",
+            "tip": "Pentru toate nevoile de cumpărături convenționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "FarGo Village",
+            "tip": "Independent shops and artisan studios."
+          },
+          {
+            "name": "West Orchards Shopping Centre",
+            "tip": "For any mainstream shopping needs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck, bevor Sie losfahren.",
+          "Nutzen Sie die ausgewiesenen Radwege, wo immer möglich.",
+          "Ein gutes Schloss ist unerlässlich, besonders im Stadtzentrum.",
+          "Einige Teile des Zentrums sind Fußgängerzonen, also müssen Sie möglicherweise absteigen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizd a guminyomást.",
+          "Használd a kijelölt kerékpárutakat, ahol csak lehetséges.",
+          "Egy jó lakat elengedhetetlen, különösen a városközpontban.",
+          "A központ egyes részei gyalogos zónák, ahol le kell szállnod."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope înainte de a porni.",
+          "Folosiți pistele de biciclete desemnate ori de câte ori este posibil.",
+          "O încuietoare bună este esențială, mai ales în centrul orașului.",
+          "Anumite părți ale centrului sunt pietonale, deci s-ar putea să trebuiască să descălecați."
+        ],
+        "en": [
+          "Check your tyre pressure before setting off.",
+          "Use the designated cycle lanes wherever possible.",
+          "A good lock is essential, especially in the city centre.",
+          "Some parts of the centre are pedestrianised, so you may need to dismount."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 24.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Lunt Römerfestung",
+            "hu": "Lunt római erőd",
+            "ro": "Fortul Roman Lunt",
+            "en": "Lunt Roman Fort"
+          },
+          "coords": [
+            -1.477,
+            52.3756
+          ],
+          "category": "historical",
+          "arrive_at": "09:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einer Reise in die römische Vergangenheit. Gut ausgeschildert und mit Parkplätzen.",
+            "hu": "Kezdje a napot egy utazással a római múltba. Jól kitáblázott, parkolóval rendelkezik.",
+            "ro": "Începeți ziua cu o călătorie în trecutul roman. Bine semnalizat și cu parcare.",
+            "en": "Start your day with a trip to the Roman past. Well signposted with parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 1: War Memorial Park",
+            "hu": "1. csoport: Háborús Emlékpark",
+            "ro": "Cluster 1: Parcul Memorial de Război",
+            "en": "Cluster 1: War Memorial Park"
+          },
+          "coords": [
+            -1.5205,
+            52.3928
+          ],
+          "category": "parks",
+          "arrive_at": "10:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Vormittag. Ein riesiger Park mit viel Platz.",
+            "hu": "Parkolj le itt a délelőttre. Hatalmas park rengeteg hellyel.",
+            "ro": "Parcați aici pentru dimineață. Un parc vast cu mult spațiu.",
+            "en": "Park here for the morning. A vast park with plenty of space."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Kathedralenviertel & Museen",
+            "hu": "2. csoport: Katedrális negyed és múzeumok",
+            "ro": "Cluster 2: Cartierul Catedralei și Muzee",
+            "en": "Cluster 2: Cathedral Quarter & Museums"
+          },
+          "coords": [
+            -1.5073,
+            52.4084
+          ],
+          "category": "cathedrals",
+          "arrive_at": "12:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in einem der Parkhäuser und erkunden Sie den Rest des Tages zu Fuß.",
+            "hu": "Parkolj le egy parkolóházban, és a nap hátralévő részét gyalogosan fedezd fel.",
+            "ro": "Parcați într-o parcare supraetajată și explorați pe jos pentru restul zilei.",
+            "en": "Park in a multi-storey car park and explore on foot for the rest of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Herbert Kunstgalerie & Museum",
+            "hu": "Herbert Művészeti Galéria és Múzeum",
+            "ro": "Galeria de Artă și Muzeul Herbert",
+            "en": "Herbert Art Gallery & Museum"
+          },
+          "coords": [
+            -1.5061,
+            52.4079
+          ],
+          "category": "museums",
+          "arrive_at": "13:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt neben der Kathedrale. Ideal für eine Pause am Nachmittag.",
+            "hu": "Közvetlenül a katedrális mellett. Ideális egy délutáni pihenőre.",
+            "ro": "Chiar lângă catedrală. Ideal pentru o pauză de după-amiază.",
+            "en": "Right next to the cathedral. Ideal for an afternoon break."
+          }
+        },
+        {
+          "name": {
+            "de": "Coventry Transport Museum",
+            "hu": "Coventry Közlekedési Múzeum",
+            "ro": "Muzeul Transporturilor din Coventry",
+            "en": "Coventry Transport Museum"
+          },
+          "coords": [
+            -1.507,
+            52.4102
+          ],
+          "category": "museums",
+          "arrive_at": "15:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss in der 'Motor City' Großbritanniens.",
+            "hu": "Kötelező látnivaló Nagy-Britannia 'Motorvárosában'.",
+            "ro": "O vizită obligatorie în 'Orașul Motoarelor' al Marii Britanii.",
+            "en": "A must-see in Britain's 'Motor City'."
+          }
+        },
+        {
+          "name": {
+            "de": "Spon Street",
+            "hu": "Spon utca",
+            "ro": "Strada Spon",
+            "en": "Spon Street"
+          },
+          "coords": [
+            -1.5165,
+            52.4093
+          ],
+          "category": "old-town",
+          "arrive_at": "17:23",
+          "stay_min": 0,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit einem Spaziergang durch die wiederaufgebauten mittelalterlichen Straßen.",
+            "hu": "Zárja a napot egy sétával az újjáépített középkori utcákon.",
+            "ro": "Încheiați ziua cu o plimbare pe străzile medievale reconstruite.",
+            "en": "End your day with a stroll down the rebuilt medieval streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen",
+            "hu": "Vacsora",
+            "ro": "Cină",
+            "en": "Dinner"
+          },
+          "coords": [
+            -1.515,
+            52.409
+          ],
+          "category": "gastro",
+          "arrive_at": "17:35",
+          "stay_min": 0,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Wählen Sie eines der vielen Restaurants in der Gegend.",
+            "hu": "Válassz a környék számos étterme közül.",
+            "ro": "Alegeți unul dintre multele restaurante din zonă.",
+            "en": "Choose one of the many restaurants in the area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Autoabenteuer außerhalb des Zentrums mit einem Sprung in die Römerzeit. Fahren Sie dann zu Coventrys größter grüner Lunge für einen Vormittagsspaziergang. Am Nachmittag parken Sie im Zentrum und tauchen zu Fuß in das Herz der Stadt ein: von der ergreifenden Geschichte der Kathedrale bis zur glorreichen industriellen Vergangenheit in den Museen. Beenden Sie den Tag in der einzigartigen Atmosphäre der wiederaufgebauten mittelalterlichen Spon Street.",
+        "hu": "Kezdje az autós kalandot a központon kívül, egy ugrással a római korba. Ezután hajtson Coventry legnagyobb zöldterületére egy délelőtti sétáért. Délután parkoljon le a központban, és gyalog merüljön el a város szívében: a katedrális megindító történetétől a múzeumok dicsőséges ipari múltjáig. Fejezze be a napot az újjáépített középkori Spon utca egyedi hangulatában.",
+        "ro": "Începeți aventura cu mașina în afara centrului cu o incursiune în epoca romană. Apoi, conduceți spre cel mai mare parc al orașului Coventry pentru o plimbare de dimineață. După-amiaza, parcați în centru și pătrundeți pe jos în inima orașului: de la istoria emoționantă a catedralei la trecutul industrial glorios din muzee. Încheiați ziua în atmosfera unică a străzii medievale reconstruite Spon Street.",
+        "en": "Start your car adventure outside the centre with a leap into Roman times. Then, drive to Coventry's largest green lung for a morning stroll. In the afternoon, park centrally and dive into the city's heart on foot: from the cathedral's poignant history to the glorious industrial past in its museums. Finish the day in the unique atmosphere of the rebuilt medieval Spon Street."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Coombe Abbey Hotel",
+            "tip": "Für einen luxuriösen Nachmittagstee etwas außerhalb der Stadt."
+          },
+          {
+            "name": "The Botanist",
+            "tip": "Ein Restaurant mit einzigartigem Dekor im Stadtzentrum."
+          },
+          {
+            "name": "The Pod Cafe",
+            "tip": "Ein soziales Unternehmen, das leckeres veganes Essen anbietet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Coombe Abbey Hotel",
+            "tip": "Luxus délutáni teára a városon kívül."
+          },
+          {
+            "name": "The Botanist",
+            "tip": "Egyedi dekorációjú étterem a városközpontban."
+          },
+          {
+            "name": "The Pod Cafe",
+            "tip": "Társadalmi vállalkozás, amely ízletes vegán ételeket kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hotelul Coombe Abbey",
+            "tip": "Pentru un ceai de după-amiază de lux, chiar în afara orașului."
+          },
+          {
+            "name": "The Botanist",
+            "tip": "Un restaurant cu decor unic în centrul orașului."
+          },
+          {
+            "name": "The Pod Cafe",
+            "tip": "O întreprindere socială care servește mâncare vegană delicioasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Coombe Abbey Hotel",
+            "tip": "For a luxurious afternoon tea just outside the city."
+          },
+          {
+            "name": "The Botanist",
+            "tip": "A restaurant with unique decor in the city centre."
+          },
+          {
+            "name": "The Pod Cafe",
+            "tip": "A social enterprise serving delicious vegan food."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "War Memorial Park",
+            "tip": "Finden Sie eine ruhige Ecke in den formalen Gärten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Lunt Römerfestung",
+            "tip": "Normalerweise ruhig und bietet eine tolle Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "St. John the Baptist Kirche",
+            "tip": "Eine weniger besuchte, aber ebenso schöne Kirche.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Háborús Emlékpark",
+            "tip": "Találj egy csendes sarkot a formális kertekben.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Lunt római erőd",
+            "tip": "Általában csendes és nagyszerű kilátást nyújt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Keresztelő Szent János templom",
+            "tip": "Kevésbé látogatott, de ugyanolyan szép templom.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Memorial de Război",
+            "tip": "Găsiți un colț liniștit în grădinile formale.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fortul Roman Lunt",
+            "tip": "De obicei liniștit și oferă priveliști minunate.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Biserica Sf. Ioan Botezătorul",
+            "tip": "O biserică mai puțin vizitată, dar la fel de frumoasă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "War Memorial Park",
+            "tip": "Find a quiet corner in the formal gardens.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Lunt Roman Fort",
+            "tip": "Usually quiet and offers great views.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "St. John the Baptist Church",
+            "tip": "A less-visited but equally beautiful church.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lower Precinct Shopping",
+            "tip": "Ein modernes Einkaufszentrum mit vielen bekannten Marken."
+          },
+          {
+            "name": "Souvenirladen der Kathedrale",
+            "tip": "Unterstützen Sie die Kathedrale und finden Sie einzigartige Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lower Precinct Shopping",
+            "tip": "Modern bevásárlóközpont sok népszerű márkával."
+          },
+          {
+            "name": "A katedrális ajándékboltja",
+            "tip": "Támogasd a katedrálist és találj egyedi emléktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lower Precinct Shopping",
+            "tip": "Un centru comercial modern cu multe mărci cunoscute."
+          },
+          {
+            "name": "Magazinul de suveniruri al Catedralei",
+            "tip": "Sprijiniți catedrala și găsiți amintiri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lower Precinct Shopping",
+            "tip": "A modern shopping centre with many high-street brands."
+          },
+          {
+            "name": "Cathedral Gift Shop",
+            "tip": "Support the cathedral and find unique souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Öffnungszeiten des Lunt Fort, da diese saisonal sind.",
+          "Parken im Stadtzentrum kann teuer sein; nutzen Sie Park-and-Ride, wenn möglich.",
+          "Coventry hat einen Ringstraßen-System, das für Erstbesucher verwirrend sein kann. Verwenden Sie GPS.",
+          "Achten Sie auf Busspuren und Beschränkungen im Stadtzentrum."
+        ],
+        "hu": [
+          "Ellenőrizd a Lunt erőd nyitvatartási idejét, mivel szezonális.",
+          "A belvárosi parkolás drága lehet; ha lehet, használd a P+R rendszert.",
+          "Coventrynek körgyűrűs úthálózata van, ami zavaró lehet az első látogatóknak. Használj GPS-t.",
+          "Figyelj a buszsávokra és a korlátozásokra a városközpontban."
+        ],
+        "ro": [
+          "Verificați orele de deschidere ale Fortului Lunt, deoarece acestea sunt sezoniere.",
+          "Parcarea în centrul orașului poate fi scumpă; folosiți sistemul Park and Ride dacă este posibil.",
+          "Coventry are un sistem de șosea de centură care poate fi confuz pentru vizitatorii noi. Folosiți GPS-ul.",
+          "Fiți atenți la benzile de autobuz și la restricțiile din centrul orașului."
+        ],
+        "en": [
+          "Check the opening times for Lunt Fort as they can be seasonal.",
+          "City centre parking can be expensive; consider using Park and Ride if available.",
+          "Coventry has a ring road system that can be confusing for first-time visitors. Use a GPS.",
+          "Be aware of bus lanes and restrictions in the city centre."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 8.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: War Memorial Park",
+            "hu": "1. csoport: Háborús Emlékpark",
+            "ro": "Cluster 1: Parcul Memorial de Război",
+            "en": "Cluster 1: War Memorial Park"
+          },
+          "coords": [
+            -1.5205,
+            52.3928
+          ],
+          "category": "parks",
+          "arrive_at": "09:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Stadtzentrum. Ein toller Ort, um den Tag zu beginnen.",
+            "hu": "Szállj buszra a városközpontból. Nagyszerű hely a nap kezdéséhez.",
+            "ro": "Luați un autobuz din centrul orașului. Un loc minunat pentru a începe ziua.",
+            "en": "Take a bus from the city centre. A great place to start the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Kathedralenviertel",
+            "hu": "2. csoport: Katedrális negyed",
+            "ro": "Cluster 2: Cartierul Catedralei",
+            "en": "Cluster 2: Cathedral Quarter"
+          },
+          "coords": [
+            -1.5073,
+            52.4084
+          ],
+          "category": "cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Bus zurück ins Zentrum. Steigen Sie in der Nähe der Kathedrale aus.",
+            "hu": "Menj busszal vissza a központba. Szállj le a katedrális közelében.",
+            "ro": "Luați autobuzul înapoi în centru. Coborâți lângă catedrală.",
+            "en": "Take the bus back to the centre. Get off near the Cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Mary's Guildhall",
+            "hu": "Szent Mária Céhterem",
+            "ro": "Sala de bresle St. Mary's",
+            "en": "St. Mary's Guildhall"
+          },
+          "coords": [
+            -1.5079,
+            52.4077
+          ],
+          "category": "historical",
+          "arrive_at": "12:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die Geschichte.",
+            "hu": "Rövid séta a történelemben.",
+            "ro": "O scurtă plimbare prin istorie.",
+            "en": "A short walk through history."
+          }
+        },
+        {
+          "name": {
+            "de": "Lady Godiva Statue & Mittagessen",
+            "hu": "Lady Godiva szobra és ebéd",
+            "ro": "Statuia Lady Godiva și prânzul",
+            "en": "Lady Godiva Statue & Lunch"
+          },
+          "coords": [
+            -1.5108,
+            52.4081
+          ],
+          "category": "gastro",
+          "arrive_at": "13:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Finden Sie einen Platz zum Essen in der Nähe des zentralen Platzes.",
+            "hu": "Keress egy ebédelőhelyet a főtér közelében.",
+            "ro": "Găsiți un loc de mâncare lângă piața centrală.",
+            "en": "Find a place for lunch near the central square."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Museumsviertel",
+            "hu": "3. csoport: Múzeumi negyed",
+            "ro": "Cluster 3: Cartierul Muzeelor",
+            "en": "Cluster 3: Museum Quarter"
+          },
+          "coords": [
+            -1.507,
+            52.4102
+          ],
+          "category": "museums",
+          "arrive_at": "15:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein kurzer Bus-Hop oder ein flotter Spaziergang zum Transportmuseum.",
+            "hu": "Egy rövid buszozás vagy egy gyors séta a Közlekedési Múzeumhoz.",
+            "ro": "O scurtă călătorie cu autobuzul sau o plimbare vioaie până la Muzeul Transporturilor.",
+            "en": "A quick bus hop or a brisk walk to the Transport Museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Spon Street",
+            "hu": "Spon utca",
+            "ro": "Strada Spon",
+            "en": "Spon Street"
+          },
+          "coords": [
+            -1.5165,
+            52.4093
+          ],
+          "category": "old-town",
+          "arrive_at": "17:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Museumsviertel aus leicht zu Fuß erreichbar.",
+            "hu": "Könnyen elérhető gyalog a múzeumi negyedből.",
+            "ro": "Accesibil pe jos din cartierul muzeelor.",
+            "en": "An easy walk from the museum quarter."
+          }
+        },
+        {
+          "name": {
+            "de": "Belgrade Theatre",
+            "hu": "Belgrade Színház",
+            "ro": "Teatrul Belgrade",
+            "en": "Belgrade Theatre"
+          },
+          "coords": [
+            -1.513,
+            52.4105
+          ],
+          "category": "theatres",
+          "arrive_at": "17:50",
+          "stay_min": 0,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Hier endet Ihre Tour, im Herzen des Theaterviertels.",
+            "hu": "A túra itt ér véget, a színházi negyed szívében.",
+            "ro": "Turul dumneavoastră se încheie aici, în inima cartierului teatrelor.",
+            "en": "Your tour ends here, in the heart of the theatre district."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Coventrys Busnetz, um den Tag im weitläufigen War Memorial Park zu beginnen. Kehren Sie am späten Vormittag ins Zentrum zurück, um das historische und spirituelle Herz der Stadt zu Fuß zu erkunden. Nach dem Mittagessen bringt Sie ein kurzer Transfer zu den weltberühmten Museen der Stadt. Beenden Sie den Tag mit einem Spaziergang durch die einzigartigen historischen Straßen, die das moderne Stadtbild prägen.",
+        "hu": "Használja Coventry buszhálózatát, hogy a napot a tágas Háborús Emlékparkban kezdje. Késő délelőtt térjen vissza a központba, hogy gyalogosan fedezze fel a város történelmi és spirituális szívét. Ebéd után egy rövid transzferrel eljuthat a város világhírű múzeumaihoz. Zárja a napot egy sétával az egyedi történelmi utcákon, amelyek a modern városképet formálják.",
+        "ro": "Folosiți rețeaua de autobuze din Coventry pentru a începe ziua în vastul Parc Memorial de Război. Întoarceți-vă în centru spre sfârșitul dimineții pentru a explora pe jos inima istorică și spirituală a orașului. După prânz, un scurt transfer vă duce la muzeele de renume mondial ale orașului. Încheiați ziua cu o plimbare pe străzile istorice unice care punctează peisajul urban modern.",
+        "en": "Use Coventry's bus network to start your day in the expansive War Memorial Park. Return to the centre late morning to explore the city's historic and spiritual heart on foot. After lunch, a short transfer takes you to the city's world-class museums. End the day with a walk through the unique historic streets that punctuate the modern cityscape."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Selminas Restaurant & Bar",
+            "tip": "Lebhafte lateinamerikanische Küche in der Spon Street."
+          },
+          {
+            "name": "My Dhabba",
+            "tip": "Authentische indische Küche in der Nähe des Zentrums."
+          },
+          {
+            "name": "Bean & Leaf Coffee House",
+            "tip": "Ein großartiger Ort für Kaffee und Kuchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Selminas Restaurant & Bar",
+            "tip": "Élénk latin-amerikai konyha a Spon utcában."
+          },
+          {
+            "name": "My Dhabba",
+            "tip": "Autentikus indiai konyha a központ közelében."
+          },
+          {
+            "name": "Bean & Leaf Coffee House",
+            "tip": "Nagyszerű hely egy kávéra és süteményre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Selminas Restaurant & Bar",
+            "tip": "Bucătărie latino-americană plină de viață pe strada Spon."
+          },
+          {
+            "name": "My Dhabba",
+            "tip": "Bucătărie indiană autentică aproape de centru."
+          },
+          {
+            "name": "Bean & Leaf Coffee House",
+            "tip": "Un loc excelent pentru cafea și prăjituri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Selminas Restaurant & Bar",
+            "tip": "Lively Latin American food on Spon Street."
+          },
+          {
+            "name": "My Dhabba",
+            "tip": "Authentic Indian cuisine near the centre."
+          },
+          {
+            "name": "Bean & Leaf Coffee House",
+            "tip": "A great spot for coffee and cake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rosengarten im War Memorial Park",
+            "tip": "Ein schöner, ruhiger Bereich im Park.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kapelle der Einheit in der Kathedrale",
+            "tip": "Ein Ort für stille Kontemplation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Priory Gardens",
+            "tip": "Entdeckte Gärten neben der Holy Trinity Kirche.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rózsakert a Háborús Emlékparkban",
+            "tip": "Gyönyörű, csendes rész a parkban.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Egység Kápolna a katedrálisban",
+            "tip": "A csendes elmélkedés helye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Priory kertek",
+            "tip": "Felfedezett kertek a Szentháromság-templom mellett.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina de trandafiri din Parcul Memorial de Război",
+            "tip": "O zonă frumoasă și liniștită în parc.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Capela Unității din Catedrală",
+            "tip": "Un loc pentru contemplare tăcută.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădinile Priory",
+            "tip": "Grădini descoperite lângă Biserica Sfânta Treime.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rose Garden in War Memorial Park",
+            "tip": "A beautiful, quiet section of the park.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Chapel of Unity in the Cathedral",
+            "tip": "A space for quiet contemplation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Priory Gardens",
+            "tip": "Discovered gardens next to Holy Trinity Church.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Coventry Market",
+            "tip": "Ein pulsierender Innenmarkt mit einer großen Vielfalt."
+          },
+          {
+            "name": "City Arcade",
+            "tip": "Eine Sammlung von unabhängigen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Coventry-i piac",
+            "tip": "Élettel teli fedett piac, széles választékkal."
+          },
+          {
+            "name": "City Arcade",
+            "tip": "Független üzletek gyűjteménye."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Coventry",
+            "tip": "O piață interioară vibrantă, cu o mare varietate."
+          },
+          {
+            "name": "City Arcade",
+            "tip": "O colecție de magazine independente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Coventry Market",
+            "tip": "A vibrant indoor market with a huge variety."
+          },
+          {
+            "name": "City Arcade",
+            "tip": "A collection of independent retailers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Busfahrten.",
+          "Verwenden Sie eine ÖPNV-App, um Buszeiten und -routen in Echtzeit zu verfolgen.",
+          "Die Hauptbushaltestelle ist Pool Meadow, aber es gibt viele Haltestellen in der Innenstadt.",
+          "Stoßzeiten können voll sein, planen Sie Ihre Fahrten außerhalb der Hauptverkehrszeiten."
+        ],
+        "hu": [
+          "Vásárolj napijegyet a korlátlan buszozáshoz.",
+          "Használj egy közlekedési alkalmazást a buszok valós idejű követéséhez.",
+          "A fő buszpályaudvar a Pool Meadow, de a belvárosban is sok megálló van.",
+          "A csúcsidő zsúfolt lehet, tervezd az utazásaidat azon kívülre."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate cu autobuzul.",
+          "Folosiți o aplicație de transport public pentru a urmări orele și rutele autobuzelor în timp real.",
+          "Autogara principală este Pool Meadow, dar există multe stații în centrul orașului.",
+          "Orele de vârf pot fi aglomerate, planificați-vă călătoriile în afara acestor ore."
+        ],
+        "en": [
+          "Purchase a 'Day Saver' ticket for unlimited bus travel.",
+          "Use a public transport app to track real-time bus times and routes.",
+          "The main bus station is Pool Meadow, but there are many stops downtown.",
+          "Peak times can be busy, try to plan your travel off-peak."
+        ]
+      }
+    }
+  }
+}

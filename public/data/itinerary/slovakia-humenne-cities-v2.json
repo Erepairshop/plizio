@@ -1,0 +1,1156 @@
+{
+  "city_id": "slovakia-humenne-cities-v2",
+  "anchor": {
+    "name": "Humenné",
+    "coords": [
+      21.91,
+      48.9344
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Freiheitsplatz (Námestie slobody)",
+            "hu": "Szabadság tér (Námestie slobody)",
+            "ro": "Piața Libertății (Námestie slobody)",
+            "en": "Freedom Square (Námestie slobody)"
+          },
+          "coords": [
+            21.9079,
+            48.9362
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Kaffee in einem der örtlichen Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik helyi kávézójában.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele locale din piață.",
+            "en": "Start your day with a coffee at one of the local cafes on the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Statue des braven Soldaten Schwejk",
+            "hu": "Švejk, a derék katona szobra",
+            "ro": "Statuia bunului soldat Švejk",
+            "en": "Statue of the Good Soldier Švejk"
+          },
+          "coords": [
+            21.9085,
+            48.9371
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:40",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein beliebtes Fotomotiv und eine Hommage an die berühmte literarische Figur.",
+            "hu": "Népszerű fotóhelyszín és tisztelgés a híres irodalmi alak előtt.",
+            "ro": "Un loc popular pentru fotografii și un omagiu adus celebrului personaj literar.",
+            "en": "A popular photo spot and a tribute to the famous literary character."
+          }
+        },
+        {
+          "name": {
+            "de": "Brunnen der Liebe",
+            "hu": "A Szerelem kútja",
+            "ro": "Fântâna Iubirii",
+            "en": "Fountain of Love"
+          },
+          "coords": [
+            21.9092,
+            48.9365
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:00",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein romantischer Ort, ideal für ein kurzes Innehalten.",
+            "hu": "Romantikus hely, ideális egy rövid megállóhoz.",
+            "ro": "Un loc romantic, ideal pentru o scurtă pauză.",
+            "en": "A romantic spot, ideal for a short pause."
+          }
+        },
+        {
+          "name": {
+            "de": "Allerheiligenkirche",
+            "hu": "Mindenszentek-templom",
+            "ro": "Biserica Tuturor Sfinților",
+            "en": "All Saints' Church"
+          },
+          "coords": [
+            21.9133,
+            48.9381
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:25",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beachten Sie die gotischen Ursprünge und die späteren barocken Umbauten.",
+            "hu": "Figyelje meg a gótikus eredetet és a későbbi barokk átalakításokat.",
+            "ro": "Observați originile gotice și modificările baroce ulterioare.",
+            "en": "Note the Gothic origins and the later Baroque modifications."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Humenné",
+            "hu": "Homonnai kastély",
+            "ro": "Castelul Humenné",
+            "en": "Humenné Castle"
+          },
+          "coords": [
+            21.9165,
+            48.9365
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:20",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Das Schloss beherbergt heute das Vihorlat-Museum. Planen Sie genug Zeit für die Ausstellungen ein.",
+            "hu": "A kastély ad otthont a Vihorlat Múzeumnak. Tervezzen elég időt a kiállításokra.",
+            "ro": "Castelul găzduiește astăzi Muzeul Vihorlat. Planificați suficient timp pentru expoziții.",
+            "en": "The castle now houses the Vihorlat Museum. Plan enough time for the exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Freilichtmuseum (Skanzen)",
+            "hu": "Skanzen (Szabadtéri Néprajzi Múzeum)",
+            "ro": "Muzeul în aer liber (Skanzen)",
+            "en": "Open-Air Museum (Skanzen)"
+          },
+          "coords": [
+            21.9178,
+            48.9372
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Direkt neben dem Schloss. Ein faszinierender Einblick in das ländliche Leben der Region.",
+            "hu": "Közvetlenül a kastély mellett. Lenyűgöző bepillantás a régió vidéki életébe.",
+            "ro": "Chiar lângă castel. O perspectivă fascinantă asupra vieții rurale din regiune.",
+            "en": "Right next to the castle. A fascinating insight into the rural life of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlosspark",
+            "hu": "Kastélypark",
+            "ro": "Parcul castelului",
+            "en": "Castle Park"
+          },
+          "coords": [
+            21.9155,
+            48.9355
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:05",
+          "stay_min": 105,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für einen entspannten Spaziergang nach dem Museumsbesuch.",
+            "hu": "Tökéletes hely egy pihentető sétára a múzeumlátogatás után.",
+            "ro": "Un loc perfect pentru o plimbare relaxantă după vizitarea muzeului.",
+            "en": "A perfect place for a relaxing walk after the museum visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Humenné beginnt am belebten Freiheitsplatz, dem Herzen der Stadt. Nach einem kurzen Spaziergang zu den charmanten Statuen der Stadt tauchen Sie in der Allerheiligenkirche in die sakrale Geschichte ein. Am Nachmittag erkunden Sie das prächtige Schloss Humenné und das angrenzende Freilichtmuseum, die beide einen tiefen Einblick in die regionale Kultur und Geschichte bieten. Der Tag endet mit einem entspannten Spaziergang durch den Schlosspark, wo Sie die gesammelten Eindrücke Revue passieren lassen können.",
+        "hu": "A homonnai nap a város szívében, a nyüzsgő Szabadság téren kezdődik. Miután tett egy rövid sétát a város bájos szobraihoz, elmerülhet a Mindenszentek-templom szakrális történelmében. Délután felfedezi a csodálatos Homonnai kastélyt és a szomszédos skanzent, amelyek mély betekintést nyújtanak a regionális kultúrába és történelembe. A nap egy pihentető sétával zárul a kastélyparkban, ahol átgondolhatja a gyűjtött benyomásokat.",
+        "ro": "Ziua dumneavoastră în Humenné începe în Piața Libertății, inima orașului. După o scurtă plimbare la statuile fermecătoare ale orașului, vă veți cufunda în istoria sacră la Biserica Tuturor Sfinților. După-amiaza, explorați magnificul Castel Humenné și muzeul în aer liber adiacent, ambele oferind o perspectivă profundă asupra culturii și istoriei regionale. Ziua se încheie cu o plimbare relaxantă prin Parcul Castelului, unde puteți reflecta asupra impresiilor adunate.",
+        "en": "Your day in Humenné begins at the lively Freedom Square, the heart of the city. After a short walk to the city's charming statues, you'll delve into sacred history at the All Saints' Church. In the afternoon, you explore the magnificent Humenné Castle and the adjacent open-air museum, both offering a deep insight into regional culture and history. The day concludes with a relaxing stroll through the Castle Park, where you can reflect on your experiences."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Probieren Sie die slowakischen Nationalgerichte in einem der Restaurants nahe dem Zentrum, z.B. im Restaurant Biela Dama."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bryndzové halušky (juhtúrós galuska)",
+            "tip": "Kóstolja meg Szlovákia nemzeti ételét a központhoz közeli éttermek egyikében, például a Biela Dama étteremben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Încercați mâncarea națională slovacă la unul dintre restaurantele din apropierea centrului, de exemplu la Restaurant Biela Dama."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bryndzové halušky (sheep cheese dumplings)",
+            "tip": "Try the Slovak national dish in one of the restaurants near the center, for example at Restaurant Biela Dama."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlosspark",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die Natur.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Laborec",
+            "tip": "Ein Spaziergang entlang des Flusses kann sehr beruhigend sein.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kastélypark",
+            "tip": "Keressen egy csendes padot, és élvezze a természetet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Laborc folyó partja",
+            "tip": "Egy séta a folyó mentén nagyon megnyugtató lehet.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul castelului",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de natură.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malurile râului Laborec",
+            "tip": "O plimbare de-a lungul râului poate fi foarte liniștitoare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Park",
+            "tip": "Find a quiet bench and enjoy the nature.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the Laborec River",
+            "tip": "A walk along the river can be very calming.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerkskunst",
+            "tip": "Suchen Sie nach handgemachten Souvenirs, besonders nach Holzschnitzereien aus der Region Zemplín."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen kézzel készített ajándéktárgyakat, különösen a zempléni régióból származó fafaragásokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați suveniruri lucrate manual, în special sculpturi în lemn din regiunea Zemplín."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local crafts",
+            "tip": "Look for handmade souvenirs, especially wood carvings from the Zemplín region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag auf den Beinen sein werden.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus, besonders außerhalb der Saison."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap talpon lesz.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét, különösen a főszezonon kívül."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți fi în picioare toată ziua.",
+          "Verificați în avans orele de deschidere ale muzeelor, mai ales în afara sezonului."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be on your feet all day.",
+          "Check the opening hours of the museums in advance, especially outside the main season."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 10.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Freiheitsplatz & Statuen",
+            "hu": "Szabadság tér és a szobrok",
+            "ro": "Piața Libertății și statuile",
+            "en": "Freedom Square & Statues"
+          },
+          "coords": [
+            21.9079,
+            48.9362
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Rad an und erkunden Sie den Platz und die nahen Statuen zu Fuß.",
+            "hu": "Zárja le a biciklit, és fedezze fel a teret és a közeli szobrokat gyalog.",
+            "ro": "Legați-vă bicicleta și explorați piața și statuile din apropiere pe jos.",
+            "en": "Lock your bike and explore the square and nearby statues on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Allerheiligenkirche",
+            "hu": "Mindenszentek-templom",
+            "ro": "Biserica Tuturor Sfinților",
+            "en": "All Saints' Church"
+          },
+          "coords": [
+            21.9133,
+            48.9381
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt vom Hauptplatz entfernt. Einer der ältesten Bauten der Stadt.",
+            "hu": "Rövid biciklizésre a főtértől. A város egyik legrégebbi épülete.",
+            "ro": "La o scurtă plimbare cu bicicleta de piața principală. Una dintre cele mai vechi clădiri din oraș.",
+            "en": "A short bike ride from the main square. One of the oldest buildings in the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Humenné",
+            "hu": "Homonnai kastély",
+            "ro": "Castelul Humenné",
+            "en": "Humenné Castle"
+          },
+          "coords": [
+            21.9165,
+            48.9365
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:45",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der Radweg führt Sie direkt zum Schlosskomplex. Viel zu sehen!",
+            "hu": "A kerékpárút egyenesen a kastélykomplexumhoz vezet. Sok a látnivaló!",
+            "ro": "Pista de biciclete vă duce direct la complexul castelului. Multe de văzut!",
+            "en": "The bike path takes you directly to the castle complex. Lots to see!"
+          }
+        },
+        {
+          "name": {
+            "de": "Freilichtmuseum (Skanzen)",
+            "hu": "Skanzen (Szabadtéri Néprajzi Múzeum)",
+            "ro": "Muzeul în aer liber (Skanzen)",
+            "en": "Open-Air Museum (Skanzen)"
+          },
+          "coords": [
+            21.9178,
+            48.9372
+          ],
+          "category": "museums",
+          "arrive_at": "12:15",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad am Eingang ab und tauchen Sie in die Vergangenheit ein.",
+            "hu": "Hagyja a kerékpárt a bejáratnál, és merüljön el a múltban.",
+            "ro": "Lăsați-vă bicicleta la intrare și scufundați-vă în trecut.",
+            "en": "Leave your bike at the entrance and dive into the past."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlosspark",
+            "hu": "Kastélypark",
+            "ro": "Parcul castelului",
+            "en": "Castle Park"
+          },
+          "coords": [
+            21.9155,
+            48.9355
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fahren Sie eine gemütliche Runde durch den Park oder machen Sie ein Picknick.",
+            "hu": "Tegyen egy kényelmes kört a parkban, vagy piknikezzen egyet.",
+            "ro": "Faceți o plimbare lejeră prin parc sau un picnic.",
+            "en": "Take a leisurely ride through the park or have a picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Vihorlat-Sternwarte",
+            "hu": "Vihorlat Csillagvizsgáló",
+            "ro": "Observatorul Vihorlat",
+            "en": "Vihorlat Observatory"
+          },
+          "coords": [
+            21.925,
+            48.93
+          ],
+          "category": "natural features",
+          "arrive_at": "15:25",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Die Fahrt bergauf lohnt sich für die Aussicht und die wissenschaftlichen Einblicke.",
+            "hu": "Megéri feltekerni a hegyre a kilátásért és a tudományos betekintésért.",
+            "ro": "Urcarea merită pentru priveliște și perspectivele științifice.",
+            "en": "The uphill ride is worth it for the view and the scientific insights."
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück zum Zentrum",
+            "hu": "Vissza a központba",
+            "ro": "Înapoi în centru",
+            "en": "Back to the City Center"
+          },
+          "coords": [
+            21.9079,
+            48.9362
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:30",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour bei einem kühlen Getränk in einem der Cafés am Platz.",
+            "hu": "Fejezze be a túrát egy hűsítő itallal a tér egyik kávézójában.",
+            "ro": "Încheiați-vă turul cu o băutură rece la una dintre cafenelele din piață.",
+            "en": "End your tour with a cool drink at one of the cafes in the square."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Rad und starten Sie am Freiheitsplatz, bevor Sie zur historischen Allerheiligenkirche radeln. Die Hauptattraktion des Tages ist der Schlosskomplex, wo Sie das Schloss und das Freilichtmuseum besuchen. Nach einer entspannten Pause im Schlosspark wartet eine kleine Herausforderung: die Fahrt zur Vihorlat-Sternwarte, die mit einer tollen Aussicht belohnt wird. Die Tour endet gemütlich im Stadtzentrum.",
+        "hu": "Pattanjon biciklire, és induljon a Szabadság térről, mielőtt a történelmi Mindenszentek-templomhoz teker. A nap fő attrakciója a kastélykomplexum, ahol a kastélyt és a skanzent látogatja meg. A kastélyparkban tartott pihentető szünet után egy kis kihívás vár: a Vihorlat Csillagvizsgálóhoz vezető út, amelyet nagyszerű kilátás jutalmaz. A túra kényelmesen a városközpontban ér véget.",
+        "ro": "Urcați-vă pe bicicletă și porniți din Piața Libertății înainte de a pedala spre istorica Biserică a Tuturor Sfinților. Atracția principală a zilei este complexul castelului, unde veți vizita castelul și muzeul în aer liber. După o pauză relaxantă în parcul castelului, vă așteaptă o mică provocare: drumul spre Observatorul Vihorlat, care este răsplătit cu o priveliște minunată. Turul se încheie lejer în centrul orașului.",
+        "en": "Hop on your bike and start at Freedom Square before cycling to the historic All Saints' Church. The main attraction of the day is the castle complex, where you'll visit the castle and the open-air museum. After a relaxing break in the castle park, a small challenge awaits: the ride to the Vihorlat Observatory, which is rewarded with a great view. The tour ends leisurely in the city center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pirohy",
+            "tip": "Probieren Sie diese gefüllten Teigtaschen, eine weitere slowakische Spezialität. Ideal für eine schnelle Stärkung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pirohy (derelye)",
+            "tip": "Kóstolja meg ezeket a töltött táskákat, egy másik szlovák specialitást. Ideális egy gyors feltöltődéshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pirohy",
+            "tip": "Încercați aceste găluște umplute, o altă specialitate slovacă. Ideal pentru o gustare rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pirohy (filled dumplings)",
+            "tip": "Try these filled dumplings, another Slovak specialty. Ideal for a quick energy boost."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vihorlat-Sternwarte",
+            "tip": "Genießen Sie die Ruhe und den weiten Blick über die Stadt und die Landschaft.",
+            "emoji": "🔭"
+          },
+          {
+            "name": "Schlosspark",
+            "tip": "Ein idealer Ort für eine Pause im Grünen.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vihorlat Csillagvizsgáló",
+            "tip": "Élvezze a csendet és a városra és a tájra nyíló széles kilátást.",
+            "emoji": "🔭"
+          },
+          {
+            "name": "Kastélypark",
+            "tip": "Ideális hely egy szünetre a zöldben.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Observatorul Vihorlat",
+            "tip": "Bucurați-vă de liniște și de priveliștea panoramică asupra orașului și a peisajului.",
+            "emoji": "🔭"
+          },
+          {
+            "name": "Parcul Castelului",
+            "tip": "Un loc ideal pentru o pauză în natură.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vihorlat Observatory",
+            "tip": "Enjoy the tranquility and the wide view over the city and the landscape.",
+            "emoji": "🔭"
+          },
+          {
+            "name": "Castle Park",
+            "tip": "An ideal place for a break in the green.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Halten Sie Ausschau nach einem Markt, auf dem Sie frische Produkte und lokale Spezialitäten finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen egy piacot, ahol friss termékeket és helyi specialitásokat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați o piață unde puteți găsi produse proaspete și specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for a market where you can find fresh produce and local specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie ein gutes Fahrradschloss mit.",
+          "Einige Anstiege können anspruchsvoll sein, eine gute Gangschaltung ist von Vorteil."
+        ],
+        "hu": [
+          "Vigyen magával egy jó kerékpárzárat.",
+          "Néhány emelkedő megterhelő lehet, egy jó váltó előnyös."
+        ],
+        "ro": [
+          "Luați cu voi un lacăt bun pentru bicicletă.",
+          "Unele urcări pot fi solicitante, o transmisie bună este un avantaj."
+        ],
+        "en": [
+          "Bring a good bike lock.",
+          "Some climbs can be challenging, good gears are an advantage."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 9.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Stadtzentrum",
+            "hu": "1. klaszter: Városközpont",
+            "ro": "Cluster 1: Centrul orașului",
+            "en": "Cluster 1: City Center"
+          },
+          "coords": [
+            21.9079,
+            48.9362
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Freiheitsplatzes. Von hier aus erkunden Sie das Zentrum zu Fuß.",
+            "hu": "Parkoljon a Szabadság tér közelében. Innen gyalog fedezze fel a központot.",
+            "ro": "Parcați lângă Piața Libertății. De aici explorați centrul pe jos.",
+            "en": "Park near Freedom Square. From here, explore the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Statue des braven Soldaten Schwejk & Brunnen",
+            "hu": "Švejk szobra és a kút",
+            "ro": "Statuia lui Švejk și Fântâna",
+            "en": "Švejk Statue & Fountain"
+          },
+          "coords": [
+            21.9085,
+            48.9371
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:35",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz zu diesen ikonischen Sehenswürdigkeiten.",
+            "hu": "Rövid séta a főtérről ezekhez az ikonikus látnivalókhoz.",
+            "ro": "O scurtă plimbare de la piața principală la aceste obiective iconice.",
+            "en": "A short walk from the main square to these iconic sights."
+          }
+        },
+        {
+          "name": {
+            "de": "Allerheiligenkirche",
+            "hu": "Mindenszentek-templom",
+            "ro": "Biserica Tuturor Sfinților",
+            "en": "All Saints' Church"
+          },
+          "coords": [
+            21.9133,
+            48.9381
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:10",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die gotische Kirche ist nur wenige Gehminuten vom Platz entfernt.",
+            "hu": "A gótikus templom csak néhány perc sétára van a tértől.",
+            "ro": "Biserica gotică se află la doar câteva minute de mers pe jos de piață.",
+            "en": "The Gothic church is just a few minutes' walk from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Schlosskomplex",
+            "hu": "2. klaszter: Kastélykomplexum",
+            "ro": "Cluster 2: Complexul Castelului",
+            "en": "Cluster 2: Castle Complex"
+          },
+          "coords": [
+            21.9165,
+            48.9365
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:10",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Schloss und parken Sie dort. Das Museum ist im Schloss untergebracht.",
+            "hu": "Vezessen a kastélyhoz és parkoljon ott. A múzeum a kastélyban található.",
+            "ro": "Conduceți la castel și parcați acolo. Muzeul este găzduit în castel.",
+            "en": "Drive to the castle and park there. The museum is housed in the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Freilichtmuseum (Skanzen)",
+            "hu": "Skanzen (Szabadtéri Néprajzi Múzeum)",
+            "ro": "Muzeul în aer liber (Skanzen)",
+            "en": "Open-Air Museum (Skanzen)"
+          },
+          "coords": [
+            21.9178,
+            48.9372
+          ],
+          "category": "museums",
+          "arrive_at": "12:40",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Direkt neben dem Schloss gelegen, ein Muss für Geschichtsliebhaber.",
+            "hu": "Közvetlenül a kastély mellett található, kötelező a történelem szerelmeseinek.",
+            "ro": "Situat chiar lângă castel, este o vizită obligatorie pentru iubitorii de istorie.",
+            "en": "Located right next to the castle, a must-see for history lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Vihorlat-Sternwarte",
+            "hu": "3. klaszter: Vihorlat Csillagvizsgáló",
+            "ro": "Clusterul 3: Observatorul Vihorlat",
+            "en": "Cluster 3: Vihorlat Observatory"
+          },
+          "coords": [
+            21.925,
+            48.93
+          ],
+          "category": "natural features",
+          "arrive_at": "15:00",
+          "stay_min": 150,
+          "hop_mode": "car",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Abschluss des Tages zur Sternwarte für einen Panoramablick.",
+            "hu": "A nap végén vezessen el a csillagvizsgálóhoz egy panorámás kilátásért.",
+            "ro": "La sfârșitul zilei, conduceți la observator pentru o vedere panoramică.",
+            "en": "At the end of the day, drive to the observatory for a panoramic view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt im Herzen von Humenné. Parken Sie im Zentrum und erkunden Sie den Freiheitsplatz und die nahegelegene Kirche zu Fuß. Am Vormittag fahren Sie zum prächtigen Schlosskomplex. Dort parken Sie erneut und besuchen das Schloss und das faszinierende Freilichtmuseum. Den Nachmittag verbringen Sie etwas außerhalb bei der Vihorlat-Sternwarte, die nicht nur wissenschaftliche Einblicke, sondern auch eine fantastische Aussicht über die Region bietet, bevor Sie ins Zentrum zurückkehren.",
+        "hu": "Az autós nap Homonna szívében kezdődik. Parkoljon a központban, és fedezze fel gyalog a Szabadság teret és a közeli templomot. Délelőtt a csodálatos kastélykomplexumhoz hajt. Ott újra leparkol, és meglátogatja a kastélyt és a lenyűgöző skanzent. A délutánt kicsit kijjebb, a Vihorlat Csillagvizsgálónál tölti, amely nemcsak tudományos betekintést, hanem fantasztikus kilátást is nyújt a régióra, mielőtt visszatérne a központba.",
+        "ro": "Ziua cu mașina începe în inima orașului Humenné. Parcați în centru și explorați Piața Libertății și biserica din apropiere pe jos. Dimineața, conduceți la magnificul complex al castelului. Acolo parcați din nou și vizitați castelul și fascinantul muzeu în aer liber. După-amiaza o petreceți puțin în afara orașului, la Observatorul Vihorlat, care oferă nu numai perspective științifice, ci și o priveliște fantastică asupra regiunii, înainte de a vă întoarce în centru.",
+        "en": "Your car day begins in the heart of Humenné. Park in the center and explore Freedom Square and the nearby church on foot. In the morning, you drive to the magnificent castle complex. There you park again and visit the castle and the fascinating open-air museum. You spend the afternoon a little outside at the Vihorlat Observatory, which offers not only scientific insights but also a fantastic view over the region, before returning to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kapustnica",
+            "tip": "Eine traditionelle Sauerkrautsuppe, die besonders an kühleren Tagen wärmt. Suchen Sie nach einer 'Koliba' (traditionelles Restaurant) außerhalb des Zentrums."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kapustnica (káposztaleves)",
+            "tip": "Hagyományos savanyúkáposzta-leves, amely különösen a hűvösebb napokon melegít. Keressen egy 'Kolibát' (hagyományos étterem) a központon kívül."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kapustnica",
+            "tip": "O supă tradițională de varză acră care încălzește în special în zilele mai răcoroase. Căutați o 'Koliba' (restaurant tradițional) în afara centrului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kapustnica (cabbage soup)",
+            "tip": "A traditional sauerkraut soup that is especially warming on cooler days. Look for a 'Koliba' (traditional restaurant) outside the center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vihorlat-Sternwarte",
+            "tip": "Der perfekte Ort, um dem städtischen Trubel zu entfliehen und die Weite zu genießen.",
+            "emoji": "🔭"
+          },
+          {
+            "name": "Schlosspark",
+            "tip": "Auch mit dem Auto gut erreichbar für eine ruhige Pause.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vihorlat Csillagvizsgáló",
+            "tip": "Tökéletes hely a városi nyüzsgés elől való meneküléshez és a tágasság élvezetéhez.",
+            "emoji": "🔭"
+          },
+          {
+            "name": "Kastélypark",
+            "tip": "Autóval is könnyen megközelíthető egy csendes pihenőre.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Observatorul Vihorlat",
+            "tip": "Locul perfect pentru a scăpa de agitația orașului și a vă bucura de vastitate.",
+            "emoji": "🔭"
+          },
+          {
+            "name": "Parcul Castelului",
+            "tip": "Ușor accesibil și cu mașina pentru o pauză liniștită.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vihorlat Observatory",
+            "tip": "The perfect place to escape the hustle and bustle of the city and enjoy the vastness.",
+            "emoji": "🔭"
+          },
+          {
+            "name": "Castle Park",
+            "tip": "Also easily accessible by car for a quiet break.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Regionale Produkte",
+            "tip": "Nutzen Sie das Auto, um Hofläden in der Umgebung zu besuchen und lokale Produkte wie Honig oder Käse zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Regionális termékek",
+            "tip": "Használja az autót a környékbeli termelői boltok felkeresésére, és vásároljon helyi termékeket, például mézet vagy sajtot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse regionale",
+            "tip": "Folosiți mașina pentru a vizita magazinele fermelor din zonă și pentru a cumpăra produse locale precum miere sau brânză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Regional products",
+            "tip": "Use the car to visit farm shops in the area and buy local products like honey or cheese."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich über Parkmöglichkeiten und -gebühren im Stadtzentrum.",
+          "Tanken Sie, bevor Sie die Stadt verlassen, wenn Sie weitere Ausflüge in die ländliche Umgebung planen."
+        ],
+        "hu": [
+          "Tájékozódjon a parkolási lehetőségekről és díjakról a városközpontban.",
+          "Tankoljon, mielőtt elhagyja a várost, ha további kirándulásokat tervez a vidéki környezetbe."
+        ],
+        "ro": [
+          "Informați-vă despre opțiunile de parcare și taxele din centrul orașului.",
+          "Alimentați înainte de a părăsi orașul dacă plănuiți excursii suplimentare în zona rurală."
+        ],
+        "en": [
+          "Find out about parking options and fees in the city center.",
+          "Refuel before leaving the city if you plan further trips into the rural surroundings."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Ankunft am Freiheitsplatz",
+            "hu": "1. klaszter: Érkezés a Szabadság térre",
+            "ro": "Cluster 1: Sosire în Piața Libertății",
+            "en": "Cluster 1: Arrival at Freedom Square"
+          },
+          "coords": [
+            21.9079,
+            48.9362
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Hauptplatz (Námestie slobody), dem idealen Ausgangspunkt.",
+            "hu": "Menjen busszal a főtérre (Námestie slobody), amely ideális kiindulópont.",
+            "ro": "Luați un autobuz până în piața principală (Námestie slobody), punctul de plecare ideal.",
+            "en": "Take a bus to the main square (Námestie slobody), the ideal starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang: Statuen & Allerheiligenkirche",
+            "hu": "Séta: Szobrok és Mindenszentek-templom",
+            "ro": "Plimbare: Statui și Biserica Tuturor Sfinților",
+            "en": "Walk: Statues & All Saints' Church"
+          },
+          "coords": [
+            21.9133,
+            48.9381
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Vom Platz aus sind die Statuen und die Kirche leicht zu Fuß erreichbar.",
+            "hu": "A térről a szobrok és a templom könnyen megközelíthetőek gyalog.",
+            "ro": "Din piață, statuile și biserica sunt ușor accesibile pe jos.",
+            "en": "From the square, the statues and the church are easily accessible on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Bus zum Schlosskomplex",
+            "hu": "2. klaszter: Busszal a kastélykomplexumhoz",
+            "ro": "Cluster 2: Autobuz spre Complexul Castelului",
+            "en": "Cluster 2: Bus to the Castle Complex"
+          },
+          "coords": [
+            21.9165,
+            48.9365
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:10",
+          "stay_min": 80,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Eine kurze Busfahrt bringt Sie zum Schloss. Die Haltestelle ist in der Nähe.",
+            "hu": "Egy rövid buszút visz a kastélyhoz. A megálló a közelben van.",
+            "ro": "O scurtă călătorie cu autobuzul vă duce la castel. Stația este în apropiere.",
+            "en": "A short bus ride takes you to the castle. The stop is nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Freilichtmuseum (Skanzen)",
+            "hu": "Skanzen (Szabadtéri Néprajzi Múzeum)",
+            "ro": "Muzeul în aer liber (Skanzen)",
+            "en": "Open-Air Museum (Skanzen)"
+          },
+          "coords": [
+            21.9178,
+            48.9372
+          ],
+          "category": "museums",
+          "arrive_at": "12:40",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die traditionellen Häuser direkt neben dem Schloss.",
+            "hu": "Fedezze fel a hagyományos házakat közvetlenül a kastély mellett.",
+            "ro": "Explorați casele tradiționale chiar lângă castel.",
+            "en": "Explore the traditional houses right next to the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang im Schlosspark",
+            "hu": "Séta a Kastélyparkban",
+            "ro": "Plimbare în Parcul Castelului",
+            "en": "Stroll in the Castle Park"
+          },
+          "coords": [
+            21.9155,
+            48.9355
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:45",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag im weitläufigen Park ausklingen, bevor Sie einen Bus zurück nehmen.",
+            "hu": "Zárja a napot a tágas parkban, mielőtt visszabuszozna.",
+            "ro": "Încheiați ziua în parcul întins înainte de a lua un autobuz înapoi.",
+            "en": "End the day in the spacious park before taking a bus back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln starten Sie bequem am Freiheitsplatz. Ein kurzer Spaziergang führt Sie zu den wichtigsten Sehenswürdigkeiten des Zentrums. Anschließend bringt Sie ein Bus zum Schlosskomplex, wo Sie das Schloss und das Freilichtmuseum in Ihrem eigenen Tempo erkunden können. Der Nachmittag gehört der Entspannung im angrenzenden Schlosspark, einem grünen Juwel, von wo aus Sie leicht eine Verbindung für Ihre Rückfahrt finden.",
+        "hu": "Tömegközlekedéssel kényelmesen a Szabadság téren indulhat. Egy rövid séta elvezeti a központ legfontosabb látnivalóihoz. Ezután egy busz elviszi a kastélykomplexumhoz, ahol saját tempójában fedezheti fel a kastélyt és a skanzent. A délután a pihenésé a szomszédos kastélyparkban, egy zöld ékkőben, ahonnan könnyen talál csatlakozást a visszaúthoz.",
+        "ro": "Cu transportul public, începeți convenabil din Piața Libertății. O scurtă plimbare vă duce la principalele atracții din centru. Apoi, un autobuz vă duce la complexul castelului, unde puteți explora castelul și muzeul în aer liber în ritmul propriu. După-amiaza este dedicată relaxării în parcul adiacent al castelului, o bijuterie verde, de unde puteți găsi cu ușurință o legătură pentru călătoria de întoarcere.",
+        "en": "Using public transport, you can conveniently start at Freedom Square. A short walk takes you to the main sights of the center. Afterwards, a bus takes you to the castle complex, where you can explore the castle and the open-air museum at your own pace. The afternoon is dedicated to relaxing in the adjacent castle park, a green jewel, from where you can easily find a connection for your return journey."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokales Bier",
+            "tip": "Probieren Sie ein Bier aus einer der regionalen Brauereien, z.B. der Kaltenecker Brauerei, die für ihre Spezialbiere bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi sör",
+            "tip": "Kóstoljon meg egy sört a regionális sörfőzdék egyikéből, pl. a különleges söreiről ismert Kaltenecker Sörfőzdéből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Berea locală",
+            "tip": "Încercați o bere de la una dintre fabricile de bere regionale, de exemplu, berăria Kaltenecker, cunoscută pentru berile sale speciale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local beer",
+            "tip": "Try a beer from one of the regional breweries, e.g., the Kaltenecker brewery, known for its special beers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlosspark",
+            "tip": "Ein weitläufiger Park, der leicht mit dem Bus zu erreichen ist und viel Platz für Ruhe bietet.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kirchhof der Allerheiligenkirche",
+            "tip": "Ein oft übersehener, friedlicher Ort.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kastélypark",
+            "tip": "Tágas park, amely busszal könnyen megközelíthető, és sok helyet kínál a pihenésre.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "A Mindenszentek-templom kertje",
+            "tip": "Gyakran figyelmen kívül hagyott, békés hely.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului",
+            "tip": "Un parc spațios, ușor accesibil cu autobuzul, care oferă mult spațiu pentru liniște.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Curtea Bisericii Tuturor Sfinților",
+            "tip": "Un loc liniștit, adesea trecut cu vederea.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Park",
+            "tip": "A spacious park, easily accessible by bus, offering plenty of space for peace and quiet.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "All Saints' Churchyard",
+            "tip": "An often overlooked, peaceful place.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirladen im Schloss",
+            "tip": "Hier finden Sie Bücher und kleine Andenken zur Geschichte der Stadt und der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándékbolt a kastélyban",
+            "tip": "Itt könyveket és apró emléktárgyakat talál a város és a régió történelméről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de suveniruri din castel",
+            "tip": "Aici veți găsi cărți și mici suveniruri despre istoria orașului și a regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir shop in the castle",
+            "tip": "Here you will find books and small souvenirs about the history of the city and the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr, das ist oft günstiger.",
+          "Laden Sie den Fahrplan herunter oder nutzen Sie eine App, um die Verbindungen zu prüfen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, ez gyakran olcsóbb.",
+          "Töltse le a menetrendet, vagy használjon egy alkalmazást a csatlakozások ellenőrzéséhez."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public, este adesea mai ieftin.",
+          "Descărcați orarul sau folosiți o aplicație pentru a verifica conexiunile."
+        ],
+        "en": [
+          "Buy a day ticket for public transport, it is often cheaper.",
+          "Download the timetable or use an app to check connections."
+        ]
+      }
+    }
+  }
+}

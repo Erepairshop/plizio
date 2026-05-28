@@ -1,0 +1,1396 @@
+{
+  "city_id": "cyprus-agi-trimithias-cities-v2",
+  "anchor": {
+    "name": "Agioi Trimithias",
+    "coords": [
+      33.2285,
+      35.1466
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "15:47",
+      "total_km": 1.9,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Platz",
+            "hu": "Központi tér",
+            "ro": "Piața Centrală",
+            "en": "Central Square"
+          },
+          "coords": [
+            33.2285,
+            35.1466
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier mit einem zypriotischen Kaffee in einem der traditionellen Kafenions.",
+            "hu": "Kezdje a napot egy ciprusi kávéval a tér egyik hagyományos kafenionjában.",
+            "ro": "Începeți ziua cu o cafea cipriotă la una dintre cafenelele tradiționale din piață.",
+            "en": "Start your day here with a Cypriot coffee at one of the traditional kafenions."
+          }
+        },
+        {
+          "name": {
+            "de": "Gemeindebibliothek",
+            "hu": "Községi Könyvtár",
+            "ro": "Biblioteca Comunală",
+            "en": "Community Library"
+          },
+          "coords": [
+            33.2289,
+            35.147
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:41",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Werfen Sie einen Blick auf die lokale Literatur und vielleicht eine kleine historische Ausstellung.",
+            "hu": "Vessen egy pillantást a helyi irodalomra és esetleg egy kisebb történelmi kiállításra.",
+            "ro": "Aruncați o privire la literatura locală și poate la o mică expoziție istorică.",
+            "en": "Take a look at the local literature and perhaps a small historical exhibition."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Grundschule",
+            "hu": "Régi Általános Iskola",
+            "ro": "Școala Primară Veche",
+            "en": "Old Primary School"
+          },
+          "coords": [
+            33.2293,
+            35.1468
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:15",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein schönes Beispiel für die traditionelle Dorfarchitektur, heute ein Kulturdenkmal.",
+            "hu": "A hagyományos falusi építészet szép példája, ma már kulturális emlékmű.",
+            "ro": "Un exemplu frumos de arhitectură rurală tradițională, acum un monument cultural.",
+            "en": "A fine example of traditional village architecture, now a cultural monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Heiligen Trimithias",
+            "hu": "Szent Trimithias temploma",
+            "ro": "Biserica Sfinților din Trimithias",
+            "en": "Church of the Holy Trimithias"
+          },
+          "coords": [
+            33.2298,
+            35.1472
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:41",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Ikonostase und die ruhige Atmosphäre dieser wichtigen Dorfkirche.",
+            "hu": "Csodálja meg az ikonosztázt és a falu e fontos templomának békés légkörét.",
+            "ro": "Admirați iconostasul și atmosfera liniștită a acestei importante biserici sătești.",
+            "en": "Admire the iconostasis and the peaceful atmosphere of this important village church."
+          }
+        },
+        {
+          "name": {
+            "de": "Traditionelle Olivenpresse",
+            "hu": "Hagyományos Olajütő",
+            "ro": "Presa de Ulei Tradițională",
+            "en": "Traditional Olive Press"
+          },
+          "coords": [
+            33.228,
+            35.1455
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:31",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erfahren Sie, wie Olivenöl traditionell hergestellt wurde. Manchmal gibt es Verkostungen.",
+            "hu": "Ismerje meg, hogyan készült hagyományosan az olívaolaj. Néha kóstolót is tartanak.",
+            "ro": "Aflați cum se producea în mod tradițional uleiul de măsline. Uneori au loc degustări.",
+            "en": "Learn how olive oil was traditionally produced. Sometimes there are tastings."
+          }
+        },
+        {
+          "name": {
+            "de": "Kriegsdenkmal",
+            "hu": "Háborús Emlékmű",
+            "ro": "Monumentul Eroilor",
+            "en": "War Memorial"
+          },
+          "coords": [
+            33.2275,
+            35.146
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:20",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Moment der Stille zum Gedenken an die lokalen Helden.",
+            "hu": "Egy csendes pillanat a helyi hősökre való emlékezéshez.",
+            "ro": "Un moment de reculegere în memoria eroilor locali.",
+            "en": "A moment of silence to commemorate the local heroes."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle des Agios Georgios",
+            "hu": "Szent György-kápolna",
+            "ro": "Capela Sfântului Gheorghe",
+            "en": "Chapel of Agios Georgios"
+          },
+          "coords": [
+            33.2265,
+            35.145
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:43",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Eine malerische, kleinere Kapelle, oft ein Ort großer Ruhe.",
+            "hu": "Egy festői, kisebb kápolna, gyakran a nagy béke helyszíne.",
+            "ro": "O capelă pitorească, mai mică, adesea un loc de mare liniște.",
+            "en": "A picturesque, smaller chapel, often a place of great tranquility."
+          }
+        },
+        {
+          "name": {
+            "de": "Gemeindepark",
+            "hu": "Községi Park",
+            "ro": "Parcul Comunal",
+            "en": "Community Park"
+          },
+          "coords": [
+            33.2278,
+            35.1448
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:40",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause im Schatten der Bäume oder ein kleines Picknick.",
+            "hu": "Tökéletes egy ebédszünetre a fák árnyékában vagy egy kis piknikre.",
+            "ro": "Perfect pentru o pauză de prânz la umbra copacilor sau un mic picnic.",
+            "en": "Perfect for a lunch break in the shade of the trees or a small picnic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Spaziergang durch Agioi Trimithias ist eine Reise in das Herz eines zypriotischen Dorfes. Der Morgen beginnt auf dem belebten Zentralplatz, gefolgt von einem Einblick in die lokale Kultur in der Bibliothek und der alten Schule. Gegen Mittag erkunden Sie die spirituelle Seite des Dorfes in seinen Kirchen, bevor Sie bei der alten Olivenpresse in die Vergangenheit eintauchen. Der Nachmittag lädt zu einem nachdenklichen Moment am Kriegsdenkmal und zur stillen Einkehr in der Agios-Georgios-Kapelle ein. Der Tag endet entspannt im grünen Gemeindepark.",
+        "hu": "Az Agioi Trimithias-i séta egy utazás egy ciprusi falu szívébe. A reggel a nyüzsgő központi téren kezdődik, majd betekintést nyerhet a helyi kultúrába a könyvtárban és a régi iskolában. Dél körül fedezze fel a falu spirituális oldalát a templomokban, mielőtt a régi olajütőnél elmerülne a múltban. A délután elgondolkodtató pillanatokra hív a háborús emlékműnél és csendes elmélkedésre az Agios Georgios-kápolnában. A nap a zöld községi parkban zárul.",
+        "ro": "O plimbare prin Agioi Trimithias este o călătorie în inima unui sat cipriot. Dimineața începe în Piața Centrală plină de viață, urmată de o incursiune în cultura locală la bibliotecă și la școala veche. Pe la prânz, explorați latura spirituală a satului în bisericile sale, înainte de a vă cufunda în trecut la vechea presă de ulei. După-amiaza invită la un moment de reflecție la Monumentul Eroilor și la reculegere tăcută la Capela Sf. Gheorghe. Ziua se încheie relaxant în parcul comunal.",
+        "en": "A walk through Agioi Trimithias is a journey into the heart of a Cypriot village. The morning begins in the lively Central Square, followed by a glimpse into local culture at the library and the old school. Around noon, you'll explore the spiritual side of the village in its churches before delving into the past at the old olive press. The afternoon calls for a thoughtful moment at the War Memorial and quiet contemplation at the Agios Georgios Chapel. The day concludes with relaxation in the green Community Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Taverna 'To Steki'",
+            "tip": "Probieren Sie das 'Meze', eine Auswahl vieler kleiner, lokaler Gerichte."
+          },
+          {
+            "name": "Kafenion O Platanos",
+            "tip": "Ideal für einen zypriotischen Kaffee und ein Stück 'Glyko tou koutaliou' (Löffelsüßigkeit)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "„To Steki” taverna",
+            "tip": "Kóstolja meg a „Meze”-t, amely számos apró, helyi fogásból álló válogatás."
+          },
+          {
+            "name": "Kafenion O Platanos",
+            "tip": "Ideális egy ciprusi kávéhoz és egy darab „Glyko tou koutaliou”-hoz (kanalas édesség)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Taverna 'To Steki'",
+            "tip": "Încercați 'Meze', o selecție de multe feluri de mâncare mici, locale."
+          },
+          {
+            "name": "Kafenion O Platanos",
+            "tip": "Ideal pentru o cafea cipriotă și o bucată de 'Glyko tou koutaliou' (dulceață la linguriță)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Taverna 'To Steki'",
+            "tip": "Try the 'Meze', a selection of many small, local dishes."
+          },
+          {
+            "name": "Kafenion O Platanos",
+            "tip": "Ideal for a Cypriot coffee and a piece of 'Glyko tou koutaliou' (spoon sweet)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gemeindepark",
+            "tip": "Finden Sie eine ruhige Bank unter den Eukalyptusbäumen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Umfeld der Agios Georgios Kapelle",
+            "tip": "Ein friedlicher Ort am Rande des Dorfes, ideal für eine kurze Pause.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Községi Park",
+            "tip": "Keressen egy csendes padot az eukaliptuszfák alatt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Az Agios Georgios-kápolna környéke",
+            "tip": "Békés hely a falu szélén, ideális egy rövid pihenőre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Comunal",
+            "tip": "Găsiți o bancă liniștită sub eucalipți.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Împrejurimile Capelei Sf. Gheorghe",
+            "tip": "Un loc pașnic la marginea satului, ideal pentru o scurtă pauză.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Community Park",
+            "tip": "Find a quiet bench under the eucalyptus trees.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Surroundings of Agios Georgios Chapel",
+            "tip": "A peaceful spot on the edge of the village, ideal for a short break.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Minimarkt",
+            "tip": "Kaufen Sie lokales Olivenöl, Honig oder handgemachte Halloumi."
+          },
+          {
+            "name": "Souvenirs an der Olivenpresse",
+            "tip": "Kleine Andenken und Produkte rund um die Olive."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kisbolt",
+            "tip": "Vásároljon helyi olívaolajat, mézet vagy kézzel készített halloumit."
+          },
+          {
+            "name": "Ajándéktárgyak az olajütőnél",
+            "tip": "Apró emléktárgyak és az olajbogyóval kapcsolatos termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Minimarket local",
+            "tip": "Cumpărați ulei de măsline local, miere sau halloumi artizanal."
+          },
+          {
+            "name": "Suveniruri la presa de ulei",
+            "tip": "Mici amintiri și produse legate de măsline."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local mini-market",
+            "tip": "Buy local olive oil, honey, or handmade halloumi."
+          },
+          {
+            "name": "Souvenirs at the Olive Press",
+            "tip": "Small keepsakes and products related to olives."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Straßen uneben sein können.",
+          "Nehmen Sie ausreichend Wasser mit, besonders in den Sommermonaten.",
+          "Ein Sonnenhut und Sonnencreme sind unerlässlich.",
+          "Respektieren Sie die Öffnungszeiten der Kirchen und kleiden Sie sich angemessen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az utcák egyenetlenek lehetnek.",
+          "Vigyen magával elegendő vizet, különösen a nyári hónapokban.",
+          "A kalap és a naptej elengedhetetlen.",
+          "Tartsa tiszteletben a templomok nyitvatartási idejét és öltözködjön megfelelően."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece străzile pot fi denivelate.",
+          "Luați suficientă apă, mai ales în lunile de vară.",
+          "O pălărie de soare și crema de protecție solară sunt esențiale.",
+          "Respectați programul bisericilor și îmbrăcați-vă corespunzător."
+        ],
+        "en": [
+          "Wear comfortable shoes as the streets can be uneven.",
+          "Bring plenty of water, especially during the summer months.",
+          "A sun hat and sunscreen are essential.",
+          "Respect the opening hours of the churches and dress appropriately."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "14:55",
+      "total_km": 2.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Platz",
+            "hu": "Központi tér",
+            "ro": "Piața Centrală",
+            "en": "Central Square"
+          },
+          "coords": [
+            33.2285,
+            35.1466
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und genießen Sie die Atmosphäre, bevor die Tour beginnt.",
+            "hu": "Parkolja le a kerékpárt, és élvezze a hangulatot a túra megkezdése előtt.",
+            "ro": "Parcați bicicleta și bucurați-vă de atmosferă înainte de a începe turul.",
+            "en": "Park your bike and soak in the atmosphere before starting the tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Heiligen Trimithias",
+            "hu": "Szent Trimithias temploma",
+            "ro": "Biserica Sfinților din Trimithias",
+            "en": "Church of the Holy Trimithias"
+          },
+          "coords": [
+            33.2298,
+            35.1472
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die Hauptkirche des Dorfes, leicht mit dem Fahrrad zu erreichen.",
+            "hu": "A falu főtemploma, kerékpárral könnyen megközelíthető.",
+            "ro": "Biserica principală a satului, ușor accesibilă cu bicicleta.",
+            "en": "The main church of the village, easily accessible by bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Grundschule",
+            "hu": "Régi Általános Iskola",
+            "ro": "Școala Primară Veche",
+            "en": "Old Primary School"
+          },
+          "coords": [
+            33.2293,
+            35.1468
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:20",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Halt, um die traditionelle Steinarchitektur zu bewundern.",
+            "hu": "Egy rövid megálló a hagyományos kőépítészet megcsodálására.",
+            "ro": "O scurtă oprire pentru a admira arhitectura tradițională din piatră.",
+            "en": "A quick stop to admire the traditional stone architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Gemeindebibliothek",
+            "hu": "Községi Könyvtár",
+            "ro": "Biblioteca Comunală",
+            "en": "Community Library"
+          },
+          "coords": [
+            33.2289,
+            35.147
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:42",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und entdecken Sie lokale Geschichten.",
+            "hu": "Zárja le a kerékpárt, és fedezze fel a helyi történeteket.",
+            "ro": "Încuiați-vă bicicleta și descoperiți poveștile locale.",
+            "en": "Lock up your bike and discover local stories."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle des Agios Georgios",
+            "hu": "Szent György-kápolna",
+            "ro": "Capela Sfântului Gheorghe",
+            "en": "Chapel of Agios Georgios"
+          },
+          "coords": [
+            33.2265,
+            35.145
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:17",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Eine angenehme Fahrt zu dieser ruhigen Kapelle am Dorfrand.",
+            "hu": "Kellemes utazás ehhez a csendes kápolnához a falu szélén.",
+            "ro": "O plimbare plăcută până la această capelă liniștită de la marginea satului.",
+            "en": "A pleasant ride to this quiet chapel on the outskirts of the village."
+          }
+        },
+        {
+          "name": {
+            "de": "Kriegsdenkmal",
+            "hu": "Háborús Emlékmű",
+            "ro": "Monumentul Eroilor",
+            "en": "War Memorial"
+          },
+          "coords": [
+            33.2275,
+            35.146
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:44",
+          "stay_min": 15,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer, respektvoller Halt auf Ihrer Route.",
+            "hu": "Rövid, tiszteletteljes megálló az útvonalon.",
+            "ro": "O oprire scurtă și respectuoasă pe traseul dumneavoastră.",
+            "en": "A short, respectful stop on your route."
+          }
+        },
+        {
+          "name": {
+            "de": "Traditionelle Olivenpresse",
+            "hu": "Hagyományos Olajütő",
+            "ro": "Presa de Ulei Tradițională",
+            "en": "Traditional Olive Press"
+          },
+          "coords": [
+            33.228,
+            35.1455
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:01",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und nehmen Sie an einer Führung teil, falls verfügbar.",
+            "hu": "Parkolja le a kerékpárt, és vegyen részt egy vezetett túrán, ha van rá lehetőség.",
+            "ro": "Parcați-vă bicicleta și participați la un tur ghidat, dacă este disponibil.",
+            "en": "Park your bike and join a guided tour if available."
+          }
+        },
+        {
+          "name": {
+            "de": "Gemeindepark",
+            "hu": "Községi Park",
+            "ro": "Parcul Comunal",
+            "en": "Community Park"
+          },
+          "coords": [
+            33.2278,
+            35.1448
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:18",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Der ideale Ort, um die Radtour mit einem Mittagessen und Entspannung ausklingen zu lassen.",
+            "hu": "Ideális hely a kerékpártúra befejezéséhez egy ebéddel és pihenéssel.",
+            "ro": "Locul ideal pentru a încheia turul cu bicicleta cu prânz și relaxare.",
+            "en": "The ideal place to end the bike tour with lunch and relaxation."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Agioi Trimithias auf zwei Rädern. Der Morgen führt Sie vom zentralen Platz zu den wichtigsten kulturellen und religiösen Stätten. Die Flexibilität des Fahrrads ermöglicht es Ihnen, auch die etwas abgelegenere Kapelle Agios Georgios mühelos zu erreichen. Gegen Mittag entdecken Sie das industrielle Erbe in der Olivenpresse. Der Nachmittag ist für eine wohlverdiente Pause im Gemeindepark reserviert, wo Sie die Eindrücke des Tages Revue passieren lassen können.",
+        "hu": "Fedezze fel Agioi Trimithiast két keréken. A reggel a központi térről a legfontosabb kulturális és vallási helyszínekre vezet. A kerékpár rugalmassága lehetővé teszi, hogy könnyedén elérje a kissé távolabb eső Agios Georgios-kápolnát is. Dél körül fedezze fel az olajütő ipari örökségét. A délután egy jól megérdemelt pihenőre van fenntartva a községi parkban, ahol áttekintheti a nap benyomásait.",
+        "ro": "Explorați Agioi Trimithias pe două roți. Dimineața vă poartă din piața centrală către cele mai importante situri culturale și religioase. Flexibilitatea bicicletei vă permite să ajungeți fără efort chiar și la capela mai îndepărtată Agios Georgios. În jurul prânzului, descoperiți patrimoniul industrial la presa de ulei. După-amiaza este rezervată unei pauze binemeritate în parcul comunal, unde puteți recapitula impresiile zilei.",
+        "en": "Explore Agioi Trimithias on two wheels. The morning takes you from the central square to the most important cultural and religious sites. The flexibility of the bicycle allows you to effortlessly reach the slightly more remote Agios Georgios Chapel. Around noon, discover the industrial heritage at the olive press. The afternoon is reserved for a well-deserved break in the community park, where you can review the day's impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Taverna 'To Steki'",
+            "tip": "Stärken Sie sich mit gegrilltem Halloumi und einem Dorfsalat."
+          },
+          {
+            "name": "Bäckerei im Dorfzentrum",
+            "tip": "Ein schneller und leckerer Snack wie 'Eliopita' (Olivenkuchen)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "„To Steki” taverna",
+            "tip": "Erősítse meg magát grillezett halloumival és egy falusi salátával."
+          },
+          {
+            "name": "Pékség a falu központjában",
+            "tip": "Egy gyors és finom harapnivaló, mint az „Eliopita” (olívasütemény)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Taverna 'To Steki'",
+            "tip": "Întăriți-vă cu halloumi la grătar și o salată de sat."
+          },
+          {
+            "name": "Brutăria din centrul satului",
+            "tip": "O gustare rapidă și delicioasă, cum ar fi 'Eliopita' (plăcintă cu măsline)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Taverna 'To Steki'",
+            "tip": "Refuel with grilled halloumi and a village salad."
+          },
+          {
+            "name": "Bakery in the village center",
+            "tip": "A quick and tasty snack like 'Eliopita' (olive pie)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Feldweg hinter der Kapelle",
+            "tip": "Eine kurze Fahrt ins Grüne für einen Moment der Stille.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gemeindepark",
+            "tip": "Legen Sie Ihr Fahrrad ab und genießen Sie die Ruhe im Schatten.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Földút a kápolna mögött",
+            "tip": "Egy rövid út a zöldbe egy csendes pillanatért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Községi Park",
+            "tip": "Tegye le a kerékpárt, és élvezze a csendet az árnyékban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drum de țară în spatele capelei",
+            "tip": "O scurtă plimbare în natură pentru un moment de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Comunal",
+            "tip": "Lăsați bicicleta deoparte și bucurați-vă de liniște la umbră.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Country lane behind the chapel",
+            "tip": "A short ride into the countryside for a moment of silence.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Community Park",
+            "tip": "Set your bike aside and enjoy the peace in the shade.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Minimarkt",
+            "tip": "Kaufen Sie eine Flasche lokalen Wein oder Zivania als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kisbolt",
+            "tip": "Vásároljon egy üveg helyi bort vagy Zivaniát ajándékba."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Minimarket local",
+            "tip": "Cumpărați o sticlă de vin local sau Zivania ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local mini-market",
+            "tip": "Buy a bottle of local wine or Zivania as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck vor der Abfahrt.",
+          "Ein Fahrradschloss ist empfehlenswert.",
+          "Das Dorf ist klein, aber einige Gassen können steil sein.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit; es gibt öffentliche Brunnen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Kerékpárzár használata ajánlott.",
+          "A falu kicsi, de néhány sikátor meredek lehet.",
+          "Vigyen magával újratölthető vizes palackot; vannak nyilvános kutak."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de a pleca.",
+          "Se recomandă un lacăt pentru bicicletă.",
+          "Satul este mic, dar unele alei pot fi abrupte.",
+          "Luați o sticlă de apă reutilizabilă; există fântâni publice."
+        ],
+        "en": [
+          "Check your tire pressure before setting off.",
+          "A bicycle lock is recommended.",
+          "The village is small, but some alleys can be steep.",
+          "Bring a reusable water bottle; there are public fountains."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 1.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Zentralplatz",
+            "hu": "Parkoló a Központi térnél",
+            "ro": "Parcare la Piața Centrală",
+            "en": "Parking at the Central Square"
+          },
+          "coords": [
+            33.2283,
+            35.1463
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier Ihr Auto für den ersten Teil des Dorfrundgangs.",
+            "hu": "Parkolja le itt az autóját a falusi séta első részéhez.",
+            "ro": "Parcați mașina aici pentru prima parte a turului satului.",
+            "en": "Park your car here for the first part of the village tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentraler Platz",
+            "hu": "Központi tér",
+            "ro": "Piața Centrală",
+            "en": "Central Square"
+          },
+          "coords": [
+            33.2285,
+            35.1466
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:22",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Der Ausgangspunkt für die Erkundung des Dorfkerns zu Fuß.",
+            "hu": "A falu központjának gyalogos felfedezésének kiindulópontja.",
+            "ro": "Punctul de plecare pentru explorarea centrului satului pe jos.",
+            "en": "The starting point for exploring the village center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Heiligen Trimithias",
+            "hu": "Szent Trimithias temploma",
+            "ro": "Biserica Sfinților din Trimithias",
+            "en": "Church of the Holy Trimithias"
+          },
+          "coords": [
+            33.2298,
+            35.1472
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:56",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz zur beeindruckenden Hauptkirche.",
+            "hu": "Rövid séta a tértől a lenyűgöző főtemplomig.",
+            "ro": "O scurtă plimbare de la piață la impresionanta biserică principală.",
+            "en": "A short walk from the square to the impressive main church."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Grundschule & Bibliothek",
+            "hu": "Régi Iskola és Könyvtár",
+            "ro": "Școala Veche și Biblioteca",
+            "en": "Old School & Library"
+          },
+          "coords": [
+            33.2291,
+            35.1469
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:40",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Diese beiden Kulturstätten liegen direkt beieinander.",
+            "hu": "Ez a két kulturális helyszín közvetlenül egymás mellett található.",
+            "ro": "Aceste două situri culturale sunt situate chiar una lângă cealaltă.",
+            "en": "These two cultural sites are located right next to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Traditionelle Olivenpresse",
+            "hu": "Hagyományos Olajütő",
+            "ro": "Presa de Ulei Tradițională",
+            "en": "Traditional Olive Press"
+          },
+          "coords": [
+            33.228,
+            35.1455
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:28",
+          "stay_min": 50,
+          "hop_mode": "car",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Fahren Sie zum zweiten Cluster. Hier gibt es meist eigene Parkmöglichkeiten.",
+            "hu": "Vezessen a második fürthöz. Itt általában van saját parkoló.",
+            "ro": "Conduceți la al doilea cluster. De obicei, există parcare proprie aici.",
+            "en": "Drive to the second cluster. There is usually dedicated parking here."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle des Agios Georgios",
+            "hu": "Szent György-kápolna",
+            "ro": "Capela Sfântului Gheorghe",
+            "en": "Chapel of Agios Georgios"
+          },
+          "coords": [
+            33.2265,
+            35.145
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:22",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Vom Parkplatz der Olivenpresse aus leicht zu Fuß erreichbar.",
+            "hu": "Könnyen megközelíthető gyalog az olajütő parkolójából.",
+            "ro": "Ușor accesibil pe jos de la parcarea presei de ulei.",
+            "en": "Easily accessible on foot from the olive press car park."
+          }
+        },
+        {
+          "name": {
+            "de": "Gemeindepark & Kriegsdenkmal",
+            "hu": "Községi Park és Emlékmű",
+            "ro": "Parcul Comunal și Monumentul",
+            "en": "Community Park & Memorial"
+          },
+          "coords": [
+            33.2276,
+            35.1454
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:59",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem entspannten Mittagessen und einem Spaziergang im Park.",
+            "hu": "Zárja a napot egy pihentető ebéddel és egy sétával a parkban.",
+            "ro": "Încheiați ziua cu un prânz relaxant și o plimbare în parc.",
+            "en": "End the day with a relaxing lunch and a walk in the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto lässt sich Agioi Trimithias flexibel erkunden. Parken Sie im Zentrum und entdecken Sie den historischen Kern mit Platz, Kirche und Schule zu Fuß. Am Vormittag erleben Sie das dörfliche Leben hautnah. Für den zweiten Teil des Tages fahren Sie eine kurze Strecke zur traditionellen Olivenpresse. Von dort aus sind die malerische Kapelle und der ruhige Gemeindepark ebenfalls bequem zu Fuß erreichbar, was den Nachmittag zu einer entspannten Angelegenheit macht.",
+        "hu": "Autóval rugalmasan felfedezheti Agioi Trimithiast. Parkoljon a központban, és fedezze fel gyalog a történelmi magot a térrel, a templommal és az iskolával. Délelőtt testközelből tapasztalhatja meg a falusi életet. A nap második részében tegyen egy rövid utat a hagyományos olajütőhöz. Onnan a festői kápolna és a csendes községi park is könnyen megközelíthető gyalog, ami a délutánt pihentetővé teszi.",
+        "ro": "Cu mașina, puteți explora Agioi Trimithias în mod flexibil. Parcați în centru și descoperiți nucleul istoric cu piața, biserica și școala pe jos. Dimineața veți experimenta viața satului de aproape. Pentru a doua parte a zilei, faceți o scurtă călătorie cu mașina până la presa de ulei tradițională. De acolo, capela pitorească și parcul comunal liniștit sunt, de asemenea, ușor accesibile pe jos, făcând după-amiaza o afacere relaxantă.",
+        "en": "With a car, you can explore Agioi Trimithias flexibly. Park in the center and discover the historic core with its square, church, and school on foot. In the morning, you'll experience village life up close. For the second part of the day, take a short drive to the traditional olive press. From there, the picturesque chapel and the quiet community park are also easily accessible on foot, making the afternoon a relaxing affair."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Taverna 'To Steki'",
+            "tip": "Perfekt für ein ausgiebiges Mittagessen nach dem ersten Spaziergang. Probieren Sie Kleftiko."
+          },
+          {
+            "name": "Picknick im Gemeindepark",
+            "tip": "Kaufen Sie lokale Produkte und genießen Sie ein Mittagessen im Freien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "„To Steki” taverna",
+            "tip": "Tökéletes egy kiadós ebédre az első séta után. Kóstolja meg a Kleftikót."
+          },
+          {
+            "name": "Piknik a Községi Parkban",
+            "tip": "Vásároljon helyi termékeket, és ebédeljen a szabadban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Taverna 'To Steki'",
+            "tip": "Perfect pentru un prânz copios după prima plimbare. Încercați Kleftiko."
+          },
+          {
+            "name": "Picnic în Parcul Comunal",
+            "tip": "Cumpărați produse locale și bucurați-vă de un prânz în aer liber."
+          }
+        ],
+        "en": [
+          {
+            "name": "Taverna 'To Steki'",
+            "tip": "Perfect for a hearty lunch after the first walk. Try the Kleftiko."
+          },
+          {
+            "name": "Picnic in the Community Park",
+            "tip": "Buy local products and enjoy an outdoor lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Agios Georgios Kapelle",
+            "tip": "Ein Ort der Stille, etwas abseits vom Dorfkern.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Eine Bank im Gemeindepark",
+            "tip": "Lesen Sie ein Buch oder beobachten Sie einfach das Dorfleben.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent György-kápolna",
+            "tip": "A csend helye, kissé távolabb a falu központjától.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Egy pad a Községi Parkban",
+            "tip": "Olvasson egy könyvet, vagy csak figyelje a falusi életet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capela Sfântului Gheorghe",
+            "tip": "Un loc de liniște, puțin departe de centrul satului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "O bancă în Parcul Comunal",
+            "tip": "Citiți o carte sau pur și simplu priviți viața satului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Agios Georgios Chapel",
+            "tip": "A place of silence, a little away from the village center.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A bench in the Community Park",
+            "tip": "Read a book or just watch the village life.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Verkauf an der Olivenpresse",
+            "tip": "Kaufen Sie preisgekröntes natives Olivenöl extra direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Eladás az olajütőnél",
+            "tip": "Vásároljon díjnyertes extra szűz olívaolajat közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vânzare la presa de ulei",
+            "tip": "Cumpărați ulei de măsline extravirgin premiat direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sale at the Olive Press",
+            "tip": "Buy award-winning extra virgin olive oil directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken im Dorf ist in der Regel kostenlos, aber achten Sie auf Beschilderungen.",
+          "Die Straßen können eng sein, fahren Sie vorsichtig.",
+          "Ein Auto ermöglicht auch Ausflüge in die nahe Umgebung nach dem Dorfbesuch.",
+          "Lassen Sie keine Wertsachen sichtbar im Auto liegen."
+        ],
+        "hu": [
+          "A faluban a parkolás általában ingyenes, de figyeljen a táblákra.",
+          "Az utcák szűkek lehetnek, vezessen óvatosan.",
+          "Az autó a falulátogatás után a közeli környékre is lehetővé teszi a kirándulásokat.",
+          "Ne hagyjon értéktárgyakat látható helyen az autóban."
+        ],
+        "ro": [
+          "Parcarea în sat este de obicei gratuită, dar fiți atenți la semne.",
+          "Străzile pot fi înguste, conduceți cu prudență.",
+          "O mașină permite, de asemenea, excursii în zona înconjurătoare după vizitarea satului.",
+          "Nu lăsați obiecte de valoare la vedere în mașină."
+        ],
+        "en": [
+          "Parking in the village is usually free, but pay attention to signs.",
+          "The streets can be narrow, drive carefully.",
+          "A car also allows for trips to the surrounding area after visiting the village.",
+          "Do not leave valuables visible in the car."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:47",
+      "total_km": 1.9,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft an der Bushaltestelle Agioi Trimithias",
+            "hu": "Érkezés az Agioi Trimithias buszmegállóba",
+            "ro": "Sosire la stația de autobuz Agioi Trimithias",
+            "en": "Arrival at Agioi Trimithias Bus Stop"
+          },
+          "coords": [
+            33.228,
+            35.147
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Steigen Sie hier aus; das Dorfzentrum ist nur wenige Schritte entfernt.",
+            "hu": "Szálljon ki itt; a falu központja csak néhány lépésre van.",
+            "ro": "Coborâți aici; centrul satului este la doar câțiva pași.",
+            "en": "Get off here; the village center is just a few steps away."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentraler Platz",
+            "hu": "Központi tér",
+            "ro": "Piața Centrală",
+            "en": "Central Square"
+          },
+          "coords": [
+            33.2285,
+            35.1466
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:17",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um nach der Busfahrt anzukommen und einen Kaffee zu trinken.",
+            "hu": "Tökéletes hely a buszozás utáni megérkezéshez és egy kávézáshoz.",
+            "ro": "Locul perfect pentru a ajunge după călătoria cu autobuzul și a bea o cafea.",
+            "en": "The perfect place to arrive after the bus ride and have a coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Gemeindebibliothek",
+            "hu": "Községi Könyvtár",
+            "ro": "Biblioteca Comunală",
+            "en": "Community Library"
+          },
+          "coords": [
+            33.2289,
+            35.147
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:48",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort, um in die lokale Kultur einzutauchen.",
+            "hu": "Csendes hely a helyi kultúrába való elmerüléshez.",
+            "ro": "Un loc liniștit pentru a vă cufunda în cultura locală.",
+            "en": "A quiet place to immerse yourself in local culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Grundschule",
+            "hu": "Régi Általános Iskola",
+            "ro": "Școala Primară Veche",
+            "en": "Old Primary School"
+          },
+          "coords": [
+            33.2293,
+            35.1468
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:22",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses historischen Gebäudes.",
+            "hu": "Csodálja meg e történelmi épület építészetét.",
+            "ro": "Admirați arhitectura acestei clădiri istorice.",
+            "en": "Admire the architecture of this historic building."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Heiligen Trimithias",
+            "hu": "Szent Trimithias temploma",
+            "ro": "Biserica Sfinților din Trimithias",
+            "en": "Church of the Holy Trimithias"
+          },
+          "coords": [
+            33.2298,
+            35.1472
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:48",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die spirituelle Herzkammer des Dorfes, ein Muss für jeden Besucher.",
+            "hu": "A falu spirituális szívkamrája, minden látogató számára kötelező.",
+            "ro": "Inima spirituală a satului, o necesitate pentru fiecare vizitator.",
+            "en": "The spiritual heart of the village, a must-see for every visitor."
+          }
+        },
+        {
+          "name": {
+            "de": "Traditionelle Olivenpresse",
+            "hu": "Hagyományos Olajütő",
+            "ro": "Presa de Ulei Tradițională",
+            "en": "Traditional Olive Press"
+          },
+          "coords": [
+            33.228,
+            35.1455
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:38",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein interessanter Spaziergang zur anderen Seite des Dorfes.",
+            "hu": "Érdekes séta a falu másik oldalára.",
+            "ro": "O plimbare interesantă spre cealaltă parte a satului.",
+            "en": "An interesting walk to the other side of the village."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle des Agios Georgios & Kriegsdenkmal",
+            "hu": "Szt. György kápolna és emlékmű",
+            "ro": "Capela Sf. Gheorghe & Monumentul Eroilor",
+            "en": "Agios Georgios Chapel & War Memorial"
+          },
+          "coords": [
+            33.227,
+            35.1455
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:31",
+          "stay_min": 35,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Zwei Orte der Besinnung, die eng beieinander liegen.",
+            "hu": "Két, egymáshoz közel fekvő elmélkedési hely.",
+            "ro": "Două locuri de contemplare situate aproape unul de celălalt.",
+            "en": "Two places of contemplation located close to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Gemeindepark",
+            "hu": "Községi Park",
+            "ro": "Parcul Comunal",
+            "en": "Community Park"
+          },
+          "coords": [
+            33.2278,
+            35.1448
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:38",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein idealer Ort zum Entspannen vor der Rückfahrt mit dem Bus.",
+            "hu": "Ideális hely a pihenésre a busz visszaútja előtt.",
+            "ro": "Un loc ideal pentru a vă relaxa înainte de a lua autobuzul înapoi.",
+            "en": "An ideal place to relax before taking the bus back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Anreise mit dem Bus bietet einen authentischen Einblick in das zypriotische Leben. Nach der Ankunft entfaltet sich das Dorf bei einem gemütlichen Spaziergang. Der Vormittag ist der Erkundung des kulturellen Zentrums gewidmet. Gegen Mittag führt der Weg zu den spirituellen Stätten und dem industriellen Erbe. Der Nachmittag bietet Zeit für ruhige Momente der Reflexion, bevor der Tag im Park ausklingt und Sie entspannt auf den Bus für die Rückfahrt warten.",
+        "hu": "A buszos utazás autentikus betekintést nyújt a ciprusi életbe. Érkezés után egy kellemes séta során bontakozik ki a falu. A délelőtt a kulturális központ felfedezésének van szentelve. Dél körül az út a spirituális helyekhez és az ipari örökséghez vezet. A délután időt kínál a csendes elmélkedés pillanataira, mielőtt a nap a parkban ér véget, és Ön nyugodtan várja a visszautazó buszt.",
+        "ro": "Călătoria cu autobuzul oferă o perspectivă autentică asupra vieții cipriote. La sosire, satul se dezvăluie în timpul unei plimbări relaxante. Dimineața este dedicată explorării centrului cultural. În jurul prânzului, drumul duce la siturile spirituale și la patrimoniul industrial. După-amiaza oferă timp pentru momente liniștite de reflecție, înainte ca ziua să se încheie în parc, așteptând relaxat autobuzul pentru călătoria de întoarcere.",
+        "en": "Arriving by bus offers an authentic insight into Cypriot life. Upon arrival, the village unfolds during a leisurely walk. The morning is dedicated to exploring the cultural center. Around noon, the path leads to the spiritual sites and industrial heritage. The afternoon offers time for quiet moments of reflection before the day ends in the park, waiting relaxed for the bus for the return journey."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Taverna 'To Steki'",
+            "tip": "Ein Muss für jeden, der mit öffentlichen Verkehrsmitteln anreist und das lokale Essen erleben möchte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "„To Steki” taverna",
+            "tip": "Kötelező mindenkinek, aki tömegközlekedéssel érkezik, és szeretné megtapasztalni a helyi ételeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Taverna 'To Steki'",
+            "tip": "O necesitate pentru oricine ajunge cu transportul public și dorește să experimenteze mâncarea locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Taverna 'To Steki'",
+            "tip": "A must for anyone arriving by public transport and wanting to experience the local food."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirchhof der Hauptkirche",
+            "tip": "Ein ruhiger, schattiger Platz zum Innehalten.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Gemeindepark",
+            "tip": "Entspannen Sie sich auf dem Gras und genießen Sie die Sonne.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A főtemplom udvara",
+            "tip": "Csendes, árnyékos hely a megállásra.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Községi Park",
+            "tip": "Pihenjen a fűben és élvezze a napsütést.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea bisericii principale",
+            "tip": "Un loc liniștit, umbrit, pentru a face o pauză.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Parcul Comunal",
+            "tip": "Relaxați-vă pe iarbă și bucurați-vă de soare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Courtyard of the main church",
+            "tip": "A quiet, shady place to pause.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Community Park",
+            "tip": "Relax on the grass and enjoy the sun.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Minimarkt",
+            "tip": "Ideal, um Snacks und Getränke für den Tag zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kisbolt",
+            "tip": "Ideális harapnivalók és italok vásárlására a napra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Minimarket local",
+            "tip": "Ideal pentru a cumpăra gustări și băuturi pentru o zi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local mini-market",
+            "tip": "Ideal for buying snacks and drinks for the day."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, da die Verbindungen in ländlichen Gebieten selten sein können.",
+          "Kaufen Sie Ihr Ticket beim Fahrer, halten Sie Kleingeld bereit.",
+          "Merken Sie sich die Zeit des letzten Busses zurück.",
+          "Genießen Sie die Landschaft während der Fahrt."
+        ],
+        "hu": [
+          "Előre ellenőrizze a buszmenetrendet, mivel a vidéki területeken ritkák lehetnek a járatok.",
+          "Vásárolja meg a jegyét a sofőrnél, tartson aprópénzt készenlétben.",
+          "Jegyezze meg az utolsó visszabuszt.",
+          "Élvezze a tájat az utazás során."
+        ],
+        "ro": [
+          "Verificați programul autobuzului în avans, deoarece serviciile în zonele rurale pot fi rare.",
+          "Cumpărați biletul de la șofer, pregătiți bani mărunți.",
+          "Notați ora ultimului autobuz de întoarcere.",
+          "Bucurați-vă de peisaj în timpul călătoriei."
+        ],
+        "en": [
+          "Check the bus schedule in advance, as services in rural areas can be infrequent.",
+          "Buy your ticket from the driver, have small change ready.",
+          "Note the time of the last bus back.",
+          "Enjoy the scenery during the ride."
+        ]
+      }
+    }
+  }
+}

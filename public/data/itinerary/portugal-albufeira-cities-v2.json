@@ -1,0 +1,1469 @@
+{
+  "city_id": "portugal-albufeira-cities-v2",
+  "anchor": {
+    "name": "Albufeira",
+    "coords": [
+      -8.2478,
+      37.0892
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:55",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt (Centro Antigo)",
+            "hu": "Óváros (Centro Antigo)",
+            "ro": "Centrul Vechi (Centro Antigo)",
+            "en": "Old Town (Centro Antigo)"
+          },
+          "coords": [
+            -8.251,
+            37.087
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den engen Gassen und entdecken Sie kleine, versteckte Boutiquen.",
+            "hu": "Vesszen el a szűk sikátorokban, és fedezzen fel rejtett kis butikokat.",
+            "ro": "Pierdeți-vă pe aleile înguste și descoperiți mici buticuri ascunse.",
+            "en": "Get lost in the narrow alleys and discover small, hidden boutiques."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm (Torre do Relógio)",
+            "hu": "Óratorony (Torre do Relógio)",
+            "ro": "Turnul cu Ceas (Torre do Relógio)",
+            "en": "Clock Tower (Torre do Relógio)"
+          },
+          "coords": [
+            -8.2515,
+            37.0875
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:15",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der Turm leuchtet nachts wunderschön und ist ein großartiges Fotomotiv.",
+            "hu": "A torony éjjel gyönyörűen ki van világítva, remek fotótéma.",
+            "ro": "Turnul este frumos iluminat noaptea, un subiect excelent pentru fotografii.",
+            "en": "The tower is beautifully lit up at night, making for a great photo opportunity."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Sebastian (Igreja de São Sebastião)",
+            "hu": "Szent Sebestyén-templom (Igreja de São Sebastião)",
+            "ro": "Biserica Sfântul Sebastian (Igreja de São Sebastião)",
+            "en": "Saint Sebastian's Church (Igreja de São Sebastião)"
+          },
+          "coords": [
+            -8.253,
+            37.088
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie das manuelinische Portal, ein seltenes architektonisches Juwel.",
+            "hu": "Csodálja meg a Mánuel stílusú portált, egy ritka építészeti gyöngyszemet.",
+            "ro": "Admirați portalul manuelin, o bijuterie arhitecturală rară.",
+            "en": "Admire the Manueline portal, a rare architectural gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtisches Archäologiemuseum",
+            "hu": "Városi Régészeti Múzeum",
+            "ro": "Muzeul Municipal de Arheologie",
+            "en": "Municipal Museum of Archeology"
+          },
+          "coords": [
+            -8.252,
+            37.087
+          ],
+          "category": "museums",
+          "arrive_at": "11:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die römischen Mosaike und die islamische Epoche.",
+            "hu": "Fókuszáljon a római mozaikokra és az iszlám korszak leleteire.",
+            "ro": "Concentrați-vă pe mozaicurile romane și pe perioada islamică.",
+            "en": "Focus on the Roman mosaics and the Islamic period collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Pau da Bandeira",
+            "hu": "Pau da Bandeira kilátó",
+            "ro": "Punct de belvedere Pau da Bandeira",
+            "en": "Pau da Bandeira Viewpoint"
+          },
+          "coords": [
+            -8.247,
+            37.086
+          ],
+          "category": "natural features",
+          "arrive_at": "13:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der beste Ort für einen Panoramablick auf den Fischerstrand und die Altstadt.",
+            "hu": "A legjobb hely a panorámás kilátáshoz a Halászok strandjára és az óvárosra.",
+            "ro": "Cel mai bun loc pentru o vedere panoramică asupra Plajei Pescarilor și a orașului vechi.",
+            "en": "The best spot for a panoramic view of Fisherman's Beach and the Old Town."
+          }
+        },
+        {
+          "name": {
+            "de": "Fischerstrand (Praia dos Pescadores)",
+            "hu": "Halászok strandja (Praia dos Pescadores)",
+            "ro": "Plaja Pescarilor (Praia dos Pescadores)",
+            "en": "Fisherman's Beach (Praia dos Pescadores)"
+          },
+          "coords": [
+            -8.249,
+            37.086
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:35",
+          "stay_min": 180,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Mieten Sie eine Sonnenliege und genießen Sie frische Meeresfrüchte in einem der Strandrestaurants.",
+            "hu": "Béreljen napozóágyat, és élvezze a friss tenger gyümölcseit a parti éttermek egyikében.",
+            "ro": "Închiriați un șezlong și savurați fructe de mare proaspete la unul dintre restaurantele de pe plajă.",
+            "en": "Rent a sunbed and enjoy fresh seafood at one of the beachside restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina von Albufeira",
+            "hu": "Albufeirai kikötő",
+            "ro": "Portul de agrement din Albufeira",
+            "en": "Albufeira Marina"
+          },
+          "coords": [
+            -8.267,
+            37.084
+          ],
+          "category": "port",
+          "arrive_at": "17:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Buchen Sie eine Delfinbeobachtungstour für den späten Nachmittag.",
+            "hu": "Foglaljon egy delfinnéző túrát a késő délutáni órákra.",
+            "ro": "Rezervați o excursie de observare a delfinilor pentru după-amiaza târziu.",
+            "en": "Book a late afternoon dolphin watching tour from here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einem Spaziergang durch die bezaubernden Kopfsteinpflasterstraßen der Altstadt von Albufeira, wo jede Ecke eine Geschichte erzählt. Am Morgen erkunden Sie historische Wahrzeichen wie den Uhrturm und die manuelinische Kirche São Sebastião. Am Mittag tauchen Sie im Archäologiemuseum in die lokale Geschichte ein, bevor Sie am Aussichtspunkt Pau da Bandeira einen atemberaubenden Blick genießen. Verbringen Sie einen entspannten Nachmittag am berühmten Fischerstrand, spüren Sie den goldenen Sand und schwimmen Sie im Atlantik. Beenden Sie Ihren Tag in der lebhaften Marina, genießen Sie ein köstliches Abendessen mit Meeresfrüchten und beobachten Sie den Sonnenuntergang über dem Horizont.",
+        "hu": "Kezdje a napot egy sétával Albufeira bájos, macskaköves utcáin az Óvárosban, ahol minden sarok egy történetet mesél. Délelőtt fedezze fel az olyan történelmi nevezetességeket, mint az Óratorony és a mánuel stílusú Szent Sebestyén-templom. Délben merüljön el a helyi történelemben a Régészeti Múzeumban, majd élvezze a lélegzetelállító kilátást a Pau da Bandeira kilátóból. Töltsön egy pihentető délutánt a híres Halászok strandján, érezze a finom homokot és ússzon egyet az Atlanti-óceánban. Zárja a napot a nyüzsgő kikötőben, egy ízletes tengeri herkentyűs vacsora mellett, miközben a naplementét nézi a horizonton.",
+        "ro": "Începeți ziua cu o plimbare pe străzile pietruite fermecătoare din Centrul Vechi al Albufeirei, unde fiecare colț spune o poveste. Dimineața explorați repere istorice precum Turnul cu Ceas și Biserica manuelină São Sebastião. La prânz, aprofundați istoria locală la Muzeul de Arheologie, înainte de a admira priveliștile uluitoare de la punctul de belvedere Pau da Bandeira. Petreceți o după-amiază relaxantă pe faimoasa Plajă a Pescarilor, simțind nisipul auriu și înotând în Atlantic. Încheiați ziua în portul de agrement animat, savurând o cină delicioasă cu fructe de mare în timp ce priviți apusul la orizont.",
+        "en": "Start your day with a stroll through the charming cobbled streets of Albufeira's Old Town, where every corner tells a story. In the morning, explore historic landmarks like the Clock Tower and the Manueline-style São Sebastião Church. At midday, delve into local history at the Archeology Museum before taking in breathtaking views from the Pau da Bandeira viewpoint. Spend a relaxing afternoon on the iconic Fisherman's Beach, feeling the golden sand and taking a dip in the Atlantic. End your day at the vibrant Marina, enjoying a delicious seafood dinner while watching the sunset over the horizon."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cataplana de Marisco",
+            "tip": "Ein traditioneller Meeresfrüchteeintopf, der in einem kupfernen Topf gekocht und serviert wird, voller Geschmack."
+          },
+          {
+            "name": "Sardinhas Assadas",
+            "tip": "Gegrillte Sardinen, besonders köstlich während der Sommermonate, serviert mit Kartoffeln und Salat."
+          },
+          {
+            "name": "Arroz de Lingueirão",
+            "tip": "Ein Reisgericht mit Schwertmuscheln, eine lokale Spezialität, die man probieren muss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cataplana de Marisco",
+            "tip": "Hagyományos tengeri herkentyűs egytálétel, réz edényben főzve és tálalva, tele ízekkel."
+          },
+          {
+            "name": "Sardinhas Assadas",
+            "tip": "Grillezett szardínia, különösen finom a nyári hónapokban, burgonyával és salátával tálalva."
+          },
+          {
+            "name": "Arroz de Lingueirão",
+            "tip": "Rizses étel hüvelykagylóval, egy helyi specialitás, amit muszáj megkóstolni."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cataplana de Marisco",
+            "tip": "O tocană tradițională de fructe de mare, gătită și servită într-un vas de cupru, plină de arome."
+          },
+          {
+            "name": "Sardinhas Assadas",
+            "tip": "Sardine la grătar, deosebit de delicioase în lunile de vară, servite cu cartofi și salată."
+          },
+          {
+            "name": "Arroz de Lingueirão",
+            "tip": "Un preparat din orez cu scoici-lamă, o specialitate locală care trebuie încercată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cataplana de Marisco",
+            "tip": "A traditional seafood stew cooked and served in a copper pot, bursting with flavor."
+          },
+          {
+            "name": "Sardinhas Assadas",
+            "tip": "Grilled sardines, especially delicious during the summer months, served with potatoes and salad."
+          },
+          {
+            "name": "Arroz de Lingueirão",
+            "tip": "A razor clam rice dish, a local specialty that is a must-try."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Miradouro do Pau da Bandeira bei Sonnenuntergang",
+            "tip": "Der perfekte Ort, um die Sonne über dem Meer untergehen zu sehen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Geheime Buchten westlich der Marina",
+            "tip": "Ein kurzer Spaziergang enthüllt abgelegene Strände, ideal für eine ruhige Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Frühmorgens am Praia dos Pescadores",
+            "tip": "Erleben Sie den Strand, bevor die Menschenmassen ankommen, und beobachten Sie die Fischer.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pau da Bandeira kilátó naplementekor",
+            "tip": "A tökéletes hely, hogy végignézze a naplementét a tenger felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rejtett öblök a kikötőtől nyugatra",
+            "tip": "Egy rövid séta rejtett strandokat tár fel, ideális egy csendes pihenőhöz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kora reggel a Praia dos Pescadores-en",
+            "tip": "Tapasztalja meg a strandot a tömeg érkezése előtt, és figyelje a halászokat.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miradouro do Pau da Bandeira la apus",
+            "tip": "Locul perfect pentru a privi soarele apunând peste ocean.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Golfuri secrete la vest de portul de agrement",
+            "tip": "O scurtă plimbare dezvăluie plaje izolate, ideale pentru o pauză liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dimineața devreme la Praia dos Pescadores",
+            "tip": "Experimentați plaja înainte de sosirea mulțimilor și priviți pescarii.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Miradouro do Pau da Bandeira at sunset",
+            "tip": "The perfect spot to watch the sun dip below the ocean.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Secret coves west of the Marina",
+            "tip": "A short walk reveals secluded beaches, perfect for a quiet break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Early morning at Praia dos Pescadores",
+            "tip": "Experience the beach before the crowds arrive and watch the fishermen.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rua 5 de Outubro",
+            "tip": "Die Haupteinkaufsstraße in der Altstadt mit vielen Souvenirläden und Boutiquen."
+          },
+          {
+            "name": "Städtischer Markt",
+            "tip": "Kaufen Sie frische Produkte, Fisch und lokale Köstlichkeiten wie Honig und Feigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rua 5 de Outubro",
+            "tip": "Az Óváros fő bevásárlóutcája, tele ajándékboltokkal és butikokkal."
+          },
+          {
+            "name": "Városi Piac",
+            "tip": "Vásároljon friss termékeket, halat és helyi finomságokat, mint a méz és a füge."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rua 5 de Outubro",
+            "tip": "Principala stradă comercială din Centrul Vechi, plină de magazine de suveniruri și buticuri."
+          },
+          {
+            "name": "Piața Municipală",
+            "tip": "Cumpărați produse proaspete, pește și delicatese locale, cum ar fi miere și smochine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rua 5 de Outubro",
+            "tip": "The main shopping street in the Old Town, full of souvenir shops and boutiques."
+          },
+          {
+            "name": "Municipal Market",
+            "tip": "Shop for fresh produce, fish, and local delicacies like honey and figs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Straßen der Altstadt gepflastert und hügelig sind.",
+          "Nehmen Sie viel Wasser mit, besonders in den Sommermonaten.",
+          "Ein Hut und Sonnencreme sind unerlässlich.",
+          "Die Strände können überfüllt sein, also kommen Sie früh, um einen guten Platz zu bekommen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óvárosi utcák macskakövesek és dombosak.",
+          "Vigyen magával sok vizet, különösen a nyári hónapokban.",
+          "A kalap és a naptej elengedhetetlen.",
+          "A strandok zsúfoltak lehetnek, ezért érkezzen korán a jó helyért."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece străzile din Centrul Vechi sunt pietruite și deluroase.",
+          "Luați multă apă cu dumneavoastră, mai ales în lunile de vară.",
+          "O pălărie și crema de protecție solară sunt esențiale.",
+          "Plajele pot fi aglomerate, așa că ajungeți devreme pentru a prinde un loc bun."
+        ],
+        "en": [
+          "Wear comfortable shoes as the Old Town streets are cobbled and hilly.",
+          "Bring plenty of water, especially during the summer months.",
+          "A hat and sunscreen are essential.",
+          "Beaches can get crowded, so arrive early to get a good spot."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 9.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Marina von Albufeira",
+            "hu": "Albufeirai kikötő",
+            "ro": "Portul de agrement din Albufeira",
+            "en": "Albufeira Marina"
+          },
+          "coords": [
+            -8.267,
+            37.084
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Mieten Sie hier ein Fahrrad und beginnen Sie Ihre Erkundungstour entlang der Küste.",
+            "hu": "Béreljen itt kerékpárt, és kezdje a felfedezést a part mentén.",
+            "ro": "Închiriați o bicicletă de aici și începeți explorarea de-a lungul coastei.",
+            "en": "Rent a bike here and start your exploration along the coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinen der Burg (Ruínas do Castelo)",
+            "hu": "Várromok (Ruínas do Castelo)",
+            "ro": "Ruinele Castelului (Ruínas do Castelo)",
+            "en": "Castle Ruins (Ruínas do Castelo)"
+          },
+          "coords": [
+            -8.2525,
+            37.0865
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Stellen Sie sich die alte Festung vor, die einst die Stadt schützte.",
+            "hu": "Képzelje el az ősi erődöt, amely egykor a várost védte.",
+            "ro": "Imaginați-vă vechea fortăreață care proteja odinioară orașul.",
+            "en": "Imagine the ancient fortress that once protected the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt (Centro Antigo)",
+            "hu": "Óváros (Centro Antigo)",
+            "ro": "Centrul Vechi (Centro Antigo)",
+            "en": "Old Town (Centro Antigo)"
+          },
+          "coords": [
+            -8.251,
+            37.087
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und erkunden Sie die Fußgängerzonen zu Fuß.",
+            "hu": "Zárja le a kerékpárt, és fedezze fel a sétálóutcákat gyalog.",
+            "ro": "Legați-vă bicicleta și explorați zonele pietonale pe jos.",
+            "en": "Lock up your bike and explore the pedestrianized streets on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Pau da Bandeira",
+            "hu": "Pau da Bandeira kilátó",
+            "ro": "Punct de belvedere Pau da Bandeira",
+            "en": "Pau da Bandeira Viewpoint"
+          },
+          "coords": [
+            -8.247,
+            37.086
+          ],
+          "category": "natural features",
+          "arrive_at": "12:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Ein kurzer, aber lohnender Anstieg für einen fantastischen Blick auf den Strand.",
+            "hu": "Egy rövid, de megérő emelkedő a fantasztikus strandkilátásért.",
+            "ro": "O urcare scurtă, dar plină de satisfacții pentru o priveliște fantastică a plajei.",
+            "en": "A short but rewarding climb for a fantastic view of the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Fischerstrand (Praia dos Pescadores)",
+            "hu": "Halászok strandja (Praia dos Pescadores)",
+            "ro": "Plaja Pescarilor (Praia dos Pescadores)",
+            "en": "Fisherman's Beach (Praia dos Pescadores)"
+          },
+          "coords": [
+            -8.249,
+            37.086
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:40",
+          "stay_min": 180,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und genießen Sie eine lange Pause mit Mittagessen und Schwimmen.",
+            "hu": "Parkolja le a kerékpárt, és élvezze a hosszú ebédszünetet és úszást.",
+            "ro": "Parcați-vă bicicleta și bucurați-vă de o pauză lungă pentru prânz și înot.",
+            "en": "Park your bike and enjoy a long break for lunch and a swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Radweg zurück zur Marina",
+            "hu": "Kerékpárút vissza a kikötőbe",
+            "ro": "Pistă de biciclete înapoi la port",
+            "en": "Bike Path back to Marina"
+          },
+          "coords": [
+            -8.267,
+            37.084
+          ],
+          "category": "port",
+          "arrive_at": "16:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5,
+          "tip_5lang": {
+            "de": "Genießen Sie die Küstenbrise auf dem Rückweg.",
+            "hu": "Élvezze a tengerparti szellőt a visszaúton.",
+            "ro": "Bucurați-vă de briza coastei pe drumul de întoarcere.",
+            "en": "Enjoy the coastal breeze on your ride back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihr Fahrradabenteuer in der farbenfrohen Marina von Albufeira. Fahren Sie morgens entlang der Küste zu den historischen Ruinen der alten Burg und genießen Sie die Meeresbrise. Schließen Sie Ihr Fahrrad ab, um die engen Gassen der Altstadt zu erkunden und die lokale Atmosphäre aufzusaugen. Erklimmen Sie am Mittag den Aussichtspunkt Pau da Bandeira für einen postkartenreifen Blick auf den Strand. Der Nachmittag ist für pure Entspannung am Fischerstrand reserviert – schwimmen, sonnenbaden und ein spätes Mittagessen. Beenden Sie Ihren Tag mit einer gemütlichen Rückfahrt zur Marina, während die Sonne untergeht.",
+        "hu": "Kezdje a kerékpáros kalandot Albufeira színes kikötőjében. Tekerjen reggel a part mentén az ősi vár romjaihoz, élvezve a tengeri szellőt. Zárja le a biciklit, hogy felfedezze az Óváros szűk utcáit és magába szívja a helyi hangulatot. Délben másszon fel a Pau da Bandeira kilátóhoz egy képeslapra illő strandkilátásért. A délután a tiszta pihenésé a Halászok strandján – úszás, napozás és egy késői ebéd. Zárja a napot egy kényelmes tekeréssel vissza a kikötőbe, miközben a nap lenyugvóban van.",
+        "ro": "Începeți aventura pe bicicletă din portul de agrement colorat din Albufeira. Dimineața, pedalați de-a lungul coastei spre ruinele istorice ale vechiului castel, bucurându-vă de briza mării. Lăsați bicicleta pentru a explora aleile înguste din Centrul Vechi și pentru a absorbi atmosfera locală. La prânz, urcați la punctul de belvedere Pau da Bandeira pentru o vedere de carte poștală a plajei. După-amiaza este rezervată relaxării pure la Plaja Pescarilor – înot, plajă și un prânz târziu. Încheiați ziua cu o plimbare lejeră înapoi la portul de agrement, în timp ce soarele apune.",
+        "en": "Kick off your cycling adventure at the colourful Albufeira Marina. In the morning, ride along the coast to the historic ruins of the old castle, enjoying the sea breeze. Lock up your bike to explore the narrow streets of the Old Town and soak up the local atmosphere. At midday, climb to the Pau da Bandeira viewpoint for a postcard-perfect view of the beach. The afternoon is reserved for pure relaxation at Fisherman's Beach – swimming, sunbathing, and a late lunch. End your day with a leisurely ride back to the marina as the sun begins to set."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frango Piri-Piri",
+            "tip": "Gegrilltes Hähnchen mit scharfer Sauce, eine Spezialität der Algarve. Perfekt für ein schnelles und leckeres Mittagessen."
+          },
+          {
+            "name": "Bifana",
+            "tip": "Ein einfaches, aber köstliches Sandwich mit mariniertem Schweinefleisch."
+          },
+          {
+            "name": "Bolas de Berlim",
+            "tip": "Ein mit Pudding gefüllter Donut, der oft am Strand verkauft wird. Eine süße Belohnung nach dem Schwimmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Frango Piri-Piri",
+            "tip": "Grillezett csirke csípős szósszal, Algarve specialitása. Tökéletes egy gyors és ízletes ebédhez."
+          },
+          {
+            "name": "Bifana",
+            "tip": "Egyszerű, de ízletes szendvics pácolt sertéshússal."
+          },
+          {
+            "name": "Bolas de Berlim",
+            "tip": "Pudinggal töltött fánk, amit gyakran árulnak a strandon. Édes jutalom úszás után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Frango Piri-Piri",
+            "tip": "Pui la grătar cu sos picant, o specialitate din Algarve. Perfect pentru un prânz rapid și delicios."
+          },
+          {
+            "name": "Bifana",
+            "tip": "Un sandviș simplu, dar delicios, cu carne de porc marinată."
+          },
+          {
+            "name": "Bolas de Berlim",
+            "tip": "O gogoașă umplută cu cremă, vândută adesea pe plajă. O recompensă dulce după înot."
+          }
+        ],
+        "en": [
+          {
+            "name": "Frango Piri-Piri",
+            "tip": "Grilled chicken with spicy sauce, an Algarve specialty. Perfect for a quick and tasty lunch."
+          },
+          {
+            "name": "Bifana",
+            "tip": "A simple but delicious sandwich with marinated pork."
+          },
+          {
+            "name": "Bolas de Berlim",
+            "tip": "A custard-filled doughnut often sold on the beach. A sweet treat after a swim."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Praia de São Rafael",
+            "tip": "Eine kurze Radtour westlich der Marina führt Sie zu diesem atemberaubenden Strand mit Felsformationen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Garten der Erinnerung (Jardim da Memória)",
+            "tip": "Ein kleiner, ruhiger Park in der Nähe des Uhrturms.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang entlang der Klippen bei Sonnenuntergang",
+            "tip": "Finden Sie einen ruhigen Platz auf den Klippen, um den Tag ausklingen zu lassen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Praia de São Rafael",
+            "tip": "Egy rövid biciklizés a kikötőtől nyugatra elvisz ehhez a lenyűgöző, sziklaalakzatokkal teli strandhoz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Emlékezés Kertje (Jardim da Memória)",
+            "tip": "Egy kicsi, csendes park az Óratorony közelében.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sziklaséta naplementekor",
+            "tip": "Találjon egy csendes helyet a sziklákon, hogy lezárja a napot.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Praia de São Rafael",
+            "tip": "O scurtă plimbare cu bicicleta la vest de portul de agrement vă duce la această plajă uimitoare cu formațiuni stâncoase.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Memoriei (Jardim da Memória)",
+            "tip": "Un parc mic și liniștit lângă Turnul cu Ceas.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare pe faleză la apus",
+            "tip": "Găsiți un loc liniștit pe stânci pentru a încheia ziua.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Praia de São Rafael",
+            "tip": "A short bike ride west of the marina takes you to this stunning beach with rock formations.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Garden of Memory (Jardim da Memória)",
+            "tip": "A small, peaceful park near the Clock Tower.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Clifftop walk at sunset",
+            "tip": "Find a quiet spot on the cliffs to end the day.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Keramikläden",
+            "tip": "Suchen Sie nach handbemalter Keramik, einem klassischen portugiesischen Souvenir."
+          },
+          {
+            "name": "Korkprodukte",
+            "tip": "Portugal ist berühmt für seine Korkprodukte. Halten Sie Ausschau nach Taschen, Geldbörsen und Hüten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerámia boltok",
+            "tip": "Keressen kézzel festett kerámiákat, egy klasszikus portugál ajándéktárgyat."
+          },
+          {
+            "name": "Parafa termékek",
+            "tip": "Portugália híres parafa termékeiről. Keressen táskákat, pénztárcákat és kalapokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de ceramică",
+            "tip": "Căutați ceramică pictată manual, un suvenir portughez clasic."
+          },
+          {
+            "name": "Produse din plută",
+            "tip": "Portugalia este renumită pentru produsele sale din plută. Căutați genți, portofele și pălării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ceramics shops",
+            "tip": "Look for hand-painted ceramics, a classic Portuguese souvenir."
+          },
+          {
+            "name": "Cork products",
+            "tip": "Portugal is famous for its cork products. Look for bags, wallets, and hats."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Bremsen und Reifen, bevor Sie losfahren.",
+          "Einige Straßen können steil sein, seien Sie also auf Anstiege vorbereitet.",
+          "Schließen Sie Ihr Fahrrad immer an einem sicheren Ort ab.",
+          "Einige Küstenwege können sandig sein, seien Sie also vorsichtig."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a fékeket és a gumikat.",
+          "Néhány út meredek lehet, készüljön fel az emelkedőkre.",
+          "Mindig zárja le a kerékpárt biztonságos helyen.",
+          "Néhány parti ösvény homokos lehet, legyen óvatos."
+        ],
+        "ro": [
+          "Verificați frânele și anvelopele înainte de a pleca.",
+          "Unele drumuri pot fi abrupte, așa că fiți pregătit pentru urcări.",
+          "Legați-vă întotdeauna bicicleta într-un loc sigur.",
+          "Unele poteci de coastă pot fi nisipoase, așa că fiți prudent."
+        ],
+        "en": [
+          "Check your brakes and tires before setting off.",
+          "Some roads can be steep, so be prepared for some climbs.",
+          "Always lock your bike in a secure place.",
+          "Some coastal paths can be sandy, so be careful."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz nahe der Altstadt",
+            "hu": "Parkoló az Óváros közelében",
+            "ro": "Parcare lângă Centrul Vechi",
+            "en": "Parking near Old Town"
+          },
+          "coords": [
+            -8.254,
+            37.089
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Kommen Sie früh an, um einen Parkplatz zu finden. Dies ist Ihr erster Cluster-Startpunkt.",
+            "hu": "Érkezzen korán, hogy parkolóhelyet találjon. Ez az első gyalogos zóna kiindulópontja.",
+            "ro": "Ajungeți devreme pentru a găsi un loc de parcare. Acesta este punctul de plecare pentru primul cluster.",
+            "en": "Arrive early to find a parking spot. This is your first cluster starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Sebastian",
+            "hu": "Szent Sebestyén-templom",
+            "ro": "Biserica Sfântul Sebastian",
+            "en": "Saint Sebastian's Church"
+          },
+          "coords": [
+            -8.253,
+            37.088
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz zum ersten Besichtigungspunkt.",
+            "hu": "Egy rövid séta a parkolótól az első látnivalóig.",
+            "ro": "O scurtă plimbare de la parcare la primul punct de vizitare.",
+            "en": "A short walk from the car park to the first point of interest."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt (Centro Antigo) & Uhrturm",
+            "hu": "Óváros (Centro Antigo) és Óratorony",
+            "ro": "Centrul Vechi (Centro Antigo) & Turnul cu Ceas",
+            "en": "Old Town (Centro Antigo) & Clock Tower"
+          },
+          "coords": [
+            -8.251,
+            37.087
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie das Herz der Stadt zu Fuß.",
+            "hu": "Fedezze fel a város szívét gyalog.",
+            "ro": "Explorați inima orașului pe jos.",
+            "en": "Explore the heart of the city on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtisches Archäologiemuseum",
+            "hu": "Városi Régészeti Múzeum",
+            "ro": "Muzeul Municipal de Arheologie",
+            "en": "Municipal Museum of Archeology"
+          },
+          "coords": [
+            -8.252,
+            37.087
+          ],
+          "category": "museums",
+          "arrive_at": "11:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der letzte Halt in diesem Rundgang, bevor es zurück zum Auto geht.",
+            "hu": "Az utolsó megálló ezen a sétán, mielőtt visszatérne az autóhoz.",
+            "ro": "Ultima oprire din acest cluster pietonal înainte de a vă întoarce la mașină.",
+            "en": "The last stop in this walking cluster before heading back to the car."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz bei der Marina",
+            "hu": "Parkoló a kikötőnél",
+            "ro": "Parcare la Portul de Agrement",
+            "en": "Parking at the Marina"
+          },
+          "coords": [
+            -8.268,
+            37.085
+          ],
+          "category": "transport",
+          "arrive_at": "13:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum zweiten Cluster. Hier gibt es normalerweise genügend Parkplätze.",
+            "hu": "Vezessen a második zónához. Itt általában bőséges parkolóhely van.",
+            "ro": "Conduceți spre al doilea cluster. De obicei, aici există parcare amplă.",
+            "en": "Drive to the second cluster. There's usually ample parking here."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina von Albufeira",
+            "hu": "Albufeirai kikötő",
+            "ro": "Portul de agrement din Albufeira",
+            "en": "Albufeira Marina"
+          },
+          "coords": [
+            -8.267,
+            37.084
+          ],
+          "category": "port",
+          "arrive_at": "13:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie herum, bewundern Sie die bunten Gebäude und suchen Sie sich ein Restaurant zum Mittagessen.",
+            "hu": "Sétáljon körbe, csodálja meg a színes épületeket és válasszon egy éttermet ebédre.",
+            "ro": "Plimbați-vă, admirați clădirile colorate și alegeți un restaurant pentru prânz.",
+            "en": "Walk around, admire the colorful buildings, and pick a restaurant for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Fischerstrand (Praia dos Pescadores)",
+            "hu": "Halászok strandja (Praia dos Pescadores)",
+            "ro": "Plaja Pescarilor (Praia dos Pescadores)",
+            "en": "Fisherman's Beach (Praia dos Pescadores)"
+          },
+          "coords": [
+            -8.249,
+            37.086
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:45",
+          "stay_min": 135,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.3,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zu Ihrem letzten Halt. Parken Sie in der Nähe des Strandes und genießen Sie den Rest des Nachmittags.",
+            "hu": "Vezessen az utolsó megállóhoz. Parkoljon a strand közelében, és élvezze a délután hátralévő részét.",
+            "ro": "Conduceți spre ultima oprire. Parcați lângă plajă și bucurați-vă de restul după-amiezii.",
+            "en": "Drive to your final stop. Park near the beach and enjoy the rest of the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Ihr Auto, um Albufeira effizient zu erkunden, indem Sie zwischen begehbaren Clustern wechseln. Parken Sie morgens in der Nähe der Altstadt und erkunden Sie zu Fuß die historischen Gassen, die Kirche São Sebastião und das Museum. Kehren Sie mittags zum Auto zurück und fahren Sie zur lebhaften Marina, Ihrem zweiten Cluster. Genießen Sie hier ein Mittagessen am Wasser und die moderne Atmosphäre. Am Nachmittag fahren Sie zum berühmten Fischerstrand, um sich zu sonnen, zu schwimmen und zu entspannen, bevor Sie den Tag ausklingen lassen.",
+        "hu": "Használja autóját Albufeira hatékony felfedezéséhez, a sétálható zónák között váltva. Reggel parkoljon az Óváros közelében, és fedezze fel gyalog a történelmi sikátorokat, a Szent Sebestyén-templomot és a múzeumot. Délben térjen vissza az autóhoz, és vezessen a nyüzsgő kikötőhöz, a második zónához. Ebédeljen a vízparton, és élvezze a modern hangulatot. Délután vezessen a híres Halászok strandjára napozni, úszni és pihenni, mielőtt befejezi a napot.",
+        "ro": "Folosiți mașina pentru a explora eficient Albufeira, alternând între clustere pietonale. Dimineața, parcați lângă Centrul Vechi și explorați pe jos aleile istorice, Biserica São Sebastião și muzeul. La prânz, întoarceți-vă la mașină și conduceți spre portul de agrement animat, al doilea cluster. Bucurați-vă de un prânz la malul apei și de atmosfera modernă. După-amiaza, conduceți spre faimoasa Plajă a Pescarilor pentru plajă, înot și relaxare înainte de a încheia ziua.",
+        "en": "Use your car to explore Albufeira efficiently by switching between walkable clusters. In the morning, park near the Old Town and explore the historic alleys, São Sebastião Church, and the museum on foot. At midday, return to your car and drive to the vibrant Marina, your second cluster. Enjoy a waterfront lunch and the modern atmosphere here. In the afternoon, drive to the iconic Fisherman's Beach for sun, sea, and relaxation before calling it a day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Peixe Grelhado",
+            "tip": "Frisch gefangener Fisch, einfach gegrillt mit Knoblauch und Olivenöl. Probieren Sie ihn in einem Restaurant am Strand."
+          },
+          {
+            "name": "Amêijoas à Bulhão Pato",
+            "tip": "Muscheln, die in einer köstlichen Sauce aus Knoblauch, Koriander und Weißwein gekocht werden."
+          },
+          {
+            "name": "Dom Rodrigo",
+            "tip": "Ein traditionelles Dessert aus Eigelbfäden und Mandeln aus der Algarve."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Peixe Grelhado",
+            "tip": "Frissen fogott hal, egyszerűen grillezve fokhagymával és olívaolajjal. Próbálja ki egy tengerparti étteremben."
+          },
+          {
+            "name": "Amêijoas à Bulhão Pato",
+            "tip": "Kagyló fokhagymából, korianderből és fehérborból készült ízletes szószban főzve."
+          },
+          {
+            "name": "Dom Rodrigo",
+            "tip": "Hagyományos algarvei desszert tojássárgájából és mandulából."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Peixe Grelhado",
+            "tip": "Pește proaspăt prins, preparat simplu la grătar cu usturoi și ulei de măsline. Încercați-l la un restaurant pe plajă."
+          },
+          {
+            "name": "Amêijoas à Bulhão Pato",
+            "tip": "Scoici gătite într-un sos delicios de usturoi, coriandru și vin alb."
+          },
+          {
+            "name": "Dom Rodrigo",
+            "tip": "Un desert tradițional din Algarve, făcut din fire de gălbenuș de ou și migdale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Peixe Grelhado",
+            "tip": "Freshly caught fish, simply grilled with garlic and olive oil. Try it at a beachfront restaurant."
+          },
+          {
+            "name": "Amêijoas à Bulhão Pato",
+            "tip": "Clams cooked in a delicious sauce of garlic, coriander, and white wine."
+          },
+          {
+            "name": "Dom Rodrigo",
+            "tip": "A traditional Algarve dessert made from egg yolk threads and almonds."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Praia da Coelha",
+            "tip": "Eine kurze Autofahrt westlich, ein wunderschöner Strand, umgeben von Klippen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ponta da Baleeira",
+            "tip": "Ein felsiger Vorsprung in der Nähe der Marina, ideal für einen ruhigen Blick auf das Meer.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Wanderwege bei den Ruínas do Castelo",
+            "tip": "Erkunden Sie die Pfade rund um die Ruinen für einen Moment der Ruhe.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Praia da Coelha",
+            "tip": "Egy rövid autóútra nyugatra, egy gyönyörű, sziklákkal körülvett strand.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ponta da Baleeira",
+            "tip": "Egy sziklás földnyelv a kikötő közelében, ideális a csendes tengeri kilátáshoz.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Túraútvonalak a Várromoknál",
+            "tip": "Fedezze fel a romok körüli ösvényeket egy pillanatnyi békéért.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Praia da Coelha",
+            "tip": "La o scurtă distanță cu mașina spre vest, o plajă frumoasă înconjurată de stânci.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ponta da Baleeira",
+            "tip": "Un promontoriu stâncos lângă portul de agrement, perfect pentru vederi liniștite la ocean.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Poteci de drumeție la Ruínas do Castelo",
+            "tip": "Explorați cărările din jurul ruinelor pentru un moment de liniște.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Praia da Coelha",
+            "tip": "A short drive west, a beautiful beach surrounded by cliffs.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ponta da Baleeira",
+            "tip": "A rocky headland near the marina, perfect for quiet ocean views.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hiking trails at Ruínas do Castelo",
+            "tip": "Explore the paths around the ruins for a moment of peace.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Algarve Shopping",
+            "tip": "Ein großes Einkaufszentrum in Guia, nur eine kurze Autofahrt entfernt, für eine größere Auswahl."
+          },
+          {
+            "name": "Lokale Weine",
+            "tip": "Besuchen Sie einen Weinladen, um einige der Weine der Region zu probieren und zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Algarve Shopping",
+            "tip": "Egy nagy bevásárlóközpont Guiában, rövid autóútra, a szélesebb választékért."
+          },
+          {
+            "name": "Helyi borok",
+            "tip": "Látogasson el egy borboltba, hogy megkóstolja és megvásárolja a régió borait."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Algarve Shopping",
+            "tip": "Un centru comercial mare în Guia, la o scurtă distanță cu mașina, pentru o selecție mai largă."
+          },
+          {
+            "name": "Vinuri locale",
+            "tip": "Vizitați un magazin de vinuri pentru a degusta și cumpăra unele dintre vinurile regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Algarve Shopping",
+            "tip": "A large shopping mall in Guia, a short drive away, for a wider selection."
+          },
+          {
+            "name": "Local Wines",
+            "tip": "Visit a wine shop to sample and buy some of the region's wines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken kann im Sommer eine Herausforderung sein, also planen Sie entsprechend.",
+          "Achten Sie auf die Mautstraßen (Via do Infante - A22).",
+          "Ein GPS ist sehr zu empfehlen.",
+          "Seien Sie vorsichtig in den engen Straßen der Altstadt, wenn Sie fahren müssen."
+        ],
+        "hu": [
+          "A parkolás nyáron kihívást jelenthet, tervezzen ennek megfelelően.",
+          "Figyeljen a fizetős utakra (Via do Infante - A22).",
+          "A GPS használata erősen ajánlott.",
+          "Legyen óvatos az Óváros szűk utcáin, ha vezetnie kell."
+        ],
+        "ro": [
+          "Parcarea poate fi o provocare în timpul verii, așa că planificați în consecință.",
+          "Fiți atenți la drumurile cu taxă (Via do Infante - A22).",
+          "Un GPS este foarte recomandat.",
+          "Fiți prudent pe străzile înguste din Centrul Vechi dacă trebuie să conduceți."
+        ],
+        "en": [
+          "Parking can be a challenge in summer, so plan accordingly.",
+          "Be aware of the toll roads (Via do Infante - A22).",
+          "A GPS is highly recommended.",
+          "Be careful on the narrow streets of the Old Town if you must drive."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 5.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Busbahnhof Albufeira",
+            "hu": "Albufeirai buszpályaudvar",
+            "ro": "Terminal de autobuz Albufeira",
+            "en": "Albufeira Bus Terminal"
+          },
+          "coords": [
+            -8.24,
+            37.098
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für das Giro-Busnetz für eine kostengünstige Fortbewegung.",
+            "hu": "Vásároljon napijegyet a Giro buszhálózatra a költséghatékony közlekedésért.",
+            "ro": "Cumpărați un bilet de o zi pentru rețeaua de autobuze Giro pentru transport rentabil.",
+            "en": "Buy a day pass for the Giro bus network for cost-effective travel."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle Altstadt (Centro Antigo)",
+            "hu": "Óváros (Centro Antigo) megálló",
+            "ro": "Stația Centrul Vechi (Centro Antigo)",
+            "en": "Old Town (Centro Antigo) Stop"
+          },
+          "coords": [
+            -8.251,
+            37.089
+          ],
+          "category": "transport",
+          "arrive_at": "09:30",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie hier aus, um Ihren ersten Rundgang zu beginnen.",
+            "hu": "Szálljon le itt az első gyalogos körút megkezdéséhez.",
+            "ro": "Coborâți aici pentru a începe primul cluster pietonal.",
+            "en": "Get off here to start your first walking cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm & Ruinen der Burg",
+            "hu": "Óratorony és Várromok",
+            "ro": "Turnul cu Ceas & Ruinele Castelului",
+            "en": "Clock Tower & Castle Ruins"
+          },
+          "coords": [
+            -8.252,
+            37.087
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden historischen Stätten liegen nahe beieinander.",
+            "hu": "Ez a két történelmi helyszín közel van egymáshoz.",
+            "ro": "Aceste două situri istorice sunt aproape unul de celălalt.",
+            "en": "These two historic sites are close to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt & Fischerstrand",
+            "hu": "Kilátó és Halászok strandja",
+            "ro": "Punct de belvedere & Plaja Pescarilor",
+            "en": "Viewpoint & Fisherman's Beach"
+          },
+          "coords": [
+            -8.248,
+            37.086
+          ],
+          "category": "natural features",
+          "arrive_at": "10:40",
+          "stay_min": 180,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht und entspannen Sie sich dann für den Rest des Vormittags am Strand.",
+            "hu": "Élvezze a kilátást, majd pihenjen a délelőtt hátralévő részében a strandon.",
+            "ro": "Bucurați-vă de priveliște, apoi relaxați-vă pe plajă pentru restul dimineții.",
+            "en": "Enjoy the view, then relax on the beach for the rest of the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle Marina",
+            "hu": "Kikötő megálló",
+            "ro": "Stația Portul de Agrement",
+            "en": "Marina Stop"
+          },
+          "coords": [
+            -8.266,
+            37.086
+          ],
+          "category": "transport",
+          "arrive_at": "14:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zum zweiten Cluster des Tages.",
+            "hu": "Vegye a buszt a nap második zónájához.",
+            "ro": "Luați autobuzul spre al doilea cluster al zilei.",
+            "en": "Take the bus to the second cluster of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina von Albufeira",
+            "hu": "Albufeirai kikötő",
+            "ro": "Portul de agrement din Albufeira",
+            "en": "Albufeira Marina"
+          },
+          "coords": [
+            -8.267,
+            37.084
+          ],
+          "category": "port",
+          "arrive_at": "14:15",
+          "stay_min": 150,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die Marina, genießen Sie ein Eis und buchen Sie vielleicht eine Bootstour.",
+            "hu": "Fedezze fel a kikötőt, egyen egy fagyit, és esetleg foglaljon egy hajókirándulást.",
+            "ro": "Explorați portul de agrement, savurați o înghețată și poate rezervați o excursie cu barca.",
+            "en": "Explore the marina, have an ice cream, and maybe book a boat trip."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Albufeira mit dem lokalen Giro-Busnetz. Beginnen Sie am Busbahnhof, nehmen Sie einen Bus in die Altstadt und erkunden Sie den ersten Cluster historischer Stätten zu Fuß. Am Vormittag besuchen Sie den Uhrturm und die Burgruinen, bevor Sie zum Fischerstrand gehen, um die Sonne zu genießen. Nach einem entspannten Mittagessen bringt Sie ein weiterer Bus in die farbenfrohe Marina. Verbringen Sie den Nachmittag damit, die Boote zu bewundern und die lebhafte Atmosphäre zu genießen, bevor Sie den Bus zurücknehmen.",
+        "hu": "Fedezze fel Albufeirát a helyi Giro buszhálózattal. Kezdje a buszpályaudvaron, vegyen egy buszt az Óvárosba, és fedezze fel gyalog az első történelmi helyszín-csoportot. Délelőtt látogassa meg az Óratornyot és a Várromokat, mielőtt a Halászok strandjára megy napozni. Egy pihentető ebéd után egy másik busz elviszi a színes kikötőbe. Töltse a délutánt a hajók csodálásával és a nyüzsgő hangulat élvezetével, mielőtt visszabuszozik.",
+        "ro": "Descoperiți Albufeira folosind rețeaua locală de autobuze Giro. Începeți de la terminalul de autobuz, luați un autobuz spre Centrul Vechi și explorați pe jos primul cluster de situri istorice. Dimineața, vizitați Turnul cu Ceas și ruinele castelului înainte de a vă îndrepta spre Plaja Pescarilor pentru a vă bucura de soare. După un prânz relaxant, un alt autobuz vă va duce la portul de agrement colorat. Petreceți după-amiaza admirând bărcile și bucurându-vă de atmosfera plină de viață înainte de a lua autobuzul înapoi.",
+        "en": "Discover Albufeira using the local Giro bus network. Start at the bus terminal, take a bus to the Old Town, and explore the first cluster of historic sites on foot. In the morning, visit the Clock Tower and castle ruins before heading to Fisherman's Beach to soak up the sun. After a relaxing lunch, another bus will take you to the colourful Marina. Spend the afternoon admiring the boats and enjoying the lively atmosphere before taking the bus back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pastel de Nata",
+            "tip": "Ein Muss in Portugal. Genießen Sie diese Puddingtörtchen in einem lokalen Café."
+          },
+          {
+            "name": "Salada de Polvo",
+            "tip": "Ein erfrischender Oktopussalat, perfekt für ein leichtes Mittagessen an einem heißen Tag."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "Ein junger, leicht spritziger Wein aus dem Norden Portugals, der hervorragend zu Meeresfrüchten passt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pastel de Nata",
+            "tip": "Kötelező Portugáliában. Élvezze ezeket a pudingos kosárkákat egy helyi kávézóban."
+          },
+          {
+            "name": "Salada de Polvo",
+            "tip": "Frissítő polipsaláta, tökéletes egy könnyű ebédhez egy forró napon."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "Fiatal, enyhén szénsavas bor Észak-Portugáliából, amely kiválóan illik a tenger gyümölcseihez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pastel de Nata",
+            "tip": "O delicatesă obligatorie în Portugalia. Savurați aceste tarte cu cremă de ou la o cafenea locală."
+          },
+          {
+            "name": "Salada de Polvo",
+            "tip": "O salată răcoritoare de caracatiță, perfectă pentru un prânz ușor într-o zi călduroasă."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "Un vin tânăr, ușor acidulat, din nordul Portugaliei, care se potrivește excelent cu fructele de mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pastel de Nata",
+            "tip": "A must-try in Portugal. Enjoy these custard tarts at a local café."
+          },
+          {
+            "name": "Salada de Polvo",
+            "tip": "A refreshing octopus salad, perfect for a light lunch on a hot day."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "A young, slightly sparkling wine from northern Portugal that pairs excellently with seafood."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Elevador do Peneco",
+            "tip": "Nehmen Sie den Aufzug vom Strand hinauf für eine ruhige Aussicht von oben.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Friedhof von Albufeira",
+            "tip": "Ein friedlicher und unerwartet schöner Ort für einen ruhigen Spaziergang.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Praia dos Arrifes",
+            "tip": "Mit dem Bus erreichbar, eine kleinere und oft ruhigere Alternative zu den Hauptstränden.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Elevador do Peneco",
+            "tip": "Menjen fel a lifttel a strandról egy csendes kilátásért fentről.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Albufeirai temető",
+            "tip": "Békés és váratlanul szép hely egy csendes sétához.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Praia dos Arrifes",
+            "tip": "Busszal elérhető, kisebb és gyakran csendesebb alternatívája a fő strandoknak.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Elevador do Peneco",
+            "tip": "Luați liftul de pe plajă pentru o priveliște liniștită de sus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cimitirul din Albufeira",
+            "tip": "Un loc pașnic și neașteptat de frumos pentru o plimbare liniștită.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Praia dos Arrifes",
+            "tip": "Accesibilă cu autobuzul, o alternativă mai mică și adesea mai liniștită la plajele principale.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Elevador do Peneco",
+            "tip": "Take the elevator up from the beach for a quiet view from the top.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Albufeira Cemetery",
+            "tip": "A peaceful and unexpectedly beautiful place for a quiet walk.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Praia dos Arrifes",
+            "tip": "Accessible by bus, a smaller and often quieter alternative to the main beaches.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado Municipal dos Caliços",
+            "tip": "Der Hauptmarkt der Stadt, ideal, um das lokale Leben zu beobachten und regionale Produkte zu kaufen."
+          },
+          {
+            "name": "Souvenirläden in der Nähe des Strandes",
+            "tip": "Finden Sie alles von Postkarten bis zu Strandtüchern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado Municipal dos Caliços",
+            "tip": "A város fő piaca, ideális a helyi élet megfigyelésére és regionális termékek vásárlására."
+          },
+          {
+            "name": "Ajándékboltok a strand közelében",
+            "tip": "Mindent megtalál a képeslapoktól a strandtörölközőkig."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado Municipal dos Caliços",
+            "tip": "Piața principală a orașului, excelentă pentru a observa viața locală și a cumpăra produse regionale."
+          },
+          {
+            "name": "Magazine de suveniruri lângă plajă",
+            "tip": "Găsiți totul, de la cărți poștale la prosoape de plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado Municipal dos Caliços",
+            "tip": "The main city market, great for observing local life and buying regional products."
+          },
+          {
+            "name": "Souvenir shops near the beach",
+            "tip": "Find everything from postcards to beach towels."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, da die Frequenzen variieren können.",
+          "Die Busse können im Sommer voll sein, seien Sie also geduldig.",
+          "Behalten Sie Ihr Ticket während der gesamten Fahrt bei sich.",
+          "Winken Sie dem Bus zu, damit er an Ihrer Haltestelle anhält."
+        ],
+        "hu": [
+          "Ellenőrizze előre a buszmenetrendet, mivel a járatok sűrűsége változhat.",
+          "A buszok nyáron zsúfoltak lehetnek, legyen türelmes.",
+          "Tartsa magánál a jegyét az utazás teljes ideje alatt.",
+          "Intsen a busznak, hogy megálljon a megállójában."
+        ],
+        "ro": [
+          "Verificați programul autobuzelor în avans, deoarece frecvențele pot varia.",
+          "Autobuzele pot fi aglomerate în timpul verii, așa că aveți răbdare.",
+          "Păstrați biletul pe toată durata călătoriei.",
+          "Faceți semn autobuzului pentru a opri la stația dumneavoastră."
+        ],
+        "en": [
+          "Check the bus schedule in advance, as frequencies can vary.",
+          "Buses can be crowded in the summer, so be patient.",
+          "Keep your ticket with you for the entire journey.",
+          "Wave for the bus to make it stop at your stop."
+        ]
+      }
+    }
+  }
+}

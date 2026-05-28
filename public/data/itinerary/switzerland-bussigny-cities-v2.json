@@ -1,0 +1,1252 @@
+{
+  "city_id": "switzerland-bussigny-cities-v2",
+  "anchor": {
+    "name": "Bussigny",
+    "coords": [
+      6.551,
+      46.549
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Place de l'Hôtel de Ville",
+            "hu": "Városháza tér",
+            "ro": "Piața Primăriei",
+            "en": "Town Hall Square"
+          },
+          "coords": [
+            6.5512,
+            46.5491
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee in einem der lokalen Cafés.",
+            "hu": "Indítsa a napot egy kávéval a tér valamelyik helyi kávézójában.",
+            "ro": "Începeți ziua aici cu o cafea la una dintre cafenelele locale.",
+            "en": "Start your day here with a coffee at one of the local cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison de Ville",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            6.5515,
+            46.5493
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle Architektur des Gebäudes.",
+            "hu": "Csodálja meg az épület hagyományos építészetét.",
+            "ro": "Admirați arhitectura tradițională a clădirii.",
+            "en": "Admire the traditional architecture of the building."
+          }
+        },
+        {
+          "name": {
+            "de": "Temple de Bussigny",
+            "hu": "Bussigny temploma",
+            "ro": "Templul din Bussigny",
+            "en": "Temple of Bussigny"
+          },
+          "coords": [
+            6.553,
+            46.5505
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suchen Sie nach den kunstvollen Glasfenstern im Inneren.",
+            "hu": "Keresse a díszes ólomüveg ablakokat a templom belsejében.",
+            "ro": "Căutați vitraliile artistice din interior.",
+            "en": "Look for the ornate stained-glass windows inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Centre Culturel",
+            "hu": "Kulturális Központ",
+            "ro": "Centrul Cultural",
+            "en": "Cultural Centre"
+          },
+          "coords": [
+            6.55,
+            46.551
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:06",
+          "stay_min": 20,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie den Spielplan für eventuelle Abendveranstaltungen.",
+            "hu": "Nézze meg a programot, hátha van valamilyen esti előadás.",
+            "ro": "Verificați programul pentru eventuale evenimente de seară.",
+            "en": "Check the schedule for any evening events."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de la Venoge",
+            "hu": "Venoge Park",
+            "ro": "Parcul Venoge",
+            "en": "Venoge Park"
+          },
+          "coords": [
+            6.546,
+            46.547
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:46",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ideal für ein Picknick-Mittagessen am Flussufer.",
+            "hu": "Ideális egy piknik ebédhez a folyóparton.",
+            "ro": "Ideal pentru un prânz la picnic pe malul râului.",
+            "en": "Perfect for a picnic lunch by the riverbank."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont de la Venoge",
+            "hu": "Venoge híd",
+            "ro": "Podul Venoge",
+            "en": "Venoge Bridge"
+          },
+          "coords": [
+            6.545,
+            46.546
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:52",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für Fotos, besonders am späten Nachmittag.",
+            "hu": "Nagyszerű fotóhelyszín, különösen késő délután.",
+            "ro": "Un loc excelent pentru fotografii, mai ales după-amiaza târziu.",
+            "en": "A great spot for photos, especially in the late afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin de la Venoge",
+            "hu": "Venoge Malom",
+            "ro": "Moara Venoge",
+            "en": "Venoge Mill"
+          },
+          "coords": [
+            6.541,
+            46.543
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:03",
+          "stay_min": 45,
+          "hop_from_prev_min": 46,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die industrielle Vergangenheit der Region.",
+            "hu": "Ismerje meg a régió ipari múltját.",
+            "ro": "Aflați despre trecutul industrial al regiunii.",
+            "en": "Learn about the industrial past of the region."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein entspannter Spaziergang durch das Herz von Bussigny. Beginnen Sie am lebhaften Place de l'Hôtel de Ville und erkunden Sie die historische Architektur. Am Mittag entspannen Sie im grünen Parc de la Venoge bei einem Picknick. Der Nachmittag führt Sie entlang des Flusses, wo Sie die alte Brücke und die Mühle entdecken, Zeugen der lokalen Geschichte. Der Tag endet mit einem Gefühl der Ruhe und des Charmes dieser Schweizer Stadt.",
+        "hu": "Egy pihentető séta Bussigny szívében. Kezdje a nyüzsgő Városháza téren, majd fedezze fel a történelmi építészetet. Délben pihenjen egyet egy piknikkel a zöldellő Venoge Parkban. A délután a folyó mentén vezet, ahol felfedezheti a régi hidat és a malmot, a helyi történelem tanúit. A napot a svájci városka nyugalmának és varázsának érzésével zárja.",
+        "ro": "O plimbare relaxantă prin inima orașului Bussigny. Începeți în vibranta Piață a Primăriei și explorați arhitectura istorică. La prânz, relaxați-vă cu un picnic în Parcul verde Venoge. După-amiaza vă poartă de-a lungul râului pentru a descoperi podul vechi și moara, martori ai istoriei locale. Ziua se încheie cu un sentiment de calm și farmec al acestui oraș elvețian.",
+        "en": "A relaxing stroll through the heart of Bussigny. Start at the vibrant Town Hall Square and explore the historical architecture. At midday, relax with a picnic in the green Venoge Park. The afternoon takes you along the river to discover the old bridge and mill, witnesses of local history. The day concludes with a sense of the calm and charm of this Swiss town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fondue moitié-moitié",
+            "tip": "Ein Muss in der Schweiz, perfekt für ein gemütliches Abendessen."
+          },
+          {
+            "name": "Auberge de Bussigny",
+            "tip": "Bietet traditionelle Schweizer Gerichte in einem klassischen Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fele-fele fondü",
+            "tip": "Kötelező Svájcban, tökéletes egy hangulatos vacsorához."
+          },
+          {
+            "name": "Auberge de Bussigny",
+            "tip": "Hagyományos svájci ételeket kínál klasszikus környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fondue moitié-moitié",
+            "tip": "O necesitate în Elveția, perfect pentru o cină confortabilă."
+          },
+          {
+            "name": "Auberge de Bussigny",
+            "tip": "Servește mâncăruri tradiționale elvețiene într-un cadru clasic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fondue moitié-moitié",
+            "tip": "A must-try in Switzerland, perfect for a cozy dinner."
+          },
+          {
+            "name": "Auberge de Bussigny",
+            "tip": "Serves traditional Swiss dishes in a classic setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Venoge",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses, um dem Trubel zu entfliehen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parc de la Venoge",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die Natur.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Venoge partja",
+            "tip": "Egy csendes séta a folyó mentén, hogy elmeneküljön a nyüzsgés elől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Venoge Park",
+            "tip": "Keressen egy csendes padot, és élvezze a természetet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Venoge",
+            "tip": "O plimbare liniștită de-a lungul râului pentru a scăpa de agitație.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Venoge",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de natură.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Venoge",
+            "tip": "A quiet walk along the river to escape the hustle and bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Venoge Park",
+            "tip": "Find a quiet bench and enjoy the nature.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Produkten und Käse am Markttag."
+          },
+          {
+            "name": "Bäckerei in der Nähe des Platzes",
+            "tip": "Holen Sie sich frisches Brot oder Gebäck als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen helyi termékeket és sajtokat a piacnapon."
+          },
+          {
+            "name": "Pékség a tér közelében",
+            "tip": "Vigyen haza friss kenyeret vagy péksüteményt emlékként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse locale și brânzeturi în ziua de piață."
+          },
+          {
+            "name": "Brutărie lângă piață",
+            "tip": "Luați pâine proaspătă sau produse de patiserie ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for local produce and cheese on market day."
+          },
+          {
+            "name": "Bakery near the square",
+            "tip": "Get some fresh bread or pastries as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag laufen werden.",
+          "Eine wiederverwendbare Wasserflasche ist eine gute Idee.",
+          "Überprüfen Sie die Öffnungszeiten des Tempels im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap gyalogolni fog.",
+          "Egy újratölthető vizes palack jó ötlet.",
+          "Előre ellenőrizze a templom nyitvatartási idejét."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge pe jos toată ziua.",
+          "O sticlă de apă reutilizabilă este o idee bună.",
+          "Verificați în avans orele de deschidere ale templului."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be walking all day.",
+          "A reusable water bottle is a good idea.",
+          "Check the opening hours of the temple in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place de l'Hôtel de Ville",
+            "hu": "Városháza tér",
+            "ro": "Piața Primăriei",
+            "en": "Town Hall Square"
+          },
+          "coords": [
+            6.5512,
+            46.5491
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Startpunkt Ihrer Radtour, ideal um die Karte zu prüfen.",
+            "hu": "A kerékpártúra kiindulópontja, ideális a térkép ellenőrzéséhez.",
+            "ro": "Punctul de plecare al turului cu bicicleta, ideal pentru a verifica harta.",
+            "en": "Starting point of your bike tour, ideal for checking the map."
+          }
+        },
+        {
+          "name": {
+            "de": "Temple de Bussigny",
+            "hu": "Bussigny temploma",
+            "ro": "Templul din Bussigny",
+            "en": "Temple of Bussigny"
+          },
+          "coords": [
+            6.553,
+            46.5505
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:33",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie eintreten.",
+            "hu": "Lépés előtt biztonságosan zárja le a kerékpárját.",
+            "ro": "Încuiați-vă bicicleta în siguranță înainte de a intra.",
+            "en": "Lock your bike securely before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont de la Venoge",
+            "hu": "Venoge híd",
+            "ro": "Podul Venoge",
+            "en": "Venoge Bridge"
+          },
+          "coords": [
+            6.545,
+            46.546
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:12",
+          "stay_min": 15,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Halten Sie für ein schnelles Foto an, bevor Sie weiterfahren.",
+            "hu": "Álljon meg egy gyors fotóra, mielőtt továbbhalad.",
+            "ro": "Opriți-vă pentru o fotografie rapidă înainte de a continua.",
+            "en": "Stop for a quick photo before continuing your ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin de la Venoge",
+            "hu": "Venoge Malom",
+            "ro": "Moara Venoge",
+            "en": "Venoge Mill"
+          },
+          "coords": [
+            6.541,
+            46.543
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein interessanter Halt, um mehr über die lokale Industrie zu erfahren.",
+            "hu": "Érdekes megálló, ahol többet megtudhat a helyi iparról.",
+            "ro": "O oprire interesantă pentru a afla despre industria locală.",
+            "en": "An interesting stop to learn about the local industry."
+          }
+        },
+        {
+          "name": {
+            "de": "Forêt de la Venoge",
+            "hu": "Venoge Erdő",
+            "ro": "Pădurea Venoge",
+            "en": "Venoge Forest"
+          },
+          "coords": [
+            6.52,
+            46.54
+          ],
+          "category": "natural features",
+          "arrive_at": "11:31",
+          "stay_min": 120,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekt für eine ausgedehnte Mittagspause und eine Fahrt durch die Natur.",
+            "hu": "Tökéletes egy hosszabb ebédszünethez és egy természetközeli tekeréshez.",
+            "ro": "Perfect pentru o pauză de prânz extinsă și o plimbare prin natură.",
+            "en": "Perfect for an extended lunch break and a ride through nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de la Venoge",
+            "hu": "Venoge Park",
+            "ro": "Parcul Venoge",
+            "en": "Venoge Park"
+          },
+          "coords": [
+            6.546,
+            46.547
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 39,
+          "hop_from_prev_km": 6.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Entspannen Sie sich nach Ihrer Waldtour, bevor Sie ins Zentrum zurückkehren.",
+            "hu": "Pihenjen az erdei túra után, mielőtt visszatér a központba.",
+            "ro": "Relaxați-vă după turul prin pădure înainte de a vă întoarce în centru.",
+            "en": "Relax after your forest tour before heading back to the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Bussigny und seine Umgebung mit dem Fahrrad. Die Tour beginnt im Stadtzentrum und führt Sie schnell zu den Ufern der Venoge. Sie folgen dem Flusslauf, vorbei an historischen Wahrzeichen wie der Brücke und der Mühle. Das Highlight ist eine Fahrt durch den erfrischenden Forêt de la Venoge, ideal für eine Mittagspause im Grünen. Der Rückweg führt durch den entspannenden Parc de la Venoge und schließt einen Tag voller Bewegung und Naturerlebnisse ab.",
+        "hu": "Fedezze fel Bussigny-t és környékét kerékpárral. A túra a városközpontból indul, és gyorsan elvezeti a Venoge partjára. A folyó mentén haladva történelmi nevezetességeket, például a hidat és a malmot érinti. A csúcspont a frissítő Venoge-erdőn való áthaladás, amely ideális egy zöldben töltött ebédszünethez. A visszaút a pihentető Venoge Parkon keresztül vezet, lezárva egy mozgással és természeti élményekkel teli napot.",
+        "ro": "Explorați Bussigny și împrejurimile sale cu bicicleta. Turul începe în centrul orașului și vă duce rapid pe malurile râului Venoge. Urmați cursul râului, trecând pe lângă repere istorice precum podul și moara. Punctul culminant este o plimbare prin răcoroasa Pădure Venoge, ideală pentru o pauză de prânz în natură. Traseul de întoarcere trece prin relaxantul Parc Venoge, încheind o zi plină de mișcare și experiențe în natură.",
+        "en": "Explore Bussigny and its surroundings by bike. The tour starts in the city center and quickly takes you to the banks of the Venoge river. You'll follow the river's course, passing historical landmarks like the bridge and the mill. The highlight is a ride through the refreshing Venoge Forest, ideal for a lunch break in nature. The return journey leads through the relaxing Venoge Park, concluding a day full of activity and natural experiences."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Käseschnitte (Croûte au fromage)",
+            "tip": "Eine herzhafte Belohnung nach einer langen Radtour."
+          },
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Für einen schnellen, energiereichen Snack zwischendurch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sajtos kenyér (Croûte au fromage)",
+            "tip": "Kiadós jutalom egy hosszú kerékpártúra után."
+          },
+          {
+            "name": "Helyi pékség",
+            "tip": "Egy gyors, energiadús harapnivalóhoz útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tartină cu brânză (Croûte au fromage)",
+            "tip": "O recompensă consistentă după o plimbare lungă cu bicicleta."
+          },
+          {
+            "name": "Brutărie locală",
+            "tip": "Pentru o gustare rapidă și energizantă între opriri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cheese on toast (Croûte au fromage)",
+            "tip": "A hearty reward after a long bike ride."
+          },
+          {
+            "name": "Local bakery",
+            "tip": "For a quick, energy-boosting snack on the go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Forêt de la Venoge",
+            "tip": "Finden Sie einen abgelegenen Weg und genießen Sie die Stille des Waldes.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Flussufer am frühen Morgen",
+            "tip": "Die beste Zeit für eine ruhige Fahrt, bevor die Spaziergänger kommen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Venoge Erdő",
+            "tip": "Keressen egy eldugott ösvényt, és élvezze az erdő csendjét.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Folyópart kora reggel",
+            "tip": "A legjobb idő egy csendes tekeréshez, mielőtt a sétálók megérkeznek.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Venoge",
+            "tip": "Găsiți o potecă retrasă și bucurați-vă de liniștea pădurii.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Malul râului dimineața devreme",
+            "tip": "Cel mai bun moment pentru o plimbare liniștită înainte de sosirea plimbăreților.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Venoge Forest",
+            "tip": "Find a secluded path and enjoy the silence of the woods.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Riverbank in the early morning",
+            "tip": "The best time for a quiet ride before the walkers arrive.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sportgeschäft",
+            "tip": "Falls Sie Zubehör oder eine schnelle Reparatur für Ihr Fahrrad benötigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sportbolt",
+            "tip": "Ha kiegészítőre vagy gyors javításra van szüksége a kerékpárjához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de sport",
+            "tip": "În caz că aveți nevoie de accesorii sau o reparație rapidă pentru bicicletă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sports shop",
+            "tip": "In case you need any accessories or a quick repair for your bike."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie einen Helm und bringen Sie ein Schloss für Ihr Fahrrad mit.",
+          "Die Wege entlang des Flusses können schmal sein, fahren Sie vorsichtig.",
+          "Eine kleine Reparaturausrüstung kann nützlich sein."
+        ],
+        "hu": [
+          "Viseljen sisakot, és hozzon magával lakatot a kerékpárjához.",
+          "A folyó menti ösvények keskenyek lehetnek, óvatosan közlekedjen.",
+          "Egy kis javítókészlet hasznos lehet."
+        ],
+        "ro": [
+          "Purtați cască și aduceți un lacăt pentru bicicletă.",
+          "Potecile de-a lungul râului pot fi înguste, mergeți cu grijă.",
+          "Un mic kit de reparații poate fi util."
+        ],
+        "en": [
+          "Wear a helmet and bring a lock for your bike.",
+          "The paths along the river can be narrow, ride carefully.",
+          "A small repair kit can be useful."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 15.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum",
+            "hu": "Központi Parkoló",
+            "ro": "Parcare Centrală",
+            "en": "Central Parking"
+          },
+          "coords": [
+            6.5505,
+            46.5495
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den ersten Teil Ihres Spaziergangs.",
+            "hu": "Parkoljon itt a séta első részéhez.",
+            "ro": "Parcați aici pentru prima parte a plimbării dumneavoastră.",
+            "en": "Park here for the first cluster of your walking tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Place de l'Hôtel de Ville",
+            "hu": "Városháza tér",
+            "ro": "Piața Primăriei",
+            "en": "Town Hall Square"
+          },
+          "coords": [
+            6.5512,
+            46.5491
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:18",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der erste Halt Ihrer Wanderung im Stadtzentrum.",
+            "hu": "A belvárosi séta első megállója.",
+            "ro": "Prima oprire a plimbării dumneavoastră în centrul orașului.",
+            "en": "The first stop on your downtown walking tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Temple de Bussigny",
+            "hu": "Bussigny temploma",
+            "ro": "Templul din Bussigny",
+            "en": "Temple of Bussigny"
+          },
+          "coords": [
+            6.553,
+            46.5505
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz entfernt.",
+            "hu": "Csak egy rövid séta a tértől.",
+            "ro": "La o scurtă plimbare de piață.",
+            "en": "Just a short walk from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz am Fluss",
+            "hu": "Folyóparti Parkoló",
+            "ro": "Parcare lângă râu",
+            "en": "Riverside Parking"
+          },
+          "coords": [
+            6.547,
+            46.5475
+          ],
+          "category": "transport",
+          "arrive_at": "10:49",
+          "stay_min": 5,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum nächsten Cluster und parken Sie hier für die Erkundung des Flussufers.",
+            "hu": "Vezessen a következő ponthoz, és parkoljon itt a folyópart felfedezéséhez.",
+            "ro": "Conduceți la următorul grup și parcați aici pentru a explora malul râului.",
+            "en": "Drive to the next cluster and park here for the riverside exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de la Venoge",
+            "hu": "Venoge Park",
+            "ro": "Parcul Venoge",
+            "en": "Venoge Park"
+          },
+          "coords": [
+            6.546,
+            46.547
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:57",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie einen längeren Aufenthalt und vielleicht ein Mittagessen im Freien.",
+            "hu": "Élvezze a hosszabb itt-tartózkodást, esetleg egy szabadtéri ebéddel.",
+            "ro": "Bucurați-vă de o ședere mai lungă și poate de un prânz în aer liber.",
+            "en": "Enjoy a longer stay and perhaps have lunch outdoors."
+          }
+        },
+        {
+          "name": {
+            "de": "Forêt de la Venoge (Aussichtspunkt)",
+            "hu": "Venoge Erdő (Kilátópont)",
+            "ro": "Pădurea Venoge (Punct de belvedere)",
+            "en": "Venoge Forest (Viewpoint)"
+          },
+          "coords": [
+            6.515,
+            46.538
+          ],
+          "category": "natural features",
+          "arrive_at": "13:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 11,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie tiefer in die Natur für einen Panoramablick und einen Waldspaziergang.",
+            "hu": "Hajtson mélyebbre a természetbe egy panorámás kilátásért és egy erdei sétáért.",
+            "ro": "Conduceți mai adânc în natură pentru o vedere panoramică și o plimbare prin pădure.",
+            "en": "Drive deeper into nature for a panoramic view and a forest walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie Bussigny flexibel erkunden. Parken Sie im Zentrum für einen Spaziergang zu den wichtigsten Sehenswürdigkeiten. Am Vormittag fahren Sie zum Flussufer, parken erneut und genießen den Parc de la Venoge. Der Nachmittag ist für eine Fahrt in den nahegelegenen Forêt de la Venoge reserviert, wo Sie die Natur und die Aussicht genießen können. Dieser Plan kombiniert kurze Fahrten mit angenehmen Spaziergängen und maximiert Ihr Erlebnis.",
+        "hu": "Autóval rugalmasan fedezheti fel Bussigny-t. Parkoljon a központban, és tegyen egy sétát a fő látnivalókhoz. Délelőtt vezessen le a folyóparthoz, parkoljon le újra, és élvezze a Venoge Parkot. A délután a közeli Venoge-erdőbe tett kirándulásé, ahol gyönyörködhet a természetben és a kilátásban. Ez a terv rövid autózásokat kombinál kellemes sétákkal, maximalizálva az élményt.",
+        "ro": "Cu mașina, puteți explora Bussigny în mod flexibil. Parcați în centru pentru o plimbare la principalele atracții. Dimineața, conduceți spre malul râului, parcați din nou și bucurați-vă de Parcul Venoge. După-amiaza este rezervată pentru o excursie în Pădurea Venoge din apropiere, unde vă puteți bucura de natură și de priveliști. Acest plan combină drumuri scurte cu plimbări plăcute, maximizându-vă experiența.",
+        "en": "The car allows you to explore Bussigny flexibly. Park in the center for a walk to the main sights. In the morning, drive to the riverside, park again, and enjoy the Venoge Park. The afternoon is reserved for a trip to the nearby Venoge Forest, where you can enjoy nature and the views. This plan combines short drives with pleasant walks, maximizing your experience."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rösti",
+            "tip": "Ein klassisches Schweizer Kartoffelgericht, sättigend und lecker."
+          },
+          {
+            "name": "Landgasthof ausserhalb der Stadt",
+            "tip": "Nutzen Sie das Auto, um ein authentisches Restaurant in der Umgebung zu finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Röszti",
+            "tip": "Klasszikus svájci burgonyaétel, laktató és finom."
+          },
+          {
+            "name": "Vidéki fogadó a városon kívül",
+            "tip": "Használja ki az autót, és keressen egy autentikus éttermet a környéken."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rösti",
+            "tip": "Un preparat clasic elvețian din cartofi, sățios și delicios."
+          },
+          {
+            "name": "Han rustic în afara orașului",
+            "tip": "Folosiți mașina pentru a găsi un restaurant autentic în împrejurimi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rösti",
+            "tip": "A classic Swiss potato dish, filling and delicious."
+          },
+          {
+            "name": "Country inn outside the city",
+            "tip": "Use the car to find an authentic restaurant in the surroundings."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt im Forêt de la Venoge",
+            "tip": "Die Fahrt lohnt sich für die Stille und den weiten Blick.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Eine ruhige Ecke im Parc de la Venoge",
+            "tip": "Abseits der Hauptwege finden Sie friedliche Plätze.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópont a Venoge-erdőben",
+            "tip": "Megéri az utat a csendért és a pazar kilátásért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Egy csendes sarok a Venoge Parkban",
+            "tip": "A fő ösvényektől távol békés helyeket találhat.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere în Pădurea Venoge",
+            "tip": "Merită drumul pentru liniște și priveliștea panoramică.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Un colț liniștit în Parcul Venoge",
+            "tip": "Departe de cărările principale, veți găsi locuri pașnice.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint in the Venoge Forest",
+            "tip": "Worth the drive for the silence and the expansive view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A quiet corner in the Venoge Park",
+            "tip": "Away from the main paths, you'll find peaceful spots.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofladen",
+            "tip": "Halten Sie auf Ihren Fahrten Ausschau nach Schildern für lokale Produkte direkt vom Bauernhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői bolt",
+            "tip": "Az autós utak során figyelje a táblákat, amelyek helyi, tanyasi termékeket hirdetnek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de fermă",
+            "tip": "În timpul călătoriilor cu mașina, fiți atenți la indicatoarele pentru produse locale direct de la fermă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shop",
+            "tip": "On your drives, look out for signs for local produce straight from the farm."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die Parkgebühren und -zeiten.",
+          "Ein GPS ist hilfreich, um die Parkplätze in der Nähe der Cluster zu finden.",
+          "Planen Sie zusätzliche Zeit für den Verkehr ein."
+        ],
+        "hu": [
+          "Figyeljen a parkolási díjakra és időkorlátokra.",
+          "GPS hasznos lehet a látnivalócsoportok közelében lévő parkolók megtalálásához.",
+          "Tervezzen plusz időt a forgalom miatt."
+        ],
+        "ro": [
+          "Fiți atenți la taxele și duratele de parcare.",
+          "Un GPS este util pentru a găsi parcările din apropierea grupurilor de atracții.",
+          "Planificați timp suplimentar pentru trafic."
+        ],
+        "en": [
+          "Pay attention to parking fees and time limits.",
+          "A GPS is helpful for finding the parking spots near the clusters.",
+          "Plan for some extra time for traffic."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 6.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Busbahnhof Bussigny-Centre",
+            "hu": "Bussigny-Központ buszmegálló",
+            "ro": "Stația de autobuz Bussigny-Centre",
+            "en": "Bussigny-Centre Bus Stop"
+          },
+          "coords": [
+            6.551,
+            46.5495
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Tour hier, im Herzen des öffentlichen Verkehrsnetzes.",
+            "hu": "Kezdje a túrát itt, a tömegközlekedési hálózat szívében.",
+            "ro": "Începeți turul aici, în inima rețelei de transport public.",
+            "en": "Start your tour here, in the heart of the public transport network."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison de Ville",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            6.5515,
+            46.5493
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:18",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang von der Bushaltestelle entfernt.",
+            "hu": "Csak egy rövid séta a buszmegállótól.",
+            "ro": "La o scurtă plimbare de stația de autobuz.",
+            "en": "Just a short walk from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Centre Culturel",
+            "hu": "Kulturális Központ",
+            "ro": "Centrul Cultural",
+            "en": "Cultural Centre"
+          },
+          "coords": [
+            6.55,
+            46.551
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:56",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Informieren Sie sich über das lokale Kulturprogramm.",
+            "hu": "Ismerje meg a helyi kulturális programot.",
+            "ro": "Aflați despre programul cultural local.",
+            "en": "Check out the local cultural program."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle am Park",
+            "hu": "Park melletti buszmegálló",
+            "ro": "Stația de autobuz de lângă parc",
+            "en": "Bus Stop by the Park"
+          },
+          "coords": [
+            6.5475,
+            46.548
+          ],
+          "category": "transport",
+          "arrive_at": "10:49",
+          "stay_min": 5,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum nächsten Erkundungsgebiet.",
+            "hu": "Menjen busszal a következő felfedezési területre.",
+            "ro": "Luați un autobuz către următoarea zonă de explorare.",
+            "en": "Take a bus to the next area of exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de la Venoge",
+            "hu": "Venoge Park",
+            "ro": "Parcul Venoge",
+            "en": "Venoge Park"
+          },
+          "coords": [
+            6.546,
+            46.547
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:57",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein idealer Ort für eine lange Mittagspause.",
+            "hu": "Ideális hely egy hosszú ebédszünethez.",
+            "ro": "Un loc ideal pentru o pauză lungă de prânz.",
+            "en": "An ideal spot for a long lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont de la Venoge",
+            "hu": "Venoge híd",
+            "ro": "Podul Venoge",
+            "en": "Venoge Bridge"
+          },
+          "coords": [
+            6.545,
+            46.546
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:01",
+          "stay_min": 45,
+          "hop_from_prev_min": 34,
+          "hop_from_prev_km": 3.4,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine weitere kurze Busfahrt bringt Sie zu diesem malerischen Ort.",
+            "hu": "Egy újabb rövid buszút visz el ehhez a festői helyhez.",
+            "ro": "O altă călătorie scurtă cu autobuzul vă duce la acest loc pitoresc.",
+            "en": "Another short bus ride takes you to this scenic spot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Bussigny bequem mit öffentlichen Verkehrsmitteln. Starten Sie im Zentrum und spazieren Sie zu den ersten Sehenswürdigkeiten. Eine kurze Busfahrt bringt Sie dann zum grünen Parc de la Venoge, perfekt für eine ausgedehnte Mittagspause. Eine weitere Fahrt führt Sie zu den malerischen Orten am Fluss. Dieser Plan zeigt, wie Sie die Stadt effizient und umweltfreundlich erleben können, indem Sie Busfahrten mit kurzen Spaziergängen kombinieren.",
+        "hu": "Fedezze fel Bussigny-t kényelmesen tömegközlekedéssel. Induljon a központból, és sétáljon el az első látnivalókhoz. Egy rövid buszút viszi a zöldellő Venoge Parkba, amely tökéletes egy hosszabb ebédszünethez. Egy másik út a folyó festői helyeihez vezet. Ez a terv bemutatja, hogyan élheti át a várost hatékonyan és környezetbarát módon, kombinálva a buszozást rövid sétákkal.",
+        "ro": "Explorați Bussigny confortabil cu transportul public. Începeți din centru și plimbați-vă la primele atracții. O scurtă călătorie cu autobuzul vă duce apoi la verdele Parc Venoge, perfect pentru o pauză de prânz prelungită. O altă călătorie vă duce la locurile pitorești de pe râu. Acest plan arată cum puteți experimenta orașul eficient și ecologic, combinând călătoriile cu autobuzul cu plimbări scurte.",
+        "en": "Explore Bussigny comfortably using public transport. Start in the center and walk to the first sights. A short bus ride then takes you to the green Venoge Park, perfect for an extended lunch break. Another ride leads you to the scenic spots on the river. This plan shows how to experience the city efficiently and eco-friendly, combining bus rides with short walks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei-Sandwich",
+            "tip": "Perfekt für ein schnelles Mittagessen zwischen zwei Busfahrten."
+          },
+          {
+            "name": "Restaurant nahe einer Haltestelle",
+            "tip": "Suchen Sie ein Lokal, das leicht mit dem Bus zu erreichen ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Péksüteményes szendvics",
+            "tip": "Tökéletes egy gyors ebédhez két buszozás között."
+          },
+          {
+            "name": "Étterem egy megálló közelében",
+            "tip": "Keressen egy helyet, amely könnyen megközelíthető busszal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sandviș de la brutărie",
+            "tip": "Perfect pentru un prânz rapid între două călătorii cu autobuzul."
+          },
+          {
+            "name": "Restaurant lângă o stație",
+            "tip": "Căutați un local ușor accesibil cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery sandwich",
+            "tip": "Perfect for a quick lunch between bus rides."
+          },
+          {
+            "name": "Restaurant near a bus stop",
+            "tip": "Look for a place that is easily accessible by bus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Oberdeck eines Busses",
+            "tip": "Wenn verfügbar, bietet es eine ruhige Perspektive auf die Stadt.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Ein Spaziergang abseits der Hauptstraßen",
+            "tip": "Steigen Sie eine Haltestelle früher aus und erkunden Sie eine Wohngegend.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy busz emelete",
+            "tip": "Ha van, csendes perspektívát kínál a városra.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Séta a főutcáktól távol",
+            "tip": "Szálljon le egy megállóval korábban, és fedezzen fel egy lakónegyedet.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etajul superior al unui autobuz",
+            "tip": "Dacă este disponibil, oferă o perspectivă liniștită asupra orașului.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "O plimbare departe de străzile principale",
+            "tip": "Coborâți cu o stație mai devreme și explorați o zonă rezidențială.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Upper deck of a bus",
+            "tip": "If available, it offers a quiet perspective on the city.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "A walk off the main streets",
+            "tip": "Get off one stop early and explore a residential area.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Für Last-Minute-Souvenirs oder einen Snack für die Fahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszpályaudvaron",
+            "tip": "Utolsó pillanatos ajándéktárgyakért vagy egy harapnivalóért az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la autogară",
+            "tip": "Pentru suveniruri de ultim moment sau o gustare pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus station",
+            "tip": "For last-minute souvenirs or a snack for the ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Laden Sie die lokale ÖPNV-App herunter, um Fahrpläne in Echtzeit zu sehen.",
+          "Beachten Sie, dass Busse abends seltener fahren könnten."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Töltse le a helyi közlekedési alkalmazást a valós idejű menetrendekért.",
+          "Vegye figyelembe, hogy a buszok este ritkábban közlekedhetnek."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru călătorii nelimitate.",
+          "Descărcați aplicația locală de transport public pentru orare în timp real.",
+          "Rețineți că autobuzele pot circula mai rar seara."
+        ],
+        "en": [
+          "Buy a day pass for unlimited travel.",
+          "Download the local public transport app for real-time schedules.",
+          "Be aware that buses might be less frequent in the evening."
+        ]
+      }
+    }
+  }
+}

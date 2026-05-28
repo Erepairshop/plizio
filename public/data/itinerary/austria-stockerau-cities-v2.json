@@ -1,0 +1,1292 @@
+{
+  "city_id": "austria-stockerau-cities-v2",
+  "anchor": {
+    "name": "Stockerau",
+    "coords": [
+      16.2125,
+      48.3853
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 2.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus und Kolomanibrunnen",
+            "hu": "Városháza és Kálmán-kút",
+            "ro": "Primăria și Fântâna Koloman",
+            "en": "Town Hall and Koloman Fountain"
+          },
+          "coords": [
+            16.2115,
+            48.3855
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Stephan",
+            "hu": "Szent István plébániatemplom",
+            "ro": "Biserica parohială Sf. Ștefan",
+            "en": "Parish Church of St. Stephen"
+          },
+          "coords": [
+            16.213,
+            48.3865
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Belvedereschlössl",
+            "hu": "Belvedereschlössl kastély",
+            "ro": "Castelul Belvedereschlössl",
+            "en": "Belvedereschlössl Castle"
+          },
+          "coords": [
+            16.208,
+            48.387
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:40",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the City Center"
+          },
+          "coords": [
+            16.211,
+            48.385
+          ],
+          "category": "gastro",
+          "arrive_at": "11:50",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Lenautheater",
+            "hu": "Lenau Színház",
+            "ro": "Teatrul Lenau",
+            "en": "Lenau Theatre"
+          },
+          "coords": [
+            16.21,
+            48.384
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:15",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Sparkassenpark",
+            "hu": "Sparkassenpark",
+            "ro": "Parcul Sparkassen",
+            "en": "Sparkassenpark"
+          },
+          "coords": [
+            16.215,
+            48.383
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Spaziergang durch Stockerau beginnt am belebten Hauptplatz beim Rathaus. Vormittags erkunden Sie die beeindruckende Stadtpfarrkirche und das barocke Belvedereschlössl. Nach einem traditionellen Mittagessen im Stadtzentrum führt der Weg am Nachmittag am Lenautheater vorbei in den ruhigen Sparkassenpark. Der Tag endet entspannt im Grünen, während Sie die gemütliche Atmosphäre der Kleinstadt auf sich wirken lassen.",
+        "hu": "A stockeraui séta a nyüzsgő főtéren, a Városházánál kezdődik. Délelőtt fedezze fel a lenyűgöző plébániatemplomot és a barokk Belvedereschlössl kastélyt. Egy hagyományos belvárosi ebéd után délután a Lenau Színház mellett elhaladva a csendes Sparkassenparkba vezet az út. A nap zöld környezetben, a kisváros hangulatos atmoszférájában pihenve ér véget.",
+        "ro": "O plimbare prin Stockerau începe în piața principală plină de viață, lângă Primărie. Dimineața explorați impresionanta biserică parohială și castelul baroc Belvedereschlössl. După un prânz tradițional în centrul orașului, după-amiaza drumul vă duce pe lângă Teatrul Lenau spre liniștitul Parc Sparkassen. Ziua se încheie relaxant în natură, bucurându-vă de atmosfera confortabilă a micului oraș.",
+        "en": "A walk through Stockerau begins at the lively main square by the Town Hall. In the morning, explore the impressive parish church and the baroque Belvedereschlössl castle. After a traditional lunch in the city center, the afternoon path leads past the Lenau Theatre to the quiet Sparkassenpark. The day ends relaxingly in the greenery, soaking up the cozy atmosphere of the small town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gasthaus zur Alten Mühle",
+            "tip": "Probieren Sie den Zwiebelrostbraten, eine lokale Spezialität."
+          },
+          {
+            "name": "Hopfeld - das Wirtshaus",
+            "tip": "Bekannt für seine exzellenten Schnitzel und das gemütliche Ambiente."
+          },
+          {
+            "name": "Konditorei Raimitz",
+            "tip": "Ein Muss für Kaffee und Kuchen am Nachmittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gasthaus zur Alten Mühle",
+            "tip": "Kóstolja meg a hagymás rostélyost, egy helyi specialitást."
+          },
+          {
+            "name": "Hopfeld - das Wirtshaus",
+            "tip": "Kiváló szeleteiről és hangulatos környezetéről ismert."
+          },
+          {
+            "name": "Raimitz Cukrászda",
+            "tip": "Délutáni kávézáshoz és süteményezéshez kötelező."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gasthaus zur Alten Mühle",
+            "tip": "Încercați Zwiebelrostbraten (friptură de vită cu ceapă), o specialitate locală."
+          },
+          {
+            "name": "Hopfeld - das Wirtshaus",
+            "tip": "Renumit pentru șnițelele excelente și atmosfera primitoare."
+          },
+          {
+            "name": "Cofetăria Raimitz",
+            "tip": "O oprire obligatorie pentru o cafea și o prăjitură după-amiaza."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gasthaus zur Alten Mühle",
+            "tip": "Try the Zwiebelrostbraten (onion roast beef), a local specialty."
+          },
+          {
+            "name": "Hopfeld - das Wirtshaus",
+            "tip": "Known for its excellent Schnitzel and cozy ambiance."
+          },
+          {
+            "name": "Konditorei Raimitz",
+            "tip": "A must for an afternoon coffee and cake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sparkassenpark",
+            "tip": "Eine ruhige Oase mitten in der Stadt, ideal für eine Pause. 🍃",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang an der Göllersbach",
+            "tip": "Ein friedlicher Weg entlang des kleinen Baches am Stadtrand. 🏞️",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhof Stockerau",
+            "tip": "Ein Ort der Stille und Besinnung mit historischem Charakter. 🧘",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sparkassenpark",
+            "tip": "Csendes oázis a város közepén, ideális egy kis szünetre. 🍃",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Séta a Göllersbach mentén",
+            "tip": "Békés útvonal a kis patak mentén a város szélén. 🏞️",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stockeraui temető",
+            "tip": "A csend és elmélkedés helye, történelmi jelleggel. 🧘",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Sparkassen",
+            "tip": "O oază de liniște în mijlocul orașului, ideală pentru o pauză. 🍃",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare de-a lungul pârâului Göllersbach",
+            "tip": "O potecă pașnică de-a lungul micului pârâu la marginea orașului. 🏞️",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul Stockerau",
+            "tip": "Un loc de liniște și reflecție cu caracter istoric. 🧘",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sparkassenpark",
+            "tip": "A quiet oasis in the middle of the city, ideal for a break. 🍃",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Walk along the Göllersbach stream",
+            "tip": "A peaceful path along the small stream on the outskirts of town. 🏞️",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stockerau Cemetery",
+            "tip": "A place of silence and contemplation with historical character. 🧘",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt am Hauptplatz",
+            "tip": "Jeden Samstagvormittag für frische, regionale Produkte."
+          },
+          {
+            "name": "Buchhandlung Böck",
+            "tip": "Eine charmante, unabhängige Buchhandlung im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac a főtéren",
+            "tip": "Minden szombat délelőtt friss, regionális termékekért."
+          },
+          {
+            "name": "Böck Könyvesbolt",
+            "tip": "Bájos, független könyvesbolt a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală din Piața Principală",
+            "tip": "În fiecare sâmbătă dimineața pentru produse proaspete, regionale."
+          },
+          {
+            "name": "Librăria Böck",
+            "tip": "O librărie independentă fermecătoare în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market on the Main Square",
+            "tip": "Every Saturday morning for fresh, regional products."
+          },
+          {
+            "name": "Böck Bookstore",
+            "tip": "A charming, independent bookstore in the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster im Zentrum uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten sind klein und erfordern nicht viel Zeit, genießen Sie also das gemütliche Tempo.",
+          "Nehmen Sie sich Zeit für eine Kaffeepause in einer der lokalen Konditoreien.",
+          "Der Sparkassenpark ist der perfekte Ort für ein kleines Picknick."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a belvárosi macskakő egyenetlen lehet.",
+          "A legtöbb látnivaló kicsi és nem igényel sok időt, így élvezze a kényelmes tempót.",
+          "Szánjon időt egy kávészünetre az egyik helyi cukrászdában.",
+          "A Sparkassenpark tökéletes hely egy kis piknikhez."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din centru poate fi denivelat.",
+          "Majoritatea atracțiilor sunt mici și nu necesită mult timp, așa că bucurați-vă de ritmul relaxat.",
+          "Luați-vă timp pentru o pauză de cafea la una dintre cofetăriile locale.",
+          "Parcul Sparkassen este locul perfect pentru un mic picnic."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the center can be uneven.",
+          "Most sights are small and don't require much time, so enjoy the leisurely pace.",
+          "Take time for a coffee break in one of the local confectioneries.",
+          "The Sparkassenpark is the perfect place for a small picnic."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 14.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus und Kolomanibrunnen",
+            "hu": "Városháza és Kálmán-kút",
+            "ro": "Primăria și Fântâna Koloman",
+            "en": "Town Hall and Koloman Fountain"
+          },
+          "coords": [
+            16.2115,
+            48.3855
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Stephan",
+            "hu": "Szent István plébániatemplom",
+            "ro": "Biserica parohială Sf. Ștefan",
+            "en": "Parish Church of St. Stephen"
+          },
+          "coords": [
+            16.213,
+            48.3865
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Belvedereschlössl",
+            "hu": "Belvedereschlössl kastély",
+            "ro": "Castelul Belvedereschlössl",
+            "en": "Belvedereschlössl Castle"
+          },
+          "coords": [
+            16.208,
+            48.387
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:22",
+          "stay_min": 50,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Au-Terrasse",
+            "hu": "Utazás az Au-teraszhoz",
+            "ro": "Plimbare spre Terasa Au",
+            "en": "Ride to the Au-Terrasse"
+          },
+          "coords": [
+            16.24,
+            48.4
+          ],
+          "category": "natural features",
+          "arrive_at": "11:42",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5
+        },
+        {
+          "name": {
+            "de": "Mittagessen nahe der Donau",
+            "hu": "Ebéd a Duna közelében",
+            "ro": "Prânz lângă Dunăre",
+            "en": "Lunch near the Danube"
+          },
+          "coords": [
+            16.238,
+            48.398
+          ],
+          "category": "gastro",
+          "arrive_at": "13:02",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum & Sparkassenpark",
+            "hu": "Vissza a központba és a Sparkassenparkba",
+            "ro": "Întoarcere în centru și Parcul Sparkassen",
+            "en": "Return to the Center & Sparkassenpark"
+          },
+          "coords": [
+            16.215,
+            48.383
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:20",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 48,
+          "hop_from_prev_km": 8
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad beginnt der Tag im Herzen von Stockerau am Rathaus. Nach der Besichtigung der Kirche und des Belvedereschlössls führt die Route aus der Stadt hinaus zur idyllischen Au-Terrasse. Dort genießen Sie die Natur und ein Mittagessen am Wasser. Am Nachmittag radeln Sie zurück ins Zentrum für eine entspannte Pause im Sparkassenpark. Die Tour verbindet städtische Kultur mit einem erfrischenden Ausflug in die Donauauen.",
+        "hu": "Kerékpárral a nap Stockerau szívében, a Városházánál kezdődik. A templom és a Belvedereschlössl megtekintése után az útvonal a városból az idilli Au-teraszhoz vezet. Itt élvezheti a természetet és egy vízparti ebédet. Délután visszateker a központba, hogy egy pihentető szünetet tartson a Sparkassenparkban. A túra összeköti a városi kultúrát egy frissítő kirándulással a dunai ártéri erdőkbe.",
+        "ro": "Pe bicicletă, ziua începe în inima orașului Stockerau, la Primărie. După vizitarea bisericii și a castelului Belvedereschlössl, traseul duce în afara orașului, spre idilica Terasă Au. Acolo vă bucurați de natură și de un prânz pe malul apei. După-amiaza pedalați înapoi în centru pentru o pauză relaxantă în Parcul Sparkassen. Turul combină cultura urbană cu o excursie revigorantă în luncile Dunării.",
+        "en": "By bike, the day starts in the heart of Stockerau at the Town Hall. After visiting the church and Belvedereschlössl, the route leads out of town to the idyllic Au-Terrasse. There you can enjoy nature and lunch by the water. In the afternoon, you cycle back to the center for a relaxing break in Sparkassenpark. The tour combines urban culture with a refreshing trip to the Danube wetlands."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Donaurestaurant",
+            "tip": "Genießen Sie frischen Fisch mit Blick auf den Fluss in der Nähe der Au-Terrasse."
+          },
+          {
+            "name": "Heuriger Groll",
+            "tip": "Ein authentischer Weinheuriger für eine Jause am Nachmittag."
+          },
+          {
+            "name": "Eissalon Stockerau",
+            "tip": "Perfekt für eine kühle Belohnung nach der Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Duna Étterem",
+            "tip": "Élvezze a friss halat a folyóra néző kilátással az Au-terasz közelében."
+          },
+          {
+            "name": "Groll borozó",
+            "tip": "Autentikus borozó egy délutáni uzsonnához."
+          },
+          {
+            "name": "Stockeraui Fagyizó",
+            "tip": "Tökéletes hűsítő jutalom a kerékpártúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul Dunărea",
+            "tip": "Savurați pește proaspăt cu vedere la fluviu, lângă Terasa Au."
+          },
+          {
+            "name": "Heuriger Groll",
+            "tip": "O tavernă autentică pentru o gustare de după-amiază."
+          },
+          {
+            "name": "Gelateria Stockerau",
+            "tip": "Perfect pentru o recompensă răcoritoare după turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Danube Restaurant",
+            "tip": "Enjoy fresh fish with a view of the river near the Au-Terrasse."
+          },
+          {
+            "name": "Heuriger Groll",
+            "tip": "An authentic wine tavern for an afternoon snack."
+          },
+          {
+            "name": "Eissalon Stockerau",
+            "tip": "Perfect for a cool reward after the bike tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Au-Terrasse",
+            "tip": "Ein herrlicher Aussichtspunkt über die Donauauen, ideal zur Vogelbeobachtung. 🌅",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Radweg entlang der Donau",
+            "tip": "Ein ruhiger und flacher Weg, der sich perfekt für eine entspannte Fahrt eignet. 🏞️",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bank im Sparkassenpark",
+            "tip": "Finden Sie eine ruhige Bank und lesen Sie ein Buch. 🍃",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Au-terasz",
+            "tip": "Csodálatos kilátópont a dunai ártérre, ideális madármegfigyeléshez. 🌅",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kerékpárút a Duna mentén",
+            "tip": "Csendes és sík út, amely tökéletes egy nyugodt tekeréshez. 🏞️",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pad a Sparkassenparkban",
+            "tip": "Keressen egy csendes padot, és olvasson egy könyvet. 🍃",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Terasa Au",
+            "tip": "Un punct de belvedere magnific asupra luncilor Dunării, ideal pentru observarea păsărilor. 🌅",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pista de biciclete de-a lungul Dunării",
+            "tip": "Un traseu liniștit și plat, perfect pentru o plimbare relaxantă. 🏞️",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O bancă în Parcul Sparkassen",
+            "tip": "Găsiți o bancă liniștită și citiți o carte. 🍃",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Au-Terrasse",
+            "tip": "A magnificent viewpoint over the Danube wetlands, ideal for bird watching. 🌅",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cycle path along the Danube",
+            "tip": "A quiet and flat path, perfect for a relaxed ride. 🏞️",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A bench in Sparkassenpark",
+            "tip": "Find a quiet bench and read a book. 🍃",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft Stockerau",
+            "tip": "Für alle Notfälle oder wenn Sie Zubehör benötigen."
+          },
+          {
+            "name": "Bauernladen in der Umgebung",
+            "tip": "Halten Sie Ausschau nach Hofläden für lokale Marmeladen oder Säfte als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stockeraui Kerékpárbolt",
+            "tip": "Minden vészhelyzetre, vagy ha kiegészítőre van szüksége."
+          },
+          {
+            "name": "Termelői bolt a környéken",
+            "tip": "Keresse a gazdaboltokat, ahol helyi lekvárokat vagy gyümölcsleveket vásárolhat ajándékba."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete Stockerau",
+            "tip": "Pentru orice urgență sau dacă aveți nevoie de accesorii."
+          },
+          {
+            "name": "Magazin agricol în zonă",
+            "tip": "Căutați magazinele fermelor pentru gemuri sau sucuri locale ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stockerau Bike Shop",
+            "tip": "For any emergencies or if you need accessories."
+          },
+          {
+            "name": "Farm shop in the area",
+            "tip": "Look out for farm shops for local jams or juices as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Nehmen Sie ausreichend Wasser mit, besonders für die Fahrt zur Au-Terrasse.",
+          "Schließen Sie Ihr Fahrrad im Stadtzentrum immer gut ab.",
+          "Die Radwege sind gut ausgebaut, aber seien Sie im Stadtverkehr vorsichtig."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját, különösen a fékeket és a gumikat.",
+          "Vigyen magával elegendő vizet, különösen az Au-teraszhoz vezető útra.",
+          "A belvárosban mindig gondosan zárja le a kerékpárját.",
+          "A kerékpárutak jól kiépítettek, de legyen óvatos a városi forgalomban."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele și anvelopele.",
+          "Luați suficientă apă cu voi, mai ales pentru drumul spre Terasa Au.",
+          "Încuiați-vă întotdeauna bine bicicleta în centrul orașului.",
+          "Pistele de biciclete sunt bine dezvoltate, dar fiți atenți în traficul urban."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes and tires.",
+          "Take enough water with you, especially for the ride to the Au-Terrasse.",
+          "Always lock your bike securely in the city center.",
+          "The cycle paths are well-developed, but be careful in city traffic."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 11.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft und Parken im Zentrum",
+            "hu": "Érkezés és parkolás a központban",
+            "ro": "Sosire și parcare în centru",
+            "en": "Arrival and Parking in the Center"
+          },
+          "coords": [
+            16.214,
+            48.3845
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Rathaus und Kolomanibrunnen",
+            "hu": "Városháza és Kálmán-kút",
+            "ro": "Primăria și Fântâna Koloman",
+            "en": "Town Hall and Koloman Fountain"
+          },
+          "coords": [
+            16.2115,
+            48.3855
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:25",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Stephan",
+            "hu": "Szent István plébániatemplom",
+            "ro": "Biserica parohială Sf. Ștefan",
+            "en": "Parish Church of St. Stephen"
+          },
+          "coords": [
+            16.213,
+            48.3865
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Belvedereschlössl",
+            "hu": "Belvedereschlössl kastély",
+            "ro": "Castelul Belvedereschlössl",
+            "en": "Belvedereschlössl Castle"
+          },
+          "coords": [
+            16.208,
+            48.387
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:55",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Au-Terrasse",
+            "hu": "Utazás az Au-teraszhoz",
+            "ro": "Drumul spre Terasa Au",
+            "en": "Drive to the Au-Terrasse"
+          },
+          "coords": [
+            16.24,
+            48.4
+          ],
+          "category": "natural features",
+          "arrive_at": "12:55",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 5.5
+        },
+        {
+          "name": {
+            "de": "Spaziergang und Kaffee",
+            "hu": "Séta és kávé",
+            "ro": "Plimbare și cafea",
+            "en": "Walk and Coffee"
+          },
+          "coords": [
+            16.238,
+            48.398
+          ],
+          "category": "gastro",
+          "arrive_at": "14:30",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt mit dem Auto: Parken Sie im Zentrum von Stockerau und erkunden Sie den ersten Cluster zu Fuß. Der Vormittag ist dem historischen Kern mit Rathaus, Kirche und dem charmanten Belvedereschlössl gewidmet. Nach einem Spaziergang durch die Gassen fahren Sie am Mittag zum zweiten Cluster, der Au-Terrasse. Der Nachmittag wird in der Natur verbracht, mit einem Spaziergang entlang der Donauauen, bevor Sie den Tag bei einem Kaffee ausklingen lassen. Diese Tour kombiniert bequem städtische Entdeckungen mit einem entspannenden Naturerlebnis.",
+        "hu": "A nap autóval kezdődik: parkoljon Stockerau központjában, és fedezze fel gyalog az első látnivalócsoportot. A délelőttöt a történelmi városmagnak szenteljük, a Városházával, a templommal és a bájos Belvedereschlössl kastéllyal. A sikátorokban tett séta után délben autózzon el a második helyszínre, az Au-teraszhoz. A délutánt a természetben tölti, sétálva a dunai ártéri erdők mentén, mielőtt egy kávéval zárja a napot. Ez a túra kényelmesen ötvözi a városi felfedezéseket a pihentető természeti élménnyel.",
+        "ro": "Ziua începe cu mașina: parcați în centrul orașului Stockerau și explorați primul grup de atracții pe jos. Dimineața este dedicată centrului istoric, cu Primăria, biserica și fermecătorul castel Belvedereschlössl. După o plimbare pe alei, la prânz conduceți spre al doilea grup de atracții, Terasa Au. După-amiaza o petreceți în natură, cu o plimbare de-a lungul luncilor Dunării, înainte de a încheia ziua cu o cafea. Acest tur combină în mod convenabil descoperirile urbane cu o experiență relaxantă în natură.",
+        "en": "The day begins by car: park in the center of Stockerau and explore the first cluster of sights on foot. The morning is dedicated to the historic core with the Town Hall, the church, and the charming Belvedereschlössl castle. After a walk through the alleys, drive to the second cluster, the Au-Terrasse, at noon. The afternoon is spent in nature, with a walk along the Danube wetlands, before ending the day with a coffee. This tour conveniently combines urban discoveries with a relaxing nature experience."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gasthaus zur Alten Mühle",
+            "tip": "Klassische österreichische Küche im Herzen der Stadt."
+          },
+          {
+            "name": "Donaurestaurant",
+            "tip": "Ideal für ein Mittagessen mit Aussicht nach dem Besuch der Au-Terrasse."
+          },
+          {
+            "name": "Stadt-Cafe Stockerau",
+            "tip": "Ein gemütlicher Ort für einen Kaffee, bevor Sie die Stadt verlassen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gasthaus zur Alten Mühle",
+            "tip": "Klasszikus osztrák konyha a város szívében."
+          },
+          {
+            "name": "Duna Étterem",
+            "tip": "Ideális egy kilátással egybekötött ebédhez az Au-terasz meglátogatása után."
+          },
+          {
+            "name": "Stadt-Cafe Stockerau",
+            "tip": "Hangulatos hely egy kávéra, mielőtt elhagyná a várost."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gasthaus zur Alten Mühle",
+            "tip": "Bucătărie austriacă clasică în inima orașului."
+          },
+          {
+            "name": "Restaurantul Dunărea",
+            "tip": "Ideal pentru un prânz cu vedere după vizitarea Terasei Au."
+          },
+          {
+            "name": "Stadt-Cafe Stockerau",
+            "tip": "Un loc primitor pentru o cafea înainte de a părăsi orașul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gasthaus zur Alten Mühle",
+            "tip": "Classic Austrian cuisine in the heart of the city."
+          },
+          {
+            "name": "Danube Restaurant",
+            "tip": "Ideal for a lunch with a view after visiting the Au-Terrasse."
+          },
+          {
+            "name": "Stadt-Cafe Stockerau",
+            "tip": "A cozy place for a coffee before leaving the city."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussicht von der Au-Terrasse",
+            "tip": "Genießen Sie die weite, ruhige Landschaft der Donauauen. 🌅",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spazierweg in der Au",
+            "tip": "Finden Sie einen ruhigen Pfad und lauschen Sie den Geräuschen der Natur. 🏞️",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Innenhof des Belvedereschlössl",
+            "tip": "Ein kleiner, oft übersehener Ort der Ruhe. 🧘",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás az Au-teraszról",
+            "tip": "Élvezze a dunai ártér tágas, csendes táját. 🌅",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sétaút az ártéri erdőben",
+            "tip": "Keressen egy csendes ösvényt, és hallgassa a természet hangjait. 🏞️",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Belvedereschlössl belső udvara",
+            "tip": "Egy kicsi, gyakran figyelmen kívül hagyott, békés hely. 🧘",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la Terasa Au",
+            "tip": "Bucurați-vă de peisajul vast și liniștit al luncilor Dunării. 🌅",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Potecă de plimbare în luncă",
+            "tip": "Găsiți o potecă liniștită și ascultați sunetele naturii. 🏞️",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea interioară a Castelului Belvedereschlössl",
+            "tip": "Un loc mic, adesea trecut cu vederea, de liniște. 🧘",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the Au-Terrasse",
+            "tip": "Enjoy the vast, quiet landscape of the Danube wetlands. 🌅",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Walking path in the wetlands",
+            "tip": "Find a quiet path and listen to the sounds of nature. 🏞️",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Courtyard of Belvedereschlössl",
+            "tip": "A small, often overlooked place of peace. 🧘",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ab-Hof-Verkauf in der Region",
+            "tip": "Suchen Sie nach Schildern für Wein, Honig oder andere lokale Produkte auf dem Weg."
+          },
+          {
+            "name": "Souvenirs im Stadtmuseum",
+            "tip": "Kleine Andenken und Bücher zur Stadtgeschichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői árusítás a régióban",
+            "tip": "Keresse az út mentén a bort, mézet vagy más helyi termékeket hirdető táblákat."
+          },
+          {
+            "name": "Ajándéktárgyak a Városi Múzeumban",
+            "tip": "Apró emléktárgyak és könyvek a város történetéről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vânzare direct de la fermă în regiune",
+            "tip": "Căutați semne pentru vin, miere sau alte produse locale pe drum."
+          },
+          {
+            "name": "Suveniruri la Muzeul Orașului",
+            "tip": "Mici suveniruri și cărți despre istoria orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm-gate sales in the region",
+            "tip": "Look for signs for wine, honey, or other local products on the way."
+          },
+          {
+            "name": "Souvenirs at the City Museum",
+            "tip": "Small mementos and books about the city's history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten im Zentrum im Voraus. Es gibt Kurzparkzonen.",
+          "Ein Navigationsgerät ist hilfreich, um die Au-Terrasse zu finden.",
+          "Lassen Sie keine Wertsachen sichtbar im Auto liegen.",
+          "Kombinieren Sie den Besuch mit einem Abstecher zu einem Heurigen in der Umgebung."
+        ],
+        "hu": [
+          "Előre ellenőrizze a parkolási lehetőségeket a központban. Vannak rövid távú parkolási zónák.",
+          "Egy navigációs eszköz segít megtalálni az Au-teraszt.",
+          "Ne hagyjon értékeket látható helyen az autóban.",
+          "Kösse össze a látogatást egy kirándulással a környékbeli borozók egyikébe."
+        ],
+        "ro": [
+          "Verificați în avans opțiunile de parcare din centru. Există zone de parcare pe termen scurt.",
+          "Un sistem de navigație este util pentru a găsi Terasa Au.",
+          "Nu lăsați obiecte de valoare la vedere în mașină.",
+          "Combinați vizita cu o excursie la o tavernă de vinuri din zonă."
+        ],
+        "en": [
+          "Check parking options in the center in advance. There are short-term parking zones.",
+          "A navigation device is helpful to find the Au-Terrasse.",
+          "Do not leave valuables visible in the car.",
+          "Combine the visit with a trip to a local wine tavern in the area."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 5.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof Stockerau",
+            "hu": "Érkezés a stockeraui vasútállomásra",
+            "ro": "Sosire la gara Stockerau",
+            "en": "Arrival at Stockerau train station"
+          },
+          "coords": [
+            16.205,
+            48.381
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Rathaus und Hauptplatz",
+            "hu": "Városháza és főtér",
+            "ro": "Primăria și Piața Principală",
+            "en": "Town Hall and Main Square"
+          },
+          "coords": [
+            16.2115,
+            48.3855
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:30",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Stephan",
+            "hu": "Szent István plébániatemplom",
+            "ro": "Biserica parohială Sf. Ștefan",
+            "en": "Parish Church of St. Stephen"
+          },
+          "coords": [
+            16.213,
+            48.3865
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Belvedereschlössl",
+            "hu": "Ebéd és a Belvedereschlössl",
+            "ro": "Prânz și Castelul Belvedereschlössl",
+            "en": "Lunch and Belvedereschlössl Castle"
+          },
+          "coords": [
+            16.208,
+            48.387
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:10",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Sparkassenpark",
+            "hu": "Buszozás a Sparkassenparkba",
+            "ro": "Călătorie cu autobuzul spre Parcul Sparkassen",
+            "en": "Bus ride to Sparkassenpark"
+          },
+          "coords": [
+            16.215,
+            48.383
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:50",
+          "stay_min": 75,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 3.5
+        },
+        {
+          "name": {
+            "de": "Stadtsaal und Rückweg zum Bahnhof",
+            "hu": "Városháza és vissza az állomásra",
+            "ro": "Sala de concerte și întoarcerea la gară",
+            "en": "City Hall and return to the station"
+          },
+          "coords": [
+            16.206,
+            48.382
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:25",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Anreise erfolgt bequem mit dem Zug. Vom Bahnhof Stockerau aus erkunden Sie den ersten Cluster, das Stadtzentrum, zu Fuß. Vormittags stehen der Hauptplatz und die Kirche auf dem Programm, gefolgt von einem Mittagessen nahe dem Belvedereschlössl. Am Nachmittag bringt Sie ein lokaler Bus zum zweiten Cluster, dem Sparkassenpark, für eine entspannte Zeit im Grünen. Der Tag endet mit einem kurzen Spaziergang zurück zum Bahnhof, voller Eindrücke von der charmanten Stadt.",
+        "hu": "Az utazás kényelmesen vonattal történik. A stockeraui vasútállomásról gyalogosan fedezheti fel az első látnivalócsoportot, a városközpontot. Délelőtt a főtér és a templom szerepel a programban, majd ebéd a Belvedereschlössl közelében. Délután egy helyi busz viszi el a második helyszínre, a Sparkassenparkba, ahol pihenhet a zöldben. A nap egy rövid sétával ér véget vissza az állomásra, tele a bájos város benyomásaival.",
+        "ro": "Călătoria se face confortabil cu trenul. De la gara Stockerau, explorați primul grup de atracții, centrul orașului, pe jos. Programul de dimineață include piața principală și biserica, urmate de prânz lângă Castelul Belvedereschlössl. După-amiaza, un autobuz local vă duce la al doilea grup de atracții, Parcul Sparkassen, pentru un moment de relaxare în natură. Ziua se încheie cu o scurtă plimbare înapoi la gară, plină de impresii despre orașul fermecător.",
+        "en": "The journey is comfortably made by train. From Stockerau station, you explore the first cluster, the city center, on foot. The morning program includes the main square and the church, followed by lunch near Belvedereschlössl Castle. In the afternoon, a local bus takes you to the second cluster, Sparkassenpark, for some relaxing time in the greenery. The day ends with a short walk back to the station, full of impressions of the charming city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hopfeld - das Wirtshaus",
+            "tip": "Gut zu Fuß vom Zentrum erreichbar für ein authentisches Mittagessen."
+          },
+          {
+            "name": "Café am Bahnhof",
+            "tip": "Praktisch für einen schnellen Kaffee vor der Abfahrt."
+          },
+          {
+            "name": "Konditorei Raimitz",
+            "tip": "Gönnen Sie sich ein Stück Torte als Belohnung am Nachmittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hopfeld - das Wirtshaus",
+            "tip": "Könnyen megközelíthető gyalog a központból egy autentikus ebédért."
+          },
+          {
+            "name": "Kávézó az állomáson",
+            "tip": "Praktikus egy gyors kávéra indulás előtt."
+          },
+          {
+            "name": "Raimitz Cukrászda",
+            "tip": "Jutalmazza meg magát egy szelet tortával délután."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hopfeld - das Wirtshaus",
+            "tip": "Ușor accesibil pe jos din centru pentru un prânz autentic."
+          },
+          {
+            "name": "Cafenea la gară",
+            "tip": "Practic pentru o cafea rapidă înainte de plecare."
+          },
+          {
+            "name": "Cofetăria Raimitz",
+            "tip": "Răsfățați-vă cu o felie de tort ca recompensă după-amiaza."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hopfeld - das Wirtshaus",
+            "tip": "Easily accessible on foot from the center for an authentic lunch."
+          },
+          {
+            "name": "Café at the train station",
+            "tip": "Convenient for a quick coffee before departure."
+          },
+          {
+            "name": "Konditorei Raimitz",
+            "tip": "Treat yourself to a slice of cake as a reward in the afternoon."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sparkassenpark",
+            "tip": "Eine grüne Lunge, die mit dem Bus leicht erreichbar ist. 🍃",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pfarrgarten hinter der Kirche",
+            "tip": "Ein kleiner, ruhiger Garten, der oft übersehen wird. 🧘",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Warten auf den Zug",
+            "tip": "Nutzen Sie die Zeit am Bahnhof, um die Eindrücke des Tages zu verarbeiten. 🏞️",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sparkassenpark",
+            "tip": "Zöld oázis, amely busszal könnyen megközelíthető. 🍃",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plébániakert a templom mögött",
+            "tip": "Egy kicsi, csendes kert, amelyet gyakran figyelmen kívül hagynak. 🧘",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Várakozás a vonatra",
+            "tip": "Használja ki az állomáson töltött időt a nap benyomásainak feldolgozására. 🏞️",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Sparkassen",
+            "tip": "Un plămân verde ușor accesibil cu autobuzul. 🍃",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grădina parohială din spatele bisericii",
+            "tip": "O grădină mică și liniștită, adesea trecută cu vederea. 🧘",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Așteptând trenul",
+            "tip": "Folosiți timpul petrecut în gară pentru a procesa impresiile zilei. 🏞️",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sparkassenpark",
+            "tip": "A green lung easily accessible by bus. 🍃",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parish garden behind the church",
+            "tip": "A small, quiet garden that is often overlooked. 🧘",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Waiting for the train",
+            "tip": "Use the time at the station to process the day's impressions. 🏞️",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte am Hauptplatz",
+            "tip": "Stöbern Sie in den kleinen Läden rund um den Hauptplatz."
+          },
+          {
+            "name": "Bäckerei am Weg",
+            "tip": "Kaufen Sie lokales Gebäck für die Heimfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Üzletek a főtéren",
+            "tip": "Böngésszen a főtér körüli kis üzletekben."
+          },
+          {
+            "name": "Pékség útközben",
+            "tip": "Vásároljon helyi péksüteményt a hazaútra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine în Piața Principală",
+            "tip": "Răsfoiți magazinele mici din jurul pieței principale."
+          },
+          {
+            "name": "Brutărie pe drum",
+            "tip": "Cumpărați produse de patiserie locale pentru călătoria spre casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops on the main square",
+            "tip": "Browse the small shops around the main square."
+          },
+          {
+            "name": "Bakery on the way",
+            "tip": "Buy local pastries for the journey home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel, falls verfügbar.",
+          "Informieren Sie sich im Voraus über die Busfahrpläne, da die Intervalle am Nachmittag länger sein können.",
+          "Der Fußweg vom Bahnhof ins Zentrum ist kurz und einfach zu finden.",
+          "Planen Sie genügend Pufferzeit für den Rückweg zum Bahnhof ein."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, ha elérhető.",
+          "Előre tájékozódjon a buszmenetrendről, mivel délután ritkábban járhatnak.",
+          "Az állomástól a központig tartó gyalogút rövid és könnyen megtalálható.",
+          "Tervezzen elegendő időt a visszaútra az állomásra."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public, dacă este disponibil.",
+          "Verificați în avans orarele autobuzelor, deoarece intervalele pot fi mai mari după-amiaza.",
+          "Plimbarea de la gară la centru este scurtă și ușor de găsit.",
+          "Planificați suficient timp tampon pentru drumul de întoarcere la gară."
+        ],
+        "en": [
+          "Buy a day ticket for public transport, if available.",
+          "Check the bus schedules in advance, as intervals may be longer in the afternoon.",
+          "The walk from the station to the center is short and easy to find.",
+          "Plan enough buffer time for the way back to the station."
+        ]
+      }
+    }
+  }
+}

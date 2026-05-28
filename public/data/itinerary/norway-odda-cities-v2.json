@@ -1,0 +1,1263 @@
+{
+  "city_id": "norway-odda-cities-v2",
+  "anchor": {
+    "name": "Odda",
+    "coords": [
+      6.54,
+      60.06
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 3.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Folgefonna Nationalparkzentrum",
+            "hu": "Folgefonna Nemzeti Park Látogatóközpont",
+            "ro": "Centrul Parcului Național Folgefonna",
+            "en": "Folgefonna National Park Centre"
+          },
+          "coords": [
+            6.543,
+            60.065
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Interaktive Ausstellungen über den Gletscher und den Fjord.",
+            "hu": "Interaktív kiállítások a gleccserről és a fjordról.",
+            "ro": "Expoziții interactive despre ghețar și fiord.",
+            "en": "Interactive exhibits about the glacier and the fjord."
+          }
+        },
+        {
+          "name": {
+            "de": "Odda Kirche",
+            "hu": "Oddai templom",
+            "ro": "Biserica din Odda",
+            "en": "Odda Church"
+          },
+          "coords": [
+            6.545,
+            60.069
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Eine charmante Holzkirche aus dem 19. Jahrhundert.",
+            "hu": "Egy bájos, 19. századi fatemplom.",
+            "ro": "O biserică fermecătoare din lemn, din secolul al XIX-lea.",
+            "en": "A charming wooden church from the 19th century."
+          }
+        },
+        {
+          "name": {
+            "de": "Odda Smelteverk",
+            "hu": "Odda Kohóművek",
+            "ro": "Topitoria din Odda",
+            "en": "Odda Smelting Plant"
+          },
+          "coords": [
+            6.551,
+            60.072
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein faszinierender Einblick in die Industriegeschichte Norwegens.",
+            "hu": "Lenyűgöző betekintés Norvégia ipartörténetébe.",
+            "ro": "O privire fascinantă în istoria industrială a Norvegiei.",
+            "en": "A fascinating insight into Norway's industrial history."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebéd a városközpontban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city center"
+          },
+          "coords": [
+            6.544,
+            60.068
+          ],
+          "category": "gastro",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Probieren Sie lokalen Lachs oder eine herzhafte Suppe.",
+            "hu": "Kóstolja meg a helyi lazacot vagy egy kiadós levest.",
+            "ro": "Încercați somonul local sau o supă consistentă.",
+            "en": "Try some local salmon or a hearty soup."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Sandvinvatnet-See",
+            "hu": "Séta a Sandvinvatnet-tó partján",
+            "ro": "Plimbare pe malul lacului Sandvinvatnet",
+            "en": "Walk along Lake Sandvinvatnet"
+          },
+          "coords": [
+            6.548,
+            60.055
+          ],
+          "category": "natural features",
+          "arrive_at": "15:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe und den Blick auf die Berge.",
+            "hu": "Élvezze a csendet és a hegyekre nyíló kilátást.",
+            "ro": "Bucurați-vă de liniște și de priveliștea munților.",
+            "en": "Enjoy the tranquility and the view of the mountains."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Folgefonna Nationalparkzentrum, um mehr über die eisigen Riesen der Region zu erfahren. Schlendern Sie durch das Zentrum von Odda, besuchen Sie die historische Kirche und das beeindruckende Industriedenkmal des Schmelzwerks. Nach einem stärkenden Mittagessen bietet ein Spaziergang am Ufer des Sandvinvatnet-Sees einen ruhigen Nachmittag mit herrlichem Blick auf die umliegenden Berge. Dieser Rundgang konzentriert sich auf das Herz von Odda und seine reiche Geschichte.",
+        "hu": "Kezdje a napot a Folgefonna Nemzeti Park Látogatóközpontjában, hogy megismerje a régió jeges óriásait. Sétáljon át Odda központján, látogassa meg a történelmi templomot és a lenyűgöző kohászati ipari emlékművet. Egy kiadós ebéd után a Sandvinvatnet-tó partján tett séta békés délutánt kínál, csodálatos kilátással a környező hegyekre. Ez a gyalogtúra Odda szívére és gazdag történelmére összpontosít.",
+        "ro": "Începeți ziua la Centrul Parcului Național Folgefonna pentru a învăța despre giganții de gheață ai regiunii. Plimbați-vă prin centrul orașului Odda, vizitând biserica istorică și impresionantul monument industrial al topitoriei. După un prânz copios, o plimbare pe malul lacului Sandvinvatnet oferă o după-amiază liniștită, cu priveliști magnifice ale munților din jur. Acest tur pietonal se concentrează pe inima orașului Odda și pe istoria sa bogată.",
+        "en": "Start your day at the Folgefonna National Park Centre to learn about the region's icy giants. Stroll through the centre of Odda, visiting the historic church and the impressive industrial monument of the smelting plant. After a hearty lunch, a walk along the shore of Lake Sandvinvatnet offers a peaceful afternoon with magnificent views of the surrounding mountains. This walking tour focuses on the heart of Odda and its rich history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smeltehuset Mat & Drikke",
+            "tip": "Moderne nordische Küche in historischem Ambiente."
+          },
+          {
+            "name": "Fjoren",
+            "tip": "Gemütliches Café mit gutem Kaffee und leichten Mahlzeiten."
+          },
+          {
+            "name": "Lokaler Lachs",
+            "tip": "Frisch aus dem Fjord, oft geräuchert oder gegrillt serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smeltehuset Mat & Drikke",
+            "tip": "Modern skandináv konyha történelmi környezetben."
+          },
+          {
+            "name": "Fjoren",
+            "tip": "Hangulatos kávézó jó kávéval és könnyű ételekkel."
+          },
+          {
+            "name": "Helyi lazac",
+            "tip": "Frissen a fjordból, gyakran füstölve vagy grillezve tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smeltehuset Mat & Drikke",
+            "tip": "Bucătărie nordică modernă într-un cadru istoric."
+          },
+          {
+            "name": "Fjoren",
+            "tip": "Cafenea primitoare cu cafea bună și mese ușoare."
+          },
+          {
+            "name": "Somon local",
+            "tip": "Proaspăt din fiord, adesea servit afumat sau la grătar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smeltehuset Mat & Drikke",
+            "tip": "Modern Nordic cuisine in a historic setting."
+          },
+          {
+            "name": "Fjoren",
+            "tip": "Cozy café with good coffee and light meals."
+          },
+          {
+            "name": "Local Salmon",
+            "tip": "Fresh from the fjord, often served smoked or grilled."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Sandvinvatnet",
+            "tip": "Ein ruhiger Ort, um die Spiegelung der Berge im Wasser zu beobachten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirchhof der Odda Kirche",
+            "tip": "Ein friedlicher Ort mit Blick auf die Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sandvinvatnet partja",
+            "tip": "Csendes hely, ahol megfigyelheti a hegyek tükröződését a vízben.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Az oddai templom kertje",
+            "tip": "Békés hely, kilátással a városra.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Sandvinvatnet",
+            "tip": "Un loc liniștit pentru a privi reflexia munților în apă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea Bisericii din Odda",
+            "tip": "Un loc pașnic cu vedere spre oraș.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shores of Sandvinvatnet",
+            "tip": "A quiet spot to watch the reflection of the mountains in the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Odda Church graveyard",
+            "tip": "A peaceful place with a view over the town.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerksläden",
+            "tip": "Suchen Sie nach Wollprodukten und Holzschnitzereien."
+          },
+          {
+            "name": "Sportgeschäfte",
+            "tip": "Gute Auswahl an Outdoor-Ausrüstung für Wanderungen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keressen gyapjútermékeket és fafaragásokat."
+          },
+          {
+            "name": "Sportboltok",
+            "tip": "Jó választék túrafelszerelésekből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Căutați produse din lână și sculpturi în lemn."
+          },
+          {
+            "name": "Magazine de sport",
+            "tip": "Selecție bună de echipament outdoor pentru drumeții."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local craft shops",
+            "tip": "Look for wool products and wood carvings."
+          },
+          {
+            "name": "Sports shops",
+            "tip": "Good selection of outdoor gear for hiking."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Diese Tour ist nur für das Stadtzentrum von Odda geeignet.",
+          "Die berühmten Wanderungen wie Trolltunga erfordern einen ganzen Tag und eine separate Planung.",
+          "Tragen Sie bequeme Schuhe, da das Gelände hügelig sein kann.",
+          "Prüfen Sie die Öffnungszeiten der Museen, besonders außerhalb der Hauptsaison."
+        ],
+        "hu": [
+          "Ez a túra csak Odda városközpontjára korlátozódik.",
+          "A híres túrák, mint a Trolltunga, egész naposak és külön tervezést igényelnek.",
+          "Viseljen kényelmes cipőt, mivel a terep dombos lehet.",
+          "Ellenőrizze a múzeumok nyitvatartási idejét, különösen a főszezonon kívül."
+        ],
+        "ro": [
+          "Acest tur este potrivit doar pentru centrul orașului Odda.",
+          "Drumețiile faimoase precum Trolltunga necesită o zi întreagă și planificare separată.",
+          "Purtați încălțăminte confortabilă, deoarece terenul poate fi deluros.",
+          "Verificați orele de deschidere ale muzeelor, în special în afara sezonului de vârf."
+        ],
+        "en": [
+          "This tour is only suitable for Odda town centre.",
+          "The famous hikes like Trolltunga require a full day and separate planning.",
+          "Wear comfortable shoes as the terrain can be hilly.",
+          "Check the opening hours of museums, especially outside the main season."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 15.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Odda Smelteverk",
+            "hu": "Odda Kohóművek",
+            "ro": "Topitoria din Odda",
+            "en": "Odda Smelting Plant"
+          },
+          "coords": [
+            6.551,
+            60.072
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, um die industrielle Kraft zu spüren, die das Tal geformt hat.",
+            "hu": "Kezdje itt, hogy átérezze a völgyet formáló ipari erőt.",
+            "ro": "Începeți de aici pentru a simți puterea industrială care a modelat valea.",
+            "en": "Start here to feel the industrial power that shaped the valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt entlang des Sees Sandvinvatnet",
+            "hu": "Kerékpározás a Sandvinvatnet-tó mentén",
+            "ro": "Tur cu bicicleta de-a lungul lacului Sandvinvatnet",
+            "en": "Ride along Lake Sandvinvatnet"
+          },
+          "coords": [
+            6.56,
+            60.03
+          ],
+          "category": "natural features",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Eine flache und malerische Strecke, ideal für eine entspannte Radtour.",
+            "hu": "Sík és festői szakasz, ideális egy laza kerékpártúrához.",
+            "ro": "Un traseu plat și pitoresc, ideal pentru o plimbare relaxantă cu bicicleta.",
+            "en": "A flat and scenic route, ideal for a relaxed bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen mit Aussicht",
+            "hu": "Ebéd kilátással",
+            "ro": "Prânz cu vedere",
+            "en": "Lunch with a view"
+          },
+          "coords": [
+            6.544,
+            60.068
+          ],
+          "category": "gastro",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Zurück im Zentrum, suchen Sie sich ein Restaurant mit Blick auf den Fjord.",
+            "hu": "Visszatérve a központba, keressen egy éttermet, ahonnan kilátás nyílik a fjordra.",
+            "ro": "Înapoi în centru, găsiți un restaurant cu vedere la fiord.",
+            "en": "Back in the center, find a restaurant with a view of the fjord."
+          }
+        },
+        {
+          "name": {
+            "de": "Folgefonna Nationalparkzentrum",
+            "hu": "Folgefonna Nemzeti Park Látogatóközpont",
+            "ro": "Centrul Parcului Național Folgefonna",
+            "en": "Folgefonna National Park Centre"
+          },
+          "coords": [
+            6.543,
+            60.065
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Lernen Sie die Geologie der Region kennen, bevor Sie sie weiter erkunden.",
+            "hu": "Ismerje meg a régió geológiáját, mielőtt tovább felfedezné.",
+            "ro": "Aflați despre geologia regiunii înainte de a o explora mai departe.",
+            "en": "Learn about the geology of the region before exploring further."
+          }
+        },
+        {
+          "name": {
+            "de": "Kraftmuseet",
+            "hu": "Vízierőmű Múzeum",
+            "ro": "Muzeul Hidroenergiei",
+            "en": "Norwegian Museum of Hydropower and Industry"
+          },
+          "coords": [
+            6.559,
+            60.124
+          ],
+          "category": "museums",
+          "arrive_at": "15:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein Muss, um die Bedeutung der Wasserkraft für Norwegen zu verstehen.",
+            "hu": "Kötelező látnivaló, hogy megértsük a vízenergia jelentőségét Norvégiában.",
+            "ro": "O vizită obligatorie pentru a înțelege importanța hidroenergiei pentru Norvegia.",
+            "en": "A must-visit to understand the importance of hydropower for Norway."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad für eine Tour, die Industrie und Natur verbindet. Starten Sie am imposanten Schmelzwerk und radeln Sie dann südwärts entlang des ruhigen Sandvinvatnet-Sees. Kehren Sie ins Zentrum zurück für ein Mittagessen mit Fjordblick. Am Nachmittag tauchen Sie im Nationalparkzentrum und im Kraftmuseet tief in die Geschichte von Gletschern und Wasserkraft ein. Diese Tour bietet eine wunderbare Mischung aus leichter sportlicher Betätigung und faszinierenden Einblicken.",
+        "hu": "Pattanjon kerékpárra egy olyan túrára, amely összeköti az ipart és a természetet. Induljon a lenyűgöző kohóműtől, majd tekerjen dél felé a csendes Sandvinvatnet-tó mentén. Térjen vissza a központba egy fjordra néző ebédre. Délután merüljön el a gleccserek és a vízenergia történetében a Nemzeti Park Látogatóközpontjában és a Vízierőmű Múzeumban. Ez a túra a könnyed testmozgás és a lenyűgöző ismeretek csodálatos keverékét kínálja.",
+        "ro": "Urcați pe bicicletă pentru un tur care combină industria și natura. Începeți de la impresionanta topitorie, apoi pedalați spre sud de-a lungul liniștitului lac Sandvinvatnet. Întoarceți-vă în centru pentru un prânz cu vedere la fiord. După-amiaza, aprofundați istoria ghețarilor și a hidroenergiei la Centrul Parcului Național și la Muzeul Hidroenergiei. Acest tur oferă un amestec minunat de exerciții fizice ușoare și perspective fascinante.",
+        "en": "Get on your bike for a tour that combines industry and nature. Start at the impressive smelting plant, then cycle south along the tranquil Lake Sandvinvatnet. Return to the center for lunch with a fjord view. In the afternoon, delve deep into the history of glaciers and hydropower at the National Park Centre and the Hydropower Museum. This tour offers a wonderful mix of light exercise and fascinating insights."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smeltehuset Mat & Drikke",
+            "tip": "Moderne nordische Küche in historischem Ambiente."
+          },
+          {
+            "name": "Fjoren",
+            "tip": "Gemütliches Café mit gutem Kaffee und leichten Mahlzeiten."
+          },
+          {
+            "name": "Lokaler Lachs",
+            "tip": "Frisch aus dem Fjord, oft geräuchert oder gegrillt serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smeltehuset Mat & Drikke",
+            "tip": "Modern skandináv konyha történelmi környezetben."
+          },
+          {
+            "name": "Fjoren",
+            "tip": "Hangulatos kávézó jó kávéval és könnyű ételekkel."
+          },
+          {
+            "name": "Helyi lazac",
+            "tip": "Frissen a fjordból, gyakran füstölve vagy grillezve tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smeltehuset Mat & Drikke",
+            "tip": "Bucătărie nordică modernă într-un cadru istoric."
+          },
+          {
+            "name": "Fjoren",
+            "tip": "Cafenea primitoare cu cafea bună și mese ușoare."
+          },
+          {
+            "name": "Somon local",
+            "tip": "Proaspăt din fiord, adesea servit afumat sau la grătar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smeltehuset Mat & Drikke",
+            "tip": "Modern Nordic cuisine in a historic setting."
+          },
+          {
+            "name": "Fjoren",
+            "tip": "Cozy café with good coffee and light meals."
+          },
+          {
+            "name": "Local Salmon",
+            "tip": "Fresh from the fjord, often served smoked or grilled."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Südufer des Sandvinvatnet",
+            "tip": "Ein perfekter Ort für eine Pause, weit weg vom Verkehr.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Blick vom Kraftmuseet",
+            "tip": "Genießen Sie die Aussicht über den Sørfjord.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sandvinvatnet déli partja",
+            "tip": "Tökéletes hely egy pihenőre, távol a forgalomtól.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a Vízierőmű Múzeumból",
+            "tip": "Élvezze a kilátást a Sørfjordra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul de sud al lacului Sandvinvatnet",
+            "tip": "Un loc perfect pentru o pauză, departe de trafic.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere de la Muzeul Hidroenergiei",
+            "tip": "Bucurați-vă de priveliștea asupra Sørfjordului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Southern shore of Sandvinvatnet",
+            "tip": "A perfect spot for a break, far from traffic.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from the Hydropower Museum",
+            "tip": "Enjoy the view over the Sørfjord.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerksläden",
+            "tip": "Suchen Sie nach Wollprodukten und Holzschnitzereien."
+          },
+          {
+            "name": "Sportgeschäfte",
+            "tip": "Gute Auswahl an Outdoor-Ausrüstung für Wanderungen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keressen gyapjútermékeket és fafaragásokat."
+          },
+          {
+            "name": "Sportboltok",
+            "tip": "Jó választék túrafelszerelésekből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Căutați produse din lână și sculpturi în lemn."
+          },
+          {
+            "name": "Magazine de sport",
+            "tip": "Selecție bună de echipament outdoor pentru drumeții."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local craft shops",
+            "tip": "Look for wool products and wood carvings."
+          },
+          {
+            "name": "Sports shops",
+            "tip": "Good selection of outdoor gear for hiking."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Einige Strecken können Steigungen aufweisen.",
+          "Nehmen Sie Wasser und Snacks mit, da es außerhalb der Stadt wenige Versorgungsmöglichkeiten gibt.",
+          "Ein Fahrrad mit Gängen ist empfehlenswert.",
+          "Achten Sie auf den Verkehr auf den Hauptstraßen."
+        ],
+        "hu": [
+          "Néhány szakaszon emelkedők lehetnek.",
+          "Vigyen magával vizet és harapnivalót, mert a városon kívül kevés az ellátási lehetőség.",
+          "Váltós kerékpár ajánlott.",
+          "Vigyázzon a forgalomra a főutakon."
+        ],
+        "ro": [
+          "Unele secțiuni pot avea pante.",
+          "Luați apă și gustări, deoarece există puține facilități în afara orașului.",
+          "O bicicletă cu viteze este recomandată.",
+          "Fiți atenți la trafic pe drumurile principale."
+        ],
+        "en": [
+          "Some sections can have inclines.",
+          "Take water and snacks, as there are few facilities outside the town.",
+          "A bicycle with gears is recommended.",
+          "Be aware of traffic on the main roads."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 54.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Låtefossen Wasserfall",
+            "hu": "Låtefossen vízesés",
+            "ro": "Cascada Låtefossen",
+            "en": "Låtefossen Waterfall"
+          },
+          "coords": [
+            6.58,
+            59.94
+          ],
+          "category": "natural features",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Fahren Sie früh los, um den Menschenmassen an diesem berühmten Zwillingswasserfall zu entgehen.",
+            "hu": "Induljon korán, hogy elkerülje a tömeget ennél a híres ikervízesésnél.",
+            "ro": "Porniți devreme pentru a evita mulțimile la această faimoasă cascadă geamănă.",
+            "en": "Leave early to avoid the crowds at this famous twin waterfall."
+          }
+        },
+        {
+          "name": {
+            "de": "Buerbreen Gletscherblick",
+            "hu": "Buerbreen-gleccser kilátó",
+            "ro": "Vedere spre ghețarul Buerbreen",
+            "en": "Buerbreen Glacier View"
+          },
+          "coords": [
+            6.45,
+            60.03
+          ],
+          "category": "natural features",
+          "arrive_at": "10:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 75,
+          "hop_from_prev_km": 25.0,
+          "tip_5lang": {
+            "de": "Vom Parkplatz aus führt ein kurzer Spaziergang zu einem tollen Aussichtspunkt.",
+            "hu": "A parkolóból egy rövid séta vezet egy nagyszerű kilátóponthoz.",
+            "ro": "De la parcare, o scurtă plimbare duce la un punct de belvedere excelent.",
+            "en": "A short walk from the car park leads to a great viewpoint."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Odda",
+            "hu": "Ebéd Oddában",
+            "ro": "Prânz în Odda",
+            "en": "Lunch in Odda"
+          },
+          "coords": [
+            6.544,
+            60.068
+          ],
+          "category": "gastro",
+          "arrive_at": "12:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Zentrum und erkunden Sie die Restaurants zu Fuß.",
+            "hu": "Parkoljon a központban és fedezze fel gyalog az éttermeket.",
+            "ro": "Parcați în centru și explorați restaurantele pe jos.",
+            "en": "Park in the center and explore the restaurants on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Odda Smelteverk (Cluster Odda)",
+            "hu": "Odda Kohóművek (Odda Klaszter)",
+            "ro": "Topitoria din Odda (Cluster Odda)",
+            "en": "Odda Smelting Plant (Odda Cluster)"
+          },
+          "coords": [
+            6.551,
+            60.072
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Vom Restaurant aus ein kurzer Spaziergang.",
+            "hu": "Az étteremtől egy rövid sétára található.",
+            "ro": "O scurtă plimbare de la restaurant.",
+            "en": "A short walk from the restaurant."
+          }
+        },
+        {
+          "name": {
+            "de": "Odda Kirche (Cluster Odda)",
+            "hu": "Oddai templom (Odda Klaszter)",
+            "ro": "Biserica din Odda (Cluster Odda)",
+            "en": "Odda Church (Odda Cluster)"
+          },
+          "coords": [
+            6.545,
+            60.069
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die Gassen zurück in Richtung Zentrum.",
+            "hu": "Sétáljon vissza a sikátorokon a központ felé.",
+            "ro": "Plimbați-vă pe alei înapoi spre centru.",
+            "en": "Stroll through the alleys back towards the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kraftmuseet",
+            "hu": "Vízierőmű Múzeum",
+            "ro": "Muzeul Hidroenergiei",
+            "en": "Norwegian Museum of Hydropower and Industry"
+          },
+          "coords": [
+            6.559,
+            60.124
+          ],
+          "category": "museums",
+          "arrive_at": "16:25",
+          "stay_min": 85,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein letzter Halt, der die Reise wert ist. Planen Sie genügend Zeit ein.",
+            "hu": "Egy utolsó megálló, amely megéri az utazást. Tervezzen elegendő időt.",
+            "ro": "O ultimă oprire care merită călătoria. Planificați suficient timp.",
+            "en": "A final stop that is well worth the trip. Allow enough time."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Auto ist der Schlüssel zu den Wundern um Odda. Fahren Sie morgens zum tosenden Låtefossen und dann zum beeindruckenden Buerbreen-Gletscher. Kehren Sie zum Mittagessen nach Odda zurück und erkunden Sie den Stadtkern mit dem historischen Schmelzwerk und der Kirche zu Fuß. Den Abschluss bildet ein Besuch im Kraftmuseet in Tyssedal, der die Industriegeschichte der Region abrundet. Diese Tour kombiniert spektakuläre Natur mit faszinierender Kulturgeschichte.",
+        "hu": "Az autó a kulcs az Odda körüli csodákhoz. Reggel vezessen a dübörgő Låtefossenhez, majd a lenyűgöző Buerbreen-gleccserhez. Térjen vissza Oddába ebédelni, és fedezze fel gyalog a városközpontot a történelmi kohóművel és a templommal. A napot a tyssedali Vízierőmű Múzeum meglátogatása zárja, amely a régió ipartörténetét teszi teljessé. Ez a túra a látványos természetet a lenyűgöző kultúrtörténettel ötvözi.",
+        "ro": "Mașina este cheia către minunile din jurul orașului Odda. Dimineața, conduceți la zgomotoasa cascadă Låtefossen, apoi la impresionantul ghețar Buerbreen. Întoarceți-vă în Odda pentru prânz și explorați centrul orașului pe jos, cu topitoria sa istorică și biserica. Încheiați ziua cu o vizită la Muzeul Hidroenergiei din Tyssedal, care completează istoria industrială a regiunii. Acest tur combină natura spectaculoasă cu o istorie culturală fascinantă.",
+        "en": "The car is the key to the wonders around Odda. In the morning, drive to the roaring Låtefossen waterfall and then to the impressive Buerbreen glacier. Return to Odda for lunch and explore the town centre on foot, with its historic smelting plant and church. End the day with a visit to the Hydropower Museum in Tyssedal, which rounds off the region's industrial history. This tour combines spectacular nature with fascinating cultural history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smeltehuset Mat & Drikke",
+            "tip": "Moderne nordische Küche in historischem Ambiente."
+          },
+          {
+            "name": "Fjoren",
+            "tip": "Gemütliches Café mit gutem Kaffee und leichten Mahlzeiten."
+          },
+          {
+            "name": "Lokaler Lachs",
+            "tip": "Frisch aus dem Fjord, oft geräuchert oder gegrillt serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smeltehuset Mat & Drikke",
+            "tip": "Modern skandináv konyha történelmi környezetben."
+          },
+          {
+            "name": "Fjoren",
+            "tip": "Hangulatos kávézó jó kávéval és könnyű ételekkel."
+          },
+          {
+            "name": "Helyi lazac",
+            "tip": "Frissen a fjordból, gyakran füstölve vagy grillezve tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smeltehuset Mat & Drikke",
+            "tip": "Bucătărie nordică modernă într-un cadru istoric."
+          },
+          {
+            "name": "Fjoren",
+            "tip": "Cafenea primitoare cu cafea bună și mese ușoare."
+          },
+          {
+            "name": "Somon local",
+            "tip": "Proaspăt din fiord, adesea servit afumat sau la grătar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smeltehuset Mat & Drikke",
+            "tip": "Modern Nordic cuisine in a historic setting."
+          },
+          {
+            "name": "Fjoren",
+            "tip": "Cozy café with good coffee and light meals."
+          },
+          {
+            "name": "Local Salmon",
+            "tip": "Fresh from the fjord, often served smoked or grilled."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Buerbreen Tal",
+            "tip": "Die Stille in der Nähe des Gletschers ist tiefgreifend.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtspunkt an der Straße 13",
+            "tip": "Halten Sie an einem der vielen Parkplätze an und genießen Sie den Blick auf den Fjord.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buerbreen-völgy",
+            "tip": "A gleccser közelében mély csend honol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátó a 13-as úton",
+            "tip": "Álljon meg az egyik parkolóban, és élvezze a fjordra nyíló kilátást.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Valea Buerbreen",
+            "tip": "Liniștea din apropierea ghețarului este profundă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Punct de belvedere pe drumul 13",
+            "tip": "Opriți-vă într-una dintre numeroasele parcări și bucurați-vă de priveliștea fiordului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Buerbreen Valley",
+            "tip": "The silence near the glacier is profound.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Viewpoint on road 13",
+            "tip": "Stop at one of the many car parks and enjoy the view of the fjord.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerksläden",
+            "tip": "Suchen Sie nach Wollprodukten und Holzschnitzereien."
+          },
+          {
+            "name": "Sportgeschäfte",
+            "tip": "Gute Auswahl an Outdoor-Ausrüstung für Wanderungen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keressen gyapjútermékeket és fafaragásokat."
+          },
+          {
+            "name": "Sportboltok",
+            "tip": "Jó választék túrafelszerelésekből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Căutați produse din lână și sculpturi în lemn."
+          },
+          {
+            "name": "Magazine de sport",
+            "tip": "Selecție bună de echipament outdoor pentru drumeții."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local craft shops",
+            "tip": "Look for wool products and wood carvings."
+          },
+          {
+            "name": "Sports shops",
+            "tip": "Good selection of outdoor gear for hiking."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Wanderung zur Trolltunga ist eine extreme Ganztagestour und nicht Teil dieses Plans.",
+          "Parkplätze an den Sehenswürdigkeiten können gebührenpflichtig sein.",
+          "Die Straßen sind schmal und kurvenreich, fahren Sie vorsichtig.",
+          "Überprüfen Sie das Wetter, bevor Sie losfahren, besonders wenn Sie in die Berge fahren."
+        ],
+        "hu": [
+          "A Trolltunga túra egy extrém, egész napos program, és nem része ennek a tervnek.",
+          "A látnivalóknál a parkolás díjköteles lehet.",
+          "Az utak keskenyek és kanyargósak, vezessen óvatosan.",
+          "Indulás előtt ellenőrizze az időjárást, különösen, ha a hegyekbe megy."
+        ],
+        "ro": [
+          "Drumeția la Trolltunga este o excursie extremă de o zi întreagă și nu face parte din acest plan.",
+          "Parcarea la atracții poate fi contra cost.",
+          "Drumurile sunt înguste și șerpuite, conduceți cu prudență.",
+          "Verificați vremea înainte de a pleca, mai ales dacă mergeți la munte."
+        ],
+        "en": [
+          "The hike to Trolltunga is an extreme full-day trip and is not part of this plan.",
+          "Parking at the sights may be subject to a fee.",
+          "The roads are narrow and winding, drive carefully.",
+          "Check the weather before you leave, especially if you are going into the mountains."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 29.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bus nach Låtefossen",
+            "hu": "Busz a Låtefossenhez",
+            "ro": "Autobuz spre Låtefossen",
+            "en": "Bus to Låtefossen"
+          },
+          "coords": [
+            6.58,
+            59.94
+          ],
+          "category": "natural features",
+          "arrive_at": "09:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Der Bus hält direkt am Wasserfall. Seien Sie bereit für die Gischt!",
+            "hu": "A busz közvetlenül a vízesésnél áll meg. Készüljön fel a vízpermetre!",
+            "ro": "Autobuzul oprește chiar la cascadă. Fiți pregătiți pentru stropi!",
+            "en": "The bus stops right at the waterfall. Be prepared for the spray!"
+          }
+        },
+        {
+          "name": {
+            "de": "Bus nach Odda Zentrum und Mittagessen",
+            "hu": "Busz Odda központjába és ebéd",
+            "ro": "Autobuz spre centrul Odda și prânz",
+            "en": "Bus to Odda Centre and Lunch"
+          },
+          "coords": [
+            6.544,
+            60.068
+          ],
+          "category": "gastro",
+          "arrive_at": "11:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Steigen Sie am Busbahnhof aus und suchen Sie sich ein nettes Lokal.",
+            "hu": "Szálljon le a buszpályaudvaron és keressen egy kellemes helyet.",
+            "ro": "Coborâți la autogară și găsiți un loc drăguț.",
+            "en": "Get off at the bus station and find a nice place."
+          }
+        },
+        {
+          "name": {
+            "de": "Odda Smelteverk (Cluster Odda)",
+            "hu": "Odda Kohóművek (Odda Klaszter)",
+            "ro": "Topitoria din Odda (Cluster Odda)",
+            "en": "Odda Smelting Plant (Odda Cluster)"
+          },
+          "coords": [
+            6.551,
+            60.072
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Zentrum aus.",
+            "hu": "Rövid séta a központból.",
+            "ro": "O scurtă plimbare din centru.",
+            "en": "A short walk from the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Odda Kirche (Cluster Odda)",
+            "hu": "Oddai templom (Odda Klaszter)",
+            "ro": "Biserica din Odda (Cluster Odda)",
+            "en": "Odda Church (Odda Cluster)"
+          },
+          "coords": [
+            6.545,
+            60.069
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Auf dem Weg zurück zum Busbahnhof.",
+            "hu": "Úton vissza a buszpályaudvar felé.",
+            "ro": "În drum spre autogară.",
+            "en": "On the way back to the bus station."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Kraftmuseet",
+            "hu": "Busz a Vízierőmű Múzeumhoz",
+            "ro": "Autobuz spre Muzeul Hidroenergiei",
+            "en": "Bus to the Hydropower Museum"
+          },
+          "coords": [
+            6.559,
+            60.124
+          ],
+          "category": "museums",
+          "arrive_at": "15:45",
+          "stay_min": 110,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der Bus nach Tyssedal bringt Sie direkt dorthin.",
+            "hu": "A Tyssedalba tartó busz egyenesen odavisz.",
+            "ro": "Autobuzul spre Tyssedal vă duce direct acolo.",
+            "en": "The bus to Tyssedal takes you right there."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die Region mit dem gut ausgebauten Busnetz. Nehmen Sie den Bus zum Låtefossen, um dessen Kraft zu erleben. Kehren Sie für ein Mittagessen und einen Spaziergang zum Industrieerbe in Odda zurück. Am Nachmittag bringt Sie ein anderer Bus zum Kraftmuseet in Tyssedal. Diese Tour ist ideal für alle, die auf das Auto verzichten und trotzdem die Highlights der Region sehen möchten, und zeigt, wie gut die öffentlichen Verkehrsmittel hier die wichtigsten Punkte verbinden.",
+        "hu": "Fedezze fel a régiót a jól kiépített buszhálózattal. Utazzon busszal a Låtefossenhez, hogy megtapasztalja erejét. Térjen vissza Oddába ebédelni és sétálni az ipari örökséghez. Délután egy másik busz elviszi a tyssedali Vízierőmű Múzeumba. Ez a túra ideális azok számára, akik autó nélkül szeretnék látni a régió nevezetességeit, és bemutatja, milyen jól kötik össze a tömegközlekedési eszközök a legfontosabb pontokat.",
+        "ro": "Explorați regiunea cu rețeaua de autobuze bine dezvoltată. Luați autobuzul spre Låtefossen pentru a experimenta puterea sa. Întoarceți-vă în Odda pentru prânz și o plimbare la patrimoniul industrial. După-amiaza, un alt autobuz vă va duce la Muzeul Hidroenergiei din Tyssedal. Acest tur este ideal pentru cei care doresc să renunțe la mașină, dar să vadă totuși punctele de atracție ale regiunii, demonstrând cât de bine conectează transportul public punctele cheie.",
+        "en": "Explore the region with the well-developed bus network. Take the bus to Låtefossen to experience its power. Return to Odda for lunch and a walk to the industrial heritage. In the afternoon, another bus will take you to the Hydropower Museum in Tyssedal. This tour is ideal for those who want to do without a car but still see the region's highlights, demonstrating how well public transport connects the key points here."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smeltehuset Mat & Drikke",
+            "tip": "Moderne nordische Küche in historischem Ambiente."
+          },
+          {
+            "name": "Fjoren",
+            "tip": "Gemütliches Café mit gutem Kaffee und leichten Mahlzeiten."
+          },
+          {
+            "name": "Lokaler Lachs",
+            "tip": "Frisch aus dem Fjord, oft geräuchert oder gegrillt serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smeltehuset Mat & Drikke",
+            "tip": "Modern skandináv konyha történelmi környezetben."
+          },
+          {
+            "name": "Fjoren",
+            "tip": "Hangulatos kávézó jó kávéval és könnyű ételekkel."
+          },
+          {
+            "name": "Helyi lazac",
+            "tip": "Frissen a fjordból, gyakran füstölve vagy grillezve tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smeltehuset Mat & Drikke",
+            "tip": "Bucătărie nordică modernă într-un cadru istoric."
+          },
+          {
+            "name": "Fjoren",
+            "tip": "Cafenea primitoare cu cafea bună și mese ușoare."
+          },
+          {
+            "name": "Somon local",
+            "tip": "Proaspăt din fiord, adesea servit afumat sau la grătar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smeltehuset Mat & Drikke",
+            "tip": "Modern Nordic cuisine in a historic setting."
+          },
+          {
+            "name": "Fjoren",
+            "tip": "Cozy café with good coffee and light meals."
+          },
+          {
+            "name": "Local Salmon",
+            "tip": "Fresh from the fjord, often served smoked or grilled."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt entlang des Fjords",
+            "tip": "Setzen Sie sich auf die Fjordseite und genießen Sie die Aussicht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Umgebung des Kraftmuseet",
+            "tip": "Nach dem Museumsbesuch ein ruhiger Spaziergang am Wasser.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás a fjord mentén",
+            "tip": "Üljön a fjord felőli oldalra, és élvezze a kilátást.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Vízierőmű Múzeum környéke",
+            "tip": "A múzeumlátogatás után egy csendes séta a vízparton.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătorie cu autobuzul de-a lungul fiordului",
+            "tip": "Așezați-vă pe partea cu fiordul și bucurați-vă de priveliște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Împrejurimile Muzeului Hidroenergiei",
+            "tip": "După vizita la muzeu, o plimbare liniștită pe malul apei.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride along the fjord",
+            "tip": "Sit on the fjord side and enjoy the view.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Surroundings of the Hydropower Museum",
+            "tip": "After the museum visit, a quiet walk by the water.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerksläden",
+            "tip": "Suchen Sie nach Wollprodukten und Holzschnitzereien."
+          },
+          {
+            "name": "Sportgeschäfte",
+            "tip": "Gute Auswahl an Outdoor-Ausrüstung für Wanderungen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keressen gyapjútermékeket és fafaragásokat."
+          },
+          {
+            "name": "Sportboltok",
+            "tip": "Jó választék túrafelszerelésekből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Căutați produse din lână și sculpturi în lemn."
+          },
+          {
+            "name": "Magazine de sport",
+            "tip": "Selecție bună de echipament outdoor pentru drumeții."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local craft shops",
+            "tip": "Look for wool products and wood carvings."
+          },
+          {
+            "name": "Sports shops",
+            "tip": "Good selection of outdoor gear for hiking."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Kosten zu sparen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, da die Busse nicht sehr häufig fahren.",
+          "Die Fahrt zum Buerbreen ist mit öffentlichen Verkehrsmitteln schwierig und nicht in diesem Plan enthalten.",
+          "Seien Sie pünktlich an der Bushaltestelle, besonders bei der Rückfahrt von entlegenen Orten."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy pénzt takarítson meg.",
+          "Előre ellenőrizze a buszmenetrendet, mivel a buszok nem járnak túl sűrűn.",
+          "A Buerbreenhez való eljutás tömegközlekedéssel nehézkes, és nem szerepel ebben a tervben.",
+          "Legyen pontosan a buszmegállóban, különösen a távoli helyekről való visszautazáskor."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru a economisi bani.",
+          "Verificați programul autobuzelor în avans, deoarece acestea nu circulă foarte frecvent.",
+          "Călătoria spre Buerbreen este dificilă cu transportul public și nu este inclusă în acest plan.",
+          "Fiți punctuali la stația de autobuz, mai ales la întoarcerea din locații îndepărtate."
+        ],
+        "en": [
+          "Buy a day pass for the bus to save money.",
+          "Check the bus schedule in advance, as buses do not run very frequently.",
+          "The trip to Buerbreen is difficult with public transport and is not included in this plan.",
+          "Be on time at the bus stop, especially when returning from remote locations."
+        ]
+      }
+    }
+  }
+}

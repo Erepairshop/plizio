@@ -1,0 +1,1284 @@
+{
+  "city_id": "uk-preston-cities-v2",
+  "anchor": {
+    "name": "Preston",
+    "coords": [
+      53.7632,
+      -2.7031
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Winckley Square",
+            "hu": "Winckley tér",
+            "ro": "Piața Winckley",
+            "en": "Winckley Square"
+          },
+          "coords": [
+            -2.701,
+            53.7585
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag in diesem eleganten georgianischen Platz, umgeben von Bäumen.",
+            "hu": "Kezdje a napot ezen az elegáns, fákkal övezett György-korabeli téren.",
+            "ro": "Începeți ziua în această piață georgiană elegantă, înconjurată de copaci.",
+            "en": "Start your day in this elegant Georgian square, surrounded by trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Harris Museum, Kunstgalerie & Bibliothek",
+            "hu": "Harris Múzeum, Művészeti Galéria és Könyvtár",
+            "ro": "Muzeul Harris, Galeria de Artă și Biblioteca",
+            "en": "Harris Museum, Art Gallery & Library"
+          },
+          "coords": [
+            -2.7025,
+            53.76
+          ],
+          "category": "museums",
+          "arrive_at": "09:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Entdeckungs-Galerie zur lokalen Geschichte.",
+            "hu": "Ne hagyja ki a helyi történelemnek szentelt Felfedező Galériát.",
+            "ro": "Nu ratați Galeria Descoperirilor pentru istoria locală.",
+            "en": "Don't miss the Discovery Gallery for local history."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Walburge's Kirche",
+            "hu": "Szent Walburge-templom",
+            "ro": "Biserica Sf. Walburge",
+            "en": "St. Walburge's Church"
+          },
+          "coords": [
+            -2.71,
+            53.765
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie den höchsten Kirchturm einer Pfarrkirche in England.",
+            "hu": "Csodálja meg Anglia legmagasabb plébániatemplomi tornyát.",
+            "ro": "Admirați cea mai înaltă turlă de biserică parohială din Anglia.",
+            "en": "Admire the tallest spire of any parish church in England."
+          }
+        },
+        {
+          "name": {
+            "de": "Preston Guild Hall",
+            "hu": "Prestoni Céhcsarnok",
+            "ro": "Guild Hall din Preston",
+            "en": "Preston Guild Hall"
+          },
+          "coords": [
+            -2.698,
+            53.7595
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zeit für ein Mittagessen in einem der nahegelegenen Cafés.",
+            "hu": "Ebédidő a környékbeli kávézók egyikében.",
+            "ro": "Timp pentru prânz la una dintre cafenelele din apropiere.",
+            "en": "Time for lunch at one of the nearby cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Avenham & Miller Parks",
+            "hu": "Avenham és Miller Parkok",
+            "ro": "Parcurile Avenham și Miller",
+            "en": "Avenham & Miller Parks"
+          },
+          "coords": [
+            -2.6995,
+            53.755
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für einen entspannten Spaziergang am Nachmittag am Fluss Ribble.",
+            "hu": "Tökéletes hely egy pihentető délutáni sétához a Ribble folyó mentén.",
+            "ro": "Un loc perfect pentru o plimbare relaxantă de după-amiază de-a lungul râului Ribble.",
+            "en": "A perfect spot for a relaxing afternoon walk along the River Ribble."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Lancashire",
+            "hu": "Lancashire Múzeuma",
+            "ro": "Muzeul Lancashire",
+            "en": "Museum of Lancashire"
+          },
+          "coords": [
+            -2.7083,
+            53.7698
+          ],
+          "category": "museums",
+          "arrive_at": "16:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem tiefen Einblick in die Geschichte der Grafschaft.",
+            "hu": "Zárja a túrát a megye történelmének mély megismerésével.",
+            "ro": "Încheiați turul cu o incursiune profundă în istoria comitatului.",
+            "en": "End your tour with a deep dive into the county's history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Tag zu Fuß durch Preston, der mit dem eleganten Winckley Square beginnt. Das Herz der Stadt schlägt im Harris Museum, das Kunst und Geschichte vereint. Der Nachmittag wird mit einem Spaziergang am Fluss in den malerischen Avenham und Miller Parks abgerundet. Der Tag endet mit einem Einblick in die lokale Kultur in der Guild Hall und der reichen Geschichte im Lancashire Museum.",
+        "hu": "Egy gyalogos nap Prestonban, mely az elegáns Winckley térrel kezdődik. A város szíve a Harris Múzeumban dobog, amely a művészetet és a történelmet ötvözi. A délutánt egy folyóparti séta teszi teljessé a festői Avenham és Miller parkokban. A napot a Guild Hall helyi kultúrájába és a Lancashire Múzeum gazdag történelmébe való bepillantás zárja.",
+        "ro": "O zi pe jos prin Preston, începând cu eleganta Piață Winckley. Inima orașului bate la Muzeul Harris, care combină arta și istoria. După-amiaza este completată de o plimbare pe malul râului în pitoreștile parcuri Avenham și Miller. Ziua se încheie cu o incursiune în cultura locală la Guild Hall și în istoria bogată la Muzeul Lancashire.",
+        "en": "A day on foot through Preston, starting with the elegant Winckley Square. The heart of the city beats in the Harris Museum, combining art and history. The afternoon is completed with a riverside walk in the picturesque Avenham and Miller Parks. The day concludes with a glimpse into local culture at the Guild Hall and rich history at the Museum of Lancashire."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lancashire Hotpot",
+            "tip": "Ein herzhafter Lammeintopf, der langsam gekocht wird. Probieren Sie ihn im The Black Horse Pub."
+          },
+          {
+            "name": "Butter Pie",
+            "tip": "Ein lokaler Klassiker, eine vegetarische Pastete mit Kartoffeln und Zwiebeln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lancashire Hotpot",
+            "tip": "Lassú tűzön főtt, kiadós bárányragu. Kóstolja meg a The Black Horse Pub-ban."
+          },
+          {
+            "name": "Vajas pite",
+            "tip": "Helyi klasszikus, vegetáriánus pite burgonyával és hagymával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lancashire Hotpot",
+            "tip": "O tocană consistentă de miel, gătită lent. Încercați-o la The Black Horse Pub."
+          },
+          {
+            "name": "Plăcintă cu unt",
+            "tip": "Un clasic local, o plăcintă vegetariană cu cartofi și ceapă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lancashire Hotpot",
+            "tip": "A hearty lamb stew, slow-cooked to perfection. Try it at The Black Horse Pub."
+          },
+          {
+            "name": "Butter Pie",
+            "tip": "A local classic, a vegetarian pie made with potatoes and onions."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Avenham Park Japanischer Garten",
+            "tip": "Finden Sie einen ruhigen Moment im wunderschön gestalteten japanischen Garten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Ribble",
+            "tip": "Ein friedlicher Spaziergang entlang des Flusses bei Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Avenham Park japánkertje",
+            "tip": "Találjon egy csendes pillanatot a gyönyörűen kialakított japánkertben.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ribble folyó partja",
+            "tip": "Békés séta a folyó mentén naplementekor.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Japoneză din Parcul Avenham",
+            "tip": "Găsiți un moment de liniște în grădina japoneză frumos amenajată.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malurile râului Ribble",
+            "tip": "O plimbare pașnică de-a lungul râului la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Avenham Park Japanese Garden",
+            "tip": "Find a quiet moment in the beautifully designed Japanese garden.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the River Ribble",
+            "tip": "A peaceful walk along the river as the sun sets.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Preston Market",
+            "tip": "Entdecken Sie lokale Produkte, Kunsthandwerk und Street Food unter einem Dach."
+          },
+          {
+            "name": "Fishergate High Street",
+            "tip": "Die wichtigste Einkaufsstraße für bekannte Marken und Geschäfte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Prestoni piac",
+            "tip": "Fedezze fel a helyi termékeket, kézműves termékeket és utcai ételeket egy helyen."
+          },
+          {
+            "name": "Fishergate High Street",
+            "tip": "A fő bevásárlóutca ismert márkákkal és üzletekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Preston",
+            "tip": "Descoperiți produse locale, artizanat și mâncare stradală sub un singur acoperiș."
+          },
+          {
+            "name": "Fishergate High Street",
+            "tip": "Principala stradă comercială pentru mărci și magazine cunoscute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Preston Market",
+            "tip": "Discover local produce, crafts, and street food all under one roof."
+          },
+          {
+            "name": "Fishergate High Street",
+            "tip": "The main shopping thoroughfare for well-known brands and stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum kompakt und gut zu Fuß erreichbar ist.",
+          "Prüfen Sie die Öffnungszeiten des Harris Museums im Voraus.",
+          "Viele Kneipen in der Innenstadt bieten traditionelle Lancashire-Gerichte an."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, a városközpont kompakt és könnyen bejárható.",
+          "Ellenőrizze előre a Harris Múzeum nyitvatartási idejét.",
+          "A belvárosi pubok közül sok kínál hagyományos lancashire-i ételeket."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, centrul orașului este compact și ușor de parcurs pe jos.",
+          "Verificați în avans programul de funcționare al Muzeului Harris.",
+          "Multe pub-uri din centrul orașului servesc mâncăruri tradiționale din Lancashire."
+        ],
+        "en": [
+          "Wear comfortable shoes as the city centre is compact and very walkable.",
+          "Check the opening times for the Harris Museum in advance.",
+          "Many city centre pubs serve traditional Lancashire meals."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Deepdale Stadion",
+            "hu": "Deepdale Stadion",
+            "ro": "Stadionul Deepdale",
+            "en": "Deepdale Stadium"
+          },
+          "coords": [
+            -2.688,
+            53.771
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beginnen Sie mit einem Foto in diesem historischen Fußballstadion.",
+            "hu": "Kezdje egy fotóval ennél a történelmi futballstadionnál.",
+            "ro": "Începeți cu o fotografie la acest stadion de fotbal istoric.",
+            "en": "Start with a photo stop at this historic football ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Harris Museum, Kunstgalerie & Bibliothek",
+            "hu": "Harris Múzeum, Művészeti Galéria és Könyvtár",
+            "ro": "Muzeul Harris, Galeria de Artă și Biblioteca",
+            "en": "Harris Museum, Art Gallery & Library"
+          },
+          "coords": [
+            -2.7025,
+            53.76
+          ],
+          "category": "museums",
+          "arrive_at": "09:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab und tauchen Sie in die Kunst ein.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és merüljön el a művészetben.",
+            "ro": "Asigurați-vă bicicleta și scufundați-vă în artă.",
+            "en": "Lock up your bike securely and dive into the art."
+          }
+        },
+        {
+          "name": {
+            "de": "Winckley Square",
+            "hu": "Winckley tér",
+            "ro": "Piața Winckley",
+            "en": "Winckley Square"
+          },
+          "coords": [
+            -2.701,
+            53.7585
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Zeit für einen Kaffee und ein Mittagessen in der Nähe dieses charmanten Platzes.",
+            "hu": "Ideje egy kávénak és ebédnek e bájos tér közelében.",
+            "ro": "Timp pentru o cafea și prânz lângă această piață fermecătoare.",
+            "en": "Time for a coffee and lunch near this charming square."
+          }
+        },
+        {
+          "name": {
+            "de": "Avenham & Miller Parks",
+            "hu": "Avenham és Miller Parkok",
+            "ro": "Parcurile Avenham și Miller",
+            "en": "Avenham & Miller Parks"
+          },
+          "coords": [
+            -2.6995,
+            53.755
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie eine Radtour auf den Wegen entlang des Flusses.",
+            "hu": "Élvezze a kerékpározást a folyó menti ösvényeken.",
+            "ro": "Bucurați-vă de o plimbare cu bicicleta pe potecile de-a lungul râului.",
+            "en": "Enjoy a cycle through the paths along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Ribble-Dampfeisenbahn und Museum",
+            "hu": "Ribble Gőzvasút és Múzeum",
+            "ro": "Calea Ferată cu Abur și Muzeul Ribble",
+            "en": "Ribble Steam Railway and Museum"
+          },
+          "coords": [
+            -2.715,
+            53.745
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Erkunden Sie das industrielle Erbe der Region. Prüfen Sie die Fahrtage!",
+            "hu": "Fedezze fel a régió ipari örökségét. Ellenőrizze a menetrendet!",
+            "ro": "Explorați patrimoniul industrial al regiunii. Verificați zilele de funcționare!",
+            "en": "Explore the region's industrial heritage. Check for running days!"
+          }
+        },
+        {
+          "name": {
+            "de": "St. Walburge's Kirche",
+            "hu": "Szent Walburge-templom",
+            "ro": "Biserica Sf. Walburge",
+            "en": "St. Walburge's Church"
+          },
+          "coords": [
+            -2.71,
+            53.765
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einem Blick auf diese beeindruckende Turmspitze.",
+            "hu": "Fejezze be a kerékpártúrát egy pillantással erre a lenyűgöző toronyra.",
+            "ro": "Încheiați turul cu bicicleta cu o priveliște a acestei turle impresionante.",
+            "en": "End your bike tour with a view of this impressive spire."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine Radtour durch Preston führt Sie vom historischen Fußball von Deepdale ins kulturelle Herz im Harris Museum. Nach einer Pause am Winckley Square genießen Sie die grünen Wege der Avenham & Miller Parks. Die Tour führt Sie dann nach Süden zum industriellen Erbe der Ribble Steam Railway, bevor Sie mit dem majestätischen Anblick der St. Walburge's Kirche abschließen.",
+        "hu": "A prestoni kerékpártúra a történelmi Deepdale futballpályától a Harris Múzeum kulturális szívébe vezet. A Winckley téren tartott szünet után élvezze az Avenham & Miller parkok zöld ösvényeit. A túra ezután délre, a Ribble Gőzvasút ipari örökségéhez vezet, majd a Szent Walburge-templom fenséges látványával zárul.",
+        "ro": "Un tur cu bicicleta prin Preston vă duce de la fotbalul istoric de la Deepdale la inima culturală de la Muzeul Harris. După o pauză în Piața Winckley, bucurați-vă de potecile verzi din parcurile Avenham & Miller. Turul se îndreaptă apoi spre sud, către moștenirea industrială a Căii Ferate cu Abur Ribble, înainte de a se încheia cu priveliștea maiestuoasă a Bisericii Sf. Walburge.",
+        "en": "A bike tour of Preston takes you from the historic football of Deepdale to the cultural heart at the Harris Museum. After a break at Winckley Square, enjoy the green paths of Avenham & Miller Parks. The tour then heads south to the industrial heritage of the Ribble Steam Railway before finishing with the majestic sight of St. Walburge's Church."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Goosnargh Cake",
+            "tip": "Ein traditioneller Keks aus Lancashire mit Kümmelgeschmack."
+          },
+          {
+            "name": "The Continental",
+            "tip": "Ein Pub am Flussufer mit einer großen Auswahl an Bieren und gutem Essen, leicht mit dem Fahrrad erreichbar."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Goosnargh sütemény",
+            "tip": "Hagyományos lancashire-i sütemény köménymag ízesítéssel."
+          },
+          {
+            "name": "The Continental",
+            "tip": "Folyóparti pub, széles sörválasztékkal és jó ételekkel, kerékpárral könnyen megközelíthető."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Prăjitura Goosnargh",
+            "tip": "Un biscuit tradițional din Lancashire, aromat cu semințe de chimen."
+          },
+          {
+            "name": "The Continental",
+            "tip": "Un pub pe malul râului, cu o selecție excelentă de beri și mâncare bună, ușor accesibil cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Goosnargh Cake",
+            "tip": "A traditional Lancashire biscuit flavoured with caraway seeds."
+          },
+          {
+            "name": "The Continental",
+            "tip": "A riverside pub with a great selection of beers and good food, easily accessible by bike."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Guild Wheel Radweg",
+            "tip": "Teile dieses 21-Meilen-Weges sind perfekt für eine ruhige Flucht aus der Stadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Brockholes Nature Reserve",
+            "tip": "Etwas außerhalb, aber eine lohnende Radtour für Ruhe und Tierwelt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Guild Wheel kerékpárút",
+            "tip": "Ennek a 21 mérföldes útnak a szakaszai tökéletesek a csendes városi meneküléshez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Brockholes Természetvédelmi Terület",
+            "tip": "Kicsit távolabb, de megéri a kerékpártúrát a csend és a vadvilág miatt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete Guild Wheel",
+            "tip": "Secțiuni din acest traseu de 21 de mile sunt perfecte pentru o evadare liniștită din oraș.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Rezervația Naturală Brockholes",
+            "tip": "Puțin mai departe, dar merită o plimbare cu bicicleta pentru liniște și fauna sălbatică.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Guild Wheel cycle path",
+            "tip": "Sections of this 21-mile route are perfect for a quiet escape from the city.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Brockholes Nature Reserve",
+            "tip": "A bit further out, but a worthwhile cycle for peace and wildlife.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte in der Stadt",
+            "tip": "Holen Sie sich Ersatzteile oder Zubehör in einem der örtlichen Fahrradgeschäfte wie 'Leisure Lakes Bikes'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok a városban",
+            "tip": "Szerezzen be alkatrészeket vagy kiegészítőket a helyi kerékpárboltok egyikében, mint például a 'Leisure Lakes Bikes'."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete din oraș",
+            "tip": "Luați piese de schimb sau accesorii de la unul dintre magazinele locale de biciclete precum 'Leisure Lakes Bikes'."
+          }
+        ],
+        "en": [
+          {
+            "name": "City Cycle Shops",
+            "tip": "Pick up any spares or accessories at a local bike shop like 'Leisure Lakes Bikes'."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Einige Straßen im Stadtzentrum können stark befahren sein; seien Sie vorsichtig.",
+          "Nutzen Sie die Guild Wheel-Route für sicherere und landschaftlich reizvollere Fahrten.",
+          "Schließen Sie Ihr Fahrrad immer an belebten, gut beleuchteten Orten ab."
+        ],
+        "hu": [
+          "Néhány belvárosi utca forgalmas lehet; legyen óvatos.",
+          "Használja a Guild Wheel útvonalat a biztonságosabb és festőibb utazáshoz.",
+          "Mindig forgalmas, jól kivilágított helyen zárja le a kerékpárját."
+        ],
+        "ro": [
+          "Unele străzi din centrul orașului pot fi aglomerate; fiți prudenți.",
+          "Folosiți traseul Guild Wheel pentru plimbări mai sigure și mai pitorești.",
+          "Întotdeauna încuiați-vă bicicleta în zone aglomerate și bine iluminate."
+        ],
+        "en": [
+          "Some city centre roads can be busy; exercise caution.",
+          "Use the Guild Wheel route for safer and more scenic rides.",
+          "Always lock your bike in busy, well-lit areas."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 15.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Deepdale Stadion",
+            "hu": "Deepdale Stadion",
+            "ro": "Stadionul Deepdale",
+            "en": "Deepdale Stadium"
+          },
+          "coords": [
+            -2.688,
+            53.771
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier. Es gibt normalerweise genügend Parkplätze an Nicht-Spieltagen.",
+            "hu": "Kezdje itt a napot. Meccsnapokon kívül általában van elég parkolóhely.",
+            "ro": "Începeți ziua aici. De obicei, există o mulțime de locuri de parcare în zilele fără meci.",
+            "en": "Start your day here. There's usually plenty of parking on non-match days."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Innenstadt: Parkhaus",
+            "hu": "Belvárosi klaszter: Parkolóház",
+            "ro": "Cluster Centru: Parcare",
+            "en": "City Centre Cluster: Car Park"
+          },
+          "coords": [
+            -2.7,
+            53.759
+          ],
+          "category": "transport",
+          "arrive_at": "09:55",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im St George's Shopping Centre oder einem anderen Parkhaus im Zentrum.",
+            "hu": "Parkoljon a St George's Bevásárlóközpontban vagy más központi parkolóházban.",
+            "ro": "Parcați la St George's Shopping Centre sau la altă parcare centrală.",
+            "en": "Park at St George's Shopping Centre or another central car park."
+          }
+        },
+        {
+          "name": {
+            "de": "Harris Museum, Kunstgalerie & Bibliothek",
+            "hu": "Harris Múzeum, Művészeti Galéria és Könyvtár",
+            "ro": "Muzeul Harris, Galeria de Artă și Biblioteca",
+            "en": "Harris Museum, Art Gallery & Library"
+          },
+          "coords": [
+            -2.7025,
+            53.76
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "O scurtă plimbare de la parcare.",
+            "en": "A short walk from the car park."
+          }
+        },
+        {
+          "name": {
+            "de": "Winckley Square",
+            "hu": "Winckley tér",
+            "ro": "Piața Winckley",
+            "en": "Winckley Square"
+          },
+          "coords": [
+            -2.701,
+            53.7585
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Finden Sie ein schönes Café für das Mittagessen in der Nähe des Platzes.",
+            "hu": "Keressen egy kellemes kávézót ebédhez a tér közelében.",
+            "ro": "Găsiți o cafenea drăguță pentru prânz în apropierea pieței.",
+            "en": "Find a nice cafe for lunch near the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Ribble: Parken am Fluss",
+            "hu": "Ribble klaszter: Parkolás a folyónál",
+            "ro": "Cluster Ribble: Parcare la râu",
+            "en": "Ribble Cluster: Riverside Parking"
+          },
+          "coords": [
+            -2.713,
+            53.747
+          ],
+          "category": "transport",
+          "arrive_at": "13:40",
+          "stay_min": 0,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz der Ribble Steam Railway.",
+            "hu": "Hajtson a Ribble Gőzvasút parkolójához.",
+            "ro": "Conduceți la parcarea Căii Ferate cu Abur Ribble.",
+            "en": "Drive to the Ribble Steam Railway car park."
+          }
+        },
+        {
+          "name": {
+            "de": "Ribble-Dampfeisenbahn und Museum",
+            "hu": "Ribble Gőzvasút és Múzeum",
+            "ro": "Calea Ferată cu Abur și Muzeul Ribble",
+            "en": "Ribble Steam Railway and Museum"
+          },
+          "coords": [
+            -2.715,
+            53.745
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in das goldene Zeitalter des Dampfes.",
+            "hu": "Merüljön el a gőz aranykorában.",
+            "ro": "Scufundați-vă în epoca de aur a aburului.",
+            "en": "Immerse yourself in the golden age of steam."
+          }
+        },
+        {
+          "name": {
+            "de": "Avenham & Miller Parks",
+            "hu": "Avenham és Miller Parkok",
+            "ro": "Parcurile Avenham și Miller",
+            "en": "Avenham & Miller Parks"
+          },
+          "coords": [
+            -2.6995,
+            53.755
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem entspannten Spaziergang. Parken Sie in der Nähe der South Meadow Lane.",
+            "hu": "Zárja a napot egy pihentető sétával. Parkoljon a South Meadow Lane közelében.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă. Parcați lângă South Meadow Lane.",
+            "en": "End the day with a relaxing stroll. Park near South Meadow Lane."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Preston in Clustern. Beginnen Sie im sportlichen Norden bei Deepdale, fahren Sie dann ins Zentrum, um das Harris Museum und den Winckley Square zu Fuß zu erkunden. Am Nachmittag bringt Sie eine kurze Fahrt zum Ribble-Fluss, um das industrielle Erbe und die ruhigen Parks zu entdecken, was eine perfekte Mischung aus Stadt und Natur darstellt.",
+        "hu": "Autóval klaszterekben fedezheti fel Prestont. Kezdjen a sportos északon, a Deepdale-nél, majd hajtson be a központba, hogy gyalogosan fedezze fel a Harris Múzeumot és a Winckley teret. Délután egy rövid autóút a Ribble folyóhoz viszi, ahol felfedezheti az ipari örökséget és a csendes parkokat, tökéletes keveréket alkotva a város és a természet között.",
+        "ro": "Cu mașina, explorați Preston în clustere. Începeți în nordul sportiv la Deepdale, apoi conduceți în centru pentru a explora pe jos Muzeul Harris și Piața Winckley. După-amiaza, o scurtă călătorie cu mașina vă duce la râul Ribble pentru a descoperi patrimoniul industrial și parcurile liniștite, creând un amestec perfect între oraș și natură.",
+        "en": "By car, you explore Preston in clusters. Start in the sporting north at Deepdale, then drive to the centre to explore the Harris Museum and Winckley Square on foot. In the afternoon, a short drive takes you to the River Ribble to discover industrial heritage and tranquil parks, creating a perfect mix of city and nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistrot Pierre",
+            "tip": "In der Nähe des Winckley Square gelegen, bietet es klassische französische Küche."
+          },
+          {
+            "name": "The Park-Kiosk",
+            "tip": "Schnappen Sie sich einen schnellen Snack oder ein Eis im Avenham Park."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistrot Pierre",
+            "tip": "A Winckley tér közelében található, klasszikus francia ételeket kínál."
+          },
+          {
+            "name": "The Park Kiosk",
+            "tip": "Kapjon be egy gyors harapnivalót vagy fagyit az Avenham Parkban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistrot Pierre",
+            "tip": "Situat lângă Piața Winckley, oferă preparate din bucătăria franceză clasică."
+          },
+          {
+            "name": "Chioșcul din parc",
+            "tip": "Luați o gustare rapidă sau o înghețată în Parcul Avenham."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistrot Pierre",
+            "tip": "Located near Winckley Square, offering classic French cuisine."
+          },
+          {
+            "name": "The Park Kiosk",
+            "tip": "Grab a quick snack or an ice cream in Avenham Park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parkplatz mit Aussicht",
+            "tip": "Finden Sie einen ruhigen Parkplatz am Flussufer für einen Moment der Besinnung.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Cuerden Valley Park",
+            "tip": "Eine kurze Autofahrt von Preston entfernt für längere Spaziergänge in der Natur.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátásos parkoló",
+            "tip": "Keressen egy csendes parkolóhelyet a folyóparton egy pillanatnyi elmélkedéshez.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Cuerden Valley Park",
+            "tip": "Rövid autóútra Prestontól, hosszabb természetjáráshoz.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcare cu vedere",
+            "tip": "Găsiți un loc de parcare liniștit pe malul râului pentru un moment de reflecție.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Cuerden Valley",
+            "tip": "La o scurtă distanță cu mașina de Preston pentru plimbări mai lungi în natură.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint Car Park",
+            "tip": "Find a quiet riverside parking spot for a moment of reflection.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Cuerden Valley Park",
+            "tip": "A short drive from Preston for longer nature walks.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Capitol Centre Retail Park",
+            "tip": "Außerhalb des Zentrums gelegen, leicht mit dem Auto erreichbar für größere Geschäfte."
+          },
+          {
+            "name": "Barton Grange Garden Centre",
+            "tip": "Ein preisgekröntes Gartencenter, eine kurze Autofahrt entfernt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Capitol Centre Retail Park",
+            "tip": "A központon kívül található, autóval könnyen megközelíthető a nagyobb üzletekért."
+          },
+          {
+            "name": "Barton Grange Garden Centre",
+            "tip": "Díjnyertes kertészeti központ, rövid autóútra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul de retail Capitol Centre",
+            "tip": "Situat în afara centrului, ușor accesibil cu mașina pentru magazine mai mari."
+          },
+          {
+            "name": "Centrul de grădinărit Barton Grange",
+            "tip": "Un centru de grădinărit premiat, la o scurtă distanță cu mașina."
+          }
+        ],
+        "en": [
+          {
+            "name": "Capitol Centre Retail Park",
+            "tip": "Located out of the centre, easy to reach by car for larger stores."
+          },
+          {
+            "name": "Barton Grange Garden Centre",
+            "tip": "An award-winning garden centre a short drive away."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken im Stadtzentrum kann teuer sein; erwägen Sie 'Park and Ride'-Optionen.",
+          "Überprüfen Sie die Spieltage von Preston North End, da der Verkehr um Deepdale herum stark sein wird.",
+          "Die Straßen in Preston können zu Stoßzeiten stark befahren sein, planen Sie Ihre Fahrten entsprechend."
+        ],
+        "hu": [
+          "A belvárosi parkolás drága lehet; fontolja meg a 'Park and Ride' lehetőségeket.",
+          "Ellenőrizze a Preston North End meccsnapjait, mert a Deepdale körüli forgalom nagy lesz.",
+          "Preston útjai csúcsidőben forgalmasak lehetnek, tervezze meg az utazásait ennek megfelelően."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi scumpă; luați în considerare opțiunile 'Park and Ride'.",
+          "Verificați zilele de meci ale lui Preston North End, deoarece traficul în jurul Deepdale va fi intens.",
+          "Drumurile din Preston pot fi aglomerate la orele de vârf, planificați-vă călătoriile în consecință."
+        ],
+        "en": [
+          "City centre parking can be expensive; consider park and ride options.",
+          "Check for Preston North End match days as traffic around Deepdale will be heavy.",
+          "Preston's roads can be busy during peak hours, plan your drives accordingly."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 9.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Preston Busbahnhof",
+            "hu": "Prestoni buszpályaudvar",
+            "ro": "Autogara Preston",
+            "en": "Preston Bus Station"
+          },
+          "coords": [
+            -2.6948,
+            53.7613
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Bewundern Sie die brutalistische Architektur, bevor Sie Ihre Erkundung beginnen.",
+            "hu": "Csodálja meg a brutalista építészetet, mielőtt elkezdené a felfedezést.",
+            "ro": "Admirați arhitectura brutalistă înainte de a începe explorarea.",
+            "en": "Admire the brutalist architecture before you start exploring."
+          }
+        },
+        {
+          "name": {
+            "de": "Harris Museum, Kunstgalerie & Bibliothek",
+            "hu": "Harris Múzeum, Művészeti Galéria és Könyvtár",
+            "ro": "Muzeul Harris, Galeria de Artă și Biblioteca",
+            "en": "Harris Museum, Art Gallery & Library"
+          },
+          "coords": [
+            -2.7025,
+            53.76
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Herz der Stadt, nur einen kurzen Spaziergang von der Bushaltestelle entfernt.",
+            "hu": "A város szíve, csak egy rövid séta a buszmegállótól.",
+            "ro": "Inima orașului, la o scurtă plimbare de stația de autobuz.",
+            "en": "The heart of the city, just a short walk from the bus station."
+          }
+        },
+        {
+          "name": {
+            "de": "Winckley Square & Mittagessen",
+            "hu": "Winckley tér és ebéd",
+            "ro": "Piața Winckley și prânz",
+            "en": "Winckley Square & Lunch"
+          },
+          "coords": [
+            -2.701,
+            53.7585
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort, um die Atmosphäre aufzusaugen und eine Mittagspause einzulegen.",
+            "hu": "Tökéletes hely a hangulat magába szívására és egy ebédszünetre.",
+            "ro": "Un loc perfect pentru a absorbi atmosfera și a lua o pauză de prânz.",
+            "en": "A perfect spot to soak up the atmosphere and have a lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus nach Deepdale",
+            "hu": "Busz a Deepdale-hez",
+            "ro": "Autobuz către Deepdale",
+            "en": "Bus to Deepdale"
+          },
+          "coords": [
+            -2.688,
+            53.771
+          ],
+          "category": "landmark",
+          "arrive_at": "13:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Stadtzentrum, um einen Blick auf das berühmte Fußballstadion zu werfen.",
+            "hu": "Szálljon buszra a városközpontból, hogy megnézze a híres futballstadiont.",
+            "ro": "Luați un autobuz din centrul orașului pentru a vedea faimosul stadion de fotbal.",
+            "en": "Take a bus from the city centre for a glimpse of the famous football ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zur Ribble-Gegend",
+            "hu": "Busz a Ribble környékére",
+            "ro": "Autobuz către zona Ribble",
+            "en": "Bus to Ribble Area"
+          },
+          "coords": [
+            -2.715,
+            53.745
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine weitere Busfahrt bringt Sie in die Nähe der Steam Railway.",
+            "hu": "Egy másik buszút a Gőzvasút közelébe visz.",
+            "ro": "O altă călătorie cu autobuzul vă va duce aproape de Calea Ferată cu Abur.",
+            "en": "Another bus ride will get you close to the Steam Railway."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang im Avenham Park",
+            "hu": "Séta az Avenham Parkban",
+            "ro": "Plimbare în Parcul Avenham",
+            "en": "Walk in Avenham Park"
+          },
+          "coords": [
+            -2.6995,
+            53.755
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie vom Bahnhof zum Park, um den Tag entspannt ausklingen zu lassen.",
+            "hu": "Sétáljon az állomástól a parkig, hogy pihentetően zárja a napot.",
+            "ro": "Plimbați-vă de la gară la parc pentru o încheiere relaxantă a zilei.",
+            "en": "Walk from the railway to the park for a relaxing end to the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln beginnt Ihr Tag an der architektonisch bedeutsamen Bushaltestelle von Preston. Ein kurzer Spaziergang führt Sie zu den zentralen Sehenswürdigkeiten. Später bringen Sie Busse zu den weiter entfernten Orten wie Deepdale und der Ribble Steam Railway, was zeigt, wie einfach es ist, die verschiedenen Facetten der Stadt ohne Auto zu erkunden. Der Tag endet mit einem friedlichen Spaziergang in den Uferparks.",
+        "hu": "Tömegközlekedéssel a nap az építészetileg jelentős prestoni buszpályaudvaron kezdődik. Egy rövid séta elvezeti a központi látnivalókhoz. Később buszok viszik el a távolabbi helyekre, mint a Deepdale és a Ribble Gőzvasút, megmutatva, milyen könnyű autó nélkül felfedezni a város különböző arcait. A nap egy békés sétával zárul a folyóparti parkokban.",
+        "ro": "Folosind transportul public, ziua începe la stația de autobuz Preston, importantă din punct de vedere arhitectural. O scurtă plimbare vă duce la atracțiile centrale. Mai târziu, autobuzele vă transportă la locuri mai îndepărtate, cum ar fi Deepdale și Calea Ferată cu Abur Ribble, demonstrând ușurința cu care se pot explora diferitele fațete ale orașului fără mașină. Ziua se încheie cu o plimbare liniștită în parcurile de pe malul râului.",
+        "en": "Using public transport, your day starts at the architecturally significant Preston Bus Station. A short walk takes you to the central sights. Later, buses whisk you to the further reaches like Deepdale and the Ribble Steam Railway, showcasing the ease of exploring the city's different facets without a car. The day ends with a peaceful stroll in the riverside parks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Markthallen-Essen",
+            "tip": "Probieren Sie verschiedene Street-Food-Optionen in der Preston Market Hall, die vom Busbahnhof aus leicht zu erreichen ist."
+          },
+          {
+            "name": "Café Bar",
+            "tip": "Ein gemütlicher Ort für einen Kaffee in der Nähe des Harris Museums."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piac csarnok ételei",
+            "tip": "Kóstolja meg a különböző utcai ételeket a Preston Market Hall-ban, amely könnyen megközelíthető a buszpályaudvartól."
+          },
+          {
+            "name": "Café Bar",
+            "tip": "Hangulatos hely egy kávéra a Harris Múzeum közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mâncare la Piață",
+            "tip": "Încercați diverse opțiuni de mâncare stradală la Preston Market Hall, ușor accesibilă de la stația de autobuz."
+          },
+          {
+            "name": "Café Bar",
+            "tip": "Un loc confortabil pentru o cafea lângă Muzeul Harris."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market Hall food",
+            "tip": "Try various street food options at Preston Market Hall, easily reached from the bus station."
+          },
+          {
+            "name": "Café Bar",
+            "tip": "A cosy spot for a coffee near the Harris Museum."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obere Etage des Busses",
+            "tip": "Nehmen Sie Platz in der ersten Reihe auf der oberen Etage für eine einzigartige Perspektive auf die Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "St. Walburge's Gärten",
+            "tip": "Ein ruhiger Ort, um die beeindruckende Architektur der Kirche zu betrachten.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Busz emelete",
+            "tip": "Üljön az első sorba az emeleten, hogy egyedi perspektívából lássa a várost.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Szent Walburge kertje",
+            "tip": "Csendes hely a templom lenyűgöző építészetének szemlélésére.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etajul superior al autobuzului",
+            "tip": "Luați un loc în față la etaj pentru o perspectivă unică asupra orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădinile Sf. Walburge",
+            "tip": "Un loc liniștit pentru a contempla arhitectura impresionantă a bisericii.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Top deck of the bus",
+            "tip": "Grab a front seat on the top deck for a unique perspective of the city as you travel.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "St Walburge's Gardens",
+            "tip": "A quiet spot to contemplate the church's impressive architecture.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "St George's Shopping Centre",
+            "tip": "Direkt im Herzen des Geschehens, mit vielen bekannten Marken."
+          },
+          {
+            "name": "Charity Shops",
+            "tip": "Entlang der Friargate und anderer Hauptstraßen finden Sie versteckte Schätze."
+          }
+        ],
+        "hu": [
+          {
+            "name": "St George's Bevásárlóközpont",
+            "tip": "Közvetlenül az események sűrűjében, számos ismert márkával."
+          },
+          {
+            "name": "Adományboltok",
+            "tip": "Böngésszen rejtett kincsekért a Friargate és más főutcák mentén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul comercial St George's",
+            "tip": "Chiar în inima acțiunii, cu multe mărci de renume."
+          },
+          {
+            "name": "Magazine de caritate",
+            "tip": "Căutați comori ascunse de-a lungul Friargate și a altor străzi principale."
+          }
+        ],
+        "en": [
+          {
+            "name": "St George's Shopping Centre",
+            "tip": "Right in the heart of the action, with many high-street brands."
+          },
+          {
+            "name": "Charity Shops",
+            "tip": "Browse for hidden gems along Friargate and other main streets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten mit dem Bus.",
+          "Die Preston Bus App ist nützlich für Echtzeit-Fahrpläne.",
+          "Die meisten Busse sind barrierefrei, aber zu Spitzenzeiten kann es voll werden."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan buszozáshoz.",
+          "A Preston Bus alkalmazás hasznos a valós idejű menetrendekhez.",
+          "A legtöbb busz akadálymentesített, de csúcsidőben zsúfolt lehet."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate cu autobuzul.",
+          "Aplicația Preston Bus este utilă pentru orare în timp real.",
+          "Majoritatea autobuzelor sunt accesibile, dar pot fi aglomerate la orele de vârf."
+        ],
+        "en": [
+          "Purchase a day rider ticket for unlimited bus travel.",
+          "The Preston Bus app is useful for real-time schedules.",
+          "Most buses are accessible, but they can get crowded at peak times."
+        ]
+      }
+    }
+  }
+}

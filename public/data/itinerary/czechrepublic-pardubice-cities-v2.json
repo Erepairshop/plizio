@@ -1,0 +1,1369 @@
+{
+  "city_id": "czechrepublic-pardubice-cities-v2",
+  "anchor": {
+    "name": "Pardubitz",
+    "coords": [
+      15.7792,
+      50.0386
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Pernstein-Platz",
+            "hu": "Pernštejn tér",
+            "ro": "Piața Pernštejn",
+            "en": "Pernštejn Square"
+          },
+          "coords": [
+            15.779,
+            50.0378
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Renaissance- und Barockfassaden der Bürgerhäuser.",
+            "hu": "Csodálja meg a reneszánsz és barokk polgárházak homlokzatát.",
+            "ro": "Admirați fațadele renascentiste și baroce ale caselor burgheze.",
+            "en": "Admire the Renaissance and Baroque facades of the burgher houses."
+          }
+        },
+        {
+          "name": {
+            "de": "Grünes Tor",
+            "hu": "Zöld kapu",
+            "ro": "Poarta Verde",
+            "en": "Green Gate"
+          },
+          "coords": [
+            15.7795,
+            50.0365
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:44",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Steigen Sie auf den Turm für einen fantastischen Blick über die Altstadt.",
+            "hu": "Menjen fel a toronyba a fantasztikus kilátásért az óvárosra.",
+            "ro": "Urcați în turn pentru o priveliște fantastică asupra orașului vechi.",
+            "en": "Climb the tower for a fantastic view over the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Bartholomäus-Kirche",
+            "hu": "Szent Bertalan-templom",
+            "ro": "Biserica Sfântul Bartolomeu",
+            "en": "St. Bartholomew's Church"
+          },
+          "coords": [
+            15.777,
+            50.0392
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf das beeindruckende gotische Gewölbe und die barocke Ausstattung.",
+            "hu": "Figyelje meg a lenyűgöző gótikus boltozatot és a barokk berendezést.",
+            "ro": "Observați bolta gotică impresionantă și mobilierul baroc.",
+            "en": "Note the impressive Gothic vaulting and Baroque furnishings."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Pardubice",
+            "hu": "Pardubicei kastély",
+            "ro": "Castelul Pardubice",
+            "en": "Pardubice Castle"
+          },
+          "coords": [
+            15.7755,
+            50.0415
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:23",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie Zeit für das Ostböhmische Museum im Inneren ein.",
+            "hu": "Szánjon időt a kastélyban található Kelet-Csehországi Múzeumra is.",
+            "ro": "Planificați timp pentru a vizita Muzeul Boemiei de Est din interior.",
+            "en": "Allow time for the Museum of East Bohemia housed inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Tyrš-Garten",
+            "hu": "Tyrš-kertek",
+            "ro": "Grădinile Tyrš",
+            "en": "Tyrš Gardens"
+          },
+          "coords": [
+            15.7725,
+            50.0405
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein idealer Ort für ein Mittagspicknick oder eine entspannte Pause.",
+            "hu": "Ideális hely egy ebédpiknikhez vagy egy pihentető szünethez.",
+            "ro": "Un loc ideal pentru un picnic la prânz sau o pauză relaxantă.",
+            "en": "An ideal spot for a lunch picnic or a relaxing break."
+          }
+        },
+        {
+          "name": {
+            "de": "Winternitz-Mühlen",
+            "hu": "Winternitz-malmok",
+            "ro": "Morile Winternitz",
+            "en": "Winternitz Mills"
+          },
+          "coords": [
+            15.768,
+            50.038
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:42",
+          "stay_min": 60,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein faszinierendes Beispiel für Industriearchitektur; tolle Fotomotive.",
+            "hu": "Az ipari építészet lenyűgöző példája; remek fotótéma.",
+            "ro": "Un exemplu fascinant de arhitectură industrială; oportunități foto excelente.",
+            "en": "A fascinating example of industrial architecture; great for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Ostböhmisches Theater",
+            "hu": "Kelet-Csehországi Színház",
+            "ro": "Teatrul Boemiei de Est",
+            "en": "East Bohemian Theatre"
+          },
+          "coords": [
+            15.778,
+            50.0355
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:06",
+          "stay_min": 20,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Jugendstil-Architektur, auch wenn Sie keine Vorstellung besuchen.",
+            "hu": "Csodálja meg a szecessziós építészetet, még ha nem is megy előadásra.",
+            "ro": "Admirați arhitectura Art Nouveau, chiar dacă nu participați la un spectacol.",
+            "en": "Admire the Art Nouveau architecture, even if you don't catch a show."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem belebten Pernstein-Platz, dem Herzen von Pardubice. Nach dem Aufstieg auf das Grüne Tor für eine Vogelperspektive, finden Sie Ruhe in der St.-Bartholomäus-Kirche. Der Mittag ist dem prächtigen Schloss Pardubice und seinem Museum gewidmet, gefolgt von einer entspannten Pause im grünen Tyrš-Garten. Am Nachmittag entdecken Sie das industrielle Erbe der Winternitz-Mühlen am Flussufer. Schließen Sie Ihren Rundgang mit einem Blick auf das elegante Ostböhmische Theater ab und lassen Sie den Tag bei einem traditionellen Lebkuchen ausklingen.",
+        "hu": "Kezdje a napot a nyüzsgő Pernštejn téren, Pardubice szívében. Miután megmászta a Zöld kaput a madártávlati kilátásért, találjon nyugalmat a Szent Bertalan-templomban. A dél a csodálatos Pardubicei kastélyé és múzeumáé, amelyet egy pihentető szünet követ a zöld Tyrš-kertben. Délután fedezze fel a Winternitz-malmok ipari örökségét a folyóparton. Zárja a sétát a Kelet-Csehországi Színház elegáns épületének megtekintésével, és fejezze be a napot egy hagyományos mézeskaláccsal.",
+        "ro": "Începeți ziua în vibranta Piață Pernštejn, inima orașului Pardubice. După ce urcați în Poarta Verde pentru o vedere panoramică, găsiți liniștea în Biserica Sf. Bartolomeu. Amiaza este dedicată magnificului Castel Pardubice și muzeului său, urmată de o pauză relaxantă în Grădinile verzi Tyrš. După-amiaza, explorați moștenirea industrială a Morilor Winternitz de pe malul râului. Încheiați turul pietonal admirând elegantul Teatru al Boemiei de Est și încheiați ziua cu o turtă dulce tradițională.",
+        "en": "Start your day in the bustling Pernštejn Square, the heart of Pardubice. After climbing the Green Gate for a bird's-eye view, find tranquility in St. Bartholomew's Church. The afternoon is dedicated to the magnificent Pardubice Castle and its museum, followed by a relaxing break in the green Tyrš Gardens. In the afternoon, explore the industrial heritage of the Winternitz Mills on the riverbank. Conclude your walking tour by admiring the elegant East Bohemian Theatre, and end the day with a traditional gingerbread treat."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pardubitzer Lebkuchen (Pardubický perník)",
+            "tip": "Probieren Sie das berühmte, gewürzte Honiggebäck, ein geschütztes Produkt."
+          },
+          {
+            "name": "Restaurant U Dvou Kohoutků",
+            "tip": "Traditionelle böhmische Küche in einem historischen Gebäude."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pardubicei mézeskalács (Pardubický perník)",
+            "tip": "Kóstolja meg a híres, fűszeres mézes süteményt, amely védett termék."
+          },
+          {
+            "name": "U Dvou Kohoutků étterem",
+            "tip": "Hagyományos cseh konyha egy történelmi épületben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Turtă dulce de Pardubice (Pardubický perník)",
+            "tip": "Încercați faimosul produs de patiserie cu miere și condimente, un produs protejat."
+          },
+          {
+            "name": "Restaurant U Dvou Kohoutků",
+            "tip": "Bucătărie tradițională boemă într-o clădire istorică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pardubice Gingerbread (Pardubický perník)",
+            "tip": "Try the famous spiced honey pastry, a protected product."
+          },
+          {
+            "name": "U Dvou Kohoutků Restaurant",
+            "tip": "Traditional Bohemian cuisine in a historic building."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tyrš-Garten",
+            "tip": "Eine grüne Oase der Ruhe direkt neben dem Schloss.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Spaziergang am Elbufer",
+            "tip": "Ruhige Wege entlang des Flusses, abseits des Trubels.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tyrš-kertek",
+            "tip": "Zöld oázis a nyugalom szigete, közvetlenül a kastély mellett.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Séta az Elba partján",
+            "tip": "Csendes ösvények a folyó mentén, távol a nyüzsgéstől.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Tyrš",
+            "tip": "O oază de liniște verde chiar lângă castel.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Plimbare pe malul Elbei",
+            "tip": "Cărări liniștite de-a lungul râului, departe de agitație.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tyrš Gardens",
+            "tip": "A green oasis of calm right next to the castle.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Walk along the Elbe riverbank",
+            "tip": "Quiet paths along the river, away from the hustle.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lebkuchengeschäfte in der Altstadt",
+            "tip": "Kaufen Sie authentischen Pardubitzer Lebkuchen als Souvenir."
+          },
+          {
+            "name": "Třída Míru",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus lokalen und internationalen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mézeskalácsboltok az óvárosban",
+            "tip": "Vásároljon autentikus pardubicei mézeskalácsot szuvenírként."
+          },
+          {
+            "name": "Třída Míru",
+            "tip": "A fő bevásárlóutca, helyi és nemzetközi üzletek keverékével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de turtă dulce în Centrul Vechi",
+            "tip": "Cumpărați turtă dulce autentică de Pardubice ca suvenir."
+          },
+          {
+            "name": "Třída Míru",
+            "tip": "Strada principală de cumpărături cu un amestec de magazine locale și internaționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gingerbread shops in the Old Town",
+            "tip": "Buy authentic Pardubice gingerbread as a souvenir."
+          },
+          {
+            "name": "Třída Míru",
+            "tip": "The main shopping street with a mix of local and international stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Prüfen Sie die Öffnungszeiten des Schlosses und des Grünen Tors im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óvárosi macskakövek egyenetlenek lehetnek.",
+          "A központ legtöbb látnivalója könnyen megközelíthető gyalog.",
+          "Előre ellenőrizze a kastély és a Zöld kapu nyitvatartási idejét."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece pavelele din Centrul Vechi pot fi denivelate.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Verificați în avans orele de deschidere ale castelului și ale Porții Verzi."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Most sights in the center are easily within walking distance.",
+          "Check the opening hours for the castle and the Green Gate in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 12.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Pernstein-Platz",
+            "hu": "Pernštejn tér",
+            "ro": "Piața Pernštejn",
+            "en": "Pernštejn Square"
+          },
+          "coords": [
+            15.779,
+            50.0378
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie hier mit einem Kaffee in einem der vielen Cafés.",
+            "hu": "Indítsa a napot egy kávéval a számos kávézó egyikében.",
+            "ro": "Începeți ziua cu o cafea la una dintre numeroasele cafenele.",
+            "en": "Start here with a coffee at one of the many cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Grünes Tor",
+            "hu": "Zöld kapu",
+            "ro": "Poarta Verde",
+            "en": "Green Gate"
+          },
+          "coords": [
+            15.7795,
+            50.0365
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad unten an und genießen Sie die Aussicht.",
+            "hu": "Zárja le a kerékpárt lent, és élvezze a kilátást.",
+            "ro": "Legați-vă bicicleta jos și bucurați-vă de priveliște.",
+            "en": "Lock your bike at the bottom and enjoy the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Pardubice",
+            "hu": "Pardubicei kastély",
+            "ro": "Castelul Pardubice",
+            "en": "Pardubice Castle"
+          },
+          "coords": [
+            15.7755,
+            50.0415
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Schlosshof ist oft für Radfahrer zugänglich.",
+            "hu": "A kastély udvara gyakran nyitva áll a kerékpárosok előtt.",
+            "ro": "Curtea castelului este adesea accesibilă bicicliștilor.",
+            "en": "The castle courtyard is often accessible to cyclists."
+          }
+        },
+        {
+          "name": {
+            "de": "Tyrš-Garten",
+            "hu": "Tyrš-kertek",
+            "ro": "Grădinile Tyrš",
+            "en": "Tyrš Gardens"
+          },
+          "coords": [
+            15.7725,
+            50.0405
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie eine Runde durch den Park, bevor Sie eine Pause einlegen.",
+            "hu": "Tegyen egy kört a parkban, mielőtt szünetet tart.",
+            "ro": "Faceți o tură cu bicicleta prin parc înainte de a lua o pauză.",
+            "en": "Cycle a loop around the park before taking a break."
+          }
+        },
+        {
+          "name": {
+            "de": "Winternitz-Mühlen",
+            "hu": "Winternitz-malmok",
+            "ro": "Morile Winternitz",
+            "en": "Winternitz Mills"
+          },
+          "coords": [
+            15.768,
+            50.038
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Folgen Sie dem Radweg entlang der Chrudimka, um hierher zu gelangen.",
+            "hu": "Kövesse a Chrudimka menti kerékpárutat, hogy ideérjen.",
+            "ro": "Urmați pista de biciclete de-a lungul râului Chrudimka pentru a ajunge aici.",
+            "en": "Follow the cycle path along the Chrudimka river to get here."
+          }
+        },
+        {
+          "name": {
+            "de": "Pferderennbahn",
+            "hu": "Lóversenypálya",
+            "ro": "Hipodrom",
+            "en": "Racecourse"
+          },
+          "coords": [
+            15.74,
+            50.05
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:51",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Prüfen Sie den Rennkalender; auch ohne Rennen ist das Gelände beeindruckend.",
+            "hu": "Ellenőrizze a versenynaptárt; a terület versenyek nélkül is lenyűgöző.",
+            "ro": "Verificați calendarul curselor; chiar și fără curse, zona este impresionantă.",
+            "en": "Check the race calendar; even without a race, the grounds are impressive."
+          }
+        },
+        {
+          "name": {
+            "de": "Ostböhmisches Theater",
+            "hu": "Kelet-Csehországi Színház",
+            "ro": "Teatrul Boemiei de Est",
+            "en": "East Bohemian Theatre"
+          },
+          "coords": [
+            15.778,
+            50.0355
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:06",
+          "stay_min": 15,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer Fotostopp an diesem architektonischen Juwel.",
+            "hu": "Egy gyors fotómegálló ennél az építészeti gyöngyszemnél.",
+            "ro": "O scurtă oprire pentru fotografii la această bijuterie arhitecturală.",
+            "en": "A quick photo stop at this architectural gem."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Bartholomäus-Kirche",
+            "hu": "Szent Bertalan-templom",
+            "ro": "Biserica Sfântul Bartolomeu",
+            "en": "St. Bartholomew's Church"
+          },
+          "coords": [
+            15.777,
+            50.0392
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie die Tour mit einem Moment der Besinnung.",
+            "hu": "Zárja a túrát egy elmélkedő pillanattal.",
+            "ro": "Încheiați turul cu un moment de reflecție.",
+            "en": "End the tour with a moment of reflection."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und starten Sie am Pernstein-Platz. Die Route führt Sie schnell zum Grünen Tor und weiter zum Schloss. Nach einer Erkundung des Schlossgeländes und einer Pause im Tyrš-Garten folgen Sie dem Fluss zu den industriellen Winternitz-Mühlen. Die längste Etappe führt Sie zur berühmten Pferderennbahn, ein Muss für Pardubice. Auf dem Rückweg ins Zentrum machen Sie Halt am eleganten Theater und beenden die Tour an der gotischen St.-Bartholomäus-Kirche, um die Eindrücke des Tages zu sammeln.",
+        "hu": "Pattanjon kerékpárra és induljon a Pernštejn térről. Az útvonal gyorsan elvezeti a Zöld kapuhoz, majd tovább a kastélyhoz. A kastély területének felfedezése és a Tyrš-kertben tartott szünet után kövesse a folyót az ipari Winternitz-malmokig. A leghosszabb szakasz a híres lóversenypályához vezet, amely Pardubicében kötelező látnivaló. Visszafelé a központba álljon meg az elegáns színháznál, és fejezze be a túrát a gótikus Szent Bertalan-templomnál, hogy összegyűjtse a nap benyomásait.",
+        "ro": "Urcați-vă pe bicicletă și porniți din Piața Pernštejn. Traseul vă duce rapid la Poarta Verde și apoi la castel. După explorarea domeniului castelului și o pauză în Grădinile Tyrš, urmați râul până la Morile industriale Winternitz. Cea mai lungă etapă vă duce la faimosul hipodrom, un punct de atracție obligatoriu în Pardubice. Pe drumul de întoarcere spre centru, opriți-vă la teatrul elegant și încheiați turul la Biserica gotică Sf. Bartolomeu pentru a vă aduna impresiile zilei.",
+        "en": "Hop on your bike and start from Pernštejn Square. The route quickly takes you to the Green Gate and on to the castle. After exploring the castle grounds and taking a break in Tyrš Gardens, follow the river to the industrial Winternitz Mills. The longest leg takes you to the famous racecourse, a must-see in Pardubice. On the way back to the center, stop at the elegant theatre and finish the tour at the Gothic St. Bartholomew's Church to gather your impressions of the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pivnice U Jezera",
+            "tip": "Ein bei Radfahrern beliebter Ort für ein kühles Bier und eine herzhafte Mahlzeit."
+          },
+          {
+            "name": "Pardubický pivovar",
+            "tip": "Probieren Sie das lokale Bier direkt von der Quelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pivnice U Jezera",
+            "tip": "Kerékpárosok körében népszerű hely egy hideg sörre és egy kiadós ételre."
+          },
+          {
+            "name": "Pardubicei sörfőzde",
+            "tip": "Kóstolja meg a helyi sört közvetlenül a forrásnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pivnice U Jezera",
+            "tip": "Un loc popular printre bicicliști pentru o bere rece și o masă copioasă."
+          },
+          {
+            "name": "Berăria Pardubice",
+            "tip": "Gustați berea locală direct de la sursă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pivnice U Jezera",
+            "tip": "A popular spot with cyclists for a cold beer and a hearty meal."
+          },
+          {
+            "name": "Pardubice Brewery",
+            "tip": "Taste the local beer right from the source."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Elbe-Radweg",
+            "tip": "Ruhige Abschnitte des Radwegs entlang des Flusses.",
+            "emoji": "🚴"
+          },
+          {
+            "name": "Park am Schloss",
+            "tip": "Finden Sie eine ruhige Bank im weitläufigen Schlosspark.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Elba-kerékpárút",
+            "tip": "Csendes szakaszok a kerékpárúton a folyó mentén.",
+            "emoji": "🚴"
+          },
+          {
+            "name": "Park a kastélynál",
+            "tip": "Találjon egy csendes padot a tágas kastélyparkban.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de pe Elba",
+            "tip": "Secțiuni liniștite ale pistei de biciclete de-a lungul râului.",
+            "emoji": "🚴"
+          },
+          {
+            "name": "Parcul de lângă castel",
+            "tip": "Găsiți o bancă liniștită în parcul extins al castelului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Elbe Cycle Path",
+            "tip": "Quiet sections of the cycle path along the river.",
+            "emoji": "🚴"
+          },
+          {
+            "name": "Park at the Castle",
+            "tip": "Find a quiet bench in the expansive castle park.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Für eventuell benötigtes Zubehör oder Reparaturen."
+          },
+          {
+            "name": "Lokale Märkte",
+            "tip": "Halten Sie Ausschau nach kleinen Märkten für lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Szükséges kiegészítőkért vagy javításokért."
+          },
+          {
+            "name": "Helyi piacok",
+            "tip": "Keresse a kis piacokat helyi termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Pentru orice accesorii sau reparații necesare."
+          },
+          {
+            "name": "Piețe locale",
+            "tip": "Căutați piețe mici pentru produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shops",
+            "tip": "For any needed accessories or repairs."
+          },
+          {
+            "name": "Local markets",
+            "tip": "Look out for small markets for local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Pardubice ist relativ flach und sehr fahrradfreundlich.",
+          "Nutzen Sie die gut ausgebauten Radwege, insbesondere entlang der Flüsse Elbe und Chrudimka.",
+          "Ein gutes Schloss ist unerlässlich, wenn Sie Sehenswürdigkeiten besichtigen."
+        ],
+        "hu": [
+          "Pardubice viszonylag sík és nagyon kerékpárbarát.",
+          "Használja a jól kiépített kerékpárutakat, különösen az Elba és a Chrudimka folyók mentén.",
+          "Egy jó lakat elengedhetetlen a látnivalók megtekintésekor."
+        ],
+        "ro": [
+          "Pardubice este relativ plat și foarte prietenos cu bicicletele.",
+          "Folosiți pistele de biciclete bine dezvoltate, în special de-a lungul râurilor Elba și Chrudimka.",
+          "Un lacăt bun este esențial atunci când vizitați obiectivele turistice."
+        ],
+        "en": [
+          "Pardubice is relatively flat and very bike-friendly.",
+          "Use the well-developed cycle paths, especially along the Elbe and Chrudimka rivers.",
+          "A good lock is essential when you're sightseeing."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz an der Pferderennbahn",
+            "hu": "Parkoló a lóversenypályánál",
+            "ro": "Parcare la Hipodrom",
+            "en": "Parking at the Racecourse"
+          },
+          "coords": [
+            15.741,
+            50.0505
+          ],
+          "category": "transport",
+          "arrive_at": "09:20",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie am Stadtrand, um den morgendlichen Verkehr zu meiden.",
+            "hu": "Kezdje a város szélén, hogy elkerülje a reggeli forgalmat.",
+            "ro": "Începeți de la periferia orașului pentru a evita traficul de dimineață.",
+            "en": "Start on the outskirts to avoid morning traffic."
+          }
+        },
+        {
+          "name": {
+            "de": "Pferderennbahn",
+            "hu": "Lóversenypálya",
+            "ro": "Hipodrom",
+            "en": "Racecourse"
+          },
+          "coords": [
+            15.74,
+            50.05
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:22",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie das Gelände des berühmten Velká pardubická-Rennens.",
+            "hu": "Fedezze fel a híres Velká pardubická verseny területét.",
+            "ro": "Explorați terenul faimoasei curse Velká pardubická.",
+            "en": "Explore the grounds of the famous Velká pardubická race."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz am Schloss",
+            "hu": "Parkoló a kastélynál",
+            "ro": "Parcare la Castel",
+            "en": "Parking at the Castle"
+          },
+          "coords": [
+            15.774,
+            50.042
+          ],
+          "category": "transport",
+          "arrive_at": "10:32",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den zentralen Teil Ihres Besuchs.",
+            "hu": "Parkoljon itt a látogatás központi részére.",
+            "ro": "Parcați aici pentru partea centrală a vizitei dumneavoastră.",
+            "en": "Park here for the central part of your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Pardubice",
+            "hu": "Pardubicei kastély",
+            "ro": "Castelul Pardubice",
+            "en": "Pardubice Castle"
+          },
+          "coords": [
+            15.7755,
+            50.0415
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:34",
+          "stay_min": 120,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besuchen Sie das Museum und spazieren Sie über die Wälle.",
+            "hu": "Látogassa meg a múzeumot és sétáljon a sáncokon.",
+            "ro": "Vizitați muzeul și plimbați-vă pe metereze.",
+            "en": "Visit the museum and walk the ramparts."
+          }
+        },
+        {
+          "name": {
+            "de": "Pernstein-Platz & Grünes Tor",
+            "hu": "Pernštejn tér és Zöld kapu",
+            "ro": "Piața Pernštejn și Poarta Verde",
+            "en": "Pernštejn Square & Green Gate"
+          },
+          "coords": [
+            15.779,
+            50.0378
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:44",
+          "stay_min": 150,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den Platz, steigen Sie auf den Turm und genießen Sie das Mittagessen hier.",
+            "hu": "Fedezze fel a teret, másszon fel a toronyba, és ebédeljen itt.",
+            "ro": "Explorați piața, urcați în turn și luați prânzul aici.",
+            "en": "Explore the square, climb the tower, and have lunch here."
+          }
+        },
+        {
+          "name": {
+            "de": "Winternitz-Mühlen",
+            "hu": "Winternitz-malmok",
+            "ro": "Morile Winternitz",
+            "en": "Winternitz Mills"
+          },
+          "coords": [
+            15.768,
+            50.038
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:26",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 1.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Schloss zu diesem beeindruckenden Industriedenkmal.",
+            "hu": "Egy rövid séta a kastélytól ehhez a lenyűgöző ipari műemlékhez.",
+            "ro": "O scurtă plimbare de la castel la acest monument industrial impresionant.",
+            "en": "A short walk from the castle to this impressive industrial monument."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Tag strategisch an der Pferderennbahn am Stadtrand und vermeiden Sie so den Verkehr. Nach der Erkundung dieses berühmten Ortes fahren Sie ins Zentrum und parken in der Nähe des Schlosses. Von hier aus beginnt Ihr Spaziergang: Erkunden Sie das Schloss und sein Museum. Schlendern Sie dann zum Pernstein-Platz, dem Herzen der Altstadt. Hier haben Sie Zeit, auf das Grüne Tor zu steigen und in einem der Restaurants zu Mittag zu essen. Ein letzter kurzer Spaziergang führt Sie am Nachmittag zu den architektonisch interessanten Winternitz-Mühlen, bevor Sie zu Ihrem Auto zurückkehren.",
+        "hu": "Kezdje a napot stratégiailag a lóversenypályánál a város szélén, elkerülve a forgalmat. Miután felfedezte ezt a híres helyet, hajtson be a központba, és parkoljon a kastély közelében. Innen indul a séta: fedezze fel a kastélyt és múzeumát. Ezután sétáljon el a Pernštejn térre, az óváros szívébe. Itt van ideje felmászni a Zöld kapura, és megebédelni az egyik étteremben. Egy utolsó rövid séta délután az építészetileg érdekes Winternitz-malmokhoz vezet, mielőtt visszatérne az autójához.",
+        "ro": "Începeți ziua strategic la Hipodromul de la marginea orașului, evitând traficul. După ce explorați acest loc faimos, conduceți spre centru și parcați lângă castel. De aici începe plimbarea: explorați castelul și muzeul său. Apoi, plimbați-vă până în Piața Pernštejn, inima orașului vechi. Aici aveți timp să urcați în Poarta Verde și să luați prânzul la unul dintre restaurante. O ultimă scurtă plimbare după-amiaza vă duce la Morile Winternitz, interesante din punct de vedere arhitectural, înainte de a vă întoarce la mașină.",
+        "en": "Start your day strategically at the racecourse on the outskirts, avoiding traffic. After exploring this famous site, drive to the center and park near the castle. Your walking tour begins here: explore the castle and its museum. Then, stroll to Pernštejn Square, the heart of the old town. Here you'll have time to climb the Green Gate and enjoy lunch at a restaurant. A final short walk in the afternoon takes you to the architecturally interesting Winternitz Mills before you return to your car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurace Na Hradbách",
+            "tip": "Genießen Sie gehobene Küche mit Blick auf die Stadtmauern."
+          },
+          {
+            "name": "Lokale Brauereien",
+            "tip": "Viele Orte im Zentrum bieten lokales Bier an, perfekt für eine Pause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Na Hradbách étterem",
+            "tip": "Élvezze a finom ételeket a városfalakra néző kilátással."
+          },
+          {
+            "name": "Helyi sörfőzdék",
+            "tip": "A központ számos helyén kínálnak helyi sört, tökéletes egy szünetre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Na Hradbách",
+            "tip": "Bucurați-vă de o masă rafinată cu vedere la zidurile orașului."
+          },
+          {
+            "name": "Berării locale",
+            "tip": "Multe localuri din centru oferă bere locală, perfectă pentru o pauză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Na Hradbách Restaurant",
+            "tip": "Enjoy fine dining with a view of the city walls."
+          },
+          {
+            "name": "Local Breweries",
+            "tip": "Many places in the center offer local beer, perfect for a break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlosswälle",
+            "tip": "Ein ruhiger Spaziergang auf den Festungsmauern des Schlosses.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Kunětická hora (mit Auto)",
+            "tip": "Eine kurze Fahrt zur Burg auf dem Hügel für eine atemberaubende Aussicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kastély sáncai",
+            "tip": "Csendes séta a kastély erődítményfalain."
+          },
+          {
+            "name": "Kunětická hora (autóval)",
+            "tip": "Rövid autóút a dombon álló várhoz a lélegzetelállító kilátásért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Meterezele castelului",
+            "tip": "O plimbare liniștită pe zidurile de fortificație ale castelului.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Muntele Kunětická (cu mașina)",
+            "tip": "O scurtă călătorie cu mașina până la castelul de pe deal pentru o priveliște uluitoare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Ramparts",
+            "tip": "A quiet walk on the fortress walls of the castle.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Kunětická hora (by car)",
+            "tip": "A short drive to the castle on the hill for a breathtaking view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden außerhalb der Stadt",
+            "tip": "Nutzen Sie das Auto, um lokale Produkte direkt vom Erzeuger zu kaufen."
+          },
+          {
+            "name": "Antiquariate",
+            "tip": "In den Seitengassen der Altstadt finden sich einige Schätze."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok a városon kívül",
+            "tip": "Használja az autót, hogy helyi termékeket vásároljon közvetlenül a termelőtől."
+          },
+          {
+            "name": "Antikváriumok",
+            "tip": "Az óváros mellékutcáiban kincsekre bukkanhat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de fermă în afara orașului",
+            "tip": "Folosiți mașina pentru a cumpăra produse locale direct de la producători."
+          },
+          {
+            "name": "Anticariate",
+            "tip": "Puteți găsi comori pe străduțele lăturalnice ale Centrului Vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops outside the city",
+            "tip": "Use the car to buy local products directly from the producers."
+          },
+          {
+            "name": "Antique shops",
+            "tip": "You can find some treasures in the side streets of the Old Town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie in den ausgewiesenen Parkhäusern oder Parkzonen, um Bußgelder zu vermeiden.",
+          "Der Verkehr im Stadtzentrum kann besonders an Werktagen dicht sein.",
+          "Planen Sie Ihre Route im Voraus, um Einbahnstraßen im historischen Zentrum zu umgehen."
+        ],
+        "hu": [
+          "Parkoljon a kijelölt parkolóházakban vagy zónákban a bírságok elkerülése érdekében.",
+          "A belvárosi forgalom különösen hétköznapokon lehet sűrű.",
+          "Tervezze meg előre az útvonalat, hogy elkerülje az egyirányú utcákat a történelmi központban."
+        ],
+        "ro": [
+          "Parcați în parcările desemnate sau în zonele de parcare pentru a evita amenzile.",
+          "Traficul în centrul orașului poate fi aglomerat, în special în zilele lucrătoare.",
+          "Planificați-vă traseul în avans pentru a evita străzile cu sens unic din centrul istoric."
+        ],
+        "en": [
+          "Park in designated parking garages or zones to avoid fines.",
+          "Traffic in the city center can be heavy, especially on weekdays.",
+          "Plan your route in advance to avoid one-way streets in the historic center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 7.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Haltestelle Třída Míru",
+            "hu": "Třída Míru megálló",
+            "ro": "Stația Třída Míru",
+            "en": "Třída Míru Stop"
+          },
+          "coords": [
+            15.7775,
+            50.036
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein zentraler Knotenpunkt, von dem aus Sie die Altstadt erkunden können.",
+            "hu": "Központi csomópont, ahonnan felfedezheti az óvárost.",
+            "ro": "Un nod central de unde puteți explora Centrul Vechi.",
+            "en": "A central hub from which to explore the Old Town."
+          }
+        },
+        {
+          "name": {
+            "de": "Grünes Tor & Pernstein-Platz",
+            "hu": "Zöld kapu és Pernštejn tér",
+            "ro": "Poarta Verde și Piața Pernštejn",
+            "en": "Green Gate & Pernštejn Square"
+          },
+          "coords": [
+            15.779,
+            50.037
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:13",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag im Herzen der Stadt.",
+            "hu": "Kezdje a napot a város szívében.",
+            "ro": "Începeți ziua în inima orașului.",
+            "en": "Start your day in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Pardubice",
+            "hu": "Pardubicei kastély",
+            "ro": "Castelul Pardubice",
+            "en": "Pardubice Castle"
+          },
+          "coords": [
+            15.7755,
+            50.0415
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:53",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz zum Schlosseingang.",
+            "hu": "Rövid séta a főtérről a kastély bejáratáig.",
+            "ro": "O scurtă plimbare de la piața principală la intrarea castelului.",
+            "en": "A short walk from the main square to the castle entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle Automatické mlýny",
+            "hu": "Automatické mlýny megálló",
+            "ro": "Stația Automatické mlýny",
+            "en": "Automatické mlýny Stop"
+          },
+          "coords": [
+            15.767,
+            50.0385
+          ],
+          "category": "transport",
+          "arrive_at": "13:08",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Zentrum zu diesem nächsten Cluster.",
+            "hu": "Menjen busszal a központból ehhez a következő csoporthoz.",
+            "ro": "Luați un autobuz din centru către acest următor grup.",
+            "en": "Take a bus from the center to this next cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Winternitz-Mühlen",
+            "hu": "Winternitz-malmok",
+            "ro": "Morile Winternitz",
+            "en": "Winternitz Mills"
+          },
+          "coords": [
+            15.768,
+            50.038
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:10",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie das Gelände und die moderne Galerie im Inneren.",
+            "hu": "Fedezze fel a területet és a benne lévő modern galériát.",
+            "ro": "Explorați zona și galeria modernă din interior.",
+            "en": "Explore the grounds and the modern gallery inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle Závodiště",
+            "hu": "Závodiště megálló",
+            "ro": "Stația Závodiště",
+            "en": "Závodiště Stop"
+          },
+          "coords": [
+            15.742,
+            50.049
+          ],
+          "category": "transport",
+          "arrive_at": "14:40",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine weitere Busfahrt bringt Sie zur berühmten Pferderennbahn.",
+            "hu": "Egy újabb buszút visz el a híres lóversenypályához.",
+            "ro": "O altă călătorie cu autobuzul vă duce la faimosul hipodrom.",
+            "en": "Another bus ride takes you to the famous racecourse."
+          }
+        },
+        {
+          "name": {
+            "de": "Pferderennbahn",
+            "hu": "Lóversenypálya",
+            "ro": "Hipodrom",
+            "en": "Racecourse"
+          },
+          "coords": [
+            15.74,
+            50.05
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spüren Sie die Atmosphäre dieses legendären Ortes.",
+            "hu": "Érezze át ennek a legendás helynek a hangulatát.",
+            "ro": "Simțiți atmosfera acestui loc legendar.",
+            "en": "Feel the atmosphere of this legendary place."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das effiziente öffentliche Verkehrsnetz von Pardubice. Beginnen Sie im Herzen der Altstadt, die Sie von der Haltestelle Třída Míru aus zu Fuß erkunden. Nehmen Sie sich Zeit für den Pernstein-Platz, das Grüne Tor und das nahe gelegene Schloss. Nach dem Mittagessen bringt Sie ein kurzer Bus zu den beeindruckenden Winternitz-Mühlen. Ein weiterer Bus bringt Sie am Nachmittag zu Ihrem letzten großen Ziel, der berühmten Pferderennbahn. Nach der Erkundung des Geländes können Sie bequem mit dem Bus ins Zentrum zurückkehren.",
+        "hu": "Használja ki Pardubice hatékony tömegközlekedési hálózatát. Kezdje az óváros szívében, amelyet a Třída Míru megállótól gyalog fedezhet fel. Szánjon időt a Pernštejn térre, a Zöld kapura és a közeli kastélyra. Ebéd után egy rövid buszút elviszi a lenyűgöző Winternitz-malmokhoz. Délután egy másik busz elviszi az utolsó nagy célponthoz, a híres lóversenypályához. A terület felfedezése után kényelmesen visszatérhet busszal a központba.",
+        "ro": "Profitați de rețeaua eficientă de transport public din Pardubice. Începeți în inima Centrului Vechi, explorându-l pe jos de la stația Třída Míru. Acordați-vă timp pentru Piața Pernštejn, Poarta Verde și castelul din apropiere. După prânz, o scurtă călătorie cu autobuzul vă va duce la impresionantele Mori Winternitz. Un alt autobuz vă va duce la destinația finală majoră după-amiaza, faimosul hipodrom. După explorarea zonei, puteți reveni convenabil în centru cu autobuzul.",
+        "en": "Take advantage of Pardubice's efficient public transport network. Start in the heart of the Old Town, exploring on foot from the Třída Míru stop. Allow time for Pernštejn Square, the Green Gate, and the nearby castle. After lunch, a short bus ride will take you to the impressive Winternitz Mills. Another bus will take you to your final major destination in the afternoon, the famous racecourse. After exploring the grounds, you can conveniently return to the center by bus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Street Food Stände",
+            "tip": "Probieren Sie schnelle und leckere lokale Snacks in der Nähe von Verkehrsknotenpunkten."
+          },
+          {
+            "name": "Cafés an der Třída Míru",
+            "tip": "Ideal für eine Kaffeepause, während Sie auf Ihren Bus warten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Utcai ételstandok",
+            "tip": "Kóstoljon meg gyors és finom helyi harapnivalókat a közlekedési csomópontok közelében."
+          },
+          {
+            "name": "Kávézók a Třída Míru-n",
+            "tip": "Ideális egy kávészünetre, amíg a buszra vár."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Standuri cu mâncare stradală",
+            "tip": "Încercați gustări locale rapide și gustoase în apropierea nodurilor de transport."
+          },
+          {
+            "name": "Cafenele pe Třída Míru",
+            "tip": "Ideal pentru o pauză de cafea în timp ce așteptați autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Street food stalls",
+            "tip": "Try quick and tasty local snacks near transport hubs."
+          },
+          {
+            "name": "Cafes on Třída Míru",
+            "tip": "Ideal for a coffee break while waiting for your bus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obere Etage eines Doppeldeckerbusses",
+            "tip": "Genießen Sie die Aussicht auf die Stadt aus einer anderen Perspektive.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Park am Fluss",
+            "tip": "Steigen Sie eine Haltestelle früher aus und spazieren Sie am Wasser entlang.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy emeletes busz felső szintje",
+            "tip": "Élvezze a város látványát más szemszögből."
+          },
+          {
+            "name": "Park a folyónál",
+            "tip": "Szálljon le egy megállóval korábban, és sétáljon a vízparton."
+          },
+          {
+            "name": "Parcul de pe malul râului",
+            "tip": "Coborâți cu o stație mai devreme și plimbați-vă de-a lungul apei.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etajul superior al unui autobuz etajat",
+            "tip": "Bucurați-vă de priveliștea orașului dintr-o altă perspectivă.",
+            "emoji": "🚌"
+          }
+        ],
+        "en": [
+          {
+            "name": "Top deck of a double-decker bus",
+            "tip": "Enjoy the city views from a different perspective.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Park by the river",
+            "tip": "Get off a stop early and stroll along the water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Nähe des Bahnhofs",
+            "tip": "Praktisch für Last-Minute-Souvenirs, bevor Sie die Stadt verlassen."
+          },
+          {
+            "name": "Kioske an Haltestellen",
+            "tip": "Für Getränke, Snacks und Fahrkarten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok a pályaudvar közelében",
+            "tip": "Praktikus az utolsó pillanatban beszerzett ajándéktárgyakhoz, mielőtt elhagyná a várost."
+          },
+          {
+            "name": "Kioszkok a megállókban",
+            "tip": "Italokért, rágcsálnivalókért és jegyekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine lângă gară",
+            "tip": "Convenabil pentru suveniruri de ultim moment înainte de a părăsi orașul."
+          },
+          {
+            "name": "Chioșcuri la stații",
+            "tip": "Pentru băuturi, gustări și bilete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops near the train station",
+            "tip": "Convenient for last-minute souvenirs before leaving the city."
+          },
+          {
+            "name": "Kiosks at stops",
+            "tip": "For drinks, snacks, and tickets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr, um Geld zu sparen.",
+          "Laden Sie die offizielle App für Fahrpläne und Routenplanung herunter.",
+          "Beachten Sie, dass Busse und Trolleybusse das Hauptverkehrsmittel sind."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
+          "Töltse le a hivatalos alkalmazást a menetrendekhez és útvonaltervezéshez.",
+          "Vegye figyelembe, hogy a buszok és trolibuszok a fő közlekedési eszközök."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru a economisi bani.",
+          "Descărcați aplicația oficială pentru orare și planificarea rutelor.",
+          "Rețineți că autobuzele și troleibuzele sunt principalele mijloace de transport."
+        ],
+        "en": [
+          "Buy a day pass for public transport to save money.",
+          "Download the official app for timetables and route planning.",
+          "Note that buses and trolleybuses are the main form of transport."
+        ]
+      }
+    }
+  }
+}

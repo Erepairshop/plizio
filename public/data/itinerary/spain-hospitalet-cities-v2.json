@@ -1,0 +1,1764 @@
+{
+  "city_id": "spain-hospitalet-cities-v2",
+  "anchor": {
+    "name": "L'Hospitalet de Llobregat",
+    "coords": [
+      41.3597,
+      2.1003
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:34",
+      "total_km": 5.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathausplatz",
+            "hu": "Városháza tér",
+            "ro": "Piața Primăriei",
+            "en": "Town Hall Square"
+          },
+          "coords": [
+            2.0977,
+            41.3595
+          ],
+          "category": "square/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Früh da sein, dann sind Platz und Arkaden ruhig.",
+            "hu": "Reggel a legjobb a fotókhoz és a csendhez.",
+            "ro": "Dimineața e cel mai bine pentru poze și liniște.",
+            "en": "Go early for calm light and clear photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Can-Sumarro-Herrenhaus",
+            "hu": "Can Sumarro kúria",
+            "ro": "Conacul Can Sumarro",
+            "en": "Can Sumarro Manor"
+          },
+          "coords": [
+            2.1018,
+            41.3577
+          ],
+          "category": "historical",
+          "arrive_at": "09:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Im Hof stecken die schönsten Details.",
+            "hu": "Az udvar részleteire érdemes figyelni.",
+            "ro": "Detaliile din curte merită privite încet.",
+            "en": "The courtyard details are the real payoff."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Santa Bellvitge",
+            "hu": "Santa Bellvitge kápolna",
+            "ro": "Capela Santa Bellvitge",
+            "en": "Santa Bellvitge Chapel"
+          },
+          "coords": [
+            2.1114,
+            41.3528
+          ],
+          "category": "religious",
+          "arrive_at": "11:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kurzer stiller Stopp vor dem Museumsblock.",
+            "hu": "Jó rövid csendes megálló a múzeum előtt.",
+            "ro": "O oprire scurtă și liniștită înainte de muzeu.",
+            "en": "A short quiet break before the museum works well."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von L'Hospitalet",
+            "hu": "L'Hospitalet Múzeum",
+            "ro": "Muzeul din L'Hospitalet",
+            "en": "L'Hospitalet Museum"
+          },
+          "coords": [
+            2.1009,
+            41.3606
+          ],
+          "category": "museum",
+          "arrive_at": "12:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Für die Sammlung lieber langsam gehen.",
+            "hu": "A gyűjteményt érdemes lassan végignézni.",
+            "ro": "Merită să mergi încet prin colecție.",
+            "en": "Take the collection slowly; it rewards a calm visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Tecla-Sala-Kunstzentrum",
+            "hu": "Tecla Sala Művészeti Központ",
+            "ro": "Centrul de Artă Tecla Sala",
+            "en": "Tecla Sala Art Centre"
+          },
+          "coords": [
+            2.1166,
+            41.3637
+          ],
+          "category": "cultural centre",
+          "arrive_at": "14:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suche die schattige Seite für eine Pause.",
+            "hu": "Az árnyékos oldal a legjobb megálló.",
+            "ro": "Caută partea umbroasă pentru o pauză.",
+            "en": "Find the shady side and stay a while."
+          }
+        },
+        {
+          "name": {
+            "de": "Can Boixeres Park",
+            "hu": "Can Boixeres park",
+            "ro": "Parcul Can Boixeres",
+            "en": "Can Boixeres Park"
+          },
+          "coords": [
+            2.0895,
+            41.3664
+          ],
+          "category": "park",
+          "arrive_at": "16:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 34,
+          "hop_from_prev_km": 1.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Am späten Nachmittag wird das Licht weich.",
+            "hu": "Késő délután a legszebb a fény.",
+            "ro": "Spre seară lumina devine mai blândă.",
+            "en": "Late afternoon gives the park its softest light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens startest du am Rathausplatz und im Can Sumarro, wo der alte Ortskern am ruhigsten wirkt. Mittags führen die kurzen Wege zur Kapelle und ins Museum ohne Stress. Nachmittags geben Tecla Sala und Can Boixeres Kultur und Schatten. Abends bleibt Zeit für ein entspanntes Essen in der Nähe der Gran Via.",
+        "hu": "Reggel a Városháza tér és Can Sumarro adja a régi városmag hangulatát. Délben a kápolna és a múzeum rövid, kényelmes sétává fűzi össze a napot. Délután a Tecla Sala és a Can Boixeres park kultúrát meg zöldet ad. Estére marad idő egy közeli vacsorára a Gran Via környékén.",
+        "ro": "Dimineața începi în piața primăriei și la Can Sumarro, unde se simte bine centrul vechi. La prânz, capela și muzeul țin traseul compact și fără grabă. După-amiaza, Tecla Sala și Can Boixeres aduc artă și umbră. Seara rămâne loc pentru cină liniștită aproape de Gran Via.",
+        "en": "Morning starts at Town Hall Square and Can Sumarro, where the old core still feels calm. By midday, the chapel and museum keep the route compact and easy. In the afternoon, Tecla Sala and Can Boixeres add art and green shade. Evening leaves room for a quiet dinner near Gran Via."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fideuà in Plaça d'Europa-Brasserien",
+            "tip": "Bestell die Meeresfrüchte-Version für ein leichtes Mittagessen."
+          },
+          {
+            "name": "Bombas und Bravas in Bellvitge",
+            "tip": "Ideal als schnelle Tapas-Pause zwischen zwei Stopps."
+          },
+          {
+            "name": "Reisgerichte bei La Farga",
+            "tip": "Passt gut, wenn du vor dem Park noch Zeit hast."
+          },
+          {
+            "name": "Vermut und Pa amb tomàquet im Zentrum",
+            "tip": "Perfekt als Aperitif am späten Nachmittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tenger gyümölcsös fideuà a Plaça d'Europa brasserieiben",
+            "tip": "Könnyű ebédhez kérd."
+          },
+          {
+            "name": "Bombák és bravas Bellvitgében",
+            "tip": "Gyors tapas-szünetnek ideális."
+          },
+          {
+            "name": "Rizses ételek a La Fargánál",
+            "tip": "Jó, ha a park előtt hosszabb ebédet szeretnél."
+          },
+          {
+            "name": "Vermut és pa amb tomàquet a központban",
+            "tip": "Késő délutáni aperitifnek tökéletes."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fideuà în braseriile din Plaça d'Europa",
+            "tip": "Alege varianta cu fructe de mare pentru prânz."
+          },
+          {
+            "name": "Bombas și bravas în Bellvitge",
+            "tip": "Bun pentru o pauză rapidă de tapas."
+          },
+          {
+            "name": "Orezuri la La Farga",
+            "tip": "Merge bine înainte de plimbarea din parc."
+          },
+          {
+            "name": "Vermut și pa amb tomàquet în centru",
+            "tip": "Perfect ca aperitiv spre seară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Seafood fideuà in Plaça d'Europa brasseries",
+            "tip": "Pick the seafood version for a light lunch."
+          },
+          {
+            "name": "Bombas and bravas in Bellvitge",
+            "tip": "Great for a quick tapas stop between sights."
+          },
+          {
+            "name": "Rice dishes near La Farga",
+            "tip": "Best when you still have a long afternoon ahead."
+          },
+          {
+            "name": "Vermut and pa amb tomàquet in the centre",
+            "tip": "A solid late-afternoon aperitif."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Can Boixeres bei Sonnenuntergang",
+            "tip": "Warmes Licht und ruhige Bänke.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Santa Bellvitge-Kapelle",
+            "tip": "Klein, still und gut für eine Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hesperia Tower am Abendrand",
+            "tip": "Für Skyline-Fotos ohne viel Lärm.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Tecla Sala Innenhof",
+            "tip": "Schatten, Luft und ein kurzer Reset.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Can Boixeres naplementében",
+            "tip": "Meleg fény és nyugodt padok.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Santa Bellvitge kápolnája",
+            "tip": "Kicsi, csendes, jó rövid pihenőre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hesperia Tower az esti peremen",
+            "tip": "Skyline-fotóhoz kevés zajjal.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Tecla Sala belső udvara",
+            "tip": "Árnyék, levegő és gyors megálló.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Can Boixeres la apus",
+            "tip": "Lumină caldă și bănci liniștite.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Capela Santa Bellvitge",
+            "tip": "Mică, tăcută și bună pentru o pauză.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hesperia Tower spre seară",
+            "tip": "Pentru skyline fără aglomerație.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Curtea interioară Tecla Sala",
+            "tip": "Umbră, aer și un reset scurt.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Can Boixeres at sunset",
+            "tip": "Warm light and quiet benches.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Santa Bellvitge Chapel",
+            "tip": "Small, still and good for a short break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hesperia Tower at dusk",
+            "tip": "Best skyline angle without the noise.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Tecla Sala courtyard",
+            "tip": "Shade, air and a quick reset.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercat de Bellvitge",
+            "tip": "Oliven, Käse und Snacks für unterwegs."
+          },
+          {
+            "name": "La Farga",
+            "tip": "Gut für Getränke und einfache Mitbringsel."
+          },
+          {
+            "name": "Bäckereien im Zentrum",
+            "tip": "Süßes Gebäck für die Rückfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercat de Bellvitge",
+            "tip": "Olíva, sajt és útközbeni snackek."
+          },
+          {
+            "name": "La Farga",
+            "tip": "Italra és egyszerű ajándékra jó."
+          },
+          {
+            "name": "Központi pékségek",
+            "tip": "Édes süti hazafelé."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercat de Bellvitge",
+            "tip": "Măsline, brânzeturi și gustări de drum."
+          },
+          {
+            "name": "La Farga",
+            "tip": "Bun pentru băuturi și suveniruri simple."
+          },
+          {
+            "name": "Patiseriile din centru",
+            "tip": "Ia o prăjitură pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercat de Bellvitge",
+            "tip": "Olives, cheese and snacks for the walk."
+          },
+          {
+            "name": "La Farga",
+            "tip": "Good for drinks and simple souvenirs."
+          },
+          {
+            "name": "Centre bakeries",
+            "tip": "Pick up something sweet for the ride home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Starte früh, damit Zentrum und Museum ruhig bleiben.",
+          "Wasser mitnehmen; die längeren Wege sind sonnig.",
+          "Tecla Sala und Can Boixeres liefern gute Schattenpausen.",
+          "Wenn der Tag zu lang wird, streiche den letzten Zusatzstopp."
+        ],
+        "hu": [
+          "Indulj korán, így a központ és a múzeum csendesebb.",
+          "Víz kell; a hosszabb gyaloglás napos.",
+          "A Tecla Sala és a Can Boixeres jó árnyékos megálló.",
+          "Ha hosszú a nap, az utolsó pluszpontot nyugodtan hagyd el."
+        ],
+        "ro": [
+          "Pornește devreme, ca centrul și muzeul să fie mai liniștite.",
+          "Ia apă; traseul pe jos e destul de însorit.",
+          "Tecla Sala și Can Boixeres sunt bune pentru umbră.",
+          "Dacă ziua se prelungește, poți să sari ultimul stop în plus."
+        ],
+        "en": [
+          "Start early so the centre and museum stay calm.",
+          "Bring water; the longer walks are quite sunny.",
+          "Tecla Sala and Can Boixeres make good shade breaks.",
+          "If the day runs long, skip the last extra stop."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:32",
+      "total_km": 5.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathausplatz",
+            "hu": "Városháza tér",
+            "ro": "Piața Primăriei",
+            "en": "Town Hall Square"
+          },
+          "coords": [
+            2.0977,
+            41.3595
+          ],
+          "category": "square/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahr früh los, dann ist der Platz am entspanntesten.",
+            "hu": "Korán indulj, akkor a tér a legnyugodtabb.",
+            "ro": "Pornește devreme; piața e mai calmă.",
+            "en": "Start early; the square is at its calmest."
+          }
+        },
+        {
+          "name": {
+            "de": "Can-Sumarro-Herrenhaus",
+            "hu": "Can Sumarro kúria",
+            "ro": "Conacul Can Sumarro",
+            "en": "Can Sumarro Manor"
+          },
+          "coords": [
+            2.1018,
+            41.3577
+          ],
+          "category": "historical",
+          "arrive_at": "09:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Kurz anhalten und die Hofdetails lesen.",
+            "hu": "Állj meg röviden, és nézd meg az udvart.",
+            "ro": "Oprește-te puțin și vezi detaliile curții.",
+            "en": "Pause briefly and read the courtyard details."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Santa Bellvitge",
+            "hu": "Santa Bellvitge kápolna",
+            "ro": "Capela Santa Bellvitge",
+            "en": "Santa Bellvitge Chapel"
+          },
+          "coords": [
+            2.1114,
+            41.3528
+          ],
+          "category": "religious",
+          "arrive_at": "11:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein ruhiger Punkt, bevor es wieder schneller wird.",
+            "hu": "Nyugodt pont, mielőtt újra gyorsabb lesz a nap.",
+            "ro": "Un punct liniștit înainte de ritmul mai rapid.",
+            "en": "A quiet pause before the pace picks up again."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von L'Hospitalet",
+            "hu": "L'Hospitalet Múzeum",
+            "ro": "Muzeul din L'Hospitalet",
+            "en": "L'Hospitalet Museum"
+          },
+          "coords": [
+            2.1009,
+            41.3606
+          ],
+          "category": "museum",
+          "arrive_at": "11:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließe das Rad sicher ab und nimm dir Zeit drinnen.",
+            "hu": "Zárd le biztonságosan a bringát, és szánj időt bentre.",
+            "ro": "Leagă bicicleta bine și ia-ți timp înăuntru.",
+            "en": "Lock the bike well and slow down inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Tecla-Sala-Kunstzentrum",
+            "hu": "Tecla Sala Művészeti Központ",
+            "ro": "Centrul de Artă Tecla Sala",
+            "en": "Tecla Sala Art Centre"
+          },
+          "coords": [
+            2.1166,
+            41.3637
+          ],
+          "category": "cultural centre",
+          "arrive_at": "13:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekt für eine längere Pause mit Schatten.",
+            "hu": "Tökéletes egy hosszabb, árnyékos szünetre.",
+            "ro": "Perfect pentru o pauză mai lungă la umbră.",
+            "en": "Perfect for a longer shaded break."
+          }
+        },
+        {
+          "name": {
+            "de": "Can Boixeres Park",
+            "hu": "Can Boixeres park",
+            "ro": "Parcul Can Boixeres",
+            "en": "Can Boixeres Park"
+          },
+          "coords": [
+            2.0895,
+            41.3664
+          ],
+          "category": "park",
+          "arrive_at": "15:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Hier lohnt ein längerer Stopp zum Durchatmen.",
+            "hu": "Itt érdemes hosszabban megpihenni.",
+            "ro": "Aici merită o pauză mai lungă.",
+            "en": "This is a good place to slow down and breathe."
+          }
+        },
+        {
+          "name": {
+            "de": "Fira Barcelona",
+            "hu": "Fira Barcelona",
+            "ro": "Fira Barcelona",
+            "en": "Fira Barcelona"
+          },
+          "coords": [
+            2.1327,
+            41.3554
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Zum Schluss noch ein leichter Food- oder Abendblick.",
+            "hu": "A végére egy könnyű étel vagy esti nézelődés.",
+            "ro": "La final, o gustare ușoară sau un ultim privit.",
+            "en": "End with a light bite or one last evening look."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Rad deckst du die Strecke leicht ab und bleibst im ruhigen Rhythmus. Vormittags folgen Rathausplatz, Can Sumarro und die Kapelle dicht aufeinander. Nachmittags geben Museum, Tecla Sala und der Park genug Pausen, und abends endet alles locker bei der Fira.",
+        "hu": "Kerékpárral kényelmesen bejárható az út, és a város ritmusa jól érezhető. Délelőtt egymás után jön a Városháza tér, Can Sumarro és a kápolna. Délután a múzeum, a Tecla Sala és a park adnak szünetet, este pedig a Fira zárja a napot.",
+        "ro": "Cu bicicleta parcurgi ușor traseul și simți bine ritmul orașului. Dimineața vin pe rând piața primăriei, Can Sumarro și capela. După-amiaza, muzeul, Tecla Sala și parcul dau pauzele, iar seara se închide relaxat la Fira.",
+        "en": "By bike, the route stays easy and the city reveals itself at a relaxed pace. In the morning, Town Hall Square, Can Sumarro and the chapel come in a compact run. The afternoon belongs to the museum, Tecla Sala and the park, with an easy finish at the Fira."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fideuà in Plaça d'Europa-Brasserien",
+            "tip": "Bestell die Meeresfrüchte-Version für ein leichtes Mittagessen."
+          },
+          {
+            "name": "Bombas und Bravas in Bellvitge",
+            "tip": "Ideal als schnelle Tapas-Pause zwischen zwei Stopps."
+          },
+          {
+            "name": "Reisgerichte bei La Farga",
+            "tip": "Passt gut, wenn du vor dem Park noch Zeit hast."
+          },
+          {
+            "name": "Vermut und Pa amb tomàquet im Zentrum",
+            "tip": "Perfekt als Aperitif am späten Nachmittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tenger gyümölcsös fideuà a Plaça d'Europa brasserieiben",
+            "tip": "Könnyű ebédhez kérd."
+          },
+          {
+            "name": "Bombák és bravas Bellvitgében",
+            "tip": "Gyors tapas-szünetnek ideális."
+          },
+          {
+            "name": "Rizses ételek a La Fargánál",
+            "tip": "Jó, ha a park előtt hosszabb ebédet szeretnél."
+          },
+          {
+            "name": "Vermut és pa amb tomàquet a központban",
+            "tip": "Késő délutáni aperitifnek tökéletes."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fideuà în braseriile din Plaça d'Europa",
+            "tip": "Alege varianta cu fructe de mare pentru prânz."
+          },
+          {
+            "name": "Bombas și bravas în Bellvitge",
+            "tip": "Bun pentru o pauză rapidă de tapas."
+          },
+          {
+            "name": "Orezuri la La Farga",
+            "tip": "Merge bine înainte de plimbarea din parc."
+          },
+          {
+            "name": "Vermut și pa amb tomàquet în centru",
+            "tip": "Perfect ca aperitiv spre seară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Seafood fideuà in Plaça d'Europa brasseries",
+            "tip": "Pick the seafood version for a light lunch."
+          },
+          {
+            "name": "Bombas and bravas in Bellvitge",
+            "tip": "Great for a quick tapas stop between sights."
+          },
+          {
+            "name": "Rice dishes near La Farga",
+            "tip": "Best when you still have a long afternoon ahead."
+          },
+          {
+            "name": "Vermut and pa amb tomàquet in the centre",
+            "tip": "A solid late-afternoon aperitif."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Can Boixeres bei Sonnenuntergang",
+            "tip": "Warmes Licht und ruhige Bänke.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Santa Bellvitge-Kapelle",
+            "tip": "Klein, still und gut für eine Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hesperia Tower am Abendrand",
+            "tip": "Für Skyline-Fotos ohne viel Lärm.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Tecla Sala Innenhof",
+            "tip": "Schatten, Luft und ein kurzer Reset.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Can Boixeres naplementében",
+            "tip": "Meleg fény és nyugodt padok.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Santa Bellvitge kápolnája",
+            "tip": "Kicsi, csendes, jó rövid pihenőre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hesperia Tower az esti peremen",
+            "tip": "Skyline-fotóhoz kevés zajjal.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Tecla Sala belső udvara",
+            "tip": "Árnyék, levegő és gyors megálló.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Can Boixeres la apus",
+            "tip": "Lumină caldă și bănci liniștite.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Capela Santa Bellvitge",
+            "tip": "Mică, tăcută și bună pentru o pauză.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hesperia Tower spre seară",
+            "tip": "Pentru skyline fără aglomerație.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Curtea interioară Tecla Sala",
+            "tip": "Umbră, aer și un reset scurt.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Can Boixeres at sunset",
+            "tip": "Warm light and quiet benches.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Santa Bellvitge Chapel",
+            "tip": "Small, still and good for a short break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hesperia Tower at dusk",
+            "tip": "Best skyline angle without the noise.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Tecla Sala courtyard",
+            "tip": "Shade, air and a quick reset.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercat de Bellvitge",
+            "tip": "Oliven, Käse und Snacks für unterwegs."
+          },
+          {
+            "name": "La Farga",
+            "tip": "Gut für Getränke und einfache Mitbringsel."
+          },
+          {
+            "name": "Bäckereien im Zentrum",
+            "tip": "Süßes Gebäck für die Rückfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercat de Bellvitge",
+            "tip": "Olíva, sajt és útközbeni snackek."
+          },
+          {
+            "name": "La Farga",
+            "tip": "Italra és egyszerű ajándékra jó."
+          },
+          {
+            "name": "Központi pékségek",
+            "tip": "Édes süti hazafelé."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercat de Bellvitge",
+            "tip": "Măsline, brânzeturi și gustări de drum."
+          },
+          {
+            "name": "La Farga",
+            "tip": "Bun pentru băuturi și suveniruri simple."
+          },
+          {
+            "name": "Patiseriile din centru",
+            "tip": "Ia o prăjitură pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercat de Bellvitge",
+            "tip": "Olives, cheese and snacks for the walk."
+          },
+          {
+            "name": "La Farga",
+            "tip": "Good for drinks and simple souvenirs."
+          },
+          {
+            "name": "Centre bakeries",
+            "tip": "Pick up something sweet for the ride home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Route ist flach und angenehm für entspanntes Fahren.",
+          "An Museen und La Farga früh einen sicheren Platz suchen.",
+          "Auf der Gran Via defensiv fahren und Kreuzungen ruhig nehmen.",
+          "Der Park ist ein guter Ort für eine längere Pause."
+        ],
+        "hu": [
+          "Az útvonal sík, jó egy laza bringás naphoz.",
+          "A múzeumoknál és a La Fargánál érdemes korán parkolni.",
+          "A Gran Vián óvatosan, a kereszteződésekben figyelmesen menj.",
+          "A park jó hely egy hosszabb pihenőre."
+        ],
+        "ro": [
+          "Traseul e drept și foarte plăcut cu bicicleta.",
+          "La muzee și la La Farga caută din timp un loc sigur.",
+          "Pe Gran Via mergi defensiv și ia intersecțiile încet.",
+          "Parcul e perfect pentru o pauză mai lungă."
+        ],
+        "en": [
+          "The route is flat and easy for a relaxed ride.",
+          "At museums and La Farga, lock up early and securely.",
+          "Ride defensively on Gran Via and keep crossings calm.",
+          "The park is the best place for a longer break."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:09",
+      "total_km": 7.1,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathausplatz",
+            "hu": "Városháza tér",
+            "ro": "Piața Primăriei",
+            "en": "Town Hall Square"
+          },
+          "coords": [
+            2.0977,
+            41.3595
+          ],
+          "category": "square/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parke zuerst zentral und spare dir Umparken.",
+            "hu": "Először a központban parkolj, és ne mozgasd sokat az autót.",
+            "ro": "Parchează central din start și evită mutările dese.",
+            "en": "Park centrally first and avoid moving the car too much."
+          }
+        },
+        {
+          "name": {
+            "de": "Can-Sumarro-Herrenhaus",
+            "hu": "Can Sumarro kúria",
+            "ro": "Conacul Can Sumarro",
+            "en": "Can Sumarro Manor"
+          },
+          "coords": [
+            2.1018,
+            41.3577
+          ],
+          "category": "historical",
+          "arrive_at": "09:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zwischen den Fassaden ruhig gehen, nicht hetzen.",
+            "hu": "A homlokzatok között nyugodtan sétálj, ne siess.",
+            "ro": "Plimbă-te încet printre fațade, fără grabă.",
+            "en": "Walk the facades slowly and don't rush."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Santa Bellvitge",
+            "hu": "Santa Bellvitge kápolna",
+            "ro": "Capela Santa Bellvitge",
+            "en": "Santa Bellvitge Chapel"
+          },
+          "coords": [
+            2.1114,
+            41.3528
+          ],
+          "category": "religious",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Hier kurz parken, dann zu Fuß die ruhige Ecke lesen.",
+            "hu": "Itt röviden parkolj, aztán gyalog nézd meg a csendes részt.",
+            "ro": "Parchează scurt aici și vezi zona liniștită pe jos.",
+            "en": "Park briefly here, then read the quiet corner on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Hotel Hesperia Tower",
+            "hu": "Hesperia Tower Hotel",
+            "ro": "Hotelul Hesperia Tower",
+            "en": "Hesperia Tower Hotel"
+          },
+          "coords": [
+            2.1281,
+            41.3557
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:53",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gute Stelle für einen schnellen Skyline-Stopp.",
+            "hu": "Jó pont egy gyors skyline-megállóra.",
+            "ro": "Loc bun pentru o oprire scurtă de skyline.",
+            "en": "A good spot for a quick skyline stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von L'Hospitalet",
+            "hu": "L'Hospitalet Múzeum",
+            "ro": "Muzeul din L'Hospitalet",
+            "en": "L'Hospitalet Museum"
+          },
+          "coords": [
+            2.1009,
+            41.3606
+          ],
+          "category": "museum",
+          "arrive_at": "12:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Hier lohnt ein längerer Innenstopp mit ruhigem Tempo.",
+            "hu": "Itt érdemes hosszabban, nyugodt tempóban maradni.",
+            "ro": "Aici merită un popas mai lung, în ritm lent.",
+            "en": "Worth a longer stop here at a relaxed pace."
+          }
+        },
+        {
+          "name": {
+            "de": "Tecla-Sala-Kunstzentrum",
+            "hu": "Tecla Sala Művészeti Központ",
+            "ro": "Centrul de Artă Tecla Sala",
+            "en": "Tecla Sala Art Centre"
+          },
+          "coords": [
+            2.1166,
+            41.3637
+          ],
+          "category": "cultural centre",
+          "arrive_at": "14:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zwischen Kunst und Hof bleibt der Tag angenehm leicht.",
+            "hu": "A művészet és az udvar között könnyű marad a nap.",
+            "ro": "Între artă și curte ziua rămâne lejeră.",
+            "en": "The mix of art and courtyard keeps the day light."
+          }
+        },
+        {
+          "name": {
+            "de": "Can Boixeres Park",
+            "hu": "Can Boixeres park",
+            "ro": "Parcul Can Boixeres",
+            "en": "Can Boixeres Park"
+          },
+          "coords": [
+            2.0895,
+            41.3664
+          ],
+          "category": "park",
+          "arrive_at": "15:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Nach dem Parken kurz durchatmen und den Schatten suchen.",
+            "hu": "Parkolás után lélegezz egyet, és keresd az árnyékot.",
+            "ro": "După parcare, respiră puțin și caută umbra.",
+            "en": "After parking, take a breath and find the shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Fira Barcelona",
+            "hu": "Fira Barcelona",
+            "ro": "Fira Barcelona",
+            "en": "Fira Barcelona"
+          },
+          "coords": [
+            2.1327,
+            41.3554
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "17:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zum Schluss noch ein leichter Blick auf die Abendzone.",
+            "hu": "A végére egy könnyű pillantás az esti zónára.",
+            "ro": "La final, o privire scurtă spre zona de seară.",
+            "en": "End with a light look over the evening zone."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto funktioniert L'Hospitalet am besten in Clustern: Zentrum, Bellvitge, Kulturzone und ein grüner Abschluss. Parke einmal pro Cluster und gehe die kurzen Wege zu Fuß. So sparst du Zeit an der Gran Via und bekommst trotzdem viele Perspektiven.",
+        "hu": "Autóval L'Hospitalet akkor működik a legjobban, ha blokkokra bontod a napot: központ, Bellvitge, kulturális zóna, majd a zöld lezárás. Egy clusterben egyszer parkolj, utána sétálj. Így időt spórolsz a Gran Vián, mégis sok nézőpontot kapsz.",
+        "ro": "Cu mașina, L'Hospitalet merge cel mai bine pe clustere: centru, Bellvitge, zona culturală și apoi finalul verde. Parchează o dată pe cluster și fă restul pe jos. Așa economisești timp pe Gran Via și vezi mai multe unghiuri.",
+        "en": "By car, L'Hospitalet works best in clusters: the centre, Bellvitge, the cultural zone, then a green ending. Park once per cluster and walk the short links. That saves time on Gran Via and still gives you plenty of angles."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fideuà in Plaça d'Europa-Brasserien",
+            "tip": "Bestell die Meeresfrüchte-Version für ein leichtes Mittagessen."
+          },
+          {
+            "name": "Bombas und Bravas in Bellvitge",
+            "tip": "Ideal als schnelle Tapas-Pause zwischen zwei Stopps."
+          },
+          {
+            "name": "Reisgerichte bei La Farga",
+            "tip": "Passt gut, wenn du vor dem Park noch Zeit hast."
+          },
+          {
+            "name": "Vermut und Pa amb tomàquet im Zentrum",
+            "tip": "Perfekt als Aperitif am späten Nachmittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tenger gyümölcsös fideuà a Plaça d'Europa brasserieiben",
+            "tip": "Könnyű ebédhez kérd."
+          },
+          {
+            "name": "Bombák és bravas Bellvitgében",
+            "tip": "Gyors tapas-szünetnek ideális."
+          },
+          {
+            "name": "Rizses ételek a La Fargánál",
+            "tip": "Jó, ha a park előtt hosszabb ebédet szeretnél."
+          },
+          {
+            "name": "Vermut és pa amb tomàquet a központban",
+            "tip": "Késő délutáni aperitifnek tökéletes."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fideuà în braseriile din Plaça d'Europa",
+            "tip": "Alege varianta cu fructe de mare pentru prânz."
+          },
+          {
+            "name": "Bombas și bravas în Bellvitge",
+            "tip": "Bun pentru o pauză rapidă de tapas."
+          },
+          {
+            "name": "Orezuri la La Farga",
+            "tip": "Merge bine înainte de plimbarea din parc."
+          },
+          {
+            "name": "Vermut și pa amb tomàquet în centru",
+            "tip": "Perfect ca aperitiv spre seară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Seafood fideuà in Plaça d'Europa brasseries",
+            "tip": "Pick the seafood version for a light lunch."
+          },
+          {
+            "name": "Bombas and bravas in Bellvitge",
+            "tip": "Great for a quick tapas stop between sights."
+          },
+          {
+            "name": "Rice dishes near La Farga",
+            "tip": "Best when you still have a long afternoon ahead."
+          },
+          {
+            "name": "Vermut and pa amb tomàquet in the centre",
+            "tip": "A solid late-afternoon aperitif."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Can Boixeres bei Sonnenuntergang",
+            "tip": "Warmes Licht und ruhige Bänke.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Santa Bellvitge-Kapelle",
+            "tip": "Klein, still und gut für eine Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hesperia Tower am Abendrand",
+            "tip": "Für Skyline-Fotos ohne viel Lärm.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Tecla Sala Innenhof",
+            "tip": "Schatten, Luft und ein kurzer Reset.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Can Boixeres naplementében",
+            "tip": "Meleg fény és nyugodt padok.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Santa Bellvitge kápolnája",
+            "tip": "Kicsi, csendes, jó rövid pihenőre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hesperia Tower az esti peremen",
+            "tip": "Skyline-fotóhoz kevés zajjal.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Tecla Sala belső udvara",
+            "tip": "Árnyék, levegő és gyors megálló.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Can Boixeres la apus",
+            "tip": "Lumină caldă și bănci liniștite.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Capela Santa Bellvitge",
+            "tip": "Mică, tăcută și bună pentru o pauză.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hesperia Tower spre seară",
+            "tip": "Pentru skyline fără aglomerație.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Curtea interioară Tecla Sala",
+            "tip": "Umbră, aer și un reset scurt.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Can Boixeres at sunset",
+            "tip": "Warm light and quiet benches.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Santa Bellvitge Chapel",
+            "tip": "Small, still and good for a short break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hesperia Tower at dusk",
+            "tip": "Best skyline angle without the noise.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Tecla Sala courtyard",
+            "tip": "Shade, air and a quick reset.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercat de Bellvitge",
+            "tip": "Oliven, Käse und Snacks für unterwegs."
+          },
+          {
+            "name": "La Farga",
+            "tip": "Gut für Getränke und einfache Mitbringsel."
+          },
+          {
+            "name": "Bäckereien im Zentrum",
+            "tip": "Süßes Gebäck für die Rückfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercat de Bellvitge",
+            "tip": "Olíva, sajt és útközbeni snackek."
+          },
+          {
+            "name": "La Farga",
+            "tip": "Italra és egyszerű ajándékra jó."
+          },
+          {
+            "name": "Központi pékségek",
+            "tip": "Édes süti hazafelé."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercat de Bellvitge",
+            "tip": "Măsline, brânzeturi și gustări de drum."
+          },
+          {
+            "name": "La Farga",
+            "tip": "Bun pentru băuturi și suveniruri simple."
+          },
+          {
+            "name": "Patiseriile din centru",
+            "tip": "Ia o prăjitură pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercat de Bellvitge",
+            "tip": "Olives, cheese and snacks for the walk."
+          },
+          {
+            "name": "La Farga",
+            "tip": "Good for drinks and simple souvenirs."
+          },
+          {
+            "name": "Centre bakeries",
+            "tip": "Pick up something sweet for the ride home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nur dreimal fahren; innerhalb der Cluster zu Fuß bleiben.",
+          "Rund um Gran Via und Plaça d'Europa ist die Zufahrt oft langsamer.",
+          "Morgens ist das Zentrum angenehmer als am späten Nachmittag.",
+          "Lass am Ende 30 Minuten Puffer für Parkplatz und Ausfahrt."
+        ],
+        "hu": [
+          "Csak háromszor vezess; a clusteren belül sétálj.",
+          "A Gran Via és a Plaça d'Europa körül lassabb lehet a behajtás.",
+          "Délelőtt a központ kellemesebb, mint késő délután.",
+          "A végére hagyj 30 perc tartalékot parkolóra és kijáratra."
+        ],
+        "ro": [
+          "Doar de trei ori conduci; în interiorul clusterelor mergi pe jos.",
+          "În zona Gran Via și Plaça d'Europa accesul poate fi mai lent.",
+          "Dimineața centrul e mai plăcut decât spre seară.",
+          "Lasă 30 de minute rezervă pentru parcare și ieșire."
+        ],
+        "en": [
+          "Drive only three times; walk inside each cluster.",
+          "Around Gran Via and Plaça d'Europa, access can be slower.",
+          "Morning is gentler in the centre than late afternoon.",
+          "Keep a 30-minute buffer for parking and exit time."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "19:19",
+      "total_km": 7.1,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathausplatz",
+            "hu": "Városháza tér",
+            "ro": "Piața Primăriei",
+            "en": "Town Hall Square"
+          },
+          "coords": [
+            2.0977,
+            41.3595
+          ],
+          "category": "square/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nimm die erste Verbindung früh, dann bleibt der Tag locker.",
+            "hu": "Az első járattal indulj, így laza marad a nap.",
+            "ro": "Ia prima legătură devreme și ziua rămâne lejeră.",
+            "en": "Take the first connection early and keep the day easy."
+          }
+        },
+        {
+          "name": {
+            "de": "Can-Sumarro-Herrenhaus",
+            "hu": "Can Sumarro kúria",
+            "ro": "Conacul Can Sumarro",
+            "en": "Can Sumarro Manor"
+          },
+          "coords": [
+            2.1018,
+            41.3577
+          ],
+          "category": "historical",
+          "arrive_at": "09:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zwischen Haltestelle und Hof ist der Fußweg kurz.",
+            "hu": "A megálló és az udvar között rövid a séta.",
+            "ro": "Între stație și curte mersul pe jos e scurt.",
+            "en": "The walk from the stop to the courtyard is very short."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Santa Bellvitge",
+            "hu": "Santa Bellvitge kápolna",
+            "ro": "Capela Santa Bellvitge",
+            "en": "Santa Bellvitge Chapel"
+          },
+          "coords": [
+            2.1114,
+            41.3528
+          ],
+          "category": "religious",
+          "arrive_at": "11:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Hier lohnt ein kurzer ruhiger Blick vor dem Weiterfahren.",
+            "hu": "Érdemes egy rövid csendes pillantást vetni továbbindulás előtt.",
+            "ro": "Merită o privire scurtă și liniștită înainte de drum.",
+            "en": "Worth a short quiet look before moving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Hotel Hesperia Tower",
+            "hu": "Hesperia Tower Hotel",
+            "ro": "Hotelul Hesperia Tower",
+            "en": "Hesperia Tower Hotel"
+          },
+          "coords": [
+            2.1281,
+            41.3557
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:57",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gute Stelle für einen schnellen Skyline-Stopp.",
+            "hu": "Jó pont egy gyors skyline-megállóra.",
+            "ro": "Loc bun pentru o oprire scurtă de skyline.",
+            "en": "A good spot for a quick skyline stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von L'Hospitalet",
+            "hu": "L'Hospitalet Múzeum",
+            "ro": "Muzeul din L'Hospitalet",
+            "en": "L'Hospitalet Museum"
+          },
+          "coords": [
+            2.1009,
+            41.3606
+          ],
+          "category": "museum",
+          "arrive_at": "12:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Im Museum lohnt ein ruhiger, langsamer Rundgang.",
+            "hu": "A múzeumban lassú, nyugodt bejárás a legjobb.",
+            "ro": "În muzeu merită un tur lent, fără grabă.",
+            "en": "The museum rewards a slow, unhurried visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Tecla-Sala-Kunstzentrum",
+            "hu": "Tecla Sala Művészeti Központ",
+            "ro": "Centrul de Artă Tecla Sala",
+            "en": "Tecla Sala Art Centre"
+          },
+          "coords": [
+            2.1166,
+            41.3637
+          ],
+          "category": "cultural centre",
+          "arrive_at": "14:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eine gute Pause zwischen Kunst und ruhiger Architektur.",
+            "hu": "Jó szünet a művészet és a nyugodt építészet között.",
+            "ro": "O pauză bună între artă și arhitectură liniștită.",
+            "en": "A good break between art and calm architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Can Boixeres Park",
+            "hu": "Can Boixeres park",
+            "ro": "Parcul Can Boixeres",
+            "en": "Can Boixeres Park"
+          },
+          "coords": [
+            2.0895,
+            41.3664
+          ],
+          "category": "park",
+          "arrive_at": "16:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.7,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ideal, wenn du vor dem Abend noch Luft brauchst.",
+            "hu": "Ideális, ha estére még kell egy kis levegő.",
+            "ro": "Ideal dacă vrei puțin aer înainte de seară.",
+            "en": "Ideal if you want some air before evening."
+          }
+        },
+        {
+          "name": {
+            "de": "Fira Barcelona",
+            "hu": "Fira Barcelona",
+            "ro": "Fira Barcelona",
+            "en": "Fira Barcelona"
+          },
+          "coords": [
+            2.1327,
+            41.3554
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "17:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zum Schluss noch ein lockerer Blick auf die Abendzone.",
+            "hu": "A végére egy laza pillantás az esti zónára.",
+            "ro": "La final, o privire relaxată spre zona de seară.",
+            "en": "End with a relaxed look over the evening zone."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit Metro und Bus lässt sich die Stadt gut in drei kurze Blöcke teilen. Zwischen den Clustern fährst du, innerhalb der Blöcke gehst du zu Fuß. Das macht den Tag planbar und hält die Wege an der Oberfläche angenehm kurz.",
+        "hu": "Metróval és busszal a város szépen három rövid blokkra osztható. A blokkok között utazol, belül gyalogolsz. Így kiszámítható marad a nap, és a felszíni séták rövidek maradnak.",
+        "ro": "Cu metroul și autobuzul împarți orașul în trei blocuri ușor de gestionat. Între ele mergi cu transportul, iar în interior pe jos. Ziua devine clară, iar plimbările de la suprafață rămân scurte.",
+        "en": "Metro and bus let you split the city into three easy blocks. You ride between clusters and walk inside them. The day stays predictable, and the surface walks remain pleasantly short."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fideuà in Plaça d'Europa-Brasserien",
+            "tip": "Bestell die Meeresfrüchte-Version für ein leichtes Mittagessen."
+          },
+          {
+            "name": "Bombas und Bravas in Bellvitge",
+            "tip": "Ideal als schnelle Tapas-Pause zwischen zwei Stopps."
+          },
+          {
+            "name": "Reisgerichte bei La Farga",
+            "tip": "Passt gut, wenn du vor dem Park noch Zeit hast."
+          },
+          {
+            "name": "Vermut und Pa amb tomàquet im Zentrum",
+            "tip": "Perfekt als Aperitif am späten Nachmittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tenger gyümölcsös fideuà a Plaça d'Europa brasserieiben",
+            "tip": "Könnyű ebédhez kérd."
+          },
+          {
+            "name": "Bombák és bravas Bellvitgében",
+            "tip": "Gyors tapas-szünetnek ideális."
+          },
+          {
+            "name": "Rizses ételek a La Fargánál",
+            "tip": "Jó, ha a park előtt hosszabb ebédet szeretnél."
+          },
+          {
+            "name": "Vermut és pa amb tomàquet a központban",
+            "tip": "Késő délutáni aperitifnek tökéletes."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fideuà în braseriile din Plaça d'Europa",
+            "tip": "Alege varianta cu fructe de mare pentru prânz."
+          },
+          {
+            "name": "Bombas și bravas în Bellvitge",
+            "tip": "Bun pentru o pauză rapidă de tapas."
+          },
+          {
+            "name": "Orezuri la La Farga",
+            "tip": "Merge bine înainte de plimbarea din parc."
+          },
+          {
+            "name": "Vermut și pa amb tomàquet în centru",
+            "tip": "Perfect ca aperitiv spre seară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Seafood fideuà in Plaça d'Europa brasseries",
+            "tip": "Pick the seafood version for a light lunch."
+          },
+          {
+            "name": "Bombas and bravas in Bellvitge",
+            "tip": "Great for a quick tapas stop between sights."
+          },
+          {
+            "name": "Rice dishes near La Farga",
+            "tip": "Best when you still have a long afternoon ahead."
+          },
+          {
+            "name": "Vermut and pa amb tomàquet in the centre",
+            "tip": "A solid late-afternoon aperitif."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Can Boixeres bei Sonnenuntergang",
+            "tip": "Warmes Licht und ruhige Bänke.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Santa Bellvitge-Kapelle",
+            "tip": "Klein, still und gut für eine Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hesperia Tower am Abendrand",
+            "tip": "Für Skyline-Fotos ohne viel Lärm.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Tecla Sala Innenhof",
+            "tip": "Schatten, Luft und ein kurzer Reset.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Can Boixeres naplementében",
+            "tip": "Meleg fény és nyugodt padok.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Santa Bellvitge kápolnája",
+            "tip": "Kicsi, csendes, jó rövid pihenőre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hesperia Tower az esti peremen",
+            "tip": "Skyline-fotóhoz kevés zajjal.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Tecla Sala belső udvara",
+            "tip": "Árnyék, levegő és gyors megálló.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Can Boixeres la apus",
+            "tip": "Lumină caldă și bănci liniștite.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Capela Santa Bellvitge",
+            "tip": "Mică, tăcută și bună pentru o pauză.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hesperia Tower spre seară",
+            "tip": "Pentru skyline fără aglomerație.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Curtea interioară Tecla Sala",
+            "tip": "Umbră, aer și un reset scurt.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Can Boixeres at sunset",
+            "tip": "Warm light and quiet benches.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Santa Bellvitge Chapel",
+            "tip": "Small, still and good for a short break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hesperia Tower at dusk",
+            "tip": "Best skyline angle without the noise.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Tecla Sala courtyard",
+            "tip": "Shade, air and a quick reset.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercat de Bellvitge",
+            "tip": "Oliven, Käse und Snacks für unterwegs."
+          },
+          {
+            "name": "La Farga",
+            "tip": "Gut für Getränke und einfache Mitbringsel."
+          },
+          {
+            "name": "Bäckereien im Zentrum",
+            "tip": "Süßes Gebäck für die Rückfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercat de Bellvitge",
+            "tip": "Olíva, sajt és útközbeni snackek."
+          },
+          {
+            "name": "La Farga",
+            "tip": "Italra és egyszerű ajándékra jó."
+          },
+          {
+            "name": "Központi pékségek",
+            "tip": "Édes süti hazafelé."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercat de Bellvitge",
+            "tip": "Măsline, brânzeturi și gustări de drum."
+          },
+          {
+            "name": "La Farga",
+            "tip": "Bun pentru băuturi și suveniruri simple."
+          },
+          {
+            "name": "Patiseriile din centru",
+            "tip": "Ia o prăjitură pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercat de Bellvitge",
+            "tip": "Olives, cheese and snacks for the walk."
+          },
+          {
+            "name": "La Farga",
+            "tip": "Good for drinks and simple souvenirs."
+          },
+          {
+            "name": "Centre bakeries",
+            "tip": "Pick up something sweet for the ride home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Metro und Bus sparen vor allem zwischen Bellvitge und Zentrum Zeit.",
+          "Ein Cluster pro Ticket macht den Tag stressfrei.",
+          "Zwischen den Haltestellen sind die Wege kurz genug zum Gehen.",
+          "Am Abend etwas Reserve einplanen, falls Busse voller sind."
+        ],
+        "hu": [
+          "A metró és a busz főleg Bellvitge és a központ között spórol időt.",
+          "Egy cluster egy jeggyel stresszmentesebb napot ad.",
+          "A megállók között a séták elég rövidek.",
+          "Estére hagyj kis tartalékot, ha a busz tele lenne."
+        ],
+        "ro": [
+          "Metroul și autobuzul economisesc timp mai ales între Bellvitge și centru.",
+          "Un cluster pe un singur bilet face ziua mai relaxată.",
+          "Între stații, mersul pe jos e suficient de scurt.",
+          "Seara lasă o mică rezervă dacă autobuzele sunt pline."
+        ],
+        "en": [
+          "Metro and bus save the most time between Bellvitge and the centre.",
+          "One ticket per cluster makes the day stress-free.",
+          "Between stops, the walking links are short enough.",
+          "Leave a little evening buffer in case buses are crowded."
+        ]
+      }
+    }
+  }
+}

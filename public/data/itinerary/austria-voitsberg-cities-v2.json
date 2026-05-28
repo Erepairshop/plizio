@@ -1,0 +1,1423 @@
+{
+  "city_id": "austria-voitsberg-cities-v2",
+  "anchor": {
+    "name": "Voitsberg",
+    "coords": [
+      15.1506,
+      47.0503
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptplatz Voitsberg",
+            "hu": "Voitsbergi főtér",
+            "ro": "Piața Principală Voitsberg",
+            "en": "Voitsberg Main Square"
+          },
+          "coords": [
+            15.1506,
+            47.0503
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee in einem der Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a téren található egyik kávézóban.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
+            "en": "Start your day with a coffee at one of the cafés on the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Josef",
+            "hu": "Szent József plébániatemplom",
+            "ro": "Biserica parohială Sf. Iosif",
+            "en": "Parish Church of St. Joseph"
+          },
+          "coords": [
+            15.1515,
+            47.0508
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die barocke Architektur und die Deckengemälde.",
+            "hu": "Csodálja meg a barokk építészetet és a mennyezeti freskókat.",
+            "ro": "Admirați arhitectura barocă și picturile de pe tavan.",
+            "en": "Admire the baroque architecture and the ceiling paintings."
+          }
+        },
+        {
+          "name": {
+            "de": "Arik-Brauer-Haus",
+            "hu": "Arik Brauer Ház",
+            "ro": "Casa Arik Brauer",
+            "en": "Arik Brauer House"
+          },
+          "coords": [
+            15.1498,
+            47.0512
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Prüfen Sie den aktuellen Spielplan für eventuelle Ausstellungen.",
+            "hu": "Nézze meg az aktuális programot a lehetséges kiállításokért.",
+            "ro": "Verificați programul actual pentru eventuale expoziții.",
+            "en": "Check the current schedule for any exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Michaelikirche",
+            "hu": "Szent Mihály-templom",
+            "ro": "Biserica Sf. Mihail",
+            "en": "St. Michael's Church"
+          },
+          "coords": [
+            15.1525,
+            47.0515
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kleineres, aber sehr stimmungsvolles Gotteshaus.",
+            "hu": "Kisebb, de nagyon hangulatos templom.",
+            "ro": "O biserică mai mică, dar foarte atmosferică.",
+            "en": "A smaller but very atmospheric church."
+          }
+        },
+        {
+          "name": {
+            "de": "Heiliger Brunnen",
+            "hu": "Szent Kút",
+            "ro": "Fântâna Sfântă",
+            "en": "Holy Well"
+          },
+          "coords": [
+            15.1445,
+            47.0565
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort auf dem Weg zur Burgruine, perfekt für eine kurze Pause.",
+            "hu": "Egy csendes hely a várhoz vezető úton, tökéletes egy rövid pihenőre.",
+            "ro": "Un loc liniștit în drum spre ruinele castelului, perfect pentru o scurtă pauză.",
+            "en": "A quiet spot on the way to the castle ruins, perfect for a short break."
+          }
+        },
+        {
+          "name": {
+            "de": "Burgruine Obervoitsberg",
+            "hu": "Obervoitsberg várromja",
+            "ro": "Ruinele Castelului Obervoitsberg",
+            "en": "Obervoitsberg Castle Ruins"
+          },
+          "coords": [
+            15.145,
+            47.055
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tragen Sie festes Schuhwerk für den Aufstieg. Die Aussicht ist es wert!",
+            "hu": "Viseljen erős cipőt a mászáshoz. A kilátás megéri!",
+            "ro": "Purtați încălțăminte rezistentă pentru urcare. Priveliștea merită!",
+            "en": "Wear sturdy shoes for the climb. The view is worth it!"
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Greißenegg",
+            "hu": "Greißenegg-kastély",
+            "ro": "Castelul Greißenegg",
+            "en": "Greißenegg Castle"
+          },
+          "coords": [
+            15.16,
+            47.048
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Informieren Sie sich über die Öffnungszeiten, da es sich in Privatbesitz befindet.",
+            "hu": "Tájékozódjon a nyitvatartási időről, mivel magántulajdonban van.",
+            "ro": "Informați-vă despre orele de vizitare, deoarece este proprietate privată.",
+            "en": "Check opening times as it is privately owned."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Spaziergang durch Voitsberg beginnt am lebhaften Hauptplatz. Am Vormittag erkunden Sie das kirchliche und kulturelle Erbe der Stadt, von der prächtigen St. Josef Kirche bis zum modernen Arik-Brauer-Haus. Der Mittag führt Sie bergauf zum Heiligen Brunnen und der imposanten Burgruine Obervoitsberg, wo Sie eine atemberaubende Aussicht und eine wohlverdiente Pause genießen. Am Nachmittag spazieren Sie durch die Stadt zum eleganten Schloss Greißenegg, dessen Geschichte und Architektur den Tag perfekt abrunden. Der Abend klingt in einem traditionellen Gasthaus aus.",
+        "hu": "A voitsbergi séta a nyüzsgő főtéren kezdődik. Délelőtt a város egyházi és kulturális örökségét fedezi fel, a pompás Szent József-templomtól a modern Arik Brauer Házig. Délben az út felfelé vezet a Szent Kúthoz és az impozáns Obervoitsberg várromhoz, ahol lélegzetelállító kilátás és egy jól megérdemelt pihenő várja. Délután átsétál a városon az elegáns Greißenegg-kastélyhoz, melynek története és építészete tökéletesen zárja a napot. Az estét egy hagyományos vendéglőben fejezi be.",
+        "ro": "Plimbarea prin Voitsberg începe în Piața Principală plină de viață. Dimineața explorați moștenirea ecleziastică și culturală a orașului, de la magnifică Biserică Sf. Iosif la moderna Casă Arik Brauer. La prânz, urcați la Fântâna Sfântă și la impunătoarele ruine ale Castelului Obervoitsberg, unde vă bucurați de o priveliște uluitoare și o pauză binemeritată. După-amiaza, vă plimbați prin oraș până la elegantul Castel Greißenegg, a cărui istorie și arhitectură încheie perfect ziua. Seara se încheie la un han tradițional.",
+        "en": "The walk through Voitsberg begins at the lively Main Square. In the morning, you'll explore the town's ecclesiastical and cultural heritage, from the magnificent St. Joseph's Church to the modern Arik Brauer House. Midday takes you uphill to the Holy Well and the imposing Obervoitsberg castle ruins, where you'll enjoy breathtaking views and a well-deserved rest. In the afternoon, you'll stroll across town to the elegant Greißenegg Castle, whose history and architecture provide a perfect end to the day. The evening concludes at a traditional inn."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Backhendl",
+            "tip": "Probieren Sie das steirische Traditionsgericht in einem der örtlichen Gasthöfe."
+          },
+          {
+            "name": "Kürbiskernöl-Eierspeis",
+            "tip": "Eine lokale Spezialität, perfekt für eine herzhafte Stärkung."
+          },
+          {
+            "name": "Gasthof 'Zum Alten Weinstock'",
+            "tip": "Bekannt für seine authentische regionale Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rántott csirke (Backhendl)",
+            "tip": "Kóstolja meg ezt a stájer hagyományos ételt az egyik helyi vendéglőben."
+          },
+          {
+            "name": "Tökmagolajos tojásrántotta",
+            "tip": "Helyi specialitás, tökéletes egy kiadós étkezéshez."
+          },
+          {
+            "name": "Gasthof 'Zum Alten Weinstock'",
+            "tip": "Híres az autentikus regionális konyhájáról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pui prăjit (Backhendl)",
+            "tip": "Încercați acest preparat tradițional stirian la unul dintre hanurile locale."
+          },
+          {
+            "name": "Omletă cu ulei de dovleac",
+            "tip": "O specialitate locală, perfectă pentru o masă consistentă."
+          },
+          {
+            "name": "Hanul 'Zum Alten Weinstock'",
+            "tip": "Renumit pentru bucătăria sa regională autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fried Chicken (Backhendl)",
+            "tip": "Try this traditional Styrian dish at one of the local inns."
+          },
+          {
+            "name": "Scrambled Eggs with Pumpkin Seed Oil",
+            "tip": "A local specialty, perfect for a hearty meal."
+          },
+          {
+            "name": "Inn 'Zum Alten Weinstock'",
+            "tip": "Known for its authentic regional cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussicht von der Burgruine",
+            "tip": "Der beste Ort für einen Panoramablick über das Kainachtal.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Am Ufer der Kainach",
+            "tip": "Ein friedlicher Spaziergang entlang des Flusses.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhof bei der Michaelikirche",
+            "tip": "Ein Ort der Stille und Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a várromról",
+            "tip": "A legjobb hely a panorámás kilátáshoz a Kainach-völgyre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Kainach folyó partján",
+            "tip": "Békés séta a folyó mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Szent Mihály-templom melletti temető",
+            "tip": "A csend és az elmélkedés helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la ruinele castelului",
+            "tip": "Cel mai bun loc pentru o vedere panoramică asupra Văii Kainach.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pe malul râului Kainach",
+            "tip": "O plimbare liniștită de-a lungul râului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul de lângă Biserica Sf. Mihail",
+            "tip": "Un loc de liniște și contemplare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the Castle Ruins",
+            "tip": "The best place for a panoramic view over the Kainach valley.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Banks of the Kainach River",
+            "tip": "A peaceful walk along the river.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cemetery at St. Michael's Church",
+            "tip": "A place of silence and contemplation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bauernmarkt",
+            "tip": "Kaufen Sie lokale Produkte wie Kürbiskernöl und Schilcher-Wein."
+          },
+          {
+            "name": "Kleine Läden am Hauptplatz",
+            "tip": "Stöbern Sie nach handgefertigten Souvenirs und regionalen Handwerksprodukten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői piac",
+            "tip": "Vásároljon helyi termékeket, mint a tökmagolaj és a Schilcher bor."
+          },
+          {
+            "name": "Kis üzletek a főtéren",
+            "tip": "Böngésszen kézműves ajándéktárgyak és regionális kézműves termékek között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața fermierilor",
+            "tip": "Cumpărați produse locale precum ulei de dovleac și vin Schilcher."
+          },
+          {
+            "name": "Micile magazine din Piața Principală",
+            "tip": "Căutați suveniruri artizanale și produse meșteșugărești regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farmers' Market",
+            "tip": "Buy local products like pumpkin seed oil and Schilcher wine."
+          },
+          {
+            "name": "Small shops on the Main Square",
+            "tip": "Browse for handmade souvenirs and regional crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Tour einen Aufstieg zur Burgruine beinhaltet.",
+          "Nehmen Sie eine Wasserflasche mit, besonders für den Weg nach Obervoitsberg.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Planen Sie genügend Zeit für die Burgruine ein, um die Aussicht zu genießen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a túra magában foglalja a feljutást a várromhoz.",
+          "Vigyen magával egy üveg vizet, különösen az Obervoitsbergbe vezető útra.",
+          "A legtöbb belvárosi látnivaló könnyen elérhető gyalog.",
+          "Tervezzen elegendő időt a várromra, hogy élvezhesse a kilátást."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece turul include o urcare la ruinele castelului.",
+          "Luați o sticlă de apă, mai ales pentru drumul spre Obervoitsberg.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Planificați suficient timp la ruinele castelului pentru a vă bucura de priveliște."
+        ],
+        "en": [
+          "Wear comfortable shoes as the tour includes a climb to the castle ruins.",
+          "Bring a water bottle, especially for the walk up to Obervoitsberg.",
+          "Most sights in the center are easily within walking distance.",
+          "Allow plenty of time at the castle ruins to enjoy the view."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptplatz & Stadtzentrum",
+            "hu": "Főtér és városközpont",
+            "ro": "Piața Principală și Centrul Orașului",
+            "en": "Main Square & City Center"
+          },
+          "coords": [
+            15.1506,
+            47.0503
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Sammeln Sie erste Eindrücke und genießen Sie die Atmosphäre der Stadt.",
+            "hu": "Szerezzen első benyomásokat és élvezze a város hangulatát.",
+            "ro": "Adunați primele impresii și bucurați-vă de atmosfera orașului.",
+            "en": "Get your first impressions and enjoy the city's atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche & Michaelikirche",
+            "hu": "Plébániatemplom és Szent Mihály-templom",
+            "ro": "Biserica Parohială și Biserica Sf. Mihail",
+            "en": "Parish Church & St. Michael's Church"
+          },
+          "coords": [
+            15.1515,
+            47.0508
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Rad und erkunden Sie die beiden wichtigsten Kirchen zu Fuß.",
+            "hu": "Parkolja le a kerékpárt és fedezze fel a két legfontosabb templomot gyalog.",
+            "ro": "Parcați bicicleta și explorați cele două biserici principale pe jos.",
+            "en": "Park your bike and explore the two main churches on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Burgruine Obervoitsberg",
+            "hu": "Obervoitsberg várromja",
+            "ro": "Ruinele Castelului Obervoitsberg",
+            "en": "Obervoitsberg Castle Ruins"
+          },
+          "coords": [
+            15.145,
+            47.055
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Der Anstieg ist anspruchsvoll, aber die Panoramaaussicht belohnt die Mühe.",
+            "hu": "Az emelkedő kihívást jelent, de a panoráma kárpótol a fáradozásért.",
+            "ro": "Urcușul este solicitant, dar vederea panoramică răsplătește efortul.",
+            "en": "The climb is challenging, but the panoramic view rewards the effort."
+          }
+        },
+        {
+          "name": {
+            "de": "Tregister Dorfkapelle",
+            "hu": "Tregisti falukápolna",
+            "ro": "Capela din Tregist",
+            "en": "Tregist Village Chapel"
+          },
+          "coords": [
+            15.13,
+            47.06
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Eine charmante kleine Kapelle in ländlicher Umgebung, ideal für eine ruhige Pause.",
+            "hu": "Bájos kis kápolna vidéki környezetben, ideális egy csendes pihenőhöz.",
+            "ro": "O capelă fermecătoare într-un cadru rural, ideală pentru o pauză liniștită.",
+            "en": "A charming little chapel in a rural setting, ideal for a quiet break."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Greißenegg",
+            "hu": "Greißenegg-kastély",
+            "ro": "Castelul Greißenegg",
+            "en": "Greißenegg Castle"
+          },
+          "coords": [
+            15.16,
+            47.048
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Fahrt zum Schloss und bewundern Sie die Architektur von außen.",
+            "hu": "Élvezze a kastélyhoz vezető utat, és csodálja meg az építészetet kívülről.",
+            "ro": "Bucurați-vă de plimbarea cu bicicleta până la castel și admirați arhitectura din exterior.",
+            "en": "Enjoy the ride to the castle and admire its architecture from the outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Arik-Brauer-Haus",
+            "hu": "Arik Brauer Ház",
+            "ro": "Casa Arik Brauer",
+            "en": "Arik Brauer House"
+          },
+          "coords": [
+            15.1498,
+            47.0512
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:20",
+          "stay_min": 55,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schließen Sie die Tour mit einem kulturellen Höhepunkt im Stadtzentrum ab.",
+            "hu": "Zárja a túrát egy kulturális fényponttal a városközpontban.",
+            "ro": "Încheiați turul cu un punct culminant cultural în centrul orașului.",
+            "en": "Conclude the tour with a cultural highlight in the city center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Radtour beginnt im Herzen von Voitsberg am Hauptplatz. Am Vormittag erkunden Sie die zentralen Kirchen, bevor Sie sich der sportlichen Herausforderung stellen und zur Burgruine Obervoitsberg hinaufradeln. Der Mittag belohnt Sie mit einer fantastischen Aussicht und einer ruhigen Fahrt zur idyllischen Tregister Dorfkapelle – ein perfekter Ort für eine Pause im Grünen. Der Nachmittag führt Sie zum eleganten Schloss Greißenegg und schließlich zurück ins Zentrum zum kulturellen Abschluss im Arik-Brauer-Haus. Der Abend gehört der steirischen Kulinarik.",
+        "hu": "A kerékpártúra Voitsberg szívében, a főtéren kezdődik. Délelőtt felfedezi a központi templomokat, mielőtt sportos kihívás elé állítaná magát, és feltekerne az Obervoitsberg várromhoz. Délben fantasztikus kilátás és egy csendes út várja az idilli Tregister falusi kápolnához – tökéletes hely egy zöldövezeti pihenőhöz. A délután az elegáns Greißenegg-kastélyhoz vezet, végül pedig vissza a központba, a kulturális befejezéshez az Arik Brauer Házban. Az este a stájer konyhaművészeté.",
+        "ro": "Turul cu bicicleta începe în inima orașului Voitsberg, în Piața Principală. Dimineața explorați bisericile centrale înainte de a accepta provocarea sportivă de a urca cu bicicleta la ruinele castelului Obervoitsberg. La prânz veți fi răsplătit cu o priveliște fantastică și o plimbare liniștită la idilica Capelă din Tregist – un loc perfect pentru o pauză în natură. După-amiaza vă duce la elegantul Castel Greißenegg și, în final, înapoi în centru pentru o încheiere culturală la Casa Arik Brauer. Seara este dedicată bucătăriei stiriene.",
+        "en": "The bike tour starts in the heart of Voitsberg at the Main Square. In the morning, you'll explore the central churches before taking on the athletic challenge of cycling up to the Obervoitsberg castle ruins. Midday rewards you with fantastic views and a quiet ride to the idyllic Tregist village chapel – a perfect spot for a break in the countryside. The afternoon takes you to the elegant Greißenegg Castle and finally back to the center for a cultural conclusion at the Arik Brauer House. The evening is all about Styrian cuisine."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brettljause",
+            "tip": "Eine herzhafte Jause mit regionalen Produkten ist die perfekte Radler-Stärkung."
+          },
+          {
+            "name": "Apfelstrudel",
+            "tip": "Gönnen Sie sich nach der Tour ein klassisches steirisches Dessert."
+          },
+          {
+            "name": "Buschenschank in der Umgebung",
+            "tip": "Suchen Sie eine Heurigenwirtschaft für eine authentische Mahlzeit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hidegtál (Brettljause)",
+            "tip": "Egy kiadós, regionális termékekből álló uzsonna tökéletes erőgyűjtés a kerékpárosoknak."
+          },
+          {
+            "name": "Almásrétes (Apfelstrudel)",
+            "tip": "Kényeztesse magát egy klasszikus stájer desszerttel a túra után."
+          },
+          {
+            "name": "Buschenschank a környéken",
+            "tip": "Keressen egy borozót egy autentikus étkezéshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platou rece (Brettljause)",
+            "tip": "Un platou consistent cu produse regionale este gustarea perfectă pentru un ciclist."
+          },
+          {
+            "name": "Ștrudel cu mere (Apfelstrudel)",
+            "tip": "Răsfățați-vă cu un desert clasic stirian după tur."
+          },
+          {
+            "name": "Cârciumă (Buschenschank) în zonă",
+            "tip": "Căutați o cârciumă locală pentru o masă autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cold Platter (Brettljause)",
+            "tip": "A hearty snack with regional products is the perfect cyclist's refreshment."
+          },
+          {
+            "name": "Apple Strudel (Apfelstrudel)",
+            "tip": "Treat yourself to a classic Styrian dessert after the tour."
+          },
+          {
+            "name": "Wine tavern (Buschenschank) in the area",
+            "tip": "Look for a local wine tavern for an authentic meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tregister Dorfkapelle",
+            "tip": "Die ländliche Stille rund um die Kapelle ist sehr erholsam.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Radweg entlang der Kainach",
+            "tip": "Genießen Sie die ruhige Fahrt am Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Blick von Obervoitsberg",
+            "tip": "Nehmen Sie sich Zeit, die Weite der Landschaft auf sich wirken zu lassen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tregisti falukápolna",
+            "tip": "A kápolna körüli vidéki csend nagyon pihentető.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kerékpárút a Kainach mentén",
+            "tip": "Élvezze a nyugodt tekerést a víz mellett.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás Obervoitsbergből",
+            "tip": "Szánjon időt arra, hogy magába szívja a táj tágasságát.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capela din Tregist",
+            "tip": "Liniștea rurală din jurul capelei este foarte relaxantă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pista de biciclete de-a lungul râului Kainach",
+            "tip": "Bucurați-vă de plimbarea liniștită pe malul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere din Obervoitsberg",
+            "tip": "Luați-vă timp pentru a admira vastitatea peisajului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tregist Village Chapel",
+            "tip": "The rural silence around the chapel is very relaxing.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bike path along the Kainach",
+            "tip": "Enjoy the quiet ride by the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from Obervoitsberg",
+            "tip": "Take time to soak in the vastness of the landscape.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Regionale Hofläden",
+            "tip": "Halten Sie Ausschau nach Schildern, die frische Produkte direkt vom Bauernhof verkaufen."
+          },
+          {
+            "name": "Fahrradgeschäft für Zubehör",
+            "tip": "Falls Sie etwas für Ihre Tour benötigen, finden Sie im Ort Unterstützung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termelői boltok",
+            "tip": "Keresse a táblákat, amelyek friss termékeket árulnak közvetlenül a gazdaságból."
+          },
+          {
+            "name": "Kerékpárbolt kiegészítőkért",
+            "tip": "Ha szüksége van valamire a túrához, a városban talál segítséget."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine agricole locale",
+            "tip": "Uitați-vă după indicatoarele care vând produse proaspete direct de la fermă."
+          },
+          {
+            "name": "Magazin de biciclete pentru accesorii",
+            "tip": "Dacă aveți nevoie de ceva pentru turul dvs., veți găsi sprijin în oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local farm shops",
+            "tip": "Look out for signs selling fresh produce directly from the farm."
+          },
+          {
+            "name": "Bike shop for accessories",
+            "tip": "If you need anything for your tour, you'll find support in town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck und die Bremsen vor der Tour.",
+          "Ein Helm wird dringend empfohlen, besonders für die Abfahrten.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad an den Haltepunkten sicher abzustellen.",
+          "Die Wege können teilweise steil sein, eine gute Grundkondition ist von Vorteil."
+        ],
+        "hu": [
+          "Ellenőrizze a guminyomást és a fékeket a túra előtt.",
+          "Sisak használata erősen ajánlott, különösen a lejtőkön.",
+          "Vigyen magával lakatot, hogy biztonságosan lezárhassa a kerékpárt a megállóknál.",
+          "Az utak helyenként meredekek lehetnek, a jó alap-állóképesség előny."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope și frânele înainte de tur.",
+          "O cască este puternic recomandată, în special pentru coborâri.",
+          "Luați un lacăt pentru a vă asigura bicicleta la opriri.",
+          "Traseele pot fi abrupte pe alocuri, o condiție fizică de bază este un avantaj."
+        ],
+        "en": [
+          "Check your tire pressure and brakes before the tour.",
+          "A helmet is strongly recommended, especially for the descents.",
+          "Bring a lock to secure your bike at the stops.",
+          "The paths can be steep in places, so a good level of fitness is an advantage."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 8.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Stadtzentrum Voitsberg",
+            "hu": "1. klaszter: Voitsberg városközpont",
+            "ro": "Cluster 1: Centrul orașului Voitsberg",
+            "en": "Cluster 1: Voitsberg Town Center"
+          },
+          "coords": [
+            15.1508,
+            47.0505
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie zentral und beginnen Sie die Erkundung zu Fuß.",
+            "hu": "Parkoljon a központban, és kezdje a felfedezést gyalog.",
+            "ro": "Parcați în centru și începeți explorarea pe jos.",
+            "en": "Park centrally and start exploring on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptplatz & Stadtpfarrkirche St. Josef",
+            "hu": "Főtér és Szent József plébániatemplom",
+            "ro": "Piața Principală și Biserica Parohială Sf. Iosif",
+            "en": "Main Square & Parish Church of St. Joseph"
+          },
+          "coords": [
+            15.1515,
+            47.0508
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang verbindet die beiden Hauptattraktionen des Zentrums.",
+            "hu": "Egy rövid séta köti össze a központ két fő látnivalóját.",
+            "ro": "O scurtă plimbare leagă cele două atracții principale ale centrului.",
+            "en": "A short walk connects the two main attractions of the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Arik-Brauer-Haus",
+            "hu": "Arik Brauer Ház",
+            "ro": "Casa Arik Brauer",
+            "en": "Arik Brauer House"
+          },
+          "coords": [
+            15.1498,
+            47.0512
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Kulturzentrum ist nur wenige Schritte vom Hauptplatz entfernt.",
+            "hu": "A kulturális központ csak néhány lépésre van a főtértől.",
+            "ro": "Centrul cultural este la doar câțiva pași de Piața Principală.",
+            "en": "The cultural center is just a few steps from the Main Square."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Burgberg",
+            "hu": "2. klaszter: Várhegy",
+            "ro": "Cluster 2: Dealul Castelului",
+            "en": "Cluster 2: Castle Hill"
+          },
+          "coords": [
+            15.145,
+            47.055
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz unterhalb der Ruine und gehen Sie das letzte Stück.",
+            "hu": "Vezessen a rom alatti parkolóig, és tegye meg az utolsó szakaszt gyalog.",
+            "ro": "Conduceți până la parcarea de sub ruine și mergeți pe jos ultima bucată.",
+            "en": "Drive to the parking lot below the ruins and walk the last part."
+          }
+        },
+        {
+          "name": {
+            "de": "Heiliger Brunnen",
+            "hu": "Szent Kút",
+            "ro": "Fântâna Sfântă",
+            "en": "Holy Well"
+          },
+          "coords": [
+            15.1445,
+            47.0565
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kleiner Abstecher von der Burgruine zu diesem besinnlichen Ort.",
+            "hu": "Egy kis kitérő a várromtól ehhez a békés helyhez.",
+            "ro": "Un mic ocol de la ruinele castelului la acest loc contemplativ.",
+            "en": "A short detour from the castle ruins to this contemplative spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Schloss Greißenegg",
+            "hu": "3. klaszter: Greißenegg-kastély",
+            "ro": "Cluster 3: Castelul Greißenegg",
+            "en": "Cluster 3: Greißenegg Castle"
+          },
+          "coords": [
+            15.16,
+            47.048
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Schloss und genießen Sie einen Spaziergang im Schlosspark.",
+            "hu": "Parkoljon a kastélynál, és tegyen egy sétát a kastélyparkban.",
+            "ro": "Parcați la castel și bucurați-vă de o plimbare în parcul castelului.",
+            "en": "Park at the castle and enjoy a walk in the castle park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Voitsberg und Umgebung in bequemen Etappen. Der Vormittag gehört dem historischen Stadtkern, den Sie nach dem Parken zu Fuß erkunden: vom Hauptplatz über die Kirchen bis zum Kulturzentrum. Mittags fahren Sie zum Burgberg, parken und erobern die Burgruine Obervoitsberg. Genießen Sie die Aussicht und die Ruhe am Heiligen Brunnen. Am Nachmittag bringt Sie eine kurze Fahrt zum prächtigen Schloss Greißenegg. Hier können Sie den Tag mit einem ausgedehnten Spaziergang durch den Schlosspark ausklingen lassen, bevor Sie in einem lokalen Gasthaus einkehren.",
+        "hu": "Autóval kényelmes szakaszokban fedezheti fel Voitsberget és környékét. A délelőtt a történelmi városközponté, amelyet parkolás után gyalogosan járhat be: a főtértől a templomokon át a kulturális központig. Délben a Várhegyre hajt, leparkol, és meghódítja az Obervoitsberg várromot. Élvezze a kilátást és a csendet a Szent Kútnál. Délután egy rövid autóút vezet a pompás Greißenegg-kastélyhoz. Itt egy kiadós sétával zárhatja a napot a kastélyparkban, mielőtt betérne egy helyi vendéglőbe.",
+        "ro": "Cu mașina, explorați Voitsberg și împrejurimile în etape confortabile. Dimineața este dedicată centrului istoric, pe care îl explorați pe jos după parcare: de la Piața Principală, la biserici și la centrul cultural. La prânz, conduceți spre Dealul Castelului, parcați și cuceriți ruinele castelului Obervoitsberg. Bucurați-vă de priveliște și de liniștea de la Fântâna Sfântă. După-amiaza, o scurtă călătorie cu mașina vă duce la magnificul Castel Greißenegg. Aici puteți încheia ziua cu o plimbare lungă prin parcul castelului înainte de a vă opri la un han local.",
+        "en": "By car, you can explore Voitsberg and its surroundings in comfortable stages. The morning is dedicated to the historic town center, which you explore on foot after parking: from the Main Square to the churches and the cultural center. At noon, you drive to Castle Hill, park, and conquer the Obervoitsberg castle ruins. Enjoy the view and the tranquility at the Holy Well. In the afternoon, a short drive takes you to the magnificent Greißenegg Castle. Here you can end the day with a long walk through the castle park before stopping at a local inn."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gasthof in der Nähe von Greißenegg",
+            "tip": "Verbinden Sie den Schlossbesuch mit einem späten Mittagessen."
+          },
+          {
+            "name": "Steirisches Wurzelfleisch",
+            "tip": "Ein klassisches Gericht der Region, das Sie probieren sollten."
+          },
+          {
+            "name": "Konditorei im Zentrum",
+            "tip": "Für Kaffee und Kuchen nach der Rückkehr ins Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vendéglő Greißenegg közelében",
+            "tip": "Kösse össze a kastélylátogatást egy késői ebéddel."
+          },
+          {
+            "name": "Stájer gyökérhús (Wurzelfleisch)",
+            "tip": "A régió klasszikus étele, amelyet érdemes megkóstolni."
+          },
+          {
+            "name": "Cukrászda a központban",
+            "tip": "Egy kávéra és süteményre, miután visszatért a városközpontba."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Han lângă Greißenegg",
+            "tip": "Combinați vizita la castel cu un prânz târziu."
+          },
+          {
+            "name": "Carne cu rădăcinoase stiriană (Wurzelfleisch)",
+            "tip": "Un fel de mâncare clasic din regiune pe care ar trebui să-l încercați."
+          },
+          {
+            "name": "Cofetărie în centru",
+            "tip": "Pentru o cafea și o prăjitură la întoarcerea în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Inn near Greißenegg",
+            "tip": "Combine the castle visit with a late lunch."
+          },
+          {
+            "name": "Styrian Boiled Beef with Root Vegetables (Wurzelfleisch)",
+            "tip": "A classic regional dish you should try."
+          },
+          {
+            "name": "Pastry shop in the center",
+            "tip": "For coffee and cake after returning to the town center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlosspark Greißenegg",
+            "tip": "Ein weitläufiger Park, ideal für einen ruhigen Nachmittagsspaziergang.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Wanderwege um die Burgruine",
+            "tip": "Abseits des Hauptweges finden sich ruhige Pfade.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Heiliger Brunnen",
+            "tip": "Ein Ort der Einkehr und Stille.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Greißenegg kastélypark",
+            "tip": "Tágas park, ideális egy csendes délutáni sétához.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Túraútvonalak a várrom körül",
+            "tip": "A fő útvonaltól távolabb csendes ösvényeket talál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent Kút",
+            "tip": "Az elmélyülés és a csend helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului Greißenegg",
+            "tip": "Un parc întins, ideal pentru o plimbare liniștită de după-amiază.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Trasee de drumeție în jurul ruinelor castelului",
+            "tip": "Departe de poteca principală veți găsi cărări liniștite.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fântâna Sfântă",
+            "tip": "Un loc de reculegere și liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Greißenegg Castle Park",
+            "tip": "A spacious park, ideal for a quiet afternoon walk.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hiking trails around the castle ruins",
+            "tip": "You'll find quiet paths away from the main trail.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Holy Well",
+            "tip": "A place for contemplation and silence.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofladen beim Schloss",
+            "tip": "Manche Schlösser haben kleine Läden mit regionalen Spezialitäten."
+          },
+          {
+            "name": "Souvenirs bei der Burgruine",
+            "tip": "Ein kleiner Kiosk bietet oft Andenken an."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői bolt a kastélynál",
+            "tip": "Néhány kastélyban kis boltokat találni helyi specialitásokkal."
+          },
+          {
+            "name": "Ajándéktárgyak a várromnál",
+            "tip": "Egy kis kioszk gyakran kínál emléktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin agricol la castel",
+            "tip": "Unele castele au mici magazine cu specialități regionale."
+          },
+          {
+            "name": "Suveniruri la ruinele castelului",
+            "tip": "Un mic chioșc oferă adesea suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shop at the castle",
+            "tip": "Some castles have small shops with regional specialties."
+          },
+          {
+            "name": "Souvenirs at the castle ruins",
+            "tip": "A small kiosk often offers souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie eine Navigations-App, um die Parkplätze in der Nähe der Cluster zu finden.",
+          "Planen Sie die Parkgebühren ein, besonders im Stadtzentrum.",
+          "Die Cluster-Philosophie spart Zeit und Stress bei der Parkplatzsuche.",
+          "Überprüfen Sie die Öffnungszeiten der Schlösser und Ruinen online vor Ihrem Besuch."
+        ],
+        "hu": [
+          "Használjon navigációs alkalmazást a klaszterek közelében lévő parkolók megtalálásához.",
+          "Tervezzen a parkolási díjakkal, különösen a városközpontban.",
+          "A klaszter-filozófia időt és stresszt takarít meg a parkolóhely-keresésnél.",
+          "Látogatás előtt ellenőrizze online a kastélyok és romok nyitvatartási idejét."
+        ],
+        "ro": [
+          "Utilizați o aplicație de navigație pentru a găsi parcările din apropierea clusterelor.",
+          "Luați în calcul taxele de parcare, în special în centrul orașului.",
+          "Filozofia clusterelor economisește timp și reduce stresul căutării unui loc de parcare.",
+          "Verificați online programul de funcționare al castelelor și ruinelor înainte de vizită."
+        ],
+        "en": [
+          "Use a navigation app to find parking lots near the clusters.",
+          "Factor in parking fees, especially in the city center.",
+          "The cluster philosophy saves time and stress when looking for parking.",
+          "Check the opening hours of castles and ruins online before your visit."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 4.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Zentrum Voitsberg",
+            "hu": "1. klaszter: Voitsberg központja",
+            "ro": "Cluster 1: Centrul Voitsberg",
+            "en": "Cluster 1: Voitsberg Center"
+          },
+          "coords": [
+            15.1506,
+            47.0503
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Starten Sie am zentralen Busbahnhof oder einer Haltestelle am Hauptplatz.",
+            "hu": "Induljon a központi buszpályaudvarról vagy a főtéri megállóból.",
+            "ro": "Începeți de la autogara centrală sau de la o stație din Piața Principală.",
+            "en": "Start at the central bus station or a stop at the Main Square."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche & Arik-Brauer-Haus",
+            "hu": "Plébániatemplom és Arik Brauer Ház",
+            "ro": "Biserica Parohială și Casa Arik Brauer",
+            "en": "Parish Church & Arik Brauer House"
+          },
+          "coords": [
+            15.151,
+            47.051
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die wichtigsten Sehenswürdigkeiten des Zentrums zu Fuß.",
+            "hu": "Fedezze fel gyalog a központ legfontosabb látnivalóit.",
+            "ro": "Explorați pe jos principalele atracții ale centrului.",
+            "en": "Explore the main sights of the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Burgberg Region",
+            "hu": "2. klaszter: Várhegy környéke",
+            "ro": "Cluster 2: Regiunea Dealul Castelului",
+            "en": "Cluster 2: Castle Hill Region"
+          },
+          "coords": [
+            15.146,
+            47.054
+          ],
+          "category": "landmark",
+          "arrive_at": "11:20",
+          "stay_min": 0,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in Richtung Obervoitsberg und steigen Sie nahe der Ruine aus.",
+            "hu": "Menjen busszal Obervoitsberg irányába, és szálljon le a rom közelében.",
+            "ro": "Luați un autobuz spre Obervoitsberg și coborâți lângă ruine.",
+            "en": "Take a bus towards Obervoitsberg and get off near the ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Burgruine Obervoitsberg",
+            "hu": "Obervoitsberg várromja",
+            "ro": "Ruinele Castelului Obervoitsberg",
+            "en": "Obervoitsberg Castle Ruins"
+          },
+          "coords": [
+            15.145,
+            47.055
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Von der Bushaltestelle führt ein kurzer, aber steiler Fußweg zur Ruine.",
+            "hu": "A buszmegállótól egy rövid, de meredek gyalogút vezet a romhoz.",
+            "ro": "De la stația de autobuz, o scurtă dar abruptă potecă duce la ruine.",
+            "en": "From the bus stop, a short but steep footpath leads to the ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang Richtung Greißenegg",
+            "hu": "Séta Greißenegg irányába",
+            "ro": "Plimbare spre Greißenegg",
+            "en": "Walk towards Greißenegg"
+          },
+          "coords": [
+            15.155,
+            47.049
+          ],
+          "category": "landmark",
+          "arrive_at": "14:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein längerer Spaziergang führt Sie durch die Landschaft zum nächsten Schloss.",
+            "hu": "Egy hosszabb séta vezet a tájon keresztül a következő kastélyhoz.",
+            "ro": "O plimbare mai lungă vă duce prin peisaj la următorul castel.",
+            "en": "A longer walk takes you through the landscape to the next castle."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erkunden Sie Voitsberg in zwei großen Clustern. Am Vormittag entdecken Sie das Stadtzentrum zu Fuß, nachdem Sie an einer zentralen Haltestelle angekommen sind. Kirchen und Kultur stehen auf dem Programm. Gegen Mittag nehmen Sie den Bus, der Sie in die Nähe des Burgbergs bringt. Ein kurzer Aufstieg führt zur beeindruckenden Burgruine Obervoitsberg, wo Sie Zeit für die Aussicht und ein Picknick haben. Der Nachmittag ist einem ausgedehnten Spaziergang gewidmet, der Sie von der Burgregion in Richtung Schloss Greißenegg führt und Ihnen die ländliche Umgebung näherbringt, bevor Sie den Bus zurück ins Zentrum nehmen.",
+        "hu": "Tömegközlekedéssel két nagy klaszterben fedezheti fel Voitsberget. Délelőtt gyalogosan fedezi fel a városközpontot, miután megérkezett egy központi megállóba. Templomok és kultúra szerepelnek a programban. Dél körül busszal megy a Várhegy közelébe. Egy rövid emelkedő vezet a lenyűgöző Obervoitsberg várromhoz, ahol időt szánhat a kilátásra és egy piknikre. A délután egy hosszabb sétáé, amely a vár környékéről a Greißenegg-kastély irányába vezet, és közelebb hozza a vidéki környezetet, mielőtt visszabuszozna a központba.",
+        "ro": "Cu transportul public, explorați Voitsberg în două clustere mari. Dimineața, descoperiți centrul orașului pe jos, după ce ajungeți la o stație centrală. Bisericile și cultura sunt pe program. În jurul prânzului, luați autobuzul care vă duce aproape de Dealul Castelului. O scurtă urcare duce la impresionantele ruine ale Castelului Obervoitsberg, unde aveți timp pentru priveliște și un picnic. După-amiaza este dedicată unei plimbări extinse, care vă poartă din regiunea castelului spre Castelul Greißenegg, apropiindu-vă de mediul rural înainte de a lua autobuzul înapoi în centru.",
+        "en": "Using public transport, you'll explore Voitsberg in two large clusters. In the morning, you'll discover the city center on foot after arriving at a central stop. Churches and culture are on the agenda. Around noon, you'll take a bus that brings you near Castle Hill. A short climb leads to the impressive Obervoitsberg castle ruins, where you have time for the view and a picnic. The afternoon is dedicated to an extended walk, taking you from the castle region towards Greißenegg Castle, bringing you closer to the rural surroundings before you take the bus back to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei im Zentrum",
+            "tip": "Holen Sie sich Proviant für ein Picknick bei der Burgruine."
+          },
+          {
+            "name": "Käsekrainer-Wurst",
+            "tip": "Ein schneller und leckerer Imbiss von einem Würstelstand."
+          },
+          {
+            "name": "Café am Hauptplatz",
+            "tip": "Perfekt für eine Pause, während Sie auf den nächsten Bus warten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség a központban",
+            "tip": "Szerezzen be elemózsiát egy piknikhez a várromnál."
+          },
+          {
+            "name": "Sajtos kolbász (Käsekrainer)",
+            "tip": "Gyors és finom harapnivaló egy kolbászos standtól."
+          },
+          {
+            "name": "Kávézó a főtéren",
+            "tip": "Tökéletes egy szünetre, amíg a következő buszra vár."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie în centru",
+            "tip": "Luați provizii pentru un picnic la ruinele castelului."
+          },
+          {
+            "name": "Cârnați cu brânză (Käsekrainer)",
+            "tip": "O gustare rapidă și delicioasă de la o tarabă cu cârnați."
+          },
+          {
+            "name": "Cafenea în Piața Principală",
+            "tip": "Perfect pentru o pauză în timp ce așteptați următorul autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery in the center",
+            "tip": "Get provisions for a picnic at the castle ruins."
+          },
+          {
+            "name": "Cheese-filled sausage (Käsekrainer)",
+            "tip": "A quick and tasty snack from a sausage stand."
+          },
+          {
+            "name": "Café on the Main Square",
+            "tip": "Perfect for a break while waiting for the next bus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Picknickplatz bei der Burgruine",
+            "tip": "Genießen Sie Ihr Mittagessen mit einer fantastischen Aussicht in Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spazierweg nach Greißenegg",
+            "tip": "Der Weg führt durch ruhige Wohngebiete und Wiesen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Eine Bank im Schatten der Michaelikirche",
+            "tip": "Ein versteckter Ort für eine kurze Pause im Zentrum.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piknikezőhely a várromnál",
+            "tip": "Fogyassza el ebédjét nyugodtan, fantasztikus kilátással.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sétaút Greißenegg felé",
+            "tip": "Az út csendes lakónegyedeken és réteken vezet keresztül.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Egy pad a Szent Mihály-templom árnyékában",
+            "tip": "Egy rejtett hely egy rövid pihenőre a központban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Loc de picnic la ruinele castelului",
+            "tip": "Bucurați-vă de prânz în liniște, cu o priveliște fantastică.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Potecă spre Greißenegg",
+            "tip": "Calea duce prin zone rezidențiale liniștite și pajiști.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "O bancă la umbra Bisericii Sf. Mihail",
+            "tip": "Un loc ascuns pentru o scurtă pauză în centru.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Picnic spot at the castle ruins",
+            "tip": "Enjoy your lunch in peace with a fantastic view.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Walking path to Greißenegg",
+            "tip": "The path leads through quiet residential areas and meadows.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A bench in the shade of St. Michael's Church",
+            "tip": "A hidden spot for a short break in the center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Trafik (Tabakladen)",
+            "tip": "Hier können Sie Bustickets und oft auch kleine Snacks kaufen."
+          },
+          {
+            "name": "Supermarkt im Zentrum",
+            "tip": "Ideal, um sich mit Getränken und Proviant einzudecken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dohánybolt (Trafik)",
+            "tip": "Itt buszjegyet és gyakran kis harapnivalókat is vásárolhat."
+          },
+          {
+            "name": "Szupermarket a központban",
+            "tip": "Ideális italokkal és elemózsiával való feltöltéshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de tutun (Trafik)",
+            "tip": "Aici puteți cumpăra bilete de autobuz și adesea mici gustări."
+          },
+          {
+            "name": "Supermarket în centru",
+            "tip": "Ideal pentru a vă aproviziona cu băuturi și provizii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tobacconist (Trafik)",
+            "tip": "You can buy bus tickets and often small snacks here."
+          },
+          {
+            "name": "Supermarket in the center",
+            "tip": "Ideal for stocking up on drinks and provisions."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich vorab über den Busfahrplan, da die Intervalle ländlich sein können.",
+          "Eine Tageskarte ist oft günstiger als mehrere Einzelfahrscheine.",
+          "Seien Sie pünktlich an der Haltestelle, besonders bei seltener fahrenden Linien.",
+          "Kombinieren Sie Busfahrten mit längeren Spaziergängen, um das Beste aus dem Tag zu machen."
+        ],
+        "hu": [
+          "Tájékozódjon előre a buszmenetrendről, mivel a járatok ritkábban közlekedhetnek vidéken.",
+          "Egy napijegy gyakran olcsóbb, mint több vonaljegy.",
+          "Legyen időben a megállóban, különösen a ritkábban közlekedő járatok esetében.",
+          "Kombinálja a buszozást hosszabb sétákkal, hogy a legtöbbet hozza ki a napból."
+        ],
+        "ro": [
+          "Informați-vă în prealabil despre orarul autobuzelor, deoarece frecvența poate fi redusă în zonele rurale.",
+          "Un bilet de o zi este adesea mai ieftin decât mai multe bilete individuale.",
+          "Fiți la timp în stație, mai ales pentru liniile cu frecvență redusă.",
+          "Combinați călătoriile cu autobuzul cu plimbări mai lungi pentru a profita la maximum de zi."
+        ],
+        "en": [
+          "Check the bus schedule in advance, as frequencies can be rural.",
+          "A day ticket is often cheaper than several single tickets.",
+          "Be at the bus stop on time, especially for less frequent routes.",
+          "Combine bus rides with longer walks to make the most of the day."
+        ]
+      }
+    }
+  }
+}

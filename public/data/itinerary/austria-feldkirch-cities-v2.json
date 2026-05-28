@@ -1,0 +1,1460 @@
+{
+  "city_id": "austria-feldkirch-cities-v2",
+  "anchor": {
+    "name": "Feldkirch",
+    "coords": [
+      9.5989,
+      47.2386
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktgasse",
+            "hu": "Marktgasse (Piac utca)",
+            "ro": "Marktgasse (Strada Pieței)",
+            "en": "Marktgasse (Market Alley)"
+          },
+          "coords": [
+            9.598,
+            47.238
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee in einem der charmanten Cafés unter den Lauben.",
+            "hu": "Kezdje a napot egy kávéval az árkádok alatti hangulatos kávézók egyikében.",
+            "ro": "Începeți ziua cu o cafea într-una dintre cafenelele fermecătoare de sub arcade.",
+            "en": "Start your day with a coffee in one of the charming cafés under the arcades."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom St. Nikolaus",
+            "hu": "Szent Miklós-székesegyház",
+            "ro": "Catedrala Sf. Nicolae",
+            "en": "St. Nicholas Cathedral"
+          },
+          "coords": [
+            9.5965,
+            47.2382
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:01",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beachten Sie die beeindruckenden gotischen Glasfenster und die doppeltürmige Fassade.",
+            "hu": "Figyelje meg a lenyűgöző gótikus üvegablakokat és a dupla tornyos homlokzatot.",
+            "ro": "Observați impresionantele vitralii gotice și fațada cu turnuri gemene.",
+            "en": "Note the impressive Gothic stained-glass windows and the twin-towered facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Schattenburg",
+            "hu": "Schattenburg vára",
+            "ro": "Castelul Schattenburg",
+            "en": "Schattenburg Castle"
+          },
+          "coords": [
+            9.595,
+            47.237
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:01",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Planen Sie ein Mittagessen in der Schlosswirtschaft ein, um das berühmte Riesenschnitzel zu probieren.",
+            "hu": "Tervezzen be egy ebédet a vár éttermébe, és kóstolja meg a híres óriási bécsi szeletet.",
+            "ro": "Planificați prânzul la restaurantul castelului pentru a încerca renumitul șnițel uriaș.",
+            "en": "Plan for lunch at the castle's restaurant to try the famous giant schnitzel."
+          }
+        },
+        {
+          "name": {
+            "de": "Katzenturm",
+            "hu": "Katzenturm (Macska-torony)",
+            "ro": "Katzenturm (Turnul Pisicii)",
+            "en": "Katzenturm (Cats' Tower)"
+          },
+          "coords": [
+            9.601,
+            47.2395
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:17",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der Turm ist Teil der alten Stadtbefestigung und ein tolles Fotomotiv.",
+            "hu": "A torony a régi városfal része és remek fotótéma.",
+            "ro": "Turnul face parte din vechile fortificații ale orașului și este un subiect excelent pentru fotografii.",
+            "en": "The tower is part of the old city fortifications and a great photo opportunity."
+          }
+        },
+        {
+          "name": {
+            "de": "Churertor & Pulverturm",
+            "hu": "Churertor és Pulverturm",
+            "ro": "Poarta Chur & Turnul Pulberăriei",
+            "en": "Chur Gate & Powder Tower"
+          },
+          "coords": [
+            9.594,
+            47.239
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:51",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der erhaltenen Stadtmauern zwischen diesen beiden Toren.",
+            "hu": "Sétáljon végig a megmaradt városfalakon e két kapu között.",
+            "ro": "Plimbați-vă de-a lungul zidurilor orașului care s-au păstrat între aceste două porți.",
+            "en": "Stroll along the preserved city walls between these two gates."
+          }
+        },
+        {
+          "name": {
+            "de": "Johanniterkirche",
+            "hu": "Johannita templom",
+            "ro": "Biserica Ioaniților",
+            "en": "Johanniter Church"
+          },
+          "coords": [
+            9.597,
+            47.2375
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:31",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Spielplan für Ausstellungen moderner Kunst in diesem umgewidmeten Kirchenraum.",
+            "hu": "Nézze meg a kiállítási programot, gyakran vannak modern művészeti tárlatok ebben az átalakított templomtérben.",
+            "ro": "Verificați programul pentru expoziții de artă modernă în acest spațiu bisericesc reconvertit.",
+            "en": "Check the schedule for modern art exhibitions in this converted church space."
+          }
+        },
+        {
+          "name": {
+            "de": "Wildpark Feldkirch",
+            "hu": "Feldkirchi Vadaspark",
+            "ro": "Parcul de animale sălbatice Feldkirch",
+            "en": "Feldkirch Wildlife Park"
+          },
+          "coords": [
+            9.615,
+            47.245
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:36",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein entspannender Spaziergang, um die alpine Tierwelt zu beobachten. Der Eintritt ist frei.",
+            "hu": "Egy pihentető séta az alpesi vadvilág megfigyelésére. A belépés ingyenes.",
+            "ro": "O plimbare relaxantă pentru a observa fauna alpină. Intrarea este gratuită.",
+            "en": "A relaxing walk to observe alpine wildlife. Admission is free."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden Sie das Herz der Altstadt, von der belebten Marktgasse bis zum gotischen Dom. Mittags erobern Sie die mächtige Schattenburg und genießen ein deftiges Mahl. Nachmittags schlendern Sie entlang der alten Stadtmauern von Turm zu Turm. Der Tag klingt mit einem friedlichen Spaziergang durch den Wildpark aus, wo Sie die heimische Tierwelt bewundern können.",
+        "hu": "Reggel fedezze fel az óváros szívét, a nyüzsgő Marktgassétól a gótikus dómig. Délben hódítsa meg a hatalmas Schattenburg várat, és fogyasszon el egy kiadós ebédet. Délután sétáljon végig a régi városfalak mentén toronytól toronyig. A napot egy békés sétával zárja a vadasparkban, ahol megcsodálhatja a helyi vadvilágot.",
+        "ro": "Dimineața explorați inima orașului vechi, de la animata Marktgasse la domul gotic. La prânz, cuceriți impunătorul castel Schattenburg și savurați o masă copioasă. După-amiaza, vă plimbați de-a lungul vechilor ziduri ale orașului, de la un turn la altul. Ziua se încheie cu o plimbare liniștită prin parcul de animale sălbatice, admirând fauna locală.",
+        "en": "In the morning, explore the heart of the old town, from the bustling Marktgasse to the Gothic cathedral. At noon, conquer the mighty Schattenburg Castle and enjoy a hearty meal. In the afternoon, stroll along the old city walls from tower to tower. The day ends with a peaceful walk through the wildlife park, admiring the local fauna."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Vorarlberger Käsespätzle",
+            "tip": "Ein Muss! Am besten in einer traditionellen Gaststätte genießen."
+          },
+          {
+            "name": "Riesenschnitzel in der Schattenburg",
+            "tip": "Berühmt und riesig, teilen ist eine gute Idee."
+          },
+          {
+            "name": "Apfelstrudel",
+            "tip": "Als süßer Abschluss mit Vanillesauce."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vorarlbergi sajtos galuska (Käsespätzle)",
+            "tip": "Ezt muszáj megkóstolni! A legjobb egy hagyományos vendéglőben."
+          },
+          {
+            "name": "Óriás bécsi szelet a Schattenburgban",
+            "tip": "Híres és hatalmas, érdemes megosztani."
+          },
+          {
+            "name": "Almás rétes (Apfelstrudel)",
+            "tip": "Édes befejezésként vaníliasodóval."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Käsespätzle din Vorarlberg",
+            "tip": "O necesitate! Cel mai bun gust îl are într-un han tradițional."
+          },
+          {
+            "name": "Șnițel uriaș la Schattenburg",
+            "tip": "Faimos și imens, este o idee bună să îl împărțiți."
+          },
+          {
+            "name": "Strudel cu mere",
+            "tip": "Ca desert, cu sos de vanilie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vorarlberg Cheese Spaetzle (Käsespätzle)",
+            "tip": "A must-try! Best enjoyed in a traditional inn."
+          },
+          {
+            "name": "Giant Schnitzel at Schattenburg",
+            "tip": "Famous and huge, sharing is a good idea."
+          },
+          {
+            "name": "Apple Strudel",
+            "tip": "As a sweet finish with vanilla sauce."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wildpark Feldkirch",
+            "tip": "Die Waldwege bieten Ruhe und Natur pur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spaziergang am Ill-Ufer",
+            "tip": "Ein friedlicher Weg, um dem Trubel der Stadt zu entkommen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussicht von der Schattenburg",
+            "tip": "Genießen Sie den Panoramablick über die Dächer der Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Feldkirchi Vadaspark",
+            "tip": "Az erdei ösvények csendet és tiszta természetet kínálnak.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Séta az Ill folyó partján",
+            "tip": "Békés útvonal a város nyüzsgéséből való kiszakadásra.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Schattenburgból",
+            "tip": "Élvezze a panorámát a város háztetői felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul de animale sălbatice Feldkirch",
+            "tip": "Căile pădurii oferă liniște și natură pură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plimbare pe malul râului Ill",
+            "tip": "O modalitate pașnică de a scăpa de agitația orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de la Castelul Schattenburg",
+            "tip": "Bucurați-vă de vederea panoramică asupra acoperișurilor orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Feldkirch Wildlife Park",
+            "tip": "The forest paths offer peace and pure nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Walk along the Ill riverbank",
+            "tip": "A peaceful way to escape the hustle and bustle of the city.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from Schattenburg Castle",
+            "tip": "Enjoy the panoramic view over the city's rooftops.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt in der Marktgasse",
+            "tip": "Jeden Dienstag und Samstag für lokale Produkte und Handwerk."
+          },
+          {
+            "name": "Souvenirs in der Altstadt",
+            "tip": "Kleine Läden bieten handgemachte Erinnerungsstücke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac a Marktgassén",
+            "tip": "Minden kedden és szombaton helyi termékekkel és kézműves árukkal."
+          },
+          {
+            "name": "Szuvenírek az óvárosban",
+            "tip": "Kis üzletek kínálnak kézzel készített emléktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală din Marktgasse",
+            "tip": "În fiecare marți și sâmbătă pentru produse locale și artizanat."
+          },
+          {
+            "name": "Suveniruri în orașul vechi",
+            "tip": "Micile magazine oferă suveniruri realizate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly market in Marktgasse",
+            "tip": "Every Tuesday and Saturday for local products and crafts."
+          },
+          {
+            "name": "Souvenirs in the Old Town",
+            "tip": "Small shops offer handmade keepsakes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Altstadt Kopfsteinpflaster hat.",
+          "Der Aufstieg zur Schattenburg ist steil, aber die Aussicht ist es wert.",
+          "Viele Museen und Geschäfte haben montags geschlossen.",
+          "Halten Sie Ausschau nach den 'Stolpersteinen', kleinen Gedenktafeln für Opfer des Nationalsozialismus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros macskaköves.",
+          "A Schattenburghoz vezető út meredek, de a kilátás megéri.",
+          "Sok múzeum és üzlet zárva tart hétfőn.",
+          "Keresse a 'botlatóköveket', a nemzetiszocializmus áldozatainak emléket állító kis táblákat."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece orașul vechi este pavat cu piatră cubică.",
+          "Urcușul spre Castelul Schattenburg este abrupt, dar priveliștea merită.",
+          "Multe muzee și magazine sunt închise lunea.",
+          "Căutați 'Stolpersteine', mici plăci comemorative pentru victimele național-socialismului."
+        ],
+        "en": [
+          "Wear comfortable shoes as the old town has cobblestones.",
+          "The climb to Schattenburg Castle is steep, but the view is worth it.",
+          "Many museums and shops are closed on Mondays.",
+          "Look out for the 'Stolpersteine', small memorial plaques for victims of National Socialism."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktgasse & Altstadt",
+            "hu": "Marktgasse és Óváros",
+            "ro": "Marktgasse și Orașul Vechi",
+            "en": "Marktgasse & Old Town"
+          },
+          "coords": [
+            9.598,
+            47.238
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Rad ab und erkunden Sie die Gassen zu Fuß, bevor die Touristenmassen kommen.",
+            "hu": "Zárja le a biciklit, és fedezze fel a sikátorokat gyalog, mielőtt megérkezik a tömeg.",
+            "ro": "Încuiați bicicleta și explorați străduțele pe jos înainte de sosirea mulțimilor de turiști.",
+            "en": "Lock up your bike and explore the alleys on foot before the tourist crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Schattenburg",
+            "hu": "Schattenburg vára",
+            "ro": "Castelul Schattenburg",
+            "en": "Schattenburg Castle"
+          },
+          "coords": [
+            9.595,
+            47.237
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:16",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Der Anstieg ist eine Herausforderung, aber Sie können Ihr Rad am Fuße des Hügels parken.",
+            "hu": "A feljutás kihívás, de a kerékpárt a hegy lábánál is leparkolhatja.",
+            "ro": "Urcușul este o provocare, dar puteți parca bicicleta la poalele dealului.",
+            "en": "The climb is a challenge, but you can park your bike at the foot of the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Entlang der Ill",
+            "hu": "Az Ill folyó mentén",
+            "ro": "De-a lungul râului Ill",
+            "en": "Along the Ill River"
+          },
+          "coords": [
+            9.59,
+            47.245
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:04",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Eine flache und malerische Route, ideal für eine entspannte Radtour am Mittag.",
+            "hu": "Sík és festői útvonal, ideális egy kellemes déli kerékpártúrához.",
+            "ro": "Un traseu plat și pitoresc, ideal pentru o plimbare relaxantă cu bicicleta la prânz.",
+            "en": "A flat and scenic route, ideal for a relaxed midday bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Wildpark Feldkirch",
+            "hu": "Feldkirchi Vadaspark",
+            "ro": "Parcul de animale sălbatice Feldkirch",
+            "en": "Feldkirch Wildlife Park"
+          },
+          "coords": [
+            9.615,
+            47.245
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:52",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für ein Picknick. Die Radwege führen direkt zum Eingang.",
+            "hu": "Tökéletes hely egy piknikhez. A kerékpárutak közvetlenül a bejárathoz vezetnek.",
+            "ro": "Un loc perfect pentru un picnic. Piste de biciclete duc direct la intrare.",
+            "en": "A perfect spot for a picnic. The bike paths lead directly to the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauern (Katzenturm, Churertor)",
+            "hu": "Városfalak (Katzenturm, Churertor)",
+            "ro": "Zidurile orașului (Katzenturm, Poarta Chur)",
+            "en": "City Walls (Katzenturm, Churertor)"
+          },
+          "coords": [
+            9.601,
+            47.2395
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:22",
+          "stay_min": 50,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Fahren Sie eine Runde um die Altstadt, um die erhaltenen Befestigungsanlagen zu sehen.",
+            "hu": "Tegyen egy kört az óváros körül, hogy megnézze a megmaradt erődítményeket.",
+            "ro": "Faceți un tur în jurul orașului vechi pentru a vedea fortificațiile păstrate.",
+            "en": "Ride a loop around the old town to see the preserved fortifications."
+          }
+        },
+        {
+          "name": {
+            "de": "Landeskonservatorium",
+            "hu": "Tartományi Konzervatórium",
+            "ro": "Conservatorul de Stat",
+            "en": "State Conservatory"
+          },
+          "coords": [
+            9.6,
+            47.236
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:18",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Auch von außen ein architektonisches Juwel. Manchmal hört man die Studenten üben.",
+            "hu": "Kívülről is építészeti gyöngyszem. Néha hallani a diákokat gyakorolni.",
+            "ro": "O bijuterie arhitecturală chiar și din exterior. Uneori puteți auzi studenții exersând.",
+            "en": "An architectural gem even from the outside. Sometimes you can hear the students practicing."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens radeln Sie durch die Gassen der Altstadt und stellen sich dem Anstieg zur Schattenburg. Mittags genießen Sie eine entspannte Fahrt entlang der Ill, die Sie zum Wildpark führt – ideal für ein Picknick. Nachmittags umrunden Sie die historischen Stadtmauern und bewundern die mittelalterlichen Türme. Ein kurzer Stopp am Konservatorium rundet den kulturellen Tag ab, bevor Sie in den Abend starten.",
+        "hu": "Reggel tekerjen át az óváros sikátorain, és mássza meg a Schattenburghoz vezető emelkedőt. Délben élvezze a pihentető utat az Ill folyó mentén a vadasparkig – ideális egy piknikhez. Délután kerülje meg a történelmi városfalakat és csodálja meg a középkori tornyokat. Egy rövid megálló a konzervatóriumnál zárja a kulturális napot, mielőtt belevág az estébe.",
+        "ro": "Dimineața pedalați pe aleile orașului vechi și înfruntați urcușul spre Castelul Schattenburg. La prânz, bucurați-vă de o plimbare relaxantă de-a lungul râului Ill până la parcul de animale sălbatice - ideal pentru un picnic. După-amiaza, înconjurați zidurile istorice ale orașului și admirați turnurile medievale. O scurtă oprire la conservator încheie ziua culturală înainte de a începe seara.",
+        "en": "In the morning, cycle through the old town alleys and tackle the climb to Schattenburg Castle. At noon, enjoy a relaxing ride along the Ill River to the wildlife park - ideal for a picnic. In the afternoon, circle the historic city walls and admire the medieval towers. A short stop at the conservatory rounds off the cultural day before heading into the evening."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Radler",
+            "tip": "Das perfekte Getränk für eine Radtour-Pause."
+          },
+          {
+            "name": "Jause (Brotzeit)",
+            "tip": "Packen Sie lokalen Käse und Wurst für ein Picknick im Wildpark ein."
+          },
+          {
+            "name": "Kaiserschmarrn",
+            "tip": "Eine süße, sättigende Belohnung nach der Tour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Radler (sör és limonádé keveréke)",
+            "tip": "A tökéletes ital egy kerékpáros pihenőhöz."
+          },
+          {
+            "name": "Uzsonna (Jause)",
+            "tip": "Csomagoljon helyi sajtot és kolbászt egy piknikhez a vadasparkban."
+          },
+          {
+            "name": "Császármorzsa (Kaiserschmarrn)",
+            "tip": "Édes, laktató jutalom a túra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Radler",
+            "tip": "Băutura perfectă pentru o pauză în turul cu bicicleta."
+          },
+          {
+            "name": "Gustare (Jause)",
+            "tip": "Împachetați brânză și cârnați locali pentru un picnic în parcul de animale sălbatice."
+          },
+          {
+            "name": "Kaiserschmarrn",
+            "tip": "O recompensă dulce și sățioasă după tur."
+          }
+        ],
+        "en": [
+          {
+            "name": "Radler (shandy)",
+            "tip": "The perfect drink for a break during your bike tour."
+          },
+          {
+            "name": "Jause (snack)",
+            "tip": "Pack some local cheese and sausage for a picnic in the wildlife park."
+          },
+          {
+            "name": "Kaiserschmarrn (shredded pancake)",
+            "tip": "A sweet, filling reward after the tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ill-Radweg",
+            "tip": "Besonders am Vormittag sehr ruhig und idyllisch.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Bänke im Wildpark",
+            "tip": "Ein stiller Ort, um die Natur zu beobachten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ardetzenberg",
+            "tip": "Ein kurzer Abstecher für eine tolle Aussicht über das Rheintal.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ill-kerékpárút",
+            "tip": "Különösen délelőtt nagyon csendes és idilli.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Padok a vadasparkban",
+            "tip": "Csendes hely a természet megfigyelésére.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ardetzenberg",
+            "tip": "Egy rövid kitérő a Rajna-völgyre nyíló remek kilátásért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de pe Ill",
+            "tip": "Deosebit de liniștită și idilică dimineața.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Bănci în parcul de animale sălbatice",
+            "tip": "Un loc liniștit pentru a observa natura.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ardetzenberg",
+            "tip": "Un scurt ocol pentru o priveliște minunată asupra Văii Rinului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ill cycle path",
+            "tip": "Especially quiet and idyllic in the morning.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Benches in the wildlife park",
+            "tip": "A quiet place to observe nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ardetzenberg",
+            "tip": "A short detour for a great view over the Rhine Valley.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Für Ersatzteile oder ein lokales Radtrikot."
+          },
+          {
+            "name": "Markt am Sparkassenplatz",
+            "tip": "Kleinere Version des Hauptmarktes, aber mit viel Charme."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Pótalkatrészekért vagy egy helyi biciklis mezért."
+          },
+          {
+            "name": "Piac a Sparkassenplatzon",
+            "tip": "A fő piac kisebb változata, de nagyon hangulatos."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Pentru piese de schimb sau un tricou local de ciclism."
+          },
+          {
+            "name": "Piața de la Sparkassenplatz",
+            "tip": "O versiune mai mică a pieței principale, dar cu mult farmec."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shops",
+            "tip": "For spare parts or a local cycling jersey."
+          },
+          {
+            "name": "Market at Sparkassenplatz",
+            "tip": "A smaller version of the main market, but with lots of charm."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Feldkirch ist hügelig, ein E-Bike könnte eine gute Option sein.",
+          "Achten Sie in der Altstadt auf Fußgänger.",
+          "Die Radwege entlang der Ill sind gut ausgebaut und beschildert.",
+          "Nehmen Sie ausreichend Wasser mit, besonders für den Anstieg zum Wildpark."
+        ],
+        "hu": [
+          "Feldkirch dombos, egy e-bike jó választás lehet.",
+          "Az óvárosban figyeljen a gyalogosokra.",
+          "Az Ill menti kerékpárutak jól kiépítettek és jelzettek.",
+          "Vigyen magával elegendő vizet, különösen a vadasparkhoz vezető emelkedőre."
+        ],
+        "ro": [
+          "Feldkirch este deluros, o bicicletă electrică ar putea fi o opțiune bună.",
+          "Fiți atenți la pietoni în orașul vechi.",
+          "Pistele de biciclete de-a lungul râului Ill sunt bine dezvoltate și semnalizate.",
+          "Luați suficientă apă, mai ales pentru urcușul spre parcul de animale sălbatice."
+        ],
+        "en": [
+          "Feldkirch is hilly, an e-bike could be a good option.",
+          "Watch out for pedestrians in the old town.",
+          "The cycle paths along the Ill are well-developed and signposted.",
+          "Bring enough water, especially for the climb to the wildlife park."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 11.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkhaus Innenstadt (Cluster 1)",
+            "hu": "Belvárosi parkolóház (1. klaszter)",
+            "ro": "Parcare centrală (Cluster 1)",
+            "en": "City Center Car Park (Cluster 1)"
+          },
+          "coords": [
+            9.602,
+            47.239
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Vormittag, um die Altstadt zu Fuß zu erkunden.",
+            "hu": "Parkoljon le itt a délelőttre, és fedezze fel gyalog az óvárost.",
+            "ro": "Parcați aici pentru dimineață pentru a explora orașul vechi pe jos.",
+            "en": "Park here for the morning to explore the old town on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Marktgasse & Dom St. Nikolaus",
+            "hu": "Marktgasse és Szent Miklós-székesegyház",
+            "ro": "Marktgasse și Catedrala Sf. Nicolae",
+            "en": "Marktgasse & St. Nicholas Cathedral"
+          },
+          "coords": [
+            9.598,
+            47.238
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:18",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der Spaziergang vom Parkhaus führt Sie direkt ins Herz des mittelalterlichen Feldkirch.",
+            "hu": "A séta a parkolóházból egyenesen a középkori Feldkirch szívébe vezet.",
+            "ro": "Plimbarea de la parcare vă duce direct în inima Feldkirchului medieval.",
+            "en": "The walk from the car park takes you right into the heart of medieval Feldkirch."
+          }
+        },
+        {
+          "name": {
+            "de": "Schattenburg",
+            "hu": "Schattenburg vára",
+            "ro": "Castelul Schattenburg",
+            "en": "Schattenburg Castle"
+          },
+          "coords": [
+            9.595,
+            47.237
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:38",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto stehen und genießen Sie den kurzen, aber steilen Aufstieg zur Burg.",
+            "hu": "Hagyja az autót, és élvezze a rövid, de meredek sétát a várhoz.",
+            "ro": "Lăsați mașina și bucurați-vă de urcușul scurt, dar abrupt, spre castel.",
+            "en": "Leave the car and enjoy the short but steep walk up to the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Katzenturm & Stadtmauer",
+            "hu": "Katzenturm és városfal",
+            "ro": "Katzenturm și zidul orașului",
+            "en": "Katzenturm & City Wall"
+          },
+          "coords": [
+            9.601,
+            47.2395
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:46",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Auf dem Rückweg zum Parkhaus kommen Sie an weiteren Teilen der Befestigungsanlage vorbei.",
+            "hu": "Visszafelé a parkolóházhoz további erődítményrészek mellett halad el.",
+            "ro": "În drum spre parcare, veți trece pe lângă alte părți ale fortificațiilor.",
+            "en": "On the way back to the car park, you will pass other parts of the fortifications."
+          }
+        },
+        {
+          "name": {
+            "de": "Wildpark Feldkirch (Cluster 2)",
+            "hu": "Feldkirchi Vadaspark (2. klaszter)",
+            "ro": "Parcul de animale sălbatice Feldkirch (Cluster 2)",
+            "en": "Feldkirch Wildlife Park (Cluster 2)"
+          },
+          "coords": [
+            9.615,
+            47.245
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:46",
+          "stay_min": 150,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz am Wildpark. Der perfekte Ort für einen langen Nachmittagsspaziergang.",
+            "hu": "Hajtson a vadaspark parkolójába. Tökéletes hely egy hosszú délutáni sétához.",
+            "ro": "Conduceți până la parcarea de la parcul de animale sălbatice. Locul perfect pentru o plimbare lungă de după-amiază.",
+            "en": "Drive to the car park at the wildlife park. The perfect place for a long afternoon walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt mit Blick auf die Schweizer Berge",
+            "hu": "Kilátópont a svájci hegyekre",
+            "ro": "Punct de belvedere spre munții elvețieni",
+            "en": "Viewpoint towards the Swiss mountains"
+          },
+          "coords": [
+            9.62,
+            47.235
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:46",
+          "stay_min": 20,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Ein kurzer Autostopp auf dem Rückweg für ein letztes Panorama.",
+            "hu": "Egy rövid autós megálló visszafelé egy utolsó panorámáért.",
+            "ro": "O scurtă oprire cu mașina pe drumul de întoarcere pentru o ultimă panoramă.",
+            "en": "A short car stop on the way back for a final panorama."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Am Morgen parken Sie zentral und erkunden den historischen Kern von Feldkirch zu Fuß: die Marktgasse, den Dom und die imposante Schattenburg. Mittags kehren Sie zum Auto zurück. Nach einer kurzen Fahrt erreichen Sie das zweite Cluster des Tages, den weitläufigen Wildpark, wo Sie den gesamten Nachmittag in der Natur verbringen. Ein letzter kurzer Autostopp an einem Aussichtspunkt mit Blick auf die Schweizer Alpen rundet den Tag ab.",
+        "hu": "Reggel parkoljon le a központban, és fedezze fel gyalog Feldkirch történelmi magját: a Marktgassét, a dómot és a lenyűgöző Schattenburgot. Délben térjen vissza az autójához. Egy rövid autózás után eléri a nap második klaszterét, a tágas vadasparkot, ahol az egész délutánt a természetben töltheti. Egy utolsó rövid autós megálló egy kilátópontnál, ahonnan a svájci Alpokra nyílik kilátás, zárja a napot.",
+        "ro": "Dimineața parcați central și explorați pe jos centrul istoric al Feldkirchului: Marktgasse, Domul și impunătorul Castel Schattenburg. La prânz, vă întoarceți la mașină. După o scurtă călătorie cu mașina, ajungeți la al doilea cluster al zilei, vastul parc de animale sălbatice, unde petreceți întreaga după-amiază în natură. O ultimă oprire scurtă cu mașina la un punct de belvedere cu vedere la Alpii elvețieni încheie ziua.",
+        "en": "In the morning, park centrally and explore Feldkirch's historic core on foot: Marktgasse, the cathedral, and the imposing Schattenburg Castle. At noon, you return to your car. After a short drive, you reach the second cluster of the day, the spacious wildlife park, where you can spend the whole afternoon in nature. A final short car stop at a viewpoint overlooking the Swiss Alps rounds off the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Vorarlberger Riebel",
+            "tip": "Ein traditionelles Maisgrieß-Gericht, oft mit Apfelmus serviert."
+          },
+          {
+            "name": "Gasthof Löwen",
+            "tip": "Etwas außerhalb, aber mit dem Auto gut erreichbar für authentische Küche."
+          },
+          {
+            "name": "Kaffee und Kuchen",
+            "tip": "Viele Bäckereien bieten nachmittags eine große Auswahl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vorarlbergi Riebel",
+            "tip": "Hagyományos kukoricadara-étel, gyakran almaszósszal tálalva."
+          },
+          {
+            "name": "Gasthof Löwen",
+            "tip": "Kicsit kijjebb esik, de autóval könnyen elérhető az autentikus konyháért."
+          },
+          {
+            "name": "Kávé és sütemény",
+            "tip": "Sok pékség kínál délután nagy választékot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Riebel din Vorarlberg",
+            "tip": "Un fel de mâncare tradițional din mălai, adesea servit cu compot de mere."
+          },
+          {
+            "name": "Hanul Löwen",
+            "tip": "Puțin în afara orașului, dar ușor accesibil cu mașina pentru bucătărie autentică."
+          },
+          {
+            "name": "Cafea și prăjituri",
+            "tip": "Multe brutării oferă o selecție largă după-amiaza."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vorarlberg Riebel",
+            "tip": "A traditional cornmeal dish, often served with apple sauce."
+          },
+          {
+            "name": "Gasthof Löwen",
+            "tip": "A bit outside, but easily accessible by car for authentic cuisine."
+          },
+          {
+            "name": "Coffee and cake",
+            "tip": "Many bakeries offer a wide selection in the afternoon."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kapelle St. Peter und Paul",
+            "tip": "Ein kleiner, stiller Ort etwas außerhalb, mit dem Auto erreichbar.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Walserdorf Triesenberg (Liechtenstein)",
+            "tip": "Nur eine kurze Autofahrt entfernt für eine völlig andere Atmosphäre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Am Ufer des Egelsee",
+            "tip": "Ein kleiner See für einen ruhigen Moment.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Péter és Pál kápolna",
+            "tip": "Egy kicsi, csendes hely kicsit kijjebb, autóval elérhető.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Triesenberg walser falu (Liechtenstein)",
+            "tip": "Csak egy rövid autóútra egy teljesen más hangulatért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Az Egelsee partján",
+            "tip": "Egy kis tó egy csendes pillanatra.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capela Sfinții Petru și Pavel",
+            "tip": "Un loc mic și liniștit, puțin în afara orașului, accesibil cu mașina.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Satul Walser Triesenberg (Liechtenstein)",
+            "tip": "La o scurtă distanță cu mașina pentru o atmosferă complet diferită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pe malul lacului Egelsee",
+            "tip": "Un lac mic pentru un moment de liniște.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Peter and Paul Chapel",
+            "tip": "A small, quiet place a bit outside, accessible by car.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Walser village of Triesenberg (Liechtenstein)",
+            "tip": "Just a short drive away for a completely different atmosphere.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "On the shore of Lake Egelsee",
+            "tip": "A small lake for a quiet moment.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Interspar/Merkur Supermarkt",
+            "tip": "Gut für die Mitnahme von lokalen Spezialitäten wie Käse oder Schokolade."
+          },
+          {
+            "name": "Montforthaus Souvenirshop",
+            "tip": "Moderne und klassische Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Interspar/Merkur szupermarket",
+            "tip": "Jó hely helyi specialitások, mint sajt vagy csokoládé beszerzésére."
+          },
+          {
+            "name": "Montforthaus ajándékbolt",
+            "tip": "Modern és klasszikus ajándéktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarket Interspar/Merkur",
+            "tip": "Bun pentru a cumpăra specialități locale precum brânză sau ciocolată."
+          },
+          {
+            "name": "Magazin de suveniruri Montforthaus",
+            "tip": "Suveniruri moderne și clasice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Interspar/Merkur Supermarket",
+            "tip": "Good for picking up local specialties like cheese or chocolate."
+          },
+          {
+            "name": "Montforthaus Souvenir Shop",
+            "tip": "Modern and classic souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkgebühren, Tageskarten sind oft günstiger.",
+          "Die Altstadt ist eine Fußgängerzone, das Auto muss draußen bleiben.",
+          "Planen Sie etwas Pufferzeit für den Verkehr ein, besonders am Nachmittag.",
+          "Ein Ausflug nach Liechtenstein (z.B. Vaduz) ist von hier aus sehr einfach und dauert nur ca. 20 Minuten."
+        ],
+        "hu": [
+          "Ellenőrizze a parkolási díjakat, a napijegyek gyakran olcsóbbak.",
+          "Az óváros sétálóövezet, az autót kint kell hagyni.",
+          "Tervezzen be némi pufferidőt a forgalom miatt, különösen délután.",
+          "Egy kirándulás Liechtensteinbe (pl. Vaduz) innen nagyon egyszerű és csak kb. 20 percet vesz igénybe."
+        ],
+        "ro": [
+          "Verificați taxele de parcare, biletele de o zi sunt adesea mai ieftine.",
+          "Orașul vechi este o zonă pietonală, mașina trebuie lăsată afară.",
+          "Planificați timp suplimentar pentru trafic, în special după-amiaza.",
+          "O excursie în Liechtenstein (de ex. Vaduz) este foarte ușoară de aici și durează doar aproximativ 20 de minute."
+        ],
+        "en": [
+          "Check parking fees, day tickets are often cheaper.",
+          "The old town is a pedestrian zone, the car must be left outside.",
+          "Allow some buffer time for traffic, especially in the afternoon.",
+          "A trip to Liechtenstein (e.g., Vaduz) is very easy from here and takes only about 20 minutes."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Feldkirch (Cluster 1)",
+            "hu": "Feldkirch vasútállomás (1. klaszter)",
+            "ro": "Gara Feldkirch (Cluster 1)",
+            "en": "Feldkirch Train Station (Cluster 1)"
+          },
+          "coords": [
+            9.605,
+            47.243
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für das Stadtbusnetz.",
+            "hu": "Vásároljon napijegyet a városi buszhálózatra.",
+            "ro": "Cumpărați un bilet de o zi pentru rețeaua de autobuze a orașului.",
+            "en": "Buy a day ticket for the city bus network."
+          }
+        },
+        {
+          "name": {
+            "de": "Katzenturm & Bus-Haltestelle 'Bärenkreuzung'",
+            "hu": "Katzenturm és 'Bärenkreuzung' buszmegálló",
+            "ro": "Katzenturm și stația de autobuz 'Bärenkreuzung'",
+            "en": "Katzenturm & 'Bärenkreuzung' bus stop"
+          },
+          "coords": [
+            9.601,
+            47.2395
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:20",
+          "stay_min": 40,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Von hier aus beginnt der Spaziergang in die Altstadt.",
+            "hu": "Innen indul a séta az óvárosba.",
+            "ro": "De aici începe plimbarea în orașul vechi.",
+            "en": "The walk into the old town starts from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Marktgasse & Dom St. Nikolaus",
+            "hu": "Marktgasse és Szent Miklós-székesegyház",
+            "ro": "Marktgasse și Catedrala Sf. Nicolae",
+            "en": "Marktgasse & St. Nicholas Cathedral"
+          },
+          "coords": [
+            9.598,
+            47.238
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:06",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den Gassen und genießen Sie die Atmosphäre.",
+            "hu": "Vesszen el a sikátorokban, és élvezze a hangulatot.",
+            "ro": "Pierdeți-vă pe alei și bucurați-vă de atmosferă.",
+            "en": "Get lost in the alleys and enjoy the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Schattenburg",
+            "hu": "Schattenburg vára",
+            "ro": "Castelul Schattenburg",
+            "en": "Schattenburg Castle"
+          },
+          "coords": [
+            9.595,
+            47.237
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:16",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Planen Sie hier Ihr Mittagessen ein – es ist ein Erlebnis.",
+            "hu": "Tervezze ide az ebédjét – felejthetetlen élmény.",
+            "ro": "Planificați-vă prânzul aici – este o experiență.",
+            "en": "Plan your lunch here – it's an experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Wildpark (Cluster 2)",
+            "hu": "Vadaspark (2. klaszter)",
+            "ro": "Parcul de animale sălbatice (Cluster 2)",
+            "en": "Wildlife Park (Cluster 2)"
+          },
+          "coords": [
+            9.615,
+            47.245
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:48",
+          "stay_min": 150,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus der Linie 1 oder 4 von der Innenstadt zum Wildpark.",
+            "hu": "Menjen az 1-es vagy 4-es busszal a belvárosból a vadasparkhoz.",
+            "ro": "Luați autobuzul linia 1 sau 4 din centrul orașului spre parcul de animale sălbatice.",
+            "en": "Take bus line 1 or 4 from the city center to the wildlife park."
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück zum Bahnhof",
+            "hu": "Vissza a pályaudvarra",
+            "ro": "Înapoi la gară",
+            "en": "Back to the train station"
+          },
+          "coords": [
+            9.605,
+            47.243
+          ],
+          "category": "transport",
+          "arrive_at": "16:48",
+          "stay_min": 25,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein letzter Blick auf die Stadt, bevor der Zug abfährt.",
+            "hu": "Egy utolsó pillantás a városra a vonat indulása előtt.",
+            "ro": "O ultimă privire asupra orașului înainte de plecarea trenului.",
+            "en": "A last look at the city before the train departs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am Bahnhof und nehmen Sie den Bus ins Zentrum. Das erste Cluster ist eine Erkundung der kompletten Altstadt zu Fuß, gekrönt von einem Mittagessen in der Schattenburg. Am Nachmittag bringt Sie ein anderer Bus zum zweiten Cluster: dem Wildpark. Dort verbringen Sie entspannte Stunden in der Natur, bevor Sie mit dem Bus zum Bahnhof zurückkehren und den Tag ausklingen lassen.",
+        "hu": "Induljon a pályaudvarról, és szálljon buszra a központ felé. Az első klaszter az egész óváros gyalogos felfedezése, amelyet egy ebéd koronáz meg a Schattenburgban. Délután egy másik busz viszi el a második klaszterhez: a vadasparkhoz. Ott pihentető órákat tölthet a természetben, mielőtt busszal visszatér a pályaudvarra, és lezárja a napot.",
+        "ro": "Începeți de la gară și luați autobuzul spre centru. Primul cluster este o explorare pe jos a întregului oraș vechi, încununată de un prânz la Castelul Schattenburg. După-amiaza, un alt autobuz vă duce la al doilea cluster: parcul de animale sălbatice. Acolo petreceți ore relaxante în natură înainte de a vă întoarce la gară cu autobuzul și de a încheia ziua.",
+        "en": "Start at the train station and take the bus to the center. The first cluster is a walking exploration of the entire old town, crowned by lunch at Schattenburg Castle. In the afternoon, another bus takes you to the second cluster: the wildlife park. There you can spend relaxing hours in nature before returning to the train station by bus to end the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Döner Kebab",
+            "tip": "Eine schnelle und günstige Option in der Nähe des Bahnhofs."
+          },
+          {
+            "name": "Bäckerei-Snack",
+            "tip": "Holen Sie sich ein belegtes Brötchen für die Busfahrt."
+          },
+          {
+            "name": "Gasthaus zum Schützen",
+            "tip": "Traditionelle Küche, die eine kurze Busfahrt wert ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Döner kebab",
+            "tip": "Gyors és olcsó lehetőség a pályaudvar közelében."
+          },
+          {
+            "name": "Péksütemény",
+            "tip": "Vegyen egy szendvicset a buszútra."
+          },
+          {
+            "name": "Gasthaus zum Schützen",
+            "tip": "Hagyományos konyha, ami megér egy rövid buszutat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Döner Kebab",
+            "tip": "O opțiune rapidă și ieftină lângă gară."
+          },
+          {
+            "name": "Gustare de la brutărie",
+            "tip": "Luați un sandviș pentru călătoria cu autobuzul."
+          },
+          {
+            "name": "Hanul zum Schützen",
+            "tip": "Bucătărie tradițională care merită o scurtă călătorie cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Döner Kebab",
+            "tip": "A quick and cheap option near the train station."
+          },
+          {
+            "name": "Bakery snack",
+            "tip": "Get a sandwich for the bus ride."
+          },
+          {
+            "name": "Gasthaus zum Schützen",
+            "tip": "Traditional cuisine worth a short bus ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof St. Peter",
+            "tip": "Ein überraschend friedlicher und historischer Ort.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Leseecke in der Stadtbibliothek",
+            "tip": "Nahe dem Zentrum, um dem Trubel zu entfliehen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Obere Etage eines Doppeldeckerbusses",
+            "tip": "Beobachten Sie die Stadt aus einer anderen Perspektive.",
+            "emoji": "🚌"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Péter temető",
+            "tip": "Meglepően békés és történelmi hely.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Olvasósarok a városi könyvtárban",
+            "tip": "A központhoz közel, hogy elmeneküljön a nyüzsgés elől.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Egy emeletes busz felső szintje",
+            "tip": "Figyelje a várost egy másik perspektívából.",
+            "emoji": "🚌"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul Sf. Petru",
+            "tip": "Un loc surprinzător de pașnic și istoric.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Colțul de lectură din biblioteca orașului",
+            "tip": "Aproape de centru pentru a scăpa de agitație.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Etajul superior al unui autobuz supraetajat",
+            "tip": "Observați orașul dintr-o altă perspectivă.",
+            "emoji": "🚌"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Peter's Cemetery",
+            "tip": "A surprisingly peaceful and historic place.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Reading corner in the city library",
+            "tip": "Near the center to escape the hustle and bustle.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Upper deck of a double-decker bus",
+            "tip": "Observe the city from a different perspective.",
+            "emoji": "🚌"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bahnhofskiosk",
+            "tip": "Für Zeitschriften, Getränke und letzte Souvenirs."
+          },
+          {
+            "name": "Geschäfte in der Neustadt",
+            "tip": "Weniger touristisch, eher für den täglichen Bedarf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pályaudvari kioszk",
+            "tip": "Magazinokért, italokért és utolsó szuvenírekért."
+          },
+          {
+            "name": "Üzletek az Újvárosban (Neustadt)",
+            "tip": "Kevésbé turistás, inkább a mindennapi szükségletekre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcul din gară",
+            "tip": "Pentru reviste, băuturi și ultimele suveniruri."
+          },
+          {
+            "name": "Magazine în Neustadt (Orașul Nou)",
+            "tip": "Mai puțin turistice, mai mult pentru nevoile zilnice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Train station kiosk",
+            "tip": "For magazines, drinks, and last-minute souvenirs."
+          },
+          {
+            "name": "Shops in Neustadt (New Town)",
+            "tip": "Less touristy, more for daily needs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die 'VMOBIL' App herunter, um Busfahrpläne und Routen in Echtzeit zu sehen.",
+          "Die meisten Busse fahren alle 15-30 Minuten.",
+          "Stellen Sie sicher, dass Sie Ihr Ticket vor dem Einsteigen entwerten.",
+          "Am Wochenende und abends fahren die Busse seltener."
+        ],
+        "hu": [
+          "Töltse le a 'VMOBIL' alkalmazást a valós idejű buszmenetrendekért és útvonalakért.",
+          "A legtöbb busz 15-30 percenként közlekedik.",
+          "Győződjön meg róla, hogy felszállás előtt érvényesíti a jegyét.",
+          "Hétvégén és este a buszok ritkábban járnak."
+        ],
+        "ro": [
+          "Descărcați aplicația 'VMOBIL' pentru a vedea orarele și rutele autobuzelor în timp real.",
+          "Majoritatea autobuzelor circulă la fiecare 15-30 de minute.",
+          "Asigurați-vă că validați biletul înainte de a urca.",
+          "În weekend și seara, autobuzele circulă mai rar."
+        ],
+        "en": [
+          "Download the 'VMOBIL' app to see real-time bus schedules and routes.",
+          "Most buses run every 15-30 minutes.",
+          "Make sure to validate your ticket before boarding.",
+          "Buses run less frequently on weekends and in the evenings."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1470 @@
+{
+  "city_id": "slovakia-levice-cities-v2",
+  "anchor": {
+    "name": "Levice",
+    "coords": [
+      48.2136,
+      18.607
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Burg Levice",
+            "hu": "Lévai vár",
+            "ro": "Castelul Levice",
+            "en": "Levice Castle"
+          },
+          "coords": [
+            18.6033,
+            48.2195
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen und genießen Sie die Aussicht von den oberen Teilen.",
+            "hu": "Fedezze fel a romokat, és élvezze a kilátást a vár felső részeiről.",
+            "ro": "Explorați ruinele și bucurați-vă de priveliștea din părțile superioare.",
+            "en": "Explore the ruins and enjoy the view from the upper parts."
+          }
+        },
+        {
+          "name": {
+            "de": "Tekov-Museum",
+            "hu": "Tekov Múzeum",
+            "ro": "Muzeul Tekov",
+            "en": "Tekov Museum"
+          },
+          "coords": [
+            18.6041,
+            48.2189
+          ],
+          "category": "museums",
+          "arrive_at": "10:44",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die archäologische Sammlung, sie ist die beeindruckendste.",
+            "hu": "Koncentráljon a régészeti gyűjteményre, az a leglenyűgözőbb.",
+            "ro": "Concentrați-vă pe colecția arheologică, este cea mai impresionantă.",
+            "en": "Focus on the archaeological collection; it's the most impressive."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Hl. Joseph",
+            "hu": "Szent József-templom",
+            "ro": "Biserica Sf. Iosif",
+            "en": "Church of St. Joseph"
+          },
+          "coords": [
+            18.6075,
+            48.2158
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beachten Sie die barocken Altäre und die ruhige Atmosphäre im Inneren.",
+            "hu": "Figyelje meg a barokk oltárokat és a benti csendes légkört.",
+            "ro": "Observați altarele baroce și atmosfera liniștită din interior.",
+            "en": "Note the Baroque altars and the quiet atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Dreifaltigkeitssäule",
+            "hu": "Szentháromság-oszlop",
+            "ro": "Coloana Sfintei Treimi",
+            "en": "Holy Trinity Column"
+          },
+          "coords": [
+            18.6078,
+            48.2145
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:45",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für ein Foto im Zentrum der Stadt, oft ein Treffpunkt.",
+            "hu": "Tökéletes fotóhely a város központjában, gyakran találkozóhely.",
+            "ro": "Un loc perfect pentru o fotografie în centrul orașului, adesea un punct de întâlnire.",
+            "en": "A perfect photo spot in the city center, often a meeting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Synagoge Levice",
+            "hu": "Lévai zsinagóga",
+            "ro": "Sinagoga Levice",
+            "en": "Levice Synagogue"
+          },
+          "coords": [
+            18.6085,
+            48.2136
+          ],
+          "category": "museums",
+          "arrive_at": "13:03",
+          "stay_min": 50,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Prüfen Sie, ob kulturelle Veranstaltungen oder Ausstellungen stattfinden.",
+            "hu": "Ellenőrizze, hogy tartanak-e kulturális eseményeket vagy kiállításokat.",
+            "ro": "Verificați dacă au loc evenimente culturale sau expoziții.",
+            "en": "Check if there are any cultural events or exhibitions taking place."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalvarienberg",
+            "hu": "Kálvária-hegy",
+            "ro": "Calvarul",
+            "en": "Calvary Hill"
+          },
+          "coords": [
+            18.5958,
+            48.2221
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:19",
+          "stay_min": 60,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für die Panoramaaussicht über die Stadt.",
+            "hu": "A panorámás kilátásért megéri felmenni a hegyre.",
+            "ro": "Urcușul merită pentru vederea panoramică asupra orașului.",
+            "en": "The climb is worth it for the panoramic view over the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Schoeller-Park",
+            "hu": "Schoeller-park",
+            "ro": "Parcul Schoeller",
+            "en": "Schoeller Park"
+          },
+          "coords": [
+            18.6145,
+            48.2129
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:57",
+          "stay_min": 68,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Finden Sie eine ruhige Bank am Teich für eine entspannende Pause.",
+            "hu": "Keressen egy csendes padot a tó mellett egy pihentető szünethez.",
+            "ro": "Găsiți o bancă liniștită lângă iaz pentru o pauză relaxantă.",
+            "en": "Find a quiet bench by the pond for a relaxing break."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Levice beginnt mit einem historischen Eintauchen in die Burg Levice und das nahe gelegene Tekov-Museum. Am Morgen spüren Sie die Vergangenheit der Stadt, während Sie die alten Mauern und Artefakte erkunden.\nAm Mittag schlendern Sie ins Stadtzentrum, um die spirituelle Ruhe der St.-Josephs-Kirche und die architektonische Schönheit der Synagoge zu erleben, unterbrochen von einem kurzen Halt an der Dreifaltigkeitssäule. Dies ist die perfekte Zeit für ein lokales Mittagessen.\nDer Nachmittag ist für einen erfrischenden Aufstieg auf den Kalvarienberg reserviert, der Sie mit atemberaubenden Panoramablicken belohnt. Der Abstieg führt Sie in die friedliche Umarmung des Schoeller-Parks.\nLassen Sie den Tag in einem der charmanten Cafés oder Restaurants der Stadt ausklingen und denken Sie über die reiche Geschichte und die ruhige Natur nach, die Levice zu bieten hat. Ein perfekter Abschluss für einen Tag voller Entdeckungen.",
+        "hu": "A lévai nap a történelmi Lévai vár és a közeli Tekov Múzeum meglátogatásával kezdődik. Reggel a város múltját érezheti, miközben felfedezi az ősi falakat és leleteket.\nDélben sétáljon be a városközpontba, hogy megtapasztalja a Szent József-templom spirituális nyugalmát és a zsinagóga építészeti szépségét, megszakítva egy rövid megállóval a Szentháromság-oszlopnál. Itt az ideje egy helyi ebédnek.\nA délután a Kálvária-hegyre való frissítő kapaszkodásra van fenntartva, amely lélegzetelállító panorámával jutalmazza. A leereszkedés a Schoeller-park békés ölelésébe vezet.\nZárja a napot a város egyik hangulatos kávézójában vagy éttermében, elmélkedve a gazdag történelemről és a csendes természetről, amelyet Léva kínál. Tökéletes befejezése egy felfedezéssel teli napnak.",
+        "ro": "Ziua dvs. în Levice începe cu o imersiune istorică la Castelul Levice și la Muzeul Tekov din apropiere. Dimineața veți simți trecutul orașului în timp ce explorați zidurile și artefactele antice.\nLa amiază, plimbați-vă în centrul orașului pentru a experimenta liniștea spirituală a Bisericii Sf. Iosif și frumusețea arhitecturală a Sinagogii, punctate de o oprire rapidă la Coloana Sfintei Treimi. Acesta este momentul perfect pentru un prânz local.\nDupă-amiaza este rezervată pentru o urcare revigorantă pe Dealul Calvarului, care vă va răsplăti cu vederi panoramice uluitoare. Coborârea vă va conduce în îmbrățișarea pașnică a Parcului Schoeller.\nÎncheiați ziua într-una dintre cafenelele sau restaurantele fermecătoare ale orașului, reflectând la istoria bogată și natura liniștită pe care Levice le are de oferit. O încheiere perfectă pentru o zi de explorare.",
+        "en": "Your day in Levice begins with a historical immersion at Levice Castle and the nearby Tekov Museum. In the morning, you'll feel the town's past as you explore the ancient walls and artifacts.\nAt midday, stroll into the city center to experience the spiritual calm of the Church of St. Joseph and the architectural beauty of the Synagogue, punctuated by a quick stop at the Holy Trinity Column. This is the perfect time for a local lunch.\nThe afternoon is reserved for a refreshing climb up Calvary Hill, which will reward you with breathtaking panoramic views. The descent will lead you into the peaceful embrace of Schoeller Park.\nConclude your day at one of the city's charming cafes or restaurants, reflecting on the rich history and serene nature Levice has to offer. A perfect end to a day of exploration."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Slowakische Schafskäsenocken, ein Nationalgericht."
+          },
+          {
+            "name": "Cesnačka",
+            "tip": "Eine kräftige Knoblauchsuppe, oft in einem Brotlaib serviert."
+          },
+          {
+            "name": "Restaurant Biela hus",
+            "tip": "Bekannt für seine traditionelle slowakische Küche in einem gemütlichen Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Juhtúrós galuska, Szlovákia nemzeti étele."
+          },
+          {
+            "name": "Cesnačka",
+            "tip": "Erőteljes fokhagymaleves, gyakran cipóban tálalva."
+          },
+          {
+            "name": "Biela hus étterem",
+            "tip": "Hagyományos szlovák konyhájáról ismert, hangulatos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Găluște cu brânză de oaie, un fel de mâncare național slovac."
+          },
+          {
+            "name": "Cesnačka",
+            "tip": "O supă consistentă de usturoi, adesea servită într-o pâine."
+          },
+          {
+            "name": "Restaurant Biela hus",
+            "tip": "Renumit pentru bucătăria sa tradițională slovacă într-un cadru primitor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Slovak sheep cheese dumplings, a national dish."
+          },
+          {
+            "name": "Cesnačka",
+            "tip": "A hearty garlic soup, often served in a bread bowl."
+          },
+          {
+            "name": "Restaurant Biela hus",
+            "tip": "Known for its traditional Slovak cuisine in a cozy setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schoeller-Park",
+            "tip": "Ein Spaziergang um den Teich ist sehr beruhigend.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kalvarienberg",
+            "tip": "Oben angekommen, finden Sie einen ruhigen Ort, um die Aussicht zu genießen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ufer des Hron (in der Nähe)",
+            "tip": "Ein kurzer Ausflug aus der Stadt für friedliche Momente am Wasser.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Schoeller-park",
+            "tip": "Egy séta a tó körül nagyon megnyugtató.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kálvária-hegy",
+            "tip": "A csúcson talál egy csendes helyet, ahonnan élvezheti a kilátást.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Garam partja (a közelben)",
+            "tip": "Egy rövid kiruccanás a városból a békés vízparti pillanatokért.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Schoeller",
+            "tip": "O plimbare în jurul iazului este foarte liniștitoare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dealul Calvarului",
+            "tip": "Odată ajuns în vârf, găsiți un loc liniștit pentru a admira priveliștea.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malurile râului Hron (în apropiere)",
+            "tip": "O scurtă excursie în afara orașului pentru momente de pace lângă apă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Schoeller Park",
+            "tip": "A walk around the pond is very calming.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Calvary Hill",
+            "tip": "Once at the top, find a quiet spot to take in the view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Banks of the Hron River (nearby)",
+            "tip": "A short trip out of town for peaceful moments by the water.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach frischen Produkten und hausgemachten Waren (saisonabhängig)."
+          },
+          {
+            "name": "Souvenirladen im Tekov-Museum",
+            "tip": "Finden Sie einzigartige Geschenke im Zusammenhang mit der Geschichte der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen friss termékeket és házi készítésű árukat (szezonális)."
+          },
+          {
+            "name": "Ajándékbolt a Tekov Múzeumban",
+            "tip": "Találjon egyedi ajándékokat a régió történelméhez kapcsolódóan."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse proaspete și produse de casă (în funcție de sezon)."
+          },
+          {
+            "name": "Magazinul de suveniruri al Muzeului Tekov",
+            "tip": "Găsiți cadouri unice legate de istoria regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for fresh produce and homemade goods (seasonal)."
+          },
+          {
+            "name": "Tekov Museum Gift Shop",
+            "tip": "Find unique gifts related to the region's history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Beginnen Sie früh an der Burg, um Menschenmassen zu vermeiden.",
+          "Der Aufstieg zum Kalvarienberg ist steil, aber kurz.",
+          "Überprüfen Sie die Öffnungszeiten der Museen, insbesondere montags."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "Kezdje a napot korán a várnál, hogy elkerülje a tömeget.",
+          "A Kálvária-hegyre meredek, de rövid út vezet fel.",
+          "Ellenőrizze a múzeumok nyitvatartási idejét, különösen hétfőnként."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe jos.",
+          "Începeți devreme la castel pentru a evita aglomerația.",
+          "Urcușul spre Dealul Calvarului este abrupt, dar scurt.",
+          "Verificați orele de deschidere ale muzeelor, în special lunea."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "Start early at the castle to avoid crowds.",
+          "The climb to Calvary Hill is steep but short.",
+          "Check museum opening times, especially on Mondays."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Margita-Ilona",
+            "hu": "Margita-Ilona",
+            "ro": "Margita-Ilona",
+            "en": "Margita-Ilona"
+          },
+          "coords": [
+            18.6698,
+            48.2505
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Natur und die Freizeiteinrichtungen, ideal für einen Start in den Tag.",
+            "hu": "Élvezze a természetet és a szabadidős létesítményeket, ideális a napkezdéshez.",
+            "ro": "Bucurați-vă de natură și de facilitățile de agrement, ideale pentru a începe ziua.",
+            "en": "Enjoy nature and the leisure facilities, ideal for starting the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalvarienberg",
+            "hu": "Kálvária-hegy",
+            "ro": "Calvarul",
+            "en": "Calvary Hill"
+          },
+          "coords": [
+            18.5958,
+            48.2221
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:21",
+          "stay_min": 50,
+          "hop_from_prev_min": 41,
+          "hop_from_prev_km": 6.8,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Fuß des Hügels ab und machen Sie den kurzen Aufstieg.",
+            "hu": "Zárja le a kerékpárt a hegy lábánál, és tegye meg a rövid emelkedőt.",
+            "ro": "Lăsați bicicleta la baza dealului și faceți scurta urcare.",
+            "en": "Lock your bike at the bottom of the hill and make the short climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Levice",
+            "hu": "Lévai vár",
+            "ro": "Castelul Levice",
+            "en": "Levice Castle"
+          },
+          "coords": [
+            18.6033,
+            48.2195
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Das Fahrrad abstellen und das Burggelände und das Museum erkunden.",
+            "hu": "Parkolja le a kerékpárt, és fedezze fel a vár területét és a múzeumot.",
+            "ro": "Parcați bicicleta și explorați terenul castelului și muzeul.",
+            "en": "Park the bike and explore the castle grounds and museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Hl. Joseph",
+            "hu": "Szent József-templom",
+            "ro": "Biserica Sf. Iosif",
+            "en": "Church of St. Joseph"
+          },
+          "coords": [
+            18.6075,
+            48.2158
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:36",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer, besinnlicher Halt auf Ihrer Radtour durch die Stadt.",
+            "hu": "Egy rövid, elmélkedő megálló a városi kerékpártúrán.",
+            "ro": "O oprire scurtă și contemplativă în turul cu bicicleta prin oraș.",
+            "en": "A short, contemplative stop on your bike tour of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Dreifaltigkeitssäule & Synagoge",
+            "hu": "Szentháromság-oszlop és Zsinagóga",
+            "ro": "Coloana Sfintei Treimi și Sinagoga",
+            "en": "Trinity Column & Synagogue"
+          },
+          "coords": [
+            18.6081,
+            48.214
+          ],
+          "category": "historical",
+          "arrive_at": "14:08",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Diese beiden Sehenswürdigkeiten liegen nahe beieinander im Herzen des Zentrums.",
+            "hu": "Ez a két látnivaló közel van egymáshoz a központ szívében.",
+            "ro": "Aceste două obiective sunt apropiate unul de celălalt, în inima centrului.",
+            "en": "These two sights are close together in the heart of the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Schoeller-Park",
+            "hu": "Schoeller-park",
+            "ro": "Parcul Schoeller",
+            "en": "Schoeller Park"
+          },
+          "coords": [
+            18.6145,
+            48.2129
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:12",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Fahren Sie gemütlich durch den Park und machen Sie eine Pause am Wasser.",
+            "hu": "Tekerjen kényelmesen a parkon keresztül, és tartson szünetet a vízparton.",
+            "ro": "Pedalați agale prin parc și faceți o pauză lângă apă.",
+            "en": "Cycle leisurely through the park and take a break by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Tekov-Museum",
+            "hu": "Tekov Múzeum",
+            "ro": "Muzeul Tekov",
+            "en": "Tekov Museum"
+          },
+          "coords": [
+            18.6041,
+            48.2189
+          ],
+          "category": "museums",
+          "arrive_at": "16:03",
+          "stay_min": 58,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour hier, um die regionale Geschichte aufzunehmen.",
+            "hu": "Fejezze be itt a túrát, hogy elmélyüljön a regionális történelemben.",
+            "ro": "Încheiați-vă turul aici pentru a absorbi istoria regională.",
+            "en": "End your tour here to absorb the regional history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag mit einer belebenden Fahrt zum Erholungsgebiet Margita-Ilona, wo Sie die morgendliche Frische der Natur genießen.\nFahren Sie zurück in Richtung Stadt und nehmen Sie die Herausforderung des Kalvarienbergs an, der Panoramablicke bietet, bevor Sie zum historischen Kern von Levice hinabsteigen, um die Burg zu erkunden. Dies ist eine gute Zeit für eine Mittagspause in der Nähe.\nDer Nachmittag ist eine gemütliche Radtour durch das Stadtzentrum, bei der Sie die St.-Josephs-Kirche, die Dreifaltigkeitssäule und die Synagoge besuchen. Anschließend können Sie im Schoeller-Park entspannen.\nBeenden Sie Ihren Tag mit einem kulturellen Besuch im Tekov-Museum, das sich praktischerweise in der Nähe der Burg befindet. Ein perfekter Abschluss, um die Geschichte und die Landschaft von Levice an einem aktiven Tag zu verbinden.",
+        "hu": "Kezdje a kerékpáros napot egy élénkítő tekeréssel a Margita-Ilona üdülőterületre, ahol élvezheti a reggeli természet frissességét.\nTekerjen vissza a város felé, hogy megküzdjön a Kálvária-hegy kihívásával, amely panorámás kilátást kínál, mielőtt leereszkedne Léva történelmi magjába, a várhoz. Ez egy jó alkalom egy közeli ebédre.\nA délután egy kényelmes biciklizés a városközpontban, érintve a Szent József-templomot, a Szentháromság-oszlopot és a zsinagógát, majd egy pihentető kör a Schoeller-parkban.\nZárja a napot egy kulturális látogatással a Tekov Múzeumban, amely kényelmesen a vár közelében található. Tökéletes befejezés, amely ötvözi a történelmet és a tájat egy aktív nap során.",
+        "ro": "Începeți ziua pe bicicletă cu o plimbare revigorantă spre zona de agrement Margita-Ilona, bucurându-vă de prospețimea naturii dimineața.\nPedalați înapoi spre oraș pentru a înfrunta provocarea Dealului Calvarului pentru vederi panoramice, înainte de a coborî spre nucleul istoric al orașului Levice pentru a explora castelul. Acesta este un moment bun pentru o pauză de prânz în apropiere.\nDupă-amiaza este o plimbare lejeră cu bicicleta prin centrul orașului, vizitând Biserica Sf. Iosif, Coloana Sfintei Treimi și Sinagoga, urmată de o tură relaxantă prin Parcul Schoeller.\nÎncheiați-vă ziua cu o vizită culturală la Muzeul Tekov, situat convenabil lângă castel. O modalitate perfectă de a combina istoria și peisajul într-o singură zi activă.",
+        "en": "Start your cycling day with an invigorating ride to the Margita-Ilona recreational area, enjoying the morning freshness of nature.\nPedal back towards town to tackle the challenge of Calvary Hill for panoramic views before descending to Levice's historic core to explore the castle. This is a good time for a lunch break nearby.\nThe afternoon is a leisurely cycle through the city center, taking in the Church of St. Joseph, the Trinity Column, and the Synagogue, followed by a relaxing loop in Schoeller Park.\nConclude your day with a cultural visit to the Tekov Museum, conveniently located near the castle. A perfect way to combine history and scenery in one active day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokše",
+            "tip": "Dünne Kartoffelfladen, süß oder herzhaft gefüllt."
+          },
+          {
+            "name": "Kofola vom Fass",
+            "tip": "Probieren Sie das lokale Kräuter-Cola-Getränk, eine erfrischende Radlerpause."
+          },
+          {
+            "name": "Reštaurácia GURMÁN",
+            "tip": "Bietet eine Mischung aus slowakischen und internationalen Gerichten, gut für ein herzhaftes Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lokše",
+            "tip": "Vékony burgonyalepény, édesen vagy sósan töltve."
+          },
+          {
+            "name": "Csapolt Kofola",
+            "tip": "Kóstolja meg a helyi gyógynövényes kóla italt, frissítő szünet a biciklizéshez."
+          },
+          {
+            "name": "GURMÁN étterem",
+            "tip": "Szlovák és nemzetközi ételek keverékét kínálja, jó egy kiadós ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lokše",
+            "tip": "Clătite subțiri din cartofi, umplute dulce sau sărat."
+          },
+          {
+            "name": "Kofola la halbă",
+            "tip": "Încercați băutura locală pe bază de plante asemănătoare cu cola, o pauză răcoritoare pentru cicliști."
+          },
+          {
+            "name": "Restaurant GURMÁN",
+            "tip": "Oferă un amestec de mâncăruri slovace și internaționale, bun pentru un prânz consistent."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lokše",
+            "tip": "Thin potato pancakes, filled sweet or savory."
+          },
+          {
+            "name": "Draught Kofola",
+            "tip": "Try the local herbal cola drink, a refreshing cycling break."
+          },
+          {
+            "name": "Restaurant GURMÁN",
+            "tip": "Offers a mix of Slovak and international dishes, good for a hearty lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Margita-Ilona",
+            "tip": "Finden Sie einen ruhigen Platz am Wasser, bevor die Menschenmassen kommen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schoeller-Park",
+            "tip": "Ideal für eine langsame Radtour am späten Nachmittag.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kalvarienberg",
+            "tip": "Nach dem Aufstieg ist die Aussicht eine friedliche Belohnung.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Margita-Ilona",
+            "tip": "Keressen egy csendes helyet a vízparton, mielőtt megérkezik a tömeg.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schoeller-park",
+            "tip": "Ideális egy lassú, késő délutáni kerékpártúrához.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kálvária-hegy",
+            "tip": "A kapaszkodás után a kilátás békés jutalom.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Margita-Ilona",
+            "tip": "Găsiți un loc liniștit lângă apă înainte de sosirea mulțimilor.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Schoeller",
+            "tip": "Ideal pentru o plimbare lentă cu bicicleta la sfârșitul după-amiezii.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dealul Calvarului",
+            "tip": "După urcare, priveliștea este o recompensă pașnică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Margita-Ilona",
+            "tip": "Find a quiet spot by the water before the crowds arrive.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schoeller Park",
+            "tip": "Ideal for a slow, late-afternoon cycle.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Calvary Hill",
+            "tip": "After the climb, the view is a peaceful reward.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Falls Sie Zubehör oder eine schnelle Reparatur benötigen."
+          },
+          {
+            "name": "Bauernmarkt",
+            "tip": "Perfekt, um lokale Snacks für Ihre Radtour zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Ha kiegészítőre vagy gyors javításra van szüksége."
+          },
+          {
+            "name": "Termelői piac",
+            "tip": "Tökéletes helyi harapnivalók beszerzésére a túrához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "În caz că aveți nevoie de accesorii sau de o reparație rapidă."
+          },
+          {
+            "name": "Piața agricolă",
+            "tip": "Perfect pentru a cumpăra gustări locale pentru turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "In case you need any accessories or a quick fix."
+          },
+          {
+            "name": "Farmer's Market",
+            "tip": "Perfect for grabbing some local snacks for your ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Nehmen Sie eine Flasche Wasser mit, besonders für die Fahrt nach Margita-Ilona.",
+          "Seien Sie auf einige Hügel vorbereitet, insbesondere um den Kalvarienberg.",
+          "Schließen Sie Ihr Fahrrad an sicheren Orten ab, wenn Sie Sehenswürdigkeiten besuchen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket és a gumikat.",
+          "Vigyen magával egy üveg vizet, főleg a Margita-Ilonára vezető útra.",
+          "Készüljön fel néhány emelkedőre, különösen a Kálvária-hegy környékén.",
+          "A látnivalók megtekintése közben zárja le a kerékpárt biztonságos helyen."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni, în special frânele și anvelopele.",
+          "Luați o sticlă de apă, mai ales pentru drumul spre Margita-Ilona.",
+          "Fiți pregătiți pentru câteva dealuri, în special în jurul Dealului Calvarului.",
+          "Încuiați-vă bicicleta în locuri sigure atunci când vizitați obiectivele turistice."
+        ],
+        "en": [
+          "Check your bike before you set off, especially brakes and tires.",
+          "Bring a bottle of water, especially for the ride to Margita-Ilona.",
+          "Be prepared for some hills, particularly around Calvary Hill.",
+          "Lock your bike in secure places when visiting sights."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 14.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Margita-Ilona",
+            "hu": "Margita-Ilona",
+            "ro": "Margita-Ilona",
+            "en": "Margita-Ilona"
+          },
+          "coords": [
+            18.6698,
+            48.2505
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und genießen Sie einen ausgedehnten Morgenspaziergang am Wasser.",
+            "hu": "Parkoljon le itt, és tegyen egy hosszabb reggeli sétát a vízparton.",
+            "ro": "Parcați aici și bucurați-vă de o plimbare lungă de dimineață pe malul apei.",
+            "en": "Park here and enjoy a long morning walk by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalvarienberg",
+            "hu": "Kálvária-hegy",
+            "ro": "Calvarul",
+            "en": "Calvary Hill"
+          },
+          "coords": [
+            18.5958,
+            48.2221
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie so nah wie möglich heran und machen Sie den kurzen Spaziergang nach oben.",
+            "hu": "Hajtson amilyen közel csak lehet, és tegye meg a rövid sétát a csúcsra.",
+            "ro": "Conduceți cât mai aproape posibil și faceți scurta plimbare până în vârf.",
+            "en": "Drive as close as possible and take the short walk to the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Parken am Stadtzentrum",
+            "hu": "Parkolás a központban",
+            "ro": "Parcare în centrul orașului",
+            "en": "City Center Parking"
+          },
+          "coords": [
+            18.605,
+            48.217
+          ],
+          "category": "transport",
+          "arrive_at": "12:05",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.1,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe der Burg, um den historischen Kern zu Fuß zu erkunden.",
+            "hu": "Parkoljon a vár közelében, hogy gyalog fedezhesse fel a történelmi központot.",
+            "ro": "Parcați lângă castel pentru a explora nucleul istoric pe jos.",
+            "en": "Park near the castle to explore the historic core on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Levice & Tekov-Museum",
+            "hu": "Lévai vár és Tekov Múzeum",
+            "ro": "Castelul Levice și Muzeul Tekov",
+            "en": "Levice Castle & Tekov Museum"
+          },
+          "coords": [
+            18.6037,
+            48.2192
+          ],
+          "category": "historical",
+          "arrive_at": "12:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für beide Attraktionen. Hier können Sie auch zu Mittag essen.",
+            "hu": "Szánjon időt mindkét látnivalóra. Itt ebédelhet is.",
+            "ro": "Luați-vă timp pentru ambele atracții. Puteți lua și prânzul aici.",
+            "en": "Take your time for both attractions. You can have lunch here as well."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentrum: Kirche, Säule & Synagoge",
+            "hu": "Központ: Templom, oszlop és zsinagóga",
+            "ro": "Centru: Biserică, Coloană și Sinagogă",
+            "en": "Center: Church, Column & Synagogue"
+          },
+          "coords": [
+            18.6078,
+            48.2145
+          ],
+          "category": "historical",
+          "arrive_at": "14:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein gemütlicher Spaziergang verbindet diese drei zentralen Sehenswürdigkeiten.",
+            "hu": "Egy kellemes séta köti össze ezt a három központi látnivalót.",
+            "ro": "O plimbare agale leagă aceste trei obiective centrale.",
+            "en": "A leisurely walk connects these three central landmarks."
+          }
+        },
+        {
+          "name": {
+            "de": "Schoeller-Park",
+            "hu": "Schoeller-park",
+            "ro": "Parcul Schoeller",
+            "en": "Schoeller Park"
+          },
+          "coords": [
+            18.6145,
+            48.2129
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:05",
+          "stay_min": 70,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 4.4,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein letzter Halt, um sich vor der Heimfahrt die Beine zu vertreten.",
+            "hu": "Egy utolsó megálló, hogy kinyújtóztassa a lábait hazaindulás előtt.",
+            "ro": "O ultimă oprire pentru a vă dezmorți picioarele înainte de a pleca acasă.",
+            "en": "A final stop to stretch your legs before heading home."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt mit einer ruhigen Fahrt zum Erholungsgebiet Margita-Ilona, wo Sie den Morgen in der Natur verbringen. Dann fahren Sie zum Kalvarienberg für eine atemberaubende Aussicht.\nAm Mittag parken Sie Ihr Auto im Zentrum von Levice und erkunden den ersten Cluster zu Fuß. Besuchen Sie die dominante Burg Levice und das Tekov-Museum, wo Sie auch eine Mittagspause einlegen können.\nNach dem Mittagessen setzen Sie Ihren Spaziergang durch das Stadtzentrum fort und entdecken den zweiten Cluster: die St.-Josephs-Kirche, die Dreifaltigkeitssäule und die wunderschön restaurierte Synagoge.\nAm späten Nachmittag nehmen Sie das Auto für eine kurze Fahrt zum Schoeller-Park, Ihrem letzten Ziel. Genießen Sie einen entspannenden Spaziergang, um Ihren Tag voller Entdeckungen in und um Levice abzurunden.",
+        "hu": "Az autós nap egy csendes utazással kezdődik a Margita-Ilona üdülőterületre, ahol a délelőttöt a természetben tölti. Ezután irány a Kálvária-hegy a lélegzetelállító kilátásért.\nDélben parkolja le autóját Léva központjában, és fedezze fel gyalog az első látnivalócsoportot. Látogassa meg a domináns Lévai várat és a Tekov Múzeumot, ahol ebédelhet is.\nEbéd után folytassa sétáját a városközpontban, felfedezve a második látnivalócsoportot: a Szent József-templomot, a Szentháromság-oszlopot és a gyönyörűen felújított zsinagógát.\nKéső délután szálljon autóba egy rövid útra a Schoeller-parkba, az utolsó állomásra. Élvezzen egy pihentető sétát, hogy lezárja a Léván és környékén töltött felfedező napját.",
+        "ro": "Ziua cu mașina începe cu o călătorie liniștită spre zona de agrement Margita-Ilona, petrecându-vă dimineața în natură. Apoi, conduceți spre Dealul Calvarului pentru o priveliște uluitoare.\nLa prânz, parcați mașina în centrul orașului Levice și explorați primul grup de atracții pe jos. Vizitați dominantul Castel Levice și Muzeul Tekov, unde puteți lua și o pauză de prânz.\nDupă prânz, continuați plimbarea prin centrul orașului, descoperind al doilea grup de atracții: Biserica Sf. Iosif, Coloana Sfintei Treimi și sinagoga frumos restaurată.\nSpre sfârșitul după-amiezii, luați mașina pentru o scurtă călătorie spre Parcul Schoeller, destinația finală. Bucurați-vă de o plimbare relaxantă pentru a încheia ziua de explorare în Levice și împrejurimi.",
+        "en": "Your car day starts with a quiet drive to the Margita-Ilona recreational area, spending the morning in nature. Then, drive to Calvary Hill for a breathtaking view.\nAt midday, park your car in the center of Levice and explore the first cluster of sights on foot. Visit the dominant Levice Castle and the Tekov Museum, where you can also take a lunch break.\nAfter lunch, continue your walk through the city center discovering the second cluster: the Church of St. Joseph, the Holy Trinity Column, and the beautifully restored Synagogue.\nIn the late afternoon, take the car for a short drive to Schoeller Park, your final destination. Enjoy a relaxing walk to round off your day of exploration in and around Levice."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pečená klobása",
+            "tip": "Gegrillte Wurst, ein schneller und leckerer Snack, den man auf Märkten findet."
+          },
+          {
+            "name": "Tokaj-Wein",
+            "tip": "Obwohl es sich um eine ungarische Region handelt, ist der Einfluss in der lokalen Gastronomie spürbar."
+          },
+          {
+            "name": "Koliba u Štefana",
+            "tip": "Etwas außerhalb gelegen, perfekt für eine Autofahrt, bietet authentische slowakische Erlebnisse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sült kolbász",
+            "tip": "Grillezett kolbász, gyors és ízletes falat, piacokon is megtalálható."
+          },
+          {
+            "name": "Tokaji bor",
+            "tip": "Bár magyar régió, hatása érezhető a helyi gasztronómiában."
+          },
+          {
+            "name": "Koliba u Štefana",
+            "tip": "Kicsit kijjebb esik, tökéletes egy autós kiruccanáshoz, autentikus szlovák élményt nyújt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cârnați la grătar",
+            "tip": "Un snack rapid și gustos găsit în piețe."
+          },
+          {
+            "name": "Vin de Tokaj",
+            "tip": "Deși este o regiune maghiară, influența sa se simte în gastronomia locală."
+          },
+          {
+            "name": "Koliba u Štefana",
+            "tip": "Situat puțin în afara orașului, perfect pentru o călătorie cu mașina, oferă experiențe slovace autentice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled sausage (klobása)",
+            "tip": "A quick and tasty snack found at markets."
+          },
+          {
+            "name": "Tokaj wine",
+            "tip": "Although a Hungarian region, its influence is felt in the local gastronomy."
+          },
+          {
+            "name": "Koliba u Štefana",
+            "tip": "Located a bit outside, perfect for a car trip, offering authentic Slovak experiences."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Margita-Ilona",
+            "tip": "Der beste Ort, um den Tag in Ruhe zu beginnen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kalvarienberg",
+            "tip": "Die Aussicht bietet einen Moment der Ruhe über der Stadt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Schoeller-Park am späten Nachmittag",
+            "tip": "Weniger überfüllt und sehr friedlich.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Margita-Ilona",
+            "tip": "A legjobb hely a nap nyugodt kezdéséhez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kálvária-hegy",
+            "tip": "A kilátás egy pillanatnyi nyugalmat kínál a város felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Schoeller-park késő délután",
+            "tip": "Kevésbé zsúfolt és nagyon békés.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Margita-Ilona",
+            "tip": "Cel mai bun loc pentru a începe ziua în liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dealul Calvarului",
+            "tip": "Priveliștea oferă un moment de liniște deasupra orașului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Schoeller la sfârșitul după-amiezii",
+            "tip": "Mai puțin aglomerat și foarte pașnic.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Margita-Ilona",
+            "tip": "The best place to start the day in tranquility.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Calvary Hill",
+            "tip": "The view offers a moment of peace above the city.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Schoeller Park in the late afternoon",
+            "tip": "Less crowded and very peaceful.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Straßenverkäufer in der Nähe von Sehenswürdigkeiten",
+            "tip": "Achten Sie auf handgefertigte Souvenirs."
+          },
+          {
+            "name": "Supermarkt für lokale Produkte",
+            "tip": "Kaufen Sie slowakische Süßigkeiten oder Getränke als Mitbringsel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Utcai árusok a látnivalók közelében",
+            "tip": "Keressen kézzel készített ajándéktárgyakat."
+          },
+          {
+            "name": "Szupermarket helyi termékekért",
+            "tip": "Vásároljon szlovák édességeket vagy italokat szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vânzători ambulanți lângă atracții",
+            "tip": "Căutați suveniruri realizate manual."
+          },
+          {
+            "name": "Supermarket pentru produse locale",
+            "tip": "Cumpărați dulciuri sau băuturi slovace ca suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Street vendors near attractions",
+            "tip": "Look out for handcrafted souvenirs."
+          },
+          {
+            "name": "Supermarket for local products",
+            "tip": "Buy some Slovak sweets or drinks as souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie eine Navigations-App, um Parkplätze in der Nähe der Cluster zu finden.",
+          "Parkgebühren können anfallen, halten Sie Münzen bereit.",
+          "Die Kombination aus Fahren und Gehen bietet das Beste aus beiden Welten.",
+          "Planen Sie zusätzliche Zeit für den Verkehr ein, besonders am Nachmittag."
+        ],
+        "hu": [
+          "Használjon navigációs alkalmazást a látnivalócsoportok közelében lévő parkolók megtalálásához.",
+          "Parkolási díjak merülhetnek fel, készítsen elő aprópénzt.",
+          "A vezetés és a gyaloglás kombinációja mindkét világból a legjobbat nyújtja.",
+          "Tervezzen plusz időt a forgalomra, különösen délután."
+        ],
+        "ro": [
+          "Utilizați o aplicație de navigație pentru a găsi parcări lângă grupurile de atracții.",
+          "Se pot aplica taxe de parcare, aveți la îndemână monede.",
+          "Combinarea condusului cu mersul pe jos oferă ce e mai bun din ambele lumi.",
+          "Planificați timp suplimentar pentru trafic, în special după-amiaza."
+        ],
+        "en": [
+          "Use a navigation app to find parking near the clusters.",
+          "Parking fees may apply, have some coins ready.",
+          "Combining driving and walking gives you the best of both worlds.",
+          "Plan for extra time for traffic, especially in the afternoon."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof",
+            "hu": "Érkezés a buszpályaudvarra",
+            "ro": "Sosire la stația de autobuz",
+            "en": "Arrival at Bus Station"
+          },
+          "coords": [
+            18.6115,
+            48.21
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Machen Sie sich mit dem lokalen Busnetz vertraut.",
+            "hu": "Ismerkedjen meg a helyi buszhálózattal.",
+            "ro": "Familiarizați-vă cu rețeaua locală de autobuze.",
+            "en": "Familiarize yourself with the local bus network."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Zentrum: Säule & Synagoge",
+            "hu": "Központ csoport: Oszlop és Zsinagóga",
+            "ro": "Cluster Centru: Coloană și Sinagogă",
+            "en": "Center Cluster: Column & Synagogue"
+          },
+          "coords": [
+            18.6081,
+            48.214
+          ],
+          "category": "historical",
+          "arrive_at": "09:25",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie im Herzen der Stadt, diese Sehenswürdigkeiten sind nur einen kurzen Spaziergang entfernt.",
+            "hu": "Kezdje a város szívében, ezek a látnivalók csak egy rövid sétára vannak.",
+            "ro": "Începeți în inima orașului, aceste atracții sunt la o scurtă plimbare.",
+            "en": "Start in the heart of the city, these sights are a short walk from each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Hl. Joseph",
+            "hu": "Szent József-templom",
+            "ro": "Biserica Sf. Iosif",
+            "en": "Church of St. Joseph"
+          },
+          "coords": [
+            18.6075,
+            48.2158
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz zu diesem ruhigen Ort.",
+            "hu": "Egy rövid séta a főtérről ehhez a csendes helyhez.",
+            "ro": "O scurtă plimbare din piața principală până la acest loc liniștit.",
+            "en": "A short walk from the main square to this tranquil spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Burg: Burg & Museum",
+            "hu": "Vár csoport: Vár és Múzeum",
+            "ro": "Cluster Castel: Castel și Muzeu",
+            "en": "Castle Cluster: Castle & Museum"
+          },
+          "coords": [
+            18.6037,
+            48.2192
+          ],
+          "category": "historical",
+          "arrive_at": "11:36",
+          "stay_min": 130,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Hügel. Hier können Sie zu Mittag essen.",
+            "hu": "Menjen busszal a hegyre. Itt ebédelhet.",
+            "ro": "Luați un autobuz până la deal. Puteți lua prânzul aici.",
+            "en": "Take a bus up to the hill. You can have lunch here."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalvarienberg",
+            "hu": "Kálvária-hegy",
+            "ro": "Calvarul",
+            "en": "Calvary Hill"
+          },
+          "coords": [
+            18.5958,
+            48.2221
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:04",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Möglicherweise müssen Sie ein Stück laufen, aber die Aussicht ist es wert.",
+            "hu": "Lehet, hogy egy kicsit sétálnia kell, de a kilátás megéri.",
+            "ro": "S-ar putea să trebuiască să mergeți puțin, dar priveliștea merită.",
+            "en": "You might need to walk a bit from the bus stop, but the view is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Schoeller-Park",
+            "hu": "Schoeller-park",
+            "ro": "Parcul Schoeller",
+            "en": "Schoeller Park"
+          },
+          "coords": [
+            18.6145,
+            48.2129
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 31,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannender Spaziergang zum Abschluss Ihres Tages, bevor Sie den Bus zurück nehmen.",
+            "hu": "Egy pihentető séta a nap végén, mielőtt visszamenne a busszal.",
+            "ro": "O plimbare relaxantă pentru a încheia ziua înainte de a lua autobuzul înapoi.",
+            "en": "A relaxing walk to end your day before taking the bus back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln in Levice beginnt mit der Erkundung des zentralen Clusters zu Fuß, nachdem Sie in der Nähe des Zentrums angekommen sind. Besuchen Sie die Dreifaltigkeitssäule, die Synagoge und die St.-Josephs-Kirche.\nAm späten Vormittag nehmen Sie einen Bus zum Burg-Cluster. Verbringen Sie Zeit mit der Erkundung der Burg Levice und des Tekov-Museums, ein idealer Ort für eine Mittagspause mit Aussicht.\nNach dem Mittagessen bringt Sie ein weiterer Bus in die Nähe des Kalvarienbergs. Genießen Sie den Aufstieg und die Panoramaaussicht als Belohnung für Ihre Reise.\nBeenden Sie den Tag mit einem gemütlichen Spaziergang vom Kalvarienberg hinunter zum Schoeller-Park. Entspannen Sie sich im Grünen, bevor Sie einen nahegelegenen Bus nehmen, um Ihre Reise abzuschließen.",
+        "hu": "A lévai tömegközlekedési nap a központi látnivalócsoport gyalogos felfedezésével kezdődik, miután megérkezett a központ közelébe. Látogassa meg a Szentháromság-oszlopot, a zsinagógát és a Szent József-templomot.\nKéső délelőtt szálljon buszra a Vár-csoporthoz. Töltsön időt a Lévai vár és a Tekov Múzeum felfedezésével, amely ideális hely egy kilátással egybekötött ebédszünethez.\nEbéd után egy másik busz viszi a Kálvária-hegy közelébe. Élvezze a mászást és a panorámás kilátást, amely megjutalmazza utazásáért.\nZárja a napot egy kellemes sétával a Kálvária-hegyről le a Schoeller-parkba. Pihenjen a zöldben, mielőtt egy közeli buszra szállna, hogy befejezze utazását.",
+        "ro": "Ziua dvs. cu transportul public în Levice începe prin explorarea pe jos a grupului central de atracții după sosirea în apropierea centrului. Vizitați Coloana Sfintei Treimi, Sinagoga și Biserica Sf. Iosif.\nSpre sfârșitul dimineții, luați un autobuz către grupul Castelului. Petreceți timp explorând Castelul Levice și Muzeul Tekov, un loc ideal pentru o pauză de prânz cu priveliște.\nDupă prânz, un alt autobuz vă va duce în apropierea Dealului Calvarului. Bucurați-vă de urcare și de priveliștea panoramică ca o recompensă pentru călătoria dvs.\nÎncheiați ziua cu o plimbare agale de la Dealul Calvarului până la Parcul Schoeller. Relaxați-vă în verdeață înainte de a lua un autobuz din apropiere pentru a vă încheia călătoria.",
+        "en": "Your public transport day in Levice begins by exploring the central cluster on foot after arriving near the center. Visit the Holy Trinity Column, the Synagogue, and the Church of St. Joseph.\nIn the late morning, take a bus to the Castle cluster. Spend time exploring Levice Castle and the Tekov Museum, an ideal spot for a lunch break with a view.\nAfter lunch, another bus ride will take you near Calvary Hill. Enjoy the climb and the panoramic view as a reward for your journey.\nEnd your day with a leisurely walk down from Calvary Hill to Schoeller Park. Relax in the greenery before catching a nearby bus to complete your journey."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pagáče",
+            "tip": "Herzhaftes Gebäck, perfekt für unterwegs."
+          },
+          {
+            "name": "Treska v majonéze",
+            "tip": "Ein klassischer slowakischer Fischsalat, den man in Delikatessengeschäften findet."
+          },
+          {
+            "name": "Bufet (Imbissstand)",
+            "tip": "Probieren Sie lokale Schnellgerichte in der Nähe des Busbahnhofs für ein authentisches Erlebnis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pogácsa",
+            "tip": "Sós sütemény, tökéletes útközben."
+          },
+          {
+            "name": "Treska v majonéze",
+            "tip": "Klasszikus szlovák tőkehal-saláta, csemegeboltokban kapható."
+          },
+          {
+            "name": "Büfé",
+            "tip": "Kóstolja meg a helyi gyorsételeket a buszpályaudvar közelében az autentikus élményért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pagáče",
+            "tip": "Produse de patiserie sărate, perfecte pentru a fi consumate pe drum."
+          },
+          {
+            "name": "Treska v majonéze",
+            "tip": "O salată clasică slovacă de cod, găsită la delicatese."
+          },
+          {
+            "name": "Bufet",
+            "tip": "Încercați mâncăruri rapide locale lângă stația de autobuz pentru o experiență autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pagáče",
+            "tip": "Savory pastries, perfect for eating on the go."
+          },
+          {
+            "name": "Treska v majonéze",
+            "tip": "A classic Slovak cod salad, found in delicatessens."
+          },
+          {
+            "name": "Bufet (snack bar)",
+            "tip": "Try local fast food near the bus station for an authentic experience."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof neben dem Kalvarienberg",
+            "tip": "Ein Ort der Stille und Besinnung.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Eine Bank in einer ruhigen Ecke des Schoeller-Parks",
+            "tip": "Perfekt, um vor der Busfahrt zu entspannen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Die oberen Mauern der Burg",
+            "tip": "Bietet einen ruhigen Blick über die Stadt, abseits der Hauptwege.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Temető a Kálvária-hegy mellett",
+            "tip": "A csend és az elmélkedés helye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Egy pad a Schoeller-park csendes sarkában",
+            "tip": "Tökéletes pihenés a buszozás előtt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A vár felső falai",
+            "tip": "Nyugodt kilátást nyújt a városra, távol a fő útvonalaktól.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul de lângă Dealul Calvarului",
+            "tip": "Un loc de liniște și reflecție.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "O bancă într-un colț liniștit al Parcului Schoeller",
+            "tip": "Perfect pentru a vă relaxa înainte de călătoria cu autobuzul.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Zidurile superioare ale castelului",
+            "tip": "Oferă o priveliște liniștită asupra orașului, departe de potecile principale.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cemetery next to Calvary Hill",
+            "tip": "A place of quiet and reflection.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A bench in a quiet corner of Schoeller Park",
+            "tip": "Perfect for relaxing before the bus ride.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "The upper walls of the castle",
+            "tip": "Offers a quiet view over the city, away from the main paths.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Kaufen Sie eine Zeitung oder einen Snack für Ihre Reise."
+          },
+          {
+            "name": "Kleine Geschäfte im Stadtzentrum",
+            "tip": "Entdecken Sie lokale Geschäfte, während Sie zwischen den Haltestellen spazieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszpályaudvaron",
+            "tip": "Vásároljon újságot vagy harapnivalót az útra."
+          },
+          {
+            "name": "Kis üzletek a városközpontban",
+            "tip": "Fedezze fel a helyi boltokat a megállók közötti séta közben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la stația de autobuz",
+            "tip": "Cumpărați un ziar sau o gustare pentru călătoria dvs."
+          },
+          {
+            "name": "Mici magazine în centrul orașului",
+            "tip": "Descoperiți magazinele locale în timp ce vă plimbați între stații."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus station",
+            "tip": "Buy a newspaper or a snack for your journey."
+          },
+          {
+            "name": "Small shops in the city center",
+            "tip": "Discover local stores while walking between stops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn verfügbar, es könnte billiger sein.",
+          "Überprüfen Sie den Busfahrplan im Voraus, besonders für den letzten Bus zurück.",
+          "Haben Sie etwas Kleingeld für Tickets, die beim Fahrer gekauft werden.",
+          "Eine ÖPNV-App kann sehr hilfreich sein, um Routen in Echtzeit zu planen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet, ha elérhető, olcsóbb lehet.",
+          "Ellenőrizze előre a buszmenetrendet, különösen az utolsó visszajáratot.",
+          "Legyen Önnél aprópénz a sofőrnél vásárolt jegyekhez.",
+          "Egy tömegközlekedési alkalmazás nagyon hasznos lehet az útvonalak valós idejű tervezéséhez."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz, dacă este disponibil, ar putea fi mai ieftin.",
+          "Verificați programul autobuzelor în avans, în special pentru ultimul autobuz înapoi.",
+          "Aveți la îndemână mărunțiș pentru biletele cumpărate de la șofer.",
+          "O aplicație de transport public poate fi foarte utilă pentru planificarea rutelor în timp real."
+        ],
+        "en": [
+          "Buy a day pass for the bus if available, it might be cheaper.",
+          "Check the bus schedule in advance, especially for the last bus back.",
+          "Have some small change for tickets bought from the driver.",
+          "A public transport app can be very helpful for planning routes in real-time."
+        ]
+      }
+    }
+  }
+}

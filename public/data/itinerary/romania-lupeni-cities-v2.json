@@ -1,0 +1,1208 @@
+{
+  "city_id": "romania-lupeni-cities-v2",
+  "anchor": {
+    "name": "Lupeni",
+    "coords": [
+      23.23,
+      45.35
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentralpark",
+            "hu": "Központi Park",
+            "ro": "Parcul Central",
+            "en": "Central Park"
+          },
+          "coords": [
+            23.2315,
+            45.3522
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem entspannten Spaziergang durch das grüne Herz der Stadt.",
+            "hu": "Kezdje a napot egy pihentető sétával a város zöld szívében.",
+            "ro": "Începeți ziua cu o plimbare relaxantă prin inima verde a orașului.",
+            "en": "Start your day with a relaxing stroll through the green heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergmannsdenkmal",
+            "hu": "Bányász-emlékmű",
+            "ro": "Monumentul Minerului",
+            "en": "The Miner's Monument"
+          },
+          "coords": [
+            23.233,
+            45.354
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein ergreifendes Denkmal, das die harte Arbeit und die Opfer der Bergleute der Region ehrt.",
+            "hu": "Egy megindító emlékmű, amely a régió bányászainak kemény munkája és áldozatai előtt tiszteleg.",
+            "ro": "Un monument emoționant care onorează munca grea și sacrificiile minerilor din regiune.",
+            "en": "A poignant monument honoring the hard work and sacrifices of the region's miners."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Nikolaus",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "Saint Nicholas Church"
+          },
+          "coords": [
+            23.229,
+            45.355
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die orthodoxe Architektur und die friedliche Atmosphäre im Inneren.",
+            "hu": "Csodálja meg az ortodox építészetet és a békés belső légkört.",
+            "ro": "Admirați arhitectura ortodoxă și atmosfera pașnică din interior.",
+            "en": "Admire the Orthodox architecture and the peaceful atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturpalast der Bergleute",
+            "hu": "Bányász Kultúrpalota",
+            "ro": "Palatul Cultural Minerul",
+            "en": "Miner's Palace of Culture"
+          },
+          "coords": [
+            23.228,
+            45.353
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:22",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Symbol des sozialen Lebens, das die kulturelle Bedeutung für die Gemeinschaft widerspiegelt.",
+            "hu": "A közösségi élet szimbóluma, amely tükrözi a kultúra fontosságát a közösség számára.",
+            "ro": "Un simbol al vieții sociale, reflectând importanța culturală pentru comunitate.",
+            "en": "A symbol of social life, reflecting the cultural importance for the community."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergbaumuseum",
+            "hu": "Bányászati Múzeum",
+            "ro": "Muzeul Mineritului",
+            "en": "Mining Museum"
+          },
+          "coords": [
+            23.235,
+            45.358
+          ],
+          "category": "museums",
+          "arrive_at": "12:06",
+          "stay_min": 120,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein Muss, um die Bergbaugeschichte des Schiltals hautnah zu erleben.",
+            "hu": "Kötelező látnivaló, hogy testközelből megismerje a Zsil-völgy bányászati történelmét.",
+            "ro": "O vizită obligatorie pentru a înțelege în profunzime istoria minieră a Văii Jiului.",
+            "en": "A must-visit to deeply understand the mining history of the Jiu Valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahnhof Lupeni",
+            "hu": "Lupényi vasútállomás",
+            "ro": "Gara Lupeni",
+            "en": "Lupeni Train Station"
+          },
+          "coords": [
+            23.245,
+            45.362
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:52",
+          "stay_min": 20,
+          "hop_from_prev_min": 46,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour an diesem historischen Verkehrsknotenpunkt, einem Zeugnis der industriellen Vergangenheit.",
+            "hu": "Fejezze be a túrát ennél a történelmi közlekedési csomópontnál, amely az ipari múlt tanúja.",
+            "ro": "Încheiați turul la acest nod de transport istoric, o mărturie a trecutului industrial.",
+            "en": "End your tour at this historic transport hub, a testament to the industrial past."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie Ihren Tag im Zentralpark und ehren Sie die Geschichte der Stadt am Bergmannsdenkmal. Mittag: Nach dem Besuch der Nikolaikirche und des Kulturpalastes tauchen Sie im Bergbaumuseum tief in die lokale Identität ein. Nachmittag: Ein langer Spaziergang führt Sie zum Bahnhof, einem Symbol der industriellen Ära, wo Sie über die Transformation der Stadt nachdenken können. Abend: Genießen Sie ein herzhaftes rumänisches Abendessen in einem lokalen Restaurant.",
+        "hu": "Reggel: Kezdje a napot a Központi Parkban, majd tisztelegjen a város történelme előtt a Bányász-emlékműnél. Dél: A Szent Miklós-templom és a Kultúrpalota megtekintése után merüljön el a helyi identitásban a Bányászati Múzeumban. Délután: Egy hosszabb séta vezet az ipari korszakot szimbolizáló vasútállomáshoz, ahol elgondolkodhat a város átalakulásán. Este: Fogyasszon el egy kiadós román vacsorát egy helyi étteremben.",
+        "ro": "Dimineață: Începeți ziua în Parcul Central și onorați istoria orașului la Monumentul Minerului. Prânz: După vizitarea Bisericii Sf. Nicolae și a Palatului Cultural, pătrundeți în identitatea locală la Muzeul Mineritului. După-amiază: O plimbare mai lungă vă va duce la gară, un simbol al epocii industriale, unde puteți reflecta la transformarea orașului. Seară: Savurați o cină românească consistentă la un restaurant local.",
+        "en": "Morning: Start your day in the Central Park and honor the city's history at the Miner's Monument. Midday: After visiting St. Nicholas Church and the Palace of Culture, delve into the local identity at the Mining Museum. Afternoon: A longer walk takes you to the train station, a symbol of the industrial era, to reflect on the city's transformation. Evening: Enjoy a hearty Romanian dinner at a local restaurant."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "Eine traditionelle Kuttelsuppe, kräftig und sättigend."
+          },
+          {
+            "name": "Mici mit Pommes",
+            "tip": "Gegrillte Hackfleischröllchen, ein rumänischer Klassiker."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Frittierte Quarkknödel mit saurer Sahne und Marmelade zum Nachtisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csorba (pacalleves)",
+            "tip": "Hagyományos pacalleves, erőteljes és laktató."
+          },
+          {
+            "name": "Mics sült krumplival",
+            "tip": "Grillezett fasírtrolád, egy román klasszikus."
+          },
+          {
+            "name": "Papanasi",
+            "tip": "Túrófánk tejföllel és lekvárral desszertként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "O ciorbă tradițională, consistentă și sățioasă."
+          },
+          {
+            "name": "Mici cu cartofi prăjiți",
+            "tip": "Un clasic românesc, nelipsit de la orice masă."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Gogoși de brânză de vaci prăjite, servite cu smântână și dulceață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ciorbă de burtă (Tripe soup)",
+            "tip": "A traditional tripe soup, hearty and filling."
+          },
+          {
+            "name": "Mici with fries",
+            "tip": "Grilled minced meat rolls, a Romanian classic."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Fried cheese doughnuts with sour cream and jam for dessert."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Zentralpark",
+            "tip": "Finden Sie eine ruhige Bank und beobachten Sie das tägliche Leben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Jiu",
+            "tip": "Ein kurzer Spaziergang zum Flussufer kann sehr beruhigend sein.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi Park",
+            "tip": "Keressen egy csendes padot, és figyelje a mindennapi életet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Zsil partja",
+            "tip": "Egy rövid séta a folyóparton nagyon megnyugtató lehet.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Central",
+            "tip": "Găsiți o bancă liniștită și observați viața de zi cu zi.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malul Jiului",
+            "tip": "O scurtă plimbare pe malul râului poate fi foarte liniștitoare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Park",
+            "tip": "Find a quiet bench and watch the daily life unfold.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the Jiu River",
+            "tip": "A short walk to the riverbank can be very calming.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte und traditionellen Käse (brânză)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket és hagyományos sajtot (brânză)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse proaspete și brânză tradițională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for fresh produce and traditional cheese (brânză)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Tour komplett zu Fuß ist.",
+          "Planen Sie genügend Zeit für das Bergbaumuseum ein; es ist das Highlight.",
+          "Prüfen Sie die Öffnungszeiten der Kirche, da diese variieren können.",
+          "Einige Wege können uneben sein, seien Sie also vorsichtig."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a túra teljes egészében gyalogos.",
+          "Szánjon elegendő időt a Bányászati Múzeumra; ez a fénypont.",
+          "Ellenőrizze a templom nyitvatartási idejét, mert az változhat.",
+          "Néhány útvonal egyenetlen lehet, ezért legyen óvatos."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece turul este în întregime pietonal.",
+          "Alocați suficient timp pentru Muzeul Mineritului; este punctul culminant.",
+          "Verificați programul de vizitare al bisericii, deoarece poate varia.",
+          "Unele trotuare pot fi denivelate, așa că fiți prudenți."
+        ],
+        "en": [
+          "Wear comfortable shoes as the tour is entirely on foot.",
+          "Allocate plenty of time for the Mining Museum; it's the highlight.",
+          "Check the church's visiting hours as they can vary.",
+          "Some pavements can be uneven, so be careful."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:23",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Lupeni",
+            "hu": "Lupényi vasútállomás",
+            "ro": "Gara Lupeni",
+            "en": "Lupeni Train Station"
+          },
+          "coords": [
+            23.245,
+            45.362
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie am industriellen Tor der Stadt, um ihre Wurzeln zu verstehen.",
+            "hu": "Kezdje a város ipari kapujánál, hogy megértse a gyökereit.",
+            "ro": "Începeți la poarta industrială a orașului pentru a-i înțelege rădăcinile.",
+            "en": "Start at the city's industrial gateway to understand its roots."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergbaumuseum",
+            "hu": "Bányászati Múzeum",
+            "ro": "Muzeul Mineritului",
+            "en": "Mining Museum"
+          },
+          "coords": [
+            23.235,
+            45.358
+          ],
+          "category": "museums",
+          "arrive_at": "09:32",
+          "stay_min": 120,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und nehmen Sie sich Zeit für diese wichtige Ausstellung.",
+            "hu": "Zárja le a biciklit, és szánjon időt erre a fontos kiállításra.",
+            "ro": "Asigurați-vă bicicleta și acordați-vă timp pentru această expoziție esențială.",
+            "en": "Lock up your bike and take your time for this essential exhibition."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Nikolaus",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "Saint Nicholas Church"
+          },
+          "coords": [
+            23.229,
+            45.355
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Eine kurze Radtour zu diesem Ort der Ruhe und des Glaubens.",
+            "hu": "Egy rövid biciklitúra a nyugalom és a hit ezen helyére.",
+            "ro": "O scurtă plimbare cu bicicleta până la acest lăcaș de liniște și credință.",
+            "en": "A short bike ride to this place of peace and faith."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturpalast der Bergleute",
+            "hu": "Bányász Kultúrpalota",
+            "ro": "Palatul Cultural Minerul",
+            "en": "Miner's Palace of Culture"
+          },
+          "coords": [
+            23.228,
+            45.353
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:21",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Leicht mit dem Fahrrad zu erreichen, werfen Sie einen Blick auf dieses architektonische Juwel.",
+            "hu": "Könnyen elérhető kerékpárral, vessen egy pillantást erre az építészeti gyöngyszemre.",
+            "ro": "Ușor de ajuns cu bicicleta, aruncați o privire la această bijuterie arhitecturală.",
+            "en": "Easily accessible by bike, take a look at this architectural gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergmannsdenkmal",
+            "hu": "Bányász-emlékmű",
+            "ro": "Monumentul Minerului",
+            "en": "The Miner's Monument"
+          },
+          "coords": [
+            23.233,
+            45.354
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:57",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Halten Sie für einen Moment inne, um über die Bedeutung dieses Denkmals nachzudenken.",
+            "hu": "Álljon meg egy pillanatra, hogy elgondolkodjon az emlékmű jelentőségén.",
+            "ro": "Opriți-vă pentru un moment pentru a reflecta la semnificația acestui monument.",
+            "en": "Pause for a moment to reflect on the significance of this monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentralpark",
+            "hu": "Központi Park",
+            "ro": "Parcul Central",
+            "en": "Central Park"
+          },
+          "coords": [
+            23.2315,
+            45.3522
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour hier, vielleicht mit einem Picknick.",
+            "hu": "Fejezze be itt a kerékpártúrát, esetleg egy piknikkel.",
+            "ro": "Încheiați turul cu bicicleta aici, poate cu un picnic.",
+            "en": "End your bike tour here, perhaps with a picnic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Starten Sie Ihre Radtour am Bahnhof und fahren Sie zum Bergbaumuseum, um in die Vergangenheit einzutauchen. Mittag: Nach dem Museum radeln Sie zur Nikolaikirche und zum Kulturpalast für eine Dosis Kultur. Halten Sie am Bergmannsdenkmal inne. Nachmittag: Entspannen Sie sich im Zentralpark, dem perfekten Ort, um Ihre Tour ausklingen zu lassen und die Eindrücke des Tages zu verarbeiten. Abend: Suchen Sie sich ein Restaurant in der Nähe des Parks für ein wohlverdientes Abendessen.",
+        "hu": "Reggel: Kezdje a kerékpártúrát a vasútállomásról, és tekerjen a Bányászati Múzeumhoz, hogy elmerüljön a múltban. Dél: A múzeum után biciklizzen el a Szent Miklós-templomhoz és a Kultúrpalotához egy adag kultúráért. Álljon meg a Bányász-emlékműnél. Délután: Pihenjen a Központi Parkban, amely tökéletes hely a túra befejezéséhez és a napi benyomások feldolgozásához. Este: Keressen egy éttermet a park közelében egy jól megérdemelt vacsorához.",
+        "ro": "Dimineață: Începeți turul pe bicicletă de la gară și mergeți la Muzeul Mineritului pentru o incursiune în trecut. Prânz: După muzeu, pedalați spre Biserica Sfântul Nicolae și Palatul Cultural pentru o doză de cultură. Opriți-vă la Monumentul Minerului. După-amiază: Relaxați-vă în Parcul Central, locul perfect pentru a încheia turul și a asimila impresiile zilei. Seară: Căutați un restaurant lângă parc pentru o cină binemeritată.",
+        "en": "Morning: Start your bike tour from the train station and ride to the Mining Museum for a dive into the past. Midday: After the museum, cycle to St. Nicholas Church and the Palace of Culture for a dose of culture. Pause at the Miner's Monument. Afternoon: Relax in the Central Park, the perfect place to end your tour and absorb the day's impressions. Evening: Find a restaurant near the park for a well-deserved dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tochitură",
+            "tip": "Ein herzhafter Eintopf mit Fleisch und Polenta, perfekt nach einer Radtour."
+          },
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "Ein salziger Kuchen mit Käse, ideal für einen schnellen Happen."
+          },
+          {
+            "name": "Socată",
+            "tip": "Ein erfrischendes Holunderblütengetränk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tokány",
+            "tip": "Kiadós pörkölt hússal és puliszkával, tökéletes egy biciklitúra után."
+          },
+          {
+            "name": "Sajtos pite (Plăcintă)",
+            "tip": "Sós pite sajttal, ideális egy gyors harapnivalóhoz."
+          },
+          {
+            "name": "Bodza szörp (Socată)",
+            "tip": "Frissítő bodzavirág ital."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tochitură",
+            "tip": "O tocană consistentă cu carne și mămăliguță, perfectă după un tur cu bicicleta."
+          },
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "O plăcintă sărată, ideală pentru o gustare rapidă."
+          },
+          {
+            "name": "Socată",
+            "tip": "O băutură răcoritoare din flori de soc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tochitură",
+            "tip": "A hearty stew with meat and polenta, perfect after a bike tour."
+          },
+          {
+            "name": "Plăcintă cu brânză (Cheese pie)",
+            "tip": "A savory pie with cheese, ideal for a quick bite."
+          },
+          {
+            "name": "Socată (Elderflower drink)",
+            "tip": "A refreshing elderflower beverage."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Zentralpark",
+            "tip": "Legen Sie sich ins Gras und genießen Sie die Ruhe.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi Park",
+            "tip": "Feküdjön le a fűbe, és élvezze a csendet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Central",
+            "tip": "Întindeți-vă pe iarbă și bucurați-vă de liniște.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Park",
+            "tip": "Lie down on the grass and enjoy the quiet.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handwerksläden",
+            "tip": "Suchen Sie nach handgefertigten Souvenirs aus Holz oder Wolle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keressen kézzel készített fa- vagy gyapjú ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Căutați suveniruri lucrate manual din lemn sau lână."
+          }
+        ],
+        "en": [
+          {
+            "name": "Craft shops",
+            "tip": "Look for handmade souvenirs made of wood or wool."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen.",
+          "Die Stadt ist relativ flach, aber einige kleine Steigungen sind möglich.",
+          "Schließen Sie Ihr Fahrrad immer sicher ab, wenn Sie es abstellen.",
+          "Nehmen Sie eine Flasche Wasser mit, besonders an warmen Tagen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket.",
+          "A város viszonylag sík, de előfordulhatnak kisebb emelkedők.",
+          "Mindig zárja le biztonságosan a kerékpárt, ha leteszi.",
+          "Vigyen magával egy üveg vizet, különösen meleg napokon."
+        ],
+        "ro": [
+          "Verificați bicicleta înainte de a porni, în special frânele.",
+          "Orașul este relativ plat, dar sunt posibile câteva pante mici.",
+          "Legați întotdeauna bicicleta în siguranță când o parcați.",
+          "Luați o sticlă cu apă, mai ales în zilele calde."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes.",
+          "The city is relatively flat, but some small slopes are possible.",
+          "Always lock your bike securely when you park it.",
+          "Take a bottle of water with you, especially on warm days."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 25.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentralpark (Parkplatz)",
+            "hu": "Központi Park (Parkoló)",
+            "ro": "Parcul Central (Parcare)",
+            "en": "Central Park (Parking)"
+          },
+          "coords": [
+            23.2315,
+            45.3522
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie das Stadtzentrum zu Fuß.",
+            "hu": "Parkoljon le itt, és fedezze fel a városközpontot gyalog.",
+            "ro": "Parcați aici și explorați centrul orașului pe jos.",
+            "en": "Park here and explore the city center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergmannsdenkmal",
+            "hu": "Bányász-emlékmű",
+            "ro": "Monumentul Minerului",
+            "en": "The Miner's Monument"
+          },
+          "coords": [
+            23.233,
+            45.354
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:26",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Park zu diesem wichtigen Symbol der Stadt.",
+            "hu": "Egy rövid séta a parktól a város e fontos szimbólumához.",
+            "ro": "O scurtă plimbare de la parc la acest simbol important al orașului.",
+            "en": "A short walk from the park to this important city symbol."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergbaumuseum",
+            "hu": "Bányászati Múzeum",
+            "ro": "Muzeul Mineritului",
+            "en": "Mining Museum"
+          },
+          "coords": [
+            23.235,
+            45.358
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Höhepunkt des Stadtrundgangs, planen Sie genügend Zeit ein.",
+            "hu": "A városnézés csúcspontja, szánjon rá elegendő időt.",
+            "ro": "Punctul culminant al turului orașului, alocați suficient timp.",
+            "en": "The highlight of the city tour, allow plenty of time."
+          }
+        },
+        {
+          "name": {
+            "de": "Skigebiet Straja",
+            "hu": "Straja síterep",
+            "ro": "Stațiunea Straja",
+            "en": "Straja Ski Resort"
+          },
+          "coords": [
+            23.25,
+            45.31
+          ],
+          "category": "natural features",
+          "arrive_at": "12:28",
+          "stay_min": 150,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 12,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie in die Berge für frische Luft und eine andere Perspektive. Im Sommer ideal zum Wandern.",
+            "hu": "Autózzon fel a hegyekbe a friss levegőért és egy másfajta perspektíváért. Nyáron ideális túrázáshoz.",
+            "ro": "Conduceți spre munți pentru aer curat și o perspectivă diferită. Ideal pentru drumeții vara.",
+            "en": "Drive up to the mountains for fresh air and a different perspective. Ideal for hiking in summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Straja-Kreuz",
+            "hu": "Strajai Kereszt",
+            "ro": "Crucea din Straja",
+            "en": "Straja Cross"
+          },
+          "coords": [
+            23.252,
+            45.308
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:06",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubende Aussicht vom Kreuz auf die umliegenden Berge.",
+            "hu": "Élvezze a kereszttől a környező hegyekre nyíló lélegzetelállító kilátást.",
+            "ro": "Bucurați-vă de priveliștea uimitoare de la cruce asupra munților din jur.",
+            "en": "Enjoy the breathtaking view from the cross over the surrounding mountains."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr nach Lupeni",
+            "hu": "Visszatérés Lupénybe",
+            "ro": "Întoarcere în Lupeni",
+            "en": "Return to Lupeni"
+          },
+          "coords": [
+            23.23,
+            45.35
+          ],
+          "category": "travel",
+          "arrive_at": "16:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zurück in die Stadt, um den Tag bei einem gemütlichen Abendessen ausklingen zu lassen.",
+            "hu": "Hajtson vissza a városba, hogy egy kellemes vacsorával zárja a napot.",
+            "ro": "Conduceți înapoi în oraș pentru a încheia ziua cu o cină relaxantă.",
+            "en": "Drive back to town to end the day with a relaxing dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Parken Sie im Zentrum von Lupeni und erkunden Sie zu Fuß das Bergmannsdenkmal und das aufschlussreiche Bergbaumuseum. Mittag: Nach dem Museumsbesuch fahren Sie in das Bergresort Straja. Genießen Sie ein Mittagessen mit Aussicht und die frische Bergluft. Nachmittag: Machen Sie einen kurzen Spaziergang zum Straja-Kreuz für eine spektakuläre Panoramaaussicht, bevor Sie nach Lupeni zurückkehren. Abend: Lassen Sie den Tag mit einem wohlverdienten Abendessen in einem der traditionellen Restaurants der Stadt ausklingen.",
+        "hu": "Reggel: Parkoljon Lupény központjában, és fedezze fel gyalog a Bányász-emlékművet és a tanulságos Bányászati Múzeumot. Dél: A múzeumlátogatás után autózzon fel a Straja hegyi üdülőhelyre. Ebédeljen a kilátásban gyönyörködve, és élvezze a friss hegyi levegőt. Délután: Tegyen egy rövid sétát a Strajai Kereszthez a látványos panorámáért, mielőtt visszatérne Lupénybe. Este: Zárja a napot egy jól megérdemelt vacsorával a város egyik hagyományos éttermében.",
+        "ro": "Dimineață: Parcați în centrul Lupeniului și explorați pe jos Monumentul Minerului și revelatorul Muzeu al Mineritului. Prânz: După vizita la muzeu, conduceți spre stațiunea montană Straja. Savurați prânzul cu o priveliște minunată și aer curat de munte. După-amiază: Faceți o scurtă plimbare până la Crucea din Straja pentru o panoramă spectaculoasă, înainte de a vă întoarce în Lupeni. Seară: Încheiați ziua cu o cină binemeritată la unul dintre restaurantele tradiționale ale orașului.",
+        "en": "Morning: Park in the center of Lupeni and explore the Miner's Monument and the insightful Mining Museum on foot. Midday: After the museum visit, drive up to the Straja mountain resort. Enjoy lunch with a view and the fresh mountain air. Afternoon: Take a short walk to the Straja Cross for a spectacular panoramic view before returning to Lupeni. Evening: End the day with a well-deserved dinner at one of the city's traditional restaurants."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bulz ciobănesc",
+            "tip": "Ein gebackener Polenta-Ball, gefüllt mit Käse und Speck, ein Gericht der Hirten."
+          },
+          {
+            "name": "Pastramă de oaie",
+            "tip": "Geräuchertes und gewürztes Lammfleisch, eine Spezialität der Bergregionen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bulz (juhász puliszka)",
+            "tip": "Sült puliszkagombóc sajttal és szalonnával töltve, egy igazi pásztorétel."
+          },
+          {
+            "name": "Juh pasztrámi",
+            "tip": "Füstölt és fűszerezett bárányhús, a hegyvidéki régiók specialitása."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bulz ciobănesc",
+            "tip": "O bilă de mămăligă coaptă, umplută cu brânză și slănină, o mâncare de păstor."
+          },
+          {
+            "name": "Pastramă de oaie",
+            "tip": "Carne de oaie afumată și condimentată, o specialitate a regiunilor montane."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bulz ciobănesc (Shepherd's polenta ball)",
+            "tip": "A baked polenta ball filled with cheese and bacon, a shepherd's dish."
+          },
+          {
+            "name": "Pastramă de oaie (Mutton pastrami)",
+            "tip": "Smoked and spiced mutton, a specialty of the mountain regions."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt in Straja",
+            "tip": "Finden Sie einen ruhigen Ort abseits der Pisten und genießen Sie die Stille der Berge.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Straja-Kreuz bei Sonnenuntergang",
+            "tip": "Wenn es die Zeit erlaubt, ist der Sonnenuntergang hier magisch.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópont Straján",
+            "tip": "Keressen egy csendes helyet a sípályáktól távol, és élvezze a hegyek csendjét.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Strajai Kereszt naplementekor",
+            "tip": "Ha az idő engedi, a naplemente itt varázslatos.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere în Straja",
+            "tip": "Găsiți un loc liniștit departe de pârtii și bucurați-vă de tăcerea munților.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Crucea din Straja la apus",
+            "tip": "Dacă timpul vă permite, apusul aici este magic.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint in Straja",
+            "tip": "Find a quiet spot away from the slopes and enjoy the silence of the mountains.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Straja Cross at sunset",
+            "tip": "If time permits, the sunset here is magical.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs aus Straja",
+            "tip": "In Straja finden Sie oft Stände mit lokalen Handwerksprodukten und Bergkräutertees."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándéktárgyak Strajából",
+            "tip": "Straján gyakran talál standokat helyi kézműves termékekkel és hegyi gyógyteákkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri din Straja",
+            "tip": "În Straja veți găsi adesea standuri cu produse de artizanat local și ceaiuri din plante de munte."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenirs from Straja",
+            "tip": "In Straja, you will often find stalls with local handicrafts and mountain herbal teas."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Straßenbedingungen nach Straja, besonders im Winter.",
+          "In Straja kann es eine Parkgebühr geben.",
+          "Nehmen Sie sowohl für die Stadt als auch für die Berge geeignete Kleidung mit.",
+          "Die Fahrt in die Berge dauert seine Zeit, planen Sie sie gut ein."
+        ],
+        "hu": [
+          "Ellenőrizze az útviszonyokat Straja felé, különösen télen.",
+          "Straján parkolási díj lehet.",
+          "Vigyen magával a városba és a hegyekbe is megfelelő ruházatot.",
+          "A hegyi út időbe telik, tervezze meg jól."
+        ],
+        "ro": [
+          "Verificați starea drumului spre Straja, mai ales iarna.",
+          "S-ar putea să existe o taxă de parcare în Straja.",
+          "Luați haine potrivite atât pentru oraș, cât și pentru munte.",
+          "Drumul spre munte durează, planificați-l bine."
+        ],
+        "en": [
+          "Check the road conditions to Straja, especially in winter.",
+          "There may be a parking fee in Straja.",
+          "Bring suitable clothing for both the city and the mountains.",
+          "The drive to the mountains takes time, so plan it well."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 24.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentralpark",
+            "hu": "Központi Park",
+            "ro": "Parcul Central",
+            "en": "Central Park"
+          },
+          "coords": [
+            23.2315,
+            45.3522
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie im Stadtzentrum, das mit lokalen Bussen leicht erreichbar ist.",
+            "hu": "Kezdje a városközpontban, amely helyi buszokkal könnyen megközelíthető.",
+            "ro": "Începeți în centrul orașului, ușor accesibil cu autobuzele locale.",
+            "en": "Start in the city center, easily accessible by local buses."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergbaumuseum",
+            "hu": "Bányászati Múzeum",
+            "ro": "Muzeul Mineritului",
+            "en": "Mining Museum"
+          },
+          "coords": [
+            23.235,
+            45.358
+          ],
+          "category": "museums",
+          "arrive_at": "09:44",
+          "stay_min": 120,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Park zum wichtigsten Museum der Stadt.",
+            "hu": "Egy rövid séta a parktól a város legfontosabb múzeumáig.",
+            "ro": "O scurtă plimbare de la parc la cel mai important muzeu al orașului.",
+            "en": "A short walk from the park to the most important museum in town."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Nikolaus",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "Saint Nicholas Church"
+          },
+          "coords": [
+            23.229,
+            45.355
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Durchqueren Sie das Stadtzentrum, um dieses ruhige Gotteshaus zu erreichen.",
+            "hu": "Sétáljon át a városközponton, hogy elérje ezt a csendes imaházat.",
+            "ro": "Traversați centrul orașului pentru a ajunge la acest lăcaș de cult liniștit.",
+            "en": "Cross the city center to reach this quiet house of worship."
+          }
+        },
+        {
+          "name": {
+            "de": "Skigebiet Straja",
+            "hu": "Straja síterep",
+            "ro": "Stațiunea Straja",
+            "en": "Straja Ski Resort"
+          },
+          "coords": [
+            23.25,
+            45.31
+          ],
+          "category": "natural features",
+          "arrive_at": "13:22",
+          "stay_min": 150,
+          "hop_from_prev_min": 48,
+          "hop_from_prev_km": 12,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus oder ein Sammeltaxi nach Straja. Informieren Sie sich vorab über die Fahrpläne.",
+            "hu": "Vegyen buszt vagy iránytaxit Strajába. Előzetesen tájékozódjon a menetrendről.",
+            "ro": "Luați un autobuz sau un maxi-taxi spre Straja. Verificați orarele în avans.",
+            "en": "Take a bus or a shared taxi to Straja. Check the schedules in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Straja-Kreuz",
+            "hu": "Strajai Kereszt",
+            "ro": "Crucea din Straja",
+            "en": "Straja Cross"
+          },
+          "coords": [
+            23.252,
+            45.308
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer, aber lohnender Spaziergang vom Hauptbereich des Resorts.",
+            "hu": "Egy rövid, de megérő séta a síterep központi részétől.",
+            "ro": "O plimbare scurtă, dar plină de satisfacții, de la zona principală a stațiunii.",
+            "en": "A short but rewarding walk from the main resort area."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr nach Lupeni",
+            "hu": "Visszatérés Lupénybe",
+            "ro": "Întoarcere în Lupeni",
+            "en": "Return to Lupeni"
+          },
+          "coords": [
+            23.23,
+            45.35
+          ],
+          "category": "travel",
+          "arrive_at": "17:15",
+          "stay_min": 0,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 12,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Planen Sie Ihre Rückfahrt sorgfältig, da die letzten Busse möglicherweise früh fahren.",
+            "hu": "Tervezze meg gondosan a visszautat, mert az utolsó buszok korán indulhatnak.",
+            "ro": "Planificați-vă cu atenție călătoria de întoarcere, deoarece ultimele autobuze pot pleca devreme.",
+            "en": "Plan your return trip carefully, as the last buses may leave early."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Nutzen Sie die lokalen Busse, um ins Zentrum von Lupeni zu gelangen. Beginnen Sie mit einem Spaziergang, der Sie zum Bergbaumuseum und zur Nikolaikirche führt. Mittag: Nehmen Sie nach der Erkundung der Stadt einen Bus in die Berge nach Straja. Genießen Sie die Höhe und ein Mittagessen in einem der Bergrestaurants. Nachmittag: Erkunden Sie die Umgebung von Straja zu Fuß, einschließlich des beeindruckenden Kreuzes. Stellen Sie sicher, dass Sie den letzten Bus zurück in die Stadt nicht verpassen. Abend: Zurück in Lupeni belohnen Sie sich mit einem traditionellen Abendessen.",
+        "hu": "Reggel: Használja a helyi buszokat Lupény központjába. Kezdje egy sétával, amely elvezeti a Bányászati Múzeumhoz és a Szent Miklós-templomhoz. Dél: Miután felfedezte a várost, szálljon buszra a hegyekbe, Strajába. Élvezze a magasságot és egy ebédet az egyik hegyi étteremben. Délután: Fedezze fel gyalog Straja környékét, beleértve a lenyűgöző keresztet is. Ügyeljen arra, hogy ne késse le az utolsó buszt vissza a városba. Este: Visszatérve Lupénybe, jutalmazza meg magát egy hagyományos vacsorával.",
+        "ro": "Dimineață: Folosiți autobuzele locale pentru a ajunge în centrul Lupeniului. Începeți cu o plimbare care vă duce la Muzeul Mineritului și la Biserica Sfântul Nicolae. Prânz: După ce ați explorat orașul, luați un autobuz spre munte, la Straja. Bucurați-vă de altitudine și de un prânz la unul dintre restaurantele montane. După-amiază: Explorați pe jos împrejurimile stațiunii Straja, inclusiv impresionanta cruce. Asigurați-vă că nu pierdeți ultimul autobuz înapoi în oraș. Seară: Întors în Lupeni, răsplătiți-vă cu o cină tradițională.",
+        "en": "Morning: Use local buses to get to the center of Lupeni. Start with a walk that takes you to the Mining Museum and St. Nicholas Church. Midday: After exploring the city, take a bus up to the mountains to Straja. Enjoy the altitude and a lunch at one of the mountain restaurants. Afternoon: Explore the surroundings of Straja on foot, including the impressive cross. Make sure you don't miss the last bus back to the city. Evening: Back in Lupeni, reward yourself with a traditional dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ciorbă rădăuțeană",
+            "tip": "Eine cremige Hühnersuppe mit Knoblauch, eine leichtere Alternative zur Kuttelsuppe."
+          },
+          {
+            "name": "Mămăligă cu brânză și smântână",
+            "tip": "Polenta mit Käse und saurer Sahne, ein einfaches, aber köstliches Gericht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Radóci csorba",
+            "tip": "Krémes csirkeleves fokhagymával, a pacalleves könnyebb alternatívája."
+          },
+          {
+            "name": "Puliszka túróval és tejföllel",
+            "tip": "Egyszerű, de finom étel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciorbă rădăuțeană",
+            "tip": "O supă cremoasă de pui cu usturoi, o alternativă mai ușoară la ciorba de burtă."
+          },
+          {
+            "name": "Mămăligă cu brânză și smântână",
+            "tip": "Un fel de mâncare simplu, dar delicios."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ciorbă rădăuțeană (Rădăuți-style soup)",
+            "tip": "A creamy chicken soup with garlic, a lighter alternative to tripe soup."
+          },
+          {
+            "name": "Mămăligă cu brânză și smântână (Polenta with cheese and sour cream)",
+            "tip": "A simple but delicious dish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Busfahrt durch die Landschaft",
+            "tip": "Schauen Sie aus dem Fenster und genießen Sie die vorbeiziehende Landschaft auf dem Weg nach Straja.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás a tájon át",
+            "tip": "Nézzen ki az ablakon, és élvezze az elhaladó tájat a Strajába vezető úton.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O călătorie cu autobuzul prin peisaj",
+            "tip": "Priviți pe fereastră și bucurați-vă de peisajul care trece în drum spre Straja.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bus ride through the landscape",
+            "tip": "Look out the window and enjoy the passing scenery on the way to Straja.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Suchen Sie nach Honig aus der Bergregion, der für seine Qualität bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Keressen a hegyvidéki régióból származó, minőségéről ismert mézet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Căutați miere din regiunea montană, renumită pentru calitatea sa."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local honey",
+            "tip": "Look for honey from the mountain region, known for its quality."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Bustickets im Voraus oder haben Sie Kleingeld bereit.",
+          "Die Busfahrpläne nach Straja können saisonal sein, überprüfen Sie sie online oder vor Ort.",
+          "Fragen Sie Einheimische nach dem richtigen Bus; sie sind normalerweise hilfsbereit.",
+          "Seien Sie flexibel, öffentliche Verkehrsmittel in ländlichen Gebieten können unvorhersehbar sein."
+        ],
+        "hu": [
+          "Vásároljon buszjegyet előre, vagy készítsen elő aprópénzt.",
+          "A strajai buszmenetrend szezonális lehet, ellenőrizze online vagy a helyszínen.",
+          "Kérdezze meg a helyieket a megfelelő buszról; általában segítőkészek.",
+          "Legyen rugalmas, a tömegközlekedés a vidéki területeken kiszámíthatatlan lehet."
+        ],
+        "ro": [
+          "Cumpărați bilete de autobuz în avans sau pregătiți bani mărunți.",
+          "Orarele autobuzelor spre Straja pot fi sezoniere, verificați-le online sau la fața locului.",
+          "Întrebați localnicii despre autobuzul corect; de obicei sunt de ajutor.",
+          "Fiți flexibil, transportul public în zonele rurale poate fi imprevizibil."
+        ],
+        "en": [
+          "Buy bus tickets in advance or have small change ready.",
+          "Bus schedules to Straja can be seasonal, check them online or locally.",
+          "Ask locals for the right bus; they are usually helpful.",
+          "Be flexible, public transport in rural areas can be unpredictable."
+        ]
+      }
+    }
+  }
+}

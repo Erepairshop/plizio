@@ -1,0 +1,1152 @@
+{
+  "city_id": "spain-gandia-cities-v2",
+  "anchor": {
+    "name": "Gandia",
+    "coords": [
+      -0.1833,
+      38.9667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Gandia (Ajuntament)",
+            "hu": "Gandia városháza (Ajuntament)",
+            "ro": "Primăria din Gandia (Ajuntament)",
+            "en": "Gandia Town Hall (Ajuntament)"
+          },
+          "coords": [
+            -0.183,
+            38.967
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neoklassizistische Fassade, ein beliebter Treffpunkt für Einheimische.",
+            "hu": "Csodálja meg a neoklasszikus homlokzatot, a helyiek kedvelt találkozóhelyét.",
+            "ro": "Admirați fațada neoclasică, un loc de întâlnire popular pentru localnici.",
+            "en": "Admire the neoclassical facade, a popular meeting point for locals."
+          }
+        },
+        {
+          "name": {
+            "de": "Antigua Universidad (Escuelas Pías)",
+            "hu": "Régi Egyetem (Escuelas Pías)",
+            "ro": "Universitatea Veche (Escuelas Pías)",
+            "en": "Old University (Escuelas Pías)"
+          },
+          "coords": [
+            -0.182,
+            38.9685
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Dies ist eine der ersten Universitäten Europas, gegründet von der Familie Borgia.",
+            "hu": "Ez Európa egyik első egyeteme, amelyet a Borgia család alapított.",
+            "ro": "Aceasta este una dintre primele universități din Europa, fondată de familia Borgia.",
+            "en": "This is one of Europe's first universities, founded by the Borgia family."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche Santa Maria",
+            "hu": "Santa Maria társkáptalani templom",
+            "ro": "Colegiata Santa Maria",
+            "en": "Collegiate Church of Santa Maria"
+          },
+          "coords": [
+            -0.18,
+            38.968
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Mischung aus valencianischer Gotik und späteren barocken Elementen.",
+            "hu": "Figyelje meg a valenciai gótika és a későbbi barokk elemek keveredését.",
+            "ro": "Observați amestecul de stil gotic valencian și elemente baroce ulterioare.",
+            "en": "Look for the mix of Valencian Gothic style and later Baroque additions."
+          }
+        },
+        {
+          "name": {
+            "de": "Palau Ducal dels Borja",
+            "hu": "Borgia hercegi palota",
+            "ro": "Palatul Ducal al familiei Borja",
+            "en": "Ducal Palace of the Borja"
+          },
+          "coords": [
+            -0.181,
+            38.9675
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil, um den prunkvollen Goldenen Saal zu sehen.",
+            "hu": "Vegyen részt egy vezetett túrán, hogy megnézze a pazar Aranytermet.",
+            "ro": "Participați la un tur ghidat pentru a vedea opulenta Sală de Aur.",
+            "en": "Join a guided tour to see the opulent Golden Hall."
+          }
+        },
+        {
+          "name": {
+            "de": "MAGa - Archäologisches Museum von Gandia",
+            "hu": "MAGa - Gandia Régészeti Múzeuma",
+            "ro": "MAGa - Muzeul Arheologic din Gandia",
+            "en": "MAGa - Archaeological Museum of Gandia"
+          },
+          "coords": [
+            -0.179,
+            38.9665
+          ],
+          "category": "museums",
+          "arrive_at": "13:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Das Museum befindet sich im alten Krankenhaus des Heiligen Markus und zeigt paläolithische Funde.",
+            "hu": "A múzeum a régi Szent Márk kórházban található, és paleolit leleteket mutat be.",
+            "ro": "Muzeul este găzduit în vechiul spital Sf. Marcu și prezintă descoperiri din paleolitic.",
+            "en": "The museum is housed in the old Saint Marc's Hospital and showcases Paleolithic findings."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de Cultura Marqués de González de Quirós",
+            "hu": "Marqués de González de Quirós Kultúrház",
+            "ro": "Casa de Cultură Marqués de González de Quirós",
+            "en": "Marqués de González de Quirós House of Culture"
+          },
+          "coords": [
+            -0.178,
+            38.965
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Veranstaltungsplan für kostenlose Ausstellungen oder Konzerte.",
+            "hu": "Nézze meg a programfüzetet ingyenes kiállításokért vagy koncertekért.",
+            "ro": "Verificați programul pentru expoziții sau concerte gratuite.",
+            "en": "Check the event schedule for free exhibitions or concerts."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen der Altstadt von Gandia, rund um den von der neoklassizistischen Fassade des Rathauses dominierten Platz. Tauchen Sie am Vormittag in die Geschichte der Borgia ein und besuchen Sie die Alte Universität und die Stiftskirche, die die Macht der Familie demonstrieren. Verbringen Sie den Nachmittag damit, die opulenten Räume des Herzogspalastes zu erkunden, gefolgt von einem tiefen Einblick in die prähistorische Vergangenheit der Region im Archäologischen Museum. Schließen Sie Ihren Tag mit einem kulturellen Ausklang im Kulturhaus ab und genießen Sie die lebendige Atmosphäre dieser historischen Stadt.",
+        "hu": "Kezdje a napot Gandia óvárosának szívében, a városháza neoklasszikus homlokzata által uralt téren. Délelőtt merüljön el a Borgiák történelmében a Régi Egyetem és a társkáptalani templom meglátogatásával, amelyek a család hatalmát tükrözik. Töltse a délutánt a hercegi palota pazar termeinek felfedezésével, majd mélyedjen el a régió őskori múltjában a Régészeti Múzeumban. Zárja a napot egy kulturális programmal a Kultúrházban, élvezve ennek a történelmi városnak a vibráló hangulatát.",
+        "ro": "Începeți ziua în inima orașului vechi din Gandia, în jurul pieței dominate de fațada neoclasică a Primăriei. Dimineața, cufundați-vă în istoria familiei Borgia vizitând Universitatea Veche și Colegiata, care demonstrează puterea familiei. Petreceți după-amiaza explorând încăperile opulente ale Palatului Ducal, urmată de o incursiune în trecutul preistoric al regiunii la Muzeul Arheologic. Încheiați ziua cu o notă culturală la Casa de Cultură, bucurându-vă de atmosfera vibrantă a acestui oraș istoric.",
+        "en": "Start your day in the heart of Gandia's old town, around the square dominated by the Town Hall's neoclassical facade. In the morning, immerse yourself in the history of the Borgias by visiting the Old University and the Collegiate Church, showcasing the family's power. Spend the afternoon exploring the opulent rooms of the Ducal Palace, followed by a deep dive into the region's prehistoric past at the Archaeological Museum. Conclude your day with a cultural touch at the House of Culture, soaking in the vibrant atmosphere of this historic city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fideuà",
+            "tip": "Das lokale Nudelgericht, ähnlich der Paella. Probieren Sie es im Casa Jose oder Telero."
+          },
+          {
+            "name": "Gambas con acelgas",
+            "tip": "Garnelen mit Mangold, ein traditionelles Gericht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fideuà",
+            "tip": "A paellához hasonló helyi tésztaétel. Kóstolja meg a Casa Jose vagy a Telero étteremben."
+          },
+          {
+            "name": "Gambas con acelgas",
+            "tip": "Garnélarák mángolddal, egy hagyományos fogás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fideuà",
+            "tip": "Mâncarea locală de paste, similară cu paella. Încercați-o la Casa Jose sau Telero."
+          },
+          {
+            "name": "Gambas con acelgas",
+            "tip": "Creveți cu sfeclă mangold, o mâncare tradițională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fideuà",
+            "tip": "The local noodle dish, similar to paella. Try it at Casa Jose or Telero."
+          },
+          {
+            "name": "Gambas con acelgas",
+            "tip": "Prawns with chard, a traditional dish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardí de la Casa de Cultura",
+            "tip": "Ein kleiner, friedlicher Garten neben dem Kulturhaus.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Flusses Serpis",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses, der durch die Stadt fließt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Kultúrház kertje",
+            "tip": "Egy kicsi, békés kert a Kultúrház mellett.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Serpis folyó partja",
+            "tip": "Egy csendes séta a városon átfolyó folyó mentén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Casei de Cultură",
+            "tip": "O grădină mică și liniștită lângă Casa de Cultură.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malurile râului Serpis",
+            "tip": "O plimbare liniștită de-a lungul râului care traversează orașul.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Garden of the House of Culture",
+            "tip": "A small, peaceful garden next to the House of Culture.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the Serpis River",
+            "tip": "A quiet walk along the river that runs through the city.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercat Municipal del Prado",
+            "tip": "Ein lokaler Markt, auf dem Sie frische Produkte und lokale Spezialitäten finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercat Municipal del Prado",
+            "tip": "Helyi piac, ahol friss termékeket és helyi különlegességeket talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercat Municipal del Prado",
+            "tip": "O piață locală unde puteți găsi produse proaspete și specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercat Municipal del Prado",
+            "tip": "A local market where you can find fresh produce and local specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Viele Geschäfte halten eine Siesta, planen Sie also Ihre Einkäufe am Vormittag oder späten Nachmittag.",
+          "Nehmen Sie viel Wasser mit, besonders in den Sommermonaten."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros macskakövei egyenetlenek lehetnek.",
+          "Sok üzlet sziesztát tart, ezért a vásárlást délelőttre vagy késő délutánra időzítse.",
+          "Vigyen magával sok vizet, különösen a nyári hónapokban."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din centrul vechi poate fi denivelat.",
+          "Multe magazine au siestă, așa că planificați-vă cumpărăturile dimineața sau după-amiaza târziu.",
+          "Luați multă apă cu dumneavoastră, mai ales în lunile de vară."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Many shops observe a siesta, so plan your shopping for the morning or late afternoon.",
+          "Bring plenty of water, especially during the summer months."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:44",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus und Plaça Major",
+            "hu": "Városháza és Plaça Major",
+            "ro": "Primăria și Plaça Major",
+            "en": "Town Hall and Plaça Major"
+          },
+          "coords": [
+            -0.183,
+            38.967
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihren Tag im Herzen der Stadt, ideal für einen Morgenkaffee.",
+            "hu": "Kezdje a napot a város szívében, ideális egy reggeli kávéhoz.",
+            "ro": "Începeți ziua în inima orașului, ideal pentru o cafea de dimineață.",
+            "en": "Start your day in the heart of the city, perfect for a morning coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Palau Ducal dels Borja",
+            "hu": "Borgia hercegi palota",
+            "ro": "Palatul Ducal al familiei Borja",
+            "en": "Ducal Palace of the Borja"
+          },
+          "coords": [
+            -0.181,
+            38.9675
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad in der Nähe ab und nehmen Sie sich Zeit, die beeindruckenden Innenräume zu erkunden.",
+            "hu": "Zárja le a kerékpárját a közelben, és szánjon időt a lenyűgöző belső terek felfedezésére.",
+            "ro": "Încuiați bicicleta în apropiere și acordați-vă timp pentru a explora interioarele impresionante.",
+            "en": "Lock your bike nearby and take your time exploring the impressive interiors."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche Santa Maria",
+            "hu": "Santa Maria társkáptalani templom",
+            "ro": "Colegiata Santa Maria",
+            "en": "Collegiate Church of Santa Maria"
+          },
+          "coords": [
+            -0.18,
+            38.968
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:48",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Halt, um die valencianische Gotik dieses historischen Schatzes zu bewundern.",
+            "hu": "Egy rövid megálló, hogy megcsodálhassa ennek a történelmi kincsnek a valenciai gótikáját.",
+            "ro": "O oprire scurtă pentru a admira stilul gotic valencian al acestei comori istorice.",
+            "en": "A quick stop to admire the Valencian Gothic style of this historic gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Gandia (El Grau)",
+            "hu": "Gandia kikötője (El Grau)",
+            "ro": "Portul din Gandia (El Grau)",
+            "en": "Port of Gandia (El Grau)"
+          },
+          "coords": [
+            -0.155,
+            38.99
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Fischerboote und genießen Sie die Meeresbrise. Ein guter Ort für ein Mittagessen mit Meeresfrüchten.",
+            "hu": "Nézze a halászhajókat és élvezze a tengeri szellőt. Jó hely egy tengeri herkentyűs ebédhez.",
+            "ro": "Priviți bărcile de pescuit și bucurați-vă de briza mării. Un loc bun pentru un prânz cu fructe de mare.",
+            "en": "Watch the fishing boats and enjoy the sea breeze. A great spot for a seafood lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Gandia",
+            "hu": "Gandia strandja",
+            "ro": "Plaja din Gandia",
+            "en": "Playa de Gandia"
+          },
+          "coords": [
+            -0.16,
+            38.995
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:31",
+          "stay_min": 180,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am goldenen Sandstrand oder machen Sie einen Spaziergang entlang der langen Promenade. Perfekt für einen langen Nachmittag.",
+            "hu": "Pihenjen az aranyhomokos strandon vagy sétáljon egyet a hosszú sétányon. Tökéletes egy hosszú délutánra.",
+            "ro": "Relaxați-vă pe nisipul auriu sau faceți o plimbare de-a lungul promenadei lungi. Perfect pentru o după-amiază lungă.",
+            "en": "Relax on the golden sands or take a stroll along the long promenade. Perfect for a long afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Sonnenuntergang am Strand",
+            "hu": "Naplemente a tengerparton",
+            "ro": "Apus de soare pe plajă",
+            "en": "Sunset at the Beach"
+          },
+          "coords": [
+            -0.162,
+            39.0
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum nördlichen Ende des Strandes für eine ungestörte Aussicht, während die Sonne untergeht.",
+            "hu": "Kerékpározzon a strand északi végére a zavartalan kilátásért, miközben a nap lenyugszik.",
+            "ro": "Mergeți cu bicicleta la capătul de nord al plajei pentru o priveliște neobstrucționată la apus.",
+            "en": "Cycle to the northern end of the beach for an unobstructed view as the sun sets."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour im historischen Zentrum von Gandia und genießen Sie die Atmosphäre der Plaça Major. Besuchen Sie am Vormittag den prächtigen Herzogspalast der Borgia, bevor Sie einen kurzen Halt an der Stiftskirche Santa Maria einlegen. Am späten Vormittag radeln Sie zum geschäftigen Hafen, El Grau, wo Sie die Fischer bei der Arbeit beobachten können. Der gesamte Nachmittag ist dem goldenen Sand der Playa de Gandia gewidmet. Entspannen Sie sich, schwimmen Sie oder schlendern Sie die Promenade entlang, bevor Sie Ihren Tag mit einem malerischen Sonnenuntergang am Meer beenden.",
+        "hu": "Kezdje a kerékpártúrát Gandia történelmi központjában, élvezve a Plaça Major hangulatát. Délelőtt látogasson el a Borgiák pazar hercegi palotájába, mielőtt rövid megállót tenne a Santa Maria társkáptalani templomnál. Késő délelőtt tekerjen a nyüzsgő kikötőbe, El Grau-ba, ahol megnézheti a halászokat munka közben. Az egész délutánt a Playa de Gandia aranyhomokos partján töltse. Pihenjen, ússzon vagy sétáljon a sétányon, mielőtt egy festői naplementével zárja a napot a tengerparton.",
+        "ro": "Începeți turul cu bicicleta în centrul istoric al Gandiei, bucurându-vă de atmosfera din Plaça Major. Dimineața, vizitați magnificul Palat Ducal al familiei Borgia înainte de o oprire rapidă la Colegiata Santa Maria. Spre sfârșitul dimineții, pedalați spre portul aglomerat, El Grau, unde puteți urmări pescarii la lucru. Întreaga după-amiază este dedicată nisipurilor aurii de la Playa de Gandia. Relaxați-vă, înotați sau plimbați-vă pe promenadă înainte de a încheia ziua cu un apus pitoresc pe malul mării.",
+        "en": "Start your bike tour in the historic center of Gandia, soaking up the atmosphere of Plaça Major. In the morning, visit the magnificent Ducal Palace of the Borja before a quick stop at the Collegiate Church of Santa Maria. In the late morning, cycle to the bustling port, El Grau, where you can watch the fishermen at work. The entire afternoon is dedicated to the golden sands of Playa de Gandia. Relax, swim, or stroll along the promenade before ending your day with a picturesque sunset by the sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fideuà de Gandia",
+            "tip": "Ein Muss! Probieren Sie das Originalgericht in einem Restaurant am Strand."
+          },
+          {
+            "name": "Naranjas",
+            "tip": "Die Region ist berühmt für ihre Orangen. Kaufen Sie einige auf einem lokalen Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fideuà de Gandia",
+            "tip": "Kötelező! Kóstolja meg az eredeti ételt egy tengerparti étteremben."
+          },
+          {
+            "name": "Naranjas",
+            "tip": "A régió híres a narancsairól. Vegyen néhányat egy helyi piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fideuà de Gandia",
+            "tip": "O necesitate! Încercați preparatul original la un restaurant pe plajă."
+          },
+          {
+            "name": "Naranjas",
+            "tip": "Regiunea este renumită pentru portocalele sale. Cumpărați câteva de la o piață locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fideuà de Gandia",
+            "tip": "A must-try! Taste the original dish at a beachfront restaurant."
+          },
+          {
+            "name": "Naranjas",
+            "tip": "The region is famous for its oranges. Buy some from a local market."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Marjal de Gandia",
+            "tip": "Ein Feuchtgebiet etwas außerhalb der Stadt, ideal für eine ruhige Radtour und Vogelbeobachtung.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Nördliches Ende der Playa de Gandia",
+            "tip": "Weniger überlaufen als der zentrale Teil, perfekt für eine ruhige Zeit.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marjal de Gandia",
+            "tip": "Egy vizes élőhely a városon kívül, ideális egy csendes kerékpártúrához és madármegfigyeléshez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Playa de Gandia északi vége",
+            "tip": "Kevésbé zsúfolt, mint a központi rész, tökéletes egy kis nyugalomra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marjal de Gandia",
+            "tip": "O zonă umedă chiar în afara orașului, excelentă pentru o plimbare liniștită cu bicicleta și observarea păsărilor.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Capătul de nord al Plajei de Gandia",
+            "tip": "Mai puțin aglomerat decât secțiunea centrală, perfect pentru un moment de liniște.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Marjal de Gandia",
+            "tip": "A wetland just outside the city, great for a quiet bike ride and birdwatching.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Northern end of Playa de Gandia",
+            "tip": "Less crowded than the central section, perfect for some quiet time.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Paseo Marítimo Neptuno",
+            "tip": "Die Promenade ist gesäumt von kleinen Geschäften, die Strandkleidung und Souvenirs verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paseo Marítimo Neptuno",
+            "tip": "A sétány tele van kis üzletekkel, ahol strandruhákat és szuveníreket árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paseo Marítimo Neptuno",
+            "tip": "Promenada este plină de mici magazine care vând haine de plajă și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Paseo Marítimo Neptuno",
+            "tip": "The promenade is lined with small shops selling beachwear and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Radwege, besonders entlang der Küste.",
+          "Einige Straßen in der Altstadt sind eng, steigen Sie eventuell ab und schieben Sie.",
+          "Schließen Sie Ihr Fahrrad immer an, auch für kurze Stopps."
+        ],
+        "hu": [
+          "Használja a kerékpárutakat, különösen a tengerpart mentén.",
+          "Az óváros niektóre utcái szűkek, lehet, hogy le kell szállnia és tolnia kell.",
+          "Mindig zárja le a kerékpárját, még rövid megállók esetén is."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete, în special de-a lungul coastei.",
+          "Unele străzi din centrul vechi sunt înguste, s-ar putea să trebuiască să descălecați și să mergeți pe jos.",
+          "Încuiați-vă întotdeauna bicicleta, chiar și pentru opriri scurte."
+        ],
+        "en": [
+          "Use the bike lanes, especially along the coast.",
+          "Some streets in the old town are narrow, you might need to dismount and walk.",
+          "Always lock your bike, even for short stops."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:39",
+      "total_km": 9.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken & Erkundung des historischen Zentrums",
+            "hu": "Parkolás és a történelmi központ felfedezése",
+            "ro": "Parcare și explorarea centrului istoric",
+            "en": "Park & Explore Historic Center"
+          },
+          "coords": [
+            -0.184,
+            38.969
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Tiefgarage Plaça del Prado. Der erste Halt ist der Rathausplatz.",
+            "hu": "Parkoljon a Plaça del Prado mélygarázsában. Az első megálló a városháza tere.",
+            "ro": "Parcați în parcarea subterană Plaça del Prado. Prima oprire este piața primăriei.",
+            "en": "Park in the Plaça del Prado underground parking. The first stop is the town hall square."
+          }
+        },
+        {
+          "name": {
+            "de": "Palau Ducal und Stiftskirche",
+            "hu": "Hercegi Palota és Társkáptalani Templom",
+            "ro": "Palatul Ducal și Colegiata",
+            "en": "Ducal Palace and Collegiate Church"
+          },
+          "coords": [
+            -0.181,
+            38.9675
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:23",
+          "stay_min": 120,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden Hauptattraktionen liegen nebeneinander. Kaufen Sie ein Kombiticket, wenn verfügbar.",
+            "hu": "Ez a két fő látnivaló egymás mellett található. Ha van, vegyen kombinált jegyet.",
+            "ro": "Aceste două atracții principale sunt una lângă cealaltă. Cumpărați un bilet combinat, dacă este disponibil.",
+            "en": "These two main attractions are next to each other. Buy a combination ticket if available."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum von Gandia (MAGa)",
+            "hu": "Gandia Régészeti Múzeuma (MAGa)",
+            "ro": "Muzeul Arheologic din Gandia (MAGa)",
+            "en": "Archaeological Museum of Gandia (MAGa)"
+          },
+          "coords": [
+            -0.179,
+            38.9665
+          ],
+          "category": "museums",
+          "arrive_at": "11:28",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Palast entfernt. Ein Muss für Geschichtsliebhaber.",
+            "hu": "Rövid sétára a palotától. A történelem kedvelőinek kötelező.",
+            "ro": "La o scurtă plimbare de palat. O vizită obligatorie pentru pasionații de istorie.",
+            "en": "A short walk from the palace. A must-see for history enthusiasts."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt und Parken am Strand von Gandia",
+            "hu": "Autózás és parkolás a Gandia strandnál",
+            "ro": "Conduceți și parcați la plaja Gandia",
+            "en": "Drive & Park at Gandia Beach"
+          },
+          "coords": [
+            -0.165,
+            38.998
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:56",
+          "stay_min": 10,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Strandbereich. Suchen Sie nach gebührenpflichtigen Parkplätzen in der Nähe der Promenade für leichten Zugang.",
+            "hu": "Vezessen a strand területére. Keressen fizetős parkolóhelyeket a sétány közelében a könnyű hozzáférés érdekében.",
+            "ro": "Conduceți spre zona plajei. Căutați parcare cu plată aproape de promenadă pentru acces facil.",
+            "en": "Drive to the beach area. Look for paid parking near the promenade for easy access."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Entspannung am Strand",
+            "hu": "Ebéd és pihenés a tengerparton",
+            "ro": "Prânz și relaxare pe plajă",
+            "en": "Lunch and Beach Relaxation"
+          },
+          "coords": [
+            -0.16,
+            38.995
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:11",
+          "stay_min": 210,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie ein Mittagessen mit Fideuà in einem Chiringuito (Strandrestaurant) und entspannen Sie sich am Nachmittag am Meer.",
+            "hu": "Ebédeljen egy Fideuà-t egy chiringuitóban (tengerparti étterem), és pihenjen délután a tengerparton.",
+            "ro": "Savurați un prânz cu fideuà la un chiringuito (restaurant pe plajă) și relaxați-vă pe malul mării după-amiaza.",
+            "en": "Enjoy a Fideuà lunch at a chiringuito (beach restaurant) and relax by the sea for the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag, indem Sie im historischen Zentrum von Gandia parken. Der Vormittag ist der Erkundung des Erbes der Borgia gewidmet, mit einem Spaziergang, der den Herzogspalast, die Stiftskirche und das Archäologische Museum umfasst. Nach dem Eintauchen in die Geschichte fahren Sie zum berühmten Strand von Gandia. Verbringen Sie den Rest des Tages entspannt: Genießen Sie ein authentisches Mittagessen am Meer, schwimmen Sie im Mittelmeer und sonnen Sie sich an den goldenen Sandstränden, ganz ohne Stress durch Parkplatzsuche.",
+        "hu": "Kezdje a napot a történelmi központban való parkolással. A délelőttöt a Borgia-örökség felfedezésének szentelje, egy sétával, amely magában foglalja a hercegi palotát, a társkáptalani templomot és a Régészeti Múzeumot. A történelemben való elmélyülés után autózzon el Gandia híres strandjára. Töltse a nap hátralévő részét pihenéssel: ebédeljen egy autentikus tengerparti ebédet, ússzon a Földközi-tengerben, és napozzon az aranyhomokos parton, mindezt a parkolási gondok nélkül.",
+        "ro": "Începeți ziua parcând în centrul istoric al Gandiei. Dimineața este dedicată explorării moștenirii Borgia, cu o plimbare care acoperă Palatul Ducal, Colegiata și Muzeul Arheologic. După imersiunea în istorie, conduceți spre faimoasa plajă din Gandia. Petreceți restul zilei în modul de relaxare: savurați un prânz autentic pe malul mării, înotați în Mediterană și bucurați-vă de soare pe nisipul auriu, totul fără stresul de a căuta parcare.",
+        "en": "Start your day by parking in the historic center of Gandia. The morning is dedicated to exploring the Borgia heritage with a walking tour covering the Ducal Palace, the Collegiate Church, and the Archaeological Museum. After immersing yourself in history, drive to Gandia's famous beach. Spend the rest of the day in full relaxation mode: enjoy an authentic seaside lunch, swim in the Mediterranean, and soak up the sun on the golden sands, all without the stress of finding parking."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chiringuitos am Strand",
+            "tip": "Restaurants direkt am Sand, perfekt für frische Meeresfrüchte und Fideuà."
+          },
+          {
+            "name": "Horchata",
+            "tip": "Ein erfrischendes lokales Getränk aus Erdmandeln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chiringuitók a tengerparton",
+            "tip": "Éttermek közvetlenül a homokban, tökéletesek friss tengeri herkentyűkhöz és Fideuà-hoz."
+          },
+          {
+            "name": "Horchata",
+            "tip": "Egy frissítő helyi ital tigrismogyoróból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chiringuitos pe plajă",
+            "tip": "Restaurante chiar pe nisip, perfecte pentru fructe de mare proaspete și fideuà."
+          },
+          {
+            "name": "Horchata",
+            "tip": "O băutură locală răcoritoare făcută din alune tigrate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Beachside Chiringuitos",
+            "tip": "Restaurants right on the sand, perfect for fresh seafood and fideuà."
+          },
+          {
+            "name": "Horchata",
+            "tip": "A refreshing local drink made from tiger nuts."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt L'Ahuir",
+            "tip": "Fahren Sie ein kurzes Stück nördlich von Playa de Gandia für einen ruhigen Strand und Dünen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parc de l'Estació",
+            "tip": "Ein kleiner Park im Stadtzentrum, gut für eine kurze Pause von der Erkundung.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Ahuir kilátópont",
+            "tip": "Vezessen egy rövid távolságra a Playa de Gandia-tól északra egy csendes strandért és dűnékért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parc de l'Estació",
+            "tip": "Egy kis park a városközpontban, jó egy rövid szünetre a felfedezés közben.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere L'Ahuir",
+            "tip": "Conduceți o distanță scurtă la nord de Playa de Gandia pentru o plajă liniștită și dune.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parc de l'Estació",
+            "tip": "Un mic parc în centrul orașului, bun pentru o pauză rapidă de la explorare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Ahuir Viewpoint",
+            "tip": "Drive a short distance north of Playa de Gandia for a quiet beach and dunes.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parc de l'Estació",
+            "tip": "A small park in the city center, good for a quick break from exploring.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Carrer Major",
+            "tip": "Die Haupteinkaufsstraße in der Altstadt, voll von Boutiquen und bekannten Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Carrer Major",
+            "tip": "Az óváros fő bevásárlóutcája, tele butikokkal és ismert márkákkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Carrer Major",
+            "tip": "Principala stradă comercială din centrul vechi, plină de buticuri și mărci cunoscute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Carrer Major",
+            "tip": "The main shopping street in the old town, full of boutiques and well-known brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkhäuser sind die beste Option im historischen Zentrum.",
+          "Der Verkehr zum Strand kann im Sommer stark sein, planen Sie also zusätzliche Zeit ein.",
+          "Achten Sie auf die blauen Zonen (Zona Azul) für gebührenpflichtiges Parken auf der Straße."
+        ],
+        "hu": [
+          "A mélygarázsok a legjobb választás a történelmi központban.",
+          "A strand felé vezető forgalom nyáron nagy lehet, ezért tervezzen plusz időt.",
+          "Figyeljen a kék zónákra (Zona Azul) a fizetős utcai parkolásért."
+        ],
+        "ro": [
+          "Parcările subterane sunt cea mai bună opțiune în centrul istoric.",
+          "Traficul către plajă poate fi intens vara, așa că alocați timp suplimentar.",
+          "Fiți atenți la zonele albastre (Zona Azul) pentru parcarea stradală cu plată."
+        ],
+        "en": [
+          "Underground car parks are the best option in the historic center.",
+          "Traffic to the beach can be heavy in summer, so allow extra time.",
+          "Be aware of blue zones (Zona Azul) for paid on-street parking."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 8.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft im historischen Zentrum",
+            "hu": "Érkezés a történelmi központba",
+            "ro": "Sosire în centrul istoric",
+            "en": "Arrival at Historic Center"
+          },
+          "coords": [
+            -0.1835,
+            38.9695
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus zur Haltestelle 'Passeig de les Germanies'. Der Rathausplatz ist nur einen kurzen Spaziergang entfernt.",
+            "hu": "Vegyen egy helyi buszt a 'Passeig de les Germanies' megállóig. A Városháza tér rövid sétára található.",
+            "ro": "Luați un autobuz local până la stația 'Passeig de les Germanies'. Piața Primăriei este la o scurtă plimbare.",
+            "en": "Take a local bus to the 'Passeig de les Germanies' stop. The Town Hall square is a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Palau Ducal dels Borja",
+            "hu": "Borgia hercegi palota",
+            "ro": "Palatul Ducal al familiei Borja",
+            "en": "Ducal Palace of the Borja"
+          },
+          "coords": [
+            -0.181,
+            38.9675
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den beeindruckendsten Palast der Stadt, ein Zeugnis der Macht der Borgia.",
+            "hu": "Fedezze fel a város legimpozánsabb palotáját, a Borgiák hatalmának tanúbizonyságát.",
+            "ro": "Explorați cel mai impresionant palat din oraș, o mărturie a puterii familiei Borgia.",
+            "en": "Explore the city's most impressive palace, a testament to the Borgia's power."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche und Antigua Universidad",
+            "hu": "Társkáptalani templom és Régi Egyetem",
+            "ro": "Colegiata și Universitatea Veche",
+            "en": "Collegiate Church and Old University"
+          },
+          "coords": [
+            -0.1815,
+            38.9682
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beide Stätten sind eng mit der Familie Borgia verbunden und liegen nur wenige Schritte voneinander entfernt.",
+            "hu": "Mindkét helyszín szorosan kapcsolódik a Borgia családhoz, és csak néhány lépésre vannak egymástól.",
+            "ro": "Ambele situri sunt strâns legate de familia Borgia și sunt la doar câțiva pași unul de celălalt.",
+            "en": "Both sites are closely linked to the Borgia family and are just steps apart."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Strand (Playa de Gandia)",
+            "hu": "Buszozás a strandra (Playa de Gandia)",
+            "ro": "Călătorie cu autobuzul spre plajă (Playa de Gandia)",
+            "en": "Bus to the Beach (Playa de Gandia)"
+          },
+          "coords": [
+            -0.165,
+            38.998
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:25",
+          "stay_min": 10,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie die L2 (La Marina) Linie von der Stadt zum Strand. Steigen Sie in der Nähe der Promenade aus.",
+            "hu": "Vegye az L2-es (La Marina) vonalat a városból a strandra. Szálljon le a sétány közelében.",
+            "ro": "Luați linia L2 (La Marina) din oraș spre plajă. Coborâți lângă promenadă.",
+            "en": "Take the L2 (La Marina) line from the city to the beach. Get off near the promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen, Mittagessen und Strandzeit",
+            "hu": "Kikötő, ebéd és strandolás",
+            "ro": "Port, prânz și timp pe plajă",
+            "en": "Port, Lunch, and Beach Time"
+          },
+          "coords": [
+            -0.158,
+            38.992
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:40",
+          "stay_min": 240,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie zum Hafen, essen Sie in einem Restaurant zu Mittag und verbringen Sie den Nachmittag mit Entspannung am goldenen Sandstrand.",
+            "hu": "Sétáljon le a kikötőbe, ebédeljen egy étteremben, majd töltse a délutánt pihenéssel az aranyhomokos tengerparton.",
+            "ro": "Plimbați-vă până la port, luați prânzul la un restaurant și petreceți după-amiaza relaxându-vă pe nisipul auriu.",
+            "en": "Stroll to the port, have lunch at a restaurant, and spend the afternoon relaxing on the golden sand."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das effiziente Bussystem von Gandia, um Ihre Erkundung zu beginnen. Verbringen Sie den Vormittag im historischen Zentrum, wo Sie auf einem kurzen Rundgang das Erbe der Borgia, einschließlich des Palastes und der Universität, entdecken können. Am Mittag bringt Sie ein direkter Bus an die Küste. Der Nachmittag ist für die Freuden des Mittelmeers reserviert: Schlendern Sie durch den Hafen, genießen Sie ein köstliches Mittagessen mit Meeresfrüchten und entspannen Sie sich stundenlang am berühmten Strand von Gandia.",
+        "hu": "Használja Gandia hatékony buszrendszerét a felfedezés megkezdéséhez. Töltse a délelőttöt a történelmi központban, ahol egy rövid gyalogtúrán fedezheti fel a Borgia-örökséget, beleértve a palotát és az egyetemet. Délben egy közvetlen buszjárattal eljuthat a tengerpartra. A délután a Földközi-tenger örömeire van fenntartva: sétáljon a kikötőben, élvezzen egy finom tengeri herkentyűs ebédet, és pihenjen órákig Gandia híres strandján.",
+        "ro": "Folosiți sistemul eficient de autobuze din Gandia pentru a vă începe explorarea. Petreceți dimineața în centrul istoric, unde un scurt tur pietonal vă va dezvălui moștenirea Borgia, inclusiv palatul și universitatea. La prânz, un autobuz direct vă va duce la coastă. După-amiaza este rezervată plăcerilor Mediteranei: plimbați-vă prin port, savurați un prânz delicios cu fructe de mare și relaxați-vă ore în șir pe faimoasa plajă din Gandia.",
+        "en": "Use Gandia's efficient bus system to start your exploration. Spend the morning in the historic center, where a short walking tour will reveal the Borgia heritage, including the palace and university. At midday, a direct bus will take you to the coast. The afternoon is reserved for Mediterranean pleasures: stroll through the port, enjoy a delicious seafood lunch, and relax for hours on Gandia's famous beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fideuà",
+            "tip": "Probieren Sie es in El Grau, dem Hafenviertel, wo es angeblich erfunden wurde."
+          },
+          {
+            "name": "All i pebre",
+            "tip": "Ein würziger Aaleintopf, eine lokale Delikatesse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fideuà",
+            "tip": "Kóstolja meg El Grau-ban, a kikötői negyedben, ahol állítólag feltalálták."
+          },
+          {
+            "name": "All i pebre",
+            "tip": "Fűszeres angolnaragu, helyi különlegesség."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fideuà",
+            "tip": "Încercați-l în El Grau, cartierul portuar unde se spune că a fost inventat."
+          },
+          {
+            "name": "All i pebre",
+            "tip": "O tocană picantă de anghilă, o delicatesă locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fideuà",
+            "tip": "Try it in El Grau, the port district where it was reputedly invented."
+          },
+          {
+            "name": "All i pebre",
+            "tip": "A spicy eel stew, a local delicacy."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc de l'Estació",
+            "tip": "Ein zentraler Park in der Nähe der Bushaltestellen, ideal für eine Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "L'Alqueria del Duc",
+            "tip": "Ein ruhiges, restauriertes Bauernhaus in der Nähe des Strandes, umgeben von Natur.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc de l'Estació",
+            "tip": "Központi park a buszmegállók közelében, ideális egy kis szünetre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "L'Alqueria del Duc",
+            "tip": "Egy csendes, felújított parasztház a strand közelében, természettel körülvéve.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parc de l'Estació",
+            "tip": "Un parc central lângă stațiile de autobuz, ideal pentru o pauză.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "L'Alqueria del Duc",
+            "tip": "O fermă liniștită, restaurată, lângă plajă, înconjurată de natură.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc de l'Estació",
+            "tip": "A central park near the bus stops, great for taking a break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "L'Alqueria del Duc",
+            "tip": "A quiet, restored farmhouse near the beach, surrounded by nature.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markt in El Grau",
+            "tip": "Ein kleinerer Markt im Hafenviertel, der sich auf Meeresfrüchte und lokale Produkte konzentriert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piac El Grau-ban",
+            "tip": "Egy kisebb piac a kikötői negyedben, amely a tenger gyümölcseire és a helyi termékekre összpontosít."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața din El Grau",
+            "tip": "O piață mai mică în cartierul portuar, axată pe fructe de mare și produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market at El Grau",
+            "tip": "A smaller market in the port district, focusing on seafood and local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine 'SUMA 10'-Karte für ermäßigte Busfahrten.",
+          "Die Busse zum Strand (Linie L2) fahren häufig, besonders im Sommer.",
+          "Validieren Sie Ihr Ticket beim Einsteigen in den Bus."
+        ],
+        "hu": [
+          "Vásároljon 'SUMA 10' kártyát a kedvezményes buszutazásokhoz.",
+          "A strandra közlekedő buszok (L2-es vonal) gyakran járnak, különösen nyáron.",
+          "Érvényesítse a jegyét a buszra szálláskor."
+        ],
+        "ro": [
+          "Cumpărați un card 'SUMA 10' pentru călătorii cu autobuzul la preț redus.",
+          "Autobuzele spre plajă (linia L2) sunt frecvente, mai ales vara.",
+          "Validați-vă biletul la urcarea în autobuz."
+        ],
+        "en": [
+          "Buy a 'SUMA 10' card for discounted bus trips.",
+          "Buses to the beach (Line L2) are frequent, especially in summer.",
+          "Validate your ticket when you board the bus."
+        ]
+      }
+    }
+  }
+}

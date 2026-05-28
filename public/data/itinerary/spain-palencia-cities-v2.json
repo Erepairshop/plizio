@@ -1,0 +1,1484 @@
+{
+  "city_id": "spain-palencia-cities-v2",
+  "anchor": {
+    "name": "Palencia",
+    "coords": [
+      -4.5283,
+      42.0095
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:51",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Calle Mayor",
+            "hu": "Calle Mayor",
+            "ro": "Calle Mayor",
+            "en": "Calle Mayor"
+          },
+          "coords": [
+            -4.5295,
+            42.0085
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Die Hauptschlagader der Stadt, ideal für einen Morgenkaffee.",
+            "hu": "A város fő artériája, ideális egy reggeli kávéhoz.",
+            "ro": "Artera principală a orașului, ideală pentru o cafea de dimineață.",
+            "en": "The main artery of the city, perfect for a morning coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de San Miguel",
+            "hu": "San Miguel templom",
+            "ro": "Biserica San Miguel",
+            "en": "Church of San Miguel"
+          },
+          "coords": [
+            -4.5315,
+            42.007
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Achten Sie auf den gotischen Turm, der an eine Festung erinnert.",
+            "hu": "Figyelje meg az erődítményre emlékeztető gótikus tornyot.",
+            "ro": "Observați turnul gotic, care amintește de o fortăreață.",
+            "en": "Look for the Gothic tower, reminiscent of a fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Palencia",
+            "hu": "Palenciai katedrális",
+            "ro": "Catedrala din Palencia",
+            "en": "Cathedral of Palencia"
+          },
+          "coords": [
+            -4.5268,
+            42.0115
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Bekannt als „die unbekannte Schönheit“, suchen Sie nach der Gárgola del Fotógrafo.",
+            "hu": "„Az ismeretlen szépségként” is ismert, keresse meg a Fotós vízköpőjét.",
+            "ro": "Cunoscută ca „frumusețea necunoscută”, căutați garguiul fotografului.",
+            "en": "Known as 'the unknown beauty', look for the gargoyle of the photographer."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Palencia",
+            "hu": "Palenciai Múzeum",
+            "ro": "Muzeul din Palencia",
+            "en": "Museum of Palencia"
+          },
+          "coords": [
+            -4.5255,
+            42.012
+          ],
+          "category": "museums",
+          "arrive_at": "12:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Archäologische Funde, die die Geschichte der Region erzählen. Perfekt für den Mittag.",
+            "hu": "Régészeti leletek, melyek a régió történetét mesélik el. Tökéletes a déli órákra.",
+            "ro": "Descoperiri arheologice care spun povestea regiunii. Perfect pentru amiază.",
+            "en": "Archaeological finds that tell the history of the region. Perfect for midday."
+          }
+        },
+        {
+          "name": {
+            "de": "Puente Mayor",
+            "hu": "Puente Mayor",
+            "ro": "Puente Mayor",
+            "en": "Puente Mayor"
+          },
+          "coords": [
+            -4.5345,
+            42.0098
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:19",
+          "stay_min": 25,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Überqueren Sie die Brücke für eine tolle Aussicht auf den Fluss Carrión.",
+            "hu": "Sétáljon át a hídon a Carrión folyóra nyíló remek kilátásért.",
+            "ro": "Traversați podul pentru o priveliște superbă asupra râului Carrión.",
+            "en": "Cross the bridge for a great view of the Carrión River."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de San Lázaro",
+            "hu": "San Lázaro templom",
+            "ro": "Biserica San Lázaro",
+            "en": "Church of San Lázaro"
+          },
+          "coords": [
+            -4.522,
+            42.005
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Ein historisches Krankenhaus für Pilger, heute eine charmante Kirche.",
+            "hu": "Egykor zarándokok kórháza volt, ma egy bájos templom.",
+            "ro": "Un spital istoric pentru pelerini, acum o biserică fermecătoare.",
+            "en": "A historic hospital for pilgrims, now a charming church."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque del Salón de Isabel II",
+            "hu": "II. Izabella Szalon Park",
+            "ro": "Parcul Salonul Isabelei a II-a",
+            "en": "Parque del Salón de Isabel II"
+          },
+          "coords": [
+            -4.5325,
+            42.0125
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:16",
+          "stay_min": 95,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Entspannen Sie sich in diesem romantischen Garten, dem perfekten Abschluss Ihres Spaziergangs.",
+            "hu": "Pihenjen ebben a romantikus kertben, tökéletes lezárása a sétának.",
+            "ro": "Relaxați-vă în această grădină romantică, finalul perfect al plimbării.",
+            "en": "Relax in this romantic garden, the perfect end to your walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf der belebten Calle Mayor. Erkunden Sie am Vormittag die gotischen Juwelen der Stadt, die Kirche San Miguel und die majestätische Kathedrale. Nach einem Mittagessen voller lokaler Aromen tauchen Sie in die Geschichte im Museo de Palencia ein. Verbringen Sie den Nachmittag damit, den Fluss Carrión vom Puente Mayor aus zu bewundern und im ruhigen Parque del Salón zu entspannen, während der Abend naht.",
+        "hu": "Kezdje a napot a nyüzsgő Calle Mayoron. A délelőttöt a város gótikus gyöngyszemeinek, a San Miguel-templomnak és a fenséges katedrálisnak a felfedezésével töltse. Egy helyi ízekkel teli ebéd után merüljön el a történelemben a Palenciai Múzeumban. Délután csodálja meg a Carrión folyót a Puente Mayorról, és pihenjen a békés Parque del Salónban, ahogy közeledik az este.",
+        "ro": "Începeți ziua pe animata Calle Mayor. Petreceți dimineața explorând bijuteriile gotice ale orașului, Biserica San Miguel și maiestuoasa Catedrală. După un prânz cu arome locale, scufundați-vă în istorie la Muzeul din Palencia. Petreceți după-amiaza admirând râul Carrión de pe Puente Mayor și relaxându-vă în liniștitul Parque del Salón pe măsură ce se apropie seara.",
+        "en": "Start your day on the bustling Calle Mayor. Spend the morning exploring the city's Gothic gems, the Church of San Miguel and the majestic Cathedral. After a lunch filled with local flavours, delve into history at the Museum of Palencia. Spend the afternoon admiring the Carrión River from Puente Mayor and relaxing in the peaceful Parque del Salón as evening approaches."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lechazo Asado",
+            "tip": "Probieren Sie das berühmte Spanferkel, eine Spezialität von Kastilien und León. Suchen Sie nach einem 'Asador'."
+          },
+          {
+            "name": "Menestra de Verduras",
+            "tip": "Ein herzhafter Gemüseeintopf, der die Produkte der Region präsentiert."
+          },
+          {
+            "name": "Queso de Palencia",
+            "tip": "Lokaler Schafskäse, perfekt zu einem Glas Wein aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lechazo Asado",
+            "tip": "Kóstolja meg a híres sült bárányt, Kasztília és León specialitását. Keressen egy „Asador”-t."
+          },
+          {
+            "name": "Menestra de Verduras",
+            "tip": "Egy kiadós zöldségleves, amely a régió terményeit mutatja be."
+          },
+          {
+            "name": "Queso de Palencia",
+            "tip": "Helyi juhsajt, tökéletes egy pohár helyi borral."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lechazo Asado",
+            "tip": "Încercați faimosul miel la proțap, o specialitate din Castilia și León. Căutați un 'Asador'."
+          },
+          {
+            "name": "Menestra de Verduras",
+            "tip": "O tocană de legume consistentă, care prezintă produsele regiunii."
+          },
+          {
+            "name": "Queso de Palencia",
+            "tip": "Brânză locală de oaie, perfectă cu un pahar de vin local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lechazo Asado",
+            "tip": "Try the famous roast lamb, a speciality of Castile and León. Look for an 'Asador'."
+          },
+          {
+            "name": "Menestra de Verduras",
+            "tip": "A hearty vegetable stew showcasing the region's produce."
+          },
+          {
+            "name": "Queso de Palencia",
+            "tip": "Local sheep's cheese, perfect with a glass of local wine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Carrión-Flusses",
+            "tip": "Ein friedlicher Spaziergang abseits des Stadtzentrums.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Huerta de Guadián",
+            "tip": "Ein weiterer schöner Park, etwas ruhiger als der Salón.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Krypta der Kathedrale",
+            "tip": "Ein Ort der Stille und alten Geschichte unter der Hauptkirche.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Carrión folyó partja",
+            "tip": "Békés séta a városközponttól távolabb.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Huerta de Guadián",
+            "tip": "Egy másik gyönyörű park, kicsit csendesebb, mint a Salón.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Katedrális kriptája",
+            "tip": "A csend és az ősi történelem helye a főtemplom alatt.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Carrión",
+            "tip": "O plimbare liniștită departe de centrul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Huerta de Guadián",
+            "tip": "Un alt parc frumos, puțin mai liniștit decât Salón.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cripta Catedralei",
+            "tip": "Un loc de liniște și istorie veche sub biserica principală.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Carrión River",
+            "tip": "A peaceful walk away from the city center.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Huerta de Guadián",
+            "tip": "Another beautiful park, a bit quieter than the Salón.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cathedral Crypt",
+            "tip": "A place of silence and ancient history beneath the main church.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Calle Mayor",
+            "tip": "Von traditionellen Handwerksläden bis hin zu modernen Boutiquen ist hier alles zu finden."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Ein lokaler Markt, um frische Produkte und lokale Spezialitäten zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok a Calle Mayoron",
+            "tip": "A hagyományos kézműves boltoktól a modern butikokig mindent megtalál."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Helyi piac, ahol friss termékeket és helyi specialitásokat vásárolhat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine pe Calle Mayor",
+            "tip": "De la meșteșuguri tradiționale la buticuri moderne, găsiți totul aici."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "O piață locală pentru a cumpăra produse proaspete și specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops on Calle Mayor",
+            "tip": "From traditional craft shops to modern boutiques, find it all here."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "A local market to buy fresh produce and local specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum sehr gut zu Fuß zu erkunden ist.",
+          "Die meisten Sehenswürdigkeiten befinden sich in unmittelbarer Nähe zueinander.",
+          "Nehmen Sie sich Zeit für einen Kaffee auf einem der Plätze, um die Atmosphäre aufzusaugen.",
+          "Halten Sie Ausschau nach den vielen romanischen Kirchen, die in der ganzen Provinz verstreut sind, wenn Sie Zeit für einen Ausflug haben."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, a városközpont nagyon gyalogosbarát.",
+          "A legtöbb látnivaló sétatávolságra van egymástól.",
+          "Szánjon időt egy kávéra az egyik téren, hogy magába szívja a hangulatot.",
+          "Ha van ideje kirándulni, figyeljen a provincia-szerte található számos román stílusú templomra."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, centrul orașului este foarte prietenos pentru pietoni.",
+          "Majoritatea atracțiilor sunt la distanță de mers pe jos una de cealaltă.",
+          "Luați-vă timp pentru o cafea într-una din piețe pentru a absorbi atmosfera.",
+          "Fiți atenți la numeroasele biserici romanice împrăștiate în provincie, dacă aveți timp pentru o excursie."
+        ],
+        "en": [
+          "Wear comfortable shoes; the city center is very walkable.",
+          "Most sights are within a short walking distance of each other.",
+          "Take time for a coffee in one of the squares to soak up the atmosphere.",
+          "Look out for the many Romanesque churches scattered throughout the province if you have time for a trip."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 10.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parque del Salón de Isabel II",
+            "hu": "II. Izabella Szalon Park",
+            "ro": "Parcul Salonul Isabelei a II-a",
+            "en": "Parque del Salón de Isabel II"
+          },
+          "coords": [
+            -4.5325,
+            42.0125
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_4lang": {
+            "de": "Ein perfekter Ausgangspunkt mit viel Platz, um sich auf Ihr Fahrrad vorzubereiten.",
+            "hu": "Tökéletes kiindulópont, bőséges hellyel a kerékpár előkészítéséhez.",
+            "ro": "Un punct de plecare perfect, cu mult spațiu pentru a vă pregăti bicicleta.",
+            "en": "A perfect starting point with plenty of space to get your bike ready."
+          }
+        },
+        {
+          "name": {
+            "de": "Puente Mayor",
+            "hu": "Puente Mayor",
+            "ro": "Puente Mayor",
+            "en": "Puente Mayor"
+          },
+          "coords": [
+            -4.5345,
+            42.0098
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:46",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_4lang": {
+            "de": "Machen Sie eine Pause, um die Aussicht auf den Fluss zu genießen, bevor Sie ins Zentrum fahren.",
+            "hu": "Pihenjen meg, és élvezze a folyóra nyíló kilátást, mielőtt a központba indul.",
+            "ro": "Faceți o pauză pentru a admira priveliștea râului înainte de a vă îndrepta spre centru.",
+            "en": "Take a break to enjoy the river views before heading into the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Calle Mayor",
+            "hu": "Calle Mayor",
+            "ro": "Calle Mayor",
+            "en": "Calle Mayor"
+          },
+          "coords": [
+            -4.5295,
+            42.0085
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:11",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_4lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und erkunden Sie die Hauptgeschäftsstraße zu Fuß.",
+            "hu": "Zárja le a kerékpárját, és fedezze fel gyalog a fő bevásárlóutcát.",
+            "ro": "Legați-vă bicicleta și explorați principala stradă comercială pe jos.",
+            "en": "Lock up your bike and explore the main commercial street on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Palencia",
+            "hu": "Palenciai katedrális",
+            "ro": "Catedrala din Palencia",
+            "en": "Cathedral of Palencia"
+          },
+          "coords": [
+            -4.5268,
+            42.0115
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_4lang": {
+            "de": "Ein kurzer Aufstieg zur 'Unbekannten Schönheit'. Der Anblick ist es wert.",
+            "hu": "Egy rövid emelkedő az „Ismeretlen Szépség”-hez. A látvány megéri.",
+            "ro": "O scurtă urcare până la „Frumusețea Necunoscută”. Priveliștea merită.",
+            "en": "A short climb to the 'Unknown Beauty'. The sight is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebéd a városközpontban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the City Center"
+          },
+          "coords": [
+            -4.528,
+            42.01
+          ],
+          "category": "gastro",
+          "arrive_at": "12:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_4lang": {
+            "de": "Tanken Sie neue Energie mit einem 'Menú del día' in einem der vielen Restaurants.",
+            "hu": "Töltődjön fel egy „Menú del día”-val a számos étterem egyikében.",
+            "ro": "Refaceți-vă plinul cu un „Menú del día” la unul dintre numeroasele restaurante.",
+            "en": "Refuel with a 'Menú del día' at one of the many restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Cristo del Otero",
+            "hu": "Cristo del Otero",
+            "ro": "Cristo del Otero",
+            "en": "Cristo del Otero"
+          },
+          "coords": [
+            -4.545,
+            42.022
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:16",
+          "stay_min": 45,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_4lang": {
+            "de": "Der anspruchsvollste Teil der Fahrt. Die Aussicht von der riesigen Christusstatue ist Ihre Belohnung.",
+            "hu": "Az út legnehezebb része. A hatalmas Krisztus-szobortól nyíló kilátás a jutalom.",
+            "ro": "Cea mai dificilă parte a traseului. Priveliștea de la statuia gigantică a lui Hristos este recompensa.",
+            "en": "The most challenging part of the ride. The views from the giant Christ statue are your reward."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt entlang des Flusses",
+            "hu": "Visszaút a folyó mentén",
+            "ro": "Întoarcere pe malul râului",
+            "en": "Ride back along the river"
+          },
+          "coords": [
+            -4.538,
+            42.015
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:40",
+          "stay_min": 95,
+          "hop_from_prev_min": 39,
+          "hop_from_prev_km": 3.7,
+          "hop_mode": "bike",
+          "tip_4lang": {
+            "de": "Genießen Sie eine entspannte Fahrt zurück, folgen Sie dem Flusslauf für eine malerische Route.",
+            "hu": "Élvezze a pihentető visszaúton a festői útvonalat a folyó mentén.",
+            "ro": "Bucurați-vă de o plimbare relaxantă înapoi, urmând cursul râului pentru un traseu pitoresc.",
+            "en": "Enjoy a relaxed ride back, following the river path for a scenic route."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour im grünen Parque del Salón. Fahren Sie am Fluss Carrión entlang, überqueren Sie den historischen Puente Mayor und erkunden Sie die belebte Calle Mayor. Am Vormittag erwartet Sie die majestätische Kathedrale. Nach einem stärkenden Mittagessen nehmen Sie die Herausforderung an und radeln zum Cristo del Otero, um einen Panoramablick zu genießen. Beenden Sie den Tag mit einer gemütlichen Fahrt zurück entlang des Flusses, während die Nachmittagssonne scheint.",
+        "hu": "Kezdje a kerékpártúrát a zöldellő Parque del Salónban. Tekerjen a Carrión folyó mentén, keljen át a történelmi Puente Mayor hídon, majd fedezze fel a nyüzsgő Calle Mayort. A délelőtt folyamán a fenséges katedrális várja. Egy kiadós ebéd után vállalja a kihívást, és tekerjen fel a Cristo del Oteróhoz a panorámás kilátásért. Zárja a napot egy kellemes tekeréssel vissza a folyó mentén a délutáni napsütésben.",
+        "ro": "Începeți turul cu bicicleta în verdele Parque del Salón. Pedalați de-a lungul râului Carrión, traversați istoricul Puente Mayor și explorați animata Calle Mayor. Dimineața, vă așteaptă maiestuoasa Catedrală. După un prânz copios, acceptați provocarea de a pedala până la Cristo del Otero pentru vederi panoramice. Încheiați ziua cu o plimbare relaxantă înapoi de-a lungul râului în soarele de după-amiază.",
+        "en": "Start your bike tour in the leafy Parque del Salón. Cycle along the Carrión river, cross the historic Puente Mayor, and explore the bustling Calle Mayor. The majestic Cathedral awaits you in the morning. After a hearty lunch, take on the challenge of cycling up to the Cristo del Otero for panoramic views. End the day with a leisurely ride back along the river in the afternoon sun."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lechazo Asado",
+            "tip": "Probieren Sie das berühmte Spanferkel, eine Spezialität von Kastilien und León. Suchen Sie nach einem 'Asador'."
+          },
+          {
+            "name": "Menestra de Verduras",
+            "tip": "Ein herzhafter Gemüseeintopf, der die Produkte der Region präsentiert."
+          },
+          {
+            "name": "Queso de Palencia",
+            "tip": "Lokaler Schafskäse, perfekt zu einem Glas Wein aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lechazo Asado",
+            "tip": "Kóstolja meg a híres sült bárányt, Kasztília és León specialitását. Keressen egy „Asador”-t."
+          },
+          {
+            "name": "Menestra de Verduras",
+            "tip": "Egy kiadós zöldségleves, amely a régió terményeit mutatja be."
+          },
+          {
+            "name": "Queso de Palencia",
+            "tip": "Helyi juhsajt, tökéletes egy pohár helyi borral."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lechazo Asado",
+            "tip": "Încercați faimosul miel la proțap, o specialitate din Castilia și León. Căutați un 'Asador'."
+          },
+          {
+            "name": "Menestra de Verduras",
+            "tip": "O tocană de legume consistentă, care prezintă produsele regiunii."
+          },
+          {
+            "name": "Queso de Palencia",
+            "tip": "Brânză locală de oaie, perfectă cu un pahar de vin local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lechazo Asado",
+            "tip": "Try the famous roast lamb, a speciality of Castile and León. Look for an 'Asador'."
+          },
+          {
+            "name": "Menestra de Verduras",
+            "tip": "A hearty vegetable stew showcasing the region's produce."
+          },
+          {
+            "name": "Queso de Palencia",
+            "tip": "Local sheep's cheese, perfect with a glass of local wine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Carrión-Flusses",
+            "tip": "Ein friedlicher Spaziergang abseits des Stadtzentrums.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Huerta de Guadián",
+            "tip": "Ein weiterer schöner Park, etwas ruhiger als der Salón.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spitze des Cristo del Otero",
+            "tip": "Atemberaubende und windige Stille mit Blick auf die gesamte Region.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Carrión folyó partja",
+            "tip": "Békés séta a városközponttól távolabb.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Huerta de Guadián",
+            "tip": "Egy másik gyönyörű park, kicsit csendesebb, mint a Salón.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cristo del Otero csúcsa",
+            "tip": "Lélegzetelállító és szeles csend, kilátással az egész régióra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Carrión",
+            "tip": "O plimbare liniștită departe de centrul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Huerta de Guadián",
+            "tip": "Un alt parc frumos, puțin mai liniștit decât Salón.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vârful Cristo del Otero",
+            "tip": "Liniște uluitoare și vântoasă, cu vedere la întreaga regiune.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Carrión River",
+            "tip": "A peaceful walk away from the city center.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Huerta de Guadián",
+            "tip": "Another beautiful park, a bit quieter than the Salón.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Top of Cristo del Otero",
+            "tip": "Breathtaking and windy silence overlooking the entire region.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Calle Mayor",
+            "tip": "Von traditionellen Handwerksläden bis hin zu modernen Boutiquen ist hier alles zu finden."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Ein lokaler Markt, um frische Produkte und lokale Spezialitäten zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok a Calle Mayoron",
+            "tip": "A hagyományos kézműves boltoktól a modern butikokig mindent megtalál."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Helyi piac, ahol friss termékeket és helyi specialitásokat vásárolhat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine pe Calle Mayor",
+            "tip": "De la meșteșuguri tradiționale la buticuri moderne, găsiți totul aici."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "O piață locală pentru a cumpăra produse proaspete și specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops on Calle Mayor",
+            "tip": "From traditional craft shops to modern boutiques, find it all here."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "A local market to buy fresh produce and local specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Zustand Ihres Fahrrads, bevor Sie losfahren, besonders die Bremsen für den Abstieg vom Cristo.",
+          "Nehmen Sie Wasser mit, der Aufstieg kann anstrengend sein.",
+          "Die meisten zentralen Straßen sind flach, aber die Calle Mayor ist eine Fußgängerzone, also müssen Sie möglicherweise absteigen.",
+          "Nutzen Sie die Radwege entlang des Flusses für eine sichere und angenehme Fahrt."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpár állapotát, különösen a fékeket a Cristo-ról való leereszkedéshez.",
+          "Vigyen magával vizet, az emelkedő megerőltető lehet.",
+          "A legtöbb központi utca sík, de a Calle Mayor sétálóutca, így lehet, hogy le kell szállnia.",
+          "Használja a folyó menti kerékpárutakat a biztonságos és kellemes utazáshoz."
+        ],
+        "ro": [
+          "Verificați starea bicicletei înainte de a porni, în special frânele pentru coborârea de pe Cristo.",
+          "Luați apă cu dvs., urcarea poate fi obositoare.",
+          "Majoritatea străzilor centrale sunt plate, dar Calle Mayor este pietonală, așa că s-ar putea să trebuiască să mergeți pe jos.",
+          "Folosiți pistele de biciclete de-a lungul râului pentru o plimbare sigură și plăcută."
+        ],
+        "en": [
+          "Check your bike's condition before you start, especially the brakes for the descent from the Cristo.",
+          "Bring water with you; the climb can be strenuous.",
+          "Most central streets are flat, but Calle Mayor is pedestrianized, so you may need to dismount.",
+          "Use the bike paths along the river for a safe and enjoyable ride."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 7.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cristo del Otero",
+            "hu": "Cristo del Otero",
+            "ro": "Cristo del Otero",
+            "en": "Cristo del Otero"
+          },
+          "coords": [
+            -4.545,
+            42.022
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_4lang": {
+            "de": "Beginnen Sie Ihren Tag hier für die beste Morgenstimmung und Panoramablicke. Es gibt ausreichend Parkplätze.",
+            "hu": "Kezdje a napot itt a legjobb reggeli hangulatért és panorámás kilátásért. Bőséges parkolóhely áll rendelkezésre.",
+            "ro": "Începeți ziua aici pentru cea mai bună atmosferă de dimineață și vederi panoramice. Există parcare amplă.",
+            "en": "Start your day here for the best morning light and panoramic views. There's ample parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Parken und Spaziergang zum Zentrum",
+            "hu": "Parkolás és séta a központba",
+            "ro": "Parcați și mergeți pe jos spre centru",
+            "en": "Park and Walk to Center"
+          },
+          "coords": [
+            -4.528,
+            42.013
+          ],
+          "category": "historical",
+          "arrive_at": "09:58",
+          "stay_min": 0,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.7,
+          "hop_mode": "car",
+          "tip_4lang": {
+            "de": "Finden Sie einen Parkplatz in der Nähe der Kathedrale und beginnen Sie Ihren Spaziergang.",
+            "hu": "Keressen parkolóhelyet a katedrális közelében, és induljon a sétára.",
+            "ro": "Găsiți o parcare lângă catedrală și începeți plimbarea.",
+            "en": "Find a parking spot near the Cathedral area and start your walking cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Palencia",
+            "hu": "Palenciai katedrális",
+            "ro": "Catedrala din Palencia",
+            "en": "Cathedral of Palencia"
+          },
+          "coords": [
+            -4.5268,
+            42.0115
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Ihre erste Station im Stadtzentrum, die 'Unbekannte Schönheit'.",
+            "hu": "Az első megálló a városközpontban, az „Ismeretlen Szépség”.",
+            "ro": "Prima oprire în centrul orașului, „Frumusețea Necunoscută”.",
+            "en": "Your first stop in the city center cluster, the 'Unknown Beauty'."
+          }
+        },
+        {
+          "name": {
+            "de": "Calle Mayor",
+            "hu": "Calle Mayor",
+            "ro": "Calle Mayor",
+            "en": "Calle Mayor"
+          },
+          "coords": [
+            -4.5295,
+            42.0085
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:27",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Ein kurzer Spaziergang zur Hauptstraße für Shopping und Mittagessen.",
+            "hu": "Rövid séta a főutcára vásárláshoz és ebédhez.",
+            "ro": "O scurtă plimbare până la strada principală pentru cumpărături și prânz.",
+            "en": "A short walk to the main street for some shopping and lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Flussufer",
+            "hu": "Utazás a folyóparthoz",
+            "ro": "Călătorie spre malul râului",
+            "en": "Drive to the Riverfront"
+          },
+          "coords": [
+            -4.5335,
+            42.011
+          ],
+          "category": "historical",
+          "arrive_at": "13:33",
+          "stay_min": 0,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "hop_mode": "car",
+          "tip_4lang": {
+            "de": "Kehren Sie zu Ihrem Auto zurück und fahren Sie zum Parkplatz am Parque del Salón.",
+            "hu": "Térjen vissza az autójához, és vezessen a Parque del Salón melletti parkolóba.",
+            "ro": "Întoarceți-vă la mașină și conduceți spre parcarea de lângă Parque del Salón.",
+            "en": "Return to your car and drive to the parking area by Parque del Salón."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque del Salón und Puente Mayor",
+            "hu": "Parque del Salón és Puente Mayor",
+            "ro": "Parque del Salón și Puente Mayor",
+            "en": "Parque del Salón and Puente Mayor"
+          },
+          "coords": [
+            -4.5325,
+            42.0125
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:43",
+          "stay_min": 212,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Verbringen Sie den Rest des Nachmittags mit einem Spaziergang im Park und über die Brücke.",
+            "hu": "Töltse a délután hátralévő részét a parkban és a hídon sétálva.",
+            "ro": "Petreceți restul după-amiezii plimbându-vă prin parc și peste pod.",
+            "en": "Spend the rest of your afternoon walking in the park and across the bridge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens zum Cristo del Otero, um die atemberaubende Aussicht zu genießen. Parken Sie dann Ihr Auto in der Nähe des Zentrums für Ihren ersten Rundgang, der die majestätische Kathedrale und die belebte Calle Mayor umfasst, wo Sie zu Mittag essen. Am Nachmittag fahren Sie zum Flussufer. Parken Sie erneut und erkunden Sie den ruhigen Parque del Salón und den historischen Puente Mayor zu Fuß, um einen entspannten Tagesausklang zu erleben.",
+        "hu": "Reggel vezessen a Cristo del Oteróhoz a lélegzetelállító kilátásért. Ezután parkolja le autóját a központ közelében az első séta-klaszterhez, amely magában foglalja a fenséges katedrálist és a nyüzsgő Calle Mayort, ahol megebédel. Délután vezessen a folyóparthoz. Parkoljon újra, és fedezze fel gyalog a békés Parque del Salónt és a történelmi Puente Mayort a nap pihentető befejezéseként.",
+        "ro": "Dimineața, conduceți până la Cristo del Otero pentru vederi uluitoare. Apoi, parcați mașina lângă centru pentru primul grup de plimbări, acoperind maiestuoasa Catedrală și animata Calle Mayor, unde veți lua prânzul. După-amiaza, conduceți spre malul râului. Parcați din nou și explorați pe jos liniștitul Parque del Salón și istoricul Puente Mayor pentru un final relaxant al zilei.",
+        "en": "In the morning, drive up to the Cristo del Otero for breathtaking views. Then, park your car near the center for your first walking cluster, covering the majestic Cathedral and the bustling Calle Mayor, where you'll have lunch. In the afternoon, drive to the riverfront area. Park again, and explore the peaceful Parque del Salón and the historic Puente Mayor on foot for a relaxing end to the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lechazo Asado",
+            "tip": "Probieren Sie das berühmte Spanferkel, eine Spezialität von Kastilien und León. Suchen Sie nach einem 'Asador'."
+          },
+          {
+            "name": "Menestra de Verduras",
+            "tip": "Ein herzhafter Gemüseeintopf, der die Produkte der Region präsentiert."
+          },
+          {
+            "name": "Queso de Palencia",
+            "tip": "Lokaler Schafskäse, perfekt zu einem Glas Wein aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lechazo Asado",
+            "tip": "Kóstolja meg a híres sült bárányt, Kasztília és León specialitását. Keressen egy „Asador”-t."
+          },
+          {
+            "name": "Menestra de Verduras",
+            "tip": "Egy kiadós zöldségleves, amely a régió terményeit mutatja be."
+          },
+          {
+            "name": "Queso de Palencia",
+            "tip": "Helyi juhsajt, tökéletes egy pohár helyi borral."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lechazo Asado",
+            "tip": "Încercați faimosul miel la proțap, o specialitate din Castilia și León. Căutați un 'Asador'."
+          },
+          {
+            "name": "Menestra de Verduras",
+            "tip": "O tocană de legume consistentă, care prezintă produsele regiunii."
+          },
+          {
+            "name": "Queso de Palencia",
+            "tip": "Brânză locală de oaie, perfectă cu un pahar de vin local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lechazo Asado",
+            "tip": "Try the famous roast lamb, a speciality of Castile and León. Look for an 'Asador'."
+          },
+          {
+            "name": "Menestra de Verduras",
+            "tip": "A hearty vegetable stew showcasing the region's produce."
+          },
+          {
+            "name": "Queso de Palencia",
+            "tip": "Local sheep's cheese, perfect with a glass of local wine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Carrión-Flusses",
+            "tip": "Ein friedlicher Spaziergang abseits des Stadtzentrums.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Huerta de Guadián",
+            "tip": "Ein weiterer schöner Park, etwas ruhiger als der Salón.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spitze des Cristo del Otero",
+            "tip": "Atemberaubende und windige Stille mit Blick auf die gesamte Region.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Carrión folyó partja",
+            "tip": "Békés séta a városközponttól távolabb.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Huerta de Guadián",
+            "tip": "Egy másik gyönyörű park, kicsit csendesebb, mint a Salón.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cristo del Otero csúcsa",
+            "tip": "Lélegzetelállító és szeles csend, kilátással az egész régióra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Carrión",
+            "tip": "O plimbare liniștită departe de centrul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Huerta de Guadián",
+            "tip": "Un alt parc frumos, puțin mai liniștit decât Salón.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vârful Cristo del Otero",
+            "tip": "Liniște uluitoare și vântoasă, cu vedere la întreaga regiune.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Carrión River",
+            "tip": "A peaceful walk away from the city center.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Huerta de Guadián",
+            "tip": "Another beautiful park, a bit quieter than the Salón.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Top of Cristo del Otero",
+            "tip": "Breathtaking and windy silence overlooking the entire region.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Calle Mayor",
+            "tip": "Von traditionellen Handwerksläden bis hin zu modernen Boutiquen ist hier alles zu finden."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Ein lokaler Markt, um frische Produkte und lokale Spezialitäten zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok a Calle Mayoron",
+            "tip": "A hagyományos kézműves boltoktól a modern butikokig mindent megtalál."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Helyi piac, ahol friss termékeket és helyi specialitásokat vásárolhat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine pe Calle Mayor",
+            "tip": "De la meșteșuguri tradiționale la buticuri moderne, găsiți totul aici."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "O piață locală pentru a cumpăra produse proaspete și specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops on Calle Mayor",
+            "tip": "From traditional craft shops to modern boutiques, find it all here."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "A local market to buy fresh produce and local specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Parkplätze am Stadtrand, um Parkgebühren im Zentrum zu vermeiden.",
+          "Planen Sie Ihre Cluster-Spaziergänge, um die Zeit optimal zu nutzen.",
+          "Das Fahren in Palencia ist einfach, aber achten Sie auf Fußgängerzonen.",
+          "Der Cristo del Otero ist am besten mit dem Auto zu erreichen, da er auf einem Hügel liegt."
+        ],
+        "hu": [
+          "Használja a külvárosi parkolókat, hogy elkerülje a központi parkolási díjakat.",
+          "Tervezze meg a séta-klasztereket, hogy a legtöbbet hozza ki az idejéből.",
+          "Palenciában könnyű vezetni, de figyeljen a sétálóövezetekre.",
+          "A Cristo del Otero legkönnyebben autóval érhető el, mivel egy dombon található."
+        ],
+        "ro": [
+          "Folosiți parcările de la periferie pentru a evita taxele de parcare din centru.",
+          "Planificați-vă grupurile de plimbare pentru a profita la maximum de timp.",
+          "Conducerea în Palencia este ușoară, dar fiți atenți la zonele pietonale.",
+          "Cristo del Otero este cel mai bine accesibil cu mașina, deoarece este situat pe un deal."
+        ],
+        "en": [
+          "Use parking lots on the outskirts to avoid central parking fees.",
+          "Plan your walking clusters to make the most of your time.",
+          "Driving in Palencia is easy, but be mindful of pedestrianized areas.",
+          "The Cristo del Otero is best reached by car as it's on a hill."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:42",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Start: Calle Mayor",
+            "hu": "Kezdés: Calle Mayor",
+            "ro": "Start: Calle Mayor",
+            "en": "Start: Calle Mayor"
+          },
+          "coords": [
+            -4.5295,
+            42.0085
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Herzen von Palencia.",
+            "hu": "Kezdje a napot Palencia szívében.",
+            "ro": "Începeți ziua în inima orașului Palencia.",
+            "en": "Begin your day in the heart of Palencia."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Palencia",
+            "hu": "Palenciai katedrális",
+            "ro": "Catedrala din Palencia",
+            "en": "Cathedral of Palencia"
+          },
+          "coords": [
+            -4.5268,
+            42.0115
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Ein kurzer Spaziergang von der Hauptstraße zu diesem gotischen Meisterwerk.",
+            "hu": "Rövid séta a főutcától ehhez a gótikus mesterműhöz.",
+            "ro": "O scurtă plimbare de la strada principală la această capodoperă gotică.",
+            "en": "A short walk from the main street to this Gothic masterpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Cristo del Otero",
+            "hu": "Utazás a Cristo del Oteróhoz",
+            "ro": "Călătorie spre Cristo del Otero",
+            "en": "Transit to Cristo del Otero"
+          },
+          "coords": [
+            -4.545,
+            42.022
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_4lang": {
+            "de": "Nehmen Sie einen lokalen Bus, um den Hügel zu erreichen. Prüfen Sie den Fahrplan im Voraus.",
+            "hu": "Vegyen egy helyi buszt a hegy eléréséhez. Ellenőrizze előre a menetrendet.",
+            "ro": "Luați un autobuz local pentru a ajunge pe deal. Verificați programul în avans.",
+            "en": "Take a local bus to reach the hill. Check the schedule in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Mittagessen im Zentrum",
+            "hu": "Utazás ebédre a központba",
+            "ro": "Tranzit pentru prânz în centru",
+            "en": "Transit to Lunch in Center"
+          },
+          "coords": [
+            -4.53,
+            42.01
+          ],
+          "category": "gastro",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_4lang": {
+            "de": "Fahren Sie zurück ins Zentrum, um in einem der vielen Restaurants zu Mittag zu essen.",
+            "hu": "Menjen vissza a központba ebédelni az egyik számos étteremben.",
+            "ro": "Întoarceți-vă în centru pentru prânz la unul dintre numeroasele restaurante.",
+            "en": "Head back to the city center for lunch at one of the many restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de San Miguel",
+            "hu": "San Miguel templom",
+            "ro": "Biserica San Miguel",
+            "en": "Church of San Miguel"
+          },
+          "coords": [
+            -4.5315,
+            42.007
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Nach dem Mittagessen ein kurzer Spaziergang zu dieser Kirche mit ihrem festungsartigen Turm.",
+            "hu": "Ebéd után rövid séta ehhez a templomhoz az erődítményszerű tornyával.",
+            "ro": "După prânz, o scurtă plimbare până la această biserică cu turnul său asemănător unei fortărețe.",
+            "en": "After lunch, a short walk to this church with its fortress-like tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque del Salón de Isabel II",
+            "hu": "II. Izabella Szalon Park",
+            "ro": "Parcul Salonul Isabelei a II-a",
+            "en": "Parque del Salón de Isabel II"
+          },
+          "coords": [
+            -4.5325,
+            42.0125
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:06",
+          "stay_min": 156,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Beenden Sie Ihren Tag mit Entspannung in diesem wunderschönen Park.",
+            "hu": "Zárja a napot pihenéssel ebben a gyönyörű parkban.",
+            "ro": "Încheiați-vă ziua relaxându-vă în acest frumos parc.",
+            "en": "End your day relaxing in this beautiful park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen der Stadt auf der Calle Mayor und spazieren Sie zur Kathedrale. Am Vormittag bringt Sie ein Bus zum Cristo del Otero, wo Sie einen atemberaubenden Blick genießen können. Kehren Sie zum Mittagessen ins Zentrum zurück. Verbringen Sie den Nachmittag damit, weitere zentrale Sehenswürdigkeiten wie die Kirche San Miguel zu Fuß zu erkunden, bevor Sie im ruhigen Parque del Salón entspannen und den Tag ausklingen lassen.",
+        "hu": "Kezdje a napot a város szívében, a Calle Mayoron, és sétáljon el a katedrálishoz. Délelőtt busszal juthat el a Cristo del Oteróhoz, ahonnan lenyűgöző kilátás nyílik. Térjen vissza a központba ebédelni. Délután fedezzen fel gyalog további központi látnivalókat, mint például a San Miguel-templomot, mielőtt a békés Parque del Salónban pihenve zárja a napot.",
+        "ro": "Începeți ziua în inima orașului, pe Calle Mayor, și plimbați-vă până la Catedrală. Dimineața, un autobuz vă va duce la Cristo del Otero pentru priveliști uluitoare. Întoarceți-vă în centru pentru prânz. Petreceți după-amiaza explorând pe jos mai multe obiective centrale, cum ar fi Biserica San Miguel, înainte de a vă relaxa în liniștitul Parque del Salón pentru a încheia ziua.",
+        "en": "Start your day in the city's heart on Calle Mayor and walk to the Cathedral. In the morning, a bus will take you to the Cristo del Otero for stunning views. Return to the center for lunch. Spend the afternoon exploring more central sights on foot, like the Church of San Miguel, before relaxing in the peaceful Parque del Salón to end the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lechazo Asado",
+            "tip": "Probieren Sie das berühmte Spanferkel, eine Spezialität von Kastilien und León. Suchen Sie nach einem 'Asador'."
+          },
+          {
+            "name": "Menestra de Verduras",
+            "tip": "Ein herzhafter Gemüseeintopf, der die Produkte der Region präsentiert."
+          },
+          {
+            "name": "Queso de Palencia",
+            "tip": "Lokaler Schafskäse, perfekt zu einem Glas Wein aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lechazo Asado",
+            "tip": "Kóstolja meg a híres sült bárányt, Kasztília és León specialitását. Keressen egy „Asador”-t."
+          },
+          {
+            "name": "Menestra de Verduras",
+            "tip": "Egy kiadós zöldségleves, amely a régió terményeit mutatja be."
+          },
+          {
+            "name": "Queso de Palencia",
+            "tip": "Helyi juhsajt, tökéletes egy pohár helyi borral."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lechazo Asado",
+            "tip": "Încercați faimosul miel la proțap, o specialitate din Castilia și León. Căutați un 'Asador'."
+          },
+          {
+            "name": "Menestra de Verduras",
+            "tip": "O tocană de legume consistentă, care prezintă produsele regiunii."
+          },
+          {
+            "name": "Queso de Palencia",
+            "tip": "Brânză locală de oaie, perfectă cu un pahar de vin local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lechazo Asado",
+            "tip": "Try the famous roast lamb, a speciality of Castile and León. Look for an 'Asador'."
+          },
+          {
+            "name": "Menestra de Verduras",
+            "tip": "A hearty vegetable stew showcasing the region's produce."
+          },
+          {
+            "name": "Queso de Palencia",
+            "tip": "Local sheep's cheese, perfect with a glass of local wine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Carrión-Flusses",
+            "tip": "Ein friedlicher Spaziergang abseits des Stadtzentrums.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Huerta de Guadián",
+            "tip": "Ein weiterer schöner Park, etwas ruhiger als der Salón.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spitze des Cristo del Otero",
+            "tip": "Atemberaubende und windige Stille mit Blick auf die gesamte Region.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Carrión folyó partja",
+            "tip": "Békés séta a városközponttól távolabb.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Huerta de Guadián",
+            "tip": "Egy másik gyönyörű park, kicsit csendesebb, mint a Salón.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cristo del Otero csúcsa",
+            "tip": "Lélegzetelállító és szeles csend, kilátással az egész régióra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Carrión",
+            "tip": "O plimbare liniștită departe de centrul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Huerta de Guadián",
+            "tip": "Un alt parc frumos, puțin mai liniștit decât Salón.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vârful Cristo del Otero",
+            "tip": "Liniște uluitoare și vântoasă, cu vedere la întreaga regiune.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Carrión River",
+            "tip": "A peaceful walk away from the city center.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Huerta de Guadián",
+            "tip": "Another beautiful park, a bit quieter than the Salón.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Top of Cristo del Otero",
+            "tip": "Breathtaking and windy silence overlooking the entire region.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Calle Mayor",
+            "tip": "Von traditionellen Handwerksläden bis hin zu modernen Boutiquen ist hier alles zu finden."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Ein lokaler Markt, um frische Produkte und lokale Spezialitäten zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok a Calle Mayoron",
+            "tip": "A hagyományos kézműves boltoktól a modern butikokig mindent megtalál."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Helyi piac, ahol friss termékeket és helyi specialitásokat vásárolhat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine pe Calle Mayor",
+            "tip": "De la meșteșuguri tradiționale la buticuri moderne, găsiți totul aici."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "O piață locală pentru a cumpăra produse proaspete și specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops on Calle Mayor",
+            "tip": "From traditional craft shops to modern boutiques, find it all here."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "A local market to buy fresh produce and local specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Überprüfen Sie die Busfahrpläne online, da sie variieren können.",
+          "Die meisten zentralen Bereiche sind zu Fuß erreichbar, nachdem Sie mit dem Bus angekommen sind.",
+          "Behalten Sie Ihr Ticket für die Dauer Ihrer Reise."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha több utazást tervez.",
+          "Ellenőrizze a buszmenetrendeket online, mivel azok változhatnak.",
+          "A legtöbb központi terület gyalogosan elérhető a busszal való érkezés után.",
+          "Tartsa meg a jegyét az utazás teljes időtartama alatt."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru autobuz dacă intenționați să faceți mai multe călătorii.",
+          "Verificați online orarele autobuzelor, deoarece acestea pot varia.",
+          "Majoritatea zonelor centrale sunt accesibile pe jos după ce ajungeți cu autobuzul.",
+          "Păstrați biletul pe durata călătoriei."
+        ],
+        "en": [
+          "Buy a day pass for the bus if you plan on making multiple trips.",
+          "Check bus schedules online as they can vary.",
+          "Most central areas are walkable after you arrive by transit.",
+          "Keep your ticket for the duration of your journey."
+        ]
+      }
+    }
+  }
+}

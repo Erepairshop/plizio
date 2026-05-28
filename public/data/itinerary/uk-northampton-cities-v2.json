@@ -1,0 +1,1468 @@
+{
+  "city_id": "uk-northampton-cities-v2",
+  "anchor": {
+    "name": "Northampton",
+    "coords": [
+      52.2405,
+      -0.9027
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér",
+            "ro": "Piața Centrală",
+            "en": "Market Square"
+          },
+          "coords": [
+            -0.8978,
+            52.2377
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Prüfen Sie die Marktzeiten; oft gibt es lokale Produkte.",
+            "hu": "Nézd meg, mikor van piacnap, gyakran árulnak helyi termékeket.",
+            "ro": "Verificați programul pieței; adesea sunt produse locale.",
+            "en": "Check the market days; they often have local produce."
+          }
+        },
+        {
+          "name": {
+            "de": "Northampton Guildhall",
+            "hu": "Northampton Városháza",
+            "ro": "Primăria Northampton",
+            "en": "Northampton Guildhall"
+          },
+          "coords": [
+            -0.8985,
+            52.2365
+          ],
+          "category": "landmark",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die viktorianisch-gotische Architektur und die Skulpturen.",
+            "hu": "Csodáld meg a viktoriánus gótikus építészetet és a szobrokat.",
+            "ro": "Admirați arhitectura gotică victoriană și sculpturile.",
+            "en": "Admire the Victorian Gothic architecture and sculptures."
+          }
+        },
+        {
+          "name": {
+            "de": "Allerheiligenkirche",
+            "hu": "Mindenszentek temploma",
+            "ro": "Biserica All Saints",
+            "en": "All Saints' Church"
+          },
+          "coords": [
+            -0.8995,
+            52.236
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Statue von Karl II. über dem Portikus.",
+            "hu": "Keresd II. Károly szobrát a portikusz felett.",
+            "ro": "Căutați statuia lui Carol al II-lea deasupra porticului.",
+            "en": "Look for the statue of Charles II above the portico."
+          }
+        },
+        {
+          "name": {
+            "de": "78 Derngate",
+            "hu": "Derngate 78",
+            "ro": "78 Derngate",
+            "en": "78 Derngate"
+          },
+          "coords": [
+            -0.895,
+            52.2355
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Buchen Sie eine Führung, um das Mackintosh-Design im Inneren zu sehen.",
+            "hu": "Foglalj vezetett túrát, hogy lásd a belső Mackintosh-dizájnt.",
+            "ro": "Rezervați un tur ghidat pentru a vedea designul Mackintosh în interior.",
+            "en": "Book a guided tour to see the Mackintosh design inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Northampton Museum & Kunstgalerie",
+            "hu": "Northampton Múzeum és Művészeti Galéria",
+            "ro": "Muzeul și Galeria de Artă Northampton",
+            "en": "Northampton Museum & Art Gallery"
+          },
+          "coords": [
+            -0.89,
+            52.238
+          ],
+          "category": "museums",
+          "arrive_at": "12:46",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Die Schuhsammlung ist weltberühmt – ein Muss!",
+            "hu": "A cipőgyűjtemény világhírű – ezt látni kell!",
+            "ro": "Colecția de pantofi este renumită mondial – nu trebuie ratată!",
+            "en": "The shoe collection is world-famous – a must-see!"
+          }
+        },
+        {
+          "name": {
+            "de": "Abington Park",
+            "hu": "Abington Park",
+            "ro": "Parcul Abington",
+            "en": "Abington Park"
+          },
+          "coords": [
+            -0.855,
+            52.245
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Parkmuseum und die Ruinen des Herrenhauses.",
+            "hu": "Látogass el a parkban található múzeumba és a kúria romjaihoz.",
+            "ro": "Vizitați muzeul din parc și ruinele conacului.",
+            "en": "Visit the park museum and the ruins of the manor house."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen im Stadtzentrum",
+            "hu": "Vacsora a városközpontban",
+            "ro": "Cină în centrul orașului",
+            "en": "Dinner in City Centre"
+          },
+          "coords": [
+            -0.898,
+            52.237
+          ],
+          "category": "gastro",
+          "arrive_at": "16:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Wählen Sie ein Pub für ein klassisches britisches Abendessen.",
+            "hu": "Válassz egy pubot egy klasszikus brit vacsorához.",
+            "ro": "Alegeți un pub pentru o cină britanică clasică.",
+            "en": "Choose a pub for a classic British dinner experience."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem belebten Marktplatz, bevor Sie die architektonischen Wunder der Guildhall und der Allerheiligenkirche bewundern. Am Nachmittag tauchen Sie in die lokale Kultur im Northampton Museum ein, gefolgt von einem entspannenden Spaziergang im Abington Park. Beenden Sie Ihren Tag mit einem herzhaften Essen in einem traditionellen Pub.",
+        "hu": "Kezdje a napot a nyüzsgő Piactéren, majd csodálja meg a Városháza és a Mindenszentek templomának építészeti csodáit. Délután merüljön el a helyi kultúrában a Northampton Múzeumban, majd tegyen egy pihentető sétát az Abington Parkban. Zárja a napot egy kiadós vacsorával egy hagyományos pubban.",
+        "ro": "Începeți ziua în Piața plină de viață, înainte de a admira minunile arhitecturale ale Primăriei și Bisericii All Saints. După-amiaza, scufundați-vă în cultura locală la Muzeul Northampton, urmată de o plimbare relaxantă în Parcul Abington. Încheiați ziua cu o masă copioasă la un pub tradițional.",
+        "en": "Start your day at the bustling Market Square before admiring the architectural wonders of the Guildhall and All Saints' Church. In the afternoon, immerse yourself in local culture at the Northampton Museum, followed by a relaxing stroll in Abington Park. End your day with a hearty meal at a traditional pub."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bangers and Mash",
+            "tip": "Ein klassisches Pub-Gericht, herzhaft und sättigend."
+          },
+          {
+            "name": "Sunday Roast",
+            "tip": "Wenn Sie an einem Sonntag hier sind, ist dies ein Muss."
+          },
+          {
+            "name": "The Old Five Bells",
+            "tip": "Ein historisches Pub mit einer großen Auswahl an Ales und gutem Essen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bangers and Mash (Sült kolbász krumplipürével)",
+            "tip": "Klasszikus pub étel, laktató és finom."
+          },
+          {
+            "name": "Sunday Roast (Vasárnapi sült)",
+            "tip": "Ha vasárnap jársz itt, ezt kötelező megkóstolni."
+          },
+          {
+            "name": "The Old Five Bells",
+            "tip": "Történelmi pub, széles ale-választékkal és jó ételekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bangers and Mash",
+            "tip": "Un fel de mâncare clasic de pub, consistent și sățios."
+          },
+          {
+            "name": "Sunday Roast",
+            "tip": "Dacă sunteți aici duminica, este o necesitate."
+          },
+          {
+            "name": "The Old Five Bells",
+            "tip": "Un pub istoric cu o selecție excelentă de beri și mâncare bună."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bangers and Mash",
+            "tip": "A classic pub dish, hearty and filling."
+          },
+          {
+            "name": "Sunday Roast",
+            "tip": "If you're here on a Sunday, it's a must-have."
+          },
+          {
+            "name": "The Old Five Bells",
+            "tip": "A historic pub with a great selection of ales and good food."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Abington Park",
+            "tip": "Finden Sie eine ruhige Ecke in der Nähe des Sees.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Delapré Abbey Gärten",
+            "tip": "Spazieren Sie durch die ummauerten Gärten für einen Moment der Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Flusses Nene",
+            "tip": "Ein friedlicher Spaziergang abseits des Stadtzentrums.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Abington Park",
+            "tip": "Keress egy csendes sarkot a tó közelében.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Delapré Abbey kertjei",
+            "tip": "Sétálj a fallal körülvett kertekben egy pillanatnyi békéért.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Nene folyó partja",
+            "tip": "Békés séta távol a városközponttól.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Abington",
+            "tip": "Găsiți un colț liniștit lângă lac.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Abației Delapré",
+            "tip": "Plimbați-vă prin grădinile cu ziduri pentru un moment de pace.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malurile râului Nene",
+            "tip": "O plimbare pașnică departe de centrul orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Abington Park",
+            "tip": "Find a quiet corner near the lake.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Delapré Abbey Gardens",
+            "tip": "Stroll through the walled gardens for a moment of peace.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "River Nene Embankment",
+            "tip": "A peaceful walk away from the town centre.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marktplatz",
+            "tip": "Lokale Produkte, Kunsthandwerk und Antiquitäten an Markttagen."
+          },
+          {
+            "name": "The Grosvenor Centre",
+            "tip": "Das Haupteinkaufszentrum der Stadt für bekannte Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piactér",
+            "tip": "Helyi termékek, kézműves áruk és régiségek a piacnapokon."
+          },
+          {
+            "name": "The Grosvenor Centre",
+            "tip": "A város fő bevásárlóközpontja, ismert márkákkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Centrală",
+            "tip": "Produse locale, meșteșuguri și antichități în zilele de piață."
+          },
+          {
+            "name": "Centrul Grosvenor",
+            "tip": "Principalul centru comercial al orașului pentru mărci cunoscute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market Square",
+            "tip": "Local produce, crafts, and antiques on market days."
+          },
+          {
+            "name": "The Grosvenor Centre",
+            "tip": "The town's main shopping centre for high-street brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum kompakt und gut zu Fuß zu erkunden ist.",
+          "Viele Museen und Galerien haben freien Eintritt, prüfen Sie jedoch die Öffnungszeiten.",
+          "Der Weg zum Abington Park ist ein längerer Spaziergang, aber er lohnt sich. Alternativ können Sie einen Bus nehmen.",
+          "Reservieren Sie für Abendessen am Wochenende im Voraus, besonders in beliebten Pubs."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, a városközpont kompakt és gyalogosan is könnyen bejárható.",
+          "Sok múzeum és galéria ingyenesen látogatható, de ellenőrizd a nyitvatartási időt.",
+          "Az Abington Parkig tartó séta hosszabb, de megéri. Alternatívaként buszra is szállhatsz.",
+          "Hétvégi vacsorákhoz foglalj asztalt előre, különösen a népszerű pubokban."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece centrul orașului este compact și ușor de explorat pe jos.",
+          "Multe muzee și galerii au intrare liberă, dar verificați orele de deschidere.",
+          "Plimbarea până la Parcul Abington este mai lungă, dar merită. Alternativ, puteți lua un autobuz.",
+          "Rezervați în avans pentru cina de weekend, în special la pub-urile populare."
+        ],
+        "en": [
+          "Wear comfortable shoes as the town centre is compact and very walkable.",
+          "Many museums and galleries have free entry, but check for opening times.",
+          "The walk to Abington Park is a longer one but well worth it. Alternatively, consider taking a bus.",
+          "Book ahead for weekend dinners, especially at popular pubs."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:33",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér",
+            "ro": "Piața Centrală",
+            "en": "Market Square"
+          },
+          "coords": [
+            -0.8978,
+            52.2377
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Sichern Sie Ihr Fahrrad gut, während Sie den Markt erkunden.",
+            "hu": "Zárd le biztonságosan a biciklidet, amíg felfedezed a piacot.",
+            "ro": "Asigurați-vă bine bicicleta în timp ce explorați piața.",
+            "en": "Secure your bike well while you explore the market."
+          }
+        },
+        {
+          "name": {
+            "de": "Northampton Guildhall",
+            "hu": "Northampton Városháza",
+            "ro": "Primăria Northampton",
+            "en": "Northampton Guildhall"
+          },
+          "coords": [
+            -0.8985,
+            52.2365
+          ],
+          "category": "landmark",
+          "arrive_at": "09:32",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein großartiger Fotostopp, aber seien Sie vorsichtig mit dem Verkehr.",
+            "hu": "Nagyszerű fotómegálló, de vigyázz a forgalommal.",
+            "ro": "O oprire excelentă pentru fotografii, dar aveți grijă la trafic.",
+            "en": "A great photo stop, but be careful of traffic."
+          }
+        },
+        {
+          "name": {
+            "de": "Delapré Abbey",
+            "hu": "Delapré Apátság",
+            "ro": "Abația Delapré",
+            "en": "Delapré Abbey"
+          },
+          "coords": [
+            -0.891,
+            52.225
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Gärten und die Radwege rund um das Anwesen.",
+            "hu": "Fedezd fel a kerteket és a birtok körüli bicikliutakat.",
+            "ro": "Explorați grădinile și pistele de biciclete din jurul proprietății.",
+            "en": "Explore the gardens and the cycle paths around the estate."
+          }
+        },
+        {
+          "name": {
+            "de": "The National Lift Tower",
+            "hu": "A Nemzeti Felvonótorony",
+            "ro": "Turnul Național de Lifturi",
+            "en": "The National Lift Tower"
+          },
+          "coords": [
+            -0.925,
+            52.228
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:45",
+          "stay_min": 15,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein einzigartiges Wahrzeichen, am besten aus der Ferne zu sehen.",
+            "hu": "Egyedi látványosság, a legjobb távolról megcsodálni.",
+            "ro": "Un punct de reper unic, cel mai bine vizibil de la distanță.",
+            "en": "A unique landmark, best viewed from a distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Northampton Museum & Kunstgalerie",
+            "hu": "Northampton Múzeum és Művészeti Galéria",
+            "ro": "Muzeul și Galeria de Artă Northampton",
+            "en": "Northampton Museum & Art Gallery"
+          },
+          "coords": [
+            -0.89,
+            52.238
+          ],
+          "category": "museums",
+          "arrive_at": "12:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause, besonders an einem regnerischen Tag.",
+            "hu": "Tökéletes egy déli pihenőre, főleg egy esős napon.",
+            "ro": "Perfect pentru o pauză de amiază, mai ales într-o zi ploioasă.",
+            "en": "Perfect for a midday break, especially on a rainy day."
+          }
+        },
+        {
+          "name": {
+            "de": "Abington Park",
+            "hu": "Abington Park",
+            "ro": "Parcul Abington",
+            "en": "Abington Park"
+          },
+          "coords": [
+            -0.855,
+            52.245
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Es gibt viele Radwege im Park zum Erkunden.",
+            "hu": "A parkban számos felfedezésre váró bicikliút található.",
+            "ro": "Există o mulțime de piste de biciclete în parc de explorat.",
+            "en": "There are plenty of cycle paths within the park to explore."
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück am Marktplatz",
+            "hu": "Vissza a Piactérre",
+            "ro": "Înapoi în Piața Centrală",
+            "en": "Back at Market Square"
+          },
+          "coords": [
+            -0.8978,
+            52.2377
+          ],
+          "category": "gastro",
+          "arrive_at": "16:03",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Belohnen Sie sich mit einem Pint und einem Pub-Essen.",
+            "hu": "Jutalmazd meg magad egy korsó sörrel és egy pub vacsorával.",
+            "ro": "Recompensați-vă cu o halbă și o masă la pub.",
+            "en": "Reward yourself with a pint and a pub meal."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour im Herzen der Stadt am Marktplatz. Fahren Sie nach Süden zur historischen Delapré Abbey und werfen Sie einen Blick auf den industriellen National Lift Tower. Kehren Sie für eine Dosis Kultur ins Stadtzentrum zurück und entspannen Sie am Nachmittag im weitläufigen Abington Park, bevor Sie für ein wohlverdientes Abendessen zurückkehren.",
+        "hu": "Kezdje a biciklitúrát a város szívében, a Piactéren. Tekerjen délre a történelmi Delapré apátsághoz, és vessen egy pillantást az ipari Nemzeti Felvonótoronyra. Térjen vissza a városközpontba egy adag kultúráért, majd délután pihenjen a tágas Abington Parkban, mielőtt visszatérne egy jól megérdemelt vacsorára.",
+        "ro": "Începeți turul pe bicicletă în inima orașului, în Piața Centrală. Pedalați spre sud, la Abația istorică Delapré, și aruncați o privire la Turnul Național de Lifturi industrial. Întoarceți-vă în centru pentru o doză de cultură, apoi relaxați-vă după-amiaza în vastul Parc Abington înainte de a vă întoarce pentru o cină binemeritată.",
+        "en": "Start your bike tour in the heart of the town at Market Square. Cycle south to the historic Delapré Abbey and catch a glimpse of the industrial National Lift Tower. Head back into the centre for a dose of culture, then relax in the afternoon at the expansive Abington Park before returning for a well-earned dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Ein Muss nach einer guten Radtour."
+          },
+          {
+            "name": "Lokales Ale",
+            "tip": "Northamptonshire hat einige großartige Brauereien."
+          },
+          {
+            "name": "The Malt Shovel Tavern",
+            "tip": "Bekannt für seine große Auswahl an Bieren und seine freundliche Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fish and Chips (Hal és sült krumpli)",
+            "tip": "Kötelező egy jó biciklitúra után."
+          },
+          {
+            "name": "Helyi ale sör",
+            "tip": "Northamptonshire-ben néhány remek sörfőzde található."
+          },
+          {
+            "name": "The Malt Shovel Tavern",
+            "tip": "Széles sörválasztékáról és barátságos légköréről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fish and Chips",
+            "tip": "O necesitate după un tur bun pe bicicletă."
+          },
+          {
+            "name": "Bere locală Ale",
+            "tip": "Northamptonshire are câteva fabrici de bere grozave."
+          },
+          {
+            "name": "The Malt Shovel Tavern",
+            "tip": "Cunoscut pentru selecția sa largă de beri și atmosfera prietenoasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish and Chips",
+            "tip": "A must-have after a good bike ride."
+          },
+          {
+            "name": "Local Ale",
+            "tip": "Northamptonshire has some great breweries."
+          },
+          {
+            "name": "The Malt Shovel Tavern",
+            "tip": "Known for its wide selection of beers and friendly atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Fluss Nene",
+            "tip": "Eine ruhige Route entlang des Flusses.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Delapré Abbey Gärten",
+            "tip": "Stellen Sie Ihr Fahrrad ab und genießen Sie die Ruhe der Gärten.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bradlaugh Fields",
+            "tip": "Ein großes offenes Gebiet, ideal für eine ruhige Radtour.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nene folyó menti bicikliút",
+            "tip": "Csendes útvonal a folyó mentén."
+          },
+          {
+            "name": "Delapré Apátság kertjei",
+            "tip": "Tedd le a biciklit és élvezd a kertek csendjét.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bradlaugh Fields",
+            "tip": "Nagy, nyitott terület, ideális egy csendes biciklizéshez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de pe malul râului Nene",
+            "tip": "Un traseu liniștit de-a lungul râului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Abației Delapré",
+            "tip": "Parcați bicicleta și bucurați-vă de liniștea grădinilor.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Câmpiile Bradlaugh",
+            "tip": "O zonă mare deschisă, excelentă pentru o plimbare liniștită cu bicicleta.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "River Nene Cycle Path",
+            "tip": "A quiet route along the river.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Delapré Abbey Gardens",
+            "tip": "Park your bike and enjoy the tranquility of the gardens.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bradlaugh Fields",
+            "tip": "A large open area, great for a quiet cycle.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "St Giles' Street",
+            "tip": "Bekannt für ihre unabhängigen Geschäfte und Boutiquen."
+          },
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Es gibt mehrere gute Fahrradgeschäfte für Zubehör oder Reparaturen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "St Giles' utca",
+            "tip": "Független üzleteiről és butikjairól ismert."
+          },
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Számos jó kerékpárbolt található kiegészítőkért vagy javításokért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada St Giles",
+            "tip": "Cunoscută pentru magazinele și buticurile sale independente."
+          },
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Există mai multe magazine bune de biciclete pentru accesorii sau reparații."
+          }
+        ],
+        "en": [
+          {
+            "name": "St Giles' Street",
+            "tip": "Known for its independent shops and boutiques."
+          },
+          {
+            "name": "Cycle Shops",
+            "tip": "There are several good cycle shops for any gear or repairs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Northampton ist relativ flach, aber einige Steigungen sind zu beachten.",
+          "Tragen Sie einen Helm und verwenden Sie Lichter, besonders am Abend.",
+          "Nutzen Sie die ausgewiesenen Radwege, wo immer möglich.",
+          "Schließen Sie Ihr Fahrrad immer an einem sicheren Ort ab."
+        ],
+        "hu": [
+          "Northampton viszonylag sík, de néhány emelkedőre számítani kell.",
+          "Viselj sisakot és használj lámpákat, különösen este.",
+          "Használd a kijelölt kerékpárutakat, ahol csak lehetséges.",
+          "Mindig biztonságos helyen zárd le a kerékpárodat."
+        ],
+        "ro": [
+          "Northampton este relativ plat, dar există câteva pante de care trebuie să fiți conștienți.",
+          "Purtați cască și folosiți lumini, mai ales seara.",
+          "Folosiți pistele de biciclete desemnate ori de câte ori este posibil.",
+          "Încuiați întotdeauna bicicleta într-un loc sigur."
+        ],
+        "en": [
+          "Northampton is relatively flat, but there are some inclines to be aware of.",
+          "Wear a helmet and use lights, especially in the evening.",
+          "Use the designated cycle lanes wherever possible.",
+          "Always lock your bike securely."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 11.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken und Start an der Delapré Abbey",
+            "hu": "Parkolás és indulás a Delapré Apátságnál",
+            "ro": "Parcare și pornire la Abația Delapré",
+            "en": "Park and Start at Delapré Abbey"
+          },
+          "coords": [
+            -0.891,
+            52.225
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genug Parkplätze vorhanden. Erkunden Sie die Abtei und ihre Gärten.",
+            "hu": "Bőséges parkolóhely. Fedezd fel az apátságot és a kertjeit.",
+            "ro": "Parcare amplă disponibilă. Explorați abația și grădinile sale.",
+            "en": "Ample parking available. Explore the abbey and its gardens first."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Stadtzentrum: Parken Sie in der Nähe der Guildhall",
+            "hu": "Városközponti klaszter: Parkolj a Városháza közelében",
+            "ro": "Cluster Centru: Parcarea lângă Primărie",
+            "en": "City Centre Cluster: Park near Guildhall"
+          },
+          "coords": [
+            -0.898,
+            52.236
+          ],
+          "category": "landmark",
+          "arrive_at": "10:55",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Suchen Sie einen Langzeitparkplatz und erkunden Sie den Rest zu Fuß.",
+            "hu": "Keress egy hosszú távú parkolót, és fedezd fel a többit gyalog.",
+            "ro": "Găsiți o parcare pe termen lung și explorați restul pe jos.",
+            "en": "Find a long-stay car park and explore the rest on foot."
+          },
+          "hop_mode": "car"
+        },
+        {
+          "name": {
+            "de": "Allerheiligenkirche",
+            "hu": "Mindenszentek temploma",
+            "ro": "Biserica All Saints",
+            "en": "All Saints' Church"
+          },
+          "coords": [
+            -0.8995,
+            52.236
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Guildhall, im Herzen der Stadt.",
+            "hu": "Rövid séta a Városházától, a város szívében.",
+            "ro": "La o scurtă plimbare de Primărie, în inima orașului.",
+            "en": "A short walk from the Guildhall, in the heart of the city."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Marktplatz & Mittagessen",
+            "hu": "Piactér és ebéd",
+            "ro": "Piața Centrală și prânz",
+            "en": "Market Square & Lunch"
+          },
+          "coords": [
+            -0.8978,
+            52.2377
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Viele Essensmöglichkeiten rund um den Platz.",
+            "hu": "Számos étkezési lehetőség a tér körül.",
+            "ro": "Multe opțiuni de luat masa în jurul pieței.",
+            "en": "Plenty of food options available around the square."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Cluster Abington: Fahrt zum Abington Park",
+            "hu": "Abington klaszter: Utazás az Abington Parkba",
+            "ro": "Cluster Abington: Conduceți la Parcul Abington",
+            "en": "Abington Cluster: Drive to Abington Park"
+          },
+          "coords": [
+            -0.855,
+            52.245
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:43",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier und genießen Sie den Park, das Museum und die Seen.",
+            "hu": "Parkolj le itt, és élvezd a parkot, a múzeumot és a tavakat.",
+            "ro": "Parcați aici și bucurați-vă de parc, muzeu și lacuri.",
+            "en": "Park here and enjoy the park, museum, and lakes."
+          },
+          "hop_mode": "car"
+        },
+        {
+          "name": {
+            "de": "The National Lift Tower (Vorbeifahrt)",
+            "hu": "A Nemzeti Felvonótorony (elhajtás)",
+            "ro": "Turnul Național de Lifturi (trecere)",
+            "en": "The National Lift Tower (Drive-by)"
+          },
+          "coords": [
+            -0.925,
+            52.228
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:03",
+          "stay_min": 5,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Auf dem Rückweg ins Stadtzentrum sehen Sie dieses Wahrzeichen.",
+            "hu": "A városközpont felé visszatérve láthatja ezt a nevezetességet.",
+            "ro": "Vedeți acest punct de reper pe drumul de întoarcere spre centru.",
+            "en": "Spot this landmark on your way back towards the city centre."
+          },
+          "hop_mode": "car"
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer Erkundung der ruhigen Delapré Abbey. Fahren Sie dann ins Stadtzentrum, parken Sie Ihr Auto und entdecken Sie die historischen Juwelen wie die Guildhall und die Allerheiligenkirche zu Fuß. Nach dem Mittagessen fahren Sie zum weitläufigen Abington Park für einen entspannten Nachmittag in der Natur und werfen zum Abschluss einen Blick auf den einzigartigen National Lift Tower.",
+        "hu": "Kezdje a napot a békés Delapré Apátság felfedezésével. Ezután hajtson be a városközpontba, parkolja le az autóját, és fedezze fel gyalog a történelmi gyöngyszemeket, mint a Városháza és a Mindenszentek temploma. Ebéd után irány a tágas Abington Park egy pihentető délutánra a természetben, a nap végén pedig vessen egy pillantást az egyedülálló Nemzeti Felvonótoronyra.",
+        "ro": "Începeți ziua explorând liniștita Abație Delapré. Apoi, conduceți spre centrul orașului, parcați mașina și descoperiți pe jos bijuteriile istorice precum Primăria și Biserica All Saints. După prânz, mergeți la vastul Parc Abington pentru o după-amiază relaxantă în natură, încheind prin a zări unicatul Turn Național de Lifturi.",
+        "en": "Start your day exploring the tranquil Delapré Abbey. Then, drive to the city centre, park your car, and discover the historic gems like the Guildhall and All Saints' Church on foot. After lunch, drive to the expansive Abington Park for a relaxing afternoon in nature, finishing with a glimpse of the unique National Lift Tower."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Northamptonshire Sausage",
+            "tip": "Eine lokale Spezialität, die man probieren sollte."
+          },
+          {
+            "name": "Ploughman's Lunch",
+            "tip": "Ein klassisches Pub-Mittagessen, perfekt für einen Boxenstopp."
+          },
+          {
+            "name": "The Abington",
+            "tip": "Ein gastropub in der Nähe des Parks für ein hochwertiges Essen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Northamptonshire-i kolbász",
+            "tip": "Helyi specialitás, érdemes megkóstolni."
+          },
+          {
+            "name": "Ploughman's Lunch",
+            "tip": "Klasszikus pub ebéd, tökéletes egy pihenőhöz."
+          },
+          {
+            "name": "The Abington",
+            "tip": "Gasztropub a park közelében egy minőségi étkezéshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cârnat de Northamptonshire",
+            "tip": "O specialitate locală care trebuie încercată."
+          },
+          {
+            "name": "Ploughman's Lunch",
+            "tip": "Un prânz clasic de pub, perfect pentru o oprire."
+          },
+          {
+            "name": "The Abington",
+            "tip": "Un gastropub lângă parc pentru o masă de calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Northamptonshire Sausage",
+            "tip": "A local specialty to try."
+          },
+          {
+            "name": "Ploughman's Lunch",
+            "tip": "A classic pub lunch, perfect for a pit stop."
+          },
+          {
+            "name": "The Abington",
+            "tip": "A gastropub near the park for a quality meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten der Delapré Abbey",
+            "tip": "Ein sehr friedlicher Start in den Tag.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Upton Country Park",
+            "tip": "Eine kurze Autofahrt für mehr Grünflächen und Wanderwege.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Blick von der Spitze des Abington Park Hügels",
+            "tip": "Ein schöner Ort, um die Leute zu beobachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Delapré Apátság kertjei",
+            "tip": "Nagyon békés kezdet a napnak.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Upton Country Park",
+            "tip": "Rövid autóútra további zöldterületekért és sétautakért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás az Abington Park dombjának tetejéről",
+            "tip": "Szép hely a nézelődésre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Abației Delapré",
+            "tip": "Un început de zi foarte pașnic.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Upton Country",
+            "tip": "La o scurtă distanță cu mașina pentru mai mult spațiu verde și poteci.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere din vârful dealului din Parcul Abington",
+            "tip": "Un loc minunat pentru a privi oamenii.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Delapré Abbey Gardens",
+            "tip": "A very peaceful start to the day.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Upton Country Park",
+            "tip": "A short drive away for more green space and walking paths.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from the top of Abington Park hill",
+            "tip": "A lovely spot for people-watching.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Abington Street",
+            "tip": "Eine der Haupteinkaufsstraßen mit einer Mischung aus Geschäften."
+          },
+          {
+            "name": "Geschenkeladen der Delapré Abbey",
+            "tip": "Einzigartige Geschenke und Souvenirs im Zusammenhang mit der lokalen Geschichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Abington Street",
+            "tip": "Az egyik fő bevásárlóutca, vegyes üzletekkel."
+          },
+          {
+            "name": "Delapré Apátság ajándékboltja",
+            "tip": "Egyedi ajándékok és szuvenírek a helyi történelemhez kapcsolódóan."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Abington",
+            "tip": "Una dintre principalele străzi comerciale, cu un amestec de magazine."
+          },
+          {
+            "name": "Magazinul de cadouri al Abației Delapré",
+            "tip": "Cadouri și suveniruri unice legate de istoria locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Abington Street",
+            "tip": "One of the main shopping streets with a mix of stores."
+          },
+          {
+            "name": "Delapré Abbey Gift Shop",
+            "tip": "Unique gifts and souvenirs related to local history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkgebühren und -beschränkungen im Stadtzentrum, da diese variieren können.",
+          "Das Fahren im Stadtzentrum kann zu Stoßzeiten verstopft sein.",
+          "Nutzen Sie die Cluster-Strategie: Parken Sie einmal und erkunden Sie zu Fuß, um Zeit und Geld zu sparen.",
+          "Achten Sie auf Park-and-Ride-Optionen am Rande der Stadt."
+        ],
+        "hu": [
+          "Ellenőrizd a parkolási díjakat és korlátozásokat a városközpontban, mert változhatnak.",
+          "A városközpontban csúcsidőben zsúfolt lehet a forgalom.",
+          "Használd a klaszter stratégiát: parkolj egyszer és fedezd fel a környéket gyalog, hogy időt és pénzt takaríts meg.",
+          "Figyeld a P+R (Park and Ride) lehetőségeket a város szélén."
+        ],
+        "ro": [
+          "Verificați tarifele și restricțiile de parcare din centrul orașului, deoarece acestea pot varia.",
+          "Condusul în centrul orașului poate fi aglomerat la orele de vârf.",
+          "Folosiți strategia cluster: parcați o dată și explorați pe jos pentru a economisi timp și bani.",
+          "Fiți atenți la opțiunile de park-and-ride de la marginea orașului."
+        ],
+        "en": [
+          "Check city centre parking charges and restrictions as they can vary.",
+          "Driving in the city centre can be congested during peak hours.",
+          "Use the cluster strategy: park once and explore on foot to save time and money.",
+          "Be aware of Park and Ride options on the outskirts of the town."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:41",
+      "total_km": 8.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof North Gate",
+            "hu": "Érkezés a North Gate buszpályaudvarra",
+            "ro": "Sosire la autogara North Gate",
+            "en": "Arrive at North Gate Bus Station"
+          },
+          "coords": [
+            -0.9,
+            52.24
+          ],
+          "category": "transit-hub",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für das beste Preis-Leistungs-Verhältnis.",
+            "hu": "Vegyél napijegyet a legjobb ár-érték arányért.",
+            "ro": "Cumpărați un bilet de o zi pentru cel mai bun raport calitate-preț.",
+            "en": "Get a day-rider ticket for the best value."
+          },
+          "hop_mode": "transit"
+        },
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér",
+            "ro": "Piața Centrală",
+            "en": "Market Square"
+          },
+          "coords": [
+            -0.8978,
+            52.2377
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:28",
+          "stay_min": 30,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das Herz der Stadt, nur ein kurzer Spaziergang vom Busbahnhof entfernt.",
+            "hu": "A város szíve, csak egy rövid séta a buszpályaudvartól.",
+            "ro": "Inima orașului, la o scurtă plimbare de autogară.",
+            "en": "The heart of the town, just a short walk from the bus station."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Northampton Museum & Kunstgalerie",
+            "hu": "Northampton Múzeum és Művészeti Galéria",
+            "ro": "Muzeul și Galeria de Artă Northampton",
+            "en": "Northampton Museum & Art Gallery"
+          },
+          "coords": [
+            -0.89,
+            52.238
+          ],
+          "category": "museums",
+          "arrive_at": "10:04",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein weiterer kurzer Spaziergang vom Marktplatz entfernt.",
+            "hu": "Egy újabb rövid séta a Piactértől.",
+            "ro": "O altă plimbare scurtă de la Piața Centrală.",
+            "en": "Another short walk from the market square."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Bus zum Abington Park",
+            "hu": "Busz az Abington Parkba",
+            "ro": "Autobuz spre Parcul Abington",
+            "en": "Bus to Abington Park"
+          },
+          "coords": [
+            -0.855,
+            52.245
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:04",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Mehrere Buslinien halten in der Nähe. Genießen Sie einen langen Aufenthalt.",
+            "hu": "Számos buszjárat megáll a közelben. Élvezz egy hosszú pihenőt.",
+            "ro": "Mai multe linii de autobuz opresc în apropiere. Bucurați-vă de o ședere lungă.",
+            "en": "Several bus routes stop nearby. Enjoy a long stay."
+          },
+          "hop_mode": "transit"
+        },
+        {
+          "name": {
+            "de": "Bus zur Delapré Abbey",
+            "hu": "Busz a Delapré Apátsághoz",
+            "ro": "Autobuz spre Abația Delapré",
+            "en": "Bus to Delapré Abbey"
+          },
+          "coords": [
+            -0.891,
+            52.225
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Die Bushaltestelle ist einen kurzen Spaziergang entfernt.",
+            "hu": "A buszmegálló egy rövid sétára található.",
+            "ro": "Stația de autobuz este la o scurtă plimbare.",
+            "en": "The bus stop is a short walk from the abbey itself."
+          },
+          "hop_mode": "transit"
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum für ein Abschiedsessen",
+            "hu": "Visszatérés a központba egy búcsúvacsorára",
+            "ro": "Întoarcere în centru pentru o cină de rămas bun",
+            "en": "Return to Centre for a Farewell Dinner"
+          },
+          "coords": [
+            -0.899,
+            52.2365
+          ],
+          "category": "gastro",
+          "arrive_at": "16:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.7,
+          "tip_5lang": {
+            "de": "Viele Restaurants in der Nähe der Guildhall.",
+            "hu": "Számos étterem a Városháza közelében.",
+            "ro": "Multe restaurante în apropierea Primăriei.",
+            "en": "Plenty of restaurants near the Guildhall area."
+          },
+          "hop_mode": "transit"
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Northamptons Busnetz, um die Stadt zu erkunden. Beginnen Sie im Zentrum mit einem Spaziergang vom Marktplatz zum Museum. Nehmen Sie dann einen Bus zum weitläufigen Abington Park für ein Picknick oder einen Spaziergang. Am Nachmittag fahren Sie mit dem Bus zur historischen Delapré Abbey, bevor Sie für ein letztes Abendessen ins Stadtzentrum zurückkehren.",
+        "hu": "Használd Northampton buszhálózatát a város felfedezéséhez. Kezdj a központban egy sétával a Piactértől a múzeumig. Ezután szállj buszra a tágas Abington Parkba egy piknikre vagy sétára. Délután busszal menj el a történelmi Delapré Apátsághoz, mielőtt visszatérnél a városközpontba egy utolsó vacsorára.",
+        "ro": "Folosiți rețeaua de autobuze din Northampton pentru a explora. Începeți în centru cu o plimbare de la Piața Centrală la muzeu. Apoi, luați un autobuz spre vastul Parc Abington pentru un picnic sau o plimbare. După-amiaza, luați autobuzul spre istorica Abație Delapré înainte de a vă întoarce în centrul orașului pentru o cină finală.",
+        "en": "Use Northampton's bus network to explore. Start in the centre with a walk from the Market Square to the museum. Then, catch a bus to the expansive Abington Park for a picnic or a stroll. In the afternoon, take a bus to the historic Delapré Abbey before returning to the city centre for a final dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cornish Pasty",
+            "tip": "Ein schneller und leckerer Snack für unterwegs."
+          },
+          {
+            "name": "Cream Tea",
+            "tip": "Finden Sie ein Café in der Nähe von Abington Park für eine klassische britische Leckerei."
+          },
+          {
+            "name": "The Cordwainer",
+            "tip": "Ein großes, zentrales Pub, das leicht mit dem Bus zu erreichen ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cornish Pasty (Húsos táska)",
+            "tip": "Gyors és finom harapnivaló útközben."
+          },
+          {
+            "name": "Cream Tea (Tejszínes tea)",
+            "tip": "Keress egy kávézót az Abington Park közelében egy klasszikus brit csemegéért."
+          },
+          {
+            "name": "The Cordwainer",
+            "tip": "Nagy, központi pub, busszal könnyen megközelíthető."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cornish Pasty",
+            "tip": "O gustare rapidă și gustoasă din mers."
+          },
+          {
+            "name": "Cream Tea",
+            "tip": "Găsiți o cafenea lângă Parcul Abington pentru un deliciu britanic clasic."
+          },
+          {
+            "name": "The Cordwainer",
+            "tip": "Un pub mare, central, ușor accesibil cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cornish Pasty",
+            "tip": "A quick and tasty snack on the go."
+          },
+          {
+            "name": "Cream Tea",
+            "tip": "Find a café near Abington Park for a classic British treat."
+          },
+          {
+            "name": "The Cordwainer",
+            "tip": "A large, central pub that is easy to get to by bus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Oberdeck eines Busses",
+            "tip": "Bietet eine einzigartige und ruhige Perspektive auf die Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Friedhof der Delapré Abbey",
+            "tip": "Ein Ort der Geschichte und Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Die Seen im Abington Park",
+            "tip": "Beobachten Sie die Schwäne und entspannen Sie sich.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy busz felső szintje",
+            "tip": "Egyedi és csendes perspektívát kínál a városra.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Delapré Apátság temetője",
+            "tip": "A történelem és a nyugalom helye.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Az Abington Park tavai",
+            "tip": "Nézd a hattyúkat és pihenj.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Puntea superioară a unui autobuz",
+            "tip": "Oferă o perspectivă unică și liniștită asupra orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Cimitirul Abației Delapré",
+            "tip": "Un loc de istorie și liniște.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Lacurile din Parcul Abington",
+            "tip": "Priviți lebedele și relaxați-vă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Top deck of a bus",
+            "tip": "Offers a unique and quiet perspective on the town.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Delapré Abbey churchyard",
+            "tip": "A place of history and tranquility.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "The lakes at Abington Park",
+            "tip": "Watch the swans and relax.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "The Emporium-Vielfalt",
+            "tip": "Ein großer Indoor-Markt in der Nähe des Busbahnhofs mit vielen Ständen."
+          },
+          {
+            "name": "Museumsshop",
+            "tip": "Bietet interessante Bücher und Geschenke zur lokalen Geschichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Emporium-Választék",
+            "tip": "Nagy fedett piac a buszpályaudvar közelében, sok standdal."
+          },
+          {
+            "name": "Múzeumi bolt",
+            "tip": "Érdekes könyveket és ajándékokat kínál a helyi történelemről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Varietatea Emporium",
+            "tip": "O piață interioară mare, lângă autogară, cu multe tarabe."
+          },
+          {
+            "name": "Magazinul muzeului",
+            "tip": "Oferă cărți și cadouri interesante despre istoria locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Emporium-Variety",
+            "tip": "A large indoor market near the bus station with many stalls."
+          },
+          {
+            "name": "Museum Gift Shop",
+            "tip": "Has interesting books and gifts on local history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die App des lokalen Busunternehmens für Live-Zeiten und Routenplanung herunter.",
+          "Eine Tageskarte ist fast immer günstiger, wenn Sie mehr als zwei Fahrten machen.",
+          "Beachten Sie, dass die Busse abends seltener fahren.",
+          "Fragen Sie den Fahrer, wenn Sie sich bei der Haltestelle nicht sicher sind; sie sind normalerweise hilfsbereit."
+        ],
+        "hu": [
+          "Töltsd le a helyi busztársaság alkalmazását az élő menetrendért és útvonaltervezésért.",
+          "A napijegy szinte mindig olcsóbb, ha kettőnél több utat teszel meg.",
+          "Vedd figyelembe, hogy a buszok este ritkábban közlekednek.",
+          "Kérdezd meg a sofőrt, ha nem vagy biztos a megállóban; általában segítőkészek."
+        ],
+        "ro": [
+          "Descărcați aplicația companiei locale de autobuze pentru orele live și planificarea rutelor.",
+          "Un bilet de o zi este aproape întotdeauna mai ieftin dacă faceți mai mult de două călătorii.",
+          "Fiți conștienți de faptul că autobuzele pot fi mai puțin frecvente seara.",
+          "Întrebați șoferul dacă nu sunteți sigur de oprire; de obicei sunt de ajutor."
+        ],
+        "en": [
+          "Download the local bus company's app for live times and route planning.",
+          "A day-rider ticket is almost always cheaper if you're making more than two trips.",
+          "Be aware that buses may be less frequent in the evenings.",
+          "Ask the driver if you're unsure of a stop; they are usually helpful."
+        ]
+      }
+    }
+  }
+}

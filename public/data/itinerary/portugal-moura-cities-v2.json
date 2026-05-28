@@ -1,0 +1,1511 @@
+{
+  "city_id": "portugal-moura-cities-v2",
+  "anchor": {
+    "name": "Moura",
+    "coords": [
+      -7.4467,
+      38.1401
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 2.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Viertel Mouraria",
+            "hu": "Mouraria negyed",
+            "ro": "Cartierul Mouraria",
+            "en": "Mouraria Quarter"
+          },
+          "coords": [
+            -7.4485,
+            38.1412
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den engen Gassen, um die maurische Essenz zu spüren.",
+            "hu": "Tévedjen el a szűk utcácskákban, hogy átérezze a mór hangulatot.",
+            "ro": "Pierdeți-vă pe străduțele înguste pentru a simți esența maură.",
+            "en": "Get lost in the narrow streets to feel the Moorish essence."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Johannes des Täufers",
+            "hu": "Keresztelő Szent János-templom",
+            "ro": "Biserica Sfântul Ioan Botezătorul",
+            "en": "Church of Saint John the Baptist"
+          },
+          "coords": [
+            -7.4468,
+            38.1425
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie das manuelinische Portal, ein Meisterwerk der portugiesischen Gotik.",
+            "hu": "Figyelje meg a Mánuel stílusú kapuzatot, a portugál gótika remekét.",
+            "ro": "Observați portalul manuelin, o capodoperă a goticului portughez.",
+            "en": "Note the Manueline portal, a masterpiece of Portuguese Gothic."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm",
+            "hu": "Óratorony",
+            "ro": "Turnul cu Ceas",
+            "en": "Clock Tower"
+          },
+          "coords": [
+            -7.4459,
+            38.1428
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:47",
+          "stay_min": 20,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein großartiger Fotopunkt, besonders in der Nähe des Hauptplatzes.",
+            "hu": "Remek fotóhely, különösen a főtér közelében.",
+            "ro": "Un loc excelent pentru fotografii, mai ales lângă piața principală.",
+            "en": "A great photo spot, especially near the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Moura",
+            "hu": "Moura vára",
+            "ro": "Castelul din Moura",
+            "en": "Moura Castle"
+          },
+          "coords": [
+            -7.444,
+            38.1435
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:17",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Mauern für einen Panoramablick über die Stadt und die Landschaft des Alentejo.",
+            "hu": "Másszon fel a falakra a városra és az Alentejo vidékére nyíló panorámáért.",
+            "ro": "Urcați pe ziduri pentru o vedere panoramică asupra orașului și peisajului Alentejo.",
+            "en": "Climb the walls for a panoramic view of the town and the Alentejo countryside."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtisches Museum von Moura",
+            "hu": "Városi Múzeum, Moura",
+            "ro": "Muzeul Municipal din Moura",
+            "en": "Municipal Museum of Moura"
+          },
+          "coords": [
+            -7.4445,
+            38.1422
+          ],
+          "category": "museums",
+          "arrive_at": "12:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekt für ein tieferes Verständnis der reichen Geschichte der Region.",
+            "hu": "Tökéletes a régió gazdag történelmének mélyebb megértéséhez.",
+            "ro": "Perfect pentru o înțelegere mai profundă a istoriei bogate a regiunii.",
+            "en": "Perfect for a deeper understanding of the region's rich history."
+          }
+        },
+        {
+          "name": {
+            "de": "Brunnen der Drei Tüllen",
+            "hu": "Három kifolyó kútja",
+            "ro": "Fântâna celor Trei Guri",
+            "en": "Fountain of the Three Spouts"
+          },
+          "coords": [
+            -7.449,
+            38.1405
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:53",
+          "stay_min": 20,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein einzigartiges und erfrischendes Wahrzeichen, ideal für eine kurze Pause.",
+            "hu": "Egyedi és frissítő látványosság, ideális egy rövid pihenőre.",
+            "ro": "Un monument unic și răcoritor, ideal pentru o scurtă pauză.",
+            "en": "A unique and refreshing landmark, great for a short break."
+          }
+        },
+        {
+          "name": {
+            "de": "Garten Dr. Santiago",
+            "hu": "Dr. Santiago kert",
+            "ro": "Grădina Dr. Santiago",
+            "en": "Dr. Santiago Garden"
+          },
+          "coords": [
+            -7.4498,
+            38.1395
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im Schatten der Bäume, ein perfekter Abschluss für Ihren Spaziergang.",
+            "hu": "Pihenjen a fák árnyékában, tökéletes befejezése a sétának.",
+            "ro": "Relaxați-vă la umbra copacilor, un final perfect pentru plimbarea dumneavoastră.",
+            "en": "Relax under the shade of the trees, a perfect end to your walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Mouraria-Viertel. Mittags erkunden Sie die beeindruckende Burg und das Museum. Am Nachmittag schlendern Sie durch die Gärten. Genießen Sie den Abend bei traditioneller Alentejo-Küche.",
+        "hu": "Kezdje a napot a történelmi Mouraria negyedben. Délben fedezze fel a lenyűgöző várat és a múzeumot. Délután sétáljon a kertekben. Este élvezze a hagyományos Alentejo konyhát.",
+        "ro": "Începeți ziua în cartierul istoric Mouraria. La prânz, explorați castelul impresionant și muzeul. După-amiaza, plimbați-vă prin grădini. Seara, savurați bucătăria tradițională din Alentejo.",
+        "en": "Start your day in the historic Mouraria quarter. At midday, explore the impressive castle and museum. In the afternoon, stroll through the gardens. Enjoy the evening with traditional Alentejo cuisine."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ensopado de Borrego",
+            "tip": "Herzhafter Lammeintopf, ein Klassiker der Region."
+          },
+          {
+            "name": "Açorda Alentejana",
+            "tip": "Brot-Suppe mit Knoblauch, Koriander und pochiertem Ei."
+          },
+          {
+            "name": "Restaurante O Túnel",
+            "tip": "Bekannt für seine authentischen regionalen Gerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ensopado de Borrego",
+            "tip": "Kiadós báránypörkölt, a régió klasszikusa."
+          },
+          {
+            "name": "Açorda Alentejana",
+            "tip": "Fokhagymás, korianderes kenyérleves buggyantott tojással."
+          },
+          {
+            "name": "Restaurante O Túnel",
+            "tip": "Híres az autentikus regionális ételeiről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ensopado de Borrego",
+            "tip": "Tocăniță de miel consistentă, un clasic al regiunii."
+          },
+          {
+            "name": "Açorda Alentejana",
+            "tip": "Supă de pâine cu usturoi, coriandru și ou poșat."
+          },
+          {
+            "name": "Restaurante O Túnel",
+            "tip": "Renumit pentru preparatele sale regionale autentice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ensopado de Borrego",
+            "tip": "Hearty lamb stew, a classic of the region."
+          },
+          {
+            "name": "Açorda Alentejana",
+            "tip": "Bread soup with garlic, cilantro, and poached egg."
+          },
+          {
+            "name": "Restaurante O Túnel",
+            "tip": "Known for its authentic regional dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardim Dr. Santiago",
+            "tip": "Ein ruhiger Ort, um unter den Bäumen ein Buch zu lesen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Mauern der Burg",
+            "tip": "Finden Sie eine ruhige Ecke auf den Mauern, um die Aussicht zu genießen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Convento do Carmo",
+            "tip": "Ein Ort der Stille und der spirituellen Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dr. Santiago kert",
+            "tip": "Csendes hely egy könyv olvasásához a fák alatt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Várfalak",
+            "tip": "Keressen egy csendes zugot a falakon a kilátás élvezetéhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Carmo kolostor",
+            "tip": "A csend és a spirituális elmélkedés helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Dr. Santiago",
+            "tip": "Un loc liniștit pentru a citi o carte la umbra copacilor.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Zidurile castelului",
+            "tip": "Găsiți un colț liniștit pe ziduri pentru a vă bucura de priveliște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Mănăstirea Carmo",
+            "tip": "Un loc de liniște și reflecție spirituală.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dr. Santiago Garden",
+            "tip": "A quiet spot to read a book under the trees.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Castle Walls",
+            "tip": "Find a quiet corner on the walls to enjoy the view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Convento do Carmo",
+            "tip": "A place of silence and spiritual reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Töpferei",
+            "tip": "Suchen Sie nach handbemalter Keramik, die typisch für den Alentejo ist."
+          },
+          {
+            "name": "Azeite de Moura",
+            "tip": "Kaufen Sie eine Flasche des berühmten lokalen Olivenöls."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerámia",
+            "tip": "Keressen kézzel festett kerámiákat, amelyek jellemzőek az Alentejo régióra."
+          },
+          {
+            "name": "Azeite de Moura",
+            "tip": "Vásároljon egy üveg híres helyi olívaolajat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică locală",
+            "tip": "Căutați ceramică pictată manual, tipică pentru Alentejo."
+          },
+          {
+            "name": "Azeite de Moura",
+            "tip": "Cumpărați o sticlă din faimosul ulei de măsline local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Pottery",
+            "tip": "Look for hand-painted ceramics, typical of Alentejo."
+          },
+          {
+            "name": "Azeite de Moura",
+            "tip": "Buy a bottle of the famous local olive oil."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Straßen Kopfsteinpflaster haben.",
+          "Nehmen Sie viel Wasser mit, besonders in den Sommermonaten.",
+          "Die meisten Sehenswürdigkeiten liegen nahe beieinander.",
+          "Probieren Sie das lokale Olivenöl, es ist eines der besten in Portugal."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, az utcák macskakövesek.",
+          "Hozzon magával sok vizet, különösen a nyári hónapokban.",
+          "A legtöbb látnivaló közel van egymáshoz.",
+          "Kóstolja meg a helyi olívaolajat, az egyik legjobb Portugáliában."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece străzile sunt pavate cu piatră cubică.",
+          "Luați multă apă, mai ales în lunile de vară.",
+          "Majoritatea atracțiilor sunt apropiate una de cealaltă.",
+          "Încercați uleiul de măsline local, este unul dintre cele mai bune din Portugalia."
+        ],
+        "en": [
+          "Wear comfortable shoes as the streets are cobblestoned.",
+          "Bring plenty of water, especially during the summer months.",
+          "Most sights are within a short walking distance of each other.",
+          "Try the local olive oil; it's one of the best in Portugal."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:47",
+      "total_km": 5.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Jardim Dr. Santiago",
+            "hu": "Dr. Santiago kert",
+            "ro": "Grădina Dr. Santiago",
+            "en": "Dr. Santiago Garden"
+          },
+          "coords": [
+            -7.4498,
+            38.1395
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein guter Ausgangspunkt, um den Tag entspannt zu beginnen.",
+            "hu": "Jó kiindulópont a nap laza kezdéséhez.",
+            "ro": "Un punct de plecare bun pentru a începe ziua într-un mod relaxat.",
+            "en": "A good starting point to begin the day in a relaxed way."
+          }
+        },
+        {
+          "name": {
+            "de": "Viertel Mouraria",
+            "hu": "Mouraria negyed",
+            "ro": "Cartierul Mouraria",
+            "en": "Mouraria Quarter"
+          },
+          "coords": [
+            -7.4485,
+            38.1412
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie die engen Gassen zu Fuß.",
+            "hu": "Tegye le a biciklit és fedezze fel a szűk utcákat gyalog.",
+            "ro": "Parcați bicicleta și explorați străduțele înguste pe jos.",
+            "en": "Park your bike and explore the narrow alleys on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Johannes des Täufers",
+            "hu": "Keresztelő Szent János-templom",
+            "ro": "Biserica Sfântul Ioan Botezătorul",
+            "en": "Church of Saint John the Baptist"
+          },
+          "coords": [
+            -7.4468,
+            38.1425
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:27",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur, bevor Sie Ihre Radtour fortsetzen.",
+            "hu": "Csodálja meg az építészetet, mielőtt folytatná a kerékpártúrát.",
+            "ro": "Admirați arhitectura înainte de a continua turul cu bicicleta.",
+            "en": "Admire the architecture before continuing your bike tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm",
+            "hu": "Óratorony",
+            "ro": "Turnul cu Ceas",
+            "en": "Clock Tower"
+          },
+          "coords": [
+            -7.4459,
+            38.1428
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:59",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein schneller Halt für ein Foto auf Ihrem Weg zur Burg.",
+            "hu": "Egy gyors megálló egy fotóért a várhoz vezető úton.",
+            "ro": "O oprire rapidă pentru o fotografie în drum spre castel.",
+            "en": "A quick stop for a photo on your way to the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Moura",
+            "hu": "Moura vára",
+            "ro": "Castelul din Moura",
+            "en": "Moura Castle"
+          },
+          "coords": [
+            -7.444,
+            38.1435
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Anstieg lohnt sich für die Aussicht. Nehmen Sie sich Zeit, die Anlage zu erkunden.",
+            "hu": "Megéri a kaptató a kilátásért. Szánjon időt a komplexum felfedezésére.",
+            "ro": "Urcușul merită pentru priveliște. Acordați-vă timp pentru a explora complexul.",
+            "en": "The climb is worth it for the view. Take your time to explore the complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtisches Museum von Moura",
+            "hu": "Városi Múzeum, Moura",
+            "ro": "Muzeul Municipal din Moura",
+            "en": "Municipal Museum of Moura"
+          },
+          "coords": [
+            -7.4445,
+            38.1422
+          ],
+          "category": "museums",
+          "arrive_at": "12:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine willkommene Pause von der Sonne und eine Dosis Kultur.",
+            "hu": "Kellemes pihenő a nap elől és egy adag kultúra.",
+            "ro": "O pauză binevenită de la soare și o doză de cultură.",
+            "en": "A welcome break from the sun and a dose of culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Karmeliterkloster",
+            "hu": "Kármelita kolostor",
+            "ro": "Mănăstirea Carmo",
+            "en": "Convento do Carmo"
+          },
+          "coords": [
+            -7.442,
+            38.142
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Spüren Sie die ruhige und friedliche Atmosphäre dieses historischen Ortes.",
+            "hu": "Érezze a történelmi hely csendes és békés légkörét.",
+            "ro": "Simțiți atmosfera calmă și pașnică a acestui loc istoric.",
+            "en": "Feel the calm and peaceful atmosphere of this historic place."
+          }
+        },
+        {
+          "name": {
+            "de": "Brunnen der Drei Tüllen",
+            "hu": "Három kifolyó kútja",
+            "ro": "Fântâna celor Trei Guri",
+            "en": "Fountain of the Three Spouts"
+          },
+          "coords": [
+            -7.449,
+            38.1405
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:01",
+          "stay_min": 30,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein erfrischender Abschluss Ihrer Radtour durch die Stadt.",
+            "hu": "A városi kerékpártúra frissítő befejezése.",
+            "ro": "Un final răcoritor pentru turul dumneavoastră cu bicicleta prin oraș.",
+            "en": "A refreshing end to your bike tour through the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour im ruhigen Jardim Dr. Santiago. Erkunden Sie das Labyrinth von Mouraria und radeln Sie dann hinauf zur Burg für eine atemberaubende Aussicht. Nach einem kulturellen Stopp im Museum fahren Sie zum Karmeliterkloster und beenden den Tag am einzigartigen Brunnen.",
+        "hu": "Kezdje a kerékpártúrát a csendes Dr. Santiago kertben. Fedezze fel Mouraria labirintusát, majd tekerjen fel a várhoz a lélegzetelállító kilátásért. Egy múzeumi kulturális megálló után irány a Kármelita kolostor, és fejezze be a napot az egyedülálló kútnál.",
+        "ro": "Începeți turul cu bicicleta în liniștita Grădină Dr. Santiago. Explorați labirintul din Mouraria, apoi pedalați până la castel pentru priveliști uimitoare. După o oprire culturală la muzeu, mergeți la Mănăstirea Carmo și încheiați ziua la fântâna unică.",
+        "en": "Start your bike tour in the quiet Dr. Santiago Garden. Explore the labyrinth of Mouraria, then cycle up to the castle for stunning views. After a cultural stop at the museum, head to the Convento do Carmo and finish the day at the unique fountain."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Migas com Carne de Porco",
+            "tip": "Brotkrumen mit Schweinefleisch, ein sättigendes Gericht nach einer Radtour."
+          },
+          {
+            "name": "Sericaia",
+            "tip": "Ein traditionelles Dessert, ähnlich einem Soufflé, mit Pflaumen serviert."
+          },
+          {
+            "name": "Taberna do Liberato",
+            "tip": "Ein gemütlicher Ort mit großartigen Tapas-ähnlichen 'Petiscos'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Migas com Carne de Porco",
+            "tip": "Morzsás étel sertéshússal, laktató egy biciklitúra után."
+          },
+          {
+            "name": "Sericaia",
+            "tip": "Hagyományos, felfújthoz hasonló desszert, szilvával tálalva."
+          },
+          {
+            "name": "Taberna do Liberato",
+            "tip": "Hangulatos hely, remek tapas-szerű 'petiscos'-okkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Migas com Carne de Porco",
+            "tip": "Un fel de mâncare sățios cu pesmet și carne de porc, perfect după un tur cu bicicleta."
+          },
+          {
+            "name": "Sericaia",
+            "tip": "Un desert tradițional, asemănător unui sufleu, servit cu prune."
+          },
+          {
+            "name": "Taberna do Liberato",
+            "tip": "Un loc primitor cu 'petiscos' grozave, asemănătoare tapas-urilor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Migas com Carne de Porco",
+            "tip": "Breadcrumbs with pork, a filling dish after a bike ride."
+          },
+          {
+            "name": "Sericaia",
+            "tip": "A traditional dessert, similar to a soufflé, served with plums."
+          },
+          {
+            "name": "Taberna do Liberato",
+            "tip": "A cozy spot with great tapas-like 'petiscos'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Ardila-Flusses",
+            "tip": "Machen Sie eine kurze Radtour aus der Stadt hinaus zu den ruhigen Flussufern.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Convento do Carmo",
+            "tip": "Die Stille des Klosters ist eine willkommene Abwechslung.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Panoramablick von der Burg",
+            "tip": "Früh am Morgen ist es hier oben besonders friedlich.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ardila folyó partja",
+            "tip": "Tegyen egy rövid biciklitúrát a városból a folyó csendes partjára.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Carmo kolostor",
+            "tip": "A kolostor csendje kellemes kikapcsolódást nyújt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Panorámás kilátás a várból",
+            "tip": "Kora reggel különösen békés itt fent.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Ardila",
+            "tip": "Faceți o scurtă plimbare cu bicicleta în afara orașului până la malurile liniștite ale râului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mănăstirea Carmo",
+            "tip": "Liniștea mănăstirii este o pauză binevenită.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vedere panoramică de la castel",
+            "tip": "Dimineața devreme este deosebit de pașnic aici sus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Ardila River",
+            "tip": "Take a short bike ride out of town to the quiet riverbanks.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Convento do Carmo",
+            "tip": "The silence of the convent is a welcome break.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Panoramic view from the Castle",
+            "tip": "Early in the morning, it is especially peaceful up here.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach frischen Produkten, Käse und lokalem Honig."
+          },
+          {
+            "name": "Korkprodukte",
+            "tip": "Der Alentejo ist berühmt für seine Korkeichen; finden Sie einzigartige Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen friss termékeket, sajtot és helyi mézet."
+          },
+          {
+            "name": "Parafa termékek",
+            "tip": "Az Alentejo híres a parafatölgyeiről; találjon egyedi ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse proaspete, brânzeturi și miere locală."
+          },
+          {
+            "name": "Produse din plută",
+            "tip": "Alentejo este renumit pentru stejarii săi de plută; găsiți suveniruri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for fresh produce, cheese, and local honey."
+          },
+          {
+            "name": "Cork Products",
+            "tip": "Alentejo is famous for its cork oaks; find unique souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad vor der Abfahrt.",
+          "Einige Straßen können steil sein, besonders der Anstieg zur Burg.",
+          "Schließen Sie Ihr Fahrrad immer ab, wenn Sie es abstellen.",
+          "Die Stadt ist klein genug, um sie an einem Tag mit dem Fahrrad zu erkunden."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt.",
+          "Néhány utca meredek lehet, különösen a várhoz vezető emelkedő.",
+          "Mindig zárja le a kerékpárt, ha leállítja.",
+          "A város elég kicsi ahhoz, hogy egy nap alatt bejárható legyen kerékpárral."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni.",
+          "Unele străzi pot fi abrupte, în special urcarea spre castel.",
+          "Încuietăți-vă întotdeauna bicicleta când o lăsați.",
+          "Orașul este suficient de mic pentru a fi explorat într-o zi cu bicicleta."
+        ],
+        "en": [
+          "Check your bike before you set off.",
+          "Some streets can be steep, especially the climb to the castle.",
+          "Always lock your bike when you leave it.",
+          "The town is small enough to explore by bike in a day."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:18",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Burg von Moura",
+            "hu": "Moura vára",
+            "ro": "Castelul din Moura",
+            "en": "Moura Castle"
+          },
+          "coords": [
+            -7.444,
+            38.1435
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und beginnen Sie Ihren Tag mit der besten Aussicht. Dies ist der erste Cluster.",
+            "hu": "Parkoljon a közelben, és kezdje a napot a legjobb kilátással. Ez az első klaszter.",
+            "ro": "Parcați în apropiere și începeți ziua cu cea mai bună priveliște. Acesta este primul cluster.",
+            "en": "Park nearby and start your day with the best views. This is the first cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtisches Museum von Moura",
+            "hu": "Városi Múzeum, Moura",
+            "ro": "Muzeul Municipal din Moura",
+            "en": "Municipal Museum of Moura"
+          },
+          "coords": [
+            -7.4445,
+            38.1422
+          ],
+          "category": "museums",
+          "arrive_at": "10:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Burg entfernt. Lassen Sie das Auto stehen.",
+            "hu": "Rövid séta a vártól. Hagyja az autót.",
+            "ro": "La o scurtă plimbare de castel. Lăsați mașina parcată.",
+            "en": "A short walk from the castle. Leave the car parked."
+          }
+        },
+        {
+          "name": {
+            "de": "Karmeliterkloster",
+            "hu": "Kármelita kolostor",
+            "ro": "Mănăstirea Carmo",
+            "en": "Convento do Carmo"
+          },
+          "coords": [
+            -7.442,
+            38.142
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Auch dieser Ort ist Teil des ersten Clusters und zu Fuß erreichbar.",
+            "hu": "Ez a hely is az első klaszter része, gyalogosan elérhető.",
+            "ro": "Acest loc face, de asemenea, parte din primul cluster și este accesibil pe jos.",
+            "en": "This place is also part of the first cluster and reachable on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Viertel Mouraria",
+            "hu": "Mouraria negyed",
+            "ro": "Cartierul Mouraria",
+            "en": "Mouraria Quarter"
+          },
+          "coords": [
+            -7.4485,
+            38.1412
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:16",
+          "stay_min": 90,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum zweiten Cluster. Parken Sie und erkunden Sie die Altstadt und essen Sie zu Mittag.",
+            "hu": "Vezessen a második klaszterhez. Parkoljon le, fedezze fel az óvárost és ebédeljen.",
+            "ro": "Conduceți spre al doilea cluster. Parcați, explorați orașul vechi și luați prânzul.",
+            "en": "Drive to the second cluster. Park, explore the old town, and have lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Johannes des Täufers",
+            "hu": "Keresztelő Szent János-templom",
+            "ro": "Biserica Sfântul Ioan Botezătorul",
+            "en": "Church of Saint John the Baptist"
+          },
+          "coords": [
+            -7.4468,
+            38.1425
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Herzen von Mouraria aus leicht zu Fuß erreichbar.",
+            "hu": "Mouraria szívéből könnyen elérhető gyalog.",
+            "ro": "Ușor accesibil pe jos din inima cartierului Mouraria.",
+            "en": "Easily walkable from the heart of Mouraria."
+          }
+        },
+        {
+          "name": {
+            "de": "Garten Dr. Santiago",
+            "hu": "Dr. Santiago kert",
+            "ro": "Grădina Dr. Santiago",
+            "en": "Dr. Santiago Garden"
+          },
+          "coords": [
+            -7.4498,
+            38.1395
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:41",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag entspannt in diesem schönen Garten, der sich im zweiten Cluster befindet.",
+            "hu": "Zárja a napot pihenéssel ebben a szép kertben, a második klaszterben.",
+            "ro": "Încheiați ziua relaxându-vă în această grădină frumoasă, situată în al doilea cluster.",
+            "en": "End the day relaxing in this beautiful garden, located in the second cluster."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zum ersten Cluster auf dem Burghügel für tolle Aussichten und Museen. Am Nachmittag fahren Sie ins Zentrum, parken erneut und erkunden das Mouraria-Viertel und die Gärten zu Fuß. Genießen Sie ein spätes Mittagessen in der Altstadt.",
+        "hu": "Vezessen az első klaszterhez a várhegyen a remek kilátásért és a múzeumokért. Délután vezessen a központba, parkoljon újra, és fedezze fel gyalog a Mouraria negyedet és a kerteket. Élvezzen egy késői ebédet az óvárosban.",
+        "ro": "Conduceți la primul cluster de pe dealul castelului pentru priveliști minunate și muzee. După-amiaza, conduceți în centru, parcați din nou și explorați cartierul Mouraria și grădinile pe jos. Savurați un prânz târziu în orașul vechi.",
+        "en": "Drive to the first cluster on the castle hill for great views and museums. In the afternoon, drive to the center, park again, and explore the Mouraria quarter and gardens on foot. Enjoy a late lunch in the old town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ensopado de Borrego",
+            "tip": "Herzhafter Lammeintopf, ein Klassiker der Region."
+          },
+          {
+            "name": "Queijo de Serpa",
+            "tip": "Probieren Sie den starken Schafskäse aus der nahen Stadt Serpa."
+          },
+          {
+            "name": "Adega Típica de Moura",
+            "tip": "Traditionelle Taverne mit ausgezeichnetem Essen und Wein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ensopado de Borrego",
+            "tip": "Kiadós báránypörkölt, a régió klasszikusa."
+          },
+          {
+            "name": "Queijo de Serpa",
+            "tip": "Kóstolja meg a közeli Serpa városából származó erős juhsajtot."
+          },
+          {
+            "name": "Adega Típica de Moura",
+            "tip": "Hagyományos taverna kiváló ételekkel és borral."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ensopado de Borrego",
+            "tip": "Tocăniță de miel consistentă, un clasic al regiunii."
+          },
+          {
+            "name": "Queijo de Serpa",
+            "tip": "Încercați brânza de oaie puternic aromată din orașul apropiat Serpa."
+          },
+          {
+            "name": "Adega Típica de Moura",
+            "tip": "Tavernă tradițională cu mâncare și vin excelente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ensopado de Borrego",
+            "tip": "Hearty lamb stew, a classic of the region."
+          },
+          {
+            "name": "Queijo de Serpa",
+            "tip": "Try the strong sheep cheese from the nearby town of Serpa."
+          },
+          {
+            "name": "Adega Típica de Moura",
+            "tip": "Traditional tavern with excellent food and wine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Landschaft um Moura",
+            "tip": "Machen Sie eine kurze Fahrt aus der Stadt, um die ruhigen Olivenhaine zu sehen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sonnenuntergang von der Burg",
+            "tip": "Kehren Sie am Abend für einen spektakulären Sonnenuntergang zurück.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardim Dr. Santiago",
+            "tip": "Ein friedlicher Rückzugsort mitten in der Stadt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Moura környéki táj",
+            "tip": "Tegyen egy rövid autós utat a városból a csendes olajfaligetekhez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Naplemente a várból",
+            "tip": "Térjen vissza este egy látványos naplementéért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Dr. Santiago kert",
+            "tip": "Békés menedék a város közepén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Peisajul din jurul Moura",
+            "tip": "Faceți o scurtă plimbare cu mașina în afara orașului pentru a vedea livezile liniștite de măslini.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Apus de soare de la castel",
+            "tip": "Reveniți seara pentru un apus spectaculos.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina Dr. Santiago",
+            "tip": "Un refugiu pașnic în mijlocul orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Countryside around Moura",
+            "tip": "Take a short drive out of the city to see the quiet olive groves.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sunset from the Castle",
+            "tip": "Return in the evening for a spectacular sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Dr. Santiago Garden",
+            "tip": "A peaceful retreat in the middle of the city.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Azeite de Moura DOP",
+            "tip": "Das geschützte Olivenöl ist das beste Souvenir."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Finden Sie einzigartige handgefertigte Gegenstände im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Azeite de Moura DOP",
+            "tip": "Az oltalom alatt álló eredetmegjelölésű olívaolaj a legjobb ajándék."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Találjon egyedi, kézzel készített tárgyakat a városközpontban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Azeite de Moura DOP",
+            "tip": "Uleiul de măsline protejat este cel mai bun suvenir."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Găsiți obiecte unice, realizate manual, în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Azeite de Moura DOP",
+            "tip": "The protected designation of origin olive oil is the best souvenir."
+          },
+          {
+            "name": "Craft Shops",
+            "tip": "Find unique handmade items in the city center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken kann im Zentrum eine Herausforderung sein; suchen Sie nach ausgewiesenen Parkplätzen.",
+          "Planen Sie Ihre Route zwischen den Clustern, um Zeit zu sparen.",
+          "Ein Auto ermöglicht es Ihnen, auch die umliegende Landschaft leicht zu erkunden.",
+          "Achten Sie auf enge Gassen in den historischen Vierteln."
+        ],
+        "hu": [
+          "A parkolás kihívást jelenthet a központban; keressen kijelölt parkolókat.",
+          "Tervezze meg az útvonalat a klaszterek között, hogy időt takarítson meg.",
+          "Az autó lehetővé teszi a környező táj könnyű felfedezését is.",
+          "Vigyázzon a szűk utcákkal a történelmi negyedekben."
+        ],
+        "ro": [
+          "Parcarea poate fi o provocare în centru; căutați parcări amenajate.",
+          "Planificați-vă ruta între clustere pentru a economisi timp.",
+          "O mașină vă permite să explorați cu ușurință și peisajul înconjurător.",
+          "Fiți atenți la străzile înguste din cartierele istorice."
+        ],
+        "en": [
+          "Parking can be challenging in the center; look for designated car parks.",
+          "Plan your route between clusters to save time.",
+          "A car allows you to easily explore the surrounding countryside as well.",
+          "Be mindful of narrow streets in the historic quarters."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 3.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Busbahnhof",
+            "hu": "Központi buszpályaudvar",
+            "ro": "Autogara Centrală",
+            "en": "Central Bus Station"
+          },
+          "coords": [
+            -7.451,
+            38.139
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier. Der erste Cluster ist nur einen kurzen Spaziergang entfernt.",
+            "hu": "Kezdje a napot itt. Az első klaszter csak egy rövid sétára van.",
+            "ro": "Începeți ziua aici. Primul cluster este la o scurtă plimbare.",
+            "en": "Start your day here. The first cluster is a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Viertel Mouraria",
+            "hu": "Mouraria negyed",
+            "ro": "Cartierul Mouraria",
+            "en": "Mouraria Quarter"
+          },
+          "coords": [
+            -7.4485,
+            38.1412
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:18",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie das Labyrinth der Gassen, bevor Sie weitergehen.",
+            "hu": "Fedezze fel az utcák labirintusát, mielőtt továbbmenne.",
+            "ro": "Explorați labirintul de străduțe înainte de a merge mai departe.",
+            "en": "Explore the labyrinth of alleys before moving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Johannes des Täufers",
+            "hu": "Keresztelő Szent János-templom",
+            "ro": "Biserica Sfântul Ioan Botezătorul",
+            "en": "Church of Saint John the Baptist"
+          },
+          "coords": [
+            -7.4468,
+            38.1425
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die Altstadt führt Sie zu dieser beeindruckenden Kirche.",
+            "hu": "Egy rövid séta az óvárosban elvezeti ehhez a lenyűgöző templomhoz.",
+            "ro": "O scurtă plimbare prin orașul vechi vă va duce la această biserică impresionantă.",
+            "en": "A short walk through the old town will lead you to this impressive church."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Moura",
+            "hu": "Moura vára",
+            "ro": "Castelul din Moura",
+            "en": "Moura Castle"
+          },
+          "coords": [
+            -7.444,
+            38.1435
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:22",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus zum zweiten Cluster am Burghügel.",
+            "hu": "Vegyen egy helyi buszt a második klaszterhez a várhegyen.",
+            "ro": "Luați un autobuz local spre al doilea cluster, pe dealul castelului.",
+            "en": "Take a local bus to the second cluster on the castle hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtisches Museum von Moura",
+            "hu": "Városi Múzeum, Moura",
+            "ro": "Muzeul Municipal din Moura",
+            "en": "Municipal Museum of Moura"
+          },
+          "coords": [
+            -7.4445,
+            38.1422
+          ],
+          "category": "museums",
+          "arrive_at": "13:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie von der Burg zum Museum, um mehr über die Geschichte zu erfahren.",
+            "hu": "Sétáljon a vártól a múzeumig, hogy többet tudjon meg a történelemről.",
+            "ro": "Mergeți pe jos de la castel la muzeu pentru a afla mai multe despre istorie.",
+            "en": "Walk down from the castle to the museum to learn about history."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardim Dr. Santiago",
+            "hu": "Dr. Santiago kert",
+            "ro": "Grădina Dr. Santiago",
+            "en": "Dr. Santiago Garden"
+          },
+          "coords": [
+            -7.4498,
+            38.1395
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zurück ins Zentrum, um sich im Garten zu entspannen.",
+            "hu": "Menjen busszal vissza a központba, hogy pihenjen a kertben.",
+            "ro": "Luați un autobuz înapoi în centru pentru a vă relaxa în grădină.",
+            "en": "Take a bus back towards the center to relax in the garden."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einem Spaziergang durch den Mouraria-Cluster. Nehmen Sie dann einen Bus zum Burghügel, um den zweiten Cluster mit Burg und Museum zu erkunden. Beenden Sie den Tag, indem Sie einen Bus zurück zum zentralen Gartencluster nehmen, um sich zu entspannen.",
+        "hu": "Kezdje a napot egy sétával a Mouraria klaszterben. Ezután busszal menjen a várhegyre, hogy felfedezze a második klasztert a várral és a múzeummal. A nap végén busszal térjen vissza a központi kerti klaszterhez pihenni.",
+        "ro": "Începeți ziua cu o plimbare prin clusterul Mouraria. Apoi, luați un autobuz până pe dealul castelului pentru a explora al doilea cluster, cu castelul și muzeul. Încheiați ziua luând un autobuz înapoi la clusterul central al grădinii pentru relaxare.",
+        "en": "Start your day with a walk through the Mouraria cluster. Then take a bus to the castle hill to explore the second cluster with the castle and museum. End the day by taking a bus back to the central garden cluster for relaxation."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bifana",
+            "tip": "Ein einfaches, aber leckeres Schweinefleisch-Sandwich, perfekt für unterwegs."
+          },
+          {
+            "name": "Vinho do Alentejo",
+            "tip": "Probieren Sie den lokalen Rotwein, der für seine Fülle bekannt ist."
+          },
+          {
+            "name": "Pastelaria "
+          },
+          {
+            "name": "Pastelaria Mouraria",
+            "tip": "Probieren Sie lokales Gebäck zu einem Kaffee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bifana",
+            "tip": "Egyszerű, de finom sertéshúsos szendvics, tökéletes útközben."
+          },
+          {
+            "name": "Vinho do Alentejo",
+            "tip": "Kóstolja meg a helyi vörösbort, amely a teltségéről ismert."
+          },
+          {
+            "name": "Pastelaria Mouraria",
+            "tip": "Kóstoljon meg helyi süteményeket egy kávé mellett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bifana",
+            "tip": "Un sandviș simplu, dar delicios, cu carne de porc, perfect pentru drum."
+          },
+          {
+            "name": "Vinho do Alentejo",
+            "tip": "Încercați vinul roșu local, cunoscut pentru corpolența sa."
+          },
+          {
+            "name": "Pastelaria Mouraria",
+            "tip": "Gustati produsele de patiserie locale cu o cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bifana",
+            "tip": "A simple but delicious pork sandwich, perfect on the go."
+          },
+          {
+            "name": "Vinho do Alentejo",
+            "tip": "Try the local red wine, known for its full body."
+          },
+          {
+            "name": "Pastelaria Mouraria",
+            "tip": "Try some local pastries with a coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Convento do Carmo",
+            "tip": "Ein Ort der Ruhe, leicht zu Fuß vom Burghügel aus erreichbar.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang am Flussufer",
+            "tip": "Wenn es die Zeit erlaubt, nehmen Sie einen Bus in die Nähe des Ardila-Flusses.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardim Dr. Santiago",
+            "tip": "Der perfekte Ort, um auf den nächsten Bus zu warten oder den Tag ausklingen zu lassen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Carmo kolostor",
+            "tip": "A béke helye, könnyen megközelíthető a várhegyről gyalog.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a folyóparton",
+            "tip": "Ha az idő engedi, menjen busszal az Ardila folyó közelébe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dr. Santiago kert",
+            "tip": "Tökéletes hely a következő buszra várni vagy a napot lezárni.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mănăstirea Carmo",
+            "tip": "Un loc de pace, ușor accesibil pe jos de pe dealul castelului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare pe malul râului",
+            "tip": "Dacă timpul permite, luați un autobuz aproape de râul Ardila.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Dr. Santiago",
+            "tip": "Locul perfect pentru a aștepta următorul autobuz sau pentru a încheia ziua.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Convento do Carmo",
+            "tip": "A place of peace, easily walkable from the castle hill.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Riverbank Stroll",
+            "tip": "If time allows, take a bus near the Ardila River.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dr. Santiago Garden",
+            "tip": "The perfect place to wait for the next bus or wind down the day.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Olivenöl-Kooperative",
+            "tip": "Besuchen Sie die lokale Kooperative, um das berühmte Olivenöl zu kaufen."
+          },
+          {
+            "name": "Lokales Kunsthandwerk",
+            "tip": "Suchen Sie nach Geschäften im Zentrum, die Töpferwaren und Korkartikel verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olívaolaj-szövetkezet",
+            "tip": "Látogasson el a helyi szövetkezetbe, hogy megvásárolja a híres olívaolajat."
+          },
+          {
+            "name": "Helyi kézművesség",
+            "tip": "Keressen a központban boltokat, amelyek kerámiát és parafa termékeket árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cooperativa de ulei de măsline",
+            "tip": "Vizitați cooperativa locală pentru a cumpăra faimosul ulei de măsline."
+          },
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați magazine în centru care vând ceramică și articole din plută."
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive Oil Cooperative",
+            "tip": "Visit the local cooperative to buy the famous olive oil."
+          },
+          {
+            "name": "Local Handicrafts",
+            "tip": "Look for shops in the center selling pottery and cork items."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, da die Verbindungen möglicherweise nicht häufig sind.",
+          "Kaufen Sie eine Tageskarte, wenn verfügbar.",
+          "Beachten Sie, dass die Busse möglicherweise nicht alle kleinen Gassen erreichen.",
+          "Seien Sie auf einige Fußwege zwischen den Bushaltestellen und den Sehenswürdigkeiten vorbereitet."
+        ],
+        "hu": [
+          "Előre ellenőrizze a buszmenetrendet, a járatok ritkák lehetnek.",
+          "Vásároljon napijegyet, ha van.",
+          "Vegye figyelembe, hogy a buszok nem feltétlenül érnek el minden kis utcát.",
+          "Készüljön fel némi gyaloglásra a buszmegállók és a látnivalók között."
+        ],
+        "ro": [
+          "Verificați programul autobuzelor în avans, deoarece s-ar putea să nu fie frecvente.",
+          "Cumpărați un bilet de o zi dacă este disponibil.",
+          "Rețineți că autobuzele s-ar putea să nu ajungă pe toate străduțele mici.",
+          "Fiți pregătiți pentru o oarecare distanță de mers pe jos între stațiile de autobuz și atracții."
+        ],
+        "en": [
+          "Check the bus schedule in advance, as services may be infrequent.",
+          "Purchase a day pass if available.",
+          "Be aware that buses may not reach all the small alleys.",
+          "Be prepared for some walking between bus stops and the sights."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1484 @@
+{
+  "city_id": "spain-denia-cities-v2",
+  "anchor": {
+    "name": "Dénia",
+    "coords": [
+      0.108,
+      38.8403
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "19:55",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Viertel Baix la Mar",
+            "hu": "Baix la Mar negyed",
+            "ro": "Cartierul Baix la Mar",
+            "en": "Baix la Mar Quarter"
+          },
+          "coords": [
+            0.105,
+            38.842
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den Gassen und entdecken Sie die bunten Fischerhäuser.",
+            "hu": "Tévedj el a sikátorokban, és fedezd fel a színes halászházakat.",
+            "ro": "Pierdeți-vă pe străduțe și descoperiți casele colorate ale pescarilor.",
+            "en": "Get lost in the alleys and discover the colourful fishermen's houses."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Himmelfahrt",
+            "hu": "Nagyboldogasszony-templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Assumption"
+          },
+          "coords": [
+            0.106,
+            38.8408
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die barocke Fassade und den achteckigen Glockenturm.",
+            "hu": "Figyeld meg a barokk homlokzatot és a nyolcszögletű harangtornyot.",
+            "ro": "Observați fațada barocă și clopotnița octogonală.",
+            "en": "Notice the baroque facade and the octagonal bell tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo de Dénia",
+            "hu": "Dénia vára",
+            "ro": "Castelul din Dénia",
+            "en": "Castillo de Dénia"
+          },
+          "coords": [
+            0.103,
+            38.843
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:55",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für den Panoramablick über die Stadt und das Meer.",
+            "hu": "A hegymászás megéri a városra és a tengerre nyíló panorámás kilátásért.",
+            "ro": "Urcarea merită pentru vederea panoramică asupra orașului și mării.",
+            "en": "The climb is worth it for the panoramic views over the city and sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Spielzeugmuseum",
+            "hu": "Játékmúzeum",
+            "ro": "Muzeul Jucăriilor",
+            "en": "Toy Museum"
+          },
+          "coords": [
+            0.109,
+            38.8415
+          ],
+          "category": "museums",
+          "arrive_at": "13:05",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Eine nostalgische Reise in die Vergangenheit der spanischen Spielzeugherstellung.",
+            "hu": "Nosztalgikus utazás a spanyol játékgyártás múltjába.",
+            "ro": "O călătorie nostalgică în trecutul producției de jucării spaniole.",
+            "en": "A nostalgic journey into the past of Spanish toy manufacturing."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Dénia und Fischbörse",
+            "hu": "Dénia kikötője és halpiac",
+            "ro": "Portul din Dénia și Piața de Pește",
+            "en": "Port of Dénia & Fish Market"
+          },
+          "coords": [
+            0.115,
+            38.8425
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:15",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kommen Sie am späten Nachmittag, um die Fischauktion in der Lonja zu erleben.",
+            "hu": "Gyere késő délután, hogy megnézd a halárverést a Lonjában.",
+            "ro": "Veniți după-amiaza târziu pentru a asista la licitația de pește de la Lonja.",
+            "en": "Come in the late afternoon to witness the fish auction at the Lonja."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de las Marinas",
+            "hu": "Las Marinas strand",
+            "ro": "Plaja Las Marinas",
+            "en": "Playa de las Marinas"
+          },
+          "coords": [
+            0.08,
+            38.85
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:15",
+          "stay_min": 180,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein langer Sandstrand, perfekt für einen entspannten Nachmittag.",
+            "hu": "Hosszú homokos strand, tökéletes egy pihentető délutánhoz.",
+            "ro": "O plajă lungă cu nisip, perfectă pentru o după-amiază relaxantă.",
+            "en": "A long sandy beach, perfect for a relaxing afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen im Hafenviertel",
+            "hu": "Vacsora a kikötői negyedben",
+            "ro": "Cină în zona portului",
+            "en": "Dinner in the Port Area"
+          },
+          "coords": [
+            0.11,
+            38.842
+          ],
+          "category": "gastro",
+          "arrive_at": "19:25",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Probieren Sie die berühmte rote Garnele von Dénia in einem der Restaurants.",
+            "hu": "Kóstolja meg a híres déniai vörös garnélát az egyik étteremben.",
+            "ro": "Încercați faimosul crevete roșu din Dénia la unul dintre restaurante.",
+            "en": "Try the famous red prawn of Dénia in one of the restaurants."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im charmanten Fischerviertel Baix la Mar. Spüren Sie die Geschichte in der Kirche Mariä Himmelfahrt, bevor Sie die maurische Festung erklimmen, die über der Stadt thront. Der Panoramablick von den Mauern des Castillo de Dénia ist die Belohnung für den Aufstieg. Am Nachmittag schlendern Sie durch den Hafen, beobachten die Fischer und entspannen am goldenen Sand der Playa de las Marinas. Der Tag endet mit einem Festmahl aus frischen Meeresfrüchten und dem Rauschen der Wellen.",
+        "hu": "A nap a bájos Baix la Mar halásznegyedben kezdődik. Érezze a történelem szellemét a Nagyboldogasszony-templomban, mielőtt megmászná a város fölé magasodó mór erődöt. A Castillo de Dénia falairól nyíló panoráma a jutalom a mászásért. Délután sétáljon a kikötőben, figyelje a halászokat, és pihenjen a Playa de las Marinas aranyhomokos partján. A napot friss tenger gyümölcseiből készült lakoma és a hullámok zúgása zárja.",
+        "ro": "Ziua începe în fermecătorul cartier pescăresc Baix la Mar. Simțiți istoria la Biserica Adormirea Maicii Domnului înainte de a urca la fortăreața maură ce domină orașul. Priveliștea panoramică de pe zidurile Castelului din Dénia este răsplata urcușului. După-amiaza, plimbați-vă prin port, priviți pescarii și relaxați-vă pe nisipul auriu al plajei Las Marinas. Ziua se încheie cu un festin de fructe de mare proaspete și sunetul valurilor.",
+        "en": "Your day begins in the charming Baix la Mar fishing district. Feel the history at the Church of the Assumption before climbing the Moorish fortress that towers over the city. The panoramic view from the walls of the Castillo de Dénia is the reward for the climb. In the afternoon, stroll through the port, watch the fishermen, and relax on the golden sands of Playa de las Marinas. The day concludes with a feast of fresh seafood and the sound of the waves."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gamba Roja de Dénia",
+            "tip": "Die Königin der Meeresfrüchte, am besten einfach gegrillt mit etwas Salz."
+          },
+          {
+            "name": "Arròs a banda",
+            "tip": "Ein traditionelles Reisgericht, das im Fischfond gekocht wird, serviert mit Aioli."
+          },
+          {
+            "name": "Llandeta",
+            "tip": "Ein herzhafter Fischeintopf mit Kartoffeln und Safran."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gamba Roja de Dénia",
+            "tip": "A tenger gyümölcseinek királynője, a legjobb egyszerűen grillezve, egy csipet sóval."
+          },
+          {
+            "name": "Arròs a banda",
+            "tip": "Hagyományos, halászlében főtt rizsétel, aiolival tálalva."
+          },
+          {
+            "name": "Llandeta",
+            "tip": "Kiadós halragu burgonyával és sáfránnyal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gamba Roja de Dénia",
+            "tip": "Regina fructelor de mare, cel mai bun simplu la grătar cu puțină sare."
+          },
+          {
+            "name": "Arròs a banda",
+            "tip": "Un preparat tradițional din orez gătit în supă de pește, servit cu aioli."
+          },
+          {
+            "name": "Llandeta",
+            "tip": "O tocană consistentă de pește cu cartofi și șofran."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gamba Roja de Dénia",
+            "tip": "The queen of seafood, best served simply grilled with a little salt."
+          },
+          {
+            "name": "Arròs a banda",
+            "tip": "A traditional rice dish cooked in fish broth, served with aioli."
+          },
+          {
+            "name": "Llandeta",
+            "tip": "A hearty fish stew with potatoes and saffron."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Castillo de Dénia",
+            "tip": "Finden Sie eine ruhige Ecke auf den alten Mauern und blicken Sie auf das Mittelmeer.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Nördliches Ende der Playa de las Marinas",
+            "tip": "Weniger überlaufen, ideal für ein ruhiges Sonnenbad am späten Nachmittag.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Gärten von Torrecremada",
+            "tip": "Etwas außerhalb des Zentrums, aber eine Oase der Ruhe.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Castillo de Dénia kilátópont",
+            "tip": "Keress egy csendes zugot az ősi falakon, és nézz le a Földközi-tengerre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Playa de las Marinas északi vége",
+            "tip": "Kevésbé zsúfolt, ideális egy csendes napozáshoz késő délután.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Torrecremada kertjei",
+            "tip": "Kicsit a központon kívül, de a béke oázisa.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Castillo de Dénia",
+            "tip": "Găsiți un colț liniștit pe zidurile vechi și priviți Marea Mediterană.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Capătul de nord al Playa de las Marinas",
+            "tip": "Mai puțin aglomerat, ideal pentru o baie de soare liniștită după-amiaza târziu.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădinile Torrecremada",
+            "tip": "Puțin în afara centrului, dar o oază de liniște.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castillo de Dénia Viewpoint",
+            "tip": "Find a quiet corner on the ancient walls and gaze out at the Mediterranean.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "North end of Playa de las Marinas",
+            "tip": "Less crowded, ideal for a quiet sunbathe in the late afternoon.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Torrecremada Gardens",
+            "tip": "A bit outside the center, but an oasis of calm.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Städtischer Markt (Mercat Municipal)",
+            "tip": "Kaufen Sie lokale Produkte, von frischem Fisch bis zu süßen Orangen."
+          },
+          {
+            "name": "Calle Marqués de Campo",
+            "tip": "Die Haupteinkaufsstraße mit Boutiquen und bekannten Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi Piac (Mercat Municipal)",
+            "tip": "Vásárolj helyi termékeket a friss haltól az édes narancsig."
+          },
+          {
+            "name": "Calle Marqués de Campo",
+            "tip": "A fő bevásárlóutca butikokkal és ismert márkákkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Municipală (Mercat Municipal)",
+            "tip": "Cumpărați produse locale, de la pește proaspăt la portocale dulci."
+          },
+          {
+            "name": "Calle Marqués de Campo",
+            "tip": "Principala stradă comercială cu buticuri și mărci cunoscute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Municipal Market (Mercat Municipal)",
+            "tip": "Shop for local produce, from fresh fish to sweet oranges."
+          },
+          {
+            "name": "Calle Marqués de Campo",
+            "tip": "The main shopping street with boutiques and well-known brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Nehmen Sie viel Wasser mit, besonders für den Aufstieg zum Schloss.",
+          "Die Strände sind lang; suchen Sie sich einen Platz weiter weg vom Hauptzugang für mehr Ruhe.",
+          "Viele Geschäfte halten eine Siesta am Nachmittag, planen Sie Ihre Einkäufe entsprechend."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, az óvárosi macskakövek egyenetlenek lehetnek.",
+          "Vigyél magaddal sok vizet, különösen a várhoz való feljutáshoz.",
+          "A strandok hosszúak; keress egy helyet távolabb a fő bejárattól a nagyobb nyugalom érdekében.",
+          "Sok üzlet délután sziesztát tart, tervezd a vásárlásaidat ennek megfelelően."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece pavajul din orașul vechi poate fi denivelat.",
+          "Luați multă apă cu voi, mai ales pentru urcarea la castel.",
+          "Plajele sunt lungi; căutați un loc mai departe de intrarea principală pentru mai multă liniște.",
+          "Multe magazine țin siesta după-amiaza, planificați-vă cumpărăturile în consecință."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Bring plenty of water, especially for the climb to the castle.",
+          "The beaches are long; find a spot further from the main entrance for more tranquility.",
+          "Many shops have a siesta in the afternoon, so plan your shopping accordingly."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:48",
+      "total_km": 21.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafen von Dénia",
+            "hu": "Dénia kikötője",
+            "ro": "Portul din Dénia",
+            "en": "Port of Dénia"
+          },
+          "coords": [
+            0.115,
+            38.8425
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einer frischen Brise und dem Blick auf die Jachten und Fischerboote.",
+            "hu": "Kezdje a napot egy friss szellővel és a jachtokra és halászhajókra nyíló kilátással.",
+            "ro": "Începeți ziua cu o briză proaspătă și priveliștea iahturilor și a bărcilor de pescuit.",
+            "en": "Start the day with a fresh breeze and a view of the yachts and fishing boats."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt entlang der Playa de las Marinas",
+            "hu": "Biciklizés a Playa de las Marinas mentén",
+            "ro": "Plimbare pe Playa de las Marinas",
+            "en": "Ride along Playa de las Marinas"
+          },
+          "coords": [
+            0.05,
+            38.865
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:20",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Die Küstenstraße ist flach und ideal für eine lange, entspannte Radtour.",
+            "hu": "A parti út sík és ideális egy hosszú, pihentető kerékpártúrához.",
+            "ro": "Drumul de coastă este plat și ideal pentru o plimbare lungă și relaxantă cu bicicleta.",
+            "en": "The coastal road is flat and ideal for a long, relaxed bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Las Marinas",
+            "hu": "Ebéd Las Marinasban",
+            "ro": "Prânz în Las Marinas",
+            "en": "Lunch in Las Marinas"
+          },
+          "coords": [
+            0.055,
+            38.862
+          ],
+          "category": "gastro",
+          "arrive_at": "12:20",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Viele Chiringuitos (Strandbars) bieten frischen Fisch und Paella direkt am Strand.",
+            "hu": "Számos chiringuito (parti bár) kínál friss halat és paellát közvetlenül a parton.",
+            "ro": "Multe chiringuitos (baruri pe plajă) oferă pește proaspăt și paella chiar pe plajă.",
+            "en": "Many chiringuitos (beach bars) offer fresh fish and paella right on the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturpark Montgó (unterer Bereich)",
+            "hu": "Montgó Natúrpark (alsó rész)",
+            "ro": "Parcul Natural Montgó (zona inferioară)",
+            "en": "Montgó Natural Park (lower area)"
+          },
+          "coords": [
+            0.13,
+            38.82
+          ],
+          "category": "natural features",
+          "arrive_at": "14:42",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die einfachen Wege am Fuße des Berges, die auch für Radfahrer geeignet sind.",
+            "hu": "Fedezze fel a hegy lábánál lévő könnyű, kerékpárosok számára is alkalmas ösvényeket.",
+            "ro": "Explorați traseele ușoare de la poalele muntelui, potrivite și pentru bicicliști.",
+            "en": "Explore the easy trails at the foot of the mountain, which are also suitable for cyclists."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo de Dénia",
+            "hu": "Dénia vára",
+            "ro": "Castelul din Dénia",
+            "en": "Castillo de Dénia"
+          },
+          "coords": [
+            0.103,
+            38.843
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:27",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad am Eingang ab und genießen Sie den Aufstieg und die Aussicht.",
+            "hu": "Hagyja a kerékpárját a bejáratnál, és élvezze a mászást és a kilátást.",
+            "ro": "Lăsați-vă bicicleta la intrare și bucurați-vă de urcare și de priveliște.",
+            "en": "Leave your bike at the entrance and enjoy the climb and the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Getränk in Baix la Mar",
+            "hu": "Ital a Baix la Mar-ban",
+            "ro": "O băutură în Baix la Mar",
+            "en": "Drink in Baix la Mar"
+          },
+          "coords": [
+            0.105,
+            38.842
+          ],
+          "category": "gastro",
+          "arrive_at": "18:13",
+          "stay_min": 65,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie die Tour mit einem kühlen Getränk in einer der Bars im alten Fischerviertel.",
+            "hu": "Zárja a túrát egy hűsítő itallal a régi halásznegyed egyik bárjában.",
+            "ro": "Încheiați turul cu o băutură răcoritoare la unul dintre barurile din vechiul cartier pescăresc.",
+            "en": "End the tour with a cool drink in one of the bars in the old fishing district."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel und beginnen Sie Ihre Tour im lebhaften Hafen von Dénia. Radeln Sie die Küste entlang, spüren Sie die Meeresbrise und genießen Sie die Sonne an der ausgedehnten Playa de las Marinas. Nach einem Mittagessen am Strand führt Sie Ihre Route landeinwärts zum Fuße des majestätischen Montgó-Berges. Der Nachmittag ist der Geschichte gewidmet: Erklimmen Sie die Burg von Dénia, bevor Sie den Tag in den malerischen Gassen von Baix la Mar bei einem erfrischenden Getränk ausklingen lassen.",
+        "hu": "Pattanjon nyeregbe, és kezdje a túrát Dénia nyüzsgő kikötőjében. Tekerjen végig a tengerparton, érezze a tengeri szellőt, és élvezze a napsütést a tágas Playa de las Marinas-on. Egy tengerparti ebéd után az útvonal a fenséges Montgó-hegy lábához vezet. A délután a történelemé: mássza meg Dénia várát, mielőtt a napot Baix la Mar festői sikátoraiban egy frissítő ital mellett fejezné be.",
+        "ro": "Urcați-vă pe bicicletă și începeți turul în portul animat din Dénia. Pedalați de-a lungul coastei, simțiți briza mării și bucurați-vă de soare pe întinsa Playa de las Marinas. După un prânz pe plajă, traseul vă duce spre interior, la poalele maiestuosului munte Montgó. După-amiaza este dedicată istoriei: urcați la Castelul din Dénia înainte de a încheia ziua pe aleile pitorești din Baix la Mar cu o băutură răcoritoare.",
+        "en": "Get on your bike and start your tour in the lively port of Dénia. Cycle along the coast, feel the sea breeze and enjoy the sun on the extensive Playa de las Marinas. After lunch on the beach, your route takes you inland to the foot of the majestic Montgó mountain. The afternoon is dedicated to history: climb the Castle of Dénia before ending the day in the picturesque alleys of Baix la Mar with a refreshing drink."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Paella Valenciana",
+            "tip": "Obwohl es viele Varianten gibt, probieren Sie die klassische Version."
+          },
+          {
+            "name": "Espencat",
+            "tip": "Ein Salat aus gerösteten roten Paprika, Auberginen und Kabeljau."
+          },
+          {
+            "name": "Horchata con Fartons",
+            "tip": "Ein erfrischendes Getränk aus Erdmandeln, perfekt nach einer Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paella Valenciana",
+            "tip": "Bár sok változata létezik, kóstolja meg a klasszikus verziót."
+          },
+          {
+            "name": "Espencat",
+            "tip": "Sült pirospaprikából, padlizsánból és tőkehalból készült saláta."
+          },
+          {
+            "name": "Horchata con Fartons",
+            "tip": "Földimandulából készült frissítő ital, tökéletes egy kerékpártúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paella Valenciana",
+            "tip": "Deși există multe variante, încercați versiunea clasică."
+          },
+          {
+            "name": "Espencat",
+            "tip": "O salată de ardei roșii copți, vinete și cod."
+          },
+          {
+            "name": "Horchata con Fartons",
+            "tip": "O băutură răcoritoare din alune de pământ, perfectă după o plimbare cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Paella Valenciana",
+            "tip": "Although there are many variations, try the classic version."
+          },
+          {
+            "name": "Espencat",
+            "tip": "A salad of roasted red peppers, eggplant, and cod."
+          },
+          {
+            "name": "Horchata con Fartons",
+            "tip": "A refreshing drink made from tiger nuts, perfect after a bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque Natural del Montgó",
+            "tip": "Die unteren Wanderwege bieten eine ruhige Flucht aus der Hektik der Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Las Rotas",
+            "tip": "Ein felsiger Küstenabschnitt südlich der Stadt, ideal zum Schnorcheln in ruhigen Buchten.",
+            "emoji": "🐠"
+          },
+          {
+            "name": "Sonnenuntergang am Hafen",
+            "tip": "Beobachten Sie, wie die Sonne hinter den Bergen untergeht und den Himmel in leuchtende Farben taucht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parque Natural del Montgó",
+            "tip": "Az alsó turistaútvonalak csendes menekülést kínálnak a város nyüzsgéséből.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Las Rotas",
+            "tip": "Sziklás tengerparti szakasz a várostól délre, ideális búvárkodáshoz csendes öblökben.",
+            "emoji": "🐠"
+          },
+          {
+            "name": "Naplemente a kikötőben",
+            "tip": "Nézd, ahogy a nap lemegy a hegyek mögött, és ragyogó színekre festi az eget.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Natural Montgó",
+            "tip": "Traseele inferioare oferă o evadare liniștită din agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Las Rotas",
+            "tip": "O porțiune de coastă stâncoasă la sud de oraș, ideală pentru snorkeling în golfuri liniștite.",
+            "emoji": "🐠"
+          },
+          {
+            "name": "Apus de soare în port",
+            "tip": "Priviți cum soarele apune în spatele munților, pictând cerul în culori vibrante.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parque Natural del Montgó",
+            "tip": "The lower trails offer a quiet escape from the hustle and bustle of the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Las Rotas",
+            "tip": "A rocky coastal section south of the city, ideal for snorkeling in quiet coves.",
+            "emoji": "🐠"
+          },
+          {
+            "name": "Sunset at the port",
+            "tip": "Watch the sun set behind the mountains, painting the sky in vibrant colors.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt (Montags)",
+            "tip": "Ein großer Markt, auf dem Sie alles von Kleidung bis zu lokalen Handwerksprodukten finden."
+          },
+          {
+            "name": "Keramik aus Dénia",
+            "tip": "Suchen Sie nach handbemalter Keramik, einem traditionellen Handwerk der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac (hétfőnként)",
+            "tip": "Nagy piac, ahol a ruháktól a helyi kézműves termékekig mindent megtalál."
+          },
+          {
+            "name": "Déniai kerámia",
+            "tip": "Keressen kézzel festett kerámiát, a régió hagyományos kézműves termékét."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală (Luni)",
+            "tip": "O piață mare unde puteți găsi de toate, de la haine la produse artizanale locale."
+          },
+          {
+            "name": "Ceramică din Dénia",
+            "tip": "Căutați ceramică pictată manual, o ambarcațiune tradițională a regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market (Mondays)",
+            "tip": "A large market where you can find everything from clothes to local crafts."
+          },
+          {
+            "name": "Dénia ceramics",
+            "tip": "Look for hand-painted ceramics, a traditional craft of the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad mit Gangschaltung, falls Sie die Hügel des Montgó erkunden möchten.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, besonders an belebten Orten wie dem Strand.",
+          "Die Küstenstraße kann im Sommer sehr belebt sein, fahren Sie vorausschauend.",
+          "Nutzen Sie die vielen Fahrradwege, die Dénia zu bieten hat."
+        ],
+        "hu": [
+          "Bérelj váltós kerékpárt, ha a Montgó dombjait szeretnéd felfedezni.",
+          "Mindig zárd le jól a kerékpárodat, különösen forgalmas helyeken, mint a strand.",
+          "A parti út nyáron nagyon forgalmas lehet, vezess előrelátóan.",
+          "Használd ki a Déniában található számos kerékpárutat."
+        ],
+        "ro": [
+          "Închiriați o bicicletă cu viteze dacă doriți să explorați dealurile din Montgó.",
+          "Legați-vă întotdeauna bine bicicleta, mai ales în locuri aglomerate precum plaja.",
+          "Drumul de coastă poate fi foarte aglomerat vara, conduceți preventiv.",
+          "Profitați de numeroasele piste de biciclete pe care le oferă Dénia."
+        ],
+        "en": [
+          "Rent a bike with gears if you want to explore the hills of Montgó.",
+          "Always lock your bike securely, especially in busy places like the beach.",
+          "The coastal road can be very busy in summer, ride with foresight.",
+          "Take advantage of the many cycle paths that Dénia has to offer."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:00",
+      "total_km": 31.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Altstadt & Kirche",
+            "hu": "1. csoport: Óváros és templom",
+            "ro": "Cluster 1: Centrul vechi și Biserica",
+            "en": "Cluster 1: Old Town & Church"
+          },
+          "coords": [
+            0.106,
+            38.8408
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe der Plaza de la Constitución und beginnen Sie Ihren Spaziergang hier.",
+            "hu": "Parkoljon a Plaza de la Constitución közelében, és kezdje itt a sétát.",
+            "ro": "Parcați lângă Plaza de la Constitución și începeți plimbarea de aici.",
+            "en": "Park near the Plaza de la Constitución and start your walk here."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Himmelfahrt",
+            "hu": "Nagyboldogasszony-templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Assumption"
+          },
+          "coords": [
+            0.106,
+            38.8408
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Plaza. Bewundern Sie die Architektur.",
+            "hu": "Rövid séta a térről. Csodálja meg az építészetet.",
+            "ro": "O scurtă plimbare din piață. Admirați arhitectura.",
+            "en": "A short walk from the Plaza. Admire the architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Viertel Baix la Mar",
+            "hu": "Baix la Mar negyed",
+            "ro": "Cartierul Baix la Mar",
+            "en": "Baix la Mar Quarter"
+          },
+          "coords": [
+            0.105,
+            38.842
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:17",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die malerischen Gassen zum alten Fischerviertel.",
+            "hu": "Sétáljon a festői sikátorokon át a régi halásznegyedbe.",
+            "ro": "Plimbați-vă pe aleile pitorești până la vechiul cartier pescăresc.",
+            "en": "Stroll through the picturesque alleys to the old fishing district."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Castillo de Dénia",
+            "hu": "2. csoport: Dénia vára",
+            "ro": "Cluster 2: Castelul din Dénia",
+            "en": "Cluster 2: Castillo de Dénia"
+          },
+          "coords": [
+            0.103,
+            38.843
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:12",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz des Schlosses. Der Panoramablick von oben ist atemberaubend.",
+            "hu": "Vezessen a vár parkolójába. A fentről nyíló panoráma lélegzetelállító.",
+            "ro": "Conduceți până la parcarea castelului. Priveliștea panoramică de sus este uluitoare.",
+            "en": "Drive to the castle's car park. The panoramic view from the top is breathtaking."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Naturpark Montgó",
+            "hu": "3. csoport: Montgó Natúrpark",
+            "ro": "Cluster 3: Parcul Natural Montgó",
+            "en": "Cluster 3: Montgó Natural Park"
+          },
+          "coords": [
+            0.135,
+            38.81
+          ],
+          "category": "natural features",
+          "arrive_at": "13:32",
+          "stay_min": 75,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zu einem der Aussichtspunkte am Fuße des Montgó für eine andere Perspektive.",
+            "hu": "Vezessen a Montgó lábánál található egyik kilátóponthoz egy másik perspektíváért.",
+            "ro": "Conduceți la unul dintre punctele de belvedere de la poalele Montgó pentru o altă perspectivă.",
+            "en": "Drive to one of the viewpoints at the foot of Montgó for a different perspective."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 4: Playa & Mittagessen",
+            "hu": "4. csoport: Strand és ebéd",
+            "ro": "Cluster 4: Plajă și prânz",
+            "en": "Cluster 4: Beach & Lunch"
+          },
+          "coords": [
+            0.06,
+            38.86
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:27",
+          "stay_min": 180,
+          "hop_mode": "car",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 20.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zur Playa de las Marinas, parken Sie und genießen Sie den Strand und ein spätes Mittagessen.",
+            "hu": "Vezessen a Playa de las Marinas-ra, parkoljon le, és élvezze a strandot és egy késői ebédet.",
+            "ro": "Conduceți la Playa de las Marinas, parcați și bucurați-vă de plajă și de un prânz târziu.",
+            "en": "Drive to Playa de las Marinas, park, and enjoy the beach and a late lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Sonnenuntergang am Hafen",
+            "hu": "Naplemente a kikötőben",
+            "ro": "Apus de soare în port",
+            "en": "Sunset at the Port"
+          },
+          "coords": [
+            0.115,
+            38.8425
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "18:30",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie vom Strandrestaurant zum Hafen, um den Tag ausklingen zu lassen.",
+            "hu": "Sétáljon a strandétteremtől a kikötőig, hogy lezárja a napot.",
+            "ro": "Faceți o plimbare de la restaurantul de pe plajă la port pentru a încheia ziua.",
+            "en": "Take a walk from the beach restaurant to the port to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Dénia in bequemen Etappen. Der Vormittag gehört der Altstadt: Parken Sie im Zentrum und entdecken Sie zu Fuß das historische Flair von Baix la Mar und der Kirche Mariä Himmelfahrt. Danach fahren Sie hinauf zum Castillo für eine unvergleichliche Aussicht. Am frühen Nachmittag bringt Sie eine kurze Fahrt zur beeindruckenden Kulisse des Montgó-Naturparks. Den Höhepunkt des Tages bildet der ausgedehnte Sandstrand von Las Marinas, wo Sie nach einem erfrischenden Bad ein spätes Mittagessen genießen, bevor Sie den Sonnenuntergang am Hafen bewundern.",
+        "hu": "Autóval kényelmes szakaszokban fedezheti fel Déniát. A délelőtt az óvárosé: parkoljon a központban, és fedezze fel gyalog Baix la Mar és a Nagyboldogasszony-templom történelmi hangulatát. Ezután vezessen fel a várhoz egy páratlan kilátásért. Kora délután egy rövid autóút a lenyűgöző Montgó Natúrparkhoz vezet. A nap fénypontja a Las Marinas tágas homokos strandja, ahol egy frissítő fürdő után egy késői ebédet fogyaszthat, mielőtt megcsodálná a naplementét a kikötőben.",
+        "ro": "Cu mașina, explorați Dénia în etape confortabile. Dimineața este dedicată orașului vechi: parcați în centru și descoperiți pe jos farmecul istoric al cartierului Baix la Mar și al Bisericii Adormirea Maicii Domnului. Apoi, urcați cu mașina la castel pentru o priveliște de neegalat. La începutul după-amiezii, o scurtă călătorie cu mașina vă duce la peisajul impresionant al Parcului Natural Montgó. Punctul culminant al zilei este plaja întinsă de nisip din Las Marinas, unde vă bucurați de un prânz târziu după o baie răcoritoare, înainte de a admira apusul în port.",
+        "en": "By car, you can explore Dénia in comfortable stages. The morning belongs to the old town: park in the center and discover the historic flair of Baix la Mar and the Church of the Assumption on foot. Then, drive up to the castle for an unparalleled view. In the early afternoon, a short drive takes you to the impressive scenery of the Montgó Natural Park. The highlight of the day is the extensive sandy beach of Las Marinas, where you can enjoy a late lunch after a refreshing swim before admiring the sunset at the port."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gamba Roja de Dénia",
+            "tip": "Ein Muss. Die roten Garnelen sind das kulinarische Wahrzeichen der Stadt."
+          },
+          {
+            "name": "Arroz negro",
+            "tip": "Schwarzer Reis mit Tintenfischtinte und Meeresfrüchten."
+          },
+          {
+            "name": "Mistela",
+            "tip": "Ein süßer Likörwein aus der Region, perfekt zum Dessert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gamba Roja de Dénia",
+            "tip": "Kötelező. A vörös garnéla a város kulináris jelképe."
+          },
+          {
+            "name": "Arroz negro",
+            "tip": "Fekete rizs tintahalfestékkel és tenger gyümölcseivel."
+          },
+          {
+            "name": "Mistela",
+            "tip": "Édes likőrbor a régióból, tökéletes desszerthez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gamba Roja de Dénia",
+            "tip": "O necesitate. Crevetele roșu este emblema culinară a orașului."
+          },
+          {
+            "name": "Arroz negro",
+            "tip": "Orez negru cu cerneală de sepie și fructe de mare."
+          },
+          {
+            "name": "Mistela",
+            "tip": "Un vin licoros dulce din regiune, perfect pentru desert."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gamba Roja de Dénia",
+            "tip": "A must-try. The red prawn is the culinary emblem of the city."
+          },
+          {
+            "name": "Arroz negro",
+            "tip": "Black rice with squid ink and seafood."
+          },
+          {
+            "name": "Mistela",
+            "tip": "A sweet liqueur wine from the region, perfect with dessert."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cova de l'Aigua (Montgó)",
+            "tip": "Eine kurze Wanderung zu einer Höhle mit römischen Inschriften. Bringen Sie eine Taschenlampe mit.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtspunkt Les Rotes",
+            "tip": "Fahren Sie entlang der felsigen Küste von Les Rotes für dramatische Meerblicke.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Jardín de l'Albarda",
+            "tip": "Ein wunderschöner mediterraner Garten in der Nähe, ideal für eine ruhige Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cova de l'Aigua (Montgó)",
+            "tip": "Rövid túra egy barlanghoz római feliratokkal. Hozz magaddal zseblámpát.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Les Rotes kilátó",
+            "tip": "Vezessen végig a sziklás Les Rotes partvidéken a drámai tengeri kilátásért.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Jardín de l'Albarda",
+            "tip": "Egy gyönyörű mediterrán kert a közelben, ideális egy csendes pihenőhöz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cova de l'Aigua (Montgó)",
+            "tip": "O scurtă drumeție la o peșteră cu inscripții romane. Aduceți o lanternă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Punct de belvedere Les Rotes",
+            "tip": "Conduceți de-a lungul coastei stâncoase din Les Rotes pentru vederi dramatice la mare.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Jardín de l'Albarda",
+            "tip": "O frumoasă grădină mediteraneană în apropiere, ideală pentru o pauză liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cova de l'Aigua (Montgó)",
+            "tip": "A short hike to a cave with Roman inscriptions. Bring a flashlight.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Les Rotes viewpoint",
+            "tip": "Drive along the rocky coast of Les Rotes for dramatic sea views.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Jardín de l'Albarda",
+            "tip": "A beautiful Mediterranean garden nearby, ideal for a quiet break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Portal de la Marina Einkaufszentrum",
+            "tip": "Für ein umfassendes Einkaufserlebnis mit vielen Marken, etwas außerhalb der Stadt."
+          },
+          {
+            "name": "Lokale Weine",
+            "tip": "Suchen Sie nach Weinen aus der Region Alicante, insbesondere Muskateller."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Portal de la Marina bevásárlóközpont",
+            "tip": "Egy átfogó vásárlási élményért számos márkával, kissé a városon kívül."
+          },
+          {
+            "name": "Helyi borok",
+            "tip": "Keressen borokat az Alicante régióból, különösen a Muskateller-t."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Portal de la Marina",
+            "tip": "Pentru o experiență de cumpărături completă, cu multe mărci, chiar în afara orașului."
+          },
+          {
+            "name": "Vinuri locale",
+            "tip": "Căutați vinuri din regiunea Alicante, în special Muscat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Portal de la Marina Shopping Center",
+            "tip": "For a comprehensive shopping experience with many brands, just outside the city."
+          },
+          {
+            "name": "Local wines",
+            "tip": "Look for wines from the Alicante region, especially Muscatel."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum kann im Sommer schwierig sein. Nutzen Sie die größeren Parkplätze am Stadtrand.",
+          "Die Straßen zum Montgó können eng und kurvig sein, fahren Sie vorsichtig.",
+          "Ein Auto gibt Ihnen die Flexibilität, auch die kleineren, abgelegenen Buchten und Strände zu entdecken.",
+          "Achten Sie auf die blauen Zonen (zona azul) für gebührenpflichtiges Parken."
+        ],
+        "hu": [
+          "A parkolás a városközpontban nyáron nehéz lehet. Használja a város szélén lévő nagyobb parkolókat.",
+          "A Montgóhoz vezető utak szűkek és kanyargósak lehetnek, vezessen óvatosan.",
+          "Az autó rugalmasságot ad a kisebb, eldugottabb öblök és strandok felfedezéséhez is.",
+          "Figyeljen a kék zónákra (zona azul) a fizetős parkolásnál."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi dificilă vara. Folosiți parcările mai mari de la periferie.",
+          "Drumurile spre Montgó pot fi înguste și sinuoase, conduceți cu prudență.",
+          "O mașină vă oferă flexibilitatea de a descoperi și golfurile și plajele mai mici și mai izolate.",
+          "Fiți atenți la zonele albastre (zona azul) pentru parcare cu plată."
+        ],
+        "en": [
+          "Parking in the city center can be difficult in summer. Use the larger car parks on the outskirts.",
+          "The roads to Montgó can be narrow and winding, drive carefully.",
+          "A car gives you the flexibility to discover the smaller, more remote coves and beaches.",
+          "Pay attention to the blue zones (zona azul) for paid parking."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "19:15",
+      "total_km": 15.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Altstadt & Burg",
+            "hu": "1. csoport: Óváros és vár",
+            "ro": "Cluster 1: Centrul Vechi și Castel",
+            "en": "Cluster 1: Old Town & Castle"
+          },
+          "coords": [
+            0.108,
+            38.8403
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie an einer zentralen Bushaltestelle und erkunden Sie die Gassen von Baix la Mar.",
+            "hu": "Kezdje egy központi buszmegállónál, és fedezze fel Baix la Mar sikátorait.",
+            "ro": "Începeți de la o stație de autobuz centrală și explorați aleile din Baix la Mar.",
+            "en": "Start at a central bus stop and explore the alleys of Baix la Mar."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo de Dénia",
+            "hu": "Dénia vára",
+            "ro": "Castelul din Dénia",
+            "en": "Castillo de Dénia"
+          },
+          "coords": [
+            0.103,
+            38.843
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:40",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der Aufstieg vom Stadtzentrum aus ist steil, aber lohnend.",
+            "hu": "A városközpontból való feljutás meredek, de megéri.",
+            "ro": "Urcușul din centrul orașului este abrupt, dar plin de satisfacții.",
+            "en": "The climb from the city center is steep but rewarding."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Strand & Mittagessen",
+            "hu": "2. csoport: Strand és ebéd",
+            "ro": "Cluster 2: Plajă și prânz",
+            "en": "Cluster 2: Beach & Lunch"
+          },
+          "coords": [
+            0.07,
+            38.855
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:10",
+          "stay_min": 180,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus entlang der Küstenstraße Las Marinas und steigen Sie aus, wo es Ihnen gefällt.",
+            "hu": "Vegyen egy buszt a Las Marinas tengerparti úton, és szálljon le, ahol tetszik.",
+            "ro": "Luați un autobuz de-a lungul drumului de coastă Las Marinas și coborâți unde doriți.",
+            "en": "Take a bus along the Las Marinas coastal road and get off wherever you like."
+          }
+        },
+        {
+          "name": {
+            "de": "Spätes Mittagessen am Strand",
+            "hu": "Késői ebéd a strandon",
+            "ro": "Prânz târziu pe plajă",
+            "en": "Late lunch on the beach"
+          },
+          "coords": [
+            0.071,
+            38.854
+          ],
+          "category": "gastro",
+          "arrive_at": "15:10",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Viele Restaurants sind direkt von den Bushaltestellen an der Küste aus erreichbar.",
+            "hu": "Sok étterem közvetlenül elérhető a tengerparti buszmegállókból.",
+            "ro": "Multe restaurante sunt direct accesibile de la stațiile de autobuz de pe coastă.",
+            "en": "Many restaurants are directly accessible from the coastal bus stops."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Hafenviertel",
+            "hu": "3. csoport: Kikötői negyed",
+            "ro": "Cluster 3: Zona portuară",
+            "en": "Cluster 3: Port District"
+          },
+          "coords": [
+            0.115,
+            38.8425
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "17:15",
+          "stay_min": 60,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zurück ins Zentrum und erkunden Sie den Hafen und die Fischauktionshalle (Lonja).",
+            "hu": "Menjen vissza a központba, és fedezze fel a kikötőt és a halpiacot (Lonja).",
+            "ro": "Întoarceți-vă în centru și explorați portul și hala de licitații de pește (Lonja).",
+            "en": "Head back to the center and explore the port and the fish auction hall (Lonja)."
+          }
+        },
+        {
+          "name": {
+            "de": "Abschiedsgetränk",
+            "hu": "Búcsúital",
+            "ro": "Băutură de adio",
+            "en": "Farewell Drink"
+          },
+          "coords": [
+            0.11,
+            38.842
+          ],
+          "category": "gastro",
+          "arrive_at": "18:20",
+          "stay_min": 85,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Finden Sie eine gemütliche Bar in der Nähe des Hafens, um den Tag Revue passieren zu lassen.",
+            "hu": "Keressen egy hangulatos bárt a kikötő közelében, hogy felidézze a napot.",
+            "ro": "Găsiți un bar primitor lângă port pentru a rememora ziua.",
+            "en": "Find a cozy bar near the port to reflect on the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank des lokalen Busnetzes lässt sich Dénia entspannt erkunden. Beginnen Sie Ihren Tag zu Fuß im historischen Herzen der Stadt und erklimmen Sie die Burg. Anschließend bringt Sie ein Bus bequem zum langen Sandstrand von Las Marinas, wo Sie schwimmen, sonnenbaden und ein köstliches Mittagessen genießen können. Am späten Nachmittag fahren Sie zurück ins Zentrum, um das geschäftige Treiben im Hafen und an der Fischbörse zu erleben. Ein letzter Drink in einer der charmanten Bars rundet Ihren perfekten Tag in Dénia ab.",
+        "hu": "A helyi buszhálózatnak köszönhetően Dénia nyugodtan felfedezhető. Kezdje a napot gyalog a város történelmi szívében, és mássza meg a várat. Ezután egy busz kényelmesen elviszi a hosszú Las Marinas homokos strandjára, ahol úszhat, napozhat és élvezhet egy finom ebédet. Késő délután utazzon vissza a központba, hogy megtapasztalja a kikötő és a halpiac nyüzsgését. Egy utolsó ital az egyik bájos bárban teszi teljessé a tökéletes déniai napot.",
+        "ro": "Datorită rețelei locale de autobuze, Dénia poate fi explorată într-un mod relaxat. Începeți ziua pe jos în inima istorică a orașului și urcați la castel. Apoi, un autobuz vă duce confortabil la lunga plajă cu nisip Las Marinas, unde puteți înota, face plajă și savura un prânz delicios. După-amiaza târziu, reveniți în centru pentru a experimenta agitația din port și de la bursa de pește. O ultimă băutură la unul dintre barurile fermecătoare completează ziua perfectă în Dénia.",
+        "en": "Thanks to the local bus network, Dénia can be explored in a relaxed way. Start your day on foot in the historic heart of the city and climb the castle. Afterwards, a bus will take you comfortably to the long sandy beach of Las Marinas, where you can swim, sunbathe and enjoy a delicious lunch. In the late afternoon, travel back to the center to experience the hustle and bustle of the port and the fish market. A final drink in one of the charming bars completes your perfect day in Dénia."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Ein klassisches spanisches Sandwich mit frittierten Tintenfischringen, ideal für unterwegs."
+          },
+          {
+            "name": "Fideuà",
+            "tip": "Ähnlich wie Paella, aber mit Nudeln statt Reis. Eine Spezialität aus der Region Gandia in der Nähe."
+          },
+          {
+            "name": "Buñuelos de calabaza",
+            "tip": "Süße Kürbiskrapfen, oft auf Festen und Märkten zu finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Klasszikus spanyol szendvics sült tintahalkarikákkal, ideális útközben."
+          },
+          {
+            "name": "Fideuà",
+            "tip": "Hasonló a paellához, de tésztával rizs helyett. A közeli Gandia régió specialitása."
+          },
+          {
+            "name": "Buñuelos de calabaza",
+            "tip": "Édes sütőtökfánk, gyakran fesztiválokon és piacokon található."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Un sandviș spaniol clasic cu inele de calamar prăjite, ideal pentru a fi luat la pachet."
+          },
+          {
+            "name": "Fideuà",
+            "tip": "Similar cu paella, dar cu paste în loc de orez. O specialitate din regiunea Gandia din apropiere."
+          },
+          {
+            "name": "Buñuelos de calabaza",
+            "tip": "Gogoși dulci de dovleac, adesea găsite la festivaluri și piețe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "A classic Spanish sandwich with fried squid rings, ideal for on the go."
+          },
+          {
+            "name": "Fideuà",
+            "tip": "Similar to paella, but with noodles instead of rice. A specialty from the nearby Gandia region."
+          },
+          {
+            "name": "Buñuelos de calabaza",
+            "tip": "Sweet pumpkin fritters, often found at festivals and markets."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque de Torrecremada",
+            "tip": "Ein öffentlicher Park mit schönen Gärten, der leicht mit dem Bus zu erreichen ist.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ende der Hafenmole",
+            "tip": "Gehen Sie bis zum Ende der Mole für eine ruhige Aussicht auf die Burg und die Küste.",
+            "emoji": "⚓"
+          },
+          {
+            "name": "Les Rotes Küste",
+            "tip": "Einige Buslinien fahren in Richtung dieses felsigen Küstenabschnitts, der sich hervorragend für ruhige Spaziergänge eignet.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parque de Torrecremada",
+            "tip": "Nyilvános park gyönyörű kertekkel, busszal könnyen megközelíthető.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A kikötői móló vége",
+            "tip": "Sétáljon el a móló végéig, ahonnan csendes kilátás nyílik a várra és a partra.",
+            "emoji": "⚓"
+          },
+          {
+            "name": "Les Rotes partvidék",
+            "tip": "Néhány buszjárat e sziklás partvidék felé tart, amely kiválóan alkalmas csendes sétákra.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parque de Torrecremada",
+            "tip": "Un parc public cu grădini frumoase, ușor accesibil cu autobuzul.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Capătul digului portuar",
+            "tip": "Mergeți până la capătul digului pentru o priveliște liniștită a castelului și a coastei.",
+            "emoji": "⚓"
+          },
+          {
+            "name": "Coasta Les Rotes",
+            "tip": "Unele linii de autobuz merg spre această secțiune de coastă stâncoasă, excelentă pentru plimbări liniștite.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parque de Torrecremada",
+            "tip": "A public park with beautiful gardens, easily accessible by bus.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "End of the port breakwater",
+            "tip": "Walk to the end of the pier for a quiet view of the castle and the coast.",
+            "emoji": "⚓"
+          },
+          {
+            "name": "Les Rotes coast",
+            "tip": "Some bus lines go towards this rocky coastal section, which is excellent for quiet walks.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Städtischer Markt (Mercat Municipal)",
+            "tip": "Leicht zu Fuß von den zentralen Bushaltestellen erreichbar."
+          },
+          {
+            "name": "Calle Marqués de Campo",
+            "tip": "Die Hauptbushaltestellen befinden sich in der Nähe dieser Einkaufsstraße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi Piac (Mercat Municipal)",
+            "tip": "Könnyen megközelíthető gyalog a központi buszmegállókból."
+          },
+          {
+            "name": "Calle Marqués de Campo",
+            "tip": "A fő buszmegállók e bevásárlóutca közelében találhatók."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Municipală (Mercat Municipal)",
+            "tip": "Ușor de ajuns pe jos de la stațiile centrale de autobuz."
+          },
+          {
+            "name": "Calle Marqués de Campo",
+            "tip": "Stațiile principale de autobuz sunt situate în apropierea acestei străzi comerciale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Municipal Market (Mercat Municipal)",
+            "tip": "Easily accessible on foot from the central bus stops."
+          },
+          {
+            "name": "Calle Marqués de Campo",
+            "tip": "The main bus stops are located near this shopping street."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine wiederaufladbare Buskarte (tarjeta recargable) für günstigere Fahrpreise.",
+          "Informieren Sie sich im Voraus über die Busfahrpläne, da die Frequenz je nach Saison und Tageszeit variiert.",
+          "Die Busse entlang der Küste von Las Marinas halten häufig – Sie können fast überall aussteigen.",
+          "Validieren Sie Ihr Ticket beim Einsteigen in den Bus."
+        ],
+        "hu": [
+          "Vásároljon újratölthető buszkártyát (tarjeta recargable) az olcsóbb viteldíjakért.",
+          "Tájékozódjon előre a buszmenetrendekről, mivel a gyakoriság szezontól és napszaktól függően változik.",
+          "A Las Marinas partján közlekedő buszok gyakran megállnak – szinte bárhol leszállhat.",
+          "Érvényesítse a jegyét a buszra való felszálláskor."
+        ],
+        "ro": [
+          "Cumpărați un card de autobuz reîncărcabil (tarjeta recargable) pentru tarife mai ieftine.",
+          "Verificați în avans orarele autobuzelor, deoarece frecvența variază în funcție de sezon și de ora din zi.",
+          "Autobuzele de-a lungul coastei Las Marinas opresc frecvent - puteți coborî aproape oriunde.",
+          "Validați-vă biletul la urcarea în autobuz."
+        ],
+        "en": [
+          "Buy a rechargeable bus card (tarjeta recargable) for cheaper fares.",
+          "Check the bus schedules in advance, as the frequency varies depending on the season and time of day.",
+          "The buses along the Las Marinas coast stop frequently - you can get off almost anywhere.",
+          "Validate your ticket when boarding the bus."
+        ]
+      }
+    }
+  }
+}

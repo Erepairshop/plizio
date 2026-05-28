@@ -1,0 +1,1556 @@
+{
+  "city_id": "belgium-kortrijk-cities-v2",
+  "anchor": {
+    "name": "Kortrijk",
+    "coords": [
+      3.2649,
+      50.828
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Begijnhof Kortrijk",
+            "hu": "Kortrijki Beginaház",
+            "ro": "Begijnhof Kortrijk",
+            "en": "Beguinage of Kortrijk"
+          },
+          "coords": [
+            3.268,
+            50.829
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Stille in diesem UNESCO-Weltkulturerbe.",
+            "hu": "Élvezze a csendet ebben az UNESCO világörökségi helyszínen.",
+            "ro": "Bucurați-vă de liniștea din acest sit al Patrimoniului Mondial UNESCO.",
+            "en": "Enjoy the silence in this UNESCO World Heritage site."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Kortrijk",
+            "hu": "Kortrijki Városháza",
+            "ro": "Primăria din Kortrijk",
+            "en": "Kortrijk Town Hall"
+          },
+          "coords": [
+            3.2655,
+            50.8278
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:58",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Statuen der Grafen von Flandern an der Fassade.",
+            "hu": "Csodálja meg Flandria grófjainak szobrait a homlokzaton.",
+            "ro": "Admirați statuile conților de Flandra de pe fațadă.",
+            "en": "Admire the statues of the Counts of Flanders on the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Belfried von Kortrijk",
+            "hu": "Kortrijki harangtorony",
+            "ro": "Beffroi din Kortrijk",
+            "en": "Belfry of Kortrijk"
+          },
+          "coords": [
+            3.265,
+            50.828
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Aufstieg wird mit einer fantastischen Aussicht belohnt.",
+            "hu": "A mászást fantasztikus kilátás jutalmazza.",
+            "ro": "Urcarea este recompensată cu o priveliște fantastică.",
+            "en": "The climb is rewarded with a fantastic view."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt-Martins-Kirche",
+            "hu": "Szent Márton-templom",
+            "ro": "Biserica Sfântul Martin",
+            "en": "Saint Martin's Church"
+          },
+          "coords": [
+            3.268,
+            50.827
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie das beeindruckende Sakramentsturm aus dem 16. Jahrhundert.",
+            "hu": "Figyelje meg a lenyűgöző 16. századi szentségi tornyot.",
+            "ro": "Observați impresionantul turn al sacramentului din secolul al XVI-lea.",
+            "en": "Note the impressive 16th-century sacrament tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Broeltürme",
+            "hu": "Broel-tornyok",
+            "ro": "Turnurile Broel",
+            "en": "Broel Towers"
+          },
+          "coords": [
+            3.26,
+            50.83
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Wahrzeichen der Stadt, perfekt für ein Erinnerungsfoto.",
+            "hu": "A város jelképe, tökéletes egy emlékképhez.",
+            "ro": "Emblema orașului, perfectă pentru o fotografie suvenir.",
+            "en": "The city's landmark, perfect for a souvenir photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Texture Museum",
+            "hu": "Textil Múzeum",
+            "ro": "Muzeul Texture",
+            "en": "Texture Museum"
+          },
+          "coords": [
+            3.258,
+            50.83
+          ],
+          "category": "museums",
+          "arrive_at": "12:48",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein interaktives Museum über die Leinen- und Flachsindustrie.",
+            "hu": "Interaktív múzeum a len- és kenderiparról.",
+            "ro": "Un muzeu interactiv despre industria inului și a cânepei.",
+            "en": "An interactive museum about the linen and flax industry."
+          }
+        },
+        {
+          "name": {
+            "de": "Internationaler Rosengarten",
+            "hu": "Nemzetközi Rózsakert",
+            "ro": "Grădina Internațională de Trandafiri",
+            "en": "International Rose Garden"
+          },
+          "coords": [
+            3.28,
+            50.825
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 1.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein friedlicher Ort, besonders schön während der Blütezeit im Sommer.",
+            "hu": "Békés hely, különösen szép a nyári virágzás idején.",
+            "ro": "Un loc pașnic, deosebit de frumos în timpul înfloririi de vară.",
+            "en": "A peaceful place, especially beautiful during the summer bloom."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im ruhigen Begijnhof, einem UNESCO-Weltkulturerbe. Schlendern Sie durch das historische Zentrum, vorbei am Rathaus und dem Belfried, und besuchen Sie die beeindruckende Sankt-Martins-Kirche. Nach dem Mittagessen überqueren Sie die Leie, um die berühmten Broeltürme zu sehen und in die Geschichte der Textilindustrie im Texture Museum einzutauchen. Der Nachmittag endet mit einem entspannten Spaziergang durch den farbenfrohen Internationalen Rosengarten.",
+        "hu": "Kezdje a napot a csendes Beginaházban, egy UNESCO világörökségi helyszínen. Sétáljon végig a történelmi központon, a Városháza és a harangtorony mellett, és látogasson el a lenyűgöző Szent Márton-templomba. Ebéd után keljen át a Leie folyón, hogy megnézze a híres Broel-tornyokat, és elmerüljön a textilipar történetében a Textil Múzeumban. A délután egy pihentető sétával zárul a színpompás Nemzetközi Rózsakertben.",
+        "ro": "Începeți ziua în liniștitul Begijnhof, un sit al Patrimoniului Mondial UNESCO. Plimbați-vă prin centrul istoric, trecând pe lângă Primărie și Beffroi, și vizitați impunătoarea Biserică Sfântul Martin. După prânz, traversați râul Leie pentru a vedea faimoasele Turnuri Broel și a vă cufunda în istoria industriei textile la Muzeul Texture. După-amiaza se încheie cu o plimbare relaxantă prin colorata Grădină Internațională de Trandafiri.",
+        "en": "Start your day in the quiet Beguinage, a UNESCO World Heritage site. Stroll through the historic center, past the Town Hall and the Belfry, and visit the impressive Saint Martin's Church. After lunch, cross the river Leie to see the famous Broel Towers and delve into the history of the textile industry at the Texture Museum. The afternoon ends with a relaxing walk through the colorful International Rose Garden."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kortrijkse Peperbollen",
+            "tip": "Ein lokales pfeffriges Gebäck, perfekt für eine Kaffeepause."
+          },
+          {
+            "name": "Belgische Pommes Frites",
+            "tip": "Probieren Sie sie mit einer Vielzahl von Saucen in einer lokalen 'Frituur'."
+          },
+          {
+            "name": "Vaartkapoen",
+            "tip": "Ein starkes belgisches Bier, gebraut in der Nähe. Genießen Sie es in einem der Cafés am Grote Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kortrijki Peperbollen",
+            "tip": "Helyi borsos sütemény, tökéletes egy kávészünethez."
+          },
+          {
+            "name": "Belga hasábburgonya",
+            "tip": "Kóstolja meg különféle szószokkal egy helyi 'frituur'-ban."
+          },
+          {
+            "name": "Vaartkapoen",
+            "tip": "Erős belga sör, a közelben főzve. Fogyassza a Grote Markt egyik kávézójában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kortrijkse Peperbollen",
+            "tip": "Un produs de patiserie local piperat, perfect pentru o pauză de cafea."
+          },
+          {
+            "name": "Cartofi prăjiți belgieni",
+            "tip": "Încercați-i cu o varietate de sosuri la o 'frituur' locală."
+          },
+          {
+            "name": "Vaartkapoen",
+            "tip": "O bere belgiană tare, produsă în apropiere. Savurați-o la una dintre cafenelele din Grote Markt."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kortrijkse Peperbollen",
+            "tip": "A local peppery pastry, perfect for a coffee break."
+          },
+          {
+            "name": "Belgian Fries",
+            "tip": "Try them with a variety of sauces at a local 'frituur'."
+          },
+          {
+            "name": "Vaartkapoen",
+            "tip": "A strong Belgian beer brewed nearby. Enjoy it at one of the cafes on the Grote Markt."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Leie",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses, besonders bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Innenhof des Begijnhof",
+            "tip": "Eine Oase der Ruhe mitten in der Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Geheime Gärten",
+            "tip": "Entdecken Sie die kleinen, versteckten Gärten hinter den Häuserfassaden.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Leie folyó partja",
+            "tip": "Csendes séta a folyó mentén, különösen naplementekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Beginaház udvara",
+            "tip": "A nyugalom oázisa a város közepén.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Titkos kertek",
+            "tip": "Fedezze fel a házak homlokzatai mögött rejtőző kis kerteket.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Leie",
+            "tip": "O plimbare liniștită de-a lungul râului, mai ales la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curtea interioară a Begijnhof",
+            "tip": "O oază de liniște în mijlocul orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădini secrete",
+            "tip": "Descoperiți micile grădini ascunse în spatele fațadelor caselor.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Leie",
+            "tip": "A quiet walk along the river, especially at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Courtyard of the Beguinage",
+            "tip": "An oasis of calm in the middle of the city.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Secret Gardens",
+            "tip": "Discover the small, hidden gardens behind the house facades.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lange Steenstraat",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus bekannten Marken und lokalen Boutiquen."
+          },
+          {
+            "name": "K in Kortrijk",
+            "tip": "Ein modernes Einkaufszentrum mit über 80 Geschäften im Herzen der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lange Steenstraat",
+            "tip": "A fő bevásárlóutca ismert márkák és helyi butikok keverékével."
+          },
+          {
+            "name": "K in Kortrijk",
+            "tip": "Modern bevásárlóközpont több mint 80 üzlettel a város szívében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lange Steenstraat",
+            "tip": "Principala stradă comercială cu un amestec de mărci cunoscute și buticuri locale."
+          },
+          {
+            "name": "K in Kortrijk",
+            "tip": "Un centru comercial modern cu peste 80 de magazine în inima orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lange Steenstraat",
+            "tip": "The main shopping street with a mix of well-known brands and local boutiques."
+          },
+          {
+            "name": "K in Kortrijk",
+            "tip": "A modern shopping center with over 80 stores in the heart of the city."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten sind zu Fuß erreichbar, also planen Sie genügend Zeit für spontane Entdeckungen ein.",
+          "Probieren Sie ein lokales Bier in einem der vielen Cafés am Grote Markt.",
+          "Kortrijk ist eine fahrradfreundliche Stadt, aber als Fußgänger sollten Sie auf Radfahrer achten."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakő az óvárosban egyenetlen lehet.",
+          "A legtöbb látnivaló gyalogosan elérhető, ezért hagyjon elég időt a spontán felfedezésekre.",
+          "Kóstoljon meg egy helyi sört a Grote Markt számos kávézójának egyikében.",
+          "Kortrijk kerékpárbarát város, de gyalogosként figyeljen a kerékpárosokra."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavelele din orașul vechi pot fi denivelate.",
+          "Majoritatea atracțiilor sunt accesibile pe jos, așa că planificați suficient timp pentru descoperiri spontane.",
+          "Încercați o bere locală la una dintre numeroasele cafenele din Grote Markt.",
+          "Kortrijk este un oraș prietenos cu bicicletele, dar ca pieton, fiți atenți la bicicliști."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Most sights are within walking distance, so allow enough time for spontaneous discoveries.",
+          "Try a local beer at one of the many cafes on the Grote Markt.",
+          "Kortrijk is a bike-friendly city, but as a pedestrian, be aware of cyclists."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 7.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus & Belfried",
+            "hu": "Városháza és Harangtorony",
+            "ro": "Primăria și Beffroi",
+            "en": "Town Hall & Belfry"
+          },
+          "coords": [
+            3.265,
+            50.828
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie am Grote Markt, dem pulsierenden Herzen der Stadt.",
+            "hu": "Induljon a Grote Marktról, a város lüktető szívéből.",
+            "ro": "Începeți din Grote Markt, inima vibrantă a orașului.",
+            "en": "Start at the Grote Markt, the vibrant heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Begijnhof Kortrijk",
+            "hu": "Kortrijki Beginaház",
+            "ro": "Begijnhof Kortrijk",
+            "en": "Beguinage of Kortrijk"
+          },
+          "coords": [
+            3.268,
+            50.829
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:58",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer Abstecher in eine Welt der Stille und Geschichte.",
+            "hu": "Rövid kitérő a csend és a történelem világába.",
+            "ro": "Un scurt ocol într-o lume a liniștii și istoriei.",
+            "en": "A short detour into a world of silence and history."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt-Martins-Kirche",
+            "hu": "Szent Márton-templom",
+            "ro": "Biserica Sfântul Martin",
+            "en": "Saint Martin's Church"
+          },
+          "coords": [
+            3.268,
+            50.827
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:30",
+          "stay_min": 35,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und bewundern Sie die gotische Architektur.",
+            "hu": "Tegye le a biciklit, és csodálja meg a gótikus építészetet.",
+            "ro": "Parcați bicicleta și admirați arhitectura gotică.",
+            "en": "Park your bike and admire the Gothic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "K in Kortrijk",
+            "hu": "K in Kortrijk",
+            "ro": "K in Kortrijk",
+            "en": "K in Kortrijk"
+          },
+          "coords": [
+            3.27,
+            50.825
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein moderner Kontrast zur historischen Altstadt, gut für eine kurze Shoppingpause.",
+            "hu": "Modern kontraszt a történelmi óvárossal, jó egy rövid vásárlási szünetre.",
+            "ro": "Un contrast modern cu orașul vechi istoric, bun pentru o scurtă pauză de cumpărături.",
+            "en": "A modern contrast to the historic old town, good for a short shopping break."
+          }
+        },
+        {
+          "name": {
+            "de": "Broeltürme",
+            "hu": "Broel-tornyok",
+            "ro": "Turnurile Broel",
+            "en": "Broel Towers"
+          },
+          "coords": [
+            3.26,
+            50.83
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:57",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radeln Sie entlang der Leie und genießen Sie den Blick auf die Türme.",
+            "hu": "Kerékpározzon a Leie mentén, és élvezze a tornyokra nyíló kilátást.",
+            "ro": "Pedalați de-a lungul râului Leie și bucurați-vă de priveliștea turnurilor.",
+            "en": "Cycle along the Leie and enjoy the view of the towers."
+          }
+        },
+        {
+          "name": {
+            "de": "Texture Museum",
+            "hu": "Textil Múzeum",
+            "ro": "Muzeul Texture",
+            "en": "Texture Museum"
+          },
+          "coords": [
+            3.258,
+            50.83
+          ],
+          "category": "museums",
+          "arrive_at": "12:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause und um der Hitze oder dem Regen zu entkommen.",
+            "hu": "Tökéletes egy ebédszünetre, és hogy elmeneküljön a hőség vagy az eső elől.",
+            "ro": "Perfect pentru o pauză de prânz și pentru a scăpa de căldură sau ploaie.",
+            "en": "Perfect for a lunch break and to escape the heat or rain."
+          }
+        },
+        {
+          "name": {
+            "de": "Internationaler Rosengarten",
+            "hu": "Nemzetközi Rózsakert",
+            "ro": "Grădina Internațională de Trandafiri",
+            "en": "International Rose Garden"
+          },
+          "coords": [
+            3.28,
+            50.825
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein schöner Ort, um die Beine auszustrecken und die Blumen zu bewundern.",
+            "hu": "Szép hely a lábak kinyújtóztatására és a virágok megcsodálására.",
+            "ro": "Un loc frumos pentru a vă întinde picioarele și a admira florile.",
+            "en": "A lovely place to stretch your legs and admire the flowers."
+          }
+        },
+        {
+          "name": {
+            "de": "Leie-Ufer",
+            "hu": "Leie-part",
+            "ro": "Malurile Leie",
+            "en": "Leie Banks"
+          },
+          "coords": [
+            3.262,
+            50.829
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:33",
+          "stay_min": 45,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einer entspannten Fahrt zurück ins Zentrum entlang des Flusses.",
+            "hu": "Zárja a napot egy pihentető tekeréssel vissza a központba a folyó mentén.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă înapoi în centru, de-a lungul râului.",
+            "en": "End the day with a relaxing ride back to the center along the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Kortrijk auf zwei Rädern. Starten Sie am Grote Markt, besuchen Sie den ruhigen Begijnhof und die gotische Sankt-Martins-Kirche. Nach einem kurzen Shopping-Stopp bei 'K in Kortrijk' radeln Sie entlang der Leie zu den Broeltürmen. Das Texture Museum bietet eine willkommene Pause am Mittag. Am Nachmittag entspannen Sie im Rosengarten, bevor Sie gemütlich am Flussufer zurück ins Zentrum radeln.",
+        "hu": "Fedezze fel Kortrijkot két keréken. Induljon a Grote Marktról, látogasson el a csendes Beginaházba és a gótikus Szent Márton-templomba. Egy rövid vásárlási megálló után a 'K in Kortrijk'-nál tekerjen a Leie mentén a Broel-tornyokhoz. A Textil Múzeum kellemes pihenőt kínál délben. Délután pihenjen a Rózsakertben, mielőtt kényelmesen visszatekerne a folyóparton a központba.",
+        "ro": "Explorați Kortrijk pe două roți. Începeți din Grote Markt, vizitați liniștitul Begijnhof și gotica Biserică Sfântul Martin. După o scurtă oprire pentru cumpărături la 'K in Kortrijk', pedalați de-a lungul râului Leie spre Turnurile Broel. Muzeul Texture oferă o pauză binevenită la prânz. După-amiaza, relaxați-vă în Grădina de Trandafiri înainte de a pedala agale înapoi spre centru de-a lungul malului râului.",
+        "en": "Explore Kortrijk on two wheels. Start at the Grote Markt, visit the quiet Beguinage and the Gothic Saint Martin's Church. After a short shopping stop at 'K in Kortrijk', cycle along the Leie to the Broel Towers. The Texture Museum offers a welcome break at noon. In the afternoon, relax in the Rose Garden before leisurely cycling back to the center along the riverbank."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Belgische Waffeln",
+            "tip": "Gönnen Sie sich eine süße Belohnung mit frischen Früchten und Schokolade."
+          },
+          {
+            "name": "Omer",
+            "tip": "Ein bekanntes lokales Bier, das perfekt zu einem herzhaften Mittagessen passt."
+          },
+          {
+            "name": "Waterzooi",
+            "tip": "Ein cremiger Eintopf mit Huhn oder Fisch, eine Spezialität aus der Region Gent, aber auch hier zu finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belga gofri",
+            "tip": "Kényeztesse magát egy édes jutalommal friss gyümölcsökkel és csokoládéval."
+          },
+          {
+            "name": "Omer",
+            "tip": "Ismert helyi sör, amely tökéletesen illik egy kiadós ebédhez."
+          },
+          {
+            "name": "Waterzooi",
+            "tip": "Krémes egytálétel csirkével vagy hallal, a genti régió specialitása, de itt is megtalálható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gofre belgiene",
+            "tip": "Răsfățați-vă cu un deliciu dulce cu fructe proaspete și ciocolată."
+          },
+          {
+            "name": "Omer",
+            "tip": "O bere locală renumită, perfectă pentru un prânz copios."
+          },
+          {
+            "name": "Waterzooi",
+            "tip": "O tocană cremoasă cu pui sau pește, o specialitate din regiunea Gent, dar care se găsește și aici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Belgian Waffles",
+            "tip": "Treat yourself to a sweet reward with fresh fruits and chocolate."
+          },
+          {
+            "name": "Omer",
+            "tip": "A well-known local beer that pairs perfectly with a hearty lunch."
+          },
+          {
+            "name": "Waterzooi",
+            "tip": "A creamy stew with chicken or fish, a specialty from the Ghent region but also found here."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Buda-Insel",
+            "tip": "Eine ruhige Insel in der Leie, ideal für eine kurze Pause vom Radfahren.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rosengarten",
+            "tip": "Verweilen Sie zwischen den duftenden Blumen und genießen Sie die Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Begijnhof",
+            "tip": "Selbst mit dem Fahrrad finden Sie hier einen Moment der Stille.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buda-sziget",
+            "tip": "Csendes sziget a Leie folyón, ideális egy rövid kerékpáros pihenőre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rózsakert",
+            "tip": "Időzzön el az illatos virágok között, és élvezze a nyugalmat.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Beginaház",
+            "tip": "Még kerékpárral is talál itt egy pillanatnyi csendet.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Insula Buda",
+            "tip": "O insulă liniștită pe râul Leie, ideală pentru o scurtă pauză de la ciclism.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina de Trandafiri",
+            "tip": "Zăboviți printre florile parfumate și bucurați-vă de liniște.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Begijnhof",
+            "tip": "Chiar și pe bicicletă, veți găsi aici un moment de liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Buda Island",
+            "tip": "A quiet island on the Leie river, ideal for a short break from cycling.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rose Garden",
+            "tip": "Linger among the fragrant flowers and enjoy the tranquility.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Beguinage",
+            "tip": "Even by bike, you will find a moment of silence here.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Märkte",
+            "tip": "Halten Sie Ausschau nach Wochenmärkten für frische Produkte und lokale Spezialitäten."
+          },
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Kortrijk hat viele ausgezeichnete Fahrradgeschäfte für Zubehör oder Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piacok",
+            "tip": "Keresse a heti piacokat friss termékekért és helyi különlegességekért."
+          },
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Kortrijkban számos kiváló kerékpárbolt található kiegészítőkért vagy ajándéktárgyakért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe locale",
+            "tip": "Căutați piețele săptămânale pentru produse proaspete și specialități locale."
+          },
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Kortrijk are multe magazine excelente de biciclete pentru accesorii sau suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Markets",
+            "tip": "Look for weekly markets for fresh produce and local specialties."
+          },
+          {
+            "name": "Bike Shops",
+            "tip": "Kortrijk has many excellent bike shops for accessories or souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad an einer der vielen Stationen in der Stadt.",
+          "Achten Sie auf die Einbahnstraßen, die für Radfahrer oft in beide Richtungen befahrbar sind.",
+          "Nutzen Sie die gut ausgebauten Radwege entlang der Leie.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, besonders im Stadtzentrum."
+        ],
+        "hu": [
+          "Béreljen kerékpárt a város számos állomásának egyikén.",
+          "Figyeljen az egyirányú utcákra, amelyek a kerékpárosok számára gyakran mindkét irányban járhatók.",
+          "Használja a Leie mentén jól kiépített kerékpárutakat.",
+          "Mindig zárja le jól a kerékpárját, különösen a városközpontban."
+        ],
+        "ro": [
+          "Închiriați o bicicletă de la una dintre numeroasele stații din oraș.",
+          "Fiți atenți la străzile cu sens unic, care sunt adesea deschise în ambele sensuri pentru bicicliști.",
+          "Folosiți pistele de biciclete bine dezvoltate de-a lungul râului Leie.",
+          "Legați-vă întotdeauna bine bicicleta, mai ales în centrul orașului."
+        ],
+        "en": [
+          "Rent a bike at one of the many stations in the city.",
+          "Pay attention to the one-way streets, which are often open in both directions for cyclists.",
+          "Use the well-developed cycle paths along the Leie.",
+          "Always lock your bike securely, especially in the city center."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken am Zentrum",
+            "hu": "Parkolás a központban",
+            "ro": "Parcare în centru",
+            "en": "Parking at the Center"
+          },
+          "coords": [
+            3.269,
+            50.826
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Tiefgarage unter dem Schouwburgplein für den ersten Teil des Tages.",
+            "hu": "Parkoljon a Schouwburgplein alatti mélygarázsban a nap első részére.",
+            "ro": "Parcați în parcarea subterană de sub Schouwburgplein pentru prima parte a zilei.",
+            "en": "Park in the underground garage under Schouwburgplein for the first part of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Belfried",
+            "hu": "Városháza és Harangtorony",
+            "ro": "Primăria și Beffroi",
+            "en": "Town Hall & Belfry"
+          },
+          "coords": [
+            3.265,
+            50.828
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:18",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Spaziergang auf dem Grote Markt.",
+            "hu": "Kezdje a sétát a Grote Markton.",
+            "ro": "Începeți plimbarea în Grote Markt.",
+            "en": "Start your walk in the Grote Markt."
+          }
+        },
+        {
+          "name": {
+            "de": "Begijnhof Kortrijk",
+            "hu": "Kortrijki Beginaház",
+            "ro": "Begijnhof Kortrijk",
+            "en": "Beguinage of Kortrijk"
+          },
+          "coords": [
+            3.268,
+            50.829
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang bringt Sie zu dieser Oase der Ruhe.",
+            "hu": "Egy rövid séta elvezeti Önt a nyugalom ezen oázisába.",
+            "ro": "O scurtă plimbare vă duce la această oază de liniște.",
+            "en": "A short walk takes you to this oasis of calm."
+          }
+        },
+        {
+          "name": {
+            "de": "Broeltürme & Texture Museum",
+            "hu": "Broel-tornyok és Textil Múzeum",
+            "ro": "Turnurile Broel și Muzeul Texture",
+            "en": "Broel Towers & Texture Museum"
+          },
+          "coords": [
+            3.259,
+            50.83
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:18",
+          "stay_min": 150,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 1.9,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz an der Leie. Besichtigen Sie die Türme und das nahegelegene Museum.",
+            "hu": "Vezessen a Leie menti parkolóhoz. Tekintse meg a tornyokat és a közeli múzeumot.",
+            "ro": "Conduceți la parcarea de pe malul râului Leie. Vizitați turnurile și muzeul din apropiere.",
+            "en": "Drive to the parking lot on the Leie. Visit the towers and the nearby museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Wasser",
+            "hu": "Ebéd a vízparton",
+            "ro": "Prânz pe malul apei",
+            "en": "Lunch by the water"
+          },
+          "coords": [
+            3.261,
+            50.8295
+          ],
+          "category": "gastro",
+          "arrive_at": "13:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zahlreiche Restaurants entlang der Leie bieten eine malerische Mittagspause.",
+            "hu": "Számos étterem a Leie mentén festői ebédszünetet kínál.",
+            "ro": "Numeroase restaurante de-a lungul râului Leie oferă o pauză de prânz pitorească.",
+            "en": "Numerous restaurants along the Leie offer a scenic lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Internationaler Rosengarten",
+            "hu": "Nemzetközi Rózsakert",
+            "ro": "Grădina Internațională de Trandafiri",
+            "en": "International Rose Garden"
+          },
+          "coords": [
+            3.28,
+            50.825
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Rosengarten und genießen Sie einen entspannten Spaziergang.",
+            "hu": "Vezessen a Rózsakerthez, és élvezzen egy pihentető sétát.",
+            "ro": "Conduceți la Grădina de Trandafiri și bucurați-vă de o plimbare relaxantă.",
+            "en": "Drive to the Rose Garden and enjoy a relaxing walk."
+          }
+        },
+        {
+          "name": {
+            "de": "K in Kortrijk",
+            "hu": "K in Kortrijk",
+            "ro": "K in Kortrijk",
+            "en": "K in Kortrijk"
+          },
+          "coords": [
+            3.27,
+            50.825
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:29",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Einkaufsbummel. Das Parkhaus ist direkt angeschlossen.",
+            "hu": "Zárja a napot egy bevásárló körúttal. A parkolóház közvetlenül csatlakozik.",
+            "ro": "Încheiați ziua cu o sesiune de cumpărături. Parcarea este conectată direct.",
+            "en": "End the day with some shopping. The parking garage is directly connected."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Kortrijk in Clustern. Parken Sie im Zentrum und spazieren Sie zum Grote Markt, Rathaus und Begijnhof. Fahren Sie dann zur Leie, parken Sie erneut und besuchen Sie die Broeltürme und das Texture Museum. Nach dem Mittagessen am Flussufer fahren Sie zum Internationalen Rosengarten für einen ruhigen Nachmittag. Ein letzter kurzer Halt beim Einkaufszentrum 'K in Kortrijk' rundet Ihren Tag ab.",
+        "hu": "Autóval fedezze fel Kortrijkot klaszterekben. Parkoljon a központban, és sétáljon el a Grote Marktra, a Városházához és a Beginaházba. Ezután vezessen a Leie-hez, parkoljon újra, és látogasson el a Broel-tornyokhoz és a Textil Múzeumba. A folyóparti ebéd után autózzon a Nemzetközi Rózsakertbe egy csendes délutánra. Egy utolsó rövid megálló a 'K in Kortrijk' bevásárlóközpontban teszi teljessé a napot.",
+        "ro": "Cu mașina, explorați Kortrijk în grupuri. Parcați în centru și plimbați-vă până la Grote Markt, Primărie și Begijnhof. Apoi, conduceți la râul Leie, parcați din nou și vizitați Turnurile Broel și Muzeul Texture. După prânzul pe malul râului, conduceți la Grădina Internațională de Trandafiri pentru o după-amiază liniștită. O ultimă oprire scurtă la centrul comercial 'K in Kortrijk' vă completează ziua.",
+        "en": "Explore Kortrijk in clusters by car. Park in the center and walk to the Grote Markt, Town Hall, and Beguinage. Then drive to the Leie, park again, and visit the Broel Towers and the Texture Museum. After lunch by the river, drive to the International Rose Garden for a quiet afternoon. A final short stop at the 'K in Kortrijk' shopping center completes your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Brauerei",
+            "tip": "Nutzen Sie das Auto, um eine Brauerei am Stadtrand zu besuchen, z.B. Brouwerij Omer Vander Ghinste."
+          },
+          {
+            "name": "Restaurant am Wasser",
+            "tip": "Entlang der Leie gibt es viele Restaurants mit Parkmöglichkeiten in der Nähe."
+          },
+          {
+            "name": "Hofladen",
+            "tip": "Fahren Sie zu einem Hofladen in der Umgebung, um lokale Produkte wie Käse oder Wurst zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi sörfőzde",
+            "tip": "Használja az autót, hogy meglátogasson egy sörfőzdét a város szélén, pl. a Brouwerij Omer Vander Ghinste-t."
+          },
+          {
+            "name": "Étterem a vízparton",
+            "tip": "A Leie mentén számos étterem található közeli parkolási lehetőséggel."
+          },
+          {
+            "name": "Tanyasi bolt",
+            "tip": "Vezessen el egy közeli tanyasi boltba, hogy helyi termékeket, például sajtot vagy kolbászt vásároljon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Berărie locală",
+            "tip": "Folosiți mașina pentru a vizita o berărie la marginea orașului, de ex. Brouwerij Omer Vander Ghinste."
+          },
+          {
+            "name": "Restaurant pe malul apei",
+            "tip": "De-a lungul râului Leie există multe restaurante cu parcare în apropiere."
+          },
+          {
+            "name": "Magazin de fermă",
+            "tip": "Conduceți la un magazin de fermă din zonă pentru a cumpăra produse locale precum brânză sau cârnați."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Brewery",
+            "tip": "Use the car to visit a brewery on the outskirts of the city, e.g., Brouwerij Omer Vander Ghinste."
+          },
+          {
+            "name": "Restaurant by the water",
+            "tip": "There are many restaurants along the Leie with parking nearby."
+          },
+          {
+            "name": "Farm Shop",
+            "tip": "Drive to a farm shop in the area to buy local products like cheese or sausages."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Marionettenpark",
+            "tip": "Ein ruhiger Park etwas außerhalb des Zentrums, leicht mit dem Auto erreichbar.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Leie-Landschaft",
+            "tip": "Fahren Sie ein Stück aus der Stadt hinaus und genießen Sie die ländliche Umgebung.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhof von Kortrijk",
+            "tip": "Ein historischer und friedlicher Ort der Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marionettpark",
+            "tip": "Csendes park a központtól kicsit távolabb, autóval könnyen megközelíthető.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Leie-vidék",
+            "tip": "Vezessen ki egy kicsit a városból, és élvezze a vidéki környezetet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kortrijki temető",
+            "tip": "Történelmi és békés hely az elmélkedésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul de Marionete",
+            "tip": "Un parc liniștit, puțin în afara centrului, ușor accesibil cu mașina.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Peisajul Leie",
+            "tip": "Conduceți puțin în afara orașului și bucurați-vă de peisajul rural.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul din Kortrijk",
+            "tip": "Un loc istoric și pașnic de reculegere.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Marionette Park",
+            "tip": "A quiet park just outside the center, easily accessible by car.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Leie Landscape",
+            "tip": "Drive a little out of town and enjoy the rural surroundings.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kortrijk Cemetery",
+            "tip": "A historical and peaceful place for reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ring Shopping Kortrijk Noord",
+            "tip": "Ein großes Einkaufszentrum am Stadtrand mit kostenlosen Parkplätzen."
+          },
+          {
+            "name": "Möbelgeschäfte",
+            "tip": "Die Region ist bekannt für Design; nutzen Sie das Auto, um größere Design- und Möbelgeschäfte zu besuchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ring Shopping Kortrijk Noord",
+            "tip": "Nagy bevásárlóközpont a város szélén, ingyenes parkolással."
+          },
+          {
+            "name": "Bútorboltok",
+            "tip": "A régió a dizájnról ismert; használja az autót, hogy meglátogassa a nagyobb dizájn- és bútorboltokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ring Shopping Kortrijk Noord",
+            "tip": "Un centru comercial mare la marginea orașului, cu parcare gratuită."
+          },
+          {
+            "name": "Magazine de mobilă",
+            "tip": "Regiunea este renumită pentru design; folosiți mașina pentru a vizita magazine mai mari de design și mobilă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ring Shopping Kortrijk Noord",
+            "tip": "A large shopping center on the outskirts of the city with free parking."
+          },
+          {
+            "name": "Furniture Stores",
+            "tip": "The region is known for design; use the car to visit larger design and furniture stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie Park-and-Ride-Optionen am Stadtrand, um den Verkehr im Zentrum zu meiden.",
+          "Achten Sie auf die Umweltzone (LEZ), falls Sie eine haben; informieren Sie sich vorab online.",
+          "Parkhäuser sind oft die einfachste Option im Zentrum, aber auch die teuerste.",
+          "Planen Sie zusätzliche Zeit für die Parkplatzsuche ein, besonders an Markttagen."
+        ],
+        "hu": [
+          "Használja a Park and Ride lehetőségeket a város szélén, hogy elkerülje a központi forgalmat.",
+          "Figyeljen az alacsony kibocsátású zónára (LEZ), ha van ilyen; tájékozódjon előre online.",
+          "A parkolóházak gyakran a legegyszerűbb, de a legdrágább lehetőségek a központban.",
+          "Tervezzen plusz időt a parkolóhely keresésére, különösen a piaci napokon."
+        ],
+        "ro": [
+          "Folosiți opțiunile Park and Ride de la periferia orașului pentru a evita traficul din centru.",
+          "Fiți atenți la zona cu emisii scăzute (LEZ), dacă aveți una; verificați online în prealabil.",
+          "Parcările supraetajate sunt adesea cea mai simplă opțiune în centru, dar și cea mai scumpă.",
+          "Planificați timp suplimentar pentru a găsi un loc de parcare, mai ales în zilele de piață."
+        ],
+        "en": [
+          "Use Park and Ride options on the outskirts to avoid city center traffic.",
+          "Be aware of the Low Emission Zone (LEZ) if you have one; check online beforehand.",
+          "Parking garages are often the easiest option in the center, but also the most expensive.",
+          "Plan extra time for finding a parking spot, especially on market days."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 4.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Grote Markt",
+            "hu": "Érkezés a Grote Marktra",
+            "ro": "Sosire la Grote Markt",
+            "en": "Arrival at Grote Markt"
+          },
+          "coords": [
+            3.265,
+            50.828
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Viele Buslinien halten hier. Kaufen Sie eine Tageskarte für Flexibilität.",
+            "hu": "Sok buszjárat megáll itt. Vásároljon napijegyet a rugalmasság érdekében.",
+            "ro": "Multe linii de autobuz opresc aici. Cumpărați un bilet de o zi pentru flexibilitate.",
+            "en": "Many bus lines stop here. Buy a day pass for flexibility."
+          }
+        },
+        {
+          "name": {
+            "de": "Begijnhof & Rathaus",
+            "hu": "Beginaház és Városháza",
+            "ro": "Begijnhof și Primăria",
+            "en": "Beguinage & Town Hall"
+          },
+          "coords": [
+            3.267,
+            50.8285
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den ersten Cluster zu Fuß, alles ist nah beieinander.",
+            "hu": "Fedezze fel az első klasztert gyalog, minden közel van egymáshoz.",
+            "ro": "Explorați primul grup pe jos, totul este aproape.",
+            "en": "Explore the first cluster on foot, everything is close together."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt-Martins-Kirche",
+            "hu": "Szent Márton-templom",
+            "ro": "Biserica Sfântul Martin",
+            "en": "Saint Martin's Church"
+          },
+          "coords": [
+            3.268,
+            50.827
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Grote Markt.",
+            "hu": "Rövid séta a Grote Markttól.",
+            "ro": "O scurtă plimbare de la Grote Markt.",
+            "en": "A short walk from the Grote Markt."
+          }
+        },
+        {
+          "name": {
+            "de": "Broeltürme",
+            "hu": "Broel-tornyok",
+            "ro": "Turnurile Broel",
+            "en": "Broel Towers"
+          },
+          "coords": [
+            3.26,
+            50.83
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:27",
+          "stay_min": 30,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus für ein paar Haltestellen zur Haltestelle 'Broeltorens'.",
+            "hu": "Menjen busszal néhány megállót a 'Broeltorens' megállóig.",
+            "ro": "Luați un autobuz pentru câteva stații până la stația 'Broeltorens'.",
+            "en": "Take a bus for a few stops to the 'Broeltorens' stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Texture Museum",
+            "hu": "Textil Múzeum",
+            "ro": "Muzeul Texture",
+            "en": "Texture Museum"
+          },
+          "coords": [
+            3.258,
+            50.83
+          ],
+          "category": "museums",
+          "arrive_at": "12:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum liegt direkt gegenüber den Türmen auf der anderen Flussseite.",
+            "hu": "A múzeum közvetlenül a tornyokkal szemben, a folyó másik oldalán található.",
+            "ro": "Muzeul se află chiar vizavi de turnuri, pe cealaltă parte a râului.",
+            "en": "The museum is right across the river from the towers."
+          }
+        },
+        {
+          "name": {
+            "de": "Internationaler Rosengarten",
+            "hu": "Nemzetközi Rózsakert",
+            "ro": "Grădina Internațională de Trandafiri",
+            "en": "International Rose Garden"
+          },
+          "coords": [
+            3.28,
+            50.825
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:29",
+          "stay_min": 70,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 2.6,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine weitere kurze Busfahrt bringt Sie zu diesem farbenfrohen Garten.",
+            "hu": "Egy újabb rövid buszút visz el ehhez a színpompás kerthez.",
+            "ro": "O altă scurtă călătorie cu autobuzul vă duce la această grădină colorată.",
+            "en": "Another short bus ride takes you to this colorful garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Abschluss am Bahnhof",
+            "hu": "Befejezés a pályaudvaron",
+            "ro": "Încheiere la gară",
+            "en": "Finish at the Station"
+          },
+          "coords": [
+            3.27,
+            50.822
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:51",
+          "stay_min": 0,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Vom Rosengarten aus sind es nur wenige Haltestellen zurück zum Bahnhof.",
+            "hu": "A Rózsakertből csak néhány megálló vissza a pályaudvarra.",
+            "ro": "De la Grădina de Trandafiri, sunt doar câteva stații înapoi la gară.",
+            "en": "From the Rose Garden, it's just a few stops back to the station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das effiziente Busnetz von Kortrijk. Starten Sie am Grote Markt und erkunden Sie das historische Zentrum zu Fuß. Nehmen Sie dann einen Bus zu den Broeltürmen und dem Texture Museum. Nach einer Mittagspause bringt Sie ein weiterer Bus zum Internationalen Rosengarten. Die Tour endet bequem mit einer kurzen Fahrt zurück zum Bahnhof, von wo aus Sie Ihre Weiterreise antreten können.",
+        "hu": "Használja Kortrijk hatékony buszhálózatát. Induljon a Grote Marktról, és fedezze fel gyalog a történelmi központot. Ezután szálljon buszra a Broel-tornyokhoz és a Textil Múzeumhoz. Egy ebédszünet után egy másik busz elviszi Önt a Nemzetközi Rózsakertbe. A túra kényelmesen zárul egy rövid úttal vissza a pályaudvarra, ahonnan folytathatja útját.",
+        "ro": "Folosiți rețeaua eficientă de autobuze din Kortrijk. Începeți din Grote Markt și explorați centrul istoric pe jos. Apoi, luați un autobuz spre Turnurile Broel și Muzeul Texture. După o pauză de prânz, un alt autobuz vă va duce la Grădina Internațională de Trandafiri. Turul se încheie convenabil cu o scurtă călătorie înapoi la gară, de unde vă puteți continua călătoria.",
+        "en": "Use Kortrijk's efficient bus network. Start at the Grote Markt and explore the historic center on foot. Then take a bus to the Broel Towers and the Texture Museum. After a lunch break, another bus will take you to the International Rose Garden. The tour conveniently ends with a short ride back to the station, from where you can continue your journey."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Snacks am Bahnhof",
+            "tip": "Am Bahnhof finden Sie viele schnelle und leckere Optionen für den kleinen Hunger."
+          },
+          {
+            "name": "Café in der Innenstadt",
+            "tip": "Machen Sie eine Pause in einem der vielen Cafés, die leicht mit dem Bus zu erreichen sind."
+          },
+          {
+            "name": "Markt-Essen",
+            "tip": "Wenn Sie an einem Markttag da sind, probieren Sie die lokalen Snacks direkt vom Stand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Snackek a pályaudvaron",
+            "tip": "A pályaudvaron számos gyors és finom lehetőséget talál a kis éhségre."
+          },
+          {
+            "name": "Kávézó a belvárosban",
+            "tip": "Tartson szünetet a számos kávézó egyikében, amelyek busszal könnyen elérhetők."
+          },
+          {
+            "name": "Piaci ételek",
+            "tip": "Ha piaci napon van ott, kóstolja meg a helyi falatokat közvetlenül a standról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gustări la gară",
+            "tip": "La gară veți găsi multe opțiuni rapide și delicioase pentru o gustare."
+          },
+          {
+            "name": "Cafenea în centrul orașului",
+            "tip": "Luați o pauză la una dintre numeroasele cafenele ușor accesibile cu autobuzul."
+          },
+          {
+            "name": "Mâncare de la piață",
+            "tip": "Dacă sunteți acolo într-o zi de piață, încercați gustările locale direct de la tarabă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Snacks at the station",
+            "tip": "At the station, you will find many quick and delicious options for a small snack."
+          },
+          {
+            "name": "Café in the city center",
+            "tip": "Take a break at one of the many cafes that are easily accessible by bus."
+          },
+          {
+            "name": "Market food",
+            "tip": "If you are there on a market day, try the local snacks directly from the stall."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt durch die Vororte",
+            "tip": "Eine Busfahrt kann eine entspannende Möglichkeit sein, verschiedene Teile der Stadt zu sehen.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Eine Bank im Rosengarten",
+            "tip": "Finden Sie eine ruhige Bank und beobachten Sie die Menschen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Obere Etage eines Doppeldeckerbusses",
+            "tip": "Wenn verfügbar, bietet die obere Etage eine ruhige Perspektive auf die Stadt.",
+            "emoji": "🏙️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás a külvárosban",
+            "tip": "A buszozás pihentető módja lehet a város különböző részeinek megtekintésének.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Egy pad a Rózsakertben",
+            "tip": "Keressen egy csendes padot, és nézze az embereket.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Egy emeletes busz felső szintje",
+            "tip": "Ha van, a felső szint csendes perspektívát kínál a városra.",
+            "emoji": "🏙️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătorie cu autobuzul prin suburbii",
+            "tip": "O călătorie cu autobuzul poate fi o modalitate relaxantă de a vedea diferite părți ale orașului.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "O bancă în Grădina de Trandafiri",
+            "tip": "Găsiți o bancă liniștită și priviți oamenii.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Etajul superior al unui autobuz supraetajat",
+            "tip": "Dacă este disponibil, etajul superior oferă o perspectivă liniștită asupra orașului.",
+            "emoji": "🏙️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride through the suburbs",
+            "tip": "A bus ride can be a relaxing way to see different parts of the city.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "A bench in the Rose Garden",
+            "tip": "Find a quiet bench and watch the people.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Upper deck of a double-decker bus",
+            "tip": "If available, the upper deck offers a quiet perspective of the city.",
+            "emoji": "🏙️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Nähe von Bushaltestellen",
+            "tip": "Planen Sie Ihre Einkäufe rund um die Haltestellen, um nicht zu viel tragen zu müssen."
+          },
+          {
+            "name": "Bahnhofsgeschäfte",
+            "tip": "Ideal für Last-Minute-Souvenirs vor der Abreise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Üzletek a buszmegállók közelében",
+            "tip": "Tervezze a vásárlást a megállók köré, hogy ne kelljen túl sokat cipelnie."
+          },
+          {
+            "name": "Pályaudvari üzletek",
+            "tip": "Ideális az utolsó pillanatban beszerzett ajándéktárgyakhoz indulás előtt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine lângă stațiile de autobuz",
+            "tip": "Planificați-vă cumpărăturile în jurul stațiilor pentru a nu căra prea mult."
+          },
+          {
+            "name": "Magazinele din gară",
+            "tip": "Ideal pentru suveniruri de ultim moment înainte de plecare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops near bus stops",
+            "tip": "Plan your shopping around the stops so you don't have to carry too much."
+          },
+          {
+            "name": "Station shops",
+            "tip": "Ideal for last-minute souvenirs before departure."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tages- oder Mehrfahrtenkarte, da dies günstiger ist als Einzelfahrscheine.",
+          "Laden Sie die App des lokalen Verkehrsunternehmens 'De Lijn' herunter, um Fahrpläne in Echtzeit zu sehen.",
+          "Die meisten Busse sind barrierefrei.",
+          "Geben Sie dem Fahrer ein Zeichen, wenn Sie an der nächsten Haltestelle aussteigen möchten."
+        ],
+        "hu": [
+          "Vásároljon napi- vagy több utazásra szóló jegyet, mivel ez olcsóbb, mint az egyedi jegyek.",
+          "Töltse le a helyi közlekedési vállalat, a 'De Lijn' alkalmazását a valós idejű menetrendekért.",
+          "A legtöbb busz akadálymentesített.",
+          "Jelezzen a sofőrnek, ha a következő megállónál le akar szállni."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi sau cu mai multe călătorii, deoarece este mai ieftin decât biletele individuale.",
+          "Descărcați aplicația companiei locale de transport 'De Lijn' pentru a vedea orarele în timp real.",
+          "Majoritatea autobuzelor sunt accesibile persoanelor cu dizabilități.",
+          "Faceți un semn șoferului dacă doriți să coborâți la următoarea stație."
+        ],
+        "en": [
+          "Buy a day or multi-trip ticket as it is cheaper than single tickets.",
+          "Download the app of the local transport company 'De Lijn' to see real-time schedules.",
+          "Most buses are accessible for people with disabilities.",
+          "Signal the driver if you want to get off at the next stop."
+        ]
+      }
+    }
+  }
+}

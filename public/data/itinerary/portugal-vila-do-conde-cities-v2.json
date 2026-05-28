@@ -1,0 +1,1438 @@
+{
+  "city_id": "portugal-vila-do-conde-cities-v2",
+  "anchor": {
+    "name": "Vila do Conde",
+    "coords": [
+      -8.7433,
+      41.3533
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche São João Baptista (Hauptkirche)",
+            "hu": "Keresztelő Szent János-templom (Főtemplom)",
+            "ro": "Biserica São João Baptista (Biserica Matrice)",
+            "en": "Church of São João Baptista (Main Church)"
+          },
+          "coords": [
+            -8.7478,
+            41.3536
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beachten Sie die manuelinischen Portale und die Details der Granitwände.",
+            "hu": "Figyelje meg a mánueli stílusú portálokat és a gránitfalak részleteit.",
+            "ro": "Observați portalurile manueline și detaliile pereților de granit.",
+            "en": "Note the Manueline portals and the details of the granite walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Klöppelmuseum",
+            "hu": "Csipkeverő Múzeum",
+            "ro": "Muzeul Rendas de Bilros (Dantelărie)",
+            "en": "Bobbin Lace Museum (Museu das Rendas de Bilros)"
+          },
+          "coords": [
+            -8.7485,
+            41.3529
+          ],
+          "category": "museums",
+          "arrive_at": "09:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Sehen Sie den Handwerkern bei der Arbeit zu, wenn es eine Vorführung gibt.",
+            "hu": "Ha van bemutató, nézze meg a kézműveseket munka közben.",
+            "ro": "Urmăriți artizanii la lucru dacă există o demonstrație.",
+            "en": "Watch the artisans at work if there's a demonstration."
+          }
+        },
+        {
+          "name": {
+            "de": "Königliches Zollhaus - Schiffbaumuseum",
+            "hu": "Királyi Vámház - Hajóépítési Múzeum",
+            "ro": "Vama Regală - Muzeul Construcțiilor Navale",
+            "en": "Royal Customshouse - Shipbuilding Museum"
+          },
+          "coords": [
+            -8.7499,
+            41.3512
+          ],
+          "category": "museums",
+          "arrive_at": "11:17",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Interaktive Ausstellungen zeigen die Bedeutung des Schiffbaus für die Stadt.",
+            "hu": "Interaktív kiállítások mutatják be a hajóépítés fontosságát a város számára.",
+            "ro": "Expozițiile interactive arată importanța construcțiilor navale pentru oraș.",
+            "en": "Interactive exhibits show the importance of shipbuilding for the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Replik eines Schiffes aus dem 16. Jahrhundert (Nau Quinhentista)",
+            "hu": "16. századi hajó másolata (Nau Quinhentista)",
+            "ro": "Replica unei Nave din secolul al XVI-lea (Nau Quinhentista)",
+            "en": "16th Century Ship Replica (Nau Quinhentista)"
+          },
+          "coords": [
+            -8.7505,
+            41.3505
+          ],
+          "category": "museums",
+          "arrive_at": "12:21",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Gehen Sie an Bord und stellen Sie sich eine Reise zur Zeit der Entdeckungen vor.",
+            "hu": "Menjen a fedélzetre, és képzelje el, milyen volt egy utazás a felfedezések korában.",
+            "ro": "Urcați la bord și imaginați-vă o călătorie în Epoca Descoperirilor.",
+            "en": "Go on board and imagine a voyage during the Age of Discovery."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Santa Clara",
+            "hu": "Santa Clara kolostor",
+            "ro": "Mănăstirea Santa Clara",
+            "en": "Monastery of Santa Clara"
+          },
+          "coords": [
+            -8.7431,
+            41.3581
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Stadt und den Fluss vom Klostergelände aus.",
+            "hu": "Élvezze a panorámás kilátást a városra és a folyóra a kolostor területéről.",
+            "ro": "Bucurați-vă de vederea panoramică asupra orașului și a râului de pe terenul mănăstirii.",
+            "en": "Enjoy the panoramic view of the city and river from the monastery grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquädukt von Vila do Conde",
+            "hu": "Vila do Conde-i vízvezeték",
+            "ro": "Apeductul din Vila do Conde",
+            "en": "Aqueduct of Vila do Conde"
+          },
+          "coords": [
+            -8.7395,
+            41.3615
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:53",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Folgen Sie dem Aquädukt ein Stück landeinwärts für beeindruckende Fotomotive.",
+            "hu": "Kövesse a vízvezetéket egy kicsit a szárazföld belseje felé a lenyűgöző fotóhelyekért.",
+            "ro": "Urmați apeductul puțin în interior pentru oportunități foto impresionante.",
+            "en": "Follow the aqueduct slightly inland for impressive photo opportunities."
+          }
+        },
+        {
+          "name": {
+            "de": "Forno Strand",
+            "hu": "Praia do Forno (strand)",
+            "ro": "Plaja Forno",
+            "en": "Forno Beach"
+          },
+          "coords": [
+            -8.7562,
+            41.3481
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:51",
+          "stay_min": 120,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort, um den Tag bei einem Spaziergang am Meer ausklingen zu lassen.",
+            "hu": "Tökéletes hely a nap lezárására egy tengerparti sétával.",
+            "ro": "Un loc perfect pentru a încheia ziua cu o plimbare pe malul mării.",
+            "en": "A perfect spot to end the day with a walk by the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Vila do Conde beginnt im historischen Herzen mit der beeindruckenden manuelinischen Architektur der Hauptkirche. Am Vormittag tauchen Sie in die maritime Seele der Stadt ein und entdecken die filigrane Kunst der Klöppelei sowie die reiche Geschichte des Schiffbaus. Nach dem Mittagessen steigen Sie zum majestätischen Kloster Santa Clara hinauf, von wo aus Sie einen atemberaubenden Blick über die Stadt und den Fluss Ave genießen. Der Nachmittag ist einem Spaziergang entlang des alten Aquädukts gewidmet, bevor Sie den Tag entspannt am goldenen Sand der Praia do Forno ausklingen lassen, während die Sonne über dem Atlantik untergeht.",
+        "hu": "A nap Vila do Conde-ban a történelmi szívben kezdődik a főtemplom lenyűgöző mánueli építészetével. Délelőtt elmerül a város tengeri lelkében, felfedezve a csipkeverés finom művészetét és a hajóépítés gazdag történelmét. Ebéd után felsétál a fenséges Santa Clara kolostorhoz, ahonnan lélegzetelállító kilátás nyílik a városra és az Ave folyóra. A délután a régi vízvezeték menti sétáé, mielőtt a napot a Praia do Forno aranyhomokos partján pihenve zárja, ahogy a nap lebukik az Atlanti-óceán fölött.",
+        "ro": "Ziua dvs. în Vila do Conde începe în inima istorică, cu arhitectura manuelină impresionantă a Bisericii Matrice. Dimineața vă scufundați în sufletul maritim al orașului, descoperind arta delicată a dantelăriei și istoria bogată a construcțiilor navale. După prânz, urcați la Mănăstirea Santa Clara, de unde vă bucurați de o priveliște uluitoare asupra orașului și a râului Ave. După-amiaza este dedicată unei plimbări de-a lungul vechiului apeduct, înainte de a încheia ziua relaxându-vă pe nisipul auriu al Plajei Forno, în timp ce soarele apune peste Atlantic.",
+        "en": "Your day in Vila do Conde begins in its historic heart with the impressive Manueline architecture of the Main Church. In the morning, you'll delve into the city's maritime soul, discovering the delicate art of bobbin lace and the rich history of shipbuilding. After lunch, you'll ascend to the majestic Monastery of Santa Clara for breathtaking views over the city and the Ave River. The afternoon is dedicated to a walk along the old aqueduct before ending the day relaxing on the golden sands of Forno Beach as the sun sets over the Atlantic."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gegrillte Sardinen",
+            "tip": "Am besten frisch vom Grill in einem Restaurant am Flussufer."
+          },
+          {
+            "name": "Pescada à Poveira",
+            "tip": "Ein traditionelles Seehechtgericht, typisch für die Region."
+          },
+          {
+            "name": "Arroz de Marisco",
+            "tip": "Ein reichhaltiger Meeresfrüchte-Reis, perfekt zum Teilen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett szardínia",
+            "tip": "A legjobb frissen grillezve egy folyóparti étteremben."
+          },
+          {
+            "name": "Pescada à Poveira",
+            "tip": "Hagyományos tőkehalétel, a régióra jellemző."
+          },
+          {
+            "name": "Arroz de Marisco",
+            "tip": "Gazdag tenger gyümölcsei rizs, tökéletes megosztásra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sardine la grătar",
+            "tip": "Cel mai bun proaspăt de pe grătar la un restaurant de pe malul râului."
+          },
+          {
+            "name": "Pescada à Poveira",
+            "tip": "Un fel de mâncare tradițional cu merluciu, specific regiunii."
+          },
+          {
+            "name": "Arroz de Marisco",
+            "tip": "Un orez bogat cu fructe de mare, perfect pentru a fi împărțit."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled Sardines",
+            "tip": "Best enjoyed fresh off the grill at a riverside restaurant."
+          },
+          {
+            "name": "Pescada à Poveira",
+            "tip": "A traditional hake dish, typical of the region."
+          },
+          {
+            "name": "Arroz de Marisco",
+            "tip": "A rich seafood rice, perfect for sharing."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenuntergang am Praia do Forno",
+            "tip": "Beobachten Sie, wie der Himmel seine Farben ändert.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gärten des Klosters Santa Clara",
+            "tip": "Ein friedlicher Ort mit herrlicher Aussicht.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang entlang des Flusses Ave",
+            "tip": "Ruhiger Weg abseits der belebten Straßen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente a Praia do Forno-n",
+            "tip": "Nézze, ahogy az ég színei változnak.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Santa Clara kolostor kertjei",
+            "tip": "Békés hely, csodálatos kilátással.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Séta az Ave folyó mentén",
+            "tip": "Csendes út a forgalmas utcáktól távol.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apus de soare la Plaja Forno",
+            "tip": "Priviți cerul schimbându-și culorile.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile Mănăstirii Santa Clara",
+            "tip": "Un loc pașnic cu vederi superbe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare pe malul râului Ave",
+            "tip": "O cale liniștită, departe de străzile aglomerate.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunset at Forno Beach",
+            "tip": "Watch the sky change colors.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gardens of the Santa Clara Monastery",
+            "tip": "A peaceful spot with lovely views.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Walk along the Ave River",
+            "tip": "A quiet path away from the busy streets.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rendas de Bilros (Klöppelspitze)",
+            "tip": "Das berühmteste Handwerk der Stadt, finden Sie es in örtlichen Geschäften."
+          },
+          {
+            "name": "Städtischer Markt (Mercado Municipal)",
+            "tip": "Kaufen Sie frische Produkte und lokale Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rendas de Bilros (csipke)",
+            "tip": "A város leghíresebb kézműves terméke, keresse a helyi boltokban."
+          },
+          {
+            "name": "Városi Piac (Mercado Municipal)",
+            "tip": "Vásároljon friss termékeket és helyi különlegességeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rendas de Bilros (Dantelărie)",
+            "tip": "Cel mai faimos meșteșug al orașului, găsiți-l în magazinele locale."
+          },
+          {
+            "name": "Piața Municipală (Mercado Municipal)",
+            "tip": "Cumpărați produse proaspete și specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rendas de Bilros (Bobbin Lace)",
+            "tip": "The city's most famous craft, find it in local shops."
+          },
+          {
+            "name": "Municipal Market (Mercado Municipal)",
+            "tip": "Shop for fresh produce and local delicacies."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Straßen der Altstadt gepflastert sind.",
+          "Probieren Sie unbedingt frischen Fisch in einem der Restaurants am Fluss.",
+          "Planen Sie am Nachmittag Zeit für eine Pause am Strand ein.",
+          "Die besten Fotos vom Aquädukt gelingen am späten Nachmittag."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros utcái macskakövesek.",
+          "Mindenképpen kóstoljon meg friss halat az egyik folyóparti étteremben.",
+          "Tervezzen időt délután egy tengerparti szünetre.",
+          "A legjobb fotók a vízvezetékről késő délután készülnek."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece străzile din centrul vechi sunt pavate.",
+          "Asigurați-vă că încercați pește proaspăt la unul dintre restaurantele de pe malul râului.",
+          "Rezervați-vă timp pentru o pauză la plajă după-amiaza.",
+          "Cele mai bune fotografii ale apeductului se fac după-amiaza târziu."
+        ],
+        "en": [
+          "Wear comfortable shoes as the old town streets are cobbled.",
+          "Be sure to try fresh fish at one of the riverside restaurants.",
+          "Plan for some time to relax at the beach in the afternoon.",
+          "The best photos of the aqueduct are taken in the late afternoon."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:54",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Aquädukt von Vila do Conde",
+            "hu": "Vila do Conde-i vízvezeték",
+            "ro": "Apeductul din Vila do Conde",
+            "en": "Aqueduct of Vila do Conde"
+          },
+          "coords": [
+            -8.7395,
+            41.3615
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein beeindruckender Start in den Tag. Die Bögen sind ein tolles Fotomotiv.",
+            "hu": "Lenyűgöző kezdése a napnak. Az ívek remek fotótémát nyújtanak.",
+            "ro": "Un început impresionant de zi. Arcadele sunt un subiect excelent pentru fotografii.",
+            "en": "An impressive start to the day. The arches make for a great photo subject."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Santa Clara",
+            "hu": "Santa Clara kolostor",
+            "ro": "Mănăstirea Santa Clara",
+            "en": "Monastery of Santa Clara"
+          },
+          "coords": [
+            -8.7431,
+            41.3581
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:44",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Der kurze Anstieg lohnt sich für die Aussicht. Schließen Sie Ihr Fahrrad sicher ab.",
+            "hu": "A rövid emelkedő megéri a kilátásért. Zárja le biztonságosan a kerékpárját.",
+            "ro": "Urcușul scurt merită pentru priveliște. Asigurați-vă bicicleta în siguranță.",
+            "en": "The short climb is worth it for the view. Lock your bike securely."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche São João Baptista (Hauptkirche)",
+            "hu": "Keresztelő Szent János-templom (Főtemplom)",
+            "ro": "Biserica São João Baptista (Biserica Matrice)",
+            "en": "Church of São João Baptista (Main Church)"
+          },
+          "coords": [
+            -8.7478,
+            41.3536
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad in der Nähe ab und bewundern Sie die Architektur.",
+            "hu": "Parkolja le a kerékpárt a közelben, és csodálja meg az építészetet.",
+            "ro": "Parcați bicicleta în apropiere și admirați arhitectura.",
+            "en": "Park your bike nearby and admire the architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Klöppelmuseum",
+            "hu": "Csipkeverő Múzeum",
+            "ro": "Muzeul Rendas de Bilros (Dantelărie)",
+            "en": "Bobbin Lace Museum (Museu das Rendas de Bilros)"
+          },
+          "coords": [
+            -8.7485,
+            41.3529
+          ],
+          "category": "museums",
+          "arrive_at": "11:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Eine faszinierende Pause, um ein einzigartiges lokales Handwerk kennenzulernen.",
+            "hu": "Lenyűgöző szünet egy egyedi helyi kézművesség megismerésére.",
+            "ro": "O pauză fascinantă pentru a învăța despre un meșteșug local unic.",
+            "en": "A fascinating break to learn about a unique local craft."
+          }
+        },
+        {
+          "name": {
+            "de": "Replik eines Schiffes aus dem 16. Jahrhundert (Nau Quinhentista)",
+            "hu": "16. századi hajó másolata (Nau Quinhentista)",
+            "ro": "Replica unei Nave din secolul al XVI-lea (Nau Quinhentista)",
+            "en": "16th Century Ship Replica (Nau Quinhentista)"
+          },
+          "coords": [
+            -8.7505,
+            41.3505
+          ],
+          "category": "museums",
+          "arrive_at": "12:34",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein Muss für alle, die sich für Seefahrtsgeschichte interessieren.",
+            "hu": "Kötelező látnivaló a tengerészeti történelem iránt érdeklődőknek.",
+            "ro": "O vizită obligatorie pentru oricine este interesat de istoria maritimă.",
+            "en": "A must-see for anyone interested in maritime history."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Unserer Lieben Frau vom Führer",
+            "hu": "Útmutató Miasszonyunk-kápolna",
+            "ro": "Capela Doamnei Noastre a Ghidului",
+            "en": "Chapel of Our Lady of the Guide"
+          },
+          "coords": [
+            -8.7548,
+            41.3486
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:22",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Eine kleine Kapelle direkt am Strand, die einen Moment der Ruhe bietet.",
+            "hu": "Egy kis kápolna közvetlenül a strand mellett, amely egy pillanatnyi nyugalmat kínál.",
+            "ro": "O capelă mică chiar lângă plajă, care oferă un moment de liniște.",
+            "en": "A small chapel right by the beach, offering a moment of peace."
+          }
+        },
+        {
+          "name": {
+            "de": "Forno Strand",
+            "hu": "Praia do Forno (strand)",
+            "ro": "Plaja Forno",
+            "en": "Forno Beach"
+          },
+          "coords": [
+            -8.7562,
+            41.3481
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:48",
+          "stay_min": 210,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und genießen Sie einen langen, entspannten Nachmittag am Meer.",
+            "hu": "Zárja le a kerékpárját, és élvezzen egy hosszú, pihentető délutánt a tengernél.",
+            "ro": "Asigurați-vă bicicleta și bucurați-vă de o după-amiază lungă și relaxantă la mare.",
+            "en": "Lock up your bike and enjoy a long, relaxing afternoon by the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt am beeindruckenden Aquädukt und führt Sie dann bergauf zum Kloster Santa Clara für eine atemberaubende Aussicht. Am Vormittag rollen Sie ins historische Zentrum, um die Hauptkirche und die faszinierende Welt der Klöppelei zu erkunden, bevor Sie die maritime Vergangenheit der Stadt am Schiffsnachbau erleben. Der Nachmittag gehört ganz dem Atlantik. Sie radeln zur charmanten Kapelle am Strand und verbringen dann eine ausgedehnte Zeit am Praia do Forno, wo Sie schwimmen, sonnenbaden oder einfach die Meeresbrise genießen können. Ein perfekter Ausklang für einen aktiven Tag.",
+        "hu": "A kerékpártúra a lenyűgöző vízvezetéknél kezdődik, majd felfelé vezet a Santa Clara kolostorhoz, ahonnan lélegzetelállító kilátás nyílik. Délelőtt a történelmi központba gurul, hogy felfedezze a főtemplomot és a csipkeverés lenyűgöző világát, mielőtt a város tengeri múltját élné át a hajómásolatnál. A délután teljes egészében az Atlanti-óceáné. A bájos tengerparti kápolnához teker, majd hosszabb időt tölt a Praia do Forno-n, ahol úszhat, napozhat, vagy egyszerűen élvezheti a tengeri szellőt. Tökéletes lezárása egy aktív napnak.",
+        "ro": "Turul cu bicicleta începe la apeductul impresionant, apoi urcă la Mănăstirea Santa Clara pentru priveliști uluitoare. Dimineața, pedalați în centrul istoric pentru a explora Biserica Matrice și lumea fascinantă a dantelăriei, înainte de a experimenta trecutul maritim al orașului la replica navei. După-amiaza este dedicată în întregime Atlanticului. Pedalați până la capela fermecătoare de lângă plajă și apoi petreceți o perioadă extinsă la Plaja Forno, unde puteți înota, face plajă sau pur și simplu vă puteți bucura de briza mării. O încheiere perfectă pentru o zi activă.",
+        "en": "Your bike tour starts at the impressive aqueduct, then takes you uphill to the Santa Clara Monastery for breathtaking views. In the morning, you'll roll into the historic center to explore the Main Church and the fascinating world of bobbin lace before experiencing the city's maritime past at the ship replica. The afternoon is all about the Atlantic. You'll cycle to the charming chapel by the beach and then spend an extended time at Forno Beach, where you can swim, sunbathe, or simply enjoy the sea breeze. A perfect end to an active day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frischer Fisch",
+            "tip": "Viele Strandcafés bieten den Fang des Tages an."
+          },
+          {
+            "name": "Bolas de Berlim",
+            "tip": "Suchen Sie nach Verkäufern am Strand, die diese leckeren, mit Sahne gefüllten Krapfen verkaufen."
+          },
+          {
+            "name": "Meeresfrüchtesalat",
+            "tip": "Eine leichte und erfrischende Option für ein Mittagessen am Meer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Friss hal",
+            "tip": "Sok tengerparti kávézó kínálja a nap fogását."
+          },
+          {
+            "name": "Bolas de Berlim",
+            "tip": "Keresse a strandokon az árusokat, akik ezt a finom, krémmel töltött fánkot árulják."
+          },
+          {
+            "name": "Tenger gyümölcsei saláta",
+            "tip": "Könnyű és frissítő ebédlehetőség a tengerparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește proaspăt",
+            "tip": "Multe cafenele de pe plajă oferă captura zilei."
+          },
+          {
+            "name": "Bolas de Berlim",
+            "tip": "Căutați vânzătorii de pe plajă care vând aceste gogoși delicioase umplute cu cremă."
+          },
+          {
+            "name": "Salată de fructe de mare",
+            "tip": "O opțiune ușoară și răcoritoare pentru un prânz la malul mării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fresh Fish",
+            "tip": "Many beachside cafes offer the catch of the day."
+          },
+          {
+            "name": "Bolas de Berlim",
+            "tip": "Look for vendors on the beach selling these delicious cream-filled doughnuts."
+          },
+          {
+            "name": "Seafood Salad",
+            "tip": "A light and refreshing option for a seaside lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Nördliches Ende des Strandes",
+            "tip": "Gehen Sie etwas weiter, um ruhigere Plätze zu finden.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Blick vom Aquädukt",
+            "tip": "Am frühen Morgen ist es hier besonders friedlich.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Fahrt entlang der Küste",
+            "tip": "Der Radweg bietet ständig wechselnde, beruhigende Ausblicke auf das Meer.",
+            "emoji": "🚲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A strand északi vége",
+            "tip": "Sétáljon kicsit távolabb a csendesebb helyekért.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Kilátás a vízvezetéktől",
+            "tip": "Kora reggel különösen békés itt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Tekerés a part mentén",
+            "tip": "A kerékpárút folyamatosan változó, nyugtató kilátást nyújt a tengerre.",
+            "emoji": "🚲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capătul nordic al plajei",
+            "tip": "Mergeți puțin mai departe pentru a găsi locuri mai liniștite.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Vedere de pe apeduct",
+            "tip": "Dimineața devreme este deosebit de pașnic aici.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare pe coastă",
+            "tip": "Pista de biciclete oferă vederi liniștitoare și în continuă schimbare ale mării.",
+            "emoji": "🚲"
+          }
+        ],
+        "en": [
+          {
+            "name": "North end of the beach",
+            "tip": "Walk a bit further to find quieter spots.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "View from the aqueduct",
+            "tip": "Early in the morning, it's especially peaceful here.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ride along the coast",
+            "tip": "The bike path offers ever-changing, calming views of the sea.",
+            "emoji": "🚲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerksläden",
+            "tip": "In der Nähe des Klöppelmuseums finden Sie Geschäfte, die Spitzen verkaufen."
+          },
+          {
+            "name": "Souvenirs am Strand",
+            "tip": "Kleine Stände verkaufen Muscheln und andere maritime Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "A Csipkemúzeum közelében csipkét árusító üzleteket talál."
+          },
+          {
+            "name": "Szuvenírek a tengerparton",
+            "tip": "Kis standok kagylókat és más tengeri emléktárgyakat árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Lângă Muzeul Dantelăriei veți găsi magazine care vând dantelă."
+          },
+          {
+            "name": "Suveniruri pe plajă",
+            "tip": "Mici tarabe vând scoici și alte suveniruri maritime."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local craft shops",
+            "tip": "Near the Bobbin Lace Museum, you'll find shops selling lace."
+          },
+          {
+            "name": "Beachside souvenirs",
+            "tip": "Small stalls sell shells and other maritime keepsakes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck vor der Abfahrt.",
+          "Nehmen Sie viel Wasser und Sonnencreme mit.",
+          "Einige Strecken können Steigungen aufweisen, besonders zum Kloster hinauf.",
+          "Nutzen Sie die ausgewiesenen Radwege entlang der Küste für eine sichere Fahrt."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Vigyen magával sok vizet és naptejet.",
+          "Néhány szakasz emelkedhet, különösen a kolostor felé.",
+          "Használja a kijelölt kerékpárutakat a part mentén a biztonságos közlekedés érdekében."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de a pleca.",
+          "Luați multă apă și protecție solară.",
+          "Unele porțiuni pot avea pante, în special urcarea la mănăstire.",
+          "Folosiți pistele de biciclete desemnate de-a lungul coastei pentru o călătorie sigură."
+        ],
+        "en": [
+          "Check your tire pressure before setting off.",
+          "Bring plenty of water and sunscreen.",
+          "Some sections can have inclines, especially the climb to the monastery.",
+          "Use the designated bike paths along the coast for a safe ride."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 6.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Aquädukt von Vila do Conde (Cluster A)",
+            "hu": "Vila do Conde-i vízvezeték (A klaszter)",
+            "ro": "Apeductul din Vila do Conde (Cluster A)",
+            "en": "Aqueduct of Vila do Conde (Cluster A)"
+          },
+          "coords": [
+            -8.7395,
+            41.3615
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und spazieren Sie entlang der beeindruckenden Bögen.",
+            "hu": "Parkoljon a közelben, és sétáljon végig a lenyűgöző ívek mentén.",
+            "ro": "Parcați în apropiere și plimbați-vă de-a lungul arcadelor impresionante.",
+            "en": "Park nearby and take a walk along the impressive arches."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Santa Clara (Cluster A)",
+            "hu": "Santa Clara kolostor (A klaszter)",
+            "ro": "Mănăstirea Santa Clara (Cluster A)",
+            "en": "Monastery of Santa Clara (Cluster A)"
+          },
+          "coords": [
+            -8.7431,
+            41.3581
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:43",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Aquädukt aus ein kurzer Spaziergang. Die Aussicht von hier oben ist die beste der Stadt.",
+            "hu": "A vízvezetéktől egy rövid séta. A kilátás innen a legjobb a városban.",
+            "ro": "O scurtă plimbare de la apeduct. Priveliștea de aici de sus este cea mai bună din oraș.",
+            "en": "A short walk from the aqueduct. The view from up here is the best in town."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Zentrum (Cluster B)",
+            "hu": "Történelmi központ (B klaszter)",
+            "ro": "Centrul Istoric (Cluster B)",
+            "en": "Historic Center (Cluster B)"
+          },
+          "coords": [
+            -8.7478,
+            41.3536
+          ],
+          "category": "landmarks",
+          "arrive_at": "11:03",
+          "stay_min": 20,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Rest des Vormittags und erkunden Sie die Gegend zu Fuß.",
+            "hu": "Parkoljon le a délelőtt hátralévő részére, és fedezze fel a környéket gyalog.",
+            "ro": "Parcați aici pentru restul dimineții și explorați zona pe jos.",
+            "en": "Park here for the rest of the morning and explore the area on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Klöppelmuseum (Cluster B)",
+            "hu": "Csipkeverő Múzeum (B klaszter)",
+            "ro": "Muzeul Rendas de Bilros (Cluster B)",
+            "en": "Bobbin Lace Museum (Cluster B)"
+          },
+          "coords": [
+            -8.7485,
+            41.3529
+          ],
+          "category": "museums",
+          "arrive_at": "11:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Hauptkirche. Ein Muss, um die lokale Kultur zu verstehen.",
+            "hu": "Rövid séta a főtemplomtól. Kötelező a helyi kultúra megértéséhez.",
+            "ro": "O scurtă plimbare de la Biserica Matrice. O vizită obligatorie pentru a înțelege cultura locală.",
+            "en": "A short walk from the Main Church. A must-visit to understand the local culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Replik eines Schiffes aus dem 16. Jahrhundert (Cluster B)",
+            "hu": "16. századi hajó másolata (B klaszter)",
+            "ro": "Replica unei Nave din secolul al XVI-lea (Cluster B)",
+            "en": "16th Century Ship Replica (Cluster B)"
+          },
+          "coords": [
+            -8.7505,
+            41.3505
+          ],
+          "category": "museums",
+          "arrive_at": "12:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie zum Flussufer, um dieses beeindruckende Schiff zu sehen. Mittagessen in der Nähe.",
+            "hu": "Sétáljon le a folyópartra, hogy megnézze ezt a lenyűgöző hajót. Ebéd a közelben.",
+            "ro": "Faceți o plimbare până pe malul râului pentru a vedea această navă impresionantă. Prânz în apropiere.",
+            "en": "Stroll down to the riverbank to see this impressive ship. Lunch is nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Forno Strand (Cluster C)",
+            "hu": "Praia do Forno (C klaszter)",
+            "ro": "Plaja Forno (Cluster C)",
+            "en": "Forno Beach (Cluster C)"
+          },
+          "coords": [
+            -8.7562,
+            41.3481
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:04",
+          "stay_min": 195,
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 3.4,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Strand, parken Sie und verbringen Sie den ganzen Nachmittag mit Entspannen.",
+            "hu": "Vezessen le a partra, parkoljon le, és töltse az egész délutánt pihenéssel.",
+            "ro": "Conduceți până la plajă, parcați și petreceți întreaga după-amiază relaxându-vă.",
+            "en": "Drive down to the beach, park, and spend the whole afternoon relaxing."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit dem Auto am beeindruckenden Aquädukt (Cluster A), wo Sie parken und zum Kloster Santa Clara spazieren, um die herrliche Aussicht zu genießen. Anschließend fahren Sie ins historische Zentrum (Cluster B), parken erneut und erkunden zu Fuß die Hauptkirche, das Klöppelmuseum und die faszinierende Schiffsnachbildung am Flussufer, wo Sie auch zu Mittag essen. Der gesamte Nachmittag ist für pure Entspannung reserviert. Sie fahren zum Praia do Forno (Cluster C), einem wunderschönen Strand, an dem Sie die Sonne, das Meer und die entspannte Atmosphäre genießen können.",
+        "hu": "A nap autóval kezdődik a lenyűgöző vízvezetéknél (A klaszter), ahol leparkol, és átsétál a Santa Clara kolostorhoz a csodálatos kilátásért. Ezután a történelmi központba (B klaszter) hajt, újra leparkol, és gyalog fedezi fel a főtemplomot, a Csipkemúzeumot és a lenyűgöző hajómásolatot a folyóparton, ahol ebédelhet is. Az egész délután a tiszta pihenésé. A Praia do Forno-hoz (C klaszter) hajt, egy gyönyörű strandhoz, ahol élvezheti a napot, a tengert és a nyugodt légkört.",
+        "ro": "Ziua dvs. începe cu mașina la impresionantul apeduct (Cluster A), unde parcați și vă plimbați până la Mănăstirea Santa Clara pentru priveliștile sale magnifice. Apoi, conduceți spre centrul istoric (Cluster B), parcați din nou și explorați pe jos Biserica Matrice, Muzeul Dantelăriei și fascinanta replică a navei de pe malul râului, unde puteți lua și prânzul. Întreaga după-amiază este rezervată relaxării pure. Conduceți la Plaja Forno (Cluster C), o plajă frumoasă unde vă puteți bucura de soare, mare și atmosfera relaxată.",
+        "en": "Your day starts by car at the impressive aqueduct (Cluster A), where you'll park and walk over to the Santa Clara Monastery for its magnificent views. Afterwards, you'll drive to the historic center (Cluster B), park again, and explore on foot the Main Church, the Bobbin Lace Museum, and the fascinating ship replica on the riverbank, where you can also have lunch. The entire afternoon is reserved for pure relaxation. You drive to Forno Beach (Cluster C), a beautiful stretch of sand where you can enjoy the sun, sea, and laid-back atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurante O Cangalho",
+            "tip": "Bekannt für exzellenten frischen Fisch und Meeresfrüchte."
+          },
+          {
+            "name": "Doce Conventual",
+            "tip": "Probieren Sie die süßen Gebäcke nach Klosterrezepten, besonders in der Nähe des Klosters Santa Clara."
+          }
+        ],
+        "hu": [
+          {
+            "name": "O Cangalho étterem",
+            "tip": "Kiváló friss halairól és tenger gyümölcseiről ismert."
+          },
+          {
+            "name": "Doce Conventual",
+            "tip": "Kóstolja meg a kolostori receptek alapján készült édes süteményeket, különösen a Santa Clara kolostor közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant O Cangalho",
+            "tip": "Renumit pentru peștele proaspăt excelent și fructele de mare."
+          },
+          {
+            "name": "Doce Conventual",
+            "tip": "Încercați produsele de patiserie dulci făcute după rețete mănăstirești, în special în apropierea Mănăstirii Santa Clara."
+          }
+        ],
+        "en": [
+          {
+            "name": "O Cangalho Restaurant",
+            "tip": "Known for excellent fresh fish and seafood."
+          },
+          {
+            "name": "Doce Conventual",
+            "tip": "Try the sweet pastries made from conventual recipes, especially near the Santa Clara Monastery."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Miradouro de Santa Clara",
+            "tip": "Der ruhigste Ort, um die ganze Stadt zu überblicken.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Holzstege am Strand",
+            "tip": "Ein friedlicher Spaziergang über den Dünen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Flusses Ave",
+            "tip": "Finden Sie eine Bank und beobachten Sie die Fischerboote.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Miradouro de Santa Clara kilátó",
+            "tip": "A legcsendesebb hely, ahonnan az egész várost belátni.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Fapallók a tengerparton",
+            "tip": "Békés séta a dűnék felett.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Az Ave folyó partja",
+            "tip": "Keressen egy padot, és nézze a halászhajókat.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Miradouro de Santa Clara",
+            "tip": "Cel mai liniștit loc pentru a vedea întregul oraș.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Podețele de lemn de la plajă",
+            "tip": "O plimbare pașnică peste dune.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul râului Ave",
+            "tip": "Găsiți o bancă și priviți bărcile de pescuit.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Miradouro de Santa Clara Viewpoint",
+            "tip": "The quietest spot to overlook the entire city.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Beach boardwalks",
+            "tip": "A peaceful walk over the dunes.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the Ave River",
+            "tip": "Find a bench and watch the fishing boats.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Feira de Artesanato",
+            "tip": "Überprüfen Sie, ob während Ihres Besuchs ein Handwerksmarkt stattfindet."
+          },
+          {
+            "name": "Rua 5 de Outubro",
+            "tip": "Eine der Haupteinkaufsstraßen im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Feira de Artesanato",
+            "tip": "Nézze meg, hogy látogatása során tartanak-e kézműves vásárt."
+          },
+          {
+            "name": "Rua 5 de Outubro",
+            "tip": "Az egyik fő bevásárlóutca a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Feira de Artesanato",
+            "tip": "Verificați dacă are loc un târg de artizanat în timpul vizitei dvs."
+          },
+          {
+            "name": "Rua 5 de Outubro",
+            "tip": "Una dintre principalele străzi comerciale din centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Feira de Artesanato (Crafts Fair)",
+            "tip": "Check if there is a crafts fair happening during your visit."
+          },
+          {
+            "name": "Rua 5 de Outubro",
+            "tip": "One of the main shopping streets in the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in der Innenstadt kann im Sommer schwierig sein; suchen Sie nach ausgewiesenen Parkplätzen (Parques).",
+          "Das Auto gibt Ihnen die Flexibilität, auch weiter entfernte Strände nördlich oder südlich der Stadt zu besuchen.",
+          "Achten Sie auf Einbahnstraßen im historischen Zentrum.",
+          "Kombinieren Sie Ihren Besuch mit dem nahegelegenen Póvoa de Varzim."
+        ],
+        "hu": [
+          "A belvárosi parkolás nyáron nehézkes lehet; keressen kijelölt parkolókat (Parques).",
+          "Az autó rugalmasságot ad, hogy a várostól északra vagy délre fekvő távolabbi strandokat is meglátogassa.",
+          "Vigyázzon az egyirányú utcákra a történelmi központban.",
+          "Kombinálja látogatását a közeli Póvoa de Varzimmal."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi dificilă vara; căutați parcări desemnate (Parques).",
+          "Mașina vă oferă flexibilitatea de a vizita și plaje mai îndepărtate la nord sau la sud de oraș.",
+          "Fiți atenți la străzile cu sens unic din centrul istoric.",
+          "Combinați vizita cu orașul învecinat Póvoa de Varzim."
+        ],
+        "en": [
+          "Parking downtown can be difficult in the summer; look for designated car parks (Parques).",
+          "The car gives you the flexibility to also visit more distant beaches north or south of the city.",
+          "Pay attention to one-way streets in the historic center.",
+          "Combine your visit with the nearby town of Póvoa de Varzim."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:07",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Historisches Zentrum (Cluster A)",
+            "hu": "Történelmi központ (A klaszter)",
+            "ro": "Centrul Istoric (Cluster A)",
+            "en": "Historic Center (Cluster A)"
+          },
+          "coords": [
+            -8.7478,
+            41.3536
+          ],
+          "category": "landmarks",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Starten Sie an einer zentralen Bushaltestelle und erkunden Sie die erste Gruppe von Sehenswürdigkeiten zu Fuß.",
+            "hu": "Induljon egy központi buszmegállóból, és fedezze fel az első látnivalócsoportot gyalog.",
+            "ro": "Începeți de la o stație centrală de autobuz și explorați primul grup de atracții pe jos.",
+            "en": "Start at a central bus stop and explore the first cluster of sights on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Klöppelmuseum (Cluster A)",
+            "hu": "Csipkeverő Múzeum (A klaszter)",
+            "ro": "Muzeul Rendas de Bilros (Cluster A)",
+            "en": "Bobbin Lace Museum (Cluster A)"
+          },
+          "coords": [
+            -8.7485,
+            41.3529
+          ],
+          "category": "museums",
+          "arrive_at": "09:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer, angenehmer Spaziergang durch die gepflasterten Straßen.",
+            "hu": "Rövid, kellemes séta a macskaköves utcákon.",
+            "ro": "O plimbare scurtă și plăcută pe străzile pavate.",
+            "en": "A short, pleasant stroll through the cobbled streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Replik eines Schiffes aus dem 16. Jahrhundert (Cluster A)",
+            "hu": "16. századi hajó másolata (A klaszter)",
+            "ro": "Replica unei Nave din secolul al XVI-lea (Cluster A)",
+            "en": "16th Century Ship Replica (Cluster A)"
+          },
+          "coords": [
+            -8.7505,
+            41.3505
+          ],
+          "category": "museums",
+          "arrive_at": "10:57",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Folgen Sie der Straße hinunter zum Fluss, um das Schiff zu finden.",
+            "hu": "Kövesse az utat lefelé a folyóhoz, hogy megtalálja a hajót.",
+            "ro": "Urmați drumul în jos spre râu pentru a găsi nava.",
+            "en": "Follow the road down to the river to find the ship."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Santa Clara (Cluster B)",
+            "hu": "Santa Clara kolostor (B klaszter)",
+            "ro": "Mănăstirea Santa Clara (Cluster B)",
+            "en": "Monastery of Santa Clara (Cluster B)"
+          },
+          "coords": [
+            -8.7431,
+            41.3581
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus bergauf, um Energie für die Besichtigung zu sparen.",
+            "hu": "Menjen egy helyi busszal a hegyre, hogy energiát spóroljon a nézelődéshez.",
+            "ro": "Luați un autobuz local în sus pentru a economisi energie pentru vizitare.",
+            "en": "Take a local bus uphill to save energy for sightseeing."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquädukt von Vila do Conde (Cluster B)",
+            "hu": "Vila do Conde-i vízvezeték (B klaszter)",
+            "ro": "Apeductul din Vila do Conde (Cluster B)",
+            "en": "Aqueduct of Vila do Conde (Cluster B)"
+          },
+          "coords": [
+            -8.7395,
+            41.3615
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:27",
+          "stay_min": 30,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Kloster aus leicht zu Fuß erreichbar. Ein großartiger Ort für Fotos.",
+            "hu": "A kolostorból könnyen megközelíthető gyalog. Remek hely fotózásra.",
+            "ro": "Ușor de ajuns pe jos de la mănăstire. Un loc minunat pentru fotografii.",
+            "en": "Easily walkable from the monastery. A great spot for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Forno Strand (Cluster C)",
+            "hu": "Praia do Forno (C klaszter)",
+            "ro": "Plaja Forno (Cluster C)",
+            "en": "Forno Beach (Cluster C)"
+          },
+          "coords": [
+            -8.7562,
+            41.3481
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:37",
+          "stay_min": 180,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein Bus bringt Sie direkt in die Nähe des Strandes für einen entspannten Nachmittag.",
+            "hu": "Egy busz közvetlenül a strand közelébe visz egy pihentető délutánra.",
+            "ro": "Un autobuz vă va duce direct lângă plajă pentru o după-amiază relaxantă.",
+            "en": "A bus will take you directly near the beach for a relaxing afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Erkundung mit öffentlichen Verkehrsmitteln beginnt im Herzen von Vila do Conde (Cluster A), wo Sie die Hauptkirche, das Klöppelmuseum und das Schiff am Flussufer zu Fuß entdecken. Anschließend nehmen Sie einen Bus bergauf zum majestätischen Kloster Santa Clara (Cluster B), um die Aussicht zu genießen und das nahe gelegene Aquädukt zu bewundern. Für den Nachmittag bringt Sie ein weiterer Bus zum wunderschönen Praia do Forno (Cluster C). Hier haben Sie ausgiebig Zeit, im Atlantik zu schwimmen, im Sand zu entspannen und die lebhafte Strandatmosphäre aufzusaugen, bevor Sie am Abend zurückfahren.",
+        "hu": "A tömegközlekedéssel való felfedezés Vila do Conde szívében (A klaszter) kezdődik, ahol gyalogosan fedezi fel a főtemplomot, a Csipkemúzeumot és a folyóparti hajót. Ezután busszal megy fel a fenséges Santa Clara kolostorhoz (B klaszter), hogy élvezze a kilátást és megcsodálja a közeli vízvezetéket. Délután egy másik busz viszi a gyönyörű Praia do Forno-ra (C klaszter). Itt bőven van ideje úszni az Atlanti-óceánban, pihenni a homokban, és magába szívni az élénk tengerparti hangulatot, mielőtt este visszautazik.",
+        "ro": "Explorarea cu transportul public începe în inima orașului Vila do Conde (Cluster A), unde descoperiți pe jos Biserica Matrice, Muzeul Dantelăriei și nava de pe malul râului. Apoi, luați un autobuz în sus spre Mănăstirea Santa Clara (Cluster B) pentru a vă bucura de priveliște și a admira apeductul din apropiere. Pentru după-amiază, un alt autobuz vă duce la frumoasa Plajă Forno (Cluster C). Aici aveți timp suficient să înotați în Atlantic, să vă relaxați pe nisip și să absorbiți atmosfera vibrantă a plajei înainte de a vă întoarce seara.",
+        "en": "Your exploration by public transport begins in the heart of Vila do Conde (Cluster A), where you'll discover the Main Church, the Bobbin Lace Museum, and the ship on the riverbank on foot. You'll then take a bus uphill to the majestic Santa Clara Monastery (Cluster B) to enjoy the views and admire the nearby aqueduct. For the afternoon, another bus takes you to the beautiful Forno Beach (Cluster C). Here you'll have ample time to swim in the Atlantic, relax on the sand, and soak up the vibrant beach atmosphere before heading back in the evening."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bifana",
+            "tip": "Ein klassisches portugiesisches Schweinefleisch-Sandwich, perfekt für ein schnelles Mittagessen."
+          },
+          {
+            "name": "Caldo Verde",
+            "tip": "Eine traditionelle Grünkohlsuppe, oft mit Chouriço-Wurst serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bifana",
+            "tip": "Klasszikus portugál sertéshúsos szendvics, tökéletes egy gyors ebédhez."
+          },
+          {
+            "name": "Caldo Verde",
+            "tip": "Hagyományos kelkáposztaleves, gyakran chouriço kolbásszal tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bifana",
+            "tip": "Un sandviș clasic portughez cu carne de porc, perfect pentru un prânz rapid."
+          },
+          {
+            "name": "Caldo Verde",
+            "tip": "O supă tradițională de varză kale, adesea servită cu cârnat chouriço."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bifana",
+            "tip": "A classic Portuguese pork sandwich, perfect for a quick lunch."
+          },
+          {
+            "name": "Caldo Verde",
+            "tip": "A traditional kale soup, often served with chouriço sausage."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Metro-Fahrt nach Porto",
+            "tip": "Obwohl keine Stille herrscht, bietet die Fahrt entlang der Küste eine entspannende Aussicht.",
+            "emoji": "🚇"
+          },
+          {
+            "name": "Park Jardim Júlio Graça",
+            "tip": "Ein städtischer Park für eine kurze Pause im Grünen.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kirche Nossa Senhora da Lapa",
+            "tip": "Eine kleinere, oft übersehene Kirche für einen Moment der Besinnung.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Metróút Portóba",
+            "tip": "Bár nem csendes, a part menti utazás pihentető kilátást nyújt.",
+            "emoji": "🚇"
+          },
+          {
+            "name": "Jardim Júlio Graça park",
+            "tip": "Városi park egy rövid zöld szünethez.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Nossa Senhora da Lapa templom",
+            "tip": "Egy kisebb, gyakran figyelmen kívül hagyott templom egy pillanatnyi elmélkedésre.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătorie cu metroul spre Porto",
+            "tip": "Deși nu este tăcere, călătoria de-a lungul coastei oferă o priveliște relaxantă.",
+            "emoji": "🚇"
+          },
+          {
+            "name": "Parcul Jardim Júlio Graça",
+            "tip": "Un parc urban pentru o scurtă pauză în verdeață.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Biserica Nossa Senhora da Lapa",
+            "tip": "O biserică mai mică, adesea trecută cu vederea, pentru un moment de reflecție.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Metro ride to Porto",
+            "tip": "Although not silent, the ride along the coast offers relaxing views.",
+            "emoji": "🚇"
+          },
+          {
+            "name": "Jardim Júlio Graça Park",
+            "tip": "An urban park for a short break in the green.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Nossa Senhora da Lapa Church",
+            "tip": "A smaller, often overlooked church for a moment of reflection.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckereien (Pastelarias)",
+            "tip": "Kaufen Sie eine Schachtel mit lokalen Süßigkeiten zum Mitnehmen."
+          },
+          {
+            "name": "Konservenläden (Conserveiras)",
+            "tip": "Kaufen Sie kunstvoll verpackte Fischkonserven als einzigartiges Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékségek (Pastelarias)",
+            "tip": "Vásároljon egy doboz helyi édességet elvitelre."
+          },
+          {
+            "name": "Konzervboltok (Conserveiras)",
+            "tip": "Vásároljon művészien csomagolt halkonzervet egyedi szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Patiserii locale (Pastelarias)",
+            "tip": "Cumpărați o cutie de dulciuri locale la pachet."
+          },
+          {
+            "name": "Magazine de conserve (Conserveiras)",
+            "tip": "Cumpărați conserve de pește ambalate artistic ca un suvenir unic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local bakeries (Pastelarias)",
+            "tip": "Buy a box of local sweets to take away."
+          },
+          {
+            "name": "Canned fish shops (Conserveiras)",
+            "tip": "Buy artfully packaged canned fish as a unique souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel für das beste Preis-Leistungs-Verhältnis.",
+          "Prüfen Sie die Busfahrpläne im Voraus, besonders an Wochenenden.",
+          "Die Metro-Linie B verbindet Vila do Conde direkt mit dem Zentrum von Porto.",
+          "Halten Sie Kleingeld für Bustickets bereit, die Sie beim Fahrer kaufen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez a legjobb ár-érték arány érdekében.",
+          "Előre ellenőrizze a buszmenetrendet, különösen hétvégén.",
+          "A B metróvonal közvetlenül összeköti Vila do Conde-t Porto központjával.",
+          "Tartson aprópénzt a sofőrnél vásárolt buszjegyekhez."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru cel mai bun raport calitate-preț.",
+          "Verificați din timp orarele autobuzelor, în special în weekend.",
+          "Linia de metrou B leagă direct Vila do Conde de centrul orașului Porto.",
+          "Păstrați mărunțiș pentru biletele de autobuz cumpărate de la șofer."
+        ],
+        "en": [
+          "Buy a daily public transport ticket for the best value.",
+          "Check bus schedules in advance, especially on weekends.",
+          "Metro line B connects Vila do Conde directly to Porto's city center.",
+          "Keep small change handy for bus tickets bought from the driver."
+        ]
+      }
+    }
+  }
+}

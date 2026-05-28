@@ -1,0 +1,1238 @@
+{
+  "city_id": "lithuania-kedainiai-cities-v2",
+  "anchor": {
+    "name": "Kėdainiai",
+    "coords": [
+      23.9667,
+      55.2833
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 3.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Großer Marktplatz",
+            "hu": "Nagy Piactér",
+            "ro": "Piața Mare",
+            "en": "Great Market Square"
+          },
+          "coords": [
+            23.9845,
+            55.286
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier, um die Atmosphäre der Altstadt aufzusaugen.",
+            "hu": "Kezdje a napot itt, hogy magába szívja az óváros hangulatát.",
+            "ro": "Începeți ziua aici pentru a absorbi atmosfera centrului vechi.",
+            "en": "Start your day here to soak in the Old Town's atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Kėdainiai",
+            "hu": "Kėdainiai-i városháza",
+            "ro": "Primăria din Kėdainiai",
+            "en": "Kėdainiai Town Hall"
+          },
+          "coords": [
+            23.984,
+            55.2865
+          ],
+          "category": "historical",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur aus dem 17. Jahrhundert.",
+            "hu": "Csodálja meg a 17. századi építészetet.",
+            "ro": "Admirați arhitectura din secolul al XVII-lea.",
+            "en": "Admire the 17th-century architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Janina-Monkutė-Marks-Museum",
+            "hu": "Janina Monkutė-Marks Múzeum",
+            "ro": "Muzeul Janina Monkutė-Marks",
+            "en": "Janina Monkutė-Marks Museum"
+          },
+          "coords": [
+            23.985,
+            55.2875
+          ],
+          "category": "museums",
+          "arrive_at": "10:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie moderne litauische Kunst in einem historischen Gebäude.",
+            "hu": "Fedezze fel a modern litván művészetet egy történelmi épületben.",
+            "ro": "Descoperiți arta lituaniană modernă într-o clădire istorică.",
+            "en": "Discover modern Lithuanian art in a historic building."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Georgs-Kirche",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Sfântul Gheorghe",
+            "en": "St. George's Church"
+          },
+          "coords": [
+            23.9801,
+            55.289
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Eine der ältesten Holzkirchen in Litauen, ein ruhiger Ort.",
+            "hu": "Litvánia egyik legrégebbi fatemploma, egy békés hely.",
+            "ro": "Una dintre cele mai vechi biserici de lemn din Lituania, un loc liniștit.",
+            "en": "One of the oldest wooden churches in Lithuania, a peaceful spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Evangelisch-Reformierte Kirche",
+            "hu": "Evangélikus-Református templom",
+            "ro": "Biserica Reformată Evanghelică",
+            "en": "Evangelical Reformed Church"
+          },
+          "coords": [
+            23.974,
+            55.2872
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Krypta mit den Sarkophagen der Familie Radziwiłł.",
+            "hu": "Látogassa meg a kriptát a Radziwiłł család szarkofágjaival.",
+            "ro": "Vizitați cripta cu sarcofagele familiei Radziwiłł.",
+            "en": "Visit the crypt with the sarcophagi of the Radziwiłł family."
+          }
+        },
+        {
+          "name": {
+            "de": "Minarett von Kėdainiai",
+            "hu": "Kėdainiai-i minaret",
+            "ro": "Minaretul din Kėdainiai",
+            "en": "Kėdainiai Minaret"
+          },
+          "coords": [
+            23.963,
+            55.291
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:38",
+          "stay_min": 25,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Ein einzigartiges und unerwartetes Wahrzeichen, perfekt für Fotos.",
+            "hu": "Egyedi és váratlan látnivaló, tökéletes fotókhoz.",
+            "ro": "Un monument unic și neașteptat, perfect pentru fotografii.",
+            "en": "A unique and unexpected landmark, perfect for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Regionalmuseum Kėdainiai",
+            "hu": "Kėdainiai Regionális Múzeum",
+            "ro": "Muzeul Regional Kėdainiai",
+            "en": "Kėdainiai Regional Museum"
+          },
+          "coords": [
+            23.9785,
+            55.2868
+          ],
+          "category": "museums",
+          "arrive_at": "15:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie tief in die reiche und multikulturelle Geschichte der Stadt ein.",
+            "hu": "Merüljön el a város gazdag és multikulturális történelmében.",
+            "ro": "Aprofundați istoria bogată și multiculturală a orașului.",
+            "en": "Dive deep into the city's rich and multicultural history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang am Großen Marktplatz, dem pulsierenden Herzen der Altstadt. Der Vormittag ist der Erkundung der historischen Plätze und der beeindruckenden Architektur gewidmet, darunter das alte Rathaus und die einzigartige Holzkirche St. Georg. Am Mittag tauchen Sie in die Renaissance-Atmosphäre der Evangelisch-Reformierten Kirche ein und erfahren mehr über die mächtige Familie Radziwiłł. Der Nachmittag bringt eine Überraschung mit dem einzigen Minarett Litauens, ein Zeugnis der vielfältigen Vergangenheit der Stadt. Beenden Sie Ihren Tag im Regionalmuseum, das die faszinierende Geschichte von Kėdainiai zusammenfasst.",
+        "hu": "Kezdje sétáját a Nagy Piactéren, az óváros lüktető szívében. A délelőtt a történelmi terek és a lenyűgöző építészet, köztük a régi városháza és az egyedülálló Szent György fatemplom felfedezésével telik. Délben merüljön el az Evangélikus-Református templom reneszánsz hangulatában, és tudjon meg többet a hatalmas Radziwiłł családról. A délután egy meglepetést tartogat Litvánia egyetlen minaretjével, amely a város sokszínű múltjának tanúja. Zárja a napot a Regionális Múzeumban, amely összefoglalja Kėdainiai lenyűgöző történetét.",
+        "ro": "Începeți plimbarea în Piața Mare, inima vibrantă a centrului vechi. Dimineața este dedicată explorării piețelor istorice și arhitecturii impresionante, inclusiv vechea Primărie și biserica unică de lemn Sfântul Gheorghe. La prânz, cufundați-vă în atmosfera renascentistă a Bisericii Reformate Evanghelice și aflați despre puternica familie Radziwiłł. După-amiaza aduce o surpriză cu singurul minaret din Lituania, o mărturie a trecutului divers al orașului. Încheiați ziua la Muzeul Regional, care rezumă istoria fascinantă a orașului Kėdainiai.",
+        "en": "Start your walk at the Great Market Square, the vibrant heart of the Old Town. The morning is for exploring the historic squares and impressive architecture, including the old Town Hall and the unique wooden St. George's Church. At midday, immerse yourself in the Renaissance atmosphere of the Evangelical Reformed Church and learn about the powerful Radziwiłł family. The afternoon brings a surprise with Lithuania's only minaret, a testament to the city's diverse past. End your day at the Regional Museum, which encapsulates the fascinating history of Kėdainiai."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cepelinai",
+            "tip": "Probieren Sie diese herzhaften Kartoffelklöße, ein litauisches Nationalgericht."
+          },
+          {
+            "name": "Šaltibarščiai",
+            "tip": "Eine erfrischende kalte Rote-Bete-Suppe, perfekt für einen warmen Tag."
+          },
+          {
+            "name": "Kėdainių blynai",
+            "tip": "Geriebene Kartoffelpuffer, oft mit Fleisch gefüllt, die Spezialität der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cepelinai",
+            "tip": "Kóstolja meg ezeket a kiadós burgonyagombócokat, Litvánia nemzeti ételét."
+          },
+          {
+            "name": "Šaltibarščiai",
+            "tip": "Frissítő hideg céklaleves, tökéletes egy meleg napra."
+          },
+          {
+            "name": "Kėdainių blynai",
+            "tip": "Reszelt burgonyalepény, gyakran hússal töltve, a város specialitása."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cepelinai",
+            "tip": "Încercați aceste găluște consistente din cartofi, un fel de mâncare național lituanian."
+          },
+          {
+            "name": "Šaltibarščiai",
+            "tip": "O supă rece răcoritoare de sfeclă roșie, perfectă pentru o zi caldă."
+          },
+          {
+            "name": "Kėdainių blynai",
+            "tip": "Clătite din cartofi rași, adesea umplute cu carne, specialitatea orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cepelinai",
+            "tip": "Try these hearty potato dumplings, a Lithuanian national dish."
+          },
+          {
+            "name": "Šaltibarščiai",
+            "tip": "A refreshing cold beetroot soup, perfect for a warm day."
+          },
+          {
+            "name": "Kėdainių blynai",
+            "tip": "Grated potato pancakes, often filled with meat, the town's specialty."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Nevėžis Flussufer",
+            "tip": "Machen Sie einen ruhigen Spaziergang am Flussufer und genießen Sie die Natur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hof der reformierten Kirche",
+            "tip": "Ein friedlicher Ort, um die Geschichte und die Stille zu genießen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Stadtpark",
+            "tip": "Entfliehen Sie dem Trubel in dieser grünen Oase nahe dem Minarett.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nevėžis folyó partja",
+            "tip": "Tegyen egy csendes sétát a folyóparton és élvezze a természetet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A református templom udvara",
+            "tip": "Békés hely a történelem és a csend élvezetére.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Városi park",
+            "tip": "Meneküljön el a nyüzsgésből ebben a zöld oázisban a minaret közelében.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Nevėžis",
+            "tip": "Faceți o plimbare liniștită de-a lungul malului râului și bucurați-vă de natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea Bisericii Reformate",
+            "tip": "Un loc pașnic pentru a te bucura de istorie și liniște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul orașului",
+            "tip": "Evadați din agitație în această oază de verdeață de lângă minaret.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Nevėžis Riverbank",
+            "tip": "Take a quiet stroll along the riverbank and enjoy nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Reformed Church Courtyard",
+            "tip": "A peaceful spot to enjoy the history and the silence.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "City Park",
+            "tip": "Escape the bustle in this green oasis near the minaret.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Märkte",
+            "tip": "Suchen Sie nach lokalen Produkten und handgefertigtem Käse."
+          },
+          {
+            "name": "Souvenirläden in der Altstadt",
+            "tip": "Finden Sie Bernstein-Schmuck und traditionelle Leinenprodukte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piacok",
+            "tip": "Keressen helyi termékeket és kézműves sajtokat."
+          },
+          {
+            "name": "Ajándékboltok az óvárosban",
+            "tip": "Találjon borostyán ékszereket és hagyományos lenvászon termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe locale",
+            "tip": "Căutați produse locale și brânzeturi artizanale."
+          },
+          {
+            "name": "Magazine de suveniruri din Centrul Vechi",
+            "tip": "Găsiți bijuterii din chihlimbar și produse tradiționale din in."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Markets",
+            "tip": "Look for local produce and artisan cheeses."
+          },
+          {
+            "name": "Old Town Souvenir Shops",
+            "tip": "Find amber jewelry and traditional linen products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Altstadt Kopfsteinpflaster hat.",
+          "Die meisten Sehenswürdigkeiten sind zu Fuß erreichbar.",
+          "Prüfen Sie die Öffnungszeiten der Museen, da diese variieren können.",
+          "Nehmen Sie sich Zeit, die einzigartige multikulturelle Geschichte der Stadt zu schätzen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, az óváros macskaköves.",
+          "A legtöbb látnivaló gyalogosan elérhető.",
+          "Ellenőrizze a múzeumok nyitvatartási idejét, mert változhat.",
+          "Szánjon időt a város egyedülálló multikulturális történelmének megismerésére."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul vechi este pavat cu piatră cubică.",
+          "Majoritatea atracțiilor sunt la distanță de mers pe jos.",
+          "Verificați programul de funcționare al muzeelor, deoarece acestea pot varia.",
+          "Luați-vă timp pentru a aprecia istoria multiculturală unică a orașului."
+        ],
+        "en": [
+          "Wear comfortable shoes as the old town has cobblestone streets.",
+          "Most sights are within easy walking distance.",
+          "Check the opening hours for the museums as they can vary.",
+          "Take your time to appreciate the city's unique multicultural history."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Großer Marktplatz",
+            "hu": "Nagy Piactér",
+            "ro": "Piața Mare",
+            "en": "Great Market Square"
+          },
+          "coords": [
+            23.9845,
+            55.286
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie den Platz zu Fuß.",
+            "hu": "Zárja le a biciklit és fedezze fel a teret gyalog.",
+            "ro": "Parcați bicicleta și explorați piața pe jos.",
+            "en": "Park your bike and explore the square on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Kėdainiai",
+            "hu": "Kėdainiai-i városháza",
+            "ro": "Primăria din Kėdainiai",
+            "en": "Kėdainiai Town Hall"
+          },
+          "coords": [
+            23.984,
+            55.2865
+          ],
+          "category": "historical",
+          "arrive_at": "09:37",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nur eine kurze Fahrt vom Hauptplatz entfernt.",
+            "hu": "Csak egy rövid tekerés a főtértől.",
+            "ro": "La doar o scurtă plimbare cu bicicleta de piața principală.",
+            "en": "Just a short ride from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Georgs-Kirche",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Sfântul Gheorghe",
+            "en": "St. George's Church"
+          },
+          "coords": [
+            23.9801,
+            55.289
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:11",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die Fahrt zu dieser etwas abgelegenen Holzkirche.",
+            "hu": "Élvezze a tekerést ehhez a kissé félreeső fatemplomhoz.",
+            "ro": "Bucurați-vă de plimbarea cu bicicleta până la această biserică de lemn puțin retrasă.",
+            "en": "Enjoy the ride to this slightly secluded wooden church."
+          }
+        },
+        {
+          "name": {
+            "de": "Minarett von Kėdainiai",
+            "hu": "Kėdainiai-i minaret",
+            "ro": "Minaretul din Kėdainiai",
+            "en": "Kėdainiai Minaret"
+          },
+          "coords": [
+            23.963,
+            55.291
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:03",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Die Radtour zum Minarett führt Sie durch einen schönen Park.",
+            "hu": "A minarethez vezető bicikliút egy szép parkon keresztül vezet.",
+            "ro": "Plimbarea cu bicicleta până la minaret vă duce printr-un parc frumos.",
+            "en": "The bike ride to the minaret takes you through a lovely park."
+          }
+        },
+        {
+          "name": {
+            "de": "Evangelisch-Reformierte Kirche",
+            "hu": "Evangélikus-Református templom",
+            "ro": "Biserica Reformată Evanghelică",
+            "en": "Evangelical Reformed Church"
+          },
+          "coords": [
+            23.974,
+            55.2872
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein zentraler Punkt auf Ihrer Radtour, ideal für eine längere Pause.",
+            "hu": "Kerékpártúrájának központi pontja, ideális egy hosszabb pihenőre.",
+            "ro": "Un punct central în turul dvs. cu bicicleta, ideal pentru o pauză mai lungă.",
+            "en": "A central point in your bike tour, great for a longer break."
+          }
+        },
+        {
+          "name": {
+            "de": "Janina-Monkutė-Marks-Museum",
+            "hu": "Janina Monkutė-Marks Múzeum",
+            "ro": "Muzeul Janina Monkutė-Marks",
+            "en": "Janina Monkutė-Marks Museum"
+          },
+          "coords": [
+            23.985,
+            55.2875
+          ],
+          "category": "museums",
+          "arrive_at": "13:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zurück ins Herz der Altstadt für eine Dosis moderner Kunst.",
+            "hu": "Tekerjen vissza az óváros szívébe egy adag modern művészetért.",
+            "ro": "Întoarceți-vă cu bicicleta în inima centrului vechi pentru o doză de artă modernă.",
+            "en": "Ride back into the heart of the old town for a dose of modern art."
+          }
+        },
+        {
+          "name": {
+            "de": "Regionalmuseum Kėdainiai",
+            "hu": "Kėdainiai Regionális Múzeum",
+            "ro": "Muzeul Regional Kėdainiai",
+            "en": "Kėdainiai Regional Museum"
+          },
+          "coords": [
+            23.9785,
+            55.2868
+          ],
+          "category": "museums",
+          "arrive_at": "15:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem tiefen Einblick in die Geschichte.",
+            "hu": "Fejezze be a túrát a történelem mélyebb megismerésével.",
+            "ro": "Încheiați turul cu o incursiune profundă în istorie.",
+            "en": "End your tour with a deep dive into history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Großen Marktplatz und genießen Sie die Freiheit, die Stadt auf zwei Rädern zu erkunden. Der Vormittag führt Sie an historischen Gebäuden vorbei zur ruhigen St.-Georgs-Kirche und dann zum überraschenden Minarett am Rande eines Parks. Am Mittag kehren Sie ins Zentrum zurück, um die beeindruckende Evangelisch-Reformierte Kirche zu besichtigen, ein idealer Ort für eine längere Pause. Der Nachmittag ist der Kunst und Geschichte gewidmet, mit Besuchen im Janina-Monkutė-Marks-Museum und dem Regionalmuseum, die beide leicht mit dem Fahrrad zu erreichen sind.",
+        "hu": "Kezdje a biciklitúrát a Nagy Piactéren, és élvezze a város felfedezésének szabadságát két keréken. A délelőtt történelmi épületek mellett vezet el a csendes Szent György-templomhoz, majd a meglepő minarethez egy park szélén. Délben térjen vissza a központba, hogy meglátogassa a lenyűgöző Evangélikus-Református templomot, amely ideális hely egy hosszabb pihenőre. A délután a művészeté és a történelemé, a Janina Monkutė-Marks Múzeum és a Regionális Múzeum meglátogatásával, mindkettő könnyen elérhető kerékpárral.",
+        "ro": "Începeți turul cu bicicleta din Piața Mare și bucurați-vă de libertatea de a explora orașul pe două roți. Dimineața vă poartă pe lângă clădiri istorice până la liniștita Biserică Sf. Gheorghe, apoi la surprinzătorul minaret de la marginea unui parc. La prânz, reveniți în centru pentru a vizita impunătoarea Biserică Reformată Evanghelică, un loc ideal pentru o pauză mai lungă. După-amiaza este dedicată artei și istoriei, cu vizite la Muzeul Janina Monkutė-Marks și Muzeul Regional, ambele ușor accesibile cu bicicleta.",
+        "en": "Start your bike tour at the Great Market Square and enjoy the freedom of exploring the city on two wheels. The morning takes you past historic buildings to the quiet St. George's Church and then to the surprising Minaret on the edge of a park. At midday, return to the center to visit the impressive Evangelical Reformed Church, an ideal spot for a longer break. The afternoon is dedicated to art and history, with visits to the Janina Monkutė-Marks Museum and the Regional Museum, both easily accessible by bike."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kėdainių blynai",
+            "tip": "Tanken Sie Energie mit den lokalen Kartoffelpuffern, eine perfekte Mahlzeit für Radfahrer."
+          },
+          {
+            "name": "Gira",
+            "tip": "Probieren Sie dieses traditionelle fermentierte Roggenbrotgetränk zur Erfrischung."
+          },
+          {
+            "name": "Smoked Fish",
+            "tip": "Suchen Sie nach lokalen Anbietern, die geräucherten Fisch aus den nahegelegenen Flüssen anbieten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kėdainių blynai",
+            "tip": "Töltődjön fel energiával a helyi burgonyalepénnyel, tökéletes étel bicikliseknek."
+          },
+          {
+            "name": "Gira",
+            "tip": "Kóstolja meg ezt a hagyományos, erjesztett rozskenyér-italt frissítőként."
+          },
+          {
+            "name": "Füstölt hal",
+            "tip": "Keressen helyi árusokat, akik a közeli folyókból származó füstölt halat kínálnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kėdainių blynai",
+            "tip": "Realimentați-vă cu clătitele locale de cartofi, o masă perfectă pentru bicicliști."
+          },
+          {
+            "name": "Gira",
+            "tip": "Încercați această băutură tradițională fermentată din pâine de secară pentru a vă răcori."
+          },
+          {
+            "name": "Pește afumat",
+            "tip": "Căutați vânzători locali care oferă pește afumat din râurile din apropiere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kėdainių blynai",
+            "tip": "Fuel up with the local potato pancakes, a perfect meal for cyclists."
+          },
+          {
+            "name": "Gira",
+            "tip": "Try this traditional fermented rye bread drink for refreshment."
+          },
+          {
+            "name": "Smoked Fish",
+            "tip": "Look for local vendors offering smoked fish from the nearby rivers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Nevėžis",
+            "tip": "Genießen Sie eine friedliche Fahrt entlang des Flusses, abseits der Hauptstraßen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kėdainiai Stadtpark",
+            "tip": "Eine grüne Oase, ideal für eine Pause während Ihrer Radtour.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nevėžis menti kerékpárút",
+            "tip": "Élvezze a békés tekerést a folyó mentén, távol a főutaktól.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kėdainiai Városi Park",
+            "tip": "Zöld oázis, ideális egy pihenőre a kerékpártúra során.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de pe malul râului Nevėžis",
+            "tip": "Bucurați-vă de o plimbare liniștită de-a lungul râului, departe de drumurile principale.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul orașului Kėdainiai",
+            "tip": "O oază de verdeață, ideală pentru o pauză în timpul turului cu bicicleta.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Nevėžis Riverside Bike Path",
+            "tip": "Enjoy a peaceful ride along the river, away from the main roads.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kėdainiai City Park",
+            "tip": "A green oasis, ideal for a break during your bike tour.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Einige Straßen in der Altstadt sind eng und haben Kopfsteinpflaster, fahren Sie vorsichtig.",
+          "Schließen Sie Ihr Fahrrad immer an, wenn Sie es unbeaufsichtigt lassen.",
+          "Nutzen Sie die Radwege entlang des Flusses für eine malerische und sichere Fahrt."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket és a gumikat.",
+          "Az óváros egyes utcái szűkek és macskakövesek, óvatosan közlekedjen.",
+          "Mindig zárja le a kerékpárt, ha felügyelet nélkül hagyja.",
+          "Használja a folyó menti kerékpárutakat a festői és biztonságos közlekedésért."
+        ],
+        "ro": [
+          "Verificați bicicleta înainte de a pleca, în special frânele și anvelopele.",
+          "Unele străzi din centrul vechi sunt înguste și pavate cu piatră cubică, mergeți cu prudență.",
+          "Legați întotdeauna bicicleta când o lăsați nesupravegheată.",
+          "Folosiți pistele de biciclete de-a lungul râului pentru o plimbare pitorească și sigură."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes and tires.",
+          "Some streets in the old town are narrow and have cobblestones, ride with care.",
+          "Always lock your bike when leaving it unattended.",
+          "Use the bike paths along the river for a scenic and safe ride."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 4.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Stadtpark",
+            "hu": "Parkoló a Városi Parknál",
+            "ro": "Parcare lângă Parcul Orașului",
+            "en": "City Park Parking"
+          },
+          "coords": [
+            23.964,
+            55.2905
+          ],
+          "category": "parking",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier und beginnen Sie Ihren Tag mit dem ersten Cluster.",
+            "hu": "Parkoljon le itt, és kezdje a napot az első látnivaló-csoporttal.",
+            "ro": "Parcați aici și începeți ziua cu primul grup de atracții.",
+            "en": "Park here and start your day with the first cluster of sights."
+          }
+        },
+        {
+          "name": {
+            "de": "Minarett von Kėdainiai",
+            "hu": "Kėdainiai-i minaret",
+            "ro": "Minaretul din Kėdainiai",
+            "en": "Kėdainiai Minaret"
+          },
+          "coords": [
+            23.963,
+            55.291
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:17",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ihr erster Halt ist nur einen kurzen Spaziergang vom Parkplatz entfernt.",
+            "hu": "Az első megálló csak egy rövid sétára van a parkolótól.",
+            "ro": "Prima oprire este la o scurtă plimbare de parcare.",
+            "en": "Your first stop is just a short walk from the parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Altstadt",
+            "hu": "Óvárosi Parkoló",
+            "ro": "Parcare Centrul Vechi",
+            "en": "Old Town Parking"
+          },
+          "coords": [
+            23.986,
+            55.2855
+          ],
+          "category": "parking",
+          "arrive_at": "09:54",
+          "stay_min": 5,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum zweiten Cluster. Von hier aus ist alles zu Fuß erreichbar.",
+            "hu": "Vezessen a második látnivaló-csoporthoz. Innen minden gyalog elérhető.",
+            "ro": "Conduceți la al doilea grup de atracții. De aici, totul este la distanță de mers pe jos.",
+            "en": "Drive to the second cluster. Everything is walkable from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Großer Marktplatz & Rathaus",
+            "hu": "Nagy Piactér és Városháza",
+            "ro": "Piața Mare și Primăria",
+            "en": "Great Market Square & Town Hall"
+          },
+          "coords": [
+            23.9845,
+            55.286
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:01",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie das Herz der Altstadt zu Fuß.",
+            "hu": "Fedezze fel gyalog az óváros szívét.",
+            "ro": "Explorați pe jos inima centrului vechi.",
+            "en": "Explore the heart of the old town on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Evangelisch-Reformierte Kirche",
+            "hu": "Evangélikus-Református templom",
+            "ro": "Biserica Reformată Evanghelică",
+            "en": "Evangelical Reformed Church"
+          },
+          "coords": [
+            23.974,
+            55.2872
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang bringt Sie zu diesem wichtigen historischen Ort.",
+            "hu": "Egy rövid séta elvezeti Önt ehhez a fontos történelmi helyszínhez.",
+            "ro": "O scurtă plimbare vă duce la acest important sit istoric.",
+            "en": "A short walk takes you to this important historical site."
+          }
+        },
+        {
+          "name": {
+            "de": "Regionalmuseum & St.-Georgs-Kirche",
+            "hu": "Regionális Múzeum és Szent György-templom",
+            "ro": "Muzeul Regional și Biserica Sf. Gheorghe",
+            "en": "Regional Museum & St. George's Church"
+          },
+          "coords": [
+            23.9785,
+            55.2868
+          ],
+          "category": "museums",
+          "arrive_at": "12:56",
+          "stay_min": 180,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Rundgang mit einem tiefen Einblick in die lokale Geschichte.",
+            "hu": "Fejezze be a sétát a helyi történelem alapos megismerésével.",
+            "ro": "Încheiați turul pietonal cu o incursiune profundă în istoria locală.",
+            "en": "Finish your walking tour with a deep dive into local history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Autotag ist für maximale Effizienz konzipiert. Parken Sie zuerst in der Nähe des Stadtparks, um das einzigartige Minarett zu besichtigen. Dies ist Ihr erster, kleinerer Cluster. Danach fahren Sie zu einem zentralen Parkplatz in der Altstadt. Von hier aus beginnt Ihr zweiter, größerer Cluster: ein gemütlicher Spaziergang, der Sie zum Großen Marktplatz, dem Rathaus und der beeindruckenden Evangelisch-Reformierten Kirche führt. Der Nachmittag ist für einen längeren Aufenthalt im Regionalmuseum reserviert, um die reiche Geschichte der Stadt vollständig aufzunehmen, bevor Sie zu Ihrem Auto zurückkehren.",
+        "hu": "Ez az autós nap a maximális hatékonyságra lett tervezve. Először parkoljon a Városi Park közelében, hogy megnézze az egyedülálló minaretet. Ez az első, kisebb látnivaló-csoport. Ezután vezessen el egy központi parkolóba az óvárosban. Innen indul a második, nagyobb csoport: egy kellemes séta a Nagy Piactérre, a Városházához és a lenyűgöző Evangélikus-Református templomhoz. A délutánt a Regionális Múzeumban való hosszabb tartózkodásra szánjuk, hogy teljesen befogadhassa a város gazdag történelmét, mielőtt visszatérne az autójához.",
+        "ro": "Această zi cu mașina este concepută pentru eficiență maximă. Parcați mai întâi lângă Parcul Orașului pentru a vedea minaretul unic. Acesta este primul dvs. grup, mai mic. Apoi, conduceți la o parcare centrală în Centrul Vechi. De aici începe al doilea grup, mai mare: o plimbare relaxantă care vă duce la Piața Mare, Primărie și impunătoarea Biserică Reformată Evanghelică. După-amiaza este rezervată unei vizite mai lungi la Muzeul Regional pentru a absorbi pe deplin istoria bogată a orașului înainte de a vă întoarce la mașină.",
+        "en": "This car day is designed for maximum efficiency. First, park near the City Park to see the unique minaret. This is your first, smaller cluster. Afterwards, drive to a central parking spot in the Old Town. From here, your second, larger cluster begins: a leisurely walk taking you to the Great Market Square, the Town Hall, and the impressive Evangelical Reformed Church. The afternoon is reserved for a longer stay at the Regional Museum to fully absorb the city's rich history before returning to your car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant im Stadtzentrum",
+            "tip": "Wählen Sie ein Restaurant in der Altstadt für ein Mittagessen zwischen den Besichtigungen."
+          },
+          {
+            "name": "Kėdainių Blynai",
+            "tip": "Fragen Sie nach der lokalen Spezialität, den gefüllten Kartoffelpuffern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a városközpontban",
+            "tip": "Válasszon egy éttermet az óvárosban ebédre a látnivalók között."
+          },
+          {
+            "name": "Kėdainių Blynai",
+            "tip": "Kérje a helyi specialitást, a töltött burgonyalepényt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant în centrul orașului",
+            "tip": "Alegeți un restaurant în Centrul Vechi pentru prânz între vizite."
+          },
+          {
+            "name": "Kėdainių Blynai",
+            "tip": "Întrebați de specialitatea locală, clătitele de cartofi umplute."
+          }
+        ],
+        "en": [
+          {
+            "name": "City Center Restaurant",
+            "tip": "Choose a restaurant in the Old Town for lunch between sights."
+          },
+          {
+            "name": "Kėdainių Blynai",
+            "tip": "Ask for the local specialty, the filled potato pancakes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Fluss",
+            "tip": "Nach dem Parken können Sie einen kurzen, ruhigen Spaziergang am Nevėžis-Fluss machen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a folyóparton",
+            "tip": "Parkolás után tehet egy rövid, csendes sétát a Nevėžis folyó partján.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului",
+            "tip": "După ce parcați, puteți face o scurtă plimbare liniștită de-a lungul râului Nevėžis.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Riverbank Stroll",
+            "tip": "After parking, you can take a short, quiet walk along the Nevėžis river.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Läden in der Altstadt",
+            "tip": "Stöbern Sie nach Souvenirs, bevor Sie zu Ihrem Auto zurückkehren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok az óvárosban",
+            "tip": "Nézzen körül szuvenírek után, mielőtt visszatérne az autójához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine din Centrul Vechi",
+            "tip": "Căutați suveniruri înainte de a vă întoarce la mașină."
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Town Shops",
+            "tip": "Browse for souvenirs before heading back to your car."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Cluster-Strategie, um Parkgebühren und Stress zu minimieren.",
+          "Die Parkplätze können in der Hochsaison schnell voll werden, planen Sie entsprechend.",
+          "Lassen Sie keine Wertsachen im Auto sichtbar liegen.",
+          "Die Altstadt ist kompakt und am besten zu Fuß zu erkunden."
+        ],
+        "hu": [
+          "Használja a csoportosítási stratégiát a parkolási díjak és a stressz minimalizálása érdekében.",
+          "A parkolók a főszezonban gyorsan megtelhetnek, tervezzen ennek megfelelően.",
+          "Ne hagyjon értékeket látható helyen az autóban.",
+          "Az óváros kompakt, és a legjobb gyalog felfedezni."
+        ],
+        "ro": [
+          "Folosiți strategia de grupare pentru a minimiza taxele de parcare și stresul.",
+          "Parcările se pot umple rapid în sezonul de vârf, planificați în consecință.",
+          "Nu lăsați obiecte de valoare la vedere în mașină.",
+          "Centrul vechi este compact și cel mai bine de explorat pe jos."
+        ],
+        "en": [
+          "Use the cluster strategy to minimize parking fees and stress.",
+          "Parking can fill up quickly in peak season, plan accordingly.",
+          "Do not leave valuables visible in the car.",
+          "The old town is compact and best explored on foot."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:44",
+      "total_km": 3.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentrale Bushaltestelle (Altstadt)",
+            "hu": "Központi buszmegálló (Óváros)",
+            "ro": "Stație centrală de autobuz (Centrul Vechi)",
+            "en": "Central Bus Stop (Old Town)"
+          },
+          "coords": [
+            23.987,
+            55.285
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier. Das Zentrum ist Ihr erster Wandercluster.",
+            "hu": "Kezdje a napot itt. A központ az első gyalogos területe.",
+            "ro": "Începeți ziua aici. Centrul este primul dvs. grup de explorat pe jos.",
+            "en": "Start your day here. The center is your first walking cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Großer Marktplatz & Rathaus",
+            "hu": "Nagy Piactér és Városháza",
+            "ro": "Piața Mare și Primăria",
+            "en": "Great Market Square & Town Hall"
+          },
+          "coords": [
+            23.9845,
+            55.286
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:18",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Bushaltestelle zum Herzen der Stadt.",
+            "hu": "Rövid séta a buszmegállótól a város szívébe.",
+            "ro": "O scurtă plimbare de la stația de autobuz până în inima orașului.",
+            "en": "A short walk from the bus stop to the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Evangelisch-Reformierte Kirche",
+            "hu": "Evangélikus-Református templom",
+            "ro": "Biserica Reformată Evanghelică",
+            "en": "Evangelical Reformed Church"
+          },
+          "coords": [
+            23.974,
+            55.2872
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Setzen Sie Ihren Spaziergang durch die Altstadt fort.",
+            "hu": "Folytassa sétáját az óvárosban.",
+            "ro": "Continuați plimbarea prin centrul vechi.",
+            "en": "Continue your walk through the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Regionalmuseum Kėdainiai",
+            "hu": "Kėdainiai Regionális Múzeum",
+            "ro": "Muzeul Regional Kėdainiai",
+            "en": "Kėdainiai Regional Museum"
+          },
+          "coords": [
+            23.9785,
+            55.2868
+          ],
+          "category": "museums",
+          "arrive_at": "11:48",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Alles in diesem Cluster ist bequem zu Fuß erreichbar.",
+            "hu": "Ebben a csoportban minden kényelmesen elérhető gyalog.",
+            "ro": "Totul în acest grup este la o distanță de mers pe jos convenabilă.",
+            "en": "Everything in this cluster is within a convenient walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Minarett (via Bus)",
+            "hu": "Minaret (busszal)",
+            "ro": "Minaret (cu autobuzul)",
+            "en": "Minaret (via Bus)"
+          },
+          "coords": [
+            23.963,
+            55.291
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus zum zweiten Cluster, um das Minarett zu sehen.",
+            "hu": "Vegyen egy helyi buszt a második látnivaló-csoporthoz, a minarethez.",
+            "ro": "Luați un autobuz local către al doilea grup pentru a vedea minaretul.",
+            "en": "Take a local bus to the second cluster to see the minaret."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den öffentlichen Nahverkehr, um Kėdainiai entspannt zu erkunden. Steigen Sie an einer zentralen Haltestelle aus und erkunden Sie den ersten großen Cluster – die gesamte Altstadt – zu Fuß. Verbringen Sie den Vormittag und Mittag damit, zwischen dem Marktplatz, den Kirchen und Museen zu schlendern. Am Nachmittag nehmen Sie einen kurzen Bus, um zum zweiten, kleineren Cluster zu gelangen: dem einzigartigen Minarett. Dieser Ansatz kombiniert die Bequemlichkeit des Transports mit der Freude, das historische Zentrum in Ihrem eigenen Tempo zu entdecken.",
+        "hu": "Használja a tömegközlekedést Kėdainiai nyugodt felfedezéséhez. Szálljon le egy központi megállónál, és fedezze fel gyalog az első nagy látnivaló-csoportot – az egész óvárost. Töltse a délelőttöt és a déli időt a piactér, a templomok és a múzeumok közötti sétával. Délután szálljon fel egy rövid buszútra a második, kisebb csoporthoz: az egyedülálló minarethez. Ez a megközelítés ötvözi a közlekedés kényelmét a történelmi központ saját tempójában való felfedezésének örömével.",
+        "ro": "Folosiți transportul public pentru a explora Kėdainiai într-un mod relaxat. Coborâți la o stație centrală și explorați pe jos primul grup mare – întregul Centru Vechi. Petreceți dimineața și prânzul plimbându-vă între piață, biserici și muzee. După-amiaza, luați un autobuz pentru o călătorie scurtă către al doilea grup, mai mic: minaretul unic. Această abordare combină confortul transportului cu bucuria de a descoperi centrul istoric în propriul ritm.",
+        "en": "Use public transit to explore Kėdainiai in a relaxed way. Get off at a central stop and explore the first major cluster—the entire Old Town—on foot. Spend the morning and midday strolling between the market square, churches, and museums. In the afternoon, take a short bus ride to reach the second, smaller cluster: the unique minaret. This approach combines the convenience of transit with the joy of discovering the historic center at your own pace."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckereien in der Nähe von Bushaltestellen",
+            "tip": "Holen Sie sich ein schnelles Gebäck, während Sie auf Ihren Bus warten."
+          },
+          {
+            "name": "Lokale Cafés",
+            "tip": "Machen Sie eine Pause in einem der gemütlichen Cafés in der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékségek a buszmegállók közelében",
+            "tip": "Kapjon be egy gyors péksüteményt, amíg a buszra vár."
+          },
+          {
+            "name": "Helyi kávézók",
+            "tip": "Tartson szünetet az egyik hangulatos óvárosi kávézóban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Patiserii lângă stațiile de autobuz",
+            "tip": "Luați un produs de patiserie rapid în timp ce așteptați autobuzul."
+          },
+          {
+            "name": "Cafenele locale",
+            "tip": "Faceți o pauză la una dintre cafenelele primitoare din Centrul Vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakeries near bus stops",
+            "tip": "Grab a quick pastry while waiting for your bus."
+          },
+          {
+            "name": "Local Cafes",
+            "tip": "Take a break in one of the cozy cafes in the Old Town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hinterhöfe der Altstadt",
+            "tip": "Werfen Sie einen Blick in die ruhigen Hinterhöfe, die vom Haupttrubel entfernt sind.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az óváros hátsó udvarai",
+            "tip": "Pillantson be a csendes hátsó udvarokba, távol a fő nyüzsgéstől.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curțile interioare din Centrul Vechi",
+            "tip": "Aruncați o privire în curțile liniștite, departe de agitația principală.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Town Courtyards",
+            "tip": "Peek into the quiet courtyards away from the main bustle.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kleine Läden",
+            "tip": "Entdecken Sie unabhängige Geschäfte, während Sie zwischen den Sehenswürdigkeiten spazieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kis boltok",
+            "tip": "Fedezzen fel független üzleteket, miközben a látnivalók között sétál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mici magazine",
+            "tip": "Descoperiți magazine independente în timp ce vă plimbați între atracții."
+          }
+        ],
+        "en": [
+          {
+            "name": "Small Shops",
+            "tip": "Discover independent shops while you walk between sights."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus für die beste Preis-Leistung.",
+          "Informieren Sie sich über die Busfahrpläne, insbesondere für die letzte Rückfahrt.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind Teil eines einzigen, großen Wanderclusters.",
+          "Seien Sie bereit, zwischen den Hauptclustern zu warten."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra a legjobb ár-érték arány érdekében.",
+          "Tájékozódjon a buszmenetrendekről, különösen az utolsó visszajáratról.",
+          "A központ legtöbb látnivalója egyetlen, nagy gyalogos csoport része.",
+          "Készüljön fel a várakozásra a fő látnivaló-csoportok között."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru cel mai bun raport calitate-preț.",
+          "Verificați orarele autobuzelor, în special pentru ultima călătorie de întoarcere.",
+          "Majoritatea atracțiilor din centru fac parte dintr-un singur grup mare de mers pe jos.",
+          "Fiți pregătiți să așteptați între grupurile principale."
+        ],
+        "en": [
+          "Buy a day pass for the bus for the best value.",
+          "Check bus schedules in advance, especially for the last return trip.",
+          "Most sights in the center are part of a single, large walking cluster.",
+          "Be prepared for some waiting time between the main clusters."
+        ]
+      }
+    }
+  }
+}

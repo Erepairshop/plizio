@@ -1,0 +1,1460 @@
+{
+  "city_id": "belgium-waregem-cities-v2",
+  "anchor": {
+    "name": "Waregem",
+    "coords": [
+      50.8869,
+      3.4326
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Sint-Amanduskerk",
+            "hu": "Szent Amandus-templom",
+            "ro": "Biserica Sfântul Amandus",
+            "en": "Saint Amandus Church"
+          },
+          "coords": [
+            3.433,
+            50.886
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie die beeindruckenden Glasfenster, die biblische Geschichten darstellen.",
+            "hu": "Figyelje meg a lenyűgöző ólomüveg ablakokat, melyek bibliai történeteket ábrázolnak.",
+            "ro": "Observați vitraliile impresionante care înfățișează povești biblice.",
+            "en": "Note the impressive stained-glass windows depicting biblical stories."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadspark de Brink",
+            "hu": "De Brink városi park",
+            "ro": "Parcul Municipal De Brink",
+            "en": "City Park de Brink"
+          },
+          "coords": [
+            3.435,
+            50.888
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für eine kurze Pause auf einer der vielen Bänke.",
+            "hu": "Tökéletes hely egy rövid pihenőre a sok pad egyikén.",
+            "ro": "Un loc perfect pentru o scurtă pauză pe una dintre numeroasele bănci.",
+            "en": "A perfect spot for a short break on one of the many benches."
+          }
+        },
+        {
+          "name": {
+            "de": "CC De Schakel",
+            "hu": "De Schakel Kulturális Központ",
+            "ro": "Centrul Cultural De Schakel",
+            "en": "Cultural Center De Schakel"
+          },
+          "coords": [
+            3.43,
+            50.887
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:02",
+          "stay_min": 20,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie das Programm, vielleicht gibt es eine interessante Ausstellung oder Veranstaltung.",
+            "hu": "Nézze meg a programot, hátha van egy érdekes kiállítás vagy esemény.",
+            "ro": "Verificați programul, poate există o expoziție sau un eveniment interesant.",
+            "en": "Check the schedule, there might be an interesting exhibition or event."
+          }
+        },
+        {
+          "name": {
+            "de": "Be-Part, Plattform für zeitgenössische Kunst",
+            "hu": "Be-Part, Kortárs Művészeti Platform",
+            "ro": "Be-Part, Platformă pentru Artă Contemporană",
+            "en": "Be-Part, Platform for Contemporary Art"
+          },
+          "coords": [
+            3.428,
+            50.89
+          ],
+          "category": "museums",
+          "arrive_at": "11:38",
+          "stay_min": 90,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Werke lokaler belgischer Künstler.",
+            "hu": "Koncentráljon a helyi belga művészek alkotásaira.",
+            "ro": "Concentrați-vă pe lucrările artiștilor belgieni locali.",
+            "en": "Focus on the works by local Belgian artists."
+          }
+        },
+        {
+          "name": {
+            "de": "Park Baron Casier",
+            "hu": "Baron Casier Park",
+            "ro": "Parcul Baron Casier",
+            "en": "Park Baron Casier"
+          },
+          "coords": [
+            3.425,
+            50.892
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein idealer Ort für ein Mittagspicknick am Schlossweiher.",
+            "hu": "Ideális hely egy déli piknikhez a kastélytó mellett.",
+            "ro": "Un loc ideal pentru un prânz la picnic lângă iazul castelului.",
+            "en": "An ideal place for a lunch picnic by the castle pond."
+          }
+        },
+        {
+          "name": {
+            "de": "Hippodroom Waregem",
+            "hu": "Waregemi Lóversenypálya",
+            "ro": "Hipodromul din Waregem",
+            "en": "Waregem Racecourse"
+          },
+          "coords": [
+            3.418,
+            50.895
+          ],
+          "category": "landmark",
+          "arrive_at": "14:53",
+          "stay_min": 60,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Auch ohne Rennen ist die Architektur der Tribünen beeindruckend.",
+            "hu": "Még versenyek nélkül is lenyűgöző a lelátók építészete.",
+            "ro": "Chiar și fără curse, arhitectura tribunelor este impresionantă.",
+            "en": "Even without a race, the architecture of the stands is impressive."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Waregem bei der Sint-Amanduskerk. Der Vormittag führt Sie durch das grüne Stadspark de Brink und zum pulsierenden Kulturzentrum De Schakel. Nach dem Mittagessen tauchen Sie in die moderne Kunst bei Be-Part ein und entspannen anschließend im weitläufigen Park Baron Casier, genießen die Natur und die Ruhe. Am Nachmittag erkunden Sie das berühmte Hippodrom, das Wahrzeichen der Stadt. Beenden Sie den Tag mit einem gemütlichen Spaziergang entlang des Gaverbeek, bevor Sie in einem der lokalen Restaurants einkehren.",
+        "hu": "Kezdje a napot Waregem szívében, a Szent Amandus-templomnál. A délelőtt a zöld De Brink parkon és a nyüzsgő De Schakel kulturális központon keresztül vezet. Ebéd után merüljön el a modern művészetben a Be-Part platformon, majd pihenjen a tágas Baron Casier parkban, élvezve a természetet és a nyugalmat. Délután fedezze fel a híres Hippodromot, a város jelképét. Zárja a napot egy kellemes sétával a Gaverbeek mentén, mielőtt betérne egy helyi étterembe.",
+        "ro": "Începeți ziua în inima orașului Waregem la Biserica Sfântul Amandus. Dimineața vă poartă prin parcul verde De Brink și spre vibrantul centru cultural De Schakel. După prânz, scufundați-vă în arta modernă la Be-Part, apoi relaxați-vă în vastul Parc Baron Casier, bucurându-vă de natură și liniște. După-amiaza, explorați faimosul Hipodrom, emblema orașului. Încheiați ziua cu o plimbare plăcută de-a lungul pârâului Gaverbeek înainte de a vă opri la unul dintre restaurantele locale.",
+        "en": "Start your day in the heart of Waregem at Saint Amandus Church. The morning takes you through the green De Brink park and to the vibrant De Schakel cultural center. After lunch, immerse yourself in modern art at Be-Part, then relax in the spacious Baron Casier Park, enjoying nature and tranquility. In the afternoon, explore the famous Racecourse, the city's landmark. End the day with a pleasant stroll along the Gaverbeek stream before stopping at one of the local restaurants."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Stoofvlees (Flämischer Eintopf)",
+            "tip": "Probieren Sie ihn im 't Peerdeke, bekannt für traditionelle Gerichte."
+          },
+          {
+            "name": "Belgische Pommes",
+            "tip": "Die besten gibt es an einer 'Frietkot' (Frittenbude) im Zentrum."
+          },
+          {
+            "name": "Waregemse Koekjes",
+            "tip": "Lokale Kekse, perfekt zum Kaffee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stoofvlees (flamand pörkölt)",
+            "tip": "Kóstolja meg a 't Peerdeke-ben, amely a hagyományos ételeiről ismert."
+          },
+          {
+            "name": "Belga sültkrumpli",
+            "tip": "A legjobbat egy 'Frietkot'-ban (sültkrumplis bódé) kapja a központban."
+          },
+          {
+            "name": "Waregemse Koekjes",
+            "tip": "Helyi sütemény, tökéletes a kávéhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stoofvlees (tocană flamandă)",
+            "tip": "Încercați-o la 't Peerdeke, cunoscut pentru mâncărurile tradiționale."
+          },
+          {
+            "name": "Cartofi prăjiți belgieni",
+            "tip": "Cei mai buni se găsesc la un 'Frietkot' (chioșc de cartofi prăjiți) din centru."
+          },
+          {
+            "name": "Waregemse Koekjes",
+            "tip": "Biscuiți locali, perfecți cu o cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stoofvlees (Flemish Stew)",
+            "tip": "Try it at 't Peerdeke, known for traditional dishes."
+          },
+          {
+            "name": "Belgian Fries",
+            "tip": "Get the best ones from a 'Frietkot' (fry shack) in the center."
+          },
+          {
+            "name": "Waregemse Koekjes",
+            "tip": "Local cookies, perfect with coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Gaverbeek",
+            "tip": "Ein ruhiger Spaziergang abseits des städtischen Trubels.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Schlossteich im Park Baron Casier",
+            "tip": "Beobachten Sie die Enten und genießen Sie die Stille.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Alter Friedhof bei der Sint-Amanduskerk",
+            "tip": "Ein Ort der Besinnung und Geschichte.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Gaverbeek partja",
+            "tip": "Egy csendes séta távol a városi nyüzsgéstől.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kastélytó a Baron Casier Parkban",
+            "tip": "Nézze a kacsákat és élvezze a csendet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Régi temető a Szent Amandus-templomnál",
+            "tip": "Az elmélkedés és a történelem helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile pârâului Gaverbeek",
+            "tip": "O plimbare liniștită departe de agitația orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Iazul castelului din Parcul Baron Casier",
+            "tip": "Priviți rațele și bucurați-vă de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul vechi de lângă Biserica Sfântul Amandus",
+            "tip": "Un loc de reflecție și istorie.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Gaverbeek stream",
+            "tip": "A quiet walk away from the city hustle.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Castle pond in Park Baron Casier",
+            "tip": "Watch the ducks and enjoy the silence.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Old cemetery near Saint Amandus Church",
+            "tip": "A place of reflection and history.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Finden Sie lokale Produkte und Spezialitäten (prüfen Sie die Tage)."
+          },
+          {
+            "name": "Geschäfte in der Stormestraat",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus Boutiquen und bekannten Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Találjon helyi termékeket és különlegességeket (ellenőrizze a napokat)."
+          },
+          {
+            "name": "Boltok a Stormestraat-on",
+            "tip": "A fő bevásárlóutca butikok és ismert márkák keverékével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Găsiți produse locale și specialități (verificați zilele)."
+          },
+          {
+            "name": "Magazine pe Stormestraat",
+            "tip": "Strada principală de cumpărături cu un amestec de buticuri și mărci cunoscute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Find local produce and specialities (check for days)."
+          },
+          {
+            "name": "Shops on Stormestraat",
+            "tip": "The main shopping street with a mix of boutiques and known brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Eine wiederverwendbare Wasserflasche ist nützlich.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Planen Sie Zeit für eine Kaffeepause in einem der vielen Cafés ein."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "Egy újratölthető vizes palack hasznos.",
+          "A legtöbb központi látnivaló könnyen elérhető gyalog.",
+          "Tervezzen időt egy kávészünetre a számos kávézó egyikében."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe jos.",
+          "O sticlă de apă reutilizabilă este utilă.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Planificați timp pentru o pauză de cafea la una dintre multele cafenele."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking a lot.",
+          "A reusable water bottle is useful.",
+          "Most central sights are easily reachable on foot.",
+          "Plan time for a coffee break in one of the many cafes."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradverleih am Bahnhof",
+            "hu": "Kerékpárkölcsönző az állomásnál",
+            "ro": "Închiriere de biciclete la gară",
+            "en": "Bike rental at the station"
+          },
+          "coords": [
+            3.44,
+            50.885
+          ],
+          "category": "service",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Prüfen Sie die Reifen und Bremsen, bevor Sie losfahren.",
+            "hu": "Indulás előtt ellenőrizze a gumikat és a fékeket.",
+            "ro": "Verificați anvelopele și frânele înainte de a pleca.",
+            "en": "Check the tires and brakes before you set off."
+          }
+        },
+        {
+          "name": {
+            "de": "Flanders Field American Cemetery",
+            "hu": "Flanders Field Amerikai Katonai Temető",
+            "ro": "Cimitirul American Flanders Field",
+            "en": "Flanders Field American Cemetery"
+          },
+          "coords": [
+            3.46,
+            50.87
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:48",
+          "stay_min": 45,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein Ort der Stille und des Gedenkens. Bitte zeigen Sie Respekt.",
+            "hu": "A csend és az emlékezés helye. Kérjük, tanúsítson tiszteletet.",
+            "ro": "Un loc de tăcere și comemorare. Vă rugăm să arătați respect.",
+            "en": "A place of silence and remembrance. Please show respect."
+          }
+        },
+        {
+          "name": {
+            "de": "Hippodroom Waregem",
+            "hu": "Waregemi Lóversenypálya",
+            "ro": "Hipodromul din Waregem",
+            "en": "Waregem Racecourse"
+          },
+          "coords": [
+            3.418,
+            50.895
+          ],
+          "category": "landmark",
+          "arrive_at": "11:03",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, während Sie das Gelände erkunden.",
+            "hu": "Biztonságosan zárja le a kerékpárját, amíg felfedezi a területet.",
+            "ro": "Încuiați-vă bicicleta în siguranță în timp ce explorați terenul.",
+            "en": "Lock your bike securely while exploring the grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Park Baron Casier",
+            "hu": "Baron Casier Park",
+            "ro": "Parcul Baron Casier",
+            "en": "Park Baron Casier"
+          },
+          "coords": [
+            3.425,
+            50.892
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause. Es gibt viel Platz, um sich auszubreiten.",
+            "hu": "Tökéletes egy ebédszünethez. Bőven van hely letelepedni.",
+            "ro": "Perfect pentru o pauză de prânz. Există mult spațiu pentru a vă întinde.",
+            "en": "Perfect for a lunch break. There's plenty of space to spread out."
+          }
+        },
+        {
+          "name": {
+            "de": "Sint-Amanduskerk",
+            "hu": "Szent Amandus-templom",
+            "ro": "Biserica Sfântul Amandus",
+            "en": "Saint Amandus Church"
+          },
+          "coords": [
+            3.433,
+            50.886
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur, bevor Sie eintreten.",
+            "hu": "Csodálja meg az építészetet, mielőtt belép.",
+            "ro": "Admirați arhitectura înainte de a intra.",
+            "en": "Admire the architecture before you enter."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadspark de Brink",
+            "hu": "De Brink városi park",
+            "ro": "Parcul Municipal De Brink",
+            "en": "City Park de Brink"
+          },
+          "coords": [
+            3.435,
+            50.888
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:22",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine kurze Radtour durch diesen Park ist sehr erfrischend.",
+            "hu": "Egy rövid biciklitúra ezen a parkon keresztül nagyon frissítő.",
+            "ro": "O scurtă plimbare cu bicicleta prin acest parc este foarte revigorantă.",
+            "en": "A short bike ride through this park is very refreshing."
+          }
+        },
+        {
+          "name": {
+            "de": "Entlang des Gaverbeek",
+            "hu": "A Gaverbeek mentén",
+            "ro": "De-a lungul pârâului Gaverbeek",
+            "en": "Along the Gaverbeek"
+          },
+          "coords": [
+            3.41,
+            50.89
+          ],
+          "category": "natural features",
+          "arrive_at": "15:22",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Folgen Sie dem Radweg und genießen Sie die ländliche Landschaft.",
+            "hu": "Kövesse a kerékpárutat és élvezze a vidéki tájat.",
+            "ro": "Urmați pista de biciclete și bucurați-vă de peisajul rural.",
+            "en": "Follow the bike path and enjoy the rural scenery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schnappen Sie sich Ihr Fahrrad und starten Sie den Tag mit einem besinnlichen Besuch des Flanders Field American Cemetery. Der Vormittag steht ganz im Zeichen des Pferdesports am berühmten Hippodrom. Nach einer entspannten Mittagspause im Park Baron Casier radeln Sie ins Stadtzentrum, um die Sint-Amanduskerk zu bewundern. Am Nachmittag führt Sie Ihre Tour durch den Stadspark de Brink und endet mit einer idyllischen Fahrt entlang des Gaverbeek, wo Sie die flämische Landschaft in vollen Zügen genießen können.",
+        "hu": "Kapja fel a biciklit, és kezdje a napot egy elgondolkodtató látogatással a Flanders Field Amerikai Katonai Temetőben. A délelőtt a lovassport jegyében telik a híres Hippodromnál. Egy pihentető ebédszünet után a Baron Casier Parkban tekerjen be a városközpontba, hogy megcsodálja a Szent Amandus-templomot. Délután a túra a De Brink parkon keresztül vezet, és egy idilli biciklizéssel zárul a Gaverbeek mentén, ahol teljes mértékben élvezheti a flamand tájat.",
+        "ro": "Luați-vă bicicleta și începeți ziua cu o vizită contemplativă la Cimitirul American Flanders Field. Dimineața este dedicată sporturilor ecvestre la faimosul Hipodrom. După o pauză de prânz relaxantă în Parcul Baron Casier, pedalați spre centrul orașului pentru a admira Biserica Sfântul Amandus. După-amiaza, turul vă duce prin Parcul De Brink și se încheie cu o plimbare idilică de-a lungul pârâului Gaverbeek, unde vă puteți bucura pe deplin de peisajul flamand.",
+        "en": "Grab your bike and start the day with a contemplative visit to Flanders Field American Cemetery. The morning is all about equestrian sports at the famous Racecourse. After a relaxing lunch break in Baron Casier Park, cycle to the city center to admire Saint Amandus Church. In the afternoon, your tour takes you through De Brink Park and ends with an idyllic ride along the Gaverbeek, where you can fully enjoy the Flemish landscape."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Waterzooi",
+            "tip": "Ein cremiger Eintopf mit Huhn oder Fisch, perfekt nach einer langen Radtour."
+          },
+          {
+            "name": "Belgisches Bier",
+            "tip": "Besuchen Sie eine lokale Brauerei oder eine Bar mit einer großen Auswahl."
+          },
+          {
+            "name": "Mattentaart",
+            "tip": "Ein süßes Gebäck aus der Region, das Energie für die Weiterfahrt gibt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Waterzooi",
+            "tip": "Krémes egytálétel csirkével vagy hallal, tökéletes egy hosszú biciklitúra után."
+          },
+          {
+            "name": "Belga sör",
+            "tip": "Látogasson el egy helyi sörfőzdébe vagy egy bárba, ahol nagy a választék."
+          },
+          {
+            "name": "Mattentaart",
+            "tip": "Édes sütemény a régióból, amely energiát ad a további úthoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Waterzooi",
+            "tip": "O tocană cremoasă cu pui sau pește, perfectă după o plimbare lungă cu bicicleta."
+          },
+          {
+            "name": "Berea belgiană",
+            "tip": "Vizitați o berărie locală sau un bar cu o selecție largă."
+          },
+          {
+            "name": "Mattentaart",
+            "tip": "O prăjitură dulce din regiune, care vă dă energie pentru a continua drumul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Waterzooi",
+            "tip": "A creamy stew with chicken or fish, perfect after a long bike ride."
+          },
+          {
+            "name": "Belgian Beer",
+            "tip": "Visit a local brewery or a bar with a wide selection."
+          },
+          {
+            "name": "Mattentaart",
+            "tip": "A sweet pastry from the region that provides energy for the ride ahead."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Gaverbeek",
+            "tip": "Hier hören Sie nur das Rauschen des Wassers und das Zwitschern der Vögel.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Flanders Field American Cemetery",
+            "tip": "Ein Ort der absoluten Stille und des Nachdenkens.",
+            "emoji": "🕊️"
+          },
+          {
+            "name": "Versteckte Ecken im Park Baron Casier",
+            "tip": "Suchen Sie sich einen abgelegenen Platz für eine ungestörte Pause.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Gaverbeek mentén",
+            "tip": "Itt csak a víz csobogását és a madarak csiripelését hallja.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Flanders Field Amerikai Katonai Temető",
+            "tip": "Az abszolút csend és elmélkedés helye.",
+            "emoji": "🕊️"
+          },
+          {
+            "name": "Rejtett zugok a Baron Casier Parkban",
+            "tip": "Keressen egy félreeső helyet egy zavartalan pihenőhöz.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul Gaverbeek",
+            "tip": "Aici veți auzi doar susurul apei și ciripitul păsărilor.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Cimitirul American Flanders Field",
+            "tip": "Un loc de liniște absolută și reflecție.",
+            "emoji": "🕊️"
+          },
+          {
+            "name": "Colțuri ascunse în Parcul Baron Casier",
+            "tip": "Găsiți un loc retras pentru o pauză netulburată.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike path along the Gaverbeek",
+            "tip": "Here you'll only hear the sound of the water and the chirping of birds.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Flanders Field American Cemetery",
+            "tip": "A place of absolute silence and reflection.",
+            "emoji": "🕊️"
+          },
+          {
+            "name": "Hidden corners in Park Baron Casier",
+            "tip": "Find a secluded spot for an undisturbed break.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Vielleicht finden Sie ein einzigartiges Accessoire für Ihr Fahrrad."
+          },
+          {
+            "name": "Hofläden in der Umgebung",
+            "tip": "Halten Sie Ausschau nach Schildern, die frische, lokale Produkte verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Talán talál egy egyedi kiegészítőt a kerékpárjához."
+          },
+          {
+            "name": "Tanyasi boltok a környéken",
+            "tip": "Figyelje a táblákat, amelyek friss, helyi termékeket árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Poate găsiți un accesoriu unic pentru bicicleta dumneavoastră."
+          },
+          {
+            "name": "Magazine de fermă în zonă",
+            "tip": "Fiți atenți la indicatoarele care vând produse proaspete, locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bicycle shops",
+            "tip": "You might find a unique accessory for your bike."
+          },
+          {
+            "name": "Farm shops in the area",
+            "tip": "Look out for signs selling fresh, local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Waregem ist relativ flach und ideal zum Radfahren.",
+          "Nutzen Sie die gut ausgebauten Radwege.",
+          "Ein Helm wird empfohlen.",
+          "Planen Sie Ihre Route im Voraus, aber seien Sie offen für spontane Abstecher."
+        ],
+        "hu": [
+          "Waregem viszonylag sík és ideális a kerékpározáshoz.",
+          "Használja a jól kiépített kerékpárutakat.",
+          "Sisak viselése ajánlott.",
+          "Tervezze meg előre az útvonalat, de legyen nyitott a spontán kitérőkre."
+        ],
+        "ro": [
+          "Waregem este relativ plat și ideal pentru ciclism.",
+          "Folosiți pistele de biciclete bine dezvoltate.",
+          "Se recomandă purtarea căștii.",
+          "Planificați-vă traseul în avans, dar fiți deschis la ocoluri spontane."
+        ],
+        "en": [
+          "Waregem is relatively flat and ideal for cycling.",
+          "Use the well-developed bike paths.",
+          "A helmet is recommended.",
+          "Plan your route in advance, but be open to spontaneous detours."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Flanders Field American Cemetery",
+            "hu": "Parkoló a Flanders Field Amerikai Katonai Temetőnél",
+            "ro": "Parcare la Cimitirul American Flanders Field",
+            "en": "Parking at Flanders Field American Cemetery"
+          },
+          "coords": [
+            3.46,
+            50.87
+          ],
+          "category": "service",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier, um Ihren ersten Cluster zu erkunden.",
+            "hu": "Parkoljon itt az első látnivalócsoport felfedezéséhez.",
+            "ro": "Parcați aici pentru a explora primul grup de atracții.",
+            "en": "Park here to explore your first cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Flanders Field American Cemetery",
+            "hu": "Flanders Field Amerikai Katonai Temető",
+            "ro": "Cimitirul American Flanders Field",
+            "en": "Flanders Field American Cemetery"
+          },
+          "coords": [
+            3.459,
+            50.871
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:22",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, um die Inschriften zu lesen und die Atmosphäre auf sich wirken zu lassen.",
+            "hu": "Szánjon időt a feliratok olvasására és a légkör átérzésére.",
+            "ro": "Acordați-vă timp pentru a citi inscripțiile și a absorbi atmosfera.",
+            "en": "Take time to read the inscriptions and soak in the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz am Hippodroom",
+            "hu": "Parkoló a Hippodromnál",
+            "ro": "Parcare la Hipodrom",
+            "en": "Parking at the Racecourse"
+          },
+          "coords": [
+            3.419,
+            50.894
+          ],
+          "category": "service",
+          "arrive_at": "10:40",
+          "stay_min": 5,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Der nächste Cluster beginnt hier. Es gibt normalerweise genügend Parkplätze.",
+            "hu": "A következő látnivalócsoport itt kezdődik. Általában van elég parkolóhely.",
+            "ro": "Următorul grup de atracții începe aici. De obicei, există suficient spațiu de parcare.",
+            "en": "The next cluster starts here. There's usually ample parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Hippodroom Waregem",
+            "hu": "Waregemi Lóversenypálya",
+            "ro": "Hipodromul din Waregem",
+            "en": "Waregem Racecourse"
+          },
+          "coords": [
+            3.418,
+            50.895
+          ],
+          "category": "landmark",
+          "arrive_at": "10:48",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Versuchen Sie, einen Blick hinter die Kulissen zu werfen, wenn möglich.",
+            "hu": "Ha lehetséges, próbáljon meg bepillantani a kulisszák mögé.",
+            "ro": "Încercați să aruncați o privire în culise, dacă este posibil.",
+            "en": "Try to get a behind-the-scenes look if possible."
+          }
+        },
+        {
+          "name": {
+            "de": "Park Baron Casier",
+            "hu": "Baron Casier Park",
+            "ro": "Parcul Baron Casier",
+            "en": "Park Baron Casier"
+          },
+          "coords": [
+            3.425,
+            50.892
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:06",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie ein ausgiebiges Mittagessen in diesem wunderschönen Park.",
+            "hu": "Fogyasszon el egy kiadós ebédet ebben a gyönyörű parkban.",
+            "ro": "Bucurați-vă de un prânz copios în acest parc frumos.",
+            "en": "Enjoy a hearty lunch in this beautiful park."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz im Stadtzentrum",
+            "hu": "Parkoló a városközpontban",
+            "ro": "Parcare în centrul orașului",
+            "en": "Parking in the City Center"
+          },
+          "coords": [
+            3.434,
+            50.887
+          ],
+          "category": "service",
+          "arrive_at": "14:15",
+          "stay_min": 150,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto hier für den Rest des Tages stehen und erkunden Sie den Rest zu Fuß.",
+            "hu": "Hagyja itt az autót a nap hátralévő részére, és fedezze fel a többit gyalog.",
+            "ro": "Lăsați mașina aici pentru restul zilei și explorați restul pe jos.",
+            "en": "Leave the car here for the rest of the day and explore the rest on foot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt mit einem Moment der Besinnung am Flanders Field American Cemetery. Nach diesem ersten Stopp fahren Sie zum nächsten Cluster: dem berühmten Hippodrom von Waregem. Verbringen Sie den späten Vormittag damit, dieses Wahrzeichen und den angrenzenden Park Baron Casier zu erkunden, wo Sie auch zu Mittag essen können. Am Nachmittag parken Sie im Stadtzentrum und entdecken den letzten Cluster zu Fuß: Schlendern Sie von der Sint-Amanduskerk durch den Stadspark de Brink und werfen Sie einen Blick auf die moderne Kunst bei Be-Part, bevor der Tag ausklingt.",
+        "hu": "Autós napja egy pillanatnyi elmélkedéssel kezdődik a Flanders Field Amerikai Katonai Temetőnél. Az első megálló után vezessen a következő csoporthoz: Waregem híres Hippodromjához. Töltse a késő délelőttöt ennek a nevezetességnek és a szomszédos Baron Casier Parknak a felfedezésével, ahol ebédelhet is. Délután parkoljon le a városközpontban, és fedezze fel az utolsó csoportot gyalog: sétáljon el a Szent Amandus-templomtól a De Brink parkon keresztül, és vessen egy pillantást a modern művészetre a Be-Part-nál, mielőtt a nap véget ér.",
+        "ro": "Ziua cu mașina începe cu un moment de reflecție la Cimitirul American Flanders Field. După această primă oprire, conduceți spre următorul grup: faimosul Hipodrom din Waregem. Petreceți sfârșitul dimineții explorând acest punct de reper și Parcul Baron Casier adiacent, unde puteți lua și prânzul. După-amiaza, parcați în centrul orașului și descoperiți ultimul grup pe jos: plimbați-vă de la Biserica Sfântul Amandus prin Parcul De Brink și aruncați o privire la arta modernă de la Be-Part înainte ca ziua să se încheie.",
+        "en": "Your car day begins with a moment of reflection at Flanders Field American Cemetery. After this first stop, drive to the next cluster: the famous Waregem Racecourse. Spend the late morning exploring this landmark and the adjacent Baron Casier Park, where you can also have lunch. In the afternoon, park in the city center and discover the last cluster on foot: stroll from Saint Amandus Church through De Brink Park and take a look at the modern art at Be-Part before the day ends."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Garnalenkroketten (Garnelenkroketten)",
+            "tip": "Eine belgische Delikatesse, die man probiert haben muss."
+          },
+          {
+            "name": "Dame Blanche",
+            "tip": "Ein klassisches belgisches Dessert mit Vanilleeis und heißer Schokoladensauce."
+          },
+          {
+            "name": "Lokales Craft-Bier",
+            "tip": "Fragen Sie nach dem 'Bier des Hauses' in einem Pub."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Garnalenkroketten (garnélarák krokett)",
+            "tip": "Belga finomság, amit meg kell kóstolni."
+          },
+          {
+            "name": "Dame Blanche",
+            "tip": "Klasszikus belga desszert vaníliafagylalttal és forró csokoládészósszal."
+          },
+          {
+            "name": "Helyi kézműves sör",
+            "tip": "Kérje a 'ház sörét' egy kocsmában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Garnalenkroketten (crochete de creveți)",
+            "tip": "O delicatesă belgiană care trebuie încercată."
+          },
+          {
+            "name": "Dame Blanche",
+            "tip": "Un desert belgian clasic cu înghețată de vanilie și sos de ciocolată caldă."
+          },
+          {
+            "name": "Berea artizanală locală",
+            "tip": "Întrebați de 'berea casei' într-un pub."
+          }
+        ],
+        "en": [
+          {
+            "name": "Garnalenkroketten (Shrimp croquettes)",
+            "tip": "A Belgian delicacy that you must try."
+          },
+          {
+            "name": "Dame Blanche",
+            "tip": "A classic Belgian dessert with vanilla ice cream and hot chocolate sauce."
+          },
+          {
+            "name": "Local Craft Beer",
+            "tip": "Ask for the 'beer of the house' in a pub."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Flanders Field American Cemetery",
+            "tip": "Ein Ort der tiefen Ruhe und des Respekts.",
+            "emoji": "🕊️"
+          },
+          {
+            "name": "Am Ufer des Gaverbeek",
+            "tip": "Ein kurzer Abstecher mit dem Auto kann Sie zu ruhigen Abschnitten führen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Früher Morgen im Park Baron Casier",
+            "tip": "Besuchen Sie den Park, bevor die Menschenmassen eintreffen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Flanders Field Amerikai Katonai Temető",
+            "tip": "A mély béke és tisztelet helye.",
+            "emoji": "🕊️"
+          },
+          {
+            "name": "A Gaverbeek partján",
+            "tip": "Egy rövid autós kitérő csendes szakaszokhoz vezethet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kora reggel a Baron Casier Parkban",
+            "tip": "Látogassa meg a parkot, mielőtt a tömeg megérkezik.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul American Flanders Field",
+            "tip": "Un loc de pace profundă și respect.",
+            "emoji": "🕊️"
+          },
+          {
+            "name": "Pe malurile Gaverbeek",
+            "tip": "Un scurt ocol cu mașina vă poate duce la secțiuni liniștite.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dimineața devreme în Parcul Baron Casier",
+            "tip": "Vizitați parcul înainte de sosirea mulțimilor.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Flanders Field American Cemetery",
+            "tip": "A place of deep peace and respect.",
+            "emoji": "🕊️"
+          },
+          {
+            "name": "On the banks of the Gaverbeek",
+            "tip": "A short car detour can take you to quiet sections.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Early morning in Baron Casier Park",
+            "tip": "Visit the park before the crowds arrive.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Antiquitätenläden",
+            "tip": "Halten Sie in den Seitenstraßen Ausschau nach versteckten Schätzen."
+          },
+          {
+            "name": "Schokoladengeschäfte",
+            "tip": "Kaufen Sie authentische belgische Schokolade als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Antikváriumok",
+            "tip": "Keressen rejtett kincseket a mellékutcákban."
+          },
+          {
+            "name": "Csokoládéboltok",
+            "tip": "Vásároljon autentikus belga csokoládét szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de antichități",
+            "tip": "Căutați comori ascunse pe străzile lăturalnice."
+          },
+          {
+            "name": "Magazine de ciocolată",
+            "tip": "Cumpărați ciocolată belgiană autentică ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Antique shops",
+            "tip": "Look for hidden treasures in the side streets."
+          },
+          {
+            "name": "Chocolate shops",
+            "tip": "Buy authentic Belgian chocolate as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Cluster-Walking-Methode, um Parkgebühren zu sparen.",
+          "Ein GPS ist unerlässlich.",
+          "Achten Sie auf Parkzonen und -beschränkungen.",
+          "Planen Sie Pufferzeiten für den Verkehr ein, besonders zu Stoßzeiten."
+        ],
+        "hu": [
+          "Használja a 'cluster walking' módszert a parkolási díjak megtakarítására.",
+          "GPS elengedhetetlen.",
+          "Figyeljen a parkolási zónákra és korlátozásokra.",
+          "Tervezzen pufferidőt a forgalomra, különösen csúcsidőben."
+        ],
+        "ro": [
+          "Folosiți metoda 'cluster walking' pentru a economisi la taxele de parcare.",
+          "Un GPS este esențial.",
+          "Fiți atenți la zonele și restricțiile de parcare.",
+          "Planificați timp tampon pentru trafic, mai ales la orele de vârf."
+        ],
+        "en": [
+          "Use the cluster-walking method to save on parking fees.",
+          "A GPS is essential.",
+          "Pay attention to parking zones and restrictions.",
+          "Plan buffer time for traffic, especially during peak hours."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 8.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Busbahnhof",
+            "hu": "Központi buszpályaudvar",
+            "ro": "Autogara Centrală",
+            "en": "Central Bus Station"
+          },
+          "coords": [
+            3.435,
+            50.885
+          ],
+          "category": "service",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+            "hu": "Vásároljon napijegyet a korlátlan utazáshoz.",
+            "ro": "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+            "en": "Buy a day pass for unlimited travel."
+          }
+        },
+        {
+          "name": {
+            "de": "Sint-Amanduskerk",
+            "hu": "Szent Amandus-templom",
+            "ro": "Biserica Sfântul Amandus",
+            "en": "Saint Amandus Church"
+          },
+          "coords": [
+            3.433,
+            50.886
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der erste Halt liegt direkt im Zentrum, nur wenige Schritte von der Haltestelle entfernt.",
+            "hu": "Az első megálló közvetlenül a központban van, csak pár lépésre a megállótól.",
+            "ro": "Prima oprire este chiar în centru, la câțiva pași de stație.",
+            "en": "The first stop is right in the center, just a few steps from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Be-Part, Plattform für zeitgenössische Kunst",
+            "hu": "Be-Part, Kortárs Művészeti Platform",
+            "ro": "Be-Part, Platformă pentru Artă Contemporană",
+            "en": "Be-Part, Platform for Contemporary Art"
+          },
+          "coords": [
+            3.428,
+            50.89
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Stadtzentrum aus.",
+            "hu": "Egy rövid séta a városközpontból.",
+            "ro": "O scurtă plimbare din centrul orașului.",
+            "en": "A short walk from the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle am Park Baron Casier",
+            "hu": "Megálló a Baron Casier Parknál",
+            "ro": "Stația de la Parcul Baron Casier",
+            "en": "Bus stop at Park Baron Casier"
+          },
+          "coords": [
+            3.424,
+            50.893
+          ],
+          "category": "service",
+          "arrive_at": "12:00",
+          "stay_min": 5,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Von hier aus beginnt Ihr nächster Spaziergang.",
+            "hu": "Innen indul a következő séta.",
+            "ro": "De aici începe următoarea plimbare.",
+            "en": "Your next walk starts from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Park Baron Casier",
+            "hu": "Baron Casier Park",
+            "ro": "Parcul Baron Casier",
+            "en": "Park Baron Casier"
+          },
+          "coords": [
+            3.425,
+            50.892
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:08",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für eine Mittagspause, bevor es weitergeht.",
+            "hu": "Nagyszerű hely egy ebédszünetre, mielőtt továbbmenne.",
+            "ro": "Un loc minunat pentru o pauză de prânz înainte de a continua.",
+            "en": "A great place for a lunch break before moving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Hippodroom Waregem",
+            "hu": "Waregemi Lóversenypálya",
+            "ro": "Hipodromul din Waregem",
+            "en": "Waregem Racecourse"
+          },
+          "coords": [
+            3.418,
+            50.895
+          ],
+          "category": "landmark",
+          "arrive_at": "14:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der letzte große Halt des Tages, ein Muss in Waregem.",
+            "hu": "A nap utolsó nagy megállója, kötelező látnivaló Waregemben.",
+            "ro": "Ultima oprire majoră a zilei, o necesitate în Waregem.",
+            "en": "The last major stop of the day, a must-see in Waregem."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt im Herzen der Stadt bei der Sint-Amanduskerk. Nach einem Spaziergang zur Kunstplattform Be-Part nehmen Sie den Bus zum nächsten Cluster. Verbringen Sie die Mittagszeit im ruhigen Park Baron Casier, genießen Sie die Atmosphäre und ein Picknick. Am Nachmittag bringt Sie ein weiterer Bus zum legendären Hippodrom, wo Sie in die Welt des Pferderennsports eintauchen. Den Abschluss bildet eine entspannte Rückfahrt ins Zentrum, wo Sie den Abend ausklingen lassen können.",
+        "hu": "A tömegközlekedéssel töltött nap a város szívében, a Szent Amandus-templomnál kezdődik. Miután elsétált a Be-Part művészeti platformhoz, busszal utazik a következő látnivalócsoporthoz. Töltse az ebédet a csendes Baron Casier Parkban, élvezze a hangulatot és egy pikniket. Délután egy másik busz viszi a legendás Hippodromhoz, ahol elmerülhet a lóversenyzés világában. A napot egy pihentető buszút zárja vissza a központba, ahol levezetheti az estét.",
+        "ro": "Ziua dvs. cu transportul public începe în inima orașului, la Biserica Sfântul Amandus. După o plimbare până la platforma de artă Be-Part, luați autobuzul spre următorul grup de atracții. Petreceți prânzul în liniștitul Parc Baron Casier, bucurându-vă de atmosferă și de un picnic. După-amiaza, un alt autobuz vă duce la legendarul Hipodrom, unde vă puteți cufunda în lumea curselor de cai. Ziua se încheie cu o călătorie relaxantă cu autobuzul înapoi în centru, unde vă puteți încheia seara.",
+        "en": "Your day with public transport begins in the heart of the city at Saint Amandus Church. After a walk to the Be-Part art platform, you take the bus to the next cluster. Spend lunchtime in the quiet Baron Casier Park, enjoying the atmosphere and a picnic. In the afternoon, another bus takes you to the legendary Racecourse, where you can immerse yourself in the world of horse racing. The day concludes with a relaxing bus ride back to the center, where you can wind down the evening."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Waffeln (Gaufres)",
+            "tip": "Probieren Sie eine Brüsseler oder Lütticher Waffel an einem Straßenstand."
+          },
+          {
+            "name": "Moules-frites (Miesmuscheln mit Pommes)",
+            "tip": "Ein klassisches belgisches Gericht, besonders gut in den kühleren Monaten."
+          },
+          {
+            "name": "Pralinen",
+            "tip": "Besuchen Sie einen Chocolatier für eine Kostprobe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gofri (Gaufres)",
+            "tip": "Kóstoljon meg egy brüsszeli vagy liège-i gofrit egy utcai árustól."
+          },
+          {
+            "name": "Moules-frites (fekete kagyló sültkrumplival)",
+            "tip": "Klasszikus belga étel, különösen jó a hűvösebb hónapokban."
+          },
+          {
+            "name": "Pralinék",
+            "tip": "Látogasson el egy csokoládékészítőhöz egy kóstolóra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gofre (Gaufres)",
+            "tip": "Încercați o gofră de Bruxelles sau de Liège de la o tarabă stradală."
+          },
+          {
+            "name": "Moules-frites (scoici cu cartofi prăjiți)",
+            "tip": "Un fel de mâncare belgian clasic, deosebit de bun în lunile mai reci."
+          },
+          {
+            "name": "Praline",
+            "tip": "Vizitați un ciocolatier pentru o degustare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Waffles (Gaufres)",
+            "tip": "Try a Brussels or Liège waffle from a street vendor."
+          },
+          {
+            "name": "Moules-frites (Mussels with fries)",
+            "tip": "A classic Belgian dish, especially good in the cooler months."
+          },
+          {
+            "name": "Pralines",
+            "tip": "Visit a chocolatier for a tasting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Bank im Stadspark de Brink",
+            "tip": "Beobachten Sie das Treiben aus der Ferne.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Die oberen Ränge des Hippodroms (außerhalb der Rennzeiten)",
+            "tip": "Ein weiter Blick über die Anlage.",
+            "emoji": "🏇"
+          },
+          {
+            "name": "Spaziergang am Gaverbeek",
+            "tip": "Viele Buslinien kreuzen den Bach und bieten einen leichten Zugang.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy pad a De Brink városi parkban",
+            "tip": "Nézze a nyüzsgést távolról.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "A Hippodrom felső sorai (versenyidőn kívül)",
+            "tip": "Széles kilátás a létesítményre.",
+            "emoji": "🏇"
+          },
+          {
+            "name": "Séta a Gaverbeek mentén",
+            "tip": "Sok buszjárat keresztezi a patakot, könnyű hozzáférést biztosítva.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă în Parcul Municipal De Brink",
+            "tip": "Priviți agitația de la distanță.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Rândurile superioare ale Hipodromului (în afara orelor de cursă)",
+            "tip": "O priveliște largă asupra complexului.",
+            "emoji": "🏇"
+          },
+          {
+            "name": "Plimbare pe malul Gaverbeek",
+            "tip": "Multe linii de autobuz traversează pârâul, oferind acces ușor.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench in City Park de Brink",
+            "tip": "Watch the hustle and bustle from a distance.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "The upper tiers of the Racecourse (outside race times)",
+            "tip": "A wide view over the facility.",
+            "emoji": "🏇"
+          },
+          {
+            "name": "Walk along the Gaverbeek",
+            "tip": "Many bus routes cross the stream, offering easy access.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs am Hippodroom",
+            "tip": "Finden Sie Andenken rund um das Thema Pferderennen."
+          },
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Probieren Sie das 'Pain Quotidien' (tägliches Brot) und andere Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvenírek a Hippodromnál",
+            "tip": "Találjon a lóversenyzés témájához kapcsolódó emléktárgyakat."
+          },
+          {
+            "name": "Helyi pékségek",
+            "tip": "Kóstolja meg a 'Pain Quotidien'-t (napi kenyér) és más különlegességeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri la Hipodrom",
+            "tip": "Găsiți amintiri legate de cursele de cai."
+          },
+          {
+            "name": "Brutării locale",
+            "tip": "Încercați 'Pain Quotidien' (pâinea zilnică) și alte specialități."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenirs at the Racecourse",
+            "tip": "Find memorabilia related to horse racing."
+          },
+          {
+            "name": "Local bakeries",
+            "tip": "Try the 'Pain Quotidien' (daily bread) and other specialities."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus online.",
+          "Haben Sie etwas Kleingeld für Tickets dabei, falls Sie nicht im Voraus kaufen.",
+          "Achten Sie auf die Ansagen der Haltestellen.",
+          "Seien Sie an den Haltestellen pünktlich, die Busse können es auch sein."
+        ],
+        "hu": [
+          "Ellenőrizze előre online a buszmenetrendet.",
+          "Legyen nálad aprópénz a jegyekhez, ha nem vásárol előre.",
+          "Figyeljen a megállók bemondására.",
+          "Legyen pontos a megállókban, a buszok is azok lehetnek."
+        ],
+        "ro": [
+          "Verificați online programul autobuzelor în avans.",
+          "Aveți la dumneavoastră mărunțiș pentru bilete în caz că nu cumpărați în avans.",
+          "Fiți atenți la anunțurile stațiilor.",
+          "Fiți punctuali la stații, autobuzele pot fi și ele."
+        ],
+        "en": [
+          "Check the bus schedule online in advance.",
+          "Have some small change for tickets if you don't buy in advance.",
+          "Pay attention to the stop announcements.",
+          "Be on time at the bus stops, the buses can be too."
+        ]
+      }
+    }
+  }
+}

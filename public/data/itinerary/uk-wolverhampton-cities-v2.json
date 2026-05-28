@@ -1,0 +1,1276 @@
+{
+  "city_id": "uk-wolverhampton-cities-v2",
+  "anchor": {
+    "name": "Wolverhampton",
+    "coords": [
+      -2.1288,
+      52.5862
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "St. Peter's Collegiate Church",
+            "hu": "Szent Péter templom",
+            "ro": "Biserica Colegială Sf. Petru",
+            "en": "St Peter's Collegiate Church"
+          },
+          "coords": [
+            -2.1265,
+            52.5865
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die angelsächsische Säule aus dem 8. Jahrhundert.",
+            "hu": "Keresse meg a 8. századi angolszász oszlopot!",
+            "ro": "Căutați stâlpul anglo-saxon din secolul al VIII-lea.",
+            "en": "Look for the 8th-century Anglo-Saxon pillar inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Statue von Prinz Albert",
+            "hu": "Albert herceg szobra",
+            "ro": "Statuia Prințului Albert",
+            "en": "Prince Albert Statue"
+          },
+          "coords": [
+            -2.1278,
+            52.5855
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:55",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Reiterstandbild, das von Königin Victoria enthüllt wurde.",
+            "hu": "Viktória királynő avatta fel ezt a lovas szobrot.",
+            "ro": "O statuie ecvestră dezvelită chiar de Regina Victoria.",
+            "en": "An equestrian statue unveiled by Queen Victoria herself."
+          }
+        },
+        {
+          "name": {
+            "de": "Wolverhampton Kunstgalerie",
+            "hu": "Wolverhamptoni Művészeti Galéria",
+            "ro": "Galeria de Artă Wolverhampton",
+            "en": "Wolverhampton Art Gallery"
+          },
+          "coords": [
+            -2.129,
+            52.5842
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die größte Pop-Art-Sammlung außerhalb Londons.",
+            "hu": "Londonon kívül itt található a legnagyobb Pop Art gyűjtemény.",
+            "ro": "Găzduiește cea mai mare colecție de Pop Art din afara Londrei.",
+            "en": "Features the largest collection of Pop Art outside of London."
+          }
+        },
+        {
+          "name": {
+            "de": "Grand Theatre",
+            "hu": "Grand Theatre színház",
+            "ro": "Marele Teatru (Grand Theatre)",
+            "en": "Grand Theatre"
+          },
+          "coords": [
+            -2.1245,
+            52.5885
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Buchen Sie eine Tour hinter die Kulissen, um die viktorianische Bühnenmaschinerie zu sehen.",
+            "hu": "Foglaljon kulisszák mögötti túrát a viktoriánus színpadi gépezet megtekintéséhez.",
+            "ro": "Rezervați un tur în culise pentru a vedea mașinăriile de scenă victoriene.",
+            "en": "Book a backstage tour to see the Victorian stage machinery."
+          }
+        },
+        {
+          "name": {
+            "de": "Molineux Stadion",
+            "hu": "Molineux Stadion",
+            "ro": "Stadionul Molineux",
+            "en": "Molineux Stadium"
+          },
+          "coords": [
+            -2.1305,
+            52.5902
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besuchen Sie den Megastore für offizielle Fanartikel der Wolves.",
+            "hu": "Látogasson el a Megastore-ba a hivatalos Wolves-ajándéktárgyakért.",
+            "ro": "Vizitați Megastore-ul pentru produse oficiale ale echipei Wolves.",
+            "en": "Visit the Megastore for official Wolves football merchandise."
+          }
+        },
+        {
+          "name": {
+            "de": "West Park",
+            "hu": "West Park",
+            "ro": "Parcul de Vest (West Park)",
+            "en": "West Park"
+          },
+          "coords": [
+            -2.143,
+            52.588
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Mieten Sie ein Tretboot auf dem See oder besuchen Sie das viktorianische Konservatorium.",
+            "hu": "Béreljen vízibiciklit a tavon, vagy látogasson el a viktoriánus üvegházba.",
+            "ro": "Închiriați o barcă cu pedale pe lac sau vizitați sera victoriană.",
+            "en": "Rent a paddleboat on the lake or visit the Victorian conservatory."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Wolverhampton beginnt im Herzen der Stadt an der historischen St. Peter's Collegiate Church. Nach einer Dosis Geschichte und Kunst in der Wolverhampton Art Gallery, die für ihre Pop-Art-Sammlung bekannt ist, machen Sie einen gemütlichen Spaziergang. Am Mittag tauchen Sie im prächtigen Grand Theatre in die Welt der darstellenden Künste ein, bevor Sie die elektrische Atmosphäre rund um das Molineux-Stadion, die Heimat der Wolves, spüren. Der Nachmittag lädt zu einer friedlichen Pause im West Park ein, einem klassischen viktorianischen Park. Der Tag endet mit einem entspannten Spaziergang durch die grünen Anlagen und bietet einen ruhigen Ausklang für Ihre Erkundungstour.",
+        "hu": "A napot Wolverhampton szívében, a történelmi Szent Péter-templomnál kezdi. A pop art gyűjteményéről híres Wolverhampton Művészeti Galéria után egy kellemes séta következik. Délben a Grand Theatre-ben elmerülhet az előadóművészetek világában, majd érezheti a Molineux Stadion, a Wolves otthona körüli pezsgő légkört. A délután a West Parkban, egy klasszikus viktoriánus parkban kínál békés pihenést. A nap egy pihentető sétával zárul a zöld területeken, amely nyugodt lezárása a felfedezőútnak.",
+        "ro": "Ziua începe în inima orașului Wolverhampton, la istorica Biserică Colegială Sf. Petru. După o doză de istorie și artă la Galeria de Artă Wolverhampton, renumită pentru colecția sa de Pop Art, vă veți bucura de o plimbare plăcută. La prânz, vă veți cufunda în lumea artelor spectacolului la Grand Theatre, înainte de a simți atmosfera electrică din jurul Stadionului Molineux, casa echipei Wolves. După-amiaza vă invită la o pauză liniștită în West Park, un parc victorian clasic. Ziua se încheie cu o plimbare relaxantă prin spațiile verzi, oferind un final senin explorării dumneavoastră.",
+        "en": "Your day starts in the heart of Wolverhampton at the historic St Peter's Collegiate Church. After a dose of history and art at the Wolverhampton Art Gallery, renowned for its Pop Art collection, you'll enjoy a pleasant stroll. At midday, immerse yourself in the performing arts at the Grand Theatre before feeling the electric atmosphere around Molineux Stadium, home of the Wolves. The afternoon invites a peaceful break in West Park, a classic Victorian park. The day concludes with a relaxing walk through the green spaces, offering a serene end to your exploration."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Banks's Bitter",
+            "tip": "Probieren Sie dieses lokal gebraute Ale in einem traditionellen Pub."
+          },
+          {
+            "name": "Balti",
+            "tip": "Die Nähe zu Birmingham bedeutet, dass Sie ausgezeichnete Balti-Currys finden können."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Banks's Bitter",
+            "tip": "Kóstolja meg ezt a helyi sört egy hagyományos pubban."
+          },
+          {
+            "name": "Balti",
+            "tip": "Birmingham közelsége miatt kiváló balti curryket találhat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Banks's Bitter",
+            "tip": "Încercați această bere locală într-un pub tradițional."
+          },
+          {
+            "name": "Balti",
+            "tip": "Apropierea de Birmingham înseamnă că puteți găsi curry-uri Balti excelente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks's Bitter",
+            "tip": "Try this locally brewed ale in a traditional pub."
+          },
+          {
+            "name": "Balti",
+            "tip": "Proximity to Birmingham means you can find excellent Balti curries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "West Park Konservatorium",
+            "tip": "Ein ruhiger Ort voller exotischer Pflanzen.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Kanalwege",
+            "tip": "Machen Sie einen ruhigen Spaziergang entlang der Kanäle, die durch die Stadt führen.",
+            "emoji": "💧"
+          }
+        ],
+        "hu": [
+          {
+            "name": "West Park üvegháza",
+            "tip": "Csendes hely, tele egzotikus növényekkel.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Csatornapart",
+            "tip": "Tegyen egy csendes sétát a városon áthaladó csatornák mentén.",
+            "emoji": "💧"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sera din West Park",
+            "tip": "Un loc liniștit, plin de plante exotice.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Malurile canalului",
+            "tip": "Faceți o plimbare liniștită de-a lungul canalelor care traversează orașul.",
+            "emoji": "💧"
+          }
+        ],
+        "en": [
+          {
+            "name": "West Park Conservatory",
+            "tip": "A quiet spot filled with exotic plants.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Canal Towpaths",
+            "tip": "Take a peaceful walk along the canals that run through the city.",
+            "emoji": "💧"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mander Centre",
+            "tip": "Das Haupteinkaufszentrum der Stadt für bekannte Marken."
+          },
+          {
+            "name": "Wolverhampton Market",
+            "tip": "Ein pulsierender Innen- und Außenmarkt für frische Produkte und einzigartige Funde."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mander Centre",
+            "tip": "A város fő bevásárlóközpontja, ismert márkákkal."
+          },
+          {
+            "name": "Wolverhamptoni piac",
+            "tip": "Élénk beltéri és kültéri piac friss termékekkel és egyedi leletekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mander Centre",
+            "tip": "Principalul centru comercial al orașului pentru mărci cunoscute."
+          },
+          {
+            "name": "Piața Wolverhampton",
+            "tip": "O piață interioară și exterioară vibrantă pentru produse proaspete și descoperiri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mander Centre",
+            "tip": "The main shopping centre in the city for high-street brands."
+          },
+          {
+            "name": "Wolverhampton Market",
+            "tip": "A vibrant indoor and outdoor market for fresh produce and unique finds."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum kompakt und sehr gut zu Fuß erreichbar ist.",
+          "Prüfen Sie die Öffnungszeiten der Kunstgalerie und der Museen im Voraus.",
+          "Viele zentrale Straßen sind Fußgängerzonen, was das Gehen angenehm macht."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, a városközpont kompakt és nagyon jól gyalogolható.",
+          "Ellenőrizze előre a művészeti galéria és a múzeumok nyitvatartási idejét.",
+          "Sok központi utca sétálóutca, ami kellemessé teszi a gyaloglást."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul orașului este compact și foarte accesibil pietonal.",
+          "Verificați în avans orele de deschidere ale galeriei de artă și ale muzeelor.",
+          "Multe străzi centrale sunt pietonale, ceea ce face plimbarea plăcută."
+        ],
+        "en": [
+          "Wear comfortable shoes as the city centre is compact and very walkable.",
+          "Check opening times for the art gallery and museums in advance.",
+          "Many central streets are pedestrianised, making walking pleasant."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Wightwick Manor and Gardens",
+            "hu": "Wightwick Manor és kertjei",
+            "ro": "Conacul și Grădinile Wightwick",
+            "en": "Wightwick Manor and Gardens"
+          },
+          "coords": [
+            -2.181,
+            52.583
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein Muss für Fans von Arts and Crafts und William Morris.",
+            "hu": "Az Arts and Crafts mozgalom és William Morris rajongóinak kötelező.",
+            "ro": "O vizită obligatorie pentru fanii mișcării Arts and Crafts și ai lui William Morris.",
+            "en": "A must-see for fans of the Arts and Crafts movement and William Morris."
+          }
+        },
+        {
+          "name": {
+            "de": "Bantock House Museum",
+            "hu": "Bantock Ház Múzeum",
+            "ro": "Muzeul Casa Bantock",
+            "en": "Bantock House Museum"
+          },
+          "coords": [
+            -2.1555,
+            52.5755
+          ],
+          "category": "museums",
+          "arrive_at": "11:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Erkunden Sie das edwardianische Haus und den umliegenden Park.",
+            "hu": "Fedezze fel az edward-kori házat és a környező parkot.",
+            "ro": "Explorați casa edwardiană și parcul înconjurător.",
+            "en": "Explore the Edwardian house and surrounding parkland."
+          }
+        },
+        {
+          "name": {
+            "de": "West Park",
+            "hu": "West Park",
+            "ro": "Parcul de Vest (West Park)",
+            "en": "West Park"
+          },
+          "coords": [
+            -2.143,
+            52.588
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause. Fahren Sie um den See herum.",
+            "hu": "Tökéletes egy ebéd utáni pihenőre. Kerékpározzon körbe a tó körül.",
+            "ro": "Perfect pentru o pauză de prânz. Pedalați în jurul lacului.",
+            "en": "Perfect for a lunchtime break. Cycle around the perimeter of the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Molineux Stadion",
+            "hu": "Molineux Stadion",
+            "ro": "Stadionul Molineux",
+            "en": "Molineux Stadium"
+          },
+          "coords": [
+            -2.1305,
+            52.5902
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:31",
+          "stay_min": 20,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto mit der Billy Wright Statue.",
+            "hu": "Készítsen egy fotót Billy Wright szobrával.",
+            "ro": "Faceți o fotografie cu statuia lui Billy Wright.",
+            "en": "Take a photo with the Billy Wright statue."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Peter's Collegiate Church",
+            "hu": "Szent Péter templom",
+            "ro": "Biserica Colegială Sf. Petru",
+            "en": "St Peter's Collegiate Church"
+          },
+          "coords": [
+            -2.1265,
+            52.5865
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:01",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses Wahrzeichens der Stadt.",
+            "hu": "Csodálja meg ennek a városi jelképnek az építészetét.",
+            "ro": "Admirați arhitectura acestui reper al orașului.",
+            "en": "Admire the architecture of this city landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Wolverhampton Kunstgalerie",
+            "hu": "Wolverhamptoni Művészeti Galéria",
+            "ro": "Galeria de Artă Wolverhampton",
+            "en": "Wolverhampton Art Gallery"
+          },
+          "coords": [
+            -2.129,
+            52.5842
+          ],
+          "category": "museums",
+          "arrive_at": "15:51",
+          "stay_min": 70,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die viktorianische und edwardianische Kunst.",
+            "hu": "Fókuszáljon a viktoriánus és edward-kori művészetre.",
+            "ro": "Concentrați-vă pe arta victoriană și edwardiană.",
+            "en": "Focus on the Victorian and Edwardian art sections."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrradtour beginnt im eleganten Wightwick Manor, einem Juwel der Arts-and-Crafts-Bewegung. Von dort radeln Sie zum Bantock House Museum, um einen Einblick in das edwardianische Leben zu erhalten. Zur Mittagszeit erreichen Sie den West Park, ideal für eine Pause im Grünen. Weiter geht es zum Molineux-Stadion, um die Leidenschaft des lokalen Fußballs zu spüren. Der Nachmittag führt Sie ins historische Zentrum zur St. Peter's Church und zur Wolverhampton Art Gallery. Die Tour endet mit kulturellen Eindrücken, bevor Sie den Abend in der Stadt genießen.",
+        "hu": "Kerékpártúrája az elegáns Wightwick Manor-nál kezdődik, az Arts and Crafts mozgalom ékkövénél. Onnan a Bantock House Múzeumhoz teker, hogy bepillantást nyerjen az edwardiánus kor életébe. Délben eléri a West Parkot, amely ideális egy zöldben töltött pihenőhöz. Tovább haladva a Molineux Stadion felé, érezheti a helyi futball-szenvedélyt. A délután a történelmi központba, a Szent Péter-templomhoz és a Wolverhamptoni Művészeti Galériához vezeti. A túra kulturális benyomásokkal zárul, mielőtt este élvezné a város hangulatát.",
+        "ro": "Turul pe bicicletă începe la elegantul Conac Wightwick, o bijuterie a mișcării Arts and Crafts. De acolo, pedalați spre Muzeul Casa Bantock pentru o incursiune în viața edwardiană. La prânz, ajungeți în West Park, ideal pentru o pauză în natură. Continuând, veți simți pasiunea fotbalului local la Stadionul Molineux. După-amiaza vă duce în centrul istoric, la Biserica Sf. Petru și la Galeria de Artă Wolverhampton. Turul se încheie cu impresii culturale, înainte de a vă bucura de seară în oraș.",
+        "en": "Your bike tour starts at the elegant Wightwick Manor, a jewel of the Arts and Crafts movement. From there, you'll cycle to the Bantock House Museum for a glimpse into Edwardian life. At midday, you'll reach West Park, perfect for a green break. Continuing on, you'll feel the local football passion at Molineux Stadium. The afternoon takes you to the historic center, to St. Peter's Church and the Wolverhampton Art Gallery. The tour ends with cultural impressions before you enjoy the evening in the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Omelette und Pommes",
+            "tip": "Ein lokaler Favorit, der oft in Cafés serviert wird."
+          },
+          {
+            "name": "Graue Erbsen und Speck",
+            "tip": "Ein traditionelles Gericht aus dem Black Country, das Sie an Markttagen finden können."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Omlett és sült krumpli",
+            "tip": "Helyi kedvenc, gyakran szolgálják fel kávézókban."
+          },
+          {
+            "name": "Szürke borsó szalonnával",
+            "tip": "Hagyományos Black Country étel, piacokon kapható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Omletă cu cartofi prăjiți",
+            "tip": "Un favorit local, adesea servit în cafenele."
+          },
+          {
+            "name": "Mazăre gri cu slănină",
+            "tip": "Un fel de mâncare tradițional din Black Country, disponibil în zilele de piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Omelette and chips",
+            "tip": "A local favourite often served in cafes."
+          },
+          {
+            "name": "Grey Peas and Bacon",
+            "tip": "A traditional Black Country dish you might find on market days."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bantock House Gardens",
+            "tip": "Finden Sie eine ruhige Bank in den formellen Gärten.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Smestow Valley Local Nature Reserve",
+            "tip": "Ein grüner Korridor, der sich perfekt für eine längere, ruhige Fahrt eignet.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bantock Ház kertjei",
+            "tip": "Keressen egy csendes padot a formális kertekben.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Smestow Valley Természetvédelmi Terület",
+            "tip": "Zöld folyosó, tökéletes egy hosszabb, csendes kerékpárúthoz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Casei Bantock",
+            "tip": "Găsiți o bancă liniștită în grădinile formale.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Rezervația Naturală Locală Smestow Valley",
+            "tip": "Un coridor verde perfect pentru o plimbare mai lungă și liniștită cu bicicleta.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bantock House Gardens",
+            "tip": "Find a quiet bench in the formal gardens.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Smestow Valley Local Nature Reserve",
+            "tip": "A green corridor perfect for a longer, peaceful ride.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Fahrradgeschäfte",
+            "tip": "Suchen Sie nach Zubehör oder mieten Sie bei Bedarf ein besseres Fahrrad."
+          },
+          {
+            "name": "Museumsshops",
+            "tip": "Die Shops im Wightwick Manor und in der Art Gallery bieten einzigartige Geschenke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerékpárboltok",
+            "tip": "Keressen kiegészítőket, vagy béreljen jobb kerékpárt, ha szükséges."
+          },
+          {
+            "name": "Múzeumi boltok",
+            "tip": "A Wightwick Manor és a Művészeti Galéria boltjai egyedi ajándékokat kínálnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine locale de biciclete",
+            "tip": "Căutați accesorii sau închiriați o bicicletă mai bună dacă este necesar."
+          },
+          {
+            "name": "Magazinele muzeelor",
+            "tip": "Magazinele de la Conacul Wightwick și Galeria de Artă oferă cadouri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bike Shops",
+            "tip": "Look for accessories or rent a better bike if needed."
+          },
+          {
+            "name": "Museum Shops",
+            "tip": "The shops at Wightwick Manor and the Art Gallery offer unique gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Radwege, insbesondere den Smestow Valley Weg.",
+          "Schließen Sie Ihr Fahrrad an den Hauptattraktionen sicher ab.",
+          "Einige Straßen können hügelig sein, seien Sie also auf Steigungen vorbereitet."
+        ],
+        "hu": [
+          "Használja a kerékpárutakat, különösen a Smestow Valley útvonalat.",
+          "Zárja le biztonságosan a kerékpárját a fő látnivalóknál.",
+          "Néhány út dombos lehet, készüljön fel az emelkedőkre."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete, în special traseul Smestow Valley.",
+          "Asigurați-vă bicicleta în siguranță la principalele atracții.",
+          "Unele drumuri pot fi deluroase, așa că fiți pregătiți pentru urcușuri."
+        ],
+        "en": [
+          "Make use of cycle paths, especially the Smestow Valley path.",
+          "Lock your bike securely at major attractions.",
+          "Some roads can be hilly, so be prepared for some inclines."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 14.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Wightwick Manor and Gardens",
+            "hu": "Wightwick Manor és kertjei",
+            "ro": "Conacul și Grădinile Wightwick",
+            "en": "Wightwick Manor and Gardens"
+          },
+          "coords": [
+            -2.181,
+            52.583
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und genießen Sie die Kunst und die Gärten.",
+            "hu": "Parkoljon le itt, és élvezze a művészetet és a kerteket.",
+            "ro": "Parcați aici și bucurați-vă de artă și grădini.",
+            "en": "Park here and enjoy the art and gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Bantock House Museum",
+            "hu": "Bantock Ház Múzeum",
+            "ro": "Muzeul Casa Bantock",
+            "en": "Bantock House Museum"
+          },
+          "coords": [
+            -2.1555,
+            52.5755
+          ],
+          "category": "museums",
+          "arrive_at": "11:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Der Parkplatz ist kostenlos. Ein schöner Ort für einen Mittagsspaziergang.",
+            "hu": "A parkolás ingyenes. Kellemes hely egy ebéd utáni sétához.",
+            "ro": "Parcarea este gratuită. Un loc minunat pentru o plimbare după prânz.",
+            "en": "Parking is free. A lovely spot for a post-lunch stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz im Stadtzentrum",
+            "hu": "Parkoló a városközpontban",
+            "ro": "Parcare în centrul orașului",
+            "en": "City Centre Car Park"
+          },
+          "coords": [
+            -2.1295,
+            52.5835
+          ],
+          "category": "industry",
+          "arrive_at": "13:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Rest des Tages, um das Zentrum zu erkunden.",
+            "hu": "Parkoljon le itt a nap hátralévő részére, hogy felfedezze a központot.",
+            "ro": "Parcați aici pentru restul zilei pentru a explora centrul.",
+            "en": "Park here for the rest of the day to explore the centre."
+          }
+        },
+        {
+          "name": {
+            "de": "Wolverhampton Kunstgalerie",
+            "hu": "Wolverhamptoni Művészeti Galéria",
+            "ro": "Galeria de Artă Wolverhampton",
+            "en": "Wolverhampton Art Gallery"
+          },
+          "coords": [
+            -2.129,
+            52.5842
+          ],
+          "category": "museums",
+          "arrive_at": "13:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Stadtrundgang mit etwas Kultur.",
+            "hu": "Kezdje a városnézést egy kis kultúrával.",
+            "ro": "Începeți-vă plimbarea prin centrul orașului cu puțină cultură.",
+            "en": "Start your city centre walking tour with some culture."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Peter's Collegiate Church",
+            "hu": "Szent Péter templom",
+            "ro": "Biserica Colegială Sf. Petru",
+            "en": "St Peter's Collegiate Church"
+          },
+          "coords": [
+            -2.1265,
+            52.5865
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Galerie entfernt, im Herzen der Stadt.",
+            "hu": "Rövid sétára a galériától, a város szívében.",
+            "ro": "La o scurtă plimbare de galerie, în inima orașului.",
+            "en": "A short walk from the gallery, in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Grand Theatre",
+            "hu": "Grand Theatre színház",
+            "ro": "Marele Teatru (Grand Theatre)",
+            "en": "Grand Theatre"
+          },
+          "coords": [
+            -2.1245,
+            52.5885
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fassade dieses viktorianischen Theaters.",
+            "hu": "Csodálja meg ennek a viktoriánus színháznak a homlokzatát.",
+            "ro": "Admirați fațada acestui teatru victorian.",
+            "en": "Admire the facade of this Victorian theatre."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit dem Auto beginnt beim prächtigen Wightwick Manor, wo Sie in die Arts-and-Crafts-Bewegung eintauchen. Eine kurze Fahrt bringt Sie zum Bantock House Museum, das einen Einblick in die edwardianische Vergangenheit der Stadt bietet. Nach diesen Vororterkundungen fahren Sie ins Stadtzentrum und parken Ihr Auto für den Rest des Tages. Am Nachmittag erkunden Sie zu Fuß die Highlights des Zentrums: die beeindruckende Sammlung der Wolverhampton Art Gallery, die historische St. Peter's Church und das architektonisch reizvolle Grand Theatre, alles in einem gemütlichen Spaziergang erreichbar.",
+        "hu": "Autós napja a csodálatos Wightwick Manor-nál kezdődik, ahol elmerülhet az Arts and Crafts mozgalomban. Egy rövid autóút után a Bantock House Múzeum következik, amely bepillantást enged a város edwardiánus múltjába. A külvárosi felfedezések után a központba hajt, és leparkolja az autót a nap hátralévő részére. Délután gyalogosan fedezi fel a központ nevezetességeit: a Wolverhampton Művészeti Galéria lenyűgöző gyűjteményét, a történelmi Szent Péter-templomot és az építészetileg is vonzó Grand Theatre-t, mindezt egy kellemes séta keretében.",
+        "ro": "Ziua cu mașina începe la magnificul Conac Wightwick, unde vă veți cufunda în mișcarea Arts and Crafts. O scurtă călătorie cu mașina vă duce la Muzeul Casa Bantock, oferind o privire în trecutul edwardian al orașului. După aceste explorări suburbane, conduceți spre centrul orașului și parcați mașina pentru restul zilei. După-amiaza, explorați pe jos punctele de atracție ale centrului: colecția impresionantă a Galeriei de Artă Wolverhampton, istorica Biserică Sf. Petru și fermecătorul arhitectural Grand Theatre, toate la o plimbare relaxantă.",
+        "en": "Your day by car begins at the magnificent Wightwick Manor, immersing you in the Arts and Crafts movement. A short drive takes you to Bantock House Museum, offering a glimpse into the city's Edwardian past. After these suburban explorations, you'll drive into the city centre and park for the rest of the day. The afternoon is spent exploring the central highlights on foot: the impressive collection at the Wolverhampton Art Gallery, the historic St. Peter's Church, and the architecturally charming Grand Theatre, all within a comfortable walking cluster."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Summer House",
+            "tip": "Ein Pub in der Nähe des Bantock House, ideal für ein Mittagessen."
+          },
+          {
+            "name": "The Grain Store",
+            "tip": "Ein beliebter Ort im Stadtzentrum mit einer großen Auswahl an Speisen und Getränken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Summer House",
+            "tip": "A Bantock Ház közelében található pub, ideális ebédre."
+          },
+          {
+            "name": "The Grain Store",
+            "tip": "Népszerű hely a városközpontban, széles étel- és italválasztékkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Summer House",
+            "tip": "Un pub lângă Casa Bantock, ideal pentru prânz."
+          },
+          {
+            "name": "The Grain Store",
+            "tip": "Un loc popular în centrul orașului, cu o gamă largă de mâncăruri și băuturi."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Summer House",
+            "tip": "A pub near Bantock House, great for a spot of lunch."
+          },
+          {
+            "name": "The Grain Store",
+            "tip": "A popular city centre spot with a wide variety of food and drink options."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wightwick Manor Gärten",
+            "tip": "Verlieren Sie sich in der ruhigen Schönheit dieser Gärten.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Northycote Farm and Country Park",
+            "tip": "Eine kurze Autofahrt für eine ländliche Flucht.",
+            "emoji": "🚜"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wightwick Manor kertjei",
+            "tip": "Vesszen el a kert csendes szépségében.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Northycote Farm and Country Park",
+            "tip": "Rövid autóútra egy vidéki menedékhelyért.",
+            "emoji": "🚜"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Conacului Wightwick",
+            "tip": "Pierdeți-vă în frumusețea liniștită a acestor grădini.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Ferma și Parcul Național Northycote",
+            "tip": "La o scurtă distanță cu mașina pentru o evadare rurală.",
+            "emoji": "🚜"
+          }
+        ],
+        "en": [
+          {
+            "name": "Wightwick Manor Gardens",
+            "tip": "Get lost in the tranquil beauty of these gardens.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Northycote Farm and Country Park",
+            "tip": "A short drive away for a rural escape.",
+            "emoji": "🚜"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Antiquitätenläden in Tettenhall",
+            "tip": "Ein Dorf in der Nähe von Wightwick mit charmanten Geschäften."
+          },
+          {
+            "name": "Grand Theatre Programme",
+            "tip": "Ein Souvenir von Ihrem Besuch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Antikváriumok Tettenhallban",
+            "tip": "Egy falu Wightwick közelében, bájos üzletekkel."
+          },
+          {
+            "name": "Grand Theatre műsorfüzet",
+            "tip": "Egy szuvenír a látogatásáról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de antichități din Tettenhall",
+            "tip": "Un sat de lângă Wightwick cu magazine fermecătoare."
+          },
+          {
+            "name": "Programul Grand Theatre",
+            "tip": "Un suvenir al vizitei dumneavoastră."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tettenhall Antique Shops",
+            "tip": "A village area near Wightwick with charming shops."
+          },
+          {
+            "name": "Grand Theatre Programme",
+            "tip": "A souvenir of your visit."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie Park-and-Ride-Möglichkeiten, wenn Sie den Verkehr im Stadtzentrum vermeiden möchten.",
+          "Achten Sie auf die Parkgebühren im Stadtzentrum, die variieren können.",
+          "Planen Sie Ihre Route im Voraus, um Einbahnstraßen zu vermeiden."
+        ],
+        "hu": [
+          "Használja a P+R lehetőségeket, ha el akarja kerülni a belvárosi forgalmat.",
+          "Figyeljen a belvárosi parkolási díjakra, amelyek változhatnak.",
+          "Tervezze meg előre az útvonalat az egyirányú utcák elkerülése érdekében."
+        ],
+        "ro": [
+          "Utilizați opțiunile de park-and-ride dacă doriți să evitați traficul din centrul orașului.",
+          "Fiți atenți la taxele de parcare din centrul orașului, care pot varia.",
+          "Planificați-vă traseul în avans pentru a evita străzile cu sens unic."
+        ],
+        "en": [
+          "Use park and ride facilities if you want to avoid city centre traffic.",
+          "Be aware of city centre parking charges, which can be variable.",
+          "Plan your route in advance to avoid one-way systems."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 9.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Wolverhampton Bus Station",
+            "hu": "Wolverhampton buszpályaudvar",
+            "ro": "Stația de autobuz Wolverhampton",
+            "en": "Wolverhampton Bus Station"
+          },
+          "coords": [
+            -2.123,
+            52.585
+          ],
+          "category": "industry",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+            "hu": "Vásároljon napijegyet a korlátlan utazáshoz.",
+            "ro": "Cumpărați un abonament de o zi pentru călătorii nelimitate.",
+            "en": "Purchase a day pass for unlimited travel."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Peter's Collegiate Church",
+            "hu": "Szent Péter templom",
+            "ro": "Biserica Colegială Sf. Petru",
+            "en": "St Peter's Collegiate Church"
+          },
+          "coords": [
+            -2.1265,
+            52.5865
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ihr erster Halt, nur einen kurzen Spaziergang vom Busbahnhof entfernt.",
+            "hu": "Az első megálló, csak egy rövid sétára a buszpályaudvartól.",
+            "ro": "Prima oprire, la o scurtă plimbare de stația de autobuz.",
+            "en": "Your first stop, just a short walk from the bus station."
+          }
+        },
+        {
+          "name": {
+            "de": "Wolverhampton Kunstgalerie",
+            "hu": "Wolverhamptoni Művészeti Galéria",
+            "ro": "Galeria de Artă Wolverhampton",
+            "en": "Wolverhampton Art Gallery"
+          },
+          "coords": [
+            -2.129,
+            52.5842
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie von der Kirche aus durch das Stadtzentrum.",
+            "hu": "Sétáljon át a városközponton a templomtól.",
+            "ro": "Plimbați-vă prin centrul orașului de la biserică.",
+            "en": "Walk through the city centre from the church."
+          }
+        },
+        {
+          "name": {
+            "de": "West Park",
+            "hu": "West Park",
+            "ro": "Parcul de Vest (West Park)",
+            "en": "West Park"
+          },
+          "coords": [
+            -2.143,
+            52.588
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Stadtzentrum zu diesem viktorianischen Park.",
+            "hu": "Menjen busszal a városközpontból ebbe a viktoriánus parkba.",
+            "ro": "Luați un autobuz din centrul orașului spre acest parc victorian.",
+            "en": "Take a bus from the city centre to this Victorian park."
+          }
+        },
+        {
+          "name": {
+            "de": "Bantock House Museum",
+            "hu": "Bantock Ház Múzeum",
+            "ro": "Muzeul Casa Bantock",
+            "en": "Bantock House Museum"
+          },
+          "coords": [
+            -2.1555,
+            52.5755
+          ],
+          "category": "museums",
+          "arrive_at": "13:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine weitere Busfahrt bringt Sie zu diesem edwardianischen Juwel.",
+            "hu": "Egy másik buszút elviszi ehhez az edward-kori ékszerhez.",
+            "ro": "O altă călătorie cu autobuzul vă duce la această bijuterie edwardiană.",
+            "en": "Another bus ride takes you to this Edwardian gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Molineux Stadion",
+            "hu": "Molineux Stadion",
+            "ro": "Stadionul Molineux",
+            "en": "Molineux Stadium"
+          },
+          "coords": [
+            -2.1305,
+            52.5902
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zurück ins Zentrum und gehen Sie zum Stadion.",
+            "hu": "Menjen busszal vissza a központba, és sétáljon a stadionhoz.",
+            "ro": "Luați un autobuz înapoi spre centru și mergeți pe jos până la stadion.",
+            "en": "Take a bus back towards the centre and walk to the stadium."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Tour mit öffentlichen Verkehrsmitteln beginnt am zentralen Busbahnhof, von wo aus Sie bequem zu Fuß das historische Herz der Stadt mit der St. Peter's Church und der Art Gallery erreichen. Nach diesem Spaziergang im Zentrum nehmen Sie einen Bus zum weitläufigen West Park für eine Mittagspause im Grünen. Eine weitere Busfahrt bringt Sie zum Bantock House Museum, das einen Einblick in die edwardianische Epoche bietet. Der Nachmittag endet mit einer Rückfahrt ins Zentrum und einem kurzen Spaziergang zum legendären Molineux-Stadion, um die sportliche Seele der Stadt zu erleben, bevor Sie Ihre Heimreise antreten.",
+        "hu": "Tömegközlekedési túrája a központi buszpályaudvarról indul, ahonnan gyalogosan kényelmesen elérheti a város történelmi szívét, a Szent Péter-templomot és a Művészeti Galériát. A belvárosi séta után busszal utazik a tágas West Parkba egy zöldben töltött ebédidőre. Egy másik buszút elviszi a Bantock House Múzeumba, amely bepillantást nyújt az edwardiánus korba. A délután a központba való visszatéréssel és egy rövid sétával zárul az ikonikus Molineux Stadionhoz, hogy megtapasztalja a város sportos lelkét, mielőtt hazaindulna.",
+        "ro": "Turul cu transportul public începe la stația centrală de autobuz, de unde puteți ajunge cu ușurință pe jos în inima istorică a orașului, la Biserica Sf. Petru și Galeria de Artă. După această plimbare în centru, luați un autobuz spre vastul West Park pentru o pauză de prânz în natură. O altă călătorie cu autobuzul vă duce la Muzeul Casa Bantock pentru o incursiune în epoca edwardiană. După-amiaza se încheie cu o întoarcere în centru și o scurtă plimbare până la emblematicul Stadion Molineux pentru a experimenta sufletul sportiv al orașului înainte de a vă întoarce acasă.",
+        "en": "Your public transport tour starts at the central bus station, from where you can easily walk to the historic heart of the city with St. Peter's Church and the Art Gallery. After this central walk, you'll take a bus to the expansive West Park for a green lunchtime break. Another bus ride takes you to Bantock House Museum for a glimpse into the Edwardian era. The afternoon concludes with a return to the centre and a short walk to the iconic Molineux Stadium to experience the city's sporting soul before heading home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Ein Klassiker, den man am besten aus einer lokalen Frittenbude genießt."
+          },
+          {
+            "name": "Samosas",
+            "tip": "Aufgrund der großen südasiatischen Gemeinde gibt es viele Orte, an denen man ausgezeichnete Samosas bekommt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Klasszikus, amit a legjobban egy helyi sütödéből lehet élvezni."
+          },
+          {
+            "name": "Szamosza",
+            "tip": "A nagy dél-ázsiai közösségnek köszönhetően sok helyen kapható kiváló szamosza."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Un clasic, cel mai bine savurat de la o prăvălie locală."
+          },
+          {
+            "name": "Samosas",
+            "tip": "Datorită comunității mari sud-asiatice, există multe locuri unde se pot găsi samosas excelente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish and Chips",
+            "tip": "A classic, best enjoyed from a local chippy."
+          },
+          {
+            "name": "Samosas",
+            "tip": "Thanks to the large South Asian community, there are many places to get excellent samosas."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "St. Peter's Gardens",
+            "tip": "Ein ruhiger Friedhof rund um die Hauptkirche.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Obere Ebene eines Doppeldeckerbusses",
+            "tip": "Beobachten Sie die Stadt aus einer ruhigen Perspektive.",
+            "emoji": "🚌"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Péter kertje",
+            "tip": "Csendes temető a főtemplom körül.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Egy emeletes busz felső szintje",
+            "tip": "Nézze a várost egy csendes perspektívából.",
+            "emoji": "🚌"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Sf. Petru",
+            "tip": "Un cimitir liniștit în jurul bisericii principale.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Etajul superior al unui autobuz etajat",
+            "tip": "Priviți orașul dintr-o perspectivă liniștită.",
+            "emoji": "🚌"
+          }
+        ],
+        "en": [
+          {
+            "name": "St Peter's Gardens",
+            "tip": "A quiet churchyard surrounding the main church.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Top deck of a double-decker bus",
+            "tip": "Watch the city go by from a quiet vantage point.",
+            "emoji": "🚌"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wolfrun Centre",
+            "tip": "Ein weiteres Einkaufszentrum im Stadtzentrum."
+          },
+          {
+            "name": "Charity-Läden",
+            "tip": "Sie finden oft einzigartige Second-Hand-Artikel und unterstützen gleichzeitig einen guten Zweck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wolfrun Centre",
+            "tip": "Egy másik bevásárlóközpont a városközpontban."
+          },
+          {
+            "name": "Jótékonysági boltok",
+            "tip": "Gyakran találhat egyedi, használt cikkeket, miközben egy jó ügyet is támogat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Wolfrun",
+            "tip": "Un alt centru comercial din centrul orașului."
+          },
+          {
+            "name": "Magazine de caritate",
+            "tip": "Puteți găsi adesea articole second-hand unice, sprijinind în același timp o cauză nobilă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wolfrun Centre",
+            "tip": "Another shopping centre in the city centre."
+          },
+          {
+            "name": "Charity Shops",
+            "tip": "You can often find unique second-hand items while supporting a good cause."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die App des lokalen Busunternehmens für Echtzeit-Informationen herunter.",
+          "Behalten Sie etwas Kleingeld für Busfahrkarten bereit, obwohl die meisten kontaktloses Bezahlen akzeptieren.",
+          "Planen Sie Ihre Fahrten im Voraus, da die Busfrequenzen abends und sonntags reduziert sein können."
+        ],
+        "hu": [
+          "Töltse le a helyi busztársaság alkalmazását valós idejű információkért.",
+          "Tartson magánál aprópénzt a buszjegyekhez, bár a legtöbb helyen elfogadják az érintésmentes fizetést.",
+          "Tervezze meg előre az utazásait, mivel a buszjáratok sűrűsége este és vasárnap csökkenhet."
+        ],
+        "ro": [
+          "Descărcați aplicația companiei locale de autobuz pentru informații în timp real.",
+          "Păstrați niște mărunțiș pentru biletele de autobuz, deși majoritatea acceptă plata contactless.",
+          "Planificați-vă călătoriile în avans, deoarece frecvența autobuzelor poate fi redusă seara și duminica."
+        ],
+        "en": [
+          "Download the local bus company's app for real-time information.",
+          "Keep some change handy for bus fares, although most accept contactless payment.",
+          "Plan your journeys in advance as bus frequencies can be reduced in the evenings and on Sundays."
+        ]
+      }
+    }
+  }
+}

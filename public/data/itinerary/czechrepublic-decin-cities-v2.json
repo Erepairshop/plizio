@@ -1,0 +1,1520 @@
+{
+  "city_id": "czechrepublic-decin-cities-v2",
+  "anchor": {
+    "name": "Tetschen",
+    "coords": [
+      14.2139,
+      50.7811
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Masaryk-Platz",
+            "hu": "Masaryk tér",
+            "ro": "Piața Masaryk",
+            "en": "Masaryk Square"
+          },
+          "coords": [
+            14.2125,
+            50.7795
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Kaffee in einem der Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában!",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
+            "en": "Start your day with a coffee at one of the cafés on the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Synagoge Děčín",
+            "hu": "Děčíni zsinagóga",
+            "ro": "Sinagoga din Děčín",
+            "en": "Synagogue Děčín"
+          },
+          "coords": [
+            14.215,
+            50.7798
+          ],
+          "category": "historical",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die einzigartige Mischung aus Jugendstil und maurischen Elementen.",
+            "hu": "Figyelje meg a szecessziós és mór elemek egyedi keverékét!",
+            "ro": "Observați amestecul unic de elemente Art Nouveau și maure.",
+            "en": "Notice the unique blend of Art Nouveau and Moorish elements."
+          }
+        },
+        {
+          "name": {
+            "de": "Heiligkreuzkirche",
+            "hu": "Szent Kereszt templom",
+            "ro": "Biserica Sfânta Cruce",
+            "en": "Church of the Holy Cross"
+          },
+          "coords": [
+            14.2133,
+            50.7825
+          ],
+          "category": "churches",
+          "arrive_at": "10:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die barocke Pracht und die ruhige Atmosphäre.",
+            "hu": "Élvezze a barokk pompát és a csendes légkört!",
+            "ro": "Bucurați-vă de splendoarea barocă și de atmosfera liniștită.",
+            "en": "Enjoy the Baroque splendor and the quiet atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Děčín",
+            "hu": "Děčíni kastély",
+            "ro": "Castelul Děčín",
+            "en": "Děčín Castle"
+          },
+          "coords": [
+            14.211,
+            50.7822
+          ],
+          "category": "castles",
+          "arrive_at": "11:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie genug Zeit für die „Geheimgänge“-Tour ein – es lohnt sich!",
+            "hu": "Szánjon elég időt a „Titkos átjárók” túrára – megéri!",
+            "ro": "Planificați suficient timp pentru turul „Pasajelor Secrete” – merită!",
+            "en": "Plan enough time for the 'Secret Passages' tour - it's worth it!"
+          }
+        },
+        {
+          "name": {
+            "de": "Rosengarten (Růžová zahrada)",
+            "hu": "Rózsakert (Růžová zahrada)",
+            "ro": "Grădina de Trandafiri (Růžová zahrada)",
+            "en": "Rose Garden (Růžová zahrada)"
+          },
+          "coords": [
+            14.2105,
+            50.7835
+          ],
+          "category": "parks",
+          "arrive_at": "12:49",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der beste Ort für eine Mittagspause mit herrlicher Aussicht und Duft.",
+            "hu": "A legjobb hely egy ebédszünetre, csodás kilátással és illatokkal.",
+            "ro": "Cel mai bun loc pentru o pauză de prânz cu priveliști și parfumuri încântătoare.",
+            "en": "The best spot for a lunch break with lovely views and scents."
+          }
+        },
+        {
+          "name": {
+            "de": "Altmädter Brücke (Staroměstský most)",
+            "hu": "Óvárosi híd (Staroměstský most)",
+            "ro": "Podul din Orașul Vechi (Staroměstský most)",
+            "en": "Old Town Bridge (Staroměstský most)"
+          },
+          "coords": [
+            14.2138,
+            50.7801
+          ],
+          "category": "bridges",
+          "arrive_at": "14:13",
+          "stay_min": 20,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekter Fotospot mit Blick auf das Schloss und die Schäferwand.",
+            "hu": "Tökéletes fotóhely, kilátással a kastélyra és a Pásztorfalra.",
+            "ro": "Loc perfect pentru fotografii cu vedere la castel și la Peretele Păstorului.",
+            "en": "Perfect photo spot with views of the castle and the Shepherd's Wall."
+          }
+        },
+        {
+          "name": {
+            "de": "Pastýřská stěna (Schäferwand)",
+            "hu": "Pásztorfal (Pastýřská stěna)",
+            "ro": "Peretele Păstorului (Pastýřská stěna)",
+            "en": "Shepherd's Wall (Pastýřská stěna)"
+          },
+          "coords": [
+            14.2078,
+            50.7808
+          ],
+          "category": "natural features",
+          "arrive_at": "14:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Aufzug nach oben und genießen Sie die beste Aussicht auf die Stadt.",
+            "hu": "Menjen fel a lifttel a csúcsra, és élvezze a város legjobb kilátását!",
+            "ro": "Urcați cu liftul și bucurați-vă de cea mai bună priveliște asupra orașului.",
+            "en": "Take the elevator to the top and enjoy the best view of the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Spaziergang durch Děčín ist eine Reise durch die Zeit. Der Morgen beginnt am belebten Masaryk-Platz, führt Sie zur stillen Synagoge und der prächtigen Heiligkreuzkirche. Der Vormittag gehört dem majestätischen Schloss Děčín und seinem duftenden Rosengarten, wo Geschichte auf Natur trifft. Am Nachmittag überqueren Sie die Elbe über die historische Altstädter Brücke, um den atemberaubenden Ausblick von der Schäferwand zu genießen. Der Tag endet mit unvergesslichen Panoramen und dem Gefühl, das Herz von Böhmisch-Sachsen wirklich erlebt zu haben.",
+        "hu": "Egy séta Děčínben időutazás. A reggel a nyüzsgő Masaryk téren indul, majd a csendes zsinagógához és a pompás Szent Kereszt templomhoz vezet. A délelőtt a fenséges děčíni kastélyé és illatos rózsakertjéé, ahol a történelem és a természet találkozik. Délután a történelmi Óvárosi hídon kel át az Elba felett, hogy élvezze a Pásztorfal lélegzetelállító kilátását. A nap felejthetetlen panorámákkal zárul, és azzal az érzéssel, hogy valóban megtapasztalta a Cseh-Svájc szívét.",
+        "ro": "O plimbare prin Děčín este o călătorie în timp. Dimineața începe în vibranta Piață Masaryk, ducându-vă la sinagoga tăcută și la splendida Biserică a Sfintei Cruci. Amiaza este dedicată maiestuosului Castel Děčín și grădinii sale parfumate de trandafiri, unde istoria întâlnește natura. După-amiaza, traversați Elba peste podul istoric din Orașul Vechi pentru a vă bucura de priveliștea uluitoare de pe Peretele Păstorului. Ziua se încheie cu panorame de neuitat și sentimentul de a fi trăit cu adevărat inima Elveției Boeme.",
+        "en": "A walk through Děčín is a journey through time. The morning starts at the bustling Masaryk Square, leading you to the quiet Synagogue and the magnificent Church of the Holy Cross. The forenoon is for the majestic Děčín Castle and its fragrant Rose Garden, where history meets nature. In the afternoon, you'll cross the Elbe River over the historic Old Town Bridge to enjoy the breathtaking view from the Shepherd's Wall. The day ends with unforgettable panoramas and the feeling of having truly experienced the heart of Bohemian Switzerland."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Lendenbraten in Sahnesoße, ein tschechischer Klassiker. Probieren Sie es im Restaurant 'Fabrika'."
+          },
+          {
+            "name": "Knedlíky",
+            "tip": "Böhmische Knödel, die perfekte Beilage zu fast jedem Gericht."
+          },
+          {
+            "name": "Pivo (Bier)",
+            "tip": "Děčín hat eine lokale Brauerei, 'Nomád'. Probieren Sie deren Craft-Biere."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Vadas marha tejszínes mártással, egy cseh klasszikus. Kóstolja meg a 'Fabrika' étteremben."
+          },
+          {
+            "name": "Knedlíky",
+            "tip": "A knédli tökéletes köret szinte minden ételhez."
+          },
+          {
+            "name": "Pivo (Sör)",
+            "tip": "Děčínnek van egy helyi sörfőzdéje, a 'Nomád'. Kóstolja meg a kézműves söreiket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Mușchi de vită în sos de smântână, un clasic ceh. Încercați-l la restaurantul 'Fabrika'."
+          },
+          {
+            "name": "Knedlíky",
+            "tip": "Găluștele cehești, garnitura perfectă pentru aproape orice fel de mâncare."
+          },
+          {
+            "name": "Pivo (Bere)",
+            "tip": "Děčín are o berărie locală, 'Nomád'. Gustați berile lor artizanale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Sirloin in cream sauce, a Czech classic. Try it at the 'Fabrika' restaurant."
+          },
+          {
+            "name": "Knedlíky",
+            "tip": "Czech dumplings, the perfect side dish for almost any meal."
+          },
+          {
+            "name": "Pivo (Beer)",
+            "tip": "Děčín has a local brewery, 'Nomád'. Taste their craft beers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rosengarten",
+            "tip": "Ein ruhiger, duftender Ort hoch über der Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Elbufer",
+            "tip": "Ein Spaziergang am Flussufer, besonders bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Mariánská louka",
+            "tip": "Eine große Wiese, ideal für ein entspanntes Picknick.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rózsakert",
+            "tip": "Csendes, illatos hely magasan a város felett.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Elba-part",
+            "tip": "Séta a folyóparton, különösen naplementekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Mariánská louka",
+            "tip": "Nagy rét, ideális egy pihentető piknikhez.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina de Trandafiri",
+            "tip": "Un loc liniștit și parfumat, deasupra orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malul Elbei",
+            "tip": "O plimbare pe malul râului, mai ales la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Mariánská louka",
+            "tip": "O pajiște mare, ideală pentru un picnic relaxant.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rose Garden",
+            "tip": "A quiet, fragrant place high above the city.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Elbe Riverbank",
+            "tip": "A walk along the river, especially at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Mariánská louka",
+            "tip": "A large meadow, ideal for a relaxing picnic.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "OC Pivovar Děčín",
+            "tip": "Modernes Einkaufszentrum in einer ehemaligen Brauerei für alle Bedürfnisse."
+          },
+          {
+            "name": "Bauernmarkt",
+            "tip": "Suchen Sie nach lokalen Produkten und Handwerk auf dem Masaryk-Platz (saisonal)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "OC Pivovar Děčín",
+            "tip": "Modern bevásárlóközpont egy egykori sörfőzdében, minden igényt kielégít."
+          },
+          {
+            "name": "Termelői piac",
+            "tip": "Keressen helyi termékeket és kézműves árukat a Masaryk téren (szezonálisan)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "OC Pivovar Děčín",
+            "tip": "Centru comercial modern într-o fostă fabrică de bere pentru toate nevoile."
+          },
+          {
+            "name": "Piața fermierilor",
+            "tip": "Căutați produse locale și artizanat în Piața Masaryk (sezonier)."
+          }
+        ],
+        "en": [
+          {
+            "name": "OC Pivovar Děčín",
+            "tip": "Modern shopping center in a former brewery for all your needs."
+          },
+          {
+            "name": "Farmers' Market",
+            "tip": "Look for local products and crafts in Masaryk Square (seasonal)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Der Aufstieg zur Schäferwand ist steil, aber die Aussicht ist die Mühe wert.",
+          "Die meisten Sehenswürdigkeiten sind zu Fuß erreichbar, aber planen Sie Ihre Route, um unnötige Anstiege zu vermeiden.",
+          "Halten Sie immer etwas Bargeld bereit, da nicht alle kleinen Cafés oder Geschäfte Karten akzeptieren."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óvárosi macskakövek egyenetlenek lehetnek.",
+          "A Pásztorfalra való feljutás meredek, de a kilátás megéri a fáradságot.",
+          "A legtöbb látnivaló gyalog elérhető, de tervezze meg az útvonalat a felesleges emelkedők elkerülése érdekében.",
+          "Mindig tartson magánál készpénzt, mivel nem minden kis kávézó vagy üzlet fogad el kártyát."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece pavajul din centrul vechi poate fi denivelat.",
+          "Urcușul către Peretele Păstorului este abrupt, dar priveliștea merită efortul.",
+          "Majoritatea atracțiilor sunt accesibile pe jos, dar planificați-vă traseul pentru a evita urcușurile inutile.",
+          "Aveți întotdeauna niște numerar la îndemână, deoarece nu toate cafenelele sau magazinele mici acceptă carduri."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "The climb to the Shepherd's Wall is steep, but the view is worth the effort.",
+          "Most sights are within walking distance, but plan your route to avoid unnecessary climbs.",
+          "Always have some cash on hand, as not all small cafes or shops accept cards."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Masaryk-Platz",
+            "hu": "Masaryk tér",
+            "ro": "Piața Masaryk",
+            "en": "Masaryk Square"
+          },
+          "coords": [
+            14.2125,
+            50.7795
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad gut ab, bevor Sie den Platz erkunden.",
+            "hu": "Zárja le jól a kerékpárját, mielőtt felfedezné a teret.",
+            "ro": "Asigurați-vă bine bicicleta înainte de a explora piața.",
+            "en": "Lock your bike securely before exploring the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Altmädter Brücke (Staroměstský most)",
+            "hu": "Óvárosi híd (Staroměstský most)",
+            "ro": "Podul din Orașul Vechi (Staroměstský most)",
+            "en": "Old Town Bridge (Staroměstský most)"
+          },
+          "coords": [
+            14.2138,
+            50.7801
+          ],
+          "category": "bridges",
+          "arrive_at": "09:33",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Nutzen Sie den Radweg entlang der Elbe für eine malerische Anfahrt.",
+            "hu": "Használja az Elba menti kerékpárutat a festői megközelítéshez.",
+            "ro": "Folosiți pista de biciclete de-a lungul Elbei pentru o apropiere pitorească.",
+            "en": "Use the cycle path along the Elbe for a scenic approach."
+          }
+        },
+        {
+          "name": {
+            "de": "Pastýřská stěna (Schäferwand)",
+            "hu": "Pásztorfal (Pastýřská stěna)",
+            "ro": "Peretele Păstorului (Pastýřská stěna)",
+            "en": "Shepherd's Wall (Pastýřská stěna)"
+          },
+          "coords": [
+            14.2078,
+            50.7808
+          ],
+          "category": "natural features",
+          "arrive_at": "09:54",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Anstieg ist anspruchsvoll, aber es gibt einen Radweg. E-Bike empfohlen!",
+            "hu": "Az emelkedő kihívást jelent, de van kerékpárút. E-bike ajánlott!",
+            "ro": "Urcușul este solicitant, dar există o pistă de biciclete. Se recomandă o bicicletă electrică!",
+            "en": "The climb is challenging, but there is a bike path. E-bike recommended!"
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo Děčín",
+            "hu": "Děčíni Állatkert",
+            "ro": "Zoo Děčín",
+            "en": "Zoo Děčín"
+          },
+          "coords": [
+            14.2045,
+            50.7815
+          ],
+          "category": "animal-habitat",
+          "arrive_at": "11:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein toller Ort für eine längere Pause. Es gibt Fahrradständer am Eingang.",
+            "hu": "Nagyszerű hely egy hosszabb szünetre. A bejáratnál kerékpártárolók találhatók.",
+            "ro": "Un loc minunat pentru o pauză mai lungă. Există suporturi pentru biciclete la intrare.",
+            "en": "A great place for a longer break. There are bike racks at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Děčín",
+            "hu": "Děčíni kastély",
+            "ro": "Castelul Děčín",
+            "en": "Děčín Castle"
+          },
+          "coords": [
+            14.211,
+            50.7822
+          ],
+          "category": "castles",
+          "arrive_at": "13:21",
+          "stay_min": 90,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schieben Sie das Rad den steilen Schlossweg hinauf. Oben werden Sie belohnt.",
+            "hu": "Tolja fel a biciklit a meredek kastélyúton. Fent jutalomban lesz része.",
+            "ro": "Împingeți bicicleta pe drumul abrupt al castelului. Veți fi răsplătit la vârf.",
+            "en": "Push the bike up the steep castle road. You'll be rewarded at the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Rosengarten (Růžová zahrada)",
+            "hu": "Rózsakert (Růžová zahrada)",
+            "ro": "Grădina de Trandafiri (Růžová zahrada)",
+            "en": "Rose Garden (Růžová zahrada)"
+          },
+          "coords": [
+            14.2105,
+            50.7835
+          ],
+          "category": "parks",
+          "arrive_at": "14:53",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lassen Sie Ihr Fahrrad am Schlosseingang und genießen Sie den Garten zu Fuß.",
+            "hu": "Hagyja a kerékpárt a kastély bejáratánál, és élvezze a kertet gyalog.",
+            "ro": "Lăsați bicicleta la intrarea în castel și bucurați-vă de grădină pe jos.",
+            "en": "Leave your bike at the castle entrance and enjoy the garden on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Heiligkreuzkirche",
+            "hu": "Szent Kereszt templom",
+            "ro": "Biserica Sfânta Cruce",
+            "en": "Church of the Holy Cross"
+          },
+          "coords": [
+            14.2133,
+            50.7825
+          ],
+          "category": "churches",
+          "arrive_at": "15:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein Moment der Ruhe nach einer langen Radtour.",
+            "hu": "Egy pillanatnyi csend egy hosszú kerékpártúra után.",
+            "ro": "Un moment de liniște după o plimbare lungă cu bicicleta.",
+            "en": "A moment of peace after a long bike ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Děčín auf zwei Rädern. Der Morgen beginnt am Masaryk-Platz, gefolgt von einer Fahrt über die Elbe, um die Herausforderung der Schäferwand anzunehmen. Die Belohnung ist eine fantastische Aussicht und ein Besuch im Zoo. Gegen Mittag überqueren Sie den Fluss erneut und erklimmen den Schlosshügel. Dort erwartet Sie das prächtige Schloss und der ruhige Rosengarten. Der Nachmittag klingt mit einem besinnlichen Besuch in der Heiligkreuzkirche aus, bevor Sie zurück ins Stadtzentrum rollen. Eine perfekte Mischung aus sportlicher Aktivität und Kultur.",
+        "hu": "Fedezze fel Děčínt két keréken! A reggel a Masaryk téren indul, majd átkel az Elbán, hogy megküzdjön a Pásztorfal kihívásával. A jutalom egy fantasztikus kilátás és egy látogatás az állatkertben. Dél körül újra átkel a folyón, és megmássza a kastélydombot. Ott várja a pompás kastély és a csendes Rózsakert. A délután a Szent Kereszt templomban tett elmélkedő látogatással zárul, mielőtt visszagurulna a városközpontba. A sportos tevékenység és a kultúra tökéletes keveréke.",
+        "ro": "Explorați Děčín pe două roți. Dimineața începe în Piața Masaryk, urmată de o plimbare peste Elba pentru a accepta provocarea Peretelui Păstorului. Recompensa este o priveliște fantastică și o vizită la grădina zoologică. În jurul prânzului, traversați din nou râul și urcați pe dealul castelului. Acolo vă așteaptă magnificul castel și liniștita Grădină de Trandafiri. După-amiaza se încheie cu o vizită contemplativă la Biserica Sfânta Cruce înainte de a vă întoarce în centrul orașului. Un amestec perfect de activitate sportivă și cultură.",
+        "en": "Explore Děčín on two wheels. The morning starts at Masaryk Square, followed by a ride across the Elbe to take on the challenge of the Shepherd's Wall. The reward is a fantastic view and a visit to the zoo. Around noon, you'll cross the river again and climb the castle hill. The magnificent castle and the peaceful Rose Garden await you there. The afternoon ends with a contemplative visit to the Church of the Holy Cross before rolling back to the city center. A perfect mix of sporting activity and culture."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bramboráky",
+            "tip": "Herzhafte Kartoffelpuffer, perfekt als schneller und sättigender Snack."
+          },
+          {
+            "name": "Pstruh",
+            "tip": "Gebratene Forelle, oft in Restaurants entlang der Elbe serviert."
+          },
+          {
+            "name": "Kofola",
+            "tip": "Probieren Sie das tschechische Kräuter-Cola als erfrischendes, alkoholfreies Getränk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bramboráky",
+            "tip": "Kiadós burgonyalepény, tökéletes gyors és laktató harapnivalóként."
+          },
+          {
+            "name": "Pstruh",
+            "tip": "Sült pisztráng, gyakran szolgálják fel az Elba menti éttermekben."
+          },
+          {
+            "name": "Kofola",
+            "tip": "Kóstolja meg a cseh gyógynövényes kólát frissítő, alkoholmentes italként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bramboráky",
+            "tip": "Clătite de cartofi sărate, perfecte ca o gustare rapidă și sățioasă."
+          },
+          {
+            "name": "Pstruh",
+            "tip": "Păstrăv prăjit, servit adesea în restaurantele de pe malul Elbei."
+          },
+          {
+            "name": "Kofola",
+            "tip": "Încercați cola cehă din plante ca o băutură răcoritoare, non-alcoolică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bramboráky",
+            "tip": "Savory potato pancakes, perfect as a quick and filling snack."
+          },
+          {
+            "name": "Pstruh",
+            "tip": "Fried trout, often served in restaurants along the Elbe."
+          },
+          {
+            "name": "Kofola",
+            "tip": "Try the Czech herbal cola as a refreshing non-alcoholic drink."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Elberadweg",
+            "tip": "Eine ruhige Fahrt entlang des Flusses, weg vom Stadtverkehr.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schlosspark",
+            "tip": "Finden Sie eine ruhige Bank im weitläufigen Gelände des Schlosses.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussicht von der Schäferwand",
+            "tip": "Oben angekommen, ist die Aussicht friedlich und die Anstrengung wert.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Elba kerékpárút",
+            "tip": "Csendes tekerés a folyó mentén, távol a városi forgalomtól.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kastélypark",
+            "tip": "Keressen egy csendes padot a kastély tágas területén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Pásztorfalról",
+            "tip": "Ha felért, a kilátás békés és megéri a fáradságot.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de pe Elba",
+            "tip": "O plimbare liniștită de-a lungul râului, departe de traficul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul castelului",
+            "tip": "Găsiți o bancă liniștită pe terenul întins al castelului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Priveliștea de pe Peretele Păstorului",
+            "tip": "Odată ajuns în vârf, priveliștea este pașnică și merită efortul.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Elbe Cycle Path",
+            "tip": "A quiet ride along the river, away from the city traffic.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Castle Park",
+            "tip": "Find a quiet bench in the castle's expansive grounds.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from Shepherd's Wall",
+            "tip": "Once at the top, the view is peaceful and worth the effort.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "In Děčín gibt es mehrere Geschäfte für Fahrradzubehör, falls Sie etwas benötigen."
+          },
+          {
+            "name": "Lokale Souvenirs",
+            "tip": "Die Touristeninformation am Schloss verkauft Andenken mit Bezug zur Region Böhmische Schweiz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Děčínben több kerékpárbolt is található, ha szüksége lenne valamire."
+          },
+          {
+            "name": "Helyi szuvenírek",
+            "tip": "A kastélyban található turisztikai információs központ a Cseh-Svájc régióhoz kapcsolódó ajándéktárgyakat árul."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Există mai multe magazine în Děčín pentru accesorii de biciclete, în caz că aveți nevoie de ceva."
+          },
+          {
+            "name": "Suveniruri locale",
+            "tip": "Centrul de informare turistică de la castel vinde suveniruri legate de regiunea Elveția Boemă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "There are several shops in Děčín for bike accessories if you need anything."
+          },
+          {
+            "name": "Local Souvenirs",
+            "tip": "The tourist information center at the castle sells souvenirs related to the Bohemian Switzerland region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck und die Bremsen vor der Abfahrt.",
+          "Ein E-Bike wird für die Hügel rund um die Stadt dringend empfohlen.",
+          "Nutzen Sie den gut ausgebauten Elberadweg für flache und malerische Strecken.",
+          "Achten Sie in der Innenstadt auf Kopfsteinpflaster und Fußgänger.",
+          "Nehmen Sie ausreichend Wasser mit, besonders für den Anstieg zur Schäferwand."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást és a fékeket.",
+          "A város körüli dombokhoz erősen ajánlott egy e-bike.",
+          "Használja a jól kiépített Elba kerékpárutat a sík és festői szakaszokhoz.",
+          "A belvárosban figyeljen a macskakövekre és a gyalogosokra.",
+          "Vigyen magával elegendő vizet, különösen a Pásztorfalra való feljutáshoz."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope și frânele înainte de a pleca.",
+          "O bicicletă electrică este foarte recomandată pentru dealurile din jurul orașului.",
+          "Utilizați pista de biciclete bine dezvoltată de pe Elba pentru rute plate și pitorești.",
+          "Fiți atenți la pavaj și pietoni în centrul orașului.",
+          "Luați suficientă apă, mai ales pentru urcarea pe Peretele Păstorului."
+        ],
+        "en": [
+          "Check your tire pressure and brakes before setting off.",
+          "An e-bike is highly recommended for the hills around the city.",
+          "Use the well-developed Elbe Cycle Path for flat and scenic routes.",
+          "Be aware of cobblestones and pedestrians in the city center.",
+          "Bring enough water, especially for the climb to the Shepherd's Wall."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 11.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken am Masaryk-Platz",
+            "hu": "Parkolás a Masaryk téren",
+            "ro": "Parcare în Piața Masaryk",
+            "en": "Parking at Masaryk Square"
+          },
+          "coords": [
+            14.212,
+            50.7788
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Hier beginnt der erste Stadtrundgang. Parken Sie Ihr Auto und erkunden Sie die Altstadt zu Fuß.",
+            "hu": "Itt kezdődik az első városnéző séta. Parkolja le az autót, és fedezze fel az óvárost gyalog.",
+            "ro": "Primul tur pietonal al orașului începe aici. Parcați mașina și explorați orașul vechi pe jos.",
+            "en": "The first city walking tour starts here. Park your car and explore the old town on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Synagoge Děčín",
+            "hu": "Děčíni zsinagóga",
+            "ro": "Sinagoga din Děčín",
+            "en": "Synagogue Děčín"
+          },
+          "coords": [
+            14.215,
+            50.7798
+          ],
+          "category": "historical",
+          "arrive_at": "09:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz entfernt.",
+            "hu": "Rövid séta a főtértől.",
+            "ro": "La o scurtă plimbare de piața principală.",
+            "en": "A short walk from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Heiligkreuzkirche",
+            "hu": "Szent Kereszt templom",
+            "ro": "Biserica Sfânta Cruce",
+            "en": "Church of the Holy Cross"
+          },
+          "coords": [
+            14.2133,
+            50.7825
+          ],
+          "category": "churches",
+          "arrive_at": "10:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Weg führt durch die Gassen der Altstadt hinauf zur Kirche.",
+            "hu": "Az út az óváros sikátorain keresztül vezet fel a templomhoz.",
+            "ro": "Calea urcă spre biserică prin aleile orașului vechi.",
+            "en": "The path leads up to the church through the old town alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Děčín",
+            "hu": "Děčíni kastély",
+            "ro": "Castelul Děčín",
+            "en": "Děčín Castle"
+          },
+          "coords": [
+            14.211,
+            50.7822
+          ],
+          "category": "castles",
+          "arrive_at": "11:06",
+          "stay_min": 90,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Schlossparkplatz. Dies ist der zweite Cluster des Tages.",
+            "hu": "Hajtson a kastély parkolójába. Ez a nap második állomáscsoportja.",
+            "ro": "Conduceți la parcarea castelului. Acesta este al doilea grup de opriri al zilei.",
+            "en": "Drive to the castle parking lot. This is the second cluster of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Rosengarten (Růžová zahrada)",
+            "hu": "Rózsakert (Růžová zahrada)",
+            "ro": "Grădina de Trandafiri (Růžová zahrada)",
+            "en": "Rose Garden (Růžová zahrada)"
+          },
+          "coords": [
+            14.2105,
+            50.7835
+          ],
+          "category": "parks",
+          "arrive_at": "12:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Schloss aus ist der Garten nur einen kurzen Spaziergang entfernt. Perfekt für die Mittagszeit.",
+            "hu": "A kert csak egy rövid sétára van a kastélytól. Tökéletes ebédidőre.",
+            "ro": "Grădina este la o scurtă plimbare de castel. Perfect pentru pauza de prânz.",
+            "en": "The garden is just a short walk from the castle. Perfect for lunchtime."
+          }
+        },
+        {
+          "name": {
+            "de": "Pastýřská stěna (Schäferwand)",
+            "hu": "Pásztorfal (Pastýřská stěna)",
+            "ro": "Peretele Păstorului (Pastýřská stěna)",
+            "en": "Shepherd's Wall (Pastýřská stěna)"
+          },
+          "coords": [
+            14.2078,
+            50.7808
+          ],
+          "category": "natural features",
+          "arrive_at": "13:49",
+          "stay_min": 70,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie über die Brücke und parken Sie am Fuße des Felsens. Dritter und letzter Cluster.",
+            "hu": "Hajtson át a hídon, és parkoljon a szikla lábánál. Harmadik és utolsó állomáscsoport.",
+            "ro": "Traversați podul și parcați la baza stâncii. Al treilea și ultimul grup.",
+            "en": "Drive across the bridge and park at the base of the rock. Third and final cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo Děčín",
+            "hu": "Děčíni Állatkert",
+            "ro": "Zoo Děčín",
+            "en": "Zoo Děčín"
+          },
+          "coords": [
+            14.2045,
+            50.7815
+          ],
+          "category": "animal-habitat",
+          "arrive_at": "15:05",
+          "stay_min": 140,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Zoo liegt direkt nebenan und ist ein schöner Abschluss des Tages.",
+            "hu": "Az állatkert a szomszédban van, és szép lezárása a napnak.",
+            "ro": "Grădina zoologică este chiar alături și reprezintă o încheiere frumoasă a zilei.",
+            "en": "The zoo is right next door and makes for a nice end to the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto entdecken Sie Děčín in komfortablen Etappen. Parken Sie morgens im Zentrum und erkunden Sie zu Fuß den historischen Kern um den Masaryk-Platz. Mittags fahren Sie zum Schloss-Cluster, wo Sie das majestätische Schloss und den duftenden Rosengarten ohne Parkplatzsorgen genießen. Am Nachmittag wechseln Sie auf die andere Elbseite zum Natur-Cluster, wo die beeindruckende Schäferwand und der charmante Zoo auf Sie warten. Diese Methode kombiniert die Flexibilität des Autos mit intensiven Spaziergängen und lässt Sie die Vielfalt der Stadt stressfrei erleben.",
+        "hu": "Autóval kényelmes szakaszokban fedezheti fel Děčínt. Reggel parkoljon a központban, és sétálva fedezze fel a Masaryk tér körüli történelmi magot. Délben hajtson a kastély-klaszterhez, ahol parkolási gondok nélkül élvezheti a fenséges kastélyt és az illatos rózsakertet. Délután váltson át az Elba másik oldalára a természet-klaszterhez, ahol a lenyűgöző Pásztorfal és a bájos állatkert várja. Ez a módszer ötvözi az autó rugalmasságát az intenzív sétákkal, és lehetővé teszi, hogy stresszmentesen tapasztalja meg a város sokszínűségét.",
+        "ro": "Cu mașina, descoperiți Děčín în etape confortabile. Parcați în centru dimineața și explorați pe jos nucleul istoric din jurul Pieței Masaryk. La prânz, conduceți spre grupul castelului, unde vă puteți bucura de castelul maiestuos și de grădina parfumată de trandafiri fără grija parcării. După-amiaza, treceți pe cealaltă parte a Elbei la grupul natural, unde vă așteaptă impresionantul Perete al Păstorului și fermecătoarea grădină zoologică. Această metodă combină flexibilitatea mașinii cu plimbări intense, permițându-vă să experimentați diversitatea orașului fără stres.",
+        "en": "By car, you can discover Děčín in comfortable stages. Park in the center in the morning and explore the historic core around Masaryk Square on foot. At noon, drive to the castle cluster, where you can enjoy the majestic castle and fragrant rose garden without parking worries. In the afternoon, switch to the other side of the Elbe to the nature cluster, where the impressive Shepherd's Wall and the charming zoo await. This method combines the flexibility of the car with intensive walks, allowing you to experience the city's diversity stress-free."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurace na Skále",
+            "tip": "Restaurant mit toller Aussicht auf der Schäferwand. Ideal für eine Pause am Nachmittag."
+          },
+          {
+            "name": "Česnečka",
+            "tip": "Eine kräftige Knoblauchsuppe, die oft mit Croutons und Käse serviert wird. Perfekt zum Aufwärmen."
+          },
+          {
+            "name": "Trdelník",
+            "tip": "Obwohl nicht traditionell böhmisch, ist dieser süße Gebäckzylinder ein beliebter Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurace na Skále",
+            "tip": "Étterem remek kilátással a Pásztorfalon. Ideális egy délutáni szünetre."
+          },
+          {
+            "name": "Česnečka",
+            "tip": "Erőteljes fokhagymaleves, amelyet gyakran krutonnal és sajttal tálalnak. Tökéletes a felmelegedéshez."
+          },
+          {
+            "name": "Trdelník (Kürtőskalács)",
+            "tip": "Bár nem hagyományosan cseh, ez az édes süteményhenger népszerű harapnivaló."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurace na Skále",
+            "tip": "Restaurant cu o priveliște minunată pe Peretele Păstorului. Ideal pentru o pauză de după-amiază."
+          },
+          {
+            "name": "Česnečka",
+            "tip": "O supă de usturoi consistentă, adesea servită cu crutoane și brânză. Perfectă pentru a te încălzi."
+          },
+          {
+            "name": "Trdelník",
+            "tip": "Deși nu este tradițional boem, acest cilindru de patiserie dulce este o gustare populară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurace na Skále",
+            "tip": "Restaurant with a great view on the Shepherd's Wall. Ideal for an afternoon break."
+          },
+          {
+            "name": "Česnečka",
+            "tip": "A hearty garlic soup, often served with croutons and cheese. Perfect for warming up."
+          },
+          {
+            "name": "Trdelník",
+            "tip": "Although not traditionally Bohemian, this sweet pastry cylinder is a popular snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Marienfelsen (Mariina skála)",
+            "tip": "Eine kurze Fahrt außerhalb der Stadt für noch spektakulärere Ausblicke über die Region.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schlossgärten",
+            "tip": "Die Gärten unterhalb des Rosengartens sind oft weniger besucht und sehr friedlich.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang am Fluss",
+            "tip": "Parken Sie das Auto und machen Sie einen ruhigen Spaziergang entlang des Elbufers.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mária-szikla (Mariina skála)",
+            "tip": "Rövid autóút a városon kívülre, ahonnan még látványosabb kilátás nyílik a régióra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kastélykertek",
+            "tip": "A Rózsakert alatti kertek gyakran kevésbé látogatottak és nagyon békések.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Séta a folyóparton",
+            "tip": "Parkolja le az autót, és tegyen egy csendes sétát az Elba partján.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stânca Mariei (Mariina skála)",
+            "tip": "O scurtă călătorie cu mașina în afara orașului pentru priveliști și mai spectaculoase asupra regiunii.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile castelului",
+            "tip": "Grădinile de sub Grădina de Trandafiri sunt adesea mai puțin aglomerate și foarte pașnice.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare pe malul râului",
+            "tip": "Parcați mașina și faceți o plimbare liniștită de-a lungul malului Elbei.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mary's Rock (Mariina skála)",
+            "tip": "A short drive out of town for even more spectacular views over the region.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Castle Gardens",
+            "tip": "The gardens below the Rose Garden are often less crowded and very peaceful.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "River Walk",
+            "tip": "Park the car and take a quiet stroll along the Elbe riverbank.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Böhmisches Glas",
+            "tip": "Suchen Sie in den Souvenirläden nach lokal hergestelltem böhmischem Glas und Kristall."
+          },
+          {
+            "name": "Kräuterlikör Becherovka",
+            "tip": "Ein berühmter tschechischer Likör, ein tolles Souvenir. In jedem Spirituosengeschäft erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cseh üveg",
+            "tip": "Keressen helyben készült cseh üveget és kristályt az ajándékboltokban."
+          },
+          {
+            "name": "Becherovka gyógynövénylikőr",
+            "tip": "Híres cseh likőr, nagyszerű ajándék. Minden italboltban kapható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sticlă de Boemia",
+            "tip": "Căutați sticlă și cristal de Boemia fabricate local în magazinele de suveniruri."
+          },
+          {
+            "name": "Lichior de plante Becherovka",
+            "tip": "Un lichior ceh faimos, un suvenir minunat. Disponibil în orice magazin de băuturi alcoolice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bohemian Glass",
+            "tip": "Look for locally made Bohemian glass and crystal in the souvenir shops."
+          },
+          {
+            "name": "Becherovka herbal liqueur",
+            "tip": "A famous Czech liqueur, a great souvenir. Available in any liquor store."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die ausgewiesenen Parkplätze und beachten Sie die Parkgebühren.",
+          "Die Straßen können eng sein, fahren Sie also vorsichtig, besonders in der Altstadt.",
+          "Ein GPS ist nützlich, um zwischen den verschiedenen Stadtteilen zu navigieren.",
+          "Planen Sie Ihre Route so, dass Sie Stoßzeiten vermeiden, insbesondere auf den Brücken.",
+          "Lassen Sie keine Wertsachen sichtbar im Auto liegen, wenn Sie parken."
+        ],
+        "hu": [
+          "Használja a kijelölt parkolókat, és figyeljen a parkolási díjakra.",
+          "Az utcák szűkek lehetnek, ezért vezessen óvatosan, különösen az óvárosban.",
+          "GPS hasznos a különböző városrészek közötti navigációhoz.",
+          "Tervezze meg az útvonalat a csúcsforgalom elkerülése érdekében, különösen a hidakon.",
+          "Parkoláskor ne hagyjon értéktárgyakat látható helyen az autóban."
+        ],
+        "ro": [
+          "Folosiți parcările desemnate și fiți atenți la taxele de parcare.",
+          "Străzile pot fi înguste, așa că șofați cu prudență, mai ales în orașul vechi.",
+          "Un GPS este util pentru a naviga între diferitele cartiere.",
+          "Planificați-vă traseul pentru a evita orele de vârf, în special pe poduri.",
+          "Nu lăsați obiecte de valoare la vedere în mașină când parcați."
+        ],
+        "en": [
+          "Use designated parking lots and pay attention to parking fees.",
+          "The streets can be narrow, so drive carefully, especially in the old town.",
+          "A GPS is useful for navigating between the different parts of the city.",
+          "Plan your route to avoid rush hours, especially on the bridges.",
+          "Do not leave valuables visible in the car when parking."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:41",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof",
+            "hu": "Érkezés a buszpályaudvarra",
+            "ro": "Sosire la autogară",
+            "en": "Arrival at the Bus Station"
+          },
+          "coords": [
+            14.2178,
+            50.7761
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr für maximale Flexibilität.",
+            "hu": "Vásároljon napijegyet a tömegközlekedéshez a maximális rugalmasság érdekében.",
+            "ro": "Cumpărați un bilet de o zi pentru transportul public pentru flexibilitate maximă.",
+            "en": "Buy a day ticket for public transport for maximum flexibility."
+          }
+        },
+        {
+          "name": {
+            "de": "Masaryk-Platz",
+            "hu": "Masaryk tér",
+            "ro": "Piața Masaryk",
+            "en": "Masaryk Square"
+          },
+          "coords": [
+            14.2125,
+            50.7795
+          ],
+          "category": "squares",
+          "arrive_at": "09:23",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Viele Buslinien halten hier. Ein idealer Ausgangspunkt.",
+            "hu": "Sok buszjárat megáll itt. Ideális kiindulópont.",
+            "ro": "Multe linii de autobuz opresc aici. Un punct de plecare ideal.",
+            "en": "Many bus lines stop here. An ideal starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Heiligkreuzkirche",
+            "hu": "Szent Kereszt templom",
+            "ro": "Biserica Sfânta Cruce",
+            "en": "Church of the Holy Cross"
+          },
+          "coords": [
+            14.2133,
+            50.7825
+          ],
+          "category": "churches",
+          "arrive_at": "09:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Masaryk-Platz.",
+            "hu": "Rövid séta a Masaryk tértől.",
+            "ro": "La o scurtă plimbare de Piața Masaryk.",
+            "en": "A short walk from Masaryk Square."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Děčín",
+            "hu": "Děčíni kastély",
+            "ro": "Castelul Děčín",
+            "en": "Děčín Castle"
+          },
+          "coords": [
+            14.211,
+            50.7822
+          ],
+          "category": "castles",
+          "arrive_at": "10:42",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Schloss aus können Sie den Rosengarten (nächster Halt) leicht zu Fuß erreichen.",
+            "hu": "A kastélytól könnyen elérhető gyalog a Rózsakert (következő megálló).",
+            "ro": "De la castel, puteți ajunge cu ușurință pe jos la Grădina de Trandafiri (următoarea oprire).",
+            "en": "From the castle, you can easily walk to the Rose Garden (next stop)."
+          }
+        },
+        {
+          "name": {
+            "de": "Pastýřská stěna (Schäferwand)",
+            "hu": "Pásztorfal (Pastýřská stěna)",
+            "ro": "Peretele Păstorului (Pastýřská stěna)",
+            "en": "Shepherd's Wall (Pastýřská stěna)"
+          },
+          "coords": [
+            14.2078,
+            50.7808
+          ],
+          "category": "natural features",
+          "arrive_at": "13:03",
+          "stay_min": 90,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus, der über die Elbe fährt. Steigen Sie an der Haltestelle 'U Zámku' aus.",
+            "hu": "Szálljon fel egy buszra, amely átmegy az Elbán. Szálljon le az 'U Zámku' megállónál.",
+            "ro": "Luați un autobuz care traversează Elba. Coborâți la stația 'U Zámku'.",
+            "en": "Take a bus that crosses the Elbe. Get off at the 'U Zámku' stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo Děčín",
+            "hu": "Děčíni Állatkert",
+            "ro": "Zoo Děčín",
+            "en": "Zoo Děčín"
+          },
+          "coords": [
+            14.2045,
+            50.7815
+          ],
+          "category": "animal-habitat",
+          "arrive_at": "14:39",
+          "stay_min": 150,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Zoo ist vom Aussichtspunkt aus leicht zu Fuß zu erreichen.",
+            "hu": "Az állatkert könnyen megközelíthető a kilátótól gyalog.",
+            "ro": "Grădina zoologică este la o distanță mică de mers pe jos de punctul de belvedere.",
+            "en": "The zoo is within easy walking distance from the viewpoint."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Děčín mit öffentlichen Verkehrsmitteln zu erleben ist einfach und effizient. Beginnen Sie am Masaryk-Platz, dem Knotenpunkt der Stadt. Ein kurzer Spaziergang führt Sie zu den historischen Schätzen des Stadtzentrums. Nach dem ausgiebigen Besuch des Schlosses bringt Sie ein Bus bequem über den Fluss. Dort erwartet Sie der zweite Teil des Tages: der beeindruckende Ausblick von der Schäferwand und ein entspannter Nachmittag im Zoo. Mit einer Tageskarte können Sie sich frei bewegen und die Stadt aus der Perspektive eines Einheimischen entdecken.",
+        "hu": "Děčínt tömegközlekedéssel felfedezni egyszerű és hatékony. Kezdje a Masaryk téren, a város csomópontjában. Egy rövid séta elvezeti a városközpont történelmi kincseihez. A kastély alapos megtekintése után egy busz kényelmesen átviszi a folyón. Ott várja a nap második része: a lenyűgöző kilátás a Pásztorfalról és egy pihentető délután az állatkertben. Napijeggyel szabadon mozoghat, és egy helyi szemszögéből fedezheti fel a várost.",
+        "ro": "Experimentarea orașului Děčín cu transportul public este ușoară și eficientă. Începeți din Piața Masaryk, nodul central al orașului. O scurtă plimbare vă duce la comorile istorice din centrul orașului. După o vizită extinsă la castel, un autobuz vă duce confortabil peste râu. Acolo vă așteaptă a doua parte a zilei: priveliștea impresionantă de pe Peretele Păstorului și o după-amiază relaxantă la grădina zoologică. Cu un bilet de o zi, vă puteți deplasa liber și descoperi orașul din perspectiva unui localnic.",
+        "en": "Experiencing Děčín by public transport is easy and efficient. Start at Masaryk Square, the city's hub. A short walk takes you to the historical treasures of the city center. After an extensive visit to the castle, a bus will comfortably take you across the river. There, the second part of the day awaits you: the impressive view from the Shepherd's Wall and a relaxing afternoon at the zoo. With a day ticket, you can move freely and discover the city from a local's perspective."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pekárna (Bäckerei)",
+            "tip": "Holen Sie sich frisches Gebäck für unterwegs in einer der vielen Bäckereien."
+          },
+          {
+            "name": "Guláš",
+            "tip": "Ein herzhaftes Gulasch mit Knödeln ist eine perfekte Mahlzeit an einem kühlen Tag."
+          },
+          {
+            "name": "Lokální pivo",
+            "tip": "Fragen Sie in den Kneipen nach lokalen Biersorten, die nicht überall erhältlich sind."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pekárna (Pékség)",
+            "tip": "Vegyen friss péksüteményt útközben a sok pékség egyikében."
+          },
+          {
+            "name": "Guláš (Gulyás)",
+            "tip": "Egy kiadós gulyás knédlivel tökéletes étel egy hűvös napon."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Kérdezzen a kocsmákban olyan helyi sörökről, amelyek nem mindenhol kaphatók."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pekárna (Brutărie)",
+            "tip": "Luați produse de patiserie proaspete pentru drum de la una dintre numeroasele brutării."
+          },
+          {
+            "name": "Guláš",
+            "tip": "Un gulaș consistent cu găluște este o masă perfectă într-o zi răcoroasă."
+          },
+          {
+            "name": "Bere locală",
+            "tip": "Întrebați în pub-uri despre berile locale care nu sunt disponibile peste tot."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pekárna (Bakery)",
+            "tip": "Get some fresh pastries for the road at one of the many bakeries."
+          },
+          {
+            "name": "Guláš (Goulash)",
+            "tip": "A hearty goulash with dumplings is a perfect meal on a cool day."
+          },
+          {
+            "name": "Local beer",
+            "tip": "Ask in pubs for local beers that are not available everywhere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt über die Elbe",
+            "tip": "Genießen Sie die Aussicht vom Busfenster aus, während Sie den Fluss überqueren.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Synagogen-Garten",
+            "tip": "Der kleine Garten hinter der Synagoge ist ein Ort der Stille.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Obere Terrasse des Rosengartens",
+            "tip": "Finden Sie eine Bank mit Blick auf die Stadt und die Elbe.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Utazás az Elba felett",
+            "tip": "Élvezze a kilátást a busz ablakából, miközben átkel a folyón.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Zsinagóga kertje",
+            "tip": "A zsinagóga mögötti kis kert a csend helye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Rózsakert felső terasza",
+            "tip": "Keressen egy padot, ahonnan kilátás nyílik a városra és az Elbára.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătorie peste Elba",
+            "tip": "Bucurați-vă de priveliștea de la fereastra autobuzului în timp ce traversați râul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina sinagogii",
+            "tip": "Mica grădină din spatele sinagogii este un loc de liniște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Terasa superioară a Grădinii de Trandafiri",
+            "tip": "Găsiți o bancă cu vedere la oraș și la Elba.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ride over the Elbe",
+            "tip": "Enjoy the view from the bus window as you cross the river.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Synagogue Garden",
+            "tip": "The small garden behind the synagogue is a place of silence.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Upper terrace of the Rose Garden",
+            "tip": "Find a bench with a view of the city and the Elbe.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Trafika (Kiosk)",
+            "tip": "Hier können Sie Fahrkarten, Getränke und kleine Snacks kaufen."
+          },
+          {
+            "name": "Buchhandlung",
+            "tip": "Finden Sie Bücher über die Region oder Postkarten in einer der örtlichen Buchhandlungen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trafika (Kioszk)",
+            "tip": "Itt vásárolhat jegyeket, italokat és kis harapnivalókat."
+          },
+          {
+            "name": "Könyvesbolt",
+            "tip": "Keressen könyveket a régióról vagy képeslapokat az egyik helyi könyvesboltban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trafika (Chioșc)",
+            "tip": "Aici puteți cumpăra bilete, băuturi și mici gustări."
+          },
+          {
+            "name": "Librărie",
+            "tip": "Găsiți cărți despre regiune sau vederi într-una dintre librăriile locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trafika (Kiosk)",
+            "tip": "You can buy tickets, drinks, and small snacks here."
+          },
+          {
+            "name": "Bookstore",
+            "tip": "Find books about the region or postcards in one of the local bookstores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die offizielle App für den öffentlichen Nahverkehr herunter, um Fahrpläne und Routen zu überprüfen.",
+          "Eine Tageskarte ist in der Regel günstiger als mehrere Einzelfahrkarten.",
+          "Geben Sie älteren Fahrgästen Ihren Sitzplatz.",
+          "Drücken Sie rechtzeitig den 'Stopp'-Knopf, bevor Ihre Haltestelle kommt.",
+          "Behalten Sie den Fahrplan im Auge, besonders am Abend, wenn die Busse seltener fahren."
+        ],
+        "hu": [
+          "Töltse le a hivatalos tömegközlekedési alkalmazást a menetrendek és útvonalak ellenőrzéséhez.",
+          "Egy napijegy általában olcsóbb, mint több egyedi jegy.",
+          "Adja át a helyét az idősebb utasoknak.",
+          "Nyomja meg időben a 'Stop' gombot, mielőtt a megállója következik.",
+          "Tartsa szemmel a menetrendet, különösen este, amikor a buszok ritkábban járnak."
+        ],
+        "ro": [
+          "Descărcați aplicația oficială de transport public pentru a verifica orarele și rutele.",
+          "Un bilet de o zi este de obicei mai ieftin decât mai multe bilete individuale.",
+          "Cedați locul pasagerilor mai în vârstă.",
+          "Apăsați butonul 'Stop' la timp înainte de a ajunge la stația dvs.",
+          "Fiți cu ochii pe orar, mai ales seara, când autobuzele circulă mai rar."
+        ],
+        "en": [
+          "Download the official public transport app to check timetables and routes.",
+          "A day ticket is usually cheaper than several single tickets.",
+          "Give your seat to elderly passengers.",
+          "Press the 'Stop' button in time before your stop arrives.",
+          "Keep an eye on the timetable, especially in the evening when buses run less frequently."
+        ]
+      }
+    }
+  }
+}

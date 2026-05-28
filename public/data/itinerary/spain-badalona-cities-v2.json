@@ -1,0 +1,1812 @@
+{
+  "city_id": "spain-badalona-cities-v2",
+  "anchor": {
+    "name": "Badalona",
+    "coords": [
+      41.4501,
+      2.2474
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "20:54",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rambla von Badalona",
+            "hu": "Badalona rambla-sétánya",
+            "ro": "Rambla din Badalona",
+            "en": "Badalona Rambla"
+          },
+          "coords": [
+            41.4507,
+            2.2461
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Perfekt für Kaffee und Orientierung am Morgen.",
+            "hu": "Jó kávé és induló eligazodás reggelre.",
+            "ro": "Bună pentru cafea și orientare la începutul zilei.",
+            "en": "Great for coffee and getting oriented in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Pavillard",
+            "hu": "Casa Pavillard",
+            "ro": "Casa Pavillard",
+            "en": "Casa Pavillard"
+          },
+          "coords": [
+            41.4494,
+            2.2476
+          ],
+          "category": "historical",
+          "arrive_at": "09:41",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Halte kurz an der Fassade, die Details lohnen sich.",
+            "hu": "Állj meg a homlokzatnál, a részletek szépek közelről.",
+            "ro": "Oprește-te la fațadă; detaliile se văd cel mai bine aproape.",
+            "en": "Pause for the facade; the details are worth a close look."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Sant Jeroni",
+            "hu": "Sant Jeroni kolostor",
+            "ro": "Mănăstirea Sant Jeroni",
+            "en": "Sant Jeroni Monastery"
+          },
+          "coords": [
+            41.4556,
+            2.2423
+          ],
+          "category": "religious",
+          "arrive_at": "11:23",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Plane hier etwas Ruhe ein, der Hof wirkt am besten ohne Eile.",
+            "hu": "Itt érdemes lassítani, az udvar nyugalma adja a hely hangulatát.",
+            "ro": "Păstrează timp pentru liniște; curtea se simte cel mai bine fără grabă.",
+            "en": "Leave room for quiet here; the courtyard works best without rushing."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Badalona",
+            "hu": "Badalona Múzeum",
+            "ro": "Muzeul Badalona",
+            "en": "Badalona Museum"
+          },
+          "coords": [
+            41.4488,
+            2.2452
+          ],
+          "category": "museum",
+          "arrive_at": "12:23",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Mittags ist das die beste Indoor-Pause.",
+            "hu": "Délben ez a legjobb fedett pihenőpont.",
+            "ro": "La prânz e cea mai bună pauză la interior.",
+            "en": "This is the best indoor break around midday."
+          }
+        },
+        {
+          "name": {
+            "de": "Anís-del-Mono-Fabrik",
+            "hu": "Anís del Mono gyár",
+            "ro": "Fabrica Anís del Mono",
+            "en": "Anís del Mono Factory"
+          },
+          "coords": [
+            41.4479,
+            2.2448
+          ],
+          "category": "historical",
+          "arrive_at": "14:09",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurz, konzentriert und gut als Industrie-Kontrast.",
+            "hu": "Rövid, sűrű és jó ellenpont a napba.",
+            "ro": "Scurtă, concentrată și bună ca oprire industrială.",
+            "en": "Short, focused, and a nice industrial contrast."
+          }
+        },
+        {
+          "name": {
+            "de": "Can Solei i Ca l'Arnús Park",
+            "hu": "Can Solei i Ca l'Arnús park",
+            "ro": "Parcul Can Solei i Ca l'Arnús",
+            "en": "Can Solei i Ca l'Arnús Park"
+          },
+          "coords": [
+            41.4562,
+            2.252
+          ],
+          "category": "park",
+          "arrive_at": "15:47",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Such die schattigen Bänke für die beste Pause.",
+            "hu": "Az árnyékos padok a legjobb megállót adják.",
+            "ro": "Caută băncile umbroase pentru cea mai bună pauză.",
+            "en": "Look for the shady benches for the best break."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Badalona",
+            "hu": "Badalona strand",
+            "ro": "Plaja Badalona",
+            "en": "Badalona Beach"
+          },
+          "coords": [
+            41.4441,
+            2.255
+          ],
+          "category": "beach",
+          "arrive_at": "17:24",
+          "stay_min": 180,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Am späten Nachmittag wird das Licht hier am schönsten.",
+            "hu": "Késő délután itt a legszebb a fény a vízen.",
+            "ro": "Spre seară lumina e cea mai frumoasă pe apă.",
+            "en": "Late afternoon brings the nicest light on the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittags zieht dich die Rambla in das Zentrum der Stadt. Mittags verbinden Casa Pavillard, das Monestir und das Museum Geschichte ohne Eile.\n\nNachmittags wird es grüner im Can Solei, bevor das Meer übernimmt. Abends bleibt an der Platja genug Zeit für einen langen Blick aufs Wasser.",
+        "hu": "Reggel a Rambla adja az indulást, innen gyorsan bejárható a belváros. Délben jön a Casa Pavillard, a Monestir és a Múzeum, jó egymás utáni sorrendben.\n\nDélután a Can Solei zöldje és a tengerpart váltakozik. Estére a strand kapja a főszerepet, naplementével és hosszú vízparti sétával.",
+        "ro": "Dimineața începi pe Rambla, ușor de parcurs pe jos. La prânz vin Casa Pavillard, mănăstirea și muzeul, toate aproape una de alta.\n\nDupă-amiaza treci în zona verde și apoi spre mare. Seara, plaja e locul ideal pentru lumină caldă și o pauză lungă.",
+        "en": "Morning starts on the Rambla, an easy urban warm-up. Around midday, Casa Pavillard, the monastery and the museum stack neatly.\n\nIn the afternoon, switch to the park and then the waterfront. Evening belongs to the beach, best enjoyed slowly at sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "suquet de peix",
+            "tip": "Im Chiringuito an der Platja de Badalona mit Blick aufs Meer bestellen."
+          },
+          {
+            "name": "fideuà marinera",
+            "tip": "Gut für ein langes Mittagessen nach dem Museum."
+          },
+          {
+            "name": "arroz a banda",
+            "tip": "Am besten in einer einfachen Strandküche, frisch und heiß."
+          },
+          {
+            "name": "gegrillte sardinen",
+            "tip": "Perfekt als frühes Abendessen nahe der Promenade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "suquet de peix",
+            "tip": "A part menti chiringuitóban kérd, hideg fehérborral."
+          },
+          {
+            "name": "fideuà marinera",
+            "tip": "Jó hosszú ebédre a múzeum után."
+          },
+          {
+            "name": "arroz a banda",
+            "tip": "Egy egyszerű strandétteremben a legjobb."
+          },
+          {
+            "name": "grillezett szardínia",
+            "tip": "Késő délutáni, sós tengeri falat a sétány mellett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "suquet de peix",
+            "tip": "Comandă-l într-un chiringuito de pe plajă, cu vedere la mare."
+          },
+          {
+            "name": "fideuà marinera",
+            "tip": "Excelentă pentru un prânz lung după muzeu."
+          },
+          {
+            "name": "arroz a banda",
+            "tip": "Cel mai bun într-o bucătărie simplă de pe litoral."
+          },
+          {
+            "name": "sardine la grătar",
+            "tip": "Perfecte pentru o cină devreme lângă promenadă."
+          }
+        ],
+        "en": [
+          {
+            "name": "suquet de peix",
+            "tip": "Best ordered at a beachfront chiringuito with sea views."
+          },
+          {
+            "name": "fideuà marinera",
+            "tip": "A great long lunch after the museum stop."
+          },
+          {
+            "name": "arroz a banda",
+            "tip": "Works best in a simple seaside kitchen, fresh and hot."
+          },
+          {
+            "name": "grilled sardines",
+            "tip": "Perfect as an early dinner near the promenade."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pont del Petroli",
+            "tip": "30 Minuten vor Sonnenuntergang die beste Lichtkante.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Strand von Badalona",
+            "tip": "Wähle einen ruhigen Abschnitt östlich des Zentrums.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Can Solei i Ca l'Arnús Park",
+            "tip": "Unter den Bäumen sitzt man hier angenehm kühl.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Rambla von Badalona",
+            "tip": "Später Abend, wenn die Cafés leiser werden.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pont del Petroli",
+            "tip": "Naplemente előtt fél órával a legjobb a látvány.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Badalona strand",
+            "tip": "Válassz egy csendesebb részt a központtól keletre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Can Solei i Ca l'Arnús park",
+            "tip": "A fák alatt kellemesen hűvös a pihenő.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Badalona rambla-sétánya",
+            "tip": "Késő este, amikor a kávézók már csendesebbek.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pont del Petroli",
+            "tip": "Cu 30 de minute înainte de apus e lumina cea mai bună.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plaja Badalona",
+            "tip": "Alege o zonă mai liniștită la est de centru.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Can Solei i Ca l'Arnús",
+            "tip": "Sub copaci găsești umbră bună și pauză plăcută.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Rambla din Badalona",
+            "tip": "Seara târziu, când cafenelele se liniștesc.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pont del Petroli",
+            "tip": "The best light comes about 30 minutes before sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Badalona Beach",
+            "tip": "Pick a quieter stretch east of the center.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Can Solei i Ca l'Arnús Park",
+            "tip": "The trees make this a cool and easy break.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Badalona Rambla",
+            "tip": "Late evening is calmer once the cafes slow down.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mini-Flasche Anís del Mono",
+            "tip": "Das bekannteste Souvenir, leicht im Rucksack mitzunehmen."
+          },
+          {
+            "name": "Postkarten vom Pont del Petroli",
+            "tip": "Gut für ein kleines Küsten-Mitbringsel."
+          },
+          {
+            "name": "Bäckereiwaren von der Rambla",
+            "tip": "Nimm etwas Süßes für den Strandabend mit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "mini Anís del Mono üveg",
+            "tip": "A legismertebb szuvenír, könnyű hazavinni."
+          },
+          {
+            "name": "Pont del Petroli képeslapok",
+            "tip": "Szép kis part menti emlék."
+          },
+          {
+            "name": "rambla-i péksütemények",
+            "tip": "Édesség a strandos estére."
+          }
+        ],
+        "ro": [
+          {
+            "name": "sticluță mică Anís del Mono",
+            "tip": "Suvenirul cel mai cunoscut și ușor de pus în bagaj."
+          },
+          {
+            "name": "vederi de la Pont del Petroli",
+            "tip": "Un mic suvenir de coastă, simplu și bun."
+          },
+          {
+            "name": "patiserie de pe Rambla",
+            "tip": "Ia ceva dulce pentru seara de pe plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "mini Anís del Mono bottle",
+            "tip": "The classic souvenir and easy to pack."
+          },
+          {
+            "name": "Pont del Petroli postcards",
+            "tip": "A simple coastal keepsake."
+          },
+          {
+            "name": "Rambla bakery pastries",
+            "tip": "Grab something sweet for the beach evening."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nimm Wasser mit; die Strandabschnitte kommen erst am Nachmittag.",
+          "Für das Monestir und den Park sind bequeme Schuhe sinnvoll.",
+          "Wenn die Sonne stark ist, verlege das Museum eher in die Mittagsstunden.",
+          "Plane den Strand als langen Endpunkt ein, nicht als schnellen Zwischenstopp."
+        ],
+        "hu": [
+          "Vigyél vizet; a strand csak délután lesz igazán jó.",
+          "A kolostorhoz és a parkhoz kényelmes cipő kell.",
+          "Erős napnál a múzeum jó déli menedék.",
+          "A strandot inkább hosszú zárásnak tervezd, ne rövid közbeiktatásnak."
+        ],
+        "ro": [
+          "Ia apă cu tine; plaja devine cu adevărat bună abia după-amiază.",
+          "Pentru mănăstire și parc sunt utile încălțări comode.",
+          "Când soarele e puternic, muzeul e o pauză foarte bună la prânz.",
+          "Plaja merită tratată ca final lung, nu ca oprire rapidă."
+        ],
+        "en": [
+          "Bring water; the beach is really worth it only later in the day.",
+          "Comfortable shoes help for the monastery and the park.",
+          "When the sun is strong, the museum works best as your midday break.",
+          "Treat the beach as a long finish, not a quick in-between stop."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "20:13",
+      "total_km": 4.7,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Rambla von Badalona",
+            "hu": "Badalona rambla-sétánya",
+            "ro": "Rambla din Badalona",
+            "en": "Badalona Rambla"
+          },
+          "coords": [
+            41.4507,
+            2.2461
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein lockerer Start, bevor die Küstenroute beginnt.",
+            "hu": "Laza indítás a parti körhez.",
+            "ro": "Start lejer înainte de traseul de coastă.",
+            "en": "A relaxed start before the coastal ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Pavillard",
+            "hu": "Casa Pavillard",
+            "ro": "Casa Pavillard",
+            "en": "Casa Pavillard"
+          },
+          "coords": [
+            41.4494,
+            2.2476
+          ],
+          "category": "historical",
+          "arrive_at": "09:37",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurz anhalten, dann wieder in den Flow kommen.",
+            "hu": "Állj meg röviden, aztán mehetsz tovább a flow-val.",
+            "ro": "Oprește-te puțin, apoi revino repede la ritm.",
+            "en": "Stop briefly, then roll back into the rhythm."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Sant Jeroni",
+            "hu": "Sant Jeroni kolostor",
+            "ro": "Mănăstirea Sant Jeroni",
+            "en": "Sant Jeroni Monastery"
+          },
+          "coords": [
+            41.4556,
+            2.2423
+          ],
+          "category": "religious",
+          "arrive_at": "11:03",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Für den Abstecher lohnt ein ruhigeres Tempo.",
+            "hu": "Ide jó egy kicsit nyugodtabb tempó.",
+            "ro": "Pentru această oprire merge un ritm mai calm.",
+            "en": "This stop works best at a calmer pace."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Badalona",
+            "hu": "Badalona Múzeum",
+            "ro": "Muzeul Badalona",
+            "en": "Badalona Museum"
+          },
+          "coords": [
+            41.4488,
+            2.2452
+          ],
+          "category": "museum",
+          "arrive_at": "11:49",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Die längste Innenpause des Tages passt hier gut.",
+            "hu": "A nap leghosszabb beltéri pihenője ide illik.",
+            "ro": "Cea mai lungă pauză la interior se potrivește bine aici.",
+            "en": "This is the longest indoor pause of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Anís-del-Mono-Fabrik",
+            "hu": "Anís del Mono gyár",
+            "ro": "Fabrica Anís del Mono",
+            "en": "Anís del Mono Factory"
+          },
+          "coords": [
+            41.4479,
+            2.2448
+          ],
+          "category": "historical",
+          "arrive_at": "13:31",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein schneller, aber sehr charakterstarker Zwischenstopp.",
+            "hu": "Gyors, mégis karakteres megálló.",
+            "ro": "O oprire scurtă, dar cu mult caracter.",
+            "en": "A quick stop, but with a lot of character."
+          }
+        },
+        {
+          "name": {
+            "de": "Can Solei i Ca l'Arnús Park",
+            "hu": "Can Solei i Ca l'Arnús park",
+            "ro": "Parcul Can Solei i Ca l'Arnús",
+            "en": "Can Solei i Ca l'Arnús Park"
+          },
+          "coords": [
+            41.4562,
+            2.252
+          ],
+          "category": "park",
+          "arrive_at": "14:56",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Hier kurz absteigen und im Schatten verschnaufen.",
+            "hu": "Itt érdemes leszállni és árnyékban pihenni.",
+            "ro": "Aici merită să cobori și să te odihnești la umbră.",
+            "en": "Hop off here and rest in the shade for a bit."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont del Petroli",
+            "hu": "Pont del Petroli",
+            "ro": "Pont del Petroli",
+            "en": "Pont del Petroli"
+          },
+          "coords": [
+            41.4449,
+            2.2517
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:16",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der beste Küsten-Checkpoint für Fotos und Wind.",
+            "hu": "A legjobb parti fotópont és szellős megálló.",
+            "ro": "Cel mai bun punct pentru poze și briza mării.",
+            "en": "The best coastal checkpoint for photos and breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Badalona",
+            "hu": "Badalona strand",
+            "ro": "Plaja Badalona",
+            "en": "Badalona Beach"
+          },
+          "coords": [
+            41.4441,
+            2.255
+          ],
+          "category": "beach",
+          "arrive_at": "16:43",
+          "stay_min": 180,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Rad abstellen, dann die Küste ganz langsam ausklingen lassen.",
+            "hu": "Tedd le a bringát, és lass lassan kifutni a napot.",
+            "ro": "Lasă bicicleta și prelungește încet finalul zilei.",
+            "en": "Park the bike and let the day fade out slowly."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Rad liegen die Punkte locker in einem Tagesbogen. Du rollst vom Zentrum zur Kultur und dann schnell ans Wasser.\n\nDer Küstenabschnitt bei Pont del Petroli ist der schönste Flow des Tages. Am Abend lohnt sich eine lange, langsame Runde an der Platja.",
+        "hu": "Kerékpárral minden pont szépen összeáll egy laza napi ívvé. A központból könnyen érsz el a kulturális megállókig, aztán gyorsan a vízhez.\n\nA Pont del Petroli környéke adja a nap legszebb sodrását. Estére a strand menti, lassú gurulás a legjobb lezárás.",
+        "ro": "Cu bicicleta, punctele se leagă firesc într-un traseu de o zi. Treci ușor din centru spre cultură și apoi repede spre apă.\n\nZona Pont del Petroli e cel mai frumos segment al zilei. Seara merită o plimbare lungă și lentă pe lângă plajă.",
+        "en": "By bike, the stops connect into one easy day arc. You roll from the center into the culture stops, then quickly toward the water.\n\nThe Pont del Petroli stretch gives the best flow of the day. In the evening, a long slow spin by the beach is the right finish."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "fideuà marinera",
+            "tip": "Perfekt nach der Küstenrunde, am besten nah am Strand."
+          },
+          {
+            "name": "suquet de peix",
+            "tip": "Bestell es nach dem Park-Stopp in einem Chiringuito."
+          },
+          {
+            "name": "arroz a banda",
+            "tip": "Gut für ein spätes, entspanntes Mittagessen."
+          },
+          {
+            "name": "gegrillte sardinen",
+            "tip": "Passt ideal zu einem kühlen Drink am Meer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "fideuà marinera",
+            "tip": "A parti kör után a legjobb, lehetőleg közel a strandhoz."
+          },
+          {
+            "name": "suquet de peix",
+            "tip": "A parki megálló után egy chiringuitóban különösen jó."
+          },
+          {
+            "name": "arroz a banda",
+            "tip": "Jó egy ráérős, késői ebédhez."
+          },
+          {
+            "name": "grillezett szardínia",
+            "tip": "Hideg itallal a tenger mellett működik a legjobban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "fideuà marinera",
+            "tip": "După traseul de coastă merge cel mai bine, aproape de plajă."
+          },
+          {
+            "name": "suquet de peix",
+            "tip": "După oprirea din parc e excelent într-un chiringuito."
+          },
+          {
+            "name": "arroz a banda",
+            "tip": "Potrivit pentru un prânz târziu și relaxat."
+          },
+          {
+            "name": "sardine la grătar",
+            "tip": "Se potrivește perfect cu o băutură rece lângă mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "fideuà marinera",
+            "tip": "Best after the coastal ride, ideally near the beach."
+          },
+          {
+            "name": "suquet de peix",
+            "tip": "Great after the park stop at a beachfront chiringuito."
+          },
+          {
+            "name": "arroz a banda",
+            "tip": "A good choice for a late, relaxed lunch."
+          },
+          {
+            "name": "grilled sardines",
+            "tip": "Pairs perfectly with a cold drink by the sea."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pont del Petroli",
+            "tip": "Für Wind, Horizont und ein paar langsame Fotos.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Strand von Badalona",
+            "tip": "Ein langer Stopp mit viel Wasser und wenig Lärm.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Can Solei i Ca l'Arnús Park",
+            "tip": "Nach dem Radeln ein guter, grüner Reset.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Rambla von Badalona",
+            "tip": "Am späten Nachmittag angenehm lebendig, nicht hektisch.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pont del Petroli",
+            "tip": "Szél, horizont és pár lassú fotó miatt ideális.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Badalona strand",
+            "tip": "Hosszú megálló sok vízzel és kevés zajjal.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Can Solei i Ca l'Arnús park",
+            "tip": "Bringázás után jó zöld reset.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Badalona rambla-sétánya",
+            "tip": "Késő délután élénk, de még mindig laza.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pont del Petroli",
+            "tip": "Ideal pentru vânt, orizont și câteva poze lente.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plaja Badalona",
+            "tip": "O pauză lungă, cu multă apă și puțin zgomot.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Can Solei i Ca l'Arnús",
+            "tip": "După bicicletă, un reset verde foarte bun.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Rambla din Badalona",
+            "tip": "Spre seară e animată, dar încă relaxată.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pont del Petroli",
+            "tip": "Ideal for wind, horizon views, and slow photos.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Badalona Beach",
+            "tip": "A long stop with plenty of water and little noise.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Can Solei i Ca l'Arnús Park",
+            "tip": "A green reset after a day on the bike.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Badalona Rambla",
+            "tip": "Late afternoon is lively but still easygoing.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mini-Flasche Anís del Mono",
+            "tip": "Klassisches Mitbringsel nach der Werksbesichtigung."
+          },
+          {
+            "name": "Küsten-Postkarten",
+            "tip": "Gut für ein kleines, leichtes Souvenir."
+          },
+          {
+            "name": "Rambla-Bäckerei-Snacks",
+            "tip": "Für die Fahrt zurück oder die Strandpause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "mini Anís del Mono üveg",
+            "tip": "A gyárlátogatás után klasszikus ajándék."
+          },
+          {
+            "name": "parti képeslapok",
+            "tip": "Könnyű és jó kis szuvenír."
+          },
+          {
+            "name": "rambla-i péksüti",
+            "tip": "Hazafelé vagy a strandhoz is jól jön."
+          }
+        ],
+        "ro": [
+          {
+            "name": "sticluță mică Anís del Mono",
+            "tip": "Suvenirul clasic după vizita la fabrică."
+          },
+          {
+            "name": "vederi de coastă",
+            "tip": "Un suvenir ușor și simplu."
+          },
+          {
+            "name": "gustări de la brutăria de pe Rambla",
+            "tip": "Bune pentru drum sau pentru pauza de plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "mini Anís del Mono bottle",
+            "tip": "The classic souvenir after the factory stop."
+          },
+          {
+            "name": "coastal postcards",
+            "tip": "A light, easy souvenir."
+          },
+          {
+            "name": "Rambla bakery snacks",
+            "tip": "Useful for the ride home or the beach break."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mit dem Rad ist die Küstenlinie der angenehmste Teil des Tages.",
+          "Schließe das Rad am Pont del Petroli oder bei den Strandzugängen gut ab.",
+          "Zwischen Museum und Meer ist der Verkehr locker, aber Kreuzungen bleiben wichtig.",
+          "Wind kann an der Uferzone spürbar sein, also lieber leicht packen."
+        ],
+        "hu": [
+          "Brigával a parti szakasz a nap legjobb része.",
+          "A biciklit jól zárd le a Pont del Petroli környékén vagy a strandnál.",
+          "A múzeum és a tenger között kényelmes a tempó, de a kereszteződéseknél figyelj.",
+          "A parton szeles lehet, ezért érdemes könnyű cuccal menni."
+        ],
+        "ro": [
+          "Cu bicicleta, porțiunea de coastă este partea cea mai plăcută a zilei.",
+          "Încuie bine bicicleta la Pont del Petroli sau la accesul spre plajă.",
+          "Între muzeu și mare ritmul e lejer, dar intersecțiile cer atenție.",
+          "Pe litoral poate bate vântul, așa că e bine să călătorești ușor."
+        ],
+        "en": [
+          "On a bike, the coastal stretch is the best part of the day.",
+          "Lock the bike well near Pont del Petroli or the beach access points.",
+          "Between the museum and the sea the pace is easy, but intersections still matter.",
+          "The waterfront can get windy, so pack light."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "20:29",
+      "total_km": 4.6,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Rambla von Badalona",
+            "hu": "Badalona rambla-sétánya",
+            "ro": "Rambla din Badalona",
+            "en": "Badalona Rambla"
+          },
+          "coords": [
+            41.4507,
+            2.2461
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "car",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Hier parken und erst einmal den Kern zu Fuß ablaufen.",
+            "hu": "Itt parkolj, és a belső részt gyalog járd be.",
+            "ro": "Parchează aici și explorează miezul orașului pe jos.",
+            "en": "Park here and explore the core on foot first."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Pavillard",
+            "hu": "Casa Pavillard",
+            "ro": "Casa Pavillard",
+            "en": "Casa Pavillard"
+          },
+          "coords": [
+            41.4494,
+            2.2476
+          ],
+          "category": "historical",
+          "arrive_at": "09:41",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Vom Auto aus ist das ein bequemer erster kurzer Fußblock.",
+            "hu": "Autó után ez egy kényelmes első gyalogos blokk.",
+            "ro": "Din mașină e o tranziție scurtă și comodă pe jos.",
+            "en": "From the car, this is an easy first short walking block."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Badalona",
+            "hu": "Badalona Múzeum",
+            "ro": "Muzeul Badalona",
+            "en": "Badalona Museum"
+          },
+          "coords": [
+            41.4488,
+            2.2452
+          ],
+          "category": "museum",
+          "arrive_at": "11:09",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ideal, wenn du das Parken nicht ständig wechseln willst.",
+            "hu": "Ideális, ha nem akarsz folyton parkolót váltani.",
+            "ro": "Ideal dacă nu vrei să schimbi parcarea mereu.",
+            "en": "Ideal when you do not want to keep moving the car."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Sant Jeroni",
+            "hu": "Sant Jeroni kolostor",
+            "ro": "Mănăstirea Sant Jeroni",
+            "en": "Sant Jeroni Monastery"
+          },
+          "coords": [
+            41.4556,
+            2.2423
+          ],
+          "category": "religious",
+          "arrive_at": "12:52",
+          "stay_min": 40,
+          "hop_mode": "car",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Fahrblock, dann wieder entspannt zu Fuß.",
+            "hu": "Rövid autós szakasz, aztán ismét kényelmes séta.",
+            "ro": "Un mic tronson cu mașina, apoi din nou pe jos.",
+            "en": "A short driving segment, then back to walking."
+          }
+        },
+        {
+          "name": {
+            "de": "Can Solei i Ca l'Arnús Park",
+            "hu": "Can Solei i Ca l'Arnús park",
+            "ro": "Parcul Can Solei i Ca l'Arnús",
+            "en": "Can Solei i Ca l'Arnús Park"
+          },
+          "coords": [
+            41.4562,
+            2.252
+          ],
+          "category": "park",
+          "arrive_at": "13:46",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Parke einmal und mach hier die längere Erholungspause.",
+            "hu": "Parkolj egyszer, és itt tarts hosszabb pihenőt.",
+            "ro": "Parchează o dată și fă aici pauza mai lungă.",
+            "en": "Park once and make this your longer rest stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Anís-del-Mono-Fabrik",
+            "hu": "Anís del Mono gyár",
+            "ro": "Fabrica Anís del Mono",
+            "en": "Anís del Mono Factory"
+          },
+          "coords": [
+            41.4479,
+            2.2448
+          ],
+          "category": "historical",
+          "arrive_at": "15:04",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Der nächste Cluster liegt wieder nah am Meer.",
+            "hu": "A következő кластер ismét közel van a tengerhez.",
+            "ro": "Următorul cluster revine aproape de mare.",
+            "en": "The next cluster is back near the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont del Petroli",
+            "hu": "Pont del Petroli",
+            "ro": "Pont del Petroli",
+            "en": "Pont del Petroli"
+          },
+          "coords": [
+            41.4449,
+            2.2517
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:28",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Vom Parkplatzblock ist das ein sehr kurzer, lohnender Fußweg.",
+            "hu": "A parkolós blokk után ez rövid, de megéri.",
+            "ro": "După parcare, e o plimbare scurtă, dar care merită.",
+            "en": "A very short walk from the parking block, and worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Badalona",
+            "hu": "Badalona strand",
+            "ro": "Plaja Badalona",
+            "en": "Badalona Beach"
+          },
+          "coords": [
+            41.4441,
+            2.255
+          ],
+          "category": "beach",
+          "arrive_at": "16:59",
+          "stay_min": 180,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Hier parkst du das Tagesende lieber am Wasser als im Verkehr.",
+            "hu": "A nap végét inkább a víznél zárd, ne a forgalomban.",
+            "ro": "Încheie ziua la apă, nu în trafic.",
+            "en": "Finish the day by the water, not in traffic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto parkst du am besten einmal pro Cluster. So bleiben die Fußwege kurz und die Mischung aus Innenstadt, Kultur und Meer entspannt.\n\nDas Tagesende gehört der Uferzone: erst Pont del Petroli, dann ein langer Strandblock. Für Badalona funktioniert diese Cluster-Logik sehr gut.",
+        "hu": "Autóval érdemes egyszer parkolni egy-egy кластерben. Így a gyalogos részek rövidek maradnak, és a belváros, a kultúra meg a tenger jól összeáll.\n\nA nap végét a vízpart kapja: előbb a Pont del Petroli, aztán egy hosszú strandblokk. Badalonában ez a кластерes ritmus működik a legjobban.",
+        "ro": "Cu mașina, cel mai bine este să parchezi o dată în fiecare cluster. Astfel, porțiunile pe jos rămân scurte, iar centrul, cultura și marea se leagă bine.\n\nSeara aparține zonei de coastă: mai întâi Pont del Petroli, apoi un bloc lung pe plajă. Pentru Badalona, această logică pe clustere funcționează foarte bine.",
+        "en": "By car, it works best to park once per cluster. That keeps the walking short and makes the center, culture, and sea feel relaxed.\n\nThe end of the day belongs to the waterfront: first Pont del Petroli, then a long beach block. This cluster logic works especially well in Badalona."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "suquet de peix",
+            "tip": "Nach dem Strandblock in einem ruhigen Lokal am Meer bestellen."
+          },
+          {
+            "name": "fideuà marinera",
+            "tip": "Sehr gut als Abendessen nach einem entspannten Parken-am-Meer-Tag."
+          },
+          {
+            "name": "arroz a banda",
+            "tip": "Ideal, wenn du lieber lange sitzen bleibst als weiterzufahren."
+          },
+          {
+            "name": "gegrillte Sardinen",
+            "tip": "Einfach, lokal und perfekt für den letzten Stopp."
+          }
+        ],
+        "hu": [
+          {
+            "name": "suquet de peix",
+            "tip": "A strandos blokk után egy nyugodt tengerparti helyen kérd."
+          },
+          {
+            "name": "fideuà marinera",
+            "tip": "Nagyon jó vacsora egy autós, kényelmes nap végén."
+          },
+          {
+            "name": "arroz a banda",
+            "tip": "Akkor ideális, ha inkább ülni szeretnél, nem tovább vezetni."
+          },
+          {
+            "name": "grillezett szardínia",
+            "tip": "Egyszerű, helyi és tökéletes záró fogás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "suquet de peix",
+            "tip": "După blocul de plajă, comandă-l într-un loc liniștit de lângă mare."
+          },
+          {
+            "name": "fideuà marinera",
+            "tip": "Foarte bun ca cină după o zi comodă cu mașina."
+          },
+          {
+            "name": "arroz a banda",
+            "tip": "Ideal dacă vrei să stai la masă, nu să mai conduci."
+          },
+          {
+            "name": "sardine la grătar",
+            "tip": "Simplu, local și perfect pentru final."
+          }
+        ],
+        "en": [
+          {
+            "name": "suquet de peix",
+            "tip": "Order it after the beach block at a calm place by the sea."
+          },
+          {
+            "name": "fideuà marinera",
+            "tip": "A very good dinner after an easy car-based day."
+          },
+          {
+            "name": "arroz a banda",
+            "tip": "Best if you want to sit longer instead of driving on."
+          },
+          {
+            "name": "grilled sardines",
+            "tip": "Simple, local, and perfect as a final plate."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pont del Petroli",
+            "tip": "Früher Abend, wenn der Horizont weich wird.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Strand von Badalona",
+            "tip": "Ein langer, ruhiger Ausklang nach dem Fahren.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Can Solei i Ca l'Arnús Park",
+            "tip": "Grünpause zwischen den Fahrblöcken.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Rambla von Badalona",
+            "tip": "Später Nachmittag für einen kurzen Kaffee-Stopp.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pont del Petroli",
+            "tip": "Kora este, amikor a horizont lágyul.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Badalona strand",
+            "tip": "Hosszú, nyugodt lezárás a vezetés után.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Can Solei i Ca l'Arnús park",
+            "tip": "Zöld pihenő két autós blokk között.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Badalona rambla-sétánya",
+            "tip": "Késő délutáni rövid kávéstopra jó.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pont del Petroli",
+            "tip": "Seara devreme, când orizontul se înmoaie.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plaja Badalona",
+            "tip": "O încheiere lungă și liniștită după drum.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Can Solei i Ca l'Arnús",
+            "tip": "Pauză verde între segmentele cu mașina.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Rambla din Badalona",
+            "tip": "Bună pentru o cafea scurtă după-amiază.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pont del Petroli",
+            "tip": "Early evening, when the horizon softens.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Badalona Beach",
+            "tip": "A long, quiet finish after the driving.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Can Solei i Ca l'Arnús Park",
+            "tip": "A green pause between driving blocks.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Badalona Rambla",
+            "tip": "A good short coffee stop in late afternoon.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mini-Flasche Anís del Mono",
+            "tip": "Das naheliegendste Badalona-Souvenir."
+          },
+          {
+            "name": "Postkarten vom Meer",
+            "tip": "Leicht im Auto und schön zum Verschenken."
+          },
+          {
+            "name": "Strandtasche oder Tuch",
+            "tip": "Praktisch für den restlichen Tag am Wasser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "mini Anís del Mono üveg",
+            "tip": "A legkézenfekvőbb badalonai ajándék."
+          },
+          {
+            "name": "tengerparti képeslapok",
+            "tip": "Könnyű a kocsiban és jó ajándék."
+          },
+          {
+            "name": "strandtáska vagy kendő",
+            "tip": "Hasznos a vízparti naphoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "sticluță mică Anís del Mono",
+            "tip": "Cel mai evident suvenir din Badalona."
+          },
+          {
+            "name": "vederi de mare",
+            "tip": "Ușoare pentru mașină și bune de dăruit."
+          },
+          {
+            "name": "geantă de plajă sau eșarfă",
+            "tip": "Utilă pentru restul zilei lângă apă."
+          }
+        ],
+        "en": [
+          {
+            "name": "mini Anís del Mono bottle",
+            "tip": "The most obvious Badalona souvenir."
+          },
+          {
+            "name": "sea postcards",
+            "tip": "Light in the car and easy to gift."
+          },
+          {
+            "name": "beach tote or scarf",
+            "tip": "Useful for the rest of the day by the water."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parke pro Cluster nur einmal; das spart Zeit und Nerven.",
+          "Die langen Strand- und Parkabschnitte funktionieren am besten zu Fuß, nicht mit dem Auto.",
+          "An sonnigen Tagen werden Strandparkplätze schnell knapp, also zuerst den Küstenblock sichern.",
+          "Halte die Fahrstrecken kurz und nutze sie nur für den Wechsel zwischen den Stadtzonen."
+        ],
+        "hu": [
+          "Clusterenként csak egyszer parkolj; ez sok időt spórol.",
+          "A hosszabb park- és strandrészeket inkább gyalog járd be.",
+          "Napfényes napokon a parti parkolók gyorsan betelnek, ezért azt foglald először.",
+          "Az autót csak a zónák közti váltásra használd, ne minden megálló között."
+        ],
+        "ro": [
+          "Parchează o singură dată pe cluster; economisești timp și energie.",
+          "Segmentele lungi de parc și plajă sunt mai bune pe jos decât cu mașina.",
+          "În zilele însorite, parcările de lângă mare se ocupă repede, deci asigură-le primele.",
+          "Folosește mașina doar pentru schimbarea dintre zone, nu între fiecare oprire."
+        ],
+        "en": [
+          "Park once per cluster; it saves time and energy.",
+          "The longer park and beach stretches are better on foot than by car.",
+          "On sunny days, waterfront parking fills quickly, so secure that first.",
+          "Use the car only to switch between zones, not between every stop."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "20:32",
+      "total_km": 4.3,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Rambla von Badalona",
+            "hu": "Badalona rambla-sétánya",
+            "ro": "Rambla din Badalona",
+            "en": "Badalona Rambla"
+          },
+          "coords": [
+            41.4507,
+            2.2461
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Guter Startpunkt, wenn du die Stadt in Zonen lesen willst.",
+            "hu": "Jó kezdőpont, ha zónákban akarod olvasni a várost.",
+            "ro": "Start bun dacă vrei să citești orașul pe zone.",
+            "en": "A strong start point if you want to read the city by zones."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Pavillard",
+            "hu": "Casa Pavillard",
+            "ro": "Casa Pavillard",
+            "en": "Casa Pavillard"
+          },
+          "coords": [
+            41.4494,
+            2.2476
+          ],
+          "category": "historical",
+          "arrive_at": "09:41",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg von der Hauptachse, dann sofort weitermachen.",
+            "hu": "Rövid séta a fő tengelyről, aztán mehetsz tovább.",
+            "ro": "O plimbare scurtă de pe axa principală, apoi mai departe.",
+            "en": "A short walk off the main axis, then carry on."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Badalona",
+            "hu": "Badalona Múzeum",
+            "ro": "Muzeul Badalona",
+            "en": "Badalona Museum"
+          },
+          "coords": [
+            41.4488,
+            2.2452
+          ],
+          "category": "museum",
+          "arrive_at": "11:09",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Die beste, klimatisierte Mittagsoption im Zentrum.",
+            "hu": "A központ legjobb, hűvös déli megállója.",
+            "ro": "Cea mai bună pauză răcoroasă din centru la prânz.",
+            "en": "The best cool midday stop in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Sant Jeroni",
+            "hu": "Sant Jeroni kolostor",
+            "ro": "Mănăstirea Sant Jeroni",
+            "en": "Sant Jeroni Monastery"
+          },
+          "coords": [
+            41.4556,
+            2.2423
+          ],
+          "category": "religious",
+          "arrive_at": "12:55",
+          "stay_min": 40,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Der einzige echte Bezirkswechsel bleibt angenehm kurz.",
+            "hu": "Az egyetlen valódi váltás itt is rövid marad.",
+            "ro": "Singura schimbare reală de zonă rămâne scurtă.",
+            "en": "The only real district change stays pleasantly short."
+          }
+        },
+        {
+          "name": {
+            "de": "Can Solei i Ca l'Arnús Park",
+            "hu": "Can Solei i Ca l'Arnús park",
+            "ro": "Parcul Can Solei i Ca l'Arnús",
+            "en": "Can Solei i Ca l'Arnús Park"
+          },
+          "coords": [
+            41.4562,
+            2.252
+          ],
+          "category": "park",
+          "arrive_at": "13:47",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Hier lohnt sich ein langsameres Tempo vor dem Küstenwechsel.",
+            "hu": "Itt érdemes lelassítani a parti váltás előtt.",
+            "ro": "Aici merită să încetinești înainte de zona de coastă.",
+            "en": "Slow down here before the move to the coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Anís-del-Mono-Fabrik",
+            "hu": "Anís del Mono gyár",
+            "ro": "Fabrica Anís del Mono",
+            "en": "Anís del Mono Factory"
+          },
+          "coords": [
+            41.4479,
+            2.2448
+          ],
+          "category": "historical",
+          "arrive_at": "15:07",
+          "stay_min": 80,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Gute Wiederanbindung an die Küstenzone.",
+            "hu": "Jó visszakapcsolás a parti zónába.",
+            "ro": "O bună reîntoarcere spre zona de coastă.",
+            "en": "A good reconnection to the coastal zone."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont del Petroli",
+            "hu": "Pont del Petroli",
+            "ro": "Pont del Petroli",
+            "en": "Pont del Petroli"
+          },
+          "coords": [
+            41.4449,
+            2.2517
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:31",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nach dem Umstieg die kleine Fußstrecke direkt genießen.",
+            "hu": "Átszállás után ezt a rövid sétát élvezd is ki.",
+            "ro": "După schimbare, bucură-te direct de mica plimbare.",
+            "en": "After the transfer, enjoy the short walk immediately."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Badalona",
+            "hu": "Badalona strand",
+            "ro": "Plaja Badalona",
+            "en": "Badalona Beach"
+          },
+          "coords": [
+            41.4441,
+            2.255
+          ],
+          "category": "beach",
+          "arrive_at": "17:02",
+          "stay_min": 180,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Hier endet die Transitkette am ruhigsten.",
+            "hu": "Itt zárul a legnyugodtabban a tömegközlekedős kör.",
+            "ro": "Aici se încheie cel mai liniștit traseul cu transport public.",
+            "en": "This is the calmest finish to the transit day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit Metro und Bus liest sich Badalona in drei klaren Zonen. Erst Zentrum, dann ruhige Kulturorte, zuletzt die Küste.\n\nJeder Umstieg bleibt kurz und erspart unnötige Wege. Der Abend gehört dem Strand und dem Pont del Petroli, also am besten mit genügend Puffer planen.",
+        "hu": "Metróval és busszal Badalona három jól érthető zónára esik szét. Először a központ, aztán a csendesebb kulturális pontok, végül a tengerpart.\n\nMinden váltás rövid marad, így nem kell feleslegesen gyalogolni. Az estét a strand és a Pont del Petroli kapja, ezért érdemes pufferrel számolni.",
+        "ro": "Cu metroul și autobuzul, Badalona se citește în trei zone clare. Mai întâi centrul, apoi locurile culturale mai liniștite, iar la final litoralul.\n\nFiecare schimbare rămâne scurtă și evită drumurile inutile. Seara aparține plajei și lui Pont del Petroli, deci merită lăsat un mic tampon.",
+        "en": "By metro and bus, Badalona reads as three clear zones. First the center, then quieter culture stops, and finally the coast.\n\nEach transfer stays short, so you avoid wasted walking. The evening belongs to the beach and Pont del Petroli, so leave a little buffer."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "suquet de peix",
+            "tip": "Gut erreichbar nach dem Küstenabschnitt, am besten früh am Abend."
+          },
+          {
+            "name": "fideuà marinera",
+            "tip": "Ideal als Mittagessen zwischen Museum und Strand."
+          },
+          {
+            "name": "arroz a banda",
+            "tip": "Wenn du nur eine große Meeresfrüchte-Option willst."
+          },
+          {
+            "name": "gegrillte Sardinen",
+            "tip": "Einfach und lokal, perfekt nach einem kurzen Fußweg."
+          }
+        ],
+        "hu": [
+          {
+            "name": "suquet de peix",
+            "tip": "A parti szakasz után könnyen elérhető, inkább kora este."
+          },
+          {
+            "name": "fideuà marinera",
+            "tip": "Jó ebéd a múzeum és a strand közötti részben."
+          },
+          {
+            "name": "arroz a banda",
+            "tip": "Ha csak egy nagy tenger gyümölcsei fogást választanál."
+          },
+          {
+            "name": "grillezett szardínia",
+            "tip": "Egyszerű és helyi, rövid séta után tökéletes."
+          }
+        ],
+        "ro": [
+          {
+            "name": "suquet de peix",
+            "tip": "Ușor de luat după zona de coastă, ideal spre seară."
+          },
+          {
+            "name": "fideuà marinera",
+            "tip": "Bună pentru prânz între muzeu și plajă."
+          },
+          {
+            "name": "arroz a banda",
+            "tip": "Dacă vrei o singură opțiune mare cu fructe de mare."
+          },
+          {
+            "name": "sardine la grătar",
+            "tip": "Simplu și local, perfect după o plimbare scurtă."
+          }
+        ],
+        "en": [
+          {
+            "name": "suquet de peix",
+            "tip": "Easy to reach after the coastal segment, best early evening."
+          },
+          {
+            "name": "fideuà marinera",
+            "tip": "Great for lunch between the museum and the beach."
+          },
+          {
+            "name": "arroz a banda",
+            "tip": "If you want just one big seafood choice."
+          },
+          {
+            "name": "grilled sardines",
+            "tip": "Simple and local, perfect after a short walk."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pont del Petroli",
+            "tip": "Ein ruhiger Abschluss mit Meerblick und Abendlicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Strand von Badalona",
+            "tip": "Am besten nach dem letzten Umstieg ohne Eile.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Can Solei i Ca l'Arnús Park",
+            "tip": "Eine grüne Pause mitten im Transit-Tag.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Rambla von Badalona",
+            "tip": "Gut für einen kurzen, belebten aber nicht lauten Halt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pont del Petroli",
+            "tip": "Nyugodt zárás tengeri kilátással és esti fénnyel.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Badalona strand",
+            "tip": "Az utolsó váltás után ráérősen a legjobb.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Can Solei i Ca l'Arnús park",
+            "tip": "Zöld pihenő a tömegközlekedős nap közepén.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Badalona rambla-sétánya",
+            "tip": "Rövid, élénk, de nem zajos megállóhoz jó.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pont del Petroli",
+            "tip": "Final liniștit cu vedere la mare și lumină de seară.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plaja Badalona",
+            "tip": "Cel mai bine după ultimul transfer, fără grabă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Can Solei i Ca l'Arnús",
+            "tip": "Pauză verde la mijlocul zilei cu transport public.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Rambla din Badalona",
+            "tip": "Bună pentru o oprire scurtă, vie dar nu gălăgioasă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pont del Petroli",
+            "tip": "A calm finish with sea views and evening light.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Badalona Beach",
+            "tip": "Best enjoyed slowly after the final transfer.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Can Solei i Ca l'Arnús Park",
+            "tip": "A green pause in the middle of a transit day.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Badalona Rambla",
+            "tip": "Good for a short stop that is lively but not loud.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mini-Flasche Anís del Mono",
+            "tip": "Leicht mitzunehmen und klar lokal."
+          },
+          {
+            "name": "Küsten-Postkarten",
+            "tip": "Passt gut in jede Tasche nach dem Stadtwechsel."
+          },
+          {
+            "name": "Rambla-Snacks",
+            "tip": "Für die letzte Fahrt oder den Abend am Strand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "mini Anís del Mono üveg",
+            "tip": "Könnyen elfér, és egyértelműen helyi."
+          },
+          {
+            "name": "parti képeslapok",
+            "tip": "Jól elfér a táskában a városi váltások után."
+          },
+          {
+            "name": "rambla-i snack",
+            "tip": "Az utolsó út vagy a strand estére jó."
+          }
+        ],
+        "ro": [
+          {
+            "name": "sticluță mică Anís del Mono",
+            "tip": "Ușor de dus și clar local."
+          },
+          {
+            "name": "vederi de coastă",
+            "tip": "Intră ușor în geantă după schimbarea de zonă."
+          },
+          {
+            "name": "gustări de pe Rambla",
+            "tip": "Bune pentru ultimul drum sau pentru seara de plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "mini Anís del Mono bottle",
+            "tip": "Easy to carry and clearly local."
+          },
+          {
+            "name": "coastal postcards",
+            "tip": "Fits easily in your bag after the zone change."
+          },
+          {
+            "name": "Rambla snacks",
+            "tip": "Good for the last ride or the beach evening."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mit Metro und Bus arbeitest du am besten zonenweise, nicht stopweise.",
+          "Plane den einzigen längeren Fußblock am besten rund um Museum und Strand.",
+          "Die Küstenstops wirken am Abend am stärksten, also dort den Puffer lassen.",
+          "Wenn du umsteigen musst, halte den Weg zwischen Haltestelle und Ziel kurz."
+        ],
+        "hu": [
+          "Metróval és busszal zónánként gondolkodj, ne megállónként.",
+          "A hosszabb gyalogos blokkot inkább a múzeum és a strand köré tedd.",
+          "A parti pontok estére a legerősebbek, oda hagyj puffert.",
+          "Átszállásnál tarts rövid utat a megálló és a cél között."
+        ],
+        "ro": [
+          "Cu metroul și autobuzul, gândește-te pe zone, nu pe opriri individuale.",
+          "Cel mai lung bloc pe jos merită pus între muzeu și plajă.",
+          "Punctele de coastă sunt cele mai bune seara, deci lasă tampon acolo.",
+          "La schimbare, păstrează drumul dintre stație și obiectiv cât mai scurt."
+        ],
+        "en": [
+          "With metro and bus, think in zones rather than individual stops.",
+          "Put your longest walking block around the museum and the beach.",
+          "The coastal stops are strongest in the evening, so leave buffer there.",
+          "When transferring, keep the walk from station to stop as short as possible."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1068 @@
+{
+  "city_id": "serbia-zajecar-industrial-hub-economic-v2",
+  "anchor": {
+    "name": "Industriezentrum Zaječar",
+    "coords": [
+      22.2742,
+      43.9056
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ljuba Didić Denkmal",
+            "hu": "Ljuba Didić emlékmű",
+            "ro": "Monumentul Ljuba Didić",
+            "en": "Ljuba Didić Monument"
+          },
+          "coords": [
+            22.2755,
+            43.9045
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein guter Ausgangspunkt, um die Geschichte der Stadt auf sich wirken zu lassen.",
+            "hu": "Jó kiindulópont, hogy ráhangolódj a város történelmére.",
+            "ro": "Un punct de plecare bun pentru a intra în atmosfera istorică a orașului.",
+            "en": "A great starting point to soak in the city's history."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalmuseum Zaječar",
+            "hu": "Zaječari Nemzeti Múzeum",
+            "ro": "Muzeul Național Zaječar",
+            "en": "National Museum Zaječar"
+          },
+          "coords": [
+            22.2768,
+            43.9058
+          ],
+          "category": "museums",
+          "arrive_at": "09:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die archäologischen Funde aus Felix Romuliana.",
+            "hu": "Koncentráljon a Felix Romulianából származó régészeti leletekre.",
+            "ro": "Concentrează-te pe artefactele arheologice de la Felix Romuliana.",
+            "en": "Focus on the archaeological findings from Felix Romuliana."
+          }
+        },
+        {
+          "name": {
+            "de": "Radul-Begs Konak",
+            "hu": "Radul bég konakja",
+            "ro": "Conacul lui Radul Beg",
+            "en": "Radul Beg's Konak"
+          },
+          "coords": [
+            22.2775,
+            43.9065
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle osmanische Architektur und die Holzschnitzereien.",
+            "hu": "Csodálja meg a hagyományos oszmán építészetet és a fafaragásokat.",
+            "ro": "Admiră arhitectura tradițională otomană și sculpturile în lemn.",
+            "en": "Admire the traditional Ottoman architecture and woodcarvings."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Geburt",
+            "hu": "Szűz Mária Születése templom",
+            "ro": "Biserica Nașterea Maicii Domnului",
+            "en": "Church of the Nativity of the Theotokos"
+          },
+          "coords": [
+            22.2801,
+            43.9031
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckende Ikonostase und die Wandmalereien.",
+            "hu": "Figyelje meg a lenyűgöző ikonosztázt és a falfestményeket.",
+            "ro": "Fii atent la iconostasul impresionant și la picturile murale.",
+            "en": "Pay attention to the impressive iconostasis and the murals."
+          }
+        },
+        {
+          "name": {
+            "de": "Popova Plaža",
+            "hu": "Popova Plaža (Papi strand)",
+            "ro": "Plaja Popova",
+            "en": "Popova Beach"
+          },
+          "coords": [
+            22.2889,
+            43.9089
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein idealer Ort für eine Mittagspause und um die Einheimischen zu beobachten.",
+            "hu": "Ideális hely egy ebédszünetre és a helyiek megfigyelésére.",
+            "ro": "Un loc ideal pentru o pauză de prânz și pentru a observa localnicii.",
+            "en": "An ideal spot for a lunch break and to watch the locals."
+          }
+        },
+        {
+          "name": {
+            "de": "Kraljevica Waldpark",
+            "hu": "Kraljevica erdőpark",
+            "ro": "Parcul Forestier Kraljevica",
+            "en": "Kraljevica Forest Park"
+          },
+          "coords": [
+            22.2642,
+            43.8956
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erklimmen Sie den Hügel für eine tolle Aussicht auf die Stadt bei Sonnenuntergang.",
+            "hu": "Másszon fel a dombra a naplementés városi panorámáért.",
+            "ro": "Urcă pe deal pentru o priveliște minunată asupra orașului la apus.",
+            "en": "Climb the hill for a great view of the city at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Zaječar am Ljuba Didić Denkmal. Schlendern Sie durch die Geschichte im Nationalmuseum und im osmanischen Radul-Begs Konak. Nach dem Mittagessen überqueren Sie den Fluss Timok für einen entspannten Nachmittag am Popova Plaža. Beenden Sie den Tag mit einem Spaziergang durch den Kraljevica Waldpark und genießen Sie die Natur.",
+        "hu": "Kezdje a napot Zaječar szívében, a Ljuba Didić emlékműnél. Sétáljon át a történelmen a Nemzeti Múzeumban és az oszmán Radul bég konakjában. Ebéd után keljen át a Timok folyón egy pihentető délutánra a Popova Plažán. A napot a Kraljevica erdőparkban tett sétával zárja, élvezve a természetet.",
+        "ro": "Începeți ziua în inima orașului Zaječar, la Monumentul Ljuba Didić. Plimbați-vă prin istorie la Muzeul Național și la Conacul otoman al lui Radul Beg. După prânz, traversați râul Timok pentru o după-amiază relaxantă la Plaja Popova. Încheiați ziua cu o plimbare prin Parcul Forestier Kraljevica, bucurându-vă de natură.",
+        "en": "Start your day in the heart of Zaječar at the Ljuba Didić Monument. Stroll through history at the National Museum and the Ottoman-era Radul Beg's Konak. After lunch, cross the Timok River for a relaxing afternoon at Popova Beach. End your day with a walk through Kraljevica Forest Park, enjoying the nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pljeskavica",
+            "tip": "Probieren Sie dieses klassische serbische Fleischgericht in einem lokalen Grillrestaurant."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pljeskavica",
+            "tip": "Kóstolja meg ezt a klasszikus szerb húspogácsát egy helyi grillétteremben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pljeskavica",
+            "tip": "Încearcă acest preparat clasic sârbesc din carne la un restaurant local cu grătar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pljeskavica",
+            "tip": "Try this classic Serbian meat patty at a local grill restaurant."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Timok",
+            "tip": "Finden Sie eine ruhige Bank am Flussufer.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Timok partja",
+            "tip": "Keressen egy csendes padot a folyóparton.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Timok",
+            "tip": "Găsește o bancă liniștită pe malul râului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Timok River",
+            "tip": "Find a quiet bench along the riverbank.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte und lokalen Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket és helyi sajtot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpără produse proaspete și brânză locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for fresh produce and local cheese."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den größten Teil des Tages zu Fuß unterwegs sein werden.",
+          "Nehmen Sie Wasser mit, besonders im Sommer.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a nap nagy részében gyalogolni fog.",
+          "Vigyen magával vizet, különösen nyáron.",
+          "A központi látnivalók többsége könnyen elérhető gyalog."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge pe jos cea mai mare parte a zilei.",
+          "Luați apă cu voi, mai ales vara.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be walking for most of the day.",
+          "Bring water with you, especially in summer.",
+          "Most central sights are within easy walking distance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:31",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zoran Radmilović Theater",
+            "hu": "Zoran Radmilović Színház",
+            "ro": "Teatrul Zoran Radmilović",
+            "en": "Zoran Radmilović Theatre"
+          },
+          "coords": [
+            22.2785,
+            43.9042
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fassade und prüfen Sie den Spielplan für Abendvorstellungen.",
+            "hu": "Csodálja meg a homlokzatot és nézze meg az esti előadások műsorát.",
+            "ro": "Admiră fațada și verifică programul pentru spectacole de seară.",
+            "en": "Admire the facade and check the schedule for evening performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalmuseum Zaječar",
+            "hu": "Zaječari Nemzeti Múzeum",
+            "ro": "Muzeul Național Zaječar",
+            "en": "National Museum Zaječar"
+          },
+          "coords": [
+            22.2768,
+            43.9058
+          ],
+          "category": "museums",
+          "arrive_at": "09:26",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad sicher, bevor Sie das Museum betreten.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt belép a múzeumba.",
+            "ro": "Parchează-ți bicicleta în siguranță înainte de a intra în muzeu.",
+            "en": "Park your bike securely before entering the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Radul-Begs Konak",
+            "hu": "Radul bég konakja",
+            "ro": "Conacul lui Radul Beg",
+            "en": "Radul Beg's Konak"
+          },
+          "coords": [
+            22.2775,
+            43.9065
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:01",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um ein Stück osmanischer Geschichte zu sehen.",
+            "hu": "Egy gyors megálló, hogy megnézzen egy darabka oszmán történelmet.",
+            "ro": "O oprire scurtă pentru a vedea o bucată de istorie otomană.",
+            "en": "A quick stop to see a piece of Ottoman history."
+          }
+        },
+        {
+          "name": {
+            "de": "Popova Plaža",
+            "hu": "Popova Plaža (Papi strand)",
+            "ro": "Plaja Popova",
+            "en": "Popova Beach"
+          },
+          "coords": [
+            22.2889,
+            43.9089
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:09",
+          "stay_min": 120,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie am Flussufer entlang und genießen Sie die Brise.",
+            "hu": "Kerékpározzon a folyóparton és élvezze a szellőt.",
+            "ro": "Pedalează de-a lungul malului râului și bucură-te de briză.",
+            "en": "Cycle along the riverbank and enjoy the breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Kraljevica Waldpark",
+            "hu": "Kraljevica erdőpark",
+            "ro": "Parcul Forestier Kraljevica",
+            "en": "Kraljevica Forest Park"
+          },
+          "coords": [
+            22.2642,
+            43.8956
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:39",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Es gibt einige anspruchsvolle Anstiege, aber die Aussicht ist es wert.",
+            "hu": "Van néhány kihívást jelentő emelkedő, de a kilátás megéri.",
+            "ro": "Există câteva urcări provocatoare, dar priveliștea merită.",
+            "en": "There are some challenging climbs, but the view is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Geburt",
+            "hu": "Szűz Mária Születése templom",
+            "ro": "Biserica Nașterea Maicii Domnului",
+            "en": "Church of the Nativity of the Theotokos"
+          },
+          "coords": [
+            22.2801,
+            43.9031
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein friedlicher Ort, um den Tag ausklingen zu lassen.",
+            "hu": "Békés hely a nap befejezéséhez.",
+            "ro": "Un loc pașnic pentru a încheia ziua.",
+            "en": "A peaceful place to end the day's explorations."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Zoran Radmilović Theater und radeln Sie dann zum kulturellen Kern der Stadt, dem Nationalmuseum. Nach einer kurzen Fahrt zum Radul-Begs Konak geht es weiter zum Popova Plaža für eine ausgedehnte Mittagspause. Der Nachmittag ist einer Fahrt zum weitläufigen Kraljevica Waldpark gewidmet. Beenden Sie Ihre Tour mit einem Moment der Besinnung in der Kirche Mariä Geburt.",
+        "hu": "Kezdje a kerékpártúrát a Zoran Radmilović Színháznál, majd tekerjen a város kulturális magjához, a Nemzeti Múzeumhoz. Egy rövid út után a Radul bég konakjához, irány a Popova Plaža egy hosszabb ebédszünetre. A délutánt a tágas Kraljevica erdőparkba való tekerésnek szentelje. Zárja a túrát egy csendes pillanattal a Szűz Mária Születése templomban.",
+        "ro": "Începeți turul cu bicicleta la Teatrul Zoran Radmilović, apoi pedalați spre nucleul cultural al orașului, Muzeul Național. După o scurtă plimbare până la Conacul lui Radul Beg, continuați spre Plaja Popova pentru o pauză de prânz prelungită. După-amiaza este dedicată unei plimbări prin vastul Parc Forestier Kraljevica. Încheiați turul cu un moment de reflecție la Biserica Nașterea Maicii Domnului.",
+        "en": "Start your bike tour at the Zoran Radmilović Theatre, then cycle to the city's cultural core, the National Museum. After a short ride to Radul Beg's Konak, continue to Popova Beach for an extended lunch break. The afternoon is dedicated to a ride to the expansive Kraljevica Forest Park. Finish your tour with a moment of reflection at the Church of the Nativity."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zaječarsko Pivo",
+            "tip": "Probieren Sie das lokale Bier, das hier gebraut wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zaječarsko Pivo",
+            "tip": "Kóstolja meg a helyben főzött sört."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zaječarsko Pivo",
+            "tip": "Încearcă berea locală produsă chiar aici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zaječarsko Pivo",
+            "tip": "Try the local beer that is brewed right here."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kraljevica Waldpark",
+            "tip": "Finden Sie einen abgelegenen Pfad abseits der Hauptwege.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kraljevica erdőpark",
+            "tip": "Keressen egy eldugott ösvényt a fő utaktól távol.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Forestier Kraljevica",
+            "tip": "Găsește o potecă izolată, departe de cărările principale.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kraljevica Forest Park",
+            "tip": "Find a secluded path away from the main trails.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirläden",
+            "tip": "Suchen Sie nach handgefertigten Töpferwaren und Textilien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvenírboltok",
+            "tip": "Keressen kézzel készített kerámiákat és textíliákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de suveniruri",
+            "tip": "Caută ceramică și textile lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir shops",
+            "tip": "Look for handmade pottery and textiles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck vor der Abfahrt.",
+          "Einige Teile der Stadt sind hügelig, seien Sie also auf Anstiege vorbereitet.",
+          "Schließen Sie Ihr Fahrrad immer an, wenn Sie es unbeaufsichtigt lassen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "A város egyes részei dombosak, ezért készüljön emelkedőkre.",
+          "Mindig zárja le a kerékpárt, ha felügyelet nélkül hagyja."
+        ],
+        "ro": [
+          "Verifică presiunea în anvelope înainte de a pleca.",
+          "Unele părți ale orașului sunt deluroase, așa că fii pregătit pentru urcări.",
+          "Leagă-ți întotdeauna bicicleta când o lași nesupravegheată."
+        ],
+        "en": [
+          "Check your tire pressure before you leave.",
+          "Some parts of the city are hilly, so be prepared for climbs.",
+          "Always lock your bike when leaving it unattended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:28",
+      "total_km": 25.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Felix Romuliana",
+            "hu": "Felix Romuliana",
+            "ro": "Felix Romuliana",
+            "en": "Felix Romuliana"
+          },
+          "coords": [
+            22.175,
+            43.8972
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 11.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein, um das gesamte UNESCO-Weltkulturerbe zu erkunden.",
+            "hu": "Szánjon elég időt az egész UNESCO világörökségi helyszín bejárására.",
+            "ro": "Alocă suficient timp pentru a explora întregul sit al Patrimoniului Mondial UNESCO.",
+            "en": "Allow plenty of time to explore the entire UNESCO World Heritage site."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalmuseum Zaječar",
+            "hu": "Zaječari Nemzeti Múzeum",
+            "ro": "Muzeul Național Zaječar",
+            "en": "National Museum Zaječar"
+          },
+          "coords": [
+            22.2768,
+            43.9058
+          ],
+          "category": "museums",
+          "arrive_at": "12:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 13.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Hier sehen Sie die Mosaike und Skulpturen, die in Felix Romuliana gefunden wurden.",
+            "hu": "Itt láthatja a Felix Romulianában talált mozaikokat és szobrokat.",
+            "ro": "Aici vei vedea mozaicurile și sculpturile găsite la Felix Romuliana.",
+            "en": "Here you will see the mosaics and sculptures found at Felix Romuliana."
+          }
+        },
+        {
+          "name": {
+            "de": "Radul-Begs Konak",
+            "hu": "Radul bég konakja",
+            "ro": "Conacul lui Radul Beg",
+            "en": "Radul Beg's Konak"
+          },
+          "coords": [
+            22.2775,
+            43.9065
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Museum entfernt, parken Sie einmal und erkunden Sie beides.",
+            "hu": "Csak egy rövid séta a múzeumtól, parkoljon le és fedezze fel mindkettőt.",
+            "ro": "La o scurtă plimbare de muzeu, parchează o dată și explorează-le pe amândouă.",
+            "en": "Just a short walk from the museum, park once and explore both."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebéd a városközpontban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city center"
+          },
+          "coords": [
+            22.278,
+            43.905
+          ],
+          "category": "gastro",
+          "arrive_at": "14:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Viele Restaurants sind vom Museum aus zu Fuß erreichbar.",
+            "hu": "Sok étterem sétatávolságra van a múzeumtól.",
+            "ro": "Multe restaurante se află la distanță de mers pe jos de muzeu.",
+            "en": "Many restaurants are within walking distance from the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Kraljevica Waldpark",
+            "hu": "Kraljevica erdőpark",
+            "ro": "Parcul Forestier Kraljevica",
+            "en": "Kraljevica Forest Park"
+          },
+          "coords": [
+            22.2642,
+            43.8956
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:38",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Hauptparkplatz und erkunden Sie die Wanderwege.",
+            "hu": "Hajtson a fő parkolóhoz és fedezze fel a túraútvonalakat.",
+            "ro": "Condu până la parcarea principală și explorează traseele de drumeție.",
+            "en": "Drive to the main parking area and explore the walking trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt in Kraljevica",
+            "hu": "Kilátópont a Kraljevicán",
+            "ro": "Punct de belvedere în Kraljevica",
+            "en": "Viewpoint in Kraljevica"
+          },
+          "coords": [
+            22.262,
+            43.894
+          ],
+          "category": "viewpoint",
+          "arrive_at": "17:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Sonnenuntergang über Zaječar zu beobachten.",
+            "hu": "Tökéletes hely a naplemente megtekintéséhez Zaječar felett.",
+            "ro": "Locul perfect pentru a privi apusul peste Zaječar.",
+            "en": "The perfect spot to watch the sunset over Zaječar."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt mit einer Fahrt zum antiken Komplex von Felix Romuliana. Nach der Erkundung der römischen Ruinen kehren Sie ins Zentrum von Zaječar zurück, um die dazugehörigen Artefakte im Nationalmuseum zu sehen. Parken Sie Ihr Auto und erkunden Sie zu Fuß den nahegelegenen Radul-Begs Konak und genießen Sie ein Mittagessen. Der Nachmittag ist für die Natur reserviert: Fahren Sie zum Kraljevica Waldpark für einen Spaziergang und einen Panoramablick.",
+        "hu": "A nap egy utazással kezdődik az ókori Felix Romuliana komplexumhoz. A római romok felfedezése után térjen vissza Zaječar központjába, hogy megnézze a hozzá tartozó leleteket a Nemzeti Múzeumban. Parkolja le az autót, és gyalog fedezze fel a közeli Radul bég konakját, majd ebédeljen. A délután a természeté: autózzon el a Kraljevica erdőparkba egy sétára és a panorámás kilátásért.",
+        "ro": "Ziua începe cu o excursie la complexul antic Felix Romuliana. După explorarea ruinelor romane, reveniți în centrul orașului Zaječar pentru a vedea artefactele asociate la Muzeul Național. Parcați mașina și explorați pe jos Conacul lui Radul Beg din apropiere și bucurați-vă de prânz. După-amiaza este rezervată naturii: conduceți spre Parcul Forestier Kraljevica pentru o plimbare și o vedere panoramică.",
+        "en": "The day starts with a drive to the ancient complex of Felix Romuliana. After exploring the Roman ruins, return to the center of Zaječar to see the related artifacts at the National Museum. Park your car and explore the nearby Radul Beg's Konak on foot and enjoy lunch. The afternoon is reserved for nature: drive to Kraljevica Forest Park for a walk and panoramic views."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Karađorđeva šnicla",
+            "tip": "Eine gerollte und panierte Schweine- oder Kalbsschnitte, gefüllt mit Kajmak."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Karađorđeva šnicla",
+            "tip": "Tekert, panírozott sertés- vagy borjúszelet, kajmakkal töltve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Karađorđeva šnicla",
+            "tip": "Un șnițel de porc sau vițel rulat și pane, umplut cu kajmak."
+          }
+        ],
+        "en": [
+          {
+            "name": "Karađorđeva šnicla",
+            "tip": "A rolled and breaded pork or veal cutlet, stuffed with kajmak."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Felix Romuliana",
+            "tip": "Finden Sie einen ruhigen Ort inmitten der antiken Ruinen.",
+            "emoji": "🏛️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Felix Romuliana",
+            "tip": "Keressen egy csendes helyet az ókori romok között.",
+            "emoji": "🏛️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Felix Romuliana",
+            "tip": "Găsește un loc liniștit printre ruinele antice.",
+            "emoji": "🏛️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Felix Romuliana",
+            "tip": "Find a quiet spot among the ancient ruins.",
+            "emoji": "🏛️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsshop",
+            "tip": "Kaufen Sie Repliken römischer Artefakte in Felix Romuliana oder im Nationalmuseum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Múzeumi bolt",
+            "tip": "Vásároljon római kori tárgyak másolatait a Felix Romulianában vagy a Nemzeti Múzeumban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul muzeului",
+            "tip": "Cumpără replici ale artefactelor romane de la Felix Romuliana sau de la Muzeul Național."
+          }
+        ],
+        "en": [
+          {
+            "name": "Museum Shop",
+            "tip": "Buy replicas of Roman artifacts at Felix Romuliana or the National Museum."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Öffnungszeiten von Felix Romuliana im Voraus.",
+          "Das Parken im Stadtzentrum kann schwierig sein, suchen Sie nach ausgewiesenen Parkplätzen.",
+          "Kombinieren Sie Ihren Besuch mit einer Weinprobe in der nahegelegenen Negotin-Region, wenn Sie Zeit haben."
+        ],
+        "hu": [
+          "Előre ellenőrizze a Felix Romuliana nyitvatartási idejét.",
+          "A parkolás a városközpontban nehézkes lehet, keressen kijelölt parkolóhelyeket.",
+          "Ha van ideje, kösse össze a látogatást egy borkóstolóval a közeli Negotin borvidéken."
+        ],
+        "ro": [
+          "Verifică în avans programul de funcționare al Felix Romuliana.",
+          "Parcarea în centrul orașului poate fi dificilă, caută parcări amenajate.",
+          "Dacă ai timp, combină vizita cu o degustare de vinuri în regiunea Negotin din apropiere."
+        ],
+        "en": [
+          "Check the opening hours of Felix Romuliana in advance.",
+          "Parking in the city center can be challenging, look for designated parking areas.",
+          "If you have time, combine your visit with wine tasting in the nearby Negotin region."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 7.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Nationalmuseum Zaječar",
+            "hu": "Zaječari Nemzeti Múzeum",
+            "ro": "Muzeul Național Zaječar",
+            "en": "National Museum Zaječar"
+          },
+          "coords": [
+            22.2768,
+            43.9058
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, da viele Buslinien in der Nähe halten.",
+            "hu": "Kezdje itt, mivel sok buszjárat megáll a közelben.",
+            "ro": "Începe de aici, deoarece multe linii de autobuz opresc în apropiere.",
+            "en": "Start here as many bus lines stop nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Ljuba Didić Denkmal",
+            "hu": "Ljuba Didić emlékmű",
+            "ro": "Monumentul Ljuba Didić",
+            "en": "Ljuba Didić Monument"
+          },
+          "coords": [
+            22.2755,
+            43.9045
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:45",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum durch das Stadtzentrum.",
+            "hu": "Rövid séta a múzeumtól a városközponton keresztül.",
+            "ro": "O scurtă plimbare de la muzeu prin centrul orașului.",
+            "en": "A short walk from the museum through the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoran Radmilović Theater",
+            "hu": "Zoran Radmilović Színház",
+            "ro": "Teatrul Zoran Radmilović",
+            "en": "Zoran Radmilović Theatre"
+          },
+          "coords": [
+            22.2785,
+            43.9042
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:20",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie zu Fuß weiter, um die Architektur des Stadtzentrums zu bewundern.",
+            "hu": "Sétáljon tovább, hogy megcsodálja a városközpont építészetét.",
+            "ro": "Continuă pe jos pentru a admira arhitectura centrului orașului.",
+            "en": "Continue on foot to admire the downtown architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Popova Plaža",
+            "hu": "Popova Plaža (Papi strand)",
+            "ro": "Plaja Popova",
+            "en": "Popova Beach"
+          },
+          "coords": [
+            22.2889,
+            43.9089
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:12",
+          "stay_min": 120,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus, der zum Flussufer fährt.",
+            "hu": "Menjen egy helyi busszal, amely a folyópartra visz.",
+            "ro": "Ia un autobuz local care merge spre malul râului.",
+            "en": "Take a local bus that goes towards the riverfront."
+          }
+        },
+        {
+          "name": {
+            "de": "Kraljevica Waldpark",
+            "hu": "Kraljevica erdőpark",
+            "ro": "Parcul Forestier Kraljevica",
+            "en": "Kraljevica Forest Park"
+          },
+          "coords": [
+            22.2642,
+            43.8956
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Möglicherweise müssen Sie umsteigen, um den Park zu erreichen.",
+            "hu": "Lehet, hogy át kell szállnia a park eléréséhez.",
+            "ro": "S-ar putea să fie nevoie să schimbi autobuzul pentru a ajunge la parc.",
+            "en": "You might need to transfer buses to reach the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in der Nähe des Parks",
+            "hu": "Vacsora a park közelében",
+            "ro": "Cină lângă parc",
+            "en": "Dinner near the park"
+          },
+          "coords": [
+            22.266,
+            43.897
+          ],
+          "category": "gastro",
+          "arrive_at": "16:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie eine Mahlzeit in einem der Restaurants am Rande des Parks.",
+            "hu": "Élvezzen egy étkezést a park szélén található éttermek egyikében.",
+            "ro": "Bucură-te de o masă la unul dintre restaurantele de la marginea parcului.",
+            "en": "Enjoy a meal at one of the restaurants on the edge of the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das lokale Busnetz, um Zaječar zu erkunden. Beginnen Sie Ihren Tag im Stadtzentrum und besuchen Sie das Nationalmuseum und die umliegenden Denkmäler zu Fuß. Nehmen Sie dann einen Bus zum Popova Plaža für eine entspannte Mittagspause am Fluss. Am Nachmittag bringt Sie ein weiterer Bus zum weitläufigen Kraljevica Waldpark, wo Sie den Rest des Tages in der Natur verbringen können.",
+        "hu": "Használja a helyi buszhálózatot Zaječar felfedezéséhez. Kezdje a napot a városközpontban, gyalog látogassa meg a Nemzeti Múzeumot és a környező emlékműveket. Ezután szálljon buszra a Popova Plažához egy pihentető folyóparti ebédszünetre. Délután egy másik busz elviszi a tágas Kraljevica erdőparkba, ahol a nap hátralévő részét a természetben töltheti.",
+        "ro": "Folosește rețeaua locală de autobuze pentru a explora Zaječar. Începe-ți ziua în centrul orașului, vizitând pe jos Muzeul Național și monumentele din jur. Apoi, ia un autobuz spre Plaja Popova pentru o pauză de prânz relaxantă pe malul râului. După-amiaza, un alt autobuz te va duce la vastul Parc Forestier Kraljevica, unde poți petrece restul zilei în natură.",
+        "en": "Use the local bus network to explore Zaječar. Start your day in the city center, visiting the National Museum and surrounding monuments on foot. Then, take a bus to Popova Beach for a relaxing riverside lunch break. In the afternoon, another bus will take you to the expansive Kraljevica Forest Park, where you can spend the rest of the day in nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ćevapi",
+            "tip": "Gegrillte Hackfleischröllchen, serviert mit Fladenbrot und Zwiebeln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ćevapi",
+            "tip": "Grillezett darált hús tekercsek, lepénnyel és hagymával tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ćevapi",
+            "tip": "Rulouri de carne tocată la grătar, servite cu lipie și ceapă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ćevapi",
+            "tip": "Grilled minced meat rolls, served with flatbread and onions."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Bank im Kraljevica Park",
+            "tip": "Suchen Sie sich einen ruhigen Platz abseits der Hauptwege.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy pad a Kraljevica parkban",
+            "tip": "Keressen egy csendes helyet a fő ösvényektől távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă în Parcul Kraljevica",
+            "tip": "Găsește un loc liniștit departe de potecile principale.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench in Kraljevica Park",
+            "tip": "Find a quiet spot away from the main paths.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Probieren Sie Burek oder andere lokale Gebäcke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékségek",
+            "tip": "Kóstolja meg a bureket vagy más helyi péksüteményeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutării locale",
+            "tip": "Încearcă Burek sau alte produse de patiserie locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bakeries",
+            "tip": "Try Burek or other local pastries."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn verfügbar.",
+          "Die Busfahrpläne sind möglicherweise nicht immer genau, planen Sie also Pufferzeit ein.",
+          "Fragen Sie Einheimische nach der richtigen Buslinie, wenn Sie unsicher sind."
+        ],
+        "hu": [
+          "Ha elérhető, vásároljon napijegyet a buszra.",
+          "A buszmenetrendek nem mindig pontosak, ezért tervezzen plusz idővel.",
+          "Ha bizonytalan, kérdezze meg a helyieket a megfelelő buszjáratról."
+        ],
+        "ro": [
+          "Cumpără un bilet de o zi pentru autobuz, dacă este disponibil.",
+          "Orarele autobuzelor s-ar putea să nu fie întotdeauna exacte, așa că planifică timp suplimentar.",
+          "Întreabă localnicii despre linia de autobuz corectă dacă nu ești sigur."
+        ],
+        "en": [
+          "Buy a day pass for the bus if available.",
+          "Bus schedules may not always be accurate, so plan for buffer time.",
+          "Ask locals for the correct bus line if you are unsure."
+        ]
+      }
+    }
+  }
+}

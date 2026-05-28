@@ -1,0 +1,1286 @@
+{
+  "city_id": "denmark-naestved-cities-v2",
+  "anchor": {
+    "name": "Næstved",
+    "coords": [
+      11.758,
+      55.228
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Axeltorv",
+            "hu": "Axeltorv tér",
+            "ro": "Piața Axeltorv",
+            "en": "Axeltorv Square"
+          },
+          "coords": [
+            11.7595,
+            55.2295
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee und beobachten Sie das morgendliche Treiben.",
+            "hu": "Kezdje a napot egy kávéval, és figyelje a reggeli nyüzsgést.",
+            "ro": "Începeți ziua aici cu o cafea, observând agitația de dimineață.",
+            "en": "Start your day here with a coffee, watching the morning bustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Sct. Peders Kirke",
+            "hu": "Szent Péter-templom",
+            "ro": "Biserica Sf. Petru",
+            "en": "St. Peter's Church"
+          },
+          "coords": [
+            11.757,
+            55.2305
+          ],
+          "category": "churches",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden Fresken im Inneren – sie erzählen faszinierende Geschichten.",
+            "hu": "Keresse a lenyűgöző freskókat odabent – lenyűgöző történeteket mesélnek.",
+            "ro": "Căutați frescele impresionante din interior - ele spun povești fascinante.",
+            "en": "Look for the impressive frescoes inside – they tell fascinating stories."
+          }
+        },
+        {
+          "name": {
+            "de": "Sct. Mortens Kirke",
+            "hu": "Szent Márton-templom",
+            "ro": "Biserica Sf. Martin",
+            "en": "St. Martin's Church"
+          },
+          "coords": [
+            11.761,
+            55.228
+          ],
+          "category": "churches",
+          "arrive_at": "10:29",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Vergleichen Sie den Baustil mit der Sct. Peders Kirke; beide sind einzigartig für ihre Zeit.",
+            "hu": "Hasonlítsa össze az építészeti stílusát a Szent Péter-temploméval; mindkettő egyedi a maga korában.",
+            "ro": "Comparați stilul arhitectural cu cel al Bisericii Sf. Petru; ambele sunt unice pentru vremea lor.",
+            "en": "Compare its architectural style to St. Peter's; both are unique for their time."
+          }
+        },
+        {
+          "name": {
+            "de": "Helligåndshuset",
+            "hu": "Helligåndshuset (Szentlélek Háza)",
+            "ro": "Casa Duhului Sfânt (Helligåndshuset)",
+            "en": "The House of the Holy Ghost"
+          },
+          "coords": [
+            11.7585,
+            55.229
+          ],
+          "category": "museums",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Eines der am besten erhaltenen mittelalterlichen Armenhospitäler Dänemarks. Planen Sie genügend Zeit ein.",
+            "hu": "Dánia egyik legjobb állapotban fennmaradt középkori ispotálya. Szánjon rá elég időt.",
+            "ro": "Unul dintre cele mai bine conservate spitale medievale pentru săraci din Danemarca. Planificați suficient timp.",
+            "en": "One of Denmark's best-preserved medieval almshouses. Plan enough time."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebéd a városközpontban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the City Center"
+          },
+          "coords": [
+            11.76,
+            55.229
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Probieren Sie ein klassisches dänisches Smørrebrød in einem der Cafés am Axeltorv.",
+            "hu": "Kóstoljon meg egy klasszikus dán smørrebrød-öt az Axeltorv egyik kávézójában.",
+            "ro": "Încercați un Smørrebrød danez clasic la una dintre cafenelele din Axeltorv.",
+            "en": "Try a classic Danish Smørrebrød at one of the cafés in Axeltorv."
+          }
+        },
+        {
+          "name": {
+            "de": "Herlufsholm Skole",
+            "hu": "Herlufsholm Iskola",
+            "ro": "Școala Herlufsholm",
+            "en": "Herlufsholm School"
+          },
+          "coords": [
+            11.75,
+            55.215
+          ],
+          "category": "historical",
+          "arrive_at": "15:10",
+          "stay_min": 95,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Der Spaziergang entlang des Flusses Suså zur Schule ist fast so schön wie das historische Gelände selbst.",
+            "hu": "A Suså folyó menti séta az iskolához majdnem olyan szép, mint maga a történelmi birtok.",
+            "ro": "Plimbarea de-a lungul râului Suså până la școală este aproape la fel de frumoasă ca și terenul istoric în sine.",
+            "en": "The walk along the Suså river to the school is almost as beautiful as the historic grounds themselves."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem lebhaften Axeltorv, dem Herzen von Næstved. Von dort aus erkunden Sie zu Fuß die mittelalterliche Geschichte der Stadt und besuchen die beeindruckenden Kirchen St. Peter und St. Martin. Nach einer tiefen Eintauchen in die Vergangenheit im Helligåndshuset, genießen Sie ein traditionelles dänisches Mittagessen. Der Nachmittag führt Sie auf einem malerischen Spaziergang entlang des Flusses zur prestigeträchtigen Herlufsholm-Schule, wo Sie den Tag inmitten von Geschichte und Natur ausklingen lassen.",
+        "hu": "Kezdje a napot Næstved szívében, a nyüzsgő Axeltorv téren. Innen fedezze fel gyalog a város középkori történelmét, látogasson el a lenyűgöző Szent Péter és Szent Márton templomokba. Miután elmélyült a múltban a Helligåndshusetben, élvezzen egy hagyományos dán ebédet. A délután egy festői folyóparti sétára invitálja a tekintélyes Herlufsholm Iskolához, ahol a napot a történelem és a természet ölelésében zárhatja.",
+        "ro": "Începeți ziua în inima orașului Næstved, în vibranta Piață Axeltorv. De acolo, explorați la pas istoria medievală a orașului, vizitând impresionantele biserici Sf. Petru și Sf. Martin. După o incursiune profundă în trecut la Helligåndshuset, savurați un prânz tradițional danez. După-amiaza vă poartă într-o plimbare pitorească de-a lungul râului spre prestigioasa Școală Herlufsholm, încheind ziua înconjurat de istorie și natură.",
+        "en": "Start your day in the heart of Næstved at the vibrant Axeltorv Square. From there, explore the city's medieval history on foot, visiting the impressive St. Peter's and St. Martin's churches. After a deep dive into the past at the Helligåndshuset, enjoy a traditional Danish lunch. The afternoon takes you on a scenic riverside walk to the prestigious Herlufsholm School, ending the day surrounded by history and nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Das klassische dänische offene Sandwich. Suchen Sie nach Varianten mit Hering oder Roastbeef."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Dänische Fleischbällchen, oft mit Kartoffelsalat serviert."
+          },
+          {
+            "name": "Restaurant Appenæs",
+            "tip": "Bietet gehobene dänische Küche mit Blick auf den Fjord."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smørrebrød",
+            "tip": "A klasszikus dán nyitott szendvics. Keressen heringes vagy sült marhahúsos változatokat."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Dán húsgombócok, gyakran burgonyasalátával tálalva."
+          },
+          {
+            "name": "Restaurant Appenæs",
+            "tip": "Kifinomult dán konyhát kínál, kilátással a fjordra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Sandvișul deschis clasic danez. Căutați variante cu hering sau friptură de vită."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Chiftele daneze, adesea servite cu salată de cartofi."
+          },
+          {
+            "name": "Restaurant Appenæs",
+            "tip": "Oferă bucătărie daneză rafinată cu vedere la fiord."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smørrebrød",
+            "tip": "The classic Danish open-faced sandwich. Look for varieties with herring or roast beef."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Danish meatballs, often served with potato salad."
+          },
+          {
+            "name": "Restaurant Appenæs",
+            "tip": "Offers fine Danish dining with a view of the fjord."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Suså-Flusses",
+            "tip": "Ein friedlicher Spaziergang abseits der Menschenmassen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirchhof von Sct. Peders",
+            "tip": "Ein ruhiger, historischer Ort zum Nachdenken.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bänke am Herlufsholm",
+            "tip": "Entspannen Sie sich mit Blick auf die alten Gebäude und die grüne Umgebung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Suså folyó partja",
+            "tip": "Békés séta a tömegtől távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent Péter-templom kertje",
+            "tip": "Csendes, történelmi hely az elmélkedésre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Padok Herlufsholmnál",
+            "tip": "Pihenjen a régi épületekre és a zöld környezetre nyíló kilátással.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Suså",
+            "tip": "O plimbare liniștită, departe de aglomerație.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea Bisericii Sf. Petru",
+            "tip": "Un loc istoric liniștit pentru reflecție.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Băncile de la Herlufsholm",
+            "tip": "Relaxați-vă cu o priveliște a clădirilor vechi și a împrejurimilor verzi.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Suså River",
+            "tip": "A peaceful walk away from the crowds.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. Peter's Churchyard",
+            "tip": "A quiet, historical spot for reflection.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Benches at Herlufsholm",
+            "tip": "Relax with a view of the old buildings and green surroundings.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Næstved Megacenter",
+            "tip": "Für eine größere Auswahl an Geschäften, etwas außerhalb des Zentrums."
+          },
+          {
+            "name": "Lokale Kunsthandwerker",
+            "tip": "Halten Sie in den kleinen Gassen Ausschau nach Geschäften, die lokale Keramik und Kunst verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Næstved Megacenter",
+            "tip": "Nagyobb üzletválasztékért, kicsit a központon kívül."
+          },
+          {
+            "name": "Helyi kézművesek",
+            "tip": "A kis sikátorokban keresse a helyi kerámiákat és művészeti alkotásokat árusító üzleteket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Næstved Megacenter",
+            "tip": "Pentru o selecție mai largă de magazine, puțin în afara centrului."
+          },
+          {
+            "name": "Artizani locali",
+            "tip": "Căutați pe străduțele lăturalnice magazine care vând ceramică și artă locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Næstved Megacenter",
+            "tip": "For a wider selection of shops, slightly outside the center."
+          },
+          {
+            "name": "Local Artisans",
+            "tip": "Look in the small alleys for shops selling local pottery and art."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Ein Spaziergang entlang des Flusses Suså ist sehr zu empfehlen.",
+          "Überprüfen Sie die Öffnungszeiten der Kirchen, da diese variieren können."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óvárosi macskakövek egyenetlenek lehetnek.",
+          "A legtöbb központi látnivaló könnyen elérhető gyalog.",
+          "Erősen ajánlott egy séta a Suså folyó mentén.",
+          "Ellenőrizze a templomok nyitvatartási idejét, mert az változhat."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pietrele cubice din orașul vechi pot fi denivelate.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "O plimbare de-a lungul râului Suså este foarte recomandată.",
+          "Verificați orele de deschidere ale bisericilor, deoarece acestea pot varia."
+        ],
+        "en": [
+          "Wear comfortable shoes, as the cobblestones in the old town can be uneven.",
+          "Most central sights are easily reachable on foot.",
+          "A walk along the Suså river is highly recommended.",
+          "Check the opening hours for the churches, as they can vary."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Axeltorv",
+            "hu": "Axeltorv tér",
+            "ro": "Piața Axeltorv",
+            "en": "Axeltorv Square"
+          },
+          "coords": [
+            11.7595,
+            55.2295
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Perfekter Ausgangspunkt. Schließen Sie Ihr Fahrrad an und erkunden Sie den Platz zu Fuß.",
+            "hu": "Tökéletes kiindulópont. Zárja le a kerékpárt, és fedezze fel a teret gyalog.",
+            "ro": "Punct de plecare perfect. Asigurați-vă bicicleta și explorați piața pe jos.",
+            "en": "Perfect starting point. Lock up your bike and explore the square on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Helligåndshuset",
+            "hu": "Helligåndshuset",
+            "ro": "Helligåndshuset",
+            "en": "The House of the Holy Ghost"
+          },
+          "coords": [
+            11.7585,
+            55.229
+          ],
+          "category": "museums",
+          "arrive_at": "09:38",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad in der Nähe ab, da Sie hier einige Zeit verbringen werden.",
+            "hu": "Parkolja le a kerékpárt a közelben, mert itt több időt fog eltölteni.",
+            "ro": "Parcați-vă bicicleta în apropiere, deoarece veți petrece ceva timp aici.",
+            "en": "Park your bike nearby as you'll be spending some time here."
+          }
+        },
+        {
+          "name": {
+            "de": "Sct. Peders & Sct. Mortens Kirke",
+            "hu": "Szt. Péter és Szt. Márton templomok",
+            "ro": "Bisericile Sf. Petru și Sf. Martin",
+            "en": "St. Peter's & St. Martin's Churches"
+          },
+          "coords": [
+            11.758,
+            55.2292
+          ],
+          "category": "churches",
+          "arrive_at": "11:03",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie beide nahegelegenen Kirchen, um ihre unterschiedlichen Atmosphären zu erleben.",
+            "hu": "Látogasson el mindkét közeli templomba, hogy megtapasztalja különböző hangulatukat.",
+            "ro": "Vizitați ambele biserici din apropiere pentru a experimenta atmosferele lor diferite.",
+            "en": "Visit both nearby churches to experience their different atmospheres."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            11.76,
+            55.229
+          ],
+          "category": "gastro",
+          "arrive_at": "12:08",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Stärken Sie sich für die Radtour am Nachmittag.",
+            "hu": "Töltődjön fel a délutáni kerékpártúrára.",
+            "ro": "Realimentați-vă pentru plimbarea cu bicicleta de după-amiază.",
+            "en": "Refuel for the afternoon's bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Rønnebæksholm",
+            "hu": "Rønnebæksholm",
+            "ro": "Rønnebæksholm",
+            "en": "Rønnebæksholm"
+          },
+          "coords": [
+            11.82,
+            55.223
+          ],
+          "category": "historical",
+          "arrive_at": "13:48",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Die Radtour hierher führt durch eine schöne Landschaft. Genießen Sie die Kunstausstellungen und den Park.",
+            "hu": "Az ide vezető kerékpárút gyönyörű tájon visz keresztül. Élvezze a művészeti kiállításokat és a parkot.",
+            "ro": "Plimbarea cu bicicleta până aici este printr-un peisaj frumos. Bucurați-vă de expozițiile de artă și de parc.",
+            "en": "The bike ride out here is through lovely countryside. Enjoy the art exhibitions and the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt ins Zentrum",
+            "hu": "Vissza a központba",
+            "ro": "Întoarcere în centru",
+            "en": "Ride back to the center"
+          },
+          "coords": [
+            11.76,
+            55.229
+          ],
+          "category": "views",
+          "arrive_at": "16:20",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Eis oder einem kalten Getränk am Axeltorv.",
+            "hu": "Zárja a napot egy fagyival vagy egy hideg itallal az Axeltorv téren.",
+            "ro": "Încheiați ziua cu o înghețată sau o băutură rece în Axeltorv.",
+            "en": "End the day with an ice cream or a cold drink back at Axeltorv."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad für eine Erkundungstour durch Næstved. Beginnen Sie am Axeltorv, bevor Sie die historischen Schätze wie das Helligåndshuset und die beiden Hauptkirchen der Stadt entdecken. Nach dem Mittagessen führt Sie eine malerische Radtour aufs Land zum Kunst- und Kulturzentrum Rønnebæksholm. Genießen Sie dort die Ruhe und die kreative Atmosphäre, bevor Sie für einen entspannten Abend ins Stadtzentrum zurückkehren.",
+        "hu": "Pattanjon kerékpárra, és fedezze fel Næstvedet. Kezdje az Axeltorv téren, majd fedezze fel a történelmi kincseket, mint a Helligåndshuset és a város két fő temploma. Ebéd után egy festői kerékpárút vezet a Rønnebæksholm művészeti és kulturális központba. Élvezze a nyugalmat és a kreatív légkört, mielőtt visszatérne a városközpontba egy pihentető estére.",
+        "ro": "Urcați-vă pe bicicletă pentru un tur de explorare a orașului Næstved. Începeți din Piața Axeltorv înainte de a descoperi comorile istorice precum Helligåndshuset și cele două biserici principale ale orașului. După prânz, o plimbare pitorească cu bicicleta vă duce la centrul de artă și cultură Rønnebæksholm. Bucurați-vă de liniște și de atmosfera creativă de acolo înainte de a vă întoarce în centrul orașului pentru o seară relaxantă.",
+        "en": "Get on your bike for an exploratory tour of Næstved. Start at Axeltorv Square before discovering historical treasures like Helligåndshuset and the city's two main churches. After lunch, a scenic bike ride takes you to the countryside art and culture center, Rønnebæksholm. Enjoy the tranquility and creative atmosphere there before returning to the city center for a relaxing evening."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hindbærsnitte",
+            "tip": "Ein dänisches Gebäck mit Himbeermarmelade, perfekt für eine Kaffeepause."
+          },
+          {
+            "name": "Bøfhus",
+            "tip": "Suchen Sie nach einem lokalen Steakhaus für ein herzhaftes Abendessen."
+          },
+          {
+            "name": "Caféer ved Suså",
+            "tip": "Entlang des Flusses gibt es mehrere Cafés für eine Pause mit Aussicht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hindbærsnitte",
+            "tip": "Málnás dán sütemény, tökéletes egy kávészünethez."
+          },
+          {
+            "name": "Bøfhus",
+            "tip": "Keressen egy helyi steakhouse-t egy kiadós vacsorához."
+          },
+          {
+            "name": "Kávézók a Suså mentén",
+            "tip": "A folyó mentén több kávézó is található egy pihenőhöz, kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hindbærsnitte",
+            "tip": "O prăjitură daneză cu gem de zmeură, perfectă pentru o pauză de cafea."
+          },
+          {
+            "name": "Bøfhus",
+            "tip": "Căutați o friptură locală pentru o cină copioasă."
+          },
+          {
+            "name": "Cafenele de-a lungul Suså",
+            "tip": "Există mai multe cafenele de-a lungul râului pentru o pauză cu priveliște."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hindbærsnitte",
+            "tip": "A Danish pastry with raspberry jam, perfect for a coffee break."
+          },
+          {
+            "name": "Bøfhus",
+            "tip": "Look for a local steakhouse for a hearty dinner."
+          },
+          {
+            "name": "Cafés along Suså",
+            "tip": "There are several cafés along the river for a break with a view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gavnø Schlosspark",
+            "tip": "Obwohl mit dem Auto erreichbar, ist die Ruhe des Parks unübertroffen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Radweg nach Rønnebæksholm",
+            "tip": "Die Strecke selbst ist ein friedliches Erlebnis.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Karrebæksminde Strand am späten Nachmittag",
+            "tip": "Perfekt, um den Sonnenuntergang zu beobachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gavnø kastélypark",
+            "tip": "Bár autóval is elérhető, a park nyugalma felülmúlhatatlan.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kerékpárút Rønnebæksholm felé",
+            "tip": "Maga az útvonal is egy békés élmény.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Karrebæksminde strand késő délután",
+            "tip": "Tökéletes a naplemente megtekintéséhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului Gavnø",
+            "tip": "Deși accesibil cu mașina, liniștea parcului este de neegalat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pista de biciclete spre Rønnebæksholm",
+            "tip": "Traseul în sine este o experiență pașnică.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plaja Karrebæksminde după-amiaza târziu",
+            "tip": "Perfect pentru a privi apusul.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gavnø Castle Park",
+            "tip": "Although reachable by car, the tranquility of the park is unmatched.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bike path to Rønnebæksholm",
+            "tip": "The route itself is a peaceful experience.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Karrebæksminde beach in the late afternoon",
+            "tip": "Perfect for watching the sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad im Stadtzentrum, wenn Sie keins dabeihaben.",
+          "Die Radwege sind gut ausgebaut, aber achten Sie auf den Verkehr in der Stadt.",
+          "Nehmen Sie eine Wasserflasche und Snacks für die Fahrt nach Rønnebæksholm mit.",
+          "Ein Schloss ist unerlässlich, wenn Sie Ihr Fahrrad abstellen, um Sehenswürdigkeiten zu besichtigen."
+        ],
+        "hu": [
+          "Béreljen kerékpárt a városközpontban, ha nincs sajátja.",
+          "A kerékpárutak jól karbantartottak, de figyeljen a városi forgalomra.",
+          "Vigyen magával vizet és harapnivalót a Rønnebæksholm felé vezető útra.",
+          "Egy lakat elengedhetetlen, ha lezárja a kerékpárt a látnivalók megtekintése közben."
+        ],
+        "ro": [
+          "Închiriați o bicicletă în centrul orașului dacă nu aveți una.",
+          "Pistele de biciclete sunt bine întreținute, dar fiți atenți la traficul din oraș.",
+          "Luați o sticlă de apă și gustări pentru drumul spre Rønnebæksholm.",
+          "Un lacăt este esențial atunci când vă lăsați bicicleta pentru a vizita obiectivele turistice."
+        ],
+        "en": [
+          "Rent a bike in the city center if you don't have one.",
+          "The bike paths are well-maintained, but be mindful of city traffic.",
+          "Bring a water bottle and snacks for the ride to Rønnebæksholm.",
+          "A lock is essential when leaving your bike to sightsee."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 35.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Næstved Zentrum",
+            "hu": "1. Klaszter: Næstved központ",
+            "ro": "Cluster 1: Centrul Næstved",
+            "en": "Cluster 1: Næstved Center"
+          },
+          "coords": [
+            11.759,
+            55.229
+          ],
+          "category": "parking",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto in einem der zentralen Parkhäuser für den Vormittag.",
+            "hu": "Parkolja le autóját a délelőttre egy központi parkolóházban.",
+            "ro": "Parcați-vă mașina într-una dintre parcările centrale pentru dimineață.",
+            "en": "Park your car in a central parking garage for the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Axeltorv & Sct. Mortens Kirke",
+            "hu": "Axeltorv és Szent Márton-templom",
+            "ro": "Axeltorv și Biserica Sf. Martin",
+            "en": "Axeltorv & St. Martin's Church"
+          },
+          "coords": [
+            11.76,
+            55.2285
+          ],
+          "category": "squares",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie den Hauptplatz und die angrenzende Kirche zu Fuß.",
+            "hu": "Fedezze fel gyalog a főteret és a szomszédos templomot.",
+            "ro": "Explorați piața principală și biserica adiacentă pe jos.",
+            "en": "Explore the main square and the adjacent church on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Helligåndshuset",
+            "hu": "Helligåndshuset",
+            "ro": "Helligåndshuset",
+            "en": "House of the Holy Ghost"
+          },
+          "coords": [
+            11.7585,
+            55.229
+          ],
+          "category": "museums",
+          "arrive_at": "10:20",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz entfernt, tauchen Sie ein in die mittelalterliche Geschichte.",
+            "hu": "Egy rövid séta a tértől, merüljön el a középkori történelemben.",
+            "ro": "La o scurtă plimbare de piață, scufundați-vă în istoria medievală.",
+            "en": "A short walk from the square, dive into medieval history."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Gavnø Slot",
+            "hu": "2. Klaszter: Gavnø kastély",
+            "ro": "Cluster 2: Castelul Gavnø",
+            "en": "Cluster 2: Gavnø Castle"
+          },
+          "coords": [
+            11.721,
+            55.185
+          ],
+          "category": "castles",
+          "arrive_at": "12:00",
+          "stay_min": 150,
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Schloss. Planen Sie Zeit für das Schloss, die Gärten und die Tulpenausstellung (im Frühling) ein.",
+            "hu": "Vezessen a kastélyhoz. Tervezzen időt a kastélyra, a kertekre és a tulipánkiállításra (tavasszal).",
+            "ro": "Conduceți la castel. Planificați timp pentru castel, grădini și expoziția de lalele (primăvara).",
+            "en": "Drive to the castle. Plan time for the castle, gardens, and the tulip exhibition (in spring)."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe von Gavnø",
+            "hu": "Ebéd Gavnø közelében",
+            "ro": "Prânz lângă Gavnø",
+            "en": "Lunch near Gavnø"
+          },
+          "coords": [
+            11.725,
+            55.186
+          ],
+          "category": "gastro",
+          "arrive_at": "14:30",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Das Schlosscafé bietet eine gute Gelegenheit für eine Stärkung.",
+            "hu": "A kastély kávézója jó lehetőséget kínál egy frissítőre.",
+            "ro": "Cafeneaua castelului oferă o oportunitate bună pentru o masă.",
+            "en": "The castle café offers a good opportunity for refreshments."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Karrebæksminde",
+            "hu": "3. Klaszter: Karrebæksminde",
+            "ro": "Cluster 3: Karrebæksminde",
+            "en": "Cluster 3: Karrebæksminde"
+          },
+          "coords": [
+            11.65,
+            55.175
+          ],
+          "category": "beaches",
+          "arrive_at": "16:10",
+          "stay_min": 180,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 26.5,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag am Meer. Machen Sie einen Strandspaziergang, essen Sie Fisch und genießen Sie die maritime Atmosphäre.",
+            "hu": "Zárja a napot a tengernél. Sétáljon a parton, egyen halat és élvezze a tengeri hangulatot.",
+            "ro": "Încheiați ziua la mare. Faceți o plimbare pe plajă, mâncați pește și bucurați-vă de atmosfera maritimă.",
+            "en": "End the day by the sea. Take a beach walk, eat fish, and enjoy the maritime atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Autotagesausflug kombiniert Stadtkultur mit Naturerlebnissen. Parken Sie im Zentrum von Næstved und erkunden Sie die historischen Gassen zu Fuß. Am Vormittag besuchen Sie den Marktplatz und das mittelalterliche Helligåndshuset. Danach fahren Sie zum prächtigen Gavnø Slot, wo Sie im Schloss und seinen Gärten den Mittag verbringen. Der Tag endet mit einer Fahrt zum Küstenort Karrebæksminde, wo Sie am Strand entspannen, frischen Fisch genießen und den Sonnenuntergang über dem Meer beobachten.",
+        "hu": "Ez az autós napos kirándulás ötvözi a városi kultúrát a természeti élményekkel. Parkoljon Næstved központjában, és fedezze fel gyalog a történelmi sikátorokat. Délelőtt látogasson el a piactérre és a középkori Helligåndshusetbe. Ezután vezessen a csodálatos Gavnø kastélyhoz, ahol a kastélyban és a kertjében töltheti a délt. A nap a tengerparti Karrebæksminde városába tett utazással zárul, ahol pihenhet a strandon, friss halat ehet, és figyelheti a naplementét a tenger felett.",
+        "ro": "Această excursie de o zi cu mașina combină cultura orașului cu experiențe în natură. Parcați în centrul orașului Næstved și explorați aleile istorice pe jos. Dimineața, vizitați piața și medievalul Helligåndshuset. Apoi, conduceți la magnificul Castel Gavnø, unde petreceți amiaza în castel și grădinile sale. Ziua se încheie cu o excursie în orașul de coastă Karrebæksminde, unde vă puteți relaxa pe plajă, puteți mânca pește proaspăt și puteți privi apusul peste mare.",
+        "en": "This car day trip combines city culture with natural experiences. Park in the center of Næstved and explore the historic alleys on foot. In the morning, visit the market square and the medieval Helligåndshuset. Then, drive to the magnificent Gavnø Castle, where you'll spend midday in the castle and its gardens. The day concludes with a drive to the coastal town of Karrebæksminde, where you can relax on the beach, eat fresh fish, and watch the sunset over the sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fischgerichte in Karrebæksminde",
+            "tip": "Probieren Sie den frisch gefangenen Fisch des Tages in einem der Hafenrestaurants."
+          },
+          {
+            "name": "Gavnø Slotsbryggeri",
+            "tip": "Das Schloss hat eine eigene Brauerei. Probieren Sie das lokale Bier."
+          },
+          {
+            "name": "Dänisches Eis",
+            "tip": "Ein 'Gammeldags' Eis am Strand ist ein Muss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halételek Karrebæksmindében",
+            "tip": "Kóstolja meg a nap frissen fogott halát az egyik kikötői étteremben."
+          },
+          {
+            "name": "Gavnø Kastély Sörfőzde",
+            "tip": "A kastélynak saját sörfőzdéje van. Kóstolja meg a helyi sört."
+          },
+          {
+            "name": "Dán fagylalt",
+            "tip": "Egy 'Gammeldags' fagylalt a tengerparton kötelező."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mâncăruri de pește în Karrebæksminde",
+            "tip": "Încercați peștele proaspăt al zilei la unul dintre restaurantele din port."
+          },
+          {
+            "name": "Berăria Castelului Gavnø",
+            "tip": "Castelul are propria sa berărie. Încercați berea locală."
+          },
+          {
+            "name": "Înghețată daneză",
+            "tip": "O înghețată 'Gammeldags' pe plajă este obligatorie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish dishes in Karrebæksminde",
+            "tip": "Try the fresh catch of the day at one of the harbor restaurants."
+          },
+          {
+            "name": "Gavnø Castle Brewery",
+            "tip": "The castle has its own brewery. Try the local beer."
+          },
+          {
+            "name": "Danish Ice Cream",
+            "tip": "A 'Gammeldags' ice cream on the beach is a must."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Strand von Karrebæksminde",
+            "tip": "Ein Spaziergang entlang der Wasserlinie bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gärten von Gavnø Slot",
+            "tip": "Finden Sie eine abgelegene Bank und genießen Sie die Blumen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Herlufsholm Wald",
+            "tip": "Wenn Sie Zeit haben, ist der Wald in der Nähe der Schule ein friedlicher Ort.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Karrebæksminde strandja",
+            "tip": "Séta a vízparton naplementekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gavnø kastély kertjei",
+            "tip": "Keressen egy eldugott padot, és élvezze a virágokat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Herlufsholm-erdő",
+            "tip": "Ha van ideje, az iskola melletti erdő békés hely.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Karrebæksminde",
+            "tip": "O plimbare de-a lungul malului apei la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile Castelului Gavnø",
+            "tip": "Găsiți o bancă retrasă și bucurați-vă de flori.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pădurea Herlufsholm",
+            "tip": "Dacă aveți timp, pădurea de lângă școală este un loc pașnic.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Karrebæksminde Beach",
+            "tip": "A walk along the water's edge at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gavnø Castle Gardens",
+            "tip": "Find a secluded bench and enjoy the flowers.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Herlufsholm Forest",
+            "tip": "If you have time, the forest near the school is a peaceful place.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Parkgebühren und -zeiten im Stadtzentrum.",
+          "Buchen Sie Tickets für Gavnø Slot online, um Wartezeiten zu vermeiden.",
+          "In Karrebæksminde kann es im Sommer voll werden, seien Sie auf Parkplatzsuche vorbereitet.",
+          "Die Straßen zwischen den Sehenswürdigkeiten sind gut ausgebaut und landschaftlich reizvoll."
+        ],
+        "hu": [
+          "Ellenőrizze a parkolási díjakat és időket a városközpontban.",
+          "Foglaljon online jegyet a Gavnø kastélyba a sorban állás elkerülése érdekében.",
+          "Karrebæksminde nyáron zsúfolt lehet, készüljön fel a parkolóhely keresésére.",
+          "Az utak a látnivalók között jól karbantartottak és festőiek."
+        ],
+        "ro": [
+          "Verificați taxele și orele de parcare în centrul orașului.",
+          "Rezervați bilete online pentru Castelul Gavnø pentru a evita așteptarea.",
+          "Karrebæksminde poate fi aglomerat vara, fiți pregătiți să căutați parcare.",
+          "Drumurile dintre atracții sunt bine întreținute și pitorești."
+        ],
+        "en": [
+          "Check parking fees and times in the city center.",
+          "Book tickets for Gavnø Castle online to avoid queues.",
+          "Karrebæksminde can get crowded in summer, be prepared to look for parking.",
+          "The roads between the sights are well-maintained and scenic."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 20.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof Næstved",
+            "hu": "Érkezés a Næstved vasútállomásra",
+            "ro": "Sosire la gara Næstved",
+            "en": "Arrival at Næstved Station"
+          },
+          "coords": [
+            11.765,
+            55.232
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für den Bus, um sich flexibel zu bewegen.",
+            "hu": "Vásároljon egy napijegyet a buszra a rugalmas közlekedés érdekében.",
+            "ro": "Cumpărați un bilet de o zi pentru autobuz pentru a vă deplasa flexibil.",
+            "en": "Buy a day pass for the bus for flexible travel."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 1: Stadtzentrum zu Fuß",
+            "hu": "1. Klaszter: Városközpont gyalog",
+            "ro": "Cluster 1: Centrul orașului pe jos",
+            "en": "Cluster 1: City Center on foot"
+          },
+          "coords": [
+            11.7595,
+            55.2295
+          ],
+          "category": "squares",
+          "arrive_at": "09:30",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie Axeltorv, Sct. Peders Kirke und das Helligåndshuset.",
+            "hu": "Fedezze fel az Axeltorv teret, a Szent Péter-templomot és a Helligåndshusetet.",
+            "ro": "Explorați Piața Axeltorv, Biserica Sf. Petru și Helligåndshuset.",
+            "en": "Explore Axeltorv, St. Peter's Church, and the Helligåndshuset."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the center"
+          },
+          "coords": [
+            11.76,
+            55.229
+          ],
+          "category": "gastro",
+          "arrive_at": "11:30",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie ein Mittagessen, bevor Sie den Bus zum nächsten Ziel nehmen.",
+            "hu": "Élvezze az ebédet, mielőtt buszra szállna a következő úticél felé.",
+            "ro": "Savurați prânzul înainte de a lua autobuzul spre următoarea destinație.",
+            "en": "Enjoy lunch before taking the bus to the next destination."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Rønnebæksholm",
+            "hu": "2. Klaszter: Rønnebæksholm",
+            "ro": "Cluster 2: Rønnebæksholm",
+            "en": "Cluster 2: Rønnebæksholm"
+          },
+          "coords": [
+            11.82,
+            55.223
+          ],
+          "category": "historical",
+          "arrive_at": "13:20",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus nach Rønnebæksholm. Prüfen Sie den Fahrplan für die Rückfahrt.",
+            "hu": "Szálljon buszra Rønnebæksholm felé. Ellenőrizze a menetrendet a visszaútra.",
+            "ro": "Luați autobuzul spre Rønnebæksholm. Verificați orarul pentru întoarcere.",
+            "en": "Take the bus to Rønnebæksholm. Check the schedule for the return trip."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Karrebæksminde",
+            "hu": "3. Klaszter: Karrebæksminde",
+            "ro": "Cluster 3: Karrebæksminde",
+            "en": "Cluster 3: Karrebæksminde"
+          },
+          "coords": [
+            11.65,
+            55.175
+          ],
+          "category": "beaches",
+          "arrive_at": "16:10",
+          "stay_min": 140,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 12.2,
+          "tip_5lang": {
+            "de": "Ein weiterer Bus bringt Sie direkt an die Küste. Genießen Sie den Abend am Meer.",
+            "hu": "Egy másik busz egyenesen a partra visz. Élvezze az estét a tengernél.",
+            "ro": "Un alt autobuz vă duce direct la coastă. Bucurați-vă de seara la mare.",
+            "en": "Another bus takes you directly to the coast. Enjoy the evening by the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Næstved und seine Umgebung bequem mit öffentlichen Verkehrsmitteln. Nach der Ankunft am Bahnhof tauchen Sie zu Fuß in die Atmosphäre des Stadtzentrums ein. Nach dem Mittagessen bringt Sie ein Bus zum Kulturzentrum Rønnebæksholm. Der Höhepunkt des Tages ist eine weitere Busfahrt zum charmanten Küstenort Karrebæksminde, wo Sie den Tag mit Meeresbrise und einem entspannten Abendessen ausklingen lassen, bevor Sie mit dem Bus ins Zentrum zurückkehren.",
+        "hu": "Fedezze fel Næstvedet és környékét kényelmesen a tömegközlekedéssel. Az állomásra érkezés után gyalog merüljön el a városközpont hangulatában. Ebéd után egy busz visz a Rønnebæksholm kulturális központba. A nap fénypontja egy újabb buszút a bájos tengerparti városba, Karrebæksmindébe, ahol a napot tengeri szellővel és egy pihentető vacsorával zárhatja, mielőtt busszal visszatérne a központba.",
+        "ro": "Explorați Næstved și împrejurimile sale confortabil cu transportul public. După sosirea la gară, scufundați-vă în atmosfera centrului orașului pe jos. După prânz, un autobuz vă duce la centrul cultural Rønnebæksholm. Punctul culminant al zilei este o altă călătorie cu autobuzul spre fermecătorul oraș de coastă Karrebæksminde, unde puteți încheia ziua cu o briză de mare și o cină relaxantă înainte de a vă întoarce în centru cu autobuzul.",
+        "en": "Explore Næstved and its surroundings comfortably by public transport. After arriving at the station, immerse yourself in the city center's atmosphere on foot. After lunch, a bus takes you to the Rønnebæksholm cultural center. The day's highlight is another bus ride to the charming coastal town of Karrebæksminde, where you can end the day with a sea breeze and a relaxing dinner before returning to the center by bus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pølser",
+            "tip": "Ein dänischer Hotdog von einem Straßenstand ist ein schneller und leckerer Snack."
+          },
+          {
+            "name": "Fiskefrikadeller",
+            "tip": "Fischfrikadellen, eine Spezialität in Küstennähe."
+          },
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Holen Sie sich ein Wienerbrød (dänisches Gebäck) für die Busfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pølser",
+            "tip": "Egy dán hot-dog egy utcai árustól gyors és finom harapnivaló."
+          },
+          {
+            "name": "Fiskefrikadeller",
+            "tip": "Halfasírt, a tengerparti területek specialitása."
+          },
+          {
+            "name": "Helyi pékség",
+            "tip": "Vegyen egy Wienerbrød-t (dán péksüteményt) a buszútra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pølser",
+            "tip": "Un hotdog danez de la o tarabă stradală este o gustare rapidă și gustoasă."
+          },
+          {
+            "name": "Fiskefrikadeller",
+            "tip": "Chiftele de pește, o specialitate în zonele de coastă."
+          },
+          {
+            "name": "Brutărie locală",
+            "tip": "Luați un Wienerbrød (produse de patiserie daneze) pentru călătoria cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pølser",
+            "tip": "A Danish hot dog from a street stand is a quick and tasty snack."
+          },
+          {
+            "name": "Fiskefrikadeller",
+            "tip": "Fish cakes, a specialty near the coast."
+          },
+          {
+            "name": "Local Bakery",
+            "tip": "Grab a Wienerbrød (Danish pastry) for the bus ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfenster-Aussicht",
+            "tip": "Genießen Sie die vorbeiziehende Landschaft auf dem Weg nach Karrebæksminde.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park von Rønnebæksholm",
+            "tip": "Ein ruhiger Ort, um die Beine zu vertreten, bevor der nächste Bus kommt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Die Mole in Karrebæksminde",
+            "tip": "Spazieren Sie bis zum Ende und lauschen Sie den Wellen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a busz ablakából",
+            "tip": "Élvezze az elsuhanó tájat a Karrebæksminde felé vezető úton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rønnebæksholm parkja",
+            "tip": "Csendes hely a lábak kinyújtóztatására a következő busz érkezése előtt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A móló Karrebæksmindében",
+            "tip": "Sétáljon el a végéig, és hallgassa a hullámokat.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Priveliștea de la fereastra autobuzului",
+            "tip": "Bucurați-vă de peisajul care trece în drum spre Karrebæksminde.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Rønnebæksholm",
+            "tip": "Un loc liniștit pentru a vă dezmorți picioarele înainte de sosirea următorului autobuz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Digul din Karrebæksminde",
+            "tip": "Plimbați-vă până la capăt și ascultați valurile.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus window view",
+            "tip": "Enjoy the passing scenery on the way to Karrebæksminde.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rønnebæksholm Park",
+            "tip": "A quiet place to stretch your legs before the next bus arrives.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "The pier at Karrebæksminde",
+            "tip": "Walk to the end and listen to the waves.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie eine lokale ÖPNV-App herunter, um Fahrpläne in Echtzeit zu sehen.",
+          "Die Busse fahren regelmäßig, aber es ist gut, den Zeitplan für die letzte Rückfahrt zu kennen.",
+          "Eine Tageskarte ist oft günstiger als mehrere Einzeltickets.",
+          "Die Bushaltestellen für die Hauptattraktionen sind in der Regel gut ausgeschildert."
+        ],
+        "hu": [
+          "Töltsön le egy helyi tömegközlekedési alkalmazást a valós idejű menetrendekért.",
+          "A buszok rendszeresen közlekednek, de jó tudni az utolsó visszaindulás időpontját.",
+          "Egy napijegy gyakran olcsóbb, mint több külön jegy.",
+          "A fő látnivalókhoz tartozó buszmegállók általában jól ki vannak táblázva."
+        ],
+        "ro": [
+          "Descărcați o aplicație locală de transport public pentru orare în timp real.",
+          "Autobuzele circulă regulat, dar este bine să știți programul pentru ultima întoarcere.",
+          "Un bilet de o zi este adesea mai ieftin decât mai multe bilete simple.",
+          "Stațiile de autobuz pentru atracțiile principale sunt de obicei bine semnalizate."
+        ],
+        "en": [
+          "Download a local public transport app for real-time schedules.",
+          "Buses run regularly, but it's good to know the schedule for the last return trip.",
+          "A day pass is often cheaper than multiple single tickets.",
+          "The bus stops for the main attractions are usually well-marked."
+        ]
+      }
+    }
+  }
+}

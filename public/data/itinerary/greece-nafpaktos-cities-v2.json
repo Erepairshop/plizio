@@ -1,0 +1,1355 @@
+{
+  "city_id": "greece-nafpaktos-cities-v2",
+  "anchor": {
+    "name": "Nafpaktos",
+    "coords": [
+      21.8333,
+      38.3833
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:56",
+      "total_km": 3.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Venezianischer Hafen",
+            "hu": "Velencei kikötő",
+            "ro": "Portul Venețian",
+            "en": "Venetian Port"
+          },
+          "coords": [
+            21.8265,
+            38.3838
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Statue von Miguel de Cervantes",
+            "hu": "Miguel de Cervantes szobra",
+            "ro": "Statuia lui Miguel de Cervantes",
+            "en": "Statue of Miguel de Cervantes"
+          },
+          "coords": [
+            21.8258,
+            38.3842
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:52",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1
+        },
+        {
+          "name": {
+            "de": "Fethiye-Moschee",
+            "hu": "Fethiye-dzsámi",
+            "ro": "Moscheea Fethiye",
+            "en": "Fethiye Mosque"
+          },
+          "coords": [
+            21.8281,
+            38.3855
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:11",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Botsaris-Turm",
+            "hu": "Botsaris-torony",
+            "ro": "Turnul Botsaris",
+            "en": "Botsaris Tower"
+          },
+          "coords": [
+            21.8272,
+            38.3861
+          ],
+          "category": "museums",
+          "arrive_at": "10:53",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Dimitrios",
+            "hu": "Agios Dimitrios templom",
+            "ro": "Biserica Sfântul Dimitrie",
+            "en": "Church of Agios Dimitrios"
+          },
+          "coords": [
+            21.832,
+            38.389
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:45",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6
+        },
+        {
+          "name": {
+            "de": "Uhrturm",
+            "hu": "Óratorony",
+            "ro": "Turnul cu Ceas",
+            "en": "Clock Tower"
+          },
+          "coords": [
+            21.831,
+            38.392
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:06",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Burg von Nafpaktos",
+            "hu": "Nafpaktos vára",
+            "ro": "Castelul din Nafpaktos",
+            "en": "Castle of Nafpaktos"
+          },
+          "coords": [
+            21.83,
+            38.395
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:41",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Psani-Strand",
+            "hu": "Psani strand",
+            "ro": "Plaja Psani",
+            "en": "Psani Beach"
+          },
+          "coords": [
+            21.82,
+            38.385
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:41",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am malerischen venezianischen Hafen, dem Herzen von Nafpaktos. Am Vormittag erkunden Sie die verwinkelten Gassen der Altstadt, entdecken historische Juwelen wie die Fethiye-Moschee und den Botsaris-Turm. Nach dem Mittagessen führt Sie ein Aufstieg zur imposanten Burg, die mit einem atemberaubenden Panoramablick über den Golf von Korinth belohnt. Beenden Sie Ihren Spaziergang am Nachmittag entspannt am Psani-Strand und genießen Sie die Meeresbrise.",
+        "hu": "Kezdje a napot a festői velencei kikötőnél, Nafpaktos szívében. A délelőtt folyamán fedezze fel az óváros kanyargós utcáit, olyan történelmi gyöngyszemeket, mint a Fethiye-dzsámi és a Botsaris-torony. Ebéd után másszon fel a lenyűgöző várhoz, ahonnan lélegzetelállító panoráma nyílik a Korinthoszi-öbölre. Délután fejezze be a sétát a Psani strandon pihenve, élvezve a tengeri szellőt.",
+        "ro": "Începeți ziua în pitorescul port venețian, inima orașului Nafpaktos. În timpul dimineții, explorați străduțele întortocheate ale orașului vechi, descoperind bijuterii istorice precum Moscheea Fethiye și Turnul Botsaris. După prânz, urcați la castelul impunător, care vă va răsplăti cu o panoramă uluitoare asupra Golfului Corint. Încheiați plimbarea după-amiaza relaxându-vă pe plaja Psani, bucurându-vă de briza mării.",
+        "en": "Start your day at the picturesque Venetian Port, the heart of Nafpaktos. In the morning, explore the winding streets of the old town, discovering historical gems like the Fethiye Mosque and the Botsaris Tower. After lunch, a climb takes you to the imposing castle, rewarding you with a breathtaking panoramic view over the Gulf of Corinth. End your walk in the afternoon relaxing on Psani Beach, enjoying the sea breeze."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frischer Fisch vom Grill",
+            "tip": "Probieren Sie den Fang des Tages in einer der Tavernen am Hafen."
+          },
+          {
+            "name": "Gavros (Sardellen)",
+            "tip": "Kleine, frittierte Fische, ein perfekter Meze-Snack."
+          },
+          {
+            "name": "Oktopus in Essig",
+            "tip": "Ein klassischer griechischer Vorspeise, oft sonnengetrocknet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Frissen grillezett hal",
+            "tip": "Kóstolja meg a napi fogást a kikötői tavernák egyikében."
+          },
+          {
+            "name": "Gavros (szardella)",
+            "tip": "Apró, sült halak, tökéletes meze-falat."
+          },
+          {
+            "name": "Polip ecetben",
+            "tip": "Klasszikus görög előétel, gyakran napon szárítva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește proaspăt la grătar",
+            "tip": "Încercați captura zilei la una dintre tavernele din port."
+          },
+          {
+            "name": "Gavros (hamsii)",
+            "tip": "Pești mici, prăjiți, o gustare meze perfectă."
+          },
+          {
+            "name": "Caracatiță în oțet",
+            "tip": "Un aperitiv grecesc clasic, adesea uscat la soare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fresh Grilled Fish",
+            "tip": "Try the catch of the day at one of the taverns by the port."
+          },
+          {
+            "name": "Gavros (Anchovies)",
+            "tip": "Small, fried fish, a perfect meze snack."
+          },
+          {
+            "name": "Octopus in Vinegar",
+            "tip": "A classic Greek appetizer, often sun-dried."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Burg von Nafpaktos",
+            "tip": "Finden Sie eine ruhige Ecke auf den Mauern und genießen Sie die Aussicht.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Gribovo-Strand am Morgen",
+            "tip": "Früh am Tag ist der Strand friedlich und ideal für eine ruhige Pause.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Obere Gassen zur Burg",
+            "tip": "Die weniger begangenen Wege bieten Ruhe abseits der Menschenmassen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nafpaktos vára",
+            "tip": "Keressen egy csendes zugot a falakon, és élvezze a kilátást.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Gribovo strand reggel",
+            "tip": "A nap elején a strand békés és ideális egy csendes pihenőhöz.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Felső utcák a várhoz",
+            "tip": "A kevésbé járt ösvények nyugalmat kínálnak a tömegtől távol.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Castelul din Nafpaktos",
+            "tip": "Găsiți un colț liniștit pe ziduri și bucurați-vă de priveliște.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Plaja Gribovo dimineața",
+            "tip": "La începutul zilei, plaja este pașnică și ideală pentru o pauză liniștită.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Străduțele superioare spre castel",
+            "tip": "Căile mai puțin circulate oferă liniște departe de mulțimi.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle of Nafpaktos",
+            "tip": "Find a quiet corner on the walls and enjoy the view.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Gribovo Beach in the morning",
+            "tip": "Early in the day, the beach is peaceful and ideal for a quiet break.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Upper alleys to the castle",
+            "tip": "The less-traveled paths offer tranquility away from the crowds.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Keramik",
+            "tip": "Handgefertigte Töpferwaren mit traditionellen griechischen Motiven."
+          },
+          {
+            "name": "Olivenöl und Oliven",
+            "tip": "Kaufen Sie lokales, natives Olivenöl extra direkt von Produzenten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerámia",
+            "tip": "Kézzel készített agyagtárgyak hagyományos görög motívumokkal."
+          },
+          {
+            "name": "Olívaolaj és olajbogyó",
+            "tip": "Vásároljon helyi, extra szűz olívaolajat közvetlenül a termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică locală",
+            "tip": "Articole de olărit lucrate manual cu motive tradiționale grecești."
+          },
+          {
+            "name": "Ulei de măsline și măsline",
+            "tip": "Cumpărați ulei de măsline extra virgin local direct de la producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Ceramics",
+            "tip": "Handmade pottery with traditional Greek motifs."
+          },
+          {
+            "name": "Olive Oil and Olives",
+            "tip": "Buy local, extra virgin olive oil directly from producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Straßen zur Burg steil und gepflastert sind.",
+          "Nehmen Sie viel Wasser mit, besonders für den Aufstieg zur Burg.",
+          "Die Strände können mittags sehr voll werden, planen Sie Ihren Besuch entsprechend.",
+          "Achten Sie auf unebene Pflastersteine in der Altstadt."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a várhoz vezető utak meredekek és macskakövesek.",
+          "Vigyen magával sok vizet, különösen a várhoz való feljutáshoz.",
+          "A strandok délben nagyon zsúfoltak lehetnek, tervezze meg a látogatását ennek megfelelően.",
+          "Vigyázzon az egyenetlen macskakövekre az óvárosban."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece străzile spre castel sunt abrupte și pavate.",
+          "Luați multă apă cu dumneavoastră, mai ales pentru urcarea la castel.",
+          "Plajele pot deveni foarte aglomerate la prânz, planificați-vă vizita în consecință.",
+          "Atenție la pavelele inegale din orașul vechi."
+        ],
+        "en": [
+          "Wear comfortable shoes as the streets to the castle are steep and cobbled.",
+          "Bring plenty of water, especially for the climb to the castle.",
+          "The beaches can get very crowded at midday, so plan your visit accordingly.",
+          "Watch out for uneven cobblestones in the old town."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 6.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Psani-Strand",
+            "hu": "Psani strand",
+            "ro": "Plaja Psani",
+            "en": "Psani Beach"
+          },
+          "coords": [
+            21.82,
+            38.385
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Venezianischer Hafen",
+            "hu": "Velencei kikötő",
+            "ro": "Portul Venețian",
+            "en": "Venetian Port"
+          },
+          "coords": [
+            21.8265,
+            38.3838
+          ],
+          "category": "port",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8
+        },
+        {
+          "name": {
+            "de": "Statue von Miguel de Cervantes",
+            "hu": "Miguel de Cervantes szobra",
+            "ro": "Statuia lui Miguel de Cervantes",
+            "en": "Statue of Miguel de Cervantes"
+          },
+          "coords": [
+            21.8258,
+            38.3842
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:11",
+          "stay_min": 15,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1
+        },
+        {
+          "name": {
+            "de": "Botsaris-Turm",
+            "hu": "Botsaris-torony",
+            "ro": "Turnul Botsaris",
+            "en": "Botsaris Tower"
+          },
+          "coords": [
+            21.8272,
+            38.3861
+          ],
+          "category": "museums",
+          "arrive_at": "11:29",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Fethiye-Moschee",
+            "hu": "Fethiye-dzsámi",
+            "ro": "Moscheea Fethiye",
+            "en": "Fethiye Mosque"
+          },
+          "coords": [
+            21.8281,
+            38.3855
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:10",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1
+        },
+        {
+          "name": {
+            "de": "Gribovo-Strand",
+            "hu": "Gribovo strand",
+            "ro": "Plaja Gribovo",
+            "en": "Gribovo Beach"
+          },
+          "coords": [
+            21.838,
+            38.388
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:58",
+          "stay_min": 180,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.2
+        },
+        {
+          "name": {
+            "de": "Burg von Nafpaktos",
+            "hu": "Nafpaktos vára",
+            "ro": "Castelul din Nafpaktos",
+            "en": "Castle of Nafpaktos"
+          },
+          "coords": [
+            21.83,
+            38.395
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "17:23",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Psani-Strand und radeln Sie entlang der Küste zum belebten venezianischen Hafen. Am Vormittag erkunden Sie die Sehenswürdigkeiten rund um den Hafen, bevor Sie eine längere Pause im Botsaris-Turm Museum einlegen. Nach dem Mittagessen führt Sie die Tour zum östlichen Gribovo-Strand für eine ausgiebige Badepause. Der Tag endet mit einer anspruchsvollen, aber lohnenden Fahrt hinauf zur Burg, um den Sonnenuntergang zu genießen.",
+        "hu": "Kezdje a kerékpártúrát a Psani strandról, és tekerjen a part mentén a nyüzsgő velencei kikötőig. A délelőtt folyamán fedezze fel a kikötő körüli látnivalókat, mielőtt hosszabb szünetet tartana a Botsaris-torony múzeumában. Ebéd után a túra a keleti Gribovo strandra vezet egy kiadós fürdőzésre. A nap egy kihívást jelentő, de megérő tekeréssel zárul a várhoz, hogy élvezze a naplementét.",
+        "ro": "Începeți turul cu bicicleta de la plaja Psani și pedalați de-a lungul coastei până la animatul port venețian. În timpul dimineții, explorați atracțiile din jurul portului înainte de a face o pauză mai lungă la muzeul Turnul Botsaris. După prânz, turul vă duce la plaja Gribovo din est pentru o pauză de înot extinsă. Ziua se încheie cu o plimbare provocatoare, dar plină de satisfacții, până la castel pentru a vă bucura de apus.",
+        "en": "Start your bike tour from Psani Beach and cycle along the coast to the bustling Venetian Port. In the morning, explore the sights around the port before taking a longer break at the Botsaris Tower museum. After lunch, the tour takes you to the eastern Gribovo Beach for an extensive swimming break. The day ends with a challenging but rewarding ride up to the castle to enjoy the sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Souvlaki",
+            "tip": "Ein schneller und leckerer Snack, ideal für Radfahrer."
+          },
+          {
+            "name": "Griechischer Salat (Horiatiki)",
+            "tip": "Leicht und erfrischend, perfekt für ein Mittagessen am Strand."
+          },
+          {
+            "name": "Frappé",
+            "tip": "Der berühmte griechische Eiskaffee für einen Energieschub."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Souvlaki",
+            "tip": "Gyors és ízletes falat, ideális kerékpárosoknak."
+          },
+          {
+            "name": "Görög saláta (Horiatiki)",
+            "tip": "Könnyű és frissítő, tökéletes egy tengerparti ebédhez."
+          },
+          {
+            "name": "Frappé",
+            "tip": "A híres görög jegeskávé egy energiafröccsért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Souvlaki",
+            "tip": "O gustare rapidă și delicioasă, ideală pentru bicicliști."
+          },
+          {
+            "name": "Salată grecească (Horiatiki)",
+            "tip": "Ușoară și răcoritoare, perfectă pentru un prânz pe plajă."
+          },
+          {
+            "name": "Frappé",
+            "tip": "Faimoasa cafea cu gheață grecească pentru un plus de energie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvlaki",
+            "tip": "A quick and delicious snack, ideal for cyclists."
+          },
+          {
+            "name": "Greek Salad (Horiatiki)",
+            "tip": "Light and refreshing, perfect for a beachside lunch."
+          },
+          {
+            "name": "Frappé",
+            "tip": "The famous Greek iced coffee for an energy boost."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenuntergang von der Burg",
+            "tip": "Die Aussicht auf den Golf von Korinth bei Sonnenuntergang ist magisch.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Radweg östlich von Gribovo",
+            "tip": "Fahren Sie weiter entlang der Küste für ruhigere Abschnitte.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Pausen in den Platanen",
+            "tip": "Suchen Sie Schatten unter den großen Platanen an den Stränden.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente a várból",
+            "tip": "A kilátás a Korinthoszi-öbölre naplementekor varázslatos."
+          },
+          {
+            "name": "Kerékpárút Gribovótól keletre",
+            "tip": "Tekerjen tovább a part mentén a csendesebb szakaszokért."
+          },
+          {
+            "name": "Pihenő a platánfák alatt",
+            "tip": "Keressen árnyékot a strandokon lévő nagy platánfák alatt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apus de soare de la castel",
+            "tip": "Priveliștea Golfului Corint la apus este magică."
+          },
+          {
+            "name": "Pista de biciclete la est de Gribovo",
+            "tip": "Continuați să pedalați de-a lungul coastei pentru porțiuni mai liniștite."
+          },
+          {
+            "name": "Pauze la umbra platanilor",
+            "tip": "Căutați umbră sub platanii mari de pe plaje."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunset from the Castle",
+            "tip": "The view of the Gulf of Corinth at sunset is magical."
+          },
+          {
+            "name": "Bike path east of Gribovo",
+            "tip": "Continue cycling along the coast for quieter sections."
+          },
+          {
+            "name": "Breaks under the plane trees",
+            "tip": "Seek shade under the large plane trees on the beaches."
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Thymianhonig aus der Region ist eine besondere Delikatesse."
+          },
+          {
+            "name": "Ledersandalen",
+            "tip": "Handgefertigte Sandalen sind ein klassisches griechisches Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "A régióból származó kakukkfűméz különleges finomság."
+          },
+          {
+            "name": "Bőrszandálok",
+            "tip": "A kézzel készített szandálok klasszikus görög szuvenírek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Mierea de cimbru din regiune este o delicatesă specială."
+          },
+          {
+            "name": "Sandale de piele",
+            "tip": "Sandalele lucrate manual sunt un suvenir grecesc clasic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Thyme honey from the region is a special delicacy."
+          },
+          {
+            "name": "Leather Sandals",
+            "tip": "Handmade sandals are a classic Greek souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Fahrt zur Burg ist sehr steil; eventuell müssen Sie das Fahrrad schieben.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, besonders an den belebten Stränden.",
+          "Die Küstenstraße kann Verkehr haben, fahren Sie vorsichtig.",
+          "Viele Cafés bieten kostenloses Wasser an, wenn Sie etwas bestellen."
+        ],
+        "hu": [
+          "A várhoz vezető út nagyon meredek; lehet, hogy tolnia kell a kerékpárt.",
+          "Mindig zárja le jól a kerékpárját, különösen a forgalmas strandokon.",
+          "A parti úton lehet forgalom, vezessen óvatosan.",
+          "Sok kávézó ingyenes vizet kínál, ha rendel valamit."
+        ],
+        "ro": [
+          "Urcarea la castel este foarte abruptă; s-ar putea să trebuiască să împingeți bicicleta.",
+          "Legați-vă întotdeauna bicicleta bine, mai ales pe plajele aglomerate.",
+          "Drumul de coastă poate fi aglomerat, conduceți cu prudență.",
+          "Multe cafenele oferă apă gratuită dacă comandați ceva."
+        ],
+        "en": [
+          "The ride to the castle is very steep; you may need to push your bike.",
+          "Always lock your bike securely, especially at the busy beaches.",
+          "The coastal road can have traffic, so ride carefully.",
+          "Many cafes offer free water if you order something."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Gribovo-Strand",
+            "hu": "Parkoló a Gribovo strandnál",
+            "ro": "Parcare la plaja Gribovo",
+            "en": "Parking at Gribovo Beach"
+          },
+          "coords": [
+            21.838,
+            38.388
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Venezianischer Hafen",
+            "hu": "Velencei kikötő",
+            "ro": "Portul Venețian",
+            "en": "Venetian Port"
+          },
+          "coords": [
+            21.8265,
+            38.3838
+          ],
+          "category": "port",
+          "arrive_at": "09:28",
+          "stay_min": 40,
+          "hop_mode": "car",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2.0
+        },
+        {
+          "name": {
+            "de": "Fethiye-Moschee",
+            "hu": "Fethiye-dzsámi",
+            "ro": "Moscheea Fethiye",
+            "en": "Fethiye Mosque"
+          },
+          "coords": [
+            21.8281,
+            38.3855
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:12",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Botsaris-Turm",
+            "hu": "Botsaris-torony",
+            "ro": "Turnul Botsaris",
+            "en": "Botsaris Tower"
+          },
+          "coords": [
+            21.8272,
+            38.3861
+          ],
+          "category": "museums",
+          "arrive_at": "10:54",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1
+        },
+        {
+          "name": {
+            "de": "Parkplatz an der Burg",
+            "hu": "Parkoló a várnál",
+            "ro": "Parcare la castel",
+            "en": "Parking at the Castle"
+          },
+          "coords": [
+            21.829,
+            38.394
+          ],
+          "category": "transport",
+          "arrive_at": "12:50",
+          "stay_min": 10,
+          "hop_mode": "car",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.0
+        },
+        {
+          "name": {
+            "de": "Burg von Nafpaktos",
+            "hu": "Nafpaktos vára",
+            "ro": "Castelul din Nafpaktos",
+            "en": "Castle of Nafpaktos"
+          },
+          "coords": [
+            21.83,
+            38.395
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:02",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1
+        },
+        {
+          "name": {
+            "de": "Psani-Strand",
+            "hu": "Psani strand",
+            "ro": "Plaja Psani",
+            "en": "Psani Beach"
+          },
+          "coords": [
+            21.82,
+            38.385
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:31",
+          "stay_min": 180,
+          "hop_mode": "car",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.4
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Ihr Auto, um die Cluster von Nafpaktos zu erkunden. Parken Sie morgens in der Nähe des Hafens und spazieren Sie durch das historische Zentrum, besuchen Sie die Moschee und den Botsaris-Turm. Nach diesem Spaziergang fahren Sie hinauf zur Burg. Parken Sie dort, um die Festung und die unglaubliche Aussicht zu genießen. Am Nachmittag fahren Sie zum weitläufigen Psani-Strand, wo Sie leicht einen Parkplatz finden und den Rest des Tages mit Schwimmen und Sonnenbaden verbringen können.",
+        "hu": "Használja autóját Nafpaktos különböző részei felfedezéséhez. Reggel parkoljon a kikötő közelében, és sétáljon végig a történelmi központon, látogassa meg a dzsámit és a Botsaris-tornyot. Ezután vezessen fel a várhoz. Parkoljon ott, hogy élvezze az erődítményt és a hihetetlen kilátást. Délután hajtson le a tágas Psani strandra, ahol könnyen talál parkolót, és a nap hátralévő részét úszással és napozással töltheti.",
+        "ro": "Folosiți mașina pentru a explora clusterele din Nafpaktos. Dimineața, parcați lângă port și plimbați-vă prin centrul istoric, vizitând moscheea și Turnul Botsaris. După această plimbare, conduceți până la castel. Parcați acolo pentru a vă bucura de fortăreață și de priveliștea incredibilă. După-amiaza, mergeți cu mașina la plaja Psani, unde puteți găsi ușor parcare și petrece restul zilei înotând și făcând plajă.",
+        "en": "Use your car to explore the clusters of Nafpaktos. In the morning, park near the port and stroll through the historic center, visiting the mosque and the Botsaris Tower. After this walk, drive up to the castle. Park there to enjoy the fortress and the incredible view. In the afternoon, drive down to the expansive Psani Beach, where you can easily find parking and spend the rest of the day swimming and sunbathing."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Meeresfrüchte-Pasta",
+            "tip": "Eine herzhafte Mahlzeit nach einem langen Spaziergang, oft mit Garnelen und Muscheln."
+          },
+          {
+            "name": "Gefüllte Weinblätter (Dolmades)",
+            "tip": "Ein klassischer griechischer Snack, der sowohl warm als auch kalt schmeckt."
+          },
+          {
+            "name": "Lokaler Wein",
+            "tip": "Probieren Sie einen Wein aus der Region Achaia."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tenger gyümölcsei tészta",
+            "tip": "Kiadós étel egy hosszú séta után, gyakran garnélával és kagylóval."
+          },
+          {
+            "name": "Töltött szőlőlevél (Dolmades)",
+            "tip": "Klasszikus görög falat, amely melegen és hidegen is ízletes."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "Kóstoljon meg egy bort az Achaia régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paste cu fructe de mare",
+            "tip": "O masă copioasă după o plimbare lungă, adesea cu creveți și scoici."
+          },
+          {
+            "name": "Sarmale în foi de viță (Dolmades)",
+            "tip": "O gustare grecească clasică, delicioasă atât caldă, cât și rece."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Încercați un vin din regiunea Achaia."
+          }
+        ],
+        "en": [
+          {
+            "name": "Seafood Pasta",
+            "tip": "A hearty meal after a long walk, often with shrimp and mussels."
+          },
+          {
+            "name": "Stuffed Vine Leaves (Dolmades)",
+            "tip": "A classic Greek snack that is delicious both warm and cold."
+          },
+          {
+            "name": "Local Wine",
+            "tip": "Try a wine from the Achaia region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obere Ebenen der Burg",
+            "tip": "Je höher Sie steigen, desto weniger Menschen und desto besser die Aussicht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Die Gärten des Botsaris-Turms",
+            "tip": "Ein kleiner, oft übersehener, ruhiger Ort im Zentrum.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ende des Psani-Strandes",
+            "tip": "Gehen Sie bis zum westlichen Ende für mehr Ruhe und Platz.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A vár felső szintjei",
+            "tip": "Minél magasabbra megy, annál kevesebb ember és annál jobb a kilátás."
+          },
+          {
+            "name": "A Botsaris-torony kertjei",
+            "tip": "Egy kicsi, gyakran figyelmen kívül hagyott, csendes hely a központban."
+          },
+          {
+            "name": "A Psani strand vége",
+            "tip": "Sétáljon el a nyugati végéig a több nyugalomért és helyért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Nivelurile superioare ale castelului",
+            "tip": "Cu cât urcați mai sus, cu atât mai puțini oameni și cu atât mai bună priveliștea."
+          },
+          {
+            "name": "Grădinile Turnului Botsaris",
+            "tip": "Un loc mic, adesea trecut cu vederea, liniștit în centru."
+          },
+          {
+            "name": "Capătul plajei Psani",
+            "tip": "Mergeți până la capătul vestic pentru mai multă liniște și spațiu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Upper levels of the Castle",
+            "tip": "The higher you go, the fewer people and the better the view."
+          },
+          {
+            "name": "The gardens of the Botsaris Tower",
+            "tip": "A small, often overlooked, quiet spot in the center."
+          },
+          {
+            "name": "The end of Psani Beach",
+            "tip": "Walk to the western end for more peace and space."
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Komboloi (Sorgenperlen)",
+            "tip": "Ein traditionelles griechisches Accessoire in vielen Materialien und Farben."
+          },
+          {
+            "name": "Bestickte Textilien",
+            "tip": "Handgefertigte Tischdecken und Handtücher mit lokalen Mustern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Komboloi (aggodalmak gyöngyei)",
+            "tip": "Hagyományos görög kiegészítő, sokféle anyagból és színből."
+          },
+          {
+            "name": "Hímzett textíliák",
+            "tip": "Kézzel készített terítők és törölközők helyi mintákkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Komboloi (mărgele de îngrijorare)",
+            "tip": "Un accesoriu tradițional grecesc în multe materiale și culori."
+          },
+          {
+            "name": "Textile brodate",
+            "tip": "Fețe de masă și prosoape lucrate manual cu modele locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Komboloi (Worry Beads)",
+            "tip": "A traditional Greek accessory in many materials and colors."
+          },
+          {
+            "name": "Embroidered Textiles",
+            "tip": "Handmade tablecloths and towels with local patterns."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken in der Nähe des Hafens kann im Sommer schwierig sein. Seien Sie geduldig.",
+          "Die Straßen zur Burg sind eng und kurvig. Fahren Sie langsam und vorsichtig.",
+          "Beachten Sie die Parkgebühren, besonders in den blauen Zonen.",
+          "Ein Auto ermöglicht es Ihnen, auch abgelegenere Strände östlich und westlich der Stadt zu besuchen."
+        ],
+        "hu": [
+          "A parkolás a kikötő közelében nyáron nehéz lehet. Legyen türelmes.",
+          "A várhoz vezető utak szűkek és kanyargósak. Vezessen lassan és óvatosan.",
+          "Vegye figyelembe a parkolási díjakat, különösen a kék zónákban.",
+          "Az autó lehetővé teszi, hogy a várostól keletre és nyugatra fekvő távolabbi strandokat is meglátogassa."
+        ],
+        "ro": [
+          "Parcarea lângă port poate fi dificilă în timpul verii. Aveți răbdare.",
+          "Străzile spre castel sunt înguste și sinuoase. Conduceți încet și cu atenție.",
+          "Fiți atenți la taxele de parcare, în special în zonele albastre.",
+          "O mașină vă permite să vizitați și plaje mai îndepărtate la est și vest de oraș."
+        ],
+        "en": [
+          "Parking near the port can be difficult in the summer. Be patient.",
+          "The roads to the castle are narrow and winding. Drive slowly and carefully.",
+          "Pay attention to parking fees, especially in the blue zones.",
+          "A car allows you to also visit more remote beaches east and west of the city."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:29",
+      "total_km": 5.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bushaltestelle Psani-Strand",
+            "hu": "Buszmegálló a Psani strandnál",
+            "ro": "Stația de autobuz Plaja Psani",
+            "en": "Bus Stop at Psani Beach"
+          },
+          "coords": [
+            21.821,
+            38.386
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Venezianischer Hafen",
+            "hu": "Velencei kikötő",
+            "ro": "Portul Venețian",
+            "en": "Venetian Port"
+          },
+          "coords": [
+            21.8265,
+            38.3838
+          ],
+          "category": "port",
+          "arrive_at": "09:27",
+          "stay_min": 40,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.0
+        },
+        {
+          "name": {
+            "de": "Statue von Miguel de Cervantes",
+            "hu": "Miguel de Cervantes szobra",
+            "ro": "Statuia lui Miguel de Cervantes",
+            "en": "Statue of Miguel de Cervantes"
+          },
+          "coords": [
+            21.8258,
+            38.3842
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:09",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1
+        },
+        {
+          "name": {
+            "de": "Botsaris-Turm",
+            "hu": "Botsaris-torony",
+            "ro": "Turnul Botsaris",
+            "en": "Botsaris Tower"
+          },
+          "coords": [
+            21.8272,
+            38.3861
+          ],
+          "category": "museums",
+          "arrive_at": "10:28",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle zur Burg",
+            "hu": "Buszmegálló a várhoz",
+            "ro": "Stația de autobuz spre castel",
+            "en": "Bus Stop to the Castle"
+          },
+          "coords": [
+            21.83,
+            38.39
+          ],
+          "category": "transport",
+          "arrive_at": "12:20",
+          "stay_min": 10,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0
+        },
+        {
+          "name": {
+            "de": "Burg von Nafpaktos",
+            "hu": "Nafpaktos vára",
+            "ro": "Castelul din Nafpaktos",
+            "en": "Castle of Nafpaktos"
+          },
+          "coords": [
+            21.83,
+            38.395
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Gribovo-Strand",
+            "hu": "Gribovo strand",
+            "ro": "Plaja Gribovo",
+            "en": "Gribovo Beach"
+          },
+          "coords": [
+            21.838,
+            38.388
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:14",
+          "stay_min": 180,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 1.2
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die lokalen Busse sind eine praktische Möglichkeit, Nafpaktos zu sehen. Nehmen Sie am Morgen den Bus vom Psani-Strand zum Hafen, um das historische Zentrum zu Fuß zu erkunden. Ein Spaziergang führt Sie zu den wichtigsten Sehenswürdigkeiten, bevor Sie den Bus zur Burg nehmen, um die anstrengende Steigung zu vermeiden. Dort oben können Sie die Festung und die Aussicht genießen. Am Nachmittag bringt Sie der Bus bequem zum Gribovo-Strand, um sich zu entspannen und zu schwimmen.",
+        "hu": "A helyi buszok kényelmes módot kínálnak Nafpaktos megtekintésére. Reggel szálljon buszra a Psani strandról a kikötőbe, hogy gyalog fedezze fel a történelmi központot. Egy séta elvezeti a főbb látnivalókhoz, mielőtt busszal menne fel a várhoz, hogy elkerülje a megerőltető emelkedőt. Ott élvezheti az erődöt és a kilátást. Délután a busz kényelmesen elviszi a Gribovo strandra pihenni és úszni.",
+        "ro": "Autobuzele locale sunt o modalitate convenabilă de a vedea Nafpaktos. Dimineața, luați autobuzul de la plaja Psani la port pentru a explora centrul istoric pe jos. O plimbare vă va duce la principalele atracții înainte de a lua autobuzul spre castel pentru a evita urcușul obositor. Acolo sus, vă puteți bucura de fortăreață și de priveliște. După-amiaza, autobuzul vă va duce confortabil la plaja Gribovo pentru a vă relaxa și a înota.",
+        "en": "The local buses are a convenient way to see Nafpaktos. In the morning, take the bus from Psani Beach to the port to explore the historic center on foot. A walk will take you to the main sights before you take the bus up to the castle to avoid the strenuous climb. Up there, you can enjoy the fortress and the view. In the afternoon, the bus will comfortably take you to Gribovo Beach to relax and swim."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tiropita (Käsepastete)",
+            "tip": "Ein schneller, warmer Snack aus einer Bäckerei, perfekt für unterwegs."
+          },
+          {
+            "name": "Moussaka",
+            "tip": "Ein klassischer griechischer Auflauf, ideal für ein sättigendes Mittagessen."
+          },
+          {
+            "name": "Griechischer Joghurt mit Honig",
+            "tip": "Ein einfaches, aber köstliches Dessert oder Frühstück."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tiropita (sajtos pite)",
+            "tip": "Gyors, meleg falat egy pékségből, tökéletes útközben."
+          },
+          {
+            "name": "Moussaka",
+            "tip": "Klasszikus görög rakott étel, ideális egy laktató ebédhez."
+          },
+          {
+            "name": "Görög joghurt mézzel",
+            "tip": "Egyszerű, de finom desszert vagy reggeli."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tiropita (plăcintă cu brânză)",
+            "tip": "O gustare rapidă, caldă de la o brutărie, perfectă pentru drum."
+          },
+          {
+            "name": "Moussaka",
+            "tip": "O tocană grecească clasică, ideală pentru un prânz sățios."
+          },
+          {
+            "name": "Iaurt grecesc cu miere",
+            "tip": "Un desert simplu, dar delicios, sau mic dejun."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tiropita (Cheese Pie)",
+            "tip": "A quick, warm snack from a bakery, perfect for on the go."
+          },
+          {
+            "name": "Moussaka",
+            "tip": "A classic Greek casserole, ideal for a filling lunch."
+          },
+          {
+            "name": "Greek Yogurt with Honey",
+            "tip": "A simple but delicious dessert or breakfast."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirche Agios Dimitrios",
+            "tip": "Eine ruhige und kühle Zuflucht an einem heißen Tag.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Die Zinnen der Burg",
+            "tip": "Suchen Sie nach einem ruhigen Platz entlang der alten Mauern.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Spaziergang am Gribovo-Strand",
+            "tip": "Gehen Sie am Wasser entlang, weg vom belebten Zentrum.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Agios Dimitrios templom",
+            "tip": "Csendes és hűvös menedék egy forró napon."
+          },
+          {
+            "name": "A vár oromzatai",
+            "tip": "Keressen egy csendes helyet a régi falak mentén."
+          },
+          {
+            "name": "Séta a Gribovo strandon",
+            "tip": "Sétáljon a víz mentén, távol a nyüzsgő központtól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica Sfântul Dimitrie",
+            "tip": "Un refugiu liniștit și răcoros într-o zi fierbinte."
+          },
+          {
+            "name": "Zidurile castelului",
+            "tip": "Căutați un loc liniștit de-a lungul zidurilor vechi."
+          },
+          {
+            "name": "Plimbare pe plaja Gribovo",
+            "tip": "Plimbați-vă de-a lungul apei, departe de centrul aglomerat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Church of Agios Dimitrios",
+            "tip": "A quiet and cool refuge on a hot day."
+          },
+          {
+            "name": "The castle battlements",
+            "tip": "Look for a quiet spot along the old walls."
+          },
+          {
+            "name": "Walk on Gribovo Beach",
+            "tip": "Walk along the water, away from the busy center."
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ouzo oder Tsipouro",
+            "tip": "Kaufen Sie eine Flasche des lokalen Anis-Schnapses als Souvenir."
+          },
+          {
+            "name": "Ikonen-Repliken",
+            "tip": "Kleine, handgemalte Ikonen sind in den Geschäften in der Nähe der Kirchen erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ouzo vagy Tsipouro",
+            "tip": "Vásároljon egy üveg helyi ánizspálinkát szuvenírként."
+          },
+          {
+            "name": "Ikon másolatok",
+            "tip": "Kis, kézzel festett ikonok kaphatók a templomok közelében lévő üzletekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ouzo sau Tsipouro",
+            "tip": "Cumpărați o sticlă de rachiu local de anason ca suvenir."
+          },
+          {
+            "name": "Replici de icoane",
+            "tip": "Icoane mici, pictate manual, sunt disponibile în magazinele de lângă biserici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ouzo or Tsipouro",
+            "tip": "Buy a bottle of the local anise-flavored spirit as a souvenir."
+          },
+          {
+            "name": "Icon replicas",
+            "tip": "Small, hand-painted icons are available in the shops near the churches."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Die Busfahrpläne können variieren, überprüfen Sie die aktuellen Zeiten an der Haltestelle.",
+          "Halten Sie Kleingeld für die Bustickets bereit.",
+          "Die Busse können in der Hochsaison voll sein, seien Sie also auf Stehplätze vorbereitet."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha több utazást tervez.",
+          "A buszmenetrend változhat, ellenőrizze az aktuális időket a megállóban.",
+          "Készítsen elő aprópénzt a buszjegyekhez.",
+          "A buszok a főszezonban zsúfoltak lehetnek, ezért készüljön fel az állóhelyekre."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă plănuiți mai multe călătorii.",
+          "Programele autobuzelor pot varia, verificați orele actuale la stație.",
+          "Pregătiți mărunțiș pentru biletele de autobuz.",
+          "Autobuzele pot fi aglomerate în sezonul de vârf, așa că fiți pregătiți pentru locuri în picioare."
+        ],
+        "en": [
+          "Buy a day ticket for the bus if you plan to make several trips.",
+          "Bus schedules can vary, check the current times at the stop.",
+          "Have small change ready for the bus tickets.",
+          "Buses can be crowded in high season, so be prepared for standing room."
+        ]
+      }
+    }
+  }
+}

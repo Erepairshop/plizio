@@ -1,0 +1,1311 @@
+{
+  "city_id": "romania-drajna-cities-v2",
+  "anchor": {
+    "name": "Drajna",
+    "coords": [
+      26.0,
+      45.2
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Heldendenkmal Drajna",
+            "hu": "Drajnai Hősök Emlékműve",
+            "ro": "Monumentul Eroilor din Drajna",
+            "en": "Heroes' Monument in Drajna"
+          },
+          "coords": [
+            26.0005,
+            45.2003
+          ],
+          "category": "monument",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem zentralen Punkt, einem Symbol der lokalen Geschichte.",
+            "hu": "Kezdje a napot ezen a központi helyen, a helyi történelem egy szimbólumánál.",
+            "ro": "Începeți ziua în acest punct central, un simbol al istoriei locale.",
+            "en": "Start your day at this central point, a symbol of local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Filipescu-Herrenhaus",
+            "hu": "Filipescu-kúria",
+            "ro": "Conacul Filipescu",
+            "en": "Filipescu Mansion"
+          },
+          "coords": [
+            26.0015,
+            45.2015
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur der Bojaren und stellen Sie sich das Leben im 19. Jahrhundert vor.",
+            "hu": "Csodálja meg a bojár építészetet, és képzelje el a 19. századi életet.",
+            "ro": "Admirați arhitectura boierească și imaginați-vă viața din secolul al XIX-lea.",
+            "en": "Admire the boyar architecture and imagine life in the 19th century."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Demetrius-Kirche",
+            "hu": "Szent Demeter-templom",
+            "ro": "Biserica Sfântul Dumitru",
+            "en": "Saint Demetrius Church"
+          },
+          "coords": [
+            26.0031,
+            45.2022
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein Ort der Ruhe und des Glaubens, perfekt für eine kurze Besinnung.",
+            "hu": "A nyugalom és a hit helye, tökéletes egy rövid elmélkedésre.",
+            "ro": "Un loc de liniște și credință, perfect pentru o scurtă reculegere.",
+            "en": "A place of peace and faith, perfect for a short reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Geburt",
+            "hu": "Kisboldogasszony-templom",
+            "ro": "Biserica Nașterea Maicii Domnului",
+            "en": "Church of the Nativity of Mary"
+          },
+          "coords": [
+            25.998,
+            45.198
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Vergleichen Sie den Stil dieser Kirche mit dem von St. Demetrius.",
+            "hu": "Hasonlítsa össze ennek a templomnak a stílusát a Szent Demeter-temploméval.",
+            "ro": "Comparați stilul acestei biserici cu cel al Bisericii Sfântul Dumitru.",
+            "en": "Compare the style of this church with that of Saint Demetrius."
+          }
+        },
+        {
+          "name": {
+            "de": "Warthiadi-Wassermühle",
+            "hu": "Warthiadi-vízimalom",
+            "ro": "Moara de apă Warthiadi",
+            "en": "Warthiadi Watermill"
+          },
+          "coords": [
+            26.015,
+            45.21
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:39",
+          "stay_min": 50,
+          "hop_from_prev_min": 56,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie ein Stück Industriegeschichte am Ufer des Flusses.",
+            "hu": "Fedezzen fel egy darab ipartörténetet a folyó partján.",
+            "ro": "Descoperiți o bucată de istorie industrială pe malul râului.",
+            "en": "Discover a piece of industrial history on the river bank."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Teleajen-Tal",
+            "hu": "Ebéd a Teleajen-völgyében",
+            "ro": "Prânz pe Valea Teleajenului",
+            "en": "Lunch in the Teleajen Valley"
+          },
+          "coords": [
+            26.023,
+            45.195
+          ],
+          "category": "gastro",
+          "arrive_at": "15:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 31,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie ein spätes Mittagessen in einer lokalen Pension mit Blick auf das Tal.",
+            "hu": "Fogyasszon el egy késői ebédet egy helyi panzióban, kilátással a völgyre.",
+            "ro": "Savurați un prânz târziu la o pensiune locală cu vedere la vale.",
+            "en": "Enjoy a late lunch at a local guesthouse overlooking the valley."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen in Drajna beginnt am Heldendenkmal, gefolgt von der Erkundung des eleganten Filipescu-Herrenhauses und der spirituellen St.-Demetrius-Kirche. Am Mittag führt Sie ein Spaziergang zur Kirche Mariä Geburt, die einen anderen architektonischen Stil zeigt. Der Nachmittag ist der Industriegeschichte an der Warthiadi-Wassermühle gewidmet, bevor Sie den Tag mit einem entspannten, späten Mittagessen in einer Pension im malerischen Teleajen-Tal ausklingen lassen. Am Abend können Sie die Ruhe der ländlichen Umgebung genießen.",
+        "hu": "A drajnai reggel a Hősök Emlékművénél kezdődik, majd az elegáns Filipescu-kúria és a spirituális Szent Demeter-templom felfedezésével folytatódik. Délben egy séta vezet a más építészeti stílusú Kisboldogasszony-templomhoz. A délután az ipartörténeté a Warthiadi-vízimalomnál, mielőtt a napot egy pihentető, késői ebéddel zárná egy festői panzióban a Teleajen-völgyében. Este élvezze a vidéki környezet csendjét.",
+        "ro": "Dimineața în Drajna începe la Monumentul Eroilor, urmată de explorarea elegantului Conac Filipescu și a spiritualei Biserici Sfântul Dumitru. La amiază, o plimbare vă duce la Biserica Nașterea Maicii Domnului, care prezintă un alt stil arhitectural. După-amiaza este dedicată istoriei industriale la Moara de apă Warthiadi, înainte de a încheia ziua cu un prânz târziu și relaxant la o pensiune pitorească de pe Valea Teleajenului. Seara, bucurați-vă de liniștea zonei rurale.",
+        "en": "The morning in Drajna begins at the Heroes' Monument, followed by exploring the elegant Filipescu Mansion and the spiritual Saint Demetrius Church. At midday, a walk takes you to the Church of the Nativity of Mary, showcasing a different architectural style. The afternoon is dedicated to industrial history at the Warthiadi Watermill before you conclude the day with a relaxing, late lunch at a scenic guesthouse in the Teleajen Valley. In the evening, enjoy the tranquility of the rural surroundings."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bulz Ciobanesc",
+            "tip": "Probieren Sie diesen traditionellen Polenta-Kuchen mit Käse, der in den lokalen Pensionen serviert wird."
+          },
+          {
+            "name": "Pastramă de oaie",
+            "tip": "Eine lokale Spezialität aus gewürztem und geräuchertem Schaffleisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bulz Ciobanesc",
+            "tip": "Kóstolja meg ezt a hagyományos, sajttal töltött puliszkagombócot, amit a helyi panziókban szolgálnak fel."
+          },
+          {
+            "name": "Pastramă de oaie",
+            "tip": "Helyi különlegesség: fűszeres, füstölt birkahús."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bulz Ciobanesc",
+            "tip": "Încercați acest preparat tradițional din mămăligă cu brânză, servit la pensiunile locale."
+          },
+          {
+            "name": "Pastramă de oaie",
+            "tip": "O specialitate locală din carne de oaie condimentată și afumată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bulz Ciobanesc",
+            "tip": "Try this traditional polenta cake with cheese, served at local guesthouses."
+          },
+          {
+            "name": "Pastramă de oaie",
+            "tip": "A local specialty of spiced and smoked mutton."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Teleajen",
+            "tip": "Finden Sie einen ruhigen Platz am Flussufer, um dem Wasser zu lauschen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirchhof",
+            "tip": "Die Friedhöfe der alten Kirchen sind oft Orte der Stille.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Teleajen-part",
+            "tip": "Keressen egy csendes helyet a folyóparton, és hallgassa a víz csobogását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Templomkert",
+            "tip": "A régi templomok temetői gyakran a csend helyszínei.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Teleajenului",
+            "tip": "Găsiți un loc liniștit pe malul râului pentru a asculta susurul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea bisericii",
+            "tip": "Cimitirele bisericilor vechi sunt adesea locuri de reculegere.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Teleajen River",
+            "tip": "Find a quiet spot on the riverbank to listen to the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Churchyard",
+            "tip": "The cemeteries of the old churches are often places of silence.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Suchen Sie nach Bauern, die Honig aus den Wildblumen der Region verkaufen."
+          },
+          {
+            "name": "Handgemachte Wollsocken",
+            "tip": "In den Wintermonaten ein beliebtes lokales Handwerksprodukt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Keressen olyan gazdákat, akik a régió vadvirágaiból készült mézet árulnak."
+          },
+          {
+            "name": "Kézzel készített gyapjúzokni",
+            "tip": "A téli hónapokban népszerű helyi kézműves termék."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Căutați producători locali care vând miere din florile sălbatice ale zonei."
+          },
+          {
+            "name": "Șosete de lână lucrate manual",
+            "tip": "Un produs artizanal local popular în lunile de iarnă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Look for farmers selling honey made from the region's wildflowers."
+          },
+          {
+            "name": "Handmade Wool Socks",
+            "tip": "A popular local craft, especially during the winter months."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Wanderschuhe, da die Wege uneben sein können.",
+          "Nehmen Sie Wasser mit, besonders im Sommer.",
+          "Die meisten Sehenswürdigkeiten sind im Freien, prüfen Sie also das Wetter."
+        ],
+        "hu": [
+          "Viseljen kényelmes túracipőt, mivel az utak egyenetlenek lehetnek.",
+          "Vigyen magával vizet, különösen nyáron.",
+          "A legtöbb látnivaló a szabadban van, ezért ellenőrizze az időjárást."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă de mers, deoarece potecile pot fi denivelate.",
+          "Luați apă cu dumneavoastră, mai ales vara.",
+          "Majoritatea atracțiilor sunt în aer liber, așa că verificați prognoza meteo."
+        ],
+        "en": [
+          "Wear comfortable walking shoes, as paths can be uneven.",
+          "Bring water with you, especially in summer.",
+          "Most sights are outdoors, so check the weather."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Filipescu-Herrenhaus",
+            "hu": "Filipescu-kúria",
+            "ro": "Conacul Filipescu",
+            "en": "Filipescu Mansion"
+          },
+          "coords": [
+            26.0015,
+            45.2015
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Radtour an diesem architektonischen Juwel.",
+            "hu": "Kezdje a kerékpártúrát ennél az építészeti gyöngyszemnél.",
+            "ro": "Începeți turul cu bicicleta la această bijuterie arhitecturală.",
+            "en": "Start your bike tour at this architectural gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Warthiadi-Wassermühle",
+            "hu": "Warthiadi-vízimalom",
+            "ro": "Moara de apă Warthiadi",
+            "en": "Warthiadi Watermill"
+          },
+          "coords": [
+            26.015,
+            45.21
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:08",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt bringt Sie zu diesem interessanten Stück Technikgeschichte.",
+            "hu": "Egy rövid tekerés elviszi ehhez az érdekes technikatörténeti emlékhez.",
+            "ro": "O scurtă plimbare cu bicicleta vă duce la această piesă interesantă de istorie tehnică.",
+            "en": "A short ride takes you to this interesting piece of technical history."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Kastell Drajna de Sus",
+            "hu": "Drajna de Sus-i római erőd",
+            "ro": "Castrul Roman Drajna de Sus",
+            "en": "Roman Fort of Drajna de Sus"
+          },
+          "coords": [
+            26.03,
+            45.22
+          ],
+          "category": "historical",
+          "arrive_at": "11:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für die historische Atmosphäre und die Aussicht.",
+            "hu": "Megéri a kaptató a történelmi hangulatért és a kilátásért.",
+            "ro": "Urcușul merită pentru atmosfera istorică și priveliște.",
+            "en": "The climb is worth it for the historical atmosphere and the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen mit Aussicht",
+            "hu": "Ebéd kilátással",
+            "ro": "Prânz cu priveliște",
+            "en": "Lunch with a view"
+          },
+          "coords": [
+            26.028,
+            45.218
+          ],
+          "category": "gastro",
+          "arrive_at": "12:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Finden Sie ein Restaurant in der Nähe des Kastells für ein wohlverdientes Mittagessen.",
+            "hu": "Keressen egy éttermet az erőd közelében egy jól megérdemelt ebédhez.",
+            "ro": "Găsiți un restaurant lângă castru pentru un prânz binemeritat.",
+            "en": "Find a restaurant near the fort for a well-deserved lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Teleajen-Flusstal",
+            "hu": "Teleajen-völgy",
+            "ro": "Valea Teleajenului",
+            "en": "Teleajen River Valley"
+          },
+          "coords": [
+            26.025,
+            45.19
+          ],
+          "category": "natural features",
+          "arrive_at": "14:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Genießen Sie eine entspannte Fahrt durch das malerische Flusstal.",
+            "hu": "Élvezze a pihentető utat a festői folyóvölgyben.",
+            "ro": "Bucurați-vă de o plimbare relaxantă prin valea pitorească a râului.",
+            "en": "Enjoy a relaxing ride through the picturesque river valley."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Demetrius-Kirche",
+            "hu": "Szent Demeter-templom",
+            "ro": "Biserica Sfântul Dumitru",
+            "en": "Saint Demetrius Church"
+          },
+          "coords": [
+            26.0031,
+            45.2022
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Halten Sie für einen Moment der Ruhe in dieser historischen Kirche an.",
+            "hu": "Álljon meg egy pillanatra ebben a történelmi templomban.",
+            "ro": "Opriți-vă pentru un moment de liniște la această biserică istorică.",
+            "en": "Stop for a moment of peace at this historic church."
+          }
+        },
+        {
+          "name": {
+            "de": "Cârlig-Hügel bei Sonnenuntergang",
+            "hu": "Cârlig-hegy naplementekor",
+            "ro": "Dealul Cârlig la apus",
+            "en": "Cârlig Hill at sunset"
+          },
+          "coords": [
+            25.98,
+            45.215
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:46",
+          "stay_min": 78,
+          "hop_from_prev_min": 34,
+          "hop_from_prev_km": 5.7,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem anspruchsvollen, aber lohnenden Anstieg für eine spektakuläre Aussicht.",
+            "hu": "Zárja a túrát egy kihívást jelentő, de annál kifizetődőbb emelkedővel a látványos kilátásért.",
+            "ro": "Încheiați turul cu o urcare provocatoare, dar plină de satisfacții, pentru o priveliște spectaculoasă.",
+            "en": "End your tour with a challenging but rewarding climb for a spectacular view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Radtour beginnt am Filipescu-Herrenhaus und führt schnell zur Warthiadi-Wassermühle. Am Morgen erklimmen Sie den Hügel zum römischen Kastell, wo Sie Geschichte und eine fantastische Aussicht genießen. Nach einem Mittagessen in der Nähe geht es bergab ins Teleajen-Tal für eine entspannte Fahrt. Am Nachmittag besuchen Sie die St.-Demetrius-Kirche im Dorfzentrum. Der Tag endet mit einem anspruchsvollen Anstieg auf den Cârlig-Hügel, der Sie mit einem atemberaubenden Sonnenuntergang belohnt.",
+        "hu": "A kerékpártúra a Filipescu-kúriánál indul, és gyorsan a Warthiadi-vízimalomhoz vezet. Reggel megmássza a dombot a római erődhöz, ahol a történelem és a fantasztikus kilátás várja. A közeli ebéd után leereszkedik a Teleajen-völgyébe egy pihentető tekerésre. Délután meglátogatja a Szent Demeter-templomot a falu központjában. A nap a Cârlig-hegyre való kihívást jelentő, de egy lélegzetelállító naplementével jutalmazó emelkedővel zárul.",
+        "ro": "Turul cu bicicleta începe la Conacul Filipescu și duce rapid la Moara de apă Warthiadi. Dimineața, urcați dealul până la castrul roman, unde vă bucurați de istorie și de o priveliște fantastică. După un prânz în apropiere, coborâți în Valea Teleajenului pentru o plimbare relaxantă. După-amiaza, vizitați Biserica Sfântul Dumitru din centrul satului. Ziua se încheie cu o urcare provocatoare pe Dealul Cârlig, care vă recompensează cu un apus de soare uluitor.",
+        "en": "The bike tour starts at the Filipescu Mansion and quickly leads to the Warthiadi Watermill. In the morning, you'll climb the hill to the Roman fort, enjoying history and a fantastic view. After lunch nearby, you'll descend into the Teleajen Valley for a relaxing ride. In the afternoon, visit Saint Demetrius Church in the village center. The day concludes with a challenging climb up Cârlig Hill, rewarding you with a breathtaking sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mici",
+            "tip": "Perfekt als schneller, energiereicher Snack für Radfahrer."
+          },
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "Eine herzhafte Kuttelsuppe, um sich nach einer langen Fahrt zu stärken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mics",
+            "tip": "Tökéletes, gyors, energiadús harapnivaló a kerékpárosoknak."
+          },
+          {
+            "name": "Csorba de burta",
+            "tip": "Egy kiadós pacalleves, hogy megerősítse magát egy hosszú tekerés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mici",
+            "tip": "Perfect ca o gustare rapidă și energizantă pentru bicicliști."
+          },
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "O supă consistentă pentru a vă reface forțele după un drum lung."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mici",
+            "tip": "Perfect as a quick, energy-rich snack for cyclists."
+          },
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "A hearty tripe soup to regain strength after a long ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cârlig-Hügel",
+            "tip": "Oben angekommen, ist die Stille und die Weite der Landschaft die größte Belohnung.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Versteckte Pfade im Teleajen-Tal",
+            "tip": "Verlassen Sie den Hauptweg für ein paar Minuten und genießen Sie die Natur.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cârlig-hegy",
+            "tip": "A csúcsra érve a csend és a táj tágassága a legnagyobb jutalom.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rejtett ösvények a Teleajen-völgyben",
+            "tip": "Hagyja el a fő utat néhány percre, és élvezze a természetet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Cârlig",
+            "tip": "Odată ajuns în vârf, liniștea și vastitatea peisajului sunt cea mai mare recompensă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Poteci ascunse pe Valea Teleajenului",
+            "tip": "Părăsiți poteca principală pentru câteva minute și bucurați-vă de natură.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cârlig Hill",
+            "tip": "Once at the top, the silence and the vastness of the landscape are the greatest reward.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hidden paths in the Teleajen Valley",
+            "tip": "Leave the main path for a few minutes and enjoy nature.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Marmeladen",
+            "tip": "Hausgemachte Marmeladen aus Waldfrüchten sind ein köstliches Souvenir."
+          },
+          {
+            "name": "Țuică",
+            "tip": "Kaufen Sie eine Flasche des lokalen Pflaumenschnapses direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi lekvárok",
+            "tip": "A házi készítésű erdei gyümölcslekvárok ízletes szuvenírek."
+          },
+          {
+            "name": "Cujka",
+            "tip": "Vásároljon egy üveg helyi szilvapálinkát közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dulcețuri locale",
+            "tip": "Dulcețurile de casă din fructe de pădure sunt un suvenir delicios."
+          },
+          {
+            "name": "Țuică",
+            "tip": "Cumpărați o sticlă de țuică de prune locală direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Jams",
+            "tip": "Homemade jams from forest fruits are a delicious souvenir."
+          },
+          {
+            "name": "Țuică",
+            "tip": "Buy a bottle of the local plum brandy directly from a producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein Mountainbike oder Trekkingrad wird für die unbefestigten Wege empfohlen.",
+          "Nehmen Sie ein Reparaturset für Reifenpannen mit.",
+          "Planen Sie den Anstieg zum Cârlig-Hügel so, dass Sie vor Einbruch der Dunkelheit oben sind."
+        ],
+        "hu": [
+          "Hegyi vagy trekking kerékpár ajánlott a burkolatlan utakra.",
+          "Vigyen magával defektjavító készletet.",
+          "A Cârlig-hegyre való feljutást úgy tervezze, hogy sötétedés előtt felérjen."
+        ],
+        "ro": [
+          "O bicicletă montană sau de trekking este recomandată pentru drumurile neasfaltate.",
+          "Luați cu dumneavoastră un kit de reparație pentru pană.",
+          "Planificați urcarea pe Dealul Cârlig astfel încât să ajungeți în vârf înainte de lăsarea întunericului."
+        ],
+        "en": [
+          "A mountain bike or trekking bike is recommended for the unpaved roads.",
+          "Bring a puncture repair kit.",
+          "Plan the climb to Cârlig Hill to be at the top before dark."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 21.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Römisches Kastell & Mühle",
+            "hu": "1. csoport: Római erőd és malom",
+            "ro": "Cluster 1: Castrul Roman și Moara",
+            "en": "Cluster 1: Roman Fort & Mill"
+          },
+          "coords": [
+            26.03,
+            45.22
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Kastells und beginnen Sie Ihre historische Erkundung.",
+            "hu": "Parkoljon az erőd közelében, és kezdje meg a történelmi felfedezést.",
+            "ro": "Parcați lângă castru și începeți explorarea istorică.",
+            "en": "Park near the fort and start your historical exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Warthiadi-Wassermühle",
+            "hu": "Warthiadi-vízimalom",
+            "ro": "Moara de apă Warthiadi",
+            "en": "Warthiadi Watermill"
+          },
+          "coords": [
+            26.015,
+            45.21
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Kastell-Parkplatz aus.",
+            "hu": "Egy rövid séta az erőd parkolójából.",
+            "ro": "O scurtă plimbare de la parcarea castrului.",
+            "en": "A short walk from the fort's parking area."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Drajna Zentrum",
+            "hu": "2. csoport: Drajna központja",
+            "ro": "Cluster 2: Centrul Drajnei",
+            "en": "Cluster 2: Drajna Center"
+          },
+          "coords": [
+            26.0015,
+            45.2015
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie ins Zentrum, parken Sie und erkunden Sie das Filipescu-Herrenhaus.",
+            "hu": "Vezessen a központba, parkoljon, és fedezze fel a Filipescu-kúriát.",
+            "ro": "Conduceți în centru, parcați și explorați Conacul Filipescu.",
+            "en": "Drive to the center, park your car, and explore the Filipescu Mansion."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Demetrius-Kirche",
+            "hu": "Szent Demeter-templom",
+            "ro": "Biserica Sfântul Dumitru",
+            "en": "Saint Demetrius Church"
+          },
+          "coords": [
+            26.0031,
+            45.2022
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur wenige Schritte vom Herrenhaus entfernt.",
+            "hu": "Csak néhány lépésre a kúriától.",
+            "ro": "La doar câțiva pași de conac.",
+            "en": "Just a few steps from the mansion."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Drajna",
+            "hu": "Ebéd Drajnában",
+            "ro": "Prânz în Drajna",
+            "en": "Lunch in Drajna"
+          },
+          "coords": [
+            26.002,
+            45.201
+          ],
+          "category": "gastro",
+          "arrive_at": "13:37",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Wählen Sie ein Restaurant im Zentrum für eine Mittagspause.",
+            "hu": "Válasszon egy éttermet a központban az ebédszünetre.",
+            "ro": "Alegeți un restaurant în centru pentru o pauză de prânz.",
+            "en": "Choose a restaurant in the center for a lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Tal & Panorama",
+            "hu": "3. csoport: Völgy és Panoráma",
+            "ro": "Cluster 3: Vale și Panoramă",
+            "en": "Cluster 3: Valley & Panorama"
+          },
+          "coords": [
+            25.98,
+            45.215
+          ],
+          "category": "viewpoint",
+          "arrive_at": "15:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 13.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Cârlig-Hügel für eine atemberaubende Aussicht über die Region.",
+            "hu": "Vezessen a Cârlig-hegyre a régióra nyíló lélegzetelállító kilátásért.",
+            "ro": "Conduceți spre Dealul Cârlig pentru o priveliște uluitoare asupra regiunii.",
+            "en": "Drive to Cârlig Hill for a breathtaking view over the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang im Teleajen-Tal",
+            "hu": "Séta a Teleajen-völgyben",
+            "ro": "Plimbare pe Valea Teleajenului",
+            "en": "Walk in the Teleajen Valley"
+          },
+          "coords": [
+            26.025,
+            45.19
+          ],
+          "category": "natural features",
+          "arrive_at": "16:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Parken Sie erneut und beenden Sie den Tag mit einem entspannten Spaziergang entlang des Flusses.",
+            "hu": "Parkoljon le újra, és fejezze be a napot egy pihentető sétával a folyó mentén.",
+            "ro": "Parcați din nou și încheiați ziua cu o plimbare relaxantă de-a lungul râului.",
+            "en": "Park again and end the day with a relaxing walk along the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt im Norden beim römischen Kastell und der nahegelegenen Mühle. Am Vormittag fahren Sie ins Zentrum von Drajna, parken und erkunden zu Fuß das Filipescu-Herrenhaus und die Kirche, gefolgt von einem Mittagessen. Der Nachmittag steht im Zeichen der Natur: eine Fahrt zum Cârlig-Hügel für Panoramaaussichten und anschließend ein entspannter Spaziergang im Teleajen-Tal. Diese Route kombiniert kurze Fahrten mit angenehmen Spaziergängen.",
+        "hu": "Az autós nap északon, a római erődnél és a közeli malomnál kezdődik. Délelőtt Drajna központjába hajt, leparkol, és gyalog fedezi fel a Filipescu-kúriát és a templomot, majd ebédel. A délután a természeté: egy út a Cârlig-hegyre a panorámáért, majd egy pihentető séta a Teleajen-völgyben. Ez az útvonal rövid autózásokat kombinál kellemes sétákkal.",
+        "ro": "Ziua cu mașina începe în nord, la castrul roman și moara din apropiere. Dimineața, conduceți spre centrul Drajnei, parcați și explorați pe jos Conacul Filipescu și biserica, urmate de prânz. După-amiaza este dedicată naturii: o călătorie cu mașina spre Dealul Cârlig pentru vederi panoramice, apoi o plimbare relaxantă pe Valea Teleajenului. Acest traseu combină drumuri scurte cu plimbări plăcute.",
+        "en": "Your car day starts in the north at the Roman fort and the nearby mill. In the morning, you drive to the center of Drajna, park, and explore the Filipescu Mansion and church on foot, followed by lunch. The afternoon is dedicated to nature: a drive to Cârlig Hill for panoramic views, then a relaxing walk in the Teleajen Valley. This route combines short drives with pleasant walks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Grill-Restaurant",
+            "tip": "Suchen Sie nach einem Restaurant mit Außengrill für frische 'Mici' oder 'Pastramă'."
+          },
+          {
+            "name": "Papanasi",
+            "tip": "Ein Muss als Dessert: frittierte Teigbällchen mit saurer Sahne und Marmelade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillétterem",
+            "tip": "Keressen egy kültéri grillezővel rendelkező éttermet friss micsért vagy pasztramáért."
+          },
+          {
+            "name": "Papanasi",
+            "tip": "Kötelező desszert: sült fánk tejföllel és lekvárral."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant cu grătar",
+            "tip": "Căutați un restaurant cu grătar exterior pentru mici sau pastramă proaspătă."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Un desert obligatoriu: gogoși prăjite cu smântână și dulceață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grill Restaurant",
+            "tip": "Look for a restaurant with an outdoor grill for fresh 'mici' or 'pastramă'."
+          },
+          {
+            "name": "Papanasi",
+            "tip": "A must-try dessert: fried doughnuts with sour cream and jam."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Römisches Kastell am frühen Morgen",
+            "tip": "Seien Sie der erste Besucher des Tages und genießen Sie die Stille der Geschichte.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Picknickplatz im Teleajen-Tal",
+            "tip": "Packen Sie einen Korb und finden Sie einen abgelegenen Platz für eine Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Római erőd kora reggel",
+            "tip": "Legyen az első látogató, és élvezze a történelem csendjét.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Piknikezőhely a Teleajen-völgyben",
+            "tip": "Csomagoljon egy kosarat, és keressen egy félreeső helyet egy szünetre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Castrul Roman dimineața devreme",
+            "tip": "Fiți primul vizitator al zilei și bucurați-vă de liniștea istoriei.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Loc de picnic pe Valea Teleajenului",
+            "tip": "Împachetați un coș și găsiți un loc retras pentru o pauză.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Roman Fort in the early morning",
+            "tip": "Be the first visitor of the day and enjoy the silence of history.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Picnic spot in the Teleajen Valley",
+            "tip": "Pack a basket and find a secluded spot for a break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Käse vom Bauernhof",
+            "tip": "Halten Sie Ausschau nach Schildern, die 'Brânză de burduf' (einen speziellen Schafskäse) verkaufen."
+          },
+          {
+            "name": "Holzschnitzereien",
+            "tip": "Lokale Handwerker verkaufen oft kleine, handgeschnitzte Gegenstände."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parasztsajt",
+            "tip": "Keresse a 'Brânză de burduf' (egy különleges juhtúró) táblákat."
+          },
+          {
+            "name": "Faragványok",
+            "tip": "A helyi kézművesek gyakran árulnak apró, kézzel faragott tárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză de la stână",
+            "tip": "Fiți atenți la indicatoarele care vând 'Brânză de burduf'."
+          },
+          {
+            "name": "Sculpturi în lemn",
+            "tip": "Meșterii locali vând adesea mici obiecte sculptate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farmhouse Cheese",
+            "tip": "Look out for signs selling 'Brânză de burduf' (a special type of sheep's cheese)."
+          },
+          {
+            "name": "Wood carvings",
+            "tip": "Local artisans often sell small, hand-carved items."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkmöglichkeiten sind begrenzt, seien Sie also geduldig.",
+          "Einige Straßen zu den Sehenswürdigkeiten können eng und kurvenreich sein.",
+          "Überprüfen Sie die Öffnungszeiten, besonders für das Herrenhaus."
+        ],
+        "hu": [
+          "A parkolási lehetőségek korlátozottak, legyen türelmes.",
+          "Néhány út a látnivalókhoz szűk és kanyargós lehet.",
+          "Ellenőrizze a nyitvatartási időt, különösen a kúria esetében."
+        ],
+        "ro": [
+          "Locurile de parcare sunt limitate, așa că aveți răbdare.",
+          "Unele drumuri către atracții pot fi înguste și sinuoase.",
+          "Verificați programul de vizitare, în special pentru conac."
+        ],
+        "en": [
+          "Parking is limited, so be patient.",
+          "Some roads to the sights can be narrow and winding.",
+          "Check the opening hours, especially for the mansion."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft im Zentrum von Drajna",
+            "hu": "Érkezés Drajna központjába",
+            "ro": "Sosire în centrul Drajnei",
+            "en": "Arrival in Drajna Center"
+          },
+          "coords": [
+            26.0008,
+            45.2005
+          ],
+          "category": "transit_stop",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an der zentralen Bushaltestelle.",
+            "hu": "Kezdje a napot a központi buszmegállóban.",
+            "ro": "Începeți ziua la stația centrală de autobuz.",
+            "en": "Start your day at the central bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Filipescu-Herrenhaus",
+            "hu": "Filipescu-kúria",
+            "ro": "Conacul Filipescu",
+            "en": "Filipescu Mansion"
+          },
+          "coords": [
+            26.0015,
+            45.2015
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Haltestelle zu diesem architektonischen Highlight.",
+            "hu": "Rövid séta a megállótól ehhez az építészeti gyöngyszemhez.",
+            "ro": "O scurtă plimbare de la stație până la acest punct de atracție arhitectural.",
+            "en": "A short walk from the stop to this architectural highlight."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Demetrius-Kirche",
+            "hu": "Szent Demeter-templom",
+            "ro": "Biserica Sfântul Dumitru",
+            "en": "Saint Demetrius Church"
+          },
+          "coords": [
+            26.0031,
+            45.2022
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gleich um die Ecke vom Herrenhaus gelegen.",
+            "hu": "A kúria sarkánál található.",
+            "ro": "Situată chiar la colțul conacului.",
+            "en": "Located just around the corner from the mansion."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Römischen Kastell",
+            "hu": "Utazás a római erődhöz",
+            "ro": "Călătorie spre Castrul Roman",
+            "en": "Trip to the Roman Fort"
+          },
+          "coords": [
+            26.03,
+            45.22
+          ],
+          "category": "historical",
+          "arrive_at": "12:13",
+          "stay_min": 120,
+          "hop_from_prev_min": 54,
+          "hop_from_prev_km": 10.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in Richtung Norden. Der Spaziergang von der Haltestelle zum Kastell ist Teil des Erlebnisses.",
+            "hu": "Vegyen egy észak felé tartó buszt. A megállótól az erődig tartó séta a kaland része.",
+            "ro": "Luați un autobuz spre nord. Plimbarea de la stație la castru face parte din experiență.",
+            "en": "Take a bus north. The walk from the stop to the fort is part of the experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Spätes Mittagessen",
+            "hu": "Késői ebéd",
+            "ro": "Prânz târziu",
+            "en": "Late Lunch"
+          },
+          "coords": [
+            26.0025,
+            45.2018
+          ],
+          "category": "gastro",
+          "arrive_at": "14:13",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach der Rückkehr ins Zentrum können Sie in einem lokalen Restaurant zu Mittag essen.",
+            "hu": "Miután visszatért a központba, ebédeljen egy helyi étteremben.",
+            "ro": "După întoarcerea în centru, puteți lua prânzul la un restaurant local.",
+            "en": "After returning to the center, you can have lunch at a local restaurant."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Teleajen",
+            "hu": "Séta a Teleajen mentén",
+            "ro": "Plimbare pe malul Teleajenului",
+            "en": "Walk along the Teleajen River"
+          },
+          "coords": [
+            26.023,
+            45.195
+          ],
+          "category": "natural features",
+          "arrive_at": "16:05",
+          "stay_min": 70,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schließen Sie den Tag mit einem entspannten Spaziergang entlang des Flusses ab, bevor Sie den Bus nach Hause nehmen.",
+            "hu": "Zárja a napot egy pihentető sétával a folyó mentén, mielőtt hazabuszozna.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă de-a lungul râului înainte de a lua autobuzul spre casă.",
+            "en": "End the day with a relaxing walk along the river before taking the bus home."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt im Zentrum von Drajna, wo Sie zu Fuß das Filipescu-Herrenhaus und die St.-Demetrius-Kirche erkunden. Am Vormittag nehmen Sie einen Bus nach Norden zum römischen Kastell, wo Sie ausreichend Zeit für die Erkundung der antiken Ruinen haben. Nach der Rückkehr ins Zentrum essen Sie zu Mittag. Den Nachmittag verbringen Sie mit einem ruhigen Spaziergang entlang des Teleajen-Flusses, bevor Sie Ihre Heimreise antreten.",
+        "hu": "A tömegközlekedéssel töltött nap Drajna központjában kezdődik, ahol gyalogosan fedezi fel a Filipescu-kúriát és a Szent Demeter-templomot. Délelőtt egy északi busszal utazik a római erődhöz, ahol bőven van ideje az ókori romok felfedezésére. Miután visszatért a központba, megebédel. A délutánt egy csendes sétával tölti a Teleajen folyó mentén, mielőtt hazaindulna.",
+        "ro": "Ziua dumneavoastră cu transportul public începe în centrul Drajnei, explorând pe jos Conacul Filipescu și Biserica Sfântul Dumitru. Dimineața, luați un autobuz spre nord, la castrul roman, unde aveți timp suficient pentru a explora ruinele antice. După întoarcerea în centru, luați prânzul. Petreceți după-amiaza cu o plimbare liniștită de-a lungul râului Teleajen înainte de a vă întoarce acasă.",
+        "en": "Your day using public transport begins in the center of Drajna, exploring the Filipescu Mansion and Saint Demetrius Church on foot. In the morning, you take a bus north to the Roman fort, with ample time to explore the ancient ruins. After returning to the center, you'll have lunch. Spend the afternoon with a quiet walk along the Teleajen River before heading home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Covrigi",
+            "tip": "Ein schneller und günstiger Snack von einer Straßenbäckerei."
+          },
+          {
+            "name": "Zacuscă",
+            "tip": "Probieren Sie diesen Auberginen- und Paprikaaufstrich auf frischem Brot."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Perec",
+            "tip": "Gyors és olcsó harapnivaló egy utcai pékségből."
+          },
+          {
+            "name": "Zakuszka",
+            "tip": "Kóstolja meg ezt a padlizsán- és paprikakrémet friss kenyérrel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Covrigi",
+            "tip": "O gustare rapidă și ieftină de la o brutărie stradală."
+          },
+          {
+            "name": "Zacuscă",
+            "tip": "Încercați această pastă de vinete și ardei pe pâine proaspătă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Covrigi (pretzel)",
+            "tip": "A quick and cheap snack from a street bakery."
+          },
+          {
+            "name": "Zacuscă",
+            "tip": "Try this eggplant and pepper spread on fresh bread."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Auf den Bus warten",
+            "tip": "Nutzen Sie die Wartezeit an einer ländlichen Haltestelle, um die Umgebung zu beobachten.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Blick aus dem Busfenster",
+            "tip": "Die Fahrt durch die Landschaft kann sehr entspannend sein.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Várakozás a buszra",
+            "tip": "Használja ki a várakozási időt egy vidéki megállóban a környezet megfigyelésére.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás a busz ablakából",
+            "tip": "A tájon keresztüli utazás nagyon pihentető lehet.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Așteptând autobuzul",
+            "tip": "Folosiți timpul de așteptare la o stație rurală pentru a observa împrejurimile.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Privind pe geamul autobuzului",
+            "tip": "Călătoria prin peisajul rural poate fi foarte relaxantă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Waiting for the bus",
+            "tip": "Use the waiting time at a rural stop to observe the surroundings.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from the bus window",
+            "tip": "The journey through the countryside can be very relaxing.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Zeitung",
+            "tip": "Kaufen Sie eine Zeitung, um einen Einblick in das lokale Leben zu bekommen, auch wenn Sie die Sprache nicht verstehen."
+          },
+          {
+            "name": "Postkarten",
+            "tip": "Ein klassisches Souvenir, das man im Dorfladen finden kann."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi újság",
+            "tip": "Vegyél egy újságot, hogy bepillantást nyerj a helyi életbe, még ha nem is érted a nyelvet."
+          },
+          {
+            "name": "Képeslapok",
+            "tip": "Klasszikus szuvenír, amelyet a falusi boltban találhatsz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ziar local",
+            "tip": "Cumpărați un ziar pentru a vă face o idee despre viața locală, chiar dacă nu înțelegeți limba."
+          },
+          {
+            "name": "Cărți poștale",
+            "tip": "Un suvenir clasic pe care îl puteți găsi la magazinul din sat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local newspaper",
+            "tip": "Buy a newspaper to get a glimpse of local life, even if you don't understand the language."
+          },
+          {
+            "name": "Postcards",
+            "tip": "A classic souvenir you can find at the village shop."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fragen Sie nach dem Busfahrplan im Voraus, da die Busse selten fahren könnten.",
+          "Haben Sie Kleingeld für die Tickets dabei.",
+          "Seien Sie auf Spaziergänge von den Haltestellen zu den eigentlichen Sehenswürdigkeiten vorbereitet."
+        ],
+        "hu": [
+          "Érdeklődjön előre a buszmenetrendről, mivel a buszok ritkán közlekedhetnek.",
+          "Készítsen aprópénzt a jegyekhez.",
+          "Készüljön fel a megállóktól a látnivalókig tartó sétákra."
+        ],
+        "ro": [
+          "Întrebați despre programul autobuzelor în avans, deoarece acestea ar putea circula rar.",
+          "Aveți bani mărunți pentru bilete.",
+          "Fiți pregătiți pentru plimbări de la stații până la atracțiile propriu-zise."
+        ],
+        "en": [
+          "Ask for the bus schedule in advance, as buses might be infrequent.",
+          "Have small change ready for tickets.",
+          "Be prepared for walks from the bus stops to the actual sights."
+        ]
+      }
+    }
+  }
+}

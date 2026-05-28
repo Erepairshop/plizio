@@ -1,0 +1,1494 @@
+{
+  "city_id": "spain-logrono-cities-v2",
+  "anchor": {
+    "name": "Logroño",
+    "coords": [
+      -2.445,
+      42.4627
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Paseo del Espolón",
+            "hu": "Paseo del Espolón",
+            "ro": "Paseo del Espolón",
+            "en": "Paseo del Espolón"
+          },
+          "coords": [
+            -2.4478,
+            42.4655
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag entspannt bei einem Kaffee in einem der Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában.",
+            "ro": "Începeți ziua relaxat cu o cafea la una dintre cafenelele din piață.",
+            "en": "Start your day relaxed with a coffee at one of the cafés on the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Konkathedrale Santa María de la Redonda",
+            "hu": "Santa María de la Redonda társkatedrális",
+            "ro": "Concatedrala Santa María de la Redonda",
+            "en": "Co-Cathedral of Santa María de la Redonda"
+          },
+          "coords": [
+            -2.4455,
+            42.4658
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf das Gemälde der Kreuzigung, das Michelangelo zugeschrieben wird.",
+            "hu": "Keresse a Michelangelónak tulajdonított keresztre feszítés festményt.",
+            "ro": "Căutați pictura Răstignirii atribuită lui Michelangelo.",
+            "en": "Look for the painting of the Crucifixion attributed to Michelangelo."
+          }
+        },
+        {
+          "name": {
+            "de": "Calle del Laurel",
+            "hu": "Calle del Laurel",
+            "ro": "Calle del Laurel",
+            "en": "Calle del Laurel"
+          },
+          "coords": [
+            -2.4485,
+            42.465
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:39",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie in jeder Bar eine andere Tapa (Pintxo).",
+            "hu": "Minden bárban kóstoljon meg egy másik tapast (pintxót).",
+            "ro": "Încercați un tapa (pintxo) diferit la fiecare bar.",
+            "en": "Try a different tapa (pintxo) at each bar."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Bartolomé",
+            "hu": "San Bartolomé-templom",
+            "ro": "Biserica San Bartolomé",
+            "en": "Church of San Bartolomé"
+          },
+          "coords": [
+            -2.442,
+            42.4672
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Das romanische Portal ist eines der besterhaltenen in La Rioja.",
+            "hu": "A román stílusú kapuzat az egyik legjobb állapotban megmaradt La Riojában.",
+            "ro": "Portalul romanic este unul dintre cele mai bine conservate din La Rioja.",
+            "en": "The Romanesque portal is one of the best preserved in La Rioja."
+          }
+        },
+        {
+          "name": {
+            "de": "Steinbrücke (Puente de Piedra)",
+            "hu": "Kőhíd (Puente de Piedra)",
+            "ro": "Podul de Piatră (Puente de Piedra)",
+            "en": "Stone Bridge (Puente de Piedra)"
+          },
+          "coords": [
+            -2.4405,
+            42.468
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf den Ebro und die Skyline der Stadt.",
+            "hu": "Élvezze az Ebro folyóra és a város látképére nyíló kilátást.",
+            "ro": "Bucurați-vă de priveliștea asupra râului Ebro și a orizontului orașului.",
+            "en": "Enjoy the view of the Ebro River and the city skyline."
+          }
+        },
+        {
+          "name": {
+            "de": "Cubo del Revellín",
+            "hu": "Cubo del Revellín",
+            "ro": "Cubo del Revellín",
+            "en": "Cubo del Revellín"
+          },
+          "coords": [
+            -2.451,
+            42.468
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein Überbleibsel der alten Stadtmauer, das die Geschichte der Stadt erzählt.",
+            "hu": "A régi városfal maradványa, amely a város történelmét meséli el.",
+            "ro": "O rămășiță a vechilor ziduri ale orașului care spune povestea orașului.",
+            "en": "A remnant of the old city walls that tells the city's history."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von La Rioja",
+            "hu": "La Rioja Múzeum",
+            "ro": "Muzeul La Rioja",
+            "en": "Museum of La Rioja"
+          },
+          "coords": [
+            -2.4445,
+            42.4675
+          ],
+          "category": "museums",
+          "arrive_at": "16:06",
+          "stay_min": 100,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die ethnografische Abteilung, um mehr über die lokale Kultur zu erfahren.",
+            "hu": "Koncentráljon a néprajzi részlegre, hogy többet tudjon meg a helyi kultúráról.",
+            "ro": "Concentrați-vă pe secțiunea etnografică pentru a afla despre cultura locală.",
+            "en": "Focus on the ethnographic section to learn about local culture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Logroño beginnt entspannt auf dem Paseo del Espolón. Am Vormittag erkunden Sie das spirituelle Herz der Stadt, die Konkathedrale, bevor Sie sich dem weltlichen Vergnügen auf der Calle del Laurel hingeben. Nach dem Mittagessen überqueren Sie den Ebro über die historische Steinbrücke und werfen einen Blick in die alte San Bartolomé-Kirche. Der Nachmittag ist der Geschichte gewidmet, mit einem Besuch der Stadtmauern am Cubo del Revellín und einem tiefen Einblick in die regionale Kultur im Museum von La Rioja. Der Abend klingt bei weiteren Pintxos und einem Glas Rioja aus, während Sie die lebhafte Atmosphäre der Altstadt aufsaugen.",
+        "hu": "A nap Logroñóban a Paseo del Espolónon kezdődik. Délelőtt felfedezi a város spirituális szívét, a társkatedrálist, mielőtt átadná magát a világi élvezeteknek a Calle del Laurel-en. Ebéd után átkel az Ebro folyón a történelmi Kőhídon, és bepillant a régi San Bartolomé-templomba. A délután a történelemé, a Cubo del Revellín városfalainak meglátogatásával és a La Rioja Múzeumban a regionális kultúra megismerésével. Az este további pintxókkal és egy pohár riojai borral zárul, miközben magába szívja az óváros pezsgő hangulatát.",
+        "ro": "Ziua dvs. în Logroño începe relaxat pe Paseo del Espolón. Dimineața explorați inima spirituală a orașului, Concatedrala, înainte de a vă dedica plăcerilor lumești pe Calle del Laurel. După prânz, traversați râul Ebro peste istoricul Pod de Piatră și aruncați o privire la vechea Biserică San Bartolomé. După-amiaza este dedicată istoriei, cu o vizită la zidurile orașului la Cubo del Revellín și o incursiune profundă în cultura regională la Muzeul La Rioja. Seara se încheie cu mai multe pintxos și un pahar de Rioja, absorbind atmosfera vibrantă a orașului vechi.",
+        "en": "Your day in Logroño begins relaxed on the Paseo del Espolón. In the morning, you explore the spiritual heart of the city, the Co-Cathedral, before indulging in the worldly pleasures of Calle del Laurel. After lunch, you cross the Ebro River via the historic Stone Bridge and take a look at the old San Bartolomé Church. The afternoon is dedicated to history, with a visit to the city walls at Cubo del Revellín and a deep dive into regional culture at the Museum of La Rioja. The evening ends with more pintxos and a glass of Rioja, soaking up the vibrant atmosphere of the old town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pintxos auf der Calle Laurel",
+            "tip": "Probieren Sie 'Champiñones' (gegrillte Pilze) im Bar Soriano."
+          },
+          {
+            "name": "Patatas a la Riojana",
+            "tip": "Ein herzhafter Kartoffel-Chorizo-Eintopf, perfekt für ein kühleres Mittagessen."
+          },
+          {
+            "name": "Rioja-Wein",
+            "tip": "Bestellen Sie einen 'Crianza' für einen hochwertigen und dennoch erschwinglichen lokalen Wein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pintxók a Calle Laurelen",
+            "tip": "Kóstolja meg a 'Champiñones'-t (grillezett gomba) a Bar Sorianóban."
+          },
+          {
+            "name": "Patatas a la Riojana",
+            "tip": "Egy kiadós burgonyás-chorizós egytálétel, tökéletes egy hűvösebb ebédre."
+          },
+          {
+            "name": "Riojai bor",
+            "tip": "Rendeljen egy 'Crianza'-t egy minőségi, mégis megfizethető helyi borért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pintxos pe Calle Laurel",
+            "tip": "Încercați 'Champiñones' (ciuperci la grătar) la Bar Soriano."
+          },
+          {
+            "name": "Patatas a la Riojana",
+            "tip": "O tocană consistentă de cartofi și chorizo, perfectă pentru un prânz mai răcoros."
+          },
+          {
+            "name": "Vin de Rioja",
+            "tip": "Comandați un 'Crianza' pentru un vin local de calitate, dar accesibil."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pintxos on Calle Laurel",
+            "tip": "Try 'Champiñones' (grilled mushrooms) at Bar Soriano."
+          },
+          {
+            "name": "Patatas a la Riojana",
+            "tip": "A hearty potato and chorizo stew, perfect for a cooler lunch."
+          },
+          {
+            "name": "Rioja Wine",
+            "tip": "Order a 'Crianza' for a quality yet affordable local wine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Ebro",
+            "tip": "Ein Spaziergang entlang des Flusses bietet eine friedliche Pause vom Stadttrubel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parque del Ebro",
+            "tip": "Finden Sie eine Bank und genießen Sie die Ruhe im Grünen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussicht von der Steinbrücke",
+            "tip": "Ein ruhiger Moment, um den Sonnenuntergang über dem Fluss zu beobachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ebro folyó partja",
+            "tip": "Egy séta a folyó mentén békés kikapcsolódást nyújt a városi nyüzsgésből.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parque del Ebro",
+            "tip": "Keressen egy padot, és élvezze a csendet a zöldben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Kőhídról",
+            "tip": "Egy csendes pillanat a naplemente megfigyelésére a folyó felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Ebro",
+            "tip": "O plimbare de-a lungul râului oferă o pauză liniștită de agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parque del Ebro",
+            "tip": "Găsiți o bancă și bucurați-vă de liniștea din verdeață.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de pe Podul de Piatră",
+            "tip": "Un moment liniștit pentru a privi apusul peste râu.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Ebro River",
+            "tip": "A walk along the river offers a peaceful break from the city bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parque del Ebro",
+            "tip": "Find a bench and enjoy the peace and quiet among the greenery.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the Stone Bridge",
+            "tip": "A quiet moment to watch the sunset over the river.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Kaufen Sie lokale Produkte wie Chorizo, Käse und natürlich Wein."
+          },
+          {
+            "name": "Calle Portales",
+            "tip": "Eine Haupteinkaufsstraße mit einer Mischung aus lokalen Boutiquen und nationalen Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Vásároljon helyi termékeket, mint a chorizo, sajt és természetesen bor."
+          },
+          {
+            "name": "Calle Portales",
+            "tip": "Egy fő bevásárlóutca helyi butikok és nemzeti márkák keverékével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Cumpărați produse locale precum chorizo, brânză și, desigur, vin."
+          },
+          {
+            "name": "Calle Portales",
+            "tip": "O stradă principală de cumpărături cu un amestec de buticuri locale și mărci naționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Shop for local produce like chorizo, cheese, and of course, wine."
+          },
+          {
+            "name": "Calle Portales",
+            "tip": "A main shopping street with a mix of local boutiques and national brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die 'Siesta' wird noch praktiziert; viele Geschäfte schließen zwischen 14:00 und 17:00 Uhr.",
+          "Die Calle Laurel wird erst nach 20:00 Uhr richtig lebendig.",
+          "Ein Spaziergang am Fluss Ebro ist eine tolle Möglichkeit, der Menschenmenge zu entkommen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, az óváros macskakövei egyenetlenek lehetnek.",
+          "A 'szieszta' még mindig él; sok üzlet bezár 14:00 és 17:00 között.",
+          "A Calle Laurel csak 20:00 után kel igazán életre.",
+          "Egy séta az Ebro folyó partján remek módja a tömeg elkerülésének."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece pavajul din orașul vechi poate fi denivelat.",
+          "'Siesta' este încă practicată; multe magazine închid între orele 14:00 și 17:00.",
+          "Calle Laurel prinde viață abia după ora 20:00.",
+          "O plimbare pe malul râului Ebro este o modalitate excelentă de a scăpa de mulțime."
+        ],
+        "en": [
+          "Wear comfortable shoes, as the cobblestones in the old town can be uneven.",
+          "The 'siesta' is still practiced; many shops close between 2 PM and 5 PM.",
+          "Calle Laurel doesn't get really busy until after 8 PM.",
+          "A walk along the Ebro river is a great way to escape the crowds."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 9.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Steinbrücke (Puente de Piedra)",
+            "hu": "Kőhíd (Puente de Piedra)",
+            "ro": "Podul de Piatră (Puente de Piedra)",
+            "en": "Stone Bridge (Puente de Piedra)"
+          },
+          "coords": [
+            -2.4405,
+            42.468
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Perfekter Startpunkt für eine Radtour entlang des Flusses.",
+            "hu": "Tökéletes kiindulópont egy folyóparti kerékpártúrához.",
+            "ro": "Punct de plecare perfect pentru un tur cu bicicleta de-a lungul râului.",
+            "en": "Perfect starting point for a bike ride along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Bartolomé",
+            "hu": "San Bartolomé-templom",
+            "ro": "Biserica San Bartolomé",
+            "en": "Church of San Bartolomé"
+          },
+          "coords": [
+            -2.442,
+            42.4672
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad in der Nähe ab und bewundern Sie das romanische Portal.",
+            "hu": "Parkolja le a kerékpárt a közelben, és csodálja meg a román stílusú portált.",
+            "ro": "Parcați bicicleta în apropiere și admirați portalul romanic.",
+            "en": "Park your bike nearby and admire the Romanesque portal."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von La Rioja",
+            "hu": "La Rioja Múzeum",
+            "ro": "Muzeul La Rioja",
+            "en": "Museum of La Rioja"
+          },
+          "coords": [
+            -2.4445,
+            42.4675
+          ],
+          "category": "museums",
+          "arrive_at": "10:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein, um die Exponate zur Weinkultur zu sehen.",
+            "hu": "Szánjon elég időt a borkultúrával kapcsolatos kiállítási tárgyak megtekintésére.",
+            "ro": "Planificați-vă suficient timp pentru a vedea exponatele despre cultura vinului.",
+            "en": "Plan enough time to see the exhibits on wine culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Konkathedrale Santa María de la Redonda",
+            "hu": "Santa María de la Redonda társkatedrális",
+            "ro": "Concatedrala Santa María de la Redonda",
+            "en": "Co-Cathedral of Santa María de la Redonda"
+          },
+          "coords": [
+            -2.4455,
+            42.4658
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die Zwillingstürme sind ein Wahrzeichen der Stadt.",
+            "hu": "Az ikertornyok a város egyik jelképének számítanak.",
+            "ro": "Turnurile gemene sunt un punct de reper al orașului.",
+            "en": "The twin towers are a landmark of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Calle del Laurel",
+            "hu": "Calle del Laurel",
+            "ro": "Calle del Laurel",
+            "en": "Calle del Laurel"
+          },
+          "coords": [
+            -2.4485,
+            42.465
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:21",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad an einem Ende der Straße ab, da sie sehr belebt ist.",
+            "hu": "Zárja le a kerékpárt az utca egyik végén, mivel nagyon forgalmas.",
+            "ro": "Lăsați bicicleta la un capăt al străzii, deoarece este foarte aglomerată.",
+            "en": "Lock your bike at one end of the street as it's very crowded."
+          }
+        },
+        {
+          "name": {
+            "de": "Paseo del Espolón",
+            "hu": "Paseo del Espolón",
+            "ro": "Paseo del Espolón",
+            "en": "Paseo del Espolón"
+          },
+          "coords": [
+            -2.4478,
+            42.4655
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:53",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für eine Pause nach dem Mittagessen.",
+            "hu": "Tökéletes hely egy ebéd utáni pihenőre.",
+            "ro": "Un loc perfect pentru o pauză după prânz.",
+            "en": "A perfect spot for a post-lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Radtour entlang des Parque del Ebro",
+            "hu": "Kerékpártúra a Parque del Ebro mentén",
+            "ro": "Tur cu bicicleta de-a lungul Parque del Ebro",
+            "en": "Bike ride along Parque del Ebro"
+          },
+          "coords": [
+            -2.43,
+            42.47
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:23",
+          "stay_min": 30,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Folgen Sie dem Radweg für eine landschaftlich reizvolle Fahrt.",
+            "hu": "Kövesse a kerékpárutat egy festői útvonalon.",
+            "ro": "Urmați pista de biciclete pentru o plimbare pitorească.",
+            "en": "Follow the cycle path for a scenic ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour durch Logroño startet an der malerischen Steinbrücke. Am Morgen erkunden Sie die historischen Kirchen und das Museum von La Rioja, alles in bequemer Radentfernung. Zur Mittagszeit erreichen Sie die berühmte Calle del Laurel, wo Sie Ihr Rad abstellen und sich den kulinarischen Genüssen hingeben. Nach einer verdauten Pause im Schatten des Paseo del Espolón schwingen Sie sich wieder in den Sattel für eine längere, entspannte Fahrt entlang des Ebro-Flusses im Parque del Ebro. Der Tag endet mit dem Gefühl, die Stadt sowohl kulturell als auch aktiv erlebt zu haben.",
+        "hu": "A logroñói kerékpártúra a festői Kőhídnál kezdődik. Délelőtt felfedezi a történelmi templomokat és a La Rioja Múzeumot, mindezt kényelmes kerékpártávolságra. Ebédidőben eléri a híres Calle del Laurel-t, ahol leparkolja a kerékpárt, és átadja magát a kulináris élvezeteknek. A Paseo del Espolón árnyékában tartott pihenő után újra nyeregbe pattan egy hosszabb, pihentető tekerésre az Ebro folyó mentén a Parque del Ebro-ban. A nap azzal az érzéssel zárul, hogy a várost kulturálisan és aktívan is megtapasztalta.",
+        "ro": "Turul dvs. cu bicicleta prin Logroño începe de la pitorescul Pod de Piatră. Dimineața explorați bisericile istorice și Muzeul La Rioja, toate la o distanță confortabilă de mers cu bicicleta. La prânz ajungeți pe faimoasa Calle del Laurel, unde vă parcați bicicleta și vă bucurați de deliciile culinare. După o pauză digestivă la umbra Paseo del Espolón, vă urcați din nou pe bicicletă pentru o plimbare mai lungă și relaxantă de-a lungul râului Ebro în Parque del Ebro. Ziua se încheie cu sentimentul că ați experimentat orașul atât din punct de vedere cultural, cât și activ.",
+        "en": "Your bike tour of Logroño starts at the picturesque Stone Bridge. In the morning, you'll explore the historic churches and the Museum of La Rioja, all within easy cycling distance. At lunchtime, you'll reach the famous Calle del Laurel, where you can park your bike and indulge in culinary delights. After a digestive break in the shade of the Paseo del Espolón, you'll get back on your bike for a longer, relaxing ride along the Ebro River in the Parque del Ebro. The day ends with the feeling of having experienced the city both culturally and actively."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Ein schneller und sättigender Snack, den man in vielen Bars findet."
+          },
+          {
+            "name": "Rioja-Wein",
+            "tip": "Ein Glas Rotwein ist nach einer Radtour besonders lohnend."
+          },
+          {
+            "name": "Helado Artesanal",
+            "tip": "Belohnen Sie sich mit einem handwerklich hergestellten Eis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Egy gyors és laktató harapnivaló, amelyet sok bárban megtalál."
+          },
+          {
+            "name": "Riojai bor",
+            "tip": "Egy pohár vörösbor különösen jól esik egy kerékpártúra után."
+          },
+          {
+            "name": "Kézműves fagylalt",
+            "tip": "Jutalmazza meg magát egy kézműves fagylalttal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "O gustare rapidă și sățioasă găsită în multe baruri."
+          },
+          {
+            "name": "Vin de Rioja",
+            "tip": "Un pahar de vin roșu este deosebit de satisfăcător după o plimbare cu bicicleta."
+          },
+          {
+            "name": "Înghețată artizanală",
+            "tip": "Recompensați-vă cu o înghețată artizanală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "A quick and filling snack found in many bars."
+          },
+          {
+            "name": "Rioja Wine",
+            "tip": "A glass of red wine is especially rewarding after a bike ride."
+          },
+          {
+            "name": "Artisanal Ice Cream",
+            "tip": "Reward yourself with some artisanal ice cream."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque del Ebro",
+            "tip": "Der weitläufige Park ist ideal für eine ruhige Radtour.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhof von Logroño",
+            "tip": "Ein überraschend friedlicher und historischer Ort für einen kurzen Halt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sonnenuntergang am Fluss",
+            "tip": "Finden Sie einen Platz am Ufer, um den Tag ausklingen zu lassen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parque del Ebro",
+            "tip": "A tágas park ideális egy csendes kerékpártúrához.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Logroñói temető",
+            "tip": "Egy meglepően békés és történelmi hely egy rövid megállóhoz.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Naplemente a folyónál",
+            "tip": "Keressen egy helyet a parton, hogy lezárja a napot.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parque del Ebro",
+            "tip": "Parcul întins este ideal pentru o plimbare liniștită cu bicicleta.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul din Logroño",
+            "tip": "Un loc surprinzător de pașnic și istoric pentru o scurtă oprire.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Apus de soare pe râu",
+            "tip": "Găsiți un loc pe mal pentru a încheia ziua.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parque del Ebro",
+            "tip": "The spacious park is ideal for a quiet bike ride.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Logroño Cemetery",
+            "tip": "A surprisingly peaceful and historic place for a short stop.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sunset by the river",
+            "tip": "Find a spot on the bank to end the day.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Suchen Sie nach lokalen Radsportgeschäften für Zubehör oder Souvenirs."
+          },
+          {
+            "name": "Weingeschäfte (Vinotecas)",
+            "tip": "Kaufen Sie eine Flasche Rioja als perfektes Andenken; viele verpacken sie sicher für die Reise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Keressen helyi kerékpárboltokat kiegészítőkért vagy szuvenírekért."
+          },
+          {
+            "name": "Borboltok (Vinotecas)",
+            "tip": "Vásároljon egy üveg Rioja bort tökéletes emlékként; sok helyen biztonságosan becsomagolják az utazáshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Căutați magazine locale de ciclism pentru accesorii sau suveniruri."
+          },
+          {
+            "name": "Magazine de vinuri (Vinotecas)",
+            "tip": "Cumpărați o sticlă de Rioja ca suvenir perfect; multe o ambalează în siguranță pentru călătorie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "Look for local cycling shops for accessories or souvenirs."
+          },
+          {
+            "name": "Wine Shops (Vinotecas)",
+            "tip": "Buy a bottle of Rioja as a perfect souvenir; many will pack it securely for travel."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck vor der Abfahrt.",
+          "Nutzen Sie die Radwege entlang des Ebro für eine sichere und angenehme Fahrt.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, besonders in der Nähe von Touristenattraktionen.",
+          "Einige Einbahnstraßen im Zentrum können für Radfahrer in beide Richtungen freigegeben sein, achten Sie auf die Beschilderung."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Használja az Ebro menti kerékpárutakat a biztonságos és kellemes tekeréshez.",
+          "Mindig zárja le jól a kerékpárt, különösen a turisztikai látványosságok közelében.",
+          "A központban néhány egyirányú utca mindkét irányból nyitott lehet a kerékpárosok számára, figyeljen a táblákra."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de a pleca.",
+          "Utilizați pistele de biciclete de-a lungul râului Ebro pentru o plimbare sigură și plăcută.",
+          "Încuiați-vă întotdeauna bine bicicleta, mai ales în apropierea atracțiilor turistice.",
+          "Unele străzi cu sens unic din centru pot fi deschise bicicliștilor în ambele direcții, fiți atenți la semnalizare."
+        ],
+        "en": [
+          "Check your tire pressure before setting off.",
+          "Use the bike paths along the Ebro for a safe and pleasant ride.",
+          "Always lock your bike securely, especially near tourist attractions.",
+          "Some one-way streets in the center may be open to cyclists in both directions, pay attention to the signs."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:07",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkhaus am Paseo del Espolón",
+            "hu": "Parkolóház a Paseo del Espolónnál",
+            "ro": "Parcare la Paseo del Espolón",
+            "en": "Parking at Paseo del Espolón"
+          },
+          "coords": [
+            -2.449,
+            42.464
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Vormittag. Das Zentrum ist zu Fuß erreichbar.",
+            "hu": "Parkoljon itt a délelőttre. A központ gyalogosan elérhető.",
+            "ro": "Parcați aici pentru dimineață. Centrul este la distanță de mers pe jos.",
+            "en": "Park here for the morning. The center is within walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Paseo del Espolón",
+            "hu": "Paseo del Espolón",
+            "ro": "Paseo del Espolón",
+            "en": "Paseo del Espolón"
+          },
+          "coords": [
+            -2.4478,
+            42.4655
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein idealer Ort, um den Tag mit einem Blick auf das Reiterstandbild von General Espartero zu beginnen.",
+            "hu": "Ideális hely a nap kezdéséhez, egy pillantással Espartero tábornok lovas szobrára.",
+            "ro": "Un loc ideal pentru a începe ziua cu o privire la statuia ecvestră a generalului Espartero.",
+            "en": "An ideal place to start the day with a look at the equestrian statue of General Espartero."
+          }
+        },
+        {
+          "name": {
+            "de": "Konkathedrale Santa María de la Redonda",
+            "hu": "Santa María de la Redonda társkatedrális",
+            "ro": "Concatedrala Santa María de la Redonda",
+            "en": "Co-Cathedral of Santa María de la Redonda"
+          },
+          "coords": [
+            -2.4455,
+            42.4658
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die barocken Türme, die 'Las Gemelas' (Die Zwillinge) genannt werden.",
+            "hu": "Csodálja meg a 'Las Gemelas' (Az Ikrek) nevű barokk tornyokat.",
+            "ro": "Admirați turnurile baroce, numite 'Las Gemelas' (Gemenii).",
+            "en": "Admire the baroque towers, called 'Las Gemelas' (The Twins)."
+          }
+        },
+        {
+          "name": {
+            "de": "Calle del Laurel",
+            "hu": "Calle del Laurel",
+            "ro": "Calle del Laurel",
+            "en": "Calle del Laurel"
+          },
+          "coords": [
+            -2.4485,
+            42.465
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:21",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekt für ein frühes Mittagessen mit einer großen Auswahl an Pintxos.",
+            "hu": "Tökéletes egy korai ebédhez, pintxók széles választékával.",
+            "ro": "Perfect pentru un prânz timpuriu cu o mare varietate de pintxos.",
+            "en": "Perfect for an early lunch with a wide variety of pintxos."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz am Ebro-Ufer",
+            "hu": "Parkoló az Ebro partjánál",
+            "ro": "Parcare pe malul râului Ebro",
+            "en": "Parking by the Ebro River"
+          },
+          "coords": [
+            -2.439,
+            42.469
+          ],
+          "category": "transport",
+          "arrive_at": "13:12",
+          "stay_min": 0,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 10,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier, um die Brücke und die andere Flussseite zu erkunden.",
+            "hu": "Parkoljon itt, hogy felfedezze a hidat és a folyó másik oldalát.",
+            "ro": "Parcați aici pentru a explora podul și cealaltă parte a râului.",
+            "en": "Park here to explore the bridge and the other side of the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Steinbrücke & San Bartolomé",
+            "hu": "Kőhíd és San Bartolomé",
+            "ro": "Podul de Piatră și San Bartolomé",
+            "en": "Stone Bridge & San Bartolomé"
+          },
+          "coords": [
+            -2.4405,
+            42.468
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang über die Brücke zur ältesten Kirche der Stadt.",
+            "hu": "Egy szép séta a hídon át a város legrégebbi templomához.",
+            "ro": "O plimbare frumoasă peste pod până la cea mai veche biserică din oraș.",
+            "en": "A beautiful walk across the bridge to the city's oldest church."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von La Rioja",
+            "hu": "La Rioja Múzeum",
+            "ro": "Muzeul La Rioja",
+            "en": "Museum of La Rioja"
+          },
+          "coords": [
+            -2.4445,
+            42.4675
+          ],
+          "category": "museums",
+          "arrive_at": "14:31",
+          "stay_min": 120,
+          "hop_from_prev_min": 77,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kehren Sie zum Auto zurück und fahren Sie zum Museum, wo es oft Parkplätze in der Nähe gibt.",
+            "hu": "Térjen vissza az autóhoz, és vezessen a múzeumhoz, ahol gyakran van parkoló a közelben.",
+            "ro": "Întoarceți-vă la mașină și conduceți la muzeu, unde există adesea parcare în apropiere.",
+            "en": "Return to the car and drive to the museum, where there is often parking nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Logroño beginnt mit dem Parken im Zentrum, um den ersten Cluster zu Fuß zu erkunden: den eleganten Paseo del Espolón und die beeindruckende Konkathedrale. Zur Mittagszeit tauchen Sie in das kulinarische Herz der Stadt, die Calle del Laurel, ein. Am Nachmittag nehmen Sie das Auto für einen kurzen Sprung über den Fluss, um die historische Steinbrücke und die Kirche San Bartolomé zu bewundern. Der letzte Halt ist das Museum von La Rioja, wo Sie bequem in der Nähe parken können, um tief in die Kultur der Region einzutauchen. Dieser Plan kombiniert die Freiheit des Autos mit entspannten Spaziergängen in den schönsten Gegenden der Stadt.",
+        "hu": "Az autós nap Logroñóban a központban való parkolással kezdődik, hogy gyalogosan fedezze fel az első klasztert: az elegáns Paseo del Espolónt és a lenyűgöző társkatedrálist. Ebédidőben elmerül a város kulináris szívében, a Calle del Laurel-en. Délután autóba ül egy rövid útra a folyón túlra, hogy megcsodálja a történelmi Kőhidat és a San Bartolomé-templomot. Az utolsó megálló a La Rioja Múzeum, ahol kényelmesen parkolhat a közelben, hogy elmélyedjen a régió kultúrájában. Ez a terv ötvözi az autó nyújtotta szabadságot a város legszebb részein tett pihentető sétákkal.",
+        "ro": "Ziua dvs. cu mașina în Logroño începe cu parcarea în centru pentru a explora primul cluster pe jos: elegantul Paseo del Espolón și impresionanta Concatedrală. La prânz, vă scufundați în inima culinară a orașului, Calle del Laurel. După-amiaza, luați mașina pentru o scurtă călătorie peste râu pentru a admira istoricul Pod de Piatră și Biserica San Bartolomé. Ultima oprire este Muzeul La Rioja, unde puteți parca convenabil în apropiere pentru a vă adânci în cultura regiunii. Acest plan combină libertatea mașinii cu plimbări relaxante în cele mai frumoase zone ale orașului.",
+        "en": "Your car day in Logroño starts with parking in the center to explore the first cluster on foot: the elegant Paseo del Espolón and the impressive Co-Cathedral. At lunchtime, you'll dive into the city's culinary heart, Calle del Laurel. In the afternoon, you'll take the car for a short hop across the river to admire the historic Stone Bridge and the Church of San Bartolomé. The final stop is the Museum of La Rioja, where you can park conveniently nearby to delve deep into the region's culture. This plan combines the freedom of the car with relaxed walks in the city's most beautiful areas."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chuletas al Sarmiento",
+            "tip": "Lammkoteletts, die über Weinreben gegrillt werden. Suchen Sie nach Restaurants, die diese Spezialität anbieten."
+          },
+          {
+            "name": "Pimientos Rellenos",
+            "tip": "Gefüllte Paprika, oft mit Fleisch oder Fisch."
+          },
+          {
+            "name": "Verkostung in einer Bodega",
+            "tip": "Nutzen Sie das Auto, um eine der nahegelegenen Bodegas am Stadtrand zu besuchen (vorher buchen)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chuletas al Sarmiento",
+            "tip": "Szőlővesszőn grillezett bárányborda. Keressen éttermeket, amelyek ezt a specialitást kínálják."
+          },
+          {
+            "name": "Pimientos Rellenos",
+            "tip": "Töltött paprika, gyakran hússal vagy hallal."
+          },
+          {
+            "name": "Borkóstolás egy bodegában",
+            "tip": "Használja ki az autót, és látogasson el a város szélén található közeli bodegák egyikébe (előre foglaljon)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chuletas al Sarmiento",
+            "tip": "Cotlete de miel la grătar pe viță de vie. Căutați restaurante care oferă această specialitate."
+          },
+          {
+            "name": "Pimientos Rellenos",
+            "tip": "Ardei umpluți, adesea cu carne sau pește."
+          },
+          {
+            "name": "Degustare la o Bodega",
+            "tip": "Folosiți mașina pentru a vizita una dintre bodegile din apropiere, la periferia orașului (rezervați în avans)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chuletas al Sarmiento",
+            "tip": "Lamb chops grilled over vine shoots. Look for restaurants offering this specialty."
+          },
+          {
+            "name": "Pimientos Rellenos",
+            "tip": "Stuffed peppers, often with meat or fish."
+          },
+          {
+            "name": "Bodega Tasting",
+            "tip": "Use the car to visit one of the nearby bodegas on the outskirts of the city (book in advance)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Monte Cantabria",
+            "tip": "Eine kurze Autofahrt zu diesem Hügel bietet einen Panoramablick auf die Stadt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parque de la Grajera",
+            "tip": "Ein großer Park mit einem Stausee etwas außerhalb der Stadt, ideal für einen ruhigen Nachmittag.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Klöster Yuso und Suso",
+            "tip": "Wenn Sie Zeit haben, ist die einstündige Fahrt zu diesen UNESCO-Stätten sehr lohnenswert.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Monte Cantabria",
+            "tip": "Egy rövid autóútra ettől a hegytől panorámás kilátás nyílik a városra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parque de la Grajera",
+            "tip": "Egy nagy park víztározóval a városon kívül, ideális egy csendes délutánra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Yuso és Suso kolostorok",
+            "tip": "Ha van ideje, az egyórás út ezekhez az UNESCO helyszínekhez nagyon megéri.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Monte Cantabria",
+            "tip": "O scurtă călătorie cu mașina până la acest deal oferă o vedere panoramică asupra orașului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parque de la Grajera",
+            "tip": "Un parc mare cu un rezervor chiar în afara orașului, ideal pentru o după-amiază liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mănăstirile Yuso și Suso",
+            "tip": "Dacă aveți timp, călătoria de o oră cu mașina la aceste situri UNESCO merită din plin.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Monte Cantabria",
+            "tip": "A short drive to this hill offers a panoramic view of the city.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parque de la Grajera",
+            "tip": "A large park with a reservoir just outside the city, ideal for a quiet afternoon.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Monasteries of Yuso and Suso",
+            "tip": "If you have time, the one-hour drive to these UNESCO sites is very worthwhile.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Einkaufszentrum Berceo",
+            "tip": "Mit dem Auto leicht erreichbar, bietet es eine große Auswahl an spanischen und internationalen Marken."
+          },
+          {
+            "name": "Direktverkauf von Bodegas",
+            "tip": "Kaufen Sie Wein direkt vom Erzeuger für die beste Auswahl und oft bessere Preise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Berceo Bevásárlóközpont",
+            "tip": "Könnyen megközelíthető autóval, spanyol és nemzetközi márkák széles választékát kínálja."
+          },
+          {
+            "name": "Közvetlen értékesítés a bodegákból",
+            "tip": "Vásároljon bort közvetlenül a termelőtől a legjobb választékért és gyakran jobb árakért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Berceo",
+            "tip": "Ușor accesibil cu mașina, oferă o gamă largă de mărci spaniole și internaționale."
+          },
+          {
+            "name": "Vânzări directe de la Bodegas",
+            "tip": "Cumpărați vin direct de la producător pentru cea mai bună selecție și adesea prețuri mai bune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Berceo Shopping Center",
+            "tip": "Easily accessible by car, it offers a wide range of Spanish and international brands."
+          },
+          {
+            "name": "Direct sales from Bodegas",
+            "tip": "Buy wine directly from the producer for the best selection and often better prices."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die blauen Zonen (ORA) für das Parken; sie sind zeitlich begrenzt und gebührenpflichtig.",
+          "Die Altstadt ist größtenteils eine Fußgängerzone; es ist am besten, am Rand zu parken.",
+          "Planen Sie Ihre Fahrten außerhalb der Stoßzeiten (ca. 8-9 Uhr, 14-15 Uhr, 19-20 Uhr).",
+          "Ein GPS ist unerlässlich, um sich im Labyrinth der Einbahnstraßen zurechtzufinden."
+        ],
+        "hu": [
+          "Figyeljen a kék zónákra (ORA) a parkolásnál; időkorlátosak és díjkötelesek.",
+          "Az óváros nagyrészt sétálóövezet; a legjobb a szélén parkolni.",
+          "Tervezze az utazásait a csúcsforgalmon kívül (kb. 8-9, 14-15, 19-20 óra).",
+          "A GPS elengedhetetlen az egyirányú utcák labirintusában való navigáláshoz."
+        ],
+        "ro": [
+          "Fiți atenți la zonele albastre (ORA) pentru parcare; acestea sunt limitate în timp și contra cost.",
+          "Centrul vechi este în mare parte pietonal; cel mai bine este să parcați la margine.",
+          "Planificați-vă călătoriile în afara orelor de vârf (aprox. 8-9, 14-15, 19-20).",
+          "Un GPS este esențial pentru a naviga prin labirintul de străzi cu sens unic."
+        ],
+        "en": [
+          "Pay attention to the blue zones (ORA) for parking; they are time-limited and require payment.",
+          "The old town is largely pedestrianized; it's best to park on the outskirts.",
+          "Plan your drives outside of peak hours (around 8-9 AM, 2-3 PM, 7-8 PM).",
+          "A GPS is essential for navigating the maze of one-way streets."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:42",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bushaltestelle am Bahnhof",
+            "hu": "Buszmegálló az állomásnál",
+            "ro": "Stație de autobuz la gară",
+            "en": "Bus stop at the train station"
+          },
+          "coords": [
+            -2.454,
+            42.459
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, da viele Buslinien den Bahnhof anfahren.",
+            "hu": "Kezdje itt, mivel sok buszjárat érinti az állomást.",
+            "ro": "Începeți aici, deoarece multe linii de autobuz deservesc gara.",
+            "en": "Start here as many bus lines serve the train station."
+          }
+        },
+        {
+          "name": {
+            "de": "Parlament von La Rioja & Cubo del Revellín",
+            "hu": "La Rioja Parlamentje és Cubo del Revellín",
+            "ro": "Parlamentul La Rioja și Cubo del Revellín",
+            "en": "Parliament of La Rioja & Cubo del Revellín"
+          },
+          "coords": [
+            -2.451,
+            42.468
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:28",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie in der Nähe der alten Stadtmauern aus und erkunden Sie beides zu Fuß.",
+            "hu": "Szálljon le a régi városfalak közelében, és fedezze fel mindkettőt gyalog.",
+            "ro": "Coborâți lângă vechile ziduri ale orașului și explorați ambele pe jos.",
+            "en": "Get off near the old city walls and explore both on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Bartolomé",
+            "hu": "San Bartolomé-templom",
+            "ro": "Biserica San Bartolomé",
+            "en": "Church of San Bartolomé"
+          },
+          "coords": [
+            -2.442,
+            42.4672
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Revellín durch die Altstadtgassen.",
+            "hu": "Egy rövid séta a Revellíntől az óváros sikátorain keresztül.",
+            "ro": "O scurtă plimbare de la Revellín prin aleile orașului vechi.",
+            "en": "A short walk from the Revellín through the old town alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Konkathedrale und Calle Laurel (Mittagessen)",
+            "hu": "Társkatedrális és Calle Laurel (Ebéd)",
+            "ro": "Concatedrala și Calle Laurel (Prânz)",
+            "en": "Co-Cathedral and Calle Laurel (Lunch)"
+          },
+          "coords": [
+            -2.446,
+            42.4655
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:38",
+          "stay_min": 120,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besichtigen Sie die Kathedrale und genießen Sie anschließend die Pintxos.",
+            "hu": "Nézze meg a katedrálist, majd élvezze a pintxókat.",
+            "ro": "Vizitați catedrala și apoi bucurați-vă de pintxos.",
+            "en": "Visit the cathedral and then enjoy the pintxos."
+          }
+        },
+        {
+          "name": {
+            "de": "Paseo del Espolón",
+            "hu": "Paseo del Espolón",
+            "ro": "Paseo del Espolón",
+            "en": "Paseo del Espolón"
+          },
+          "coords": [
+            -2.4478,
+            42.4655
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:42",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Ort für einen Verdauungsspaziergang nach dem Mittagessen.",
+            "hu": "Tökéletes hely egy ebéd utáni emésztő sétához.",
+            "ro": "Locul perfect pentru o plimbare digestivă după prânz.",
+            "en": "The perfect place for a digestive walk after lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von La Rioja",
+            "hu": "La Rioja Múzeum",
+            "ro": "Muzeul La Rioja",
+            "en": "Museum of La Rioja"
+          },
+          "coords": [
+            -2.4445,
+            42.4675
+          ],
+          "category": "museums",
+          "arrive_at": "15:21",
+          "stay_min": 110,
+          "hop_from_prev_min": 59,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Espolón, um Zeit und Energie zu sparen.",
+            "hu": "Spóroljon időt és energiát azzal, hogy buszra száll az Espolónról.",
+            "ro": "Luați un autobuz de la Espolón pentru a economisi timp și energie.",
+            "en": "Take a bus from the Espolón to save time and energy."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln in Logroño startet an einem zentralen Knotenpunkt, dem Bahnhof. Eine kurze Busfahrt bringt Sie zum ersten Cluster, dem historischen Viertel um das Parlament und den Cubo del Revellín. Von dort aus erkunden Sie die Altstadt zu Fuß, entdecken die San Bartolomé-Kirche und erreichen zur Mittagszeit die Konkathedrale und die Calle Laurel. Nach einer ausgiebigen Pause und einem Spaziergang auf dem Paseo del Espolón nehmen Sie erneut einen Bus, der Sie bequem zum Museum von La Rioja bringt. Dieser Plan zeigt, wie effizient und entspannt man die Highlights von Logroño mit einer Kombination aus Busfahrten und Spaziergängen entdecken kann.",
+        "hu": "A tömegközlekedéssel töltött nap Logroñóban egy központi csomópontnál, az állomásnál kezdődik. Egy rövid buszozás elviszi az első klaszterhez, a Parlament és a Cubo del Revellín körüli történelmi negyedbe. Onnan gyalogosan fedezi fel az óvárost, felfedezi a San Bartolomé-templomot, és ebédidőben eléri a társkatedrálist és a Calle Laurel-t. Egy kiadós pihenő és a Paseo del Espolónon tett séta után ismét buszra száll, amely kényelmesen elviszi a La Rioja Múzeumba. Ez a terv megmutatja, milyen hatékonyan és pihentetően lehet felfedezni Logroño nevezetességeit buszozás és séták kombinációjával.",
+        "ro": "Ziua dvs. cu transportul public în Logroño începe de la un nod central, gara. O scurtă călătorie cu autobuzul vă duce la primul cluster, cartierul istoric din jurul Parlamentului și Cubo del Revellín. De acolo, explorați orașul vechi pe jos, descoperiți Biserica San Bartolomé și ajungeți la Concatedrală și Calle Laurel la ora prânzului. După o pauză copioasă și o plimbare pe Paseo del Espolón, luați din nou un autobuz care vă duce confortabil la Muzeul La Rioja. Acest plan arată cât de eficient și relaxant puteți descoperi atracțiile din Logroño cu o combinație de călătorii cu autobuzul și plimbări.",
+        "en": "Your day on public transport in Logroño starts at a central hub, the train station. A short bus ride takes you to the first cluster, the historic quarter around the Parliament and the Cubo del Revellín. From there, you'll explore the old town on foot, discovering the Church of San Bartolomé and reaching the Co-Cathedral and Calle Laurel at lunchtime. After a hearty break and a walk on the Paseo del Espolón, you'll take another bus that will comfortably take you to the Museum of La Rioja. This plan shows how efficiently and relaxing it is to discover Logroño's highlights with a combination of bus rides and walks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Menú del Día",
+            "tip": "Viele Restaurants bieten ein erschwingliches Mittagsmenü an, eine gute Alternative zu Pintxos."
+          },
+          {
+            "name": "Zurracapote",
+            "tip": "Ein lokales weinbasiertes Getränk, ähnlich wie Sangria, besonders beliebt bei Festen."
+          },
+          {
+            "name": "Bar Ángel",
+            "tip": "Ein weiterer Klassiker auf der Calle Laurel, berühmt für seine Pilz-Pintxos."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Menú del Día",
+            "tip": "Sok étterem kínál megfizethető ebédmenüt, jó alternatíva a pintxók helyett."
+          },
+          {
+            "name": "Zurracapote",
+            "tip": "Egy helyi, bor alapú ital, hasonló a sangriához, különösen népszerű az ünnepek alatt."
+          },
+          {
+            "name": "Bar Ángel",
+            "tip": "Egy másik klasszikus a Calle Laurel-en, híres a gombás pintxóiról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Menú del Día",
+            "tip": "Multe restaurante oferă un meniu de prânz accesibil, o alternativă bună la pintxos."
+          },
+          {
+            "name": "Zurracapote",
+            "tip": "O băutură locală pe bază de vin, asemănătoare cu sangria, deosebit de populară la festivaluri."
+          },
+          {
+            "name": "Bar Ángel",
+            "tip": "Un alt clasic de pe Calle Laurel, renumit pentru pintxos-urile sale cu ciuperci."
+          }
+        ],
+        "en": [
+          {
+            "name": "Menú del Día",
+            "tip": "Many restaurants offer an affordable lunch menu, a good alternative to pintxos."
+          },
+          {
+            "name": "Zurracapote",
+            "tip": "A local wine-based drink, similar to sangria, especially popular during festivals."
+          },
+          {
+            "name": "Bar Ángel",
+            "tip": "Another classic on Calle Laurel, famous for its mushroom pintxos."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Innenhof des Museums von La Rioja",
+            "tip": "Ein ruhiger, eleganter Raum, um nach dem Museumsbesuch durchzuatmen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parque del Carmen",
+            "tip": "Ein kleiner, zentraler Park, der oft weniger überlaufen ist als der Espolón.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Oberes Deck eines Busses",
+            "tip": "Manchmal ist die beste ruhige Minute, einfach nur die Stadt aus dem Fenster vorbeiziehen zu sehen.",
+            "emoji": "🚌"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A La Rioja Múzeum udvara",
+            "tip": "Egy csendes, elegáns tér, ahol levegőt vehet a múzeumi látogatás után.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parque del Carmen",
+            "tip": "Egy kicsi, központi park, amely gyakran kevésbé zsúfolt, mint az Espolón.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Egy busz emelete",
+            "tip": "Néha a legjobb csendes perc csak nézni, ahogy a város elsuhan az ablak előtt.",
+            "emoji": "🚌"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea interioară a Muzeului La Rioja",
+            "tip": "Un spațiu liniștit și elegant pentru a respira după vizitarea muzeului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parque del Carmen",
+            "tip": "Un parc mic, central, adesea mai puțin aglomerat decât Espolón.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Etajul superior al unui autobuz",
+            "tip": "Uneori, cel mai bun moment de liniște este pur și simplu să privești orașul trecând pe lângă fereastră.",
+            "emoji": "🚌"
+          }
+        ],
+        "en": [
+          {
+            "name": "Courtyard of the Museum of La Rioja",
+            "tip": "A quiet, elegant space to take a breath after visiting the museum.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parque del Carmen",
+            "tip": "A small, central park that is often less crowded than the Espolón.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Upper deck of a bus",
+            "tip": "Sometimes the best quiet minute is just watching the city go by from the window.",
+            "emoji": "🚌"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle San Antón",
+            "tip": "Eine weitere Einkaufsstraße, die vom Zentrum aus leicht zu Fuß erreichbar ist."
+          },
+          {
+            "name": "Souvenirläden in der Nähe der Kathedrale",
+            "tip": "Hier finden Sie typische Souvenirs wie Postkarten und kleine Flaschen Rioja-Wein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle San Antón",
+            "tip": "Egy másik bevásárlóutca, amely a központból könnyen megközelíthető gyalog."
+          },
+          {
+            "name": "Szuvenírboltok a katedrális közelében",
+            "tip": "Itt tipikus szuveníreket talál, mint képeslapokat és kis üveg Rioja bort."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle San Antón",
+            "tip": "O altă stradă comercială ușor accesibilă pe jos din centru."
+          },
+          {
+            "name": "Magazine de suveniruri lângă catedrală",
+            "tip": "Aici veți găsi suveniruri tipice, cum ar fi cărți poștale și sticle mici de vin de Rioja."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle San Antón",
+            "tip": "Another shopping street easily accessible on foot from the center."
+          },
+          {
+            "name": "Souvenir shops near the Cathedral",
+            "tip": "Here you will find typical souvenirs like postcards and small bottles of Rioja wine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine 'Bonobús'-Karte für ermäßigte Fahrpreise, wenn Sie mehrere Fahrten planen.",
+          "Die meisten Busse haben eine Digitalanzeige, die die nächste Haltestelle anzeigt.",
+          "Validieren Sie Ihr Ticket immer beim Einsteigen.",
+          "Die Busfrequenzen können sonntags und an Feiertagen reduziert sein."
+        ],
+        "hu": [
+          "Vásároljon 'Bonobús' kártyát a kedvezményes utazáshoz, ha több utat tervez.",
+          "A legtöbb buszon van digitális kijelző, amely a következő megállót mutatja.",
+          "Felszálláskor mindig érvényesítse a jegyét.",
+          "A buszjáratok sűrűsége vasárnap és ünnepnapokon csökkenhet."
+        ],
+        "ro": [
+          "Cumpărați un card 'Bonobús' pentru tarife reduse dacă plănuiți mai multe călătorii.",
+          "Majoritatea autobuzelor au un afișaj digital care arată următoarea stație.",
+          "Validați-vă întotdeauna biletul la urcare.",
+          "Frecvența autobuzelor poate fi redusă duminica și de sărbătorile legale."
+        ],
+        "en": [
+          "Buy a 'Bonobús' card for discounted fares if you plan on making several trips.",
+          "Most buses have a digital display showing the next stop.",
+          "Always validate your ticket when you board.",
+          "Bus frequencies may be reduced on Sundays and public holidays."
+        ]
+      }
+    }
+  }
+}

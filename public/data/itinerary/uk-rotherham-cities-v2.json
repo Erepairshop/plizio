@@ -1,0 +1,1401 @@
+{
+  "city_id": "uk-rotherham-cities-v2",
+  "anchor": {
+    "name": "Rotherham",
+    "coords": [
+      -1.357,
+      53.43
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rotherham Minster",
+            "hu": "Rotherhami székesegyház",
+            "ro": "Catedrala din Rotherham",
+            "en": "Rotherham Minster"
+          },
+          "coords": [
+            -1.3575,
+            53.4305
+          ],
+          "category": "churches",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beachten Sie die beeindruckenden Buntglasfenster.",
+            "hu": "Figyeld meg a lenyűgöző ólomüveg ablakokat.",
+            "ro": "Observați vitraliile impresionante.",
+            "en": "Notice the impressive stained-glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Clifton Park",
+            "hu": "Clifton Park",
+            "ro": "Parcul Clifton",
+            "en": "Clifton Park"
+          },
+          "coords": [
+            -1.35,
+            53.425
+          ],
+          "category": "parks",
+          "arrive_at": "10:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Ideal für einen entspannten Spaziergang am Morgen.",
+            "hu": "Ideális egy pihentető reggeli sétához.",
+            "ro": "Ideal pentru o plimbare relaxantă de dimineață.",
+            "en": "Ideal for a relaxing morning stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Clifton Park Museum",
+            "hu": "Clifton Park Múzeum",
+            "ro": "Muzeul Clifton Park",
+            "en": "Clifton Park Museum"
+          },
+          "coords": [
+            -1.349,
+            53.4255
+          ],
+          "category": "museums",
+          "arrive_at": "11:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Die York and Lancaster Regimental Sammlung ist ein Muss.",
+            "hu": "A York és Lancaster ezredgyűjtemény kötelező látnivaló.",
+            "ro": "Colecția Regimentului York and Lancaster este o necesitate.",
+            "en": "The York and Lancaster Regimental collection is a must-see."
+          }
+        },
+        {
+          "name": {
+            "de": "Magna Science Adventure Centre",
+            "hu": "Magna Tudományos Kalandközpont",
+            "ro": "Centrul de Aventuri Științifice Magna",
+            "en": "Magna Science Adventure Centre"
+          },
+          "coords": [
+            -1.31,
+            53.413
+          ],
+          "category": "museums",
+          "arrive_at": "13:57",
+          "stay_min": 120,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit für die interaktiven Ausstellungen ein.",
+            "hu": "Tervezz elég időt az interaktív kiállításokra.",
+            "ro": "Planificați suficient timp pentru expozițiile interactive.",
+            "en": "Allow plenty of time for the interactive exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Thrybergh Country Park",
+            "hu": "Thrybergh Country Park",
+            "ro": "Parcul Național Thrybergh",
+            "en": "Thrybergh Country Park"
+          },
+          "coords": [
+            -1.295,
+            53.455
+          ],
+          "category": "parks",
+          "arrive_at": "16:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Ein schöner Ort, um den Tag mit Blick auf den See ausklingen zu lassen.",
+            "hu": "Szép hely a nap lezárására a tóparti kilátással.",
+            "ro": "Un loc frumos pentru a încheia ziua cu o vedere la lac.",
+            "en": "A lovely spot to end the day overlooking the lake."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen der Stadt am Rotherham Minster, einem Juwel gotischer Architektur. Spazieren Sie anschließend durch den nahe gelegenen Clifton Park, eine grüne Oase, die perfekt für einen morgendlichen Spaziergang ist. Besuchen Sie das Clifton Park Museum im Park, um in die lokale Geschichte einzutauchen. Am Nachmittag unternehmen Sie einen längeren Spaziergang zum Magna Science Adventure Centre, einem interaktiven Wunderland in einem ehemaligen Stahlwerk. Beenden Sie Ihren Tag im Thrybergh Country Park, wo Sie sich am See entspannen und die Ruhe genießen können, während die Sonne untergeht.",
+        "hu": "Kezdje a napot a város szívében, a Rotherham Minster gótikus építészeti gyöngyszeménél. Sétáljon át a közeli Clifton Parkba, egy zöld oázisba, amely tökéletes egy reggeli sétához. Látogasson el a parkban található Clifton Park Múzeumba, hogy elmerüljön a helyi történelemben. Délután tegyen egy hosszabb sétát a Magna Science Adventure Centre-hez, egy interaktív csodaországba, amely egy egykori acélműben kapott helyet. Zárja a napot a Thrybergh Country Parkban, ahol pihenhet a tó mellett és élvezheti a békét naplementekor.",
+        "ro": "Începeți ziua în inima orașului la Catedrala din Rotherham, o bijuterie a arhitecturii gotice. Plimbați-vă prin Parcul Clifton din apropiere, o oază de verdeață perfectă pentru o plimbare de dimineață. Vizitați Muzeul Clifton Park din interiorul parcului pentru a vă cufunda în istoria locală. După-amiaza, faceți o plimbare mai lungă până la Centrul de Aventuri Științifice Magna, un tărâm interactiv al minunilor situat într-o fostă oțelărie. Încheiați-vă ziua la Parcul Național Thrybergh, relaxându-vă lângă lac și bucurându-vă de liniște în timp ce soarele apune.",
+        "en": "Start your day in the heart of the city at Rotherham Minster, a gem of Gothic architecture. Afterwards, stroll through the nearby Clifton Park, a green oasis perfect for a morning walk. Visit the Clifton Park Museum within the park to delve into local history. In the afternoon, take a longer walk to the Magna Science Adventure Centre, an interactive wonderland housed in a former steelworks. Conclude your day at Thrybergh Country Park, relaxing by the lake and enjoying the peace as the sun sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Yorkshire Pudding",
+            "tip": "Probieren Sie es mit Bratensoße in einem traditionellen Pub."
+          },
+          {
+            "name": "Henderson's Relish",
+            "tip": "Eine lokale Würze, die zu fast allem passt. Suchen Sie danach in den örtlichen Cafés."
+          },
+          {
+            "name": "Parkin",
+            "tip": "Ein Ingwerkuchen, der perfekt zu einer Tasse Tee am Nachmittag passt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Yorkshire puding",
+            "tip": "Kóstolja meg sült szafttal egy hagyományos pubban."
+          },
+          {
+            "name": "Henderson's Relish",
+            "tip": "Helyi fűszer, ami szinte mindenhez illik. Keresse a helyi kávézókban."
+          },
+          {
+            "name": "Parkin",
+            "tip": "Gyömbéres sütemény, tökéletes egy délutáni csésze teához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Yorkshire Pudding",
+            "tip": "Încercați-l cu sos gravy într-un pub tradițional."
+          },
+          {
+            "name": "Henderson's Relish",
+            "tip": "Un condiment local care merge cu aproape orice. Căutați-l în cafenelele locale."
+          },
+          {
+            "name": "Parkin",
+            "tip": "O prăjitură cu ghimbir perfectă cu o ceașcă de ceai după-amiaza."
+          }
+        ],
+        "en": [
+          {
+            "name": "Yorkshire Pudding",
+            "tip": "Try it with gravy at a traditional pub."
+          },
+          {
+            "name": "Henderson's Relish",
+            "tip": "A local condiment that goes with almost everything. Look for it in local cafes."
+          },
+          {
+            "name": "Parkin",
+            "tip": "A ginger cake that's perfect with an afternoon cup of tea."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten des Clifton Park",
+            "tip": "Finden Sie eine ruhige Bank in den Themengärten.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Thrybergh Lake",
+            "tip": "Beobachten Sie die Wasservögel und genießen Sie die Stille.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rotherham Minster Innenraum",
+            "tip": "Setzen Sie sich in eine der Bänke für einen Moment der stillen Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Clifton Park kertjei",
+            "tip": "Keressen egy csendes padot a tematikus kertekben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Thrybergh-tó partja",
+            "tip": "Figyelje a vízimadarakat és élvezze a csendet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rotherham Minster belseje",
+            "tip": "Üljön le egy padba egy csendes elmélkedés erejéig.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Clifton Park",
+            "tip": "Găsiți o bancă liniștită în grădinile tematice.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malul lacului Thrybergh",
+            "tip": "Priviți păsările de apă și bucurați-vă de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Interiorul Catedralei din Rotherham",
+            "tip": "Așezați-vă pe o bancă pentru un moment de reflecție tăcută.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Clifton Park Gardens",
+            "tip": "Find a quiet bench within the themed gardens.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Thrybergh Lake Shore",
+            "tip": "Watch the waterfowl and enjoy the silence.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rotherham Minster Interior",
+            "tip": "Sit in a pew for a moment of quiet reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rotherham Outdoor Market",
+            "tip": "Suchen Sie nach lokalen Produkten und handwerklichen Erzeugnissen."
+          },
+          {
+            "name": "Museumsshop im Clifton Park",
+            "tip": "Einzigartige Geschenke und Bücher zur lokalen Geschichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rotherhami szabadtéri piac",
+            "tip": "Keressen helyi termékeket és kézműves árukat."
+          },
+          {
+            "name": "Clifton Park Múzeum boltja",
+            "tip": "Egyedi ajándékok és könyvek a helyi történelemről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața în aer liber din Rotherham",
+            "tip": "Căutați produse locale și meșteșuguri artizanale."
+          },
+          {
+            "name": "Magazinul muzeului Clifton Park",
+            "tip": "Cadouri unice și cărți despre istoria locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rotherham Outdoor Market",
+            "tip": "Browse for local produce and artisan goods."
+          },
+          {
+            "name": "Clifton Park Museum Shop",
+            "tip": "Unique gifts and books on local history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus.",
+          "Ein tragbares Ladegerät für Ihr Telefon ist eine gute Idee.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit, um hydriert zu bleiben."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét.",
+          "Egy hordozható töltő a telefonjához jó ötlet.",
+          "Hozzon magával egy újratölthető vizes palackot, hogy hidratált maradjon."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Verificați în avans orele de deschidere ale muzeelor.",
+          "Un încărcător portabil pentru telefon este o idee bună.",
+          "Luați o sticlă de apă reutilizabilă pentru a vă menține hidratat."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "Check museum opening times in advance.",
+          "A portable charger for your phone is a good idea.",
+          "Bring a reusable water bottle to stay hydrated."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 21.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rotherham Minster",
+            "hu": "Rotherhami székesegyház",
+            "ro": "Catedrala din Rotherham",
+            "en": "Rotherham Minster"
+          },
+          "coords": [
+            -1.3575,
+            53.4305
+          ],
+          "category": "churches",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie eintreten.",
+            "hu": "Biztonságosan zárja le a kerékpárját, mielőtt belép.",
+            "ro": "Asigurați-vă bicicleta în siguranță înainte de a intra.",
+            "en": "Lock your bike securely before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Magna Science Adventure Centre",
+            "hu": "Magna Tudományos Kalandközpont",
+            "ro": "Centrul de Aventuri Științifice Magna",
+            "en": "Magna Science Adventure Centre"
+          },
+          "coords": [
+            -1.31,
+            53.413
+          ],
+          "category": "museums",
+          "arrive_at": "10:11",
+          "stay_min": 120,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Es gibt Fahrradständer in der Nähe des Eingangs.",
+            "hu": "A bejárat közelében kerékpártárolók találhatók.",
+            "ro": "Există suporturi pentru biciclete lângă intrare.",
+            "en": "There are bike racks available near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Clifton Park",
+            "hu": "Clifton Park",
+            "ro": "Parcul Clifton",
+            "en": "Clifton Park"
+          },
+          "coords": [
+            -1.35,
+            53.425
+          ],
+          "category": "parks",
+          "arrive_at": "12:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause. Fahren Sie entlang der Parkwege.",
+            "hu": "Tökéletes egy ebédszünetre. Kerékpározzon a park útjain.",
+            "ro": "Perfect pentru o pauză de prânz. Pedalați pe aleile parcului.",
+            "en": "Perfect for a lunch break. Cycle along the park paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Thrybergh Country Park",
+            "hu": "Thrybergh Country Park",
+            "ro": "Parcul Național Thrybergh",
+            "en": "Thrybergh Country Park"
+          },
+          "coords": [
+            -1.295,
+            53.455
+          ],
+          "category": "parks",
+          "arrive_at": "14:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.8,
+          "tip_5lang": {
+            "de": "Der Seeumrundungsweg ist ideal für eine gemütliche Radtour.",
+            "hu": "A tó körüli út ideális egy kellemes kerékpártúrához.",
+            "ro": "Traseul din jurul lacului este ideal pentru o plimbare cu bicicleta.",
+            "en": "The path around the lake is great for a gentle cycle."
+          }
+        },
+        {
+          "name": {
+            "de": "Hoober Stand",
+            "hu": "Hoober Stand",
+            "ro": "Hoober Stand",
+            "en": "Hoober Stand"
+          },
+          "coords": [
+            -1.355,
+            53.485
+          ],
+          "category": "monuments",
+          "arrive_at": "15:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Der Aufstieg ist die Aussicht wert. Seien Sie auf einen steilen Anstieg vorbereitet.",
+            "hu": "A kilátás megéri a fáradságot. Készüljön fel egy meredek emelkedőre.",
+            "ro": "Urcușul merită priveliștea. Fiți pregătit pentru o pantă abruptă.",
+            "en": "The climb is worth the view. Be prepared for a steep hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Rother Valley Country Park",
+            "hu": "Rother Valley Country Park",
+            "ro": "Parcul Național Rother Valley",
+            "en": "Rother Valley Country Park"
+          },
+          "coords": [
+            -1.33,
+            53.38
+          ],
+          "category": "parks",
+          "arrive_at": "16:44",
+          "stay_min": 81,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Ein riesiger Park mit vielen Wegen zum Erkunden zum Abschluss des Tages.",
+            "hu": "Hatalmas park, számos ösvénnyel a nap befejezéséhez.",
+            "ro": "Un parc vast cu multe trasee de explorat pentru a încheia ziua.",
+            "en": "A huge park with plenty of trails to explore as you finish the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Rotherham Minster und fahren Sie dann nach Osten zum interaktiven Magna Science Adventure Centre. Nach einem lehrreichen Vormittag radeln Sie zurück ins Stadtzentrum zum Clifton Park für eine entspannte Mittagspause. Am Nachmittag führt Sie Ihre Route nach Norden zum Thrybergh Country Park, wo Sie um den malerischen See radeln können. Für Abenteuerlustige geht es weiter bergauf zum Hoober Stand für eine fantastische Aussicht, bevor Sie den Tag im weitläufigen Rother Valley Country Park ausklingen lassen.",
+        "hu": "Kezdje a kerékpártúrát a Rotherham Minsternél, majd tekerjen keletre az interaktív Magna Science Adventure Centre-hez. Az ismeretterjesztő délelőtt után tekerjen vissza a városközpontba, a Clifton Parkba egy pihentető ebédszünetre. Délután az útvonal észak felé vezet a Thrybergh Country Parkba, ahol körbebiciklizheti a festői tavat. A kalandvágyók számára az út felfelé vezet a Hoober Standhoz a fantasztikus kilátásért, mielőtt a napot a tágas Rother Valley Country Parkban zárná.",
+        "ro": "Începeți turul pe bicicletă la Catedrala din Rotherham, apoi pedalați spre est, la Centrul interactiv de Aventuri Științifice Magna. După o dimineață educativă, reveniți în centrul orașului la Parcul Clifton pentru o pauză de prânz relaxantă. După-amiaza, traseul vă duce spre nord, la Parcul Național Thrybergh, pentru o plimbare cu bicicleta în jurul lacului pitoresc. Cei aventuroși pot urca la Hoober Stand pentru vederi fantastice, înainte de a încheia ziua în vastul Parc Național Rother Valley.",
+        "en": "Kick off your cycling tour at Rotherham Minster, then head east to the interactive Magna Science Adventure Centre. After an educational morning, cycle back towards the town centre for a relaxing lunch break in Clifton Park. In the afternoon, your route takes you north to Thrybergh Country Park for a cycle around the scenic lake. For the adventurous, a climb up to Hoober Stand offers fantastic views before you finish the day exploring the vast Rother Valley Country Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Masons Arms",
+            "tip": "Ein fahrradfreundlicher Pub, der herzhafte Mahlzeiten serviert."
+          },
+          {
+            "name": "The Coffee House",
+            "tip": "Ideal für einen schnellen Koffeinschub und hausgemachten Kuchen."
+          },
+          {
+            "name": "Picknick im Park",
+            "tip": "Kaufen Sie lokale Produkte auf dem Markt für ein Picknick im Rother Valley."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Masons Arms",
+            "tip": "Kerékpárbarát pub, ahol laktató ételeket szolgálnak fel."
+          },
+          {
+            "name": "The Coffee House",
+            "tip": "Ideális egy gyors koffeinlökethez és házi süteményhez."
+          },
+          {
+            "name": "Piknik a parkban",
+            "tip": "Vásároljon helyi termékeket a piacon egy piknikhez a Rother Valley-ben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Masons Arms",
+            "tip": "Un pub prietenos cu bicicliștii, care servește mese copioase."
+          },
+          {
+            "name": "The Coffee House",
+            "tip": "Ideal pentru o doză rapidă de cofeină și prăjituri de casă."
+          },
+          {
+            "name": "Picnic în parc",
+            "tip": "Cumpărați produse locale de la piață pentru un picnic în Rother Valley."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Masons Arms",
+            "tip": "A bike-friendly pub serving hearty meals."
+          },
+          {
+            "name": "The Coffee House",
+            "tip": "Great for a quick caffeine boost and homemade cake."
+          },
+          {
+            "name": "Park Picnic",
+            "tip": "Grab some local produce from the market for a picnic in Rother Valley."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rother Valley Seen",
+            "tip": "Finden Sie einen ruhigen Platz am Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Wentworth Gärten (in der Nähe)",
+            "tip": "Wenn Sie Zeit haben, sind die Gärten von Wentworth Woodhouse eine friedliche Flucht.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenaufgang am Hoober Stand",
+            "tip": "Für Frühaufsteher bietet dies eine unvergleichliche Ruhe.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rother Valley tavak",
+            "tip": "Keressen egy csendes helyet a vízparton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Wentworth Gardens (közelben)",
+            "tip": "Ha van ideje, a Wentworth Woodhouse kertjei békés menedéket nyújtanak.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Napfelkelte a Hoober Stand-nél",
+            "tip": "A korán kelők számára páratlan nyugalmat kínál.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacurile din Rother Valley",
+            "tip": "Găsiți un loc liniștit lângă apă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Wentworth (în apropiere)",
+            "tip": "Dacă aveți timp, grădinile de la Wentworth Woodhouse sunt o evadare pașnică.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Răsărit la Hoober Stand",
+            "tip": "Pentru cei matinali, oferă o liniște de neegalat.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rother Valley Lakes",
+            "tip": "Find a quiet spot by the water's edge.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Wentworth Gardens (nearby)",
+            "tip": "If you have time, the gardens at Wentworth Woodhouse are a peaceful escape.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunrise at Hoober Stand",
+            "tip": "For early risers, this offers unparalleled peace.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rotherham Outdoor Market",
+            "tip": "Tanken Sie vor Ihrer Fahrt mit lokalen Snacks auf."
+          },
+          {
+            "name": "Fahrradgeschäfte im Stadtzentrum",
+            "tip": "Für alle Last-Minute-Reparaturen oder Zubehörteile."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rotherhami szabadtéri piac",
+            "tip": "Töltse fel magát helyi harapnivalókkal a túra előtt."
+          },
+          {
+            "name": "Kerékpárboltok a városközpontban",
+            "tip": "Bármilyen utolsó pillanatban szükséges javításhoz vagy kiegészítőhöz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața în aer liber din Rotherham",
+            "tip": "Aprovizionați-vă cu gustări locale înainte de plimbare."
+          },
+          {
+            "name": "Magazine de biciclete din centrul orașului",
+            "tip": "Pentru orice reparații de ultim moment sau accesorii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rotherham Outdoor Market",
+            "tip": "Stock up on local snacks before your ride."
+          },
+          {
+            "name": "Town Centre Bike Shops",
+            "tip": "For any last-minute repairs or accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie einen Helm und verwenden Sie Lichter, besonders auf Landstraßen.",
+          "Einige Wege können schlammig sein, planen Sie entsprechend.",
+          "Nehmen Sie ein zuverlässiges Schloss für Ihr Fahrrad mit.",
+          "Überprüfen Sie die Route im Voraus, da einige Anstiege anspruchsvoll sein können."
+        ],
+        "hu": [
+          "Viseljen sisakot és használjon lámpákat, különösen a vidéki utakon.",
+          "Néhány ösvény sáros lehet, tervezzen ennek megfelelően.",
+          "Hozzon magával egy megbízható zárat a kerékpárjához.",
+          "Előre ellenőrizze az útvonalat, mivel néhány emelkedő kihívást jelenthet."
+        ],
+        "ro": [
+          "Purtați cască și folosiți lumini, mai ales pe drumurile de țară.",
+          "Unele trasee pot fi noroioase, planificați corespunzător.",
+          "Luați un lacăt de încredere pentru bicicletă.",
+          "Verificați traseul în avans, deoarece unele urcări pot fi dificile."
+        ],
+        "en": [
+          "Wear a helmet and use lights, especially on country roads.",
+          "Some paths can be muddy, plan accordingly.",
+          "Bring a reliable lock for your bike.",
+          "Check the route in advance as some hills can be challenging."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 42.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Wentworth Woodhouse",
+            "hu": "Wentworth Woodhouse",
+            "ro": "Wentworth Woodhouse",
+            "en": "Wentworth Woodhouse"
+          },
+          "coords": [
+            -1.42,
+            53.475
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 9.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Buchen Sie eine Führung, um die immense Größe des Hauses zu erfassen.",
+            "hu": "Foglaljon vezetett túrát, hogy felfogja a ház hatalmas méreteit.",
+            "ro": "Rezervați un tur ghidat pentru a înțelege imensitatea casei.",
+            "en": "Book a guided tour to grasp the immense scale of the house."
+          }
+        },
+        {
+          "name": {
+            "de": "Keppel's Column",
+            "hu": "Keppel-oszlop",
+            "ro": "Coloana lui Keppel",
+            "en": "Keppel's Column"
+          },
+          "coords": [
+            -1.39,
+            53.46
+          ],
+          "category": "monuments",
+          "arrive_at": "11:25",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Wentworth-Anwesen mit toller Aussicht.",
+            "hu": "Rövid séta a Wentworth birtokról, nagyszerű kilátással.",
+            "ro": "O plimbare scurtă de la moșia Wentworth, cu vederi superbe.",
+            "en": "A short walk from the Wentworth estate with great views."
+          }
+        },
+        {
+          "name": {
+            "de": "Roche Abbey",
+            "hu": "Roche apátság",
+            "ro": "Abația Roche",
+            "en": "Roche Abbey"
+          },
+          "coords": [
+            -1.2,
+            53.395
+          ],
+          "category": "churches",
+          "arrive_at": "12:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 18,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Die von Capability Brown gestaltete Landschaft ist ebenso beeindruckend wie die Ruinen.",
+            "hu": "A Capability Brown által tervezett táj ugyanolyan lenyűgöző, mint a romok.",
+            "ro": "Peisajul amenajat de Capability Brown este la fel de impresionant ca și ruinele.",
+            "en": "The landscape designed by Capability Brown is as impressive as the ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Rotherham Minster",
+            "hu": "Rotherhami székesegyház",
+            "ro": "Catedrala din Rotherham",
+            "en": "Rotherham Minster"
+          },
+          "coords": [
+            -1.3575,
+            53.4305
+          ],
+          "category": "churches",
+          "arrive_at": "14:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und erkunden Sie das Stadtzentrum zu Fuß.",
+            "hu": "Parkoljon a közelben, és fedezze fel a városközpontot gyalog.",
+            "ro": "Parcați în apropiere și explorați centrul orașului pe jos.",
+            "en": "Park nearby and explore the town centre cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Clifton Park",
+            "hu": "Clifton Park",
+            "ro": "Parcul Clifton",
+            "en": "Clifton Park"
+          },
+          "coords": [
+            -1.35,
+            53.425
+          ],
+          "category": "parks",
+          "arrive_at": "15:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Ort, um nach dem Mittagessen die Beine zu vertreten.",
+            "hu": "Szép hely a lábak kinyújtóztatására ebéd után.",
+            "ro": "Un loc minunat pentru a vă dezmorți picioarele după prânz.",
+            "en": "A lovely place to stretch your legs after lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Clifton Park Museum",
+            "hu": "Clifton Park Múzeum",
+            "ro": "Muzeul Clifton Park",
+            "en": "Clifton Park Museum"
+          },
+          "coords": [
+            -1.349,
+            53.4255
+          ],
+          "category": "museums",
+          "arrive_at": "16:07",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf eine Galerie, wenn die Zeit knapp ist.",
+            "hu": "Ha kevés az idő, koncentráljon egy galériára.",
+            "ro": "Concentrați-vă pe o singură galerie dacă timpul este scurt.",
+            "en": "Focus on one gallery if you are short on time."
+          }
+        },
+        {
+          "name": {
+            "de": "Rother Valley Country Park",
+            "hu": "Rother Valley Country Park",
+            "ro": "Parcul Național Rother Valley",
+            "en": "Rother Valley Country Park"
+          },
+          "coords": [
+            -1.33,
+            53.38
+          ],
+          "category": "parks",
+          "arrive_at": "17:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 13.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ideal für einen entspannten Spaziergang am Abend oder Wassersport.",
+            "hu": "Ideális egy esti sétához vagy vízi sportokhoz.",
+            "ro": "Ideal pentru o plimbare de seară relaxantă sau sporturi acvatice.",
+            "en": "Perfect for a relaxing evening walk or watersports."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer Fahrt zum prächtigen Wentworth Woodhouse, einem der größten Privathäuser Europas. Erkunden Sie das Haus und spazieren Sie dann zur nahegelegenen Keppel's Column. Fahren Sie als Nächstes zu den ruhigen Ruinen der Roche Abbey. Am Nachmittag fahren Sie in die Innenstadt von Rotherham. Parken Sie Ihr Auto und erkunden Sie den zentralen Cluster zu Fuß: Besuchen Sie das Rotherham Minster und entspannen Sie sich im Clifton Park und seinem Museum. Beenden Sie Ihren Tag mit einer kurzen Fahrt zum riesigen Rother Valley Country Park für einen Spaziergang am See bei Sonnenuntergang.",
+        "hu": "Kezdje a napot egy utazással a csodálatos Wentworth Woodhouse-hoz, Európa egyik legnagyobb magánkastélyához. Fedezze fel a házat, majd sétáljon el a közeli Keppel-oszlophoz. Ezután vezessen a Roche apátság békés romjaihoz. Délután irány Rotherham központja. Parkoljon le, és fedezze fel a központi részt gyalog: látogasson el a Rotherham Minsterbe, majd pihenjen a Clifton Parkban és annak múzeumában. Zárja a napot egy rövid autóúttal a hatalmas Rother Valley Country Parkba egy naplementi tavi sétára.",
+        "ro": "Începeți ziua cu o excursie la magnificul Wentworth Woodhouse, una dintre cele mai mari case private din Europa. Explorați casa, apoi plimbați-vă până la Coloana lui Keppel din apropiere. Următoarea oprire este la ruinele senine ale Abației Roche. După-amiaza, mergeți în centrul orașului Rotherham. Parcați mașina și explorați grupul central pe jos: vizitați Catedrala din Rotherham și relaxați-vă în Parcul Clifton și muzeul său. Încheiați ziua cu o scurtă călătorie cu mașina până la vastul Parc Național Rother Valley pentru o plimbare pe malul lacului la apus.",
+        "en": "Start your day by driving to the magnificent Wentworth Woodhouse, one of Europe's largest private homes. Explore the house, then walk to the nearby Keppel's Column. Next, drive to the tranquil ruins of Roche Abbey. In the afternoon, head into Rotherham town centre. Park your car and explore the central cluster on foot: visit Rotherham Minster, and relax in Clifton Park and its museum. End your day with a short drive to the vast Rother Valley Country Park for a lakeside stroll at sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Travellers Inn",
+            "tip": "Traditionelle Pub-Gerichte in der Nähe von Roche Abbey."
+          },
+          {
+            "name": "Wentworth Garden Centre Café",
+            "tip": "Perfekt für Kaffee und Kuchen nach der Besichtigung des Hauses."
+          },
+          {
+            "name": "The Olive Lounge",
+            "tip": "Eine gute Option für das Abendessen in der Nähe des Rother Valley."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Travellers Inn",
+            "tip": "Hagyományos pub-ételek a Roche apátság közelében."
+          },
+          {
+            "name": "Wentworth Garden Centre Café",
+            "tip": "Tökéletes egy kávéra és süteményre a ház megtekintése után."
+          },
+          {
+            "name": "The Olive Lounge",
+            "tip": "Jó választás vacsorára a Rother Valley közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Travellers Inn",
+            "tip": "Mâncare tradițională de pub lângă Abația Roche."
+          },
+          {
+            "name": "Cafeneaua Centrului de Grădinărit Wentworth",
+            "tip": "Perfect pentru o cafea și o prăjitură după vizitarea casei."
+          },
+          {
+            "name": "The Olive Lounge",
+            "tip": "O opțiune bună pentru cină lângă Rother Valley."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Travellers Inn",
+            "tip": "Traditional pub food near Roche Abbey."
+          },
+          {
+            "name": "Wentworth Garden Centre Café",
+            "tip": "Perfect for coffee and cake after touring the house."
+          },
+          {
+            "name": "The Olive Lounge",
+            "tip": "A good dinner option near Rother Valley."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Roche Abbey",
+            "tip": "Finden Sie einen ruhigen Platz inmitten der Ruinen, um die Geschichte auf sich wirken zu lassen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Wentworth Woodhouse Gärten",
+            "tip": "Die weitläufigen Gärten bieten viele abgeschiedene Ecken.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Abend am Rother Valley",
+            "tip": "Der Sonnenuntergang über den Seen ist ein friedlicher Anblick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Roche apátság",
+            "tip": "Keressen egy csendes helyet a romok között, hogy magába szívja a történelmet.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Wentworth Woodhouse kertjei",
+            "tip": "A tágas kertek számos eldugott zugot kínálnak.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Este a Rother Valley-ben",
+            "tip": "A naplemente a tavak felett békés látvány.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Abația Roche",
+            "tip": "Găsiți un loc liniștit printre ruine pentru a absorbi istoria.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădinile Wentworth Woodhouse",
+            "tip": "Grădinile întinse oferă multe colțuri retrase.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Seara în Rother Valley",
+            "tip": "Apusul peste lacuri este o priveliște pașnică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Roche Abbey",
+            "tip": "Find a quiet spot amidst the ruins to absorb the history.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Wentworth Woodhouse Gardens",
+            "tip": "The vast gardens offer many secluded corners.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Evening at Rother Valley",
+            "tip": "The sunset over the lakes is a peaceful sight.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wentworth Woodhouse Gift Shop",
+            "tip": "Exklusive Souvenirs im Zusammenhang mit dem Anwesen."
+          },
+          {
+            "name": "Hofläden in der Umgebung",
+            "tip": "Halten Sie Ausschau nach Schildern für frische, lokale Produkte auf Ihren Fahrten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wentworth Woodhouse ajándékbolt",
+            "tip": "Exkluzív ajándéktárgyak a birtokhoz kapcsolódóan."
+          },
+          {
+            "name": "Környékbeli farmboltok",
+            "tip": "Figyelje a friss, helyi termékeket hirdető táblákat útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de cadouri Wentworth Woodhouse",
+            "tip": "Suveniruri exclusive legate de moșie."
+          },
+          {
+            "name": "Magazinele fermelor din zonă",
+            "tip": "Fiți atenți la indicatoarele pentru produse proaspete locale în timpul călătoriilor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wentworth Woodhouse Gift Shop",
+            "tip": "Exclusive souvenirs related to the estate."
+          },
+          {
+            "name": "Local Farm Shops",
+            "tip": "Look out for signs for fresh local produce on your drives."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Buchen Sie Tickets für Wentworth Woodhouse im Voraus, besonders in der Hochsaison.",
+          "Prüfen Sie die Parkgebühren, einige Orte erheben eine Gebühr.",
+          "Die Straßen auf dem Land können eng sein, fahren Sie vorsichtig.",
+          "Ein Navigationsgerät oder eine Karten-App ist für die Navigation zwischen den weit verstreuten Orten unerlässlich."
+        ],
+        "hu": [
+          "Foglaljon jegyet a Wentworth Woodhouse-ba előre, különösen a főszezonban.",
+          "Ellenőrizze a parkolási díjakat, néhány helyen díjat számítanak fel.",
+          "A vidéki utak szűkek lehetnek, vezessen óvatosan.",
+          "Egy GPS vagy térképalkalmazás elengedhetetlen a távoli helyszínek közötti navigáláshoz."
+        ],
+        "ro": [
+          "Rezervați biletele pentru Wentworth Woodhouse în avans, mai ales în sezonul de vârf.",
+          "Verificați taxele de parcare, unele locații percep o taxă.",
+          "Drumurile rurale pot fi înguste, conduceți cu prudență.",
+          "Un GPS sau o aplicație de hărți este esențială pentru a naviga între locațiile dispersate."
+        ],
+        "en": [
+          "Book tickets for Wentworth Woodhouse in advance, especially during peak season.",
+          "Check for parking charges; some locations have a fee.",
+          "Country roads can be narrow, drive with care.",
+          "A GPS or map app is essential for navigating between the spread-out locations."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 18.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rotherham Minster",
+            "hu": "Rotherhami székesegyház",
+            "ro": "Catedrala din Rotherham",
+            "en": "Rotherham Minster"
+          },
+          "coords": [
+            -1.3575,
+            53.4305
+          ],
+          "category": "churches",
+          "arrive_at": "09:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Das Minster liegt direkt neben dem zentralen Busbahnhof.",
+            "hu": "A székesegyház közvetlenül a központi buszpályaudvar mellett található.",
+            "ro": "Catedrala este chiar lângă autogara centrală.",
+            "en": "The Minster is right beside the central bus interchange."
+          }
+        },
+        {
+          "name": {
+            "de": "Clifton Park",
+            "hu": "Clifton Park",
+            "ro": "Parcul Clifton",
+            "en": "Clifton Park"
+          },
+          "coords": [
+            -1.35,
+            53.425
+          ],
+          "category": "parks",
+          "arrive_at": "10:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein einfacher 15-minütiger Spaziergang vom Minster.",
+            "hu": "Könnyű 15 perces séta a székesegyháztól.",
+            "ro": "O plimbare ușoară de 15 minute de la catedrală.",
+            "en": "An easy 15-minute walk from the Minster."
+          }
+        },
+        {
+          "name": {
+            "de": "Clifton Park Museum",
+            "hu": "Clifton Park Múzeum",
+            "ro": "Muzeul Clifton Park",
+            "en": "Clifton Park Museum"
+          },
+          "coords": [
+            -1.349,
+            53.4255
+          ],
+          "category": "museums",
+          "arrive_at": "11:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Im selben Park gelegen, nur einen kurzen Spaziergang entfernt.",
+            "hu": "Ugyanabban a parkban található, csak egy rövid séta.",
+            "ro": "Situat în același parc, la o scurtă plimbare.",
+            "en": "Located within the same park, just a short stroll away."
+          }
+        },
+        {
+          "name": {
+            "de": "Magna Science Adventure Centre",
+            "hu": "Magna Tudományos Kalandközpont",
+            "ro": "Centrul de Aventuri Științifice Magna",
+            "en": "Magna Science Adventure Centre"
+          },
+          "coords": [
+            -1.31,
+            53.413
+          ],
+          "category": "museums",
+          "arrive_at": "13:17",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Häufige Busverbindungen vom Stadtzentrum.",
+            "hu": "Gyakori buszjáratok a városközpontból.",
+            "ro": "Servicii frecvente de autobuz din centrul orașului.",
+            "en": "Frequent bus services run from the town centre."
+          }
+        },
+        {
+          "name": {
+            "de": "Rother Valley Country Park",
+            "hu": "Rother Valley Country Park",
+            "ro": "Parcul Național Rother Valley",
+            "en": "Rother Valley Country Park"
+          },
+          "coords": [
+            -1.33,
+            53.38
+          ],
+          "category": "parks",
+          "arrive_at": "16:07",
+          "stay_min": 133,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Möglicherweise müssen Sie umsteigen, aber die Reise lohnt sich.",
+            "hu": "Lehet, hogy át kell szállnia, de megéri az utazást.",
+            "ro": "S-ar putea să fie nevoie să schimbați autobuzul, dar călătoria merită.",
+            "en": "You may need to change buses, but it's worth the journey."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Bus ins Herz von Rotherham. Der erste Cluster ist zu Fuß erreichbar: Erkunden Sie das Rotherham Minster, schlendern Sie durch den Clifton Park und besuchen Sie das Museum. Nehmen Sie nach dem Mittagessen einen Bus zum nächsten Cluster: dem beeindruckenden Magna Science Adventure Centre, wo Sie den Nachmittag verbringen können. Zum Abschluss des Tages nehmen Sie einen weiteren Bus zum weitläufigen Rother Valley Country Park, um sich zu entspannen und die Natur zu genießen, bevor Sie zurück ins Zentrum fahren.",
+        "hu": "Kezdje a napot a busszal Rotherham szívébe. Az első látnivalócsoport gyalogosan bejárható: fedezze fel a Rotherham Minstert, sétáljon a Clifton Parkban és látogasson el a múzeumba. Ebéd után szálljon buszra a következő csoporthoz: a lenyűgöző Magna Science Adventure Centre-hez, ahol a délutánt töltheti. A nap végén egy másik busszal menjen a hatalmas Rother Valley Country Parkba, hogy pihenjen és élvezze a természetet, mielőtt visszatérne a központba.",
+        "ro": "Începeți ziua luând autobuzul spre inima orașului Rotherham. Primul grup de atracții este pietonal: explorați Catedrala din Rotherham, plimbați-vă prin Parcul Clifton și vizitați muzeul acestuia. După prânz, luați un autobuz către următorul grup: impresionantul Centru de Aventuri Științifice Magna, unde vă puteți petrece după-amiaza. Pentru a încheia ziua, luați un alt autobuz către vastul Parc Național Rother Valley pentru a vă relaxa și a vă bucura de natură înainte de a vă întoarce în centru.",
+        "en": "Start your day by taking a bus into the heart of Rotherham. The first cluster is walkable: explore Rotherham Minster, wander through Clifton Park, and visit its museum. After lunch, catch a bus to the next cluster: the impressive Magna Science Adventure Centre, where you can spend the afternoon. To finish the day, take another transit ride to the vast Rother Valley Country Park to relax and enjoy the outdoors before heading back to the centre."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Corn Law Ristoro",
+            "tip": "In der Nähe des Busbahnhofs gelegen, praktisch für eine Mahlzeit."
+          },
+          {
+            "name": "Magna's Fuel Café",
+            "tip": "Eine einfache Möglichkeit für einen Happen zu essen, während Sie dort sind."
+          },
+          {
+            "name": "The Stables Café",
+            "tip": "Ein charmantes Café im Rother Valley Country Park."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Corn Law Ristoro",
+            "tip": "A buszpályaudvar közelében található, kényelmes egy étkezéshez."
+          },
+          {
+            "name": "Magna's Fuel Café",
+            "tip": "Könnyű lehetőség egy falatra, amíg ott van."
+          },
+          {
+            "name": "The Stables Café",
+            "tip": "Bájos kávézó a Rother Valley Country Parkban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Corn Law Ristoro",
+            "tip": "Situat convenabil lângă autogară pentru o masă."
+          },
+          {
+            "name": "Cafeneaua Fuel de la Magna",
+            "tip": "O opțiune ușoară pentru o gustare în timp ce sunteți acolo."
+          },
+          {
+            "name": "The Stables Café",
+            "tip": "O cafenea fermecătoare în Parcul Național Rother Valley."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Corn Law Ristoro",
+            "tip": "Conveniently located near the bus interchange for a meal."
+          },
+          {
+            "name": "Magna's Fuel Café",
+            "tip": "An easy option for a bite to eat while you're there."
+          },
+          {
+            "name": "The Stables Café",
+            "tip": "A charming café located within Rother Valley Country Park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rotherham Minster",
+            "tip": "Finden Sie einen ruhigen Moment vor dem Trubel des Tages.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Clifton Park's Memorial Garden",
+            "tip": "Ein ausgewiesener ruhiger Bereich im Park.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ein Spaziergang um einen der Rother Valley Seen",
+            "tip": "Entfliehen Sie den Menschenmassen und genießen Sie die Natur.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rotherham Minster",
+            "tip": "Találjon egy csendes pillanatot a nap nyüzsgése előtt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Clifton Park Emlékkertje",
+            "tip": "Kijelölt csendes terület a parkban.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Séta a Rother Valley egyik tava körül",
+            "tip": "Meneküljön el a tömeg elől és élvezze a természetet.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Catedrala din Rotherham",
+            "tip": "Găsiți un moment de liniște înainte de agitația zilei.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădina Memorială din Parcul Clifton",
+            "tip": "O zonă liniștită desemnată în parc.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "O plimbare în jurul unuia dintre lacurile din Rother Valley",
+            "tip": "Evadați de mulțime și bucurați-vă de natură.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rotherham Minster",
+            "tip": "Find a quiet moment before the day's hustle.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Clifton Park's Memorial Garden",
+            "tip": "A designated quiet area within the park.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A walk around one of the Rother Valley lakes",
+            "tip": "Escape the crowds and enjoy nature.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte im Stadtzentrum",
+            "tip": "Stöbern Sie in den Geschäften rund um den Busbahnhof."
+          },
+          {
+            "name": "Magna Science Centre Gift Shop",
+            "tip": "Wissenschaftsbezogene Spielzeuge und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városközponti üzletek",
+            "tip": "Böngésszen a buszpályaudvar körüli üzletekben."
+          },
+          {
+            "name": "Magna Science Centre ajándékbolt",
+            "tip": "Tudományos témájú játékok és ajándéktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele din centrul orașului",
+            "tip": "Răsfoiți magazinele din jurul autogării."
+          },
+          {
+            "name": "Magazinul de cadouri al Centrului de Știință Magna",
+            "tip": "Jucării și suveniruri cu tematică științifică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Town Centre Shops",
+            "tip": "Browse the shops around the bus interchange."
+          },
+          {
+            "name": "Magna Science Centre Gift Shop",
+            "tip": "Science-themed toys and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Laden Sie eine lokale Bus-App herunter, um die Fahrpläne in Echtzeit zu verfolgen.",
+          "Seien Sie auf mögliche Verspätungen vorbereitet und planen Sie etwas Pufferzeit ein.",
+          "Überprüfen Sie die Route des letzten Busses zurück von abgelegenen Orten wie dem Rother Valley."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Töltsön le egy helyi buszalkalmazást a valós idejű menetrendek követéséhez.",
+          "Készüljön fel a lehetséges késésekre, és tervezzen némi pufferidőt.",
+          "Ellenőrizze az utolsó busz útvonalát a távoli helyekről, mint például a Rother Valley-ből."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Descărcați o aplicație locală de autobuz pentru a urmări orarele în timp real.",
+          "Fiți pregătit pentru posibile întârzieri și planificați un timp suplimentar.",
+          "Verificați traseul ultimului autobuz de întoarcere din locații îndepărtate, cum ar fi Rother Valley."
+        ],
+        "en": [
+          "Purchase a day rider ticket for unlimited travel.",
+          "Download a local bus app to track timetables in real-time.",
+          "Be prepared for potential delays and plan some buffer time.",
+          "Check the last bus route back from outlying locations like Rother Valley."
+        ]
+      }
+    }
+  }
+}

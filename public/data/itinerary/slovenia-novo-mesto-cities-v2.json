@@ -1,0 +1,1484 @@
+{
+  "city_id": "slovenia-novo-mesto-cities-v2",
+  "anchor": {
+    "name": "Novo Mesto",
+    "coords": [
+      15.171,
+      45.801
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptplatz (Glavni trg)",
+            "hu": "Fő tér (Glavni trg)",
+            "ro": "Piața Principală (Glavni trg)",
+            "en": "Main Square (Glavni trg)"
+          },
+          "coords": [
+            15.1668,
+            45.8045
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einem Kaffee und beobachten Sie das Leben auf diesem charakteristischen, gebogenen Platz.",
+            "hu": "Kezdje a napot egy kávéval, és figyelje a város életét ezen a jellegzetes, ívelt téren.",
+            "ro": "Începeți ziua cu o cafea și priviți viața orașului în această piață curbată caracteristică.",
+            "en": "Start your day with a coffee and watch the town life in this characteristically curved square."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus (Rotovž)",
+            "hu": "Városháza (Rotovž)",
+            "ro": "Primăria (Rotovž)",
+            "en": "Town Hall (Rotovž)"
+          },
+          "coords": [
+            15.1665,
+            45.8042
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fassade und die Mischung aus Gotik- und Renaissancestilen.",
+            "hu": "Csodálja meg a homlokzatot és a gótikus-reneszánsz stílusjegyek keveredését.",
+            "ro": "Admirați fațada și amestecul său de stiluri gotice și renascentiste.",
+            "en": "Admire the facade and its blend of Gothic and Renaissance styles."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapitelkirche St. Nikolaus",
+            "hu": "Szent Miklós-székesegyház",
+            "ro": "Biserica capitulară Sf. Nicolae",
+            "en": "Chapter Church of St. Nicholas"
+          },
+          "coords": [
+            15.1685,
+            45.8052
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf das Tintoretto zugeschriebene Altarbild und den einzigartigen gebrochenen Giebel.",
+            "hu": "Keresse a Tintorettónak tulajdonított oltárképet és a különleges, megtört tengelyű szentélyt.",
+            "ro": "Căutați altarul atribuit lui Tintoretto și axa unică a presbiteriului frânt.",
+            "en": "Look for the altarpiece attributed to Tintoretto and the unique broken chancel axis."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolenjska-Museum",
+            "hu": "Dolenjska Múzeum",
+            "ro": "Muzeul Dolenjska",
+            "en": "Dolenjska Museum"
+          },
+          "coords": [
+            15.165,
+            45.8035
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die archäologische Abteilung mit ihren beeindruckenden Situlen aus der Eisenzeit.",
+            "hu": "Koncentráljon a régészeti részlegre, ahol lenyűgöző vaskori szitulákat őriznek.",
+            "ro": "Concentrează-te pe secțiunea arheologică, cu situlele sale impresionante din Epoca Fierului.",
+            "en": "Focus on the archaeological section with its impressive Iron Age situlae."
+          }
+        },
+        {
+          "name": {
+            "de": "Breg",
+            "hu": "Breg",
+            "ro": "Breg",
+            "en": "Breg"
+          },
+          "coords": [
+            15.169,
+            45.8038
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für das Mittagessen mit malerischem Blick auf den Fluss Krka. Viele Restaurants hier.",
+            "hu": "Tökéletes hely egy ebédhez, festői kilátással a Krka folyóra. Számos étterem található itt.",
+            "ro": "Un loc perfect pentru prânz, cu o vedere pitorească la râul Krka. Multe restaurante aici.",
+            "en": "A perfect spot for lunch with a picturesque view of the Krka river. Many restaurants here."
+          }
+        },
+        {
+          "name": {
+            "de": "Kandija-Brücke",
+            "hu": "Kandija-híd",
+            "ro": "Podul Kandija",
+            "en": "Kandija Bridge"
+          },
+          "coords": [
+            15.1632,
+            45.8021
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Überqueren Sie diese ikonische Eisenbrücke für tolle Fotomotive der Altstadt und des Flusses.",
+            "hu": "Sétáljon át ezen az ikonikus vashídon, ahonnan remek fotókat készíthet az óvárosról és a folyóról.",
+            "ro": "Traversați acest pod de fier emblematic pentru oportunități foto excelente cu orașul vechi și râul.",
+            "en": "Cross this iconic iron bridge for great photo opportunities of the old town and the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Franziskanerkloster",
+            "hu": "Ferences kolostor",
+            "ro": "Mănăstirea Franciscană",
+            "en": "Franciscan Monastery"
+          },
+          "coords": [
+            15.162,
+            45.804
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:00",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besuchen Sie die Bibliothek, die für ihre wertvollen Manuskripte bekannt ist, und genießen Sie die ruhige Atmosphäre.",
+            "hu": "Látogassa meg az értékes kéziratairól híres könyvtárat, és élvezze a csendes légkört.",
+            "ro": "Vizitați biblioteca, renumită pentru manuscrisele sale valoroase, și bucurați-vă de atmosfera liniștită.",
+            "en": "Visit the library, known for its valuable manuscripts, and enjoy the tranquil atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang durch Novo Mesto beginnt am pulsierenden Hauptplatz, einem perfekten Ort, um die einzigartige Architektur zu bewundern. Am Vormittag erkunden Sie das religiöse Herz der Stadt in der majestätischen Kapitelkirche, bevor Sie im Dolenjska-Museum tief in die eisenzeitliche Vergangenheit eintauchen. Nach einem Mittagessen am malerischen Breg genießen Sie einen ruhigen Nachmittag, überqueren die historische Kandija-Brücke und finden Frieden im Franziskanerkloster. Der Abend lädt zu einem entspannten Ausklang an den Ufern des Flusses Krka ein, wo Sie die Schönheit der Stadt auf sich wirken lassen können.",
+        "hu": "Sétája Novo Mestóban a pezsgő Fő téren kezdődik, amely tökéletes hely a város egyedi építészetének megcsodálására. A délelőtt folyamán fedezze fel a város vallási szívét a fenséges Székesegyházban, mielőtt a Dolenjska Múzeumban elmerülne a vaskori múltban. Egy festői Breg-parti ebéd után töltsön el egy csendes délutánt a történelmi Kandija-hídon átkelve és a Ferences kolostorban békére lelve. Az este a Krka folyó partján való pihenésre csábít, ahol magába szívhatja a város szépségét.",
+        "ro": "Plimbarea dvs. prin Novo Mesto începe în vibranta Piață Principală, un loc perfect pentru a admira arhitectura unică a orașului. În cursul dimineții, explorați inima religioasă a orașului la majestuoasa Biserică Capitulară, înainte de a vă cufunda în trecutul din Epoca Fierului la Muzeul Dolenjska. După un prânz pe pitorescul Breg, bucurați-vă de o după-amiază liniștită traversând podul istoric Kandija și găsind pacea la Mănăstirea Franciscană. Seara vă invită să vă relaxați pe malurile râului Krka, absorbind frumusețea orașului.",
+        "en": "Your walking tour of Novo Mesto begins in the vibrant Main Square, a perfect spot to admire the city's unique architecture. In the morning, explore the city's religious heart at the majestic Chapter Church before diving deep into the Iron Age past at the Dolenjska Museum. After lunch on the picturesque Breg, enjoy a quiet afternoon crossing the historic Kandija Bridge and finding peace at the Franciscan Monastery. The evening invites you to relax by the banks of the Krka River, soaking in the city's beauty."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gebratener Matevž",
+            "tip": "Ein traditionelles Gericht aus Bohnen und Kartoffeln, oft mit Wurst oder Sauerkraut serviert."
+          },
+          {
+            "name": "Dolenjski štruklji",
+            "tip": "Gekochte oder gebackene Teigrollen mit verschiedenen Füllungen, typischerweise Hüttenkäse."
+          },
+          {
+            "name": "Cviček Wein",
+            "tip": "Der lokale, leicht säuerliche Rot- und Weißwein-Verschnitt. Ein Muss für Weinliebhaber."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sült Matevž",
+            "tip": "Hagyományos bab- és burgonyaétel, gyakran kolbásszal vagy savanyú káposztával tálalva."
+          },
+          {
+            "name": "Dolenjskai štruklji",
+            "tip": "Főtt vagy sült tészta tekercs, különféle töltelékekkel, leggyakrabban túróval."
+          },
+          {
+            "name": "Cviček bor",
+            "tip": "A helyi, enyhén savanykás vörös- és fehérbor házasítás. Kötelező a borkedvelőknek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Matevž prăjit",
+            "tip": "Un fel de mâncare tradițional din fasole și cartofi, adesea servit cu cârnați sau varză murată."
+          },
+          {
+            "name": "Dolenjski štruklji",
+            "tip": "Rulouri de aluat fierte sau coapte, cu diverse umpluturi, de obicei brânză de vaci."
+          },
+          {
+            "name": "Vin Cviček",
+            "tip": "Amestecul local de vin roșu și alb, ușor acidulat. O necesitate pentru iubitorii de vin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fried Matevž",
+            "tip": "A traditional dish of beans and potatoes, often served with sausage or sauerkraut."
+          },
+          {
+            "name": "Dolenjski štruklji",
+            "tip": "Boiled or baked dough rolls with various fillings, typically cottage cheese."
+          },
+          {
+            "name": "Cviček Wine",
+            "tip": "The local, slightly acidic red and white wine blend. A must-try for wine enthusiasts."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Flussufer der Krka",
+            "tip": "Finden Sie eine Bank am Ufer, besonders in der Nähe von Breg, um die Schwäne zu beobachten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Klostergarten",
+            "tip": "Der Innenhof des Franziskanerklosters ist eine Oase der Ruhe mitten in der Stadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick von der Kapitelkirche",
+            "tip": "Der Hügel der Kirche bietet eine friedliche Aussicht über die Dächer der Altstadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Krka folyópart",
+            "tip": "Keressen egy padot a parton, különösen a Breg közelében, és figyelje a hattyúkat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kolostorkert",
+            "tip": "A Ferences kolostor udvara a nyugalom szigete a város közepén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Székesegyháztól",
+            "tip": "A templom dombjáról békés kilátás nyílik az óváros tetőire.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Krka",
+            "tip": "Găsiți o bancă pe mal, în special lângă Breg, pentru a privi lebedele.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina mănăstirii",
+            "tip": "Curtea Mănăstirii Franciscane este o oază de liniște în mijlocul orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de la Biserica Capitulară",
+            "tip": "Dealul bisericii oferă o priveliște pașnică peste acoperișurile orașului vechi.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Krka Riverbank",
+            "tip": "Find a bench along the bank, especially near Breg, to watch the swans.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Monastery Garden",
+            "tip": "The courtyard of the Franciscan Monastery is an oasis of calm in the middle of the city.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the Chapter Church",
+            "tip": "The church hill offers a peaceful vista over the old town roofs.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte, Honig und Käse auf dem zentralen Markt in der Nähe des Hauptplatzes."
+          },
+          {
+            "name": "Dolenjska-Museumsshop",
+            "tip": "Finden Sie einzigartige Souvenirs, einschließlich Nachbildungen der Situlen-Kunst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket, mézet és sajtot a Fő tér közelében lévő központi piacon."
+          },
+          {
+            "name": "Dolenjska Múzeum boltja",
+            "tip": "Találjon egyedi szuveníreket, többek között a szitula-művészet másolatait."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse proaspete, miere și brânză de la piața centrală de lângă Piața Principală."
+          },
+          {
+            "name": "Magazinul Muzeului Dolenjska",
+            "tip": "Găsiți suveniruri unice, inclusiv replici ale artei situla."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for fresh produce, honey, and cheese at the central market near the Main Square."
+          },
+          {
+            "name": "Dolenjska Museum Shop",
+            "tip": "Find unique souvenirs, including replicas of the situla art."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Hauptattraktionen befinden sich in der Flussschleife der Krka und sind leicht zu Fuß erreichbar.",
+          "Nehmen Sie sich Zeit für einen Spaziergang entlang des Flusses, um die Stadt aus einer anderen Perspektive zu sehen.",
+          "Prüfen Sie die Öffnungszeiten des Museums und der Kirche im Voraus, da diese variieren können."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óvárosi macskakövek egyenetlenek lehetnek.",
+          "A legtöbb fő látnivaló a Krka folyó kanyarulatában található, és könnyen megközelíthető gyalog.",
+          "Szánjon időt egy sétára a folyó mentén, hogy más szemszögből is láthassa a várost.",
+          "Előre ellenőrizze a múzeum és a templomok nyitvatartási idejét, mivel az változhat."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavelele din orașul vechi pot fi denivelate.",
+          "Majoritatea atracțiilor principale sunt situate în bucla râului Krka, fiind ușor accesibile pe jos.",
+          "Luați-vă timp pentru o plimbare de-a lungul râului pentru a vedea orașul dintr-o perspectivă diferită.",
+          "Verificați în avans orele de deschidere ale muzeului și bisericilor, deoarece acestea pot varia."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Most main attractions are located within the bend of the Krka river, making them easily accessible on foot.",
+          "Take your time for a stroll along the river to see the city from a different perspective.",
+          "Check museum and church opening times in advance as they can vary."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptplatz (Glavni trg)",
+            "hu": "Fő tér (Glavni trg)",
+            "ro": "Piața Principală (Glavni trg)",
+            "en": "Main Square (Glavni trg)"
+          },
+          "coords": [
+            15.1668,
+            45.8045
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und genießen Sie einen Kaffee in einem der Cafés am Platz.",
+            "hu": "Parkolja le a biciklit, és élvezzen egy kávét a tér egyik kávézójában.",
+            "ro": "Parcați bicicleta și bucurați-vă de o cafea la una dintre cafenelele din piață.",
+            "en": "Park your bike and enjoy a coffee at one of the square's cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Kandija-Brücke",
+            "hu": "Kandija-híd",
+            "ro": "Podul Kandija",
+            "en": "Kandija Bridge"
+          },
+          "coords": [
+            15.1632,
+            45.8021
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:36",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine schnelle Fahrt über die Brücke bietet eine großartige Aussicht, aber seien Sie vorsichtig mit Fußgängern.",
+            "hu": "Egy gyors tekerés a hídon remek kilátást nyújt, de legyen óvatos a gyalogosokkal.",
+            "ro": "O plimbare rapidă peste pod oferă o priveliște minunată, dar aveți grijă la pietoni.",
+            "en": "A quick ride over the bridge offers a great view, but be careful with pedestrians."
+          }
+        },
+        {
+          "name": {
+            "de": "Franziskanerkloster",
+            "hu": "Ferences kolostor",
+            "ro": "Mănăstirea Franciscană",
+            "en": "Franciscan Monastery"
+          },
+          "coords": [
+            15.162,
+            45.804
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein friedlicher Halt. Schließen Sie Ihr Fahrrad draußen an und genießen Sie die Stille im Inneren.",
+            "hu": "Egy békés megálló. Zárja le a kerékpárt kint, és élvezze a benti csendet.",
+            "ro": "O oprire pașnică. Legați-vă bicicleta afară și bucurați-vă de liniștea din interior.",
+            "en": "A peaceful stop. Lock your bike outside and enjoy the silence within."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolenjska-Museum",
+            "hu": "Dolenjska Múzeum",
+            "ro": "Muzeul Dolenjska",
+            "en": "Dolenjska Museum"
+          },
+          "coords": [
+            15.165,
+            45.8035
+          ],
+          "category": "museums",
+          "arrive_at": "10:39",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich genügend Zeit, um die reiche Geschichte der Region zu erkunden, die in diesem Museum ausgestellt ist.",
+            "hu": "Szánjon elég időt a régió gazdag történelmének felfedezésére ebben a múzeumban.",
+            "ro": "Acordați-vă suficient timp pentru a explora istoria bogată a regiunii expusă în acest muzeu.",
+            "en": "Allow plenty of time to explore the rich history of the region displayed in this museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapitelkirche St. Nikolaus",
+            "hu": "Szent Miklós-székesegyház",
+            "ro": "Biserica capitulară Sf. Nicolae",
+            "en": "Chapter Church of St. Nicholas"
+          },
+          "coords": [
+            15.1685,
+            45.8052
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Aufstieg zum Hügel ist die Mühe wert für die Aussicht und die beeindruckende Architektur.",
+            "hu": "Megéri a fáradságot feltekerni a dombra a kilátásért és a lenyűgöző építészetért.",
+            "ro": "Urcarea dealului merită efortul pentru priveliște și arhitectura impresionantă.",
+            "en": "The climb up the hill is worth the effort for the views and the impressive architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Breg & Mittagessen",
+            "hu": "Breg & Ebéd",
+            "ro": "Breg & Prânz",
+            "en": "Breg & Lunch"
+          },
+          "coords": [
+            15.169,
+            45.8038
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Suchen Sie sich ein Restaurant mit Blick auf den Fluss für eine entspannte Mittagspause.",
+            "hu": "Keressen egy folyóra néző éttermet egy pihentető ebédhez.",
+            "ro": "Găsiți un restaurant cu vedere la râu pentru o pauză de prânz relaxantă.",
+            "en": "Find a restaurant with a river view for a relaxing lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Grm",
+            "hu": "Grm-kastély",
+            "ro": "Castelul Grm",
+            "en": "Grm Castle"
+          },
+          "coords": [
+            15.156,
+            45.808
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die längere Fahrt aus der Stadt heraus lohnt sich, um dieses historische Schloss und seine Umgebung zu erkunden.",
+            "hu": "Megéri a hosszabb utat a városból, hogy felfedezze ezt a történelmi kastélyt és környékét.",
+            "ro": "Merită călătoria mai lungă în afara orașului pentru a explora acest castel istoric și împrejurimile sale.",
+            "en": "It's worth the longer ride out of town to explore this historic castle and its grounds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt im Herzen von Novo Mesto, dem Hauptplatz. Von dort aus überqueren Sie die berühmte Kandija-Brücke und besuchen das ruhige Franziskanerkloster. Am Vormittag tauchen Sie im Dolenjska-Museum in die Geschichte ein und erklimmen den Hügel zur Kapitelkirche. Nach dem Mittagessen am Flussufer von Breg unternehmen Sie am Nachmittag eine längere Fahrt zum Schloss Grm. Der Tag endet mit einer gemütlichen Rückfahrt in die Stadt, erfüllt von den Eindrücken der Kultur und Natur der Dolenjska-Region.",
+        "hu": "Kerékpártúrája Novo Mesto szívében, a Fő téren kezdődik. Innen átteker a híres Kandija-hídon a békés Ferences kolostorhoz. A délelőtt a történelemé a Dolenjska Múzeumban, majd megmássza a Székesegyház dombját. A Breg folyóparton elköltött ebéd után délután egy hosszabb túra vár a Grm-kastélyhoz. A nap egy kellemes visszaúttal zárul a városba, tele a Dolenjska régió kulturális és természeti élményeivel.",
+        "ro": "Turul pe bicicletă începe în inima orașului Novo Mesto, Piața Principală. De acolo, veți traversa faimosul pod Kandija spre liniștita Mănăstire Franciscană. Dimineața este dedicată istoriei la Muzeul Dolenjska și urcării dealului spre Biserica Capitulară. După prânzul pe malul râului Breg, după-amiaza vă rezervă o plimbare mai lungă până la Castelul Grm. Ziua se încheie cu o plimbare relaxantă înapoi în oraș, plină de impresiile culturale și naturale ale regiunii Dolenjska.",
+        "en": "Your bike tour starts in the heart of Novo Mesto, the Main Square. From there, you'll cross the famous Kandija Bridge towards the peaceful Franciscan Monastery. The morning is for history at the Dolenjska Museum and climbing the hill to the Chapter Church. After lunch by the Breg riverside, the afternoon takes you on a longer ride to Grm Castle. The day concludes with a pleasant ride back into the city, filled with the cultural and natural impressions of the Dolenjska region."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gebratener Matevž",
+            "tip": "Ein traditionelles Gericht aus Bohnen und Kartoffeln, oft mit Wurst oder Sauerkraut serviert."
+          },
+          {
+            "name": "Dolenjski štruklji",
+            "tip": "Gekochte oder gebackene Teigrollen mit verschiedenen Füllungen, typischerweise Hüttenkäse."
+          },
+          {
+            "name": "Cviček Wein",
+            "tip": "Der lokale, leicht säuerliche Rot- und Weißwein-Verschnitt. Ein Muss für Weinliebhaber."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sült Matevž",
+            "tip": "Hagyományos bab- és burgonyaétel, gyakran kolbásszal vagy savanyú káposztával tálalva."
+          },
+          {
+            "name": "Dolenjskai štruklji",
+            "tip": "Főtt vagy sült tészta tekercs, különféle töltelékekkel, leggyakrabban túróval."
+          },
+          {
+            "name": "Cviček bor",
+            "tip": "A helyi, enyhén savanykás vörös- és fehérbor házasítás. Kötelező a borkedvelőknek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Matevž prăjit",
+            "tip": "Un fel de mâncare tradițional din fasole și cartofi, adesea servit cu cârnați sau varză murată."
+          },
+          {
+            "name": "Dolenjski štruklji",
+            "tip": "Rulouri de aluat fierte sau coapte, cu diverse umpluturi, de obicei brânză de vaci."
+          },
+          {
+            "name": "Vin Cviček",
+            "tip": "Amestecul local de vin roșu și alb, ușor acidulat. O necesitate pentru iubitorii de vin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fried Matevž",
+            "tip": "A traditional dish of beans and potatoes, often served with sausage or sauerkraut."
+          },
+          {
+            "name": "Dolenjski štruklji",
+            "tip": "Boiled or baked dough rolls with various fillings, typically cottage cheese."
+          },
+          {
+            "name": "Cviček Wine",
+            "tip": "The local, slightly acidic red and white wine blend. A must-try for wine enthusiasts."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Flussufer der Krka",
+            "tip": "Finden Sie eine Bank am Ufer, besonders in der Nähe von Breg, um die Schwäne zu beobachten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Klostergarten",
+            "tip": "Der Innenhof des Franziskanerklosters ist eine Oase der Ruhe mitten in der Stadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick von der Kapitelkirche",
+            "tip": "Der Hügel der Kirche bietet eine friedliche Aussicht über die Dächer der Altstadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Krka folyópart",
+            "tip": "Keressen egy padot a parton, különösen a Breg közelében, és figyelje a hattyúkat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kolostorkert",
+            "tip": "A Ferences kolostor udvara a nyugalom szigete a város közepén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Székesegyháztól",
+            "tip": "A templom dombjáról békés kilátás nyílik az óváros tetőire.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Krka",
+            "tip": "Găsiți o bancă pe mal, în special lângă Breg, pentru a privi lebedele.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina mănăstirii",
+            "tip": "Curtea Mănăstirii Franciscane este o oază de liniște în mijlocul orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de la Biserica Capitulară",
+            "tip": "Dealul bisericii oferă o priveliște pașnică peste acoperișurile orașului vechi.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Krka Riverbank",
+            "tip": "Find a bench along the bank, especially near Breg, to watch the swans.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Monastery Garden",
+            "tip": "The courtyard of the Franciscan Monastery is an oasis of calm in the middle of the city.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the Chapter Church",
+            "tip": "The church hill offers a peaceful vista over the old town roofs.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte, Honig und Käse auf dem zentralen Markt in der Nähe des Hauptplatzes."
+          },
+          {
+            "name": "Dolenjska-Museumsshop",
+            "tip": "Finden Sie einzigartige Souvenirs, einschließlich Nachbildungen der Situlen-Kunst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket, mézet és sajtot a Fő tér közelében lévő központi piacon."
+          },
+          {
+            "name": "Dolenjska Múzeum boltja",
+            "tip": "Találjon egyedi szuveníreket, többek között a szitula-művészet másolatait."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse proaspete, miere și brânză de la piața centrală de lângă Piața Principală."
+          },
+          {
+            "name": "Magazinul Muzeului Dolenjska",
+            "tip": "Găsiți suveniruri unice, inclusiv replici ale artei situla."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for fresh produce, honey, and cheese at the central market near the Main Square."
+          },
+          {
+            "name": "Dolenjska Museum Shop",
+            "tip": "Find unique souvenirs, including replicas of the situla art."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck und die Bremsen vor der Abfahrt.",
+          "Einige Straßen in der Altstadt sind eng, seien Sie also aufmerksam.",
+          "Es gibt mehrere Radwege entlang des Flusses Krka, die eine malerische und sichere Fahrt ermöglichen.",
+          "Schließen Sie Ihr Fahrrad immer an, wenn Sie es unbeaufsichtigt lassen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást és a fékeket.",
+          "Az óváros egyes utcái szűkek, ezért legyen figyelmes.",
+          "A Krka folyó mentén több kerékpárút is található, amelyek festői és biztonságos utazást tesznek lehetővé.",
+          "Mindig zárja le a kerékpárt, ha felügyelet nélkül hagyja."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope și frânele înainte de a porni.",
+          "Unele străzi din orașul vechi sunt înguste, așa că fiți atenți.",
+          "Există mai multe piste de biciclete de-a lungul râului Krka, care oferă o plimbare pitorească și sigură.",
+          "Legați-vă întotdeauna bicicleta atunci când o lăsați nesupravegheată."
+        ],
+        "en": [
+          "Check your tire pressure and brakes before setting off.",
+          "Some streets in the old town are narrow, so be mindful.",
+          "There are several bike paths along the Krka river, providing a scenic and safe ride.",
+          "Always lock your bike when leaving it unattended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Altstadtkern",
+            "hu": "1. klaszter: Óváros központja",
+            "ro": "Cluster 1: Centrul vechi",
+            "en": "Cluster 1: Old Town Core"
+          },
+          "coords": [
+            15.1668,
+            45.8045
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto in einem der Parkhäuser am Rande der Altstadt und beginnen Sie Ihren Rundgang.",
+            "hu": "Parkolja le az autót az óváros szélén található parkolóházak egyikében, és kezdje meg a sétát.",
+            "ro": "Parcați mașina într-una dintre parcările de la marginea orașului vechi și începeți turul pietonal.",
+            "en": "Park your car in one of the garages on the edge of the old town and start your walking tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Hauptplatz",
+            "hu": "Városháza és Fő tér",
+            "ro": "Primăria și Piața Principală",
+            "en": "Town Hall & Main Square"
+          },
+          "coords": [
+            15.1665,
+            45.8042
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den Platz zu Fuß; die wichtigsten Sehenswürdigkeiten sind nur wenige Schritte entfernt.",
+            "hu": "Fedezze fel a teret gyalog; a fő látnivalók csak néhány lépésre vannak.",
+            "ro": "Explorați piața pe jos; principalele atracții sunt la doar câțiva pași distanță.",
+            "en": "Explore the square on foot; the main sights are just steps away."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapitelkirche St. Nikolaus",
+            "hu": "Szent Miklós-székesegyház",
+            "ro": "Biserica capitulară Sf. Nicolae",
+            "en": "Chapter Church of St. Nicholas"
+          },
+          "coords": [
+            15.1685,
+            45.8052
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang den Hügel hinauf von der Hauptplatzgegend aus.",
+            "hu": "Egy rövid séta a dombra a Fő tér környékéről.",
+            "ro": "O scurtă plimbare pe deal din zona Pieței Principale.",
+            "en": "A short walk up the hill from the Main Square area."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolenjska-Museum & Mittagessen",
+            "hu": "Dolenjska Múzeum és ebéd",
+            "ro": "Muzeul Dolenjska și prânzul",
+            "en": "Dolenjska Museum & Lunch"
+          },
+          "coords": [
+            15.165,
+            45.8035
+          ],
+          "category": "museums",
+          "arrive_at": "11:05",
+          "stay_min": 150,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Museumsbesuch mit einem Mittagessen in einem der nahegelegenen Restaurants am Breg.",
+            "hu": "Kombinálja a múzeumlátogatást egy ebéddel a közeli Breg egyik éttermében.",
+            "ro": "Combinați vizita la muzeu cu prânzul la unul dintre restaurantele din apropiere, pe Breg.",
+            "en": "Combine the museum visit with lunch at one of the nearby restaurants on Breg."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Schloss Grm",
+            "hu": "2. klaszter: Grm-kastély",
+            "ro": "Cluster 2: Castelul Grm",
+            "en": "Cluster 2: Grm Castle"
+          },
+          "coords": [
+            15.156,
+            45.808
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Schloss, parken Sie dort und erkunden Sie das Gelände und die Umgebung zu Fuß.",
+            "hu": "Vezessen a kastélyhoz, parkoljon le, és fedezze fel a területet gyalog.",
+            "ro": "Conduceți la castel, parcați și explorați terenul și zona înconjurătoare pe jos.",
+            "en": "Drive to the castle, park there, and explore the grounds and surrounding area on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kandija-Brücke & Flussufer",
+            "hu": "Kandija-híd és folyópart",
+            "ro": "Podul Kandija și malul râului",
+            "en": "Kandija Bridge & Riverbank"
+          },
+          "coords": [
+            15.1632,
+            45.8021
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Machen Sie nach der Rückkehr vom Schloss einen entspannten Spaziergang entlang des Flusses und über die Brücke.",
+            "hu": "Miután visszatért a kastélyból, tegyen egy pihentető sétát a folyó mentén és a hídon át.",
+            "ro": "După întoarcerea de la castel, faceți o plimbare relaxantă de-a lungul râului și peste pod.",
+            "en": "After returning from the castle, take a relaxing walk along the river and across the bridge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Novo Mesto konzentriert sich auf Effizienz und Komfort. Parken Sie morgens in der Nähe des Zentrums und erkunden Sie den ersten Cluster – den Hauptplatz, das Rathaus und die majestätische Kapitelkirche – zu Fuß. Nach einem tiefen Einblick in die Geschichte im Dolenjska-Museum und einem Mittagessen am Flussufer kehren Sie zu Ihrem Auto zurück. Am Nachmittag fahren Sie zum zweiten Cluster, dem Schloss Grm, um seine historische Pracht zu entdecken. Der Tag endet mit einem Spaziergang entlang der Krka und über die Kandija-Brücke, der die städtische Erkundung mit einem Hauch von Natur verbindet.",
+        "hu": "Autós napja Novo Mestóban a hatékonyságra és kényelemre összpontosít. Reggel parkoljon a központ közelében, és fedezze fel gyalog az első klasztert – a Fő teret, a Városházát és a fenséges Székesegyházat. Miután a Dolenjska Múzeumban elmerült a történelemben és megebédelt a folyóparton, térjen vissza az autójához. Délután a második klaszterhez, a Grm-kastélyhoz hajt, hogy felfedezze történelmi pompáját. A nap egy sétával zárul a Krka mentén és a Kandija-hídon át, összekötve a városi felfedezést egy csipetnyi természettel.",
+        "ro": "Ziua dvs. cu mașina în Novo Mesto se concentrează pe eficiență și confort. Parcați lângă centru dimineața și explorați primul cluster pe jos – Piața Principală, Primăria și majestuoasa Biserică Capitulară. După o incursiune în istorie la Muzeul Dolenjska și prânzul pe malul râului, vă întoarceți la mașină. După-amiaza vă duce la al doilea cluster, Castelul Grm, pentru a-i descoperi splendoarea istorică. Ziua se încheie cu o plimbare de-a lungul râului Krka și peste podul Kandija, combinând explorarea urbană cu o notă de natură.",
+        "en": "Your car day in Novo Mesto focuses on efficiency and comfort. Park near the center in the morning and explore the first cluster—the Main Square, Town Hall, and the majestic Chapter Church—on foot. After a deep dive into history at the Dolenjska Museum and lunch by the river, return to your car. The afternoon takes you to the second cluster, Grm Castle, to discover its historic splendor. The day concludes with a walk along the Krka River and across Kandija Bridge, blending urban exploration with a touch of nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gebratener Matevž",
+            "tip": "Ein traditionelles Gericht aus Bohnen und Kartoffeln, oft mit Wurst oder Sauerkraut serviert."
+          },
+          {
+            "name": "Dolenjski štruklji",
+            "tip": "Gekochte oder gebackene Teigrollen mit verschiedenen Füllungen, typischerweise Hüttenkäse."
+          },
+          {
+            "name": "Cviček Wein",
+            "tip": "Der lokale, leicht säuerliche Rot- und Weißwein-Verschnitt. Ein Muss für Weinliebhaber."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sült Matevž",
+            "tip": "Hagyományos bab- és burgonyaétel, gyakran kolbásszal vagy savanyú káposztával tálalva."
+          },
+          {
+            "name": "Dolenjskai štruklji",
+            "tip": "Főtt vagy sült tészta tekercs, különféle töltelékekkel, leggyakrabban túróval."
+          },
+          {
+            "name": "Cviček bor",
+            "tip": "A helyi, enyhén savanykás vörös- és fehérbor házasítás. Kötelező a borkedvelőknek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Matevž prăjit",
+            "tip": "Un fel de mâncare tradițional din fasole și cartofi, adesea servit cu cârnați sau varză murată."
+          },
+          {
+            "name": "Dolenjski štruklji",
+            "tip": "Rulouri de aluat fierte sau coapte, cu diverse umpluturi, de obicei brânză de vaci."
+          },
+          {
+            "name": "Vin Cviček",
+            "tip": "Amestecul local de vin roșu și alb, ușor acidulat. O necesitate pentru iubitorii de vin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fried Matevž",
+            "tip": "A traditional dish of beans and potatoes, often served with sausage or sauerkraut."
+          },
+          {
+            "name": "Dolenjski štruklji",
+            "tip": "Boiled or baked dough rolls with various fillings, typically cottage cheese."
+          },
+          {
+            "name": "Cviček Wine",
+            "tip": "The local, slightly acidic red and white wine blend. A must-try for wine enthusiasts."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Flussufer der Krka",
+            "tip": "Finden Sie eine Bank am Ufer, besonders in der Nähe von Breg, um die Schwäne zu beobachten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Klostergarten",
+            "tip": "Der Innenhof des Franziskanerklosters ist eine Oase der Ruhe mitten in der Stadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick von der Kapitelkirche",
+            "tip": "Der Hügel der Kirche bietet eine friedliche Aussicht über die Dächer der Altstadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Krka folyópart",
+            "tip": "Keressen egy padot a parton, különösen a Breg közelében, és figyelje a hattyúkat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kolostorkert",
+            "tip": "A Ferences kolostor udvara a nyugalom szigete a város közepén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Székesegyháztól",
+            "tip": "A templom dombjáról békés kilátás nyílik az óváros tetőire.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Krka",
+            "tip": "Găsiți o bancă pe mal, în special lângă Breg, pentru a privi lebedele.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina mănăstirii",
+            "tip": "Curtea Mănăstirii Franciscane este o oază de liniște în mijlocul orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de la Biserica Capitulară",
+            "tip": "Dealul bisericii oferă o priveliște pașnică peste acoperișurile orașului vechi.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Krka Riverbank",
+            "tip": "Find a bench along the bank, especially near Breg, to watch the swans.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Monastery Garden",
+            "tip": "The courtyard of the Franciscan Monastery is an oasis of calm in the middle of the city.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the Chapter Church",
+            "tip": "The church hill offers a peaceful vista over the old town roofs.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte, Honig und Käse auf dem zentralen Markt in der Nähe des Hauptplatzes."
+          },
+          {
+            "name": "Dolenjska-Museumsshop",
+            "tip": "Finden Sie einzigartige Souvenirs, einschließlich Nachbildungen der Situlen-Kunst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket, mézet és sajtot a Fő tér közelében lévő központi piacon."
+          },
+          {
+            "name": "Dolenjska Múzeum boltja",
+            "tip": "Találjon egyedi szuveníreket, többek között a szitula-művészet másolatait."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse proaspete, miere și brânză de la piața centrală de lângă Piața Principală."
+          },
+          {
+            "name": "Magazinul Muzeului Dolenjska",
+            "tip": "Găsiți suveniruri unice, inclusiv replici ale artei situla."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for fresh produce, honey, and cheese at the central market near the Main Square."
+          },
+          {
+            "name": "Dolenjska Museum Shop",
+            "tip": "Find unique souvenirs, including replicas of the situla art."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Parkhäuser am Rande des Zentrums für den besten Zugang.",
+          "Die Fahrzeiten zwischen den Clustern sind kurz, so dass Sie mehr Zeit für die Besichtigung haben.",
+          "Achten Sie auf Parkbeschränkungen und -gebühren, besonders in der Nähe der Altstadt.",
+          "Planen Sie Ihre Route im Voraus, um das Fahren in den engen Gassen der Innenstadt zu vermeiden."
+        ],
+        "hu": [
+          "Használja a központ szélén lévő parkolóházakat a legjobb megközelítés érdekében.",
+          "A klaszterek közötti utazási idők rövidek, így több idő jut a nézelődésre.",
+          "Figyeljen a parkolási korlátozásokra és díjakra, különösen az óváros közelében.",
+          "Tervezze meg előre az útvonalat, hogy elkerülje a belváros szűk utcáin való vezetést."
+        ],
+        "ro": [
+          "Utilizați parcările de la marginea centrului pentru cel mai bun acces.",
+          "Timpii de condus între clustere sunt scurți, lăsând mai mult timp pentru vizitare.",
+          "Fiți atenți la restricțiile de parcare și la taxe, în special în apropierea orașului vechi.",
+          "Planificați-vă traseul în avans pentru a evita conducerea pe străzile înguste din centrul orașului."
+        ],
+        "en": [
+          "Use the parking garages on the edge of the center for the best access.",
+          "Driving times between clusters are short, leaving more time for sightseeing.",
+          "Be mindful of parking restrictions and fees, especially near the old town.",
+          "Plan your route in advance to avoid driving in the narrow city center streets."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Hauptplatz & Umgebung",
+            "hu": "1. klaszter: Fő tér és környéke",
+            "ro": "Cluster 1: Piața Principală și împrejurimi",
+            "en": "Cluster 1: Main Square & Surroundings"
+          },
+          "coords": [
+            15.1668,
+            45.8045
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Starten Sie am zentralen Busbahnhof und gehen Sie zum Hauptplatz, dem Herzen des ersten Clusters.",
+            "hu": "Kezdje a központi buszpályaudvaron, és sétáljon a Fő térre, az első klaszter szívébe.",
+            "ro": "Începeți de la autogara centrală și mergeți pe jos până la Piața Principală, inima primului cluster.",
+            "en": "Start from the central bus station and walk to the Main Square, the heart of the first cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapitelkirche St. Nikolaus",
+            "hu": "Szent Miklós-székesegyház",
+            "ro": "Biserica capitulară Sf. Nicolae",
+            "en": "Chapter Church of St. Nicholas"
+          },
+          "coords": [
+            15.1685,
+            45.8052
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz, um die beeindruckende Architektur und die Aussicht zu genießen.",
+            "hu": "Rövid séta a Fő térről, hogy megcsodálhassa a lenyűgöző építészetet és a kilátást.",
+            "ro": "O scurtă plimbare de la Piața Principală pentru a vă bucura de arhitectura impresionantă și de priveliște.",
+            "en": "A short walk from the Main Square to enjoy the impressive architecture and views."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolenjska-Museum",
+            "hu": "Dolenjska Múzeum",
+            "ro": "Muzeul Dolenjska",
+            "en": "Dolenjska Museum"
+          },
+          "coords": [
+            15.165,
+            45.8035
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit für die faszinierenden archäologischen Sammlungen ein.",
+            "hu": "Szánjon elegendő időt a lenyűgöző régészeti gyűjteményekre.",
+            "ro": "Planificați suficient timp pentru colecțiile arheologice fascinante.",
+            "en": "Plan for enough time for the fascinating archaeological collections."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Breg",
+            "hu": "Ebéd a Bregen",
+            "ro": "Prânz la Breg",
+            "en": "Lunch at Breg"
+          },
+          "coords": [
+            15.169,
+            45.8038
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie eine Mahlzeit in einem der Restaurants am Flussufer.",
+            "hu": "Fogyasszon el egy ételt a folyóparti éttermek egyikében.",
+            "ro": "Bucurați-vă de o masă la unul dintre restaurantele de pe malul râului.",
+            "en": "Enjoy a meal at one of the riverside restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Franziskanerkloster",
+            "hu": "2. klaszter: Ferences kolostor",
+            "ro": "Cluster 2: Mănăstirea Franciscană",
+            "en": "Cluster 2: Franciscan Monastery"
+          },
+          "coords": [
+            15.162,
+            45.804
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus zur Kandija-Seite des Flusses. Das Kloster ist von der Haltestelle aus leicht zu Fuß erreichbar.",
+            "hu": "Vegyen egy helyi buszt a folyó Kandija oldalára. A kolostor könnyen megközelíthető a megállótól.",
+            "ro": "Luați un autobuz local spre partea Kandija a râului. Mănăstirea este la o scurtă plimbare de stație.",
+            "en": "Take a local bus to the Kandija side of the river. The monastery is a short walk from the stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Kandija-Brücke",
+            "hu": "Kandija-híd",
+            "ro": "Podul Kandija",
+            "en": "Kandija Bridge"
+          },
+          "coords": [
+            15.1632,
+            45.8021
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie nach dem Besuch des Klosters über die Brücke zurück in die Altstadt und genießen Sie die Aussicht.",
+            "hu": "A kolostor meglátogatása után sétáljon vissza a hídon át az óvárosba, és élvezze a kilátást.",
+            "ro": "După vizitarea mănăstirii, traversați podul înapoi în orașul vechi, bucurându-vă de priveliște.",
+            "en": "After visiting the monastery, walk back across the bridge into the old town, enjoying the views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Entdeckungstour mit öffentlichen Verkehrsmitteln beginnt im Herzen der Altstadt von Novo Mesto, die Sie nach einem kurzen Spaziergang vom Busbahnhof aus erreichen. Am Vormittag erkunden Sie die historischen und religiösen Stätten dieses Clusters, darunter die Kapitelkirche und das Dolenjska-Museum. Nach einem Mittagessen am Flussufer nehmen Sie am Nachmittag einen Bus, um den Fluss zu überqueren und den zweiten Cluster, das Franziskanerkloster, zu besuchen. Der Tag endet mit einem malerischen Spaziergang über die Kandija-Brücke zurück ins Zentrum, der die Effizienz des Nahverkehrs mit der Freude am Spazierengehen verbindet.",
+        "hu": "Tömegközlekedési felfedezőútja Novo Mesto óvárosának szívében kezdődik, melyet a buszpályaudvartól rövid sétával érhet el. Délelőtt felfedezi a klaszter történelmi és vallási helyszíneit, köztük a Székesegyházat és a Dolenjska Múzeumot. Egy folyóparti ebéd után délután busszal kel át a folyón a második klaszter, a Ferences kolostor meglátogatásához. A nap a Kandija-hídon át tett festői sétával zárul vissza a központba, ötvözve a tömegközlekedés hatékonyságát a séta örömével.",
+        "ro": "Explorarea cu transportul public începe în inima orașului vechi Novo Mesto, accesibil printr-o scurtă plimbare de la autogară. Dimineața explorați siturile istorice și religioase din acest cluster, inclusiv Biserica Capitulară și Muzeul Dolenjska. După prânzul pe malul râului, după-amiaza luați un autobuz pentru a traversa râul și a vizita al doilea cluster, Mănăstirea Franciscană. Ziua se încheie cu o plimbare pitorească peste podul Kandija înapoi în centru, combinând eficiența transportului public cu bucuria plimbării.",
+        "en": "Your public transport exploration starts in the heart of Novo Mesto's old town, reached by a short walk from the bus station. The morning is spent exploring this cluster's historical and religious sites, including the Chapter Church and Dolenjska Museum. After a riverside lunch, the afternoon involves taking a bus to cross the river and visit the second cluster, the Franciscan Monastery. The day concludes with a scenic walk across the Kandija Bridge back to the center, blending transit efficiency with the joy of walking."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gebratener Matevž",
+            "tip": "Ein traditionelles Gericht aus Bohnen und Kartoffeln, oft mit Wurst oder Sauerkraut serviert."
+          },
+          {
+            "name": "Dolenjski štruklji",
+            "tip": "Gekochte oder gebackene Teigrollen mit verschiedenen Füllungen, typischerweise Hüttenkäse."
+          },
+          {
+            "name": "Cviček Wein",
+            "tip": "Der lokale, leicht säuerliche Rot- und Weißwein-Verschnitt. Ein Muss für Weinliebhaber."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sült Matevž",
+            "tip": "Hagyományos bab- és burgonyaétel, gyakran kolbásszal vagy savanyú káposztával tálalva."
+          },
+          {
+            "name": "Dolenjskai štruklji",
+            "tip": "Főtt vagy sült tészta tekercs, különféle töltelékekkel, leggyakrabban túróval."
+          },
+          {
+            "name": "Cviček bor",
+            "tip": "A helyi, enyhén savanykás vörös- és fehérbor házasítás. Kötelező a borkedvelőknek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Matevž prăjit",
+            "tip": "Un fel de mâncare tradițional din fasole și cartofi, adesea servit cu cârnați sau varză murată."
+          },
+          {
+            "name": "Dolenjski štruklji",
+            "tip": "Rulouri de aluat fierte sau coapte, cu diverse umpluturi, de obicei brânză de vaci."
+          },
+          {
+            "name": "Vin Cviček",
+            "tip": "Amestecul local de vin roșu și alb, ușor acidulat. O necesitate pentru iubitorii de vin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fried Matevž",
+            "tip": "A traditional dish of beans and potatoes, often served with sausage or sauerkraut."
+          },
+          {
+            "name": "Dolenjski štruklji",
+            "tip": "Boiled or baked dough rolls with various fillings, typically cottage cheese."
+          },
+          {
+            "name": "Cviček Wine",
+            "tip": "The local, slightly acidic red and white wine blend. A must-try for wine enthusiasts."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Flussufer der Krka",
+            "tip": "Finden Sie eine Bank am Ufer, besonders in der Nähe von Breg, um die Schwäne zu beobachten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Klostergarten",
+            "tip": "Der Innenhof des Franziskanerklosters ist eine Oase der Ruhe mitten in der Stadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick von der Kapitelkirche",
+            "tip": "Der Hügel der Kirche bietet eine friedliche Aussicht über die Dächer der Altstadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Krka folyópart",
+            "tip": "Keressen egy padot a parton, különösen a Breg közelében, és figyelje a hattyúkat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kolostorkert",
+            "tip": "A Ferences kolostor udvara a nyugalom szigete a város közepén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Székesegyháztól",
+            "tip": "A templom dombjáról békés kilátás nyílik az óváros tetőire.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Krka",
+            "tip": "Găsiți o bancă pe mal, în special lângă Breg, pentru a privi lebedele.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina mănăstirii",
+            "tip": "Curtea Mănăstirii Franciscane este o oază de liniște în mijlocul orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de la Biserica Capitulară",
+            "tip": "Dealul bisericii oferă o priveliște pașnică peste acoperișurile orașului vechi.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Krka Riverbank",
+            "tip": "Find a bench along the bank, especially near Breg, to watch the swans.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Monastery Garden",
+            "tip": "The courtyard of the Franciscan Monastery is an oasis of calm in the middle of the city.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the Chapter Church",
+            "tip": "The church hill offers a peaceful vista over the old town roofs.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte, Honig und Käse auf dem zentralen Markt in der Nähe des Hauptplatzes."
+          },
+          {
+            "name": "Dolenjska-Museumsshop",
+            "tip": "Finden Sie einzigartige Souvenirs, einschließlich Nachbildungen der Situlen-Kunst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket, mézet és sajtot a Fő tér közelében lévő központi piacon."
+          },
+          {
+            "name": "Dolenjska Múzeum boltja",
+            "tip": "Találjon egyedi szuveníreket, többek között a szitula-művészet másolatait."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse proaspete, miere și brânză de la piața centrală de lângă Piața Principală."
+          },
+          {
+            "name": "Magazinul Muzeului Dolenjska",
+            "tip": "Găsiți suveniruri unice, inclusiv replici ale artei situla."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for fresh produce, honey, and cheese at the central market near the Main Square."
+          },
+          {
+            "name": "Dolenjska Museum Shop",
+            "tip": "Find unique souvenirs, including replicas of the situla art."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus für die beste Preis-Leistung.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, besonders für spätere Fahrten.",
+          "Die meisten Buslinien fahren durch das Stadtzentrum, was den Wechsel zwischen den Linien erleichtert.",
+          "Seien Sie bereit zu gehen; der öffentliche Nahverkehr bringt Sie in die Nähe, aber die besten Entdeckungen macht man zu Fuß."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a legjobb ár-érték arány érdekében.",
+          "Előre ellenőrizze a buszmenetrendet, különösen a későbbi járatok esetében.",
+          "A legtöbb buszjárat a városközponton halad át, ami megkönnyíti az átszállást.",
+          "Készüljön fel a sétára; a tömegközlekedés közel visz, de a legjobb felfedezéseket gyalog lehet megtenni."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru cel mai bun raport calitate-preț.",
+          "Verificați din timp orarele autobuzelor, mai ales pentru cursele de mai târziu.",
+          "Majoritatea liniilor de autobuz trec prin centrul orașului, facilitând schimbarea între linii.",
+          "Fiți pregătiți să mergeți pe jos; transportul public vă duce aproape, dar cele mai bune descoperiri se fac pe jos."
+        ],
+        "en": [
+          "Purchase a daily bus ticket for the best value.",
+          "Check bus schedules in advance, especially for later journeys.",
+          "Most bus routes run through the city center, making it easy to switch lines.",
+          "Be prepared to walk; transit gets you close, but the best discoveries are on foot."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1471 @@
+{
+  "city_id": "uk-bristol-cities-v2",
+  "anchor": {
+    "name": "Bristol",
+    "coords": [
+      -2.5879,
+      51.4545
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 7.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bristol Cathedral",
+            "hu": "Bristoli székesegyház",
+            "ro": "Catedrala din Bristol",
+            "en": "Bristol Cathedral"
+          },
+          "coords": [
+            -2.5975,
+            51.4518
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Achten Sie auf die einzigartigen 'Hallkirchen'-Gewölbe, die im Vereinigten Königreich selten sind.",
+            "hu": "Keresse a különleges „csarnoktemplom” boltozatokat, amelyek ritkaságnak számítanak az Egyesült Királyságban.",
+            "ro": "Observați bolțile unice de tip „biserică-hală”, rare în Regatul Unit.",
+            "en": "Look for the unique 'hall church' vaults, which are rare in the UK."
+          }
+        },
+        {
+          "name": {
+            "de": "Brandon Hill und Cabot Tower",
+            "hu": "Brandon Hill és Cabot-torony",
+            "ro": "Dealul Brandon și Turnul Cabot",
+            "en": "Brandon Hill & Cabot Tower"
+          },
+          "coords": [
+            -2.6098,
+            51.4555
+          ],
+          "category": "viewpoint",
+          "arrive_at": "10:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Steigen Sie die Wendeltreppe für eine der besten Aussichten auf die Stadt. Der Park ist ideal für eine kurze Pause.",
+            "hu": "Másszon fel a csigalépcsőn a város egyik legjobb kilátásáért. A park tökéletes egy rövid szünetre.",
+            "ro": "Urcați scara în spirală pentru una dintre cele mai bune priveliști ale orașului. Parcul este perfect pentru o pauză.",
+            "en": "Climb the spiral staircase for one of the best views of the city. The park is perfect for a short break."
+          }
+        },
+        {
+          "name": {
+            "de": "Bristol Museum & Art Gallery",
+            "hu": "Bristoli Múzeum és Művészeti Galéria",
+            "ro": "Muzeul și Galeria de Artă din Bristol",
+            "en": "Bristol Museum & Art Gallery"
+          },
+          "coords": [
+            -2.6033,
+            51.458
+          ],
+          "category": "museum",
+          "arrive_at": "11:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Banksy-Skulptur 'Paint Pot Angel' im Foyer.",
+            "hu": "Ne hagyja ki a Banksy 'Paint Pot Angel' szobrát a bejárati csarnokban.",
+            "ro": "Nu ratați sculptura „Paint Pot Angel” de Banksy din foaier.",
+            "en": "Don't miss the Banksy 'Paint Pot Angel' sculpture in the foyer."
+          }
+        },
+        {
+          "name": {
+            "de": "Bristol Harbourside",
+            "hu": "Bristoli kikötő",
+            "ro": "Cheiul din Bristol",
+            "en": "Bristol Harbourside"
+          },
+          "coords": [
+            -2.5979,
+            51.45
+          ],
+          "category": "harbor",
+          "arrive_at": "13:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ideal für ein Mittagessen mit Blick auf das Wasser. Viele Restaurants und Imbissstände.",
+            "hu": "Tökéletes egy ebédhez a vízparton. Rengeteg étterem és ételbódé található itt.",
+            "ro": "Ideal pentru un prânz cu vedere la apă. Multe restaurante și standuri cu mâncare.",
+            "en": "Perfect for a lunch with a view of the water. Plenty of restaurants and food stalls."
+          }
+        },
+        {
+          "name": {
+            "de": "SS Great Britain",
+            "hu": "SS Great Britain",
+            "ro": "SS Great Britain",
+            "en": "SS Great Britain"
+          },
+          "coords": [
+            -2.608,
+            51.4468
+          ],
+          "category": "museum",
+          "arrive_at": "15:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Tragen Sie bequeme Schuhe. Sie können das gesamte Schiff erkunden, vom Oberdeck bis zum Trockendock darunter.",
+            "hu": "Viseljen kényelmes cipőt. Az egész hajót bejárhatja a felső fedélzettől az alatta lévő szárazdokkig.",
+            "ro": "Purtați încălțăminte confortabilă. Puteți explora întreaga navă, de la puntea superioară la docul uscat de dedesubt.",
+            "en": "Wear comfortable shoes. You can explore the entire ship, from the top deck to the dry dock beneath."
+          }
+        },
+        {
+          "name": {
+            "de": "St Mary Redcliffe",
+            "hu": "St Mary Redcliffe templom",
+            "ro": "Biserica St Mary Redcliffe",
+            "en": "St Mary Redcliffe"
+          },
+          "coords": [
+            -2.5898,
+            51.4485
+          ],
+          "category": "church",
+          "arrive_at": "17:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Königin Elizabeth I. beschrieb sie als 'die schönste und berühmteste Pfarrkirche Englands'.",
+            "hu": "I. Erzsébet királynő „Anglia legszebb és leghíresebb plébániatemplomának” nevezte.",
+            "ro": "Regina Elisabeta I a descris-o ca fiind „cea mai frumoasă și faimoasă biserică parohială din Anglia”.",
+            "en": "Queen Elizabeth I described it as 'the fairest, goodliest, and most famous parish church in England'."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Bristol beginnt an der majestätischen Bristol Cathedral, einem architektonischen Wunderwerk. Von dort aus führt ein erfrischender Spaziergang bergauf zum Brandon Hill, wo der Cabot Tower eine atemberaubende Aussicht bietet. Am Mittag tauchen Sie im Bristol Museum in Kunst und Geschichte ein, gefolgt von einer entspannten Erkundung des lebhaften Harbourside, dem pulsierenden Herzen der Stadt. Am Nachmittag reisen Sie in die Vergangenheit an Bord der SS Great Britain, einem bahnbrechenden Schiff. Ihr Spaziergang endet in der St. Mary Redcliffe, einer Kirche von solcher Schönheit, dass sie eine Königin beeindruckte, und bietet einen Moment der ruhigen Besinnung.",
+        "hu": "A nap Bristolban a fenséges Bristoli székesegyháznál kezdődik, egy építészeti csodánál. Innen egy frissítő séta vezet fel a Brandon Hillre, ahol a Cabot-toronyból lélegzetelállító kilátás nyílik. Délben a Bristoli Múzeumban merül el a művészetben és a történelemben, majd a nyüzsgő Harbourside, a város lüktető szívének felfedezése következik. Délután visszautazik az időben az SS Great Britain fedélzetén, egy úttörő hajón. Sétája a St. Mary Redcliffe-nél ér véget, egy olyan gyönyörű templomnál, amely még egy királynőt is lenyűgözött, és csendes elmélkedésre ad lehetőséget.",
+        "ro": "Ziua dvs. în Bristol începe la maiestuoasa Catedrală din Bristol, o minune arhitecturală. De acolo, o plimbare revigorantă vă duce pe Dealul Brandon, unde Turnul Cabot oferă vederi uluitoare. La prânz, vă scufundați în artă și istorie la Muzeul Bristol, urmat de o explorare relaxantă a vibrantului Harbourside, inima pulsândă a orașului. După-amiaza, călătoriți înapoi în timp la bordul SS Great Britain, o navă inovatoare. Plimbarea se încheie la St. Mary Redcliffe, o biserică de o frumusețe care a impresionat o regină, oferind un moment de reflecție liniștită.",
+        "en": "Your day in Bristol starts at the majestic Bristol Cathedral, an architectural marvel. From there, a refreshing walk takes you up Brandon Hill, where Cabot Tower offers breathtaking views. At midday, you'll dive into art and history at the Bristol Museum, followed by a relaxed exploration of the vibrant Harbourside, the city's beating heart. In the afternoon, journey back in time aboard the SS Great Britain, a groundbreaking ship. Your walk concludes at St. Mary Redcliffe, a church of such beauty it impressed a queen, providing a moment of quiet reflection."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pastete und Ale",
+            "tip": "Suchen Sie nach einem Pub in der Nähe des Hafens für eine authentische Version dieses britischen Klassikers."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "Am besten frisch am Wasser gegessen."
+          },
+          {
+            "name": "Cheddar-Käse",
+            "tip": "Besuchen Sie den St Nicholas Market für einige lokale Käsesorten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pite és sör",
+            "tip": "Keressen egy pubot a kikötő közelében ennek a brit klasszikusnak egy autentikus változatáért."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "A legjobb frissen fogyasztva a vízparton."
+          },
+          {
+            "name": "Cheddar sajt",
+            "tip": "Látogasson el a St Nicholas Marketre helyi sajtokért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plăcintă și bere (Pie and Ale)",
+            "tip": "Căutați un pub lângă port pentru o versiune autentică a acestui clasic britanic."
+          },
+          {
+            "name": "Pește cu cartofi prăjiți (Fish and Chips)",
+            "tip": "Cel mai bun proaspăt, mâncat lângă apă."
+          },
+          {
+            "name": "Brânză Cheddar",
+            "tip": "Vizitați Piața St Nicholas pentru câteva brânzeturi locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pie and Ale",
+            "tip": "Find a pub near the harbour for an authentic take on this British classic."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "Best eaten fresh by the water."
+          },
+          {
+            "name": "Cheddar Cheese",
+            "tip": "Visit St Nicholas Market for some local cheeses."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Brandon Hill",
+            "tip": "Finden Sie eine Bank mit Blick auf die Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spaziergang am Fluss Avon",
+            "tip": "Ein friedlicher Spaziergang entlang des Flusses unter der Hängebrücke.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirchhof St. Mary Redcliffe",
+            "tip": "Ein Moment der Stille in einem historischen Ambiente.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brandon Hill",
+            "tip": "Keressen egy padot, ahonnan kilátás nyílik a városra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Séta az Avon folyó mentén",
+            "tip": "Békés séta a folyó mentén a függőhíd alatt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "St Mary Redcliffe templomkert",
+            "tip": "Egy csendes pillanat történelmi környezetben.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Brandon",
+            "tip": "Găsiți o bancă cu vedere spre oraș.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plimbare pe malul râului Avon",
+            "tip": "O plimbare liniștită de-a lungul râului, pe sub podul suspendat.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea bisericii St Mary Redcliffe",
+            "tip": "Un moment de liniște într-un cadru istoric.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Brandon Hill",
+            "tip": "Find a bench overlooking the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "River Avon Walk",
+            "tip": "A peaceful walk along the river beneath the suspension bridge.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "St Mary Redcliffe Churchyard",
+            "tip": "A moment of quiet in a historic setting.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "St Nicholas Market",
+            "tip": "Ein historischer Markt voller unabhängiger Stände, von Lebensmitteln bis hin zu Kunsthandwerk."
+          },
+          {
+            "name": "Corn Street",
+            "tip": "Bekannt für seine Märkte und das historische Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "St Nicholas Market",
+            "tip": "Történelmi piac tele független standokkal, ételektől a kézműves termékekig."
+          },
+          {
+            "name": "Corn Street",
+            "tip": "Híres piacairól és történelmi hangulatáról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața St Nicholas",
+            "tip": "O piață istorică plină de tarabe independente, de la mâncare la artizanat."
+          },
+          {
+            "name": "Strada Corn",
+            "tip": "Renumită pentru piețele și atmosfera sa istorică."
+          }
+        ],
+        "en": [
+          {
+            "name": "St Nicholas Market",
+            "tip": "A historic market filled with independent stalls, from food to crafts."
+          },
+          {
+            "name": "Corn Street",
+            "tip": "Known for its markets and historic atmosphere."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie sehr bequeme Schuhe; Bristol ist hügelig.",
+          "Eine wiederverwendbare Wasserflasche ist eine gute Idee.",
+          "Achten Sie auf die Straßenkunst von Banksy in der ganzen Stadt.",
+          "Viele Museen haben freien Eintritt, aber Spenden werden geschätzt."
+        ],
+        "hu": [
+          "Viseljen nagyon kényelmes cipőt; Bristol dombos.",
+          "Egy újratölthető vizes palack jó ötlet.",
+          "Figyelje Banksy utcai művészetét a városban.",
+          "Sok múzeum ingyenes, de az adományokat szívesen fogadják."
+        ],
+        "ro": [
+          "Purtați încălțăminte foarte confortabilă; Bristolul este deluros.",
+          "O sticlă de apă reutilizabilă este o idee bună.",
+          "Fiți atenți la arta stradală a lui Banksy în tot orașul.",
+          "Multe muzee au intrare gratuită, dar donațiile sunt apreciate."
+        ],
+        "en": [
+          "Wear very comfortable shoes; Bristol is hilly.",
+          "A reusable water bottle is a good idea.",
+          "Look out for Banksy's street art around the city.",
+          "Many museums have free entry, but donations are appreciated."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:58",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bristol Harbourside",
+            "hu": "Bristoli kikötő",
+            "ro": "Cheiul din Bristol",
+            "en": "Bristol Harbourside"
+          },
+          "coords": [
+            -2.5979,
+            51.45
+          ],
+          "category": "harbor",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Mieten Sie Ihr Fahrrad in der Nähe und starten Sie Ihre Tour entlang des flachen Hafenwegs.",
+            "hu": "Béreljen kerékpárt a közelben, és kezdje a túrát a sík kikötői úton.",
+            "ro": "Închiriați-vă bicicleta din apropiere și începeți turul de-a lungul căii plate a portului.",
+            "en": "Rent your bike nearby and start your tour along the flat harbour path."
+          }
+        },
+        {
+          "name": {
+            "de": "SS Great Britain",
+            "hu": "SS Great Britain",
+            "ro": "SS Great Britain",
+            "en": "SS Great Britain"
+          },
+          "coords": [
+            -2.608,
+            51.4468
+          ],
+          "category": "museum",
+          "arrive_at": "10:02",
+          "stay_min": 120,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Es gibt Fahrradständer, an denen Sie Ihr Fahrrad sicher abstellen können, während Sie das Schiff erkunden.",
+            "hu": "Vannak kerékpártárolók, ahol biztonságosan lezárhatja a kerékpárt, amíg felfedezi a hajót.",
+            "ro": "Există suporturi de biciclete unde vă puteți lăsa bicicleta în siguranță în timp ce explorați nava.",
+            "en": "There are bike racks available to lock your bike securely while you explore the ship."
+          }
+        },
+        {
+          "name": {
+            "de": "Clifton Suspension Bridge",
+            "hu": "Clifton függőhíd",
+            "ro": "Podul Suspendat Clifton",
+            "en": "Clifton Suspension Bridge"
+          },
+          "coords": [
+            -2.6276,
+            51.4551
+          ],
+          "category": "landmark",
+          "arrive_at": "12:27",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Der Radweg bietet eine atemberaubende Annäherung an die Brücke. Schieben Sie Ihr Fahrrad über die Brücke, um die Aussicht zu genießen.",
+            "hu": "A kerékpárút lélegzetelállító megközelítést kínál a hídhoz. Tolja át a kerékpárt a hídon, hogy gyönyörködhessen a kilátásban.",
+            "ro": "Pista de biciclete oferă o apropiere uimitoare de pod. Împingeți-vă bicicleta peste pod pentru a admira priveliștea.",
+            "en": "The cycle path offers a stunning approach to the bridge. Walk your bike across it to soak in the views."
+          }
+        },
+        {
+          "name": {
+            "de": "Brandon Hill und Cabot Tower",
+            "hu": "Brandon Hill és Cabot-torony",
+            "ro": "Dealul Brandon și Turnul Cabot",
+            "en": "Brandon Hill & Cabot Tower"
+          },
+          "coords": [
+            -2.6098,
+            51.4555
+          ],
+          "category": "park",
+          "arrive_at": "13:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein steiler Anstieg, aber der Park ist ein großartiger Ort für eine Mittagspause.",
+            "hu": "Meredek emelkedő, de a park remek hely egy ebédszünetre.",
+            "ro": "O urcare abruptă, dar parcul este un loc minunat pentru o pauză de prânz.",
+            "en": "A steep climb, but the park is a great spot for a lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Bristol Cathedral",
+            "hu": "Bristoli székesegyház",
+            "ro": "Catedrala din Bristol",
+            "en": "Bristol Cathedral"
+          },
+          "coords": [
+            -2.5975,
+            51.4518
+          ],
+          "category": "cathedral",
+          "arrive_at": "14:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad in der Nähe des College Green ab und bewundern Sie dieses historische Bauwerk.",
+            "hu": "Parkolja le a kerékpárt a College Green közelében, és csodálja meg ezt a történelmi épületet.",
+            "ro": "Parcați-vă bicicleta lângă College Green și admirați această structură istorică.",
+            "en": "Park your bike near College Green and admire this historic structure."
+          }
+        },
+        {
+          "name": {
+            "de": "St Mary Redcliffe",
+            "hu": "St Mary Redcliffe templom",
+            "ro": "Biserica St Mary Redcliffe",
+            "en": "St Mary Redcliffe"
+          },
+          "coords": [
+            -2.5898,
+            51.4485
+          ],
+          "category": "church",
+          "arrive_at": "16:23",
+          "stay_min": 65,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Eine angenehme Fahrt vom Zentrum zu einer der schönsten Kirchen Englands.",
+            "hu": "Kellemes tekerés a központból Anglia egyik legszebb templomához.",
+            "ro": "O plimbare plăcută cu bicicleta din centru către una dintre cele mai frumoase biserici din Anglia.",
+            "en": "An enjoyable ride from the centre to one of England's finest churches."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag am belebten Bristol Harbourside und radeln Sie dann zur SS Great Britain, einem maritimen Meisterwerk. Die Haupttour des Vormittags führt Sie entlang der Radwege zur ikonischen Clifton Suspension Bridge, die unglaubliche Ausblicke auf die Avon-Schlucht bietet. Nach einem anspruchsvollen, aber lohnenden Aufstieg erreichen Sie Brandon Hill für eine wohlverdiente Mittagspause. Am Nachmittag fahren Sie bergab zur historischen Bristol Cathedral, bevor Sie den Tag an der architektonisch beeindruckenden St. Mary Redcliffe Kirche ausklingen lassen.",
+        "hu": "Kezdje a kerékpáros napot a nyüzsgő bristoli kikötőben, majd tekerjen el az SS Great Britainhez, egy tengerészeti remekműhöz. A délelőtt fő attrakciója a kerékpárutakon vezet az ikonikus Clifton függőhídhoz, ahonnan hihetetlen kilátás nyílik az Avon-szurdokra. Egy kihívást jelentő, de megérő emelkedő után a Brandon Hillen tarthat egy jól megérdemelt ebédszünetet. Délután lejtmenetben halad a történelmi Bristoli székesegyház felé, mielőtt a napot az építészetileg lenyűgöző St. Mary Redcliffe templomnál fejezi be.",
+        "ro": "Începeți ziua pe bicicletă în animatul chei Bristol, apoi pedalați spre SS Great Britain, o capodoperă maritimă. Principala atracție a dimineții vă duce de-a lungul pistelor de biciclete până la emblematicul Pod Suspendat Clifton, oferind vederi incredibile ale defileului Avon. După o urcare provocatoare, dar satisfăcătoare, ajungeți pe Dealul Brandon pentru o pauză de prânz binemeritată. După-amiaza, coborâți spre istorica Catedrală din Bristol, înainte de a încheia ziua la biserica St. Mary Redcliffe, o bijuterie arhitecturală.",
+        "en": "Start your cycling day at the bustling Bristol Harbourside, then pedal to the SS Great Britain, a maritime masterpiece. The morning's main event takes you along cycle paths to the iconic Clifton Suspension Bridge, offering incredible views of the Avon Gorge. After a challenging but rewarding climb, reach Brandon Hill for a well-deserved lunch break. In the afternoon, cruise downhill to the historic Bristol Cathedral before finishing your day at the architecturally stunning St. Mary Redcliffe church."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Grain Barge",
+            "tip": "Ein umgebautes Binnenschiff, das Essen und lokale Biere serviert, perfekt für eine Pause am Wasser."
+          },
+          {
+            "name": "Bristol Loaf in Redfield",
+            "tip": "Bekannt für sein Sauerteigbrot und Gebäck, ideal für einen Snack."
+          },
+          {
+            "name": "The Coronation Tap",
+            "tip": "Ein berühmter Apfelwein-Pub in Clifton, ideal nach der Brückenbesichtigung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Grain Barge",
+            "tip": "Átépített uszály, ahol ételeket és helyi söröket szolgálnak fel, tökéletes egy vízparti szünetre."
+          },
+          {
+            "name": "Bristol Loaf, Redfield",
+            "tip": "Híres a kovászos kenyeréről és péksüteményeiről, ideális egy harapnivalóhoz."
+          },
+          {
+            "name": "The Coronation Tap",
+            "tip": "Híres almaborozó Cliftonban, nagyszerű a hídlátogatás után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Grain Barge",
+            "tip": "O barjă transformată care servește mâncare și beri locale, perfectă pentru o pauză lângă apă."
+          },
+          {
+            "name": "Bristol Loaf din Redfield",
+            "tip": "Renumit pentru pâinea cu maia și produsele de patiserie, excelent pentru o gustare."
+          },
+          {
+            "name": "The Coronation Tap",
+            "tip": "Un pub celebru de cidru din Clifton, excelent după vizitarea podului."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Grain Barge",
+            "tip": "A converted barge serving food and local ales, perfect for a waterside stop."
+          },
+          {
+            "name": "Bristol Loaf in Redfield",
+            "tip": "Famous for its sourdough and pastries, great for a snack."
+          },
+          {
+            "name": "The Coronation Tap",
+            "tip": "A famous cider pub in Clifton, great for after your bridge visit."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Leigh Woods",
+            "tip": "Auf der anderen Seite der Hängebrücke gelegen, bietet es ruhige Waldwege.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Queen Square",
+            "tip": "Ein großer, von Bäumen gesäumter Platz, ideal für eine kurze Rast.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Clifton Downs",
+            "tip": "Ein riesiger offener Raum zum Entspannen mit Blick auf die Schlucht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Leigh Woods",
+            "tip": "A függőhíd túloldalán található, csendes erdei ösvényeket kínál.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Queen Square",
+            "tip": "Nagy, fákkal szegélyezett tér, tökéletes egy rövid pihenőre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Clifton Downs",
+            "tip": "Hatalmas nyílt terület a pihenéshez, kilátással a szurdokra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Leigh Woods",
+            "tip": "Situată de cealaltă parte a podului suspendat, oferă poteci liniștite prin pădure.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Piața Queen",
+            "tip": "O piață mare, mărginită de copaci, perfectă pentru o scurtă odihnă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Clifton Downs",
+            "tip": "Un spațiu deschis vast pentru relaxare, cu vedere la defileu.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Leigh Woods",
+            "tip": "Located on the other side of the suspension bridge, offering quiet woodland trails.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Queen Square",
+            "tip": "A large, tree-lined square perfect for a quick rest.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Clifton Downs",
+            "tip": "A vast open space to relax with views over the gorge.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Christmas Steps Arts Quarter",
+            "tip": "Ein charmanter, historischer Bereich mit unabhängigen Geschäften und Galerien."
+          },
+          {
+            "name": "Gloucester Road",
+            "tip": "Angeblich die längste Straße mit unabhängigen Geschäften in Europa."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Christmas Steps Arts Quarter",
+            "tip": "Bájos, történelmi negyed független üzletekkel és galériákkal."
+          },
+          {
+            "name": "Gloucester Road",
+            "tip": "Állítólag Európa leghosszabb független üzletekkel teli utcája."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cartierul de artă Christmas Steps",
+            "tip": "O zonă fermecătoare, istorică, cu magazine și galerii independente."
+          },
+          {
+            "name": "Gloucester Road",
+            "tip": "Se spune că este cea mai lungă stradă de magazine independente din Europa."
+          }
+        ],
+        "en": [
+          {
+            "name": "Christmas Steps Arts Quarter",
+            "tip": "A charming, historic area with independent shops and galleries."
+          },
+          {
+            "name": "Gloucester Road",
+            "tip": "Reputed to be the longest street of independent shops in Europe."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bristol ist hügelig; ein E-Bike könnte eine gute Option sein.",
+          "Sichern Sie Ihr Fahrrad immer, auch bei kurzen Stopps.",
+          "Nutzen Sie die ausgewiesenen Radwege, insbesondere entlang des Flusses und in Richtung Clifton.",
+          "Achten Sie auf die Einbahnstraßen im Stadtzentrum."
+        ],
+        "hu": [
+          "Bristol dombos; egy e-bike jó választás lehet.",
+          "Mindig zárja le a kerékpárt, még rövid megállók esetén is.",
+          "Használja a kijelölt kerékpárutakat, különösen a folyó mentén és Clifton felé.",
+          "Vigyázzon az egyirányú utcákra a városközpontban."
+        ],
+        "ro": [
+          "Bristolul este deluros; o bicicletă electrică ar putea fi o opțiune bună.",
+          "Asigurați-vă întotdeauna bicicleta, chiar și pentru opriri scurte.",
+          "Folosiți pistele de biciclete desemnate, în special de-a lungul râului și spre Clifton.",
+          "Fiți atenți la străzile cu sens unic din centrul orașului."
+        ],
+        "en": [
+          "Bristol is hilly; an e-bike might be a good option.",
+          "Always lock your bike, even for short stops.",
+          "Use the designated cycle paths, especially along the river and towards Clifton.",
+          "Be aware of the one-way systems in the city centre."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 11.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Clifton Down",
+            "hu": "Parkolás a Clifton Downnál",
+            "ro": "Parcare la Clifton Down",
+            "en": "Parking at Clifton Down"
+          },
+          "coords": [
+            -2.625,
+            51.46
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und beginnen Sie Ihren Tag mit dem berühmtesten Wahrzeichen von Bristol.",
+            "hu": "Parkoljon itt, és kezdje a napot Bristol leghíresebb nevezetességével.",
+            "ro": "Parcați aici și începeți ziua cu cel mai faimos reper din Bristol.",
+            "en": "Park here and start your day with Bristol's most famous landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Clifton Suspension Bridge",
+            "hu": "Clifton függőhíd",
+            "ro": "Podul Suspendat Clifton",
+            "en": "Clifton Suspension Bridge"
+          },
+          "coords": [
+            -2.6276,
+            51.4551
+          ],
+          "category": "landmark",
+          "arrive_at": "09:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie über die Brücke, um die spektakuläre Aussicht auf die Avon-Schlucht zu genießen.",
+            "hu": "Sétáljon át a hídon, hogy élvezze az Avon-szurdok látványos kilátását.",
+            "ro": "Traversați podul pe jos pentru priveliști spectaculoase ale defileului Avon.",
+            "en": "Walk across the bridge for spectacular views of the Avon Gorge."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz am SS Great Britain",
+            "hu": "Parkolás az SS Great Britain-nél",
+            "ro": "Parcare la SS Great Britain",
+            "en": "Parking at SS Great Britain"
+          },
+          "coords": [
+            -2.607,
+            51.446
+          ],
+          "category": "transport",
+          "arrive_at": "10:25",
+          "stay_min": 10,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum nächsten Cluster. Dieser Parkplatz bedient das Hafengebiet.",
+            "hu": "Vezessen a következő klaszterhez. Ez a parkoló a kikötő területét szolgálja ki.",
+            "ro": "Conduceți spre următorul cluster. Această parcare deservește zona portuară.",
+            "en": "Drive to the next cluster. This car park serves the harbourside area."
+          }
+        },
+        {
+          "name": {
+            "de": "SS Great Britain",
+            "hu": "SS Great Britain",
+            "ro": "SS Great Britain",
+            "en": "SS Great Britain"
+          },
+          "coords": [
+            -2.608,
+            51.4468
+          ],
+          "category": "museum",
+          "arrive_at": "10:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die Geschichte von Brunels revolutionärem Schiff.",
+            "hu": "Merüljön el Brunel forradalmi hajójának történetében.",
+            "ro": "Scufundați-vă în istoria navei revoluționare a lui Brunel.",
+            "en": "Immerse yourself in the history of Brunel's revolutionary ship."
+          }
+        },
+        {
+          "name": {
+            "de": "Bristol Harbourside",
+            "hu": "Bristoli kikötő",
+            "ro": "Cheiul din Bristol",
+            "en": "Bristol Harbourside"
+          },
+          "coords": [
+            -2.5979,
+            51.45
+          ],
+          "category": "harbor",
+          "arrive_at": "12:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für ein Mittagessen mit vielen Möglichkeiten rund um das Wasser.",
+            "hu": "Remek hely egy ebédre, rengeteg lehetőséggel a víz körül.",
+            "ro": "Un loc excelent pentru prânz, cu multe opțiuni în jurul apei.",
+            "en": "A great spot for lunch with plenty of options around the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkhaus am College Green",
+            "hu": "Parkolóház a College Greennél",
+            "ro": "Parcare la College Green",
+            "en": "Parking at College Green"
+          },
+          "coords": [
+            -2.6,
+            51.453
+          ],
+          "category": "transport",
+          "arrive_at": "14:35",
+          "stay_min": 10,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Letzter Parkstopp des Tages, der das historische Zentrum Bristols erschließt.",
+            "hu": "A nap utolsó parkolási megállója, amely Bristol történelmi központját tárja fel.",
+            "ro": "Ultima oprire de parcare a zilei, deschizând centrul istoric al Bristolului.",
+            "en": "Final parking stop of the day, unlocking Bristol's historic core."
+          }
+        },
+        {
+          "name": {
+            "de": "Bristol Cathedral",
+            "hu": "Bristoli székesegyház",
+            "ro": "Catedrala din Bristol",
+            "en": "Bristol Cathedral"
+          },
+          "coords": [
+            -2.5975,
+            51.4518
+          ],
+          "category": "cathedral",
+          "arrive_at": "14:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Parkplatz aus nur ein kurzer Spaziergang, bewundern Sie die gotische Architektur.",
+            "hu": "Csak egy rövid séta a parkolótól, csodálja meg a gótikus építészetet.",
+            "ro": "La o scurtă plimbare de parcare, admirați arhitectura gotică.",
+            "en": "Just a short walk from the car park, admire the Gothic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Bristol Museum & Art Gallery",
+            "hu": "Bristoli Múzeum és Művészeti Galéria",
+            "ro": "Muzeul și Galeria de Artă din Bristol",
+            "en": "Bristol Museum & Art Gallery"
+          },
+          "coords": [
+            -2.6033,
+            51.458
+          ],
+          "category": "museum",
+          "arrive_at": "16:20",
+          "stay_min": 99,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang durch den Park führt Sie zu diesem Schatzhaus der Kunst und Geschichte.",
+            "hu": "Egy kellemes séta a parkon keresztül vezet el ehhez a művészeti és történelmi kincsesbányához.",
+            "ro": "O plimbare plăcută prin parc vă duce la acest tezaur de artă și istorie.",
+            "en": "A pleasant walk through the park brings you to this treasure trove of art and history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Auto hoch oben in Clifton, parken Sie und gehen Sie zur ikonischen Hängebrücke. Nach dem Genuss der Aussicht fahren Sie hinunter zum Hafen, Ihrem zweiten Cluster. Hier erkunden Sie zu Fuß die SS Great Britain und genießen ein Mittagessen am Wasser. Am Nachmittag bringt Sie eine kurze Fahrt zu Ihrem letzten Parkplatz in der Nähe des College Green. Von hier aus sind die historische Bristol Cathedral und das faszinierende Bristol Museum & Art Gallery nur einen kurzen Spaziergang entfernt, was einen perfekten Abschluss für Ihre cluster-basierte Erkundung darstellt.",
+        "hu": "Kezdje a napot magasan, Cliftonban, parkoljon le, és sétáljon el az ikonikus függőhídhoz. Miután élvezte a kilátást, vezessen le a kikötőbe, a második központhoz. Itt gyalogosan fedezi fel az SS Great Britaint és ebédel a vízparton. Délután egy rövid autóút elviszi az utolsó parkolóhelyére a College Green közelében. Innen a történelmi Bristoli székesegyház és a lenyűgöző Bristoli Múzeum és Művészeti Galéria egy rövid sétával elérhető, tökéletes befejezést nyújtva a központosított felfedezéshez.",
+        "ro": "Începeți ziua la înălțime în Clifton, parcați și mergeți pe jos până la emblematicul pod suspendat. După ce vă bucurați de priveliști, conduceți spre port, al doilea cluster. Aici, explorați pe jos SS Great Britain și savurați prânzul lângă apă. După-amiaza, o scurtă călătorie cu mașina vă duce la ultima parcare, lângă College Green. De aici, istorica Catedrală din Bristol și fascinantul Muzeu și Galerie de Artă sunt la o scurtă plimbare, încheind perfect explorarea bazată pe clustere.",
+        "en": "Start your day by car high up in Clifton, parking and walking to the iconic Suspension Bridge. After soaking in the views, drive down to the Harbour, your second cluster. Here, you'll explore the SS Great Britain on foot and enjoy a waterside lunch. In the afternoon, a short drive takes you to your final parking spot near College Green. From here, the historic Bristol Cathedral and the fascinating Bristol Museum & Art Gallery are a short stroll away, providing a perfect end to your cluster-based exploration."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The White Lion Bar",
+            "tip": "Befindet sich in Clifton und bietet eine berühmte Terrasse mit Blick auf die Schlucht und die Brücke."
+          },
+          {
+            "name": "Cargo at Wapping Wharf",
+            "tip": "Eine Ansammlung von Restaurants in Schiffscontainern mit einer großen Auswahl an Gerichten."
+          },
+          {
+            "name": "Hart's Bakery",
+            "tip": "In der Nähe des Bahnhofs Temple Meads, berühmt für sein außergewöhnliches Gebäck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The White Lion Bar",
+            "tip": "Cliftonban található, híres teraszáról, ahonnan kilátás nyílik a szurdokra és a hídra."
+          },
+          {
+            "name": "Cargo at Wapping Wharf",
+            "tip": "Étterem-gyűjtemény hajókonténerekben, széles ételválasztékkal."
+          },
+          {
+            "name": "Hart's Bakery",
+            "tip": "A Temple Meads állomás közelében található, híres a kivételes péksüteményeiről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The White Lion Bar",
+            "tip": "Situat în Clifton, are o terasă faimoasă cu vedere la defileu și pod."
+          },
+          {
+            "name": "Cargo la Wapping Wharf",
+            "tip": "O colecție de restaurante în containere de transport maritim, cu o mare varietate de preparate."
+          },
+          {
+            "name": "Hart's Bakery",
+            "tip": "Aproape de gara Temple Meads, renumită pentru produsele de patiserie excepționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "The White Lion Bar",
+            "tip": "Located in Clifton, has a famous terrace with views of the gorge and bridge."
+          },
+          {
+            "name": "Cargo at Wapping Wharf",
+            "tip": "A collection of restaurants in shipping containers with a huge variety of food."
+          },
+          {
+            "name": "Hart's Bakery",
+            "tip": "Near Temple Meads station, famous for its exceptional pastries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Clifton Observatory",
+            "tip": "Bietet eine noch bessere Aussicht auf die Brücke und ist oft ruhiger als das Brückendeck.",
+            "emoji": "🔭"
+          },
+          {
+            "name": "Royal York Crescent",
+            "tip": "Eine beeindruckende, halbmondförmige georgianische Terrasse in Clifton, ideal für einen ruhigen Spaziergang.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Ashton Court Estate",
+            "tip": "Auf der anderen Seite der Brücke, riesig und perfekt für eine Flucht aus der Stadt.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Clifton Obszervatórium",
+            "tip": "Még jobb kilátást nyújt a hídra, és gyakran csendesebb, mint a híd fedélzete.",
+            "emoji": "🔭"
+          },
+          {
+            "name": "Royal York Crescent",
+            "tip": "Lenyűgöző, félhold alakú georgiánus terasz Cliftonban, ideális egy csendes sétához.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Ashton Court Estate",
+            "tip": "A híd túloldalán található, hatalmas és tökéletes a városból való elmeneküléshez.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Observatorul Clifton",
+            "tip": "Oferă vederi și mai bune ale podului și este adesea mai liniștit decât puntea podului.",
+            "emoji": "🔭"
+          },
+          {
+            "name": "Royal York Crescent",
+            "tip": "O terasă georgiană impresionantă în formă de semilună în Clifton, perfectă pentru o plimbare liniștită.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Domeniul Ashton Court",
+            "tip": "Peste pod, vast și perfect pentru o evadare din oraș.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Clifton Observatory",
+            "tip": "Offers even better views of the bridge and is often quieter than the bridge deck itself.",
+            "emoji": "🔭"
+          },
+          {
+            "name": "Royal York Crescent",
+            "tip": "An impressive crescent of Georgian terraces in Clifton, perfect for a quiet stroll.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Ashton Court Estate",
+            "tip": "Across the bridge, vast and perfect for an escape from the city.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Clifton Village",
+            "tip": "Bekannt für seine Boutiquen, eleganten Geschäfte und Feinkostläden."
+          },
+          {
+            "name": "The Mall at Cribbs Causeway",
+            "tip": "Ein großes Einkaufszentrum am Stadtrand für alle, die große Marken suchen (erfordert eine separate Fahrt)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Clifton Village",
+            "tip": "Híres butikjairól, elegáns üzleteiről és delikateszboltjairól."
+          },
+          {
+            "name": "The Mall at Cribbs Causeway",
+            "tip": "Nagy bevásárlóközpont a város szélén azoknak, akik nagy márkákat keresnek (külön utazást igényel)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Clifton Village",
+            "tip": "Renumit pentru buticurile, magazinele elegante și delicatesele sale."
+          },
+          {
+            "name": "The Mall la Cribbs Causeway",
+            "tip": "Un mare centru comercial la periferia orașului pentru cei care caută mărci de renume (necesită o călătorie separată)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Clifton Village",
+            "tip": "Known for its boutiques, elegant shops, and delis."
+          },
+          {
+            "name": "The Mall at Cribbs Causeway",
+            "tip": "A large shopping centre on the outskirts for those wanting major brands (requires a separate drive)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in Bristol kann teuer sein; nutzen Sie die Park-and-Ride-Dienste, wenn möglich.",
+          "Achten Sie auf die Clean Air Zone (CAZ) von Bristol, die für einige Fahrzeuge eine Gebühr erhebt.",
+          "Laden Sie eine Park-App herunter, um das Bezahlen zu erleichtern.",
+          "Der Verkehr kann zu Stoßzeiten stark sein, planen Sie Ihre Fahrten außerhalb dieser Zeiten."
+        ],
+        "hu": [
+          "A parkolás Bristolban drága lehet; ha lehetséges, használja a P+R szolgáltatásokat.",
+          "Figyeljen Bristol tisztább levegőjű zónájára (CAZ), amely egyes járművekre díjat számít fel.",
+          "Töltsön le egy parkolási alkalmazást a könnyebb fizetés érdekében.",
+          "A forgalom csúcsidőben sűrű lehet, tervezze az utazásokat ezeken az időszakokon kívül."
+        ],
+        "ro": [
+          "Parcarea în Bristol poate fi scumpă; utilizați serviciile de park-and-ride dacă este posibil.",
+          "Fiți atenți la Zona de Aer Curat (CAZ) din Bristol, care impune o taxă pentru unele vehicule.",
+          "Descărcați o aplicație de parcare pentru a facilita plata.",
+          "Traficul poate fi intens la orele de vârf, planificați-vă călătoriile în afara acestor perioade."
+        ],
+        "en": [
+          "Parking in Bristol can be expensive; use park-and-ride services if possible.",
+          "Be aware of Bristol's Clean Air Zone (CAZ), which charges a fee for some vehicles.",
+          "Download a parking app to make payment easier.",
+          "Traffic can be heavy during peak hours, plan your drives outside these times."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:04",
+      "total_km": 8.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "St Mary Redcliffe",
+            "hu": "St Mary Redcliffe templom",
+            "ro": "Biserica St Mary Redcliffe",
+            "en": "St Mary Redcliffe"
+          },
+          "coords": [
+            -2.5898,
+            51.4485
+          ],
+          "category": "church",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie in der Nähe des Bahnhofs Temple Meads, ein einfacher Startpunkt für Anreisende mit dem Zug.",
+            "hu": "Kezdje a Temple Meads állomás közelében, ami egy egyszerű kiindulópont a vonattal érkezők számára.",
+            "ro": "Începeți lângă gara Temple Meads, un punct de plecare ușor pentru cei care sosesc cu trenul.",
+            "en": "Start near Temple Meads station, an easy starting point for those arriving by train."
+          }
+        },
+        {
+          "name": {
+            "de": "Bristol Harbourside",
+            "hu": "Bristoli kikötő",
+            "ro": "Cheiul din Bristol",
+            "en": "Bristol Harbourside"
+          },
+          "coords": [
+            -2.5979,
+            51.45
+          ],
+          "category": "harbor",
+          "arrive_at": "10:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen kurzen Bus oder die Fähre, um das Herz des Hafens zu erreichen.",
+            "hu": "Menjen egy rövid busz- vagy kompjárattal a kikötő szívébe.",
+            "ro": "Luați un autobuz scurt sau feribotul pentru a ajunge în inima portului.",
+            "en": "Take a short bus or the ferry to get to the heart of the harbour."
+          }
+        },
+        {
+          "name": {
+            "de": "SS Great Britain",
+            "hu": "SS Great Britain",
+            "ro": "SS Great Britain",
+            "en": "SS Great Britain"
+          },
+          "coords": [
+            -2.608,
+            51.4468
+          ],
+          "category": "museum",
+          "arrive_at": "11:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein angenehmer Spaziergang um den Hafen führt Sie zu diesem historischen Schiff.",
+            "hu": "Egy kellemes séta a kikötő körül elvezet ehhez a történelmi hajóhoz.",
+            "ro": "O plimbare plăcută în jurul portului vă va duce la această navă istorică.",
+            "en": "A pleasant walk around the harbour brings you to this historic ship."
+          }
+        },
+        {
+          "name": {
+            "de": "Bristol Cathedral",
+            "hu": "Bristoli székesegyház",
+            "ro": "Catedrala din Bristol",
+            "en": "Bristol Cathedral"
+          },
+          "coords": [
+            -2.5975,
+            51.4518
+          ],
+          "category": "cathedral",
+          "arrive_at": "13:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein Bus bringt Sie schnell zum College Green, dem Standort der Kathedrale.",
+            "hu": "Egy busz gyorsan elviszi a College Greenhez, a székesegyház helyszínéhez.",
+            "ro": "Un autobuz vă va duce rapid la College Green, locația catedralei.",
+            "en": "A bus will take you quickly to College Green, the site of the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Bristol Museum & Art Gallery",
+            "hu": "Bristoli Múzeum és Művészeti Galéria",
+            "ro": "Muzeul și Galeria de Artă din Bristol",
+            "en": "Bristol Museum & Art Gallery"
+          },
+          "coords": [
+            -2.6033,
+            51.458
+          ],
+          "category": "museum",
+          "arrive_at": "15:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang bergauf von der Kathedrale entfernt.",
+            "hu": "Csak egy rövid séta felfelé a székesegyháztól.",
+            "ro": "La doar o scurtă plimbare la deal de catedrală.",
+            "en": "Just a short walk uphill from the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Cabot Tower",
+            "hu": "Cabot-torony",
+            "ro": "Turnul Cabot",
+            "en": "Cabot Tower"
+          },
+          "coords": [
+            -2.6098,
+            51.4555
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Fuß des Brandon Hill und steigen Sie für die letzte Aussicht des Tages auf.",
+            "hu": "Menjen busszal a Brandon Hill lábához, majd másszon fel a nap utolsó kilátásáért.",
+            "ro": "Luați un autobuz până la baza dealului Brandon, apoi urcați pentru ultima priveliște a zilei.",
+            "en": "Take a bus to the base of Brandon Hill, then climb for the final view of the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt an der prächtigen Kirche St. Mary Redcliffe. Von dort aus bringt Sie ein kurzer Bus- oder Fährsprung zum belebten Harbourside, dem ersten Cluster des Tages, wo ein Spaziergang Sie zur SS Great Britain führt. Nach dem Eintauchen in die maritime Geschichte bringt Sie ein Bus zum College Green. Hier erkunden Sie zu Fuß das zweite Cluster: die beeindruckende Bristol Cathedral und, nur einen kurzen Spaziergang entfernt, das Bristol Museum. Ein letzter Bus bringt Sie in die Nähe des Brandon Hill, wo ein Aufstieg zum Cabot Tower Ihren Tag mit einer Panoramaaussicht über die Stadt abschließt.",
+        "hu": "A tömegközlekedéssel töltött nap a csodálatos St. Mary Redcliffe templomnál kezdődik. Innen egy rövid busz- vagy kompjárat elviszi a nyüzsgő kikötőbe, a nap első központjába, ahol egy séta vezet az SS Great Britainhez. Miután elmerült a tengerészeti történelemben, egy busz elviszi a College Greenhez. Itt gyalogosan fedezi fel a második központot: a lenyűgöző Bristoli székesegyházat és egy rövid sétára a Bristoli Múzeumot. Egy utolsó busz elviszi a Brandon Hill közelébe, ahol a Cabot-torony megmászása egy panorámás városi kilátással zárja a napot.",
+        "ro": "Ziua dvs. cu transportul public începe la magnifica biserică St. Mary Redcliffe. De acolo, o scurtă călătorie cu autobuzul sau feribotul vă duce la animatul Harbourside, primul cluster al zilei, unde o plimbare vă conduce la SS Great Britain. După imersiunea în istoria maritimă, un autobuz vă duce la College Green. Aici, explorați pe jos al doilea cluster: impresionanta Catedrală din Bristol și, la o scurtă plimbare, Muzeul Bristol. O ultimă călătorie cu autobuzul vă aduce aproape de Dealul Brandon, unde o urcare la Turnul Cabot încheie ziua cu o vedere panoramică asupra orașului.",
+        "en": "Your day on public transport begins at the magnificent St. Mary Redcliffe church. From there, a short bus or ferry hop takes you to the bustling Harbourside, the day's first cluster, where a walk leads you to the SS Great Britain. After immersing yourself in maritime history, a bus whisks you to College Green. Here, you'll explore the second cluster on foot: the impressive Bristol Cathedral and, a short walk away, the Bristol Museum. A final bus ride gets you near Brandon Hill, where a climb up Cabot Tower concludes your day with a panoramic city view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "St Nicholas Market",
+            "tip": "Ein Zentrum für Street Food aus aller Welt, leicht mit dem Bus erreichbar."
+          },
+          {
+            "name": "The Apple",
+            "tip": "Eine Apfelwein-Barke im Hafen, die eine riesige Auswahl an lokalen Apfelweinen serviert."
+          },
+          {
+            "name": "Pieminister",
+            "tip": "Eine Bristoler Institution, die preisgekrönte Pasteten serviert. Es gibt mehrere Filialen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "St Nicholas Market",
+            "tip": "A világ minden tájáról származó street food központja, busszal könnyen megközelíthető."
+          },
+          {
+            "name": "The Apple",
+            "tip": "Almaboros bárka a kikötőben, hatalmas helyi almabor-választékkal."
+          },
+          {
+            "name": "Pieminister",
+            "tip": "Bristoli intézmény, díjnyertes pitéket szolgál fel. Több üzletük is van."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața St Nicholas",
+            "tip": "Un centru pentru mâncare stradală din întreaga lume, ușor accesibil cu autobuzul."
+          },
+          {
+            "name": "The Apple",
+            "tip": "O barjă de cidru în port, care servește o selecție uriașă de cidruri locale."
+          },
+          {
+            "name": "Pieminister",
+            "tip": "O instituție din Bristol care servește plăcinte premiate. Au mai multe locații."
+          }
+        ],
+        "en": [
+          {
+            "name": "St Nicholas Market",
+            "tip": "A hub for street food from around the world, easily accessible by bus."
+          },
+          {
+            "name": "The Apple",
+            "tip": "A cider barge on the harbour serving a huge range of local ciders."
+          },
+          {
+            "name": "Pieminister",
+            "tip": "A Bristol institution serving award-winning pies. There are several branches."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bristol Ferry Boats",
+            "tip": "Eine Fahrt auf dem Wasser ist eine ruhige Art, die Stadt aus einer anderen Perspektive zu sehen.",
+            "emoji": "⛴️"
+          },
+          {
+            "name": "College Green",
+            "tip": "Ein beliebter, aber großer Platz, auf dem man einen ruhigen Platz zum Sitzen finden kann.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Der Friedhof von Arnos Vale",
+            "tip": "Ein wunderschöner viktorianischer Friedhof und ein Naturschutzgebiet, eine kurze Busfahrt entfernt.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bristol Ferry Boats",
+            "tip": "A vízi utazás egy békés módja annak, hogy a várost más szemszögből lássa.",
+            "emoji": "⛴️"
+          },
+          {
+            "name": "College Green",
+            "tip": "Népszerű, de tágas tér, ahol találhat egy csendes helyet az ülésre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Arnos Vale temető",
+            "tip": "Gyönyörű viktoriánus temető és természetvédelmi terület, rövid buszútra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bărcile Bristol Ferry",
+            "tip": "O călătorie pe apă este un mod liniștit de a vedea orașul dintr-o perspectivă diferită.",
+            "emoji": "⛴️"
+          },
+          {
+            "name": "College Green",
+            "tip": "O piață populară, dar mare, unde puteți găsi un loc liniștit pentru a sta.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cimitirul Arnos Vale",
+            "tip": "Un frumos cimitir victorian și o rezervație naturală, la o scurtă călătorie cu autobuzul.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bristol Ferry Boats",
+            "tip": "A trip on the water is a peaceful way to see the city from a different angle.",
+            "emoji": "⛴️"
+          },
+          {
+            "name": "College Green",
+            "tip": "A popular but large square where you can find a quiet spot to sit.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Arnos Vale Cemetery",
+            "tip": "A beautiful Victorian cemetery and nature reserve, a short bus ride away.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "The Galleries Shopping Centre",
+            "tip": "Ein zentral gelegenes Einkaufszentrum mit vielen bekannten Marken."
+          },
+          {
+            "name": "Broadmead",
+            "tip": "Das wichtigste Einkaufs viertel von Bristol, das das Stadtzentrum umgibt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Galleries Bevásárlóközpont",
+            "tip": "Központi fekvésű bevásárlóközpont számos népszerű márkával."
+          },
+          {
+            "name": "Broadmead",
+            "tip": "Bristol fő bevásárlónegyede, amely a városközpontot veszi körül."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial The Galleries",
+            "tip": "Un centru comercial situat central, cu multe mărci cunoscute."
+          },
+          {
+            "name": "Broadmead",
+            "tip": "Principalul district comercial din Bristol, care înconjoară centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Galleries Shopping Centre",
+            "tip": "A centrally located mall with many high-street brands."
+          },
+          {
+            "name": "Broadmead",
+            "tip": "Bristol's main shopping district surrounding the city centre."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Laden Sie die 'First Bus'-App herunter, um Tickets zu kaufen und Busse in Echtzeit zu verfolgen.",
+          "Die Busse können im Verkehr stecken bleiben, planen Sie also zusätzliche Zeit ein.",
+          "Die Fähre ist eine unterhaltsame Alternative zum Bus für Fahrten rund um den Hafen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Töltse le az 'First Bus' alkalmazást jegyvásárláshoz és a buszok valós idejű követéséhez.",
+          "A buszok elakadhatnak a forgalomban, ezért tervezzen plusz időt.",
+          "A komp egy szórakoztató alternatívája a busznak a kikötő körüli utazásokhoz."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Descărcați aplicația „First Bus” pentru a cumpăra bilete și a urmări autobuzele în timp real.",
+          "Autobuzele pot rămâne blocate în trafic, așa că acordați timp suplimentar.",
+          "Feribotul este o alternativă distractivă la autobuz pentru călătoriile în jurul portului."
+        ],
+        "en": [
+          "Buy a day rider ticket for unlimited travel.",
+          "Download the 'First Bus' app to buy tickets and track buses in real-time.",
+          "Buses can get stuck in traffic, so allow extra time.",
+          "The ferry is a fun alternative to the bus for trips around the harbour."
+        ]
+      }
+    }
+  }
+}

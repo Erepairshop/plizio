@@ -1,0 +1,1346 @@
+{
+  "city_id": "ankara-cities-v2",
+  "anchor": {
+    "name": "Ankara",
+    "coords": [
+      32.8597,
+      39.9334
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hamamönü-Viertel",
+            "hu": "Hamamönü negyed",
+            "ro": "Cartierul Hamamönü",
+            "en": "Hamamönü Quarter"
+          },
+          "coords": [
+            32.8655,
+            39.9342
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie mit einem traditionellen türkischen Kaffee in einem der restaurierten Häuser.",
+            "hu": "Kezdje a napot egy hagyományos török kávéval az egyik felújított házban!",
+            "ro": "Începeți cu o cafea turcească tradițională într-una dintre casele restaurate.",
+            "en": "Start with a traditional Turkish coffee in one of the restored houses."
+          }
+        },
+        {
+          "name": {
+            "de": "Hacı-Bayram-Moschee",
+            "hu": "Hacı Bayram-mecset",
+            "ro": "Moscheea Hacı Bayram",
+            "en": "Hacı Bayram Mosque"
+          },
+          "coords": [
+            32.858,
+            39.9445
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Achten Sie auf respektvolle Kleidung. Der Augustus-Tempel befindet sich direkt nebenan.",
+            "hu": "Viseljen tisztelettudó öltözéket. Az Augustus-templom romjai közvetlenül mellette vannak.",
+            "ro": "Asigurați-vă că purtați îmbrăcăminte respectuoasă. Templul lui Augustus este chiar alături.",
+            "en": "Make sure to wear respectful clothing. The Temple of Augustus is right next door."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Bäder",
+            "hu": "Római fürdők",
+            "ro": "Băile Romane",
+            "en": "Roman Baths"
+          },
+          "coords": [
+            32.8561,
+            39.9472
+          ],
+          "category": "historical",
+          "arrive_at": "11:21",
+          "stay_min": 50,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die Infotafeln erklären die Struktur und Funktion der antiken Bäder sehr gut.",
+            "hu": "Az információs táblák jól elmagyarázzák az ókori fürdők szerkezetét és működését.",
+            "ro": "Panourile informative explică foarte bine structura și funcția băilor antice.",
+            "en": "The information panels do a great job of explaining the structure and function of the ancient baths."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Ankara",
+            "hu": "Ankarai vár",
+            "ro": "Castelul din Ankara",
+            "en": "Ankara Castle"
+          },
+          "coords": [
+            32.8643,
+            39.9416
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:29",
+          "stay_min": 90,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Der Aufstieg ist steil, aber die Aussicht über die Stadt ist die Mühe wert.",
+            "hu": "Az út meredek, de a kilátás a városra megéri a fáradságot. Ebédeljen a várban!",
+            "ro": "Urcușul este abrupt, dar priveliștea asupra orașului merită efortul.",
+            "en": "The climb is steep, but the view over the city is worth the effort. Have lunch within the castle walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für anatolische Zivilisationen",
+            "hu": "Anatóliai Civilizációk Múzeuma",
+            "ro": "Muzeul Civilizațiilor Anatoliene",
+            "en": "Museum of Anatolian Civilizations"
+          },
+          "coords": [
+            32.8625,
+            39.9385
+          ],
+          "category": "museums",
+          "arrive_at": "14:07",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein Muss! Planen Sie genügend Zeit ein, um die hethitischen Artefakte zu sehen.",
+            "hu": "Ez egy kötelező látnivaló! Tervezzen elég időt a hettita leletek megtekintésére.",
+            "ro": "O vizită obligatorie! Planificați-vă suficient timp pentru a vedea artefactele hitite.",
+            "en": "An absolute must-see! Plan enough time to see the Hittite artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Anıtkabir",
+            "hu": "Anıtkabir",
+            "ro": "Anıtkabir",
+            "en": "Anıtkabir"
+          },
+          "coords": [
+            32.8376,
+            39.9252
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 88,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Die Wachablösung ist eine beeindruckende Zeremonie. Informieren Sie sich über die Zeiten.",
+            "hu": "Az őrségváltás lenyűgöző szertartás. Érdeklődjön az időpontokról!",
+            "ro": "Schimbarea gărzii este o ceremonie impresionantă. Verificați orele.",
+            "en": "The changing of the guard is an impressive ceremony. Check for the specific times."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im historischen Herzen Ankaras, dem Hamamönü-Viertel. Am Vormittag erkunden Sie die spirituelle Seite der Stadt bei der Hacı-Bayram-Moschee und tauchen in die antike Geschichte in den Römischen Bädern ein. Der Mittag führt Sie zur majestätischen Burg von Ankara, wo Sie neben einer grandiosen Aussicht auch ein traditionelles Mittagessen genießen können. Nachmittags widmen Sie sich den Schätzen im Museum für anatolische Zivilisationen, bevor Sie den Tag mit einem Spaziergang zum monumentalen Anıtkabir, dem Mausoleum Atatürks, ausklingen lassen.",
+        "hu": "A nap Ankara történelmi szívében, a Hamamönü negyedben kezdődik. Délelőtt a város spirituális oldalát fedezi fel a Hacı Bayram-mecsetnél, majd elmerül az ókori történelemben a Római fürdőknél. Délben az ankarai vár fenséges falaihoz érkezik, ahol a nagyszerű kilátás mellett egy hagyományos ebédet is elfogyaszthat. Délután az Anatóliai Civilizációk Múzeumának kincseiben gyönyörködhet, mielőtt a napot Atatürk mauzóleumánál, a monumentális Anıtkabirnál tett sétával zárja.",
+        "ro": "Ziua începe în inima istorică a Ankarei, cartierul Hamamönü. Dimineața explorați latura spirituală a orașului la Moscheea Hacı Bayram și vă scufundați în istoria antică la Băile Romane. Prânzul vă duce la impunătorul Castel din Ankara, unde, pe lângă o priveliște magnifică, vă puteți bucura și de un prânz tradițional. După-amiaza este dedicată comorilor de la Muzeul Civilizațiilor Anatoliene, înainte de a încheia ziua cu o plimbare la monumentalul Anıtkabir, mausoleul lui Atatürk.",
+        "en": "Your day begins in the historical heart of Ankara, the Hamamönü Quarter. In the morning, you'll explore the city's spiritual side at the Hacı Bayram Mosque and delve into ancient history at the Roman Baths. Midday takes you to the majestic Ankara Castle, where you can enjoy a traditional lunch alongside a magnificent view. The afternoon is dedicated to the treasures in the Museum of Anatolian Civilizations, before ending the day with a walk to the monumental Anıtkabir, Atatürk's mausoleum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Testi Kebabı",
+            "tip": "In einem Tontopf geschmortes Lamm oder Rindfleisch. Probieren Sie es in einem der Restaurants in der Burg."
+          },
+          {
+            "name": "İskender Kebap",
+            "tip": "Dünn geschnittenes Lammfleisch auf Fladenbrot mit Tomatensauce und Joghurt."
+          },
+          {
+            "name": "Baklava",
+            "tip": "Als Dessert, besonders gut bei 'Hafız Mustafa 1864'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Testi kebab",
+            "tip": "Agyagedényben párolt bárány- vagy marhahús. Próbálja ki a vár egyik éttermében!"
+          },
+          {
+            "name": "İskender kebap",
+            "tip": "Vékonyra szeletelt bárányhús pitán, paradicsomszósszal és joghurttal."
+          },
+          {
+            "name": "Baklava",
+            "tip": "Desszertként, különösen finom a 'Hafız Mustafa 1864'-ben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Testi Kebabı",
+            "tip": "Miel sau vită gătite lent într-un vas de lut. Încercați-l la unul dintre restaurantele din castel."
+          },
+          {
+            "name": "İskender Kebap",
+            "tip": "Felii subțiri de miel pe lipie cu sos de roșii și iaurt."
+          },
+          {
+            "name": "Baklava",
+            "tip": "Ca desert, deosebit de bun la 'Hafız Mustafa 1864'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Testi Kebabı",
+            "tip": "Lamb or beef stewed in a clay pot. Try it at one of the restaurants inside the castle."
+          },
+          {
+            "name": "İskender Kebap",
+            "tip": "Thinly sliced lamb on pita bread with tomato sauce and yogurt."
+          },
+          {
+            "name": "Baklava",
+            "tip": "For dessert, especially good at 'Hafız Mustafa 1864'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gençlik Parkı",
+            "tip": "Machen Sie eine Pause am See, besonders schön am späten Nachmittag.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Garten der Hacı-Bayram-Moschee",
+            "tip": "Ein ruhiger Ort, um die Atmosphäre nach dem Moscheebesuch auf sich wirken zu lassen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Aussicht von der Burg",
+            "tip": "Finden Sie eine ruhige Ecke entlang der Mauern, um den Sonnenuntergang zu beobachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gençlik Park",
+            "tip": "Pihenjen a tó partján, különösen szép késő délután.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Hacı Bayram-mecset kertje",
+            "tip": "Csendes hely, ahol a mecsetlátogatás után elmélyedhet a hangulatban.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás a várból",
+            "tip": "Keressen egy csendes zugot a falak mentén, és nézze a naplementét.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Gençlik",
+            "tip": "Luați o pauză lângă lac, deosebit de frumos după-amiaza târziu.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Moscheii Hacı Bayram",
+            "tip": "Un loc liniștit pentru a absorbi atmosfera după vizitarea moscheii.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Priveliștea de la Castel",
+            "tip": "Găsiți un colț liniștit de-a lungul zidurilor pentru a privi apusul.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gençlik Park",
+            "tip": "Take a break by the lake, especially beautiful in the late afternoon.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hacı Bayram Mosque Garden",
+            "tip": "A quiet spot to absorb the atmosphere after visiting the mosque.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from the Castle",
+            "tip": "Find a quiet corner along the walls to watch the sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Çıkrıkçılar Yokuşu",
+            "tip": "Eine Straße in der Nähe der Burg, bekannt für traditionelle Textilien, Kupferwaren und Antiquitäten."
+          },
+          {
+            "name": "Samanpazarı",
+            "tip": "Der 'Strohmarkt' unterhalb der Burg, ideal für Gewürze und lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Çıkrıkçılar Yokuşu",
+            "tip": "A várhoz közeli utca, amely hagyományos textíliáiról, rézáruiról és régiségeiről ismert."
+          },
+          {
+            "name": "Samanpazarı",
+            "tip": "A 'Szénapiac' a vár alatt, ideális fűszerek és helyi termékek vásárlására."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Çıkrıkçılar Yokuşu",
+            "tip": "O stradă lângă castel, renumită pentru textile tradiționale, obiecte din cupru și antichități."
+          },
+          {
+            "name": "Samanpazarı",
+            "tip": "'Piața de paie' de sub castel, ideală pentru condimente și produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Çıkrıkçılar Yokuşu",
+            "tip": "A street near the castle known for traditional textiles, copper goods, and antiques."
+          },
+          {
+            "name": "Samanpazarı",
+            "tip": "The 'Straw Market' below the castle, great for spices and local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Haben Sie immer etwas Bargeld dabei, besonders für kleinere Geschäfte und Märkte.",
+          "Respektieren Sie die Gebetszeiten, wenn Sie Moscheen besuchen.",
+          "Eine wiederverwendbare Wasserflasche ist bei der Erkundung der Stadt sehr nützlich."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros macskakövei egyenetlenek lehetnek.",
+          "Mindig legyen Önnél készpénz, különösen a kisebb boltokban és piacokon.",
+          "Tartsa tiszteletben az imaidőket a mecsetek látogatásakor.",
+          "Egy újratölthető vizes palack nagyon hasznos a város felfedezése közben."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din orașul vechi poate fi denivelat.",
+          "Aveți întotdeauna numerar la dumneavoastră, mai ales pentru magazinele și piețele mai mici.",
+          "Respectați orele de rugăciune când vizitați moscheile.",
+          "O sticlă de apă reutilizabilă este foarte utilă în timp ce explorați orașul."
+        ],
+        "en": [
+          "Wear comfortable shoes, as the cobblestones in the old town can be uneven.",
+          "Always have some cash on you, especially for smaller shops and markets.",
+          "Be respectful of prayer times when visiting mosques.",
+          "A reusable water bottle is very useful while exploring the city."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Gençlik-Park",
+            "hu": "Gençlik Park",
+            "ro": "Parcul Gençlik",
+            "en": "Gençlik Park"
+          },
+          "coords": [
+            32.8495,
+            39.936
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Mieten Sie ein Fahrrad in der Nähe und starten Sie den Tag mit einer Runde um den See.",
+            "hu": "Béreljen kerékpárt a közelben, és kezdje a napot egy körrel a tó körül.",
+            "ro": "Închiriați o bicicletă din apropiere și începeți ziua cu o tură în jurul lacului.",
+            "en": "Rent a bike nearby and start the day with a ride around the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Anıtkabir",
+            "hu": "Anıtkabir",
+            "ro": "Anıtkabir",
+            "en": "Anıtkabir"
+          },
+          "coords": [
+            32.8376,
+            39.9252
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:18",
+          "stay_min": 90,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Eingang gut ab. Der Komplex ist riesig.",
+            "hu": "Zárja le biztonságosan a kerékpárját a bejáratnál. A komplexum hatalmas.",
+            "ro": "Asigurați-vă bicicleta la intrare. Complexul este vast.",
+            "en": "Lock your bike securely at the entrance. The complex is vast."
+          }
+        },
+        {
+          "name": {
+            "de": "Kocatepe-Moschee",
+            "hu": "Kocatepe-mecset",
+            "ro": "Moscheea Kocatepe",
+            "en": "Kocatepe Mosque"
+          },
+          "coords": [
+            32.8584,
+            39.9149
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:08",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Eine der größten Moscheen der Welt. Ihre moderne osmanische Architektur ist beeindruckend.",
+            "hu": "A világ egyik legnagyobb mecsete. Modern oszmán építészete lenyűgöző.",
+            "ro": "Una dintre cele mai mari moschei din lume. Arhitectura sa modernă otomană este impresionantă.",
+            "en": "One of the largest mosques in the world. Its modern Ottoman architecture is impressive."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Ankara",
+            "hu": "Ankarai vár",
+            "ro": "Castelul din Ankara",
+            "en": "Ankara Castle"
+          },
+          "coords": [
+            32.8643,
+            39.9416
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:11",
+          "stay_min": 120,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad am Fuße des Hügels ab und genießen Sie ein wohlverdientes Mittagessen in der Burg.",
+            "hu": "Hagyja a biciklit a hegy lábánál, és élvezzen egy jól megérdemelt ebédet a várban.",
+            "ro": "Lăsați bicicleta la poalele dealului și bucurați-vă de un prânz binemeritat în interiorul castelului.",
+            "en": "Park your bike at the base of the hill and enjoy a well-deserved lunch inside the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für anatolische Zivilisationen",
+            "hu": "Anatóliai Civilizációk Múzeuma",
+            "ro": "Muzeul Civilizațiilor Anatoliene",
+            "en": "Museum of Anatolian Civilizations"
+          },
+          "coords": [
+            32.8625,
+            39.9385
+          ],
+          "category": "museums",
+          "arrive_at": "15:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Nach dem Mittagessen ein perfekter Ort, um der Hitze zu entkommen und in die Geschichte einzutauchen.",
+            "hu": "Ebéd után tökéletes hely a hőség elől, hogy elmerüljön a történelemben.",
+            "ro": "După prânz, este un loc perfect pentru a scăpa de căldură și a vă cufunda în istorie.",
+            "en": "After lunch, it's a perfect spot to escape the heat and dive into history."
+          }
+        },
+        {
+          "name": {
+            "de": "Atakule",
+            "hu": "Atakule",
+            "ro": "Atakule",
+            "en": "Atakule"
+          },
+          "coords": [
+            32.8538,
+            39.8887
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "17:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem 360-Grad-Blick auf Ankara bei Sonnenuntergang.",
+            "hu": "Zárja a napot egy 360 fokos panorámával Ankarára naplementekor.",
+            "ro": "Încheiați ziua cu o priveliște de 360 de grade a Ankarei la apus.",
+            "en": "End your day with a 360-degree view of Ankara at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrradtour startet im grünen Gençlik-Park. Am Vormittag radeln Sie zum monumentalen Anıtkabir, um Atatürk die Ehre zu erweisen. Danach geht es weiter zur beeindruckenden Kocatepe-Moschee im Herzen der modernen Stadt. Der Mittag ist für die Erkundung der historischen Burg von Ankara reserviert, wo ein Mittagessen mit Aussicht auf Sie wartet. Nachmittags tauchen Sie in die reiche Vergangenheit im Museum für anatolische Zivilisationen ein, bevor Sie den Tag mit einer Fahrt zum Atakule-Turm krönen, um den Sonnenuntergang über der Metropole zu erleben.",
+        "hu": "A kerékpártúra a zöld Gençlik Parkban kezdődik. Délelőtt a monumentális Anıtkabirhoz teker, hogy tisztelegjen Atatürk emléke előtt. Ezután a modern város szívében álló lenyűgöző Kocatepe-mecset felé veszi az irányt. A déli órák az ankarai vár felfedezésére vannak szánva, ahol egy kilátással egybekötött ebéd várja. Délután az Anatóliai Civilizációk Múzeumában merülhet el a gazdag múltban, mielőtt a napot az Atakule-toronyhoz tett túrával koronázza meg, hogy megnézze a naplementét a metropolisz felett.",
+        "ro": "Turul cu bicicleta începe în verdele Parc Gençlik. Dimineața pedalați spre monumentalul Anıtkabir pentru a aduce un omagiu lui Atatürk. Apoi continuați spre impresionanta Moschee Kocatepe, în inima orașului modern. Prânzul este rezervat pentru explorarea Castelului istoric din Ankara, unde vă așteaptă un prânz cu priveliște. După-amiaza vă cufundați în trecutul bogat la Muzeul Civilizațiilor Anatoliene, înainte de a încorona ziua cu o plimbare până la turnul Atakule pentru a admira apusul peste metropolă.",
+        "en": "Your bike tour starts in the green Gençlik Park. In the morning, you'll cycle to the monumental Anıtkabir to pay respects to Atatürk. Afterwards, you'll continue to the impressive Kocatepe Mosque in the heart of the modern city. Midday is reserved for exploring the historic Ankara Castle, where a lunch with a view awaits. In the afternoon, you'll dive into the rich past at the Museum of Anatolian Civilizations before crowning the day with a ride to the Atakule tower to watch the sunset over the metropolis."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gözleme",
+            "tip": "Dünne, gefüllte Fladenbrote. Ein schneller und leckerer Snack für unterwegs."
+          },
+          {
+            "name": "Tavuk Döner Dürüm",
+            "tip": "Hähnchen-Döner im Wrap, perfekt für ein schnelles Mittagessen."
+          },
+          {
+            "name": "Ayran",
+            "tip": "Ein erfrischendes Joghurtgetränk, ideal nach einer anstrengenden Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gözleme",
+            "tip": "Vékony, töltött lepénykenyér. Gyors és finom harapnivaló útközben."
+          },
+          {
+            "name": "Tavuk Döner Dürüm",
+            "tip": "Csirkés döner wrapben, tökéletes egy gyors ebédhez."
+          },
+          {
+            "name": "Ayran",
+            "tip": "Frissítő joghurtital, ideális egy fárasztó biciklizés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gözleme",
+            "tip": "Lipii subțiri umplute. O gustare rapidă și delicioasă pentru drum."
+          },
+          {
+            "name": "Tavuk Döner Dürüm",
+            "tip": "Shaorma de pui, perfectă pentru un prânz rapid."
+          },
+          {
+            "name": "Ayran",
+            "tip": "O băutură răcoritoare din iaurt, ideală după o tură obositoare cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gözleme",
+            "tip": "Thin, filled flatbreads. A quick and delicious snack on the go."
+          },
+          {
+            "name": "Tavuk Döner Dürüm",
+            "tip": "Chicken döner wrap, perfect for a quick lunch."
+          },
+          {
+            "name": "Ayran",
+            "tip": "A refreshing yogurt drink, ideal after a strenuous bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Botanischer Garten Ankara",
+            "tip": "Ein friedlicher Ort in der Nähe von Atakule für eine Pause im Grünen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Eymir-See",
+            "tip": "Etwas außerhalb, aber eine beliebte Wahl für längere, ruhige Radtouren am Wochenende.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ahlatlıbel Atatürk Parkı",
+            "tip": "Großer Park, ideal um dem Stadttrubel für eine Weile zu entkommen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ankarai Botanikus Kert",
+            "tip": "Békés hely az Atakule közelében egy zöld pihenőhöz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Eymir-tó",
+            "tip": "Kicsit távolabb esik, de népszerű választás hosszabb, csendes hétvégi kerékpártúrákhoz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ahlatlıbel Atatürk Park",
+            "tip": "Nagy park, ideális a városi nyüzsgés elől való elmeneküléshez egy időre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică din Ankara",
+            "tip": "Un loc pașnic lângă Atakule pentru o pauză în natură.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Lacul Eymir",
+            "tip": "Puțin în afara orașului, dar o alegere populară pentru plimbări mai lungi și liniștite cu bicicleta în weekend.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Ahlatlıbel Atatürk",
+            "tip": "Parc mare, ideal pentru a evada din agitația orașului pentru o vreme.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ankara Botanical Garden",
+            "tip": "A peaceful spot near Atakule for a green break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Lake Eymir",
+            "tip": "A bit further out, but a popular choice for longer, quiet weekend bike rides.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ahlatlıbel Atatürk Park",
+            "tip": "Large park, ideal for escaping the city bustle for a while.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ankara ist hügelig, seien Sie auf einige Anstiege vorbereitet, besonders zur Burg.",
+          "Nutzen Sie Fahrrad-Apps, um die besten Routen zu finden, da Radwege nicht immer vorhanden sind.",
+          "Tragen Sie einen Helm und seien Sie im dichten Verkehr vorsichtig.",
+          "Der Verkehr kann chaotisch sein, besonders während der Stoßzeiten."
+        ],
+        "hu": [
+          "Ankara hegyvidékes, készüljön fel néhány emelkedőre, különösen a várhoz vezető úton.",
+          "Használjon kerékpáros alkalmazásokat a legjobb útvonalak megtalálásához, mivel a kerékpárutak nem mindig állnak rendelkezésre.",
+          "Viseljen sisakot és legyen óvatos a sűrű forgalomban.",
+          "A forgalom kaotikus lehet, különösen csúcsidőben."
+        ],
+        "ro": [
+          "Ankara este deluroasă, fiți pregătit pentru câteva urcări, în special spre castel.",
+          "Folosiți aplicații pentru biciclete pentru a găsi cele mai bune rute, deoarece pistele de biciclete nu sunt întotdeauna disponibile.",
+          "Purtați cască și fiți prudenți în traficul aglomerat.",
+          "Traficul poate fi haotic, mai ales la orele de vârf."
+        ],
+        "en": [
+          "Ankara is hilly, be prepared for some climbs, especially towards the castle.",
+          "Use cycling apps to find the best routes, as bike lanes are not always present.",
+          "Wear a helmet and be cautious in heavy traffic.",
+          "Traffic can be chaotic, especially during rush hours."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 19.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Atakule",
+            "hu": "Atakule",
+            "ro": "Atakule",
+            "en": "Atakule"
+          },
+          "coords": [
+            32.8538,
+            39.8887
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einer fantastischen Aussicht, bevor die Menschenmassen kommen. Gute Parkmöglichkeiten am Morgen.",
+            "hu": "Kezdje a napot egy fantasztikus kilátással, mielőtt a tömeg megérkezik. Reggel jó parkolási lehetőségek vannak.",
+            "ro": "Începeți ziua cu o priveliște fantastică înainte de a se aglomera. Parcarea este bună dimineața.",
+            "en": "Start the day with a fantastic view before the crowds arrive. Good parking in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Kocatepe-Moschee",
+            "hu": "Kocatepe-mecset",
+            "ro": "Moscheea Kocatepe",
+            "en": "Kocatepe Mosque"
+          },
+          "coords": [
+            32.8584,
+            39.9149
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Tiefgarage der Moschee. Es ist bequem und sicher.",
+            "hu": "Parkoljon a mecset mélygarázsában. Kényelmes és biztonságos.",
+            "ro": "Parcați în parcarea subterană a moscheii. Este convenabil și sigur.",
+            "en": "Park in the mosque's underground car park. It's convenient and secure."
+          }
+        },
+        {
+          "name": {
+            "de": "Anıtkabir",
+            "hu": "Anıtkabir",
+            "ro": "Anıtkabir",
+            "en": "Anıtkabir"
+          },
+          "coords": [
+            32.8376,
+            39.9252
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Der Parkplatz ist groß, aber kommen Sie früh, um einen guten Platz zu bekommen.",
+            "hu": "A parkoló nagy, de érkezzen korán, hogy jó helyet találjon.",
+            "ro": "Parcarea este mare, dar ajungeți devreme pentru a prinde un loc bun.",
+            "en": "The parking lot is large, but arrive early to get a good spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Ankara",
+            "hu": "Ankarai vár",
+            "ro": "Castelul din Ankara",
+            "en": "Ankara Castle"
+          },
+          "coords": [
+            32.8643,
+            39.9416
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:57",
+          "stay_min": 60,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie unterhalb der Burg und gehen Sie das letzte Stück zu Fuß. Die Gassen sind sehr eng.",
+            "hu": "Parkoljon a vár alatt, és tegye meg az utolsó szakaszt gyalog. Az utcák nagyon szűkek.",
+            "ro": "Parcați sub castel și mergeți pe jos ultima porțiune. Străduțele sunt foarte înguste.",
+            "en": "Park below the castle and walk the last part. The alleys are very narrow."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für anatolische Zivilisationen",
+            "hu": "Anatóliai Civilizációk Múzeuma",
+            "ro": "Muzeul Civilizațiilor Anatoliene",
+            "en": "Museum of Anatolian Civilizations"
+          },
+          "coords": [
+            32.8625,
+            39.9385
+          ],
+          "category": "museums",
+          "arrive_at": "14:03",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Schloss aus ist es ein kurzer Spaziergang. Lassen Sie das Auto geparkt.",
+            "hu": "A vártól rövid sétára található. Hagyja az autót leparkolva.",
+            "ro": "Este o plimbare scurtă de la castel. Lăsați mașina parcată.",
+            "en": "It's a short walk from the castle. Leave the car parked."
+          }
+        },
+        {
+          "name": {
+            "de": "Hamamönü-Viertel",
+            "hu": "Hamamönü negyed",
+            "ro": "Cartierul Hamamönü",
+            "en": "Hamamönü Quarter"
+          },
+          "coords": [
+            32.8655,
+            39.9342
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:11",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die restaurierten Straßen und genießen Sie die Atmosphäre.",
+            "hu": "Sétáljon végig a felújított utcákon és élvezze a hangulatot.",
+            "ro": "Plimbați-vă pe străzile restaurate și bucurați-vă de atmosferă.",
+            "en": "Stroll through the restored streets and enjoy the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Gençlik-Park",
+            "hu": "Gençlik Park",
+            "ro": "Parcul Gençlik",
+            "en": "Gençlik Park"
+          },
+          "coords": [
+            32.8495,
+            39.936
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:13",
+          "stay_min": 72,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 3.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein entspannender Abschluss des Tages mit einem Spaziergang am See.",
+            "hu": "A nap pihentető befejezése egy tóparti sétával.",
+            "ro": "O încheiere relaxantă a zilei cu o plimbare pe malul lacului.",
+            "en": "A relaxing end to the day with a walk by the lake."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt mit Weitblick vom Atakule-Turm im Süden der Stadt. Anschließend fahren Sie zum ersten Cluster, wo Sie die moderne Kocatepe-Moschee und das monumentale Anıtkabir besuchen. Mittags steuern Sie das zweite Cluster an: das historische Herz der Stadt. Parken Sie Ihr Auto und erkunden Sie zu Fuß die alte Burg von Ankara. Schlendern Sie von dort zum weltberühmten Museum für anatolische Zivilisationen und durch das charmante Hamamönü-Viertel. Den Tag lassen Sie entspannt im Gençlik-Park ausklingen, Ihrem letzten Autostopp.",
+        "hu": "Az autós nap a város déli részén található Atakule-toronyból nyíló pazar kilátással kezdődik. Ezután az első állomás csoporthoz hajt, ahol a modern Kocatepe-mecsetet és a monumentális Anıtkabirt látogatja meg. Délben a második célponthoz, a város történelmi szívéhez indul. Parkolja le autóját, és fedezze fel gyalog az ankarai várat. Onnan sétáljon el a világhírű Anatóliai Civilizációk Múzeumához és a bájos Hamamönü negyedbe. A napot a Gençlik Parkban, az utolsó autós megállónál, pihenéssel zárja.",
+        "ro": "Ziua cu mașina începe cu o priveliște panoramică de la Turnul Atakule, în sudul orașului. Apoi, conduceți către primul grup de obiective, unde vizitați Moscheea modernă Kocatepe și monumentalul Anıtkabir. La prânz, vă îndreptați spre al doilea grup: inima istorică a orașului. Parcați mașina și explorați pe jos vechiul Castel din Ankara. De acolo, plimbați-vă până la faimosul Muzeu al Civilizațiilor Anatoliene și prin fermecătorul cartier Hamamönü. Încheiați ziua relaxându-vă în Parcul Gençlik, ultima oprire cu mașina.",
+        "en": "Your car journey begins with a panoramic view from Atakule Tower in the south of the city. You'll then drive to the first cluster, visiting the modern Kocatepe Mosque and the monumental Anıtkabir. At noon, you'll head to the second cluster: the city's historic heart. Park your car and explore the ancient Ankara Castle on foot. From there, stroll to the world-famous Museum of Anatolian Civilizations and through the charming Hamamönü Quarter. End your day relaxing in Gençlik Park, your final car stop."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Aspava",
+            "tip": "Eine lokale Restaurantkette, berühmt für ihren großzügigen Service mit vielen kostenlosen Vorspeisen (Meze)."
+          },
+          {
+            "name": "Ankara Tava",
+            "tip": "Ein herzhaftes Reisgericht mit Lammfleisch, das langsam mit Tomaten und Paprika gekocht wird."
+          },
+          {
+            "name": "Simit",
+            "tip": "Der allgegenwärtige Sesamkringel, perfekt als Snack für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aspava",
+            "tip": "Helyi étteremlánc, amely híres a bőséges kiszolgálásáról és a sok ingyenes előételről (meze)."
+          },
+          {
+            "name": "Ankara Tava",
+            "tip": "Kiadós rizses étel bárányhússal, lassan főzve paradicsommal és paprikával."
+          },
+          {
+            "name": "Simit",
+            "tip": "A mindenütt jelenlévő szezámos perec, tökéletes útközbeni harapnivaló."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Aspava",
+            "tip": "Un lanț local de restaurante, renumit pentru serviciile sale generoase cu multe aperitive gratuite (meze)."
+          },
+          {
+            "name": "Ankara Tava",
+            "tip": "Un fel de mâncare consistent cu orez și carne de miel, gătit lent cu roșii și ardei."
+          },
+          {
+            "name": "Simit",
+            "tip": "Covrigul cu susan omniprezent, perfect ca gustare pe drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Aspava",
+            "tip": "A local restaurant chain famous for its generous service with lots of free appetizers (meze)."
+          },
+          {
+            "name": "Ankara Tava",
+            "tip": "A hearty rice dish with lamb, slow-cooked with tomatoes and peppers."
+          },
+          {
+            "name": "Simit",
+            "tip": "The ubiquitous sesame ring, perfect for a snack on the go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kuğulu Park (Schwanenpark)",
+            "tip": "Ein kleiner, charmanter Park in der Nähe von Atakule, ideal für eine kurze, ruhige Pause.",
+            "emoji": "🦢"
+          },
+          {
+            "name": "AOÇ (Atatürk Orman Çiftliği)",
+            "tip": "Eine riesige städtische Farm und ein Erholungsgebiet, ideal für einen längeren Aufenthalt abseits des Zentrums.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dikmen-Tal",
+            "tip": "Ein langes, grünes Tal, das sich durch die Stadt zieht, mit Wegen zum Spazierengehen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kuğulu Park (Hattyú Park)",
+            "tip": "Kicsi, bájos park az Atakule közelében, ideális egy rövid, csendes pihenőre.",
+            "emoji": "🦢"
+          },
+          {
+            "name": "AOÇ (Atatürk Erdőgazdaság)",
+            "tip": "Hatalmas városi gazdaság és rekreációs terület, ideális egy hosszabb tartózkodásra a központtól távol.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dikmen-völgy",
+            "tip": "Hosszú, zöld völgy a városon keresztül, sétálóutakkal.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Kuğulu (Parcul cu lebede)",
+            "tip": "Un parc mic și fermecător lângă Atakule, ideal pentru o scurtă pauză liniștită.",
+            "emoji": "🦢"
+          },
+          {
+            "name": "AOÇ (Ferma Forestieră Atatürk)",
+            "tip": "O fermă urbană imensă și zonă de agrement, excelentă pentru o ședere mai lungă departe de centru.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Valea Dikmen",
+            "tip": "O vale lungă și verde care traversează orașul, cu poteci pentru plimbare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kuğulu Park (Swan Park)",
+            "tip": "A small, charming park near Atakule, ideal for a short, quiet break.",
+            "emoji": "🦢"
+          },
+          {
+            "name": "AOÇ (Atatürk Forest Farm)",
+            "tip": "A huge urban farm and recreational area, great for a longer stay away from the center.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dikmen Valley",
+            "tip": "A long, green valley running through the city, with paths for walking.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in der Innenstadt kann schwierig sein. Nutzen Sie kostenpflichtige Parkplätze oder Tiefgaragen.",
+          "Der Verkehr in Ankara ist während der Stoßzeiten sehr dicht. Planen Sie Ihre Fahrten entsprechend.",
+          "Eine GPS-App ist unerlässlich, um sich in der Stadt zurechtzufinden.",
+          "Achten Sie auf die Geschwindigkeitsbegrenzungen und die örtlichen Verkehrsregeln."
+        ],
+        "hu": [
+          "A belvárosban nehéz lehet parkolni. Használjon fizetős parkolókat vagy mélygarázsokat.",
+          "Ankarában csúcsidőben nagyon sűrű a forgalom. Tervezze meg utazásait ennek megfelelően.",
+          "GPS-alkalmazás elengedhetetlen a városban való tájékozódáshoz.",
+          "Ügyeljen a sebességkorlátozásokra és a helyi közlekedési szabályokra."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi dificilă. Folosiți parcări cu plată sau subterane.",
+          "Traficul în Ankara este foarte aglomerat la orele de vârf. Planificați-vă călătoriile în consecință.",
+          "O aplicație GPS este esențială pentru a vă orienta în oraș.",
+          "Fiți atenți la limitele de viteză și la regulile de circulație locale."
+        ],
+        "en": [
+          "Parking in the city center can be difficult. Use paid parking lots or underground garages.",
+          "Traffic in Ankara is very heavy during rush hours. Plan your drives accordingly.",
+          "A GPS app is essential for navigating the city.",
+          "Pay attention to speed limits and local traffic rules."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 11.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hacı-Bayram-Moschee",
+            "hu": "Hacı Bayram-mecset",
+            "ro": "Moscheea Hacı Bayram",
+            "en": "Hacı Bayram Mosque"
+          },
+          "coords": [
+            32.858,
+            39.9445
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie die Metro bis zur Station Ulus. Von dort sind es nur wenige Gehminuten.",
+            "hu": "Menjen metróval az Ulus állomásig. Onnan csak néhány perc séta.",
+            "ro": "Luați metroul până la stația Ulus. De acolo sunt doar câteva minute de mers pe jos.",
+            "en": "Take the metro to Ulus station. It's just a short walk from there."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Bäder",
+            "hu": "Római fürdők",
+            "ro": "Băile Romane",
+            "en": "Roman Baths"
+          },
+          "coords": [
+            32.8561,
+            39.9472
+          ],
+          "category": "historical",
+          "arrive_at": "09:51",
+          "stay_min": 50,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Moschee aus, der Sie weiter in die Vergangenheit führt.",
+            "hu": "Rövid séta a mecsettől, amely visszavezeti a múltba.",
+            "ro": "O scurtă plimbare de la moschee care vă duce mai adânc în trecut.",
+            "en": "A short walk from the mosque that takes you further back in time."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Ankara",
+            "hu": "Ankarai vár",
+            "ro": "Castelul din Ankara",
+            "en": "Ankara Castle"
+          },
+          "coords": [
+            32.8643,
+            39.9416
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:59",
+          "stay_min": 90,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht und ein Mittagessen in den engen Gassen der Burg.",
+            "hu": "Élvezze a kilátást és ebédeljen a vár szűk utcáin.",
+            "ro": "Bucurați-vă de priveliște și de un prânz pe străduțele înguste ale castelului.",
+            "en": "Enjoy the view and have lunch in the narrow streets of the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Gençlik-Park",
+            "hu": "Gençlik Park",
+            "ro": "Parcul Gençlik",
+            "en": "Gençlik Park"
+          },
+          "coords": [
+            32.8495,
+            39.936
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:01",
+          "stay_min": 45,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Ulus-Platz zur Station Sıhhiye, um zum Park zu gelangen.",
+            "hu": "Menjen busszal az Ulus térről a Sıhhiye állomásra, hogy eljusson a parkba.",
+            "ro": "Luați un autobuz din Piața Ulus până la stația Sıhhiye pentru a ajunge la parc.",
+            "en": "Take a bus from Ulus Square to Sıhhiye station to get to the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Anıtkabir",
+            "hu": "Anıtkabir",
+            "ro": "Anıtkabir",
+            "en": "Anıtkabir"
+          },
+          "coords": [
+            32.8376,
+            39.9252
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:58",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Park aus ist es ein längerer, aber machbarer Spaziergang durch das Viertel Anıttepe.",
+            "hu": "A parkból egy hosszabb, de teljesíthető séta az Anıttepe negyeden keresztül.",
+            "ro": "Din parc este o plimbare mai lungă, dar fezabilă prin cartierul Anıttepe.",
+            "en": "From the park, it's a longer but manageable walk through the Anıttepe neighborhood."
+          }
+        },
+        {
+          "name": {
+            "de": "Kocatepe-Moschee",
+            "hu": "Kocatepe-mecset",
+            "ro": "Moscheea Kocatepe",
+            "en": "Kocatepe Mosque"
+          },
+          "coords": [
+            32.8584,
+            39.9149
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie die Ankaray-Linie von Maltepe nach Kızılay und gehen Sie ein kurzes Stück.",
+            "hu": "Menjen az Ankaray vonallal Maltepéből Kızılayba, majd sétáljon egy rövid szakaszt.",
+            "ro": "Luați linia Ankaray de la Maltepe la Kızılay și mergeți pe jos o distanță scurtă.",
+            "en": "Take the Ankaray line from Maltepe to Kızılay and walk a short distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Atakule",
+            "hu": "Atakule",
+            "ro": "Atakule",
+            "en": "Atakule"
+          },
+          "coords": [
+            32.8538,
+            39.8887
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "17:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang durch das Botschaftsviertel, um den Tag ausklingen zu lassen.",
+            "hu": "Kellemes séta a nagykövetségi negyedben a nap befejezéseként.",
+            "ro": "O plimbare plăcută prin cartierul ambasadelor pentru a încheia ziua.",
+            "en": "A pleasant walk through the embassy district to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln starten Sie im historischen Ulus-Viertel. Ihr erster Cluster umfasst die Hacı-Bayram-Moschee, die Römischen Bäder und die Burg von Ankara, alles bequem zu Fuß erreichbar. Nach dem Mittagessen bringt Sie ein Bus zum zweiten Cluster: dem Gençlik-Park und dem nahegelegenen Anıtkabir. Am späten Nachmittag fahren Sie mit der Metro zum Kızılay-Platz, dem Herzen des modernen Ankara, um von dort zur Kocatepe-Moschee und schließlich zum Atakule-Turm zu spazieren, wo Sie den Tag mit einer grandiosen Aussicht beenden.",
+        "hu": "Tömegközlekedéssel a történelmi Ulus negyedben kezdi a napot. Az első állomás csoport a Hacı Bayram-mecsetet, a Római fürdőket és az ankarai várat foglalja magában, mind könnyen elérhető gyalog. Ebéd után busszal jut el a második csoporthoz: a Gençlik Parkhoz és a közeli Anıtkabirhoz. Késő délután metróval utazik a Kızılay térre, a modern Ankara szívébe, ahonnan elsétál a Kocatepe-mecsethez és végül az Atakule-toronyhoz, ahol a napot egy nagyszerű kilátással zárja.",
+        "ro": "Folosind transportul public, începeți ziua în cartierul istoric Ulus. Primul grup de obiective include Moscheea Hacı Bayram, Băile Romane și Castelul din Ankara, toate accesibile pe jos. După prânz, un autobuz vă duce la al doilea grup: Parcul Gençlik și Anıtkabir din apropiere. Spre seară, luați metroul până în Piața Kızılay, inima Ankarei moderne, pentru a vă plimba până la Moscheea Kocatepe și, în final, la Turnul Atakule, unde încheiați ziua cu o priveliște magnifică.",
+        "en": "Using public transport, you'll start your day in the historic Ulus district. Your first cluster includes the Hacı Bayram Mosque, the Roman Baths, and Ankara Castle, all easily reachable on foot. After lunch, a bus will take you to the second cluster: Gençlik Park and the nearby Anıtkabir. In the late afternoon, you'll take the metro to Kızılay Square, the heart of modern Ankara, to walk to Kocatepe Mosque and finally to Atakule Tower, where you'll end the day with a magnificent view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Beypazarı Güveci",
+            "tip": "Ein langsam gekochter Lammeintopf, der in der ganzen Region berühmt ist."
+          },
+          {
+            "name": "Lokma",
+            "tip": "Süße, frittierte Teigbällchen in Sirup getaucht. Suchen Sie nach Straßenverkäufern."
+          },
+          {
+            "name": "Çay",
+            "tip": "Türkischer Tee. Ein Muss in einem der vielen Teegärten (Çay Bahçesi)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Beypazarı güveci",
+            "tip": "Lassan főtt bárányragu, amely az egész régióban híres."
+          },
+          {
+            "name": "Lokma",
+            "tip": "Édes, sült tésztagolyók szirupba mártva. Keresse az utcai árusoknál."
+          },
+          {
+            "name": "Çay",
+            "tip": "Török tea. Kötelező program az egyik teázó kertben (Çay Bahçesi)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Beypazarı Güveci",
+            "tip": "O tocană de miel gătită lent, renumită în întreaga regiune."
+          },
+          {
+            "name": "Lokma",
+            "tip": "Gogoșele dulci, prăjite, înmuiate în sirop. Căutați vânzătorii ambulanți."
+          },
+          {
+            "name": "Çay",
+            "tip": "Ceai turcesc. O necesitate într-una dintre numeroasele grădini de ceai (Çay Bahçesi)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Beypazarı Güveci",
+            "tip": "A slow-cooked lamb stew famous throughout the region."
+          },
+          {
+            "name": "Lokma",
+            "tip": "Sweet, fried dough balls dipped in syrup. Look for street vendors."
+          },
+          {
+            "name": "Çay",
+            "tip": "Turkish tea. A must-have in one of the many tea gardens (Çay Bahçesi)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Erimtan-Museumscafé",
+            "tip": "Ein ruhiges, modernes Café mit Blick auf die Altstadt, perfekt nach einem Museumsbesuch.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Seğmenler Parkı",
+            "tip": "Ein weiterer schöner Park im Stadtteil Çankaya, um dem Trubel zu entfliehen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Altınköy Açık Hava Müzesi",
+            "tip": "Ein Freilichtmuseum am Stadtrand, das ein türkisches Dorf nachbildet. Mit dem Bus erreichbar.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Erimtan Múzeum Kávézó",
+            "tip": "Csendes, modern kávézó kilátással az óvárosra, tökéletes a múzeumlátogatás után.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Seğmenler Park",
+            "tip": "Egy másik szép park a Çankaya negyedben, ahol elmenekülhet a nyüzsgés elől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Altınköy Szabadtéri Múzeum",
+            "tip": "Szabadtéri múzeum a város szélén, amely egy török falut elevenít meg. Busszal elérhető.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafeneaua Muzeului Erimtan",
+            "tip": "O cafenea liniștită și modernă, cu vedere la orașul vechi, perfectă după o vizită la muzeu.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Seğmenler",
+            "tip": "Un alt parc frumos în districtul Çankaya pentru a evada din agitație.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Muzeul în aer liber Altınköy",
+            "tip": "Un muzeu în aer liber la marginea orașului, care recreează un sat turcesc. Accesibil cu autobuzul.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Erimtan Museum Café",
+            "tip": "A quiet, modern café overlooking the old town, perfect after a museum visit.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Seğmenler Park",
+            "tip": "Another beautiful park in the Çankaya district to escape the hustle and bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Altınköy Open Air Museum",
+            "tip": "An open-air museum on the outskirts of the city that recreates a Turkish village. Accessible by bus.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine 'Ankarakart' für eine einfache Nutzung aller öffentlichen Verkehrsmittel.",
+          "Die Metro ist schnell und effizient für lange Strecken, während Busse mehr Gebiete abdecken.",
+          "Planen Sie Ihre Routen im Voraus mit einer ÖPNV-App, da das Netz komplex sein kann.",
+          "Zu Stoßzeiten können Busse und Metros sehr voll sein."
+        ],
+        "hu": [
+          "Vásároljon egy 'Ankarakart'-ot a tömegközlekedési eszközök egyszerű használatához.",
+          "A metró gyors és hatékony a hosszabb távolságokra, míg a buszok több területet fednek le.",
+          "Tervezze meg előre az útvonalakat egy tömegközlekedési alkalmazással, mivel a hálózat bonyolult lehet.",
+          "Csúcsidőben a buszok és a metrók nagyon zsúfoltak lehetnek."
+        ],
+        "ro": [
+          "Cumpărați un 'Ankarakart' pentru utilizarea ușoară a tuturor mijloacelor de transport public.",
+          "Metroul este rapid și eficient pentru distanțe lungi, în timp ce autobuzele acoperă mai multe zone.",
+          "Planificați-vă rutele în avans cu o aplicație de transport public, deoarece rețeaua poate fi complexă.",
+          "La orele de vârf, autobuzele și metrourile pot fi foarte aglomerate."
+        ],
+        "en": [
+          "Buy an 'Ankarakart' for easy use of all public transport.",
+          "The metro is fast and efficient for long distances, while buses cover more areas.",
+          "Plan your routes in advance with a public transport app, as the network can be complex.",
+          "During rush hours, buses and metros can be very crowded."
+        ]
+      }
+    }
+  }
+}

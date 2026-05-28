@@ -1,0 +1,1303 @@
+{
+  "city_id": "slovenia-jesenice-cities-v2",
+  "anchor": {
+    "name": "Jesenice",
+    "coords": [
+      14.055,
+      46.436
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stara Sava",
+            "hu": "Stara Sava (Régi Sava)",
+            "ro": "Stara Sava",
+            "en": "Stara Sava (Old Sava)"
+          },
+          "coords": [
+            14.0678,
+            46.4305
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das Herz der Eisenindustrie von Jesenice.",
+            "hu": "Fedezze fel Jesenice vasiparának szívét.",
+            "ro": "Explorați inima industriei siderurgice din Jesenice.",
+            "en": "Explore the heart of Jesenice's iron industry."
+          }
+        },
+        {
+          "name": {
+            "de": "Kolpern",
+            "hu": "Kolpern (Szénraktár)",
+            "ro": "Kolpern",
+            "en": "Kolpern (Charcoal storage)"
+          },
+          "coords": [
+            14.067,
+            46.4301
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:46",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein alter Kohlenspeicher, der heute für Veranstaltungen genutzt wird.",
+            "hu": "Egy régi szénraktár, ma rendezvényeknek ad otthont.",
+            "ro": "Un vechi depozit de cărbune, acum folosit pentru evenimente.",
+            "en": "An old charcoal storage building, now used for events."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Leonhard",
+            "hu": "Szent Leonhard-templom",
+            "ro": "Biserica Sf. Leonard",
+            "en": "Church of St. Leonard"
+          },
+          "coords": [
+            14.065,
+            46.431
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotische Architektur dieser historischen Kirche.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a gótikus építészetét.",
+            "ro": "Admirați arhitectura gotică a acestei biserici istorice.",
+            "en": "Admire the Gothic architecture of this historic church."
+          }
+        },
+        {
+          "name": {
+            "de": "Bucelleni-Ruard Schloss",
+            "hu": "Bucelleni-Ruard kastély",
+            "ro": "Castelul Bucelleni-Ruard",
+            "en": "Bucelleni-Ruard Mansion"
+          },
+          "coords": [
+            14.066,
+            46.429
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beherbergt das Oberkrainer Museum; perfekt für eine Mittagspause.",
+            "hu": "Itt található az Oberkrainer Múzeum; tökéletes egy ebédidőszünetre.",
+            "ro": "Găzduiește Muzeul Oberkrainer; perfect pentru o pauză de prânz.",
+            "en": "Houses the Oberkrainer Museum; perfect for a lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Oberkrainer Museum",
+            "hu": "Oberkrainer Múzeum",
+            "ro": "Muzeul Oberkrainer",
+            "en": "Oberkrainer Museum"
+          },
+          "coords": [
+            14.0661,
+            46.4291
+          ],
+          "category": "museums",
+          "arrive_at": "13:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geschichte der berühmten slowenischen Volksmusik.",
+            "hu": "Ismerje meg a híres szlovén népzene történetét.",
+            "ro": "Descoperiți istoria faimoasei muzici populare slovene.",
+            "en": "Discover the history of the famous Slovenian folk music."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der Befreiung",
+            "hu": "Felszabadulási emlékmű",
+            "ro": "Monumentul Eliberării",
+            "en": "Monument of the Liberation"
+          },
+          "coords": [
+            14.056,
+            46.435
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:41",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein Moment der Besinnung im Stadtzentrum.",
+            "hu": "Egy pillanatnyi elmélkedés a városközpontban.",
+            "ro": "Un moment de reflecție în centrul orașului.",
+            "en": "A moment of reflection in the city center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im industriellen Herzen von Jesenice, der Stara Sava, wo die Geschichte des Eisens lebendig wird. Am Mittag tauchen Sie im Bucelleni-Ruard Schloss und dem Oberkrainer Museum in die lokale Kultur und Musik ein. Der Nachmittag führt Sie durch das historische Zentrum, vorbei an der gotischen St.-Leonhard-Kirche. Der Tag endet mit einem besinnlichen Moment am Denkmal der Befreiung, umgeben von der Alltagsenergie der Stadt.",
+        "hu": "A nap Jesenice ipari szívében, a Stara Savában kezdődik, ahol a vas története megelevenedik. Délben a Bucelleni-Ruard kastélyban és az Oberkrainer Múzeumban merül el a helyi kultúrában és zenében. A délután a történelmi központon vezet keresztül, elhaladva a gótikus Szent Leonhard-templom mellett. A nap a Felszabadulási emlékműnél ér véget egy elmélkedő pillanattal, a város mindennapi energiájától körülvéve.",
+        "ro": "Ziua începe în inima industrială a orașului Jesenice, Stara Sava, unde istoria fierului prinde viață. La prânz, vă cufundați în cultura și muzica locală la Castelul Bucelleni-Ruard și Muzeul Oberkrainer. După-amiaza vă poartă prin centrul istoric, trecând pe lângă Biserica gotică Sf. Leonard. Ziua se încheie cu un moment de reflecție la Monumentul Eliberării, înconjurat de energia cotidiană a orașului.",
+        "en": "Your day begins in the industrial heart of Jesenice, Stara Sava, where the history of iron comes alive. At midday, you'll immerse yourself in local culture and music at the Bucelleni-Ruard Mansion and the Oberkrainer Museum. The afternoon takes you through the historic center, past the Gothic Church of St. Leonard. The day concludes with a reflective moment at the Monument of the Liberation, surrounded by the city's daily energy."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kranjska Klobasa",
+            "tip": "Eine geschützte slowenische Wurst, perfekt mit Senf und Brot."
+          },
+          {
+            "name": "Idrijski Žlikrofi",
+            "tip": "Kleine Teigtaschen, oft mit Fleischsoße serviert."
+          },
+          {
+            "name": "Štruklji",
+            "tip": "Gerollte Teigtaschen, die süß oder herzhaft sein können."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kranjska Klobasa (Krajnai kolbász)",
+            "tip": "Védett szlovén kolbász, tökéletes mustárral és kenyérrel."
+          },
+          {
+            "name": "Idrijski Žlikrofi",
+            "tip": "Apró tésztatáskák, gyakran húsmártással tálalva."
+          },
+          {
+            "name": "Štruklji",
+            "tip": "Tekert tészta, ami lehet édes vagy sós."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kranjska Klobasa",
+            "tip": "Un cârnat sloven protejat, perfect cu muștar și pâine."
+          },
+          {
+            "name": "Idrijski Žlikrofi",
+            "tip": "Găluște mici, adesea servite cu sos de carne."
+          },
+          {
+            "name": "Štruklji",
+            "tip": "Rulouri de aluat, care pot fi dulci sau sărate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kranjska Klobasa (Carniolan sausage)",
+            "tip": "A protected Slovenian sausage, perfect with mustard and bread."
+          },
+          {
+            "name": "Idrijski Žlikrofi",
+            "tip": "Small dumplings, often served with a meat sauce."
+          },
+          {
+            "name": "Štruklji",
+            "tip": "Rolled dumplings which can be sweet or savory."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Sava-Ufer",
+            "tip": "Ein ruhiger Weg, um dem städtischen Trubel zu entfliehen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirchhof St. Leonhard",
+            "tip": "Ein friedlicher Ort rund um die alte Kirche.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Száva partján",
+            "tip": "Egy csendes ösvény, hogy elkerülje a városi nyüzsgést.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent Leonhard templomkert",
+            "tip": "Békés hely a régi templom körül.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului Sava",
+            "tip": "O potecă liniștită pentru a evada din agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea bisericii Sf. Leonard",
+            "tip": "Un loc pașnic în jurul bisericii vechi.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along the Sava River bank",
+            "tip": "A quiet path to escape the urban bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. Leonard's Churchyard",
+            "tip": "A peaceful spot surrounding the old church.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Produkten und Käse."
+          },
+          {
+            "name": "Handwerk aus Eisen",
+            "tip": "Einige Souvenirläden verkaufen Repliken in Anlehnung an die Eisenvergangenheit der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen helyi termékeket és sajtokat."
+          },
+          {
+            "name": "Vaskézművesség",
+            "tip": "Néhány ajándékbolt a város vasmúltjára utaló másolatokat árul."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse locale și brânzeturi."
+          },
+          {
+            "name": "Artizanat din fier",
+            "tip": "Unele magazine de suveniruri vând replici care amintesc de trecutul siderurgic al orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for local produce and cheeses."
+          },
+          {
+            "name": "Iron handicrafts",
+            "tip": "Some souvenir shops sell replicas nodding to the town's iron past."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel auf Kopfsteinpflaster laufen werden.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind zu Fuß erreichbar.",
+          "Planen Sie zusätzliche Zeit für das Museum ein, es ist überraschend reichhaltig.",
+          "Einige Bereiche des Stara Sava Komplexes sind im Freien, prüfen Sie das Wetter."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog macskakövön sétálni.",
+          "A legtöbb központi látnivaló gyalogosan elérhető.",
+          "Tervezzen extra időt a múzeumra, meglepően gazdag.",
+          "A Stara Sava komplexum egyes részei a szabadban vannak, ellenőrizze az időjárást."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe piatră cubică.",
+          "Majoritatea atracțiilor centrale sunt la distanță de mers pe jos.",
+          "Rezervați timp suplimentar pentru muzeu, este surprinzător de bogat.",
+          "Unele zone ale complexului Stara Sava sunt în aer liber, verificați vremea."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be walking on cobblestones a lot.",
+          "Most central sights are within easy walking distance.",
+          "Allow extra time for the museum, it's surprisingly rich.",
+          "Some areas of the Stara Sava complex are outdoors, check the weather."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Stara Sava",
+            "hu": "Stara Sava (Régi Sava)",
+            "ro": "Stara Sava",
+            "en": "Stara Sava (Old Sava)"
+          },
+          "coords": [
+            14.0678,
+            46.4305
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und erkunden Sie das weitläufige Gelände zu Fuß.",
+            "hu": "Zárja le a biciklit és fedezze fel a hatalmas területet gyalog.",
+            "ro": "Legați-vă bicicleta și explorați zona întinsă pe jos.",
+            "en": "Lock up your bike and explore the vast grounds on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kolpern",
+            "hu": "Kolpern (Szénraktár)",
+            "ro": "Kolpern",
+            "en": "Kolpern (Charcoal storage)"
+          },
+          "coords": [
+            14.067,
+            46.4301
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:32",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Eine schnelle und einfache Fahrt vom Hauptkomplex aus.",
+            "hu": "Gyors és könnyű út a fő komplexumból.",
+            "ro": "O plimbare rapidă și ușoară de la complexul principal.",
+            "en": "A quick and easy ride from the main complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Bucelleni-Ruard Schloss",
+            "hu": "Bucelleni-Ruard kastély",
+            "ro": "Castelul Bucelleni-Ruard",
+            "en": "Bucelleni-Ruard Mansion"
+          },
+          "coords": [
+            14.066,
+            46.429
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:04",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad, um das Museum im Inneren zu besuchen.",
+            "hu": "Parkolja le a kerékpárt, hogy meglátogassa a bent lévő múzeumot.",
+            "ro": "Parcați-vă bicicleta pentru a vizita muzeul din interior.",
+            "en": "Park your bike to visit the museum inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Jesenice Eishalle",
+            "hu": "Jesenice Jégcsarnok",
+            "ro": "Patinoarul Jesenice",
+            "en": "Jesenice Ice Hall"
+          },
+          "coords": [
+            14.058,
+            46.438
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:12",
+          "stay_min": 20,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Sehen Sie die Heimat des berühmten Eishockeyteams der Stadt.",
+            "hu": "Nézze meg a város híres jégkorongcsapatának otthonát.",
+            "ro": "Vedeți casa faimoasei echipe de hochei pe gheață a orașului.",
+            "en": "See the home of the city's famous ice hockey team."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der Befreiung",
+            "hu": "Felszabadulási emlékmű",
+            "ro": "Monumentul Eliberării",
+            "en": "Monument of the Liberation"
+          },
+          "coords": [
+            14.056,
+            46.435
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:35",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Halt auf Ihrer Fahrt durch das moderne Stadtzentrum.",
+            "hu": "Rövid megálló a modern városközponton keresztül.",
+            "ro": "O scurtă oprire în timp ce pedalați prin centrul modern al orașului.",
+            "en": "A brief stop as you cycle through the modern city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Leonhard",
+            "hu": "Szent Leonhard-templom",
+            "ro": "Biserica Sf. Leonard",
+            "en": "Church of St. Leonard"
+          },
+          "coords": [
+            14.065,
+            46.431
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Der Radweg führt Sie zurück in die Altstadt.",
+            "hu": "A kerékpárút visszavezet az óvárosba.",
+            "ro": "Pista de biciclete vă duce înapoi în orașul vechi.",
+            "en": "The bike path leads you back towards the old town area."
+          }
+        },
+        {
+          "name": {
+            "de": "Mežakla-Plateau Aussichtspunkt",
+            "hu": "Mežakla-fennsík kilátópont",
+            "ro": "Punct de belvedere Platoul Mežakla",
+            "en": "Mežakla Plateau Viewpoint"
+          },
+          "coords": [
+            14.03,
+            46.46
+          ],
+          "category": "natural features",
+          "arrive_at": "14:24",
+          "stay_min": 140,
+          "hop_from_prev_min": 48,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Eine anspruchsvolle, aber lohnende Fahrt für eine fantastische Aussicht.",
+            "hu": "Kihívást jelentő, de megéri a fantasztikus kilátásért.",
+            "ro": "O urcare provocatoare, dar plină de satisfacții, pentru vederi fantastice.",
+            "en": "A challenging but rewarding ride for fantastic views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag im Industriekomplex Stara Sava und fahren Sie weiter zum nahegelegenen Schloss Bucelleni-Ruard. Am Mittag radeln Sie durch das moderne Zentrum, vorbei an der Eishalle. Der Nachmittag ist einer anspruchsvollen, aber lohnenden Fahrt zum Mežakla-Plateau gewidmet, wo Sie mit atemberaubenden Ausblicken belohnt werden. Sie beenden den Tag mit der Rückkehr in die Altstadt, um die St.-Leonhard-Kirche zu besuchen.",
+        "hu": "A kerékpáros napot a Stara Sava ipari komplexumban kezdje, majd tekerjen a közeli Bucelleni-Ruard kastélyhoz. Délben áthalad a modern központon, elhaladva a jégcsarnok mellett. A délutánt a kihívást jelentő, de annál hálásabb Mežakla-fennsíkra való feltekerésnek szenteli, ahol lenyűgöző kilátás jutalmazza. A napot az óvárosba való visszatéréssel zárja, hogy meglátogassa a Szent Leonhard-templomot.",
+        "ro": "Începeți ziua de ciclism la complexul industrial Stara Sava, continuând spre conacul Bucelleni-Ruard din apropiere. La prânz, pedalați prin centrul modern, trecând pe lângă patinoar. După-amiaza este dedicată unei plimbări provocatoare, dar pline de satisfacții, spre Platoul Mežakla, unde veți fi răsplătit cu vederi uluitoare. Încheiați ziua revenind în orașul vechi pentru a vizita Biserica Sf. Leonard.",
+        "en": "Start your cycling day at the Stara Sava industrial complex, continuing to the nearby Bucelleni-Ruard Mansion. At noon, you'll pedal through the modern center, passing the Ice Hall. The afternoon is dedicated to a challenging but rewarding ride up to the Mežakla Plateau, where you'll be rewarded with stunning views. You'll finish the day by returning to the old town to visit the Church of St. Leonard."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gostilna",
+            "tip": "Suchen Sie nach einem traditionellen Gasthaus für ein herzhaftes Mittagessen."
+          },
+          {
+            "name": "Kranjska Klobasa",
+            "tip": "Eine schnelle, energiereiche Mahlzeit für Radfahrer."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Belohnen Sie sich nach der Fahrt zum Plateau mit einem kalten slowenischen Bier."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gostilna",
+            "tip": "Keressen egy hagyományos vendéglőt egy kiadós ebédhez."
+          },
+          {
+            "name": "Krajnai kolbász",
+            "tip": "Gyors, energiadús étel kerékpárosoknak."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Jutalmazza meg magát egy hideg szlovén sörrel a fennsíkra való tekerés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gostilna",
+            "tip": "Căutați un han tradițional pentru un prânz copios."
+          },
+          {
+            "name": "Kranjska Klobasa",
+            "tip": "O masă rapidă și energizantă pentru cicliști."
+          },
+          {
+            "name": "Bere locală",
+            "tip": "Recompensați-vă cu o bere slovenă rece după plimbarea pe platou."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gostilna",
+            "tip": "Look for a traditional inn for a hearty lunch."
+          },
+          {
+            "name": "Carniolan sausage",
+            "tip": "A quick, high-energy meal for cyclists."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Reward yourself with a cold Slovenian beer after the ride up the plateau."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mežakla-Plateau",
+            "tip": "Die ultimative Flucht in die Natur mit Panoramablick.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Sava-Ufer",
+            "tip": "Eine flache, einfache Fahrt entlang des Flusses.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mežakla-fennsík",
+            "tip": "A végső menekülés a természetbe, panorámás kilátással.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Száva-part",
+            "tip": "Sík, könnyű tekerés a folyó mentén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platoul Mežakla",
+            "tip": "Evadarea supremă în natură, cu vederi panoramice.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Malul râului Sava",
+            "tip": "O plimbare plată și ușoară de-a lungul râului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mežakla Plateau",
+            "tip": "The ultimate escape into nature with panoramic views.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Sava Riverbank",
+            "tip": "A flat, easy ride alongside the river.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Besorgen Sie sich alle notwendigen Zubehörteile oder schnelle Reparaturen."
+          },
+          {
+            "name": "Energiereiche Snacks",
+            "tip": "Kaufen Sie in einem örtlichen Geschäft ein, bevor Sie zum Plateau aufbrechen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Szerezzen be minden szükséges kiegészítőt vagy gyors javítást."
+          },
+          {
+            "name": "Energia-snackek",
+            "tip": "Vásároljon be egy helyi boltban, mielőtt elindul a fennsíkra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Luați orice provizii necesare sau reparații rapide."
+          },
+          {
+            "name": "Gustări energizante",
+            "tip": "Faceți aprovizionarea la un magazin local înainte de a porni spre platou."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "Pick up any necessary supplies or quick fixes."
+          },
+          {
+            "name": "Energy snacks",
+            "tip": "Stock up at a local store before heading to the plateau."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Fahrt zum Mežakla-Plateau ist steil; für Gelegenheitsradler wird ein E-Bike empfohlen.",
+          "Schließen Sie Ihr Fahrrad an sicheren Orten ab, besonders in der Nähe von Touristenattraktionen.",
+          "Die Stadt ist relativ fahrradfreundlich, aber achten Sie in den Hauptstraßen auf den Verkehr.",
+          "Nehmen Sie Wasser und Snacks für die längere Fahrt am Nachmittag mit."
+        ],
+        "hu": [
+          "A Mežakla-fennsíkra vezető út meredek; alkalmi kerékpárosoknak e-bike ajánlott.",
+          "Zárja le a kerékpárt biztonságos helyeken, különösen a turisztikai látványosságok közelében.",
+          "A város viszonylag kerékpárbarát, de a főbb utakon figyeljen a forgalomra.",
+          "Vigyen vizet és rágcsálnivalót a hosszabb délutáni útra."
+        ],
+        "ro": [
+          "Urcarea spre Platoul Mežakla este abruptă; se recomandă o bicicletă electrică pentru cicliștii ocazionali.",
+          "Legați-vă bicicleta în locuri sigure, în special în apropierea atracțiilor turistice.",
+          "Orașul este relativ prietenos cu bicicletele, dar fiți atenți la trafic pe străzile principale.",
+          "Luați apă și gustări pentru plimbarea mai lungă de după-amiază."
+        ],
+        "en": [
+          "The ride to Mežakla Plateau is steep; an e-bike is recommended for casual cyclists.",
+          "Lock your bike in secure locations, especially near tourist attractions.",
+          "The town is relatively bike-friendly, but be aware of traffic on main roads.",
+          "Bring water and snacks for the longer afternoon ride."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 21.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Stara Sava",
+            "hu": "Stara Sava Parkoló",
+            "ro": "Parcare Stara Sava",
+            "en": "Stara Sava Parking"
+          },
+          "coords": [
+            14.068,
+            46.431
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier, um den ersten historischen Cluster zu erkunden.",
+            "hu": "Parkoljon itt, hogy felfedezze az első történelmi klasztert.",
+            "ro": "Parcați aici pentru a explora primul grup istoric.",
+            "en": "Park here to explore the first historical cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Stara Sava & Kolpern",
+            "hu": "Stara Sava és Kolpern",
+            "ro": "Stara Sava & Kolpern",
+            "en": "Stara Sava & Kolpern"
+          },
+          "coords": [
+            14.0678,
+            46.4305
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:24",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden Orte liegen direkt nebeneinander.",
+            "hu": "Ez a két hely közvetlenül egymás mellett található.",
+            "ro": "Aceste două situri sunt chiar unul lângă celălalt.",
+            "en": "These two sites are right next to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Bucelleni-Ruard Schloss",
+            "hu": "Bucelleni-Ruard kastély",
+            "ro": "Castelul Bucelleni-Ruard",
+            "en": "Bucelleni-Ruard Mansion"
+          },
+          "coords": [
+            14.066,
+            46.429
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:58",
+          "stay_min": 120,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptgelände. Beinhaltet das Museum.",
+            "hu": "Rövid séta a fő területtől. Magában foglalja a múzeumot.",
+            "ro": "O scurtă plimbare de la situl principal. Include muzeul.",
+            "en": "A short walk from the main site. Includes the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Leonhard",
+            "hu": "Szent Leonhard-templom",
+            "ro": "Biserica Sf. Leonard",
+            "en": "Church of St. Leonard"
+          },
+          "coords": [
+            14.065,
+            46.431
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:04",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie zurück zu Ihrem Auto durch dieses historische Viertel.",
+            "hu": "Sétáljon vissza az autójához ezen a történelmi negyeden keresztül.",
+            "ro": "Întoarceți-vă la mașină prin acest cartier istoric.",
+            "en": "Walk back towards your car via this historic quarter."
+          }
+        },
+        {
+          "name": {
+            "de": "Mežakla-Plateau Parkplatz",
+            "hu": "Mežakla-fennsík Parkoló",
+            "ro": "Parcare Platoul Mežakla",
+            "en": "Mežakla Plateau Parking"
+          },
+          "coords": [
+            14.032,
+            46.458
+          ],
+          "category": "natural features",
+          "arrive_at": "13:55",
+          "stay_min": 10,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Plateau für den zweiten Teil des Tages.",
+            "hu": "Vezessen fel a fennsíkra a nap második felében.",
+            "ro": "Conduceți până la platou pentru a doua parte a zilei.",
+            "en": "Drive up to the plateau for the second part of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang auf dem Mežakla-Plateau",
+            "hu": "Séta a Mežakla-fennsíkon",
+            "ro": "Plimbare pe Platoul Mežakla",
+            "en": "Mežakla Plateau Walk"
+          },
+          "coords": [
+            14.03,
+            46.46
+          ],
+          "category": "natural features",
+          "arrive_at": "14:13",
+          "stay_min": 140,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die frische Bergluft und die atemberaubende Aussicht.",
+            "hu": "Élvezze a friss hegyi levegőt és a lenyűgöző kilátást.",
+            "ro": "Bucurați-vă de aerul proaspăt de munte și de priveliștile uimitoare.",
+            "en": "Enjoy the fresh mountain air and stunning views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt mit dem Parken im historischen Cluster Stara Sava. Sie erkunden zu Fuß das reiche industrielle Erbe, das Schloss und die Kirche. Am Mittag nehmen Sie das Auto für eine malerische Fahrt zum Mežakla-Plateau. Der gesamte Nachmittag ist dem Wandern in dieser wunderschönen Natur gewidmet, wo Sie die Ruhe und die Panoramablicke genießen, bevor Sie in die Stadt zurückkehren.",
+        "hu": "A nap a történelmi Stara Sava klaszterben való parkolással kezdődik. Gyalogosan fedezi fel a gazdag ipari örökséget, a kastélyt és a templomot. Délben autóba ül, hogy egy festői úton eljusson a Mežakla-fennsíkra. Az egész délutánt a túrázásnak szenteli ezen a gyönyörű természeti területen, élvezve a nyugalmat és a panorámás kilátást, mielőtt visszatérne a városba.",
+        "ro": "Ziua începe cu parcarea în grupul istoric Stara Sava. Explorați pe jos bogata moștenire industrială, conacul și biserica. La prânz, luați mașina pentru o plimbare pitorească până la Platoul Mežakla. Întreaga după-amiază este dedicată plimbărilor în această frumoasă zonă naturală, bucurându-vă de liniște și de vederile panoramice înainte de a vă întoarce în oraș.",
+        "en": "The day begins by parking in the Stara Sava historical cluster. You'll explore the rich industrial heritage, mansion, and church on foot. At midday, you take the car for a scenic drive up to the Mežakla Plateau. The entire afternoon is dedicated to hiking in this beautiful natural area, enjoying the tranquility and panoramic views before returning to the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mittagessen in der Stadt",
+            "tip": "Essen Sie in einer Gostilna im Stadtzentrum, bevor Sie zum Plateau fahren."
+          },
+          {
+            "name": "Picknick auf dem Mežakla",
+            "tip": "Kaufen Sie lokale Produkte und genießen Sie ein Picknick mit Aussicht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ebéd a városban",
+            "tip": "Ebédeljen egy gostilnában a városközpontban, mielőtt felmegy a fennsíkra."
+          },
+          {
+            "name": "Piknik a Mežaklán",
+            "tip": "Vásároljon helyi termékeket, és piknikezzen a kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Prânz în oraș",
+            "tip": "Mâncați la o gostilna din centrul orașului înainte de a urca pe platou."
+          },
+          {
+            "name": "Picnic pe Mežakla",
+            "tip": "Cumpărați produse locale și bucurați-vă de un picnic cu vedere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lunch in town",
+            "tip": "Eat at a gostilna in the town center before driving up to the plateau."
+          },
+          {
+            "name": "Picnic on Mežakla",
+            "tip": "Buy some local products and have a picnic with a view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mežakla-Plateau",
+            "tip": "Ein perfekter Ort für Ruhe und Frieden abseits der Stadt.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Früher Morgen in Stara Sava",
+            "tip": "Erleben Sie den Komplex, bevor die Menschenmassen ankommen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mežakla-fennsík",
+            "tip": "Tökéletes hely a csendhez és békéhez a városon kívül.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Kora reggel Stara Savában",
+            "tip": "Tapasztalja meg a komplexumot, mielőtt a tömeg megérkezik.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platoul Mežakla",
+            "tip": "Un loc perfect pentru liniște și pace, departe de oraș.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Dimineața devreme la Stara Sava",
+            "tip": "Experimentați complexul înainte de sosirea mulțimilor.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mežakla Plateau",
+            "tip": "A perfect place for peace and quiet away from the city.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Early morning at Stara Sava",
+            "tip": "Experience the complex before the crowds arrive.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs in Stara Sava",
+            "tip": "Der Geschenkeladen hat einzigartige Artikel zum Thema Eisen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándéktárgyak Stara Savában",
+            "tip": "Az ajándékbolt egyedi, vas témájú tárgyakat kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri la Stara Sava",
+            "tip": "Magazinul de cadouri are articole unice cu tematică de fier."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenirs at Stara Sava",
+            "tip": "The gift shop has unique iron-themed items."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten und -gebühren im Voraus.",
+          "Die Straße zum Mežakla-Plateau kann eng und kurvenreich sein.",
+          "Planen Sie einen ganzen Nachmittag für das Plateau ein; es gibt viele Wege zu erkunden.",
+          "Tanken Sie, bevor Sie die Stadt verlassen, da es in den Bergen weniger Tankstellen gibt."
+        ],
+        "hu": [
+          "Ellenőrizze előre a parkolási lehetőségeket és díjakat.",
+          "A Mežakla-fennsíkra vezető út szűk és kanyargós lehet.",
+          "Tervezzen egy egész délutánt a fennsíkra; sok ösvényt lehet felfedezni.",
+          "Tankoljon, mielőtt elhagyja a várost, mivel a hegyekben kevesebb a benzinkút."
+        ],
+        "ro": [
+          "Verificați în avans opțiunile de parcare și taxele.",
+          "Drumul spre Platoul Mežakla poate fi îngust și șerpuit.",
+          "Planificați o după-amiază întreagă pentru platou; există multe trasee de explorat.",
+          "Alimentați înainte de a părăsi orașul, deoarece benzinăriile sunt mai rare la munte."
+        ],
+        "en": [
+          "Check parking options and fees in advance.",
+          "The road to Mežakla Plateau can be narrow and winding.",
+          "Plan a full afternoon for the plateau; there are many trails to explore.",
+          "Fill up your gas tank before leaving the city, as stations are scarcer in the mountains."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 14.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bushaltestelle Zentrum",
+            "hu": "Központi buszmegálló",
+            "ro": "Stația de autobuz Centru",
+            "en": "Center Bus Stop"
+          },
+          "coords": [
+            14.057,
+            46.436
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie am Hauptverkehrsknotenpunkt, in der Nähe des Befreiungsdenkmals.",
+            "hu": "Kezdje a fő közlekedési csomópontnál, a Felszabadulási emlékmű közelében.",
+            "ro": "Începeți la principalul nod de transport, lângă Monumentul Eliberării.",
+            "en": "Start at the main transport hub, near the Monument of Liberation."
+          }
+        },
+        {
+          "name": {
+            "de": "Jesenice Eishalle",
+            "hu": "Jesenice Jégcsarnok",
+            "ro": "Patinoarul Jesenice",
+            "en": "Jesenice Ice Hall"
+          },
+          "coords": [
+            14.058,
+            46.438
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:34",
+          "stay_min": 20,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der zentralen Bushaltestelle.",
+            "hu": "Rövid séta a központi buszmegállótól.",
+            "ro": "O scurtă plimbare de la stația centrală de autobuz.",
+            "en": "A short walk from the central bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle Stara Sava",
+            "hu": "Stara Sava buszmegálló",
+            "ro": "Stația de autobuz Stara Sava",
+            "en": "Stara Sava Bus Stop"
+          },
+          "coords": [
+            14.069,
+            46.432
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:14",
+          "stay_min": 10,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus zum historischen Industrieviertel.",
+            "hu": "Menjen helyi busszal a történelmi ipari negyedbe.",
+            "ro": "Luați un autobuz local spre cartierul industrial istoric.",
+            "en": "Take a local bus to the historic industrial district."
+          }
+        },
+        {
+          "name": {
+            "de": "Stara Sava & Kolpern",
+            "hu": "Stara Sava és Kolpern",
+            "ro": "Stara Sava & Kolpern",
+            "en": "Stara Sava & Kolpern"
+          },
+          "coords": [
+            14.0678,
+            46.4305
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:28",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen Cluster zu Fuß von der Bushaltestelle aus.",
+            "hu": "Fedezze fel ezt a klasztert gyalog a buszmegállótól.",
+            "ro": "Explorați acest grup pe jos de la stația de autobuz.",
+            "en": "Explore this cluster on foot from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Bucelleni-Ruard & Museum",
+            "hu": "Bucelleni-Ruard és Múzeum",
+            "ro": "Bucelleni-Ruard & Muzeu",
+            "en": "Bucelleni-Ruard & Museum"
+          },
+          "coords": [
+            14.066,
+            46.429
+          ],
+          "category": "museums",
+          "arrive_at": "12:02",
+          "stay_min": 120,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für die Mittagspause und kulturelle Vertiefung.",
+            "hu": "Tökéletes hely az ebédszünethez és a kulturális elmélyüléshez.",
+            "ro": "Un loc perfect pentru o pauză de prânz și imersiune culturală.",
+            "en": "A perfect spot for a lunch break and cultural immersion."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle für Mežakla",
+            "hu": "Buszmegálló Mežaklához",
+            "ro": "Stație de autobuz spre Mežakla",
+            "en": "Bus Stop for Mežakla"
+          },
+          "coords": [
+            14.04,
+            46.45
+          ],
+          "category": "natural features",
+          "arrive_at": "14:52",
+          "stay_min": 120,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 11.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Prüfen Sie den Busfahrplan. Nach der Ankunft ist ein Spaziergang erforderlich.",
+            "hu": "Ellenőrizze a buszmenetrendet. Érkezés után séta szükséges.",
+            "ro": "Verificați orarul autobuzului. Este necesară o plimbare după sosire.",
+            "en": "Check bus schedule. A walk is required after arrival."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt im Zentrum von Jesenice. Ein lokaler Bus bringt Sie zum Stara Sava-Cluster, wo Sie den Morgen damit verbringen, das industrielle Erbe und die Museen zu Fuß zu erkunden. Am Mittag bringt Sie ein anderer Bus in die Nähe des Mežakla-Plateaus. Der Nachmittag ist einem Naturspaziergang gewidmet, der Ihnen eine andere Seite der Region zeigt, bevor Sie mit dem Bus in die Stadt zurückkehren.",
+        "hu": "A tömegközlekedéssel töltött nap Jesenice központjában kezdődik. Helyi busszal jut el a Stara Sava klaszterhez, ahol a délelőttöt az ipari örökség és a múzeumok gyalogos felfedezésével tölti. Délben egy másik busz elviszi a Mežakla-fennsík közelébe. A délután egy természetjárásnak van szentelve, amely a régió egy másik oldalát mutatja be, mielőtt visszatérne a városba busszal.",
+        "ro": "Ziua dvs. de tranzit începe în centrul orașului Jesenice. Un autobuz local vă duce la grupul Stara Sava, unde vă petreceți dimineața explorând pe jos patrimoniul industrial și muzeele. La prânz, un alt autobuz vă duce în apropierea Platoului Mežakla. După-amiaza este dedicată unei plimbări în natură, arătându-vă o altă față a regiunii înainte de a vă întoarce în oraș cu autobuzul.",
+        "en": "Your transit day starts in the center of Jesenice. A local bus takes you to the Stara Sava cluster, where you spend the morning exploring the industrial heritage and museums on foot. At midday, another bus takes you near the Mežakla Plateau. The afternoon is dedicated to a nature walk, showing you a different side of the region before you return to the city by bus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei",
+            "tip": "Holen Sie sich ein Gebäck für die Busfahrt."
+          },
+          {
+            "name": "Restaurant in Stara Sava",
+            "tip": "Genießen Sie ein Mittagessen in historischer Umgebung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség",
+            "tip": "Vegyen egy péksüteményt a buszútra."
+          },
+          {
+            "name": "Étterem Stara Savában",
+            "tip": "Ebédeljen történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie",
+            "tip": "Luați un produs de patiserie pentru călătoria cu autobuzul."
+          },
+          {
+            "name": "Restaurant la Stara Sava",
+            "tip": "Bucurați-vă de prânz într-un cadru istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery",
+            "tip": "Grab a pastry for the bus ride."
+          },
+          {
+            "name": "Restaurant at Stara Sava",
+            "tip": "Enjoy lunch in a historic setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt in die Berge",
+            "tip": "Genießen Sie die Aussicht aus dem Fenster, während Sie an Höhe gewinnen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Wanderwege auf Mežakla",
+            "tip": "Sobald Sie vom Bus abgesetzt wurden, erwartet Sie die Ruhe.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszút a hegyekbe",
+            "tip": "Élvezze a kilátást az ablakból, ahogy emelkedik.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Túraösvények a Mežaklán",
+            "tip": "Amint leszáll a buszról, csend várja.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătorie cu autobuzul spre munți",
+            "tip": "Bucurați-vă de priveliștile de pe fereastră pe măsură ce urcați.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Trasee de drumeție pe Mežakla",
+            "tip": "Liniștea vă așteaptă odată ce coborâți din autobuz.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride to the mountains",
+            "tip": "Enjoy the views from the window as you gain altitude.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hiking trails on Mežakla",
+            "tip": "Tranquility awaits once you're dropped off by the bus.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Kaufen Sie Fahrkarten, Getränke und Snacks."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszpályaudvaron",
+            "tip": "Vásároljon jegyeket, italokat és rágcsálnivalókat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la stația de autobuz",
+            "tip": "Cumpărați bilete, băuturi și gustări."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus station",
+            "tip": "Buy tickets, drinks, and snacks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Holen Sie sich einen aktuellen Busfahrplan an der Hauptstation oder online.",
+          "Einige Busse zum Mežakla-Plateau fahren möglicherweise nur saisonal oder selten.",
+          "Haben Sie Kleingeld für Bustickets bereit.",
+          "Beachten Sie die Zeit des letzten Busses zurück in die Stadt, besonders von abgelegeneren Gebieten aus."
+        ],
+        "hu": [
+          "Szerezzen be egy aktuális buszmenetrendet a főpályaudvaron vagy online.",
+          "Néhány busz a Mežakla-fennsíkra csak szezonálisan vagy ritkán közlekedhet.",
+          "Készítsen elő aprópénzt a buszjegyekhez.",
+          "Figyeljen az utolsó busz idejére vissza a városba, különösen a távolabbi területekről."
+        ],
+        "ro": [
+          "Obțineți un program actualizat al autobuzelor de la stația principală sau online.",
+          "Este posibil ca unele autobuze către Platoul Mežakla să circule sezonier sau rar.",
+          "Aveți la îndemână bani mărunți pentru biletele de autobuz.",
+          "Fiți conștienți de ora ultimului autobuz înapoi în oraș, în special din zonele mai îndepărtate."
+        ],
+        "en": [
+          "Get an updated bus schedule from the main station or online.",
+          "Some buses to Mežakla Plateau may be seasonal or infrequent.",
+          "Have small change ready for bus tickets.",
+          "Be aware of the last bus time back to the city, especially from more remote areas."
+        ]
+      }
+    }
+  }
+}

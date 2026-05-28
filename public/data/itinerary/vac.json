@@ -1,0 +1,1174 @@
+{
+  "city_id": "vac",
+  "anchor": {
+    "name": "Vác, Március 15. tér",
+    "coords": [
+      19.1306,
+      47.7756
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "März-15.-Platz",
+            "hu": "Március 15. tér",
+            "ro": "Piața 15 Martie",
+            "en": "March 15th Square"
+          },
+          "coords": [
+            19.1306,
+            47.7756
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag im Herzen von Vác, umgeben von Barockgebäuden.",
+            "hu": "Kezdje a napot Vác szívében, barokk épületekkel körülvéve.",
+            "ro": "Începeți ziua în inima orașului Vác, înconjurat de clădiri baroce.",
+            "en": "Start your day in the heart of Vác, surrounded by Baroque buildings."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom von Vác",
+            "hu": "Váci dóm",
+            "ro": "Catedrala din Vác",
+            "en": "Vác Cathedral"
+          },
+          "coords": [
+            19.129,
+            47.7772
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die monumentale klassizistische Architektur und das Altarbild.",
+            "hu": "Csodálja meg a monumentális klasszicista építészetet és az oltárképet.",
+            "ro": "Admirați arhitectura neoclasică monumentală și pictura altarului.",
+            "en": "Admire the monumental classicist architecture and the altarpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Bischofspalast",
+            "hu": "Püspöki palota",
+            "ro": "Palatul Episcopal",
+            "en": "Bishop's Palace"
+          },
+          "coords": [
+            19.1285,
+            47.7778
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein kurzer Blick von außen genügt meist, der Garten ist manchmal zugänglich.",
+            "hu": "Általában egy külső pillantás is elég, a kert néha látogatható.",
+            "ro": "De obicei, o privire din exterior este suficientă, grădina este uneori accesibilă.",
+            "en": "Usually, a glance from the outside is enough; the garden is sometimes accessible."
+          }
+        },
+        {
+          "name": {
+            "de": "Memento Mori & Krypta",
+            "hu": "Memento Mori & Kripta",
+            "ro": "Memento Mori & Cripta",
+            "en": "Memento Mori & Crypt"
+          },
+          "coords": [
+            19.1312,
+            47.7753
+          ],
+          "category": "museums",
+          "arrive_at": "11:28",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Eine faszinierende Ausstellung über die Bestattungskultur des 18. Jahrhunderts.",
+            "hu": "Lenyűgöző kiállítás a 18. századi temetkezési kultúráról.",
+            "ro": "O expoziție fascinantă despre cultura funerară din secolul al XVIII-lea.",
+            "en": "A fascinating exhibition about 18th-century burial culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Griechische Kirche",
+            "hu": "Görög templom",
+            "ro": "Biserica Grecească",
+            "en": "Greek Church"
+          },
+          "coords": [
+            19.1325,
+            47.7745
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Dient heute als Ausstellungshalle, die Architektur ist dennoch sehenswert.",
+            "hu": "Ma kiállítóteremként működik, de az építészete így is megér egy látogatást.",
+            "ro": "Astăzi servește drept sală de expoziții, dar arhitectura merită văzută.",
+            "en": "Serves as an exhibition hall today, but the architecture is still worth seeing."
+          }
+        },
+        {
+          "name": {
+            "de": "Donau-Promenade",
+            "hu": "Duna-korzó",
+            "ro": "Promenada Dunării",
+            "en": "Danube Promenade"
+          },
+          "coords": [
+            19.1278,
+            47.7735
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekt für einen entspannten Spaziergang mit Blick auf das Donauknie.",
+            "hu": "Tökéletes egy pihentető sétához, kilátással a Dunakanyarra.",
+            "ro": "Perfect pentru o plimbare relaxantă cu vedere la Cotul Dunării.",
+            "en": "Perfect for a relaxing walk with a view of the Danube Bend."
+          }
+        },
+        {
+          "name": {
+            "de": "Triumphbogen (Kőkapu)",
+            "hu": "Diadalív (Kőkapu)",
+            "ro": "Arcul de Triumf (Kőkapu)",
+            "en": "Triumphal Arch (Stone Gate)"
+          },
+          "coords": [
+            19.1383,
+            47.7845
+          ],
+          "category": "historical",
+          "arrive_at": "15:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein einzigartiges Denkmal in Ungarn, das zu Ehren von Maria Theresia errichtet wurde.",
+            "hu": "Egyedülálló emlékmű Magyarországon, amelyet Mária Terézia tiszteletére emeltek.",
+            "ro": "Un monument unic în Ungaria, ridicat în onoarea Mariei Tereza.",
+            "en": "A unique monument in Hungary, erected in honor of Maria Theresa."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Vác beginnt am belebten Március-15.-Platz, dem barocken Herzen der Stadt. Am Vormittag erkunden Sie die geistliche Seite von Vác mit einem Besuch des monumentalen Doms und des geheimnisvollen Memento Mori. Der Nachmittag gehört der Donau. Ein langer Spaziergang entlang der Promenade bietet herrliche Ausblicke auf das Donauknie und führt Sie zum einzigartigen Triumphbogen. Zum Abend hin kehren Sie ins Zentrum zurück, um in einem der charmanten Restaurants den Tag ausklingen zu lassen.",
+        "hu": "Váci napja a nyüzsgő Március 15. téren, a város barokk szívében kezdődik. A délelőttöt Vác spirituális oldalának felfedezésével tölti, meglátogatja a monumentális Dómot és a rejtélyes Memento Morit. A délután a Dunáé. Egy hosszú séta a korzón csodálatos kilátást nyújt a Dunakanyarra, és elvezeti az egyedülálló Diadalívhez. Estére visszatér a központba, hogy egy hangulatos étteremben zárja a napot.",
+        "ro": "Ziua dvs. în Vác începe în vibranta Piață 15 Martie, inima barocă a orașului. În prima parte a zilei, explorați latura spirituală a orașului Vác cu o vizită la monumentala Catedrală și la misteriosul Memento Mori. După-amiaza este dedicată Dunării. O plimbare lungă de-a lungul promenadei oferă priveliști magnifice asupra Cotului Dunării și vă duce la unicul Arc de Triumf. Seara, vă întoarceți în centru pentru a încheia ziua la unul dintre restaurantele fermecătoare.",
+        "en": "Your day in Vác begins at the bustling March 15th Square, the baroque heart of the city. In the morning, you'll explore the spiritual side of Vác with a visit to the monumental Cathedral and the mysterious Memento Mori. The afternoon belongs to the Danube. A long walk along the promenade offers magnificent views of the Danube Bend and leads you to the unique Triumphal Arch. As evening approaches, you'll return to the center to end the day at one of the charming restaurants."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Remete Pince",
+            "tip": "Probieren Sie die ungarische Fischsuppe in diesem Kellerrestaurant."
+          },
+          {
+            "name": "Desszert Szalon",
+            "tip": "Ein Muss für Liebhaber von traditionellem ungarischem Gebäck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Remete Pince",
+            "tip": "Kóstolja meg a halászlét ebben a pincerétteremben."
+          },
+          {
+            "name": "Desszert Szalon",
+            "tip": "A hagyományos magyar sütemények kedvelőinek kötelező."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Remete Pince",
+            "tip": "Încercați supa de pește maghiară în acest restaurant-pivniță."
+          },
+          {
+            "name": "Desszert Szalon",
+            "tip": "O vizită obligatorie pentru iubitorii de produse de patiserie tradiționale maghiare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Remete Cellar",
+            "tip": "Try the Hungarian fish soup in this cellar restaurant."
+          },
+          {
+            "name": "Dessert Salon",
+            "tip": "A must-visit for lovers of traditional Hungarian pastries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Donauufer",
+            "tip": "Finden Sie eine ruhige Bank und beobachten Sie die vorbeiziehenden Schiffe.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Garten des Bischofspalastes",
+            "tip": "Wenn er geöffnet ist, bietet er eine Oase der Ruhe im Stadtzentrum.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Duna-parton",
+            "tip": "Keressen egy csendes padot, és nézze a hajókat.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Püspöki palota kertje",
+            "tip": "Ha nyitva van, a béke szigete a városközpontban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul Dunării",
+            "tip": "Găsiți o bancă liniștită și priviți navele care trec.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina Palatului Episcopal",
+            "tip": "Dacă este deschisă, oferă o oază de liniște în centrul orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk on the Danube bank",
+            "tip": "Find a quiet bench and watch the ships go by.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Garden of the Bishop's Palace",
+            "tip": "If it's open, it offers an oasis of tranquility in the city center.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte und lokale Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket és helyi különlegességeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse proaspete și specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Buy fresh produce and local specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten liegen nahe beieinander.",
+          "Planen Sie ein Mittagessen an der Donaupromenade ein."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, a macskakő egyenetlen lehet az óvárosban.",
+          "A legtöbb látnivaló közel van egymáshoz.",
+          "Tervezzen egy ebédet a Duna-korzón."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din orașul vechi poate fi denivelat.",
+          "Majoritatea atracțiilor sunt aproape una de cealaltă.",
+          "Planificați un prânz pe promenada Dunării."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Most sights are close to each other.",
+          "Plan for lunch on the Danube promenade."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "März-15.-Platz",
+            "hu": "Március 15. tér",
+            "ro": "Piața 15 Martie",
+            "en": "March 15th Square"
+          },
+          "coords": [
+            19.1306,
+            47.7756
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie hier, schließen Sie Ihr Fahrrad an und erkunden Sie die unmittelbare Umgebung zu Fuß.",
+            "hu": "Induljon innen, lakatolja le a biciklit, és fedezze fel a környéket gyalog.",
+            "ro": "Începeți de aici, legați-vă bicicleta și explorați zona imediată pe jos.",
+            "en": "Start here, lock your bike, and explore the immediate area on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom von Vác",
+            "hu": "Váci dóm",
+            "ro": "Catedrala din Vác",
+            "en": "Vác Cathedral"
+          },
+          "coords": [
+            19.129,
+            47.7772
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das Fahrrad abstellen und die beeindruckende Fassade und das Innere bewundern.",
+            "hu": "Tegye le a kerékpárt, és csodálja meg a lenyűgöző homlokzatot és a belső teret.",
+            "ro": "Parcați bicicleta și admirați fațada și interiorul impresionant.",
+            "en": "Park your bike and admire the impressive facade and interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Triumphbogen (Kőkapu)",
+            "hu": "Diadalív (Kőkapu)",
+            "ro": "Arcul de Triumf (Kőkapu)",
+            "en": "Triumphal Arch (Stone Gate)"
+          },
+          "coords": [
+            19.1383,
+            47.7845
+          ],
+          "category": "historical",
+          "arrive_at": "10:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Eine angenehme Radtour zu diesem einzigartigen Denkmal am Rande der Stadt.",
+            "hu": "Kellemes biciklitúra ehhez az egyedülálló emlékműhöz a város szélén.",
+            "ro": "O plimbare plăcută cu bicicleta la acest monument unic de la marginea orașului.",
+            "en": "A pleasant bike ride to this unique monument on the edge of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Rote Kirche",
+            "hu": "Piros templom",
+            "ro": "Biserica Roșie",
+            "en": "Red Church"
+          },
+          "coords": [
+            19.139,
+            47.781
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:22",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp bei dieser markanten neugotischen Kirche.",
+            "hu": "Egy rövid megálló ennél a jellegzetes neogótikus templomnál.",
+            "ro": "O scurtă oprire la această biserică neogotică distinctivă.",
+            "en": "A quick stop at this distinctive neo-Gothic church."
+          }
+        },
+        {
+          "name": {
+            "de": "Donau-Promenade (Südlicher Teil)",
+            "hu": "Duna-korzó (déli szakasz)",
+            "ro": "Promenada Dunării (secțiunea sudică)",
+            "en": "Danube Promenade (Southern Section)"
+          },
+          "coords": [
+            19.125,
+            47.771
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:57",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Radfahren Sie entlang des Flusses. Hier ist ein guter Ort für eine Mittagspause.",
+            "hu": "Biciklizzen a folyó mentén. Ez egy jó hely egy ebédszünetre.",
+            "ro": "Plimbați-vă cu bicicleta de-a lungul râului. Acesta este un loc bun pentru o pauză de prânz.",
+            "en": "Cycle along the river. This is a good spot for a lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Memento Mori",
+            "hu": "Memento Mori",
+            "ro": "Memento Mori",
+            "en": "Memento Mori"
+          },
+          "coords": [
+            19.1312,
+            47.7753
+          ],
+          "category": "museums",
+          "arrive_at": "13:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und tauchen Sie in die Geschichte ein.",
+            "hu": "Zárja le a kerékpárt, és merüljön el a történelemben.",
+            "ro": "Legați-vă bicicleta și scufundați-vă în istorie.",
+            "en": "Lock your bike and dive into history."
+          }
+        },
+        {
+          "name": {
+            "de": "Radweg nach Szob",
+            "hu": "Kerékpárút Szob felé",
+            "ro": "Pista de biciclete spre Szob",
+            "en": "Cycle path towards Szob"
+          },
+          "coords": [
+            19.15,
+            47.79
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:15",
+          "stay_min": 85,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Teil des beliebten Donau-Radwegs für eine längere Tour.",
+            "hu": "Élvezze a népszerű Duna-menti kerékpárút egy szakaszát egy hosszabb túrához.",
+            "ro": "Bucurați-vă de o parte din populara pistă de biciclete de pe Dunăre pentru un tur mai lung.",
+            "en": "Enjoy a part of the popular Danube cycle path for a longer tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel und erkunden Sie Vác auf zwei Rädern. Der Morgen führt Sie vom zentralen Platz zum Dom und weiter zum imposanten Triumphbogen am Stadtrand. Am Mittag radeln Sie entspannt am Donauufer entlang und genießen die frische Luft. Nach einer Stärkung und einem Besuch im Memento Mori am Nachmittag können Sie einen Abstecher auf den internationalen Donauradweg machen und die malerische Landschaft des Donauknies erleben.",
+        "hu": "Pattanjon nyeregbe, és fedezze fel Vácot két keréken. A reggel a központi térről a Dómhoz, majd tovább a város szélén álló impozáns Diadalívhez vezet. Délben pihenésképpen tekerjen a Duna-parton, és élvezze a friss levegőt. Egy ebéd és a Memento Mori délutáni meglátogatása után tehet egy kitérőt a nemzetközi Duna-menti kerékpárútra, hogy megtapasztalja a Dunakanyar festői táját.",
+        "ro": "Urcați-vă în șa și explorați orașul Vác pe două roți. Dimineața vă poartă din piața centrală la Catedrală și mai departe la impunătorul Arc de Triumf de la marginea orașului. La prânz, pedalați relaxat de-a lungul malurilor Dunării, bucurându-vă de aerul proaspăt. După prânz și o vizită la Memento Mori după-amiaza, puteți face o deviere pe pista internațională de biciclete de pe Dunăre pentru a experimenta peisajul pitoresc al Cotului Dunării.",
+        "en": "Get on your bike and explore Vác on two wheels. The morning takes you from the central square to the Cathedral and on to the imposing Triumphal Arch on the outskirts of the city. At noon, cycle leisurely along the Danube bank and enjoy the fresh air. After lunch and a visit to the Memento Mori in the afternoon, you can take a detour onto the international Danube cycle path to experience the picturesque scenery of the Danube Bend."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tragor Ignác Múzeum Café",
+            "tip": "Leichter Snack und Kaffee nach dem Museumsbesuch."
+          },
+          {
+            "name": "Pokol Pince",
+            "tip": "Rustikale ungarische Küche, ideal nach einer langen Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tragor Ignác Múzeum Kávézó",
+            "tip": "Könnyű harapnivaló és kávé a múzeumlátogatás után."
+          },
+          {
+            "name": "Pokol Pince",
+            "tip": "Házias magyar konyha, ideális egy hosszú biciklizés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafeneaua Muzeului Tragor Ignác",
+            "tip": "O gustare ușoară și o cafea după vizitarea muzeului."
+          },
+          {
+            "name": "Pivnița Pokol",
+            "tip": "Bucătărie maghiară rustică, ideală după o plimbare lungă cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tragor Ignác Museum Café",
+            "tip": "Light snack and coffee after the museum visit."
+          },
+          {
+            "name": "Hell Cellar",
+            "tip": "Rustic Hungarian cuisine, ideal after a long bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg entlang der Donau",
+            "tip": "Fahren Sie aus der Stadt heraus für ruhige Momente am Fluss.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hügel am Triumphbogen",
+            "tip": "Ein ruhiger Ort mit Blick auf die Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Duna mentén",
+            "tip": "Tekerjen ki a városból a csendes folyóparti pillanatokért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Domb a Diadalívnél",
+            "tip": "Csendes hely, kilátással a városra.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul Dunării",
+            "tip": "Ieșiți din oraș pentru momente de liniște pe malul râului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dealul de la Arcul de Triumf",
+            "tip": "Un loc liniștit cu vedere la oraș.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cycle path along the Danube",
+            "tip": "Ride out of the city for quiet moments by the river.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hill at the Triumphal Arch",
+            "tip": "A quiet spot with a view over the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Für Ersatzteile oder Zubehör, falls benötigt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Pótalkatrészekhez vagy kiegészítőkhöz, ha szükséges."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Pentru piese de schimb sau accesorii, dacă este necesar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shops",
+            "tip": "For spare parts or accessories if needed."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Donauradweg (EuroVelo 6) führt direkt durch Vác.",
+          "Achten Sie auf Fußgänger auf der Promenade.",
+          "Einige Gassen in der Innenstadt haben Kopfsteinpflaster, fahren Sie vorsichtig."
+        ],
+        "hu": [
+          "A Duna-menti kerékpárút (EuroVelo 6) közvetlenül áthalad Vácon.",
+          "Vigyázzon a gyalogosokra a korzón.",
+          "Néhány belvárosi utca macskaköves, vezessen óvatosan."
+        ],
+        "ro": [
+          "Pista de biciclete de pe Dunăre (EuroVelo 6) trece direct prin Vác.",
+          "Fiți atenți la pietoni pe promenadă.",
+          "Unele alei din centrul orașului sunt pavate, conduceți cu prudență."
+        ],
+        "en": [
+          "The Danube Cycle Path (EuroVelo 6) runs directly through Vác.",
+          "Watch out for pedestrians on the promenade.",
+          "Some alleys in the city center have cobblestones, ride carefully."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Triumphbogen",
+            "hu": "Parkoló a Diadalívnél",
+            "ro": "Parcare la Arcul de Triumf",
+            "en": "Parking at the Triumphal Arch"
+          },
+          "coords": [
+            19.138,
+            47.7842
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Starten Sie hier, da es außerhalb des Zentrums liegt und gute Parkmöglichkeiten bietet.",
+            "hu": "Induljon innen, mivel a központon kívül esik és jó parkolási lehetőségeket kínál.",
+            "ro": "Începeți de aici, deoarece este în afara centrului și oferă parcare bună.",
+            "en": "Start here as it's outside the center and offers good parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Triumphbogen (Kőkapu)",
+            "hu": "Diadalív (Kőkapu)",
+            "ro": "Arcul de Triumf (Kőkapu)",
+            "en": "Triumphal Arch (Stone Gate)"
+          },
+          "coords": [
+            19.1383,
+            47.7845
+          ],
+          "category": "historical",
+          "arrive_at": "09:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie das einzige Bauwerk seiner Art in Ungarn.",
+            "hu": "Csodálja meg az egyetlen ilyen jellegű építményt Magyarországon.",
+            "ro": "Admirați singura structură de acest fel din Ungaria.",
+            "en": "Admire the only structure of its kind in Hungary."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkhaus Innenstadt",
+            "hu": "Parkolóház a belvárosban",
+            "ro": "Parcare în centrul orașului",
+            "en": "City Center Parking Garage"
+          },
+          "coords": [
+            19.133,
+            47.778
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:39",
+          "stay_min": 0,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Stellen Sie das Auto hier für den Rest des Tages ab und erkunden Sie alles zu Fuß.",
+            "hu": "Parkolja le itt az autót a nap hátralévő részére, és fedezzen fel mindent gyalog.",
+            "ro": "Parcați mașina aici pentru restul zilei și explorați totul pe jos.",
+            "en": "Park the car here for the rest of the day and explore everything on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom & Bischofspalast",
+            "hu": "Dóm és Püspöki Palota",
+            "ro": "Catedrala și Palatul Episcopal",
+            "en": "Cathedral & Bishop's Palace"
+          },
+          "coords": [
+            19.129,
+            47.7772
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:47",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden prächtigen Gebäude liegen direkt nebeneinander.",
+            "hu": "Ez a két csodálatos épület közvetlenül egymás mellett található.",
+            "ro": "Aceste două clădiri magnifice sunt situate una lângă alta.",
+            "en": "These two magnificent buildings are located right next to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "März-15.-Platz & Memento Mori",
+            "hu": "Március 15. tér és Memento Mori",
+            "ro": "Piața 15 Martie și Memento Mori",
+            "en": "March 15th Square & Memento Mori"
+          },
+          "coords": [
+            19.1306,
+            47.7756
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Hauptplatz mit dem faszinierenden Museum darunter.",
+            "hu": "Kombinálja a főteret az alatta található lenyűgöző múzeummal.",
+            "ro": "Combinați piața principală cu muzeul fascinant de dedesubt.",
+            "en": "Combine the main square with the fascinating museum underneath."
+          }
+        },
+        {
+          "name": {
+            "de": "Donau-Promenade",
+            "hu": "Duna-korzó",
+            "ro": "Promenada Dunării",
+            "en": "Danube Promenade"
+          },
+          "coords": [
+            19.1278,
+            47.7735
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:38",
+          "stay_min": 110,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannter Spaziergang zum Abschluss des Tages, bevor Sie zum Auto zurückkehren.",
+            "hu": "Egy pihentető séta a nap végén, mielőtt visszatérne az autóhoz.",
+            "ro": "O plimbare relaxantă pentru a încheia ziua înainte de a vă întoarce la mașină.",
+            "en": "A relaxing walk to end the day before returning to the car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Vác flexibel. Starten Sie am Morgen beim Triumphbogen, der etwas außerhalb liegt. Fahren Sie dann ins Zentrum, parken Sie Ihr Auto für den Rest des Tages und erkunden Sie den ersten Cluster: den Dom und den Bischofspalast. Am Mittag spazieren Sie zum zweiten Cluster rund um den Hauptplatz, wo Sie das Memento Mori besuchen und zu Mittag essen. Der Nachmittag ist für einen ausgedehnten Spaziergang entlang der Donau reserviert, bevor Sie zu Ihrem Auto zurückkehren.",
+        "hu": "Autóval rugalmasan fedezheti fel Vácot. Indítson reggel a kissé kieső Diadalívnél. Ezután hajtson be a központba, parkolja le az autót a nap hátralévő részére, és fedezze fel az első látnivalócsoportot: a Dómot és a Püspöki Palotát. Délben sétáljon át a főtér körüli második csoporthoz, ahol meglátogatja a Memento Morit és megebédel. A délután egy hosszú Duna-parti sétáé, mielőtt visszatérne az autójához.",
+        "ro": "Cu mașina, explorați Vác în mod flexibil. Începeți dimineața la Arcul de Triumf, situat puțin în afara centrului. Apoi, conduceți spre centru, parcați mașina pentru restul zilei și explorați primul grup de atracții: Catedrala și Palatul Episcopal. La prânz, plimbați-vă până la al doilea grup din jurul pieței principale, unde vizitați Memento Mori și luați prânzul. După-amiaza este rezervată unei plimbări lungi de-a lungul Dunării înainte de a vă întoarce la mașină.",
+        "en": "Explore Vác flexibly by car. Start in the morning at the Triumphal Arch, located slightly outside the center. Then drive to the center, park your car for the rest of the day, and explore the first cluster: the Cathedral and the Bishop's Palace. At noon, walk to the second cluster around the main square, where you'll visit the Memento Mori and have lunch. The afternoon is reserved for a long walk along the Danube before returning to your car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Váci Csárda",
+            "tip": "Traditionelle ungarische Gerichte in klassischem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Váci Csárda",
+            "tip": "Hagyományos magyar ételek klasszikus környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Váci Csárda",
+            "tip": "Mâncăruri tradiționale maghiare într-un cadru clasic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Váci Csárda",
+            "tip": "Traditional Hungarian dishes in a classic setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt bei Göncöl Ház",
+            "tip": "Fahren Sie für eine tolle Aussicht auf das Donauknie etwas aus der Stadt heraus.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátó a Göncöl Háznál",
+            "tip": "Hajtson ki egy kicsit a városból a Dunakanyarra nyíló nagyszerű kilátásért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere lângă Casa Göncöl",
+            "tip": "Conduceți puțin în afara orașului pentru o priveliște minunată asupra Cotului Dunării.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint near Göncöl House",
+            "tip": "Drive a little out of town for a great view of the Danube Bend.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kleine Boutiquen in der Innenstadt",
+            "tip": "Stöbern Sie nach einzigartigen Souvenirs und lokalem Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kis butikok a belvárosban",
+            "tip": "Böngésszen egyedi szuvenírek és helyi kézműves termékek között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mici buticuri în centrul orașului",
+            "tip": "Căutați suveniruri unice și produse de artizanat local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Small boutiques in the city center",
+            "tip": "Browse for unique souvenirs and local crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken kann im Zentrum schwierig sein, nutzen Sie die ausgewiesenen Parkhäuser.",
+          "Planen Sie Ihre Route, um die Einbahnstraßen in der Altstadt zu meiden.",
+          "Ein Auto ermöglicht auch einen Ausflug in die umliegenden Dörfer des Donauknies."
+        ],
+        "hu": [
+          "A parkolás nehézkes lehet a központban, használja a kijelölt parkolóházakat.",
+          "Tervezze meg az útvonalat, hogy elkerülje az óvárosi egyirányú utcákat.",
+          "Az autó lehetővé teszi a környező dunakanyari falvakba tett kirándulást is."
+        ],
+        "ro": [
+          "Parcarea poate fi dificilă în centru, folosiți parcările desemnate.",
+          "Planificați-vă traseul pentru a evita străzile cu sens unic din orașul vechi.",
+          "O mașină permite și o excursie la satele învecinate din Cotul Dunării."
+        ],
+        "en": [
+          "Parking can be difficult in the center, use the designated parking garages.",
+          "Plan your route to avoid the one-way streets in the old town.",
+          "A car also allows for a trip to the surrounding villages of the Danube Bend."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Vác",
+            "hu": "Vác vasútállomás",
+            "ro": "Gara Vác",
+            "en": "Vác Railway Station"
+          },
+          "coords": [
+            19.139,
+            47.778
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier, viele Buslinien starten vom Bahnhofsvorplatz.",
+            "hu": "Kezdje itt a napot, sok buszjárat indul az állomás elől.",
+            "ro": "Începeți ziua de aici, multe linii de autobuz pornesc din fața stației.",
+            "en": "Start your day here, many bus lines start from the station square."
+          }
+        },
+        {
+          "name": {
+            "de": "Triumphbogen (Kőkapu)",
+            "hu": "Diadalív (Kőkapu)",
+            "ro": "Arcul de Triumf (Kőkapu)",
+            "en": "Triumphal Arch (Stone Gate)"
+          },
+          "coords": [
+            19.1383,
+            47.7845
+          ],
+          "category": "historical",
+          "arrive_at": "09:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus, um dieses Denkmal bequem zu erreichen.",
+            "hu": "Helyi busszal kényelmesen elérheti ezt az emlékművet.",
+            "ro": "Luați un autobuz local pentru a ajunge convenabil la acest monument.",
+            "en": "Take a local bus to reach this monument conveniently."
+          }
+        },
+        {
+          "name": {
+            "de": "März-15.-Platz (Bushaltestelle)",
+            "hu": "Március 15. tér (buszmegálló)",
+            "ro": "Piața 15 Martie (stație de autobuz)",
+            "en": "March 15th Square (Bus Stop)"
+          },
+          "coords": [
+            19.131,
+            47.776
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Fahren Sie zurück ins Zentrum. Von hier aus ist alles zu Fuß erreichbar.",
+            "hu": "Utazzon vissza a központba. Innen minden gyalogosan elérhető.",
+            "ro": "Întoarceți-vă în centru. De aici, totul este la distanță de mers pe jos.",
+            "en": "Travel back to the center. Everything is within walking distance from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom von Vác",
+            "hu": "Váci dóm",
+            "ro": "Catedrala din Vác",
+            "en": "Vác Cathedral"
+          },
+          "coords": [
+            19.129,
+            47.7772
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Bushaltestelle zum Wahrzeichen der Stadt.",
+            "hu": "Rövid séta a buszmegállótól a város jelképéhez.",
+            "ro": "O scurtă plimbare de la stația de autobuz la simbolul orașului.",
+            "en": "A short walk from the bus stop to the city's landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Memento Mori",
+            "hu": "Memento Mori",
+            "ro": "Memento Mori",
+            "en": "Memento Mori"
+          },
+          "coords": [
+            19.1312,
+            47.7753
+          ],
+          "category": "museums",
+          "arrive_at": "12:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zurück am Hauptplatz finden Sie diesen einzigartigen Ort.",
+            "hu": "Visszatérve a főtérre, megtalálja ezt az egyedülálló helyet.",
+            "ro": "Înapoi în piața principală, veți găsi acest loc unic.",
+            "en": "Back at the main square, you will find this unique place."
+          }
+        },
+        {
+          "name": {
+            "de": "Donau-Promenade",
+            "hu": "Duna-korzó",
+            "ro": "Promenada Dunării",
+            "en": "Danube Promenade"
+          },
+          "coords": [
+            19.1278,
+            47.7735
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:21",
+          "stay_min": 140,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem langen, entspannten Spaziergang am Fluss.",
+            "hu": "Zárja a napot egy hosszú, pihentető sétával a folyóparton.",
+            "ro": "Încheiați ziua cu o plimbare lungă și relaxantă pe malul râului.",
+            "en": "End the day with a long, relaxing walk by the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vác lässt sich gut mit öffentlichen Verkehrsmitteln erkunden. Vom Bahnhof aus bringt Sie ein Bus direkt zum Triumphbogen, dem ersten Höhepunkt des Tages. Danach fahren Sie mit dem Bus zurück ins Zentrum, wo Sie den Rest des Tages zu Fuß verbringen. Am Vormittag erkunden Sie das geistliche Viertel um den Dom. Nach dem Mittagessen am Hauptplatz und einem Besuch im Memento Mori schlendern Sie am Nachmittag gemütlich die Donaupromenade entlang.",
+        "hu": "Vác könnyen felfedezhető tömegközlekedéssel. A vasútállomásról busz visz közvetlenül a Diadalívhez, a nap első fénypontjához. Ezután busszal térjen vissza a központba, ahol a nap hátralévő részét gyalog tölti. Délelőtt fedezze fel a Dóm körüli egyházi negyedet. A főtéri ebéd és a Memento Mori meglátogatása után délután sétáljon végig a Duna-korzón.",
+        "ro": "Vác este ușor de explorat cu transportul public. De la gară, un autobuz vă duce direct la Arcul de Triumf, primul punct culminant al zilei. Apoi, luați autobuzul înapoi în centru, unde veți petrece restul zilei pe jos. Dimineața, explorați cartierul spiritual din jurul Catedralei. După prânz în piața principală și o vizită la Memento Mori, plimbați-vă de-a lungul promenadei Dunării după-amiaza.",
+        "en": "Vác is easy to explore by public transport. From the train station, a bus takes you directly to the Triumphal Arch, the first highlight of the day. Afterwards, take the bus back to the center, where you will spend the rest of the day on foot. In the morning, explore the spiritual quarter around the Cathedral. After lunch in the main square and a visit to the Memento Mori, stroll along the Danube promenade in the afternoon."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mihályi Patisserie",
+            "tip": "Eine der besten Konditoreien des Landes, in der Nähe des Zentrums."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mihályi Cukrászda",
+            "tip": "Az ország egyik legjobb cukrászdája, a központ közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cofetăria Mihályi",
+            "tip": "Una dintre cele mai bune cofetării din țară, aproape de centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mihályi Patisserie",
+            "tip": "One of the best confectioneries in the country, near the center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof bei der Felsővárosi-Kapelle",
+            "tip": "Ein historischer und ruhiger Ort für einen Moment der Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Felsővárosi-kápolna melletti temető",
+            "tip": "Történelmi és csendes hely egy pillanatnyi elmélkedésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul de lângă Capela Felsővárosi",
+            "tip": "Un loc istoric și liniștit pentru un moment de reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cemetery near the Felsővárosi Chapel",
+            "tip": "A historical and quiet place for a moment of reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirladen am Hauptplatz",
+            "tip": "Finden Sie Andenken an Ihren Besuch in Vác."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándékbolt a főtéren",
+            "tip": "Találjon emléktárgyakat váci látogatásáról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri în piața principală",
+            "tip": "Găsiți suveniruri din vizita dvs. la Vác."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir shop in the main square",
+            "tip": "Find mementos of your visit to Vác."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die lokalen Busse, wenn Sie mehrere Fahrten planen.",
+          "Die Busfahrpläne finden Sie online oder an den Haltestellen.",
+          "Vom Bahnhof aus erreichen Sie Budapest in etwa 30 Minuten mit dem Zug."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a helyi buszokra, ha több utazást tervez.",
+          "A buszmenetrendeket online vagy a megállókban találja.",
+          "A vasútállomásról vonattal körülbelül 30 perc alatt elérhető Budapest."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuzele locale dacă planificați mai multe călătorii.",
+          "Orarul autobuzelor poate fi găsit online sau la stații.",
+          "De la gară, puteți ajunge la Budapesta în aproximativ 30 de minute cu trenul."
+        ],
+        "en": [
+          "Buy a day ticket for the local buses if you plan multiple trips.",
+          "Bus schedules can be found online or at the stops.",
+          "From the train station, you can reach Budapest in about 30 minutes by train."
+        ]
+      }
+    }
+  }
+}

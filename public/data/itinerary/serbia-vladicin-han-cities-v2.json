@@ -1,0 +1,1239 @@
+{
+  "city_id": "serbia-vladicin-han-cities-v2",
+  "anchor": {
+    "name": "Vladičin Han",
+    "coords": [
+      22.072,
+      42.709
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Denkmal für die Befreier",
+            "hu": "Felszabadítók emlékműve",
+            "ro": "Monumentul Eliberatorilor",
+            "en": "Monument to the Liberators"
+          },
+          "coords": [
+            22.0715,
+            42.7085
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier, um die lokale Geschichte zu würdigen.",
+            "hu": "Kezdje a napot itt, hogy megismerje a helyi történelmet.",
+            "ro": "Începeți-vă ziua aici pentru a aprecia istoria locală.",
+            "en": "Start your day here to appreciate the local history."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Nikolaus-Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "St. Nicholas Church"
+          },
+          "coords": [
+            22.073,
+            42.7095
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Ikonen und die friedliche Atmosphäre im Inneren.",
+            "hu": "Csodálja meg az ikonokat és a békés belső légkört.",
+            "ro": "Admirați icoanele și atmosfera pașnică din interior.",
+            "en": "Admire the icons and the peaceful atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Vladičin Han",
+            "hu": "Vladičin Han Kulturális Központ",
+            "ro": "Centrul Cultural Vladičin Han",
+            "en": "Cultural Center Vladičin Han"
+          },
+          "coords": [
+            22.07,
+            42.709
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:23",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Veranstaltungsplan, vielleicht gibt es eine interessante Ausstellung.",
+            "hu": "Nézze meg a programot, hátha van egy érdekes kiállítás.",
+            "ro": "Verificați programul evenimentelor, s-ar putea să existe o expoziție interesantă.",
+            "en": "Check the event schedule, there might be an interesting exhibition."
+          }
+        },
+        {
+          "name": {
+            "de": "Park der Helden",
+            "hu": "Hősök parkja",
+            "ro": "Parcul Eroilor",
+            "en": "Park of Heroes"
+          },
+          "coords": [
+            22.075,
+            42.712
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für eine Mittagspause oder einfach nur zum Entspannen im Schatten.",
+            "hu": "Ideális hely egy ebédszünetre vagy csak pihenésre az árnyékban.",
+            "ro": "Un loc ideal pentru o pauză de prânz sau pur și simplu pentru a vă relaxa la umbră.",
+            "en": "An ideal spot for a lunch break or just relaxing in the shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Vrla Brücke",
+            "hu": "Vrla-híd",
+            "ro": "Podul Vrla",
+            "en": "Vrla Bridge"
+          },
+          "coords": [
+            22.068,
+            42.71
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:02",
+          "stay_min": 25,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf den Fluss und machen Sie ein paar schöne Fotos.",
+            "hu": "Élvezze a folyóra nyíló kilátást, és készítsen néhány szép fotót.",
+            "ro": "Bucurați-vă de priveliștea asupra râului și faceți câteva fotografii frumoase.",
+            "en": "Enjoy the view of the river and take some nice photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Južna Morava Flussufer",
+            "hu": "Déli-Morava folyópart",
+            "ro": "Malul râului Južna Morava",
+            "en": "Južna Morava Riverbank"
+          },
+          "coords": [
+            22.065,
+            42.708
+          ],
+          "category": "natural features",
+          "arrive_at": "13:51",
+          "stay_min": 85,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Finden Sie eine ruhige Stelle am Ufer, um den Tag ausklingen zu lassen.",
+            "hu": "Keressen egy csendes helyet a parton a nap lezárásához.",
+            "ro": "Găsiți un loc liniștit pe mal pentru a încheia ziua.",
+            "en": "Find a quiet spot on the bank to wind down your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Rundgang beginnt im historischen Herzen von Vladičin Han, wo Denkmäler und heilige Stätten von der Vergangenheit erzählen. Am Vormittag erkunden Sie das kulturelle Leben und machen eine Pause im grünen Park der Helden. Der Nachmittag führt Sie zu den Flüssen, die die Stadt prägen. Sie überqueren die Vrla-Brücke und genießen die ruhige Atmosphäre am Ufer der Južna Morava, perfekt, um die Eindrücke des Tages zu sammeln.",
+        "hu": "Sétája Vladičin Han történelmi szívében kezdődik, ahol emlékművek és szent helyek mesélnek a múltról. Délelőtt felfedezheti a kulturális életet, és szünetet tarthat a zöld Hősök parkjában. A délután a várost formáló folyókhoz vezeti. Átkel a Vrla-hídon, és élvezi a Južna Morava partjának csendes légkörét, amely tökéletes a napi benyomások összegyűjtésére.",
+        "ro": "Turul dumneavoastră pe jos începe în inima istorică a orașului Vladičin Han, unde monumentele și siturile sacre vorbesc despre trecut. Dimineața, explorați viața culturală și luați o pauză în Parcul Eroilor. După-amiaza vă duce la râurile care modelează orașul. Traversați Podul Vrla și vă bucurați de atmosfera liniștită de pe malul râului Južna Morava, perfectă pentru a aduna impresiile zilei.",
+        "en": "Your walking tour starts in the historical heart of Vladičin Han, where monuments and sacred sites tell of the past. In the morning, you'll explore cultural life and take a break in the green Park of Heroes. The afternoon takes you to the rivers that shape the town. You'll cross the Vrla Bridge and enjoy the quiet atmosphere on the banks of the Južna Morava river, perfect for gathering the day's impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pljeskavica",
+            "tip": "Probieren Sie dieses klassische serbische gegrillte Fleischgericht in einem lokalen Restaurant."
+          },
+          {
+            "name": "Ćevapi",
+            "tip": "Ein Muss in Serbien, serviert mit Fladenbrot und Zwiebeln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pljeskavica",
+            "tip": "Kóstolja meg ezt a klasszikus szerb grillezett húsételt egy helyi étteremben."
+          },
+          {
+            "name": "Ćevapi",
+            "tip": "Kötelező Szerbiában, lepénnyel és hagymával tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pljeskavica",
+            "tip": "Încercați acest preparat clasic sârbesc din carne la grătar la un restaurant local."
+          },
+          {
+            "name": "Ćevapi",
+            "tip": "O necesitate în Serbia, servit cu pâine plată și ceapă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pljeskavica",
+            "tip": "Try this classic Serbian grilled meat dish at a local restaurant."
+          },
+          {
+            "name": "Ćevapi",
+            "tip": "A must-try in Serbia, served with flatbread and onions."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Južna Morava",
+            "tip": "Ein friedlicher Spaziergang entlang des Flusses.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park der Helden",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie das Grün.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Južna Morava partja",
+            "tip": "Békés séta a folyó mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hősök parkja",
+            "tip": "Keressen egy csendes padot, és élvezze a zöldet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Južna Morava",
+            "tip": "O plimbare liniștită de-a lungul râului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Eroilor",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de verdeață.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Južna Morava Riverbank",
+            "tip": "A peaceful walk along the river.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park of Heroes",
+            "tip": "Find a quiet bench and enjoy the greenery.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach frischen Produkten und handgemachten Waren."
+          },
+          {
+            "name": "Souvenirläden im Zentrum",
+            "tip": "Finden Sie kleine Andenken an Ihren Besuch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen friss termékeket és kézműves árukat."
+          },
+          {
+            "name": "Ajándékboltok a központban",
+            "tip": "Találjon apró emléktárgyakat a látogatásáról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse proaspete și articole de artizanat."
+          },
+          {
+            "name": "Magazine de suveniruri în centru",
+            "tip": "Găsiți mici amintiri ale vizitei dumneavoastră."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for fresh produce and handmade goods."
+          },
+          {
+            "name": "Souvenir shops in the center",
+            "tip": "Find small mementos of your visit."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag auf den Beinen sein werden.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit.",
+          "Planen Sie ein Mittagessen in einem der lokalen Restaurants ein, um die serbische Küche zu probieren."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap talpon lesz.",
+          "Vigyen magával újratölthető vizes palackot.",
+          "Tervezzen ebédet az egyik helyi étteremben, hogy megkóstolja a szerb konyhát."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți fi în picioare toată ziua.",
+          "Luați cu dumneavoastră o sticlă de apă reutilizabilă.",
+          "Planificați prânzul la unul dintre restaurantele locale pentru a gusta bucătăria sârbească."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be on your feet all day.",
+          "Bring a reusable water bottle.",
+          "Plan for lunch at one of the local restaurants to taste Serbian cuisine."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:21",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Denkmal für die Befreier",
+            "hu": "Felszabadítók emlékműve",
+            "ro": "Monumentul Eliberatorilor",
+            "en": "Monument to the Liberators"
+          },
+          "coords": [
+            22.0715,
+            42.7085
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein schneller Stopp, um die lokale Geschichte aufzunehmen.",
+            "hu": "Gyors megálló a helyi történelem megismerésére.",
+            "ro": "O oprire rapidă pentru a absorbi istoria locală.",
+            "en": "A quick stop to absorb the local history."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Nikolaus-Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "St. Nicholas Church"
+          },
+          "coords": [
+            22.073,
+            42.7095
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:28",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie die Kirche betreten.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt belép a templomba.",
+            "ro": "Asigurați-vă bicicleta înainte de a intra în biserică.",
+            "en": "Lock your bike securely before entering the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Park der Helden",
+            "hu": "Hősök parkja",
+            "ro": "Parcul Eroilor",
+            "en": "Park of Heroes"
+          },
+          "coords": [
+            22.075,
+            42.712
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:04",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Radtour durch den Park.",
+            "hu": "Tegyen egy rövid biciklitúrát a parkon keresztül.",
+            "ro": "Faceți o scurtă plimbare cu bicicleta prin parc.",
+            "en": "Take a short bike ride through the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Vrla Brücke",
+            "hu": "Vrla-híd",
+            "ro": "Podul Vrla",
+            "en": "Vrla Bridge"
+          },
+          "coords": [
+            22.068,
+            42.71
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:01",
+          "stay_min": 20,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Halten Sie in der Mitte der Brücke für die beste Aussicht an.",
+            "hu": "Álljon meg a híd közepén a legjobb kilátásért.",
+            "ro": "Opriți-vă la mijlocul podului pentru cea mai bună priveliște.",
+            "en": "Stop in the middle of the bridge for the best view."
+          }
+        },
+        {
+          "name": {
+            "de": "Vrla Flussmündung",
+            "hu": "Vrla folyótorkolat",
+            "ro": "Gura râului Vrla",
+            "en": "Vrla River Mouth"
+          },
+          "coords": [
+            22.063,
+            42.706
+          ],
+          "category": "natural features",
+          "arrive_at": "11:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie, wo die beiden Flüsse zusammenfließen.",
+            "hu": "Figyelje meg, hol folyik össze a két folyó.",
+            "ro": "Urmăriți unde se întâlnesc cele două râuri.",
+            "en": "Observe where the two rivers merge."
+          }
+        },
+        {
+          "name": {
+            "de": "Južna Morava Flussufer",
+            "hu": "Déli-Morava folyópart",
+            "ro": "Malul râului Južna Morava",
+            "en": "Južna Morava Riverbank"
+          },
+          "coords": [
+            22.06,
+            42.705
+          ],
+          "category": "natural features",
+          "arrive_at": "12:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für ein Picknick am Nachmittag.",
+            "hu": "Remek hely egy délutáni piknikhez.",
+            "ro": "Un loc minunat pentru un picnic de după-amiază.",
+            "en": "A great spot for an afternoon picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Sportska Hala",
+            "hu": "Sportcsarnok",
+            "ro": "Sala de Sport",
+            "en": "Sports Hall"
+          },
+          "coords": [
+            22.078,
+            42.707
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:30",
+          "stay_min": 81,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Auch wenn kein Spiel stattfindet, ist die Architektur interessant.",
+            "hu": "Még ha nincs is meccs, az építészet érdekes.",
+            "ro": "Chiar dacă nu are loc niciun meci, arhitectura este interesantă.",
+            "en": "Even if there's no game on, the architecture is interesting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auf zwei Rädern erkunden Sie Vladičin Han weiter. Der Morgen führt Sie vom Stadtzentrum zum grünen Park der Helden. Am Nachmittag folgen Sie dem Lauf der Flüsse, überqueren Brücken und entdecken die Stelle, wo Vrla und Južna Morava zusammenfließen. Die Tour endet bei der Sporthalle, einem modernen Kontrapunkt zur historischen Umgebung, bevor Sie den Tag entspannt ausklingen lassen.",
+        "hu": "Két keréken még többet fedezhet fel Vladičin Hanból. A reggel a városközpontból a zöld Hősök parkjába vezet. Délután a folyók útját követi, hidakon kel át, és felfedezi a helyet, ahol a Vrla és a Južna Morava összefolyik. A túra a Sportcsarnoknál ér véget, amely modern ellenpontot képez a történelmi környezettel, mielőtt pihentetően zárná a napot.",
+        "ro": "Explorați mai mult din Vladičin Han pe două roți. Dimineața vă duce din centrul orașului în Parcul verde al Eroilor. După-amiaza, urmați cursul râurilor, traversând poduri și descoperind locul unde se întâlnesc Vrla și Južna Morava. Turul se încheie la Sala Sporturilor, un contrapunct modern la mediul istoric, înainte de a încheia ziua într-un mod relaxat.",
+        "en": "Explore more of Vladičin Han on two wheels. The morning takes you from the city center to the green Park of Heroes. In the afternoon, you'll follow the course of the rivers, crossing bridges and discovering where the Vrla and Južna Morava merge. The tour finishes at the Sports Hall, a modern counterpoint to the historic surroundings, before you end the day relaxing."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Leskovačka mućkalica",
+            "tip": "Ein herzhafter Eintopf mit Schweinefleisch und Gemüse, perfekt nach einer Radtour."
+          },
+          {
+            "name": "Krofne",
+            "tip": "Lokale Donuts als süße Belohnung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Leskovaci mućkalica",
+            "tip": "Kiadós sertéshúsos-zöldséges pörkölt, tökéletes egy biciklitúra után."
+          },
+          {
+            "name": "Krofne",
+            "tip": "Helyi fánk édes jutalomként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Leskovačka mućkalica",
+            "tip": "O tocană consistentă cu carne de porc și legume, perfectă după o plimbare cu bicicleta."
+          },
+          {
+            "name": "Krofne",
+            "tip": "Gogoși locale ca o recompensă dulce."
+          }
+        ],
+        "en": [
+          {
+            "name": "Leskovačka mućkalica",
+            "tip": "A hearty pork and vegetable stew, perfect after a bike ride."
+          },
+          {
+            "name": "Krofne",
+            "tip": "Local doughnuts for a sweet reward."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vrla Flussmündung",
+            "tip": "Ein ruhiger Ort, um die Natur zu beobachten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spaziergang am Južna Morava",
+            "tip": "Genießen Sie die Stille abseits des Zentrums.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vrla folyótorkolat",
+            "tip": "Csendes hely a természet megfigyelésére.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Séta a Južna Morava mentén",
+            "tip": "Élvezze a csendet a központtól távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gura râului Vrla",
+            "tip": "Un loc liniștit pentru a observa natura.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plimbare pe malul Južna Morava",
+            "tip": "Bucurați-vă de liniște departe de centru.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vrla River Mouth",
+            "tip": "A quiet spot to observe nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stroll along the Južna Morava",
+            "tip": "Enjoy the quiet away from the center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Falls Sie Zubehör oder eine schnelle Reparatur benötigen."
+          },
+          {
+            "name": "Kleine Bäckereien",
+            "tip": "Holen Sie sich lokale Backwaren für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Ha tartozékra vagy gyors javításra van szüksége."
+          },
+          {
+            "name": "Kis pékségek",
+            "tip": "Vegyen helyi pékárut útközbenre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "În caz că aveți nevoie de accesorii sau de o reparație rapidă."
+          },
+          {
+            "name": "Mici brutării",
+            "tip": "Luați produse de patiserie locale pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shops",
+            "tip": "In case you need any accessories or a quick fix."
+          },
+          {
+            "name": "Small bakeries",
+            "tip": "Grab some local pastries for the road."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt.",
+          "Ein Helm wird dringend empfohlen.",
+          "Einige Wege am Fluss können uneben sein, fahren Sie also vorsichtig."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját.",
+          "Sisak használata erősen ajánlott.",
+          "Néhány folyóparti út egyenetlen lehet, ezért óvatosan közlekedjen."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca.",
+          "Se recomandă cu insistență purtarea căștii.",
+          "Unele poteci de pe malul râului pot fi denivelate, așa că mergeți cu prudență."
+        ],
+        "en": [
+          "Check your bike before you set off.",
+          "A helmet is highly recommended.",
+          "Some paths by the river can be uneven, so ride carefully."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:24",
+      "total_km": 11.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Zentrum: Denkmal & Kirche",
+            "hu": "Központ Klaszter: Emlékmű és Templom",
+            "ro": "Cluster Centru: Monument & Biserică",
+            "en": "Center Cluster: Monument & Church"
+          },
+          "coords": [
+            22.0715,
+            42.7085
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto im Zentrum und erkunden Sie den ersten Cluster zu Fuß.",
+            "hu": "Parkolja le az autót a központban, és fedezze fel az első klasztert gyalog.",
+            "ro": "Parcați mașina în centru și explorați primul cluster pe jos.",
+            "en": "Park your car in the center and explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Nikolaus-Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "St. Nicholas Church"
+          },
+          "coords": [
+            22.073,
+            42.7095
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Denkmal entfernt.",
+            "hu": "Csak egy rövid séta az emlékműtől.",
+            "ro": "La doar o scurtă plimbare de monument.",
+            "en": "Just a short walk from the monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Flussufer: Vrla Brücke",
+            "hu": "Folyóparti Klaszter: Vrla-híd",
+            "ro": "Cluster Malul Râului: Podul Vrla",
+            "en": "Riverbank Cluster: Vrla Bridge"
+          },
+          "coords": [
+            22.068,
+            42.71
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:31",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Flussufer und parken Sie erneut für den zweiten Cluster.",
+            "hu": "Vezessen a folyóparthoz, és parkoljon le újra a második klaszterhez.",
+            "ro": "Conduceți spre malul râului și parcați din nou pentru al doilea cluster.",
+            "en": "Drive to the riverbank and park again for the second cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Južna Morava Flussufer",
+            "hu": "Déli-Morava folyópart",
+            "ro": "Malul râului Južna Morava",
+            "en": "Južna Morava Riverbank"
+          },
+          "coords": [
+            22.065,
+            42.708
+          ],
+          "category": "natural features",
+          "arrive_at": "11:06",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannender Spaziergang, um die Natur zu genießen.",
+            "hu": "Pihentető séta a természet élvezetéhez.",
+            "ro": "O plimbare relaxantă pentru a vă bucura de natură.",
+            "en": "A relaxing walk to enjoy nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Ausflug: Hügel mit Panoramablick",
+            "hu": "Kirándulás: Panorámás domb",
+            "ro": "Excursie: Deal cu vedere panoramică",
+            "en": "Excursion: Panoramic View Hill"
+          },
+          "coords": [
+            22.105,
+            42.72
+          ],
+          "category": "viewpoint",
+          "arrive_at": "12:59",
+          "stay_min": 95,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 5.4,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein kurzer Ausflug aus der Stadt für eine atemberaubende Aussicht.",
+            "hu": "Rövid kirándulás a városból a lélegzetelállító kilátásért.",
+            "ro": "O scurtă excursie în afara orașului pentru o priveliște uluitoare.",
+            "en": "A short trip out of town for a breathtaking view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Vladičin Han in Clustern. Der Vormittag ist dem historischen Zentrum gewidmet, wo Sie zwischen Denkmal und Kirche spazieren. Anschließend fahren Sie zum Flussufer, einem zweiten Cluster, um die Brücke und die ruhigen Ufer zu erkunden. Der Nachmittag bietet einen kurzen Ausflug zu einem nahegelegenen Hügel, der einen weiten Panoramablick über die gesamte Region als krönenden Abschluss Ihres Tages bietet.",
+        "hu": "Autóval klaszterekben fedezheti fel Vladičin Hant. A délelőtt a történelmi központé, ahol az emlékmű és a templom között sétálhat. Ezután a folyóparthoz, egy második klaszterhez hajt, hogy felfedezze a hidat és a csendes partokat. A délután egy rövid kirándulást kínál egy közeli dombra, amely széles panorámát nyújt az egész régióra, megkoronázva a napot.",
+        "ro": "Cu mașina, explorați Vladičin Han în clustere. Dimineața este dedicată centrului istoric, plimbându-vă între monument și biserică. Apoi, conduceți spre malul râului, un al doilea cluster, pentru a explora podul și malurile liniștite. După-amiaza oferă o scurtă excursie la un deal din apropiere, care oferă o vedere panoramică largă asupra întregii regiuni ca o încununare a zilei.",
+        "en": "By car, you'll explore Vladičin Han in clusters. The morning is dedicated to the historic center, walking between the monument and the church. Then, you'll drive to the riverbank, a second cluster, to explore the bridge and the quiet banks. The afternoon offers a short trip to a nearby hill, providing a wide panoramic view of the entire region as a crowning finale to your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant mit Aussicht",
+            "tip": "Suchen Sie ein Restaurant außerhalb der Stadt für ein Mittagessen mit Panoramablick."
+          },
+          {
+            "name": "Sarajevski roštilj",
+            "tip": "Probieren Sie verschiedene Grillspezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátós étterem",
+            "tip": "Keressen egy városon kívüli éttermet egy panorámás ebédhez."
+          },
+          {
+            "name": "Szarajevói grill",
+            "tip": "Kóstoljon meg különböző grill specialitásokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant cu priveliște",
+            "tip": "Căutați un restaurant în afara orașului pentru un prânz cu vedere panoramică."
+          },
+          {
+            "name": "Sarajevski roštilj",
+            "tip": "Încercați diverse specialități la grătar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant with a view",
+            "tip": "Find a restaurant outside the town for lunch with a panoramic view."
+          },
+          {
+            "name": "Sarajevski roštilj",
+            "tip": "Try various grilled specialties."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Panoramablick vom Hügel",
+            "tip": "Der perfekte Ort für Stille und weite Aussichten.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Versteckter Platz am Fluss",
+            "tip": "Finden Sie Ihren eigenen ruhigen Ort am Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Panorámakilátás a dombról",
+            "tip": "Tökéletes hely a csendhez és a széles kilátáshoz.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rejtett hely a folyónál",
+            "tip": "Találja meg saját csendes helyét a víz mellett.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere panoramică de pe deal",
+            "tip": "Locul perfect pentru liniște și priveliști largi.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Loc ascuns pe râu",
+            "tip": "Găsiți-vă propriul loc liniștit lângă apă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Panoramic view from the hill",
+            "tip": "The perfect spot for silence and wide views.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hidden spot by the river",
+            "tip": "Find your own quiet place by the water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Auf dem Land finden Sie lokale Produkte direkt vom Erzeuger."
+          },
+          {
+            "name": "Rakija-Verkauf",
+            "tip": "Kaufen Sie eine Flasche des lokalen Schnapses als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői boltok",
+            "tip": "Vidéken helyi termékeket találhat közvetlenül a termelőtől."
+          },
+          {
+            "name": "Pálinkaárusítás",
+            "tip": "Vásároljon egy üveg helyi pálinkát emlékként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de la fermă",
+            "tip": "În mediul rural puteți găsi produse locale direct de la producător."
+          },
+          {
+            "name": "Vânzare de Rakija",
+            "tip": "Cumpărați o sticlă de rachiu local ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops",
+            "tip": "In the countryside, you can find local products directly from the producer."
+          },
+          {
+            "name": "Rakija sale",
+            "tip": "Buy a bottle of the local brandy as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten im Voraus.",
+          "Ein GPS ist nützlich für die Navigation zu den Hügeln außerhalb der Stadt.",
+          "Kombinieren Sie Ihren Ausflug mit einem Mittagessen auf dem Land."
+        ],
+        "hu": [
+          "Előre ellenőrizze a parkolási lehetőségeket.",
+          "A GPS hasznos a városon kívüli dombokhoz való navigáláshoz.",
+          "Kombinálja a kirándulást egy vidéki ebéddel."
+        ],
+        "ro": [
+          "Verificați opțiunile de parcare în avans.",
+          "Un GPS este util pentru navigarea către dealurile din afara orașului.",
+          "Combinați excursia cu un prânz la țară."
+        ],
+        "en": [
+          "Check parking options in advance.",
+          "A GPS is useful for navigating to the hills outside the town.",
+          "Combine your trip with lunch in the countryside."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "14:48",
+      "total_km": 4.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Zentrum: Denkmal",
+            "hu": "Központ Klaszter: Emlékmű",
+            "ro": "Cluster Centru: Monument",
+            "en": "Center Cluster: Monument"
+          },
+          "coords": [
+            22.0715,
+            42.7085
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie an der zentralen Bushaltestelle und gehen Sie zum Denkmal.",
+            "hu": "Kezdje a központi buszmegállónál, és sétáljon az emlékműhöz.",
+            "ro": "Începeți de la stația centrală de autobuz și mergeți pe jos până la monument.",
+            "en": "Start at the central bus stop and walk to the monument."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Nikolaus-Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "St. Nicholas Church"
+          },
+          "coords": [
+            22.073,
+            42.7095
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:36",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Kirche ist nur einen kurzen Spaziergang vom Denkmal entfernt.",
+            "hu": "A templom csak egy rövid sétára van az emlékműtől.",
+            "ro": "Biserica se află la o scurtă plimbare de monument.",
+            "en": "The church is a short walk from the monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Park: Park der Helden",
+            "hu": "Park Klaszter: Hősök parkja",
+            "ro": "Cluster Parc: Parcul Eroilor",
+            "en": "Park Cluster: Park of Heroes"
+          },
+          "coords": [
+            22.075,
+            42.712
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Park und genießen Sie das Grün.",
+            "hu": "Menjen busszal a parkba, és élvezze a zöldet.",
+            "ro": "Luați un autobuz spre parc și bucurați-vă de verdeață.",
+            "en": "Take a bus to the park and enjoy the greenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Vladičin Han",
+            "hu": "Vladičin Han Kulturális Központ",
+            "ro": "Centrul Cultural Vladičin Han",
+            "en": "Cultural Center Vladičin Han"
+          },
+          "coords": [
+            22.07,
+            42.709
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:04",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Park aus leicht zu Fuß erreichbar.",
+            "hu": "A parkból könnyen megközelíthető gyalog.",
+            "ro": "Ușor de ajuns pe jos din parc.",
+            "en": "Easily walkable from the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Fluss: Vrla Brücke",
+            "hu": "Folyó Klaszter: Vrla-híd",
+            "ro": "Cluster Râu: Podul Vrla",
+            "en": "River Cluster: Vrla Bridge"
+          },
+          "coords": [
+            22.068,
+            42.71
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:10",
+          "stay_min": 68,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die letzte Fahrt des Tages bringt Sie zum Fluss.",
+            "hu": "A nap utolsó utazása a folyóhoz visz.",
+            "ro": "Ultima călătorie a zilei vă duce la râu.",
+            "en": "The last ride of the day takes you to the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln bewegen Sie sich effizient zwischen den Clustern von Vladičin Han. Sie beginnen im Zentrum, wo Geschichte und Glaube nahe beieinander liegen. Eine kurze Busfahrt bringt Sie zum grünen Park, von wo aus Sie das Kulturzentrum zu Fuß erreichen. Der letzte Bus bringt Sie zum Fluss, wo Sie den Tag mit einem Spaziergang über die Vrla-Brücke und entlang des Ufers abschließen.",
+        "hu": "Tömegközlekedéssel hatékonyan mozoghat Vladičin Han klaszterei között. A központban kezd, ahol a történelem és a hit közel állnak egymáshoz. Egy rövid buszút elviszi a zöld parkba, ahonnan gyalog elérheti a kulturális központot. Az utolsó busz a folyóhoz viszi, ahol a napot a Vrla-hídon átívelő sétával és a part menti sétával zárja.",
+        "ro": "Folosind transportul public, vă deplasați eficient între clusterele din Vladičin Han. Începeți în centru, unde istoria și credința sunt apropiate. O scurtă călătorie cu autobuzul vă duce la parcul verde, de unde puteți ajunge pe jos la centrul cultural. Ultimul autobuz vă duce la râu, unde încheiați ziua cu o plimbare peste podul Vrla și de-a lungul malului.",
+        "en": "Using public transport, you move efficiently between the clusters of Vladičin Han. You start in the center, where history and faith are close together. A short bus ride takes you to the green park, from where you can walk to the cultural center. The last bus takes you to the river, where you end the day with a walk across the Vrla Bridge and along the bank."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pekara (Bäckerei)",
+            "tip": "Holen Sie sich ein Burek oder ein anderes Gebäck für eine schnelle Mahlzeit."
+          },
+          {
+            "name": "Kafana",
+            "tip": "Erleben Sie ein traditionelles serbisches Gasthaus."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pekara (Pékség)",
+            "tip": "Vegyen egy bureket vagy más péksüteményt egy gyors étkezéshez."
+          },
+          {
+            "name": "Kafana",
+            "tip": "Tapasztalja meg a hagyományos szerb vendéglőt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pekara (Brutărie)",
+            "tip": "Luați un burek sau alt produs de patiserie pentru o masă rapidă."
+          },
+          {
+            "name": "Kafana",
+            "tip": "Experimentați o tavernă tradițională sârbească."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pekara (Bakery)",
+            "tip": "Grab a burek or other pastry for a quick meal."
+          },
+          {
+            "name": "Kafana",
+            "tip": "Experience a traditional Serbian tavern."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt mit dem Bus",
+            "tip": "Beobachten Sie das Stadtleben vom Fenster aus.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Bank im Park der Helden",
+            "tip": "Ein Moment der Ruhe zwischen den Aktivitäten.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás",
+            "tip": "Figyelje a városi életet az ablakból.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Pad a Hősök parkjában",
+            "tip": "Egy pillanatnyi csend a tevékenységek között.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătorie cu autobuzul",
+            "tip": "Observați viața orașului de la fereastră.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Bancă în Parcul Eroilor",
+            "tip": "Un moment de liniște între activități.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride",
+            "tip": "Watch the city life from the window.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Bench in the Park of Heroes",
+            "tip": "A moment of quiet between activities.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk",
+            "tip": "Kaufen Sie Fahrkarten und kleine Snacks."
+          },
+          {
+            "name": "Lokaler Supermarkt",
+            "tip": "Besorgen Sie sich Getränke und lokale Süßigkeiten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk",
+            "tip": "Vásároljon jegyeket és apró harapnivalókat."
+          },
+          {
+            "name": "Helyi szupermarket",
+            "tip": "Szerezzen be italokat és helyi édességeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc",
+            "tip": "Cumpărați bilete și mici gustări."
+          },
+          {
+            "name": "Supermarket local",
+            "tip": "Luați băuturi și dulciuri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk",
+            "tip": "Buy tickets and small snacks."
+          },
+          {
+            "name": "Local supermarket",
+            "tip": "Get drinks and local sweets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte, wenn verfügbar.",
+          "Überprüfen Sie den Busfahrplan im Voraus, besonders für die letzte Fahrt.",
+          "Haben Sie Kleingeld für die Fahrkarten dabei."
+        ],
+        "hu": [
+          "Vásároljon napijegyet, ha elérhető.",
+          "Előre ellenőrizze a buszmenetrendet, különösen az utolsó járat esetében.",
+          "Legyen nálad aprópénz a jegyekhez."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi, dacă este disponibil.",
+          "Verificați programul autobuzelor în avans, în special pentru ultima călătorie.",
+          "Aveți bani mărunți pentru bilete."
+        ],
+        "en": [
+          "Buy a day pass if available.",
+          "Check the bus schedule in advance, especially for the last ride.",
+          "Have small change ready for tickets."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1470 @@
+{
+  "city_id": "spain-lugo-cities-v2",
+  "anchor": {
+    "name": "Lugo",
+    "coords": [
+      -7.5558,
+      43.0125
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza Mayor",
+            "hu": "Fő tér (Plaza Mayor)",
+            "ro": "Plaza Mayor",
+            "en": "Main Square (Plaza Mayor)"
+          },
+          "coords": [
+            -7.5567,
+            43.0115
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee in einem der vielen Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában!",
+            "ro": "Începeți ziua cu o cafea la una dintre numeroasele cafenele din piață.",
+            "en": "Start your day with a coffee at one of the many cafés in the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Lugo",
+            "hu": "Lugói székesegyház",
+            "ro": "Catedrala din Lugo",
+            "en": "Lugo Cathedral"
+          },
+          "coords": [
+            -7.5583,
+            43.0105
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Mischung aus romanischen, gotischen und barocken Stilen.",
+            "hu": "Csodálja meg a román, gótikus és barokk stílusok keveredését.",
+            "ro": "Admirați amestecul de stiluri romanic, gotic și baroc.",
+            "en": "Admire the mix of Romanesque, Gothic, and Baroque styles."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Mauern von Lugo",
+            "hu": "Lugói római falak",
+            "ro": "Zidurile romane din Lugo",
+            "en": "Roman Walls of Lugo"
+          },
+          "coords": [
+            -7.559,
+            43.012
+          ],
+          "category": "historical",
+          "arrive_at": "11:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Gehen Sie den gesamten Umfang der Mauern ab, um die beste Aussicht zu genießen.",
+            "hu": "Sétálja körbe a teljes falat a legjobb kilátásért.",
+            "ro": "Parcurgeți întregul perimetru al zidurilor pentru cele mai bune priveliști.",
+            "en": "Walk the entire perimeter of the walls for the best views."
+          }
+        },
+        {
+          "name": {
+            "de": "Domus do Mitreo",
+            "hu": "Domus do Mitreo",
+            "ro": "Domus do Mitreo",
+            "en": "Domus do Mitreo"
+          },
+          "coords": [
+            -7.5579,
+            43.01
+          ],
+          "category": "museums",
+          "arrive_at": "12:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die römischen Überreste unter der Kathedrale.",
+            "hu": "Fedezze fel a katedrális alatti római kori maradványokat.",
+            "ro": "Descoperiți vestigiile romane de sub catedrală.",
+            "en": "Discover the Roman remains underneath the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Provinzialmuseum von Lugo",
+            "hu": "Lugói Tartományi Múzeum",
+            "ro": "Muzeul Provincial din Lugo",
+            "en": "Provincial Museum of Lugo"
+          },
+          "coords": [
+            -7.555,
+            43.0135
+          ],
+          "category": "museums",
+          "arrive_at": "13:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die galicischen Gold- und Silberschmiedearbeiten.",
+            "hu": "Ne hagyja ki a galíciai arany- és ezüstműves munkákat bemutató részt.",
+            "ro": "Nu ratați secțiunea de orfevrărie galiciană din aur și argint.",
+            "en": "Don't miss the Galician gold and silverwork section."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Brücke",
+            "hu": "Római híd",
+            "ro": "Podul Roman",
+            "en": "Roman Bridge"
+          },
+          "coords": [
+            -7.5612,
+            43.0042
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für Fotos, besonders am späten Nachmittag.",
+            "hu": "Tökéletes hely a fotózásra, különösen késő délután.",
+            "ro": "Un loc perfect pentru fotografii, mai ales după-amiaza târziu.",
+            "en": "A perfect spot for photos, especially in the late afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque de Rosalía de Castro",
+            "hu": "Rosalía de Castro Park",
+            "ro": "Parcul Rosalía de Castro",
+            "en": "Rosalía de Castro Park"
+          },
+          "coords": [
+            -7.5528,
+            43.008
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich und genießen Sie die Aussicht auf den Fluss Miño.",
+            "hu": "Pihenjen és élvezze a Miño folyóra nyíló kilátást.",
+            "ro": "Relaxați-vă și bucurați-vă de priveliștea asupra râului Miño.",
+            "en": "Relax and enjoy the views over the Miño river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Lugo beginnt im Herzen der Stadt, an der Plaza Mayor, bevor Sie die prächtige Kathedrale erkunden. Am Vormittag erleben Sie Geschichte hautnah bei einem Spaziergang auf den vollständig erhaltenen römischen Mauern, einem UNESCO-Weltkulturerbe. Nach dem Mittagessen tauchen Sie in die tiefere Vergangenheit ein, mit Besuchen im Domus do Mitreo und dem Provinzialmuseum, die beide faszinierende Einblicke in die römische und galicische Kultur bieten. Der Nachmittag wird ruhiger mit einem Spaziergang zur alten römischen Brücke und entspannten Momenten im Parque de Rosalía de Castro, wo Sie den Tag mit Blick auf den Fluss Miño ausklingen lassen.",
+        "hu": "Lugói napja a város szívében, a Plaza Mayoron kezdődik, mielőtt felfedezné a csodálatos katedrálist. A délelőtt folyamán testközelből élheti át a történelmet egy sétán a teljesen megmaradt római falakon, mely az UNESCO Világörökség része. Ebéd után mélyebbre merül a múltban a Domus do Mitreo és a Tartományi Múzeum meglátogatásával, melyek lenyűgöző betekintést nyújtanak a római és galíciai kultúrába. A délután nyugodtabban telik egy sétával az ősi római hídhoz és pihentető percekkel a Rosalía de Castro parkban, ahol a Miño folyóra nyíló kilátással zárhatja a napot.",
+        "ro": "Ziua dvs. în Lugo începe în inima orașului, la Plaza Mayor, înainte de a explora magnifica catedrală. Dimineața veți experimenta istoria de aproape cu o plimbare pe zidurile romane complet intacte, un sit al Patrimoniului Mondial UNESCO. După prânz, vă veți scufunda într-un trecut mai adânc, cu vizite la Domus do Mitreo și Muzeul Provincial, ambele oferind perspective fascinante asupra culturii romane și galiciene. După-amiaza devine mai liniștită cu o plimbare până la vechiul pod roman și momente de relaxare în Parcul Rosalía de Castro, unde puteți încheia ziua admirând râul Miño.",
+        "en": "Your day in Lugo begins in the heart of the city at Plaza Mayor before exploring the magnificent cathedral. In the morning, you'll experience history up close with a walk on the fully intact Roman walls, a UNESCO World Heritage site. After lunch, you'll delve into a deeper past with visits to the Domus do Mitreo and the Provincial Museum, both offering fascinating insights into Roman and Galician culture. The afternoon becomes more tranquil with a stroll to the ancient Roman bridge and relaxing moments in Rosalía de Castro Park, where you can end the day overlooking the Miño River."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pulpo á Feira (Krake nach galicischer Art)",
+            "tip": "Probieren Sie dieses typische Gericht in einer der vielen 'Pulperías' in der Altstadt."
+          },
+          {
+            "name": "Empanada Gallega",
+            "tip": "Ein herzhafter Kuchen, gefüllt mit Thunfisch, Fleisch oder Meeresfrüchten, perfekt für ein schnelles Mittagessen."
+          },
+          {
+            "name": "Tarta de Santiago",
+            "tip": "Ein köstlicher Mandelkuchen, der oft mit einem süßen Wein serviert wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pulpo á Feira (polip galíciai módra)",
+            "tip": "Kóstolja meg ezt a jellegzetes ételt az óváros egyik 'pulperíá'-jában."
+          },
+          {
+            "name": "Empanada Gallega",
+            "tip": "Ízletes pite tonhallal, hússal vagy tenger gyümölcseivel töltve, tökéletes egy gyors ebédre."
+          },
+          {
+            "name": "Tarta de Santiago",
+            "tip": "Finom mandulatorta, amelyet gyakran édes borral szolgálnak fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pulpo á Feira (Caracatiță în stil galician)",
+            "tip": "Încercați acest fel de mâncare tipic la una dintre multele 'pulperías' din centrul vechi."
+          },
+          {
+            "name": "Empanada Gallega",
+            "tip": "O plăcintă sărată umplută cu ton, carne sau fructe de mare, perfectă pentru un prânz rapid."
+          },
+          {
+            "name": "Tarta de Santiago",
+            "tip": "O prăjitură delicioasă cu migdale, adesea servită cu un vin dulce."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pulpo á Feira (Galician-style octopus)",
+            "tip": "Try this typical dish in one of the many 'pulperías' in the old town."
+          },
+          {
+            "name": "Empanada Gallega",
+            "tip": "A savory pie filled with tuna, meat, or seafood, perfect for a quick lunch."
+          },
+          {
+            "name": "Tarta de Santiago",
+            "tip": "A delicious almond cake, often served with a sweet wine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Miño",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses, abseits des Trubels der Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Innenhof des Provinzialmuseums",
+            "tip": "Ein friedlicher Ort, um nach dem Museumsbesuch zu entspannen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sonnenuntergang von den Römischen Mauern",
+            "tip": "Finden Sie einen ruhigen Abschnitt der Mauern, um den Sonnenuntergang über der Stadt zu beobachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Miño folyó partja",
+            "tip": "Egy csendes séta a folyó mentén, távol a város nyüzsgésétől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Tartományi Múzeum belső udvara",
+            "tip": "Békés hely a pihenésre a múzeumlátogatás után.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Naplemente a római falakról",
+            "tip": "Keressen egy csendes szakaszt a falakon, és nézze a naplementét a város felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Miño",
+            "tip": "O plimbare liniștită de-a lungul râului, departe de agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea interioară a Muzeului Provincial",
+            "tip": "Un loc pașnic pentru a vă relaxa după vizitarea muzeului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Apus de soare de pe Zidurile Romane",
+            "tip": "Găsiți o secțiune liniștită a zidurilor pentru a privi apusul peste oraș.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Miño River",
+            "tip": "A quiet walk along the river, away from the city bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Courtyard of the Provincial Museum",
+            "tip": "A peaceful spot to relax after your museum visit.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sunset from the Roman Walls",
+            "tip": "Find a quiet section of the walls to watch the sunset over the city.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rúa da Raíña und Rúa Nova",
+            "tip": "Die Haupteinkaufsstraßen mit einer Mischung aus lokalen Geschäften und bekannten Marken."
+          },
+          {
+            "name": "Mercado Municipal de Abastos",
+            "tip": "Ein lebhafter Markt, auf dem Sie frische lokale Produkte und galicische Spezialitäten finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rúa da Raíña és Rúa Nova",
+            "tip": "A fő bevásárlóutcák helyi boltok és ismert márkák keverékével."
+          },
+          {
+            "name": "Mercado Municipal de Abastos",
+            "tip": "Élénk piac, ahol friss helyi termékeket és galíciai specialitásokat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rúa da Raíña și Rúa Nova",
+            "tip": "Principalele străzi comerciale cu un amestec de magazine locale și mărci cunoscute."
+          },
+          {
+            "name": "Mercado Municipal de Abastos",
+            "tip": "O piață plină de viață unde puteți găsi produse locale proaspete și specialități galiciene."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rúa da Raíña and Rúa Nova",
+            "tip": "The main shopping streets with a mix of local shops and known brands."
+          },
+          {
+            "name": "Mercado Municipal de Abastos",
+            "tip": "A lively market where you can find fresh local produce and Galician specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel auf Kopfsteinpflaster laufen werden.",
+          "Der Spaziergang auf den römischen Mauern ist kostenlos und rund um die Uhr geöffnet.",
+          "Viele Geschäfte und Museen haben eine Mittagspause (Siesta), planen Sie also entsprechend.",
+          "Probieren Sie die Tapas-Kultur: Zu jedem Getränk gibt es eine kostenlose Tapa."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog macskakövön sétálni.",
+          "A római falakon való séta ingyenes és a nap 24 órájában nyitva áll.",
+          "Sok üzlet és múzeum tart délutáni sziesztát, ezért tervezzen ennek megfelelően.",
+          "Próbálja ki a tapas-kultúrát: minden italhoz ingyenes tapas jár."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe piatră cubică.",
+          "Plimbarea pe zidurile romane este gratuită și deschisă 24/7.",
+          "Multe magazine și muzee au o pauză de prânz (siesta), așa că planificați-vă în consecință.",
+          "Experimentați cultura tapas: veți primi o tapa gratuită la fiecare băutură comandată."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking a lot on cobblestones.",
+          "The walk on the Roman walls is free and open 24/7.",
+          "Many shops and museums have a lunch break (siesta), so plan accordingly.",
+          "Experience the tapas culture: you get a free tapa with every drink you order."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Römische Brücke",
+            "hu": "Római híd",
+            "ro": "Podul Roman",
+            "en": "Roman Bridge"
+          },
+          "coords": [
+            -7.5612,
+            43.0042
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Radtour mit einer tollen Aussicht auf den Fluss Miño.",
+            "hu": "Kezdje a biciklitúrát a Miño folyóra nyíló remek kilátással.",
+            "ro": "Începeți turul cu bicicleta cu o priveliște minunată asupra râului Miño.",
+            "en": "Start your bike tour with a great view of the Miño river."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Thermen",
+            "hu": "Római fürdők",
+            "ro": "Termele Romane",
+            "en": "Roman Baths"
+          },
+          "coords": [
+            -7.563,
+            43.0065
+          ],
+          "category": "historical",
+          "arrive_at": "09:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und erkunden Sie die antiken Bäder am Flussufer.",
+            "hu": "Parkolja le a biciklit és fedezze fel az antik fürdőket a folyóparton.",
+            "ro": "Parcați bicicleta și explorați băile antice de pe malul râului.",
+            "en": "Park your bike and explore the ancient baths on the riverbank."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque de Rosalía de Castro",
+            "hu": "Rosalía de Castro Park",
+            "ro": "Parcul Rosalía de Castro",
+            "en": "Rosalía de Castro Park"
+          },
+          "coords": [
+            -7.5528,
+            43.008
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein schöner Ort für eine kurze Pause mit Blick auf die Stadt.",
+            "hu": "Szép hely egy rövid pihenőre, kilátással a városra.",
+            "ro": "Un loc frumos pentru o scurtă pauză cu vedere la oraș.",
+            "en": "A nice place for a short break with a view of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Mauern von Lugo",
+            "hu": "Lugói római falak",
+            "ro": "Zidurile romane din Lugo",
+            "en": "Roman Walls of Lugo"
+          },
+          "coords": [
+            -7.559,
+            43.012
+          ],
+          "category": "historical",
+          "arrive_at": "11:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Es ist nicht erlaubt, auf den Mauern Rad zu fahren, aber Sie können Ihr Rad unten abstellen und zu Fuß gehen.",
+            "hu": "A falakon nem szabad biciklizni, de lent leparkolhatja és felsétálhat.",
+            "ro": "Nu este permis ciclismul pe ziduri, dar puteți parca bicicleta jos și merge pe jos.",
+            "en": "It's not allowed to cycle on the walls, but you can park your bike below and walk it."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Lugo",
+            "hu": "Lugói székesegyház",
+            "ro": "Catedrala din Lugo",
+            "en": "Lugo Cathedral"
+          },
+          "coords": [
+            -7.5583,
+            43.0105
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad in der Nähe ab, um dieses architektonische Juwel zu besichtigen.",
+            "hu": "Zárja le a biciklit a közelben, hogy megnézhesse ezt az építészeti gyöngyszemet.",
+            "ro": "Legați-vă bicicleta în apropiere pentru a vizita această bijuterie arhitecturală.",
+            "en": "Lock your bike nearby to visit this architectural gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza Mayor (Mittagessen)",
+            "hu": "Plaza Mayor (ebéd)",
+            "ro": "Plaza Mayor (prânz)",
+            "en": "Plaza Mayor (Lunch)"
+          },
+          "coords": [
+            -7.5567,
+            43.0115
+          ],
+          "category": "gastro",
+          "arrive_at": "13:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um eine Pause einzulegen und galicische Spezialitäten zu genießen.",
+            "hu": "Tökéletes hely a pihenésre és a galíciai specialitások megkóstolására.",
+            "ro": "Locul perfect pentru a lua o pauză și a savura specialități galiciene.",
+            "en": "The perfect place to take a break and enjoy Galician specialties."
+          }
+        },
+        {
+          "name": {
+            "de": "Provinzialmuseum von Lugo",
+            "hu": "Lugói Tartományi Múzeum",
+            "ro": "Muzeul Provincial din Lugo",
+            "en": "Provincial Museum of Lugo"
+          },
+          "coords": [
+            -7.555,
+            43.0135
+          ],
+          "category": "museums",
+          "arrive_at": "15:10",
+          "stay_min": 95,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Radle zum Museum für eine Dosis Kultur am Nachmittag.",
+            "hu": "Tekerjen el a múzeumhoz egy délutáni kulturális feltöltődésért.",
+            "ro": "Pedalați până la muzeu pentru o doză de cultură de după-amiază.",
+            "en": "Cycle to the museum for a dose of afternoon culture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour durch Lugo startet an der historischen Römischen Brücke und führt Sie entlang des Flusses Miño zu den antiken Thermen. Nach einer erfrischenden Pause im Parque de Rosalía de Castro erklimmen Sie den Hügel zur Altstadt. Dort stellen Sie Ihr Fahrrad ab, um auf den berühmten Römischen Mauern zu spazieren und die beeindruckende Kathedrale zu besichtigen. Zur Mittagszeit erwartet Sie die lebhafte Plaza Mayor mit kulinarischen Genüssen. Der Nachmittag ist der Kultur gewidmet, mit einer letzten Etappe zum Provinzialmuseum, bevor Sie Ihre Tour beenden.",
+        "hu": "Lugói kerékpártúrája a történelmi római hídnál kezdődik, és a Miño folyó mentén az ókori fürdőkhöz vezet. A Rosalía de Castro parkban tartott frissítő szünet után felteker az óvárosba. Itt leparkolja a kerékpárt, hogy sétáljon a híres római falakon és megcsodálja a lenyűgöző katedrálist. Ebédidőben a nyüzsgő Plaza Mayor várja kulináris élvezetekkel. A délután a kultúráé, egy utolsó szakasszal a Tartományi Múzeumhoz, mielőtt befejezi a túrát.",
+        "ro": "Turul dvs. cu bicicleta prin Lugo începe de la istoricul Pod Roman, ducându-vă de-a lungul râului Miño până la termele antice. După o pauză revigorantă în Parcul Rosalía de Castro, urcați dealul spre orașul vechi. Acolo, parcați bicicleta pentru a vă plimba pe faimoasele Ziduri Romane și pentru a vizita impunătoarea catedrală. La prânz, vibranta Plaza Mayor vă așteaptă cu delicii culinare. După-amiaza este dedicată culturii, cu o ultimă etapă la Muzeul Provincial înainte de a încheia turul.",
+        "en": "Your bike tour of Lugo starts at the historic Roman Bridge, leading you along the Miño River to the ancient baths. After a refreshing break in Rosalía de Castro Park, you'll climb the hill to the old town. There, you'll park your bike to walk the famous Roman Walls and visit the impressive cathedral. At lunchtime, the vibrant Plaza Mayor awaits you with culinary delights. The afternoon is dedicated to culture, with a final leg to the Provincial Museum before finishing your tour."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pulpo á Feira (Krake nach galicischer Art)",
+            "tip": "Probieren Sie dieses typische Gericht in einer der vielen 'Pulperías' in der Altstadt."
+          },
+          {
+            "name": "Empanada Gallega",
+            "tip": "Ein herzhafter Kuchen, gefüllt mit Thunfisch, Fleisch oder Meeresfrüchten, perfekt für ein schnelles Mittagessen."
+          },
+          {
+            "name": "Tarta de Santiago",
+            "tip": "Ein köstlicher Mandelkuchen, der oft mit einem süßen Wein serviert wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pulpo á Feira (polip galíciai módra)",
+            "tip": "Kóstolja meg ezt a jellegzetes ételt az óváros egyik 'pulperíá'-jában."
+          },
+          {
+            "name": "Empanada Gallega",
+            "tip": "Ízletes pite tonhallal, hússal vagy tenger gyümölcseivel töltve, tökéletes egy gyors ebédre."
+          },
+          {
+            "name": "Tarta de Santiago",
+            "tip": "Finom mandulatorta, amelyet gyakran édes borral szolgálnak fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pulpo á Feira (Caracatiță în stil galician)",
+            "tip": "Încercați acest fel de mâncare tipic la una dintre multele 'pulperías' din centrul vechi."
+          },
+          {
+            "name": "Empanada Gallega",
+            "tip": "O plăcintă sărată umplută cu ton, carne sau fructe de mare, perfectă pentru un prânz rapid."
+          },
+          {
+            "name": "Tarta de Santiago",
+            "tip": "O prăjitură delicioasă cu migdale, adesea servită cu un vin dulce."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pulpo á Feira (Galician-style octopus)",
+            "tip": "Try this typical dish in one of the many 'pulperías' in the old town."
+          },
+          {
+            "name": "Empanada Gallega",
+            "tip": "A savory pie filled with tuna, meat, or seafood, perfect for a quick lunch."
+          },
+          {
+            "name": "Tarta de Santiago",
+            "tip": "A delicious almond cake, often served with a sweet wine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Miño",
+            "tip": "Eine ruhige Radtour entlang des Flusses, abseits des Trubels der Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Innenhof des Provinzialmuseums",
+            "tip": "Ein friedlicher Ort, um nach dem Museumsbesuch zu entspannen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sonnenuntergang von den Römischen Mauern",
+            "tip": "Finden Sie einen ruhigen Abschnitt der Mauern, um den Sonnenuntergang über der Stadt zu beobachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Miño folyó partja",
+            "tip": "Egy csendes biciklizés a folyó mentén, távol a város nyüzsgésétől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Tartományi Múzeum belső udvara",
+            "tip": "Békés hely a pihenésre a múzeumlátogatás után.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Naplemente a római falakról",
+            "tip": "Keressen egy csendes szakaszt a falakon, és nézze a naplementét a város felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Miño",
+            "tip": "O plimbare liniștită cu bicicleta de-a lungul râului, departe de agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea interioară a Muzeului Provincial",
+            "tip": "Un loc pașnic pentru a vă relaxa după vizitarea muzeului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Apus de soare de pe Zidurile Romane",
+            "tip": "Găsiți o secțiune liniștită a zidurilor pentru a privi apusul peste oraș.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Miño River",
+            "tip": "A quiet bike ride along the river, away from the city bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Courtyard of the Provincial Museum",
+            "tip": "A peaceful spot to relax after your museum visit.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sunset from the Roman Walls",
+            "tip": "Find a quiet section of the walls to watch the sunset over the city.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rúa da Raíña und Rúa Nova",
+            "tip": "Die Haupteinkaufsstraßen mit einer Mischung aus lokalen Geschäften und bekannten Marken."
+          },
+          {
+            "name": "Mercado Municipal de Abastos",
+            "tip": "Ein lebhafter Markt, auf dem Sie frische lokale Produkte und galicische Spezialitäten finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rúa da Raíña és Rúa Nova",
+            "tip": "A fő bevásárlóutcák helyi boltok és ismert márkák keverékével."
+          },
+          {
+            "name": "Mercado Municipal de Abastos",
+            "tip": "Élénk piac, ahol friss helyi termékeket és galíciai specialitásokat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rúa da Raíña și Rúa Nova",
+            "tip": "Principalele străzi comerciale cu un amestec de magazine locale și mărci cunoscute."
+          },
+          {
+            "name": "Mercado Municipal de Abastos",
+            "tip": "O piață plină de viață unde puteți găsi produse locale proaspete și specialități galiciene."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rúa da Raíña and Rúa Nova",
+            "tip": "The main shopping streets with a mix of local shops and known brands."
+          },
+          {
+            "name": "Mercado Municipal de Abastos",
+            "tip": "A lively market where you can find fresh local produce and Galician specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Lugo ist hügelig, seien Sie also auf einige Anstiege vorbereitet, besonders vom Fluss in die Altstadt.",
+          "Nehmen Sie ein gutes Schloss mit, um Ihr Fahrrad sicher abzustellen, während Sie die Sehenswürdigkeiten erkunden.",
+          "Eine Wasserflasche ist unerlässlich, um hydriert zu bleiben."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket és a gumikat.",
+          "Lugo dombos, ezért készüljön fel néhány emelkedőre, különösen a folyótól az óváros felé.",
+          "Hozzon magával egy jó lakatot, hogy biztonságban lezárhassa a kerékpárt a látnivalók megtekintése közben.",
+          "Egy vizes palack elengedhetetlen a hidratáltsághoz."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele și anvelopele.",
+          "Lugo este un oraș deluros, așa că fiți pregătiți pentru câteva urcări, mai ales de la râu la orașul vechi.",
+          "Luați un lacăt bun pentru a vă asigura bicicleta în timp ce explorați obiectivele turistice.",
+          "O sticlă de apă este esențială pentru a rămâne hidratat."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes and tires.",
+          "Lugo is hilly, so be prepared for some climbs, especially from the river to the old town.",
+          "Bring a good lock to secure your bike while you explore the sights.",
+          "A water bottle is essential to stay hydrated."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 5.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz bei der Römischen Brücke",
+            "hu": "Parkoló a római hídnál",
+            "ro": "Parcare lângă Podul Roman",
+            "en": "Parking near the Roman Bridge"
+          },
+          "coords": [
+            -7.561,
+            43.0035
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier, wo es normalerweise einfacher ist, einen Parkplatz zu finden.",
+            "hu": "Kezdje a napot itt, általában könnyebb parkolóhelyet találni.",
+            "ro": "Începeți-vă ziua de aici, unde este de obicei mai ușor să găsiți parcare.",
+            "en": "Start your day here, where it's usually easier to find parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Brücke & Thermen",
+            "hu": "Római híd és fürdők",
+            "ro": "Podul Roman și Termele",
+            "en": "Roman Bridge & Baths"
+          },
+          "coords": [
+            -7.5612,
+            43.0042
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den Bereich am Flussufer zu Fuß. Die Thermen sind nur einen kurzen Spaziergang entfernt.",
+            "hu": "Fedezze fel gyalog a folyóparti területet. A fürdők csak egy rövid sétára vannak.",
+            "ro": "Explorați pe jos zona de pe malul râului. Termele sunt la o scurtă plimbare.",
+            "en": "Explore the riverside area on foot. The baths are just a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkhaus im Stadtzentrum",
+            "hu": "Parkolóház a központban",
+            "ro": "Parcare subterană în centru",
+            "en": "City Center Parking Garage"
+          },
+          "coords": [
+            -7.5545,
+            43.0125
+          ],
+          "category": "transport",
+          "arrive_at": "10:40",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Rest des Tages, um die Altstadt zu erkunden.",
+            "hu": "Parkoljon le itt a nap hátralévő részére, és fedezze fel az óvárost.",
+            "ro": "Parcați aici pentru restul zilei pentru a explora orașul vechi.",
+            "en": "Park here for the rest of the day to explore the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Mauern & Kathedrale",
+            "hu": "Római falak és székesegyház",
+            "ro": "Zidurile Romane și Catedrala",
+            "en": "Roman Walls & Cathedral"
+          },
+          "coords": [
+            -7.5583,
+            43.0105
+          ],
+          "category": "historical",
+          "arrive_at": "10:55",
+          "stay_min": 150,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkhaus. Planen Sie genügend Zeit für beides ein.",
+            "hu": "Rövid séta a parkolóháztól. Tervezzen elég időt mindkettőre.",
+            "ro": "O scurtă plimbare de la parcare. Planificați suficient timp pentru ambele.",
+            "en": "A short walk from the parking garage. Plan enough time for both."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza Mayor & Mittagessen",
+            "hu": "Plaza Mayor és ebéd",
+            "ro": "Plaza Mayor și prânz",
+            "en": "Plaza Mayor & Lunch"
+          },
+          "coords": [
+            -7.5567,
+            43.0115
+          ],
+          "category": "gastro",
+          "arrive_at": "13:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem Hauptplatz und genießen Sie die lokale Küche.",
+            "hu": "Pihenjen a főtéren, és élvezze a helyi konyhát.",
+            "ro": "Relaxați-vă în piața principală și bucurați-vă de bucătăria locală.",
+            "en": "Relax in the main square and enjoy the local cuisine."
+          }
+        },
+        {
+          "name": {
+            "de": "Provinzialmuseum & Parque Rosalía",
+            "hu": "Tartományi Múzeum és Rosalía Park",
+            "ro": "Muzeul Provincial și Parcul Rosalía",
+            "en": "Provincial Museum & Rosalía Park"
+          },
+          "coords": [
+            -7.555,
+            43.0135
+          ],
+          "category": "museums",
+          "arrive_at": "15:15",
+          "stay_min": 145,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum und der Park liegen nahe beieinander für einen kulturellen und entspannten Nachmittag.",
+            "hu": "A múzeum és a park közel van egymáshoz egy kulturális és pihentető délutánhoz.",
+            "ro": "Muzeul și parcul sunt aproape unul de celălalt pentru o după-amiază culturală și relaxantă.",
+            "en": "The museum and park are close to each other for a cultural and relaxing afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Lugo effizient, indem Sie zwei Cluster anfahren. Beginnen Sie am Stadtrand bei der Römischen Brücke, parken Sie und erkunden Sie die Thermen zu Fuß. Anschließend fahren Sie ins Zentrum und parken in einem Parkhaus. Von dort aus beginnt Ihr Rundgang: Vormittags erobern Sie die Römischen Mauern und die Kathedrale. Nach einem Mittagessen an der Plaza Mayor widmen Sie den Nachmittag der Kunst im Provinzialmuseum und der Entspannung im nahegelegenen Rosalía-de-Castro-Park, alles bequem zu Fuß erreichbar.",
+        "hu": "Autóval hatékonyan fedezheti fel Lugót két központot megcélozva. Kezdje a város szélén, a római hídnál, parkoljon le, és fedezze fel gyalog a fürdőket. Ezután hajtson be a központba, és parkoljon le egy parkolóházban. Innen indul a gyalogtúra: délelőtt meghódítja a római falakat és a katedrálist. A Plaza Mayoron elköltött ebéd után a délutánt a Tartományi Múzeum művészetének és a közeli Rosalía de Castro park pihenésének szentelheti, mindent kényelmesen, gyalogosan elérve.",
+        "ro": "Cu mașina, explorați Lugo eficient vizitând două grupuri de obiective. Începeți la marginea orașului, la Podul Roman, parcați și explorați termele pe jos. Apoi, conduceți spre centru și parcați într-o parcare subterană. De acolo, începe turul pietonal: dimineața, cuceriți Zidurile Romane și catedrala. După un prânz în Plaza Mayor, dedicați după-amiaza artei la Muzeul Provincial și relaxării în Parcul Rosalía de Castro din apropiere, toate accesibile confortabil pe jos.",
+        "en": "By car, you can explore Lugo efficiently by targeting two clusters. Start on the outskirts at the Roman Bridge, park, and explore the baths on foot. Then, drive to the center and park in a garage. Your walking tour begins from there: in the morning, conquer the Roman Walls and the cathedral. After lunch in Plaza Mayor, dedicate the afternoon to art at the Provincial Museum and relaxation in the nearby Rosalía de Castro Park, all comfortably within walking distance."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pulpo á Feira (Krake nach galicischer Art)",
+            "tip": "Probieren Sie dieses typische Gericht in einer der vielen 'Pulperías' in der Altstadt."
+          },
+          {
+            "name": "Empanada Gallega",
+            "tip": "Ein herzhafter Kuchen, gefüllt mit Thunfisch, Fleisch oder Meeresfrüchten, perfekt für ein schnelles Mittagessen."
+          },
+          {
+            "name": "Tarta de Santiago",
+            "tip": "Ein köstlicher Mandelkuchen, der oft mit einem süßen Wein serviert wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pulpo á Feira (polip galíciai módra)",
+            "tip": "Kóstolja meg ezt a jellegzetes ételt az óváros egyik 'pulperíá'-jában."
+          },
+          {
+            "name": "Empanada Gallega",
+            "tip": "Ízletes pite tonhallal, hússal vagy tenger gyümölcseivel töltve, tökéletes egy gyors ebédre."
+          },
+          {
+            "name": "Tarta de Santiago",
+            "tip": "Finom mandulatorta, amelyet gyakran édes borral szolgálnak fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pulpo á Feira (Caracatiță în stil galician)",
+            "tip": "Încercați acest fel de mâncare tipic la una dintre multele 'pulperías' din centrul vechi."
+          },
+          {
+            "name": "Empanada Gallega",
+            "tip": "O plăcintă sărată umplută cu ton, carne sau fructe de mare, perfectă pentru un prânz rapid."
+          },
+          {
+            "name": "Tarta de Santiago",
+            "tip": "O prăjitură delicioasă cu migdale, adesea servită cu un vin dulce."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pulpo á Feira (Galician-style octopus)",
+            "tip": "Try this typical dish in one of the many 'pulperías' in the old town."
+          },
+          {
+            "name": "Empanada Gallega",
+            "tip": "A savory pie filled with tuna, meat, or seafood, perfect for a quick lunch."
+          },
+          {
+            "name": "Tarta de Santiago",
+            "tip": "A delicious almond cake, often served with a sweet wine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Miño",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses, abseits des Trubels der Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Innenhof des Provinzialmuseums",
+            "tip": "Ein friedlicher Ort, um nach dem Museumsbesuch zu entspannen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sonnenuntergang von den Römischen Mauern",
+            "tip": "Finden Sie einen ruhigen Abschnitt der Mauern, um den Sonnenuntergang über der Stadt zu beobachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Miño folyó partja",
+            "tip": "Egy csendes séta a folyó mentén, távol a város nyüzsgésétől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Tartományi Múzeum belső udvara",
+            "tip": "Békés hely a pihenésre a múzeumlátogatás után.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Naplemente a római falakról",
+            "tip": "Keressen egy csendes szakaszt a falakon, és nézze a naplementét a város felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Miño",
+            "tip": "O plimbare liniștită de-a lungul râului, departe de agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea interioară a Muzeului Provincial",
+            "tip": "Un loc pașnic pentru a vă relaxa după vizitarea muzeului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Apus de soare de pe Zidurile Romane",
+            "tip": "Găsiți o secțiune liniștită a zidurilor pentru a privi apusul peste oraș.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Miño River",
+            "tip": "A quiet walk along the river, away from the city bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Courtyard of the Provincial Museum",
+            "tip": "A peaceful spot to relax after your museum visit.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sunset from the Roman Walls",
+            "tip": "Find a quiet section of the walls to watch the sunset over the city.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rúa da Raíña und Rúa Nova",
+            "tip": "Die Haupteinkaufsstraßen mit einer Mischung aus lokalen Geschäften und bekannten Marken."
+          },
+          {
+            "name": "Mercado Municipal de Abastos",
+            "tip": "Ein lebhafter Markt, auf dem Sie frische lokale Produkte und galicische Spezialitäten finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rúa da Raíña és Rúa Nova",
+            "tip": "A fő bevásárlóutcák helyi boltok és ismert márkák keverékével."
+          },
+          {
+            "name": "Mercado Municipal de Abastos",
+            "tip": "Élénk piac, ahol friss helyi termékeket és galíciai specialitásokat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rúa da Raíña și Rúa Nova",
+            "tip": "Principalele străzi comerciale cu un amestec de magazine locale și mărci cunoscute."
+          },
+          {
+            "name": "Mercado Municipal de Abastos",
+            "tip": "O piață plină de viață unde puteți găsi produse locale proaspete și specialități galiciene."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rúa da Raíña and Rúa Nova",
+            "tip": "The main shopping streets with a mix of local shops and known brands."
+          },
+          {
+            "name": "Mercado Municipal de Abastos",
+            "tip": "A lively market where you can find fresh local produce and Galician specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt von Lugo ist eine verkehrsberuhigte Zone (ZTL). Parken Sie außerhalb und gehen Sie zu Fuß.",
+          "Nutzen Sie öffentliche Parkhäuser, da das Parken auf der Straße schwierig sein kann.",
+          "Planen Sie Ihre Fahrten zwischen den Clustern außerhalb der Hauptverkehrszeiten.",
+          "Haben Sie Kleingeld für Parkautomaten bereit."
+        ],
+        "hu": [
+          "Lugo óvárosa alacsony kibocsátású zóna (ZTL). Parkoljon kívül és sétáljon.",
+          "Használjon nyilvános parkolóházakat, mivel az utcai parkolás nehézkes lehet.",
+          "Tervezze az utazásokat a két központ között a csúcsforgalmon kívüli időpontokra.",
+          "Készítsen elő aprópénzt a parkolóautomatákhoz."
+        ],
+        "ro": [
+          "Centrul vechi din Lugo este o zonă cu trafic limitat (ZTL). Parcați în afara acesteia și mergeți pe jos.",
+          "Folosiți parcările publice subterane, deoarece parcarea pe stradă poate fi dificilă.",
+          "Planificați-vă călătoriile între grupuri în afara orelor de vârf.",
+          "Pregătiți monede pentru automatele de parcare."
+        ],
+        "en": [
+          "Lugo's old town is a limited traffic zone (ZTL). Park outside and walk in.",
+          "Use public parking garages, as street parking can be difficult.",
+          "Plan your drives between clusters outside of peak traffic hours.",
+          "Have change ready for parking meters."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft im Stadtzentrum (Bushaltestelle Ronda da Muralla)",
+            "hu": "Érkezés a központba (Ronda da Muralla buszmegálló)",
+            "ro": "Sosire în centrul orașului (stația de autobuz Ronda da Muralla)",
+            "en": "Arrival at City Center (Ronda da Muralla bus stop)"
+          },
+          "coords": [
+            -7.554,
+            43.011
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Viele Buslinien halten hier, ein idealer Ausgangspunkt.",
+            "hu": "Számos buszjárat megáll itt, ideális kiindulópont.",
+            "ro": "Multe linii de autobuz opresc aici, un punct de plecare ideal.",
+            "en": "Many bus lines stop here, making it an ideal starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza Mayor & Kathedrale",
+            "hu": "Plaza Mayor és székesegyház",
+            "ro": "Plaza Mayor și Catedrala",
+            "en": "Plaza Mayor & Cathedral"
+          },
+          "coords": [
+            -7.5567,
+            43.0115
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Rundgang im Herzen der Altstadt.",
+            "hu": "Kezdje a gyalogtúrát az óváros szívében.",
+            "ro": "Începeți turul pietonal în inima orașului vechi.",
+            "en": "Start your walking tour in the heart of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Mauern & Provinzialmuseum",
+            "hu": "Római falak és Tartományi Múzeum",
+            "ro": "Zidurile Romane și Muzeul Provincial",
+            "en": "Roman Walls & Provincial Museum"
+          },
+          "coords": [
+            -7.555,
+            43.0135
+          ],
+          "category": "historical",
+          "arrive_at": "11:25",
+          "stay_min": 150,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Mauern für eine großartige Aussicht, bevor Sie das Museum besuchen.",
+            "hu": "Másszon fel a falakra a remek kilátásért, mielőtt meglátogatja a múzeumot.",
+            "ro": "Urcați pe ziduri pentru o priveliște minunată înainte de a vizita muzeul.",
+            "en": "Climb the walls for a great view before visiting the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Fluss",
+            "hu": "Buszozás a folyóhoz",
+            "ro": "Călătorie cu autobuzul spre râu",
+            "en": "Bus ride to the river"
+          },
+          "coords": [
+            -7.56,
+            43.005
+          ],
+          "category": "transport",
+          "arrive_at": "14:15",
+          "stay_min": 5,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus von der Ronda da Muralla in Richtung des Flusses Miño.",
+            "hu": "Menjen busszal a Ronda da Murallától a Miño folyó irányába.",
+            "ro": "Luați un autobuz de la Ronda da Muralla spre râul Miño.",
+            "en": "Take a bus from Ronda da Muralla towards the Miño river."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Brücke & Thermen",
+            "hu": "Római híd és fürdők",
+            "ro": "Podul Roman și Termele",
+            "en": "Roman Bridge & Baths"
+          },
+          "coords": [
+            -7.5612,
+            43.0042
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die antiken Stätten am Flussufer.",
+            "hu": "Fedezze fel a folyóparti ókori helyszíneket.",
+            "ro": "Explorați siturile antice de pe malul râului.",
+            "en": "Explore the ancient sites on the riverbank."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque de Rosalía de Castro",
+            "hu": "Rosalía de Castro Park",
+            "ro": "Parcul Rosalía de Castro",
+            "en": "Rosalía de Castro Park"
+          },
+          "coords": [
+            -7.5528,
+            43.008
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:00",
+          "stay_min": 65,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannender Spaziergang den Hügel hinauf zum Park, um den Tag ausklingen zu lassen.",
+            "hu": "Egy pihentető séta fel a dombra a parkba a nap lezárásaként.",
+            "ro": "O plimbare relaxantă pe deal până la parc pentru a încheia ziua.",
+            "en": "A relaxing walk up the hill to the park to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erkunden Sie Lugo in zwei Etappen. Sie starten im Zentrum, wo Sie die Plaza Mayor, die Kathedrale, die Römischen Mauern und das Provinzialmuseum bequem zu Fuß erreichen. Nach dem Mittagessen in der Altstadt nehmen Sie einen Bus zum Fluss Miño. Dort erwartet Sie der zweite Teil Ihres Tages: ein Spaziergang zur Römischen Brücke und den Thermen, gefolgt von einem entspannten Aufstieg zum Parque de Rosalía de Castro mit seiner herrlichen Aussicht.",
+        "hu": "Tömegközlekedéssel két szakaszban fedezheti fel Lugót. A központban kezdi, ahol gyalogosan kényelmesen elérhető a Plaza Mayor, a katedrális, a római falak és a Tartományi Múzeum. Az óvárosban elköltött ebéd után buszra száll a Miño folyóhoz. Ott várja a nap második része: séta a római hídhoz és a fürdőkhöz, majd egy pihentető séta fel a csodálatos kilátást nyújtó Rosalía de Castro parkba.",
+        "ro": "Folosind transportul public, explorați Lugo în două etape. Începeți în centru, unde puteți ajunge cu ușurință pe jos la Plaza Mayor, catedrală, Zidurile Romane și Muzeul Provincial. După prânz în orașul vechi, luați un autobuz spre râul Miño. Acolo vă așteaptă a doua parte a zilei: o plimbare la Podul Roman și la terme, urmată de o urcare relaxantă spre Parcul Rosalía de Castro, cu priveliștile sale magnifice.",
+        "en": "Using public transport, you'll explore Lugo in two stages. You start in the center, where you can easily walk to Plaza Mayor, the cathedral, the Roman Walls, and the Provincial Museum. After lunch in the old town, you take a bus to the Miño River. There, the second part of your day awaits: a walk to the Roman Bridge and baths, followed by a relaxing climb to Rosalía de Castro Park with its magnificent views."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pulpo á Feira (Krake nach galicischer Art)",
+            "tip": "Probieren Sie dieses typische Gericht in einer der vielen 'Pulperías' in der Altstadt."
+          },
+          {
+            "name": "Empanada Gallega",
+            "tip": "Ein herzhafter Kuchen, gefüllt mit Thunfisch, Fleisch oder Meeresfrüchten, perfekt für ein schnelles Mittagessen."
+          },
+          {
+            "name": "Tarta de Santiago",
+            "tip": "Ein köstlicher Mandelkuchen, der oft mit einem süßen Wein serviert wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pulpo á Feira (polip galíciai módra)",
+            "tip": "Kóstolja meg ezt a jellegzetes ételt az óváros egyik 'pulperíá'-jában."
+          },
+          {
+            "name": "Empanada Gallega",
+            "tip": "Ízletes pite tonhallal, hússal vagy tenger gyümölcseivel töltve, tökéletes egy gyors ebédre."
+          },
+          {
+            "name": "Tarta de Santiago",
+            "tip": "Finom mandulatorta, amelyet gyakran édes borral szolgálnak fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pulpo á Feira (Caracatiță în stil galician)",
+            "tip": "Încercați acest fel de mâncare tipic la una dintre multele 'pulperías' din centrul vechi."
+          },
+          {
+            "name": "Empanada Gallega",
+            "tip": "O plăcintă sărată umplută cu ton, carne sau fructe de mare, perfectă pentru un prânz rapid."
+          },
+          {
+            "name": "Tarta de Santiago",
+            "tip": "O prăjitură delicioasă cu migdale, adesea servită cu un vin dulce."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pulpo á Feira (Galician-style octopus)",
+            "tip": "Try this typical dish in one of the many 'pulperías' in the old town."
+          },
+          {
+            "name": "Empanada Gallega",
+            "tip": "A savory pie filled with tuna, meat, or seafood, perfect for a quick lunch."
+          },
+          {
+            "name": "Tarta de Santiago",
+            "tip": "A delicious almond cake, often served with a sweet wine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Miño",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses, abseits des Trubels der Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Innenhof des Provinzialmuseums",
+            "tip": "Ein friedlicher Ort, um nach dem Museumsbesuch zu entspannen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sonnenuntergang von den Römischen Mauern",
+            "tip": "Finden Sie einen ruhigen Abschnitt der Mauern, um den Sonnenuntergang über der Stadt zu beobachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Miño folyó partja",
+            "tip": "Egy csendes séta a folyó mentén, távol a város nyüzsgésétől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Tartományi Múzeum belső udvara",
+            "tip": "Békés hely a pihenésre a múzeumlátogatás után.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Naplemente a római falakról",
+            "tip": "Keressen egy csendes szakaszt a falakon, és nézze a naplementét a város felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Miño",
+            "tip": "O plimbare liniștită de-a lungul râului, departe de agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea interioară a Muzeului Provincial",
+            "tip": "Un loc pașnic pentru a vă relaxa după vizitarea muzeului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Apus de soare de pe Zidurile Romane",
+            "tip": "Găsiți o secțiune liniștită a zidurilor pentru a privi apusul peste oraș.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Miño River",
+            "tip": "A quiet walk along the river, away from the city bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Courtyard of the Provincial Museum",
+            "tip": "A peaceful spot to relax after your museum visit.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sunset from the Roman Walls",
+            "tip": "Find a quiet section of the walls to watch the sunset over the city.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rúa da Raíña und Rúa Nova",
+            "tip": "Die Haupteinkaufsstraßen mit einer Mischung aus lokalen Geschäften und bekannten Marken."
+          },
+          {
+            "name": "Mercado Municipal de Abastos",
+            "tip": "Ein lebhafter Markt, auf dem Sie frische lokale Produkte und galicische Spezialitäten finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rúa da Raíña és Rúa Nova",
+            "tip": "A fő bevásárlóutcák helyi boltok és ismert márkák keverékével."
+          },
+          {
+            "name": "Mercado Municipal de Abastos",
+            "tip": "Élénk piac, ahol friss helyi termékeket és galíciai specialitásokat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rúa da Raíña și Rúa Nova",
+            "tip": "Principalele străzi comerciale cu un amestec de magazine locale și mărci cunoscute."
+          },
+          {
+            "name": "Mercado Municipal de Abastos",
+            "tip": "O piață plină de viață unde puteți găsi produse locale proaspete și specialități galiciene."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rúa da Raíña and Rúa Nova",
+            "tip": "The main shopping streets with a mix of local shops and known brands."
+          },
+          {
+            "name": "Mercado Municipal de Abastos",
+            "tip": "A lively market where you can find fresh local produce and Galician specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine wiederaufladbare Buskarte für günstigere Tarife.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, insbesondere für Fahrten am späten Abend.",
+          "Die Google Maps App bietet in der Regel zuverlässige Informationen zu den öffentlichen Verkehrsmitteln in Lugo.",
+          "Seien Sie bereit, zwischen den Sehenswürdigkeiten innerhalb eines Clusters zu Fuß zu gehen."
+        ],
+        "hu": [
+          "Vásároljon újratölthető buszkártyát a kedvezőbb díjakért.",
+          "Ellenőrizze előre a buszmenetrendet, különösen a késő esti járatok esetében.",
+          "A Google Maps alkalmazás általában megbízható tömegközlekedési információkat nyújt Lugóban.",
+          "Készüljön fel a sétára az egy csoporton belüli látnivalók között."
+        ],
+        "ro": [
+          "Cumpărați un card de autobuz reîncărcabil pentru tarife mai ieftine.",
+          "Verificați orarele autobuzelor în avans, mai ales pentru călătoriile de seară târziu.",
+          "Aplicația Google Maps oferă de obicei informații fiabile despre transportul public în Lugo.",
+          "Fiți pregătiți să mergeți pe jos între obiectivele turistice dintr-un grup."
+        ],
+        "en": [
+          "Buy a rechargeable bus card for cheaper fares.",
+          "Check bus schedules in advance, especially for late evening services.",
+          "The Google Maps app usually provides reliable public transport information for Lugo.",
+          "Be prepared to walk between sights within a cluster."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1436 @@
+{
+  "city_id": "romania-azuga-cities-v2",
+  "anchor": {
+    "name": "Azuga",
+    "coords": [
+      25.56,
+      45.45
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "St.-Elias-Kirche",
+            "hu": "Szent Illés templom",
+            "ro": "Biserica Sfântul Ilie",
+            "en": "St. Elias Church"
+          },
+          "coords": [
+            25.5585,
+            45.4485
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Holzschnitzereien und die ruhige Atmosphäre.",
+            "hu": "Csodálja meg a fafaragásokat és a békés légkört.",
+            "ro": "Admirați sculpturile în lemn și atmosfera liniștită.",
+            "en": "Admire the wood carvings and the peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Azuga-Promenade",
+            "hu": "Azugai sétány",
+            "ro": "Promenada Azuga",
+            "en": "Azuga Promenade"
+          },
+          "coords": [
+            25.561,
+            45.451
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannender Spaziergang entlang des Flusses, perfekt für frische Bergluft.",
+            "hu": "Egy pihentető séta a folyó mentén, tökéletes a friss hegyi levegőhöz.",
+            "ro": "O plimbare relaxantă de-a lungul râului, perfectă pentru aer curat de munte.",
+            "en": "A relaxing stroll along the river, perfect for fresh mountain air."
+          }
+        },
+        {
+          "name": {
+            "de": "Rhein-Weinkeller",
+            "hu": "Rhein borpincék",
+            "ro": "Pivnițele Rhein",
+            "en": "Rhein Wine Cellars"
+          },
+          "coords": [
+            25.5545,
+            45.4445
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil, um mehr über den königlichen Schaumwein zu erfahren.",
+            "hu": "Vegyen részt egy vezetett túrán, hogy megismerje a királyi habzóbor történetét.",
+            "ro": "Participați la un tur ghidat pentru a afla istoria spumantului regal.",
+            "en": "Join a guided tour to learn the history of the royal sparkling wine."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city center"
+          },
+          "coords": [
+            25.559,
+            45.449
+          ],
+          "category": "gastro",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie traditionelle rumänische Berggerichte in einem lokalen Restaurant.",
+            "hu": "Kóstoljon meg hagyományos román hegyi ételeket egy helyi étteremben.",
+            "ro": "Încercați mâncăruri tradiționale românești de munte la un restaurant local.",
+            "en": "Try traditional Romanian mountain dishes at a local restaurant."
+          }
+        },
+        {
+          "name": {
+            "de": "Basis der Sorica-Skipiste",
+            "hu": "A Sorica sípálya alja",
+            "ro": "Baza Pârtiei Sorica",
+            "en": "Base of Sorica Ski Slope"
+          },
+          "coords": [
+            25.5505,
+            45.4595
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Im Sommer ein großartiger Ort für Fotos und um die Aussicht auf die Berge zu genießen.",
+            "hu": "Nyáron remek hely a fotózásra és a hegyek látványának élvezetére.",
+            "ro": "Vara, este un loc minunat pentru fotografii și pentru a admira priveliștea montană.",
+            "en": "In summer, it's a great spot for photos and enjoying the mountain views."
+          }
+        },
+        {
+          "name": {
+            "de": "Heldenmonument auf Sorica",
+            "hu": "Hősök emlékműve a Sorica hegyen",
+            "ro": "Monumentul Eroilor de pe Sorica",
+            "en": "Heroes' Monument on Sorica"
+          },
+          "coords": [
+            25.5515,
+            45.4615
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Aufstieg für eine beeindruckende Panoramaaussicht auf das Tal.",
+            "hu": "Egy rövid kaptató a völgyre nyíló lenyűgöző panorámáért.",
+            "ro": "O scurtă urcare pentru o priveliște panoramică impresionantă asupra văii.",
+            "en": "A short climb for an impressive panoramic view of the valley."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Azuga beginnt mit einem Moment der Besinnung in der St.-Elias-Kirche. Am Vormittag schlendern Sie die Azuga-Promenade entlang und atmen die frische Bergluft ein. Der Mittag ist einer königlichen Geschichte gewidmet, mit einer Tour und Verkostung in den berühmten Rhein-Weinkellern, gefolgt von einem herzhaften rumänischen Mittagessen. Am Nachmittag wandern Sie zum Fuß der Sorica-Piste und steigen zum Heldenmonument auf, wo Sie mit einem atemberaubenden Blick auf das Prahova-Tal belohnt werden und den Tag inmitten der Natur ausklingen lassen.",
+        "hu": "Az azugai nap a Szent Illés templomban kezdődik egy csendes pillanattal. A délelőttöt az Azuga sétányon tölti, friss hegyi levegőt szívva. A nap közepe a királyi történelemé, egy túrával és kóstolóval a híres Rhein pincészetben, majd egy kiadós román ebéddel. Délután felsétál a Sorica pálya aljához, majd felkapaszkodik a Hősök emlékművéhez, ahonnan lenyűgöző kilátás nyílik a Prahova-völgyére, és a természetben zárja a napot.",
+        "ro": "Ziua dumneavoastră în Azuga începe cu un moment de reculegere la Biserica Sfântul Ilie. Dimineața vă plimbați pe Promenada Azuga, respirând aerul proaspăt de munte. Miezul zilei este dedicat istoriei regale, cu un tur și o degustare la renumitele Pivnițe Rhein, urmate de un prânz românesc copios. După-amiaza, urcați la baza pârtiei Sorica și apoi la Monumentul Eroilor, unde sunteți răsplătit cu o priveliște uluitoare asupra Văii Prahovei, încheind ziua în mijlocul naturii.",
+        "en": "Your day in Azuga starts with a moment of reflection at St. Elias Church. In the morning, you'll stroll along the Azuga Promenade, breathing in the fresh mountain air. Midday is dedicated to royal history with a tour and tasting at the famous Rhein Wine Cellars, followed by a hearty Romanian lunch. In the afternoon, you'll hike to the base of the Sorica slope and ascend to the Heroes' Monument, where you're rewarded with a stunning view of the Prahova Valley, ending your day surrounded by nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bulz",
+            "tip": "Ein traditionelles Gericht aus Polenta, Käse und oft mit Wurst oder Ei. Sehr sättigend."
+          },
+          {
+            "name": "Păstrăv la grătar",
+            "tip": "Gegrillte Forelle, oft mit Polenta und Knoblauchsoße serviert."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Ein berühmtes Dessert: frittierte Teigbällchen mit Sauerrahm und Marmelade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bulz",
+            "tip": "Hagyományos puliszka étel, sajttal, gyakran kolbásszal vagy tojással. Nagyon laktató."
+          },
+          {
+            "name": "Păstrăv la grătar",
+            "tip": "Grillezett pisztráng, gyakran puliszkával és fokhagymaszósszal tálalva."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Híres desszert: túrófánk tejföllel és lekvárral."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bulz",
+            "tip": "Un preparat tradițional din mămăligă, brânză și adesea cârnați sau ou. Foarte sățios."
+          },
+          {
+            "name": "Păstrăv la grătar",
+            "tip": "Păstrăv proaspăt la grătar, adesea servit cu mămăliguță și mujdei."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Un desert celebru: gogoși de brânză prăjite, servite cu smântână și dulceață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bulz",
+            "tip": "A traditional dish of polenta, cheese, and often sausage or egg. Very filling."
+          },
+          {
+            "name": "Păstrăv la grătar",
+            "tip": "Grilled trout, often served with polenta and garlic sauce."
+          },
+          {
+            "name": "Papanași",
+            "tip": "A famous dessert: fried cheese doughnuts served with sour cream and jam."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ökologischer Park",
+            "tip": "Ein ruhiger Ort, um sich mit der lokalen Flora und Fauna zu verbinden.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussicht vom Heldenmonument",
+            "tip": "Der beste Ort für einen Panoramablick auf die Stadt und die Berge.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spaziergang entlang des Azuga-Flusses",
+            "tip": "Das Geräusch des fließenden Wassers ist sehr beruhigend.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ökológiai park",
+            "tip": "Csendes hely a helyi növény- és állatvilággal való kapcsolódásra.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Hősök emlékművétől",
+            "tip": "A legjobb hely a városra és a hegyekre nyíló panorámához.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Séta az Azuga folyó mentén",
+            "tip": "A folyóvíz hangja nagyon megnyugtató.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Ecologic",
+            "tip": "Un loc liniștit pentru a vă conecta cu flora și fauna locală.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de la Monumentul Eroilor",
+            "tip": "Cel mai bun loc pentru o vedere panoramică a orașului și a munților.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plimbare pe malul râului Azuga",
+            "tip": "Sunetul apei curgătoare este foarte liniștitor.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ecological Park",
+            "tip": "A quiet place to connect with the local flora and fauna.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the Heroes' Monument",
+            "tip": "The best spot for a panoramic view of the town and mountains.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Walk along the Azuga River",
+            "tip": "The sound of the flowing water is very calming.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Schaumwein aus den Rhein-Kellern",
+            "tip": "Ein elegantes Souvenir, das die königliche Geschichte Rumäniens repräsentiert."
+          },
+          {
+            "name": "Brânză de Burduf",
+            "tip": "Ein traditioneller rumänischer Käse, der in Tannenrinde gereift ist. Suchen Sie ihn auf lokalen Märkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Habzóbor a Rhein pincészetből",
+            "tip": "Elegáns szuvenír, amely Románia királyi történelmét képviseli."
+          },
+          {
+            "name": "Brânză de Burduf",
+            "tip": "Hagyományos román sajt, fenyőkéregben érlelve. Keresse a helyi piacokon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin spumant de la Pivnițele Rhein",
+            "tip": "Un suvenir elegant, reprezentând istoria regală a României."
+          },
+          {
+            "name": "Brânză de Burduf",
+            "tip": "O brânză tradițională românească maturată în coajă de brad. Căutați-o în piețele locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sparkling wine from Rhein Cellars",
+            "tip": "An elegant souvenir representing Romania's royal history."
+          },
+          {
+            "name": "Brânză de Burduf",
+            "tip": "A traditional Romanian cheese matured in fir bark. Look for it in local markets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Wanderschuhe, da Sie einige Hügel erklimmen werden.",
+          "Überprüfen Sie die Öffnungszeiten der Rhein-Weinkeller im Voraus, besonders außerhalb der Saison.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit; die Bergluft macht durstig.",
+          "Eine leichte Jacke ist auch im Sommer eine gute Idee, da das Wetter in den Bergen schnell wechseln kann."
+        ],
+        "hu": [
+          "Viseljen kényelmes túracipőt, mivel lesz néhány emelkedő.",
+          "Előre ellenőrizze a Rhein pincészet nyitvatartási idejét, különösen szezonon kívül.",
+          "Hozzon magával újratölthető vizes palackot; a hegyi levegő szomjassá tesz.",
+          "Egy könnyű dzseki nyáron is jó ötlet, mivel a hegyekben az időjárás gyorsan változhat."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă de mers, deoarece veți urca câteva dealuri.",
+          "Verificați programul Pivnițelor Rhein în avans, mai ales în afara sezonului.",
+          "Luați o sticlă de apă reutilizabilă; aerul de munte vă va face sete.",
+          "O jachetă ușoară este o idee bună chiar și vara, deoarece vremea la munte se poate schimba rapid."
+        ],
+        "en": [
+          "Wear comfortable walking shoes as you will be climbing some hills.",
+          "Check the opening hours for the Rhein Wine Cellars in advance, especially off-season.",
+          "Bring a reusable water bottle; the mountain air will make you thirsty.",
+          "A light jacket is a good idea even in summer, as mountain weather can change quickly."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 11.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Azuga-Promenade",
+            "hu": "Azugai sétány",
+            "ro": "Promenada Azuga",
+            "en": "Azuga Promenade"
+          },
+          "coords": [
+            25.561,
+            45.451
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einer leichten Radtour entlang des Flusses.",
+            "hu": "Kezdje a napot egy könnyű biciklizéssel a folyó mentén.",
+            "ro": "Începeți ziua cu o plimbare ușoară cu bicicleta de-a lungul râului.",
+            "en": "Start your day with a gentle bike ride along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Elias-Kirche",
+            "hu": "Szent Illés templom",
+            "ro": "Biserica Sfântul Ilie",
+            "en": "St. Elias Church"
+          },
+          "coords": [
+            25.5585,
+            45.4485
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:56",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer Halt, um die traditionelle Architektur zu bewundern.",
+            "hu": "Egy rövid megálló a hagyományos építészet megcsodálására.",
+            "ro": "O scurtă oprire pentru a admira arhitectura tradițională.",
+            "en": "A brief stop to admire the traditional architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Rhein-Weinkeller",
+            "hu": "Rhein borpincék",
+            "ro": "Pivnițele Rhein",
+            "en": "Rhein Wine Cellars"
+          },
+          "coords": [
+            25.5545,
+            45.4445
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:32",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und nehmen Sie an der Weintour teil. Die Verkostung ist es wert.",
+            "hu": "Parkolja le a biciklit, és vegyen részt a bortúrán. A kóstolót érdemes megtenni.",
+            "ro": "Parcați bicicleta și participați la turul de vin. Degustarea merită.",
+            "en": "Park your bike and join the wine tour. The tasting is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            25.559,
+            45.449
+          ],
+          "category": "gastro",
+          "arrive_at": "12:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Tanken Sie Energie mit einem traditionellen rumänischen Gericht.",
+            "hu": "Töltődjön fel energiával egy hagyományos román étellel.",
+            "ro": "Alimentați-vă cu un preparat tradițional românesc.",
+            "en": "Refuel with a traditional Romanian meal."
+          }
+        },
+        {
+          "name": {
+            "de": "Basis der Cazacu-Skipiste",
+            "hu": "A Cazacu sípálya alja",
+            "ro": "Baza Pârtiei Cazacu",
+            "en": "Base of Cazacu Ski Slope"
+          },
+          "coords": [
+            25.545,
+            45.458
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:52",
+          "stay_min": 30,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beachten Sie den Anstieg; es ist eine gute Übung.",
+            "hu": "Vegye figyelembe az emelkedőt; ez egy jó edzés.",
+            "ro": "Fiți conștienți de urcare; este un exercițiu bun.",
+            "en": "Be aware of the climb; it's a good exercise."
+          }
+        },
+        {
+          "name": {
+            "de": "Basis der Sorica-Skipiste",
+            "hu": "A Sorica sípálya alja",
+            "ro": "Baza Pârtiei Sorica",
+            "en": "Base of Sorica Ski Slope"
+          },
+          "coords": [
+            25.5505,
+            45.4595
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:28",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Vergleichen Sie die beiden berühmten Pisten von Azuga.",
+            "hu": "Hasonlítsa össze Azuga két híres pályáját.",
+            "ro": "Comparați cele două pârtii faimoase din Azuga.",
+            "en": "Compare the two famous slopes of Azuga."
+          }
+        },
+        {
+          "name": {
+            "de": "Ökologischer Park",
+            "hu": "Ökológiai park",
+            "ro": "Parcul Ecologic",
+            "en": "Ecological Park"
+          },
+          "coords": [
+            25.57,
+            45.455
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:16",
+          "stay_min": 109,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort, um den Tag entspannt ausklingen zu lassen und die Natur zu genießen.",
+            "hu": "Tökéletes hely a nap pihentető befejezéséhez és a természet élvezetéhez.",
+            "ro": "Un loc perfect pentru a încheia ziua într-un mod relaxant, bucurându-vă de natură.",
+            "en": "A perfect place to end the day in a relaxing way, enjoying nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour durch Azuga startet an der belebenden Promenade. Am Vormittag besuchen Sie die St.-Elias-Kirche und tauchen bei den Rhein-Weinkellern in die lokale Geschichte ein. Nach einem stärkenden Mittagessen nehmen Sie die Herausforderung an und radeln zu den Skipisten Cazacu und Sorica, wo Sie die beeindruckende Bergkulisse genießen. Der Tag endet mit einer friedlichen Fahrt zum Ökologischen Park, einem idealen Ort, um die Ruhe der Natur auf sich wirken zu lassen und über die Erlebnisse des Tages nachzudenken.",
+        "hu": "Az azugai biciklitúra az élettel teli sétányon kezdődik. Délelőtt meglátogatja a Szent Illés templomot, és elmerül a helyi történelemben a Rhein pincészetnél. Egy kiadós ebéd után vállalja a kihívást, és felteker a Cazacu és Sorica sípályákhoz, ahol élvezheti a lenyűgöző hegyi tájat. A nap egy békés tekeréssel zárul az Ökológiai Parkba, amely ideális hely a természet csendjének befogadására és a napi élmények átgondolására.",
+        "ro": "Turul pe bicicletă prin Azuga începe pe promenada înviorătoare. Dimineața, vizitați Biserica Sfântul Ilie și pătrundeți în istoria locală la Pivnițele Rhein. După un prânz copios, acceptați provocarea și pedalați spre pârtiile de schi Cazacu și Sorica, unde vă bucurați de peisajul montan impresionant. Ziua se încheie cu o plimbare liniștită spre Parcul Ecologic, un loc ideal pentru a absorbi liniștea naturii și a reflecta la experiențele zilei.",
+        "en": "Your bike tour through Azuga starts on the invigorating promenade. In the morning, you'll visit St. Elias Church and delve into local history at the Rhein Wine Cellars. After a hearty lunch, you'll take on the challenge and cycle up to the Cazacu and Sorica ski slopes, enjoying the impressive mountain scenery. The day concludes with a peaceful ride to the Ecological Park, an ideal spot to absorb the tranquility of nature and reflect on the day's experiences."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "Eine traditionelle Kuttelsuppe, ein Muss für abenteuerlustige Esser."
+          },
+          {
+            "name": "Mici",
+            "tip": "Gegrillte Hackfleischröllchen, ein rumänisches Street-Food-Grundnahrungsmittel."
+          },
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "Ein herzhafter Kuchen gefüllt mit salzigem Käse, perfekt als Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "Hagyományos pacalleves, a kalandvágyóknak kötelező."
+          },
+          {
+            "name": "Mici",
+            "tip": "Grillezett darált hús tekercsek, egy román street food alapétel."
+          },
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "Sós túróval töltött pite, tökéletes uzsonnára."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "O ciorbă tradițională, o necesitate pentru mâncăcioșii aventuroși."
+          },
+          {
+            "name": "Mici",
+            "tip": "Rulouri de carne tocată la grătar, un element de bază al street-food-ului românesc."
+          },
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "O plăcintă sărată umplută cu brânză, perfectă pentru o gustare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "A traditional tripe soup, a must-try for adventurous eaters."
+          },
+          {
+            "name": "Mici",
+            "tip": "Grilled minced meat rolls, a Romanian street food staple."
+          },
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "A savory pie filled with salty cheese, perfect for a snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ökologischer Park",
+            "tip": "Finden Sie eine Bank und genießen Sie die Stille des Waldes.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Blick von der Sorica-Piste",
+            "tip": "Im Sommer ist es hier oben ruhig und die Aussicht ist fantastisch.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhof der St.-Elias-Kirche",
+            "tip": "Ein friedlicher und historischer Ort zum Nachdenken.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ökológiai park",
+            "tip": "Keressen egy padot, és élvezze az erdő csendjét.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Kilátás a Sorica pályáról",
+            "tip": "Nyáron csendes itt fent, és a kilátás fantasztikus.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Szent Illés templom temetője",
+            "tip": "Békés és történelmi hely az elmélkedésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Ecologic",
+            "tip": "Găsiți o bancă și bucurați-vă de liniștea pădurii.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Vedere de pe Pârtia Sorica",
+            "tip": "Vara este liniște aici sus, iar priveliștea este fantastică.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul Bisericii Sfântul Ilie",
+            "tip": "Un loc pașnic și istoric pentru reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ecological Park",
+            "tip": "Find a bench and enjoy the silence of the forest.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "View from Sorica Slope",
+            "tip": "In summer, it's quiet up here and the view is fantastic.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. Elias Church Cemetery",
+            "tip": "A peaceful and historic place for reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Suchen Sie nach Berghonig von lokalen Produzenten."
+          },
+          {
+            "name": "Handgefertigte Holzarbeiten",
+            "tip": "Kleine Souvenirs, die die Handwerkskunst der Region zeigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Keressen hegyi mézet a helyi termelőktől."
+          },
+          {
+            "name": "Kézzel készített fa tárgyak",
+            "tip": "Kis szuvenírek, amelyek a régió kézművességét mutatják be."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Căutați miere de munte de la producătorii locali."
+          },
+          {
+            "name": "Obiecte din lemn artizanale",
+            "tip": "Mici suveniruri care prezintă măiestria regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Look for mountain honey from local producers."
+          },
+          {
+            "name": "Handmade wooden crafts",
+            "tip": "Small souvenirs that showcase the region's craftsmanship."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein Mountainbike wird für die Anstiege zu den Skipisten empfohlen.",
+          "Tragen Sie einen Helm und seien Sie vorsichtig auf den Bergstraßen.",
+          "Nehmen Sie genügend Wasser und einige energiereiche Snacks mit.",
+          "Prüfen Sie den Wetterbericht, bevor Sie losfahren."
+        ],
+        "hu": [
+          "Hegyi kerékpár ajánlott a sípályákhoz vezető emelkedőkhöz.",
+          "Viseljen sisakot, és legyen óvatos a hegyi utakon.",
+          "Vigyen magával elegendő vizet és néhány energiadús snacket.",
+          "Indulás előtt ellenőrizze az időjárás-előrejelzést."
+        ],
+        "ro": [
+          "O bicicletă montană este recomandată pentru urcările spre pârtiile de schi.",
+          "Purtați cască și fiți prudenți pe drumurile montane.",
+          "Luați suficientă apă și câteva gustări energizante.",
+          "Verificați prognoza meteo înainte de a porni."
+        ],
+        "en": [
+          "A mountain bike is recommended for the climbs to the ski slopes.",
+          "Wear a helmet and be cautious on the mountain roads.",
+          "Bring enough water and some high-energy snacks.",
+          "Check the weather forecast before you set off."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Stadtzentrum Azuga",
+            "hu": "1. klaszter: Azuga városközpont",
+            "ro": "Cluster 1: Centrul orașului Azuga",
+            "en": "Cluster 1: Azuga Town Center"
+          },
+          "coords": [
+            25.558,
+            45.449
+          ],
+          "category": "gastro",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und beginnen Sie den Tag mit einem Kaffee.",
+            "hu": "Parkoljon le itt, és kezdje a napot egy kávéval.",
+            "ro": "Parcați aici și începeți ziua cu o cafea.",
+            "en": "Park here and start the day with a coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Elias-Kirche",
+            "hu": "Szent Illés templom",
+            "ro": "Biserica Sfântul Ilie",
+            "en": "St. Elias Church"
+          },
+          "coords": [
+            25.5585,
+            45.4485
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz aus.",
+            "hu": "Egy rövid séta a parkolótól.",
+            "ro": "O scurtă plimbare de la parcare.",
+            "en": "A short walk from the parking spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Rhein-Weinkeller",
+            "hu": "Rhein borpincék",
+            "ro": "Pivnițele Rhein",
+            "en": "Rhein Wine Cellars"
+          },
+          "coords": [
+            25.5545,
+            45.4445
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit für die Führung und die Verkostung ein.",
+            "hu": "Tervezzen elegendő időt a túrára és a kóstolóra.",
+            "ro": "Planificați suficient timp pentru tur și degustare.",
+            "en": "Plan enough time for the tour and tasting."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Skigebiet Sorica",
+            "hu": "2. klaszter: Sorica síterep",
+            "ro": "Cluster 2: Zona de schi Sorica",
+            "en": "Cluster 2: Sorica Ski Area"
+          },
+          "coords": [
+            25.55,
+            45.46
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz der Sorica-Piste für die nächste Etappe.",
+            "hu": "Hajtson a Sorica pálya parkolójába a következő szakaszhoz.",
+            "ro": "Conduceți spre parcarea de la Pârtia Sorica pentru următoarea etapă.",
+            "en": "Drive to the Sorica slope parking lot for the next stage."
+          }
+        },
+        {
+          "name": {
+            "de": "Heldenmonument auf Sorica",
+            "hu": "Hősök emlékműve a Sorica hegyen",
+            "ro": "Monumentul Eroilor de pe Sorica",
+            "en": "Heroes' Monument on Sorica"
+          },
+          "coords": [
+            25.5515,
+            45.4615
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:51",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz mit herrlicher Aussicht.",
+            "hu": "Rövid séta a parkolótól, csodálatos kilátással.",
+            "ro": "O scurtă plimbare de la parcare, cu priveliști minunate.",
+            "en": "A short walk from the parking lot with wonderful views."
+          }
+        },
+        {
+          "name": {
+            "de": "Spätes Mittagessen/Snack an der Pistenbasis",
+            "hu": "Késői ebéd/uzsonna a pálya aljában",
+            "ro": "Prânz târziu/gustare la baza pârtiei",
+            "en": "Late Lunch/Snack at the Slope Base"
+          },
+          "coords": [
+            25.549,
+            45.4595
+          ],
+          "category": "gastro",
+          "arrive_at": "14:43",
+          "stay_min": 117,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie sich und genießen Sie die Bergatmosphäre, bevor Sie zurückfahren.",
+            "hu": "Pihenjen és élvezze a hegyi hangulatot, mielőtt visszaindul.",
+            "ro": "Relaxați-vă și bucurați-vă de atmosfera montană înainte de a vă întoarce.",
+            "en": "Relax and enjoy the mountain atmosphere before heading back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Azuga nutzt die Cluster-Walking-Methode für ein entspanntes Erlebnis. Am Morgen parken Sie im Zentrum (Cluster 1) und erkunden zu Fuß die St.-Elias-Kirche und die berühmten Rhein-Weinkeller. Nach der Weintour fahren Sie zum Skigebiet Sorica (Cluster 2). Dort angekommen, genießen Sie ein spätes Mittagessen und spazieren zum Heldenmonument, um die spektakuläre Aussicht zu bewundern. Dieser Plan kombiniert die Freiheit des Autos mit dem Vergnügen, die Highlights jedes Bereichs zu Fuß zu entdecken.",
+        "hu": "Az azugai autós nap a „cluster-walking” módszert alkalmazza a pihentető élmény érdekében. Reggel a központban (1. klaszter) parkol, és gyalog fedezi fel a Szent Illés templomot és a híres Rhein pincészetet. A bortúra után felautózik a Sorica síterepre (2. klaszter). Ott elfogyaszt egy késői ebédet, majd felsétál a Hősök emlékművéhez, hogy megcsodálja a látványos kilátást. Ez a terv ötvözi az autó nyújtotta szabadságot azzal az élménnyel, hogy minden terület legjavát gyalog fedezheti fel.",
+        "ro": "Ziua cu mașina în Azuga folosește metoda plimbării în clustere pentru o experiență relaxantă. Dimineața, parcați în centru (Cluster 1) și explorați pe jos Biserica Sfântul Ilie și renumitele Pivnițe Rhein. După turul de vin, conduceți spre zona de schi Sorica (Cluster 2). Odată ajunși, savurați un prânz târziu și faceți o plimbare până la Monumentul Eroilor pentru a admira priveliștea spectaculoasă. Acest plan combină libertatea mașinii cu plăcerea de a descoperi pe jos punctele de atracție din fiecare zonă.",
+        "en": "Your car day in Azuga uses the cluster-walking method for a relaxed experience. In the morning, you'll park in the center (Cluster 1) and explore St. Elias Church and the famous Rhein Wine Cellars on foot. After the wine tour, you drive up to the Sorica ski area (Cluster 2). Once there, enjoy a late lunch and take a walk to the Heroes' Monument to admire the spectacular view. This plan combines the freedom of a car with the pleasure of discovering the highlights of each area on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tochitură",
+            "tip": "Ein herzhafter rumänischer Eintopf mit Schweinefleisch, Wurst und Polenta."
+          },
+          {
+            "name": "Afinată",
+            "tip": "Ein lokaler Blaubeerlikör, perfekt als Digestif."
+          },
+          {
+            "name": "Salam de Sibiu",
+            "tip": "Eine berühmte rumänische Salami, ideal für ein Picknick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tochitură",
+            "tip": "Kiadós román pörkölt sertéshússal, kolbásszal és puliszkával."
+          },
+          {
+            "name": "Afinată",
+            "tip": "Helyi áfonyalikőr, tökéletes emésztést segítőként."
+          },
+          {
+            "name": "Salam de Sibiu",
+            "tip": "Híres román szalámi, ideális piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tochitură",
+            "tip": "O tocană românească consistentă cu carne de porc, cârnați și mămăligă."
+          },
+          {
+            "name": "Afinată",
+            "tip": "Un lichior local de afine, perfect ca digestiv."
+          },
+          {
+            "name": "Salam de Sibiu",
+            "tip": "Un salam românesc faimos, ideal pentru un picnic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tochitură",
+            "tip": "A hearty Romanian stew with pork, sausage, and polenta."
+          },
+          {
+            "name": "Afinată",
+            "tip": "A local blueberry liqueur, perfect as a digestif."
+          },
+          {
+            "name": "Salam de Sibiu",
+            "tip": "A famous Romanian salami, ideal for a picnic."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt durch die Bergstraßen",
+            "tip": "Genießen Sie die Landschaft und die Ruhe zwischen den Haltestellen.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Panorama vom Sorica-Gipfel",
+            "tip": "Finden Sie einen ruhigen Platz abseits der Hauptwege.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Azuga-Promenade am frühen Morgen",
+            "tip": "Bevor die Stadt aufwacht, ist es hier besonders friedlich.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Autózás a hegyi utakon",
+            "tip": "Élvezze a tájat és a csendet a megállók között.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Panoráma a Sorica csúcsáról",
+            "tip": "Keressen egy csendes helyet a fő ösvényektől távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Azugai sétány kora reggel",
+            "tip": "Mielőtt a város felébred, itt különösen békés.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Condus pe drumurile montane",
+            "tip": "Bucurați-vă de peisaj și de liniștea dintre opriri.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Panoramă de pe Vârful Sorica",
+            "tip": "Găsiți un loc liniștit departe de potecile principale.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Promenada Azuga dimineața devreme",
+            "tip": "Înainte ca orașul să se trezească, este deosebit de pașnic aici.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Drive on the mountain roads",
+            "tip": "Enjoy the scenery and the quiet between stops.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Panorama from Sorica Peak",
+            "tip": "Find a quiet spot away from the main paths.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Azuga Promenade early in the morning",
+            "tip": "Before the town wakes up, it's particularly peaceful here.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wein von Rhein & Cie",
+            "tip": "Kaufen Sie eine Flasche des offiziellen Schaumweins des rumänischen Königshauses."
+          },
+          {
+            "name": "Geräucherte Fleischwaren",
+            "tip": "Suchen Sie nach lokalen Metzgereien für authentische Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bor a Rhein & Cie-től",
+            "tip": "Vásároljon egy üveggel a román királyi ház hivatalos habzóborából."
+          },
+          {
+            "name": "Füstölt húsáruk",
+            "tip": "Keressen helyi henteseket az autentikus termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin de la Rhein & Cie",
+            "tip": "Cumpărați o sticlă de vin spumant oficial al Casei Regale a României."
+          },
+          {
+            "name": "Mezeluri afumate",
+            "tip": "Căutați măcelării locale pentru produse autentice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wine from Rhein & Cie",
+            "tip": "Buy a bottle of the official sparkling wine of the Royal House of Romania."
+          },
+          {
+            "name": "Cured meats",
+            "tip": "Look for local butcher shops for authentic products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Parkmöglichkeiten im Voraus, besonders im Stadtzentrum.",
+          "Die Bergstraßen können eng und kurvenreich sein; fahren Sie vorsichtig.",
+          "Ein Auto gibt Ihnen die Flexibilität, auch nahegelegene Aussichtspunkte zu besuchen.",
+          "Achten Sie im Winter auf die Straßenverhältnisse; Schneeketten können erforderlich sein."
+        ],
+        "hu": [
+          "Előre ellenőrizze a parkolási lehetőségeket, különösen a városközpontban.",
+          "A hegyi utak szűkek és kanyargósak lehetnek; vezessen óvatosan.",
+          "Az autó rugalmasságot ad a közeli kilátópontok meglátogatásához is.",
+          "Télen figyeljen az útviszonyokra; hóláncra szükség lehet."
+        ],
+        "ro": [
+          "Verificați opțiunile de parcare în avans, mai ales în centrul orașului.",
+          "Drumurile montane pot fi înguste și sinuoase; conduceți cu prudență.",
+          "O mașină vă oferă flexibilitatea de a vizita și puncte de belvedere din apropiere.",
+          "Iarna, fiți atenți la condițiile de drum; lanțurile de zăpadă pot fi necesare."
+        ],
+        "en": [
+          "Check parking options in advance, especially in the town center.",
+          "The mountain roads can be narrow and winding; drive carefully.",
+          "A car gives you the flexibility to visit nearby viewpoints as well.",
+          "In winter, be mindful of road conditions; snow chains may be required."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Ankunft am Bahnhof Azuga",
+            "hu": "1. klaszter: Érkezés az Azuga vasútállomásra",
+            "ro": "Cluster 1: Sosire la Gara Azuga",
+            "en": "Cluster 1: Arrival at Azuga Train Station"
+          },
+          "coords": [
+            25.553,
+            45.443
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Tour hier, in der Nähe der Weinkeller.",
+            "hu": "Kezdje a túrát itt, a borpincék közelében.",
+            "ro": "Începeți turul aici, aproape de pivnițele de vin.",
+            "en": "Start your tour here, close to the wine cellars."
+          }
+        },
+        {
+          "name": {
+            "de": "Rhein-Weinkeller",
+            "hu": "Rhein borpincék",
+            "ro": "Pivnițele Rhein",
+            "en": "Rhein Wine Cellars"
+          },
+          "coords": [
+            25.5545,
+            45.4445
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss für Geschichts- und Weinliebhaber.",
+            "hu": "Történelem- és borkedvelőknek kötelező.",
+            "ro": "O vizită obligatorie pentru iubitorii de istorie și vin.",
+            "en": "A must-visit for history and wine lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Elias-Kirche",
+            "hu": "Szent Illés templom",
+            "ro": "Biserica Sfântul Ilie",
+            "en": "St. Elias Church"
+          },
+          "coords": [
+            25.5585,
+            45.4485
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch das Stadtzentrum führt Sie zu dieser schönen Kirche.",
+            "hu": "Egy rövid séta a városközponton keresztül elvezeti ehhez a gyönyörű templomhoz.",
+            "ro": "O scurtă plimbare prin centrul orașului vă va duce la această biserică frumoasă.",
+            "en": "A short walk through the town center will lead you to this beautiful church."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Fahrt zur Sorica-Piste",
+            "hu": "2. klaszter: Utazás a Sorica pályához",
+            "ro": "Cluster 2: Călătorie spre Pârtia Sorica",
+            "en": "Cluster 2: Trip to Sorica Slope"
+          },
+          "coords": [
+            25.55,
+            45.46
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:13",
+          "stay_min": 180,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus oder ein Taxi für den Aufstieg.",
+            "hu": "Vegyen igénybe helyi buszt vagy taxit a hegyre való feljutáshoz.",
+            "ro": "Luați un autobuz local sau un taxi pentru urcare.",
+            "en": "Take a local bus or taxi for the ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Heldenmonument und Panoramablick",
+            "hu": "Hősök emlékműve és panoráma",
+            "ro": "Monumentul Eroilor și Vedere Panoramică",
+            "en": "Heroes' Monument and Panoramic View"
+          },
+          "coords": [
+            25.5515,
+            45.4615
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:18",
+          "stay_min": 72,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die Gegend, genießen Sie die Aussicht und essen Sie in einem der Bergrestaurants zu Mittag.",
+            "hu": "Fedezze fel a környéket, élvezze a kilátást és ebédeljen az egyik hegyi étteremben.",
+            "ro": "Explorați zona, bucurați-vă de priveliște și luați prânzul la unul dintre restaurantele montane.",
+            "en": "Explore the area, enjoy the view, and have lunch at one of the mountain restaurants."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Tour mit öffentlichen Verkehrsmitteln beginnt am Bahnhof von Azuga, dem ersten Cluster. Von hier aus spazieren Sie zu den historischen Rhein-Weinkellern und der St.-Elias-Kirche. Am Mittag nehmen Sie einen Bus, der Sie zum zweiten Cluster, dem Skigebiet Sorica, bringt. Den Nachmittag verbringen Sie damit, die Skipisten zu erkunden, zum Heldenmonument zu wandern und die atemberaubende Aussicht zu genießen, bevor Sie mit dem Bus ins Tal zurückkehren. Dieser Plan maximiert Ihre Zeit, indem er Spaziergänge in den wichtigsten Gebieten mit effizienten Busfahrten kombiniert.",
+        "hu": "A tömegközlekedési túra Azuga vasútállomásánál, az első klaszternél kezdődik. Innen elsétál a történelmi Rhein pincészethez és a Szent Illés templomhoz. Délben busszal utazik a második klaszterhez, a Sorica síterephez. A délutánt a sípályák felfedezésével, a Hősök emlékművéhez való túrázással és a lélegzetelállító kilátás élvezetével tölti, mielőtt busszal visszatérne a völgybe. Ez a terv maximalizálja az idejét, ötvözve a sétákat a kulcsfontosságú területeken a hatékony buszutazásokkal.",
+        "ro": "Turul cu transportul public începe la Gara Azuga, primul cluster. De aici, faceți o plimbare până la istoricele Pivnițe Rhein și Biserica Sfântul Ilie. La prânz, luați un autobuz care vă duce la al doilea cluster, zona de schi Sorica. Vă petreceți după-amiaza explorând pârtiile, urcând la Monumentul Eroilor și bucurându-vă de priveliștea uluitoare, înainte de a reveni în vale cu autobuzul. Acest plan maximizează timpul, combinând plimbările în zonele cheie cu călătorii eficiente cu autobuzul.",
+        "en": "Your public transport tour starts at Azuga train station, the first cluster. From here, you'll walk to the historic Rhein Wine Cellars and St. Elias Church. At midday, you'll take a bus up to the second cluster, the Sorica ski area. You'll spend the afternoon exploring the slopes, hiking to the Heroes' Monument, and enjoying the breathtaking views before returning to the valley by bus. This plan maximizes your time by combining walks in key areas with efficient bus transit."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zacuscă",
+            "tip": "Ein pflanzlicher Brotaufstrich aus Auberginen und Paprika, köstlich auf frischem Brot."
+          },
+          {
+            "name": "Cașcaval pane",
+            "tip": "Panierter und gebratener Käse, ein beliebter rumänischer Komfort-Snack."
+          },
+          {
+            "name": "Cozonac",
+            "tip": "Ein süßes Brot, das traditionell an Feiertagen gegessen wird, aber oft in Bäckereien zu finden ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zacuscă",
+            "tip": "Növényi krém padlizsánból és paprikából, finom friss kenyérrel."
+          },
+          {
+            "name": "Cașcaval pane",
+            "tip": "Rántott sajt, egy népszerű román kényelmi étel."
+          },
+          {
+            "name": "Cozonac",
+            "tip": "Édes kalács, hagyományosan ünnepekkor fogyasztják, de gyakran megtalálható a pékségekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zacuscă",
+            "tip": "O pastă vegetală din vinete și ardei, delicioasă pe pâine proaspătă."
+          },
+          {
+            "name": "Cașcaval pane",
+            "tip": "Brânză pane prăjită, o gustare populară românească."
+          },
+          {
+            "name": "Cozonac",
+            "tip": "Un cozonac dulce, consumat tradițional de sărbători, dar adesea găsit în brutării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zacuscă",
+            "tip": "A vegetable spread made from eggplant and peppers, delicious on fresh bread."
+          },
+          {
+            "name": "Cașcaval pane",
+            "tip": "Breaded and fried cheese, a popular Romanian comfort food."
+          },
+          {
+            "name": "Cozonac",
+            "tip": "A sweet bread traditionally eaten on holidays, but often found in bakeries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt durch die Berge",
+            "tip": "Schauen Sie aus dem Fenster und genießen Sie die wechselnde Landschaft.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Ein Spaziergang durch Wohngebiete",
+            "tip": "Entdecken Sie das lokale Leben abseits der Touristenpfade.",
+            "emoji": "🏡"
+          },
+          {
+            "name": "Bank im Ökologischen Park",
+            "tip": "Ein perfekter Ort für eine ruhige Pause, falls Sie Zeit haben.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás a hegyekben",
+            "tip": "Nézzen ki az ablakon, és élvezze a változó tájat.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Séta a lakónegyedekben",
+            "tip": "Fedezze fel a helyi életet a turistaösvényeken kívül.",
+            "emoji": "🏡"
+          },
+          {
+            "name": "Pad az Ökológiai Parkban",
+            "tip": "Tökéletes hely egy csendes szünetre, ha van ideje.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătoria cu autobuzul prin munți",
+            "tip": "Priviți pe geam și bucurați-vă de peisajul în schimbare.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "O plimbare prin zonele rezidențiale",
+            "tip": "Descoperiți viața locală departe de traseele turistice.",
+            "emoji": "🏡"
+          },
+          {
+            "name": "O bancă în Parcul Ecologic",
+            "tip": "Un loc perfect pentru o pauză liniștită, dacă aveți timp.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride through the mountains",
+            "tip": "Look out the window and enjoy the changing scenery.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "A walk through residential areas",
+            "tip": "Discover local life away from the tourist trails.",
+            "emoji": "🏡"
+          },
+          {
+            "name": "Bench in the Ecological Park",
+            "tip": "A perfect spot for a quiet break if you have time.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Marmeladen",
+            "tip": "Suchen Sie nach hausgemachten Marmeladen aus Waldfrüchten."
+          },
+          {
+            "name": "Wollprodukte",
+            "tip": "Warme Socken oder Mützen als praktisches Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi lekvárok",
+            "tip": "Keressen házi erdei gyümölcslekvárokat."
+          },
+          {
+            "name": "Gyapjú termékek",
+            "tip": "Meleg zoknik vagy sapkák praktikus szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dulcețuri locale",
+            "tip": "Căutați dulcețuri de casă din fructe de pădure."
+          },
+          {
+            "name": "Produse din lână",
+            "tip": "Șosete groase sau căciuli ca suvenir practic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local jams",
+            "tip": "Look for homemade jams made from forest berries."
+          },
+          {
+            "name": "Woolen products",
+            "tip": "Warm socks or hats as a practical souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, da die Busse möglicherweise nicht häufig fahren.",
+          "Kaufen Sie Tickets, bevor Sie einsteigen, oder prüfen Sie, ob Sie beim Fahrer bezahlen können.",
+          "Behalten Sie die Zeit für den letzten Bus zurück ins Tal im Auge.",
+          "Kleine Busse können in der Hochsaison voll sein, seien Sie also frühzeitig an der Haltestelle."
+        ],
+        "hu": [
+          "Előre ellenőrizze a buszmenetrendet, mivel a buszok ritkán járhatnak.",
+          "Vásároljon jegyet felszállás előtt, vagy ellenőrizze, hogy fizethet-e a sofőrnél.",
+          "Tartsa szemmel az utolsó, völgybe tartó busz idejét.",
+          "A kis buszok főszezonban zsúfoltak lehetnek, ezért érkezzen időben a megállóba."
+        ],
+        "ro": [
+          "Verificați programul autobuzelor în avans, deoarece s-ar putea să nu circule frecvent.",
+          "Cumpărați bilete înainte de a urca sau verificați dacă puteți plăti la șofer.",
+          "Fiți atenți la ora ultimului autobuz care se întoarce în vale.",
+          "Autobuzele mici pot fi aglomerate în sezonul de vârf, așa că fiți la stație din timp."
+        ],
+        "en": [
+          "Check the bus schedule in advance, as services might be infrequent.",
+          "Buy tickets before you board or check if you can pay the driver.",
+          "Keep an eye on the time for the last bus back to the valley.",
+          "Small buses can be crowded during peak season, so be at the stop early."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1471 @@
+{
+  "city_id": "greece-argos-cities-v2",
+  "anchor": {
+    "name": "Argos",
+    "coords": [
+      22.7276,
+      37.6334
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Archäologisches Museum von Argos",
+            "hu": "Árgoszi Régészeti Múzeum",
+            "ro": "Muzeul Arheologic din Argos",
+            "en": "Archaeological Museum of Argos"
+          },
+          "coords": [
+            22.7289,
+            37.6338
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Mosaiken und die mykenische Rüstung.",
+            "hu": "Fókuszáljon a mozaikokra és a mükénéi páncélzatra.",
+            "ro": "Concentrează-te pe mozaicuri și pe armura miceniană.",
+            "en": "Focus on the mosaics and the Mycenaean armor."
+          }
+        },
+        {
+          "name": {
+            "de": "Antike Agora",
+            "hu": "Antik Agóra",
+            "ro": "Agora Antică",
+            "en": "Ancient Agora"
+          },
+          "coords": [
+            22.7255,
+            37.6321
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Stellen Sie sich das geschäftige Treiben des antiken Marktplatzes vor.",
+            "hu": "Képzelje el az ókori piactér nyüzsgő életét.",
+            "ro": "Imaginați-vă agitația pieței antice.",
+            "en": "Imagine the bustling activity of the ancient marketplace."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Thermen",
+            "hu": "Római Fürdők",
+            "ro": "Termele Romane",
+            "en": "Roman Thermals"
+          },
+          "coords": [
+            22.7248,
+            37.6315
+          ],
+          "category": "historical",
+          "arrive_at": "12:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Überreste der Hypokausten-Heizung.",
+            "hu": "Keresse a padlófűtés (hypocaustum) maradványait.",
+            "ro": "Căutați rămășițele sistemului de încălzire hypocaust.",
+            "en": "Look for the remains of the hypocaust heating system."
+          }
+        },
+        {
+          "name": {
+            "de": "Antikes Theater von Argos",
+            "hu": "Árgosz Antik Színháza",
+            "ro": "Teatrul Antic din Argos",
+            "en": "Ancient Theatre of Argos"
+          },
+          "coords": [
+            22.7214,
+            37.631
+          ],
+          "category": "theatres",
+          "arrive_at": "12:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Testen Sie die Akustik von der Mitte der Bühne aus.",
+            "hu": "Tesztelje az akusztikát a színpad közepéről!",
+            "ro": "Testați acustica din centrul scenei.",
+            "en": "Test the acoustics from the center of the stage."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Petros",
+            "hu": "Szent Péter-templom",
+            "ro": "Biserica Sfântul Petru (Agios Petros)",
+            "en": "Church of Agios Petros"
+          },
+          "coords": [
+            22.7295,
+            37.6345
+          ],
+          "category": "churches",
+          "arrive_at": "14:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Eine ruhige Pause im belebten Stadtzentrum.",
+            "hu": "Egy csendes pihenő a nyüzsgő városközpontban.",
+            "ro": "O pauză liniștită în centrul aglomerat al orașului.",
+            "en": "A quiet break in the bustling city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Larissa",
+            "hu": "Larissza vára",
+            "ro": "Cetatea Larissa",
+            "en": "Larissa Castle"
+          },
+          "coords": [
+            22.7164,
+            37.6358
+          ],
+          "category": "fortresses",
+          "arrive_at": "15:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Der Aufstieg ist steil, aber die Aussicht ist es absolut wert.",
+            "hu": "Meredek a kaptató, de a kilátás mindenért kárpótol.",
+            "ro": "Urcușul este abrupt, dar priveliștea merită absolut.",
+            "en": "The climb is steep, but the view is absolutely worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen im Zentrum",
+            "hu": "Vacsora a központban",
+            "ro": "Cină în centru",
+            "en": "Dinner in the Center"
+          },
+          "coords": [
+            22.7285,
+            37.6335
+          ],
+          "category": "gastro",
+          "arrive_at": "17:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Wählen Sie eine Taverne in der Nähe des Platzes, um das lokale Leben zu beobachten.",
+            "hu": "Válasszon egy tavernát a főtér közelében, és figyelje a helyi életet.",
+            "ro": "Alegeți o tavernă lângă piață pentru a observa viața locală.",
+            "en": "Choose a taverna near the square to watch local life."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen des antiken Argos und tauchen Sie im Archäologischen Museum in die mykenische Vergangenheit ein. Spüren Sie die Geschichte unter Ihren Füßen, während Sie durch die antike Agora und die römischen Ruinen schlendern.\nAm Mittag erwartet Sie das prächtige antike Theater, ein Meisterwerk, das in den Felsen gehauen wurde. Nach einer kulturellen Pause in der Agios-Petros-Kirche bereiten Sie sich auf den Höhepunkt des Tages vor: den Aufstieg zur Burg von Larissa.\nDer Nachmittag ist dem Aufstieg zur mittelalterlichen Festung gewidmet. Der Weg ist anspruchsvoll, aber die Panoramaaussicht auf die Argolis-Ebene ist eine unvergleichliche Belohnung, die die Mühe wert ist.\nSchließen Sie Ihren Tag mit einem wohlverdienten Abendessen in einer traditionellen Taverne ab. Lassen Sie die Aromen Griechenlands auf sich wirken, während Sie die unvergesslichen Momente des Tages Revue passieren lassen, vom geschäftigen Stadtzentrum bis zur stillen Erhabenheit der Burg.",
+        "hu": "Kezdje a napot az ókori Árgosz szívében, a Régészeti Múzeumban elmerülve a mükénéi múltban. Érezze a történelmet a talpa alatt, miközben az antik agórán és a római romok között sétál.\nDélben az antik színház lenyűgöző látványa várja, egy sziklába vájt mestermű. Az Agios Petros templomban tartott kulturális szünet után készüljön a nap fénypontjára: a Larissza várához való feljutásra.\nA délutánt a középkori erőd megmászásának szenteljük. Az út kihívást jelent, de az argoliszi síkságra nyíló panoráma páratlan jutalom, amely megéri a fáradságot.\nZárja a napot egy jól megérdemelt vacsorával egy hagyományos tavernán. Ízlelje meg Görögország ízeit, miközben felidézi a nap felejthetetlen pillanatait, a nyüzsgő városközponttól a vár csendes fenségéig.",
+        "ro": "Începeți ziua în inima Argosului antic, cufundându-vă în trecutul micenian la Muzeul Arheologic. Simțiți istoria sub picioare în timp ce vă plimbați prin Agora antică și ruinele romane.\nLa prânz, vă așteaptă magnificul teatru antic, o capodoperă sculptată în stâncă. După o pauză culturală la Biserica Agios Petros, pregătiți-vă pentru punctul culminant al zilei: urcarea la Cetatea Larissa.\nDupă-amiaza este dedicată urcării la fortăreața medievală. Drumul este provocator, dar vederea panoramică asupra câmpiei Argolis este o recompensă de neegalat care merită efortul.\nÎncheiați ziua cu o cină binemeritată la o tavernă tradițională. Savurați aromele Greciei în timp ce rememorați momentele de neuitat ale zilei, de la centrul aglomerat al orașului la măreția tăcută a cetății.",
+        "en": "Start your day in the heart of ancient Argos, diving into the Mycenaean past at the Archaeological Museum. Feel the history beneath your feet as you stroll through the ancient Agora and the Roman ruins.\nAt midday, the magnificent ancient theatre awaits, a masterpiece carved into the rock. After a cultural break at the Church of Agios Petros, prepare for the day's highlight: the ascent to Larissa Castle.\nThe afternoon is dedicated to climbing the medieval fortress. The path is challenging, but the panoramic view of the Argolic plain is an unparalleled reward that makes the effort worthwhile.\nConclude your day with a well-deserved dinner at a traditional taverna. Savor the flavors of Greece while reflecting on the day's unforgettable moments, from the bustling city center to the quiet majesty of the castle."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gkóntos",
+            "tip": "Bekannt für seine traditionellen griechischen Gerichte und gegrilltes Fleisch."
+          },
+          {
+            "name": "Mélia",
+            "tip": "Probieren Sie die lokalen Vorspeisen (Mezedes) mit einem Glas Ouzo."
+          },
+          {
+            "name": "Souvlaki vom Grill",
+            "tip": "Ein Muss für ein schnelles und authentisches Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gkóntos",
+            "tip": "Hagyományos görög ételeiről és grillezett húsairól ismert."
+          },
+          {
+            "name": "Mélia",
+            "tip": "Kóstolja meg a helyi előételeket (mezedes) egy pohár ouzóval."
+          },
+          {
+            "name": "Grillezett szuvláki",
+            "tip": "Gyors és autentikus ebédhez kötelező."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gkóntos",
+            "tip": "Renumit pentru mâncărurile sale tradiționale grecești și carnea la grătar."
+          },
+          {
+            "name": "Mélia",
+            "tip": "Încercați aperitivele locale (mezedes) cu un pahar de ouzo."
+          },
+          {
+            "name": "Souvlaki la grătar",
+            "tip": "O necesitate pentru un prânz rapid și autentic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gkóntos",
+            "tip": "Known for its traditional Greek dishes and grilled meats."
+          },
+          {
+            "name": "Mélia",
+            "tip": "Try the local appetizers (mezedes) with a glass of ouzo."
+          },
+          {
+            "name": "Grilled Souvlaki",
+            "tip": "A must-try for a quick and authentic lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang zur Burg von Larissa bei Sonnenuntergang",
+            "tip": "Die Stadt leuchtet unter Ihnen auf.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Die oberen Ränge des antiken Theaters",
+            "tip": "Ein ruhiger Ort, um die Größe der Anlage zu betrachten.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Der Hof der Kapodistrias-Kasernen",
+            "tip": "Ein überraschend friedlicher historischer Ort.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Larissza várához naplementekor",
+            "tip": "A város fényei kigyúlnak alattad.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Az antik színház felső sorai",
+            "tip": "Csendes hely a szerkezet nagyságának szemlélésére.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A Kapodistrias laktanya udvara",
+            "tip": "Meglepően békés történelmi helyszín.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare la Cetatea Larissa la apus",
+            "tip": "Orașul se luminează sub tine.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rândurile superioare ale teatrului antic",
+            "tip": "Un loc liniștit pentru a contempla măreția structurii.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Curtea Cazărmii Kapodistrias",
+            "tip": "Un loc istoric surprinzător de pașnic.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk to Larissa Castle at sunset",
+            "tip": "The city lights up below you.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "The upper tiers of the ancient theatre",
+            "tip": "A quiet spot to contemplate the structure's grandeur.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "The courtyard of the Kapodistrias Barracks",
+            "tip": "A surprisingly peaceful historical spot.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie Olivenöl aus der Region, Honig und den berühmten Argos-Käse."
+          },
+          {
+            "name": "Keramikläden",
+            "tip": "Finden Sie handgefertigte Nachbildungen antiker griechischer Töpferwaren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon helyi olívaolajat, mézet és a híres árgoszi sajtot."
+          },
+          {
+            "name": "Kerámiaüzletek",
+            "tip": "Találjon kézzel készített másolatokat az ókori görög kerámiákról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați ulei de măsline local, miere și faimoasa brânză de Argos."
+          },
+          {
+            "name": "Magazine de ceramică",
+            "tip": "Găsiți replici lucrate manual ale ceramicii grecești antice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for local olive oil, honey, and the famous Argos cheese."
+          },
+          {
+            "name": "Pottery Shops",
+            "tip": "Find handmade replicas of ancient Greek pottery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe; der Aufstieg zur Burg ist anspruchsvoll.",
+          "Nehmen Sie viel Wasser mit, besonders in den Sommermonaten.",
+          "Die meisten archäologischen Stätten haben wenig Schatten.",
+          "Einige kleinere Stätten haben möglicherweise begrenzte Öffnungszeiten, überprüfen Sie diese im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt; a várhoz való feljutás kihívást jelent.",
+          "Vigyen magával sok vizet, különösen a nyári hónapokban.",
+          "A legtöbb régészeti lelőhelyen kevés az árnyék.",
+          "Néhány kisebb helyszín nyitvatartása korlátozott lehet, ellenőrizze előre."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă; urcarea la castel este solicitantă.",
+          "Luați multă apă, mai ales în lunile de vară.",
+          "Majoritatea siturilor arheologice au puțină umbră.",
+          "Unele situri mai mici pot avea program limitat, verificați în avans."
+        ],
+        "en": [
+          "Wear comfortable shoes; the climb to the castle is demanding.",
+          "Bring plenty of water, especially during the summer months.",
+          "Most archaeological sites have little shade.",
+          "Some smaller sites may have limited hours, check in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kapodistrias-Kasernen",
+            "hu": "Kapodistrias laktanya",
+            "ro": "Cazarma Kapodistrias",
+            "en": "Kapodistrias Barracks"
+          },
+          "coords": [
+            22.731,
+            37.636
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein oft übersehenes Stück neoklassizistischer Militärarchitektur.",
+            "hu": "A neoklasszikus katonai építészet egy gyakran figyelmen kívül hagyott darabja.",
+            "ro": "O bucată adesea trecută cu vederea de arhitectură militară neoclasică.",
+            "en": "An often-overlooked piece of neoclassical military architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum von Argos",
+            "hu": "Árgoszi Régészeti Múzeum",
+            "ro": "Muzeul Arheologic din Argos",
+            "en": "Archaeological Museum of Argos"
+          },
+          "coords": [
+            22.7289,
+            37.6338
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie das Museum betreten.",
+            "hu": "Biztonságosan zárja le a kerékpárt, mielőtt belép a múzeumba.",
+            "ro": "Încuiați-vă bicicleta în siguranță înainte de a intra în muzeu.",
+            "en": "Lock your bike securely before entering the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Antike Agora & Römische Thermen",
+            "hu": "Antik Agóra és Római Fürdők",
+            "ro": "Agora Antică și Termele Romane",
+            "en": "Ancient Agora & Roman Thermals"
+          },
+          "coords": [
+            22.7251,
+            37.6318
+          ],
+          "category": "historical",
+          "arrive_at": "11:45",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und erkunden Sie diesen kompakten archäologischen Bereich zu Fuß.",
+            "hu": "Parkolja le a kerékpárt, és fedezze fel gyalog ezt a kompakt régészeti területet.",
+            "ro": "Parcați-vă bicicleta și explorați pe jos această zonă arheologică compactă.",
+            "en": "Park your bike and explore this compact archaeological area on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Antikes Theater von Argos",
+            "hu": "Árgosz Antik Színháza",
+            "ro": "Teatrul Antic din Argos",
+            "en": "Ancient Theatre of Argos"
+          },
+          "coords": [
+            22.7214,
+            37.631
+          ],
+          "category": "theatres",
+          "arrive_at": "13:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihr Fahrrad am Eingang, der Weg nach oben ist steil.",
+            "hu": "Hagyja a kerékpárt a bejáratnál, az út felfelé meredek.",
+            "ro": "Lăsați-vă bicicleta la intrare, drumul în sus este abrupt.",
+            "en": "Leave your bike at the entrance, the path up is steep."
+          }
+        },
+        {
+          "name": {
+            "de": "Ausflug zur Burg von Larissa",
+            "hu": "Kirándulás a Larissza várához",
+            "ro": "Excursie la Cetatea Larissa",
+            "en": "Trip to Larissa Castle"
+          },
+          "coords": [
+            22.7164,
+            37.6358
+          ],
+          "category": "fortresses",
+          "arrive_at": "14:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Die Radtour ist eine Herausforderung. Schieben Sie Ihr Fahrrad bei Bedarf.",
+            "hu": "A kerékpárút kihívást jelent. Ha szükséges, tolja a kerékpárt.",
+            "ro": "Plimbarea cu bicicleta este o provocare. Împingeți bicicleta dacă este necesar.",
+            "en": "The bike ride up is challenging. Walk your bike if needed."
+          }
+        },
+        {
+          "name": {
+            "de": "Entspannung am Agios Petros Platz",
+            "hu": "Pihenés az Agios Petros téren",
+            "ro": "Relaxare în Piața Agios Petros",
+            "en": "Relaxation at Agios Petros Square"
+          },
+          "coords": [
+            22.7295,
+            37.6345
+          ],
+          "category": "gastro",
+          "arrive_at": "16:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Belohnen Sie sich mit einem kalten Frappé in einem der Cafés.",
+            "hu": "Jutalmazza meg magát egy hideg frappéval az egyik kávézóban.",
+            "ro": "Recompensați-vă cu un frappé rece la una dintre cafenele.",
+            "en": "Reward yourself with a cold frappé at one of the cafes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour bei den historischen Kapodistrias-Kasernen, bevor Sie ins Zentrum zum Archäologischen Museum fahren, um die antiken Schätze zu entdecken. Die flachen Straßen der Stadt sind ideal für eine gemütliche Fahrt.\nAm Mittag erkunden Sie die miteinander verbundenen Stätten der Agora und der Thermen. Fahren Sie dann weiter zum beeindruckenden antiken Theater. Parken Sie Ihr Fahrrad und genießen Sie die Atmosphäre dieses riesigen Bauwerks.\nDer Nachmittag bringt die größte Herausforderung: die Radtour hinauf zur Burg von Larissa. Nehmen Sie sich Zeit, der Aufstieg ist anstrengend, aber die Aussicht von oben ist eine fantastische Belohnung für Ihre Anstrengungen.\nFahren Sie zurück ins Stadtzentrum und beenden Sie Ihre Tour auf dem Agios-Petros-Platz. Entspannen Sie sich in einem Café, genießen Sie ein wohlverdientes Getränk und beobachten Sie das Treiben, während Sie über Ihr archäologisches Abenteuer auf zwei Rädern nachdenken.",
+        "hu": "Kezdje a kerékpártúrát a történelmi Kapodistrias laktanyánál, mielőtt a központba, a Régészeti Múzeumba teker, hogy felfedezze az ókori kincseket. A város sík utcái ideálisak egy kellemes utazáshoz.\nDélben fedezze fel az agóra és a fürdők egymással összekapcsolt helyszíneit. Ezután tekerjen tovább a lenyűgöző antik színházhoz. Parkolja le a kerékpárt, és élvezze ennek a hatalmas építménynek a hangulatát.\nA délután hozza a legnagyobb kihívást: a kerékpárút fel a Larissza várához. Szánjon rá időt, a mászás megerőltető, de a fentről nyíló kilátás fantasztikus jutalom az erőfeszítéseiért.\nTekerjen vissza a városközpontba, és fejezze be a túrát az Agios Petros téren. Pihenjen meg egy kávézóban, élvezzen egy jól megérdemelt italt, és figyelje a helyi életet, miközben két keréken átélt régészeti kalandjára gondol.",
+        "ro": "Începeți turul pe bicicletă de la istorica Cazarmă Kapodistrias înainte de a pedala spre centru la Muzeul Arheologic pentru a descoperi comorile antice. Străzile plate ale orașului sunt ideale pentru o plimbare relaxată.\nLa prânz, explorați siturile interconectate ale Agorei și Termelor. Apoi, continuați spre impresionantul teatru antic. Parcați-vă bicicleta și bucurați-vă de atmosfera acestei structuri vaste.\nDupă-amiaza aduce cea mai mare provocare: urcarea cu bicicleta la Cetatea Larissa. Nu vă grăbiți, urcarea este obositoare, dar priveliștea de sus este o recompensă fantastică pentru eforturile depuse.\nPedalați înapoi în centrul orașului pentru a încheia turul în Piața Agios Petros. Relaxați-vă la o cafenea, bucurați-vă de o băutură binemeritată și priviți lumea trecând, reflectând la aventura arheologică pe două roți.",
+        "en": "Start your bike tour at the historic Kapodistrias Barracks before cycling to the center for the Archaeological Museum to uncover ancient treasures. The city's flat streets are ideal for a leisurely ride.\nAt midday, explore the interconnected sites of the Agora and the Thermals. Then, continue to the impressive ancient theatre. Park your bike and soak in the atmosphere of this vast structure.\nThe afternoon brings the biggest challenge: the ride up to Larissa Castle. Take your time, the climb is strenuous, but the view from the top is a fantastic reward for your efforts.\nCycle back to the city center to finish your tour in Agios Petros Square. Relax at a café, enjoy a well-earned drink, and watch the world go by as you reflect on your archaeological adventure on two wheels."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gkóntos",
+            "tip": "Bekannt für seine traditionellen griechischen Gerichte und gegrilltes Fleisch."
+          },
+          {
+            "name": "Mélia",
+            "tip": "Probieren Sie die lokalen Vorspeisen (Mezedes) mit einem Glas Ouzo."
+          },
+          {
+            "name": "Souvlaki vom Grill",
+            "tip": "Ein Muss für ein schnelles und authentisches Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gkóntos",
+            "tip": "Hagyományos görög ételeiről és grillezett húsairól ismert."
+          },
+          {
+            "name": "Mélia",
+            "tip": "Kóstolja meg a helyi előételeket (mezedes) egy pohár ouzóval."
+          },
+          {
+            "name": "Grillezett szuvláki",
+            "tip": "Gyors és autentikus ebédhez kötelező."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gkóntos",
+            "tip": "Renumit pentru mâncărurile sale tradiționale grecești și carnea la grătar."
+          },
+          {
+            "name": "Mélia",
+            "tip": "Încercați aperitivele locale (mezedes) cu un pahar de ouzo."
+          },
+          {
+            "name": "Souvlaki la grătar",
+            "tip": "O necesitate pentru un prânz rapid și autentic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gkóntos",
+            "tip": "Known for its traditional Greek dishes and grilled meats."
+          },
+          {
+            "name": "Mélia",
+            "tip": "Try the local appetizers (mezedes) with a glass of ouzo."
+          },
+          {
+            "name": "Grilled Souvlaki",
+            "tip": "A must-try for a quick and authentic lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang zur Burg von Larissa bei Sonnenuntergang",
+            "tip": "Die Stadt leuchtet unter Ihnen auf.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Die oberen Ränge des antiken Theaters",
+            "tip": "Ein ruhiger Ort, um die Größe der Anlage zu betrachten.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Der Hof der Kapodistrias-Kasernen",
+            "tip": "Ein überraschend friedlicher historischer Ort.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Larissza várához naplementekor",
+            "tip": "A város fényei kigyúlnak alattad.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Az antik színház felső sorai",
+            "tip": "Csendes hely a szerkezet nagyságának szemlélésére.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A Kapodistrias laktanya udvara",
+            "tip": "Meglepően békés történelmi helyszín.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare la Cetatea Larissa la apus",
+            "tip": "Orașul se luminează sub tine.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rândurile superioare ale teatrului antic",
+            "tip": "Un loc liniștit pentru a contempla măreția structurii.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Curtea Cazărmii Kapodistrias",
+            "tip": "Un loc istoric surprinzător de pașnic.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk to Larissa Castle at sunset",
+            "tip": "The city lights up below you.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "The upper tiers of the ancient theatre",
+            "tip": "A quiet spot to contemplate the structure's grandeur.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "The courtyard of the Kapodistrias Barracks",
+            "tip": "A surprisingly peaceful historical spot.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie Olivenöl aus der Region, Honig und den berühmten Argos-Käse."
+          },
+          {
+            "name": "Keramikläden",
+            "tip": "Finden Sie handgefertigte Nachbildungen antiker griechischer Töpferwaren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon helyi olívaolajat, mézet és a híres árgoszi sajtot."
+          },
+          {
+            "name": "Kerámiaüzletek",
+            "tip": "Találjon kézzel készített másolatokat az ókori görög kerámiákról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați ulei de măsline local, miere și faimoasa brânză de Argos."
+          },
+          {
+            "name": "Magazine de ceramică",
+            "tip": "Găsiți replici lucrate manual ale ceramicii grecești antice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for local olive oil, honey, and the famous Argos cheese."
+          },
+          {
+            "name": "Pottery Shops",
+            "tip": "Find handmade replicas of ancient Greek pottery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind leicht mit dem Fahrrad zu erreichen.",
+          "Schließen Sie Ihr Fahrrad immer gut ab.",
+          "Der Aufstieg zur Burg ist sehr steil; seien Sie auf eine anstrengende Fahrt oder einen Spaziergang vorbereitet.",
+          "Argos ist im Sommer sehr heiß, bringen Sie viel Wasser mit."
+        ],
+        "hu": [
+          "A legtöbb belvárosi látnivaló könnyen elérhető kerékpárral.",
+          "Mindig gondosan zárja le a kerékpárt.",
+          "A várhoz való feljutás nagyon meredek; készüljön fel egy megerőltető útra vagy sétára.",
+          "Árgosz nyáron nagyon forró, vigyen magával sok vizet."
+        ],
+        "ro": [
+          "Majoritatea atracțiilor din centrul orașului sunt ușor accesibile cu bicicleta.",
+          "Întotdeauna încuiați-vă bine bicicleta.",
+          "Urcarea la castel este foarte abruptă; fiți pregătiți pentru o plimbare sau o drumeție obositoare.",
+          "Argos este foarte cald vara, aduceți multă apă."
+        ],
+        "en": [
+          "Most city center sights are easily reachable by bike.",
+          "Always lock your bike securely.",
+          "The climb to the castle is very steep; be prepared for a strenuous ride or walk.",
+          "Argos is very hot in summer, bring plenty of water."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 21.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Archäologisches Museum von Argos",
+            "hu": "1. klaszter: Árgoszi Régészeti Múzeum",
+            "ro": "Cluster 1: Muzeul Arheologic din Argos",
+            "en": "Cluster 1: Archaeological Museum of Argos"
+          },
+          "coords": [
+            22.7289,
+            37.6338
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie im Stadtzentrum. Dies ist Ihr erster Stopp in einem zu Fuß erkundbaren Bereich.",
+            "hu": "Parkoljon a városközpontban. Ez az első megálló a gyalogosan bejárható területen.",
+            "ro": "Parcați în centrul orașului. Acesta este primul dvs. popas într-o zonă pietonală.",
+            "en": "Park in the city center. This is your first stop in a walkable cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Antike Agora & Römische Thermen",
+            "hu": "Antik Agóra és Római Fürdők",
+            "ro": "Agora Antică și Termele Romane",
+            "en": "Ancient Agora & Roman Thermals"
+          },
+          "coords": [
+            22.7251,
+            37.6318
+          ],
+          "category": "historical",
+          "arrive_at": "10:50",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum. Lassen Sie das Auto geparkt.",
+            "hu": "Egy rövid séta a múzeumtól. Hagyja az autót leparkolva.",
+            "ro": "O scurtă plimbare de la muzeu. Lăsați mașina parcată.",
+            "en": "A short walk from the museum. Leave the car parked."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Antikes Theater von Argos",
+            "hu": "2. klaszter: Árgosz Antik Színháza",
+            "ro": "Cluster 2: Teatrul Antic din Argos",
+            "en": "Cluster 2: Ancient Theatre of Argos"
+          },
+          "coords": [
+            22.7214,
+            37.631
+          ],
+          "category": "theatres",
+          "arrive_at": "12:05",
+          "stay_min": 50,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz in der Nähe des Theaters. Dies beginnt Ihren zweiten Cluster.",
+            "hu": "Vezessen a színház melletti parkolóba. Ezzel kezdődik a második klaszter.",
+            "ro": "Conduceți la parcarea de lângă teatru. Aici începe al doilea cluster.",
+            "en": "Drive to the parking area near the theatre. This begins your second cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Larissa",
+            "hu": "Larissza vára",
+            "ro": "Cetatea Larissa",
+            "en": "Larissa Castle"
+          },
+          "coords": [
+            22.7164,
+            37.6358
+          ],
+          "category": "fortresses",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der Aufstieg vom Theater zur Burg ist ein steiler Spaziergang, aber machbar.",
+            "hu": "A színháztól a várhoz vezető út meredek séta, de teljesíthető.",
+            "ro": "Urcușul de la teatru la castel este o plimbare abruptă, dar fezabilă.",
+            "en": "The ascent from the theatre to the castle is a steep walk but manageable."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen mit Aussicht",
+            "hu": "Ebéd kilátással",
+            "ro": "Prânz cu vedere",
+            "en": "Lunch with a View"
+          },
+          "coords": [
+            22.72,
+            37.633
+          ],
+          "category": "gastro",
+          "arrive_at": "14:25",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Finden Sie eine Taverne am Fuße des Burgbergs.",
+            "hu": "Keressen egy tavernát a várhegy lábánál.",
+            "ro": "Găsiți o tavernă la poalele dealului castelului.",
+            "en": "Find a taverna at the base of the castle hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Heraion von Argos",
+            "hu": "3. klaszter: Árgoszi Héraion",
+            "ro": "Cluster 3: Heraion din Argos",
+            "en": "Cluster 3: Heraion of Argos"
+          },
+          "coords": [
+            22.7886,
+            37.7145
+          ],
+          "category": "historical",
+          "arrive_at": "16:00",
+          "stay_min": 75,
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 18.0,
+          "tip_5lang": {
+            "de": "Ein bedeutender Abstecher, der die Macht des antiken Argos zeigt.",
+            "hu": "Jelentős kitérő, amely bemutatja az ókori Árgosz hatalmát.",
+            "ro": "Un ocol important care demonstrează puterea Argosului antic.",
+            "en": "A significant side trip showcasing the power of ancient Argos."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum",
+            "hu": "Visszatérés a központba",
+            "ro": "Întoarcere în centru",
+            "en": "Return to Center"
+          },
+          "coords": [
+            22.7295,
+            37.6345
+          ],
+          "category": "gastro",
+          "arrive_at": "17:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Kehren Sie für einen Kaffee oder einen frühen Drink nach Argos zurück.",
+            "hu": "Térjen vissza Árgoszba egy kávéra vagy egy korai italra.",
+            "ro": "Întoarceți-vă în Argos pentru o cafea sau o băutură timpurie.",
+            "en": "Head back to Argos for a coffee or an early drink."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Auto im Herzen von Argos. Parken Sie und erkunden Sie den ersten Cluster zu Fuß: das Archäologische Museum und die nahe gelegene Agora. Nehmen Sie sich Zeit, die Artefakte zu bewundern, die Argos als eine der ältesten Städte Europas bezeugen.\nAm Mittag fahren Sie zum zweiten Cluster, dem Bereich um das antike Theater. Nachdem Sie das Theater erkundet haben, unternehmen Sie den kurzen, aber steilen Spaziergang hinauf zur Burg von Larissa, um eine atemberaubende Aussicht zu genießen und zu Mittag zu essen.\nAm Nachmittag unternehmen Sie eine bedeutende Fahrt zum Heraion von Argos, einem antiken Heiligtum etwas außerhalb der Stadt. Diese Fahrt gibt Ihnen ein Gefühl für die Weite des Gebiets, das Argos einst kontrollierte.\nKehren Sie am späten Nachmittag nach Argos zurück und beenden Sie Ihren Tag dort, wo Sie begonnen haben. Genießen Sie die Atmosphäre des Stadtzentrums, vielleicht bei einem Drink, und denken Sie an eine Reise nach, die von städtischer Erkundung zu ländlicher Erhabenheit führte.",
+        "hu": "Kezdje a napot autóval Árgosz szívében. Parkoljon le, és fedezze fel gyalog az első klasztert: a Régészeti Múzeumot és a közeli Agórát. Szánjon időt a leletek megcsodálására, amelyek tanúsítják, hogy Árgosz Európa egyik legrégebbi városa.\nDélben vezessen a második klaszterhez, az antik színház körüli területre. A színház felfedezése után tegyen egy rövid, de meredek sétát a Larissza várához, ahonnan lélegzetelállító kilátás nyílik, majd ebédeljen.\nA délután egy jelentős utazást tesz az Árgoszi Héraionhoz, egy ősi szentélyhez, amely kissé a városon kívül található. Ez az utazás érzékelteti annak a területnek a hatalmas kiterjedését, amelyet Árgosz egykor ellenőrzött.\nKéső délután térjen vissza Árgoszba, és fejezze be a napot ott, ahol elkezdte. Élvezze a városközpont hangulatát, talán egy ital mellett, miközben egy olyan utazásra gondol, amely a városi felfedezéstől a vidéki fenségig vezetett.",
+        "ro": "Începeți ziua cu mașina în inima orașului Argos. Parcați și explorați primul cluster pe jos: Muzeul Arheologic și Agora din apropiere. Luați-vă timp să admirați artefactele care atestă Argosul ca fiind unul dintre cele mai vechi orașe din Europa.\nLa prânz, conduceți către al doilea cluster, zona din jurul teatrului antic. După explorarea teatrului, faceți o plimbare scurtă, dar abruptă, până la Cetatea Larissa pentru vederi uluitoare și prânz.\nDupă-amiaza implică o călătorie semnificativă cu mașina către Heraion din Argos, un sanctuar antic situat chiar în afara orașului. Această călătorie vă va oferi o idee despre vasta întindere a teritoriului pe care Argos îl controla odată.\nÎntoarceți-vă în Argos după-amiaza târziu, încheindu-vă ziua acolo unde ați început. Bucurați-vă de atmosfera din centrul orașului, poate cu o băutură, reflectând la o călătorie care a trecut de la explorarea urbană la grandoarea rurală.",
+        "en": "Start your day by car in the heart of Argos. Park up and explore the first cluster on foot: the Archaeological Museum and the nearby Agora. Take your time admiring the artifacts that attest to Argos being one of Europe's oldest cities.\nAt midday, drive to the second cluster, the area around the ancient theatre. After exploring the theatre, take the short but steep walk up to Larissa Castle for breathtaking views and lunch.\nThe afternoon involves a significant drive to the Heraion of Argos, an ancient sanctuary located just outside the city. This drive will give you a sense of the vast expanse of territory Argos once controlled.\nReturn to Argos in the late afternoon, finishing your day where you started. Enjoy the city center's atmosphere, perhaps with a drink, reflecting on a journey that went from urban exploration to rural grandeur."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gkóntos",
+            "tip": "Bekannt für seine traditionellen griechischen Gerichte und gegrilltes Fleisch."
+          },
+          {
+            "name": "Mélia",
+            "tip": "Probieren Sie die lokalen Vorspeisen (Mezedes) mit einem Glas Ouzo."
+          },
+          {
+            "name": "Souvlaki vom Grill",
+            "tip": "Ein Muss für ein schnelles und authentisches Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gkóntos",
+            "tip": "Hagyományos görög ételeiről és grillezett húsairól ismert."
+          },
+          {
+            "name": "Mélia",
+            "tip": "Kóstolja meg a helyi előételeket (mezedes) egy pohár ouzóval."
+          },
+          {
+            "name": "Grillezett szuvláki",
+            "tip": "Gyors és autentikus ebédhez kötelező."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gkóntos",
+            "tip": "Renumit pentru mâncărurile sale tradiționale grecești și carnea la grătar."
+          },
+          {
+            "name": "Mélia",
+            "tip": "Încercați aperitivele locale (mezedes) cu un pahar de ouzo."
+          },
+          {
+            "name": "Souvlaki la grătar",
+            "tip": "O necesitate pentru un prânz rapid și autentic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gkóntos",
+            "tip": "Known for its traditional Greek dishes and grilled meats."
+          },
+          {
+            "name": "Mélia",
+            "tip": "Try the local appetizers (mezedes) with a glass of ouzo."
+          },
+          {
+            "name": "Grilled Souvlaki",
+            "tip": "A must-try for a quick and authentic lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Die ruhigen Ruinen des Heraion",
+            "tip": "Ein Ort tiefer Geschichte abseits der Touristenmassen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Blick von der Burg von Larissa",
+            "tip": "Überblicken Sie die gesamte Ebene in friedlicher Stille.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ein stiller Moment in der Agios-Petros-Kirche",
+            "tip": "Eine Oase der Ruhe im Stadtzentrum.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Héraion csendes romjai",
+            "tip": "A mély történelem helyszíne a tömegtől távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a Larissza várából",
+            "tip": "Tekintse át az egész síkságot békés csendben.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Egy csendes pillanat az Agios Petros templomban",
+            "tip": "A nyugalom oázisa a városközpontban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ruinele liniștite ale Heraionului",
+            "tip": "Un loc cu o istorie profundă, departe de mulțime.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere de la Cetatea Larissa",
+            "tip": "Priviți întreaga câmpie într-o tăcere pașnică.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Un moment de liniște la Biserica Agios Petros",
+            "tip": "O oază de calm în centrul orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "The quiet ruins of the Heraion",
+            "tip": "A place of deep history away from the crowds.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from Larissa Castle",
+            "tip": "Overlook the entire plain in peaceful silence.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A quiet moment in Agios Petros Church",
+            "tip": "An oasis of calm in the city center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie Olivenöl aus der Region, Honig und den berühmten Argos-Käse."
+          },
+          {
+            "name": "Keramikläden",
+            "tip": "Finden Sie handgefertigte Nachbildungen antiker griechischer Töpferwaren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon helyi olívaolajat, mézet és a híres árgoszi sajtot."
+          },
+          {
+            "name": "Kerámiaüzletek",
+            "tip": "Találjon kézzel készített másolatokat az ókori görög kerámiákról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați ulei de măsline local, miere și faimoasa brânză de Argos."
+          },
+          {
+            "name": "Magazine de ceramică",
+            "tip": "Găsiți replici lucrate manual ale ceramicii grecești antice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for local olive oil, honey, and the famous Argos cheese."
+          },
+          {
+            "name": "Pottery Shops",
+            "tip": "Find handmade replicas of ancient Greek pottery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken im Zentrum kann schwierig sein, seien Sie geduldig.",
+          "Die Straße zum Heraion ist schmal, fahren Sie vorsichtig.",
+          "Ein Auto ermöglicht es Ihnen, abgelegenere, aber ebenso wichtige Stätten zu besuchen.",
+          "Überprüfen Sie die Öffnungszeiten des Heraion, da sie saisonal variieren können."
+        ],
+        "hu": [
+          "A parkolás a központban kihívást jelenthet, legyen türelmes.",
+          "A Héraionhoz vezető út keskeny, vezessen óvatosan.",
+          "Az autó lehetővé teszi, hogy távolabbi, de ugyanolyan fontos helyszíneket látogasson meg.",
+          "Ellenőrizze a Héraion nyitvatartási idejét, mivel az szezonálisan változhat."
+        ],
+        "ro": [
+          "Parcarea în centru poate fi dificilă, aveți răbdare.",
+          "Drumul către Heraion este îngust, conduceți cu prudență.",
+          "O mașină vă permite să vizitați situri mai îndepărtate, dar la fel de importante.",
+          "Verificați programul de funcționare al Heraionului, deoarece acesta poate varia sezonier."
+        ],
+        "en": [
+          "Parking in the center can be challenging, be patient.",
+          "The road to the Heraion is narrow, drive with care.",
+          "A car allows you to visit more remote but equally important sites.",
+          "Check the opening hours for the Heraion as they can be seasonal."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:20",
+      "total_km": 4.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Ankunft am Hauptplatz",
+            "hu": "1. klaszter: Érkezés a Fő térre",
+            "ro": "Cluster 1: Sosire în Piața Centrală",
+            "en": "Cluster 1: Arrival at the Main Square"
+          },
+          "coords": [
+            22.7295,
+            37.6345
+          ],
+          "category": "churches",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie an der Agios-Petros-Kirche, einem zentralen Wahrzeichen.",
+            "hu": "Kezdje az Agios Petros templomnál, egy központi nevezetességnél.",
+            "ro": "Începeți de la Biserica Agios Petros, un punct de reper central.",
+            "en": "Start at the Church of Agios Petros, a central landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum von Argos",
+            "hu": "Árgoszi Régészeti Múzeum",
+            "ro": "Muzeul Arheologic din Argos",
+            "en": "Archaeological Museum of Argos"
+          },
+          "coords": [
+            22.7289,
+            37.6338
+          ],
+          "category": "museums",
+          "arrive_at": "09:45",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz aus.",
+            "hu": "Egy rövid séta a térről.",
+            "ro": "O scurtă plimbare din piață.",
+            "en": "A very short walk from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapodistrias-Kasernen",
+            "hu": "Kapodistrias laktanya",
+            "ro": "Cazarma Kapodistrias",
+            "en": "Kapodistrias Barracks"
+          },
+          "coords": [
+            22.731,
+            37.636
+          ],
+          "category": "historical",
+          "arrive_at": "11:30",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Gehen Sie nach Norden, um dieses neoklassizistische Gebäude zu sehen.",
+            "hu": "Sétáljon észak felé, hogy megnézze ezt a neoklasszikus épületet.",
+            "ro": "Mergeți spre nord pentru a vedea această clădire neoclasică.",
+            "en": "Walk north to see this neoclassical building."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Antike Agora",
+            "hu": "2. klaszter: Antik Agóra",
+            "ro": "Cluster 2: Agora Antică",
+            "en": "Cluster 2: Ancient Agora"
+          },
+          "coords": [
+            22.7255,
+            37.6321
+          ],
+          "category": "historical",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus oder machen Sie einen längeren Spaziergang zum nächsten archäologischen Bereich.",
+            "hu": "Menjen helyi busszal vagy tegyen egy hosszabb sétát a következő régészeti területre.",
+            "ro": "Luați un autobuz local sau faceți o plimbare mai lungă până la următoarea zonă arheologică.",
+            "en": "Take a local bus or a longer walk to the next archaeological zone."
+          }
+        },
+        {
+          "name": {
+            "de": "Antikes Theater & Römische Thermen",
+            "hu": "Antik Színház és Római Fürdők",
+            "ro": "Teatrul Antic și Termele Romane",
+            "en": "Ancient Theatre & Roman Thermals"
+          },
+          "coords": [
+            22.7231,
+            37.6312
+          ],
+          "category": "theatres",
+          "arrive_at": "14:00",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Diese beiden beeindruckenden Stätten liegen direkt nebeneinander.",
+            "hu": "Ez a két lenyűgöző helyszín közvetlenül egymás mellett található.",
+            "ro": "Aceste două situri impresionante sunt chiar una lângă alta.",
+            "en": "These two impressive sites are right next to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zur Burg von Larissa",
+            "hu": "Séta a Larissza várához",
+            "ro": "Plimbare la Cetatea Larissa",
+            "en": "Walk to Larissa Castle"
+          },
+          "coords": [
+            22.7164,
+            37.6358
+          ],
+          "category": "fortresses",
+          "arrive_at": "15:45",
+          "stay_min": 95,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der letzte Aufstieg des Tages erfolgt zu Fuß. Er ist steil.",
+            "hu": "A nap utolsó emelkedője gyalog történik. Meredek.",
+            "ro": "Urcarea finală a zilei este pe jos. Este abruptă.",
+            "en": "The final ascent of the day is on foot. It is steep."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Bus zum Hauptplatz von Argos. Der erste Cluster von Sehenswürdigkeiten, darunter die Agios-Petros-Kirche, das Museum und die Kasernen, ist leicht zu Fuß erreichbar und bietet einen sanften Einstieg in die reiche Geschichte der Stadt.\nAm Mittag nehmen Sie einen kurzen Bus oder machen einen längeren Spaziergang zum zweiten Cluster: der archäologischen Zone mit der Agora, den Thermen und dem Theater. Tauchen Sie in das Herz des antiken Lebens ein, bevor Sie eine Mittagspause einlegen.\nDer Nachmittag ist für den energiegeladenen Aufstieg zur Burg von Larissa reserviert. Vom Theater aus ist es ein anspruchsvoller Spaziergang, der Sie mit den besten Aussichten auf die Stadt und die umliegende Ebene belohnt.\nBeenden Sie Ihren Tag, indem Sie zurück ins Zentrum gehen oder einen Bus nehmen. Genießen Sie die Zufriedenheit, eine der wichtigsten Städte der griechischen Geschichte mit einer Kombination aus öffentlichen Verkehrsmitteln und eigener Kraft erkundet zu haben.",
+        "hu": "Kezdje a napot busszal Árgosz főterére. Az első látnivaló-klaszter, beleértve az Agios Petros-templomot, a múzeumot és a laktanyát, könnyen bejárható gyalog, és kellemes bevezetést nyújt a város gazdag történelmébe.\nDélben szálljon buszra vagy tegyen egy hosszabb sétát a második klaszterhez: a régészeti zónához, amely magában foglalja az Agórát, a fürdőket és a színházat. Merüljön el az ókori élet szívében, mielőtt ebédszünetet tart.\nA délutánt a Larissza várához való energikus feljutásra szánjuk. A színháztól ez egy kihívást jelentő séta, amely a városra és a környező síkságra nyíló legjobb kilátással jutalmazza.\nFejezze be a napot a központba való visszasétálással vagy buszozással. Élvezze az elégedettséget, hogy a görög történelem egyik legfontosabb városát a tömegközlekedés és a saját erejének kombinációjával fedezte fel.",
+        "ro": "Începeți ziua luând un autobuz către piața principală din Argos. Primul cluster de atracții, inclusiv Biserica Agios Petros, muzeul și cazarmele, este ușor de parcurs pe jos, oferind o introducere blândă în istoria bogată a orașului.\nLa prânz, luați un autobuz scurt sau faceți o plimbare mai lungă până la al doilea cluster: zona arheologică care cuprinde Agora, Termele și Teatrul. Scufundați-vă în inima vieții antice înainte de a face o pauză pentru prânz.\nDupă-amiaza este rezervată pentru ascensiunea energică la Cetatea Larissa. De la teatru, este o plimbare solicitantă care vă recompensează cu cele mai bune vederi ale orașului și ale câmpiei înconjurătoare.\nÎncheiați-vă ziua mergând pe jos sau luând un autobuz înapoi în centru. Bucurați-vă de satisfacția de a fi explorat unul dintre cele mai importante orașe din istoria Greciei folosind o combinație de transport public și propria putere.",
+        "en": "Begin your day by taking a bus to the main square of Argos. The first cluster of sights, including Agios Petros church, the museum, and the barracks, is easily walkable, providing a gentle introduction to the city's rich history.\nAt midday, take a short bus ride or a longer walk to the second cluster: the archaeological zone comprising the Agora, Thermals, and Theatre. Immerse yourself in the heart of ancient life before taking a break for lunch.\nThe afternoon is reserved for the energetic ascent to Larissa Castle. From the theatre, it's a challenging walk that rewards you with the best views over the city and the surrounding plain.\nEnd your day by walking or taking a bus back to the center. Enjoy the satisfaction of having explored one of Greek history's most important cities using a combination of public transport and your own power."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gkóntos",
+            "tip": "Bekannt für seine traditionellen griechischen Gerichte und gegrilltes Fleisch."
+          },
+          {
+            "name": "Mélia",
+            "tip": "Probieren Sie die lokalen Vorspeisen (Mezedes) mit einem Glas Ouzo."
+          },
+          {
+            "name": "Souvlaki vom Grill",
+            "tip": "Ein Muss für ein schnelles und authentisches Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gkóntos",
+            "tip": "Hagyományos görög ételeiről és grillezett húsairól ismert."
+          },
+          {
+            "name": "Mélia",
+            "tip": "Kóstolja meg a helyi előételeket (mezedes) egy pohár ouzóval."
+          },
+          {
+            "name": "Grillezett szuvláki",
+            "tip": "Gyors és autentikus ebédhez kötelező."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gkóntos",
+            "tip": "Renumit pentru mâncărurile sale tradiționale grecești și carnea la grătar."
+          },
+          {
+            "name": "Mélia",
+            "tip": "Încercați aperitivele locale (mezedes) cu un pahar de ouzo."
+          },
+          {
+            "name": "Souvlaki la grătar",
+            "tip": "O necesitate pentru un prânz rapid și autentic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gkóntos",
+            "tip": "Known for its traditional Greek dishes and grilled meats."
+          },
+          {
+            "name": "Mélia",
+            "tip": "Try the local appetizers (mezedes) with a glass of ouzo."
+          },
+          {
+            "name": "Grilled Souvlaki",
+            "tip": "A must-try for a quick and authentic lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang zur Burg von Larissa bei Sonnenuntergang",
+            "tip": "Die Stadt leuchtet unter Ihnen auf.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Die oberen Ränge des antiken Theaters",
+            "tip": "Ein ruhiger Ort, um die Größe der Anlage zu betrachten.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Der Hof der Kapodistrias-Kasernen",
+            "tip": "Ein überraschend friedlicher historischer Ort.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Larissza várához naplementekor",
+            "tip": "A város fényei kigyúlnak alattad.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Az antik színház felső sorai",
+            "tip": "Csendes hely a szerkezet nagyságának szemlélésére.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A Kapodistrias laktanya udvara",
+            "tip": "Meglepően békés történelmi helyszín.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare la Cetatea Larissa la apus",
+            "tip": "Orașul se luminează sub tine.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rândurile superioare ale teatrului antic",
+            "tip": "Un loc liniștit pentru a contempla măreția structurii.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Curtea Cazărmii Kapodistrias",
+            "tip": "Un loc istoric surprinzător de pașnic.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk to Larissa Castle at sunset",
+            "tip": "The city lights up below you.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "The upper tiers of the ancient theatre",
+            "tip": "A quiet spot to contemplate the structure's grandeur.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "The courtyard of the Kapodistrias Barracks",
+            "tip": "A surprisingly peaceful historical spot.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie Olivenöl aus der Region, Honig und den berühmten Argos-Käse."
+          },
+          {
+            "name": "Keramikläden",
+            "tip": "Finden Sie handgefertigte Nachbildungen antiker griechischer Töpferwaren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon helyi olívaolajat, mézet és a híres árgoszi sajtot."
+          },
+          {
+            "name": "Kerámiaüzletek",
+            "tip": "Találjon kézzel készített másolatokat az ókori görög kerámiákról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați ulei de măsline local, miere și faimoasa brânză de Argos."
+          },
+          {
+            "name": "Magazine de ceramică",
+            "tip": "Găsiți replici lucrate manual ale ceramicii grecești antice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for local olive oil, honey, and the famous Argos cheese."
+          },
+          {
+            "name": "Pottery Shops",
+            "tip": "Find handmade replicas of ancient Greek pottery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das lokale Busnetz ist am besten für die Verbindung zwischen Hauptbereichen geeignet.",
+          "Fragen Sie Einheimische nach Buslinien, da die Beschilderung möglicherweise nicht immer klar ist.",
+          "Einige Teile der Tour, insbesondere der Aufstieg zur Burg, müssen zu Fuß zurückgelegt werden.",
+          "Kaufen Sie Fahrkarten an Kiosken (Periptera) oder direkt beim Fahrer."
+        ],
+        "hu": [
+          "A helyi buszhálózat a főbb területek összekötésére a legalkalmasabb.",
+          "Kérdezze meg a helyieket a buszjáratokról, mivel a táblák nem mindig egyértelműek.",
+          "A túra egyes részeit, különösen a várhoz való feljutást, gyalog kell megtenni.",
+          "Jegyeket kioszkokban (periptera) vagy közvetlenül a sofőrtől vásárolhat.",
+          "A túra egyes részeit, különösen a várhoz való feljutást, gyalog kell megtenni."
+        ],
+        "ro": [
+          "Rețeaua locală de autobuze este cea mai bună pentru a conecta zonele principale.",
+          "Întrebați localnicii despre rutele de autobuz, deoarece semnalizarea poate să nu fie întotdeauna clară.",
+          "Anumite părți ale turului, în special urcarea la castel, trebuie făcute pe jos.",
+          "Cumpărați bilete de la chioșcuri (periptera) sau direct de la șofer."
+        ],
+        "en": [
+          "The local bus network is best for connecting main areas.",
+          "Ask locals for bus routes, as signage may not always be clear.",
+          "Some parts of the tour, especially the castle climb, must be done on foot.",
+          "Buy tickets at kiosks (periptera) or from the driver directly."
+        ]
+      }
+    }
+  }
+}

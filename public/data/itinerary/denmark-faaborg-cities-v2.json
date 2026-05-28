@@ -1,0 +1,1320 @@
+{
+  "city_id": "denmark-faaborg-cities-v2",
+  "anchor": {
+    "name": "Faaborg",
+    "coords": [
+      10.24,
+      55.09
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 2.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Vesterport (Westtor)",
+            "hu": "Vesterport (Nyugati kapu)",
+            "ro": "Vesterport (Poarta de Vest)",
+            "en": "Vesterport (Western Gate)"
+          },
+          "coords": [
+            10.2385,
+            55.0952
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Das einzige erhaltene von drei Stadttoren Faaborgs aus dem 15. Jahrhundert.",
+            "hu": "Faaborg három 15. századi városkapuja közül az egyetlen, amely megmaradt.",
+            "ro": "Singura poartă a orașului din secolul al XV-lea care a supraviețuit din cele trei ale Faaborgului.",
+            "en": "The only surviving of Faaborg's three 15th-century town gates."
+          }
+        },
+        {
+          "name": {
+            "de": "Helligåndskirken (Heiliggeistkirche)",
+            "hu": "Helligåndskirken (Szentlélek-templom)",
+            "ro": "Helligåndskirken (Biserica Sfântul Duh)",
+            "en": "Helligåndskirken (Church of the Holy Ghost)"
+          },
+          "coords": [
+            10.242,
+            55.0958
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:38",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beachten Sie das große Votivschiff, das von der Decke hängt.",
+            "hu": "Figyelje meg a mennyezetről lógó nagy fogadalmi hajót.",
+            "ro": "Observați nava votivă mare care atârnă de tavan.",
+            "en": "Note the large votive ship hanging from the ceiling."
+          }
+        },
+        {
+          "name": {
+            "de": "Faaborg Glockenturm",
+            "hu": "Faaborgi Harangtorony",
+            "ro": "Turnul cu clopote din Faaborg",
+            "en": "Faaborg Clock Tower"
+          },
+          "coords": [
+            10.243,
+            55.0965
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:27",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Steigen Sie für die beste Aussicht auf die Stadt und den Fjord nach oben.",
+            "hu": "Másszon fel a tetejére a legjobb kilátásért a városra és a fjordra.",
+            "ro": "Urcați în vârf pentru cea mai bună priveliște asupra orașului și fiordului.",
+            "en": "Climb to the top for the best view of the town and fjord."
+          }
+        },
+        {
+          "name": {
+            "de": "Den Gamle Gård (Der alte Hof)",
+            "hu": "Den Gamle Gård (A Régi Udvar)",
+            "ro": "Den Gamle Gård (Curtea Veche)",
+            "en": "Den Gamle Gård (The Old Courtyard)"
+          },
+          "coords": [
+            10.245,
+            55.095
+          ],
+          "category": "museums",
+          "arrive_at": "11:13",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein schönes Stadtmuseum, das das Leben in Faaborg im 19. Jahrhundert zeigt.",
+            "hu": "Egy kedves városi múzeum, amely a 19. századi faaborgi életet mutatja be.",
+            "ro": "Un muzeu orășenesc încântător care prezintă viața în Faaborg în secolul al XIX-lea.",
+            "en": "A lovely town museum showcasing life in Faaborg during the 19th century."
+          }
+        },
+        {
+          "name": {
+            "de": "Faaborg Museum",
+            "hu": "Faaborg Múzeum",
+            "ro": "Muzeul Faaborg",
+            "en": "Faaborg Museum"
+          },
+          "coords": [
+            10.247,
+            55.0935
+          ],
+          "category": "museums",
+          "arrive_at": "12:37",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Meisterwerk der dänischen neoklassizistischen Architektur, das fünische Maler zeigt.",
+            "hu": "A dán neoklasszikus építészet remekműve, amely fyni festőket mutat be.",
+            "ro": "O capodoperă a arhitecturii neoclasice daneze, care expune pictori din Funen.",
+            "en": "A masterpiece of Danish neoclassical architecture, showcasing Funen painters."
+          }
+        },
+        {
+          "name": {
+            "de": "Faaborg Havnebad",
+            "hu": "Faaborg Havnebad (Tengeri fürdő)",
+            "ro": "Faaborg Havnebad (Baia portuară)",
+            "en": "Faaborg Harbour Bath"
+          },
+          "coords": [
+            10.252,
+            55.091
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:07",
+          "stay_min": 180,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Perfekt für ein erfrischendes Bad oder einfach nur zum Entspannen am Wasser.",
+            "hu": "Tökéletes egy frissítő úszáshoz vagy csak a vízparti pihenéshez.",
+            "ro": "Perfect pentru o baie revigorantă sau pur și simplu pentru relaxare la malul apei.",
+            "en": "Perfect for a refreshing swim or just relaxing by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Faaborg beginnt mit einem Spaziergang durch die Geschichte am Vesterport und in der stillen Helligåndskirken. Am Vormittag steigen Sie auf den Glockenturm, um einen Panoramablick zu genießen, der Sie auf die bevorstehenden Entdeckungen einstimmt. Der Mittag ist der Kultur gewidmet, mit einem tiefen Einblick in das lokale Leben im Den Gamle Gård und den künstlerischen Schätzen des Faaborg Museums. Der Nachmittag ist für pure Entspannung am preisgekrönten Havnebad reserviert, wo das Meer auf modernes Design trifft. Der Abend lockt mit dem Duft lokaler Küche, ein perfekter Abschluss für einen Tag voller fünischer Eindrücke.",
+        "hu": "Faaborgi napja egy történelmi sétával kezdődik a Vesterportnál és a csendes Helligåndskirkenben. A délelőtt folyamán másszon fel a Harangtoronyba a panorámáért, amely megalapozza a további felfedezéseket. Az ebédidő a kultúráé, mélyreható betekintést nyerve a helyi életbe a Den Gamle Gårdban és a Faaborg Múzeum művészeti kincseibe. A délután a tiszta kikapcsolódásé a díjnyertes Havnebadnál, ahol a tenger és a modern dizájn találkozik. Az este a helyi konyha illataival csábít, tökéletes lezárásaként egy fyni benyomásokkal teli napnak.",
+        "ro": "Ziua dvs. în Faaborg începe cu o plimbare prin istorie la Vesterport și la liniștita Helligåndskirken. Dimineața, urcați în Turnul cu Clopote pentru o priveliște panoramică ce pregătește terenul pentru descoperirile ce vor urma. Prânzul este dedicat culturii, cu o incursiune profundă în viața locală la Den Gamle Gård și în comorile artistice de la Muzeul Faaborg. După-amiaza este rezervată relaxării pure la premiata baie portuară Havnebad, unde marea întâlnește designul modern. Seara vă ademenește cu aromele bucătăriei locale, o încheiere perfectă pentru o zi plină de impresii din Funen.",
+        "en": "Your day in Faaborg begins with a walk through history at Vesterport and the quiet Helligåndskirken. The morning sees you climbing the Clock Tower for a panoramic view that sets the stage for the discoveries ahead. Midday is for culture, with a deep dive into local life at Den Gamle Gård and the artistic treasures of Faaborg Museum. The afternoon is reserved for pure relaxation at the award-winning Havnebad harbour bath, where the sea meets modern design. The evening beckons with the aroma of local cuisine, a perfect end to a day of Funen impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Probieren Sie das klassische dänische offene Sandwich in einem der Cafés am Hafen."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Dänische Fleischbällchen, oft mit Kartoffelsalat serviert."
+          },
+          {
+            "name": "Frischer Fisch",
+            "tip": "Als Hafenstadt bietet Faaborg ausgezeichnete Fisch- und Meeresfrüchtegerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Kóstolja meg a klasszikus dán nyitott szendvicset a kikötői kávézók egyikében."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Dán húsgombóc, gyakran burgonyasalátával tálalva."
+          },
+          {
+            "name": "Friss hal",
+            "tip": "Kikötővárosként Faaborg kiváló hal- és tengeri ételeket kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Încercați sandvișul deschis clasic danez la una dintre cafenelele din port."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Chiftele daneze, adesea servite cu salată de cartofi."
+          },
+          {
+            "name": "Pește proaspăt",
+            "tip": "Ca oraș portuar, Faaborg oferă preparate excelente din pește și fructe de mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Try the classic Danish open-faced sandwich at one of the harborside cafes."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Danish meatballs, often served with potato salad."
+          },
+          {
+            "name": "Fresh Fish",
+            "tip": "As a port town, Faaborg offers excellent fish and seafood dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Sundet",
+            "tip": "Ein friedlicher Weg entlang des Wassers, etwas außerhalb des Zentrums.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Die Gassen der Altstadt",
+            "tip": "Verlieren Sie sich in den ruhigen, kopfsteingepflasterten Straßen abseits des Hauptplatzes.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bänke am Fjord",
+            "tip": "Finden Sie eine Bank mit Blick auf den Fjord für einen Moment der Kontemplation.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Sundet mentén",
+            "tip": "Békés ösvény a víz mentén, kicsit a központon kívül.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Az óváros sikátorai",
+            "tip": "Vesszen el a csendes, macskaköves utcákon a főtértől távolabb.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Padok a fjordnál",
+            "tip": "Keressen egy padot, ahonnan a fjordra nézhet egy pillanatnyi elmélkedésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe Sundet",
+            "tip": "O potecă liniștită de-a lungul apei, chiar în afara centrului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Străduțele din Orașul Vechi",
+            "tip": "Pierdeți-vă pe străzile liniștite, pavate cu piatră cubică, departe de piața principală.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bănci lângă fiord",
+            "tip": "Găsiți o bancă cu vedere la fiord pentru un moment de contemplație.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along Sundet",
+            "tip": "A peaceful path along the water just outside the centre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "The Old Town alleys",
+            "tip": "Get lost in the quiet, cobblestoned streets away from the main square.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Benches by the Fjord",
+            "tip": "Find a bench overlooking the fjord for a moment of contemplation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Kunstgalerien",
+            "tip": "Entdecken Sie Werke von Künstlern aus Fünen, inspiriert von der Landschaft."
+          },
+          {
+            "name": "Hafenboutiquen",
+            "tip": "Finden Sie einzigartige maritime Souvenirs und dänisches Design."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi művészeti galériák",
+            "tip": "Fedezze fel a fyni művészek táj ihlette alkotásait."
+          },
+          {
+            "name": "Kikötői butikok",
+            "tip": "Találjon egyedi tengeri ajándéktárgyakat és dán dizájnt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galerii de artă locale",
+            "tip": "Descoperiți lucrări ale artiștilor din Funen, inspirați de peisaj."
+          },
+          {
+            "name": "Buticuri din port",
+            "tip": "Găsiți suveniruri maritime unice și design danez."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Art Galleries",
+            "tip": "Discover works by Funen artists inspired by the landscape."
+          },
+          {
+            "name": "Harbour Boutiques",
+            "tip": "Find unique maritime souvenirs and Danish design."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Altstadt Kopfsteinpflaster hat.",
+          "Viele kleine Geschäfte schließen früh, planen Sie Ihren Einkaufsbummel für den Vormittag oder frühen Nachmittag.",
+          "Ein Spaziergang bei Sonnenuntergang am Hafen ist ein Muss.",
+          "Prüfen Sie die Öffnungszeiten der Museen, da diese saisonal variieren können."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros macskaköves.",
+          "Sok kis üzlet korán bezár, tervezze a vásárlást délelőttre vagy kora délutánra.",
+          "A naplementés séta a kikötőben kötelező program.",
+          "Ellenőrizze a múzeumok nyitvatartási idejét, mivel az szezonálisan változhat."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece Orașul Vechi are pavaj din piatră cubică.",
+          "Multe magazine mici se închid devreme, planificați-vă cumpărăturile pentru dimineață sau începutul după-amiezii.",
+          "O plimbare la apus în port este obligatorie.",
+          "Verificați orele de funcționare ale muzeelor, deoarece acestea pot varia în funcție de sezon."
+        ],
+        "en": [
+          "Wear comfortable shoes as the Old Town is cobblestoned.",
+          "Many small shops close early, plan your shopping for the morning or early afternoon.",
+          "A sunset walk by the harbour is a must-do.",
+          "Check museum opening times as they can vary seasonally."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 10.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Vesterport (Westtor)",
+            "hu": "Vesterport (Nyugati kapu)",
+            "ro": "Vesterport (Poarta de Vest)",
+            "en": "Vesterport (Western Gate)"
+          },
+          "coords": [
+            10.2385,
+            55.0952
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein schneller Fotostopp am historischen Eingang der Stadt.",
+            "hu": "Egy gyors fotómegálló a város történelmi bejáratánál.",
+            "ro": "O oprire rapidă pentru fotografii la intrarea istorică a orașului.",
+            "en": "A quick photo stop at the historic entrance to the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Helligåndskirken & Glockenturm",
+            "hu": "Helligåndskirken és Harangtorony",
+            "ro": "Helligåndskirken și Turnul cu clopote",
+            "en": "Helligåndskirken & Clock Tower"
+          },
+          "coords": [
+            10.243,
+            55.0965
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:30",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Besuch der Kirche mit dem Aufstieg auf den Turm für eine tolle Aussicht.",
+            "hu": "Kombinálja a templomlátogatást a torony megmászásával a nagyszerű kilátásért.",
+            "ro": "Combinați vizita la biserică cu urcarea în turn pentru o priveliște minunată.",
+            "en": "Combine the church visit with the tower climb for a great view."
+          }
+        },
+        {
+          "name": {
+            "de": "Den Gamle Gård & Faaborg Museum",
+            "hu": "Den Gamle Gård és Faaborg Múzeum",
+            "ro": "Den Gamle Gård și Muzeul Faaborg",
+            "en": "Den Gamle Gård & Faaborg Museum"
+          },
+          "coords": [
+            10.246,
+            55.094
+          ],
+          "category": "museums",
+          "arrive_at": "10:33",
+          "stay_min": 150,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und tauchen Sie für ein paar Stunden in Kunst und Geschichte ein.",
+            "hu": "Parkolja le a kerékpárját, és merüljön el a művészetben és a történelemben néhány órára.",
+            "ro": "Parcați bicicleta și scufundați-vă în artă și istorie pentru câteva ore.",
+            "en": "Park your bike and immerse yourself in art and history for a couple of hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Faaborg Havnebad",
+            "hu": "Faaborg Havnebad (Tengeri fürdő)",
+            "ro": "Faaborg Havnebad (Baia portuară)",
+            "en": "Faaborg Harbour Bath"
+          },
+          "coords": [
+            10.252,
+            55.091
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:07",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und genießen Sie ein Mittagessen mit Meerblick oder ein schnelles Bad.",
+            "hu": "Zárja le a kerékpárt, és élvezzen egy ebédet tengeri kilátással vagy egy gyors úszást.",
+            "ro": "Legați-vă bicicleta și bucurați-vă de un prânz cu vedere la mare sau de o baie rapidă.",
+            "en": "Lock up your bike and enjoy a seaside lunch or a quick swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Radtour nach Svanninge Bakker",
+            "hu": "Kerékpártúra Svanninge Bakker felé",
+            "ro": "Tură cu bicicleta spre Svanninge Bakker",
+            "en": "Bike Ride towards Svanninge Bakker"
+          },
+          "coords": [
+            10.22,
+            55.13
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "15:01",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4,
+          "tip_5lang": {
+            "de": "Genießen Sie die malerische Fahrt durch die Landschaft zu den 'Fünischen Alpen'.",
+            "hu": "Élvezze a festői utat a tájon keresztül a 'Fyni-Alpok' felé.",
+            "ro": "Bucurați-vă de plimbarea pitorească prin peisajul rural spre 'Alpii Funenului'.",
+            "en": "Enjoy the scenic ride through the countryside towards the 'Alps of Funen'."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Stadtzentrum",
+            "hu": "Visszatérés a városközpontba",
+            "ro": "Întoarcere în centrul orașului",
+            "en": "Return to Town Centre"
+          },
+          "coords": [
+            10.24,
+            55.09
+          ],
+          "category": "squares/plazas",
+          "arrive_at": "16:21",
+          "stay_min": 0,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour in einem Café am Hauptplatz.",
+            "hu": "Fejezze be a túrát egy kávézóban a főtéren.",
+            "ro": "Încheiați turul la o cafenea din piața principală.",
+            "en": "End your tour at a cafe in the main square."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radtag beginnt schnell am Vesterport, bevor Sie die spirituelle Ruhe der Helligåndskirken und die Aussicht vom Glockenturm genießen. Am Vormittag tauchen Sie in die reiche Kultur der Zwillingsmuseen von Faaborg ein, ein perfekter langer Stopp, um die Beine zu vertreten. Der Mittag findet Sie am lebhaften Havnebad, wo Sie sich mit einem Mittagessen am Meer stärken. Der Höhepunkt des Nachmittags ist eine belebende Radtour in Richtung der sanften Hügel von Svanninge Bakker, die Ihnen einen Eindruck von der wunderschönen Landschaft Fünens vermittelt. Sie kehren bei Sonnenuntergang ins Stadtzentrum zurück, erfüllt von einem Tag voller Aktivität und Entdeckungen.",
+        "hu": "Kerékpáros napja gyorsan indul a Vesterportnál, mielőtt élvezné a Helligåndskirken spirituális nyugalmát és a Harangtoronyból nyíló kilátást. A délelőtt folyamán elmerül Faaborg ikermúzeumainak gazdag kultúrájában, ami egy tökéletes hosszú megálló a lábak kinyújtóztatására. Az ebédidő a nyüzsgő Havnebadnál találja, ahol egy tengerparti ebéddel töltődhet fel. A délután csúcspontja egy élénkítő kerékpártúra a Svanninge Bakker lankás dombjai felé, amely ízelítőt ad Fyn gyönyörű vidékéből. Napnyugtakor tér vissza a városközpontba, feltöltődve egy aktív és felfedezésekkel teli nappal.",
+        "ro": "Ziua dvs. pe bicicletă începe în viteză la Vesterport, înainte de a absorbi liniștea spirituală de la Helligåndskirken și priveliștile din Turnul cu Clopote. Dimineața vă scufundați în cultura bogată a muzeelor gemene din Faaborg, o oprire lungă perfectă pentru a vă dezmorți picioarele. La prânz vă aflați la vibrantul Havnebad, realimentându-vă cu un prânz la malul mării. Punctul culminant al după-amiezii este o plimbare revigorantă cu bicicleta spre dealurile domoale din Svanninge Bakker, oferindu-vă un gust din peisajul rural frumos al Funenului. Vă întoarceți în centrul orașului la apus, împliniți de o zi de activitate și descoperire.",
+        "en": "Your bike day starts swiftly at Vesterport before absorbing the spiritual calm of Helligåndskirken and the views from the Clock Tower. The mid-morning has you diving into the rich culture of Faaborg's twin museums, a perfect long stop to stretch your legs. Midday finds you at the vibrant Havnebad, refueling with a seaside lunch. The afternoon's highlight is an invigorating ride towards the rolling hills of Svanninge Bakker, giving you a taste of the beautiful Funen countryside. You return to the town centre as the sun sets, fulfilled by a day of activity and discovery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Røget sild",
+            "tip": "Geräucherter Hering, eine lokale Delikatesse, die man in den Restaurants am Hafen probieren kann."
+          },
+          {
+            "name": "Hindbærsnitter",
+            "tip": "Ein klassisches dänisches Gebäck mit Himbeermarmelade, perfekt für einen Energieschub."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Røget sild",
+            "tip": "Füstölt hering, helyi finomság, amelyet a kikötői éttermekben érdemes megkóstolni."
+          },
+          {
+            "name": "Hindbærsnitter",
+            "tip": "Klasszikus dán sütemény málnalekvárral, tökéletes energiafröccs."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Røget sild",
+            "tip": "Hering afumat, o delicatesă locală de încercat la restaurantele din port."
+          },
+          {
+            "name": "Hindbærsnitter",
+            "tip": "O prăjitură clasică daneză cu gem de zmeură, perfectă pentru un plus de energie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Røget sild",
+            "tip": "Smoked herring, a local delicacy to try at the harbour restaurants."
+          },
+          {
+            "name": "Hindbærsnitter",
+            "tip": "A classic Danish pastry with raspberry jam, perfect for an energy boost."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Sundet",
+            "tip": "Folgen Sie dem Küstenradweg für friedliche Ausblicke auf das Wasser.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Svanninge Bakker",
+            "tip": "Finden Sie einen ruhigen Ort auf einem Hügel, um die Landschaft zu überblicken.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Sundet mentén",
+            "tip": "Kövesse a parti kerékpárutat a békés vízi kilátásért.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Svanninge Bakker",
+            "tip": "Keressen egy csendes helyet egy dombtetőn, ahonnan beláthatja a tájat.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul Sundet",
+            "tip": "Urmați pista de biciclete de coastă pentru priveliști liniștite ale apei.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Svanninge Bakker",
+            "tip": "Găsiți un loc liniștit pe un deal pentru a admira peisajul rural.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike path along Sundet",
+            "tip": "Follow the coastal bike path for peaceful water views.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Svanninge Bakker",
+            "tip": "Find a quiet spot on a hill to overlook the countryside.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Holen Sie sich lokales Zubehör oder ein Souvenir mit Fahrradmotiv."
+          },
+          {
+            "name": "Hofläden",
+            "tip": "Halten Sie auf Ihrer Fahrt Ausschau nach Schildern für 'gårdbutik' für lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Szerezzen be helyi kiegészítőket vagy egy kerékpáros témájú ajándéktárgyat."
+          },
+          {
+            "name": "Tanyasi boltok",
+            "tip": "Az út során figyelje a 'gårdbutik' táblákat a helyi termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Luați accesorii locale sau un suvenir cu tematică de ciclism."
+          },
+          {
+            "name": "Magazine de la fermă",
+            "tip": "Fiți atenți la semnele pentru 'gårdbutik' în timpul plimbării pentru produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "Pick up some local gear or a cycling-themed souvenir."
+          },
+          {
+            "name": "Farm Shops",
+            "tip": "Look for 'gårdbutik' signs on your ride for local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad in einem der örtlichen Geschäfte, wenn Sie keins haben.",
+          "Die Wege rund um Svanninge Bakker können hügelig sein, stellen Sie sicher, dass Ihr Fahrrad Gänge hat.",
+          "Nehmen Sie viel Wasser mit, besonders für die Fahrt aufs Land.",
+          "Schließen Sie Ihr Fahrrad immer ab, auch für kurze Stopps."
+        ],
+        "hu": [
+          "Béreljen kerékpárt az egyik helyi üzletben, ha nincs sajátja.",
+          "A Svanninge Bakker körüli utak dombosak lehetnek, győződjön meg róla, hogy a kerékpárja váltós.",
+          "Vigyen magával sok vizet, különösen a vidéki útra.",
+          "Mindig zárja le a kerékpárját, még rövid megállókra is."
+        ],
+        "ro": [
+          "Închiriați o bicicletă de la unul dintre magazinele locale dacă nu aveți una.",
+          "Traseele din jurul Svanninge Bakker pot fi deluroase, asigurați-vă că bicicleta are viteze.",
+          "Luați multă apă, mai ales pentru plimbarea în zona rurală.",
+          "Întotdeauna blocați-vă bicicleta, chiar și pentru opriri scurte."
+        ],
+        "en": [
+          "Rent a bike from one of the local shops if you don't have one.",
+          "The routes around Svanninge Bakker can be hilly, make sure your bike has gears.",
+          "Bring plenty of water, especially for the ride into the countryside.",
+          "Always lock your bike, even for short stops."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 28.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrt zum Schloss Holstenshuus",
+            "hu": "Utazás a Holstenshuus kastélyhoz",
+            "ro": "Călătorie spre Castelul Holstenshuus",
+            "en": "Drive to Holstenshuus Castle"
+          },
+          "coords": [
+            10.3,
+            55.125
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:30",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einer kurzen Fahrt zu diesem eleganten Barockschloss. Der Park ist wunderschön.",
+            "hu": "Kezdje a napot egy rövid autóúttal ehhez az elegáns barokk kastélyhoz. A park gyönyörű.",
+            "ro": "Începeți ziua cu o scurtă călătorie cu mașina spre acest castel baroc elegant. Parcul este superb.",
+            "en": "Start your day with a short drive to this elegant baroque castle. The park is beautiful."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang im Schlosspark",
+            "hu": "Séta a kastélyparkban",
+            "ro": "Plimbare în parcul castelului",
+            "en": "Walk in the Castle Park"
+          },
+          "coords": [
+            10.302,
+            55.126
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:00",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe und die gepflegten Gärten, die das Schloss umgeben.",
+            "hu": "Élvezze a kastélyt körülvevő nyugalmat és a gondozott kerteket.",
+            "ro": "Bucurați-vă de liniștea și grădinile îngrijite care înconjoară castelul.",
+            "en": "Enjoy the tranquility and the manicured gardens surrounding the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt nach Svanninge Bakker",
+            "hu": "Utazás Svanninge Bakkerbe",
+            "ro": "Călătorie spre Svanninge Bakker",
+            "en": "Drive to Svanninge Bakker"
+          },
+          "coords": [
+            10.22,
+            55.13
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "11:50",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 9,
+          "tip_5lang": {
+            "de": "Fahren Sie zu den 'Fünischen Alpen' für atemberaubende Ausblicke und ein Picknick-Mittagessen.",
+            "hu": "Autózzon el a 'Fyni-Alpokba' a lélegzetelállító kilátásért és egy piknikebédért.",
+            "ro": "Conduceți spre 'Alpii Funenului' pentru priveliști uimitoare și un prânz la picnic.",
+            "en": "Drive to the 'Alps of Funen' for stunning views and a picnic lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt ins Stadtzentrum von Faaborg",
+            "hu": "Utazás Faaborg városközpontjába",
+            "ro": "Călătorie spre centrul orașului Faaborg",
+            "en": "Drive to Faaborg Town Centre"
+          },
+          "coords": [
+            10.24,
+            55.095
+          ],
+          "category": "parking",
+          "arrive_at": "14:10",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 11,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto auf einem der ausgewiesenen Parkplätze am Rande der Altstadt.",
+            "hu": "Parkolja le autóját az óváros szélén található kijelölt parkolók egyikében.",
+            "ro": "Parcați mașina într-una dintre parcările desemnate de la marginea orașului vechi.",
+            "en": "Park your car in one of the designated car parks on the edge of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang: Vesterport & Altstadt",
+            "hu": "Séta: Vesterport és Óváros",
+            "ro": "Plimbare: Vesterport și Orașul Vechi",
+            "en": "Walk: Vesterport & Old Town"
+          },
+          "coords": [
+            10.2385,
+            55.0952
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:10",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die charmanten Straßen, beginnend am historischen Tor.",
+            "hu": "Fedezze fel a bájos utcákat a történelmi kaputól indulva.",
+            "ro": "Explorați străzile fermecătoare, începând de la poarta istorică.",
+            "en": "Explore the charming streets, starting from the historic gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang: Helligåndskirken & Glockenturm",
+            "hu": "Séta: Helligåndskirken és Harangtorony",
+            "ro": "Plimbare: Helligåndskirken & Turnul cu Clopote",
+            "en": "Walk: Helligåndskirken & Clock Tower"
+          },
+          "coords": [
+            10.243,
+            55.0965
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:00",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang bringt Sie zu den Wahrzeichen der Stadt.",
+            "hu": "Egy rövid séta elvezeti a város nevezetességeihez.",
+            "ro": "O scurtă plimbare vă duce la reperele orașului.",
+            "en": "A short walk brings you to the town's iconic landmarks."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zum Hafenbad",
+            "hu": "Séta a Tengeri fürdőhöz",
+            "ro": "Plimbare la Baia Portuară",
+            "en": "Walk to the Harbour Bath"
+          },
+          "coords": [
+            10.252,
+            55.091
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:30",
+          "stay_min": 65,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit einem entspannten Spaziergang zum Wasser, um die Abendsonne zu genießen.",
+            "hu": "Fejezze be a napot egy pihentető sétával a vízparthoz, hogy élvezze az esti napsütést.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă la malul apei pentru a vă bucura de soarele de seară.",
+            "en": "End your day with a relaxing walk to the water to enjoy the evening sun."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt mit der eleganten Landschaft des Schlosses Holstenshuus, einem ruhigen Start in den Tag. Am Vormittag fahren Sie zu den dramatischen Höhen von Svanninge Bakker, dem perfekten Ort für ein Mittagessen mit Aussicht. Nach dem Mittagessen fahren Sie ins Herz von Faaborg. Sie parken das Auto und verwandeln sich in einen Fußgänger, der die historischen Cluster der Stadt erkundet. Der Nachmittag ist ein Spaziergang durch die Zeit, von Vesterport zur Helligåndskirken. Der Tag endet am modernen Hafenbad, wo Sie sich entspannen und auf einen Tag zurückblicken können, der das Beste aus Fünens Natur und Stadterbe vereint.",
+        "hu": "Autós napja a Holstenshuus kastély elegáns tájával kezdődik, egy békés napindító. A délelőtt folyamán a drámai magasságú Svanninge Bakkerbe hajt, amely tökéletes hely egy kilátással egybekötött ebédhez. Ebéd után Faaborg szívébe utazik. Leteszi az autót, és gyalogossá válva fedezi fel a város történelmi negyedeit. A délután egy séta az időben, a Vesterporttól a Helligåndskirkenig. A nap a modern tengeri fürdőnél ér véget, ahol pihenhet és visszatekinthet egy olyan napra, amely Fyn természetének és városi örökségének legjavát ötvözte.",
+        "ro": "Ziua dvs. cu mașina începe cu peisajul elegant al Castelului Holstenshuus, un început de zi liniștit. Dimineața vă îndreptați spre înălțimile dramatice din Svanninge Bakker, locul perfect pentru un prânz cu priveliște. După prânz, călătoriți în inima orașului Faaborg. Parcați mașina și vă transformați într-un pieton, explorând grupurile istorice ale orașului. După-amiaza este o plimbare prin timp, de la Vesterport la Helligåndskirken. Ziua se încheie la moderna baie portuară, unde vă puteți relaxa și reflecta la o zi care a combinat ce e mai bun din natura și patrimoniul urban al Funenului.",
+        "en": "Your car day begins with the elegant scenery of Holstenshuus Castle, a serene start to the day. The morning drive takes you to the dramatic heights of Svanninge Bakker, the perfect spot for lunch with a view. After lunch, you journey into the heart of Faaborg. You'll park the car and transform into a pedestrian, exploring the town's historic clusters. The afternoon is a walk through time, from Vesterport to Helligåndskirken. The day concludes at the modern harbour bath, where you can unwind and reflect on a day that combined the best of Funen's nature and town heritage."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Landgasthof (Kro)",
+            "tip": "Suchen Sie nach einem traditionellen 'Kro' in der Nähe von Svanninge für ein authentisches dänisches Mittagessen."
+          },
+          {
+            "name": "Æbleflæsk",
+            "tip": "Ein herzhaftes fünisches Gericht aus gepökeltem Schweinefleisch, das mit Äpfeln gekocht wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vidéki fogadó (Kro)",
+            "tip": "Keressen egy hagyományos 'Kro'-t Svanninge közelében egy autentikus dán ebédért."
+          },
+          {
+            "name": "Æbleflæsk",
+            "tip": "Szívélyes fyni étel, sózott sertéshúsból, almával főzve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Han rustic (Kro)",
+            "tip": "Căutați un 'Kro' tradițional lângă Svanninge pentru un prânz danez autentic."
+          },
+          {
+            "name": "Æbleflæsk",
+            "tip": "Un fel de mâncare consistent din Funen, din carne de porc sărată gătită cu mere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Countryside Inn (Kro)",
+            "tip": "Look for a traditional 'Kro' near Svanninge for an authentic Danish lunch."
+          },
+          {
+            "name": "Æbleflæsk",
+            "tip": "A hearty Funen dish of cured pork cooked with apples."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlosspark Holstenshuus",
+            "tip": "Der Park ist ein Reich der Ruhe, perfekt für einen morgendlichen Spaziergang.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Gipfel von Svanninge Bakker",
+            "tip": "Finden Sie einen abgelegenen Platz, um die weite Aussicht zu genießen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Holstenshuus kastélypark",
+            "tip": "A park a nyugalom birodalma, tökéletes egy reggeli sétához.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Svanninge Bakker csúcsa",
+            "tip": "Keressen egy félreeső helyet, ahonnan élvezheti a hatalmas kilátást.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului Holstenshuus",
+            "tip": "Parcul este un tărâm al liniștii, perfect pentru o plimbare de dimineață.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Vârful Svanninge Bakker",
+            "tip": "Găsiți un loc retras pentru a admira priveliștea panoramică.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Holstenshuus Castle Park",
+            "tip": "The park is a realm of tranquility, perfect for a morning stroll.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Summit of Svanninge Bakker",
+            "tip": "Find a secluded spot to take in the vast views.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Antiquitätenläden",
+            "tip": "Halten Sie in den Dörfern rund um Faaborg Ausschau nach 'Antik'-Schildern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Antikváriumok",
+            "tip": "Figyelje az 'Antik' táblákat Faaborg körüli falvakban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de antichități",
+            "tip": "Fiți atenți la semnele 'Antik' în satele din jurul Faaborg."
+          }
+        ],
+        "en": [
+          {
+            "name": "Antique Shops",
+            "tip": "Look for 'Antik' signs in the villages surrounding Faaborg."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Öffnungszeiten von Schloss Holstenshuus, da der Zugang saisonabhängig sein kann.",
+          "In der Innenstadt von Faaborg gibt es gebührenpflichtige Parkplätze.",
+          "Die Straßen in Svanninge Bakker können eng sein, fahren Sie vorsichtig.",
+          "Tanken Sie, bevor Sie die Stadt verlassen, da Tankstellen auf dem Land rar sind."
+        ],
+        "hu": [
+          "Ellenőrizze a Holstenshuus kastély nyitvatartási idejét, mivel a belépés szezonális lehet.",
+          "Faaborg központjában fizetős parkolás van.",
+          "A Svanninge Bakker útjai szűkek lehetnek, vezessen óvatosan.",
+          "Tankoljon, mielőtt elhagyja a várost, mivel a benzinkutak ritkák vidéken."
+        ],
+        "ro": [
+          "Verificați programul de vizitare al Castelului Holstenshuus, deoarece accesul poate fi sezonier.",
+          "Parcarea în centrul orașului Faaborg este plătită.",
+          "Drumurile din Svanninge Bakker pot fi înguste, conduceți cu prudență.",
+          "Alimentați înainte de a părăsi orașul, deoarece benzinăriile sunt rare în zona rurală."
+        ],
+        "en": [
+          "Check opening times for Holstenshuus Castle as access can be seasonal.",
+          "Parking in Faaborg town centre is paid.",
+          "Roads in Svanninge Bakker can be narrow, drive with care.",
+          "Fill up on gas before leaving town as stations are sparse in the countryside."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bus nach Svanninge Bakker",
+            "hu": "Buszozás Svanninge Bakkerbe",
+            "ro": "Autobuz spre Svanninge Bakker",
+            "en": "Bus to Svanninge Bakker"
+          },
+          "coords": [
+            10.22,
+            55.13
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "09:40",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Regionalbus vom Busbahnhof Faaborg. Genießen Sie die Aussicht auf dem Weg.",
+            "hu": "Szálljon fel egy regionális buszra a faaborgi buszpályaudvaron. Élvezze a kilátást útközben.",
+            "ro": "Luați un autobuz regional de la autogara din Faaborg. Bucurați-vă de priveliști pe drum.",
+            "en": "Take a regional bus from Faaborg bus station. Enjoy the views on the way."
+          }
+        },
+        {
+          "name": {
+            "de": "Wanderung in den Hügeln",
+            "hu": "Túra a dombokon",
+            "ro": "Drumeție pe dealuri",
+            "en": "Hike in the Hills"
+          },
+          "coords": [
+            10.222,
+            55.132
+          ],
+          "category": "viewpoint",
+          "arrive_at": "11:40",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Folgen Sie einem der markierten Wege zu einem Aussichtspunkt.",
+            "hu": "Kövesse az egyik jelzett ösvényt egy kilátóponthoz.",
+            "ro": "Urmați una dintre potecile marcate până la un punct de belvedere.",
+            "en": "Follow one of the marked trails to a viewpoint."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zurück nach Faaborg Zentrum",
+            "hu": "Busz vissza Faaborg központjába",
+            "ro": "Autobuz înapoi în centrul Faaborg",
+            "en": "Bus back to Faaborg Centre"
+          },
+          "coords": [
+            10.24,
+            55.095
+          ],
+          "category": "transport",
+          "arrive_at": "12:50",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Steigen Sie in der Nähe des Hafens aus, um Ihr Stadtabenteuer zu beginnen.",
+            "hu": "Szálljon le a kikötő közelében, hogy megkezdje városi kalandját.",
+            "ro": "Coborâți lângă port pentru a începe aventura urbană.",
+            "en": "Get off near the harbour to start your town adventure."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang: Altstadt & Glockenturm",
+            "hu": "Séta: Óváros és Harangtorony",
+            "ro": "Plimbare: Orașul Vechi și Turnul cu Clopote",
+            "en": "Walk: Old Town & Clock Tower"
+          },
+          "coords": [
+            10.243,
+            55.0965
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Gegend um den Glockenturm und essen Sie in einem lokalen Café zu Mittag.",
+            "hu": "Fedezze fel a Harangtorony környékét, és ebédeljen egy helyi kávézóban.",
+            "ro": "Explorați zona din jurul Turnului cu Clopote și luați prânzul la o cafenea locală.",
+            "en": "Explore the area around the Clock Tower and have lunch at a local cafe."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zum Faaborg Museum",
+            "hu": "Séta a Faaborg Múzeumhoz",
+            "ro": "Plimbare la Muzeul Faaborg",
+            "en": "Walk to Faaborg Museum"
+          },
+          "coords": [
+            10.247,
+            55.0935
+          ],
+          "category": "museums",
+          "arrive_at": "14:20",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kultureller Leckerbissen am Nachmittag, um die Kunst der Region zu bewundern.",
+            "hu": "Délutáni kulturális csemege a régió művészetének megcsodálására.",
+            "ro": "Un deliciu cultural de după-amiază pentru a admira arta regiunii.",
+            "en": "An afternoon cultural treat to admire the region's art."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zum Faaborg Havnebad",
+            "hu": "Séta a Faaborg Tengeri Fürdőhöz",
+            "ro": "Plimbare la Baia Portuară Faaborg",
+            "en": "Walk to Faaborg Harbour Bath"
+          },
+          "coords": [
+            10.252,
+            55.091
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:07",
+          "stay_min": 58,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag entspannt am Wasser.",
+            "hu": "Zárja a napot pihenéssel a vízparton.",
+            "ro": "Încheiați ziua relaxându-vă la malul apei.",
+            "en": "End the day relaxing by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt mit einem Abenteuer, einer Busfahrt zu den sanften Hügeln von Svanninge Bakker für einen Hauch von Natur und einen Panoramablick. Der Vormittag ist dem Wandern und der Landschaft gewidmet. Zur Mittagszeit kehren Sie mit dem Bus ins Herz von Faaborg zurück. Den ganzen Nachmittag verbringen Sie damit, die kompakte, begehbare Innenstadt zu erkunden, vom historischen Glockenturm bis zu den künstlerischen Hallen des Faaborg Museums. Der Tag klingt sanft am preisgekrönten Hafenbad aus, ein Beweis dafür, wie einfach es ist, Natur und Kultur in Faaborg mit öffentlichen Verkehrsmitteln zu verbinden.",
+        "hu": "Tömegközlekedési napja egy kalanddal kezdődik: buszozással a Svanninge Bakker lankás dombjaihoz egy kis természetért és panorámáért. A délelőtt a túrázásé és a táj élvezetéé. Ebédidőre busszal tér vissza Faaborg szívébe. Az egész délutánt a kompakt, sétálható belváros felfedezésével tölti, a történelmi Harangtoronytól a Faaborg Múzeum művészeti csarnokaiig. A nap gyengéden zárul a díjnyertes tengeri fürdőnél, bizonyítva, milyen könnyű összekapcsolni a természetet és a kultúrát Faaborgban tömegközlekedéssel.",
+        "ro": "Ziua dvs. cu transportul public începe cu o aventură, o călătorie cu autobuzul spre dealurile domoale din Svanninge Bakker pentru o gură de natură și priveliști panoramice. Dimineața este dedicată drumețiilor și peisajului. La prânz, vă întoarceți cu autobuzul în inima orașului Faaborg. Întreaga după-amiază este petrecută explorând centrul compact și pietonal, de la istoricul Turn cu Clopote la sălile artistice ale Muzeului Faaborg. Ziua se încheie lin la premiata baie portuară, o dovadă a cât de ușor este să combini natura și cultura în Faaborg folosind transportul public.",
+        "en": "Your public transport day starts with an adventure, a bus ride to the rolling hills of Svanninge Bakker for a dose of nature and panoramic views. The morning is for hiking and scenery. By midday, you're back in the heart of Faaborg by bus. The entire afternoon is spent exploring the compact, walkable town centre, from the historic Clock Tower to the artistic halls of Faaborg Museum. The day gently concludes at the award-winning harbour bath, a testament to how easily you can blend nature and culture in Faaborg using public transit."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckereien (Bageri)",
+            "tip": "Holen Sie sich ein dänisches Gebäck oder ein Sandwich für ein schnelles und einfaches Mittagessen."
+          },
+          {
+            "name": "Pølser",
+            "tip": "Probieren Sie einen dänischen Hotdog von einem 'Pølsevogn' (Hotdog-Wagen)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékségek (Bageri)",
+            "tip": "Vegyen egy dán péksüteményt vagy szendvicset egy gyors és egyszerű ebédhez."
+          },
+          {
+            "name": "Pølser",
+            "tip": "Kóstoljon meg egy dán hot dogot egy 'Pølsevogn'-tól (hot dog árus)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutării (Bageri)",
+            "tip": "Luați un produs de patiserie danez sau un sandviș pentru un prânz rapid și ușor."
+          },
+          {
+            "name": "Pølser",
+            "tip": "Încercați un hotdog danez de la un 'Pølsevogn' (cărucior de hotdog)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakeries (Bageri)",
+            "tip": "Grab a Danish pastry or a sandwich for a quick and easy lunch."
+          },
+          {
+            "name": "Pølser",
+            "tip": "Try a Danish hot dog from a 'Pølsevogn' (hot dog cart)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt durch die Landschaft",
+            "tip": "Die Fahrt selbst ist eine Gelegenheit, die friedliche fünische Landschaft zu sehen.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Leseecke im Museum",
+            "tip": "Viele Museen haben ruhige Ecken, in denen man sitzen und nachdenken kann.",
+            "emoji": "🤫"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás a vidéken",
+            "tip": "Maga az utazás is egy lehetőség a békés fyni táj megtekintésére.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Olvasósarok a múzeumban",
+            "tip": "Sok múzeumban vannak csendes sarkok, ahol leülhet és elgondolkodhat.",
+            "emoji": "🤫"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătoria cu autobuzul prin peisajul rural",
+            "tip": "Călătoria în sine este o șansă de a vedea peisajul rural liniștit din Funen.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Colț de lectură în muzeu",
+            "tip": "Multe muzee au colțuri liniștite unde puteți sta și reflecta.",
+            "emoji": "🤫"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride through the countryside",
+            "tip": "The journey itself is a chance to see the peaceful Funen landscape.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Reading nook in the museum",
+            "tip": "Many museums have quiet corners where you can sit and reflect.",
+            "emoji": "🤫"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsshop",
+            "tip": "Der Faaborg Museumsshop bietet einzigartige Bücher, Drucke und Designartikel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Múzeumi bolt",
+            "tip": "A Faaborg Múzeum boltja egyedi könyveket, nyomatokat és dizájntárgyakat kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul muzeului",
+            "tip": "Magazinul Muzeului Faaborg are cărți unice, printuri și articole de design."
+          }
+        ],
+        "en": [
+          {
+            "name": "Museum Shop",
+            "tip": "The Faaborg Museum shop has unique books, prints, and design items."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, da die Busse auf dem Land selten fahren.",
+          "Kaufen Sie eine Tageskarte, wenn Sie vorhaben, mehrere Busfahrten zu unternehmen.",
+          "Laden Sie die Fahrpläne für den Offline-Zugriff herunter, da der Empfang lückenhaft sein kann.",
+          "Seien Sie pünktlich an der Bushaltestelle, besonders auf dem Rückweg aus ländlichen Gebieten."
+        ],
+        "hu": [
+          "Ellenőrizze előre a buszmenetrendet, mivel a vidéki járatok ritkán közlekednek.",
+          "Vásároljon napijegyet, ha több buszozást tervez.",
+          "Töltse le a menetrendeket offline hozzáféréshez, mivel a térerő foltos lehet.",
+          "Érkezzen időben a buszmegállóba, különösen a vidéki területekről visszafelé."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor în avans, deoarece serviciile rurale pot fi rare.",
+          "Cumpărați un bilet de o zi dacă intenționați să faceți mai multe călătorii cu autobuzul.",
+          "Descărcați orarele pentru acces offline, deoarece semnalul poate fi slab.",
+          "Fiți la stația de autobuz la timp, mai ales la întoarcerea din zonele rurale."
+        ],
+        "en": [
+          "Check the bus schedule in advance, as rural services can be infrequent.",
+          "Buy a day pass if you plan on taking multiple bus trips.",
+          "Download schedules for offline access as reception can be patchy.",
+          "Be at the bus stop on time, especially for the return trip from rural areas."
+        ]
+      }
+    }
+  }
+}

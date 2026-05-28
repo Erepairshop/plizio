@@ -1,0 +1,1340 @@
+{
+  "city_id": "poland-gliwice-cities-v2",
+  "anchor": {
+    "name": "Gleiwitz",
+    "coords": [
+      18.6714,
+      50.2945
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Főtér",
+            "ro": "Piața Centrală",
+            "en": "Market Square"
+          },
+          "coords": [
+            18.6714,
+            50.2945
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee in einem der vielen Cafés am Platz.",
+            "hu": "Indítsa a napot egy kávéval a tér egyik hangulatos kávézójában.",
+            "ro": "Începeți ziua cu o cafea la una dintre numeroasele cafenele din piață.",
+            "en": "Start your day with a coffee at one of the many cafes lining the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Brunnen mit drei Parzen",
+            "hu": "Három Párka szökőkútja",
+            "ro": "Fântâna cu cele trei Parce",
+            "en": "Fountain with Three Fates"
+          },
+          "coords": [
+            18.6718,
+            50.2947
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:40",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_4lang": {
+            "de": "Der Brunnen ist ein beliebter Fotopunkt. Beachten Sie die Details der Skulpturen.",
+            "hu": "A szökőkút népszerű fotóhelyszín. Figyelje meg a szobrok részleteit!",
+            "ro": "Fântâna este un loc popular pentru fotografii. Observați detaliile sculpturilor.",
+            "en": "The fountain is a popular photo spot. Take note of the detailed sculptures."
+          }
+        },
+        {
+          "name": {
+            "de": "Allerheiligenkirche",
+            "hu": "Mindenszentek-templom",
+            "ro": "Biserica Tuturor Sfinților",
+            "en": "All Saints' Church"
+          },
+          "coords": [
+            18.6675,
+            50.2955
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_4lang": {
+            "de": "Suchen Sie nach dem ältesten gotischen Teil der Kirche.",
+            "hu": "Keresse meg a templom legrégebbi, gótikus részét.",
+            "ro": "Căutați cea mai veche parte gotică a bisericii.",
+            "en": "Look for the oldest Gothic part of the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale St. Peter und Paul",
+            "hu": "Szent Péter és Pál-székesegyház",
+            "ro": "Catedrala Sf. Petru și Pavel",
+            "en": "Cathedral of St. Peter and Paul"
+          },
+          "coords": [
+            18.6745,
+            50.2905
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.1,
+          "tip_4lang": {
+            "de": "Steigen Sie auf den Turm, wenn es möglich ist, für eine tolle Aussicht.",
+            "hu": "Ha lehetséges, másszon fel a toronyba a nagyszerű kilátásért.",
+            "ro": "Dacă este posibil, urcați în turn pentru o priveliște minunată.",
+            "en": "Climb the tower if it's open for a great view of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Piastenschloss & Museum für Gießereikunst",
+            "hu": "Piast-kastély és Öntödei Múzeum",
+            "ro": "Castelul Piast & Muzeul Turnătoriei",
+            "en": "Piast Castle & Museum of Casting"
+          },
+          "coords": [
+            18.665,
+            50.2935
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:40",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.4,
+          "tip_4lang": {
+            "de": "Planen Sie genug Zeit für beide Attraktionen ein, sie sind im selben Komplex.",
+            "hu": "Tervezzen elég időt mindkét látnivalóra, mivel egy komplexumban vannak.",
+            "ro": "Planificați suficient timp pentru ambele atracții, sunt în același complex.",
+            "en": "Plan enough time for both attractions as they are in the same complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az Óvárosban",
+            "ro": "Prânz în Centrul Vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            18.67,
+            50.294
+          ],
+          "category": "gastro",
+          "arrive_at": "14:40",
+          "stay_min": 110,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Probieren Sie ein Restaurant, das schlesische Spezialitäten anbietet.",
+            "hu": "Kóstoljon meg egy sziléziai specialitásokat kínáló éttermet.",
+            "ro": "Încercați un restaurant care servește specialități sileziene.",
+            "en": "Try a restaurant serving Silesian specialities."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Gleiwitz beginnt am lebhaften Marktplatz, dem Herzen der Stadt. Am Vormittag erkunden Sie die historischen Kirchen, darunter die imposante Peter-und-Paul-Kathedrale, die die Skyline prägt. Jeder Schritt enthüllt ein Stück der reichen Geschichte Oberschlesiens.\nDer Mittag ist der Kultur gewidmet. Sie besuchen das Piastenschloss, einst Sitz von Herzögen, das heute auch das faszinierende Museum für Gießereikunst beherbergt. Hier tauchen Sie tief in die industrielle Vergangenheit der Region ein, bevor Sie sich in der Altstadt für ein schlesisches Mittagessen niederlassen.\nNach dem Essen schlendern Sie gemütlich durch die Gassen und lassen die Atmosphäre auf sich wirken. Dieser Rundgang konzentriert sich auf das historische Zentrum und bietet eine wunderbare Mischung aus sakraler Architektur und industrieller Geschichte.\nDer späte Nachmittag klingt bei einem Getränk auf dem Marktplatz aus. Sie haben das kompakte Zentrum von Gleiwitz intensiv erlebt und seine wichtigsten Sehenswürdigkeiten zu Fuß entdeckt, ein perfekter Einblick in eine Stadt voller Kontraste.",
+        "hu": "Gliwicei napja a város szívében, a nyüzsgő Főtéren kezdődik. A délelőtt folyamán felfedezi a történelmi templomokat, köztük a látképet meghatározó, impozáns Szent Péter és Pál-székesegyházat. Minden lépés Felső-Szilézia gazdag történelmének egy darabkáját tárja fel.\nA dél a kultúráé. Ellátogat a Piast-kastélyba, az egykori hercegi székhelyre, amely ma a lenyűgöző Öntödei Múzeumnak is otthont ad. Itt mélyen elmerülhet a régió ipari múltjában, mielőtt leülne egy sziléziai ebédre az Óvárosban.\nEbéd után kényelmesen sétálgathat a sikátorokban, és élvezheti a hangulatot. Ez a séta a történelmi központra összpontosít, és a szakrális építészet és az ipari történelem csodálatos keverékét kínálja.\nA késő délután egy itallal zárul a Főtéren. Intenzíven átélte Gliwice kompakt központját, és gyalog fedezte fel legfontosabb látnivalóit – tökéletes bepillantás egy kontrasztokkal teli városba.",
+        "ro": "Ziua dumneavoastră în Gliwice începe în vibranta Piață a Pieței, inima orașului. În timpul dimineții, veți explora bisericile istorice, inclusiv impunătoarea Catedrală Sf. Petru și Pavel, care domină orizontul. Fiecare pas dezvăluie o bucată din istoria bogată a Sileziei Superioare.\nMiaza este dedicată culturii. Vizitați Castelul Piast, odinioară reședința ducilor, care astăzi găzduiește și fascinantul Muzeu al Turnătoriei. Aici vă veți cufunda adânc în trecutul industrial al regiunii înainte de a vă așeza pentru un prânz silezian în Centrul Vechi.\nDupă masă, vă plimbați agale pe alei, absorbind atmosfera. Acest tur pietonal se concentrează pe centrul istoric, oferind un amestec minunat de arhitectură sacră și istorie industrială.\nSfârșitul după-amiezii se încheie cu o băutură în Piața Centrală. Ați experimentat intens centrul compact al Gliwice și ați descoperit principalele sale atracții pe jos, o introducere perfectă într-un oraș plin de contraste.",
+        "en": "Your day in Gliwice begins at the vibrant Market Square, the heart of the city. In the morning, you'll explore the historic churches, including the imposing Cathedral of St. Peter and Paul that defines the skyline. Every step reveals a piece of Upper Silesia's rich history.\nMidday is dedicated to culture. You'll visit the Piast Castle, once the seat of dukes, which now also houses the fascinating Museum of Casting. Here, you'll delve deep into the region's industrial past before settling down for a Silesian lunch in the Old Town.\nAfter lunch, you'll stroll leisurely through the alleys, soaking up the atmosphere. This walking tour focuses on the historic center, offering a wonderful mix of sacred architecture and industrial history.\nThe late afternoon concludes with a drink in the Market Square. You've intensely experienced the compact center of Gliwice and discovered its most important sights on foot, a perfect insight into a city full of contrasts."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rolada śląska (Schlesische Roulade)",
+            "tip": "Ein herzhaftes Fleischgericht, oft mit Klößen und Rotkohl serviert."
+          },
+          {
+            "name": "Żurek śląski",
+            "tip": "Eine saure Roggenmehlsuppe, typisch für die Region."
+          },
+          {
+            "name": "Moczka",
+            "tip": "Ein traditionelles süßes Dessert, besonders zur Weihnachtszeit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rolada śląska (Sziléziai rolád)",
+            "tip": "Kiadós húsétel, gyakran gombóccal és vöröskáposztával tálalva."
+          },
+          {
+            "name": "Żurek śląski",
+            "tip": "Savanyú rozslisztleves, a régió jellegzetessége."
+          },
+          {
+            "name": "Moczka",
+            "tip": "Hagyományos édes desszert, különösen karácsonykor népszerű."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rolada śląska (Ruladă sileziană)",
+            "tip": "Un fel de mâncare consistent din carne, adesea servit cu găluște și varză roșie."
+          },
+          {
+            "name": "Żurek śląski",
+            "tip": "O supă acră de secară, tipică regiunii."
+          },
+          {
+            "name": "Moczka",
+            "tip": "Un desert dulce tradițional, popular mai ales în perioada Crăciunului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rolada śląska (Silesian roulade)",
+            "tip": "A hearty meat dish, often served with dumplings and red cabbage."
+          },
+          {
+            "name": "Żurek śląski",
+            "tip": "A sour rye flour soup, typical for the region."
+          },
+          {
+            "name": "Moczka",
+            "tip": "A traditional sweet dessert, especially popular at Christmas."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang entlang der Kłodnica",
+            "tip": "Ein ruhiger Weg entlang des Flusses, nahe dem Piastenschloss.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Seitenstraßen der Altstadt",
+            "tip": "Verlassen Sie die Hauptrouten und entdecken Sie ruhige, charmante Gassen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Kłodnica folyó mentén",
+            "tip": "Csendes sétaút a folyó partján, a Piast-kastély közelében.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Az Óváros mellékutcái",
+            "tip": "Hagyja el a fő útvonalakat, és fedezzen fel csendes, bájos sikátorokat.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare de-a lungul râului Kłodnica",
+            "tip": "O potecă liniștită de-a lungul râului, lângă Castelul Piast.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Străduțele laterale din Centrul Vechi",
+            "tip": "Părăsiți rutele principale și descoperiți alei liniștite și fermecătoare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along the Kłodnica River",
+            "tip": "A quiet path along the river, near the Piast Castle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Old Town side streets",
+            "tip": "Leave the main routes and discover quiet, charming alleys.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs am Marktplatz",
+            "tip": "Kleine Läden rund um den Platz bieten lokale Andenken."
+          },
+          {
+            "name": "Lokale Keramik",
+            "tip": "Halten Sie Ausschau nach handgefertigter schlesischer Keramik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "SzOUvenírek a Főtéren",
+            "tip": "A tér körüli kis boltok helyi emléktárgyakat kínálnak."
+          },
+          {
+            "name": "Helyi kerámia",
+            "tip": "Keresse a kézzel készített sziléziai kerámiákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri în Piața Centrală",
+            "tip": "Micile magazine din jurul pieței oferă suveniruri locale."
+          },
+          {
+            "name": "Ceramică locală",
+            "tip": "Căutați ceramică sileziană lucrată manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenirs at the Market Square",
+            "tip": "Small shops around the square offer local mementos."
+          },
+          {
+            "name": "Local Pottery",
+            "tip": "Look out for handmade Silesian pottery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster ermüdend sein kann.",
+          "Prüfen Sie die Öffnungszeiten der Kirchen, da sie für Gottesdienste geschlossen sein können.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakő fárasztó lehet.",
+          "Ellenőrizze a templomok nyitvatartási idejét, mivel istentiszteletek alatt zárva lehetnek.",
+          "A központ legtöbb látnivalója könnyen megközelíthető gyalog."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece pavajul poate fi obositor.",
+          "Verificați orele de deschidere ale bisericilor, deoarece pot fi închise pentru slujbe.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones can be tiring.",
+          "Check the opening hours of the churches as they may be closed for services.",
+          "Most sights in the center are within easy walking distance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 9.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Főtér",
+            "ro": "Piața Centrală",
+            "en": "Market Square"
+          },
+          "coords": [
+            18.6714,
+            50.2945
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie den Platz erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt felfedezné a teret.",
+            "ro": "Asigurați-vă bicicleta înainte de a explora piața.",
+            "en": "Securely lock your bike before exploring the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Piastenschloss & Museum für Gießereikunst",
+            "hu": "Piast-kastély és Öntödei Múzeum",
+            "ro": "Castelul Piast & Muzeul Turnătoriei",
+            "en": "Piast Castle & Museum of Casting"
+          },
+          "coords": [
+            18.665,
+            50.2935
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:40",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Der Komplex ist groß, planen Sie Ihre Zeit gut.",
+            "hu": "A komplexum nagy, tervezze meg jól az idejét.",
+            "ro": "Complexul este mare, planificați-vă bine timpul.",
+            "en": "The complex is large, so plan your time well."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale St. Peter und Paul",
+            "hu": "Szent Péter és Pál-székesegyház",
+            "ro": "Catedrala Sf. Petru și Pavel",
+            "en": "Cathedral of St. Peter and Paul"
+          },
+          "coords": [
+            18.6745,
+            50.2905
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:30",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Ein beeindruckendes neugotisches Gebäude. Nehmen Sie sich Zeit für die Details.",
+            "hu": "Lenyűgöző neogótikus épület. Szánjon időt a részletekre.",
+            "ro": "O clădire neogotică impresionantă. Acordați-vă timp pentru detalii.",
+            "en": "An impressive neo-Gothic building. Take time for the details."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            18.678,
+            50.289
+          ],
+          "category": "gastro",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Suchen Sie ein Restaurant auf dem Weg zum Palmenhaus.",
+            "hu": "Keressen egy éttermet a Pálmaház felé vezető úton.",
+            "ro": "Căutați un restaurant pe drumul spre Palmenhaus.",
+            "en": "Find a restaurant on the way to the Palm House."
+          }
+        },
+        {
+          "name": {
+            "de": "Palmenhaus",
+            "hu": "Pálmaház",
+            "ro": "Sera de palmieri",
+            "en": "Palm House"
+          },
+          "coords": [
+            18.683,
+            50.287
+          ],
+          "category": "natural features",
+          "arrive_at": "14:05",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_4lang": {
+            "de": "Eine tropische Oase mitten in der Stadt. Perfekt für eine Pause.",
+            "hu": "Trópusi oázis a város közepén. Tökéletes egy kis szünetre.",
+            "ro": "O oază tropicală în mijlocul orașului. Perfect pentru o pauză.",
+            "en": "A tropical oasis in the middle of the city. Perfect for a break."
+          }
+        },
+        {
+          "name": {
+            "de": "Radiostation Gliwice",
+            "hu": "Gliwicei rádióállomás",
+            "ro": "Stația Radio Gliwice",
+            "en": "Gliwice Radio Station"
+          },
+          "coords": [
+            18.6888,
+            50.3142
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:45",
+          "stay_min": 70,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_4lang": {
+            "de": "Ein historisch bedeutsamer Ort mit einem beeindruckenden Holzturm.",
+            "hu": "Történelmileg jelentős hely, lenyűgöző fatoronnyal.",
+            "ro": "Un loc important din punct de vedere istoric, cu un turn de lemn impresionant.",
+            "en": "A historically significant site with an impressive wooden tower."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour durch Gleiwitz startet am Marktplatz. Von hier aus radeln Sie zum Piastenschloss und dem darin untergebrachten Museum. Am Vormittag erkunden Sie die industrielle und herzogliche Geschichte, bevor Sie zur prächtigen Peter-und-Paul-Kathedrale weiterradeln.\nNach der Besichtigung der Kathedrale ist es Zeit für das Mittagessen. Anschließend führt Sie Ihre Route aus dem Zentrum heraus zum städtischen Palmenhaus, einer exotischen Oase, die zum Entspannen einlädt. Der Kontrast zwischen städtischer Architektur und tropischer Natur ist faszinierend.\nDer Höhepunkt des Nachmittags ist die Fahrt zur berühmten Radiostation Gleiwitz. Der Holzturm ist nicht nur ein technisches Wunderwerk, sondern auch ein Ort von welthistorischer Bedeutung. Die Radtour ermöglicht es Ihnen, diesen weiter entfernten Ort bequem zu erreichen.\nAm Ende des Tages kehren Sie ins Stadtzentrum zurück. Mit dem Fahrrad haben Sie sowohl die zentralen Highlights als auch die weiter entfernten, aber ebenso wichtigen Sehenswürdigkeiten wie das Palmenhaus und die Radiostation mühelos erkundet.",
+        "hu": "Gliwicei kerékpártúrája a Főtéren kezdődik. Innen a Piast-kastélyhoz és a benne található múzeumhoz teker. A délelőtt folyamán felfedezi az ipari és hercegi történelmet, mielőtt továbbhaladna a csodálatos Szent Péter és Pál-székesegyházhoz.\nA székesegyház megtekintése után ideje ebédelni. Ezután az útvonal a központból a városi Pálmaházhoz vezet, egy egzotikus oázishoz, amely pihenésre csábít. A városi építészet és a trópusi természet kontrasztja lenyűgöző.\nA délután fénypontja a híres Gliwicei rádióállomáshoz vezető út. A fatorony nemcsak műszaki csoda, hanem világtörténelmi jelentőségű hely is. A kerékpártúra lehetővé teszi, hogy kényelmesen elérje ezt a távolabbi helyszínt.\nA nap végén visszatér a városközpontba. Kerékpárral könnyedén felfedezte mind a központi nevezetességeket, mind a távolabbi, de ugyanolyan fontos látnivalókat, mint a Pálmaház és a rádióállomás.",
+        "ro": "Turul dumneavoastră cu bicicleta prin Gliwice începe în Piața Centrală. De aici, pedalați spre Castelul Piast și muzeul găzduit în interior. În timpul dimineții, explorați istoria industrială și ducală înainte de a continua spre magnifica Catedrală Sf. Petru și Pavel.\nDupă vizitarea catedralei, este timpul pentru prânz. Apoi, traseul vă duce în afara centrului, la Sera de palmieri a orașului, o oază exotică care vă invită la relaxare. Contrastul dintre arhitectura urbană și natura tropicală este fascinant.\nPunctul culminant al după-amiezii este drumul spre faimoasa Stație Radio Gliwice. Turnul de lemn nu este doar o minune tehnică, ci și un loc de importanță istorică mondială. Turul cu bicicleta vă permite să ajungeți confortabil la acest loc mai îndepărtat.\nLa sfârșitul zilei, vă întoarceți în centrul orașului. Cu bicicleta, ați explorat fără efort atât atracțiile centrale, cât și obiectivele mai îndepărtate, dar la fel de importante, precum Sera de palmieri și Stația Radio.",
+        "en": "Your bike tour of Gliwice starts at the Market Square. From here, you'll cycle to the Piast Castle and its museum. In the morning, you explore the industrial and ducal history before continuing to the magnificent Cathedral of St. Peter and Paul.\nAfter visiting the cathedral, it's time for lunch. Your route then takes you out of the center to the city's Palm House, an exotic oasis perfect for relaxation. The contrast between urban architecture and tropical nature is fascinating.\nThe highlight of the afternoon is the ride to the famous Gliwice Radio Station. The wooden tower is not just a technical marvel but also a site of world-historical importance. The bike tour allows you to comfortably reach this more distant location.\nAt the end of the day, you return to the city center. By bike, you've effortlessly explored both the central highlights and the more distant but equally important sights like the Palm House and the Radio Station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rolada śląska (Schlesische Roulade)",
+            "tip": "Ein herzhaftes Fleischgericht, oft mit Klößen und Rotkohl serviert."
+          },
+          {
+            "name": "Żurek śląski",
+            "tip": "Eine saure Roggenmehlsuppe, typisch für die Region."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Gefüllte Teigtaschen, ein polnischer Klassiker."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rolada śląska (Sziléziai rolád)",
+            "tip": "Kiadós húsétel, gyakran gombóccal és vöröskáposztával tálalva."
+          },
+          {
+            "name": "Żurek śląski",
+            "tip": "Savanyú rozslisztleves, a régió jellegzetessége."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Töltött tésztabatyu, egy lengyel klasszikus."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rolada śląska (Ruladă sileziană)",
+            "tip": "Un fel de mâncare consistent din carne, adesea servit cu găluște și varză roșie."
+          },
+          {
+            "name": "Żurek śląski",
+            "tip": "O supă acră de secară, tipică regiunii."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Găluște umplute, un clasic polonez."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rolada śląska (Silesian roulade)",
+            "tip": "A hearty meat dish, often served with dumplings and red cabbage."
+          },
+          {
+            "name": "Żurek śląski",
+            "tip": "A sour rye flour soup, typical for the region."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Filled dumplings, a Polish classic."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Chopin-Park",
+            "tip": "In der Nähe des Palmenhauses, ein schöner Ort für eine ruhige Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Umgebung der Radiostation",
+            "tip": "Das Gelände um den Turm ist weitläufig und ruhig.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chopin Park",
+            "tip": "A Pálmaház közelében található, szép hely egy csendes pihenőre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A rádióállomás környéke",
+            "tip": "A torony körüli terület tágas és csendes.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Chopin",
+            "tip": "Aproape de Sera de palmieri, un loc frumos pentru o pauză liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Împrejurimile Stației Radio",
+            "tip": "Zona din jurul turnului este spațioasă și liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Chopin Park",
+            "tip": "Near the Palm House, a beautiful spot for a quiet break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Radio Station surroundings",
+            "tip": "The area around the tower is spacious and quiet.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Produkte in der Altstadt",
+            "tip": "Kleine Läden bieten Handwerk und Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termékek az Óvárosban",
+            "tip": "Kis boltok kézműves termékeket és különlegességeket kínálnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse locale în Centrul Vechi",
+            "tip": "Micile magazine oferă produse de artizanat și specialități."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local products in the Old Town",
+            "tip": "Small shops offer crafts and specialities."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie Radwege, wo immer es möglich ist.",
+          "Einige Straßen in der Altstadt haben Kopfsteinpflaster, fahren Sie vorsichtig.",
+          "Planen Sie genügend Zeit für die Fahrt zur Radiostation ein."
+        ],
+        "hu": [
+          "Használja a kerékpárutakat, ahol csak lehetséges.",
+          "Néhány óvárosi utca macskaköves, vezessen óvatosan.",
+          "Tervezzen elegendő időt a rádióállomáshoz vezető útra."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete ori de câte ori este posibil.",
+          "Unele străzi din Centrul Vechi au pavaj, conduceți cu atenție.",
+          "Planificați suficient timp pentru drumul până la Stația Radio."
+        ],
+        "en": [
+          "Use bike paths wherever possible.",
+          "Some streets in the Old Town have cobblestones, ride carefully.",
+          "Allow enough time for the ride to the Radio Station."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz an der Radiostation Gliwice",
+            "hu": "Parkoló a Gliwicei rádióállomásnál",
+            "ro": "Parcare la Stația Radio Gliwice",
+            "en": "Parking at Gliwice Radio Station"
+          },
+          "coords": [
+            18.6885,
+            50.314
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Beginnen Sie am weitesten entfernten Punkt und arbeiten Sie sich ins Zentrum vor.",
+            "hu": "Kezdje a legtávolabbi ponton, és haladjon a központ felé.",
+            "ro": "Începeți de la cel mai îndepărtat punct și înaintați spre centru.",
+            "en": "Start at the furthest point and work your way into the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Radiostation Gliwice",
+            "hu": "Gliwicei rádióállomás",
+            "ro": "Stația Radio Gliwice",
+            "en": "Gliwice Radio Station"
+          },
+          "coords": [
+            18.6888,
+            50.3142
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_4lang": {
+            "de": "Der Holzturm ist der höchste seiner Art in der Welt.",
+            "hu": "A fatorony a legmagasabb a maga nemében a világon.",
+            "ro": "Turnul de lemn este cel mai înalt de acest fel din lume.",
+            "en": "The wooden tower is the tallest of its kind in the world."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz am Palmenhaus",
+            "hu": "Parkoló a Pálmaháznál",
+            "ro": "Parcare la Sera de palmieri",
+            "en": "Parking at the Palm House"
+          },
+          "coords": [
+            18.6825,
+            50.2865
+          ],
+          "category": "transport",
+          "arrive_at": "10:40",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.5,
+          "tip_4lang": {
+            "de": "Der nächste große Stopp ist die grüne Lunge der Stadt.",
+            "hu": "A következő nagy megálló a város zöld tüdeje.",
+            "ro": "Următoarea oprire majoră este plămânul verde al orașului.",
+            "en": "The next major stop is the city's green lung."
+          }
+        },
+        {
+          "name": {
+            "de": "Palmenhaus",
+            "hu": "Pálmaház",
+            "ro": "Sera de palmieri",
+            "en": "Palm House"
+          },
+          "coords": [
+            18.683,
+            50.287
+          ],
+          "category": "natural features",
+          "arrive_at": "10:40",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_4lang": {
+            "de": "Entfliehen Sie in die Tropen, unabhängig vom Wetter draußen.",
+            "hu": "Meneküljön a trópusokra, függetlenül a kinti időjárástól.",
+            "ro": "Evadați în tropice, indiferent de vremea de afară.",
+            "en": "Escape to the tropics, regardless of the weather outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkhaus Altstadt & Marktplatz",
+            "hu": "Parkolóház az Óvárosban és Főtér",
+            "ro": "Parcare în Centrul Vechi & Piața Centrală",
+            "en": "Old Town Parking & Market Square"
+          },
+          "coords": [
+            18.67,
+            50.292
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:15",
+          "stay_min": 30,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.5,
+          "tip_4lang": {
+            "de": "Parken Sie hier für den Rest des Tages und erkunden Sie das Zentrum zu Fuß.",
+            "hu": "Parkoljon itt a nap hátralévő részére, és fedezze fel a központot gyalog.",
+            "ro": "Parcați aici pentru restul zilei și explorați centrul pe jos.",
+            "en": "Park here for the rest of the day and explore the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Piastenschloss & Museum",
+            "hu": "Piast-kastély és Múzeum",
+            "ro": "Castelul Piast & Muzeu",
+            "en": "Piast Castle & Museum"
+          },
+          "coords": [
+            18.665,
+            50.2935
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:50",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Beginnen Sie Ihren Rundgang im westlichen Teil der Altstadt.",
+            "hu": "Kezdje a sétát az Óváros nyugati részén.",
+            "ro": "Începeți turul pietonal în partea de vest a Centrului Vechi.",
+            "en": "Start your walking tour in the western part of the Old Town."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale und Mittagessen",
+            "hu": "Székesegyház és ebéd",
+            "ro": "Catedrala și prânzul",
+            "en": "Cathedral and Lunch"
+          },
+          "coords": [
+            18.6745,
+            50.2905
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:00",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.9,
+          "tip_4lang": {
+            "de": "Nach der Besichtigung der Kathedrale finden Sie in der Nähe viele gute Restaurants.",
+            "hu": "A székesegyház megtekintése után a közelben számos jó éttermet talál.",
+            "ro": "După vizitarea catedralei, veți găsi multe restaurante bune în apropiere.",
+            "en": "After visiting the cathedral, you'll find many good restaurants nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto beginnen Sie Ihre Tour am weitesten entfernten Punkt: der historischen Radiostation Gleiwitz. Nach der Erkundung dieses geschichtsträchtigen Ortes fahren Sie zum nächsten Cluster, dem Palmenhaus, für eine Dosis tropischer Natur. Diese Strategie minimiert die Fahrzeit und maximiert das Erlebnis.\nDer zweite Teil des Tages findet im Herzen von Gleiwitz statt. Sie parken Ihr Auto in einem zentralen Parkhaus und erkunden von dort aus alles zu Fuß. Der Spaziergang führt Sie vom Marktplatz zum Piastenschloss und dem Gießereimuseum – ein Spaziergang durch Jahrhunderte der Geschichte.\nNach dem Museumsbesuch schlendern Sie weiter zur imposanten Peter-und-Paul-Kathedrale. In der Umgebung der Kathedrale nehmen Sie sich Zeit für ein spätes Mittagessen und genießen die schlesische Küche.\nDer Tag endet mit einem entspannten Bummel zurück zum Parkhaus. Dank der Cluster-Strategie haben Sie die Top-Sehenswürdigkeiten von Gleiwitz effizient besucht, lange Parkplatzsuchen vermieden und die Altstadt intensiv zu Fuß erlebt.",
+        "hu": "Autóval a legtávolabbi ponton kezdi a túrát: a történelmi Gliwicei rádióállomásnál. A történelmi helyszín felfedezése után a következő klaszterhez, a Pálmaházhoz hajt, hogy egy adag trópusi természetet szívjon magába. Ez a stratégia minimalizálja a vezetési időt és maximalizálja az élményt.\nA nap második része Gliwice szívében zajlik. Leállítja autóját egy központi parkolóházban, és onnan gyalogosan fedezi fel a környéket. A séta a Főtértől a Piast-kastélyig és az Öntödei Múzeumig vezet – egy séta az évszázadok történelmén keresztül.\nA múzeumlátogatás után továbbsétál az impozáns Szent Péter és Pál-székesegyházhoz. A székesegyház környékén időt szán egy késői ebédre, és élvezi a sziléziai konyhát.\nA nap egy laza sétával zárul vissza a parkolóházhoz. A klaszter-stratégiának köszönhetően hatékonyan látogatta meg Gliwice legfontosabb nevezetességeit, elkerülte a hosszú parkolóhely-keresést, és intenzíven, gyalogosan élte át az Óvárost.",
+        "ro": "Cu mașina, începeți turul de la cel mai îndepărtat punct: istorica Stație Radio Gliwice. După explorarea acestui loc încărcat de istorie, conduceți spre următorul cluster, Sera de palmieri, pentru o doză de natură tropicală. Această strategie minimizează timpul de condus și maximizează experiența.\nA doua parte a zilei are loc în inima orașului Gliwice. Parcați mașina într-o parcare centrală și de acolo explorați totul pe jos. Plimbarea vă duce de la Piața Centrală la Castelul Piast și Muzeul Turnătoriei - o plimbare prin secole de istorie.\nDupă vizita la muzeu, vă plimbați mai departe spre impunătoarea Catedrală Sf. Petru și Pavel. În zona catedralei, vă luați timp pentru un prânz târziu și vă bucurați de bucătăria sileziană.\nZiua se încheie cu o plimbare relaxată înapoi la parcare. Datorită strategiei pe clustere, ați vizitat eficient principalele atracții din Gliwice, ați evitat căutările lungi de locuri de parcare și ați experimentat intens Centrul Vechi pe jos.",
+        "en": "By car, you start your tour at the furthest point: the historic Gliwice Radio Station. After exploring this history-laden site, you drive to the next cluster, the Palm House, for a dose of tropical nature. This strategy minimizes driving time and maximizes the experience.\nThe second part of the day takes place in the heart of Gliwice. You park your car in a central parking garage and explore everything on foot from there. The walk takes you from the Market Square to the Piast Castle and the Museum of Casting—a walk through centuries of history.\nAfter the museum visit, you stroll further to the imposing Cathedral of St. Peter and Paul. In the vicinity of the cathedral, you take time for a late lunch and enjoy Silesian cuisine.\nThe day ends with a relaxed stroll back to the parking garage. Thanks to the cluster strategy, you have efficiently visited Gliwice's top sights, avoided long searches for parking, and intensely experienced the Old Town on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restauracja Śląska",
+            "tip": "Bekannt für authentische schlesische Gerichte in traditionellem Ambiente."
+          },
+          {
+            "name": "Kluski śląskie",
+            "tip": "Schlesische Kartoffelklöße, eine klassische Beilage."
+          },
+          {
+            "name": "Szpajza",
+            "tip": "Ein leichtes Zitronen-Dessert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restauracja Śląska",
+            "tip": "Híres az autentikus sziléziai ételeiről, hagyományos környezetben."
+          },
+          {
+            "name": "Kluski śląskie",
+            "tip": "Sziléziai burgonyagombóc, klasszikus köret."
+          },
+          {
+            "name": "Szpajza",
+            "tip": "Könnyű citromos desszert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restauracja Śląska",
+            "tip": "Renumit pentru mâncărurile autentice sileziene într-un cadru tradițional."
+          },
+          {
+            "name": "Kluski śląskie",
+            "tip": "Găluște de cartofi sileziene, o garnitură clasică."
+          },
+          {
+            "name": "Szpajza",
+            "tip": "Un desert ușor cu lămâie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restauracja Śląska",
+            "tip": "Known for authentic Silesian dishes in a traditional setting."
+          },
+          {
+            "name": "Kluski śląskie",
+            "tip": "Silesian potato dumplings, a classic side dish."
+          },
+          {
+            "name": "Szpajza",
+            "tip": "A light lemon dessert."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Chopin-Park",
+            "tip": "Eine ruhige Oase neben dem Palmenhaus, ideal für eine Pause zwischen den Autofahrten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhof an der Allerheiligenkirche",
+            "tip": "Ein stiller, historischer Ort in der Nähe des Zentrums.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chopin Park",
+            "tip": "Csendes oázis a Pálmaház mellett, ideális pihenőhely az autós utak között.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Mindenszentek-templom melletti temető",
+            "tip": "Csendes, történelmi hely a központ közelében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Chopin",
+            "tip": "O oază de liniște lângă Sera de palmieri, ideală pentru o pauză între drumuri.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul de la Biserica Tuturor Sfinților",
+            "tip": "Un loc liniștit, istoric, aproape de centru.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Chopin Park",
+            "tip": "A quiet oasis next to the Palm House, ideal for a break between drives.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cemetery at All Saints' Church",
+            "tip": "A quiet, historic place near the center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Forum Gliwice",
+            "tip": "Ein modernes Einkaufszentrum, falls Sie eine größere Auswahl suchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Forum Gliwice",
+            "tip": "Modern bevásárlóközpont, ha nagyobb választékot keres."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Forum Gliwice",
+            "tip": "Un centru comercial modern dacă sunteți în căutarea unei selecții mai largi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Forum Gliwice",
+            "tip": "A modern shopping center if you are looking for a wider selection."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Planen Sie Ihre Route im Voraus, um Verkehr zu vermeiden.",
+          "Nutzen Sie ausgewiesene Parkhäuser in der Innenstadt.",
+          "Achten Sie auf Parkzonen und eventuelle Gebühren."
+        ],
+        "hu": [
+          "Tervezze meg előre az útvonalat a forgalom elkerülése érdekében.",
+          "Használja a belvárosban kijelölt parkolóházakat.",
+          "Figyeljen a parkolási zónákra és az esetleges díjakra."
+        ],
+        "ro": [
+          "Planificați-vă traseul în avans pentru a evita traficul.",
+          "Folosiți parcările desemnate din centrul orașului.",
+          "Fiți atenți la zonele de parcare și la taxele posibile."
+        ],
+        "en": [
+          "Plan your route in advance to avoid traffic.",
+          "Use designated parking garages in the city center.",
+          "Pay attention to parking zones and any fees."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 9.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Marktplatz (Zentrum)",
+            "hu": "Érkezés a Főtérre (Központ)",
+            "ro": "Sosire în Piața Centrală (Centru)",
+            "en": "Arrival at Market Square (Center)"
+          },
+          "coords": [
+            18.6714,
+            50.2945
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Beginnen Sie Ihre Erkundung im Herzen der Stadt.",
+            "hu": "Kezdje a felfedezést a város szívében.",
+            "ro": "Începeți explorarea în inima orașului.",
+            "en": "Start your exploration in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Piastenschloss & Museum",
+            "hu": "Piast-kastély és Múzeum",
+            "ro": "Castelul Piast & Muzeu",
+            "en": "Piast Castle & Museum"
+          },
+          "coords": [
+            18.665,
+            50.2935
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:45",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Ein kurzer Spaziergang vom Marktplatz.",
+            "hu": "Rövid séta a Főtértől.",
+            "ro": "La o scurtă plimbare de Piața Centrală.",
+            "en": "A short walk from the Market Square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale St. Peter und Paul",
+            "hu": "Szent Péter és Pál-székesegyház",
+            "ro": "Catedrala Sf. Petru și Pavel",
+            "en": "Cathedral of St. Peter and Paul"
+          },
+          "coords": [
+            18.6745,
+            50.2905
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:35",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Bewundern Sie die neugotische Architektur.",
+            "hu": "Csodálja meg a neogótikus építészetet.",
+            "ro": "Admirați arhitectura neogotică.",
+            "en": "Admire the neo-Gothic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Palmenhaus",
+            "hu": "Utazás a Pálmaházhoz",
+            "ro": "Călătorie spre Sera de palmieri",
+            "en": "Trip to the Palm House"
+          },
+          "coords": [
+            18.6828,
+            50.2868
+          ],
+          "category": "transport",
+          "arrive_at": "13:00",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_4lang": {
+            "de": "Nehmen Sie einen Bus für den ersten Cluster-Wechsel.",
+            "hu": "Vegyen buszt az első klaszterváltáshoz.",
+            "ro": "Luați un autobuz pentru prima schimbare de cluster.",
+            "en": "Take a bus for the first cluster change."
+          }
+        },
+        {
+          "name": {
+            "de": "Palmenhaus & Mittagessen",
+            "hu": "Pálmaház és Ebéd",
+            "ro": "Sera de palmieri & Prânz",
+            "en": "Palm House & Lunch"
+          },
+          "coords": [
+            18.683,
+            50.287
+          ],
+          "category": "natural features",
+          "arrive_at": "13:00",
+          "stay_min": 110,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_4lang": {
+            "de": "In der Nähe des Palmenhauses gibt es Möglichkeiten zum Mittagessen.",
+            "hu": "A Pálmaház közelében van lehetőség ebédelni.",
+            "ro": "Există opțiuni de prânz în apropierea Serei de palmieri.",
+            "en": "There are lunch options near the Palm House."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Radiostation",
+            "hu": "Utazás a Rádióállomáshoz",
+            "ro": "Călătorie spre Stația Radio",
+            "en": "Trip to the Radio Station"
+          },
+          "coords": [
+            18.6885,
+            50.314
+          ],
+          "category": "transport",
+          "arrive_at": "15:20",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_4lang": {
+            "de": "Die letzte Etappe führt Sie zum historischen Sendeturm.",
+            "hu": "Az utolsó szakasz a történelmi adótoronyhoz vezet.",
+            "ro": "Ultima etapă vă duce la turnul de transmisie istoric.",
+            "en": "The final leg takes you to the historic transmission tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Radiostation Gliwice",
+            "hu": "Gliwicei rádióállomás",
+            "ro": "Stația Radio Gliwice",
+            "en": "Gliwice Radio Station"
+          },
+          "coords": [
+            18.6888,
+            50.3142
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:20",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Nehmen Sie sich Zeit, die Geschichte dieses Ortes auf sich wirken zu lassen.",
+            "hu": "Szánjon időt arra, hogy átérezze a hely történelmét.",
+            "ro": "Luați-vă timp pentru a absorbi istoria acestui loc.",
+            "en": "Take time to absorb the history of this place."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Tour mit öffentlichen Verkehrsmitteln startet im Zentrum von Gleiwitz. Der Vormittag ist ein Spaziergang durch den ersten Cluster: vom Marktplatz zum Piastenschloss und zur Kathedrale. Sie erleben die dichte Geschichte der Altstadt bequem zu Fuß.\nMittags nehmen Sie einen Bus zum zweiten Cluster: dem Palmenhaus. Nach der tropischen Auszeit und einem Mittagessen in der Nähe bringt Sie ein weiterer Bus zum dritten und letzten Cluster des Tages, der historischen Radiostation. Diese Sprünge zwischen den Clustern sind effizient und einfach.\nDer Nachmittag ist der Erkundung des berühmten Sendeturms und seiner Geschichte gewidmet. Der öffentliche Nahverkehr ermöglicht es, diese weiter entfernten, aber unverzichtbaren Sehenswürdigkeiten in den Tagesausflug zu integrieren.\nAm Ende des Tages haben Sie eine perfekte Mischung aus Spaziergängen und kurzen Busfahrten erlebt. Sie haben sowohl das historische Herz als auch die bedeutenden Außenposten von Gleiwitz gesehen, ohne sich um Parkplätze oder Verkehr kümmern zu müssen.",
+        "hu": "Tömegközlekedési túrája Gliwice központjából indul. A délelőtt egy séta az első klaszteren keresztül: a Főtértől a Piast-kastélyig és a székesegyházig. Kényelmesen, gyalogosan tapasztalhatja meg az Óváros sűrű történelmét.\nDélben busszal utazik a második klaszterhez: a Pálmaházhoz. A trópusi kikapcsolódás és egy közeli ebéd után egy másik busz viszi a nap harmadik és egyben utolsó klaszteréhez, a történelmi rádióállomáshoz. Ezek az ugrások a klaszterek között hatékonyak és egyszerűek.\nA délután a híres adótorony és történelmének felfedezésével telik. A tömegközlekedés lehetővé teszi, hogy ezeket a távolabbi, de kihagyhatatlan látnivalókat beillessze a napi kirándulásba.\nA nap végére a séták és a rövid buszutak tökéletes keverékét élhette át. Látta Gliwice történelmi szívét és jelentős külső helyszíneit is, anélkül, hogy a parkolás vagy a forgalom miatt kellett volna aggódnia.",
+        "ro": "Turul dumneavoastră cu transportul public începe în centrul orașului Gliwice. Dimineața este o plimbare prin primul cluster: de la Piața Centrală la Castelul Piast și la catedrală. Experimentați istoria densă a Centrului Vechi confortabil pe jos.\nLa prânz, luați un autobuz către al doilea cluster: Sera de palmieri. După o pauză tropicală și un prânz în apropiere, un alt autobuz vă duce la al treilea și ultimul cluster al zilei, istorica Stație Radio. Aceste salturi între clustere sunt eficiente și simple.\nDupă-amiaza este dedicată explorării faimosului turn de transmisie și a istoriei sale. Transportul public face posibilă integrarea acestor atracții mai îndepărtate, dar esențiale, în excursia de o zi.\nLa sfârșitul zilei, ați experimentat un amestec perfect de plimbări și scurte călătorii cu autobuzul. Ați văzut atât inima istorică, cât și avanposturile semnificative din Gliwice, fără a vă face griji pentru parcare sau trafic.",
+        "en": "Your public transport tour starts in the center of Gliwice. The morning is a walk through the first cluster: from the Market Square to the Piast Castle and the cathedral. You experience the dense history of the Old Town comfortably on foot.\nAt noon, you take a bus to the second cluster: the Palm House. After a tropical break and lunch nearby, another bus takes you to the third and final cluster of the day, the historic Radio Station. These jumps between clusters are efficient and simple.\nThe afternoon is dedicated to exploring the famous transmission tower and its history. Public transport makes it possible to integrate these more distant but essential sights into the day trip.\nBy the end of the day, you've experienced a perfect mix of walks and short bus rides. You've seen both the historic heart and the significant outposts of Gliwice without worrying about parking or traffic."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rolada śląska",
+            "tip": "Ein Muss in Schlesien."
+          },
+          {
+            "name": "Krupniok",
+            "tip": "Eine Art schlesische Blutwurst, für abenteuerlustige Esser."
+          },
+          {
+            "name": "Makówki",
+            "tip": "Ein traditionelles Mohn-Dessert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rolada śląska",
+            "tip": "Kötelező Sziléziában."
+          },
+          {
+            "name": "Krupniok",
+            "tip": "Egyfajta sziléziai véres hurka, a kalandvágyóknak."
+          },
+          {
+            "name": "Makówki",
+            "tip": "Hagyományos mákos desszert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rolada śląska",
+            "tip": "O necesitate în Silezia."
+          },
+          {
+            "name": "Krupniok",
+            "tip": "Un fel de cârnat de sânge silezian, pentru mâncătorii aventuroși."
+          },
+          {
+            "name": "Makówki",
+            "tip": "Un desert tradițional cu mac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rolada śląska",
+            "tip": "A must-try in Silesia."
+          },
+          {
+            "name": "Krupniok",
+            "tip": "A type of Silesian blood sausage, for adventurous eaters."
+          },
+          {
+            "name": "Makówki",
+            "tip": "A traditional poppy seed dessert."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Chopin-Park",
+            "tip": "Leicht mit dem Bus zu erreichen, eine ruhige Pause vor der nächsten Fahrt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer der Kłodnica",
+            "tip": "Ein friedlicher Spaziergang nach der Erkundung der Altstadt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chopin Park",
+            "tip": "Könnyen elérhető busszal, csendes pihenő a következő utazás előtt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Kłodnica partja",
+            "tip": "Békés séta az Óváros felfedezése után.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Chopin",
+            "tip": "Ușor de ajuns cu autobuzul, o pauză liniștită înainte de următoarea călătorie.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malurile râului Kłodnica",
+            "tip": "O plimbare pașnică după explorarea Centrului Vechi.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Chopin Park",
+            "tip": "Easily accessible by bus, a quiet break before the next ride.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the Kłodnica River",
+            "tip": "A peaceful walk after exploring the Old Town.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Märkte",
+            "tip": "Fragen Sie nach lokalen Märkten, die je nach Wochentag stattfinden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piacok",
+            "tip": "Érdeklődjön a helyi piacokról, amelyek a hét napjától függően működnek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe locale",
+            "tip": "Întrebați despre piețele locale, care au loc în funcție de ziua săptămânii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local markets",
+            "tip": "Ask about local markets, which take place depending on the day of the week."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr, um Geld zu sparen.",
+          "Laden Sie eine Nahverkehrs-App herunter, um Routen und Fahrpläne in Echtzeit zu sehen.",
+          "Beachten Sie, dass Busse am Wochenende seltener fahren könnten."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
+          "Töltsön le egy tömegközlekedési alkalmazást az útvonalak és menetrendek valós idejű megtekintéséhez.",
+          "Vegye figyelembe, hogy a buszok hétvégén ritkábban közlekedhetnek."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru a economisi bani.",
+          "Descărcați o aplicație de transport public pentru a vedea rutele și orarele în timp real.",
+          "Rețineți că autobuzele pot circula mai rar în weekend."
+        ],
+        "en": [
+          "Buy a day pass for public transport to save money.",
+          "Download a public transport app to see routes and schedules in real time.",
+          "Note that buses may run less frequently on weekends."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1164 @@
+{
+  "city_id": "poland-piotrkow-trybunalski-cities-v2",
+  "anchor": {
+    "name": "Piotrków Trybunalski",
+    "coords": [
+      19.7032,
+      51.4053
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 3.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt (Marktplatz)",
+            "hu": "Óváros (Piactér)",
+            "ro": "Centrul vechi (Piața Centrală)",
+            "en": "Old Town (Market Square)"
+          },
+          "coords": [
+            19.7001,
+            51.408
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die bunten Kaufmannshäuser und spüren Sie die Geschichte.",
+            "hu": "Csodálja meg a színes kereskedőházakat és érezze a történelem hangulatát.",
+            "ro": "Admirați casele negustorilor colorate și simțiți istoria locului.",
+            "en": "Admire the colorful merchant houses and feel the history of the place."
+          }
+        },
+        {
+          "name": {
+            "de": "Jakobsbasilika",
+            "hu": "Szent Jakab-bazilika",
+            "ro": "Bazilica Sf. Iacob",
+            "en": "St. James' Basilica"
+          },
+          "coords": [
+            19.7025,
+            51.4085
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Suchen Sie nach den gotischen Fresken im Inneren, die biblische Szenen darstellen.",
+            "hu": "Keresse meg a gótikus freskókat a belsejében, amelyek bibliai jeleneteket ábrázolnak.",
+            "ro": "Căutați frescele gotice din interior, care înfățișează scene biblice.",
+            "en": "Look for the Gothic frescoes inside depicting biblical scenes."
+          }
+        },
+        {
+          "name": {
+            "de": "Königsschloss und Stadtgeschichte-Museum",
+            "hu": "Királyi palota és Várostörténeti Múzeum",
+            "ro": "Castelul Regal și Muzeul de Istorie a Orașului",
+            "en": "Royal Castle and City History Museum"
+          },
+          "coords": [
+            19.6978,
+            51.4092
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der Sigismundturm bietet eine tolle Aussicht auf die Altstadt. Der Eintritt ist es wert.",
+            "hu": "A Zsigmond-toronyból nagyszerű kilátás nyílik az óvárosra. Megéri a belépőt.",
+            "ro": "Turnul lui Sigismund oferă o priveliște minunată asupra centrului vechi. Intrarea merită.",
+            "en": "The Sigismund Tower offers a great view of the Old Town. The entrance fee is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Große Synagoge",
+            "hu": "Nagy Zsinagóga",
+            "ro": "Marea Sinagogă",
+            "en": "Great Synagogue"
+          },
+          "coords": [
+            19.6955,
+            51.4066
+          ],
+          "category": "museums",
+          "arrive_at": "13:33",
+          "stay_min": 50,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Das Gebäude beherbergt heute eine Bibliothek, aber die Fassade ist beeindruckend.",
+            "hu": "Az épület ma könyvtárnak ad otthont, de a homlokzata lenyűgöző.",
+            "ro": "Clădirea găzduiește acum o bibliotecă, dar fațada este impresionantă.",
+            "en": "The building now houses a library, but the facade is impressive."
+          }
+        },
+        {
+          "name": {
+            "de": "Jesuitenkloster",
+            "hu": "Jezsuita kolostor",
+            "ro": "Mănăstirea Iezuită",
+            "en": "Jesuit Monastery"
+          },
+          "coords": [
+            19.7041,
+            51.4099
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:03",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Achten Sie auf die barocken Details der Kirche Unserer Lieben Frau.",
+            "hu": "Figyelje meg a Miasszonyunk-templom barokk részleteit.",
+            "ro": "Observați detaliile baroce ale Bisericii Maicii Domnului.",
+            "en": "Pay attention to the baroque details of the Church of Our Lady."
+          }
+        },
+        {
+          "name": {
+            "de": "Bernardinerkloster",
+            "hu": "Bernardin kolostor",
+            "ro": "Mănăstirea Bernardină",
+            "en": "Bernardine Monastery"
+          },
+          "coords": [
+            19.6899,
+            51.4095
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:02",
+          "stay_min": 35,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein Ort der Ruhe am Rande des historischen Zentrums.",
+            "hu": "A nyugalom szigete a történelmi központ szélén.",
+            "ro": "Un loc de liniște la marginea centrului istoric.",
+            "en": "A place of peace on the edge of the historic center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Piotrków Trybunalski beginnt auf dem historischen Marktplatz, umgeben von farbenfrohen Häusern. Von dort aus führt Sie ein kurzer Spaziergang zur gotischen Jakobsbasilika. Am Mittag erkunden Sie das Königsschloss, das heute ein faszinierendes Museum beherbergt und einen tiefen Einblick in die polnische Geschichte bietet. Der Nachmittag ist der ruhigeren Seite der Stadt gewidmet. Sie besuchen die Große Synagoge, ein Zeugnis der multikulturellen Vergangenheit, und schlendern zum Jesuiten- und Bernardinerkloster. Der Tag endet mit einem Spaziergang durch die abendlichen Gassen, erfüllt von den Eindrücken einer Stadt, in der an jeder Ecke Geschichte geschrieben wurde.",
+        "hu": "A nap Piotrków Trybunalskiban a történelmi piactéren kezdődik, színes házakkal körülvéve. Innen egy rövid séta vezet a gótikus Szent Jakab-bazilikához. Délben a királyi várat fedezi fel, amely ma egy lenyűgöző múzeumnak ad otthont, mély betekintést nyújtva Lengyelország történelmébe. A délután a város csendesebb oldalának van szentelve. Meglátogatja a Nagy Zsinagógát, a multikulturális múlt tanúját, majd elsétál a jezsuita és a bernardin kolostorokhoz. A nap egy esti sétával zárul az utcákon, tele egy olyan város benyomásaival, ahol minden sarkon történelmet írtak.",
+        "ro": "Ziua dvs. în Piotrków Trybunalski începe în piața istorică, înconjurată de case colorate. De acolo, o scurtă plimbare vă duce la Bazilica gotică Sf. Iacob. La prânz, explorați Castelul Regal, care găzduiește acum un muzeu fascinant, oferind o perspectivă profundă asupra istoriei Poloniei. După-amiaza este dedicată laturii mai liniștite a orașului. Vizitați Marea Sinagogă, o mărturie a trecutului multicultural, și vă plimbați spre mănăstirile iezuită și bernardină. Ziua se încheie cu o plimbare pe străduțele luminate de seară, plini de impresiile unui oraș unde istoria a fost scrisă la fiecare colț.",
+        "en": "Your day in Piotrków Trybunalski begins in the historic market square, surrounded by colorful houses. From there, a short walk takes you to the Gothic St. James' Basilica. At noon, you'll explore the Royal Castle, now housing a fascinating museum, offering deep insights into Polish history. The afternoon is dedicated to the quieter side of the city. You'll visit the Great Synagogue, a testament to the multicultural past, and stroll to the Jesuit and Bernardine monasteries. The day concludes with an evening walk through the streets, filled with the impressions of a city where history was written on every corner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pierogi Trybunalskie",
+            "tip": "Probieren Sie die traditionellen polnischen Teigtaschen mit verschiedenen Füllungen in einem der Restaurants am Marktplatz."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Eine saure Roggenmehlsuppe, oft mit Wurst und Ei serviert, perfekt für ein herzhaftes Mittagessen."
+          },
+          {
+            "name": "Restauracja „Poema”",
+            "tip": "Bekannt für seine elegante Interpretation der polnischen Küche in historischem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pierogi Trybunalskie",
+            "tip": "Kóstolja meg a hagyományos lengyel derelyét különféle töltelékekkel a piactéri éttermek egyikében."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Savanykás rozslisztes leves, gyakran kolbásszal és tojással tálalva, tökéletes egy kiadós ebédhez."
+          },
+          {
+            "name": "Restauracja „Poema”",
+            "tip": "A lengyel konyha elegáns értelmezéséről ismert, történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierogi Trybunalskie",
+            "tip": "Încercați găluștele tradiționale poloneze cu diverse umpluturi la unul dintre restaurantele din Piața Centrală."
+          },
+          {
+            "name": "Żurek",
+            "tip": "O supă acră de secară, adesea servită cu cârnați și ou, perfectă pentru un prânz consistent."
+          },
+          {
+            "name": "Restauracja „Poema”",
+            "tip": "Cunoscut pentru interpretarea sa elegantă a bucătăriei poloneze într-un cadru istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierogi Trybunalskie",
+            "tip": "Try the traditional Polish dumplings with various fillings at one of the restaurants in the Market Square."
+          },
+          {
+            "name": "Żurek",
+            "tip": "A sour rye flour soup, often served with sausage and egg, perfect for a hearty lunch."
+          },
+          {
+            "name": "Restauracja „Poema”",
+            "tip": "Known for its elegant interpretation of Polish cuisine in a historic setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hof des Bernardinerklosters",
+            "tip": "Ein friedlicher Ort, um dem Trubel der Stadt für einen Moment zu entfliehen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang entlang der alten Stadtmauern",
+            "tip": "Finden Sie die Überreste der alten Befestigungsanlagen für einen ruhigen Spaziergang.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Bernardin kolostor udvara",
+            "tip": "Békés hely, ahol egy pillanatra elmenekülhet a város nyüzsgésétől.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a régi városfalak mentén",
+            "tip": "Keresse meg a régi erődítmények maradványait egy csendes sétához.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea Mănăstirii Bernardine",
+            "tip": "Un loc pașnic pentru a scăpa de agitația orașului pentru un moment.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare de-a lungul vechilor ziduri ale orașului",
+            "tip": "Găsiți rămășițele vechilor fortificații pentru o plimbare liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Courtyard of the Bernardine Monastery",
+            "tip": "A peaceful spot to escape the hustle and bustle of the city for a moment.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk along the old city walls",
+            "tip": "Find the remnants of the old fortifications for a quiet walk.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirläden am Marktplatz",
+            "tip": "Hier finden Sie handgefertigte Keramik und traditionelle polnische Andenken."
+          },
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach einem lokalen Markt für frische Produkte und regionale Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándékboltok a Piactéren",
+            "tip": "Itt kézzel készített kerámiákat és hagyományos lengyel emléktárgyakat talál."
+          },
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen egy helyi piacot friss termékekért és regionális különlegességekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de suveniruri din Piața Centrală",
+            "tip": "Aici veți găsi ceramică artizanală și suveniruri tradiționale poloneze."
+          },
+          {
+            "name": "Piața locală",
+            "tip": "Căutați o piață locală pentru produse proaspete și specialități regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir shops in the Market Square",
+            "tip": "Here you will find handmade ceramics and traditional Polish souvenirs."
+          },
+          {
+            "name": "Local Market",
+            "tip": "Look for a local market for fresh produce and regional specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Nehmen Sie sich Zeit für ein Mittagessen in einem der traditionellen Restaurants.",
+          "Überprüfen Sie die Öffnungszeiten der Museen im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óvárosi macskakő egyenetlen lehet.",
+          "A központ legtöbb látnivalója könnyen megközelíthető gyalog.",
+          "Szánjon időt egy ebédre az egyik hagyományos étteremben.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din centrul vechi poate fi denivelat.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Acordați-vă timp pentru prânz la unul dintre restaurantele tradiționale.",
+          "Verificați în avans orele de funcționare ale muzeelor."
+        ],
+        "en": [
+          "Wear comfortable shoes, as the cobblestones in the Old Town can be uneven.",
+          "Most attractions in the center are easily accessible on foot.",
+          "Take time for lunch in one of the traditional restaurants.",
+          "Check the opening hours of the museums in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 7.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt (Marktplatz)",
+            "hu": "Óváros (Piactér)",
+            "ro": "Centrul vechi (Piața Centrală)",
+            "en": "Old Town (Market Square)"
+          },
+          "coords": [
+            19.7001,
+            51.408
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab und erkunden Sie den Platz zu Fuß.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és fedezze fel a teret gyalog.",
+            "ro": "Asigurați-vă bicicleta și explorați piața pe jos.",
+            "en": "Lock your bike securely and explore the square on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Königsschloss",
+            "hu": "Királyi palota",
+            "ro": "Castelul Regal",
+            "en": "Royal Castle"
+          },
+          "coords": [
+            19.6978,
+            51.4092
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das Museum im Schloss ist umfangreich, planen Sie genügend Zeit ein.",
+            "hu": "A várban található múzeum kiterjedt, tervezzen elegendő időt.",
+            "ro": "Muzeul din castel este extins, planificați suficient timp.",
+            "en": "The museum in the castle is extensive, so plan enough time."
+          }
+        },
+        {
+          "name": {
+            "de": "Jakobsbasilika",
+            "hu": "Szent Jakab-bazilika",
+            "ro": "Bazilica Sf. Iacob",
+            "en": "St. James' Basilica"
+          },
+          "coords": [
+            19.7025,
+            51.4085
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein schönes Beispiel gotischer Architektur, perfekt für eine kurze Pause.",
+            "hu": "A gótikus építészet szép példája, tökéletes egy rövid pihenőre.",
+            "ro": "Un exemplu frumos de arhitectură gotică, perfect pentru o scurtă pauză.",
+            "en": "A beautiful example of Gothic architecture, perfect for a short break."
+          }
+        },
+        {
+          "name": {
+            "de": "Bernardinerkloster",
+            "hu": "Bernardin kolostor",
+            "ro": "Mănăstirea Bernardină",
+            "en": "Bernardine Monastery"
+          },
+          "coords": [
+            19.6899,
+            51.4095
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Etwas außerhalb des Zentrums, aber die Radtour dorthin ist angenehm.",
+            "hu": "Kicsit a központon kívül, de a kerékpártúra oda kellemes.",
+            "ro": "Puțin în afara centrului, dar plimbarea cu bicicleta până acolo este plăcută.",
+            "en": "A bit outside the center, but the bike ride there is pleasant."
+          }
+        },
+        {
+          "name": {
+            "de": "Große Synagoge",
+            "hu": "Nagy Zsinagóga",
+            "ro": "Marea Sinagogă",
+            "en": "Great Synagogue"
+          },
+          "coords": [
+            19.6955,
+            51.4066
+          ],
+          "category": "museums",
+          "arrive_at": "13:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Die Architektur ist beeindruckend, auch wenn man nur von außen schaut.",
+            "hu": "Az építészet lenyűgöző, még akkor is, ha csak kívülről nézi meg az ember.",
+            "ro": "Arhitectura este impresionantă, chiar dacă o priviți doar din exterior.",
+            "en": "The architecture is impressive, even if you only look from the outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal des 25. Infanterieregiments",
+            "hu": "A 25. gyalogezred emlékműve",
+            "ro": "Monumentul Regimentului 25 Infanterie",
+            "en": "Monument to the 25th Infantry Regiment"
+          },
+          "coords": [
+            19.715,
+            51.405
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:21",
+          "stay_min": 20,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Ein Moment des Innehaltens und der Reflexion über die lokale Geschichte.",
+            "hu": "A megállás és a helyi történelemről való elmélkedés pillanata.",
+            "ro": "Un moment de reculegere și reflecție asupra istoriei locale.",
+            "en": "A moment of pause and reflection on local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Jesuitenkloster",
+            "hu": "Jezsuita kolostor",
+            "ro": "Mănăstirea Iezuită",
+            "en": "Jesuit Monastery"
+          },
+          "coords": [
+            19.7041,
+            51.4099
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Der letzte Halt des Tages, um die barocke Pracht zu bewundern.",
+            "hu": "A nap utolsó állomása a barokk pompa megcsodálására.",
+            "ro": "Ultima oprire a zilei pentru a admira splendoarea barocă.",
+            "en": "The last stop of the day to admire the baroque splendor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie Piotrków Trybunalski flexibel. Starten Sie am Marktplatz, bevor Sie zum Königsschloss radeln, wo Sie in die Geschichte eintauchen. Die Route führt Sie weiter zur gotischen Jakobsbasilika. Am Mittag machen Sie eine längere Tour zum ruhigen Bernardinerkloster, eine willkommene Abwechslung. Nach einer Mittagspause geht es weiter zur beeindruckenden Großen Synagoge und dann zu einem Moment des Gedenkens am Denkmal des 25. Infanterieregiments. Der Tag endet am Jesuitenkloster, bevor Sie gemütlich durch die Stadt zurückradeln.",
+        "hu": "Kerékpárral rugalmasan fedezheti fel Piotrków Trybunalskit. Induljon a piactérről, mielőtt a királyi várhoz teker, ahol elmerülhet a történelemben. Az útvonal tovább vezet a gótikus Szent Jakab-bazilikához. Délben egy hosszabb túrát tesz a csendes Bernardin kolostorhoz, ami kellemes kikapcsolódást nyújt. Egy ebédszünet után továbbmegy a lenyűgöző Nagy Zsinagógához, majd egy megemlékezés pillanatára a 25. gyalogezred emlékművénél. A nap a jezsuita kolostornál ér véget, mielőtt kényelmesen visszateker a városba.",
+        "ro": "Cu bicicleta, explorați Piotrków Trybunalski în mod flexibil. Începeți din Piața Centrală înainte de a pedala spre Castelul Regal, unde vă veți cufunda în istorie. Traseul vă duce mai departe la Bazilica gotică Sf. Iacob. La prânz, faceți un tur mai lung la liniștita Mănăstire Bernardină, o schimbare binevenită. După o pauză de prânz, continuați spre impresionanta Mare Sinagogă și apoi la un moment de reculegere la Monumentul Regimentului 25 Infanterie. Ziua se termină la Mănăstirea Iezuită înainte de a pedala agale înapoi prin oraș.",
+        "en": "Explore Piotrków Trybunalski flexibly by bike. Start at the Market Square before cycling to the Royal Castle to immerse yourself in history. The route continues to the Gothic St. James' Basilica. At noon, take a longer tour to the peaceful Bernardine Monastery, a welcome change of pace. After a lunch break, continue to the impressive Great Synagogue and then for a moment of remembrance at the Monument to the 25th Infantry Regiment. The day ends at the Jesuit Monastery before a leisurely ride back through the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zapiekanka",
+            "tip": "Ein schneller und leckerer polnischer Snack, ideal für eine Radtour-Pause."
+          },
+          {
+            "name": "Kawiarnia „Słodkie Życie”",
+            "tip": "Perfekt für Kaffee und Kuchen, um neue Energie zu tanken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zapiekanka",
+            "tip": "Gyors és finom lengyel snack, ideális egy kerékpártúra szünetéhez."
+          },
+          {
+            "name": "Kawiarnia „Słodkie Życie”",
+            "tip": "Tökéletes kávéra és süteményre, hogy új energiát gyűjtsön."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zapiekanka",
+            "tip": "O gustare poloneză rapidă și delicioasă, ideală pentru o pauză în turul cu bicicleta."
+          },
+          {
+            "name": "Kawiarnia „Słodkie Życie”",
+            "tip": "Perfect pentru o cafea și o prăjitură pentru a vă reîncărca bateriile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zapiekanka",
+            "tip": "A quick and delicious Polish snack, ideal for a bike tour break."
+          },
+          {
+            "name": "Kawiarnia „Słodkie Życie”",
+            "tip": "Perfect for coffee and cake to recharge your energy."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park Jana Pawła II",
+            "tip": "Ein größerer Park, ideal für eine längere Pause im Grünen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Entlang des Flusses Strawa",
+            "tip": "Suchen Sie nach Radwegen entlang des kleinen Flusses für eine entspannte Fahrt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "II. János Pál park",
+            "tip": "Nagyobb park, ideális egy hosszabb pihenőre a zöldben.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Strawa folyó mentén",
+            "tip": "Keressen kerékpárutakat a kis folyó mentén egy pihentető utazáshoz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Ioan Paul al II-lea",
+            "tip": "Un parc mai mare, ideal pentru o pauză mai lungă în natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "De-a lungul râului Strawa",
+            "tip": "Căutați piste de biciclete de-a lungul micului râu pentru o plimbare relaxantă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "John Paul II Park",
+            "tip": "A larger park, ideal for a longer break in the greenery.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Along the Strawa River",
+            "tip": "Look for bike paths along the small river for a relaxing ride.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Falls Sie Zubehör oder eine schnelle Reparatur benötigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Ha tartozékokra vagy gyors javításra van szüksége."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "În caz că aveți nevoie de accesorii sau de o reparație rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shop",
+            "tip": "In case you need accessories or a quick repair."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Schließen Sie Ihr Fahrrad immer an einem festen Gegenstand ab.",
+          "Achten Sie auf den Verkehr, besonders außerhalb des historischen Zentrums.",
+          "Einige Straßen haben Kopfsteinpflaster, fahren Sie vorsichtig.",
+          "Nehmen Sie eine Flasche Wasser mit."
+        ],
+        "hu": [
+          "Mindig zárja le a kerékpárját egy szilárd tárgyhoz.",
+          "Vigyázzon a forgalomra, különösen a történelmi központon kívül.",
+          "Néhány utca macskaköves, vezessen óvatosan.",
+          "Vigyen magával egy üveg vizet."
+        ],
+        "ro": [
+          "Legați-vă întotdeauna bicicleta de un obiect fix.",
+          "Fiți atenți la trafic, mai ales în afara centrului istoric.",
+          "Unele străzi au pavaj, conduceți cu prudență.",
+          "Luați cu voi o sticlă cu apă."
+        ],
+        "en": [
+          "Always lock your bike to a fixed object.",
+          "Pay attention to traffic, especially outside the historic center.",
+          "Some streets are cobbled, ride carefully.",
+          "Bring a bottle of water with you."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz nahe Altstadt",
+            "hu": "Parkoló az Óváros közelében",
+            "ro": "Parcare lângă Centrul Vechi",
+            "en": "Parking near Old Town"
+          },
+          "coords": [
+            19.698,
+            51.4055
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Vormittag. Das historische Zentrum ist zu Fuß erreichbar.",
+            "hu": "Parkoljon itt a délelőttre. A történelmi központ gyalogosan is elérhető.",
+            "ro": "Parcați aici pentru dimineață. Centrul istoric este accesibil pe jos.",
+            "en": "Park here for the morning. The historic center is within walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt & Jakobsbasilika",
+            "hu": "Óváros és Szent Jakab-bazilika",
+            "ro": "Centrul Vechi și Bazilica Sf. Iacob",
+            "en": "Old Town & St. James' Basilica"
+          },
+          "coords": [
+            19.7001,
+            51.408
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie den Platz und die beeindruckende Kirche in einem Spaziergang.",
+            "hu": "Fedezze fel a teret és a lenyűgöző templomot egy séta során.",
+            "ro": "Explorați piața și biserica impresionantă într-o singură plimbare.",
+            "en": "Explore the square and the impressive church in one walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Königsschloss und Museum",
+            "hu": "Királyi palota és Múzeum",
+            "ro": "Castelul Regal și Muzeul",
+            "en": "Royal Castle and Museum"
+          },
+          "coords": [
+            19.6978,
+            51.4092
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Marktplatz. Planen Sie viel Zeit für das Museum ein.",
+            "hu": "Rövid séta a piactérről. Tervezzen sok időt a múzeumra.",
+            "ro": "O scurtă plimbare de la Piața Centrală. Planificați mult timp pentru muzeu.",
+            "en": "A short walk from the Market Square. Plan plenty of time for the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Bernardinerkloster & Große Synagoge",
+            "hu": "Bernardin kolostor és Nagy Zsinagóga",
+            "ro": "Mănăstirea Bernardină și Marea Sinagogă",
+            "en": "Bernardine Monastery & Great Synagogue"
+          },
+          "coords": [
+            19.6899,
+            51.4095
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 72,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem Cluster und erkunden Sie die beiden Sehenswürdigkeiten zu Fuß.",
+            "hu": "Vezessen ehhez a csoporthoz, és fedezze fel a két látnivalót gyalog.",
+            "ro": "Conduceți la acest grup de obiective și explorați cele două atracții pe jos.",
+            "en": "Drive to this cluster and explore both sights on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal des 25. Infanterieregiments",
+            "hu": "A 25. gyalogezred emlékműve",
+            "ro": "Monumentul Regimentului 25 Infanterie",
+            "en": "Monument to the 25th Infantry Regiment"
+          },
+          "coords": [
+            19.715,
+            51.405
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:48",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein kurzer Halt mit dem Auto, um dieses wichtige lokale Denkmal zu sehen.",
+            "hu": "Rövid megálló autóval, hogy megnézze ezt a fontos helyi emlékművet.",
+            "ro": "O oprire scurtă cu mașina pentru a vedea acest important monument local.",
+            "en": "A short stop by car to see this important local monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Jesuitenkloster",
+            "hu": "Jezsuita kolostor",
+            "ro": "Mănăstirea Iezuită",
+            "en": "Jesuit Monastery"
+          },
+          "coords": [
+            19.7041,
+            51.4099
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:23",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und beenden Sie den Tag mit diesem barocken Juwel.",
+            "hu": "Parkoljon a közelben, és fejezze be a napot ezzel a barokk gyöngyszemmel.",
+            "ro": "Parcați în apropiere și încheiați ziua cu această bijuterie barocă.",
+            "en": "Park nearby and end the day with this baroque jewel."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Piotrków Trybunalski effizient. Parken Sie morgens nahe der Altstadt und entdecken Sie das historische Herz zu Fuß: den Marktplatz, die Jakobsbasilika und das Königsschloss. Nach dem Mittagessen fahren Sie zum nächsten Cluster, dem Bernardinerkloster und der Großen Synagoge, die Sie ebenfalls zu Fuß erkunden. Am Nachmittag machen Sie einen kurzen Autostopp am Denkmal des 25. Infanterieregiments. Den Abschluss bildet ein Besuch im Jesuitenkloster, bevor Sie den Tag bei einem Abendessen ausklingen lassen.",
+        "hu": "Autóval hatékonyan fedezheti fel Piotrków Trybunalskit. Reggel parkoljon az óváros közelében, és fedezze fel gyalog a történelmi központot: a piacteret, a Szent Jakab-bazilikát és a királyi várat. Ebéd után vezessen a következő csoporthoz, a Bernardin kolostorhoz és a Nagy Zsinagógához, amelyeket szintén gyalogosan fedezhet fel. Délután tegyen egy rövid autós megállót a 25. gyalogezred emlékművénél. A napot a jezsuita kolostor meglátogatásával zárja, mielőtt egy vacsorával fejezi be a napot.",
+        "ro": "Cu mașina, explorați Piotrków Trybunalski eficient. Parcați dimineața lângă Centrul Vechi și descoperiți inima istorică pe jos: Piața Centrală, Bazilica Sf. Iacob și Castelul Regal. După prânz, conduceți la următorul grup de obiective, Mănăstirea Bernardină și Marea Sinagogă, pe care le explorați tot pe jos. După-amiaza, faceți o scurtă oprire cu mașina la Monumentul Regimentului 25 Infanterie. Ziua se încheie cu o vizită la Mănăstirea Iezuită, înainte de a încheia ziua cu o cină.",
+        "en": "Explore Piotrków Trybunalski efficiently by car. Park near the Old Town in the morning and discover the historic heart on foot: the Market Square, St. James' Basilica, and the Royal Castle. After lunch, drive to the next cluster, the Bernardine Monastery and the Great Synagogue, which you will also explore on foot. In the afternoon, make a short car stop at the Monument to the 25th Infantry Regiment. The day concludes with a visit to the Jesuit Monastery before ending the day with dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Karczma „Pod Złotą Kaczką”",
+            "tip": "Ein rustikales Gasthaus, das für seine traditionelle polnische Küche bekannt ist, leicht mit dem Auto erreichbar."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Karczma „Pod Złotą Kaczką”",
+            "tip": "Rusztikus fogadó, amely hagyományos lengyel konyhájáról ismert, autóval könnyen megközelíthető."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Karczma „Pod Złotą Kaczką”",
+            "tip": "Un han rustic cunoscut pentru bucătăria sa tradițională poloneză, ușor accesibil cu mașina."
+          }
+        ],
+        "en": [
+          {
+            "name": "Karczma „Pod Złotą Kaczką”",
+            "tip": "A rustic inn known for its traditional Polish cuisine, easily accessible by car."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Zalew Sulejowski (mit dem Auto)",
+            "tip": "Wenn Sie Zeit haben, ist dieser nahegelegene Stausee ein großartiger Ort für eine Pause in der Natur.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zalew Sulejowski (autóval)",
+            "tip": "Ha van ideje, ez a közeli víztározó remek hely egy természeti kikapcsolódásra.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zalew Sulejowski (cu mașina)",
+            "tip": "Dacă aveți timp, acest lac de acumulare din apropiere este un loc minunat pentru o pauză în natură.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Zalew Sulejowski (by car)",
+            "tip": "If you have time, this nearby reservoir is a great place for a break in nature.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Focus Mall",
+            "tip": "Ein modernes Einkaufszentrum am Rande der Stadt für umfassendere Einkäufe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Focus Mall",
+            "tip": "Modern bevásárlóközpont a város szélén az átfogóbb vásárlásokhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Focus Mall",
+            "tip": "Un centru comercial modern la marginea orașului pentru cumpărături mai extinse."
+          }
+        ],
+        "en": [
+          {
+            "name": "Focus Mall",
+            "tip": "A modern shopping mall on the outskirts of the city for more comprehensive shopping."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Suchen Sie nach ausgewiesenen Parkplätzen (płatny parking).",
+          "Das Parken im Zentrum kann schwierig sein, planen Sie entsprechend.",
+          "Achten Sie auf Einbahnstraßen in der Altstadt.",
+          "Die Cluster-Walking-Methode spart Zeit und Parkgebühren."
+        ],
+        "hu": [
+          "Keressen kijelölt parkolóhelyeket (płatny parking).",
+          "A központban a parkolás nehézkes lehet, tervezzen ennek megfelelően.",
+          "Vigyázzon az egyirányú utcákra az óvárosban.",
+          "A 'cluster-walking' módszer időt és parkolási díjakat takarít meg."
+        ],
+        "ro": [
+          "Căutați locuri de parcare desemnate (płatny parking).",
+          "Parcarea în centru poate fi dificilă, planificați în consecință.",
+          "Fiți atenți la străzile cu sens unic din Centrul Vechi.",
+          "Metoda 'cluster-walking' economisește timp și taxe de parcare."
+        ],
+        "en": [
+          "Look for designated parking areas (płatny parking).",
+          "Parking in the center can be difficult, so plan accordingly.",
+          "Be aware of one-way streets in the Old Town.",
+          "The cluster-walking method saves time and parking fees."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Trybunalski-Markt",
+            "hu": "Érkezés a Trybunalski piacra",
+            "ro": "Sosire în Piața Trybunalski",
+            "en": "Arrival at Trybunalski Market"
+          },
+          "coords": [
+            19.7001,
+            51.408
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier nach der Ankunft mit dem Bus. Der Platz ist der erste Cluster.",
+            "hu": "A busszal való érkezés után itt kezdje. A tér az első látnivaló-csoport.",
+            "ro": "Începeți de aici după sosirea cu autobuzul. Piața este primul grup de atracții.",
+            "en": "Start here after arriving by bus. The square is the first cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt, Jakobsbasilika & Königsschloss",
+            "hu": "Óváros, Szent Jakab-bazilika és Királyi palota",
+            "ro": "Centrul Vechi, Bazilica Sf. Iacob & Castelul Regal",
+            "en": "Old Town, St. James' Basilica & Royal Castle"
+          },
+          "coords": [
+            19.6995,
+            51.4088
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 180,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen gesamten historischen Kern zu Fuß. Alles ist nah beieinander.",
+            "hu": "Fedezze fel ezt az egész történelmi magot gyalog. Minden közel van egymáshoz.",
+            "ro": "Explorați întregul nucleu istoric pe jos. Totul este aproape.",
+            "en": "Explore this entire historic core on foot. Everything is close together."
+          }
+        },
+        {
+          "name": {
+            "de": "Bernardinerkloster",
+            "hu": "Bernardin kolostor",
+            "ro": "Mănăstirea Bernardină",
+            "en": "Bernardine Monastery"
+          },
+          "coords": [
+            19.6899,
+            51.4095
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 70,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zu diesem ruhigeren Teil der Stadt.",
+            "hu": "Menjen busszal a város e csendesebb részébe.",
+            "ro": "Luați un autobuz spre această parte mai liniștită a orașului.",
+            "en": "Take a bus to this quieter part of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Große Synagoge",
+            "hu": "Nagy Zsinagóga",
+            "ro": "Marea Sinagogă",
+            "en": "Great Synagogue"
+          },
+          "coords": [
+            19.6955,
+            51.4066
+          ],
+          "category": "museums",
+          "arrive_at": "14:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Kloster aus, um die Architektur zu bewundern.",
+            "hu": "Rövid séta a kolostortól, hogy megcsodálja az építészetet.",
+            "ro": "O scurtă plimbare de la mănăstire pentru a admira arhitectura.",
+            "en": "A short walk from the monastery to admire the architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Jesuitenkloster",
+            "hu": "Jezsuita kolostor",
+            "ro": "Mănăstirea Iezuită",
+            "en": "Jesuit Monastery"
+          },
+          "coords": [
+            19.7041,
+            51.4099
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zurück ins Zentrum, um den Tag hier abzuschließen.",
+            "hu": "Menjen busszal vissza a központba, hogy itt fejezze be a napot.",
+            "ro": "Luați un autobuz înapoi în centru pentru a încheia ziua aici.",
+            "en": "Take a bus back to the center to end the day here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erleben Sie Piotrków Trybunalski wie ein Einheimischer. Starten Sie im Herzen der Stadt, dem Marktplatz, und erkunden Sie den ersten Cluster – Basilika und Schloss – zu Fuß. Nach dem Mittagessen bringt Sie ein Bus zum zweiten Cluster: dem Bernardinerkloster. Von dort aus ist es ein kurzer Spaziergang zur Großen Synagoge. Ein weiterer Bus bringt Sie zurück ins Zentrum, um den Tag am Jesuitenkloster ausklingen zu lassen, bevor Sie die Atmosphäre der Stadt bei einem Abendessen genießen.",
+        "hu": "Tömegközlekedéssel úgy élheti át Piotrków Trybunalskit, mint egy helyi. Kezdje a város szívében, a piactéren, és fedezze fel gyalog az első látnivaló-csoportot – a bazilikát és a várat. Ebéd után egy busz elviszi a második csoporthoz: a Bernardin kolostorhoz. Onnan rövid séta a Nagy Zsinagóga. Egy másik busz visszaviszi a központba, hogy a napot a jezsuita kolostornál zárja, mielőtt egy vacsora mellett élvezi a város hangulatát.",
+        "ro": "Cu transportul public, veți experimenta Piotrków Trybunalski ca un localnic. Începeți în inima orașului, Piața Centrală, și explorați primul grup de atracții – bazilica și castelul – pe jos. După prânz, un autobuz vă duce la al doilea grup: Mănăstirea Bernardină. De acolo, este o scurtă plimbare până la Marea Sinagogă. Un alt autobuz vă duce înapoi în centru pentru a încheia ziua la Mănăstirea Iezuită, înainte de a vă bucura de atmosfera orașului la cină.",
+        "en": "Experience Piotrków Trybunalski like a local using public transport. Start in the heart of the city, the Market Square, and explore the first cluster – basilica and castle – on foot. After lunch, a bus takes you to the second cluster: the Bernardine Monastery. From there, it's a short walk to the Great Synagogue. Another bus takes you back to the center to end the day at the Jesuit Monastery before enjoying the city's atmosphere over dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bar Mleczny 'Słoneczny'",
+            "tip": "Erleben Sie eine authentische polnische 'Milchbar' für ein günstiges und traditionelles Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bar Mleczny 'Słoneczny'",
+            "tip": "Éljen át egy autentikus lengyel 'tejbárt' egy olcsó és hagyományos ebédért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bar Mleczny 'Słoneczny'",
+            "tip": "Experimentați un 'bar de lapte' polonez autentic pentru un prânz ieftin și tradițional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bar Mleczny 'Słoneczny'",
+            "tip": "Experience an authentic Polish 'milk bar' for a cheap and traditional lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lesen auf einer Bank im Klostergarten",
+            "tip": "Die Gärten der Klöster sind oft ruhig und öffentlich zugänglich.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olvasás egy padon a kolostorkertben",
+            "tip": "A kolostorok kertjei gyakran csendesek és nyilvánosan hozzáférhetők.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Citind pe o bancă în grădina mănăstirii",
+            "tip": "Grădinile mănăstirilor sunt adesea liniștite și deschise publicului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Reading on a bench in the monastery garden",
+            "tip": "The monastery gardens are often quiet and open to the public.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk (Zeitungsladen)",
+            "tip": "Kaufen Sie hier Ihre Bustickets (bilety)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk (újságos)",
+            "tip": "Itt vásárolja meg a buszjegyeit (bilety)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc (magazin de ziare)",
+            "tip": "Cumpărați-vă biletele de autobuz (bilety) de aici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk (newsstand)",
+            "tip": "Buy your bus tickets (bilety) here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Die Busfahrpläne finden Sie online oder an den Haltestellen.",
+          "Haben Sie etwas Kleingeld für Tickets dabei.",
+          "Bestätigen Sie Ihr Ticket beim Einsteigen in den Bus."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha több utazást tervez.",
+          "A buszmenetrendeket online vagy a megállókban találja.",
+          "Legyen Önnél aprópénz a jegyekhez.",
+          "Érvényesítse a jegyét, amikor felszáll a buszra."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă plănuiți mai multe călătorii.",
+          "Orarul autobuzelor poate fi găsit online sau în stații.",
+          "Aveți la îndemână mărunțiș pentru bilete.",
+          "Validați-vă biletul la urcarea în autobuz."
+        ],
+        "en": [
+          "Buy a day ticket for the bus if you plan multiple trips.",
+          "Bus timetables can be found online or at the stops.",
+          "Have some small change ready for tickets.",
+          "Validate your ticket when you get on the bus."
+        ]
+      }
+    }
+  }
+}

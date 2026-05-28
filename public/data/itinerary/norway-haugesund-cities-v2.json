@@ -1,0 +1,1604 @@
+{
+  "city_id": "norway-haugesund-cities-v2",
+  "anchor": {
+    "name": "Haugesund",
+    "coords": [
+      5.275,
+      59.412
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Byparken",
+            "hu": "Byparken (Városi Park)",
+            "ro": "Byparken (Parcul Orașului)",
+            "en": "Byparken (City Park)"
+          },
+          "coords": [
+            5.273,
+            59.413
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Kaffee von einem lokalen Kiosk im Park.",
+            "hu": "Kezdje a napot egy kávéval a park egyik helyi kioszkjából.",
+            "ro": "Începeți ziua cu o cafea de la un chioșc local din parc.",
+            "en": "Start the day with a coffee from a local kiosk in the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Haugesund",
+            "hu": "Haugesundi városháza",
+            "ro": "Primăria din Haugesund",
+            "en": "Haugesund Town Hall"
+          },
+          "coords": [
+            5.278,
+            59.415
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neoklassizistische Architektur und den umliegenden Park.",
+            "hu": "Csodálja meg a neoklasszikus építészetet és a környező parkot.",
+            "ro": "Admirați arhitectura neoclasică și parcul înconjurător.",
+            "en": "Admire the neoclassical architecture and the surrounding park."
+          }
+        },
+        {
+          "name": {
+            "de": "Vår Frelsers Kirche",
+            "hu": "Vår Frelsers templom",
+            "ro": "Biserica Vår Frelsers",
+            "en": "Vår Frelsers Church"
+          },
+          "coords": [
+            5.272,
+            59.414
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:37",
+          "stay_min": 45,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Suchen Sie nach den beeindruckenden Glasmalereien im Inneren.",
+            "hu": "Keresse meg a lenyűgöző ólomüveg ablakokat a templombelsőben.",
+            "ro": "Căutați vitraliile impresionante din interior.",
+            "en": "Look for the impressive stained glass windows inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Karmsund Volksmuseum",
+            "hu": "Karmsund Néprajzi Múzeum",
+            "ro": "Muzeul Popular Karmsund",
+            "en": "Karmsund Folk Museum"
+          },
+          "coords": [
+            5.265,
+            59.411
+          ],
+          "category": "museums",
+          "arrive_at": "11:36",
+          "stay_min": 90,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Fokus auf die maritime Geschichte der Stadt – sehr aufschlussreich.",
+            "hu": "Koncentráljon a város tengerészeti történelmére – nagyon tanulságos.",
+            "ro": "Concentrează-te pe istoria maritimă a orașului - foarte revelator.",
+            "en": "Focus on the city's maritime history – it's very insightful."
+          }
+        },
+        {
+          "name": {
+            "de": "The Rising Tide",
+            "hu": "The Rising Tide (Az emelkedő dagály)",
+            "ro": "The Rising Tide (Marea Crescândă)",
+            "en": "The Rising Tide"
+          },
+          "coords": [
+            5.262,
+            59.408
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:12",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Diese Skulpturen von Jason deCaires Taylor sind bei Ebbe am besten zu sehen.",
+            "hu": "Jason deCaires Taylor szobrai apálykor láthatók a legjobban.",
+            "ro": "Aceste sculpturi de Jason deCaires Taylor sunt cel mai bine văzute la reflux.",
+            "en": "These sculptures by Jason deCaires Taylor are best viewed at low tide."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Hafen",
+            "hu": "Ebéd a kikötőben",
+            "ro": "Prânz în port",
+            "en": "Lunch at the Harbour"
+          },
+          "coords": [
+            5.266,
+            59.41
+          ],
+          "category": "gastro",
+          "arrive_at": "13:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie frischen Fisch in einem der Restaurants am Kai.",
+            "hu": "Kóstoljon meg friss halat a rakpart egyik éttermében.",
+            "ro": "Încercați pește proaspăt la unul dintre restaurantele de pe chei.",
+            "en": "Try some fresh fish at one of the restaurants on the quay."
+          }
+        },
+        {
+          "name": {
+            "de": "Haraldshaugen",
+            "hu": "Haraldshaugen",
+            "ro": "Haraldshaugen",
+            "en": "Haraldshaugen"
+          },
+          "coords": [
+            5.259,
+            59.426
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:26",
+          "stay_min": 60,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Das Nationaldenkmal für die Vereinigung Norwegens. Ein Spaziergang entlang der Küste ist sehr zu empfehlen.",
+            "hu": "Norvégia egyesítésének nemzeti emlékműve. Erősen ajánlott egy séta a part mentén.",
+            "ro": "Monumentul național pentru unificarea Norvegiei. O plimbare de-a lungul coastei este foarte recomandată.",
+            "en": "The national monument for the unification of Norway. A walk along the coast is highly recommended."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Spaziergang durch Haugesund führt Sie vom grünen Herzen des Byparken zur feierlichen Architektur des Rathauses und der Vår Frelsers Kirche. Am Vormittag entdecken Sie das maritime Erbe Norwegens im Karmsund Volksmuseum, bevor Sie die geheimnisvollen Skulpturen von 'The Rising Tide' betrachten. Nach einem Mittagessen mit frischem Fisch am lebhaften Hafen führt Sie ein erfrischender Spaziergang nach Norden zum Haraldshaugen, dem nationalen Monument, wo Geschichte auf die raue Küste trifft. Ein Tag voller Kultur und Seeluft.",
+        "hu": "A haugesundi séta a Byparken zöld szívéből a Városháza és a Vår Frelsers templom ünnepélyes építészetéhez vezet. A délelőtt folyamán fedezze fel Norvégia tengeri örökségét a Karmsund Néprajzi Múzeumban, mielőtt megtekintené a „The Rising Tide” titokzatos szobrait. Egy friss halból készült ebéd után a nyüzsgő kikötőben egy frissítő séta vezet északra, a Haraldshaugen nemzeti emlékműhöz, ahol a történelem találkozik a zord partvidékkel. Egy nap tele kultúrával és tengeri levegővel.",
+        "ro": "O plimbare prin Haugesund vă poartă de la inima verde a parcului Byparken la arhitectura sobră a Primăriei și a Bisericii Vår Frelsers. Dimineața, descoperiți moștenirea maritimă a Norvegiei la Muzeul Popular Karmsund înainte de a admira sculpturile misterioase 'The Rising Tide'. După un prânz cu pește proaspăt în portul animat, o plimbare revigorantă vă duce spre nord, la Haraldshaugen, monumentul național unde istoria întâlnește coasta accidentată. O zi plină de cultură și aer marin.",
+        "en": "A walk through Haugesund takes you from the green heart of Byparken to the solemn architecture of the Town Hall and Vår Frelsers Church. In the morning, discover Norway's maritime heritage at the Karmsund Folk Museum before viewing the mysterious 'The Rising Tide' sculptures. After a fresh fish lunch at the lively harbour, a refreshing walk leads you north to Haraldshaugen, the national monument where history meets the rugged coastline. A day filled with culture and sea air."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fiskesuppe (Fischsuppe)",
+            "tip": "Cremig und voller frischer Meeresfrüchte, ein Muss an der Küste."
+          },
+          {
+            "name": "Lothes Mat & Vinhus",
+            "tip": "Ein historisches Restaurant am Smedasundet mit ausgezeichneten lokalen Gerichten."
+          },
+          {
+            "name": "Raspeballer",
+            "tip": "Traditionelle norwegische Kartoffelklöße, oft donnerstags serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fiskesuppe (Halászlé)",
+            "tip": "Krémes és tele friss tenger gyümölcseivel, kötelező a parton."
+          },
+          {
+            "name": "Lothes Mat & Vinhus",
+            "tip": "Történelmi étterem a Smedasundetnél, kiváló helyi ételekkel."
+          },
+          {
+            "name": "Raspeballer",
+            "tip": "Hagyományos norvég burgonyagombóc, gyakran csütörtökönként szolgálják fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fiskesuppe (Supă de pește)",
+            "tip": "Cremă și plină de fructe de mare proaspete, o necesitate pe coastă."
+          },
+          {
+            "name": "Lothes Mat & Vinhus",
+            "tip": "Un restaurant istoric pe Smedasundet cu mâncăruri locale excelente."
+          },
+          {
+            "name": "Raspeballer",
+            "tip": "Găluște tradiționale norvegiene din cartofi, adesea servite joia."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fiskesuppe (Fish soup)",
+            "tip": "Creamy and full of fresh seafood, a must-try on the coast."
+          },
+          {
+            "name": "Lothes Mat & Vinhus",
+            "tip": "A historic restaurant on the Smedasundet with excellent local dishes."
+          },
+          {
+            "name": "Raspeballer",
+            "tip": "Traditional Norwegian potato dumplings, often served on Thursdays."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang um Djupadalen",
+            "tip": "Ein ruhiges Seengebiet, perfekt für einen friedlichen Spaziergang in der Natur.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Steinsfjellet Aussichtspunkt",
+            "tip": "Bietet einen Panoramablick über die Stadt und das Meer, besonders bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Küste bei Haraldshaugen",
+            "tip": "Sitzen Sie auf den Felsen und lauschen Sie den Wellen für einen Moment der Ruhe.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Djupadalen körül",
+            "tip": "Csendes tóvidék, tökéletes egy békés természetjáráshoz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Steinsfjellet kilátó",
+            "tip": "Panorámás kilátást nyújt a városra és a tengerre, különösen naplementekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Part a Haraldshaugennél",
+            "tip": "Üljön a sziklákra, és hallgassa a hullámokat egy pillanatnyi békéért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare în jurul Djupadalen",
+            "tip": "O zonă lacustră liniștită, perfectă pentru o plimbare pașnică în natură.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Punct de observare Steinsfjellet",
+            "tip": "Oferă o vedere panoramică asupra orașului și a mării, mai ales la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Coasta de la Haraldshaugen",
+            "tip": "Stați pe stânci și ascultați valurile pentru un moment de liniște.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk around Djupadalen",
+            "tip": "A quiet lake area, perfect for a peaceful walk in nature.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Steinsfjellet Viewpoint",
+            "tip": "Offers a panoramic view of the city and the sea, especially at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Coast at Haraldshaugen",
+            "tip": "Sit on the rocks and listen to the waves for a moment of peace.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Haraldsgata",
+            "tip": "Die Haupteinkaufsstraße der Stadt mit einer Mischung aus norwegischen Ketten und unabhängigen Geschäften."
+          },
+          {
+            "name": "Husfliden",
+            "tip": "Kaufen Sie authentisches norwegisches Handwerk, einschließlich Strickwaren und Holzarbeiten."
+          },
+          {
+            "name": "Museumsläden",
+            "tip": "Die Läden im Karmsund- und Dokken-Museum bieten einzigartige Souvenirs mit Bezug zur lokalen Geschichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Haraldsgata",
+            "tip": "A város fő bevásárlóutcája, norvég láncok és független üzletek keverékével."
+          },
+          {
+            "name": "Husfliden",
+            "tip": "Vásároljon autentikus norvég kézműves termékeket, beleértve a kötöttárukat és a fafaragásokat."
+          },
+          {
+            "name": "Múzeumi boltok",
+            "tip": "A Karmsund és Dokken múzeumok üzletei egyedi, a helyi történelemhez kapcsolódó ajándéktárgyakat kínálnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Haraldsgata",
+            "tip": "Principala stradă comercială a orașului, cu un amestec de lanțuri norvegiene și magazine independente."
+          },
+          {
+            "name": "Husfliden",
+            "tip": "Cumpărați meșteșuguri norvegiene autentice, inclusiv tricotaje și obiecte din lemn."
+          },
+          {
+            "name": "Magazinele muzeelor",
+            "tip": "Magazinele de la muzeele Karmsund și Dokken oferă suveniruri unice legate de istoria locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Haraldsgata",
+            "tip": "The city's main shopping street with a mix of Norwegian chains and independent shops."
+          },
+          {
+            "name": "Husfliden",
+            "tip": "Shop for authentic Norwegian handicrafts, including knitwear and woodcarvings."
+          },
+          {
+            "name": "Museum Shops",
+            "tip": "The shops at Karmsund and Dokken museums offer unique souvenirs related to local history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Innenstadt uneben sein kann.",
+          "Das Wetter kann sich schnell ändern; packen Sie eine wasserdichte Jacke ein.",
+          "Die meisten Geschäfte schließen sonntags, planen Sie Ihr Shopping entsprechend.",
+          "Der Spaziergang zum Haraldshaugen ist zwar lang, aber die Küstenlandschaft ist es wert."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a belvárosi macskakövek egyenetlenek lehetnek.",
+          "Az időjárás gyorsan változhat; csomagoljon egy vízálló dzsekit.",
+          "A legtöbb üzlet vasárnap zárva tart, tervezze a vásárlást ennek megfelelően.",
+          "A séta a Haraldshaugenhez hosszú, de a tengerparti táj megéri."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece pavelele din centrul orașului pot fi denivelate.",
+          "Vremea se poate schimba rapid; împachetați o jachetă impermeabilă.",
+          "Majoritatea magazinelor sunt închise duminica, planificați-vă cumpărăturile în consecință.",
+          "Plimbarea până la Haraldshaugen este lungă, dar peisajul de coastă merită."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the city center can be uneven.",
+          "The weather can change quickly; pack a waterproof jacket.",
+          "Most shops are closed on Sundays, so plan your shopping accordingly.",
+          "The walk to Haraldshaugen is long, but the coastal scenery is worth it."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus und Byparken",
+            "hu": "Városháza és Byparken",
+            "ro": "Primăria și Byparken",
+            "en": "Town Hall and Byparken"
+          },
+          "coords": [
+            5.278,
+            59.415
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Mieten Sie ein Fahrrad in der Nähe und beginnen Sie Ihre Tour hier.",
+            "hu": "Béreljen kerékpárt a közelben, és kezdje itt a túrát.",
+            "ro": "Închiriați o bicicletă din apropiere și începeți turul de aici.",
+            "en": "Rent a bike nearby and start your tour here."
+          }
+        },
+        {
+          "name": {
+            "de": "Karmsund Volksmuseum",
+            "hu": "Karmsund Néprajzi Múzeum",
+            "ro": "Muzeul Popular Karmsund",
+            "en": "Karmsund Folk Museum"
+          },
+          "coords": [
+            5.265,
+            59.411
+          ],
+          "category": "museums",
+          "arrive_at": "09:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und tauchen Sie in die lokale Seefahrtsgeschichte ein.",
+            "hu": "Parkolja le a biciklit, és merüljön el a helyi tengerészeti történelemben.",
+            "ro": "Parcați-vă bicicleta și scufundați-vă în istoria maritimă locală.",
+            "en": "Park your bike and dive into the local maritime history."
+          }
+        },
+        {
+          "name": {
+            "de": "Haraldshaugen",
+            "hu": "Haraldshaugen",
+            "ro": "Haraldshaugen",
+            "en": "Haraldshaugen"
+          },
+          "coords": [
+            5.259,
+            59.426
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:17",
+          "stay_min": 45,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Eine angenehme Radtour entlang der Küste zum Nationaldenkmal.",
+            "hu": "Kellemes biciklitúra a part mentén a nemzeti emlékműhöz.",
+            "ro": "O plimbare plăcută cu bicicleta de-a lungul coastei până la monumentul național.",
+            "en": "A pleasant bike ride along the coast to the national monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen mit Aussicht",
+            "hu": "Ebéd kilátással",
+            "ro": "Prânz cu vedere",
+            "en": "Lunch with a view"
+          },
+          "coords": [
+            5.26,
+            59.42
+          ],
+          "category": "gastro",
+          "arrive_at": "12:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Finden Sie ein Café oder Restaurant in der Nähe von Haraldshaugen für eine Pause.",
+            "hu": "Keressen egy kávézót vagy éttermet a Haraldshaugen közelében egy kis szünetre.",
+            "ro": "Găsiți o cafenea sau un restaurant lângă Haraldshaugen pentru o pauză.",
+            "en": "Find a cafe or restaurant near Haraldshaugen for a break."
+          }
+        },
+        {
+          "name": {
+            "de": "Djupadalen",
+            "hu": "Djupadalen",
+            "ro": "Djupadalen",
+            "en": "Djupadalen"
+          },
+          "coords": [
+            5.295,
+            59.425
+          ],
+          "category": "natural features",
+          "arrive_at": "13:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und machen Sie einen Spaziergang um die Seen.",
+            "hu": "Zárja le a kerékpárt, és tegyen egy sétát a tavak körül.",
+            "ro": "Încuiați-vă bicicleta și faceți o plimbare în jurul lacurilor.",
+            "en": "Lock up your bike and take a walk around the lakes."
+          }
+        },
+        {
+          "name": {
+            "de": "Steinsfjellet",
+            "hu": "Steinsfjellet",
+            "ro": "Steinsfjellet",
+            "en": "Steinsfjellet"
+          },
+          "coords": [
+            5.32,
+            59.42
+          ],
+          "category": "natural features",
+          "arrive_at": "15:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4,
+          "tip_5lang": {
+            "de": "Der Anstieg ist eine Herausforderung, aber die Aussicht ist die Belohnung.",
+            "hu": "A hegymászás kihívást jelent, de a kilátás a jutalom.",
+            "ro": "Urcușul este o provocare, dar priveliștea este recompensa.",
+            "en": "The climb is a challenge, but the view is the reward."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum",
+            "hu": "Visszatérés a központba",
+            "ro": "Întoarcere în centru",
+            "en": "Return to City Center"
+          },
+          "coords": [
+            5.275,
+            59.412
+          ],
+          "category": "shopping",
+          "arrive_at": "16:43",
+          "stay_min": 30,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit Souvenir-Shopping oder einem Drink in der Stadt.",
+            "hu": "Zárja a napot ajándékvásárlással vagy egy itallal a városban.",
+            "ro": "Încheiați ziua cu cumpărături de suveniruri sau o băutură în oraș.",
+            "en": "End the day with some souvenir shopping or a drink in town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel und beginnen Sie Ihre Erkundung am eleganten Rathaus. Eine kurze Fahrt bringt Sie zum Karmsund Museum, um in die Seefahrtsgeschichte einzutauchen. Am Vormittag radeln Sie entlang der Küste zum monumentalen Haraldshaugen. Nach dem Mittagessen führt die Route ins Landesinnere zum ruhigen Djupadalen, perfekt für eine Naturpause. Der Nachmittag bringt eine sportliche Herausforderung mit dem Anstieg zum Steinsfjellet, der mit einer atemberaubenden Aussicht belohnt wird. Ein aktiver Tag, der Stadt, Küste und Natur vereint.",
+        "hu": "Pattanjon nyeregbe, és kezdje a felfedezést az elegáns Városházánál. Egy rövid tekerés elviszi a Karmsund Múzeumba, hogy elmerüljön a tengerészeti történelemben. Délelőtt a part mentén biciklizzen a monumentális Haraldshaugenhez. Ebéd után az útvonal a csendes Djupadalenbe vezet, amely tökéletes egy természeti szünetre. A délután sportos kihívást tartogat a Steinsfjelletre való feljutással, amelyet lélegzetelállító kilátás jutalmaz. Egy aktív nap, amely egyesíti a várost, a partot és a természetet.",
+        "ro": "Urcați-vă pe bicicletă și începeți explorarea la eleganta Primărie. O scurtă plimbare vă duce la Muzeul Karmsund pentru o incursiune în istoria maritimă. Dimineața, pedalați de-a lungul coastei până la monumentalul Haraldshaugen. După prânz, traseul vă duce în interior, spre liniștitul Djupadalen, perfect pentru o pauză în natură. După-amiaza aduce o provocare sportivă cu urcarea spre Steinsfjellet, recompensată cu o priveliște uluitoare. O zi activă care combină orașul, coasta și natura.",
+        "en": "Get on your bike and start your exploration at the elegant Town Hall. A short ride takes you to the Karmsund Museum for a dive into maritime history. In the morning, cycle along the coast to the monumental Haraldshaugen. After lunch, the route heads inland to the tranquil Djupadalen, perfect for a nature break. The afternoon brings a sporting challenge with the climb to Steinsfjellet, which is rewarded with a breathtaking view. An active day combining city, coast, and nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fiskesuppe (Fischsuppe)",
+            "tip": "Cremig und voller frischer Meeresfrüchte, ein Muss an der Küste."
+          },
+          {
+            "name": "Lothes Mat & Vinhus",
+            "tip": "Ein historisches Restaurant am Smedasundet mit ausgezeichneten lokalen Gerichten."
+          },
+          {
+            "name": "Raspeballer",
+            "tip": "Traditionelle norwegische Kartoffelklöße, oft donnerstags serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fiskesuppe (Halászlé)",
+            "tip": "Krémes és tele friss tenger gyümölcseivel, kötelező a parton."
+          },
+          {
+            "name": "Lothes Mat & Vinhus",
+            "tip": "Történelmi étterem a Smedasundetnél, kiváló helyi ételekkel."
+          },
+          {
+            "name": "Raspeballer",
+            "tip": "Hagyományos norvég burgonyagombóc, gyakran csütörtökönként szolgálják fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fiskesuppe (Supă de pește)",
+            "tip": "Cremă și plină de fructe de mare proaspete, o necesitate pe coastă."
+          },
+          {
+            "name": "Lothes Mat & Vinhus",
+            "tip": "Un restaurant istoric pe Smedasundet cu mâncăruri locale excelente."
+          },
+          {
+            "name": "Raspeballer",
+            "tip": "Găluște tradiționale norvegiene din cartofi, adesea servite joia."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fiskesuppe (Fish soup)",
+            "tip": "Creamy and full of fresh seafood, a must-try on the coast."
+          },
+          {
+            "name": "Lothes Mat & Vinhus",
+            "tip": "A historic restaurant on the Smedasundet with excellent local dishes."
+          },
+          {
+            "name": "Raspeballer",
+            "tip": "Traditional Norwegian potato dumplings, often served on Thursdays."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang um Djupadalen",
+            "tip": "Ein ruhiges Seengebiet, perfekt für einen friedlichen Spaziergang in der Natur.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Steinsfjellet Aussichtspunkt",
+            "tip": "Bietet einen Panoramablick über die Stadt und das Meer, besonders bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Küste bei Haraldshaugen",
+            "tip": "Sitzen Sie auf den Felsen und lauschen Sie den Wellen für einen Moment der Ruhe.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Djupadalen körül",
+            "tip": "Csendes tóvidék, tökéletes egy békés természetjáráshoz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Steinsfjellet kilátó",
+            "tip": "Panorámás kilátást nyújt a városra és a tengerre, különösen naplementekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Part a Haraldshaugennél",
+            "tip": "Üljön a sziklákra, és hallgassa a hullámokat egy pillanatnyi békéért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare în jurul Djupadalen",
+            "tip": "O zonă lacustră liniștită, perfectă pentru o plimbare pașnică în natură.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Punct de observare Steinsfjellet",
+            "tip": "Oferă o vedere panoramică asupra orașului și a mării, mai ales la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Coasta de la Haraldshaugen",
+            "tip": "Stați pe stânci și ascultați valurile pentru un moment de liniște.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk around Djupadalen",
+            "tip": "A quiet lake area, perfect for a peaceful walk in nature.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Steinsfjellet Viewpoint",
+            "tip": "Offers a panoramic view of the city and the sea, especially at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Coast at Haraldshaugen",
+            "tip": "Sit on the rocks and listen to the waves for a moment of peace.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Haraldsgata",
+            "tip": "Die Haupteinkaufsstraße der Stadt mit einer Mischung aus norwegischen Ketten und unabhängigen Geschäften."
+          },
+          {
+            "name": "Husfliden",
+            "tip": "Kaufen Sie authentisches norwegisches Handwerk, einschließlich Strickwaren und Holzarbeiten."
+          },
+          {
+            "name": "Museumsläden",
+            "tip": "Die Läden im Karmsund- und Dokken-Museum bieten einzigartige Souvenirs mit Bezug zur lokalen Geschichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Haraldsgata",
+            "tip": "A város fő bevásárlóutcája, norvég láncok és független üzletek keverékével."
+          },
+          {
+            "name": "Husfliden",
+            "tip": "Vásároljon autentikus norvég kézműves termékeket, beleértve a kötöttárukat és a fafaragásokat."
+          },
+          {
+            "name": "Múzeumi boltok",
+            "tip": "A Karmsund és Dokken múzeumok üzletei egyedi, a helyi történelemhez kapcsolódó ajándéktárgyakat kínálnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Haraldsgata",
+            "tip": "Principala stradă comercială a orașului, cu un amestec de lanțuri norvegiene și magazine independente."
+          },
+          {
+            "name": "Husfliden",
+            "tip": "Cumpărați meșteșuguri norvegiene autentice, inclusiv tricotaje și obiecte din lemn."
+          },
+          {
+            "name": "Magazinele muzeelor",
+            "tip": "Magazinele de la muzeele Karmsund și Dokken oferă suveniruri unice legate de istoria locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Haraldsgata",
+            "tip": "The city's main shopping street with a mix of Norwegian chains and independent shops."
+          },
+          {
+            "name": "Husfliden",
+            "tip": "Shop for authentic Norwegian handicrafts, including knitwear and woodcarvings."
+          },
+          {
+            "name": "Museum Shops",
+            "tip": "The shops at Karmsund and Dokken museums offer unique souvenirs related to local history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen für die Abfahrt vom Steinsfjellet.",
+          "Nehmen Sie Wasser und Snacks mit, besonders für die längeren Strecken außerhalb des Zentrums.",
+          "Ein Helm wird dringend empfohlen.",
+          "Planen Sie zusätzliche Zeit für Fotostopps ein, die Landschaft ist wunderschön."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket a Steinsfjelletről való leereszkedéshez.",
+          "Vigyen vizet és rágcsálnivalót, különösen a központon kívüli hosszabb szakaszokra.",
+          "A sisak viselése erősen ajánlott.",
+          "Tervezzen plusz időt a fotómegállókra, a táj gyönyörű."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele pentru coborârea de pe Steinsfjellet.",
+          "Luați apă și gustări, mai ales pentru porțiunile mai lungi din afara centrului.",
+          "O cască este foarte recomandată.",
+          "Planificați timp suplimentar pentru opriri foto, peisajul este superb."
+        ],
+        "en": [
+          "Check your bike before setting off, especially the brakes for the descent from Steinsfjellet.",
+          "Bring water and snacks, especially for the longer stretches outside the center.",
+          "A helmet is highly recommended.",
+          "Plan extra time for photo stops; the scenery is beautiful."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 24.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Steinsfjellet",
+            "hu": "Steinsfjellet",
+            "ro": "Steinsfjellet",
+            "en": "Steinsfjellet"
+          },
+          "coords": [
+            5.32,
+            59.42
+          ],
+          "category": "natural features",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Fahren Sie frühmorgens hinauf, um die beste Aussicht bei klarem Himmel zu genießen. Es gibt einen Parkplatz in der Nähe des Gipfels.",
+            "hu": "Menjen fel kora reggel a legjobb kilátásért tiszta égbolt mellett. A csúcs közelében van egy parkoló.",
+            "ro": "Urcați dimineața devreme pentru cea mai bună priveliște pe cer senin. Există o parcare lângă vârf.",
+            "en": "Drive up early in the morning for the best views with clear skies. There is a car park near the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Djupadalen",
+            "hu": "Djupadalen",
+            "ro": "Djupadalen",
+            "en": "Djupadalen"
+          },
+          "coords": [
+            5.295,
+            59.425
+          ],
+          "category": "natural features",
+          "arrive_at": "09:55",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7,
+          "tip_5lang": {
+            "de": "Parken Sie und genießen Sie einen kurzen Spaziergang am See.",
+            "hu": "Parkoljon le, és élvezzen egy rövid sétát a tó partján.",
+            "ro": "Parcați și bucurați-vă de o scurtă plimbare pe malul lacului.",
+            "en": "Park your car and enjoy a short walk by the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Haraldshaugen",
+            "hu": "Haraldshaugen",
+            "ro": "Haraldshaugen",
+            "en": "Haraldshaugen"
+          },
+          "coords": [
+            5.259,
+            59.426
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:10",
+          "stay_min": 45,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6,
+          "tip_5lang": {
+            "de": "Gute Parkmöglichkeiten. Ein geschichtsträchtiger Ort mit toller Küstenatmosphäre.",
+            "hu": "Jó parkolási lehetőségek. Történelmi helyszín nagyszerű tengerparti hangulattal.",
+            "ro": "Parcare bună. Un loc încărcat de istorie, cu o atmosferă de coastă grozavă.",
+            "en": "Good parking available. A historic spot with a great coastal vibe."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Zentrum: Rathaus",
+            "hu": "Központi klaszter: Városháza",
+            "ro": "Cluster Centru: Primăria",
+            "en": "City Center Cluster: Town Hall"
+          },
+          "coords": [
+            5.278,
+            59.415
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:10",
+          "stay_min": 30,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto im Stadtzentrum und erkunden Sie den Rest zu Fuß.",
+            "hu": "Parkolja le autóját a városközpontban, a többit pedig fedezze fel gyalog.",
+            "ro": "Parcați mașina în centrul orașului și explorați restul pe jos.",
+            "en": "Park your car in the city center and explore the rest on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the Center"
+          },
+          "coords": [
+            5.275,
+            59.413
+          ],
+          "category": "gastro",
+          "arrive_at": "12:42",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Wählen Sie eines der vielen Cafés oder Restaurants rund um die Haraldsgata.",
+            "hu": "Válasszon a Haraldsgata körüli számos kávézó vagy étterem közül.",
+            "ro": "Alegeți una dintre numeroasele cafenele sau restaurante din jurul Haraldsgata.",
+            "en": "Choose one of the many cafes or restaurants around Haraldsgata."
+          }
+        },
+        {
+          "name": {
+            "de": "Vår Frelsers Kirche",
+            "hu": "Vår Frelsers templom",
+            "ro": "Biserica Vår Frelsers",
+            "en": "Vår Frelsers Church"
+          },
+          "coords": [
+            5.272,
+            59.414
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:05",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz entfernt.",
+            "hu": "Egy rövid séta a főtértől.",
+            "ro": "O scurtă plimbare de la piața principală.",
+            "en": "A short walk from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Hafen: Karmsund Volksmuseum",
+            "hu": "Kikötő klaszter: Karmsund Múzeum",
+            "ro": "Cluster Port: Muzeul Karmsund",
+            "en": "Harbour Cluster: Karmsund Museum"
+          },
+          "coords": [
+            5.265,
+            59.411
+          ],
+          "category": "museums",
+          "arrive_at": "15:00",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Hafen und parken Sie erneut für diesen Museumscluster.",
+            "hu": "Menjen a kikötőbe, és parkoljon újra ehhez a múzeumi klaszterhez.",
+            "ro": "Conduceți spre port și parcați din nou pentru acest cluster de muzee.",
+            "en": "Drive to the harbour and park again for this museum cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Dokken Museum",
+            "hu": "Dokken Múzeum",
+            "ro": "Muzeul Dokken",
+            "en": "Dokken Museum"
+          },
+          "coords": [
+            5.263,
+            59.409
+          ],
+          "category": "museums",
+          "arrive_at": "16:35",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein Freilichtmuseum, nur einen kurzen Spaziergang entlang des Wassers entfernt.",
+            "hu": "Szabadtéri múzeum, csak egy rövid sétára a víz mentén.",
+            "ro": "Un muzeu în aer liber, la o scurtă plimbare de-a lungul apei.",
+            "en": "An open-air museum, just a short walk along the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie mühelos die Höhepunkte rund um Haugesund. Beginnen Sie den Tag mit einer Panoramaaussicht vom Steinsfjellet. Ein kurzer Halt am ruhigen Djupadalen bietet eine Naturpause, bevor Sie zum historischen Haraldshaugen an der Küste fahren. Am Mittag parken Sie im Zentrum, um das Rathaus zu sehen und zu Mittag zu essen. Nachmittags fahren Sie zum Hafen, um in die maritime Welt des Karmsund- und Dokken-Museums einzutauchen und den Tag zwischen Geschichte und Meer ausklingen zu lassen.",
+        "hu": "Autóval könnyedén elérheti Haugesund környékének legfontosabb látnivalóit. Kezdje a napot panorámás kilátással a Steinsfjelletről. Egy rövid megálló a csendes Djupadalennél természetközeli kikapcsolódást kínál, mielőtt a történelmi Haraldshaugenhez hajt a tengerparton. Délben parkoljon le a központban, hogy megnézze a Városházát és ebédeljen. Délután vezessen a kikötőbe, hogy elmerüljön a Karmsund és Dokken múzeumok tengeri világában, és a napot a történelem és a tenger között zárja.",
+        "ro": "Cu mașina, ajungeți fără efort la punctele de atracție din jurul Haugesund. Începeți ziua cu o vedere panoramică de la Steinsfjellet. O scurtă oprire la liniștitul Djupadalen oferă o pauză în natură înainte de a conduce spre istoricul Haraldshaugen de pe coastă. La prânz, parcați în centru pentru a vedea Primăria și a lua masa. După-amiaza, conduceți spre port pentru a vă cufunda în lumea maritimă a muzeelor Karmsund și Dokken, încheind ziua între istorie și mare.",
+        "en": "By car, you can effortlessly reach the highlights around Haugesund. Start the day with a panoramic view from Steinsfjellet. A short stop at the tranquil Djupadalen offers a nature break before you drive to the historic Haraldshaugen on the coast. At noon, park in the center to see the Town Hall and have lunch. In the afternoon, drive to the harbour to immerse yourself in the maritime world of the Karmsund and Dokken museums, ending the day between history and the sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fiskesuppe (Fischsuppe)",
+            "tip": "Cremig und voller frischer Meeresfrüchte, ein Muss an der Küste."
+          },
+          {
+            "name": "Lothes Mat & Vinhus",
+            "tip": "Ein historisches Restaurant am Smedasundet mit ausgezeichneten lokalen Gerichten."
+          },
+          {
+            "name": "Raspeballer",
+            "tip": "Traditionelle norwegische Kartoffelklöße, oft donnerstags serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fiskesuppe (Halászlé)",
+            "tip": "Krémes és tele friss tenger gyümölcseivel, kötelező a parton."
+          },
+          {
+            "name": "Lothes Mat & Vinhus",
+            "tip": "Történelmi étterem a Smedasundetnél, kiváló helyi ételekkel."
+          },
+          {
+            "name": "Raspeballer",
+            "tip": "Hagyományos norvég burgonyagombóc, gyakran csütörtökönként szolgálják fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fiskesuppe (Supă de pește)",
+            "tip": "Cremă și plină de fructe de mare proaspete, o necesitate pe coastă."
+          },
+          {
+            "name": "Lothes Mat & Vinhus",
+            "tip": "Un restaurant istoric pe Smedasundet cu mâncăruri locale excelente."
+          },
+          {
+            "name": "Raspeballer",
+            "tip": "Găluște tradiționale norvegiene din cartofi, adesea servite joia."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fiskesuppe (Fish soup)",
+            "tip": "Creamy and full of fresh seafood, a must-try on the coast."
+          },
+          {
+            "name": "Lothes Mat & Vinhus",
+            "tip": "A historic restaurant on the Smedasundet with excellent local dishes."
+          },
+          {
+            "name": "Raspeballer",
+            "tip": "Traditional Norwegian potato dumplings, often served on Thursdays."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang um Djupadalen",
+            "tip": "Ein ruhiges Seengebiet, perfekt für einen friedlichen Spaziergang in der Natur.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Steinsfjellet Aussichtspunkt",
+            "tip": "Bietet einen Panoramablick über die Stadt und das Meer, besonders bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Küste bei Haraldshaugen",
+            "tip": "Sitzen Sie auf den Felsen und lauschen Sie den Wellen für einen Moment der Ruhe.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Djupadalen körül",
+            "tip": "Csendes tóvidék, tökéletes egy békés természetjáráshoz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Steinsfjellet kilátó",
+            "tip": "Panorámás kilátást nyújt a városra és a tengerre, különösen naplementekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Part a Haraldshaugennél",
+            "tip": "Üljön a sziklákra, és hallgassa a hullámokat egy pillanatnyi békéért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare în jurul Djupadalen",
+            "tip": "O zonă lacustră liniștită, perfectă pentru o plimbare pașnică în natură.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Punct de observare Steinsfjellet",
+            "tip": "Oferă o vedere panoramică asupra orașului și a mării, mai ales la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Coasta de la Haraldshaugen",
+            "tip": "Stați pe stânci și ascultați valurile pentru un moment de liniște.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk around Djupadalen",
+            "tip": "A quiet lake area, perfect for a peaceful walk in nature.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Steinsfjellet Viewpoint",
+            "tip": "Offers a panoramic view of the city and the sea, especially at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Coast at Haraldshaugen",
+            "tip": "Sit on the rocks and listen to the waves for a moment of peace.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Haraldsgata",
+            "tip": "Die Haupteinkaufsstraße der Stadt mit einer Mischung aus norwegischen Ketten und unabhängigen Geschäften."
+          },
+          {
+            "name": "Husfliden",
+            "tip": "Kaufen Sie authentisches norwegisches Handwerk, einschließlich Strickwaren und Holzarbeiten."
+          },
+          {
+            "name": "Museumsläden",
+            "tip": "Die Läden im Karmsund- und Dokken-Museum bieten einzigartige Souvenirs mit Bezug zur lokalen Geschichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Haraldsgata",
+            "tip": "A város fő bevásárlóutcája, norvég láncok és független üzletek keverékével."
+          },
+          {
+            "name": "Husfliden",
+            "tip": "Vásároljon autentikus norvég kézműves termékeket, beleértve a kötöttárukat és a fafaragásokat."
+          },
+          {
+            "name": "Múzeumi boltok",
+            "tip": "A Karmsund és Dokken múzeumok üzletei egyedi, a helyi történelemhez kapcsolódó ajándéktárgyakat kínálnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Haraldsgata",
+            "tip": "Principala stradă comercială a orașului, cu un amestec de lanțuri norvegiene și magazine independente."
+          },
+          {
+            "name": "Husfliden",
+            "tip": "Cumpărați meșteșuguri norvegiene autentice, inclusiv tricotaje și obiecte din lemn."
+          },
+          {
+            "name": "Magazinele muzeelor",
+            "tip": "Magazinele de la muzeele Karmsund și Dokken oferă suveniruri unice legate de istoria locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Haraldsgata",
+            "tip": "The city's main shopping street with a mix of Norwegian chains and independent shops."
+          },
+          {
+            "name": "Husfliden",
+            "tip": "Shop for authentic Norwegian handicrafts, including knitwear and woodcarvings."
+          },
+          {
+            "name": "Museum Shops",
+            "tip": "The shops at Karmsund and Dokken museums offer unique souvenirs related to local history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkgebühren im Stadtzentrum; einige Zonen haben Zeitlimits.",
+          "Ein GPS ist nützlich, um sich auf den Straßen außerhalb der Stadt zurechtzufinden.",
+          "Planen Sie Ihre Fahrten zwischen den Clustern, um den Verkehr zur Hauptverkehrszeit zu vermeiden.",
+          "Das Auto gibt Ihnen die Flexibilität, bei gutem Wetter spontan an schönen Orten anzuhalten."
+        ],
+        "hu": [
+          "Ellenőrizze a parkolási díjakat a városközpontban; egyes zónákban időkorlát van.",
+          "A GPS hasznos a városon kívüli utakon való tájékozódáshoz.",
+          "Tervezze meg az utazásokat a klaszterek között, hogy elkerülje a csúcsforgalmat.",
+          "Az autó rugalmasságot ad, hogy jó időben spontán megálljon a gyönyörű helyeken."
+        ],
+        "ro": [
+          "Verificați taxele de parcare în centrul orașului; unele zone au limite de timp.",
+          "Un GPS este util pentru a naviga pe drumurile din afara orașului.",
+          "Planificați-vă deplasările între clustere pentru a evita traficul la orele de vârf.",
+          "Mașina vă oferă flexibilitatea de a opri spontan în locuri frumoase pe vreme bună."
+        ],
+        "en": [
+          "Check parking fees in the city center; some zones have time limits.",
+          "A GPS is useful for navigating the roads outside the city.",
+          "Plan your drives between clusters to avoid rush hour traffic.",
+          "The car gives you the flexibility to stop spontaneously at beautiful spots in good weather."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 11.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Zentrum: Byparken",
+            "hu": "Központi klaszter: Byparken",
+            "ro": "Cluster Centru: Byparken",
+            "en": "City Center Cluster: Byparken"
+          },
+          "coords": [
+            5.273,
+            59.413
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum zentralen Busbahnhof, der nur einen kurzen Spaziergang entfernt ist.",
+            "hu": "Menjen busszal a központi buszpályaudvarra, amely csak egy rövid sétára van.",
+            "ro": "Luați un autobuz până la autogara centrală, care este la o scurtă plimbare.",
+            "en": "Take a bus to the main bus terminal, which is a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Haugesund",
+            "hu": "Haugesundi városháza",
+            "ro": "Primăria din Haugesund",
+            "en": "Haugesund Town Hall"
+          },
+          "coords": [
+            5.278,
+            59.415
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:35",
+          "stay_min": 35,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang durch den Park vom ersten Halt.",
+            "hu": "Szép séta a parkon keresztül az első megállótól.",
+            "ro": "O plimbare frumoasă prin parc de la prima oprire.",
+            "en": "A lovely walk through the park from the first stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Vår Frelsers Kirche",
+            "hu": "Vår Frelsers templom",
+            "ro": "Biserica Vår Frelsers",
+            "en": "Vår Frelsers Church"
+          },
+          "coords": [
+            5.272,
+            59.414
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:22",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Im Herzen des Stadtzentrums leicht zu Fuß erreichbar.",
+            "hu": "A város szívében, könnyen megközelíthető gyalog.",
+            "ro": "În inima centrului orașului, ușor accesibil pe jos.",
+            "en": "Easily reachable on foot in the heart of the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Hafen: Karmsund Volksmuseum",
+            "hu": "Kikötő klaszter: Karmsund Múzeum",
+            "ro": "Cluster Port: Muzeul Karmsund",
+            "en": "Harbour Cluster: Karmsund Museum"
+          },
+          "coords": [
+            5.265,
+            59.411
+          ],
+          "category": "museums",
+          "arrive_at": "11:27",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen kurzen Bus oder machen Sie einen längeren Spaziergang zum Hafengebiet.",
+            "hu": "Menjen egy rövid buszúttal, vagy tegyen egy hosszabb sétát a kikötő területére.",
+            "ro": "Luați un autobuz scurt sau faceți o plimbare mai lungă până în zona portului.",
+            "en": "Take a short bus ride or a longer walk to the harbour area."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Hafen",
+            "hu": "Ebéd a kikötőben",
+            "ro": "Prânz în port",
+            "en": "Lunch at the Harbour"
+          },
+          "coords": [
+            5.266,
+            59.41
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die maritime Atmosphäre und die frischen Meeresfrüchte.",
+            "hu": "Élvezze a tengeri hangulatot és a friss tenger gyümölcseit.",
+            "ro": "Bucurați-vă de atmosfera maritimă și de fructele de mare proaspete.",
+            "en": "Enjoy the maritime atmosphere and the fresh seafood."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Nord: Haraldshaugen",
+            "hu": "Északi klaszter: Haraldshaugen",
+            "ro": "Cluster Nord: Haraldshaugen",
+            "en": "North Cluster: Haraldshaugen"
+          },
+          "coords": [
+            5.259,
+            59.426
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:45",
+          "stay_min": 60,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4,
+          "tip_5lang": {
+            "de": "Eine direkte Buslinie bringt Sie vom Zentrum in die Nähe des Monuments.",
+            "hu": "Közvetlen buszjárat visz a központból az emlékmű közelébe.",
+            "ro": "O linie directă de autobuz vă duce din centru aproape de monument.",
+            "en": "A direct bus line takes you from the center close to the monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Tonjer Leuchtturm",
+            "hu": "Tonjer világítótorony",
+            "ro": "Farul Tonjer",
+            "en": "Tonjer Lighthouse"
+          },
+          "coords": [
+            5.255,
+            59.405
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "16:20",
+          "stay_min": 50,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 4.8,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in Richtung Süden und genießen Sie die Aussicht von diesem malerischen Leuchtturm aus.",
+            "hu": "Menjen busszal dél felé, és élvezze a kilátást ebből a festői világítótoronyból.",
+            "ro": "Luați un autobuz spre sud și bucurați-vă de priveliștea de la acest far pitoresc.",
+            "en": "Take a bus south and enjoy the view from this picturesque lighthouse."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Busnetz von Haugesund können Sie bequem zwischen den Stadtteilen wechseln. Beginnen Sie Ihren Tag im zentralen Cluster mit dem Byparken und dem Rathaus. Ein kurzer Spaziergang führt zur Kirche. Anschließend bringt Sie ein Bus zum Hafengebiet, wo Sie das Karmsund Museum erkunden und zu Mittag essen. Am Nachmittag bringt Sie ein weiterer Bus nach Norden zum geschichtsträchtigen Haraldshaugen. Zum Abschluss des Tages fahren Sie nach Süden zum Tonjer Leuchtturm, um einen letzten Blick auf das Meer zu werfen. Ein Tag, der städtische Erkundung und Küstenlandschaften perfekt verbindet.",
+        "hu": "Haugesund buszhálózatával kényelmesen közlekedhet a városrészek között. Kezdje a napot a központi klaszterben a Byparkennel és a Városházával. Egy rövid séta elvezet a templomhoz. Ezután egy busz elviszi a kikötő területére, ahol felfedezheti a Karmsund Múzeumot és ebédelhet. Délután egy másik busz északra viszi a történelmi Haraldshaugenhez. A nap lezárásaként utazzon délre a Tonjer világítótoronyhoz, hogy utoljára megcsodálhassa a tengert. Egy nap, amely tökéletesen ötvözi a városi felfedezést és a tengerparti tájakat.",
+        "ro": "Rețeaua de autobuze din Haugesund vă permite să vă deplasați convenabil între cartiere. Începeți ziua în clusterul central cu Byparken și Primăria. O scurtă plimbare vă duce la biserică. Apoi, un autobuz vă duce în zona portuară, unde explorați Muzeul Karmsund și luați prânzul. După-amiaza, un alt autobuz vă duce spre nord, la istoricul Haraldshaugen. Pentru a încheia ziua, călătoriți spre sud, la Farul Tonjer, pentru o ultimă priveliște a mării. O zi care combină perfect explorarea urbană și peisajele de coastă.",
+        "en": "Haugesund's bus network allows you to move conveniently between districts. Start your day in the central cluster with Byparken and the Town Hall. A short walk takes you to the church. A bus then takes you to the harbour area, where you can explore the Karmsund Museum and have lunch. In the afternoon, another bus takes you north to the historic Haraldshaugen. To end the day, travel south to the Tonjer Lighthouse for a final view of the sea. A day that perfectly combines urban exploration and coastal landscapes."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fiskesuppe (Fischsuppe)",
+            "tip": "Cremig und voller frischer Meeresfrüchte, ein Muss an der Küste."
+          },
+          {
+            "name": "Lothes Mat & Vinhus",
+            "tip": "Ein historisches Restaurant am Smedasundet mit ausgezeichneten lokalen Gerichten."
+          },
+          {
+            "name": "Raspeballer",
+            "tip": "Traditionelle norwegische Kartoffelklöße, oft donnerstags serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fiskesuppe (Halászlé)",
+            "tip": "Krémes és tele friss tenger gyümölcseivel, kötelező a parton."
+          },
+          {
+            "name": "Lothes Mat & Vinhus",
+            "tip": "Történelmi étterem a Smedasundetnél, kiváló helyi ételekkel."
+          },
+          {
+            "name": "Raspeballer",
+            "tip": "Hagyományos norvég burgonyagombóc, gyakran csütörtökönként szolgálják fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fiskesuppe (Supă de pește)",
+            "tip": "Cremă și plină de fructe de mare proaspete, o necesitate pe coastă."
+          },
+          {
+            "name": "Lothes Mat & Vinhus",
+            "tip": "Un restaurant istoric pe Smedasundet cu mâncăruri locale excelente."
+          },
+          {
+            "name": "Raspeballer",
+            "tip": "Găluște tradiționale norvegiene din cartofi, adesea servite joia."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fiskesuppe (Fish soup)",
+            "tip": "Creamy and full of fresh seafood, a must-try on the coast."
+          },
+          {
+            "name": "Lothes Mat & Vinhus",
+            "tip": "A historic restaurant on the Smedasundet with excellent local dishes."
+          },
+          {
+            "name": "Raspeballer",
+            "tip": "Traditional Norwegian potato dumplings, often served on Thursdays."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang um Djupadalen",
+            "tip": "Ein ruhiges Seengebiet, perfekt für einen friedlichen Spaziergang in der Natur.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Steinsfjellet Aussichtspunkt",
+            "tip": "Bietet einen Panoramablick über die Stadt und das Meer, besonders bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Küste bei Haraldshaugen",
+            "tip": "Sitzen Sie auf den Felsen und lauschen Sie den Wellen für einen Moment der Ruhe.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Djupadalen körül",
+            "tip": "Csendes tóvidék, tökéletes egy békés természetjáráshoz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Steinsfjellet kilátó",
+            "tip": "Panorámás kilátást nyújt a városra és a tengerre, különösen naplementekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Part a Haraldshaugennél",
+            "tip": "Üljön a sziklákra, és hallgassa a hullámokat egy pillanatnyi békéért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare în jurul Djupadalen",
+            "tip": "O zonă lacustră liniștită, perfectă pentru o plimbare pașnică în natură.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Punct de observare Steinsfjellet",
+            "tip": "Oferă o vedere panoramică asupra orașului și a mării, mai ales la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Coasta de la Haraldshaugen",
+            "tip": "Stați pe stânci și ascultați valurile pentru un moment de liniște.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk around Djupadalen",
+            "tip": "A quiet lake area, perfect for a peaceful walk in nature.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Steinsfjellet Viewpoint",
+            "tip": "Offers a panoramic view of the city and the sea, especially at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Coast at Haraldshaugen",
+            "tip": "Sit on the rocks and listen to the waves for a moment of peace.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Haraldsgata",
+            "tip": "Die Haupteinkaufsstraße der Stadt mit einer Mischung aus norwegischen Ketten und unabhängigen Geschäften."
+          },
+          {
+            "name": "Husfliden",
+            "tip": "Kaufen Sie authentisches norwegisches Handwerk, einschließlich Strickwaren und Holzarbeiten."
+          },
+          {
+            "name": "Museumsläden",
+            "tip": "Die Läden im Karmsund- und Dokken-Museum bieten einzigartige Souvenirs mit Bezug zur lokalen Geschichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Haraldsgata",
+            "tip": "A város fő bevásárlóutcája, norvég láncok és független üzletek keverékével."
+          },
+          {
+            "name": "Husfliden",
+            "tip": "Vásároljon autentikus norvég kézműves termékeket, beleértve a kötöttárukat és a fafaragásokat."
+          },
+          {
+            "name": "Múzeumi boltok",
+            "tip": "A Karmsund és Dokken múzeumok üzletei egyedi, a helyi történelemhez kapcsolódó ajándéktárgyakat kínálnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Haraldsgata",
+            "tip": "Principala stradă comercială a orașului, cu un amestec de lanțuri norvegiene și magazine independente."
+          },
+          {
+            "name": "Husfliden",
+            "tip": "Cumpărați meșteșuguri norvegiene autentice, inclusiv tricotaje și obiecte din lemn."
+          },
+          {
+            "name": "Magazinele muzeelor",
+            "tip": "Magazinele de la muzeele Karmsund și Dokken oferă suveniruri unice legate de istoria locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Haraldsgata",
+            "tip": "The city's main shopping street with a mix of Norwegian chains and independent shops."
+          },
+          {
+            "name": "Husfliden",
+            "tip": "Shop for authentic Norwegian handicrafts, including knitwear and woodcarvings."
+          },
+          {
+            "name": "Museum Shops",
+            "tip": "The shops at Karmsund and Dokken museums offer unique souvenirs related to local history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Laden Sie die lokale ÖPNV-App herunter, um Fahrpläne und Routen in Echtzeit zu sehen.",
+          "Beachten Sie, dass die Busse abends und am Wochenende seltener fahren.",
+          "Planen Sie etwas Pufferzeit für Wartezeiten an den Haltestellen ein."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy pénzt takarítson meg.",
+          "Töltse le a helyi tömegközlekedési alkalmazást a valós idejű menetrendekért és útvonalakért.",
+          "Vegye figyelembe, hogy a buszok esténként és hétvégén ritkábban járnak.",
+          "Tervezzen némi puffert a megállókban való várakozásra."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru a economisi bani.",
+          "Descărcați aplicația locală de transport public pentru orare și rute în timp real.",
+          "Rețineți că autobuzele circulă mai rar seara și în weekend.",
+          "Planificați un timp tampon pentru așteptarea în stații."
+        ],
+        "en": [
+          "Buy a day pass for the bus to save money.",
+          "Download the local public transport app for real-time schedules and routes.",
+          "Be aware that buses may run less frequently in the evenings and on weekends.",
+          "Plan some buffer time for waiting at bus stops."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1586 @@
+{
+  "city_id": "belarus-gomel-cities-v2",
+  "anchor": {
+    "name": "Homel",
+    "coords": [
+      30.9833,
+      52.4333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:23",
+      "total_km": 3.1,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Peter-und-Paul-Kathedrale",
+            "hu": "Szent Péter és Pál-székesegyház",
+            "ro": "Catedrala Sfinții Petru și Pavel",
+            "en": "Peter and Paul Cathedral"
+          },
+          "coords": [
+            30.9775,
+            52.4255
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beachten Sie die neoklassizistischen Details und die ruhige Atmosphäre im Inneren.",
+            "hu": "Figyelje meg a neoklasszikus részleteket és a belső tér békés hangulatát.",
+            "ro": "Observați detaliile neoclasice și atmosfera liniștită din interior.",
+            "en": "Note the neoclassical details and the serene atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Grabkapelle der Paskewitschs",
+            "hu": "A Paszkievics család sírkápolnája",
+            "ro": "Capela funerară a familiei Paskevici",
+            "en": "Paskevich family burial chapel"
+          },
+          "coords": [
+            30.9782,
+            52.4261
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:54",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kleines, aber architektonisch reiches Mausoleum. Perfekt für ein paar ruhige Momente.",
+            "hu": "Egy kicsi, de építészetileg gazdag mauzóleum. Tökéletes néhány csendes percre.",
+            "ro": "Un mausoleu mic, dar bogat din punct de vedere arhitectural. Perfect pentru câteva momente de liniște.",
+            "en": "A small but architecturally rich mausoleum. Perfect for a few quiet moments."
+          }
+        },
+        {
+          "name": {
+            "de": "Rumjanzew-Paskewitsch-Palast",
+            "hu": "Rumjancev-Paszkievics-palota",
+            "ro": "Palatul Rumianțev-Paskevici",
+            "en": "Rumyantsev-Paskevich Palace"
+          },
+          "coords": [
+            30.9765,
+            52.4248
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:28",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für das Museum im Inneren, es gibt einen guten Einblick in die Adelsgeschichte.",
+            "hu": "Szánjon időt a belső múzeumra, jó betekintést nyújt a nemesi történelembe.",
+            "ro": "Luați-vă timp pentru muzeul din interior, oferă o perspectivă bună asupra istoriei nobiliare.",
+            "en": "Take time for the museum inside; it offers great insight into aristocratic history."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtsturm",
+            "hu": "Kilátótorony",
+            "ro": "Turn de Observație",
+            "en": "Observation Tower"
+          },
+          "coords": [
+            30.9791,
+            52.4272
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für den Panoramablick über den Park und den Fluss Sosch.",
+            "hu": "Megéri felmászni a parkra és a Szos folyóra nyíló panorámáért.",
+            "ro": "Urcarea merită pentru vederea panoramică asupra parcului și a râului Soj.",
+            "en": "The climb is worth it for the panoramic view over the park and the Sozh River."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Park",
+            "hu": "Ebéd a parkban",
+            "ro": "Prânz în parc",
+            "en": "Lunch in the Park"
+          },
+          "coords": [
+            30.975,
+            52.424
+          ],
+          "category": "gastro",
+          "arrive_at": "12:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Probieren Sie Draniki in einem der Restaurants mit Blick auf den Palast.",
+            "hu": "Kóstolja meg a dranikit az egyik palotára néző étteremben.",
+            "ro": "Încercați draniki la unul dintre restaurantele cu vedere la palat.",
+            "en": "Try some draniki at one of the restaurants with a view of the palace."
+          }
+        },
+        {
+          "name": {
+            "de": "Wintergarten",
+            "hu": "Téli Kert",
+            "ro": "Grădina de Iarnă",
+            "en": "Winter Garden"
+          },
+          "coords": [
+            30.9742,
+            52.4225
+          ],
+          "category": "natural features",
+          "arrive_at": "14:07",
+          "stay_min": 50,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein tropischer Zufluchtsort, besonders an kühleren Tagen. Suchen Sie nach den Papageien.",
+            "hu": "Egy trópusi menedék, különösen a hűvösebb napokon. Keresse a papagájokat!",
+            "ro": "Un refugiu tropical, mai ales în zilele mai răcoroase. Căutați papagalii.",
+            "en": "A tropical escape, especially on cooler days. Look for the parrots."
+          }
+        },
+        {
+          "name": {
+            "de": "Homel Park",
+            "hu": "Gomel Park",
+            "ro": "Parcul Gomel",
+            "en": "Gomel Park"
+          },
+          "coords": [
+            30.9755,
+            52.4235
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:01",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein gemütlicher Spaziergang entlang des Flusses ist der perfekte Abschluss des Besuchs im Palastkomplex.",
+            "hu": "Egy kellemes séta a folyó mentén tökéletes lezárása a palotakomplexum látogatásának.",
+            "ro": "O plimbare agale de-a lungul râului este modul perfect de a încheia vizita la complexul palatului.",
+            "en": "A leisurely stroll along the river is the perfect way to end the palace complex visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Dramatheater Homel",
+            "hu": "Gomeli Drámai Színház",
+            "ro": "Teatrul Dramatic din Gomel",
+            "en": "Gomel Drama Theatre"
+          },
+          "coords": [
+            30.9855,
+            52.431
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:27",
+          "stay_min": 26,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die sowjetische neoklassizistische Architektur, auch wenn Sie keine Vorstellung besuchen.",
+            "hu": "Csodálja meg a szovjet neoklasszikus építészetet, még ha nem is megy előadásra.",
+            "ro": "Admirați arhitectura neoclasică sovietică, chiar dacă nu participați la un spectacol.",
+            "en": "Admire the Soviet neoclassical architecture, even if you're not seeing a show."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Homel beginnt im Herzen der Geschichte, der majestätischen Peter-und-Paul-Kathedrale. Der Morgen ist der Erkundung des weitläufigen Palast- und Parkensembles gewidmet, wo jedes Gebäude eine eigene Geschichte erzählt.\nNach einem stärkenden Mittagessen mit lokalen Spezialitäten tauchen Sie in die exotische Welt des Wintergartens ein. Die tropischen Pflanzen bieten einen wunderbaren Kontrast zur klassischen Architektur des Palastes.\nAm Nachmittag schlendern Sie durch den malerischen Homel Park entlang des Flusses Sosch und genießen die friedliche Atmosphäre. Die frische Luft und die grüne Umgebung sind ideal, um die Eindrücke des Vormittags zu verarbeiten.\nIhre Erkundungstour endet mit einem Blick auf das imposante Gebäude des Dramatheaters. Es ist ein Symbol der reichen Kulturszene der Stadt und ein perfekter Schlusspunkt für einen Tag voller Entdeckungen.",
+        "hu": "A nap Homelben a történelem szívében, a fenséges Szent Péter és Pál-székesegyháznál kezdődik. A délelőtt a kiterjedt palota- és parkegyüttes felfedezésével telik, ahol minden épület saját történetet mesél.\nEgy helyi specialitásokból álló, feltöltő ebéd után elmerülhet a Téli Kert egzotikus világában. A trópusi növények csodálatos kontrasztot alkotnak a palota klasszikus építészetével.\n délután a festői Gomel Parkban sétálhat a Szos folyó mentén, élvezve a békés hangulatot. A friss levegő és a zöld környezet ideális a délelőtti benyomások feldolgozásához.\nA felfedezőút a Drámai Színház impozáns épületének megtekintésével zárul. Ez a város gazdag kulturális életének szimbóluma és tökéletes befejezése egy felfedezésekkel teli napnak.",
+        "ro": "Ziua dumneavoastră în Gomel începe în inima istoriei, la majestuoasa Catedrală Sfinții Petru și Pavel. Dimineața este dedicată explorării vastului ansamblu de palat și parc, unde fiecare clădire spune o poveste proprie.\nDupă un prânz revigorant cu specialități locale, vă veți scufunda în lumea exotică a Grădinii de Iarnă. Plantele tropicale oferă un contrast minunat cu arhitectura clasică a palatului.\nDupă-amiaza, vă veți plimba prin pitorescul Parc Gomel de-a lungul râului Soj, bucurându-vă de atmosfera pașnică. Aerul proaspăt și mediul verde sunt ideale pentru a procesa impresiile de dimineață.\nTurul dumneavoastră de explorare se încheie cu o privire asupra clădirii impunătoare a Teatrului Dramatic. Este un simbol al scenei culturale bogate a orașului și un punct final perfect pentru o zi plină de descoperiri.",
+        "en": "Your day in Gomel begins in the heart of its history, the majestic Peter and Paul Cathedral. The morning is dedicated to exploring the vast palace and park ensemble, where each building tells its own story.\nAfter a refreshing lunch of local specialties, you'll dive into the exotic world of the Winter Garden. The tropical plants provide a wonderful contrast to the classical architecture of the palace.\nIn the afternoon, you'll stroll through the picturesque Gomel Park along the Sozh River, enjoying the peaceful atmosphere. The fresh air and green surroundings are ideal for processing the morning's impressions.\nYour exploratory tour concludes with a look at the imposing building of the Drama Theatre. It is a symbol of the city's rich cultural scene and a perfect end to a day full of discovery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Draniki",
+            "tip": "Kartoffelpuffer, oft mit Sauerrahm serviert. Ein Muss in Belarus."
+          },
+          {
+            "name": "Kolduny",
+            "tip": "Gefüllte Teigtaschen, ähnlich wie Pelmeni, aber oft mit Kartoffelteig."
+          },
+          {
+            "name": "Borschtsch",
+            "tip": "Die belarussische Variante dieser berühmten Rote-Bete-Suppe ist oft kalt und erfrischend."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Draniki",
+            "tip": "Krumplilángos, gyakran tejföllel tálalva. Kötelező Fehéroroszországban."
+          },
+          {
+            "name": "Kolduny",
+            "tip": "Töltött táskák, hasonlóak a pelmenihez, de gyakran krumplitésztával készülnek."
+          },
+          {
+            "name": "Borscs",
+            "tip": "Ennek a híres céklalevesnek a fehérorosz változata gyakran hideg és frissítő."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Draniki",
+            "tip": "Clătite de cartofi, adesea servite cu smântână. O delicatesă obligatorie în Belarus."
+          },
+          {
+            "name": "Kolduny",
+            "tip": "Găluște umplute, similare cu pelmeni, dar adesea făcute cu aluat de cartofi."
+          },
+          {
+            "name": "Borș",
+            "tip": "Versiunea belarusă a acestei faimoase supe de sfeclă roșie este adesea rece și răcoritoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Draniki",
+            "tip": "Potato pancakes, often served with sour cream. A must-try in Belarus."
+          },
+          {
+            "name": "Kolduny",
+            "tip": "Stuffed dumplings, similar to pelmeni but often made with potato dough."
+          },
+          {
+            "name": "Borscht",
+            "tip": "The Belarusian version of this famous beetroot soup is often cold and refreshing."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Sosch Flusses",
+            "tip": "Finden Sie eine Bank im Homel Park mit Blick auf den Fluss für einen Moment der Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Inneres der Kathedrale",
+            "tip": "Abseits der Hauptzeiten ist die Peter-und-Paul-Kathedrale ein Ort der Stille.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Wintergarten",
+            "tip": "Die Wärme und das leise Plätschern von Wasser schaffen eine beruhigende Atmosphäre.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Szos folyó partja",
+            "tip": "Keressen egy padot a Gomel Parkban, kilátással a folyóra egy csendes pillanatért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A székesegyház belseje",
+            "tip": "A csúcsidőn kívül a Szent Péter és Pál-székesegyház a csend helye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Téli Kert",
+            "tip": "A meleg és a víz halk csobogása nyugtató légkört teremt.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Soj",
+            "tip": "Găsiți o bancă în Parcul Gomel cu vedere la râu pentru un moment de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Interiorul Catedralei",
+            "tip": "În afara orelor de vârf, Catedrala Sfinții Petru și Pavel este un loc de liniște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădina de Iarnă",
+            "tip": "Căldura și susurul apei creează o atmosferă calmantă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bank of the Sozh River",
+            "tip": "Find a bench in Gomel Park overlooking the river for a moment of peace.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Inside the Cathedral",
+            "tip": "Outside of peak hours, the Peter and Paul Cathedral is a place of silence.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Winter Garden",
+            "tip": "The warmth and the quiet trickle of water create a soothing atmosphere.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sowjetskaja Straße",
+            "tip": "Die Hauptstraße der Stadt bietet eine Mischung aus modernen Geschäften und lokalen Boutiquen."
+          },
+          {
+            "name": "Lokale Märkte",
+            "tip": "Suchen Sie nach handgefertigten Leinenprodukten und Holzschnitzereien, typische belarussische Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szovjetszkaja utca",
+            "tip": "A város főutcája modern üzletek és helyi butikok keverékét kínálja."
+          },
+          {
+            "name": "Helyi piacok",
+            "tip": "Keressen kézzel készített lenvászon termékeket és fafaragásokat, tipikus fehérorosz szuveníreket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Sovetskaya",
+            "tip": "Strada principală a orașului oferă un amestec de magazine moderne și buticuri locale."
+          },
+          {
+            "name": "Piețe locale",
+            "tip": "Căutați produse artizanale din in și sculpturi în lemn, suveniruri tipice belaruse."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sovetskaya Street",
+            "tip": "The city's main street offers a mix of modern shops and local boutiques."
+          },
+          {
+            "name": "Local Markets",
+            "tip": "Look for handmade linen products and wood carvings, typical Belarusian souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da dieser Plan viel zu Fuß beinhaltet.",
+          "Der Palast- und Parkkomplex ist weitläufig; planen Sie genügend Zeit ein und hetzen Sie nicht.",
+          "Eine wiederverwendbare Wasserflasche ist eine gute Idee, besonders in den wärmeren Monaten.",
+          "Überprüfen Sie die Öffnungszeiten der Museen im Voraus, da diese variieren können."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel ez a terv sok gyaloglást tartalmaz.",
+          "A palota- és parkkomplexum hatalmas; szánjon rá elég időt, és ne siessen.",
+          "Egy újratölthető vizes palack jó ötlet, különösen a melegebb hónapokban.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét, mivel az változhat."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece acest plan implică mult mers pe jos.",
+          "Complexul de palat și parc este extins; alocați suficient timp și nu vă grăbiți.",
+          "O sticlă de apă reutilizabilă este o idee bună, mai ales în lunile mai calde.",
+          "Verificați în avans orele de deschidere ale muzeelor, deoarece acestea pot varia."
+        ],
+        "en": [
+          "Wear comfortable shoes as this plan involves a lot of walking.",
+          "The palace and park complex is extensive; allow plenty of time and don't rush.",
+          "A reusable water bottle is a good idea, especially in the warmer months.",
+          "Check museum opening times in advance as they can vary."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 7.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Dramatheater Homel",
+            "hu": "Gomeli Drámai Színház",
+            "ro": "Teatrul Dramatic din Gomel",
+            "en": "Gomel Drama Theatre"
+          },
+          "coords": [
+            30.9855,
+            52.431
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Foto dieses beeindruckenden Beispiels sowjetischer Architektur.",
+            "hu": "Kezdje a napot egy fotóval erről a lenyűgöző szovjet építészeti példáról.",
+            "ro": "Începeți ziua cu o fotografie a acestui exemplu impresionant de arhitectură sovietică.",
+            "en": "Start the day with a photo of this impressive example of Soviet architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Zirkus Homel",
+            "hu": "Gomeli Cirkusz",
+            "ro": "Circul din Gomel",
+            "en": "Gomel Circus"
+          },
+          "coords": [
+            30.995,
+            52.435
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:39",
+          "stay_min": 20,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Das futuristische, UFO-ähnliche Gebäude ist auch von außen ein interessanter Anblick.",
+            "hu": "A futurisztikus, UFO-szerű épület kívülről is érdekes látványt nyújt.",
+            "ro": "Clădirea futuristă, asemănătoare unui OZN, este o priveliște interesantă și din exterior.",
+            "en": "The futuristic, UFO-like building is an interesting sight even from the outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Peter-und-Paul-Kathedrale",
+            "hu": "Szent Péter és Pál-székesegyház",
+            "ro": "Catedrala Sfinții Petru și Pavel",
+            "en": "Peter and Paul Cathedral"
+          },
+          "coords": [
+            30.9775,
+            52.4255
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Ein Moment der Ruhe, bevor Sie den Rest des Palastkomplexes erkunden.",
+            "hu": "Egy pillanatnyi csend, mielőtt felfedezné a palotakomplexum többi részét.",
+            "ro": "Un moment de liniște înainte de a explora restul complexului palatului.",
+            "en": "A moment of tranquility before exploring the rest of the palace complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Rumjanzew-Paskewitsch-Palast",
+            "hu": "Rumjancev-Paszkievics-palota",
+            "ro": "Palatul Rumianțev-Paskevici",
+            "en": "Rumyantsev-Paskevich Palace"
+          },
+          "coords": [
+            30.9765,
+            52.4248
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:57",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab und nehmen Sie sich Zeit für die reichhaltigen Sammlungen im Inneren.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és szánjon időt a gazdag belső gyűjteményekre.",
+            "ro": "Asigurați-vă bicicleta și acordați-vă timp pentru colecțiile bogate din interior.",
+            "en": "Lock your bike securely and take your time for the rich collections inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtsturm",
+            "hu": "Kilátótorony",
+            "ro": "Turn de Observație",
+            "en": "Observation Tower"
+          },
+          "coords": [
+            30.9791,
+            52.4272
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Eine kurze Pause vom Radfahren für eine großartige Aussicht.",
+            "hu": "Egy rövid pihenő a biciklizésben egy nagyszerű kilátásért.",
+            "ro": "O scurtă pauză de la ciclism pentru o priveliște minunată.",
+            "en": "A short break from cycling for a great view."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Fluss",
+            "hu": "Ebéd a folyónál",
+            "ro": "Prânz pe malul râului",
+            "en": "Lunch by the river"
+          },
+          "coords": [
+            30.972,
+            52.421
+          ],
+          "category": "gastro",
+          "arrive_at": "13:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Stärken Sie sich in einem der Cafés entlang der Promenade.",
+            "hu": "Erősítse meg magát a sétány egyik kávézójában.",
+            "ro": "Întăriți-vă la una dintre cafenelele de pe promenadă.",
+            "en": "Recharge at one of the cafes along the promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Wintergarten",
+            "hu": "Téli Kert",
+            "ro": "Grădina de Iarnă",
+            "en": "Winter Garden"
+          },
+          "coords": [
+            30.9742,
+            52.4225
+          ],
+          "category": "natural features",
+          "arrive_at": "14:19",
+          "stay_min": 50,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Eine warme Oase, perfekt um sich nach dem Mittagessen zu entspannen.",
+            "hu": "Egy meleg oázis, tökéletes az ebéd utáni pihenéshez.",
+            "ro": "O oază caldă, perfectă pentru relaxare după prânz.",
+            "en": "A warm oasis, perfect for relaxing after lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Radtour im Homel Park",
+            "hu": "Kerékpártúra a Gomel Parkban",
+            "ro": "Tur cu bicicleta în Parcul Gomel",
+            "en": "Bike ride in Gomel Park"
+          },
+          "coords": [
+            30.9755,
+            52.4235
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:21",
+          "stay_min": 79,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Wege des Parks für eine letzte gemütliche Runde, bevor Sie den Tag ausklingen lassen.",
+            "hu": "Használja ki a park ösvényeit egy utolsó, kellemes körre, mielőtt lezárja a napot.",
+            "ro": "Folosiți aleile parcului pentru o ultimă tură relaxantă înainte de a încheia ziua.",
+            "en": "Use the park's paths for a final leisurely loop before winding down the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Fahrrad und starten Sie am imposanten Dramatheater. Eine kurze Fahrt führt Sie zum futuristischen Zirkusgebäude, einem einzigartigen Fotomotiv. Von dort aus radeln Sie zum historischen Kern der Stadt.\nDer zentrale Teil Ihrer Tour konzentriert sich auf den Palastkomplex. Sie stellen Ihr Rad ab, um die Kathedrale, den prächtigen Palast und den Aussichtsturm zu Fuß zu erkunden. Der Aufstieg wird mit einer fantastischen Aussicht belohnt.\nNach einem Mittagessen am Flussufer geht es weiter zum tropischen Wintergarten. Der Nachmittag ist einer entspannten Radtour durch den weitläufigen Homel Park gewidmet, bei der Sie die Natur und die Ruhe genießen.\nIhre Fahrradtour endet mit einer letzten Runde durch den Park, während die Sonne langsam untergeht. Es ist die perfekte Möglichkeit, die vielfältigen Eindrücke von Homels Kultur und Natur zu verbinden.",
+        "hu": "Pattanjon kerékpárra, és induljon az impozáns Drámai Színháztól. Egy rövid tekerés a futurisztikus Cirkusz épületéhez vezet, amely egyedülálló fotótéma. Onnan a város történelmi magjába kerekezik.\nA túra központi része a palotakomplexumra összpontosít. Leteszi a biciklit, hogy gyalog fedezze fel a székesegyházat, a pompás palotát és a kilátótornyot. A mászást fantasztikus kilátás jutalmazza.\nEgy folyóparti ebéd után az út a trópusi Téli Kertbe vezet. A délután egy laza kerékpártúrával telik a tágas Gomel Parkban, ahol élvezheti a természetet és a nyugalmat.\nA kerékpártúra a parkban tett utolsó körrel ér véget, miközben a nap lassan lenyugszik. Ez a tökéletes módja annak, hogy összekapcsolja Gomel kultúrájának és természetének sokszínű benyomásait.",
+        "ro": "Urcați-vă pe bicicletă și porniți de la impunătorul Teatru Dramatic. O scurtă plimbare vă duce la clădirea futuristă a Circului, un subiect foto unic. De acolo, pedalați spre centrul istoric al orașului.\nPartea centrală a turului se concentrează pe complexul palatului. Lăsați bicicleta pentru a explora pe jos catedrala, palatul magnific și turnul de observație. Urcarea este răsplătită cu o priveliște fantastică.\nDupă un prânz pe malul râului, continuați spre Grădina de Iarnă tropicală. După-amiaza este dedicată unui tur relaxat cu bicicleta prin vastul Parc Gomel, bucurându-vă de natură și liniște.\nTurul cu bicicleta se încheie cu o ultimă tură prin parc, în timp ce soarele apune încet. Este modalitatea perfectă de a combina impresiile diverse ale culturii și naturii din Gomel.",
+        "en": "Hop on your bike and start at the imposing Drama Theatre. A short ride takes you to the futuristic Circus building, a unique photo opportunity. From there, you'll cycle to the city's historic core.\nThe central part of your tour focuses on the palace complex. You'll park your bike to explore the cathedral, the magnificent palace, and the observation tower on foot. The climb is rewarded with a fantastic view.\nAfter lunch by the river, you'll continue to the tropical Winter Garden. The afternoon is dedicated to a relaxed bike ride through the expansive Gomel Park, enjoying nature and tranquility.\nYour bike tour ends with a final loop through the park as the sun slowly sets. It's the perfect way to combine the diverse impressions of Gomel's culture and nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Draniki",
+            "tip": "Der perfekte Energieschub nach einer Radtour. Suchen Sie nach Ständen im Park."
+          },
+          {
+            "name": "Kwas",
+            "tip": "Ein traditionelles, leicht fermentiertes Getränk aus Brot, sehr erfrischend."
+          },
+          {
+            "name": "Syrniki",
+            "tip": "Kleine Quarkpfannkuchen, ideal für eine süße Pause mit Kaffee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Draniki",
+            "tip": "Tökéletes energia löket egy biciklitúra után. Keressen standokat a parkban."
+          },
+          {
+            "name": "Kvasz",
+            "tip": "Hagyományos, enyhén erjesztett ital kenyérből, nagyon frissítő."
+          },
+          {
+            "name": "Syrniki",
+            "tip": "Kis túrós palacsinták, ideálisak egy édes szünethez kávéval."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Draniki",
+            "tip": "Impulsul perfect de energie după o plimbare cu bicicleta. Căutați standuri în parc."
+          },
+          {
+            "name": "Cvas",
+            "tip": "O băutură tradițională, ușor fermentată, din pâine, foarte răcoritoare."
+          },
+          {
+            "name": "Syrniki",
+            "tip": "Mici clătite din brânză de vaci, ideale pentru o pauză dulce cu cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Draniki",
+            "tip": "The perfect energy boost after a bike ride. Look for stalls in the park."
+          },
+          {
+            "name": "Kvass",
+            "tip": "A traditional, lightly fermented drink made from bread, very refreshing."
+          },
+          {
+            "name": "Syrniki",
+            "tip": "Small quark pancakes, ideal for a sweet break with coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schwanenteich im Park",
+            "tip": "Ein besonders ruhiger Teil des Parks, ideal zum Beobachten der Vögel.",
+            "emoji": "🦢"
+          },
+          {
+            "name": "Uferpromenade",
+            "tip": "Stellen Sie Ihr Fahrrad ab und genießen Sie den Blick auf das Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bank im Palastgarten",
+            "tip": "Nach dem Besuch des Palastes können Sie hier die Eindrücke Revue passieren lassen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hattyú-tó a parkban",
+            "tip": "A park egy különösen csendes része, ideális a madarak megfigyelésére.",
+            "emoji": "🦢"
+          },
+          {
+            "name": "Folyóparti sétány",
+            "tip": "Tegye le a biciklit és élvezze a víz látványát.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pad a palotakertben",
+            "tip": "A palota meglátogatása után itt átgondolhatja a benyomásait.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul lebedelor din parc",
+            "tip": "O parte deosebit de liniștită a parcului, ideală pentru observarea păsărilor.",
+            "emoji": "🦢"
+          },
+          {
+            "name": "Promenada de pe malul râului",
+            "tip": "Lăsați bicicleta și bucurați-vă de priveliștea apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bancă în grădina palatului",
+            "tip": "După vizitarea palatului, puteți reflecta asupra impresiilor aici.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Swan Lake in the Park",
+            "tip": "A particularly quiet part of the park, ideal for bird watching.",
+            "emoji": "🦢"
+          },
+          {
+            "name": "Riverfront Promenade",
+            "tip": "Park your bike and enjoy the view of the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bench in the Palace Garden",
+            "tip": "After visiting the palace, you can reflect on your impressions here.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zentralmarkt (Rynok)",
+            "tip": "Erleben Sie das lokale Leben und finden Sie frische Produkte sowie Haushaltswaren."
+          },
+          {
+            "name": "Souvenirstände im Park",
+            "tip": "Ideal für kleine Andenken wie Magnete, Postkarten und Matroschkas."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi piac (Rynok)",
+            "tip": "Tapasztalja meg a helyi életet, és találjon friss termékeket, valamint háztartási cikkeket."
+          },
+          {
+            "name": "Szuvenír standok a parkban",
+            "tip": "Ideális kis emléktárgyakhoz, mint mágnesek, képeslapok és matrjoska babák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Centrală (Rynok)",
+            "tip": "Experimentați viața locală și găsiți produse proaspete, precum și articole de uz casnic."
+          },
+          {
+            "name": "Standuri de suveniruri în parc",
+            "tip": "Ideal pentru mici suveniruri precum magneți, vederi și păpuși Matrioșka."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Market (Rynok)",
+            "tip": "Experience local life and find fresh produce as well as household goods."
+          },
+          {
+            "name": "Souvenir stalls in the park",
+            "tip": "Ideal for small keepsakes like magnets, postcards, and matryoshka dolls."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Homel ist relativ flach, aber einige Brücken haben leichte Steigungen.",
+          "Achten Sie auf Fußgänger auf den gemeinsamen Wegen im Park.",
+          "Ein Fahrradschloss ist unerlässlich, um Ihr Rad sicher abzustellen, während Sie die Sehenswürdigkeiten besichtigen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját, különösen a fékeket és a gumikat.",
+          "Gomel viszonylag sík, de néhány hídnak enyhe emelkedője van.",
+          "Vigyázzon a gyalogosokra a park közös útjain.",
+          "A kerékpárzár elengedhetetlen a bicikli biztonságos leállításához, amíg a látnivalókat nézi."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele și anvelopele.",
+          "Gomel este relativ plat, dar unele poduri au pante ușoare.",
+          "Fiți atenți la pietoni pe aleile comune din parc.",
+          "Un lacăt pentru bicicletă este esențial pentru a vă parca bicicleta în siguranță în timp ce vizitați obiectivele turistice."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes and tires.",
+          "Gomel is relatively flat, but some bridges have slight inclines.",
+          "Be mindful of pedestrians on the shared paths in the park.",
+          "A bike lock is essential to park your bike safely while you visit the sights."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 9.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Palastkomplex",
+            "hu": "Parkoló a palotakomplexumnál",
+            "ro": "Parcare la complexul palatului",
+            "en": "Parking at the Palace Complex"
+          },
+          "coords": [
+            30.98,
+            52.427
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Kommen Sie früh an, um einen guten Parkplatz zu finden. Dies ist Ihr erster Cluster.",
+            "hu": "Érkezzen korán, hogy jó parkolóhelyet találjon. Ez az első klaszter.",
+            "ro": "Ajungeți devreme pentru a găsi un loc bun de parcare. Acesta este primul dumneavoastră cluster.",
+            "en": "Arrive early to find a good parking spot. This is your first cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Peter-und-Paul-Kathedrale",
+            "hu": "Szent Péter és Pál-székesegyház",
+            "ro": "Catedrala Sfinții Petru și Pavel",
+            "en": "Peter and Paul Cathedral"
+          },
+          "coords": [
+            30.9775,
+            52.4255
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ihr erster Halt zu Fuß innerhalb des Park-Clusters.",
+            "hu": "Az első gyalogos megálló a park-klaszteren belül.",
+            "ro": "Prima dumneavoastră oprire pe jos în cadrul clusterului parcului.",
+            "en": "Your first walking stop within the park cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Rumjanzew-Paskewitsch-Palast",
+            "hu": "Rumjancev-Paszkievics-palota",
+            "ro": "Palatul Rumianțev-Paskevici",
+            "en": "Rumyantsev-Paskevich Palace"
+          },
+          "coords": [
+            30.9765,
+            52.4248
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:01",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Herzstück des Komplexes, lassen Sie sich Zeit für die Ausstellungen.",
+            "hu": "A komplexum szívét képezi, szánjon időt a kiállításokra.",
+            "ro": "Piesa centrală a complexului, acordați-vă timp pentru expoziții.",
+            "en": "The centerpiece of the complex, allow time for the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtsturm & Wintergarten",
+            "hu": "Kilátótorony és Téli Kert",
+            "ro": "Turn de Observație & Grădina de Iarnă",
+            "en": "Observation Tower & Winter Garden"
+          },
+          "coords": [
+            30.9791,
+            52.4272
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:37",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Panoramablick mit einem Besuch der tropischen Pflanzenwelt.",
+            "hu": "Kombinálja a panorámás kilátást a trópusi növényvilág meglátogatásával.",
+            "ro": "Combinați vederea panoramică cu o vizită la flora tropicală.",
+            "en": "Combine the panoramic view with a visit to the tropical flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz am Theater",
+            "hu": "Parkoló a színháznál",
+            "ro": "Parcare la teatru",
+            "en": "Parking at the Theatre"
+          },
+          "coords": [
+            30.986,
+            52.43
+          ],
+          "category": "transport",
+          "arrive_at": "12:49",
+          "stay_min": 5,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Neuer Cluster, neues Parken. Von hier aus erkunden Sie das Stadtzentrum zu Fuß.",
+            "hu": "Új klaszter, új parkoló. Innen gyalog fedezheti fel a városközpontot.",
+            "ro": "Cluster nou, parcare nouă. De aici explorați centrul orașului pe jos.",
+            "en": "New cluster, new parking. From here, explore the city center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the Center"
+          },
+          "coords": [
+            30.985,
+            52.432
+          ],
+          "category": "gastro",
+          "arrive_at": "12:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Wählen Sie ein Restaurant in der Nähe des Theaters für eine authentische Mahlzeit.",
+            "hu": "Válasszon egy éttermet a színház közelében egy autentikus étkezéshez.",
+            "ro": "Alegeți un restaurant lângă teatru pentru o masă autentică.",
+            "en": "Choose a restaurant near the theatre for an authentic meal."
+          }
+        },
+        {
+          "name": {
+            "de": "Dramatheater Homel",
+            "hu": "Gomeli Drámai Színház",
+            "ro": "Teatrul Dramatic din Gomel",
+            "en": "Gomel Drama Theatre"
+          },
+          "coords": [
+            30.9855,
+            52.431
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang nach dem Mittagessen, um die Fassade zu bewundern.",
+            "hu": "Egy rövid séta ebéd után, hogy megcsodálhassa a homlokzatot.",
+            "ro": "O scurtă plimbare după prânz pentru a admira fațada.",
+            "en": "A short walk after lunch to admire the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Zirkus Homel (Fahrt vorbei)",
+            "hu": "Gomeli Cirkusz (elhajtás mellette)",
+            "ro": "Circul din Gomel (trecere cu mașina)",
+            "en": "Gomel Circus (drive-by)"
+          },
+          "coords": [
+            30.995,
+            52.435
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:01",
+          "stay_min": 90,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Der letzte Cluster des Tages. Parken Sie und genießen Sie die Atmosphäre oder eine Show, falls verfügbar.",
+            "hu": "A nap utolsó klasztere. Parkoljon le és élvezze a hangulatot vagy egy előadást, ha van.",
+            "ro": "Ultimul cluster al zilei. Parcați și bucurați-vă de atmosferă sau de un spectacol, dacă este disponibil.",
+            "en": "The last cluster of the day. Park and enjoy the atmosphere or a show if available."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Homel beginnt mit dem Parken im ersten Cluster: dem prächtigen Palast- und Parkensemble. Hier erkunden Sie die Kathedrale, den Palast und den Aussichtsturm bequem zu Fuß und kehren für den nächsten Sprung zum Auto zurück.\nNachdem Sie die historischen Juwelen erkundet haben, fahren Sie in den zweiten Cluster im Stadtzentrum. Nach dem Mittagessen in einem lokalen Restaurant steht ein kurzer Spaziergang zum imposanten Dramatheater auf dem Programm.\nDer Nachmittag bringt einen weiteren kurzen Autowechsel zum dritten Cluster: dem Unterhaltungsviertel rund um den Zirkus. Die charakteristische Architektur des Gebäudes ist ein faszinierender Anblick.\nDer Tag endet hier, nachdem Sie drei verschiedene Facetten von Homel erlebt haben – von der aristokratischen Geschichte über das städtische Kulturleben bis hin zur einzigartigen modernen Architektur. Sie kehren mit vielen Eindrücken zu Ihrem Auto zurück.",
+        "hu": "Az autós nap Homelben az első klaszternél, a csodálatos palota- és parkegyüttesnél történő parkolással kezdődik. Itt kényelmesen, gyalogosan fedezheti fel a székesegyházat, a palotát és a kilátótornyot, majd visszatér az autóhoz a következő ugráshoz.\nMiután felfedezte a történelmi ékköveket, a második klaszterbe, a városközpontba hajt. Ebéd után egy helyi étteremben egy rövid séta következik az impozáns Drámai Színházhoz.\nA délután egy újabb rövid autóváltást hoz a harmadik klaszterhez: a Cirkusz körüli szórakoztató negyedhez. Az épület jellegzetes építészete lenyűgöző látványt nyújt.\nA nap itt ér véget, miután Homel három különböző arcát tapasztalta meg – az arisztokrata történelemtől a városi kulturális életen át az egyedi modern építészetig. Sok benyomással tér vissza az autójához.",
+        "ro": "Ziua dumneavoastră cu mașina în Gomel începe cu parcarea în primul cluster: magnificul ansamblu de palat și parc. Aici explorați catedrala, palatul și turnul de observație confortabil pe jos, revenind la mașină pentru următoarea deplasare.\nDupă ce ați explorat bijuteriile istorice, conduceți spre al doilea cluster în centrul orașului. După prânz la un restaurant local, programul include o scurtă plimbare până la impunătorul Teatru Dramatic.\nDupă-amiaza aduce o altă schimbare scurtă de mașină către al treilea cluster: cartierul de divertisment din jurul Circului. Arhitectura distinctivă a clădirii este o priveliște fascinantă.\nZiua se încheie aici, după ce ați experimentat trei fațete diferite ale Gomelului – de la istoria aristocratică și viața culturală urbană la arhitectura modernă unică. Vă întoarceți la mașină cu multe impresii.",
+        "en": "Your car day in Gomel starts by parking at the first cluster: the magnificent palace and park ensemble. Here, you'll explore the cathedral, palace, and observation tower comfortably on foot, returning to the car for the next hop.\nAfter exploring the historical gems, you'll drive to the second cluster in the city center. Following lunch at a local restaurant, a short walk to the imposing Drama Theatre is on the agenda.\nThe afternoon brings another short car hop to the third cluster: the entertainment district around the Circus. The building's distinctive architecture is a fascinating sight.\nThe day concludes here, having experienced three different facets of Gomel – from aristocratic history and urban cultural life to unique modern architecture. You return to your car full of impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Machanka",
+            "tip": "Ein herzhafter Fleischeintopf, oft mit Pfannkuchen serviert. Ideal für ein ausgiebiges Mittagessen."
+          },
+          {
+            "name": "Restaurant 'Staroye Vremya'",
+            "tip": "Bekannt für seine traditionelle belarussische Küche in historischem Ambiente."
+          },
+          {
+            "name": "Café 'Madlen'",
+            "tip": "Ein guter Ort für Kaffee und Kuchen nach dem Besuch des Theater-Clusters."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Machanka",
+            "tip": "Kiadós húsos ragu, gyakran palacsintával tálalva. Ideális egy bőséges ebédhez."
+          },
+          {
+            "name": "„Staroye Vremya” étterem",
+            "tip": "Híres hagyományos fehérorosz konyhájáról, történelmi környezetben."
+          },
+          {
+            "name": "„Madlen” kávézó",
+            "tip": "Jó hely egy kávéra és süteményre a színházi klaszter meglátogatása után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Machanka",
+            "tip": "O tocană de carne consistentă, adesea servită cu clătite. Ideală pentru un prânz copios."
+          },
+          {
+            "name": "Restaurantul 'Staroye Vremya'",
+            "tip": "Renumit pentru bucătăria sa tradițională belarusă într-un cadru istoric."
+          },
+          {
+            "name": "Cafeneaua 'Madlen'",
+            "tip": "Un loc bun pentru cafea și prăjituri după vizitarea clusterului teatral."
+          }
+        ],
+        "en": [
+          {
+            "name": "Machanka",
+            "tip": "A hearty meat stew, often served with pancakes. Ideal for a substantial lunch."
+          },
+          {
+            "name": "Restaurant 'Staroye Vremya'",
+            "tip": "Known for its traditional Belarusian cuisine in a historic setting."
+          },
+          {
+            "name": "Café 'Madlen'",
+            "tip": "A good spot for coffee and cake after visiting the theatre cluster."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang im Park",
+            "tip": "Nach dem Parken am Palastkomplex ist ein kurzer Spaziergang am Fluss eine gute Möglichkeit, den Tag zu beginnen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Lenin-Platz",
+            "tip": "Ein weitläufiger Platz in der Nähe des Theaters, der oft überraschend ruhig ist.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Blick vom Aussichtsturm",
+            "tip": "Genießen Sie die Stille über den Baumwipfeln.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a parkban",
+            "tip": "Miután leparkolt a palotakomplexumnál, egy rövid séta a folyóparton jó módja a nap kezdésének.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Lenin tér",
+            "tip": "Egy tágas tér a színház közelében, amely gyakran meglepően csendes.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Kilátás a kilátótoronyból",
+            "tip": "Élvezze a csendet a fák lombkoronája felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare în parc",
+            "tip": "După parcarea la complexul palatului, o scurtă plimbare pe malul râului este o modalitate bună de a începe ziua.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Piața Lenin",
+            "tip": "O piață vastă lângă teatru, care este adesea surprinzător de liniștită.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Vedere din turnul de observație",
+            "tip": "Bucurați-vă de liniștea de deasupra coroanelor copacilor.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk in the Park",
+            "tip": "After parking at the palace complex, a short walk by the river is a great way to start the day.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Lenin Square",
+            "tip": "A vast square near the theatre that is often surprisingly quiet.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "View from the Observation Tower",
+            "tip": "Enjoy the silence above the treetops.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kaufhaus 'Gomel'",
+            "tip": "Ein klassisches sowjetisches Kaufhaus, in dem Sie alles von Kleidung bis zu lokalen Produkten finden."
+          },
+          {
+            "name": "Kunstgalerien",
+            "tip": "Suchen Sie nach kleinen Galerien in der Nähe der Sowjetskaja-Straße für einzigartige Kunstwerke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "„Gomel” áruház",
+            "tip": "Klasszikus szovjet áruház, ahol a ruházattól a helyi termékekig mindent megtalál."
+          },
+          {
+            "name": "Művészeti galériák",
+            "tip": "Keressen kis galériákat a Szovjetszkaja utca közelében egyedi műalkotásokért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul universal 'Gomel'",
+            "tip": "Un magazin universal sovietic clasic unde puteți găsi totul, de la haine la produse locale."
+          },
+          {
+            "name": "Galerii de artă",
+            "tip": "Căutați mici galerii lângă strada Sovetskaya pentru opere de artă unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Department Store 'Gomel'",
+            "tip": "A classic Soviet department store where you can find everything from clothes to local products."
+          },
+          {
+            "name": "Art Galleries",
+            "tip": "Look for small galleries near Sovetskaya Street for unique artworks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie eine Navigations-App, um zwischen den Clustern zu navigieren und Parkplätze zu finden.",
+          "Lassen Sie keine Wertsachen sichtbar im Auto zurück.",
+          "Die Cluster-Walking-Methode spart Zeit und Parkgebühren.",
+          "Überprüfen Sie die Verkehrslage, bevor Sie von einem Cluster zum nächsten fahren."
+        ],
+        "hu": [
+          "Használjon navigációs alkalmazást a klaszterek közötti navigáláshoz és parkolóhelyek kereséséhez.",
+          "Ne hagyjon értékeket látható helyen az autóban.",
+          "A klaszter-séta módszer időt és parkolási díjakat takarít meg.",
+          "Ellenőrizze a forgalmi helyzetet, mielőtt egyik klaszterből a másikba hajt."
+        ],
+        "ro": [
+          "Folosiți o aplicație de navigație pentru a naviga între clustere și a găsi locuri de parcare.",
+          "Nu lăsați obiecte de valoare la vedere în mașină.",
+          "Metoda de mers pe jos în cluster economisește timp și taxe de parcare.",
+          "Verificați condițiile de trafic înainte de a conduce de la un cluster la altul."
+        ],
+        "en": [
+          "Use a navigation app to navigate between clusters and find parking.",
+          "Do not leave valuables visible in the car.",
+          "The cluster-walking method saves time and parking fees.",
+          "Check traffic conditions before driving from one cluster to the next."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Haltestelle 'Ploschtschad Lenina'",
+            "hu": "„Lenin tér” megálló",
+            "ro": "Stația 'Piața Lenin'",
+            "en": "Stop 'Lenin Square'"
+          },
+          "coords": [
+            30.984,
+            52.43
+          ],
+          "category": "transport",
+          "arrive_at": "09:15",
+          "stay_min": 5,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ihr erster Transit-Hub. Beginnen Sie Ihren Tag im Herzen der Stadt.",
+            "hu": "Az első közlekedési csomópont. Kezdje a napot a város szívében.",
+            "ro": "Primul dumneavoastră nod de tranzit. Începeți-vă ziua în inima orașului.",
+            "en": "Your first transit hub. Start your day in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Dramatheater Homel",
+            "hu": "Gomeli Drámai Színház",
+            "ro": "Teatrul Dramatic din Gomel",
+            "en": "Gomel Drama Theatre"
+          },
+          "coords": [
+            30.9855,
+            52.431
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:23",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang von der Haltestelle entfernt, ein beeindruckender Anblick.",
+            "hu": "Csak egy rövid sétára a megállótól, lenyűgöző látvány.",
+            "ro": "La doar o scurtă plimbare de stație, o priveliște impresionantă.",
+            "en": "Just a short walk from the stop, an impressive sight."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle 'Park'",
+            "hu": "„Park” megálló",
+            "ro": "Stația 'Parc'",
+            "en": "Stop 'Park'"
+          },
+          "coords": [
+            30.981,
+            52.428
+          ],
+          "category": "transport",
+          "arrive_at": "10:09",
+          "stay_min": 5,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der zweite Cluster des Tages. Von hier aus ist der gesamte Palastkomplex zu Fuß erreichbar.",
+            "hu": "A nap második klasztere. Innen az egész palotakomplexum gyalogosan elérhető.",
+            "ro": "Al doilea cluster al zilei. De aici, întregul complex al palatului este accesibil pe jos.",
+            "en": "The second cluster of the day. The entire palace complex is within walking distance from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Rumjanzew-Paskewitsch-Palast",
+            "hu": "Rumjancev-Paszkievics-palota",
+            "ro": "Palatul Rumianțev-Paskevici",
+            "en": "Rumyantsev-Paskevich Palace"
+          },
+          "coords": [
+            30.9765,
+            52.4248
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die Geschichte, bevor Sie zu Mittag essen.",
+            "hu": "Merüljön el a történelemben ebéd előtt.",
+            "ro": "Scufundați-vă în istorie înainte de prânz.",
+            "en": "Immerse yourself in history before having lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen & Kathedrale",
+            "hu": "Ebéd és Székesegyház",
+            "ro": "Prânz & Catedrală",
+            "en": "Lunch & Cathedral"
+          },
+          "coords": [
+            30.9775,
+            52.4255
+          ],
+          "category": "gastro",
+          "arrive_at": "11:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie eine Mahlzeit und besuchen Sie anschließend die friedliche Kathedrale.",
+            "hu": "Élvezzen egy étkezést, majd látogasson el a békés székesegyházba.",
+            "ro": "Bucurați-vă de o masă și apoi vizitați catedrala pașnică.",
+            "en": "Enjoy a meal and then visit the peaceful cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Homel Park & Wintergarten",
+            "hu": "Gomel Park és Téli Kert",
+            "ro": "Parcul Gomel & Grădina de Iarnă",
+            "en": "Gomel Park & Winter Garden"
+          },
+          "coords": [
+            30.9755,
+            52.4235
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:38",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannter Spaziergang durch den Park und ein Besuch im warmen Wintergarten.",
+            "hu": "Egy laza séta a parkban és egy látogatás a meleg Téli Kertben.",
+            "ro": "O plimbare relaxată prin parc și o vizită la Grădina de Iarnă.",
+            "en": "A relaxing walk through the park and a visit to the warm Winter Garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle 'Zirkus'",
+            "hu": "„Cirkusz” megálló",
+            "ro": "Stația 'Circ'",
+            "en": "Stop 'Circus'"
+          },
+          "coords": [
+            30.994,
+            52.434
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:43",
+          "stay_min": 82,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der letzte Cluster. Bewundern Sie die Architektur und genießen Sie die lebhafte Atmosphäre.",
+            "hu": "Az utolsó klaszter. Csodálja meg az építészetet és élvezze az élénk hangulatot.",
+            "ro": "Ultimul cluster. Admirați arhitectura și bucurați-vă de atmosfera plină de viață.",
+            "en": "The final cluster. Admire the architecture and enjoy the lively atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Tour mit öffentlichen Verkehrsmitteln beginnt an der zentralen Haltestelle am Lenin-Platz. Ein kurzer Spaziergang führt Sie zum Dramatheater, dem ersten Highlight Ihres Stadtspaziergangs, bevor Sie den Bus zum nächsten Cluster nehmen.\nDer zweite und größte Cluster ist das Palast- und Parkensemble. Sie steigen in der Nähe des Parks aus und verbringen den Großteil des Tages damit, den Palast, die Kathedrale, den Wintergarten und die Uferpromenade zu Fuß zu erkunden.\nNachdem Sie sich ausgiebig im Park aufgehalten haben, bringt Sie eine weitere Busfahrt zum dritten Cluster: dem markanten Zirkusgebäude. Hier können Sie die einzigartige sowjetische Architektur bewundern.\nDer Tag endet mit der Rückfahrt von der Zirkus-Haltestelle. Diese Tour zeigt, wie einfach es ist, Homels Hauptattraktionen mit öffentlichen Verkehrsmitteln zu verbinden, indem man zwischen den Clustern fährt und innerhalb dieser spazieren geht.",
+        "hu": "A tömegközlekedési túra a központi Lenin téri megállónál kezdődik. Egy rövid séta a Drámai Színházhoz vezet, a városi séta első fénypontjához, mielőtt buszra szállna a következő klaszterhez.\nA második és legnagyobb klaszter a palota- és parkegyüttes. A park közelében száll le, és a nap nagy részét a palota, a székesegyház, a Téli Kert és a folyóparti sétány gyalogos felfedezésével tölti.\nMiután alaposan elidőzött a parkban, egy újabb buszút viszi a harmadik klaszterhez: a jellegzetes Cirkusz épületéhez. Itt megcsodálhatja az egyedi szovjet építészetet.\nA nap a Cirkusz megállóból való visszautazással ér véget. Ez a túra megmutatja, milyen egyszerű összekötni Homel fő látnivalóit tömegközlekedéssel, a klaszterek közötti utazással és azokon belüli sétával.",
+        "ro": "Turul dumneavoastră cu transportul public începe la stația centrală din Piața Lenin. O scurtă plimbare vă duce la Teatrul Dramatic, primul punct culminant al plimbării prin oraș, înainte de a lua autobuzul spre următorul cluster.\nAl doilea și cel mai mare cluster este ansamblul de palat și parc. Coborâți lângă parc și petreceți cea mai mare parte a zilei explorând pe jos palatul, catedrala, Grădina de Iarnă și promenada de pe malul râului.\nDupă ce ați petrecut suficient timp în parc, o altă călătorie cu autobuzul vă duce la al treilea cluster: clădirea distinctivă a Circului. Aici puteți admira arhitectura sovietică unică.\nZiua se încheie cu călătoria de întoarcere de la stația de circ. Acest tur demonstrează cât de ușor este să conectați principalele atracții din Gomel folosind transportul public, călătorind între clustere și mergând pe jos în interiorul lor.",
+        "en": "Your public transit tour begins at the central stop on Lenin Square. A short walk takes you to the Drama Theatre, the first highlight of your city walk, before you take a bus to the next cluster.\nThe second and largest cluster is the palace and park ensemble. You'll get off near the park and spend the majority of the day exploring the palace, cathedral, Winter Garden, and riverside promenade on foot.\nAfter spending ample time in the park, another bus ride takes you to the third cluster: the distinctive Circus building. Here you can admire the unique Soviet architecture.\nThe day ends with the return journey from the circus stop. This tour demonstrates how easy it is to connect Gomel's main attractions using public transport, traveling between clusters and walking within them."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pelmeni",
+            "tip": "Ein schnelles und leckeres Essen, das in vielen kleinen Cafés in der Nähe von Bushaltestellen erhältlich ist."
+          },
+          {
+            "name": "Tscheburek",
+            "tip": "Eine frittierte Teigtasche mit Fleischfüllung, perfekt für unterwegs."
+          },
+          {
+            "name": "Kefir",
+            "tip": "Ein fermentiertes Milchgetränk, das in jedem Lebensmittelgeschäft zu finden ist und eine gute Erfrischung darstellt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pelmeni",
+            "tip": "Gyors és finom étel, amely sok kis kávézóban kapható a buszmegállók közelében."
+          },
+          {
+            "name": "Cseburek",
+            "tip": "Sült tészta hússal töltve, tökéletes útközben."
+          },
+          {
+            "name": "Kefir",
+            "tip": "Erjesztett tejital, amely minden élelmiszerboltban megtalálható, és jó frissítő."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pelmeni",
+            "tip": "O masă rapidă și delicioasă disponibilă în multe cafenele mici de lângă stațiile de autobuz."
+          },
+          {
+            "name": "Ceburek",
+            "tip": "O plăcintă prăjită umplută cu carne, perfectă pentru a o lua la pachet."
+          },
+          {
+            "name": "Chefîr",
+            "tip": "O băutură lactată fermentată găsită în orice magazin alimentar, fiind o bună răcoritoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pelmeni",
+            "tip": "A quick and delicious meal available in many small cafes near bus stops."
+          },
+          {
+            "name": "Cheburek",
+            "tip": "A deep-fried turnover with a minced meat filling, perfect for on the go."
+          },
+          {
+            "name": "Kefir",
+            "tip": "A fermented milk drink found in any grocery store, making for a good refreshment."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obere Etage eines Trolleybusses",
+            "tip": "Beobachten Sie die Stadt aus einer anderen Perspektive, während Sie zwischen den Clustern fahren.",
+            "emoji": "🚎"
+          },
+          {
+            "name": "Grabkapelle der Paskewitschs",
+            "tip": "Ein oft übersehener, aber sehr friedlicher Ort im Parkkomplex.",
+            "emoji": "🤫"
+          },
+          {
+            "name": "Abgelegene Parkbänke",
+            "tip": "Suchen Sie im Homel Park nach Bänken, die nicht direkt an den Hauptwegen liegen.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy trolibusz felső szintje",
+            "tip": "Figyelje a várost más szemszögből, miközben a klaszterek között utazik.",
+            "emoji": "🚎"
+          },
+          {
+            "name": "A Paszkievics család sírkápolnája",
+            "tip": "Gyakran figyelmen kívül hagyott, de nagyon békés hely a parkkomplexumban.",
+            "emoji": "🤫"
+          },
+          {
+            "name": "Elhagyatott parki padok",
+            "tip": "Keressen padokat a Gomel Parkban, amelyek nem közvetlenül a fő utak mentén vannak.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etajul superior al unui troleibuz",
+            "tip": "Observați orașul dintr-o perspectivă diferită în timp ce călătoriți între clustere.",
+            "emoji": "🚎"
+          },
+          {
+            "name": "Capela funerară a familiei Paskevici",
+            "tip": "Un loc adesea trecut cu vederea, dar foarte pașnic în complexul parcului.",
+            "emoji": "🤫"
+          },
+          {
+            "name": "Bănci izolate în parc",
+            "tip": "Căutați bănci în Parcul Gomel care nu sunt direct pe aleile principale.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Upper deck of a trolleybus",
+            "tip": "Watch the city from a different perspective as you travel between clusters.",
+            "emoji": "🚎"
+          },
+          {
+            "name": "Paskevich family burial chapel",
+            "tip": "An often overlooked but very peaceful spot within the park complex.",
+            "emoji": "🤫"
+          },
+          {
+            "name": "Secluded park benches",
+            "tip": "Look for benches in Gomel Park that are not directly on the main paths.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Buchhandlungen",
+            "tip": "Finden Sie Bücher über die lokale Geschichte oder Alben mit Stadtansichten."
+          },
+          {
+            "name": "Kioske an Haltestellen",
+            "tip": "Hier finden Sie oft kleine, unerwartete Souvenirs und lokale Snacks."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Könyvesboltok",
+            "tip": "Keressen könyveket a helyi történelemről vagy albumokat városképekkel."
+          },
+          {
+            "name": "Kioszkok a megállókban",
+            "tip": "Itt gyakran találhatók kis, váratlan szuvenírek és helyi rágcsálnivalók."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Librării",
+            "tip": "Găsiți cărți despre istoria locală sau albume cu vederi ale orașului."
+          },
+          {
+            "name": "Chioșcuri la stații",
+            "tip": "Adesea puteți găsi aici mici suveniruri neașteptate și gustări locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bookstores",
+            "tip": "Find books on local history or albums with city views."
+          },
+          {
+            "name": "Kiosks at stops",
+            "tip": "You can often find small, unexpected souvenirs and local snacks here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel, um Geld zu sparen.",
+          "Laden Sie eine Offline-Karte der Stadt und der Buslinien herunter.",
+          "Die meisten Haltestellen haben Fahrpläne, aber eine App kann hilfreich sein, um Echtzeit-Informationen zu erhalten.",
+          "Halten Sie Kleingeld für Fahrkarten bereit, die Sie direkt beim Fahrer kaufen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
+          "Töltsön le egy offline térképet a városról és a buszvonalakról.",
+          "A legtöbb megállónak van menetrendje, de egy alkalmazás segíthet a valós idejű információk megszerzésében.",
+          "Tartson aprópénzt a jegyekhez, amelyeket közvetlenül a sofőrtől vásárol."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru transportul public pentru a economisi bani.",
+          "Descărcați o hartă offline a orașului și a rutelor de autobuz.",
+          "Majoritatea stațiilor au orare, dar o aplicație poate fi utilă pentru informații în timp real.",
+          "Păstrați mărunțiș pentru biletele cumpărate direct de la șofer."
+        ],
+        "en": [
+          "Buy a day pass for public transport to save money.",
+          "Download an offline map of the city and bus routes.",
+          "Most stops have schedules, but an app can be helpful for real-time information.",
+          "Keep small change ready for tickets bought directly from the driver."
+        ]
+      }
+    }
+  }
+}

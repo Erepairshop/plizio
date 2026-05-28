@@ -1,0 +1,1460 @@
+{
+  "city_id": "bosniaherzegovina-zivinice-cities-v2",
+  "anchor": {
+    "name": "Živinice",
+    "coords": [
+      18.6494,
+      44.4489
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Živinice",
+            "hu": "Živinicei Városháza",
+            "ro": "Primăria din Živinice",
+            "en": "Živinice Town Hall"
+          },
+          "coords": [
+            18.6491,
+            44.4485
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die lokale Architektur und beobachten Sie das tägliche Leben vom zentralen Platz aus.",
+            "hu": "Csodálja meg a helyi építészetet és figyelje a mindennapi életet a központi térről.",
+            "ro": "Admirați arhitectura locală și observați viața de zi cu zi din piața centrală.",
+            "en": "Admire the local architecture and watch the daily life from the central square."
+          }
+        },
+        {
+          "name": {
+            "de": "Moschee von Živinice",
+            "hu": "Živinicei mecset",
+            "ro": "Moscheea din Živinice",
+            "en": "Živinice Mosque"
+          },
+          "coords": [
+            18.6505,
+            44.4493
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Kleiderordnung; Frauen sollten Schultern und Haare bedecken.",
+            "hu": "Ügyeljen a megfelelő öltözékre; a nőknek illik eltakarni a vállukat és a hajukat.",
+            "ro": "Acordați atenție codului vestimentar; femeile ar trebui să-și acopere umerii și părul.",
+            "en": "Pay attention to the dress code; women should cover their shoulders and hair."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Johannes",
+            "hu": "Keresztelő Szent János templom",
+            "ro": "Biserica Sfântul Ioan Botezătorul",
+            "en": "Church of Saint John the Baptist"
+          },
+          "coords": [
+            18.6478,
+            44.4498
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:26",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Suchen Sie nach den Details der Glasmalereien, die biblische Szenen darstellen.",
+            "hu": "Keresse a bibliai jeleneteket ábrázoló ólomüveg ablakok részleteit.",
+            "ro": "Căutați detaliile vitraliilor care înfățișează scene biblice.",
+            "en": "Look for the details in the stained glass windows depicting biblical scenes."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Živinice",
+            "hu": "Živinicei Kulturális Központ",
+            "ro": "Centrul Cultural Živinice",
+            "en": "Živinice Cultural Center"
+          },
+          "coords": [
+            18.6515,
+            44.4475
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:15",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Spielplan, vielleicht gibt es eine lokale Aufführung oder Ausstellung.",
+            "hu": "Nézze meg a programot, hátha van egy helyi előadás vagy kiállítás.",
+            "ro": "Verificați programul, s-ar putea să prindeți un spectacol sau o expoziție locală.",
+            "en": "Check the schedule, you might catch a local performance or exhibition."
+          }
+        },
+        {
+          "name": {
+            "de": "Bulevar-Promenade",
+            "hu": "Bulevar sétány",
+            "ro": "Promenada Bulevar",
+            "en": "Bulevar Promenade"
+          },
+          "coords": [
+            18.654,
+            44.4465
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:10",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Perfekter Ort für eine Mittagspause. Viele Cafés und Bänke zum Entspannen.",
+            "hu": "Tökéletes hely egy ebédszünetre. Számos kávézó és pad található itt a pihenéshez.",
+            "ro": "Locul perfect pentru o pauză de prânz. Multe cafenele și bănci pentru relaxare.",
+            "en": "Perfect spot for a lunch break. Many cafes and benches to relax."
+          }
+        },
+        {
+          "name": {
+            "de": "Gedenkpark Živinice",
+            "hu": "Živinicei Emlékpark",
+            "ro": "Parcul Memorial Živinice",
+            "en": "Živinice Memorial Park"
+          },
+          "coords": [
+            18.639,
+            44.452
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:40",
+          "stay_min": 95,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort, um über die lokale Geschichte nachzudenken. Ideal für einen friedlichen Spaziergang am Nachmittag.",
+            "hu": "Csendes hely a helyi történelemről való elmélkedésre. Ideális egy békés délutáni sétához.",
+            "ro": "Un loc liniștit pentru a reflecta asupra istoriei locale. Ideal pentru o plimbare pașnică după-amiaza.",
+            "en": "A quiet place to reflect on local history. Ideal for a peaceful afternoon walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Živinice beginnt im Herzen der Stadt am Rathaus. Nach der Erkundung der heiligen Stätten, der Moschee und der Kirche, tauchen Sie in die lokale Kultur im Kulturzentrum ein. Der Nachmittag ist für einen entspannten Spaziergang entlang der Bulevar-Promenade reserviert, wo Sie zu Mittag essen. Der Tag endet mit einem besinnlichen Spaziergang durch den weitläufigen Gedenkpark, der eine ruhige Flucht aus dem städtischen Trubel bietet.",
+        "hu": "A nap Živinice szívében, a Városházánál kezdődik. A szent helyek, a mecset és a templom felfedezése után a Kulturális Központban merülhet el a helyi kultúrában. A délután a Bulevar sétányon tett laza sétával telik, ahol meg is ebédelhet. A napot a tágas Emlékparkban tett elmélkedő séta zárja, amely csendes menedéket nyújt a városi nyüzsgés elől.",
+        "ro": "Ziua dvs. în Živinice începe în inima orașului, la Primărie. După explorarea lăcașurilor sfinte, Moscheea și Biserica, vă veți cufunda în cultura locală la Centrul Cultural. După-amiaza este rezervată unei plimbări relaxante pe promenada Bulevar, unde veți lua prânzul. Ziua se încheie cu o plimbare reflexivă prin vastul Parc Memorial, oferind o evadare liniștită din agitația urbană.",
+        "en": "Your day in Živinice begins in the heart of the city at the Town Hall. After exploring the sacred sites, the Mosque and the Church, you'll dive into local culture at the Cultural Center. The afternoon is reserved for a leisurely stroll along the Bulevar Promenade, where you'll have lunch. The day concludes with a reflective walk through the expansive Memorial Park, offering a quiet escape from the urban bustle."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ćevapi",
+            "tip": "Gegrillte Hackfleischröllchen in Fladenbrot, das Nationalgericht."
+          },
+          {
+            "name": "Burek",
+            "tip": "Blätterteiggebäck gefüllt mit Fleisch, Käse oder Spinat, perfekt für einen Snack."
+          },
+          {
+            "name": "Bosanski Lonac",
+            "tip": "Ein herzhafter Fleischeintopf, der stundenlang gekocht wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ćevapi",
+            "tip": "Grillezett darált hús rolád lepényben, a nemzeti étel."
+          },
+          {
+            "name": "Burek",
+            "tip": "Péksütemény hússal, sajttal vagy spenóttal töltve, tökéletes harapnivaló."
+          },
+          {
+            "name": "Bosanski Lonac",
+            "tip": "Gazdag húsos egytálétel, amit órákig főznek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ćevapi",
+            "tip": "Rulouri de carne tocată la grătar în lipie, felul de mâncare național."
+          },
+          {
+            "name": "Burek",
+            "tip": "Plăcintă din foietaj umplută cu carne, brânză sau spanac, perfectă pentru o gustare."
+          },
+          {
+            "name": "Bosanski Lonac",
+            "tip": "O tocană de carne consistentă, gătită ore în șir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ćevapi",
+            "tip": "Grilled minced meat rolls in a flatbread, the national dish."
+          },
+          {
+            "name": "Burek",
+            "tip": "Filo pastry filled with meat, cheese, or spinach, perfect for a snack."
+          },
+          {
+            "name": "Bosanski Lonac",
+            "tip": "A hearty meat and vegetable stew cooked for hours."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gedenkpark Živinice",
+            "tip": "Finden Sie eine Bank im Schatten und genießen Sie die Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Flusses Spreča",
+            "tip": "Ein Spaziergang entlang des Flusses kann sehr beruhigend sein.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Früher Morgen am Hauptplatz",
+            "tip": "Erleben Sie die Stadt, bevor sie erwacht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Živinicei Emlékpark",
+            "tip": "Keressen egy padot az árnyékban, és élvezze a csendet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spreča folyó partja",
+            "tip": "Egy séta a folyó mentén nagyon megnyugtató lehet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kora reggel a főtéren",
+            "tip": "Tapasztalja meg a várost, mielőtt felébred.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Memorial Živinice",
+            "tip": "Găsiți o bancă la umbră și bucurați-vă de liniște.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malurile râului Spreča",
+            "tip": "O plimbare de-a lungul râului poate fi foarte liniștitoare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dimineața devreme în piața principală",
+            "tip": "Experimentați orașul înainte de a se trezi.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Živinice Memorial Park",
+            "tip": "Find a bench in the shade and enjoy the quiet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the Spreča River",
+            "tip": "A walk along the river can be very calming.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Early morning at the main square",
+            "tip": "Experience the city before it wakes up.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach handgefertigten Waren und lokalen Produkten."
+          },
+          {
+            "name": "Geschäfte an der Bulevar-Promenade",
+            "tip": "Eine Mischung aus lokalen Boutiquen und bekannten Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen kézműves termékeket és helyi árukat."
+          },
+          {
+            "name": "Üzletek a Bulevar sétányon",
+            "tip": "Helyi butikok és ismert márkák keveréke."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse artizanale și produse locale."
+          },
+          {
+            "name": "Magazinele de pe promenada Bulevar",
+            "tip": "Un amestec de buticuri locale și mărci cunoscute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for handcrafted goods and local produce."
+          },
+          {
+            "name": "Shops on Bulevar Promenade",
+            "tip": "A mix of local boutiques and known brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit.",
+          "Die meisten zentralen Orte sind leicht zu Fuß erreichbar.",
+          "Beginnen Sie früh, um die Menschenmassen zu vermeiden und die kühleren Morgenstunden zu genießen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Hozzon magával újratölthető vizes palackot.",
+          "A legtöbb központi hely könnyen elérhető gyalog.",
+          "Kezdje korán, hogy elkerülje a tömeget és élvezze a hűvösebb reggeli órákat."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Luați cu dvs. o sticlă de apă reutilizabilă.",
+          "Majoritatea locațiilor centrale sunt ușor accesibile pe jos.",
+          "Începeți devreme pentru a evita aglomerația și pentru a vă bucura de orele mai răcoroase ale dimineții."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "Bring a reusable water bottle.",
+          "Most central locations are easily reachable on foot.",
+          "Start early to avoid the crowds and enjoy the cooler morning hours."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:55",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kulturzentrum Živinice",
+            "hu": "Živinicei Kulturális Központ",
+            "ro": "Centrul Cultural Živinice",
+            "en": "Živinice Cultural Center"
+          },
+          "coords": [
+            18.6515,
+            44.4475
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Prüfen Sie, ob es einen Fahrradständer in der Nähe gibt, um Ihr Fahrrad sicher abzustellen.",
+            "hu": "Ellenőrizze, van-e a közelben kerékpártároló, ahol biztonságosan lezárhatja a biciklit.",
+            "ro": "Verificați dacă există un suport de biciclete în apropiere pentru a vă parca bicicleta în siguranță.",
+            "en": "Check if there is a bike rack nearby to park your bike safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Živinice",
+            "hu": "Živinicei Városháza",
+            "ro": "Primăria din Živinice",
+            "en": "Živinice Town Hall"
+          },
+          "coords": [
+            18.6491,
+            44.4485
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:54",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein großartiger Fotospot mit dem Fahrrad vor dem Hauptgebäude.",
+            "hu": "Nagyszerű fotóhelyszín a biciklivel a főépület előtt.",
+            "ro": "Un loc excelent pentru fotografii cu bicicleta în fața clădirii principale.",
+            "en": "A great photo spot with your bike in front of the main building."
+          }
+        },
+        {
+          "name": {
+            "de": "Moschee von Živinice",
+            "hu": "Živinicei mecset",
+            "ro": "Moscheea din Živinice",
+            "en": "Živinice Mosque"
+          },
+          "coords": [
+            18.6505,
+            44.4493
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:21",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad respektvoll in einiger Entfernung vom Eingang.",
+            "hu": "Parkolja le a kerékpárt tisztelettudóan, a bejárattól kissé távolabb.",
+            "ro": "Parcați-vă bicicleta respectuos la o oarecare distanță de intrare.",
+            "en": "Park your bike respectfully at a distance from the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Johannes",
+            "hu": "Keresztelő Szent János templom",
+            "ro": "Biserica Sfântul Ioan Botezătorul",
+            "en": "Church of Saint John the Baptist"
+          },
+          "coords": [
+            18.6478,
+            44.4498
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:04",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment der Stille, bevor Sie Ihre Radtour fortsetzen.",
+            "hu": "Tartson egy perc csendet, mielőtt folytatja a kerékpártúrát.",
+            "ro": "Luați un moment de liniște înainte de a continua turul cu bicicleta.",
+            "en": "Take a moment of quiet before continuing your bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Bulevar-Promenade",
+            "hu": "Bulevar sétány",
+            "ro": "Promenada Bulevar",
+            "en": "Bulevar Promenade"
+          },
+          "coords": [
+            18.654,
+            44.4465
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:51",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Fahren Sie langsam und genießen Sie die Atmosphäre. Hier finden Sie viele Mittagsoptionen.",
+            "hu": "Tekerjen lassan és élvezze a hangulatot. Itt számos ebédelési lehetőséget talál.",
+            "ro": "Pedalați încet și bucurați-vă de atmosferă. Aici veți găsi multe opțiuni pentru prânz.",
+            "en": "Ride slowly and enjoy the atmosphere. You'll find plenty of lunch options here."
+          }
+        },
+        {
+          "name": {
+            "de": "Gedenkpark Živinice",
+            "hu": "Živinicei Emlékpark",
+            "ro": "Parcul Memorial Živinice",
+            "en": "Živinice Memorial Park"
+          },
+          "coords": [
+            18.639,
+            44.452
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:55",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 34,
+          "hop_from_prev_km": 5.8,
+          "tip_5lang": {
+            "de": "Ein schöner, längerer Ausflug. Perfekt, um die Beine nach der Fahrt auszustrecken.",
+            "hu": "Egy szép, hosszabb kitérő. Tökéletes a lábak kinyújtóztatására a tekerés után.",
+            "ro": "O excursie frumoasă și mai lungă. Perfect pentru a vă întinde picioarele după plimbare.",
+            "en": "A nice, longer trip. Perfect for stretching your legs after the ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auf zwei Rädern starten Sie am Kulturzentrum und radeln zum historischen Kern der Stadt. Nach dem Besuch der religiösen Wahrzeichen, der Moschee und der Kirche, machen Sie eine ausgedehnte Mittagspause an der Bulevar-Promenade. Der Höhepunkt des Nachmittags ist eine längere Fahrt zum Gedenkpark, der eine lohnende Abwechslung und einen friedlichen Abschluss Ihrer Erkundungstour durch Živinice bietet.",
+        "hu": "Két keréken a Kulturális Központtól indulva teker be a város történelmi magjába. A vallási nevezetességek, a mecset és a templom meglátogatása után tartson egy hosszabb ebédszünetet a Bulevar sétányon. A délután fénypontja egy hosszabb út az Emlékparkhoz, amely méltó változatosságot és békés lezárást kínál Živinice felfedezéséhez.",
+        "ro": "Pe două roți, porniți de la Centrul Cultural și pedalați spre centrul istoric al orașului. După vizitarea reperelor religioase, moscheea și biserica, luați o pauză de prânz prelungită pe promenada Bulevar. Punctul culminant al după-amiezii este o plimbare mai lungă cu bicicleta până la Parcul Memorial, care oferă o schimbare de peisaj plină de satisfacții și o încheiere pașnică a explorării orașului Živinice.",
+        "en": "On two wheels, you'll start at the Cultural Center and cycle to the historic core of the city. After visiting the religious landmarks, the mosque and the church, take an extended lunch break on the Bulevar Promenade. The highlight of the afternoon is a longer ride to the Memorial Park, which offers a rewarding change of scenery and a peaceful conclusion to your exploration of Živinice."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ćevapi",
+            "tip": "Gegrillte Hackfleischröllchen in Fladenbrot, das Nationalgericht."
+          },
+          {
+            "name": "Burek",
+            "tip": "Blätterteiggebäck gefüllt mit Fleisch, Käse oder Spinat, perfekt für einen Snack."
+          },
+          {
+            "name": "Bosanski Lonac",
+            "tip": "Ein herzhafter Fleischeintopf, der stundenlang gekocht wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ćevapi",
+            "tip": "Grillezett darált hús rolád lepényben, a nemzeti étel."
+          },
+          {
+            "name": "Burek",
+            "tip": "Péksütemény hússal, sajttal vagy spenóttal töltve, tökéletes harapnivaló."
+          },
+          {
+            "name": "Bosanski Lonac",
+            "tip": "Gazdag húsos egytálétel, amit órákig főznek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ćevapi",
+            "tip": "Rulouri de carne tocată la grătar în lipie, felul de mâncare național."
+          },
+          {
+            "name": "Burek",
+            "tip": "Plăcintă din foietaj umplută cu carne, brânză sau spanac, perfectă pentru o gustare."
+          },
+          {
+            "name": "Bosanski Lonac",
+            "tip": "O tocană de carne consistentă, gătită ore în șir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ćevapi",
+            "tip": "Grilled minced meat rolls in a flatbread, the national dish."
+          },
+          {
+            "name": "Burek",
+            "tip": "Filo pastry filled with meat, cheese, or spinach, perfect for a snack."
+          },
+          {
+            "name": "Bosanski Lonac",
+            "tip": "A hearty meat and vegetable stew cooked for hours."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gedenkpark Živinice",
+            "tip": "Finden Sie eine Bank im Schatten und genießen Sie die Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Flusses Spreča",
+            "tip": "Ein Spaziergang entlang des Flusses kann sehr beruhigend sein.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Früher Morgen am Hauptplatz",
+            "tip": "Erleben Sie die Stadt, bevor sie erwacht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Živinicei Emlékpark",
+            "tip": "Keressen egy padot az árnyékban, és élvezze a csendet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spreča folyó partja",
+            "tip": "Egy séta a folyó mentén nagyon megnyugtató lehet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kora reggel a főtéren",
+            "tip": "Tapasztalja meg a várost, mielőtt felébred.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Memorial Živinice",
+            "tip": "Găsiți o bancă la umbră și bucurați-vă de liniște.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malurile râului Spreča",
+            "tip": "O plimbare de-a lungul râului poate fi foarte liniștitoare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dimineața devreme în piața principală",
+            "tip": "Experimentați orașul înainte de a se trezi.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Živinice Memorial Park",
+            "tip": "Find a bench in the shade and enjoy the quiet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the Spreča River",
+            "tip": "A walk along the river can be very calming.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Early morning at the main square",
+            "tip": "Experience the city before it wakes up.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach handgefertigten Waren und lokalen Produkten."
+          },
+          {
+            "name": "Geschäfte an der Bulevar-Promenade",
+            "tip": "Eine Mischung aus lokalen Boutiquen und bekannten Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen kézműves termékeket és helyi árukat."
+          },
+          {
+            "name": "Üzletek a Bulevar sétányon",
+            "tip": "Helyi butikok és ismert márkák keveréke."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse artizanale și produse locale."
+          },
+          {
+            "name": "Magazinele de pe promenada Bulevar",
+            "tip": "Un amestec de buticuri locale și mărci cunoscute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for handcrafted goods and local produce."
+          },
+          {
+            "name": "Shops on Bulevar Promenade",
+            "tip": "A mix of local boutiques and known brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad sicher abzustellen.",
+          "Planen Sie Ihre Route im Voraus, aber seien Sie flexibel.",
+          "Achten Sie auf den Verkehr, besonders in den Hauptstraßen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket és a gumikat.",
+          "Hozzon magával lakatot, hogy biztonságosan lezárhassa a kerékpárt.",
+          "Tervezze meg előre az útvonalat, de legyen rugalmas.",
+          "Vigyázzon a forgalomra, különösen a főutakon."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele și anvelopele.",
+          "Luați un lacăt pentru a vă asigura bicicleta.",
+          "Planificați-vă traseul în avans, dar fiți flexibil.",
+          "Fiți atenți la trafic, mai ales pe străzile principale."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes and tires.",
+          "Bring a lock to secure your bike.",
+          "Plan your route in advance, but be flexible.",
+          "Be aware of the traffic, especially on the main streets."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:24",
+      "total_km": 35.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken am Stadtzentrum",
+            "hu": "Parkolás a városközpontban",
+            "ro": "Parcare în centrul orașului",
+            "en": "Parking at the City Center"
+          },
+          "coords": [
+            18.6495,
+            44.448
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie den ersten Cluster zu Fuß.",
+            "hu": "Parkoljon le itt, és fedezze fel az első látnivalócsoportot gyalog.",
+            "ro": "Parcați aici și explorați primul grup de atracții pe jos.",
+            "en": "Park here and explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus und Moschee",
+            "hu": "Városháza és Mecset",
+            "ro": "Primăria și Moscheea",
+            "en": "Town Hall and Mosque"
+          },
+          "coords": [
+            18.6498,
+            44.4489
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:16",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie den Hauptplatz und die nahe gelegene Moschee in einem Spaziergang.",
+            "hu": "Fedezze fel a főteret és a közeli mecsetet egyetlen séta alatt.",
+            "ro": "Explorați piața principală și moscheea din apropiere într-o singură plimbare.",
+            "en": "Explore the main square and the nearby mosque in one go."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Johannes & Kulturzentrum",
+            "hu": "Szent János templom és Kulturális Központ",
+            "ro": "Biserica Sf. Ioan și Centrul Cultural",
+            "en": "St. John's Church & Cultural Center"
+          },
+          "coords": [
+            18.649,
+            44.448
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:28",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Diese beiden Orte liegen nahe beieinander, ideal für den zweiten Teil Ihres morgendlichen Spaziergangs.",
+            "hu": "Ez a két hely közel van egymáshoz, ideális a reggeli séta második részéhez.",
+            "ro": "Aceste două locații sunt apropiate, ideale pentru a doua parte a plimbării de dimineață.",
+            "en": "These two locations are close to each other, ideal for the second part of your morning walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Berg Konjuh",
+            "hu": "Konjuh-hegy",
+            "ro": "Muntele Konjuh",
+            "en": "Mount Konjuh"
+          },
+          "coords": [
+            18.5333,
+            44.3167
+          ],
+          "category": "natural features",
+          "arrive_at": "12:04",
+          "stay_min": 150,
+          "hop_mode": "car",
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 17,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubende Aussicht und eine kurze Wanderung. Ein großartiger Ort für ein Picknick-Mittagessen.",
+            "hu": "Élvezze a lélegzetelállító kilátást és tegyen egy rövid túrát. Nagyszerű hely egy piknikebédhez.",
+            "ro": "Bucurați-vă de priveliștea uluitoare și de o scurtă drumeție. Un loc minunat pentru un prânz la picnic.",
+            "en": "Enjoy the breathtaking views and a short hike. A great spot for a picnic lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Toplica-Quelle",
+            "hu": "Toplica-forrás",
+            "ro": "Izvorul Toplica",
+            "en": "Toplica Spring"
+          },
+          "coords": [
+            18.68,
+            44.43
+          ],
+          "category": "natural features",
+          "arrive_at": "15:08",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 34,
+          "hop_from_prev_km": 16,
+          "tip_5lang": {
+            "de": "Ein erfrischender Halt am Nachmittag. Das Wasser gilt als heilend.",
+            "hu": "Egy frissítő délutáni megálló. A vízét gyógyhatásúnak tartják.",
+            "ro": "O oprire răcoritoare după-amiaza. Se spune că apa are proprietăți vindecătoare.",
+            "en": "A refreshing afternoon stop. The water is said to have healing properties."
+          }
+        },
+        {
+          "name": {
+            "de": "Gedenkpark Živinice",
+            "hu": "Živinicei Emlékpark",
+            "ro": "Parcul Memorial Živinice",
+            "en": "Živinice Memorial Park"
+          },
+          "coords": [
+            18.639,
+            44.452
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:16",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und machen Sie einen Spaziergang durch diesen ruhigen Park.",
+            "hu": "Parkoljon a közelben, és sétáljon egyet ebben a békés parkban.",
+            "ro": "Parcați în apropiere și faceți o plimbare prin acest parc liniștit.",
+            "en": "Park nearby and take a stroll through this peaceful park."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen an der Bulevar-Promenade",
+            "hu": "Vacsora a Bulevar sétányon",
+            "ro": "Cină pe promenada Bulevar",
+            "en": "Dinner at Bulevar Promenade"
+          },
+          "coords": [
+            18.654,
+            44.4465
+          ],
+          "category": "gastro",
+          "arrive_at": "17:13",
+          "stay_min": 101,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag in einem der vielen Restaurants mit Blick auf die Promenade ausklingen.",
+            "hu": "Zárja a napot a sétányra néző számos étterem egyikében.",
+            "ro": "Încheiați ziua la unul dintre multele restaurante cu vedere la promenadă.",
+            "en": "End your day at one of the many restaurants overlooking the promenade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit der Erkundung des Zentrums von Živinice zu Fuß, nachdem Sie Ihr Auto geparkt haben. Am Vormittag entdecken Sie die wichtigsten kulturellen und religiösen Stätten. Anschließend fahren Sie zum majestätischen Berg Konjuh für eine Wanderung und ein Mittagessen mit Aussicht. Am Nachmittag erfrischen Sie sich an der Toplica-Quelle, bevor Sie in die Stadt zurückkehren, um im Gedenkpark nachzudenken und den Tag mit einem Abendessen an der belebten Bulevar-Promenade ausklingen zu lassen.",
+        "hu": "A nap Živinice központjának gyalogos felfedezésével kezdődik, miután leparkolta az autót. Délelőtt felfedezi a fő kulturális és vallási helyszíneket. Ezután az impozáns Konjuh-hegyhez hajt egy túrára és egy kilátással egybekötött ebédre. Délután felfrissül a Toplica-forrásnál, mielőtt visszatérne a városba, hogy elmerengjen az Emlékparkban, és a napot egy vacsorával zárja a nyüzsgő Bulevar sétányon.",
+        "ro": "Ziua dvs. începe cu explorarea pe jos a centrului orașului Živinice după ce ați parcat mașina. Dimineața veți descoperi principalele situri culturale și religioase. Apoi, veți conduce la maiestuosul Munte Konjuh pentru o drumeție și un prânz cu priveliște. După-amiaza, vă veți reîmprospăta la izvorul Toplica înainte de a vă întoarce în oraș pentru reflecție în Parcul Memorial și veți încheia ziua cu o cină pe animata promenadă Bulevar.",
+        "en": "Your day starts by exploring the center of Živinice on foot after parking your car. The morning covers the main cultural and religious sites. You'll then drive to the majestic Mount Konjuh for a hike and lunch with a view. In the afternoon, refresh at the Toplica Spring before returning to the city for reflection at the Memorial Park, and finishing the day with dinner on the lively Bulevar Promenade."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ćevapi",
+            "tip": "Gegrillte Hackfleischröllchen in Fladenbrot, das Nationalgericht."
+          },
+          {
+            "name": "Burek",
+            "tip": "Blätterteiggebäck gefüllt mit Fleisch, Käse oder Spinat, perfekt für einen Snack."
+          },
+          {
+            "name": "Bosanski Lonac",
+            "tip": "Ein herzhafter Fleischeintopf, der stundenlang gekocht wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ćevapi",
+            "tip": "Grillezett darált hús rolád lepényben, a nemzeti étel."
+          },
+          {
+            "name": "Burek",
+            "tip": "Péksütemény hússal, sajttal vagy spenóttal töltve, tökéletes harapnivaló."
+          },
+          {
+            "name": "Bosanski Lonac",
+            "tip": "Gazdag húsos egytálétel, amit órákig főznek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ćevapi",
+            "tip": "Rulouri de carne tocată la grătar în lipie, felul de mâncare național."
+          },
+          {
+            "name": "Burek",
+            "tip": "Plăcintă din foietaj umplută cu carne, brânză sau spanac, perfectă pentru o gustare."
+          },
+          {
+            "name": "Bosanski Lonac",
+            "tip": "O tocană de carne consistentă, gătită ore în șir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ćevapi",
+            "tip": "Grilled minced meat rolls in a flatbread, the national dish."
+          },
+          {
+            "name": "Burek",
+            "tip": "Filo pastry filled with meat, cheese, or spinach, perfect for a snack."
+          },
+          {
+            "name": "Bosanski Lonac",
+            "tip": "A hearty meat and vegetable stew cooked for hours."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfel des Berges Konjuh",
+            "tip": "Die Stille und die weite Aussicht sind unvergleichlich.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Toplica-Quelle",
+            "tip": "Das Geräusch des fließenden Wassers ist sehr beruhigend.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Gedenkpark Živinice",
+            "tip": "Ein Ort der Ruhe und des Nachdenkens in der Stadt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konjuh-hegy csúcsa",
+            "tip": "A csend és a széles panoráma páratlan.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Toplica-forrás",
+            "tip": "A folyó víz hangja nagyon megnyugtató.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Živinicei Emlékpark",
+            "tip": "A nyugalom és az elmélkedés helye a városban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Muntelui Konjuh",
+            "tip": "Liniștea și priveliștea panoramică sunt de neegalat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Izvorul Toplica",
+            "tip": "Sunetul apei curgătoare este foarte calmant.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Parcul Memorial Živinice",
+            "tip": "Un loc de pace și reflecție în oraș.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Peak of Mount Konjuh",
+            "tip": "The silence and the vast view are unparalleled.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Toplica Spring",
+            "tip": "The sound of the flowing water is very calming.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Živinice Memorial Park",
+            "tip": "A place of peace and reflection within the city.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach handgefertigten Waren und lokalen Produkten."
+          },
+          {
+            "name": "Geschäfte an der Bulevar-Promenade",
+            "tip": "Eine Mischung aus lokalen Boutiquen und bekannten Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen kézműves termékeket és helyi árukat."
+          },
+          {
+            "name": "Üzletek a Bulevar sétányon",
+            "tip": "Helyi butikok és ismert márkák keveréke."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse artizanale și produse locale."
+          },
+          {
+            "name": "Magazinele de pe promenada Bulevar",
+            "tip": "Un amestec de buticuri locale și mărci cunoscute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for handcrafted goods and local produce."
+          },
+          {
+            "name": "Shops on Bulevar Promenade",
+            "tip": "A mix of local boutiques and known brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Parkmöglichkeiten und -gebühren im Voraus.",
+          "Ein GPS oder eine Karten-App ist für die Fahrt zum Berg Konjuh unerlässlich.",
+          "Packen Sie Wasser und Snacks für die Wanderung ein.",
+          "Tanken Sie Ihr Auto voll, bevor Sie die Stadt für die ländlichen Gebiete verlassen."
+        ],
+        "hu": [
+          "Előre tájékozódjon a parkolási lehetőségekről és díjakról.",
+          "GPS vagy térképalkalmazás elengedhetetlen a Konjuh-hegyhez vezető úton.",
+          "Csomagoljon vizet és rágcsálnivalót a túrához.",
+          "Tankolja tele az autót, mielőtt elhagyja a várost a vidéki területekre."
+        ],
+        "ro": [
+          "Verificați din timp opțiunile de parcare și taxele.",
+          "Un GPS sau o aplicație de hărți este esențială pentru a ajunge la Muntele Konjuh.",
+          "Luați apă și gustări pentru drumeție.",
+          "Faceți plinul mașinii înainte de a părăsi orașul spre zonele rurale."
+        ],
+        "en": [
+          "Check parking options and fees in advance.",
+          "A GPS or map app is essential for the drive to Mount Konjuh.",
+          "Pack water and snacks for the hike.",
+          "Fill up your car's fuel tank before leaving the city for rural areas."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus (Cluster A)",
+            "hu": "Városháza (A csoport)",
+            "ro": "Primăria (Grupul A)",
+            "en": "Town Hall (Cluster A)"
+          },
+          "coords": [
+            18.6491,
+            44.4485
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt Ihres Tages. Nehmen Sie den Bus zum Hauptplatz.",
+            "hu": "A nap kiindulópontja. Vegye a buszt a főtérre.",
+            "ro": "Punctul de plecare al zilei. Luați autobuzul până în piața principală.",
+            "en": "Starting point of your day. Take the bus to the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Moschee von Živinice",
+            "hu": "Živinicei mecset",
+            "ro": "Moscheea din Živinice",
+            "en": "Živinice Mosque"
+          },
+          "coords": [
+            18.6505,
+            44.4493
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Rathaus entfernt.",
+            "hu": "Csak egy rövid séta a Városházától.",
+            "ro": "La doar o scurtă plimbare de Primărie.",
+            "en": "Just a short walk from the Town Hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Johannes",
+            "hu": "Keresztelő Szent János templom",
+            "ro": "Biserica Sfântul Ioan Botezătorul",
+            "en": "Church of Saint John the Baptist"
+          },
+          "coords": [
+            18.6478,
+            44.4498
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:21",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Gehen Sie durch die Gassen, um diese Kirche zu finden.",
+            "hu": "Sétáljon át a sikátorokon, hogy megtalálja ezt a templomot.",
+            "ro": "Plimbați-vă pe străduțe pentru a găsi această biserică.",
+            "en": "Walk through the alleys to find this church."
+          }
+        },
+        {
+          "name": {
+            "de": "Gedenkpark (Cluster B)",
+            "hu": "Emlékpark (B csoport)",
+            "ro": "Parcul Memorial (Grupul B)",
+            "en": "Memorial Park (Cluster B)"
+          },
+          "coords": [
+            18.639,
+            44.452
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:13",
+          "stay_min": 75,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in den nördlichen Teil der Stadt, um diesen Park zu erreichen.",
+            "hu": "Vegyen egy buszt a város északi részébe, hogy elérje ezt a parkot.",
+            "ro": "Luați un autobuz spre partea de nord a orașului pentru a ajunge la acest parc.",
+            "en": "Take a bus to the northern part of the city to reach this park."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Živinice",
+            "hu": "Živinicei Kulturális Központ",
+            "ro": "Centrul Cultural Živinice",
+            "en": "Živinice Cultural Center"
+          },
+          "coords": [
+            18.6515,
+            44.4475
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:37",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Ein angenehmer Spaziergang zurück ins Zentrum zum Mittagessen in der Nähe des Kulturzentrums.",
+            "hu": "Kellemes séta vissza a központba ebédelni a Kulturális Központ közelében.",
+            "ro": "O plimbare plăcută înapoi spre centru pentru prânz lângă Centrul Cultural.",
+            "en": "A pleasant walk back towards the center for lunch near the Cultural Center."
+          }
+        },
+        {
+          "name": {
+            "de": "Bulevar-Promenade",
+            "hu": "Bulevar sétány",
+            "ro": "Promenada Bulevar",
+            "en": "Bulevar Promenade"
+          },
+          "coords": [
+            18.654,
+            44.4465
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:41",
+          "stay_min": 124,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit einem entspannten Spaziergang und einem Kaffee hier.",
+            "hu": "Zárja a napot egy laza sétával és egy kávéval itt.",
+            "ro": "Încheiați-vă ziua cu o plimbare relaxantă și o cafea aici.",
+            "en": "End your day with a relaxing stroll and a coffee here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln erkunden Sie Živinice in Clustern. Der Morgen ist dem historischen Zentrum gewidmet, das Sie zu Fuß erkunden. Eine kurze Busfahrt bringt Sie dann zum ruhigen Gedenkpark. Von dort aus gehen Sie zurück ins Zentrum, um die lokale Kultur und Küche rund um das Kulturzentrum und die Bulevar-Promenade zu genießen, wo Ihr Tag entspannt ausklingt.",
+        "hu": "A tömegközlekedést használva csoportokban fedezi fel Živinicét. A délelőtt a történelmi központé, amelyet gyalogosan jár be. Egy rövid buszozás után a csendes Emlékparkba érkezik. Onnan visszasétál a központba, hogy élvezze a helyi kultúrát és konyhát a Kulturális Központ és a Bulevar sétány környékén, ahol a napja pihentetően ér véget.",
+        "ro": "Folosind transportul public, explorați Živinice în grupuri. Dimineața este dedicată centrului istoric, pe care îl explorați pe jos. O scurtă călătorie cu autobuzul vă duce apoi la liniștitul Parc Memorial. De acolo, mergeți pe jos înapoi în centru pentru a vă bucura de cultura și bucătăria locală în jurul Centrului Cultural și a promenadei Bulevar, unde ziua se încheie într-un mod relaxant.",
+        "en": "Using public transport, you'll explore Živinice in clusters. The morning is dedicated to the historic center, which you'll explore on foot. a short bus ride then takes you to the peaceful Memorial Park. From there, you'll walk back to the center to enjoy local culture and cuisine around the Cultural Center and the Bulevar Promenade, where your day ends relaxingly."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ćevapi",
+            "tip": "Gegrillte Hackfleischröllchen in Fladenbrot, das Nationalgericht."
+          },
+          {
+            "name": "Burek",
+            "tip": "Blätterteiggebäck gefüllt mit Fleisch, Käse oder Spinat, perfekt für einen Snack."
+          },
+          {
+            "name": "Bosanski Lonac",
+            "tip": "Ein herzhafter Fleischeintopf, der stundenlang gekocht wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ćevapi",
+            "tip": "Grillezett darált hús rolád lepényben, a nemzeti étel."
+          },
+          {
+            "name": "Burek",
+            "tip": "Péksütemény hússal, sajttal vagy spenóttal töltve, tökéletes harapnivaló."
+          },
+          {
+            "name": "Bosanski Lonac",
+            "tip": "Gazdag húsos egytálétel, amit órákig főznek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ćevapi",
+            "tip": "Rulouri de carne tocată la grătar în lipie, felul de mâncare național."
+          },
+          {
+            "name": "Burek",
+            "tip": "Plăcintă din foietaj umplută cu carne, brânză sau spanac, perfectă pentru o gustare."
+          },
+          {
+            "name": "Bosanski Lonac",
+            "tip": "O tocană de carne consistentă, gătită ore în șir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ćevapi",
+            "tip": "Grilled minced meat rolls in a flatbread, the national dish."
+          },
+          {
+            "name": "Burek",
+            "tip": "Filo pastry filled with meat, cheese, or spinach, perfect for a snack."
+          },
+          {
+            "name": "Bosanski Lonac",
+            "tip": "A hearty meat and vegetable stew cooked for hours."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gedenkpark Živinice",
+            "tip": "Finden Sie eine Bank im Schatten und genießen Sie die Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Flusses Spreča",
+            "tip": "Ein Spaziergang entlang des Flusses kann sehr beruhigend sein.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Früher Morgen am Hauptplatz",
+            "tip": "Erleben Sie die Stadt, bevor sie erwacht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Živinicei Emlékpark",
+            "tip": "Keressen egy padot az árnyékban, és élvezze a csendet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spreča folyó partja",
+            "tip": "Egy séta a folyó mentén nagyon megnyugtató lehet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kora reggel a főtéren",
+            "tip": "Tapasztalja meg a várost, mielőtt felébred.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Memorial Živinice",
+            "tip": "Găsiți o bancă la umbră și bucurați-vă de liniște.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malurile râului Spreča",
+            "tip": "O plimbare de-a lungul râului poate fi foarte liniștitoare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dimineața devreme în piața principală",
+            "tip": "Experimentați orașul înainte de a se trezi.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Živinice Memorial Park",
+            "tip": "Find a bench in the shade and enjoy the quiet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the Spreča River",
+            "tip": "A walk along the river can be very calming.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Early morning at the main square",
+            "tip": "Experience the city before it wakes up.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach handgefertigten Waren und lokalen Produkten."
+          },
+          {
+            "name": "Geschäfte an der Bulevar-Promenade",
+            "tip": "Eine Mischung aus lokalen Boutiquen und bekannten Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen kézműves termékeket és helyi árukat."
+          },
+          {
+            "name": "Üzletek a Bulevar sétányon",
+            "tip": "Helyi butikok és ismert márkák keveréke."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse artizanale și produse locale."
+          },
+          {
+            "name": "Magazinele de pe promenada Bulevar",
+            "tip": "Un amestec de buticuri locale și mărci cunoscute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for handcrafted goods and local produce."
+          },
+          {
+            "name": "Shops on Bulevar Promenade",
+            "tip": "A mix of local boutiques and known brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, besonders für die letzte Fahrt zurück.",
+          "Halten Sie Kleingeld für die Tickets bereit.",
+          "Seien Sie bereit, zwischen den Bushaltestellen und den Sehenswürdigkeiten zu laufen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy pénzt takarítson meg.",
+          "Előre ellenőrizze a buszmenetrendet, különösen az utolsó járatot.",
+          "Készítsen elő aprópénzt a jegyekhez.",
+          "Készüljön fel a buszmegállók és a látnivalók közötti sétára."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru a economisi bani.",
+          "Verificați programul autobuzelor în avans, în special pentru ultima călătorie înapoi.",
+          "Pregătiți mărunțiș pentru bilete.",
+          "Fiți pregătiți să mergeți pe jos între stațiile de autobuz și atracții."
+        ],
+        "en": [
+          "Buy a day pass for the bus to save money.",
+          "Check the bus schedule in advance, especially for the last ride back.",
+          "Have small change ready for tickets.",
+          "Be prepared to walk between bus stops and the sights."
+        ]
+      }
+    }
+  }
+}

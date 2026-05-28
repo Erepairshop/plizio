@@ -1,0 +1,1447 @@
+{
+  "city_id": "city-durres",
+  "anchor": {
+    "name": "Durrës",
+    "coords": [
+      19.4558,
+      41.3246
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Amphitheater von Durrës",
+            "hu": "Durrësi amfiteátrum",
+            "ro": "Amfiteatrul din Durrës",
+            "en": "Amphitheatre of Durrës"
+          },
+          "coords": [
+            19.4448,
+            41.3129
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Kaufen Sie das Kombiticket, das auch für das Archäologische Museum gilt.",
+            "hu": "Vedd meg a kombinált jegyet, ami az Archeológiai Múzeumba is érvényes.",
+            "ro": "Cumpărați biletul combinat, valabil și pentru Muzeul Arheologic.",
+            "en": "Buy the combination ticket which is also valid for the Archaeological Museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Forum und Thermen",
+            "hu": "Római fórum és fürdők",
+            "ro": "Forul și Termele Romane",
+            "en": "Roman Forum and Thermal Baths"
+          },
+          "coords": [
+            19.4465,
+            41.3142
+          ],
+          "category": "historical",
+          "arrive_at": "10:38",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Stellen Sie sich die geschäftige römische Marktatmosphäre zwischen den Ruinen vor.",
+            "hu": "Képzeld el a nyüzsgő római piaci hangulatot a romok között.",
+            "ro": "Imaginați-vă atmosfera aglomerată a pieței romane printre ruine.",
+            "en": "Imagine the bustling Roman market atmosphere among the ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Byzantinische Stadtmauer",
+            "hu": "Bizánci városfal",
+            "ro": "Zidurile orașului bizantin",
+            "en": "Byzantine City Walls"
+          },
+          "coords": [
+            19.444,
+            41.312
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Einige der besten Abschnitte befinden sich in der Nähe des Amphitheaters.",
+            "hu": "A fal legjobb állapotú részei az amfiteátrum közelében találhatók.",
+            "ro": "Unele dintre cele mai bune secțiuni sunt situate lângă amfiteatru.",
+            "en": "Some of the best-preserved sections are located near the amphitheater."
+          }
+        },
+        {
+          "name": {
+            "de": "Venezianischer Turm",
+            "hu": "Velencei torony",
+            "ro": "Turnul Venețian",
+            "en": "Venetian Tower"
+          },
+          "coords": [
+            19.452,
+            41.31
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Kaffee in der Bar auf dem Dach mit Panoramablick.",
+            "hu": "Igyál egy kávét a torony tetején lévő bárban, és élvezd a panorámát.",
+            "ro": "Savurați o cafea la barul de pe acoperiș pentru vederi panoramice.",
+            "en": "Enjoy a coffee at the rooftop bar for panoramic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum Durrës",
+            "hu": "Durrësi Régészeti Múzeum",
+            "ro": "Muzeul Arheologic din Durrës",
+            "en": "Durrës Archaeological Museum"
+          },
+          "coords": [
+            19.4545,
+            41.3105
+          ],
+          "category": "museums",
+          "arrive_at": "14:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die hellenistischen und römischen Artefakte, sie sind außergewöhnlich.",
+            "hu": "Koncentrálj a hellenisztikus és római leletekre, azok a legkiemelkedőbbek.",
+            "ro": "Concentrează-te pe artefactele elenistice și romane, sunt excepționale.",
+            "en": "Focus on the Hellenistic and Roman artifacts; they are exceptional."
+          }
+        },
+        {
+          "name": {
+            "de": "Sfinksi-Promenade",
+            "hu": "Szfinx sétány",
+            "ro": "Promenada Sfinksi",
+            "en": "Sfinksi Promenade"
+          },
+          "coords": [
+            19.46,
+            41.318
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Sonnenuntergang über der Adria zu beobachten.",
+            "hu": "Tökéletes hely a naplemente megtekintéséhez az Adriai-tenger felett.",
+            "ro": "Locul perfect pentru a privi apusul peste Marea Adriatică.",
+            "en": "The perfect spot to watch the sunset over the Adriatic Sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen am Meer",
+            "hu": "Vacsora a tengerparton",
+            "ro": "Cină pe malul mării",
+            "en": "Seaside Dinner"
+          },
+          "coords": [
+            19.462,
+            41.32
+          ],
+          "category": "gastro",
+          "arrive_at": "17:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Probieren Sie frische Meeresfrüchte in einem der vielen Restaurants entlang der Promenade.",
+            "hu": "Kóstolj friss tengeri ételeket a sétány mentén található éttermek egyikében.",
+            "ro": "Încercați fructe de mare proaspete la unul dintre multele restaurante de pe promenadă.",
+            "en": "Try fresh seafood at one of the many restaurants along the promenade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer Zeitreise im römischen Amphitheater, dem größten auf dem Balkan. Schlendern Sie durch die Ruinen des antiken Forums, bevor Sie die Überreste der byzantinischen Mauern erkunden. Gönnen Sie sich am Nachmittag einen Panoramablick vom Venezianischen Turm und tauchen Sie im Archäologischen Museum tief in die Geschichte ein. Später entspannen Sie sich auf der Sfinksi-Promenade und beobachten den Sonnenuntergang über der Adria. Beenden Sie Ihren Tag mit einem köstlichen Abendessen mit Meeresfrüchten in einem Restaurant am Meer und genießen Sie die Meeresbrise.",
+        "hu": "Kezdje a napot egy időutazással a római amfiteátrumban, a Balkán legnagyobbikában. Sétáljon végig az ókori fórum romjain, majd fedezze fel a bizánci falak maradványait. Délután élvezze a panorámát a Velencei toronyból, és merüljön el a történelemben a Régészeti Múzeumban. Később pihenjen a Szfinx sétányon, figyelve a naplementét az Adriai-tenger felett. Zárja a napot egy ízletes tengeri vacsorával egy tengerparti étteremben, élvezve a tengeri szellőt.",
+        "ro": "Începeți ziua călătorind înapoi în timp la amfiteatrul roman, cel mai mare din Balcani. Plimbați-vă printre ruinele forului antic înainte de a explora rămășițele zidurilor bizantine. După-amiaza, bucurați-vă de o priveliște panoramică din Turnul Venețian și scufundați-vă adânc în istorie la Muzeul Arheologic. Mai târziu, relaxați-vă pe Promenada Sfinksi, urmărind apusul peste Marea Adriatică. Încheiați ziua cu o cină delicioasă cu fructe de mare la un restaurant de pe malul mării, savurând briza mării.",
+        "en": "Start your day traveling back in time at the Roman amphitheater, the largest in the Balkans. Stroll through the ruins of the ancient forum before exploring the remnants of the Byzantine walls. In the afternoon, take in a panoramic view from the Venetian Tower and dive deep into history at the Archaeological Museum. Later, relax on the Sfinksi Promenade, watching the sunset over the Adriatic Sea. End your day with a delicious seafood dinner at a seaside restaurant, enjoying the sea breeze."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tavë Kosi",
+            "tip": "Ein traditionelles albanisches Gericht aus Lamm und Joghurt. Probieren Sie es im Restaurant 'Gjergj Kastrioti'."
+          },
+          {
+            "name": "Frische Meeresfrüchte",
+            "tip": "Genießen Sie gegrillten Fisch oder Oktopussalat in einem Restaurant in der Nähe des Hafens, z.B. '4 Stinët'."
+          },
+          {
+            "name": "Byrek",
+            "tip": "Ein herzhaftes Gebäck, gefüllt mit Käse, Fleisch oder Spinat, perfekt für einen schnellen Snack von einer lokalen Bäckerei."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tavë Kosi",
+            "tip": "Hagyományos albán bárányhúsos, joghurtos étel. Kóstolja meg a 'Gjergj Kastrioti' étteremben."
+          },
+          {
+            "name": "Friss tengeri ételek",
+            "tip": "Élvezze a grillezett halat vagy polipsalátát a kikötő közelében, például a '4 Stinët' étteremben."
+          },
+          {
+            "name": "Byrek",
+            "tip": "Sós péksütemény sajttal, hússal vagy spenóttal töltve, tökéletes egy gyors harapnivalóhoz egy helyi pékségből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tavë Kosi",
+            "tip": "Un fel de mâncare tradițional albanez făcut cu miel și iaurt. Încercați-l la restaurantul 'Gjergj Kastrioti'."
+          },
+          {
+            "name": "Fructe de mare proaspete",
+            "tip": "Savurați pește la grătar sau salată de caracatiță la un restaurant lângă port, cum ar fi '4 Stinët'."
+          },
+          {
+            "name": "Byrek",
+            "tip": "O plăcintă sărată umplută cu brânză, carne sau spanac, perfectă pentru o gustare rapidă de la o brutărie locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tavë Kosi",
+            "tip": "A traditional Albanian dish made with lamb and yogurt. Try it at 'Gjergj Kastrioti' restaurant."
+          },
+          {
+            "name": "Fresh Seafood",
+            "tip": "Enjoy grilled fish or octopus salad at a restaurant near the port, such as '4 Stinët'."
+          },
+          {
+            "name": "Byrek",
+            "tip": "A savory pastry filled with cheese, meat, or spinach, perfect for a quick snack from a local bakery."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenuntergang am Sfinksi",
+            "tip": "Finden Sie einen Platz auf der Steinstruktur und beobachten Sie, wie die Sonne im Meer versinkt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Königliche Villa von Durrës (von außen)",
+            "tip": "Ein ruhiger Spaziergang auf dem Hügel in der Nähe der Villa bietet eine friedliche Aussicht und eine Flucht vor den Menschenmassen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ein früher Morgenspaziergang am Strand",
+            "tip": "Erleben Sie die ruhige Küste, bevor die Stadt aufwacht.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente a Szfinxnél",
+            "tip": "Keress egy helyet a kőszerkezeten, és nézd, ahogy a nap a tengerbe merül.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Durrësi királyi villa (kívülről)",
+            "tip": "Egy csendes séta a villa közelében lévő dombon békés kilátást és menekülést kínál a tömeg elől.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kora reggeli séta a tengerparton",
+            "tip": "Tapasztalja meg a nyugodt tengerpartot, mielőtt a város felébred.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apus de soare la Sfinksi",
+            "tip": "Găsiți un loc pe structura de piatră și priviți soarele scufundându-se în mare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Vila Regală din Durrës (din exterior)",
+            "tip": "O plimbare liniștită pe dealul de lângă vilă oferă o priveliște pașnică și o evadare din mulțime.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "O plimbare de dimineață devreme pe plajă",
+            "tip": "Experimentați coasta liniștită înainte ca orașul să se trezească.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunset at Sfinksi",
+            "tip": "Find a spot on the stone structure and watch the sun sink into the sea.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Royal Villa of Durrës (from outside)",
+            "tip": "A quiet walk on the hill near the villa offers a peaceful view and an escape from the crowds.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "An early morning beach walk",
+            "tip": "Experience the tranquil coast before the city wakes up.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frisches Obst, Olivenöl und lokalen Käse auf dem Hauptmarkt der Stadt."
+          },
+          {
+            "name": "Souvenirläden in der Nähe des Turms",
+            "tip": "Finden Sie handgefertigte Gegenstände und Souvenirs mit albanischen Motiven."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss gyümölcsöt, olívaolajat és helyi sajtot a város fő piacán."
+          },
+          {
+            "name": "Szuvírboltok a torony közelében",
+            "tip": "Keressen kézműves tárgyakat és albán motívumokkal díszített ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați fructe proaspete, ulei de măsline și brânză locală de la piața principală a orașului."
+          },
+          {
+            "name": "Magazine de suveniruri lângă Turn",
+            "tip": "Găsiți obiecte de artizanat și suveniruri cu motive albaneze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for fresh fruit, olive oil, and local cheese at the city's main market."
+          },
+          {
+            "name": "Souvenir Shops near the Tower",
+            "tip": "Find handcrafted items and souvenirs with Albanian motifs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel auf Kopfsteinpflaster laufen werden.",
+          "Nehmen Sie viel Wasser mit, besonders in den Sommermonaten.",
+          "Seien Sie auf unebene Oberflächen in den archäologischen Stätten vorbereitet.",
+          "Die meisten Orte akzeptieren Euro, aber es ist gut, etwas albanische Lek für kleinere Einkäufe dabei zu haben."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog macskakövön sétálni.",
+          "Vigyen magával sok vizet, különösen a nyári hónapokban.",
+          "Készüljön fel az egyenetlen felületekre a régészeti lelőhelyeken.",
+          "A legtöbb helyen elfogadják az eurót, de jó, ha van nálunk némi albán lek kisebb vásárlásokhoz."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe piatră cubică.",
+          "Luați multă apă cu dumneavoastră, mai ales în lunile de vară.",
+          "Fiți pregătit pentru suprafețe denivelate la siturile arheologice.",
+          "Majoritatea locurilor acceptă euro, dar este bine să aveți la dumneavoastră niște lek albanez pentru cumpărături mai mici."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking a lot on cobblestones.",
+          "Carry plenty of water, especially during the summer months.",
+          "Be prepared for uneven surfaces at the archaeological sites.",
+          "Most places accept Euros, but it's good to have some Albanian Lek for smaller purchases."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Amphitheater von Durrës",
+            "hu": "Durrësi amfiteátrum",
+            "ro": "Amfiteatrul din Durrës",
+            "en": "Amphitheatre of Durrës"
+          },
+          "coords": [
+            19.4448,
+            41.3129
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad in der Nähe ab und erkunden Sie die beeindruckende Arena.",
+            "hu": "Zárd le a biciklidet a közelben, és fedezd fel ezt a lenyűgöző arénát.",
+            "ro": "Legați-vă bicicleta în apropiere și explorați pe jos această arenă impresionantă.",
+            "en": "Lock your bike nearby and explore this impressive arena on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Venezianischer Turm",
+            "hu": "Velencei torony",
+            "ro": "Turnul Venețian",
+            "en": "Venetian Tower"
+          },
+          "coords": [
+            19.452,
+            41.31
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein kurzer, aber lohnender Aufstieg zum Turm für eine großartige Aussicht.",
+            "hu": "Rövid, de megéri felmenni a toronyba a nagyszerű kilátásért.",
+            "ro": "O urcare scurtă, dar plină de satisfacții, până la turn pentru o priveliște minunată.",
+            "en": "A short but rewarding climb up the tower for a great view."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum Durrës",
+            "hu": "Durrësi Régészeti Múzeum",
+            "ro": "Muzeul Arheologic din Durrës",
+            "en": "Durrës Archaeological Museum"
+          },
+          "coords": [
+            19.4545,
+            41.3105
+          ],
+          "category": "museums",
+          "arrive_at": "11:12",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Muss, um die reiche Geschichte der Stadt vollständig zu verstehen.",
+            "hu": "Kötelező látnivaló a város gazdag történelmének teljes megértéséhez.",
+            "ro": "O vizită obligatorie pentru a înțelege pe deplin istoria bogată a orașului.",
+            "en": "A must-visit to fully understand the city's rich history."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Hafens",
+            "hu": "Ebéd a kikötő közelében",
+            "ro": "Prânz lângă port",
+            "en": "Lunch near the Port"
+          },
+          "coords": [
+            19.456,
+            41.311
+          ],
+          "category": "gastro",
+          "arrive_at": "12:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Viele Restaurants bieten hier frischen Fang des Tages an.",
+            "hu": "Sok étterem kínálja itt a nap friss fogását.",
+            "ro": "Multe restaurante de aici oferă captura proaspătă a zilei.",
+            "en": "Many restaurants here offer the fresh catch of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Sfinksi-Promenade & Strand",
+            "hu": "Szfinx sétány és strand",
+            "ro": "Promenada și plaja Sfinksi",
+            "en": "Sfinksi Promenade & Beach"
+          },
+          "coords": [
+            19.465,
+            41.325
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:23",
+          "stay_min": 120,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und genießen Sie eine erfrischende Pause am Meer.",
+            "hu": "Zárd le a biciklit, és élvezd a frissítő szünetet a tengernél.",
+            "ro": "Legați-vă bicicleta și bucurați-vă de o pauză răcoritoare la malul mării.",
+            "en": "Lock up your bike and enjoy a refreshing break by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Königliche Villa von Durrës",
+            "hu": "Durrësi királyi villa",
+            "ro": "Vila Regală din Durrës",
+            "en": "Royal Villa of Durrës"
+          },
+          "coords": [
+            19.447,
+            41.309
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:41",
+          "stay_min": 30,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Eine anspruchsvolle Radtour den Hügel hinauf, aber die Aussicht von oben ist die Mühe wert.",
+            "hu": "Kihívást jelentő biciklizés a dombra, de a kilátás fentről megéri a fáradságot.",
+            "ro": "O urcare provocatoare cu bicicleta pe deal, dar priveliștea de sus merită efortul.",
+            "en": "A challenging bike ride up the hill, but the view from the top is worth the effort."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am beeindruckenden Amphitheater. Fahren Sie weiter zum Venezianischen Turm für einen schnellen Panoramablick, bevor Sie im Archäologischen Museum in die antike Geschichte eintauchen. Genießen Sie ein Mittagessen mit frischen Meeresfrüchten am Hafen. Am Nachmittag radeln Sie die Küste entlang zur Sfinksi-Promenade für eine lange, entspannende Pause am Strand. Beenden Sie Ihr Abenteuer mit einer anspruchsvollen Fahrt zur Königlichen Villa, die mit einer atemberaubenden Aussicht auf die Stadt und das Meer belohnt wird.",
+        "hu": "Kezdje a kerékpártúrát a lenyűgöző amfiteátrumnál. Tekerjen tovább a Velencei toronyhoz egy gyors panorámáért, mielőtt elmerülne az ókori történelemben a Régészeti Múzeumban. Ebédeljen friss tengeri ételeket a kikötőben. Délután biciklizzen a part mentén a Szfinx sétányhoz egy hosszú, pihentető tengerparti szünetre. Zárja a kalandot egy kihívást jelentő tekeréssel a Királyi Villához, amit a városra és a tengerre nyíló lélegzetelállító kilátás jutalmaz.",
+        "ro": "Începeți turul cu bicicleta la impresionantul amfiteatru. Continuați spre Turnul Venețian pentru o priveliște panoramică rapidă înainte de a vă scufunda în istoria antică la Muzeul Arheologic. Bucurați-vă de un prânz cu fructe de mare proaspete lângă port. După-amiaza, pedalați de-a lungul coastei până la Promenada Sfinksi pentru o pauză lungă și relaxantă pe plajă. Încheiați aventura cu o plimbare provocatoare până la Vila Regală, recompensată cu o priveliște uluitoare asupra orașului și a mării.",
+        "en": "Start your bike tour at the impressive amphitheater. Continue to the Venetian Tower for a quick panoramic view before delving into ancient history at the Archaeological Museum. Enjoy a fresh seafood lunch by the port. In the afternoon, cycle along the coast to the Sfinksi Promenade for a long, relaxing break on the beach. End your adventure with a challenging ride up to the Royal Villa, rewarded with a stunning view of the city and the sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tavë Kosi",
+            "tip": "Ein traditionelles albanisches Gericht aus Lamm und Joghurt. Probieren Sie es im Restaurant 'Gjergj Kastrioti'."
+          },
+          {
+            "name": "Frische Meeresfrüchte",
+            "tip": "Genießen Sie gegrillten Fisch oder Oktopussalat in einem Restaurant in der Nähe des Hafens, z.B. '4 Stinët'."
+          },
+          {
+            "name": "Byrek",
+            "tip": "Ein herzhaftes Gebäck, gefüllt mit Käse, Fleisch oder Spinat, perfekt für einen schnellen Snack von einer lokalen Bäckerei."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tavë Kosi",
+            "tip": "Hagyományos albán bárányhúsos, joghurtos étel. Kóstolja meg a 'Gjergj Kastrioti' étteremben."
+          },
+          {
+            "name": "Friss tengeri ételek",
+            "tip": "Élvezze a grillezett halat vagy polipsalátát a kikötő közelében, például a '4 Stinët' étteremben."
+          },
+          {
+            "name": "Byrek",
+            "tip": "Sós péksütemény sajttal, hússal vagy spenóttal töltve, tökéletes egy gyors harapnivalóhoz egy helyi pékségből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tavë Kosi",
+            "tip": "Un fel de mâncare tradițional albanez făcut cu miel și iaurt. Încercați-l la restaurantul 'Gjergj Kastrioti'."
+          },
+          {
+            "name": "Fructe de mare proaspete",
+            "tip": "Savurați pește la grătar sau salată de caracatiță la un restaurant lângă port, cum ar fi '4 Stinët'."
+          },
+          {
+            "name": "Byrek",
+            "tip": "O plăcintă sărată umplută cu brânză, carne sau spanac, perfectă pentru o gustare rapidă de la o brutărie locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tavë Kosi",
+            "tip": "A traditional Albanian dish made with lamb and yogurt. Try it at 'Gjergj Kastrioti' restaurant."
+          },
+          {
+            "name": "Fresh Seafood",
+            "tip": "Enjoy grilled fish or octopus salad at a restaurant near the port, such as '4 Stinët'."
+          },
+          {
+            "name": "Byrek",
+            "tip": "A savory pastry filled with cheese, meat, or spinach, perfect for a quick snack from a local bakery."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenuntergang am Sfinksi",
+            "tip": "Finden Sie einen Platz auf der Steinstruktur und beobachten Sie, wie die Sonne im Meer versinkt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Königliche Villa von Durrës (von außen)",
+            "tip": "Ein ruhiger Spaziergang auf dem Hügel in der Nähe der Villa bietet eine friedliche Aussicht und eine Flucht vor den Menschenmassen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ein früher Morgenspaziergang am Strand",
+            "tip": "Erleben Sie die ruhige Küste, bevor die Stadt aufwacht.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente a Szfinxnél",
+            "tip": "Keress egy helyet a kőszerkezeten, és nézd, ahogy a nap a tengerbe merül.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Durrësi királyi villa (kívülről)",
+            "tip": "Egy csendes séta a villa közelében lévő dombon békés kilátást és menekülést kínál a tömeg elől.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kora reggeli séta a tengerparton",
+            "tip": "Tapasztalja meg a nyugodt tengerpartot, mielőtt a város felébred.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apus de soare la Sfinksi",
+            "tip": "Găsiți un loc pe structura de piatră și priviți soarele scufundându-se în mare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Vila Regală din Durrës (din exterior)",
+            "tip": "O plimbare liniștită pe dealul de lângă vilă oferă o priveliște pașnică și o evadare din mulțime.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "O plimbare de dimineață devreme pe plajă",
+            "tip": "Experimentați coasta liniștită înainte ca orașul să se trezească.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunset at Sfinksi",
+            "tip": "Find a spot on the stone structure and watch the sun sink into the sea.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Royal Villa of Durrës (from outside)",
+            "tip": "A quiet walk on the hill near the villa offers a peaceful view and an escape from the crowds.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "An early morning beach walk",
+            "tip": "Experience the tranquil coast before the city wakes up.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frisches Obst, Olivenöl und lokalen Käse auf dem Hauptmarkt der Stadt."
+          },
+          {
+            "name": "Souvenirläden in der Nähe des Turms",
+            "tip": "Finden Sie handgefertigte Gegenstände und Souvenirs mit albanischen Motiven."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss gyümölcsöt, olívaolajat és helyi sajtot a város fő piacán."
+          },
+          {
+            "name": "Szuvírboltok a torony közelében",
+            "tip": "Keressen kézműves tárgyakat és albán motívumokkal díszített ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați fructe proaspete, ulei de măsline și brânză locală de la piața principală a orașului."
+          },
+          {
+            "name": "Magazine de suveniruri lângă Turn",
+            "tip": "Găsiți obiecte de artizanat și suveniruri cu motive albaneze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for fresh fruit, olive oil, and local cheese at the city's main market."
+          },
+          {
+            "name": "Souvenir Shops near the Tower",
+            "tip": "Find handcrafted items and souvenirs with Albanian motifs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad, bevor Sie losfahren, insbesondere die Bremsen.",
+          "Achten Sie auf den Verkehr, da die Radwege möglicherweise nicht durchgehend sind.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad an den Haltestellen sicher abzustellen.",
+          "Die Fahrt entlang der Küste ist flach und angenehm, aber seien Sie auf Hügel im Landesinneren vorbereitet."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket.",
+          "Legyen óvatos a forgalomban, mivel a kerékpárutak nem mindig folyamatosak.",
+          "Vigyen magával lakatot, hogy biztonságosan lezárhassa a kerékpárt a megállóknál.",
+          "A tengerparti út sík és élvezetes, de készüljön fel a dombokra a szárazföld belsejében."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni, în special frânele.",
+          "Fiți atenți la trafic, deoarece pistele de biciclete s-ar putea să nu fie continue.",
+          "Aduceți un lacăt pentru a vă asigura bicicleta la opriri.",
+          "Plimbarea de-a lungul coastei este plată și plăcută, dar fiți pregătit pentru dealuri în interiorul țării."
+        ],
+        "en": [
+          "Check your bike before you start, especially the brakes.",
+          "Be mindful of traffic, as bike lanes may not be continuous.",
+          "Bring a lock to secure your bike at the stops.",
+          "The ride along the coast is flat and enjoyable, but be prepared for hills inland."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 15.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken in der Nähe des Amphitheaters",
+            "hu": "Parkolás az amfiteátrum közelében",
+            "ro": "Parcare lângă Amfiteatru",
+            "en": "Parking near the Amphitheatre"
+          },
+          "coords": [
+            19.444,
+            41.3135
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Dies ist Ihr erster Cluster. Parken Sie hier und erkunden Sie die Umgebung zu Fuß.",
+            "hu": "Ez az első állomás-csoport. Parkolj le itt, és fedezd fel a környéket gyalog.",
+            "ro": "Acesta este primul dvs. grup. Parcați aici și explorați zona pe jos.",
+            "en": "This is your first cluster. Park here and explore the area on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Forum und Thermen",
+            "hu": "Római fórum és fürdők",
+            "ro": "Forul și Termele Romane",
+            "en": "Roman Forum and Thermal Baths"
+          },
+          "coords": [
+            19.4465,
+            41.3142
+          ],
+          "category": "historical",
+          "arrive_at": "10:38",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Amphitheater entfernt. Spüren Sie die antike Atmosphäre.",
+            "hu": "Rövid séta az amfiteátrumtól. Érezd az ókori hangulatot.",
+            "ro": "La o scurtă plimbare de amfiteatru. Simțiți atmosfera antică.",
+            "en": "A short walk from the amphitheater. Feel the ancient atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Königliche Villa von Durrës",
+            "hu": "Durrësi királyi villa",
+            "ro": "Vila Regală din Durrës",
+            "en": "Royal Villa of Durrës"
+          },
+          "coords": [
+            19.447,
+            41.309
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:43",
+          "stay_min": 40,
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem Hügelcluster. Genießen Sie die Aussicht und die Brise.",
+            "hu": "Vezess el ehhez a dombtetőn lévő csoporthoz. Élvezd a kilátást és a szellőt.",
+            "ro": "Conduceți spre acest grup de pe deal. Bucurați-vă de priveliște și de briză.",
+            "en": "Drive to this hilltop cluster. Enjoy the view and the breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Durrës & Venezianischer Turm",
+            "hu": "Durrës vára és Velencei torony",
+            "ro": "Castelul Durrës și Turnul Venețian",
+            "en": "Durrës Castle & Venetian Tower"
+          },
+          "coords": [
+            19.452,
+            41.31
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:31",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Burgmauern und besteigen Sie den Turm für eine bessere Aussicht.",
+            "hu": "Fedezd fel a várfalakat, és mássz fel a toronyba a jobb kilátásért.",
+            "ro": "Explorați zidurile castelului și urcați în turn pentru o priveliște mai bună.",
+            "en": "Explore the castle walls and climb the tower for a better view."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Golem für den Sonnenuntergang",
+            "hu": "Golem strand naplementéhez",
+            "ro": "Plaja Golem pentru apus",
+            "en": "Golem Beach for Sunset"
+          },
+          "coords": [
+            19.515,
+            41.235
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:13",
+          "stay_min": 180,
+          "hop_mode": "car",
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Ein längerer Ausflug aus der Stadt für einen ruhigeren Strand und einen perfekten Sonnenuntergang.",
+            "hu": "Egy hosszabb kirándulás a városból egy csendesebb strandért és a tökéletes naplementéért.",
+            "ro": "O excursie mai lungă în afara orașului pentru o plajă mai liniștită și un apus perfect.",
+            "en": "A longer trip out of the city for a quieter beach and a perfect sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in Golem",
+            "hu": "Vacsora Golemben",
+            "ro": "Cină în Golem",
+            "en": "Dinner in Golem"
+          },
+          "coords": [
+            19.516,
+            41.236
+          ],
+          "category": "gastro",
+          "arrive_at": "17:15",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Viele ausgezeichnete Fischrestaurants direkt am Strand.",
+            "hu": "Számos kiváló tengeri étterem található közvetlenül a tengerparton.",
+            "ro": "Multe restaurante excelente cu fructe de mare chiar pe plajă.",
+            "en": "Many excellent seafood restaurants right on the beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag, indem Sie in der Nähe des Amphitheaters parken, Ihrem ersten Cluster. Erkunden Sie zu Fuß die antike Arena und das nahegelegene römische Forum. Anschließend fahren Sie zum Hügelcluster, um die Königliche Villa zu besichtigen und die Aussicht vom Venezianischen Turm zu genießen. Am Nachmittag entfliehen Sie dem Trubel der Stadt und fahren zum ruhigeren Strand von Golem. Entspannen Sie sich im Sand, schwimmen Sie im Meer und erleben Sie einen unvergesslichen Sonnenuntergang. Beenden Sie Ihren perfekten Tag mit einem köstlichen Abendessen mit Meeresfrüchten in einem der Strandrestaurants von Golem.",
+        "hu": "Kezdje a napot az amfiteátrum közelében parkolva, az első állomás-csoportnál. Fedezze fel gyalog az ókori arénát és a közeli római fórumot. Ezután vezessen a dombtetőn lévő csoporthoz, hogy megnézze a Királyi Villát és élvezze a kilátást a Velencei toronyból. Délután meneküljön el a város nyüzsgésétől, és vezessen a csendesebb Golem strandra. Pihenjen a homokban, ússzon a tengerben, és élvezzen egy felejthetetlen naplementét. Zárja a tökéletes napot egy finom tengeri vacsorával Golem egyik tengerparti éttermében.",
+        "ro": "Începeți ziua parcând lângă amfiteatru, primul dvs. grup. Explorați pe jos arena antică și forul roman din apropiere. Apoi, conduceți spre grupul de pe deal pentru a vedea Vila Regală și pentru a vă bucura de priveliștea de la Turnul Venețian. După-amiaza, evadați din agitația orașului și conduceți spre plaja mai liniștită din Golem. Relaxați-vă pe nisip, înotați în mare și asistați la un apus de soare de neuitat. Încheiați ziua perfectă cu o cină delicioasă cu fructe de mare la unul dintre restaurantele de pe plajă din Golem.",
+        "en": "Start your day by parking near the amphitheater, your first cluster. Explore the ancient arena and the nearby Roman forum on foot. Then, drive to the hilltop cluster to see the Royal Villa and enjoy the view from the Venetian Tower. In the afternoon, escape the city bustle and drive to the quieter Golem beach. Relax on the sand, swim in the sea, and witness an unforgettable sunset. End your perfect day with a delicious seafood dinner at one of Golem's beachfront restaurants."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tavë Kosi",
+            "tip": "Ein traditionelles albanisches Gericht aus Lamm und Joghurt. Probieren Sie es im Restaurant 'Gjergj Kastrioti'."
+          },
+          {
+            "name": "Frische Meeresfrüchte",
+            "tip": "Genießen Sie gegrillten Fisch oder Oktopussalat in einem Restaurant in der Nähe des Hafens, z.B. '4 Stinët'."
+          },
+          {
+            "name": "Byrek",
+            "tip": "Ein herzhaftes Gebäck, gefüllt mit Käse, Fleisch oder Spinat, perfekt für einen schnellen Snack von einer lokalen Bäckerei."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tavë Kosi",
+            "tip": "Hagyományos albán bárányhúsos, joghurtos étel. Kóstolja meg a 'Gjergj Kastrioti' étteremben."
+          },
+          {
+            "name": "Friss tengeri ételek",
+            "tip": "Élvezze a grillezett halat vagy polipsalátát a kikötő közelében, például a '4 Stinët' étteremben."
+          },
+          {
+            "name": "Byrek",
+            "tip": "Sós péksütemény sajttal, hússal vagy spenóttal töltve, tökéletes egy gyors harapnivalóhoz egy helyi pékségből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tavë Kosi",
+            "tip": "Un fel de mâncare tradițional albanez făcut cu miel și iaurt. Încercați-l la restaurantul 'Gjergj Kastrioti'."
+          },
+          {
+            "name": "Fructe de mare proaspete",
+            "tip": "Savurați pește la grătar sau salată de caracatiță la un restaurant lângă port, cum ar fi '4 Stinët'."
+          },
+          {
+            "name": "Byrek",
+            "tip": "O plăcintă sărată umplută cu brânză, carne sau spanac, perfectă pentru o gustare rapidă de la o brutărie locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tavë Kosi",
+            "tip": "A traditional Albanian dish made with lamb and yogurt. Try it at 'Gjergj Kastrioti' restaurant."
+          },
+          {
+            "name": "Fresh Seafood",
+            "tip": "Enjoy grilled fish or octopus salad at a restaurant near the port, such as '4 Stinët'."
+          },
+          {
+            "name": "Byrek",
+            "tip": "A savory pastry filled with cheese, meat, or spinach, perfect for a quick snack from a local bakery."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenuntergang am Sfinksi",
+            "tip": "Finden Sie einen Platz auf der Steinstruktur und beobachten Sie, wie die Sonne im Meer versinkt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Königliche Villa von Durrës (von außen)",
+            "tip": "Ein ruhiger Spaziergang auf dem Hügel in der Nähe der Villa bietet eine friedliche Aussicht und eine Flucht vor den Menschenmassen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ein früher Morgenspaziergang am Strand",
+            "tip": "Erleben Sie die ruhige Küste, bevor die Stadt aufwacht.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente a Szfinxnél",
+            "tip": "Keress egy helyet a kőszerkezeten, és nézd, ahogy a nap a tengerbe merül.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Durrësi királyi villa (kívülről)",
+            "tip": "Egy csendes séta a villa közelében lévő dombon békés kilátást és menekülést kínál a tömeg elől.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kora reggeli séta a tengerparton",
+            "tip": "Tapasztalja meg a nyugodt tengerpartot, mielőtt a város felébred.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apus de soare la Sfinksi",
+            "tip": "Găsiți un loc pe structura de piatră și priviți soarele scufundându-se în mare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Vila Regală din Durrës (din exterior)",
+            "tip": "O plimbare liniștită pe dealul de lângă vilă oferă o priveliște pașnică și o evadare din mulțime.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "O plimbare de dimineață devreme pe plajă",
+            "tip": "Experimentați coasta liniștită înainte ca orașul să se trezească.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunset at Sfinksi",
+            "tip": "Find a spot on the stone structure and watch the sun sink into the sea.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Royal Villa of Durrës (from outside)",
+            "tip": "A quiet walk on the hill near the villa offers a peaceful view and an escape from the crowds.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "An early morning beach walk",
+            "tip": "Experience the tranquil coast before the city wakes up.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frisches Obst, Olivenöl und lokalen Käse auf dem Hauptmarkt der Stadt."
+          },
+          {
+            "name": "Souvenirläden in der Nähe des Turms",
+            "tip": "Finden Sie handgefertigte Gegenstände und Souvenirs mit albanischen Motiven."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss gyümölcsöt, olívaolajat és helyi sajtot a város fő piacán."
+          },
+          {
+            "name": "Szuvírboltok a torony közelében",
+            "tip": "Keressen kézműves tárgyakat és albán motívumokkal díszített ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați fructe proaspete, ulei de măsline și brânză locală de la piața principală a orașului."
+          },
+          {
+            "name": "Magazine de suveniruri lângă Turn",
+            "tip": "Găsiți obiecte de artizanat și suveniruri cu motive albaneze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for fresh fruit, olive oil, and local cheese at the city's main market."
+          },
+          {
+            "name": "Souvenir Shops near the Tower",
+            "tip": "Find handcrafted items and souvenirs with Albanian motifs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken kann im Stadtzentrum eine Herausforderung sein. Nutzen Sie ausgewiesene Parkplätze.",
+          "Planen Sie zusätzliche Zeit für den Verkehr ein, insbesondere in der Hochsaison.",
+          "Lassen Sie keine Wertsachen im Auto.",
+          "Die Straßen außerhalb des Zentrums können eng sein, fahren Sie also vorsichtig."
+        ],
+        "hu": [
+          "A parkolás kihívást jelenthet a városközpontban. Használja a kijelölt parkolókat.",
+          "Tervezzen plusz időt a forgalomra, különösen a főszezonban.",
+          "Ne hagyjon értéktárgyakat az autóban.",
+          "A központon kívüli utak szűkek lehetnek, vezessen óvatosan."
+        ],
+        "ro": [
+          "Parcarea poate fi o provocare în centrul orașului. Folosiți parcările desemnate.",
+          "Planificați timp suplimentar pentru trafic, în special în timpul sezonului de vârf.",
+          "Nu lăsați obiecte de valoare în mașină.",
+          "Drumurile din afara centrului pot fi înguste, așa că conduceți cu prudență."
+        ],
+        "en": [
+          "Parking can be challenging in the city center. Use designated parking lots.",
+          "Plan for extra time for traffic, especially during peak season.",
+          "Do not leave valuables in the car.",
+          "Roads outside the center can be narrow, so drive carefully."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Amphitheater (Bus)",
+            "hu": "Érkezés az amfiteátrumhoz (busszal)",
+            "ro": "Sosire la Amfiteatru (autobuz)",
+            "en": "Arrival at Amphitheatre (Bus)"
+          },
+          "coords": [
+            19.4448,
+            41.3129
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus zum zentralen Bereich. Dies ist Ihr erster Wandercluster.",
+            "hu": "Menj helyi busszal a központi részre. Ez az első gyalogos állomás-csoport.",
+            "ro": "Luați un autobuz local spre zona centrală. Acesta este primul dvs. grup de mers pe jos.",
+            "en": "Take a local bus to the central area. This is your first walking cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Byzantinische Stadtmauer",
+            "hu": "Bizánci városfal",
+            "ro": "Zidurile orașului bizantin",
+            "en": "Byzantine City Walls"
+          },
+          "coords": [
+            19.444,
+            41.312
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:36",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Vom Amphitheater aus leicht zu Fuß erreichbar.",
+            "hu": "Könnyen megközelíthető gyalog az amfiteátrumtól.",
+            "ro": "Ușor de parcurs pe jos de la amfiteatru.",
+            "en": "An easy walk from the amphitheater."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Küstencluster",
+            "hu": "Busz a tengerparti állomás-csoporthoz",
+            "ro": "Autobuz spre grupul de coastă",
+            "en": "Bus to the Coastal Cluster"
+          },
+          "coords": [
+            19.452,
+            41.31
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:46",
+          "stay_min": 45,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Steigen Sie in der Nähe des Venezianischen Turms aus und erkunden Sie den zweiten Cluster.",
+            "hu": "Szállj le a Velencei torony közelében, és fedezd fel a második állomás-csoportot.",
+            "ro": "Coborâți lângă Turnul Venețian pentru a explora al doilea grup.",
+            "en": "Get off near the Venetian Tower to explore the second cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum Durrës",
+            "hu": "Durrësi Régészeti Múzeum",
+            "ro": "Muzeul Arheologic din Durrës",
+            "en": "Durrës Archaeological Museum"
+          },
+          "coords": [
+            19.4545,
+            41.3105
+          ],
+          "category": "museums",
+          "arrive_at": "12:37",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Turm entfernt, ein Muss für Geschichtsliebhaber.",
+            "hu": "Rövid séta a toronytól, kötelező a történelem kedvelőinek.",
+            "ro": "La o scurtă plimbare de turn, o vizită obligatorie pentru pasionații de istorie.",
+            "en": "A short walk from the tower, a must-see for history buffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zur Sfinksi-Promenade",
+            "hu": "Busz a Szfinx sétányhoz",
+            "ro": "Autobuz spre Promenada Sfinksi",
+            "en": "Bus to Sfinksi Promenade"
+          },
+          "coords": [
+            19.46,
+            41.318
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:39",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus entlang der Küste, um sich zu entspannen und den Sonnenuntergang zu genießen.",
+            "hu": "Menj busszal a part mentén, hogy pihenj és élvezd a naplementét.",
+            "ro": "Luați un autobuz de-a lungul coastei pentru relaxare și pentru a admira apusul.",
+            "en": "Take a bus along the coast for some relaxation and sunset viewing."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen am Meer",
+            "hu": "Vacsora a tengerparton",
+            "ro": "Cină pe malul mării",
+            "en": "Seaside Dinner"
+          },
+          "coords": [
+            19.462,
+            41.32
+          ],
+          "category": "gastro",
+          "arrive_at": "16:41",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wählen Sie eines der vielen Restaurants für eine perfekte Mahlzeit zum Abschluss des Tages.",
+            "hu": "Válassz a sok étterem közül egy tökéletes vacsorához a nap végén.",
+            "ro": "Alegeți unul dintre multele restaurante pentru o masă perfectă de sfârșit de zi.",
+            "en": "Choose from one of the many restaurants for a perfect end-of-day meal."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die lokalen Busse, um sich zwischen den Clustern zu bewegen. Beginnen Sie Ihren Tag im historischen Zentrum und erkunden Sie zu Fuß das Amphitheater und die byzantinischen Mauern. Nehmen Sie dann einen Bus zum Küstencluster, um den Venezianischen Turm zu besichtigen und das Archäologische Museum zu besuchen. Am Nachmittag bringt Sie ein weiterer Bus zur lebhaften Sfinksi-Promenade. Entspannen Sie sich, genießen Sie die Meeresbrise und den Sonnenuntergang, bevor Sie Ihren Tag mit einem köstlichen Abendessen in einem Restaurant am Meer beenden.",
+        "hu": "Használja a helyi buszokat a klaszterek közötti közlekedéshez. Kezdje a napot a történelmi központban, gyalog fedezze fel az amfiteátrumot és a bizánci falakat. Ezután szálljon buszra a tengerparti klaszterhez, hogy megnézze a Velencei tornyot és meglátogassa a Régészeti Múzeumot. Délután egy másik busz elviszi a nyüzsgő Szfinx sétányra. Pihenjen, élvezze a tengeri szellőt és a naplementét, mielőtt egy finom vacsorával zárja a napot egy tengerparti étteremben.",
+        "ro": "Folosiți autobuzele locale pentru a vă deplasa între grupuri. Începeți ziua în centrul istoric, explorând pe jos amfiteatrul și zidurile bizantine. Apoi, luați un autobuz spre grupul de coastă pentru a vedea Turnul Venețian și a vizita Muzeul Arheologic. După-amiaza, un alt autobuz vă va duce la animata Promenadă Sfinksi. Relaxați-vă, bucurați-vă de briza mării și de apus, înainte de a încheia ziua cu o cină delicioasă la un restaurant de pe malul mării.",
+        "en": "Use the local buses to move between clusters. Start your day in the historical center, exploring the amphitheater and Byzantine walls on foot. Then, take a bus to the coastal cluster to see the Venetian Tower and visit the Archaeological Museum. In the afternoon, another bus will take you to the lively Sfinksi Promenade. Relax, enjoy the sea breeze, and the sunset before ending your day with a delicious dinner at a seaside restaurant."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tavë Kosi",
+            "tip": "Ein traditionelles albanisches Gericht aus Lamm und Joghurt. Probieren Sie es im Restaurant 'Gjergj Kastrioti'."
+          },
+          {
+            "name": "Frische Meeresfrüchte",
+            "tip": "Genießen Sie gegrillten Fisch oder Oktopussalat in einem Restaurant in der Nähe des Hafens, z.B. '4 Stinët'."
+          },
+          {
+            "name": "Byrek",
+            "tip": "Ein herzhaftes Gebäck, gefüllt mit Käse, Fleisch oder Spinat, perfekt für einen schnellen Snack von einer lokalen Bäckerei."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tavë Kosi",
+            "tip": "Hagyományos albán bárányhúsos, joghurtos étel. Kóstolja meg a 'Gjergj Kastrioti' étteremben."
+          },
+          {
+            "name": "Friss tengeri ételek",
+            "tip": "Élvezze a grillezett halat vagy polipsalátát a kikötő közelében, például a '4 Stinët' étteremben."
+          },
+          {
+            "name": "Byrek",
+            "tip": "Sós péksütemény sajttal, hússal vagy spenóttal töltve, tökéletes egy gyors harapnivalóhoz egy helyi pékségből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tavë Kosi",
+            "tip": "Un fel de mâncare tradițional albanez făcut cu miel și iaurt. Încercați-l la restaurantul 'Gjergj Kastrioti'."
+          },
+          {
+            "name": "Fructe de mare proaspete",
+            "tip": "Savurați pește la grătar sau salată de caracatiță la un restaurant lângă port, cum ar fi '4 Stinët'."
+          },
+          {
+            "name": "Byrek",
+            "tip": "O plăcintă sărată umplută cu brânză, carne sau spanac, perfectă pentru o gustare rapidă de la o brutărie locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tavë Kosi",
+            "tip": "A traditional Albanian dish made with lamb and yogurt. Try it at 'Gjergj Kastrioti' restaurant."
+          },
+          {
+            "name": "Fresh Seafood",
+            "tip": "Enjoy grilled fish or octopus salad at a restaurant near the port, such as '4 Stinët'."
+          },
+          {
+            "name": "Byrek",
+            "tip": "A savory pastry filled with cheese, meat, or spinach, perfect for a quick snack from a local bakery."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenuntergang am Sfinksi",
+            "tip": "Finden Sie einen Platz auf der Steinstruktur und beobachten Sie, wie die Sonne im Meer versinkt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Königliche Villa von Durrës (von außen)",
+            "tip": "Ein ruhiger Spaziergang auf dem Hügel in der Nähe der Villa bietet eine friedliche Aussicht und eine Flucht vor den Menschenmassen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ein früher Morgenspaziergang am Strand",
+            "tip": "Erleben Sie die ruhige Küste, bevor die Stadt aufwacht.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente a Szfinxnél",
+            "tip": "Keress egy helyet a kőszerkezeten, és nézd, ahogy a nap a tengerbe merül.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Durrësi királyi villa (kívülről)",
+            "tip": "Egy csendes séta a villa közelében lévő dombon békés kilátást és menekülést kínál a tömeg elől.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kora reggeli séta a tengerparton",
+            "tip": "Tapasztalja meg a nyugodt tengerpartot, mielőtt a város felébred.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apus de soare la Sfinksi",
+            "tip": "Găsiți un loc pe structura de piatră și priviți soarele scufundându-se în mare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Vila Regală din Durrës (din exterior)",
+            "tip": "O plimbare liniștită pe dealul de lângă vilă oferă o priveliște pașnică și o evadare din mulțime.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "O plimbare de dimineață devreme pe plajă",
+            "tip": "Experimentați coasta liniștită înainte ca orașul să se trezească.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunset at Sfinksi",
+            "tip": "Find a spot on the stone structure and watch the sun sink into the sea.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Royal Villa of Durrës (from outside)",
+            "tip": "A quiet walk on the hill near the villa offers a peaceful view and an escape from the crowds.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "An early morning beach walk",
+            "tip": "Experience the tranquil coast before the city wakes up.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frisches Obst, Olivenöl und lokalen Käse auf dem Hauptmarkt der Stadt."
+          },
+          {
+            "name": "Souvenirläden in der Nähe des Turms",
+            "tip": "Finden Sie handgefertigte Gegenstände und Souvenirs mit albanischen Motiven."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss gyümölcsöt, olívaolajat és helyi sajtot a város fő piacán."
+          },
+          {
+            "name": "Szuvírboltok a torony közelében",
+            "tip": "Keressen kézműves tárgyakat és albán motívumokkal díszített ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați fructe proaspete, ulei de măsline și brânză locală de la piața principală a orașului."
+          },
+          {
+            "name": "Magazine de suveniruri lângă Turn",
+            "tip": "Găsiți obiecte de artizanat și suveniruri cu motive albaneze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for fresh fruit, olive oil, and local cheese at the city's main market."
+          },
+          {
+            "name": "Souvenir Shops near the Tower",
+            "tip": "Find handcrafted items and souvenirs with Albanian motifs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Die Busfahrpläne können unregelmäßig sein, planen Sie also etwas Pufferzeit ein.",
+          "Fragen Sie Einheimische nach der richtigen Buslinie, wenn Sie unsicher sind.",
+          "Behalten Sie Ihre Sachen im Bus im Auge."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy pénzt takarítson meg.",
+          "A buszmenetrendek szabálytalanok lehetnek, ezért tervezzen némi pufferidőt.",
+          "Kérdezze meg a helyieket a megfelelő buszjáratról, ha bizonytalan.",
+          "Tartsa szemmel a holmiját a buszon."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru a economisi bani.",
+          "Programele autobuzelor pot fi neregulate, așa că planificați un timp tampon.",
+          "Întrebați localnicii despre linia de autobuz corectă dacă nu sunteți sigur.",
+          "Fiți cu ochii pe bunurile dumneavoastră în autobuz."
+        ],
+        "en": [
+          "Buy a daily bus pass to save money.",
+          "Bus schedules can be erratic, so plan for some buffer time.",
+          "Ask locals for the correct bus line if you are unsure.",
+          "Keep an eye on your belongings on the bus."
+        ]
+      }
+    }
+  }
+}

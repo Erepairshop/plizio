@@ -1,0 +1,1484 @@
+{
+  "city_id": "spain-fuengirola-cities-v2",
+  "anchor": {
+    "name": "Fuengirola",
+    "coords": [
+      -4.6247,
+      36.5397
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Nuestra Señora del Rosario",
+            "hu": "Nuestra Señora del Rosario templom",
+            "ro": "Biserica Nuestra Señora del Rosario",
+            "en": "Church of Nuestra Señora del Rosario"
+          },
+          "coords": [
+            -4.6245,
+            36.541
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Barockfassade und die friedliche Atmosphäre im Inneren.",
+            "hu": "Csodálja meg a barokk homlokzatot és a békés belső hangulatot.",
+            "ro": "Admirați fațada barocă și atmosfera pașnică din interior.",
+            "en": "Admire the Baroque facade and the peaceful atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Geschichtsmuseum Fuengirola",
+            "hu": "Fuengirolai Történeti Múzeum",
+            "ro": "Muzeul de Istorie din Fuengirola",
+            "en": "Fuengirola History Museum"
+          },
+          "coords": [
+            -4.6258,
+            36.5405
+          ],
+          "category": "museums",
+          "arrive_at": "09:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die römischen und phönizischen Artefakte.",
+            "hu": "Fókuszáljon a római és föníciai leletekre.",
+            "ro": "Concentrați-vă pe artefactele romane și feniciene.",
+            "en": "Focus on the Roman and Phoenician artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Paseo Marítimo",
+            "hu": "Paseo Marítimo (Tengerparti sétány)",
+            "ro": "Paseo Marítimo (Promenada)",
+            "en": "Paseo Marítimo (Promenade)"
+          },
+          "coords": [
+            -4.6221,
+            36.5445
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Machen Sie einen gemütlichen Spaziergang und genießen Sie die Meeresbrise.",
+            "hu": "Tegyen egy kellemes sétát és élvezze a tengeri szellőt.",
+            "ro": "Faceți o plimbare relaxantă și bucurați-vă de briza mării.",
+            "en": "Take a leisurely stroll and enjoy the sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Strand",
+            "hu": "Ebédszünet a parton",
+            "ro": "Pauză de prânz pe plajă",
+            "en": "Lunch break on the beach"
+          },
+          "coords": [
+            -4.62,
+            36.546
+          ],
+          "category": "gastro",
+          "arrive_at": "12:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie die 'Espetos de Sardinas' in einem der Chiringuitos.",
+            "hu": "Kóstolja meg az 'espetos de sardinas'-t (nyárson sült szardínia) az egyik chiringuitóban.",
+            "ro": "Încercați 'espetos de sardinas' la unul dintre chiringuitos.",
+            "en": "Try the 'espetos de sardinas' at one of the chiringuitos."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Sohail",
+            "hu": "Sohail Vára",
+            "ro": "Castelul Sohail",
+            "en": "Sohail Castle"
+          },
+          "coords": [
+            -4.6298,
+            36.5333
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Steigen Sie auf die Mauern für einen atemberaubenden Blick über die Küste.",
+            "hu": "Menjen fel a falakra a partvidékre nyíló lenyűgöző kilátásért.",
+            "ro": "Urcați pe ziduri pentru o priveliște uluitoare a coastei.",
+            "en": "Climb the walls for a breathtaking view of the coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Ausgrabungen Finca Secretario",
+            "hu": "Finca Secretario római kori romjai",
+            "ro": "Situl roman Finca Secretario",
+            "en": "Roman Ruins at Finca Secretario"
+          },
+          "coords": [
+            -4.6345,
+            36.5348
+          ],
+          "category": "historical",
+          "arrive_at": "16:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die Überreste einer römischen Fischsalzfabrik.",
+            "hu": "Fedezze fel egy római halsózó üzem maradványait.",
+            "ro": "Descoperiți ruinele unei fabrici romane de sărare a peștelui.",
+            "en": "Discover the remains of a Roman fish-salting factory."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Los Boliches",
+            "hu": "Los Boliches strand",
+            "ro": "Plaja Los Boliches",
+            "en": "Los Boliches Beach"
+          },
+          "coords": [
+            -4.6155,
+            36.5492
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am breiten Sandstrand und beobachten Sie den Sonnenuntergang.",
+            "hu": "Pihenjen a széles homokos tengerparton és nézze a naplementét.",
+            "ro": "Relaxați-vă pe plaja largă cu nisip și priviți apusul.",
+            "en": "Relax on the wide sandy beach and watch the sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Fuengirola mit einem Besuch der Kirche und des Museums. Am Mittag schlendern Sie die belebte Promenade entlang und genießen ein authentisches Mittagessen am Meer. Der Nachmittag ist für die Erkundung der historischen Festung und der römischen Ruinen reserviert. Beenden Sie den Tag entspannt am Strand von Los Boliches und genießen Sie die letzten Sonnenstrahlen.",
+        "hu": "Kezdje a napot Fuengirola szívében a templom és a múzeum meglátogatásával. Délben sétáljon végig a nyüzsgő tengerparti sétányon, és fogyasszon el egy autentikus tengerparti ebédet. A délutánt a történelmi erőd és a római romok felfedezésének szentelje. A napot a Los Boliches strandon pihenve zárja, élvezve az utolsó napsugarakat.",
+        "ro": "Începeți ziua în inima orașului Fuengirola cu o vizită la biserică și muzeu. La prânz, plimbați-vă pe promenada animată și savurați un prânz autentic pe malul mării. După-amiaza este rezervată explorării fortăreței istorice și a ruinelor romane. Încheiați ziua relaxându-vă pe plaja Los Boliches, bucurându-vă de ultimele raze de soare.",
+        "en": "Start your day in the heart of Fuengirola with a visit to the church and museum. At midday, stroll along the bustling promenade and enjoy an authentic seaside lunch. The afternoon is dedicated to exploring the historic fortress and Roman ruins. End the day relaxing on Los Boliches beach, soaking up the last rays of sun."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Espetos de Sardinas",
+            "tip": "Frisch gegrillte Sardinen am Spieß, ein lokaler Genuss."
+          },
+          {
+            "name": "Pescaíto Frito",
+            "tip": "Eine Auswahl an frittiertem Fisch, perfekt zum Teilen."
+          },
+          {
+            "name": "Porra Antequerana",
+            "tip": "Eine dicke, kalte Tomatensuppe, ähnlich wie Salmorejo."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Espetos de Sardinas",
+            "tip": "Frissen grillezett szardínia nyárson, egy helyi finomság."
+          },
+          {
+            "name": "Pescaíto Frito",
+            "tip": "Vegyes sült halak, tökéletes megosztásra."
+          },
+          {
+            "name": "Porra Antequerana",
+            "tip": "Sűrű, hideg paradicsomleves, hasonló a salmorejóhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Espetos de Sardinas",
+            "tip": "Sardine proaspete la grătar pe frigăruie, o delicatesă locală."
+          },
+          {
+            "name": "Pescaíto Frito",
+            "tip": "O selecție de pește prăjit, perfect de împărțit."
+          },
+          {
+            "name": "Porra Antequerana",
+            "tip": "O supă groasă și rece de roșii, similară cu salmorejo."
+          }
+        ],
+        "en": [
+          {
+            "name": "Espetos de Sardinas",
+            "tip": "Freshly grilled sardines on a skewer, a local delicacy."
+          },
+          {
+            "name": "Pescaíto Frito",
+            "tip": "A mix of fried fish, perfect for sharing."
+          },
+          {
+            "name": "Porra Antequerana",
+            "tip": "A thick, cold tomato soup, similar to salmorejo."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Burg von Sohail bei Sonnenuntergang",
+            "tip": "Die Aussicht von der Burg ist magisch, wenn die Sonne untergeht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ein Spaziergang entlang des Flusses Fuengirola",
+            "tip": "Ein ruhiger Weg abseits der Menschenmassen am Strand.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Die Gärten der Finca del Secretario",
+            "tip": "Ein kleiner, friedlicher Ort neben den römischen Ruinen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sohail vára naplementekor",
+            "tip": "A kilátás a várból varázslatos, ahogy a nap lemegy.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Séta a Fuengirola folyó mentén",
+            "tip": "Egy csendes ösvény távol a strand tömegétől.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Finca del Secretario kertjei",
+            "tip": "Egy kicsi, békés hely a római romok mellett.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Castelul Sohail la apus",
+            "tip": "Priveliștea de la castel este magică la apusul soarelui.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plimbare de-a lungul râului Fuengirola",
+            "tip": "O potecă liniștită departe de aglomerația de pe plajă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grădinile Finca del Secretario",
+            "tip": "Un loc mic și pașnic lângă ruinele romane.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sohail Castle at sunset",
+            "tip": "The views from the castle are magical as the sun sets.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A walk along the Fuengirola river",
+            "tip": "A quiet path away from the beach crowds.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "The gardens of Finca del Secretario",
+            "tip": "A small, peaceful spot next to the Roman ruins.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Dienstagsmarkt",
+            "tip": "Einer der größten Freiluftmärkte an der Costa del Sol."
+          },
+          {
+            "name": "Calle Marconi & Calle Condes de San Isidro",
+            "tip": "Die Haupteinkaufsstraßen mit einer Mischung aus lokalen und bekannten Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kedd piac",
+            "tip": "Az egyik legnagyobb szabadtéri piac a Costa del Sol-on."
+          },
+          {
+            "name": "Calle Marconi & Calle Condes de San Isidro",
+            "tip": "A fő bevásárlóutcák helyi és ismert márkák keverékével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de Marți",
+            "tip": "Una dintre cele mai mari piețe în aer liber de pe Costa del Sol."
+          },
+          {
+            "name": "Calle Marconi & Calle Condes de San Isidro",
+            "tip": "Străzile principale de cumpărături cu un amestec de magazine locale și branduri cunoscute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tuesday Market",
+            "tip": "One of the largest open-air markets on the Costa del Sol."
+          },
+          {
+            "name": "Calle Marconi & Calle Condes de San Isidro",
+            "tip": "The main shopping streets with a mix of local and brand-name stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie Sonnencreme und einen Hut mit, besonders im Sommer.",
+          "Trinken Sie viel Wasser, um hydriert zu bleiben.",
+          "Probieren Sie unbedingt die lokalen Fischgerichte."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog sétálni.",
+          "Hozzon magával naptejet és kalapot, különösen nyáron.",
+          "Igyon sok vizet, hogy hidratált maradjon.",
+          "Feltétlenül kóstolja meg a helyi halételeket."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe jos.",
+          "Luați cremă de protecție solară și o pălărie, mai ales vara.",
+          "Beți multă apă pentru a rămâne hidratat.",
+          "Asigurați-vă că încercați preparatele locale din pește."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "Bring sunscreen and a hat, especially in summer.",
+          "Drink plenty of water to stay hydrated.",
+          "Be sure to try the local fish dishes."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:33",
+      "total_km": 14.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradverleih & Start am Paseo Marítimo",
+            "hu": "Kerékpárkölcsönzés és indulás a Paseo Marítimóról",
+            "ro": "Închiriere biciclete și start de la Paseo Marítimo",
+            "en": "Bike Rental & Start at Paseo Marítimo"
+          },
+          "coords": [
+            -4.615,
+            36.55
+          ],
+          "category": "activity",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Wählen Sie ein bequemes City-Bike für die flache Promenade.",
+            "hu": "Válasszon egy kényelmes városi kerékpárt a sík sétányhoz.",
+            "ro": "Alegeți o bicicletă de oraș confortabilă pentru promenada plată.",
+            "en": "Choose a comfortable city bike for the flat promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Los Boliches",
+            "hu": "Los Boliches strand",
+            "ro": "Plaja Los Boliches",
+            "en": "Los Boliches Beach"
+          },
+          "coords": [
+            -4.6155,
+            36.5492
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:33",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie die Morgenruhe an diesem breiten Sandstrand.",
+            "hu": "Élvezze a reggeli csendet ezen a széles homokos strandon.",
+            "ro": "Bucurați-vă de liniștea dimineții pe această plajă largă cu nisip.",
+            "en": "Enjoy the morning calm on this wide, sandy beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Bioparc Fuengirola",
+            "hu": "Bioparc Fuengirola",
+            "ro": "Bioparc Fuengirola",
+            "en": "Bioparc Fuengirola"
+          },
+          "coords": [
+            -4.6341,
+            36.5385
+          ],
+          "category": "animal-habitat",
+          "arrive_at": "10:33",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein moderner Zoo mit beeindruckenden, nachgebildeten Lebensräumen. Planen Sie genügend Zeit ein.",
+            "hu": "Modern állatkert lenyűgöző, utánzott élőhelyekkel. Szánjon rá elég időt.",
+            "ro": "O grădină zoologică modernă cu habitate recreate impresionant. Alocați suficient timp.",
+            "en": "A modern zoo with impressive recreated habitats. Plan enough time."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Sohail",
+            "hu": "Sohail Vára",
+            "ro": "Castelul Sohail",
+            "en": "Sohail Castle"
+          },
+          "coords": [
+            -4.6298,
+            36.5333
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:12",
+          "stay_min": 90,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der kurze Anstieg lohnt sich für die Aussicht. Nehmen Sie Wasser mit.",
+            "hu": "A rövid emelkedő megéri a kilátásért. Vigyen magával vizet.",
+            "ro": "Urcușul scurt merită pentru priveliște. Luați apă cu voi.",
+            "en": "The short climb is worth it for the views. Take water with you."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Yachthafen",
+            "hu": "Ebédszünet a kikötőben",
+            "ro": "Prânz în portul de agrement",
+            "en": "Lunch at the Marina"
+          },
+          "coords": [
+            -4.62,
+            36.543
+          ],
+          "category": "gastro",
+          "arrive_at": "14:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Wählen Sie ein Restaurant mit Blick auf die Boote.",
+            "hu": "Válasszon egy éttermet, ahonnan a hajókra nyílik kilátás.",
+            "ro": "Alegeți un restaurant cu vedere la ambarcațiuni.",
+            "en": "Choose a restaurant with a view of the boats."
+          }
+        },
+        {
+          "name": {
+            "de": "Entspannte Fahrt nach Carvajal",
+            "hu": "Kényelmes tekerés Carvajal felé",
+            "ro": "Plimbare relaxantă spre Carvajal",
+            "en": "Leisurely ride towards Carvajal"
+          },
+          "coords": [
+            -4.595,
+            36.56
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:58",
+          "stay_min": 60,
+          "hop_from_prev_min": 49,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie am östlichen Ende der Promenade für ruhigere Strände.",
+            "hu": "Tekerjen a sétány keleti vége felé a csendesebb strandokért.",
+            "ro": "Pedalați spre capătul estic al promenadei pentru plaje mai liniștite.",
+            "en": "Ride towards the eastern end of the promenade for quieter beaches."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie den Tag mit einer Radtour entlang des belebten Paseo Marítimo. Am Vormittag besuchen Sie den beeindruckenden Bioparc. Nach dem Mittagessen erklimmen Sie die historische Burg Sohail für eine fantastische Aussicht. Der Nachmittag ist einer entspannten Fahrt entlang der Küste gewidmet, bei der Sie die verschiedenen Strände von Fuengirola entdecken und den Tag am Meer ausklingen lassen.",
+        "hu": "Kezdje a napot egy kerékpártúrával a nyüzsgő Paseo Marítimo mentén. Délelőtt látogassa meg a lenyűgöző Bioparcot. Ebéd után mássza meg a történelmi Sohail várat a fantasztikus kilátásért. A délután egy pihentető tengerparti tekerésé, felfedezve Fuengirola különböző strandjait, és a tengerparton zárva a napot.",
+        "ro": "Începeți ziua cu o plimbare cu bicicleta de-a lungul animatului Paseo Marítimo. Dimineața, vizitați impresionantul Bioparc. După prânz, urcați la castelul istoric Sohail pentru priveliști fantastice. După-amiaza este dedicată unei plimbări relaxante de-a lungul coastei, descoperind diferitele plaje din Fuengirola și încheind ziua pe malul mării.",
+        "en": "Start the day with a bike ride along the bustling Paseo Marítimo. In the morning, visit the impressive Bioparc. After lunch, climb the historic Sohail Castle for fantastic views. The afternoon is dedicated to a relaxing ride along the coast, discovering Fuengirola's different beaches and ending the day by the sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Batidos de frutas frescas",
+            "tip": "Erfrischende Fruchtshakes von den Ständen am Strand."
+          },
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Ein Tintenfischsandwich, ein schneller und leckerer Snack."
+          },
+          {
+            "name": "Helado Artesanal",
+            "tip": "Handwerklich hergestelltes Eis, um sich abzukühlen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Batidos de frutas frescas",
+            "tip": "Frissítő gyümölcsturmixok a parti standoknál."
+          },
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Tintahalas szendvics, gyors és finom harapnivaló."
+          },
+          {
+            "name": "Helado Artesanal",
+            "tip": "Kézműves fagylalt a felfrissüléshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Batidos de frutas frescas",
+            "tip": "Shake-uri de fructe proaspete de la tarabele de pe plajă."
+          },
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Un sandviș cu calamar, o gustare rapidă și delicioasă."
+          },
+          {
+            "name": "Helado Artesanal",
+            "tip": "Înghețată artizanală pentru a vă răcori."
+          }
+        ],
+        "en": [
+          {
+            "name": "Batidos de frutas frescas",
+            "tip": "Refreshing fruit shakes from the beachside stalls."
+          },
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "A squid sandwich, a quick and delicious snack."
+          },
+          {
+            "name": "Helado Artesanal",
+            "tip": "Artisanal ice cream to cool down."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Flussmündung des Fuengirola",
+            "tip": "Beobachten Sie Vögel am ruhigen Flussufer in der Nähe der Burg.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Parque Fluvial",
+            "tip": "Ein schöner Park entlang des Flusses, ideal für eine Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Playa El Ejido",
+            "tip": "Ein ruhigerer Strandabschnitt westlich der Burg.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Fuengirola folyó torkolata",
+            "tip": "Madárles a csendes folyóparton a vár közelében.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Parque Fluvial",
+            "tip": "Egy szép park a folyó mentén, ideális egy kis szünetre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Playa El Ejido",
+            "tip": "Egy csendesebb strandszakasz a vártól nyugatra.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Estuarul râului Fuengirola",
+            "tip": "Observați păsările pe malul liniștit al râului, lângă castel.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Parque Fluvial",
+            "tip": "Un parc frumos de-a lungul râului, perfect pentru o pauză.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Playa El Ejido",
+            "tip": "O porțiune de plajă mai liniștită la vest de castel.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fuengirola River Mouth",
+            "tip": "Go birdwatching on the quiet riverbank near the castle.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Parque Fluvial",
+            "tip": "A nice park along the river, perfect for a break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Playa El Ejido",
+            "tip": "A quieter stretch of beach west of the castle.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sonntagsmarkt am Yachthafen",
+            "tip": "Ein kleinerer Markt mit Kunsthandwerk und Souvenirs."
+          },
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Finden Sie Zubehör oder Andenken in den vielen Fahrradläden entlang der Küste."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vasárnapi piac a kikötőben",
+            "tip": "Kisebb piac kézműves termékekkel és szuvenírekkel."
+          },
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Találjon kiegészítőket vagy emléktárgyakat a part menti számos kerékpárboltban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de duminică din port",
+            "tip": "O piață mai mică, cu obiecte de artizanat și suveniruri."
+          },
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Găsiți accesorii sau suveniruri în numeroasele magazine de biciclete de pe coastă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunday Market at the Marina",
+            "tip": "A smaller market with crafts and souvenirs."
+          },
+          {
+            "name": "Bike Shops",
+            "tip": "Find accessories or memorabilia at the many bike shops along the coast."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Schließen Sie Ihr Fahrrad immer ab, auch wenn Sie nur kurz anhalten.",
+          "Nutzen Sie den durchgehenden Radweg auf dem Paseo Marítimo.",
+          "Seien Sie vorsichtig mit Fußgängern, die auf den Radweg treten könnten.",
+          "Ein leichter Rucksack ist nützlich, um Wasser und Snacks mitzunehmen."
+        ],
+        "hu": [
+          "Mindig zárja le a kerékpárt, még akkor is, ha csak rövid időre áll meg.",
+          "Használja a Paseo Marítimo folyamatos kerékpárútját.",
+          "Legyen óvatos a gyalogosokkal, akik a kerékpárútra léphetnek.",
+          "Egy könnyű hátizsák hasznos a víz és a rágcsálnivalók szállításához."
+        ],
+        "ro": [
+          "Încuietăți întotdeauna bicicleta, chiar și pentru opriri scurte.",
+          "Folosiți pista de biciclete continuă de pe Paseo Marítimo.",
+          "Fiți atenți la pietonii care pot păși pe pista de biciclete.",
+          "Un rucsac ușor este util pentru a transporta apă și gustări."
+        ],
+        "en": [
+          "Always lock your bike, even for short stops.",
+          "Use the continuous bike path on the Paseo Marítimo.",
+          "Be careful of pedestrians who might step into the bike lane.",
+          "A light backpack is useful for carrying water and snacks."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 9.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft und Parken am Bioparc",
+            "hu": "Érkezés és parkolás a Bioparc-nál",
+            "ro": "Sosire și parcare la Bioparc",
+            "en": "Arrival and Parking at Bioparc"
+          },
+          "coords": [
+            -4.6348,
+            36.538
+          ],
+          "category": "activity",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier, um den ersten Cluster zu Fuß zu erkunden.",
+            "hu": "Parkoljon itt, hogy gyalog fedezze fel az első központot.",
+            "ro": "Parcați aici pentru a explora primul grup de atracții pe jos.",
+            "en": "Park here to explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Bioparc Fuengirola",
+            "hu": "Bioparc Fuengirola",
+            "ro": "Bioparc Fuengirola",
+            "en": "Bioparc Fuengirola"
+          },
+          "coords": [
+            -4.6341,
+            36.5385
+          ],
+          "category": "animal-habitat",
+          "arrive_at": "09:20",
+          "stay_min": 150,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für die Fütterungen, besonders bei den Lemuren.",
+            "hu": "Szánjon időt az etetésekre, különösen a makiknál.",
+            "ro": "Acordați timp pentru hrănirea animalelor, în special a lemurilor.",
+            "en": "Take time for the feeding sessions, especially the lemurs."
+          }
+        },
+        {
+          "name": {
+            "de": "Stierkampfarena von Fuengirola",
+            "hu": "Fuengirolai bikaviadal-aréna",
+            "ro": "Arena de coride din Fuengirola",
+            "en": "Fuengirola Bullring"
+          },
+          "coords": [
+            -4.631,
+            36.5399
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:54",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Auch wenn keine Kämpfe stattfinden, ist die Architektur beeindruckend.",
+            "hu": "Még ha nincsenek is viadalok, az építészet lenyűgöző.",
+            "ro": "Chiar dacă nu sunt coride, arhitectura este impresionantă.",
+            "en": "Even if there are no fights, the architecture is impressive."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Strand & Parken",
+            "hu": "Autózás a partra és parkolás",
+            "ro": "Cu mașina la plajă și parcare",
+            "en": "Drive to the Beach & Park"
+          },
+          "coords": [
+            -4.6155,
+            36.5492
+          ],
+          "category": "activity",
+          "arrive_at": "12:38",
+          "stay_min": 10,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe von Los Boliches und erkunden Sie die Küste.",
+            "hu": "Parkoljon Los Boliches közelében és fedezze fel a partot.",
+            "ro": "Parcați lângă Los Boliches și explorați coasta.",
+            "en": "Park near Los Boliches and explore the coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Los Boliches",
+            "hu": "Ebéd Los Boliches-ban",
+            "ro": "Prânz în Los Boliches",
+            "en": "Lunch in Los Boliches"
+          },
+          "coords": [
+            -4.6148,
+            36.5501
+          ],
+          "category": "gastro",
+          "arrive_at": "12:48",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dieser Bereich hat viele ausgezeichnete, authentische Fischrestaurants.",
+            "hu": "Ezen a területen sok kiváló, autentikus halétterem található.",
+            "ro": "Această zonă are multe restaurante excelente și autentice de pește.",
+            "en": "This area has many excellent, authentic fish restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Paseo Marítimo & Strandzeit",
+            "hu": "Paseo Marítimo és strandolás",
+            "ro": "Paseo Marítimo și timp pe plajă",
+            "en": "Paseo Marítimo & Beach Time"
+          },
+          "coords": [
+            -4.62,
+            36.546
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:26",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie, schwimmen Sie oder entspannen Sie einfach nur im Sand.",
+            "hu": "Sétáljon, ússzon, vagy csak pihenjen a homokban.",
+            "ro": "Plimbați-vă, înotați sau pur și simplu relaxați-vă pe nisip.",
+            "en": "Walk, swim, or just relax on the sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Burg von Sohail für den Sonnenuntergang",
+            "hu": "Autózás a Sohail várhoz naplementére",
+            "ro": "Cu mașina la Castelul Sohail pentru apus",
+            "en": "Drive to Sohail Castle for Sunset"
+          },
+          "coords": [
+            -4.6298,
+            36.5333
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "17:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Der perfekte Abschluss des Tages mit einem Panoramablick.",
+            "hu": "Tökéletes befejezése a napnak egy panorámás kilátással.",
+            "ro": "Finalul perfect al zilei cu o vedere panoramică.",
+            "en": "The perfect end to the day with a panoramic view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Landesinneren mit einem Besuch des fantastischen Bioparcs und der Stierkampfarena. Fahren Sie dann zur Küste, um ein köstliches Mittagessen in Los Boliches zu genießen, gefolgt von einem entspannten Nachmittag am Strand und an der Promenade. Den krönenden Abschluss bildet die Fahrt zur Burg Sohail, von wo aus Sie einen unvergesslichen Sonnenuntergang über dem Mittelmeer erleben.",
+        "hu": "Kezdje a napot a szárazföldön a fantasztikus Bioparc és a bikaviadal-aréna meglátogatásával. Ezután hajtson le a partra egy finom ebédre Los Boliches-ban, amit egy pihentető délután követ a strandon és a sétányon. A nap fénypontjaként hajtson fel a Sohail várhoz, ahonnan felejthetetlen naplementét élvezhet a Földközi-tenger felett.",
+        "ro": "Începeți ziua în interiorul continentului cu o vizită la fantasticul Bioparc și la arena de coride. Apoi, conduceți spre coastă pentru un prânz delicios în Los Boliches, urmat de o după-amiază relaxantă pe plajă și promenadă. Încheiați ziua în stil, conducând la Castelul Sohail pentru a admira un apus de soare de neuitat peste Mediterană.",
+        "en": "Start your day inland with a visit to the fantastic Bioparc and the bullring. Then drive to the coast for a delicious lunch in Los Boliches, followed by a relaxing afternoon on the beach and promenade. End the day on a high note by driving to Sohail Castle to witness an unforgettable sunset over the Mediterranean."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chiringuito Safari Beach",
+            "tip": "Bekannt für seine entspannte Atmosphäre und frischen Fisch."
+          },
+          {
+            "name": "Restaurante Los Marinos José",
+            "tip": "Ein gehobenes Restaurant für Meeresfrüchte-Liebhaber."
+          },
+          {
+            "name": "Casa Colón",
+            "tip": "Traditionelle spanische Küche in einem charmanten Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chiringuito Safari Beach",
+            "tip": "Ismert a laza hangulatáról és a friss halakról."
+          },
+          {
+            "name": "Restaurante Los Marinos José",
+            "tip": "Elegáns étterem a tenger gyümölcseinek szerelmeseinek."
+          },
+          {
+            "name": "Casa Colón",
+            "tip": "Hagyományos spanyol konyha bájos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chiringuito Safari Beach",
+            "tip": "Cunoscut pentru atmosfera sa relaxată și peștele proaspăt."
+          },
+          {
+            "name": "Restaurante Los Marinos José",
+            "tip": "Un restaurant de lux pentru iubitorii de fructe de mare."
+          },
+          {
+            "name": "Casa Colón",
+            "tip": "Bucătărie spaniolă tradițională într-un cadru fermecător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chiringuito Safari Beach",
+            "tip": "Known for its relaxed vibe and fresh fish."
+          },
+          {
+            "name": "Restaurante Los Marinos José",
+            "tip": "An upscale restaurant for seafood lovers."
+          },
+          {
+            "name": "Casa Colón",
+            "tip": "Traditional Spanish cuisine in a charming setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque Fluvial Sohail",
+            "tip": "Ein ruhiger Park am Fuße der Burg, ideal für einen Spaziergang.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Playa de Santa Amalia",
+            "tip": "Ein zentraler, aber oft ruhigerer Strandabschnitt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Die Spitze der Burg Sohail",
+            "tip": "Finden Sie eine ruhige Ecke auf den Mauern und genießen Sie die Aussicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parque Fluvial Sohail",
+            "tip": "Csendes park a vár lábánál, ideális egy sétához.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Playa de Santa Amalia",
+            "tip": "Központi, de gyakran csendesebb strandszakasz.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A Sohail vár teteje",
+            "tip": "Keressen egy csendes sarkot a falakon és élvezze a kilátást.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parque Fluvial Sohail",
+            "tip": "Un parc liniștit la poalele castelului, perfect pentru o plimbare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Playa de Santa Amalia",
+            "tip": "O secțiune de plajă centrală, dar adesea mai liniștită.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vârful Castelului Sohail",
+            "tip": "Găsiți un colț liniștit pe ziduri și bucurați-vă de priveliște.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parque Fluvial Sohail",
+            "tip": "A quiet park at the foot of the castle, perfect for a stroll.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Playa de Santa Amalia",
+            "tip": "A central but often quieter section of the beach.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "The top of Sohail Castle",
+            "tip": "Find a quiet corner on the walls and enjoy the view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Miramar Einkaufszentrum",
+            "tip": "Ein großes Einkaufszentrum mit vielen internationalen Marken, etwas außerhalb des Zentrums."
+          },
+          {
+            "name": "Lokale Keramikgeschäfte",
+            "tip": "Suchen Sie nach handbemalter Keramik als schönes Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Miramar bevásárlóközpont",
+            "tip": "Nagy bevásárlóközpont nemzetközi márkákkal, kissé a központon kívül."
+          },
+          {
+            "name": "Helyi kerámia üzletek",
+            "tip": "Keressen kézzel festett kerámiákat szép emlékként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Miramar",
+            "tip": "Un centru comercial mare cu multe branduri internaționale, chiar în afara centrului."
+          },
+          {
+            "name": "Magazine locale de ceramică",
+            "tip": "Căutați ceramică pictată manual ca un suvenir frumos."
+          }
+        ],
+        "en": [
+          {
+            "name": "Miramar Shopping Centre",
+            "tip": "A large mall with many international brands, just outside the center."
+          },
+          {
+            "name": "Local Ceramic Shops",
+            "tip": "Look for hand-painted ceramics as a beautiful souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken kann im Sommer schwierig sein, besonders in Strandnähe. Seien Sie geduldig oder nutzen Sie gebührenpflichtige Parkplätze.",
+          "Achten Sie auf die blauen Zonen (Zona Azul) für zeitlich begrenztes Parken.",
+          "Die Anmietung eines kleineren Autos ist in den engen Straßen vorteilhaft.",
+          "Planen Sie Ihre Fahrten zwischen den Clustern außerhalb der Stoßzeiten."
+        ],
+        "hu": [
+          "A parkolás nyáron nehéz lehet, különösen a strand közelében. Legyen türelmes, vagy használjon fizetős parkolókat.",
+          "Figyeljen a kék zónákra (Zona Azul), ahol korlátozott ideig lehet parkolni.",
+          "Kisebb autó bérlése előnyös a szűk utcákban.",
+          "Tervezze az utazásokat a központok között a csúcsidőn kívülre."
+        ],
+        "ro": [
+          "Parcarea poate fi dificilă în timpul verii, mai ales lângă plajă. Aveți răbdare sau folosiți parcările cu plată.",
+          "Fiți atenți la zonele albastre (Zona Azul) pentru parcare pe timp limitat.",
+          "Închirierea unei mașini mai mici este avantajoasă pe străzile înguste.",
+          "Planificați-vă călătoriile între grupuri în afara orelor de vârf."
+        ],
+        "en": [
+          "Parking can be difficult in summer, especially near the beach. Be patient or use paid car parks.",
+          "Pay attention to the blue zones (Zona Azul) for timed parking.",
+          "Renting a smaller car is advantageous in the narrow streets.",
+          "Plan your drives between clusters outside of peak hours."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:54",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof Los Boliches",
+            "hu": "Érkezés a Los Boliches vasútállomásra",
+            "ro": "Sosire la gara Los Boliches",
+            "en": "Arrival at Los Boliches train station"
+          },
+          "coords": [
+            -4.614,
+            36.551
+          ],
+          "category": "activity",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Cercanías-Zug (Linie C1) ist eine gute Möglichkeit, um hierher zu gelangen.",
+            "hu": "A Cercanías vonat (C1-es vonal) jó módja annak, hogy ide eljusson.",
+            "ro": "Trenul Cercanías (linia C1) este o modalitate bună de a ajunge aici.",
+            "en": "The Cercanías train (Line C1) is a great way to get here."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Ausgrabungen Finca Secretario",
+            "hu": "Finca Secretario római kori romjai",
+            "ro": "Situl roman Finca Secretario",
+            "en": "Roman Ruins at Finca Secretario"
+          },
+          "coords": [
+            -4.612,
+            36.5525
+          ],
+          "category": "historical",
+          "arrive_at": "09:24",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein überraschender Einblick in die römische Vergangenheit, mitten im modernen Viertel.",
+            "hu": "Meglepő bepillantás a római múltba, a modern negyed közepén.",
+            "ro": "O privire surprinzătoare asupra trecutului roman, în mijlocul unui cartier modern.",
+            "en": "A surprising glimpse into the Roman past, right in a modern neighbourhood."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand und Promenade von Los Boliches",
+            "hu": "Los Boliches strandja és sétánya",
+            "ro": "Plaja și promenada Los Boliches",
+            "en": "Los Boliches Beach and Promenade"
+          },
+          "coords": [
+            -4.6155,
+            36.5492
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dieser Abschnitt der Promenade ist oft lebhaft und voller Cafés.",
+            "hu": "A sétány ezen szakasza gyakran élénk és tele van kávézókkal.",
+            "ro": "Această secțiune a promenadei este adesea plină de viață și de cafenele.",
+            "en": "This section of the promenade is often lively and full of cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt ins Zentrum & Mittagessen",
+            "hu": "Buszozás a központba és ebéd",
+            "ro": "Cu autobuzul spre centru și prânz",
+            "en": "Bus to Center & Lunch"
+          },
+          "coords": [
+            -4.624,
+            36.542
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen der lokalen Busse (Linien 1, 4, 5) ins Zentrum.",
+            "hu": "Menjen a helyi buszok (1, 4, 5-ös járat) egyikével a központba.",
+            "ro": "Luați unul dintre autobuzele locale (liniile 1, 4, 5) spre centru.",
+            "en": "Take one of the local buses (Lines 1, 4, 5) to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Nuestra Señora del Rosario & Plaza de la Constitución",
+            "hu": "Nuestra Señora del Rosario templom és Plaza de la Constitución",
+            "ro": "Biserica Nuestra Señora del Rosario și Plaza de la Constitución",
+            "en": "Church of Nuestra Señora del Rosario & Plaza de la Constitución"
+          },
+          "coords": [
+            -4.6245,
+            36.541
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:24",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Herz der Altstadt, perfekt, um das lokale Leben zu beobachten.",
+            "hu": "Az óváros szíve, tökéletes a helyi élet megfigyelésére.",
+            "ro": "Inima orașului vechi, perfectă pentru a observa viața locală.",
+            "en": "The heart of the old town, perfect for watching local life."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Burg von Sohail",
+            "hu": "Buszozás a Sohail várhoz",
+            "ro": "Cu autobuzul la Castelul Sohail",
+            "en": "Bus to Sohail Castle"
+          },
+          "coords": [
+            -4.6298,
+            36.5333
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 76,
+          "hop_from_prev_km": 3.8,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Bus zum Einkaufszentrum Miramar bringt Sie in die Nähe. Von dort ist es ein kurzer Spaziergang.",
+            "hu": "A Miramar bevásárlóközponthoz menő busz a közelbe viszi. Onnan egy rövid séta.",
+            "ro": "Autobuzul spre centrul comercial Miramar vă va lăsa în apropiere. De acolo este o scurtă plimbare.",
+            "en": "The bus to Miramar shopping centre will get you close. It's a short walk from there."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im charmanten Viertel Los Boliches, das Sie leicht mit dem Zug erreichen. Erkunden Sie die römischen Ruinen und den Strand, bevor Sie mit dem Bus ins Zentrum fahren. Nach dem Mittagessen und einem Besuch der Hauptkirche nehmen Sie einen weiteren Bus, um den Nachmittag mit der Erkundung der imposanten Burg Sohail und der herrlichen Aussicht zu verbringen.",
+        "hu": "Kezdje a napot a bájos Los Boliches negyedben, amely vonattal könnyen megközelíthető. Fedezze fel a római romokat és a strandot, mielőtt busszal a központba utazik. Ebéd és a főtemplom meglátogatása után egy másik busszal töltse a délutánt az impozáns Sohail vár felfedezésével és a csodálatos kilátás élvezetével.",
+        "ro": "Începeți ziua în fermecătorul cartier Los Boliches, ușor accesibil cu trenul. Explorați ruinele romane și plaja înainte de a lua un autobuz spre centru. După prânz și o vizită la biserica principală, luați alt autobuz pentru a petrece după-amiaza explorând impunătorul Castel Sohail și priveliștile sale magnifice.",
+        "en": "Start your day in the charming Los Boliches neighborhood, easily reached by train. Explore the Roman ruins and the beach before taking a bus to the center. After lunch and a visit to the main church, take another bus to spend the afternoon exploring the imposing Sohail Castle and its magnificent views."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tapas in der Altstadt",
+            "tip": "Hüpfen Sie von Bar zu Bar und probieren Sie verschiedene kleine Gerichte."
+          },
+          {
+            "name": "Mercado de la Cosecha",
+            "tip": "Ein lokaler Markt, auf dem Sie frische Produkte und Snacks finden."
+          },
+          {
+            "name": "Café con leche in einer Seitenstraße",
+            "tip": "Genießen Sie einen Kaffee abseits der Touristenpfade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tapas az óvárosban",
+            "tip": "Járjon bárról bárra és kóstoljon különféle falatkákat."
+          },
+          {
+            "name": "Mercado de la Cosecha",
+            "tip": "Helyi piac, ahol friss termékeket és harapnivalókat talál."
+          },
+          {
+            "name": "Café con leche egy mellékutcában",
+            "tip": "Élvezzen egy kávét a turistaösvényektől távol."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tapas în orașul vechi",
+            "tip": "Mergeți din bar în bar și încercați diverse feluri de mâncare mici."
+          },
+          {
+            "name": "Mercado de la Cosecha",
+            "tip": "O piață locală unde puteți găsi produse proaspete și gustări."
+          },
+          {
+            "name": "Café con leche pe o stradă lăturalnică",
+            "tip": "Savurați o cafea departe de agitația turistică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tapas in the Old Town",
+            "tip": "Hop from bar to bar trying different small dishes."
+          },
+          {
+            "name": "Mercado de la Cosecha",
+            "tip": "A local market where you can find fresh produce and snacks."
+          },
+          {
+            "name": "Café con leche on a side street",
+            "tip": "Enjoy a coffee away from the tourist crowds."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Plaza de la Constitución am frühen Morgen",
+            "tip": "Erleben Sie die Ruhe des Hauptplatzes, bevor die Stadt erwacht.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang entlang des Flusses",
+            "tip": "Ein ruhiger Weg unter der Autobahnbrücke in der Nähe der Burg.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Die oberen Mauern der Burg Sohail",
+            "tip": "Bietet eine friedliche Atempause mit weitem Blick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plaza de la Constitución kora reggel",
+            "tip": "Tapasztalja meg a főtér nyugalmát, mielőtt a város felébred.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a folyó mentén",
+            "tip": "Csendes ösvény az autópályahíd alatt a vár közelében.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Sohail vár felső falai",
+            "tip": "Békés kikapcsolódást nyújt tágas kilátással.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaza de la Constitución dimineața devreme",
+            "tip": "Experimentați liniștea pieței principale înainte ca orașul să se trezească.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare de-a lungul râului",
+            "tip": "O potecă liniștită sub podul autostrăzii, lângă castel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Zidurile superioare ale Castelului Sohail",
+            "tip": "Oferă un răgaz pașnic cu vederi ample.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Plaza de la Constitución in the early morning",
+            "tip": "Experience the quiet of the main square before the town wakes up.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk along the river",
+            "tip": "A quiet path under the motorway bridge near the castle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The upper walls of Sohail Castle",
+            "tip": "Offers a peaceful respite with expansive views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Der Straßenmarkt in Los Boliches (samstags)",
+            "tip": "Ein weiterer großer Markt mit allem, von Kleidung bis zu Lebensmitteln."
+          },
+          {
+            "name": "Kleine Boutiquen in der Altstadt",
+            "tip": "Finden Sie einzigartige Kleidung und Geschenke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Utcai piac Los Boliches-ban (szombatonként)",
+            "tip": "Egy másik nagy piac, ahol a ruháktól az élelmiszerekig mindent megtalál."
+          },
+          {
+            "name": "Kis butikok az óvárosban",
+            "tip": "Találjon egyedi ruhákat és ajándékokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața stradală din Los Boliches (sâmbăta)",
+            "tip": "O altă piață mare cu de toate, de la haine la mâncare."
+          },
+          {
+            "name": "Mici buticuri în orașul vechi",
+            "tip": "Găsiți haine și cadouri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "The street market in Los Boliches (Saturdays)",
+            "tip": "Another large market with everything from clothes to food."
+          },
+          {
+            "name": "Small boutiques in the Old Town",
+            "tip": "Find unique clothes and gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine wiederaufladbare Buskarte (tarjeta de transporte) für günstigere Tarife.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, besonders für die letzte Rückfahrt.",
+          "Die Züge der Linie C1 fahren regelmäßig und verbinden Fuengirola mit Málaga und dem Flughafen.",
+          "Validieren Sie Ihr Ticket immer, wenn Sie in einen Bus einsteigen."
+        ],
+        "hu": [
+          "Vásároljon feltölthető buszkártyát (tarjeta de transporte) az olcsóbb viteldíjakért.",
+          "Előre ellenőrizze a buszmenetrendet, különösen az utolsó visszautat.",
+          "A C1-es vonatok rendszeresen közlekednek, összekötve Fuengirolát Málagával és a repülőtérrel.",
+          "Mindig érvényesítse a jegyét, amikor felszáll a buszra."
+        ],
+        "ro": [
+          "Cumpărați un card de autobuz reîncărcabil (tarjeta de transporte) pentru tarife mai ieftine.",
+          "Verificați din timp orarele autobuzelor, mai ales pentru ultima călătorie de întoarcere.",
+          "Trenurile de pe linia C1 circulă regulat, legând Fuengirola de Málaga și aeroport.",
+          "Validați întotdeauna biletul când urcați în autobuz."
+        ],
+        "en": [
+          "Buy a rechargeable bus card (tarjeta de transporte) for cheaper fares.",
+          "Check bus schedules in advance, especially for the last return trip.",
+          "The C1 line trains run regularly, connecting Fuengirola to Málaga and the airport.",
+          "Always validate your ticket when you get on a bus."
+        ]
+      }
+    }
+  }
+}

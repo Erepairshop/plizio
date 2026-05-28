@@ -1,0 +1,1384 @@
+{
+  "city_id": "switzerland-dietikon-cities-v2",
+  "anchor": {
+    "name": "Dietikon",
+    "coords": [
+      8.403,
+      47.405
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rapid-Platz",
+            "hu": "Rapid-tér",
+            "ro": "Piața Rapid",
+            "en": "Rapid Square"
+          },
+          "coords": [
+            8.4035,
+            47.4052
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Kaffee in einem der örtlichen Cafés.",
+            "hu": "Kezdje a napot egy kávéval a helyi kávézók egyikében!",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele locale.",
+            "en": "Start your day with a coffee at one of the local cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtkirche St. Agatha",
+            "hu": "Szent Ágota városi templom",
+            "ro": "Biserica Sfânta Agatha",
+            "en": "St. Agatha's Church"
+          },
+          "coords": [
+            8.401,
+            47.406
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden Glasfenster und die ruhige Atmosphäre.",
+            "hu": "Figyelje meg a lenyűgöző ólomüveg ablakokat és élvezze a csendes légkört.",
+            "ro": "Admirați vitraliile impresionante și bucurați-vă de atmosfera liniștită.",
+            "en": "Pay attention to the impressive stained glass windows and the quiet atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Limmatpromenade",
+            "hu": "Limmat-sétány",
+            "ro": "Promenada Limmat",
+            "en": "Limmat Promenade"
+          },
+          "coords": [
+            8.405,
+            47.41
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für einen entspannten Spaziergang am Flussufer.",
+            "hu": "Ideális hely egy pihentető sétához a folyóparton.",
+            "ro": "Un loc ideal pentru o plimbare relaxantă pe malul râului.",
+            "en": "An ideal place for a relaxing walk along the riverbank."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az óvárosban",
+            "ro": "Prânz în centrul vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            8.402,
+            47.405
+          ],
+          "category": "gastro",
+          "arrive_at": "11:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Probieren Sie Zürcher Geschnetzeltes in einem traditionellen Restaurant.",
+            "hu": "Kóstolja meg a 'Zürcher Geschnetzeltes'-t egy hagyományos étteremben!",
+            "ro": "Încercați 'Zürcher Geschnetzeltes' la un restaurant tradițional.",
+            "en": "Try 'Zürcher Geschnetzeltes' in a traditional restaurant."
+          }
+        },
+        {
+          "name": {
+            "de": "Marmori-Weiher",
+            "hu": "Marmori-tó",
+            "ro": "Iazul Marmori",
+            "en": "Marmori Pond"
+          },
+          "coords": [
+            8.395,
+            47.402
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort, um die Natur zu genießen und die Enten zu beobachten.",
+            "hu": "Egy csendes hely a természet élvezetére és a kacsák megfigyelésére.",
+            "ro": "Un loc liniștit pentru a vă bucura de natură și a privi rațele.",
+            "en": "A quiet place to enjoy nature and watch the ducks."
+          }
+        },
+        {
+          "name": {
+            "de": "Bruno Weber Park",
+            "hu": "Bruno Weber Park",
+            "ro": "Parcul Bruno Weber",
+            "en": "Bruno Weber Park"
+          },
+          "coords": [
+            8.388,
+            47.399
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:56",
+          "stay_min": 84,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von den fantastischen Skulpturen und der einzigartigen Architektur verzaubern.",
+            "hu": "Hagyja, hogy elvarázsolják a fantasztikus szobrok és az egyedi építészet.",
+            "ro": "Lăsați-vă fermecați de sculpturile fantastice și arhitectura unică.",
+            "en": "Be enchanted by the fantastic sculptures and unique architecture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Dietikon beginnt am belebten Rapid-Platz und führt Sie zur stillen St.-Agatha-Kirche. Am Vormittag spazieren Sie gemütlich entlang der Limmat, bevor Sie in der Altstadt ein traditionelles Mittagessen genießen. Der Nachmittag ist der Natur gewidmet, mit einem Besuch des ruhigen Marmori-Weihers und einem abschließenden Ausflug in den fantasievollen Bruno Weber Park, wo Sie den Tag zwischen Kunst und Natur ausklingen lassen.",
+        "hu": "A dietikoni nap a nyüzsgő Rapid-téren kezdődik, majd a csendes Szent Ágota-templomhoz vezet. Délelőtt sétáljon egyet a Limmat partján, mielőtt elfogyaszt egy hagyományos ebédet az óvárosban. A délután a természeté, látogasson el a békés Marmori-tóhoz, majd tegyen egy kirándulást a fantáziadús Bruno Weber Parkba, ahol a művészet és a természet között zárhatja a napot.",
+        "ro": "Ziua dvs. în Dietikon începe în animata Piață Rapid și vă duce la liniștita Biserică Sf. Agatha. Dimineața, vă plimbați pe malul râului Limmat înainte de a savura un prânz tradițional în centrul vechi. După-amiaza este dedicată naturii, cu o vizită la iazul liniștit Marmori și o excursie finală la Parcul fantezist Bruno Weber, unde încheiați ziua între artă și natură.",
+        "en": "Your day in Dietikon begins at the bustling Rapid Square and leads you to the quiet St. Agatha's Church. In the morning, you'll stroll along the Limmat before enjoying a traditional lunch in the Old Town. The afternoon is dedicated to nature, with a visit to the peaceful Marmori Pond and a final trip to the imaginative Bruno Weber Park, where you'll end the day surrounded by art and nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zürcher Geschnetzeltes mit Rösti",
+            "tip": "Ein Muss in der Region Zürich. Kalbfleisch in einer cremigen Pilzsauce."
+          },
+          {
+            "name": "Käsefondue",
+            "tip": "Ein geselliges Gericht, ideal für kühlere Abende."
+          },
+          {
+            "name": "Luxemburgerli",
+            "tip": "Kleine, luftige Makronen von Sprüngli, perfekt für eine süße Pause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zürichi tejszínes-gombás szelet röszitvel",
+            "tip": "Kötelező fogás a zürichi régióban. Borjúhús krémes gombamártásban."
+          },
+          {
+            "name": "Sajtfondü",
+            "tip": "Közösségi étel, ideális a hűvösebb estékre."
+          },
+          {
+            "name": "Luxemburgerli",
+            "tip": "Könnyű, apró makronok a Sprünglitől, tökéletes édes szünetre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vițel în stil Zurich cu Rösti",
+            "tip": "O specialitate obligatorie în regiunea Zurich. Carne de vițel într-un sos cremos de ciuperci."
+          },
+          {
+            "name": "Fondue de brânză",
+            "tip": "Un fel de mâncare social, ideal pentru serile mai răcoroase."
+          },
+          {
+            "name": "Luxemburgerli",
+            "tip": "Macarons mici și aerate de la Sprüngli, perfecte pentru o pauză dulce."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zürcher Geschnetzeltes with Rösti",
+            "tip": "A must-try dish in the Zurich region. Veal in a creamy mushroom sauce."
+          },
+          {
+            "name": "Cheese Fondue",
+            "tip": "A social dish, ideal for cooler evenings."
+          },
+          {
+            "name": "Luxemburgerli",
+            "tip": "Small, airy macarons from Sprüngli, perfect for a sweet break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Marmori-Weiher",
+            "tip": "Setzen Sie sich auf eine Bank und genießen Sie die Stille am Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Limmatufer",
+            "tip": "Ein Spaziergang am frühen Morgen oder späten Nachmittag ist besonders friedlich.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Reppischtal",
+            "tip": "Ein Naturschutzgebiet, ideal für eine Auszeit vom städtischen Trubel.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marmori-tó",
+            "tip": "Üljön le egy padra, és élvezze a csendet a vízparton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Limmat-part",
+            "tip": "Egy kora reggeli vagy késő délutáni séta különösen békés.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Reppischtal völgy",
+            "tip": "Természetvédelmi terület, ideális a városi nyüzsgésből való kikapcsolódáshoz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Iazul Marmori",
+            "tip": "Așezați-vă pe o bancă și bucurați-vă de liniștea de lângă apă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul râului Limmat",
+            "tip": "O plimbare dimineața devreme sau după-amiaza târziu este deosebit de pașnică.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Valea Reppischtal",
+            "tip": "O rezervație naturală, ideală pentru o pauză de la agitația urbană.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Marmori Pond",
+            "tip": "Sit on a bench and enjoy the tranquility by the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the Limmat",
+            "tip": "An early morning or late afternoon walk is particularly peaceful.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Reppischtal Valley",
+            "tip": "A nature reserve, ideal for a break from the urban hustle and bustle.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt Dietikon",
+            "tip": "Finden Sie frische, lokale Produkte und Schweizer Spezialitäten. Normalerweise samstags."
+          },
+          {
+            "name": "Bahnhofstrasse",
+            "tip": "Die Hauptgeschäftsstrasse mit einer Vielzahl von Geschäften und Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dietikoni heti piac",
+            "tip": "Találjon friss, helyi termékeket és svájci különlegességeket. Általában szombatonként."
+          },
+          {
+            "name": "Bahnhofstrasse",
+            "tip": "A fő bevásárlóutca számos üzlettel és butikkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală Dietikon",
+            "tip": "Găsiți produse locale proaspete și specialități elvețiene. De obicei, sâmbăta."
+          },
+          {
+            "name": "Bahnhofstrasse",
+            "tip": "Principala stradă comercială cu o varietate de magazine și buticuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dietikon Weekly Market",
+            "tip": "Find fresh, local produce and Swiss specialties. Usually on Saturdays."
+          },
+          {
+            "name": "Bahnhofstrasse",
+            "tip": "The main shopping street with a variety of shops and boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel zu Fuß unterwegs sein werden.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit; es gibt viele öffentliche Brunnen.",
+          "Prüfen Sie die Öffnungszeiten des Bruno Weber Parks im Voraus, da diese saisonal variieren können."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "Hozzon magával újratölthető vizes palackot; sok a nyilvános ivókút.",
+          "Előre ellenőrizze a Bruno Weber Park nyitvatartási idejét, mert az szezonálisan változhat."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Luați o sticlă de apă reutilizabilă; există multe fântâni publice.",
+          "Verificați în avans programul de funcționare al Parcului Bruno Weber, deoarece acesta poate varia în funcție de sezon."
+        ],
+        "en": [
+          "Wear comfortable shoes, as you will be walking a lot.",
+          "Bring a reusable water bottle; there are many public fountains.",
+          "Check the opening hours of the Bruno Weber Park in advance, as they can vary seasonally."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rapid-Platz",
+            "hu": "Rapid-tér",
+            "ro": "Piața Rapid",
+            "en": "Rapid Square"
+          },
+          "coords": [
+            8.4035,
+            47.4052
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Mieten Sie Ihr Fahrrad und starten Sie Ihre Tour im Herzen der Stadt.",
+            "hu": "Béreljen kerékpárt, és kezdje a túrát a város szívében!",
+            "ro": "Închiriați o bicicletă și începeți turul în inima orașului.",
+            "en": "Rent your bike and start your tour in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Fahr",
+            "hu": "Fahr kolostor",
+            "ro": "Mănăstirea Fahr",
+            "en": "Fahr Monastery"
+          },
+          "coords": [
+            8.425,
+            47.418
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre und besuchen Sie den Klosterladen für lokale Produkte.",
+            "hu": "Élvezze a békés légkört és látogasson el a kolostor boltjába helyi termékekért.",
+            "ro": "Bucurați-vă de atmosfera pașnică și vizitați magazinul mănăstirii pentru produse locale.",
+            "en": "Enjoy the peaceful atmosphere and visit the monastery shop for local products."
+          }
+        },
+        {
+          "name": {
+            "de": "Limmatpromenade",
+            "hu": "Limmat-sétány",
+            "ro": "Promenada Limmat",
+            "en": "Limmat Promenade"
+          },
+          "coords": [
+            8.405,
+            47.41
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:53",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3,
+          "tip_5lang": {
+            "de": "Eine angenehme Fahrt entlang des Flusses, perfekt für eine kleine Pause.",
+            "hu": "Kellemes tekerés a folyó mentén, tökéletes egy rövid pihenőre.",
+            "ro": "O plimbare plăcută de-a lungul râului, perfectă pentru o scurtă pauză.",
+            "en": "A pleasant ride along the river, perfect for a short break."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Fluss",
+            "hu": "Ebéd a folyóparton",
+            "ro": "Prânz pe malul râului",
+            "en": "Lunch by the river"
+          },
+          "coords": [
+            8.404,
+            47.408
+          ],
+          "category": "gastro",
+          "arrive_at": "12:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Wählen Sie ein Restaurant mit Terrasse für eine schöne Aussicht.",
+            "hu": "Válasszon egy teraszos éttermet a gyönyörű kilátásért.",
+            "ro": "Alegeți un restaurant cu terasă pentru o priveliște frumoasă.",
+            "en": "Choose a restaurant with a terrace for a beautiful view."
+          }
+        },
+        {
+          "name": {
+            "de": "Reppischtal",
+            "hu": "Reppischtal völgy",
+            "ro": "Valea Reppischtal",
+            "en": "Reppischtal Valley"
+          },
+          "coords": [
+            8.4,
+            47.385
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "13:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Folgen Sie dem Radweg durch das grüne Tal für ein erfrischendes Naturerlebnis.",
+            "hu": "Kövesse a kerékpárutat a zöld völgyön keresztül egy frissítő természeti élményért.",
+            "ro": "Urmați pista de biciclete prin valea verde pentru o experiență revigorantă în natură.",
+            "en": "Follow the cycle path through the green valley for a refreshing nature experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Guggenbühl",
+            "hu": "Guggenbühl",
+            "ro": "Guggenbühl",
+            "en": "Guggenbühl"
+          },
+          "coords": [
+            8.38,
+            47.395
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "15:36",
+          "stay_min": 69,
+          "hop_from_prev_min": 31,
+          "hop_from_prev_km": 5.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht über Dietikon und die umliegende Landschaft.",
+            "hu": "Élvezze a kilátást Dietikonra és a környező tájra.",
+            "ro": "Bucurați-vă de vederea asupra Dietikonului și a peisajului înconjurător.",
+            "en": "Enjoy the view over Dietikon and the surrounding landscape."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet im Zentrum von Dietikon. Sie fahren morgens zum ruhigen Kloster Fahr und dann gemütlich an der Limmat entlang. Nach einem stärkenden Mittagessen am Flussufer erkunden Sie am Nachmittag die grünen Täler südlich der Stadt. Die Tour führt Sie durch das idyllische Reppischtal und endet auf dem Guggenbühl, wo Sie mit einer fantastischen Aussicht belohnt werden, bevor Sie ins Zentrum zurückkehren.",
+        "hu": "Kerékpártúrája Dietikon központjából indul. Reggel a békés Fahr kolostorhoz teker, majd kényelmesen a Limmat mentén halad. Egy folyóparti ebéd után délután felfedezi a várostól délre fekvő zöld völgyeket. A túra az idilli Reppischtal völgyön keresztül vezet, és a Guggenbühl-hegyen ér véget, ahonnan fantasztikus kilátás nyílik, mielőtt visszatérne a központba.",
+        "ro": "Turul dvs. cu bicicleta începe în centrul Dietikonului. Dimineața pedalați spre liniștita Mănăstire Fahr, apoi de-a lungul râului Limmat. După un prânz pe malul râului, după-amiaza explorați văile verzi la sud de oraș. Turul vă duce prin idilica Vale Reppischtal și se încheie la Guggenbühl, unde sunteți răsplătit cu o priveliște fantastică înainte de a vă întoarce în centru.",
+        "en": "Your bike tour starts in the center of Dietikon. In the morning, you'll cycle to the peaceful Fahr Monastery and then along the Limmat river. After lunch by the river, you'll explore the green valleys south of the city in the afternoon. The tour takes you through the idyllic Reppischtal valley and ends at Guggenbühl, where you'll be rewarded with a fantastic view before returning to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bündner Gerstensuppe",
+            "tip": "Eine herzhafte Gerstensuppe, perfekt zur Stärkung während einer Radtour."
+          },
+          {
+            "name": "Rivella",
+            "tip": "Das Schweizer Nationalgetränk auf Molkebasis, sehr erfrischend."
+          },
+          {
+            "name": "Apfelstrudel",
+            "tip": "Ein Klassiker, der nach einer langen Fahrt besonders gut schmeckt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grisons-i árpagyöngyleves",
+            "tip": "Kiadós árpagyöngyleves, tökéletes feltöltődés egy kerékpártúra során."
+          },
+          {
+            "name": "Rivella",
+            "tip": "A tejsavó alapú svájci nemzeti ital, nagyon frissítő."
+          },
+          {
+            "name": "Almásrétes",
+            "tip": "Klasszikus desszert, amely egy hosszú tekerés után különösen jól esik."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supă de orz din Grisons",
+            "tip": "O supă consistentă de orz, perfectă pentru a vă reface puterile în timpul unui tur cu bicicleta."
+          },
+          {
+            "name": "Rivella",
+            "tip": "Băutura națională elvețiană pe bază de zer, foarte răcoritoare."
+          },
+          {
+            "name": "Strudel cu mere",
+            "tip": "Un desert clasic care este deosebit de gustos după o plimbare lungă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grisons Barley Soup",
+            "tip": "A hearty barley soup, perfect for refueling during a bike tour."
+          },
+          {
+            "name": "Rivella",
+            "tip": "The Swiss national drink made from milk whey, very refreshing."
+          },
+          {
+            "name": "Apple Strudel",
+            "tip": "A classic dessert that tastes especially good after a long ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kloster Fahr",
+            "tip": "Der Innenhof des Klosters ist eine Oase der Ruhe.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Reppischtal",
+            "tip": "Das Plätschern des Baches und das Vogelgezwitscher sind pure Entspannung.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Guggenbühl Aussichtspunkt",
+            "tip": "Ein ruhiger Ort, um den Sonnenuntergang über dem Limmattal zu beobachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fahr kolostor",
+            "tip": "A kolostor belső udvara a béke oázisa.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Reppischtal völgy",
+            "tip": "A patak csobogása és a madárcsicsergés tiszta kikapcsolódás.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Guggenbühl kilátó",
+            "tip": "Csendes hely a naplemente megtekintésére a Limmat-völgy felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mănăstirea Fahr",
+            "tip": "Curtea interioară a mănăstirii este o oază de liniște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Valea Reppischtal",
+            "tip": "Murmurul pârâului și ciripitul păsărilor sunt relaxare pură.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Punct de belvedere Guggenbühl",
+            "tip": "Un loc liniștit pentru a privi apusul peste valea Limmat.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fahr Monastery",
+            "tip": "The inner courtyard of the monastery is an oasis of peace.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Reppischtal Valley",
+            "tip": "The babbling of the stream and the chirping of birds are pure relaxation.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Guggenbühl Viewpoint",
+            "tip": "A quiet place to watch the sunset over the Limmat valley.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Klosterladen Fahr",
+            "tip": "Kaufen Sie hausgemachte Konfitüren, Weine und andere klösterliche Produkte."
+          },
+          {
+            "name": "Fahrradgeschäft vor Ort",
+            "tip": "Für alle notwendigen Reparaturen oder Zubehör für Ihre Tour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fahr kolostor boltja",
+            "tip": "Vásároljon házi lekvárokat, borokat és más kolostori termékeket."
+          },
+          {
+            "name": "Helyi kerékpárbolt",
+            "tip": "Minden szükséges javításhoz vagy kiegészítőhöz a túrához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Mănăstirii Fahr",
+            "tip": "Cumpărați gemuri de casă, vinuri și alte produse mănăstirești."
+          },
+          {
+            "name": "Magazin local de biciclete",
+            "tip": "Pentru orice reparații sau accesorii necesare pentru turul dumneavoastră."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fahr Monastery Shop",
+            "tip": "Buy homemade jams, wines, and other monastic products."
+          },
+          {
+            "name": "Local Bike Shop",
+            "tip": "For any necessary repairs or accessories for your tour."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie einen Helm und stellen Sie sicher, dass Ihr Fahrrad in gutem Zustand ist.",
+          "Die Wege entlang der Flüsse sind meist flach, aber die Anstiege zu den Aussichtspunkten können anspruchsvoll sein.",
+          "Nehmen Sie ausreichend Wasser und ein paar Snacks für unterwegs mit."
+        ],
+        "hu": [
+          "Viseljen sisakot, és győződjön meg róla, hogy a kerékpárja jó állapotban van.",
+          "A folyók menti utak többnyire síkak, de a kilátópontokhoz vezető emelkedők kihívást jelenthetnek.",
+          "Vigyen magával elegendő vizet és néhány harapnivalót az útra."
+        ],
+        "ro": [
+          "Purtați o cască și asigurați-vă că bicicleta este în stare bună.",
+          "Traseele de-a lungul râurilor sunt în mare parte plate, dar urcările spre punctele de belvedere pot fi solicitante.",
+          "Luați suficientă apă și câteva gustări pentru drum."
+        ],
+        "en": [
+          "Wear a helmet and make sure your bike is in good condition.",
+          "The paths along the rivers are mostly flat, but the climbs to the viewpoints can be challenging.",
+          "Bring enough water and some snacks for the journey."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 21.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Bruno Weber Park",
+            "hu": "1. klaszter: Bruno Weber Park",
+            "ro": "Cluster 1: Parcul Bruno Weber",
+            "en": "Cluster 1: Bruno Weber Park"
+          },
+          "coords": [
+            8.388,
+            47.399
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und tauchen Sie ein in eine Welt voller fantasievoller Skulpturen.",
+            "hu": "Parkoljon le itt, és merüljön el a fantáziadús szobrok világában.",
+            "ro": "Parcați aici și scufundați-vă într-o lume plină de sculpturi imaginative.",
+            "en": "Park here and immerse yourself in a world of imaginative sculptures."
+          }
+        },
+        {
+          "name": {
+            "de": "Guggenbühl Aussicht",
+            "hu": "Guggenbühl kilátó",
+            "ro": "Belvedere Guggenbühl",
+            "en": "Guggenbühl View"
+          },
+          "coords": [
+            8.38,
+            47.395
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "11:04",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Park für eine tolle Aussicht auf die Umgebung.",
+            "hu": "Egy rövid séta a parkból a környék nagyszerű kilátásáért.",
+            "ro": "O scurtă plimbare din parc pentru o priveliște minunată a împrejurimilor.",
+            "en": "A short walk from the park for a great view of the surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Kloster Fahr & Limmat",
+            "hu": "2. klaszter: Fahr kolostor és Limmat",
+            "ro": "Cluster 2: Mănăstirea Fahr și Limmat",
+            "en": "Cluster 2: Fahr Monastery & Limmat"
+          },
+          "coords": [
+            8.425,
+            47.418
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 9.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Kloster, parken Sie und erkunden Sie die Gegend zu Fuss.",
+            "hu": "Vezessen a kolostorhoz, parkoljon le, és fedezze fel a környéket gyalog.",
+            "ro": "Conduceți la mănăstire, parcați și explorați zona pe jos.",
+            "en": "Drive to the monastery, park, and explore the area on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Klosterrestaurant",
+            "hu": "Ebéd a kolostor éttermében",
+            "ro": "Prânz la restaurantul mănăstirii",
+            "en": "Lunch at the Monastery Restaurant"
+          },
+          "coords": [
+            8.426,
+            47.417
+          ],
+          "category": "gastro",
+          "arrive_at": "12:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie ein Mittagessen mit Zutaten aus dem klostereigenen Garten.",
+            "hu": "Élvezze a kolostor saját kertjéből származó alapanyagokból készült ebédet.",
+            "ro": "Bucurați-vă de un prânz cu ingrediente din grădina proprie a mănăstirii.",
+            "en": "Enjoy a lunch with ingredients from the monastery's own garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Dietikon Zentrum",
+            "hu": "3. klaszter: Dietikon központja",
+            "ro": "Cluster 3: Centrul Dietikon",
+            "en": "Cluster 3: Dietikon Center"
+          },
+          "coords": [
+            8.403,
+            47.405
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Zentrum und beenden Sie den Tag mit einem Stadtbummel.",
+            "hu": "Parkoljon a központban, és fejezze be a napot egy városnéző sétával.",
+            "ro": "Parcați în centru și încheiați ziua cu o plimbare prin oraș.",
+            "en": "Park in the center and end the day with a stroll through the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang im Reppischtal",
+            "hu": "Séta a Reppischtal völgyben",
+            "ro": "Plimbare în Valea Reppischtal",
+            "en": "Walk in Reppischtal Valley"
+          },
+          "coords": [
+            8.4,
+            47.385
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "15:43",
+          "stay_min": 82,
+          "hop_from_prev_min": 33,
+          "hop_from_prev_km": 3.1,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein kurzer Abstecher ins Grüne für einen entspannenden Abschluss des Tages.",
+            "hu": "Egy rövid kitérő a zöldbe a nap pihentető befejezéseként.",
+            "ro": "O scurtă deviere în natură pentru un final relaxant al zilei.",
+            "en": "A short detour into nature for a relaxing end to the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt im künstlerischen Bruno Weber Park. Nach einem kurzen Spaziergang zum Guggenbühl-Aussichtspunkt fahren Sie zum historischen Kloster Fahr für ein besinnliches Mittagessen. Am Nachmittag geht es ins Zentrum von Dietikon für einen Stadtbummel. Der Tag endet mit einer kurzen Fahrt ins ruhige Reppischtal, wo Sie die Natur genießen können, bevor Sie die Heimreise antreten.",
+        "hu": "Autós napja a művészi Bruno Weber Parkban kezdődik. A Guggenbühl kilátóhoz tett rövid séta után a történelmi Fahr kolostorhoz hajt, ahol egy elmélkedő ebédet fogyaszt el. Délután Dietikon központjába megy egy városnéző sétára. A nap egy rövid autózással zárul a csendes Reppischtal völgybe, ahol élvezheti a természetet, mielőtt hazaindulna.",
+        "ro": "Ziua dvs. cu mașina începe la artisticul Parc Bruno Weber. După o scurtă plimbare la punctul de belvedere Guggenbühl, conduceți la istorica Mănăstire Fahr pentru un prânz contemplativ. După-amiaza, mergeți în centrul Dietikonului pentru o plimbare prin oraș. Ziua se încheie cu o scurtă călătorie cu mașina spre liniștita Vale Reppischtal, unde vă puteți bucura de natură înainte de a vă întoarce acasă.",
+        "en": "Your car day begins at the artistic Bruno Weber Park. After a short walk to the Guggenbühl viewpoint, you drive to the historic Fahr Monastery for a contemplative lunch. In the afternoon, you'll head to the center of Dietikon for a city stroll. The day ends with a short drive to the quiet Reppischtal valley, where you can enjoy nature before heading home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Fahr",
+            "tip": "Probieren Sie die saisonalen Gerichte mit frischen Zutaten aus dem Klostergarten."
+          },
+          {
+            "name": "Schweizer Schokolade",
+            "tip": "Kaufen Sie handgemachte Schokolade als süßes Souvenir."
+          },
+          {
+            "name": "Birchermüesli",
+            "tip": "Ein gesundes und nahrhaftes Frühstück oder ein leichter Snack für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fahr Étterem",
+            "tip": "Kóstolja meg a szezonális ételeket a kolostorkert friss alapanyagaiból."
+          },
+          {
+            "name": "Svájci csokoládé",
+            "tip": "Vásároljon kézzel készített csokoládét édes szuvenírként."
+          },
+          {
+            "name": "Birchermüesli",
+            "tip": "Egészséges és tápláló reggeli vagy könnyű harapnivaló útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Fahr",
+            "tip": "Încercați mâncărurile de sezon cu ingrediente proaspete din grădina mănăstirii."
+          },
+          {
+            "name": "Ciocolată elvețiană",
+            "tip": "Cumpărați ciocolată artizanală ca un suvenir dulce."
+          },
+          {
+            "name": "Birchermüesli",
+            "tip": "Un mic dejun sănătos și hrănitor sau o gustare ușoară pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Fahr",
+            "tip": "Try the seasonal dishes with fresh ingredients from the monastery garden."
+          },
+          {
+            "name": "Swiss Chocolate",
+            "tip": "Buy handmade chocolate as a sweet souvenir."
+          },
+          {
+            "name": "Birchermüesli",
+            "tip": "A healthy and nutritious breakfast or a light snack for the road."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bruno Weber Park",
+            "tip": "Finden Sie eine ruhige Ecke im weitläufigen Park und bewundern Sie die Kunst.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kloster Fahr",
+            "tip": "Ein Ort der Stille und Spiritualität, perfekt zum Nachdenken.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Reppischtal",
+            "tip": "Lauschen Sie den Geräuschen der Natur in diesem geschützten Tal.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bruno Weber Park",
+            "tip": "Keressen egy csendes sarkot a tágas parkban, és csodálja meg a művészetet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fahr kolostor",
+            "tip": "A csend és a spiritualitás helye, tökéletes az elmélkedéshez.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Reppischtal völgy",
+            "tip": "Hallgassa a természet hangjait ebben a védett völgyben.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Bruno Weber",
+            "tip": "Găsiți un colț liniștit în parcul extins și admirați arta.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mănăstirea Fahr",
+            "tip": "Un loc de liniște și spiritualitate, perfect pentru reflecție.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Valea Reppischtal",
+            "tip": "Ascultați sunetele naturii în această vale protejată.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bruno Weber Park",
+            "tip": "Find a quiet corner in the spacious park and admire the art.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fahr Monastery",
+            "tip": "A place of silence and spirituality, perfect for reflection.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Reppischtal Valley",
+            "tip": "Listen to the sounds of nature in this protected valley.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofladen in der Nähe",
+            "tip": "Halten Sie Ausschau nach Hofläden für frische Eier, Käse und andere landwirtschaftliche Produkte."
+          },
+          {
+            "name": "Souvenirshop im Bruno Weber Park",
+            "tip": "Einzigartige Andenken, die von der Kunst des Parks inspiriert sind."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői bolt a közelben",
+            "tip": "Keresse a termelői boltokat friss tojásért, sajtokért és más mezőgazdasági termékekért."
+          },
+          {
+            "name": "Ajándékbolt a Bruno Weber Parkban",
+            "tip": "Egyedi ajándéktárgyak, amelyeket a park művészete ihletett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin agricol în apropiere",
+            "tip": "Căutați magazine agricole pentru ouă proaspete, brânză și alte produse agricole."
+          },
+          {
+            "name": "Magazin de suveniruri la Parcul Bruno Weber",
+            "tip": "Suveniruri unice inspirate de arta parcului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shop nearby",
+            "tip": "Look out for farm shops for fresh eggs, cheese, and other agricultural products."
+          },
+          {
+            "name": "Souvenir shop at Bruno Weber Park",
+            "tip": "Unique souvenirs inspired by the park's art."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Planen Sie Ihre Route im Voraus und prüfen Sie die Parkmöglichkeiten an jedem Zielort.",
+          "Ein GPS oder eine Navigations-App ist unerlässlich.",
+          "Beachten Sie die Geschwindigkeitsbegrenzungen, besonders in Wohngebieten und auf Landstrassen."
+        ],
+        "hu": [
+          "Tervezze meg előre az útvonalat, és ellenőrizze a parkolási lehetőségeket minden célállomáson.",
+          "GPS vagy navigációs alkalmazás elengedhetetlen.",
+          "Vegye figyelembe a sebességkorlátozásokat, különösen a lakóövezetekben és a vidéki utakon."
+        ],
+        "ro": [
+          "Planificați-vă ruta în avans și verificați opțiunile de parcare la fiecare destinație.",
+          "Un GPS sau o aplicație de navigație este esențială.",
+          "Respectați limitele de viteză, în special în zonele rezidențiale și pe drumurile de țară."
+        ],
+        "en": [
+          "Plan your route in advance and check parking options at each destination.",
+          "A GPS or navigation app is essential.",
+          "Pay attention to speed limits, especially in residential areas and on country roads."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:17",
+      "total_km": 12.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Dietikon Zentrum",
+            "hu": "1. klaszter: Dietikon központja",
+            "ro": "Cluster 1: Centrul Dietikon",
+            "en": "Cluster 1: Dietikon Center"
+          },
+          "coords": [
+            8.404,
+            47.408
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie am Bahnhof Dietikon, dem zentralen Verkehrsknotenpunkt.",
+            "hu": "Kezdje a Dietikon pályaudvaron, a központi közlekedési csomópontban.",
+            "ro": "Începeți de la gara Dietikon, nodul central de transport.",
+            "en": "Start at Dietikon station, the central transport hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtkirche St. Agatha",
+            "hu": "Szent Ágota városi templom",
+            "ro": "Biserica Sfânta Agatha",
+            "en": "St. Agatha's Church"
+          },
+          "coords": [
+            8.401,
+            47.406
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Bahnhof durch die Innenstadt.",
+            "hu": "Egy rövid séta a pályaudvartól a belvároson keresztül.",
+            "ro": "O scurtă plimbare de la gară prin centrul orașului.",
+            "en": "A short walk from the station through the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Limmat & Kloster",
+            "hu": "2. klaszter: Limmat és kolostor",
+            "ro": "Cluster 2: Limmat și Mănăstire",
+            "en": "Cluster 2: Limmat & Monastery"
+          },
+          "coords": [
+            8.425,
+            47.418
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:43",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in Richtung Kloster Fahr und genießen Sie die Aussicht.",
+            "hu": "Menjen busszal a Fahr kolostor irányába, és élvezze a kilátást.",
+            "ro": "Luați un autobuz spre Mănăstirea Fahr și bucurați-vă de priveliște.",
+            "en": "Take a bus towards Fahr Monastery and enjoy the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Spaziergang an der Limmat",
+            "hu": "Ebéd és séta a Limmat partján",
+            "ro": "Prânz și plimbare pe Limmat",
+            "en": "Lunch and walk along the Limmat"
+          },
+          "coords": [
+            8.415,
+            47.415
+          ],
+          "category": "gastro",
+          "arrive_at": "12:03",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Kloster aus können Sie am Flussufer entlang spazieren und ein Restaurant finden.",
+            "hu": "A kolostortól a folyóparton sétálva találhat egy éttermet.",
+            "ro": "De la mănăstire, puteți merge pe malul râului pentru a găsi un restaurant.",
+            "en": "From the monastery, you can walk along the riverbank to find a restaurant."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Bruno Weber Park",
+            "hu": "3. klaszter: Bruno Weber Park",
+            "ro": "Cluster 3: Parcul Bruno Weber",
+            "en": "Cluster 3: Bruno Weber Park"
+          },
+          "coords": [
+            8.388,
+            47.399
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:29",
+          "stay_min": 138,
+          "hop_from_prev_min": 56,
+          "hop_from_prev_km": 6.9,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Park ist mit dem Bus erreichbar. Planen Sie Zeit für den Fußweg von der Haltestelle ein.",
+            "hu": "A park busszal elérhető. Tervezzen időt a buszmegállótól való sétára.",
+            "ro": "Parcul este accesibil cu autobuzul. Planificați timp pentru plimbarea de la stație.",
+            "en": "The park is accessible by bus. Allow time for the walk from the bus stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Entdeckungsreise mit öffentlichen Verkehrsmitteln startet im Zentrum von Dietikon bei der St.-Agatha-Kirche. Von dort nehmen Sie einen Bus zum Kloster Fahr, wo Sie nach der Besichtigung am Limmatufer zu Mittag essen. Der Nachmittag gehört ganz der Kunst: Eine weitere Busfahrt bringt Sie zum einzigartigen Bruno Weber Park. Dort verbringen Sie den Rest des Tages, bevor Sie mit dem Bus zurück ins Zentrum fahren.",
+        "hu": "Tömegközlekedési felfedezőútja Dietikon központjában, a Szent Ágota-templomnál kezdődik. Innen busszal utazik a Fahr kolostorhoz, ahol a látogatás után a Limmat partján ebédel. A délután a művészeté: egy újabb buszozással eljut az egyedülálló Bruno Weber Parkba. Itt tölti a nap hátralévő részét, mielőtt busszal visszatérne a központba.",
+        "ro": "Călătoria dvs. de descoperire cu transportul public începe în centrul Dietikonului, la Biserica Sf. Agatha. De acolo, luați un autobuz spre Mănăstirea Fahr, unde, după vizită, luați prânzul pe malul râului Limmat. După-amiaza este dedicată artei: o altă călătorie cu autobuzul vă duce la unicul Parc Bruno Weber. Acolo petreceți restul zilei înainte de a vă întoarce în centru cu autobuzul.",
+        "en": "Your journey of discovery by public transport begins in the center of Dietikon at St. Agatha's Church. From there, you take a bus to Fahr Monastery, where you have lunch on the banks of the Limmat after your visit. The afternoon is dedicated to art: another bus ride takes you to the unique Bruno Weber Park. You'll spend the rest of the day there before returning to the center by bus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Wurst vom Grill",
+            "tip": "An vielen Orten finden Sie Grillstände mit feinen Schweizer Würsten wie Cervelat oder Bratwurst."
+          },
+          {
+            "name": "Take-away-Sandwich",
+            "tip": "Perfekt für ein schnelles Mittagessen zwischen zwei Busfahrten."
+          },
+          {
+            "name": "Ovomaltine",
+            "tip": "Ein klassisches Schweizer Malzgetränk, das Energie für den Tag gibt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett kolbász",
+            "tip": "Sok helyen találhat grillező standokat finom svájci kolbászokkal, mint a Cervelat vagy a Bratwurst."
+          },
+          {
+            "name": "Elvihető szendvics",
+            "tip": "Tökéletes egy gyors ebédhez két buszozás között."
+          },
+          {
+            "name": "Ovomaltine",
+            "tip": "Klasszikus svájci malátaital, amely energiát ad a naphoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cârnați la grătar",
+            "tip": "În multe locuri veți găsi standuri cu grătare cu cârnați elvețieni delicioși, cum ar fi Cervelat sau Bratwurst."
+          },
+          {
+            "name": "Sandviș la pachet",
+            "tip": "Perfect pentru un prânz rapid între două călătorii cu autobuzul."
+          },
+          {
+            "name": "Ovomaltine",
+            "tip": "O băutură clasică elvețiană din malț care oferă energie pentru întreaga zi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled sausage",
+            "tip": "In many places you will find grill stands with delicious Swiss sausages like Cervelat or Bratwurst."
+          },
+          {
+            "name": "Take-away sandwich",
+            "tip": "Perfect for a quick lunch between two bus rides."
+          },
+          {
+            "name": "Ovomaltine",
+            "tip": "A classic Swiss malt drink that provides energy for the day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt durch die Landschaft",
+            "tip": "Schauen Sie aus dem Fenster und genießen Sie die vorbeiziehende Landschaft.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Kirchplatz St. Agatha",
+            "tip": "Ein ruhiger Platz, um kurz innezuhalten, bevor die Reise weitergeht.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Uferweg an der Limmat",
+            "tip": "Selbst ein kurzes Stück entlang des Flusses kann sehr beruhigend sein.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás a tájon keresztül",
+            "tip": "Nézzen ki az ablakon, és élvezze az elsuhanó tájat.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Szent Ágota templomtér",
+            "tip": "Csendes tér, ahol megpihenhet egy kicsit, mielőtt továbbutazna.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sétány a Limmat partján",
+            "tip": "Még egy rövid szakasz a folyó mentén is nagyon megnyugtató lehet.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătorie cu autobuzul prin peisaj",
+            "tip": "Priviți pe fereastră și bucurați-vă de peisajul care trece.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Piața Bisericii Sf. Agatha",
+            "tip": "O piață liniștită unde puteți face o scurtă pauză înainte de a continua călătoria.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Aleea de pe malul râului Limmat",
+            "tip": "Chiar și o secțiune scurtă de-a lungul râului poate fi foarte liniștitoare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride through the countryside",
+            "tip": "Look out the window and enjoy the passing scenery.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "St. Agatha's Church Square",
+            "tip": "A quiet square to pause for a moment before continuing your journey.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Path on the banks of the Limmat",
+            "tip": "Even a short stretch along the river can be very calming.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Bahnhof",
+            "tip": "Für Reiseführer, Zeitschriften und schnelle Snacks."
+          },
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Kaufen Sie ein frisches Brot oder Gebäck für Ihre Reise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Újságos a pályaudvaron",
+            "tip": "Útikönyvekért, magazinokért és gyors harapnivalókért."
+          },
+          {
+            "name": "Helyi pékség",
+            "tip": "Vásároljon friss kenyeret vagy péksüteményt az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la gară",
+            "tip": "Pentru ghiduri de călătorie, reviste și gustări rapide."
+          },
+          {
+            "name": "Brutărie locală",
+            "tip": "Cumpărați o pâine proaspătă sau produse de patiserie pentru călătoria dvs."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the station",
+            "tip": "For travel guides, magazines and quick snacks."
+          },
+          {
+            "name": "Local bakery",
+            "tip": "Buy a fresh loaf of bread or pastry for your journey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den öffentlichen Verkehr (ZVV), um Geld zu sparen.",
+          "Laden Sie die ZVV-Fahrplan-App herunter, um Ihre Verbindungen in Echtzeit zu verfolgen.",
+          "Beachten Sie, dass einige Buslinien am Wochenende oder abends seltener fahren."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez (ZVV), hogy pénzt takarítson meg.",
+          "Töltse le a ZVV menetrend alkalmazást, hogy valós időben követhesse a járatokat.",
+          "Vegye figyelembe, hogy néhány buszjárat ritkábban közlekedik hétvégén vagy este."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru transportul public (ZVV) pentru a economisi bani.",
+          "Descărcați aplicația de orare ZVV pentru a urmări conexiunile în timp real.",
+          "Rețineți că unele linii de autobuz circulă mai rar în weekend sau seara."
+        ],
+        "en": [
+          "Buy a day pass for public transport (ZVV) to save money.",
+          "Download the ZVV timetable app to track your connections in real time.",
+          "Note that some bus lines run less frequently on weekends or in the evenings."
+        ]
+      }
+    }
+  }
+}

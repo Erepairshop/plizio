@@ -1,10 +1,10 @@
 {
   "city_id": "uk-manchester-cities-v2",
   "anchor": {
-    "name": "Albert Square",
+    "name": "Manchester",
     "coords": [
-      -2.2445,
-      53.4795
+      53.4808,
+      -2.2426
     ]
   },
   "modes": {
@@ -12,455 +12,596 @@
       "mode": "walk",
       "speed_kmh": 3,
       "start": "09:00",
-      "end_estimate": "17:30",
-      "total_km": 3.8,
-      "stop_count": 7,
-      "stops": [
-        {
-          "name": {
-            "de": "Manchester Town Hall",
-            "hu": "Manchesteri városháza",
-            "ro": "Primăria din Manchester",
-            "en": "Manchester Town Hall"
-          },
-          "coords": [
-            -2.2445,
-            53.4795
-          ],
-          "category": "civic",
-          "arrive_at": "09:10",
-          "stay_min": 30,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.0,
-          "tip_5lang": {
-            "de": "Ein Meisterwerk neugotischer Architektur.",
-            "hu": "A neogótikus építészet mesterműve.",
-            "ro": "O capodoperă a arhitecturii neogotice.",
-            "en": "A masterpiece of neo-Gothic architecture."
-          }
-        },
-        {
-          "name": {
-            "de": "Central Library",
-            "hu": "Központi Könyvtár",
-            "ro": "Biblioteca Centrală",
-            "en": "Central Library"
-          },
-          "coords": [
-            -2.2442,
-            53.4782
-          ],
-          "category": "landmark",
-          "arrive_at": "09:45",
-          "stay_min": 40,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.2,
-          "tip_5lang": {
-            "de": "Das Rundgebäude ist innen beeindruckend.",
-            "hu": "A körépület belülről lenyűgöző.",
-            "ro": "Clădirea circulară este impresionantă în interior.",
-            "en": "The circular building is impressive inside."
-          }
-        },
-        {
-          "name": {
-            "de": "John Rylands Research Institute and Library",
-            "hu": "John Rylands Könyvtár",
-            "ro": "Biblioteca John Rylands",
-            "en": "John Rylands Research Institute and Library"
-          },
-          "coords": [
-            -2.2485,
-            53.4805
-          ],
-          "category": "museum",
-          "arrive_at": "10:35",
-          "stay_min": 60,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.4,
-          "tip_5lang": {
-            "de": "Sieht aus wie Hogwarts in Manchester.",
-            "hu": "Olyan, mint a Roxfort Manchesterben.",
-            "ro": "Arată ca Hogwarts în Manchester.",
-            "en": "Looks like Hogwarts in Manchester."
-          }
-        },
-        {
-          "name": {
-            "de": "People's History Museum",
-            "hu": "Néptörténeti Múzeum",
-            "ro": "Muzeul Istoriei Oamenilor",
-            "en": "People's History Museum"
-          },
-          "coords": [
-            -2.2515,
-            53.4815
-          ],
-          "category": "museum",
-          "arrive_at": "11:50",
-          "stay_min": 90,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.5,
-          "tip_5lang": {
-            "de": "Erfahren Sie alles über die Arbeiterbewegung.",
-            "hu": "Tudjon meg mindent a munkásmozgalomról.",
-            "ro": "Aflați totul despre mișcarea muncitorească.",
-            "en": "Learn all about the labor movement."
-          }
-        },
-        {
-          "name": {
-            "de": "Manchester Cathedral",
-            "hu": "Manchesteri székesegyház",
-            "ro": "Catedrala din Manchester",
-            "en": "Manchester Cathedral"
-          },
-          "coords": [
-            -2.2445,
-            53.4852
-          ],
-          "category": "religious",
-          "arrive_at": "13:40",
-          "stay_min": 45,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 0.8,
-          "tip_5lang": {
-            "de": "Bewundern Sie die mittelalterlichen Holzschnitzereien.",
-            "hu": "Csodálja meg a középkori fafaragásokat.",
-            "ro": "Admirați sculpturile medievale în lemn.",
-            "en": "Admire the medieval wood carvings."
-          }
-        },
-        {
-          "name": {
-            "de": "National Football Museum",
-            "hu": "Nemzeti Futball Múzeum",
-            "ro": "Muzeul Național al Fotbalului",
-            "en": "National Football Museum"
-          },
-          "coords": [
-            -2.2425,
-            53.4855
-          ],
-          "category": "museum",
-          "arrive_at": "14:40",
-          "stay_min": 100,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.2,
-          "tip_5lang": {
-            "de": "Ein Paradies für Fußballfans.",
-            "hu": "Paradicsom a futballrajongóknak.",
-            "ro": "Un paradis pentru fanii fotbalului.",
-            "en": "A paradise for football fans."
-          }
-        },
-        {
-          "name": {
-            "de": "Northern Quarter",
-            "hu": "Northern Quarter",
-            "ro": "Northern Quarter",
-            "en": "Northern Quarter"
-          },
-          "coords": [
-            -2.2355,
-            53.4835
-          ],
-          "category": "shopping",
-          "arrive_at": "16:35",
-          "stay_min": 55,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.7,
-          "tip_5lang": {
-            "de": "Hipster-Viertel mit tollen Cafés und Läden.",
-            "hu": "Hipszter negyed remek kávézókkal és boltokkal.",
-            "ro": "Cartier hipster cu cafenele și magazine grozave.",
-            "en": "Hipster district with great cafes and shops."
-          }
-        }
-      ],
-      "narrative_4lang": {
-        "de": "Vormittags tauchen Sie in die majestätische Architektur der Innenstadt ein. Nach einem Besuch im People's History Museum am Fluss spazieren Sie zur Kathedrale und zum Fußballmuseum. Der Tag endet entspannt im trendigen Northern Quarter.",
-        "hu": "Délelőtt elmerül a belváros fenséges építészetében. A folyóparti Néptörténeti Múzeum után a katedrálishoz és a futballmúzeumhoz sétál. A napot a divatos Northern Quarterben zárja.",
-        "ro": "Dimineața vă cufundați în arhitectura majestuoasă a centrului orașului. După o vizită la Muzeul Istoriei Oamenilor de pe malul râului, mergeți spre catedrală și muzeul fotbalului. Ziua se încheie relaxat în trendul Northern Quarter.",
-        "en": "In the morning, immerse yourself in the city center's majestic architecture. After a visit to the People's History Museum by the river, walk to the cathedral and the football museum. The day ends relaxedly in the trendy Northern Quarter."
-      },
-      "gastro_picks": {
-        "de": [
-          {
-            "name": "Mackie Mayor",
-            "tip": "Food Hall in einer alten Markthalle."
-          }
-        ],
-        "hu": [
-          {
-            "name": "Mackie Mayor",
-            "tip": "Ételcsarnok egy régi piacépületben."
-          }
-        ],
-        "ro": [
-          {
-            "name": "Mackie Mayor",
-            "tip": "Hală de mâncare într-o veche clădire de piață."
-          }
-        ],
-        "en": [
-          {
-            "name": "Mackie Mayor",
-            "tip": "Food hall in an old market building."
-          }
-        ]
-      },
-      "quiet_picks": {
-        "de": [
-          {
-            "name": "St Mary's Hidden Gem",
-            "tip": "Wunderschöne versteckte Kirche.",
-            "emoji": "⛪"
-          }
-        ],
-        "hu": [
-          {
-            "name": "St Mary's Hidden Gem",
-            "tip": "Gyönyörű rejtett templom.",
-            "emoji": "⛪"
-          }
-        ],
-        "ro": [
-          {
-            "name": "St Mary's Hidden Gem",
-            "tip": "O frumoasă biserică ascunsă.",
-            "emoji": "⛪"
-          }
-        ],
-        "en": [
-          {
-            "name": "St Mary's Hidden Gem",
-            "tip": "Beautiful hidden church.",
-            "emoji": "⛪"
-          }
-        ]
-      },
-      "shopping_picks": {
-        "de": [
-          {
-            "name": "Afflecks",
-            "tip": "Alternative Kaufhaus-Ikone."
-          }
-        ],
-        "hu": [
-          {
-            "name": "Afflecks",
-            "tip": "Alternatív áruház ikon."
-          }
-        ],
-        "ro": [
-          {
-            "name": "Afflecks",
-            "tip": "O emblemă a magazinelor alternative."
-          }
-        ],
-        "en": [
-          {
-            "name": "Afflecks",
-            "tip": "Alternative department store icon."
-          }
-        ]
-      },
-      "tips": {
-        "de": [
-          "Der Free Bus (Metroshuttle) verbindet wichtige Punkte.",
-          "Manchester ist oft regnerisch - Schirm mitnehmen."
-        ],
-        "hu": [
-          "A Free Bus összeköti a fontos pontokat.",
-          "Manchesterben gyakran esik - vigyen esernyőt."
-        ],
-        "ro": [
-          "Free Bus (Metroshuttle) conectează punctele importante.",
-          "Plouă des în Manchester - luați umbrela."
-        ],
-        "en": [
-          "The Free Bus connects key points.",
-          "Manchester is often rainy - bring an umbrella."
-        ]
-      }
-    },
-    "bike": {
-      "mode": "bike",
-      "speed_kmh": 12,
-      "start": "09:00",
-      "end_estimate": "17:15",
-      "total_km": 15.2,
+      "end_estimate": "18:05",
+      "total_km": 5.9,
       "stop_count": 6,
       "stops": [
         {
           "name": {
-            "de": "Castlefield Bowl & Kanäle",
-            "hu": "Castlefield és csatornák",
-            "ro": "Castlefield Bowl și Canalele",
-            "en": "Castlefield Bowl & Canals"
+            "de": "Albert Square",
+            "hu": "Albert tér",
+            "ro": "Piața Albert",
+            "en": "Albert Square"
           },
           "coords": [
-            -2.2535,
-            53.4755
+            -2.2444,
+            53.4794
           ],
-          "category": "historical",
-          "arrive_at": "09:15",
-          "stay_min": 45,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 1.5,
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Römisches Fort und Kanalkreuzung.",
-            "hu": "Római erőd és csatorna-kereszteződés.",
-            "ro": "Fort roman și intersecție de canale.",
-            "en": "Roman fort and canal crossing."
+            "de": "Bewundern Sie die viktorianische Gotik des Rathauses und die vielen Denkmäler.",
+            "hu": "Csodálja meg a Városháza viktoriánus gótikus stílusát és a sok emlékművet.",
+            "ro": "Admirați arhitectura gotică victoriană a Primăriei și numeroasele monumente.",
+            "en": "Admire the Victorian Gothic town hall and the many monuments."
           }
         },
         {
           "name": {
-            "de": "Science and Industry Museum",
+            "de": "John Rylands Bibliothek",
+            "hu": "John Rylands Könyvtár",
+            "ro": "Biblioteca John Rylands",
+            "en": "John Rylands Library"
+          },
+          "coords": [
+            -2.2481,
+            53.4795
+          ],
+          "category": "museums",
+          "arrive_at": "09:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suchen Sie die Stille im Lesesaal und bestaunen Sie die seltenen Manuskripte.",
+            "hu": "Keresse a csendet az olvasóteremben, és csodálja meg a ritka kéziratokat.",
+            "ro": "Căutați liniștea în Sala de Lectură și admirați manuscrisele rare.",
+            "en": "Find silence in the Reading Room and marvel at the rare manuscripts."
+          }
+        },
+        {
+          "name": {
+            "de": "Castlefield",
+            "hu": "Castlefield",
+            "ro": "Castlefield",
+            "en": "Castlefield"
+          },
+          "coords": [
+            -2.255,
+            53.475
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:08",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Spaziergang entlang der Kanäle enthüllt das industrielle Herz Manchesters.",
+            "hu": "Sétáljon a csatornák mentén, hogy felfedezze Manchester ipari szívét.",
+            "ro": "O plimbare de-a lungul canalelor dezvăluie inima industrială a Manchesterului.",
+            "en": "A walk along the canals reveals Manchester's industrial heart."
+          }
+        },
+        {
+          "name": {
+            "de": "Wissenschafts- und Industriemuseum",
             "hu": "Tudományos és Ipari Múzeum",
             "ro": "Muzeul Științei și Industriei",
             "en": "Science and Industry Museum"
           },
           "coords": [
-            -2.2545,
-            53.4775
+            -2.2558,
+            53.4765
           ],
-          "category": "museum",
-          "arrive_at": "10:15",
-          "stay_min": 100,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.5,
+          "category": "industrial heritage",
+          "arrive_at": "12:13",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Hier stand der erste Passagierbahnhof.",
-            "hu": "Itt állt az első személypályaudvar.",
-            "ro": "Aici s-a aflat prima gară de pasageri.",
-            "en": "The site of the first passenger railway station."
+            "de": "Verpassen Sie nicht die Vorführung der historischen Textilmaschinen.",
+            "hu": "Ne hagyja ki a történelmi textilgépek bemutatóját.",
+            "ro": "Nu ratați demonstrația mașinilor textile istorice.",
+            "en": "Don't miss the demonstration of the historic textile machinery."
           }
         },
         {
           "name": {
-            "de": "Old Trafford (Manchester United)",
-            "hu": "Old Trafford stadion",
-            "ro": "Stadionul Old Trafford",
-            "en": "Old Trafford (Manchester United)"
+            "de": "Kathedrale von Manchester",
+            "hu": "Manchesteri katedrális",
+            "ro": "Catedrala din Manchester",
+            "en": "Manchester Cathedral"
           },
           "coords": [
-            -2.2915,
-            53.4635
+            -2.245,
+            53.485
           ],
-          "category": "recreational",
-          "arrive_at": "12:20",
+          "category": "churches/cathedrals",
+          "arrive_at": "14:43",
           "stay_min": 75,
-          "hop_from_prev_min": 25,
-          "hop_from_prev_km": 4.5,
-          "tip_5lang": {
-            "de": "Heimat der 'Red Devils'.",
-            "hu": "A 'Vörös Ördögök' otthona.",
-            "ro": "Casa 'Diavolilor Roșii'.",
-            "en": "Home of the 'Red Devils'."
-          }
-        },
-        {
-          "name": {
-            "de": "The Quays & MediaCityUK",
-            "hu": "The Quays & MediaCityUK",
-            "ro": "The Quays și MediaCityUK",
-            "en": "The Quays & MediaCityUK"
-          },
-          "coords": [
-            -2.2985,
-            53.4715
-          ],
-          "category": "harbor",
-          "arrive_at": "13:50",
-          "stay_min": 90,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 1.8,
-          "tip_5lang": {
-            "de": "Moderner Medien-Hub am Wasser.",
-            "hu": "Modern média-központ a vízen.",
-            "ro": "Hub media modern la malul apei.",
-            "en": "Modern media hub by the water."
-          }
-        },
-        {
-          "name": {
-            "de": "Whitworth Art Gallery",
-            "hu": "Whitworth Művészeti Galéria",
-            "ro": "Galeria de Artă Whitworth",
-            "en": "Whitworth Art Gallery"
-          },
-          "coords": [
-            -2.2285,
-            53.4605
-          ],
-          "category": "museum",
-          "arrive_at": "16:00",
-          "stay_min": 60,
           "hop_from_prev_min": 30,
-          "hop_from_prev_km": 6.2,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Wunderschöne Galerie im Park.",
-            "hu": "Gyönyörű galéria a parkban.",
-            "ro": "O galerie superbă în parc.",
-            "en": "Beautiful gallery set in a park."
+            "de": "Achten Sie auf die filigranen Holzschnitzereien im Chorgestühl.",
+            "hu": "Figyelje meg a kórusülések bonyolult fafaragásait.",
+            "ro": "Fiți atenți la sculpturile delicate în lemn ale stranei corului.",
+            "en": "Look for the intricate wooden carvings in the choir stalls."
           }
         },
         {
           "name": {
-            "de": "Oxford Road Corridor",
-            "hu": "Oxford Road folyosó",
-            "ro": "Coridorul Oxford Road",
-            "en": "Oxford Road Corridor"
+            "de": "Manchester Museum",
+            "hu": "Manchester Múzeum",
+            "ro": "Muzeul Manchester",
+            "en": "Manchester Museum"
           },
           "coords": [
-            -2.2385,
-            53.4685
+            -2.233,
+            53.467
           ],
-          "category": "civic",
-          "arrive_at": "17:10",
-          "stay_min": 15,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.7,
+          "category": "museums",
+          "arrive_at": "16:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Zentrum von Bildung und Innovation.",
-            "hu": "Az oktatás és az innováció központja.",
-            "ro": "Centru de educație și inovație.",
-            "en": "Hub of education and innovation."
+            "de": "Besuchen Sie Stan, den T-Rex, und entdecken Sie die ägyptische Sammlung.",
+            "hu": "Látogassa meg Stant, a T-Rexet, és fedezze fel az egyiptomi gyűjteményt.",
+            "ro": "Vizitați-l pe Stan, T-Rex-ul, și explorați colecția egipteană.",
+            "en": "Visit Stan the T-Rex and explore the Egyptian collection."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Folgen Sie den Kanälen von Castlefield in den modernen Südwesten. Nach dem Fußball-Tempel Old Trafford erkunden Sie MediaCityUK und radeln zurück durch den grünen Whitworth Park ins Universitätsviertel.",
-        "hu": "Kövesse a csatornákat Castlefieldtől a modern délnyugati részig. Az Old Trafford futball-szentély után fedezze fel MediaCityUK-t, majd biciklizzen vissza a zöld Whitworth Parkon át az egyetemi negyedbe.",
-        "ro": "Urmați canalele din Castlefield către sud-vestul modern. După templul fotbalului Old Trafford, explorați MediaCityUK și pedalați înapoi prin parcul verde Whitworth către cartierul universitar.",
-        "en": "Follow the canals from Castlefield to the modern southwest. After the Old Trafford football shrine, explore MediaCityUK and cycle back through the green Whitworth Park into the university district."
+        "de": "Ihr Tag beginnt am Albert Square, dem pulsierenden Herzen der Stadt. Von dort aus tauchen Sie in die Stille der John Rylands Library ein, ein gotisches Meisterwerk. Am Mittag erkunden Sie Castlefield, das römische und industrielle Erbe der Stadt, gefolgt von einem tiefen Einblick in die Innovation im Science and Industry Museum. Am Nachmittag führt Sie ein Spaziergang zur majestätischen Kathedrale, bevor Sie den Tag im vielseitigen Manchester Museum ausklingen lassen. Eine Reise durch Zeit und Wissen, alles zu Fuß.",
+        "hu": "A nap az Albert téren, a város lüktető szívében kezdődik. Innen a John Rylands Könyvtár csendjébe merülhet, amely egy gótikus mestermű. Délben felfedezheti Castlefieldet, a város római és ipari örökségét, majd a Tudományos és Ipari Múzeumban mélyedhet el az innovációban. Délután egy séta a fenséges katedrálishoz vezet, mielőtt a napot a sokszínű Manchester Múzeumban zárná. Egy utazás az időn és a tudáson keresztül, mindezt gyalog.",
+        "ro": "Ziua începe în Piața Albert, inima vibrantă a orașului. De acolo, vă scufundați în liniștea Bibliotecii John Rylands, o capodoperă gotică. La prânz, explorați Castlefield, moștenirea romană și industrială a orașului, urmată de o incursiune profundă în inovație la Muzeul Științei și Industriei. După-amiaza, o plimbare vă duce la catedrala maiestuoasă, înainte de a încheia ziua la eclectic Muzeu Manchester. O călătorie prin timp și cunoaștere, totul pe jos.",
+        "en": "Your day begins in Albert Square, the city's vibrant heart. From there, delve into the silence of the John Rylands Library, a gothic masterpiece. At noon, you'll explore Castlefield, the city's Roman and industrial heritage, followed by a deep dive into innovation at the Science and Industry Museum. In the afternoon, a walk takes you to the majestic cathedral, before ending the day at the eclectic Manchester Museum. A journey through time and knowledge, all on foot."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "MediaCity Food Hall",
-            "tip": "Vielfältiges Essen am Hafen."
+            "name": "Steak and Ale Pie",
+            "tip": "Ein herzhafter Klassiker, am besten in einem traditionellen Pub."
+          },
+          {
+            "name": "Manchester Tart",
+            "tip": "Eine süße Leckerei mit Himbeermarmelade und Pudding."
+          },
+          {
+            "name": "Curry Mile",
+            "tip": "Eine Straße voller südasiatischer Restaurants für ein würziges Abendessen."
           }
         ],
         "hu": [
           {
-            "name": "MediaCity Food Hall",
-            "tip": "Változatos ételek a kikötőnél."
+            "name": "Steak and Ale pite",
+            "tip": "Egy kiadós klasszikus, a legjobb egy hagyományos pubban."
+          },
+          {
+            "name": "Manchesteri torta",
+            "tip": "Édes finomság málnalekvárral és pudinggal."
+          },
+          {
+            "name": "Curry Mile",
+            "tip": "Egy utca tele dél-ázsiai éttermekkel egy fűszeres vacsoráért."
           }
         ],
         "ro": [
           {
-            "name": "MediaCity Food Hall",
-            "tip": "Mâncare diversificată la port."
+            "name": "Plăcintă cu friptură și bere",
+            "tip": "Un clasic consistent, cel mai bun într-un pub tradițional."
+          },
+          {
+            "name": "Tartă Manchester",
+            "tip": "Un deliciu dulce cu gem de zmeură și cremă de vanilie."
+          },
+          {
+            "name": "Curry Mile",
+            "tip": "O stradă plină de restaurante sud-asiatice pentru o cină picantă."
           }
         ],
         "en": [
           {
-            "name": "MediaCity Food Hall",
-            "tip": "Diverse food by the harbor."
+            "name": "Steak and Ale Pie",
+            "tip": "A hearty classic, best enjoyed in a traditional pub."
+          },
+          {
+            "name": "Manchester Tart",
+            "tip": "A sweet treat with raspberry jam and custard."
+          },
+          {
+            "name": "Curry Mile",
+            "tip": "A street full of South Asian restaurants for a spicy dinner."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kanäle von Castlefield",
+            "tip": "Ein ruhiger Spaziergang entlang des Wassers, weg vom Trubel der Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Lesesaal der John Rylands Library",
+            "tip": "Akademische Stille unter einem kathedralenartigen Gewölbe.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kathedralengärten",
+            "tip": "Eine grüne Oase neben der historischen Kathedrale.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Castlefield csatornái",
+            "tip": "Csendes séta a víz mentén, távol a város zajától.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "John Rylands Könyvtár olvasóterme",
+            "tip": "Akadémiai csend egy katedrálisszerű boltozat alatt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Katedrális Kert",
+            "tip": "Zöld oázis a történelmi katedrális mellett.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Canalele din Castlefield",
+            "tip": "O plimbare liniștită de-a lungul apei, departe de agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sala de lectură a Bibliotecii John Rylands",
+            "tip": "Liniște academică sub o boltă ca de catedrală.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădinile Catedralei",
+            "tip": "O oază de verdeață lângă catedrala istorică.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Canals of Castlefield",
+            "tip": "A quiet stroll along the water, away from the city bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "John Rylands Library Reading Room",
+            "tip": "Academic silence under a cathedral-like vault.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Cathedral Gardens",
+            "tip": "A green oasis next to the historic cathedral.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Northern Quarter",
+            "tip": "Entdecken Sie unabhängige Boutiquen, Vintage-Läden und Plattenläden."
+          },
+          {
+            "name": "Afflecks",
+            "tip": "Ein alternatives Kaufhaus voller einzigartiger Mode und Geschenke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Northern Quarter",
+            "tip": "Fedezze fel a független butikokat, vintage boltokat és lemezboltokat."
+          },
+          {
+            "name": "Afflecks",
+            "tip": "Alternatív áruház tele egyedi divattal és ajándékokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Northern Quarter",
+            "tip": "Descoperiți buticuri independente, magazine de epocă și magazine de viniluri."
+          },
+          {
+            "name": "Afflecks",
+            "tip": "Un centru comercial alternativ, plin de modă și cadouri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Northern Quarter",
+            "tip": "Explore independent boutiques, vintage shops, and record stores."
+          },
+          {
+            "name": "Afflecks",
+            "tip": "An alternative emporium full of unique fashion and gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus.",
+          "Ein Regenschirm ist in Manchester immer eine gute Idee.",
+          "Nehmen Sie sich Zeit für eine Kaffeepause in einem der vielen unabhängigen Cafés."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "Ellenőrizze előre a múzeumok nyitvatartási idejét.",
+          "Egy esernyő mindig jó ötlet Manchesterben.",
+          "Szánjon időt egy kávészünetre a sok független kávézó egyikében."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe jos.",
+          "Verificați în avans orele de program ale muzeelor.",
+          "O umbrelă este întotdeauna o idee bună în Manchester.",
+          "Luați-vă timp pentru o pauză de cafea la una dintre multele cafenele independente."
+        ],
+        "en": [
+          "Wear comfortable shoes, you will be doing a lot of walking.",
+          "Check museum opening times in advance.",
+          "An umbrella is always a good idea in Manchester.",
+          "Take time for a coffee break in one of the many independent cafes."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Castlefield",
+            "hu": "Castlefield",
+            "ro": "Castlefield",
+            "en": "Castlefield"
+          },
+          "coords": [
+            -2.255,
+            53.475
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einer Radtour entlang der historischen Kanäle.",
+            "hu": "Kezdje a napot egy biciklitúrával a történelmi csatornák mentén.",
+            "ro": "Începeți ziua cu o plimbare cu bicicleta de-a lungul canalelor istorice.",
+            "en": "Start the day with a cycle along the historic canals."
+          }
+        },
+        {
+          "name": {
+            "de": "Wissenschafts- und Industriemuseum",
+            "hu": "Tudományos és Ipari Múzeum",
+            "ro": "Muzeul Științei și Industriei",
+            "en": "Science and Industry Museum"
+          },
+          "coords": [
+            -2.2558,
+            53.4765
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Sichere Fahrradständer sind am Eingang verfügbar.",
+            "hu": "Biztonságos kerékpártárolók állnak rendelkezésre a bejáratnál.",
+            "ro": "Suporturi securizate pentru biciclete sunt disponibile la intrare.",
+            "en": "Secure bike racks are available at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Old Trafford",
+            "hu": "Old Trafford",
+            "ro": "Old Trafford",
+            "en": "Old Trafford"
+          },
+          "coords": [
+            -2.2913,
+            53.4631
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine Stadiontour ist ein Muss für Fußballfans. Buchen Sie im Voraus!",
+            "hu": "A stadiontúra kötelező a futballrajongóknak. Foglaljon előre!",
+            "ro": "Un tur al stadionului este obligatoriu pentru fanii fotbalului. Rezervați în avans!",
+            "en": "A stadium tour is a must for football fans. Book in advance!"
+          }
+        },
+        {
+          "name": {
+            "de": "Albert Square",
+            "hu": "Albert tér",
+            "ro": "Piața Albert",
+            "en": "Albert Square"
+          },
+          "coords": [
+            -2.2444,
+            53.4794
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein idealer Ort für eine Mittagspause. Viele Cafés in der Nähe.",
+            "hu": "Ideális hely egy ebédszünetre. A közelben számos kávézó található.",
+            "ro": "Un loc ideal pentru o pauză de prânz. Multe cafenele în apropiere.",
+            "en": "An ideal spot for a lunch break. Many cafes nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Manchester",
+            "hu": "Manchesteri katedrális",
+            "ro": "Catedrala din Manchester",
+            "en": "Manchester Cathedral"
+          },
+          "coords": [
+            -2.245,
+            53.485
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:36",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Verbinden Sie den Besuch mit einem Abstecher zu Chetham's Library nebenan.",
+            "hu": "Kösse össze a látogatást a szomszédos Chetham's Könyvtárral.",
+            "ro": "Combinați vizita cu o vizită la Biblioteca Chetham's de alături.",
+            "en": "Combine the visit with a detour to Chetham's Library next door."
+          }
+        },
+        {
+          "name": {
+            "de": "John Rylands Bibliothek",
+            "hu": "John Rylands Könyvtár",
+            "ro": "Biblioteca John Rylands",
+            "en": "John Rylands Library"
+          },
+          "coords": [
+            -2.2481,
+            53.4795
+          ],
+          "category": "museums",
+          "arrive_at": "15:27",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein Ort der Ruhe nach einer Fahrt durch die belebte Innenstadt.",
+            "hu": "A nyugalom helye egy forgalmas belvárosi tekerés után.",
+            "ro": "Un loc de liniște după o plimbare prin centrul aglomerat al orașului.",
+            "en": "A place of tranquility after a ride through the busy city center."
+          }
+        },
+        {
+          "name": {
+            "de": "The Whitworth",
+            "hu": "The Whitworth",
+            "ro": "The Whitworth",
+            "en": "The Whitworth"
+          },
+          "coords": [
+            -2.226,
+            53.458
+          ],
+          "category": "museums",
+          "arrive_at": "16:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour in dieser 'Galerie im Park' und entspannen Sie im Grünen.",
+            "hu": "Fejezze be a túrát ebben a 'parkban lévő galériában', és pihenjen a zöldben.",
+            "ro": "Încheiați-vă turul la această 'galerie din parc' și relaxați-vă în natură.",
+            "en": "End your tour at this 'gallery in the park' and relax in the green."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auf zwei Rädern entdecken Sie Manchester von seiner dynamischsten Seite. Starten Sie im industriellen Castlefield, dann weiter zum legendären Old Trafford. Mittags erobern Sie das Stadtzentrum mit dem Albert Square und der Kathedrale. Der Nachmittag gehört der Kultur in der John Rylands Library und der Kunstgalerie The Whitworth, idyllisch in einem Park gelegen. Eine Tour, die Industrie, Sport und Kultur perfekt verbindet und Ihnen die vielfältigen Gesichter der Stadt zeigt.",
+        "hu": "Két keréken fedezheti fel Manchester legdinamikusabb oldalát. Induljon az ipari Castlefieldből, majd tekerjen a legendás Old Traffordhoz. Délben hódítsa meg a városközpontot az Albert térrel és a katedrálissal. A délután a kultúráé a John Rylands Könyvtárban és a The Whitworth művészeti galériában, amely idilli környezetben, egy parkban található. Egy túra, amely tökéletesen ötvözi az ipart, a sportot és a kultúrát, és megmutatja a város sokszínű arcát.",
+        "ro": "Pe două roți, veți descoperi cea mai dinamică latură a Manchesterului. Începeți în zona industrială Castlefield, apoi continuați spre legendarul Old Trafford. La prânz, cuceriți centrul orașului cu Piața Albert și catedrala. După-amiaza este dedicată culturii la Biblioteca John Rylands și galeriei de artă The Whitworth, situată idilic într-un parc. Un tur care combină perfect industria, sportul și cultura, arătându-vă fețele diverse ale orașului.",
+        "en": "On two wheels, you'll discover Manchester's most dynamic side. Start in industrial Castlefield, then on to the legendary Old Trafford. At midday, conquer the city centre with Albert Square and the cathedral. The afternoon is for culture at the John Rylands Library and The Whitworth art gallery, idyllically located in a park. A tour that perfectly combines industry, sport and culture, showing you the diverse faces of the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fish & Chips",
+            "tip": "Ein Muss in England, perfekt für eine schnelle Mahlzeit."
+          },
+          {
+            "name": "Northern Soul Grilled Cheese",
+            "tip": "Gourmet-Käsesandwiches, ideal für Radfahrer-Energie."
+          },
+          {
+            "name": "Mackie Mayor",
+            "tip": "Ein viktorianischer Markt, der in eine Food Hall umgewandelt wurde, mit vielen Optionen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fish & Chips",
+            "tip": "Kötelező Angliában, tökéletes egy gyors étkezéshez."
+          },
+          {
+            "name": "Northern Soul grillezett sajtos szendvics",
+            "tip": "Gourmet sajtos szendvicsek, ideális energia a kerékpárosoknak."
+          },
+          {
+            "name": "Mackie Mayor",
+            "tip": "Viktoriánus piacból átalakított ételcsarnok, sok választékkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fish & Chips",
+            "tip": "O necesitate în Anglia, perfect pentru o masă rapidă."
+          },
+          {
+            "name": "Northern Soul Grilled Cheese",
+            "tip": "Sandvișuri cu brânză gourmet, ideale pentru energia cicliștilor."
+          },
+          {
+            "name": "Mackie Mayor",
+            "tip": "O piață victoriană transformată într-o hală alimentară, cu multe opțiuni."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish & Chips",
+            "tip": "A must-try in England, perfect for a quick meal."
+          },
+          {
+            "name": "Northern Soul Grilled Cheese",
+            "tip": "Gourmet cheese sandwiches, ideal for cyclist fuel."
+          },
+          {
+            "name": "Mackie Mayor",
+            "tip": "A Victorian market turned into a food hall with lots of options."
           }
         ]
       },
@@ -468,299 +609,355 @@
         "de": [
           {
             "name": "Whitworth Park",
-            "tip": "Grüne Oase im Süden.",
+            "tip": "Ein idealer Ort, um sich nach dem Galeriebesuch die Beine zu vertreten.",
             "emoji": "🌳"
+          },
+          {
+            "name": "Bridgewater Canal",
+            "tip": "Folgen Sie dem Treidelpfad für eine friedliche Fahrt aus der Stadt heraus.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fletcher Moss Park & Gardens",
+            "tip": "Etwas weiter entfernt, aber eine wunderschöne, ruhige Radtour wert.",
+            "emoji": "🌸"
           }
         ],
         "hu": [
           {
             "name": "Whitworth Park",
-            "tip": "Zöld oázis délen.",
+            "tip": "Ideális hely a lábak nyújtóztatására a galéria látogatása után.",
             "emoji": "🌳"
+          },
+          {
+            "name": "Bridgewater csatorna",
+            "tip": "Kövesse a vontatóutat egy békés tekerésért a városból kifelé.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fletcher Moss Park & Gardens",
+            "tip": "Kicsit távolabb van, de megér egy szép, csendes biciklitúrát.",
+            "emoji": "🌸"
           }
         ],
         "ro": [
           {
-            "name": "Whitworth Park",
-            "tip": "Oază verde în sud.",
+            "name": "Parcul Whitworth",
+            "tip": "Un loc ideal pentru a vă întinde picioarele după vizitarea galeriei.",
             "emoji": "🌳"
+          },
+          {
+            "name": "Canalul Bridgewater",
+            "tip": "Urmați poteca de remorcare pentru o plimbare liniștită în afara orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul și Grădinile Fletcher Moss",
+            "tip": "Puțin mai departe, dar merită o plimbare frumoasă și liniștită cu bicicleta.",
+            "emoji": "🌸"
           }
         ],
         "en": [
           {
             "name": "Whitworth Park",
-            "tip": "Green oasis in the south.",
+            "tip": "An ideal place to stretch your legs after the gallery visit.",
             "emoji": "🌳"
+          },
+          {
+            "name": "Bridgewater Canal",
+            "tip": "Follow the towpath for a peaceful ride out of the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fletcher Moss Park & Gardens",
+            "tip": "A bit further out, but worth a beautiful, quiet cycle.",
+            "emoji": "🌸"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Lowry Outlet",
-            "tip": "Outlet-Shopping am Quays."
+            "name": "Corn Exchange",
+            "tip": "Historisches Gebäude mit einer Auswahl an Restaurants und kleinen Geschäften."
+          },
+          {
+            "name": "Manchester Craft and Design Centre",
+            "tip": "Kaufen Sie direkt bei lokalen Künstlern und Designern."
           }
         ],
         "hu": [
           {
-            "name": "Lowry Outlet",
-            "tip": "Outlet vásárlás a Quays-nél."
+            "name": "Corn Exchange",
+            "tip": "Történelmi épület éttermekkel és kisebb üzletekkel."
+          },
+          {
+            "name": "Manchesteri Kézműves és Design Központ",
+            "tip": "Vásároljon közvetlenül a helyi művészektől és tervezőktől."
           }
         ],
         "ro": [
           {
-            "name": "Lowry Outlet",
-            "tip": "Cumpărături de tip outlet la Quays."
+            "name": "Corn Exchange",
+            "tip": "Clădire istorică cu o selecție de restaurante și magazine mici."
+          },
+          {
+            "name": "Centrul de Artizanat și Design din Manchester",
+            "tip": "Cumpărați direct de la artiști și designeri locali."
           }
         ],
         "en": [
           {
-            "name": "Lowry Outlet",
-            "tip": "Outlet shopping at the Quays."
+            "name": "Corn Exchange",
+            "tip": "Historic building housing a selection of restaurants and small shops."
+          },
+          {
+            "name": "Manchester Craft and Design Centre",
+            "tip": "Buy directly from local artists and designers."
           }
         ]
       },
       "tips": {
         "de": [
-          "Bicyle-Sharing von Beryl ist verfügbar.",
-          "Vorsicht auf nassen Kanalwegen."
+          "Nutzen Sie die vielen Radwege entlang der Kanäle.",
+          "Ein Helm wird empfohlen.",
+          "Schließen Sie Ihr Fahrrad immer an einem festen Gegenstand an.",
+          "Viele der neueren Radwege sind vom Autoverkehr getrennt."
         ],
         "hu": [
-          "Beryl kerékpármegosztó elérhető.",
-          "Vigyázzon a nedves csatornaparti utakon."
+          "Használja ki a csatornák menti számos kerékpárutat.",
+          "Sisak viselése ajánlott.",
+          "Mindig zárja le a kerékpárját egy szilárd tárgyhoz.",
+          "Az újabb kerékpárutak közül sok elkülönül az autóforgalomtól."
         ],
         "ro": [
-          "Beryl bicycle-sharing este disponibil.",
-          "Atenție pe aleile umede de lângă canal."
+          "Profitați de numeroasele piste de biciclete de-a lungul canalelor.",
+          "Se recomandă purtarea căștii de protecție.",
+          "Asigurați-vă întotdeauna bicicleta de un obiect fix.",
+          "Multe dintre pistele de biciclete mai noi sunt separate de traficul auto."
         ],
         "en": [
-          "Beryl bicycle-sharing is available.",
-          "Be careful on wet canal towpaths."
+          "Make use of the many cycle paths along the canals.",
+          "A helmet is recommended.",
+          "Always lock your bike to a fixed object.",
+          "Many of the newer cycle lanes are segregated from traffic."
         ]
       }
     },
     "car": {
       "mode": "car",
-      "speed_kmh": 25,
+      "speed_kmh": 28,
       "start": "09:00",
-      "end_estimate": "17:30",
-      "total_km": 26.5,
-      "stop_count": 8,
+      "end_estimate": "17:40",
+      "total_km": 15.6,
+      "stop_count": 6,
       "stops": [
         {
           "name": {
-            "de": "Imperial War Museum North",
-            "hu": "Északi Hadi Múzeum",
-            "ro": "Muzeul Imperial al Războiului de Nord",
-            "en": "Imperial War Museum North"
+            "de": "The Whitworth",
+            "hu": "The Whitworth",
+            "ro": "The Whitworth",
+            "en": "The Whitworth"
           },
           "coords": [
-            -2.2985,
-            53.4695
+            -2.226,
+            53.458
           ],
-          "category": "museum",
-          "arrive_at": "09:25",
-          "stay_min": 90,
-          "hop_from_prev_min": 25,
-          "hop_from_prev_km": 6.0,
-          "tip_5lang": {
-            "de": "Die Architektur von Libeskind ist spektakulär.",
-            "hu": "Libeskind építészete látványos.",
-            "ro": "Arhitectura lui Libeskind este spectaculoasă.",
-            "en": "Libeskind's architecture is spectacular."
-          }
-        },
-        {
-          "name": {
-            "de": "MediaCityUK",
-            "hu": "MediaCityUK",
-            "ro": "MediaCityUK",
-            "en": "MediaCityUK"
-          },
-          "coords": [
-            -2.2995,
-            53.4725
-          ],
-          "category": "cultural",
-          "arrive_at": "11:00",
-          "stay_min": 45,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.3,
-          "tip_5lang": {
-            "de": "Zuhause von BBC und ITV.",
-            "hu": "A BBC és az ITV otthona.",
-            "ro": "Sediul BBC și ITV.",
-            "en": "Home of BBC and ITV."
-          }
-        },
-        {
-          "name": {
-            "de": "Etihad Stadium (Man City)",
-            "hu": "Etihad stadion",
-            "ro": "Stadionul Etihad",
-            "en": "Etihad Stadium (Man City)"
-          },
-          "coords": [
-            -2.2005,
-            53.4835
-          ],
-          "category": "recreational",
-          "arrive_at": "12:15",
-          "stay_min": 60,
-          "hop_from_prev_min": 30,
-          "hop_from_prev_km": 8.5,
-          "tip_5lang": {
-            "de": "Stadiontour für Fans der Sky Blues.",
-            "hu": "Stadiontúra a Sky Blues rajongóinak.",
-            "ro": "Tur de stadion pentru fanii Sky Blues.",
-            "en": "Stadium tour for fans of the Sky Blues."
-          }
-        },
-        {
-          "name": {
-            "de": "Vermilion",
-            "hu": "Vermilion",
-            "ro": "Vermilion",
-            "en": "Vermilion"
-          },
-          "coords": [
-            -2.1955,
-            53.4855
-          ],
-          "category": "gastro",
-          "arrive_at": "13:25",
-          "stay_min": 80,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.6,
-          "tip_5lang": {
-            "de": "Stilvolles Essen im Osten der Stadt.",
-            "hu": "Stílusos étkezés a város keleti részén.",
-            "ro": "Masă elegantă în estul orașului.",
-            "en": "Stylish dining in the east of the city."
-          }
-        },
-        {
-          "name": {
-            "de": "Heaton Park",
-            "hu": "Heaton Park",
-            "ro": "Parcul Heaton",
-            "en": "Heaton Park"
-          },
-          "coords": [
-            -2.2535,
-            53.5355
-          ],
-          "category": "park",
-          "arrive_at": "15:15",
+          "category": "museums",
+          "arrive_at": "09:00",
           "stay_min": 75,
-          "hop_from_prev_min": 30,
-          "hop_from_prev_km": 10.5,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
           "tip_5lang": {
-            "de": "Größter Park der Region mit See.",
-            "hu": "A régió legnagyobb parkja tóval.",
-            "ro": "Cel mai mare parc din regiune cu lac.",
-            "en": "Largest park in the region with a lake."
+            "de": "Parken Sie in der Nähe und beginnen Sie den Tag mit Kunst und Natur.",
+            "hu": "Parkoljon a közelben, és kezdje a napot művészettel és természettel.",
+            "ro": "Parcați în apropiere și începeți ziua cu artă și natură.",
+            "en": "Park nearby and start the day with art and nature."
           }
         },
         {
           "name": {
-            "de": "Heaton Hall",
-            "hu": "Heaton Hall",
-            "ro": "Heaton Hall",
-            "en": "Heaton Hall"
+            "de": "Manchester Museum",
+            "hu": "Manchester Múzeum",
+            "ro": "Muzeul Manchester",
+            "en": "Manchester Museum"
           },
           "coords": [
-            -2.2545,
-            53.5365
+            -2.233,
+            53.467
           ],
-          "category": "historical",
-          "arrive_at": "16:35",
-          "stay_min": 25,
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch den Universitäts-Campus bringt Sie hierher.",
+            "hu": "Egy rövid séta az egyetemi campuson keresztül, és máris itt van.",
+            "ro": "O scurtă plimbare prin campusul universitar vă va aduce aici.",
+            "en": "A short walk through the university campus will get you here."
+          }
+        },
+        {
+          "name": {
+            "de": "Old Trafford",
+            "hu": "Old Trafford",
+            "ro": "Old Trafford",
+            "en": "Old Trafford"
+          },
+          "coords": [
+            -2.2913,
+            53.4631
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Es gibt reichlich Parkplätze, aber an Spieltagen kann es voll werden.",
+            "hu": "Bőséges parkolási lehetőség van, de meccsnapokon zsúfolt lehet.",
+            "ro": "Există o parcare amplă, dar poate fi aglomerată în zilele de meci.",
+            "en": "Ample parking is available, but it can be busy on match days."
+          }
+        },
+        {
+          "name": {
+            "de": "Albert Square",
+            "hu": "Albert tér",
+            "ro": "Piața Albert",
+            "en": "Albert Square"
+          },
+          "coords": [
+            -2.2444,
+            53.4794
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in einem der zentralen Parkhäuser und erkunden Sie den Rest zu Fuß.",
+            "hu": "Parkoljon az egyik központi parkolóházban, és fedezze fel a többit gyalog.",
+            "ro": "Parcați într-una din parcările centrale și explorați restul pe jos.",
+            "en": "Park in a central car park and explore the rest on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "John Rylands Bibliothek",
+            "hu": "John Rylands Könyvtár",
+            "ro": "Biblioteca John Rylands",
+            "en": "John Rylands Library"
+          },
+          "coords": [
+            -2.2481,
+            53.4795
+          ],
+          "category": "museums",
+          "arrive_at": "14:45",
+          "stay_min": 60,
           "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.1,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Prächtiges Herrenhaus im Park.",
-            "hu": "Pompás kúria a parkban.",
-            "ro": "Conac grandios în parc.",
-            "en": "Grand mansion in the park."
+            "de": "Nur wenige Schritte vom Albert Square entfernt.",
+            "hu": "Csak néhány lépésre az Albert tértől.",
+            "ro": "La doar câțiva pași de Piața Albert.",
+            "en": "Just a few steps away from Albert Square."
           }
         },
         {
           "name": {
-            "de": "Beetham Tower",
-            "hu": "Beetham Tower",
-            "ro": "Beetham Tower",
-            "en": "Beetham Tower"
+            "de": "Kathedrale von Manchester",
+            "hu": "Manchesteri katedrális",
+            "ro": "Catedrala din Manchester",
+            "en": "Manchester Cathedral"
           },
           "coords": [
-            -2.2505,
-            53.4752
+            -2.245,
+            53.485
           ],
-          "category": "viewpoint",
-          "arrive_at": "17:25",
-          "stay_min": 25,
-          "hop_from_prev_min": 25,
-          "hop_from_prev_km": 8.5,
+          "category": "churches/cathedrals",
+          "arrive_at": "15:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Das höchste Gebäude der Stadt bis 2018.",
-            "hu": "A város legmagasabb épülete 2018-ig.",
-            "ro": "Cea mai înaltă clădire din oraș până în 2018.",
-            "en": "The city's tallest building until 2018."
-          }
-        },
-        {
-          "name": {
-            "de": "Cloud 23",
-            "hu": "Cloud 23",
-            "ro": "Cloud 23",
-            "en": "Cloud 23"
-          },
-          "coords": [
-            -2.2515,
-            53.4755
-          ],
-          "category": "gastro",
-          "arrive_at": "17:55",
-          "stay_min": 40,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.1,
-          "tip_5lang": {
-            "de": "Bar im 23. Stock für einen Cocktail.",
-            "hu": "Bár a 23. emeleten egy koktélhoz.",
-            "ro": "Bar la etajul 23 pentru un cocktail.",
-            "en": "Bar on the 23rd floor for a cocktail."
+            "de": "Ein schöner Spaziergang durch die Fußgängerzone führt Sie hierher.",
+            "hu": "Egy kellemes séta a sétálóutcán keresztül vezet ide.",
+            "ro": "O plimbare plăcută prin zona pietonală vă va aduce aici.",
+            "en": "A pleasant walk through the pedestrianised shopping area gets you here."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Diese Autotour führt Sie zu den architektonischen und sportlichen Highlights außerhalb des Zentrums. Vom kriegshistorischen Museum am Quays über das Etihad Stadium bis zum riesigen Heaton Park erleben Sie die Größe Manchesters.",
-        "hu": "Ez az autós túra a központon kívüli építészeti és sport-fénypontokhoz vezeti. A Quays hadi múzeumától az Etihad stadionon át a hatalmas Heaton Parkig megtapasztalhatja Manchester nagyságát.",
-        "ro": "Acest tur cu mașina vă poartă către atracțiile arhitecturale și sportive din afara centrului. De la muzeul istoriei războiului la Quays, trecând prin stadionul Etihad până la imensul parc Heaton, veți experimenta măreția Manchester-ului.",
-        "en": "This car tour takes you to the architectural and sporting highlights outside the center. From the war history museum at the Quays via the Etihad Stadium to the huge Heaton Park, experience Manchester's scale."
+        "de": "Mit dem Auto erkunden Sie Manchester in Clustern. Beginnen Sie im Süden im Museumsviertel mit der Whitworth Gallery und dem Manchester Museum. Am Mittag fahren Sie zum legendären Old Trafford. Der Nachmittag gehört dem historischen Stadtzentrum: Parken Sie Ihr Auto und entdecken Sie den Albert Square, die John Rylands Library und die Kathedrale zu Fuß. Diese Tour kombiniert die Flexibilität des Autos mit dem intensiven Erlebnis von Spaziergängen und zeigt Ihnen die Highlights der Stadt.",
+        "hu": "Autóval klaszterekben fedezheti fel Manchestert. Kezdje délen a múzeumi negyedben a Whitworth Galériával és a Manchester Múzeummal. Délben hajtson el a legendás Old Traffordhoz. A délután a történelmi városközponté: parkolja le az autóját, és fedezze fel gyalog az Albert teret, a John Rylands Könyvtárat és a katedrálist. Ez a túra ötvözi az autó rugalmasságát a séták intenzív élményével, és megmutatja a város legfontosabb látnivalóit.",
+        "ro": "Cu mașina, explorați Manchesterul în grupuri. Începeți în sud, în cartierul muzeelor, cu Galeria Whitworth și Muzeul Manchester. La prânz, conduceți spre legendarul Old Trafford. După-amiaza este dedicată centrului istoric: parcați mașina și descoperiți Piața Albert, Biblioteca John Rylands și catedrala pe jos. Acest tur combină flexibilitatea mașinii cu experiența intensă a plimbărilor, arătându-vă punctele de atracție ale orașului.",
+        "en": "By car, you'll explore Manchester in clusters. Start in the south in the museum district with the Whitworth Gallery and Manchester Museum. At noon, drive to the legendary Old Trafford. The afternoon is for the historic city centre: park your car and discover Albert Square, the John Rylands Library and the cathedral on foot. This tour combines the flexibility of the car with the immersive experience of walking, showing you the city's highlights."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Cloud 23",
-            "tip": "Cocktails mit Panoramablick."
+            "name": "The Lowry Hotel's Sunday Roast",
+            "tip": "Wenn Sie an einem Sonntag hier sind, ist dies ein klassisches britisches Erlebnis."
+          },
+          {
+            "name": "Hawksmoor Manchester",
+            "tip": "Bekannt für seine exzellenten Steaks, falls Sie sich etwas gönnen möchten."
+          },
+          {
+            "name": "Bundobust Piccadilly",
+            "tip": "Indisches Street Food und Craft-Bier, ideal für ein zwangloses Abendessen."
           }
         ],
         "hu": [
           {
-            "name": "Cloud 23",
-            "tip": "Koktélok panorámás kilátással."
+            "name": "The Lowry Hotel vasárnapi sültje",
+            "tip": "Ha vasárnap itt van, ez egy klasszikus brit élmény."
+          },
+          {
+            "name": "Hawksmoor Manchester",
+            "tip": "Kiváló steakjeiről ismert, ha kényeztetni szeretné magát."
+          },
+          {
+            "name": "Bundobust Piccadilly",
+            "tip": "Indiai street food és kézműves sör, ideális egy laza vacsorához."
           }
         ],
         "ro": [
           {
-            "name": "Cloud 23",
-            "tip": "Cocktailuri cu vedere panoramică."
+            "name": "Friptura de duminică de la The Lowry Hotel",
+            "tip": "Dacă sunteți aici într-o duminică, aceasta este o experiență britanică clasică."
+          },
+          {
+            "name": "Hawksmoor Manchester",
+            "tip": "Renumit pentru fripturile sale excelente, dacă doriți să vă răsfățați."
+          },
+          {
+            "name": "Bundobust Piccadilly",
+            "tip": "Mâncare stradală indiană și bere artizanală, ideal pentru o cină informală."
           }
         ],
         "en": [
           {
-            "name": "Cloud 23",
-            "tip": "Cocktails with panoramic views."
+            "name": "The Lowry Hotel's Sunday Roast",
+            "tip": "If you're here on a Sunday, this is a classic British experience."
+          },
+          {
+            "name": "Hawksmoor Manchester",
+            "tip": "Known for its excellent steaks if you're looking to splurge."
+          },
+          {
+            "name": "Bundobust Piccadilly",
+            "tip": "Indian street food and craft beer, great for a casual dinner."
           }
         ]
       },
@@ -768,74 +965,138 @@
         "de": [
           {
             "name": "Heaton Park",
-            "tip": "Ruhe am See.",
-            "emoji": "🛶"
+            "tip": "Einer der größten Stadtparks Europas, eine kurze Autofahrt vom Zentrum entfernt.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Worsley Village",
+            "tip": "Ein malerisches Dorf mit Fachwerkhäusern und einem orangefarbenen Kanal, ideal für einen ruhigen Nachmittag.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Chorlton Water Park",
+            "tip": "Ein lokales Naturreservat, perfekt für einen Spaziergang am See.",
+            "emoji": "🌅"
           }
         ],
         "hu": [
           {
             "name": "Heaton Park",
-            "tip": "Nyugalom a tónál.",
-            "emoji": "🛶"
+            "tip": "Európa egyik legnagyobb városi parkja, rövid autóútra a központtól.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Worsley Village",
+            "tip": "Festői falu favázas házakkal és narancssárga csatornával, ideális egy csendes délutánra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Chorlton Water Park",
+            "tip": "Helyi természetvédelmi terület, tökéletes egy tavi sétához.",
+            "emoji": "🌅"
           }
         ],
         "ro": [
           {
-            "name": "Heaton Park",
-            "tip": "Liniște lângă lac.",
-            "emoji": "🛶"
+            "name": "Parcul Heaton",
+            "tip": "Unul dintre cele mai mari parcuri municipale din Europa, la o scurtă călătorie cu mașina de centru.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Satul Worsley",
+            "tip": "Un sat pitoresc cu case din lemn și un canal portocaliu, ideal pentru o după-amiază liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul acvatic Chorlton",
+            "tip": "O rezervație naturală locală, perfectă pentru o plimbare pe malul lacului.",
+            "emoji": "🌅"
           }
         ],
         "en": [
           {
             "name": "Heaton Park",
-            "tip": "Peace by the lake.",
-            "emoji": "🛶"
+            "tip": "One of Europe's largest municipal parks, a short drive from the centre.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Worsley Village",
+            "tip": "A picturesque village with black-and-white timbered houses and an orange canal, perfect for a quiet afternoon.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Chorlton Water Park",
+            "tip": "A local nature reserve perfect for a lakeside walk.",
+            "emoji": "🌅"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Trafford Centre",
-            "tip": "Riesiges Shopping-Resort in der Nähe."
+            "name": "The Trafford Centre",
+            "tip": "Ein riesiges Einkaufszentrum mit extravagante Dekoration und einer großen Auswahl an Geschäften."
+          },
+          {
+            "name": "Altrincham Market",
+            "tip": "Ein preisgekrönter Markt mit fantastischem Essen, Trinken und lokalen Produkten."
           }
         ],
         "hu": [
           {
-            "name": "Trafford Centre",
-            "tip": "Hatalmas bevásárlóközpont a közelben."
+            "name": "The Trafford Centre",
+            "tip": "Hatalmas bevásárlóközpont extravagáns díszítéssel és széles üzletválasztékkal."
+          },
+          {
+            "name": "Altrincham Market",
+            "tip": "Díjnyertes piac fantasztikus ételekkel, italokkal és helyi termékekkel."
           }
         ],
         "ro": [
           {
-            "name": "Trafford Centre",
-            "tip": "Resort de cumpărături uriaș în apropiere."
+            "name": "The Trafford Centre",
+            "tip": "Un centru comercial imens, cu decor extravagant și o gamă largă de magazine."
+          },
+          {
+            "name": "Piața Altrincham",
+            "tip": "O piață premiată, cu mâncare, băutură și produse locale fantastice."
           }
         ],
         "en": [
           {
-            "name": "Trafford Centre",
-            "tip": "Huge shopping resort nearby."
+            "name": "The Trafford Centre",
+            "tip": "A huge shopping mall with extravagant decoration and a wide range of stores."
+          },
+          {
+            "name": "Altrincham Market",
+            "tip": "An award-winning market with fantastic food, drink, and local produce."
           }
         ]
       },
       "tips": {
         "de": [
-          "Heaton Park hat mehrere Parkplätze.",
-          "Mitten am Tag kann der Verkehr dicht sein."
+          "Planen Sie Ihre Route, um die Rushhour zu vermeiden.",
+          "Nutzen Sie 'Park and Ride'-Möglichkeiten am Stadtrand.",
+          "Achten Sie auf die 'Clean Air Zone'-Bestimmungen in der Innenstadt.",
+          "Parkgebühren im Zentrum können teuer sein, planen Sie Ihr Budget."
         ],
         "hu": [
-          "A Heaton Parknak több parkolója van.",
-          "A nap közepén nagy lehet a forgalom."
+          "Tervezze meg az útvonalat a csúcsforgalom elkerülése érdekében.",
+          "Használja a város szélén található 'Park and Ride' lehetőségeket.",
+          "Vegye figyelembe a belvárosi 'Tiszta Levegő Zóna' előírásait.",
+          "A központi parkolási díjak drágák lehetnek, tervezze meg a költségvetését."
         ],
         "ro": [
-          "Heaton Park are mai multe parcări.",
-          "Traficul poate fi aglomerat la mijlocul zilei."
+          "Planificați-vă ruta pentru a evita orele de vârf.",
+          "Folosiți opțiunile 'Park and Ride' de la periferia orașului.",
+          "Fiți conștienți de reglementările 'Zonei de Aer Curat' din centrul orașului.",
+          "Taxele de parcare în centru pot fi scumpe, planificați-vă bugetul."
         ],
         "en": [
-          "Heaton Park has several parking areas.",
-          "Traffic can be heavy mid-day."
+          "Plan your route to avoid rush hour.",
+          "Use 'Park and Ride' facilities on the city's outskirts.",
+          "Be aware of the 'Clean Air Zone' regulations in the city centre.",
+          "Parking fees in the centre can be expensive, so budget accordingly."
         ]
       }
     },
@@ -843,276 +1104,355 @@
       "mode": "transit",
       "speed_kmh": 15,
       "start": "09:00",
-      "end_estimate": "17:45",
-      "total_km": 12.5,
-      "stop_count": 7,
+      "end_estimate": "17:55",
+      "total_km": 12.8,
+      "stop_count": 6,
       "stops": [
         {
           "name": {
-            "de": "Etihad Campus Metrolink",
-            "hu": "Etihad Campus megálló",
-            "ro": "Etihad Campus Metrolink",
-            "en": "Etihad Campus Metrolink"
+            "de": "Old Trafford",
+            "hu": "Old Trafford",
+            "ro": "Old Trafford",
+            "en": "Old Trafford"
           },
           "coords": [
-            -2.2005,
-            53.4835
+            -2.2913,
+            53.4631
           ],
-          "category": "recreational",
-          "arrive_at": "09:20",
-          "stay_min": 60,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 2.5,
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
           "tip_5lang": {
-            "de": "Das moderne Stadion-Viertel.",
-            "hu": "A modern stadion-negyed.",
-            "ro": "Cartierul modern al stadionului.",
-            "en": "The modern stadium district."
+            "de": "Nehmen Sie die Metrolink-Straßenbahn bis zur Haltestelle Old Trafford.",
+            "hu": "Utazzon a Metrolink villamossal az Old Trafford megállóig.",
+            "ro": "Luați tramvaiul Metrolink până la stația Old Trafford.",
+            "en": "Take the Metrolink tram to the Old Trafford stop."
           }
         },
         {
           "name": {
-            "de": "Piccadilly Gardens",
-            "hu": "Piccadilly Gardens",
-            "ro": "Piccadilly Gardens",
-            "en": "Piccadilly Gardens"
+            "de": "Albert Square",
+            "hu": "Albert tér",
+            "ro": "Piața Albert",
+            "en": "Albert Square"
           },
           "coords": [
-            -2.2355,
-            53.4815
+            -2.2444,
+            53.4794
           ],
-          "category": "square",
-          "arrive_at": "10:40",
+          "category": "squares/old-town",
+          "arrive_at": "10:55",
           "stay_min": 30,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 2.8,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.5,
+          "hop_mode": "transit",
           "tip_5lang": {
-            "de": "Das Herz des Nahverkehrs.",
-            "hu": "A tömegközlekedés szíve.",
-            "ro": "Inima transportului public.",
-            "en": "The heart of public transit."
+            "de": "Steigen Sie an der St. Peter's Square Haltestelle aus, es ist nur ein kurzer Spaziergang.",
+            "hu": "Szálljon le a St. Peter's Square megállónál, csak egy rövid séta.",
+            "ro": "Coborâți la stația St. Peter's Square, este la o scurtă plimbare.",
+            "en": "Get off at the St. Peter's Square stop, it's a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "John Rylands Bibliothek",
+            "hu": "John Rylands Könyvtár",
+            "ro": "Biblioteca John Rylands",
+            "en": "John Rylands Library"
+          },
+          "coords": [
+            -2.2481,
+            53.4795
+          ],
+          "category": "museums",
+          "arrive_at": "11:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein architektonisches Juwel, versteckt in den Straßen der Innenstadt.",
+            "hu": "Építészeti gyöngyszem a belváros utcáin elrejtve.",
+            "ro": "O bijuterie arhitecturală ascunsă pe străzile din centrul orașului.",
+            "en": "An architectural gem hidden in the city centre streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Manchester",
+            "hu": "Manchesteri katedrális",
+            "ro": "Catedrala din Manchester",
+            "en": "Manchester Cathedral"
+          },
+          "coords": [
+            -2.245,
+            53.485
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die Exchange Square, um hierher zu gelangen.",
+            "hu": "Sétáljon át az Exchange téren, hogy ideérjen.",
+            "ro": "Plimbați-vă prin Piața Exchange pentru a ajunge aici.",
+            "en": "Walk through Exchange Square to get here."
           }
         },
         {
           "name": {
             "de": "Manchester Museum",
-            "hu": "Manchesteri Múzeum",
-            "ro": "Muzeul din Manchester",
+            "hu": "Manchester Múzeum",
+            "ro": "Muzeul Manchester",
             "en": "Manchester Museum"
           },
           "coords": [
-            -2.2345,
-            53.4665
+            -2.233,
+            53.467
           ],
-          "category": "museum",
-          "arrive_at": "11:30",
+          "category": "museums",
+          "arrive_at": "13:55",
           "stay_min": 100,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 2.2,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
           "tip_5lang": {
-            "de": "Großartige Naturkunde-Sammlung.",
-            "hu": "Remek természettudományi gyűjtemény.",
-            "ro": "O colecție grozavă de istorie naturală.",
-            "en": "Great natural history collection."
+            "de": "Viele Busse fahren die Oxford Road entlang, direkt vor dem Museum.",
+            "hu": "Számos busz közlekedik az Oxford Roadon, közvetlenül a múzeum előtt.",
+            "ro": "Multe autobuze circulă pe Oxford Road, chiar în fața muzeului.",
+            "en": "Many buses run down Oxford Road, right outside the museum."
           }
         },
         {
           "name": {
-            "de": "Curry Mile (Rusholme)",
-            "hu": "Curry Mile",
-            "ro": "Curry Mile",
-            "en": "Curry Mile"
+            "de": "The Whitworth",
+            "hu": "The Whitworth",
+            "ro": "The Whitworth",
+            "en": "The Whitworth"
           },
           "coords": [
-            -2.2245,
-            53.4545
+            -2.226,
+            53.458
           ],
-          "category": "gastro",
-          "arrive_at": "13:30",
+          "category": "museums",
+          "arrive_at": "15:53",
           "stay_min": 75,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 1.5,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.2,
+          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Legendäre Konzentration an Curry-Häusern.",
-            "hu": "Curry-házak legendás koncentrációja.",
-            "ro": "Concentrație legendară de restaurante curry.",
-            "en": "Legendary concentration of curry houses."
-          }
-        },
-        {
-          "name": {
-            "de": "Victoria Station",
-            "hu": "Victoria pályaudvar",
-            "ro": "Gara Victoria",
-            "en": "Victoria Station"
-          },
-          "coords": [
-            -2.2425,
-            53.4875
-          ],
-          "category": "civic",
-          "arrive_at": "15:20",
-          "stay_min": 25,
-          "hop_from_prev_min": 35,
-          "hop_from_prev_km": 4.5,
-          "tip_5lang": {
-            "de": "Historische Halle mit modernem Dach.",
-            "hu": "Történelmi csarnok modern tetővel.",
-            "ro": "Hală istorică cu acoperiș modern.",
-            "en": "Historic hall with a modern roof."
-          }
-        },
-        {
-          "name": {
-            "de": "Chetham's Library",
-            "hu": "Chetham's Könyvtár",
-            "ro": "Biblioteca Chetham",
-            "en": "Chetham's Library"
-          },
-          "coords": [
-            -2.2435,
-            53.4865
-          ],
-          "category": "museum",
-          "arrive_at": "15:50",
-          "stay_min": 45,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.1,
-          "tip_5lang": {
-            "de": "Die älteste öffentliche Bibliothek Englands.",
-            "hu": "Anglia legrégebbi nyilvános könyvtára.",
-            "ro": "Cea mai veche bibliotecă publică din Anglia.",
-            "en": "The oldest public library in England."
-          }
-        },
-        {
-          "name": {
-            "de": "Exchange Square",
-            "hu": "Exchange Square",
-            "ro": "Exchange Square",
-            "en": "Exchange Square"
-          },
-          "coords": [
-            -2.2425,
-            53.4845
-          ],
-          "category": "square",
-          "arrive_at": "16:50",
-          "stay_min": 40,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.3,
-          "tip_5lang": {
-            "de": "Lebhafter Platz zum Abschluss.",
-            "hu": "Élénk tér a befejezéshez.",
-            "ro": "Piață plină de viață pentru final.",
-            "en": "Lively square to end the day."
+            "de": "Ein schöner Spaziergang durch den Park oder eine kurze Busfahrt weiter.",
+            "hu": "Egy kellemes séta a parkon keresztül, vagy egy rövid buszozás.",
+            "ro": "O plimbare plăcută prin parc sau o scurtă călătorie cu autobuzul.",
+            "en": "A pleasant walk through the park or one more short bus ride."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Nutzen Sie das Metrolink-Netz, um von den modernen Fußballarenen im Osten zum universitären Süden und der berühmten Curry Mile zu gelangen. Danach geht es zurück ins historische Zentrum zur ältesten Bibliothek der Stadt.",
-        "hu": "Használja a Metrolink hálózatot, hogy a keleti modern futballarénáktól az egyetemi délig és a híres Curry Mile-ig jusson. Ezután térjen vissza a történelmi központba, a város legrégebbi könyvtárához.",
-        "ro": "Utilizați rețeaua Metrolink pentru a ajunge de la arenele moderne de fotbal din est la sudul universitar și faimosul Curry Mile. Apoi reveniți în centrul istoric la cea mai veche bibliotecă din oraș.",
-        "en": "Use the Metrolink network to get from the modern football arenas in the east to the university south and the famous Curry Mile. Then return to the historic center to the city's oldest library."
+        "de": "Mit den öffentlichen Verkehrsmitteln lässt sich Manchester leicht erobern. Starten Sie mit der Straßenbahn zum Old Trafford. Von dort bringt Sie die Tram ins Herz der Stadt, wo Sie Albert Square, John Rylands Library und die Kathedrale zu Fuß erkunden. Am Nachmittag bringt Sie ein Bus entlang der Oxford Road, der 'Museumsmeile', zum Manchester Museum und zur Whitworth Gallery. Eine effiziente und stressfreie Art, die Stadt zu erleben.",
+        "hu": "A tömegközlekedéssel könnyen meghódítható Manchester. Induljon villamossal az Old Traffordhoz. Onnan a villamos a város szívébe viszi, ahol gyalog fedezheti fel az Albert teret, a John Rylands Könyvtárat és a katedrálist. Délután egy busz viszi végig az Oxford Roadon, a 'múzeumi mérföldön', a Manchester Múzeumhoz és a Whitworth Galériához. Hatékony és stresszmentes módja a város felfedezésének.",
+        "ro": "Manchesterul este ușor de cucerit cu transportul public. Începeți cu tramvaiul spre Old Trafford. De acolo, tramvaiul vă duce în inima orașului, unde puteți explora pe jos Piața Albert, Biblioteca John Rylands și catedrala. După-amiaza, un autobuz vă duce de-a lungul Oxford Road, 'Museum Mile', la Muzeul Manchester și Galeria Whitworth. Un mod eficient și fără stres de a experimenta orașul.",
+        "en": "Manchester is easy to conquer with public transport. Start with the tram to Old Trafford. From there, the tram takes you to the heart of the city, where you can explore Albert Square, the John Rylands Library and the cathedral on foot. In the afternoon, a bus takes you down Oxford Road, the 'Museum Mile', to the Manchester Museum and the Whitworth Gallery. An efficient and stress-free way to experience the city."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Mughli Charcoal Pit",
-            "tip": "Beste Grill-Spezialitäten auf der Curry Mile."
+            "name": "Greggs",
+            "tip": "Eine britische Institution für schnelle und günstige Backwaren wie den 'Sausage Roll'."
+          },
+          {
+            "name": "Hatch",
+            "tip": "Ein Pop-up-Bereich mit Street-Food-Containern unter der Mancunian Way-Brücke."
+          },
+          {
+            "name": "The Refuge by Volta",
+            "tip": "Ein atemberaubendes Restaurant in einem alten Versicherungsgebäude, ideal für ein Abendessen nach der Tour."
           }
         ],
         "hu": [
           {
-            "name": "Mughli Charcoal Pit",
-            "tip": "A legjobb grill-specialitások a Curry Mile-on."
+            "name": "Greggs",
+            "tip": "Brit intézmény a gyors és olcsó pékárukért, mint például a 'Sausage Roll'."
+          },
+          {
+            "name": "Hatch",
+            "tip": "Pop-up terület street food konténerekkel a Mancunian Way híd alatt."
+          },
+          {
+            "name": "The Refuge by Volta",
+            "tip": "Lenyűgöző étterem egy régi biztosítóépületben, ideális egy túra utáni vacsorához."
           }
         ],
         "ro": [
           {
-            "name": "Mughli Charcoal Pit",
-            "tip": "Cele mai bune specialități la grătar pe Curry Mile."
+            "name": "Greggs",
+            "tip": "O instituție britanică pentru produse de patiserie rapide și ieftine, cum ar fi 'rulada cu cârnat'."
+          },
+          {
+            "name": "Hatch",
+            "tip": "O zonă pop-up cu containere de mâncare stradală sub podul Mancunian Way."
+          },
+          {
+            "name": "The Refuge by Volta",
+            "tip": "Un restaurant uimitor într-o clădire veche de asigurări, ideal pentru cină după tur."
           }
         ],
         "en": [
           {
-            "name": "Mughli Charcoal Pit",
-            "tip": "Best grill specialties on the Curry Mile."
+            "name": "Greggs",
+            "tip": "A British institution for quick and cheap baked goods like the 'Sausage Roll'."
+          },
+          {
+            "name": "Hatch",
+            "tip": "A pop-up area of street food containers under the Mancunian Way bridge."
+          },
+          {
+            "name": "The Refuge by Volta",
+            "tip": "A stunning restaurant in an old insurance building, great for a post-tour dinner."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Chetham's Courtyard",
-            "tip": "Mittelalterliche Stille.",
-            "emoji": "📖"
+            "name": "St John's Gardens",
+            "tip": "Ein kleiner, friedlicher Park auf dem Gelände einer ehemaligen Kirche.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sackville Gardens",
+            "tip": "Heimat des Alan Turing Memorials, ein Ort zum Nachdenken.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Portico Library",
+            "tip": "Eine historische Abonnementbibliothek mit einer ruhigen Atmosphäre und einer wunderschönen Kuppel.",
+            "emoji": "📚"
           }
         ],
         "hu": [
           {
-            "name": "Chetham's Courtyard",
-            "tip": "Középkori csend.",
-            "emoji": "📖"
+            "name": "St John's Gardens",
+            "tip": "Kicsi, békés park egy egykori templom helyén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sackville Gardens",
+            "tip": "Az Alan Turing emlékmű otthona, egy hely az elgondolkodásra.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Portico Könyvtár",
+            "tip": "Történelmi előfizetéses könyvtár csendes légkörrel és gyönyörű kupolával.",
+            "emoji": "📚"
           }
         ],
         "ro": [
           {
-            "name": "Chetham's Courtyard",
-            "tip": "Liniște medievală.",
-            "emoji": "📖"
+            "name": "Grădinile St John's",
+            "tip": "Un parc mic și liniștit pe locul unei foste biserici.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grădinile Sackville",
+            "tip": "Găzduiește Memorialul Alan Turing, un loc de reflecție.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Biblioteca Portico",
+            "tip": "O bibliotecă istorică pe bază de abonament, cu o atmosferă liniștită și o cupolă frumoasă.",
+            "emoji": "📚"
           }
         ],
         "en": [
           {
-            "name": "Chetham's Courtyard",
-            "tip": "Medieval quiet.",
-            "emoji": "📖"
+            "name": "St John's Gardens",
+            "tip": "A small, peaceful park on the site of a former church.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sackville Gardens",
+            "tip": "Home to the Alan Turing Memorial, a place for reflection.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Portico Library",
+            "tip": "A historic subscription library with a quiet atmosphere and a beautiful dome.",
+            "emoji": "📚"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Arndale Centre",
-            "tip": "Großes Einkaufszentrum im Herzen der Stadt."
+            "name": "Manchester Arndale",
+            "tip": "Ein großes Einkaufszentrum im Herzen der Stadt, leicht mit öffentlichen Verkehrsmitteln zu erreichen."
+          },
+          {
+            "name": "Market Street",
+            "tip": "Die Haupteinkaufsstraße mit vielen bekannten Marken."
           }
         ],
         "hu": [
           {
-            "name": "Arndale Centre",
-            "tip": "Hatalmas bevásárlóközpont a város szívében."
+            "name": "Manchester Arndale",
+            "tip": "Nagy bevásárlóközpont a város szívében, könnyen megközelíthető tömegközlekedéssel."
+          },
+          {
+            "name": "Market Street",
+            "tip": "A fő bevásárlóutca számos ismert márkával."
           }
         ],
         "ro": [
           {
-            "name": "Arndale Centre",
-            "tip": "Centru comercial mare în inima orașului."
+            "name": "Manchester Arndale",
+            "tip": "Un mare centru comercial în inima orașului, ușor accesibil cu transportul public."
+          },
+          {
+            "name": "Market Street",
+            "tip": "Principala stradă comercială cu multe mărci cunoscute."
           }
         ],
         "en": [
           {
-            "name": "Arndale Centre",
-            "tip": "Large shopping mall in the heart of the city."
+            "name": "Manchester Arndale",
+            "tip": "A large shopping centre in the heart of the city, easily accessible by public transport."
+          },
+          {
+            "name": "Market Street",
+            "tip": "The main high street with many well-known brands."
           }
         ]
       },
       "tips": {
         "de": [
-          "Kaufen Sie ein Metrolink Tagesticket.",
-          "Tippen Sie Ihre Karte beim Ein- und Aussteigen."
+          "Kaufen Sie eine Tageskarte ('Day Saver') für unbegrenzte Fahrten.",
+          "Nutzen Sie eine 'Contactless'-Karte oder Ihr Smartphone zum Ein- und Auschecken.",
+          "Die 'Free Bus' verkehrt im Stadtzentrum und verbindet die wichtigsten Bahnhöfe.",
+          "Planen Sie Ihre Reise mit der 'TfGM'-App."
         ],
         "hu": [
-          "Vásároljon Metrolink napijegyet.",
-          "Érintse a kártyáját fel- és leszálláskor."
+          "Vásároljon napijegyet ('Day Saver') a korlátlan utazáshoz.",
+          "Használjon 'Contactless' kártyát vagy okostelefont a be- és kijelentkezéshez.",
+          "Az 'Free Bus' a városközpontban közlekedik, összekötve a főbb állomásokat.",
+          "Tervezze meg utazását a 'TfGM' alkalmazással."
         ],
         "ro": [
-          "Cumpărați un bilet de o zi pentru Metrolink.",
-          "Bifați cardul la urcare și coborâre."
+          "Cumpărați un bilet de o zi ('Day Saver') pentru călătorii nelimitate.",
+          "Folosiți un card 'Contactless' sau smartphone-ul pentru a intra și ieși.",
+          "'Free Bus' operează în centrul orașului, conectând gările principale.",
+          "Planificați-vă călătoria cu aplicația 'TfGM'."
         ],
         "en": [
-          "Buy a Metrolink day ticket.",
-          "Tap in and tap out with your card."
+          "Buy a 'Day Saver' ticket for unlimited travel.",
+          "Use a 'Contactless' card or your smartphone to tap in and out.",
+          "The 'Free Bus' operates around the city centre, connecting the main train stations.",
+          "Plan your journey using the 'TfGM' app."
         ]
       }
     }

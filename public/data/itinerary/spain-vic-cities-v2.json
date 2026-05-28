@@ -1,0 +1,1324 @@
+{
+  "city_id": "spain-vic-cities-v2",
+  "anchor": {
+    "name": "Vic",
+    "coords": [
+      41.9306,
+      2.2547
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaça Major",
+            "hu": "Plaça Major (Főtér)",
+            "ro": "Plaça Major",
+            "en": "Plaça Major (Main Square)"
+          },
+          "coords": [
+            2.2547,
+            41.9306
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Markt am Dienstag oder Samstag, um lokale Produkte zu probieren.",
+            "hu": "Látogass el a keddi vagy szombati piacra, és kóstolj helyi termékeket.",
+            "ro": "Vizitați piața de marți sau sâmbătă pentru a gusta produse locale.",
+            "en": "Visit on a Tuesday or Saturday for the market to taste local produce."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Vic",
+            "hu": "Vici székesegyház",
+            "ro": "Catedrala din Vic",
+            "en": "Vic Cathedral"
+          },
+          "coords": [
+            2.2555,
+            41.9299
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:43",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Wandmalereien von Josep Maria Sert im Inneren.",
+            "hu": "Csodáld meg Josep Maria Sert falfestményeit a katedrális belsejében.",
+            "ro": "Admirați picturile murale interioare realizate de Josep Maria Sert.",
+            "en": "Admire the interior murals painted by Josep Maria Sert."
+          }
+        },
+        {
+          "name": {
+            "de": "Episkopalmuseum von Vic",
+            "hu": "Vici Püspöki Múzeum",
+            "ro": "Muzeul Episcopal din Vic",
+            "en": "Episcopal Museum of Vic"
+          },
+          "coords": [
+            2.256,
+            41.9295
+          ],
+          "category": "museums",
+          "arrive_at": "11:04",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die romanische und gotische Kunst, die zu den besten in Europa zählt.",
+            "hu": "Koncentrálj a román és gótikus művészeti gyűjteményre, Európa egyik legjobbjára.",
+            "ro": "Concentrează-te pe arta romanică și gotică, printre cele mai bune din Europa.",
+            "en": "Focus on the Romanesque and Gothic art collections, among the best in Europe."
+          }
+        },
+        {
+          "name": {
+            "de": "Römischer Tempel",
+            "hu": "Római templom",
+            "ro": "Templul Roman",
+            "en": "Roman Temple"
+          },
+          "coords": [
+            2.255,
+            41.9288
+          ],
+          "category": "historical",
+          "arrive_at": "12:52",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Stellen Sie sich vor, wie dieser fast 2000 Jahre alte Tempel einst das Forum überblickte.",
+            "hu": "Képzeld el, hogy ez a közel 2000 éves templom hogyan uralta egykor a fórumot.",
+            "ro": "Imaginați-vă cum acest templu vechi de aproape 2000 de ani domina odată forumul.",
+            "en": "Imagine how this nearly 2000-year-old temple once overlooked the forum."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Lederkunst",
+            "hu": "Bőrművészeti Múzeum",
+            "ro": "Muzeul de Artă a Pielăriei",
+            "en": "Leather Art Museum"
+          },
+          "coords": [
+            2.253,
+            41.929
+          ],
+          "category": "museums",
+          "arrive_at": "13:25",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Bedeutung der Lederindustrie für die Geschichte der Stadt.",
+            "hu": "Ismerd meg a bőripar jelentőségét a város történelmében.",
+            "ro": "Descoperiți importanța industriei pielăriei în istoria orașului.",
+            "en": "Discover the importance of the leather industry to the city's history."
+          }
+        },
+        {
+          "name": {
+            "de": "Queralt Brücke",
+            "hu": "Queralt-híd",
+            "ro": "Podul Queralt",
+            "en": "Queralt Bridge"
+          },
+          "coords": [
+            2.259,
+            41.927
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:31",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für ein Foto mit dem Fluss Meder und der Altstadt im Hintergrund.",
+            "hu": "Tökéletes hely egy fotóhoz a Meder folyóval és az óvárossal a háttérben.",
+            "ro": "Un loc perfect pentru o fotografie cu râul Meder și orașul vechi în fundal.",
+            "en": "A perfect spot for a photo with the Meder river and the old town behind."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauern von Vic",
+            "hu": "Vici városfalak",
+            "ro": "Zidurile orașului Vic",
+            "en": "Vic City Walls"
+          },
+          "coords": [
+            2.251,
+            41.9315
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:01",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der erhaltenen Abschnitte und genießen Sie die Aussicht auf die Stadt.",
+            "hu": "Sétálj végig a megmaradt szakaszokon, és élvezd a városra nyíló kilátást.",
+            "ro": "Plimbați-vă de-a lungul secțiunilor conservate pentru vederi ale orașului.",
+            "en": "Walk along the preserved sections for views over the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf der belebten Plaça Major, dem Herzen von Vic. Der Vormittag ist der sakralen Kunst gewidmet: Besuchen Sie die beeindruckende Kathedrale und das weltberühmte Episkopalmuseum. Nach dem Mittagessen tauchen Sie in die antike Geschichte beim Römischen Tempel ein und entdecken die Handwerkskunst im Ledermuseum. Am Nachmittag genießen Sie einen malerischen Spaziergang über die Queralt-Brücke und entlang der alten Stadtmauern, um den Tag ausklingen zu lassen.",
+        "hu": "Kezdje a napot Vic nyüzsgő szívében, a Plaça Majoron. A délelőtt a szakrális művészeté: látogassa meg a lenyűgöző katedrálist és a világhírű Püspöki Múzeumot. Ebéd után merüljön el az ókori történelemben a Római templomnál, majd fedezze fel a kézművességet a Bőrművészeti Múzeumban. Délután tegyen egy festői sétát a Queralt-hídon és a régi városfalak mentén, hogy lezárja a napot.",
+        "ro": "Începeți ziua în inima vibrantă a orașului Vic, Plaça Major. Dimineața este dedicată artei sacre: vizitați impresionanta Catedrală și renumitul Muzeu Episcopal. După prânz, pătrundeți în istoria antică la Templul Roman și descoperiți meșteșugurile la Muzeul Pielăriei. După-amiaza, bucurați-vă de o plimbare pitorească peste Podul Queralt și de-a lungul vechilor ziduri ale orașului pentru a încheia ziua.",
+        "en": "Start your day in the vibrant heart of Vic, Plaça Major. The morning is dedicated to sacred art: visit the impressive Cathedral and the world-renowned Episcopal Museum. After lunch, delve into ancient history at the Roman Temple and discover craftsmanship at the Leather Art Museum. In the afternoon, enjoy a scenic walk across the Queralt Bridge and along the old city walls to round off the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Llonganissa de Vic",
+            "tip": "Eine berühmte lokale Wurst, die man auf dem Markt oder in einer Metzgerei probieren muss."
+          },
+          {
+            "name": "El Boccatti",
+            "tip": "Ideal für ein schnelles, leckeres Sandwich zum Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Llonganissa de Vic",
+            "tip": "Híres helyi kolbász, kötelező megkóstolni a piacon vagy egy hentesnél."
+          },
+          {
+            "name": "El Boccatti",
+            "tip": "Ideális egy gyors, ízletes szendvicsre ebédidőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Llonganissa de Vic",
+            "tip": "Un cârnat local renumit, obligatoriu de încercat în piață sau la o măcelărie."
+          },
+          {
+            "name": "El Boccatti",
+            "tip": "Perfect pentru un sandviș rapid și delicios la prânz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Llonganissa de Vic",
+            "tip": "A famous local sausage, a must-try from the market or a butcher shop."
+          },
+          {
+            "name": "El Boccatti",
+            "tip": "Great for a quick, delicious sandwich for lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Fluss Meder",
+            "tip": "Ein ruhiger Weg entlang des Flusses, um dem Trubel der Stadt zu entkommen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirche Sant Felip",
+            "tip": "Eine weniger überlaufene Kirche mit einer friedlichen Atmosphäre.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Meder folyó partján",
+            "tip": "Csendes ösvény a folyó mentén, távol a városi nyüzsgéstől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sant Felip templom",
+            "tip": "Egy kevésbé zsúfolt templom békés légkörrel.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului Meder",
+            "tip": "O potecă liniștită de-a lungul râului pentru a scăpa de agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Biserica Sant Felip",
+            "tip": "O biserică mai puțin aglomerată, cu o atmosferă pașnică.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk by the Meder River",
+            "tip": "A quiet path along the river to escape the city bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Church of Sant Felip",
+            "tip": "A less crowded church with a peaceful atmosphere.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markt an der Plaça Major",
+            "tip": "Kaufen Sie lokale Käsesorten, Würste und Kunsthandwerk."
+          },
+          {
+            "name": "Carrer de la Riera",
+            "tip": "Eine charmante Straße mit kleinen Boutiquen und Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piac a Plaça Major-on",
+            "tip": "Vásárolj helyi sajtokat, kolbászokat és kézműves termékeket."
+          },
+          {
+            "name": "Carrer de la Riera",
+            "tip": "Bájos utca kis butikokkal és üzletekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața din Plaça Major",
+            "tip": "Cumpărați brânzeturi locale, cârnați și produse de artizanat."
+          },
+          {
+            "name": "Carrer de la Riera",
+            "tip": "O stradă fermecătoare cu mici buticuri și magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market at Plaça Major",
+            "tip": "Shop for local cheeses, sausages, and crafts."
+          },
+          {
+            "name": "Carrer de la Riera",
+            "tip": "A charming street with small boutiques and shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das historische Zentrum am besten zu Fuß erkundet wird.",
+          "Viele Geschäfte schließen zur Siesta am Nachmittag, planen Sie entsprechend.",
+          "Halten Sie Ausschau nach den Sgraffito-Dekorationen an vielen Gebäudefassaden."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, a történelmi központot gyalog a legjobb felfedezni.",
+          "Sok üzlet bezár a délutáni szieszta idejére, tervezz ennek megfelelően.",
+          "Figyeld a sgraffito díszítéseket sok épület homlokzatán."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, centrul istoric este cel mai bine explorat pe jos.",
+          "Multe magazine închid pentru siesta de după-amiază, planificați-vă în consecință.",
+          "Fiți atenți la decorațiunile sgraffito de pe multe fațade ale clădirilor."
+        ],
+        "en": [
+          "Wear comfortable shoes as the historic center is best explored on foot.",
+          "Many shops close for the afternoon siesta, so plan accordingly.",
+          "Look out for the sgraffito decorations on many building facades."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 5.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaça Major",
+            "hu": "Plaça Major (Főtér)",
+            "ro": "Plaça Major",
+            "en": "Plaça Major (Main Square)"
+          },
+          "coords": [
+            2.2547,
+            41.9306
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und genießen Sie einen Kaffee in einem der Cafés am Platz.",
+            "hu": "Zárd le a biciklidet, és igyál meg egy kávét a tér egyik kávézójában.",
+            "ro": "Încuie-ți bicicleta și savurează o cafea la una dintre cafenelele din piață.",
+            "en": "Lock up your bike and enjoy a coffee at one of the square's cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Queralt Brücke",
+            "hu": "Queralt-híd",
+            "ro": "Podul Queralt",
+            "en": "Queralt Bridge"
+          },
+          "coords": [
+            2.259,
+            41.927
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:36",
+          "stay_min": 15,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Eine schnelle Radtour vom Zentrum, um die Aussicht auf den Fluss zu genießen.",
+            "hu": "Egy gyors biciklitúra a központból a folyóra nyíló kilátásért.",
+            "ro": "O plimbare rapidă cu bicicleta din centru pentru a admira priveliștea râului.",
+            "en": "A quick bike ride from the center to get a view of the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Römischer Tempel",
+            "hu": "Római templom",
+            "ro": "Templul Roman",
+            "en": "Roman Temple"
+          },
+          "coords": [
+            2.255,
+            41.9288
+          ],
+          "category": "historical",
+          "arrive_at": "09:57",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Der Tempel ist leicht mit dem Fahrrad zu erreichen und ein beeindruckender Anblick.",
+            "hu": "A templom könnyen elérhető biciklivel és lenyűgöző látványt nyújt.",
+            "ro": "Templul este ușor accesibil cu bicicleta și o priveliște impresionantă.",
+            "en": "The temple is easily reached by bike and an impressive sight."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Vic",
+            "hu": "Vici székesegyház",
+            "ro": "Catedrala din Vic",
+            "en": "Vic Cathedral"
+          },
+          "coords": [
+            2.2555,
+            41.9299
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:25",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad in der Nähe und nehmen Sie sich Zeit, das Innere zu erkunden.",
+            "hu": "Parkold le a biciklidet a közelben, és szánj időt a belső terek felfedezésére.",
+            "ro": "Parcați bicicleta în apropiere și acordați-vă timp pentru a explora interiorul.",
+            "en": "Park your bike nearby and take time to explore the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Episkopalmuseum von Vic",
+            "hu": "Vici Püspöki Múzeum",
+            "ro": "Muzeul Episcopal din Vic",
+            "en": "Episcopal Museum of Vic"
+          },
+          "coords": [
+            2.256,
+            41.9295
+          ],
+          "category": "museums",
+          "arrive_at": "11:27",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein Muss für Kunstliebhaber; planen Sie genügend Zeit ein.",
+            "hu": "Kötelező a művészetkedvelőknek; tervezz be elég időt.",
+            "ro": "O vizită obligatorie pentru iubitorii de artă; alocați suficient timp.",
+            "en": "A must-visit for art lovers; plan for enough time."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Sant Felip",
+            "hu": "Sant Felip templom",
+            "ro": "Biserica Sant Felip",
+            "en": "Church of Sant Felip"
+          },
+          "coords": [
+            2.2575,
+            41.932
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:03",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Eine schöne barocke Kirche, die eine kurze Radtour vom Zentrum entfernt liegt.",
+            "hu": "Egy gyönyörű barokk templom, rövid bicikliútra a központtól.",
+            "ro": "O frumoasă biserică barocă, la o scurtă plimbare cu bicicleta de centru.",
+            "en": "A beautiful baroque church a short bike ride from the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauern von Vic",
+            "hu": "Vici városfalak",
+            "ro": "Zidurile orașului Vic",
+            "en": "Vic City Walls"
+          },
+          "coords": [
+            2.251,
+            41.9315
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:39",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Radle entlang der Mauern für eine andere Perspektive auf die Stadt.",
+            "hu": "Biciklizz a falak mentén a város egy másik perspektívájáért.",
+            "ro": "Pedalați de-a lungul zidurilor pentru o perspectivă diferită asupra orașului.",
+            "en": "Cycle alongside the walls for a different perspective on the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Lederkunst",
+            "hu": "Bőrművészeti Múzeum",
+            "ro": "Muzeul de Artă a Pielăriei",
+            "en": "Leather Art Museum"
+          },
+          "coords": [
+            2.253,
+            41.929
+          ],
+          "category": "museums",
+          "arrive_at": "14:23",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein interessanter Halt, um mehr über die lokale Geschichte zu erfahren.",
+            "hu": "Érdekes megálló, hogy többet megtudj a helyi történelemről.",
+            "ro": "O oprire interesantă pentru a învăța despre istoria locală.",
+            "en": "An interesting stop to learn about local history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Vic auf zwei Rädern. Beginnen Sie auf der Plaça Major, radeln Sie dann zur Queralt-Brücke für eine tolle Aussicht. Vormittags erkunden Sie das historische Herz mit dem Römischen Tempel, der Kathedrale und dem Episkopalmuseum. Nach einer Mittagspause führt Sie die Tour zur barocken Kirche Sant Felip, entlang der alten Stadtmauern und schließt mit einem Besuch im Ledermuseum ab, bevor Sie zum Zentrum zurückkehren.",
+        "hu": "Fedezd fel Vicet két keréken! Indulj a Plaça Majorról, majd tekerj el a Queralt-hídhoz a remek kilátásért. Délelőtt fedezd fel a történelmi központot a Római templommal, a katedrálissal és a Püspöki Múzeummal. Ebédszünet után az út a barokk Sant Felip templomhoz vezet, majd a régi városfalak mentén halad, és a Bőrművészeti Múzeumban tett látogatással zárul, mielőtt visszatérnél a központba.",
+        "ro": "Explorați Vic pe două roți. Începeți din Plaça Major, apoi pedalați până la Podul Queralt pentru o priveliște minunată. Dimineața explorați inima istorică cu Templul Roman, Catedrala și Muzeul Episcopal. După o pauză de prânz, turul vă duce la biserica barocă Sant Felip, de-a lungul vechilor ziduri ale orașului și se încheie cu o vizită la Muzeul Pielăriei înainte de a vă întoarce în centru.",
+        "en": "Explore Vic on two wheels. Start at Plaça Major, then cycle to the Queralt Bridge for a great view. The morning is for exploring the historic heart with the Roman Temple, Cathedral, and Episcopal Museum. After a lunch break, the tour takes you to the baroque Church of Sant Felip, along the old city walls, and concludes with a visit to the Leather Art Museum before heading back to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Coca de Forner",
+            "tip": "Ein lokales Fladenbrot, perfekt als Snack für unterwegs."
+          },
+          {
+            "name": "La Vermuteria de Vic",
+            "tip": "Ein großartiger Ort für einen Wermut und Tapas nach der Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Coca de Forner",
+            "tip": "Helyi lepénykenyér, tökéletes útközbeni harapnivaló."
+          },
+          {
+            "name": "La Vermuteria de Vic",
+            "tip": "Nagyszerű hely egy vermutra és tapasra a biciklizés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Coca de Forner",
+            "tip": "O pâine plată locală, perfectă pentru o gustare pe drum."
+          },
+          {
+            "name": "La Vermuteria de Vic",
+            "tip": "Un loc minunat pentru un vermut și tapas după plimbarea cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Coca de Forner",
+            "tip": "A local flatbread, perfect for a snack on the go."
+          },
+          {
+            "name": "La Vermuteria de Vic",
+            "tip": "A great spot for a vermouth and tapas after your ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc Jaume Balmes",
+            "tip": "Ein schattiger Park, ideal für eine kurze Pause vom Radfahren.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Flusses Gurri",
+            "tip": "Folgen Sie dem Fluss für eine ruhige und landschaftlich reizvolle Fahrt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jaume Balmes Park",
+            "tip": "Árnyékos park, ideális egy rövid pihenőre a biciklizés közben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Gurri folyó partja",
+            "tip": "Kövesd a folyót egy csendes és festői útvonalért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Jaume Balmes",
+            "tip": "Un parc umbros perfect pentru o scurtă pauză de la pedalat.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malurile râului Gurri",
+            "tip": "Urmați râul pentru o plimbare liniștită și pitorească.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jaume Balmes Park",
+            "tip": "A shady park perfect for a short break from cycling.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the Gurri River",
+            "tip": "Follow the river for a quiet and scenic ride.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Wenn Sie an einem Markttag dort sind, ist es ein großartiger Ort, um lokale Lebensmittel zu kaufen."
+          },
+          {
+            "name": "Art Vic",
+            "tip": "Eine Galerie und ein Geschäft, das Werke lokaler Künstler verkauft."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Ha piacnapon jársz ott, remek hely a helyi élelmiszerek beszerzésére."
+          },
+          {
+            "name": "Art Vic",
+            "tip": "Galéria és üzlet, amely helyi művészek alkotásait árulja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Dacă sunteți acolo într-o zi de piață, este un loc minunat pentru a cumpăra alimente locale."
+          },
+          {
+            "name": "Art Vic",
+            "tip": "O galerie și un magazin care vinde lucrări ale artiștilor locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "If you're there on a market day, it's a great place to buy local food."
+          },
+          {
+            "name": "Art Vic",
+            "tip": "A gallery and shop selling works by local artists."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Vic ist relativ flach, aber einige Straßen im Zentrum haben Kopfsteinpflaster.",
+          "Nehmen Sie ein gutes Schloss mit, um Ihr Fahrrad sicher abzustellen, während Sie Sehenswürdigkeiten besichtigen.",
+          "Achten Sie auf Fußgänger in den engen Gassen der Altstadt."
+        ],
+        "hu": [
+          "Vic viszonylag sík, de a központ néhány utcája macskaköves.",
+          "Vigyél magaddal egy jó lakatot, hogy biztonságosan lezárhasd a biciklidet a látnivalók megtekintése közben.",
+          "Vigyázz a gyalogosokra az óváros szűk utcáin."
+        ],
+        "ro": [
+          "Vic este relativ plat, dar unele străzi din centru sunt pavate cu piatră cubică.",
+          "Aduceți un lacăt bun pentru a vă asigura bicicleta în timp ce vizitați obiectivele turistice.",
+          "Fiți atenți la pietoni pe străzile înguste din orașul vechi."
+        ],
+        "en": [
+          "Vic is relatively flat, but some streets in the center are cobblestoned.",
+          "Bring a good lock to secure your bike while you explore sights.",
+          "Be mindful of pedestrians in the narrow streets of the old town."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:39",
+      "total_km": 5.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Stadtrand",
+            "hu": "Parkoló a város szélén",
+            "ro": "Parcare la marginea orașului",
+            "en": "Parking on the outskirts"
+          },
+          "coords": [
+            2.2505,
+            41.933
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier und gehen Sie ins Zentrum, um Parkprobleme zu vermeiden.",
+            "hu": "Parkolj le itt, és sétálj be a központba, hogy elkerüld a parkolási nehézségeket.",
+            "ro": "Parcați aici și mergeți pe jos în centru pentru a evita problemele de parcare.",
+            "en": "Park here and walk into the center to avoid parking hassles."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauern von Vic",
+            "hu": "Vici városfalak",
+            "ro": "Zidurile orașului Vic",
+            "en": "Vic City Walls"
+          },
+          "coords": [
+            2.251,
+            41.9315
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Erkundungstour an den Mauern, Ihrem ersten Halt im ersten Cluster.",
+            "hu": "Kezdd a felfedezést a falaknál, az első megállódnál az első klaszterben.",
+            "ro": "Începeți explorarea de la ziduri, prima oprire din primul cluster.",
+            "en": "Start your exploration at the walls, your first stop in the first cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaça Major",
+            "hu": "Plaça Major (Főtér)",
+            "ro": "Plaça Major",
+            "en": "Plaça Major (Main Square)"
+          },
+          "coords": [
+            2.2547,
+            41.9306
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:05",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der Spaziergang von den Mauern zum Platz ist kurz und angenehm.",
+            "hu": "A séta a falaktól a térig rövid és kellemes.",
+            "ro": "Plimbarea de la ziduri la piață este scurtă și plăcută.",
+            "en": "The walk from the walls to the square is short and pleasant."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentraler historischer Cluster",
+            "hu": "Központi történelmi klaszter",
+            "ro": "Clusterul istoric central",
+            "en": "Central Historic Cluster"
+          },
+          "coords": [
+            2.258,
+            41.928
+          ],
+          "category": "transport",
+          "arrive_at": "10:45",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zu einem Parkplatz in der Nähe des Flusses, um den zweiten Cluster zu erkunden.",
+            "hu": "Vezess el egy parkolóhoz a folyó közelében, hogy felfedezd a második klasztert.",
+            "ro": "Conduceți spre o parcare de lângă râu pentru a explora al doilea cluster.",
+            "en": "Drive to a parking area near the river to explore the second cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale & Episkopalmuseum",
+            "hu": "Székesegyház és Püspöki Múzeum",
+            "ro": "Catedrala și Muzeul Episcopal",
+            "en": "Cathedral & Episcopal Museum"
+          },
+          "coords": [
+            2.2558,
+            41.9297
+          ],
+          "category": "museums",
+          "arrive_at": "10:55",
+          "stay_min": 180,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Planen Sie viel Zeit für diese beiden wichtigen Sehenswürdigkeiten ein.",
+            "hu": "Tervezz sok időt erre a két fontos látnivalóra.",
+            "ro": "Alocați mult timp pentru aceste două atracții majore.",
+            "en": "Plan plenty of time for these two major attractions."
+          }
+        },
+        {
+          "name": {
+            "de": "Queralt Brücke & Römischer Tempel",
+            "hu": "Queralt-híd és Római templom",
+            "ro": "Podul Queralt și Templul Roman",
+            "en": "Queralt Bridge & Roman Temple"
+          },
+          "coords": [
+            2.257,
+            41.9279
+          ],
+          "category": "historical",
+          "arrive_at": "14:00",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit einem Spaziergang zu diesen beiden nahe gelegenen Orten.",
+            "hu": "Fejezd be a napot egy sétával ehhez a két közeli helyhez.",
+            "ro": "Încheiați ziua cu o plimbare la aceste două situri din apropiere.",
+            "en": "Finish your day with a walk to these two nearby sites."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Auto strategisch. Parken Sie am Stadtrand und erkunden Sie den ersten Cluster zu Fuß: die Stadtmauern und die Plaça Major. Fahren Sie dann zu einem Parkplatz in der Nähe des Flusses für den zweiten Cluster. Hier widmen Sie den Großteil des Tages der Kathedrale und dem Episkopalmuseum. Schließen Sie den Tag mit einem entspannten Spaziergang zur Queralt-Brücke und zum Römischen Tempel ab, bevor Sie zum Auto zurückkehren.",
+        "hu": "Használd stratégikusan az autót. Parkolj a város szélén, és fedezd fel gyalog az első klasztert: a városfalakat és a Plaça Majort. Ezután vezess a folyó melletti parkolóba a második klaszterhez. Itt szenteld a nap nagy részét a katedrálisnak és a Püspöki Múzeumnak. Zárd a napot egy laza sétával a Queralt-hídhoz és a Római templomhoz, mielőtt visszatérnél az autóhoz.",
+        "ro": "Folosiți mașina strategic. Parcați la periferie și explorați primul cluster pe jos: zidurile orașului și Plaça Major. Apoi, conduceți către o parcare de lângă râu pentru al doilea cluster. Aici, dedicați cea mai mare parte a zilei Catedralei și Muzeului Episcopal. Încheiați ziua cu o plimbare relaxantă la Podul Queralt și Templul Roman înainte de a vă întoarce la mașină.",
+        "en": "Use the car strategically. Park on the outskirts and explore the first cluster on foot: the city walls and Plaça Major. Then, drive to a parking area near the river for the second cluster. Here, dedicate the bulk of your day to the Cathedral and the Episcopal Museum. End your day with a relaxed walk to the Queralt Bridge and the Roman Temple before heading back to the car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ca l'U",
+            "tip": "Ein renommiertes Restaurant, das traditionelle katalanische Küche mit modernen Einflüssen serviert."
+          },
+          {
+            "name": "Forn de pa Cal Mossèn",
+            "tip": "Eine Bäckerei, in der Sie lokale Spezialitäten für ein Picknick kaufen können."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ca l'U",
+            "tip": "Elismert étterem, amely hagyományos katalán ételeket szolgál fel modern csavarral."
+          },
+          {
+            "name": "Forn de pa Cal Mossèn",
+            "tip": "Pékség, ahol helyi specialitásokat vásárolhatsz egy piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ca l'U",
+            "tip": "Un restaurant renumit care servește bucătărie tradițională catalană cu influențe moderne."
+          },
+          {
+            "name": "Forn de pa Cal Mossèn",
+            "tip": "O brutărie de unde puteți cumpăra specialități locale pentru un picnic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ca l'U",
+            "tip": "A renowned restaurant serving traditional Catalan cuisine with a modern twist."
+          },
+          {
+            "name": "Forn de pa Cal Mossèn",
+            "tip": "A bakery where you can buy local specialties for a picnic."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mirador de la Creu de Gurb",
+            "tip": "Eine kurze Autofahrt von Vic entfernt für eine atemberaubende Aussicht auf die Ebene.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gärten des Bischofspalastes",
+            "tip": "Ein ruhiger Ort neben dem Museum, um sich auszuruhen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mirador de la Creu de Gurb",
+            "tip": "Rövid autóútra Victől a síkságra nyíló lélegzetelállító kilátásért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Püspöki Palota kertjei",
+            "tip": "Csendes hely a múzeum mellett a pihenésre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mirador de la Creu de Gurb",
+            "tip": "La o scurtă distanță cu mașina de Vic pentru vederi uimitoare ale câmpiei.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile Palatului Episcopal",
+            "tip": "Un loc liniștit lângă muzeu pentru a vă odihni.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mirador de la Creu de Gurb",
+            "tip": "A short drive from Vic for stunning views of the plain.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gardens of the Episcopal Palace",
+            "tip": "A quiet spot next to the museum to rest.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Feinkostläden (Xarcuteries)",
+            "tip": "Kaufen Sie die berühmte Llonganissa de Vic direkt von den Herstellern."
+          },
+          {
+            "name": "Antiquitätenläden",
+            "tip": "Stöbern Sie in den kleinen Gassen nach einzigartigen Funden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi csemegeboltok (Xarcuteries)",
+            "tip": "Vásárold meg a híres Llonganissa de Vic-et közvetlenül a termelőktől."
+          },
+          {
+            "name": "Antikváriumok",
+            "tip": "Böngéssz az egyedi leletekért a szűk utcácskákban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Delicatese locale (Xarcuteries)",
+            "tip": "Cumpărați faimoasa Llonganissa de Vic direct de la producători."
+          },
+          {
+            "name": "Magazine de antichități",
+            "tip": "Căutați descoperiri unice pe străduțele mici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local delicatessens (Xarcuteries)",
+            "tip": "Buy the famous Llonganissa de Vic directly from the producers."
+          },
+          {
+            "name": "Antique Shops",
+            "tip": "Browse the small alleys for unique finds."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Zentrum kann schwierig und teuer sein; nutzen Sie Parkplätze am Stadtrand.",
+          "Planen Sie Ihre Cluster im Voraus, um unnötiges Fahren zu vermeiden.",
+          "Achten Sie auf Einbahnstraßen im historischen Zentrum."
+        ],
+        "hu": [
+          "A központban a parkolás nehézkes és drága lehet; használj a város szélén lévő parkolókat.",
+          "Tervezd meg előre a klasztereket, hogy elkerüld a felesleges autózást.",
+          "Vigyázz az egyirányú utcákra a történelmi központban."
+        ],
+        "ro": [
+          "Parcarea în centru poate fi dificilă și scumpă; folosiți parcările de la periferie.",
+          "Planificați-vă clusterele în avans pentru a evita condusul inutil.",
+          "Fiți atenți la străzile cu sens unic din centrul istoric."
+        ],
+        "en": [
+          "Parking in the center can be difficult and expensive; use car parks on the outskirts.",
+          "Plan your clusters in advance to avoid unnecessary driving.",
+          "Be aware of one-way streets in the historic center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 3.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Vic",
+            "hu": "Vic vasútállomás",
+            "ro": "Gara Vic",
+            "en": "Vic Train Station"
+          },
+          "coords": [
+            2.2618,
+            41.9255
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier, einem wichtigen Verkehrsknotenpunkt.",
+            "hu": "Kezdd a napot itt, egy fontos közlekedési csomópontban.",
+            "ro": "Începeți ziua aici, un nod important de transport.",
+            "en": "Start your day here, a major transport hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Historischer Kern (Cluster 1)",
+            "hu": "Történelmi központ (1. klaszter)",
+            "ro": "Centrul istoric (Cluster 1)",
+            "en": "Historic Core (Cluster 1)"
+          },
+          "coords": [
+            2.256,
+            41.9295
+          ],
+          "category": "transport",
+          "arrive_at": "09:25",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Rand der Altstadt, um Ihren Rundgang zu beginnen.",
+            "hu": "Menj busszal az óváros szélére, hogy elkezdhesd a gyalogtúrát.",
+            "ro": "Luați un autobuz până la marginea orașului vechi pentru a începe turul pietonal.",
+            "en": "Take a bus to the edge of the old town to start your walking tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale & Episkopalmuseum",
+            "hu": "Székesegyház és Püspöki Múzeum",
+            "ro": "Catedrala și Muzeul Episcopal",
+            "en": "Cathedral & Episcopal Museum"
+          },
+          "coords": [
+            2.2558,
+            41.9297
+          ],
+          "category": "museums",
+          "arrive_at": "09:30",
+          "stay_min": 180,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zwei Hauptattraktionen, die bequem zu Fuß erreichbar sind.",
+            "hu": "Két fő látnivaló, kényelmesen elérhető gyalog.",
+            "ro": "Două atracții principale la mică distanță de mers pe jos una de cealaltă.",
+            "en": "Two main attractions within easy walking distance of each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaça Major & Römischer Tempel",
+            "hu": "Plaça Major és Római templom",
+            "ro": "Plaça Major și Templul Roman",
+            "en": "Plaça Major & Roman Temple"
+          },
+          "coords": [
+            2.2548,
+            41.9297
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:35",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Machen Sie eine Mittagspause und erkunden Sie diese beiden ikonischen Orte.",
+            "hu": "Tarts ebédszünetet, és fedezd fel ezt a két ikonikus helyet.",
+            "ro": "Luați o pauză de prânz și explorați aceste două situri iconice.",
+            "en": "Take a lunch break and explore these two iconic sites."
+          }
+        },
+        {
+          "name": {
+            "de": "Flussufer (Cluster 2)",
+            "hu": "Folyópart (2. klaszter)",
+            "ro": "Malul râului (Cluster 2)",
+            "en": "Riverfront (Cluster 2)"
+          },
+          "coords": [
+            2.259,
+            41.927
+          ],
+          "category": "transport",
+          "arrive_at": "13:50",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein weiterer kurzer Bus-Trip bringt Sie in die Nähe der Queralt-Brücke.",
+            "hu": "Egy újabb rövid buszút elvisz a Queralt-híd közelébe.",
+            "ro": "O altă călătorie scurtă cu autobuzul vă aduce aproape de Podul Queralt.",
+            "en": "Another short bus ride brings you near the Queralt Bridge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vic lässt sich gut mit öffentlichen Verkehrsmitteln erkunden. Nehmen Sie vom Bahnhof aus einen Bus zum historischen Kern. Widmen Sie den Vormittag dem ersten Cluster: der beeindruckenden Kathedrale und dem Episkopalmuseum, gefolgt von der Plaça Major und dem Römischen Tempel. Nach dem Mittagessen bringt Sie ein weiterer Bus zum zweiten Cluster am Fluss, wo Sie über die Queralt-Brücke spazieren und den Nachmittag entspannt ausklingen lassen können.",
+        "hu": "Vic könnyen felfedezhető tömegközlekedéssel. A vasútállomásról menj busszal a történelmi központba. A délelőttöt szenteld az első klaszternek: a lenyűgöző katedrálisnak és a Püspöki Múzeumnak, majd a Plaça Majornak és a Római templomnak. Ebéd után egy másik busz elvisz a második, folyóparti klaszterhez, ahol átsétálhatsz a Queralt-hídon, és lazán zárhatod a délutánt.",
+        "ro": "Vic este ușor de explorat cu transportul public. De la gară, luați un autobuz spre centrul istoric. Dedicați dimineața primului cluster: impresionanta Catedrală și Muzeul Episcopal, urmate de Plaça Major și Templul Roman. După prânz, un alt autobuz vă va duce la al doilea cluster de lângă râu, unde vă puteți plimba peste Podul Queralt și încheia după-amiaza într-un mod relaxat.",
+        "en": "Vic is easy to explore using public transport. From the train station, take a bus to the historic core. Dedicate the morning to the first cluster: the impressive Cathedral and Episcopal Museum, followed by Plaça Major and the Roman Temple. After lunch, another bus will take you to the second cluster by the river, where you can stroll across the Queralt Bridge and end the afternoon in a relaxed way."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Diví Vic",
+            "tip": "Ein modernes Restaurant, das für seine kreativen Tapas und sein Mittagsmenü bekannt ist."
+          },
+          {
+            "name": "Pastisseria Fusté",
+            "tip": "Probieren Sie die \"Pa de pessic\", einen traditionellen Biskuitkuchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Diví Vic",
+            "tip": "Modern étterem, amely kreatív tapasairól és ebédmenüjéről ismert."
+          },
+          {
+            "name": "Pastisseria Fusté",
+            "tip": "Kóstold meg a \"Pa de pessic\"-et, egy hagyományos piskótát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Diví Vic",
+            "tip": "Un restaurant modern cunoscut pentru tapasurile sale creative și meniul de prânz."
+          },
+          {
+            "name": "Pastisseria Fusté",
+            "tip": "Încercați \"Pa de pessic\", un pandișpan tradițional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Diví Vic",
+            "tip": "A modern restaurant known for its creative tapas and lunch menu."
+          },
+          {
+            "name": "Pastisseria Fusté",
+            "tip": "Try the 'Pa de pessic', a traditional sponge cake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Biblioteca Joan Triadú",
+            "tip": "Die öffentliche Bibliothek ist ein ruhiger, moderner Raum, um eine Pause einzulegen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Passeig de la Generalitat",
+            "tip": "Eine von Bäumen gesäumte Allee für einen ruhigen Spaziergang.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Biblioteca Joan Triadú",
+            "tip": "A közkönyvtár egy csendes, modern tér a pihenésre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Passeig de la Generalitat",
+            "tip": "Fákkal szegélyezett sétány egy csendes sétához.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biblioteca Joan Triadú",
+            "tip": "Biblioteca publică este un spațiu liniștit și modern pentru a lua o pauză.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Passeig de la Generalitat",
+            "tip": "O alee mărginită de copaci pentru o plimbare liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Biblioteca Joan Triadú",
+            "tip": "The public library is a quiet, modern space to take a break.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Passeig de la Generalitat",
+            "tip": "A tree-lined avenue for a peaceful walk.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercat Municipal",
+            "tip": "Ein überdachter Markt, auf dem Einheimische ihre täglichen Einkäufe erledigen."
+          },
+          {
+            "name": "Buchhandlungen",
+            "tip": "Vic ist eine Universitätsstadt mit mehreren ausgezeichneten Buchhandlungen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercat Municipal",
+            "tip": "Fedett piac, ahol a helyiek a napi bevásárlást intézik."
+          },
+          {
+            "name": "Könyvesboltok",
+            "tip": "Vic egyetemi város, több kiváló könyvesbolttal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercat Municipal",
+            "tip": "O piață acoperită unde localnicii își fac cumpărăturile zilnice."
+          },
+          {
+            "name": "Librării",
+            "tip": "Vic este un oraș universitar cu mai multe librării excelente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercat Municipal",
+            "tip": "A covered market where locals do their daily shopping."
+          },
+          {
+            "name": "Bookstores",
+            "tip": "Vic is a university city with several excellent bookstores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine T-10-Karte für mehrere Fahrten, wenn Sie vorhaben, den Bus mehrmals zu benutzen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere am Wochenende.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind nach der Ankunft mit dem Bus leicht zu Fuß erreichbar."
+        ],
+        "hu": [
+          "Vásárolj egy T-10-es kártyát több utazáshoz, ha többször is tervezed használni a buszt.",
+          "Ellenőrizd előre a buszmenetrendet, különösen hétvégén.",
+          "A legtöbb központi látnivaló könnyen elérhető gyalog a busszal való érkezés után."
+        ],
+        "ro": [
+          "Cumpărați un card T-10 pentru călătorii multiple dacă intenționați să folosiți autobuzul de mai multe ori.",
+          "Verificați programul autobuzelor în avans, în special în weekend.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos odată ce ajungeți cu autobuzul."
+        ],
+        "en": [
+          "Buy a T-10 card for multiple journeys if you plan to use the bus several times.",
+          "Check the bus schedule in advance, especially on weekends.",
+          "Most central sights are easily walkable once you arrive by bus."
+        ]
+      }
+    }
+  }
+}

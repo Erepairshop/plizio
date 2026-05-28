@@ -1,0 +1,1400 @@
+{
+  "city_id": "bosniaherzegovina-visoko-cities-v2",
+  "anchor": {
+    "name": "Visoko",
+    "coords": [
+      18.1781,
+      43.9889
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Brücke über die Fojnica",
+            "hu": "Híd a Fojnica folyón",
+            "ro": "Podul peste râul Fojnica",
+            "en": "Bridge over the Fojnica River"
+          },
+          "coords": [
+            18.1765,
+            43.9872
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier für eine tolle Morgenstimmung am Fluss.",
+            "hu": "Kezdje a napot itt a folyóparti reggeli hangulatért.",
+            "ro": "Începeți-vă ziua aici pentru o atmosferă matinală grozavă lângă râu.",
+            "en": "Start your day here for a great morning vibe by the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Tabhana-Moschee",
+            "hu": "Tabhana-mecset",
+            "ro": "Moscheea Tabhana",
+            "en": "Tabhana Mosque"
+          },
+          "coords": [
+            18.178,
+            43.9895
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie die traditionelle osmanische Architektur und die ruhige Atmosphäre im Inneren.",
+            "hu": "Figyelje meg a hagyományos oszmán építészetet és a belső csendes légkört.",
+            "ro": "Observați arhitectura otomană tradițională și atmosfera liniștită din interior.",
+            "en": "Note the traditional Ottoman architecture and the quiet atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum Visoko",
+            "hu": "Visokói Helytörténeti Múzeum",
+            "ro": "Muzeul Local Visoko",
+            "en": "Visoko Native Museum"
+          },
+          "coords": [
+            18.1795,
+            43.991
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die lokale Geschichte, einschließlich der mittelalterlichen bosnischen Königreich-Artefakte.",
+            "hu": "Merüljön el a helyi történelemben, beleértve a középkori bosnyák királyság tárgyait.",
+            "ro": "Pătrundeți în istoria locală, inclusiv artefacte din regatul bosniac medieval.",
+            "en": "Dive into the local history, including artifacts from the medieval Bosnian kingdom."
+          }
+        },
+        {
+          "name": {
+            "de": "Weiße Moschee (Šerefudin)",
+            "hu": "Fehér Mecset (Šerefudin)",
+            "ro": "Moscheea Albă (Šerefudin)",
+            "en": "White Mosque (Šerefudin)"
+          },
+          "coords": [
+            18.181,
+            43.9905
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Meisterwerk moderner islamischer Architektur. Der Kontrast zur Altstadt ist beeindruckend.",
+            "hu": "A modern iszlám építészet remekműve. A kontraszt az óvárossal lenyűgöző.",
+            "ro": "O capodoperă a arhitecturii islamice moderne. Contrastul cu orașul vechi este izbitor.",
+            "en": "A masterpiece of modern Islamic architecture. The contrast with the old town is striking."
+          }
+        },
+        {
+          "name": {
+            "de": "Franziskanerkloster St. Bonaventura",
+            "hu": "Szent Bonaventura Ferences Kolostor",
+            "ro": "Mănăstirea Franciscană Sf. Bonaventura",
+            "en": "Franciscan Monastery of St. Bonaventure"
+          },
+          "coords": [
+            18.175,
+            43.992
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besuchen Sie die Bibliothek, die wertvolle Manuskripte und Bücher aus der bosnischen Geschichte beherbergt.",
+            "hu": "Látogassa meg a könyvtárat, amely értékes kéziratokat és könyveket őriz Bosznia történelméből.",
+            "ro": "Vizitați biblioteca, care adăpostește manuscrise și cărți valoroase din istoria bosniacă.",
+            "en": "Visit the library, which holds valuable manuscripts and books from Bosnian history."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt Visoki",
+            "hu": "Visoki óvárosa",
+            "ro": "Orașul Vechi Visoki",
+            "en": "Old Town Visoki"
+          },
+          "coords": [
+            18.176,
+            43.996
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:00",
+          "stay_min": 105,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Aufstieg ist steil, aber die Aussicht über das Tal der bosnischen Pyramiden ist es wert.",
+            "hu": "Meredek a kaptató, de a kilátás a bosnyák piramisok völgyére megéri.",
+            "ro": "Urcușul este abrupt, dar priveliștea asupra văii piramidelor bosniace merită efortul.",
+            "en": "The climb is steep, but the view over the valley of the Bosnian pyramids is worth it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Visoko beginnt an der malerischen Fojnica-Brücke und führt Sie durch das historische Herz der Stadt. Am Morgen erkunden Sie die osmanische Architektur der Tabhana-Moschee. Der Mittag ist der Kultur gewidmet, mit einem tiefen Einblick in das Heimatmuseum und einem Besuch der preisgekrönten Weißen Moschee. Am Nachmittag tauchen Sie im Franziskanerkloster in die gelehrte Vergangenheit ein, bevor Sie den Tag mit dem Aufstieg zur mittelalterlichen Festung Visoki und einem Panoramablick auf das Tal beenden.",
+        "hu": "Visokói napja a festői Fojnica-hídnál kezdődik, és végigvezeti a város történelmi szívén. Délelőtt a Tabhana-mecset oszmán építészetét fedezi fel. A dél a kultúráé, mély betekintést nyerhet a Helytörténeti Múzeumba és meglátogathatja a díjnyertes Fehér Mecsetet. Délután a Ferences Kolostorban merül el a tudós múltban, mielőtt a napot a középkori Visoki erődhöz való feljutással és a völgyre nyíló panorámával zárja.",
+        "ro": "Ziua dvs. în Visoko începe la pitorescul pod Fojnica, ducându-vă prin inima istorică a orașului. Dimineața explorați arhitectura otomană a Moscheii Tabhana. Prânzul este dedicat culturii, cu o incursiune profundă la Muzeul Local și o vizită la premiata Moschee Albă. După-amiaza, pătrundeți în trecutul erudit la Mănăstirea Franciscană, înainte de a încheia ziua cu urcarea la cetatea medievală Visoki și o vedere panoramică a văii.",
+        "en": "Your day in Visoko starts at the scenic Fojnica bridge, taking you through the historic heart of the city. In the morning, you'll explore the Ottoman architecture of the Tabhana Mosque. Midday is for culture, with a deep dive into the Native Museum and a visit to the award-winning White Mosque. In the afternoon, delve into the scholarly past at the Franciscan Monastery before ending the day with a climb to the medieval Visoki fortress for a panoramic valley view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ćevapi",
+            "tip": "Probieren Sie die lokale Version dieses bosnischen Klassikers, oft in einem 'somun'-Fladenbrot serviert."
+          },
+          {
+            "name": "Burek",
+            "tip": "Ein herzhaftes Gebäck, gefüllt mit Fleisch, Käse oder Spinat, perfekt für einen schnellen Happen."
+          },
+          {
+            "name": "Begova Čorba",
+            "tip": "Eine reichhaltige Hühner- und Gemüsesuppe, die als 'Bey's Suppe' bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ćevapi",
+            "tip": "Kóstolja meg ennek a bosnyák klasszikusnak a helyi változatát, gyakran 'somun' lepénykenyérben tálalva."
+          },
+          {
+            "name": "Burek",
+            "tip": "Hússal, sajttal vagy spenóttal töltött kiadós pékáru, tökéletes egy gyors falatra."
+          },
+          {
+            "name": "Begova Čorba",
+            "tip": "Gazdag csirke- és zöldségleves, amelyet 'Bég leveseként' ismernek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ćevapi",
+            "tip": "Încercați versiunea locală a acestui clasic bosniac, adesea servit într-o pâine plată 'somun'."
+          },
+          {
+            "name": "Burek",
+            "tip": "O plăcintă sărată umplută cu carne, brânză sau spanac, perfectă pentru o gustare rapidă."
+          },
+          {
+            "name": "Begova Čorba",
+            "tip": "O supă bogată de pui și legume cunoscută sub numele de 'Supa Beiului'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ćevapi",
+            "tip": "Try the local version of this Bosnian classic, often served in a 'somun' flatbread."
+          },
+          {
+            "name": "Burek",
+            "tip": "A savory pastry filled with meat, cheese, or spinach, perfect for a quick bite."
+          },
+          {
+            "name": "Begova Čorba",
+            "tip": "A rich chicken and vegetable soup known as 'Bey's Soup'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfel der Altstadt Visoki",
+            "tip": "Nach dem Aufstieg finden Sie einen ruhigen Platz, um die Aussicht zu genießen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Klostergarten",
+            "tip": "Der Innenhof des Franziskanerklosters ist eine Oase der Ruhe.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Visoki óváros csúcsa",
+            "tip": "A mászás után keressen egy csendes helyet, ahonnan élvezheti a kilátást.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kolostorkert",
+            "tip": "A Ferences Kolostor udvara a nyugalom oázisa.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Orașului Vechi Visoki",
+            "tip": "După urcare, găsiți un loc liniștit pentru a vă bucura de priveliște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina mănăstirii",
+            "tip": "Curtea Mănăstirii Franciscane este o oază de pace.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Top of Old Town Visoki",
+            "tip": "After the climb, find a quiet spot to soak in the views.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Monastery Garden",
+            "tip": "The courtyard of the Franciscan Monastery is an oasis of peace.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach handgefertigtem Kupferschmuck und traditioneller Keramik."
+          },
+          {
+            "name": "Pyramiden-Souvenirs",
+            "tip": "In der Nähe der Sehenswürdigkeiten finden Sie Stände, die thematische Souvenirs verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen kézzel készített réz ékszereket és hagyományos kerámiákat."
+          },
+          {
+            "name": "Piramis szuvenírek",
+            "tip": "A látnivalók közelében tematikus ajándéktárgyakat árusító standokat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați bijuterii din cupru lucrate manual și ceramică tradițională."
+          },
+          {
+            "name": "Suveniruri cu piramide",
+            "tip": "Lângă situri, veți găsi tarabe care vând suveniruri tematice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for handcrafted copper jewelry and traditional pottery."
+          },
+          {
+            "name": "Pyramid Souvenirs",
+            "tip": "Near the sites, you'll find stalls selling themed souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit; es gibt öffentliche Brunnen.",
+          "Seien Sie respektvoll, wenn Sie Moscheen besuchen; kleiden Sie sich bescheiden.",
+          "Der Aufstieg zur Festung ist anstrengend, planen Sie entsprechend Zeit und Energie ein."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros macskakövei egyenetlenek lehetnek.",
+          "Hozzon magával újratölthető vizes palackot; vannak nyilvános kutak.",
+          "Legyen tisztelettudó a mecsetek látogatásakor; öltözzön szerényen.",
+          "Az erődhöz való feljutás megerőltető, tervezzen időt és energiát ennek megfelelően."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pietruirea din orașul vechi poate fi denivelată.",
+          "Luați o sticlă de apă reutilizabilă; există fântâni publice.",
+          "Fiți respectuos când vizitați moscheile; îmbrăcați-vă modest.",
+          "Urcarea la cetate este solicitantă, planificați-vă timpul și energia în consecință."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Bring a reusable water bottle; there are public fountains.",
+          "Be respectful when visiting mosques; dress modestly.",
+          "The climb to the fortress is strenuous, so plan your time and energy accordingly."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 7.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zbilje-See",
+            "hu": "Zbilje-tó",
+            "ro": "Lacul Zbilje",
+            "en": "Zbilje Lake"
+          },
+          "coords": [
+            18.15,
+            44.005
+          ],
+          "category": "lake",
+          "arrive_at": "09:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine entspannte Fahrt zum See, um den Tag friedlich zu beginnen.",
+            "hu": "Egy pihentető tekerés a tóhoz, hogy békésen kezdődjön a nap.",
+            "ro": "O plimbare relaxantă cu bicicleta până la lac pentru a începe ziua în liniște.",
+            "en": "A relaxing ride to the lake to start the day peacefully."
+          }
+        },
+        {
+          "name": {
+            "de": "Franziskanerkloster St. Bonaventura",
+            "hu": "Szent Bonaventura Ferences Kolostor",
+            "ro": "Mănăstirea Franciscană Sf. Bonaventura",
+            "en": "Franciscan Monastery of St. Bonaventure"
+          },
+          "coords": [
+            18.175,
+            43.992
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie die historischen Sammlungen erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt felfedezné a történelmi gyűjteményeket.",
+            "ro": "Asigurați-vă bicicleta înainte de a explora colecțiile istorice.",
+            "en": "Lock your bike securely before exploring the historical collections."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum Visoko",
+            "hu": "Visokói Helytörténeti Múzeum",
+            "ro": "Muzeul Local Visoko",
+            "en": "Visoko Native Museum"
+          },
+          "coords": [
+            18.1795,
+            43.991
+          ],
+          "category": "museums",
+          "arrive_at": "11:51",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine kurze Radtour vom Kloster zum Herzen der Stadtgeschichte.",
+            "hu": "Egy rövid biciklizés a kolostortól a város történelmének szívébe.",
+            "ro": "O scurtă plimbare cu bicicleta de la mănăstire la inima istoriei orașului.",
+            "en": "A short bike ride from the monastery to the heart of the town's history."
+          }
+        },
+        {
+          "name": {
+            "de": "Weiße Moschee (Šerefudin)",
+            "hu": "Fehér Mecset (Šerefudin)",
+            "ro": "Moscheea Albă (Šerefudin)",
+            "en": "White Mosque (Šerefudin)"
+          },
+          "coords": [
+            18.181,
+            43.9905
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:24",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur, ein starker Kontrast zu den älteren Gebäuden.",
+            "hu": "Csodálja meg a modern építészetet, amely erős kontrasztban áll a régebbi épületekkel.",
+            "ro": "Admirați arhitectura modernă, un contrast puternic cu clădirile mai vechi.",
+            "en": "Admire the modern architecture, a stark contrast to the older buildings."
+          }
+        },
+        {
+          "name": {
+            "de": "Tabhana-Moschee",
+            "hu": "Tabhana-mecset",
+            "ro": "Moscheea Tabhana",
+            "en": "Tabhana Mosque"
+          },
+          "coords": [
+            18.178,
+            43.9895
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:12",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine kleine, aber historisch bedeutende Moschee im alten Handwerkerviertel.",
+            "hu": "Egy kicsi, de történelmileg jelentős mecset a régi kézműves negyedben.",
+            "ro": "O moschee mică, dar semnificativă din punct de vedere istoric, în vechiul cartier al meșteșugarilor.",
+            "en": "A small but historically significant mosque in the old craftsmen's quarter."
+          }
+        },
+        {
+          "name": {
+            "de": "Fuß der Altstadt Visoki",
+            "hu": "Visoki óváros lába",
+            "ro": "Poalele Orașului Vechi Visoki",
+            "en": "Base of Old Town Visoki"
+          },
+          "coords": [
+            18.176,
+            43.996
+          ],
+          "category": "viewpoint",
+          "arrive_at": "14:48",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad hier ab und machen Sie den Aufstieg zu Fuß für die beste Aussicht.",
+            "hu": "Hagyja itt a kerékpárját, és tegye meg a mászást gyalog a legjobb kilátásért.",
+            "ro": "Lăsați-vă bicicleta aici și faceți urcarea pe jos pentru cea mai bună priveliște.",
+            "en": "Park your bike here and make the final ascent on foot for the best views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag mit einer erfrischenden Fahrt zum Zbilje-See. Von dort aus radeln Sie zurück ins Zentrum, um das Franziskanerkloster und seine reiche Geschichte zu erkunden. Zur Mittagszeit tauchen Sie im Heimatmuseum in die lokale Kultur ein und bewundern die moderne Architektur der Weißen Moschee. Der Nachmittag führt Sie zur historischen Tabhana-Moschee, bevor Sie Ihr Fahrrad am Fuße der Altstadt Visoki abstellen, um zu Fuß den Gipfel zu erklimmen und die Aussicht zu genießen.",
+        "hu": "Kezdje a biciklis napot egy frissítő tekeréssel a Zbilje-tóhoz. Onnan tekerjen vissza a központba, hogy felfedezze a Ferences Kolostort és gazdag történelmét. Délidőben merüljön el a helyi kultúrában a Helytörténeti Múzeumban, és csodálja meg a Fehér Mecset modern építészetét. A délután a történelmi Tabhana-mecsethez vezet, mielőtt leteszi a kerékpárt Visoki óvárosának lábánál, hogy gyalog másszon fel a csúcsra a kilátásért.",
+        "ro": "Începeți-vă ziua pe bicicletă cu o plimbare revigorantă la Lacul Zbilje. De acolo, pedalați înapoi în centru pentru a explora Mănăstirea Franciscană și istoria sa bogată. La prânz, pătrundeți în cultura locală la Muzeul Local și admirați arhitectura modernă a Moscheii Albe. După-amiaza vă duce la istorica Moschee Tabhana, înainte de a lăsa bicicleta la poalele Orașului Vechi Visoki pentru a urca pe jos spre vârf pentru priveliști.",
+        "en": "Start your cycling day with a refreshing ride to Zbilje Lake. From there, pedal back into the center to explore the Franciscan Monastery and its rich history. At midday, immerse yourself in local culture at the Native Museum and admire the modern architecture of the White Mosque. The afternoon takes you to the historic Tabhana Mosque before parking your bike at the base of Old Town Visoki to make the final climb on foot for the views."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pita",
+            "tip": "Ähnlich wie Burek, aber mit verschiedenen Füllungen wie Kartoffeln oder Kürbis."
+          },
+          {
+            "name": "Frischer Fisch",
+            "tip": "Einige Restaurants in der Nähe des Zbilje-Sees bieten frischen Süßwasserfisch an."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Fragen Sie nach einem lokalen Gebräu, um sich nach Ihrer Radtour zu erfrischen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pita",
+            "tip": "Hasonló a burekhez, de különböző töltelékekkel, mint például burgonya vagy tök."
+          },
+          {
+            "name": "Friss hal",
+            "tip": "Néhány étterem a Zbilje-tó közelében friss édesvízi halat kínál."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Kérjen egy helyi főzetet, hogy felfrissüljön a kerékpártúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pita",
+            "tip": "Similar cu burek, dar cu diverse umpluturi precum cartofi sau dovleac."
+          },
+          {
+            "name": "Pește proaspăt",
+            "tip": "Unele restaurante de lângă Lacul Zbilje oferă pește proaspăt de apă dulce."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "Cereți o bere locală pentru a vă reîmprospăta după turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pita",
+            "tip": "Similar to burek, but with different fillings like potato or pumpkin."
+          },
+          {
+            "name": "Fresh Fish",
+            "tip": "Some restaurants near Zbilje Lake might offer fresh lake fish."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Ask for a local brew to refresh yourself after your bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Zbilje-Sees",
+            "tip": "Ein perfekter Ort für einen ruhigen Start in den Tag.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Blick von der Altstadt Visoki",
+            "tip": "Die Anstrengung des Aufstiegs wird mit einer friedlichen Panoramaaussicht belohnt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zbilje-tó partja",
+            "tip": "Tökéletes hely a nap csendes kezdéséhez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás Visoki óvárosából",
+            "tip": "A mászás fáradalmait egy békés panoráma látványa jutalmazza.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Zbilje",
+            "tip": "Un loc perfect pentru un început liniștit de zi.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere din Orașul Vechi Visoki",
+            "tip": "Efortul urcării este răsplătit cu o vedere panoramică pașnică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shores of Zbilje Lake",
+            "tip": "A perfect spot for a quiet start to your day.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from Old Town Visoki",
+            "tip": "The effort of the climb is rewarded with a peaceful panoramic view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handwerkerläden",
+            "tip": "Entdecken Sie kleine Werkstätten, die traditionelle bosnische Waren verkaufen."
+          },
+          {
+            "name": "Lokaler Honig",
+            "tip": "Suchen Sie nach Honig von lokalen Produzenten auf dem Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves boltok",
+            "tip": "Fedezzen fel kis műhelyeket, amelyek hagyományos bosnyák árukat árulnak."
+          },
+          {
+            "name": "Helyi méz",
+            "tip": "Keressen helyi termelőktől származó mézet a piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Descoperiți mici ateliere care vând produse tradiționale bosniace."
+          },
+          {
+            "name": "Miere locală",
+            "tip": "Căutați miere de la producătorii locali la piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Artisan Shops",
+            "tip": "Discover small workshops selling traditional Bosnian goods."
+          },
+          {
+            "name": "Local Honey",
+            "tip": "Look for honey from local producers at the market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck, bevor Sie losfahren.",
+          "Einige Straßen in Visoko können steil sein, seien Sie also auf Steigungen vorbereitet.",
+          "Schließen Sie Ihr Fahrrad immer an einem sicheren Ort ab.",
+          "Nehmen Sie Wasser und Snacks mit, besonders für die Fahrt zum See."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Néhány utca Visokóban meredek lehet, így készüljön fel az emelkedőkre.",
+          "Mindig zárja le a kerékpárját biztonságos helyen.",
+          "Vigyen magával vizet és harapnivalókat, különösen a tóhoz vezető útra."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de a porni.",
+          "Unele străzi din Visoko pot fi abrupte, așa că fiți pregătiți pentru urcușuri.",
+          "Întotdeauna încuiați-vă bicicleta într-un loc sigur.",
+          "Luați apă și gustări, mai ales pentru plimbarea la lac."
+        ],
+        "en": [
+          "Check your tire pressure before heading out.",
+          "Some streets in Visoko can be steep, so be prepared for climbs.",
+          "Always lock your bike in a secure location.",
+          "Bring water and snacks, especially for the ride to the lake."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Ravne-Tunnel",
+            "hu": "Ravne-alagút parkoló",
+            "ro": "Parcare Tunelul Ravne",
+            "en": "Ravne Tunnel Parking"
+          },
+          "coords": [
+            18.175,
+            44.008
+          ],
+          "category": "parking",
+          "arrive_at": "09:16",
+          "stay_min": 10,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihr Abenteuer bei den mysteriösen Tunneln. Parken Sie hier für den ersten Cluster.",
+            "hu": "Kezdje a kalandot a rejtélyes alagutaknál. Parkoljon itt az első fürthöz.",
+            "ro": "Începeți-vă aventura la tunelurile misterioase. Parcați aici pentru primul grup de atracții.",
+            "en": "Start your adventure at the mysterious tunnels. Park here for the first cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Ravne-Tunnel",
+            "hu": "Ravne-alagút",
+            "ro": "Tunelul Ravne",
+            "en": "Ravne Tunnel"
+          },
+          "coords": [
+            18.176,
+            44.007
+          ],
+          "category": "natural features",
+          "arrive_at": "09:29",
+          "stay_min": 120,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil, um die Theorien über dieses prähistorische unterirdische Labyrinth zu hören.",
+            "hu": "Vegyen részt egy vezetett túrán, hogy hallja az elméleteket erről az őskori föld alatti labirintusról.",
+            "ro": "Participați la un tur ghidat pentru a auzi teoriile despre acest labirint subteran preistoric.",
+            "en": "Join a guided tour to hear the theories about this prehistoric underground labyrinth."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Stadtzentrum",
+            "hu": "Városközponti parkoló",
+            "ro": "Parcare Centru Oraș",
+            "en": "City Center Parking"
+          },
+          "coords": [
+            18.179,
+            43.99
+          ],
+          "category": "parking",
+          "arrive_at": "11:39",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier, um den historischen Kern von Visoko zu Fuß zu erkunden.",
+            "hu": "Parkoljon itt, hogy gyalog fedezze fel Visoko történelmi magját.",
+            "ro": "Parcați aici pentru a explora nucleul istoric al orașului Visoko pe jos.",
+            "en": "Park here to explore the historical core of Visoko on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum Visoko",
+            "hu": "Visokói Helytörténeti Múzeum",
+            "ro": "Muzeul Local Visoko",
+            "en": "Visoko Native Museum"
+          },
+          "coords": [
+            18.1795,
+            43.991
+          ],
+          "category": "museums",
+          "arrive_at": "11:48",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz entfernt, entdecken Sie die reiche Geschichte der Region.",
+            "hu": "Egy rövid séta a parkolótól, fedezze fel a régió gazdag történelmét.",
+            "ro": "La o scurtă plimbare de parcare, descoperiți istoria bogată a regiunii.",
+            "en": "A short walk from the parking lot, discover the rich history of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Weiße Moschee (Šerefudin)",
+            "hu": "Fehér Mecset (Šerefudin)",
+            "ro": "Moscheea Albă (Šerefudin)",
+            "en": "White Mosque (Šerefudin)"
+          },
+          "coords": [
+            18.181,
+            43.9905
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Museum aus leicht zu Fuß erreichbar, ein architektonisches Juwel.",
+            "hu": "Könnyen megközelíthető gyalog a múzeumtól, egy építészeti gyöngyszem.",
+            "ro": "Ușor de ajuns pe jos de la muzeu, o bijuterie arhitecturală.",
+            "en": "Easily walkable from the museum, an architectural gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt Visoki",
+            "hu": "Visoki óvárosa",
+            "ro": "Orașul Vechi Visoki",
+            "en": "Old Town Visoki"
+          },
+          "coords": [
+            18.176,
+            43.996
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Fuß des Hügels und bereiten Sie sich auf einen Spaziergang zur mittelalterlichen Festung vor.",
+            "hu": "Vezessen a hegy lábához, és készüljön fel egy sétára a középkori erődhöz.",
+            "ro": "Conduceți până la poalele dealului și pregătiți-vă pentru o plimbare până la cetatea medievală.",
+            "en": "Drive to the base of the hill and prepare for a walk up to the medieval fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Zbilje-See",
+            "hu": "Zbilje-tó",
+            "ro": "Lacul Zbilje",
+            "en": "Zbilje Lake"
+          },
+          "coords": [
+            18.15,
+            44.005
+          ],
+          "category": "lake",
+          "arrive_at": "16:03",
+          "stay_min": 82,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit einer entspannenden Fahrt zum See, perfekt für einen Spaziergang am späten Nachmittag.",
+            "hu": "Zárja a napot egy pihentető autózással a tóhoz, tökéletes egy késő délutáni sétához.",
+            "ro": "Încheiați-vă ziua cu o plimbare relaxantă cu mașina până la lac, perfectă pentru o plimbare la sfârșitul după-amiezii.",
+            "en": "End your day with a relaxing drive to the lake, perfect for a late afternoon walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt mit einer geheimnisvollen Note am Ravne-Tunnel-Komplex. Nach der Erkundung des unterirdischen Labyrinths fahren Sie ins Herz von Visoko. Am Mittag tauchen Sie im Heimatmuseum und in der architektonisch beeindruckenden Weißen Moschee in die lokale Kultur ein, die Sie beide von einem zentralen Parkplatz aus zu Fuß erreichen. Am Nachmittag fahren Sie zur Basis der mittelalterlichen Festung Visoki für einen historischen Aufstieg und eine atemberaubende Aussicht, bevor Sie den Tag entspannt am ruhigen Zbilje-See ausklingen lassen.",
+        "hu": "Autós napja egy rejtélyes felütéssel kezdődik a Ravne-alagút komplexumnál. A föld alatti labirintus felfedezése után Visoko szívébe hajt. Délidőben a Helytörténeti Múzeumban és az építészetileg lenyűgöző Fehér Mecsetben merül el a helyi kultúrában, mindkettőt egy központi parkolóból gyalogosan elérve. Délután a középkori Visoki erőd lábához hajt egy történelmi mászásért és lélegzetelállító kilátásért, mielőtt a napot a nyugodt Zbilje-tónál pihenve zárja.",
+        "ro": "Ziua dvs. cu mașina începe cu o notă de mister la complexul Tunelului Ravne. După explorarea labirintului subteran, conduceți spre inima orașului Visoko. La prânz, pătrundeți în cultura locală la Muzeul Local și la impresionanta Moschee Albă din punct de vedere arhitectural, ambele accesibile pe jos dintr-o parcare centrală. După-amiaza, conduceți la baza cetății medievale Visoki pentru o urcare istorică și vederi uimitoare, înainte de a încheia ziua relaxându-vă la liniștitul Lac Zbilje.",
+        "en": "Your car day begins with a touch of mystery at the Ravne Tunnel complex. After exploring the underground labyrinth, you'll drive into the heart of Visoko. Midday is for soaking up local culture at the Native Museum and the architecturally stunning White Mosque, both explored on foot from a central parking spot. In the afternoon, drive to the base of the medieval Visoki fortress for a historic climb and amazing views, before winding down with a relaxing visit to the serene Zbilje Lake."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bosanski Lonac",
+            "tip": "Ein traditioneller Fleischeintopf, der stundenlang gekocht wird. Suchen Sie nach Restaurants, die 'tradicionalna kuhinja' anbieten."
+          },
+          {
+            "name": "Kadaif",
+            "tip": "Ein süßes, sirupartiges Gebäck, das oft mit Nüssen gefüllt ist, für ein köstliches Dessert."
+          },
+          {
+            "name": "Hausgemachter Käse",
+            "tip": "Auf dem Weg zum Zbilje-See finden Sie möglicherweise Stände, die lokalen Käse verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bosanski Lonac",
+            "tip": "Hagyományos, órákig főzött húsos egytálétel. Keressen 'tradicionalna kuhinja' éttermeket."
+          },
+          {
+            "name": "Kadaif",
+            "tip": "Édes, szirupos sütemény, gyakran dióval töltve, egy finom desszerthez."
+          },
+          {
+            "name": "Házi sajt",
+            "tip": "A Zbilje-tó felé vezető úton helyi sajtot árusító standokat találhat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bosanski Lonac",
+            "tip": "O tocană tradițională de carne gătită ore în șir. Căutați restaurante care oferă 'tradicionalna kuhinja'."
+          },
+          {
+            "name": "Kadaif",
+            "tip": "O prăjitură dulce, însiropată, adesea umplută cu nuci, pentru un desert delicios."
+          },
+          {
+            "name": "Brânză de casă",
+            "tip": "Pe drumul spre Lacul Zbilje, s-ar putea să găsiți tarabe care vând brânză locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bosanski Lonac",
+            "tip": "A traditional meat stew slow-cooked for hours. Look for restaurants offering 'tradicionalna kuhinja'."
+          },
+          {
+            "name": "Kadaif",
+            "tip": "A sweet, syrupy pastry often filled with nuts for a delicious dessert."
+          },
+          {
+            "name": "Homemade Cheese",
+            "tip": "On the way to Zbilje lake, you might find stalls selling local cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Zbilje-See",
+            "tip": "Der See ist eine friedliche Flucht aus der Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Archäologischer Park Ravne 2",
+            "tip": "Neben den Tunneln gibt es einen ruhigen Park mit Installationen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Gipfel der Festung Visoki",
+            "tip": "Ein atemberaubender und ruhiger Ort, um über die Geschichte nachzudenken.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zbilje-tó",
+            "tip": "A tó békés menekülést kínál a városból.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ravne 2 Régészeti Park",
+            "tip": "Az alagutak mellett egy csendes park található installációkkal.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Visoki erőd csúcsa",
+            "tip": "Lélegzetelállító és csendes hely a történelem elmélkedésére.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Zbilje",
+            "tip": "Lacul este o evadare pașnică din oraș.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Arheologic Ravne 2",
+            "tip": "Lângă tuneluri se află un parc liniștit cu instalații.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vârful Cetății Visoki",
+            "tip": "Un loc uimitor și liniștit pentru a contempla istoria.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Zbilje Lake",
+            "tip": "The lake is a peaceful escape from the town.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ravne 2 Archaeological Park",
+            "tip": "Next to the tunnels, there is a serene park with installations.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Summit of Visoki Fortress",
+            "tip": "A stunning and quiet place to reflect on history.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kupferwaren",
+            "tip": "Visoko ist bekannt für seine 'džezva' (Kaffeekannen) und andere Kupferarbeiten."
+          },
+          {
+            "name": "Pyramiden-Energie-Steine",
+            "tip": "Im Ravne-Komplex finden Sie Stände, die speziell behandelte Steine verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rézáruk",
+            "tip": "Visoko híres a 'džezva' (kávéskannák) és más rézműves termékeiről."
+          },
+          {
+            "name": "Piramis energia kövek",
+            "tip": "A Ravne komplexumban speciálisan kezelt köveket árusító standokat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Articole din cupru",
+            "tip": "Visoko este renumit pentru 'džezva' (ibric de cafea) și alte obiecte din cupru."
+          },
+          {
+            "name": "Pietre energetice piramidale",
+            "tip": "La complexul Ravne, veți găsi tarabe care vând pietre tratate special."
+          }
+        ],
+        "en": [
+          {
+            "name": "Copperware",
+            "tip": "Visoko is famous for its 'džezva' (coffee pots) and other copper crafts."
+          },
+          {
+            "name": "Pyramid 'Energy' Stones",
+            "tip": "At the Ravne complex, you'll find stalls selling specially treated stones."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen zu den abgelegenen Orten können eng sein, fahren Sie also vorsichtig.",
+          "Parken im Stadtzentrum kann begrenzt sein, planen Sie also voraus.",
+          "Ein GPS oder eine Navigations-App ist unerlässlich, um zwischen den Standorten zu navigieren.",
+          "Überprüfen Sie die Öffnungszeiten des Ravne-Tunnels im Voraus, da diese variieren können."
+        ],
+        "hu": [
+          "Az eldugottabb helyekre vezető utak szűkek lehetnek, ezért vezessen óvatosan.",
+          "A parkolás a városközpontban korlátozott lehet, ezért tervezzen előre.",
+          "GPS vagy navigációs alkalmazás elengedhetetlen a helyszínek közötti navigáláshoz.",
+          "Előre ellenőrizze a Ravne-alagút nyitvatartási idejét, mivel az változhat."
+        ],
+        "ro": [
+          "Drumurile către locațiile mai îndepărtate pot fi înguste, așa că șofați cu prudență.",
+          "Parcarea în centrul orașului poate fi limitată, așa că planificați din timp.",
+          "Un GPS sau o aplicație de navigație este esențială pentru a naviga între site-uri.",
+          "Verificați orele de funcționare ale Tunelului Ravne în avans, deoarece acestea pot varia."
+        ],
+        "en": [
+          "Roads to the outlying sites can be narrow, so drive with care.",
+          "Parking in the city center can be limited, so plan ahead.",
+          "A GPS or navigation app is essential for navigating between sites.",
+          "Check the opening hours for the Ravne Tunnel in advance as they can vary."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentrale Bushaltestelle Visoko",
+            "hu": "Visoko központi buszmegálló",
+            "ro": "Stația centrală de autobuz Visoko",
+            "en": "Visoko Central Bus Stop"
+          },
+          "coords": [
+            18.182,
+            43.988
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier, im Herzen des Nahverkehrsnetzes der Stadt.",
+            "hu": "Kezdje a napot itt, a város tömegközlekedési hálózatának szívében.",
+            "ro": "Începeți-vă ziua aici, în inima rețelei de transport public a orașului.",
+            "en": "Start your day here, at the heart of the town's public transport network."
+          }
+        },
+        {
+          "name": {
+            "de": "Weiße Moschee (Šerefudin)",
+            "hu": "Fehér Mecset (Šerefudin)",
+            "ro": "Moscheea Albă (Šerefudin)",
+            "en": "White Mosque (Šerefudin)"
+          },
+          "coords": [
+            18.181,
+            43.9905
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Bushaltestelle zu diesem modernen Wahrzeichen.",
+            "hu": "Egy rövid séta a buszmegállótól ehhez a modern nevezetességhez.",
+            "ro": "O scurtă plimbare de la stația de autobuz la acest punct de reper modern.",
+            "en": "A short walk from the bus stop to this modern landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum Visoko",
+            "hu": "Visokói Helytörténeti Múzeum",
+            "ro": "Muzeul Local Visoko",
+            "en": "Visoko Native Museum"
+          },
+          "coords": [
+            18.1795,
+            43.991
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie vom Museum zur Moschee, um mehr über die Vergangenheit der Stadt zu erfahren.",
+            "hu": "Sétáljon el a múzeumtól a mecsetig, hogy többet tudjon meg a város múltjáról.",
+            "ro": "Plimbați-vă de la muzeu la moschee pentru a afla despre trecutul orașului.",
+            "en": "Stroll from the mosque to the museum to learn about the town's past."
+          }
+        },
+        {
+          "name": {
+            "de": "Franziskanerkloster St. Bonaventura",
+            "hu": "Szent Bonaventura Ferences Kolostor",
+            "ro": "Mănăstirea Franciscană Sf. Bonaventura",
+            "en": "Franciscan Monastery of St. Bonaventure"
+          },
+          "coords": [
+            18.175,
+            43.992
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dieser Spaziergang führt Sie durch einen charmanten Teil der Stadt.",
+            "hu": "Ez a séta a város egy bájos részén vezet keresztül.",
+            "ro": "Această plimbare vă duce printr-o parte fermecătoare a orașului.",
+            "en": "This walk takes you through a charming part of town."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle Ravne",
+            "hu": "Ravne buszmegálló",
+            "ro": "Stația de autobuz Ravne",
+            "en": "Ravne Bus Stop"
+          },
+          "coords": [
+            18.174,
+            44.006
+          ],
+          "category": "transport",
+          "arrive_at": "13:20",
+          "stay_min": 5,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus in Richtung Ravne. Erkundigen Sie sich nach den Fahrplänen.",
+            "hu": "Vegyen egy helyi buszt Ravne felé. Érdeklődjön a menetrendről.",
+            "ro": "Luați un autobuz local spre Ravne. Întrebați despre orare.",
+            "en": "Take a local bus towards Ravne. Ask around for schedules."
+          }
+        },
+        {
+          "name": {
+            "de": "Ravne-Tunnel",
+            "hu": "Ravne-alagút",
+            "ro": "Tunelul Ravne",
+            "en": "Ravne Tunnel"
+          },
+          "coords": [
+            18.176,
+            44.007
+          ],
+          "category": "natural features",
+          "arrive_at": "13:35",
+          "stay_min": 155,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Bushaltestelle zum Eingang des Tunnelkomplexes.",
+            "hu": "Egy rövid séta a buszmegállótól az alagút komplexum bejáratáig.",
+            "ro": "O scurtă plimbare de la stația de autobuz la intrarea în complexul de tuneluri.",
+            "en": "A short walk from the bus stop to the entrance of the tunnel complex."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an der zentralen Bushaltestelle von Visoko und machen Sie einen Spaziergang, um die moderne Weiße Moschee und das aufschlussreiche Heimatmuseum zu entdecken. Nach einem gemütlichen Spaziergang zum Franziskanerkloster nehmen Sie am Nachmittag einen lokalen Bus zum berühmten Ravne-Tunnel-Komplex. Hier verbringen Sie den Rest des Tages damit, die Geheimnisse des unterirdischen Labyrinths zu erkunden, bevor Sie mit dem Bus ins Stadtzentrum zurückkehren.",
+        "hu": "Kezdje a napot Visoko központi buszmegállójánál, és tegyen egy sétát a modern Fehér Mecset és a tanulságos Helytörténeti Múzeum felfedezésére. Egy kellemes séta után a Ferences Kolostorhoz, délután egy helyi busszal utazik a híres Ravne-alagút komplexumhoz. Itt tölti a nap hátralévő részét a föld alatti labirintus rejtélyeinek felfedezésével, mielőtt busszal visszatér a városközpontba.",
+        "ro": "Începeți ziua la stația centrală de autobuz din Visoko și faceți o plimbare pentru a descoperi Moscheea Albă modernă și interesantul Muzeu Local. După o plimbare lejeră până la Mănăstirea Franciscană, după-amiaza luați un autobuz local spre faimosul complex al Tunelului Ravne. Aici veți petrece restul zilei explorând misterele labirintului subteran înainte de a vă întoarce în centrul orașului cu autobuzul.",
+        "en": "Start your day at Visoko's central bus station and take a walking cluster to discover the modern White Mosque and the insightful Native Museum. After a leisurely stroll to the Franciscan Monastery, your afternoon involves taking a local bus to the famous Ravne Tunnel complex. Here you'll spend the remainder of your day exploring the mysteries of the underground labyrinth before catching a bus back to the town center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pekara (Bäckerei)",
+            "tip": "Holen Sie sich frisches Gebäck oder Burek für eine günstige und schnelle Mahlzeit."
+          },
+          {
+            "name": "Kafana",
+            "tip": "Erleben Sie ein traditionelles bosnisches Café für einen starken Kaffee und zum Leutebeobachten."
+          },
+          {
+            "name": "Sudžuka",
+            "tip": "Eine Art trockene, würzige Wurst, die Sie in lokalen Metzgereien oder auf Menüs finden können."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pekara (Pékség)",
+            "tip": "Vegyen friss péksüteményt vagy bureket egy olcsó és gyors étkezéshez."
+          },
+          {
+            "name": "Kafana",
+            "tip": "Tapasztaljon meg egy hagyományos bosnyák kávézót egy erős kávéért és az emberek figyeléséért."
+          },
+          {
+            "name": "Sudžuka",
+            "tip": "Egyfajta száraz, fűszeres kolbász, amelyet helyi hentesüzletekben vagy étlapokon találhat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pekara (Brutărie)",
+            "tip": "Luați produse de patiserie proaspete sau burek pentru o masă ieftină și rapidă."
+          },
+          {
+            "name": "Kafana",
+            "tip": "Experimentați o cafenea tradițională bosniacă pentru o cafea tare și pentru a privi oamenii."
+          },
+          {
+            "name": "Sudžuka",
+            "tip": "Un tip de cârnat uscat și picant pe care îl puteți găsi la măcelăriile locale sau în meniuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pekara (Bakery)",
+            "tip": "Grab some fresh pastries or burek for a cheap and quick meal."
+          },
+          {
+            "name": "Kafana",
+            "tip": "Experience a traditional Bosnian coffee house for a strong coffee and people-watching."
+          },
+          {
+            "name": "Sudžuka",
+            "tip": "A type of dry, spicy sausage you might find at local butchers or on menus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klosterinnenhof",
+            "tip": "Ein friedlicher Ort im Herzen der Stadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Park in der Nähe des Ravne-Tunnels",
+            "tip": "Nach der Tunnel-Tour können Sie sich im nahegelegenen Park entspannen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kolostor udvara",
+            "tip": "Egy békés hely a város szívében.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Park a Ravne-alagút közelében",
+            "tip": "Az alagút-túra után pihenhet a közeli parkban.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea mănăstirii",
+            "tip": "Un loc pașnic în inima orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul de lângă Tunelul Ravne",
+            "tip": "După turul tunelului, vă puteți relaxa în parcul din apropiere.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Monastery Courtyard",
+            "tip": "A peaceful spot right in the heart of town.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Park near Ravne Tunnel",
+            "tip": "After the tunnel tour, you can relax in the nearby park.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Straßenmarkt",
+            "tip": "Suchen Sie nach Ständen, die lokale Produkte und Handwerk verkaufen."
+          },
+          {
+            "name": "Kristalle und Mineralien",
+            "tip": "Rund um den Ravne-Komplex werden viele Kristalle verkauft, von denen einige heilende Eigenschaften haben sollen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Utcai piac",
+            "tip": "Keressen standokat, amelyek helyi termékeket és kézműves termékeket árulnak."
+          },
+          {
+            "name": "Kristályok és ásványok",
+            "tip": "A Ravne komplexum környékén sok kristályt árulnak, amelyek közül néhánynak gyógyító tulajdonságokat tulajdonítanak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața stradală",
+            "tip": "Căutați tarabe care vând produse locale și artizanat."
+          },
+          {
+            "name": "Cristale și minerale",
+            "tip": "În jurul complexului Ravne se vând multe cristale, despre unele se spune că au proprietăți vindecătoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Street Market",
+            "tip": "Look for stalls selling local produce and handicrafts."
+          },
+          {
+            "name": "Crystals and Minerals",
+            "tip": "Many crystals are sold around the Ravne complex, some claimed to have healing properties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Busfahrpläne im Voraus, besonders für die weniger frequentierten Strecken.",
+          "Haben Sie Kleingeld für Bustickets bereit.",
+          "Fragen Sie Einheimische oder den Busfahrer, wenn Sie sich bei der Haltestelle nicht sicher sind.",
+          "Die Busfrequenzen können abends und am Wochenende reduziert sein."
+        ],
+        "hu": [
+          "Előre ellenőrizze a buszmenetrendeket, különösen a ritkábban járt útvonalakon.",
+          "Legyen nálad aprópénz a buszjegyekhez.",
+          "Kérdezze meg a helyieket vagy a buszsofőrt, ha nem biztos a megállóban.",
+          "A buszjáratok sűrűsége este és hétvégén csökkenhet."
+        ],
+        "ro": [
+          "Verificați orarele autobuzelor în avans, în special pentru rutele mai puțin frecvente.",
+          "Aveți la îndemână mărunțiș pentru biletele de autobuz.",
+          "Întrebați localnicii sau șoferul de autobuz dacă nu sunteți sigur de stație.",
+          "Frecvența autobuzelor poate fi redusă seara și în weekend."
+        ],
+        "en": [
+          "Check bus schedules in advance, especially for less frequent routes.",
+          "Have small change ready for bus tickets.",
+          "Ask locals or the bus driver if you're unsure about a stop.",
+          "Bus frequency may be reduced in the evenings and on weekends."
+        ]
+      }
+    }
+  }
+}

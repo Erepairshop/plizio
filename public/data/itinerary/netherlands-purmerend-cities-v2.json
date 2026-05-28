@@ -1,0 +1,1460 @@
+{
+  "city_id": "netherlands-purmerend-cities-v2",
+  "anchor": {
+    "name": "Purmerend",
+    "coords": [
+      4.9452,
+      52.5032
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Koemarkt (Marktplatz)",
+            "hu": "Koemarkt (Marhapiac)",
+            "ro": "Koemarkt (Piața de Vite)",
+            "en": "Koemarkt (Cattle Market)"
+          },
+          "coords": [
+            4.9455,
+            52.5035
+          ],
+          "category": "squares",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie einen Kaffee in einem der vielen Cafés und beobachten Sie das Treiben.",
+            "hu": "Igyon meg egy kávét a sok kávézó egyikében, és figyelje a nyüzsgést.",
+            "ro": "Savurați o cafea la una dintre multele cafenele și priviți agitația.",
+            "en": "Enjoy a coffee at one of the many cafés and watch the hustle and bustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadhuis Purmerend (Rathaus)",
+            "hu": "Stadhuis Purmerend (Városháza)",
+            "ro": "Stadhuis Purmerend (Primăria)",
+            "en": "Stadhuis Purmerend (City Hall)"
+          },
+          "coords": [
+            4.9468,
+            52.5045
+          ],
+          "category": "historical",
+          "arrive_at": "09:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die klassische Architektur aus dem frühen 20. Jahrhundert.",
+            "hu": "Figyelje meg a 20. század eleji klasszikus építészetet.",
+            "ro": "Observați arhitectura clasică de la începutul secolului al XX-lea.",
+            "en": "Note the classic architecture from the early 20th century."
+          }
+        },
+        {
+          "name": {
+            "de": "Nicolaaskerk",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "St. Nicholas' Church"
+          },
+          "coords": [
+            4.9488,
+            52.5052
+          ],
+          "category": "churches",
+          "arrive_at": "10:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suchen Sie im Inneren nach einem Moment der Ruhe und bewundern Sie die Buntglasfenster.",
+            "hu": "Keressen egy csendes pillanatot a templomban, és csodálja meg az ólomüveg ablakokat.",
+            "ro": "Căutați un moment de liniște în interior și admirați vitraliile.",
+            "en": "Seek a moment of tranquility inside and admire the stained-glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Purmerends Museum",
+            "hu": "Purmerendi Múzeum",
+            "ro": "Muzeul Purmerends",
+            "en": "Purmerends Museum"
+          },
+          "coords": [
+            4.947,
+            52.5028
+          ],
+          "category": "museums",
+          "arrive_at": "11:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Jugendstil-Keramik, ein einzigartiges lokales Erbe.",
+            "hu": "Fókuszáljon a szecessziós kerámiákra, amely egyedi helyi örökség.",
+            "ro": "Concentrați-vă pe ceramica Art Nouveau, o moștenire locală unică.",
+            "en": "Focus on the Art Nouveau pottery, a unique local heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Melkwegbrug (Milchstraßenbrücke)",
+            "hu": "Melkwegbrug (Tejút-híd)",
+            "ro": "Podul Melkwegbrug (Calea Lactee)",
+            "en": "Melkwegbrug (Milky Way Bridge)"
+          },
+          "coords": [
+            4.9583,
+            52.5075
+          ],
+          "category": "bridges",
+          "arrive_at": "13:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Steigen Sie den Bogen für eine großartige Aussicht auf den Kanal hinauf - ein tolles Fotomotiv!",
+            "hu": "Másszon fel az ívre a csatornára nyíló nagyszerű kilátásért - remek fotóhelyszín!",
+            "ro": "Urcați pe arcadă pentru o priveliște minunată asupra canalului - un loc grozav pentru fotografii!",
+            "en": "Climb the arch for a great view of the canal - a great photo opportunity!"
+          }
+        },
+        {
+          "name": {
+            "de": "Leeghwaterpark",
+            "hu": "Leeghwater Park",
+            "ro": "Parcul Leeghwater",
+            "en": "Leeghwater Park"
+          },
+          "coords": [
+            4.974,
+            52.515
+          ],
+          "category": "parks",
+          "arrive_at": "14:15",
+          "stay_min": 135,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekt für einen entspannten Nachmittagsspaziergang oder ein Picknick am Wasser.",
+            "hu": "Tökéletes egy pihentető délutáni sétához vagy piknikhez a vízparton.",
+            "ro": "Perfect pentru o plimbare relaxantă de după-amiază sau un picnic lângă apă.",
+            "en": "Perfect for a relaxing afternoon stroll or a picnic by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Purmerend beginnt am lebhaften Koemarkt, dem pulsierenden Herzen der Stadt. Von dort aus schlendern Sie durch die Geschichte und bewundern das Rathaus und die ruhige Nicolaaskerk. Am Mittag tauchen Sie im Purmerends Museum in die lokale Kunst und Kultur ein, bevor Sie eine wohlverdiente Mittagspause einlegen. Am Nachmittag führt Sie ein Spaziergang zur architektonisch beeindruckenden Melkwegbrug, die einen einzigartigen Blick auf die Wasserwege bietet. Der Tag klingt im weitläufigen Leeghwaterpark aus, wo Sie sich entspannen und die grüne Umgebung genießen können.",
+        "hu": "A nap Purmerendben a nyüzsgő Koemarkton, a város lüktető szívében kezdődik. Innen a történelmen keresztül sétálva megcsodálhatja a Városházát és a csendes Szent Miklós-templomot. Délben elmerülhet a helyi művészetben és kultúrában a Purmerendi Múzeumban, mielőtt egy jól megérdemelt ebédszünetet tartana. Délután egy séta elvezeti az építészetileg lenyűgöző Melkwegbrughoz, ahonnan egyedülálló kilátás nyílik a vízi utakra. A nap a tágas Leeghwaterparkban ér véget, ahol pihenhet és élvezheti a zöld környezetet.",
+        "ro": "Ziua dvs. în Purmerend începe în animata Koemarkt, inima vibrantă a orașului. De acolo, vă plimbați prin istorie, admirând Primăria și liniștita Biserică Sf. Nicolae. La prânz, vă scufundați în arta și cultura locală la Muzeul Purmerends înainte de o pauză de masă binemeritată. După-amiaza, o plimbare vă duce la impresionantul pod Melkwegbrug, care oferă vederi unice asupra căilor navigabile. Ziua se încheie în vastul parc Leeghwater, unde vă puteți relaxa și bucura de împrejurimile verzi.",
+        "en": "Your day in Purmerend begins at the lively Koemarkt, the vibrant heart of the city. From there, you'll stroll through history, admiring the City Hall and the serene St. Nicholas' Church. At midday, immerse yourself in local art and culture at the Purmerends Museum before a well-deserved lunch break. In the afternoon, a walk takes you to the architecturally stunning Melkwegbrug, offering unique views of the waterways. The day concludes in the expansive Leeghwaterpark, where you can relax and enjoy the green surroundings."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Stroopwafel",
+            "tip": "Probieren Sie eine frische, warme Stroopwafel von einem Marktstand."
+          },
+          {
+            "name": "Holländischer Käse",
+            "tip": "Besuchen Sie einen lokalen Käseladen für eine Verkostung von Gouda oder Edamer."
+          },
+          {
+            "name": "Restaurant-Brasserie 't Stamhuis",
+            "tip": "Ein gemütlicher Ort am Koemarkt, ideal für traditionelle niederländische Gerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stroopwafel",
+            "tip": "Kóstoljon meg egy friss, meleg stroopwafelt egy piaci standnál."
+          },
+          {
+            "name": "Holland sajt",
+            "tip": "Látogasson el egy helyi sajtboltba egy Gouda vagy Edami kóstolóra."
+          },
+          {
+            "name": "Restaurant-Brasserie 't Stamhuis",
+            "tip": "Hangulatos hely a Koemarkton, ideális a hagyományos holland ételekhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stroopwafel",
+            "tip": "Încercați un stroopwafel proaspăt și cald de la o tarabă din piață."
+          },
+          {
+            "name": "Brânză olandeză",
+            "tip": "Vizitați un magazin local de brânzeturi pentru o degustare de Gouda sau Edam."
+          },
+          {
+            "name": "Restaurant-Brasserie 't Stamhuis",
+            "tip": "Un loc primitor pe Koemarkt, ideal pentru mâncăruri tradiționale olandeze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stroopwafel",
+            "tip": "Try a fresh, warm stroopwafel from a market stall."
+          },
+          {
+            "name": "Dutch Cheese",
+            "tip": "Visit a local cheese shop for a tasting of Gouda or Edam."
+          },
+          {
+            "name": "Restaurant-Brasserie 't Stamhuis",
+            "tip": "A cozy spot on the Koemarkt, great for traditional Dutch dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Nordhollandkanals",
+            "tip": "Finden Sie eine Bank entlang des Kanals für eine friedliche Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Inneres der Nicolaaskerk",
+            "tip": "Ein Moment der Stille und Besinnung abseits der geschäftigen Straßen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ein abgelegener Ort im Leeghwaterpark",
+            "tip": "Entfliehen Sie in die Natur und lauschen Sie den Geräuschen des Parks.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az Észak-Holland-csatorna partja",
+            "tip": "Keressen egy padot a csatorna mentén egy békés pihenőhöz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Szent Miklós-templom belseje",
+            "tip": "A csend és elmélkedés pillanata a forgalmas utcáktól távol.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Egy eldugott hely a Leeghwaterparkban",
+            "tip": "Meneküljön a természetbe, és hallgassa a park hangjait.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile Canalului Olandei de Nord",
+            "tip": "Găsiți o bancă de-a lungul canalului pentru o pauză liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Interiorul Bisericii Sf. Nicolae",
+            "tip": "Un moment de tăcere și reflecție departe de străzile aglomerate.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Un loc retras în Parcul Leeghwater",
+            "tip": "Evadați în natură și ascultați sunetele parcului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Noordhollandsch Kanaal",
+            "tip": "Find a bench along the canal for a peaceful break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Inside St. Nicholas' Church",
+            "tip": "A moment of silence and reflection away from the busy streets.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A secluded spot in Leeghwaterpark",
+            "tip": "Escape into nature and listen to the sounds of the park.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Schauen Sie auf dem Wochenmarkt am Koemarkt nach lokalen Produkten und Souvenirs."
+          },
+          {
+            "name": "Käseladen Henri Willig",
+            "tip": "Perfekt, um authentischen holländischen Käse als Souvenir mit nach Hause zu nehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Nézzen körül a Koemarkton tartott heti piacon helyi termékekért és szuvenírekért."
+          },
+          {
+            "name": "Henri Willig Sajtbolt",
+            "tip": "Tökéletes hely, hogy autentikus holland sajtot vigyen haza szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Căutați produse locale și suveniruri la piața săptămânală din Koemarkt."
+          },
+          {
+            "name": "Magazinul de brânzeturi Henri Willig",
+            "tip": "Perfect pentru a cumpăra brânză olandeză autentică ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Check the weekly market on the Koemarkt for local produce and souvenirs."
+          },
+          {
+            "name": "Henri Willig Cheese Shop",
+            "tip": "Perfect for buying authentic Dutch cheese to take home as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den größten Teil des Tages zu Fuß unterwegs sein werden.",
+          "Die Innenstadt ist kompakt und sehr gut zu Fuß erreichbar.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit; es gibt öffentliche Brunnen.",
+          "Planen Sie zusätzliches Zeit für ein Mittagessen in einem der vielen Restaurants rund um den Koemarkt ein."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a nap nagy részében gyalogolni fog.",
+          "A városközpont kompakt és nagyon könnyen bejárható gyalog.",
+          "Hozzon magával újratölthető vizes palackot; vannak nyilvános kutak.",
+          "Tervezzen plusz időt egy ebédre a Koemarkt körüli számos étterem egyikében."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge pe jos cea mai mare parte a zilei.",
+          "Centrul orașului este compact și foarte ușor de parcurs pe jos.",
+          "Luați cu voi o sticlă de apă reutilizabilă; există fântâni publice.",
+          "Planificați timp suplimentar pentru prânz la unul dintre numeroasele restaurante din jurul Koemarkt."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking for most of the day.",
+          "The city center is compact and very walkable.",
+          "Bring a reusable water bottle; there are public fountains available.",
+          "Plan for extra time to have lunch at one of the many restaurants around the Koemarkt."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 18.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradverleih & Koemarkt",
+            "hu": "Kerékpárkölcsönző & Koemarkt",
+            "ro": "Închiriere biciclete & Koemarkt",
+            "en": "Bike Rental & Koemarkt"
+          },
+          "coords": [
+            4.9455,
+            52.5035
+          ],
+          "category": "squares",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Mieten Sie Ihr Fahrrad für den Tag und genießen Sie die Atmosphäre des Platzes.",
+            "hu": "Béreljen kerékpárt a napra, és élvezze a tér hangulatát.",
+            "ro": "Închiriați-vă bicicleta pentru o zi și bucurați-vă de atmosfera pieței.",
+            "en": "Rent your bike for the day and soak in the square's atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Melkwegbrug",
+            "hu": "Melkwegbrug",
+            "ro": "Podul Melkwegbrug",
+            "en": "Melkwegbrug"
+          },
+          "coords": [
+            4.9583,
+            52.5075
+          ],
+          "category": "bridges",
+          "arrive_at": "09:40",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine beeindruckende Brücke, die perfekt für einen schnellen Fotostopp ist.",
+            "hu": "Lenyűgöző híd, tökéletes egy gyors fotómegállóhoz.",
+            "ro": "Un pod impresionant, perfect pentru o oprire rapidă pentru fotografii.",
+            "en": "An impressive bridge, perfect for a quick photo stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Leeghwaterpark",
+            "hu": "Leeghwater Park",
+            "ro": "Parcul Leeghwater",
+            "en": "Leeghwater Park"
+          },
+          "coords": [
+            4.974,
+            52.515
+          ],
+          "category": "parks",
+          "arrive_at": "10:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie durch den Park, um ein Gefühl für seine Weite zu bekommen.",
+            "hu": "Tekerjen át a parkon, hogy átérezze a tágasságát.",
+            "ro": "Pedalați prin parc pentru a vă face o idee despre vastitatea sa.",
+            "en": "Cycle through the park to get a feel for its vastness."
+          }
+        },
+        {
+          "name": {
+            "de": "De Purmer Polder",
+            "hu": "De Purmer Polder",
+            "ro": "Polderul Purmer",
+            "en": "The Purmer Polder"
+          },
+          "coords": [
+            4.91,
+            52.5
+          ],
+          "category": "natural features",
+          "arrive_at": "11:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 7.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Erleben Sie die ikonische niederländische Landschaft mit Windmühlen und Kanälen.",
+            "hu": "Tapasztalja meg az ikonikus holland tájat szélmalmokkal és csatornákkal.",
+            "ro": "Experimentați peisajul olandez iconic cu mori de vânt și canale.",
+            "en": "Experience the iconic Dutch landscape with windmills and canals."
+          }
+        },
+        {
+          "name": {
+            "de": "Purmerends Museum",
+            "hu": "Purmerendi Múzeum",
+            "ro": "Muzeul Purmerends",
+            "en": "Purmerends Museum"
+          },
+          "coords": [
+            4.947,
+            52.5028
+          ],
+          "category": "museums",
+          "arrive_at": "13:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab und tauchen Sie nach Ihrer Radtour in die Kunst ein.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és merüljön el a művészetben a túra után.",
+            "ro": "Parcați-vă bicicleta în siguranță și scufundați-vă în artă după plimbare.",
+            "en": "Securely park your bike and dive into art after your ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Nicolaaskerk & Abendessen",
+            "hu": "Szent Miklós-templom és vacsora",
+            "ro": "Biserica Sf. Nicolae și cină",
+            "en": "St. Nicholas' Church & Dinner"
+          },
+          "coords": [
+            4.9488,
+            52.5052
+          ],
+          "category": "churches",
+          "arrive_at": "15:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem ruhigen Besuch der Kirche, bevor Sie Ihr Fahrrad zurückgeben.",
+            "hu": "Zárja a napot egy csendes látogatással a templomban, mielőtt visszaadná a kerékpárt.",
+            "ro": "Încheiați ziua cu o vizită liniștită la biserică înainte de a returna bicicleta.",
+            "en": "End the day with a quiet visit to the church before returning your bike."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag in Purmerend am Koemarkt, wo Sie Ihr Fahrrad mieten. Eine kurze Fahrt führt Sie zur modernen Melkwegbrug und weiter zum grünen Leeghwaterpark. Am Vormittag wagen Sie sich in den weiten Purmer Polder hinaus, um die klassische holländische Landschaft zu erleben. Nach dem Mittagessen radeln Sie zurück ins Zentrum, um in die Kunst im Purmerends Museum einzutauchen. Der Tag endet mit einem besinnlichen Besuch der Nicolaaskerk, bevor Sie sich ein wohlverdientes Abendessen gönnen.",
+        "hu": "Kerékpáros napját Purmerendben a Koemarkton kezdje, ahol kerékpárt bérel. Egy rövid tekerés elvezeti a modern Melkwegbrughoz, majd tovább a zöldellő Leeghwaterparkba. Délelőtt merészkedjen ki a tágas Purmer Polderbe, hogy megtapasztalja a klasszikus holland tájat. Ebéd után tekerjen vissza a központba, hogy elmerüljön a Purmerendi Múzeum művészetében. A napot a Szent Miklós-templom csendes meglátogatásával zárja, mielőtt egy jól megérdemelt vacsorát fogyasztana.",
+        "ro": "Începeți-vă ziua de ciclism în Purmerend din Koemarkt, de unde vă închiriați bicicleta. O scurtă plimbare vă duce la modernul pod Melkwegbrug și mai departe la inverzitul parc Leeghwater. În cursul dimineții, aventurați-vă în vastul polder Purmer pentru a experimenta peisajul clasic olandez. După prânz, pedalați înapoi în centru pentru a vă cufunda în arta de la Muzeul Purmerends. Ziua se încheie cu o vizită contemplativă la Biserica Sf. Nicolae înainte de a vă bucura de o cină binemeritată.",
+        "en": "Start your cycling day in Purmerend from the Koemarkt, where you'll rent your bike. A short ride takes you to the modern Melkwegbrug and onward to the leafy Leeghwaterpark. In the morning, venture out into the vast Purmer Polder to experience the classic Dutch countryside. After lunch, cycle back to the center to immerse yourself in art at the Purmerends Museum. The day concludes with a contemplative visit to St. Nicholas' Church before enjoying a well-earned dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Poffertjes",
+            "tip": "Kleine, flauschige Pfannkuchen, ein perfekter Snack für Radfahrer."
+          },
+          {
+            "name": "Haring (Hering)",
+            "tip": "Wenn Sie sich trauen, probieren Sie einen rohen Hering von einem 'haringkar' (Hering-Wagen)."
+          },
+          {
+            "name": "P3 Restaurant",
+            "tip": "In der Nähe des Theaters gelegen, bietet es eine moderne Speisekarte für den Abend."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Poffertjes",
+            "tip": "Apró, pufók palacsinták, tökéletes harapnivaló kerékpárosoknak."
+          },
+          {
+            "name": "Haring (hering)",
+            "tip": "Ha merész, próbálja ki a nyers heringet egy 'haringkar'-tól (heringes kocsi)."
+          },
+          {
+            "name": "P3 Étterem",
+            "tip": "A színház mellett található, modern esti menüt kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poffertjes",
+            "tip": "Mici clătite pufoase, o gustare perfectă pentru cicliști."
+          },
+          {
+            "name": "Haring (hering)",
+            "tip": "Dacă îndrăzniți, încercați un hering crud de la un 'haringkar' (cărucior cu heringi)."
+          },
+          {
+            "name": "Restaurant P3",
+            "tip": "Situat lângă teatru, oferă un meniu modern pentru seară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Poffertjes",
+            "tip": "Small, fluffy pancakes, a perfect snack for cyclists."
+          },
+          {
+            "name": "Haring (Herring)",
+            "tip": "If you're daring, try a raw herring from a 'haringkar' (herring cart)."
+          },
+          {
+            "name": "P3 Restaurant",
+            "tip": "Located near the theatre, it offers a modern menu for the evening."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "De Purmer Polder",
+            "tip": "Halten Sie mitten auf dem Land an, um die Stille und die weite Aussicht zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Am Rande des Leeghwaterparks",
+            "tip": "Finden Sie einen ruhigen Ort abseits der Hauptwege.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick von der Melkwegbrug",
+            "tip": "Ein Moment der Ruhe über dem Wasser, bevor Sie weiterradeln.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "De Purmer Polder",
+            "tip": "Álljon meg a vidék közepén, hogy élvezze a csendet és a tágas kilátást.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Leeghwaterpark szélén",
+            "tip": "Keressen egy csendes helyet a fő ösvényektől távol.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Melkwegbrugról",
+            "tip": "Egy pillanatnyi béke a víz felett, mielőtt tovább tekersz.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Polderul Purmer",
+            "tip": "Opriți-vă în mijlocul peisajului rural pentru a vă bucura de liniște și de priveliștile largi.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "La marginea parcului Leeghwater",
+            "tip": "Găsiți un loc liniștit departe de cărările principale.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de pe podul Melkwegbrug",
+            "tip": "Un moment de pace deasupra apei înainte de a continua pedalarea.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "The Purmer Polder",
+            "tip": "Stop in the middle of the countryside to enjoy the silence and vast views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Edge of Leeghwaterpark",
+            "tip": "Find a quiet spot away from the main paths.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the Melkwegbrug",
+            "tip": "A moment of peace above the water before cycling on.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradzubehörladen",
+            "tip": "Kaufen Sie einzigartige niederländische Fahrradklingeln oder Dekorationen."
+          },
+          {
+            "name": "Lokaler Bauernmarkt",
+            "tip": "Kaufen Sie frisches Obst für einen gesunden Snack während Ihrer Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpár-kiegészítő bolt",
+            "tip": "Vásároljon egyedi holland csengőket vagy díszeket a kerékpárjára."
+          },
+          {
+            "name": "Helyi termelői piac",
+            "tip": "Vásároljon friss gyümölcsöt egy egészséges harapnivalóhoz a túra során."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de accesorii pentru biciclete",
+            "tip": "Cumpărați clopote sau decorațiuni unice olandeze pentru bicicletă."
+          },
+          {
+            "name": "Piața locală a fermierilor",
+            "tip": "Luați niște fructe proaspete pentru o gustare sănătoasă în timpul plimbării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Accessory Shop",
+            "tip": "Shop for unique Dutch bike bells or decorations."
+          },
+          {
+            "name": "Local Farmers' Market",
+            "tip": "Pick up some fresh fruit for a healthy snack during your ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Fahrradgesetze, wie z. B. Handzeichen für Abbiegungen.",
+          "Schließen Sie Ihr Fahrrad immer ab, auch wenn Sie es nur für ein paar Minuten abstellen.",
+          "Die Niederlande sind flach, aber eine Windjacke ist auch an sonnigen Tagen eine gute Idee.",
+          "Viele Wege im Polder sind schmal; seien Sie aufmerksam auf landwirtschaftlichen Verkehr."
+        ],
+        "hu": [
+          "Ismerje a kerékpáros szabályokat, például a kanyarodási kézjeleket.",
+          "Mindig zárja le a kerékpárját, még akkor is, ha csak néhány percre hagyja ott.",
+          "Hollandia sík, de egy széldzseki még napos időben is jó ötlet.",
+          "A polderben sok út keskeny; figyeljen a mezőgazdasági forgalomra."
+        ],
+        "ro": [
+          "Verificați legile privind ciclismul, cum ar fi semnalele manuale pentru viraje.",
+          "Încuiați-vă întotdeauna bicicleta, chiar dacă o lăsați doar pentru câteva minute.",
+          "Olanda este plată, dar o jachetă de vânt este o idee bună chiar și în zilele însorite.",
+          "Multe drumuri din polder sunt înguste; fiți atenți la traficul agricol."
+        ],
+        "en": [
+          "Check the bike laws, such as using hand signals for turns.",
+          "Always lock your bike, even when leaving it for just a few minutes.",
+          "The Netherlands is flat, but a wind jacket is a good idea even on sunny days.",
+          "Many paths in the polder are narrow; be mindful of farm traffic."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 19.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkhaus & Koemarkt (Cluster A)",
+            "hu": "Parkolóház és Koemarkt (A klaszter)",
+            "ro": "Parcare și Koemarkt (Cluster A)",
+            "en": "Parking Garage & Koemarkt (Cluster A)"
+          },
+          "coords": [
+            4.9455,
+            52.5035
+          ],
+          "category": "squares",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto für den Morgen und beginnen Sie Ihren Rundgang hier.",
+            "hu": "Parkolja le az autóját délelőttre, és innen induljon a séta.",
+            "ro": "Parcați mașina pentru dimineață și începeți turul pietonal de aici.",
+            "en": "Park your car for the morning and start your walking tour here."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadhuis Purmerend",
+            "hu": "Stadhuis Purmerend (Városháza)",
+            "ro": "Stadhuis Purmerend (Primăria)",
+            "en": "Stadhuis Purmerend (City Hall)"
+          },
+          "coords": [
+            4.9468,
+            52.5045
+          ],
+          "category": "historical",
+          "arrive_at": "09:35",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz zum historischen Rathaus.",
+            "hu": "Rövid séta a főtérről a történelmi Városházához.",
+            "ro": "O scurtă plimbare de la piața principală la primăria istorică.",
+            "en": "A short walk from the main square to the historic city hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Nicolaaskerk",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "St. Nicholas' Church"
+          },
+          "coords": [
+            4.9488,
+            52.5052
+          ],
+          "category": "churches",
+          "arrive_at": "10:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Kirche liegt günstig im selben fußläufigen Bereich.",
+            "hu": "A templom kényelmesen, ugyanabban a sétálóövezetben található.",
+            "ro": "Biserica este convenabil situată în aceeași zonă pietonală.",
+            "en": "The church is conveniently located within the same walking cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Purmerends Museum",
+            "hu": "Purmerendi Múzeum",
+            "ro": "Muzeul Purmerends",
+            "en": "Purmerends Museum"
+          },
+          "coords": [
+            4.947,
+            52.5028
+          ],
+          "category": "museums",
+          "arrive_at": "10:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der letzte Halt in diesem Cluster, bevor Sie zum Mittagessen zurück zum Auto gehen.",
+            "hu": "Az utolsó megálló ebben a klaszterben, mielőtt visszatérne az autóhoz ebédelni.",
+            "ro": "Ultima oprire din acest cluster înainte de a vă întoarce la mașină pentru prânz.",
+            "en": "The last stop in this cluster before walking back to the car for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Polder & Aussichtspunkt (Cluster B)",
+            "hu": "Autózás a polderhez és kilátóponthoz (B klaszter)",
+            "ro": "Drum spre Polder și punct de observare (Cluster B)",
+            "en": "Drive to the Polder & Viewpoint (Cluster B)"
+          },
+          "coords": [
+            4.91,
+            52.5
+          ],
+          "category": "natural features",
+          "arrive_at": "13:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 75,
+          "hop_from_prev_km": 7.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie aus der Stadt hinaus, um die weite, offene Landschaft des Polders zu sehen.",
+            "hu": "Hajtson ki a városból, hogy megnézze a polder tágas, nyílt táját.",
+            "ro": "Conduceți în afara orașului pentru a vedea peisajul vast și deschis al polderului.",
+            "en": "Drive out of the city to see the vast, open landscape of the polder."
+          }
+        },
+        {
+          "name": {
+            "de": "Leeghwaterpark",
+            "hu": "Leeghwater Park",
+            "ro": "Parcul Leeghwater",
+            "en": "Leeghwater Park"
+          },
+          "coords": [
+            4.974,
+            52.515
+          ],
+          "category": "parks",
+          "arrive_at": "14:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie erneut und genießen Sie einen entspannten Spaziergang durch diesen großen Stadtpark.",
+            "hu": "Parkoljon le újra, és élvezze a pihentető sétát ebben a nagy városi parkban.",
+            "ro": "Parcați din nou și bucurați-vă de o plimbare relaxantă prin acest parc urban mare.",
+            "en": "Park again and enjoy a relaxing walk through this large urban park."
+          }
+        },
+        {
+          "name": {
+            "de": "Melkwegbrug",
+            "hu": "Melkwegbrug",
+            "ro": "Podul Melkwegbrug",
+            "en": "Melkwegbrug"
+          },
+          "coords": [
+            4.9583,
+            52.5075
+          ],
+          "category": "bridges",
+          "arrive_at": "16:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein letzter Halt, um diese einzigartige Brücke zu überqueren und den Tag ausklingen zu lassen.",
+            "hu": "Egy utolsó megálló, hogy átkeljen ezen az egyedülálló hídon és lezárja a napot.",
+            "ro": "O ultimă oprire pentru a traversa acest pod unic și a încheia ziua.",
+            "en": "A final stop to cross this unique bridge and wind down the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt mit dem Parken im Zentrum von Purmerend, um den ersten Cluster zu Fuß zu erkunden. Sie spazieren vom Koemarkt zum Rathaus, zur Nicolaaskerk und zum Purmerends Museum. Nach dem Mittagessen fahren Sie aus der Stadt hinaus, um die ländliche Schönheit des Purmer Polders zu erleben. Ihr zweiter großer Halt ist der weitläufige Leeghwaterpark, wo Sie einen Nachmittagsspaziergang genießen. Der Tag endet mit einer Fahrt zur berühmten Melkwegbrug, die einen perfekten Abschluss für Ihre Erkundung von Purmerend und seiner Umgebung bietet.",
+        "hu": "Autós napja azzal kezdődik, hogy Purmerend központjában parkol, hogy gyalog fedezze fel az első klasztert. A Koemarktról a Városházához, a Szent Miklós-templomhoz és a Purmerendi Múzeumhoz sétál. Ebéd után kihajt a városból, hogy megtapasztalja a Purmer Polder vidéki szépségét. A második nagy megálló a tágas Leeghwaterpark, ahol egy délutáni sétát tehet. A napot a híres Melkwegbrughoz vezető úttal zárja, amely tökéletes befejezése Purmerend és környéke felfedezésének.",
+        "ro": "Ziua dvs. cu mașina începe parcând în centrul orașului Purmerend pentru a explora primul cluster pe jos. Vă plimbați de la Koemarkt la Primărie, Biserica Sf. Nicolae și Muzeul Purmerends. După prânz, conduceți în afara orașului pentru a experimenta frumusețea rurală a polderului Purmer. A doua oprire majoră este vastul parc Leeghwater pentru o plimbare de după-amiază. Ziua se încheie cu o deplasare la faimosul pod Melkwegbrug, o concluzie perfectă pentru explorarea dvs. a Purmerend și a împrejurimilor sale.",
+        "en": "Your car day begins by parking in central Purmerend to explore the first cluster on foot. You'll walk from the Koemarkt to the City Hall, St. Nicholas' Church, and the Purmerends Museum. After lunch, you drive out of town to experience the rural beauty of the Purmer Polder. Your second major stop is the expansive Leeghwaterpark for an afternoon stroll. The day concludes with a drive to the famous Melkwegbrug, providing a perfect end to your exploration of Purmerend and its surroundings."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Beemster Käse",
+            "tip": "Der Polder ist berühmt für diesen Käse; suchen Sie ihn in den örtlichen Geschäften."
+          },
+          {
+            "name": "Pfannkuchenhaus",
+            "tip": "Suchen Sie ein 'Pannenkoekenhuis' für herzhafte oder süße Pfannkuchen."
+          },
+          {
+            "name": "Restaurant De Drie Zwanen",
+            "tip": "Bietet eine schöne Aussicht und eine gehobene Speisekarte für ein besonderes Abendessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Beemster sajt",
+            "tip": "A polder híres erről a sajtról; keresse a helyi boltokban."
+          },
+          {
+            "name": "Palacsintaház",
+            "tip": "Keressen egy 'Pannenkoekenhuis'-t sós vagy édes palacsintákért."
+          },
+          {
+            "name": "De Drie Zwanen Étterem",
+            "tip": "Szép kilátást és elegáns menüt kínál egy különleges vacsorához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânza Beemster",
+            "tip": "Polderul este renumit pentru această brânză; căutați-o în magazinele locale."
+          },
+          {
+            "name": "Casă de clătite",
+            "tip": "Căutați un 'Pannenkoekenhuis' pentru clătite sărate sau dulci."
+          },
+          {
+            "name": "Restaurant De Drie Zwanen",
+            "tip": "Oferă priveliști frumoase și un meniu rafinat pentru o cină specială."
+          }
+        ],
+        "en": [
+          {
+            "name": "Beemster Cheese",
+            "tip": "The polder is famous for this cheese; look for it in local shops."
+          },
+          {
+            "name": "Pancake House",
+            "tip": "Find a 'Pannenkoekenhuis' for savory or sweet pancakes."
+          },
+          {
+            "name": "Restaurant De Drie Zwanen",
+            "tip": "Offers nice views and an upscale menu for a special dinner."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussicht vom Purmer Polder",
+            "tip": "Parken Sie am Straßenrand, um die Stille der Landschaft zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ein ruhiger Teich im Leeghwaterpark",
+            "tip": "Finden Sie einen friedlichen Ort am Wasser.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang in der Nähe des Kanals",
+            "tip": "Beobachten Sie, wie die Sonne über der holländischen Landschaft untergeht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a Purmer Polderről",
+            "tip": "Parkoljon le az út szélén, hogy élvezze a vidék csendjét.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy csendes tó a Leeghwaterparkban",
+            "tip": "Keressen egy békés helyet a víz mellett.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a csatorna közelében",
+            "tip": "Nézze, ahogy a nap lenyugszik a holland táj felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere din Polderul Purmer",
+            "tip": "Opriți pe marginea drumului pentru a absorbi liniștea peisajului rural.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Un iaz liniștit în Parcul Leeghwater",
+            "tip": "Găsiți un loc pașnic lângă apă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus de soare lângă canal",
+            "tip": "Priviți soarele apunând peste peisajul olandez.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the Purmer Polder",
+            "tip": "Pull over on the side of a road to absorb the quiet of the countryside.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A quiet pond in Leeghwaterpark",
+            "tip": "Find a peaceful spot by the water.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset near the canal",
+            "tip": "Watch the sun set over the Dutch landscape.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofladen im Polder",
+            "tip": "Suchen Sie nach Schildern für 'Kaasboerderij' (Käsefarm), um direkt beim Erzeuger zu kaufen."
+          },
+          {
+            "name": "Winkelcentrum Eggert",
+            "tip": "Ein modernes Einkaufszentrum in der Nähe des Zentrums für alle Ihre Bedürfnisse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi bolt a polderben",
+            "tip": "Keressen 'Kaasboerderij' (sajtfarm) táblákat, hogy közvetlenül a termelőtől vásároljon."
+          },
+          {
+            "name": "Eggert Bevásárlóközpont",
+            "tip": "Modern bevásárlóközpont a központ közelében, minden igényt kielégítve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de fermă în polder",
+            "tip": "Căutați semne pentru 'Kaasboerderij' (fermă de brânzeturi) pentru a cumpăra direct de la sursă."
+          },
+          {
+            "name": "Centrul Comercial Eggert",
+            "tip": "Un centru comercial modern lângă centru pentru toate nevoile dvs."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shop in the polder",
+            "tip": "Look for signs for 'Kaasboerderij' (cheese farm) to buy direct from the source."
+          },
+          {
+            "name": "Eggert Shopping Center",
+            "tip": "A modern shopping mall near the center for any needs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum kann gebührenpflichtig sein; halten Sie Münzen oder eine Karte bereit.",
+          "Ländliche Straßen im Polder können eng sein; fahren Sie vorsichtig.",
+          "Nutzen Sie eine Navigations-App, um zwischen den Clustern zu navigieren.",
+          "Ein Auto gibt Ihnen die Flexibilität, an malerischen Orten außerhalb der Stadt anzuhalten."
+        ],
+        "hu": [
+          "A parkolás a városközpontban díjköteles lehet; készítsen elő érméket vagy kártyát.",
+          "A polderben a vidéki utak keskenyek lehetnek; vezessen óvatosan.",
+          "Használjon navigációs alkalmazást a klaszterek közötti navigáláshoz.",
+          "Az autó rugalmasságot ad, hogy megálljon a városon kívüli festői helyeken."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi contra cost; aveți la îndemână monede sau un card.",
+          "Drumurile rurale din polder pot fi înguste; conduceți cu prudență.",
+          "Folosiți o aplicație de navigație pentru a naviga între clustere.",
+          "O mașină vă oferă flexibilitatea de a opri în locuri pitorești în afara orașului."
+        ],
+        "en": [
+          "Parking in the city center can be paid; have coins or a card ready.",
+          "Rural roads in the polder can be narrow; drive with care.",
+          "Use a navigation app to navigate between clusters.",
+          "A car gives you the flexibility to stop at scenic spots outside the town."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 7.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof/Bushaltestelle & Koemarkt (Cluster A)",
+            "hu": "Vasútállomás/buszmegálló és Koemarkt (A klaszter)",
+            "ro": "Gară/Stație de autobuz și Koemarkt (Cluster A)",
+            "en": "Train/Bus Station & Koemarkt (Cluster A)"
+          },
+          "coords": [
+            4.9455,
+            52.5035
+          ],
+          "category": "squares",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kommen Sie mit öffentlichen Verkehrsmitteln an und gehen Sie zum nahe gelegenen Koemarkt.",
+            "hu": "Érkezzen tömegközlekedéssel, és sétáljon el a közeli Koemarkthoz.",
+            "ro": "Sosiți cu transportul public și mergeți pe jos până la Koemarkt din apropiere.",
+            "en": "Arrive by public transport and walk to the nearby Koemarkt."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadhuis Purmerend",
+            "hu": "Stadhuis Purmerend (Városháza)",
+            "ro": "Stadhuis Purmerend (Primăria)",
+            "en": "Stadhuis Purmerend (City Hall)"
+          },
+          "coords": [
+            4.9468,
+            52.5045
+          ],
+          "category": "historical",
+          "arrive_at": "09:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Rathaus ist nur einen kurzen Spaziergang vom Platz entfernt.",
+            "hu": "A Városháza csak egy rövid sétára van a tértől.",
+            "ro": "Primăria se află la o scurtă plimbare de piață.",
+            "en": "The city hall is just a short walk from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Nicolaaskerk",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "St. Nicholas' Church"
+          },
+          "coords": [
+            4.9488,
+            52.5052
+          ],
+          "category": "churches",
+          "arrive_at": "10:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Setzen Sie Ihren Stadtrundgang fort und besuchen Sie diese zentrale Kirche.",
+            "hu": "Folytassa a városnéző sétát, és látogasson el ebbe a központi templomba.",
+            "ro": "Continuați turul pietonal al centrului orașului pentru a vizita această biserică centrală.",
+            "en": "Continue your city center walking tour to visit this central church."
+          }
+        },
+        {
+          "name": {
+            "de": "Purmerends Museum",
+            "hu": "Purmerendi Múzeum",
+            "ro": "Muzeul Purmerends",
+            "en": "Purmerends Museum"
+          },
+          "coords": [
+            4.947,
+            52.5028
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum vervollständigt Ihren Spaziergang durch das historische Zentrum.",
+            "hu": "A múzeum teszi teljessé a történelmi központban tett sétát.",
+            "ro": "Muzeul completează plimbarea dvs. prin centrul istoric.",
+            "en": "The museum completes your walking tour of the historic center."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Leeghwaterpark (Cluster B)",
+            "hu": "Busz a Leeghwaterparkhoz (B klaszter)",
+            "ro": "Autobuz spre Parcul Leeghwater (Cluster B)",
+            "en": "Bus to Leeghwaterpark (Cluster B)"
+          },
+          "coords": [
+            4.974,
+            52.515
+          ],
+          "category": "parks",
+          "arrive_at": "13:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 75,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus, um in den Parkbereich zu gelangen und einen Nachmittag im Grünen zu verbringen.",
+            "hu": "Menjen helyi busszal a park területére egy zöld délutánért.",
+            "ro": "Luați un autobuz local pentru a ajunge în zona parcului pentru o după-amiază în aer liber.",
+            "en": "Take a local bus to reach the park area for an afternoon of greenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Melkwegbrug",
+            "hu": "Melkwegbrug",
+            "ro": "Podul Melkwegbrug",
+            "en": "Melkwegbrug"
+          },
+          "coords": [
+            4.9583,
+            52.5075
+          ],
+          "category": "bridges",
+          "arrive_at": "16:05",
+          "stay_min": 35,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen weiteren kurzen Bus oder gehen Sie zu Fuß, um diese berühmte Brücke zu sehen, bevor Sie zurückkehren.",
+            "hu": "Menjen egy másik rövid busszal vagy sétáljon el, hogy megnézze ezt a híres hidat, mielőtt visszatérne.",
+            "ro": "Luați un alt autobuz scurt sau mergeți pe jos pentru a vedea acest pod faimos înainte de a vă întoarce.",
+            "en": "Take another short bus or walk to see this famous bridge before heading back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit der Ankunft in Purmerend mit öffentlichen Verkehrsmitteln. Der erste Teil Ihrer Reise ist ein Rundgang durch das Stadtzentrum, der am Koemarkt beginnt und Sie zum Rathaus, zur Nicolaaskerk und zum Purmerends Museum führt. Nach dem Mittagessen nehmen Sie einen Bus zum zweiten Cluster des Tages: dem weitläufigen Leeghwaterpark. Hier genießen Sie einen entspannten Nachmittag. Eine letzte kurze Fahrt mit dem Bus bringt Sie zur ikonischen Melkwegbrug, einem perfekten Fotostopp, bevor Sie Ihre Heimreise antreten.",
+        "hu": "Napja azzal kezdődik, hogy tömegközlekedéssel érkezik Purmerendbe. Az utazás első része egy séta a városközpontban, amely a Koemarktról indul, és elvezeti a Városházához, a Szent Miklós-templomhoz és a Purmerendi Múzeumhoz. Ebéd után busszal utazik a nap második klaszteréhez: a tágas Leeghwaterparkhoz. Itt egy pihentető délutánt tölthet el. Egy utolsó rövid buszozás elviszi az ikonikus Melkwegbrughoz, amely tökéletes fotómegálló, mielőtt hazaindulna.",
+        "ro": "Ziua dvs. începe sosind în Purmerend cu transportul public. Prima parte a călătoriei este un tur pietonal al centrului orașului, pornind de la Koemarkt și ducându-vă la Primărie, Biserica Sf. Nicolae și Muzeul Purmerends. După prânz, luați un autobuz către al doilea cluster al zilei: vastul parc Leeghwater. Aici vă bucurați de o după-amiază relaxantă. O ultimă călătorie scurtă cu autobuzul vă duce la emblematicul pod Melkwegbrug, o oprire perfectă pentru fotografii înainte de a vă întoarce acasă.",
+        "en": "Your day starts by arriving in Purmerend via public transport. The first leg of your journey is a walking tour of the city center, starting from the Koemarkt and taking you to the City Hall, St. Nicholas' Church, and the Purmerends Museum. After lunch, you'll take a bus to the day's second cluster: the expansive Leeghwaterpark. Here, you'll enjoy a relaxing afternoon. One final short bus ride takes you to the iconic Melkwegbrug, a perfect photo stop before you head home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Broodje Kroket",
+            "tip": "Ein klassisches niederländisches Sandwich, perfekt für ein schnelles Mittagessen unterwegs."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Fragen Sie in einer Bar nach einem Bier aus einer regionalen Brauerei."
+          },
+          {
+            "name": "Eetcafé De Bonte Koe",
+            "tip": "Ein traditionelles 'braunes Café', das herzhafte Mahlzeiten und eine gemütliche Atmosphäre bietet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Broodje Kroket",
+            "tip": "Klasszikus holland szendvics, tökéletes egy gyors ebédhez útközben."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Kérjen egy regionális sörfőzde sörét egy bárban."
+          },
+          {
+            "name": "Eetcafé De Bonte Koe",
+            "tip": "Hagyományos 'barna kávézó', amely kiadós ételeket és hangulatos légkört kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Broodje Kroket",
+            "tip": "Un sandviș olandez clasic, perfect pentru un prânz rapid din mers."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "Întrebați la un bar despre o bere de la o fabrică de bere regională."
+          },
+          {
+            "name": "Eetcafé De Bonte Koe",
+            "tip": "O 'cafenea maro' tradițională care servește mese copioase și o atmosferă primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Broodje Kroket",
+            "tip": "A classic Dutch sandwich, perfect for a quick lunch on the go."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Ask a bar for a beer from a regional brewery."
+          },
+          {
+            "name": "Eetcafé De Bonte Koe",
+            "tip": "A traditional 'brown cafe' serving hearty meals and a cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Garten des Purmerends Museums",
+            "tip": "Ein kleiner, ruhiger Garten, um nach dem Museumsbesuch zu entspannen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Eine Bank mit Blick auf den Kanal",
+            "tip": "Beobachten Sie das langsame Vorbeifahren der Boote.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Morgens auf dem Koemarkt",
+            "tip": "Kommen Sie früh an, um die Ruhe zu genießen, bevor die Menschenmassen eintreffen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Purmerendi Múzeum kertje",
+            "tip": "Kis, csendes kert a múzeumi látogatás utáni pihenéshez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Egy pad a csatornára néző kilátással",
+            "tip": "Nézze a lassan elhaladó hajókat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Koemarkt reggel",
+            "tip": "Érkezzen korán, hogy élvezze a csendet a tömeg érkezése előtt.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Muzeului Purmerends",
+            "tip": "O grădină mică și liniștită pentru a vă relaxa după vizita la muzeu.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "O bancă cu vedere la canal",
+            "tip": "Priviți bărcile trecând încet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Koemarkt dimineața",
+            "tip": "Sosiți devreme pentru a vă bucura de liniște înainte de sosirea mulțimilor.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Purmerends Museum Garden",
+            "tip": "A small, quiet garden to relax in after your museum visit.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A bench overlooking the canal",
+            "tip": "Watch the boats drift by slowly.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Koemarkt in the morning",
+            "tip": "Arrive early to enjoy the quiet before the crowds arrive.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirladen im Museum",
+            "tip": "Kaufen Sie einzigartige Geschenke im Zusammenhang mit der lokalen Kunst und Geschichte."
+          },
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Kaufen Sie traditionelles niederländisches Gebäck wie 'Tompouce'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvenírbolt a múzeumban",
+            "tip": "Vásároljon egyedi ajándékokat a helyi művészethez és történelemhez kapcsolódóan."
+          },
+          {
+            "name": "Helyi pékség",
+            "tip": "Vásároljon hagyományos holland süteményeket, mint például a 'Tompouce'."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri al muzeului",
+            "tip": "Cumpărați cadouri unice legate de arta și istoria locală."
+          },
+          {
+            "name": "Brutărie locală",
+            "tip": "Luați produse de patiserie tradiționale olandeze, cum ar fi 'Tompouce'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Museum Gift Shop",
+            "tip": "Buy unique gifts related to the local art and history."
+          },
+          {
+            "name": "Local Bakery",
+            "tip": "Pick up some traditional Dutch pastries like 'Tompouce'."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus für unbegrenzte Fahrten innerhalb der Stadt.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, um Wartezeiten zu minimieren.",
+          "Busse in den Niederlanden sind bargeldlos; verwenden Sie eine OV-chipkaart oder eine kontaktlose Debit-/Kreditkarte.",
+          "Laden Sie eine lokale ÖPNV-App herunter, um Echtzeit-Informationen zu erhalten."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra a korlátlan városi utazáshoz.",
+          "Előre ellenőrizze a buszmenetrendet a várakozási idő minimalizálása érdekében.",
+          "A holland buszok készpénzmentesek; használjon OV-chipkaartot vagy érintésmentes bank-/hitelkártyát.",
+          "Töltsön le egy helyi tömegközlekedési alkalmazást a valós idejű információkért."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru autobuz pentru călătorii nelimitate în oraș.",
+          "Verificați în avans orarele autobuzelor pentru a minimiza timpii de așteptare.",
+          "Autobuzele din Olanda nu acceptă numerar; utilizați un OV-chipkaart sau un card de debit/credit contactless.",
+          "Descărcați o aplicație locală de transport public pentru informații în timp real."
+        ],
+        "en": [
+          "Purchase a day pass for the bus for unlimited travel within the city.",
+          "Check bus schedules in advance to minimize waiting.",
+          "Buses in the Netherlands are cashless; use an OV-chipkaart or contactless debit/credit card.",
+          "Download a local public transport app for real-time information."
+        ]
+      }
+    }
+  }
+}

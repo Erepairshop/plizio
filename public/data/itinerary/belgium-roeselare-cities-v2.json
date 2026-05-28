@@ -1,0 +1,1142 @@
+{
+  "city_id": "belgium-roeselare-cities-v2",
+  "anchor": {
+    "name": "Roeselare",
+    "coords": [
+      3.1248,
+      50.9445
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Grote Markt",
+            "hu": "Fő tér (Grote Markt)",
+            "ro": "Piața Mare (Grote Markt)",
+            "en": "Grote Markt (Main Square)"
+          },
+          "coords": [
+            3.1249,
+            50.9448
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee in einem der Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában!",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
+            "en": "Start your day with a coffee at one of the cafes lining the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Roeselare",
+            "hu": "Roeselare-i Városháza",
+            "ro": "Primăria din Roeselare",
+            "en": "City Hall of Roeselare"
+          },
+          "coords": [
+            3.1255,
+            50.9451
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Bewundern Sie die Mischung aus gotischer und moderner Architektur.",
+            "hu": "Csodálja meg a gótikus és modern építészet keverékét!",
+            "ro": "Admirați amestecul de arhitectură gotică și modernă.",
+            "en": "Admire the mix of Gothic and modern architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt-Michaels-Kirche",
+            "hu": "Szent Mihály-templom",
+            "ro": "Biserica Sfântul Mihail",
+            "en": "Saint Michael's Church"
+          },
+          "coords": [
+            3.1265,
+            50.944
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Achten Sie auf den beeindruckenden Rokoko-Predigtstuhl im Inneren.",
+            "hu": "Keresse meg a lenyűgöző rokokó szószéket a templomban!",
+            "ro": "Căutați impresionantul amvon în stil rococo din interior.",
+            "en": "Look for the impressive Rococo pulpit inside."
+          }
+        },
+        {
+          "name": {
+            "de": "KOERS (Museum des Radsports)",
+            "hu": "KOERS (Kerékpáros Múzeum)",
+            "ro": "KOERS (Muzeul Ciclismului)",
+            "en": "KOERS (Museum of Cycle Racing)"
+          },
+          "coords": [
+            3.1288,
+            50.9472
+          ],
+          "category": "museums",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Ein Muss für Radsportfans, mit Trikots von Legenden wie Eddy Merckx.",
+            "hu": "Kötelező a kerékpárrajongóknak, legendák, mint Eddy Merckx mezeivel.",
+            "ro": "O vizită obligatorie pentru fanii ciclismului, cu tricouri de la legende precum Eddy Merckx.",
+            "en": "A must-visit for cycling fans, with jerseys from legends like Eddy Merckx."
+          }
+        },
+        {
+          "name": {
+            "de": "Brauerei Rodenbach",
+            "hu": "Rodenbach Sörfőzde",
+            "ro": "Berăria Rodenbach",
+            "en": "Rodenbach Brewery"
+          },
+          "coords": [
+            3.1345,
+            50.9495
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_4lang": {
+            "de": "Nehmen Sie an einer Führung teil, um die berühmten flämischen Rotalen zu probieren.",
+            "hu": "Vegyen részt egy túrán, hogy megkóstolja a híres flamand vörös ale-t.",
+            "ro": "Participați la un tur pentru a degusta faimoasele beri roșii flamande.",
+            "en": "Take a guided tour to taste the famous Flemish red ales."
+          }
+        },
+        {
+          "name": {
+            "de": "Sterrebos",
+            "hu": "Sterrebos Park",
+            "ro": "Parcul Sterrebos",
+            "en": "Sterrebos Park"
+          },
+          "coords": [
+            3.145,
+            50.932
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_4lang": {
+            "de": "Ein perfekter Ort für einen entspannten Spaziergang am Nachmittag.",
+            "hu": "Tökéletes hely egy pihentető délutáni sétához.",
+            "ro": "Un loc perfect pentru o plimbare relaxantă de după-amiază.",
+            "en": "A perfect spot for a relaxing afternoon walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem lebhaften Grote Markt, dem Herzen von Roeselare. Am Vormittag tauchen Sie in die Geschichte ein, während Sie das Rathaus und die Sankt-Michaels-Kirche erkunden, die nur einen kurzen Spaziergang voneinander entfernt sind. Der Nachmittag ist dem flämischen Erbe gewidmet: erst der Radsport im KOERS-Museum, dann die Braukunst in der Rodenbach-Brauerei. Schließen Sie Ihren Tag mit einem erholsamen Spaziergang durch das grüne Sterrebos ab und genießen Sie die Ruhe abseits des Stadtzentrums.",
+        "hu": "Kezdje a napot Roeselare szívében, a nyüzsgő Fő téren. A délelőtt a történelemé: fedezze fel a Városházát és a Szent Mihály-templomot, melyek csak egy rövid sétára vannak egymástól. A délután a flamand örökség jegyében telik: először a kerékpározás a KOERS Múzeumban, majd a sörfőzés művészete a Rodenbach Sörfőzdében. Zárja a napot egy pihentető sétával a zöldellő Sterrebos parkban, élvezve a nyugalmat a városközponton kívül.",
+        "ro": "Începeți ziua în inima orașului Roeselare, în vibranta Piață Mare. Dimineața este dedicată istoriei, explorând Primăria și Biserica Sfântul Mihail, la mică distanță una de cealaltă. După-amiaza este dedicată patrimoniului flamand: mai întâi ciclismul la Muzeul KOERS, apoi arta berii la Berăria Rodenbach. Încheiați ziua cu o plimbare relaxantă prin parcul verde Sterrebos, bucurându-vă de liniștea de dincolo de centrul orașului.",
+        "en": "Start your day in the heart of Roeselare at the vibrant Grote Markt. The morning is for history as you explore the City Hall and Saint Michael's Church, a short walk apart. The afternoon is dedicated to Flemish heritage: first cycling at the KOERS museum, then the art of brewing at Rodenbach Brewery. Conclude your day with a refreshing walk through the green Sterrebos park, enjoying the tranquility away from the city center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rodenbach-Bier",
+            "tip": "Probieren Sie das einzigartige flämische Rotale direkt von der Quelle."
+          },
+          {
+            "name": "Flämische Pommes",
+            "tip": "Suchen Sie eine 'Frituur' für eine Tüte authentischer belgischer Pommes."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rodenbach sör",
+            "tip": "Kóstolja meg az egyedülálló flamand vörös sört közvetlenül a forrásnál."
+          },
+          {
+            "name": "Flamand sültkrumpli",
+            "tip": "Keressen egy 'Frituur'-t egy adag autentikus belga sültkrumpliért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Berea Rodenbach",
+            "tip": "Gustați berea roșie flamandă unică direct de la sursă."
+          },
+          {
+            "name": "Cartofi prăjiți flamanzi",
+            "tip": "Căutați o 'Frituur' pentru un cornet de cartofi prăjiți belgieni autentici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rodenbach Beer",
+            "tip": "Taste the unique Flemish red ale straight from the source."
+          },
+          {
+            "name": "Flemish Fries",
+            "tip": "Look for a 'Frituur' for a cone of authentic Belgian fries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sterrebos",
+            "tip": "Finden Sie eine ruhige Bank am Teich.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sankt-Michaels-Kirche",
+            "tip": "Eine Oase der Ruhe im Stadtzentrum.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sterrebos",
+            "tip": "Keressen egy csendes padot a tó mellett.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szent Mihály-templom",
+            "tip": "A béke szigete a városközpontban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sterrebos",
+            "tip": "Găsiți o bancă liniștită lângă iaz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Biserica Sfântul Mihail",
+            "tip": "O oază de pace în centrul orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sterrebos",
+            "tip": "Find a quiet bench by the pond.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Saint Michael's Church",
+            "tip": "An oasis of peace in the city center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ooststraat",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus lokalen Boutiquen und bekannten Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ooststraat",
+            "tip": "A fő bevásárlóutca, helyi butikok és ismert márkák keverékével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ooststraat",
+            "tip": "Principala stradă comercială cu un amestec de buticuri locale și mărci cunoscute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ooststraat",
+            "tip": "The main shopping street with a mix of local boutiques and well-known brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind leicht zu Fuß erreichbar.",
+          "Prüfen Sie die Öffnungszeiten der Brauerei im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "A legtöbb belvárosi látnivaló könnyen elérhető gyalog.",
+          "Ellenőrizze előre a sörfőzde nyitvatartási idejét."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, veți merge mult pe jos.",
+          "Majoritatea atracțiilor din centrul orașului sunt ușor accesibile pe jos.",
+          "Verificați în avans programul de funcționare al berăriei."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "Most city center attractions are easily within walking distance.",
+          "Check the brewery's opening hours and tour times in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Grote Markt & Rathaus",
+            "hu": "Fő tér és Városháza",
+            "ro": "Piața Mare și Primăria",
+            "en": "Grote Markt & City Hall"
+          },
+          "coords": [
+            3.1252,
+            50.9449
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und erkunden Sie den Platz zu Fuß.",
+            "hu": "Zárja le a kerékpárt, és fedezze fel a teret gyalog.",
+            "ro": "Parcați bicicleta și explorați piața pe jos.",
+            "en": "Lock up your bike and explore the square on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt-Michaels-Kirche",
+            "hu": "Szent Mihály-templom",
+            "ro": "Biserica Sfântul Mihail",
+            "en": "Saint Michael's Church"
+          },
+          "coords": [
+            3.1265,
+            50.944
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Eine kurze Fahrt vom Grote Markt entfernt.",
+            "hu": "Csak egy rövid tekerés a Fő tértől.",
+            "ro": "O scurtă plimbare cu bicicleta de la Grote Markt.",
+            "en": "Just a short ride from the Grote Markt."
+          }
+        },
+        {
+          "name": {
+            "de": "KOERS (Museum des Radsports)",
+            "hu": "KOERS (Kerékpáros Múzeum)",
+            "ro": "KOERS (Muzeul Ciclismului)",
+            "en": "KOERS (Museum of Cycle Racing)"
+          },
+          "coords": [
+            3.1288,
+            50.9472
+          ],
+          "category": "museums",
+          "arrive_at": "10:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Der perfekte Ort, um das Fahrrad abzustellen und in die Radsportgeschichte einzutauchen.",
+            "hu": "A tökéletes hely, hogy leparkolja a biciklit és elmerüljön a kerékpársport történelmében.",
+            "ro": "Locul perfect pentru a parca bicicleta și a vă cufunda în istoria ciclismului.",
+            "en": "The perfect place to park your bike and dive into cycling history."
+          }
+        },
+        {
+          "name": {
+            "de": "Muze'um L",
+            "hu": "Muze'um L",
+            "ro": "Muze'um L",
+            "en": "Muze'um L"
+          },
+          "coords": [
+            3.11,
+            50.9588
+          ],
+          "category": "museums",
+          "arrive_at": "12:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_4lang": {
+            "de": "Ein einzigartiges Museum, das Licht und Kunst erforscht, eine angenehme Fahrt vom Zentrum entfernt.",
+            "hu": "Egy egyedi múzeum, amely a fényt és a művészetet kutatja, kellemes tekerésre a központtól.",
+            "ro": "Un muzeu unic care explorează lumina și arta, la o plimbare plăcută de centru.",
+            "en": "A unique museum exploring light and art, a pleasant ride from the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Rumbeke",
+            "hu": "Rumbeke kastély",
+            "ro": "Castelul Rumbeke",
+            "en": "Rumbeke Castle"
+          },
+          "coords": [
+            3.151,
+            50.932
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_4lang": {
+            "de": "Genießen Sie die malerische Radtour zu einem der ältesten Schlösser Belgiens.",
+            "hu": "Élvezze a festői kerékpárutat Belgium egyik legrégebbi kastélyához.",
+            "ro": "Bucurați-vă de plimbarea pitorească cu bicicleta spre unul dintre cele mai vechi castele din Belgia.",
+            "en": "Enjoy the scenic bike ride to one of Belgium's oldest castles."
+          }
+        },
+        {
+          "name": {
+            "de": "Sterrebos",
+            "hu": "Sterrebos Park",
+            "ro": "Parcul Sterrebos",
+            "en": "Sterrebos Park"
+          },
+          "coords": [
+            3.145,
+            50.932
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:31",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_4lang": {
+            "de": "Entspannen Sie sich nach Ihrer Radtour in diesem wunderschönen Park neben dem Schloss.",
+            "hu": "Pihenjen a kerékpártúra után ebben a gyönyörű parkban a kastély mellett.",
+            "ro": "Relaxați-vă după turul cu bicicleta în acest parc frumos de lângă castel.",
+            "en": "Relax after your bike tour in this beautiful park next to the castle."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am Grote Markt, dem Epizentrum von Roeselare. Eine kurze Radtour führt Sie zur historischen Sankt-Michaels-Kirche. Am Vormittag tauchen Sie im KOERS tief in die belgische Radsportkultur ein, bevor Sie zum einzigartigen Muze'um L weiterradeln. Der Nachmittag gehört dem Märchenhaften: eine längere, aber lohnende Fahrt zum Schloss Rumbeke. Beenden Sie den Tag entspannt im angrenzenden Sterrebos, wo Sie die Beine nach einem aktiven Tag ausstrecken können.",
+        "hu": "Induljon a Grote Marktról, Roeselare epicentrumából. Egy rövid tekerés elvezeti a történelmi Szent Mihály-templomhoz. Délelőtt merüljön el a belga kerékpáros kultúrában a KOERS-ban, mielőtt továbbteker az egyedülálló Muze'um L-hez. A délután a meséké: egy hosszabb, de megérő út a Rumbeke kastélyhoz. A napot pihenéssel zárja a szomszédos Sterrebos parkban, ahol kinyújtóztathatja a lábait egy aktív nap után.",
+        "ro": "Porniți de la Grote Markt, epicentrul orașului Roeselare. O scurtă plimbare cu bicicleta vă duce la istorica Biserică Sfântul Mihail. Dimineața, pătrundeți în cultura ciclistă belgiană la KOERS, înainte de a pedala mai departe spre unicul Muze'um L. După-amiaza este rezervată basmelor: o călătorie mai lungă, dar plină de satisfacții, spre Castelul Rumbeke. Încheiați ziua relaxându-vă în parcul adiacent Sterrebos, unde vă puteți întinde picioarele după o zi activă.",
+        "en": "Kick off from Grote Markt, Roeselare's epicentre. A short bike ride takes you to the historic Saint Michael's Church. In the morning, delve deep into Belgian cycling culture at KOERS before pedalling onward to the unique Muze'um L. The afternoon is for fairy tales: a longer but rewarding ride to Rumbeke Castle. End the day relaxing in the adjacent Sterrebos park, stretching your legs after an active day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Belgische Waffel",
+            "tip": "Tanken Sie Energie mit einer warmen Waffel mit Ihren Lieblingstoppings."
+          },
+          {
+            "name": "Lokales Craft-Bier",
+            "tip": "Fragen Sie in einem Café nach einem lokalen Bier, das nicht Rodenbach ist, um etwas Neues zu probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belga gofri",
+            "tip": "Töltődjön fel energiával egy meleg gofrival a kedvenc feltéteivel."
+          },
+          {
+            "name": "Helyi kézműves sör",
+            "tip": "Kérjen egy helyi, nem Rodenbach sört egy kávézóban, hogy valami újat próbáljon ki."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vafă belgiană",
+            "tip": "Realimentați-vă cu o vafă caldă cu toppingurile preferate."
+          },
+          {
+            "name": "Bere artizanală locală",
+            "tip": "Întrebați la o cafenea despre o bere locală care nu este Rodenbach pentru a încerca ceva nou."
+          }
+        ],
+        "en": [
+          {
+            "name": "Belgian Waffle",
+            "tip": "Refuel with a warm waffle topped with your favorite toppings."
+          },
+          {
+            "name": "Local Craft Beer",
+            "tip": "Ask a cafe for a local beer that isn't Rodenbach to try something new."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlosspark Rumbeke",
+            "tip": "Der Park um das Schloss ist ideal für eine ruhige Pause.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Pfade im Sterrebos",
+            "tip": "Verlieren Sie sich auf den ruhigeren Wegen abseits des Haupteingangs.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rumbeke kastélypark",
+            "tip": "A kastély körüli park ideális egy csendes pihenőre.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Sterrebos ösvényei",
+            "tip": "Tévedjen el a főbejárattól távolabb eső, csendesebb ösvényeken.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului Rumbeke",
+            "tip": "Parcul din jurul castelului este ideal pentru o pauză liniștită.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Cărările din Sterrebos",
+            "tip": "Pierdeți-vă pe potecile mai liniștite, departe de intrarea principală.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rumbeke Castle Grounds",
+            "tip": "The park surrounding the castle is ideal for a quiet break.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Paths in Sterrebos",
+            "tip": "Get lost on the quieter paths away from the main entrance.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradzubehör",
+            "tip": "In der Stadt des Radsports finden Sie sicher ein einzigartiges Souvenir in einem Fahrradladen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpáros kiegészítők",
+            "tip": "A kerékpározás városában biztosan talál egyedi szuvenírt egy kerékpárboltban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Accesorii pentru biciclete",
+            "tip": "În orașul ciclismului, sigur veți găsi un suvenir unic într-un magazin de biciclete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cycling gear",
+            "tip": "In the city of cycling, you're bound to find a unique souvenir at a bike shop."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad in der Nähe des Bahnhofs, wenn Sie keins haben.",
+          "Achten Sie auf die Fahrradwege, die in Flandern hervorragend sind.",
+          "Einige Kopfsteinpflasterstraßen im Zentrum erfordern Vorsicht."
+        ],
+        "hu": [
+          "Béreljen kerékpárt az állomás közelében, ha nincs sajátja.",
+          "Használja a kerékpárutakat, amelyek Flandriában kiválóak.",
+          "A központban néhány macskaköves utca óvatosságot igényel."
+        ],
+        "ro": [
+          "Închiriați o bicicletă de lângă gară dacă nu aveți una.",
+          "Urmați pistele de biciclete, care sunt excelente în Flandra.",
+          "Unele străzi pavate din centru necesită prudență."
+        ],
+        "en": [
+          "Rent a bike near the train station if you don't have one.",
+          "Follow the cycle paths, which are excellent in Flanders.",
+          "Some cobblestone streets in the center require caution."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 8.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum & Grote Markt",
+            "hu": "Parkoló a központban és Fő tér",
+            "ro": "Parcare centrală și Piața Mare",
+            "en": "Central Parking & Grote Markt"
+          },
+          "coords": [
+            3.124,
+            50.946
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Parken Sie Ihr Auto und erkunden Sie den ersten Cluster zu Fuß.",
+            "hu": "Parkolja le az autót, és fedezze fel az első látnivalócsoportot gyalog.",
+            "ro": "Parcați mașina și explorați primul grup de atracții pe jos.",
+            "en": "Park your car and explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Roeselare",
+            "hu": "Roeselare-i Városháza",
+            "ro": "Primăria din Roeselare",
+            "en": "City Hall of Roeselare"
+          },
+          "coords": [
+            3.1255,
+            50.9451
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:30",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Ein kurzer Spaziergang vom Grote Markt.",
+            "hu": "Rövid séta a Fő tértől.",
+            "ro": "O scurtă plimbare de la Grote Markt.",
+            "en": "A short walk from the Grote Markt."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt-Michaels-Kirche",
+            "hu": "Szent Mihály-templom",
+            "ro": "Biserica Sfântul Mihail",
+            "en": "Saint Michael's Church"
+          },
+          "coords": [
+            3.1265,
+            50.944
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Der Abschluss Ihrer Erkundung des Stadtzentrums.",
+            "hu": "A belvárosi felfedezőtúra befejezése.",
+            "ro": "Finalul explorării centrului orașului.",
+            "en": "The final stop of your city center exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "KOERS (Museum des Radsports)",
+            "hu": "KOERS (Kerékpáros Múzeum)",
+            "ro": "KOERS (Muzeul Ciclismului)",
+            "en": "KOERS (Museum of Cycle Racing)"
+          },
+          "coords": [
+            3.1288,
+            50.9472
+          ],
+          "category": "museums",
+          "arrive_at": "10:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_4lang": {
+            "de": "Fahren Sie zum zweiten Cluster. Es gibt Parkplätze in der Nähe des Museums.",
+            "hu": "Vezessen át a második látnivalócsoporthoz. A múzeum közelében van parkoló.",
+            "ro": "Conduceți la al doilea grup de atracții. Există parcare lângă muzeu.",
+            "en": "Drive to the second cluster. There is parking available near the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Brauerei Rodenbach",
+            "hu": "Rodenbach Sörfőzde",
+            "ro": "Berăria Rodenbach",
+            "en": "Rodenbach Brewery"
+          },
+          "coords": [
+            3.1345,
+            50.9495
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Lassen Sie das Auto stehen und gehen Sie zur Brauerei.",
+            "hu": "Hagyja az autót, és sétáljon át a sörfőzdébe.",
+            "ro": "Lăsați mașina și mergeți pe jos la berărie.",
+            "en": "Leave the car and walk over to the brewery."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Rumbeke & Sterrebos",
+            "hu": "Rumbeke kastély és Sterrebos Park",
+            "ro": "Castelul Rumbeke și Parcul Sterrebos",
+            "en": "Rumbeke Castle & Sterrebos Park"
+          },
+          "coords": [
+            3.151,
+            50.932
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car",
+          "tip_4lang": {
+            "de": "Fahren Sie zum letzten Ziel des Tages für einen langen Spaziergang und eine Dosis Geschichte.",
+            "hu": "Vezessen a nap utolsó állomásához egy hosszú sétáért és egy adag történelemért.",
+            "ro": "Conduceți la destinația finală a zilei pentru o plimbare lungă și o doză de istorie.",
+            "en": "Drive to the final destination of the day for a long walk and a dose of history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag, indem Sie im Zentrum von Roeselare parken, um das historische Herz zu Fuß zu erkunden: den Grote Markt und die Sankt-Michaels-Kirche. Steigen Sie dann ins Auto und fahren Sie zum nächsten Cluster, wo die Leidenschaften Flanderns – Radsport und Bier – im KOERS-Museum und in der Rodenbach-Brauerei auf Sie warten. Die letzte Fahrt des Tages führt Sie aus der Stadt zum prächtigen Schloss Rumbeke und dem angrenzenden Sterrebos-Park, einer perfekten Kombination aus Kultur und Natur, um Ihren Ausflug abzuschließen.",
+        "hu": "Kezdje a napot Roeselare központjában parkolva, hogy gyalog fedezze fel a történelmi belvárost: a Fő teret és a Szent Mihály-templomot. Ezután üljön autóba a következő látnivalócsoporthoz, ahol Flandria szenvedélyei – a kerékpározás és a sör – várják a KOERS Múzeumban és a Rodenbach Sörfőzdében. A nap utolsó autós útja kiviszi a városból a csodálatos Rumbeke kastélyhoz és a szomszédos Sterrebos parkhoz, amely a kultúra és a természet tökéletes kombinációja a kirándulás lezárásaként.",
+        "ro": "Începeți ziua parcând în centrul orașului Roeselare pentru a explora pe jos inima sa istorică: Piața Mare și Biserica Sfântul Mihail. Apoi, urcați în mașină spre următorul grup de atracții, unde vă așteaptă pasiunile Flandrei - ciclismul și berea - la Muzeul KOERS și Berăria Rodenbach. Ultima călătorie cu mașina a zilei vă duce în afara orașului, la magnificul Castel Rumbeke și la parcul adiacent Sterrebos, o combinație perfectă de cultură și natură pentru a încheia excursia.",
+        "en": "Start your day by parking in the center of Roeselare to explore its historic heart on foot: the Grote Markt and Saint Michael's Church. Then, hop in the car to the next cluster where Flanders' passions—cycling and beer—await at the KOERS Museum and Rodenbach Brewery. The day's final drive takes you out of town to the magnificent Rumbeke Castle and the adjacent Sterrebos park, a perfect blend of culture and nature to conclude your trip."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Stoofvlees",
+            "tip": "Ein herzhafter flämischer Rindfleischeintopf, oft mit Bier zubereitet. Perfekt nach einem langen Spaziergang."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stoofvlees",
+            "tip": "Egy kiadós flamand marharagu, gyakran sörrel készítve. Tökéletes egy hosszú séta után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stoofvlees",
+            "tip": "O tocană de vită flamandă consistentă, adesea făcută cu bere. Perfectă după o plimbare lungă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stoofvlees",
+            "tip": "A hearty Flemish beef stew, often made with beer. Perfect after a long walk."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schloss Rumbeke",
+            "tip": "Die Gärten des Schlosses bieten eine friedliche Flucht.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Sterrebos",
+            "tip": "Ideal für einen ruhigen Spaziergang, um den Tag ausklingen zu lassen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rumbeke kastély",
+            "tip": "A kastély kertjei békés menedéket nyújtanak.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Sterrebos",
+            "tip": "Ideális egy csendes sétához a nap lezárásaként.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Castelul Rumbeke",
+            "tip": "Grădinile castelului oferă o evadare pașnică.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Sterrebos",
+            "tip": "Ideal pentru o plimbare liniștită pentru a încheia ziua.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rumbeke Castle",
+            "tip": "The castle gardens offer a peaceful escape.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Sterrebos",
+            "tip": "Ideal for a quiet stroll to end the day.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofladen Schloss Rumbeke",
+            "tip": "Suchen Sie nach lokalen Produkten und Souvenirs, die mit dem Anwesen in Verbindung stehen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rumbeke kastély bolja",
+            "tip": "Keressen helyi termékeket és a birtokhoz kapcsolódó ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul fermei de la Castelul Rumbeke",
+            "tip": "Căutați produse locale și suveniruri legate de domeniu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rumbeke Castle Farm Shop",
+            "tip": "Look for local produce and souvenirs related to the estate."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf Parkzonen und -gebühren im Stadtzentrum.",
+          "Die Kombination von Fahren und Gehen ist der effizienteste Weg, die Stadt und ihre Umgebung zu sehen.",
+          "Der Fahrer sollte die Bierverkostung auslassen oder einen verantwortungsbewussten Plan haben."
+        ],
+        "hu": [
+          "Figyeljen a parkolási zónákra és díjakra a városközpontban.",
+          "Az autóval és gyaloglással kombinált közlekedés a leghatékonyabb módja a város és környéke megtekintésének.",
+          "A sofőr hagyja ki a sörkóstolást, vagy legyen felelősségteljes terve."
+        ],
+        "ro": [
+          "Fiți atenți la zonele de parcare și la taxele din centrul orașului.",
+          "Combinarea condusului cu mersul pe jos este cel mai eficient mod de a vedea orașul și împrejurimile.",
+          "Șoferul ar trebui să sară peste degustarea de bere sau să aibă un plan responsabil."
+        ],
+        "en": [
+          "Be aware of parking zones and fees in the city center.",
+          "Combining driving and walking is the most efficient way to see the city and its surroundings.",
+          "The driver should skip the beer tasting or have a responsible plan."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 7.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Grote Markt & Rathaus",
+            "hu": "Fő tér és Városháza",
+            "ro": "Piața Mare și Primăria",
+            "en": "Grote Markt & City Hall"
+          },
+          "coords": [
+            3.1252,
+            50.9449
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Nehmen Sie einen Bus zum Zentrum und beginnen Sie Ihre Erkundung.",
+            "hu": "Buszozzon a központba, és kezdje meg a felfedezést.",
+            "ro": "Luați un autobuz spre centru și începeți explorarea.",
+            "en": "Take a bus to the center and start your exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt-Michaels-Kirche",
+            "hu": "Szent Mihály-templom",
+            "ro": "Biserica Sfântul Mihail",
+            "en": "Saint Michael's Church"
+          },
+          "coords": [
+            3.1265,
+            50.944
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Vom Platz aus leicht zu Fuß erreichbar.",
+            "hu": "Könnyen megközelíthető gyalog a térről.",
+            "ro": "Ușor de accesat pe jos din piață.",
+            "en": "Easily walkable from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "KOERS (Museum des Radsports)",
+            "hu": "KOERS (Kerékpáros Múzeum)",
+            "ro": "KOERS (Muzeul Ciclismului)",
+            "en": "KOERS (Museum of Cycle Racing)"
+          },
+          "coords": [
+            3.1288,
+            50.9472
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 110,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_4lang": {
+            "de": "Nehmen Sie einen kurzen Bus, um zum nächsten Cluster zu gelangen.",
+            "hu": "Menjen egy rövid buszúttal a következő látnivalócsoporthoz.",
+            "ro": "Luați un autobuz pe o distanță scurtă pentru a ajunge la următorul grup de atracții.",
+            "en": "Take a short bus ride to get to the next cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Brauerei Rodenbach",
+            "hu": "Rodenbach Sörfőzde",
+            "ro": "Berăria Rodenbach",
+            "en": "Rodenbach Brewery"
+          },
+          "coords": [
+            3.1345,
+            50.9495
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Ein kurzer Spaziergang vom KOERS-Museum.",
+            "hu": "Rövid séta a KOERS Múzeumtól.",
+            "ro": "O scurtă plimbare de la muzeul KOERS.",
+            "en": "A short walk from the KOERS museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Rumbeke",
+            "hu": "Rumbeke kastély",
+            "ro": "Castelul Rumbeke",
+            "en": "Rumbeke Castle"
+          },
+          "coords": [
+            3.151,
+            50.932
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:40",
+          "stay_min": 150,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "transit",
+          "tip_4lang": {
+            "de": "Nehmen Sie einen Bus zum Schloss. Planen Sie Zeit für die Fahrt und einen eventuellen Spaziergang von der Haltestelle ein.",
+            "hu": "Buszozzon a kastélyhoz. Szánjon időt az utazásra és a megállótól való sétára.",
+            "ro": "Luați un autobuz spre castel. Planificați timp pentru călătorie și o posibilă plimbare de la stație.",
+            "en": "Take a bus towards the castle. Plan for travel time and a potential walk from the stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das öffentliche Verkehrsnetz von Roeselare für einen stressfreien Tag. Beginnen Sie im historischen Zentrum und erkunden Sie den Grote Markt und die Kirche zu Fuß. Eine kurze Busfahrt bringt Sie zum zweiten Cluster, wo Sie in die Welt des Radsports und des Bieres eintauchen. Die längste Fahrt des Tages bringt Sie zum märchenhaften Schloss Rumbeke. Genießen Sie die Bequemlichkeit, sich zurückzulehnen und die Landschaft zwischen den Haltestellen zu beobachten.",
+        "hu": "Használja Roeselare tömegközlekedési hálózatát egy stresszmentes napért. Kezdje a történelmi központban, gyalogosan felfedezve a Fő teret és a templomot. Egy rövid buszút elviszi a második látnivalócsoporthoz, ahol elmerülhet a kerékpározás és a sör világában. A nap leghosszabb útja a mesebeli Rumbeke kastélyhoz vezet. Élvezze a kényelmet, hogy hátradőlhet és nézheti a tájat a megállók között.",
+        "ro": "Folosiți rețeaua de transport public din Roeselare pentru o zi fără stres. Începeți în centrul istoric, explorând pe jos Piața Mare și biserica. O scurtă călătorie cu autobuzul vă duce la al doilea grup de atracții, unde vă puteți cufunda în lumea ciclismului și a berii. Cea mai lungă călătorie a zilei vă va duce la castelul de basm Rumbeke. Bucurați-vă de confortul de a sta pe scaun și de a privi peisajul între opriri.",
+        "en": "Use Roeselare's public transit network for a stress-free day. Start in the historic center, exploring the Grote Markt and church on foot. A short bus ride takes you to the second cluster to immerse yourself in the world of cycling and beer. The day's longest transit leg will take you to the fairy-tale Rumbeke Castle. Enjoy the convenience of sitting back and watching the scenery between stops."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Takeaway-Mittagessen",
+            "tip": "Holen Sie sich ein Sandwich oder einen Salat, den Sie im Bus oder bei der Ankunft im Park essen können."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Elvihető ebéd",
+            "tip": "Vegyen egy szendvicset vagy salátát, amit megehet a buszon vagy a parkba érkezve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Prânz la pachet",
+            "tip": "Luați un sandviș sau o salată pentru a mânca în autobuz sau la sosirea în parc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Takeaway lunch",
+            "tip": "Grab a sandwich or a salad to eat on the bus or upon arrival at the park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt",
+            "tip": "Nutzen Sie die Fahrt zwischen den Clustern, um sich auszuruhen und die Stadt zu beobachten.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Gelände des Schlosses Rumbeke",
+            "tip": "Finden Sie nach Ihrer Ankunft einen ruhigen Ort zum Entspannen.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszút",
+            "tip": "Használja ki a látnivalócsoportok közötti utat pihenésre és a város nézésére.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Rumbeke kastély területe",
+            "tip": "Érkezés után keressen egy csendes helyet a pihenésre.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătoria cu autobuzul",
+            "tip": "Folosiți călătoria între grupuri pentru a vă odihni ochii și a privi orașul.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Domeniul Castelului Rumbeke",
+            "tip": "Găsiți un loc liniștit pentru a vă relaxa la sosire.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus Journey",
+            "tip": "Use the ride between clusters to rest your eyes and watch the city go by.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Rumbeke Castle Grounds",
+            "tip": "Find a quiet spot to relax upon arrival.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Nähe des Bahnhofs",
+            "tip": "Kaufen Sie Souvenirs, bevor Sie den letzten Bus zurück nehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok az állomás közelében",
+            "tip": "Vásároljon szuveníreket, mielőtt felszáll az utolsó buszra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine lângă gară",
+            "tip": "Cumpărați suveniruri înainte de a lua ultimul autobuz înapoi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops near the station",
+            "tip": "Pick up any souvenirs before you take the final bus back."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für das beste Preis-Leistungs-Verhältnis.",
+          "Laden Sie die App des lokalen Verkehrsunternehmens herunter, um Fahrpläne in Echtzeit zu erhalten.",
+          "Beachten Sie die Abfahrtszeit des letzten Busses, besonders von abgelegeneren Orten wie Schloss Rumbeke."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a legjobb ár-érték arány érdekében.",
+          "Töltse le a helyi közlekedési vállalat alkalmazását a valós idejű menetrendekért.",
+          "Figyeljen az utolsó busz indulási idejére, különösen a távolabbi helyekről, mint a Rumbeke kastély."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru cel mai bun raport calitate-preț.",
+          "Descărcați aplicația companiei locale de transport pentru orare în timp real.",
+          "Fiți conștienți de ora ultimului autobuz, în special din locații mai îndepărtate precum Castelul Rumbeke."
+        ],
+        "en": [
+          "Buy a day pass for the best value.",
+          "Download the local transit company's app for real-time schedules.",
+          "Be aware of the last bus time, especially from more remote locations like Rumbeke Castle."
+        ]
+      }
+    }
+  }
+}

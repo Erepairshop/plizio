@@ -1,0 +1,1444 @@
+{
+  "city_id": "romania-cornu-cities-v2",
+  "anchor": {
+    "name": "Cornu",
+    "coords": [
+      25.7,
+      45.16
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Gemeindepark",
+            "hu": "Községi park",
+            "ro": "Parcul Comunal",
+            "en": "Community Park"
+          },
+          "coords": [
+            25.701,
+            45.161
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem entspannten Spaziergang und genießen Sie die frische Morgenluft.",
+            "hu": "Kezdje a napot egy pihentető sétával, és élvezze a friss reggeli levegőt.",
+            "ro": "Începeți ziua cu o plimbare relaxantă și bucurați-vă de aerul proaspăt de dimineață.",
+            "en": "Start your day with a relaxing stroll and enjoy the fresh morning air."
+          }
+        },
+        {
+          "name": {
+            "de": "Heldenmahnmal Cornu",
+            "hu": "Cornu-i Hősök Emlékműve",
+            "ro": "Monumentul Eroilor Cornu",
+            "en": "Cornu Heroes' Monument"
+          },
+          "coords": [
+            25.703,
+            45.162
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Halt, um der lokalen Geschichte zu gedenken.",
+            "hu": "Egy rövid megálló a helyi történelem emlékezetére.",
+            "ro": "O scurtă oprire pentru a comemora istoria locală.",
+            "en": "A brief stop to commemorate the local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Johannes der Täufer",
+            "hu": "Keresztelő Szent János templom",
+            "ro": "Biserica Sfântul Ioan Botezătorul",
+            "en": "Saint John the Baptist Church"
+          },
+          "coords": [
+            25.698,
+            45.163
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle orthodoxe Architektur und die ruhige Atmosphäre.",
+            "hu": "Csodálja meg a hagyományos ortodox építészetet és a csendes légkört.",
+            "ro": "Admirați arhitectura tradițională ortodoxă și atmosfera liniștită.",
+            "en": "Admire the traditional Orthodox architecture and the quiet atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Dorfmuseum",
+            "hu": "Falumúzeum",
+            "ro": "Muzeul Satului",
+            "en": "Village Museum"
+          },
+          "coords": [
+            25.695,
+            45.165
+          ],
+          "category": "museums",
+          "arrive_at": "11:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein, um die Exponate über das ländliche Leben zu erkunden.",
+            "hu": "Szánjon elegendő időt a vidéki élettel kapcsolatos kiállítások felfedezésére.",
+            "ro": "Planificați suficient timp pentru a explora exponatele despre viața rurală.",
+            "en": "Plan enough time to explore the exhibits on rural life."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Cornu",
+            "hu": "Cornu-i kolostor",
+            "ro": "Mănăstirea Cornu",
+            "en": "Cornu Monastery"
+          },
+          "coords": [
+            25.685,
+            45.175
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein friedlicher Ort für Reflexion, etwas außerhalb des Dorfzentrums.",
+            "hu": "Békés hely az elmélkedésre, kissé a falu központján kívül.",
+            "ro": "Un loc pașnic pentru reflecție, puțin în afara centrului satului.",
+            "en": "A peaceful place for reflection, slightly outside the village center."
+          }
+        },
+        {
+          "name": {
+            "de": "Cornu Aussichtspunkt",
+            "hu": "Cornu kilátó",
+            "ro": "Punct de belvedere Cornu",
+            "en": "Cornu Viewpoint"
+          },
+          "coords": [
+            25.68,
+            45.18
+          ],
+          "category": "natural features",
+          "arrive_at": "15:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Abschluss des Tages mit Panoramablick auf das Prahova-Tal.",
+            "hu": "A nap tökéletes befejezése panorámás kilátással a Prahova-völgyre.",
+            "ro": "Finalul perfect al zilei cu o vedere panoramică asupra Văii Prahovei.",
+            "en": "The perfect end to the day with a panoramic view of the Prahova Valley."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Wandertag im Herzen von Cornu, im Gemeindepark. Am Vormittag erkunden Sie das kulturelle Erbe des Dorfes, vom Heldenmahnmal über die orthodoxe Kirche bis hin zum aufschlussreichen Dorfmuseum. Nach dem Mittagessen führt Sie ein längerer Spaziergang zum ruhigen Kloster Cornu, einem Ort der Stille. Der Nachmittag gipfelt im Aufstieg zum Cornu Aussichtspunkt, wo Sie mit einem atemberaubenden Blick über die Karpatenhügel belohnt werden, bevor Sie den Abend ausklingen lassen.",
+        "hu": "Kezdje gyalogtúráját Cornu szívében, a Községi parkban. A délelőtt folyamán fedezze fel a falu kulturális örökségét, a Hősök Emlékművétől az ortodox templomon át a tanulságos Falumúzeumig. Ebéd után egy hosszabb séta vezet a csendes Cornu-i kolostorhoz, a béke szigetéhez. A délután a Cornu kilátóhoz való felsétálással csúcsosodik ki, ahol a Kárpátok dombjaira nyíló lélegzetelállító kilátásban gyönyörködhet, mielőtt lezárná az estét.",
+        "ro": "Începeți turul pietonal în inima comunei Cornu, în Parcul Comunal. În cursul dimineții, explorați moștenirea culturală a satului, de la Monumentul Eroilor la biserica ortodoxă și la interesantul Muzeu al Satului. După prânz, o plimbare mai lungă vă va duce la liniștita Mănăstire Cornu, un loc de reculegere. După-amiaza culminează cu urcarea la Punctul de belvedere Cornu, unde veți fi răsplătit cu o priveliște uluitoare asupra dealurilor carpatice înainte de a încheia seara.",
+        "en": "Start your walking tour in the heart of Cornu, at the Community Park. In the morning, explore the village's cultural heritage, from the Heroes' Monument to the Orthodox church and the insightful Village Museum. After lunch, a longer walk will take you to the serene Cornu Monastery, a place of tranquility. The afternoon culminates in the climb to the Cornu Viewpoint, where you'll be rewarded with a breathtaking view over the Carpathian hills before ending the evening."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mămăliguță cu brânză și smântână",
+            "tip": "Ein Muss in Rumänien, cremig und sättigend. Suchen Sie nach einem lokalen Restaurant (han)."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Kohlrouladen, gefüllt mit Fleisch und Reis. Traditionell und köstlich."
+          },
+          {
+            "name": "Ciorbă",
+            "tip": "Probieren Sie eine saure Suppe, zum Beispiel eine 'Ciorbă de burtă' für Abenteuerlustige."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mămăliguță cu brânză și smântână",
+            "tip": "Románia kötelező étele, krémes és laktató. Keressen egy helyi éttermet (han)."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Töltött káposzta hússal és rizzsel. Hagyományos és finom."
+          },
+          {
+            "name": "Csorba",
+            "tip": "Kóstoljon meg egy savanyú levest, például egy 'Ciorbă de burtă'-t a kalandvágyók."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mămăliguță cu brânză și smântână",
+            "tip": "O specialitate românească, cremoasă și sățioasă. Căutați un han local."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Rulouri de varză umplute cu carne și orez. Tradiționale și delicioase."
+          },
+          {
+            "name": "Ciorbă",
+            "tip": "Încercați o ciorbă acră, de exemplu o 'Ciorbă de burtă' pentru cei aventuroși."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mămăliguță cu brânză și smântână",
+            "tip": "A must-try in Romania, creamy and filling. Look for a local inn (han)."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Cabbage rolls stuffed with meat and rice. Traditional and delicious."
+          },
+          {
+            "name": "Ciorbă",
+            "tip": "Try a sour soup, for example a 'Ciorbă de burtă' for the adventurous."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kloster Cornu",
+            "tip": "Die Gärten des Klosters sind ein Ort der Ruhe und des Friedens.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Cornu Aussichtspunkt",
+            "tip": "Perfekt, um den Sonnenuntergang über den Hügeln zu beobachten.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gemeindepark am Morgen",
+            "tip": "Vor dem Trubel des Tages ist der Park ein ruhiger Ort.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cornu-i kolostor",
+            "tip": "A kolostor kertjei a csend és a béke helyszínei.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Cornu kilátó",
+            "tip": "Tökéletes hely a naplemente megtekintéséhez a dombok felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Községi park reggel",
+            "tip": "A napi nyüzsgés előtt a park egy csendes hely.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mănăstirea Cornu",
+            "tip": "Grădinile mănăstirii sunt un loc de liniște și pace.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Punct de belvedere Cornu",
+            "tip": "Perfect pentru a privi apusul peste dealuri.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Comunal dimineața",
+            "tip": "Înainte de agitația zilei, parcul este un loc liniștit.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cornu Monastery",
+            "tip": "The monastery's gardens are a place of quiet and peace.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Cornu Viewpoint",
+            "tip": "Perfect for watching the sunset over the hills.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Community Park in the morning",
+            "tip": "Before the hustle of the day, the park is a quiet spot.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig und Käse",
+            "tip": "Fragen Sie im Dorfmuseum oder in kleinen Läden nach lokalen Produkten."
+          },
+          {
+            "name": "Handgefertigte Souvenirs",
+            "tip": "Halten Sie Ausschau nach handgeschnitzten Holzgegenständen oder gewebten Textilien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz és sajt",
+            "tip": "Érdeklődjön a Falumúzeumban vagy a kis boltokban a helyi termékekről."
+          },
+          {
+            "name": "Kézzel készített szuvenírek",
+            "tip": "Keressen kézzel faragott fa tárgyakat vagy szőtt textíliákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere și brânză locală",
+            "tip": "Întrebați la Muzeul Satului sau la magazinele mici despre produsele locale."
+          },
+          {
+            "name": "Suveniruri artizanale",
+            "tip": "Căutați obiecte din lemn sculptate manual sau textile țesute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local honey and cheese",
+            "tip": "Ask at the Village Museum or small shops for local products."
+          },
+          {
+            "name": "Handmade souvenirs",
+            "tip": "Look for hand-carved wooden items or woven textiles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Wanderschuhe, da die Strecke einige Hügel umfasst.",
+          "Nehmen Sie Wasser und Snacks mit, besonders für den Weg zum Aussichtspunkt.",
+          "Prüfen Sie die Öffnungszeiten des Museums im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes túracipőt, mivel az útvonal néhány dombot is magában foglal.",
+          "Vigyen magával vizet és rágcsálnivalót, különösen a kilátóhoz vezető útra.",
+          "Ellenőrizze előre a múzeum nyitvatartási idejét."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru drumeții, deoarece traseul include câteva dealuri.",
+          "Luați apă și gustări, în special pentru drumul spre punctul de belvedere.",
+          "Verificați în avans programul de funcționare al muzeului."
+        ],
+        "en": [
+          "Wear comfortable walking shoes as the route includes some hills.",
+          "Bring water and snacks, especially for the walk to the viewpoint.",
+          "Check the museum's opening hours in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Gemeindepark",
+            "hu": "Községi park",
+            "ro": "Parcul Comunal",
+            "en": "Community Park"
+          },
+          "coords": [
+            25.701,
+            45.161
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein guter Ausgangspunkt, um die Reifen zu prüfen und die Route zu planen.",
+            "hu": "Jó kiindulópont a gumik ellenőrzéséhez és az útvonal megtervezéséhez.",
+            "ro": "Un bun punct de plecare pentru a verifica anvelopele și a planifica traseul.",
+            "en": "A good starting point to check your tires and plan the route."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Johannes der Täufer",
+            "hu": "Keresztelő Szent János templom",
+            "ro": "Biserica Sfântul Ioan Botezătorul",
+            "en": "Saint John the Baptist Church"
+          },
+          "coords": [
+            25.698,
+            45.163
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie die Kirche betreten.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt belép a templomba.",
+            "ro": "Asigurați-vă bicicleta înainte de a intra în biserică.",
+            "en": "Lock your bike securely before entering the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Dorfmuseum",
+            "hu": "Falumúzeum",
+            "ro": "Muzeul Satului",
+            "en": "Village Museum"
+          },
+          "coords": [
+            25.695,
+            45.165
+          ],
+          "category": "museums",
+          "arrive_at": "10:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Hier erfahren Sie mehr über die Geschichte der Region, in der Sie radeln.",
+            "hu": "Tudjon meg többet a régió történelméről, ahol kerékpározik.",
+            "ro": "Aflați mai multe despre istoria regiunii în care pedalați.",
+            "en": "Learn about the history of the region you're cycling through."
+          }
+        },
+        {
+          "name": {
+            "de": "Traditionelle Landhäuser",
+            "hu": "Hagyományos vidéki házak",
+            "ro": "Case tradiționale rurale",
+            "en": "Traditional Rural Houses"
+          },
+          "coords": [
+            25.705,
+            45.158
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Machen Sie eine kleine Schleife, um die charmante Architektur zu sehen.",
+            "hu": "Tegyen egy kis kitérőt, hogy megnézze a bájos építészetet.",
+            "ro": "Faceți o mică buclă pentru a vedea arhitectura fermecătoare.",
+            "en": "Take a small loop to see the charming architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Cornu",
+            "hu": "Cornu-i kolostor",
+            "ro": "Mănăstirea Cornu",
+            "en": "Cornu Monastery"
+          },
+          "coords": [
+            25.685,
+            45.175
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Anstieg zum Kloster ist eine gute Übung. Oben erwartet Sie Ruhe.",
+            "hu": "A kolostorhoz vezető emelkedő jó edzés. Fent nyugalom várja.",
+            "ro": "Urcarea la mănăstire este un exercițiu bun. Liniștea vă așteaptă în vârf.",
+            "en": "The climb to the monastery is good exercise. Tranquility awaits at the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Cornu-Hügelwanderweg",
+            "hu": "Cornu-i dombsági túraútvonal",
+            "ro": "Traseu de drumeție pe dealurile din Cornu",
+            "en": "Cornu Hills Hiking Trail"
+          },
+          "coords": [
+            25.678,
+            45.182
+          ],
+          "category": "natural features",
+          "arrive_at": "14:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad am Anfang des Weges ab und machen Sie eine kurze Wanderung.",
+            "hu": "Parkolja le a kerékpárt az ösvény elején, és tegyen egy rövid túrát.",
+            "ro": "Lăsați bicicleta la începutul potecii și faceți o scurtă drumeție.",
+            "en": "Park your bike at the trailhead and go for a short hike."
+          }
+        },
+        {
+          "name": {
+            "de": "Cornu Aussichtspunkt",
+            "hu": "Cornu kilátó",
+            "ro": "Punct de belvedere Cornu",
+            "en": "Cornu Viewpoint"
+          },
+          "coords": [
+            25.68,
+            45.18
+          ],
+          "category": "natural features",
+          "arrive_at": "16:01",
+          "stay_min": 60,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein anspruchsvoller letzter Anstieg, aber die Aussicht ist jede Mühe wert.",
+            "hu": "Kihívást jelentő utolsó emelkedő, de a kilátás minden fáradságot megér.",
+            "ro": "O urcare finală provocatoare, dar priveliștea merită tot efortul.",
+            "en": "A challenging final climb, but the view is worth every effort."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Rad und starten Sie im Gemeindepark. Die Vormittagstour führt Sie zu den kulturellen Highlights von Cornu, von der Kirche bis zum Museum. Erkunden Sie die charmanten traditionellen Häuser, bevor Sie sich eine Mittagspause gönnen. Am Nachmittag wird es sportlich: Sie erklimmen den Hügel zum Kloster und weiter zum Anfang des Wanderweges. Die Tour endet am Aussichtspunkt, wo Sie einen verdienten Panoramablick genießen.",
+        "hu": "Pattanjon kerékpárra, és induljon a Községi parkból. A délelőtti túra Cornu kulturális nevezetességeihez vezet, a templomtól a múzeumig. Fedezze fel a bájos hagyományos házakat, mielőtt ebédszünetet tartana. Délután sportosra váltunk: felteker a dombra a kolostorhoz, majd tovább a túraútvonal elejére. A túra a kilátónál ér véget, ahol megérdemelt panorámában gyönyörködhet.",
+        "ro": "Urcați-vă pe bicicletă și porniți din Parcul Comunal. Turul de dimineață vă duce la atracțiile culturale din Cornu, de la biserică la muzeu. Explorați fermecătoarele case tradiționale înainte de a lua o pauză de prânz. După-amiaza devine sportivă: urcați dealul spre mănăstire și mai departe spre începutul traseului de drumeție. Turul se încheie la punctul de belvedere, unde vă bucurați de o priveliște panoramică binemeritată.",
+        "en": "Hop on your bike and start from the Community Park. The morning tour takes you to Cornu's cultural highlights, from the church to the museum. Explore the charming traditional houses before taking a lunch break. The afternoon gets sporty: you'll climb the hill to the monastery and continue to the start of the hiking trail. The tour ends at the viewpoint, where you can enjoy a well-deserved panoramic view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bulz ciobănesc",
+            "tip": "Ein herzhaftes Gericht aus Polenta, Käse und oft Wurst, perfekt für Radfahrer."
+          },
+          {
+            "name": "Plăcinte",
+            "tip": "Gefüllte Teigtaschen, süß oder salzig, ein schneller und leckerer Snack."
+          },
+          {
+            "name": "Frische Limonade",
+            "tip": "Suchen Sie nach 'limonadă proaspătă', um sich an einem warmen Tag zu erfrischen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bulz ciobănesc",
+            "tip": "Kiadós étel puliszkából, sajtból és gyakran kolbászból, tökéletes kerékpárosoknak."
+          },
+          {
+            "name": "Pite",
+            "tip": "Töltött tésztatáskák, édesen vagy sósan, gyors és finom harapnivaló."
+          },
+          {
+            "name": "Friss limonádé",
+            "tip": "Keressen 'limonadă proaspătă'-t, hogy felfrissüljön egy meleg napon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bulz ciobănesc",
+            "tip": "O mâncare consistentă din mămăligă, brânză și adesea cârnați, perfectă pentru bicicliști."
+          },
+          {
+            "name": "Plăcinte",
+            "tip": "Produse de patiserie umplute, dulci sau sărate, o gustare rapidă și delicioasă."
+          },
+          {
+            "name": "Limonadă proaspătă",
+            "tip": "Căutați 'limonadă proaspătă' pentru a vă răcori într-o zi caldă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bulz ciobănesc",
+            "tip": "A hearty dish of polenta, cheese, and often sausage, perfect for cyclists."
+          },
+          {
+            "name": "Plăcinte",
+            "tip": "Filled pastries, sweet or savory, a quick and delicious snack."
+          },
+          {
+            "name": "Fresh lemonade",
+            "tip": "Look for 'limonadă proaspătă' to refresh yourself on a warm day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cornu-Hügelwanderweg",
+            "tip": "Eine kurze Pause auf dem Weg bietet Stille und Natur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Klostergarten",
+            "tip": "Nach dem Anstieg ist dies der perfekte Ort zum Durchatmen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Blick vom Aussichtspunkt",
+            "tip": "Nehmen Sie sich Zeit, die weite Landschaft in Ruhe zu genießen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cornu-i dombsági túraútvonal",
+            "tip": "Egy rövid szünet az ösvényen csendet és természetet kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kolostorkert",
+            "tip": "A kaptató után ez a tökéletes hely a lélegzetvételre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás a kilátóból",
+            "tip": "Szánjon időt arra, hogy csendben élvezze a tágas tájat.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Traseu de drumeție pe dealurile din Cornu",
+            "tip": "O scurtă pauză pe traseu oferă liniște și natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina mănăstirii",
+            "tip": "După urcare, acesta este locul perfect pentru a respira.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Priveliștea de la punctul de belvedere",
+            "tip": "Luați-vă timp să vă bucurați în liniște de peisajul vast.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cornu Hills Hiking Trail",
+            "tip": "A short break on the trail offers silence and nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Monastery Garden",
+            "tip": "After the climb, this is the perfect place to catch your breath.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from the Viewpoint",
+            "tip": "Take your time to quietly enjoy the vast landscape.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Marmeladen",
+            "tip": "Suchen Sie nach hausgemachten Marmeladen ('dulceață') aus Waldfrüchten."
+          },
+          {
+            "name": "Fahrrad-Reparaturset",
+            "tip": "Es ist immer gut, eines dabei zu haben; vielleicht finden Sie ein lokales Geschäft."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi lekvárok",
+            "tip": "Keressen házi készítésű erdei gyümölcslekvárokat ('dulceață')."
+          },
+          {
+            "name": "Kerékpár-javító készlet",
+            "tip": "Mindig jó, ha van nálad egy; talán talál egy helyi boltot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dulceață locală",
+            "tip": "Căutați dulcețuri de casă din fructe de pădure."
+          },
+          {
+            "name": "Kit de reparații pentru biciclete",
+            "tip": "Este întotdeauna bine să aveți unul la dumneavoastră; poate găsiți un magazin local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local jams",
+            "tip": "Look for homemade jams ('dulceață') made from forest fruits."
+          },
+          {
+            "name": "Bike repair kit",
+            "tip": "It's always good to have one with you; you might find a local shop."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein Mountainbike oder Trekkingrad ist für die Hügel um Cornu am besten geeignet.",
+          "Tragen Sie einen Helm und seien Sie auf den Landstraßen vorsichtig.",
+          "Ein kleiner Rucksack für Wasser, Snacks und eine Regenjacke ist empfehlenswert."
+        ],
+        "hu": [
+          "Egy mountain bike vagy trekking kerékpár a legalkalmasabb a Cornu körüli dombokhoz.",
+          "Viseljen sisakot, és legyen óvatos a vidéki utakon.",
+          "Ajánlott egy kis hátizsák víznek, rágcsálnivalónak és esőkabátnak."
+        ],
+        "ro": [
+          "O bicicletă de munte sau de trekking este cea mai potrivită pentru dealurile din jurul Cornului.",
+          "Purtați cască și fiți prudenți pe drumurile de țară.",
+          "Se recomandă un rucsac mic pentru apă, gustări și o jachetă de ploaie."
+        ],
+        "en": [
+          "A mountain bike or trekking bike is best for the hills around Cornu.",
+          "Wear a helmet and be careful on the country roads.",
+          "A small backpack for water, snacks, and a rain jacket is recommended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:54",
+      "total_km": 24.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Dorfmuseum",
+            "hu": "Parkoló a Falumúzeumnál",
+            "ro": "Parcare la Muzeul Satului",
+            "en": "Parking at the Village Museum"
+          },
+          "coords": [
+            25.695,
+            45.165
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Guter erster Anlaufpunkt mit Parkmöglichkeiten. Von hier aus erkunden Sie den ersten Cluster zu Fuß.",
+            "hu": "Jó első megálló parkolási lehetőséggel. Innen gyalog fedezheti fel az első klasztert.",
+            "ro": "Un prim punct de oprire bun cu parcare. De aici explorați primul cluster pe jos.",
+            "en": "Good first stop with parking. From here, explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Dorfmuseum",
+            "hu": "Falumúzeum",
+            "ro": "Muzeul Satului",
+            "en": "Village Museum"
+          },
+          "coords": [
+            25.695,
+            45.166
+          ],
+          "category": "museums",
+          "arrive_at": "09:11",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Geschichte des ländlichen Lebens in der Walachei ein.",
+            "hu": "Merüljön el a havasalföldi vidéki élet történetében.",
+            "ro": "Cufundați-vă în istoria vieții rurale din Muntenia.",
+            "en": "Immerse yourself in the history of rural life in Wallachia."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Johannes der Täufer",
+            "hu": "Keresztelő Szent János templom",
+            "ro": "Biserica Sfântul Ioan Botezătorul",
+            "en": "Saint John the Baptist Church"
+          },
+          "coords": [
+            25.698,
+            45.163
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:47",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum, um die religiöse Architektur zu sehen.",
+            "hu": "Egy rövid séta a múzeumtól a vallási építészet megtekintéséhez.",
+            "ro": "O scurtă plimbare de la muzeu pentru a vedea arhitectura religioasă.",
+            "en": "A short walk from the museum to see the religious architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz am Kloster Cornu",
+            "hu": "Parkoló a Cornu-i kolostornál",
+            "ro": "Parcare la Mănăstirea Cornu",
+            "en": "Parking at Cornu Monastery"
+          },
+          "coords": [
+            25.684,
+            45.174
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:39",
+          "stay_min": 0,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum nächsten Cluster. Parken Sie hier und erkunden Sie die Hügel.",
+            "hu": "Vezessen a következő klaszterhez. Parkoljon itt, és fedezze fel a dombokat.",
+            "ro": "Conduceți la următorul cluster. Parcați aici și explorați dealurile.",
+            "en": "Drive to the next cluster. Park here and explore the hills."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Cornu",
+            "hu": "Cornu-i kolostor",
+            "ro": "Mănăstirea Cornu",
+            "en": "Cornu Monastery"
+          },
+          "coords": [
+            25.685,
+            45.175
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Finden Sie hier einen Moment der Ruhe und genießen Sie die spirituelle Atmosphäre.",
+            "hu": "Találjon itt egy pillanatnyi nyugalmat, és élvezze a spirituális légkört.",
+            "ro": "Găsiți aici un moment de liniște și bucurați-vă de atmosfera spirituală.",
+            "en": "Find a moment of peace here and enjoy the spiritual atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Cornu Aussichtspunkt",
+            "hu": "Cornu kilátó",
+            "ro": "Punct de belvedere Cornu",
+            "en": "Cornu Viewpoint"
+          },
+          "coords": [
+            25.68,
+            45.18
+          ],
+          "category": "natural features",
+          "arrive_at": "12:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer, aber lohnender Spaziergang vom Kloster zum besten Panoramablick.",
+            "hu": "Rövid, de megéri sétálni a kolostortól a legjobb panorámáért.",
+            "ro": "O plimbare scurtă, dar plină de satisfacții, de la mănăstire la cea mai bună priveliște panoramică.",
+            "en": "A short but rewarding walk from the monastery for the best panoramic view."
+          }
+        },
+        {
+          "name": {
+            "de": "Gemeindepark & Zentrum",
+            "hu": "Községi park és központ",
+            "ro": "Parcul Comunal și Centru",
+            "en": "Community Park & Center"
+          },
+          "coords": [
+            25.701,
+            45.161
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 144,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 14.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zurück ins Zentrum für das Mittagessen und einen entspannten Nachmittag im Park.",
+            "hu": "Vezessen vissza a központba ebédelni és egy pihentető délutánt tölteni a parkban.",
+            "ro": "Conduceți înapoi în centru pentru prânz și o după-amiază relaxantă în parc.",
+            "en": "Drive back to the center for lunch and a relaxing afternoon in the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit dem Auto beginnt am Dorfmuseum, dem Zentrum des ersten Clusters. Hier erkunden Sie zu Fuß die reiche Geschichte Cornus. Anschließend fahren Sie zum zweiten Cluster, dem Kloster Cornu, das hoch in den Hügeln liegt. Ein kurzer Spaziergang führt Sie von dort zum atemberaubenden Aussichtspunkt. Der Tag endet mit einer Rückfahrt ins Dorfzentrum, wo Sie ein spätes Mittagessen genießen und im Gemeindepark entspannen können. Dieses Cluster-Walking-Konzept verbindet Fahrkomfort mit intensiven Spaziergängen.",
+        "hu": "Autós napja a Falumúzeumnál, az első klaszter központjában kezdődik. Innen gyalogosan fedezheti fel Cornu gazdag történelmét. Ezután a második klaszterhez, a dombokon magasan fekvő Cornu-i kolostorhoz hajt. Innen egy rövid séta vezet a lélegzetelállító kilátóhoz. A nap a faluközpontba való visszautazással zárul, ahol elfogyaszthat egy késői ebédet és pihenhet a Községi parkban. Ez a klaszter-séta koncepció ötvözi a vezetés kényelmét az intenzív sétákkal.",
+        "ro": "Ziua cu mașina începe la Muzeul Satului, centrul primului cluster. De aici, explorați pe jos istoria bogată a comunei Cornu. Apoi, conduceți spre al doilea cluster, Mănăstirea Cornu, situată sus pe dealuri. O scurtă plimbare de acolo vă duce la punctul de belvedere uluitor. Ziua se încheie cu o călătorie înapoi în centrul satului, unde vă puteți bucura de un prânz târziu și vă puteți relaxa în Parcul Comunal. Acest concept de cluster-walking combină confortul condusului cu plimbări intense.",
+        "en": "Your day by car begins at the Village Museum, the center of the first cluster. From here, you'll explore Cornu's rich history on foot. Then, drive to the second cluster, Cornu Monastery, located high in the hills. A short walk from there takes you to the breathtaking viewpoint. The day ends with a drive back to the village center, where you can enjoy a late lunch and relax in the Community Park. This cluster-walking concept combines driving comfort with immersive walks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Taverna",
+            "tip": "Bekannt für traditionelle rumänische Gerichte in einer rustikalen Atmosphäre."
+          },
+          {
+            "name": "Păstrăv",
+            "tip": "Probieren Sie frische Forelle, eine Spezialität der Bergregionen."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Ein köstliches Dessert aus gebratenem Teig, Sauerrahm und Marmelade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant Taverna",
+            "tip": "Hagyományos román ételeiről ismert, rusztikus környezetben."
+          },
+          {
+            "name": "Pisztráng",
+            "tip": "Kóstoljon meg friss pisztrángot, a hegyvidéki régiók specialitását."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Ízletes desszert sült tésztából, tejfölből és lekvárból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Taverna",
+            "tip": "Renumit pentru mâncărurile tradiționale românești într-o atmosferă rustică."
+          },
+          {
+            "name": "Păstrăv",
+            "tip": "Încercați păstrăv proaspăt, o specialitate a regiunilor montane."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Un desert delicios din aluat prăjit, smântână și gem."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Taverna",
+            "tip": "Known for traditional Romanian dishes in a rustic atmosphere."
+          },
+          {
+            "name": "Păstrăv",
+            "tip": "Try fresh trout, a specialty of the mountain regions."
+          },
+          {
+            "name": "Papanași",
+            "tip": "A delicious dessert of fried dough, sour cream, and jam."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Kloster",
+            "tip": "Die Gegend um das Kloster ist sehr friedlich, abseits der Hauptstraßen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Aussichtspunkt bei Sonnenuntergang",
+            "tip": "Fahren Sie am späten Nachmittag hinauf, um das beste Licht zu erleben.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Eine Bank im Gemeindepark",
+            "tip": "Ein einfacher, aber effektiver Ort, um sich nach dem Fahren die Beine zu vertreten.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a kolostornál",
+            "tip": "A kolostor környéke nagyon békés, távol a főutaktól.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátó naplementekor",
+            "tip": "Hajtson fel késő délután, hogy a legjobb fényeket élvezhesse.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Egy pad a Községi parkban",
+            "tip": "Egyszerű, de hatékony hely a lábak kinyújtóztatására vezetés után.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare la mănăstire",
+            "tip": "Zona din jurul mănăstirii este foarte pașnică, departe de drumurile principale.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Punct de belvedere la apus",
+            "tip": "Conduceți sus după-amiaza târziu pentru a experimenta cea mai bună lumină.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "O bancă în Parcul Comunal",
+            "tip": "Un loc simplu, dar eficient pentru a vă dezmorți picioarele după condus.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk at the monastery",
+            "tip": "The area around the monastery is very peaceful, away from the main roads.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Viewpoint at sunset",
+            "tip": "Drive up in the late afternoon to experience the best light.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A bench in the Community Park",
+            "tip": "A simple but effective place to stretch your legs after driving.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Produkte am Straßenrand",
+            "tip": "Halten Sie an Ständen an, die lokale Produkte wie Käse, Honig oder Obst verkaufen."
+          },
+          {
+            "name": "Holzschnitzereien",
+            "tip": "Die Region ist bekannt für ihre Holzarbeiten; suchen Sie nach kleinen Werkstätten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termékek az út mentén",
+            "tip": "Álljon meg a helyi termékeket, például sajtot, mézet vagy gyümölcsöt árusító standoknál."
+          },
+          {
+            "name": "Fafaragások",
+            "tip": "A régió a famegmunkálásról ismert; keressen kis műhelyeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse de pe marginea drumului",
+            "tip": "Opriți-vă la tarabele care vând produse locale precum brânză, miere sau fructe."
+          },
+          {
+            "name": "Sculpturi în lemn",
+            "tip": "Regiunea este cunoscută pentru prelucrarea lemnului; căutați mici ateliere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Roadside products",
+            "tip": "Stop at stalls selling local products like cheese, honey, or fruit."
+          },
+          {
+            "name": "Wood carvings",
+            "tip": "The region is known for its woodwork; look for small workshops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie an den ausgewiesenen Plätzen und lassen Sie keine Wertsachen im Auto.",
+          "Die Straßen in den Hügeln können eng sein, fahren Sie vorsichtig.",
+          "Tanken Sie, bevor Sie in die Bergregionen fahren."
+        ],
+        "hu": [
+          "Parkoljon a kijelölt helyeken, és ne hagyjon értéktárgyakat az autóban.",
+          "A dombvidéki utak szűkek lehetnek, vezessen óvatosan.",
+          "Tankoljon, mielőtt a hegyvidéki régiókba indulna."
+        ],
+        "ro": [
+          "Parcați în locurile desemnate și nu lăsați obiecte de valoare în mașină.",
+          "Drumurile de pe dealuri pot fi înguste, conduceți cu prudență.",
+          "Alimentați cu combustibil înainte de a pleca în regiunile montane."
+        ],
+        "en": [
+          "Park in the designated areas and do not leave valuables in the car.",
+          "The roads in the hills can be narrow, drive carefully.",
+          "Refuel before heading into the mountain regions."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bushaltestelle Zentrum",
+            "hu": "Központi buszmegálló",
+            "ro": "Stația de autobuz Centru",
+            "en": "Central Bus Stop"
+          },
+          "coords": [
+            25.702,
+            45.16
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie hier aus, um den zentralen Cluster zu Fuß zu erkunden.",
+            "hu": "Szálljon le itt, hogy gyalog fedezze fel a központi klasztert.",
+            "ro": "Coborâți aici pentru a explora pe jos clusterul central.",
+            "en": "Get off here to explore the central cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Gemeindepark & Heldenmahnmal",
+            "hu": "Községi park és Hősök Emlékműve",
+            "ro": "Parcul Comunal & Monumentul Eroilor",
+            "en": "Community Park & Heroes' Monument"
+          },
+          "coords": [
+            25.701,
+            45.161
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:12",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kombinierter Besuch des Parks und des nahegelegenen Denkmals.",
+            "hu": "A park és a közeli emlékmű kombinált látogatása.",
+            "ro": "O vizită combinată la parc și la monumentul din apropiere.",
+            "en": "A combined visit to the park and the nearby monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Johannes der Täufer",
+            "hu": "Keresztelő Szent János templom",
+            "ro": "Biserica Sfântul Ioan Botezătorul",
+            "en": "Saint John the Baptist Church"
+          },
+          "coords": [
+            25.698,
+            45.163
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch das Dorfzentrum führt Sie zu dieser schönen Kirche.",
+            "hu": "Egy rövid séta a faluközponton keresztül elvezeti ehhez a szép templomhoz.",
+            "ro": "O scurtă plimbare prin centrul satului vă duce la această frumoasă biserică.",
+            "en": "A short walk through the village center takes you to this beautiful church."
+          }
+        },
+        {
+          "name": {
+            "de": "Dorfmuseum",
+            "hu": "Falumúzeum",
+            "ro": "Muzeul Satului",
+            "en": "Village Museum"
+          },
+          "coords": [
+            25.695,
+            45.165
+          ],
+          "category": "museums",
+          "arrive_at": "11:17",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus (Maxi-Taxi) zur Haltestelle in der Nähe des Museums.",
+            "hu": "Vegyen egy helyi buszt (maxi-taxi) a múzeum melletti megállóhoz.",
+            "ro": "Luați un autobuz local (maxi-taxi) până la stația de lângă muzeu.",
+            "en": "Take a local bus (maxi-taxi) to the stop near the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Cornu & Aussichtspunkt",
+            "hu": "Cornu-i kolostor és kilátó",
+            "ro": "Mănăstirea Cornu & Punct de belvedere",
+            "en": "Cornu Monastery & Viewpoint"
+          },
+          "coords": [
+            25.685,
+            45.175
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:17",
+          "stay_min": 158,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der letzte Bus bringt Sie in die Nähe des Klosters, von wo aus Sie zum Aussichtspunkt wandern.",
+            "hu": "Az utolsó busz a kolostor közelébe visz, ahonnan felsétálhat a kilátóhoz.",
+            "ro": "Ultimul autobuz vă duce aproape de mănăstire, de unde puteți urca la punctul de belvedere.",
+            "en": "The final bus takes you near the monastery, from where you can hike to the viewpoint."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die lokalen Busse (Maxi-Taxis), um Cornu zu erkunden. Beginnen Sie im Zentrum und spazieren Sie durch den Park zur Kirche. Ein kurzer Bus-Hop bringt Sie zum Dorfmuseum, wo Sie in die lokale Kultur eintauchen. Nach dem Mittagessen bringt Sie ein weiterer Bus in die Hügel. Dort besuchen Sie das ruhige Kloster und beenden den Tag mit einem Spaziergang zum Aussichtspunkt, bevor Sie den Bus zurück ins Zentrum nehmen.",
+        "hu": "Használja a helyi buszokat (maxi-taxikat) Cornu felfedezéséhez. Kezdje a központban, és sétáljon át a parkon a templomhoz. Egy rövid buszozás elviszi a Falumúzeumhoz, ahol elmerülhet a helyi kultúrában. Ebéd után egy másik busz felviszi a dombokra. Ott meglátogatja a csendes kolostort, és a napot egy sétával zárja a kilátóhoz, mielőtt visszabuszozna a központba.",
+        "ro": "Folosiți autobuzele locale (maxi-taxi) pentru a explora Cornu. Începeți din centru și plimbați-vă prin parc până la biserică. O scurtă călătorie cu autobuzul vă duce la Muzeul Satului, unde vă pute-ți cufunda în cultura locală. După prânz, un alt autobuz vă duce pe dealuri. Acolo, vizitați mănăstirea liniștită și încheiați ziua cu o plimbare până la punctul de belvedere înainte de a lua autobuzul înapoi în centru.",
+        "en": "Use the local buses (maxi-taxis) to explore Cornu. Start in the center and walk through the park to the church. A short bus hop takes you to the Village Museum to immerse yourself in local culture. After lunch, another bus takes you up into the hills. There, you'll visit the quiet monastery and end the day with a walk to the viewpoint before taking the bus back to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Covrigi",
+            "tip": "Ein beliebter rumänischer Snack, ähnlich wie ein Brezel, perfekt für unterwegs."
+          },
+          {
+            "name": " mici",
+            "tip": "Gegrillte Hackfleischröllchen, ein Klassiker des rumänischen Streetfoods."
+          },
+          {
+            "name": "Restaurant Casa Cornu",
+            "tip": "Ein gutes Ziel für ein ausgiebiges Mittagessen in der Nähe einer Bushaltestelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Perec (Covrigi)",
+            "tip": "Népszerű román snack, hasonló a perechez, tökéletes útközben."
+          },
+          {
+            "name": "Mics (mici)",
+            "tip": "Grillezett darált hús tekercsek, a román street food klasszikusa."
+          },
+          {
+            "name": "Casa Cornu étterem",
+            "tip": "Jó célpont egy kiadós ebédhez egy buszmegálló közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Covrigi",
+            "tip": "O gustare populară românească, similară unui covrig, perfectă pentru drum."
+          },
+          {
+            "name": "Mici",
+            "tip": "Rulouri de carne tocată la grătar, un clasic al street-food-ului românesc."
+          },
+          {
+            "name": "Restaurant Casa Cornu",
+            "tip": "O destinație bună pentru un prânz consistent lângă o stație de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Covrigi",
+            "tip": "A popular Romanian snack, similar to a pretzel, perfect for on the go."
+          },
+          {
+            "name": "Mici",
+            "tip": "Grilled minced meat rolls, a classic of Romanian street food."
+          },
+          {
+            "name": "Casa Cornu Restaurant",
+            "tip": "A good destination for a hearty lunch near a bus stop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fensterplatz im Bus",
+            "tip": "Genießen Sie die vorbeiziehende Landschaft zwischen den Stopps.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kloster Cornu",
+            "tip": "Auch mit öffentlichen Verkehrsmitteln erreichbar, bietet dieser Ort eine Flucht vor dem Lärm.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Wanderung zum Aussichtspunkt",
+            "tip": "Der Spaziergang nach der Busfahrt ist eine großartige Möglichkeit, die Ruhe zu genießen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ablak melletti ülés a buszon",
+            "tip": "Élvezze a megállók között elsuhanó tájat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cornu-i kolostor",
+            "tip": "Tömegközlekedéssel is elérhető, ez a hely menedéket nyújt a zaj elől.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Túra a kilátóhoz",
+            "tip": "A buszozás utáni séta remek lehetőség a csend élvezetére.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Loc la fereastră în autobuz",
+            "tip": "Bucurați-vă de peisajul care trece între opriri.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mănăstirea Cornu",
+            "tip": "Accesibil și cu transportul public, acest loc oferă o evadare din zgomot.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Drumeție la punctul de belvedere",
+            "tip": "Plimbarea după călătoria cu autobuzul este o modalitate excelentă de a vă bucura de liniște.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Window seat on the bus",
+            "tip": "Enjoy the passing scenery between stops.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cornu Monastery",
+            "tip": "Accessible by public transport, this place offers an escape from the noise.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Hike to the viewpoint",
+            "tip": "The walk after the bus ride is a great way to enjoy the quiet.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kleine Läden im Zentrum",
+            "tip": "In der Nähe der zentralen Bushaltestelle finden Sie kleine Geschäfte mit lokalen Waren."
+          },
+          {
+            "name": "Postkarten",
+            "tip": "Kaufen Sie Postkarten im Dorfmuseum als Andenken an Ihre Reise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kis boltok a központban",
+            "tip": "A központi buszmegálló közelében kis boltokat talál helyi árukkal."
+          },
+          {
+            "name": "Képeslapok",
+            "tip": "Vásároljon képeslapokat a Falumúzeumban utazása emlékére."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mici magazine în centru",
+            "tip": "Lângă stația centrală de autobuz veți găsi mici magazine cu produse locale."
+          },
+          {
+            "name": "Cărți poștale",
+            "tip": "Cumpărați cărți poștale de la Muzeul Satului ca amintire a călătoriei dumneavoastră."
+          }
+        ],
+        "en": [
+          {
+            "name": "Small shops in the center",
+            "tip": "Near the central bus stop you will find small shops with local goods."
+          },
+          {
+            "name": "Postcards",
+            "tip": "Buy postcards at the Village Museum as a souvenir of your trip."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich im Voraus über die Fahrpläne der Maxi-Taxis, da diese unregelmäßig sein können.",
+          "Haben Sie Kleingeld für die Bustickets parat.",
+          "Planen Sie Pufferzeiten zwischen den Busfahrten ein."
+        ],
+        "hu": [
+          "Érdeklődjön előre a maxi-taxik menetrendjéről, mivel az szabálytalan lehet.",
+          "Készítsen elő aprópénzt a buszjegyekhez.",
+          "Tervezzen pufferidőt a buszutak között."
+        ],
+        "ro": [
+          "Informați-vă în avans despre orarele maxi-taxi-urilor, deoarece acestea pot fi neregulate.",
+          "Aveți la îndemână bani mărunți pentru biletele de autobuz.",
+          "Planificați timpi de rezervă între călătoriile cu autobuzul."
+        ],
+        "en": [
+          "Find out about the maxi-taxi schedules in advance, as they can be irregular.",
+          "Have small change ready for bus tickets.",
+          "Plan buffer times between bus journeys."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1484 @@
+{
+  "city_id": "greece-tyrnavos-cities-v2",
+  "anchor": {
+    "name": "Tyrnavos",
+    "coords": [
+      22.2833,
+      39.7333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentralplatz",
+            "hu": "Központi tér",
+            "ro": "Piața Centrală",
+            "en": "Central Square"
+          },
+          "coords": [
+            22.2835,
+            39.7335
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Kaffee in einem der lokalen Kafenions.",
+            "hu": "Indítsa a napot egy kávéval a helyi kávézók egyikében.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele locale.",
+            "en": "Start your day with a coffee at one of the local kafenions."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Tyrnavos",
+            "hu": "Tirnavoszi városháza",
+            "ro": "Primăria din Tyrnavos",
+            "en": "Tyrnavos Town Hall"
+          },
+          "coords": [
+            22.284,
+            39.7345
+          ],
+          "category": "historical",
+          "arrive_at": "09:40",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neoklassizistische Architektur des Gebäudes.",
+            "hu": "Csodálja meg az épület neoklasszikus építészetét.",
+            "ro": "Admirați arhitectura neoclasică a clădirii.",
+            "en": "Admire the neoclassical architecture of the building."
+          }
+        },
+        {
+          "name": {
+            "de": "Bibliothek von Tyrnavos",
+            "hu": "Tirnavoszi Könyvtár",
+            "ro": "Biblioteca din Tyrnavos",
+            "en": "Tyrnavos Library"
+          },
+          "coords": [
+            22.2848,
+            39.733
+          ],
+          "category": "theatres",
+          "arrive_at": "10:05",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Prüfen Sie, ob es kulturelle Veranstaltungen oder Ausstellungen gibt.",
+            "hu": "Nézze meg, vannak-e kulturális események vagy kiállítások.",
+            "ro": "Verificați dacă există evenimente culturale sau expoziții.",
+            "en": "Check if there are any cultural events or exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Gedeon",
+            "hu": "Szent Gedeon-templom",
+            "ro": "Biserica Sfântul Gedeon",
+            "en": "Church of Agios Gedeon"
+          },
+          "coords": [
+            22.282,
+            39.735
+          ],
+          "category": "churches",
+          "arrive_at": "10:45",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beachten Sie die Fresken und die friedliche Atmosphäre im Inneren.",
+            "hu": "Figyelje meg a freskókat és a békés belső hangulatot.",
+            "ro": "Observați frescele și atmosfera pașnică din interior.",
+            "en": "Note the frescoes and the peaceful atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Folklore-Museum",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul de Folclor",
+            "en": "Folklore Museum"
+          },
+          "coords": [
+            22.2815,
+            39.7325
+          ],
+          "category": "museums",
+          "arrive_at": "11:35",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die reiche Geschichte und die Traditionen der Region.",
+            "hu": "Ismerje meg a régió gazdag történelmét és hagyományait.",
+            "ro": "Aflați despre istoria bogată și tradițiile regiunii.",
+            "en": "Learn about the rich history and traditions of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Agia Paraskevi Brücke",
+            "hu": "Agia Paraskevi híd",
+            "ro": "Podul Agia Paraskevi",
+            "en": "Agia Paraskevi Bridge"
+          },
+          "coords": [
+            22.286,
+            39.732
+          ],
+          "category": "bridges",
+          "arrive_at": "13:30",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein schöner Ort für einen kurzen Spaziergang am Nachmittag.",
+            "hu": "Szép hely egy rövid délutáni sétához.",
+            "ro": "Un loc frumos pentru o scurtă plimbare de după-amiază.",
+            "en": "A lovely spot for a short afternoon walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Tsipouro-Destillerie Museum",
+            "hu": "Tsipouro Lepárló Múzeum",
+            "ro": "Muzeul Distileriei de Tsipouro",
+            "en": "Tsipouro Distillery Museum"
+          },
+          "coords": [
+            22.29,
+            39.73
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:10",
+          "stay_min": 95,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Verkostung am Ende der Tour!",
+            "hu": "Ne hagyja ki a kóstolót a túra végén!",
+            "ro": "Nu ratați degustarea de la sfârșitul turului!",
+            "en": "Don't miss the tasting at the end of the tour!"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang am belebten Zentralplatz von Tyrnavos, dem Herzen der Stadt. Der Morgen ist der Erkundung des kulturellen Erbes gewidmet, vom neoklassizistischen Rathaus bis zur ruhigen Agios Gedeon Kirche. Jeder Schritt enthüllt ein Stück der lokalen Geschichte. Nach einem Vormittag voller Kultur und Geschichte tauchen Sie im Folklore-Museum tiefer in die Traditionen der Region ein. Planen Sie ein gemütliches Mittagessen in einer Taverne in der Nähe ein, um lokale Spezialitäten zu probieren. Der Nachmittag führt Sie über die historische Agia Paraskevi Brücke, ideal für einen entspannten Spaziergang. Lassen Sie den Tag im Tsipouro-Destillerie-Museum ausklingen, wo Sie das berühmteste Produkt der Stadt kennenlernen und verkosten können. Ein perfekter Abschluss eines erfüllten Tages.",
+        "hu": "Kezdje a gyalogtúrát Tirnavosz nyüzsgő központi terén, a város szívében. A délelőttöt a kulturális örökség felfedezésének szenteljük, a neoklasszikus városházától a békés Szent Gedeon-templomig. Minden lépés egy darabka helyi történelmet tár fel. A kultúrával és történelemmel teli délelőtt után a Néprajzi Múzeumban mélyebbre merülhet a régió hagyományaiban. Tervezzen egy kellemes ebédet egy közeli tavernában, hogy megkóstolja a helyi specialitásokat. A délután a történelmi Agia Paraskevi hídon vezet át, amely ideális egy pihentető sétához. Zárja a napot a Tsipouro Lepárló Múzeumban, ahol megismerheti és megkóstolhatja a város leghíresebb termékét. Tökéletes befejezése egy tartalmas napnak.",
+        "ro": "Începeți turul pietonal în vibranta Piață Centrală din Tyrnavos, inima orașului. Dimineața este dedicată explorării patrimoniului cultural, de la primăria neoclasică la liniștita Biserică Sfântul Gedeon. Fiecare pas dezvăluie o bucată din istoria locală. După o dimineață de cultură și istorie, aprofundați tradițiile regiunii la Muzeul de Folclor. Planificați un prânz relaxat la o tavernă din apropiere pentru a gusta specialitățile locale. După-amiaza vă poartă peste podul istoric Agia Paraskevi, perfect pentru o plimbare relaxantă. Încheiați ziua la Muzeul Distileriei de Tsipouro, unde veți învăța despre și veți degusta cel mai faimos produs al orașului. Un final perfect pentru o zi plină.",
+        "en": "Start your walking tour in the vibrant Central Square of Tyrnavos, the heart of the city. The morning is dedicated to exploring the cultural heritage, from the neoclassical Town Hall to the serene Church of Agios Gedeon. Each step reveals a piece of local history. After a morning of culture and history, delve deeper into the region's traditions at the Folklore Museum. Plan for a leisurely lunch at a nearby taverna to sample local specialties. The afternoon takes you across the historic Agia Paraskevi Bridge, perfect for a relaxing stroll. Conclude your day at the Tsipouro Distillery Museum, where you'll learn about and taste the city's most famous product. A perfect end to a fulfilling day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tsipouro",
+            "tip": "Probieren Sie den lokalen Brand, der hier eine lange Tradition hat."
+          },
+          {
+            "name": "Lokale Käsesorten",
+            "tip": "Suchen Sie nach Feta und Kaseri aus der Region Thessalien."
+          },
+          {
+            "name": "Taverna 'O Platanos'",
+            "tip": "Bekannt für traditionelle griechische Gerichte und eine gemütliche Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tsipouro",
+            "tip": "Kóstolja meg a helyi párlatot, amelynek nagy hagyománya van itt."
+          },
+          {
+            "name": "Helyi sajtok",
+            "tip": "Keressen feta és kaseri sajtot a thesszáliai régióból."
+          },
+          {
+            "name": "Taverna 'O Platanos'",
+            "tip": "Hagyományos görög ételeiről és hangulatos légköréről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tsipouro",
+            "tip": "Încercați băutura spirtoasă locală, care are o lungă tradiție aici."
+          },
+          {
+            "name": "Brânzeturi locale",
+            "tip": "Căutați Feta și Kaseri din regiunea Tesalia."
+          },
+          {
+            "name": "Taverna 'O Platanos'",
+            "tip": "Cunoscută pentru mâncărurile grecești tradiționale și o atmosferă primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tsipouro",
+            "tip": "Try the local spirit, which has a long tradition here."
+          },
+          {
+            "name": "Local Cheeses",
+            "tip": "Look for Feta and Kaseri from the Thessaly region."
+          },
+          {
+            "name": "Taverna 'O Platanos'",
+            "tip": "Known for traditional Greek dishes and a cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Titarisios",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses in der Nähe der Brücke.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Prophet Elias Hügel",
+            "tip": "Etwas weiter entfernt, aber die Aussicht und die Ruhe sind es wert.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Innenhof der Agios Gedeon Kirche",
+            "tip": "Ein Moment der Stille und Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Titarisios folyó partja",
+            "tip": "Csendes séta a folyó mentén a híd közelében.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Illés Próféta-hegy",
+            "tip": "Kicsit távolabb van, de a kilátás és a csend megéri.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Szent Gedeon-templom udvara",
+            "tip": "A csend és az elmélkedés pillanata.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Titarisios",
+            "tip": "O plimbare liniștită de-a lungul râului, lângă pod.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dealul Profetul Ilie",
+            "tip": "Puțin mai departe, dar priveliștea și liniștea merită.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curtea Bisericii Sfântul Gedeon",
+            "tip": "Un moment de liniște și reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Titarisios River",
+            "tip": "A quiet walk along the river near the bridge.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Prophet Elias Hill",
+            "tip": "A bit further out, but the views and tranquility are worth it.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Courtyard of Agios Gedeon Church",
+            "tip": "A moment of silence and contemplation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte, Oliven und lokalen Wein."
+          },
+          {
+            "name": "Tsipouro-Geschäfte",
+            "tip": "Eine Flasche des berühmten lokalen Brandes als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket, olajbogyót és helyi bort."
+          },
+          {
+            "name": "Tsipouro boltok",
+            "tip": "Egy üveg a híres helyi párlatból szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse proaspete, măsline și vin local."
+          },
+          {
+            "name": "Magazine de Tsipouro",
+            "tip": "O sticlă din faimoasa băutură locală ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for fresh produce, olives, and local wine."
+          },
+          {
+            "name": "Tsipouro Shops",
+            "tip": "A bottle of the famous local spirit makes a great souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie eine Wasserflasche mit, besonders an warmen Tagen.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Genießen Sie die Atmosphäre und nehmen Sie sich Zeit für Pausen in den Cafés."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "Vigyen magával egy üveg vizet, különösen meleg napokon.",
+          "A központi látnivalók többsége könnyen elérhető gyalog.",
+          "Élvezze a hangulatot, és szánjon időt a kávézókban való pihenésre."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge mult pe jos.",
+          "Luați o sticlă de apă cu voi, mai ales în zilele călduroase.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Bucurați-vă de atmosferă și luați-vă timp pentru pauze la cafenele."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Bring a water bottle, especially on warm days.",
+          "Most central sights are easily within walking distance.",
+          "Enjoy the atmosphere and take time for breaks at the cafes."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentralplatz",
+            "hu": "Központi tér",
+            "ro": "Piața Centrală",
+            "en": "Central Square"
+          },
+          "coords": [
+            22.2835,
+            39.7335
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Holen Sie sich Ihr Fahrrad und beginnen Sie die Tour im Herzen der Stadt.",
+            "hu": "Vegye fel a kerékpárt, és kezdje a túrát a város szívében.",
+            "ro": "Luați-vă bicicleta și începeți turul în inima orașului.",
+            "en": "Pick up your bike and start the tour in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Folklore-Museum",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul de Folclor",
+            "en": "Folklore Museum"
+          },
+          "coords": [
+            22.2815,
+            39.7325
+          ],
+          "category": "museums",
+          "arrive_at": "09:35",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad sicher, bevor Sie in die Geschichte eintauchen.",
+            "hu": "Parkolja le biztonságosan a kerékpárt, mielőtt elmerülne a történelemben.",
+            "ro": "Parcați-vă bicicleta în siguranță înainte de a vă adânci în istorie.",
+            "en": "Park your bike safely before diving into history."
+          }
+        },
+        {
+          "name": {
+            "de": "Agia Paraskevi Brücke",
+            "hu": "Agia Paraskevi híd",
+            "ro": "Podul Agia Paraskevi",
+            "en": "Agia Paraskevi Bridge"
+          },
+          "coords": [
+            22.286,
+            39.732
+          ],
+          "category": "bridges",
+          "arrive_at": "11:15",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die Fahrt über den Fluss und die Aussicht.",
+            "hu": "Élvezze az átkelést a folyón és a kilátást.",
+            "ro": "Bucurați-vă de traversarea râului și de priveliște.",
+            "en": "Enjoy the ride across the river and the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Tsipouro-Destillerie Museum",
+            "hu": "Tsipouro Lepárló Múzeum",
+            "ro": "Muzeul Distileriei de Tsipouro",
+            "en": "Tsipouro Distillery Museum"
+          },
+          "coords": [
+            22.29,
+            39.73
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:45",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Besuch mit einem Mittagessen in der Nähe.",
+            "hu": "Kombinálja a látogatást egy ebéddel a közelben.",
+            "ro": "Combinați vizita cu un prânz în apropiere.",
+            "en": "Combine the visit with lunch nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Gedeon",
+            "hu": "Szent Gedeon-templom",
+            "ro": "Biserica Sfântul Gedeon",
+            "en": "Church of Agios Gedeon"
+          },
+          "coords": [
+            22.282,
+            39.735
+          ],
+          "category": "churches",
+          "arrive_at": "14:00",
+          "stay_min": 35,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Eine ruhige Pause am Nachmittag an diesem spirituellen Ort.",
+            "hu": "Egy csendes délutáni pihenő ezen a spirituális helyen.",
+            "ro": "O pauză liniștită de după-amiază în acest loc spiritual.",
+            "en": "A quiet afternoon break at this spiritual place."
+          }
+        },
+        {
+          "name": {
+            "de": "Prophet Elias Hügel",
+            "hu": "Illés Próféta-hegy",
+            "ro": "Dealul Profetul Ilie",
+            "en": "Prophet Elias Hill"
+          },
+          "coords": [
+            22.275,
+            39.74
+          ],
+          "category": "natural features",
+          "arrive_at": "15:00",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Der Anstieg ist die Belohnung wert: Panoramablick auf die Stadt!",
+            "hu": "A mászás megéri a jutalmat: panorámás kilátás a városra!",
+            "ro": "Urcușul merită recompensa: vederi panoramice ale orașului!",
+            "en": "The climb is worth the reward: panoramic views of the city!"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Rad und starten Sie am Zentralplatz für einen aktiven Tag. Die Radtour führt Sie zunächst zum Folklore-Museum, um in die lokalen Traditionen einzutauchen. Danach überqueren Sie die Agia Paraskevi Brücke mit einer schönen Aussicht. Der Vormittag gipfelt im Tsipouro-Destillerie-Museum, wo eine Tour und eine Verkostung auf Sie warten. Dies ist auch der perfekte Zeitpunkt für ein herzhaftes Mittagessen. Am Nachmittag radeln Sie zur spirituellen Ruhe der Agios Gedeon Kirche, bevor Sie die Herausforderung des Prophet Elias Hügels annehmen. Der Aufstieg wird mit einer atemberaubenden Aussicht belohnt, die den perfekten Abschluss Ihrer Radtour bildet. Genießen Sie den Sonnenuntergang von oben.",
+        "hu": "Pattanjon kerékpárra, és induljon a Központi térről egy aktív napra. A kerékpártúra először a Néprajzi Múzeumhoz vezet, hogy elmerüljön a helyi hagyományokban. Ezután átkel az Agia Paraskevi hídon, ahonnan gyönyörű a kilátás. A délelőtt a Tsipouro Lepárló Múzeumban csúcsosodik ki, ahol túra és kóstoló várja. Ez a tökéletes időpont egy kiadós ebédhez is. Délután tekerjen el a Szent Gedeon-templom spirituális nyugalmához, mielőtt elfogadná az Illés Próféta-hegy kihívását. A mászást lenyűgöző kilátás jutalmazza, amely tökéletes lezárása a kerékpártúrának. Élvezze a naplementét fentről.",
+        "ro": "Urcați-vă pe bicicletă și porniți din Piața Centrală pentru o zi activă. Turul cu bicicleta vă duce mai întâi la Muzeul de Folclor pentru a vă cufunda în tradițiile locale. Apoi, veți traversa podul Agia Paraskevi, bucurându-vă de priveliște. Dimineața culminează la Muzeul Distileriei de Tsipouro, unde vă așteaptă un tur și o degustare. Acesta este și momentul perfect pentru un prânz copios. După-amiaza, pedalați spre liniștea spirituală a Bisericii Sfântul Gedeon înainte de a accepta provocarea Dealului Profetul Ilie. Urcarea este răsplătită cu vederi uluitoare, oferind finalul perfect pentru turul dvs. cu bicicleta. Bucurați-vă de apus de sus.",
+        "en": "Get on your bike and start from the Central Square for an active day. The bike tour first takes you to the Folklore Museum to immerse yourself in local traditions. Afterwards, you'll cross the Agia Paraskevi Bridge enjoying the view. The morning culminates at the Tsipouro Distillery Museum, where a tour and tasting await. This is also the perfect time for a hearty lunch. In the afternoon, cycle to the spiritual tranquility of the Church of Agios Gedeon before taking on the challenge of Prophet Elias Hill. The climb is rewarded with stunning views, providing the perfect end to your bike tour. Enjoy the sunset from the top."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bougatsa",
+            "tip": "Ein süßes oder herzhaftes Gebäck, perfekt für ein schnelles Frühstück."
+          },
+          {
+            "name": "Souvlaki",
+            "tip": "Ein Muss in Griechenland, ideal für ein schnelles Mittagessen unterwegs."
+          },
+          {
+            "name": "Taverna 'To Steki'",
+            "tip": "Bietet eine große Auswahl an gegrilltem Fleisch und lokalen Weinen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bougatsa",
+            "tip": "Édes vagy sós péksütemény, tökéletes egy gyors reggelihez."
+          },
+          {
+            "name": "Souvlaki",
+            "tip": "Görögországban kötelező, ideális egy gyors ebédhez útközben."
+          },
+          {
+            "name": "Taverna 'To Steki'",
+            "tip": "Grillezett húsok és helyi borok széles választékát kínálja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bougatsa",
+            "tip": "Un produs de patiserie dulce sau sărat, perfect pentru un mic dejun rapid."
+          },
+          {
+            "name": "Souvlaki",
+            "tip": "O necesitate în Grecia, ideal pentru un prânz rapid pe drum."
+          },
+          {
+            "name": "Taverna 'To Steki'",
+            "tip": "Oferă o selecție largă de carne la grătar și vinuri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bougatsa",
+            "tip": "A sweet or savory pastry, perfect for a quick breakfast."
+          },
+          {
+            "name": "Souvlaki",
+            "tip": "A must-try in Greece, great for a quick lunch on the go."
+          },
+          {
+            "name": "Taverna 'To Steki'",
+            "tip": "Offers a wide selection of grilled meats and local wines."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Prophet Elias Hügel",
+            "tip": "Der beste Ort für einen Panoramablick und einen ruhigen Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Am Flussufer",
+            "tip": "Machen Sie eine Pause auf einer Bank am Titarisios.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Gassen abseits des Zentrums",
+            "tip": "Entdecken Sie die ruhigeren Wohngegenden mit dem Fahrrad.",
+            "emoji": "🚲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Illés Próféta-hegy",
+            "tip": "A legjobb hely a panorámás kilátáshoz és egy csendes naplementéhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A folyóparton",
+            "tip": "Pihenjen meg egy padon a Titarisios partján.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Elhagyatott sikátorok",
+            "tip": "Fedezze fel a csendesebb lakónegyedeket kerékpárral.",
+            "emoji": "🚲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Profetul Ilie",
+            "tip": "Cel mai bun loc pentru vederi panoramice și un apus liniștit.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pe malul râului",
+            "tip": "Luați o pauză pe o bancă de-a lungul râului Titarisios.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Străduțe lăturalnice",
+            "tip": "Explorați zonele rezidențiale mai liniștite cu bicicleta.",
+            "emoji": "🚲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Prophet Elias Hill",
+            "tip": "The best spot for panoramic views and a quiet sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "By the riverbank",
+            "tip": "Take a break on a bench along the Titarisios.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Back alleys",
+            "tip": "Explore the quieter residential areas by bike.",
+            "emoji": "🚲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Für eventuell benötigtes Zubehör oder Reparaturen."
+          },
+          {
+            "name": "Lokale Delikatessen",
+            "tip": "Nehmen Sie Honig oder Olivenöl aus der Region mit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Szükséges kiegészítőkért vagy javításokért."
+          },
+          {
+            "name": "Helyi finomságok",
+            "tip": "Vigyen haza mézet vagy olívaolajat a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Pentru orice accesorii sau reparații de care ați putea avea nevoie."
+          },
+          {
+            "name": "Delicatese locale",
+            "tip": "Luați acasă miere sau ulei de măsline din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "For any accessories or repairs you might need."
+          },
+          {
+            "name": "Local Delicacies",
+            "tip": "Take home some regional honey or olive oil."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Zustand des Fahrrads vor der Abfahrt.",
+          "Tragen Sie einen Helm für Ihre Sicherheit.",
+          "Der Anstieg zum Prophet Elias Hügel erfordert eine gute Kondition.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, wenn Sie es parken."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpár állapotát.",
+          "Viseljen sisakot a biztonsága érdekében.",
+          "Az Illés Próféta-hegyre való feljutás jó kondíciót igényel.",
+          "Mindig zárja le a kerékpárt, amikor leparkolja."
+        ],
+        "ro": [
+          "Verificați starea bicicletei înainte de a porni.",
+          "Purtați o cască pentru siguranța dumneavoastră.",
+          "Urcarea pe Dealul Profetul Ilie necesită o condiție fizică bună.",
+          "Încuietăți întotdeauna bicicleta bine când o parcați."
+        ],
+        "en": [
+          "Check the condition of the bike before setting off.",
+          "Wear a helmet for your safety.",
+          "The climb to Prophet Elias Hill requires a good level of fitness.",
+          "Always lock your bike securely when parking it."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Prophet Elias Hügel",
+            "hu": "Illés Próféta-hegy",
+            "ro": "Dealul Profetul Ilie",
+            "en": "Prophet Elias Hill"
+          },
+          "coords": [
+            22.275,
+            39.74
+          ],
+          "category": "natural features",
+          "arrive_at": "09:20",
+          "stay_min": 40,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einer fantastischen Aussicht auf die Stadt und die Ebene von Thessalien.",
+            "hu": "Kezdje a napot egy fantasztikus kilátással a városra és a thesszáliai síkságra.",
+            "ro": "Începeți ziua cu o priveliște fantastică a orașului și a câmpiei Tesaliei.",
+            "en": "Start the day with a fantastic view of the city and the Thessalian plain."
+          }
+        },
+        {
+          "name": {
+            "de": "Tsipouro-Destillerie Museum",
+            "hu": "Tsipouro Lepárló Múzeum",
+            "ro": "Muzeul Distileriei de Tsipouro",
+            "en": "Tsipouro Distillery Museum"
+          },
+          "coords": [
+            22.29,
+            39.73
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:20",
+          "stay_min": 100,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Fahren Sie vorsichtig, nachdem Sie den lokalen Tsipouro probiert haben! Am besten als Beifahrer.",
+            "hu": "Vezessen óvatosan, miután megkóstolta a helyi tsipourót! A legjobb, ha utasként teszi.",
+            "ro": "Conduceți cu prudență după ce ați gustat tsipouro-ul local! Cel mai bine ca pasager.",
+            "en": "Drive carefully after tasting the local tsipouro! Best as a passenger."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentralplatz (Parken)",
+            "hu": "Központi tér (Parkolás)",
+            "ro": "Piața Centrală (Parcare)",
+            "en": "Central Square (Parking)"
+          },
+          "coords": [
+            22.284,
+            39.7338
+          ],
+          "category": "squares",
+          "arrive_at": "12:15",
+          "stay_min": 20,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie das Zentrum zu Fuß. Guter Ausgangspunkt für das Mittagessen.",
+            "hu": "Parkoljon itt, és fedezze fel a központot gyalog. Jó kiindulópont az ebédhez.",
+            "ro": "Parcați aici și explorați centrul pe jos. Un bun punct de plecare pentru prânz.",
+            "en": "Park here and explore the center on foot. Good starting point for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Tyrnavos",
+            "hu": "Tirnavoszi városháza",
+            "ro": "Primăria din Tyrnavos",
+            "en": "Tyrnavos Town Hall"
+          },
+          "coords": [
+            22.284,
+            39.7345
+          ],
+          "category": "historical",
+          "arrive_at": "12:40",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz zum architektonischen Juwel der Stadt.",
+            "hu": "Egy rövid séta a parkolótól a város építészeti gyöngyszeméhez.",
+            "ro": "O scurtă plimbare de la parcare la bijuteria arhitecturală a orașului.",
+            "en": "A short walk from the parking lot to the city's architectural gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Folklore-Museum",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul de Folclor",
+            "en": "Folklore Museum"
+          },
+          "coords": [
+            22.2815,
+            39.7325
+          ],
+          "category": "museums",
+          "arrive_at": "13:05",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nach dem Mittagessen tauchen Sie in die faszinierende Vergangenheit von Tyrnavos ein.",
+            "hu": "Ebéd után merüljön el Tirnavosz lenyűgöző múltjában.",
+            "ro": "După prânz, scufundați-vă în trecutul fascinant al orașului Tyrnavos.",
+            "en": "After lunch, immerse yourself in the fascinating past of Tyrnavos."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Gedeon",
+            "hu": "Szent Gedeon-templom",
+            "ro": "Biserica Sfântul Gedeon",
+            "en": "Church of Agios Gedeon"
+          },
+          "coords": [
+            22.282,
+            39.735
+          ],
+          "category": "churches",
+          "arrive_at": "15:10",
+          "stay_min": 35,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein Ort der Ruhe, nur einen kurzen Spaziergang vom Museum entfernt.",
+            "hu": "A nyugalom helye, csak egy rövid sétára a múzeumtól.",
+            "ro": "Un loc de liniște, la doar o scurtă plimbare de muzeu.",
+            "en": "A place of tranquility just a short walk from the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Agia Paraskevi Brücke",
+            "hu": "Agia Paraskevi híd",
+            "ro": "Podul Agia Paraskevi",
+            "en": "Agia Paraskevi Bridge"
+          },
+          "coords": [
+            22.286,
+            39.732
+          ],
+          "category": "bridges",
+          "arrive_at": "16:15",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang mit einem Blick von dieser historischen Brücke.",
+            "hu": "Fejezze be a sétát egy pillantással erről a történelmi hídról.",
+            "ro": "Încheiați-vă plimbarea cu o priveliște de pe acest pod istoric.",
+            "en": "End your walk with a view from this historic bridge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto haben Sie die Flexibilität, den Tag auf dem Prophet Elias Hügel mit einer atemberaubenden Aussicht zu beginnen. Fahren Sie dann zur berühmten Tsipouro-Destillerie, um an einer Führung und Verkostung teilzunehmen. Danach parken Sie im Stadtzentrum, um den Rest des Tages zu Fuß zu erkunden. Dies ist der perfekte Zeitpunkt für ein Mittagessen in einer traditionellen Taverne. Nach dem Essen entdecken Sie das Herz von Tyrnavos: Schlendern Sie am Rathaus vorbei zum faszinierenden Folklore-Museum und finden Sie Ruhe in der Agios Gedeon Kirche. Beenden Sie Ihren Tag mit einem gemütlichen Spaziergang zur Agia Paraskevi Brücke, bevor Sie zu Ihrem Auto zurückkehren.",
+        "hu": "Az autó rugalmasságot biztosít, hogy a napot az Illés Próféta-hegyen kezdje, lélegzetelállító kilátással. Ezután vezessen el a híres Tsipouro Lepárlóhoz egy túrára és kóstolóra. Ezt követően parkoljon le a városközpontban, hogy a nap hátralévő részét gyalog fedezze fel. Ez a tökéletes időpont egy ebédre egy hagyományos tavernában. Ebéd után fedezze fel Tirnavosz szívét: sétáljon el a városháza mellett a lenyűgöző Néprajzi Múzeumig, és találjon békét a Szent Gedeon-templomban. Zárja a napot egy kellemes sétával az Agia Paraskevi hídhoz, mielőtt visszatérne az autójához.",
+        "ro": "Cu mașina, aveți flexibilitatea de a începe ziua pe Dealul Profetul Ilie cu priveliști uluitoare. Apoi, conduceți la faimoasa Distilerie de Tsipouro pentru un tur și o degustare. După aceea, parcați în centrul orașului pentru a explora restul zilei pe jos. Acesta este momentul perfect pentru prânz la o tavernă tradițională. După masă, descoperiți inima orașului Tyrnavos: plimbați-vă pe lângă Primărie până la fascinantul Muzeu de Folclor și găsiți liniște la Biserica Sfântul Gedeon. Încheiați-vă ziua cu o plimbare agale la Podul Agia Paraskevi înainte de a vă întoarce la mașină.",
+        "en": "With a car, you have the flexibility to start your day atop Prophet Elias Hill for breathtaking views. Then, drive to the famous Tsipouro Distillery for a tour and tasting. Afterwards, park in the city center to explore for the rest of the day on foot. This is the perfect time for lunch at a traditional taverna. After your meal, discover the heart of Tyrnavos: stroll past the Town Hall to the fascinating Folklore Museum and find peace at the Church of Agios Gedeon. End your day with a leisurely walk to the Agia Paraskevi Bridge before returning to your car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kreatopita (Fleischpastete)",
+            "tip": "Eine herzhafte lokale Spezialität, die Sie satt macht."
+          },
+          {
+            "name": "Hauswein",
+            "tip": "Viele Tavernen servieren ihren eigenen köstlichen Wein."
+          },
+          {
+            "name": "Restaurant 'Klimataria'",
+            "tip": "Beliebt bei Einheimischen für seine authentische Küche und großzügigen Portionen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kreatopita (húsos pite)",
+            "tip": "Egy kiadós helyi specialitás, amely jóllakat."
+          },
+          {
+            "name": "Ház bora",
+            "tip": "Sok taverna saját, finom bort szolgál fel."
+          },
+          {
+            "name": "Étterem 'Klimataria'",
+            "tip": "A helyiek körében népszerű autentikus konyhája és bőséges adagjai miatt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kreatopita (Plăcintă cu carne)",
+            "tip": "O specialitate locală consistentă care vă va sătura."
+          },
+          {
+            "name": "Vinul casei",
+            "tip": "Multe taverne își servesc propriul vin delicios."
+          },
+          {
+            "name": "Restaurant 'Klimataria'",
+            "tip": "Popular printre localnici pentru bucătăria sa autentică și porțiile generoase."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kreatopita (Meat Pie)",
+            "tip": "A hearty local specialty that will fill you up."
+          },
+          {
+            "name": "House Wine",
+            "tip": "Many tavernas serve their own delicious wine."
+          },
+          {
+            "name": "Restaurant 'Klimataria'",
+            "tip": "Popular with locals for its authentic cuisine and generous portions."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Prophet Elias Hügel",
+            "tip": "Der Panoramablick am Morgen ist eine wunderbare, ruhige Erfahrung.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ein Spaziergang am Fluss",
+            "tip": "Nach dem Parken können Sie einen ruhigen Moment am Titarisios finden.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ein verstecktes Café",
+            "tip": "Suchen Sie ein kleines Café in einer Seitengasse für eine Pause.",
+            "emoji": "☕"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Illés Próféta-hegy",
+            "tip": "A reggeli panoráma csodálatos, csendes élmény.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Séta a folyóparton",
+            "tip": "Parkolás után találhat egy csendes pillanatot a Titarisios partján.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Egy rejtett kávézó",
+            "tip": "Keressen egy kis kávézót egy mellékutcában egy kis pihenésre.",
+            "emoji": "☕"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Profetul Ilie",
+            "tip": "Vederea panoramică de dimineață este o experiență minunată și liniștită.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "O plimbare pe râu",
+            "tip": "După parcare, găsiți un moment de liniște pe malul râului Titarisios.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "O cafenea ascunsă",
+            "tip": "Găsiți o mică cafenea pe o stradă lăturalnică pentru o pauză.",
+            "emoji": "☕"
+          }
+        ],
+        "en": [
+          {
+            "name": "Prophet Elias Hill",
+            "tip": "The panoramic view in the morning is a wonderful, quiet experience.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A riverside stroll",
+            "tip": "After parking, find a quiet moment by the Titarisios.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A hidden cafe",
+            "tip": "Find a small cafe in a side alley for a break.",
+            "emoji": "☕"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Keramik",
+            "tip": "Handgefertigte Keramik ist ein schönes und authentisches Souvenir."
+          },
+          {
+            "name": "Lokale Spirituosen",
+            "tip": "Neben Tsipouro gibt es oft auch Ouzo und lokale Liköre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerámia",
+            "tip": "A kézzel készített kerámia szép és autentikus ajándéktárgy."
+          },
+          {
+            "name": "Helyi szeszes italok",
+            "tip": "A tsipouro mellett gyakran ouzo és helyi likőrök is kaphatók."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică",
+            "tip": "Ceramica lucrată manual este un suvenir frumos și autentic."
+          },
+          {
+            "name": "Băuturi spirtoase locale",
+            "tip": "Pe lângă tsipouro, există adesea ouzo și lichioruri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pottery",
+            "tip": "Handmade pottery is a beautiful and authentic souvenir."
+          },
+          {
+            "name": "Local spirits",
+            "tip": "Besides tsipouro, there is often ouzo and local liqueurs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die Parkbeschilderung im Stadtzentrum.",
+          "Ein GPS oder eine Navigations-App ist hilfreich, um die Ziele außerhalb des Zentrums zu finden.",
+          "Planen Sie genügend Zeit für die Tsipouro-Verkostung ein und fahren Sie danach nicht sofort.",
+          "Die 'Cluster-Walking'-Strategie spart Zeit und Stress bei der Parkplatzsuche."
+        ],
+        "hu": [
+          "Figyeljen a parkolási táblákra a városközpontban.",
+          "GPS vagy navigációs alkalmazás hasznos a központon kívüli célpontok megtalálásához.",
+          "Szánjon elegendő időt a tsipouro-kóstolóra, és utána ne vezessen azonnal.",
+          "A 'cluster-walking' stratégia időt és stresszt takarít meg a parkolóhely keresésénél."
+        ],
+        "ro": [
+          "Fiți atenți la semnele de parcare din centrul orașului.",
+          "Un GPS sau o aplicație de navigație este utilă pentru a găsi destinațiile din afara centrului.",
+          "Alocați suficient timp pentru degustarea de tsipouro și nu conduceți imediat după aceea.",
+          "Strategia 'cluster-walking' economisește timp și stres în căutarea unui loc de parcare."
+        ],
+        "en": [
+          "Pay attention to parking signs in the city center.",
+          "A GPS or navigation app is helpful for finding the destinations outside the center.",
+          "Allow enough time for the tsipouro tasting and do not drive immediately afterwards.",
+          "The 'cluster-walking' strategy saves time and stress from finding parking."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentralplatz",
+            "hu": "Központi tér",
+            "ro": "Piața Centrală",
+            "en": "Central Square"
+          },
+          "coords": [
+            22.2835,
+            39.7335
+          ],
+          "category": "squares",
+          "arrive_at": "09:15",
+          "stay_min": 25,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie hier, nachdem Sie mit dem Bus angekommen sind. Holen Sie sich einen Kaffee.",
+            "hu": "Kezdje itt, miután megérkezett busszal. Igyon egy kávét.",
+            "ro": "Începeți de aici după ce ajungeți cu autobuzul. Luați o cafea.",
+            "en": "Start here after arriving by bus. Get a coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Tyrnavos",
+            "hu": "Tirnavoszi városháza",
+            "ro": "Primăria din Tyrnavos",
+            "en": "Tyrnavos Town Hall"
+          },
+          "coords": [
+            22.284,
+            39.7345
+          ],
+          "category": "historical",
+          "arrive_at": "09:45",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Platz entfernt.",
+            "hu": "Csak egy rövid sétára a tértől.",
+            "ro": "La doar o scurtă plimbare de piață.",
+            "en": "Just a short walk from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Folklore-Museum",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul de Folclor",
+            "en": "Folklore Museum"
+          },
+          "coords": [
+            22.2815,
+            39.7325
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie den lokalen Bus, um zum Museumsviertel zu gelangen.",
+            "hu": "Menjen a helyi busszal a múzeumi negyedbe.",
+            "ro": "Luați autobuzul local pentru a ajunge în districtul muzeelor.",
+            "en": "Take the local bus to get to the museum district."
+          }
+        },
+        {
+          "name": {
+            "de": "Tsipouro-Destillerie Museum",
+            "hu": "Tsipouro Lepárló Múzeum",
+            "ro": "Muzeul Distileriei de Tsipouro",
+            "en": "Tsipouro Distillery Museum"
+          },
+          "coords": [
+            22.29,
+            39.73
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:20",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Folkloremuseum erreichbar, planen Sie hier Ihr Mittagessen.",
+            "hu": "Gyalog elérhető a Néprajzi Múzeumtól, tervezze ide az ebédjét.",
+            "ro": "Accesibil pe jos de la Muzeul de Folclor, planificați-vă prânzul aici.",
+            "en": "Within walking distance from the Folklore Museum, plan your lunch here."
+          }
+        },
+        {
+          "name": {
+            "de": "Agia Paraskevi Brücke",
+            "hu": "Agia Paraskevi híd",
+            "ro": "Podul Agia Paraskevi",
+            "en": "Agia Paraskevi Bridge"
+          },
+          "coords": [
+            22.286,
+            39.732
+          ],
+          "category": "bridges",
+          "arrive_at": "14:40",
+          "stay_min": 30,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Eine weitere kurze Busfahrt bringt Sie in die Nähe dieser malerischen Brücke.",
+            "hu": "Egy másik rövid buszút elviszi Önt ehhez a festői hídhoz.",
+            "ro": "O altă scurtă călătorie cu autobuzul vă va aduce aproape de acest pod pitoresc.",
+            "en": "Another short bus ride will bring you near this picturesque bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Gedeon",
+            "hu": "Szent Gedeon-templom",
+            "ro": "Biserica Sfântul Gedeon",
+            "en": "Church of Agios Gedeon"
+          },
+          "coords": [
+            22.282,
+            39.735
+          ],
+          "category": "churches",
+          "arrive_at": "15:40",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem besinnlichen Besuch in dieser schönen Kirche.",
+            "hu": "Zárja a napot egy elmélkedő látogatással ebben a gyönyörű templomban.",
+            "ro": "Încheiați ziua cu o vizită contemplativă la această frumoasă biserică.",
+            "en": "End the day with a contemplative visit to this beautiful church."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das lokale Busnetz, um Tyrnavos zu erkunden. Beginnen Sie am Zentralplatz und besichtigen Sie das nahegelegene Rathaus zu Fuß. Eine kurze Busfahrt bringt Sie dann in das Viertel der Museen, wo das Folklore- und das Tsipouro-Museum auf Sie warten. Hier können Sie zu Mittag essen und tief in die lokale Kultur eintauchen. Nach dem Mittagessen bringt Sie ein weiterer Bus in die Nähe der historischen Agia Paraskevi Brücke. Von dort aus ist es nur ein kurzer Spaziergang zu Ihrem letzten Halt, der ruhigen Agios Gedeon Kirche. Diese Route kombiniert die Effizienz des öffentlichen Nahverkehrs mit angenehmen Spaziergängen.",
+        "hu": "Használja a helyi buszhálózatot Tirnavosz felfedezéséhez. Kezdje a Központi téren, és gyalog tekintse meg a közeli Városházát. Egy rövid buszút elviszi a múzeumi negyedbe, ahol a Néprajzi és a Tsipouro Múzeum várja. Itt ebédelhet, és mélyen elmerülhet a helyi kultúrában. Ebéd után egy másik busz elviszi a történelmi Agia Paraskevi híd közelébe. Innen már csak egy rövid séta az utolsó megálló, a csendes Szent Gedeon-templom. Ez az útvonal ötvözi a tömegközlekedés hatékonyságát a kellemes sétákkal.",
+        "ro": "Folosiți rețeaua locală de autobuze pentru a explora Tyrnavos. Începeți din Piața Centrală și vizitați Primăria din apropiere pe jos. O scurtă călătorie cu autobuzul vă va duce apoi în districtul muzeelor, unde vă așteaptă Muzeul de Folclor și Muzeul Tsipouro. Aici puteți lua prânzul și vă puteți cufunda în cultura locală. După prânz, un alt autobuz vă va aduce aproape de podul istoric Agia Paraskevi. De acolo, este doar o scurtă plimbare până la ultima oprire, liniștita Biserică Sfântul Gedeon. Acest traseu combină eficiența transportului public cu plimbări plăcute.",
+        "en": "Use the local bus network to explore Tyrnavos. Start at the Central Square and visit the nearby Town Hall on foot. A short bus ride will then take you to the museum district, where the Folklore and Tsipouro Museums await. You can have lunch here and immerse yourself deeply in the local culture. After lunch, another bus will bring you near the historic Agia Paraskevi Bridge. From there, it's just a short walk to your final stop, the tranquil Church of Agios Gedeon. This route combines the efficiency of public transport with pleasant walks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Griechischer Salat (Choriatiki)",
+            "tip": "Immer frisch und eine perfekte leichte Mahlzeit."
+          },
+          {
+            "name": "Gefüllte Weinblätter (Dolmades)",
+            "tip": "Ein klassischer griechischer Meze."
+          },
+          {
+            "name": "Bäckerei 'O Fournos'",
+            "tip": "Holen Sie sich frisches Brot und Gebäck für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Görög saláta (Choriatiki)",
+            "tip": "Mindig friss és tökéletes könnyű étel."
+          },
+          {
+            "name": "Töltött szőlőlevél (Dolmades)",
+            "tip": "Klasszikus görög meze."
+          },
+          {
+            "name": "Pékség 'O Fournos'",
+            "tip": "Vegyen friss kenyeret és péksüteményt az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Salată grecească (Choriatiki)",
+            "tip": "Întotdeauna proaspătă și o masă ușoară perfectă."
+          },
+          {
+            "name": "Sarmale în foi de viță (Dolmades)",
+            "tip": "Un meze grecesc clasic."
+          },
+          {
+            "name": "Brutăria 'O Fournos'",
+            "tip": "Luați pâine proaspătă și produse de patiserie pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Greek Salad (Choriatiki)",
+            "tip": "Always fresh and a perfect light meal."
+          },
+          {
+            "name": "Stuffed Vine Leaves (Dolmades)",
+            "tip": "A classic Greek meze."
+          },
+          {
+            "name": "Bakery 'O Fournos'",
+            "tip": "Pick up fresh bread and pastries for the road."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ein Platz im Bus am Fenster",
+            "tip": "Beobachten Sie das städtische Leben, während Sie zwischen den Stopps fahren.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Eine Bank in der Nähe der Brücke",
+            "tip": "Ein ruhiger Ort, um den Fluss zu beobachten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Die Stille in der Kirche",
+            "tip": "Nutzen Sie den Besuch der Agios Gedeon Kirche für einen Moment der Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ablak melletti ülés a buszon",
+            "tip": "Figyelje a városi életet, miközben a megállók között utazik.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Egy pad a híd közelében",
+            "tip": "Csendes hely a folyó megfigyelésére.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Csend a templomban",
+            "tip": "Használja ki a Szent Gedeon-templomban tett látogatást egy csendes pillanatra.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Un loc la geam în autobuz",
+            "tip": "Urmăriți viața urbană în timp ce călătoriți între opriri.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "O bancă lângă pod",
+            "tip": "Un loc liniștit pentru a privi râul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Liniștea din biserică",
+            "tip": "Folosiți vizita la Biserica Sfântul Gedeon pentru un moment de reculegere.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "A window seat on the bus",
+            "tip": "Watch the urban life while traveling between stops.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "A bench near the bridge",
+            "tip": "A quiet spot to watch the river.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The silence in the church",
+            "tip": "Use the visit to the Church of Agios Gedeon for a moment of peace.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk (Periptero)",
+            "tip": "Kaufen Sie hier Ihr Busticket und eine kalte Erfrischung."
+          },
+          {
+            "name": "Museumsshop",
+            "tip": "Finden Sie einzigartige Geschenke und Bücher über die lokale Geschichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk (Periptero)",
+            "tip": "Itt veheti meg a buszjegyet és egy hideg frissítőt."
+          },
+          {
+            "name": "Múzeumi bolt",
+            "tip": "Találjon egyedi ajándékokat és könyveket a helyi történelemről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc (Periptero)",
+            "tip": "Cumpărați biletul de autobuz și o băutură răcoritoare de aici."
+          },
+          {
+            "name": "Magazinul muzeului",
+            "tip": "Găsiți cadouri unice și cărți despre istoria locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk (Periptero)",
+            "tip": "Buy your bus ticket and a cold refreshment here."
+          },
+          {
+            "name": "Museum shop",
+            "tip": "Find unique gifts and books about local history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich im Voraus über die Busfahrpläne und Routen.",
+          "Haben Sie Kleingeld für Bustickets bereit.",
+          "Tageskarten können eine kostengünstige Option sein, wenn Sie mehrere Fahrten planen.",
+          "Achten Sie auf die Ankündigungen der Haltestellen oder verwenden Sie eine Karten-App, um Ihren Standort zu verfolgen."
+        ],
+        "hu": [
+          "Előre tájékozódjon a buszmenetrendekről és útvonalakról.",
+          "Készítsen elő aprópénzt a buszjegyekhez.",
+          "A napijegyek költséghatékony megoldást jelenthetnek, ha több utazást tervez.",
+          "Figyelje a megállók bemondását, vagy használjon térképalkalmazást a helyzetének követéséhez."
+        ],
+        "ro": [
+          "Informați-vă în avans despre orarele și rutele autobuzelor.",
+          "Aveți la îndemână mărunțiș pentru biletele de autobuz.",
+          "Abonamentele de o zi pot fi o opțiune rentabilă dacă planificați mai multe călătorii.",
+          "Fiți atenți la anunțurile stațiilor sau folosiți o aplicație cu hărți pentru a vă urmări locația."
+        ],
+        "en": [
+          "Find out about the bus schedules and routes in advance.",
+          "Have small change ready for bus tickets.",
+          "Day passes can be a cost-effective option if you plan multiple trips.",
+          "Pay attention to the stop announcements or use a map app to track your location."
+        ]
+      }
+    }
+  }
+}

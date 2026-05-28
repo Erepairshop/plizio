@@ -1,0 +1,1361 @@
+{
+  "city_id": "ireland-larne-cities-v2",
+  "anchor": {
+    "name": "Larne",
+    "coords": [
+      54.85,
+      -5.82
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafen von Larne",
+            "hu": "Larne kikötője",
+            "ro": "Portul Larne",
+            "en": "Larne Harbour"
+          },
+          "coords": [
+            54.851,
+            -5.809
+          ],
+          "category": "port",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Fähren, die nach Schottland ablegen.",
+            "hu": "Nézze a Skóciába induló kompok forgalmát.",
+            "ro": "Urmăriți feriboturile care pleacă spre Scoția.",
+            "en": "Watch the ferries departing for Scotland."
+          }
+        },
+        {
+          "name": {
+            "de": "Chaine Memorial Tower",
+            "hu": "Chaine Emléktorony",
+            "ro": "Turnul Memorial Chaine",
+            "en": "Chaine Memorial Tower"
+          },
+          "coords": [
+            54.853,
+            -5.806
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Leuchtturm-ähnliches Denkmal mit toller Aussicht auf das Meer.",
+            "hu": "Világítótorony-szerű emlékmű, nagyszerű kilátással a tengerre.",
+            "ro": "Un monument asemănător unui far, cu vederi minunate la mare.",
+            "en": "A lighthouse-like memorial with great sea views."
+          }
+        },
+        {
+          "name": {
+            "de": "Larne Museum und Kunstzentrum",
+            "hu": "Larne Múzeum és Művészeti Központ",
+            "ro": "Muzeul și Centrul de Arte din Larne",
+            "en": "Larne Museum and Arts Centre"
+          },
+          "coords": [
+            54.851,
+            -5.815
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die lokale Geschichte und die Wikinger-Verbindung.",
+            "hu": "Ismerje meg a helyi történelmet és a viking kapcsolatot.",
+            "ro": "Aflați despre istoria locală și legătura vikingă.",
+            "en": "Learn about the local history and the Viking connection."
+          }
+        },
+        {
+          "name": {
+            "de": "Olderfleet Castle",
+            "hu": "Olderfleet vára",
+            "ro": "Castelul Olderfleet",
+            "en": "Olderfleet Castle"
+          },
+          "coords": [
+            54.848,
+            -5.806
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Die Ruinen einer normannischen Burg in der Nähe des Hafens.",
+            "hu": "Egy normann vár romjai a kikötő közelében.",
+            "ro": "Ruinele unui castel normand, aproape de port.",
+            "en": "The ruins of a Norman castle near the harbour."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark",
+            "hu": "Városi Park",
+            "ro": "Parcul Orașului",
+            "en": "Town Park"
+          },
+          "coords": [
+            54.854,
+            -5.821
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein schöner Ort zum Entspannen mit Gärten und einem Spielplatz.",
+            "hu": "Kellemes hely a pihenésre kertekkel és játszótérrel.",
+            "ro": "Un loc minunat pentru relaxare, cu grădini și un loc de joacă.",
+            "en": "A lovely place to relax with gardens and a play area."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in einem lokalen Pub",
+            "hu": "Vacsora egy helyi pubban",
+            "ro": "Cină la un pub local",
+            "en": "Dinner at a local pub"
+          },
+          "coords": [
+            54.852,
+            -5.818
+          ],
+          "category": "gastro",
+          "arrive_at": "15:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie den traditionellen Ulster Fry.",
+            "hu": "Kóstolja meg a hagyományos Ulster Fry-t.",
+            "ro": "Încercați tradiționalul Ulster Fry.",
+            "en": "Try the traditional Ulster Fry."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Larne beginnt am belebten Hafen, dem Tor zur Irischen See. Am Vormittag erkunden Sie das maritime Erbe mit dem Chaine Tower und dem Olderfleet Castle. Mittags tauchen Sie im Stadtmuseum in die lokale Geschichte ein. Der Nachmittag ist für einen entspannten Spaziergang durch den Town Park reserviert, bevor Sie den Tag mit herzhafter lokaler Küche ausklingen lassen.",
+        "hu": "A larne-i nap a nyüzsgő kikötőnél, az Ír-tenger kapujánál kezdődik. A délelőttöt a tengerészeti örökség felfedezésével tölti a Chaine-toronynál és az Olderfleet váránál. Délben a városi múzeumban merül el a helyi történelemben. A délután egy pihentető sétára van fenntartva a Városi Parkban, mielőtt a napot egy kiadós helyi vacsorával zárná.",
+        "ro": "Ziua dvs. în Larne începe în portul plin de viață, poarta către Marea Irlandei. Dimineața explorați moștenirea maritimă la Turnul Chaine și Castelul Olderfleet. La prânz, aprofundați istoria locală la muzeul orașului. După-amiaza este rezervată pentru o plimbare relaxantă prin Parcul Orașului, înainte de a încheia ziua cu o masă locală copioasă.",
+        "en": "Your day in Larne begins at the bustling harbour, the gateway to the Irish Sea. You'll spend the morning exploring the maritime heritage at the Chaine Tower and Olderfleet Castle. At midday, delve into local history at the town museum. The afternoon is reserved for a relaxing stroll through the Town Park before finishing the day with some hearty local cuisine."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ulster Fry",
+            "tip": "Ein herzhaftes Frühstück, das den ganzen Tag über serviert wird."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "Frisch aus der Irischen See."
+          },
+          {
+            "name": "Seafood Chowder",
+            "tip": "Eine cremige Suppe mit lokalem Fisch und Meeresfrüchten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ulster Fry",
+            "tip": "Kiadós reggeli, amit egész nap szolgálnak fel."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "Frissen az Ír-tengerből."
+          },
+          {
+            "name": "Tengergyümölcs-leves (Seafood Chowder)",
+            "tip": "Krémes leves helyi halakkal és tenger gyümölcseivel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulster Fry",
+            "tip": "Un mic dejun consistent, servit pe tot parcursul zilei."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "Proaspăt din Marea Irlandei."
+          },
+          {
+            "name": "Supă cremă de fructe de mare",
+            "tip": "O supă cremoasă cu pește și fructe de mare locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ulster Fry",
+            "tip": "A hearty breakfast served all day."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "Fresh from the Irish Sea."
+          },
+          {
+            "name": "Seafood Chowder",
+            "tip": "A creamy soup with local fish and shellfish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang entlang der Küste",
+            "tip": "Finden Sie eine ruhige Bank mit Blick auf das Meer.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Town Park Gärten",
+            "tip": "Ein friedlicher Ort zwischen den Blumen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Olderfleet Castle Ruinen",
+            "tip": "Ein ruhiger, historischer Ort zum Nachdenken.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a tengerparton",
+            "tip": "Keressen egy csendes padot, ahonnan a tengerre nyílik kilátás.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Városi Park kertjei",
+            "tip": "Békés hely a virágok között.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Olderfleet várromok",
+            "tip": "Csendes, történelmi hely az elmélkedésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe coastă",
+            "tip": "Găsiți o bancă liniștită cu vedere la mare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile Parcului Orașului",
+            "tip": "Un loc pașnic printre flori.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ruinele Castelului Olderfleet",
+            "tip": "Un loc istoric liniștit pentru reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Coastal Walk",
+            "tip": "Find a quiet bench overlooking the sea.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Town Park Gardens",
+            "tip": "A peaceful spot among the flowers.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Olderfleet Castle Ruins",
+            "tip": "A quiet, historic spot for reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Kunsthandwerksläden",
+            "tip": "Finden Sie einzigartige, handgefertigte Souvenirs."
+          },
+          {
+            "name": "Museumsshop",
+            "tip": "Bücher und Geschenke zur lokalen Geschichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Találjon egyedi, kézzel készített ajándéktárgyakat."
+          },
+          {
+            "name": "Múzeumi bolt",
+            "tip": "Könyvek és ajándékok a helyi történelemről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Găsiți suveniruri unice, lucrate manual."
+          },
+          {
+            "name": "Magazinul muzeului",
+            "tip": "Cărți și cadouri legate de istoria locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Craft Shops",
+            "tip": "Find unique, handmade souvenirs."
+          },
+          {
+            "name": "Museum Gift Shop",
+            "tip": "Books and gifts related to local history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel auf Kopfsteinpflaster laufen werden.",
+          "Prüfen Sie die Öffnungszeiten des Museums im Voraus.",
+          "Eine leichte Regenjacke ist immer eine gute Idee in Irland."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog macskaköves utakon sétálni.",
+          "Ellenőrizze előre a múzeum nyitvatartási idejét.",
+          "Egy könnyű esőkabát mindig jó ötlet Írországban."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge mult pe piatră cubică.",
+          "Verificați programul de funcționare al muzeului în avans.",
+          "O geacă subțire de ploaie este întotdeauna o idee bună în Irlanda."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be walking on cobblestones.",
+          "Check the museum's opening hours in advance.",
+          "A light rain jacket is always a good idea in Ireland."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafen von Larne & Chaine Tower",
+            "hu": "Larne kikötő és Chaine-torony",
+            "ro": "Portul Larne și Turnul Chaine",
+            "en": "Larne Harbour & Chaine Tower"
+          },
+          "coords": [
+            54.852,
+            -5.807
+          ],
+          "category": "port",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Tour am maritimen Herzen der Stadt.",
+            "hu": "Kezdje a túrát a város tengeri szívében.",
+            "ro": "Începeți turul în inima maritimă a orașului.",
+            "en": "Start your tour at the maritime heart of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Larne Museum und Kunstzentrum",
+            "hu": "Larne Múzeum és Művészeti Központ",
+            "ro": "Muzeul și Centrul de Arte din Larne",
+            "en": "Larne Museum and Arts Centre"
+          },
+          "coords": [
+            54.851,
+            -5.815
+          ],
+          "category": "museums",
+          "arrive_at": "09:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und tauchen Sie in die Geschichte ein.",
+            "hu": "Parkolja le a kerékpárt, és merüljön el a történelemben.",
+            "ro": "Parcați bicicleta și cufundați-vă în istorie.",
+            "en": "Park your bike and dive into history."
+          }
+        },
+        {
+          "name": {
+            "de": "Carnfunnock Country Park",
+            "hu": "Carnfunnock Country Park",
+            "ro": "Parcul Național Carnfunnock",
+            "en": "Carnfunnock Country Park"
+          },
+          "coords": [
+            54.877,
+            -5.861
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Ein riesiger Park mit Gärten, Irrgarten und Küstenwegen. Perfekt für ein Picknick.",
+            "hu": "Hatalmas park kertekkel, labirintussal és tengerparti ösvényekkel. Tökéletes egy piknikhez.",
+            "ro": "Un parc imens cu grădini, un labirint și poteci de coastă. Perfect pentru un picnic.",
+            "en": "A huge park with gardens, a maze, and coastal paths. Perfect for a picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Gleno Wasserfall",
+            "hu": "Gleno-vízesés",
+            "ro": "Cascada Gleno",
+            "en": "Gleno Waterfall"
+          },
+          "coords": [
+            54.819,
+            -5.864
+          ],
+          "category": "natural features",
+          "arrive_at": "15:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Ein malerischer Wasserfall in einem üppigen Tal.",
+            "hu": "Festői vízesés egy buja völgyben.",
+            "ro": "O cascadă pitorească situată într-o vale luxuriantă.",
+            "en": "A picturesque waterfall nestled in a lush valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück im Stadtzentrum",
+            "hu": "Vissza a városközpontba",
+            "ro": "Înapoi în centrul orașului",
+            "en": "Back to Town Centre"
+          },
+          "coords": [
+            54.852,
+            -5.818
+          ],
+          "category": "gastro",
+          "arrive_at": "16:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Belohnen Sie sich mit einem wohlverdienten Abendessen.",
+            "hu": "Jutalmazza meg magát egy jól megérdemelt vacsorával.",
+            "ro": "Recompensați-vă cu o cină binemeritată.",
+            "en": "Reward yourself with a well-deserved dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine Fahrradtour durch Larne beginnt maritim am Hafen. Vormittags radeln Sie durch die Stadt zum Museum. Der Höhepunkt des Tages ist die Fahrt entlang der Küste zum weitläufigen Carnfunnock Country Park, wo Sie zu Mittag essen und die Natur genießen. Am Nachmittag führt Sie eine weitere landschaftlich reizvolle Strecke zum Gleno-Wasserfall, bevor Sie für ein herzhaftes Abendessen ins Stadtzentrum zurückkehren.",
+        "hu": "A larne-i kerékpártúra a kikötőnél kezdődik. Délelőtt a városon keresztül teker a múzeumhoz. A nap fénypontja a tengerpart menti út a tágas Carnfunnock Country Parkba, ahol ebédelhet és élvezheti a természetet. Délután egy másik festői útvonal vezet a Gleno-vízeséshez, mielőtt visszatérne a városközpontba egy kiadós vacsorára.",
+        "ro": "Turul cu bicicleta în Larne începe maritim, în port. Dimineața pedalați prin oraș până la muzeu. Punctul culminant al zilei este plimbarea de-a lungul coastei până la vastul Parc Carnfunnock, unde luați prânzul și vă bucurați de natură. După-amiaza, un alt traseu pitoresc vă duce la Cascada Gleno, înainte de a vă întoarce în centrul orașului pentru o cină copioasă.",
+        "en": "A bike tour of Larne starts maritme at the harbour. In the morning, you'll cycle through town to the museum. The highlight of the day is the coastal ride to the expansive Carnfunnock Country Park for lunch and nature. In the afternoon, another scenic route takes you to Gleno Waterfall before returning to the town centre for a hearty dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokales Craft Beer",
+            "tip": "Probieren Sie ein Bier aus einer nordirischen Brauerei."
+          },
+          {
+            "name": "Scones mit Marmelade und Sahne",
+            "tip": "Ein klassischer Nachmittagssnack."
+          },
+          {
+            "name": "Irish Stew",
+            "tip": "Ein wärmender Eintopf nach einer langen Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves sör",
+            "tip": "Kóstoljon meg egy sört egy észak-írországi főzdéből."
+          },
+          {
+            "name": "Scone lekvárral és tejszínnel",
+            "tip": "Klasszikus délutáni uzsonna."
+          },
+          {
+            "name": "Ír gulyás (Irish Stew)",
+            "tip": "Melegítő egytálétel egy hosszú kerékpártúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bere artizanală locală",
+            "tip": "Încercați o bere de la o fabrică de bere din Irlanda de Nord."
+          },
+          {
+            "name": "Scones cu gem și frișcă",
+            "tip": "O gustare clasică de după-amiază."
+          },
+          {
+            "name": "Tocăniță irlandeză (Irish Stew)",
+            "tip": "O tocană caldă după un tur lung cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Craft Beer",
+            "tip": "Try a beer from a Northern Irish brewery."
+          },
+          {
+            "name": "Scones with jam and cream",
+            "tip": "A classic afternoon snack."
+          },
+          {
+            "name": "Irish Stew",
+            "tip": "A warming stew after a long bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Carnfunnock Country Park",
+            "tip": "Finden Sie einen ruhigen Platz im ummauerten Garten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gleno Wasserfall",
+            "tip": "Lauschen Sie dem beruhigenden Geräusch des Wassers.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Küstenradweg",
+            "tip": "Genießen Sie die Meeresbrise und die Aussicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Carnfunnock Country Park",
+            "tip": "Keressen egy csendes helyet a fallal körülvett kertben.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gleno-vízesés",
+            "tip": "Hallgassa a víz megnyugtató hangját.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Part menti kerékpárút",
+            "tip": "Élvezze a tengeri szellőt és a kilátást.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Național Carnfunnock",
+            "tip": "Găsiți un loc liniștit în grădina împrejmuită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cascada Gleno",
+            "tip": "Ascultați sunetul liniștitor al apei.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pista de biciclete de pe coastă",
+            "tip": "Bucurați-vă de briza mării și de priveliști.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Carnfunnock Country Park",
+            "tip": "Find a quiet spot in the walled garden.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gleno Waterfall",
+            "tip": "Listen to the soothing sound of the water.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Coastal cycle path",
+            "tip": "Enjoy the sea breeze and the views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Für eventuell benötigte Ersatzteile oder Zubehör."
+          },
+          {
+            "name": "Bauernmarkt (falls vorhanden)",
+            "tip": "Lokale Produkte für ein Picknick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Szükséges alkatrészekért vagy kiegészítőkért."
+          },
+          {
+            "name": "Termelői piac (ha van)",
+            "tip": "Helyi termékek egy piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Pentru orice piese de schimb sau accesorii necesare."
+          },
+          {
+            "name": "Piața fermierilor (dacă este disponibilă)",
+            "tip": "Produse locale pentru un picnic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "For any spare parts or accessories you might need."
+          },
+          {
+            "name": "Farmers' Market (if available)",
+            "tip": "Local produce for a picnic."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Die Küstenstraße kann windig sein.",
+          "Nehmen Sie Wasser und Snacks für die längeren Strecken mit."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket és a gumikat.",
+          "A tengerparti út szeles lehet.",
+          "Vigyen magával vizet és harapnivalót a hosszabb szakaszokra."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele și anvelopele.",
+          "Drumul de coastă poate fi vântos.",
+          "Luați apă și gustări pentru traseele mai lungi."
+        ],
+        "en": [
+          "Check your bike before you leave, especially brakes and tires.",
+          "The coastal road can be windy.",
+          "Take water and snacks for the longer stretches."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 35.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Carnfunnock Country Park",
+            "hu": "1. csoport: Carnfunnock Country Park",
+            "ro": "Cluster 1: Parcul Național Carnfunnock",
+            "en": "Cluster 1: Carnfunnock Country Park"
+          },
+          "coords": [
+            54.877,
+            -5.861
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie die Gärten und den Irrgarten zu Fuß.",
+            "hu": "Parkoljon le itt, és fedezze fel gyalog a kerteket és a labirintust.",
+            "ro": "Parcați aici și explorați grădinile și labirintul pe jos.",
+            "en": "Park here and explore the gardens and maze on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Gleno Wasserfall",
+            "hu": "2. csoport: Gleno-vízesés",
+            "ro": "Cluster 2: Cascada Gleno",
+            "en": "Cluster 2: Gleno Waterfall"
+          },
+          "coords": [
+            54.819,
+            -5.864
+          ],
+          "category": "natural features",
+          "arrive_at": "11:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz zum versteckten Wasserfall.",
+            "hu": "Rövid séta a parkolóból az eldugott vízeséshez.",
+            "ro": "O scurtă plimbare de la parcare până la cascada ascunsă.",
+            "en": "A short walk from the car park to the hidden waterfall."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Larne Stadtzentrum",
+            "hu": "3. csoport: Larne városközpont",
+            "ro": "Cluster 3: Centrul orașului Larne",
+            "en": "Cluster 3: Larne Town Centre"
+          },
+          "coords": [
+            54.851,
+            -5.815
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie zentral und besuchen Sie das Museum.",
+            "hu": "Parkoljon a központban, és látogassa meg a múzeumot.",
+            "ro": "Parcați central și vizitați muzeul.",
+            "en": "Park centrally and visit the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Chaine Memorial Tower",
+            "hu": "Chaine Emléktorony",
+            "ro": "Turnul Memorial Chaine",
+            "en": "Chaine Memorial Tower"
+          },
+          "coords": [
+            54.853,
+            -5.806
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum entlang des Hafens.",
+            "hu": "Rövid séta a múzeumtól a kikötő mentén.",
+            "ro": "O plimbare scurtă de la muzeu de-a lungul portului.",
+            "en": "A short walk from the museum along the harbour."
+          }
+        },
+        {
+          "name": {
+            "de": "Olderfleet Castle",
+            "hu": "Olderfleet vára",
+            "ro": "Castelul Olderfleet",
+            "en": "Olderfleet Castle"
+          },
+          "coords": [
+            54.848,
+            -5.806
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Setzen Sie Ihren Spaziergang zu den historischen Ruinen fort.",
+            "hu": "Folytassa a sétát a történelmi romokhoz.",
+            "ro": "Continuați plimbarea până la ruinele istorice.",
+            "en": "Continue your walk to the historic ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 4: The Gobbins (in der Nähe)",
+            "hu": "4. csoport: The Gobbins (a közelben)",
+            "ro": "Cluster 4: The Gobbins (în apropiere)",
+            "en": "Cluster 4: The Gobbins (Nearby)"
+          },
+          "coords": [
+            54.814,
+            -5.7
+          ],
+          "category": "natural features",
+          "arrive_at": "16:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein dramatischer Klippenpfad. Buchen Sie die Führung unbedingt im Voraus!",
+            "hu": "Drámai sziklaösvény. A vezetett túrát mindenképpen foglalja le előre!",
+            "ro": "O potecă dramatică pe stâncă. Asigurați-vă că rezervați turul ghidat în avans!",
+            "en": "A dramatic cliff path. Make sure to book the guided tour in advance!"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie die Highlights von Larne und Umgebung erkunden. Beginnen Sie im Carnfunnock Park, fahren Sie dann zum versteckten Gleno-Wasserfall. Zu Mittag parken Sie im Zentrum von Larne, um das Museum und die Sehenswürdigkeiten am Hafen zu Fuß zu erkunden. Der Nachmittag ist für das spektakuläre Abenteuer des Gobbins-Klippenpfads reserviert, ein unvergessliches Erlebnis an der Küste von Antrim.",
+        "hu": "Autóval felfedezheti Larne és a környék legjavát. Kezdje a Carnfunnock Parkban, majd vezessen el a rejtett Gleno-vízeséshez. Délben parkoljon le Larne központjában, hogy gyalog fedezze fel a múzeumot és a kikötői látnivalókat. A délutánt a látványos Gobbins-sziklaösvény kalandjára szánjuk, amely egy felejthetetlen élmény az Antrim-parton.",
+        "ro": "Cu mașina puteți explora cele mai importante atracții din Larne și din împrejurimi. Începeți la Parcul Carnfunnock, apoi conduceți la cascada ascunsă Gleno. La prânz, parcați în centrul orașului Larne pentru a explora pe jos muzeul și obiectivele turistice din port. După-amiaza este rezervată pentru aventura spectaculoasă a potecii de pe stânca Gobbins, o experiență de neuitat pe coasta Antrim.",
+        "en": "By car, you can explore the highlights of Larne and its surroundings. Start at Carnfunnock Park, then drive to the hidden Gleno Waterfall. At midday, park in Larne's centre to explore the museum and harbour sights on foot. The afternoon is reserved for the spectacular adventure of The Gobbins cliff path, an unforgettable experience on the Antrim Coast."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Picknick im Carnfunnock Park",
+            "tip": "Kaufen Sie lokale Produkte für ein Mittagessen im Freien."
+          },
+          {
+            "name": "Café im Gobbins Visitor Centre",
+            "tip": "Für eine Stärkung vor oder nach der Wanderung."
+          },
+          {
+            "name": "Restaurant mit Meerblick in Larne",
+            "tip": "Genießen Sie frische Meeresfrüchte zum Abendessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piknik a Carnfunnock Parkban",
+            "tip": "Vásároljon helyi termékeket egy szabadtéri ebédhez."
+          },
+          {
+            "name": "Kávézó a Gobbins Látogatóközpontban",
+            "tip": "Erősítés a túra előtt vagy után."
+          },
+          {
+            "name": "Tengerre néző étterem Larne-ban",
+            "tip": "Élvezze a friss tenger gyümölcseit vacsorára."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Picnic în Parcul Carnfunnock",
+            "tip": "Cumpărați produse locale pentru un prânz în aer liber."
+          },
+          {
+            "name": "Cafenea la Centrul de Vizitatori Gobbins",
+            "tip": "Pentru o gustare înainte sau după drumeție."
+          },
+          {
+            "name": "Restaurant cu vedere la mare în Larne",
+            "tip": "Bucurați-vă de fructe de mare proaspete la cină."
+          }
+        ],
+        "en": [
+          {
+            "name": "Picnic at Carnfunnock Park",
+            "tip": "Buy local produce for an outdoor lunch."
+          },
+          {
+            "name": "Café at The Gobbins Visitor Centre",
+            "tip": "For a refreshment before or after the hike."
+          },
+          {
+            "name": "Sea-view restaurant in Larne",
+            "tip": "Enjoy fresh seafood for dinner."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gleno Wasserfall",
+            "tip": "Ein abgeschiedener Ort der Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Die Gärten von Carnfunnock",
+            "tip": "Finden Sie eine ruhige Ecke zum Entspannen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussicht vom Gobbins-Pfad",
+            "tip": "Atemberaubende und doch friedliche Momente über dem Meer.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gleno-vízesés",
+            "tip": "Egy eldugott, békés hely.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Carnfunnock kertjei",
+            "tip": "Keressen egy csendes sarkot a pihenéshez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a Gobbins-ösvényről",
+            "tip": "Lélegzetelállító, mégis békés pillanatok a tenger felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cascada Gleno",
+            "tip": "Un loc retras de pace.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grădinile din Carnfunnock",
+            "tip": "Găsiți un colț liniștit pentru a vă relaxa.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Priveliște de pe poteca Gobbins",
+            "tip": "Momente uluitoare, dar pașnice, deasupra mării.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gleno Waterfall",
+            "tip": "A secluded spot of peace.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "The gardens at Carnfunnock",
+            "tip": "Find a quiet corner to relax.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Views from The Gobbins path",
+            "tip": "Breathtaking yet peaceful moments above the sea.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gobbins-Geschenkeladen",
+            "tip": "Souvenirs von Ihrem Klippenabenteuer."
+          },
+          {
+            "name": "Kunstgalerien in Larne",
+            "tip": "Werke lokaler Künstler."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gobbins ajándékbolt",
+            "tip": "Emléktárgyak a sziklamászó kalandról."
+          },
+          {
+            "name": "Művészeti galériák Larne-ban",
+            "tip": "Helyi művészek alkotásai."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de cadouri Gobbins",
+            "tip": "Suveniruri de la aventura pe stâncă."
+          },
+          {
+            "name": "Galerii de artă în Larne",
+            "tip": "Lucrări ale artiștilor locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Gobbins gift shop",
+            "tip": "Souvenirs from your cliff adventure."
+          },
+          {
+            "name": "Art galleries in Larne",
+            "tip": "Works by local artists."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Buchen Sie die Gobbins-Tour weit im Voraus, sie ist sehr beliebt.",
+          "Überprüfen Sie die Wettervorhersage, da der Klippenpfad bei schlechtem Wetter geschlossen sein kann.",
+          "Parkgebühren können anfallen."
+        ],
+        "hu": [
+          "Foglalja le a Gobbins-túrát jó előre, nagyon népszerű.",
+          "Ellenőrizze az időjárás-előrejelzést, mivel a sziklaösvényt rossz időben lezárhatják.",
+          "Parkolási díjak merülhetnek fel."
+        ],
+        "ro": [
+          "Rezervați turul Gobbins cu mult timp în avans, este foarte popular.",
+          "Verificați prognoza meteo, deoarece poteca de pe stâncă poate fi închisă pe vreme rea.",
+          "Se pot aplica taxe de parcare."
+        ],
+        "en": [
+          "Book The Gobbins tour well in advance, it's very popular.",
+          "Check the weather forecast as the cliff path can be closed in bad weather.",
+          "Parking fees may apply."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Larne Zentrum & Hafen",
+            "hu": "1. csoport: Larne központ és kikötő",
+            "ro": "Cluster 1: Centrul și portul Larne",
+            "en": "Cluster 1: Larne Centre & Harbour"
+          },
+          "coords": [
+            54.851,
+            -5.815
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Busbahnhof und starten Sie Ihren Rundgang.",
+            "hu": "Menjen busszal a buszpályaudvarra, és kezdje a gyalogtúrát.",
+            "ro": "Luați un autobuz până la autogară și începeți turul pietonal.",
+            "en": "Take a bus to the bus station and start your walking tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Larne Museum und Kunstzentrum",
+            "hu": "Larne Múzeum és Művészeti Központ",
+            "ro": "Muzeul și Centrul de Arte din Larne",
+            "en": "Larne Museum and Arts Centre"
+          },
+          "coords": [
+            54.851,
+            -5.815
+          ],
+          "category": "museums",
+          "arrive_at": "09:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Busbahnhof aus leicht zu Fuß erreichbar.",
+            "hu": "Könnyen megközelíthető gyalog a buszpályaudvarról.",
+            "ro": "Ușor accesibil pe jos de la autogară.",
+            "en": "An easy walk from the bus station."
+          }
+        },
+        {
+          "name": {
+            "de": "Chaine Memorial Tower & Hafen",
+            "hu": "Chaine Emléktorony és kikötő",
+            "ro": "Turnul Memorial Chaine și Portul",
+            "en": "Chaine Memorial Tower & Harbour"
+          },
+          "coords": [
+            54.853,
+            -5.806
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein angenehmer Spaziergang zum maritimen Wahrzeichen der Stadt.",
+            "hu": "Kellemes séta a város tengeri nevezetességéhez.",
+            "ro": "O plimbare plăcută până la emblema maritimă a orașului.",
+            "en": "A pleasant walk to the town's maritime landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Carnfunnock Country Park",
+            "hu": "2. csoport: Carnfunnock Country Park",
+            "ro": "Cluster 2: Parcul Național Carnfunnock",
+            "en": "Cluster 2: Carnfunnock Country Park"
+          },
+          "coords": [
+            54.877,
+            -5.861
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:40",
+          "stay_min": 180,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus entlang der Küstenstraße zum Parkeingang.",
+            "hu": "Menjen busszal a tengerparti úton a park bejáratáig.",
+            "ro": "Luați un autobuz de-a lungul drumului de coastă până la intrarea în parc.",
+            "en": "Take a bus along the coast road to the park entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum zum Abendessen",
+            "hu": "Vissza a központba vacsorázni",
+            "ro": "Întoarcere în centru pentru cină",
+            "en": "Return to Centre for Dinner"
+          },
+          "coords": [
+            54.852,
+            -5.818
+          ],
+          "category": "gastro",
+          "arrive_at": "16:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück ins Zentrum für Ihr Abendessen.",
+            "hu": "Menjen busszal vissza a központba a vacsorához.",
+            "ro": "Luați autobuzul înapoi în centru pentru cină.",
+            "en": "Take the bus back to the centre for your dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln entdecken Sie Larne in zwei Teilen. Vormittags erkunden Sie das Stadtzentrum und den Hafen zu Fuß, nachdem Sie am Busbahnhof angekommen sind. Am Nachmittag bringt Sie ein Bus entlang der malerischen Küste zum Carnfunnock Country Park, wo Sie mehrere Stunden in der Natur verbringen. Am Abend fahren Sie zurück ins Zentrum, um den Tag mit einem Essen in einem lokalen Restaurant abzuschließen.",
+        "hu": "Tömegközlekedéssel két részletben fedezi fel Larne-t. Délelőtt a buszpályaudvarra érkezve gyalogosan fedezi fel a városközpontot és a kikötőt. Délután egy busz viszi a festői tengerpart mentén a Carnfunnock Country Parkba, ahol több órát tölthet a természetben. Este visszabuszozik a központba, hogy a napot egy helyi étteremben elfogyasztott vacsorával zárja.",
+        "ro": "Folosind transportul public, explorați Larne în două părți. Dimineața, după ce ajungeți la autogară, explorați pe jos centrul orașului și portul. După-amiaza, un autobuz vă duce de-a lungul coastei pitorești până la Parcul Carnfunnock, unde petreceți câteva ore în natură. Seara, luați autobuzul înapoi în centru pentru a încheia ziua cu o masă la un restaurant local.",
+        "en": "Using public transport, you'll explore Larne in two parts. The morning is for walking around the town centre and harbour after arriving at the bus station. In the afternoon, a bus takes you along the scenic coast to Carnfunnock Country Park for several hours of nature. You'll bus back in the evening to finish your day with a meal in a local restaurant."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sandwich zum Mitnehmen",
+            "tip": "Perfekt für ein schnelles Mittagessen zwischen den Busfahrten."
+          },
+          {
+            "name": "Eis am Meer",
+            "tip": "Eine süße Belohnung im Carnfunnock Park."
+          },
+          {
+            "name": "Pub-Essen",
+            "tip": "Ein klassisches, sättigendes Abendessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Elvihető szendvics",
+            "tip": "Tökéletes egy gyors ebédhez a buszutak között."
+          },
+          {
+            "name": "Fagylalt a tengernél",
+            "tip": "Édes jutalom a Carnfunnock Parkban."
+          },
+          {
+            "name": "Pub-étel",
+            "tip": "Klasszikus, laktató vacsora."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sandviș la pachet",
+            "tip": "Perfect pentru un prânz rapid între călătoriile cu autobuzul."
+          },
+          {
+            "name": "Înghețată la malul mării",
+            "tip": "O recompensă dulce în Parcul Carnfunnock."
+          },
+          {
+            "name": "Mâncare de pub",
+            "tip": "O cină clasică și sățioasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Take-away sandwich",
+            "tip": "Perfect for a quick lunch between bus rides."
+          },
+          {
+            "name": "Ice cream by the sea",
+            "tip": "A sweet treat at Carnfunnock Park."
+          },
+          {
+            "name": "Pub grub",
+            "tip": "A classic, filling dinner."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt entlang der Küste",
+            "tip": "Genießen Sie die Aussicht vom oberen Deck.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Der ummauerte Garten in Carnfunnock",
+            "tip": "Ein Refugium der Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eine Bank im Town Park",
+            "tip": "Beobachten Sie die Welt an sich vorbeiziehen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszút a tengerpart mentén",
+            "tip": "Élvezze a kilátást a felső emeletről.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A fallal körülvett kert Carnfunnockban",
+            "tip": "A béke menedéke.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy pad a Városi Parkban",
+            "tip": "Nézze a világot elhaladni.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătorie cu autobuzul de-a lungul coastei",
+            "tip": "Bucurați-vă de priveliște de la etaj.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina împrejmuită din Carnfunnock",
+            "tip": "Un sanctuar de pace.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O bancă în Parcul Orașului",
+            "tip": "Priviți lumea cum trece.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride along the coast",
+            "tip": "Enjoy the view from the top deck.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "The Walled Garden in Carnfunnock",
+            "tip": "A sanctuary of peace.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A bench in the Town Park",
+            "tip": "Watch the world go by.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Hauptstraße",
+            "tip": "Stöbern Sie, während Sie auf Ihren Bus warten."
+          },
+          {
+            "name": "Laden im Carnfunnock Park",
+            "tip": "Pflanzen und Gartengeschenke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok a főutcán",
+            "tip": "Böngésszen, amíg a buszra vár."
+          },
+          {
+            "name": "Bolt a Carnfunnock Parkban",
+            "tip": "Növények és kerti ajándékok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine pe strada principală",
+            "tip": "Răsfoiți în timp ce așteptați autobuzul."
+          },
+          {
+            "name": "Magazinul din Parcul Carnfunnock",
+            "tip": "Plante și cadouri de grădinărit."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops on the main street",
+            "tip": "Have a browse while waiting for your bus."
+          },
+          {
+            "name": "Shop at Carnfunnock Park",
+            "tip": "Plants and garden-related gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Busfahrten.",
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere für die letzte Rückfahrt.",
+          "Haben Sie Kleingeld für den Busfahrer bereit."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan buszozáshoz.",
+          "Ellenőrizze előre a buszmenetrendet, különösen az utolsó visszautat.",
+          "Készítsen elő aprópénzt a buszsofőrnek."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate cu autobuzul.",
+          "Verificați programul autobuzelor în avans, în special pentru ultima călătorie de întoarcere.",
+          "Pregătiți mărunțiș pentru șoferul autobuzului."
+        ],
+        "en": [
+          "Buy a day-pass for unlimited bus travel.",
+          "Check the bus timetable in advance, especially for the last bus back.",
+          "Have some change ready for the bus driver."
+        ]
+      }
+    }
+  }
+}

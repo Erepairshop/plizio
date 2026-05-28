@@ -1,0 +1,1470 @@
+{
+  "city_id": "belgium-mouscron-cities-v2",
+  "anchor": {
+    "name": "Mouscron",
+    "coords": [
+      3.2139,
+      50.7433
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz (Grand-Place)",
+            "hu": "Főtér (Grand-Place)",
+            "ro": "Piața Mare (Grand-Place)",
+            "en": "Main Square (Grand-Place)"
+          },
+          "coords": [
+            3.2145,
+            50.7436
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag hier mit einem Kaffee und beobachten Sie das städtische Treiben.",
+            "hu": "Kezdje a napot egy kávéval itt, és figyelje a város ébredését.",
+            "ro": "Începeți ziua aici cu o cafea, privind agitația orașului.",
+            "en": "Start your day here with a coffee and watch the town life unfold."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Mouscron",
+            "hu": "Mouscron-i Városháza",
+            "ro": "Primăria din Mouscron",
+            "en": "Mouscron Town Hall"
+          },
+          "coords": [
+            3.2151,
+            50.7441
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neugotische Architektur und die detaillierten Fassaden.",
+            "hu": "Csodálja meg a neogótikus építészetet és a részletgazdag homlokzatot.",
+            "ro": "Admirați arhitectura neogotică și fațadele detaliate.",
+            "en": "Admire the neo-Gothic architecture and the detailed facades."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt-Bartholomäus-Kirche",
+            "hu": "Szent Bertalan-templom",
+            "ro": "Biserica Sfântul Bartolomeu",
+            "en": "Saint Bartholomew's Church"
+          },
+          "coords": [
+            3.2165,
+            50.7439
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Suchen Sie nach dem beeindruckenden Carillon mit seinen 50 Glocken.",
+            "hu": "Keresse meg a lenyűgöző, 50 harangból álló harangjátékot.",
+            "ro": "Căutați carillonul impresionant cu cele 50 de clopote ale sale.",
+            "en": "Look for the impressive carillon with its 50 bells."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Volkskunde",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul de Folclor",
+            "en": "Museum of Folklore"
+          },
+          "coords": [
+            3.2188,
+            50.7455
+          ],
+          "category": "museums",
+          "arrive_at": "11:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in das Leben des 19. Jahrhunderts in dieser Region.",
+            "hu": "Merüljön el a 19. századi helyi életben.",
+            "ro": "Pătrundeți în viața din secolul al XIX-lea în această regiune.",
+            "en": "Immerse yourself in the 19th-century life of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Château des Comtes",
+            "hu": "Grófok kastélya",
+            "ro": "Castelul Conților",
+            "en": "Castle of the Counts"
+          },
+          "coords": [
+            3.2201,
+            50.7511
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Obwohl es sich um ein modernes Schloss handelt, ist der Park ideal für einen Spaziergang.",
+            "hu": "Bár ez egy modern kastély, a parkja ideális egy sétához.",
+            "ro": "Deși este un castel modern, parcul său este ideal pentru o plimbare.",
+            "en": "Although it's a modern castle, its park is ideal for a walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark von Mouscron",
+            "hu": "Mouscron Városi Park",
+            "ro": "Parcul Municipal Mouscron",
+            "en": "Mouscron Town Park"
+          },
+          "coords": [
+            3.2185,
+            50.7525
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für eine Pause am Nachmittag, genießen Sie die Teiche und Grünflächen.",
+            "hu": "Tökéletes hely egy délutáni szünetre, élvezze a tavakat és a zöld területeket.",
+            "ro": "Un loc perfect pentru o pauză de după-amiază; bucurați-vă de iazuri și spații verzi.",
+            "en": "A perfect spot for an afternoon break, enjoy the ponds and green spaces."
+          }
+        },
+        {
+          "name": {
+            "de": "Centre Marcel Marlier",
+            "hu": "Marcel Marlier Központ",
+            "ro": "Centrul Marcel Marlier",
+            "en": "Marcel Marlier Centre"
+          },
+          "coords": [
+            3.2199,
+            50.7501
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:00",
+          "stay_min": 65,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Welt von Martine, der berühmten Figur des lokalen Künstlers.",
+            "hu": "Fedezze fel Martine világát, a helyi művész híres karakterét.",
+            "ro": "Descoperiți lumea lui Martine, faimosul personaj al artistului local.",
+            "en": "Discover the world of Martine, the famous character by the local artist."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Mouscron am Grand-Place. Erkunden Sie vormittags die historische Architektur der Innenstadt, einschließlich des Rathauses und der Kirche. Nach dem Mittagessen tauchen Sie im Volkskundemuseum in die lokale Geschichte ein. Verbringen Sie den Nachmittag mit einem Spaziergang durch den Park zum Château des Comtes und beenden Sie den Tag mit einem kulturellen Besuch im Centre Marcel Marlier.",
+        "hu": "Kezdje a napot Mouscron szívében, a Grand-Place-on. Délelőtt fedezze fel a belváros történelmi építészetét, beleértve a városházát és a templomot. Ebéd után merüljön el a helyi történelemben a Néprajzi Múzeumban. A délutánt a parkon keresztül a Château des Comtes-hoz tett sétával töltse, és zárja a napot egy kulturális látogatással a Centre Marcel Marlier-ben.",
+        "ro": "Începeți ziua în inima orașului Mouscron, la Grand-Place. Explorați arhitectura istorică din centru dimineața, inclusiv primăria și biserica. După prânz, scufundați-vă în istoria locală la Muzeul de Folclor. Petreceți după-amiaza plimbându-vă prin parc până la Castelul Conților și încheiați ziua cu o vizită culturală la Centrul Marcel Marlier.",
+        "en": "Start your day in the heart of Mouscron at the Grand-Place. In the morning, explore the historic architecture of the city center, including the Town Hall and church. After lunch, delve into local history at the Folklore Museum. Spend the afternoon strolling through the park to the Château des Comtes and end your day with a cultural visit to the Marcel Marlier Centre."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Moules-frites",
+            "tip": "Ein belgischer Klassiker, Muscheln mit Pommes Frites."
+          },
+          {
+            "name": "Carbonnade flamande",
+            "tip": "Ein herzhafter Rindfleisch- und Zwiebeleintopf, gekocht in Bier."
+          },
+          {
+            "name": "Gaufre de Liège",
+            "tip": "Eine dichte, zuckersüße Waffel, perfekt als Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Moules-frites",
+            "tip": "Belga klasszikus, feketekagyló sült krumplival."
+          },
+          {
+            "name": "Carbonnade flamande",
+            "tip": "Gazdag, sörben főtt marha- és hagymaragu."
+          },
+          {
+            "name": "Liège-i gofri",
+            "tip": "Tömör, karamellizált cukros gofri, tökéletes uzsonnára."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Moules-frites",
+            "tip": "Un clasic belgian, midii servite cu cartofi prăjiți."
+          },
+          {
+            "name": "Carbonnade flamande",
+            "tip": "O tocană consistentă de vită și ceapă, gătită în bere."
+          },
+          {
+            "name": "Gaufre de Liège",
+            "tip": "O vafă densă, dulce și caramelizată, perfectă pentru o gustare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Moules-frites",
+            "tip": "A Belgian classic, mussels served with fries."
+          },
+          {
+            "name": "Carbonnade flamande",
+            "tip": "A hearty beef and onion stew cooked in beer."
+          },
+          {
+            "name": "Gaufre de Liège",
+            "tip": "A dense, sugary waffle, perfect for a snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtpark von Mouscron",
+            "tip": "Finden Sie eine ruhige Bank an einem der Teiche.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Innenhof des Museums",
+            "tip": "Nach Ihrem Besuch, eine Oase der Ruhe.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang entlang der alten Stadtmauern",
+            "tip": "Weniger bekannte Wege bieten friedliche Momente.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mouscron Városi Park",
+            "tip": "Keressen egy csendes padot a tavak egyikénél.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A múzeum udvara",
+            "tip": "A látogatás után a béke szigete.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a régi városfalak mentén",
+            "tip": "A kevésbé ismert ösvények békés pillanatokat kínálnak.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Municipal Mouscron",
+            "tip": "Găsiți o bancă liniștită lângă unul dintre iazuri.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea interioară a muzeului",
+            "tip": "După vizită, o oază de liniște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare de-a lungul vechilor ziduri",
+            "tip": "Cărări mai puțin cunoscute oferă momente de pace.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mouscron Town Park",
+            "tip": "Find a quiet bench by one of the ponds.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Courtyard of the Museum",
+            "tip": "After your visit, an oasis of calm.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk along the old city walls",
+            "tip": "Lesser-known paths offer peaceful moments.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marktplatz",
+            "tip": "Freitags findet hier ein lebhafter Markt statt, ideal für lokale Produkte."
+          },
+          {
+            "name": "Rue de la Marlière",
+            "tip": "Eine charmante Straße mit kleinen Boutiquen und Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Főtér",
+            "tip": "Péntekenként élénk piacot tartanak itt, ideális helyi termékek beszerzésére."
+          },
+          {
+            "name": "Rue de la Marlière",
+            "tip": "Bájos utca kis butikokkal és üzletekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Mare",
+            "tip": "O piață animată are loc aici vinerea, ideală pentru produse locale."
+          },
+          {
+            "name": "Rue de la Marlière",
+            "tip": "O stradă fermecătoare cu buticuri și magazine mici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Main Square",
+            "tip": "A lively market is held here on Fridays, great for local produce."
+          },
+          {
+            "name": "Rue de la Marlière",
+            "tip": "A charming street with small boutiques and shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind leicht zu Fuß erreichbar.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus, da diese variieren können.",
+          "Ein Spaziergang ist der beste Weg, um die versteckten Wandgemälde der Stadt zu entdecken."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros macskakövei egyenetlenek lehetnek.",
+          "A városközpont legtöbb látnivalója könnyen megközelíthető gyalog.",
+          "Ellenőrizze előre a múzeumok nyitvatartási idejét, mert az változó lehet.",
+          "A séta a legjobb módja a város rejtett falfestményeinek felfedezésének."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din centrul vechi poate fi denivelat.",
+          "Majoritatea atracțiilor din centrul orașului sunt ușor accesibile pe jos.",
+          "Verificați orele de deschidere ale muzeelor în avans, deoarece acestea pot varia.",
+          "O plimbare este cel mai bun mod de a descoperi picturile murale ascunse ale orașului."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Most attractions in the city center are within easy walking distance.",
+          "Check museum opening times in advance as they can vary.",
+          "Walking is the best way to discover the city's hidden murals."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz (Grand-Place)",
+            "hu": "Főtér (Grand-Place)",
+            "ro": "Piața Mare (Grand-Place)",
+            "en": "Main Square (Grand-Place)"
+          },
+          "coords": [
+            3.2145,
+            50.7436
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und genießen Sie die Atmosphäre dieses zentralen Platzes.",
+            "hu": "Tegye le a biciklit, és élvezze a központi tér hangulatát.",
+            "ro": "Parcați bicicleta și bucurați-vă de atmosfera acestei piețe centrale.",
+            "en": "Park your bike and enjoy the atmosphere of this central square."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Sankt-Bartholomäus-Kirche",
+            "hu": "Városháza és Szent Bertalan-templom",
+            "ro": "Primăria și Biserica Sf. Bartolomeu",
+            "en": "Town Hall & St. Bartholomew's Church"
+          },
+          "coords": [
+            3.2158,
+            50.744
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:37",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Diese beiden Wahrzeichen liegen so nah beieinander, dass man sie zusammen besichtigen kann.",
+            "hu": "Ez a két nevezetesség olyan közel van egymáshoz, hogy egyszerre meglátogathatja őket.",
+            "ro": "Aceste două repere sunt atât de apropiate încât le puteți vizita împreună.",
+            "en": "These two landmarks are so close together you can visit them as one."
+          }
+        },
+        {
+          "name": {
+            "de": "Wandgemälde der Picardie",
+            "hu": "Pikárdiai falfestmény",
+            "ro": "Pictura Murală din Picardia",
+            "en": "Picardy Wall Painting"
+          },
+          "coords": [
+            3.2105,
+            50.741
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:33",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Halten Sie Ausschau nach den vielen Fresken, die die Wände der Stadt schmücken.",
+            "hu": "Tartsa nyitva a szemét a város falait díszítő számos freskóra.",
+            "ro": "Fiți cu ochii în patru după numeroasele fresce care decorează zidurile orașului.",
+            "en": "Keep an eye out for the many frescoes that decorate the city's walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Volkskunde",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul de Folclor",
+            "en": "Museum of Folklore"
+          },
+          "coords": [
+            3.2188,
+            50.7455
+          ],
+          "category": "museums",
+          "arrive_at": "10:58",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort, um mehr über das Erbe der Textilindustrie der Region zu erfahren.",
+            "hu": "Nagyszerű hely, hogy többet tudjon meg a régió textilipari örökségéről.",
+            "ro": "Un loc excelent pentru a afla mai multe despre moștenirea textilă a regiunii.",
+            "en": "A great place to learn about the region's textile heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Château des Comtes",
+            "hu": "Grófok kastélya",
+            "ro": "Castelul Conților",
+            "en": "Castle of the Counts"
+          },
+          "coords": [
+            3.2201,
+            50.7511
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Machen Sie ein Picknick im Schlosspark, bevor Sie weiterfahren.",
+            "hu": "Piknikezzen egyet a kastély parkjában, mielőtt tovább indulna.",
+            "ro": "Faceți un picnic în parcul castelului înainte de a merge mai departe.",
+            "en": "Have a picnic in the castle grounds before moving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark von Mouscron",
+            "hu": "Mouscron Városi Park",
+            "ro": "Parcul Municipal Mouscron",
+            "en": "Mouscron Town Park"
+          },
+          "coords": [
+            3.2185,
+            50.7525
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:43",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fahren Sie auf den Wegen und genießen Sie die grüne Lunge der Stadt.",
+            "hu": "Kerékpározzon végig az ösvényeken, és élvezze a város zöld tüdejét.",
+            "ro": "Pedalați pe alei și bucurați-vă de plămânul verde al orașului.",
+            "en": "Cycle along the paths and enjoy the green lung of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Centre Marcel Marlier",
+            "hu": "Marcel Marlier Központ",
+            "ro": "Centrul Marcel Marlier",
+            "en": "Marcel Marlier Centre"
+          },
+          "coords": [
+            3.2199,
+            50.7501
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:58",
+          "stay_min": 77,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein Muss für Familien und Fans der Kinderliteratur.",
+            "hu": "Kötelező program családoknak és a gyermekirodalom rajongóinak.",
+            "ro": "O vizită obligatorie pentru familii și fanii literaturii pentru copii.",
+            "en": "A must-visit for families and fans of children's literature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am Grand-Place und radeln Sie zu den wichtigsten Sehenswürdigkeiten der Stadt. Am Vormittag entdecken Sie das historische Zentrum und einige der berühmten Wandgemälde. Nach dem Mittagessen führt Sie Ihre Route zum Museum, bevor Sie den Nachmittag im grünen Herzen der Stadt verbringen: dem Château des Comtes und dem Stadtpark. Schließen Sie Ihre Tour mit einem Besuch im fantasievollen Centre Marcel Marlier ab.",
+        "hu": "Induljon a Grand-Place-ról, és tekerjen el a város főbb nevezetességeihez. Délelőtt fedezze fel a történelmi központot és a híres falfestmények egy részét. Ebéd után az útvonal a múzeumhoz vezet, mielőtt a délutánt a város zöld szívében töltené: a Château des Comtes-ban és a városi parkban. Zárja a túrát egy látogatással a fantáziadús Centre Marcel Marlier-ben.",
+        "ro": "Porniți din Grand-Place și pedalați spre principalele atracții ale orașului. Dimineața, descoperiți centrul istoric și unele dintre faimoasele picturi murale. După prânz, traseul vă duce la muzeu înainte de a petrece după-amiaza în inima verde a orașului: Castelul Conților și parcul municipal. Încheiați turul cu o vizită la imaginativul Centru Marcel Marlier.",
+        "en": "Start from the Grand-Place and cycle to the city's main attractions. In the morning, discover the historic center and some of the famous murals. After lunch, your route takes you to the museum before spending the afternoon in the green heart of the city: the Château des Comtes and the town park. Conclude your tour with a visit to the imaginative Marcel Marlier Centre."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Friterie",
+            "tip": "Probieren Sie eine lokale Friterie für authentische belgische Pommes."
+          },
+          {
+            "name": "Tarte au sucre",
+            "tip": "Ein süßer Kuchen, der in der Region beliebt ist."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Belgien ist berühmt für sein Bier, probieren Sie eine lokale Brauerei."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Friterie",
+            "tip": "Próbáljon ki egy helyi 'friterie'-t az autentikus belga sült krumpliért."
+          },
+          {
+            "name": "Tarte au sucre",
+            "tip": "Édes pite, amely népszerű a régióban."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Belgium híres a söréről, kóstoljon meg egy helyi főzetet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Friterie",
+            "tip": "Încercați o 'friterie' locală pentru cartofi prăjiți belgieni autentici."
+          },
+          {
+            "name": "Tarte au sucre",
+            "tip": "O tartă dulce populară în regiune."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "Belgia este renumită pentru berea sa, încercați o marcă locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Friterie",
+            "tip": "Try a local 'friterie' for authentic Belgian fries."
+          },
+          {
+            "name": "Tarte au sucre",
+            "tip": "A sweet pie popular in the region."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Belgium is famous for its beer, try a local brew."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Canal de l'Espierres",
+            "tip": "Eine ruhige Radtour etwas außerhalb des Zentrums.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten des Château des Comtes",
+            "tip": "Ein friedlicher Ort zum Entspannen nach der Radtour.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Früher Morgen am Stadtpark",
+            "tip": "Genießen Sie die Stille, bevor die Stadt erwacht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Canal de l'Espierres partja",
+            "tip": "Csendes kerékpártúra a központtól kicsit távolabb.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Château des Comtes kertjei",
+            "tip": "Békés hely a pihenésre a tekerés után.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kora reggel a városi parkban",
+            "tip": "Élvezze a csendet, mielőtt a város felébred.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile Canalului Espierres",
+            "tip": "O plimbare liniștită cu bicicleta chiar în afara centrului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Castelului Conților",
+            "tip": "Un loc pașnic pentru a vă relaxa după plimbarea cu bicicleta.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Dimineața devreme în parcul orașului",
+            "tip": "Bucurați-vă de liniște înainte ca orașul să se trezească.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Canal de l'Espierres",
+            "tip": "A quiet bike ride just outside the center.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gardens of the Château des Comtes",
+            "tip": "A peaceful place to relax after your ride.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Early morning at the Town Park",
+            "tip": "Enjoy the quiet before the city wakes up.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Mouscron ist fahrradfreundlich, es gibt mehrere Geschäfte für Zubehör."
+          },
+          {
+            "name": "Lokale Chocolatiers",
+            "tip": "Nehmen Sie einige der weltberühmten belgischen Pralinen mit nach Hause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Mouscron kerékpárbarát, több bolt is kínál kiegészítőket."
+          },
+          {
+            "name": "Helyi csokoládéboltok",
+            "tip": "Vigyen haza a világhírű belga csokoládékból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Mouscron este prietenos cu bicicletele, cu mai multe magazine pentru accesorii."
+          },
+          {
+            "name": "Ciocolaterii locale",
+            "tip": "Luați acasă unele dintre celebrele praline belgiene."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "Mouscron is bike-friendly, with several shops for accessories."
+          },
+          {
+            "name": "Local Chocolatiers",
+            "tip": "Take home some of world-famous Belgian chocolates."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mouscron ist relativ flach und daher ideal zum Radfahren.",
+          "Achten Sie auf die Fahrradwege und die örtlichen Verkehrsregeln.",
+          "Schließen Sie Ihr Fahrrad immer sicher ab, wenn Sie es abstellen.",
+          "Viele Cafés sind fahrradfreundlich und bieten einen Platz zum Ausruhen."
+        ],
+        "hu": [
+          "Mouscron viszonylag sík, így ideális a kerékpározáshoz.",
+          "Ügyeljen a kerékpárutakra és a helyi közlekedési szabályokra.",
+          "Mindig zárja le biztonságosan a kerékpárt, amikor leparkolja.",
+          "Sok kávézó kerékpárbarát, és helyet biztosít a pihenésre."
+        ],
+        "ro": [
+          "Mouscron este relativ plat, făcându-l ideal pentru ciclism.",
+          "Fiți atenți la pistele de biciclete și la regulile locale de trafic.",
+          "Încuiati întotdeauna bicicleta în siguranță atunci când o parcați.",
+          "Multe cafenele sunt prietenoase cu bicicliștii și oferă un loc de odihnă."
+        ],
+        "en": [
+          "Mouscron is relatively flat, making it ideal for cycling.",
+          "Pay attention to the bike lanes and local traffic rules.",
+          "Always lock your bike securely when parking it.",
+          "Many cafes are bike-friendly and offer a place to rest."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 11.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Historisches Zentrum",
+            "hu": "1. csoport: Történelmi központ",
+            "ro": "Grupul 1: Centrul Istoric",
+            "en": "Cluster 1: Historic Center"
+          },
+          "coords": [
+            3.2148,
+            50.7438
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Grand-Place, um das Stadtzentrum zu Fuß zu erkunden.",
+            "hu": "Parkoljon a Grand-Place közelében, és fedezze fel gyalog a városközpontot.",
+            "ro": "Parcați lângă Grand-Place pentru a explora centrul orașului pe jos.",
+            "en": "Park near the Grand-Place to explore the city center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Marktplatz",
+            "hu": "Városháza és Főtér",
+            "ro": "Primăria și Piața Mare",
+            "en": "Town Hall & Main Square"
+          },
+          "coords": [
+            3.2151,
+            50.7441
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die beeindruckende Architektur und die umliegenden Geschäfte.",
+            "hu": "Fedezze fel a lenyűgöző építészetet és a környező üzleteket.",
+            "ro": "Explorați arhitectura impresionantă și magazinele din jur.",
+            "en": "Explore the impressive architecture and surrounding shops."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt-Bartholomäus-Kirche",
+            "hu": "Szent Bertalan-templom",
+            "ro": "Biserica Sfântul Bartolomeu",
+            "en": "Saint Bartholomew's Church"
+          },
+          "coords": [
+            3.2165,
+            50.7439
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Rathaus entfernt, diese Kirche ist einen Besuch wert.",
+            "hu": "Rövid sétára a városházától, ez a templom megér egy látogatást.",
+            "ro": "La o scurtă plimbare de primărie, această biserică merită vizitată.",
+            "en": "A short walk from the town hall, this church is worth a visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Kultur & Erbe",
+            "hu": "2. csoport: Kultúra és Örökség",
+            "ro": "Grupul 2: Cultură și Patrimoniu",
+            "en": "Cluster 2: Culture & Heritage"
+          },
+          "coords": [
+            3.219,
+            50.746
+          ],
+          "category": "museums",
+          "arrive_at": "11:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Museum für Volkskunde. Parkmöglichkeiten sind in der Nähe vorhanden.",
+            "hu": "Vezessen a Néprajzi Múzeumhoz. Parkolási lehetőségek a közelben találhatók.",
+            "ro": "Conduceți la Muzeul de Folclor. Parcarea este disponibilă în apropiere.",
+            "en": "Drive to the Museum of Folklore. Parking is available nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Park & Schloss",
+            "hu": "3. csoport: Park és Kastély",
+            "ro": "Grupul 3: Parc și Castel",
+            "en": "Cluster 3: Park & Castle"
+          },
+          "coords": [
+            3.2201,
+            50.7511
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:30",
+          "stay_min": 70,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Château des Comtes und genießen Sie einen Spaziergang im Park.",
+            "hu": "Vezessen a Château des Comtes-hoz, és tegyen egy sétát a parkban.",
+            "ro": "Conduceți la Castelul Conților și bucurați-vă de o plimbare în parc.",
+            "en": "Drive to the Château des Comtes and enjoy a walk in the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Centre Marcel Marlier",
+            "hu": "Marcel Marlier Központ",
+            "ro": "Centrul Marcel Marlier",
+            "en": "Marcel Marlier Centre"
+          },
+          "coords": [
+            3.2199,
+            50.7501
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Schloss aus ist es nur ein kurzer Spaziergang zu diesem kreativen Zentrum.",
+            "hu": "A kastélytól csak egy rövid séta ez a kreatív központ.",
+            "ro": "De la castel, este doar o scurtă plimbare până la acest centru creativ.",
+            "en": "From the castle, it's just a short walk to this creative center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Ihr Auto, um zwischen den verschiedenen Clustern von Sehenswürdigkeiten zu wechseln. Beginnen Sie im historischen Zentrum und erkunden Sie den Grand-Place zu Fuß. Fahren Sie dann zum Kulturcluster für einen Museumsbesuch am Vormittag. Nach dem Mittagessen bringt Sie Ihr Auto zum grünen Cluster des Schlosses und des Parks, wo Sie den Nachmittag mit einem Spaziergang und einem Besuch im fantasievollen Marcel Marlier Zentrum ausklingen lassen.",
+        "hu": "Használja autóját a látnivalók különböző csoportjai közötti váltáshoz. Kezdje a történelmi központban, és fedezze fel gyalog a Grand-Place-t. Ezután vezessen a kulturális negyedbe egy délelőtti múzeumlátogatásra. Ebéd után autója elviszi Önt a kastély és a park zöld oázisába, ahol a délutánt egy sétával és a fantáziadús Marcel Marlier Központ meglátogatásával zárhatja.",
+        "ro": "Folosiți mașina pentru a vă deplasa între diferitele grupuri de atracții. Începeți în centrul istoric, explorând Grand-Place pe jos. Apoi, conduceți la grupul cultural pentru o vizită la muzeu dimineața. După prânz, mașina vă va duce la grupul verde al castelului și parcului, încheind după-amiaza cu o plimbare și o vizită la imaginativul Centru Marcel Marlier.",
+        "en": "Use your car to switch between different clusters of attractions. Start in the historic center, exploring the Grand-Place on foot. Then, drive to the cultural cluster for a museum visit in the morning. After lunch, your car will take you to the green cluster of the castle and park, finishing the afternoon with a walk and a visit to the imaginative Marcel Marlier Centre."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant im Stadtzentrum",
+            "tip": "Viele gute Optionen für ein Mittagessen in der Nähe des Grand-Place."
+          },
+          {
+            "name": "Picknick im Park",
+            "tip": "Kaufen Sie lokale Produkte und genießen Sie ein Picknick im Stadtpark."
+          },
+          {
+            "name": "Hofladen",
+            "tip": "Suchen Sie nach Hofläden am Stadtrand für frische, lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a városközpontban",
+            "tip": "Sok jó lehetőség ebédre a Grand-Place közelében."
+          },
+          {
+            "name": "Piknik a parkban",
+            "tip": "Vásároljon helyi termékeket és piknikezzen a városi parkban."
+          },
+          {
+            "name": "Termelői bolt",
+            "tip": "Keressen termelői boltokat a város szélén friss, helyi árukért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant în centrul orașului",
+            "tip": "Multe opțiuni bune pentru prânz lângă Grand-Place."
+          },
+          {
+            "name": "Picnic în parc",
+            "tip": "Cumpărați produse locale și bucurați-vă de un picnic în parcul orașului."
+          },
+          {
+            "name": "Magazin de fermă",
+            "tip": "Căutați magazine de fermă la periferia orașului pentru produse proaspete, locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "City Center Restaurant",
+            "tip": "Many good options for lunch near the Grand-Place."
+          },
+          {
+            "name": "Picnic in the park",
+            "tip": "Buy some local produce and enjoy a picnic in the town park."
+          },
+          {
+            "name": "Farm Shop",
+            "tip": "Look for farm shops on the outskirts for fresh, local produce."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ländliche Straßen um Mouscron",
+            "tip": "Eine kurze Fahrt aufs Land für eine andere Perspektive.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Friedhof von Mouscron",
+            "tip": "Ein überraschend friedlicher und historischer Ort.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Abgelegene Ecke im Stadtpark",
+            "tip": "Entfliehen Sie den Menschenmassen und lauschen Sie den Vögeln.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vidéki utak Mouscron körül",
+            "tip": "Egy rövid autóút a vidékre egy más perspektíváért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Mouscron-i temető",
+            "tip": "Meglepően békés és történelmi hely.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Elhagyatott sarok a városi parkban",
+            "tip": "Meneküljön el a tömeg elől, és hallgassa a madarakat.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumuri rurale în jurul Mouscron",
+            "tip": "O scurtă călătorie cu mașina la țară pentru o perspectivă diferită.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cimitirul din Mouscron",
+            "tip": "Un loc surprinzător de pașnic și istoric.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Colț retras în parcul orașului",
+            "tip": "Evadați de mulțime și ascultați păsările.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rural roads around Mouscron",
+            "tip": "A short drive into the countryside for a different perspective.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Mouscron Cemetery",
+            "tip": "A surprisingly peaceful and historic place.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Secluded corner in the Town Park",
+            "tip": "Escape the crowds and listen to the birds.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Einkaufszentrum Les Dauphins",
+            "tip": "Ein modernes Einkaufszentrum für alle Ihre Bedürfnisse."
+          },
+          {
+            "name": "Lokale Märkte",
+            "tip": "Prüfen Sie den lokalen Kalender auf Wochenend- oder Bauernmärkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Les Dauphins bevásárlóközpont",
+            "tip": "Modern bevásárlóközpont minden igényt kielégítve."
+          },
+          {
+            "name": "Helyi piacok",
+            "tip": "Ellenőrizze a helyi naptárt a hétvégi vagy termelői piacokért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Les Dauphins",
+            "tip": "Un centru comercial modern pentru toate nevoile dumneavoastră."
+          },
+          {
+            "name": "Piețe locale",
+            "tip": "Verificați calendarul local pentru piețele de weekend sau agricole."
+          }
+        ],
+        "en": [
+          {
+            "name": "Les Dauphins Shopping Center",
+            "tip": "A modern shopping center for all your needs."
+          },
+          {
+            "name": "Local Markets",
+            "tip": "Check the local calendar for weekend or farmer's markets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in der Innenstadt kann gebührenpflichtig sein, halten Sie Münzen bereit.",
+          "Planen Sie Ihre Route zwischen den Clustern, um Zeit zu sparen.",
+          "Ein GPS ist hilfreich, um sich in der Stadt und Umgebung zurechtzufinden.",
+          "Achten Sie auf Umweltzonen, die in einigen belgischen Städten gelten."
+        ],
+        "hu": [
+          "A belvárosi parkolás díjköteles lehet, tartson magánál érméket.",
+          "Tervezze meg az útvonalat a klaszterek között az időmegtakarítás érdekében.",
+          "A GPS hasznos a városban és környékén való navigáláshoz.",
+          "Vegye figyelembe a környezetvédelmi zónákat, amelyek egyes belga városokban érvényben vannak."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi contra cost, pregătiți monede.",
+          "Planificați-vă ruta între grupuri pentru a economisi timp.",
+          "Un GPS este util pentru a naviga prin oraș și împrejurimi.",
+          "Fiți conștienți de zonele cu emisii scăzute care se aplică în unele orașe belgiene."
+        ],
+        "en": [
+          "Parking in the city center can be paid, have coins ready.",
+          "Plan your route between clusters to save time.",
+          "A GPS is helpful for navigating the city and its surroundings.",
+          "Be aware of low-emission zones that apply in some Belgian cities."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Ankunft im Zentrum",
+            "hu": "1. csoport: Érkezés a központba",
+            "ro": "Grupul 1: Sosire în Centru",
+            "en": "Cluster 1: Center Arrival"
+          },
+          "coords": [
+            3.2145,
+            50.7436
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Grand-Place, dem idealen Ausgangspunkt.",
+            "hu": "Vegyen egy buszt a Grand-Place-ra, az ideális kiindulópontra.",
+            "ro": "Luați un autobuz până la Grand-Place, punctul de plecare ideal.",
+            "en": "Take a bus to the Grand-Place, the ideal starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus und Sankt-Bartholomäus-Kirche",
+            "hu": "Városháza és Szent Bertalan-templom",
+            "ro": "Primăria și Biserica Sfântul Bartolomeu",
+            "en": "Town Hall and Saint Bartholomew's Church"
+          },
+          "coords": [
+            3.2158,
+            50.744
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden Hauptattraktionen sind nur einen kurzen Spaziergang voneinander entfernt.",
+            "hu": "Ez a két fő látnivaló csak egy rövid sétára van egymástól.",
+            "ro": "Aceste două atracții principale sunt la doar o scurtă plimbare una de cealaltă.",
+            "en": "These two main attractions are just a short walk from each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Volkskunde",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul de Folclor",
+            "en": "Museum of Folklore"
+          },
+          "coords": [
+            3.2188,
+            50.7455
+          ],
+          "category": "museums",
+          "arrive_at": "10:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang vom Zentrum zum Museum.",
+            "hu": "Egy kellemes séta a központtól a múzeumig.",
+            "ro": "O plimbare plăcută din centru până la muzeu.",
+            "en": "A pleasant walk from the center to the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Park & Kultur",
+            "hu": "2. csoport: Park és Kultúra",
+            "ro": "Grupul 2: Parc și Cultură",
+            "en": "Cluster 2: Park & Culture"
+          },
+          "coords": [
+            3.219,
+            50.752
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Stadtpark, um den Nachmittag im Grünen zu beginnen.",
+            "hu": "Vegyen buszt a városi parkba, hogy a délutánt a zöldben kezdje.",
+            "ro": "Luați un autobuz spre parcul orașului pentru a începe după-amiaza în natură.",
+            "en": "Take a bus to the town park to start the afternoon in the green."
+          }
+        },
+        {
+          "name": {
+            "de": "Château des Comtes",
+            "hu": "Grófok kastélya",
+            "ro": "Castelul Conților",
+            "en": "Castle of the Counts"
+          },
+          "coords": [
+            3.2201,
+            50.7511
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie vom Park zum Schloss und bewundern Sie die Anlage.",
+            "hu": "Sétáljon át a parkból a kastélyba, és csodálja meg a birtokot.",
+            "ro": "Plimbați-vă din parc la castel și admirați domeniul.",
+            "en": "Stroll from the park to the castle and admire the grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Centre Marcel Marlier",
+            "hu": "Marcel Marlier Központ",
+            "ro": "Centrul Marcel Marlier",
+            "en": "Marcel Marlier Centre"
+          },
+          "coords": [
+            3.2199,
+            50.7501
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:20",
+          "stay_min": 65,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Zentrum ist Teil desselben kulturellen Clusters wie das Schloss.",
+            "hu": "A központ ugyanahhoz a kulturális csoporthoz tartozik, mint a kastély.",
+            "ro": "Centrul face parte din același grup cultural ca și castelul.",
+            "en": "The centre is part of the same cultural cluster as the castle."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die öffentlichen Verkehrsmittel von Mouscron bringen Sie bequem zu den wichtigsten Orten. Beginnen Sie mit einer Busfahrt ins Zentrum und erkunden Sie den historischen Kern zu Fuß. Ein weiterer kurzer Spaziergang führt Sie zum Museum. Am Nachmittag bringt Sie ein Bus in die Nähe des Parks und des Schlosses, ein perfektes Duo für einen entspannten Nachmittag, abgerundet durch das nahegelegene Kulturzentrum.",
+        "hu": "Mouscron tömegközlekedése kényelmesen eljuttatja Önt a kulcsfontosságú helyszínekre. Kezdje egy buszúttal a központba, és fedezze fel gyalog a történelmi magot. Egy másik rövid séta elviszi a múzeumhoz. Délután egy busz elviszi a park és a kastély közelébe, amely tökéletes páros egy pihentető délutánhoz, amit a közeli kulturális központ tesz teljessé.",
+        "ro": "Transportul public din Mouscron vă duce convenabil la locațiile cheie. Începeți cu o călătorie cu autobuzul în centru și explorați nucleul istoric pe jos. O altă plimbare scurtă vă va duce la muzeu. După-amiaza, un autobuz vă va duce în apropierea parcului și a castelului, un duo perfect pentru o după-amiază relaxantă, completată de centrul cultural din apropiere.",
+        "en": "Mouscron's public transport conveniently gets you to the key locations. Start with a bus ride to the center and explore the historic core on foot. Another short walk will take you to the museum. In the afternoon, a bus will take you near the park and castle, a perfect duo for a relaxing afternoon, completed by the nearby cultural centre."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sandwicherie",
+            "tip": "Schnappen Sie sich ein schnelles und leckeres Mittagessen in einer lokalen Sandwicherie."
+          },
+          {
+            "name": "Café in der Nähe einer Bushaltestelle",
+            "tip": "Perfekt für eine Pause, während Sie auf Ihren nächsten Bus warten."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Probieren Sie lokale Snacks vom Freitagsmarkt am Grand-Place."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szendvicsező",
+            "tip": "Kapjon be egy gyors és finom ebédet egy helyi szendvicsezőben."
+          },
+          {
+            "name": "Kávézó egy buszmegálló közelében",
+            "tip": "Tökéletes egy szünetre, amíg a következő buszra vár."
+          },
+          {
+            "name": "Hetipiac",
+            "tip": "Kóstoljon helyi falatokat a pénteki piacon a Grand-Place-on."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sandwicherie",
+            "tip": "Luați un prânz rapid și delicios la o sandwicherie locală."
+          },
+          {
+            "name": "Cafenea lângă o stație de autobuz",
+            "tip": "Perfect pentru o pauză în timp ce așteptați următorul autobuz."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Încercați gustări locale de la piața de vineri din Grand-Place."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sandwicherie",
+            "tip": "Grab a quick and delicious lunch at a local sandwich shop."
+          },
+          {
+            "name": "Café near a bus stop",
+            "tip": "Perfect for a break while waiting for your next bus."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "Try local snacks from the Friday market at the Grand-Place."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Oberdeck eines Busses",
+            "tip": "Beobachten Sie die Stadt aus einer anderen Perspektive.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Leseecke im Centre Marcel Marlier",
+            "tip": "Ein ruhiger Ort, um in die Welt der Bücher einzutauchen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang abseits der Hauptstraßen",
+            "tip": "Entdecken Sie ruhige Wohnstraßen zwischen den Haltestellen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy busz emelete",
+            "tip": "Figyelje a várost más szemszögből.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Olvasósarok a Marcel Marlier Központban",
+            "tip": "Csendes hely, ahol elmerülhet a könyvek világában.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a főutcáktól távol",
+            "tip": "Fedezzen fel csendes lakóutcákat a megállók között.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etajul superior al unui autobuz",
+            "tip": "Observați orașul dintr-o perspectivă diferită.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Colțul de lectură la Centrul Marcel Marlier",
+            "tip": "Un loc liniștit pentru a te cufunda în lumea cărților.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare pe străzile secundare",
+            "tip": "Descoperiți străzi rezidențiale liniștite între stații.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Upper deck of a bus",
+            "tip": "Watch the city go by from a different perspective.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Reading corner at the Marcel Marlier Centre",
+            "tip": "A quiet spot to dive into the world of books.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk off the main roads",
+            "tip": "Discover quiet residential streets between your stops.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Nähe des Bahnhofs",
+            "tip": "Praktisch für Last-Minute-Souvenirs vor der Abreise."
+          },
+          {
+            "name": "Kleine Läden in der Innenstadt",
+            "tip": "Unterstützen Sie lokale Unternehmen, die zu Fuß erreichbar sind."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Üzletek az állomás közelében",
+            "tip": "Praktikus az utolsó pillanatban beszerzett ajándéktárgyakhoz indulás előtt."
+          },
+          {
+            "name": "Kis üzletek a belvárosban",
+            "tip": "Támogassa a helyi vállalkozásokat, amelyek gyalogosan elérhetők."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine lângă gară",
+            "tip": "Convenabil pentru suveniruri de ultim moment înainte de plecare."
+          },
+          {
+            "name": "Mici magazine în centrul orașului",
+            "tip": "Sprijiniți afacerile locale care sunt accesibile pe jos."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops near the train station",
+            "tip": "Convenient for last-minute souvenirs before you leave."
+          },
+          {
+            "name": "Small shops in the city center",
+            "tip": "Support local businesses that are within walking distance."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel, um Geld zu sparen.",
+          "Laden Sie die App des lokalen Verkehrsunternehmens für Fahrpläne und Routen herunter.",
+          "Beachten Sie, dass Busse am Wochenende seltener fahren können.",
+          "Planen Sie Ihre Spaziergänge zwischen den Haltestellen, um das Beste aus Ihrer Zeit zu machen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
+          "Töltse le a helyi közlekedési vállalat alkalmazását a menetrendekért és útvonalakért.",
+          "Vegye figyelembe, hogy a buszok hétvégén ritkábban közlekedhetnek.",
+          "Tervezze meg a sétákat a megállók között, hogy a legtöbbet hozza ki az idejéből."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru a economisi bani.",
+          "Descărcați aplicația companiei locale de transport pentru orare și rute.",
+          "Rețineți că autobuzele pot circula mai rar în weekend.",
+          "Planificați-vă plimbările între stații pentru a profita la maximum de timp."
+        ],
+        "en": [
+          "Buy a day pass for public transport to save money.",
+          "Download the local transport company's app for timetables and routes.",
+          "Be aware that buses may run less frequently on weekends.",
+          "Plan your walks between stops to make the most of your time."
+        ]
+      }
+    }
+  }
+}

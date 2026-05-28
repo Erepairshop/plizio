@@ -1,0 +1,1460 @@
+{
+  "city_id": "czechrepublic-vsetin-cities-v2",
+  "anchor": {
+    "name": "Wsetin",
+    "coords": [
+      17.9961,
+      49.3384
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Unterer Platz",
+            "hu": "Alsó tér",
+            "ro": "Piața de Jos",
+            "en": "Lower Square"
+          },
+          "coords": [
+            17.9955,
+            49.338
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee in einem der örtlichen Cafés.",
+            "hu": "Kezdje a napot egy kávéval az egyik helyi kávézóban.",
+            "ro": "Începeți ziua aici cu o cafea la una dintre cafenelele locale.",
+            "en": "Start your day here with a coffee at one of the local cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Rathaus",
+            "hu": "Régi Városháza",
+            "ro": "Primăria Veche",
+            "en": "Old Town Hall"
+          },
+          "coords": [
+            17.9958,
+            49.3385
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:41",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Renaissance-Architektur dieses historischen Gebäudes.",
+            "hu": "Csodálja meg ennek a történelmi épületnek a reneszánsz építészetét.",
+            "ro": "Admirați arhitectura renascentistă a acestei clădiri istorice.",
+            "en": "Admire the Renaissance architecture of this historic building."
+          }
+        },
+        {
+          "name": {
+            "de": "Oberer Platz & Maštaliska",
+            "hu": "Felső tér és Maštaliska",
+            "ro": "Piața de Sus & Maštaliska",
+            "en": "Upper Square & Maštaliska"
+          },
+          "coords": [
+            17.9975,
+            49.3395
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:19",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie den Platz und suchen Sie das alte Haus, das früher als Pferdestall diente.",
+            "hu": "Fedezze fel a teret, és keresse meg a régi házat, amely egykor istállóként szolgált.",
+            "ro": "Explorați piața și căutați vechea casă care servea drept grajd de cai.",
+            "en": "Explore the square and look for the old house that once served as a stable."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Himmelfahrt",
+            "hu": "Mária Mennybemenetele templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Assumption"
+          },
+          "coords": [
+            17.9988,
+            49.3401
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit, um die barocke Innenausstattung und die ruhige Atmosphäre zu genießen.",
+            "hu": "Szánjon egy percet a barokk belső és a csendes légkör élvezetére.",
+            "ro": "Luați-vă un moment pentru a vă bucura de interiorul baroc și de atmosfera liniștită.",
+            "en": "Take a moment to enjoy the baroque interior and the quiet atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Vsetín",
+            "hu": "Vsetíni kastély",
+            "ro": "Castelul Vsetín",
+            "en": "Vsetín Castle"
+          },
+          "coords": [
+            17.9942,
+            49.3415
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:05",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Das Schloss beherbergt ein Regionalmuseum. Perfekt für einen tiefen Einblick in die walachische Kultur.",
+            "hu": "A kastély egy regionális múzeumnak ad otthont. Tökéletes a valah kultúra megismeréséhez.",
+            "ro": "Castelul găzduiește un muzeu regional. Perfect pentru o incursiune în cultura valahă.",
+            "en": "The castle hosts a regional museum. Perfect for a deep dive into Wallachian culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der Befreiung",
+            "hu": "Felszabadulási emlékmű",
+            "ro": "Monumentul Eliberării",
+            "en": "Liberation Monument"
+          },
+          "coords": [
+            17.991,
+            49.337
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:31",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Halt, um über die lokale Geschichte nachzudenken.",
+            "hu": "Rövid megálló a helyi történelem elmélkedésére.",
+            "ro": "O scurtă oprire pentru a reflecta asupra istoriei locale.",
+            "en": "A brief stop to reflect on the local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Fluss Vsetínská Bečva",
+            "hu": "Séta a Vsetínská Bečva folyó mentén",
+            "ro": "Plimbare pe malul râului Vsetínská Bečva",
+            "en": "Walk along the Vsetínská Bečva River"
+          },
+          "coords": [
+            17.9935,
+            49.3355
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "15:06",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein entspannender Abschluss des Tages am Wasser.",
+            "hu": "Pihentető befejezése a napnak a vízparton.",
+            "ro": "O încheiere relaxantă a zilei pe malul apei.",
+            "en": "A relaxing end to the day by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Vormittag in Vsetín beginnt auf dem belebten Unteren Platz und führt Sie durch historische Gassen zum Alten Rathaus und dem ruhigeren Oberen Platz. Am Mittag tauchen Sie im Schloss Vsetín tief in die walachische Kultur ein und genießen ein herzhaftes lokales Mittagessen. Der Nachmittag wird ruhiger mit einem Spaziergang zum Befreiungsdenkmal und endet mit einem entspannenden Spaziergang am Ufer der Vsetínská Bečva. Am Abend lassen Sie den Tag in einem traditionellen Restaurant ausklingen und erleben die herzliche Gastfreundschaft der Region.",
+        "hu": "A vsetíni délelőtt a nyüzsgő Alsó téren kezdődik, történelmi utcákon át a Régi Városházához és a csendesebb Felső térhez vezet. Délben a vsetíni kastélyban mélyed el a valah kultúrában, és elfogyaszt egy kiadós helyi ebédet. A délután csendesebb lesz egy sétával a Felszabadulási emlékműhöz, majd a Vsetínská Bečva folyó partján tett pihentető sétával zárul. Este egy hagyományos étteremben fejezi be a napot, megtapasztalva a régió meleg vendégszeretetét.",
+        "ro": "Dimineața dvs. în Vsetín începe în animata Piață de Jos, ducându-vă pe alei istorice către Primăria Veche și Piața de Sus, mai liniștită. La prânz, pătrundeți în cultura valahă la Castelul Vsetín, savurând un prânz local consistent. După-amiaza devine mai liniștită cu o plimbare la Monumentul Eliberării și se încheie cu o plimbare relaxantă pe malul râului Vsetínská Bečva. Seara, încheiați ziua la un restaurant tradițional, experimentând ospitalitatea caldă a regiunii.",
+        "en": "Your morning in Vsetín starts in the bustling Lower Square, leading you through historic alleys to the Old Town Hall and the quieter Upper Square. At midday, you'll delve into Wallachian culture at Vsetín Castle, enjoying a hearty local lunch. The afternoon becomes more serene with a walk to the Liberation Monument and concludes with a relaxing stroll along the Vsetínská Bečva riverbank. In the evening, you'll round off the day at a traditional restaurant, experiencing the region's warm hospitality."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Valašská Kyselica",
+            "tip": "Eine traditionelle Sauerkrautsuppe, typisch für die Region."
+          },
+          {
+            "name": "Halušky s bryndzou",
+            "tip": "Kartoffelnocken mit Schafskäse, ein herzhaftes Hauptgericht."
+          },
+          {
+            "name": "Pivovar Valášek",
+            "tip": "Probieren Sie lokales Bier direkt aus der Brauerei."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Valašská Kyselica",
+            "tip": "Hagyományos savanyúkáposzta-leves, a régióra jellemző."
+          },
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Juhtúrós galuska, egy kiadós főétel."
+          },
+          {
+            "name": "Pivovar Valášek",
+            "tip": "Kóstolja meg a helyi sört közvetlenül a sörfőzdéből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Valašská Kyselica",
+            "tip": "O supă tradițională de varză murată, specifică regiunii."
+          },
+          {
+            "name": "Halušky cu brânză de oaie",
+            "tip": "Găluște de cartofi cu brânză de oaie, un fel principal consistent."
+          },
+          {
+            "name": "Pivovar Valášek",
+            "tip": "Încercați berea locală direct de la fabrică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Valašská Kyselica",
+            "tip": "A traditional sauerkraut soup, typical of the region."
+          },
+          {
+            "name": "Halušky with bryndza",
+            "tip": "Potato dumplings with sheep cheese, a hearty main course."
+          },
+          {
+            "name": "Pivovar Valášek",
+            "tip": "Try local beer straight from the brewery."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlosspark",
+            "tip": "Finden Sie eine ruhige Bank im Park rund um das Schloss Vsetín.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Flussufer der Vsetínská Bečva",
+            "tip": "Ein friedlicher Ort, um dem Stadtlärm zu entfliehen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirche Mariä Himmelfahrt",
+            "tip": "Eine Oase der Ruhe und Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kastélypark",
+            "tip": "Keressen egy csendes padot a Vsetíni kastély körüli parkban.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vsetínská Bečva folyópart",
+            "tip": "Békés hely a város zajától távol.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Mária Mennybemenetele templom",
+            "tip": "A béke és az elmélkedés oázisa.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului",
+            "tip": "Găsiți o bancă liniștită în parcul din jurul Castelului Vsetín.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul râului Vsetínská Bečva",
+            "tip": "Un loc pașnic pentru a evada din zgomotul orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Biserica Adormirea Maicii Domnului",
+            "tip": "O oază de pace și reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Park",
+            "tip": "Find a quiet bench in the park surrounding Vsetín Castle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vsetínská Bečva Riverbank",
+            "tip": "A peaceful spot to escape the city noise.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Church of the Assumption",
+            "tip": "An oasis of peace and reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Suchen Sie nach lokalen Produkten und walachischem Handwerk."
+          },
+          {
+            "name": "Regionale Produkte",
+            "tip": "Kaufen Sie Sliwowitz (Pflaumenschnaps) oder traditionelle Stickereien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Keressen helyi termékeket és valah kézműves termékeket."
+          },
+          {
+            "name": "Regionális termékek",
+            "tip": "Vásároljon slivovicát (szilvapálinkát) vagy hagyományos hímzést."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Căutați produse locale și artizanat valah."
+          },
+          {
+            "name": "Produse regionale",
+            "tip": "Cumpărați Slivovitz (rachiu de prune) sau broderii tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Look for local produce and Wallachian handicrafts."
+          },
+          {
+            "name": "Regional Products",
+            "tip": "Shop for Slivovitz (plum brandy) or traditional embroidery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Planen Sie genügend Zeit für das Museum im Schloss ein, es ist überraschend umfangreich.",
+          "Die besten Fotomöglichkeiten haben Sie am frühen Morgen auf den Plätzen, bevor die Menschenmassen kommen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakövek egyenetlenek lehetnek az óvárosban.",
+          "A központi látnivalók többsége könnyen megközelíthető gyalog.",
+          "Szánjon elegendő időt a kastélyban lévő múzeumra, meglepően nagy.",
+          "A legjobb fotózási lehetőségek kora reggel a tereken vannak, a tömeg érkezése előtt."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavelele din orașul vechi pot fi denivelate.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Alocați suficient timp pentru muzeul din castel, este surprinzător de vast.",
+          "Cele mai bune oportunități foto sunt dimineața devreme în piețe, înainte de aglomerație."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Most sights in the center are within easy walking distance.",
+          "Allow plenty of time for the museum in the castle; it's surprisingly extensive.",
+          "The best photo opportunities are in the squares early in the morning before the crowds arrive."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtzentrum Erkundung",
+            "hu": "Városközpont felfedezése",
+            "ro": "Explorarea centrului orașului",
+            "en": "City Center Exploration"
+          },
+          "coords": [
+            17.9955,
+            49.338
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Radeln Sie gemütlich zwischen Unterem und Oberem Platz und dem Alten Rathaus.",
+            "hu": "Tekerjen kényelmesen az Alsó és Felső tér, valamint a Régi Városháza között.",
+            "ro": "Pedalați lejer între Piața de Jos, Piața de Sus și Primăria Veche.",
+            "en": "Cycle leisurely between the Lower and Upper Squares and the Old Town Hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Vsetín",
+            "hu": "Vsetíni kastély",
+            "ro": "Castelul Vsetín",
+            "en": "Vsetín Castle"
+          },
+          "coords": [
+            17.9942,
+            49.3415
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:46",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Fuße des Hügels ab und gehen Sie hinauf zum Schlossmuseum.",
+            "hu": "Zárja le a kerékpárját a domb alján, és sétáljon fel a kastélymúzeumhoz.",
+            "ro": "Încuietoarea bicicletei la poalele dealului și urcați la muzeul castelului.",
+            "en": "Lock your bike at the bottom of the hill and walk up to the castle museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Flussufer",
+            "hu": "Ebéd a folyóparton",
+            "ro": "Prânz pe malul râului",
+            "en": "Lunch by the River"
+          },
+          "coords": [
+            17.9935,
+            49.3355
+          ],
+          "category": "gastro",
+          "arrive_at": "12:38",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Finden Sie ein Restaurant mit Terrasse mit Blick auf die Vsetínská Bečva.",
+            "hu": "Keressen egy teraszos éttermet, kilátással a Vsetínská Bečva folyóra.",
+            "ro": "Găsiți un restaurant cu o terasă cu vedere la râul Vsetínská Bečva.",
+            "en": "Find a restaurant with a terrace overlooking the Vsetínská Bečva river."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der Befreiung",
+            "hu": "Felszabadulási emlékmű",
+            "ro": "Monumentul Eliberării",
+            "en": "Liberation Monument"
+          },
+          "coords": [
+            17.991,
+            49.337
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:04",
+          "stay_min": 15,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein kurzer, nachdenklicher Halt auf Ihrer Radtour.",
+            "hu": "Egy rövid, elgondolkodtató megálló a kerékpártúrán.",
+            "ro": "O oprire scurtă și reflexivă în turul cu bicicleta.",
+            "en": "A short, reflective stop on your bike tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Sternwarte Vsetín",
+            "hu": "Vsetíni csillagvizsgáló",
+            "ro": "Observatorul Vsetín",
+            "en": "Vsetín Observatory"
+          },
+          "coords": [
+            18.015,
+            49.345
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "14:48",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 4.8,
+          "tip_5lang": {
+            "de": "Der Aufstieg ist die Aussicht wert! Überprüfen Sie die Öffnungszeiten im Voraus.",
+            "hu": "A kilátás megéri a mászást! Előre ellenőrizze a nyitvatartási időt.",
+            "ro": "Urcușul merită priveliștea! Verificați orele de deschidere în avans.",
+            "en": "The climb is worth the view! Check opening hours in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum",
+            "hu": "Visszatérés a központba",
+            "ro": "Întoarcere în centru",
+            "en": "Return to Center"
+          },
+          "coords": [
+            17.9961,
+            49.3384
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:05",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem wohlverdienten Getränk in einem Café.",
+            "hu": "Fejezze be a túrát egy jól megérdemelt itallal egy kávézóban.",
+            "ro": "Încheiați turul cu o băutură binemeritată la o cafenea.",
+            "en": "End your tour with a well-deserved drink at a cafe."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich am Morgen auf den Sattel und erkunden Sie das historische Herz von Vsetín. Nach dem Besuch des Schlosses und seines Museums am Mittag stärken Sie sich in einem Restaurant am Flussufer. Am Nachmittag führt Sie Ihre Radtour zu historischen Monumenten und gipfelt im Aufstieg zur Sternwarte, die Sie mit einer atemberaubenden Aussicht belohnt. Der Abend ist perfekt, um bei einem lokalen Bier zu entspannen und die Erlebnisse des Tages Revue passieren zu lassen.",
+        "hu": "Reggel pattanjon nyeregbe, és fedezze fel Vsetín történelmi szívét. Miután délben meglátogatta a kastélyt és múzeumát, ebédeljen egy folyóparti étteremben. Délután a kerékpártúra történelmi emlékművekhez vezet, és a csillagvizsgálóhoz való feljutásban csúcsosodik ki, amely lélegzetelállító kilátással jutalmazza. Az este tökéletes arra, hogy egy helyi sör mellett pihenjen, és átgondolja a nap élményeit.",
+        "ro": "Dimineața, urcați-vă în șa și explorați inima istorică a orașului Vsetín. După ce vizitați castelul și muzeul său la prânz, luați masa la un restaurant de pe malul râului. După-amiaza, turul cu bicicleta vă duce la monumente istorice și culminează cu urcarea la observator, care vă recompensează cu o priveliște uluitoare. Seara este perfectă pentru a vă relaxa cu o bere locală și a rememora experiențele zilei.",
+        "en": "In the morning, get on your bike and explore the historic heart of Vsetín. After visiting the castle and its museum at midday, refuel at a riverside restaurant. In the afternoon, your bike tour takes you to historical monuments and culminates in the climb to the observatory, which rewards you with a breathtaking view. The evening is perfect for relaxing with a local beer and reflecting on the day's experiences."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurace U mostu",
+            "tip": "Ideal für ein Mittagessen mit Blick auf den Fluss."
+          },
+          {
+            "name": "Škvarková pomazánka",
+            "tip": "Ein deftiger Griebenaufstrich, perfekt nach einer Radtour."
+          },
+          {
+            "name": "Kofola",
+            "tip": "Probieren Sie die tschechische Alternative zu Cola."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurace U mostu",
+            "tip": "Ideális egy ebédhez, kilátással a folyóra."
+          },
+          {
+            "name": "Škvarková pomazánka",
+            "tip": "Kiadós tepertőkrém, tökéletes egy kerékpártúra után."
+          },
+          {
+            "name": "Kofola",
+            "tip": "Kóstolja meg a kóla cseh alternatíváját."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurace U mostu",
+            "tip": "Ideal pentru un prânz cu vedere la râu."
+          },
+          {
+            "name": "Škvarková pomazánka",
+            "tip": "O pastă consistentă de jumări, perfectă după o plimbare cu bicicleta."
+          },
+          {
+            "name": "Kofola",
+            "tip": "Încercați alternativa cehă la Cola."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurace U mostu",
+            "tip": "Ideal for a lunch with a view of the river."
+          },
+          {
+            "name": "Škvarková pomazánka",
+            "tip": "A hearty pork scratching spread, perfect after a bike ride."
+          },
+          {
+            "name": "Kofola",
+            "tip": "Try the Czech alternative to Coke."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sternwarte Vsetín",
+            "tip": "Genießen Sie die Stille und die weite Aussicht über die Landschaft.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Panská zahrada Park",
+            "tip": "Ein kleiner, ruhiger Park für eine kurze Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Radweg entlang der Bečva",
+            "tip": "Fernab vom Verkehr können Sie hier in Ruhe radeln.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vsetíni csillagvizsgáló",
+            "tip": "Élvezze a csendet és a tájra nyíló széles kilátást.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Panská zahrada park",
+            "tip": "Egy kis, csendes park egy rövid szünetre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kerékpárút a Bečva mentén",
+            "tip": "A forgalomtól távol, itt nyugodtan kerékpározhat.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Observatorul Vsetín",
+            "tip": "Bucurați-vă de liniște și de priveliștea panoramică asupra peisajului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Panská zahrada",
+            "tip": "Un parc mic și liniștit pentru o scurtă pauză.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pista de biciclete de-a lungul râului Bečva",
+            "tip": "Departe de trafic, puteți pedala în pace aici.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vsetín Observatory",
+            "tip": "Enjoy the silence and the wide view over the landscape.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Panská zahrada Park",
+            "tip": "A small, quiet park for a short break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cycle path along the Bečva river",
+            "tip": "Away from traffic, you can cycle in peace here.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Falls Sie Zubehör oder eine schnelle Reparatur benötigen."
+          },
+          {
+            "name": "Lokale Imkereien",
+            "tip": "Suchen Sie nach Medovina (Honigwein), einem köstlichen lokalen Produkt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Ha kiegészítőkre vagy gyors javításra van szüksége."
+          },
+          {
+            "name": "Helyi méhészetek",
+            "tip": "Keressen Medovinát (mézbort), egy finom helyi terméket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "În caz că aveți nevoie de accesorii sau de o reparație rapidă."
+          },
+          {
+            "name": "Stupine locale",
+            "tip": "Căutați Medovina (hidromel), un produs local delicios."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shops",
+            "tip": "In case you need accessories or a quick repair."
+          },
+          {
+            "name": "Local apiaries",
+            "tip": "Look for Medovina (mead), a delicious local product."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck vor der Abfahrt.",
+          "Einige Abschnitte, besonders zur Sternwarte, können steil sein.",
+          "Nehmen Sie ausreichend Wasser mit, besonders an warmen Tagen.",
+          "Nutzen Sie die gut ausgebauten Radwege entlang des Flusses."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Néhány szakasz, különösen a csillagvizsgáló felé, meredek lehet.",
+          "Vigyen magával elegendő vizet, különösen meleg napokon.",
+          "Használja a folyó menti jól kiépített kerékpárutakat."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope înainte de a pleca.",
+          "Unele secțiuni, în special spre observator, pot fi abrupte.",
+          "Luați suficientă apă cu dvs., mai ales în zilele calde.",
+          "Folosiți pistele de biciclete bine dezvoltate de-a lungul râului."
+        ],
+        "en": [
+          "Check your tire pressure before setting off.",
+          "Some sections, especially towards the observatory, can be steep.",
+          "Bring plenty of water, especially on warm days.",
+          "Take advantage of the well-developed cycle paths along the river."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Altstadt Vsetín",
+            "hu": "1. klaszter: Vsetín óvárosa",
+            "ro": "Cluster 1: Orașul Vechi Vsetín",
+            "en": "Cluster 1: Vsetín Old Town"
+          },
+          "coords": [
+            18.015,
+            49.345
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und fahren Sie zur Sternwarte für einen ersten Überblick.",
+            "hu": "Parkoljon a közelben, és hajtson fel a csillagvizsgálóhoz egy első áttekintésért.",
+            "ro": "Parcați în apropiere și conduceți la observator pentru o primă imagine de ansamblu.",
+            "en": "Park nearby and drive up to the Observatory for an initial overview."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Vsetín",
+            "hu": "Vsetíni kastély",
+            "ro": "Castelul Vsetín",
+            "en": "Vsetín Castle"
+          },
+          "coords": [
+            17.9942,
+            49.3415
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:56",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 5.2,
+          "tip_5lang": {
+            "de": "Es gibt Parkplätze in der Nähe des Schlosses. Das Museum ist einen Besuch wert.",
+            "hu": "A kastély közelében van parkoló. A múzeumot érdemes meglátogatni.",
+            "ro": "Există parcare lângă castel. Muzeul merită vizitat.",
+            "en": "There is parking near the castle. The museum is worth the visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Historisches Zentrum (zu Fuß)",
+            "hu": "2. klaszter: Történelmi központ (gyalog)",
+            "ro": "Cluster 2: Centrul Istoric (pe jos)",
+            "en": "Cluster 2: Historic Center (on foot)"
+          },
+          "coords": [
+            17.9975,
+            49.3395
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:15",
+          "stay_min": 30,
+          "hop_mode": "car",
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto im Zentrum und erkunden Sie den Oberen Platz zu Fuß.",
+            "hu": "Parkolja le autóját a központban, és fedezze fel gyalog a Felső teret.",
+            "ro": "Parcați mașina în centru și explorați Piața de Sus pe jos.",
+            "en": "Park your car in the center and explore the Upper Square on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Himmelfahrt",
+            "hu": "Mária Mennybemenetele templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Assumption"
+          },
+          "coords": [
+            17.9988,
+            49.3401
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:51",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Oberen Platz entfernt.",
+            "hu": "Csak egy rövid séta a Felső tértől.",
+            "ro": "La doar o scurtă plimbare de Piața de Sus.",
+            "en": "Just a short walk from the Upper Square."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Rathaus & Unterer Platz",
+            "hu": "Régi Városháza és Alsó tér",
+            "ro": "Primăria Veche și Piața de Jos",
+            "en": "Old Town Hall & Lower Square"
+          },
+          "coords": [
+            17.9958,
+            49.3385
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:29",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schlendern Sie zum Hauptplatz für das Mittagessen und zum Leutebeobachten.",
+            "hu": "Sétáljon le a főtérre ebédelni és nézelődni.",
+            "ro": "Plimbați-vă până în piața principală pentru prânz și pentru a privi oamenii.",
+            "en": "Stroll down to the main square for lunch and people-watching."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Flussufer",
+            "hu": "Séta a folyóparton",
+            "ro": "Plimbare pe malul râului",
+            "en": "Riverside Walk"
+          },
+          "coords": [
+            17.9935,
+            49.3355
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "15:19",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit einem entspannenden Spaziergang entlang des Flusses, bevor Sie zum Auto zurückkehren.",
+            "hu": "Zárja a napot egy pihentető sétával a folyó mentén, mielőtt visszatérne az autóhoz.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă de-a lungul râului înainte de a vă întoarce la mașină.",
+            "en": "End your day with a relaxing walk along the river before returning to your car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Vsetín flexibel. Der Morgen beginnt mit einem Panoramablick von der Sternwarte, gefolgt von einem tiefen Eintauchen in die Geschichte im Schloss Vsetín. Am Mittag parken Sie im Zentrum und entdecken den Charme der Altstadt zu Fuß, vom Oberen Platz bis zum Alten Rathaus. Der Nachmittag gehört einem gemütlichen Spaziergang am Fluss, bevor Sie den Abend in einem Restaurant Ihrer Wahl ausklingen lassen. Diese Tour verbindet kurze Fahrten mit ausgedehnten Spaziergängen.",
+        "hu": "Autóval rugalmasan fedezheti fel Vsetínt. A reggel panorámás kilátással kezdődik a csillagvizsgálóból, majd mély merülés a történelembe a Vsetíni kastélyban. Délben a központban parkol, és gyalog fedezi fel az óváros varázsát, a Felső tértől a Régi Városháig. A délután egy kellemes folyóparti sétáé, mielőtt egy tetszőleges étteremben fejezné be az estét. Ez a túra a rövid autózásokat hosszabb sétákkal ötvözi.",
+        "ro": "Cu mașina, explorați Vsetín în mod flexibil. Dimineața începe cu o vedere panoramică de la observator, urmată de o scufundare adâncă în istorie la Castelul Vsetín. La prânz, parcați în centru și descoperiți farmecul orașului vechi pe jos, de la Piața de Sus la Primăria Veche. După-amiaza este dedicată unei plimbări relaxante pe malul râului, înainte de a încheia seara la un restaurant la alegere. Acest tur combină călătorii scurte cu mașina cu plimbări extinse.",
+        "en": "By car, you can explore Vsetín flexibly. The morning starts with a panoramic view from the observatory, followed by a deep dive into history at Vsetín Castle. At midday, you'll park in the center and discover the charm of the old town on foot, from the Upper Square to the Old Town Hall. The afternoon is for a leisurely riverside walk before ending the evening at a restaurant of your choice. This tour combines short drives with extended walks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurace Bečva",
+            "tip": "Bietet traditionelle tschechische Küche in einem gemütlichen Ambiente."
+          },
+          {
+            "name": "Pekařství U Kovářů",
+            "tip": "Holen Sie sich frisches Gebäck für einen Snack unterwegs."
+          },
+          {
+            "name": "Grillované klobásy",
+            "tip": "Gegrillte Wurst, ein schneller und leckerer Imbiss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurace Bečva",
+            "tip": "Hagyományos cseh ételeket kínál hangulatos környezetben."
+          },
+          {
+            "name": "Pekařství U Kovářů",
+            "tip": "Vegyen friss péksüteményt útközbeni harapnivalónak."
+          },
+          {
+            "name": "Grillované klobásy",
+            "tip": "Grillezett kolbász, egy gyors és finom falat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurace Bečva",
+            "tip": "Oferă bucătărie tradițională cehă într-un cadru primitor."
+          },
+          {
+            "name": "Pekařství U Kovářů",
+            "tip": "Luați produse de patiserie proaspete pentru o gustare pe drum."
+          },
+          {
+            "name": "Grillované klobásy",
+            "tip": "Cârnați la grătar, o gustare rapidă și delicioasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurace Bečva",
+            "tip": "Offers traditional Czech cuisine in a cozy setting."
+          },
+          {
+            "name": "Pekařství U Kovářů",
+            "tip": "Grab some fresh pastries for a snack on the go."
+          },
+          {
+            "name": "Grillované klobásy",
+            "tip": "Grilled sausage, a quick and tasty snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussicht von der Sternwarte",
+            "tip": "Ein perfekter Ort für Ruhe und einen weiten Blick.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Seitengassen der Altstadt",
+            "tip": "Verlieren Sie sich in den ruhigen Gassen abseits der Hauptplätze.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Wälder um Vsetín",
+            "tip": "Machen Sie einen kurzen Abstecher in die umliegenden Wälder für pure Natur.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a csillagvizsgálóból",
+            "tip": "Tökéletes hely a csendhez és a széles kilátáshoz.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Az óváros mellékutcái",
+            "tip": "Vesszen el a főterektől távoli csendes utcákban.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vsetín körüli erdők",
+            "tip": "Tegyen egy rövid kitérőt a környező erdőkbe a tiszta természetért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la observator",
+            "tip": "Un loc perfect pentru liniște și o priveliște largă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Străduțele laterale ale orașului vechi",
+            "tip": "Pierdeți-vă pe aleile liniștite, departe de piețele principale.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Pădurile din jurul Vsetínului",
+            "tip": "Faceți o scurtă abatere în pădurile înconjurătoare pentru natură pură.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the observatory",
+            "tip": "A perfect place for tranquility and a wide view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Side streets of the Old Town",
+            "tip": "Get lost in the quiet alleys away from the main squares.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Forests around Vsetín",
+            "tip": "Take a short detour into the surrounding forests for pure nature.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Supermärkte am Stadtrand",
+            "tip": "Ideal, um sich mit Proviant für einen Tagesausflug einzudecken."
+          },
+          {
+            "name": "Informationszentrum Vsetín",
+            "tip": "Hier finden Sie Karten und einzigartige lokale Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szupermarketek a város szélén",
+            "tip": "Ideális egy napos kiránduláshoz szükséges élelmiszerek beszerzésére."
+          },
+          {
+            "name": "Vsetíni Információs Központ",
+            "tip": "Itt térképeket és egyedi helyi ajándéktárgyakat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarketuri la periferie",
+            "tip": "Ideal pentru a vă aproviziona cu provizii pentru o excursie de o zi."
+          },
+          {
+            "name": "Centrul de Informare Vsetín",
+            "tip": "Aici veți găsi hărți și suveniruri locale unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Supermarkets on the outskirts",
+            "tip": "Ideal for stocking up on supplies for a day trip."
+          },
+          {
+            "name": "Vsetín Information Center",
+            "tip": "Here you will find maps and unique local souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Parkmöglichkeiten und -gebühren im Voraus.",
+          "Ein GPS oder eine Navigations-App ist hilfreich, um zwischen den Clustern zu navigieren.",
+          "Lassen Sie keine Wertsachen sichtbar im Auto liegen.",
+          "Planen Sie etwas Pufferzeit für den Verkehr ein, besonders zu Stoßzeiten."
+        ],
+        "hu": [
+          "Előre ellenőrizze a parkolási lehetőségeket és díjakat.",
+          "GPS vagy navigációs alkalmazás hasznos a klaszterek közötti navigáláshoz.",
+          "Ne hagyjon értékeket látható helyen az autóban.",
+          "Tervezzen be némi pufferidőt a forgalomra, különösen csúcsidőben."
+        ],
+        "ro": [
+          "Verificați opțiunile de parcare și taxele în avans.",
+          "Un GPS sau o aplicație de navigație este utilă pentru a naviga între clustere.",
+          "Nu lăsați obiecte de valoare la vedere în mașină.",
+          "Planificați un timp tampon pentru trafic, mai ales la orele de vârf."
+        ],
+        "en": [
+          "Check parking options and fees in advance.",
+          "A GPS or navigation app is helpful for navigating between clusters.",
+          "Do not leave valuables visible in the car.",
+          "Plan some buffer time for traffic, especially during peak hours."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Stadtzentrum (zu Fuß)",
+            "hu": "1. klaszter: Városközpont (gyalog)",
+            "ro": "Cluster 1: Centrul orașului (pe jos)",
+            "en": "Cluster 1: City Center (on foot)"
+          },
+          "coords": [
+            17.9955,
+            49.338
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Kommen Sie am Hauptbusbahnhof an und gehen Sie zum Unteren Platz.",
+            "hu": "Érkezzen meg a fő buszpályaudvarra, és sétáljon az Alsó térre.",
+            "ro": "Ajungeți la autogara principală și mergeți pe jos până la Piața de Jos.",
+            "en": "Arrive at the main bus station and walk to the Lower Square."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Rathaus & Oberer Platz",
+            "hu": "Régi Városháza és Felső tér",
+            "ro": "Primăria Veche și Piața de Sus",
+            "en": "Old Town Hall & Upper Square"
+          },
+          "coords": [
+            17.9968,
+            49.339
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:43",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie den Kern der Altstadt, alles ist nur wenige Gehminuten entfernt.",
+            "hu": "Fedezze fel az óváros magját, minden sétatávolságra van.",
+            "ro": "Explorați nucleul orașului vechi, totul este la câțiva pași.",
+            "en": "Explore the core of the old town, everything is within walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Schlossbereich",
+            "hu": "2. klaszter: Kastély környéke",
+            "ro": "Cluster 2: Zona Castelului",
+            "en": "Cluster 2: Castle Area"
+          },
+          "coords": [
+            17.9942,
+            49.3415
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:01",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus zum Schloss. Die Haltestelle ist in der Nähe.",
+            "hu": "Menjen helyi busszal a kastélyhoz. A megálló a közelben van.",
+            "ro": "Luați un autobuz local până la castel. Stația este în apropiere.",
+            "en": "Take a local bus to the castle. The stop is nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Schlosses",
+            "hu": "Ebéd a kastély közelében",
+            "ro": "Prânz lângă castel",
+            "en": "Lunch near the Castle"
+          },
+          "coords": [
+            17.9935,
+            49.34
+          ],
+          "category": "gastro",
+          "arrive_at": "13:03",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Es gibt mehrere Restaurants am Fuße des Schlosshügels.",
+            "hu": "A várhegy lábánál több étterem is található.",
+            "ro": "Există mai multe restaurante la poalele dealului castelului.",
+            "en": "There are several restaurants at the foot of the castle hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Monument & Kirche",
+            "hu": "3. klaszter: Emlékmű és templom",
+            "ro": "Cluster 3: Monument și Biserică",
+            "en": "Cluster 3: Monument & Church"
+          },
+          "coords": [
+            17.991,
+            49.337
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:43",
+          "stay_min": 20,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Eine weitere kurze Busfahrt bringt Sie zum Denkmal der Befreiung.",
+            "hu": "Egy újabb rövid buszút visz a Felszabadulási emlékműhöz.",
+            "ro": "O altă scurtă călătorie cu autobuzul vă duce la Monumentul Eliberării.",
+            "en": "Another short bus ride takes you to the Liberation Monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Himmelfahrt",
+            "hu": "Mária Mennybemenetele templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Assumption"
+          },
+          "coords": [
+            17.9988,
+            49.3401
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:21",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem Besuch dieser schönen Kirche, bevor Sie zurück zum Bahnhof gehen.",
+            "hu": "Fejezze be a túrát ennek a gyönyörű templomnak a meglátogatásával, mielőtt visszasétálna az állomásra.",
+            "ro": "Încheiați turul cu o vizită la această biserică frumoasă înainte de a vă întoarce pe jos la gară.",
+            "en": "End your tour with a visit to this beautiful church before walking back to the station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln erleben Sie Vsetín wie ein Einheimischer. Der Tag beginnt im Herzen der Stadt, wo Sie die Plätze und das Rathaus zu Fuß erkunden. Eine kurze Busfahrt bringt Sie am Mittag zum majestätischen Schloss. Nach einem stärkenden Mittagessen geht es weiter mit dem Bus zu weiteren historischen Stätten. Der Nachmittag bietet eine Mischung aus Nachdenklichkeit am Denkmal und spiritueller Ruhe in der Kirche, alles bequem mit dem Bus und kurzen Spaziergängen verbunden.",
+        "hu": "A tömegközlekedéssel úgy élheti át Vsetínt, mint egy helyi. A nap a város szívében kezdődik, ahol gyalog fedezi fel a tereket és a városházát. Egy rövid buszút visz a fenséges kastélyhoz délben. Egy kiadós ebéd után busszal folytatja útját további történelmi helyszínek felé. A délután az emlékműnél való elmélkedés és a templomban való spirituális béke keverékét kínálja, mindezt kényelmesen busszal és rövid sétákkal kombinálva.",
+        "ro": "Folosind transportul public, veți experimenta Vsetín ca un localnic. Ziua începe în inima orașului, explorând piețele și primăria pe jos. O scurtă călătorie cu autobuzul vă duce la castelul maiestuos la prânz. După un prânz consistent, continuați cu autobuzul către alte situri istorice. După-amiaza oferă un amestec de reflecție la monument și pace spirituală la biserică, toate conectate convenabil cu autobuzul și plimbări scurte.",
+        "en": "Using public transport, you'll experience Vsetín like a local. The day begins in the heart of the city, exploring the squares and town hall on foot. A short bus ride takes you to the majestic castle at midday. After a hearty lunch, you'll continue by bus to other historical sites. The afternoon offers a mix of reflection at the monument and spiritual peace in the church, all conveniently connected by bus and short walks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "U Tří sluncí",
+            "tip": "Ein beliebtes Restaurant in der Nähe des Zentrums."
+          },
+          {
+            "name": "Česnečka",
+            "tip": "Eine kräftige Knoblauchsuppe, die Sie für den Rest des Tages stärkt."
+          },
+          {
+            "name": "Lokální pivo",
+            "tip": "Fragen Sie in jeder Kneipe nach dem lokalen Bierangebot."
+          }
+        ],
+        "hu": [
+          {
+            "name": "U Tří sluncí",
+            "tip": "Népszerű étterem a központ közelében."
+          },
+          {
+            "name": "Česnečka",
+            "tip": "Erőteljes fokhagymaleves, amely energiát ad a nap hátralévő részére."
+          },
+          {
+            "name": "Lokální pivo",
+            "tip": "Kérdezze meg a helyi sörválasztékot bármelyik kocsmában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "U Tří sluncí",
+            "tip": "Un restaurant popular lângă centru."
+          },
+          {
+            "name": "Česnečka",
+            "tip": "O supă de usturoi consistentă pentru a vă energiza pentru restul zilei."
+          },
+          {
+            "name": "Lokální pivo",
+            "tip": "Întrebați de selecția de bere locală la orice pub."
+          }
+        ],
+        "en": [
+          {
+            "name": "U Tří sluncí",
+            "tip": "A popular restaurant near the center."
+          },
+          {
+            "name": "Česnečka",
+            "tip": "A strong garlic soup to power you through the rest of the day."
+          },
+          {
+            "name": "Lokální pivo",
+            "tip": "Ask for the local beer selection at any pub."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof neben der Kirche",
+            "tip": "Ein Ort der Stille und Geschichte.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Obere Bänke im Schlosspark",
+            "tip": "Bietet eine schöne Aussicht weg von den Hauptwegen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fahrt mit dem Bus aus der Stadt",
+            "tip": "Beobachten Sie die vorbeiziehende Landschaft.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Temető a templom mellett",
+            "tip": "A csend és a történelem helye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Felső padok a kastélyparkban",
+            "tip": "Szép kilátást kínál a fő utaktól távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Buszozás a városból kifelé",
+            "tip": "Figyelje az elhaladó tájat.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul de lângă biserică",
+            "tip": "Un loc de liniște și istorie.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Băncile superioare din parcul castelului",
+            "tip": "Oferă o priveliște frumoasă departe de căile principale.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Călătorie cu autobuzul în afara orașului",
+            "tip": "Priviți peisajul care trece.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cemetery next to the church",
+            "tip": "A place of silence and history.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Upper benches in the castle park",
+            "tip": "Offers a nice view away from the main paths.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bus ride out of town",
+            "tip": "Watch the passing scenery.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Trafika (Kiosk)",
+            "tip": "Kaufen Sie hier Ihre Bustickets und vielleicht eine Postkarte."
+          },
+          {
+            "name": "Souvenirladen im Schloss",
+            "tip": "Finden Sie Andenken, die mit der Region verbunden sind."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trafika (kioszk)",
+            "tip": "Vásárolja meg itt a buszjegyét és esetleg egy képeslapot."
+          },
+          {
+            "name": "Ajándékbolt a kastélyban",
+            "tip": "Találjon a régióhoz kapcsolódó emléktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trafika (chioșc)",
+            "tip": "Cumpărați-vă biletele de autobuz și poate o carte poștală de aici."
+          },
+          {
+            "name": "Magazin de suveniruri la castel",
+            "tip": "Găsiți suveniruri legate de regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trafika (kiosk)",
+            "tip": "Buy your bus tickets and maybe a postcard here."
+          },
+          {
+            "name": "Souvenir shop at the castle",
+            "tip": "Find memorabilia related to the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Laden Sie den Busfahrplan herunter oder machen Sie einen Screenshot davon.",
+          "Seien Sie sich bewusst, dass Busse in kleineren Städten am Abend und am Wochenende seltener fahren.",
+          "Geben Sie dem Fahrer ein Zeichen, wenn Sie an einer Haltestelle aussteigen möchten."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha több utazást tervez.",
+          "Töltse le vagy készítsen képernyőképet a buszmenetrendről.",
+          "Ne feledje, hogy a buszok kisebb városokban ritkábban közlekednek este és hétvégén.",
+          "Jelezzen a sofőrnek, ha le akar szállni egy megállónál."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă plănuiți mai multe călătorii.",
+          "Descărcați sau faceți o captură de ecran a programului autobuzului.",
+          "Fiți conștienți de faptul că autobuzele din orașele mai mici circulă mai rar seara și în weekend.",
+          "Semnalizați șoferului când doriți să coborâți la o stație."
+        ],
+        "en": [
+          "Buy a day ticket for the bus if you plan on making multiple trips.",
+          "Download or take a screenshot of the bus schedule.",
+          "Be aware that buses in smaller towns may run less frequently in the evening and on weekends.",
+          "Signal the driver when you want to get off at a stop."
+        ]
+      }
+    }
+  }
+}

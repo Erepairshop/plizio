@@ -1,0 +1,1556 @@
+{
+  "city_id": "belgium-sint-truiden-cities-v2",
+  "anchor": {
+    "name": "Sint-Truiden",
+    "coords": [
+      5.1853,
+      50.8153
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Beginenhof Sint-Agnes",
+            "hu": "Sint-Agnes Beginaudvar",
+            "ro": "Beguinage Sint-Agnes",
+            "en": "Begijnhof Sint-Agnes"
+          },
+          "coords": [
+            5.1895,
+            50.816
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Finden Sie die versteckte Kirche, ein Zeugnis jahrhundertelanger Frauengemeinschaft.",
+            "hu": "Keresse meg a rejtett templomot, amely az évszázados női közösség tanúbizonysága.",
+            "ro": "Găsiți biserica ascunsă, o mărturie a secolelor de comunitate feminină.",
+            "en": "Find the hidden church, a testament to centuries of female community."
+          }
+        },
+        {
+          "name": {
+            "de": "Liebfrauenkirche",
+            "hu": "Onze-Lieve-Vrouwekerk (Miasszonyunk-templom)",
+            "ro": "Biserica Maicii Domnului (Onze-Lieve-Vrouwekerk)",
+            "en": "Onze-Lieve-Vrouwekerk (Church of Our Lady)"
+          },
+          "coords": [
+            5.1865,
+            50.8175
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:03",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Schatzkammer mit wertvollen mittelalterlichen Kunstwerken.",
+            "hu": "Csodálja meg a kincstárat, ahol értékes középkori műalkotások találhatók.",
+            "ro": "Admirați tezaurul, care adăpostește valoroase opere de artă medievală.",
+            "en": "Admire the treasury, which houses precious medieval works of art."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus und Belfried",
+            "hu": "Városháza és harangtorony",
+            "ro": "Primăria și Beffroi-ul",
+            "en": "City Hall and Belfry"
+          },
+          "coords": [
+            5.1858,
+            50.8155
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:49",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der Belfried ist UNESCO-Weltkulturerbe; achten Sie auf die Statuen an der Fassade.",
+            "hu": "A harangtorony az UNESCO Világörökség része; figyelje meg a homlokzaton lévő szobrokat.",
+            "ro": "Beffroi-ul este un sit al Patrimoniului Mondial UNESCO; observați statuile de pe fațadă.",
+            "en": "The belfry is a UNESCO World Heritage site; look for the statues on the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Abteiturm",
+            "hu": "Apátsági torony",
+            "ro": "Turnul Abației",
+            "en": "Abbey Tower"
+          },
+          "coords": [
+            5.1862,
+            50.8148
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:21",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Der Aufstieg wird mit dem besten Panoramablick über die Haspengouw-Region belohnt.",
+            "hu": "A mászás jutalma a legjobb panorámás kilátás a Haspengouw régióra.",
+            "ro": "Urcușul este răsplătit cu cea mai bună vedere panoramică asupra regiunii Haspengouw.",
+            "en": "The climb is rewarded with the best panoramic view over the Haspengouw region."
+          }
+        },
+        {
+          "name": {
+            "de": "Festraets-Uhrwerk",
+            "hu": "Festraets csillagászati óra",
+            "ro": "Ceasul astronomic Festraets",
+            "en": "Festraets astronomical clock"
+          },
+          "coords": [
+            5.1888,
+            50.8165
+          ],
+          "category": "museums",
+          "arrive_at": "12:07",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Planen Sie Ihren Besuch so, dass Sie die Vorführung des Uhrwerks miterleben können.",
+            "hu": "Tervezze a látogatását úgy, hogy elkapja az óramű bemutatóját.",
+            "ro": "Planificați-vă vizita pentru a prinde demonstrația mecanismului ceasului.",
+            "en": "Time your visit to coincide with the demonstration of the clock's mechanism."
+          }
+        },
+        {
+          "name": {
+            "de": "Minderbrüderkirche",
+            "hu": "Ferences templom",
+            "ro": "Biserica Minderbroeders",
+            "en": "Minderbroeders Church"
+          },
+          "coords": [
+            5.183,
+            50.815
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:17",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beherbergt das Grab der Heiligen Lutgardis, einer wichtigen flämischen Mystikerin.",
+            "hu": "Itt található Szent Lutgardis, egy fontos flamand misztikus sírja.",
+            "ro": "Adăpostește mormântul Sfintei Lutgardis, o importantă mistică flamandă.",
+            "en": "Houses the tomb of Saint Lutgardis, an important Flemish mystic."
+          }
+        },
+        {
+          "name": {
+            "de": "Domäne Speelhof",
+            "hu": "Speelhof birtok",
+            "ro": "Domeniul Speelhof",
+            "en": "Speelhof Domain"
+          },
+          "coords": [
+            5.1764,
+            50.8202
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:07",
+          "stay_min": 95,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekt für einen entspannten Spaziergang. Verpassen Sie nicht die Galerie im Freien.",
+            "hu": "Tökéletes egy pihentető sétához. Ne hagyja ki a szabadtéri galériát.",
+            "ro": "Perfect pentru o plimbare relaxantă. Nu ratați galeria în aer liber.",
+            "en": "Perfect for a relaxing walk. Don't miss the open-air gallery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im ruhigen Begijnhof Sint-Agnes, einem UNESCO-Weltkulturerbe. Am Vormittag erkunden Sie das historische Herz der Stadt, besteigen den Abteiturm für eine atemberaubende Aussicht und bewundern das Rathaus. Gönnen Sie sich nach dem Mittagessen einen kulturellen Zwischenstopp beim faszinierenden Festraets-Uhrwerk. Schließen Sie Ihren Spaziergang mit einem entspannten Nachmittag in der grünen Oase des Speelhofs ab und genießen Sie die Ruhe vor dem Abendessen.",
+        "hu": "Kezdje a napot a békés Sint-Agnes beginaudvarban, amely az UNESCO Világörökség része. Délelőtt fedezze fel a város történelmi szívét, mássza meg az apátsági tornyot a lélegzetelállító kilátásért, és csodálja meg a városházát. Ebéd után álljon meg egy kulturális pihenőre a lenyűgöző Festraets csillagászati óránál. Sétáját egy pihentető délutánnal zárja a Speelhof zöld oázisában, élvezve a vacsora előtti nyugalmat.",
+        "ro": "Începeți ziua în liniștea de la Beguinage Sint-Agnes, un sit al Patrimoniului Mondial UNESCO. La amiază, explorați inima istorică a orașului, urcați în Turnul Abației pentru vederi uimitoare și admirați Primăria. După prânz, faceți o oprire culturală la fascinantul ceas astronomic Festraets. Încheiați plimbarea cu o după-amiază relaxantă în oaza de verdeață a Domeniului Speelhof, bucurându-vă de liniște înainte de cină.",
+        "en": "Start your day in the serene Begijnhof Sint-Agnes, a UNESCO World Heritage site. Mid-morning, explore the historic heart of the city, climbing the Abbey Tower for stunning views and admiring the Town Hall. After lunch, treat yourself to a cultural stop at the fascinating Festraets astronomical clock. Conclude your walk with a relaxing afternoon in the green oasis of Speelhof Domain, enjoying the tranquility before dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Haspengouwse fruitvlaai",
+            "tip": "Probieren Sie diesen traditionellen Obstkuchen, besonders während der Erntezeit. Suchen Sie nach Bäckereien rund um den Grote Markt."
+          },
+          {
+            "name": "Tripel Kanunnik",
+            "tip": "Ein starkes lokales Bier, gebraut von der Brauerei Wilderen. Genießen Sie es in einem der Cafés auf dem Grote Markt."
+          },
+          {
+            "name": "Belgische Pommes",
+            "tip": "Kein Besuch ist vollständig ohne eine Tüte Pommes von einer lokalen 'Frituur'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Haspengouw-i gyümölcsös pite (vlaai)",
+            "tip": "Kóstolja meg ezt a hagyományos gyümölcsös süteményt, különösen a szüreti időszakban. Keressen pékségeket a Grote Markt környékén."
+          },
+          {
+            "name": "Tripel Kanunnik",
+            "tip": "Erős helyi sör, a Wilderen sörfőzde terméke. Fogyassza a Grote Markt egyik kávézójában."
+          },
+          {
+            "name": "Belga hasábburgonya",
+            "tip": "Egyetlen látogatás sem teljes egy zacskó sült krumpli nélkül egy helyi 'frituur'-ból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plăcintă cu fructe Haspengouw (vlaai)",
+            "tip": "Încercați această plăcintă tradițională cu fructe, mai ales în timpul sezonului de recoltare. Căutați brutării în jurul Grote Markt."
+          },
+          {
+            "name": "Tripel Kanunnik",
+            "tip": "O bere locală tare, produsă de fabrica de bere Wilderen. Savurați-o la una dintre cafenelele din Grote Markt."
+          },
+          {
+            "name": "Cartofi prăjiți belgieni",
+            "tip": "Nicio vizită nu este completă fără un cornet de cartofi prăjiți de la o 'frituur' locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Haspengouw fruit tart (vlaai)",
+            "tip": "Try this traditional fruit pie, especially during the harvest season. Look for bakeries around the Grote Markt."
+          },
+          {
+            "name": "Tripel Kanunnik",
+            "tip": "A strong local beer brewed by the Wilderen brewery. Enjoy it at one of the cafés on the Grote Markt."
+          },
+          {
+            "name": "Belgian Fries",
+            "tip": "No visit is complete without a cone of fries from a local 'frituur'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Innenhof des Begijnhofs",
+            "tip": "Ein Ort der Stille und Besinnung, abseits der belebten Straßen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Speelhof-Teiche",
+            "tip": "Finden Sie eine Bank an den Teichen für einen Moment der Ruhe in der Natur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussicht vom Abteiturm",
+            "tip": "Genießen Sie den Panoramablick über die Landschaft bei Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Beginaudvar udvara",
+            "tip": "A csend és az elmélkedés helye, távol a forgalmas utcáktól.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Speelhof tavai",
+            "tip": "Keressen egy padot a tavaknál egy csendes pillanatra a természetben.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás az Apátsági toronyból",
+            "tip": "Élvezze a naplementében a táj panorámáját.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea Beguinage-ului",
+            "tip": "Un loc de liniște și contemplare, departe de străzile aglomerate.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Iazurile Speelhof",
+            "tip": "Găsiți o bancă lângă iazuri pentru un moment de pace în natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere din Turnul Abației",
+            "tip": "Bucurați-vă de panorama peisajului rural la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Courtyard of the Begijnhof",
+            "tip": "A place of silence and contemplation, away from the busy streets.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Speelhof Ponds",
+            "tip": "Find a bench by the ponds for a moment of peace in nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from the Abbey Tower",
+            "tip": "Enjoy the panoramic view over the countryside at sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Besuchen Sie am Samstag den Grote Markt für lokale Produkte, Käse und Blumen."
+          },
+          {
+            "name": "Lokale Obstprodukte",
+            "tip": "Die Region Haspengouw ist berühmt für ihr Obst. Suchen Sie nach lokalen Säften, Sirupen und Konfitüren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Látogasson el szombaton a Grote Marktra helyi termékekért, sajtokért és virágokért."
+          },
+          {
+            "name": "Helyi gyümölcstermékek",
+            "tip": "A Haspengouw régió híres a gyümölcseiről. Keressen helyi leveket, szörpöket és lekvárokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Vizitați Grote Markt sâmbăta pentru produse locale, brânzeturi și flori."
+          },
+          {
+            "name": "Produse locale din fructe",
+            "tip": "Regiunea Haspengouw este renumită pentru fructele sale. Căutați sucuri, siropuri și gemuri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Visit the Grote Markt on Saturday for local produce, cheese, and flowers."
+          },
+          {
+            "name": "Local Fruit Products",
+            "tip": "The Haspengouw region is famous for its fruit. Look for local juices, syrups, and jams."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum Kopfsteinpflaster hat.",
+          "Die meisten Sehenswürdigkeiten sind zu Fuß erreichbar, sodass Sie kein Auto benötigen, sobald Sie im Zentrum sind.",
+          "Wenn Sie im Frühling (April-Mai) kommen, erleben Sie die atemberaubende Obstblüte in der Region.",
+          "Prüfen Sie die Öffnungszeiten, insbesondere für kleinere Museen, da diese variieren können."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a városközpont macskaköves.",
+          "A legtöbb látnivaló gyalogosan elérhető, így a központba érve nincs szüksége autóra.",
+          "Ha tavasszal (április-május) látogat el, megtapasztalhatja a régió lélegzetelállító gyümölcsvirágzását.",
+          "Ellenőrizze a nyitvatartási időket, különösen a kisebb múzeumok esetében, mivel azok változhatnak."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul orașului este pavat cu piatră cubică.",
+          "Majoritatea atracțiilor sunt la distanță de mers pe jos, deci nu aveți nevoie de mașină odată ce sunteți în centru.",
+          "Dacă vizitați primăvara (aprilie-mai), veți experimenta uimitoarea înflorire a pomilor fructiferi din regiune.",
+          "Verificați orele de deschidere, în special pentru muzeele mai mici, deoarece acestea pot varia."
+        ],
+        "en": [
+          "Wear comfortable shoes as the city center is cobblestoned.",
+          "Most sights are within walking distance, so you won't need a car once in the center.",
+          "If you visit in spring (April-May), you'll experience the region's stunning fruit blossoms.",
+          "Check opening hours, especially for smaller museums, as they can vary."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Domäne Speelhof",
+            "hu": "Speelhof birtok",
+            "ro": "Domeniul Speelhof",
+            "en": "Speelhof Domain"
+          },
+          "coords": [
+            5.1764,
+            50.8202
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie mit einer erfrischenden Runde durch den Park, bevor Sie ins Stadtzentrum radeln.",
+            "hu": "Kezdje egy frissítő körrel a parkban, mielőtt a városközpontba biciklizik.",
+            "ro": "Începeți cu o tură revigorantă prin parc înainte de a pedala spre centrul orașului.",
+            "en": "Start with a refreshing loop around the park before cycling into the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Beginenhof Sint-Agnes",
+            "hu": "Sint-Agnes Beginaudvar",
+            "ro": "Beguinage Sint-Agnes",
+            "en": "Begijnhof Sint-Agnes"
+          },
+          "coords": [
+            5.1895,
+            50.816
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:16",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad draußen ab und betreten Sie diesen friedlichen Ort zu Fuß.",
+            "hu": "Parkolja le a kerékpárját kint, és lépjen be gyalog ebbe a békés udvarba.",
+            "ro": "Parcați bicicleta afară și intrați pe jos în acest spațiu pașnic.",
+            "en": "Park your bike outside and enter this peaceful space on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Festraets-Uhrwerk",
+            "hu": "Festraets csillagászati óra",
+            "ro": "Ceasul astronomic Festraets",
+            "en": "Festraets astronomical clock"
+          },
+          "coords": [
+            5.1888,
+            50.8165
+          ],
+          "category": "museums",
+          "arrive_at": "11:03",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein faszinierender Zwischenstopp, um die Komplexität der Zeitmessung zu würdigen.",
+            "hu": "Lenyűgöző megálló, hogy értékelje az időmérés bonyolultságát.",
+            "ro": "O oprire fascinantă pentru a aprecia complexitatea măsurării timpului.",
+            "en": "A fascinating stop to appreciate the complexity of timekeeping."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus und Belfried",
+            "hu": "Városháza és harangtorony",
+            "ro": "Primăria și Beffroi-ul",
+            "en": "City Hall and Belfry"
+          },
+          "coords": [
+            5.1858,
+            50.8155
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:06",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der Grote Markt ist der perfekte Ort für eine kurze Pause und um die Architektur zu genießen.",
+            "hu": "A Grote Markt tökéletes hely egy rövid pihenőre és az építészet megcsodálására.",
+            "ro": "Grote Markt este locul perfect pentru o scurtă pauză și pentru a admira arhitectura.",
+            "en": "The Grote Markt is the perfect spot for a quick break and to soak in the architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Abteiturm",
+            "hu": "Apátsági torony",
+            "ro": "Turnul Abației",
+            "en": "Abbey Tower"
+          },
+          "coords": [
+            5.1862,
+            50.8148
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:37",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und machen Sie sich bereit für den Aufstieg. Die Aussicht ist es wert!",
+            "hu": "Zárja le a kerékpárt, és készüljön fel a mászásra. A kilátás megéri!",
+            "ro": "Legați-vă bicicleta și pregătiți-vă de urcare. Priveliștea merită!",
+            "en": "Lock up your bike and get ready for the climb. The view is worth it!"
+          }
+        },
+        {
+          "name": {
+            "de": "Liebfrauenkirche",
+            "hu": "Onze-Lieve-Vrouwekerk",
+            "ro": "Biserica Maicii Domnului",
+            "en": "Church of Our Lady"
+          },
+          "coords": [
+            5.1865,
+            50.8175
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:21",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit, um die beeindruckenden Buntglasfenster zu betrachten.",
+            "hu": "Szánjon egy percet a lenyűgöző ólomüveg ablakok megcsodálására.",
+            "ro": "Luați-vă un moment pentru a privi impresionantele vitralii.",
+            "en": "Take a moment to gaze at the impressive stained-glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Minderbrüderkirche",
+            "hu": "Ferences templom",
+            "ro": "Biserica Minderbroeders",
+            "en": "Minderbroeders Church"
+          },
+          "coords": [
+            5.183,
+            50.815
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:11",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein schöner Abschluss Ihrer Tour, mit Wandmalereien, die Geschichten aus der Vergangenheit erzählen.",
+            "hu": "Szép lezárása a túrának, a múlt történeteit elmesélő falfestményekkel.",
+            "ro": "O concluzie frumoasă a turului dumneavoastră, cu picturi murale care spun povești din trecut.",
+            "en": "A beautiful conclusion to your tour, with murals that tell stories of the past."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radtag beginnt mit einer friedlichen Fahrt durch das Speelhof. Am Vormittag fahren Sie zum ruhigen Begijnhof und bestaunen dann die mechanischen Wunder des Festraets-Uhrwerks. Machen Sie eine Mittagspause am Grote Markt, wo Sie den Belfried und den Abteiturm erklimmen. Am Nachmittag besuchen Sie die historischen Kirchen der Stadt und beenden Ihre Tour mit einem Moment der Besinnung in der Minderbrüderkirche.",
+        "hu": "A kerékpáros nap egy békés tekeréssel kezdődik a Speelhofon keresztül. Délelőtt a csendes Beginaudvar felé veszi az irányt, majd megcsodálja a Festraets óramű mechanikus csodáit. Ebédszünetet a Grote Markton tartson, ahol megmászhatja a harangtornyot és az apátsági tornyot. Délután látogasson el a város történelmi templomaiba, és fejezze be a túrát egy elmélkedő pillanattal a Ferences templomban.",
+        "ro": "Ziua de ciclism începe cu o plimbare liniștită prin Speelhof. Dimineața, mergeți la Beguinage-ul liniștit, apoi minunați-vă de minunile mecanice ale ceasului Festraets. Luați o pauză de prânz în Grote Markt, unde puteți urca în Beffroi și Turnul Abației. După-amiaza, vizitați bisericile istorice ale orașului, încheind turul cu un moment de reflecție la Biserica Minderbroeders.",
+        "en": "Your cycling day starts with a peaceful ride through Speelhof. In the morning, you'll head to the tranquil Begijnhof, then marvel at the mechanical wonders of the Festraets clock. Take a lunch break in the Grote Markt, where you can climb the Belfry and Abbey Tower. In the afternoon, visit the city's historic churches, ending your tour with a moment of reflection at the Minderbroeders Church."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Haspengouwse fruitvlaai",
+            "tip": "Probieren Sie diesen traditionellen Obstkuchen, besonders während der Erntezeit. Suchen Sie nach Bäckereien rund um den Grote Markt."
+          },
+          {
+            "name": "Tripel Kanunnik",
+            "tip": "Ein starkes lokales Bier, gebraut von der Brauerei Wilderen. Genießen Sie es in einem der Cafés auf dem Grote Markt."
+          },
+          {
+            "name": "Belgische Pommes",
+            "tip": "Kein Besuch ist vollständig ohne eine Tüte Pommes von einer lokalen 'Frituur'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Haspengouw-i gyümölcsös pite (vlaai)",
+            "tip": "Kóstolja meg ezt a hagyományos gyümölcsös süteményt, különösen a szüreti időszakban. Keressen pékségeket a Grote Markt környékén."
+          },
+          {
+            "name": "Tripel Kanunnik",
+            "tip": "Erős helyi sör, a Wilderen sörfőzde terméke. Fogyassza a Grote Markt egyik kávézójában."
+          },
+          {
+            "name": "Belga hasábburgonya",
+            "tip": "Egyetlen látogatás sem teljes egy zacskó sült krumpli nélkül egy helyi 'frituur'-ból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plăcintă cu fructe Haspengouw (vlaai)",
+            "tip": "Încercați această plăcintă tradițională cu fructe, mai ales în timpul sezonului de recoltare. Căutați brutării în jurul Grote Markt."
+          },
+          {
+            "name": "Tripel Kanunnik",
+            "tip": "O bere locală tare, produsă de fabrica de bere Wilderen. Savurați-o la una dintre cafenelele din Grote Markt."
+          },
+          {
+            "name": "Cartofi prăjiți belgieni",
+            "tip": "Nicio vizită nu este completă fără un cornet de cartofi prăjiți de la o 'frituur' locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Haspengouw fruit tart (vlaai)",
+            "tip": "Try this traditional fruit pie, especially during the harvest season. Look for bakeries around the Grote Markt."
+          },
+          {
+            "name": "Tripel Kanunnik",
+            "tip": "A strong local beer brewed by the Wilderen brewery. Enjoy it at one of the cafés on the Grote Markt."
+          },
+          {
+            "name": "Belgian Fries",
+            "tip": "No visit is complete without a cone of fries from a local 'frituur'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Innenhof des Begijnhofs",
+            "tip": "Ein Ort der Stille und Besinnung, abseits der belebten Straßen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Speelhof-Teiche",
+            "tip": "Finden Sie eine Bank an den Teichen für einen Moment der Ruhe in der Natur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussicht vom Abteiturm",
+            "tip": "Genießen Sie den Panoramablick über die Landschaft bei Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Beginaudvar udvara",
+            "tip": "A csend és az elmélkedés helye, távol a forgalmas utcáktól.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Speelhof tavai",
+            "tip": "Keressen egy padot a tavaknál egy csendes pillanatra a természetben.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás az Apátsági toronyból",
+            "tip": "Élvezze a naplementében a táj panorámáját.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea Beguinage-ului",
+            "tip": "Un loc de liniște și contemplare, departe de străzile aglomerate.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Iazurile Speelhof",
+            "tip": "Găsiți o bancă lângă iazuri pentru un moment de pace în natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere din Turnul Abației",
+            "tip": "Bucurați-vă de panorama peisajului rural la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Courtyard of the Begijnhof",
+            "tip": "A place of silence and contemplation, away from the busy streets.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Speelhof Ponds",
+            "tip": "Find a bench by the ponds for a moment of peace in nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from the Abbey Tower",
+            "tip": "Enjoy the panoramic view over the countryside at sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Besuchen Sie am Samstag den Grote Markt für lokale Produkte, Käse und Blumen."
+          },
+          {
+            "name": "Lokale Obstprodukte",
+            "tip": "Die Region Haspengouw ist berühmt für ihr Obst. Suchen Sie nach lokalen Säften, Sirupen und Konfitüren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Látogasson el szombaton a Grote Marktra helyi termékekért, sajtokért és virágokért."
+          },
+          {
+            "name": "Helyi gyümölcstermékek",
+            "tip": "A Haspengouw régió híres a gyümölcseiről. Keressen helyi leveket, szörpöket és lekvárokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Vizitați Grote Markt sâmbăta pentru produse locale, brânzeturi și flori."
+          },
+          {
+            "name": "Produse locale din fructe",
+            "tip": "Regiunea Haspengouw este renumită pentru fructele sale. Căutați sucuri, siropuri și gemuri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Visit the Grote Markt on Saturday for local produce, cheese, and flowers."
+          },
+          {
+            "name": "Local Fruit Products",
+            "tip": "The Haspengouw region is famous for its fruit. Look for local juices, syrups, and jams."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad in der Nähe des Bahnhofs für eine einfache Erkundung.",
+          "Die Region ist bekannt für ihre Radwege durch die Obstgärten; erwägen Sie einen Abstecher, wenn Sie Zeit haben.",
+          "Achten Sie auf das Kopfsteinpflaster im Stadtzentrum, das eine Herausforderung sein kann.",
+          "Nehmen Sie immer ein gutes Schloss für Ihr Fahrrad mit."
+        ],
+        "hu": [
+          "Béreljen kerékpárt a pályaudvar közelében a könnyű felfedezéshez.",
+          "A régió híres a gyümölcsösökön áthaladó kerékpárútjairól; ha van ideje, tegyen egy kitérőt.",
+          "Vigyázzon a macskakőre a városközpontban, ami kihívást jelenthet.",
+          "Mindig vigyen magával egy jó lakatot a kerékpárjához."
+        ],
+        "ro": [
+          "Închiriați o bicicletă lângă gară pentru o explorare ușoară.",
+          "Regiunea este cunoscută pentru pistele sale de ciclism prin livezi; luați în considerare un ocol dacă aveți timp.",
+          "Fiți atenți la piatra cubică din centrul orașului, care poate fi o provocare.",
+          "Luați întotdeauna un lacăt bun pentru bicicletă."
+        ],
+        "en": [
+          "Rent a bike near the train station for easy exploration.",
+          "The region is known for its cycling routes through the orchards; consider a detour if you have time.",
+          "Be mindful of the cobblestones in the city center, which can be challenging.",
+          "Always bring a good lock for your bike."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 11.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Duras",
+            "hu": "Duras kastély",
+            "ro": "Castelul Duras",
+            "en": "Kasteel van Duras"
+          },
+          "coords": [
+            5.1325,
+            50.7981
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag auf dem Land mit diesem beeindruckenden klassizistischen Schloss.",
+            "hu": "Kezdje a napot vidéken ezzel a lenyűgöző klasszicista kastéllyal.",
+            "ro": "Începeți ziua la țară cu acest impresionant castel clasicist.",
+            "en": "Start your day in the countryside with this impressive classicist castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Zentrum Sint-Truiden",
+            "hu": "Parkoló Sint-Truiden központjában",
+            "ro": "Parcare Centru Sint-Truiden",
+            "en": "Sint-Truiden Center Parking"
+          },
+          "coords": [
+            5.184,
+            50.816
+          ],
+          "category": "transport",
+          "arrive_at": "10:41",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Rest des Vormittags und erkunden Sie das Zentrum zu Fuß.",
+            "hu": "Parkoljon le itt a délelőtt hátralévő részére, és fedezze fel a központot gyalog.",
+            "ro": "Parcați aici pentru restul dimineții și explorați centrul pe jos.",
+            "en": "Park here for the rest of the morning and explore the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus und Belfried",
+            "hu": "Városháza és harangtorony",
+            "ro": "Primăria și Beffroi-ul",
+            "en": "City Hall and Belfry"
+          },
+          "coords": [
+            5.1858,
+            50.8155
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:45",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der erste Halt Ihres Spaziergangs, das Herz der Stadt.",
+            "hu": "A séta első állomása, a város szíve.",
+            "ro": "Prima oprire a plimbării dumneavoastră, inima orașului.",
+            "en": "The first stop on your walking tour, the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Abteiturm",
+            "hu": "Apátsági torony",
+            "ro": "Turnul Abației",
+            "en": "Abbey Tower"
+          },
+          "coords": [
+            5.1862,
+            50.8148
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:16",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Gleich um die Ecke vom Rathaus, nicht zu verfehlen.",
+            "hu": "A Városháza sarkánál található, nem lehet eltéveszteni.",
+            "ro": "Chiar după colț de Primărie, imposibil de ratat.",
+            "en": "Just around the corner from the Town Hall, unmissable."
+          }
+        },
+        {
+          "name": {
+            "de": "Beginenhof Sint-Agnes",
+            "hu": "Sint-Agnes Beginaudvar",
+            "ro": "Beguinage Sint-Agnes",
+            "en": "Begijnhof Sint-Agnes"
+          },
+          "coords": [
+            5.1895,
+            50.816
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:04",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang bringt Sie in eine andere Welt der Ruhe und Geschichte.",
+            "hu": "Egy rövid séta egy másik világba, a nyugalom és a történelem világába repíti.",
+            "ro": "O scurtă plimbare vă transportă într-o altă lume, de liniște și istorie.",
+            "en": "A short walk transports you to another world of peace and history."
+          }
+        },
+        {
+          "name": {
+            "de": "Festraets-Uhrwerk",
+            "hu": "Festraets csillagászati óra",
+            "ro": "Ceasul astronomic Festraets",
+            "en": "Festraets astronomical clock"
+          },
+          "coords": [
+            5.1888,
+            50.8165
+          ],
+          "category": "museums",
+          "arrive_at": "12:51",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Direkt neben dem Beginenhof, nehmen Sie sich Zeit für dieses Meisterwerk.",
+            "hu": "A Beginaudvar mellett található, szánjon időt erre a remekműre.",
+            "ro": "Chiar lângă Beguinage, acordați-vă timp pentru această capodoperă.",
+            "en": "Located right next to the Begijnhof, take your time for this masterpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Domäne Speelhof",
+            "hu": "Speelhof birtok",
+            "ro": "Domeniul Speelhof",
+            "en": "Speelhof Domain"
+          },
+          "coords": [
+            5.1764,
+            50.8202
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:20",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.4,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Park für einen entspannten Nachmittag in der Natur.",
+            "hu": "Vezessen el a parkba egy pihentető délutánra a természetben.",
+            "ro": "Conduceți până la parc pentru o după-amiază relaxantă în natură.",
+            "en": "Drive to the park for a relaxing afternoon surrounded by nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang im Speelhof",
+            "hu": "Séta a Speelhofban",
+            "ro": "Plimbare în Speelhof",
+            "en": "Walk in Speelhof"
+          },
+          "coords": [
+            5.174,
+            50.8215
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:00",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die verschiedenen Pfade, die durch die Wälder und an den Teichen vorbeiführen.",
+            "hu": "Fedezze fel a különböző ösvényeket, amelyek az erdőkön és a tavak mellett vezetnek.",
+            "ro": "Explorați diferitele poteci care duc prin păduri și pe lângă iazuri.",
+            "en": "Explore the different paths that lead through the woods and past the ponds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einer kurzen Fahrt zum eleganten Schloss Duras. Gegen Vormittag fahren Sie ins Zentrum von Sint-Truiden, parken Ihr Auto und erkunden zu Fuß den historischen Kern: das Rathaus, den Abteiturm und den friedlichen Beginenhof. Nach einem kulturellen Mittagessen im Festraets-Museum fahren Sie am Nachmittag zur Domäne Speelhof. Dort beenden Sie den Tag mit einem langen Spaziergang durch die Natur und genießen die Ruhe fernab der Stadt.",
+        "hu": "A nap egy rövid autóúttal kezdődik az elegáns Duras kastélyhoz. Délelőtt felé hajtson be Sint-Truiden központjába, parkolja le az autót, és fedezze fel gyalog a történelmi magot: a Városházát, az Apátsági tornyot és a békés Beginaudvart. A Festraets múzeumban elköltött kulturális ebéd után délután a Speelhof birtokra vezet az útja. Ott egy hosszú, természetközeli sétával zárja a napot, élvezve a várostól távoli csendet.",
+        "ro": "Ziua începe cu o scurtă călătorie cu mașina spre elegantul Castel Duras. Spre amiază, conduceți spre centrul orașului Sint-Truiden, parcați mașina și explorați nucleul istoric pe jos: Primăria, Turnul Abației și pașnicul Beguinage. După un prânz cultural la muzeul Festraets, după-amiaza vă îndreptați spre Domeniul Speelhof. Acolo, încheiați ziua cu o plimbare lungă în natură, bucurându-vă de liniștea de departe de oraș.",
+        "en": "Your day begins with a short drive to the elegant Kasteel van Duras. Towards mid-morning, drive into the center of Sint-Truiden, park your car, and explore the historic core on foot: the Town Hall, Abbey Tower, and the peaceful Begijnhof. After a cultural lunch at the Festraets museum, your afternoon takes you to the Speelhof Domain. There, you'll end the day with a long walk in nature, enjoying the quiet away from the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Haspengouwse fruitvlaai",
+            "tip": "Probieren Sie diesen traditionellen Obstkuchen, besonders während der Erntezeit. Suchen Sie nach Bäckereien rund um den Grote Markt."
+          },
+          {
+            "name": "Tripel Kanunnik",
+            "tip": "Ein starkes lokales Bier, gebraut von der Brauerei Wilderen. Genießen Sie es in einem der Cafés auf dem Grote Markt."
+          },
+          {
+            "name": "Belgische Pommes",
+            "tip": "Kein Besuch ist vollständig ohne eine Tüte Pommes von einer lokalen 'Frituur'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Haspengouw-i gyümölcsös pite (vlaai)",
+            "tip": "Kóstolja meg ezt a hagyományos gyümölcsös süteményt, különösen a szüreti időszakban. Keressen pékségeket a Grote Markt környékén."
+          },
+          {
+            "name": "Tripel Kanunnik",
+            "tip": "Erős helyi sör, a Wilderen sörfőzde terméke. Fogyassza a Grote Markt egyik kávézójában."
+          },
+          {
+            "name": "Belga hasábburgonya",
+            "tip": "Egyetlen látogatás sem teljes egy zacskó sült krumpli nélkül egy helyi 'frituur'-ból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plăcintă cu fructe Haspengouw (vlaai)",
+            "tip": "Încercați această plăcintă tradițională cu fructe, mai ales în timpul sezonului de recoltare. Căutați brutării în jurul Grote Markt."
+          },
+          {
+            "name": "Tripel Kanunnik",
+            "tip": "O bere locală tare, produsă de fabrica de bere Wilderen. Savurați-o la una dintre cafenelele din Grote Markt."
+          },
+          {
+            "name": "Cartofi prăjiți belgieni",
+            "tip": "Nicio vizită nu este completă fără un cornet de cartofi prăjiți de la o 'frituur' locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Haspengouw fruit tart (vlaai)",
+            "tip": "Try this traditional fruit pie, especially during the harvest season. Look for bakeries around the Grote Markt."
+          },
+          {
+            "name": "Tripel Kanunnik",
+            "tip": "A strong local beer brewed by the Wilderen brewery. Enjoy it at one of the cafés on the Grote Markt."
+          },
+          {
+            "name": "Belgian Fries",
+            "tip": "No visit is complete without a cone of fries from a local 'frituur'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten von Schloss Duras",
+            "tip": "Spazieren Sie durch die formalen Gärten für einen Moment aristokratischer Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Innenhof des Begijnhofs",
+            "tip": "Ein Ort der Stille und Besinnung, abseits der belebten Straßen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Speelhof-Teiche",
+            "tip": "Finden Sie eine Bank an den Teichen für einen Moment der Ruhe in der Natur.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Duras kastély kertjei",
+            "tip": "Sétáljon a formális kertekben egy arisztokratikus nyugalom pillanatáért.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Beginaudvar udvara",
+            "tip": "A csend és az elmélkedés helye, távol a forgalmas utcáktól.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Speelhof tavai",
+            "tip": "Keressen egy padot a tavaknál egy csendes pillanatra a természetben.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Castelului Duras",
+            "tip": "Plimbați-vă prin grădinile formale pentru un moment de liniște aristocratică.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea Beguinage-ului",
+            "tip": "Un loc de liniște și contemplare, departe de străzile aglomerate.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Iazurile Speelhof",
+            "tip": "Găsiți o bancă lângă iazuri pentru un moment de pace în natură.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gardens of Kasteel van Duras",
+            "tip": "Stroll through the formal gardens for a moment of aristocratic tranquility.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Courtyard of the Begijnhof",
+            "tip": "A place of silence and contemplation, away from the busy streets.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Speelhof Ponds",
+            "tip": "Find a bench by the ponds for a moment of peace in nature.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Besuchen Sie am Samstag den Grote Markt für lokale Produkte, Käse und Blumen."
+          },
+          {
+            "name": "Lokale Obstprodukte",
+            "tip": "Die Region Haspengouw ist berühmt für ihr Obst. Suchen Sie nach lokalen Säften, Sirupen und Konfitüren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Látogasson el szombaton a Grote Marktra helyi termékekért, sajtokért és virágokért."
+          },
+          {
+            "name": "Helyi gyümölcstermékek",
+            "tip": "A Haspengouw régió híres a gyümölcseiről. Keressen helyi leveket, szörpöket és lekvárokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Vizitați Grote Markt sâmbăta pentru produse locale, brânzeturi și flori."
+          },
+          {
+            "name": "Produse locale din fructe",
+            "tip": "Regiunea Haspengouw este renumită pentru fructele sale. Căutați sucuri, siropuri și gemuri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Visit the Grote Markt on Saturday for local produce, cheese, and flowers."
+          },
+          {
+            "name": "Local Fruit Products",
+            "tip": "The Haspengouw region is famous for its fruit. Look for local juices, syrups, and jams."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten im Stadtzentrum im Voraus; einige sind kostenpflichtig.",
+          "Die Straßen auf dem Land können eng sein, fahren Sie also vorsichtig.",
+          "Ein Auto ermöglicht es Ihnen, leicht andere nahegelegene Attraktionen wie die Brauerei Wilderen zu besuchen.",
+          "Beachten Sie die Umweltzonen ('LEZ') in größeren belgischen Städten, obwohl Sint-Truiden keine hat."
+        ],
+        "hu": [
+          "Előre ellenőrizze a parkolási lehetőségeket a városközpontban; néhány fizetős.",
+          "A vidéki utak szűkek lehetnek, ezért vezessen óvatosan.",
+          "Az autó lehetővé teszi, hogy könnyedén meglátogasson más közeli látnivalókat, mint például a Wilderen sörfőzdét.",
+          "Vegye figyelembe a nagyobb belga városok alacsony kibocsátású zónáit ('LEZ'), bár Sint-Truidenben nincs ilyen."
+        ],
+        "ro": [
+          "Verificați din timp opțiunile de parcare din centrul orașului; unele sunt cu plată.",
+          "Drumurile de la țară pot fi înguste, așa că șofați cu prudență.",
+          "O mașină vă permite să vizitați cu ușurință alte atracții din apropiere, cum ar fi fabrica de bere Wilderen.",
+          "Fiți conștienți de zonele cu emisii scăzute ('LEZ') din orașele belgiene mai mari, deși Sint-Truiden nu are una."
+        ],
+        "en": [
+          "Check city center parking options in advance; some are paid.",
+          "Countryside roads can be narrow, so drive with care.",
+          "A car allows you to easily visit other nearby attractions like the Wilderen brewery.",
+          "Be aware of low-emission zones ('LEZ') in larger Belgian cities, though Sint-Truiden does not have one."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Sint-Truiden",
+            "hu": "Sint-Truiden vasútállomás",
+            "ro": "Gara Sint-Truiden",
+            "en": "Sint-Truiden Station"
+          },
+          "coords": [
+            5.1931,
+            50.8197
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier und machen Sie einen kurzen Spaziergang zum ersten Cluster von Sehenswürdigkeiten.",
+            "hu": "Kezdje a napot itt, és tegyen egy rövid sétát az első látnivaló csoporthoz.",
+            "ro": "Începeți ziua aici și faceți o scurtă plimbare până la primul grup de atracții.",
+            "en": "Start your day here and take a short walk to the first cluster of sights."
+          }
+        },
+        {
+          "name": {
+            "de": "Beginenhof Sint-Agnes",
+            "hu": "Sint-Agnes Beginaudvar",
+            "ro": "Beguinage Sint-Agnes",
+            "en": "Begijnhof Sint-Agnes"
+          },
+          "coords": [
+            5.1895,
+            50.816
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die Geschichte an Ihrem ersten Halt.",
+            "hu": "Merüljön el a történelemben az első megállónál.",
+            "ro": "Scufundați-vă în istorie la prima oprire.",
+            "en": "Immerse yourself in history at your first stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus und Belfried",
+            "hu": "Városháza és harangtorony",
+            "ro": "Primăria și Beffroi-ul",
+            "en": "City Hall and Belfry"
+          },
+          "coords": [
+            5.1858,
+            50.8155
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:13",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie zum zentralen Platz, dem pulsierenden Herzen von Sint-Truiden.",
+            "hu": "Sétáljon el a központi térre, Sint-Truiden lüktető szívébe.",
+            "ro": "Plimbați-vă până în piața centrală, inima vibrantă a orașului Sint-Truiden.",
+            "en": "Stroll over to the central square, the vibrant heart of Sint-Truiden."
+          }
+        },
+        {
+          "name": {
+            "de": "Abteiturm",
+            "hu": "Apátsági torony",
+            "ro": "Turnul Abației",
+            "en": "Abbey Tower"
+          },
+          "coords": [
+            5.1862,
+            50.8148
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:44",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Der Turm ist nur einen Steinwurf entfernt, klettern Sie hinauf für die Aussicht.",
+            "hu": "A torony csak egy kőhajításnyira van, másszon fel a kilátásért.",
+            "ro": "Turnul este la o aruncătură de băț, urcați pentru priveliște.",
+            "en": "The tower is just a stone's throw away, climb up for the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus nach Duras",
+            "hu": "Busz Duras felé",
+            "ro": "Autobuz spre Duras",
+            "en": "Bus to Duras"
+          },
+          "coords": [
+            5.185,
+            50.813
+          ],
+          "category": "transport",
+          "arrive_at": "11:44",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus für einen kurzen Ausflug aufs Land.",
+            "hu": "Szálljon buszra egy rövid vidéki kiránduláshoz.",
+            "ro": "Luați autobuzul pentru o scurtă excursie la țară.",
+            "en": "Take the bus for a short trip into the countryside."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Duras",
+            "hu": "Duras kastély",
+            "ro": "Castelul Duras",
+            "en": "Kasteel van Duras"
+          },
+          "coords": [
+            5.1325,
+            50.7981
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:44",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie das Schloss und sein Anwesen, ein starker Kontrast zur Stadt.",
+            "hu": "Fedezze fel a kastélyt és birtokát, amely éles kontrasztot alkot a várossal.",
+            "ro": "Explorați castelul și domeniul său, un contrast puternic cu orașul.",
+            "en": "Explore the castle and its grounds, a stark contrast to the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Domäne Speelhof",
+            "hu": "Speelhof birtok",
+            "ro": "Domeniul Speelhof",
+            "en": "Speelhof Domain"
+          },
+          "coords": [
+            5.1764,
+            50.8202
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:38",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zurück in die Stadt und steigen Sie am Park aus, um sich zu entspannen.",
+            "hu": "Menjen vissza busszal a városba, és szálljon le a parknál egy kis pihenésre.",
+            "ro": "Luați un autobuz înapoi spre oraș și coborâți la parc pentru relaxare.",
+            "en": "Take a bus back towards town and get off at the park for some relaxation."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nach Ihrer Ankunft am Bahnhof von Sint-Truiden erkunden Sie am Vormittag den zentralen Cluster historischer Stätten zu Fuß. Vom ruhigen Begijnhof bis zum belebten Grote Markt bekommen Sie einen guten Eindruck von der Stadt. Zu Mittag nehmen Sie einen Bus zum Schloss Duras für einen Ausflug aufs Land. Am Nachmittag bringt Sie ein weiterer Bus zum Speelhof, wo Sie den Rest des Tages in der ruhigen Parklandschaft verbringen, bevor Sie zum Bahnhof zurückkehren.",
+        "hu": "Miután megérkezik Sint-Truiden vasútállomására, délelőtt gyalogosan fedezi fel a történelmi helyszínek központi csoportját. A csendes Beginaudvartól a nyüzsgő Grote Marktig jó benyomást szerez a városról. Ebédidőben busszal indul a Duras kastélyhoz egy vidéki kirándulásra. Délután egy másik busz viszi a Speelhofba, ahol a nap hátralévő részét a csendes parkban tölti, mielőtt visszatérne az állomásra.",
+        "ro": "La sosirea la gara din Sint-Truiden, dimineața explorați pe jos grupul central de situri istorice. De la liniștitul Beguinage la aglomeratul Grote Markt, vă veți face o idee bună despre oraș. La prânz, luați un autobuz spre Castelul Duras pentru o incursiune la țară. După-amiaza, un alt autobuz vă duce la Speelhof, unde vă petreceți restul zilei în parcul liniștit înainte de a vă întoarce la gară.",
+        "en": "Upon arriving at Sint-Truiden station, your morning is spent exploring the central cluster of historic sites on foot. From the quiet Begijnhof to the bustling Grote Markt, you'll get a real feel for the city. At midday, you'll take a bus to Kasteel van Duras for a countryside escape. In the afternoon, another bus takes you to Speelhof, where you'll spend the rest of the day in the peaceful parkland before heading back to the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Haspengouwse fruitvlaai",
+            "tip": "Probieren Sie diesen traditionellen Obstkuchen, besonders während der Erntezeit. Suchen Sie nach Bäckereien rund um den Grote Markt."
+          },
+          {
+            "name": "Tripel Kanunnik",
+            "tip": "Ein starkes lokales Bier, gebraut von der Brauerei Wilderen. Genießen Sie es in einem der Cafés auf dem Grote Markt."
+          },
+          {
+            "name": "Belgische Pommes",
+            "tip": "Kein Besuch ist vollständig ohne eine Tüte Pommes von einer lokalen 'Frituur'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Haspengouw-i gyümölcsös pite (vlaai)",
+            "tip": "Kóstolja meg ezt a hagyományos gyümölcsös süteményt, különösen a szüreti időszakban. Keressen pékségeket a Grote Markt környékén."
+          },
+          {
+            "name": "Tripel Kanunnik",
+            "tip": "Erős helyi sör, a Wilderen sörfőzde terméke. Fogyassza a Grote Markt egyik kávézójában."
+          },
+          {
+            "name": "Belga hasábburgonya",
+            "tip": "Egyetlen látogatás sem teljes egy zacskó sült krumpli nélkül egy helyi 'frituur'-ból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plăcintă cu fructe Haspengouw (vlaai)",
+            "tip": "Încercați această plăcintă tradițională cu fructe, mai ales în timpul sezonului de recoltare. Căutați brutării în jurul Grote Markt."
+          },
+          {
+            "name": "Tripel Kanunnik",
+            "tip": "O bere locală tare, produsă de fabrica de bere Wilderen. Savurați-o la una dintre cafenelele din Grote Markt."
+          },
+          {
+            "name": "Cartofi prăjiți belgieni",
+            "tip": "Nicio vizită nu este completă fără un cornet de cartofi prăjiți de la o 'frituur' locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Haspengouw fruit tart (vlaai)",
+            "tip": "Try this traditional fruit pie, especially during the harvest season. Look for bakeries around the Grote Markt."
+          },
+          {
+            "name": "Tripel Kanunnik",
+            "tip": "A strong local beer brewed by the Wilderen brewery. Enjoy it at one of the cafés on the Grote Markt."
+          },
+          {
+            "name": "Belgian Fries",
+            "tip": "No visit is complete without a cone of fries from a local 'frituur'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten von Schloss Duras",
+            "tip": "Spazieren Sie durch die formalen Gärten für einen Moment aristokratischer Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Innenhof des Begijnhofs",
+            "tip": "Ein Ort der Stille und Besinnung, abseits der belebten Straßen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Speelhof-Teiche",
+            "tip": "Finden Sie eine Bank an den Teichen für einen Moment der Ruhe in der Natur.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Duras kastély kertjei",
+            "tip": "Sétáljon a formális kertekben egy arisztokratikus nyugalom pillanatáért.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Beginaudvar udvara",
+            "tip": "A csend és az elmélkedés helye, távol a forgalmas utcáktól.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Speelhof tavai",
+            "tip": "Keressen egy padot a tavaknál egy csendes pillanatra a természetben.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Castelului Duras",
+            "tip": "Plimbați-vă prin grădinile formale pentru un moment de liniște aristocratică.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea Beguinage-ului",
+            "tip": "Un loc de liniște și contemplare, departe de străzile aglomerate.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Iazurile Speelhof",
+            "tip": "Găsiți o bancă lângă iazuri pentru un moment de pace în natură.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gardens of Kasteel van Duras",
+            "tip": "Stroll through the formal gardens for a moment of aristocratic tranquility.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Courtyard of the Begijnhof",
+            "tip": "A place of silence and contemplation, away from the busy streets.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Speelhof Ponds",
+            "tip": "Find a bench by the ponds for a moment of peace in nature.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Besuchen Sie am Samstag den Grote Markt für lokale Produkte, Käse und Blumen."
+          },
+          {
+            "name": "Lokale Obstprodukte",
+            "tip": "Die Region Haspengouw ist berühmt für ihr Obst. Suchen Sie nach lokalen Säften, Sirupen und Konfitüren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Látogasson el szombaton a Grote Marktra helyi termékekért, sajtokért és virágokért."
+          },
+          {
+            "name": "Helyi gyümölcstermékek",
+            "tip": "A Haspengouw régió híres a gyümölcseiről. Keressen helyi leveket, szörpöket és lekvárokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Vizitați Grote Markt sâmbăta pentru produse locale, brânzeturi și flori."
+          },
+          {
+            "name": "Produse locale din fructe",
+            "tip": "Regiunea Haspengouw este renumită pentru fructele sale. Căutați sucuri, siropuri și gemuri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Visit the Grote Markt on Saturday for local produce, cheese, and flowers."
+          },
+          {
+            "name": "Local Fruit Products",
+            "tip": "The Haspengouw region is famous for its fruit. Look for local juices, syrups, and jams."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, insbesondere für Fahrten am Wochenende.",
+          "Die meisten Busse fahren vom Bahnhof ab, was ihn zu einem guten Ausgangspunkt macht.",
+          "Behalten Sie die Zeit im Auge, um den letzten Bus zurück ins Zentrum oder zum Bahnhof nicht zu verpassen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha több utazást tervez.",
+          "Előre ellenőrizze a buszmenetrendet, különösen a hétvégi utazásokhoz.",
+          "A legtöbb busz a vasútállomásról indul, így jó kiindulópont.",
+          "Tartsa szemmel az időt, hogy ne késsen le az utolsó buszról vissza a központba vagy az állomásra."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă plănuiți mai multe călătorii.",
+          "Verificați orarele autobuzelor în avans, mai ales pentru călătoriile de weekend.",
+          "Majoritatea autobuzelor pleacă de la gară, ceea ce o face un bun punct de plecare.",
+          "Fiți cu ochii pe ceas pentru a nu pierde ultimul autobuz înapoi spre centru sau gară."
+        ],
+        "en": [
+          "Buy a day pass for the bus if you plan on making multiple trips.",
+          "Check bus schedules in advance, especially for weekend services.",
+          "Most buses depart from the train station, making it a good hub.",
+          "Keep an eye on the time to not miss the last bus back to the center or station."
+        ]
+      }
+    }
+  }
+}

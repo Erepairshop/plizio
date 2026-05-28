@@ -1,0 +1,1470 @@
+{
+  "city_id": "denmark-ringsted-cities-v2",
+  "anchor": {
+    "name": "Ringsted",
+    "coords": [
+      11.78,
+      55.44
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Sankt Bendts Kirke",
+            "hu": "Szent Bendt-templom",
+            "ro": "Biserica Sf. Bendt",
+            "en": "St. Bendt's Church"
+          },
+          "coords": [
+            11.788,
+            55.445
+          ],
+          "category": "churches",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Achten Sie auf die königlichen Gräber, eines der ältesten in Dänemark.",
+            "hu": "Keresse meg a királyi sírokat, amelyek Dánia legrégebbijei közé tartoznak.",
+            "ro": "Căutați mormintele regale, printre cele mai vechi din Danemarca.",
+            "en": "Look for the royal tombs, among the oldest in Denmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Grab von Valdemar dem Großen",
+            "hu": "Nagy Valdemár sírja",
+            "ro": "Mormântul lui Valdemar cel Mare",
+            "en": "Valdemar the Great's Grave"
+          },
+          "coords": [
+            11.7885,
+            55.4452
+          ],
+          "category": "monuments",
+          "arrive_at": "09:57",
+          "stay_min": 20,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Dieses Grab befindet sich in der Kirche und ist ein zentrales Stück dänischer Geschichte.",
+            "hu": "A sír a templomon belül található, a dán történelem központi eleme.",
+            "ro": "Situat în interiorul bisericii, acest mormânt este o piesă centrală a istoriei daneze.",
+            "en": "Located inside the church, this grave is a central piece of Danish history."
+          }
+        },
+        {
+          "name": {
+            "de": "Ringsted Museum und Archiv",
+            "hu": "Ringstedi Múzeum és Levéltár",
+            "ro": "Muzeul și Arhiva Ringsted",
+            "en": "Ringsted Museum and Archive"
+          },
+          "coords": [
+            11.786,
+            55.446
+          ],
+          "category": "museums",
+          "arrive_at": "10:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Museum bietet einen großartigen Einblick in das lokale Leben im 18. und 19. Jahrhundert.",
+            "hu": "A múzeum remek betekintést nyújt a helyi életbe a 18. és 19. században.",
+            "ro": "Muzeul oferă o perspectivă excelentă asupra vieții locale din secolele al XVIII-lea și al XIX-lea.",
+            "en": "The museum gives a great insight into local life in the 18th and 19th centuries."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Innenstadt",
+            "hu": "Ebéd a városközpontban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the Town Center"
+          },
+          "coords": [
+            11.787,
+            55.444
+          ],
+          "category": "gastro",
+          "arrive_at": "11:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Probieren Sie ein klassisches dänisches Smørrebrød in einem der Cafés am Marktplatz.",
+            "hu": "Kóstoljon meg egy klasszikus dán smørrebrødet a piactéri kávézók egyikében.",
+            "ro": "Încercați un smørrebrød danez clasic la una dintre cafenelele din piață.",
+            "en": "Try a classic Danish smørrebrød at one of the cafés in the market square."
+          }
+        },
+        {
+          "name": {
+            "de": "Ringsted Lystanlæg",
+            "hu": "Ringsted Lystanlæg park",
+            "ro": "Parcul Ringsted Lystanlæg",
+            "en": "Ringsted Lystanlæg Park"
+          },
+          "coords": [
+            11.779,
+            55.442
+          ],
+          "category": "parks",
+          "arrive_at": "13:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für einen entspannten Spaziergang nach dem Mittagessen, mit schönen Blumenbeeten.",
+            "hu": "Tökéletes hely egy ebéd utáni pihentető sétához, gyönyörű virágágyásokkal.",
+            "ro": "Un loc perfect pentru o plimbare relaxantă după prânz, cu straturi frumoase de flori.",
+            "en": "A perfect spot for a relaxing post-lunch walk, with beautiful flower beds."
+          }
+        },
+        {
+          "name": {
+            "de": "Radiomuseet",
+            "hu": "Rádiómúzeum",
+            "ro": "Muzeul Radioului",
+            "en": "The Radio Museum"
+          },
+          "coords": [
+            11.795,
+            55.441
+          ],
+          "category": "museums",
+          "arrive_at": "15:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte der Radiokommunikation, ein verstecktes Juwel.",
+            "hu": "Fedezze fel a rádiókommunikáció lenyűgöző történetét, egy rejtett kincs.",
+            "ro": "Descoperiți istoria fascinantă a comunicațiilor radio, o bijuterie ascunsă.",
+            "en": "Discover the fascinating history of radio communication, a hidden gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Ringsted Vindmølle",
+            "hu": "Ringstedi szélmalom",
+            "ro": "Moara de vânt din Ringsted",
+            "en": "Ringsted Windmill"
+          },
+          "coords": [
+            11.802,
+            55.448
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Die Windmühle ist nicht immer geöffnet, aber ihre äußere Erscheinung ist sehr fotogen.",
+            "hu": "A szélmalom nem mindig van nyitva, de kívülről is nagyon fotogén.",
+            "ro": "Moara de vânt nu este întotdeauna deschisă, dar exteriorul său este foarte fotogenic.",
+            "en": "The windmill isn't always open, but its exterior is very photogenic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Ringsted beginnt im Herzen der Geschichte, bei der ehrwürdigen Sankt Bendts Kirke, wo die dänischen Könige ruhen. Nach diesem tiefen Einblick in die Vergangenheit schlendern Sie durch die charmanten Straßen zum Ringsted Museum, um das lokale Erbe zu entdecken. Am Mittag genießen Sie die dänische Gemütlichkeit bei einem traditionellen Smørrebrød in einem Café im Zentrum. Der Nachmittag gehört der Entspannung und Entdeckung: Zuerst ein Spaziergang im grünen Lystanlæg, gefolgt von einem Besuch im einzigartigen Radiomuseet. Ihr Spaziergang endet bei der historischen Windmühle, einem Symbol für die ländliche Vergangenheit der Region, während die Sonne langsam untergeht.",
+        "hu": "A nap Ringstedben a történelem szívében kezdődik, a tiszteletreméltó Szent Bendt-templomnál, ahol dán királyok nyugszanak. A múltba való mély betekintés után sétáljon végig a bájos utcákon a Ringstedi Múzeumig, hogy felfedezze a helyi örökséget. Délben élvezze a dán „hygge” hangulatot egy hagyományos smørrebrød mellett a központ egyik kávézójában. A délután a pihenésé és a felfedezésé: először egy séta a zöld Lystanlæg parkban, majd látogatás az egyedülálló Rádiómúzeumban. A séta a történelmi szélmalomnál ér véget, amely a vidék múltjának szimbóluma, miközben a nap lassan lenyugszik.",
+        "ro": "Ziua dumneavoastră în Ringsted începe în inima istoriei, la venerabila Biserică Sf. Bendt, unde se odihnesc regii danezi. După această incursiune profundă în trecut, vă plimbați pe străzile fermecătoare până la Muzeul Ringsted pentru a descoperi moștenirea locală. La prânz, vă bucurați de confortul danez cu un smørrebrød tradițional la o cafenea din centru. După-amiaza este dedicată relaxării și descoperirii: mai întâi o plimbare în parcul verde Lystanlæg, urmată de o vizită la unicul Muzeu al Radioului. Plimbarea se încheie la moara de vânt istorică, un simbol al trecutului rural al regiunii, în timp ce soarele apune.",
+        "en": "Your day in Ringsted begins in the heart of history at the venerable St. Bendt's Church, where Danish kings rest. After this deep dive into the past, stroll through the charming streets to the Ringsted Museum to discover the local heritage. At noon, enjoy Danish coziness with a traditional smørrebrød at a café in the center. The afternoon is for relaxation and discovery: first a walk in the green Lystanlæg park, followed by a visit to the unique Radio Museum. Your walk concludes at the historic windmill, a symbol of the region's rural past, as the sun sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Das klassische offene Sandwich. Suchen Sie nach Varianten mit Hering oder Roastbeef."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Dänische Fleischbällchen, oft mit Kartoffelsalat serviert."
+          },
+          {
+            "name": "Rødgrød med fløde",
+            "tip": "Ein traditionelles Dessert aus roten Beeren mit Sahne."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smørrebrød",
+            "tip": "A klasszikus nyitott szendvics. Keresse a heringes vagy sült marhahúsos változatokat."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Dán húsgombóc, gyakran burgonyasalátával tálalva."
+          },
+          {
+            "name": "Rødgrød med fløde",
+            "tip": "Hagyományos, piros bogyós gyümölcsökből készült desszert tejszínnel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Sandvișul deschis clasic. Căutați variante cu hering sau friptură de vită."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Chiftele daneze, adesea servite cu salată de cartofi."
+          },
+          {
+            "name": "Rødgrød med fløde",
+            "tip": "Un desert tradițional din fructe de pădure roșii cu smântână."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smørrebrød",
+            "tip": "The classic open-faced sandwich. Look for versions with herring or roast beef."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Danish meatballs, often served with potato salad."
+          },
+          {
+            "name": "Rødgrød med fløde",
+            "tip": "A traditional red berry pudding with cream."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ringsted Lystanlæg",
+            "tip": "Finden Sie eine ruhige Bank am Teich.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirchhof von Sankt Bendt",
+            "tip": "Ein friedlicher Ort, um die alte Architektur zu bewundern.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang am Abend",
+            "tip": "Die Straßen leeren sich am späten Nachmittag für einen ruhigen Spaziergang.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ringsted Lystanlæg",
+            "tip": "Keressen egy csendes padot a tó mellett.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent Bendt-templom kertje",
+            "tip": "Békés hely a régi építészet csodálatára.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Esti séta",
+            "tip": "A késő délutáni órákban kiürülnek az utcák egy csendes sétához.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Ringsted Lystanlæg",
+            "tip": "Găsiți o bancă liniștită lângă iaz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea Bisericii Sf. Bendt",
+            "tip": "Un loc pașnic pentru a admira arhitectura veche.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare de seară",
+            "tip": "Străzile se golesc după-amiaza târziu pentru o plimbare liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ringsted Lystanlæg Park",
+            "tip": "Find a quiet bench by the pond.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. Bendt's Churchyard",
+            "tip": "A peaceful spot to admire the old architecture.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Evening Stroll",
+            "tip": "The streets empty out in the late afternoon for a quiet walk.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ringsted Torv (Marktplatz)",
+            "tip": "An Markttagen finden Sie hier lokale Produkte und Kunsthandwerk."
+          },
+          {
+            "name": "Lokale Kunsthandwerksläden",
+            "tip": "Suchen Sie nach kleinen Geschäften, die handgemachte dänische Waren verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ringsted Torv (Piactér)",
+            "tip": "Piacnapokon helyi termékeket és kézműves árukat találhat itt."
+          },
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keressen kis üzleteket, amelyek kézzel készített dán termékeket árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Ringsted (Torv)",
+            "tip": "În zilele de piață, veți găsi produse locale și artizanat aici."
+          },
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Căutați magazine mici care vând produse daneze realizate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ringsted Torv (Market Square)",
+            "tip": "On market days, you'll find local produce and crafts here."
+          },
+          {
+            "name": "Local Craft Shops",
+            "tip": "Look for small shops selling handmade Danish goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den größten Teil des Tages laufen werden.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus.",
+          "Eine wiederverwendbare Wasserflasche ist nützlich.",
+          "Halten Sie eine leichte Regenjacke bereit, das dänische Wetter kann unvorhersehbar sein."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a nap nagy részében gyalogolni fog.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét.",
+          "Egy újrafelhasználható vizes palack hasznos lehet.",
+          "Legyen kéznél egy könnyű esőkabát, a dán időjárás kiszámíthatatlan lehet."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge pe jos cea mai mare parte a zilei.",
+          "Verificați în avans orele de deschidere ale muzeelor.",
+          "O sticlă de apă reutilizabilă este utilă.",
+          "Aveți la îndemână o jachetă de ploaie subțire, vremea daneză poate fi imprevizibilă."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be walking for most of the day.",
+          "Check the opening hours for the museums in advance.",
+          "A reusable water bottle is useful.",
+          "Keep a light rain jacket handy, Danish weather can be unpredictable."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:20",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ringsted Vindmølle",
+            "hu": "Ringstedi szélmalom",
+            "ro": "Moara de vânt din Ringsted",
+            "en": "Ringsted Windmill"
+          },
+          "coords": [
+            11.802,
+            55.448
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein toller Startpunkt, um die Stadt aus einer etwas anderen Perspektive zu sehen.",
+            "hu": "Nagyszerű kiindulópont, hogy egy kicsit más szemszögből lássa a várost.",
+            "ro": "Un punct de plecare excelent pentru a vedea orașul dintr-o perspectivă ușor diferită.",
+            "en": "A great starting point to see the city from a slightly different perspective."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt Bendts Kirke",
+            "hu": "Szent Bendt-templom",
+            "ro": "Biserica Sf. Bendt",
+            "en": "St. Bendt's Church"
+          },
+          "coords": [
+            11.788,
+            55.445
+          ],
+          "category": "churches",
+          "arrive_at": "09:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad gut ab und nehmen Sie sich Zeit für die beeindruckenden Gräber im Inneren.",
+            "hu": "Zárja le jól a biciklijét, és szánjon időt a lenyűgöző belső sírokra.",
+            "ro": "Asigurați-vă bine bicicleta și acordați-vă timp pentru mormintele impresionante din interior.",
+            "en": "Lock your bike securely and take your time to see the impressive tombs inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Ringsted Museum und Archiv",
+            "hu": "Ringstedi Múzeum és Levéltár",
+            "ro": "Muzeul și Arhiva Ringsted",
+            "en": "Ringsted Museum and Archive"
+          },
+          "coords": [
+            11.786,
+            55.446
+          ],
+          "category": "museums",
+          "arrive_at": "10:37",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "In der Nähe gibt es gute Fahrradständer.",
+            "hu": "A közelben jó kerékpártárolók találhatók.",
+            "ro": "Există suporturi bune pentru biciclete în apropiere.",
+            "en": "There are good bike racks nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Parks",
+            "hu": "Ebéd a park közelében",
+            "ro": "Prânz lângă parc",
+            "en": "Lunch near the Park"
+          },
+          "coords": [
+            11.78,
+            55.443
+          ],
+          "category": "gastro",
+          "arrive_at": "11:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Packen Sie ein Picknick ein und genießen Sie es im Lystanlæg Park.",
+            "hu": "Csomagoljon pikniket, és fogyassza el a Lystanlæg parkban.",
+            "ro": "Împachetați un picnic și bucurați-vă de el în parcul Lystanlæg.",
+            "en": "Pack a picnic and enjoy it in Lystanlæg Park."
+          }
+        },
+        {
+          "name": {
+            "de": "Radiomuseet",
+            "hu": "Rádiómúzeum",
+            "ro": "Muzeul Radioului",
+            "en": "The Radio Museum"
+          },
+          "coords": [
+            11.795,
+            55.441
+          ],
+          "category": "museums",
+          "arrive_at": "13:12",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Der kurze Anstieg zum Museum lohnt sich für Technikbegeisterte.",
+            "hu": "A múzeumhoz vezető rövid emelkedő megéri a technika szerelmeseinek.",
+            "ro": "Scurta urcare până la muzeu merită pentru pasionații de tehnologie.",
+            "en": "The short climb up to the museum is worth it for technology enthusiasts."
+          }
+        },
+        {
+          "name": {
+            "de": "Haraldsted Sø",
+            "hu": "Haraldsted-tó",
+            "ro": "Lacul Haraldsted",
+            "en": "Haraldsted Lake"
+          },
+          "coords": [
+            11.85,
+            55.46
+          ],
+          "category": "natural features",
+          "arrive_at": "15:17",
+          "stay_min": 90,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.8,
+          "tip_5lang": {
+            "de": "Der Radweg um den See ist wunderschön und bietet tolle Ausblicke.",
+            "hu": "A tó körüli kerékpárút gyönyörű és nagyszerű kilátást nyújt.",
+            "ro": "Pista de biciclete din jurul lacului este frumoasă și oferă priveliști minunate.",
+            "en": "The cycle path around the lake is beautiful and offers great views."
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück ins Zentrum",
+            "hu": "Vissza a központba",
+            "ro": "Înapoi în centru",
+            "en": "Return to Center"
+          },
+          "coords": [
+            11.78,
+            55.44
+          ],
+          "category": "landmarks",
+          "arrive_at": "17:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 33,
+          "hop_from_prev_km": 6.2,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich ein Eis als Belohnung für die Radtour.",
+            "hu": "Jutalmazza meg magát egy fagyival a kerékpártúra után.",
+            "ro": "Răsfățați-vă cu o înghețată ca recompensă pentru turul cu bicicleta.",
+            "en": "Treat yourself to an ice cream as a reward for the bike tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Rad und beginnen Sie den Tag bei der historischen Windmühle von Ringsted, die über der Stadt thront. Eine kurze Fahrt bringt Sie ins Zentrum zur Sankt Bendts Kirke, dem spirituellen und historischen Herzen der Stadt. Nach der Erkundung der königlichen Gräber und des nahegelegenen Museums ist es Zeit für ein Mittagspicknick im Grünen. Gestärkt radeln Sie weiter zum faszinierenden Radiomuseum. Das Highlight des Nachmittags ist die malerische Tour zum und um den Haraldsted Sø, wo Natur und Ruhe auf Sie warten. Der Tag endet mit einer entspannten Rückfahrt ins Zentrum, erfüllt von den Eindrücken der dänischen Landschaft.",
+        "hu": "Pattanjon biciklire, és kezdje a napot Ringsted történelmi szélmalmánál, amely a város fölé magasodik. Egy rövid tekerés a központba viszi, a Szent Bendt-templomhoz, a város spirituális és történelmi szívéhez. A királyi sírok és a közeli múzeum felfedezése után ideje egy pikniknek a zöldben. Erőt gyűjtve tekerjen tovább a lenyűgöző Rádiómúzeumhoz. A délután fénypontja a festői túra a Haraldsted-tóhoz és a tó körül, ahol természet és nyugalom várja. A nap egy pihentető visszaúttal zárul a központba, tele a dán táj benyomásaival.",
+        "ro": "Urcați-vă pe bicicletă și începeți ziua la moara de vânt istorică din Ringsted, care domină orașul. O scurtă plimbare vă duce în centru la Biserica Sf. Bendt, inima spirituală și istorică a orașului. După explorarea mormintelor regale și a muzeului din apropiere, este timpul pentru un picnic în parc. Revigorat, pedalați mai departe spre fascinantul Muzeu al Radioului. Punctul culminant al după-amiezii este turul pitoresc la și în jurul lacului Haraldsted, unde vă așteaptă natura și liniștea. Ziua se încheie cu o plimbare relaxantă înapoi în centru, plină de impresiile peisajului danez.",
+        "en": "Hop on your bike and start the day at Ringsted's historic windmill, towering over the town. A short ride takes you to the center and St. Bendt's Church, the spiritual and historical heart of the city. After exploring the royal tombs and the nearby museum, it's time for a picnic in the park. Refreshed, you'll cycle on to the fascinating Radio Museum. The highlight of the afternoon is the scenic tour to and around Haraldsted Lake, where nature and tranquility await. The day ends with a relaxed ride back to the center, filled with the impressions of the Danish landscape."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smørrebrød zum Mitnehmen",
+            "tip": "Perfekt für ein Picknick am See oder im Park."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Suchen Sie nach einem Bier von einer Mikrobrauerei aus der Region Seeland."
+          },
+          {
+            "name": "Wienerbrød",
+            "tip": "Ein dänisches Gebäck, ideal für eine Kaffeepause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Elviteles Smørrebrød",
+            "tip": "Tökéletes egy piknikhez a tónál vagy a parkban."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Keressen egy sört egy sjællandi mikrofőzdéből."
+          },
+          {
+            "name": "Wienerbrød",
+            "tip": "Dán péksütemény, ideális egy kávészünethez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smørrebrød la pachet",
+            "tip": "Perfect pentru un picnic la lac sau în parc."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "Căutați o bere de la o microberărie din regiunea Zealand."
+          },
+          {
+            "name": "Wienerbrød",
+            "tip": "Un produs de patiserie danez, ideal pentru o pauză de cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Takeaway Smørrebrød",
+            "tip": "Perfect for a picnic by the lake or in the park."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Look for a beer from a microbrewery in the Zealand region."
+          },
+          {
+            "name": "Wienerbrød",
+            "tip": "A Danish pastry, ideal for a coffee break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Haraldsted Sø",
+            "tip": "Finden Sie einen ruhigen Platz, um die Vögel zu beobachten.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ringsted Lystanlæg",
+            "tip": "Abseits der Hauptwege finden Sie ruhige Ecken.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Feldwege",
+            "tip": "Die Wege außerhalb der Stadt bieten viel Ruhe.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Haraldsted-tó partja",
+            "tip": "Keressen egy csendes helyet a madarak megfigyelésére.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ringsted Lystanlæg",
+            "tip": "A fő utaktól távolabb csendes sarkokat talál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mezei utak",
+            "tip": "A városon kívüli utak sok nyugalmat kínálnak.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Haraldsted",
+            "tip": "Găsiți un loc liniștit pentru a privi păsările.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Ringsted Lystanlæg",
+            "tip": "Veți găsi colțuri liniștite departe de aleile principale.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Drumuri de țară",
+            "tip": "Drumurile din afara orașului oferă multă liniște.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shore of Haraldsted Lake",
+            "tip": "Find a quiet spot to watch the birds.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ringsted Lystanlæg Park",
+            "tip": "You'll find quiet corners away from the main paths.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Country Lanes",
+            "tip": "The paths outside the town offer plenty of peace.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Kaufen Sie ein kleines dänisches Fahrradzubehör als Souvenir."
+          },
+          {
+            "name": "Hofläden",
+            "tip": "Halten Sie auf dem Land Ausschau nach Schildern, die lokale Produkte verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Vásároljon egy kis dán kerékpáros kiegészítőt emlékként."
+          },
+          {
+            "name": "Tanyasi boltok",
+            "tip": "Vidéken figyelje a helyi termékeket árusító táblákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Cumpărați un mic accesoriu danez pentru bicicletă ca suvenir."
+          },
+          {
+            "name": "Magazine de fermă",
+            "tip": "Fiți atenți la indicatoarele care vând produse locale în mediul rural."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "Buy a small Danish cycling accessory as a souvenir."
+          },
+          {
+            "name": "Farm Shops",
+            "tip": "Look out for signs selling local produce in the countryside."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad mit Gängen für die Hügel.",
+          "Nehmen Sie ein gutes Schloss mit, um Ihr Fahrrad sicher abzustellen.",
+          "Dänemark hat fantastische Radwege, nutzen Sie sie.",
+          "Überprüfen Sie den Wetterbericht, bevor Sie zu einer langen Fahrt aufbrechen."
+        ],
+        "hu": [
+          "Béreljen váltós kerékpárt a dombokhoz.",
+          "Hozzon magával egy jó lakatot a kerékpár biztonságos lezárásához.",
+          "Dániában fantasztikus kerékpárutak vannak, használja ki őket.",
+          "Mielőtt hosszabb útra indul, ellenőrizze az időjárás-előrejelzést."
+        ],
+        "ro": [
+          "Închiriați o bicicletă cu viteze pentru dealuri.",
+          "Luați un lacăt bun pentru a vă asigura bicicleta.",
+          "Danemarca are piste de biciclete fantastice, folosiți-le.",
+          "Verificați prognoza meteo înainte de a porni într-o plimbare lungă."
+        ],
+        "en": [
+          "Rent a bike with gears for the hills.",
+          "Bring a good lock to secure your bike.",
+          "Denmark has fantastic cycle paths, make use of them.",
+          "Check the weather forecast before heading out on a long ride."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 14.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken im Zentrum & Kaffee",
+            "hu": "Parkolás a központban és kávé",
+            "ro": "Parcare în centru și cafea",
+            "en": "Park in the Center & Coffee"
+          },
+          "coords": [
+            11.789,
+            55.443
+          ],
+          "category": "gastro",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Finden Sie einen Langzeitparkplatz, um das Zentrum zu Fuß zu erkunden.",
+            "hu": "Keressen egy hosszú távú parkolót, hogy gyalog fedezhesse fel a központot.",
+            "ro": "Găsiți o parcare pe termen lung pentru a explora centrul pe jos.",
+            "en": "Find a long-term parking spot to explore the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt Bendts Kirke",
+            "hu": "Szent Bendt-templom",
+            "ro": "Biserica Sf. Bendt",
+            "en": "St. Bendt's Church"
+          },
+          "coords": [
+            11.788,
+            55.445
+          ],
+          "category": "churches",
+          "arrive_at": "09:44",
+          "stay_min": 50,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Spaziergang vom Parkplatz führt Sie durch die hübschen Straßen der Altstadt.",
+            "hu": "A parkolóból való séta az óváros szép utcáin vezet keresztül.",
+            "ro": "Plimbarea de la parcare vă poartă pe străzile drăguțe ale orașului vechi.",
+            "en": "The walk from the parking lot takes you through the pretty old town streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Ringsted Museum und Archiv",
+            "hu": "Ringstedi Múzeum és Levéltár",
+            "ro": "Muzeul și Arhiva Ringsted",
+            "en": "Ringsted Museum and Archive"
+          },
+          "coords": [
+            11.786,
+            55.446
+          ],
+          "category": "museums",
+          "arrive_at": "10:38",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Kirche entfernt, alles im selben autofreien Cluster.",
+            "hu": "Rövid séta a templomtól, minden ugyanabban az autómentes zónában.",
+            "ro": "La o scurtă plimbare de biserică, totul în aceeași zonă pietonală.",
+            "en": "A short walk from the church, all in the same car-free cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Haraldsted Sø",
+            "hu": "Utazás a Haraldsted-tóhoz",
+            "ro": "Drumul spre Lacul Haraldsted",
+            "en": "Drive to Haraldsted Lake"
+          },
+          "coords": [
+            11.85,
+            55.46
+          ],
+          "category": "natural features",
+          "arrive_at": "12:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am See und machen Sie einen Spaziergang. Ideal für ein mitgebrachtes Mittagessen.",
+            "hu": "Parkoljon le a tónál, és tegyen egy sétát. Ideális egy hozott ebédhez.",
+            "ro": "Parcați lângă lac și faceți o plimbare. Ideal pentru un prânz la pachet.",
+            "en": "Park by the lake and take a walk. Ideal for a packed lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Radiomuseet",
+            "hu": "Utazás a Rádiómúzeumhoz",
+            "ro": "Drumul spre Muzeul Radioului",
+            "en": "Drive to the Radio Museum"
+          },
+          "coords": [
+            11.795,
+            55.441
+          ],
+          "category": "museums",
+          "arrive_at": "14:41",
+          "stay_min": 90,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 7.1,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Dieses Museum liegt etwas außerhalb und ist am einfachsten mit dem Auto zu erreichen.",
+            "hu": "Ez a múzeum kicsit kijjebb esik, autóval a legegyszerűbb megközelíteni.",
+            "ro": "Acest muzeu este puțin mai departe și este cel mai ușor de accesat cu mașina.",
+            "en": "This museum is a bit out of the way and is easiest to reach by car."
+          }
+        },
+        {
+          "name": {
+            "de": "Abschluss bei der Ringsted Vindmølle",
+            "hu": "Befejezés a Ringstedi szélmalomnál",
+            "ro": "Încheiere la Moara de vânt Ringsted",
+            "en": "Finish at Ringsted Windmill"
+          },
+          "coords": [
+            11.802,
+            55.448
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Radiomuseum. Ein letzter Fotostopp, um den Tag abzurunden.",
+            "hu": "Rövid séta a Rádiómúzeumtól. Egy utolsó fotómegálló a nap lezárásaként.",
+            "ro": "O scurtă plimbare de la Muzeul Radioului. O ultimă oprire pentru fotografii pentru a încheia ziua.",
+            "en": "A short walk from the radio museum. One last photo stop to round off the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Ringsted kombiniert städtische Erkundung mit ländlicher Ruhe. Parken Sie Ihr Auto im Zentrum und erkunden Sie den ersten Cluster zu Fuß: die majestätische Sankt Bendts Kirke und das aufschlussreiche Ringsted Museum. Spüren Sie die Geschichte unter Ihren Füßen. Zur Mittagszeit fahren Sie aus der Stadt hinaus zum idyllischen Haraldsted Sø. Hier können Sie inmitten der Natur picknicken und spazieren gehen, ein perfekter Kontrast zum städtischen Vormittag. Am Nachmittag bringt Sie Ihr Auto zum zweiten Cluster, dem faszinierenden Radiomuseum und der nahegelegenen historischen Windmühle. Diese Kombination aus Kultur und Natur macht Ihren Tag unvergesslich.",
+        "hu": "Autós napja Ringstedben a városi felfedezést a vidéki nyugalommal ötvözi. Parkolja le autóját a központban, és fedezze fel gyalog az első látnivalócsoportot: a fenséges Szent Bendt-templomot és a tanulságos Ringstedi Múzeumot. Érezze a történelmet a lába alatt. Délidőben hajtson ki a városból az idilli Haraldsted-tóhoz. Itt piknikezhet és sétálhat a természet közepén, tökéletes kontrasztot teremtve a délelőtti városi nyüzsgéssel. Délután az autója elviszi a második látnivalócsoporthoz, a lenyűgöző Rádiómúzeumhoz és a közeli történelmi szélmalomhoz. A kultúra és a természet ezen kombinációja felejthetetlenné teszi a napját.",
+        "ro": "Ziua dumneavoastră cu mașina în Ringsted combină explorarea urbană cu liniștea rurală. Parcați mașina în centru și explorați primul cluster pe jos: maiestuoasa Biserică Sf. Bendt și revelatorul Muzeu Ringsted. Simțiți istoria sub picioarele dumneavoastră. La prânz, ieșiți din oraș spre idilicul lac Haraldsted. Aici puteți face un picnic și o plimbare în mijlocul naturii, un contrast perfect cu dimineața urbană. După-amiaza, mașina vă duce la al doilea cluster, fascinantul Muzeu al Radioului și moara de vânt istorică din apropiere. Această combinație de cultură și natură vă va face ziua de neuitat.",
+        "en": "Your car tour of Ringsted combines urban exploration with rural tranquility. Park your car in the center and explore the first cluster on foot: the majestic St. Bendt's Church and the insightful Ringsted Museum. Feel the history beneath your feet. For lunch, drive out of town to the idyllic Haraldsted Lake. Here you can picnic and walk in the midst of nature, a perfect contrast to the urban morning. In the afternoon, your car takes you to the second cluster, the fascinating Radio Museum and the nearby historic windmill. This combination of culture and nature makes for an unforgettable day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kro",
+            "tip": "Suchen Sie nach einem traditionellen dänischen Gasthof (Kro) auf dem Land für ein authentisches Mittagessen."
+          },
+          {
+            "name": "Supermarkt-Picknick",
+            "tip": "Kaufen Sie lokale Käsesorten, Brot und Aufschnitt für ein Picknick am See."
+          },
+          {
+            "name": "Tankstellen-Hotdog",
+            "tip": "Ein überraschend leckerer und authentischer dänischer Snack für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kro",
+            "tip": "Keressen egy hagyományos dán fogadót (Kro) vidéken egy autentikus ebédért."
+          },
+          {
+            "name": "Szupermarket piknik",
+            "tip": "Vásároljon helyi sajtokat, kenyeret és felvágottakat a tavi piknikhez."
+          },
+          {
+            "name": "Benzinkutas hot dog",
+            "tip": "Meglepően finom és autentikus dán harapnivaló útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kro",
+            "tip": "Căutați un han tradițional danez (Kro) la țară pentru un prânz autentic."
+          },
+          {
+            "name": "Picnic de la supermarket",
+            "tip": "Cumpărați brânzeturi locale, pâine și mezeluri pentru un picnic la lac."
+          },
+          {
+            "name": "Hotdog de la benzinărie",
+            "tip": "O gustare daneză surprinzător de delicioasă și autentică pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kro",
+            "tip": "Look for a traditional Danish inn (Kro) in the countryside for an authentic lunch."
+          },
+          {
+            "name": "Supermarket Picnic",
+            "tip": "Buy local cheeses, bread, and cold cuts for a picnic by the lake."
+          },
+          {
+            "name": "Gas Station Hot Dog",
+            "tip": "A surprisingly delicious and authentic Danish snack for the road."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Haraldsted Sø",
+            "tip": "Das Ufer des Sees ist der perfekte Ort für Ruhe und Frieden.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ein Feldweg",
+            "tip": "Halten Sie an einem sicheren Ort an einem Feldweg an und genießen Sie die Stille.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parkplatz mit Aussicht",
+            "tip": "Manchmal bieten die höchsten Parkplätze eine unerwartete Aussicht und Ruhe.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Haraldsted-tó",
+            "tip": "A tó partja tökéletes hely a csendhez és békéhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Egy mezei út",
+            "tip": "Álljon meg egy biztonságos helyen egy mezei úton, és élvezze a csendet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátással rendelkező parkoló",
+            "tip": "Néha a legmagasabban fekvő parkolók váratlan kilátást és nyugalmat kínálnak.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Haraldsted",
+            "tip": "Malul lacului este locul perfect pentru liniște și pace.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Un drum de țară",
+            "tip": "Opriți într-un loc sigur pe un drum de țară și bucurați-vă de liniște.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcare cu vedere",
+            "tip": "Uneori, cele mai înalte parcări oferă o vedere neașteptată și liniște.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Haraldsted Lake",
+            "tip": "The shore of the lake is the perfect place for peace and quiet.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A country lane",
+            "tip": "Pull over in a safe spot on a country lane and enjoy the silence.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parking with a view",
+            "tip": "Sometimes the highest parking spots offer an unexpected view and tranquility.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Achten Sie auf Schilder mit der Aufschrift 'gårdbutik' für frische lokale Produkte."
+          },
+          {
+            "name": "Ringsted Outlet",
+            "tip": "Wenn Sie Zeit haben, ist dies Dänemarks größtes Outlet-Center."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok",
+            "tip": "Figyelje a 'gårdbutik' feliratú táblákat a friss helyi termékekért."
+          },
+          {
+            "name": "Ringsted Outlet",
+            "tip": "Ha van ideje, ez Dánia legnagyobb outlet központja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de fermă",
+            "tip": "Fiți atenți la indicatoarele cu 'gårdbutik' pentru produse locale proaspete."
+          },
+          {
+            "name": "Ringsted Outlet",
+            "tip": "Dacă aveți timp, acesta este cel mai mare centru outlet din Danemarca."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm Shops",
+            "tip": "Look for signs that say 'gårdbutik' for fresh local produce."
+          },
+          {
+            "name": "Ringsted Outlet",
+            "tip": "If you have time, this is Denmark's largest outlet center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie Offline-Karten herunter, da die Netzabdeckung auf dem Land lückenhaft sein kann.",
+          "Parkgebühren sind in Dänemark üblich, halten Sie Kleingeld oder eine Kreditkarte bereit.",
+          "Achten Sie auf Radfahrer, sie haben oft Vorfahrt.",
+          "Tanken Sie, bevor Sie die Stadt verlassen, Tankstellen auf dem Land sind seltener."
+        ],
+        "hu": [
+          "Töltse le az offline térképeket, mivel a vidéki lefedettség hiányos lehet.",
+          "A parkolási díjak gyakoriak Dániában, tartson kéznél aprópénzt vagy hitelkártyát.",
+          "Vigyázzon a kerékpárosokra, gyakran elsőbbségük van.",
+          "Tankoljon, mielőtt elhagyja a várost, a vidéki benzinkutak ritkábbak."
+        ],
+        "ro": [
+          "Descărcați hărți offline, deoarece acoperirea rețelei poate fi slabă la țară.",
+          "Taxele de parcare sunt obișnuite în Danemarca, aveți la îndemână monede sau un card de credit.",
+          "Fiți atenți la bicicliști, aceștia au adesea prioritate.",
+          "Alimentați înainte de a părăsi orașul, benzinăriile de la țară sunt mai rare."
+        ],
+        "en": [
+          "Download offline maps, as rural coverage can be patchy.",
+          "Parking fees are common in Denmark, have coins or a credit card ready.",
+          "Watch out for cyclists, they often have the right of way.",
+          "Fill up with gas before leaving the city, rural gas stations are less common."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof Ringsted",
+            "hu": "Érkezés a Ringsted állomásra",
+            "ro": "Sosire la Gara Ringsted",
+            "en": "Arrival at Ringsted Station"
+          },
+          "coords": [
+            11.782,
+            55.439
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für die lokalen Busse.",
+            "hu": "Vásároljon napijegyet a helyi buszokra.",
+            "ro": "Cumpărați un bilet de o zi pentru autobuzele locale.",
+            "en": "Buy a day ticket for the local buses."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus ins Zentrum & Sankt Bendts Kirke",
+            "hu": "Busszal a központba és a Szent Bendt-templomhoz",
+            "ro": "Autobuz spre centru și Biserica Sf. Bendt",
+            "en": "Bus to Center & St. Bendt's Church"
+          },
+          "coords": [
+            11.788,
+            55.445
+          ],
+          "category": "churches",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die meisten Busse vom Bahnhof halten in der Nähe des Marktplatzes.",
+            "hu": "A legtöbb busz a pályaudvarról a piactér közelében áll meg.",
+            "ro": "Majoritatea autobuzelor de la gară opresc lângă piață.",
+            "en": "Most buses from the station stop near the market square."
+          }
+        },
+        {
+          "name": {
+            "de": "Ringsted Museum und Archiv",
+            "hu": "Ringstedi Múzeum és Levéltár",
+            "ro": "Muzeul și Arhiva Ringsted",
+            "en": "Ringsted Museum and Archive"
+          },
+          "coords": [
+            11.786,
+            55.446
+          ],
+          "category": "museums",
+          "arrive_at": "10:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein einfacher Spaziergang von der Kirche aus.",
+            "hu": "Könnyű séta a templomtól.",
+            "ro": "O plimbare ușoară de la biserică.",
+            "en": "An easy walk from the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Spaziergang im Lystanlæg",
+            "hu": "Ebéd és séta a Lystanlæg parkban",
+            "ro": "Prânz și plimbare în Parcul Lystanlæg",
+            "en": "Lunch and Walk in Lystanlæg Park"
+          },
+          "coords": [
+            11.779,
+            55.442
+          ],
+          "category": "parks",
+          "arrive_at": "12:12",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie Ihr Mittagessen in der Nähe und entspannen Sie sich dann im Park.",
+            "hu": "Fogyassza el ebédjét a közelben, majd pihenjen a parkban.",
+            "ro": "Bucurați-vă de prânz în apropiere și apoi relaxați-vă în parc.",
+            "en": "Enjoy your lunch nearby and then relax in the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Radiomuseet",
+            "hu": "Busszal a Rádiómúzeumhoz",
+            "ro": "Autobuz spre Muzeul Radioului",
+            "en": "Bus to the Radio Museum"
+          },
+          "coords": [
+            11.795,
+            55.441
+          ],
+          "category": "museums",
+          "arrive_at": "14:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Überprüfen Sie den Busfahrplan, da die Busse in die Außenbezirke seltener fahren.",
+            "hu": "Ellenőrizze a buszmenetrendet, mivel a külvárosi buszok ritkábban közlekednek.",
+            "ro": "Verificați orarul autobuzelor, deoarece autobuzele spre periferie circulă mai rar.",
+            "en": "Check the bus schedule as services to the outskirts can be less frequent."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zurück zum Bahnhof",
+            "hu": "Busszal vissza az állomásra",
+            "ro": "Autobuz înapoi la gară",
+            "en": "Bus back to the station"
+          },
+          "coords": [
+            11.782,
+            55.439
+          ],
+          "category": "transit",
+          "arrive_at": "16:25",
+          "stay_min": 70,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für einen letzten Kaffee in der Nähe des Bahnhofs, bevor Sie abfahren.",
+            "hu": "Indulás előtt szánjon időt egy utolsó kávéra az állomás közelében.",
+            "ro": "Acordați-vă timp pentru o ultimă cafea lângă gară înainte de a pleca.",
+            "en": "Allow time for a final coffee near the station before you depart."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln erkunden Sie Ringsted effizient und entspannt. Vom Bahnhof bringt Sie ein Bus direkt ins historische Herz der Stadt. Der erste Cluster, bestehend aus der Sankt Bendts Kirke und dem Ringsted Museum, ist leicht zu Fuß erreichbar. Nach diesem kulturellen Vormittag spazieren Sie zum Lystanlæg Park für eine Mittagspause im Grünen. Am Nachmittag nehmen Sie einen weiteren Bus, um den zweiten Cluster zu erreichen: das einzigartige Radiomuseum. Es zeigt eine andere Seite von Ringsteds Erbe. Der Tag endet mit einer bequemen Busfahrt zurück zum Bahnhof, von wo aus Sie Ihre Weiterreise antreten.",
+        "hu": "A tömegközlekedéssel hatékonyan és pihentetően fedezheti fel Ringstedet. A pályaudvarról egy busz egyenesen a város történelmi szívébe viszi. Az első látnivalócsoport, amely a Szent Bendt-templomból és a Ringstedi Múzeumból áll, könnyen megközelíthető gyalog. A kulturális délelőtt után sétáljon el a Lystanlæg parkba egy ebédszünetre a zöldben. Délután egy másik buszra szállva éri el a második látnivalócsoportot: az egyedülálló Rádiómúzeumot, amely Ringsted örökségének egy másik oldalát mutatja be. A nap egy kényelmes buszúttal ér véget vissza a pályaudvarra, ahonnan továbbutazhat.",
+        "ro": "Folosind transportul public, explorați Ringsted eficient și relaxat. De la gară, un autobuz vă duce direct în inima istorică a orașului. Primul cluster, format din Biserica Sf. Bendt și Muzeul Ringsted, este ușor de explorat pe jos. După această dimineață culturală, vă plimbați până la Parcul Lystanlæg pentru o pauză de prânz în natură. După-amiaza, luați un alt autobuz pentru a ajunge la al doilea cluster: unicul Muzeu al Radioului, care prezintă o altă față a moștenirii din Ringsted. Ziua se încheie cu o călătorie confortabilă cu autobuzul înapoi la gară, de unde vă puteți continua călătoria.",
+        "en": "Using public transport, you can explore Ringsted efficiently and in a relaxed manner. From the station, a bus takes you directly to the historic heart of the city. The first cluster, consisting of St. Bendt's Church and the Ringsted Museum, is easily explored on foot. After this cultural morning, you'll walk to Lystanlæg Park for a lunch break in the green. In the afternoon, you'll take another bus to reach the second cluster: the unique Radio Museum, which shows a different side of Ringsted's heritage. The day ends with a comfortable bus ride back to the station, from where you can continue your journey."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei (Bageri)",
+            "tip": "Holen Sie sich ein frisches Gebäck zum Frühstück in der Nähe des Bahnhofs."
+          },
+          {
+            "name": "Café am Marktplatz",
+            "tip": "Ideal für ein Mittagessen oder eine Kaffeepause zwischen den Besichtigungen."
+          },
+          {
+            "name": "Pølsevogn",
+            "tip": "Ein Hotdog-Wagen für einen schnellen und authentischen dänischen Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség (Bageri)",
+            "tip": "Szerezzen be egy friss péksüteményt reggelire a pályaudvar közelében."
+          },
+          {
+            "name": "Kávézó a piactéren",
+            "tip": "Ideális egy ebédre vagy kávészünetre a látnivalók között."
+          },
+          {
+            "name": "Pølsevogn",
+            "tip": "Egy hot dog árus egy gyors és autentikus dán harapnivalóért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie (Bageri)",
+            "tip": "Luați un produs de patiserie proaspăt pentru micul dejun lângă gară."
+          },
+          {
+            "name": "Cafenea în piață",
+            "tip": "Ideal pentru prânz sau o pauză de cafea între vizite."
+          },
+          {
+            "name": "Pølsevogn",
+            "tip": "Un stand de hotdog pentru o gustare rapidă și autentică daneză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery (Bageri)",
+            "tip": "Grab a fresh pastry for breakfast near the station."
+          },
+          {
+            "name": "Café in the square",
+            "tip": "Ideal for lunch or a coffee break between sightseeing."
+          },
+          {
+            "name": "Pølsevogn",
+            "tip": "A hot dog stand for a quick and authentic Danish snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ringsted Lystanlæg",
+            "tip": "Ein großer Park, in dem man leicht eine ruhige Ecke finden kann.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhof von Sankt Bendt",
+            "tip": "Ein Ort der Stille und des Nachdenkens.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Eine Fahrt mit dem Bus aus der Stadt",
+            "tip": "Schauen Sie aus dem Fenster und beobachten Sie die vorbeiziehende Landschaft.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ringsted Lystanlæg",
+            "tip": "Nagy park, ahol könnyen találhat egy csendes sarkot.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent Bendt temetője",
+            "tip": "A csend és az elmélkedés helye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Buszozás a városból kifelé",
+            "tip": "Nézzen ki az ablakon, és figyelje az elsuhanó tájat.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Ringsted Lystanlæg",
+            "tip": "Un parc mare unde este ușor să găsești un colț liniștit.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul Sf. Bendt",
+            "tip": "Un loc de liniște și contemplare.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "O călătorie cu autobuzul în afara orașului",
+            "tip": "Priviți pe geam și urmăriți peisajul trecând.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ringsted Lystanlæg Park",
+            "tip": "A large park where it's easy to find a quiet corner.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. Bendt's Cemetery",
+            "tip": "A place of quiet and contemplation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A bus ride out of town",
+            "tip": "Look out the window and watch the scenery go by.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Innenstadt",
+            "tip": "Die Haupteinkaufsstraßen liegen alle im fußläufigen Bereich des Zentrumsclusters."
+          },
+          {
+            "name": "Bahnhofskiosk",
+            "tip": "Kaufen Sie eine dänische Zeitschrift oder einen Snack für Ihre Weiterreise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belvárosi üzletek",
+            "tip": "A fő bevásárlóutcák mind a központi látnivalócsoport sétatávolságán belül vannak."
+          },
+          {
+            "name": "Pályaudvari kioszk",
+            "tip": "Vásároljon egy dán magazint vagy harapnivalót a továbbutazáshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine din centrul orașului",
+            "tip": "Principalele străzi comerciale se află la distanță de mers pe jos de clusterul central."
+          },
+          {
+            "name": "Chioșcul din gară",
+            "tip": "Cumpărați o revistă daneză sau o gustare pentru călătoria dumneavoastră."
+          }
+        ],
+        "en": [
+          {
+            "name": "Downtown Shops",
+            "tip": "The main shopping streets are all within the walking cluster of the center."
+          },
+          {
+            "name": "Station Kiosk",
+            "tip": "Buy a Danish magazine or a snack for your onward journey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die lokale ÖPNV-App herunter, um Fahrpläne und Tickets in Echtzeit zu erhalten.",
+          "Eine Tageskarte ist oft günstiger als mehrere Einzelfahrscheine.",
+          "Seien Sie sich bewusst, dass Busse am Wochenende und am Abend seltener fahren.",
+          "Signalieren Sie dem Busfahrer deutlich, dass Sie an der Haltestelle einsteigen möchten."
+        ],
+        "hu": [
+          "Töltse le a helyi tömegközlekedési alkalmazást a valós idejű menetrendekért és jegyekért.",
+          "Egy napijegy gyakran olcsóbb, mint több vonaljegy.",
+          "Ne feledje, hogy a buszok hétvégén és este ritkábban közlekednek.",
+          "Jelezze egyértelműen a buszsofőrnek, hogy fel szeretne szállni a megállóban."
+        ],
+        "ro": [
+          "Descărcați aplicația locală de transport public pentru orare și bilete în timp real.",
+          "Un bilet de o zi este adesea mai ieftin decât mai multe bilete individuale.",
+          "Fiți conștienți de faptul că autobuzele circulă mai rar în weekend și seara.",
+          "Semnalizați clar șoferului de autobuz că doriți să urcați la stație."
+        ],
+        "en": [
+          "Download the local public transport app for real-time schedules and tickets.",
+          "A day pass is often cheaper than multiple single tickets.",
+          "Be aware that bus services are less frequent on weekends and in the evenings.",
+          "Clearly signal to the bus driver that you want to get on at the stop."
+        ]
+      }
+    }
+  }
+}

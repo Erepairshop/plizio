@@ -1,0 +1,1480 @@
+{
+  "city_id": "greece-ierapetra-cities-v2",
+  "anchor": {
+    "name": "Ierapetra",
+    "coords": [
+      25.7412,
+      35.0113
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafen von Ierapetra",
+            "hu": "Ierápetra kikötője",
+            "ro": "Portul din Ierapetra",
+            "en": "Port of Ierapetra"
+          },
+          "coords": [
+            25.7368,
+            35.0065
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beobachten Sie die Fischerboote, die am Morgen ein- und auslaufen.",
+            "hu": "Nézd a reggel be- és kifutó halászhajókat.",
+            "ro": "Priviți bărcile pescărești care intră și ies dimineața.",
+            "en": "Watch the fishing boats coming in and out in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Kales-Festung",
+            "hu": "Kales-erőd",
+            "ro": "Fortăreața Kales",
+            "en": "Kales Fortress"
+          },
+          "coords": [
+            25.7349,
+            35.0058
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Steigen Sie für die beste Aussicht auf das Libysche Meer auf die Zinnen.",
+            "hu": "Menj fel a bástyákra a legjobb kilátásért a Líbiai-tengerre.",
+            "ro": "Urcați pe metereze pentru cea mai bună priveliște asupra Mării Libiene.",
+            "en": "Climb the battlements for the best view of the Libyan Sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Osmanische Moschee und Brunnenhaus",
+            "hu": "Oszmán mecset és kút",
+            "ro": "Moscheea Otomană și Fântâna",
+            "en": "Ottoman Mosque and Fountain"
+          },
+          "coords": [
+            25.7381,
+            35.0079
+          ],
+          "category": "historical",
+          "arrive_at": "11:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort, um die osmanische Vergangenheit der Stadt auf sich wirken zu lassen.",
+            "hu": "Egy csendes hely, ahol átérezheted a város oszmán múltját.",
+            "ro": "Un loc liniștit pentru a absorbi trecutul otoman al orașului.",
+            "en": "A quiet spot to absorb the town's Ottoman past."
+          }
+        },
+        {
+          "name": {
+            "de": "Napoleon-Haus",
+            "hu": "Napóleon-ház",
+            "ro": "Casa lui Napoleon",
+            "en": "Napoleon's House"
+          },
+          "coords": [
+            25.7385,
+            35.0075
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:03",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Obwohl man nicht hineingehen kann, ist es ein toller Fotostopp und eine lokale Legende.",
+            "hu": "Bár nem látogatható, remek fotótéma és egy helyi legenda.",
+            "ro": "Deși nu puteți intra, este o oprire foto excelentă și o legendă locală.",
+            "en": "Though you can't go inside, it's a great photo stop and a local legend."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologische Sammlung Ierapetra",
+            "hu": "Ierápetrai Régészeti Gyűjtemény",
+            "ro": "Colecția Arheologică din Ierapetra",
+            "en": "Archaeological Collection of Ierapetra"
+          },
+          "coords": [
+            25.7402,
+            35.0101
+          ],
+          "category": "museums",
+          "arrive_at": "12:34",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die anmutige Statue der Göttin Persephone.",
+            "hu": "Ne hagyd ki Perszephoné istennő kecses szobrát.",
+            "ro": "Nu ratați statuia grațioasă a zeiței Persefona.",
+            "en": "Don't miss the graceful statue of the goddess Persephone."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Georgios",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Agios Georgios",
+            "en": "Church of Agios Georgios"
+          },
+          "coords": [
+            25.7425,
+            35.0115
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden Fresken und die Holzschnitzereien der Ikonostase.",
+            "hu": "Csodáld meg a lenyűgöző freskókat és a faragott ikonosztázt.",
+            "ro": "Admirați frescele impresionante și iconostasul sculptat în lemn.",
+            "en": "Admire the impressive frescoes and the carved wooden iconostasis."
+          }
+        },
+        {
+          "name": {
+            "de": "Entspannung an der Küstenpromenade",
+            "hu": "Pihenés a tengerparti sétányon",
+            "ro": "Relaxare pe promenada de pe faleză",
+            "en": "Relaxation on the Waterfront Promenade"
+          },
+          "coords": [
+            25.7488,
+            35.0132
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:35",
+          "stay_min": 180,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Finden Sie eine Taverne für einen späten Mittagstisch mit Blick auf das Meer.",
+            "hu": "Keress egy tavernát egy késői ebédhez, kilátással a tengerre.",
+            "ro": "Găsiți o tavernă pentru un prânz târziu cu vedere la mare.",
+            "en": "Find a taverna for a late lunch overlooking the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im malerischen Hafen und spüren Sie die Meeresbrise. Erkunden Sie mittags die verwinkelten Gassen der Altstadt, entdecken Sie die venezianische Festung und osmanische Relikte. Am Nachmittag tauchen Sie in die minoische Geschichte im archäologischen Museum ein. Beenden Sie den Tag mit einem entspannten Spaziergang entlang der langen Promenade und genießen Sie ein Abendessen am Meer, während die Sonne untergeht.",
+        "hu": "Kezdje a napot a festői kikötőben, érezve a tengeri szellőt. Délben fedezze fel az óváros kanyargós utcáit, a velencei erődöt és az oszmán kori emlékeket. Délután merüljön el a minószi történelemben a régészeti múzeumban. Zárja a napot egy pihentető sétával a hosszú tengerparti sétányon, és vacsorázzon a tenger mellett a naplementében.",
+        "ro": "Începeți ziua în portul pitoresc, simțind briza mării. La prânz, explorați străduțele întortocheate ale orașului vechi, descoperind fortăreața venețiană și relicvele otomane. După-amiaza, scufundați-vă în istoria minoică la muzeul arheologic. Încheiați ziua cu o plimbare relaxantă de-a lungul promenadei lungi de pe faleză, savurând cina pe malul mării în timp ce soarele apune.",
+        "en": "Start your day at the picturesque harbor, feeling the sea breeze. At midday, explore the winding alleys of the old town, discovering the Venetian fortress and Ottoman relics. In the afternoon, dive into Minoan history at the archaeological museum. End your day with a relaxing stroll along the long waterfront promenade, enjoying dinner by the sea as the sun sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frischer Fisch & Meeresfrüchte",
+            "tip": "Probieren Sie den Fang des Tages in einer der Tavernen am Hafen."
+          },
+          {
+            "name": "Dakos-Salat",
+            "tip": "Ein kretischer Klassiker mit Gerstenzwieback, Tomaten und Mizithra-Käse."
+          },
+          {
+            "name": "Koutsounari Restaurant",
+            "tip": "Bekannt für seine traditionelle kretische Küche und gemütliche Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Friss hal és tenger gyümölcsei",
+            "tip": "Kóstold meg a nap fogását a kikötői tavernák egyikében."
+          },
+          {
+            "name": "Dakos saláta",
+            "tip": "Klasszikus krétai saláta árpakétszersülttel, paradicsommal és mizithra sajttal."
+          },
+          {
+            "name": "Koutsounari Étterem",
+            "tip": "Híres a hagyományos krétai konyhájáról és hangulatos atmoszférájáról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește proaspăt și fructe de mare",
+            "tip": "Încercați captura zilei la una dintre tavernele din port."
+          },
+          {
+            "name": "Salată Dakos",
+            "tip": "Un clasic cretan cu pesmet de orz, roșii și brânză Mizithra."
+          },
+          {
+            "name": "Restaurant Koutsounari",
+            "tip": "Renumit pentru bucătăria sa tradițională cretană și atmosfera primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fresh Fish & Seafood",
+            "tip": "Try the catch of the day at one of the tavernas by the harbor."
+          },
+          {
+            "name": "Dakos Salad",
+            "tip": "A Cretan classic with barley rusks, tomatoes, and Mizithra cheese."
+          },
+          {
+            "name": "Koutsounari Restaurant",
+            "tip": "Known for its traditional Cretan cuisine and cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenuntergang an der Festungsmauer",
+            "tip": "Finden Sie einen ruhigen Platz auf den Mauern der Kales-Festung und beobachten Sie den Sonnenuntergang über dem Meer.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Versteckte Gassen der Altstadt",
+            "tip": "Verlieren Sie sich in den ruhigeren, blumengeschmückten Gassen abseits der Hauptwege.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Östlicher Strandabschnitt",
+            "tip": "Gehen Sie am Ende der Promenade weiter, um einen weniger überfüllten Strandabschnitt zu finden.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente az erődfalnál",
+            "tip": "Keress egy csendes helyet a Kales-erőd falain, és nézd a naplementét a tenger felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Az óváros rejtett sikátorai",
+            "tip": "Vessz el a főbb utaktól távolabb eső, csendesebb, virágos sikátorokban.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Keleti strandszakasz",
+            "tip": "Sétálj tovább a sétány végén egy kevésbé zsúfolt partszakaszért.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apus de soare la zidurile fortăreței",
+            "tip": "Găsiți un loc liniștit pe zidurile fortăreței Kales pentru a privi soarele apunând peste mare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Străduțele ascunse din Orașul Vechi",
+            "tip": "Pierdeți-vă pe aleile mai liniștite, împodobite cu flori, departe de cărările principale.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Secțiunea de plajă estică",
+            "tip": "Mergeți mai departe la capătul promenadei pentru o porțiune de plajă mai puțin aglomerată.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunset at the Fortress Wall",
+            "tip": "Find a quiet spot on the Kales Fortress walls to watch the sun set over the sea.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hidden Alleys of the Old Town",
+            "tip": "Get lost in the quieter, flower-adorned alleys away from the main paths.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Eastern Stretch of the Beach",
+            "tip": "Walk further along the end of the promenade for a less crowded section of beach.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Olivenöl & Honig",
+            "tip": "Suchen Sie nach kleinen Geschäften, die Produkte von lokalen Bauern verkaufen."
+          },
+          {
+            "name": "Handgemachte Lederwaren",
+            "tip": "Sandalen und Taschen sind ein beliebtes kretisches Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj és méz",
+            "tip": "Keress kis boltokat, ahol helyi termelők áruit árulják."
+          },
+          {
+            "name": "Kézzel készített bőráruk",
+            "tip": "A szandálok és táskák népszerű krétai szuvenírek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline și miere locală",
+            "tip": "Căutați magazine mici care vând produse de la fermierii locali."
+          },
+          {
+            "name": "Articole din piele lucrate manual",
+            "tip": "Sandalele și gențile sunt un suvenir cretan popular."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Olive Oil & Honey",
+            "tip": "Look for small shops selling products from local farmers."
+          },
+          {
+            "name": "Handmade Leather Goods",
+            "tip": "Sandals and bags are a popular Cretan souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel auf Kopfsteinpflaster laufen werden.",
+          "Nehmen Sie viel Wasser mit, besonders in den Sommermonaten.",
+          "Die meisten Geschäfte schließen am Nachmittag für eine Siesta; planen Sie Ihre Einkäufe entsprechend.",
+          "Beginnen Sie Ihren Tag früh, um die Mittagshitze zu vermeiden."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, mert sokat fogsz macskakövön sétálni.",
+          "Vigyél magaddal sok vizet, különösen a nyári hónapokban.",
+          "A legtöbb üzlet bezár délután egy sziesztára; tervezd a vásárlást ennek megfelelően.",
+          "Kezdd korán a napot, hogy elkerüld a déli hőséget."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge mult pe piatră cubică.",
+          "Luați multă apă, mai ales în lunile de vară.",
+          "Majoritatea magazinelor se închid după-amiaza pentru o siestă; planificați-vă cumpărăturile în consecință.",
+          "Începeți ziua devreme pentru a evita căldura de la amiază."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking on cobblestones.",
+          "Bring plenty of water, especially during the summer months.",
+          "Most shops close in the afternoon for a siesta; plan your shopping accordingly.",
+          "Start your day early to avoid the midday heat."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Radtour entlang der Küstenpromenade",
+            "hu": "Kerékpártúra a tengerparti sétányon",
+            "ro": "Tur cu bicicleta de-a lungul promenadei",
+            "en": "Bike ride along the Waterfront Promenade"
+          },
+          "coords": [
+            25.7488,
+            35.0132
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Mieten Sie ein Fahrrad in der Nähe Ihres Hotels und starten Sie mit einer Fahrt am Meer.",
+            "hu": "Bérelj biciklit a szállásod közelében, és indítsd a napot egy tengerparti tekeréssel.",
+            "ro": "Închiriați o bicicletă lângă hotelul dvs. și începeți cu o plimbare pe malul mării.",
+            "en": "Rent a bike near your hotel and start with a ride by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Kales-Festung",
+            "hu": "Kales-erőd",
+            "ro": "Fortăreața Kales",
+            "en": "Kales Fortress"
+          },
+          "coords": [
+            25.7349,
+            35.0058
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad draußen an und erkunden Sie die Festung zu Fuß.",
+            "hu": "Zárd le a biciklidet kint, és fedezd fel az erődöt gyalog.",
+            "ro": "Legați-vă bicicleta afară și explorați fortăreața pe jos.",
+            "en": "Lock your bike outside and explore the fortress on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Ierapetra",
+            "hu": "Ierápetra kikötője",
+            "ro": "Portul din Ierapetra",
+            "en": "Port of Ierapetra"
+          },
+          "coords": [
+            25.7368,
+            35.0065
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie einen Kaffee in einem der Cafés mit Blick auf die Boote.",
+            "hu": "Igyál egy kávét az egyik kávézóban, kilátással a hajókra.",
+            "ro": "Bucurați-vă de o cafea la una dintre cafenelele cu vedere la bărci.",
+            "en": "Enjoy a coffee at one of the cafes overlooking the boats."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt und Shopping",
+            "hu": "Óváros és vásárlás",
+            "ro": "Orașul vechi și cumpărături",
+            "en": "Old Town and Shopping"
+          },
+          "coords": [
+            25.7389,
+            35.0082
+          ],
+          "category": "shopping",
+          "arrive_at": "12:29",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und schlendern Sie durch die Gassen, um zu Mittag zu essen und Souvenirs zu kaufen.",
+            "hu": "Parkold le a biciklit, és sétálj a sikátorokban ebédelni és szuveníreket vásárolni.",
+            "ro": "Parcați-vă bicicleta și plimbați-vă pe străduțe pentru prânz și suveniruri.",
+            "en": "Park your bike and wander the alleys for lunch and souvenirs."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologische Sammlung Ierapetra",
+            "hu": "Ierápetrai Régészeti Gyűjtemény",
+            "ro": "Colecția Arheologică din Ierapetra",
+            "en": "Archaeological Collection of Ierapetra"
+          },
+          "coords": [
+            25.7402,
+            35.0101
+          ],
+          "category": "museums",
+          "arrive_at": "14:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein Muss für Geschichtsliebhaber, um die minoische Vergangenheit der Region zu verstehen.",
+            "hu": "Történelemkedvelőknek kötelező, hogy megértsék a régió minószi múltját.",
+            "ro": "O vizită obligatorie pentru pasionații de istorie pentru a înțelege trecutul minoic al regiunii.",
+            "en": "A must-visit for history buffs to understand the region's Minoan past."
+          }
+        },
+        {
+          "name": {
+            "de": "Schwimmen am Strand von Agios Andreas",
+            "hu": "Úszás az Agios Andreas strandon",
+            "ro": "Înot la plaja Agios Andreas",
+            "en": "Swim at Agios Andreas Beach"
+          },
+          "coords": [
+            25.753,
+            35.015
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Belohnen Sie sich mit einem erfrischenden Bad im Libyschen Meer.",
+            "hu": "Jutalmazd meg magad egy frissítő úszással a Líbiai-tengerben.",
+            "ro": "Recompensați-vă cu o baie răcoritoare în Marea Libiană.",
+            "en": "Reward yourself with a refreshing swim in the Libyan Sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie den Tag mit einer erfrischenden Radtour entlang der Küste. Erkunden Sie die imposante Kales-Festung, bevor Sie im Hafen einen Kaffee genießen. Tauchen Sie mittags in das Labyrinth der Altstadt ein, um zu essen und einzukaufen. Am Nachmittag entdecken Sie antike Schätze im Museum und beenden Ihren aktiven Tag mit einem wohlverdienten Bad im Meer am östlichen Strand.",
+        "hu": "Kezdje a napot egy frissítő kerékpártúrával a part mentén. Fedezze fel a lenyűgöző Kales-erődöt, mielőtt meginna egy kávét a kikötőben. Délben merüljön el az óváros labirintusában ebédelni és vásárolni. Délután fedezzen fel ókori kincseket a múzeumban, majd zárja az aktív napot egy jól megérdemelt úszással a tengerben a keleti strandon.",
+        "ro": "Începeți ziua cu o plimbare revigorantă cu bicicleta de-a lungul coastei. Explorați impunătoarea fortăreață Kales înainte de a savura o cafea în port. La prânz, scufundați-vă în labirintul orașului vechi pentru masă și cumpărături. După-amiaza, descoperiți comori antice la muzeu și încheiați-vă ziua activă cu o baie binemeritată în mare, pe plaja estică.",
+        "en": "Start the day with a refreshing bike ride along the coast. Explore the imposing Kales Fortress before enjoying a coffee at the harbor. At midday, dive into the labyrinth of the old town for lunch and shopping. In the afternoon, discover ancient treasures at the museum and end your active day with a well-deserved swim in the sea at the eastern beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gyros Pita",
+            "tip": "Ein schneller und leckerer Snack, perfekt für einen Tag auf dem Rad."
+          },
+          {
+            "name": "Frisch gepresster Orangensaft",
+            "tip": "Erfrischen Sie sich mit Saft aus lokalen kretischen Orangen."
+          },
+          {
+            "name": "Taverna Vira Potzi",
+            "tip": "Bietet eine große Auswahl an Mezedes (kleinen Gerichten), ideal zum Teilen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyros pita",
+            "tip": "Gyors és ízletes harapnivaló, tökéletes egy kerékpáros napra."
+          },
+          {
+            "name": "Frissen facsart narancslé",
+            "tip": "Frissítsd fel magad a helyi krétai narancsból készült lével."
+          },
+          {
+            "name": "Taverna Vira Potzi",
+            "tip": "Mezedes (kis ételek) széles választékát kínálja, ideális megosztásra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gyros Pita",
+            "tip": "O gustare rapidă și delicioasă, perfectă pentru o zi pe bicicletă."
+          },
+          {
+            "name": "Suc proaspăt de portocale",
+            "tip": "Răcoriți-vă cu suc făcut din portocale cretane locale."
+          },
+          {
+            "name": "Taverna Vira Potzi",
+            "tip": "Oferă o mare varietate de mezedes (mici feluri de mâncare), ideale pentru a fi împărțite."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gyros Pita",
+            "tip": "A quick and delicious snack, perfect for a day on the bike."
+          },
+          {
+            "name": "Freshly Squeezed Orange Juice",
+            "tip": "Refresh yourself with juice made from local Cretan oranges."
+          },
+          {
+            "name": "Taverna Vira Potzi",
+            "tip": "Offers a wide variety of mezedes (small dishes), great for sharing."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blick von der Festung",
+            "tip": "Der Panoramablick von der Kales-Festung ist die kurze Radtour wert.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Morgendliche Küstenfahrt",
+            "tip": "Genießen Sie die Ruhe des Meeres, bevor die Stadt erwacht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gärten der Agios Georgios Kirche",
+            "tip": "Ein kleiner, friedlicher Ort, um durchzuatmen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás az erődből",
+            "tip": "A panorámás kilátás a Kales-erődből megéri a rövid biciklitúrát.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Reggeli parti tekerés",
+            "tip": "Élvezd a tenger nyugalmát, mielőtt a város felébred.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Az Agios Georgios templom kertjei",
+            "tip": "Egy kicsi, békés hely, ahol fellélegezhetsz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la fortăreață",
+            "tip": "Priveliștea panoramică de la fortăreața Kales merită scurta plimbare cu bicicleta.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plimbare matinală pe coastă",
+            "tip": "Bucurați-vă de liniștea mării înainte ca orașul să se trezească.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile bisericii Agios Georgios",
+            "tip": "Un loc mic și pașnic pentru a lua o gură de aer.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the Fortress",
+            "tip": "The panoramic view from Kales Fortress is worth the short bike ride.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Morning Coastal Ride",
+            "tip": "Enjoy the tranquility of the sea before the town wakes up.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gardens of Agios Georgios Church",
+            "tip": "A small, peaceful spot to catch your breath.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kräuter und Gewürze",
+            "tip": "Nehmen Sie kretischen Oregano und Thymian mit nach Hause, um den Geschmack Ihres Urlaubs wiederzubeleben."
+          },
+          {
+            "name": "Keramik",
+            "tip": "Halten Sie Ausschau nach handbemalter Keramik in den Souvenirläden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fűszernövények és fűszerek",
+            "tip": "Vigyél haza krétai oregánót és kakukkfüvet, hogy felidézd a nyaralás ízeit."
+          },
+          {
+            "name": "Kerámia",
+            "tip": "Keress kézzel festett kerámiákat a szuvenírboltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ierburi și condimente",
+            "tip": "Luați acasă oregano și cimbru cretan pentru a recrea gustul vacanței dvs."
+          },
+          {
+            "name": "Ceramică",
+            "tip": "Căutați ceramică pictată manual în magazinele de suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Herbs and Spices",
+            "tip": "Take home Cretan oregano and thyme to recreate the taste of your holiday."
+          },
+          {
+            "name": "Ceramics",
+            "tip": "Look for hand-painted pottery in the souvenir shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad, bevor Sie losfahren, insbesondere die Bremsen und Reifen.",
+          "Einige Straßen in der Altstadt sind möglicherweise zu eng für Fahrräder; seien Sie bereit, abzusteigen und zu Fuß zu gehen.",
+          "Tragen Sie einen Helm, besonders im Verkehr.",
+          "Schließen Sie Ihr Fahrrad immer sicher ab, wenn Sie es abstellen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizd a biciklidet, különösen a fékeket és a gumikat.",
+          "Néhány utca az óvárosban túl szűk lehet a kerékpárhoz; legyél kész leszállni és sétálni.",
+          "Viselj sisakot, különösen forgalomban.",
+          "Mindig zárd le biztonságosan a biciklidet, amikor leteszed."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni, în special frânele și anvelopele.",
+          "Unele străzi din orașul vechi pot fi prea înguste pentru biciclete; fiți pregătiți să descălecați și să mergeți pe jos.",
+          "Purtați cască, mai ales în trafic.",
+          "Întotdeauna legați-vă bicicleta în siguranță când o parcați."
+        ],
+        "en": [
+          "Check your bike before you set off, especially the brakes and tires.",
+          "Some streets in the old town may be too narrow for bikes; be prepared to dismount and walk.",
+          "Wear a helmet, especially in traffic.",
+          "Always lock your bike securely when you park it."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:40",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrt zum Hafen & Parken",
+            "hu": "Autóval a kikötőbe és parkolás",
+            "ro": "Cu mașina la port și parcare",
+            "en": "Drive to the Harbor & Park"
+          },
+          "coords": [
+            25.7355,
+            35.0062
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe der Festung, es gibt dort normalerweise genügend Plätze am Morgen.",
+            "hu": "Parkolj az erőd közelében, általában van elég hely reggelente.",
+            "ro": "Parcați lângă fortăreață, de obicei sunt destule locuri dimineața.",
+            "en": "Park near the fortress, there are usually enough spots in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zur Kales-Festung",
+            "hu": "Séta a Kales-erődhöz",
+            "ro": "Plimbare la Fortăreața Kales",
+            "en": "Walk to Kales Fortress"
+          },
+          "coords": [
+            25.7349,
+            35.0058
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der erste Halt des Clusters, perfekt, um die morgendliche Brise zu genießen.",
+            "hu": "A klaszter első megállója, tökéletes a reggeli szellő élvezetéhez.",
+            "ro": "Prima oprire a clusterului, perfectă pentru a vă bucura de briza dimineții.",
+            "en": "The first stop of the cluster, perfect for enjoying the morning breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang durch die Altstadt",
+            "hu": "Séta az óvárosban",
+            "ro": "Plimbare prin Orașul Vechi",
+            "en": "Walk through the Old Town"
+          },
+          "coords": [
+            25.7381,
+            35.0079
+          ],
+          "category": "historical",
+          "arrive_at": "10:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die Moschee und das Napoleon-Haus in diesem Fußgängercluster.",
+            "hu": "Fedezd fel a mecsetet és a Napóleon-házat ebben a gyalogos klaszterben.",
+            "ro": "Descoperiți moscheea și Casa lui Napoleon în acest cluster pietonal.",
+            "en": "Discover the Mosque and Napoleon's House in this walking cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Hafenviertel",
+            "hu": "Ebéd a kikötőnegyedben",
+            "ro": "Prânz în zona portului",
+            "en": "Lunch in the Harbor area"
+          },
+          "coords": [
+            25.737,
+            35.0068
+          ],
+          "category": "gastro",
+          "arrive_at": "11:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Wählen Sie eine Taverne mit frischem Fisch, bevor Sie zu Ihrem Auto zurückkehren.",
+            "hu": "Válassz egy friss halat kínáló tavernát, mielőtt visszatérsz az autódhoz.",
+            "ro": "Alegeți o tavernă cu pește proaspăt înainte de a vă întoarce la mașină.",
+            "en": "Choose a taverna with fresh fish before heading back to your car."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Archäologischen Museum",
+            "hu": "Utazás a Régészeti Múzeumhoz",
+            "ro": "Cu mașina la Muzeul de Arheologie",
+            "en": "Drive to the Archaeological Museum"
+          },
+          "coords": [
+            25.7402,
+            35.0101
+          ],
+          "category": "museums",
+          "arrive_at": "13:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein neuer Cluster. Parken Sie in der Nähe und besuchen Sie auch die nahe gelegene Kirche.",
+            "hu": "Egy új klaszter. Parkolj a közelben, és látogasd meg a közeli templomot is.",
+            "ro": "Un nou cluster. Parcați în apropiere și vizitați și biserica din apropiere.",
+            "en": "A new cluster. Park nearby and also visit the nearby church."
+          }
+        },
+        {
+          "name": {
+            "de": "Besuch der Kirche Agios Georgios",
+            "hu": "Szent György-templom látogatása",
+            "ro": "Vizită la Biserica Agios Georgios",
+            "en": "Visit Church of Agios Georgios"
+          },
+          "coords": [
+            25.7425,
+            35.0115
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:06",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum, um die beeindruckenden Innenräume zu sehen.",
+            "hu": "Rövid séta a múzeumtól, hogy megnézd a lenyűgöző belső tereket.",
+            "ro": "O scurtă plimbare de la muzeu pentru a vedea interioarele impresionante.",
+            "en": "A short walk from the museum to see the impressive interiors."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Insel Chrissi (Bootsanleger)",
+            "hu": "Kirándulás a Chrissi-szigetre (kikötő)",
+            "ro": "Excursie la Insula Chrissi (Debarcader)",
+            "en": "Trip to Chrissi Island (Boat Pier)"
+          },
+          "coords": [
+            25.7368,
+            35.0065
+          ],
+          "category": "natural features",
+          "arrive_at": "16:16",
+          "stay_min": 180,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.7,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein Tagesausflug an sich. Boote fahren morgens ab, aber eine Nachmittagsfahrt kann ruhiger sein. Prüfen Sie die Fahrpläne!",
+            "hu": "Önmagában egy egész napos program. A hajók reggel indulnak, de egy délutáni út nyugodtabb lehet. Ellenőrizd a menetrendet!",
+            "ro": "O excursie de o zi în sine. Bărcile pleacă dimineața, dar o excursie după-amiaza poate fi mai liniștită. Verificați orarele!",
+            "en": "A day trip in itself. Boats leave in the morning, but an afternoon trip can be quieter. Check the schedules!"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag, indem Sie in der Nähe der Kales-Festung parken und das historische Hafencluster zu Fuß erkunden. Genießen Sie die venezianische und osmanische Architektur. Nach dem Mittagessen fahren Sie zum Kulturcluster, um das Museum und die Hauptkirche zu besuchen. Für einen unvergesslichen Nachmittag nehmen Sie ein Boot zur idyllischen Insel Chrissi mit ihren Zedernwäldern und goldenen Stränden – ein perfekter Abschluss Ihres Abenteuers an der Südküste.",
+        "hu": "Kezdje a napot a Kales-erőd közelében parkolva, és fedezze fel gyalog a történelmi kikötő klaszterét, élvezve a velencei és oszmán építészetet. Ebéd után vezessen a kulturális klaszterhez, hogy meglátogassa a múzeumot és a főtemplomot. Egy felejthetetlen délutánért hajózzon át az idilli Chrissi-szigetre cédruserdőivel és arany strandjaival – tökéletes lezárása a déli parti kalandnak.",
+        "ro": "Începeți ziua parcând lângă Fortăreața Kales și explorând pe jos clusterul portuar istoric, bucurându-vă de arhitectura venețiană și otomană. După prânz, conduceți la clusterul cultural pentru a vizita muzeul și biserica principală. Pentru o după-amiază de neuitat, luați o barcă spre idilica Insulă Chrissi, cu pădurile sale de cedri și plajele aurii - o încheiere perfectă a aventurii pe coasta de sud.",
+        "en": "Start your day by parking near Kales Fortress and exploring the historic harbor cluster on foot, enjoying the Venetian and Ottoman architecture. After lunch, drive to the cultural cluster to visit the museum and the main church. For an unforgettable afternoon, take a boat to the idyllic Chrissi Island with its cedar forests and golden beaches—a perfect end to your south coast adventure."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kretischer Zwieback (Paximadi)",
+            "tip": "Probieren Sie ihn in einem Dakos-Salat oder einfach mit Olivenöl und Oregano."
+          },
+          {
+            "name": "Gegrillter Oktopus",
+            "tip": "Ein Muss in jeder Fischtaverne am Meer."
+          },
+          {
+            "name": "Napoleon Restaurant",
+            "tip": "In der Nähe des berühmten Hauses gelegen, bietet es großartige lokale Gerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Krétai kétszersült (Paximadi)",
+            "tip": "Próbáld ki Dakos salátában, vagy csak olívaolajjal és oregánóval."
+          },
+          {
+            "name": "Grillezett polip",
+            "tip": "Kötelező minden tengerparti haltavernában."
+          },
+          {
+            "name": "Napoleon Étterem",
+            "tip": "A híres ház közelében található, remek helyi ételeket kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pesmet cretan (Paximadi)",
+            "tip": "Încercați-l într-o salată Dakos sau pur și simplu cu ulei de măsline și oregano."
+          },
+          {
+            "name": "Caracatiță la grătar",
+            "tip": "O necesitate la orice tavernă de pește de la malul mării."
+          },
+          {
+            "name": "Restaurant Napoleon",
+            "tip": "Situat lângă faimoasa casă, oferă mâncăruri locale excelente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cretan Rusk (Paximadi)",
+            "tip": "Try it in a Dakos salad or simply with olive oil and oregano."
+          },
+          {
+            "name": "Grilled Octopus",
+            "tip": "A must-try at any seaside fish taverna."
+          },
+          {
+            "name": "Napoleon Restaurant",
+            "tip": "Located near the famous house, it offers great local dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Chrissi Insel 🌅",
+            "tip": "Der Inbegriff von Ruhe. Finden Sie einen abgelegenen Platz am 'Goldenen Strand'."
+          },
+          {
+            "name": "Gassen der Altstadt am Morgen",
+            "tip": "Erkunden Sie sie, bevor die Menschenmassen ankommen, um die friedliche Atmosphäre zu genießen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussicht von der Kales-Festung",
+            "tip": "Bietet einen weiten Blick über das Meer, weg vom Trubel der Stadt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chrissi-sziget 🌅",
+            "tip": "A nyugalom megtestesítője. Keress egy eldugott helyet az 'Aranyparton'."
+          },
+          {
+            "name": "Az óváros sikátorai reggel",
+            "tip": "Fedezd fel őket, mielőtt a tömeg megérkezik, hogy élvezd a békés hangulatot.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Kales-erődből",
+            "tip": "Tágas kilátást nyújt a tengerre, távol a város nyüzsgésétől.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Insula Chrissi 🌅",
+            "tip": "Epitomul liniștii. Găsiți un loc retras pe 'Plaja de Aur'."
+          },
+          {
+            "name": "Aleile orașului vechi dimineața",
+            "tip": "Explorați-le înainte de sosirea mulțimilor pentru a vă bucura de atmosfera pașnică.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de la Fortăreața Kales",
+            "tip": "Oferă o priveliște vastă asupra mării, departe de agitația orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Chrissi Island 🌅",
+            "tip": "The epitome of tranquility. Find a secluded spot on 'Golden Beach'."
+          },
+          {
+            "name": "Old Town alleys in the morning",
+            "tip": "Explore them before the crowds arrive to enjoy the peaceful atmosphere.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from Kales Fortress",
+            "tip": "Offers an expansive view over the sea, away from the town's bustle.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Raki/Tsikoudia",
+            "tip": "Der lokale Geist, ein starkes Souvenir, um es mit Freunden zu teilen."
+          },
+          {
+            "name": "Sorgenperlen (Komboloi)",
+            "tip": "Ein traditionelles griechisches Schmuckstück, das in vielen Geschäften erhältlich ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Raki/Tsikoudia",
+            "tip": "A helyi párlat, egy erős szuvenír, amit megoszthatsz a barátaiddal."
+          },
+          {
+            "name": "Aggodalomgyöngyök (Komboloi)",
+            "tip": "Hagyományos görög tárgy, sok üzletben kapható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Raki/Tsikoudia",
+            "tip": "Băutura locală, un suvenir puternic de împărțit cu prietenii."
+          },
+          {
+            "name": "Mărgele de îngrijorare (Komboloi)",
+            "tip": "Un obiect tradițional grecesc disponibil în multe magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Raki/Tsikoudia",
+            "tip": "The local spirit, a strong souvenir to share with friends."
+          },
+          {
+            "name": "Worry beads (Komboloi)",
+            "tip": "A traditional Greek item available in many shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Abfahrtszeiten der Boote nach Chrissi im Voraus, da sie saisonal variieren.",
+          "Parken kann im Sommer eine Herausforderung sein; seien Sie geduldig oder nutzen Sie gebührenpflichtige Parkplätze.",
+          "Achten Sie auf Einbahnstraßen in und um das Stadtzentrum.",
+          "Ein Auto ermöglicht es Ihnen, auch abgelegenere Strände außerhalb der Stadt zu erkunden."
+        ],
+        "hu": [
+          "Előre ellenőrizd a Chrissire induló hajók menetrendjét, mert szezonálisan változhat.",
+          "A parkolás nyáron kihívást jelenthet; legyél türelmes, vagy használj fizetős parkolókat.",
+          "Figyelj az egyirányú utcákra a városközpontban és környékén.",
+          "Az autó lehetővé teszi, hogy a városon kívüli, eldugottabb strandokat is felfedezd."
+        ],
+        "ro": [
+          "Verificați în avans orele de plecare ale bărcilor spre Chrissi, deoarece acestea variază în funcție de sezon.",
+          "Parcarea poate fi o provocare în timpul verii; aveți răbdare sau folosiți parcări cu plată.",
+          "Fiți atenți la străzile cu sens unic din centrul orașului și din jurul acestuia.",
+          "O mașină vă permite să explorați și plaje mai izolate în afara orașului."
+        ],
+        "en": [
+          "Check boat departure times for Chrissi in advance as they vary seasonally.",
+          "Parking can be challenging in summer; be patient or use paid parking lots.",
+          "Be aware of one-way streets in and around the town center.",
+          "A car allows you to explore more remote beaches outside the town as well."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bus ins Stadtzentrum",
+            "hu": "Busszal a városközpontba",
+            "ro": "Autobuz spre centrul orașului",
+            "en": "Bus to the City Center"
+          },
+          "coords": [
+            25.741,
+            35.011
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die lokalen Busse sind eine effiziente Möglichkeit, das Zentrum von den umliegenden Gebieten aus zu erreichen.",
+            "hu": "A helyi buszok hatékony módszert jelentenek a központ elérésére a környező területekről.",
+            "ro": "Autobuzele locale sunt o modalitate eficientă de a ajunge în centru din zonele învecinate.",
+            "en": "The local buses are an efficient way to reach the center from surrounding areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologische Sammlung & Kirche",
+            "hu": "Régészeti Gyűjtemény és templom",
+            "ro": "Colecția Arheologică și Biserica",
+            "en": "Archaeological Collection & Church"
+          },
+          "coords": [
+            25.7402,
+            35.0101
+          ],
+          "category": "museums",
+          "arrive_at": "09:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Rundgang mit diesem Kulturcluster in der Nähe der Bushaltestelle.",
+            "hu": "Kezdje a gyalogtúrát ezzel a kulturális klaszterrel a buszmegálló közelében.",
+            "ro": "Începeți turul pietonal cu acest cluster cultural lângă stația de autobuz.",
+            "en": "Start your walking tour with this cultural cluster near the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zur Altstadt",
+            "hu": "Séta az óvárosba",
+            "ro": "Plimbare spre Orașul Vechi",
+            "en": "Walk to the Old Town"
+          },
+          "coords": [
+            25.7381,
+            35.0079
+          ],
+          "category": "historical",
+          "arrive_at": "11:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den Gassen, besuchen Sie die Moschee und das Napoleon-Haus.",
+            "hu": "Vessz el a sikátorokban, látogasd meg a mecsetet és a Napóleon-házat.",
+            "ro": "Pierdeți-vă pe străduțe, vizitați moscheea și Casa lui Napoleon.",
+            "en": "Get lost in the alleys, visit the mosque and Napoleon's house."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen und Kales-Festung",
+            "hu": "Kikötő és Kales-erőd",
+            "ro": "Portul și Fortăreața Kales",
+            "en": "Harbor and Kales Fortress"
+          },
+          "coords": [
+            25.7358,
+            35.0061
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:03",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Festung für eine tolle Aussicht, bevor Sie am Hafen zu Mittag essen.",
+            "hu": "Mássz fel az erődre a nagyszerű kilátásért, mielőtt megebédelsz a kikötőben.",
+            "ro": "Urcați în fortăreață pentru o priveliște minunată înainte de a lua prânzul în port.",
+            "en": "Climb the fortress for a great view before having lunch at the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zur Küstenpromenade",
+            "hu": "Séta a tengerparti sétányhoz",
+            "ro": "Plimbare la promenada de pe faleză",
+            "en": "Walk to the Waterfront Promenade"
+          },
+          "coords": [
+            25.7488,
+            35.0132
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:23",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein langer, aber angenehmer Spaziergang, um den Nachmittag am Strand zu verbringen.",
+            "hu": "Hosszú, de kellemes séta, hogy a délutánt a tengerparton töltsd.",
+            "ro": "O plimbare lungă, dar plăcută, pentru a petrece după-amiaza pe plajă.",
+            "en": "A long but pleasant walk to spend the afternoon at the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zurück",
+            "hu": "Busz vissza",
+            "ro": "Autobuz înapoi",
+            "en": "Bus Back"
+          },
+          "coords": [
+            25.741,
+            35.011
+          ],
+          "category": "transport",
+          "arrive_at": "17:08",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kehren Sie zur zentralen Bushaltestelle zurück, um Ihren Bus zu nehmen.",
+            "hu": "Térj vissza a központi buszmegállóba a buszodhoz.",
+            "ro": "Întoarceți-vă la stația centrală de autobuz pentru a vă lua autobuzul.",
+            "en": "Head back to the central bus stop to catch your bus."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nehmen Sie einen Bus ins Herz von Ierapetra und beginnen Sie Ihre Erkundung im Kulturviertel. Schlendern Sie durch die Geschichte in der Altstadt, bevor Sie zum lebhaften Hafen und zur venezianischen Festung weitergehen. Der Nachmittag ist für Entspannung und Leutebeobachten an der langen Küstenpromenade reserviert. Da alles zu Fuß erreichbar ist, ist der Transit nur für die An- und Abreise zum Zentrum erforderlich.",
+        "hu": "Buszozzon be Ierapetra szívébe, és kezdje a felfedezést a kulturális negyedben. Sétáljon végig a történelmen az óvárosban, mielőtt továbbhaladna a nyüzsgő kikötőbe és a velencei erődbe. A délután a pihenésé és az emberek nézéséé a hosszú tengerparti sétányon. Mivel minden gyalogosan elérhető, a tömegközlekedés csak a központba való eljutáshoz és az onnan való távozáshoz szükséges.",
+        "ro": "Luați un autobuz în inima Ierapetrei și începeți explorarea în cartierul cultural. Plimbați-vă prin istorie în orașul vechi înainte de a vă îndrepta spre portul plin de viață și fortăreața venețiană. După-amiaza este rezervată relaxării și privitului oamenilor pe lunga promenadă de pe faleză. Cu totul la distanță de mers pe jos, tranzitul este necesar doar pentru a ajunge și a pleca din centru.",
+        "en": "Take a bus into the heart of Ierapetra and begin your exploration in the cultural quarter. Stroll through history in the old town before heading down to the lively harbor and Venetian fortress. The afternoon is reserved for relaxation and people-watching on the long waterfront promenade. With everything within walking distance, transit is only needed to get to and from the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kalitsounia",
+            "tip": "Kleine Käse- oder Kräuterpasteten, ein köstlicher lokaler Snack."
+          },
+          {
+            "name": "Hauswein (Chima)",
+            "tip": "Bestellen Sie einen halben Liter lokalen Weins zu Ihrem Essen, er ist normalerweise großartig und preiswert."
+          },
+          {
+            "name": "Zorbas Family Taverna",
+            "tip": "Eine freundliche, familiengeführte Option mit authentischen Gerichten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kalitsounia",
+            "tip": "Kis sajtos vagy zöldfűszeres piték, egy finom helyi harapnivaló."
+          },
+          {
+            "name": "Ház bora (Chima)",
+            "tip": "Rendelj fél liter helyi bort az ételedhez, általában remek és olcsó."
+          },
+          {
+            "name": "Zorbas Családi Taverna",
+            "tip": "Barátságos, családi vezetésű hely autentikus ételekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kalitsounia",
+            "tip": "Mici plăcinte cu brânză sau ierburi, o gustare locală delicioasă."
+          },
+          {
+            "name": "Vinul casei (Chima)",
+            "tip": "Comandați o jumătate de litru de vin local la masă, de obicei este excelent și ieftin."
+          },
+          {
+            "name": "Taverna familiei Zorbas",
+            "tip": "O opțiune prietenoasă, administrată de o familie, cu mâncăruri autentice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kalitsounia",
+            "tip": "Small cheese or herb pies, a delicious local snack."
+          },
+          {
+            "name": "House wine (Chima)",
+            "tip": "Order half a litre of local wine with your meal, it's usually great and inexpensive."
+          },
+          {
+            "name": "Zorbas Family Taverna",
+            "tip": "A friendly, family-run option with authentic dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Die Gärten um die Moschee",
+            "tip": "Ein unerwartet ruhiger Ort im Herzen der Altstadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Am Ende des Hafens",
+            "tip": "Gehen Sie am Ende des Piers spazieren, um dem Trubel zu entkommen.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Ein Café in einer Seitengasse",
+            "tip": "Finden Sie ein kleines Café abseits der Hauptpromenade für eine ruhige Pause.",
+            "emoji": "☕"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A mecset körüli kertek",
+            "tip": "Váratlanul csendes hely az óváros szívében.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A kikötő végénél",
+            "tip": "Sétálj végig a móló végén, hogy elmenekülj a nyüzsgés elől.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Egy kávézó egy mellékutcában",
+            "tip": "Keress egy kis kávézót a fő sétánytól távol egy csendes pihenőre.",
+            "emoji": "☕"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile din jurul moscheii",
+            "tip": "Un loc neașteptat de liniștit în inima orașului vechi.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "La capătul portului",
+            "tip": "Faceți o plimbare la capătul digului pentru a scăpa de agitație.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "O cafenea pe o stradă lăturalnică",
+            "tip": "Găsiți o cafenea mică, departe de promenada principală, pentru o pauză liniștită.",
+            "emoji": "☕"
+          }
+        ],
+        "en": [
+          {
+            "name": "The gardens around the mosque",
+            "tip": "An unexpectedly quiet spot in the heart of the old town.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "At the end of the harbor",
+            "tip": "Take a walk to the end of the pier to escape the bustle.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "A cafe on a side street",
+            "tip": "Find a small cafe off the main promenade for a quiet break.",
+            "emoji": "☕"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Kunst",
+            "tip": "Einige kleine Galerien verkaufen Gemälde und Drucke von lokalen Künstlern."
+          },
+          {
+            "name": "Strandbekleidung",
+            "tip": "Viele Geschäfte entlang der Promenade verkaufen alles, was Sie für einen Tag am Strand brauchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi művészet",
+            "tip": "Néhány kis galéria helyi művészek festményeit és nyomatait árulja."
+          },
+          {
+            "name": "Strandruházat",
+            "tip": "A sétány mentén számos üzlet árul mindent, amire egy tengerparti naphoz szüksége lehet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artă locală",
+            "tip": "Câteva galerii mici vând picturi și gravuri ale artiștilor locali."
+          },
+          {
+            "name": "Îmbrăcăminte de plajă",
+            "tip": "Multe magazine de-a lungul promenadei vând tot ce aveți nevoie pentru o zi la plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Art",
+            "tip": "Some small galleries sell paintings and prints by local artists."
+          },
+          {
+            "name": "Beachwear",
+            "tip": "Many shops along the promenade sell everything you need for a day at the beach."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Ihr Busticket in einem Kiosk (Periptero), bevor Sie einsteigen.",
+          "Überprüfen Sie den Busfahrplan für Ihre Rückfahrt, insbesondere am Abend.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß zu erreichen, sodass Sie den Bus nur für die An- und Abreise benötigen.",
+          "Fragen Sie in Ihrem Hotel nach der nächstgelegenen Bushaltestelle und den Linien, die ins Zentrum fahren."
+        ],
+        "hu": [
+          "Vásárold meg a buszjegyet egy kioszkban (Periptero), mielőtt felszállsz.",
+          "Ellenőrizd a buszmenetrendet a visszaútra, különösen este.",
+          "A legtöbb központi látnivaló könnyen elérhető gyalog, így a buszra csak az oda- és visszajutáshoz lesz szükséged.",
+          "Kérdezd meg a szállodádban a legközelebbi buszmegállót és a központba tartó járatokat."
+        ],
+        "ro": [
+          "Cumpărați-vă biletul de autobuz de la un chioșc (Periptero) înainte de a urca.",
+          "Verificați orarul autobuzului pentru călătoria de întoarcere, mai ales seara.",
+          "Majoritatea atracțiilor din centru sunt ușor de parcurs pe jos, deci veți avea nevoie de autobuz doar pentru a ajunge și a pleca.",
+          "Întrebați la hotel care este cea mai apropiată stație de autobuz și ce linii merg spre centru."
+        ],
+        "en": [
+          "Buy your bus ticket from a kiosk (Periptero) before you board.",
+          "Check the bus schedule for your return trip, especially in the evening.",
+          "Most central attractions are easily walkable, so you'll only need the bus to get there and back.",
+          "Ask your hotel for the nearest bus stop and the lines that go to the center."
+        ]
+      }
+    }
+  }
+}

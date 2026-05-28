@@ -1,0 +1,1376 @@
+{
+  "city_id": "iceland-seltjarnarnes-cities-v2",
+  "anchor": {
+    "name": "Seltjarnarnes",
+    "coords": [
+      -21.9958,
+      64.1539
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 5.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Start: Nesstofa Medizinmuseum",
+            "hu": "Kezdés: Nesstofa Orvostudományi Múzeum",
+            "ro": "Start: Muzeul Medical Nesstofa",
+            "en": "Start: Nesstofa Medical Museum"
+          },
+          "coords": [
+            -21.9731,
+            64.1525
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Einblick in Islands Medizingeschichte in einem historischen Gebäude.",
+            "hu": "Pillantson be Izland orvostörténetébe egy történelmi épületben.",
+            "ro": "O incursiune în istoria medicală a Islandei într-o clădire istorică.",
+            "en": "A glimpse into Iceland's medical history in a historic building."
+          }
+        },
+        {
+          "name": {
+            "de": "Bakkatjörn-Teich",
+            "hu": "Bakkatjörn-tó",
+            "ro": "Lacul Bakkatjörn",
+            "en": "Bakkatjörn Pond"
+          },
+          "coords": [
+            -21.979,
+            64.1542
+          ],
+          "category": "natural features",
+          "arrive_at": "10:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Paradies für Vogelbeobachter, besonders im Frühling.",
+            "hu": "Madármegfigyelők paradicsoma, különösen tavasszal.",
+            "ro": "Un paradis pentru observatorii de păsări, mai ales primăvara.",
+            "en": "A paradise for bird watchers, especially in the spring."
+          }
+        },
+        {
+          "name": {
+            "de": "Seltjarnarneslaug Pool",
+            "hu": "Seltjarnarneslaug uszoda",
+            "ro": "Piscina Seltjarnarneslaug",
+            "en": "Seltjarnarneslaug Pool"
+          },
+          "coords": [
+            -21.9905,
+            64.1568
+          ],
+          "category": "natural features",
+          "arrive_at": "11:17",
+          "stay_min": 120,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Das Salzwasser ist reich an Mineralien und sehr entspannend.",
+            "hu": "A sós víz ásványi anyagokban gazdag és nagyon pihentető.",
+            "ro": "Apa sărată este bogată în minerale și foarte relaxantă.",
+            "en": "The salt water is rich in minerals and very relaxing."
+          }
+        },
+        {
+          "name": {
+            "de": "Kvika Fußbad",
+            "hu": "Kvika lábfürdő",
+            "ro": "Baia pentru picioare Kvika",
+            "en": "Kvika Footbath"
+          },
+          "coords": [
+            -22.0115,
+            64.1645
+          ],
+          "category": "natural features",
+          "arrive_at": "13:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Wärmen Sie Ihre Füße mit Blick auf den Ozean und den Berg Esja.",
+            "hu": "Melegítse fel a lábát, miközben az óceánra és az Esja-hegyre néz.",
+            "ro": "Încălziți-vă picioarele cu o priveliște spre ocean și muntele Esja.",
+            "en": "Warm your feet with a view of the ocean and Mount Esja."
+          }
+        },
+        {
+          "name": {
+            "de": "Küstenvorland-Pfad",
+            "hu": "Part menti ösvény",
+            "ro": "Potecă de coastă",
+            "en": "Coastal Path"
+          },
+          "coords": [
+            -22.005,
+            64.161
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Perfekt für einen Spaziergang mit atemberaubender Aussicht.",
+            "hu": "Tökéletes egy sétához, lélegzetelállító kilátással.",
+            "ro": "Perfect pentru o plimbare cu priveliști uluitoare.",
+            "en": "Perfect for a walk with breathtaking views."
+          }
+        },
+        {
+          "name": {
+            "de": "Grótta Leuchtturm",
+            "hu": "Grótta világítótorony",
+            "ro": "Farul Grótta",
+            "en": "Grótta Lighthouse"
+          },
+          "coords": [
+            -22.0203,
+            64.1648
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:53",
+          "stay_min": 22,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Prüfen Sie die Gezeiten! Nur bei Ebbe zugänglich.",
+            "hu": "Ellenőrizze az árapályt! Csak apálykor közelíthető meg.",
+            "ro": "Verificați mareele! Accesibil doar la reflux.",
+            "en": "Check the tides! Only accessible at low tide."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Seltjarnarnes beginnt mit Kultur im Nesstofa-Museum, gefolgt von der Vogelwelt am Bakkatjörn-Teich. Am Mittag entspannen Sie im mineralreichen Wasser des Seltjarnarneslaug. Der Nachmittag ist der rauen Küste gewidmet. Sie wärmen Ihre Füße im Kvika-Fußbad und spazieren den Küstenpfad entlang zum ikonischen Grótta-Leuchtturm, ein perfekter Abschluss für einen Tag voller isländischer Naturerlebnisse.",
+        "hu": "Seltjarnarnes-i napja kultúrával kezdődik a Nesstofa múzeumban, majd a Bakkatjörn-tó madárvilágának megfigyelésével folytatódik. Délben a Seltjarnarneslaug ásványi anyagokban gazdag vizében pihenhet. A délután a zord tengerparté. A Kvika lábfürdőben felmelegíti a lábát, és a parti ösvényen elsétál az ikonikus Grótta világítótoronyhoz, amely tökéletes befejezése egy izlandi természeti élményekkel teli napnak.",
+        "ro": "Ziua dvs. în Seltjarnarnes începe cu cultură la Muzeul Nesstofa, urmată de observarea păsărilor la iazul Bakkatjörn. La prânz, vă relaxați în apa bogată în minerale de la Seltjarnarneslaug. După-amiaza este dedicată coastei accidentate. Vă încălziți picioarele la baia pentru picioare Kvika și vă plimbați pe poteca de coastă până la iconicul far Grótta, un final perfect pentru o zi plină de experiențe naturale islandeze.",
+        "en": "Your day in Seltjarnarnes begins with culture at the Nesstofa Museum, followed by birdwatching at Bakkatjörn Pond. At midday, you'll relax in the mineral-rich waters of Seltjarnarneslaug. The afternoon is dedicated to the rugged coast. You'll warm your feet at the Kvika footbath and stroll along the coastal path to the iconic Grótta Lighthouse, a perfect end to a day of Icelandic nature experiences."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kjötsúpa (Lammfleischsuppe)",
+            "tip": "Ein wärmender Klassiker, perfekt nach einem Küstenspaziergang."
+          },
+          {
+            "name": "Pylsa (Isländischer Hotdog)",
+            "tip": "Probieren Sie ihn 'með öllu' – mit allem Drum und Dran."
+          },
+          {
+            "name": "Skyr",
+            "tip": "Cremig, proteinreich und köstlich als Dessert oder Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kjötsúpa (bárányhúsleves)",
+            "tip": "Melegítő klasszikus, tökéletes egy tengerparti séta után."
+          },
+          {
+            "name": "Pylsa (izlandi hot dog)",
+            "tip": "Próbálja ki „með öllu” – minden feltéttel."
+          },
+          {
+            "name": "Skyr",
+            "tip": "Krémes, fehérjében gazdag és finom desszertként vagy snackként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kjötsúpa (supă de miel)",
+            "tip": "Un clasic care te încălzește, perfect după o plimbare pe coastă."
+          },
+          {
+            "name": "Pylsa (hotdog islandez)",
+            "tip": "Încearcă-l 'með öllu' - cu de toate."
+          },
+          {
+            "name": "Skyr",
+            "tip": "Cremos, bogat în proteine și delicios ca desert sau gustare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kjötsúpa (Lamb Soup)",
+            "tip": "A warming classic, perfect after a coastal walk."
+          },
+          {
+            "name": "Pylsa (Icelandic Hot Dog)",
+            "tip": "Try it 'með öllu'—with all the toppings."
+          },
+          {
+            "name": "Skyr",
+            "tip": "Creamy, high in protein, and delicious as a dessert or snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Grótta bei Ebbe",
+            "tip": "Die Stille, nur unterbrochen vom Ruf der Seevögel.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kvika Fußbad",
+            "tip": "Ein Moment der Wärme und Ruhe mit Blick auf das Meer.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang um Bakkatjörn",
+            "tip": "Friedliche Vogelbeobachtung abseits der Menschenmassen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grótta apálykor",
+            "tip": "A csend, amelyet csak a tengeri madarak hangja tör meg.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kvika lábfürdő",
+            "tip": "A melegség és a nyugalom pillanata a tengerre nézve.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a Bakkatjörn körül",
+            "tip": "Békés madármegfigyelés a tömegtől távol.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grótta la reflux",
+            "tip": "Liniștea, întreruptă doar de strigătul păsărilor de mare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Baia pentru picioare Kvika",
+            "tip": "Un moment de căldură și liniște cu vedere la mare.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare în jurul Bakkatjörn",
+            "tip": "Observare pașnică a păsărilor, departe de mulțime.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Grótta at low tide",
+            "tip": "The silence, broken only by the call of seabirds.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kvika Footbath",
+            "tip": "A moment of warmth and tranquility overlooking the sea.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk around Bakkatjörn",
+            "tip": "Peaceful birdwatching away from the crowds.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerkskunst",
+            "tip": "Suchen Sie in den örtlichen Geschäften nach Wollwaren und Keramik."
+          },
+          {
+            "name": "Seltjarnarnes Apotheke",
+            "tip": "Unerwartet, aber hier findet man oft einzigartige isländische Hautpflegeprodukte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen gyapjúárut és kerámiát a helyi boltokban."
+          },
+          {
+            "name": "Seltjarnarnes gyógyszertár",
+            "tip": "Váratlan, de gyakran találhat itt egyedi izlandi bőrápolási termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați articole din lână și ceramică în magazinele locale."
+          },
+          {
+            "name": "Farmacia Seltjarnarnes",
+            "tip": "Neașteptat, dar aici puteți găsi adesea produse islandeze unice de îngrijire a pielii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local handicrafts",
+            "tip": "Look for woolen goods and ceramics in local shops."
+          },
+          {
+            "name": "Seltjarnarnes Pharmacy",
+            "tip": "Unexpected, but you can often find unique Icelandic skincare products here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie wind- und wasserfeste Kleidung, das Wetter kann sich schnell ändern.",
+          "Gute Wanderschuhe sind für den Küstenpfad unerlässlich.",
+          "Prüfen Sie immer den Gezeitenkalender, bevor Sie zum Grótta-Leuchtturm aufbrechen.",
+          "Ein Fernglas ist ideal für die Vogelbeobachtung am Bakkatjörn."
+        ],
+        "hu": [
+          "Viseljen szél- és vízálló ruházatot, az időjárás gyorsan változhat.",
+          "Jó túracipő elengedhetetlen a tengerparti ösvényhez.",
+          "Mielőtt a Grótta világítótoronyhoz indulna, mindig ellenőrizze az árapály-naptárt.",
+          "Távcső ideális a madármegfigyeléshez a Bakkatjörnnél."
+        ],
+        "ro": [
+          "Purtați îmbrăcăminte rezistentă la vânt și apă, vremea se poate schimba rapid.",
+          "Încălțămintea bună de drumeție este esențială pentru poteca de coastă.",
+          "Verificați întotdeauna calendarul mareelor înainte de a porni spre farul Grótta.",
+          "Un binoclu este ideal pentru observarea păsărilor la Bakkatjörn."
+        ],
+        "en": [
+          "Wear wind and waterproof clothing; the weather can change quickly.",
+          "Good walking shoes are essential for the coastal path.",
+          "Always check the tide schedule before heading out to Grótta Lighthouse.",
+          "Binoculars are great for birdwatching at Bakkatjörn."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Start am Seltjarnarnes Golfplatz",
+            "hu": "Indulás a Seltjarnarnes golfpályától",
+            "ro": "Start de la terenul de golf Seltjarnarnes",
+            "en": "Start at Seltjarnarnes Golf Course"
+          },
+          "coords": [
+            -21.965,
+            64.148
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie die frische Meeresluft, bevor Sie in die Pedale treten.",
+            "hu": "Élvezze a friss tengeri levegőt, mielőtt nyeregbe pattan.",
+            "ro": "Bucurați-vă de aerul proaspăt de mare înainte de a începe să pedalați.",
+            "en": "Enjoy the fresh sea air before you start pedaling."
+          }
+        },
+        {
+          "name": {
+            "de": "Nesstofa Medizinmuseum",
+            "hu": "Nesstofa Orvostudományi Múzeum",
+            "ro": "Muzeul Medical Nesstofa",
+            "en": "Nesstofa Medical Museum"
+          },
+          "coords": [
+            -21.9731,
+            64.1525
+          ],
+          "category": "museums",
+          "arrive_at": "09:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Eine faszinierende Pause, um mehr über Islands Geschichte zu erfahren.",
+            "hu": "Érdekes szünet, hogy többet tudjon meg Izland történelméről.",
+            "ro": "O pauză fascinantă pentru a învăța mai multe despre istoria Islandei.",
+            "en": "A fascinating break to learn more about Iceland's history."
+          }
+        },
+        {
+          "name": {
+            "de": "Seltjarnarneslaug Pool",
+            "hu": "Seltjarnarneslaug uszoda",
+            "ro": "Piscina Seltjarnarneslaug",
+            "en": "Seltjarnarneslaug Pool"
+          },
+          "coords": [
+            -21.9905,
+            64.1568
+          ],
+          "category": "natural features",
+          "arrive_at": "10:39",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Perfekt, um die Muskeln nach der ersten Radtour zu entspannen.",
+            "hu": "Tökéletes az izmok ellazítására az első biciklitúra után.",
+            "ro": "Perfect pentru a relaxa mușchii după prima tură de ciclism.",
+            "en": "Perfect for relaxing your muscles after the first bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Küstenvorland-Pfad",
+            "hu": "Part menti ösvény",
+            "ro": "Potecă de coastă",
+            "en": "Coastal Path"
+          },
+          "coords": [
+            -22.005,
+            64.161
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:18",
+          "stay_min": 45,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der Radweg bietet einige der besten Aussichten der Halbinsel.",
+            "hu": "A kerékpárút a félsziget legjobb kilátásait kínálja.",
+            "ro": "Pista de biciclete oferă unele dintre cele mai bune priveliști ale peninsulei.",
+            "en": "The bike path offers some of the best views on the peninsula."
+          }
+        },
+        {
+          "name": {
+            "de": "Grótta Leuchtturm & Kvika Fußbad",
+            "hu": "Grótta világítótorony & Kvika lábfürdő",
+            "ro": "Farul Grótta & Baia pentru picioare Kvika",
+            "en": "Grótta Lighthouse & Kvika Footbath"
+          },
+          "coords": [
+            -22.016,
+            64.1646
+          ],
+          "category": "landmark",
+          "arrive_at": "13:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab, gehen Sie zum Leuchtturm (Gezeiten!) und wärmen Sie dann Ihre Füße.",
+            "hu": "Parkolja le a biciklit, sétáljon el a világítótoronyhoz (apály!), majd melegítse fel a lábát.",
+            "ro": "Parcați bicicleta, mergeți pe jos până la far (maree!) și apoi încălziți-vă picioarele.",
+            "en": "Park your bike, walk to the lighthouse (tides!), then warm your feet."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt um Bakkatjörn",
+            "hu": "Visszaút a Bakkatjörn körül",
+            "ro": "Întoarcere în jurul Bakkatjörn",
+            "en": "Return ride around Bakkatjörn"
+          },
+          "coords": [
+            -21.979,
+            64.1542
+          ],
+          "category": "natural features",
+          "arrive_at": "14:27",
+          "stay_min": 48,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 6.7,
+          "tip_5lang": {
+            "de": "Eine letzte ruhige Runde, um die Vögel zu beobachten, bevor der Tag endet.",
+            "hu": "Egy utolsó csendes kör a madarak megfigyelésére, mielőtt a nap véget ér.",
+            "ro": "O ultimă tură liniștită pentru a observa păsările înainte de sfârșitul zilei.",
+            "en": "A final quiet loop to watch the birds before the day ends."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und beginnen Sie den Tag mit einer frischen Brise am Golfplatz. Ein kurzer Stopp im Nesstofa-Museum bietet kulturellen Input, bevor Sie sich mittags im Seltjarnarneslaug-Pool entspannen. Nachmittags radeln Sie auf dem Küstenpfad, genießen die atemberaubende Aussicht und erreichen den Grótta-Leuchtturm. Ein Abstecher zum Kvika-Fußbad wärmt Sie auf. Die Tour endet mit einer friedlichen Runde um den vogelreichen Bakkatjörn-Teich.",
+        "hu": "Pattanjon biciklire, és kezdje a napot egy friss szellővel a golfpályánál. Egy rövid megálló a Nesstofa múzeumban kulturális feltöltődést kínál, mielőtt délben ellazulna a Seltjarnarneslaug uszodában. Délután a tengerparti ösvényen kerékpározik, élvezi a lélegzetelállító kilátást és eléri a Grótta világítótornyot. Egy kitérő a Kvika lábfürdőhöz felmelegíti. A túra a madarakban gazdag Bakkatjörn-tó körüli békés körrel ér véget.",
+        "ro": "Urcați-vă pe bicicletă și începeți ziua cu o briză proaspătă la terenul de golf. O scurtă oprire la Muzeul Nesstofa oferă o perspectivă culturală înainte de a vă relaxa la prânz la piscina Seltjarnarneslaug. După-amiaza, pedalați pe poteca de coastă, bucurându-vă de priveliștile uimitoare și ajungând la farul Grótta. O ocolire la baia pentru picioare Kvika vă va încălzi. Turul se încheie cu o buclă liniștită în jurul iazului Bakkatjörn, bogat în păsări.",
+        "en": "Hop on your bike and start the day with a fresh breeze at the golf course. A quick stop at the Nesstofa Museum offers cultural input before you relax in the Seltjarnarneslaug pool at noon. In the afternoon, you'll cycle along the coastal path, enjoying the breathtaking views and reaching the Grótta Lighthouse. A detour to the Kvika footbath will warm you up. The tour ends with a peaceful loop around the bird-rich Bakkatjörn Pond."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kjötsúpa (Lammfleischsuppe)",
+            "tip": "Ein wärmender Klassiker, perfekt nach einem Küstenspaziergang."
+          },
+          {
+            "name": "Pylsa (Isländischer Hotdog)",
+            "tip": "Probieren Sie ihn 'með öllu' – mit allem Drum und Dran."
+          },
+          {
+            "name": "Skyr",
+            "tip": "Cremig, proteinreich und köstlich als Dessert oder Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kjötsúpa (bárányhúsleves)",
+            "tip": "Melegítő klasszikus, tökéletes egy tengerparti séta után."
+          },
+          {
+            "name": "Pylsa (izlandi hot dog)",
+            "tip": "Próbálja ki „með öllu” – minden feltéttel."
+          },
+          {
+            "name": "Skyr",
+            "tip": "Krémes, fehérjében gazdag és finom desszertként vagy snackként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kjötsúpa (supă de miel)",
+            "tip": "Un clasic care te încălzește, perfect după o plimbare pe coastă."
+          },
+          {
+            "name": "Pylsa (hotdog islandez)",
+            "tip": "Încearcă-l 'með öllu' - cu de toate."
+          },
+          {
+            "name": "Skyr",
+            "tip": "Cremos, bogat în proteine și delicios ca desert sau gustare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kjötsúpa (Lamb Soup)",
+            "tip": "A warming classic, perfect after a coastal walk."
+          },
+          {
+            "name": "Pylsa (Icelandic Hot Dog)",
+            "tip": "Try it 'með öllu'—with all the toppings."
+          },
+          {
+            "name": "Skyr",
+            "tip": "Creamy, high in protein, and delicious as a dessert or snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Grótta bei Ebbe",
+            "tip": "Die Stille, nur unterbrochen vom Ruf der Seevögel.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kvika Fußbad",
+            "tip": "Ein Moment der Wärme und Ruhe mit Blick auf das Meer.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang um Bakkatjörn",
+            "tip": "Friedliche Vogelbeobachtung abseits der Menschenmassen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grótta apálykor",
+            "tip": "A csend, amelyet csak a tengeri madarak hangja tör meg.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kvika lábfürdő",
+            "tip": "A melegség és a nyugalom pillanata a tengerre nézve.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a Bakkatjörn körül",
+            "tip": "Békés madármegfigyelés a tömegtől távol.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grótta la reflux",
+            "tip": "Liniștea, întreruptă doar de strigătul păsărilor de mare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Baia pentru picioare Kvika",
+            "tip": "Un moment de căldură și liniște cu vedere la mare.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare în jurul Bakkatjörn",
+            "tip": "Observare pașnică a păsărilor, departe de mulțime.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Grótta at low tide",
+            "tip": "The silence, broken only by the call of seabirds.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kvika Footbath",
+            "tip": "A moment of warmth and tranquility overlooking the sea.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk around Bakkatjörn",
+            "tip": "Peaceful birdwatching away from the crowds.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerkskunst",
+            "tip": "Suchen Sie in den örtlichen Geschäften nach Wollwaren und Keramik."
+          },
+          {
+            "name": "Seltjarnarnes Apotheke",
+            "tip": "Unerwartet, aber hier findet man oft einzigartige isländische Hautpflegeprodukte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen gyapjúárut és kerámiát a helyi boltokban."
+          },
+          {
+            "name": "Seltjarnarnes gyógyszertár",
+            "tip": "Váratlan, de gyakran találhat itt egyedi izlandi bőrápolási termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați articole din lână și ceramică în magazinele locale."
+          },
+          {
+            "name": "Farmacia Seltjarnarnes",
+            "tip": "Neașteptat, dar aici puteți găsi adesea produse islandeze unice de îngrijire a pielii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local handicrafts",
+            "tip": "Look for woolen goods and ceramics in local shops."
+          },
+          {
+            "name": "Seltjarnarnes Pharmacy",
+            "tip": "Unexpected, but you can often find unique Icelandic skincare products here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Ein Helm wird dringend empfohlen.",
+          "Nehmen Sie Wasser und Snacks mit, da die Verpflegungsmöglichkeiten entlang der Strecke begrenzt sind.",
+          "Achten Sie auf Fußgänger auf den gemeinsamen Wegen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket és a gumikat.",
+          "Sisak viselése erősen ajánlott.",
+          "Hozzon magával vizet és rágcsálnivalót, mivel az útvonal mentén korlátozottak az étkezési lehetőségek.",
+          "Vigyázzon a gyalogosokra a közös ösvényeken."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele și anvelopele.",
+          "O cască este foarte recomandată.",
+          "Luați apă și gustări, deoarece opțiunile de mâncare sunt limitate pe traseu.",
+          "Fiți atenți la pietoni pe căile comune."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes and tires.",
+          "A helmet is highly recommended.",
+          "Bring water and snacks, as food options are limited along the route.",
+          "Be mindful of pedestrians on shared paths."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:39",
+      "total_km": 6.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Parken am Seltjarnarneslaug",
+            "hu": "1. klaszter: Parkolás a Seltjarnarneslaugnál",
+            "ro": "Cluster 1: Parcare la Seltjarnarneslaug",
+            "en": "Cluster 1: Park at Seltjarnarneslaug"
+          },
+          "coords": [
+            -21.9905,
+            64.1568
+          ],
+          "category": "parking",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein guter Ausgangspunkt mit ausreichend Parkplätzen.",
+            "hu": "Jó kiindulópont, bőséges parkolási lehetőséggel.",
+            "ro": "Un punct de plecare bun, cu parcare amplă.",
+            "en": "A good starting point with ample parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Seltjarnarneslaug Pool",
+            "hu": "Seltjarnarneslaug uszoda",
+            "ro": "Piscina Seltjarnarneslaug",
+            "en": "Seltjarnarneslaug Pool"
+          },
+          "coords": [
+            -21.9908,
+            64.157
+          ],
+          "category": "natural features",
+          "arrive_at": "09:12",
+          "stay_min": 120,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im geothermischen Salzwasser.",
+            "hu": "Pihenjen a geotermikus sós vízben.",
+            "ro": "Relaxați-vă în apa sărată geotermală.",
+            "en": "Relax in the geothermal salt water."
+          }
+        },
+        {
+          "name": {
+            "de": "Kvika Fußbad & Küstenpfad",
+            "hu": "Kvika lábfürdő & parti ösvény",
+            "ro": "Baia Kvika & Poteca de coastă",
+            "en": "Kvika Footbath & Coastal Path"
+          },
+          "coords": [
+            -22.0115,
+            64.1645
+          ],
+          "category": "natural features",
+          "arrive_at": "11:32",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Pool zu einem warmen Fußbad mit Aussicht.",
+            "hu": "Rövid séta a medencétől egy meleg, kilátással rendelkező lábfürdőig.",
+            "ro": "O scurtă plimbare de la piscină la o baie caldă pentru picioare cu priveliște.",
+            "en": "A short walk from the pool to a warm footbath with a view."
+          }
+        },
+        {
+          "name": {
+            "de": "Grótta Leuchtturm",
+            "hu": "Grótta világítótorony",
+            "ro": "Farul Grótta",
+            "en": "Grótta Lighthouse"
+          },
+          "coords": [
+            -22.0203,
+            64.1648
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:33",
+          "stay_min": 30,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Überprüfen Sie die Gezeiten, bevor Sie hinübergehen. Der Damm kann überflutet sein.",
+            "hu": "Ellenőrizze az árapályt, mielőtt átkel. A gát elönthet.",
+            "ro": "Verificați mareele înainte de a traversa. Digul poate fi inundat.",
+            "en": "Check the tides before you walk across. The causeway can be flooded."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Nesstofa & Bakkatjörn",
+            "hu": "2. klaszter: Nesstofa & Bakkatjörn",
+            "ro": "Cluster 2: Nesstofa & Bakkatjörn",
+            "en": "Cluster 2: Nesstofa & Bakkatjörn"
+          },
+          "coords": [
+            -21.9731,
+            64.1525
+          ],
+          "category": "museums",
+          "arrive_at": "13:48",
+          "stay_min": 121,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 4.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Museum, parken Sie und erkunden Sie dann den nahegelegenen Teich.",
+            "hu": "Vezessen el a múzeumhoz, parkoljon, majd fedezze fel a közeli tavat.",
+            "ro": "Conduceți până la muzeu, parcați, apoi explorați iazul din apropiere.",
+            "en": "Drive to the museum, park, and then explore the nearby pond."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Seltjarnarnes konzentriert sich auf zwei Cluster. Sie beginnen mit dem Parken am Seltjarnarneslaug und genießen ein langes Bad im geothermischen Wasser. Ein kurzer Spaziergang führt Sie zum Kvika-Fußbad und zum ikonischen Grótta-Leuchtturm. Am Nachmittag fahren Sie zum zweiten Cluster. Sie parken am Nesstofa-Museum für eine Dosis Geschichte und beenden den Tag mit einer ruhigen Vogelbeobachtung am nahegelegenen Bakkatjörn-Teich.",
+        "hu": "Autós napja Seltjarnarnesben két klaszterre összpontosít. A Seltjarnarneslaugnál parkolva kezd, és egy hosszú fürdőt vesz a geotermikus vízben. Egy rövid séta elvezeti a Kvika lábfürdőhöz és az ikonikus Grótta világítótoronyhoz. Délután a második klaszterhez hajt. A Nesstofa múzeumnál parkol egy adag történelemért, és a napot egy csendes madármegfigyeléssel fejezi be a közeli Bakkatjörn-tónál.",
+        "ro": "Ziua dvs. cu mașina în Seltjarnarnes se concentrează pe două clustere. Începeți prin a parca la Seltjarnarneslaug pentru o baie lungă în apa geotermală. O scurtă plimbare vă duce la baia pentru picioare Kvika și la iconicul far Grótta. După-amiaza, conduceți spre al doilea cluster. Parcați la Muzeul Nesstofa pentru o doză de istorie și încheiați ziua cu o observare liniștită a păsărilor la iazul Bakkatjörn din apropiere.",
+        "en": "Your car day in Seltjarnarnes focuses on two clusters. You start by parking at Seltjarnarneslaug for a long soak in the geothermal water. A short walk takes you to the Kvika footbath and the iconic Grótta Lighthouse. In the afternoon, you drive to the second cluster. You'll park at the Nesstofa Museum for a dose of history and finish the day with some quiet birdwatching at the nearby Bakkatjörn Pond."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kjötsúpa (Lammfleischsuppe)",
+            "tip": "Ein wärmender Klassiker, perfekt nach einem Küstenspaziergang."
+          },
+          {
+            "name": "Pylsa (Isländischer Hotdog)",
+            "tip": "Probieren Sie ihn 'með öllu' – mit allem Drum und Dran."
+          },
+          {
+            "name": "Skyr",
+            "tip": "Cremig, proteinreich und köstlich als Dessert oder Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kjötsúpa (bárányhúsleves)",
+            "tip": "Melegítő klasszikus, tökéletes egy tengerparti séta után."
+          },
+          {
+            "name": "Pylsa (izlandi hot dog)",
+            "tip": "Próbálja ki „með öllu” – minden feltéttel."
+          },
+          {
+            "name": "Skyr",
+            "tip": "Krémes, fehérjében gazdag és finom desszertként vagy snackként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kjötsúpa (supă de miel)",
+            "tip": "Un clasic care te încălzește, perfect după o plimbare pe coastă."
+          },
+          {
+            "name": "Pylsa (hotdog islandez)",
+            "tip": "Încearcă-l 'með öllu' - cu de toate."
+          },
+          {
+            "name": "Skyr",
+            "tip": "Cremos, bogat în proteine și delicios ca desert sau gustare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kjötsúpa (Lamb Soup)",
+            "tip": "A warming classic, perfect after a coastal walk."
+          },
+          {
+            "name": "Pylsa (Icelandic Hot Dog)",
+            "tip": "Try it 'með öllu'—with all the toppings."
+          },
+          {
+            "name": "Skyr",
+            "tip": "Creamy, high in protein, and delicious as a dessert or snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Grótta bei Ebbe",
+            "tip": "Die Stille, nur unterbrochen vom Ruf der Seevögel.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kvika Fußbad",
+            "tip": "Ein Moment der Wärme und Ruhe mit Blick auf das Meer.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang um Bakkatjörn",
+            "tip": "Friedliche Vogelbeobachtung abseits der Menschenmassen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grótta apálykor",
+            "tip": "A csend, amelyet csak a tengeri madarak hangja tör meg.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kvika lábfürdő",
+            "tip": "A melegség és a nyugalom pillanata a tengerre nézve.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a Bakkatjörn körül",
+            "tip": "Békés madármegfigyelés a tömegtől távol.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grótta la reflux",
+            "tip": "Liniștea, întreruptă doar de strigătul păsărilor de mare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Baia pentru picioare Kvika",
+            "tip": "Un moment de căldură și liniște cu vedere la mare.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare în jurul Bakkatjörn",
+            "tip": "Observare pașnică a păsărilor, departe de mulțime.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Grótta at low tide",
+            "tip": "The silence, broken only by the call of seabirds.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kvika Footbath",
+            "tip": "A moment of warmth and tranquility overlooking the sea.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk around Bakkatjörn",
+            "tip": "Peaceful birdwatching away from the crowds.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerkskunst",
+            "tip": "Suchen Sie in den örtlichen Geschäften nach Wollwaren und Keramik."
+          },
+          {
+            "name": "Seltjarnarnes Apotheke",
+            "tip": "Unerwartet, aber hier findet man oft einzigartige isländische Hautpflegeprodukte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen gyapjúárut és kerámiát a helyi boltokban."
+          },
+          {
+            "name": "Seltjarnarnes gyógyszertár",
+            "tip": "Váratlan, de gyakran találhat itt egyedi izlandi bőrápolási termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați articole din lână și ceramică în magazinele locale."
+          },
+          {
+            "name": "Farmacia Seltjarnarnes",
+            "tip": "Neașteptat, dar aici puteți găsi adesea produse islandeze unice de îngrijire a pielii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local handicrafts",
+            "tip": "Look for woolen goods and ceramics in local shops."
+          },
+          {
+            "name": "Seltjarnarnes Pharmacy",
+            "tip": "Unexpected, but you can often find unique Icelandic skincare products here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkvorschriften, um Strafzettel zu vermeiden.",
+          "Lassen Sie keine Wertsachen im Auto sichtbar liegen.",
+          "Die Straßen können eng sein, fahren Sie vorsichtig.",
+          "Tanken Sie in Reykjavík, bevor Sie losfahren, da es in Seltjarnarnes weniger Tankstellen gibt."
+        ],
+        "hu": [
+          "Ellenőrizze a parkolási szabályokat a büntetések elkerülése érdekében.",
+          "Ne hagyjon értékeket látható helyen az autóban.",
+          "Az utak szűkek lehetnek, vezessen óvatosan.",
+          "Tankoljon Reykjavíkban indulás előtt, mivel Seltjarnarnesben kevesebb a benzinkút."
+        ],
+        "ro": [
+          "Verificați regulile de parcare pentru a evita amenzile.",
+          "Nu lăsați obiecte de valoare la vedere în mașină.",
+          "Străzile pot fi înguste, conduceți cu prudență.",
+          "Alimentați în Reykjavík înainte de a pleca, deoarece benzinăriile sunt mai rare în Seltjarnarnes."
+        ],
+        "en": [
+          "Check parking regulations to avoid fines.",
+          "Do not leave valuables visible in the car.",
+          "The roads can be narrow, drive carefully.",
+          "Fuel up in Reykjavík before you go, as gas stations are less common in Seltjarnarnes."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:11",
+      "total_km": 5.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Ankunft an der Haltestelle Nesstofa",
+            "hu": "1. klaszter: Érkezés a Nesstofa megállóhoz",
+            "ro": "Cluster 1: Sosire la stația Nesstofa",
+            "en": "Cluster 1: Arrive at Nesstofa bus stop"
+          },
+          "coords": [
+            -21.972,
+            64.152
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einer einfachen Busfahrt von Reykjavík.",
+            "hu": "Kezdje a napot egy egyszerű buszozással Reykjavíkból.",
+            "ro": "Începeți-vă ziua cu o călătorie ușoară cu autobuzul din Reykjavík.",
+            "en": "Start your day with an easy bus ride from Reykjavík."
+          }
+        },
+        {
+          "name": {
+            "de": "Nesstofa Medizinmuseum",
+            "hu": "Nesstofa Orvostudományi Múzeum",
+            "ro": "Muzeul Medical Nesstofa",
+            "en": "Nesstofa Medical Museum"
+          },
+          "coords": [
+            -21.9731,
+            64.1525
+          ],
+          "category": "museums",
+          "arrive_at": "09:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum befindet sich direkt neben der Bushaltestelle.",
+            "hu": "A múzeum közvetlenül a buszmegálló mellett található.",
+            "ro": "Muzeul este chiar lângă stația de autobuz.",
+            "en": "The museum is right next to the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Bakkatjörn-Teich",
+            "hu": "Bakkatjörn-tó",
+            "ro": "Lacul Bakkatjörn",
+            "en": "Bakkatjörn Pond"
+          },
+          "coords": [
+            -21.979,
+            64.1542
+          ],
+          "category": "natural features",
+          "arrive_at": "10:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer, angenehmer Spaziergang vom Museum.",
+            "hu": "Rövid, kellemes séta a múzeumtól.",
+            "ro": "O plimbare scurtă și plăcută de la muzeu.",
+            "en": "A short, pleasant walk from the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Bus nach Seltjarnarneslaug",
+            "hu": "2. klaszter: Busszal a Seltjarnarneslaughoz",
+            "ro": "Cluster 2: Autobuz spre Seltjarnarneslaug",
+            "en": "Cluster 2: Bus to Seltjarnarneslaug"
+          },
+          "coords": [
+            -21.99,
+            64.1565
+          ],
+          "category": "transit",
+          "arrive_at": "11:39",
+          "stay_min": 150,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie in den nächsten Bus für eine kurze Fahrt zum Pool.",
+            "hu": "Szálljon fel a következő buszra egy rövid útra a medencéig.",
+            "ro": "Luați următorul autobuz pentru o călătorie scurtă până la piscină.",
+            "en": "Hop on the next bus for a short ride to the pool."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zu Grótta & Kvika",
+            "hu": "Séta Gróttához & Kvikához",
+            "ro": "Plimbare la Grótta & Kvika",
+            "en": "Walk to Grótta & Kvika"
+          },
+          "coords": [
+            -22.016,
+            64.1646
+          ],
+          "category": "landmark",
+          "arrive_at": "14:49",
+          "stay_min": 52,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Pool aus ist es ein schöner Spaziergang entlang der Küste zum Leuchtturm.",
+            "hu": "A medencétől egy szép séta vezet a part mentén a világítótoronyhoz.",
+            "ro": "De la piscină, este o plimbare frumoasă de-a lungul coastei până la far.",
+            "en": "From the pool, it's a beautiful walk along the coast to the lighthouse."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Bus erkunden Sie Seltjarnarnes mühelos in zwei Clustern. Sie beginnen im Nesstofa-Museum und spazieren dann zum vogelreichen Bakkatjörn-Teich. Eine kurze Busfahrt bringt Sie mittags zum Seltjarnarneslaug-Pool für eine ausgiebige Entspannung. Der Nachmittag gehört der Küste: ein belebender Spaziergang führt Sie vom Pool zum Kvika-Fußbad und dem berühmten Grótta-Leuchtturm, bevor Sie den Bus zurück nach Reykjavík nehmen.",
+        "hu": "Busszal könnyedén felfedezheti Seltjarnarnest két klaszterben. A Nesstofa múzeumban kezd, majd elsétál a madarakban gazdag Bakkatjörn-tóhoz. Egy rövid buszozás után délben a Seltjarnarneslaug uszodában pihenhet. A délután a tengerparté: egy élénkítő séta a medencétől a Kvika lábfürdőhöz és a híres Grótta világítótoronyhoz vezet, mielőtt visszabuszozna Reykjavíkba.",
+        "ro": "Cu autobuzul, explorați Seltjarnarnes fără efort în două clustere. Începeți la Muzeul Nesstofa, apoi vă plimbați până la iazul Bakkatjörn, bogat în păsări. O scurtă călătorie cu autobuzul vă duce la piscina Seltjarnarneslaug la prânz pentru o relaxare prelungită. După-amiaza aparține coastei: o plimbare revigorantă vă duce de la piscină la baia pentru picioare Kvika și la faimosul far Grótta, înainte de a lua autobuzul înapoi spre Reykjavík.",
+        "en": "Using the bus, you'll explore Seltjarnarnes effortlessly in two clusters. You start at the Nesstofa Museum, then stroll to the bird-rich Bakkatjörn Pond. A short bus ride takes you to the Seltjarnarneslaug pool at noon for an extensive relaxation session. The afternoon belongs to the coast: an invigorating walk leads you from the pool to the Kvika footbath and the famous Grótta Lighthouse before you catch the bus back to Reykjavík."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kjötsúpa (Lammfleischsuppe)",
+            "tip": "Ein wärmender Klassiker, perfekt nach einem Küstenspaziergang."
+          },
+          {
+            "name": "Pylsa (Isländischer Hotdog)",
+            "tip": "Probieren Sie ihn 'með öllu' – mit allem Drum und Dran."
+          },
+          {
+            "name": "Skyr",
+            "tip": "Cremig, proteinreich und köstlich als Dessert oder Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kjötsúpa (bárányhúsleves)",
+            "tip": "Melegítő klasszikus, tökéletes egy tengerparti séta után."
+          },
+          {
+            "name": "Pylsa (izlandi hot dog)",
+            "tip": "Próbálja ki „með öllu” – minden feltéttel."
+          },
+          {
+            "name": "Skyr",
+            "tip": "Krémes, fehérjében gazdag és finom desszertként vagy snackként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kjötsúpa (supă de miel)",
+            "tip": "Un clasic care te încălzește, perfect după o plimbare pe coastă."
+          },
+          {
+            "name": "Pylsa (hotdog islandez)",
+            "tip": "Încearcă-l 'með öllu' - cu de toate."
+          },
+          {
+            "name": "Skyr",
+            "tip": "Cremos, bogat în proteine și delicios ca desert sau gustare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kjötsúpa (Lamb Soup)",
+            "tip": "A warming classic, perfect after a coastal walk."
+          },
+          {
+            "name": "Pylsa (Icelandic Hot Dog)",
+            "tip": "Try it 'með öllu'—with all the toppings."
+          },
+          {
+            "name": "Skyr",
+            "tip": "Creamy, high in protein, and delicious as a dessert or snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Grótta bei Ebbe",
+            "tip": "Die Stille, nur unterbrochen vom Ruf der Seevögel.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kvika Fußbad",
+            "tip": "Ein Moment der Wärme und Ruhe mit Blick auf das Meer.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang um Bakkatjörn",
+            "tip": "Friedliche Vogelbeobachtung abseits der Menschenmassen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grótta apálykor",
+            "tip": "A csend, amelyet csak a tengeri madarak hangja tör meg.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kvika lábfürdő",
+            "tip": "A melegség és a nyugalom pillanata a tengerre nézve.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a Bakkatjörn körül",
+            "tip": "Békés madármegfigyelés a tömegtől távol.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grótta la reflux",
+            "tip": "Liniștea, întreruptă doar de strigătul păsărilor de mare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Baia pentru picioare Kvika",
+            "tip": "Un moment de căldură și liniște cu vedere la mare.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare în jurul Bakkatjörn",
+            "tip": "Observare pașnică a păsărilor, departe de mulțime.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Grótta at low tide",
+            "tip": "The silence, broken only by the call of seabirds.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kvika Footbath",
+            "tip": "A moment of warmth and tranquility overlooking the sea.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk around Bakkatjörn",
+            "tip": "Peaceful birdwatching away from the crowds.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerkskunst",
+            "tip": "Suchen Sie in den örtlichen Geschäften nach Wollwaren und Keramik."
+          },
+          {
+            "name": "Seltjarnarnes Apotheke",
+            "tip": "Unerwartet, aber hier findet man oft einzigartige isländische Hautpflegeprodukte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen gyapjúárut és kerámiát a helyi boltokban."
+          },
+          {
+            "name": "Seltjarnarnes gyógyszertár",
+            "tip": "Váratlan, de gyakran találhat itt egyedi izlandi bőrápolási termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați articole din lână și ceramică în magazinele locale."
+          },
+          {
+            "name": "Farmacia Seltjarnarnes",
+            "tip": "Neașteptat, dar aici puteți găsi adesea produse islandeze unice de îngrijire a pielii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local handicrafts",
+            "tip": "Look for woolen goods and ceramics in local shops."
+          },
+          {
+            "name": "Seltjarnarnes Pharmacy",
+            "tip": "Unexpected, but you can often find unique Icelandic skincare products here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Laden Sie die 'Strætó'-App für Busfahrpläne in Echtzeit herunter.",
+          "Die Busse fahren möglicherweise nicht so häufig wie in einer Großstadt, planen Sie also Ihre Verbindungen.",
+          "Winken Sie dem Busfahrer zu, damit er an Ihrer Haltestelle anhält."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy pénzt takarítson meg.",
+          "Töltse le a „Strætó” alkalmazást a valós idejű buszmenetrendekért.",
+          "A buszok nem biztos, hogy olyan gyakran járnak, mint egy nagyvárosban, ezért tervezze meg a csatlakozásokat.",
+          "Intsen a buszsofőrnek, hogy megálljon a megállójában."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru autobuz pentru a economisi bani.",
+          "Descărcați aplicația 'Strætó' pentru orarele autobuzelor în timp real.",
+          "Autobuzele s-ar putea să nu circule la fel de frecvent ca într-un oraș mare, așa că planificați-vă conexiunile.",
+          "Faceți semn șoferului de autobuz pentru a vă asigura că oprește în stația dvs."
+        ],
+        "en": [
+          "Buy a day pass for the bus to save money.",
+          "Download the 'Strætó' app for real-time bus schedules.",
+          "Buses may not be as frequent as in a major city, so plan your connections.",
+          "Wave to the bus driver to ensure they stop at your stop."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1319 @@
+{
+  "city_id": "austria-perchtoldsdorf-cities-v2",
+  "anchor": {
+    "name": "Perchtoldsdorf",
+    "coords": [
+      16.2658,
+      48.1189
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "15:35",
+      "total_km": 1.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Historischer Marktplatz & Dreifaltigkeitssäule",
+            "hu": "Történelmi Főtér és Szentháromság-oszlop",
+            "ro": "Piața Istorică și Coloana Sfintei Treimi",
+            "en": "Historic Market Square & Trinity Column"
+          },
+          "coords": [
+            16.2658,
+            48.1189
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das Rathaus und die Pestsäule, das Herz der Stadt.",
+            "hu": "Csodálja meg a Városházát és a pestisoszlopot, a város szívét.",
+            "ro": "Admirați Primăria și coloana ciumei, inima orașului.",
+            "en": "Admire the Town Hall and the Plague Column, the heart of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche St. Augustin",
+            "hu": "Szent Ágoston plébániatemplom",
+            "ro": "Biserica parohială Sf. Augustin",
+            "en": "Parish Church of St. Augustin"
+          },
+          "coords": [
+            16.266,
+            48.1192
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Achten Sie auf die gotischen Fresken und die beeindruckende Orgel.",
+            "hu": "Keresse a gótikus freskókat és a lenyűgöző orgonát.",
+            "ro": "Căutați frescele gotice și orga impresionantă.",
+            "en": "Look for the Gothic frescoes and the impressive organ."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Perchtoldsdorf & Wehrturm",
+            "hu": "Perchtoldsdorfi vár és védőtorony",
+            "ro": "Castelul Perchtoldsdorf și Turnul de Apărare",
+            "en": "Perchtoldsdorf Castle & Defence Tower"
+          },
+          "coords": [
+            16.264,
+            48.12
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:26",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erklimmen Sie den Turm für eine fantastische Aussicht über die Weinberge.",
+            "hu": "Másszon fel a toronyba a szőlőültetvényekre nyíló fantasztikus kilátásért.",
+            "ro": "Urcați în turn pentru o priveliște fantastică asupra podgoriilor.",
+            "en": "Climb the tower for a fantastic view over the vineyards."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einem Heurigen",
+            "hu": "Ebéd egy Heurigerben",
+            "ro": "Prânz la un Heuriger",
+            "en": "Lunch at a Heuriger"
+          },
+          "coords": [
+            16.2675,
+            48.118
+          ],
+          "category": "gastro",
+          "arrive_at": "12:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie den lokalen Wein und eine traditionelle Brettljause.",
+            "hu": "Kóstolja meg a helyi bort és egy hagyományos Brettljause-t.",
+            "ro": "Gustați vinul local și o gustare tradițională Brettljause.",
+            "en": "Try the local wine and a traditional Brettljause snack board."
+          }
+        },
+        {
+          "name": {
+            "de": "Spitalskirche und Knappenhof",
+            "hu": "Ispotály-templom és Knappenhof",
+            "ro": "Biserica Spitalului și Knappenhof",
+            "en": "Spitalskirche and Knappenhof"
+          },
+          "coords": [
+            16.268,
+            48.1175
+          ],
+          "category": "historical",
+          "arrive_at": "13:38",
+          "stay_min": 45,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese versteckten Juwelen abseits der Hauptwege.",
+            "hu": "Fedezze fel ezeket az eldugott gyöngyszemeket a fő útvonalaktól távol.",
+            "ro": "Descoperiți aceste bijuterii ascunse, departe de cărările bătătorite.",
+            "en": "Discover these hidden gems away from the main paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am lebhaften Marktplatz, dem Herzen von Perchtoldsdorf. Spüren Sie die Geschichte, während Sie die beeindruckende Pfarrkirche St. Augustin besuchen und die mittelalterliche Atmosphäre aufsaugen.\nDer Mittag steht ganz im Zeichen der majestätischen Burg Perchtoldsdorf. Erklimmen Sie den Wehrturm und lassen Sie Ihren Blick über die sanften Hügel des Wienerwaldes schweifen. Die Aussicht ist jede Stufe wert!\nNach einem stärkenden Mittagessen in einem traditionellen Heurigen, wo Sie lokale Weine und Schmankerl genießen, führt Sie ein gemütlicher Spaziergang zur Spitalskirche. Entdecken Sie die ruhigeren Gassen und die verborgene Schönheit der Stadt.\nLassen Sie den Tag bei einem Glas Wein ausklingen und genießen Sie die entspannte Abendstimmung. Die historischen Mauern und das sanfte Licht schaffen eine unvergessliche Kulisse für den Abschluss Ihres Besuchs.",
+        "hu": "Kezdje a napot Perchtoldsdorf szívében, a nyüzsgő Főtéren. Érezze a történelem leheletét, miközben meglátogatja a lenyűgöző Szent Ágoston plébániatemplomot és magába szívja a középkori hangulatot.\nA délelőtt a fenséges perchtoldsdorfi váré. Másszon fel a védőtoronyba, és engedje, hogy tekintete végigsöpörjön a Bécsi-erdő lankáin. A kilátás minden lépcsőfokot megér!\nEgy hagyományos Heurigerben elköltött, helyi borokkal és finomságokkal teli ebéd után egy kellemes séta vezet az Ispotály-templomhoz. Fedezze fel a csendesebb sikátorokat és a város rejtett szépségét.\nZárja a napot egy pohár borral, élvezve a nyugodt esti hangulatot. A történelmi falak és a lágy fények felejthetetlen hátteret biztosítanak látogatása befejezéséhez.",
+        "ro": "Începeți ziua în inima orașului Perchtoldsdorf, în vibranta Piață a Pieței. Simțiți istoria în timp ce vizitați impresionanta biserică parohială Sf. Augustin și absorbiți atmosfera medievală.\nMiezul zilei este dedicat maiestuosului Castel Perchtoldsdorf. Urcați în turnul de apărare și lăsați-vă privirea să rătăcească peste dealurile domoale ale Pădurii Vieneze. Priveliștea merită fiecare treaptă!\nDupă un prânz consistent la un Heuriger tradițional, unde vă veți bucura de vinuri și delicatese locale, o plimbare agale vă va duce la Biserica Spitalului. Descoperiți străduțele mai liniștite și frumusețea ascunsă a orașului.\nÎncheiați ziua cu un pahar de vin, bucurându-vă de atmosfera relaxată de seară. Zidurile istorice și lumina blândă creează un cadru de neuitat pentru finalul vizitei dumneavoastră.",
+        "en": "Start your day in the heart of Perchtoldsdorf at the vibrant Market Square. Feel the history as you visit the impressive St. Augustin Parish Church and soak up the medieval atmosphere.\nMidday is all about the majestic Perchtoldsdorf Castle. Climb the defense tower and let your gaze wander over the rolling hills of the Vienna Woods. The view is worth every step!\nAfter a hearty lunch at a traditional Heuriger, where you'll enjoy local wines and delicacies, a leisurely walk will take you to the Spitalskirche. Discover the quieter alleys and the hidden beauty of the town.\nEnd the day with a glass of wine, enjoying the relaxed evening atmosphere. The historic walls and soft light create an unforgettable backdrop to conclude your visit."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Heuriger",
+            "tip": "Ein Muss für lokalen Wein und eine 'Brettljause' (kalte Platte)."
+          },
+          {
+            "name": "Gemischter Satz",
+            "tip": "Eine Wiener Weinspezialität, die hier perfekt angebaut wird."
+          },
+          {
+            "name": "Restaurant Alexander-Scherzer",
+            "tip": "Gehobene österreichische Küche in einem eleganten Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heuriger (borozó)",
+            "tip": "Kötelező a helyi borokhoz és egy 'Brettljause'-hoz (hidegtál)."
+          },
+          {
+            "name": "Gemischter Satz",
+            "tip": "Bécsi borkülönlegesség, amelyet itt tökéletesen termesztenek."
+          },
+          {
+            "name": "Restaurant Alexander-Scherzer",
+            "tip": "Emelt szintű osztrák konyha elegáns környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Heuriger (tavernă de vin)",
+            "tip": "O necesitate pentru vin local și o 'Brettljause' (platou rece)."
+          },
+          {
+            "name": "Gemischter Satz",
+            "tip": "O specialitate de vin vieneză cultivată perfect aici."
+          },
+          {
+            "name": "Restaurant Alexander-Scherzer",
+            "tip": "Bucătărie austriacă rafinată într-un cadru elegant."
+          }
+        ],
+        "en": [
+          {
+            "name": "Heuriger (Wine Tavern)",
+            "tip": "A must-visit for local wine and a 'Brettljause' (cold platter)."
+          },
+          {
+            "name": "Gemischter Satz",
+            "tip": "A Viennese wine specialty perfectly grown here."
+          },
+          {
+            "name": "Restaurant Alexander-Scherzer",
+            "tip": "Upscale Austrian cuisine in an elegant setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Perchtoldsdorfer Heide",
+            "tip": "Ein Spaziergang durch das Naturschutzgebiet bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Burghof",
+            "tip": "Finden Sie eine ruhige Bank im Innenhof der Burg.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Blick vom Wehrturm",
+            "tip": "Genießen Sie die stille Weite über den Weinbergen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Perchtoldsdorfer Heide",
+            "tip": "Séta a természetvédelmi területen naplementekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Várudvar",
+            "tip": "Keressen egy csendes padot a vár belső udvarán.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás a Védőtoronyból",
+            "tip": "Élvezze a csendes tájat a szőlőültetvények felett.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Perchtoldsdorfer Heide",
+            "tip": "O plimbare prin rezervația naturală la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curtea castelului",
+            "tip": "Găsiți o bancă liniștită în curtea interioară a castelului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vedere din Turnul de Apărare",
+            "tip": "Bucurați-vă de întinderea liniștită peste podgorii.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Perchtoldsdorfer Heide",
+            "tip": "A walk through the nature reserve at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Castle Courtyard",
+            "tip": "Find a quiet bench in the castle's inner courtyard.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from the Defence Tower",
+            "tip": "Enjoy the quiet expanse over the vineyards.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weinverkauf ab Hof",
+            "tip": "Kaufen Sie eine Flasche Wein direkt vom Winzer."
+          },
+          {
+            "name": "Burg-Shop",
+            "tip": "Kleine Andenken und Bücher über die lokale Geschichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borvásárlás a termelőtől",
+            "tip": "Vásároljon egy üveg bort közvetlenül a borásztól."
+          },
+          {
+            "name": "Várbolt",
+            "tip": "Apró ajándéktárgyak és könyvek a helyi történelemről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vânzare de vin de la cramă",
+            "tip": "Cumpărați o sticlă de vin direct de la producător."
+          },
+          {
+            "name": "Magazinul castelului",
+            "tip": "Mici suveniruri și cărți despre istoria locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wine from the Vintner",
+            "tip": "Buy a bottle of wine directly from the winemaker."
+          },
+          {
+            "name": "Castle Shop",
+            "tip": "Small souvenirs and books about the local history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten liegen sehr nah beieinander und sind leicht zu Fuß erreichbar.",
+          "Planen Sie am Nachmittag Zeit für einen Heurigenbesuch ein – es ist ein authentisches Erlebnis.",
+          "Prüfen Sie die Öffnungszeiten des Wehrturms, da diese saisonal variieren können."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakövek egyenetlenek lehetnek.",
+          "A legtöbb látnivaló nagyon közel van egymáshoz, és könnyen megközelíthető gyalog.",
+          "Tervezzen időt délután egy Heuriger látogatásra – ez egy autentikus élmény.",
+          "Ellenőrizze a Védőtorony nyitvatartási idejét, mivel az szezonálisan változhat."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul poate fi denivelat.",
+          "Majoritatea atracțiilor sunt foarte apropiate și ușor de accesat pe jos.",
+          "Planificați timp după-amiaza pentru o vizită la un Heuriger – este o experiență autentică.",
+          "Verificați programul de funcționare al Turnului de Apărare, deoarece acesta poate varia sezonier."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones can be uneven.",
+          "Most sights are very close to each other and easily accessible on foot.",
+          "Plan for a visit to a Heuriger in the afternoon – it's an authentic experience.",
+          "Check the opening hours for the Defence Tower as they can vary seasonally."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:10",
+      "total_km": 1.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Historischer Marktplatz & Dreifaltigkeitssäule",
+            "hu": "Történelmi Főtér és Szentháromság-oszlop",
+            "ro": "Piața Istorică și Coloana Sfintei Treimi",
+            "en": "Historic Market Square & Trinity Column"
+          },
+          "coords": [
+            16.2658,
+            48.1189
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Rad an und erkunden Sie den Platz zu Fuß.",
+            "hu": "Zárja le a kerékpárját, és fedezze fel a teret gyalog.",
+            "ro": "Încuiați bicicleta și explorați piața pe jos.",
+            "en": "Lock up your bike and explore the square on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche St. Augustin",
+            "hu": "Szent Ágoston plébániatemplom",
+            "ro": "Biserica parohială Sf. Augustin",
+            "en": "Parish Church of St. Augustin"
+          },
+          "coords": [
+            16.266,
+            48.1192
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das Radfahren auf dem Kirchplatz ist nicht gestattet.",
+            "hu": "A templom téren tilos kerékpározni.",
+            "ro": "Mersul pe bicicletă nu este permis în piața bisericii.",
+            "en": "Cycling is not permitted in the church square."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Perchtoldsdorf & Wehrturm",
+            "hu": "Perchtoldsdorfi vár és védőtorony",
+            "ro": "Castelul Perchtoldsdorf și Turnul de Apărare",
+            "en": "Perchtoldsdorf Castle & Defence Tower"
+          },
+          "coords": [
+            16.264,
+            48.12
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:23",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Rad am Fuße des Burgbergs ab und gehen Sie den Rest zu Fuß.",
+            "hu": "Hagyja a kerékpárt a várhegy lábánál, és tegye meg a maradék utat gyalog.",
+            "ro": "Lăsați bicicleta la poalele dealului castelului și mergeți pe jos restul drumului.",
+            "en": "Park your bike at the foot of the castle hill and walk the rest."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einem Heurigen",
+            "hu": "Ebéd egy Heurigerben",
+            "ro": "Prânz la un Heuriger",
+            "en": "Lunch at a Heuriger"
+          },
+          "coords": [
+            16.2675,
+            48.118
+          ],
+          "category": "gastro",
+          "arrive_at": "11:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Viele Heurige haben Fahrradständer im Innenhof.",
+            "hu": "Sok Heuriger rendelkezik kerékpártárolóval az udvaron.",
+            "ro": "Multe Heuriger au suporturi pentru biciclete în curte.",
+            "en": "Many Heuriger have bike racks in their courtyards."
+          }
+        },
+        {
+          "name": {
+            "de": "Radtour zur Perchtoldsdorfer Heide",
+            "hu": "Kerékpártúra a Perchtoldsdorfer Heide-re",
+            "ro": "Tur cu bicicleta la Perchtoldsdorfer Heide",
+            "en": "Bike trip to Perchtoldsdorfer Heide"
+          },
+          "coords": [
+            16.25,
+            48.11
+          ],
+          "category": "nature",
+          "arrive_at": "13:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die einzigartige Landschaft, aber bleiben Sie auf den markierten Wegen.",
+            "hu": "Élvezze az egyedülálló tájat, de maradjon a kijelölt utakon.",
+            "ro": "Bucurați-vă de peisajul unic, dar rămâneți pe potecile marcate.",
+            "en": "Enjoy the unique landscape, but stay on the marked paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel und starten Sie am historischen Marktplatz. Nachdem Sie die Pfarrkirche bewundert haben, radeln Sie gemütlich zur imposanten Burg, dem Wahrzeichen der Stadt.\nDer Vormittag gehört der Erkundung der Burg und dem Aufstieg auf den Wehrturm. Die kurze Radtour dorthin ist eine gute Aufwärmung für die fantastische Aussicht, die Sie erwartet.\nStärken Sie sich bei einem Mittagessen in einem fahrradfreundlichen Heurigen, bevor Sie am Nachmittag eine kurze, aber lohnende Tour zur Perchtoldsdorfer Heide unternehmen. Die einzigartige Trockenrasenlandschaft ist ein herrlicher Kontrast zum historischen Zentrum.\nBeenden Sie Ihre Radtour mit einer entspannten Rückfahrt ins Zentrum. Gönnen Sie sich zum Abschluss ein Eis am Marktplatz oder ein letztes Glas Wein, um die Erlebnisse des Tages Revue passieren zu lassen.",
+        "hu": "Pattanjon nyeregbe, és induljon a történelmi Főtérről. Miután megcsodálta a plébániatemplomot, tekerjen kényelmesen a város jelképének számító impozáns várhoz.\nA délelőtt a vár felfedezéséről és a védőtorony megmászásáról szól. A rövid bicikliút jó bemelegítés a várható fantasztikus kilátáshoz.\nEbédeljen meg egy kerékpárosbarát Heurigerben, mielőtt délután egy rövid, de annál tartalmasabb túrát tenne a Perchtoldsdorfer Heide-re. Az egyedülálló szárazgyepes táj csodálatos kontrasztot alkot a történelmi központtal.\nZárja a kerékpártúrát egy nyugodt visszaúttal a központba. A nap végén jutalmazza meg magát egy fagyival a Főtéren vagy egy utolsó pohár borral, hogy felidézze a nap élményeit.",
+        "ro": "Urcați-vă în șa și porniți din piața istorică. După ce admirați biserica parohială, pedalați agale spre impunătorul castel, simbolul orașului.\nDimineața este dedicată explorării castelului și urcării în turnul de apărare. Scurta plimbare cu bicicleta până acolo este o bună încălzire pentru priveliștea fantastică ce vă așteaptă.\nLuați un prânz revigorant la un Heuriger prietenos cu bicicliștii înainte de a face un tur scurt, dar plin de satisfacții, la Perchtoldsdorfer Heide după-amiaza. Peisajul unic de pajiști uscate este un contrast minunat cu centrul istoric.\nÎncheiați turul cu bicicleta cu o plimbare relaxantă înapoi în centru. Răsfățați-vă cu o înghețată în Piața Mare sau cu un ultim pahar de vin pentru a rememora experiențele zilei.",
+        "en": "Get on your bike and start at the historic Market Square. After admiring the parish church, cycle leisurely to the imposing castle, the town's landmark.\nThe morning is dedicated to exploring the castle and climbing the defense tower. The short bike ride there is a good warm-up for the fantastic view that awaits you.\nRefuel with lunch at a bike-friendly Heuriger before taking a short but rewarding tour to the Perchtoldsdorfer Heide in the afternoon. The unique dry grassland landscape is a wonderful contrast to the historic center.\nEnd your bike tour with a relaxed ride back to the center. Treat yourself to an ice cream in the Market Square or a final glass of wine to reflect on the day's experiences."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Heuriger",
+            "tip": "Viele bieten Radständern und sind perfekt für eine Pause."
+          },
+          {
+            "name": "Radler",
+            "tip": "Das perfekte Erfrischungsgetränk für Radfahrer (Bier mit Limonade)."
+          },
+          {
+            "name": "Kardinalschnitte",
+            "tip": "Ein leichter, luftiger Kuchen, ideal für eine Kaffeepause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heuriger (borozó)",
+            "tip": "Sok helyen van kerékpártároló, tökéletes egy pihenőre."
+          },
+          {
+            "name": "Radler",
+            "tip": "A tökéletes frissítő ital kerékpárosoknak (sör limonádéval)."
+          },
+          {
+            "name": "Kardinalschnitte (kardinális szelet)",
+            "tip": "Könnyű, légies sütemény, ideális egy kávészünethez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Heuriger (tavernă de vin)",
+            "tip": "Multe oferă suporturi pentru biciclete și sunt perfecte pentru o pauză."
+          },
+          {
+            "name": "Radler",
+            "tip": "Băutura răcoritoare perfectă pentru bicicliști (bere cu limonadă)."
+          },
+          {
+            "name": "Kardinalschnitte",
+            "tip": "O prăjitură ușoară și pufoasă, ideală pentru o pauză de cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Heuriger (Wine Tavern)",
+            "tip": "Many offer bike racks and are perfect for a break."
+          },
+          {
+            "name": "Radler",
+            "tip": "The perfect refreshing drink for cyclists (beer with lemonade)."
+          },
+          {
+            "name": "Kardinalschnitte (Cardinal Slice)",
+            "tip": "A light, airy cake, ideal for a coffee break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Perchtoldsdorfer Heide",
+            "tip": "Eine ruhige Radtour durch die Heidelandschaft.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Weinberge",
+            "tip": "Finden Sie einen ruhigen Weg zwischen den Reben.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spitalskirche",
+            "tip": "Ein Moment der Stille in dieser weniger besuchten Kirche.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Perchtoldsdorfer Heide",
+            "tip": "Csendes kerékpártúra a pusztán keresztül.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szőlőültetvények",
+            "tip": "Keressen egy csendes utat a szőlőtőkék között.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ispotály-templom",
+            "tip": "Egy csendes pillanat ebben a kevésbé látogatott templomban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Perchtoldsdorfer Heide",
+            "tip": "O plimbare liniștită cu bicicleta prin pajiști.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Podgorii",
+            "tip": "Găsiți o potecă liniștită printre viile de vie.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Biserica Spitalului",
+            "tip": "Un moment de liniște în această biserică mai puțin vizitată.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Perchtoldsdorfer Heide",
+            "tip": "A quiet bike ride through the heathland.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vineyards",
+            "tip": "Find a quiet path among the vines.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spitalskirche",
+            "tip": "A moment of silence in this less-visited church.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bauernmarkt (falls vorhanden)",
+            "tip": "Lokale Produkte und Spezialitäten direkt vom Erzeuger."
+          },
+          {
+            "name": "Weinverkauf ab Hof",
+            "tip": "Füllen Sie Ihre Fahrradtaschen mit exzellentem Wein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői piac (ha van)",
+            "tip": "Helyi termékek és különlegességek közvetlenül a termelőtől."
+          },
+          {
+            "name": "Borvásárlás a termelőtől",
+            "tip": "Töltse meg kerékpártáskáit kiváló borral."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața agricolă (dacă există)",
+            "tip": "Produse locale și specialități direct de la producător."
+          },
+          {
+            "name": "Vânzare de vin de la cramă",
+            "tip": "Umpleți-vă gențile de bicicletă cu vin excelent."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farmers' Market (if available)",
+            "tip": "Local produce and specialties directly from the producer."
+          },
+          {
+            "name": "Wine from the Vintner",
+            "tip": "Fill your panniers with excellent wine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Perchtoldsdorf ist hügelig, seien Sie auf einige Anstiege vorbereitet, besonders in Richtung Heide.",
+          "Ein Fahrradschloss ist unerlässlich, um Ihr Rad sicher abzustellen, während Sie Sehenswürdigkeiten erkunden.",
+          "Achten Sie auf den Verkehr in den engen Gassen des Stadtzentrums.",
+          "Viele Weinradwege führen durch die Region – ideal für eine ausgedehntere Tour."
+        ],
+        "hu": [
+          "Perchtoldsdorf dombos, készüljön fel néhány emelkedőre, különösen a Heide felé.",
+          "A kerékpárzár elengedhetetlen a biztonságos lezáráshoz, amíg a látnivalókat fedezi fel.",
+          "Vigyázzon a forgalomra a városközpont szűk utcáin.",
+          "Sok borvidéki kerékpárút vezet a régión keresztül – ideális egy hosszabb túrához."
+        ],
+        "ro": [
+          "Perchtoldsdorf este deluros, fiți pregătiți pentru câteva urcări, în special spre Heide.",
+          "O încuietoare pentru bicicletă este esențială pentru a vă asigura bicicleta în timp ce explorați obiectivele turistice.",
+          "Fiți atenți la trafic pe străduțele înguste din centrul orașului.",
+          "Multe trasee de ciclism viticol trec prin regiune – ideale pentru un tur mai extins."
+        ],
+        "en": [
+          "Perchtoldsdorf is hilly, be prepared for some climbs, especially towards the Heide.",
+          "A bike lock is essential to secure your bike while exploring sights.",
+          "Pay attention to traffic in the narrow streets of the town center.",
+          "Many wine cycling trails run through the region – ideal for a more extensive tour."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 19.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum & Spaziergang zum Marktplatz",
+            "hu": "Parkoló a központban és séta a Főtérre",
+            "ro": "Parcare în centru și plimbare spre Piața Mare",
+            "en": "Central Car Park & Walk to the Market Square"
+          },
+          "coords": [
+            16.265,
+            48.118
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier und beginnen Sie Ihren Rundgang. Der Marktplatz ist nur wenige Schritte entfernt.",
+            "hu": "Parkoljon le itt, és kezdje meg a sétát. A Főtér csak néhány lépésre van.",
+            "ro": "Parcați aici și începeți turul pietonal. Piața Mare este la doar câțiva pași.",
+            "en": "Park here and start your walking tour. The Market Square is just a few steps away."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Perchtoldsdorf & Pfarrkirche",
+            "hu": "Perchtoldsdorfi vár és plébániatemplom",
+            "ro": "Castelul Perchtoldsdorf și Biserica Parohială",
+            "en": "Perchtoldsdorf Castle & Parish Church"
+          },
+          "coords": [
+            16.264,
+            48.12
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Dieser Spaziergang verbindet die beiden Hauptattraktionen des Zentrums.",
+            "hu": "Ez a séta összeköti a központ két fő látnivalóját.",
+            "ro": "Această plimbare leagă cele două atracții principale ale centrului.",
+            "en": "This walk connects the two main attractions of the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Wienerwald Aussichtspunkt",
+            "hu": "Autózás a Bécsi-erdő kilátóponthoz",
+            "ro": "Drum spre punctul de belvedere din Pădurea Vieneză",
+            "en": "Drive to the Vienna Woods Viewpoint"
+          },
+          "coords": [
+            16.245,
+            48.13
+          ],
+          "category": "viewpoint",
+          "arrive_at": "12:18",
+          "stay_min": 30,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf Wien und die umliegende Region.",
+            "hu": "Élvezze a panorámás kilátást Bécsre és a környező régióra.",
+            "ro": "Bucurați-vă de vederea panoramică asupra Vienei și a regiunii înconjurătoare.",
+            "en": "Enjoy the panoramic view of Vienna and the surrounding region."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einem Heurigen am Stadtrand",
+            "hu": "Ebéd egy Heurigerben a város szélén",
+            "ro": "Prânz la un Heuriger la marginea orașului",
+            "en": "Lunch at a Heuriger on the outskirts"
+          },
+          "coords": [
+            16.275,
+            48.125
+          ],
+          "category": "gastro",
+          "arrive_at": "13:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Viele der besten Heurigen liegen etwas außerhalb und sind mit dem Auto gut erreichbar.",
+            "hu": "Sok legjobb Heuriger kissé kijjebb található, és autóval könnyen megközelíthető.",
+            "ro": "Multe dintre cele mai bune Heuriger sunt situate puțin în afara orașului și sunt ușor accesibile cu mașina.",
+            "en": "Many of the best Heurigers are located just outside the town and are easily accessible by car."
+          }
+        },
+        {
+          "name": {
+            "de": "Besuch der Perchtoldsdorfer Heide",
+            "hu": "Látogatás a Perchtoldsdorfer Heide-n",
+            "ro": "Vizită la Perchtoldsdorfer Heide",
+            "en": "Visit to the Perchtoldsdorfer Heide"
+          },
+          "coords": [
+            16.25,
+            48.11
+          ],
+          "category": "nature",
+          "arrive_at": "14:46",
+          "stay_min": 65,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parken Sie am Rande des Naturschutzgebiets und machen Sie einen kurzen Spaziergang.",
+            "hu": "Parkoljon a természetvédelmi terület szélén, és tegyen egy rövid sétát.",
+            "ro": "Parcați la marginea rezervației naturale și faceți o scurtă plimbare.",
+            "en": "Park on the edge of the nature reserve and take a short walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag, indem Sie Ihr Auto im Zentrum parken und zu Fuß den historischen Kern erkunden. Der Marktplatz, die Burg und die Kirche bilden ein wunderbares Ensemble für einen Vormittagsspaziergang.\nAm Mittag fahren Sie aus der Stadt hinaus zu einem Aussichtspunkt im Wienerwald. Der Panoramablick auf die Region ist die kurze Fahrt wert und bietet eine neue Perspektive auf die Landschaft.\nDer Nachmittag ist der Kulinarik und Natur gewidmet. Fahren Sie zu einem traditionellen Heurigen in den Weinbergen für ein authentisches Mittagessen. Anschließend können Sie auf der Perchtoldsdorfer Heide die einzigartige Flora und Fauna entdecken.\nSchließen Sie den Tag mit einer entspannten Rückfahrt ab, voller Eindrücke von Geschichte, Natur und der berühmten Wienerwald-Gastfreundschaft. Perchtoldsdorf mit dem Auto zu erkunden, bietet die Flexibilität, sowohl das Zentrum als auch die wunderschöne Umgebung zu erleben.",
+        "hu": "Kezdje a napot azzal, hogy leparkolja autóját a központban, és gyalog fedezi fel a történelmi belvárost. A Főtér, a vár és a templom csodálatos együttest alkot egy délelőtti sétához.\nDélben hajtson ki a városból a Bécsi-erdő egyik kilátópontjához. A régióra nyíló panorámás kilátás megéri a rövid autózást, és új perspektívát nyújt a tájra.\nA délután a gasztronómiáról és a természetről szól. Látogasson el egy hagyományos Heurigerbe a szőlőhegyeken egy autentikus ebédért. Utána fedezze fel a Perchtoldsdorfer Heide egyedülálló növény- és állatvilágát.\nZárja a napot egy nyugodt visszaúttal, tele a történelem, a természet és a híres Bécsi-erdei vendégszeretet benyomásaival. Perchtoldsdorf autóval történő felfedezése rugalmasságot kínál a központ és a gyönyörű környék megtapasztalásához.",
+        "ro": "Începeți ziua parcând mașina în centru și explorând nucleul istoric pe jos. Piața, castelul și biserica formează un ansamblu minunat pentru o plimbare de dimineață.\nLa prânz, ieșiți din oraș cu mașina spre un punct de belvedere din Pădurea Vieneză. Priveliștea panoramică a regiunii merită scurta călătorie și oferă o nouă perspectivă asupra peisajului.\nDupă-amiaza este dedicată gastronomiei și naturii. Mergeți la un Heuriger tradițional din podgorii pentru un prânz autentic. Apoi, puteți descoperi flora și fauna unică de pe Perchtoldsdorfer Heide.\nÎncheiați ziua cu o călătorie relaxantă înapoi, plină de impresii despre istorie, natură și faimoasa ospitalitate a Pădurii Vieneze. Explorarea Perchtoldsdorf cu mașina oferă flexibilitatea de a experimenta atât centrul, cât și împrejurimile frumoase.",
+        "en": "Start your day by parking your car in the center and exploring the historic core on foot. The market square, castle, and church form a wonderful ensemble for a morning walk.\nAt noon, drive out of town to a viewpoint in the Vienna Woods. The panoramic view of the region is worth the short drive and offers a new perspective on the landscape.\nThe afternoon is dedicated to cuisine and nature. Drive to a traditional Heuriger in the vineyards for an authentic lunch. Afterwards, you can discover the unique flora and fauna on the Perchtoldsdorfer Heide.\nEnd the day with a relaxed drive back, full of impressions of history, nature, and the famous Vienna Woods hospitality. Exploring Perchtoldsdorf by car offers the flexibility to experience both the center and the beautiful surroundings."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Heurigen außerhalb",
+            "tip": "Diese bieten oft mehr Platz, Gärten und eine authentischere Atmosphäre."
+          },
+          {
+            "name": "Wiener Schnitzel",
+            "tip": "Ein Klassiker, den man in vielen Gasthäusern in Top-Qualität findet."
+          },
+          {
+            "name": "Frisch gepresster Traubensaft",
+            "tip": "Eine köstliche alkoholfreie Alternative bei den Heurigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Külvárosi Heurigerek",
+            "tip": "Ezek gyakran több helyet, kerteket és autentikusabb hangulatot kínálnak."
+          },
+          {
+            "name": "Bécsi szelet (Wiener Schnitzel)",
+            "tip": "Klasszikus, amelyet számos vendéglőben csúcsminőségben talál meg."
+          },
+          {
+            "name": "Frissen préselt szőlőlé",
+            "tip": "Finom alkoholmentes alternatíva a Heurigerekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Heuriger în afara orașului",
+            "tip": "Acestea oferă adesea mai mult spațiu, grădini și o atmosferă mai autentică."
+          },
+          {
+            "name": "Șnițel vienez",
+            "tip": "Un clasic pe care îl găsiți la calitate superioară în multe hanuri."
+          },
+          {
+            "name": "Suc de struguri proaspăt stors",
+            "tip": "O alternativă delicioasă fără alcool la Heuriger."
+          }
+        ],
+        "en": [
+          {
+            "name": "Heurigers on the outskirts",
+            "tip": "These often offer more space, gardens, and a more authentic atmosphere."
+          },
+          {
+            "name": "Wiener Schnitzel",
+            "tip": "A classic that you can find in top quality in many inns."
+          },
+          {
+            "name": "Freshly pressed grape juice",
+            "tip": "A delicious non-alcoholic alternative at the Heurigers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wienerwald-Aussichtspunkt",
+            "tip": "Die Stille und der weite Blick laden zum Verweilen ein.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spaziergang auf der Heide",
+            "tip": "Abseits der Stadt finden Sie hier Ruhe und Natur.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Park am Knappenhof",
+            "tip": "Ein kleiner, oft übersehener Park für eine kurze Pause.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bécsi-erdő kilátópont",
+            "tip": "A csend és a tágas kilátás maradásra csábít.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Séta a Heidén",
+            "tip": "A várostól távol itt nyugalmat és természetet talál.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Park a Knappenhofnál",
+            "tip": "Egy kicsi, gyakran figyelmen kívül hagyott park egy rövid szünetre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Pădurea Vieneză",
+            "tip": "Liniștea și priveliștea vastă vă invită să zăboviți.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plimbare pe Heide",
+            "tip": "Departe de oraș, veți găsi aici liniște și natură.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul de la Knappenhof",
+            "tip": "Un parc mic, adesea trecut cu vederea, pentru o scurtă pauză.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vienna Woods Viewpoint",
+            "tip": "The silence and the wide view invite you to linger.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Walk on the Heide",
+            "tip": "Away from the city, you will find peace and nature here.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Park at Knappenhof",
+            "tip": "A small, often overlooked park for a short break.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden in der Umgebung",
+            "tip": "Mit dem Auto erreichen Sie leicht Hofläden, die Obst, Gemüse und Wein verkaufen."
+          },
+          {
+            "name": "Weingüter",
+            "tip": "Kaufen Sie Wein direkt vom Erzeuger, oft mit der Möglichkeit zur Verkostung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok a környéken",
+            "tip": "Autóval könnyen elérheti a gyümölcsöt, zöldséget és bort árusító tanyasi boltokat."
+          },
+          {
+            "name": "Pincészetek",
+            "tip": "Vásároljon bort közvetlenül a termelőtől, gyakran kóstolási lehetőséggel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de fermă din zonă",
+            "tip": "Cu mașina puteți ajunge ușor la magazinele de fermă care vând fructe, legume și vin."
+          },
+          {
+            "name": "Crame",
+            "tip": "Cumpărați vin direct de la producător, adesea cu posibilitatea de degustare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops in the area",
+            "tip": "By car you can easily reach farm shops selling fruit, vegetables and wine."
+          },
+          {
+            "name": "Wineries",
+            "tip": "Buy wine directly from the producer, often with the opportunity for tasting."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten und -gebühren im Voraus.",
+          "Die Straßen im Wienerwald können eng und kurvig sein, fahren Sie vorsichtig.",
+          "Ein Auto gibt Ihnen die Freiheit, auch abgelegenere Heurigen und Weingüter zu besuchen.",
+          "Kombinieren Sie Ihren Besuch mit anderen Zielen im südlichen Wienerwald."
+        ],
+        "hu": [
+          "Ellenőrizze előre a parkolási lehetőségeket és díjakat.",
+          "A Bécsi-erdő útjai szűkek és kanyargósak lehetnek, vezessen óvatosan.",
+          "Az autó szabadságot ad, hogy távolabbi Heurigereket és pincészeteket is meglátogasson.",
+          "Kombinálja látogatását a déli Bécsi-erdő más úti céljaival."
+        ],
+        "ro": [
+          "Verificați în avans opțiunile de parcare și taxele.",
+          "Drumurile din Pădurea Vieneză pot fi înguste și sinuoase, conduceți cu prudență.",
+          "O mașină vă oferă libertatea de a vizita Heuriger și crame mai îndepărtate.",
+          "Combinați vizita cu alte destinații din sudul Pădurii Vieneze."
+        ],
+        "en": [
+          "Check parking options and fees in advance.",
+          "The roads in the Vienna Woods can be narrow and winding, drive carefully.",
+          "A car gives you the freedom to visit more remote Heurigers and wineries.",
+          "Combine your visit with other destinations in the southern Vienna Woods."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:21",
+      "total_km": 2.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof Perchtoldsdorf",
+            "hu": "Érkezés a perchtoldsdorfi vasútállomásra",
+            "ro": "Sosire la gara Perchtoldsdorf",
+            "en": "Arrival at Perchtoldsdorf train station"
+          },
+          "coords": [
+            16.267,
+            48.115
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Von hier aus ist das Zentrum in etwa 10-15 Minuten zu Fuß erreichbar.",
+            "hu": "Innen a központ körülbelül 10-15 perc sétával elérhető.",
+            "ro": "De aici, centrul este la aproximativ 10-15 minute de mers pe jos.",
+            "en": "From here, the center is about a 10-15 minute walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Historischer Marktplatz",
+            "hu": "Történelmi Főtér",
+            "ro": "Piața Istorică",
+            "en": "Historic Market Square"
+          },
+          "coords": [
+            16.2658,
+            48.1189
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:28",
+          "stay_min": 30,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der Spaziergang vom Bahnhof führt Sie direkt ins Herz der Stadt.",
+            "hu": "A séta az állomásról egyenesen a város szívébe vezet.",
+            "ro": "Plimbarea de la gară vă duce direct în inima orașului.",
+            "en": "The walk from the station takes you right into the heart of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Perchtoldsdorf & Pfarrkirche",
+            "hu": "Perchtoldsdorfi vár és plébániatemplom",
+            "ro": "Castelul Perchtoldsdorf și Biserica Parohială",
+            "en": "Perchtoldsdorf Castle & Parish Church"
+          },
+          "coords": [
+            16.264,
+            48.12
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:02",
+          "stay_min": 120,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Zentrum, alles ist fußläufig erreichbar.",
+            "hu": "Fedezze fel a történelmi központot, minden gyalogosan elérhető.",
+            "ro": "Explorați centrul istoric, totul este la distanță de mers pe jos.",
+            "en": "Explore the historic center, everything is within walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einem Heurigen",
+            "hu": "Ebéd egy Heurigerben",
+            "ro": "Prânz la un Heuriger",
+            "en": "Lunch at a Heuriger"
+          },
+          "coords": [
+            16.2675,
+            48.118
+          ],
+          "category": "gastro",
+          "arrive_at": "12:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Viele Heurige sind vom Zentrum aus gut zu Fuß zu erreichen.",
+            "hu": "Sok Heuriger könnyen megközelíthető gyalog a központból.",
+            "ro": "Multe Heuriger sunt ușor accesibile pe jos din centru.",
+            "en": "Many Heurigers are within easy walking distance of the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückweg zum Bahnhof",
+            "hu": "Visszaút a vasútállomásra",
+            "ro": "Întoarcere la gară",
+            "en": "Walk back to the train station"
+          },
+          "coords": [
+            16.267,
+            48.115
+          ],
+          "category": "transport",
+          "arrive_at": "13:43",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit für den Spaziergang zurück zum Bahnhof ein.",
+            "hu": "Tervezzen elegendő időt a vasútállomásra való visszasétálásra.",
+            "ro": "Planificați suficient timp pentru plimbarea înapoi la gară.",
+            "en": "Allow enough time for the walk back to the station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Reise beginnt entspannt mit der Ankunft am Bahnhof Perchtoldsdorf. Ein kurzer Spaziergang bringt Sie direkt ins historische Herz der Stadt, zum lebhaften Marktplatz.\nDer Vormittag steht ganz im Zeichen der fußläufigen Erkundung. Vom Marktplatz aus erreichen Sie mühelos die Pfarrkirche und die imposante Burg. Genießen Sie die mittelalterliche Atmosphäre ohne Parkplatzsuche.\nZur Mittagszeit lockt ein traditioneller Heuriger. Viele dieser gemütlichen Weinschänken sind vom Zentrum aus bequem zu Fuß erreichbar und bieten eine willkommene Pause mit lokalen Spezialitäten.\nNach dem Mittagessen haben Sie Zeit, durch die Gassen zu schlendern, bevor Sie den gemütlichen Rückweg zum Bahnhof antreten. Die Anreise mit öffentlichen Verkehrsmitteln ist ideal, um Perchtoldsdorf stressfrei und nachhaltig zu erleben.",
+        "hu": "Utazása nyugodtan kezdődik a perchtoldsdorfi vasútállomásra érkezéssel. Egy rövid séta egyenesen a város történelmi szívébe, a nyüzsgő Főtérre vezet.\nA délelőtt a gyalogos felfedezésé. A Főtérről könnyedén elérheti a plébániatemplomot és az impozáns várat. Élvezze a középkori hangulatot parkolóhely keresése nélkül.\nEbédidőben egy hagyományos Heuriger csábít. Sok ilyen hangulatos borozó kényelmesen megközelíthető gyalog a központból, és kellemes pihenőt kínál helyi specialitásokkal.\nEbéd után van ideje sétálgatni a sikátorokban, mielőtt elindulna a kényelmes visszaúton a vasútállomásra. A tömegközlekedéssel való utazás ideális Perchtoldsdorf stresszmentes és fenntartható megismeréséhez.",
+        "ro": "Călătoria dumneavoastră începe relaxat cu sosirea la gara Perchtoldsdorf. O scurtă plimbare vă duce direct în inima istorică a orașului, în vibranta Piață a Pieței.\nDimineața este dedicată explorării pe jos. Din Piața Mare, puteți ajunge cu ușurință la biserica parohială și la impunătorul castel. Bucurați-vă de atmosfera medievală fără grija parcării.\nLa prânz, un Heuriger tradițional vă atrage. Multe dintre aceste taverne de vin primitoare sunt la distanță de mers pe jos de centru și oferă o pauză binevenită cu specialități locale.\nDupă prânz, aveți timp să vă plimbați pe străduțe înainte de a porni pe drumul relaxant înapoi spre gară. Sosirea cu transportul public este ideală pentru a experimenta Perchtoldsdorf fără stres și în mod sustenabil.",
+        "en": "Your journey begins relaxed with your arrival at Perchtoldsdorf train station. A short walk takes you directly into the historic heart of the town, the lively Market Square.\nThe morning is all about exploring on foot. From the Market Square, you can easily reach the parish church and the imposing castle. Enjoy the medieval atmosphere without the hassle of finding a parking space.\nAt lunchtime, a traditional Heuriger awaits. Many of these cozy wine taverns are within easy walking distance of the center and offer a welcome break with local specialties.\nAfter lunch, you have time to stroll through the alleys before starting the leisurely walk back to the station. Arriving by public transport is ideal for experiencing Perchtoldsdorf in a stress-free and sustainable way."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Heuriger im Zentrum",
+            "tip": "Perfekt für eine Mittagspause während Ihres Rundgangs."
+          },
+          {
+            "name": "Apfelstrudel",
+            "tip": "Ein süßer Klassiker, der in den Cafés am Marktplatz serviert wird."
+          },
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Holen Sie sich ein frisches Gebäck für den Weg."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heuriger a központban",
+            "tip": "Tökéletes egy ebédszünetre a séta közben."
+          },
+          {
+            "name": "Almásrétes (Apfelstrudel)",
+            "tip": "Édes klasszikus, amelyet a Főtéri kávézókban szolgálnak fel."
+          },
+          {
+            "name": "Helyi pékség",
+            "tip": "Vegyen egy friss péksüteményt az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Heuriger în centru",
+            "tip": "Perfect pentru o pauză de prânz în timpul turului dumneavoastră pietonal."
+          },
+          {
+            "name": "Strudel cu mere",
+            "tip": "Un clasic dulce servit în cafenelele din Piața Mare."
+          },
+          {
+            "name": "Brutărie locală",
+            "tip": "Luați un produs de patiserie proaspăt pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Heuriger in the center",
+            "tip": "Perfect for a lunch break during your walking tour."
+          },
+          {
+            "name": "Apple Strudel",
+            "tip": "A sweet classic served in the cafes on the Market Square."
+          },
+          {
+            "name": "Local Bakery",
+            "tip": "Grab a fresh pastry for the road."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Leonhardi-Park",
+            "tip": "Ein kleiner Park in der Nähe des Zentrums für eine ruhige Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick vom Burgberg",
+            "tip": "Auch ohne Turmbesteigung bietet der Hügel eine schöne Aussicht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hugo-Wolf-Gasse",
+            "tip": "Eine ruhige Gasse, benannt nach dem berühmten Komponisten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Leonhardi-Park",
+            "tip": "Egy kis park a központ közelében egy csendes pihenőre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Várhegyről",
+            "tip": "A torony megmászása nélkül is szép kilátást nyújt a hegy.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hugo-Wolf-Gasse",
+            "tip": "Egy csendes sikátor, a híres zeneszerzőről elnevezve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Leonhardi",
+            "tip": "Un parc mic lângă centru pentru o pauză liniștită.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de pe Dealul Castelului",
+            "tip": "Chiar și fără a urca în turn, dealul oferă o priveliște frumoasă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hugo-Wolf-Gasse",
+            "tip": "O alee liniștită, numită după faimosul compozitor.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Leonhardi-Park",
+            "tip": "A small park near the center for a quiet break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the Castle Hill",
+            "tip": "Even without climbing the tower, the hill offers a beautiful view.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hugo-Wolf-Gasse",
+            "tip": "A quiet alley named after the famous composer.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte am Marktplatz",
+            "tip": "Kleine, inhabergeführte Geschäfte mit einem einzigartigen Sortiment."
+          },
+          {
+            "name": "Buchhandlung am Platz",
+            "tip": "Finden Sie Bücher über die Region und lokale Autoren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Üzletek a Főtéren",
+            "tip": "Kicsi, tulajdonos által vezetett üzletek egyedi kínálattal."
+          },
+          {
+            "name": "Könyvesbolt a téren",
+            "tip": "Találjon könyveket a régióról és helyi szerzőkről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine în Piața Mare",
+            "tip": "Magazine mici, administrate de proprietari, cu un sortiment unic."
+          },
+          {
+            "name": "Librăria din piață",
+            "tip": "Găsiți cărți despre regiune și autori locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops on the Market Square",
+            "tip": "Small, owner-run shops with a unique assortment."
+          },
+          {
+            "name": "Bookstore on the square",
+            "tip": "Find books about the region and local authors."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Perchtoldsdorf ist von Wien aus mit der S-Bahn (Schnellbahn) leicht zu erreichen.",
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel, wenn Sie mehrere Fahrten planen.",
+          "Der Fußweg vom Bahnhof ins Zentrum ist gut ausgeschildert.",
+          "Prüfen Sie den Fahrplan für Ihre Rückfahrt im Voraus, um Wartezeiten zu vermeiden."
+        ],
+        "hu": [
+          "Perchtoldsdorf Bécsből S-Bahnnal (gyorsvasúttal) könnyen elérhető.",
+          "Vásároljon napijegyet a tömegközlekedéshez, ha több utazást tervez.",
+          "A vasútállomástól a központba vezető gyalogút jól ki van táblázva.",
+          "Ellenőrizze előre a visszaút menetrendjét a várakozási idő elkerülése érdekében."
+        ],
+        "ro": [
+          "Perchtoldsdorf este ușor accesibil din Viena cu S-Bahn (tren rapid).",
+          "Cumpărați un bilet de o zi pentru transportul public dacă planificați mai multe călătorii.",
+          "Traseul pietonal de la gară la centru este bine semnalizat.",
+          "Verificați programul pentru călătoria de întoarcere în avans pentru a evita timpii de așteptare."
+        ],
+        "en": [
+          "Perchtoldsdorf is easily accessible from Vienna by S-Bahn (rapid transit train).",
+          "Buy a day ticket for public transport if you are planning several trips.",
+          "The walking path from the train station to the center is well signposted.",
+          "Check the schedule for your return journey in advance to avoid waiting times."
+        ]
+      }
+    }
+  }
+}

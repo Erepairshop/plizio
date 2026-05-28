@@ -1,0 +1,1471 @@
+{
+  "city_id": "czechrepublic-frydek-mistek-cities-v2",
+  "anchor": {
+    "name": "Frýdek-Místek",
+    "coords": [
+      18.349,
+      49.6844
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Platz der Freiheit (Místecké náměstí)",
+            "hu": "Szabadság tér (Místecké náměstí)",
+            "ro": "Piața Libertății (Místecké náměstí)",
+            "en": "Freedom Square (Místecké náměstí)"
+          },
+          "coords": [
+            18.3445,
+            49.6852
+          ],
+          "category": "squares",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee in einem der örtlichen Cafés.",
+            "hu": "Kezdje a napot egy kávéval a helyi kávézók egyikében.",
+            "ro": "Începeți ziua aici cu o cafea la una dintre cafenelele locale.",
+            "en": "Start your day here with a coffee at one of the local cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Johannes der Täufer",
+            "hu": "Keresztelő Szent János-templom",
+            "ro": "Biserica Sf. Ioan Botezătorul",
+            "en": "Church of St. John the Baptist"
+          },
+          "coords": [
+            18.342,
+            49.686
+          ],
+          "category": "churches",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die barocken Fresken und den beeindruckenden Hauptaltar.",
+            "hu": "Figyelje meg a barokk freskókat és a lenyűgöző főoltárt.",
+            "ro": "Fiți atenți la frescele baroce și la altarul principal impresionant.",
+            "en": "Look out for the Baroque frescoes and the impressive main altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Wasserkraftwerk",
+            "hu": "Régi vízerőmű",
+            "ro": "Vechea hidrocentrală",
+            "en": "Old Hydroelectric Power Plant"
+          },
+          "coords": [
+            18.348,
+            49.682
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Ein faszinierender Einblick in die industrielle Vergangenheit der Region.",
+            "hu": "Lenyűgöző betekintés a régió ipari múltjába.",
+            "ro": "O privire fascinantă în trecutul industrial al regiunii.",
+            "en": "A fascinating glimpse into the region's industrial past."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlossplatz (Zámecké náměstí)",
+            "hu": "Vár tér (Zámecké náměstí)",
+            "ro": "Piața Castelului (Zámecké náměstí)",
+            "en": "Castle Square (Zámecké náměstí)"
+          },
+          "coords": [
+            18.353,
+            49.6875
+          ],
+          "category": "squares",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Perfekter Ort für eine Mittagspause. Viele Restaurants in der Nähe.",
+            "hu": "Tökéletes hely egy ebédszünetre. Számos étterem található a közelben.",
+            "ro": "Locul perfect pentru o pauză de prânz. Multe restaurante în apropiere.",
+            "en": "Perfect spot for a lunch break. Many restaurants nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Frýdek",
+            "hu": "Frýdeki kastély",
+            "ro": "Castelul Frýdek",
+            "en": "Frýdek Castle"
+          },
+          "coords": [
+            18.354,
+            49.688
+          ],
+          "category": "castles",
+          "arrive_at": "13:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht das Museum von Beskiden, das sich im Schloss befindet.",
+            "hu": "Ne hagyja ki a kastélyban található Beszkidek Múzeumot.",
+            "ro": "Nu ratați Muzeul Beskydy, situat în interiorul castelului.",
+            "en": "Don't miss the Museum of the Beskydy Mountains located inside the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika Mariä Heimsuchung",
+            "hu": "Sarlós Boldogasszony-bazilika",
+            "ro": "Bazilica Vizita Fecioarei Maria",
+            "en": "Basilica of the Visitation of Our Lady"
+          },
+          "coords": [
+            18.356,
+            49.687
+          ],
+          "category": "churches",
+          "arrive_at": "15:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein wichtiger Wallfahrtsort mit einer wunderschönen Innenausstattung.",
+            "hu": "Fontos zarándokhely gyönyörű belső térrel.",
+            "ro": "Un important loc de pelerinaj cu un interior frumos.",
+            "en": "An important pilgrimage site with a beautiful interior."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Jakobus-Kirche",
+            "hu": "Szent Jakab-templom",
+            "ro": "Biserica Sf. Iacob",
+            "en": "St. James Church"
+          },
+          "coords": [
+            18.34,
+            49.683
+          ],
+          "category": "churches",
+          "arrive_at": "16:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie den gotischen Turm, der die Skyline von Místek dominiert.",
+            "hu": "Csodálja meg a gótikus tornyot, amely Místek látképét uralja.",
+            "ro": "Admirați turnul gotic care domină orizontul orașului Místek.",
+            "en": "Admire the Gothic tower that dominates the Místek skyline."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang am Morgen auf dem lebhaften Platz der Freiheit in Místek und erkunden Sie die nahegelegenen Kirchen. Am Mittag überqueren Sie den Fluss Ostravice, um das industrielle Erbe zu entdecken, bevor Sie auf dem Schlossplatz in Frýdek zu Mittag essen. Der Nachmittag ist dem majestätischen Schloss Frýdek und der prächtigen Basilika gewidmet. Schließen Sie Ihren Tag ab, indem Sie nach Místek zurückkehren, um die Ruhe der St.-Jakobus-Kirche zu genießen, während die Sonne untergeht.",
+        "hu": "Kezdje a sétát reggel a nyüzsgő místecki Szabadság téren, és fedezze fel a közeli templomokat. Délben keljen át az Ostravice folyón, hogy felfedezze az ipari örökséget, mielőtt a frýdeki Vár téren ebédel. A délutánt a fenséges Frýdeki kastély és a csodálatos bazilika megtekintésének szentelje. Zárja a napot a Místeckbe való visszatéréssel, hogy élvezze a Szent Jakab-templom nyugalmát a naplementében.",
+        "ro": "Începeți plimbarea de dimineață în vibranta Piață a Libertății din Místek, explorând bisericile din apropiere. La prânz, traversați râul Ostravice pentru a descoperi moștenirea industrială înainte de a lua masa în Piața Castelului din Frýdek. După-amiaza este dedicată explorării majestuosului Castel Frýdek și a magnificei bazilici. Încheiați ziua revenind în Místek pentru a vă bucura de liniștea Bisericii Sf. Iacob în timp ce soarele apune.",
+        "en": "Begin your morning walk in the vibrant Freedom Square in Místek, exploring the nearby churches. At midday, cross the Ostravice River to discover the industrial heritage before having lunch in the Castle Square in Frýdek. The afternoon is dedicated to exploring the majestic Frýdek Castle and the magnificent basilica. Conclude your day by returning to Místek to enjoy the tranquility of St. James Church as the sun sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kuba",
+            "tip": "Ein traditionelles Gericht aus Graupen und Pilzen, oft zu Weihnachten gegessen."
+          },
+          {
+            "name": "Stramberger Ohren",
+            "tip": "Ein einzigartiges Lebkuchengebäck, das Sie als süßen Snack probieren sollten."
+          },
+          {
+            "name": "U Kanafasa",
+            "tip": "Ein Restaurant in Místek, das für seine traditionelle tschechische Küche bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kuba",
+            "tip": "Hajdinából és gombából készült hagyományos étel, gyakran karácsonykor fogyasztják."
+          },
+          {
+            "name": "Stramberki fülek",
+            "tip": "Egyedi mézeskalács-sütemény, amelyet érdemes megkóstolni édes csemegeként."
+          },
+          {
+            "name": "U Kanafasa",
+            "tip": "Hagyományos cseh konyhájáról ismert étterem Místekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kuba",
+            "tip": "Un fel de mâncare tradițional făcut din arpacaș și ciuperci, adesea consumat de Crăciun."
+          },
+          {
+            "name": "Urechi de Stramberk",
+            "tip": "Un produs de patiserie unic din turtă dulce pe care ar trebui să-l încercați ca gustare dulce."
+          },
+          {
+            "name": "U Kanafasa",
+            "tip": "Un restaurant din Místek cunoscut pentru bucătăria sa tradițională cehă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kuba",
+            "tip": "A traditional dish made from pearl barley and mushrooms, often eaten at Christmas."
+          },
+          {
+            "name": "Stramberk Ears",
+            "tip": "A unique gingerbread pastry you should try as a sweet snack."
+          },
+          {
+            "name": "U Kanafasa",
+            "tip": "A restaurant in Místek known for its traditional Czech cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Fluss Ostravice",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses, der die beiden Stadthälften trennt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schlosspark Frýdek",
+            "tip": "Finden Sie eine ruhige Bank im Park, der das Schloss umgibt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussicht vom Schlossturm",
+            "tip": "Genießen Sie die friedliche Aussicht über die Stadt und die Beskiden.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta az Ostravice folyó partján",
+            "tip": "Egy csendes séta a folyó mentén, amely elválasztja a város két felét.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Frýdeki Várkert",
+            "tip": "Keressen egy csendes padot a kastélyt körülvevő parkban.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a vártoronyból",
+            "tip": "Élvezze a békés kilátást a városra és a Beszkidekre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului Ostravice",
+            "tip": "O plimbare liniștită de-a lungul râului care separă cele două jumătăți ale orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Castelului Frýdek",
+            "tip": "Găsiți o bancă liniștită în parcul care înconjoară castelul.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere din turnul castelului",
+            "tip": "Bucurați-vă de priveliștea pașnică asupra orașului și a Munților Beskydy.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk by the Ostravice River",
+            "tip": "A quiet stroll along the river that separates the two halves of the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Frýdek Castle Park",
+            "tip": "Find a quiet bench in the park surrounding the castle.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the Castle Tower",
+            "tip": "Enjoy the peaceful view over the city and the Beskydy Mountains.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bauernmarkt",
+            "tip": "Suchen Sie nach lokalen Produkten und handwerklichen Erzeugnissen auf dem Hauptplatz."
+          },
+          {
+            "name": "Museumsshop im Schloss",
+            "tip": "Kaufen Sie einzigartige Souvenirs im Zusammenhang mit der Geschichte der Beskiden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői piac",
+            "tip": "Keressen helyi termékeket és kézműves árukat a főtéren."
+          },
+          {
+            "name": "Múzeumbolt a kastélyban",
+            "tip": "Vásároljon egyedi, a Beszkidek történelméhez kapcsolódó szuveníreket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața fermierilor",
+            "tip": "Căutați produse locale și artizanat în piața principală."
+          },
+          {
+            "name": "Magazinul muzeului din castel",
+            "tip": "Cumpărați suveniruri unice legate de istoria Munților Beskydy."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farmer's Market",
+            "tip": "Look for local produce and handicrafts in the main square."
+          },
+          {
+            "name": "Museum shop at the Castle",
+            "tip": "Buy unique souvenirs related to the history of the Beskydy Mountains."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Die Stadt besteht aus zwei Teilen, Frýdek und Místek, die durch den Fluss getrennt sind. Planen Sie Zeit für die Erkundung beider ein.",
+          "Prüfen Sie die Öffnungszeiten der Museen und Kirchen im Voraus.",
+          "Viele Schilder sind nur auf Tschechisch, daher ist eine Offline-Karte oder eine Übersetzungs-App nützlich."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "A város két részből áll, Frýdekből és Místekből, amelyeket a folyó választ el. Tervezzen időt mindkettő felfedezésére.",
+          "Előre ellenőrizze a múzeumok és templomok nyitvatartási idejét.",
+          "Sok tábla csak csehül van, ezért hasznos lehet egy offline térkép vagy egy fordítóalkalmazás."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge mult pe jos.",
+          "Orașul are două părți, Frýdek și Místek, separate de râu; planificați timp pentru a explora ambele.",
+          "Verificați în avans orele de deschidere ale muzeelor și bisericilor.",
+          "Multe indicatoare sunt doar în cehă, așa că o hartă offline sau o aplicație de traducere este utilă."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "The city is made of two parts, Frýdek and Místek, separated by the river; plan time to explore both.",
+          "Check the opening hours for museums and churches in advance.",
+          "Many signs are in Czech only, so having an offline map or a translation app is useful."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 16.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Platz der Freiheit (Místecké náměstí)",
+            "hu": "Szabadság tér (Místecké náměstí)",
+            "ro": "Piața Libertății (Místecké náměstí)",
+            "en": "Freedom Square (Místecké náměstí)"
+          },
+          "coords": [
+            18.3445,
+            49.6852
+          ],
+          "category": "squares",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Holen Sie sich Ihr Fahrrad und beginnen Sie die Tour im Herzen von Místek.",
+            "hu": "Vegye át a kerékpárt, és kezdje a túrát Místek szívében.",
+            "ro": "Luați-vă bicicleta și începeți turul în inima orașului Místek.",
+            "en": "Pick up your bike and start the tour in the heart of Místek."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Frýdek",
+            "hu": "Frýdeki kastély",
+            "ro": "Castelul Frýdek",
+            "en": "Frýdek Castle"
+          },
+          "coords": [
+            18.354,
+            49.688
+          ],
+          "category": "castles",
+          "arrive_at": "09:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad in der Nähe ab und nehmen Sie sich Zeit, das Schloss und das Museum zu erkunden.",
+            "hu": "Zárja le a kerékpárt a közelben, és szánjon időt a kastély és a múzeum felfedezésére.",
+            "ro": "Legați-vă bicicleta în apropiere și acordați-vă timp pentru a explora castelul și muzeul.",
+            "en": "Lock your bike nearby and take your time to explore the castle and museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika Mariä Heimsuchung",
+            "hu": "Sarlós Boldogasszony-bazilika",
+            "ro": "Bazilica Vizita Fecioarei Maria",
+            "en": "Basilica of the Visitation of Our Lady"
+          },
+          "coords": [
+            18.356,
+            49.687
+          ],
+          "category": "churches",
+          "arrive_at": "11:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um dieses wichtige religiöse Denkmal zu bewundern.",
+            "hu": "Egy rövid megálló, hogy megcsodálja ezt a fontos vallási műemléket.",
+            "ro": "O scurtă oprire pentru a admira acest important monument religios.",
+            "en": "A quick stop to admire this important religious monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Fluss",
+            "hu": "Ebéd a folyóparton",
+            "ro": "Prânz pe malul râului",
+            "en": "Lunch by the River"
+          },
+          "coords": [
+            18.349,
+            49.683
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Genießen Sie Ihr Mittagessen in einem Restaurant mit Blick auf den Fluss Ostravice.",
+            "hu": "Fogyassza el ebédjét egy, az Ostravice folyóra néző étteremben.",
+            "ro": "Savurați prânzul la un restaurant cu vedere la râul Ostravice.",
+            "en": "Enjoy your lunch at a restaurant with a view of the Ostravice river."
+          }
+        },
+        {
+          "name": {
+            "de": "Stausee Olešná",
+            "hu": "Olešná víztározó",
+            "ro": "Lacul de acumulare Olešná",
+            "en": "Olešná Reservoir"
+          },
+          "coords": [
+            18.3,
+            49.675
+          ],
+          "category": "natural features",
+          "arrive_at": "14:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5,
+          "tip_5lang": {
+            "de": "Ideal für eine entspannende Pause. Sie können schwimmen oder einfach die Natur genießen.",
+            "hu": "Ideális egy pihentető szünetre. Úszhat, vagy egyszerűen csak élvezheti a természetet.",
+            "ro": "Ideal pentru o pauză relaxantă. Puteți înota sau pur și simplu să vă bucurați de natură.",
+            "en": "Ideal for a relaxing break. You can go for a swim or just enjoy nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück zum Platz der Freiheit",
+            "hu": "Vissza a Szabadság térre",
+            "ro": "Înapoi la Piața Libertății",
+            "en": "Back to Freedom Square"
+          },
+          "coords": [
+            18.3445,
+            49.6852
+          ],
+          "category": "squares",
+          "arrive_at": "16:45",
+          "stay_min": 20,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour, wo Sie begonnen haben, und genießen Sie ein Abschlussgetränk.",
+            "hu": "Fejezze be a kerékpártúrát ott, ahol elkezdte, és igyon egy búcsúitalt.",
+            "ro": "Încheiați turul cu bicicleta acolo unde ați început și bucurați-vă de o băutură de final.",
+            "en": "End your bike tour where you started and enjoy a final drink."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt am Morgen im Zentrum von Místek. Sie radeln über den Fluss zum historischen Frýdek, um das Schloss und die Basilika zu erkunden. Gegen Mittag genießen Sie eine Mahlzeit an den Ufern des Flusses Ostravice. Am Nachmittag unternehmen Sie eine längere Fahrt zum wunderschönen Stausee Olešná, wo Sie sich entspannen und die Natur genießen können. Die Tour endet am späten Nachmittag wieder am Ausgangspunkt, dem Platz der Freiheit.",
+        "hu": "A kerékpártúra reggel Místek központjából indul. Átteker a folyón a történelmi Frýdekbe, hogy felfedezze a kastélyt és a bazilikát. Dél körül elfogyaszt egy ebédet az Ostravice folyó partján. Délután egy hosszabb útra indul a gyönyörű Olešná víztározóhoz, ahol pihenhet és élvezheti a természetet. A túra késő délután ér véget a kiindulópontnál, a Szabadság téren.",
+        "ro": "Turul cu bicicleta începe dimineața din centrul orașului Místek. Veți traversa râul spre istoricul Frýdek pentru a explora castelul și bazilica. În jurul prânzului, vă veți bucura de o masă pe malurile râului Ostravice. După-amiaza, veți face o plimbare mai lungă până la frumosul lac de acumulare Olešná, unde vă puteți relaxa și bucura de natură. Turul se încheie la sfârșitul după-amiezii, înapoi la punctul de plecare, Piața Libertății.",
+        "en": "Your bike tour starts in the morning from the center of Místek. You'll cycle across the river to historic Frýdek to explore the castle and basilica. Around noon, you'll enjoy a meal on the banks of the Ostravice River. In the afternoon, you'll take a longer ride to the beautiful Olešná Reservoir, where you can relax and enjoy nature. The tour concludes in the late afternoon back at the starting point, Freedom Square."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smažený sýr",
+            "tip": "Ein Klassiker der tschechischen Küche: panierter und gebratener Käse, meist mit Pommes und Sauce Tartar serviert."
+          },
+          {
+            "name": "Pivnice U Tří Moudrých",
+            "tip": "Eine lokale Kneipe, in der Sie nach Ihrer Radtour ein gutes tschechisches Bier genießen können."
+          },
+          {
+            "name": "Kofola",
+            "tip": "Probieren Sie das lokale Cola-Getränk, eine beliebte Alternative zu westlichen Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smažený sýr",
+            "tip": "A cseh konyha klasszikusa: rántott sajt, általában hasábburgonyával és tartármártással tálalva."
+          },
+          {
+            "name": "Pivnice U Tří Moudrých",
+            "tip": "Egy helyi kocsma, ahol a kerékpártúra után élvezhet egy jó cseh sört."
+          },
+          {
+            "name": ": Kofola",
+            "tip": "Kóstolja meg a helyi kóla italt, a nyugati márkák népszerű alternatíváját."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smažený sýr",
+            "tip": "Un clasic al bucătăriei cehe: cașcaval pane, de obicei servit cu cartofi prăjiți și sos tartar."
+          },
+          {
+            "name": "Pivnice U Tří Moudrých",
+            "tip": "O tavernă locală unde vă puteți bucura de o bere cehă bună după turul cu bicicleta."
+          },
+          {
+            "name": "Kofola",
+            "tip": "Încercați băutura locală de tip cola, o alternativă populară la mărcile occidentale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smažený sýr",
+            "tip": "A classic of Czech cuisine: breaded and fried cheese, usually served with fries and tartar sauce."
+          },
+          {
+            "name": "Pivnice U Tří Moudrých",
+            "tip": "A local pub where you can enjoy a good Czech beer after your bike tour."
+          },
+          {
+            "name": "Kofola",
+            "tip": "Try the local cola drink, a popular alternative to Western brands."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Olešná-Stausees",
+            "tip": "Der perfekte Ort, um dem Trubel der Stadt zu entfliehen und die Ruhe zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Radweg am Fluss",
+            "tip": "Die Radwege entlang des Flusses Ostravice sind oft ruhig und landschaftlich reizvoll.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Park am Schloss Frýdek",
+            "tip": "Machen Sie eine Pause im Schatten der Bäume im Schlosspark.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az Olešná-víztározó partja",
+            "tip": "Tökéletes hely a város nyüzsgésétől való elszakadásra és a csend élvezetére.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Folyóparti kerékpárút",
+            "tip": "Az Ostravice folyó menti kerékpárutak gyakran csendesek és festőiek.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Park a Frýdeki kastélynál",
+            "tip": "Pihenjen egyet a fák árnyékában a várkertben.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Olešná",
+            "tip": "Locul perfect pentru a scăpa de agitația orașului și a te bucura de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pista de biciclete de pe malul râului",
+            "tip": "Pistele de biciclete de-a lungul râului Ostravice sunt adesea liniștite și pitorești.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Parcul de la Castelul Frýdek",
+            "tip": "Luați o pauză la umbra copacilor din parcul castelului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shores of Olešná Reservoir",
+            "tip": "The perfect place to escape the city bustle and enjoy some tranquility.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Riverside bike path",
+            "tip": "The cycle paths along the Ostravice river are often quiet and scenic.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Park at Frýdek Castle",
+            "tip": "Take a break in the shade of the trees in the castle park.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "In der Stadt gibt es mehrere Geschäfte, in denen Sie Zubehör oder Souvenirs für Radfahrer finden können."
+          },
+          {
+            "name": "Lokale Delikatessen",
+            "tip": "Kaufen Sie regionale Spezialitäten wie Käse oder Wurst als Mitbringsel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "A városban több bolt is található, ahol kiegészítőket vagy szuveníreket vásárolhat kerékpárosoknak."
+          },
+          {
+            "name": "Helyi finomságok",
+            "tip": "Vásároljon helyi specialitásokat, például sajtot vagy kolbászt szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Există mai multe magazine în oraș unde puteți găsi accesorii sau suveniruri pentru bicicliști."
+          },
+          {
+            "name": "Delicatese locale",
+            "tip": "Cumpărați specialități regionale precum brânza sau cârnații ca suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "There are several shops in town where you can find accessories or souvenirs for cyclists."
+          },
+          {
+            "name": "Local Delicacies",
+            "tip": "Buy some regional specialties like cheese or sausages as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Nehmen Sie eine Flasche Wasser mit, besonders für die Fahrt zum Stausee.",
+          "Ein Helm wird für Ihre Sicherheit dringend empfohlen.",
+          "Achten Sie auf die ausgewiesenen Radwege und respektieren Sie die Fußgänger."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket és a gumikat.",
+          "Vigyen magával egy üveg vizet, különösen a víztározóhoz vezető útra.",
+          "A biztonsága érdekében erősen ajánlott a sisak viselése.",
+          "Figyeljen a kijelölt kerékpárutakra, és tartsa tiszteletben a gyalogosokat."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele și anvelopele.",
+          "Luați cu voi o sticlă de apă, mai ales pentru drumul spre lacul de acumulare.",
+          "O cască este puternic recomandată pentru siguranța dumneavoastră.",
+          "Fiți atenți la pistele de biciclete desemnate și respectați pietonii."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes and tires.",
+          "Bring a bottle of water, especially for the ride to the reservoir.",
+          "A helmet is strongly recommended for your safety.",
+          "Pay attention to the designated bike paths and be respectful of pedestrians."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 20.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Místek: Platz der Freiheit",
+            "hu": "Místek Klaszter: Szabadság tér",
+            "ro": "Cluster Místek: Piața Libertății",
+            "en": "Místek Cluster: Freedom Square"
+          },
+          "coords": [
+            18.344,
+            49.685
+          ],
+          "category": "squares",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Platzes und beginnen Sie Ihren Rundgang durch Místek.",
+            "hu": "Parkoljon a tér közelében, és kezdje meg a sétát Místekben.",
+            "ro": "Parcați lângă piață și începeți turul pe jos al orașului Místek.",
+            "en": "Park near the square and start your walking tour of Místek."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Johannes der Täufer",
+            "hu": "Keresztelő Szent János-templom",
+            "ro": "Biserica Sf. Ioan Botezătorul",
+            "en": "Church of St. John the Baptist"
+          },
+          "coords": [
+            18.342,
+            49.686
+          ],
+          "category": "churches",
+          "arrive_at": "09:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Hauptplatz entfernt.",
+            "hu": "Csak egy rövid séta a főtértől.",
+            "ro": "La doar o scurtă plimbare de piața principală.",
+            "en": "Just a short walk from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Jakobus-Kirche",
+            "hu": "Szent Jakab-templom",
+            "ro": "Biserica Sf. Iacob",
+            "en": "St. James Church"
+          },
+          "coords": [
+            18.34,
+            49.683
+          ],
+          "category": "churches",
+          "arrive_at": "10:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Setzen Sie Ihren Spaziergang zu dieser beeindruckenden gotischen Kirche fort.",
+            "hu": "Folytassa sétáját ehhez a lenyűgöző gótikus templomhoz.",
+            "ro": "Continuați plimbarea până la această impresionantă biserică gotică.",
+            "en": "Continue your walk to this impressive Gothic church."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Frýdek: Schloss Frýdek",
+            "hu": "Frýdek Klaszter: Frýdeki kastély",
+            "ro": "Cluster Frýdek: Castelul Frýdek",
+            "en": "Frýdek Cluster: Frýdek Castle"
+          },
+          "coords": [
+            18.354,
+            49.688
+          ],
+          "category": "castles",
+          "arrive_at": "11:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie nach Frýdek und parken Sie. Planen Sie Zeit für das Schloss und ein Mittagessen ein.",
+            "hu": "Vezessen Frýdekbe és parkoljon le. Tervezzen időt a kastélyra és egy ebédre.",
+            "ro": "Conduceți spre Frýdek și parcați. Alocați timp pentru castel și prânz.",
+            "en": "Drive to Frýdek and park. Allow time for the castle and lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika Mariä Heimsuchung",
+            "hu": "Sarlós Boldogasszony-bazilika",
+            "ro": "Bazilica Vizita Fecioarei Maria",
+            "en": "Basilica of the Visitation of Our Lady"
+          },
+          "coords": [
+            18.356,
+            49.687
+          ],
+          "category": "churches",
+          "arrive_at": "13:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Schloss aus leicht zu Fuß erreichbar.",
+            "hu": "A kastélytól könnyen megközelíthető gyalog.",
+            "ro": "Ușor de ajuns pe jos de la castel.",
+            "en": "An easy walk from the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Natur: Stausee Olešná",
+            "hu": "Természet Klaszter: Olešná víztározó",
+            "ro": "Cluster Natură: Lacul de acumulare Olešná",
+            "en": "Nature Cluster: Olešná Reservoir"
+          },
+          "coords": [
+            18.3,
+            49.675
+          ],
+          "category": "natural features",
+          "arrive_at": "14:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum See für einen entspannten Nachmittag in der Natur.",
+            "hu": "Vezessen a tóhoz egy pihentető délutáni természetjárásra.",
+            "ro": "Conduceți spre lac pentru o după-amiază relaxantă în natură.",
+            "en": "Drive to the lake for a relaxing afternoon in nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Abschiedsgetränk in Místek",
+            "hu": "Búcsúital Místekben",
+            "ro": "Băutură de adio în Místek",
+            "en": "Farewell drink in Místek"
+          },
+          "coords": [
+            18.345,
+            49.6855
+          ],
+          "category": "gastro",
+          "arrive_at": "16:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 9.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zurück ins Zentrum, um den Tag ausklingen zu lassen.",
+            "hu": "Vezessen vissza a központba, hogy lezárja a napot.",
+            "ro": "Conduceți înapoi în centru pentru a încheia ziua.",
+            "en": "Drive back to the center to round off the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt im Místek-Cluster, wo Sie das historische Zentrum zu Fuß erkunden. Am Vormittag fahren Sie zum Frýdek-Cluster, um das majestätische Schloss und die Basilika zu besichtigen und zu Mittag zu essen. Der Nachmittag ist für einen Ausflug zum Olešná-Stausee reserviert, einem perfekten Ort zum Entspannen. Am Abend kehren Sie ins Stadtzentrum zurück, um die Erlebnisse des Tages bei einem Getränk Revue passieren zu lassen.",
+        "hu": "A nap a Místek-klaszterben kezdődik, ahol gyalogosan fedezi fel a történelmi központot. Délelőtt átvezet a Frýdek-klaszterbe, hogy meglátogassa a fenséges kastélyt és a bazilikát, valamint ebédeljen. A délután az Olešná víztározóhoz tett kirándulásé, amely tökéletes hely a pihenésre. Este visszatér a városközpontba, hogy egy ital mellett áttekintse a nap élményeit.",
+        "ro": "Ziua începe în clusterul Místek, unde explorați centrul istoric pe jos. Dimineața târziu, veți conduce spre clusterul Frýdek pentru a vizita castelul maiestuos, bazilica și pentru a lua prânzul. După-amiaza este rezervată pentru o excursie la lacul de acumulare Olešná, un loc perfect pentru relaxare. Seara, vă întoarceți în centrul orașului pentru a reflecta la experiențele zilei la o băutură.",
+        "en": "The day begins in the Místek cluster, where you'll explore the historic center on foot. In the late morning, you'll drive to the Frýdek cluster to visit the majestic castle, the basilica, and have lunch. The afternoon is reserved for a trip to the Olešná Reservoir, a perfect spot for relaxation. In the evening, you return to the city center to reflect on the day's experiences over a drink."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ondráš Steak",
+            "tip": "Ein Schweinesteak in Kartoffelpufferteig, eine herzhafte lokale Spezialität."
+          },
+          {
+            "name": "Aquapark Olešná Restaurant",
+            "tip": "Praktisch für ein Mittagessen oder einen Snack, während Sie den See genießen."
+          },
+          {
+            "name": "Zámecká restaurace",
+            "tip": "Ein Restaurant in der Nähe des Schlosses Frýdek für ein gehobenes Esserlebnis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ondráš szelet",
+            "tip": "Sertésszelet burgonyalepény tésztában, egy kiadós helyi specialitás."
+          },
+          {
+            "name": "Aquapark Olešná Étterem",
+            "tip": "Kényelmes egy ebédhez vagy egy harapnivalóhoz, miközben élvezi a tavat."
+          },
+          {
+            "name": "Zámecká restaurace",
+            "tip": "A Frýdeki kastély közelében található étterem egy elegánsabb étkezési élményért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Friptură Ondráš",
+            "tip": "O friptură de porc în aluat de clătită de cartofi, o specialitate locală consistentă."
+          },
+          {
+            "name": "Restaurant Aquapark Olešná",
+            "tip": "Convenabil pentru prânz sau o gustare în timp ce vă bucurați de lac."
+          },
+          {
+            "name": "Zámecká restaurace",
+            "tip": "Un restaurant lângă Castelul Frýdek pentru o experiență culinară mai rafinată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ondráš Steak",
+            "tip": "A pork steak in potato pancake batter, a hearty local specialty."
+          },
+          {
+            "name": "Aquapark Olešná Restaurant",
+            "tip": "Convenient for lunch or a snack while enjoying the lake."
+          },
+          {
+            "name": "Zámecká restaurace",
+            "tip": "A restaurant near Frýdek Castle for a more upscale dining experience."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Uferpromenade am Olešná-Stausee",
+            "tip": "Machen Sie einen ruhigen Spaziergang am Wasser und genießen Sie die Aussicht auf die Beskiden.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhof bei der St.-Jakobus-Kirche",
+            "tip": "Ein überraschend friedlicher Ort mit historischer Atmosphäre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sonnenuntergang über den Beskiden",
+            "tip": "Finden Sie einen Aussichtspunkt außerhalb der Stadt, um den Sonnenuntergang zu beobachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sétány az Olešná-víztározónál",
+            "tip": "Tegyen egy csendes sétát a vízparton, és élvezze a Beszkidekre nyíló kilátást.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Temető a Szent Jakab-templomnál",
+            "tip": "Meglepően békés hely, történelmi hangulattal.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Naplemente a Beszkidek felett",
+            "tip": "Keressen egy kilátópontot a városon kívül a naplemente megtekintéséhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada de pe malul lacului Olešná",
+            "tip": "Faceți o plimbare liniștită pe malul apei, bucurându-vă de vederea spre Munții Beskydy.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul de lângă Biserica Sf. Iacob",
+            "tip": "Un loc surprinzător de pașnic, cu o atmosferă istorică.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Apus de soare peste Munții Beskydy",
+            "tip": "Găsiți un punct de belvedere în afara orașului pentru a privi apusul.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Olešná Reservoir Promenade",
+            "tip": "Take a quiet walk by the water, enjoying the view of the Beskydy Mountains.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cemetery at St. James Church",
+            "tip": "A surprisingly peaceful spot with a historical atmosphere.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sunset over the Beskydy Mountains",
+            "tip": "Find a viewpoint outside the city to watch the sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Frýda Einkaufszentrum",
+            "tip": "Für ein moderneres Einkaufserlebnis mit einer Vielzahl von Geschäften."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Suchen Sie in den Gassen der Altstadt nach kleinen Läden, die lokales Handwerk verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Frýda bevásárlóközpont",
+            "tip": "Egy modernebb vásárlási élményért, különféle üzletekkel."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keressen kis boltokat a történelmi központ sikátoraiban, amelyek helyi kézműves termékeket árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Frýda",
+            "tip": "Pentru o experiență de cumpărături mai modernă, cu o varietate de magazine."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Căutați pe străduțele din centrul vechi magazine mici care vând produse artizanale locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Frýda Shopping Centre",
+            "tip": "For a more modern shopping experience with a variety of stores."
+          },
+          {
+            "name": "Craft Shops",
+            "tip": "Look for small shops selling local crafts in the alleys of the old town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken kann in den Stadtzentren eine Herausforderung sein; nutzen Sie ausgewiesene Parkplätze oder Parkhäuser.",
+          "Planen Sie Ihre Route im Voraus, um den Verkehr zu Stoßzeiten zu vermeiden.",
+          "Ein GPS oder eine Navigations-App ist unerlässlich.",
+          "Denken Sie daran, wo Sie geparkt haben, bevor Sie einen Cluster zu Fuß erkunden."
+        ],
+        "hu": [
+          "A parkolás kihívást jelenthet a városközpontokban; használjon kijelölt parkolóhelyeket vagy parkolóházakat.",
+          "Tervezze meg előre az útvonalat, hogy elkerülje a csúcsforgalmat.",
+          "A GPS vagy egy navigációs alkalmazás elengedhetetlen.",
+          "Jegyezze meg, hol parkolt, mielőtt gyalogosan felfedez egy klasztert."
+        ],
+        "ro": [
+          "Parcarea poate fi o provocare în centrele orașelor; folosiți parcările desemnate sau garajele.",
+          "Planificați-vă traseul în avans pentru a evita traficul de la orele de vârf.",
+          "Un GPS sau o aplicație de navigație este esențială.",
+          "Amintiți-vă unde ați parcat înainte de a explora un cluster pe jos."
+        ],
+        "en": [
+          "Parking can be challenging in the city centers; use designated parking lots or garages.",
+          "Plan your route in advance to avoid rush hour traffic.",
+          "A GPS or navigation app is essential.",
+          "Remember where you parked before exploring a cluster on foot."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 6.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Místek: Platz der Freiheit",
+            "hu": "Místek Klaszter: Szabadság tér",
+            "ro": "Cluster Místek: Piața Libertății",
+            "en": "Místek Cluster: Freedom Square"
+          },
+          "coords": [
+            18.344,
+            49.685
+          ],
+          "category": "squares",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie am Hauptplatz von Místek, der von vielen Buslinien angefahren wird.",
+            "hu": "Kezdje Místek főterén, amelyet számos buszjárat érint.",
+            "ro": "Începeți din piața principală din Místek, deservită de multe linii de autobuz.",
+            "en": "Start at the main square in Místek, which is served by many bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Johannes der Täufer",
+            "hu": "Keresztelő Szent János-templom",
+            "ro": "Biserica Sf. Ioan Botezătorul",
+            "en": "Church of St. John the Baptist"
+          },
+          "coords": [
+            18.342,
+            49.686
+          ],
+          "category": "churches",
+          "arrive_at": "09:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese Kirche ist nur einen kurzen Spaziergang vom Platz entfernt.",
+            "hu": "Ez a templom csak egy rövid sétára van a tértől.",
+            "ro": "Această biserică este la doar o scurtă plimbare de piață.",
+            "en": "This church is just a short walk from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Frýdek: Schlossplatz",
+            "hu": "Frýdek Klaszter: Vár tér",
+            "ro": "Cluster Frýdek: Piața Castelului",
+            "en": "Frýdek Cluster: Castle Square"
+          },
+          "coords": [
+            18.353,
+            49.6875
+          ],
+          "category": "squares",
+          "arrive_at": "10:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus nach Frýdek. Die Haltestelle ist in der Nähe des Schlossplatzes, ideal für ein Mittagessen.",
+            "hu": "Menjen busszal Frýdekbe. A megálló a Vár tér közelében van, ideális egy ebédhez.",
+            "ro": "Luați un autobuz spre Frýdek. Stația este aproape de Piața Castelului, perfectă pentru prânz.",
+            "en": "Take a bus to Frýdek. The stop is near the Castle Square, perfect for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Frýdek",
+            "hu": "Frýdeki kastély",
+            "ro": "Castelul Frýdek",
+            "en": "Frýdek Castle"
+          },
+          "coords": [
+            18.354,
+            49.688
+          ],
+          "category": "castles",
+          "arrive_at": "12:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie das Schloss und seine Sammlungen nach dem Mittagessen.",
+            "hu": "Ebéd után fedezze fel a kastélyt és gyűjteményeit.",
+            "ro": "Explorați castelul și colecțiile sale după prânz.",
+            "en": "Explore the castle and its collections after lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika Mariä Heimsuchung",
+            "hu": "Sarlós Boldogasszony-bazilika",
+            "ro": "Bazilica Vizita Fecioarei Maria",
+            "en": "Basilica of the Visitation of Our Lady"
+          },
+          "coords": [
+            18.356,
+            49.687
+          ],
+          "category": "churches",
+          "arrive_at": "14:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang führt Sie zu diesem beeindruckenden Wallfahrtsort.",
+            "hu": "Egy rövid séta elvezeti Önt ehhez a lenyűgöző zarándokhelyhez.",
+            "ro": "O scurtă plimbare vă duce la acest impresionant loc de pelerinaj.",
+            "en": "A short walk will take you to this impressive pilgrimage site."
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück nach Místek",
+            "hu": "Vissza Místekbe",
+            "ro": "Înapoi la Místek",
+            "en": "Return to Místek"
+          },
+          "coords": [
+            18.34,
+            49.683
+          ],
+          "category": "churches",
+          "arrive_at": "15:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.8,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück nach Místek, um die St.-Jakobus-Kirche zu besichtigen und den Tag ausklingen zu lassen.",
+            "hu": "Menjen busszal vissza Místekbe, hogy megnézze a Szent Jakab-templomot és lezárja a napot.",
+            "ro": "Luați autobuzul înapoi spre Místek pentru a vizita Biserica Sf. Iacob și a încheia ziua.",
+            "en": "Take the bus back to Místek to visit St. James Church and end your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit öffentlichen Verkehrsmitteln im Herzen von Místek. Nach der Erkundung des ersten Clusters zu Fuß nehmen Sie am späten Vormittag einen Bus zum Frýdek-Cluster. Dort genießen Sie Ihr Mittagessen und besuchen das Schloss und die Basilika. Am Nachmittag bringt Sie ein weiterer Bus zurück nach Místek, wo Sie den Rest des Tages verbringen und die verbleibenden Sehenswürdigkeiten erkunden.",
+        "hu": "Kezdje a napot tömegközlekedéssel Místek szívében. Miután gyalogosan felfedezte az első klasztert, a délelőtt folyamán busszal utazzon a Frýdek-klaszterbe. Ott ebédeljen, és látogassa meg a kastélyt és a bazilikát. Délután egy másik busz visszaviszi Místekbe, ahol a nap hátralévő részét tölti, felfedezve a fennmaradó látnivalókat.",
+        "ro": "Începeți ziua folosind transportul public în inima orașului Místek. După ce explorați primul cluster pe jos, luați un autobuz spre clusterul Frýdek dimineața târziu. Acolo, bucurați-vă de prânz și vizitați castelul și bazilica. După-amiaza, un alt autobuz vă va duce înapoi la Místek, unde veți petrece restul zilei explorând obiectivele rămase.",
+        "en": "Start your day using public transport in the heart of Místek. After exploring the first cluster on foot, take a bus to the Frýdek cluster in the late morning. There, enjoy lunch and visit the castle and basilica. In the afternoon, another bus will take you back to Místek, where you'll spend the rest of the day exploring the remaining sights."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bramboráky",
+            "tip": "Knusprige Kartoffelpuffer, ein beliebter Snack auf Märkten und in Pubs."
+          },
+          {
+            "name": "Radegast",
+            "tip": "Probieren Sie das lokal gebraute Bier, das in der gesamten Region sehr beliebt ist."
+          },
+          {
+            "name": "Restaurace a penzion U Námořníka",
+            "tip": "Ein gut bewertetes Restaurant in Frýdek, das eine Mischung aus tschechischer und internationaler Küche anbietet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bramboráky",
+            "tip": "Ropogós burgonyalepény, népszerű harapnivaló a piacokon és a kocsmákban."
+          },
+          {
+            "name": "Radegast",
+            "tip": "Kóstolja meg a helyben főzött sört, amely nagyon népszerű az egész régióban."
+          },
+          {
+            "name": "Restaurace a penzion U Námořníka",
+            "tip": "Jó értékelésű étterem Frýdekben, amely cseh és nemzetközi ételek keverékét kínálja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bramboráky",
+            "tip": "Clătite de cartofi crocante, o gustare populară la piețe și în pub-uri."
+          },
+          {
+            "name": "Radegast",
+            "tip": "Încercați berea produsă local, care este foarte populară în întreaga regiune."
+          },
+          {
+            "name": "Restaurace a penzion U Námořníka",
+            "tip": "Un restaurant bine cotat în Frýdek, care oferă un amestec de bucătărie cehă și internațională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bramboráky",
+            "tip": "Crispy potato pancakes, a popular snack at markets and in pubs."
+          },
+          {
+            "name": "Radegast",
+            "tip": "Try the locally brewed beer, which is very popular throughout the region."
+          },
+          {
+            "name": "Restaurace a penzion U Námořníka",
+            "tip": "A well-rated restaurant in Frýdek offering a mix of Czech and international cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt",
+            "tip": "Nutzen Sie die Fahrt zwischen den Stadtteilen, um die Stadt aus einer anderen Perspektive zu sehen und sich auszuruhen.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Sady Bedřicha Smetany",
+            "tip": "Ein Park in der Nähe des Zentrums von Místek, ideal für eine kurze Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirchplatz der Basilika",
+            "tip": "Der Bereich um die Basilika ist oft ruhig und lädt zum Nachdenken ein.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás",
+            "tip": "Használja ki a városrészek közötti utazást, hogy más szemszögből lássa a várost és pihenjen.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Smetana park",
+            "tip": "Egy park Místek központjának közelében, ideális egy rövid szünetre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bazilika tere",
+            "tip": "A bazilika környéke gyakran csendes és elgondolkodtató.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătoria cu autobuzul",
+            "tip": "Folosiți călătoria între cartiere pentru a vedea orașul dintr-o altă perspectivă și pentru a vă odihni.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Parcul Smetana",
+            "tip": "Un parc aproape de centrul orașului Místek, ideal pentru o scurtă pauză.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Piața Bazilicii",
+            "tip": "Zona din jurul bazilicii este adesea liniștită și contemplativă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus Ride",
+            "tip": "Use the journey between districts to see the city from a different perspective and get some rest.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Smetana Park",
+            "tip": "A park near the center of Místek, ideal for a short break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Basilica Square",
+            "tip": "The area around the basilica is often quiet and contemplative.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirstände in der Nähe des Schlosses",
+            "tip": "Hier finden Sie typische Souvenirs und Postkarten."
+          },
+          {
+            "name": "Tabak Trafika",
+            "tip": "Kaufen Sie Fahrkarten für den öffentlichen Nahverkehr und vielleicht eine lokale Zeitung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvenír standok a kastély közelében",
+            "tip": "Itt tipikus ajándéktárgyakat és képeslapokat talál."
+          },
+          {
+            "name": "Trafik",
+            "tip": "Vásároljon tömegközlekedési jegyeket és esetleg egy helyi újságot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Standuri de suveniruri lângă castel",
+            "tip": "Aici veți găsi suveniruri tipice și cărți poștale."
+          },
+          {
+            "name": "Tabac Trafika",
+            "tip": "Cumpărați bilete de transport public și poate un ziar local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir stands near the castle",
+            "tip": "Here you will find typical souvenirs and postcards."
+          },
+          {
+            "name": "Tabak Trafika",
+            "tip": "Buy public transport tickets and maybe a local newspaper."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr, um Geld zu sparen.",
+          "Laden Sie die Fahrplan-App herunter oder machen Sie ein Foto vom Fahrplan an der Haltestelle.",
+          "Busse können voll sein, seien Sie also auf Stoßzeiten vorbereitet.",
+          "Validieren Sie Ihr Ticket beim Einsteigen in den Bus, um eine Strafe zu vermeiden."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
+          "Töltse le a menetrend alkalmazást, vagy fényképezze le a menetrendet a megállóban.",
+          "A buszok zsúfoltak lehetnek, ezért készüljön fel a csúcsidőre.",
+          "Érvényesítse a jegyét a buszra szálláskor, hogy elkerülje a büntetést."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru a economisi bani.",
+          "Descărcați aplicația cu orare sau faceți o fotografie a orarului la stație.",
+          "Autobuzele pot fi aglomerate, așa că fiți pregătiți pentru orele de vârf.",
+          "Validați-vă biletul la urcarea în autobuz pentru a evita o amendă."
+        ],
+        "en": [
+          "Buy a day pass for public transport to save money.",
+          "Download the timetable app or take a picture of the schedule at the stop.",
+          "Buses can be crowded, so be prepared for peak hours.",
+          "Validate your ticket when you board the bus to avoid a fine."
+        ]
+      }
+    }
+  }
+}

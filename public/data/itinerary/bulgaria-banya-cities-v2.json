@@ -1,0 +1,1398 @@
+{
+  "city_id": "bulgaria-banya-cities-v2",
+  "anchor": {
+    "name": "Banya",
+    "coords": [
+      24.8167,
+      42.5333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Denkmal für die Gründer",
+            "hu": "Alapítók emlékműve",
+            "ro": "Monumentul Fondatorilor",
+            "en": "Monument to the Founders"
+          },
+          "coords": [
+            24.8165,
+            42.5335
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Historisches Museum",
+            "hu": "Történeti Múzeum",
+            "ro": "Muzeul de Istorie",
+            "en": "Historical Museum"
+          },
+          "coords": [
+            24.8175,
+            42.5345
+          ],
+          "category": "museums",
+          "arrive_at": "09:31",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Städtisches Mineralbad",
+            "hu": "Városi ásványfürdő",
+            "ro": "Baia Minerală Municipală",
+            "en": "Municipal Mineral Bath"
+          },
+          "coords": [
+            24.8188,
+            42.535
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:19",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4
+        },
+        {
+          "name": {
+            "de": "Mineralquellen von Banya",
+            "hu": "Banya ásványvízforrásai",
+            "ro": "Izvoarele Minerale din Banya",
+            "en": "Mineral Springs of Banya"
+          },
+          "coords": [
+            24.8192,
+            42.5348
+          ],
+          "category": "natural features",
+          "arrive_at": "12:41",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1
+        },
+        {
+          "name": {
+            "de": "Kirche St. Konstantin und Helena",
+            "hu": "Szent Konstantin és Elena templom",
+            "ro": "Biserica Sf. Constantin și Elena",
+            "en": "Church of St. Constantine and Helena"
+          },
+          "coords": [
+            24.815,
+            42.532
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:22",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8
+        },
+        {
+          "name": {
+            "de": "Park Zar Boris III.",
+            "hu": "III. Borisz cár park",
+            "ro": "Parcul Țarul Boris al III-lea",
+            "en": "Tsar Boris III Park"
+          },
+          "coords": [
+            24.822,
+            42.538
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:26",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2
+        },
+        {
+          "name": {
+            "de": "Königliche Villa von Zar Boris III.",
+            "hu": "III. Borisz cár királyi villája",
+            "ro": "Vila Regală a Țarului Boris al III-lea",
+            "en": "Royal Villa of Tsar Boris III"
+          },
+          "coords": [
+            24.823,
+            42.539
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:47",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Weinkeller Banya",
+            "hu": "Banyai borospince",
+            "ro": "Crama Banya",
+            "en": "Banya Winery"
+          },
+          "coords": [
+            24.812,
+            42.529
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:41",
+          "stay_min": 44,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang am Denkmal der Gründer und tauchen Sie im Historischen Museum in die lokale Geschichte ein. Spüren Sie die Wärme der Vergangenheit, während Sie durch die Exponate wandern.\nAm Mittag lockt das Städtische Mineralbad mit seiner berühmten Architektur und den heilenden Mineralquellen in der Nähe. Es ist der perfekte Ort, um neue Energie zu tanken und die einzigartige Atmosphäre des Kurortes zu genießen.\nDer Nachmittag ist einem Spaziergang zur Kirche St. Konstantin und Helena gewidmet, gefolgt von einer entspannenden Zeit im üppigen Park Zar Boris III. Besuchen Sie die nahegelegene Königliche Villa, um einen Hauch von königlicher Geschichte zu erleben.\nBeenden Sie Ihren Tag im Weinkeller von Banya. Probieren Sie lokale Weine und reflektieren Sie die Schönheit und Ruhe dieses charmanten bulgarischen Ortes, während die Sonne untergeht.",
+        "hu": "Kezdje a sétát az Alapítók emlékművénél, majd merüljön el a helyi történelemben a Történeti Múzeumban. Érezze a múlt melegét, miközben a kiállítási tárgyak között bolyong.\nDélben a Városi Ásványfürdő hívogat híres építészetével és a közeli gyógyító ásványvízforrásokkal. Tökéletes hely a feltöltődésre és a fürdőváros egyedi hangulatának élvezetére.\nA délutánt a Szent Konstantin és Elena templomhoz vezető sétának szenteljük, amit egy pihentető időtöltés követ a buja III. Borisz cár parkban. Látogasson el a közeli királyi villába egy csipetnyi királyi történelemért.\nZárja a napot a Banyai Borospincében. Kóstoljon helyi borokat, és elmélkedjen ennek a bájos bolgár városnak a szépségén és nyugalmán, miközben a nap lenyugszik.",
+        "ro": "Începeți plimbarea la Monumentul Fondatorilor și pătrundeți în istoria locală la Muzeul de Istorie. Simțiți căldura trecutului în timp ce vă plimbați printre exponate.\nLa amiază, Baia Minerală Municipală vă atrage cu arhitectura sa renumită și izvoarele minerale vindecătoare din apropiere. Este un loc perfect pentru a vă reîncărca și a vă bucura de atmosfera unică a stațiunii balneare.\nDupă-amiaza este dedicată unei plimbări la Biserica Sf. Constantin și Elena, urmată de un moment de relaxare în luxuriantul Parc Țarul Boris al III-lea. Vizitați Vila Regală din apropiere pentru o notă de istorie regală.\nÎncheiați ziua la Crama Banya. Degustați vinuri locale și reflectați asupra frumuseții și liniștii acestui fermecător oraș bulgar, în timp ce soarele apune.",
+        "en": "Start your walking tour at the Monument to the Founders and delve into local history at the Historical Museum. Feel the warmth of the past as you wander through the exhibits.\nAt midday, the Municipal Mineral Bath beckons with its renowned architecture and the healing mineral springs nearby. It's a perfect spot to recharge and enjoy the unique spa town atmosphere.\nThe afternoon is for a stroll to the Church of St. Constantine and Helena, followed by relaxing time in the lush Tsar Boris III Park. Visit the nearby Royal Villa for a touch of royal history.\nConclude your day at the Banya Winery. Taste local wines and reflect on the beauty and tranquility of this charming Bulgarian town as the sun sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kavarma",
+            "tip": "Probieren Sie diesen traditionellen, langsam gekochten Eintopf aus Schweine- oder Hühnerfleisch und Gemüse, der oft in einem Tontopf serviert wird."
+          },
+          {
+            "name": "Banitsa mit Mineralwasser",
+            "tip": "Eine lokale Spezialität. Genießen Sie das käsige Gebäck mit einem Glas des berühmten Mineralwassers von Banya."
+          },
+          {
+            "name": "Restaurant 'Starata Kashta'",
+            "tip": "Bekannt für seine authentische bulgarische Küche in einem traditionellen Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kavarma",
+            "tip": "Kóstolja meg ezt a hagyományos, lassan főzött sertés- vagy csirkehúsos, zöldséges ragut, amit gyakran agyagedényben szolgálnak fel."
+          },
+          {
+            "name": "Banitsa ásványvízzel",
+            "tip": "Helyi különlegesség. Fogyassza el a sajtos péksüteményt egy pohár híres banyai ásványvízzel."
+          },
+          {
+            "name": "„Starata Kashta” étterem",
+            "tip": "Hagyományos környezetben kínált autentikus bolgár konyhájáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kavarma",
+            "tip": "Încercați această tocană tradițională, gătită lent, din carne de porc sau pui și legume, adesea servită într-un vas de lut."
+          },
+          {
+            "name": "Banitsa cu apă minerală",
+            "tip": "O specialitate locală. Savurați plăcinta cu brânză alături de un pahar din renumita apă minerală din Banya."
+          },
+          {
+            "name": "Restaurant 'Starata Kashta'",
+            "tip": "Renumit pentru bucătăria sa bulgară autentică într-un cadru tradițional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kavarma",
+            "tip": "Try this traditional slow-cooked pork or chicken and vegetable stew, often served in a clay pot."
+          },
+          {
+            "name": "Banitsa with mineral water",
+            "tip": "A local specialty. Enjoy the cheesy pastry with a glass of Banya's famous mineral water."
+          },
+          {
+            "name": "Restaurant 'Starata Kashta'",
+            "tip": "Known for its authentic Bulgarian cuisine in a traditional setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park Zar Boris III.",
+            "tip": "Finden Sie eine ruhige Bank unter den alten Bäumen, um dem Trubel zu entfliehen.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Ufer des Flusses Strjama",
+            "tip": "Ein kurzer Spaziergang vom Zentrum entfernt, bietet der Fluss eine friedliche Kulisse für einen Moment der Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rund um die Mineralquellen",
+            "tip": "Am frühen Morgen oder späten Nachmittag ist die Gegend um die Quellen besonders ruhig.",
+            "emoji": "💧"
+          }
+        ],
+        "hu": [
+          {
+            "name": "III. Borisz cár park",
+            "tip": "Keressen egy csendes padot az öreg fák alatt, hogy elmeneküljön a nyüzsgés elől.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "A Stryama folyó partja",
+            "tip": "Egy rövid sétára a központtól a folyó békés hátteret biztosít egy pillanatnyi nyugalomhoz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Az ásványvízforrások környéke",
+            "tip": "Kora reggel vagy késő délután a források környéke különösen csendes.",
+            "emoji": "💧"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Țarul Boris al III-lea",
+            "tip": "Găsiți o bancă liniștită sub copacii bătrâni pentru a scăpa de agitație.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Malurile râului Stryama",
+            "tip": "La o scurtă plimbare de centru, râul oferă un cadru pașnic pentru un moment de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "În jurul izvoarelor minerale",
+            "tip": "Dimineața devreme sau după-amiaza târziu, zona din jurul izvoarelor este deosebit de liniștită.",
+            "emoji": "💧"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tsar Boris III Park",
+            "tip": "Find a quiet bench under the old trees to escape the hustle and bustle.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Banks of the Stryama River",
+            "tip": "A short walk from the center, the river provides a peaceful backdrop for a moment of calm.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Around the Mineral Springs",
+            "tip": "In the early morning or late afternoon, the area around the springs is particularly quiet.",
+            "emoji": "💧"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Halten Sie Ausschau nach Verkäufern, die Honig aus der Region anbieten, der für seinen reichen Geschmack bekannt ist."
+          },
+          {
+            "name": "Kräutertees",
+            "tip": "Die Region ist reich an Kräutern; suchen Sie nach lokalen Mischungen, die in kleinen Geschäften verkauft werden."
+          },
+          {
+            "name": "Handgefertigte Keramik",
+            "tip": "Einige Kunsthandwerker verkaufen traditionelle bulgarische Keramik, die ein schönes Souvenir darstellt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Keresse a helyi mézet árusítókat, amely gazdag ízéről ismert."
+          },
+          {
+            "name": "Gyógyteák",
+            "tip": "A régió gyógynövényekben gazdag; keressen helyi keverékeket a kis boltokban."
+          },
+          {
+            "name": "Kézzel készített kerámia",
+            "tip": "Néhány kézműves hagyományos bolgár kerámiát árul, ami szép ajándéktárgy lehet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Căutați vânzători care oferă miere din regiune, cunoscută pentru gustul său bogat."
+          },
+          {
+            "name": "Ceaiuri din plante",
+            "tip": "Regiunea este bogată în ierburi; căutați amestecuri locale vândute în magazinele mici."
+          },
+          {
+            "name": "Ceramică artizanală",
+            "tip": "Unii artizani vând ceramică tradițională bulgară, care reprezintă un suvenir frumos."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Look for vendors selling honey from the region, known for its rich flavor."
+          },
+          {
+            "name": "Herbal Teas",
+            "tip": "The region is rich in herbs; look for local blends sold in small shops."
+          },
+          {
+            "name": "Handmade Pottery",
+            "tip": "Some artisans sell traditional Bulgarian pottery, which makes for a beautiful souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in den älteren Teilen der Stadt uneben sein kann.",
+          "Nehmen Sie eine wiederverwendbare Flasche mit, um sie an den öffentlichen Mineralwasserbrunnen aufzufüllen.",
+          "Prüfen Sie die Öffnungszeiten des Museums und der Villa im Voraus, da diese saisonal variieren können.",
+          "Die meisten Sehenswürdigkeiten liegen nahe beieinander, was Banya ideal für eine Erkundung zu Fuß macht."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakövek a város régebbi részein egyenetlenek lehetnek.",
+          "Hozzon magával egy újratölthető palackot, hogy feltölthesse a nyilvános ásványvizes kutaknál.",
+          "Előre ellenőrizze a múzeum és a villa nyitvatartási idejét, mivel azok szezonálisan változhatnak.",
+          "A legtöbb látnivaló közel van egymáshoz, így Banya ideális a gyalogos felfedezéshez."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din părțile mai vechi ale orașului poate fi denivelat.",
+          "Luați o sticlă reutilizabilă pentru a o umple de la fântânile publice cu apă minerală.",
+          "Verificați în avans orele de funcționare ale muzeului și vilei, deoarece acestea pot varia în funcție de sezon.",
+          "Majoritatea atracțiilor sunt apropiate una de cealaltă, ceea ce face ca Banya să fie ideală pentru explorarea pe jos."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the older parts of town can be uneven.",
+          "Bring a reusable bottle to fill up at the public mineral water fountains.",
+          "Check the opening hours for the museum and villa in advance, as they can be seasonal.",
+          "Most sights are clustered together, making Banya ideal for exploring on foot."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Park Zar Boris III.",
+            "hu": "III. Borisz cár park",
+            "ro": "Parcul Țarul Boris al III-lea",
+            "en": "Tsar Boris III Park"
+          },
+          "coords": [
+            24.822,
+            42.538
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Königliche Villa von Zar Boris III.",
+            "hu": "III. Borisz cár királyi villája",
+            "ro": "Vila Regală a Țarului Boris al III-lea",
+            "en": "Royal Villa of Tsar Boris III"
+          },
+          "coords": [
+            24.823,
+            42.539
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:13",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Städtisches Mineralbad",
+            "hu": "Városi ásványfürdő",
+            "ro": "Baia Minerală Municipală",
+            "en": "Municipal Mineral Bath"
+          },
+          "coords": [
+            24.8188,
+            42.535
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:01",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3
+        },
+        {
+          "name": {
+            "de": "Historisches Museum",
+            "hu": "Történeti Múzeum",
+            "ro": "Muzeul de Istorie",
+            "en": "Historical Museum"
+          },
+          "coords": [
+            24.8175,
+            42.5345
+          ],
+          "category": "museums",
+          "arrive_at": "12:24",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Denkmal für die Gründer",
+            "hu": "Alapítók emlékműve",
+            "ro": "Monumentul Fondatorilor",
+            "en": "Monument to the Founders"
+          },
+          "coords": [
+            24.8165,
+            42.5335
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:06",
+          "stay_min": 15,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Kirche St. Konstantin und Helena",
+            "hu": "Szent Konstantin és Elena templom",
+            "ro": "Biserica Sf. Constantin și Elena",
+            "en": "Church of St. Constantine and Helena"
+          },
+          "coords": [
+            24.815,
+            42.532
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:24",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4
+        },
+        {
+          "name": {
+            "de": "Weinkeller Banya",
+            "hu": "Banyai borospince",
+            "ro": "Crama Banya",
+            "en": "Banya Winery"
+          },
+          "coords": [
+            24.805,
+            42.525
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:23",
+          "stay_min": 57,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.2
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag mit einer gemütlichen Fahrt durch den Park Zar Boris III und bewundern Sie die königliche Villa. Die Morgenluft ist perfekt für eine entspannte Erkundung der grünen Oasen der Stadt.\nZur Mittagszeit radeln Sie ins Zentrum, um das berühmte Städtische Mineralbad zu besuchen und anschließend im Historischen Museum mehr über die reiche Vergangenheit von Banya zu erfahren.\nAm Nachmittag führt Sie Ihre Route zu den Wahrzeichen der Stadt, dem Denkmal der Gründer und der historischen Kirche St. Konstantin und Helena. Diese Stopps bieten großartige Fotomotive.\nBeenden Sie Ihre Radtour mit einer längeren Fahrt zum Weinkeller von Banya. Belohnen Sie sich mit einer Weinprobe und genießen Sie die ländliche Umgebung, ein perfekter Abschluss für einen aktiven Tag.",
+        "hu": "Kezdje a biciklis napot egy kellemes tekeréssel a III. Borisz cár parkban, és csodálja meg a királyi villát. A reggeli levegő tökéletes a város zöld oázisainak laza felfedezéséhez.\nDélidőben tekerjen be a központba, hogy meglátogassa a híres Városi Ásványfürdőt, majd a Történeti Múzeumban többet tudjon meg Banya gazdag múltjáról.\nDélután az útvonal a város nevezetességeihez, az Alapítók emlékművéhez és a történelmi Szent Konstantin és Elena templomhoz vezet. Ezek a megállók remek fotózási lehetőségeket kínálnak.\nZárja a kerékpártúrát egy hosszabb tekeréssel a Banyai Borospincéhez. Jutalmazza meg magát egy borkóstolóval, és élvezze a vidéki környezetet, ami tökéletes lezárása egy aktív napnak.",
+        "ro": "Începeți ziua de ciclism cu o plimbare relaxantă prin Parcul Țarul Boris al III-lea și admirați Vila Regală. Aerul de dimineață este perfect pentru o explorare relaxată a oazelor verzi ale orașului.\nLa prânz, pedalați spre centru pentru a vizita renumita Baie Minerală Municipală, apoi aflați mai multe despre trecutul bogat al orașului Banya la Muzeul de Istorie.\nDupă-amiaza, traseul vă duce la reperele orașului, Monumentul Fondatorilor și istorica Biserică Sf. Constantin și Elena. Aceste opriri oferă oportunități excelente pentru fotografii.\nÎncheiați turul cu bicicleta cu o plimbare mai lungă până la Crama Banya. Răsplătiți-vă cu o degustare de vinuri și bucurați-vă de peisajul rural, o încheiere perfectă pentru o zi activă.",
+        "en": "Start your cycling day with a leisurely ride through Tsar Boris III Park and admire the Royal Villa. The morning air is perfect for a relaxed exploration of the town's green oases.\nAt noon, cycle to the center to visit the famous Municipal Mineral Bath, then learn about Banya's rich past at the Historical Museum.\nIn the afternoon, your route takes you to the town's landmarks, the Monument to the Founders and the historic Church of St. Constantine and Helena. These stops offer great photo opportunities.\nConclude your bike tour with a longer ride to the Banya Winery. Reward yourself with a wine tasting and enjoy the rural surroundings, a perfect end to an active day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Shopska-Salat",
+            "tip": "Ein erfrischender Salat aus Tomaten, Gurken, Paprika und Sirene-Käse, perfekt für eine leichte Mahlzeit für Radfahrer."
+          },
+          {
+            "name": "Lokaler Wein",
+            "tip": "Probieren Sie den Misket-Wein aus der Region, der für sein blumiges Aroma bekannt ist."
+          },
+          {
+            "name": "Mehana 'Banski Han'",
+            "tip": "Eine traditionelle Taverne, die herzhafte Gerichte serviert, um nach einer Radtour wieder zu Kräften zu kommen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sopszka saláta",
+            "tip": "Paradicsomból, uborkából, paprikából és szirene sajtból készült frissítő saláta, tökéletes könnyű étel kerékpárosoknak."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "Kóstolja meg a régió misket borát, amely virágos aromájáról ismert."
+          },
+          {
+            "name": "„Banski Han” Mehana",
+            "tip": "Hagyományos taverna, ahol bőséges ételeket szolgálnak fel, hogy feltöltődjön egy kerékpártúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Salată Shopska",
+            "tip": "O salată răcoritoare din roșii, castraveți, ardei și brânză Sirene, perfectă pentru o masă ușoară pentru bicicliști."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Încercați vinul Misket din regiune, cunoscut pentru aroma sa florală."
+          },
+          {
+            "name": "Mehana 'Banski Han'",
+            "tip": "O tavernă tradițională care servește mâncăruri consistente pentru a vă reface energia după un tur cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shopska Salad",
+            "tip": "A refreshing salad of tomatoes, cucumbers, peppers, and Sirene cheese, perfect for a light cyclist's meal."
+          },
+          {
+            "name": "Local Wine",
+            "tip": "Try the Misket wine from the region, known for its floral aroma."
+          },
+          {
+            "name": "Mehana 'Banski Han'",
+            "tip": "A traditional tavern serving hearty dishes to refuel after a bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Picknick im Park Zar Boris III.",
+            "tip": "Der Park bietet viele schattige Plätze, die ideal für eine ruhige Pause und ein Picknick sind.",
+            "emoji": "🧺"
+          },
+          {
+            "name": "Aussichtspunkte außerhalb der Stadt",
+            "tip": "Fahren Sie ein wenig aus der Stadt heraus in die umliegenden Hügel für atemberaubende Ausblicke.",
+            "emoji": "🌄"
+          },
+          {
+            "name": "Kirchhof von St. Konstantin und Helena",
+            "tip": "Der Bereich um die Kirche ist oft friedlich und lädt zum Nachdenken ein.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piknik a III. Borisz cár parkban",
+            "tip": "A park számos árnyékos helyet kínál, amelyek ideálisak egy csendes pihenőhöz és piknikhez.",
+            "emoji": "🧺"
+          },
+          {
+            "name": "Kilátópontok a városon kívül",
+            "tip": "Tekerjen ki egy kicsit a városból a környező dombokra a lélegzetelállító kilátásért.",
+            "emoji": "🌄"
+          },
+          {
+            "name": "A Szent Konstantin és Elena templom kertje",
+            "tip": "A templom környéke gyakran békés és elgondolkodtató.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Picnic în Parcul Țarul Boris al III-lea",
+            "tip": "Parcul oferă multe locuri umbroase, ideale pentru o pauză liniștită și un picnic.",
+            "emoji": "🧺"
+          },
+          {
+            "name": "Puncte de belvedere în afara orașului",
+            "tip": "Pedalați puțin în afara orașului, spre dealurile înconjurătoare, pentru priveliști uluitoare.",
+            "emoji": "🌄"
+          },
+          {
+            "name": "Curtea Bisericii Sf. Constantin și Elena",
+            "tip": "Zona din jurul bisericii este adesea pașnică și potrivită pentru reflecție.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Picnic in Tsar Boris III Park",
+            "tip": "The park offers many shady spots ideal for a quiet break and a picnic.",
+            "emoji": "🧺"
+          },
+          {
+            "name": "Viewpoints outside the town",
+            "tip": "Cycle a little out of town into the surrounding hills for breathtaking views.",
+            "emoji": "🌄"
+          },
+          {
+            "name": "Churchyard of St. Constantine and Helena",
+            "tip": "The area around the church is often peaceful and invites reflection.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Flaschen Mineralwasser",
+            "tip": "Kaufen Sie abgefülltes Mineralwasser direkt von den Quellen als gesundes Souvenir."
+          },
+          {
+            "name": "Getrocknete Kräuter und Gewürze",
+            "tip": "Finden Sie aromatische Kräuter vom Balkan auf den lokalen Märkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palackozott ásványvíz",
+            "tip": "Vásároljon palackozott ásványvizet közvetlenül a forrásoktól egészséges ajándékként."
+          },
+          {
+            "name": "Szárított gyógynövények és fűszerek",
+            "tip": "Találjon aromás gyógynövényeket a Balkánról a helyi piacokon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apă minerală îmbuteliată",
+            "tip": "Cumpărați apă minerală îmbuteliată direct de la izvoare ca suvenir sănătos."
+          },
+          {
+            "name": "Ierburi și condimente uscate",
+            "tip": "Găsiți ierburi aromatice din Balcani în piețele locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bottled Mineral Water",
+            "tip": "Buy bottled mineral water directly from the springs as a healthy souvenir."
+          },
+          {
+            "name": "Dried Herbs and Spices",
+            "tip": "Find aromatic herbs from the Balkans at local markets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad in einem der örtlichen Hotels, wenn Sie keines mitbringen.",
+          "Einige Straßen haben möglicherweise keinen ausgewiesenen Radweg, also fahren Sie vorsichtig.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad an den Sehenswürdigkeiten sicher abzustellen.",
+          "Planen Sie Ihre Route im Voraus, um steile Hügel zu vermeiden, es sei denn, Sie suchen eine Herausforderung."
+        ],
+        "hu": [
+          "Béreljen kerékpárt a helyi szállodák egyikében, ha nem hoz magával.",
+          "Néhány úton lehet, hogy nincs kijelölt kerékpárút, ezért óvatosan közlekedjen.",
+          "Hozzon magával lakatot, hogy biztonságosan lezárhassa a kerékpárját a látnivalóknál.",
+          "Tervezze meg előre az útvonalat, hogy elkerülje a meredek emelkedőket, hacsak nem keres kihívást."
+        ],
+        "ro": [
+          "Închiriați o bicicletă de la unul dintre hotelurile locale dacă nu aduceți una.",
+          "Unele străzi s-ar putea să nu aibă o pistă de biciclete desemnată, așa că circulați cu prudență.",
+          "Aduceți un lacăt pentru a vă asigura bicicleta la atracții.",
+          "Planificați-vă traseul în avans pentru a evita dealurile abrupte, cu excepția cazului în care căutați o provocare."
+        ],
+        "en": [
+          "Rent a bike from one of the local hotels if you don't bring your own.",
+          "Some roads may not have a designated bike lane, so ride with caution.",
+          "Bring a lock to secure your bike at the sights.",
+          "Plan your route in advance to avoid steep hills unless you're looking for a challenge."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 11.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum",
+            "hu": "Központi parkoló",
+            "ro": "Parcare Centrală",
+            "en": "Central Parking"
+          },
+          "coords": [
+            24.817,
+            42.533
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Denkmal für die Gründer",
+            "hu": "Alapítók emlékműve",
+            "ro": "Monumentul Fondatorilor",
+            "en": "Monument to the Founders"
+          },
+          "coords": [
+            24.8165,
+            42.5335
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:12",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1
+        },
+        {
+          "name": {
+            "de": "Historisches Museum",
+            "hu": "Történeti Múzeum",
+            "ro": "Muzeul de Istorie",
+            "en": "Historical Museum"
+          },
+          "coords": [
+            24.8175,
+            42.5345
+          ],
+          "category": "museums",
+          "arrive_at": "09:31",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Städtisches Mineralbad",
+            "hu": "Városi ásványfürdő",
+            "ro": "Baia Minerală Municipală",
+            "en": "Municipal Mineral Bath"
+          },
+          "coords": [
+            24.8188,
+            42.535
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:16",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Parkplatz am Park",
+            "hu": "Parkoló a parknál",
+            "ro": "Parcare Lângă Parc",
+            "en": "Parking by the Park"
+          },
+          "coords": [
+            24.821,
+            42.537
+          ],
+          "category": "transport",
+          "arrive_at": "12:51",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5
+        },
+        {
+          "name": {
+            "de": "Park Zar Boris III.",
+            "hu": "III. Borisz cár park",
+            "ro": "Parcul Țarul Boris al III-lea",
+            "en": "Tsar Boris III Park"
+          },
+          "coords": [
+            24.822,
+            42.538
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:53",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1
+        },
+        {
+          "name": {
+            "de": "Königliche Villa von Zar Boris III.",
+            "hu": "III. Borisz cár királyi villája",
+            "ro": "Vila Regală a Țarului Boris al III-lea",
+            "en": "Royal Villa of Tsar Boris III"
+          },
+          "coords": [
+            24.823,
+            42.539
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:12",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Weinkeller Banya",
+            "hu": "Banyai borospince",
+            "ro": "Crama Banya",
+            "en": "Banya Winery"
+          },
+          "coords": [
+            24.805,
+            42.525
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:21",
+          "stay_min": 109,
+          "hop_mode": "car",
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 9.2
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag, indem Sie im Zentrum parken. Ein kurzer Spaziergang führt Sie zum Denkmal der Gründer und zum Historischen Museum. Dieser erste Cluster ermöglicht es Ihnen, das historische Herz von Banya zu Fuß zu erkunden.\nMittags ist das Städtische Mineralbad, ebenfalls in diesem Cluster, der ideale Ort für eine Pause. Nach dem Genuss des Bades fahren Sie zum zweiten Cluster, dem Park Zar Boris III.\nDer Nachmittag ist der Erkundung des Parkclusters gewidmet. Spazieren Sie durch den üppigen Park und besuchen Sie die königliche Villa von Zar Boris III., alles nur einen kurzen Spaziergang von Ihrem Parkplatz entfernt.\nFür den letzten Teil Ihres Tages fahren Sie zum Weinkeller von Banya. Diese längere Fahrt führt Sie aus dem Stadtzentrum heraus zu einem Ort der Entspannung, wo Sie den Tag mit einer Weinprobe ausklingen lassen können.",
+        "hu": "Kezdje a napot a központban való parkolással. Egy rövid séta elvezeti az Alapítók emlékművéhez és a Történeti Múzeumhoz. Ez az első klaszter lehetővé teszi, hogy gyalog fedezze fel Banya történelmi szívét.\nDélben a szintén ebben a klaszterben található Városi Ásványfürdő ideális hely a pihenésre. A fürdőzés után autózzon át a második klaszterhez, a III. Borisz cár parkhoz.\nA délutánt a park klaszter felfedezésének szenteljük. Sétáljon végig a buja parkon, és látogassa meg III. Borisz cár királyi villáját, mindezt egy rövid sétára a parkolótól.\nA nap utolsó részében vezessen el a Banyai Borospincéhez. Ez a hosszabb út kivezeti a városközpontból egy pihentető helyre, ahol egy borkóstolóval zárhatja a napot.",
+        "ro": "Începeți ziua parcând în centru. O scurtă plimbare vă duce la Monumentul Fondatorilor și la Muzeul de Istorie. Acest prim grup vă permite să explorați pe jos inima istorică a orașului Banya.\nLa prânz, Baia Minerală Municipală, aflată tot în acest grup, este locul ideal pentru o pauză. După ce vă bucurați de baie, conduceți spre al doilea grup, Parcul Țarul Boris al III-lea.\nDupă-amiaza este dedicată explorării grupului parcului. Plimbați-vă prin parcul luxuriant și vizitați Vila Regală a Țarului Boris al III-lea, toate la o scurtă plimbare de locul unde ați parcat.\nPentru ultima parte a zilei, conduceți la Crama Banya. Această călătorie mai lungă vă scoate din centrul orașului într-un loc de relaxare unde puteți încheia ziua cu o degustare de vinuri.",
+        "en": "Start your day by parking in the center. A short walk takes you to the Monument to the Founders and the Historical Museum. This first cluster allows you to explore the historic heart of Banya on foot.\nAt midday, the Municipal Mineral Bath, also in this cluster, is the ideal place for a break. After enjoying the bath, drive to the second cluster, Tsar Boris III Park.\nThe afternoon is dedicated to exploring the park cluster. Stroll through the lush park and visit the Royal Villa of Tsar Boris III, all within a short walk from where you parked.\nFor the final part of your day, drive to the Banya Winery. This longer drive takes you out of the town center to a place of relaxation where you can end the day with a wine tasting."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gegrilltes Fleisch (Skara)",
+            "tip": "Nach einem Tag voller Entdeckungen ist ein Teller mit verschiedenen gegrillten Fleischsorten wie Kebapche und Kyufte genau das Richtige."
+          },
+          {
+            "name": "Rakia",
+            "tip": "Probieren Sie den lokalen Obstbrand als Aperitif oder Digestif, aber seien Sie sich seiner Stärke bewusst."
+          },
+          {
+            "name": "Lokale Käsereien",
+            "tip": "Halten Sie an einem Hofladen außerhalb der Stadt an, um frischen Sirene- und Kashkaval-Käse zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett húsok (Skara)",
+            "tip": "Egy felfedezéssel töltött nap után egy tál vegyes grillezett hús, mint a kebapche és a kyufte, pont megfelelő."
+          },
+          {
+            "name": "Rakia",
+            "tip": "Kóstolja meg a helyi gyümölcspárlatot aperitifként vagy digesztívumként, de legyen tisztában az erejével."
+          },
+          {
+            "name": "Helyi sajtkészítők",
+            "tip": "Álljon meg egy farmboltnál a városon kívül, hogy friss szirene és kaskaval sajtot vásároljon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Carne la grătar (Skara)",
+            "tip": "După o zi de explorare, o farfurie cu diverse cărnuri la grătar, cum ar fi Kebapche și Kyufte, este exact ce trebuie."
+          },
+          {
+            "name": "Rakia",
+            "tip": "Încercați rachiul local de fructe ca aperitiv sau digestiv, dar fiți conștienți de tăria sa."
+          },
+          {
+            "name": "Producători locali de brânză",
+            "tip": "Opriți-vă la un magazin de fermă în afara orașului pentru a cumpăra brânză proaspătă Sirene și cașcaval."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled Meats (Skara)",
+            "tip": "After a day of exploring, a platter of mixed grilled meats like Kebapche and Kyufte hits the spot."
+          },
+          {
+            "name": "Rakia",
+            "tip": "Try the local fruit brandy as an aperitif or digestif, but be mindful of its strength."
+          },
+          {
+            "name": "Local Cheese Makers",
+            "tip": "Stop at a farm shop outside of town to buy fresh Sirene and Kashkaval cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt durch die Landschaft",
+            "tip": "Die Fahrt zwischen den Clustern bietet schöne Ausblicke auf die umliegende Landschaft des Rosentals.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Verborgene Ecken im Park",
+            "tip": "Gehen Sie abseits der Hauptwege im Park, um einen abgeschiedenen Ort für sich zu finden.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Terrasse des Weinkellers",
+            "tip": "Genießen Sie die ruhige Atmosphäre auf der Terrasse des Weinkellers mit Blick auf die Weinberge.",
+            "emoji": "🍇"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Autózás a vidéken",
+            "tip": "A klaszterek közötti út gyönyörű kilátást nyújt a környező Rózsák völgyére.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Rejtett zugok a parkban",
+            "tip": "Menjen le a fő ösvényekről a parkban, hogy egy eldugott helyet találjon magának.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A borospince terasza",
+            "tip": "Élvezze a borospince teraszának csendes hangulatát, kilátással a szőlőültetvényekre.",
+            "emoji": "🍇"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătorie prin peisajul rural",
+            "tip": "Drumul dintre grupuri oferă priveliști frumoase ale peisajului rural înconjurător din Valea Trandafirilor.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Colțuri ascunse în parc",
+            "tip": "Abateți-vă de la aleile principale din parc pentru a găsi un loc retras pentru dumneavoastră.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Terasa cramei",
+            "tip": "Bucurați-vă de atmosfera liniștită de pe terasa cramei, cu vedere la podgorii.",
+            "emoji": "🍇"
+          }
+        ],
+        "en": [
+          {
+            "name": "Countryside Drive",
+            "tip": "The drive between clusters offers beautiful views of the surrounding Rose Valley countryside.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Hidden Corners in the Park",
+            "tip": "Go off the main paths in the park to find a secluded spot for yourself.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Winery Terrace",
+            "tip": "Enjoy the quiet atmosphere on the winery's terrace overlooking the vineyards.",
+            "emoji": "🍇"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rosenölprodukte",
+            "tip": "Banya liegt im Rosental, also halten Sie Ausschau nach hochwertigem Rosenöl, Marmelade und Kosmetika."
+          },
+          {
+            "name": "Wein vom Weinkeller",
+            "tip": "Kaufen Sie ein paar Flaschen des lokalen Weins, den Sie probiert haben, direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rózsaolaj termékek",
+            "tip": "Banya a Rózsák völgyében fekszik, így keressen kiváló minőségű rózsaolajat, lekvárt és kozmetikumokat."
+          },
+          {
+            "name": "Bor a borospincéből",
+            "tip": "Vásároljon néhány üveg helyi bort, amit kóstolt, közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse cu ulei de trandafiri",
+            "tip": "Banya se află în Valea Trandafirilor, așa că fiți atenți la uleiul de trandafiri de înaltă calitate, gem și produse cosmetice."
+          },
+          {
+            "name": "Vin de la cramă",
+            "tip": "Cumpărați câteva sticle de vin local pe care l-ați degustat, direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rose Oil Products",
+            "tip": "Banya is in the Rose Valley, so look for high-quality rose oil, jam, and cosmetics."
+          },
+          {
+            "name": "Wine from the Winery",
+            "tip": "Buy a few bottles of the local wine you tasted directly from the source."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum kann begrenzt sein, planen Sie also entsprechend.",
+          "Die Straßen können eng sein, fahren Sie also vorsichtig, besonders in älteren Gegenden.",
+          "Ein Auto gibt Ihnen die Flexibilität, auch nahegelegene thrakische Gräber im Rosental zu besuchen, wenn die Zeit es erlaubt.",
+          "Achten Sie auf die Beschilderung, die manchmal nur auf Kyrillisch ist."
+        ],
+        "hu": [
+          "A parkolás a városközpontban korlátozott lehet, ezért tervezzen ennek megfelelően.",
+          "Az utcák szűkek lehetnek, ezért vezessen óvatosan, különösen a régebbi területeken.",
+          "Az autó rugalmasságot ad, hogy meglátogassa a közeli trák sírokat is a Rózsák völgyében, ha az idő engedi.",
+          "Figyeljen a táblákra, amelyek néha csak cirill betűsek."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi limitată, așa că planificați-vă în consecință.",
+          "Străzile pot fi înguste, așa că conduceți cu prudență, în special în zonele mai vechi.",
+          "O mașină vă oferă flexibilitatea de a vizita și mormintele tracice din apropiere, în Valea Trandafirilor, dacă timpul vă permite.",
+          "Fiți atenți la indicatoare, care uneori sunt doar în chirilică."
+        ],
+        "en": [
+          "Parking in the town center can be limited, so plan accordingly.",
+          "The roads can be narrow, so drive carefully, especially in older areas.",
+          "A car gives you the flexibility to also visit nearby Thracian tombs in the Rose Valley if time permits.",
+          "Be aware of road signs, which are sometimes only in Cyrillic."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Busbahnhof",
+            "hu": "Központi buszmegálló",
+            "ro": "Stație Centrală de Autobuz",
+            "en": "Central Bus Stop"
+          },
+          "coords": [
+            24.816,
+            42.532
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Historisches Museum",
+            "hu": "Történeti Múzeum",
+            "ro": "Muzeul de Istorie",
+            "en": "Historical Museum"
+          },
+          "coords": [
+            24.8175,
+            42.5345
+          ],
+          "category": "museums",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Kirche St. Konstantin und Helena",
+            "hu": "Szent Konstantin és Elena templom",
+            "ro": "Biserica Sf. Constantin și Elena",
+            "en": "Church of St. Constantine and Helena"
+          },
+          "coords": [
+            24.815,
+            42.532
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Städtisches Mineralbad",
+            "hu": "Városi ásványfürdő",
+            "ro": "Baia Minerală Municipală",
+            "en": "Municipal Mineral Bath"
+          },
+          "coords": [
+            24.8188,
+            42.535
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:46",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4
+        },
+        {
+          "name": {
+            "de": "Park Zar Boris III.",
+            "hu": "III. Borisz cár park",
+            "ro": "Parcul Țarul Boris al III-lea",
+            "en": "Tsar Boris III Park"
+          },
+          "coords": [
+            24.822,
+            42.538
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:10",
+          "stay_min": 75,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 3.5
+        },
+        {
+          "name": {
+            "de": "Königliche Villa von Zar Boris III.",
+            "hu": "III. Borisz cár királyi villája",
+            "ro": "Vila Regală a Țarului Boris al III-lea",
+            "en": "Royal Villa of Tsar Boris III"
+          },
+          "coords": [
+            24.823,
+            42.539
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:30",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am zentralen Busbahnhof und erkunden Sie den ersten Cluster zu Fuß. Besuchen Sie das Historische Museum und die Kirche St. Konstantin und Helena, um einen Einblick in die lokale Kultur zu bekommen.\nMittags können Sie sich im Städtischen Mineralbad entspannen, das vom ersten Cluster aus leicht zu Fuß erreichbar ist. Gönnen Sie sich eine lange Pause in diesem historischen Badehaus.\nAm Nachmittag nehmen Sie einen Bus zum zweiten Cluster, dem Park Zar Boris III. Genießen Sie die Fahrt und die wechselnde Landschaft. Erkunden Sie den Park und die königliche Villa zu Fuß.\nBeenden Sie Ihren Tag mit einem gemütlichen Spaziergang durch den Park, bevor Sie den Bus zurück ins Zentrum nehmen. Die öffentlichen Verkehrsmittel bieten eine stressfreie Möglichkeit, die verteilten Sehenswürdigkeiten von Banya zu verbinden.",
+        "hu": "Induljon a központi buszmegállóból, és fedezze fel az első klasztert gyalog. Látogasson el a Történeti Múzeumba és a Szent Konstantin és Elena templomba, hogy bepillantást nyerjen a helyi kultúrába.\nDélben pihenjen a Városi Ásványfürdőben, amely könnyen megközelíthető gyalog az első klaszterből. Engedjen meg magának egy hosszú szünetet ebben a történelmi fürdőházban.\nDélután szálljon buszra a második klaszterhez, a III. Borisz cár parkhoz. Élvezze az utazást és a változó tájat. Fedezze fel a parkot és a királyi villát gyalog.\nZárja a napot egy kellemes sétával a parkban, mielőtt visszaszállna a buszra a központba. A tömegközlekedés stresszmentes módot kínál Banya szétszórt látnivalóinak összekötésére.",
+        "ro": "Începeți de la stația centrală de autobuz și explorați primul grup pe jos. Vizitați Muzeul de Istorie și Biserica Sf. Constantin și Elena pentru a vă face o idee despre cultura locală.\nLa prânz, relaxați-vă la Baia Minerală Municipală, ușor accesibilă pe jos din primul grup. Acordați-vă o pauză lungă în această baie istorică.\nDupă-amiaza, luați un autobuz către al doilea grup, Parcul Țarul Boris al III-lea. Bucurați-vă de călătorie și de peisajul în schimbare. Explorați parcul și Vila Regală pe jos.\nÎncheiați ziua cu o plimbare relaxantă prin parc înainte de a lua autobuzul înapoi spre centru. Transportul public oferă o modalitate fără stres de a conecta atracțiile dispersate din Banya.",
+        "en": "Start at the central bus stop and explore the first cluster on foot. Visit the Historical Museum and the Church of St. Constantine and Helena to get a feel for the local culture.\nAt noon, relax at the Municipal Mineral Bath, easily walkable from the first cluster. Allow for a long break at this historic bath house.\nIn the afternoon, take a bus to the second cluster, Tsar Boris III Park. Enjoy the ride and the changing scenery. Explore the park and the Royal Villa on foot.\nEnd your day with a leisurely stroll in the park before taking the bus back to the center. Public transit offers a stress-free way to connect Banya's spread-out attractions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gevrek",
+            "tip": "Ein ringförmiges Brot, das mit Sesam bestreut ist und sich hervorragend als schneller Snack für unterwegs eignet."
+          },
+          {
+            "name": "Boza",
+            "tip": "Ein fermentiertes Getränk aus Weizen oder Hirse, leicht alkoholisch und erfrischend."
+          },
+          {
+            "name": "Bäckereien in der Nähe von Bushaltestellen",
+            "tip": "Schnappen Sie sich ein frisches Gebäck, während Sie auf Ihren Bus warten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gevrek",
+            "tip": "Szezámmaggal megszórt, gyűrű alakú kenyér, kiváló gyors harapnivaló útközben."
+          },
+          {
+            "name": "Boza",
+            "tip": "Búzából vagy kölesből készült erjesztett ital, enyhén alkoholos és frissítő."
+          },
+          {
+            "name": "Pékségek a buszmegállók közelében",
+            "tip": "Kapjon be egy friss péksüteményt, amíg a buszra vár."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gevrek",
+            "tip": "O pâine în formă de inel presărată cu susan, excelentă ca gustare rapidă în mișcare."
+          },
+          {
+            "name": "Boza",
+            "tip": "O băutură fermentată din grâu sau mei, ușor alcoolizată și răcoritoare."
+          },
+          {
+            "name": "Brutării lângă stațiile de autobuz",
+            "tip": "Luați un produs de patiserie proaspăt în timp ce așteptați autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gevrek",
+            "tip": "A ring-shaped bread sprinkled with sesame seeds, great for a quick snack on the go."
+          },
+          {
+            "name": "Boza",
+            "tip": "A fermented beverage made from wheat or millet, lightly alcoholic and refreshing."
+          },
+          {
+            "name": "Bakeries near bus stops",
+            "tip": "Grab a fresh pastry while waiting for your bus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Beobachten Sie die Einheimischen",
+            "tip": "Setzen Sie sich in der Nähe einer Bushaltestelle auf eine Bank und beobachten Sie das tägliche Leben.",
+            "emoji": "🧑‍🤝‍🧑"
+          },
+          {
+            "name": "Fensterplatz im Bus",
+            "tip": "Genießen Sie die Aussicht auf die Stadt und die Landschaft aus dem Fenster des Busses.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Ein ruhiger Moment in der Kirche",
+            "tip": "Die Kirche bietet einen kühlen, ruhigen Zufluchtsort vor der Mittagshitze.",
+            "emoji": "🕊️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Figyelje a helyieket",
+            "tip": "Üljön le egy padra egy buszmegálló közelében, és figyelje a mindennapi életet.",
+            "emoji": "🧑‍🤝‍🧑"
+          },
+          {
+            "name": "Ablak melletti ülés a buszon",
+            "tip": "Élvezze a város és a vidék látványát a busz ablakából.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Egy csendes pillanat a templomban",
+            "tip": "A templom hűvös, csendes menedéket nyújt a déli hőség elől.",
+            "emoji": "🕊️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Observați localnicii",
+            "tip": "Așezați-vă pe o bancă lângă o stație de autobuz și priviți viața de zi cu zi.",
+            "emoji": "🧑‍🤝‍🧑"
+          },
+          {
+            "name": "Loc la geam în autobuz",
+            "tip": "Bucurați-vă de priveliștile orașului și ale peisajului rural de la geamul autobuzului.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Un moment de liniște în biserică",
+            "tip": "Biserica oferă un refugiu răcoros și liniștit de căldura amiezii.",
+            "emoji": "🕊️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Watch the locals",
+            "tip": "Sit on a bench near a bus stop and observe the daily life.",
+            "emoji": "🧑‍🤝‍🧑"
+          },
+          {
+            "name": "Window seat on the bus",
+            "tip": "Enjoy the views of the town and countryside from the bus window.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "A quiet moment in the church",
+            "tip": "The church offers a cool, quiet refuge from the midday heat.",
+            "emoji": "🕊️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Erkundigen Sie sich, ob ein lokaler Markt stattfindet, der oft in der Nähe des Stadtzentrums oder des Busbahnhofs abgehalten wird."
+          },
+          {
+            "name": "Kleine Souvenirläden",
+            "tip": "Halten Sie in der Nähe der Hauptsehenswürdigkeiten Ausschau nach kleinen Geschäften, die lokales Kunsthandwerk verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Érdeklődjön, hogy van-e helyi piac, amelyet gyakran a városközpont vagy a buszpályaudvar közelében tartanak."
+          },
+          {
+            "name": "Kis ajándékboltok",
+            "tip": "Keresse a fő látnivalók közelében a helyi kézműves termékeket árusító kis boltokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Interesați-vă dacă există o piață locală, adesea organizată în apropierea centrului orașului или a stației de autobuz."
+          },
+          {
+            "name": "Mici magazine de suveniruri",
+            "tip": "Căutați magazine mici care vând produse artizanale locale în apropierea principalelor atracții."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Check if there is a local market day, often held near the town center or bus station."
+          },
+          {
+            "name": "Small Souvenir Shops",
+            "tip": "Look for small shops selling local crafts near the main sights."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte, wenn diese verfügbar ist, um bei mehreren Fahrten Geld zu sparen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, da die Busse möglicherweise nicht häufig fahren, insbesondere am Wochenende.",
+          "Behalten Sie Ihre Sachen im Bus und an belebten Haltestellen im Auge.",
+          "Fragen Sie Einheimische oder den Busfahrer, wenn Sie sich über die richtige Haltestelle unsicher sind; die meisten helfen gerne."
+        ],
+        "hu": [
+          "Vásároljon napijegyet, ha elérhető, hogy pénzt takarítson meg több utazás esetén.",
+          "Előre ellenőrizze a buszmenetrendet, mivel a buszok ritkán közlekedhetnek, különösen hétvégén.",
+          "Tartsa szemmel a holmiját a buszon és a forgalmas megállókban.",
+          "Kérdezze meg a helyieket vagy a buszsofőrt, ha bizonytalan a megfelelő megállóval kapcsolatban; a legtöbben szívesen segítenek."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi dacă este disponibil pentru a economisi bani la mai multe călătorii.",
+          "Verificați programul autobuzelor în avans, deoarece autobuzele s-ar putea să nu circule frecvent, în special în weekend.",
+          "Fiți cu ochii pe bunurile dumneavoastră în autobuz și în stațiile aglomerate.",
+          "Întrebați localnicii sau șoferul de autobuz dacă nu sunteți sigur de stația corectă; majoritatea sunt bucuroși să ajute."
+        ],
+        "en": [
+          "Buy a day pass if available to save money on multiple trips.",
+          "Check the bus schedule in advance, as services might be infrequent, especially on weekends.",
+          "Keep an eye on your belongings on the bus and at busy stops.",
+          "Ask locals or the bus driver if you're unsure about the right stop; most are happy to help."
+        ]
+      }
+    }
+  }
+}

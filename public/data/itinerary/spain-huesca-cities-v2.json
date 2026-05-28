@@ -1,0 +1,1260 @@
+{
+  "city_id": "spain-huesca-cities-v2",
+  "anchor": {
+    "name": "Huesca",
+    "coords": [
+      -0.4083,
+      42.1361
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Plaza de López Allué",
+          "coords": [
+            -0.409,
+            42.138
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Morgenkaffee in der ältesten Bäckerei.",
+            "hu": "Igyon egy reggeli kávét a tér legrégebbi pékségében.",
+            "ro": "Savurați o cafea de dimineață la cea mai veche brutărie din piață.",
+            "en": "Enjoy a morning coffee at the oldest bakery on the square."
+          }
+        },
+        {
+          "name": "Murallas de Huesca",
+          "coords": [
+            -0.4075,
+            42.14
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der gut erhaltenen alten Stadtmauern.",
+            "hu": "Sétáljon végig a jó állapotban fennmaradt régi városfalakon.",
+            "ro": "Plimbați-vă de-a lungul vechilor ziduri ale orașului bine conservate.",
+            "en": "Walk along the well-preserved old city walls."
+          }
+        },
+        {
+          "name": "Kathedrale von Huesca",
+          "coords": [
+            -0.4065,
+            42.1405
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:25",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie das beeindruckende Altarbild von Damián Forment.",
+            "hu": "Csodálja meg Damián Forment lenyűgöző oltárképét.",
+            "ro": "Admirați impresionantul altar realizat de Damián Forment.",
+            "en": "Admire the impressive altarpiece by Damián Forment."
+          }
+        },
+        {
+          "name": "Museo de Huesca",
+          "coords": [
+            -0.407,
+            42.1415
+          ],
+          "category": "museums",
+          "arrive_at": "11:45",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die archäologischen Schätze der Region Aragon.",
+            "hu": "Fedezze fel Aragónia régió régészeti kincseit.",
+            "ro": "Descoperiți comorile arheologice ale regiunii Aragon.",
+            "en": "Discover the archaeological treasures of the Aragon region."
+          }
+        },
+        {
+          "name": "Iglesia de San Lorenzo",
+          "coords": [
+            -0.4105,
+            42.1385
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:35",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Kirche des Schutzpatrons der Stadt.",
+            "hu": "Látogasson el a város védőszentjének templomába.",
+            "ro": "Vizitați biserica patronului spiritual al orașului.",
+            "en": "Visit the church of the city's patron saint."
+          }
+        },
+        {
+          "name": "Casino de Huesca",
+          "coords": [
+            -0.411,
+            42.137
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:20",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein schönes Beispiel modernistischer Architektur in Aragon.",
+            "hu": "A modernista építészet gyönyörű példája Aragóniában.",
+            "ro": "Un exemplu frumos de arhitectură modernistă în Aragon.",
+            "en": "A beautiful example of modernist architecture in Aragon."
+          }
+        },
+        {
+          "name": "Monasterio de San Pedro el Viejo",
+          "coords": [
+            -0.408,
+            42.135
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:10",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch den ruhigen, alten Kreuzgang.",
+            "hu": "Sétáljon végig a csendes, régi kolostorudvaron.",
+            "ro": "Plimbați-vă prin vechiul și liniștitul claustru.",
+            "en": "Walk through the quiet, ancient cloister."
+          }
+        },
+        {
+          "name": "Parque de Miguel Servet",
+          "coords": [
+            -0.4125,
+            42.134
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:00",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich nachmittags in diesem großen Stadtpark.",
+            "hu": "Délután lazítson ebben a nagy városi parkban.",
+            "ro": "Relaxați-vă după-amiaza în acest mare parc central.",
+            "en": "Relax in the afternoon in this large city park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt auf der lebhaften Plaza de López Allué. Wir spazieren zu den alten Stadtmauern und tauchen in das mittelalterliche Huesca ein, gefolgt von der prächtigen Kathedrale. Mittags steht das historische Museum auf dem Plan, bevor wir zur Iglesia de San Lorenzo weiterziehen. Der Nachmittag bringt uns zum modernistischen Casino und dem ruhigen Kreuzgang von San Pedro el Viejo. Wir beenden den Tag entspannt im Miguel Servet Park.",
+        "hu": "A napot a nyüzsgő Plaza de López Allué téren kezdjük. A régi városfalakhoz sétálunk, elmerülve a középkori Huescában, majd megtekintjük a csodás katedrálist. Délben a történelmi múzeum vár ránk, mielőtt átsétálunk a San Lorenzo templomhoz. A délután a modernista kaszinót és a San Pedro el Viejo csendes udvarát tartogatja. A napot a Miguel Servet parkban pihenve zárjuk.",
+        "ro": "Ziua începe în animata Plaza de López Allué. Ne plimbăm spre vechile ziduri, intrând în Huesca medievală, urmate de magnifica catedrală. La prânz explorăm muzeul de istorie, înainte de a vizita Iglesia de San Lorenzo. După-amiaza ne aduce la cazinoul modernist și la claustrul liniștit din San Pedro el Viejo. Încheiem ziua relaxându-ne în Parcul Miguel Servet.",
+        "en": "The day begins at the lively Plaza de López Allué. We stroll to the old city walls, immersing ourselves in medieval Huesca, followed by the magnificent Cathedral. Midday brings us to the history museum before moving on to Iglesia de San Lorenzo. The afternoon features the modernist Casino and the quiet cloister of San Pedro el Viejo. We end the day relaxing in Miguel Servet Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ternasco Asado",
+            "tip": "Probieren Sie dieses typisch aragonesische Lammgericht in der Altstadt."
+          },
+          {
+            "name": "Empanadico",
+            "tip": "Eine herzhafte, regionale Pastete, ideal als kleiner Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ternasco Asado",
+            "tip": "Kóstolja meg ezt a tipikus aragóniai báránysültet az óvárosban."
+          },
+          {
+            "name": "Empanadico",
+            "tip": "Kiadós, helyi sós sütemény, ideális gyors ebédre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ternasco Asado",
+            "tip": "Încercați acest miel prăjit tipic aragonez în centrul vechi."
+          },
+          {
+            "name": "Empanadico",
+            "tip": "Un produs de patiserie regional consistent, perfect pentru o gustare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ternasco Asado",
+            "tip": "Try this typical Aragonese roast lamb in the old town."
+          },
+          {
+            "name": "Empanadico",
+            "tip": "A savory, regional pastry, perfect for a quick snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kreuzgang San Pedro",
+            "tip": "Ein sehr ruhiger Ort mitten in der Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Miguel Servet Park",
+            "tip": "Schatten unter großen Bäumen für eine Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Pedro udvara",
+            "tip": "Különösen csendes pont a város közepén.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Miguel Servet Park",
+            "tip": "Árnyék a nagy fák alatt egy rövid pihenőhöz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Claustrul San Pedro",
+            "tip": "Un loc foarte liniștit în mijlocul orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Miguel Servet",
+            "tip": "Umbră sub copacii mari pentru o pauză.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "San Pedro Cloister",
+            "tip": "A very quiet spot in the middle of the city.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Miguel Servet Park",
+            "tip": "Shade under large trees for a nice break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle del Coso Bajo",
+            "tip": "Die Hauptgeschäftsstraße für lokale Mode und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle del Coso Bajo",
+            "tip": "A fő bevásárlóutca helyi divathoz és szuvenírekhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle del Coso Bajo",
+            "tip": "Principala stradă comercială pentru modă și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle del Coso Bajo",
+            "tip": "The main shopping street for local fashion and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Huesca lässt sich am besten zu Fuß erkunden.",
+          "Die Altstadtgassen sind teilweise steil.",
+          "Achten Sie auf die Siesta-Zeiten vieler kleiner Läden.",
+          "Bequemes Schuhwerk ist für das Pflaster empfehlenswert."
+        ],
+        "hu": [
+          "Huesca felfedezése gyalog a legkényelmesebb.",
+          "Az óváros utcái néhol meredekek lehetnek.",
+          "Figyeljen a kisebb boltok délutáni szieszta idejére.",
+          "Kényelmes cipő javasolt a macskaköves utakon."
+        ],
+        "ro": [
+          "Huesca este cel mai bine de explorat pe jos.",
+          "Străduțele din orașul vechi sunt uneori abrupte.",
+          "Atenție la orele de siestă ale multor magazine mici.",
+          "Încălțămintea confortabilă este recomandată pentru piatră cubică."
+        ],
+        "en": [
+          "Huesca is best explored entirely on foot.",
+          "The old town streets can be somewhat steep.",
+          "Be aware of the siesta hours of many small shops.",
+          "Comfortable shoes are recommended for the cobblestones."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 4.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Plaza de López Allué",
+          "coords": [
+            -0.409,
+            42.138
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Morgenkaffee in der ältesten Bäckerei.",
+            "hu": "Igyon egy reggeli kávét a tér legrégebbi pékségében.",
+            "ro": "Savurați o cafea de dimineață la cea mai veche brutărie din piață.",
+            "en": "Enjoy a morning coffee at the oldest bakery on the square."
+          }
+        },
+        {
+          "name": "Murallas de Huesca",
+          "coords": [
+            -0.4075,
+            42.14
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der gut erhaltenen alten Stadtmauern.",
+            "hu": "Sétáljon végig a jó állapotban fennmaradt régi városfalakon.",
+            "ro": "Plimbați-vă de-a lungul vechilor ziduri ale orașului bine conservate.",
+            "en": "Walk along the well-preserved old city walls."
+          }
+        },
+        {
+          "name": "Kathedrale von Huesca",
+          "coords": [
+            -0.4065,
+            42.1405
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:25",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie das beeindruckende Altarbild von Damián Forment.",
+            "hu": "Csodálja meg Damián Forment lenyűgöző oltárképét.",
+            "ro": "Admirați impresionantul altar realizat de Damián Forment.",
+            "en": "Admire the impressive altarpiece by Damián Forment."
+          }
+        },
+        {
+          "name": "Museo de Huesca",
+          "coords": [
+            -0.407,
+            42.1415
+          ],
+          "category": "museums",
+          "arrive_at": "11:45",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die archäologischen Schätze der Region Aragon.",
+            "hu": "Fedezze fel Aragónia régió régészeti kincseit.",
+            "ro": "Descoperiți comorile arheologice ale regiunii Aragon.",
+            "en": "Discover the archaeological treasures of the Aragon region."
+          }
+        },
+        {
+          "name": "Iglesia de San Lorenzo",
+          "coords": [
+            -0.4105,
+            42.1385
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:30",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Kirche des Schutzpatrons der Stadt.",
+            "hu": "Látogasson el a város védőszentjének templomába.",
+            "ro": "Vizitați biserica patronului spiritual al orașului.",
+            "en": "Visit the church of the city's patron saint."
+          }
+        },
+        {
+          "name": "Casino de Huesca",
+          "coords": [
+            -0.411,
+            42.137
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:15",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein schönes Beispiel modernistischer Architektur in Aragon.",
+            "hu": "A modernista építészet gyönyörű példája Aragóniában.",
+            "ro": "Un exemplu frumos de arhitectură modernistă în Aragon.",
+            "en": "A beautiful example of modernist architecture in Aragon."
+          }
+        },
+        {
+          "name": "Monasterio de San Pedro el Viejo",
+          "coords": [
+            -0.408,
+            42.135
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:00",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch den ruhigen, alten Kreuzgang.",
+            "hu": "Sétáljon végig a csendes, régi kolostorudvaron.",
+            "ro": "Plimbați-vă prin vechiul și liniștitul claustru.",
+            "en": "Walk through the quiet, ancient cloister."
+          }
+        },
+        {
+          "name": "Parque de Miguel Servet",
+          "coords": [
+            -0.4125,
+            42.134
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:45",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich nachmittags in diesem großen Stadtpark.",
+            "hu": "Délután lazítson ebben a nagy városi parkban.",
+            "ro": "Relaxați-vă după-amiaza în acest mare parc central.",
+            "en": "Relax in the afternoon in this large city park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auf dem Fahrrad erkunden wir Huesca zügig. Wir starten an der Plaza und radeln zur Stadtmauer. Das Rad parken wir für die Kathedrale und das Museum. Danach fahren wir gemütlich zur Kirche San Lorenzo und zum modernistischen Casino. Nach dem Besuch im Kloster San Pedro beenden wir die Radtour entspannt unter den Bäumen des Miguel Servet Parks.",
+        "hu": "Kerékpárral gyorsabban bejárjuk Huescát. A téren kezdünk, majd a városfalakhoz tekerünk. A biciklit leparkoljuk a katedrális és a múzeum idejére. Később kényelmesen elkarikázunk a San Lorenzo templomhoz és a modernista kaszinóhoz. A San Pedro kolostor után a Miguel Servet park fái alatt zárjuk a kerékpártúrát.",
+        "ro": "Explorăm Huesca rapid pe bicicletă. Începem în piață și pedalăm spre zidurile orașului. Parcăm bicicleta pentru a vizita catedrala și muzeul. Apoi mergem lejer spre Biserica San Lorenzo și cazinoul modernist. După vizita la Mănăstirea San Pedro, încheiem turul relaxant sub copacii din Parcul Miguel Servet.",
+        "en": "We explore Huesca briskly on a bike. Starting at the plaza, we cycle to the city walls. We park the bike for the Cathedral and Museum. Then, a leisurely ride takes us to San Lorenzo Church and the modernist Casino. After visiting San Pedro cloister, we end the ride relaxing under the trees of Miguel Servet Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ternasco Asado",
+            "tip": "Probieren Sie dieses typisch aragonesische Lammgericht in der Altstadt."
+          },
+          {
+            "name": "Empanadico",
+            "tip": "Eine herzhafte, regionale Pastete, ideal als kleiner Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ternasco Asado",
+            "tip": "Kóstolja meg ezt a tipikus aragóniai báránysültet az óvárosban."
+          },
+          {
+            "name": "Empanadico",
+            "tip": "Kiadós, helyi sós sütemény, ideális gyors ebédre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ternasco Asado",
+            "tip": "Încercați acest miel prăjit tipic aragonez în centrul vechi."
+          },
+          {
+            "name": "Empanadico",
+            "tip": "Un produs de patiserie regional consistent, perfect pentru o gustare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ternasco Asado",
+            "tip": "Try this typical Aragonese roast lamb in the old town."
+          },
+          {
+            "name": "Empanadico",
+            "tip": "A savory, regional pastry, perfect for a quick snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kreuzgang San Pedro",
+            "tip": "Ein sehr ruhiger Ort mitten in der Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Miguel Servet Park",
+            "tip": "Schatten unter großen Bäumen für eine Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Pedro udvara",
+            "tip": "Különösen csendes pont a város közepén.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Miguel Servet Park",
+            "tip": "Árnyék a nagy fák alatt egy rövid pihenőhöz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Claustrul San Pedro",
+            "tip": "Un loc foarte liniștit în mijlocul orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Miguel Servet",
+            "tip": "Umbră sub copacii mari pentru o pauză.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "San Pedro Cloister",
+            "tip": "A very quiet spot in the middle of the city.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Miguel Servet Park",
+            "tip": "Shade under large trees for a nice break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle del Coso Bajo",
+            "tip": "Die Hauptgeschäftsstraße für lokale Mode und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle del Coso Bajo",
+            "tip": "A fő bevásárlóutca helyi divathoz és szuvenírekhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle del Coso Bajo",
+            "tip": "Principala stradă comercială pentru modă și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle del Coso Bajo",
+            "tip": "The main shopping street for local fashion and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Huesca ist klein, Fahrräder eignen sich gut für den Randbereich.",
+          "In den Fußgängerzonen der Altstadt das Rad besser schieben.",
+          "Fahrradstellplätze gibt es an vielen Plätzen.",
+          "Achten Sie auf das Einbahnstraßensystem."
+        ],
+        "hu": [
+          "Huesca kis város, a kerékpár főleg a peremvidékeken hasznos.",
+          "Az óváros sétálóutcáiban érdemes tolni a kerékpárt.",
+          "Sok téren találhatók kijelölt kerékpártárolók.",
+          "Figyeljen az egyirányú utcák rendszerére."
+        ],
+        "ro": [
+          "Huesca este mică, bicicletele sunt utile la periferie.",
+          "În zonele pietonale din orașul vechi e mai bine să împingeți bicicleta.",
+          "Există locuri de parcare pentru biciclete în multe piețe.",
+          "Atenție la sistemul de străzi cu sens unic."
+        ],
+        "en": [
+          "Huesca is small, bikes are mostly useful on the outskirts.",
+          "It's better to push your bike in the old town pedestrian zones.",
+          "Bicycle parking spots are available in many squares.",
+          "Pay attention to the one-way street system."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Parque de Miguel Servet",
+          "coords": [
+            -0.4125,
+            42.134
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_mode": "car",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier und spazieren Sie durch den Park in die Stadt.",
+            "hu": "Parkoljon le itt, és sétáljon át a parkon a városba.",
+            "ro": "Parcați aici și plimbați-vă prin parc spre oraș.",
+            "en": "Park here and walk through the park into the city."
+          }
+        },
+        {
+          "name": "Casino de Huesca",
+          "coords": [
+            -0.411,
+            42.137
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein schönes Beispiel modernistischer Architektur in Aragon.",
+            "hu": "A modernista építészet gyönyörű példája Aragóniában.",
+            "ro": "Un exemplu frumos de arhitectură modernistă în Aragon.",
+            "en": "A beautiful example of modernist architecture in Aragon."
+          }
+        },
+        {
+          "name": "Plaza de López Allué",
+          "coords": [
+            -0.409,
+            42.138
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:20",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Kaffee auf dem zentralen Platz.",
+            "hu": "Igyon egy kávét a központi téren.",
+            "ro": "Savurați o cafea în piața centrală.",
+            "en": "Enjoy a coffee in the central square."
+          }
+        },
+        {
+          "name": "Iglesia de San Lorenzo",
+          "coords": [
+            -0.4105,
+            42.1385
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:50",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Kirche des Schutzpatrons der Stadt.",
+            "hu": "Látogasson el a város védőszentjének templomába.",
+            "ro": "Vizitați biserica patronului spiritual al orașului.",
+            "en": "Visit the church of the city's patron saint."
+          }
+        },
+        {
+          "name": "Monasterio de San Pedro el Viejo",
+          "coords": [
+            -0.408,
+            42.135
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:40",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch den ruhigen, alten Kreuzgang.",
+            "hu": "Sétáljon végig a csendes, régi kolostorudvaron.",
+            "ro": "Plimbați-vă prin vechiul și liniștitul claustru.",
+            "en": "Walk through the quiet, ancient cloister."
+          }
+        },
+        {
+          "name": "Kathedrale von Huesca",
+          "coords": [
+            -0.4065,
+            42.1405
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:35",
+          "stay_min": 75,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Wir parken das Auto in der Nähe des alten Stadtzentrums um.",
+            "hu": "A régi városközpont közelében parkoljuk át az autót.",
+            "ro": "Mutăm mașina în apropierea vechiului centru al orașului.",
+            "en": "We park the car near the old city center."
+          }
+        },
+        {
+          "name": "Museo de Huesca",
+          "coords": [
+            -0.407,
+            42.1415
+          ],
+          "category": "museums",
+          "arrive_at": "14:55",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die archäologischen Schätze der Region Aragon.",
+            "hu": "Fedezze fel Aragónia régió régészeti kincseit.",
+            "ro": "Descoperiți comorile arheologice ale regiunii Aragon.",
+            "en": "Discover the archaeological treasures of the Aragon region."
+          }
+        },
+        {
+          "name": "Murallas de Huesca",
+          "coords": [
+            -0.4075,
+            42.14
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:40",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein letzter Spaziergang an den alten Mauern.",
+            "hu": "Egy utolsó séta a régi várfalaknál.",
+            "ro": "O ultimă plimbare pe vechile ziduri.",
+            "en": "A final walk along the old walls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir starten mit dem Auto und parken am großen Miguel Servet Park. Von hier aus erkunden wir zu Fuß den modernen Teil, das Casino, und gehen über die Plaza zur Iglesia de San Lorenzo und dem alten Kloster San Pedro. Nachmittags fahren wir das Auto ein Stück in die Altstadt und besichtigen die Kathedrale, das archäologische Museum und spazieren zum Abschluss entlang der alten Murallas.",
+        "hu": "Autóval indulunk, és a nagy Miguel Servet parknál parkolunk le. Innen gyalogosan fedezzük fel a modern részt, a kaszinót, majd a téren át a San Lorenzo templomhoz és a régi San Pedro kolostorhoz megyünk. Délután kicsit feljebb hajtunk az óvárosba, ahol megnézzük a katedrálist, a régészeti múzeumot, és a napot a régi várfalak menti sétával zárjuk.",
+        "ro": "Pornim cu mașina și parcăm lângă marele Parc Miguel Servet. De aici, explorăm pe jos partea modernă, cazinoul, și mergem prin piață spre Iglesia de San Lorenzo și vechea mănăstire San Pedro. După-amiaza, mutăm mașina mai aproape de centrul vechi și vizităm catedrala, muzeul arheologic și încheiem cu o plimbare de-a lungul vechilor Murallas.",
+        "en": "We start by car and park near the large Miguel Servet Park. From here, we explore the modern part on foot, including the Casino, and walk across the plaza to Iglesia de San Lorenzo and the old San Pedro cloister. In the afternoon, we drive a bit into the old town to visit the Cathedral, the archaeological museum, and end with a walk along the old Murallas."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ternasco Asado",
+            "tip": "Probieren Sie dieses typisch aragonesische Lammgericht in der Altstadt."
+          },
+          {
+            "name": "Empanadico",
+            "tip": "Eine herzhafte, regionale Pastete, ideal als kleiner Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ternasco Asado",
+            "tip": "Kóstolja meg ezt a tipikus aragóniai báránysültet az óvárosban."
+          },
+          {
+            "name": "Empanadico",
+            "tip": "Kiadós, helyi sós sütemény, ideális gyors ebédre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ternasco Asado",
+            "tip": "Încercați acest miel prăjit tipic aragonez în centrul vechi."
+          },
+          {
+            "name": "Empanadico",
+            "tip": "Un produs de patiserie regional consistent, perfect pentru o gustare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ternasco Asado",
+            "tip": "Try this typical Aragonese roast lamb in the old town."
+          },
+          {
+            "name": "Empanadico",
+            "tip": "A savory, regional pastry, perfect for a quick snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kreuzgang San Pedro",
+            "tip": "Ein sehr ruhiger Ort mitten in der Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Miguel Servet Park",
+            "tip": "Schatten unter großen Bäumen für eine Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Pedro udvara",
+            "tip": "Különösen csendes pont a város közepén.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Miguel Servet Park",
+            "tip": "Árnyék a nagy fák alatt egy rövid pihenőhöz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Claustrul San Pedro",
+            "tip": "Un loc foarte liniștit în mijlocul orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Miguel Servet",
+            "tip": "Umbră sub copacii mari pentru o pauză.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "San Pedro Cloister",
+            "tip": "A very quiet spot in the middle of the city.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Miguel Servet Park",
+            "tip": "Shade under large trees for a nice break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle del Coso Bajo",
+            "tip": "Die Hauptgeschäftsstraße für lokale Mode und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle del Coso Bajo",
+            "tip": "A fő bevásárlóutca helyi divathoz és szuvenírekhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle del Coso Bajo",
+            "tip": "Principala stradă comercială pentru modă și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle del Coso Bajo",
+            "tip": "The main shopping street for local fashion and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Huesca ist für Autos sehr eng, parken Sie eher außerhalb.",
+          "Die Altstadtgassen sind teilweise steil und für Autos gesperrt.",
+          "Achten Sie auf gebührenpflichtige Parkzonen.",
+          "Parken am Servet Park ist meist einfacher."
+        ],
+        "hu": [
+          "Huesca utcái szűkek az autók számára, inkább kintebb parkoljon.",
+          "Az óváros utcái meredekek, és nagyrészt le vannak zárva az autók elől.",
+          "Figyeljen a fizetős parkolózónákra.",
+          "A Servet park melletti parkolás általában könnyebb."
+        ],
+        "ro": [
+          "Huesca este foarte îngustă pentru mașini, mai bine parcați la margine.",
+          "Străduțele centrului vechi sunt uneori abrupte și interzise mașinilor.",
+          "Atenție la zonele de parcare cu plată.",
+          "Parcarea lângă Parcul Servet este adesea mai ușoară."
+        ],
+        "en": [
+          "Huesca is quite narrow for cars; it's better to park on the outskirts.",
+          "Old town streets are sometimes steep and closed to cars.",
+          "Pay attention to paid parking zones.",
+          "Parking near Servet Park is usually easier."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Plaza de López Allué",
+          "coords": [
+            -0.409,
+            42.138
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie am zentralen Platz mit einem guten Kaffee.",
+            "hu": "Kezdje a központi téren egy jó kávéval.",
+            "ro": "Începeți în piața centrală cu o cafea bună.",
+            "en": "Start at the central square with a good coffee."
+          }
+        },
+        {
+          "name": "Iglesia de San Lorenzo",
+          "coords": [
+            -0.4105,
+            42.1385
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Kirche des Schutzpatrons der Stadt.",
+            "hu": "Látogasson el a város védőszentjének templomába.",
+            "ro": "Vizitați biserica patronului spiritual al orașului.",
+            "en": "Visit the church of the city's patron saint."
+          }
+        },
+        {
+          "name": "Casino de Huesca",
+          "coords": [
+            -0.411,
+            42.137
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:25",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein schönes Beispiel modernistischer Architektur in Aragon.",
+            "hu": "A modernista építészet gyönyörű példája Aragóniában.",
+            "ro": "Un exemplu frumos de arhitectură modernistă în Aragon.",
+            "en": "A beautiful example of modernist architecture in Aragon."
+          }
+        },
+        {
+          "name": "Monasterio de San Pedro el Viejo",
+          "coords": [
+            -0.408,
+            42.135
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch den ruhigen, alten Kreuzgang.",
+            "hu": "Sétáljon végig a csendes, régi kolostorudvaron.",
+            "ro": "Plimbați-vă prin vechiul și liniștitul claustru.",
+            "en": "Walk through the quiet, ancient cloister."
+          }
+        },
+        {
+          "name": "Parque de Miguel Servet",
+          "coords": [
+            -0.4125,
+            42.134
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:05",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort für eine Mittagspause.",
+            "hu": "Nyugodt hely egy ebédszünethez.",
+            "ro": "Un loc liniștit pentru pauza de prânz.",
+            "en": "A quiet spot for a lunch break."
+          }
+        },
+        {
+          "name": "Kathedrale von Huesca",
+          "coords": [
+            -0.4065,
+            42.1405
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:35",
+          "stay_min": 75,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Wir nutzen den lokalen Bus, um in die höher gelegene Altstadt zu gelangen.",
+            "hu": "A helyi busszal felmegyünk a magasabban fekvő óvárosba.",
+            "ro": "Folosim autobuzul local pentru a ajunge în centrul vechi situat mai sus.",
+            "en": "We use the local bus to reach the higher old town."
+          }
+        },
+        {
+          "name": "Museo de Huesca",
+          "coords": [
+            -0.407,
+            42.1415
+          ],
+          "category": "museums",
+          "arrive_at": "14:55",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die archäologischen Schätze der Region Aragon.",
+            "hu": "Fedezze fel Aragónia régió régészeti kincseit.",
+            "ro": "Descoperiți comorile arheologice ale regiunii Aragon.",
+            "en": "Discover the archaeological treasures of the Aragon region."
+          }
+        },
+        {
+          "name": "Murallas de Huesca",
+          "coords": [
+            -0.4075,
+            42.14
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:40",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der gut erhaltenen alten Stadtmauern.",
+            "hu": "Sétáljon végig a jó állapotban fennmaradt régi városfalakon.",
+            "ro": "Plimbați-vă de-a lungul vechilor ziduri ale orașului bine conservate.",
+            "en": "Walk along the well-preserved old city walls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den Öffentlichen erreichen wir schnell die Plaza. Von dort aus erkunden wir zu Fuß die San Lorenzo Kirche, das Casino und den alten Kreuzgang San Pedro. Nach einer ausgiebigen Mittagspause im Miguel Servet Park nehmen wir den Bus hinauf zur Altstadt. Hier verbringen wir den Nachmittag in der prächtigen Kathedrale, im Geschichtsmuseum und beenden den Tag an den alten Stadtmauern.",
+        "hu": "A helyi járatokkal gyorsan elérjük a teret. Innen gyalogosan megnézzük a San Lorenzo templomot, a kaszinót és a régi San Pedro kolostor udvarát. A Miguel Servet parkban töltött kiadós ebédszünet után busszal megyünk fel az óvárosba. Itt töltjük a délutánt a pompás katedrálisban, a történelmi múzeumban, majd a régi várfalaknál fejezzük be a napot.",
+        "ro": "Cu transportul public ajungem repede în piață. De acolo explorăm pe jos Biserica San Lorenzo, cazinoul și vechiul claustru San Pedro. După o pauză generoasă de prânz în Parcul Miguel Servet, luăm autobuzul spre orașul vechi de sus. Aici ne petrecem după-amiaza la magnifica catedrală, muzeul de istorie, și terminăm ziua la vechile ziduri.",
+        "en": "Public transport quickly gets us to the plaza. From there, we explore on foot the San Lorenzo Church, the Casino, and the old San Pedro cloister. After a generous lunch break in Miguel Servet Park, we take the bus up to the old town. Here we spend the afternoon at the magnificent Cathedral, the history museum, and finish the day at the old city walls."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ternasco Asado",
+            "tip": "Probieren Sie dieses typisch aragonesische Lammgericht in der Altstadt."
+          },
+          {
+            "name": "Empanadico",
+            "tip": "Eine herzhafte, regionale Pastete, ideal als kleiner Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ternasco Asado",
+            "tip": "Kóstolja meg ezt a tipikus aragóniai báránysültet az óvárosban."
+          },
+          {
+            "name": "Empanadico",
+            "tip": "Kiadós, helyi sós sütemény, ideális gyors ebédre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ternasco Asado",
+            "tip": "Încercați acest miel prăjit tipic aragonez în centrul vechi."
+          },
+          {
+            "name": "Empanadico",
+            "tip": "Un produs de patiserie regional consistent, perfect pentru o gustare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ternasco Asado",
+            "tip": "Try this typical Aragonese roast lamb in the old town."
+          },
+          {
+            "name": "Empanadico",
+            "tip": "A savory, regional pastry, perfect for a quick snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kreuzgang San Pedro",
+            "tip": "Ein sehr ruhiger Ort mitten in der Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Miguel Servet Park",
+            "tip": "Schatten unter großen Bäumen für eine Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Pedro udvara",
+            "tip": "Különösen csendes pont a város közepén.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Miguel Servet Park",
+            "tip": "Árnyék a nagy fák alatt egy rövid pihenőhöz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Claustrul San Pedro",
+            "tip": "Un loc foarte liniștit în mijlocul orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Miguel Servet",
+            "tip": "Umbră sub copacii mari pentru o pauză.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "San Pedro Cloister",
+            "tip": "A very quiet spot in the middle of the city.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Miguel Servet Park",
+            "tip": "Shade under large trees for a nice break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle del Coso Bajo",
+            "tip": "Die Hauptgeschäftsstraße für lokale Mode und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle del Coso Bajo",
+            "tip": "A fő bevásárlóutca helyi divathoz és szuvenírekhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle del Coso Bajo",
+            "tip": "Principala stradă comercială pentru modă și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle del Coso Bajo",
+            "tip": "The main shopping street for local fashion and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Huesca hat ein gutes Netz an Kleinbussen.",
+          "Die Altstadt lässt sich am besten zu Fuß vom Bus-Stopp aus erkunden.",
+          "Die Bushaltestellen sind rund um das historische Zentrum verteilt.",
+          "Für kurze Strecken in der Altstadt lohnt sich das Warten auf den Bus oft nicht."
+        ],
+        "hu": [
+          "Huescában jó hálózata van a kisbuszoknak.",
+          "Az óváros leginkább gyalog fedezhető fel a buszmegállóktól.",
+          "A buszmegállók a történelmi központ körül helyezkednek el.",
+          "Rövid távolságokra az óvárosban gyakran nem éri meg buszra várni."
+        ],
+        "ro": [
+          "Huesca are o rețea bună de microbuze.",
+          "Orașul vechi se explorează cel mai bine pe jos de la stația de autobuz.",
+          "Stațiile de autobuz sunt distribuite în jurul centrului istoric.",
+          "Pentru distanțe scurte în centrul vechi, deseori nu merită să aștepți autobuzul."
+        ],
+        "en": [
+          "Huesca has a good network of minibuses.",
+          "The old town is best explored on foot from the bus stop.",
+          "Bus stops are distributed around the historical center.",
+          "For short distances in the old town, waiting for a bus is often not worth it."
+        ]
+      }
+    }
+  }
+}

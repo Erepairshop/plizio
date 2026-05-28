@@ -1,0 +1,1524 @@
+{
+  "city_id": "portugal-caldas-da-rainha-cities-v2",
+  "anchor": {
+    "name": "Caldas da Rainha",
+    "coords": [
+      -9.1352,
+      39.4032
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:58",
+      "total_km": 1.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Praça da Fruta",
+            "hu": "Praça da Fruta (Gyümölcspiac)",
+            "ro": "Praça da Fruta",
+            "en": "Praça da Fruta (Fruit Market Square)"
+          },
+          "coords": [
+            -9.1352,
+            39.4032
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kommen Sie früh, um die beste Auswahl an frischem Obst und lokalem Käse zu bekommen.",
+            "hu": "Érkezzen korán, hogy a legfrissebb gyümölcsökből és helyi sajtokból válogathasson.",
+            "ro": "Veniți devreme pentru a prinde cea mai bună selecție de fructe proaspete și brânzeturi locale.",
+            "en": "Come early to get the best selection of fresh fruit and local cheeses."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Unserer Lieben Frau von Pópulo",
+            "hu": "Nossa Senhora do Pópulo templom",
+            "ro": "Biserica Nossa Senhora do Pópulo",
+            "en": "Church of Nossa Senhora do Pópulo"
+          },
+          "coords": [
+            -9.136,
+            39.4035
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die wunderschönen Azulejo-Fliesen aus dem 17. Jahrhundert im Inneren.",
+            "hu": "Figyelje meg a belső tér gyönyörű, 17. századi azulejo csempéit.",
+            "ro": "Observați panourile interioare de azulejo din secolul al XVII-lea.",
+            "en": "Look for the beautiful 17th-century azulejo tile panels inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Thermal-Krankenhaus Königin D. Leonor",
+            "hu": "Leonor Királynő Termálkórház",
+            "ro": "Spitalul Termal Regina D. Leonor",
+            "en": "Thermal Hospital Queen D. Leonor"
+          },
+          "coords": [
+            -9.1365,
+            39.404
+          ],
+          "category": "historical",
+          "arrive_at": "10:46",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dies ist das älteste Thermal-Krankenhaus der Welt. Die Führungen sind sehr informativ.",
+            "hu": "Ez a világ legrégebbi termálkórháza. A vezetett túrák nagyon informatívak.",
+            "ro": "Acesta este cel mai vechi spital termal din lume. Tururile ghidate sunt foarte informative.",
+            "en": "This is the oldest thermal hospital in the world. The guided tours are very informative."
+          }
+        },
+        {
+          "name": {
+            "de": "Keramikmuseum",
+            "hu": "Kerámia Múzeum",
+            "ro": "Muzeul Ceramicii",
+            "en": "Ceramics Museum"
+          },
+          "coords": [
+            -9.1395,
+            39.4025
+          ],
+          "category": "museums",
+          "arrive_at": "12:06",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Jugendstil-Sammlung und die Werke von Bordallo Pinheiro.",
+            "hu": "Ne hagyja ki az Art Nouveau gyűjteményt és Bordallo Pinheiro munkáit.",
+            "ro": "Nu ratați colecția Art Nouveau și lucrările lui Bordallo Pinheiro.",
+            "en": "Don't miss the Art Nouveau collection and the works by Bordallo Pinheiro."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom Carlos I Park",
+            "hu": "Dom Carlos I Park",
+            "ro": "Parcul Dom Carlos I",
+            "en": "Dom Carlos I Park"
+          },
+          "coords": [
+            -9.138,
+            39.401
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 104,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Mieten Sie ein Ruderboot auf dem See für eine romantische Pause.",
+            "hu": "Béreljen csónakot a tavon egy romantikus pihenőre.",
+            "ro": "Închiriați o barcă cu vâsle pe lac pentru o pauză romantică.",
+            "en": "Rent a rowboat on the lake for a romantic break."
+          }
+        },
+        {
+          "name": {
+            "de": "José Malhoa Museum",
+            "hu": "José Malhoa Múzeum",
+            "ro": "Muzeul José Malhoa",
+            "en": "José Malhoa Museum"
+          },
+          "coords": [
+            -9.1385,
+            39.4015
+          ],
+          "category": "museums",
+          "arrive_at": "16:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum beherbergt die größte Sammlung naturalistischer Malerei in Portugal.",
+            "hu": "A múzeum ad otthont Portugália legnagyobb naturalista festészeti gyűjteményének.",
+            "ro": "Muzeul găzduiește cea mai mare colecție de pictură naturalistă din Portugalia.",
+            "en": "The museum holds the largest collection of naturalist painting in Portugal."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf der lebhaften Praça da Fruta, wo Bauern ihre frischen Produkte verkaufen. Spüren Sie den Puls der Stadt auf diesem farbenfrohen, jahrhundertealten Markt.\nNach dem Marktbummel tauchen Sie in die Geschichte ein. Besuchen Sie die Kirche Nossa Senhora do Pópulo und das angrenzende Thermal-Krankenhaus, das Fundament, auf dem diese Stadt erbaut wurde. Am Nachmittag widmen Sie sich der Kunst. Das Keramikmuseum zeigt die reiche Töpfertradition der Region, die von der genialen Vision von Bordallo Pinheiro geprägt wurde.\nSchließen Sie Ihren Tag mit einem entspannten Spaziergang durch den romantischen Park Dom Carlos I ab. Finden Sie das José-Malhoa-Museum im Park, um die Werke des berühmten portugiesischen naturalistischen Malers zu bewundern. Es ist ein perfekter, ruhiger Abschluss für einen Tag voller Entdeckungen.",
+        "hu": "Kezdje a napot a nyüzsgő Praça da Frutan, ahol a helyi gazdák árulják friss termékeiket. Érezze a város lüktetését ezen a színes, évszázados piacon.\nA piaci forgatag után merüljön el a történelemben. Látogasson el a Nossa Senhora do Pópulo templomba és a szomszédos termálkórházba, a város alapkövéhez. Délután szentelje idejét a művészetnek. A Kerámia Múzeum bemutatja a régió gazdag fazekas hagyományait, melyet Bordallo Pinheiro zseniális látásmódja formált.\nZárja a napot egy pihentető sétával a romantikus Dom Carlos I parkban. A parkban található José Malhoa Múzeumban megcsodálhatja a híres portugál naturalista festő műveit. Tökéletes, békés lezárása egy felfedezésekkel teli napnak.",
+        "ro": "Începeți ziua în vibranta Praça da Fruta, unde fermierii își vând produsele proaspete. Simțiți pulsul orașului în această piață colorată, veche de secole.\nDupă agitația pieței, scufundați-vă în istorie. Vizitați Biserica Nossa Senhora do Pópulo și Spitalul Termal adiacent, fundația pe care a fost construit acest oraș. După-amiaza este dedicată artei. Muzeul Ceramicii prezintă bogata tradiție a olăritului din regiune, modelată de viziunea genială a lui Bordallo Pinheiro.\nÎncheiați ziua cu o plimbare relaxantă prin romanticul Parc Dom Carlos I. Găsiți Muzeul José Malhoa în interiorul parcului pentru a admira lucrările celebrului pictor naturalist portughez. Este un final perfect și liniștit pentru o zi plină de descoperiri.",
+        "en": "Start your day at the vibrant Praça da Fruta, where farmers sell their fresh produce. Feel the city's pulse in this colourful, centuries-old market.\nAfter the market buzz, delve into history. Visit the Church of Nossa Senhora do Pópulo and the adjacent Thermal Hospital, the very foundation upon which this city was built. The afternoon is for art. The Ceramics Museum showcases the region's rich pottery tradition, shaped by the genius vision of Bordallo Pinheiro.\nConclude your day with a relaxing stroll through the romantic Dom Carlos I Park. Find the José Malhoa Museum within the park to admire the works of the famous Portuguese naturalist painter. It's a perfect, peaceful end to a day of discovery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cavacas das Caldas",
+            "tip": "Ein lokales süßes Gebäck, leicht und mit Zucker überzogen, perfekt zum Kaffee."
+          },
+          {
+            "name": "Pão-de-ló do Landal",
+            "tip": "Ein sehr fluffiger und feuchter Biskuitkuchen aus einer nahegelegenen Stadt, der hier aber weithin erhältlich ist."
+          },
+          {
+            "name": "Meeresfrüchte-Reis (Arroz de Marisco)",
+            "tip": "Obwohl es nicht direkt an der Küste liegt, ist die Nähe zu den Fischerhäfen groß, suchen Sie nach Restaurants, die dies servieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cavacas das Caldas",
+            "tip": "Helyi édes sütemény, könnyű és cukormázas, tökéletes egy kávé mellé."
+          },
+          {
+            "name": "Pão-de-ló do Landal",
+            "tip": "Nagyon puha és nedves piskóta egy közeli városból, de itt is széles körben kapható."
+          },
+          {
+            "name": "Tenger gyümölcsei rizs (Arroz de Marisco)",
+            "tip": "Bár nem közvetlenül a tengerparton van, a halászkikötők közelsége miatt érdemes olyan éttermeket keresni, ahol ezt szolgálják fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cavacas das Caldas",
+            "tip": "O prăjitură locală dulce, ușoară și acoperită cu zahăr, perfectă cu o cafea."
+          },
+          {
+            "name": "Pão-de-ló do Landal",
+            "tip": "Un pandișpan foarte pufos și umed dintr-un oraș din apropiere, dar disponibil pe scară largă aici."
+          },
+          {
+            "name": "Orez cu fructe de mare (Arroz de Marisco)",
+            "tip": "Deși nu este chiar pe coastă, apropierea de porturile de pescuit înseamnă că ar trebui să căutați restaurante care servesc acest fel."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cavacas das Caldas",
+            "tip": "A local sweet pastry, light and coated in sugar, perfect with a coffee."
+          },
+          {
+            "name": "Pão-de-ló do Landal",
+            "tip": "A very fluffy and moist sponge cake from a nearby town but widely available here."
+          },
+          {
+            "name": "Seafood Rice (Arroz de Marisco)",
+            "tip": "Although not right on the coast, its proximity to fishing ports means you should look for restaurants serving this."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Dom Carlos I Park",
+            "tip": "Finden Sie eine ruhige Bank am See oder im Schatten eines Baumes.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Garten des Keramikmuseums",
+            "tip": "Ein kleiner, abgeschiedener Garten, der oft übersehen wird.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ufer des Sees im Park",
+            "tip": "Beobachten Sie die Schwäne und Enten von einem ruhigen Platz am Wasser.",
+            "emoji": "🦢"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dom Carlos I Park",
+            "tip": "Keressen egy csendes padot a tó mellett vagy egy fa árnyékában.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "A Kerámia Múzeum kertje",
+            "tip": "Egy kis, eldugott kert, amelyet gyakran figyelmen kívül hagynak.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A parki tó partja",
+            "tip": "Figyelje a hattyúkat és kacsákat egy csendes helyről a vízparton.",
+            "emoji": "🦢"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Dom Carlos I",
+            "tip": "Găsiți o bancă liniștită lângă lac sau la umbra unui copac.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Grădina Muzeului Ceramicii",
+            "tip": "O mică grădină retrasă, adesea trecută cu vederea.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malul lacului din parc",
+            "tip": "Priviți lebedele și rațele dintr-un loc liniștit de lângă apă.",
+            "emoji": "🦢"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dom Carlos I Park",
+            "tip": "Find a quiet bench by the lake or under the shade of a tree.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Ceramics Museum Garden",
+            "tip": "A small, secluded garden that is often overlooked.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Edge of the lake in the park",
+            "tip": "Watch the swans and ducks from a quiet spot by the water.",
+            "emoji": "🦢"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Praça da Fruta",
+            "tip": "Täglicher Bauernmarkt mit Obst, Gemüse und lokalen Produkten."
+          },
+          {
+            "name": "Bordallo Pinheiro Keramik",
+            "tip": "Kaufen Sie die berühmte, von Kohlblättern inspirierte Keramik direkt von der Quelle."
+          },
+          {
+            "name": "Rua das Montras",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus traditionellen Geschäften und modernen Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Praça da Fruta",
+            "tip": "Napi termelői piac gyümölcsökkel, zöldségekkel és helyi termékekkel."
+          },
+          {
+            "name": "Bordallo Pinheiro kerámia",
+            "tip": "Vásároljon a híres, káposztalevelek által ihletett kerámiából közvetlenül a forrásnál."
+          },
+          {
+            "name": "Rua das Montras",
+            "tip": "A fő bevásárlóutca, ahol a hagyományos boltok és a modern márkák keverednek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Praça da Fruta",
+            "tip": "Piață zilnică a fermierilor cu fructe, legume și produse locale."
+          },
+          {
+            "name": "Ceramică Bordallo Pinheiro",
+            "tip": "Cumpărați faimoasa ceramică inspirată de frunzele de varză direct de la sursă."
+          },
+          {
+            "name": "Rua das Montras",
+            "tip": "Strada principală de cumpărături, cu un amestec de magazine tradiționale și mărci moderne."
+          }
+        ],
+        "en": [
+          {
+            "name": "Praça da Fruta",
+            "tip": "Daily farmer's market for fruit, vegetables, and local produce."
+          },
+          {
+            "name": "Bordallo Pinheiro Ceramics",
+            "tip": "Buy the famous cabbage-leaf inspired ceramics directly from the source."
+          },
+          {
+            "name": "Rua das Montras",
+            "tip": "The main shopping street with a mix of traditional shops and modern brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Innenstadt kompakt und sehr gut zu Fuß zu erkunden ist.",
+          "Die meisten Museen sind montags geschlossen, planen Sie also entsprechend.",
+          "Nehmen Sie Bargeld für den Bauernmarkt mit, obwohl viele Verkäufer jetzt Karten akzeptieren.",
+          "Probieren Sie das lokale Gebäck 'Cavacas' für einen süßen Genuss."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, a városközpont kompakt és nagyon jól gyalogolható.",
+          "A legtöbb múzeum hétfőn zárva tart, ezért tervezzen ennek megfelelően.",
+          "Vigyen magával készpénzt a termelői piacra, bár sok árus már elfogad kártyát is.",
+          "Kóstolja meg a helyi 'Cavacas' süteményt egy édes élvezetért."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, centrul orașului este compact și foarte ușor de parcurs pe jos.",
+          "Majoritatea muzeelor sunt închise lunea, așa că planificați-vă în consecință.",
+          "Aduceți numerar pentru piața fermierilor, deși mulți vânzători acceptă acum carduri.",
+          "Încercați produsul de patiserie local 'Cavacas' pentru un răsfăț dulce."
+        ],
+        "en": [
+          "Wear comfortable shoes as the city center is compact and very walkable.",
+          "Most museums are closed on Mondays, so plan accordingly.",
+          "Bring cash for the farmer's market, although many vendors now accept cards.",
+          "Try the local pastry 'Cavacas' for a sweet treat."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 5.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Praça da Fruta",
+            "hu": "Praça da Fruta (Gyümölcspiac)",
+            "ro": "Praça da Fruta",
+            "en": "Praça da Fruta (Fruit Market Square)"
+          },
+          "coords": [
+            -9.1352,
+            39.4032
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad in der Nähe ab und schlendern Sie durch die Stände.",
+            "hu": "Zárja le a biciklit a közelben, és sétáljon végig a standokon.",
+            "ro": "Parcați bicicleta în apropiere și plimbați-vă printre tarabe.",
+            "en": "Lock your bike nearby and stroll through the stalls."
+          }
+        },
+        {
+          "name": {
+            "de": "Fábrica Bordallo Pinheiro",
+            "hu": "Bordallo Pinheiro Gyár",
+            "ro": "Fabrica Bordallo Pinheiro",
+            "en": "Fábrica Bordallo Pinheiro"
+          },
+          "coords": [
+            -9.145,
+            39.408
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Tour durch die Fabrik ist faszinierend, ebenso wie der Werksverkauf.",
+            "hu": "A gyárlátogatás lenyűgöző, ahogy a gyári bolt is.",
+            "ro": "Turul fabricii este fascinant, la fel și magazinul de desfacere.",
+            "en": "The factory tour is fascinating, as is the factory shop."
+          }
+        },
+        {
+          "name": {
+            "de": "Keramikmuseum",
+            "hu": "Kerámia Múzeum",
+            "ro": "Muzeul Ceramicii",
+            "en": "Ceramics Museum"
+          },
+          "coords": [
+            -9.1395,
+            39.4025
+          ],
+          "category": "museums",
+          "arrive_at": "11:28",
+          "stay_min": 90,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Sie werden die Verbindungen zwischen der Fabrik und der Kunstgeschichte hier sehen.",
+            "hu": "Itt látni fogja a kapcsolatot a gyár és a művészettörténet között.",
+            "ro": "Veți vedea legăturile dintre fabrică și istoria artei aici.",
+            "en": "You'll see the connections between the factory and the art history here."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom Carlos I Park",
+            "hu": "Dom Carlos I Park",
+            "ro": "Parcul Dom Carlos I",
+            "en": "Dom Carlos I Park"
+          },
+          "coords": [
+            -9.138,
+            39.401
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekter Ort für ein Picknick-Mittagessen mit Leckereien vom Markt.",
+            "hu": "Tökéletes hely egy piknikebédhez a piacon vásárolt finomságokból.",
+            "ro": "Locul perfect pentru un prânz la picnic cu bunătăți de la piață.",
+            "en": "Perfect spot for a picnic lunch with goodies from the market."
+          }
+        },
+        {
+          "name": {
+            "de": "José Malhoa Museum",
+            "hu": "José Malhoa Múzeum",
+            "ro": "Muzeul José Malhoa",
+            "en": "José Malhoa Museum"
+          },
+          "coords": [
+            -9.1385,
+            39.4015
+          ],
+          "category": "museums",
+          "arrive_at": "14:19",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lassen Sie Ihr Fahrrad am Parkeingang und gehen Sie zu Fuß, es ist im selben Park.",
+            "hu": "Hagyja a kerékpárt a park bejáratánál, és sétáljon, ugyanabban a parkban van.",
+            "ro": "Lăsați bicicleta la intrarea în parc și mergeți pe jos, este în același parc.",
+            "en": "Leave your bike at the park entrance and walk, it's within the same park."
+          }
+        },
+        {
+          "name": {
+            "de": "Thermal-Krankenhaus Königin D. Leonor",
+            "hu": "Leonor Királynő Termálkórház",
+            "ro": "Spitalul Termal Regina D. Leonor",
+            "en": "Thermal Hospital Queen D. Leonor"
+          },
+          "coords": [
+            -9.1365,
+            39.404
+          ],
+          "category": "historical",
+          "arrive_at": "15:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die heilenden Wasser, die der Stadt ihren Namen gaben.",
+            "hu": "Ismerje meg a gyógyító vizeket, amelyek a város nevét adták.",
+            "ro": "Aflați despre apele vindecătoare care au dat numele orașului.",
+            "en": "Learn about the healing waters that gave the city its name."
+          }
+        },
+        {
+          "name": {
+            "de": "Chafariz das Cinco Bicas",
+            "hu": "Chafariz das Cinco Bicas",
+            "ro": "Chafariz das Cinco Bicas",
+            "en": "Chafariz das Cinco Bicas"
+          },
+          "coords": [
+            -9.1345,
+            39.4028
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:59",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein historischer Brunnen mit fünf Ausgüssen, ein großartiger Ort für Fotos.",
+            "hu": "Történelmi, öt kifolyócsővel rendelkező szökőkút, remek fotóhelyszín.",
+            "ro": "O fântână istorică cu cinci guri de scurgere, un loc minunat pentru fotografii.",
+            "en": "A historic fountain with five spouts, a great photo opportunity."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am Praça da Fruta, radeln Sie dann nach Norden zur berühmten Bordallo Pinheiro Fabrik. Erkunden Sie die Welt der Keramik und kaufen Sie vielleicht ein einzigartiges Souvenir.\nFahren Sie zurück in Richtung Zentrum und halten Sie am Keramikmuseum, um die Kunst in einen historischen Kontext zu stellen. Dann ist es Zeit für eine Pause im Dom Carlos I Park, einem idealen Ort für ein Mittagessen im Freien.\nAm Nachmittag tauchen Sie im José Malhoa Museum tiefer in die portugiesische Kunst ein. Schließen Sie Ihre Radtour mit einem Besuch des historischen Thermal-Krankenhauses ab, dem Geburtsort der Stadt, bevor Sie einen letzten Halt am eleganten Chafariz das Cinco Bicas Brunnen machen.",
+        "hu": "Induljon a Praça da Frutától, majd tekerjen észak felé a híres Bordallo Pinheiro gyárhoz. Fedezze fel a kerámia világát, és vásároljon egyedi szuvenírt.\nKanyarodjon vissza a központ felé, álljon meg a Kerámia Múzeumnál, hogy történelmi kontextusba helyezze a művészetet. Ezután pihenjen a Dom Carlos I parkban, amely ideális hely egy szabadtéri ebédhez.\nDélután merüljön el mélyebben a portugál művészetben a José Malhoa Múzeumban. Zárja a kerékpártúrát a történelmi Termálkórház meglátogatásával, a város szülőhelyével, mielőtt utoljára megállna az elegáns Chafariz das Cinco Bicas szökőkútnál.",
+        "ro": "Porniți din Praça da Fruta, apoi pedalați spre nord către faimoasa fabrică Bordallo Pinheiro. Explorați lumea ceramicii și poate cumpărați un suvenir unic.\nÎntoarceți-vă spre centru, oprindu-vă la Muzeul Ceramicii pentru a pune arta în context istoric. Apoi este timpul pentru o pauză în Parcul Dom Carlos I, un loc ideal pentru un prânz în aer liber.\nDupă-amiaza, aprofundați arta portugheză la Muzeul José Malhoa. Încheiați turul pe bicicletă cu o vizită la Spitalul Termal istoric, locul de naștere al orașului, înainte de o oprire finală la eleganta fântână Chafariz das Cinco Bicas.",
+        "en": "Start from Praça da Fruta, then cycle north to the famous Bordallo Pinheiro Factory. Explore the world of ceramics and maybe buy a unique souvenir.\nHead back towards the centre, stopping at the Ceramics Museum to put the art into historical context. Then it's time for a break in the Dom Carlos I Park, an ideal spot for an open-air lunch.\nIn the afternoon, delve deeper into Portuguese art at the José Malhoa Museum. End your bike tour with a visit to the historic Thermal Hospital, the city's birthplace, before a final stop at the elegant Chafariz das Cinco Bicas fountain."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Trouxas de ovos",
+            "tip": "Eine weitere lokale Süßigkeit, hergestellt aus Eigelb und Zucker, sehr reichhaltig und köstlich."
+          },
+          {
+            "name": "Gegrillter Fisch",
+            "tip": "Suchen Sie nach kleinen, familiengeführten Restaurants ('tascas'), die frischen Fisch vom nahegelegenen Markt servieren."
+          },
+          {
+            "name": "Lokaler Wein",
+            "tip": "Die Region Oeste hat einige ausgezeichnete Weine, fragen Sie nach einer lokalen Empfehlung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trouxas de ovos",
+            "tip": "Egy másik helyi édesség, tojássárgájából és cukorból készül, nagyon gazdag és finom."
+          },
+          {
+            "name": "Grillezett hal",
+            "tip": "Keressen kis, családi éttermeket ('tascas'), amelyek friss halat szolgálnak fel a közeli piacról."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "Az Oeste régiónak kiváló borai vannak, kérjen helyi ajánlást."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trouxas de ovos",
+            "tip": "O altă delicatesă locală, făcută din gălbenuș de ou și zahăr, foarte bogată și delicioasă."
+          },
+          {
+            "name": "Pește la grătar",
+            "tip": "Căutați restaurante mici, de familie ('tascas') care servesc pește proaspăt de la piața din apropiere."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Regiunea Oeste are câteva vinuri excelente, cereți o recomandare locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trouxas de ovos",
+            "tip": "Another local sweet made from egg yolks and sugar, very rich and delicious."
+          },
+          {
+            "name": "Grilled fish",
+            "tip": "Look for small, family-run restaurants ('tascas') serving fresh fish from the nearby market."
+          },
+          {
+            "name": "Local Wine",
+            "tip": "The Oeste region has some excellent wines, ask for a local recommendation."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mata Rainha D. Leonor",
+            "tip": "Ein Waldgebiet in der Nähe des Parks, ideal für eine ruhige Radtour oder einen Spaziergang.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Hinterhöfe des historischen Zentrums",
+            "tip": "Verlassen Sie die Hauptstraßen und entdecken Sie ruhige Ecken.",
+            "emoji": "🤫"
+          },
+          {
+            "name": "Spätnachmittag im Park",
+            "tip": "Wenn die Menschenmassen nachlassen, wird der Park zu einer Oase der Ruhe.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mata Rainha D. Leonor",
+            "tip": "A park melletti erdős terület, ideális egy csendes biciklizéshez vagy sétához.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "A történelmi központ hátsó udvarai",
+            "tip": "Hagyja el a főutcákat, és fedezzen fel csendes zugokat.",
+            "emoji": "🤫"
+          },
+          {
+            "name": "Késő délután a parkban",
+            "tip": "Amikor a tömeg eloszlik, a park a nyugalom oázisává válik.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mata Rainha D. Leonor",
+            "tip": "O zonă de pădure lângă parc, ideală pentru o plimbare liniștită cu bicicleta sau pe jos.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Curțile din spatele centrului istoric",
+            "tip": "Părăsiți străzile principale și descoperiți colțuri liniștite.",
+            "emoji": "🤫"
+          },
+          {
+            "name": "După-amiaza târziu în parc",
+            "tip": "Pe măsură ce mulțimile se răresc, parcul devine o oază de liniște.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mata Rainha D. Leonor",
+            "tip": "A forest area near the park, ideal for a quiet bike ride or walk.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Backstreets of the historic center",
+            "tip": "Get off the main roads and discover quiet corners.",
+            "emoji": "🤫"
+          },
+          {
+            "name": "Late afternoon in the park",
+            "tip": "As the crowds thin out, the park becomes an oasis of calm.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Praça da Fruta",
+            "tip": "Neben Lebensmitteln finden Sie hier auch Kunsthandwerk und Keramik."
+          },
+          {
+            "name": "Bordallo Pinheiro Werksverkauf",
+            "tip": "Die beste Adresse für authentische Keramik zu ermäßigten Preisen."
+          },
+          {
+            "name": "Lokale Feinkostläden",
+            "tip": "Suchen Sie nach 'mercearias' für Käse, Wurst und andere lokale Köstlichkeiten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Praça da Fruta",
+            "tip": "Az élelmiszerek mellett kézműves termékeket és kerámiát is talál."
+          },
+          {
+            "name": "Bordallo Pinheiro gyári bolt",
+            "tip": "A legjobb hely autentikus kerámiák kedvezményes áron történő beszerzésére."
+          },
+          {
+            "name": "Helyi csemegeboltok",
+            "tip": "Keressen 'mercearias'-t sajtokért, kolbászokért és más helyi finomságokért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Praça da Fruta",
+            "tip": "Pe lângă alimente, veți găsi și artizanat și ceramică."
+          },
+          {
+            "name": "Magazinul fabricii Bordallo Pinheiro",
+            "tip": "Cel mai bun loc pentru a cumpăra ceramică autentică la prețuri reduse."
+          },
+          {
+            "name": "Băcănii locale",
+            "tip": "Căutați 'mercearias' pentru brânzeturi, mezeluri și alte delicatese locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Praça da Fruta",
+            "tip": "As well as food, you'll also find handicrafts and ceramics."
+          },
+          {
+            "name": "Bordallo Pinheiro Factory Shop",
+            "tip": "The best place for authentic ceramics at discounted prices."
+          },
+          {
+            "name": "Local delis",
+            "tip": "Look for 'mercearias' for cheese, cured meats, and other local delicacies."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Caldas da Rainha ist relativ flach, was das Radfahren angenehm macht.",
+          "Nehmen Sie ein gutes Schloss für Ihr Fahrrad mit, besonders wenn Sie es in der Nähe von Sehenswürdigkeiten abstellen.",
+          "Viele Straßen im Zentrum sind Einbahnstraßen, achten Sie auf die Beschilderung.",
+          "Eine Wasserflasche ist unerlässlich, besonders an warmen Tagen."
+        ],
+        "hu": [
+          "Caldas da Rainha viszonylag sík, ami kellemessé teszi a kerékpározást.",
+          "Vigyen magával egy jó lakatot a kerékpárjához, különösen, ha látnivalók közelében hagyja.",
+          "A központban sok utca egyirányú, figyeljen a táblákra.",
+          "Egy vizes palack elengedhetetlen, különösen meleg napokon."
+        ],
+        "ro": [
+          "Caldas da Rainha este relativ plat, ceea ce face ciclismul plăcut.",
+          "Aduceți un lacăt bun pentru bicicletă, mai ales când o lăsați lângă atracții.",
+          "Multe străzi din centru sunt cu sens unic, fiți atenți la semne.",
+          "O sticlă de apă este esențială, mai ales în zilele calde."
+        ],
+        "en": [
+          "Caldas da Rainha is relatively flat, which makes for pleasant cycling.",
+          "Bring a good lock for your bike, especially when leaving it near attractions.",
+          "Many streets in the centre are one-way, pay attention to the signs.",
+          "A water bottle is essential, especially on warm days."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:53",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Dom Carlos I Park",
+            "hu": "Parkoló a Dom Carlos I parknál",
+            "ro": "Parcare lângă Parcul Dom Carlos I",
+            "en": "Parking near Dom Carlos I Park"
+          },
+          "coords": [
+            -9.139,
+            39.4005
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Tag. Es ist zentral gelegen und die meisten Orte sind zu Fuß erreichbar.",
+            "hu": "Parkoljon le itt egész napra. Központi fekvésű, és a legtöbb hely gyalogosan elérhető.",
+            "ro": "Parcați aici pentru o zi. Este situat central și majoritatea locurilor sunt accesibile pe jos.",
+            "en": "Park here for the day. It's centrally located and most places are walkable."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom Carlos I Park & José Malhoa Museum",
+            "hu": "Dom Carlos I Park és José Malhoa Múzeum",
+            "ro": "Parcul Dom Carlos I și Muzeul José Malhoa",
+            "en": "Dom Carlos I Park & José Malhoa Museum"
+          },
+          "coords": [
+            -9.138,
+            39.401
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:12",
+          "stay_min": 180,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie zuerst den Park und besuchen Sie dann das Museum im Inneren.",
+            "hu": "Először fedezze fel a parkot, majd látogasson el a benne található múzeumba.",
+            "ro": "Explorați mai întâi parcul și apoi vizitați muzeul din interior.",
+            "en": "Explore the park first, then visit the museum located inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Keramikmuseum",
+            "hu": "Kerámia Múzeum",
+            "ro": "Muzeul Ceramicii",
+            "en": "Ceramics Museum"
+          },
+          "coords": [
+            -9.1395,
+            39.4025
+          ],
+          "category": "museums",
+          "arrive_at": "12:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Park aus. Kaufen Sie Ihr Ticket im Voraus online.",
+            "hu": "Rövid séta a parkból. Vegye meg a jegyét előre online.",
+            "ro": "O scurtă plimbare de la parc. Cumpărați biletul online în avans.",
+            "en": "A short walk from the park. Buy your ticket online in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Praça da Fruta",
+            "hu": "Praça da Fruta (Gyümölcspiac)",
+            "ro": "Praça da Fruta",
+            "en": "Praça da Fruta (Fruit Market Square)"
+          },
+          "coords": [
+            -9.1352,
+            39.4032
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Am Nachmittag ist es ruhiger, aber immer noch voller Charme. Suchen Sie sich hier ein Café zum Mittagessen.",
+            "hu": "Délután csendesebb, de még mindig tele van bájjal. Keressen itt egy kávézót ebédre.",
+            "ro": "Este mai liniștit după-amiaza, dar tot plin de farmec. Găsiți o cafenea aici pentru prânz.",
+            "en": "It's quieter in the afternoon but still full of charm. Find a café here for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Fábrica Bordallo Pinheiro",
+            "hu": "Bordallo Pinheiro Gyár",
+            "ro": "Fabrica Bordallo Pinheiro",
+            "en": "Fábrica Bordallo Pinheiro"
+          },
+          "coords": [
+            -9.145,
+            39.408
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie hierher für den letzten Besuch des Tages. Überprüfen Sie die Öffnungszeiten des Werksverkaufs.",
+            "hu": "Vezessen ide a nap utolsó látogatásához. Ellenőrizze a gyári bolt nyitvatartási idejét.",
+            "ro": "Conduceți aici pentru ultima vizită a zilei. Verificați orele de funcționare ale magazinului fabricii.",
+            "en": "Drive here for the last visit of the day. Check the factory shop's closing times."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja de Nossa Senhora do Pópulo",
+            "hu": "Nossa Senhora do Pópulo templom",
+            "ro": "Biserica Nossa Senhora do Pópulo",
+            "en": "Church of Nossa Senhora do Pópulo"
+          },
+          "coords": [
+            -9.136,
+            39.4035
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein kurzer Halt auf dem Rückweg, um die beeindruckende Architektur zu bewundern.",
+            "hu": "Egy gyors megálló visszafelé, hogy megcsodálja a lenyűgöző építészetet.",
+            "ro": "O oprire rapidă pe drumul de întoarcere pentru a admira arhitectura impresionantă.",
+            "en": "A quick stop on your way out to admire the impressive architecture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Parken Sie Ihr Auto in der Nähe des Dom Carlos I Parks und beginnen Sie Ihren Tag dort. Erkunden Sie die Grünanlage und besuchen Sie das José Malhoa Museum. Ein Cluster aus Natur und Kunst.\nMachen Sie einen kurzen Spaziergang zum nahegelegenen Keramikmuseum. Nach Ihrer Dosis Kunst ist es Zeit für das Mittagessen. Gehen Sie zum Praça da Fruta, dem pulsierenden Herzen der Stadt, um die Atmosphäre und die lokale Küche zu genießen.\nAm Nachmittag steigen Sie wieder ins Auto und fahren zur Fábrica Bordallo Pinheiro, um einen Einblick in das industrielle Erbe zu bekommen. Schließen Sie Ihren Tag mit einem Halt an der historischen Kirche Nossa Senhora do Pópulo ab, bevor Sie die Stadt verlassen.",
+        "hu": "Parkolja le autóját a Dom Carlos I park közelében, és kezdje ott a napot. Fedezze fel a zöldterületet és látogasson el a José Malhoa Múzeumba. A természet és a művészet egyvelege.\nTegyen egy rövid sétát a közeli Kerámia Múzeumba. A művészeti adag után ebédidő. Sétáljon el a Praça da Frutára, a város lüktető szívébe, hogy élvezze a hangulatot és a helyi ételeket.\nDélután üljön vissza az autóba, és vezessen el a Fábrica Bordallo Pinheiróhoz, hogy bepillantást nyerjen az ipari örökségbe. Zárja a napot egy megállóval a történelmi Nossa Senhora do Pópulo templomnál, mielőtt elhagyná a várost.",
+        "ro": "Parcați mașina lângă Parcul Dom Carlos I și începeți ziua acolo. Explorați spațiul verde și vizitați Muzeul José Malhoa. Un cluster de natură și artă.\nFaceți o scurtă plimbare până la Muzeul de Ceramică din apropiere. După doza de artă, este timpul pentru prânz. Mergeți pe jos până la Praça da Fruta, inima vibrantă a orașului, pentru a vă bucura de atmosferă și de bucătăria locală.\nDupă-amiaza, urcați-vă din nou în mașină și conduceți la Fábrica Bordallo Pinheiro pentru o incursiune în patrimoniul industrial. Încheiați ziua cu o oprire la biserica istorică Nossa Senhora do Pópulo înainte de a părăsi orașul.",
+        "en": "Park your car near the Dom Carlos I Park and start your day there. Explore the green space and visit the José Malhoa Museum. A cluster of nature and art.\nTake a short walk to the nearby Ceramics Museum. After your dose of art, it's time for lunch. Walk to Praça da Fruta, the city's vibrant heart, to enjoy the atmosphere and local food.\nIn the afternoon, get back in the car and drive to Fábrica Bordallo Pinheiro for a glimpse into industrial heritage. Conclude your day with a stop at the historic Church of Nossa Senhora do Pópulo before heading out of town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tagesmenü (Prato do Dia)",
+            "tip": "Viele Cafés und Restaurants rund um die Praça da Fruta bieten preiswerte Mittagsmenüs an."
+          },
+          {
+            "name": "Kaffee und Gebäck",
+            "tip": "Machen Sie eine Pause in einer 'Pastelaria' für einen starken portugiesischen Kaffee und eine lokale Süßigkeit."
+          },
+          {
+            "name": "Frischer Saft",
+            "tip": "Auf dem Markt finden Sie Stände, die frisch gepresste Säfte verkaufen - perfekt zur Erfrischung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Napi menü (Prato do Dia)",
+            "tip": "A Praça da Fruta környékén számos kávézó és étterem kínál kedvező árú ebédmenüt."
+          },
+          {
+            "name": "Kávé és sütemény",
+            "tip": "Tartson szünetet egy 'Pastelaria'-ban egy erős portugál kávéért és egy helyi édességért."
+          },
+          {
+            "name": "Friss gyümölcslé",
+            "tip": "A piacon frissen facsart gyümölcsleveket árusító standokat talál - tökéletes frissítő."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Meniul zilei (Prato do Dia)",
+            "tip": "Multe cafenele și restaurante din jurul Praça da Fruta oferă meniuri de prânz la prețuri avantajoase."
+          },
+          {
+            "name": "Cafea și produse de patiserie",
+            "tip": "Luați o pauză la o 'Pastelaria' pentru o cafea portugheză tare și o delicatesă locală."
+          },
+          {
+            "name": "Suc proaspăt",
+            "tip": "În piață veți găsi tarabe care vând sucuri proaspăt stoarse - perfecte pentru a vă reîmprospăta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Menu of the day (Prato do Dia)",
+            "tip": "Many cafes and restaurants around Praça da Fruta offer great value lunch menus."
+          },
+          {
+            "name": "Coffee and Pastry",
+            "tip": "Take a break in a 'Pastelaria' for a strong Portuguese coffee and a local sweet."
+          },
+          {
+            "name": "Fresh juice",
+            "tip": "You'll find stalls in the market selling freshly squeezed juices - perfect for refreshment."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bootsfahrt auf dem See",
+            "tip": "Eine ruhige Aktivität im Park, um dem Trubel zu entfliehen.",
+            "emoji": "🛶"
+          },
+          {
+            "name": "Seitenkapellen der Kirche",
+            "tip": "Finden Sie einen Moment der Stille in den weniger besuchten Teilen der Igreja de Nossa Senhora do Pópulo.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Spaziergang am späten Nachmittag",
+            "tip": "Ein Spaziergang zurück zum Auto durch den Park, wenn das Licht weicher wird.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csónakázás a tavon",
+            "tip": "Csendes tevékenység a parkban, hogy elmeneküljön a tömeg elől.",
+            "emoji": "🛶"
+          },
+          {
+            "name": "A templom oldalkápolnái",
+            "tip": "Találjon egy csendes pillanatot az Igreja de Nossa Senhora do Pópulo kevésbé látogatott részein.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Késő délutáni séta",
+            "tip": "Séta vissza az autóhoz a parkon keresztül, amikor a fények lágyabbak lesznek.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare cu barca pe lac",
+            "tip": "O activitate liniștită în parc pentru a scăpa de aglomerație.",
+            "emoji": "🛶"
+          },
+          {
+            "name": "Capele laterale ale bisericii",
+            "tip": "Găsiți un moment de liniște în părțile mai puțin vizitate ale Bisericii Nossa Senhora do Pópulo.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Plimbare la sfârșitul după-amiezii",
+            "tip": "O plimbare înapoi la mașină prin parc, pe măsură ce lumina devine mai blândă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Boating on the lake",
+            "tip": "A quiet activity in the park to escape the hustle and bustle.",
+            "emoji": "🛶"
+          },
+          {
+            "name": "Side chapels of the church",
+            "tip": "Find a moment of silence in the less-visited parts of the Igreja de Nossa Senhora do Pópulo.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Late afternoon stroll",
+            "tip": "A walk back to the car through the park as the light softens.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bordallo Pinheiro Werksverkauf",
+            "tip": "Kaufen Sie Keramik-Schnäppchen, die Sie sonst nirgendwo finden."
+          },
+          {
+            "name": "Lokale Produkte auf dem Markt",
+            "tip": "Kaufen Sie Käse, Honig oder 'ginjinha'-Likör zum Mitnehmen."
+          },
+          {
+            "name": "Museumsshops",
+            "tip": "Sowohl das Keramik- als auch das Malhoa-Museum haben ausgezeichnete Shops mit einzigartigen Geschenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bordallo Pinheiro gyári bolt",
+            "tip": "Vásároljon olyan kerámia akciókat, amelyeket máshol nem talál."
+          },
+          {
+            "name": "Helyi termékek a piacon",
+            "tip": "Vásároljon sajtot, mézet vagy 'ginjinha' likőrt hazavitelre."
+          },
+          {
+            "name": "Múzeumi boltok",
+            "tip": "Mind a Kerámia, mind a Malhoa Múzeumnak kiváló boltjai vannak egyedi ajándékokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul fabricii Bordallo Pinheiro",
+            "tip": "Cumpărați chilipiruri de ceramică pe care nu le veți găsi în altă parte."
+          },
+          {
+            "name": "Produse locale la piață",
+            "tip": "Cumpărați brânză, miere sau lichior 'ginjinha' pentru a le lua acasă."
+          },
+          {
+            "name": "Magazinele muzeelor",
+            "tip": "Atât Muzeul de Ceramică, cât și Muzeul Malhoa au magazine excelente cu cadouri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bordallo Pinheiro Factory Shop",
+            "tip": "Buy ceramic bargains you won't find anywhere else."
+          },
+          {
+            "name": "Local produce at the market",
+            "tip": "Buy some cheese, honey, or 'ginjinha' liqueur to take home."
+          },
+          {
+            "name": "Museum Shops",
+            "tip": "Both the Ceramics and Malhoa museums have excellent shops with unique gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Parkgebühren und -zeiten, bevor Sie Ihr Auto abstellen.",
+          "Die Cluster-Walking-Methode ist hier ideal - parken Sie einmal und erkunden Sie zu Fuß.",
+          "Planen Sie die Fahrt zur Fábrica Bordallo Pinheiro, da sie etwas außerhalb des Zentrums liegt.",
+          "Achten Sie auf die engen Gassen im historischen Zentrum, wenn Sie fahren."
+        ],
+        "hu": [
+          "Ellenőrizze a parkolási díjakat és időket, mielőtt otthagyná autóját.",
+          "A 'cluster walking' módszer itt ideális - parkoljon le egyszer, és fedezze fel gyalog.",
+          "Tervezze meg az utat a Fábrica Bordallo Pinheiróhoz, mivel az kissé a központon kívül van.",
+          "Vezetés közben figyeljen a történelmi központ szűk utcáira."
+        ],
+        "ro": [
+          "Verificați taxele și orele de parcare înainte de a vă lăsa mașina.",
+          "Metoda de mers pe jos în cluster este ideală aici - parcați o dată și explorați pe jos.",
+          "Planificați-vă deplasarea la Fábrica Bordallo Pinheiro, deoarece este puțin în afara centrului.",
+          "Fiți atenți la străzile înguste din centrul istoric dacă conduceți."
+        ],
+        "en": [
+          "Check parking fees and times before leaving your car.",
+          "The cluster walking method is ideal here - park once and explore on foot.",
+          "Plan your drive to Fábrica Bordallo Pinheiro as it's slightly out of the centre.",
+          "Be mindful of the narrow streets in the historic center if driving."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:41",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bushaltestelle am Praça da Fruta",
+            "hu": "Buszmegálló a Praça da Frutánál",
+            "ro": "Stația de autobuz Praça da Fruta",
+            "en": "Bus Stop at Praça da Fruta"
+          },
+          "coords": [
+            -9.135,
+            39.403
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag im Herzen der Stadt. Kaufen Sie eine Tageskarte für den Bus.",
+            "hu": "Kezdje a napot a város szívében. Vegyen egy napijegyet a buszra.",
+            "ro": "Începeți ziua în inima orașului. Cumpărați un bilet de o zi pentru autobuz.",
+            "en": "Start your day in the heart of the city. Buy a day pass for the bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Praça da Fruta & Kirche",
+            "hu": "Praça da Fruta és a templom",
+            "ro": "Praça da Fruta și Biserica",
+            "en": "Praça da Fruta & Church"
+          },
+          "coords": [
+            -9.1352,
+            39.4032
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:12",
+          "stay_min": 120,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den Markt, die Kirche und das Thermalbad, die alle nahe beieinander liegen.",
+            "hu": "Fedezze fel a piacot, a templomot és a termálfürdőt, mind közel vannak egymáshoz.",
+            "ro": "Explorați piața, biserica și spitalul termal, toate fiind apropiate.",
+            "en": "Explore the market, church, and thermal hospital, all clustered together."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle am Park",
+            "hu": "Buszmegálló a parknál",
+            "ro": "Stația de autobuz de lângă parc",
+            "en": "Bus stop near the Park"
+          },
+          "coords": [
+            -9.1392,
+            39.4008
+          ],
+          "category": "transport",
+          "arrive_at": "11:22",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum zweiten Cluster von Sehenswürdigkeiten.",
+            "hu": "Szálljon buszra a második látnivalócsoporthoz.",
+            "ro": "Luați un autobuz către al doilea grup de atracții.",
+            "en": "Take a bus to the second cluster of attractions."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Dom Carlos I & Museen",
+            "hu": "Parque Dom Carlos I és múzeumok",
+            "ro": "Parcul Dom Carlos I și Muzee",
+            "en": "Parque Dom Carlos I & Museums"
+          },
+          "coords": [
+            -9.138,
+            39.401
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:25",
+          "stay_min": 240,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verbringen Sie hier den Nachmittag. Genießen Sie den Park, das Mittagessen und die beiden Museen.",
+            "hu": "Töltse itt a délutánt. Élvezze a parkot, az ebédet és a két múzeumot.",
+            "ro": "Petreceți după-amiaza aici. Bucurați-vă de parc, de prânz și de cele două muzee.",
+            "en": "Spend the afternoon here. Enjoy the park, lunch, and the two museums."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle bei der Fabrik",
+            "hu": "Buszmegálló a gyárnál",
+            "ro": "Stația de autobuz de la fabrică",
+            "en": "Bus stop at the Factory"
+          },
+          "coords": [
+            -9.1445,
+            39.4075
+          ],
+          "category": "transport",
+          "arrive_at": "15:33",
+          "stay_min": 0,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.9,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein kurzer Busausflug, um die berühmte Keramik zu sehen.",
+            "hu": "Egy rövid buszos kirándulás a híres kerámia megtekintéséhez.",
+            "ro": "O scurtă călătorie cu autobuzul pentru a vedea faimoasa ceramică.",
+            "en": "A short bus trip to see the famous ceramics."
+          }
+        },
+        {
+          "name": {
+            "de": "Fábrica Bordallo Pinheiro",
+            "hu": "Bordallo Pinheiro Gyár",
+            "ro": "Fabrica Bordallo Pinheiro",
+            "en": "Fábrica Bordallo Pinheiro"
+          },
+          "coords": [
+            -9.145,
+            39.408
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:36",
+          "stay_min": 125,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit für die Tour und den Einkauf im Werksverkauf ein.",
+            "hu": "Tervezzen elegendő időt a túrára és a gyári boltban való vásárlásra.",
+            "ro": "Alocați suficient timp pentru tur și pentru cumpărături la magazinul fabricii.",
+            "en": "Allow plenty of time for the tour and shopping at the factory outlet."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit dem Bus am Praça da Fruta. Erkunden Sie diesen zentralen Cluster mit dem Markt und der Kirche zu Fuß. Dies ist das historische Herz von Caldas.\nNehmen Sie einen weiteren Bus zum Park Dom Carlos I. Dieses zweite Cluster ist Ihre Basis für den Nachmittag. Genießen Sie den Park, das Mittagessen und die beiden Kunstmuseen in Ihrem eigenen Tempo.\nFür den letzten Teil Ihres Abenteuers bringt Sie ein kurzer Busausflug zur Fábrica Bordallo Pinheiro. Entdecken Sie die Geheimnisse der berühmten Keramik der Stadt, bevor Sie den Bus zurück ins Zentrum oder zu Ihrer Unterkunft nehmen.",
+        "hu": "Kezdje busszal a Praça da Frutánál. Fedezze fel gyalog ezt a központi részt a piaccal és a templommal. Ez Caldas történelmi szíve.\nSzálljon fel egy másik buszra a Dom Carlos I parkhoz. Ez a második rész a délutáni bázisa. Élvezze a parkot, az ebédet és a két művészeti múzeumot a saját tempójában.\nKalandja utolsó részéhez egy rövid buszos utazás viszi a Fábrica Bordallo Pinheiróhoz. Fedezze fel a város híres kerámiájának titkait, mielőtt visszautazna a központba vagy a szállásához.",
+        "ro": "Începeți cu autobuzul în Praça da Fruta. Explorați pe jos acest cluster central, cu piața și biserica. Aceasta este inima istorică a orașului Caldas.\nLuați un alt autobuz către Parcul Dom Carlos I. Acest al doilea cluster este baza dumneavoastră pentru după-amiază. Bucurați-vă de parc, de prânz și de cele două muzee de artă în propriul ritm.\nPentru ultima parte a aventurii, o scurtă călătorie cu autobuzul vă va duce la Fábrica Bordallo Pinheiro. Descoperiți secretele faimoasei ceramici a orașului înainte de a lua autobuzul înapoi în centru sau la cazare.",
+        "en": "Start by bus at Praça da Fruta. Explore this central cluster on foot, taking in the market and church. This is the historic heart of Caldas.\nTake another bus to Dom Carlos I Park. This second cluster is your base for the afternoon. Enjoy the park, lunch, and the two art museums at your own pace.\nFor the final part of your adventure, a short bus trip will take you to Fábrica Bordallo Pinheiro. Discover the secrets of the city's famous ceramics before catching a bus back to the center or your accommodation."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bifana",
+            "tip": "Ein klassisches portugiesisches Sandwich mit mariniertem Schweinefleisch. Suchen Sie nach Snackbars in der Nähe der Bushaltestellen."
+          },
+          {
+            "name": "Suppe des Tages (Sopa do Dia)",
+            "tip": "Eine schnelle, günstige und nahrhafte Option, die in fast jedem Café erhältlich ist."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Obwohl es nicht aus dieser Region stammt, finden Sie überall ausgezeichnete Versionen dieser portugiesischen Ikone."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bifana",
+            "tip": "Klasszikus portugál szendvics pácolt sertéshússal. Keressen büféket a buszmegállók közelében."
+          },
+          {
+            "name": "Napi leves (Sopa do Dia)",
+            "tip": "Gyors, olcsó és tápláló lehetőség, szinte minden kávézóban kapható."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Bár nem ebből a régióból származik, mindenhol talál kiváló verziókat ebből a portugál ikonból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bifana",
+            "tip": "Un sandviș clasic portughez cu carne de porc marinată. Căutați snack-baruri lângă stațiile de autobuz."
+          },
+          {
+            "name": "Supa zilei (Sopa do Dia)",
+            "tip": "O opțiune rapidă, ieftină și hrănitoare, disponibilă în aproape orice cafenea."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Deși nu este originar din această regiune, veți găsi versiuni excelente ale acestei embleme portugheze peste tot."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bifana",
+            "tip": "A classic Portuguese sandwich with marinated pork. Look for snack bars near the bus stops."
+          },
+          {
+            "name": "Soup of the day (Sopa do Dia)",
+            "tip": "A quick, cheap, and nutritious option available in almost every cafe."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Although not native to this region, you'll find excellent versions of this Portuguese icon everywhere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt durch die Vororte",
+            "tip": "Schauen Sie aus dem Fenster und beobachten Sie das tägliche Leben außerhalb des touristischen Zentrums.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Eine Bank im Park",
+            "tip": "Nach der Ankunft im zweiten Cluster, nehmen Sie sich einen Moment Zeit, um sich zu entspannen, bevor Sie weitergehen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Die Gärten des Keramikmuseums",
+            "tip": "Ein friedlicher Ort, um dem Trubel zu entfliehen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás a külvárosban",
+            "tip": "Nézzen ki az ablakon, és figyelje a mindennapi életet a turisztikai központon kívül.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Egy pad a parkban",
+            "tip": "Miután megérkezett a második részbe, szánjon egy percet a pihenésre, mielőtt továbbmenne.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A Kerámia Múzeum kertjei",
+            "tip": "Békés hely a nyüzsgés elől való meneküléshez.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătorie cu autobuzul prin suburbii",
+            "tip": "Priviți pe geam și observați viața de zi cu zi în afara centrului turistic.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "O bancă în parc",
+            "tip": "După ce ajungeți în al doilea cluster, luați-vă un moment de relaxare înainte de a continua.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădinile Muzeului de Ceramică",
+            "tip": "Un loc pașnic pentru a scăpa de agitație.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride through the suburbs",
+            "tip": "Look out the window and watch daily life outside the tourist centre.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "A bench in the park",
+            "tip": "After arriving at the second cluster, take a moment to relax before moving on.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "The gardens of the Ceramics Museum",
+            "tip": "A peaceful spot to escape the crowds.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kleine Läden in der Nähe der Haltestellen",
+            "tip": "Entdecken Sie kleine, unabhängige Geschäfte, während Sie auf Ihren Bus warten."
+          },
+          {
+            "name": "Marktstände",
+            "tip": "Kaufen Sie ein essbares Souvenir vom Praça da Fruta."
+          },
+          {
+            "name": "Keramik",
+            "tip": "Natürlich ist die Keramik von Bordallo Pinheiro das wichtigste Souvenir, das man kaufen kann."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kis boltok a megállók közelében",
+            "tip": "Fedezzen fel kis, független boltokat, miközben a buszra vár."
+          },
+          {
+            "name": "Piaci standok",
+            "tip": "Vásároljon egy ehető szuvenírt a Praça da Frutáról."
+          },
+          {
+            "name": "Kerámia",
+            "tip": "Természetesen a Bordallo Pinheiro kerámia a legfontosabb megvásárolható szuvenír."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mici magazine lângă stații",
+            "tip": "Descoperiți mici magazine independente în timp ce așteptați autobuzul."
+          },
+          {
+            "name": "Tarabe de piață",
+            "tip": "Cumpărați un suvenir comestibil de la Praça da Fruta."
+          },
+          {
+            "name": "Ceramică",
+            "tip": "Desigur, ceramica de la Bordallo Pinheiro este suvenirul de top de cumpărat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Small shops near the stops",
+            "tip": "Discover small, independent shops while waiting for your bus."
+          },
+          {
+            "name": "Market stalls",
+            "tip": "Buy an edible souvenir from Praça da Fruta."
+          },
+          {
+            "name": "Ceramics",
+            "tip": "Of course, the top souvenir to buy is ceramics from Bordallo Pinheiro."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie eine lokale ÖPNV-App herunter oder besorgen Sie sich einen Busfahrplan.",
+          "Tageskarten sind oft günstiger als Einzeltickets.",
+          "Achten Sie auf die letzte Busverbindung zurück, besonders wenn Sie die Fabrik besuchen.",
+          "Bestätigen Sie Ihr Ticket bei jedem Einsteigen in den Bus."
+        ],
+        "hu": [
+          "Töltsön le egy helyi tömegközlekedési alkalmazást, vagy szerezzen be egy buszmenetrendet.",
+          "A napijegyek gyakran olcsóbbak, mint az egyedi jegyek.",
+          "Figyeljen az utolsó buszjáratra vissza, különösen, ha a gyárat látogatja.",
+          "Minden buszra szálláskor érvényesítse a jegyét."
+        ],
+        "ro": [
+          "Descărcați o aplicație locală de transport public sau obțineți un orar al autobuzelor.",
+          "Abonamentele de o zi sunt adesea mai ieftine decât biletele individuale.",
+          "Fiți atenți la ultimul autobuz de întoarcere, mai ales dacă vizitați fabrica.",
+          "Validați biletul de fiecare dată când urcați în autobuz."
+        ],
+        "en": [
+          "Download a local public transport app or get a bus schedule.",
+          "Day passes are often better value than single tickets.",
+          "Be aware of the last bus back, especially if visiting the factory.",
+          "Validate your ticket each time you board the bus."
+        ]
+      }
+    }
+  }
+}

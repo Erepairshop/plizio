@@ -1,0 +1,1252 @@
+{
+  "city_id": "uk-bolton-cities-v2",
+  "anchor": {
+    "name": "Bolton",
+    "coords": [
+      -2.4282,
+      53.5817
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Le Mans Crescent",
+            "hu": "Le Mans Crescent",
+            "ro": "Le Mans Crescent",
+            "en": "Le Mans Crescent"
+          },
+          "coords": [
+            -2.4305,
+            53.5792
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur aus dem Jahr 1930.",
+            "hu": "Csodálja meg az 1930-as évekbeli lenyűgöző építészetet.",
+            "ro": "Admirați arhitectura impresionantă din anii 1930.",
+            "en": "Admire the impressive 1930s architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Bolton Museum & Kunstgalerie",
+            "hu": "Boltoni Múzeum és Művészeti Galéria",
+            "ro": "Muzeul și Galeria de Artă Bolton",
+            "en": "Bolton Museum & Art Gallery"
+          },
+          "coords": [
+            -2.4311,
+            53.5795
+          ],
+          "category": "museums",
+          "arrive_at": "09:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Ägypten-Ausstellung.",
+            "hu": "Ne hagyja ki az egyiptomi kiállítást.",
+            "ro": "Nu ratați expoziția despre Egipt.",
+            "en": "Don't miss the Egyptology exhibit."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Bolton",
+            "hu": "Boltoni Városháza",
+            "ro": "Primăria Bolton",
+            "en": "Bolton Town Hall"
+          },
+          "coords": [
+            -2.4295,
+            53.5785
+          ],
+          "category": "landmark",
+          "arrive_at": "11:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein prächtiges Beispiel viktorianischer Architektur, halten Sie Ausschau nach den Löwenstatuen.",
+            "hu": "A viktoriánus építészet csodálatos példája, figyelje az oroszlánszobrokat.",
+            "ro": "Un exemplu splendid de arhitectură victoriană, căutați statuile cu lei.",
+            "en": "A splendid example of Victorian architecture, look for the lion statues."
+          }
+        },
+        {
+          "name": {
+            "de": "Fred-Dibnah-Statue",
+            "hu": "Fred Dibnah szobra",
+            "ro": "Statuia lui Fred Dibnah",
+            "en": "Fred Dibnah Statue"
+          },
+          "coords": [
+            -2.4278,
+            53.5781
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:07",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eine Hommage an Boltons berühmten Schornsteinfeger.",
+            "hu": "Tisztelgés Bolton híres kéményseprője előtt.",
+            "ro": "Un tribut adus faimosului hornar din Bolton.",
+            "en": "A tribute to Bolton's famous steeplejack."
+          }
+        },
+        {
+          "name": {
+            "de": "Ye Olde Man & Scythe",
+            "hu": "Ye Olde Man & Scythe",
+            "ro": "Ye Olde Man & Scythe",
+            "en": "Ye Olde Man & Scythe"
+          },
+          "coords": [
+            -2.4265,
+            53.5791
+          ],
+          "category": "landmark",
+          "arrive_at": "12:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Einer der ältesten Pubs in Großbritannien, perfekt für ein Mittagessen.",
+            "hu": "Nagy-Britannia egyik legrégebbi pubja, tökéletes egy ebédhez.",
+            "ro": "Unul dintre cele mai vechi pub-uri din Marea Britanie, perfect pentru prânz.",
+            "en": "One of the oldest pubs in Britain, perfect for a spot of lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Queen's Park",
+            "hu": "Queen's Park",
+            "ro": "Parcul Queen's",
+            "en": "Queen's Park"
+          },
+          "coords": [
+            -2.445,
+            53.58
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:12",
+          "stay_min": 180,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Machen Sie einen entspannten Spaziergang um den See und genießen Sie die Gärten.",
+            "hu": "Tegyen egy pihentető sétát a tó körül, és élvezze a kerteket.",
+            "ro": "Faceți o plimbare relaxantă în jurul lacului și bucurați-vă de grădini.",
+            "en": "Take a relaxing stroll around the lake and enjoy the gardens."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einem Spaziergang durch das historische Herz von Bolton am Le Mans Crescent. Am Vormittag tauchen Sie im Bolton Museum in die lokale Kultur und die Geheimnisse Ägyptens ein. Nach dem Mittagessen in einem der ältesten Pubs Großbritanniens können Sie im Queen's Park entspannen. Der Abend endet nach einem Tag voller Entdeckungen zu Fuß.",
+        "hu": "Kezdje a napot egy sétával Bolton történelmi szívében, a Le Mans Crescenten. A délelőtt folyamán merüljön el a helyi kultúrában és Egyiptom titkaiban a Bolton Múzeumban. Ebéd után Nagy-Britannia egyik legrégebbi pubjában pihenjen a Queen's Parkban. Az este egy gyalogos felfedezéssel teli nap után ér véget.",
+        "ro": "Începeți ziua cu o plimbare prin inima istorică a Boltonului, la Le Mans Crescent. În timpul dimineții, pătrundeți în cultura locală și misterele Egiptului la Muzeul Bolton. După prânzul la unul dintre cele mai vechi pub-uri din Marea Britanie, relaxați-vă în Queen's Park. Seara se încheie după o zi plină de explorări pe jos.",
+        "en": "Start your day with a stroll through Bolton's historic heart at Le Mans Crescent. Mid-morning, delve into local culture and Egyptian mysteries at the Bolton Museum. After lunch at one of Britain's oldest pubs, unwind in the tranquility of Queen's Park. The evening concludes a day of rich exploration, all on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pastete mit Fleisch und Kartoffeln",
+            "tip": "Eine herzhafte lokale Spezialität, probieren Sie sie bei Carrs Pasties."
+          },
+          {
+            "name": "Ye Olde Man & Scythe",
+            "tip": "Genießen Sie traditionelle Pub-Gerichte in historischem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Húsos-burgonyás pite",
+            "tip": "Kiadós helyi specialitás, kóstolja meg a Carrs Pasties-nél."
+          },
+          {
+            "name": "Ye Olde Man & Scythe",
+            "tip": "Élvezze a hagyományos pub ételeket történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plăcintă cu carne și cartofi",
+            "tip": "O specialitate locală consistentă, încercați-o la Carrs Pasties."
+          },
+          {
+            "name": "Ye Olde Man & Scythe",
+            "tip": "Bucurați-vă de mâncăruri tradiționale de pub într-un cadru istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Meat and Potato Pie",
+            "tip": "A hearty local speciality, try one from Carrs Pasties."
+          },
+          {
+            "name": "Ye Olde Man & Scythe",
+            "tip": "Enjoy traditional pub fare in a historic setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Queen's Park",
+            "tip": "Finden Sie eine ruhige Bank am See.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bolton Museum Bibliothek",
+            "tip": "Ein ruhiger Ort zum Nachdenken zwischen den Artefakten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Queen's Park",
+            "tip": "Keressen egy csendes padot a tó mellett.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Boltoni Múzeum könyvtára",
+            "tip": "Csendes hely az elmélkedésre a műtárgyak között.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Queen's",
+            "tip": "Găsiți o bancă liniștită lângă lac.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Biblioteca Muzeului Bolton",
+            "tip": "Un spațiu calm pentru reflecție printre artefacte.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Queen's Park",
+            "tip": "Find a quiet bench by the lake.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bolton Museum Library",
+            "tip": "A calm space for reflection among the artifacts.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bolton Market",
+            "tip": "Erkunden Sie die Stände für lokale Produkte und einzigartige Funde."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltoni piac",
+            "tip": "Fedezze fel a standokat helyi termékekért és egyedi leletekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Bolton",
+            "tip": "Explorați tarabele pentru produse locale și descoperiri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bolton Market",
+            "tip": "Explore the stalls for local produce and unique finds."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Überprüfen Sie die Öffnungszeiten des Museums im Voraus.",
+          "Bolton ist hügelig, seien Sie auf einige Steigungen vorbereitet."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Előre ellenőrizze a múzeum nyitvatartási idejét.",
+          "Bolton dombos, készüljön fel néhány emelkedőre."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Verificați orele de deschidere ale muzeului în avans.",
+          "Bolton este deluros, fiți pregătiți pentru câteva urcușuri."
+        ],
+        "en": [
+          "Wear comfortable shoes as this itinerary involves a lot of walking.",
+          "Check museum opening times in advance.",
+          "Bolton is hilly, so be prepared for some inclines."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Bolton",
+            "hu": "Boltoni Városháza",
+            "ro": "Primăria Bolton",
+            "en": "Bolton Town Hall"
+          },
+          "coords": [
+            -2.4295,
+            53.5785
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab und bewundern Sie die viktorianische Pracht.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és csodálja meg a viktoriánus pompát.",
+            "ro": "Asigurați-vă bicicleta și admirați splendoarea victoriană.",
+            "en": "Lock up your bike securely and admire the Victorian splendor."
+          }
+        },
+        {
+          "name": {
+            "de": "Bolton Museum & Kunstgalerie",
+            "hu": "Boltoni Múzeum és Művészeti Galéria",
+            "ro": "Muzeul și Galeria de Artă Bolton",
+            "en": "Bolton Museum & Art Gallery"
+          },
+          "coords": [
+            -2.4311,
+            53.5795
+          ],
+          "category": "museums",
+          "arrive_at": "09:43",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und tauchen Sie für eine Weile in die Kunst und Geschichte ein.",
+            "hu": "Parkolja le a kerékpárt, és merüljön el egy időre a művészetben és a történelemben.",
+            "ro": "Parcați-vă bicicleta și cufundați-vă în artă și istorie pentru o vreme.",
+            "en": "Park your bike and dive into art and history for a while."
+          }
+        },
+        {
+          "name": {
+            "de": "Ye Olde Man & Scythe",
+            "hu": "Ye Olde Man & Scythe",
+            "ro": "Ye Olde Man & Scythe",
+            "en": "Ye Olde Man & Scythe"
+          },
+          "coords": [
+            -2.4265,
+            53.5791
+          ],
+          "category": "landmark",
+          "arrive_at": "11:16",
+          "stay_min": 20,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto von einem der ältesten Pubs Englands.",
+            "hu": "Készítsen egy fényképet Anglia egyik legrégebbi pubjáról.",
+            "ro": "Faceți o fotografie la unul dintre cele mai vechi pub-uri din Anglia.",
+            "en": "Stop for a photo at one of England's oldest pubs."
+          }
+        },
+        {
+          "name": {
+            "de": "Queen's Park",
+            "hu": "Queen's Park",
+            "ro": "Parcul Queen's",
+            "en": "Queen's Park"
+          },
+          "coords": [
+            -2.445,
+            53.58
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie eine Radtour auf den Wegen des Parks.",
+            "hu": "Élvezze a kerékpározást a park ösvényein.",
+            "ro": "Bucurați-vă de o plimbare cu bicicleta pe aleile parcului.",
+            "en": "Enjoy a cycle around the park's paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Hall i' th' Wood",
+            "hu": "Hall i' th' Wood",
+            "ro": "Hall i' th' Wood",
+            "en": "Hall i' th' Wood"
+          },
+          "coords": [
+            -2.41,
+            53.595
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein historisches Fachwerkhaus, das einen Besuch wert ist.",
+            "hu": "Egy történelmi favázas ház, amelyet érdemes meglátogatni.",
+            "ro": "O casă istorică cu grinzi de lemn care merită vizitată.",
+            "en": "A historic half-timbered manor house that's well worth the ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Smithills Hall",
+            "hu": "Smithills Hall",
+            "ro": "Smithills Hall",
+            "en": "Smithills Hall"
+          },
+          "coords": [
+            -2.46,
+            53.6
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour in diesem prächtigen Herrenhaus aus dem 14. Jahrhundert.",
+            "hu": "Fejezze be a kerékpártúrát ebben a csodálatos 14. századi udvarházban.",
+            "ro": "Încheiați-vă turul cu bicicleta la acest conac magnific din secolul al XIV-lea.",
+            "en": "End your bike tour at this magnificent 14th-century manor house."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Rad und beginnen Sie am prächtigen Rathaus von Bolton. Nach einem Vormittag mit Kunst und Geschichte radeln Sie zum Queen's Park für eine Mittagspause. Am Nachmittag erkunden Sie zwei historische Juwelen, Hall i' th' Wood und Smithills Hall, und genießen die Freiheit, die Landschaft von Bolton auf zwei Rädern zu entdecken.",
+        "hu": "Pattanjon kerékpárra, és induljon a csodálatos Boltoni Városházától. Egy művészettel és történelemmel teli délelőtt után tekerjen el a Queen's Parkba egy déli pihenőre. Délután fedezzen fel két történelmi gyöngyszemet, a Hall i' th' Wood-ot és a Smithills Hall-t, élvezve a szabadságot, hogy két keréken fedezze fel Bolton vidékét.",
+        "ro": "Urcați-vă pe bicicletă și porniți de la magnifica Primărie Bolton. După o dimineață de artă și istorie, pedalați spre Queen's Park pentru o pauză de prânz. După-amiaza este dedicată explorării a două bijuterii istorice, Hall i' th' Wood și Smithills Hall, bucurându-vă de libertatea de a descoperi peisajul rural din Bolton pe două roți.",
+        "en": "Hop on your bike and start at the magnificent Bolton Town Hall. After a morning of art and history, cycle to Queen's Park for a midday break. The afternoon is for exploring two historic gems, Hall i' th' Wood and Smithills Hall, enjoying the freedom of discovering Bolton's countryside on two wheels."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Northern Monkey Bar",
+            "tip": "Eine große Auswahl an Craft-Bieren und leckeren Burgern."
+          },
+          {
+            "name": "Amico Cafe",
+            "tip": "Ideal für einen schnellen Kaffee und ein Sandwich vor der Weiterfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Northern Monkey Bar",
+            "tip": "Kézműves sörök és ízletes hamburgerek széles választéka."
+          },
+          {
+            "name": "Amico Cafe",
+            "tip": "Ideális egy gyors kávéra és szendvicsre, mielőtt tovább indulna."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Northern Monkey Bar",
+            "tip": "O selecție excelentă de beri artizanale și burgeri gustoși."
+          },
+          {
+            "name": "Amico Cafe",
+            "tip": "Ideal pentru o cafea rapidă și un sandviș înainte de a merge mai departe."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Northern Monkey Bar",
+            "tip": "A great selection of craft beers and tasty burgers."
+          },
+          {
+            "name": "Amico Cafe",
+            "tip": "Great for a quick coffee and a sandwich to fuel your ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pfade am Fluss Croal",
+            "tip": "Eine ruhige Radtour abseits der Straßen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gelände von Smithills Hall",
+            "tip": "Nach Ihrer Radtour können Sie sich in den ruhigen Gärten entspannen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Croal folyó menti ösvények",
+            "tip": "Csendes kerékpártúra az utaktól távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Smithills Hall területe",
+            "tip": "Pihenjen a csendes kertekben a tekerés után.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Potecile de pe râul Croal",
+            "tip": "O plimbare liniștită cu bicicleta, departe de drumuri.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Domeniul Smithills Hall",
+            "tip": "Relaxați-vă în grădinile liniștite după plimbarea cu bicicleta.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "River Croal Paths",
+            "tip": "A quiet cycle away from the roads.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grounds of Smithills Hall",
+            "tip": "Relax in the tranquil gardens after your ride.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte im Zentrum",
+            "tip": "Besorgen Sie sich Zubehör oder ein Souvenir mit Fahrradmotiv."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok a központban",
+            "tip": "Szerezzen be kiegészítőket vagy egy kerékpáros témájú szuvenírt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete din centru",
+            "tip": "Luați niște accesorii sau un suvenir cu tematică de ciclism."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cycle Shops in the Centre",
+            "tip": "Pick up any supplies or a cycling-themed souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie einen Helm und verwenden Sie Lichter, besonders auf Landstraßen.",
+          "Einige Teile der Route können hügelig sein.",
+          "Schließen Sie Ihr Fahrrad an ausgewiesenen Stellen immer gut ab."
+        ],
+        "hu": [
+          "Viseljen sisakot és használjon lámpákat, különösen a vidéki utakon.",
+          "Az útvonal egyes szakaszai dombosak lehetnek.",
+          "Mindig zárja le biztonságosan a kerékpárját a kijelölt helyeken."
+        ],
+        "ro": [
+          "Purtați cască și folosiți lumini, mai ales pe drumurile de țară.",
+          "Unele părți ale traseului pot fi deluroase.",
+          "Întotdeauna încuiați-vă bicicleta în siguranță în zonele desemnate."
+        ],
+        "en": [
+          "Wear a helmet and use lights, especially on country roads.",
+          "Some parts of the route can be hilly.",
+          "Always lock your bike securely in designated areas."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 16.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft und Parken im Zentrum",
+            "hu": "Érkezés és parkolás a központban",
+            "ro": "Sosire și parcare în centru",
+            "en": "Arrive and Park in Centre"
+          },
+          "coords": [
+            -2.428,
+            53.577
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie auf einem der zentralen Parkplätze für den Tag.",
+            "hu": "Parkoljon le valamelyik központi parkolóban a napra.",
+            "ro": "Parcați într-una dintre parcările centrale pentru întreaga zi.",
+            "en": "Park in one of the central car parks for the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Le Mans Crescent",
+            "hu": "Városháza és Le Mans Crescent",
+            "ro": "Primăria și Le Mans Crescent",
+            "en": "Town Hall & Le Mans Crescent"
+          },
+          "coords": [
+            -2.4295,
+            53.5785
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Spaziergang am beeindruckenden Rathaus.",
+            "hu": "Kezdje a sétát a lenyűgöző Városházánál.",
+            "ro": "Începeți plimbarea de la impresionanta primărie.",
+            "en": "Start your walking tour at the impressive town hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Bolton Museum & Kunstgalerie",
+            "hu": "Boltoni Múzeum és Művészeti Galéria",
+            "ro": "Muzeul și Galeria de Artă Bolton",
+            "en": "Bolton Museum & Art Gallery"
+          },
+          "coords": [
+            -2.4311,
+            53.5795
+          ],
+          "category": "museums",
+          "arrive_at": "10:04",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang vom Rathaus entfernt.",
+            "hu": "Csak egy rövid sétára a Városházától.",
+            "ro": "La o scurtă plimbare de primărie.",
+            "en": "Just a short walk from the town hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Ye Olde Man & Scythe",
+            "hu": "Ye Olde Man & Scythe",
+            "ro": "Ye Olde Man & Scythe",
+            "en": "Ye Olde Man & Scythe"
+          },
+          "coords": [
+            -2.4265,
+            53.5791
+          ],
+          "category": "landmark",
+          "arrive_at": "11:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zeit für ein historisches Mittagessen.",
+            "hu": "Ideje egy történelmi ebédnek.",
+            "ro": "Timpul pentru un prânz istoric.",
+            "en": "Time for a historic lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Smithills Hall",
+            "hu": "Smithills Hall",
+            "ro": "Smithills Hall",
+            "en": "Smithills Hall"
+          },
+          "coords": [
+            -2.46,
+            53.6
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem prächtigen Herrenhaus und erkunden Sie seine reiche Geschichte.",
+            "hu": "Vezessen el ehhez a csodálatos udvarházhoz, és fedezze fel gazdag történelmét.",
+            "ro": "Conduceți la acest conac magnific și explorați istoria sa bogată.",
+            "en": "Drive to this magnificent manor and explore its rich history."
+          }
+        },
+        {
+          "name": {
+            "de": "Hall i' th' Wood",
+            "hu": "Hall i' th' Wood",
+            "ro": "Hall i' th' Wood",
+            "en": "Hall i' th' Wood"
+          },
+          "coords": [
+            -2.41,
+            53.595
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 6,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt zu einem weiteren historischen Juwel Boltons.",
+            "hu": "Rövid autóút Bolton egy másik történelmi gyöngyszeméhez.",
+            "ro": "O scurtă călătorie cu mașina către o altă bijuterie istorică din Bolton.",
+            "en": "A short drive to another of Bolton's historic gems."
+          }
+        },
+        {
+          "name": {
+            "de": "Queen's Park",
+            "hu": "Queen's Park",
+            "ro": "Parcul Queen's",
+            "en": "Queen's Park"
+          },
+          "coords": [
+            -2.445,
+            53.58
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.6,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem entspannten Spaziergang.",
+            "hu": "Zárja a napot egy pihentető sétával.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă.",
+            "en": "End the day with a relaxing stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Parken Sie im Zentrum und erkunden Sie den historischen Kern von Bolton zu Fuß, vom Rathaus bis zum Museum. Nach dem Mittagessen in einem geschichtsträchtigen Pub bringt Sie Ihr Auto zu den abgelegenen Herrenhäusern Smithills Hall und Hall i' th' Wood. Beenden Sie Ihren Tag mit einer friedlichen Auszeit im Queen's Park, nachdem Sie das Beste aus städtischer Erkundung und ländlichem Charme kombiniert haben.",
+        "hu": "Parkoljon le a központban, és fedezze fel gyalog Bolton történelmi magját, a Városházától a múzeumig. Egy történelmi pubban elköltött ebéd után autója elviszi a távolabbi Smithills Hall és Hall i' th' Wood udvarházakhoz. A napot a Queen's Parkban tett békés pihenővel zárja, miután ötvözte a városi felfedezés és a vidéki báj legjavát.",
+        "ro": "Parcați în centru și explorați nucleul istoric al Boltonului pe jos, de la Primărie la muzeu. După prânzul la un pub plin de istorie, mașina vă duce la conacele mai îndepărtate, Smithills Hall și Hall i' th' Wood. Încheiați ziua cu o pauză liniștită în Queen's Park, combinând astfel ce e mai bun din explorarea urbană și farmecul rural.",
+        "en": "Park centrally and explore Bolton's historic core on foot, from the Town Hall to the museum. After lunch in a pub steeped in history, your car whisks you away to the outlying manors of Smithills Hall and Hall i' th' Wood. End your day with a peaceful respite at Queen's Park, having combined the best of urban exploration and countryside charm."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Black Bull",
+            "tip": "Ein traditioneller Pub, der für sein Essen bekannt ist, etwas außerhalb des Zentrums."
+          },
+          {
+            "name": "The Courtyard Canteen (im Bolton Market)",
+            "tip": "Eine große Auswahl an Street-Food-Optionen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Black Bull",
+            "tip": "Hagyományos pub, amely az ételeiről ismert, kissé a központon kívül."
+          },
+          {
+            "name": "The Courtyard Canteen (a Bolton Marketben)",
+            "tip": "Street food lehetőségek széles választéka."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Black Bull",
+            "tip": "Un pub tradițional renumit pentru mâncarea sa, puțin în afara centrului."
+          },
+          {
+            "name": "The Courtyard Canteen (la Piața Bolton)",
+            "tip": "O mare varietate de opțiuni de street food."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Black Bull",
+            "tip": "A traditional pub known for its food, slightly out of the centre."
+          },
+          {
+            "name": "The Courtyard Canteen (at Bolton Market)",
+            "tip": "A great variety of street food options."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jumbles Country Park",
+            "tip": "Eine kurze Fahrt für einen längeren, ruhigen Spaziergang.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten der Smithills Hall",
+            "tip": "Ein friedlicher Ort nach der Erkundung des Hauses.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jumbles Country Park",
+            "tip": "Rövid autóútra egy hosszabb, csendes sétához.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Smithills Hall kertjei",
+            "tip": "Békés hely a ház felfedezése után.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Jumbles Country",
+            "tip": "O scurtă călătorie cu mașina pentru o plimbare mai lungă și liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Smithills Hall",
+            "tip": "Un loc liniștit după explorarea casei.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jumbles Country Park",
+            "tip": "A short drive away for a longer, peaceful walk.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gardens of Smithills Hall",
+            "tip": "A peaceful spot after exploring the house.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschenkeladen in Smithills Hall",
+            "tip": "Finden Sie einzigartige Souvenirs mit Bezug zur Geschichte des Hauses."
+          },
+          {
+            "name": "Market Place Shopping Centre",
+            "tip": "Für bekannte Marken, bevor Sie die Stadt verlassen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smithills Hall ajándékboltja",
+            "tip": "Találjon egyedi, a ház történelméhez kapcsolódó ajándéktárgyakat."
+          },
+          {
+            "name": "Market Place bevásárlóközpont",
+            "tip": "Ismert márkákért, mielőtt elhagyná a várost."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de cadouri Smithills Hall",
+            "tip": "Găsiți suveniruri unice legate de istoria casei."
+          },
+          {
+            "name": "Centrul Comercial Market Place",
+            "tip": "Pentru mărci cunoscute înainte de a părăsi orașul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smithills Hall Gift Shop",
+            "tip": "Find unique souvenirs related to the hall's history."
+          },
+          {
+            "name": "Market Place Shopping Centre",
+            "tip": "For high-street brands before you leave town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Parkgebühren und -beschränkungen.",
+          "Ein Navigationsgerät wird für die Fahrt zwischen den Standorten empfohlen.",
+          "Die Öffnungszeiten der Herrenhäuser können variieren, überprüfen Sie sie vor der Abfahrt."
+        ],
+        "hu": [
+          "Ellenőrizze a parkolási díjakat és korlátozásokat.",
+          "A helyszínek közötti utazáshoz ajánlott a GPS használata.",
+          "Az udvarházak nyitvatartási ideje változhat, indulás előtt ellenőrizze."
+        ],
+        "ro": [
+          "Verificați taxele și restricțiile de parcare.",
+          "Un GPS este recomandat pentru a naviga între site-uri.",
+          "Orele de deschidere ale conacelor pot varia, verificați înainte de a pleca."
+        ],
+        "en": [
+          "Check parking fees and restrictions.",
+          "A GPS is recommended for navigating between sites.",
+          "Opening times for the historic halls can vary, so check before you set off."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 11.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof Bolton",
+            "hu": "Érkezés a Bolton vasútállomásra",
+            "ro": "Sosire la Gara Bolton",
+            "en": "Arrive at Bolton Station"
+          },
+          "coords": [
+            -2.434,
+            53.574
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihr Abenteuer direkt vom Verkehrsknotenpunkt aus.",
+            "hu": "Kezdje a kalandot közvetlenül a közlekedési csomópontból.",
+            "ro": "Începeți aventura direct de la nodul de transport.",
+            "en": "Start your adventure right from the transport hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Le Mans Crescent",
+            "hu": "Városháza és Le Mans Crescent",
+            "ro": "Primăria și Le Mans Crescent",
+            "en": "Town Hall & Le Mans Crescent"
+          },
+          "coords": [
+            -2.4295,
+            53.5785
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:22",
+          "stay_min": 45,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Bahnhof zum Herzen der Stadt.",
+            "hu": "Rövid séta az állomástól a város szívébe.",
+            "ro": "O scurtă plimbare de la gară la inima orașului.",
+            "en": "A short walk from the station into the heart of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Bolton Museum & Kunstgalerie",
+            "hu": "Boltoni Múzeum és Művészeti Galéria",
+            "ro": "Muzeul și Galeria de Artă Bolton",
+            "en": "Bolton Museum & Art Gallery"
+          },
+          "coords": [
+            -2.4311,
+            53.5795
+          ],
+          "category": "museums",
+          "arrive_at": "10:11",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die Kultur direkt im Stadtzentrum.",
+            "hu": "Fedezze fel a kultúrát a város központjában.",
+            "ro": "Explorați cultura chiar în centrul orașului.",
+            "en": "Explore the culture right in the city centre cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Hall i' th' Wood",
+            "hu": "Hall i' th' Wood",
+            "ro": "Hall i' th' Wood",
+            "en": "Hall i' th' Wood"
+          },
+          "coords": [
+            -2.41,
+            53.595
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.4,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus, um in die Vergangenheit zu diesem Tudor-Herrenhaus zu reisen.",
+            "hu": "Utazzon busszal a múltba ehhez a Tudor-kori udvarházhoz.",
+            "ro": "Luați un autobuz pentru a călători înapoi în timp la acest conac Tudor.",
+            "en": "Take a bus to travel back in time to this Tudor manor."
+          }
+        },
+        {
+          "name": {
+            "de": "Smithills Hall",
+            "hu": "Smithills Hall",
+            "ro": "Smithills Hall",
+            "en": "Smithills Hall"
+          },
+          "coords": [
+            -2.46,
+            53.6
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine weitere Busfahrt bringt Sie zu einem der ältesten Herrenhäuser der Region.",
+            "hu": "Egy másik buszút elviszi a régió egyik legrégebbi udvarházához.",
+            "ro": "O altă călătorie cu autobuzul vă duce la unul dintre cele mai vechi conace din zonă.",
+            "en": "Another bus journey takes you to one of the area's oldest manors."
+          }
+        },
+        {
+          "name": {
+            "de": "Queen's Park",
+            "hu": "Queen's Park",
+            "ro": "Parcul Queen's",
+            "en": "Queen's Park"
+          },
+          "coords": [
+            -2.445,
+            53.58
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:21",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im Park, eine kurze Busfahrt zurück ins Zentrum.",
+            "hu": "Pihenjen a parkban, egy rövid buszútra a központtól.",
+            "ro": "Relaxați-vă în parc, la o scurtă călătorie cu autobuzul înapoi spre centru.",
+            "en": "Relax in the park, a short bus ride back towards the centre."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie am Bahnhof und spazieren Sie ins Zentrum von Bolton für einen Vormittag voller Architektur und Kultur. Nutzen Sie mittags die öffentlichen Verkehrsmittel, um die historischen Häuser Hall i' th' Wood und Smithills Hall zu entdecken, die die Geschichte der Region erzählen. Der Nachmittag endet mit einer entspannten Zeit im Queen's Park, bevor Sie für Ihre Heimreise wieder in den Bus steigen.",
+        "hu": "Induljon az állomásról, és sétáljon be Bolton központjába egy építészettel és kultúrával teli délelőttre. Délben használja a tömegközlekedést, hogy felfedezze a Hall i' th' Wood és a Smithills Hall történelmi házakat, amelyek a régió történetét mesélik el. A délután a Queen's Parkban eltöltött pihenővel zárul, mielőtt visszaszállna a buszra a hazautazáshoz.",
+        "ro": "Porniți de la gară și plimbați-vă în centrul Boltonului pentru o dimineață de arhitectură și cultură. La prânz, folosiți transportul public pentru a descoperi casele istorice Hall i' th' Wood și Smithills Hall, care spun povestea regiunii. După-amiaza se încheie cu un moment de relaxare în Queen's Park înainte de a lua autobuzul pentru călătoria de întoarcere.",
+        "en": "Start at the station and walk into central Bolton for a morning of architecture and culture. At midday, use public transport to discover the historic houses of Hall i' th' Wood and Smithills Hall, which tell the story of the region. The afternoon concludes with some relaxing time in Queen's Park before hopping on a bus for your journey home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Olympus Fish and Chip Restaurant",
+            "tip": "Ein Klassiker aus Bolton in der Nähe des Zentrums, leicht mit dem Bus zu erreichen."
+          },
+          {
+            "name": "Odessa Cafe",
+            "tip": "Befindet sich im Busbahnhof, ideal für einen schnellen Happen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olympus Fish and Chip étterem",
+            "tip": "Boltoni klasszikus a központ közelében, busszal könnyen megközelíthető."
+          },
+          {
+            "name": "Odessa Cafe",
+            "tip": "A buszpályaudvaron található, ideális egy gyors falatra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul Olympus Fish and Chip",
+            "tip": "Un clasic din Bolton, aproape de centru și ușor accesibil cu autobuzul."
+          },
+          {
+            "name": "Odessa Cafe",
+            "tip": "Situat în autogară, excelent pentru o gustare rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Olympus Fish and Chip Restaurant",
+            "tip": "A Bolton classic near the centre, easily reachable by bus."
+          },
+          {
+            "name": "Odessa Cafe",
+            "tip": "Located in the bus station, great for a quick bite."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bolton Parish Church",
+            "tip": "Finden Sie einen Moment der Ruhe in dieser historischen Kirche in der Nähe des Busbahnhofs.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Moses Gate Country Park",
+            "tip": "Ein größerer Park, der mit dem Bus für ein längeres Naturerlebnis erreichbar ist.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltoni plébániatemplom",
+            "tip": "Találjon egy csendes pillanatot ebben a történelmi templomban a buszpályaudvar közelében.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Moses Gate Country Park",
+            "tip": "Nagyobb park, busszal megközelíthető egy hosszabb természeti élményért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica Parohială Bolton",
+            "tip": "Găsiți un moment de liniște în această biserică istorică de lângă autogară.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Parcul Moses Gate Country",
+            "tip": "Un parc mai mare, accesibil cu autobuzul pentru o evadare mai lungă în natură.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bolton Parish Church",
+            "tip": "Find a moment of quiet in this historic church near the bus station.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Moses Gate Country Park",
+            "tip": "A larger park, accessible by bus for a longer nature escape.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte im Bahnhof",
+            "tip": "Kaufen Sie ein Buch oder eine Zeitschrift für Ihre Reise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok az állomáson",
+            "tip": "Vásároljon egy könyvet vagy magazint az utazáshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine din gară",
+            "tip": "Luați o carte sau o revistă pentru călătoria dvs."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops at the Station",
+            "tip": "Pick up a book or a magazine for your journey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten mit dem Bus.",
+          "Laden Sie eine Nahverkehrs-App herunter, um Busfahrpläne in Echtzeit zu verfolgen.",
+          "Beachten Sie, dass die Busse abends seltener fahren."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan buszozáshoz.",
+          "Töltsön le egy helyi közlekedési alkalmazást a buszmenetrendek valós idejű követéséhez.",
+          "Vegye figyelembe, hogy a buszok este ritkábban közlekednek."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate cu autobuzul.",
+          "Descărcați o aplicație de transport local pentru a urmări orarele autobuzelor în timp real.",
+          "Rețineți că autobuzele pot fi mai puțin frecvente seara."
+        ],
+        "en": [
+          "Purchase a day-rider ticket for unlimited bus travel.",
+          "Download a local transit app to track bus times in real-time.",
+          "Be aware that bus services may be less frequent in the evening."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1364 @@
+{
+  "city_id": "iceland-akureyri-cities-v2",
+  "anchor": {
+    "name": "Akureyri",
+    "coords": [
+      -18.1,
+      65.6833
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hof Kulturzentrum",
+            "hu": "Hof Kulturális Központ",
+            "ro": "Centrul Cultural Hof",
+            "en": "Hof Cultural Center"
+          },
+          "coords": [
+            -18.088,
+            65.683
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Spielplan; oft gibt es tagsüber kostenlose Ausstellungen.",
+            "hu": "Nézd meg a programot; napközben gyakran vannak ingyenes kiállítások.",
+            "ro": "Verifică programul; adesea sunt expoziții gratuite în timpul zilei.",
+            "en": "Check the schedule; there are often free exhibitions during the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Akureyrarkirkja",
+            "hu": "Akureyri temploma",
+            "ro": "Biserica Akureyrarkirkja",
+            "en": "Akureyrarkirkja"
+          },
+          "coords": [
+            -18.093,
+            65.68
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Achten Sie auf das beeindruckende Buntglasfenster über dem Altar.",
+            "hu": "Figyeld meg a lenyűgöző ólomüveg ablakot az oltár felett.",
+            "ro": "Observați vitraliul impresionant de deasupra altarului.",
+            "en": "Notice the impressive stained glass window above the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Akureyri Kunstmuseum",
+            "hu": "Akureyri Művészeti Múzeum",
+            "ro": "Muzeul de Artă Akureyri",
+            "en": "Akureyri Art Museum"
+          },
+          "coords": [
+            -18.095,
+            65.678
+          ],
+          "arrive_at": "11:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "category": "museums",
+          "tip_5lang": {
+            "de": "Der Eintritt gilt oft auch für das nahegelegene Akureyri Museum.",
+            "hu": "A belépő gyakran érvényes a közeli Akureyri Múzeumba is.",
+            "ro": "Biletul de intrare este adesea valabil și pentru Muzeul Akureyri din apropiere.",
+            "en": "The entrance ticket is often valid for the nearby Akureyri Museum as well."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Pollurinn",
+            "hu": "Ebéd a Pollurinn tónál",
+            "ro": "Prânz la Pollurinn",
+            "en": "Lunch at Pollurinn"
+          },
+          "coords": [
+            -18.09,
+            65.684
+          ],
+          "category": "natural features",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Wählen Sie ein Restaurant mit Blick auf den Fjord für eine tolle Aussicht.",
+            "hu": "Válassz egy fjordra néző éttermet a nagyszerű kilátásért.",
+            "ro": "Alegeți un restaurant cu vedere la fiord pentru o priveliște minunată.",
+            "en": "Choose a restaurant overlooking the fjord for a great view."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanischer Garten",
+            "hu": "Botanikus Kert",
+            "ro": "Grădina Botanică",
+            "en": "Botanical Garden"
+          },
+          "coords": [
+            -18.098,
+            65.675
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Einer der nördlichsten botanischen Gärten der Welt. Verpassen Sie nicht die isländische Flora.",
+            "hu": "A világ egyik legészakibb botanikus kertje. Ne hagyd ki az izlandi flórát bemutató részt.",
+            "ro": "Una dintre cele mai nordice grădini botanice din lume. Nu ratați secțiunea de floră islandeză.",
+            "en": "One of the northernmost botanical gardens in the world. Don't miss the Icelandic flora section."
+          }
+        },
+        {
+          "name": {
+            "de": "Akureyri Museum",
+            "hu": "Akureyri Múzeum",
+            "ro": "Muzeul Akureyri",
+            "en": "Akureyri Museum"
+          },
+          "coords": [
+            -18.105,
+            65.671
+          ],
+          "category": "museums",
+          "arrive_at": "16:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fokus auf die lokale Geschichte und Kultur der Region Eyjafjörður.",
+            "hu": "A múzeum az Eyjafjörður régió helyi történelmére és kultúrájára összpontosít.",
+            "ro": "Se concentrează pe istoria și cultura locală a regiunii Eyjafjörður.",
+            "en": "Focuses on the local history and culture of the Eyjafjörður region."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Akureyri beginnt am modernen Hof Kulturzentrum am Wasser. Nach einem kurzen Spaziergang bergauf erreichen Sie die ikonische Akureyrarkirkja mit ihrer beeindruckenden Aussicht. Am Nachmittag schlendern Sie durch den wunderschönen Botanischen Garten, einen der nördlichsten der Welt, bevor Sie in die lokale Geschichte im Akureyri Museum eintauchen. Abends genießen Sie die gemütliche Atmosphäre der Stadt bei einem Abendessen.",
+        "hu": "Akureyriben a nap a vízparti, modern Hof Kulturális Központnál kezdődik. Egy rövid, emelkedő séta után eléri az ikonikus Akureyrarkirkját, ahonnan lenyűgöző a kilátás. Délután sétáljon egyet a világ egyik legészakibb botanikus kertjében, mielőtt elmerülne a helyi történelemben az Akureyri Múzeumban. Este vacsora közben élvezze a város hangulatos atmoszféráját.",
+        "ro": "Ziua dvs. în Akureyri începe la modernul Centru Cultural Hof, pe malul apei. După o scurtă plimbare la deal, ajungeți la emblematica Akureyrarkirkja, cu priveliștea sa impresionantă. După-amiaza, plimbați-vă prin frumoasa Grădină Botanică, una dintre cele mai nordice din lume, înainte de a vă cufunda în istoria locală la Muzeul Akureyri. Seara, bucurați-vă de atmosfera primitoare a orașului la cină.",
+        "en": "Your day in Akureyri starts at the modern Hof Cultural Center by the water. After a short uphill walk, you'll reach the iconic Akureyrarkirkja with its impressive view. In the afternoon, stroll through the beautiful Botanical Garden, one of the most northerly in the world, before delving into local history at the Akureyri Museum. In the evening, enjoy the city's cozy atmosphere over dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fisch des Tages",
+            "tip": "Frischer geht es nicht, oft in den Restaurants am Hafen serviert."
+          },
+          {
+            "name": "Kjötsúpa",
+            "tip": "Eine herzhafte isländische Lammfleischsuppe, perfekt zum Aufwärmen."
+          },
+          {
+            "name": "Plokkfiskur",
+            "tip": "Ein traditioneller Fischeintopf, cremig und sättigend."
+          }
+        ],
+        "hu": [
+          {
+            "name": "A nap hala",
+            "tip": "Ennél frissebbet nem találsz, gyakran a kikötői éttermekben szolgálják fel."
+          },
+          {
+            "name": "Kjötsúpa",
+            "tip": "Kiadós izlandi bárányhúsleves, tökéletes a felmelegedéshez."
+          },
+          {
+            "name": "Plokkfiskur",
+            "tip": "Hagyományos halpörkölt, krémes és laktató."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Peștele zilei",
+            "tip": "Nu există mai proaspăt, adesea servit în restaurantele din port."
+          },
+          {
+            "name": "Kjötsúpa",
+            "tip": "O supă consistentă islandeză de miel, perfectă pentru a te încălzi."
+          },
+          {
+            "name": "Plokkfiskur",
+            "tip": "O tocană tradițională de pește, cremoasă și sățioasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish of the day",
+            "tip": "It doesn't get fresher, often served in the harbor restaurants."
+          },
+          {
+            "name": "Kjötsúpa",
+            "tip": "A hearty Icelandic lamb soup, perfect for warming up."
+          },
+          {
+            "name": "Plokkfiskur",
+            "tip": "A traditional fish stew, creamy and filling."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Pollurinn",
+            "tip": "Ein ruhiger Spaziergang entlang des Fjords mit Blick auf die Berge.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Botanischer Garten",
+            "tip": "Finden Sie eine abgelegene Bank und genießen Sie die Stille.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Pollurinn partja",
+            "tip": "Egy csendes séta a fjord mentén, kilátással a hegyekre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Botanikus Kert",
+            "tip": "Keress egy félreeső padot, és élvezd a csendet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Pollurinn",
+            "tip": "O plimbare liniștită de-a lungul fiordului, cu vedere la munți.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Botanică",
+            "tip": "Găsiți o bancă retrasă și bucurați-vă de liniște.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shores of Pollurinn",
+            "tip": "A quiet walk along the fjord with views of the mountains.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Botanical Garden",
+            "tip": "Find a secluded bench and enjoy the silence.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hafnarstræti",
+            "tip": "Die Haupteinkaufsstraße mit vielen Geschäften, die isländisches Design und Wollprodukte verkaufen."
+          },
+          {
+            "name": "Grófargil",
+            "tip": "Suchen Sie nach kleinen Kunsthandwerksläden und Galerien in dieser Gegend."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hafnarstræti",
+            "tip": "A fő bevásárlóutca, ahol számos üzlet kínál izlandi dizájnt és gyapjútermékeket."
+          },
+          {
+            "name": "Grófargil",
+            "tip": "Keress kézműves boltokat és galériákat ezen a területen."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hafnarstræti",
+            "tip": "Principala stradă comercială cu multe magazine care vând design islandez și produse din lână."
+          },
+          {
+            "name": "Grófargil",
+            "tip": "Căutați mici magazine de artizanat și galerii în această zonă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hafnarstræti",
+            "tip": "The main shopping street with many shops selling Icelandic design and wool products."
+          },
+          {
+            "name": "Grófargil",
+            "tip": "Look for small craft shops and galleries in this area."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum hügelig ist.",
+          "Das Wetter kann sich schnell ändern, also kleiden Sie sich am besten im Zwiebellook.",
+          "Viele Cafés bieten kostenloses WLAN und einen gemütlichen Ort zum Aufwärmen."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, mert a városközpont dombos.",
+          "Az időjárás gyorsan változhat, ezért a réteges öltözködés a legjobb.",
+          "Sok kávézó kínál ingyenes Wi-Fi-t és egy hangulatos helyet a felmelegedéshez."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul orașului este deluros.",
+          "Vremea se poate schimba rapid, așa că cel mai bine este să vă îmbrăcați în straturi.",
+          "Multe cafenele oferă Wi-Fi gratuit și un loc confortabil pentru a vă încălzi."
+        ],
+        "en": [
+          "Wear comfortable shoes as the city center is hilly.",
+          "The weather can change quickly, so dressing in layers is best.",
+          "Many cafes offer free Wi-Fi and a cozy place to warm up."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hof Kulturzentrum",
+            "hu": "Hof Kulturális Központ",
+            "ro": "Centrul Cultural Hof",
+            "en": "Hof Cultural Center"
+          },
+          "coords": [
+            -18.088,
+            65.683
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Perfekter Startpunkt mit Fahrradverleih in der Nähe.",
+            "hu": "Tökéletes kiindulópont, a közelben kerékpárkölcsönző is található.",
+            "ro": "Punct de plecare perfect, cu închiriere de biciclete în apropiere.",
+            "en": "Perfect starting point with bike rentals nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt entlang des Pollurinn",
+            "hu": "Tekerés a Pollurinn mentén",
+            "ro": "Plimbare pe lângă Pollurinn",
+            "en": "Ride along Pollurinn"
+          },
+          "coords": [
+            -18.09,
+            65.69
+          ],
+          "category": "natural features",
+          "arrive_at": "09:56",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die flache Strecke entlang des Wassers mit toller Aussicht.",
+            "hu": "Élvezd a sík szakaszt a víz mentén, nagyszerű kilátással.",
+            "ro": "Bucurați-vă de traseul plat de-a lungul apei cu vederi minunate.",
+            "en": "Enjoy the flat route along the water with great views."
+          }
+        },
+        {
+          "name": {
+            "de": "Kjarnaskógur Wald",
+            "hu": "Kjarnaskógur erdő",
+            "ro": "Pădurea Kjarnaskógur",
+            "en": "Kjarnaskógur Forest"
+          },
+          "coords": [
+            -18.12,
+            65.645
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Es gibt spezielle Mountainbike-Strecken für Abenteuerlustige.",
+            "hu": "A kalandvágyók számára külön mountain bike ösvények is vannak.",
+            "ro": "Există trasee speciale pentru mountain bike pentru cei aventuroși.",
+            "en": "There are dedicated mountain bike trails for the adventurous."
+          }
+        },
+        {
+          "name": {
+            "de": "Jólagarðurinn (Der Weihnachtsgarten)",
+            "hu": "Jólagarðurinn (A Karácsonyi Kert)",
+            "ro": "Jólagarðurinn (Grădina de Crăciun)",
+            "en": "Jólagarðurinn (The Christmas Garden)"
+          },
+          "coords": [
+            -18.15,
+            65.63
+          ],
+          "category": "kid-landmark",
+          "arrive_at": "13:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein magischer Ort, auch im Sommer. Probieren Sie die heiße Schokolade.",
+            "hu": "Varázslatos hely, még nyáron is. Kóstold meg a forró csokit.",
+            "ro": "Un loc magic, chiar și vara. Încercați ciocolata caldă.",
+            "en": "A magical place, even in summer. Try the hot chocolate."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanischer Garten",
+            "hu": "Botanikus Kert",
+            "ro": "Grădina Botanică",
+            "en": "Botanical Garden"
+          },
+          "coords": [
+            -18.098,
+            65.675
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Eingang ab und genießen Sie einen Spaziergang.",
+            "hu": "Zárd le a biciklidet a bejáratnál, és élvezd a sétát.",
+            "ro": "Încuie-ți bicicleta la intrare și bucură-te de o plimbare.",
+            "en": "Lock your bike at the entrance and enjoy a walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Akureyrarkirkja",
+            "hu": "Akureyri temploma",
+            "ro": "Biserica Akureyrarkirkja",
+            "en": "Akureyrarkirkja"
+          },
+          "coords": [
+            -18.093,
+            65.68
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Die letzte Anstrengung den Hügel hinauf wird mit einer fantastischen Aussicht belohnt.",
+            "hu": "Az utolsó erőfeszítést a hegyre fel egy fantasztikus kilátás jutalmazza.",
+            "ro": "Efortul final de a urca dealul este răsplătit cu o priveliște fantastică.",
+            "en": "The final push up the hill is rewarded with a fantastic view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und starten Sie am Hof Kulturzentrum. Eine entspannte Fahrt führt Sie entlang des Fjords, bevor Sie sich in den Kjarnaskógur-Wald wagen, ein Paradies für Radfahrer. Nach einem magischen Stopp im ganzjährig geöffneten Weihnachtsgarten radeln Sie zurück in die Stadt, um den Botanischen Garten zu erkunden. Der Tag endet mit dem Anstieg zur Akureyrarkirkja, von wo aus Sie einen letzten Blick auf die Stadt werfen.",
+        "hu": "Pattanj biciklire és indulj a Hof Kulturális Központtól. Egy kellemes tekerés vezet a fjord mentén, mielőtt bemerészkedsz a Kjarnaskógur erdőbe, a biciklisek paradicsomába. Egy varázslatos megálló után az egész évben nyitva tartó Karácsonyi Kertben visszatekered a városba, hogy felfedezd a Botanikus Kertet. A nap az Akureyrarkirkjához való felkapaszkodással ér véget, ahonnan utoljára vethetsz egy pillantást a városra.",
+        "ro": "Urcați-vă pe bicicletă și porniți de la Centrul Cultural Hof. O plimbare relaxantă vă duce de-a lungul fiordului înainte de a vă aventura în pădurea Kjarnaskógur, un paradis pentru bicicliști. După o oprire magică la Grădina de Crăciun deschisă tot anul, pedalați înapoi în oraș pentru a explora Grădina Botanică. Ziua se încheie cu urcarea la Akureyrarkirkja pentru o ultimă priveliște asupra orașului.",
+        "en": "Hop on your bike and start at the Hof Cultural Center. A relaxing ride takes you along the fjord before venturing into Kjarnaskógur forest, a cyclist's paradise. After a magical stop at the year-round Christmas Garden, you'll pedal back into town to explore the Botanical Garden. The day concludes with the climb to Akureyrarkirkja for one last view of the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bakaríið við Brúna",
+            "tip": "Eine Bäckerei, die sich perfekt für einen schnellen Snack vor oder nach der Radtour eignet."
+          },
+          {
+            "name": "Eis von Brynja",
+            "tip": "Belohnen Sie sich mit dem berühmtesten Eis Islands."
+          },
+          {
+            "name": "Suppenbuffet",
+            "tip": "Viele Restaurants bieten mittags ein günstiges Suppenbuffet an."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bakaríið við Brúna",
+            "tip": "Egy pékség, amely tökéletes egy gyors harapnivalóhoz a biciklizés előtt vagy után."
+          },
+          {
+            "name": "Fagyi a Brynjából",
+            "tip": "Jutalmazd meg magad Izland leghíresebb fagyijával."
+          },
+          {
+            "name": "Levesbüfé",
+            "tip": "Sok étterem kínál délben kedvező árú levesbüfét."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bakaríið við Brúna",
+            "tip": "O brutărie perfectă pentru o gustare rapidă înainte sau după turul cu bicicleta."
+          },
+          {
+            "name": "Înghețată de la Brynja",
+            "tip": "Recompensați-vă cu cea mai faimoasă înghețată din Islanda."
+          },
+          {
+            "name": "Bufet de supe",
+            "tip": "Multe restaurante oferă un bufet de supe la prânz la un preț rezonabil."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakaríið við Brúna",
+            "tip": "A bakery perfect for a quick snack before or after the bike tour."
+          },
+          {
+            "name": "Ice cream from Brynja",
+            "tip": "Reward yourself with Iceland's most famous ice cream."
+          },
+          {
+            "name": "Soup buffet",
+            "tip": "Many restaurants offer a reasonably priced soup buffet at lunchtime."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kjarnaskógur Waldwege",
+            "tip": "Abseits der Hauptwege finden Sie absolute Stille.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Der alte Friedhof neben dem Museum",
+            "tip": "Ein friedlicher, historischer Ort.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kjarnaskógur erdei ösvények",
+            "tip": "A fő ösvényektől távolabb teljes csendet találsz.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "A régi temető a múzeum mellett",
+            "tip": "Békés, történelmi hely.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Căile din pădurea Kjarnaskógur",
+            "tip": "Veți găsi liniște absolută departe de căile principale.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Cimitirul vechi de lângă muzeu",
+            "tip": "Un loc pașnic, istoric.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kjarnaskógur forest trails",
+            "tip": "You'll find absolute silence away from the main paths.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "The old cemetery next to the museum",
+            "tip": "A peaceful, historic spot.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Jólagarðurinn Shop",
+            "tip": "Einzigartige Weihnachtsdekoration das ganze Jahr über."
+          },
+          {
+            "name": "Fahrradverleih-Shops",
+            "tip": "Verkaufen oft auch lokale Radsport-Ausrüstung und Karten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jólagarðurinn boltja",
+            "tip": "Egyedi karácsonyi díszek egész évben."
+          },
+          {
+            "name": "Kerékpárkölcsönzők",
+            "tip": "Gyakran árulnak helyi kerékpáros felszerelést és térképeket is."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Jólagarðurinn",
+            "tip": "Decorațiuni unice de Crăciun pe tot parcursul anului."
+          },
+          {
+            "name": "Magazine de închiriat biciclete",
+            "tip": "Adesea vând și echipamente de ciclism locale și hărți."
+          }
+        ],
+        "en": [
+          {
+            "name": "Jólagarðurinn Shop",
+            "tip": "Unique Christmas decorations all year round."
+          },
+          {
+            "name": "Bike rental shops",
+            "tip": "Often also sell local cycling gear and maps."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Zustand Ihres Fahrrads, bevor Sie losfahren.",
+          "Ein Helm ist dringend empfohlen.",
+          "Nehmen Sie Wasser und Snacks mit, besonders für die Fahrt zum Kjarnaskógur.",
+          "Seien Sie auf Wind vorbereitet, besonders am Fjord."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizd a kerékpár állapotát.",
+          "Sisak viselése erősen ajánlott.",
+          "Vigyél vizet és rágcsálnivalót, különösen a Kjarnaskógur felé vezető útra.",
+          "Készülj fel a szélre, különösen a fjordnál."
+        ],
+        "ro": [
+          "Verificați starea bicicletei înainte de a porni.",
+          "Casca este foarte recomandată.",
+          "Luați apă și gustări, mai ales pentru plimbarea spre Kjarnaskógur.",
+          "Fiți pregătiți pentru vânt, mai ales lângă fiord."
+        ],
+        "en": [
+          "Check the condition of your bike before you leave.",
+          "A helmet is highly recommended.",
+          "Take water and snacks, especially for the trip to Kjarnaskógur.",
+          "Be prepared for wind, especially by the fjord."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 18.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Jólagarðurinn (Der Weihnachtsgarten)",
+            "hu": "Jólagarðurinn (A Karácsonyi Kert)",
+            "ro": "Jólagarðurinn (Grădina de Crăciun)",
+            "en": "Jólagarðurinn (The Christmas Garden)"
+          },
+          "coords": [
+            -18.15,
+            65.63
+          ],
+          "category": "kid-landmark",
+          "arrive_at": "09:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Starten Sie den Tag magisch. Es gibt genügend Parkplätze.",
+            "hu": "Kezdje a napot varázslatosan. Van elég parkolóhely.",
+            "ro": "Începeți ziua într-un mod magic. Există suficiente locuri de parcare.",
+            "en": "Start the day magically. There is plenty of parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Kjarnaskógur Wald",
+            "hu": "Kjarnaskógur erdő",
+            "ro": "Pădurea Kjarnaskógur",
+            "en": "Kjarnaskógur Forest"
+          },
+          "coords": [
+            -18.12,
+            65.645
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Hauptparkplatz und erkunden Sie die Wanderwege zu Fuß.",
+            "hu": "Parkolj a fő parkolóban és fedezd fel a túraösvényeket gyalog.",
+            "ro": "Parcați în parcarea principală și explorați traseele de drumeție pe jos.",
+            "en": "Park at the main car park and explore the hiking trails on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster: Museums-Viertel",
+            "hu": "Klaszter: Múzeumi negyed",
+            "ro": "Cluster: Cartierul Muzeelor",
+            "en": "Cluster: Museum Quarter"
+          },
+          "coords": [
+            -18.105,
+            65.671
+          ],
+          "category": "museums",
+          "arrive_at": "12:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier. Das Akureyri Museum ist der erste Halt.",
+            "hu": "Parkolj le itt. Az Akureyri Múzeum az első megálló.",
+            "ro": "Parcați aici. Muzeul Akureyri este prima oprire.",
+            "en": "Park here. The Akureyri Museum is the first stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanischer Garten",
+            "hu": "Botanikus Kert",
+            "ro": "Grădina Botanică",
+            "en": "Botanical Garden"
+          },
+          "coords": [
+            -18.098,
+            65.675
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum. Lassen Sie das Auto stehen.",
+            "hu": "Rövid séta a múzeumtól. Hagyd az autót a parkolóban.",
+            "ro": "O scurtă plimbare de la muzeu. Lăsați mașina parcată.",
+            "en": "A short walk from the museum. Leave the car parked."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster: Stadtzentrum",
+            "hu": "Klaszter: Városközpont",
+            "ro": "Cluster: Centrul Orașului",
+            "en": "Cluster: City Center"
+          },
+          "coords": [
+            -18.093,
+            65.68
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie ins Zentrum und parken Sie in der Nähe der Akureyrarkirkja.",
+            "hu": "Vezess a központba és parkolj az Akureyrarkirkja közelében.",
+            "ro": "Conduceți spre centru și parcați lângă Akureyrarkirkja.",
+            "en": "Drive to the center and park near Akureyrarkirkja."
+          }
+        },
+        {
+          "name": {
+            "de": "Akureyri Kunstmuseum",
+            "hu": "Akureyri Művészeti Múzeum",
+            "ro": "Muzeul de Artă Akureyri",
+            "en": "Akureyri Art Museum"
+          },
+          "coords": [
+            -18.095,
+            65.678
+          ],
+          "category": "museums",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie den Hügel hinunter zum Kunstmuseum.",
+            "hu": "Sétálj le a dombon a Művészeti Múzeumhoz.",
+            "ro": "Coborâți dealul până la Muzeul de Artă.",
+            "en": "Stroll down the hill to the Art Museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Hof Kulturzentrum",
+            "hu": "Hof Kulturális Központ",
+            "ro": "Centrul Cultural Hof",
+            "en": "Hof Cultural Center"
+          },
+          "coords": [
+            -18.088,
+            65.683
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag am Wasser und genießen Sie die moderne Architektur.",
+            "hu": "Fejezd be a napot a vízparton, és élvezd a modern építészetet.",
+            "ro": "Încheiați ziua pe malul apei, admirând arhitectura modernă.",
+            "en": "End the day by the water, enjoying the modern architecture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie mühelos die weiter entfernten Schätze Akureyris. Der Tag beginnt mit einem zauberhaften Besuch im Weihnachtsgarten, gefolgt von einem Naturerlebnis im Kjarnaskógur-Wald. Danach fahren Sie in die Stadt und parken im Museumsviertel, um das Akureyri Museum und den Botanischen Garten zu Fuß zu erkunden. Der letzte Teil des Tages führt Sie ins Stadtzentrum, wo Sie zwischen der Akureyrarkirkja und dem Kunstmuseum spazieren.",
+        "hu": "Autóval könnyedén felfedezheted Akureyri távolabbi kincseit. A nap egy varázslatos látogatással kezdődik a Karácsonyi Kertben, majd egy természeti élmény következik a Kjarnaskógur erdőben. Ezután beautózol a városba, és a múzeumi negyedben parkolva gyalog fedezed fel az Akureyri Múzeumot és a Botanikus Kertet. A nap utolsó része a városközpontba vezet, ahol az Akureyrarkirkja és a Művészeti Múzeum között sétálhatsz.",
+        "ro": "Cu mașina, explorați cu ușurință comorile mai îndepărtate ale Akureyri. Ziua începe cu o vizită magică la Grădina de Crăciun, urmată de o experiență în natură în pădurea Kjarnaskógur. Apoi, conduceți în oraș și parcați în Cartierul Muzeelor pentru a explora pe jos Muzeul Akureyri și Grădina Botanică. Ultima parte a zilei vă duce în centrul orașului, unde vă plimbați între Akureyrarkirkja și Muzeul de Artă.",
+        "en": "By car, you can effortlessly explore Akureyri's more distant treasures. The day begins with a magical visit to the Christmas Garden, followed by a nature experience in Kjarnaskógur forest. Afterward, you'll drive into the city and park in the Museum Quarter to explore the Akureyri Museum and the Botanical Garden on foot. The final part of the day takes you to the city center, where you'll walk between Akureyrarkirkja and the Art Museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Strikið",
+            "tip": "Restaurant mit Panoramablick über den Fjord und die Stadt."
+          },
+          {
+            "name": "Rub23",
+            "tip": "Bekannt für seine Fisch- und Fleischgerichte mit speziellen Würzmischungen."
+          },
+          {
+            "name": "Hotdog-Stand (Pylsuvagninn)",
+            "tip": "Ein Muss in Island für einen schnellen, leckeren Bissen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Strikið",
+            "tip": "Étterem panorámás kilátással a fjordra és a városra."
+          },
+          {
+            "name": "Rub23",
+            "tip": "Különleges fűszerkeverékekkel készített hal- és húsételeiről ismert."
+          },
+          {
+            "name": "Hot-dog stand (Pylsuvagninn)",
+            "tip": "Izlandon kötelező egy gyors, finom falatért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strikið",
+            "tip": "Restaurant cu vedere panoramică asupra fiordului și a orașului."
+          },
+          {
+            "name": "Rub23",
+            "tip": "Renumit pentru preparatele sale din pește și carne cu amestecuri speciale de condimente."
+          },
+          {
+            "name": "Stand de hot-dog (Pylsuvagninn)",
+            "tip": "O necesitate în Islanda pentru o gustare rapidă și delicioasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Strikið",
+            "tip": "Restaurant with panoramic views over the fjord and the city."
+          },
+          {
+            "name": "Rub23",
+            "tip": "Known for its fish and meat dishes with special spice rubs."
+          },
+          {
+            "name": "Hot dog stand (Pylsuvagninn)",
+            "tip": "A must-try in Iceland for a quick, tasty bite."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Vaðlaheiði",
+            "tip": "Eine kurze Fahrt über die Brücke für die beste Aussicht auf Akureyri.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gásir",
+            "tip": "Die Ruinen eines mittelalterlichen Handelspostens, 11 km nördlich, für eine ruhige Geschichtsstunde.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vaðlaheiði kilátó",
+            "tip": "Egy rövid autóút a hídon túl a legjobb kilátásért Akureyrire.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gásir",
+            "tip": "Egy középkori kereskedelmi állomás romjai, 11 km-re északra, egy csendes történelemleckéért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Vaðlaheiði",
+            "tip": "O scurtă călătorie cu mașina peste pod pentru cea mai bună vedere a orașului Akureyri.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gásir",
+            "tip": "Ruinele unui post comercial medieval, la 11 km nord, pentru o lecție de istorie liniștită.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vaðlaheiði viewpoint",
+            "tip": "A short drive across the bridge for the best view of Akureyri.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gásir",
+            "tip": "The ruins of a medieval trading post, 11km north, for a quiet history lesson.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Glerártorg Einkaufszentrum",
+            "tip": "Wenn Sie alles unter einem Dach suchen."
+          },
+          {
+            "name": "Fabrikläden für Wolle",
+            "tip": "Suchen Sie nach Schildern für 'lopapeysa' Fabrikverkäufe am Rande der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Glerártorg bevásárlóközpont",
+            "tip": "Ha mindent egy helyen szeretnél megtalálni."
+          },
+          {
+            "name": "Gyapjúgyári boltok",
+            "tip": "Keress 'lopapeysa' gyári boltokra utaló táblákat a város szélén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul comercial Glerártorg",
+            "tip": "Dacă sunteți în căutarea a totul sub un singur acoperiș."
+          },
+          {
+            "name": "Magazine de fabrică de lână",
+            "tip": "Căutați semne pentru vânzările din fabrică 'lopapeysa' la marginea orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Glerártorg shopping mall",
+            "tip": "If you're looking for everything under one roof."
+          },
+          {
+            "name": "Wool factory outlets",
+            "tip": "Look for signs for 'lopapeysa' factory sales on the outskirts of town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich über die Parkregeln in der Innenstadt; oft ist eine Parkscheibe erforderlich.",
+          "Die Straßen außerhalb der Stadt können schmal sein, fahren Sie vorsichtig.",
+          "Tanken Sie, bevor Sie zu längeren Ausflügen aufbrechen.",
+          "Prüfen Sie im Winter immer die Straßenverhältnisse auf road.is."
+        ],
+        "hu": [
+          "Tájékozódj a belvárosi parkolási szabályokról; gyakran parkolóóra szükséges.",
+          "A városon kívüli utak keskenyek lehetnek, vezess óvatosan.",
+          "Tankolj, mielőtt hosszabb kirándulásokra indulsz.",
+          "Télen mindig ellenőrizd az útviszonyokat a road.is oldalon."
+        ],
+        "ro": [
+          "Verificați regulile de parcare în centrul orașului; adesea este necesar un disc de parcare.",
+          "Drumurile din afara orașului pot fi înguste, conduceți cu prudență.",
+          "Alimentați cu combustibil înainte de a pleca în excursii mai lungi.",
+          "Iarna, verificați întotdeauna condițiile drumurilor pe road.is."
+        ],
+        "en": [
+          "Check parking rules in the city center; often a parking disc is required.",
+          "Roads outside the city can be narrow, drive carefully.",
+          "Fill up with gas before heading out on longer trips.",
+          "In winter, always check road conditions on road.is."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 9.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster: Stadtzentrum",
+            "hu": "Klaszter: Városközpont",
+            "ro": "Cluster: Centrul Orașului",
+            "en": "Cluster: City Center"
+          },
+          "coords": [
+            -18.088,
+            65.683
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Start am Hof Kulturzentrum, nahe der Bushaltestelle 'Miðbær'.",
+            "hu": "Indulás a Hof Kulturális Központtól, közel a 'Miðbær' buszmegállóhoz.",
+            "ro": "Pornire de la Centrul Cultural Hof, aproape de stația de autobuz 'Miðbær'.",
+            "en": "Start at Hof Cultural Center, near the 'Miðbær' bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Akureyrarkirkja",
+            "hu": "Akureyri temploma",
+            "ro": "Biserica Akureyrarkirkja",
+            "en": "Akureyrarkirkja"
+          },
+          "coords": [
+            -18.093,
+            65.68
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang bergauf vom Hof.",
+            "hu": "Rövid séta felfelé a Hoftól.",
+            "ro": "O scurtă plimbare la deal de la Hof.",
+            "en": "A short uphill walk from Hof."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Museums-Viertel",
+            "hu": "Utazás a múzeumi negyedbe",
+            "ro": "Călătorie spre Cartierul Muzeelor",
+            "en": "Trip to the Museum Quarter"
+          },
+          "coords": [
+            -18.105,
+            65.671
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Zentrum nach Süden zur Haltestelle 'Sjúkrahús'.",
+            "hu": "Szállj buszra a központból dél felé a 'Sjúkrahús' megállóig.",
+            "ro": "Luați un autobuz din centru spre sud până la stația 'Sjúkrahús'.",
+            "en": "Take a bus from the center southwards to the 'Sjúkrahús' stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanischer Garten",
+            "hu": "Botanikus Kert",
+            "ro": "Grădina Botanică",
+            "en": "Botanical Garden"
+          },
+          "coords": [
+            -18.098,
+            65.675
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie einen gemütlichen Spaziergang und ein Mittagessen im Café des Gartens.",
+            "hu": "Élvezd a kellemes sétát és ebédelj a kert kávézójában.",
+            "ro": "Bucurați-vă de o plimbare relaxantă și de prânz la cafeneaua din grădină.",
+            "en": "Enjoy a leisurely walk and have lunch at the garden's café."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt nach Kjarnaskógur",
+            "hu": "Utazás Kjarnaskógurba",
+            "ro": "Călătorie spre Kjarnaskógur",
+            "en": "Trip to Kjarnaskógur"
+          },
+          "coords": [
+            -18.12,
+            65.645
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus, der in die Nähe des Flughafens fährt, um zum Wald zu gelangen.",
+            "hu": "Szállj fel egy buszra, amely a repülőtér közelébe megy, hogy eljusson az erdőbe.",
+            "ro": "Luați un autobuz care merge spre aeroport pentru a ajunge la pădure.",
+            "en": "Take a bus that goes near the airport to get to the forest."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum",
+            "hu": "Visszatérés a központba",
+            "ro": "Întoarcere în centru",
+            "en": "Return to the Center"
+          },
+          "coords": [
+            -18.09,
+            65.684
+          ],
+          "category": "shopping",
+          "arrive_at": "17:35",
+          "stay_min": 0,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Fahren Sie zurück ins Zentrum für das Abendessen oder zum Einkaufen.",
+            "hu": "Utazz vissza a központba vacsorázni vagy vásárolni.",
+            "ro": "Întoarceți-vă în centru pentru cină sau cumpărături.",
+            "en": "Head back to the center for dinner or shopping."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Akureyris Stadtbusse (Strætó) bringen Sie zu den wichtigsten Orten. Beginnen Sie im Zentrum zu Fuß zwischen dem Hof und der Akureyrarkirkja. Nehmen Sie dann einen Bus nach Süden zum Museumsviertel und genießen Sie das Akureyri Museum und den Botanischen Garten. Ein weiterer Bus bringt Sie zum weitläufigen Kjarnaskógur-Wald, einem beliebten Naherholungsgebiet. Am späten Nachmittag kehren Sie ins Zentrum zurück, um den Tag ausklingen zu lassen.",
+        "hu": "Akureyri városi buszai (Strætó) eljuttatnak a legfontosabb helyekre. Kezdj a központban gyalog a Hof és az Akureyrarkirkja között. Ezután szállj buszra dél felé a múzeumi negyedbe, és élvezd az Akureyri Múzeumot és a Botanikus Kertet. Egy másik busz elvisz a tágas Kjarnaskógur erdőbe, egy népszerű helyi pihenőhelyre. Késő délután térj vissza a központba, hogy lezárja a napot.",
+        "ro": "Autobuzele orașului Akureyri (Strætó) vă vor duce la principalele locații. Începeți în centru pe jos între Hof și Akureyrarkirkja. Apoi, luați un autobuz spre sud, spre Cartierul Muzeelor, și bucurați-vă de Muzeul Akureyri și Grădina Botanică. Un alt autobuz vă va duce la vasta pădure Kjarnaskógur, o zonă de recreere locală populară. La sfârșitul după-amiezii, întoarceți-vă în centru pentru a încheia ziua.",
+        "en": "Akureyri's city buses (Strætó) will take you to the key locations. Start in the center on foot between Hof and Akureyrarkirkja. Then, take a bus south to the Museum Quarter and enjoy the Akureyri Museum and Botanical Garden. Another bus will take you to the vast Kjarnaskógur forest, a popular local recreation area. In the late afternoon, return to the center to round off the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Backstage",
+            "tip": "Ein gemütliches Café im Zentrum, beliebt bei Einheimischen."
+          },
+          {
+            "name": "Akureyri Backpackers",
+            "tip": "Bietet eine entspannte Atmosphäre und günstige Mahlzeiten, ideal für Reisende."
+          },
+          {
+            "name": "Supermarkt-Snacks",
+            "tip": "Kaufen Sie Skyr und Flatkaka für ein günstiges Mittagessen im Freien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Backstage",
+            "tip": "Egy hangulatos kávézó a központban, a helyiek körében népszerű."
+          },
+          {
+            "name": "Akureyri Backpackers",
+            "tip": "Nyugodt légkört és olcsó ételeket kínál, ideális utazóknak."
+          },
+          {
+            "name": "Szupermarket falatok",
+            "tip": "Vásárolj Skyrt és Flatkakát egy olcsó szabadtéri ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Backstage",
+            "tip": "O cafenea confortabilă în centru, populară printre localnici."
+          },
+          {
+            "name": "Akureyri Backpackers",
+            "tip": "Oferă o atmosferă relaxată și mese la prețuri accesibile, ideal pentru călători."
+          },
+          {
+            "name": "Gustări de la supermarket",
+            "tip": "Cumpărați Skyr și Flatkaka pentru un prânz ieftin în aer liber."
+          }
+        ],
+        "en": [
+          {
+            "name": "Backstage",
+            "tip": "A cozy café in the center, popular with locals."
+          },
+          {
+            "name": "Akureyri Backpackers",
+            "tip": "Offers a relaxed atmosphere and affordable meals, ideal for travelers."
+          },
+          {
+            "name": "Supermarket snacks",
+            "tip": "Buy Skyr and Flatkaka for a cheap outdoor lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Der Pier",
+            "tip": "Beobachten Sie die Fischerboote und genießen Sie die Fjordluft.",
+            "emoji": "⚓"
+          },
+          {
+            "name": "Obere Bänke im Botanischen Garten",
+            "tip": "Bieten eine tolle Aussicht und Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A móló",
+            "tip": "Nézd a halászhajókat és élvezd a fjord levegőjét.",
+            "emoji": "⚓"
+          },
+          {
+            "name": "Felső padok a Botanikus Kertben",
+            "tip": "Nagyszerű kilátást és csendet kínálnak.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Debarcaderul",
+            "tip": "Priviți bărcile de pescuit și bucurați-vă de aerul fiordului.",
+            "emoji": "⚓"
+          },
+          {
+            "name": "Băncile superioare din Grădina Botanică",
+            "tip": "Oferă o priveliște minunată și liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "The Pier",
+            "tip": "Watch the fishing boats and enjoy the fjord air.",
+            "emoji": "⚓"
+          },
+          {
+            "name": "Upper benches in the Botanical Garden",
+            "tip": "Offer a great view and tranquility.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geysir Akureyri",
+            "tip": "Stilvolle isländische Kleidung und Accessoires."
+          },
+          {
+            "name": "Penninn Eymundsson",
+            "tip": "Eine große Buchhandlung mit einer guten Auswahl an englischsprachigen Büchern über Island."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Geysir Akureyri",
+            "tip": "Stílusos izlandi ruhák és kiegészítők."
+          },
+          {
+            "name": "Penninn Eymundsson",
+            "tip": "Egy nagy könyvesbolt, jó választékkal angol nyelvű könyvekből Izlandról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Geysir Akureyri",
+            "tip": "Îmbrăcăminte și accesorii islandeze elegante."
+          },
+          {
+            "name": "Penninn Eymundsson",
+            "tip": "O librărie mare cu o selecție bună de cărți în limba engleză despre Islanda."
+          }
+        ],
+        "en": [
+          {
+            "name": "Geysir Akureyri",
+            "tip": "Stylish Icelandic clothing and accessories."
+          },
+          {
+            "name": "Penninn Eymundsson",
+            "tip": "A large bookstore with a good selection of English-language books about Iceland."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Busse in Akureyri sind kostenlos! Steigen Sie einfach ein.",
+          "Laden Sie die Strætó-App herunter, um Fahrpläne und Routen in Echtzeit zu sehen.",
+          "Beachten Sie, dass die Busse am Wochenende seltener fahren.",
+          "Ein Winken zum Busfahrer signalisiert, dass Sie an der nächsten Haltestelle aussteigen möchten."
+        ],
+        "hu": [
+          "Az akureyri buszok ingyenesek! Csak szállj fel.",
+          "Töltsd le a Strætó alkalmazást a valós idejű menetrendekért és útvonalakért.",
+          "Vedd figyelembe, hogy a buszok hétvégén ritkábban közlekednek.",
+          "Egy intés a buszsofőrnek jelzi, hogy le szeretnél szállni a következő megállónál."
+        ],
+        "ro": [
+          "Autobuzele din Akureyri sunt gratuite! Doar urcați-vă.",
+          "Descărcați aplicația Strætó pentru a vedea orarele și rutele în timp real.",
+          "Rețineți că autobuzele circulă mai rar în weekend.",
+          "Un semn cu mâna către șoferul de autobuz semnalează că doriți să coborâți la următoarea stație."
+        ],
+        "en": [
+          "The buses in Akureyri are free! Just hop on.",
+          "Download the Strætó app to see real-time schedules and routes.",
+          "Note that buses run less frequently on weekends.",
+          "A wave to the bus driver signals that you want to get off at the next stop."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1240 @@
+{
+  "city_id": "sarvar",
+  "anchor": {
+    "name": "Kotenburg",
+    "coords": [
+      16.9333,
+      47.25
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kossuth-Platz",
+            "hu": "Kossuth tér",
+            "ro": "Piața Kossuth",
+            "en": "Kossuth Square"
+          },
+          "coords": [
+            16.934,
+            47.25
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee in einem der Cafés am Platz.",
+            "hu": "Indítsa a napot egy kávéval a tér egyik kávézójában!",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
+            "en": "Start your day with a coffee at one of the square's cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Ladislaus Kirche",
+            "hu": "Szent László templom",
+            "ro": "Biserica Sfântul Ladislau",
+            "en": "St. Ladislaus Church"
+          },
+          "coords": [
+            16.933,
+            47.251
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden barocken Fresken im Inneren.",
+            "hu": "Figyelje meg a lenyűgöző barokk freskókat a templom belsejében!",
+            "ro": "Observați frescele baroce impresionante din interior.",
+            "en": "Pay attention to the impressive baroque frescoes inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Nádasdy-Burg",
+            "hu": "Nádasdy-vár",
+            "ro": "Castelul Nádasdy",
+            "en": "Nádasdy Castle"
+          },
+          "coords": [
+            16.935,
+            47.252
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht den Prunksaal mit seinen detaillierten Wandgemälden.",
+            "hu": "Ne hagyja ki a dísztermet a részletgazdag falfestményeivel!",
+            "ro": "Nu ratați Sala Cavalerilor cu picturile sale murale detaliate.",
+            "en": "Don't miss the Knight's Hall with its detailed murals."
+          }
+        },
+        {
+          "name": {
+            "de": "Arboretum Sárvár",
+            "hu": "Sárvári Arborétum",
+            "ro": "Arboretul din Sárvár",
+            "en": "Arboretum Sárvár"
+          },
+          "coords": [
+            16.938,
+            47.251
+          ],
+          "category": "natural features",
+          "arrive_at": "12:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein idealer Ort für ein ruhiges Mittagspicknick unter alten Bäumen.",
+            "hu": "Ideális hely egy csendes ebéd-piknikhez az öreg fák alatt.",
+            "ro": "Un loc ideal pentru un picnic liniștit la prânz sub copacii seculari.",
+            "en": "An ideal spot for a quiet lunch picnic under ancient trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Bootsteich",
+            "hu": "Csónakázó-tó",
+            "ro": "Lacul de agrement",
+            "en": "Boating Lake"
+          },
+          "coords": [
+            16.942,
+            47.258
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:48",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Mieten Sie ein Tretboot für eine entspannte Runde auf dem Wasser.",
+            "hu": "Béreljen vízibiciklit egy pihentető körre a vízen!",
+            "ro": "Închiriați o hidrobicicletă pentru o plimbare relaxantă pe apă.",
+            "en": "Rent a pedal boat for a relaxing tour on the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Heil- und Wellnessbad Sárvár",
+            "hu": "Sárvári Gyógy- és Wellnessfürdő",
+            "ro": "Centrul Spa și Wellness Sárvár",
+            "en": "Sárvár Spa and Wellness Centre"
+          },
+          "coords": [
+            16.945,
+            47.255
+          ],
+          "category": "natural features",
+          "arrive_at": "15:00",
+          "stay_min": 180,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie das berühmte Heilwasser in den Außenbecken.",
+            "hu": "Próbálja ki a híres gyógyvizet a külső medencékben!",
+            "ro": "Încercați renumita apă termală în bazinele exterioare.",
+            "en": "Try the famous thermal water in the outdoor pools."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen im Stadtzentrum",
+            "hu": "Vacsora a városközpontban",
+            "ro": "Cină în centrul orașului",
+            "en": "Dinner in the city center"
+          },
+          "coords": [
+            16.934,
+            47.25
+          ],
+          "category": "gastro",
+          "arrive_at": "18:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag in einem traditionellen ungarischen Restaurant.",
+            "hu": "Zárja a napot egy hagyományos magyar étteremben!",
+            "ro": "Încheiați ziua la un restaurant tradițional maghiar.",
+            "en": "End the day at a traditional Hungarian restaurant."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang beginnt auf dem belebten Kossuth-Platz und führt Sie durch das historische Herz von Sárvár. Am Vormittag erkunden Sie die heiligen Hallen der St. Ladislaus Kirche und die majestätische Nádasdy-Burg. Der Nachmittag ist der Entspannung gewidmet, mit einem Spaziergang durch das grüne Arboretum zum ruhigen Bootsteich. Der Höhepunkt des Tages ist das Eintauchen in die heilenden Wasser des berühmten Wellnessbades, gefolgt von einem köstlichen ungarischen Abendessen.",
+        "hu": "Sétája a nyüzsgő Kossuth téren kezdődik, és Sárvár történelmi szívén vezet keresztül. Délelőtt a Szent László templom szent csarnokait és a fenséges Nádasdy-várat fedezi fel. A délután a pihenésé, egy sétával a zöldellő Arborétumon át a csendes Csónakázó-tóig. A nap fénypontja a híres gyógyfürdő gyógyító vizében való elmerülés, melyet egy ízletes magyar vacsora követ.",
+        "ro": "Plimbarea dumneavoastră începe în vibranta Piață Kossuth, purtându-vă prin inima istorică a orașului Sárvár. Dimineața explorați sălile sacre ale Bisericii Sf. Ladislau și maiestuosul Castel Nádasdy. După-amiaza este dedicată relaxării, cu o plimbare prin verdele Arboretum până la liniștitul Lac de agrement. Punctul culminant al zilei este scufundarea în apele vindecătoare ale renumitului centru spa, urmată de o cină maghiară delicioasă.",
+        "en": "Your walk begins in the bustling Kossuth Square, leading you through the historical heart of Sárvár. In the morning, you'll explore the sacred halls of St. Ladislaus Church and the majestic Nádasdy Castle. The afternoon is dedicated to relaxation, with a stroll through the green Arboretum to the serene Boating Lake. The day culminates in soaking in the healing waters of the famous spa, followed by a delicious Hungarian dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Nádasdy Étterem",
+            "tip": "Probieren Sie das Vasi pecsenye, eine lokale Spezialität."
+          },
+          {
+            "name": "Gulyás Csárda",
+            "tip": "Authentische Gulaschsuppe in rustikalem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nádasdy Étterem",
+            "tip": "Kóstolja meg a vasi pecsenyét, egy helyi specialitást!"
+          },
+          {
+            "name": "Gulyás Csárda",
+            "tip": "Autentikus gulyásleves rusztikus környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Nádasdy",
+            "tip": "Încercați Vasi pecsenye, o specialitate locală."
+          },
+          {
+            "name": "Gulyás Csárda",
+            "tip": "Supă de gulaș autentică într-un cadru rustic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Nádasdy Restaurant",
+            "tip": "Try the 'Vasi pecsenye', a local specialty."
+          },
+          {
+            "name": "Gulyás Csárda",
+            "tip": "Authentic goulash soup in a rustic setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Arboretum Sárvár",
+            "tip": "Finden Sie eine ruhige Bank und lauschen Sie den Vögeln.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Bootsteichs",
+            "tip": "Ein friedlicher Ort, um die Enten zu beobachten.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sárvári Arborétum",
+            "tip": "Keressen egy csendes padot, és hallgassa a madarakat.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Csónakázó-tó partja",
+            "tip": "Békés hely a kacsák megfigyelésére.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arboretul din Sárvár",
+            "tip": "Găsiți o bancă liniștită și ascultați păsările.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malul lacului de agrement",
+            "tip": "Un loc pașnic pentru a privi rațele.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Arboretum Sárvár",
+            "tip": "Find a quiet bench and listen to the birds.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Shore of the Boating Lake",
+            "tip": "A peaceful spot to watch the ducks.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Schlossmuseum-Shop",
+            "tip": "Kaufen Sie Bücher über die Geschichte der Nádasdy-Familie."
+          },
+          {
+            "name": "Lokaler Markt",
+            "tip": "Handgemachte Produkte und lokaler Honig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vármúzeum boltja",
+            "tip": "Vásároljon könyveket a Nádasdy-család történetéről."
+          },
+          {
+            "name": "Helyi piac",
+            "tip": "Kézműves termékek és helyi méz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul muzeului castelului",
+            "tip": "Cumpărați cărți despre istoria familiei Nádasdy."
+          },
+          {
+            "name": "Piața locală",
+            "tip": "Produse artizanale și miere locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Museum Shop",
+            "tip": "Buy books about the history of the Nádasdy family."
+          },
+          {
+            "name": "Local Market",
+            "tip": "Handmade products and local honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie Badekleidung und ein Handtuch für das Spa mit.",
+          "Prüfen Sie die Öffnungszeiten des Schlosses im Voraus.",
+          "Die meisten Sehenswürdigkeiten sind zu Fuß erreichbar, aber das Tempo ist entspannt."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "Hozzon magával fürdőruhát és törölközőt a fürdőbe.",
+          "Előre ellenőrizze a vár nyitvatartási idejét.",
+          "A legtöbb látnivaló gyalogosan elérhető, de a tempó kényelmes."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Luați cu dumneavoastră un costum de baie și un prosop pentru spa.",
+          "Verificați în avans programul de funcționare al castelului.",
+          "Majoritatea atracțiilor sunt accesibile pe jos, dar ritmul este relaxat."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking a lot.",
+          "Bring swimwear and a towel for the spa.",
+          "Check the castle's opening hours in advance.",
+          "Most sights are within walking distance, but the pace is relaxed."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:18",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradverleih & Start am Bootsteich",
+            "hu": "Kerékpárkölcsönzés és indulás a Csónakázó-tónál",
+            "ro": "Închiriere biciclete și start la Lacul de agrement",
+            "en": "Bike Rental & Start at the Boating Lake"
+          },
+          "coords": [
+            16.942,
+            47.258
+          ],
+          "category": "activity",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Mieten Sie ein Fahrrad für den Tag, um die Stadt und die Umgebung zu erkunden.",
+            "hu": "Béreljen kerékpárt egy napra a város és környékének felfedezéséhez.",
+            "ro": "Închiriați o bicicletă pentru o zi pentru a explora orașul și împrejurimile.",
+            "en": "Rent a bike for the day to explore the city and its surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Vadkert (Wildpark)",
+            "hu": "Vadkert",
+            "ro": "Parcul de vânătoare",
+            "en": "Wildpark"
+          },
+          "coords": [
+            16.91,
+            47.265
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine angenehme Radtour führt zu diesem Park, wo Sie heimische Wildtiere sehen können.",
+            "hu": "Kellemes kerékpártúra vezet ehhez a parkhoz, ahol helyi vadállatokat láthat.",
+            "ro": "O plimbare plăcută cu bicicleta duce la acest parc unde puteți vedea animale sălbatice locale.",
+            "en": "A pleasant bike ride leads to this park where you can see local wildlife."
+          }
+        },
+        {
+          "name": {
+            "de": "Heil- und Wellnessbad Sárvár",
+            "hu": "Sárvári Gyógy- és Wellnessfürdő",
+            "ro": "Centrul Spa și Wellness Sárvár",
+            "en": "Sárvár Spa and Wellness Centre"
+          },
+          "coords": [
+            16.945,
+            47.255
+          ],
+          "category": "natural features",
+          "arrive_at": "11:24",
+          "stay_min": 120,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und genießen Sie eine erfrischende Pause in den Thermalbecken.",
+            "hu": "Parkolja le a kerékpárt, és élvezze a frissítő szünetet a termálmedencékben.",
+            "ro": "Parcați bicicleta și bucurați-vă de o pauză revigorantă în piscinele termale.",
+            "en": "Park your bike and enjoy a refreshing break in the thermal pools."
+          }
+        },
+        {
+          "name": {
+            "de": "Arboretum Sárvár",
+            "hu": "Sárvári Arborétum",
+            "ro": "Arboretul din Sárvár",
+            "en": "Arboretum Sárvár"
+          },
+          "coords": [
+            16.938,
+            47.251
+          ],
+          "category": "natural features",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radeln Sie durch die schattigen Wege dieses wunderschönen Gartens.",
+            "hu": "Kerékpározzon végig ennek a gyönyörű kertnek az árnyas útjain.",
+            "ro": "Plimbați-vă cu bicicleta pe aleile umbrite ale acestei grădini frumoase.",
+            "en": "Cycle through the shady paths of this beautiful garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Nádasdy-Burg",
+            "hu": "Nádasdy-vár",
+            "ro": "Castelul Nádasdy",
+            "en": "Nádasdy Castle"
+          },
+          "coords": [
+            16.935,
+            47.252
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:33",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und erkunden Sie die reiche Geschichte des Schlosses.",
+            "hu": "Zárja le a kerékpárt, és fedezze fel a vár gazdag történelmét.",
+            "ro": "Legați-vă bicicleta și explorați istoria bogată a castelului.",
+            "en": "Lock up your bike and explore the rich history of the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Kossuth-Platz & St. Ladislaus Kirche",
+            "hu": "Kossuth tér és Szent László templom",
+            "ro": "Piața Kossuth și Biserica Sf. Ladislau",
+            "en": "Kossuth Square & St. Ladislaus Church"
+          },
+          "coords": [
+            16.933,
+            47.25
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Machen Sie eine Kaffeepause, bevor Sie die Kirche besichtigen.",
+            "hu": "Tartson egy kávészünetet, mielőtt meglátogatja a templomot.",
+            "ro": "Luați o pauză de cafea înainte de a vizita biserica.",
+            "en": "Take a coffee break before visiting the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückgabe der Fahrräder & Abendessen",
+            "hu": "Kerékpárok leadása és vacsora",
+            "ro": "Returnarea bicicletelor și cina",
+            "en": "Bike Return & Dinner"
+          },
+          "coords": [
+            16.942,
+            47.258
+          ],
+          "category": "gastro",
+          "arrive_at": "17:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Geben Sie Ihr Fahrrad zurück und genießen Sie ein wohlverdientes Abendessen in der Nähe.",
+            "hu": "Adja le a kerékpárt, és élvezze a jól megérdemelt vacsorát a közelben.",
+            "ro": "Returnați bicicleta și bucurați-vă de o cină binemeritată în apropiere.",
+            "en": "Return your bike and enjoy a well-deserved dinner nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erleben Sie Sárvár aus einer aktiven Perspektive. Der Tag beginnt mit einer Tour zum Vadkert, um die Natur zu genießen. Anschließend radeln Sie zum berühmten Heilbad für eine erfrischende Pause. Am Nachmittag erkunden Sie die kulturellen Schätze: das Arboretum, die Nádasdy-Burg und das historische Zentrum. Die Flexibilität des Fahrrads ermöglicht es Ihnen, sowohl die Natur als auch die Geschichte der Stadt in einem angenehmen Tempo zu entdecken, bevor Sie den Tag bei einem guten Essen ausklingen lassen.",
+        "hu": "Kerékpárral aktív szemszögből éli át Sárvárt. A nap a Vadkertbe tett túrával kezdődik, hogy élvezze a természetet. Ezután a híres gyógyfürdőhöz teker, egy frissítő szünetre. Délután a kulturális kincseket fedezi fel: az Arborétumot, a Nádasdy-várat és a történelmi központot. A kerékpár rugalmassága lehetővé teszi, hogy kellemes tempóban fedezze fel a város természetét és történelmét egyaránt, mielőtt egy jó vacsorával zárja a napot.",
+        "ro": "Pe bicicletă, veți experimenta Sárvár dintr-o perspectivă activă. Ziua începe cu o excursie la Parcul de vânătoare pentru a vă bucura de natură. Apoi, pedalați spre renumitul centru spa pentru o pauză revigorantă. După-amiaza, explorați comorile culturale: Arboretul, Castelul Nádasdy și centrul istoric. Flexibilitatea bicicletei vă permite să descoperiți atât natura, cât și istoria orașului într-un ritm plăcut, înainte de a încheia ziua cu o masă bună.",
+        "en": "By bike, you'll experience Sárvár from an active perspective. The day begins with a tour to the Wildpark to enjoy nature. You'll then cycle to the famous spa for a refreshing break. In the afternoon, you explore the cultural treasures: the Arboretum, Nádasdy Castle, and the historic center. The flexibility of the bicycle allows you to discover both the nature and the history of the city at a pleasant pace before ending the day with a good meal."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Onyx Garden",
+            "tip": "Moderne ungarische Küche in der Nähe des Spas."
+          },
+          {
+            "name": "Tinódi Étterem",
+            "tip": "Traditionelle Gerichte mit einer großen Terrasse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Onyx Garden",
+            "tip": "Modern magyar konyha a fürdő közelében."
+          },
+          {
+            "name": "Tinódi Étterem",
+            "tip": "Hagyományos ételek nagy terasszal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Onyx Garden",
+            "tip": "Bucătărie maghiară modernă lângă spa."
+          },
+          {
+            "name": "Restaurant Tinódi",
+            "tip": "Mâncăruri tradiționale cu o terasă mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Onyx Garden",
+            "tip": "Modern Hungarian cuisine near the spa."
+          },
+          {
+            "name": "Tinódi Restaurant",
+            "tip": "Traditional dishes with a large terrace."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vadkert Waldwege",
+            "tip": "Ruhige Wege, ideal für eine Pause vom Radfahren.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Garten des Schlosses",
+            "tip": "Ein versteckter, friedlicher Ort hinter den Mauern.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vadkert erdei útjai",
+            "tip": "Csendes ösvények, ideálisak egy kis pihenőre a biciklizésből.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "A vár kertje",
+            "tip": "Rejtett, békés hely a falak mögött.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cărările pădurii din Parcul de vânătoare",
+            "tip": "Poteci liniștite, ideale pentru o pauză de la ciclism.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Grădina castelului",
+            "tip": "Un loc ascuns și pașnic în spatele zidurilor.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Wildpark Forest Trails",
+            "tip": "Quiet paths, ideal for a break from cycling.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Castle Garden",
+            "tip": "A hidden, peaceful spot behind the walls.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Spa Shop",
+            "tip": "Kaufen Sie Produkte, die mit dem lokalen Thermalwasser hergestellt wurden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fürdő boltja",
+            "tip": "Vásároljon a helyi termálvízzel készült termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Spa",
+            "tip": "Cumpărați produse realizate cu apa termală locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Spa Shop",
+            "tip": "Purchase products made with the local thermal water."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Fahrradwege auf einer Karte, bevor Sie losfahren.",
+          "Nehmen Sie eine Flasche Wasser mit, besonders an warmen Tagen.",
+          "Schließen Sie Ihr Fahrrad immer sicher ab, wenn Sie es abstellen.",
+          "Sárvár ist relativ flach und daher ideal zum Radfahren."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárutakat a térképen.",
+          "Vigyen magával egy üveg vizet, különösen meleg napokon.",
+          "Mindig zárja le biztonságosan a kerékpárt, amikor leparkolja.",
+          "Sárvár viszonylag sík, ezért ideális a kerékpározáshoz."
+        ],
+        "ro": [
+          "Verificați pistele de biciclete pe o hartă înainte de a porni.",
+          "Luați o sticlă de apă, mai ales în zilele calde.",
+          "Încuiați întotdeauna bicicleta în siguranță când o parcați.",
+          "Sárvár este relativ plat, fiind ideal pentru ciclism."
+        ],
+        "en": [
+          "Check the bike paths on a map before you start.",
+          "Bring a bottle of water, especially on warm days.",
+          "Always lock your bike securely when you park it.",
+          "Sárvár is relatively flat, making it ideal for cycling."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 10.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft und Parken am Vadkert",
+            "hu": "Érkezés és parkolás a Vadkertnél",
+            "ro": "Sosire și parcare la Parcul de vânătoare",
+            "en": "Arrival and Parking at the Wildpark"
+          },
+          "coords": [
+            16.91,
+            47.265
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag in der Natur. Der Parkplatz ist meist geräumig.",
+            "hu": "Kezdje a napot a természetben. A parkoló általában tágas.",
+            "ro": "Începeți ziua în natură. Parcarea este de obicei spațioasă.",
+            "en": "Start your day in nature. The parking lot is usually spacious."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Zentrum, Parken am Schloss",
+            "hu": "Utazás a központba, parkolás a várnál",
+            "ro": "Deplasare spre centru, parcare la castel",
+            "en": "Drive to the Center, Park at the Castle"
+          },
+          "coords": [
+            16.936,
+            47.253
+          ],
+          "category": "activity",
+          "arrive_at": "10:35",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Rest des Vormittags. Es ist ein zentraler Ausgangspunkt.",
+            "hu": "Parkoljon itt a délelőtt hátralévő részére. Ez egy központi kiindulópont.",
+            "ro": "Parcați aici pentru restul dimineții. Este un punct de plecare central.",
+            "en": "Park here for the rest of the morning. It's a central starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Nádasdy-Burg",
+            "hu": "Nádasdy-vár",
+            "ro": "Castelul Nádasdy",
+            "en": "Nádasdy Castle"
+          },
+          "coords": [
+            16.935,
+            47.252
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie das Museum und steigen Sie auf den Turm für eine tolle Aussicht.",
+            "hu": "Fedezze fel a múzeumot, és másszon fel a toronyba a nagyszerű kilátásért.",
+            "ro": "Explorați muzeul și urcați în turn pentru o priveliște minunată.",
+            "en": "Explore the museum and climb the tower for a great view."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zum Kossuth-Platz & St. Ladislaus Kirche",
+            "hu": "Séta a Kossuth térre és a Szent László templomhoz",
+            "ro": "Plimbare spre Piața Kossuth și Biserica Sf. Ladislau",
+            "en": "Walk to Kossuth Square & St. Ladislaus Church"
+          },
+          "coords": [
+            16.933,
+            47.25
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:22",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Atmosphäre des Stadtzentrums und essen Sie zu Mittag.",
+            "hu": "Élvezze a városközpont hangulatát és ebédeljen meg.",
+            "ro": "Bucurați-vă de atmosfera centrului orașului și luați prânzul.",
+            "en": "Enjoy the city center atmosphere and have lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Spa & Parken",
+            "hu": "Utazás a fürdőhöz és parkolás",
+            "ro": "Deplasare la Spa și parcare",
+            "en": "Drive to the Spa & Parking"
+          },
+          "coords": [
+            16.945,
+            47.255
+          ],
+          "category": "natural features",
+          "arrive_at": "13:38",
+          "stay_min": 180,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.6,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Der Parkplatz am Spa ist groß, aber an Wochenenden kann es voll werden.",
+            "hu": "A fürdő parkolója nagy, de hétvégén zsúfolt lehet.",
+            "ro": "Parcarea de la spa este mare, dar poate fi aglomerată în weekend.",
+            "en": "The spa's parking lot is large, but it can get crowded on weekends."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zum Bootsteich & Arboretum",
+            "hu": "Séta a Csónakázó-tóhoz és az Arborétumhoz",
+            "ro": "Plimbare la Lacul de agrement și Arboretum",
+            "en": "Walk to the Boating Lake & Arboretum"
+          },
+          "coords": [
+            16.94,
+            47.254
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannter Spaziergang nach dem Spa, um den Tag ausklingen zu lassen.",
+            "hu": "Pihentető séta a fürdőzés után a nap lezárásaként.",
+            "ro": "O plimbare relaxantă după spa pentru a încheia ziua.",
+            "en": "A relaxing walk after the spa to wind down the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie die Attraktionen von Sárvár bequem in Clustern erkunden. Beginnen Sie im ruhigen Vadkert, bevor Sie ins Zentrum fahren. Dort parken Sie und erkunden zu Fuß die Nádasdy-Burg und die historischen Plätze. Am Nachmittag fahren Sie zum Wellness-Cluster. Nach einem ausgiebigen Bad im Heilwasser können Sie den angrenzenden Bootsteich und das Arboretum zu Fuß erkunden. Dieser Plan kombiniert Fahrkomfort mit entspannten Spaziergängen.",
+        "hu": "Autóval kényelmesen, klaszterekben fedezheti fel Sárvár látnivalóit. Kezdjen a csendes Vadkertben, mielőtt a központba hajt. Ott parkoljon le, és gyalogosan fedezze fel a Nádasdy-várat és a történelmi tereket. Délután hajtson át a wellness-klaszterbe. Egy kiadós fürdőzés után a gyógyvízben gyalogosan fedezheti fel a szomszédos Csónakázó-tavat és Arborétumot. Ez a terv ötvözi a vezetés kényelmét a pihentető sétákkal.",
+        "ro": "Cu mașina, puteți explora convenabil atracțiile din Sárvár în grupuri. Începeți la liniștitul Parc de vânătoare înainte de a conduce spre centru. Parcați acolo și explorați pe jos Castelul Nádasdy și piețele istorice. După-amiaza, conduceți la grupul de wellness. După o baie lungă în apa termală, puteți explora pe jos Lacul de agrement și Arboretul adiacente. Acest plan combină confortul condusului cu plimbări relaxante.",
+        "en": "By car, you can conveniently explore Sárvár's attractions in clusters. Start at the tranquil Wildpark before driving to the center. Park there and explore Nádasdy Castle and the historic squares on foot. In the afternoon, drive to the wellness cluster. After a long soak in the thermal water, you can explore the adjacent Boating Lake and Arboretum on foot. This plan combines driving comfort with relaxed walks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Várkapu Étterem",
+            "tip": "Liegt direkt am Schlosseingang, praktisch für ein Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Várkapu Étterem",
+            "tip": "Közvetlenül a vár bejáratánál található, praktikus egy ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Várkapu",
+            "tip": "Situat chiar la intrarea în castel, convenabil pentru prânz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Várkapu Restaurant",
+            "tip": "Located right at the castle entrance, convenient for lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vadkert",
+            "tip": "Der Morgen im Park ist besonders friedlich.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hinterer Teil des Arboretums",
+            "tip": "Weniger Besucher und mehr Natur.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vadkert",
+            "tip": "A reggel a parkban különösen békés.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Az Arborétum hátsó része",
+            "tip": "Kevesebb látogató és több természet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul de vânătoare",
+            "tip": "Dimineața în parc este deosebit de liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Partea din spate a Arboretului",
+            "tip": "Mai puțini vizitatori și mai multă natură.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Wildpark",
+            "tip": "The morning in the park is especially peaceful.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Back area of the Arboretum",
+            "tip": "Fewer visitors and more nature.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Batthyány Straße",
+            "tip": "Kleine Boutiquen und Souvenirläden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Batthyány utca üzletei",
+            "tip": "Kis butikok és ajándékboltok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele de pe strada Batthyány",
+            "tip": "Buticuri mici și magazine de suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops on Batthyány Street",
+            "tip": "Small boutiques and souvenir shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Cluster-Parkstrategie, um Parkgebühren zu sparen.",
+          "Planen Sie zusätzliche Zeit für den Verkehr an Wochenenden ein.",
+          "Ein Auto gibt Ihnen die Flexibilität, auch weiter entfernte Ziele wie den Vadkert leicht zu erreichen.",
+          "Achten Sie auf Parkzonen und -beschränkungen im Stadtzentrum."
+        ],
+        "hu": [
+          "Használja a klaszterparkolási stratégiát a parkolási díjak megtakarításához.",
+          "Hétvégén tervezzen plusz időt a forgalom miatt.",
+          "Az autó rugalmasságot ad a távolabbi célok, mint a Vadkert könnyű eléréséhez.",
+          "Figyeljen a parkolási zónákra és korlátozásokra a városközpontban."
+        ],
+        "ro": [
+          "Folosiți strategia de parcare în grupuri pentru a economisi la taxele de parcare.",
+          "Planificați timp suplimentar pentru trafic în weekend.",
+          "O mașină vă oferă flexibilitatea de a ajunge cu ușurință la destinații mai îndepărtate, cum ar fi Parcul de vânătoare.",
+          "Fiți atenți la zonele și restricțiile de parcare din centrul orașului."
+        ],
+        "en": [
+          "Use the cluster parking strategy to save on parking fees.",
+          "Plan for extra time for traffic on weekends.",
+          "A car gives you the flexibility to easily reach more distant destinations like the Wildpark.",
+          "Pay attention to parking zones and restrictions in the city center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof & Spaziergang zum Kossuth-Platz",
+            "hu": "Érkezés a buszpályaudvarra és séta a Kossuth térre",
+            "ro": "Sosire la autogară și plimbare spre Piața Kossuth",
+            "en": "Arrival at the Bus Station & Walk to Kossuth Square"
+          },
+          "coords": [
+            16.934,
+            47.25
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verschaffen Sie sich einen ersten Eindruck von der Stadt.",
+            "hu": "Szerezzen első benyomást a városról.",
+            "ro": "Obțineți o primă impresie despre oraș.",
+            "en": "Get a first impression of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Nádasdy-Burg",
+            "hu": "Nádasdy-vár",
+            "ro": "Castelul Nádasdy",
+            "en": "Nádasdy Castle"
+          },
+          "coords": [
+            16.935,
+            47.252
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Schloss ist nur einen kurzen Spaziergang vom Hauptplatz entfernt.",
+            "hu": "A vár csak egy rövid sétára van a főtértől.",
+            "ro": "Castelul este la o scurtă plimbare de piața principală.",
+            "en": "The castle is just a short walk from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Spaziergang zum Arboretum",
+            "hu": "Ebéd és séta az Arborétumhoz",
+            "ro": "Prânz și plimbare la Arboretum",
+            "en": "Lunch and walk to the Arboretum"
+          },
+          "coords": [
+            16.938,
+            47.251
+          ],
+          "category": "natural features",
+          "arrive_at": "11:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie ein Mittagessen, bevor Sie sich in den Gärten entspannen.",
+            "hu": "Ebédeljen egyet, mielőtt pihen a kertekben.",
+            "ro": "Luați prânzul înainte de a vă relaxa în grădini.",
+            "en": "Enjoy lunch before relaxing in the gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Heil- und Wellnessbad",
+            "hu": "Buszozás a Gyógy- és Wellnessfürdőhöz",
+            "ro": "Călătorie cu autobuzul la Centrul Spa și Wellness",
+            "en": "Bus ride to the Spa and Wellness Centre"
+          },
+          "coords": [
+            16.945,
+            47.255
+          ],
+          "category": "natural features",
+          "arrive_at": "13:10",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die lokalen Busse verbinden das Zentrum effizient mit dem Spa-Bereich.",
+            "hu": "A helyi buszok hatékonyan kötik össze a központot a fürdővel.",
+            "ro": "Autobuzele locale conectează eficient centrul cu zona spa.",
+            "en": "Local buses efficiently connect the center with the spa area."
+          }
+        },
+        {
+          "name": {
+            "de": "Bootsteich",
+            "hu": "Csónakázó-tó",
+            "ro": "Lacul de agrement",
+            "en": "Boating Lake"
+          },
+          "coords": [
+            16.942,
+            47.258
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Spa entfernt, perfekt für einen ruhigen Moment.",
+            "hu": "Rövid séta a fürdőtől, tökéletes egy csendes pillanathoz.",
+            "ro": "La o scurtă plimbare de spa, perfect pentru un moment de liniște.",
+            "en": "A short walk from the spa, perfect for a quiet moment."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt ins Zentrum und Abendessen",
+            "hu": "Visszautazás a központba és vacsora",
+            "ro": "Întoarcere în centru și cină",
+            "en": "Return to the center and dinner"
+          },
+          "coords": [
+            16.934,
+            47.25
+          ],
+          "category": "gastro",
+          "arrive_at": "17:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück, um den Tag bei einem Abendessen ausklingen zu lassen.",
+            "hu": "Menjen vissza busszal, hogy egy vacsorával zárja a napot.",
+            "ro": "Luați autobuzul înapoi pentru a încheia ziua cu o cină.",
+            "en": "Take the bus back to end the day with dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Tour nutzt öffentliche Verkehrsmittel, um die Distanz zwischen dem historischen Zentrum und dem Wellness-Viertel zu überbrücken. Sie beginnen mit einem Rundgang durch das Zentrum, bei dem Sie das Schloss und die Gärten erkunden. Ein lokaler Bus bringt Sie dann bequem zum Heilbad für einen entspannten Nachmittag. Die Kombination aus Spaziergängen und Busfahrten bietet eine stressfreie Möglichkeit, die Highlights von Sárvár zu erleben, ohne sich um das Parken kümmern zu müssen.",
+        "hu": "Ez a túra a tömegközlekedést használja a történelmi központ és a wellness-negyed közötti távolság áthidalására. A központban tett gyalogtúrával kezd, felfedezve a várat és a kerteket. Egy helyi busz ezután kényelmesen elviszi a gyógyfürdőbe egy pihentető délutánra. A séták és buszozások kombinációja stresszmentes módot kínál Sárvár fénypontjainak megismerésére anélkül, hogy a parkolással kellene törődnie.",
+        "ro": "Acest tur folosește transportul public pentru a acoperi distanța dintre centrul istoric și cartierul de wellness. Începeți cu un tur pietonal al centrului, explorând castelul și grădinile. Un autobuz local vă duce apoi convenabil la centrul spa pentru o după-amiază relaxantă. Combinația de plimbări și călătorii cu autobuzul oferă o modalitate fără stres de a experimenta atracțiile principale din Sárvár, fără grija parcării.",
+        "en": "This tour uses public transport to bridge the distance between the historic center and the wellness district. You start with a walking tour of the center, exploring the castle and gardens. a local bus then conveniently takes you to the spa for a relaxing afternoon. The combination of walks and bus rides offers a stress-free way to experience Sárvár's highlights without worrying about parking."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Korona Étterem",
+            "tip": "Gute Hausmannskost in der Nähe des Busbahnhofs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Korona Étterem",
+            "tip": "Jó házias ételek a buszpályaudvar közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Korona",
+            "tip": "Mâncare bună, ca acasă, lângă autogară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Korona Restaurant",
+            "tip": "Good home-style cooking near the bus station."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "St. Ladislaus Kirche",
+            "tip": "Finden Sie im Inneren einen Moment der Stille.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent László templom",
+            "tip": "Találjon egy csendes pillanatot a belsejében.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica Sfântul Ladislau",
+            "tip": "Găsiți un moment de liniște în interior.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Ladislaus Church",
+            "tip": "Find a moment of silence inside.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Tourinform Büro",
+            "tip": "Karten, Souvenirs und Informationen aus einer Hand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tourinform Iroda",
+            "tip": "Térképek, ajándéktárgyak és információk egy helyen."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biroul Tourinform",
+            "tip": "Hărți, suveniruri și informații într-un singur loc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tourinform Office",
+            "tip": "Maps, souvenirs, and information in one place."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere an Wochenenden.",
+          "Die Bushaltestellen sind deutlich gekennzeichnet.",
+          "Behalten Sie etwas Kleingeld für Bustickets bereit."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha több utazást tervez.",
+          "Előre ellenőrizze a buszmenetrendet, különösen hétvégén.",
+          "A buszmegállók jól láthatóan vannak jelölve.",
+          "Tartson magánál aprópénzt a buszjegyekhez."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă plănuiți mai multe călătorii.",
+          "Verificați programul autobuzelor în avans, mai ales în weekend.",
+          "Stațiile de autobuz sunt clar marcate.",
+          "Păstrați niște mărunțiș pentru biletele de autobuz."
+        ],
+        "en": [
+          "Buy a day pass for the bus if you plan multiple trips.",
+          "Check the bus schedule in advance, especially on weekends.",
+          "The bus stops are clearly marked.",
+          "Keep some small change ready for bus tickets."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1239 @@
+{
+  "city_id": "luxembourg-petange-cities-v2",
+  "anchor": {
+    "name": "Petingen",
+    "coords": [
+      5.8758,
+      49.5558
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Monument aux Morts",
+            "hu": "Hősi Emlékmű",
+            "ro": "Monumentul Eroilor",
+            "en": "Monument to the Fallen"
+          },
+          "coords": [
+            5.876,
+            49.556
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein guter Ausgangspunkt im Zentrum, um den Tag zu beginnen.",
+            "hu": "Jó kiindulópont a központban a nap indításához.",
+            "ro": "Un punct de plecare bun în centru pentru a începe ziua.",
+            "en": "A good starting point in the center to begin your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Hubertus",
+            "hu": "Szent Hubertus-templom",
+            "ro": "Biserica Sfântul Hubert",
+            "en": "Saint Hubert Church"
+          },
+          "coords": [
+            5.8772,
+            49.5555
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beachten Sie die modernen Buntglasfenster.",
+            "hu": "Figyelje meg a modern ólomüveg ablakokat.",
+            "ro": "Observați vitraliile moderne.",
+            "en": "Take note of the modern stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum A Guddest",
+            "hu": "A Guddest Kulturális Központ",
+            "ro": "Centrul Cultural A Guddest",
+            "en": "A Guddest Cultural Center"
+          },
+          "coords": [
+            5.878,
+            49.557
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Prüfen Sie, ob lokale Ausstellungen oder Veranstaltungen stattfinden.",
+            "hu": "Nézze meg, vannak-e helyi kiállítások vagy események.",
+            "ro": "Verificați dacă au loc expoziții sau evenimente locale.",
+            "en": "Check if there are any local exhibitions or events happening."
+          }
+        },
+        {
+          "name": {
+            "de": "Park de la Chiers",
+            "hu": "Chiers Park",
+            "ro": "Parcul Chiers",
+            "en": "Parc de la Chiers"
+          },
+          "coords": [
+            5.871,
+            49.554
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Perfekt für einen entspannten Mittagsspaziergang am Fluss.",
+            "hu": "Tökéletes egy pihentető déli sétához a folyó mentén.",
+            "ro": "Perfect pentru o plimbare relaxantă la prânz pe malul râului.",
+            "en": "Perfect for a relaxing midday stroll along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Titelberg",
+            "hu": "Titelberg",
+            "ro": "Titelberg",
+            "en": "Titelberg"
+          },
+          "coords": [
+            5.862,
+            49.54
+          ],
+          "category": "historical",
+          "arrive_at": "13:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 3,
+          "tip_5lang": {
+            "de": "Tragen Sie festes Schuhwerk für die Erkundung der keltischen Oppidum-Ruinen.",
+            "hu": "Viseljen erős cipőt a kelta oppidum romjainak felfedezéséhez.",
+            "ro": "Purtați încălțăminte rezistentă pentru a explora ruinele oppidumului celtic.",
+            "en": "Wear sturdy shoes to explore the Celtic oppidum ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Fond-de-Gras",
+            "hu": "Fond-de-Gras",
+            "ro": "Fond-de-Gras",
+            "en": "Fond-de-Gras"
+          },
+          "coords": [
+            5.845,
+            49.539
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Muss für Geschichts- und Eisenbahnfans.",
+            "hu": "A történelem és a vasút rajongóinak kötelező.",
+            "ro": "O vizită obligatorie pentru pasionații de istorie și căi ferate.",
+            "en": "A must-visit for history and railway enthusiasts."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Petingen beginnt im Herzen der Stadt mit einem Moment des Gedenkens, gefolgt von der Ruhe der St.-Hubertus-Kirche. Der Vormittag steht im Zeichen der lokalen Kultur im Zentrum A Guddest, bevor ein entspannter Spaziergang im Parc de la Chiers für Erfrischung sorgt. Am Nachmittag tauchen Sie tief in die Geschichte ein und erklimmen den Titelberg, um die Überreste einer keltischen Siedlung zu entdecken. Der Tag endet im Fond-de-Gras, einem faszinierenden Freilichtmuseum, das die industrielle Vergangenheit der Region zum Leben erweckt.",
+        "hu": "Petingeni napja a város szívében kezdődik egy megemlékezéssel, majd a Szent Hubertus-templom csendjével folytatódik. A délelőtt a helyi kultúráé az A Guddest központban, mielőtt egy pihentető séta frissítene fel a Chiers Parkban. Délután mélyen elmerül a történelemben a Titelberg megmászásával, hogy felfedezze egy kelta település maradványait. A nap a Fond-de-Gras-ban, egy lenyűgöző szabadtéri múzeumban ér véget, amely életre kelti a régió ipari múltját.",
+        "ro": "Ziua dumneavoastră în Petange începe în inima orașului cu un moment de reculegere, urmat de liniștea Bisericii Sf. Hubert. Dimineața este dedicată culturii locale la centrul A Guddest, înainte ca o plimbare relaxantă în Parcul Chiers să vă ofere o gură de aer proaspăt. După-amiaza vă scufundați adânc în istorie urcând pe Titelberg pentru a descoperi vestigiile unei așezări celtice. Ziua se încheie la Fond-de-Gras, un muzeu fascinant în aer liber care readuce la viață trecutul industrial al regiunii.",
+        "en": "Your day in Petange begins in the heart of the city with a moment of remembrance, followed by the tranquility of St. Hubert's Church. The morning is dedicated to local culture at the A Guddest center, before a relaxing walk in the Parc de la Chiers provides refreshment. In the afternoon, you'll dive deep into history by climbing Titelberg to discover the remains of a Celtic settlement. The day concludes at Fond-de-Gras, a fascinating open-air museum that brings the region's industrial past to life."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Judd mat Gaardebounen",
+            "tip": "Probieren Sie Luxemburgs Nationalgericht in einer lokalen Brasserie."
+          },
+          {
+            "name": "Kachkéis",
+            "tip": "Gekochter Käse, oft mit Senf serviert, ein einzigartiger lokaler Geschmack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Judd mat Gaardebounen",
+            "tip": "Kóstolja meg Luxemburg nemzeti ételét egy helyi sörözőben."
+          },
+          {
+            "name": "Kachkéis",
+            "tip": "Főtt sajt, gyakran mustárral tálalva, egyedi helyi íz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Judd mat Gaardebounen",
+            "tip": "Încercați mâncarea națională a Luxemburgului la o braserie locală."
+          },
+          {
+            "name": "Kachkéis",
+            "tip": "Brânză gătită, adesea servită cu muștar, un gust local unic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Judd mat Gaardebounen",
+            "tip": "Try Luxembourg's national dish at a local brasserie."
+          },
+          {
+            "name": "Kachkéis",
+            "tip": "Cooked cheese, often served with mustard, a unique local taste."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc de la Chiers",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses ist perfekt, um dem Trubel zu entkommen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussicht vom Titelberg",
+            "tip": "Genießen Sie die weite Aussicht und die historische Stille auf dem Plateau.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chiers Park",
+            "tip": "Egy csendes séta a folyó mentén tökéletes a nyüzsgés elől való menekülésre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a Titelbergről",
+            "tip": "Élvezze a fennsíkról nyíló panorámát és a történelmi csendet.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Chiers",
+            "tip": "O plimbare liniștită de-a lungul râului este perfectă pentru a scăpa de agitație.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere de pe Titelberg",
+            "tip": "Bucurați-vă de priveliștea panoramică și de liniștea istorică de pe platou.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc de la Chiers",
+            "tip": "A quiet walk along the river is perfect for escaping the hustle and bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from Titelberg",
+            "tip": "Enjoy the sweeping views and the historical silence on the plateau.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Produkten und Handwerk auf dem Wochenmarkt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen helyi termékeket és kézműves árukat a heti piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse locale și artizanat la piața săptămânală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for local produce and crafts at the weekly market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Petingen ist kompakt, aber die Wanderung zum Titelberg erfordert gutes Schuhwerk.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Planen Sie genügend Zeit für das Fond-de-Gras ein, da es viel zu entdecken gibt.",
+          "Prüfen Sie die Öffnungszeiten, besonders für die Museen im Fond-de-Gras."
+        ],
+        "hu": [
+          "Petingen kompakt, de a Titelbergre való túrához jó cipő szükséges.",
+          "A legtöbb központi látnivaló könnyen megközelíthető gyalog.",
+          "Szánjon elég időt a Fond-de-Gras-ra, mert sok a felfedeznivaló.",
+          "Ellenőrizze a nyitvatartási időket, különösen a Fond-de-Gras múzeumai esetében."
+        ],
+        "ro": [
+          "Petange este compact, dar drumeția până la Titelberg necesită încălțăminte bună.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Planificați suficient timp pentru Fond-de-Gras, deoarece există multe de explorat.",
+          "Verificați orele de funcționare, în special pentru muzeele de la Fond-de-Gras."
+        ],
+        "en": [
+          "Petange is compact, but the hike to Titelberg requires good footwear.",
+          "Most central attractions are easily reachable on foot.",
+          "Allow plenty of time for Fond-de-Gras as there is much to explore.",
+          "Check opening hours, especially for the museums at Fond-de-Gras."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche St. Hubertus",
+            "hu": "Szent Hubertus-templom",
+            "ro": "Biserica Sfântul Hubert",
+            "en": "Saint Hubert Church"
+          },
+          "coords": [
+            5.8772,
+            49.5555
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad in der Nähe sicher ab, bevor Sie die Kirche betreten.",
+            "hu": "Zárja le biztonságosan a kerékpárját a közelben, mielőtt belép a templomba.",
+            "ro": "Asigurați-vă bicicleta în apropiere înainte de a intra în biserică.",
+            "en": "Securely lock your bike nearby before entering the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Park de la Chiers",
+            "hu": "Chiers Park",
+            "ro": "Parcul Chiers",
+            "en": "Parc de la Chiers"
+          },
+          "coords": [
+            5.871,
+            49.554
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie eine gemütliche Radtour entlang der Wege des Parks.",
+            "hu": "Élvezze a kényelmes kerékpártúrát a park ösvényein.",
+            "ro": "Bucurați-vă de o plimbare relaxantă cu bicicleta pe aleile parcului.",
+            "en": "Enjoy a leisurely ride along the park's paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Titelberg",
+            "hu": "Titelberg",
+            "ro": "Titelberg",
+            "en": "Titelberg"
+          },
+          "coords": [
+            5.862,
+            49.54
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4,
+          "tip_5lang": {
+            "de": "Der Anstieg kann anspruchsvoll sein, aber die Aussicht ist es wert.",
+            "hu": "Az emelkedő kihívást jelenthet, de a kilátás megéri.",
+            "ro": "Urcușul poate fi dificil, dar priveliștea merită efortul.",
+            "en": "The climb can be challenging, but the view is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Fond-de-Gras",
+            "hu": "Fond-de-Gras",
+            "ro": "Fond-de-Gras",
+            "en": "Fond-de-Gras"
+          },
+          "coords": [
+            5.845,
+            49.539
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Hier können Sie in die industrielle Vergangenheit eintauchen.",
+            "hu": "Itt elmerülhet az ipari múltban.",
+            "ro": "Aici vă puteți cufunda în trecutul industrial.",
+            "en": "A great place to immerse yourself in the industrial past."
+          }
+        },
+        {
+          "name": {
+            "de": "Museumszug Train 1900",
+            "hu": "Train 1900 Múzeumvasút",
+            "ro": "Trenul Muzeu 1900",
+            "en": "Train 1900 Museum Train"
+          },
+          "coords": [
+            5.844,
+            49.5385
+          ],
+          "category": "museums",
+          "arrive_at": "13:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Fahrplan für eine nostalgische Fahrt mit dem Dampfzug.",
+            "hu": "Ellenőrizze a menetrendet egy nosztalgikus gőzvasúti utazáshoz.",
+            "ro": "Verificați orarul pentru o plimbare nostalgică cu trenul cu aburi.",
+            "en": "Check the schedule for a nostalgic steam train ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Minièresbunn",
+            "hu": "Minièresbunn Bányavasút",
+            "ro": "Calea Ferată Minieră Minièresbunn",
+            "en": "Minièresbunn Mining Railway"
+          },
+          "coords": [
+            5.8445,
+            49.538
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:35",
+          "stay_min": 55,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Eine Fahrt mit der alten Grubenbahn ist ein einzigartiges Erlebnis.",
+            "hu": "Utazás a régi bányavasúton egyedülálló élmény.",
+            "ro": "O plimbare cu vechea cale ferată minieră este o experiență unică.",
+            "en": "A ride on the old mining train is a unique experience."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Rad und starten Sie den Tag in Petingen mit der Erkundung des Stadtzentrums, bevor Sie eine entspannte Fahrt durch den Parc de la Chiers genießen. Der Vormittag führt Sie auf den historischen Titelberg, wo Sie nach einem sportlichen Anstieg mit einer grandiosen Aussicht belohnt werden. Am Nachmittag tauchen Sie in die industrielle Welt des Minett-Parks ein. Sie erkunden das Fond-de-Gras und erleben nostalgische Momente bei Fahrten mit dem Train 1900 und der Minièresbunn.",
+        "hu": "Pattanjon kerékpárra, és kezdje a napot Petingen központjának felfedezésével, mielőtt egy pihentető tekerést tenne a Chiers Parkban. A délelőtt a történelmi Titelbergre vezet, ahol egy sportos emelkedő után nagyszerű kilátás jutalmazza. Délután elmerülhet a Minett Park ipari világában. Felfedezheti a Fond-de-Gras-t, és nosztalgikus pillanatokat élhet át a Train 1900 és a Minièresbunn járatain.",
+        "ro": "Urcați-vă pe bicicletă și începeți ziua explorând centrul orașului Petange înainte de a vă bucura de o plimbare relaxantă prin Parcul Chiers. Dimineața vă duce pe dealul istoric Titelberg, unde, după o urcare sportivă, veți fi răsplătit cu o priveliște magnifică. După-amiaza, vă veți cufunda în lumea industrială a Parcului Minett. Veți explora Fond-de-Gras și veți trăi momente nostalgice în timpul plimbărilor cu Trenul 1900 și calea ferată minieră Minièresbunn.",
+        "en": "Hop on your bike and start the day exploring the center of Petange before enjoying a relaxing ride through the Parc de la Chiers. The morning takes you up the historic Titelberg, where you'll be rewarded with a magnificent view after a sporty climb. In the afternoon, you'll immerse yourself in the industrial world of the Minett Park. You'll explore Fond-de-Gras and experience nostalgic moments on rides with the Train 1900 and the Minièresbunn mining railway."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Picknick am Titelberg",
+            "tip": "Packen Sie ein Mittagessen ein und genießen Sie es mit fantastischer Aussicht."
+          },
+          {
+            "name": "Café im Fond-de-Gras",
+            "tip": "Eine kleine Stärkung nach der Erkundung des Industriegeländes."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piknik a Titelbergen",
+            "tip": "Csomagoljon ebédet, és fogyassza el fantasztikus kilátással."
+          },
+          {
+            "name": "Kávézó a Fond-de-Gras-ban",
+            "tip": "Egy kis frissítő az ipari terület felfedezése után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Picnic pe Titelberg",
+            "tip": "Împachetați un prânz și savurați-l cu o priveliște fantastică."
+          },
+          {
+            "name": "Cafenea la Fond-de-Gras",
+            "tip": "O mică gustare după explorarea sitului industrial."
+          }
+        ],
+        "en": [
+          {
+            "name": "Picnic on Titelberg",
+            "tip": "Pack a lunch and enjoy it with a fantastic view."
+          },
+          {
+            "name": "Café at Fond-de-Gras",
+            "tip": "A little refreshment after exploring the industrial site."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg an der Chiers",
+            "tip": "Folgen Sie dem ruhigen Flusslauf für eine entspannte Fahrt.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Archäologischer Pfad Titelberg",
+            "tip": "Abseits der Hauptwege finden Sie ruhige Ecken voller Geschichte.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Chiers mentén",
+            "tip": "Kövesse a csendes folyópartot egy pihentető utazáshoz.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Titelberg régészeti ösvény",
+            "tip": "A fő ösvényektől távol csendes, történelemmel teli zugokat talál.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul Chiers",
+            "tip": "Urmați cursul liniștit al râului pentru o plimbare relaxantă.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Potecă arheologică Titelberg",
+            "tip": "Departe de cărările principale, veți găsi colțuri liniștite pline de istorie.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike path along the Chiers",
+            "tip": "Follow the quiet river course for a relaxing ride.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Titelberg archaeological trail",
+            "tip": "Away from the main paths, you'll find quiet corners full of history.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsshop Train 1900",
+            "tip": "Finden Sie einzigartige Souvenirs rund um das Thema Eisenbahn und Industrie."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Train 1900 múzeumi bolt",
+            "tip": "Találjon egyedi, vasúti és ipari témájú ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul muzeului Train 1900",
+            "tip": "Găsiți suveniruri unice legate de căile ferate și industrie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Train 1900 Museum Shop",
+            "tip": "Find unique souvenirs related to railways and industry."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Es gibt ausgewiesene Radwege, die Petingen mit dem Minett Park verbinden.",
+          "Ein Helm wird empfohlen, besonders für den Anstieg zum Titelberg.",
+          "Nehmen Sie genügend Wasser für die Tour mit.",
+          "Prüfen Sie, ob Sie Ihr Fahrrad im Train 1900 mitnehmen dürfen, falls Sie eine Strecke abkürzen möchten."
+        ],
+        "hu": [
+          "Kijelölt kerékpárutak kötik össze Petingent a Minett Parkkal.",
+          "Sisak viselése ajánlott, különösen a Titelbergre való feljutáshoz.",
+          "Vigyen magával elegendő vizet a túrára.",
+          "Ellenőrizze, hogy a kerékpárt felviheti-e a Train 1900-ra, ha le szeretne rövidíteni egy szakaszt."
+        ],
+        "ro": [
+          "Există piste de biciclete desemnate care leagă Petange de Parcul Minett.",
+          "Se recomandă cască, în special pentru urcarea pe Titelberg.",
+          "Luați suficientă apă pentru tur.",
+          "Verificați dacă puteți lua bicicleta în Trenul 1900 dacă doriți să scurtați o secțiune."
+        ],
+        "en": [
+          "There are designated cycle paths connecting Petange to the Minett Park.",
+          "A helmet is recommended, especially for the climb to Titelberg.",
+          "Bring enough water for the tour.",
+          "Check if you can take your bike on the Train 1900 if you want to shorten a section."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 8.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken im Stadtzentrum",
+            "hu": "Parkolás a városközpontban",
+            "ro": "Parcare în centrul orașului",
+            "en": "Parking in the City Center"
+          },
+          "coords": [
+            5.8765,
+            49.5562
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier, um den ersten Cluster zu Fuß zu erkunden.",
+            "hu": "Parkoljon itt, hogy gyalog fedezze fel az első klasztert.",
+            "ro": "Parcați aici pentru a explora primul cluster pe jos.",
+            "en": "Park here to explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Hubertus & Monument",
+            "hu": "Szent Hubertus-templom és Emlékmű",
+            "ro": "Biserica Sf. Hubert și Monumentul",
+            "en": "St. Hubert Church & Monument"
+          },
+          "coords": [
+            5.8772,
+            49.5555
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Monument aux Morts liegt nur einen kurzen Spaziergang entfernt.",
+            "hu": "A Hősi Emlékmű csak egy rövid sétára található.",
+            "ro": "Monumentul Eroilor este la o scurtă plimbare.",
+            "en": "The Monument to the Fallen is just a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Park de la Chiers",
+            "hu": "Chiers Park",
+            "ro": "Parcul Chiers",
+            "en": "Parc de la Chiers"
+          },
+          "coords": [
+            5.871,
+            49.554
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang vom Stadtzentrum aus.",
+            "hu": "Egy szép séta a városközpontból.",
+            "ro": "O plimbare frumoasă din centrul orașului.",
+            "en": "A pleasant walk from the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Fond-de-Gras",
+            "hu": "Utazás Fond-de-Gras-ba",
+            "ro": "Drumul spre Fond-de-Gras",
+            "en": "Drive to Fond-de-Gras"
+          },
+          "coords": [
+            5.845,
+            49.539
+          ],
+          "category": "transport",
+          "arrive_at": "11:45",
+          "stay_min": 0,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie auf dem großen Parkplatz und erkunden Sie den zweiten Cluster.",
+            "hu": "Parkoljon a nagy parkolóban, és fedezze fel a második klasztert.",
+            "ro": "Parcați în parcarea mare și explorați al doilea cluster.",
+            "en": "Park in the large lot and explore the second cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Fond-de-Gras & Train 1900",
+            "hu": "Fond-de-Gras és Train 1900",
+            "ro": "Fond-de-Gras și Trenul 1900",
+            "en": "Fond-de-Gras & Train 1900"
+          },
+          "coords": [
+            5.844,
+            49.5385
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für das Museum und die historischen Gebäude.",
+            "hu": "Szánjon időt a múzeumra és a történelmi épületekre.",
+            "ro": "Acordați-vă timp pentru muzeu și clădirile istorice.",
+            "en": "Take your time for the museum and the historic buildings."
+          }
+        },
+        {
+          "name": {
+            "de": "Minièresbunn",
+            "hu": "Minièresbunn Bányavasút",
+            "ro": "Calea Ferată Minieră Minièresbunn",
+            "en": "Minièresbunn Mining Railway"
+          },
+          "coords": [
+            5.8445,
+            49.538
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Fahrt mit der Grubenbahn ist ein Highlight für die ganze Familie.",
+            "hu": "A bányavasúti utazás az egész család számára fénypont.",
+            "ro": "Plimbarea cu trenul minier este un punct culminant pentru întreaga familie.",
+            "en": "The mining train ride is a highlight for the whole family."
+          }
+        },
+        {
+          "name": {
+            "de": "Titelberg",
+            "hu": "Titelberg",
+            "ro": "Titelberg",
+            "en": "Titelberg"
+          },
+          "coords": [
+            5.862,
+            49.54
+          ],
+          "category": "historical",
+          "arrive_at": "15:35",
+          "stay_min": 95,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Fond-de-Gras führt Sie zu den keltischen Ruinen.",
+            "hu": "Egy rövid séta a Fond-de-Gras-tól elvezeti a kelta romokhoz.",
+            "ro": "O scurtă plimbare de la Fond-de-Gras vă duce la ruinele celtice.",
+            "en": "A short walk from Fond-de-Gras leads you to the Celtic ruins."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Autotag, indem Sie im Zentrum von Petingen parken und den ersten Cluster zu Fuß erkunden: die Kirche und den nahegelegenen Park. Am Vormittag fahren Sie zum Minett Park. Dort parken Sie erneut und tauchen für den Rest des Tages in die Welt des industriellen Erbes ein. Entdecken Sie das Fond-de-Gras, fahren Sie mit den historischen Zügen und spazieren Sie hinüber zu den alten keltischen Ruinen auf dem Titelberg, alles zu Fuß von diesem zweiten Parkplatz aus.",
+        "hu": "Kezdje autós napját Petingen központjában parkolva, és fedezze fel gyalog az első látnivalócsoportot: a templomot és a közeli parkot. Délelőtt vezessen a Minett Parkba. Itt újra leparkol, és a nap hátralévő részében elmerül az ipari örökség világában. Fedezze fel a Fond-de-Gras-t, utazzon a történelmi vonatokon, és sétáljon át a Titelberg ősi kelta romjaihoz, mindezt gyalog erről a második parkolóhelyről.",
+        "ro": "Începeți-vă ziua cu mașina parcând în centrul orașului Petange și explorând pe jos primul cluster de atracții: biserica și parcul din apropiere. Dimineața, conduceți spre Parcul Minett. Acolo, parcați din nou și scufundați-vă în lumea patrimoniului industrial pentru restul zilei. Descoperiți Fond-de-Gras, călătoriți cu trenurile istorice și plimbați-vă până la vechile ruine celtice de pe Titelberg, totul pe jos de la acest al doilea loc de parcare.",
+        "en": "Start your car day by parking in the center of Petange and exploring the first cluster of sights on foot: the church and the nearby park. In the morning, drive to the Minett Park. Park there again and immerse yourself in the world of industrial heritage for the rest of the day. Discover Fond-de-Gras, ride the historic trains, and stroll over to the ancient Celtic ruins on Titelberg, all on foot from this second parking spot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant am Fond-de-Gras",
+            "tip": "Stärken Sie sich mit luxemburgischer Küche direkt am Ort des Geschehens."
+          },
+          {
+            "name": "Bouneschlupp",
+            "tip": "Eine herzhafte grüne Bohnensuppe, perfekt für ein Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a Fond-de-Gras-ban",
+            "tip": "Erősítse meg magát luxemburgi konyhával közvetlenül a helyszínen."
+          },
+          {
+            "name": "Bouneschlupp",
+            "tip": "Kiadós zöldbableves, tökéletes ebédre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant la Fond-de-Gras",
+            "tip": "Întăriți-vă cu bucătăria luxemburgheză chiar la fața locului."
+          },
+          {
+            "name": "Bouneschlupp",
+            "tip": "O supă consistentă de fasole verde, perfectă pentru prânz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant at Fond-de-Gras",
+            "tip": "Fortify yourself with Luxembourgish cuisine right on site."
+          },
+          {
+            "name": "Bouneschlupp",
+            "tip": "A hearty green bean soup, perfect for lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang um den Titelberg",
+            "tip": "Die Pfade um das Oppidum bieten Ruhe und schöne Ausblicke.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer der Chiers",
+            "tip": "Finden Sie eine ruhige Bank im Park, um dem Stadtleben zu entfliehen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Titelberg körül",
+            "tip": "Az oppidum körüli ösvények csendet és szép kilátást kínálnak.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Chiers partja",
+            "tip": "Találjon egy csendes padot a parkban, hogy elmeneküljön a városi élet elől.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare în jurul Titelberg",
+            "tip": "Căile din jurul oppidumului oferă liniște și priveliști frumoase.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malurile râului Chiers",
+            "tip": "Găsiți o bancă liniștită în parc pentru a scăpa de viața orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk around Titelberg",
+            "tip": "The paths around the oppidum offer tranquility and beautiful views.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the Chiers",
+            "tip": "Find a quiet bench in the park to escape city life.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs im Fond-de-Gras",
+            "tip": "Einzigartige Andenken an die Bergbau- und Eisenbahngeschichte der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándéktárgyak a Fond-de-Gras-ban",
+            "tip": "Egyedi emléktárgyak a régió bányászati és vasúti történelméből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri la Fond-de-Gras",
+            "tip": "Amintiri unice despre istoria minieră și feroviară a regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenirs at Fond-de-Gras",
+            "tip": "Unique mementos of the region's mining and railway history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Cluster-Walking-Strategie: Parken Sie zweimal und erkunden Sie die Umgebung zu Fuß.",
+          "Die Parkplätze im Zentrum können an Markttagen voll sein.",
+          "Der Parkplatz am Fond-de-Gras ist groß und normalerweise kostenlos.",
+          "Prüfen Sie im Voraus die Fahrzeiten der historischen Züge, um Ihren Besuch zu planen."
+        ],
+        "hu": [
+          "Használja a klaszteres séta stratégiát: parkoljon kétszer, és fedezze fel a környéket gyalog.",
+          "A központi parkolók piaconnapokon telítettek lehetnek.",
+          "A Fond-de-Gras parkolója nagy és általában ingyenes.",
+          "Előre ellenőrizze a történelmi vonatok menetrendjét a látogatás megtervezéséhez."
+        ],
+        "ro": [
+          "Utilizați strategia de plimbare în cluster: parcați de două ori și explorați împrejurimile pe jos.",
+          "Parcările din centru pot fi pline în zilele de piață.",
+          "Parcarea de la Fond-de-Gras este mare și, de obicei, gratuită.",
+          "Verificați în avans orarele trenurilor istorice pentru a vă planifica vizita."
+        ],
+        "en": [
+          "Use the cluster-walking strategy: park twice and explore the surroundings on foot.",
+          "Parking in the center can be busy on market days.",
+          "The parking lot at Fond-de-Gras is large and usually free.",
+          "Check the historic train schedules in advance to plan your visit."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 7.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof Petingen",
+            "hu": "Érkezés a Petingen pályaudvarra",
+            "ro": "Sosire la Gara Petange",
+            "en": "Arrival at Petange Station"
+          },
+          "coords": [
+            5.88,
+            49.558
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier und erkunden Sie den Stadtkern zu Fuß.",
+            "hu": "Kezdje a napot itt, és fedezze fel a városközpontot gyalog.",
+            "ro": "Începeți ziua aici și explorați centrul orașului pe jos.",
+            "en": "Start your day here and explore the city center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Hubertus",
+            "hu": "Szent Hubertus-templom",
+            "ro": "Biserica Sfântul Hubert",
+            "en": "Saint Hubert Church"
+          },
+          "coords": [
+            5.8772,
+            49.5555
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Bahnhof aus.",
+            "hu": "Rövid séta a vasútállomástól.",
+            "ro": "O scurtă plimbare de la gară.",
+            "en": "A short walk from the train station."
+          }
+        },
+        {
+          "name": {
+            "de": "Park de la Chiers",
+            "hu": "Chiers Park",
+            "ro": "Parcul Chiers",
+            "en": "Parc de la Chiers"
+          },
+          "coords": [
+            5.871,
+            49.554
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im Grünen, bevor Sie zum nächsten Ziel aufbrechen.",
+            "hu": "Pihenjen a zöldben, mielőtt a következő célponthoz indulna.",
+            "ro": "Relaxați-vă în verdeață înainte de a pleca spre următoarea destinație.",
+            "en": "Relax in the greenery before heading to the next destination."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Fond-de-Gras",
+            "hu": "Utazás a Fond-de-Gras-ba",
+            "ro": "Călătorie spre Fond-de-Gras",
+            "en": "Trip to Fond-de-Gras"
+          },
+          "coords": [
+            5.845,
+            49.539
+          ],
+          "category": "transport",
+          "arrive_at": "12:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 6,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus oder den speziellen Train 1900 von Petingen aus.",
+            "hu": "Menjen busszal vagy a különleges Train 1900 vonattal Petingenből.",
+            "ro": "Luați autobuzul sau trenul special 1900 din Petange.",
+            "en": "Take the bus or the special Train 1900 from Petange."
+          }
+        },
+        {
+          "name": {
+            "de": "Fond-de-Gras & Museen",
+            "hu": "Fond-de-Gras & Múzeumok",
+            "ro": "Fond-de-Gras & Muzee",
+            "en": "Fond-de-Gras & Museums"
+          },
+          "coords": [
+            5.844,
+            49.5385
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:05",
+          "stay_min": 180,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Alles ist hier zu Fuß erreichbar. Planen Sie auch ein Mittagessen ein.",
+            "hu": "Itt minden gyalogosan elérhető. Tervezzen be egy ebédet is.",
+            "ro": "Totul este accesibil pe jos aici. Planificați și un prânz.",
+            "en": "Everything is within walking distance here. Plan for lunch as well."
+          }
+        },
+        {
+          "name": {
+            "de": "Titelberg",
+            "hu": "Titelberg",
+            "ro": "Titelberg",
+            "en": "Titelberg"
+          },
+          "coords": [
+            5.862,
+            49.54
+          ],
+          "category": "historical",
+          "arrive_at": "15:20",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Verdauungsspaziergang zu den Ruinen mit herrlicher Aussicht.",
+            "hu": "Egy emésztést segítő séta a romokhoz, csodálatos kilátással.",
+            "ro": "O plimbare digestivă la ruine cu vederi magnifice.",
+            "en": "A digestive walk to the ruins with magnificent views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Reise mit öffentlichen Verkehrsmitteln beginnt am Bahnhof Petingen. Von dort aus erkunden Sie das Stadtzentrum und den Chiers-Park zu Fuß. Am Mittag nehmen Sie einen Bus oder den historischen Zug zum Fond-de-Gras. Der gesamte Nachmittag ist diesem industriellen und archäologischen Zentrum gewidmet. Sie können zwischen den Museen, dem historischen Bahnhof und den keltischen Ruinen auf dem Titelberg spazieren, bevor Sie am späten Nachmittag die Rückreise antreten.",
+        "hu": "Tömegközlekedési utazása a petingeni pályaudvaron kezdődik. Onnan gyalogosan fedezi fel a városközpontot és a Chiers parkot. Délben busszal vagy a történelmi vonattal utazik a Fond-de-Gras-ba. Az egész délután ennek az ipari és régészeti központnak van szentelve. Sétálhat a múzeumok, a történelmi pályaudvar és a Titelberg kelta romjai között, mielőtt késő délután visszaindulna.",
+        "ro": "Călătoria cu transportul public începe la gara din Petange. De acolo, explorați centrul orașului și Parcul Chiers pe jos. La prânz, luați un autobuz sau trenul istoric către Fond-de-Gras. Întreaga după-amiază este dedicată acestui centru industrial și arheologic. Vă puteți plimba între muzee, gara istorică și ruinele celtice de pe Titelberg înainte de a vă întoarce la sfârșitul după-amiezii.",
+        "en": "Your journey by public transport begins at Petange train station. From there, you'll explore the city center and the Chiers Park on foot. At midday, you'll take a bus or the historic train to Fond-de-Gras. The entire afternoon is dedicated to this industrial and archaeological hub. You can walk between the museums, the historic station, and the Celtic ruins on Titelberg before heading back in the late afternoon."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brasserie in der Nähe des Bahnhofs",
+            "tip": "Stärken Sie sich vor Ihrer Abreise mit einem lokalen Gericht."
+          },
+          {
+            "name": "Thüringer",
+            "tip": "Gegrillte Würstchen, ein beliebter und schneller Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Söröző a pályaudvar közelében",
+            "tip": "Erősítse meg magát egy helyi étellel indulás előtt."
+          },
+          {
+            "name": "Thüringer",
+            "tip": "Grillezett kolbász, egy népszerű és gyors harapnivaló."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Braserie lângă gară",
+            "tip": "Întăriți-vă cu un fel de mâncare local înainte de plecare."
+          },
+          {
+            "name": "Thüringer",
+            "tip": "Cârnați la grătar, o gustare populară și rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brasserie near the station",
+            "tip": "Fortify yourself with a local dish before your departure."
+          },
+          {
+            "name": "Thüringer",
+            "tip": "Grilled sausages, a popular and quick snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Plateau des Titelbergs",
+            "tip": "Ein Ort der Stille mit Panoramablick über die Region.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Eine ruhige Ecke im Fond-de-Gras",
+            "tip": "Abseits der Hauptattraktionen können Sie die Atmosphäre der alten Industrieanlagen auf sich wirken lassen.",
+            "emoji": "🚂"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Titelberg-fennsík",
+            "tip": "A csend helye, panorámás kilátással a régióra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Egy csendes sarok a Fond-de-Gras-ban",
+            "tip": "A fő látnivalóktól távol magába szívhatja a régi ipari létesítmények hangulatát.",
+            "emoji": "🚂"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platoul Titelberg",
+            "tip": "Un loc de liniște cu vederi panoramice asupra regiunii.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Un colț liniștit la Fond-de-Gras",
+            "tip": "Departe de atracțiile principale, puteți absorbi atmosfera vechilor instalații industriale.",
+            "emoji": "🚂"
+          }
+        ],
+        "en": [
+          {
+            "name": "Titelberg Plateau",
+            "tip": "A place of silence with panoramic views of the region.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A quiet corner in Fond-de-Gras",
+            "tip": "Away from the main attractions, you can soak up the atmosphere of the old industrial plants.",
+            "emoji": "🚂"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Rue de l'Eglise",
+            "tip": "Kleine Boutiquen und Geschäfte im Zentrum von Petingen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Üzletek a Rue de l'Eglise-n",
+            "tip": "Kis butikok és üzletek Petingen központjában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine pe Rue de l'Eglise",
+            "tip": "Mici buticuri și magazine în centrul orașului Petange."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops on Rue de l'Eglise",
+            "tip": "Small boutiques and shops in the center of Petange."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den öffentlichen Verkehr in Luxemburg, sie ist sehr günstig.",
+          "Überprüfen Sie die Abfahrtszeiten der Busse und des Train 1900, um Wartezeiten zu minimieren.",
+          "Vom Bahnhof Petingen aus sind viele Ziele leicht erreichbar.",
+          "Seien Sie auf Fußwege zwischen den Haltestellen und den eigentlichen Sehenswürdigkeiten vorbereitet."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a luxemburgi tömegközlekedéshez, nagyon kedvező árú.",
+          "Ellenőrizze a buszok és a Train 1900 indulási idejét a várakozási idő minimalizálása érdekében.",
+          "A petingeni pályaudvarról számos célpont könnyen elérhető.",
+          "Készüljön fel a gyaloglásra a megállók és a tényleges látnivalók között."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public din Luxemburg, este foarte ieftin.",
+          "Verificați orele de plecare ale autobuzelor și ale trenului 1900 pentru a minimiza timpii de așteptare.",
+          "Multe destinații sunt ușor accesibile de la gara din Petange.",
+          "Fiți pregătiți pentru plimbări între stații și atracțiile reale."
+        ],
+        "en": [
+          "Buy a day ticket for public transport in Luxembourg, it is very affordable.",
+          "Check the departure times of buses and the Train 1900 to minimize waiting times.",
+          "Many destinations are easily accessible from Petange station.",
+          "Be prepared for walking between the stops and the actual sights."
+        ]
+      }
+    }
+  }
+}

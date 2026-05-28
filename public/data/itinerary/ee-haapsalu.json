@@ -1,0 +1,1518 @@
+{
+  "city_id": "ee-haapsalu",
+  "anchor": {
+    "name": "Haapsalu",
+    "coords": [
+      23.5333,
+      58.9333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bischofsburg Haapsalu",
+            "hu": "Haapsalui püspöki vár",
+            "ro": "Castelul Episcopal din Haapsalu",
+            "en": "Haapsalu Bishop's Castle"
+          },
+          "coords": [
+            23.5385,
+            58.9475
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Klettern Sie auf die Mauern für einen tollen Blick über die Stadt und halten Sie Ausschau nach der Weißen Dame.",
+            "hu": "Másszon fel a falakra a remek városi panorámáért, és keresse a Fehér Hölgyet!",
+            "ro": "Urcați pe ziduri pentru o priveliște superbă asupra orașului și căutați-o pe Doamna Albă.",
+            "en": "Climb the walls for a great view over the town and look out for the White Lady."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Johannis Kirche",
+            "hu": "Szent János-templom",
+            "ro": "Biserica Sf. Ioan",
+            "en": "St. John's Church"
+          },
+          "coords": [
+            23.5362,
+            58.9481
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte mittelalterliche Architektur und die einzigartige Akustik im Inneren.",
+            "hu": "Csodálja meg az egyszerű középkori építészetet és a belső tér egyedi akusztikáját.",
+            "ro": "Admirați arhitectura medievală simplă și acustica unică din interior.",
+            "en": "Admire the simple medieval architecture and the unique acoustics inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Ilons Wunderland",
+            "hu": "Ilon Csodaországa",
+            "ro": "Tărâmul Minunilor lui Ilon",
+            "en": "Ilon's Wonderland"
+          },
+          "coords": [
+            23.532,
+            58.949
+          ],
+          "category": "museums",
+          "arrive_at": "11:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein magischer Ort für Familien, der den Illustrationen von Ilon Wikland gewidmet ist.",
+            "hu": "Varázslatos hely családoknak, Ilon Wikland illusztrációinak szentelve.",
+            "ro": "Un loc magic pentru familii, dedicat ilustrațiilor lui Ilon Wikland.",
+            "en": "A magical place for families, dedicated to the illustrations of Ilon Wikland."
+          }
+        },
+        {
+          "name": {
+            "de": "Haapsalu Promenade",
+            "hu": "Haapsalui promenád",
+            "ro": "Promenada din Haapsalu",
+            "en": "Haapsalu Promenade"
+          },
+          "coords": [
+            23.531,
+            58.9515
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Perfekt für einen entspannten Spaziergang am Nachmittag. Nehmen Sie auf der Tschaikowski-Bank Platz.",
+            "hu": "Tökéletes egy pihentető délutáni sétához. Üljön le a Csajkovszkij-padra.",
+            "ro": "Perfect pentru o plimbare relaxantă de după-amiază. Luați loc pe Banca lui Ceaikovski.",
+            "en": "Perfect for a relaxing afternoon stroll. Take a seat on the Tchaikovsky Bench."
+          }
+        },
+        {
+          "name": {
+            "de": "Haapsalu Kursaal",
+            "hu": "Haapsalui Kursaal",
+            "ro": "Kursaalul din Haapsalu",
+            "en": "Haapsalu Kursaal"
+          },
+          "coords": [
+            23.528,
+            58.952
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:01",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Holzarchitektur, auch wenn Sie keine Veranstaltung besuchen.",
+            "hu": "Csodálja meg az elegáns faépítészetet, még ha nem is megy előadásra.",
+            "ro": "Admirați arhitectura elegantă din lemn, chiar dacă nu participați la un eveniment.",
+            "en": "Admire the elegant wooden architecture, even if you're not attending an event."
+          }
+        },
+        {
+          "name": {
+            "de": "Tschaikowski-Bank",
+            "hu": "Csajkovszkij-pad",
+            "ro": "Banca lui Ceaikovski",
+            "en": "Tchaikovsky's Bench"
+          },
+          "coords": [
+            23.526,
+            58.9525
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:32",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein beliebter Fotopunkt mit einer schönen Geschichte über den Besuch des Komponisten.",
+            "hu": "Népszerű fotóhely, szép történettel a zeneszerző látogatásáról.",
+            "ro": "Un loc popular pentru fotografii, cu o poveste frumoasă despre vizita compozitorului.",
+            "en": "A popular photo spot with a lovely story about the composer's visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahnhof Haapsalu",
+            "hu": "Haapsalui vasútállomás",
+            "ro": "Gara din Haapsalu",
+            "en": "Haapsalu Railway Station"
+          },
+          "coords": [
+            23.551,
+            58.941
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:11",
+          "stay_min": 45,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Der überdachte Bahnsteig ist der längste in Nordeuropa. Ein beeindruckendes Stück Eisenbahngeschichte.",
+            "hu": "A fedett peron a leghosszabb Észak-Európában. Lenyűgöző darab vasúttörténelem.",
+            "ro": "Peronul acoperit este cel mai lung din Europa de Nord. O piesă impresionantă de istorie feroviară.",
+            "en": "The covered platform is the longest in Northern Europe. An impressive piece of railway history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an der majestätischen Bischofsburg, wo Legenden lebendig werden. Am Vormittag erkunden Sie die ruhige St. Johannis Kirche und tauchen in die Fantasiewelt von Ilons Wunderland ein. Nach einem Mittagessen am Meer führt Sie ein Spaziergang entlang der berühmten Promenade zum eleganten Kursaal und der Tschaikowski-Bank. Am späten Nachmittag versetzt Sie der historische Bahnhof in eine andere Zeit und rundet einen Tag voller Entdeckungen in dieser charmanten Küstenstadt ab.",
+        "hu": "Kezdje a napot a fenséges püspöki várnál, ahol a legendák életre kelnek. Délelőtt fedezze fel a csendes Szent János-templomot, majd merüljön el Ilon Csodaországának fantáziavilágában. Egy tengerparti ebéd után sétáljon végig a híres promenádon az elegáns Kursaalhoz és a Csajkovszkij-padhoz. Késő délután a történelmi vasútállomás egy másik korba repíti, lezárva a felfedezésekkel teli napot ebben a bájos tengerparti városban.",
+        "ro": "Începeți ziua la majestuosul Castel Episcopal, unde legendele prind viață. Dimineața explorați liniștita Biserică Sf. Ioan și pătrundeți în lumea fantastică a Tărâmului Minunilor lui Ilon. După un prânz pe malul mării, o plimbare de-a lungul celebrei Promenade vă va duce la elegantul Kursaal și la Banca lui Ceaikovski. Spre seară, gara istorică vă va transporta într-o altă epocă, încheind o zi plină de descoperiri în acest fermecător oraș de coastă.",
+        "en": "Start your day at the majestic Bishop's Castle, where legends come to life. In the morning, explore the quiet St. John's Church and delve into the fantasy world of Ilon's Wonderland. After lunch by the sea, a stroll along the famous Promenade will lead you to the elegant Kursaal and Tchaikovsky's Bench. In the late afternoon, the historic railway station will transport you to another era, rounding off a day of discovery in this charming seaside town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Geräucherte Flunder",
+            "tip": "Probieren Sie diesen lokalen Fisch in einem der Restaurants am Hafen."
+          },
+          {
+            "name": "Mulgipuder",
+            "tip": "Ein herzhaftes estnisches Nationalgericht aus Kartoffeln und Gerste."
+          },
+          {
+            "name": "Kama",
+            "tip": "Ein traditionelles Dessert aus geröstetem Getreide, oft mit Kefir serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Füstölt lepényhal",
+            "tip": "Kóstolja meg ezt a helyi halat a kikötői éttermek egyikében."
+          },
+          {
+            "name": "Mulgipuder",
+            "tip": "Kiadós észt nemzeti étel krumplival és árpával."
+          },
+          {
+            "name": "Kama",
+            "tip": "Hagyományos desszert pörkölt gabonafélékből, gyakran kefirrel tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calcan afumat",
+            "tip": "Încercați acest pește local la unul dintre restaurantele din port."
+          },
+          {
+            "name": "Mulgipuder",
+            "tip": "Un fel de mâncare național estonian consistent, din cartofi și orz."
+          },
+          {
+            "name": "Kama",
+            "tip": "Un desert tradițional din cereale prăjite, adesea servit cu chefir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smoked Flounder",
+            "tip": "Try this local fish at one of the restaurants by the harbour."
+          },
+          {
+            "name": "Mulgipuder",
+            "tip": "A hearty Estonian national dish of potatoes and barley."
+          },
+          {
+            "name": "Kama",
+            "tip": "A traditional dessert made from roasted cereals, often served with kefir."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Strand Paralepa",
+            "tip": "Ein friedlicher Ort, um dem Trubel zu entfliehen und die wärmste Meerestemperatur Estlands zu genießen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spaziergang um den Burggraben",
+            "tip": "Ein ruhiger Weg rund um die Burg, perfekt für eine stille Betrachtung.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vogelbeobachtungsturm",
+            "tip": "Finden Sie Ruhe und beobachten Sie die reiche Vogelwelt in der Bucht.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paralepa strand",
+            "tip": "Békés hely a tömeg elől, Észtország legmelegebb tengervizével.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Séta a várárok körül",
+            "tip": "Csendes ösvény a vár körül, tökéletes a nyugodt elmélkedéshez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Madármegfigyelő torony",
+            "tip": "Találjon nyugalmat, és figyelje meg az öböl gazdag madárvilágát.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Paralepa",
+            "tip": "Un loc pașnic pentru a scăpa de agitație, bucurându-vă de cea mai caldă apă a mării din Estonia.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plimbare în jurul șanțului castelului",
+            "tip": "O cărare liniștită în jurul castelului, perfectă pentru contemplare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Turnul de observare a păsărilor",
+            "tip": "Găsiți liniște și observați avifauna bogată a golfului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Paralepa Beach",
+            "tip": "A peaceful spot to escape the crowds and enjoy the warmest sea temperatures in Estonia.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Walk around the castle moat",
+            "tip": "A quiet path circling the castle, perfect for silent contemplation.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bird watching tower",
+            "tip": "Find tranquility and observe the rich birdlife of the bay.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Haapsalu-Schal",
+            "tip": "Kaufen Sie einen authentischen, zarten, handgestrickten Schal, der so fein ist, dass er durch einen Ring passt."
+          },
+          {
+            "name": "Lokale Handwerkskunst",
+            "tip": "Besuchen Sie die kleinen Galerien und Werkstätten in der Altstadt für einzigartige Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Haapsalui sál",
+            "tip": "Vásároljon egy autentikus, finom, kézzel kötött sálat, amely olyan vékony, hogy átfér egy gyűrűn."
+          },
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Látogasson el az óváros kis galériáiba és műhelyeibe egyedi szuvenírekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Șalul Haapsalu",
+            "tip": "Cumpărați un șal autentic, delicat, tricotat manual, atât de fin încât poate trece printr-un inel."
+          },
+          {
+            "name": "Artizanat local",
+            "tip": "Vizitați micile galerii și ateliere din orașul vechi pentru suveniruri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Haapsalu Shawl",
+            "tip": "Buy an authentic, delicate hand-knitted shawl, so fine it can be pulled through a ring."
+          },
+          {
+            "name": "Local handicrafts",
+            "tip": "Visit the small galleries and workshops in the old town for unique souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit, um hydriert zu bleiben.",
+          "Viele Cafés bieten kostenloses WLAN an, falls Sie eine Karte überprüfen müssen.",
+          "Planen Sie etwas Zeit ein, um einfach nur umherzuwandern und die Holzhäuser zu bewundern."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, az óvárosi macskakövek egyenetlenek lehetnek.",
+          "Hozzon magával újratölthető vizes palackot, hogy hidratált maradjon.",
+          "Sok kávézóban van ingyenes Wi-Fi, ha ellenőriznie kell a térképet.",
+          "Szánjon időt arra is, hogy csak sétáljon, és megcsodálja a faházakat."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pietrele cubice din orașul vechi pot fi denivelate.",
+          "Luați o sticlă de apă reutilizabilă pentru a vă menține hidratat.",
+          "Multe cafenele oferă Wi-Fi gratuit dacă aveți nevoie să verificați o hartă.",
+          "Rezervați-vă timp pentru a vă plimba pur și simplu și a admira casele din lemn."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Bring a reusable water bottle to stay hydrated.",
+          "Many cafes offer free Wi-Fi if you need to check a map.",
+          "Plan some time to just wander and admire the wooden houses."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:21",
+      "total_km": 9.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Haapsalu",
+            "hu": "Haapsalui vasútállomás",
+            "ro": "Gara din Haapsalu",
+            "en": "Haapsalu Railway Station"
+          },
+          "coords": [
+            23.551,
+            58.941
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der Radweg nach Rohuküla beginnt hier und verläuft auf der alten Bahntrasse.",
+            "hu": "A Rohuküla felé vezető bicikliút itt kezdődik, a régi vasúti töltésen.",
+            "ro": "Pista de biciclete spre Rohuküla începe aici, pe vechiul terasament feroviar.",
+            "en": "The cycle path to Rohuküla starts here, running along the old railway embankment."
+          }
+        },
+        {
+          "name": {
+            "de": "Bischofsburg Haapsalu",
+            "hu": "Haapsalui püspöki vár",
+            "ro": "Castelul Episcopal din Haapsalu",
+            "en": "Haapsalu Bishop's Castle"
+          },
+          "coords": [
+            23.5385,
+            58.9475
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:04",
+          "stay_min": 90,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Eingang ab und nehmen Sie sich Zeit, das Museum und den Dom zu erkunden.",
+            "hu": "Zárja le a biciklit a bejáratnál, és szánjon időt a múzeum és a dóm felfedezésére.",
+            "ro": "Legați-vă bicicleta la intrare și luați-vă timp pentru a explora muzeul și catedrala.",
+            "en": "Lock your bike at the entrance and take your time to explore the museum and the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Ilons Wunderland",
+            "hu": "Ilon Csodaországa",
+            "ro": "Tărâmul Minunilor lui Ilon",
+            "en": "Ilon's Wonderland"
+          },
+          "coords": [
+            23.532,
+            58.949
+          ],
+          "category": "museums",
+          "arrive_at": "11:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein schöner Zwischenstopp, besonders wenn Sie mit Kindern unterwegs sind.",
+            "hu": "Nagyszerű megálló, különösen ha gyerekekkel utazik.",
+            "ro": "O oprire plăcută, mai ales dacă călătoriți cu copii.",
+            "en": "A lovely stop, especially if you are travelling with children."
+          }
+        },
+        {
+          "name": {
+            "de": "Haapsalu Promenade",
+            "hu": "Haapsalui promenád",
+            "ro": "Promenada din Haapsalu",
+            "en": "Haapsalu Promenade"
+          },
+          "coords": [
+            23.531,
+            58.9515
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:57",
+          "stay_min": 20,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Fahren Sie langsam und genießen Sie die Aussicht. Halten Sie für ein Eis an.",
+            "hu": "Tekerjen lassan és élvezze a kilátást. Álljon meg egy fagyira.",
+            "ro": "Pedalați încet și bucurați-vă de priveliște. Opriți-vă pentru o înghețată.",
+            "en": "Cycle slowly and enjoy the view. Stop for an ice cream."
+          }
+        },
+        {
+          "name": {
+            "de": "Haapsalu Kursaal",
+            "hu": "Haapsalui Kursaal",
+            "ro": "Kursaalul din Haapsalu",
+            "en": "Haapsalu Kursaal"
+          },
+          "coords": [
+            23.528,
+            58.952
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:19",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein schnelles Foto von diesem Holzjuwel ist ein Muss.",
+            "hu": "Egy gyors fotó erről a fa-ékszerről kötelező.",
+            "ro": "O fotografie rapidă a acestei bijuterii din lemn este obligatorie.",
+            "en": "A quick photo of this wooden gem is a must."
+          }
+        },
+        {
+          "name": {
+            "de": "Tschaikowski-Bank",
+            "hu": "Csajkovszkij-pad",
+            "ro": "Banca lui Ceaikovski",
+            "en": "Tchaikovsky's Bench"
+          },
+          "coords": [
+            23.526,
+            58.9525
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:36",
+          "stay_min": 10,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Pause und genießen Sie die gleiche Aussicht wie der berühmte Komponist.",
+            "hu": "Tartson egy rövid szünetet, és élvezze ugyanazt a kilátást, mint a híres zeneszerző.",
+            "ro": "Luați o scurtă pauză și bucurați-vă de aceeași priveliște ca și faimosul compozitor.",
+            "en": "Take a short break and enjoy the same view as the famous composer."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Paralepa",
+            "hu": "Paralepa strand",
+            "ro": "Plaja Paralepa",
+            "en": "Paralepa Beach"
+          },
+          "coords": [
+            23.505,
+            58.939
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:02",
+          "stay_min": 180,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Die Radtour hierher lohnt sich für das wärmste Meerwasser Estlands. Perfekt für ein langes Nachmittagsbad.",
+            "hu": "Megéri ide tekerni Észtország legmelegebb tengervizéért. Tökéletes egy hosszú délutáni fürdőzéshez.",
+            "ro": "Merită să pedalați până aici pentru cea mai caldă apă de mare din Estonia. Perfect pentru o baie lungă de după-amiază.",
+            "en": "The bike ride here is worth it for the warmest sea water in Estonia. Perfect for a long afternoon swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Restaurant zum Abendessen",
+            "hu": "Étterem vacsorára",
+            "ro": "Restaurant pentru cină",
+            "en": "Dinner Restaurant"
+          },
+          "coords": [
+            23.535,
+            58.946
+          ],
+          "category": "gastro",
+          "arrive_at": "17:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Nach einem Tag auf dem Rad haben Sie sich ein herzhaftes estnisches Essen verdient.",
+            "hu": "Egy biciklizéssel töltött nap után megérdemel egy kiadós észt vacsorát.",
+            "ro": "După o zi pe bicicletă, meritați o masă estoniană copioasă.",
+            "en": "After a day of cycling, you've earned a hearty Estonian meal."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am historischen Bahnhof und radeln Sie zur Bischofsburg, dem Herzen der Stadt. Nach der Erkundung der Burg und einem Besuch in Ilons Wunderland führt Sie eine gemütliche Fahrt zur Promenade. Gönnen Sie sich ein Mittagessen und genießen Sie die Meeresbrise. Am Nachmittag radeln Sie zum Strand von Paralepa, bekannt für sein warmes Wasser. Der Rückweg in die Altstadt für ein wohlverdientes Abendessen schließt einen aktiven und erfrischenden Tag ab.",
+        "hu": "Induljon a történelmi vasútállomástól, és tekerjen a püspöki várhoz, a város szívébe. A vár felfedezése és Ilon Csodaországának meglátogatása után egy kellemes út vezet a promenádra. Ebédeljen meg, és élvezze a tengeri szellőt. Délután tekerjen el a meleg vizéről híres Paralepa strandra. A napot egy jól megérdemelt vacsorával zárja az óvárosban, egy aktív és frissítő nap után.",
+        "ro": "Începeți de la gara istorică și pedalați spre Castelul Episcopal, inima orașului. După explorarea castelului și o vizită la Tărâmul Minunilor lui Ilon, o plimbare lejeră vă duce la Promenadă. Savurați prânzul și bucurați-vă de briza mării. După-amiaza, pedalați spre plaja Paralepa, renumită pentru apa sa caldă. Întoarcerea în orașul vechi pentru o cină binemeritată încheie o zi activă și revigorantă.",
+        "en": "Start from the historic railway station and cycle to the Bishop's Castle, the heart of the town. After exploring the castle and visiting Ilon's Wonderland, a gentle ride takes you to the Promenade. Enjoy lunch and the sea breeze. In the afternoon, cycle to Paralepa beach, famous for its warm water. The ride back to the old town for a well-deserved dinner concludes an active and refreshing day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Leib",
+            "tip": "Probieren Sie das estnische Schwarzbrot, eine nahrhafte Grundlage für jede Mahlzeit."
+          },
+          {
+            "name": "Hapsal Dietrich",
+            "tip": "Ein beliebtes Café mit köstlichen Kuchen und einer gemütlichen Atmosphäre."
+          },
+          {
+            "name": "Wiigi Kohvik",
+            "tip": "Bietet eine tolle Aussicht auf das Meer und eine moderne estnische Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Leib",
+            "tip": "Kóstolja meg az észt fekete kenyeret, minden étkezés tápláló alapját."
+          },
+          {
+            "name": "Hapsal Dietrich",
+            "tip": "Népszerű kávézó finom süteményekkel és hangulatos légkörrel."
+          },
+          {
+            "name": "Wiigi Kohvik",
+            "tip": "Nagyszerű kilátást nyújt a tengerre és modern észt konyhát kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Leib",
+            "tip": "Încercați pâinea neagră estoniană, o bază hrănitoare pentru orice masă."
+          },
+          {
+            "name": "Hapsal Dietrich",
+            "tip": "O cafenea populară cu prăjituri delicioase și o atmosferă primitoare."
+          },
+          {
+            "name": "Wiigi Kohvik",
+            "tip": "Oferă priveliști superbe la mare și bucătărie estoniană modernă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Leib",
+            "tip": "Try the Estonian black bread, a nutritious staple for any meal."
+          },
+          {
+            "name": "Hapsal Dietrich",
+            "tip": "A popular cafe with delicious cakes and a cozy atmosphere."
+          },
+          {
+            "name": "Wiigi Kohvik",
+            "tip": "Offers great sea views and modern Estonian cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Africa Pub und Strand",
+            "tip": "Ein entspannter Ort, um am Ende des Tages einen Drink mit Blick aufs Meer zu genießen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Friedhof von Haapsalu",
+            "tip": "Ein ruhiger und historischer Ort für einen nachdenklichen Spaziergang.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Promenaden-Pavillons",
+            "tip": "Finden Sie einen leeren Pavillon, setzen Sie sich und beobachten Sie die Schwäne.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Africa Pub és strand",
+            "tip": "Pihentető hely egy italra a nap végén, kilátással a tengerre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Haapsalui temető",
+            "tip": "Csendes és történelmi hely egy elgondolkodtató sétához.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sétány pavilonjai",
+            "tip": "Keressen egy üres pavilont, üljön le, és nézze a hattyúkat.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Africa Pub și plajă",
+            "tip": "Un loc relaxat pentru a savura o băutură la sfârșitul zilei cu vedere la mare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cimitirul din Haapsalu",
+            "tip": "Un loc liniștit și istoric pentru o plimbare contemplativă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pavilioanele de pe promenadă",
+            "tip": "Găsiți un pavilion gol, așezați-vă și priviți lebedele.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Africa Pub and beach",
+            "tip": "A relaxed place to enjoy a drink at the end of the day overlooking the sea.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Haapsalu Cemetery",
+            "tip": "A quiet and historic place for a contemplative walk.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Promenade pavilions",
+            "tip": "Find an empty pavilion, sit down and watch the swans.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Epp Maria Galerii",
+            "tip": "Finden Sie wunderschöne Kunstwerke und Drucke von lokalen Künstlern."
+          },
+          {
+            "name": "Heilender Schlamm aus Haapsalu",
+            "tip": "Kaufen Sie Produkte aus dem berühmten Heilschlamm der Stadt als einzigartiges Wellness-Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Epp Maria Galerii",
+            "tip": "Találjon gyönyörű műalkotásokat és nyomatokat helyi művészektől."
+          },
+          {
+            "name": "Haapsalui gyógyiszap",
+            "tip": "Vásároljon a város híres gyógyiszapjából készült termékeket egyedi wellness-szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galeria Epp Maria",
+            "tip": "Găsiți lucrări de artă și printuri frumoase de la artiști locali."
+          },
+          {
+            "name": "Nămol terapeutic din Haapsalu",
+            "tip": "Cumpărați produse făcute cu faimosul nămol curativ al orașului ca un suvenir unic de wellness."
+          }
+        ],
+        "en": [
+          {
+            "name": "Epp Maria Galerii",
+            "tip": "Find beautiful artwork and prints by local artists."
+          },
+          {
+            "name": "Haapsalu healing mud",
+            "tip": "Buy products made with the town's famous curative mud as a unique wellness souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck, bevor Sie losfahren.",
+          "Ein Fahrradschloss ist unerlässlich, um Ihr Fahrrad bei den Stopps zu sichern.",
+          "Die meisten Wege sind flach und einfach zu befahren, aber achten Sie auf Fußgänger auf der Promenade.",
+          "In der Stadt gibt es mehrere Fahrradverleihe, falls Sie kein eigenes mitbringen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "A biciklizár elengedhetetlen a megállók során.",
+          "A legtöbb út sík és könnyen járható, de figyeljen a gyalogosokra a promenádon.",
+          "A városban több kerékpárkölcsönző is található, ha nem hoz sajátot."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope înainte de a porni.",
+          "Un lacăt pentru bicicletă este esențial pentru a o securiza la opriri.",
+          "Majoritatea traseelor sunt plate și ușor de parcurs, dar fiți atenți la pietoni pe promenadă.",
+          "Există mai multe centre de închiriere de biciclete în oraș dacă nu aduceți una proprie."
+        ],
+        "en": [
+          "Check your tire pressure before setting off.",
+          "A bike lock is essential for securing your bike at stops.",
+          "Most paths are flat and easy to ride, but watch out for pedestrians on the promenade.",
+          "There are several bike rental shops in town if you don't bring your own."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Haapsalu",
+            "hu": "Haapsalui vasútállomás",
+            "ro": "Gara din Haapsalu",
+            "en": "Haapsalu Railway Station"
+          },
+          "coords": [
+            23.551,
+            58.941
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Guter Ausgangspunkt mit ausreichend Parkplätzen. Beginnen Sie hier Ihre Erkundung.",
+            "hu": "Jó kiindulópont bőséges parkolóval. Kezdje itt a felfedezést.",
+            "ro": "Un punct de plecare bun, cu parcare amplă. Începeți explorarea de aici.",
+            "en": "Good starting point with ample parking. Begin your exploration here."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Paralepa & Parkplatz",
+            "hu": "Paralepa strand és parkoló",
+            "ro": "Plaja Paralepa și parcare",
+            "en": "Paralepa Beach & Parking"
+          },
+          "coords": [
+            23.506,
+            58.94
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:04",
+          "stay_min": 90,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Genießen Sie einen Morgenspaziergang am Strand, bevor es in die Stadt geht.",
+            "hu": "Tegyen egy reggeli sétát a tengerparton, mielőtt bemegy a városba.",
+            "ro": "Bucurați-vă de o plimbare de dimineață pe plajă înainte de a vă îndrepta spre oraș.",
+            "en": "Enjoy a morning walk on the beach before heading into town."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz an der Burg",
+            "hu": "Parkoló a várnál",
+            "ro": "Parcare la castel",
+            "en": "Castle Parking Area"
+          },
+          "coords": [
+            23.5405,
+            58.9465
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:41",
+          "stay_min": 0,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 2.9,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Rest des Tages. Die Altstadt lässt sich am besten zu Fuß erkunden.",
+            "hu": "Parkoljon le itt a nap hátralévő részére. Az óvárost a legjobb gyalog felfedezni.",
+            "ro": "Parcați aici pentru restul zilei. Centrul vechi este cel mai bine explorat pe jos.",
+            "en": "Park here for the rest of the day. The old town is best explored on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Bischofsburg Haapsalu",
+            "hu": "Haapsalui püspöki vár",
+            "ro": "Castelul Episcopal din Haapsalu",
+            "en": "Haapsalu Bishop's Castle"
+          },
+          "coords": [
+            23.5385,
+            58.9475
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für das Museum im Inneren, es ist sehr informativ.",
+            "hu": "Szánjon időt a belső múzeumra, nagyon informatív.",
+            "ro": "Acordați-vă timp pentru muzeul din interior, este foarte informativ.",
+            "en": "Take your time for the museum inside, it's very informative."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Johannis Kirche",
+            "hu": "Szent János-templom",
+            "ro": "Biserica Sf. Ioan",
+            "en": "St. John's Church"
+          },
+          "coords": [
+            23.5362,
+            58.9481
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:51",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer, aber lohnender Besuch auf dem Weg zur Promenade.",
+            "hu": "Rövid, de érdemes megálló a promenád felé vezető úton.",
+            "ro": "O vizită scurtă, dar care merită, în drum spre Promenadă.",
+            "en": "A short but worthwhile visit on your way to the promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Haapsalu Promenade & Kursaal",
+            "hu": "Haapsalui promenád és Kursaal",
+            "ro": "Promenada și Kursaalul din Haapsalu",
+            "en": "Haapsalu Promenade & Kursaal"
+          },
+          "coords": [
+            23.53,
+            58.9518
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie zum Kursaal und zur Tschaikowski-Bank. Genießen Sie die Atmosphäre des Kurortes.",
+            "hu": "Sétáljon el a Kursaalhoz és a Csajkovszkij-padhoz. Élvezze a fürdővárosi hangulatot.",
+            "ro": "Plimbați-vă până la Kursaal și Banca lui Ceaikovski. Bucurați-vă de atmosfera stațiunii.",
+            "en": "Stroll to the Kursaal and the Tchaikovsky bench. Enjoy the resort town atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in der Altstadt",
+            "hu": "Vacsora az óvárosban",
+            "ro": "Cină în orașul vechi",
+            "en": "Dinner in the Old Town"
+          },
+          "coords": [
+            23.537,
+            58.947
+          ],
+          "category": "gastro",
+          "arrive_at": "16:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kehren Sie zu Fuß zum Burgbereich zurück, wo Sie eine große Auswahl an Restaurants finden.",
+            "hu": "Sétáljon vissza a vár környékére, ahol számos étterem közül választhat.",
+            "ro": "Mergeți pe jos înapoi spre zona castelului, unde veți găsi o varietate de restaurante.",
+            "en": "Walk back towards the castle area where you'll find a great choice of restaurants."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag bequem am historischen Bahnhof und fahren Sie dann zum ruhigen Strand von Paralepa. Nachdem Sie die Meeresluft genossen haben, parken Sie Ihr Auto in der Nähe der Burg für den Rest des Tages. Erkunden Sie die mächtige Bischofsburg und die benachbarte Kirche zu Fuß. Am Nachmittag schlendern Sie die malerische Promenade entlang zum Kursaal. Ein gemütliches Abendessen in der Altstadt rundet Ihren entspannten, aber ereignisreichen Tag ab.",
+        "hu": "Kezdje a napot kényelmesen a történelmi vasútállomásnál, majd hajtson a csendes Paralepa strandra. Miután élvezte a tengeri levegőt, parkolja le autóját a vár közelében a nap hátralévő részére. Fedezze fel gyalog a hatalmas püspöki várat és a szomszédos templomot. Délután sétáljon végig a festői promenádon a Kursaalig. Egy kellemes vacsora az óvárosban zárja a pihentető, mégis eseménydús napot.",
+        "ro": "Începeți ziua convenabil la gara istorică, apoi conduceți spre liniștita plajă Paralepa. După ce vă bucurați de aerul mării, parcați mașina lângă castel pentru restul zilei. Explorați pe jos puternicul Castel Episcopal și biserica adiacentă. După-amiaza, plimbați-vă de-a lungul pitoreștii Promenade până la Kursaal. O cină relaxantă în orașul vechi încheie o zi relaxantă, dar plină de evenimente.",
+        "en": "Start your day conveniently at the historic railway station, then drive to the tranquil Paralepa beach. After enjoying the sea air, park your car near the castle for the rest of the day. Explore the mighty Bishop's Castle and the adjacent church on foot. In the afternoon, stroll along the picturesque Promenade to the Kursaal. A leisurely dinner in the old town completes your relaxed yet eventful day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kärme Küülik",
+            "tip": "Ein Restaurant in der Altstadt, das für seine estnischen Gerichte mit modernem Touch bekannt ist."
+          },
+          {
+            "name": "R-pizza",
+            "tip": "Wenn Sie Lust auf etwas Vertrautes haben, ist dies ein beliebter lokaler Pizzaspot."
+          },
+          {
+            "name": "Müüriääre Pagar",
+            "tip": "Eine Bäckerei, die sich perfekt für einen Kaffee und ein Gebäck am Vormittag eignet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kärme Küülik",
+            "tip": "Óvárosi étterem, modern csavarral készült észt ételeiről ismert."
+          },
+          {
+            "name": "R-pizza",
+            "tip": "Ha valami ismerősre vágyik, ez egy népszerű helyi pizzéria."
+          },
+          {
+            "name": "Müüriääre Pagar",
+            "tip": "Pékség, tökéletes egy délelőtti kávéra és süteményre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kärme Küülik",
+            "tip": "Un restaurant în orașul vechi, cunoscut pentru bucătăria estoniană cu o notă modernă."
+          },
+          {
+            "name": "R-pizza",
+            "tip": "Dacă aveți poftă de ceva familiar, acesta este un loc popular de pizza local."
+          },
+          {
+            "name": "Müüriääre Pagar",
+            "tip": "O brutărie perfectă pentru o cafea și un produs de patiserie la mijlocul dimineții."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kärme Küülik",
+            "tip": "A restaurant in the Old Town known for its Estonian dishes with a modern twist."
+          },
+          {
+            "name": "R-pizza",
+            "tip": "If you're craving something familiar, this is a popular local pizza spot."
+          },
+          {
+            "name": "Müüriääre Pagar",
+            "tip": "A bakery perfect for a mid-morning coffee and pastry."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Uferpromenade am frühen Morgen",
+            "tip": "Besuchen Sie die Promenade vor den Menschenmassen für eine wirklich ruhige Erfahrung.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Aussicht vom Schlossturm",
+            "tip": "Genießen Sie einen Moment der Stille mit Panoramablick.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sonnenuntergang am Hafen Rohuküla",
+            "tip": "Eine kurze Autofahrt von der Stadt entfernt für einen spektakulären Sonnenuntergang über dem Meer.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kora reggeli tengerparti sétány",
+            "tip": "Látogasson el a promenádra a tömeg előtt egy igazán békés élményért.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás a vártoronyból",
+            "tip": "Élvezze a csendet a panorámás kilátással.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Naplemente a Rohuküla kikötőben",
+            "tip": "Rövid autóútra a várostól egy látványos tengeri naplementéért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada de dimineață devreme",
+            "tip": "Vizitați promenada înainte de mulțime pentru o experiență cu adevărat liniștită.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vedere din turnul castelului",
+            "tip": "Bucurați-vă de un moment de liniște cu vederi panoramice.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Apus de soare la portul Rohuküla",
+            "tip": "La o scurtă distanță cu mașina de oraș pentru un apus spectaculos peste mare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Early morning sea promenade",
+            "tip": "Visit the promenade before the crowds for a truly peaceful experience.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from the castle tower",
+            "tip": "Enjoy a moment of quiet with panoramic views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sunset at Rohuküla harbour",
+            "tip": "A short drive from town for a spectacular sunset over the sea.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Haapsalu Markt",
+            "tip": "Finden Sie frische lokale Produkte und vielleicht ein paar hausgemachte Konserven."
+          },
+          {
+            "name": "Antiquitätengeschäfte",
+            "tip": "Stöbern Sie nach Schätzen aus der sowjetischen Zeit und älteren baltischen Artefakten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Haapsalui piac",
+            "tip": "Találjon friss helyi termékeket és talán néhány házi készítésű befőttet."
+          },
+          {
+            "name": "Antikváriumok",
+            "tip": "Böngésszen a szovjet korabeli kincsek és régebbi balti tárgyak között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Haapsalu",
+            "tip": "Găsiți produse locale proaspete și poate câteva conserve de casă."
+          },
+          {
+            "name": "Magazine de antichități",
+            "tip": "Căutați comori din perioada sovietică și artefacte baltice mai vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Haapsalu Market",
+            "tip": "Find fresh local produce and maybe some homemade preserves."
+          },
+          {
+            "name": "Antique shops",
+            "tip": "Browse for treasures from the Soviet era and older Baltic artifacts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken in der Altstadt ist begrenzt; es ist am besten, am Rande zu parken und zu Fuß zu gehen.",
+          "Überprüfen Sie die Öffnungszeiten der Sehenswürdigkeiten, da sie saisonal variieren können.",
+          "Ein GPS ist nützlich, um sich auf den kleinen Straßen außerhalb des Stadtzentrums zurechtzufinden.",
+          "Halten Sie etwas Kleingeld für Parkuhren bereit."
+        ],
+        "hu": [
+          "Az óvárosban korlátozott a parkolás; a legjobb a szélén parkolni és gyalogolni.",
+          "Ellenőrizze a látnivalók nyitvatartási idejét, mivel szezonálisan változhat.",
+          "A GPS hasznos a városközponton kívüli kis utcákon való tájékozódáshoz.",
+          "Tartson magánál aprópénzt a parkolóórákhoz."
+        ],
+        "ro": [
+          "Parcarea în orașul vechi este limitată; cel mai bine este să parcați la periferie și să mergeți pe jos.",
+          "Verificați orele de deschidere ale atracțiilor, deoarece acestea pot varia sezonier.",
+          "Un GPS este util pentru a naviga pe străzile mici din afara centrului orașului.",
+          "Păstrați niște mărunțiș pentru parcometre."
+        ],
+        "en": [
+          "Parking in the old town is limited; it's best to park on the outskirts and walk.",
+          "Check the opening hours of attractions as they can vary seasonally.",
+          "A GPS is useful for navigating the small roads outside the town center.",
+          "Keep some change handy for parking meters."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:58",
+      "total_km": 5.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Busbahnhof",
+            "hu": "Központi buszpályaudvar",
+            "ro": "Autogara Centrală",
+            "en": "Central Bus Station"
+          },
+          "coords": [
+            23.542,
+            58.942
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier. Die meisten Buslinien der Stadt fahren hier ab.",
+            "hu": "Kezdje itt. A legtöbb városi buszjárat innen indul.",
+            "ro": "Începeți de aici. Majoritatea liniilor de autobuz din oraș pleacă de aici.",
+            "en": "Start here. Most of the town's bus lines originate from this point."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle Bischofsburg",
+            "hu": "Püspöki vár megálló",
+            "ro": "Stația Castelul Episcopal",
+            "en": "Bishop's Castle Stop"
+          },
+          "coords": [
+            23.541,
+            58.947
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:20",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie hier aus, um den ersten Besichtigungscluster zu beginnen.",
+            "hu": "Szálljon le itt az első látnivalócsoport megkezdéséhez.",
+            "ro": "Coborâți aici pentru a începe primul grup de obiective turistice.",
+            "en": "Get off here to start the first cluster of sights."
+          }
+        },
+        {
+          "name": {
+            "de": "Bischofsburg & St. Johannis Kirche",
+            "hu": "Püspöki vár és Szent János-templom",
+            "ro": "Castelul Episcopal și Biserica Sf. Ioan",
+            "en": "Bishop's Castle & St. John's Church"
+          },
+          "coords": [
+            23.538,
+            58.9478
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:24",
+          "stay_min": 150,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die Burg und die Kirche ausgiebig. Sie liegen nur wenige Schritte voneinander entfernt.",
+            "hu": "Fedezze fel alaposan a várat és a templomot. Csak pár lépésre vannak egymástól.",
+            "ro": "Explorați pe larg castelul și biserica. Sunt la doar câțiva pași una de cealaltă.",
+            "en": "Explore the castle and church extensively. They are just a few steps apart."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle Promenade",
+            "hu": "Promenád megálló",
+            "ro": "Stația Promenadă",
+            "en": "Promenade Stop"
+          },
+          "coords": [
+            23.532,
+            58.95
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:12",
+          "stay_min": 0,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Bus bringt Sie direkt zum Anfang der Promenade.",
+            "hu": "A busz egyenesen a promenád elejére visz.",
+            "ro": "Autobuzul vă va duce direct la începutul Promenadei.",
+            "en": "The bus will take you directly to the start of the promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Promenade, Kursaal & Tschaikowski-Bank",
+            "hu": "Promenád, Kursaal és Csajkovszkij-pad",
+            "ro": "Promenada, Kursaal și Banca lui Ceaikovski",
+            "en": "Promenade, Kursaal & Tchaikovsky's Bench"
+          },
+          "coords": [
+            23.529,
+            58.952
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:17",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner langer Spaziergang für den Nachmittag, mit vielen Fotomotiven und Bänken zum Ausruhen.",
+            "hu": "Egy szép hosszú séta a délutánra, sok fotólehetőséggel és pihenőpaddal.",
+            "ro": "O plimbare lungă și plăcută pentru după-amiază, cu multe oportunități foto și bănci pentru odihnă.",
+            "en": "A lovely long walk for the afternoon, with plenty of photo opportunities and benches to rest."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahnhof Haapsalu",
+            "hu": "Haapsalui vasútállomás",
+            "ro": "Gara din Haapsalu",
+            "en": "Haapsalu Railway Station"
+          },
+          "coords": [
+            23.551,
+            58.941
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:41",
+          "stay_min": 60,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 2.6,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour an diesem beeindruckenden Denkmal der Ingenieurskunst.",
+            "hu": "Fejezze be a túrát a mérnöki munka e lenyűgöző emlékművénél.",
+            "ro": "Încheiați-vă turul la acest monument impresionant de inginerie.",
+            "en": "End your tour at this impressive monument to engineering."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den lokalen Bus, um mühelos zwischen den Hauptattraktionen von Haapsalu zu wechseln. Beginnen Sie am zentralen Busbahnhof und fahren Sie zum Burgviertel, wo Sie die Burg und die Kirche zu Fuß erkunden. Am Mittag bringt Sie ein Bus zur berühmten Promenade. Verbringen Sie den Nachmittag mit einem Spaziergang am Meer, bewundern Sie den Kursaal und nehmen Sie auf der Tschaikowski-Bank Platz. Eine letzte Busfahrt bringt Sie zum beeindruckenden alten Bahnhof und rundet Ihren effizienten und angenehmen Tag ab.",
+        "hu": "Használja a helyi buszt, hogy könnyedén közlekedjen Haapsalu főbb látnivalói között. Kezdje a központi buszpályaudvaron, és utazzon a várnegyedbe, ahol gyalog fedezheti fel a várat és a templomot. Délben egy busz elviszi a híres promenádra. Töltse a délutánt a tengerparti sétával, csodálja meg a Kursaalt, és üljön le a Csajkovszkij-padra. Egy utolsó buszozás elviszi a lenyűgöző régi vasútállomáshoz, lezárva egy hatékony és élvezetes napot.",
+        "ro": "Folosiți autobuzul local pentru a vă deplasa fără efort între principalele atracții din Haapsalu. Începeți de la autogara centrală și mergeți în cartierul castelului, unde puteți explora castelul și biserica pe jos. La prânz, un autobuz vă va duce la faimoasa Promenadă. Petreceți după-amiaza plimbându-vă pe malul mării, admirând Kursaalul și stând pe Banca lui Ceaikovski. O ultimă călătorie cu autobuzul vă va duce la impresionanta gară veche, încheind o zi eficientă și plăcută.",
+        "en": "Use the local bus to move effortlessly between Haapsalu's main attractions. Start at the central bus station and travel to the castle district, where you can explore the castle and church on foot. At midday, a bus will take you to the famous Promenade. Spend the afternoon strolling by the sea, admiring the Kursaal, and sitting on Tchaikovsky's Bench. A final bus ride takes you to the impressive old railway station, concluding your efficient and enjoyable day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Herman Bistro & Bar",
+            "tip": "Ein zwangloses Lokal mit guter, ehrlicher Kost, leicht mit dem Bus zu erreichen."
+          },
+          {
+            "name": "Pizza Grande",
+            "tip": "Eine weitere zuverlässige Option für eine schnelle und sättigende Mahlzeit."
+          },
+          {
+            "name": "Taksi Pubi",
+            "tip": "Ein lokaler Pub für ein authentisches estnisches Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Herman Bistro & Bar",
+            "tip": "Lazább hely, jó, becsületes ételekkel, busszal könnyen megközelíthető."
+          },
+          {
+            "name": "Pizza Grande",
+            "tip": "Egy másik megbízható lehetőség egy gyors és laktató étkezéshez."
+          },
+          {
+            "name": "Taksi Pubi",
+            "tip": "Helyi pub egy autentikus észt ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Herman Bistro & Bar",
+            "tip": "Un loc casual cu mâncare bună, onestă, ușor accesibil cu autobuzul."
+          },
+          {
+            "name": "Pizza Grande",
+            "tip": "O altă opțiune de încredere pentru o masă rapidă și sățioasă."
+          },
+          {
+            "name": "Taksi Pubi",
+            "tip": "Un pub local pentru un prânz estonian autentic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Herman Bistro & Bar",
+            "tip": "A casual spot with good, honest food, easily accessible by bus."
+          },
+          {
+            "name": "Pizza Grande",
+            "tip": "Another reliable option for a quick and filling meal."
+          },
+          {
+            "name": "Taksi Pubi",
+            "tip": "A local pub for an authentic Estonian lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Väike Viik See",
+            "tip": "Ein kleiner See in der Nähe des Zentrums, oft ruhig und voller Vögel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ende der Promenade",
+            "tip": "Gehen Sie bis zum Ende für weniger Menschen und eine weite Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Leseecke in der Stadtbibliothek",
+            "tip": "Wenn Sie eine Pause im Inneren brauchen, ist die Bibliothek ein ruhiger Zufluchtsort.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Väike Viik-tó",
+            "tip": "Kis tó a központ közelében, gyakran csendes és tele madarakkal.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A promenád vége",
+            "tip": "Menjen el a végéig a kevesebb emberért és a széles kilátásért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Olvasósarok a városi könyvtárban",
+            "tip": "Ha bent van szüksége szünetre, a könyvtár csendes menedék.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Väike Viik",
+            "tip": "Un mic lac aproape de centru, adesea liniștit și plin de păsări.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Capătul Promenadei",
+            "tip": "Mergeți până la capăt pentru mai puțini oameni și o priveliște vastă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Colțul de lectură la Biblioteca Orășenească",
+            "tip": "Dacă aveți nevoie de o pauză în interior, biblioteca este un refugiu liniștit.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Väike Viik lake",
+            "tip": "A small lake close to the center, often quiet and full of birds.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "End of the Promenade",
+            "tip": "Walk to the very end for fewer people and an expansive view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Reading corner at the Town Library",
+            "tip": "If you need an indoor break, the library is a quiet haven.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Apothekenmuseum",
+            "tip": "Verkauft einige interessante historische Heilmittel und Kräutertees."
+          },
+          {
+            "name": "Postkarten aus dem Touristeninformationszentrum",
+            "tip": "Holen Sie sich einzigartige Postkarten, die die Schönheit der Stadt zeigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Patikamúzeum",
+            "tip": "Érdekes történelmi gyógymódokat és gyógyteákat árulnak.",
+            "emoji": "🛍️"
+          },
+          {
+            "name": "Képeslapok a turisztikai információs központból",
+            "tip": "Szerezzen egyedi képeslapokat, amelyek a város szépségét mutatják be."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Muzeul Farmaciei",
+            "tip": "Vinde câteva remedii istorice interesante și ceaiuri de plante."
+          },
+          {
+            "name": "Cărți poștale de la Centrul de Informare Turistică",
+            "tip": "Obțineți cărți poștale unice care prezintă frumusețea orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pharmacy Museum",
+            "tip": "Sells some interesting historical remedies and herbal teas."
+          },
+          {
+            "name": "Postcards from the Tourist Information Centre",
+            "tip": "Get unique postcards showcasing the town's beauty."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere an Wochenenden.",
+          "Die Busse sind möglicherweise nicht häufig, planen Sie Ihre Zeit an jeder Haltestelle entsprechend.",
+          "Winken Sie dem Busfahrer zu, damit er weiß, dass Sie einsteigen möchten."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Előre ellenőrizze a buszmenetrendet, különösen hétvégén.",
+          "A buszok ritkán járhatnak, tervezze meg az idejét minden megállónál.",
+          "Intsen a buszsofőrnek, hogy tudja, fel akar szállni."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Verificați programul autobuzelor în avans, mai ales în weekend.",
+          "Autobuzele s-ar putea să nu fie frecvente, așa că planificați-vă timpul la fiecare oprire în consecință.",
+          "Faceți semn șoferului de autobuz pentru a-l anunța că doriți să urcați."
+        ],
+        "en": [
+          "Buy a day ticket for unlimited travel.",
+          "Check the bus schedule in advance, especially on weekends.",
+          "Buses may not be frequent, so plan your time at each stop accordingly.",
+          "Wave to the bus driver to let them know you want to board."
+        ]
+      }
+    }
+  }
+}

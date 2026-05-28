@@ -1,0 +1,1166 @@
+{
+  "city_id": "romania-targsoru-vechi-cities-v2",
+  "anchor": {
+    "name": "Târgșoru Vechi",
+    "coords": [
+      25.96,
+      44.9
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Archäologisches Reservat Târgșoru Vechi",
+            "hu": "Târgșoru Vechi Régészeti Rezervátum",
+            "ro": "Rezervația Arheologică Târgșoru Vechi",
+            "en": "Târgșoru Vechi Archaeological Reserve"
+          },
+          "coords": [
+            25.96,
+            44.9
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Tragen Sie bequeme Schuhe; das Gelände ist weitläufig.",
+            "hu": "Viselj kényelmes cipőt, a terület hatalmas.",
+            "ro": "Purtați încălțăminte comodă; situl este extins.",
+            "en": "Wear comfortable shoes; the area is extensive."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Thermen",
+            "hu": "Római kori fürdők",
+            "ro": "Thermele Romane",
+            "en": "Roman Baths"
+          },
+          "coords": [
+            25.961,
+            44.898
+          ],
+          "category": "historical",
+          "arrive_at": "10:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Stellen Sie sich das rege Treiben in der Antike vor.",
+            "hu": "Képzeld el az ókori nyüzsgést ezen a helyen.",
+            "ro": "Imaginați-vă agitația socială din antichitate.",
+            "en": "Imagine the social buzz of ancient times here."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Rote und Weiße Kirche (Ruinen)",
+            "hu": "A Vörös és Fehér Templom (romok)",
+            "ro": "Biserica Roșie și Biserica Albă (ruine)",
+            "en": "The Red and White Church (ruins)"
+          },
+          "coords": [
+            25.958,
+            44.899
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:18",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Die verbleibenden Fresken sind beeindruckend.",
+            "hu": "A megmaradt freskók lenyűgözőek.",
+            "ro": "Frescele rămase sunt încă impresionante.",
+            "en": "The remaining frescoes are still impressive."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Turnu",
+            "hu": "Turnu kolostor",
+            "ro": "Mănăstirea Turnu",
+            "en": "Turnu Monastery"
+          },
+          "coords": [
+            25.962,
+            44.901
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein Ort der Ruhe inmitten der historischen Stätte.",
+            "hu": "A nyugalom szigete a történelmi helyszín közepén.",
+            "ro": "Un loc de liniște în mijlocul sitului istoric.",
+            "en": "An oasis of peace in the middle of the historical site."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Ausgrabungsstätte",
+            "hu": "A régészeti lelőhely múzeuma",
+            "ro": "Muzeul sitului arheologic",
+            "en": "Museum of the Archaeological Site"
+          },
+          "coords": [
+            25.959,
+            44.902
+          ],
+          "category": "museums",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekt, um die gefundenen Artefakte im Kontext zu sehen.",
+            "hu": "Tökéletes hely a leletek kontextusba helyezésére.",
+            "ro": "Perfect pentru a vedea artefactele descoperite în context.",
+            "en": "Perfect for seeing the discovered artifacts in context."
+          }
+        },
+        {
+          "name": {
+            "de": "Moruzi-Herrenhaus",
+            "hu": "Moruzi-kúria",
+            "ro": "Conacul Moruzi",
+            "en": "Moruzi Mansion"
+          },
+          "coords": [
+            25.955,
+            44.904
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:49",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Obwohl eine Ruine, zeugt es von vergangener Pracht.",
+            "hu": "Bár romos, tanúskodik a hajdani pompáról.",
+            "ro": "Deși o ruină, încă vorbește despre splendoarea trecută.",
+            "en": "Although a ruin, it still speaks of past splendour."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für Michael den Tapferen",
+            "hu": "Vitéz Mihály emlékműve",
+            "ro": "Monumentul lui Mihai Viteazul",
+            "en": "Monument of Michael the Brave"
+          },
+          "coords": [
+            25.957,
+            44.903
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:33",
+          "stay_min": 42,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein wichtiger historischer Bezugspunkt für die Region.",
+            "hu": "A régió fontos történelmi vonatkozási pontja.",
+            "ro": "Un punct de referință istoric important pentru regiune.",
+            "en": "An important historical reference point for the region."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im Herzen der Geschichte, dem Archäologischen Reservat. Am Vormittag erkunden Sie die Spuren der Römer und mittelalterlichen Kirchen. Nach dem Mittagessen tauchen Sie im Museum tiefer in die Vergangenheit ein. Der Nachmittag ist den Ruinen alter Adelsresidenzen und nationalen Helden gewidmet und schließt einen Tag voller Entdeckungen ab.",
+        "hu": "A nap a történelem szívében, a régészeti rezervátumban kezdődik. Délelőtt a rómaiak nyomait és a középkori templomokat fedezi fel. Ebéd után a múzeumban mélyül el a múltban. A délután a régi nemesi rezidenciák romjairól és a nemzeti hősökről szól, lezárva egy felfedezésekkel teli napot.",
+        "ro": "Ziua începe în inima istoriei, la Rezervația Arheologică. Dimineața explorați vestigiile romane și bisericile medievale. După prânz, aprofundați trecutul la muzeu. După-amiaza este dedicată ruinelor conacelor nobiliare și eroilor naționali, încheind o zi plină de descoperiri.",
+        "en": "Your day begins in the heart of history at the Archaeological Reserve. In the morning, you'll explore Roman vestiges and medieval churches. After lunch, delve deeper into the past at the museum. The afternoon is dedicated to the ruins of noble mansions and national heroes, concluding a day full of discovery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokales Restaurant in Ploiești",
+            "tip": "Probieren Sie 'Mici' und 'Sarmale' für einen authentischen rumänischen Geschmack, da es vor Ort nur begrenzte Möglichkeiten gibt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi étterem Ploieștiben",
+            "tip": "Kóstolja meg a 'Mici'-t és a 'Sarmale'-t egy autentikus román ízélményért, mivel a helyszínen korlátozottak a lehetőségek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant local în Ploiești",
+            "tip": "Încercați micii și sarmalele pentru un gust autentic românesc, opțiunile la fața locului fiind limitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Restaurant in Ploiești",
+            "tip": "Try 'Mici' and 'Sarmale' for an authentic Romanian taste, as options on site are limited."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "In den Ruinen der Weißen Kirche",
+            "tip": "Finden Sie eine ruhige Ecke und denken Sie über die jahrhundertelange Geschichte nach.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Fehér Templom romjainál",
+            "tip": "Keressen egy csendes zugot, és merengjen el az évszázados történelmen.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lângă ruinele Bisericii Albe",
+            "tip": "Găsiți un colț liniștit și reflectați la secolele de istorie.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "By the ruins of the White Church",
+            "tip": "Find a quiet corner and reflect on the centuries of history.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsshop",
+            "tip": "Kaufen Sie Bücher über die lokale Geschichte oder kleine archäologische Repliken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Múzeumi bolt",
+            "tip": "Vásároljon a helyi történelemről szóló könyveket vagy kis régészeti másolatokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul muzeului",
+            "tip": "Cumpărați cărți despre istoria locală sau mici replici arheologice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Museum Shop",
+            "tip": "Purchase books on local history or small archaeological replicas."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bringen Sie Wasser und Snacks mit, da die Verpflegungsmöglichkeiten begrenzt sind.",
+          "Die Beschilderung ist hauptsächlich auf Rumänisch, ein Offline-Wörterbuch kann hilfreich sein.",
+          "Prüfen Sie die Öffnungszeiten des Museums im Voraus.",
+          "Der gesamte Komplex ist im Freien, also kleiden Sie sich dem Wetter entsprechend."
+        ],
+        "hu": [
+          "Hozzon vizet és harapnivalót, mivel az étkezési lehetőségek korlátozottak.",
+          "A táblák főleg román nyelvűek, egy offline szótár hasznos lehet.",
+          "Előre ellenőrizze a múzeum nyitvatartási idejét.",
+          "Az egész komplexum szabadtéri, öltözzön az időjárásnak megfelelően."
+        ],
+        "ro": [
+          "Aduceți apă și gustări, deoarece opțiunile de luat masa sunt limitate.",
+          "Indicatoarele sunt în mare parte în limba română, un dicționar offline poate fi util.",
+          "Verificați programul de funcționare al muzeului în avans.",
+          "Întregul complex este în aer liber, așa că îmbrăcați-vă corespunzător vremii."
+        ],
+        "en": [
+          "Bring water and snacks, as dining options are limited.",
+          "Signage is mostly in Romanian, an offline dictionary can be helpful.",
+          "Check the museum's opening hours in advance.",
+          "The entire complex is outdoors, so dress for the weather."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Archäologisches Reservat Târgșoru Vechi",
+            "hu": "Târgșoru Vechi Régészeti Rezervátum",
+            "ro": "Rezervația Arheologică Târgșoru Vechi",
+            "en": "Târgșoru Vechi Archaeological Reserve"
+          },
+          "coords": [
+            25.96,
+            44.9
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Eingang sicher ab.",
+            "hu": "Zárja le biztonságosan a kerékpárt a bejáratnál.",
+            "ro": "Asigurați-vă bicicleta la intrare.",
+            "en": "Securely lock your bike at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Thermen",
+            "hu": "Római kori fürdők",
+            "ro": "Thermele Romane",
+            "en": "Roman Baths"
+          },
+          "coords": [
+            25.961,
+            44.898
+          ],
+          "category": "historical",
+          "arrive_at": "10:43",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die Wege können uneben sein, fahren Sie vorsichtig.",
+            "hu": "Az utak egyenetlenek lehetnek, óvatosan közlekedjen.",
+            "ro": "Căile pot fi denivelate, pedalați cu prudență.",
+            "en": "The paths can be uneven, ride with care."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Rote und Weiße Kirche (Ruinen)",
+            "hu": "A Vörös és Fehér Templom (romok)",
+            "ro": "Biserica Roșie și Biserica Albă (ruine)",
+            "en": "The Red and White Church (ruins)"
+          },
+          "coords": [
+            25.958,
+            44.899
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:16",
+          "stay_min": 50,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein guter Ort für eine kurze Pause und ein Foto.",
+            "hu": "Jó hely egy rövid szünetre és egy fotóra.",
+            "ro": "Un loc bun pentru o pauză scurtă și o fotografie.",
+            "en": "A good spot for a short break and a photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Turnu",
+            "hu": "Turnu kolostor",
+            "ro": "Mănăstirea Turnu",
+            "en": "Turnu Monastery"
+          },
+          "coords": [
+            25.962,
+            44.901
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Zeigen Sie Respekt und betreten Sie das Klostergelände zu Fuß.",
+            "hu": "Mutasson tiszteletet, és gyalog lépjen be a kolostor területére.",
+            "ro": "Arătați respect și intrați pe jos în incinta mănăstirii.",
+            "en": "Show respect and enter the monastery grounds on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Ausgrabungsstätte",
+            "hu": "A régészeti lelőhely múzeuma",
+            "ro": "Muzeul sitului arheologic",
+            "en": "Museum of the Archaeological Site"
+          },
+          "coords": [
+            25.959,
+            44.902
+          ],
+          "category": "museums",
+          "arrive_at": "13:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das Fahrrad muss draußen bleiben; nehmen Sie Wertsachen mit.",
+            "hu": "A kerékpárnak kint kell maradnia; vigye magával az értékeit.",
+            "ro": "Bicicleta trebuie lăsată afară; luați obiectele de valoare.",
+            "en": "The bicycle must be left outside; take your valuables with you."
+          }
+        },
+        {
+          "name": {
+            "de": "Moruzi-Herrenhaus",
+            "hu": "Moruzi-kúria",
+            "ro": "Conacul Moruzi",
+            "en": "Moruzi Mansion"
+          },
+          "coords": [
+            25.955,
+            44.904
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Sehen Sie die Ruinen aus der Ferne; das Betreten ist möglicherweise nicht sicher.",
+            "hu": "A romokat távolról nézze meg, a belépés nem biztos, hogy biztonságos.",
+            "ro": "Vedeți ruinele de la distanță; intrarea poate fi nesigură.",
+            "en": "View the ruins from a distance; entry may not be safe."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für Michael den Tapferen",
+            "hu": "Vitéz Mihály emlékműve",
+            "ro": "Monumentul lui Mihai Viteazul",
+            "en": "Monument of Michael the Brave"
+          },
+          "coords": [
+            25.957,
+            44.903
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:13",
+          "stay_min": 62,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein kurzer Halt, um dem Nationalhelden zu gedenken.",
+            "hu": "Egy rövid megálló a nemzeti hős tiszteletére.",
+            "ro": "O oprire scurtă pentru a comemora eroul național.",
+            "en": "A brief stop to commemorate the national hero."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auf zwei Rädern durchqueren Sie mühelos das riesige archäologische Gebiet. Der Vormittag ist dem schnellen Wechsel zwischen römischen Ruinen und mittelalterlichen Kirchen gewidmet. Nach einem informativen Museumsbesuch am Mittag führt Sie die Radtour am Nachmittag zu den Überresten des Adels und schließt mit einer Hommage an die rumänische Geschichte.",
+        "hu": "Két keréken könnyedén bejárhatja a hatalmas régészeti területet. A délelőtt a római romok és középkori templomok közötti gyors váltásról szól. Egy informatív múzeumi látogatás után délben a délutáni kerékpártúra a nemesi maradványokhoz vezet, és a román történelem előtti tisztelgéssel zárul.",
+        "ro": "Pe două roți, traversați cu ușurință vastul sit arheologic. Dimineața este dedicată explorării rapide a ruinelor romane și bisericilor medievale. După o vizită informativă la muzeu la prânz, turul cu bicicleta de după-amiază vă duce la vestigiile nobiliare, încheind cu un omagiu adus istoriei românești.",
+        "en": "On two wheels, you'll effortlessly traverse the vast archaeological area. The morning is for swiftly moving between Roman ruins and medieval churches. After an informative museum visit at noon, the afternoon bike ride takes you to the remnants of nobility, concluding with a tribute to Romanian history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Picknick im Reservat",
+            "tip": "Bringen Sie Ihr eigenes Essen mit und genießen Sie es mit Blick auf die Ruinen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piknik a rezervátumban",
+            "tip": "Hozzon saját ételt, és fogyassza el a romokra néző kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Picnic în rezervație",
+            "tip": "Aduceți-vă propria mâncare și savurați-o cu o priveliște asupra ruinelor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Picnic in the Reserve",
+            "tip": "Bring your own food and enjoy it with a view of the ruins."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Nahe dem Kloster Turnu",
+            "tip": "Die friedliche Atmosphäre des Klosters ist ideal für einen Moment der Stille.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Turnu kolostor közelében",
+            "tip": "A kolostor békés légköre ideális egy csendes pillanatra.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lângă Mănăstirea Turnu",
+            "tip": "Atmosfera pașnică a mănăstirii este ideală pentru un moment de liniște.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Near Turnu Monastery",
+            "tip": "The peaceful atmosphere of the monastery is ideal for a moment of silence.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Produkte im nächsten Dorf",
+            "tip": "Suchen Sie nach lokalem Honig oder Käse als authentisches Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termékek a legközelebbi faluban",
+            "tip": "Keressen helyi mézet vagy sajtot autentikus ajándékként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse locale în satul apropiat",
+            "tip": "Căutați miere sau brânză locală ca suvenir autentic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local produce in the nearest village",
+            "tip": "Look for local honey or cheese as an authentic souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein Mountainbike ist aufgrund der unbefestigten Wege besser geeignet als ein Rennrad.",
+          "Nehmen Sie ein Reparaturset für Reifenpannen mit.",
+          "Das Gelände ist offen und kann windig sein.",
+          "Respektieren Sie die archäologische Stätte und fahren Sie nur auf den Wegen."
+        ],
+        "hu": [
+          "A földutak miatt egy mountain bike alkalmasabb, mint egy országúti kerékpár.",
+          "Vigyen magával defektjavító készletet.",
+          "A terep nyitott és szeles lehet.",
+          "Tartsa tiszteletben a régészeti lelőhelyet, és csak az utakon közlekedjen."
+        ],
+        "ro": [
+          "O bicicletă de munte este mai potrivită decât una de șosea din cauza drumurilor neasfaltate.",
+          "Luați un kit de reparații pentru pene de cauciuc.",
+          "Terenul este deschis și poate fi vântos.",
+          "Respectați situl arheologic și circulați doar pe poteci."
+        ],
+        "en": [
+          "A mountain bike is more suitable than a road bike due to the unpaved paths.",
+          "Carry a puncture repair kit.",
+          "The area is open and can be windy.",
+          "Respect the archaeological site and only ride on the paths."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 17.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Archäologischen Reservat",
+            "hu": "Parkoló a Régészeti Rezervátumnál",
+            "ro": "Parcare la Rezervația Arheologică",
+            "en": "Parking at the Archaeological Reserve"
+          },
+          "coords": [
+            25.96,
+            44.9
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 15,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier Ihr Auto für den Tag. Die Erkundung erfolgt zu Fuß.",
+            "hu": "Parkolja le itt az autóját a napra. A felfedezés gyalog történik.",
+            "ro": "Parcați mașina aici pentru întreaga zi. Explorarea se face pe jos.",
+            "en": "Park your car here for the day. The exploration is on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Thermen",
+            "hu": "Római kori fürdők",
+            "ro": "Thermele Romane",
+            "en": "Roman Baths"
+          },
+          "coords": [
+            25.961,
+            44.898
+          ],
+          "category": "historical",
+          "arrive_at": "10:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptbereich des Reservats.",
+            "hu": "Egy rövid séta a rezervátum fő részétől.",
+            "ro": "O scurtă plimbare de la zona principală a rezervației.",
+            "en": "A short walk from the main reserve area."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Rote und Weiße Kirche (Ruinen)",
+            "hu": "A Vörös és Fehér Templom (romok)",
+            "ro": "Biserica Roșie și Biserica Albă (ruine)",
+            "en": "The Red and White Church (ruins)"
+          },
+          "coords": [
+            25.958,
+            44.899
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:18",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese Ruinen liegen nahe beieinander.",
+            "hu": "Ezek a romok közel vannak egymáshoz.",
+            "ro": "Aceste ruine sunt aproape una de cealaltă.",
+            "en": "These ruins are close to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Turnu",
+            "hu": "Turnu kolostor",
+            "ro": "Mănăstirea Turnu",
+            "en": "Turnu Monastery"
+          },
+          "coords": [
+            25.962,
+            44.901
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Spaziergang zum Kloster ist Teil des Erlebnisses.",
+            "hu": "A kolostorhoz vezető séta az élmény része.",
+            "ro": "Plimbarea până la mănăstire face parte din experiență.",
+            "en": "The walk to the monastery is part of the experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Ausgrabungsstätte",
+            "hu": "A régészeti lelőhely múzeuma",
+            "ro": "Muzeul sitului arheologic",
+            "en": "Museum of the Archaeological Site"
+          },
+          "coords": [
+            25.959,
+            44.902
+          ],
+          "category": "museums",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kehren Sie zurück zum zentralen Bereich, um das Museum zu besuchen.",
+            "hu": "Térjen vissza a központi területre a múzeum megtekintéséhez.",
+            "ro": "Întoarceți-vă în zona centrală pentru a vizita muzeul.",
+            "en": "Return to the central area to visit the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Moruzi-Herrenhaus",
+            "hu": "Moruzi-kúria",
+            "ro": "Conacul Moruzi",
+            "en": "Moruzi Mansion"
+          },
+          "coords": [
+            25.955,
+            44.904
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:49",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein weiterer kurzer Spaziergang zu den aristokratischen Ruinen.",
+            "hu": "Egy újabb rövid séta az arisztokratikus romokhoz.",
+            "ro": "O altă plimbare scurtă spre ruinele aristocratice.",
+            "en": "Another short walk to the aristocratic ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück zum Parkplatz",
+            "hu": "Vissza a parkolóba",
+            "ro": "Înapoi la parcare",
+            "en": "Return to Parking"
+          },
+          "coords": [
+            25.96,
+            44.9
+          ],
+          "category": "transport",
+          "arrive_at": "15:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zeit, zum Auto zurückzukehren und den Tag ausklingen zu lassen.",
+            "hu": "Ideje visszatérni az autóhoz, és lezárni a napot.",
+            "ro": "Timpul să vă întoarceți la mașină și să încheiați ziua.",
+            "en": "Time to return to the car and wrap up the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens zum Archäologischen Reservat, parken Sie Ihr Auto und beginnen Sie Ihre Zeitreise zu Fuß. Der gesamte Tag ist ein einziger Spaziergang durch die Geschichte, von römischen Bädern über mittelalterliche Kirchen bis hin zu Adelsruinen. Am Nachmittag kehren Sie nach einem umfassenden Rundgang zum Auto zurück, erfüllt von den Eindrücken einer vergangenen Epoche.",
+        "hu": "Reggel vezessen a régészeti rezervátumhoz, parkolja le az autót, és kezdje meg gyalogos időutazását. Az egész nap egyetlen történelmi séta, a római fürdőktől a középkori templomokon át a nemesi romokig. Délután egy átfogó séta után tér vissza az autójához, feltöltődve egy letűnt korszak benyomásaival.",
+        "ro": "Dimineața conduceți la Rezervația Arheologică, parcați mașina și începeți călătoria în timp pe jos. Întreaga zi este o singură plimbare prin istorie, de la băi romane la biserici medievale și ruine nobiliare. După-amiaza, după un tur complet, vă întoarceți la mașină, plini de impresiile unei epoci apuse.",
+        "en": "In the morning, drive to the Archaeological Reserve, park your car, and begin your journey back in time on foot. The entire day is a single walk through history, from Roman baths to medieval churches and noble ruins. In the afternoon, after a comprehensive tour, you return to your car, filled with impressions of a bygone era."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Casa Arcașului",
+            "tip": "Ein Restaurant in der Nähe in Ploiești, bekannt für seine traditionelle rumänische Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Casa Arcașului Étterem",
+            "tip": "Egy közeli étterem Ploieștiben, amely hagyományos román konyhájáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Casa Arcașului",
+            "tip": "Un restaurant din apropiere, în Ploiești, cunoscut pentru bucătăria sa tradițională românească."
+          }
+        ],
+        "en": [
+          {
+            "name": "Casa Arcașului Restaurant",
+            "tip": "A nearby restaurant in Ploiești known for its traditional Romanian cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Am Rande des Reservats",
+            "tip": "Gehen Sie etwas abseits der Hauptwege, um die Weite und Stille der Landschaft zu genießen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A rezervátum szélén",
+            "tip": "Menjen kissé távolabb a fő ösvényektől, hogy élvezze a táj tágasságát és csendjét.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "La marginea rezervației",
+            "tip": "Îndepărtați-vă puțin de potecile principale pentru a vă bucura de vastitatea și liniștea peisajului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "On the edge of the reserve",
+            "tip": "Walk a bit away from the main paths to enjoy the vastness and silence of the landscape.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Einkaufszentrum in Ploiești",
+            "tip": "Auf dem Rückweg können Sie in einem der Einkaufszentren von Ploiești Halt machen, um umfassendere Einkaufsmöglichkeiten zu finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bevásárlóközpont Ploieștiben",
+            "tip": "Visszafelé megállhat Ploiești egyik bevásárlóközpontjában a szélesebb körű vásárlási lehetőségekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centru comercial în Ploiești",
+            "tip": "La întoarcere, opriți-vă la unul dintre mall-urile din Ploiești pentru cumpărături mai ample."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shopping Mall in Ploiești",
+            "tip": "On your way back, stop at one of Ploiești's malls for more extensive shopping."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie vor der Abfahrt die Straßenverhältnisse.",
+          "Ein Auto gibt Ihnen die Flexibilität, danach noch andere nahegelegene Sehenswürdigkeiten zu besuchen.",
+          "Lassen Sie keine Wertsachen sichtbar im Auto liegen.",
+          "Der Parkplatz ist möglicherweise nicht bewacht."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze az útviszonyokat.",
+          "Az autó rugalmasságot ad, hogy utána más közeli látnivalókat is meglátogasson.",
+          "Ne hagyjon értéktárgyakat látható helyen az autóban.",
+          "A parkoló valószínűleg nem őrzött."
+        ],
+        "ro": [
+          "Verificați starea drumurilor înainte de a pleca.",
+          "Mașina vă oferă flexibilitatea de a vizita și alte atracții din apropiere după aceea.",
+          "Nu lăsați obiecte de valoare la vedere în mașină.",
+          "Parcarea s-ar putea să nu fie păzită."
+        ],
+        "en": [
+          "Check road conditions before you leave.",
+          "A car gives you the flexibility to visit other nearby attractions afterwards.",
+          "Do not leave valuables visible in the car.",
+          "The parking area may not be guarded."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 7.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bushaltestelle Târgșoru Vechi",
+            "hu": "Târgșoru Vechi buszmegálló",
+            "ro": "Stația de autobuz Târgșoru Vechi",
+            "en": "Târgșoru Vechi Bus Stop"
+          },
+          "coords": [
+            25.965,
+            44.905
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Von hier aus beginnt Ihr Spaziergang durch die Geschichte.",
+            "hu": "Innen indul a történelmi séta.",
+            "ro": "De aici începe plimbarea dumneavoastră prin istorie.",
+            "en": "Your walk through history starts from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Reservat Târgșoru Vechi",
+            "hu": "Târgșoru Vechi Régészeti Rezervátum",
+            "ro": "Rezervația Arheologică Târgșoru Vechi",
+            "en": "Târgșoru Vechi Archaeological Reserve"
+          },
+          "coords": [
+            25.96,
+            44.9
+          ],
+          "category": "historical",
+          "arrive_at": "09:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Hauptanziehungspunkt ist nur einen kurzen Spaziergang entfernt.",
+            "hu": "A fő látványosság csak egy rövid sétára van.",
+            "ro": "Atracția principală este la o scurtă plimbare.",
+            "en": "The main attraction is just a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Thermen",
+            "hu": "Római kori fürdők",
+            "ro": "Thermele Romane",
+            "en": "Roman Baths"
+          },
+          "coords": [
+            25.961,
+            44.898
+          ],
+          "category": "historical",
+          "arrive_at": "11:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Folgen Sie den Schildern innerhalb des Reservats.",
+            "hu": "Kövesse a táblákat a rezervátumon belül.",
+            "ro": "Urmați indicatoarele din interiorul rezervației.",
+            "en": "Follow the signs within the reserve."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Rote und Weiße Kirche (Ruinen)",
+            "hu": "A Vörös és Fehér Templom (romok)",
+            "ro": "Biserica Roșie și Biserica Albă (ruine)",
+            "en": "The Red and White Church (ruins)"
+          },
+          "coords": [
+            25.958,
+            44.899
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:08",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein faszinierender Einblick in die mittelalterliche Sakralarchitektur.",
+            "hu": "Lenyűgöző betekintés a középkori szakrális építészetbe.",
+            "ro": "O privire fascinantă asupra arhitecturii sacre medievale.",
+            "en": "A fascinating glimpse into medieval sacred architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Turnu",
+            "hu": "Turnu kolostor",
+            "ro": "Mănăstirea Turnu",
+            "en": "Turnu Monastery"
+          },
+          "coords": [
+            25.962,
+            44.901
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein aktives Kloster, also kleiden Sie sich bitte respektvoll.",
+            "hu": "Ez egy működő kolostor, kérjük, öltözzön tisztelettudóan.",
+            "ro": "O mănăstire activă, așa că vă rugăm să vă îmbrăcați respectuos.",
+            "en": "An active monastery, so please dress respectfully."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Ausgrabungsstätte",
+            "hu": "A régészeti lelőhely múzeuma",
+            "ro": "Muzeul sitului arheologic",
+            "en": "Museum of the Archaeological Site"
+          },
+          "coords": [
+            25.959,
+            44.902
+          ],
+          "category": "museums",
+          "arrive_at": "14:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verbringen Sie hier Zeit, um die Bedeutung der Ruinen zu verstehen.",
+            "hu": "Töltsön itt időt, hogy megértse a romok jelentőségét.",
+            "ro": "Petreceți timp aici pentru a înțelege semnificația ruinelor.",
+            "en": "Spend time here to understand the significance of the ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück zur Bushaltestelle",
+            "hu": "Vissza a buszmegállóba",
+            "ro": "Înapoi la stația de autobuz",
+            "en": "Return to the Bus Stop"
+          },
+          "coords": [
+            25.965,
+            44.905
+          ],
+          "category": "transport",
+          "arrive_at": "15:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit für den Rückweg zur Bushaltestelle ein.",
+            "hu": "Tervezzen elegendő időt a buszmegállóhoz való visszatérésre.",
+            "ro": "Planificați suficient timp pentru a vă întoarce la stația de autobuz.",
+            "en": "Allow enough time to walk back to the bus stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nach der Ankunft mit dem Bus in Târgșoru Vechi beginnt Ihre Erkundung zu Fuß. Der Vormittag führt Sie durch die zentralen Bereiche des archäologischen Parks, von den Hauptruinen zu den alten Kirchen. Nach einem Mittagessen im Freien und einem Museumsbesuch erkunden Sie am Nachmittag die entlegeneren Ruinen, bevor Sie zur Bushaltestelle zurückkehren.",
+        "hu": "Miután busszal megérkezett Târgșoru Vechi-be, gyalogos felfedezőútra indul. A délelőtt a régészeti park központi területein vezet keresztül, a fő romoktól az ősi templomokig. Egy szabadtéri ebéd és múzeumlátogatás után délután felfedezi a távolabbi romokat, mielőtt visszatérne a buszmegállóba.",
+        "ro": "După sosirea cu autobuzul la Târgșoru Vechi, explorarea începe pe jos. Dimineața vă poartă prin zonele centrale ale parcului arheologic, de la ruinele principale la bisericile vechi. După un prânz în aer liber și o vizită la muzeu, după-amiaza explorați ruinele mai îndepărtate înainte de a vă întoarce la stația de autobuz.",
+        "en": "After arriving by bus in Târgșoru Vechi, your exploration begins on foot. The morning takes you through the central areas of the archaeological park, from the main ruins to the ancient churches. After an open-air lunch and a museum visit, you'll explore the more distant ruins in the afternoon before returning to the bus stop."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mitgebrachtes Picknick",
+            "tip": "Da es keine Restaurants gibt, ist ein Picknick die beste Option. Genießen Sie Ihr Essen in historischer Umgebung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hozott piknik",
+            "tip": "Mivel nincsenek éttermek, a piknik a legjobb megoldás. Élvezze az ételt történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Picnic la pachet",
+            "tip": "Deoarece nu există restaurante, un picnic este cea mai bună opțiune. Bucurați-vă de masă într-un cadru istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Packed Picnic",
+            "tip": "As there are no restaurants, a picnic is the best option. Enjoy your meal in a historical setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "In der Nähe des Moruzi-Herrenhauses",
+            "tip": "Dieser abgelegenere Teil des Reservats bietet viel Ruhe und Frieden.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Moruzi-kúria közelében",
+            "tip": "A rezervátum ezen távolabbi része sok csendet és békét kínál.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lângă Conacul Moruzi",
+            "tip": "Această parte mai retrasă a rezervației oferă multă liniște și pace.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Near the Moruzi Mansion",
+            "tip": "This more secluded part of the reserve offers plenty of peace and quiet.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs aus dem Museum",
+            "tip": "Die einzige Einkaufsmöglichkeit vor Ort ist der Museumsshop."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándéktárgyak a múzeumból",
+            "tip": "Az egyetlen vásárlási lehetőség a helyszínen a múzeumi bolt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri de la muzeu",
+            "tip": "Singura opțiune de cumpărături la fața locului este magazinul muzeului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenirs from the Museum",
+            "tip": "The only shopping option on site is the museum shop."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere für die letzte Rückfahrt.",
+          "Kaufen Sie Tickets, wenn möglich, im Voraus.",
+          "Die Bushaltestelle ist möglicherweise nicht deutlich gekennzeichnet.",
+          "Seien Sie auf einen Spaziergang von der Haltestelle zum Eingang des Reservats vorbereitet."
+        ],
+        "hu": [
+          "Előre ellenőrizze a buszmenetrendet, különösen az utolsó visszautat.",
+          "Ha lehetséges, vegye meg a jegyeket előre.",
+          "A buszmegálló nem biztos, hogy egyértelműen jelölve van.",
+          "Készüljön fel egy sétára a megállótól a rezervátum bejáratáig."
+        ],
+        "ro": [
+          "Verificați programul autobuzului în avans, în special pentru ultima călătorie de întoarcere.",
+          "Cumpărați biletele în avans, dacă este posibil.",
+          "Stația de autobuz s-ar putea să nu fie marcată clar.",
+          "Fiți pregătiți pentru o plimbare de la stație până la intrarea în rezervație."
+        ],
+        "en": [
+          "Check the bus schedule in advance, especially for the last return trip.",
+          "Buy tickets in advance if possible.",
+          "The bus stop may not be clearly marked.",
+          "Be prepared for a walk from the stop to the entrance of the reserve."
+        ]
+      }
+    }
+  }
+}

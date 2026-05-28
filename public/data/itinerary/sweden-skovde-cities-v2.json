@@ -1,0 +1,1396 @@
+{
+  "city_id": "sweden-skovde-cities-v2",
+  "anchor": {
+    "name": "Skövde",
+    "coords": [
+      13.8461,
+      58.3917
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hertig Johans Torg",
+            "hu": "Hertig Johans tér",
+            "ro": "Piața Hertig Johans",
+            "en": "Hertig Johans Square"
+          },
+          "coords": [
+            13.846,
+            58.3905
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Kaffee in einem der Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
+            "en": "Start your day with a coffee at one of the square's cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankta Helena kyrka",
+            "hu": "Szent Ilona-templom",
+            "ro": "Biserica Sfânta Elena",
+            "en": "Saint Helena's Church"
+          },
+          "coords": [
+            13.8475,
+            58.3915
+          ],
+          "category": "church",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die mittelalterlichen Fresken im Inneren.",
+            "hu": "Figyelje meg a középkori freskókat a templom belsejében.",
+            "ro": "Fiți atenți la frescele medievale din interior.",
+            "en": "Look out for the medieval frescoes inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturhuset Skövde",
+            "hu": "Skövdei Kultúrház",
+            "ro": "Casa de Cultură Skövde",
+            "en": "Skövde Culture House"
+          },
+          "coords": [
+            13.8445,
+            58.39
+          ],
+          "category": "cultural-centre",
+          "arrive_at": "10:28",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Prüfen Sie das Programm für kostenlose Ausstellungen in der Kunstgalerie.",
+            "hu": "Nézze meg a programot az ingyenes kiállításokért a művészeti galériában.",
+            "ro": "Verificați programul pentru expoziții gratuite la galeria de artă.",
+            "en": "Check the schedule for free exhibitions in the art gallery."
+          }
+        },
+        {
+          "name": {
+            "de": "Balthazar Science Center",
+            "hu": "Balthazar Tudományos Központ",
+            "ro": "Centrul de Știință Balthazar",
+            "en": "Balthazar Science Center"
+          },
+          "coords": [
+            13.85,
+            58.393
+          ],
+          "category": "museum",
+          "arrive_at": "11:44",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ideal für Familien! Probieren Sie die interaktiven Experimente aus.",
+            "hu": "Családoknak ideális! Próbálja ki az interaktív kísérleteket.",
+            "ro": "Ideal pentru familii! Încercați experimentele interactive.",
+            "en": "Great for families! Try out the hands-on experiments."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the Center"
+          },
+          "coords": [
+            13.847,
+            58.391
+          ],
+          "category": "gastro",
+          "arrive_at": "13:34",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie „Köttbullar“ in einem traditionellen Restaurant.",
+            "hu": "Kóstolja meg a „köttbullart” egy hagyományos étteremben.",
+            "ro": "Încercați „köttbullar” la un restaurant tradițional.",
+            "en": "Try some 'köttbullar' at a traditional restaurant."
+          }
+        },
+        {
+          "name": {
+            "de": "Boulognerskogen",
+            "hu": "Boulognerskogen park",
+            "ro": "Parcul Boulognerskogen",
+            "en": "Boulognerskogen Park"
+          },
+          "coords": [
+            13.838,
+            58.388
+          ],
+          "category": "park",
+          "arrive_at": "15:26",
+          "stay_min": 99,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für einen entspannten Spaziergang am See.",
+            "hu": "Tökéletes hely egy pihentető sétára a tó mellett.",
+            "ro": "Un loc perfect pentru o plimbare relaxantă pe malul lacului.",
+            "en": "A perfect spot for a relaxing stroll by the lake."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Rundgang durch Skövde beginnt am belebten Hertig Johans Torg, dem Herzen der Stadt. Von dort aus tauchen Sie in die Geschichte der Sankta Helena Kyrka ein, bevor Sie die moderne Kultur im Kulturhuset entdecken. Am Vormittag erwarten Sie interaktive Erlebnisse im Balthazar Science Center, perfekt für Neugierige jeden Alters. Nach einem stärkenden schwedischen Mittagessen im Stadtzentrum verbringen Sie den Nachmittag mit einem entspannten Spaziergang durch den wunderschönen Park Boulognerskogen, genießen die Natur und lassen den Tag ruhig ausklingen.",
+        "hu": "A skövdei séta a nyüzsgő Hertig Johans téren, a város szívében kezdődik. Innen elmerülhet a Szent Ilona-templom történelmében, mielőtt felfedezné a modern kultúrát a Kultúrházban. A délelőtt interaktív élményeket kínál a Balthazar Tudományos Központban, ami minden korosztály számára tökéletes. Egy kiadós svéd ebéd után a városközpontban a délutánt egy pihentető sétával tölti a gyönyörű Boulognerskogen parkban, élvezve a természetet és nyugodtan zárva a napot.",
+        "ro": "Turul dumneavoastră pietonal prin Skövde începe în vibranta Piață Hertig Johans, inima orașului. De acolo, pătrundeți în istoria Bisericii Sfânta Elena înainte de a descoperi cultura modernă la Casa de Cultură. Dimineața aduce experiențe interactive la Centrul de Știință Balthazar, perfect pentru curioșii de toate vârstele. După un prânz suedez consistent în centrul orașului, după-amiaza este dedicată unei plimbări relaxante prin frumosul parc Boulognerskogen, bucurându-vă de natură pentru o încheiere liniștită a zilei.",
+        "en": "Your walking tour of Skövde begins at the vibrant Hertig Johans Square, the city's heart. From there, delve into the history at Saint Helena's Church before discovering modern culture at the Culture House. The morning brings interactive experiences at the Balthazar Science Center, perfect for curious minds of all ages. After a hearty Swedish lunch in the city center, the afternoon is for a relaxing stroll through the beautiful Boulognerskogen park, enjoying nature for a peaceful end to the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Köttbullar med gräddsås",
+            "tip": "Schwedische Fleischbällchen mit Sahnesauce, Preiselbeeren und Kartoffelpüree."
+          },
+          {
+            "name": "Raggmunk",
+            "tip": "Kartoffelpuffer, oft mit gebratenem Schweinefleisch und Preiselbeeren serviert."
+          },
+          {
+            "name": "Kanelbulle",
+            "tip": "Eine Zimtschnecke zum 'Fika' (Kaffeepause)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Köttbullar med gräddsås",
+            "tip": "Svéd húsgolyók tejszínes mártással, vörösáfonyával és krumplipürével."
+          },
+          {
+            "name": "Raggmunk",
+            "tip": "Burgonyalepény, gyakran sült sertéshússal és vörösáfonyával tálalva."
+          },
+          {
+            "name": "Kanelbulle",
+            "tip": "Egy fahéjas csiga a 'fika' (kávészünet) idejére."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Köttbullar med gräddsås",
+            "tip": "Chiftele suedeze cu sos de smântână, merișoare și piure de cartofi."
+          },
+          {
+            "name": "Raggmunk",
+            "tip": "Clătite de cartofi, adesea servite cu porc prăjit și merișoare."
+          },
+          {
+            "name": "Kanelbulle",
+            "tip": "Un melc cu scorțișoară pentru 'fika' (pauza de cafea)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Köttbullar med gräddsås",
+            "tip": "Swedish meatballs with cream sauce, lingonberries, and mashed potatoes."
+          },
+          {
+            "name": "Raggmunk",
+            "tip": "Potato pancakes, often served with fried pork and lingonberries."
+          },
+          {
+            "name": "Kanelbulle",
+            "tip": "A cinnamon bun for 'fika' (coffee break)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Sees im Boulognerskogen",
+            "tip": "Finden Sie eine ruhige Bank am Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sankta Helena Friedhof",
+            "tip": "Ein friedlicher und historischer Ort neben der Kirche.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Billingen Naturreservat (außerhalb der Wanderroute)",
+            "tip": "Nehmen Sie einen Bus für absolute Ruhe.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tópart a Boulognerskogen parkban",
+            "tip": "Keressen egy csendes padot a víz mellett.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent Ilona temető",
+            "tip": "Békés és történelmi hely a templom mellett.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Billingen természetvédelmi terület (sétaúton kívül)",
+            "tip": "Buszozzon ki a teljes csendért.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului din Boulognerskogen",
+            "tip": "Găsiți o bancă liniștită lângă apă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul Sfânta Elena",
+            "tip": "Un loc pașnic și istoric lângă biserică.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Rezervația Naturală Billingen (în afara traseului)",
+            "tip": "Luați un autobuz pentru liniște totală.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lakeside in Boulognerskogen",
+            "tip": "Find a quiet bench by the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Saint Helena's Cemetery",
+            "tip": "A peaceful and historic spot next to the church.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Billingen Nature Reserve (outside walking route)",
+            "tip": "Take a bus for complete tranquility.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Commerce Skövde",
+            "tip": "Das Haupteinkaufszentrum der Stadt für Mode und mehr."
+          },
+          {
+            "name": "Handwerksläden in der Altstadt",
+            "tip": "Suchen Sie nach einzigartigen lokalen Souvenirs und Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Commerce Skövde",
+            "tip": "A város fő bevásárlóközpontja divatért és egyéb termékekért."
+          },
+          {
+            "name": "Kézműves boltok az óvárosban",
+            "tip": "Keressen egyedi helyi ajándéktárgyakat és kézműves termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Commerce Skövde",
+            "tip": "Principalul centru comercial al orașului pentru modă și multe altele."
+          },
+          {
+            "name": "Magazine de artizanat din orașul vechi",
+            "tip": "Căutați suveniruri locale unice și produse de artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Commerce Skövde",
+            "tip": "The main shopping center in town for fashion and more."
+          },
+          {
+            "name": "Craft shops in the old town",
+            "tip": "Look for unique local souvenirs and handicrafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum kompakt und leicht zu Fuß zu erkunden ist.",
+          "Die meisten Sehenswürdigkeiten liegen nahe beieinander.",
+          "Nehmen Sie sich Zeit für eine 'Fika', die schwedische Kaffeepause, um sich zu entspannen und die Atmosphäre zu genießen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, a városközpont kompakt és gyalogosan könnyen bejárható.",
+          "A legtöbb látnivaló közel van egymáshoz.",
+          "Szánjon időt egy 'fikára', a svéd kávészünetre, hogy pihenjen és élvezze a hangulatot."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul orașului este compact și ușor de explorat pe jos.",
+          "Majoritatea atracțiilor sunt apropiate una de cealaltă.",
+          "Luați-vă timp pentru o 'fika', pauza de cafea suedeză, pentru a vă relaxa și a vă bucura de atmosferă."
+        ],
+        "en": [
+          "Wear comfortable shoes, as the city center is compact and easily walkable.",
+          "Most attractions are located close to each other.",
+          "Take time for a 'fika', the Swedish coffee break, to relax and soak in the atmosphere."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hertig Johans Torg",
+            "hu": "Hertig Johans tér",
+            "ro": "Piața Hertig Johans",
+            "en": "Hertig Johans Square"
+          },
+          "coords": [
+            13.846,
+            58.3905
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie den Platz erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt felfedezné a teret.",
+            "ro": "Asigurați-vă bicicleta înainte de a explora piața.",
+            "en": "Lock your bike securely before exploring the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturhuset Skövde",
+            "hu": "Skövdei Kultúrház",
+            "ro": "Casa de Cultură Skövde",
+            "en": "Skövde Culture House"
+          },
+          "coords": [
+            13.8445,
+            58.39
+          ],
+          "category": "cultural-centre",
+          "arrive_at": "09:33",
+          "stay_min": 50,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Es gibt oft Fahrradständer in der Nähe des Eingangs.",
+            "hu": "Gyakran vannak kerékpártárolók a bejárat közelében.",
+            "ro": "Există adesea suporturi pentru biciclete lângă intrare.",
+            "en": "There are often bike racks near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankta Helena kyrka",
+            "hu": "Szent Ilona-templom",
+            "ro": "Biserica Sfânta Elena",
+            "en": "Saint Helena's Church"
+          },
+          "coords": [
+            13.8475,
+            58.3915
+          ],
+          "category": "church",
+          "arrive_at": "10:28",
+          "stay_min": 35,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe, bevor Sie weiterradeln.",
+            "hu": "Élvezze a csendet, mielőtt továbbteker.",
+            "ro": "Bucurați-vă de liniște înainte de a continua pedalarea.",
+            "en": "Enjoy the tranquility before cycling on."
+          }
+        },
+        {
+          "name": {
+            "de": "Arena Skövde",
+            "hu": "Arena Skövde",
+            "ro": "Arena Skövde",
+            "en": "Arena Skövde"
+          },
+          "coords": [
+            13.855,
+            58.398
+          ],
+          "category": "landmark",
+          "arrive_at": "11:11",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto von der modernen Architektur.",
+            "hu": "Készítsen egy fotót a modern építészetről.",
+            "ro": "Faceți o fotografie a arhitecturii moderne.",
+            "en": "Snap a photo of the modern architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Balthazar Science Center",
+            "hu": "Balthazar Tudományos Központ",
+            "ro": "Centrul de Știință Balthazar",
+            "en": "Balthazar Science Center"
+          },
+          "coords": [
+            13.85,
+            58.393
+          ],
+          "category": "museum",
+          "arrive_at": "11:37",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit für die Experimente ein, es lohnt sich!",
+            "hu": "Szánjon elég időt a kísérletekre, megéri!",
+            "ro": "Planificați suficient timp pentru experimente, merită!",
+            "en": "Plan enough time for the experiments, it's worth it!"
+          }
+        },
+        {
+          "name": {
+            "de": "Radeln zum und durch den Boulognerskogen",
+            "hu": "Kerékpározás a Boulognerskogen parkba és azon keresztül",
+            "ro": "Pedalare către și prin Parcul Boulognerskogen",
+            "en": "Cycle to and through Boulognerskogen Park"
+          },
+          "coords": [
+            13.838,
+            58.388
+          ],
+          "category": "park",
+          "arrive_at": "14:07",
+          "stay_min": 98,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.9,
+          "tip_5lang": {
+            "de": "Die Wege sind gut ausgebaut und ideal für eine gemütliche Radtour.",
+            "hu": "Az utak jó állapotban vannak, ideálisak egy kényelmes biciklitúrához.",
+            "ro": "Căile sunt bine întreținute și ideale pentru o plimbare relaxantă cu bicicleta.",
+            "en": "The paths are well-maintained and great for a leisurely ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad für eine dynamische Tour durch Skövde! Start ist am Hertig Johans Torg, danach geht es schnell zum Kulturhuset und zur historischen Sankta Helena Kyrka. Die Tour führt Sie dann zur modernen Arena Skövde, einem architektonischen Highlight. Der Vormittag gipfelt im Balthazar Science Center, wo Sie nach der Radtour neue Energie tanken können. Nach einer Mittagspause radeln Sie zum weitläufigen Boulognerskogen, um den Nachmittag mit einer entspannten Fahrt durch die grüne Oase der Stadt ausklingen zu lassen.",
+        "hu": "Pattanjon biciklire egy dinamikus skövdei túrához! Az indulás a Hertig Johans térről történik, ahonnan gyorsan eljut a Kultúrházhoz és a történelmi Szent Ilona-templomhoz. A túra ezután a modern Arena Skövde-hez, egy építészeti gyöngyszemhez vezet. A délelőtt a Balthazar Tudományos Központban csúcsosodik ki, ahol feltöltődhet a kerékpározás után. Egy ebédszünetet követően a tágas Boulognerskogen parkba teker, hogy a délutánt egy pihentető kerékpározással zárja a város zöld oázisában.",
+        "ro": "Urcați-vă pe bicicletă pentru un tur dinamic prin Skövde! Startul este din Piața Hertig Johans, apoi vă deplasați rapid către Casa de Cultură și istorica Biserică Sfânta Elena. Turul vă duce apoi la moderna Arena Skövde, un punct de atracție arhitectural. Dimineața culminează la Centrul de Știință Balthazar, unde vă puteți reîncărca după plimbarea cu bicicleta. După o pauză de prânz, pedalați spre vastul parc Boulognerskogen pentru a încheia după-amiaza cu o plimbare relaxantă prin oaza verde a orașului.",
+        "en": "Hop on your bike for a dynamic tour of Skövde! Start at Hertig Johans Square, then quickly move on to the Culture House and the historic Saint Helena's Church. The tour then takes you to the modern Arena Skövde, an architectural highlight. The morning culminates at the Balthazar Science Center, where you can recharge after your ride. After a lunch break, you'll cycle to the expansive Boulognerskogen park to end the afternoon with a relaxing ride through the city's green oasis."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smörgåstårta",
+            "tip": "Ein schwedischer 'Sandwich-Kuchen', perfekt für ein leichtes Mittagessen."
+          },
+          {
+            "name": "Fika-Pause",
+            "tip": "Halten Sie in einem Café für Kaffee und ein Gebäck wie Kanelbulle an."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Fragen Sie in einer Bar nach lokal gebrauten Bieren aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smörgåstårta",
+            "tip": "Svéd „szendvicstorta”, tökéletes egy könnyű ebédhez."
+          },
+          {
+            "name": "Fika szünet",
+            "tip": "Álljon meg egy kávézóban egy kávéra és egy süteményre, mint a kanelbulle."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Kérjen egy bárban helyben főzött söröket a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smörgåstårta",
+            "tip": "Un „tort sandviș” suedez, perfect pentru un prânz ușor."
+          },
+          {
+            "name": "Pauză de Fika",
+            "tip": "Opriți-vă la o cafenea pentru o cafea și un produs de patiserie precum kanelbulle."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "Întrebați la un bar despre berile locale produse în regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smörgåstårta",
+            "tip": "A Swedish 'sandwich cake', perfect for a light lunch."
+          },
+          {
+            "name": "Fika break",
+            "tip": "Stop at a cafe for coffee and a pastry like a kanelbulle."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Ask a bar for locally brewed beers from the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ryd Södra (längere Radtour)",
+            "tip": "Ein Naturschutzgebiet etwas außerhalb, ideal für eine ruhige Flucht.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Versteckte Ecken im Boulognerskogen",
+            "tip": "Fahren Sie abseits der Hauptwege, um einen friedlichen Platz zu finden.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang am Hållsdammen",
+            "tip": "Ein kleiner See im Süden der Stadt, perfekt für Abendstimmung.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ryd Södra (hosszabb biciklitúra)",
+            "tip": "Egy kicsit távolabbi természetvédelmi terület, ideális a csendes elvonuláshoz.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Rejtett zugok a Boulognerskogen parkban",
+            "tip": "Térjen le a fő utakról, hogy egy békés helyet találjon.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a Hållsdammen tónál",
+            "tip": "Egy kis tó a várostól délre, tökéletes az esti hangulathoz.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ryd Södra (plimbare mai lungă cu bicicleta)",
+            "tip": "O rezervație naturală puțin în afara orașului, ideală pentru o evadare liniștită.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Colțuri ascunse în Boulognerskogen",
+            "tip": "Abateți-vă de la căile principale pentru a găsi un loc pașnic.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus de soare la Hållsdammen",
+            "tip": "Un mic lac la sud de oraș, perfect pentru o atmosferă de seară.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ryd Södra (longer bike ride)",
+            "tip": "A nature reserve a bit further out, great for a quiet escape.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Hidden corners in Boulognerskogen",
+            "tip": "Go off the main paths to find a peaceful spot.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset at Hållsdammen",
+            "tip": "A small lake south of the city, perfect for evening ambiance.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Suchen Sie nach lokalen Fahrradgeschäften für Zubehör oder Souvenirs."
+          },
+          {
+            "name": "Elins Esplanad",
+            "tip": "Ein weiteres Einkaufszentrum, das mit dem Fahrrad leicht erreichbar ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Keressen helyi kerékpárboltokat kiegészítőkért vagy ajándéktárgyakért."
+          },
+          {
+            "name": "Elins Esplanad",
+            "tip": "Egy másik bevásárlóközpont, amely kerékpárral könnyen elérhető."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Căutați magazine locale de biciclete pentru accesorii sau suveniruri."
+          },
+          {
+            "name": "Elins Esplanad",
+            "tip": "Un alt centru comercial ușor accesibil cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "Look for local bike shops for accessories or souvenirs."
+          },
+          {
+            "name": "Elins Esplanad",
+            "tip": "Another shopping mall easily reachable by bike."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Skövde hat gute Radwege, aber achten Sie im Stadtzentrum auf Fußgänger.",
+          "Ein Helm wird empfohlen.",
+          "Planen Sie Ihre Route, um Hügel zu vermeiden, es sei denn, Sie suchen eine Herausforderung."
+        ],
+        "hu": [
+          "Skövde jó kerékpárutakkal rendelkezik, de a városközpontban figyeljen a gyalogosokra.",
+          "Sisak használata ajánlott.",
+          "Tervezze meg az útvonalat a dombok elkerülésére, hacsak nem keres kihívást."
+        ],
+        "ro": [
+          "Skövde are piste bune pentru biciclete, dar fiți atenți la pietoni în centrul orașului.",
+          "Se recomandă purtarea căștii.",
+          "Planificați-vă traseul pentru a evita dealurile, cu excepția cazului în care căutați o provocare."
+        ],
+        "en": [
+          "Skövde has good bike paths, but be mindful of pedestrians in the city center.",
+          "A helmet is recommended.",
+          "Plan your route to avoid hills unless you're looking for a challenge."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:48",
+      "total_km": 21.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Parken am Billingen",
+            "hu": "A csoport: Parkolás Billingennél",
+            "ro": "Cluster A: Parcare la Billingen",
+            "en": "Cluster A: Park at Billingen"
+          },
+          "coords": [
+            13.805,
+            58.395
+          ],
+          "category": "natural-feature",
+          "arrive_at": "09:25",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Beginnen Sie mit der atemberaubenden Aussicht vom Hochplateau.",
+            "hu": "Kezdje a napot a fennsíkról nyíló lélegzetelállító kilátással.",
+            "ro": "Începeți cu priveliștea uluitoare de pe platou.",
+            "en": "Start with the stunning view from the high plateau."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zu den Billingen-Seen",
+            "hu": "Séta a Billingen tavakhoz",
+            "ro": "Plimbare la lacurile Billingen",
+            "en": "Walk to Billingen Lakes"
+          },
+          "coords": [
+            13.801,
+            58.398
+          ],
+          "category": "natural-feature",
+          "arrive_at": "10:30",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Folgen Sie den markierten Wegen für eine leichte Wanderung.",
+            "hu": "Kövesse a jelzett ösvényeket egy könnyű túrához.",
+            "ro": "Urmați traseele marcate pentru o drumeție ușoară.",
+            "en": "Follow the marked trails for an easy hike."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Fahrt ins Zentrum, Parken am Kulturhuset",
+            "hu": "B csoport: Autóval a központba, parkolás a Kultúrháznál",
+            "ro": "Cluster B: Cu mașina în centru, parcare la Casa de Cultură",
+            "en": "Cluster B: Drive to Center, Park at Culture House"
+          },
+          "coords": [
+            13.8445,
+            58.39
+          ],
+          "category": "cultural-centre",
+          "arrive_at": "12:08",
+          "stay_min": 50,
+          "hop_mode": "car",
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 12.2,
+          "tip_5lang": {
+            "de": "Hier finden Sie oft gute Parkmöglichkeiten für den Stadtkern.",
+            "hu": "Itt gyakran talál jó parkolóhelyet a városmaghoz.",
+            "ro": "Adesea găsiți aici locuri bune de parcare pentru centrul orașului.",
+            "en": "You can often find good parking here for the city core."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Spaziergang zum Hertig Johans Torg",
+            "hu": "Ebéd és séta a Hertig Johans térre",
+            "ro": "Prânz și plimbare la Piața Hertig Johans",
+            "en": "Lunch and Walk to Hertig Johans Square"
+          },
+          "coords": [
+            13.846,
+            58.3905
+          ],
+          "category": "gastro",
+          "arrive_at": "13:01",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die Atmosphäre des Hauptplatzes nach dem Essen.",
+            "hu": "Élvezze a főtér hangulatát ebéd után.",
+            "ro": "Bucurați-vă de atmosfera pieței principale după masă.",
+            "en": "Enjoy the main square's atmosphere after your meal."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zur Sankta Helena kyrka",
+            "hu": "Séta a Szent Ilona-templomhoz",
+            "ro": "Plimbare la Biserica Sfânta Elena",
+            "en": "Walk to Saint Helena's Church"
+          },
+          "coords": [
+            13.8475,
+            58.3915
+          ],
+          "category": "church",
+          "arrive_at": "14:26",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der kurze Spaziergang vom Platz ist sehr angenehm.",
+            "hu": "A térről egy rövid, kellemes séta.",
+            "ro": "Scurta plimbare din piață este foarte plăcută.",
+            "en": "The short walk from the square is very pleasant."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Fahrt zum Balthazar & Arena",
+            "hu": "C csoport: Autóval a Balthazarhoz és az Arénához",
+            "ro": "Cluster C: Cu mașina la Balthazar & Arena",
+            "en": "Cluster C: Drive to Balthazar & Arena"
+          },
+          "coords": [
+            13.85,
+            58.393
+          ],
+          "category": "museum",
+          "arrive_at": "15:24",
+          "stay_min": 154,
+          "hop_mode": "car",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Parken Sie hier und besuchen Sie beide Attraktionen zu Fuß.",
+            "hu": "Parkoljon le itt és látogassa meg mindkét látnivalót gyalog.",
+            "ro": "Parcați aici și vizitați ambele atracții pe jos.",
+            "en": "Park here and visit both attractions on foot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt mit einem Höhepunkt: der Fahrt zum Naturreservat Billingen. Genießen Sie die Aussicht und eine kurze Wanderung, bevor Sie ins Stadtzentrum fahren. Parken Sie Ihr Auto in der Nähe des Kulturhuset und erkunden Sie den ersten Cluster zu Fuß: das Kulturzentrum, den Hertig Johans Torg und die ehrwürdige Sankta Helena Kyrka. Nach dem Mittagessen fahren Sie zum zweiten Cluster, wo das Balthazar Science Center und die Arena Skövde auf Sie warten, und beenden den Tag mit einer Dosis Wissenschaft und moderner Architektur.",
+        "hu": "Az autós nap egy csúcsponttal kezdődik: utazás a Billingen természetvédelmi területre. Élvezze a kilátást és tegyen egy rövid túrát, mielőtt a városközpontba hajt. Parkolja le autóját a Kultúrház közelében, és fedezze fel gyalog az első látnivalócsoportot: a kulturális központot, a Hertig Johans teret és a tiszteletreméltó Szent Ilona-templomot. Ebéd után a második csoporthoz hajt, ahol a Balthazar Tudományos Központ és az Arena Skövde várja, és a napot egy adag tudománnyal és modern építészettel zárja.",
+        "ro": "Ziua dumneavoastră cu mașina începe cu un punct culminant: o excursie la rezervația naturală Billingen. Bucurați-vă de priveliște și de o scurtă drumeție înainte de a vă îndrepta spre centrul orașului. Parcați mașina lângă Casa de Cultură și explorați primul grup de atracții pe jos: centrul cultural, Piața Hertig Johans și venerabila Biserică Sfânta Elena. După prânz, conduceți spre al doilea grup, unde vă așteaptă Centrul de Știință Balthazar și Arena Skövde, încheind ziua cu o doză de știință și arhitectură modernă.",
+        "en": "Your car day starts with a highlight: a drive up to the Billingen nature reserve. Enjoy the views and a short hike before heading into the city center. Park your car near the Culture House and explore the first cluster on foot: the cultural center, Hertig Johans Square, and the venerable Saint Helena's Church. After lunch, drive to the second cluster where the Balthazar Science Center and Arena Skövde await, ending your day with a dose of science and modern architecture."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ärtsoppa och Pannkakor",
+            "tip": "Traditionelles Donnerstagsgericht: Erbsensuppe gefolgt von Pfannkuchen."
+          },
+          {
+            "name": "Restaurant am Billingen",
+            "tip": "Genießen Sie eine Mahlzeit mit Aussicht nach Ihrer Wanderung."
+          },
+          {
+            "name": "Västerbottensost-Paj",
+            "tip": "Ein herzhafter Käsekuchen mit dem berühmten schwedischen Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ärtsoppa och Pannkakor",
+            "tip": "Hagyományos csütörtöki étel: borsóleves, majd palacsinta."
+          },
+          {
+            "name": "Étterem Billingenben",
+            "tip": "Élvezze az ételt kilátással a túra után."
+          },
+          {
+            "name": "Västerbottensost pite",
+            "tip": "Sós pite a híres svéd sajttal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ärtsoppa och Pannkakor",
+            "tip": "Mâncare tradițională de joi: supă de mazăre urmată de clătite."
+          },
+          {
+            "name": "Restaurant la Billingen",
+            "tip": "Bucurați-vă de o masă cu priveliște după drumeție."
+          },
+          {
+            "name": "Västerbottensost-Paj",
+            "tip": "O plăcintă sărată cu brânză, preparată cu faimoasa brânză suedeză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ärtsoppa och Pannkakor",
+            "tip": "Traditional Thursday meal: pea soup followed by pancakes."
+          },
+          {
+            "name": "Restaurant at Billingen",
+            "tip": "Enjoy a meal with a view after your hike."
+          },
+          {
+            "name": "Västerbottensost Paj",
+            "tip": "A savory cheese pie made with the famous Swedish cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt auf dem Billingen",
+            "tip": "Der beste Ort für Panoramablicke und Ruhe am Morgen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ryd Södra Naturreservat",
+            "tip": "Eine kurze Autofahrt für einen völlig anderen, ruhigen Wald.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Spaziergang am Karstorpssjön",
+            "tip": "Ein weiterer See, der mit dem Auto leicht erreichbar ist, für einen friedlichen Abschluss des Tages.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátó a Billingen-hegyen",
+            "tip": "A legjobb hely a panorámás kilátáshoz és a reggeli csendhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ryd Södra természetvédelmi terület",
+            "tip": "Egy rövid autóút egy teljesen más, csendes erdőért.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Séta a Karstorpssjön tónál",
+            "tip": "Egy másik tó, autóval könnyen elérhető, a nap békés lezárásához.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Billingen",
+            "tip": "Cel mai bun loc pentru vederi panoramice și liniște dimineața.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rezervația Naturală Ryd Södra",
+            "tip": "O scurtă călătorie cu mașina către o pădure complet diferită și liniștită.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Plimbare pe lângă lacul Karstorpssjön",
+            "tip": "Un alt lac ușor accesibil cu mașina pentru un final de zi pașnic.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Billingen Viewpoint",
+            "tip": "The best spot for panoramic views and morning tranquility.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ryd Södra Nature Reserve",
+            "tip": "A short drive for a completely different, quiet forest.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Walk by Lake Karstorpssjön",
+            "tip": "Another lake easily reachable by car for a peaceful end to the day.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stallsbergs Rasta",
+            "tip": "Ein Einkaufsbereich außerhalb des Zentrums mit größeren Geschäften."
+          },
+          {
+            "name": "Hofläden um Skövde",
+            "tip": "Halten Sie Ausschau nach Schildern für „Gårdsbutik“, um lokale Produkte zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stallsbergs Rasta",
+            "tip": "Bevásárlónegyed a központon kívül, nagyobb üzletekkel."
+          },
+          {
+            "name": "Tanyasi boltok Skövde környékén",
+            "tip": "Keresse a „Gårdsbutik” táblákat helyi termékek vásárlásához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stallsbergs Rasta",
+            "tip": "O zonă comercială în afara centrului cu magazine mai mari."
+          },
+          {
+            "name": "Magazine de la fermă în jurul Skövde",
+            "tip": "Căutați indicatoarele „Gårdsbutik” pentru a cumpăra produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stallsbergs Rasta",
+            "tip": "A shopping area outside the center with larger stores."
+          },
+          {
+            "name": "Farm shops around Skövde",
+            "tip": "Look for 'Gårdsbutik' signs to buy local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum kann gebührenpflichtig sein. Halten Sie Münzen oder eine Park-App bereit.",
+          "Die Cluster-Walking-Methode spart Zeit bei der Parkplatzsuche.",
+          "Das Auto gibt Ihnen die Flexibilität, auch weiter entfernte Naturgebiete wie Ryd Södra zu besuchen."
+        ],
+        "hu": [
+          "A parkolás a városközpontban díjköteles lehet. Készítsen elő érméket vagy parkolóalkalmazást.",
+          "A csoportos séta módszerrel időt takaríthat meg a parkolóhely keresésénél.",
+          "Az autó rugalmasságot ad a távolabbi természeti területek, mint például a Ryd Södra meglátogatásához is."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi contra cost. Pregătiți monede sau o aplicație de parcare.",
+          "Metoda de plimbare în grup economisește timp la căutarea unui loc de parcare.",
+          "Mașina vă oferă flexibilitatea de a vizita și zone naturale mai îndepărtate, cum ar fi Ryd Södra."
+        ],
+        "en": [
+          "Parking in the city center can be paid. Have coins or a parking app ready.",
+          "The cluster-walking method saves time on finding parking spots.",
+          "The car gives you the flexibility to also visit more distant nature areas like Ryd Södra."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 5.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Bus zum Resecentrum/Zentrum",
+            "hu": "A csoport: Busz a Resecentrum/központ felé",
+            "ro": "Cluster A: Autobuz spre Resecentrum/Centru",
+            "en": "Cluster A: Bus to Resecentrum/Center"
+          },
+          "coords": [
+            13.848,
+            58.391
+          ],
+          "category": "transit-hub",
+          "arrive_at": "09:20",
+          "stay_min": 10,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Das Resecentrum ist der Hauptknotenpunkt. Beginnen Sie Ihren Spaziergang von hier.",
+            "hu": "A Resecentrum a fő csomópont. Innen induljon a séta.",
+            "ro": "Resecentrum este nodul principal. Începeți plimbarea de aici.",
+            "en": "The Resecentrum is the main hub. Start your walk from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zum Hertig Johans Torg & Sankta Helena",
+            "hu": "Séta a Hertig Johans térre és a Szent Ilona-templomhoz",
+            "ro": "Plimbare la Piața Hertig Johans și Sfânta Elena",
+            "en": "Walk to Hertig Johans Sq & Saint Helena's"
+          },
+          "coords": [
+            13.8465,
+            58.391
+          ],
+          "category": "square",
+          "arrive_at": "09:35",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie den Platz und die nahegelegene Kirche als eine Einheit.",
+            "hu": "Fedezze fel a teret és a közeli templomot egyben.",
+            "ro": "Explorați piața și biserica din apropiere ca o singură unitate.",
+            "en": "Explore the square and the nearby church as one unit."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Bus zum Balthazar Science Center",
+            "hu": "B csoport: Busz a Balthazar Tudományos Központhoz",
+            "ro": "Cluster B: Autobuz spre Centrul de Știință Balthazar",
+            "en": "Cluster B: Bus to Balthazar Science Center"
+          },
+          "coords": [
+            13.85,
+            58.393
+          ],
+          "category": "museum",
+          "arrive_at": "11:03",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Mehrere Buslinien halten in der Nähe. Prüfen Sie die beste Verbindung.",
+            "hu": "Több buszjárat is megáll a közelben. Ellenőrizze a legjobb kapcsolatot.",
+            "ro": "Mai multe linii de autobuz opresc în apropiere. Verificați cea mai bună legătură.",
+            "en": "Several bus lines stop nearby. Check for the best connection."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Spaziergang zum Kulturhuset",
+            "hu": "Ebéd és séta a Kultúrházhoz",
+            "ro": "Prânz și plimbare la Casa de Cultură",
+            "en": "Lunch and Walk to the Culture House"
+          },
+          "coords": [
+            13.8445,
+            58.39
+          ],
+          "category": "gastro",
+          "arrive_at": "13:13",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Finden Sie ein Restaurant auf dem Weg zurück ins Zentrum.",
+            "hu": "Találjon egy éttermet a központ felé vezető úton.",
+            "ro": "Găsiți un restaurant pe drumul de întoarcere spre centru.",
+            "en": "Find a restaurant on your way back towards the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zum Boulognerskogen",
+            "hu": "Séta a Boulognerskogen parkba",
+            "ro": "Plimbare la Parcul Boulognerskogen",
+            "en": "Walk to Boulognerskogen Park"
+          },
+          "coords": [
+            13.838,
+            58.388
+          ],
+          "category": "park",
+          "arrive_at": "15:11",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang, um den Tag ausklingen zu lassen, bevor Sie einen Bus zurück nehmen.",
+            "hu": "Egy szép séta a nap lezárásaként, mielőtt visszabuszozna.",
+            "ro": "O plimbare frumoasă pentru a încheia ziua înainte de a lua un autobuz înapoi.",
+            "en": "A lovely walk to end the day before catching a bus back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Skövdes effizientes Busnetz. Beginnen Sie am Resecentrum, dem zentralen Knotenpunkt, und spazieren Sie durch den ersten Cluster mit dem Hertig Johans Torg und der Sankta Helena Kyrka. Eine kurze Busfahrt bringt Sie dann zum zweiten Cluster, wo Sie den Vormittag im Balthazar Science Center verbringen. Nach einem Mittagessen spazieren Sie zum Kulturhuset und weiter zum Boulognerskogen Park, um den Nachmittag in der Natur zu verbringen, bevor Sie bequem mit dem Bus zurückkehren.",
+        "hu": "Használja ki Skövde hatékony buszhálózatát. Kezdje a Resecentrumban, a központi csomópontban, és sétáljon végig az első látnivalócsoporton, a Hertig Johans téren és a Szent Ilona-templomon. Egy rövid buszút után a második csoporthoz ér, ahol a délelőttöt a Balthazar Tudományos Központban tölti. Ebéd után sétáljon el a Kultúrházhoz, majd tovább a Boulognerskogen parkba, hogy a délutánt a természetben töltse, mielőtt kényelmesen visszatérne busszal.",
+        "ro": "Folosiți rețeaua eficientă de autobuze din Skövde. Începeți de la Resecentrum, nodul central, și plimbați-vă prin primul grup de atracții incluzând Piața Hertig Johans și Biserica Sfânta Elena. O scurtă călătorie cu autobuzul vă duce apoi la al doilea grup, petrecând dimineața la Centrul de Știință Balthazar. După prânz, mergeți pe jos la Casa de Cultură și continuați spre Parcul Boulognerskogen pentru a vă petrece după-amiaza în natură, înainte de a vă întoarce convenabil cu autobuzul.",
+        "en": "Make use of Skövde's efficient bus network. Start at Resecentrum, the central hub, and walk through the first cluster featuring Hertig Johans Square and Saint Helena's Church. A short bus ride then takes you to the second cluster, spending the morning at the Balthazar Science Center. After lunch, walk to the Culture House and continue to Boulognerskogen Park to spend the afternoon in nature before conveniently returning by bus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Grab-and-Go-Sandwich",
+            "tip": "Kaufen Sie ein Sandwich in der Nähe des Resecentrums für ein schnelles Mittagessen."
+          },
+          {
+            "name": "Café im Kulturhuset",
+            "tip": "Eine gute Option für eine Kaffeepause zwischen den Busfahrten."
+          },
+          {
+            "name": "Korv med bröd",
+            "tip": "Ein schneller und klassischer schwedischer Hotdog von einem Straßenverkäufer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Elvihető szendvics",
+            "tip": "Vásároljon egy szendvicset a Resecentrum közelében egy gyors ebédhez."
+          },
+          {
+            "name": "Kávézó a Kultúrházban",
+            "tip": "Jó lehetőség egy kávészünetre a buszutak között."
+          },
+          {
+            "name": "Korv med bröd",
+            "tip": "Egy gyors és klasszikus svéd hot dog egy utcai árustól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sandviș la pachet",
+            "tip": "Cumpărați un sandviș lângă Resecentrum pentru un prânz rapid."
+          },
+          {
+            "name": "Cafenea la Casa de Cultură",
+            "tip": "O opțiune bună pentru o pauză de cafea între călătoriile cu autobuzul."
+          },
+          {
+            "name": "Korv med bröd",
+            "tip": "Un hotdog suedez rapid și clasic de la un vânzător ambulant."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grab-and-go sandwich",
+            "tip": "Buy a sandwich near the Resecentrum for a quick lunch."
+          },
+          {
+            "name": "Cafe at the Culture House",
+            "tip": "A good option for a coffee break between bus rides."
+          },
+          {
+            "name": "Korv med bröd",
+            "tip": "A quick and classic Swedish hot dog from a street vendor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Bank im Boulognerskogen",
+            "tip": "Fernab vom Spielplatz finden Sie ruhige Plätze.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bibliothek im Kulturhuset",
+            "tip": "Ein warmer und ruhiger Ort zum Ausruhen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Busfahrt aus der Stadt",
+            "tip": "Nehmen Sie eine beliebige Linie, die in die Vororte fährt, und genießen Sie die Aussicht.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy pad a Boulognerskogen parkban",
+            "tip": "A játszótértől távol csendes helyeket talál.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Könyvtár a Kultúrházban",
+            "tip": "Meleg és csendes hely a pihenésre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Buszút a városból kifelé",
+            "tip": "Válasszon bármelyik külvárosi járatot, és élvezze a kilátást.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă în Boulognerskogen",
+            "tip": "Departe de locul de joacă, veți găsi locuri liniștite.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Biblioteca de la Casa de Cultură",
+            "tip": "Un loc cald și liniștit pentru a vă odihni.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Călătorie cu autobuzul în afara orașului",
+            "tip": "Luați orice linie care merge spre suburbii și bucurați-vă de priveliște.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench in Boulognerskogen",
+            "tip": "Away from the playground, you'll find quiet spots.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Library in the Culture House",
+            "tip": "A warm and quiet place to rest.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Bus ride out of town",
+            "tip": "Take any line heading to the suburbs and enjoy the view.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte rund um den Hertig Johans Torg",
+            "tip": "Kleine Boutiquen und Geschäfte im Herzen der Stadt."
+          },
+          {
+            "name": "Pressbyrån am Resecentrum",
+            "tip": "Für Last-Minute-Souvenirs, Zeitschriften oder Snacks."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok a Hertig Johans tér körül",
+            "tip": "Kis butikok és üzletek a város szívében."
+          },
+          {
+            "name": "Pressbyrån a Resecentrumban",
+            "tip": "Utolsó pillanatos ajándéktárgyakért, magazinokért vagy rágcsálnivalókért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine în jurul Pieței Hertig Johans",
+            "tip": "Mici buticuri și magazine în inima orașului."
+          },
+          {
+            "name": "Pressbyrån la Resecentrum",
+            "tip": "Pentru suveniruri de ultim moment, reviste sau gustări."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops around Hertig Johans Square",
+            "tip": "Small boutiques and stores in the heart of the city."
+          },
+          {
+            "name": "Pressbyrån at the Resecentrum",
+            "tip": "For last-minute souvenirs, magazines, or snacks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Die Västtrafik To Go App ist nützlich für die Planung von Routen und den Kauf von Tickets.",
+          "Beachten Sie die Busfahrpläne, insbesondere am Abend und am Wochenende."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "A Västtrafik To Go alkalmazás hasznos az útvonaltervezéshez és a jegyvásárláshoz.",
+          "Figyeljen a buszmenetrendekre, különösen este és hétvégén."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Aplicația Västtrafik To Go este utilă pentru planificarea rutelor și cumpărarea biletelor.",
+          "Fiți atenți la orarele autobuzelor, mai ales seara și în weekend."
+        ],
+        "en": [
+          "Buy a day ticket for unlimited travel.",
+          "The Västtrafik To Go app is useful for planning routes and buying tickets.",
+          "Be aware of bus schedules, especially in the evening and on weekends."
+        ]
+      }
+    }
+  }
+}

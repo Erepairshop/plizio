@@ -1,0 +1,1128 @@
+{
+  "city_id": "slovakia-michalovce-cities-v2",
+  "anchor": {
+    "name": "Michalovce",
+    "coords": [
+      21.9189,
+      48.7548
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 2.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Platz der Befreier (Námestie osloboditeľov)",
+            "hu": "Felszabadítók tere (Námestie osloboditeľov)",
+            "ro": "Piața Eliberatorilor (Námestie osloboditeľov)",
+            "en": "Liberators' Square (Námestie osloboditeľov)"
+          },
+          "coords": [
+            21.918,
+            48.7555
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee in einem der örtlichen Cafés, um die Atmosphäre aufzusaugen.",
+            "hu": "Indítsa a napot egy kávéval az egyik helyi kávézóban, hogy magába szívja a tér hangulatát.",
+            "ro": "Începeți ziua aici cu o cafea la una dintre cafenelele locale pentru a absorbi atmosfera.",
+            "en": "Start your day here with a coffee at one of the local cafes to soak in the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Geburt",
+            "hu": "Szűz Mária Születése templom",
+            "ro": "Biserica Nașterea Maicii Domnului",
+            "en": "Church of the Nativity of the Virgin Mary"
+          },
+          "coords": [
+            21.9195,
+            48.756
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden Fresken im Inneren und die byzantinische Architektur.",
+            "hu": "Figyelje meg a lenyűgöző belső freskókat és a bizánci stílusú építészetet.",
+            "ro": "Observați frescele impresionante din interior și arhitectura de inspirație bizantină.",
+            "en": "Pay attention to the impressive frescoes inside and the Byzantine-style architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisch-katholische Pfarrkirche",
+            "hu": "Római katolikus plébániatemplom",
+            "ro": "Biserica parohială romano-catolică",
+            "en": "Roman Catholic Parish Church"
+          },
+          "coords": [
+            21.921,
+            48.7545
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie den gotischen Baustil, ein Kontrast zur nahegelegenen byzantinischen Kirche.",
+            "hu": "Csodálja meg a gótikus építészeti stílust, amely kontrasztban áll a közeli bizánci templommal.",
+            "ro": "Admirați stilul arhitectural gotic, un contrast față de biserica bizantină din apropiere.",
+            "en": "Admire the Gothic architectural style, a contrast to the nearby Byzantine church."
+          }
+        },
+        {
+          "name": {
+            "de": "Sztáray-Herrenhaus",
+            "hu": "Sztáray-kastély",
+            "ro": "Conacul Sztáray",
+            "en": "Sztáray Manor House"
+          },
+          "coords": [
+            21.912,
+            48.751
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Herrenhaus beherbergt heute das Zemplín-Museum. Planen Sie also einen kombinierten Besuch.",
+            "hu": "A kastély ad otthont a Zempléni Múzeumnak, így tervezzen egy összevont látogatást.",
+            "ro": "Conacul găzduiește astăzi Muzeul Zemplín, așa că planificați o vizită combinată.",
+            "en": "The manor house now hosts the Zemplín Museum, so plan for a combined visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Zemplín-Museum",
+            "hu": "Zempléni Múzeum",
+            "ro": "Muzeul Zemplín",
+            "en": "Zemplín Museum"
+          },
+          "coords": [
+            21.9122,
+            48.7512
+          ],
+          "category": "museums",
+          "arrive_at": "12:46",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die archäologischen und naturhistorischen Sammlungen sind besonders faszinierend.",
+            "hu": "Az régészeti és természettudományi gyűjtemények különösen lenyűgözőek.",
+            "ro": "Colecțiile arheologice și de istorie naturală sunt deosebit de fascinante.",
+            "en": "The archaeological and natural history collections are particularly fascinating."
+          }
+        },
+        {
+          "name": {
+            "de": "Sternwarte Michalovce",
+            "hu": "Nagymihályi csillagvizsgáló",
+            "ro": "Observatorul Astronomic Michalovce",
+            "en": "Michalovce Observatory"
+          },
+          "coords": [
+            21.935,
+            48.76
+          ],
+          "category": "natural features",
+          "arrive_at": "14:48",
+          "stay_min": 60,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Überprüfen Sie die Öffnungszeiten für öffentliche Beobachtungen, besonders für Abendveranstaltungen.",
+            "hu": "Ellenőrizze a nyitvatartási időt a nyilvános megfigyelésekhez, különösen az esti programokhoz.",
+            "ro": "Verificați programul pentru observații publice, în special pentru evenimentele de seară.",
+            "en": "Check the schedule for public observation sessions, especially for evening events."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang durch Michalovce beginnt am lebhaften Platz der Befreier, dem Herzen der Stadt. Am Vormittag erkunden Sie die sakralen Schätze der Stadt und bewundern die byzantinischen und gotischen Stile der nahegelegenen Kirchen. Nach einem kurzen Spaziergang erreichen Sie zur Mittagszeit das prächtige Sztáray-Herrenhaus, das das aufschlussreiche Zemplín-Museum beherbergt. Hier tauchen Sie tief in die lokale Geschichte und Natur ein. Der Nachmittag ist für einen erfrischenden Spaziergang zur Sternwarte reserviert, wo Sie einen Panoramablick genießen und etwas über den Kosmos lernen können. Beenden Sie den Tag in einem traditionellen Restaurant und genießen Sie die Aromen der Zemplín-Region.",
+        "hu": "Sétája Nagymihályon a nyüzsgő Felszabadítók terén, a város szívében kezdődik. Délelőtt a város szakrális kincseit fedezi fel, megcsodálva a közeli templomok bizánci és gótikus stílusát. Délidőben egy rövid sétával eléri a csodálatos Sztáray-kastélyt, amely az informatív Zempléni Múzeumnak ad otthont. Itt mélyen elmerülhet a helyi történelemben és természetben. A délutánt egy frissítő sétára szánjuk a csillagvizsgálóhoz, ahonnan panorámás kilátás nyílik, és a kozmoszról is tanulhat. A napot egy hagyományos étteremben zárja, élvezve a zempléni régió ízeit.",
+        "ro": "Plimbarea dvs. prin Michalovce începe în vibranta Piață a Eliberatorilor, inima orașului. Dimineața este dedicată explorării comorilor sacre ale orașului, admirând stilurile bizantin și gotic ale bisericilor din apropiere. La prânz, o scurtă plimbare vă duce la magnificul Conac Sztáray, care găzduiește perspicacele Muzeu Zemplín. Aici, vă veți cufunda în istoria și natura locală. După-amiaza este rezervată unei plimbări revigorante către Observatorul Astronomic pentru vederi panoramice și o lecție despre cosmos. Încheiați ziua la un restaurant tradițional, savurând aromele regiunii Zemplín.",
+        "en": "Your walking tour of Michalovce begins in the vibrant Liberators' Square, the city's heart. The morning is for exploring the city's sacred treasures, admiring the Byzantine and Gothic styles of the nearby churches. By midday, a short walk takes you to the magnificent Sztáray Manor House, which hosts the insightful Zemplín Museum. Here, you'll take a deep dive into local history and nature. The afternoon is reserved for a refreshing walk to the Observatory for panoramic views and a lesson on the cosmos. Conclude your day at a traditional restaurant, savoring the flavors of the Zemplín region."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Schafskäseknödel, ein slowakisches Nationalgericht. Probieren Sie sie im Restaurant Zemplínska."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Juhtúrós galuska, egy szlovák nemzeti étel. Kóstolja meg a Zemplínska étteremben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Găluște cu brânză de oaie, un fel de mâncare național slovac. Încercați-le la Restaurant Zemplínska."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Sheep cheese dumplings, a Slovak national dish. Try them at Restaurant Zemplínska."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park pri Zemplínskom múzeu",
+            "tip": "Der Park rund um das Museum ist ein ruhiger Ort zum Entspannen nach dem Museumsbesuch.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Ufer des Laborec",
+            "tip": "Ein Spaziergang am Flussufer bei Sonnenuntergang bietet eine friedliche Flucht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Park a Zempléni Múzeumnál",
+            "tip": "A múzeum körüli park csendes hely a pihenésre a múzeumlátogatás után.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Laborec folyó partja",
+            "tip": "Egy séta a folyóparton naplementekor békés kikapcsolódást nyújt.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul de lângă Muzeul Zemplín",
+            "tip": "Parcul din jurul muzeului este un loc liniștit pentru relaxare după vizită.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Malul râului Laborec",
+            "tip": "O plimbare de-a lungul malului râului la apus oferă o evadare pașnică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Park at the Zemplín Museum",
+            "tip": "The park surrounding the museum is a quiet spot to relax after your visit.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Banks of the Laborec River",
+            "tip": "A walk along the riverbank at sunset offers a peaceful escape.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Töpferwaren",
+            "tip": "Suchen Sie nach handgemachter Keramik, die die Traditionen der Zemplín-Region widerspiegelt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerámiák",
+            "tip": "Keressen kézzel készített kerámiákat, amelyek a zempléni régió hagyományait tükrözik."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică locală",
+            "tip": "Căutați ceramică lucrată manual care reflectă tradițiile regiunii Zemplín."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Pottery",
+            "tip": "Look for handmade ceramics that reflect the traditions of the Zemplín region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie einige Kilometer zurücklegen werden.",
+          "Die meisten zentralen Sehenswürdigkeiten sind leicht zu Fuß erreichbar.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit.",
+          "Beginnen Sie früh, um den Menschenmassen zu entgehen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel több kilométert fog gyalogolni.",
+          "A legtöbb központi látnivaló könnyen elérhető gyalog.",
+          "Vigyen magával újratölthető vizes palackot.",
+          "Kezdje korán, hogy elkerülje a tömeget."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți parcurge câțiva kilometri.",
+          "Majoritatea atracțiilor centrale sunt ușor accesibile pe jos.",
+          "Luați cu dvs. o sticlă de apă reutilizabilă.",
+          "Începeți devreme pentru a evita aglomerația."
+        ],
+        "en": [
+          "Wear comfortable shoes, as you'll be covering a few kilometers.",
+          "Most central sights are easily within walking distance.",
+          "Carry a reusable water bottle.",
+          "Start early to avoid the crowds."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 7.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Platz der Befreier (Námestie osloboditeľov)",
+            "hu": "Felszabadítók tere (Námestie osloboditeľov)",
+            "ro": "Piața Eliberatorilor (Námestie osloboditeľov)",
+            "en": "Liberators' Square (Námestie osloboditeľov)"
+          },
+          "coords": [
+            21.918,
+            48.7555
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab und machen Sie einen Spaziergang über den Hauptplatz.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és sétáljon egyet a főtéren.",
+            "ro": "Asigurați-vă bicicleta și faceți o plimbare prin piața principală.",
+            "en": "Lock your bike securely and take a stroll around the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisch-katholische Pfarrkirche",
+            "hu": "Római katolikus plébániatemplom",
+            "ro": "Biserica parohială romano-catolică",
+            "en": "Roman Catholic Parish Church"
+          },
+          "coords": [
+            21.921,
+            48.7545
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine kurze Radtour vom Hauptplatz entfernt, ist diese Kirche leicht erreichbar.",
+            "hu": "A főtértől egy rövid biciklizésre található ez a templom, könnyen megközelíthető.",
+            "ro": "O scurtă plimbare cu bicicleta din piața principală, această biserică este ușor accesibilă.",
+            "en": "A short bike ride from the main square, this church is easily accessible."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Geburt",
+            "hu": "Szűz Mária Születése templom",
+            "ro": "Biserica Nașterea Maicii Domnului",
+            "en": "Church of the Nativity of the Virgin Mary"
+          },
+          "coords": [
+            21.9195,
+            48.756
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radeln Sie zurück ins Zentrum, um diese beeindruckende byzantinische Struktur zu sehen.",
+            "hu": "Tekerjen vissza a központba, hogy megnézze ezt a lenyűgöző bizánci épületet.",
+            "ro": "Pedalați înapoi spre centru pentru a vedea această structură bizantină impresionantă.",
+            "en": "Cycle back towards the center to see this impressive Byzantine structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Sztáray-Herrenhaus & Zemplín-Museum",
+            "hu": "Sztáray-kastély & Zempléni Múzeum",
+            "ro": "Conacul Sztáray & Muzeul Zemplín",
+            "en": "Sztáray Manor House & Zemplín Museum"
+          },
+          "coords": [
+            21.912,
+            48.751
+          ],
+          "category": "museums",
+          "arrive_at": "11:09",
+          "stay_min": 120,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und verbringen Sie eine lange Zeit damit, das Herrenhaus und das Museum zu erkunden.",
+            "hu": "Parkolja le a kerékpárt, és töltsön el hosszabb időt a kastély és a múzeum felfedezésével.",
+            "ro": "Parcați bicicleta și petreceți un timp îndelungat explorând conacul și muzeul.",
+            "en": "Park your bike and spend a good amount of time exploring both the manor and the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Sternwarte Michalovce",
+            "hu": "Nagymihályi csillagvizsgáló",
+            "ro": "Observatorul Astronomic Michalovce",
+            "en": "Michalovce Observatory"
+          },
+          "coords": [
+            21.935,
+            48.76
+          ],
+          "category": "natural features",
+          "arrive_at": "13:28",
+          "stay_min": 60,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Fahrt bergauf kann eine Herausforderung sein, aber die Aussicht ist es wert.",
+            "hu": "Az emelkedő kihívást jelenthet, de a kilátás megéri.",
+            "ro": "Urcușul poate fi o provocare, dar priveliștea merită efortul.",
+            "en": "The ride uphill can be challenging, but the views are worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Antonius-von-Padua-Kapelle",
+            "hu": "Páduai Szent Antal kápolna",
+            "ro": "Capela Sfântul Anton de Padova",
+            "en": "Chapel of Saint Anthony of Padua"
+          },
+          "coords": [
+            21.905,
+            48.75
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein friedlicher Halt auf dem Rückweg ins Stadtzentrum.",
+            "hu": "Egy békés megálló a városközpont felé vezető úton.",
+            "ro": "O oprire liniștită pe drumul de întoarcere spre centrul orașului.",
+            "en": "A peaceful stop on your way back towards the city center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Michalovce auf zwei Rädern. Beginnen Sie am Platz der Befreier und radeln Sie dann zu den wichtigsten Kirchen der Stadt. Die flachen Straßen im Zentrum sind ideal für eine gemütliche Fahrt. Zur Mittagszeit radeln Sie zum Zemplín-Museumskomplex für eine kulturelle Pause. Der Nachmittag bringt eine kleine Herausforderung mit der Fahrt zur Sternwarte, die Sie mit einer fantastischen Aussicht belohnt. Auf dem Rückweg halten Sie an der ruhigen Antonius-von-Padua-Kapelle, bevor Sie den Tag mit einem herzhaften slowakischen Abendessen ausklingen lassen.",
+        "hu": "Fedezze fel Nagymihályt két keréken. Induljon a Felszabadítók teréről, majd tekerjen el a város fő templomaihoz. A központ sík utcái ideálisak egy kényelmes biciklizéshez. Délidőben a Zempléni Múzeum komplexumához kerekezik egy kulturális szünetre. A délután egy kis kihívást tartogat a csillagvizsgálóhoz vezető úttal, amely fantasztikus kilátással jutalmazza. Visszafelé megáll a békés Páduai Szent Antal kápolnánál, mielőtt egy kiadós szlovák vacsorával zárná a napot.",
+        "ro": "Explorați Michalovce pe două roți. Începeți din Piața Eliberatorilor, apoi pedalați către bisericile cheie ale orașului. Străzile plate din centru sunt perfecte pentru o plimbare relaxantă. La prânz, mergeți cu bicicleta la complexul Muzeului Zemplín pentru o pauză culturală. După-amiaza aduce o mică provocare cu drumul către Observator, care vă răsplătește cu vederi fantastice. Pe drumul de întoarcere, opriți-vă la liniștita Capelă a Sfântului Anton de Padova înainte de a încheia ziua cu o cină slovacă copioasă.",
+        "en": "Explore Michalovce on two wheels. Start at Liberators' Square, then pedal to the city's key churches. The flat central streets are perfect for a leisurely ride. For midday, cycle to the Zemplín Museum complex for a cultural break. The afternoon brings a bit of a challenge with the ride up to the Observatory, rewarding you with fantastic views. On your way back, stop at the peaceful Chapel of Saint Anthony of Padua before ending your day with a hearty Slovak dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kapustnica",
+            "tip": "Eine traditionelle Sauerkrautsuppe, oft mit Wurst. Perfekt nach einer Radtour. Suchen Sie danach in lokalen 'Koliba'-Restaurants."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kapustnica",
+            "tip": "Hagyományos savanyúkáposzta-leves, gyakran kolbásszal. Tökéletes egy biciklitúra után. Keresse a helyi 'Koliba' éttermekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kapustnica",
+            "tip": "O supă tradițională de varză acră, adesea cu cârnați. Perfectă după o plimbare cu bicicleta. Căutați-o în restaurantele locale 'Koliba'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kapustnica",
+            "tip": "A traditional sauerkraut soup, often with sausage. Perfect after a bike ride. Look for it in local 'Koliba' style restaurants."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hôrka Hügel (Sternwarte)",
+            "tip": "Auch wenn Sie nicht hineingehen, bietet die Umgebung der Sternwarte eine tolle Aussicht und Ruhe.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hôrka-hegy (Csillagvizsgáló)",
+            "tip": "Még ha nem is megy be, a csillagvizsgáló környéke remek kilátást és csendet kínál.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Hôrka (Observator)",
+            "tip": "Chiar dacă nu intrați, zona din jurul observatorului oferă vederi minunate și liniște.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hôrka Hill (Observatory)",
+            "tip": "Even if you don't go inside, the area around the observatory offers great views and quiet.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig & Medovina",
+            "tip": "Suchen Sie nach Medovina (Honigwein), einem köstlichen lokalen Produkt, das sich hervorragend als Souvenir eignet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz és Medovina",
+            "tip": "Keressen Medovinát (mézbor), egy finom helyi terméket, amely kiváló ajándéktárgy."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală și Medovina",
+            "tip": "Căutați Medovina (hidromel), un produs local delicios, perfect ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey & Medovina",
+            "tip": "Look for Medovina (honey wine), a delicious local product that makes a great souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad, bevor Sie losfahren.",
+          "Michalovce ist relativ flach, aber die Fahrt zur Sternwarte erfordert etwas Anstrengung.",
+          "Tragen Sie einen Helm und verwenden Sie Lichter, wenn Sie abends fahren.",
+          "Einige Straßen haben möglicherweise keine ausgewiesenen Radwege, seien Sie also vorsichtig."
+        ],
+        "hu": [
+          "Ellenőrizze a kerékpárt indulás előtt.",
+          "Nagymihály viszonylag sík, de a csillagvizsgálóhoz való eljutás némi erőfeszítést igényel.",
+          "Viseljen sisakot és használjon lámpát, ha este teker.",
+          "Néhány úton nincs kijelölt kerékpárút, ezért legyen óvatos."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni.",
+          "Michalovce este relativ plat, dar drumul spre Observator necesită ceva efort.",
+          "Purtați cască și folosiți lumini dacă pedalați seara.",
+          "Unele străzi pot să nu aibă benzi dedicate pentru biciclete, așa că fiți prudenți."
+        ],
+        "en": [
+          "Check your bike before you set off.",
+          "Michalovce is relatively flat, but the ride to the observatory requires some effort.",
+          "Wear a helmet and use lights if riding in the evening.",
+          "Some streets may not have dedicated bike lanes, so be cautious."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Historisches Zentrum",
+            "hu": "A klaszter: Történelmi központ",
+            "ro": "Cluster A: Centrul Istoric",
+            "en": "Cluster A: Historic Center"
+          },
+          "coords": [
+            21.918,
+            48.7555
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Platzes der Befreier. Dies ist Ihr Ausgangspunkt für den Vormittag.",
+            "hu": "Parkoljon a Felszabadítók tere közelében. Ez lesz a kiindulópontja a délelőttre.",
+            "ro": "Parcați lângă Piața Eliberatorilor. Acesta este punctul dvs. de plecare pentru dimineață.",
+            "en": "Park near Liberators' Square. This will be your base for the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Geburt",
+            "hu": "Szűz Mária Születése templom",
+            "ro": "Biserica Nașterea Maicii Domnului",
+            "en": "Church of the Nativity of the Virgin Mary"
+          },
+          "coords": [
+            21.9195,
+            48.756
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz, lassen Sie das Auto geparkt.",
+            "hu": "Egy rövid séta a főtértől, hagyja az autót leparkolva.",
+            "ro": "O scurtă plimbare din piața principală, lăsați mașina parcată.",
+            "en": "A short walk from the main square, leave the car parked."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Gerichtsgebäude",
+            "hu": "Régi bírósági épület",
+            "ro": "Vechea clădire a tribunalului",
+            "en": "Old Courthouse Building"
+          },
+          "coords": [
+            21.9175,
+            48.755
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:23",
+          "stay_min": 20,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Auf dem Rückweg zum Platz können Sie dieses historische Gebäude von außen bewundern.",
+            "hu": "Visszafelé a tér felé csodálja meg kívülről ezt a történelmi épületet.",
+            "ro": "Admirați această clădire istorică din exterior în drum spre piață.",
+            "en": "Admire this historic building from the outside on your way back to the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Museumsviertel",
+            "hu": "B klaszter: Múzeumi negyed",
+            "ro": "Cluster B: Cartierul Muzeelor",
+            "en": "Cluster B: Museum Quarter"
+          },
+          "coords": [
+            21.912,
+            48.751
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Sztáray-Herrenhaus und parken Sie dort. Hier verbringen Sie die Mittagszeit.",
+            "hu": "Vezessen a Sztáray-kastélyhoz és parkoljon le. Itt fogja tölteni a déli időszakot.",
+            "ro": "Conduceți la Conacul Sztáray și parcați. Veți petrece aici perioada prânzului.",
+            "en": "Drive to the Sztáray Manor House and park. You'll spend the midday period here."
+          }
+        },
+        {
+          "name": {
+            "de": "Zemplín-Museum",
+            "hu": "Zempléni Múzeum",
+            "ro": "Muzeul Zemplín",
+            "en": "Zemplín Museum"
+          },
+          "coords": [
+            21.9122,
+            48.7512
+          ],
+          "category": "museums",
+          "arrive_at": "12:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum befindet sich im selben Komplex wie das Herrenhaus, ein einfacher Spaziergang.",
+            "hu": "A múzeum ugyanabban a komplexumban található, mint a kastély, egy könnyű séta.",
+            "ro": "Muzeul este în același complex cu conacul, o plimbare ușoară.",
+            "en": "The museum is in the same complex as the manor house, an easy walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Panoramablick",
+            "hu": "C klaszter: Panorámás kilátás",
+            "ro": "Cluster C: Vedere Panoramică",
+            "en": "Cluster C: Panoramic View"
+          },
+          "coords": [
+            21.935,
+            48.76
+          ],
+          "category": "natural features",
+          "arrive_at": "14:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 5.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zur Sternwarte für den besten Blick über die Stadt und die Umgebung.",
+            "hu": "Vezessen a csillagvizsgálóhoz a városra és környékére nyíló legjobb kilátásért.",
+            "ro": "Conduceți la Observator pentru cea mai bună priveliște asupra orașului și a împrejurimilor.",
+            "en": "Drive up to the Observatory for the best view over the city and surrounding area."
+          }
+        },
+        {
+          "name": {
+            "de": "Spätes Mittagessen/Frühes Abendessen",
+            "hu": "Késői ebéd/korai vacsora",
+            "ro": "Prânz târziu/Cină devreme",
+            "en": "Late Lunch/Early Dinner"
+          },
+          "coords": [
+            21.915,
+            48.754
+          ],
+          "category": "gastro",
+          "arrive_at": "15:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kehren Sie ins Stadtzentrum zurück und genießen Sie eine wohlverdiente Mahlzeit.",
+            "hu": "Térjen vissza a városközpontba, és fogyasszon el egy jól megérdemelt ételt.",
+            "ro": "Întoarceți-vă în centrul orașului pentru a vă bucura de o masă binemeritată.",
+            "en": "Head back towards the city center to enjoy a well-deserved meal."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Michalovce effizient in Clustern. Parken Sie am Vormittag im historischen Zentrum und erkunden Sie den Hauptplatz und die Kirchen zu Fuß. Zur Mittagszeit fahren Sie zum Museumsviertel, parken erneut und tauchen in die Geschichte im Sztáray-Herrenhaus und Zemplín-Museum ein. Der Nachmittag ist für eine Fahrt zur Sternwarte reserviert, die einen atemberaubenden Panoramablick bietet. Diese Methode kombiniert den Komfort des Autofahrens mit entspannten Spaziergängen und ermöglicht es Ihnen, sowohl zentrale als auch weiter entfernte Sehenswürdigkeiten stressfrei zu erleben.",
+        "hu": "Autóval hatékonyan, klaszterekben fedezheti fel Nagymihályt. Délelőtt parkoljon a történelmi központban, és fedezze fel gyalog a főteret és a templomokat. Délidőben vezessen a múzeumi negyedbe, parkoljon le újra, és merüljön el a történelemben a Sztáray-kastélyban és a Zempléni Múzeumban. A délután a csillagvizsgálóhoz való autózásra van fenntartva, ahonnan lélegzetelállító panoráma nyílik. Ez a módszer ötvözi az autóvezetés kényelmét a pihentető sétákkal, lehetővé téve a központi és a távolabbi látnivalók stresszmentes megtekintését.",
+        "ro": "Cu mașina, explorați Michalovce eficient în clustere. Dimineața, parcați în centrul istoric și explorați piața principală și bisericile pe jos. La prânz, conduceți către cartierul muzeelor, parcați din nou și scufundați-vă în istorie la Conacul Sztáray și Muzeul Zemplín. După-amiaza este rezervată unei călătorii cu mașina la Observator pentru priveliști panoramice uluitoare. Această metodă combină confortul mașinii cu plimbări relaxante, permițându-vă să experimentați atât atracțiile centrale, cât și cele mai îndepărtate fără stres.",
+        "en": "With a car, you explore Michalovce efficiently in clusters. In the morning, park in the historic center and explore the main square and churches on foot. For midday, drive to the museum quarter, park again, and immerse yourself in history at the Sztáray Manor House and Zemplín Museum. The afternoon is reserved for a drive up to the Observatory for breathtaking panoramic views. This method combines the convenience of driving with relaxed walks, allowing you to experience both central and more distant sights stress-free."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Šariš Bier",
+            "tip": "Probieren Sie ein lokales Bier aus der nahegelegenen Region Šariš zu Ihrer Mahlzeit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Šariš sör",
+            "tip": "Kóstoljon meg egy helyi sört a közeli Šariš régióból az étkezéséhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Berea Šariš",
+            "tip": "Încercați o bere locală din regiunea învecinată Šariš alături de masă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Šariš Beer",
+            "tip": "Try a local beer from the nearby Šariš region with your meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussicht von der Sternwarte",
+            "tip": "Der Panoramablick von hier oben ist der beste Ort für einen ruhigen Moment.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a csillagvizsgálóból",
+            "tip": "A fentről nyíló panorámás kilátás a legjobb hely egy csendes pillanatra.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Priveliștea de la Observator",
+            "tip": "Vederea panoramică de sus este cel mai bun loc pentru un moment de liniște.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the Observatory",
+            "tip": "The panoramic view from up here is the best spot for a quiet moment.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zemplín Wein",
+            "tip": "Die Weinregion Tokaj liegt nicht weit entfernt. Suchen Sie nach lokalen Weinen als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zempléni bor",
+            "tip": "A Tokaji borvidék nincs messze. Keressen helyi borokat ajándéktárgyként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin de Zemplín",
+            "tip": "Regiunea viticolă Tokaj nu este departe. Căutați vinuri locale ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zemplín Wine",
+            "tip": "The Tokaj wine region is not far. Look for local wines as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Parkvorschriften und -gebühren im Stadtzentrum.",
+          "Planen Sie zusätzliche Zeit für die Parkplatzsuche ein.",
+          "Die Cluster-Walking-Methode ist ideal, um Parkprobleme zu minimieren.",
+          "Ein GPS ist hilfreich, um zwischen den Clustern zu navigieren."
+        ],
+        "hu": [
+          "Ellenőrizze a parkolási szabályokat és díjakat a városközpontban.",
+          "Tervezzen plusz időt a parkolóhely keresésére.",
+          "A klaszteres-sétálós módszer ideális a parkolási gondok minimalizálására.",
+          "GPS hasznos a klaszterek közötti navigációhoz."
+        ],
+        "ro": [
+          "Verificați reglementările și taxele de parcare în centrul orașului.",
+          "Planificați timp suplimentar pentru a găsi un loc de parcare.",
+          "Metoda de plimbare în clustere este ideală pentru a minimiza bătăile de cap cu parcarea.",
+          "Un GPS este util pentru a naviga între clustere."
+        ],
+        "en": [
+          "Check parking regulations and fees in the city center.",
+          "Plan extra time for finding a parking spot.",
+          "The cluster-walking method is ideal for minimizing parking hassles.",
+          "A GPS is helpful for navigating between the clusters."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 8.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Ankunft im Zentrum",
+            "hu": "A klaszter: Érkezés a központba",
+            "ro": "Cluster A: Sosire în Centru",
+            "en": "Cluster A: Arrival in the Center"
+          },
+          "coords": [
+            21.918,
+            48.7555
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Platz der Befreier, dem idealen Ausgangspunkt.",
+            "hu": "Menjen busszal a Felszabadítók terére, az ideális kiindulópontra.",
+            "ro": "Luați un autobuz până în Piața Eliberatorilor, punctul de plecare ideal.",
+            "en": "Take a bus to Liberators' Square, the ideal starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Geburt",
+            "hu": "Szűz Mária Születése templom",
+            "ro": "Biserica Nașterea Maicii Domnului",
+            "en": "Church of the Nativity of the Virgin Mary"
+          },
+          "coords": [
+            21.9195,
+            48.756
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Platz aus ist es ein kurzer und angenehmer Spaziergang zu dieser Kirche.",
+            "hu": "A térről egy rövid és kellemes séta vezet ehhez a templomhoz.",
+            "ro": "Din piață, este o plimbare scurtă și plăcută până la această biserică.",
+            "en": "From the square, it's a short and pleasant walk to this church."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisch-katholische Pfarrkirche",
+            "hu": "Római katolikus plébániatemplom",
+            "ro": "Biserica parohială romano-catolică",
+            "en": "Roman Catholic Parish Church"
+          },
+          "coords": [
+            21.921,
+            48.7545
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Zentrum weiter zu Fuß.",
+            "hu": "Fedezze fel tovább gyalog a történelmi központot.",
+            "ro": "Continuați să explorați centrul istoric pe jos.",
+            "en": "Continue exploring the historic center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Fahrt zum Museum",
+            "hu": "B klaszter: Utazás a múzeumhoz",
+            "ro": "Cluster B: Călătorie la Muzeu",
+            "en": "Cluster B: Trip to the Museum"
+          },
+          "coords": [
+            21.912,
+            48.751
+          ],
+          "category": "museums",
+          "arrive_at": "11:38",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Zentrum zum Zemplín-Museum. Dies ist ein kombinierter Besuch mit dem Herrenhaus.",
+            "hu": "Menjen busszal a központból a Zempléni Múzeumhoz. Ez egy összevont látogatás a kastéllyal.",
+            "ro": "Luați un autobuz din centru către Muzeul Zemplín. Aceasta este o vizită combinată cu conacul.",
+            "en": "Take a bus from the center to the Zemplín Museum. This is a combined visit with the manor house."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Bus zur Sternwarte",
+            "hu": "C klaszter: Busz a csillagvizsgálóhoz",
+            "ro": "Cluster C: Autobuz către Observator",
+            "en": "Cluster C: Bus to the Observatory"
+          },
+          "coords": [
+            21.935,
+            48.76
+          ],
+          "category": "natural features",
+          "arrive_at": "14:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine weitere Busfahrt bringt Sie auf den Hügel zur Sternwarte für einen tollen Nachmittagsausblick.",
+            "hu": "Egy másik buszjárat visz fel a hegyre a csillagvizsgálóhoz egy nagyszerű délutáni kilátásért.",
+            "ro": "O altă călătorie cu autobuzul vă va duce pe deal la Observator pentru o priveliște minunată de după-amiază.",
+            "en": "Another bus ride will take you up the hill to the Observatory for a great afternoon view."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen im Zentrum",
+            "hu": "Vacsora a központban",
+            "ro": "Cină în Centru",
+            "en": "Dinner in the Center"
+          },
+          "coords": [
+            21.916,
+            48.7542
+          ],
+          "category": "gastro",
+          "arrive_at": "16:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kehren Sie mit dem Bus ins Zentrum zurück und finden Sie ein gemütliches Restaurant für das Abendessen.",
+            "hu": "Térjen vissza busszal a központba, és keressen egy hangulatos éttermet a vacsorához.",
+            "ro": "Întoarceți-vă în centru cu autobuzul și găsiți un restaurant primitor pentru cină.",
+            "en": "Return to the center by bus and find a cozy restaurant for dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln können Sie Michalovce entspannt erleben. Beginnen Sie im Zentrum und erkunden Sie die Sehenswürdigkeiten zu Fuß. Ein Bus bringt Sie bequem zum Museumskomplex, wo Sie die Mittagszeit verbringen. Am Nachmittag bringt Sie ein weiterer Bus zur Sternwarte, um die Aussicht ohne anstrengenden Aufstieg zu genießen. Diese Methode ist kostengünstig und umweltfreundlich und ermöglicht es Ihnen, sich unter die Einheimischen zu mischen und die Stadt in einem gemächlicheren Tempo zu sehen.",
+        "hu": "A tömegközlekedéssel kényelmesen felfedezheti Nagymihályt. Kezdje a központban, és fedezze fel a látnivalókat gyalog. Egy busz kényelmesen elviszi a múzeumi komplexumhoz, ahol a déli időt tölti. Délután egy másik busz felviszi a csillagvizsgálóhoz, hogy élvezhesse a kilátást a megerőltető emelkedő nélkül. Ez a módszer költséghatékony és környezetbarát, lehetővé téve, hogy elvegyüljön a helyiek között, és lassabb tempóban lássa a várost.",
+        "ro": "Folosind transportul public, puteți experimenta Michalovce într-un mod relaxat. Începeți în centru, explorând atracțiile pe jos. Un autobuz vă va duce convenabil la complexul muzeal pentru a petrece perioada prânzului. După-amiaza, un alt autobuz vă duce la Observator pentru a vă bucura de priveliște fără o urcare obositoare. Această metodă este economică și ecologică, permițându-vă să vă amestecați cu localnicii și să vedeți orașul într-un ritm mai lent.",
+        "en": "Using public transit allows for a relaxed experience of Michalovce. Start in the center, exploring the sights on foot. A bus will conveniently take you to the museum complex to spend the midday. In the afternoon, another bus takes you to the Observatory to enjoy the views without a strenuous climb. This method is budget-friendly and eco-conscious, allowing you to mingle with locals and see the city at a more leisurely pace."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pirohy",
+            "tip": "Gefüllte Teigtaschen, ähnlich wie Piroggen, oft mit Quark oder Kartoffeln gefüllt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pirohy",
+            "tip": "Töltött táskák, hasonló a piroghoz, gyakran túróval vagy krumplival töltve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pirohy",
+            "tip": "Găluște umplute, similare cu pierogi, adesea umplute cu brânză de vaci sau cartofi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pirohy",
+            "tip": "Filled dumplings, similar to pierogi, often filled with curd cheese or potatoes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt aus der Stadt",
+            "tip": "Die Fahrt zur Sternwarte bietet selbst schon Ausblicke auf die ländliche Umgebung.",
+            "emoji": "🚌"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszút a városból kifelé",
+            "tip": "Maga a csillagvizsgálóhoz vezető út is kilátást nyújt a vidéki környezetre.",
+            "emoji": "🚌"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătoria cu autobuzul în afara orașului",
+            "tip": "Călătoria în sine spre Observator oferă priveliști ale peisajului rural.",
+            "emoji": "🚌"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride out of town",
+            "tip": "The journey to the observatory itself offers views of the surrounding countryside.",
+            "emoji": "🚌"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Korbwaren",
+            "tip": "Die Region ist bekannt für ihre Korbwaren, ein einzigartiges und traditionelles Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fonott áruk",
+            "tip": "A régió ismert fonott áruiról, egy egyedi és hagyományos ajándéktárgy."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Articole din răchită",
+            "tip": "Regiunea este cunoscută pentru articolele sale din răchită, un suvenir unic și tradițional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wickerwork",
+            "tip": "The region is known for its wickerwork, a unique and traditional souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, besonders für die letzte Rückfahrt.",
+          "Haben Sie etwas Kleingeld für Tickets dabei.",
+          "Die meisten Busfahrer sprechen möglicherweise kein Englisch, haben Sie also Ihr Ziel bereit."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy pénzt takarítson meg.",
+          "Ellenőrizze előre a buszmenetrendet, különösen az utolsó visszautat.",
+          "Legyen Önnél aprópénz a jegyekhez.",
+          "A legtöbb buszsofőr lehet, hogy nem beszél angolul, ezért legyen készen a célállomás nevével."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru a economisi bani.",
+          "Verificați programul autobuzelor în avans, în special pentru ultima călătorie de întoarcere.",
+          "Aveți la îndemână mărunțiș pentru bilete.",
+          "Majoritatea șoferilor de autobuz s-ar putea să nu vorbească engleză, așa că aveți destinația pregătită."
+        ],
+        "en": [
+          "Buy a day pass for the bus to save money.",
+          "Check bus schedules in advance, especially for the last return trip.",
+          "Have some small change ready for tickets.",
+          "Most bus drivers may not speak English, so have your destination ready."
+        ]
+      }
+    }
+  }
+}

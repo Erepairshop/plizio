@@ -1,0 +1,1470 @@
+{
+  "city_id": "czechrepublic-trebic-cities-v2",
+  "anchor": {
+    "name": "Trebitsch",
+    "coords": [
+      15.8817,
+      49.2149
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Karlsplatz (Karlovo náměstí)",
+            "hu": "Károly tér (Karlovo náměstí)",
+            "ro": "Piața Carol (Karlovo náměstí)",
+            "en": "Charles Square (Karlovo náměstí)"
+          },
+          "coords": [
+            15.8815,
+            49.215
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee und genießen Sie die Weite eines der größten Plätze Tschechiens.",
+            "hu": "Kezdje a napot egy kávéval, és élvezze Csehország egyik legnagyobb terének tágasságát.",
+            "ro": "Începeți ziua aici cu o cafea, admirând întinderea uneia dintre cele mai mari piețe din Cehia.",
+            "en": "Start your day here with a coffee, enjoying the vastness of one of the largest squares in Czechia."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtturm",
+            "hu": "Várostorony",
+            "ro": "Turnul Orașului",
+            "en": "City Tower"
+          },
+          "coords": [
+            15.8825,
+            49.2155
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der Aufstieg ist die Mühe wert! Sie erhalten den besten Panoramablick auf die Stadt und das jüdische Viertel.",
+            "hu": "Megéri a fáradságot felmászni! Innen nyílik a legjobb panoráma a városra és a zsidónegyedre.",
+            "ro": "Efortul de a urca merită! Veți obține cea mai bună priveliște panoramică asupra orașului și a cartierului evreiesc.",
+            "en": "The climb is worth the effort! You'll get the best panoramic view of the town and the Jewish Quarter."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Třebíč & Museum",
+            "hu": "Třebíči kastély és múzeum",
+            "ro": "Castelul Třebíč și Muzeul",
+            "en": "Třebíč Castle & Museum"
+          },
+          "coords": [
+            15.876,
+            49.2162
+          ],
+          "category": "museums",
+          "arrive_at": "10:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Ausstellungen über die Stadtgeschichte, um den Kontext für den Rest des Tages zu erhalten.",
+            "hu": "Fókuszáljon a várostörténeti kiállításokra, hogy kontextusba helyezze a nap további részét.",
+            "ro": "Concentrați-vă pe expozițiile despre istoria orașului pentru a obține context pentru restul zilei.",
+            "en": "Focus on the exhibits about the town's history to get context for the rest of your day."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Prokop-Basilika",
+            "hu": "Szent Prokop-bazilika",
+            "ro": "Bazilica Sf. Procopiu",
+            "en": "St. Procopius Basilica"
+          },
+          "coords": [
+            15.875,
+            49.2158
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Achten Sie auf die einzigartige Mischung aus romanischen und gotischen Stilelementen, ein UNESCO-Juwel.",
+            "hu": "Figyelje meg a román és gótikus stílusjegyek egyedi keverékét, ez egy UNESCO gyöngyszem.",
+            "ro": "Observați amestecul unic de stiluri romanic și gotic, o bijuterie UNESCO.",
+            "en": "Look for the unique blend of Romanesque and Gothic styles, a UNESCO gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Jüdisches Viertel",
+            "hu": "Zsidónegyed",
+            "ro": "Cartierul Evreiesc",
+            "en": "Jewish Quarter"
+          },
+          "coords": [
+            15.877,
+            49.215
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Verirren Sie sich in den engen Gassen. Es ist der beste Weg, die Atmosphäre dieses historischen Ortes aufzusaugen.",
+            "hu": "Tévedjen el a szűk sikátorokban. Ez a legjobb módja annak, hogy magába szívja a történelmi hely hangulatát.",
+            "ro": "Rătăciți-vă pe aleile înguste. Este cel mai bun mod de a absorbi atmosfera acestui loc istoric.",
+            "en": "Get lost in the narrow alleys. It's the best way to soak up the atmosphere of this historic place."
+          }
+        },
+        {
+          "name": {
+            "de": "Hintere Synagoge",
+            "hu": "Hátsó zsinagóga",
+            "ro": "Sinagoga din Spate",
+            "en": "Rear Synagogue"
+          },
+          "coords": [
+            15.8785,
+            49.2145
+          ],
+          "category": "museums",
+          "arrive_at": "14:29",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das Modell des jüdischen Viertels im Inneren hilft, das Layout des Gebiets zu verstehen, das Sie gerade erkunden.",
+            "hu": "A zsinagógán belüli zsidónegyed-modell segít megérteni az éppen felfedezett terület elrendezését.",
+            "ro": "Modelul cartierului evreiesc din interior vă ajută să înțelegeți planul zonei pe care o explorați.",
+            "en": "The model of the Jewish quarter inside helps to understand the layout of the area you're exploring."
+          }
+        },
+        {
+          "name": {
+            "de": "Jüdischer Friedhof",
+            "hu": "Zsidó temető",
+            "ro": "Cimitirul Evreiesc",
+            "en": "Jewish Cemetery"
+          },
+          "coords": [
+            15.872,
+            49.218
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein ruhiger, nachdenklicher Ort. Beachten Sie die alten Grabsteine, die den Hang hinaufklettern.",
+            "hu": "Csendes, elgondolkodtató hely. Figyelje meg a domboldalon felfelé kúszó régi sírköveket.",
+            "ro": "Un loc liniștit, plin de reflecție. Observați pietrele funerare vechi care urcă pe deal.",
+            "en": "A quiet, reflective place. Notice the ancient headstones climbing up the hillside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Třebíč beginnt auf dem weitläufigen Karlsplatz, wo Sie die lokale Atmosphäre aufsaugen, bevor Sie den Stadtturm für eine atemberaubende Aussicht besteigen. Am Vormittag erkunden Sie das Schloss Třebíč, das in einem ehemaligen Benediktinerkloster untergebracht ist, und tauchen in die reiche Geschichte der Stadt ein. Direkt nebenan wartet das erste UNESCO-Juwel, die romanisch-gotische St.-Prokop-Basilika, mit ihrer beeindruckenden Architektur.\n\nNach dem Mittagessen überqueren Sie den Fluss Jihlava und betreten eine andere Welt: das jüdische Viertel, ein weiteres UNESCO-Weltkulturerbe. Verbringen Sie den Nachmittag damit, durch die über 100 erhaltenen Häuser, engen Gassen und Passagen zu schlendern. Die einzigartige Atmosphäre dieses Ortes ist ein Zeugnis seiner reichen und komplexen Geschichte, die Sie bei jedem Schritt spüren werden.\n\nAm späteren Nachmittag vertiefen Sie Ihr Verständnis mit einem Besuch der Hinteren Synagoge. Im Inneren befindet sich ein detailliertes Modell des Viertels und Ausstellungen, die das jüdische Leben in Třebíč dokumentieren. Dieser Besuch bietet einen wichtigen Kontext zu den Straßen, durch die Sie gerade gegangen sind, und macht die Geschichte greifbar.\n\nDer Tag endet mit einem besinnlichen Spaziergang zum Jüdischen Friedhof, einem der größten und ältesten in der Tschechischen Republik. Der ruhige Hang mit seinen Tausenden von Grabsteinen bietet einen friedlichen Abschluss Ihrer Erkundung. Während die Sonne untergeht, können Sie über das einzigartige Erbe von Třebíč nachdenken, das christliche und jüdische Kulturen über Jahrhunderte hinweg miteinander verwoben hat.",
+        "hu": "A třebíči nap a tágas Károly téren kezdődik, ahol magába szívja a helyi hangulatot, mielőtt megmászná a Várostornyot a lélegzetelállító kilátásért. A délelőttöt a Třebíč-i kastély felfedezésével tölti, amely egykori bencés kolostorban kapott helyet, és elmerül a város gazdag történelmében. Közvetlenül mellette vár az első UNESCO gyöngyszem, a román-gótikus Szent Prokop-bazilika, lenyűgöző építészetével.\n\nEbéd után átkel a Jihlava folyón, és egy másik világba lép: a zsidónegyedbe, amely szintén az UNESCO Világörökség része. Töltse a délutánt a több mint 100 megmaradt ház, szűk sikátor és átjáró közötti bolyongással. A hely egyedi atmoszférája gazdag és összetett történelmének tanúbizonysága, amelyet minden lépésnél érezni fog.\n\nKéső délután elmélyíti ismereteit a Hátsó Zsinagóga meglátogatásával. Belül a negyed részletes modellje és kiállítások dokumentálják a třebíči zsidó életet. Ez a látogatás fontos kontextust ad az imént bejárt utcákhoz, kézzelfoghatóvá téve a történelmet.\n\nA nap egy elmélkedő sétával zárul a Zsidó temetőben, Csehország egyik legnagyobb és legrégebbi temetőjében. A csendes domboldal a több ezer sírkővel békés lezárást kínál a felfedezéshez. Ahogy a nap lenyugszik, elgondolkodhat Třebíč egyedülálló örökségén, amely évszázadokon át összefonta a keresztény és zsidó kultúrát.",
+        "ro": "Ziua dvs. în Třebíč începe în spațioasa Piață Carol, absorbind atmosfera locală înainte de a urca în Turnul Orașului pentru o priveliște uluitoare. Dimineața este dedicată explorării Castelului Třebíč, situat într-o fostă mănăstire benedictină, aprofundând istoria bogată a orașului. Chiar alături, vă așteaptă prima bijuterie UNESCO, Bazilica Sf. Procopiu, în stil romanic-gotic, cu arhitectura sa impresionantă.\n\nDupă prânz, traversați râul Jihlava pentru a intra într-o altă lume: Cartierul Evreiesc, un alt sit al Patrimoniului Mondial UNESCO. Petreceți după-amiaza rătăcind printre cele peste 100 de case conservate, alei înguste și pasaje. Atmosfera unică a acestui loc este o mărturie a istoriei sale bogate și complexe, pe care o veți simți la fiecare pas.\n\nMai târziu, aprofundați-vă înțelegerea cu o vizită la Sinagoga din Spate. În interior, un model detaliat al cartierului și expoziții documentează viața evreiască din Třebíč. Această vizită oferă un context vital străzilor pe care tocmai le-ați parcurs, făcând istoria tangibilă.\n\nZiua se încheie cu o plimbare contemplativă la Cimitirul Evreiesc, unul dintre cele mai mari și mai vechi din Republica Cehă. Panta liniștită, cu miile sale de pietre funerare, oferă o încheiere pașnică explorării dvs. Pe măsură ce soarele apune, puteți reflecta asupra moștenirii unice a orașului Třebíč, care a împletit culturile creștină și evreiască de-a lungul secolelor.",
+        "en": "Your day in Třebíč begins in the vast Charles Square, soaking up the local atmosphere before climbing the City Tower for a breathtaking view. The morning is for exploring Třebíč Castle, housed in a former Benedictine monastery, delving into the town's rich history. Right next door, the first UNESCO gem awaits, the Romanesque-Gothic St. Procopius Basilica, with its impressive architecture.\n\nAfter lunch, you'll cross the Jihlava River to enter another world: the Jewish Quarter, another UNESCO World Heritage site. Spend the afternoon wandering through its 100+ preserved houses, narrow alleys, and passages. The unique atmosphere of this place is a testament to its rich and complex history, which you'll feel with every step.\n\nIn the later afternoon, deepen your understanding with a visit to the Rear Synagogue. Inside, a detailed model of the quarter and exhibits document Jewish life in Třebíč. This visit provides vital context to the streets you've just walked, making the history tangible.\n\nThe day concludes with a reflective walk to the Jewish Cemetery, one of the largest and oldest in the Czech Republic. The quiet hillside with its thousands of headstones offers a peaceful end to your exploration. As the sun sets, you can reflect on the unique heritage of Třebíč, which has intertwined Christian and Jewish cultures for centuries."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bramboráky",
+            "tip": "Probieren Sie diese herzhaften Kartoffelpuffer, ein klassischer tschechischer Snack, auf einem der lokalen Märkte."
+          },
+          {
+            "name": "Restaurant Lihovar",
+            "tip": "Ein modernes Restaurant, das traditionelle tschechische Gerichte mit einem kreativen Touch serviert. Ideal für das Mittagessen."
+          },
+          {
+            "name": "Třebíčský kapr",
+            "tip": "Wenn Sie Fisch mögen, suchen Sie nach Gerichten mit lokalem Karpfen, einer Spezialität der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bramboráky",
+            "tip": "Kóstolja meg ezeket a kiadós burgonyalepényeket, egy klasszikus cseh snacket, az egyik helyi piacon."
+          },
+          {
+            "name": "Lihovar étterem",
+            "tip": "Modern étterem, amely hagyományos cseh ételeket szolgál fel kreatív csavarral. Ideális ebédre."
+          },
+          {
+            "name": "Třebíči ponty",
+            "tip": "Ha szereti a halat, keressen helyi pontyból készült ételeket, amely a régió specialitása."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bramboráky",
+            "tip": "Încercați aceste clătite sărate de cartofi, o gustare cehă clasică, la una dintre piețele locale."
+          },
+          {
+            "name": "Restaurant Lihovar",
+            "tip": "Un restaurant modern care servește preparate tradiționale cehe cu o notă creativă. Ideal pentru prânz."
+          },
+          {
+            "name": "Crap de Třebíč",
+            "tip": "Dacă vă place peștele, căutați mâncăruri cu crap local, o specialitate a regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bramboráky",
+            "tip": "Try these savory potato pancakes, a classic Czech snack, at one of the local markets."
+          },
+          {
+            "name": "Restaurant Lihovar",
+            "tip": "A modern restaurant serving traditional Czech dishes with a creative twist. Great for lunch."
+          },
+          {
+            "name": "Třebíč Carp",
+            "tip": "If you like fish, look for dishes featuring local carp, a specialty of the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jüdischer Friedhof",
+            "tip": "Ein Ort der Stille und Besinnung, abseits der belebteren Touristengebiete.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Podzámecká niva",
+            "tip": "Ein Spaziergang entlang des Flusses in diesem Park bietet eine friedliche Pause vom Sightseeing.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick von der Basilika",
+            "tip": "Finden Sie eine ruhige Ecke in der Nähe der Basilika, um den Blick über den Fluss auf die Stadt zu genießen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zsidó temető",
+            "tip": "A csend és az elmélkedés helye, távol a forgalmasabb turisztikai területektől.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Podzámecká niva",
+            "tip": "Egy séta a folyó mentén ebben a parkban békés szünetet kínál a városnézésből.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a bazilikától",
+            "tip": "Keressen egy csendes zugot a bazilika közelében, hogy élvezze a folyón túli város látványát.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul Evreiesc",
+            "tip": "Un loc de liniște și reflecție, departe de zonele turistice mai aglomerate.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Podzámecká niva",
+            "tip": "O plimbare de-a lungul râului în acest parc oferă o pauză liniștită de la vizitarea obiectivelor turistice.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de la Bazilică",
+            "tip": "Găsiți un colț liniștit lângă bazilică pentru a vă bucura de priveliștea orașului de peste râu.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jewish Cemetery",
+            "tip": "A place of quiet and reflection, away from the busier tourist areas.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Podzámecká niva",
+            "tip": "A walk along the river in this park offers a peaceful break from sightseeing.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the Basilica",
+            "tip": "Find a quiet corner near the basilica to enjoy the view across the river to the town.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Informationszentrum im jüdischen Viertel",
+            "tip": "Hier finden Sie Bücher und kleine Souvenirs im Zusammenhang mit der jüdischen Geschichte von Třebíč."
+          },
+          {
+            "name": "Läden am Karlsplatz",
+            "tip": "Erkunden Sie die kleinen Geschäfte rund um den Hauptplatz für lokale Produkte und Handwerkskunst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Információs központ a zsidónegyedben",
+            "tip": "Itt könyveket és apró ajándéktárgyakat találhat Třebíč zsidó történelmével kapcsolatban."
+          },
+          {
+            "name": "Boltok a Károly téren",
+            "tip": "Fedezze fel a főtér körüli kis üzleteket helyi termékekért és kézműves árukért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul de Informare din Cartierul Evreiesc",
+            "tip": "Găsiți cărți și mici suveniruri legate de istoria evreiască a orașului Třebíč."
+          },
+          {
+            "name": "Magazine din Piața Carol",
+            "tip": "Explorați micile magazine din jurul pieței principale pentru produse locale și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Information Centre in the Jewish Quarter",
+            "tip": "Find books and small souvenirs related to the Jewish history of Třebíč."
+          },
+          {
+            "name": "Shops on Charles Square",
+            "tip": "Explore the small shops around the main square for local products and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe! Die Erkundung des jüdischen Viertels und des Friedhofs erfordert viel Gehen auf Kopfsteinpflaster und unebenen Wegen.",
+          "Kaufen Sie ein Kombiticket für die UNESCO-Stätten (Basilika, Jüdisches Viertel), um Geld zu sparen.",
+          "Planen Sie Ihr Mittagessen rund um das jüdische Viertel. Es gibt mehrere nette Restaurants mit lokaler Küche.",
+          "Halten Sie eine Kamera bereit. Die engen Gassen und die historische Architektur bieten unzählige Fotomöglichkeiten."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt! A zsidónegyed és a temető felfedezése sok sétát igényel macskakövön és egyenetlen utakon.",
+          "Vásároljon kombinált jegyet az UNESCO helyszínekre (bazilika, zsidónegyed), hogy pénzt takarítson meg.",
+          "Tervezze az ebédjét a zsidónegyed környékére. Számos kellemes étterem található helyi konyhával.",
+          "Készítsen elő fényképezőgépet. A szűk sikátorok és a történelmi építészet számtalan fotózási lehetőséget kínál."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă! Explorarea Cartierului Evreiesc și a cimitirului implică mult mers pe jos pe piatră cubică și poteci denivelate.",
+          "Cumpărați un bilet combinat pentru siturile UNESCO (Bazilică, Cartierul Evreiesc) pentru a economisi bani.",
+          "Planificați-vă prânzul în jurul Cartierului Evreiesc. Există mai multe restaurante drăguțe cu bucătărie locală.",
+          "Pregătiți aparatul foto. Străduțele înguste și arhitectura istorică oferă nenumărate oportunități foto."
+        ],
+        "en": [
+          "Wear comfortable shoes! Exploring the Jewish Quarter and cemetery involves a lot of walking on cobblestones and uneven paths.",
+          "Buy a combination ticket for the UNESCO sites (Basilica, Jewish Quarter) to save money.",
+          "Plan your lunch around the Jewish Quarter. There are several nice restaurants with local cuisine.",
+          "Keep a camera ready. The narrow alleys and historic architecture provide countless photo opportunities."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Karlsplatz (Karlovo náměstí)",
+            "hu": "Károly tér (Karlovo náměstí)",
+            "ro": "Piața Carol (Karlovo náměstí)",
+            "en": "Charles Square (Karlovo náměstí)"
+          },
+          "coords": [
+            15.8815,
+            49.215
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und machen Sie einen kurzen Spaziergang über diesen riesigen Platz.",
+            "hu": "Zárja le a kerékpárját, és tegyen egy rövid sétát ezen a hatalmas téren.",
+            "ro": "Încuiați-vă bicicleta și faceți o scurtă plimbare prin această piață vastă.",
+            "en": "Lock up your bike and take a short stroll across this vast square."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtturm",
+            "hu": "Várostorony",
+            "ro": "Turnul Orașului",
+            "en": "City Tower"
+          },
+          "coords": [
+            15.8825,
+            49.2155
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Von oben können Sie Ihre Fahrradroute für den Rest des Tages planen.",
+            "hu": "Fentről megtervezheti a nap hátralévő részére szóló kerékpárútvonalát.",
+            "ro": "De sus, vă puteți planifica traseul cu bicicleta pentru restul zilei.",
+            "en": "From the top, you can plan your bike route for the rest of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Podzámecká niva",
+            "hu": "Podzámecká niva",
+            "ro": "Podzámecká niva",
+            "en": "Podzámecká niva"
+          },
+          "coords": [
+            15.87,
+            49.215
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:27",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie eine entspannte Fahrt durch diesen Park am Flussufer, eine angenehme Abwechslung zu den Stadtstraßen.",
+            "hu": "Élvezze a pihentető kerékpározást ebben a folyóparti parkban, kellemes kikapcsolódás a városi utcák után.",
+            "ro": "Bucurați-vă de o plimbare relaxantă cu bicicleta prin acest parc de pe malul râului, o pauză plăcută de la străzile orașului.",
+            "en": "Enjoy a relaxing ride through this riverside park, a nice break from the city streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Třebíč & St.-Prokop-Basilika",
+            "hu": "Třebíči kastély és Szent Prokop-bazilika",
+            "ro": "Castelul Třebíč și Bazilica Sf. Procopiu",
+            "en": "Třebíč Castle & St. Procopius Basilica"
+          },
+          "coords": [
+            15.8755,
+            49.216
+          ],
+          "category": "museums",
+          "arrive_at": "11:33",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und erkunden Sie diese beiden benachbarten UNESCO-Stätten zu Fuß.",
+            "hu": "Parkolja le a kerékpárt, és fedezze fel gyalog ezt a két szomszédos UNESCO helyszínt.",
+            "ro": "Parcați-vă bicicleta și explorați pe jos aceste două situri UNESCO adiacente.",
+            "en": "Park your bike and explore these two adjacent UNESCO sites on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Jüdisches Viertel",
+            "hu": "Zsidónegyed",
+            "ro": "Cartierul Evreiesc",
+            "en": "Jewish Quarter"
+          },
+          "coords": [
+            15.877,
+            49.215
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:36",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Es ist am besten, das Fahrrad am Eingang abzustellen und zu Fuß durch die engen Gassen zu gehen.",
+            "hu": "A legjobb, ha a kerékpárt a bejáratnál hagyja, és gyalog fedezi fel a szűk sikátorokat.",
+            "ro": "Cel mai bine este să lăsați bicicleta la intrare și să explorați aleile înguste pe jos.",
+            "en": "It's best to leave your bike at the entrance and explore the narrow alleys on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Hintere Synagoge",
+            "hu": "Hátsó zsinagóga",
+            "ro": "Sinagoga din Spate",
+            "en": "Rear Synagogue"
+          },
+          "coords": [
+            15.8785,
+            49.2145
+          ],
+          "category": "museums",
+          "arrive_at": "14:38",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um das Modell des Viertels zu sehen und Ihren Besuch in einen Kontext zu stellen.",
+            "hu": "Egy rövid megálló, hogy megnézze a negyed modelljét és kontextusba helyezze a látogatását.",
+            "ro": "O oprire scurtă pentru a vedea modelul cartierului și a contextualiza vizita.",
+            "en": "A quick stop to see the model of the quarter and contextualize your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Jüdischer Friedhof",
+            "hu": "Zsidó temető",
+            "ro": "Cimitirul Evreiesc",
+            "en": "Jewish Cemetery"
+          },
+          "coords": [
+            15.872,
+            49.218
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3,
+          "tip_5lang": {
+            "de": "Der Hügel ist eine Herausforderung, aber die friedliche Atmosphäre oben ist die Belohnung.",
+            "hu": "A domb kihívást jelent, de a fenti békés légkör a jutalom.",
+            "ro": "Dealul este o provocare, dar atmosfera liniștită din vârf este recompensa.",
+            "en": "The hill is a bit of a challenge, but the peaceful atmosphere at the top is the reward."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag auf dem Karlsplatz, dem pulsierenden Herzen von Třebíč. Nachdem Sie den Stadtturm für eine Vogelperspektive erklommen haben, führt Sie eine malerische Fahrt durch den Park Podzámecká niva am Flussufer entlang. Dies ist eine perfekte Gelegenheit, sich aufzuwärmen, bevor Sie die UNESCO-Stätten in Angriff nehmen. Der Vormittag gipfelt in einem Besuch des Schlosskomplexes und der beeindruckenden St.-Prokop-Basilika.\n\nNach einem wohlverdienten Mittagessen ist es Zeit, in die Vergangenheit zu radeln. Sie überqueren den Fluss zum jüdischen Viertel. Schließen Sie Ihr Fahrrad ab und tauchen Sie zu Fuß in das Labyrinth aus engen Gassen ein. Die Atmosphäre ist einzigartig und es ist am besten, sie in langsamem Tempo zu erleben, um die erhaltene Architektur und die verborgenen Innenhöfe zu entdecken.\n\nAm Nachmittag bietet ein kurzer Besuch der Hinteren Synagoge Einblicke in das tägliche Leben, das einst diese Straßen erfüllte. Das detaillierte Modell im Inneren hilft Ihnen, sich in dem Labyrinth zurechtzufinden, das Sie gerade erkundet haben. Dieser Stopp verleiht Ihrem Spaziergang durch das Viertel eine tiefere Bedeutung.\n\nIhre Radtour endet mit einer letzten, etwas anspruchsvollen Fahrt hinauf zum jüdischen Friedhof. Der Aufstieg wird mit einer ruhigen und nachdenklichen Atmosphäre belohnt, während Sie zwischen jahrhundertealten Grabsteinen umherwandern. Es ist ein passender, friedlicher Abschluss für einen Tag, an dem Sie das reiche kulturelle und historische Gefüge von Třebíč auf zwei Rädern erkundet haben.",
+        "hu": "Kezdje a kerékpáros napot a Károly téren, Třebíč lüktető szívében. Miután megmászta a Várostornyot a madártávlati kilátásért, egy festői út vezet a folyóparti Podzámecká niva parkon keresztül. Ez tökéletes bemelegítés az UNESCO helyszínek előtt. A délelőtt a várkomplexum és a lenyűgöző Szent Prokop-bazilika meglátogatásával csúcsosodik ki.\n\nEgy jól megérdemelt ebéd után ideje a múltba tekerni. Átkel a folyón a zsidónegyedbe. Zárja le a kerékpárját, és merüljön el gyalog a szűk sikátorok labirintusában. A hangulat egyedi, és a legjobb lassan, gyalogosan felfedezni, hogy felfedezze a megőrzött építészetet és a rejtett udvarokat.\n\nA délután folyamán egy rövid látogatás a Hátsó zsinagógában betekintést nyújt a mindennapi életbe, amely egykor ezeket az utcákat töltötte meg. A bent található részletes modell segít eligazodni a labirintusban. Ez a megálló mélyebb értelmet ad a negyedben tett sétájának.\n\nA kerékpártúra egy utolsó, kissé kihívást jelentő tekeréssel zárul a zsidó temetőhöz. Az emelkedőt csendes és elgondolkodtató légkör jutalmazza, miközben az évszázados sírkövek között sétál. Méltó, békés befejezése egy napnak, amely során két keréken fedezte fel Třebíč gazdag kulturális és történelmi szövevényét.",
+        "ro": "Începeți-vă ziua pe bicicletă în Piața Carol, inima vibrantă a orașului Třebíč. După ce ați urcat în Turnul Orașului pentru o vedere panoramică, o plimbare pitorească vă duce prin parcul de pe malul râului, Podzámecká niva. Aceasta este o încălzire perfectă înainte de a aborda siturile UNESCO. Dimineața culminează cu o vizită la complexul castelului și la impresionanta Bazilică Sf. Procopiu.\n\nDupă un prânz binemeritat, este timpul să pedalați înapoi în timp. Veți traversa râul spre Cartierul Evreiesc. Încuiați-vă bicicleta și scufundați-vă pe jos în labirintul de alei înguste. Atmosfera este unică și cel mai bine este experimentată într-un ritm lent, descoperind arhitectura conservată și curțile ascunse.\n\nDupă-amiaza, o scurtă vizită la Sinagoga din Spate oferă o perspectivă asupra vieții de zi cu zi care a umplut odată aceste străzi. Modelul detaliat din interior vă ajută să vă orientați în labirintul pe care tocmai l-ați explorat. Această oprire adaugă un strat de profunzime plimbării dvs. prin cartier.\n\nTurul dvs. cu bicicleta se încheie cu o ultimă urcare, oarecum provocatoare, până la cimitirul evreiesc. Urcușul este răsplătit cu o atmosferă senină și contemplativă în timp ce rătăciți printre pietre funerare vechi de secole. Este un final potrivit și pașnic pentru o zi de explorare a bogatei tapiserii culturale și istorice a orașului Třebíč pe două roți.",
+        "en": "Start your cycling day in Charles Square, the vibrant heart of Třebíč. After climbing the City Tower for a bird's-eye view, a scenic ride takes you through the riverside park of Podzámecká niva. This is a perfect warm-up before tackling the UNESCO sites. The morning culminates with a visit to the castle complex and the impressive St. Procopius Basilica.\n\nAfter a well-deserved lunch, it's time to pedal back in time. You'll cross the river to the Jewish Quarter. Lock up your bike and immerse yourself on foot in the labyrinth of narrow alleys. The atmosphere is unique and is best experienced at a slow pace, discovering the preserved architecture and hidden courtyards.\n\nIn the afternoon, a quick visit to the Rear Synagogue offers insights into the daily life that once filled these streets. The detailed model inside helps you navigate the maze you've just explored. This stop adds a layer of depth to your walk through the quarter.\n\nYour bike tour concludes with one last, somewhat challenging, ride up to the Jewish Cemetery. The climb is rewarded with a serene and reflective atmosphere as you wander among centuries-old headstones. It's a fitting, peaceful end to a day spent exploring the rich cultural and historical tapestry of Třebíč on two wheels."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pivovarská restaurace",
+            "tip": "Lokale Brauerei mit Restaurant. Perfekt für ein herzhaftes Mittagessen und ein frisch gebrautes Bier."
+          },
+          {
+            "name": "Klobása",
+            "tip": "Holen Sie sich eine gegrillte Wurst von einem Straßenstand für einen schnellen und leckeren Snack."
+          },
+          {
+            "name": "Veselá Veverka",
+            "tip": "Ein gemütliches Café für einen Kaffee und Kuchen am Nachmittag, um neue Energie zu tanken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pivovarská restaurace",
+            "tip": "Helyi sörfőzde étteremmel. Tökéletes egy kiadós ebédhez és egy frissen főzött sörhöz."
+          },
+          {
+            "name": "Klobása",
+            "tip": "Vegyen egy grillezett kolbászt egy utcai árustól egy gyors és ízletes harapnivalóért."
+          },
+          {
+            "name": "Veselá Veverka",
+            "tip": "Egy hangulatos kávézó egy délutáni kávéra és süteményre, hogy feltöltődjön energiával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pivovarská restaurace",
+            "tip": "Berărie locală cu restaurant. Perfect pentru un prânz copios și o bere proaspăt preparată."
+          },
+          {
+            "name": "Klobása",
+            "tip": "Luați un cârnat la grătar de la un vânzător ambulant pentru o gustare rapidă și delicioasă."
+          },
+          {
+            "name": "Veselá Veverka",
+            "tip": "O cafenea primitoare pentru o cafea și o prăjitură după-amiaza pentru a vă reîncărca bateriile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pivovarská restaurace",
+            "tip": "Local brewery with a restaurant. Perfect for a hearty lunch and a freshly brewed beer."
+          },
+          {
+            "name": "Klobása",
+            "tip": "Grab a grilled sausage from a street vendor for a quick and delicious snack."
+          },
+          {
+            "name": "Veselá Veverka",
+            "tip": "A cozy café for an afternoon coffee and cake to recharge your energy."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Flussufer im Park Podzámecká niva",
+            "tip": "Finden Sie eine Bank am Fluss und beobachten Sie das Wasser. Ein sehr friedlicher Ort.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jüdischer Friedhof am späten Nachmittag",
+            "tip": "Der Friedhof ist besonders ruhig, wenn sich der Tag dem Ende neigt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Obere Terrassen des Schlosses",
+            "tip": "Abseits der Hauptausstellungen bieten die oberen Bereiche des Schlosses oft ruhigere Ecken mit schöner Aussicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Folyópart a Podzámecká niva parkban",
+            "tip": "Keressen egy padot a folyó mellett, és nézze a vizet. Nagyon békés hely.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Zsidó temető késő délután",
+            "tip": "A temető különösen csendes, ahogy a nap a végéhez közeledik.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A kastély felső teraszai",
+            "tip": "A fő kiállításoktól távolabb, a kastély felső részei gyakran csendesebb zugokat kínálnak szép kilátással.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului în parcul Podzámecká niva",
+            "tip": "Găsiți o bancă lângă râu și priviți apa. Un loc foarte pașnic.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul Evreiesc spre sfârșitul după-amiezii",
+            "tip": "Cimitirul este deosebit de liniștit pe măsură ce ziua se apropie de sfârșit.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Terasele superioare ale castelului",
+            "tip": "Departe de expozițiile principale, zonele superioare ale castelului oferă adesea colțuri mai liniștite cu priveliști frumoase.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Riverbank in Podzámecká niva park",
+            "tip": "Find a bench by the river and watch the water flow. A very peaceful spot.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jewish Cemetery in the late afternoon",
+            "tip": "The cemetery is especially quiet as the day draws to a close.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Upper terraces of the castle",
+            "tip": "Away from the main exhibits, the upper areas of the castle often offer quieter corners with nice views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Fahrradgeschäfte",
+            "tip": "Wenn Sie Zubehör benötigen, gibt es in der Stadt einige kleine Fahrradgeschäfte."
+          },
+          {
+            "name": "Souvenirs im Schlossmuseum",
+            "tip": "Der Museumsshop bietet eine gute Auswahl an Büchern und Geschenken zur Regionalgeschichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerékpárboltok",
+            "tip": "Ha kiegészítőkre van szüksége, van néhány kis kerékpárbolt a városban."
+          },
+          {
+            "name": "Ajándéktárgyak a Vármúzeumban",
+            "tip": "A múzeumi bolt jó választékot kínál a helytörténeti könyvekből és ajándékokból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine locale de biciclete",
+            "tip": "Dacă aveți nevoie de accesorii, există câteva magazine mici de biciclete în oraș."
+          },
+          {
+            "name": "Suveniruri la Muzeul Castelului",
+            "tip": "Magazinul muzeului are o selecție bună de cărți și cadouri legate de istoria regională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bike Shops",
+            "tip": "If you need any accessories, there are a few small bike shops in town."
+          },
+          {
+            "name": "Souvenirs at the Castle Museum",
+            "tip": "The museum shop has a good selection of books and gifts related to regional history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihre Bremsen vor der Abfahrt zum Jüdischen Friedhof, der Hügel kann steil sein.",
+          "Nehmen Sie ein gutes Schloss mit, um Ihr Fahrrad an den Hauptsehenswürdigkeiten sicher abzustellen.",
+          "Die meisten Bereiche sind fahrradfreundlich, aber im jüdischen Viertel ist es besser, zu Fuß zu gehen.",
+          "Eine Wasserflasche ist unerlässlich, besonders für die Fahrt am Nachmittag."
+        ],
+        "hu": [
+          "Ellenőrizze a fékeket, mielőtt leereszkedik a Zsidó temetőhöz, a domb meredek lehet.",
+          "Hozzon magával egy jó lakatot, hogy biztonságosan lezárja a kerékpárját a főbb látnivalóknál.",
+          "A legtöbb terület kerékpárbarát, de a zsidónegyedben jobb gyalogolni.",
+          "A vizes palack elengedhetetlen, különösen a délutáni tekeréshez."
+        ],
+        "ro": [
+          "Verificați-vă frânele înainte de a coborî spre Cimitirul Evreiesc, dealul poate fi abrupt.",
+          "Aduceți un lacăt bun pentru a vă asigura bicicleta la principalele atracții.",
+          "Majoritatea zonelor sunt prietenoase cu bicicletele, dar în Cartierul Evreiesc este mai bine să mergeți pe jos.",
+          "O sticlă de apă este esențială, în special pentru plimbarea de după-amiază."
+        ],
+        "en": [
+          "Check your brakes before heading down from the Jewish Cemetery, the hill can be steep.",
+          "Bring a good lock to secure your bike at the main sights.",
+          "Most areas are bike-friendly, but it's better to walk in the Jewish Quarter.",
+          "A water bottle is essential, especially for the afternoon ride."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken am Karlsplatz",
+            "hu": "Parkolás a Károly téren",
+            "ro": "Parcare în Piața Carol",
+            "en": "Parking at Charles Square"
+          },
+          "coords": [
+            15.883,
+            49.214
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier Ihr Auto für den Vormittag. Von hier aus ist der erste Besichtigungscluster leicht zu Fuß erreichbar.",
+            "hu": "Parkolja le itt az autóját délelőttre. Innen az első látnivalócsoport könnyen elérhető gyalog.",
+            "ro": "Parcați-vă mașina aici pentru dimineață. Primul grup de obiective turistice este ușor accesibil pe jos de aici.",
+            "en": "Park your car here for the morning. The first cluster of sights is easily walkable from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Karlsplatz & Stadtturm",
+            "hu": "Károly tér és Várostorony",
+            "ro": "Piața Carol și Turnul Orașului",
+            "en": "Charles Square & City Tower"
+          },
+          "coords": [
+            15.882,
+            49.2152
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, um den Platz zu überqueren und den Turm für eine erste Orientierung zu besteigen.",
+            "hu": "Szánjon időt a téren való átkelésre és a torony megmászására az első tájékozódáshoz.",
+            "ro": "Luați-vă timp să traversați piața și să urcați în turn pentru o orientare inițială.",
+            "en": "Take your time crossing the square and climbing the tower for an initial orientation."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz am UNESCO-Viertel",
+            "hu": "Parkoló az UNESCO-negyednél",
+            "ro": "Parcare lângă Cartierul UNESCO",
+            "en": "Parking at the UNESCO Quarter"
+          },
+          "coords": [
+            15.8745,
+            49.215
+          ],
+          "category": "transport",
+          "arrive_at": "10:43",
+          "stay_min": 5,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum ausgewiesenen Parkplatz für das jüdische Viertel. Lassen Sie das Auto hier für den Rest des Tages stehen.",
+            "hu": "Vezessen a zsidónegyed kijelölt parkolójába. Hagyja itt az autót a nap hátralévő részére.",
+            "ro": "Conduceți la parcarea desemnată pentru Cartierul Evreiesc. Lăsați mașina aici pentru restul zilei.",
+            "en": "Drive to the designated car park for the Jewish Quarter. Leave the car here for the rest of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss, Basilika & Mittagessen",
+            "hu": "Kastély, Bazilika és Ebéd",
+            "ro": "Castel, Bazilică și Prânz",
+            "en": "Castle, Basilica & Lunch"
+          },
+          "coords": [
+            15.875,
+            49.2158
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:49",
+          "stay_min": 200,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den Schlosskomplex und die Basilika und genießen Sie dann ein Mittagessen in einem der nahegelegenen Restaurants.",
+            "hu": "Fedezze fel a várkomplexumot és a bazilikát, majd ebédeljen az egyik közeli étteremben.",
+            "ro": "Explorați complexul castelului și bazilica, apoi bucurați-vă de prânz la unul dintre restaurantele din apropiere.",
+            "en": "Explore the castle complex and the basilica, then enjoy lunch at one of the nearby restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Jüdisches Viertel & Hintere Synagoge",
+            "hu": "Zsidónegyed és Hátsó zsinagóga",
+            "ro": "Cartierul Evreiesc și Sinagoga din Spate",
+            "en": "Jewish Quarter & Rear Synagogue"
+          },
+          "coords": [
+            15.8775,
+            49.215
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:13",
+          "stay_min": 120,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verlieren Sie sich im Labyrinth der Gassen. Die Synagoge bietet einen wichtigen historischen Kontext.",
+            "hu": "Tévedjen el a sikátorok labirintusában. A zsinagóga fontos történelmi kontextust nyújt.",
+            "ro": "Pierdeți-vă în labirintul de alei. Sinagoga oferă un context istoric vital.",
+            "en": "Get lost in the labyrinth of alleys. The synagogue provides vital historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Jüdischer Friedhof",
+            "hu": "Zsidó temető",
+            "ro": "Cimitirul Evreiesc",
+            "en": "Jewish Cemetery"
+          },
+          "coords": [
+            15.872,
+            49.218
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang den Hügel hinauf zu diesem besinnlichen Ort. Ein perfekter Abschluss für Ihren Tag.",
+            "hu": "Egy rövid séta fel a dombra ehhez az elgondolkodtató helyhez. Tökéletes befejezése a napnak.",
+            "ro": "O scurtă plimbare pe deal până la acest loc de reculegere. Un final perfect pentru ziua dvs.",
+            "en": "A short walk up the hill to this reflective site. A perfect way to end your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Třebíč ist auf Effizienz und Eintauchen ausgelegt. Beginnen Sie, indem Sie Ihr Auto in der Nähe des riesigen Karlsplatzes parken. Dieser erste Stopp dient als Ihr Basislager für die Erkundung des Stadtzentrums zu Fuß. Steigen Sie auf den Stadtturm, um sich einen Überblick zu verschaffen und die Weite der Stadt zu erfassen. Dieser erste Spaziergang im Cluster ermöglicht es Ihnen, das Herz von Třebíč ohne den Stress des Fahrens zu erleben.\n\nNachdem Sie das Zentrum erkundet haben, unternehmen Sie eine kurze Fahrt über den Fluss und parken auf dem ausgewiesenen Parkplatz für das UNESCO-Weltkulturerbe. Hier beginnt Ihr zweiter, längerer Walking-Cluster. Der Rest des Tages ist autofrei. Verbringen Sie eine lange Zeit damit, das Schloss, die St.-Prokop-Basilika zu erkunden und ein gemütliches Mittagessen in der Nähe zu genießen, alles zu Fuß erreichbar.\n\nDer Nachmittag ist ganz dem jüdischen Viertel gewidmet. Von Ihrem Parkplatz aus sind es nur wenige Schritte bis zum Eingang dieses Labyrinths aus Geschichte. Erkunden Sie die engen Gassen, besuchen Sie die Hintere Synagoge und saugen Sie die einzigartige Atmosphäre auf. Da Ihr Auto geparkt ist, können Sie sich ohne Sorgen um den Verkehr oder das Parken völlig in die Umgebung vertiefen.\n\nZum Abschluss des Tages führt Sie ein kurzer Spaziergang vom jüdischen Viertel hinauf zum historischen jüdischen Friedhof. Dieser letzte Teil der Wanderung bietet einen Moment der Ruhe und Besinnung mit Blick auf die Stadt. Am Ende des Tages kehren Sie zu Ihrem Auto zurück, nachdem Sie das Beste von Třebíč erlebt haben, indem Sie strategisches Fahren mit ausgedehnten, immersiven Spaziergängen kombiniert haben.",
+        "hu": "Az autós nap Třebíčben a hatékonyságra és az elmélyülésre van tervezve. Kezdje azzal, hogy leparkolja autóját a hatalmas Károly tér közelében. Ez az első megálló a bázis a városközpont gyalogos felfedezéséhez. Másszon fel a Várostoronyba, hogy áttekintést kapjon és felfogja a város méreteit. Ez az első gyalogos klaszter lehetővé teszi, hogy a vezetés stressze nélkül élvezze Třebíč szívét.\n\nMiután felfedezte a központot, tegyen egy rövid autóutat a folyón át, és parkoljon le az UNESCO Világörökség részére kijelölt parkolóban. Itt kezdődik a második, hosszabb gyalogos klaszter. A nap hátralévő része autómentes. Töltsön el hosszú időt a kastély, a Szent Prokop-bazilika felfedezésével és egy kellemes ebéd elfogyasztásával a közelben, mindezt gyalogosan.\n\nA délután teljes egészében a zsidónegyedé. A parkolótól csak néhány lépés a bejárat ehhez a történelmi labirintushoz. Fedezze fel a szűk sikátorokat, látogasson el a Hátsó zsinagógába, és szívja magába az egyedi hangulatot. Mivel az autója le van parkolva, teljesen elmerülhet a környezetben a forgalom vagy a parkolás miatti aggodalmak nélkül.\n\nA nap lezárásaként egy rövid séta vezet a zsidónegyedből a történelmi zsidó temetőbe. A séta utolsó szakasza a csend és az elmélkedés pillanatát kínálja, kilátással a városra. A nap végén visszatér az autójához, miután megtapasztalta Třebíč legjavát, ötvözve a stratégiai vezetést a kiterjedt, magával ragadó sétákkal.",
+        "ro": "Ziua dvs. cu mașina în Třebíč este concepută pentru eficiență și imersiune. Începeți prin a vă parca mașina lângă imensa Piață Carol. Această primă oprire servește drept bază pentru explorarea pe jos a centrului orașului. Urcați în Turnul Orașului pentru a vă face o idee generală și a aprecia vastitatea orașului. Acest prim grup de plimbări vă permite să experimentați inima orașului Třebíč fără stresul condusului.\n\nDupă ce ați explorat centrul, faceți o scurtă călătorie cu mașina peste râu și parcați în parcarea desemnată pentru situl Patrimoniului Mondial UNESCO. Aici începe al doilea și cel mai lung grup de plimbări. Restul zilei este fără mașină. Petreceți o perioadă îndelungată explorând castelul, Bazilica Sf. Procopiu și savurând un prânz relaxat în apropiere, totul la distanță de mers pe jos.\n\nDupă-amiaza este dedicată în întregime Cartierului Evreiesc. De la locul de parcare, sunteți la doar câțiva pași de intrarea în acest labirint al istoriei. Explorați aleile înguste, vizitați Sinagoga din Spate și absorbiți atmosfera unică. Cu mașina parcată, vă puteți cufunda pe deplin în mediul înconjurător, fără grija traficului sau a parcării.\n\nPentru a încheia ziua, o scurtă plimbare vă duce din Cartierul Evreiesc până la istoricul cimitir evreiesc. Această ultimă parte a plimbării oferă un moment de liniște și reflecție cu vedere la oraș. La sfârșitul zilei, vă întoarceți la mașină, după ce ați experimentat tot ce este mai bun în Třebíč, combinând condusul strategic cu plimbări extinse și captivante.",
+        "en": "Your car day in Třebíč is designed for efficiency and immersion. Start by parking your car near the vast Charles Square. This first stop serves as your basecamp for exploring the town center on foot. Climb the City Tower to get the lay of the land and appreciate the town's scale. This initial walking cluster allows you to experience the heart of Třebíč without the stress of driving.\n\nAfter exploring the center, take a short drive across the river and park at the designated lot for the UNESCO World Heritage site. This is where your second, and longer, walking cluster begins. The rest of your day is car-free. Spend a long stretch exploring the castle, St. Procopius Basilica, and enjoying a leisurely lunch nearby, all within easy walking distance.\n\nThe afternoon is dedicated entirely to the Jewish Quarter. From your parking spot, you're just steps from the entrance to this labyrinth of history. Explore the narrow alleys, visit the Rear Synagogue, and soak in the unique atmosphere. With your car parked, you can fully immerse yourself in the surroundings without worrying about traffic or parking.\n\nTo cap off the day, a short walk takes you up from the Jewish Quarter to the historic Jewish Cemetery. This final leg of the walking tour offers a moment of peace and reflection overlooking the town. You'll return to your car at the end of the day having experienced the best of Třebíč by combining strategic driving with extensive, immersive walks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Černý Dům",
+            "tip": "In der Nähe des Karlsplatzes gelegen, bietet es eine solide traditionelle tschechische Küche für den Start in den Tag."
+          },
+          {
+            "name": "Kavárna Ve Dvoře",
+            "tip": "Ein charmantes Café im jüdischen Viertel, ideal für eine Kaffeepause am Nachmittag."
+          },
+          {
+            "name": "Trdelník",
+            "tip": "Halten Sie Ausschau nach Ständen, die diesen süßen, spiralförmigen Gebäck verkaufen, ein köstlicher Genuss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Černý Dům étterem",
+            "tip": "A Károly tér közelében található, szolid, hagyományos cseh konyhát kínál a nap kezdetéhez."
+          },
+          {
+            "name": "Kavárna Ve Dvoře",
+            "tip": "Egy bájos kávézó a zsidónegyedben, ideális egy délutáni kávészünetre."
+          },
+          {
+            "name": "Trdelník",
+            "tip": "Keresse azokat a standokat, amelyek ezt az édes, spirál alakú süteményt árulják, ami egy finom csemege."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Černý Dům",
+            "tip": "Situat lângă Piața Carol, oferă o bucătărie cehă tradițională solidă pentru a începe ziua."
+          },
+          {
+            "name": "Kavárna Ve Dvoře",
+            "tip": "O cafenea fermecătoare în Cartierul Evreiesc, perfectă pentru o pauză de cafea după-amiaza."
+          },
+          {
+            "name": "Trdelník",
+            "tip": "Fiți atenți la tarabele care vând acest produs de patiserie dulce, în formă de spirală, un deliciu gustos."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Černý Dům",
+            "tip": "Located near Charles Square, offers solid traditional Czech cuisine to start your day."
+          },
+          {
+            "name": "Kavárna Ve Dvoře",
+            "tip": "A charming café in the Jewish Quarter, perfect for an afternoon coffee break."
+          },
+          {
+            "name": "Trdelník",
+            "tip": "Look out for stalls selling this sweet, spiral-shaped pastry, a delicious treat."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Innenhof des Schlosses",
+            "tip": "Finden Sie einen ruhigen Innenhof im Schlosskomplex, um der Menge zu entfliehen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ufer des Flusses Jihlava",
+            "tip": "Ein kurzer Spaziergang vom jüdischen Viertel zum Flussufer bietet einen Moment der Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Obere Wege des Jüdischen Friedhofs",
+            "tip": "Die oberen Pfade des Friedhofs sind weniger begangen und bieten eine feierliche Stille.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A kastély udvara",
+            "tip": "Keressen egy csendes udvart a várkomplexumban, hogy elkerülje a tömeget.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A Jihlava folyó partja",
+            "tip": "Egy rövid séta a zsidónegyedből a folyópartra a nyugalom pillanatát kínálja.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Zsidó temető felső ösvényei",
+            "tip": "A temető felső ösvényei kevésbé jártak, és ünnepélyes csendet kínálnak.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea interioară a castelului",
+            "tip": "Găsiți o curte liniștită în complexul castelului pentru a scăpa de mulțime.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malul râului Jihlava",
+            "tip": "O scurtă plimbare din Cartierul Evreiesc până pe malul râului oferă un moment de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cărările superioare ale Cimitirului Evreiesc",
+            "tip": "Cărările superioare ale cimitirului sunt mai puțin circulate și oferă o liniște solemnă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Courtyard",
+            "tip": "Find a quiet courtyard within the castle complex to escape the crowds.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Bank of the Jihlava River",
+            "tip": "A short walk from the Jewish Quarter to the riverbank offers a moment of tranquility.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Upper paths of the Jewish Cemetery",
+            "tip": "The upper paths of the cemetery are less traveled and offer a solemn quiet.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Jüdisches Informationszentrum",
+            "tip": "Bietet die beste Auswahl an Literatur und Souvenirs zur jüdischen Geschichte von Třebíč."
+          },
+          {
+            "name": "Handwerksläden in den Gassen",
+            "tip": "Halten Sie in den Gassen des jüdischen Viertels Ausschau nach kleinen Werkstätten und Handwerksläden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zsidó Információs Központ",
+            "tip": "A legjobb választékot kínálja Třebíč zsidó történelmével kapcsolatos irodalomból és ajándéktárgyakból."
+          },
+          {
+            "name": "Kézműves boltok a sikátorokban",
+            "tip": "Keresse a kis műhelyeket és kézműves boltokat a zsidónegyed sikátoraiban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul de Informare Evreiesc",
+            "tip": "Oferă cea mai bună selecție de literatură și suveniruri despre istoria evreiască din Třebíč."
+          },
+          {
+            "name": "Magazine de artizanat pe alei",
+            "tip": "Fiți atenți la micile ateliere și magazine de artizanat de pe aleile Cartierului Evreiesc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Jewish Information Centre",
+            "tip": "Offers the best selection of literature and souvenirs on the Jewish history of Třebíč."
+          },
+          {
+            "name": "Artisan shops in the alleys",
+            "tip": "Keep an eye out for small workshops and craft shops in the alleys of the Jewish Quarter."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die Parkzonen und -gebühren, besonders in der Nähe des Zentrums.",
+          "Die Verwendung von zwei Hauptparkplätzen (einer im Zentrum, einer im UNESCO-Viertel) ist die effizienteste Strategie.",
+          "Lassen Sie keine Wertsachen im Auto sichtbar liegen.",
+          "Sobald Sie im UNESCO-Viertel geparkt haben, ist alles zu Fuß erreichbar. Genießen Sie die autofreie Erkundung."
+        ],
+        "hu": [
+          "Figyeljen a parkolási zónákra és díjakra, különösen a központ közelében.",
+          "Két fő parkoló használata (egy a központban, egy az UNESCO negyedben) a leghatékonyabb stratégia.",
+          "Ne hagyjon értéktárgyakat látható helyen az autóban.",
+          "Miután leparkolt az UNESCO negyedben, minden gyalogosan elérhető. Élvezze az autómentes felfedezést."
+        ],
+        "ro": [
+          "Fiți atenți la zonele și taxele de parcare, în special în apropierea centrului.",
+          "Utilizarea a două parcări principale (una în centru, una în cartierul UNESCO) este cea mai eficientă strategie.",
+          "Nu lăsați obiecte de valoare la vedere în mașină.",
+          "Odată ce ați parcat în cartierul UNESCO, totul este la distanță de mers pe jos. Bucurați-vă de explorarea fără mașină."
+        ],
+        "en": [
+          "Pay attention to parking zones and fees, especially near the center.",
+          "Using two main car parks (one in the center, one at the UNESCO quarter) is the most efficient strategy.",
+          "Do not leave valuables visible in your car.",
+          "Once you park at the UNESCO quarter, everything is walkable. Enjoy the car-free exploration."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 3.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Karlsplatz",
+            "hu": "Érkezés a Károly térre",
+            "ro": "Sosire în Piața Carol",
+            "en": "Arrival at Charles Square"
+          },
+          "coords": [
+            15.8817,
+            49.2149
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die meisten Buslinien halten hier. Dies ist Ihr Ausgangspunkt für den ersten Besichtigungscluster.",
+            "hu": "A legtöbb buszjárat itt áll meg. Ez a kiindulópont az első látnivalócsoporthoz.",
+            "ro": "Majoritatea liniilor de autobuz opresc aici. Acesta este punctul dvs. de plecare pentru primul grup de obiective turistice.",
+            "en": "Most bus lines stop here. This is your starting point for the first cluster of sights."
+          }
+        },
+        {
+          "name": {
+            "de": "Karlsplatz & Stadtturm",
+            "hu": "Károly tér és Várostorony",
+            "ro": "Piața Carol și Turnul Orașului",
+            "en": "Charles Square & City Tower"
+          },
+          "coords": [
+            15.882,
+            49.2152
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den riesigen Platz und besteigen Sie den Turm, um einen Blick von oben zu bekommen.",
+            "hu": "Fedezze fel a hatalmas teret és mássza meg a tornyot a fenti kilátásért.",
+            "ro": "Explorați piața vastă și urcați în turn pentru o priveliște de sus.",
+            "en": "Explore the vast square and climb the tower for a view from above."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Haltestelle 'Podklášteří'",
+            "hu": "Buszozás a 'Podklášteří' megállóhoz",
+            "ro": "Călătorie cu autobuzul până la stația 'Podklášteří'",
+            "en": "Bus ride to 'Podklášteří' stop"
+          },
+          "coords": [
+            15.875,
+            49.2145
+          ],
+          "category": "transport",
+          "arrive_at": "10:47",
+          "stay_min": 5,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus über den Fluss. Diese Haltestelle ist der Zugang zu den UNESCO-Stätten.",
+            "hu": "Menjen egy helyi busszal a folyón át. Ez a megálló a kapu az UNESCO helyszínekhez.",
+            "ro": "Luați un autobuz local peste râu. Această stație este poarta de acces către siturile UNESCO.",
+            "en": "Take a local bus across the river. This stop is the gateway to the UNESCO sites."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss, Basilika & Mittagessen",
+            "hu": "Kastély, Bazilika és Ebéd",
+            "ro": "Castel, Bazilică și Prânz",
+            "en": "Castle, Basilica & Lunch"
+          },
+          "coords": [
+            15.875,
+            49.2158
+          ],
+          "category": "museums",
+          "arrive_at": "10:53",
+          "stay_min": 200,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dieser Bereich ist ein kompakter Spaziergang. Nehmen Sie sich Zeit für die Museen und ein entspanntes Mittagessen.",
+            "hu": "Ez a terület egy kompakt séta. Szánjon időt a múzeumokra és egy nyugodt ebédre.",
+            "ro": "Această zonă este o plimbare compactă. Luați-vă timp pentru muzee și un prânz relaxat.",
+            "en": "This area is a compact walk. Take your time for the museums and a relaxed lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Jüdisches Viertel & Hintere Synagoge",
+            "hu": "Zsidónegyed és Hátsó zsinagóga",
+            "ro": "Cartierul Evreiesc și Sinagoga din Spate",
+            "en": "Jewish Quarter & Rear Synagogue"
+          },
+          "coords": [
+            15.8775,
+            49.215
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:17",
+          "stay_min": 120,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die Gassen. Alles ist von der Bushaltestelle aus leicht zu Fuß erreichbar.",
+            "hu": "Merüljön el a sikátorokban. Minden könnyen elérhető gyalog a buszmegállótól.",
+            "ro": "Cufundați-vă în alei. Totul este la o distanță de mers pe jos de stația de autobuz.",
+            "en": "Immerse yourself in the alleys. Everything is an easy walk from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Jüdischer Friedhof",
+            "hu": "Zsidó temető",
+            "ro": "Cimitirul Evreiesc",
+            "en": "Jewish Cemetery"
+          },
+          "coords": [
+            15.872,
+            49.218
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der letzte Spaziergang des Tages führt Sie zu diesem ruhigen und historischen Ort.",
+            "hu": "A nap utolsó sétája ehhez a csendes és történelmi helyhez vezet.",
+            "ro": "Ultima plimbare a zilei vă duce la acest loc liniștit și istoric.",
+            "en": "The last walk of the day takes you up to this quiet and historic site."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Erkundung von Třebíč mit öffentlichen Verkehrsmitteln beginnt im Herzen der Stadt, am Karlsplatz, der von den meisten Buslinien angefahren wird. Der erste Teil Ihres Tages ist ein Spaziergang durch das Stadtzentrum, bei dem Sie den Platz erkunden und den Stadtturm besteigen, um einen Panoramablick zu genießen. Dieses erste Cluster ist leicht zu Fuß zu bewältigen.\n\nAm Vormittag nehmen Sie einen kurzen Bus über den Fluss Jihlava zur Haltestelle 'Podklášteří'. Dies ist Ihr einziger großer Transit-Hop des Tages. Von hier aus ist das gesamte UNESCO-Weltkulturerbe – Schloss, Basilika und jüdisches Viertel – ein einziger, großer Walking-Cluster. Verbringen Sie den Rest des Vormittags und die Mittagszeit damit, das Schloss und die Basilika zu erkunden und in der Nähe zu Mittag zu essen.\n\nDer Nachmittag ist für das Eintauchen in das jüdische Viertel reserviert. Da Sie sich bereits im Herzen des historischen Bereichs befinden, können Sie sich frei bewegen, ohne sich um Fahrpläne kümmern zu müssen. Schlendern Sie durch die engen Gassen, besuchen Sie die Hintere Synagoge und spüren Sie die Geschichte, die Sie umgibt.\n\nIhr Tag endet mit einem letzten Spaziergang vom jüdischen Viertel hinauf zum Friedhof. Dieser besinnliche Spaziergang bietet einen friedlichen Abschluss Ihrer Erkundung. Anschließend können Sie bequem von der nahegelegenen Bushaltestelle 'Podklášteří' Ihre Rückreise antreten und dabei die Effizienz der Kombination eines einzigen Bustransfers mit ausgedehnten, ungestörten Spaziergängen genießen.",
+        "hu": "A tömegközlekedéssel történő Třebíč-felfedezés a város szívében, a Károly téren kezdődik, amelyet a legtöbb buszjárat érint. A nap első része egy séta a városközpontban, a tér felfedezése és a Várostorony megmászása a panorámáért. Ez az első klaszter könnyen bejárható gyalog.\n\nDélelőtt egy rövid buszútra száll a Jihlava folyón át a 'Podklášteří' megállóig. Ez az egyetlen nagyobb tömegközlekedési ugrás a nap folyamán. Innen az egész UNESCO Világörökségi helyszín – kastély, bazilika és zsidónegyed – egyetlen nagy gyalogos klasztert alkot. Töltse a délelőtt hátralévő részét és az ebédet a kastély és a bazilika felfedezésével és a közeli étkezéssel.\n\nA délután a zsidónegyedbe való elmerülésre van fenntartva. Mivel már a történelmi terület szívében van, szabadon mozoghat anélkül, hogy a menetrendek miatt kellene aggódnia. Sétáljon a szűk sikátorokban, látogasson el a Hátsó zsinagógába, és érezze a körülvevő történelmet.\n\nA nap egy utolsó sétával zárul a zsidónegyedből a temetőbe. Ez az elmélkedő séta békés lezárást kínál a felfedezésnek. Ezután kényelmesen elindulhat a közeli 'Podklášteří' buszmegállóból, élvezve az egyetlen busztranszfer és a kiterjedt, zavartalan séták kombinációjának hatékonyságát.",
+        "ro": "Explorarea cu transportul public a orașului Třebíč începe în inima orașului, Piața Carol, deservită de majoritatea liniilor de autobuz. Prima parte a zilei este un grup de plimbări în centrul orașului, explorând piața și urcând în Turnul Orașului pentru vederi panoramice. Acest prim grup este ușor de parcurs pe jos.\n\nLa mijlocul dimineții, veți lua un autobuz scurt peste râul Jihlava până la stația 'Podklášteří'. Acesta este singurul dvs. salt major de tranzit al zilei. De aici, întregul sit al Patrimoniului Mondial UNESCO - castelul, bazilica și Cartierul Evreiesc - este un singur și mare grup de plimbări. Petreceți restul dimineții și ora prânzului explorând castelul și bazilica și luând prânzul în apropiere.\n\nDupă-amiaza este rezervată imersiunii în Cartierul Evreiesc. Deoarece sunteți deja în inima zonei istorice, sunteți liber să rătăciți fără să vă faceți griji pentru orare. Plimbați-vă pe aleile înguste, vizitați Sinagoga din Spate și simțiți istoria care vă înconjoară.\n\nZiua dvs. se încheie cu o ultimă plimbare de la Cartierul Evreiesc până la cimitir. Această plimbare reflectivă oferă un final pașnic explorării dvs. Apoi, puteți pleca convenabil de la stația de autobuz 'Podklášteří' din apropiere, bucurându-vă de eficiența combinării unui singur transfer cu autobuzul cu plimbări extinse și neîntrerupte.",
+        "en": "Your public transit exploration of Třebíč begins in the city's heart, Charles Square, served by most bus lines. The first part of your day is a walking cluster through the town center, exploring the square and climbing the City Tower for panoramic views. This initial cluster is easily manageable on foot.\n\nMid-morning, you'll take one short bus ride across the Jihlava river to the 'Podklášteří' stop. This is your only major transit hop of the day. From here, the entire UNESCO World Heritage site—castle, basilica, and Jewish Quarter—is a single, large walking cluster. Spend the rest of the morning and lunchtime exploring the castle and basilica and having lunch nearby.\n\nThe afternoon is reserved for immersing yourself in the Jewish Quarter. Since you're already in the heart of the historic area, you are free to roam without worrying about schedules. Wander the narrow alleys, visit the Rear Synagogue, and feel the history that surrounds you.\n\nYour day concludes with a final walk up from the Jewish Quarter to the cemetery. This reflective stroll provides a peaceful end to your exploration. Afterward, you can conveniently depart from the nearby 'Podklášteří' bus stop, having enjoyed the efficiency of combining a single bus transfer with extensive, uninterrupted walking."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Svačina",
+            "tip": "Kaufen Sie in einer örtlichen Bäckerei ein 'svačina' (ein kleiner Snack am Vormittag), um es unterwegs zu essen."
+          },
+          {
+            "name": "U Jiskrů",
+            "tip": "Ein traditionelles Pub in der Nähe des UNESCO-Viertels, das gutes Essen und lokales Bier serviert."
+          },
+          {
+            "name": "Oplatky",
+            "tip": "Suchen Sie nach diesen dünnen, süßen Waffeln, ein perfekter leichter Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Svačina",
+            "tip": "Vásároljon egy 'svačinát' (egy kis délelőtti uzsonnát) egy helyi pékségben, hogy útközben megegye."
+          },
+          {
+            "name": "U Jiskrů",
+            "tip": "Egy hagyományos kocsma az UNESCO negyed közelében, amely jó ételeket és helyi sört szolgál fel."
+          },
+          {
+            "name": "Oplatky",
+            "tip": "Keresse ezeket a vékony, édes ostyákat, amelyek tökéletes könnyű harapnivalók."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Svačina",
+            "tip": "Cumpărați un 'svačina' (o mică gustare de la jumătatea dimineții) de la o brutărie locală pentru a mânca pe drum."
+          },
+          {
+            "name": "U Jiskrů",
+            "tip": "Un pub tradițional lângă cartierul UNESCO, care servește mâncare bună și bere locală."
+          },
+          {
+            "name": "Oplatky",
+            "tip": "Căutați aceste napolitane subțiri și dulci, o gustare ușoară perfectă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Svačina",
+            "tip": "Buy a 'svačina' (a small mid-morning snack) from a local bakery to eat on the go."
+          },
+          {
+            "name": "U Jiskrů",
+            "tip": "A traditional pub near the UNESCO quarter serving good food and local beer."
+          },
+          {
+            "name": "Oplatky",
+            "tip": "Look for these thin, sweet wafers, a perfect light snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hinterhöfe im Jüdischen Viertel",
+            "tip": "Einige der Gassen öffnen sich zu ruhigen, vergessenen Innenhöfen. Perfekt für eine kurze Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bank am Fluss Jihlava",
+            "tip": "Nachdem Sie den Bus verlassen haben, nehmen Sie sich einen Moment Zeit am Flussufer, bevor Sie zu den Sehenswürdigkeiten aufbrechen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Inneres der St.-Prokop-Basilika",
+            "tip": "Trotz seiner Beliebtheit ist das Innere der Basilika oft ein Ort der stillen Einkehr.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hátsó udvarok a zsidónegyedben",
+            "tip": "Néhány sikátor csendes, elfeledett udvarokra nyílik. Tökéletes egy rövid szünetre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pad a Jihlava folyó partján",
+            "tip": "Miután leszállt a buszról, szánjon egy percet a folyóparton, mielőtt elindulna a látnivalókhoz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Szent Prokop-bazilika belseje",
+            "tip": "Népszerűsége ellenére a bazilika belseje gyakran a csendes elmélkedés helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curți interioare în Cartierul Evreiesc",
+            "tip": "Unele dintre alei se deschid spre curți liniștite, uitate. Perfect pentru o pauză scurtă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bancă pe malul râului Jihlava",
+            "tip": "După ce coborâți din autobuz, acordați-vă un moment pe malul râului înainte de a vă îndrepta spre obiective.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Interiorul Bazilicii Sf. Procopiu",
+            "tip": "În ciuda popularității sale, interiorul bazilicii este adesea un loc de contemplare liniștită.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Backyards in the Jewish Quarter",
+            "tip": "Some of the alleys open up into quiet, forgotten courtyards. Perfect for a short break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bench by the Jihlava River",
+            "tip": "After getting off the bus, take a moment by the riverbank before heading to the sights.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Inside St. Procopius Basilica",
+            "tip": "Despite its popularity, the interior of the basilica is often a place of quiet contemplation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marktstände am Karlsplatz",
+            "tip": "Überprüfen Sie, ob es einen Bauernmarkt für lokale Produkte und Snacks gibt."
+          },
+          {
+            "name": "Kleine Läden im jüdischen Viertel",
+            "tip": "Entdecken Sie kleine, unabhängige Geschäfte, die einzigartige Geschenke und Souvenirs verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piaci standok a Károly téren",
+            "tip": "Nézze meg, van-e termelői piac helyi termékekért és harapnivalókért."
+          },
+          {
+            "name": "Kis boltok a zsidónegyedben",
+            "tip": "Fedezzen fel kis, független üzleteket, amelyek egyedi ajándékokat és ajándéktárgyakat árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tarabe de piață în Piața Carol",
+            "tip": "Verificați dacă există o piață a fermierilor pentru produse locale și gustări."
+          },
+          {
+            "name": "Mici magazine în Cartierul Evreiesc",
+            "tip": "Descoperiți mici magazine independente care vând cadouri și suveniruri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market stalls in Charles Square",
+            "tip": "Check for a farmer's market for local produce and snacks."
+          },
+          {
+            "name": "Small shops in the Jewish Quarter",
+            "tip": "Discover small, independent shops selling unique gifts and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie vorhaben, mehr als zwei Fahrten zu machen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, besonders für die Rückfahrt am späten Nachmittag.",
+          "Die meisten Sehenswürdigkeiten sind in zwei Hauptclustern zusammengefasst, die jeweils zu Fuß erkundet werden können.",
+          "Validieren Sie Ihr Ticket beim Einsteigen in den Bus, um eine Strafe zu vermeiden."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha több mint két utazást tervez.",
+          "Ellenőrizze előre a buszmenetrendet, különösen a késő délutáni visszautazáshoz.",
+          "A legtöbb látnivaló két fő klaszterbe van csoportosítva, mindegyik gyalogosan felfedezhető.",
+          "Érvényesítse a jegyét a buszra szálláskor, hogy elkerülje a bírságot."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă intenționați să faceți mai mult de două călătorii.",
+          "Verificați programul autobuzelor în avans, în special pentru călătoria de întoarcere de la sfârșitul după-amiezii.",
+          "Majoritatea obiectivelor turistice sunt grupate în două clustere principale, fiecare explorabil pe jos.",
+          "Validați-vă biletul la urcarea în autobuz pentru a evita o amendă."
+        ],
+        "en": [
+          "Buy a day pass for the bus if you plan on making more than two journeys.",
+          "Check the bus schedule in advance, especially for the return trip in the late afternoon.",
+          "Most sights are grouped into two main clusters, each explorable on foot.",
+          "Validate your ticket when you board the bus to avoid a fine."
+        ]
+      }
+    }
+  }
+}

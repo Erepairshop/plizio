@@ -1,0 +1,1224 @@
+{
+  "city_id": "lithuania-alytus-cities-v2",
+  "anchor": {
+    "name": "Alytus",
+    "coords": [
+      24.05,
+      54.4
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:52",
+      "total_km": 5.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Freiheitsengel",
+            "hu": "Szabadság Angyala",
+            "ro": "Îngerul Libertății",
+            "en": "Angel of Freedom"
+          },
+          "coords": [
+            24.0489,
+            54.3967
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein Wahrzeichen von Alytus, perfekt für ein erstes Foto.",
+            "hu": "Alytus egyik jelképe, tökéletes egy első fotóhoz.",
+            "ro": "Un simbol al orașului Alytus, perfect pentru o primă fotografie.",
+            "en": "A landmark of Alytus, perfect for a first photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtgarten",
+            "hu": "Városkert",
+            "ro": "Grădina Publică",
+            "en": "City Garden"
+          },
+          "coords": [
+            24.0511,
+            54.3982
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:30",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe und die gepflegten Blumenbeete.",
+            "hu": "Élvezze a nyugalmat és a gondozott virágágyásokat.",
+            "ro": "Bucurați-vă de liniște și de straturile de flori bine întreținute.",
+            "en": "Enjoy the tranquility and the well-kept flowerbeds."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Kasimir-Kirche",
+            "hu": "Szent Kázmér-templom",
+            "ro": "Biserica Sfântul Cazimir",
+            "en": "St. Casimir's Church"
+          },
+          "coords": [
+            24.0545,
+            54.3951
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:42",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beachten Sie die moderne Architektur dieser Garnisonskirche.",
+            "hu": "Figyelje meg ennek a helyőrségi templomnak a modern építészetét.",
+            "ro": "Observați arhitectura modernă a acestei biserici de garnizoană.",
+            "en": "Note the modern architecture of this garrison church."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Alytus",
+            "hu": "Alytus Múzeum",
+            "ro": "Muzeul Alytus",
+            "en": "Alytus Museum"
+          },
+          "coords": [
+            24.045,
+            54.3948
+          ],
+          "category": "museums",
+          "arrive_at": "11:38",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die reiche Geschichte der Region Dzūkija ein.",
+            "hu": "Merüljön el Dzūkija régió gazdag történelmében.",
+            "ro": "Cufundați-vă în istoria bogată a regiunii Dzūkija.",
+            "en": "Immerse yourself in the rich history of the Dzūkija region."
+          }
+        },
+        {
+          "name": {
+            "de": "Alytus-Burgberg",
+            "hu": "Alytus Várhegy",
+            "ro": "Dealul Cetății Alytus",
+            "en": "Alytus Castle Mound"
+          },
+          "coords": [
+            24.035,
+            54.401
+          ],
+          "category": "historical",
+          "arrive_at": "13:38",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für den Panoramablick auf den Fluss Nemunas.",
+            "hu": "A mászás megéri a Nemunas folyóra nyíló panorámáért.",
+            "ro": "Urcușul merită pentru vederea panoramică asupra râului Nemunas.",
+            "en": "The climb is worth it for the panoramic view of the Nemunas River."
+          }
+        },
+        {
+          "name": {
+            "de": "Brücke der Weißen Rose",
+            "hu": "Fehér Rózsa híd",
+            "ro": "Podul Trandafirului Alb",
+            "en": "White Rose Bridge"
+          },
+          "coords": [
+            24.038,
+            54.404
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:04",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Litauens höchste Fußgängerbrücke, ideal für schwindelfreie Besucher.",
+            "hu": "Litvánia legmagasabb gyaloghídja, ideális a szédüléstől nem tartó látogatóknak.",
+            "ro": "Cel mai înalt pod pietonal din Lituania, ideal pentru vizitatorii fără rău de înălțime.",
+            "en": "Lithuania's highest pedestrian bridge, ideal for visitors with a head for heights."
+          }
+        },
+        {
+          "name": {
+            "de": "Jugendpark",
+            "hu": "Ifjúsági Park",
+            "ro": "Parcul Tineretului",
+            "en": "Youth Park"
+          },
+          "coords": [
+            24.065,
+            54.405
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:13",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 44,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich oder probieren Sie die Abenteuerpfade aus.",
+            "hu": "Pihenjen vagy próbálja ki a kalandösvényeket.",
+            "ro": "Relaxați-vă sau încercați traseele de aventură.",
+            "en": "Relax or try out the adventure trails."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am Freiheitsengel, dem Symbol der Stadt. Der Vormittag führt Sie durch den ruhigen Stadtgarten und zur modernen St.-Kasimir-Kirche. Am Mittag tauchen Sie im Alytus-Museum tief in die lokale Geschichte ein. Der Nachmittag wird abenteuerlich: Erklimmen Sie den Burgberg für eine atemberaubende Aussicht und überqueren Sie die beeindruckende Brücke der Weißen Rose. Beenden Sie den Tag entspannt im weitläufigen Jugendpark, wo Sie die Natur genießen können.",
+        "hu": "Kezdje a napot a város jelképénél, a Szabadság Angyalánál. A délelőtt a csendes Városkerten és a modern Szent Kázmér-templomon keresztül vezet. Délben merüljön el a helyi történelemben az Alytus Múzeumban. A délután kalandos lesz: mássza meg a Várhegyet a lélegzetelállító kilátásért, és keljen át a lenyűgöző Fehér Rózsa hídon. A napot pihenéssel zárja a tágas Ifjúsági Parkban, ahol élvezheti a természetet.",
+        "ro": "Începeți ziua la Îngerul Libertății, simbolul orașului. Dimineața vă poartă prin liniștita Grădină Publică și la moderna Biserică Sfântul Cazimir. La prânz, aprofundați istoria locală la Muzeul Alytus. După-amiaza devine aventuroasă: urcați pe Dealul Cetății pentru o priveliște uluitoare și traversați impresionantul Pod al Trandafirului Alb. Încheiați ziua relaxându-vă în vastul Parc al Tineretului, unde vă puteți bucura de natură.",
+        "en": "Start your day at the Angel of Freedom, the city's symbol. The morning takes you through the quiet City Garden and to the modern St. Casimir's Church. At noon, delve deep into local history at the Alytus Museum. The afternoon gets adventurous: climb the Castle Mound for a breathtaking view and cross the impressive White Rose Bridge. End the day relaxing in the expansive Youth Park, where you can enjoy nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cepelinai (Zeppeline)",
+            "tip": "Probieren Sie das litauische Nationalgericht in einem der lokalen Restaurants wie dem 'Dzūkijos Dvaras'."
+          },
+          {
+            "name": "Šaltibarščiai (Kalte Rote-Bete-Suppe)",
+            "tip": "Eine erfrischende Wahl für einen warmen Tag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cepelinai (cepelin)",
+            "tip": "Kóstolja meg a litván nemzeti ételt egy helyi étteremben, mint például a 'Dzūkijos Dvaras'."
+          },
+          {
+            "name": "Šaltibarščiai (hideg céklaleves)",
+            "tip": "Frissítő választás egy meleg napra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cepelinai (găluște de cartofi)",
+            "tip": "Încercați mâncarea națională lituaniană la un restaurant local precum 'Dzūkijos Dvaras'."
+          },
+          {
+            "name": "Šaltibarščiai (supă rece de sfeclă)",
+            "tip": "O alegere răcoritoare pentru o zi călduroasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cepelinai (potato dumplings)",
+            "tip": "Try the Lithuanian national dish at a local restaurant like 'Dzūkijos Dvaras'."
+          },
+          {
+            "name": "Šaltibarščiai (cold beetroot soup)",
+            "tip": "A refreshing choice for a warm day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Nemunas am Burgberg",
+            "tip": "Ein ruhiger Ort, um dem Fluss zuzusehen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dailidė-Seen",
+            "tip": "Etwas außerhalb des Hauptrundgangs, aber perfekt für eine stille Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nemunas-part a Várhegynél",
+            "tip": "Csendes hely a folyó nézésére.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dailidė-tavak",
+            "tip": "Kicsit kiesik a fő útvonalból, de tökéletes egy csendes pihenőre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Nemunas lângă Dealul Cetății",
+            "tip": "Un loc liniștit pentru a privi râul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Lacurile Dailidė",
+            "tip": "Puțin în afara traseului principal, dar perfect pentru o pauză liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bank of the Nemunas River by the Castle Mound",
+            "tip": "A quiet spot to watch the river.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dailidė Lakes",
+            "tip": "A bit off the main tour, but perfect for a quiet break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Märkte",
+            "tip": "Suchen Sie nach handgefertigtem Bernsteinschmuck oder Leinenprodukten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piacok",
+            "tip": "Keressen kézzel készített borostyán ékszereket vagy lenvászon termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe locale",
+            "tip": "Căutați bijuterii din chihlimbar lucrate manual sau produse din in."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Markets",
+            "tip": "Look for handmade amber jewelry or linen products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da der Tag viel Gehen beinhaltet.",
+          "Der Aufstieg zum Burgberg kann anstrengend sein, aber die Aussicht ist es wert.",
+          "Planen Sie genügend Zeit für das Museum ein, es gibt viel zu entdecken."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert a nap sok sétát tartalmaz.",
+          "A Várhegyre való feljutás fárasztó lehet, de a kilátás megéri.",
+          "Szánjon elég időt a múzeumra, sok a látnivaló."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece ziua implică mult mers pe jos.",
+          "Urcușul pe Dealul Cetății poate fi obositor, dar priveliștea merită.",
+          "Planificați suficient timp pentru muzeu, sunt multe de descoperit."
+        ],
+        "en": [
+          "Wear comfortable shoes, as the day involves a lot of walking.",
+          "The climb to the Castle Mound can be tiring, but the view is worth it.",
+          "Allow plenty of time for the museum, there's a lot to see."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:42",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtgarten",
+            "hu": "Városkert",
+            "ro": "Grădina Publică",
+            "en": "City Garden"
+          },
+          "coords": [
+            24.0511,
+            54.3982
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein perfekter, zentraler Startpunkt für Ihre Radtour.",
+            "hu": "Tökéletes, központi kiindulópont a kerékpártúrához.",
+            "ro": "Un punct de plecare perfect și central pentru turul cu bicicleta.",
+            "en": "A perfect, central starting point for your bike tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Freiheitsengel",
+            "hu": "Szabadság Angyala",
+            "ro": "Îngerul Libertății",
+            "en": "Angel of Freedom"
+          },
+          "coords": [
+            24.0489,
+            54.3967
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:58",
+          "stay_min": 15,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nur eine kurze Fahrt vom Park entfernt, ein Muss für ein Foto.",
+            "hu": "Csak egy rövid útra a parktól, kötelező egy fotóhoz.",
+            "ro": "La doar o scurtă plimbare cu bicicleta de parc, o necesitate pentru o fotografie.",
+            "en": "Just a short ride from the park, a must-see for a photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Alytus-Burgberg",
+            "hu": "Alytus Várhegy",
+            "ro": "Dealul Cetății Alytus",
+            "en": "Alytus Castle Mound"
+          },
+          "coords": [
+            24.035,
+            54.401
+          ],
+          "category": "historical",
+          "arrive_at": "10:21",
+          "stay_min": 70,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Rad unten ab und genießen Sie den Aufstieg zu Fuß.",
+            "hu": "Hagyja a kerékpárt lent, és élvezze a gyalogos mászást.",
+            "ro": "Lăsați bicicleta jos și bucurați-vă de urcușul pe jos.",
+            "en": "Park your bike at the bottom and enjoy the climb on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Brücke der Weißen Rose",
+            "hu": "Fehér Rózsa híd",
+            "ro": "Podul Trandafirului Alb",
+            "en": "White Rose Bridge"
+          },
+          "coords": [
+            24.038,
+            54.404
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:34",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Sie können mit dem Rad über die Brücke fahren und die Aussicht genießen.",
+            "hu": "Átkelhet a hídon kerékpárral és élvezheti a kilátást.",
+            "ro": "Puteți traversa podul cu bicicleta și să vă bucurați de priveliște.",
+            "en": "You can ride your bike across the bridge and enjoy the view."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Kasimir-Kirche",
+            "hu": "Szent Kázmér-templom",
+            "ro": "Biserica Sfântul Cazimir",
+            "en": "St. Casimir's Church"
+          },
+          "coords": [
+            24.0545,
+            54.3951
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:11",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Eine interessante architektonische Abwechslung auf Ihrer Tour.",
+            "hu": "Érdekes építészeti változatosság a túrán.",
+            "ro": "O schimbare arhitecturală interesantă în turul dumneavoastră.",
+            "en": "An interesting architectural change of pace on your tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Jugendpark",
+            "hu": "Ifjúsági Park",
+            "ro": "Parcul Tineretului",
+            "en": "Youth Park"
+          },
+          "coords": [
+            24.065,
+            54.405
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:40",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für eine längere Pause und ein Picknick.",
+            "hu": "Nagyszerű hely egy hosszabb szünetre és piknikezésre.",
+            "ro": "Un loc minunat pentru o pauză mai lungă și un picnic.",
+            "en": "A great place for a longer break and a picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Dailidė-Seen",
+            "hu": "Dailidė-tavak",
+            "ro": "Lacurile Dailidė",
+            "en": "Dailidė Lakes"
+          },
+          "coords": [
+            24.025,
+            54.395
+          ],
+          "category": "natural features",
+          "arrive_at": "15:27",
+          "stay_min": 105,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 5.7,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einer entspannten Fahrt um die Seen.",
+            "hu": "Fejezze be a túrát egy pihentető körrel a tavak körül.",
+            "ro": "Încheiați turul cu o plimbare relaxantă în jurul lacurilor.",
+            "en": "End your tour with a relaxing ride around the lakes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und starten Sie im grünen Stadtgarten. Eine kurze Fahrt bringt Sie zum Freiheitsengel, bevor Sie sich auf den Weg zum historischen Alytus-Burgberg machen. Am Mittag überqueren Sie die berühmte Brücke der Weißen Rose und besuchen die St.-Kasimir-Kirche. Der Nachmittag gehört der Erholung: Machen Sie eine lange Pause im Jugendpark und beenden Sie Ihre Radtour mit einer malerischen Runde um die Dailidė-Seen, wo Sie die Natur in vollen Zügen genießen können.",
+        "hu": "Pattanjon kerékpárra és induljon a zöld Városkertből. Egy rövid tekerés elviszi a Szabadság Angyalához, mielőtt elindulna a történelmi Alytus Várhegy felé. Délben keljen át a híres Fehér Rózsa hídon és látogasson el a Szent Kázmér-templomhoz. A délután a pihenésé: tartson egy hosszú szünetet az Ifjúsági Parkban, és fejezze be a kerékpártúrát egy festői körrel a Dailidė-tavak körül, ahol teljes mértékben élvezheti a természetet.",
+        "ro": "Urcați-vă pe bicicletă și porniți din Grădina Publică. O scurtă plimbare vă duce la Îngerul Libertății înainte de a vă îndrepta spre istoricul Deal al Cetății Alytus. La prânz, traversați faimosul Pod al Trandafirului Alb și vizitați Biserica Sfântul Cazimir. După-amiaza este dedicată relaxării: luați o pauză lungă în Parcul Tineretului și încheiați turul cu bicicleta cu o tură pitorească în jurul Lacurilor Dailidė, unde vă puteți bucura din plin de natură.",
+        "en": "Get on your bike and start in the green City Garden. A short ride takes you to the Angel of Freedom before heading to the historic Alytus Castle Mound. At noon, cross the famous White Rose Bridge and visit St. Casimir's Church. The afternoon is for recreation: take a long break in the Youth Park and finish your bike tour with a scenic loop around the Dailidė Lakes, where you can fully enjoy nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kibinai",
+            "tip": "Gefüllte Teigtaschen, ein perfekter Snack für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kibinai",
+            "tip": "Töltött tésztatáskák, tökéletes harapnivaló útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kibinai",
+            "tip": "Plăcinte umplute, o gustare perfectă pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kibinai",
+            "tip": "Filled pastries, a perfect snack on the go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Nemunas",
+            "tip": "Folgen Sie dem Fluss für eine ruhige und malerische Fahrt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nemunas menti kerékpárút",
+            "tip": "Kövesse a folyót egy csendes és festői útvonalon.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de pe malul Nemunasului",
+            "tip": "Urmați râul pentru o plimbare liniștită și pitorească.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Nemunas River bike path",
+            "tip": "Follow the river for a quiet and scenic ride.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sportgeschäfte",
+            "tip": "Falls Sie Zubehör für Ihre Radtour benötigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sportboltok",
+            "tip": "Ha felszerelésre van szüksége a kerékpártúrához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de sport",
+            "tip": "În caz că aveți nevoie de accesorii pentru turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sports shops",
+            "tip": "In case you need any accessories for your bike tour."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt.",
+          "Nutzen Sie die gut ausgebauten Radwege der Stadt.",
+          "Ein Helm wird für Ihre Sicherheit empfohlen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját.",
+          "Használja a város jól kiépített kerékpárútjait.",
+          "A biztonsága érdekében sisak viselése ajánlott."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni.",
+          "Folosiți pistele de biciclete bine dezvoltate ale orașului.",
+          "Se recomandă purtarea căștii pentru siguranța dumneavoastră."
+        ],
+        "en": [
+          "Check your bike before you set off.",
+          "Use the city's well-developed cycle paths.",
+          "A helmet is recommended for your safety."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 19.4,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Stadtzentrum",
+            "hu": "Parkoló a központban",
+            "ro": "Parcare în centrul orașului",
+            "en": "City Center Parking"
+          },
+          "coords": [
+            24.0515,
+            54.3985
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier, um den ersten Cluster zu Fuß zu erkunden.",
+            "hu": "Parkoljon itt, hogy gyalog fedezze fel az első látnivalócsoportot.",
+            "ro": "Parcați aici pentru a explora primul grup de atracții pe jos.",
+            "en": "Park here to explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtgarten",
+            "hu": "Városkert",
+            "ro": "Grădina Publică",
+            "en": "City Garden"
+          },
+          "coords": [
+            24.0511,
+            54.3982
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:14",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beginnen Sie mit einem Spaziergang durch diese zentrale grüne Oase.",
+            "hu": "Kezdje egy sétával ebben a központi zöld oázisban.",
+            "ro": "Începeți cu o plimbare prin această oază verde centrală.",
+            "en": "Start with a stroll through this central green oasis."
+          }
+        },
+        {
+          "name": {
+            "de": "Freiheitsengel",
+            "hu": "Szabadság Angyala",
+            "ro": "Îngerul Libertății",
+            "en": "Angel of Freedom"
+          },
+          "coords": [
+            24.0489,
+            54.3967
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:05",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Leicht zu Fuß vom Stadtgarten aus zu erreichen.",
+            "hu": "Könnyen megközelíthető gyalog a Városkertből.",
+            "ro": "Ușor de ajuns pe jos de la Grădina Publică.",
+            "en": "Easily reachable on foot from the City Garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Alytus",
+            "hu": "Alytus Múzeum",
+            "ro": "Muzeul Alytus",
+            "en": "Alytus Museum"
+          },
+          "coords": [
+            24.045,
+            54.3948
+          ],
+          "category": "museums",
+          "arrive_at": "10:28",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein Muss, um die Kultur der Region zu verstehen. Planen Sie ausreichend Zeit ein.",
+            "hu": "Kötelező a régió kultúrájának megértéséhez. Szánjon rá elegendő időt.",
+            "ro": "O vizită obligatorie pentru a înțelege cultura regiunii. Planificați suficient timp.",
+            "en": "A must-visit to understand the region's culture. Plan enough time."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz am Burgberg",
+            "hu": "Parkoló a Várhegynél",
+            "ro": "Parcare la Dealul Cetății",
+            "en": "Castle Mound Parking"
+          },
+          "coords": [
+            24.034,
+            54.4005
+          ],
+          "category": "transport",
+          "arrive_at": "12:18",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Wechseln Sie zum zweiten Cluster. Von hier aus geht es wieder zu Fuß weiter.",
+            "hu": "Váltson a második látnivalócsoporthoz. Innen ismét gyalog folytatódik.",
+            "ro": "Treceți la al doilea grup. De aici, continuați pe jos.",
+            "en": "Switch to the second cluster. From here, continue on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Alytus-Burgberg",
+            "hu": "Alytus Várhegy",
+            "ro": "Dealul Cetății Alytus",
+            "en": "Alytus Castle Mound"
+          },
+          "coords": [
+            24.035,
+            54.401
+          ],
+          "category": "historical",
+          "arrive_at": "12:21",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie nach dem Mittagessen die Aussicht und die historische Atmosphäre.",
+            "hu": "Ebéd után élvezze a kilátást és a történelmi hangulatot.",
+            "ro": "După prânz, bucurați-vă de priveliște și de atmosfera istorică.",
+            "en": "After lunch, enjoy the view and the historical atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Brücke der Weißen Rose",
+            "hu": "Fehér Rózsa híd",
+            "ro": "Podul Trandafirului Alb",
+            "en": "White Rose Bridge"
+          },
+          "coords": [
+            24.038,
+            54.404
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:47",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Burgberg entfernt und ein tolles Fotomotiv.",
+            "hu": "Rövid sétára a Várhegytől, remek fotótéma.",
+            "ro": "La o scurtă plimbare de Dealul Cetății și un subiect excelent pentru fotografii.",
+            "en": "A short walk from the Castle Mound and a great photo opportunity."
+          }
+        },
+        {
+          "name": {
+            "de": "Dailidė-Seen",
+            "hu": "Dailidė-tavak",
+            "ro": "Lacurile Dailidė",
+            "en": "Dailidė Lakes"
+          },
+          "coords": [
+            24.025,
+            54.395
+          ],
+          "category": "natural features",
+          "arrive_at": "15:05",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 48,
+          "hop_from_prev_km": 16.0,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag entspannt am Wasser. Ideal für einen längeren Spaziergang.",
+            "hu": "Zárja a napot pihenéssel a vízparton. Ideális egy hosszabb sétához.",
+            "ro": "Încheiați ziua relaxându-vă lângă apă. Ideal pentru o plimbare mai lungă.",
+            "en": "End the day relaxing by the water. Ideal for a longer walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Alytus in Clustern. Parken Sie im Zentrum und spazieren Sie am Vormittag durch den Stadtgarten zum Freiheitsengel und dem Museum. Am Mittag fahren Sie zum zweiten Cluster: dem historischen Burgberg. Nach dem Mittagessen erklimmen Sie den Hügel und spazieren über die nahegelegene Brücke der Weißen Rose. Den Nachmittag verbringen Sie am besten mit einer längeren Fahrt zu den Dailidė-Seen, wo Sie den Tag in ruhiger Natur ausklingen lassen können.",
+        "hu": "Autóval csoportokban fedezheti fel Alytust. Parkoljon a központban, és délelőtt sétáljon át a Városkerten a Szabadság Angyalához és a múzeumhoz. Délben vezessen át a második csoporthoz: a történelmi Várhegyhez. Ebéd után mássza meg a hegyet, és sétáljon át a közeli Fehér Rózsa hídon. A délutánt a legjobb, ha egy hosszabb autózással a Dailidė-tavakhoz tölti, ahol nyugodt természetben fejezheti be a napot.",
+        "ro": "Cu mașina, explorați Alytus în grupuri de atracții. Parcați în centru și plimbați-vă dimineața prin Grădina Publică până la Îngerul Libertății și muzeu. La prânz, conduceți la al doilea grup: istoricul Deal al Cetății. După masă, urcați dealul și plimbați-vă peste podul din apropiere, Podul Trandafirului Alb. Cel mai bun mod de a petrece după-amiaza este cu o călătorie mai lungă la Lacurile Dailidė, unde puteți încheia ziua în natură liniștită.",
+        "en": "Explore Alytus in clusters by car. Park in the center and in the morning, stroll through the City Garden to the Angel of Freedom and the museum. At noon, drive to the second cluster: the historic Castle Mound. After lunch, climb the hill and walk across the nearby White Rose Bridge. The best way to spend the afternoon is with a longer drive to the Dailidė Lakes, where you can end the day in quiet nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Šašlykas (Schaschlik)",
+            "tip": "Oft in Restaurants in der Nähe von Erholungsgebieten wie den Seen zu finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Šašlykas (saslik)",
+            "tip": "Gyakran megtalálható üdülőterületek közelében lévő éttermekben, mint például a tavaknál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Šašlõkk (Frigărui)",
+            "tip": "Adesea găsit în restaurantele din apropierea zonelor de agrement, cum ar fi lacurile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Šašlykas (Shashlik)",
+            "tip": "Often found in restaurants near recreational areas like the lakes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wälder um Alytus",
+            "tip": "Machen Sie einen kurzen Abstecher in die umliegenden Kiefernwälder.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alytus körüli erdők",
+            "tip": "Tegyen egy rövid kitérőt a környező fenyvesekbe.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurile din jurul Alytus",
+            "tip": "Faceți un scurt ocol în pădurile de pini din jur.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Forests around Alytus",
+            "tip": "Take a short detour into the surrounding pine forests.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Halten Sie außerhalb der Stadt Ausschau nach Schildern, die lokale Produkte wie Honig oder Käse verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői boltok",
+            "tip": "A városon kívül figyelje a táblákat, amelyek helyi termékeket, például mézet vagy sajtot árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine la fermă",
+            "tip": "În afara orașului, fiți atenți la semnele care vând produse locale, cum ar fi miere sau brânză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops",
+            "tip": "Outside the city, look out for signs selling local produce like honey or cheese."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Parkgebühren und -zeiten im Stadtzentrum.",
+          "Ein GPS ist hilfreich, um zwischen den Clustern zu navigieren.",
+          "Tanken Sie, bevor Sie die Stadt für Ausflüge verlassen."
+        ],
+        "hu": [
+          "Ellenőrizze a parkolási díjakat és időket a városközpontban.",
+          "GPS hasznos a látnivalócsoportok közötti navigáláshoz.",
+          "Tankoljon, mielőtt elhagyja a várost a kirándulásokhoz."
+        ],
+        "ro": [
+          "Verificați taxele și orele de parcare în centrul orașului.",
+          "Un GPS este util pentru a naviga între grupurile de atracții.",
+          "Alimentați cu combustibil înainte de a părăsi orașul pentru excursii."
+        ],
+        "en": [
+          "Check parking fees and times in the city center.",
+          "A GPS is helpful for navigating between clusters.",
+          "Fill up with fuel before leaving the city for excursions."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Busbahnhof",
+            "hu": "Központi buszmegálló",
+            "ro": "Stație centrală de autobuz",
+            "en": "Central Bus Stop"
+          },
+          "coords": [
+            24.052,
+            54.394
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt für die Erkundung des ersten Clusters.",
+            "hu": "Az első látnivalócsoport felfedezésének kiindulópontja.",
+            "ro": "Punct de plecare pentru explorarea primului grup de atracții.",
+            "en": "Starting point for exploring the first cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Freiheitsengel",
+            "hu": "Szabadság Angyala",
+            "ro": "Îngerul Libertății",
+            "en": "Angel of Freedom"
+          },
+          "coords": [
+            24.0489,
+            54.3967
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:18",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Haltestelle entfernt.",
+            "hu": "Rövid séta a megállótól.",
+            "ro": "La o scurtă plimbare de stație.",
+            "en": "A short walk from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Alytus",
+            "hu": "Alytus Múzeum",
+            "ro": "Muzeul Alytus",
+            "en": "Alytus Museum"
+          },
+          "coords": [
+            24.045,
+            54.3948
+          ],
+          "category": "museums",
+          "arrive_at": "09:41",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Vormittag zu verbringen.",
+            "hu": "Tökéletes hely a délelőtt eltöltésére.",
+            "ro": "Locul perfect pentru a petrece dimineața.",
+            "en": "The perfect place to spend the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle am Burgberg",
+            "hu": "Buszmegálló a Várhegynél",
+            "ro": "Stația de autobuz de la Dealul Cetății",
+            "en": "Castle Mound Bus Stop"
+          },
+          "coords": [
+            24.037,
+            54.399
+          ],
+          "category": "transport",
+          "arrive_at": "11:41",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zum nächsten Cluster.",
+            "hu": "Menjen busszal a következő látnivalócsoporthoz.",
+            "ro": "Luați autobuzul spre următorul grup de atracții.",
+            "en": "Take the bus to the next cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Alytus-Burgberg",
+            "hu": "Alytus Várhegy",
+            "ro": "Dealul Cetății Alytus",
+            "en": "Alytus Castle Mound"
+          },
+          "coords": [
+            24.035,
+            54.401
+          ],
+          "category": "historical",
+          "arrive_at": "11:46",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nach der Busfahrt wartet ein kurzer Spaziergang und ein toller Ausblick.",
+            "hu": "A buszozás után egy rövid séta és nagyszerű kilátás vár.",
+            "ro": "După călătoria cu autobuzul, vă așteaptă o scurtă plimbare și o priveliște minunată.",
+            "en": "After the bus ride, a short walk and a great view await."
+          }
+        },
+        {
+          "name": {
+            "de": "Brücke der Weißen Rose",
+            "hu": "Fehér Rózsa híd",
+            "ro": "Podul Trandafirului Alb",
+            "en": "White Rose Bridge"
+          },
+          "coords": [
+            24.038,
+            54.404
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:12",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Besuch des Burgbergs mit dieser beeindruckenden Brücke.",
+            "hu": "Kombinálja a Várhegy látogatását ezzel a lenyűgöző híddal.",
+            "ro": "Combinați vizita la Dealul Cetății cu acest pod impresionant.",
+            "en": "Combine the visit to the Castle Mound with this impressive bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Jugendpark",
+            "hu": "Ifjúsági Park",
+            "ro": "Parcul Tineretului",
+            "en": "Youth Park"
+          },
+          "coords": [
+            24.065,
+            54.405
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:00",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 78,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort, um den Rest des Nachmittags zu verbringen.",
+            "hu": "Tökéletes hely a délután hátralévő részének eltöltésére.",
+            "ro": "Un loc perfect pentru a petrece restul după-amiezii.",
+            "en": "A perfect place to spend the rest of the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Alytus bequem mit öffentlichen Verkehrsmitteln. Beginnen Sie im Stadtzentrum, wo Sie den Freiheitsengel und das Museum zu Fuß erreichen. Ein Bus bringt Sie am Mittag zum historischen Burgberg und der nahegelegenen Brücke der Weißen Rose. Den Nachmittag verbringen Sie nach einer weiteren Busfahrt im weitläufigen Jugendpark, der sich ideal für eine ausgedehnte Pause und Erholung im Grünen eignet, bevor Sie den Rückweg antreten.",
+        "hu": "Fedezze fel Alytust kényelmesen a tömegközlekedéssel. Kezdje a városközpontban, ahol gyalog elérheti a Szabadság Angyalát és a múzeumot. Délben egy busz elviszi a történelmi Várhegyhez és a közeli Fehér Rózsa hídhoz. A délutánt egy újabb buszozás után a tágas Ifjúsági Parkban tölti, amely ideális egy hosszabb szünetre és a zöldben való pihenésre, mielőtt visszaindulna.",
+        "ro": "Explorați Alytus confortabil cu transportul public. Începeți în centrul orașului, unde puteți ajunge pe jos la Îngerul Libertății și la muzeu. La prânz, un autobuz vă duce la istoricul Deal al Cetății și la Podul Trandafirului Alb din apropiere. După-amiaza o petreceți, după o altă călătorie cu autobuzul, în vastul Parc al Tineretului, ideal pentru o pauză extinsă și relaxare în natură înainte de a vă întoarce.",
+        "en": "Explore Alytus comfortably by public transport. Start in the city center, where you can reach the Angel of Freedom and the museum on foot. At noon, a bus takes you to the historic Castle Mound and the nearby White Rose Bridge. You'll spend the afternoon, after another bus ride, in the spacious Youth Park, which is ideal for an extended break and relaxation in the green before heading back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bandelės (Süße Brötchen)",
+            "tip": "Kaufen Sie sich in einer Bäckerei ein süßes Teilchen für die Busfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bandelės (édes zsemle)",
+            "tip": "Vásároljon egy édes péksüteményt a buszútra egy pékségben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bandelės (chifle dulci)",
+            "tip": "Cumpărați un produs de patiserie dulce de la o brutărie pentru călătoria cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bandelės (sweet buns)",
+            "tip": "Buy a sweet pastry from a bakery for the bus ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fensterplatz im Bus",
+            "tip": "Beobachten Sie das Stadtleben, während Sie von einem Cluster zum nächsten fahren.",
+            "emoji": "🚌"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ablak melletti ülés a buszon",
+            "tip": "Figyelje a városi életet, miközben egyik látnivalócsoporttól a másikig utazik.",
+            "emoji": "🚌"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Loc la fereastră în autobuz",
+            "tip": "Urmăriți viața orașului în timp ce călătoriți de la un grup de atracții la altul.",
+            "emoji": "🚌"
+          }
+        ],
+        "en": [
+          {
+            "name": "Window seat on the bus",
+            "tip": "Watch the city life as you travel from one cluster to another.",
+            "emoji": "🚌"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske an Busbahnhöfen",
+            "tip": "Hier finden Sie Zeitungen, Snacks und kleine Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok a buszpályaudvarokon",
+            "tip": "Itt újságokat, rágcsálnivalókat és apró ajándéktárgyakat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri din autogări",
+            "tip": "Aici puteți găsi ziare, gustări și suveniruri mici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks at bus stations",
+            "tip": "Here you can find newspapers, snacks, and small souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich über die Busfahrpläne, um Wartezeiten zu minimieren.",
+          "Eine Tageskarte ist oft die günstigste Option.",
+          "Achten Sie auf die richtigen Haltestellen, um auszusteigen."
+        ],
+        "hu": [
+          "Tájékozódjon a buszmenetrendekről a várakozási idő minimalizálása érdekében.",
+          "A napijegy gyakran a legolcsóbb lehetőség.",
+          "Figyeljen a megfelelő megállókra a leszálláshoz."
+        ],
+        "ro": [
+          "Verificați orarele autobuzelor pentru a minimiza timpul de așteptare.",
+          "Un bilet de o zi este adesea cea mai ieftină opțiune.",
+          "Fiți atenți la stațiile corecte pentru a coborî."
+        ],
+        "en": [
+          "Check the bus schedules to minimize waiting times.",
+          "A day ticket is often the cheapest option.",
+          "Pay attention to the correct stops to get off."
+        ]
+      }
+    }
+  }
+}

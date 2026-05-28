@@ -1,0 +1,1224 @@
+{
+  "city_id": "slovakia-nitra-cities-v2",
+  "anchor": {
+    "name": "Nitra",
+    "coords": [
+      18.0864,
+      48.3106
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Andrej-Bagár-Theater",
+            "hu": "Andrej Bagar Színház",
+            "ro": "Teatrul Andrej Bagar",
+            "en": "Andrej Bagar Theatre"
+          },
+          "coords": [
+            18.088,
+            48.313
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die modernistische Architektur und prüfen Sie das Abendprogramm.",
+            "hu": "Csodálja meg a modernista építészetet és nézze meg az esti programot.",
+            "ro": "Admirați arhitectura modernistă și verificați programul de seară.",
+            "en": "Admire the modernist architecture and check the evening schedule."
+          }
+        },
+        {
+          "name": {
+            "de": "Nitra Synagoge",
+            "hu": "Nyitrai Zsinagóga",
+            "ro": "Sinagoga din Nitra",
+            "en": "Nitra Synagogue"
+          },
+          "coords": [
+            18.0865,
+            48.3135
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:36",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die maurische Architektur ist innen noch beeindruckender als außen.",
+            "hu": "A mór építészet belülről még lenyűgözőbb, mint kívülről.",
+            "ro": "Arhitectura maură este chiar mai impresionantă în interior decât la exterior.",
+            "en": "The Moorish architecture is even more impressive on the inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Nitra",
+            "hu": "Nyitrai vár",
+            "ro": "Castelul Nitra",
+            "en": "Nitra Castle"
+          },
+          "coords": [
+            18.087,
+            48.317
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:31",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für den Panoramablick über die Stadt.",
+            "hu": "Megéri felmenni a városra nyíló panorámáért.",
+            "ro": "Urcușul merită pentru vederea panoramică asupra orașului.",
+            "en": "The climb is worth it for the panoramic view over the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale des heiligen Emmeram",
+            "hu": "Szent Emmerám-székesegyház",
+            "ro": "Catedrala Sfântul Emmeram",
+            "en": "St. Emmeram's Cathedral"
+          },
+          "coords": [
+            18.0875,
+            48.3175
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:03",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besteht aus drei Kirchen verschiedener Epochen. Einzigartig!",
+            "hu": "Három különböző korból származó templomból áll. Egyedülálló!",
+            "ro": "Compusă din trei biserici din epoci diferite. Unic!",
+            "en": "Consists of three churches from different eras. Truly unique!"
+          }
+        },
+        {
+          "name": {
+            "de": "Kalvarienberg Nitra",
+            "hu": "Nyitrai Kálvária",
+            "ro": "Calvarul din Nitra",
+            "en": "Nitra Calvary"
+          },
+          "coords": [
+            18.08,
+            48.305
+          ],
+          "category": "natural features",
+          "arrive_at": "14:03",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort für einen Nachmittagsspaziergang mit schöner Aussicht.",
+            "hu": "Csendes hely egy délutáni sétához, gyönyörű kilátással.",
+            "ro": "Un loc liniștit pentru o plimbare de după-amiază cu o priveliște frumoasă.",
+            "en": "A peaceful spot for an afternoon walk with a beautiful view."
+          }
+        },
+        {
+          "name": {
+            "de": "Zobor-Hügel",
+            "hu": "Zobor-hegy",
+            "ro": "Dealul Zobor",
+            "en": "Zobor Hill"
+          },
+          "coords": [
+            18.105,
+            48.34
+          ],
+          "category": "natural features",
+          "arrive_at": "16:08",
+          "stay_min": 87,
+          "hop_from_prev_min": 65,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Der beste Ort, um den Sonnenuntergang über Nitra zu beobachten.",
+            "hu": "A legjobb hely a naplemente megtekintéséhez Nyitra felett.",
+            "ro": "Cel mai bun loc pentru a privi apusul peste Nitra.",
+            "en": "The best place to watch the sunset over Nitra."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Nitra beginnt im Herzen der Stadt, wo Kultur auf Geschichte trifft. Am Vormittag erklimmen Sie den Burghügel, das historische Zentrum der Macht und des Glaubens. Spüren Sie die Jahrhunderte unter Ihren Füßen. Nach dem Mittagessen in der Unterstadt führt Sie ein Spaziergang zum Kalvarienberg, einem Ort der Besinnung. Den Abschluss bildet der Aufstieg auf den Zobor-Hügel, wo Sie mit einem unvergesslichen Sonnenuntergang belohnt werden, der die Stadt in goldenes Licht taucht.",
+        "hu": "Nyitrai napja a város szívében kezdődik, ahol a kultúra és a történelem találkozik. Délelőtt megmássza a Várhegyet, a hatalom és a hit történelmi központját. Érezze a lábai alatt elterülő évszázadokat. Az alsóvárosban elköltött ebéd után egy séta vezet a Kálváriához, a csendes elmélkedés helyszínére. A napot a Zobor-hegy megmászása zárja, ahol egy felejthetetlen naplemente arany fénybe borítja a várost.",
+        "ro": "Ziua dvs. în Nitra începe în inima orașului, unde cultura întâlnește istoria. Dimineața, urcați pe Dealul Castelului, centrul istoric al puterii și credinței. Simțiți secolele sub picioarele voastre. După prânzul în orașul de jos, o plimbare vă duce la Calvar, un loc de reflecție. Ziua se încheie cu urcarea pe Dealul Zobor, unde veți fi răsplătit cu un apus de soare de neuitat, care scaldă orașul într-o lumină aurie.",
+        "en": "Your day in Nitra begins in the heart of the city, where culture meets history. In the morning, you'll climb Castle Hill, the historic center of power and faith. Feel the centuries beneath your feet. After lunch in the lower town, a walk takes you to the Calvary, a place of contemplation. The day concludes with an ascent of Zobor Hill, where you'll be rewarded with an unforgettable sunset, bathing the city in golden light."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Das Nationalgericht: Kartoffelklöße mit Schafskäse und Speck. Probieren Sie es im 'Slovenská reštaurácia u nás'."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Ein kühles 'Corgoň' passt perfekt zu einem herzhaften slowakischen Essen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bryndzové halušky (Sztrapacska)",
+            "tip": "A nemzeti étel: juhtúrós galuska szalonnával. Kóstolja meg a 'Slovenská reštaurácia u nás'-ban."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Egy hűvös 'Corgoň' tökéletesen illik egy kiadós szlovák ételhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Mâncarea națională: găluște de cartofi cu brânză de oi și slănină. Încercați-o la 'Slovenská reštaurácia u nás'."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "O bere rece 'Corgoň' se potrivește perfect cu o masă slovacă copioasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "The national dish: potato dumplings with sheep cheese and bacon. Try it at 'Slovenská reštaurácia u nás'."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "A cold 'Corgoň' beer pairs perfectly with a hearty Slovak meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Zobor-Hügel",
+            "tip": "Der Gipfel bietet absolute Ruhe und die beste Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spaziergang am Nitra-Fluss",
+            "tip": "Ein friedlicher Weg abseits des städtischen Trubels.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kalvarienberg",
+            "tip": "Ein Ort der Stille und spirituellen Einkehr.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zobor-hegy",
+            "tip": "A csúcs abszolút nyugalmat és a legjobb kilátást kínálja.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Séta a Nyitra folyó partján",
+            "tip": "Békés útvonal a városi nyüzsgéstől távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kálvária",
+            "tip": "A csend és a spirituális elmélyülés helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Zobor",
+            "tip": "Vârful oferă liniște absolută și cea mai bună priveliște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plimbare pe malul râului Nitra",
+            "tip": "O cale pașnică, departe de agitația urbană.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Calvarul",
+            "tip": "Un loc de liniște și reculegere spirituală.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Zobor Hill",
+            "tip": "The summit offers absolute tranquility and the best views.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Walk along the Nitra River",
+            "tip": "A peaceful path away from the urban hustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Calvary",
+            "tip": "A place of silence and spiritual contemplation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs von der Burg",
+            "tip": "Kleine Andenken an die reiche Geschichte der Stadt."
+          },
+          {
+            "name": "Lokale Handwerksprodukte",
+            "tip": "Suchen Sie nach handgemachter Keramik oder Holzarbeiten auf den Märkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vár-szuvenírek",
+            "tip": "Kis emléktárgyak a város gazdag történelméről."
+          },
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen kézzel készített kerámiát vagy fafaragásokat a piacokon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri de la castel",
+            "tip": "Mici amintiri ale istoriei bogate a orașului."
+          },
+          {
+            "name": "Produse artizanale locale",
+            "tip": "Căutați ceramică sau obiecte din lemn lucrate manual în piețe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Souvenirs",
+            "tip": "Small mementos of the city's rich history."
+          },
+          {
+            "name": "Local Handicrafts",
+            "tip": "Look for handmade pottery or woodcrafts in the markets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da der Weg zur Burg und zum Zobor-Hügel steil ist.",
+          "Nehmen Sie ausreichend Wasser für die Wanderungen mit.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a várhoz és a Zobor-hegyhez vezető út meredek.",
+          "Vigyen magával elegendő vizet a túrákhoz.",
+          "A legtöbb belvárosi látnivaló könnyen megközelíthető gyalog."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece drumul spre castel și Dealul Zobor este abrupt.",
+          "Luați suficientă apă pentru drumeții.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos."
+        ],
+        "en": [
+          "Wear comfortable shoes as the path to the castle and Zobor Hill is steep.",
+          "Bring enough water for the hikes.",
+          "Most sights in the city center are easily reachable on foot."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Burg Nitra & Kathedrale",
+            "hu": "Nyitrai vár és Székesegyház",
+            "ro": "Castelul Nitra și Catedrala",
+            "en": "Nitra Castle & Cathedral"
+          },
+          "coords": [
+            18.087,
+            48.317
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Fuße des Hügels ab und erkunden Sie den Komplex zu Fuß.",
+            "hu": "Zárja le a kerékpárt a hegy lábánál, és fedezze fel a komplexumot gyalog.",
+            "ro": "Lăsați bicicleta la poalele dealului și explorați complexul pe jos.",
+            "en": "Lock your bike at the bottom of the hill and explore the complex on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Nitra Synagoge",
+            "hu": "Nyitrai Zsinagóga",
+            "ro": "Sinagoga din Nitra",
+            "en": "Nitra Synagogue"
+          },
+          "coords": [
+            18.0865,
+            48.3135
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um die faszinierende Fassade zu bewundern.",
+            "hu": "Egy rövid megálló, hogy megcsodálhassa a lenyűgöző homlokzatot.",
+            "ro": "O scurtă oprire pentru a admira fațada fascinantă.",
+            "en": "A quick stop to admire the fascinating facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az Óvárosban",
+            "ro": "Prânz în Orașul Vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            18.085,
+            48.312
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Stärken Sie sich mit lokalen Spezialitäten für die Nachmittagstour.",
+            "hu": "Erősítse meg magát helyi specialitásokkal a délutáni túrára.",
+            "ro": "Întăriți-vă cu specialități locale pentru turul de după-amiază.",
+            "en": "Refuel with local specialties for the afternoon tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Agrokomplex Messegelände",
+            "hu": "Agrokomplex Kiállítási Központ",
+            "ro": "Centrul Expozițional Agrokomplex",
+            "en": "Agrokomplex Exhibition Grounds"
+          },
+          "coords": [
+            18.112,
+            48.307
+          ],
+          "category": "museums",
+          "arrive_at": "13:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Eine gemütliche Radtour entlang des Flusses führt Sie hierher.",
+            "hu": "Egy kellemes kerékpártúra a folyó mentén vezet ide.",
+            "ro": "O plimbare relaxantă cu bicicleta de-a lungul râului vă va duce aici.",
+            "en": "A pleasant bike ride along the river will lead you here."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalvarienberg Nitra",
+            "hu": "Nyitrai Kálvária",
+            "ro": "Calvarul din Nitra",
+            "en": "Nitra Calvary"
+          },
+          "coords": [
+            18.08,
+            48.305
+          ],
+          "category": "natural features",
+          "arrive_at": "15:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Stellen Sie sich auf einen kurzen, aber steilen Anstieg ein.",
+            "hu": "Készüljön fel egy rövid, de meredek emelkedőre.",
+            "ro": "Pregătiți-vă pentru o urcare scurtă, dar abruptă.",
+            "en": "Be prepared for a short but steep climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Dražovce Kirche",
+            "hu": "Drazsóci templom",
+            "ro": "Biserica din Dražovce",
+            "en": "Dražovce Church"
+          },
+          "coords": [
+            18.055,
+            48.35
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Die Radtour zu diesem Juwel außerhalb der Stadt ist die Anstrengung wert.",
+            "hu": "A kerékpártúra ehhez a városon kívüli gyöngyszemhez megéri az erőfeszítést.",
+            "ro": "Excursia cu bicicleta la această bijuterie din afara orașului merită efortul.",
+            "en": "The bike ride to this gem outside the city is worth the effort."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und erleben Sie Nitra aktiv. Der Vormittag gehört dem historischen Kern auf dem Burghügel. Nach einer wohlverdienten Mittagspause in der Altstadt radeln Sie am Nachmittag gemütlich entlang des Flusses zum Agrokomplex. Später stellen Sie sich der Herausforderung des Kalvarienbergs, bevor Sie die Tour mit einem Abstecher zur ikonischen Kirche von Dražovce krönen, die malerisch in der Landschaft thront.",
+        "hu": "Pattanjon kerékpárra és fedezze fel Nyitrát aktívan. A délelőtt a Várhegy történelmi magjáé. Egy jól megérdemelt ebédszünet után az óvárosban délután kényelmesen tekerjen a folyó mentén az Agrokomplexhez. Később nézzen szembe a Kálvária kihívásával, mielőtt a túrát a festői tájban trónoló, ikonikus drazsóci templomhoz tett kitérővel koronázza meg.",
+        "ro": "Urcați-vă pe bicicletă și experimentați Nitra în mod activ. Dimineața este dedicată centrului istoric de pe Dealul Castelului. După o pauză de prânz binemeritată în Orașul Vechi, pedalați relaxat de-a lungul râului spre Agrokomplex după-amiaza. Mai târziu, înfruntați provocarea Dealului Calvarului, înainte de a încheia turul cu o vizită la biserica emblematică din Dražovce, așezată pitoresc în peisaj.",
+        "en": "Hop on your bike and experience Nitra actively. The morning belongs to the historic core on Castle Hill. After a well-deserved lunch break in the Old Town, you'll leisurely cycle along the river to the Agrokomplex in the afternoon. Later, face the challenge of Calvary Hill before crowning the tour with a trip to the iconic Dražovce Church, picturesquely perched in the landscape."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kofola",
+            "tip": "Der tschechoslowakische Kräuter-Softdrink. Eine erfrischende, alkoholfreie Alternative."
+          },
+          {
+            "name": "Nitriansky Pribináčik",
+            "tip": "Ein lokaler Quark-Snack, perfekt für eine schnelle Energiezufuhr."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kofola",
+            "tip": "A csehszlovák gyógynövényes üdítő. Frissítő, alkoholmentes alternatíva."
+          },
+          {
+            "name": "Nyitrai Pribináčik",
+            "tip": "Helyi túrós snack, tökéletes egy gyors energiafeltöltéshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kofola",
+            "tip": "Băutura răcoritoare cehoslovacă din plante. O alternativă revigorantă, non-alcoolică."
+          },
+          {
+            "name": "Nitriansky Pribináčik",
+            "tip": "O gustare locală cu brânză de vaci, perfectă pentru un plus rapid de energie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kofola",
+            "tip": "The Czechoslovak herbal soft drink. A refreshing, non-alcoholic alternative."
+          },
+          {
+            "name": "Nitriansky Pribináčik",
+            "tip": "A local curd snack, perfect for a quick energy boost."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Dražovce Kirche Hügel",
+            "tip": "Genießen Sie die Stille und den weiten Blick über das Land.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stadtpark Sihoť",
+            "tip": "Eine grüne Oase für eine Pause vom Radfahren.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Drazsóci templom dombja",
+            "tip": "Élvezze a csendet és a vidékre nyíló széles kilátást.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Városi park (Sihoť)",
+            "tip": "Zöld oázis egy kis pihenőhöz a kerékpározás után.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Bisericii Dražovce",
+            "tip": "Bucurați-vă de liniște și de priveliștea largă asupra peisajului rural.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul orașului Sihoť",
+            "tip": "O oază de verdeață pentru o pauză de la ciclism.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dražovce Church Hill",
+            "tip": "Enjoy the silence and the wide view over the countryside.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "City Park Sihoť",
+            "tip": "A green oasis for a break from cycling.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradzubehör",
+            "tip": "Lokale Geschäfte bieten alles, was Sie für Ihre Tour benötigen könnten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpár-kiegészítők",
+            "tip": "A helyi boltokban minden megtalálható, amire a túrához szüksége lehet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Accesorii pentru biciclete",
+            "tip": "Magazinele locale oferă tot ce ați putea avea nevoie pentru turul dvs."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Accessories",
+            "tip": "Local shops offer everything you might need for your tour."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck vor der Abfahrt.",
+          "Nitra hat einige Hügel, seien Sie also auf Steigungen vorbereitet.",
+          "Nutzen Sie die Radwege entlang des Flusses für eine sichere und malerische Fahrt."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Nyitrán vannak dombok, tehát készüljön fel az emelkedőkre.",
+          "Használja a folyó menti kerékpárutakat a biztonságos és festői utazáshoz."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de a pleca.",
+          "Nitra are câteva dealuri, așa că fiți pregătiți pentru urcări.",
+          "Folosiți pistele de biciclete de-a lungul râului pentru o plimbare sigură și pitorească."
+        ],
+        "en": [
+          "Check your tire pressure before setting off.",
+          "Nitra has some hills, so be prepared for climbs.",
+          "Use the bike paths along the river for a safe and scenic ride."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 21.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Zobor-Hügel",
+            "hu": "Parkoló a Zobor-hegynél",
+            "ro": "Parcare la Dealul Zobor",
+            "en": "Parking at Zobor Hill"
+          },
+          "coords": [
+            18.102,
+            48.335
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einer Wanderung für eine atemberaubende Aussicht.",
+            "hu": "Kezdje a napot egy túrával a lélegzetelállító kilátásért.",
+            "ro": "Începeți ziua cu o drumeție pentru o priveliște uluitoare.",
+            "en": "Start the day with a hike for a breathtaking view."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Zobor",
+            "hu": "Zobor-kilátó",
+            "ro": "Punct de belvedere Zobor",
+            "en": "Zobor Viewpoint"
+          },
+          "coords": [
+            18.105,
+            48.34
+          ],
+          "category": "natural features",
+          "arrive_at": "09:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Weg ist gut markiert. Genießen Sie die frische Luft.",
+            "hu": "Az ösvény jól jelzett. Élvezze a friss levegőt.",
+            "ro": "Poteca este bine marcată. Bucurați-vă de aerul proaspăt.",
+            "en": "The path is well-marked. Enjoy the fresh air."
+          }
+        },
+        {
+          "name": {
+            "de": "Dražovce Kirche",
+            "hu": "Drazsóci templom",
+            "ro": "Biserica din Dražovce",
+            "en": "Dražovce Church"
+          },
+          "coords": [
+            18.055,
+            48.35
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein ikonischer Fotospot. Die kurze Fahrt lohnt sich absolut.",
+            "hu": "Ikonikus fotóhelyszín. A rövid út abszolút megéri.",
+            "ro": "Un loc iconic pentru fotografii. Drumul scurt merită absolut.",
+            "en": "An iconic photo spot. The short drive is absolutely worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Burg Nitra",
+            "hu": "Parkoló a Nyitrai várnál",
+            "ro": "Parcare la Castelul Nitra",
+            "en": "Nitra Castle Parking"
+          },
+          "coords": [
+            18.085,
+            48.315
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Rest des Nachmittags und erkunden Sie zu Fuß.",
+            "hu": "Parkoljon itt a délután hátralévő részére és fedezze fel a környéket gyalog.",
+            "ro": "Parcați aici pentru restul după-amiezii și explorați pe jos.",
+            "en": "Park here for the rest of the afternoon and explore on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Nitra & Kathedrale",
+            "hu": "Nyitrai vár és Székesegyház",
+            "ro": "Castelul Nitra și Catedrala",
+            "en": "Nitra Castle & Cathedral"
+          },
+          "coords": [
+            18.087,
+            48.317
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, den gesamten Komplex zu erkunden.",
+            "hu": "Szánjon időt az egész komplexum felfedezésére.",
+            "ro": "Luați-vă timp să explorați întregul complex.",
+            "en": "Take your time to explore the entire complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Nitra Synagoge",
+            "hu": "Nyitrai Zsinagóga",
+            "ro": "Sinagoga din Nitra",
+            "en": "Nitra Synagogue"
+          },
+          "coords": [
+            18.0865,
+            48.3135
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang bergab von der Burg.",
+            "hu": "Rövid séta lefelé a vártól.",
+            "ro": "O scurtă plimbare la vale de la castel.",
+            "en": "A short walk downhill from the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in der Unterstadt",
+            "hu": "Vacsora az Alsóvárosban",
+            "ro": "Cină în Orașul de Jos",
+            "en": "Dinner in the Lower Town"
+          },
+          "coords": [
+            18.086,
+            48.312
+          ],
+          "category": "gastro",
+          "arrive_at": "16:00",
+          "stay_min": 95,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem köstlichen slowakischen Abendessen.",
+            "hu": "Zárja a napot egy finom szlovák vacsorával.",
+            "ro": "Încheiați ziua cu o cină slovacă delicioasă.",
+            "en": "End the day with a delicious Slovak dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto nutzen Sie die Flexibilität, Nitras Umgebung zu erkunden. Der Morgen beginnt aktiv auf dem Zobor-Hügel mit einer Wanderung zum Gipfel. Anschließend fahren Sie zur berühmten Kirche von Dražovce. Gegen Mittag parken Sie im Zentrum und widmen den Nachmittag dem historischen Kern: der imposanten Burg und der Kathedrale, gefolgt von einem Spaziergang zur Synagoge. Der Tag endet kulinarisch in einem der gemütlichen Restaurants der Unterstadt.",
+        "hu": "Autóval kihasználhatja a rugalmasságot Nyitra környékének felfedezéséhez. A reggel aktívan kezdődik a Zobor-hegyen egy túrával a csúcsra. Ezután a híres drazsóci templomhoz hajt. Dél körül a központban parkol, és a délutánt a történelmi magnak szenteli: a lenyűgöző várnak és a székesegyháznak, majd egy sétát tesz a zsinagógához. A nap kulináris élményekkel zárul az Alsóváros egyik hangulatos éttermében.",
+        "ro": "Cu mașina, profitați de flexibilitatea de a explora împrejurimile Nitrei. Dimineața începe activ pe Dealul Zobor, cu o drumeție spre vârf. Apoi, conduceți la faimoasa biserică din Dražovce. În jurul prânzului, parcați în centru și dedicați după-amiaza centrului istoric: impunătorul castel și catedrala, urmate de o plimbare la sinagogă. Ziua se încheie culinar într-unul dintre restaurantele primitoare din Orașul de Jos.",
+        "en": "By car, you have the flexibility to explore Nitra's surroundings. The morning starts actively on Zobor Hill with a hike to the summit. Afterwards, you'll drive to the famous Dražovce Church. Around noon, park in the center and dedicate the afternoon to the historic core: the imposing castle and cathedral, followed by a walk to the synagogue. The day ends with a culinary experience in one of the cozy restaurants in the Lower Town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gulaschsuppe",
+            "tip": "Eine herzhafte Suppe, ideal nach einer Wanderung."
+          },
+          {
+            "name": "Nitraer Wein",
+            "tip": "Die Region ist bekannt für ihren Weinbau. Probieren Sie einen lokalen Riesling."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gulyásleves",
+            "tip": "Kiadós leves, ideális egy túra után."
+          },
+          {
+            "name": "Nyitrai bor",
+            "tip": "A régió borászatáról ismert. Kóstoljon meg egy helyi rizlinget."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supă de gulaș",
+            "tip": "O supă consistentă, ideală după o drumeție."
+          },
+          {
+            "name": "Vin de Nitra",
+            "tip": "Regiunea este cunoscută pentru viticultura sa. Încercați un Riesling local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Goulash Soup",
+            "tip": "A hearty soup, perfect after a hike."
+          },
+          {
+            "name": "Nitra Wine",
+            "tip": "The region is known for its viticulture. Try a local Riesling."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfel des Zobor",
+            "tip": "Weit weg vom Lärm der Stadt.",
+            "emoji": "⛰️"
+          },
+          {
+            "name": "Friedhof neben der Dražovce Kirche",
+            "tip": "Ein Ort von historischer Stille.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zobor csúcsa",
+            "tip": "Távol a város zajától.",
+            "emoji": "⛰️"
+          },
+          {
+            "name": "Temető a drazsóci templom mellett",
+            "tip": "A történelmi csend helye.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Zobor",
+            "tip": "Departe de zgomotul orașului.",
+            "emoji": "⛰️"
+          },
+          {
+            "name": "Cimitirul de lângă Biserica Dražovce",
+            "tip": "Un loc de liniște istorică.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Summit of Zobor",
+            "tip": "Far from the city noise.",
+            "emoji": "⛰️"
+          },
+          {
+            "name": "Cemetery next to Dražovce Church",
+            "tip": "A place of historical silence.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Regionale Produkte",
+            "tip": "Entlang der Landstraßen finden Sie oft Stände mit Honig oder Obst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termékek",
+            "tip": "Az országutak mentén gyakran talál mézet vagy gyümölcsöt árusító standokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse regionale",
+            "tip": "De-a lungul drumurilor de țară veți găsi adesea tarabe cu miere sau fructe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Regional Products",
+            "tip": "Along the country roads, you'll often find stalls selling honey or fruit."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf Parkzonen und -gebühren im Stadtzentrum.",
+          "Ein GPS ist nützlich, um die abgelegeneren Orte wie die Dražovce Kirche zu finden.",
+          "Kombinieren Sie Auto- und Gehstrecken für das beste Erlebnis."
+        ],
+        "hu": [
+          "Figyeljen a parkolási zónákra és díjakra a városközpontban.",
+          "A GPS hasznos a távolabbi helyek, például a drazsóci templom megtalálásához.",
+          "Kombinálja az autós és gyalogos szakaszokat a legjobb élmény érdekében."
+        ],
+        "ro": [
+          "Fiți atenți la zonele și taxele de parcare din centrul orașului.",
+          "Un GPS este util pentru a găsi locurile mai îndepărtate, cum ar fi Biserica Dražovce.",
+          "Combinați segmentele de mașină și de mers pe jos pentru cea mai bună experiență."
+        ],
+        "en": [
+          "Pay attention to parking zones and fees in the city center.",
+          "A GPS is useful for finding the more remote spots like Dražovce Church.",
+          "Combine driving and walking for the best experience."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 7.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Busbahnhof",
+            "hu": "Központi buszpályaudvar",
+            "ro": "Autogara Centrală",
+            "en": "Central Bus Station"
+          },
+          "coords": [
+            18.09,
+            48.305
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zur Haltestelle 'Divadlo Andreja Bagara'.",
+            "hu": "Menjen busszal a 'Divadlo Andreja Bagara' megállóig.",
+            "ro": "Luați un autobuz până la stația 'Divadlo Andreja Bagara'.",
+            "en": "Take a bus to the 'Divadlo Andreja Bagara' stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Andrej-Bagár-Theater & Synagoge",
+            "hu": "Andrej Bagar Színház és Zsinagóga",
+            "ro": "Teatrul Andrej Bagar și Sinagoga",
+            "en": "Andrej Bagar Theatre & Synagogue"
+          },
+          "coords": [
+            18.088,
+            48.313
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Dieser erste Cluster liegt im Herzen der Stadt.",
+            "hu": "Ez az első klaszter a város szívében található.",
+            "ro": "Acest prim grup este situat în inima orașului.",
+            "en": "This first cluster is located in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Nitra",
+            "hu": "Nyitrai vár",
+            "ro": "Castelul Nitra",
+            "en": "Nitra Castle"
+          },
+          "coords": [
+            18.087,
+            48.317
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer, aber steiler Spaziergang vom Theater.",
+            "hu": "Rövid, de meredek séta a színháztól.",
+            "ro": "O plimbare scurtă, dar abruptă, de la teatru.",
+            "en": "A short but steep walk up from the theatre."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale des heiligen Emmeram",
+            "hu": "Szent Emmerám-székesegyház",
+            "ro": "Catedrala Sfântul Emmeram",
+            "en": "St. Emmeram's Cathedral"
+          },
+          "coords": [
+            18.0875,
+            48.3175
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:07",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Befindet sich direkt auf dem Burggelände.",
+            "hu": "Közvetlenül a vár területén található.",
+            "ro": "Situată chiar în incinta castelului.",
+            "en": "Located right within the castle grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Agrokomplex",
+            "hu": "Agrokomplex",
+            "ro": "Agrokomplex",
+            "en": "Agrokomplex"
+          },
+          "coords": [
+            18.112,
+            48.307
+          ],
+          "category": "museums",
+          "arrive_at": "13:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Stadtzentrum. Prüfen Sie den Fahrplan im Voraus.",
+            "hu": "Menjen busszal a városközpontból. Előre ellenőrizze a menetrendet.",
+            "ro": "Luați un autobuz din centrul orașului. Verificați orarul în avans.",
+            "en": "Take a bus from the city center. Check the schedule in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalvarienberg Nitra",
+            "hu": "Nyitrai Kálvária",
+            "ro": "Calvarul din Nitra",
+            "en": "Nitra Calvary"
+          },
+          "coords": [
+            18.08,
+            48.305
+          ],
+          "category": "natural features",
+          "arrive_at": "16:02",
+          "stay_min": 68,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein letzter Bus bringt Sie zu diesem friedlichen Ort zum Abschluss des Tages.",
+            "hu": "Egy utolsó busz viszi el erre a békés helyre a nap lezárásaként.",
+            "ro": "Un ultim autobuz vă va duce la acest loc pașnic pentru a încheia ziua.",
+            "en": "A final bus ride takes you to this peaceful spot to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nitras öffentlicher Nahverkehr bringt Sie bequem zu den wichtigsten Orten. Starten Sie im kulturellen Zentrum und erklimmen Sie von dort aus zu Fuß den Burghügel. Dieser Cluster aus Theater, Synagoge, Burg und Kathedrale füllt Ihren Vormittag. Nach dem Mittagessen bringt Sie ein Bus zum weitläufigen Agrokomplex-Gelände. Eine weitere kurze Busfahrt führt Sie am späten Nachmittag zum Kalvarienberg, wo Sie den Tag in ruhiger Atmosphäre ausklingen lassen.",
+        "hu": "Nyitra tömegközlekedése kényelmesen eljuttatja a legfontosabb helyekre. Kezdje a kulturális központban, és onnan gyalog mássza meg a Várhegyet. A színházból, zsinagógából, várból és székesegyházból álló klaszter kitölti a délelőttjét. Ebéd után egy busz viszi a tágas Agrokomplex területére. Egy másik rövid buszút vezet a késő délutáni Kálváriához, ahol csendes légkörben zárhatja a napot.",
+        "ro": "Transportul public din Nitra vă duce confortabil la cele mai importante locuri. Începeți în centrul cultural și de acolo urcați pe jos pe Dealul Castelului. Acest grup de teatru, sinagogă, castel și catedrală vă va umple dimineața. După prânz, un autobuz vă duce la vastul complex Agrokomplex. O altă călătorie scurtă cu autobuzul vă va duce la Calvar după-amiaza târziu, unde puteți încheia ziua într-o atmosferă liniștită.",
+        "en": "Nitra's public transport conveniently takes you to the most important places. Start in the cultural center and from there, walk up to Castle Hill. This cluster of theatre, synagogue, castle, and cathedral will fill your morning. After lunch, a bus will take you to the expansive Agrokomplex grounds. Another short bus ride will lead you to the Calvary in the late afternoon, where you can end the day in a quiet atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Treska v majonéze",
+            "tip": "Ein Retro-Snack aus der sozialistischen Ära: Kabeljausalat. Ein Muss für ein authentisches Erlebnis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Treska v majonéze (Majonézes tőkehal)",
+            "tip": "Retro snack a szocialista korszakból: tőkehalsaláta. Kötelező az autentikus élményért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Treska v majonéze",
+            "tip": "O gustare retro din epoca socialistă: salată de cod. O necesitate pentru o experiență autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Treska v majonéze",
+            "tip": "A retro snack from the socialist era: cod salad. A must-try for an authentic experience."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Innerhalb der Burgmauern",
+            "tip": "Finden Sie eine ruhige Ecke mit Blick auf die Unterstadt.",
+            "emoji": "🏰"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A várfalakon belül",
+            "tip": "Keressen egy csendes sarkot, ahonnan kilátás nyílik az Alsóvárosra.",
+            "emoji": "🏰"
+          }
+        ],
+        "ro": [
+          {
+            "name": "În interiorul zidurilor castelului",
+            "tip": "Găsiți un colț liniștit cu vedere la orașul de jos.",
+            "emoji": "🏰"
+          }
+        ],
+        "en": [
+          {
+            "name": "Inside the castle walls",
+            "tip": "Find a quiet corner overlooking the lower town.",
+            "emoji": "🏰"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Hier finden Sie Zeitungen und schnelle Snacks für die Fahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszpályaudvaron",
+            "tip": "Itt újságokat és gyors harapnivalókat talál az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la autogară",
+            "tip": "Aici veți găsi ziare și gustări rapide pentru călătorie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus station",
+            "tip": "Here you'll find newspapers and quick snacks for the ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Laden Sie eine Nahverkehrs-App herunter, um die Fahrpläne in Echtzeit zu verfolgen.",
+          "Achten Sie auf die letzte Busverbindung zurück zu Ihrer Unterkunft."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy pénzt takarítson meg.",
+          "Töltsön le egy tömegközlekedési alkalmazást a valós idejű menetrendek követéséhez.",
+          "Figyeljen az utolsó buszjáratra vissza a szálláshelyére."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru a economisi bani.",
+          "Descărcați o aplicație de transport public pentru a urmări orarele în timp real.",
+          "Fiți atenți la ultima legătură de autobuz înapoi la cazare."
+        ],
+        "en": [
+          "Buy a day pass for the bus to save money.",
+          "Download a public transport app to track schedules in real-time.",
+          "Be mindful of the last bus connection back to your accommodation."
+        ]
+      }
+    }
+  }
+}

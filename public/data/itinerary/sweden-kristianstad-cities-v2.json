@@ -1,0 +1,1041 @@
+{
+  "city_id": "sweden-kristianstad-cities-v2",
+  "anchor": {
+    "name": "Kristianstad",
+    "coords": [
+      14.1567,
+      56.0294
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 2.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stora Torg (Großer Platz)",
+            "hu": "Stora Torg (Fő tér)",
+            "ro": "Stora Torg (Piața Mare)",
+            "en": "Stora Torg (Main Square)"
+          },
+          "coords": [
+            14.156,
+            56.028
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee und beobachten Sie das städtische Leben.",
+            "hu": "Kezdje a napot egy kávéval, és figyelje a város ébredését.",
+            "ro": "Începeți ziua aici cu o cafea, observând viața orașului.",
+            "en": "Start your day here with a coffee, watching the city life unfold."
+          }
+        },
+        {
+          "name": {
+            "de": "Heliga Trefaldighets kyrka (Kirche der Heiligen Dreifaltigkeit)",
+            "hu": "Heliga Trefaldighets kyrka (Szentháromság-templom)",
+            "ro": "Heliga Trefaldighets kyrka (Biserica Sfânta Treime)",
+            "en": "Heliga Trefaldighets kyrka (Holy Trinity Church)"
+          },
+          "coords": [
+            14.159,
+            56.029
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:44",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Renaissance-Architektur, eine der schönsten in Skandinavien.",
+            "hu": "Csodálja meg a reneszánsz építészetet, Skandinávia egyik legszebb templomát.",
+            "ro": "Admirați arhitectura renascentistă, una dintre cele mai frumoase din Scandinavia.",
+            "en": "Admire the Renaissance architecture, considered one of the finest in Scandinavia."
+          }
+        },
+        {
+          "name": {
+            "de": "Regionmuseet Skåne (Regionalmuseum Skåne)",
+            "hu": "Regionmuseet Skåne (Skåne Regionális Múzeum)",
+            "ro": "Regionmuseet Skåne (Muzeul Regional Skåne)",
+            "en": "Regionmuseet Skåne (Regional Museum Skåne)"
+          },
+          "coords": [
+            14.153,
+            56.029
+          ],
+          "category": "museums",
+          "arrive_at": "10:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die lokale Geschichte und Kunst. Die Ausstellungen sind sehr interaktiv.",
+            "hu": "Merüljön el a helyi történelemben és művészetben. Az interaktív kiállítások nagyszerűek.",
+            "ro": "Explorați istoria și arta locală. Expozițiile interactive sunt excelente.",
+            "en": "Dive into local history and art. The interactive exhibits are great."
+          }
+        },
+        {
+          "name": {
+            "de": "Kristianstad Theater",
+            "hu": "Kristianstad Színház",
+            "ro": "Teatrul din Kristianstad",
+            "en": "Kristianstad Theater"
+          },
+          "coords": [
+            14.151,
+            56.026
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:23",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Auch wenn Sie keine Vorstellung besuchen, ist die Fassade des Theaters von 1906 sehenswert.",
+            "hu": "Még ha nem is megy előadásra, az 1906-os színház homlokzatát érdemes megnézni.",
+            "ro": "Chiar dacă nu prindeți un spectacol, fațada teatrului din 1906 merită văzută.",
+            "en": "Even if not attending a show, the 1906 theater's facade is worth admiring."
+          }
+        },
+        {
+          "name": {
+            "de": "Tivoliparken",
+            "hu": "Tivoliparken",
+            "ro": "Parcul Tivoli",
+            "en": "Tivoli Park"
+          },
+          "coords": [
+            14.15,
+            56.024
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:47",
+          "stay_min": 180,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für ein Mittagspicknick. Suchen Sie sich einen Platz am Fluss.",
+            "hu": "Tökéletes hely egy ebédpiknikhez. Keressen egy helyet a folyó mellett.",
+            "ro": "Locul perfect pentru un picnic la prânz. Găsiți un loc lângă râu.",
+            "en": "A perfect spot for a lunch picnic. Find a spot by the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturum Vattenriket",
+            "hu": "Naturum Vattenriket Látogatóközpont",
+            "ro": "Centrul de vizitatori Naturum Vattenriket",
+            "en": "Naturum Vattenriket Visitor Centre"
+          },
+          "coords": [
+            14.164,
+            56.029
+          ],
+          "category": "natural features",
+          "arrive_at": "16:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Aussichtsplattform für einen Panoramablick auf das Biosphärenreservat.",
+            "hu": "Ne hagyja ki a kilátót, ahonnan panorámás kilátás nyílik a bioszféra-rezervátumra.",
+            "ro": "Nu ratați platforma de observare pentru vederi panoramice ale rezervației biosferei.",
+            "en": "Don't miss the observation deck for panoramic views of the biosphere reserve."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang beginnt auf dem belebten Stora Torg, dem Herzen der Stadt. Am Morgen erkunden Sie die prächtige Renaissance-Architektur der Heliga Trefaldighets kyrka. Mittags tauchen Sie im Regionmuseet in die lokale Kultur ein, bevor Sie einen Blick auf das historische Theater werfen. Der Nachmittag ist einem langen, entspannten Aufenthalt im Tivoliparken gewidmet, ideal für ein Picknick und eine Pause am Fluss. Zum Abschluss des Tages führt Sie ein kurzer Spaziergang zum modernen Naturum Vattenriket, das einen atemberaubenden Kontrast zur historischen Innenstadt bildet und einen Einblick in die einzigartige Natur der Region bietet.",
+        "hu": "Sétája a nyüzsgő Stora Torgon, a város szívében kezdődik. A délelőttöt a Heliga Trefaldighets kyrka csodálatos reneszánsz építészetének felfedezésével tölti. Délben elmerül a helyi kultúrában a Regionális Múzeumban, majd vet egy pillantást a történelmi színházra. A délután egy hosszú, pihentető időtöltést ígér a Tivoli parkban, amely ideális egy piknikhez és folyóparti pihenéshez. A nap lezárásaként egy rövid séta vezet a modern Naturum Vattenriket látogatóközponthoz, amely lenyűgöző kontrasztot alkot a történelmi belvárossal, és bepillantást nyújt a régió egyedülálló természeti világába.",
+        "ro": "Plimbarea dvs. începe în animata Stora Torg, inima orașului. Dimineața explorați splendida arhitectură renascentistă a Bisericii Sfânta Treime. La prânz, vă scufundați în cultura locală la Muzeul Regional, înainte de a admira teatrul istoric. După-amiaza este dedicată unei pauze lungi și relaxante în Parcul Tivoli, perfect pentru un picnic și o pauză pe malul râului. Încheiați ziua cu o scurtă plimbare până la modernul centru de vizitatori Naturum Vattenriket, un contrast izbitor cu centrul istoric, oferind o perspectivă asupra naturii unice a regiunii.",
+        "en": "Your walking tour starts at the bustling Stora Torg, the heart of the city. The morning is for exploring the magnificent Renaissance architecture of Holy Trinity Church. At midday, you'll delve into local culture at the Regional Museum before glancing at the historic theatre. The afternoon is for a long, relaxing stay in Tivoli Park, perfect for a picnic and a riverside break. You'll end the day with a short walk to the modern Naturum Vattenriket visitor centre, a striking contrast to the historic town centre, offering insight into the region's unique nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Äggakaka",
+            "tip": "Ein herzhafter Eierkuchen aus Skåne, oft mit Speck serviert. Probieren Sie ihn im 'Conditori Duvander'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Äggakaka",
+            "tip": "Kiados skånei tojáslepény, gyakran szalonnával tálalva. Kóstolja meg a 'Conditori Duvander'-ben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Äggakaka",
+            "tip": "O clătită cu ouă consistentă din Scania, adesea servită cu bacon. Încercați-o la 'Conditori Duvander'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Äggakaka",
+            "tip": "A hearty Scanian egg cake, often served with bacon. Try it at 'Conditori Duvander'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Helge å im Tivoliparken",
+            "tip": "Finden Sie eine ruhige Bank und beobachten Sie die Boote.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helge-folyó partja a Tivoli parkban",
+            "tip": "Keressen egy csendes padot, és nézze a hajókat.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Helge în Parcul Tivoli",
+            "tip": "Găsiți o bancă liniștită și priviți bărcile.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of Helge å in Tivoli Park",
+            "tip": "Find a quiet bench and watch the boats go by.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerkskunst",
+            "tip": "Suchen Sie in den kleinen Boutiquen rund um die Lilla Torg nach Keramik und Textilien aus Skåne."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen skånei kerámiát és textíliákat a Lilla Torg körüli kis butikokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați ceramică și textile din Scania în micile buticuri din jurul Lilla Torg."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Crafts",
+            "tip": "Look for Scanian ceramics and textiles in the small boutiques around Lilla Torg."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Eine wiederverwendbare Wasserflasche ist nützlich; es gibt mehrere öffentliche Brunnen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óvárosi macskakövek egyenetlenek lehetnek.",
+          "Egy újratölthető vizes palack hasznos; több nyilvános ivókút is található."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavelele din centrul vechi pot fi denivelate.",
+          "O sticlă de apă reutilizabilă este utilă; există mai multe fântâni publice."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "A reusable water bottle is useful; there are several public fountains available."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Stora Torg",
+            "hu": "Stora Torg",
+            "ro": "Stora Torg",
+            "en": "Stora Torg"
+          },
+          "coords": [
+            14.156,
+            56.028
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Holen Sie sich Ihr Leihfahrrad und starten Sie am zentralen Platz.",
+            "hu": "Vegye fel a bérelt kerékpárt, és induljon a központi térről.",
+            "ro": "Luați-vă bicicleta închiriată și porniți din piața centrală.",
+            "en": "Pick up your rental bike and start from the central square."
+          }
+        },
+        {
+          "name": {
+            "de": "Heliga Trefaldighets kyrka",
+            "hu": "Heliga Trefaldighets kyrka",
+            "ro": "Heliga Trefaldighets kyrka",
+            "en": "Holy Trinity Church"
+          },
+          "coords": [
+            14.159,
+            56.029
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad in der Nähe ab und nehmen Sie sich Zeit für das Innere.",
+            "hu": "Parkolja le a kerékpárt a közelben, és szánjon időt a belső térre.",
+            "ro": "Parcați bicicleta în apropiere și acordați-vă timp pentru a explora interiorul.",
+            "en": "Park your bike nearby and take your time to explore the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Stora Kronohuset",
+            "hu": "Stora Kronohuset",
+            "ro": "Stora Kronohuset",
+            "en": "Stora Kronohuset"
+          },
+          "coords": [
+            14.155,
+            56.031
+          ],
+          "category": "historical",
+          "arrive_at": "10:19",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um die beeindruckende militärische Architektur zu sehen.",
+            "hu": "Egy rövid megálló, hogy megnézze a lenyűgöző katonai építészetet.",
+            "ro": "O oprire scurtă pentru a vedea arhitectura militară impresionantă.",
+            "en": "A quick stop to see the impressive military architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Tivoliparken",
+            "hu": "Tivoliparken",
+            "ro": "Parcul Tivoli",
+            "en": "Tivoli Park"
+          },
+          "coords": [
+            14.15,
+            56.024
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahren Sie durch den Park und genießen Sie die Wege, bevor Sie zu Mittag essen.",
+            "hu": "Tekerjen át a parkon, és élvezze az ösvényeket ebéd előtt.",
+            "ro": "Plimbați-vă cu bicicleta prin parc și bucurați-vă de alei înainte de prânz.",
+            "en": "Cycle through the park and enjoy the paths before stopping for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturum Vattenriket",
+            "hu": "Naturum Vattenriket",
+            "ro": "Naturum Vattenriket",
+            "en": "Naturum Vattenriket"
+          },
+          "coords": [
+            14.164,
+            56.029
+          ],
+          "category": "natural features",
+          "arrive_at": "12:19",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und erkunden Sie die Ausstellungen und die Aussichtsplattform.",
+            "hu": "Zárja le a kerékpárt, és fedezze fel a kiállításokat és a kilátóteraszt.",
+            "ro": "Legați-vă bicicleta și explorați expozițiile și platforma de observare.",
+            "en": "Lock up your bike and explore the exhibits and the observation deck."
+          }
+        },
+        {
+          "name": {
+            "de": "Lillö Burgruine",
+            "hu": "Lillö Várrom",
+            "ro": "Ruinele Castelului Lillö",
+            "en": "Lillö Castle Ruin"
+          },
+          "coords": [
+            14.188,
+            56.048
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:18",
+          "stay_min": 60,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Die Fahrt zur Ruine führt durch eine wunderschöne Landschaft. Ein toller Ort für Fotos.",
+            "hu": "A romokhoz vezető út gyönyörű tájon vezet keresztül. Nagyszerű fotóhelyszín.",
+            "ro": "Drumul spre ruine traversează peisaje frumoase. Un loc minunat pentru fotografii.",
+            "en": "The ride out to the ruin is through beautiful countryside. A great spot for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück im Stadtzentrum",
+            "hu": "Vissza a városközpontba",
+            "ro": "Înapoi în centrul orașului",
+            "en": "Return to City Centre"
+          },
+          "coords": [
+            14.156,
+            56.028
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:48",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.1,
+          "tip_5lang": {
+            "de": "Geben Sie Ihr Fahrrad zurück und genießen Sie ein letztes Getränk auf der Lilla Torg.",
+            "hu": "Adja le a kerékpárt, és igyon meg egy utolsó italt a Lilla Torgon.",
+            "ro": "Predați bicicleta și savurați o ultimă băutură în Lilla Torg.",
+            "en": "Return your bike and enjoy a final drink in Lilla Torg."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt im Herzen von Kristianstad am Stora Torg. Sie radeln zu den wichtigsten Sehenswürdigkeiten der Innenstadt, wie der prächtigen Kirche und dem historischen Kronohuset. Der Vormittag findet mit einer entspannten Fahrt durch den Tivoliparken seinen Höhepunkt. Am Mittag besuchen Sie das Naturum Vattenriket, ein architektonisches Juwel mitten im Feuchtgebiet. Der Nachmittag ist für ein kleines Abenteuer reserviert: eine längere Fahrt zur malerischen Burgruine Lillö, die von Natur umgeben ist. Die Tour endet mit einer gemütlichen Rückfahrt ins Zentrum, wo Sie den Tag in einem der vielen Cafés ausklingen lassen können.",
+        "hu": "Kerékpártúrája Kristianstad szívében, a Stora Torgon kezdődik. Végigbiciklizik a belváros fő látnivalóin, mint a csodálatos templom és a történelmi Kronohuset. A délelőtt egy pihentető tekeréssel csúcsosodik ki a Tivoli parkon keresztül. Délben meglátogatja a Naturum Vattenriket központot, egy építészeti gyöngyszemet a vizes élőhely közepén. A délután egy kis kalandot tartogat: egy hosszabb utat a festői Lillö várromhoz, amelyet természet vesz körül. A túra egy kellemes visszaúttal zárul a központba, ahol a napot a sok kávézó egyikében fejezheti be.",
+        "ro": "Turul pe bicicletă începe în inima orașului Kristianstad, la Stora Torg. Pedalați pe lângă principalele atracții din centru, precum biserica magnifică și istoricul Kronohuset. Dimineața culminează cu o plimbare relaxantă prin Parcul Tivoli. La prânz, vizitați Naturum Vattenriket, o bijuterie arhitecturală în mijlocul zonelor umede. După-amiaza este rezervată pentru o mică aventură: o plimbare mai lungă până la ruinele pitorești ale castelului Lillö, înconjurate de natură. Turul se încheie cu o călătorie lejeră înapoi în centru, unde puteți încheia ziua la una dintre numeroasele cafenele.",
+        "en": "Your bike tour starts in the heart of Kristianstad at Stora Torg. You'll pedal past the main city centre sights like the magnificent church and the historic Kronohuset. The morning culminates with a relaxing ride through Tivoli Park. At midday, you visit Naturum Vattenriket, an architectural gem in the middle of the wetlands. The afternoon is reserved for a small adventure: a longer ride to the picturesque Lillö castle ruin, surrounded by nature. The tour concludes with a leisurely ride back to the centre, where you can end the day at one of the many cafés."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fika im Park",
+            "tip": "Kaufen Sie Kaffee und Kanelbullar (Zimtschnecken) in einer Bäckerei und genießen Sie sie im Tivoliparken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fika a parkban",
+            "tip": "Vásároljon kávét és fahéjas csigát (kanelbullar) egy pékségben, és fogyassza el a Tivoli parkban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fika în parc",
+            "tip": "Cumpărați cafea și kanelbullar (rulouri cu scorțișoară) de la o brutărie și savurați-le în Parcul Tivoli."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fika in the park",
+            "tip": "Buy coffee and kanelbullar (cinnamon buns) from a bakery and enjoy them in Tivoli Park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lillö Burgruine",
+            "tip": "Ein friedlicher Ort mit viel Geschichte, abseits des städtischen Trubels.",
+            "emoji": "🏰"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lillö Várrom",
+            "tip": "Békés hely, tele történelemmel, távol a városi nyüzsgéstől.",
+            "emoji": "🏰"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ruinele Castelului Lillö",
+            "tip": "Un loc pașnic, plin de istorie, departe de agitația orașului.",
+            "emoji": "🏰"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lillö Castle Ruin",
+            "tip": "A peaceful spot steeped in history, away from the city bustle.",
+            "emoji": "🏰"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Achten Sie auf dem Weg zur Lillö-Ruine auf Schilder für 'Gårdsbutik' (Hofladen), wo Sie lokale Produkte kaufen können."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Farmboltok",
+            "tip": "A Lillö romjaihoz vezető úton keresse a 'Gårdsbutik' (farmbolt) táblákat, ahol helyi termékeket vásárolhat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de fermă",
+            "tip": "Pe drumul spre ruinele Lillö, căutați indicatoare cu 'Gårdsbutik' (magazin de fermă) pentru a cumpăra produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm Shops",
+            "tip": "On the way to Lillö ruin, look for signs for 'Gårdsbutik' (farm shop) to buy local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kristianstad ist sehr fahrradfreundlich, aber schließen Sie Ihr Fahrrad immer an.",
+          "Prüfen Sie den Reifendruck, bevor Sie zu einer längeren Fahrt wie zur Lillö-Ruine aufbrechen."
+        ],
+        "hu": [
+          "Kristianstad nagyon kerékpárbarát, de mindig zárja le a kerékpárját.",
+          "Ellenőrizze a guminyomást, mielőtt hosszabb útra indul, mint például a Lillö romjaihoz."
+        ],
+        "ro": [
+          "Kristianstad este foarte prietenos cu bicicletele, dar legați-vă întotdeauna bicicleta.",
+          "Verificați presiunea anvelopelor înainte de a porni într-o plimbare mai lungă, cum ar fi cea spre ruinele Lillö."
+        ],
+        "en": [
+          "Kristianstad is very bike-friendly, but always lock up your bike.",
+          "Check your tire pressure before heading out on a longer ride like the one to Lillö ruin."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 10.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Parken im Stadtzentrum",
+            "hu": "1. klaszter: Parkolás a városközpontban",
+            "ro": "Cluster 1: Parcare în centrul orașului",
+            "en": "Cluster 1: Park in City Centre"
+          },
+          "coords": [
+            14.152,
+            56.027
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in einem der zentralen Parkhäuser, z.B. 'Galleria Boulevard', für den Tag.",
+            "hu": "Parkoljon egy központi parkolóházban, pl. a 'Galleria Boulevard'-ban a napra.",
+            "ro": "Parcați într-una din parcările centrale, de ex. 'Galleria Boulevard', pentru întreaga zi.",
+            "en": "Park in one of the central parking garages, e.g., 'Galleria Boulevard', for the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Stora Torg & Heliga Trefaldighets kyrka",
+            "hu": "Stora Torg és Heliga Trefaldighets kyrka",
+            "ro": "Stora Torg & Biserica Sfânta Treime",
+            "en": "Stora Torg & Holy Trinity Church"
+          },
+          "coords": [
+            14.157,
+            56.0285
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den Hauptplatz und die beeindruckende Kirche zu Fuß.",
+            "hu": "Fedezze fel gyalog a főteret és a lenyűgöző templomot.",
+            "ro": "Explorați pe jos piața principală și biserica impresionantă.",
+            "en": "Explore the main square and the impressive church on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Regionmuseet Skåne",
+            "hu": "Regionmuseet Skåne",
+            "ro": "Muzeul Regional Skåne",
+            "en": "Regionmuseet Skåne"
+          },
+          "coords": [
+            14.153,
+            56.029
+          ],
+          "category": "museums",
+          "arrive_at": "10:46",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz zum Museum für eine Dosis Kultur.",
+            "hu": "Egy rövid séta a tértől a múzeumig egy adag kultúráért.",
+            "ro": "O scurtă plimbare de la piață la muzeu pentru o doză de cultură.",
+            "en": "A short walk from the square to the museum for a dose of culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Lillö Burgruine",
+            "hu": "2. klaszter: Lillö Várrom",
+            "ro": "Cluster 2: Ruinele Castelului Lillö",
+            "en": "Cluster 2: Lillö Castle Ruin"
+          },
+          "coords": [
+            14.188,
+            56.048
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:44",
+          "stay_min": 70,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zur Ruine und genießen Sie die Aussicht und die historische Atmosphäre.",
+            "hu": "Vezessen el a romokhoz, és élvezze a kilátást és a történelmi hangulatot.",
+            "ro": "Conduceți până la ruine și bucurați-vă de priveliște și de atmosfera istorică.",
+            "en": "Drive to the ruin and enjoy the views and historical atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Naturum Vattenriket",
+            "hu": "3. klaszter: Naturum Vattenriket",
+            "ro": "Cluster 3: Naturum Vattenriket",
+            "en": "Cluster 3: Naturum Vattenriket"
+          },
+          "coords": [
+            14.164,
+            56.029
+          ],
+          "category": "natural features",
+          "arrive_at": "14:14",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Besucherzentrum. Ein idealer Ort für den Nachmittag und einen späten Mittagessen.",
+            "hu": "Parkoljon a látogatóközpontnál. Ideális hely a délutánra és egy késői ebédre.",
+            "ro": "Parcați la centrul de vizitatori. Un loc ideal pentru după-amiază și un prânz târziu.",
+            "en": "Park at the visitor centre. An ideal spot for the afternoon and a late lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang im Vattenriket & Tivoliparken",
+            "hu": "Séta a Vattenriket & Tivoli parkban",
+            "ro": "Plimbare în Vattenriket & Parcul Tivoli",
+            "en": "Walk in Vattenriket & Tivoli Park"
+          },
+          "coords": [
+            14.158,
+            56.025
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Naturum aus können Sie leicht in den angrenzenden Tivoliparken spazieren.",
+            "hu": "A Naturumtól könnyen átsétálhat a szomszédos Tivoli parkba.",
+            "ro": "De la Naturum, puteți face o plimbare ușoară în Parcul Tivoli adiacent.",
+            "en": "From the Naturum, you can easily walk into the adjacent Tivoli Park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Kristianstad maximiert Komfort und Erlebnis. Sie beginnen damit, Ihr Auto im Zentrum zu parken und erkunden den ersten Cluster zu Fuß: den Stora Torg, die prächtige Kirche und das Regionalmuseum. Am späten Vormittag fahren Sie zum zweiten Cluster, der historischen Lillö-Burgruine, die eine andere Seite der Region zeigt. Nach diesem Ausflug in die Geschichte fahren Sie zum dritten Cluster, dem Naturum Vattenriket, wo Sie zu Mittag essen und den Nachmittag verbringen. Dort parken Sie erneut und genießen die moderne Architektur, die Naturlehrpfade und den angrenzenden Tivoliparken zu Fuß, bevor Sie zu Ihrem Auto zurückkehren.",
+        "hu": "Autós napja Kristianstadban a kényelmet és az élményt maximalizálja. A napot a központban parkolva kezdi, és gyalog fedezi fel az első klasztert: a Stora Torgot, a csodálatos templomot és a Regionális Múzeumot. Késő délelőtt a második klaszterhez, a történelmi Lillö várromhoz hajt, amely a régió egy másik oldalát mutatja be. A történelmi kitérő után a harmadik klaszterhez, a Naturum Vattenriket központhoz utazik, ahol megebédel és a délutánt tölti. Itt ismét leparkol, és gyalogosan élvezi a modern építészetet, a tanösvényeket és a szomszédos Tivoli parkot, mielőtt visszatérne az autójához.",
+        "ro": "Ziua dvs. cu mașina în Kristianstad maximizează confortul și experiența. Începeți prin a parca mașina în centru și a explora pe jos primul cluster: Stora Torg, biserica magnifică și Muzeul Regional. Spre sfârșitul dimineții, conduceți spre al doilea cluster, ruinele istorice ale castelului Lillö, pentru o perspectivă diferită asupra regiunii. După această incursiune istorică, vă îndreptați spre al treilea cluster, Naturum Vattenriket, pentru prânz și pentru a petrece după-amiaza. Aici, parcați din nou și vă bucurați de arhitectura modernă, de traseele naturale și de Parcul Tivoli adiacent pe jos, înainte de a vă întoarce la mașină.",
+        "en": "Your car day in Kristianstad maximizes convenience and experience. You start by parking in the centre and exploring the first cluster on foot: Stora Torg, the magnificent church, and the Regional Museum. In the late morning, you drive to the second cluster, the historic Lillö castle ruin, for a different perspective of the region. After this historical detour, you head to the third cluster, Naturum Vattenriket, for lunch and the afternoon. Here, you park again and enjoy the modern architecture, the nature trails, and the adjacent Tivoli Park on foot before returning to your car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smörgåsbord",
+            "tip": "Suchen Sie nach einem Restaurant, das ein traditionelles schwedisches Buffet anbietet, besonders am Wochenende. 'BaraGourmet' ist eine gute Option."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smörgåsbord",
+            "tip": "Keressen egy éttermet, amely hagyományos svéd svédasztalt kínál, különösen hétvégén. A 'BaraGourmet' jó választás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smörgåsbord",
+            "tip": "Căutați un restaurant care oferă un bufet suedez tradițional, în special în weekend. 'BaraGourmet' este o opțiune bună."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smörgåsbord",
+            "tip": "Look for a restaurant offering a traditional Swedish buffet, especially on weekends. 'BaraGourmet' is a good option."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussicht von der Lillö-Ruine",
+            "tip": "Der perfekte Ort, um dem Trubel zu entfliehen und die weite Landschaft von Skåne zu überblicken.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a Lillö romjairól",
+            "tip": "Tökéletes hely a nyüzsgés elől való menekülésre és a tágas skånei táj megcsodálására.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la ruinele Lillö",
+            "tip": "Locul perfect pentru a scăpa de aglomerație și a admira peisajul vast din Scania.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from Lillö Ruin",
+            "tip": "The perfect place to escape the bustle and look out over the vast Scanian landscape.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Galleria Boulevard",
+            "tip": "Ein modernes Einkaufszentrum in der Nähe des Parkhauses für alles, was Sie vielleicht vergessen haben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Galleria Boulevard",
+            "tip": "Modern bevásárlóközpont a parkolóház közelében, mindenre, amit esetleg elfelejtett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galleria Boulevard",
+            "tip": "Un centru comercial modern lângă parcare pentru orice ați fi uitat.",
+            "emoji": "🛍️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Galleria Boulevard",
+            "tip": "A modern shopping mall near the car park for anything you might have forgotten.",
+            "emoji": "🛍️"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkgebühren können in Schweden hoch sein; eine Tageskarte ist oft günstiger.",
+          "Planen Sie Ihre Fahrten zwischen den Clustern außerhalb der Stoßzeiten, um Verkehr zu vermeiden."
+        ],
+        "hu": [
+          "A parkolási díjak Svédországban magasak lehetnek; egy napijegy gyakran olcsóbb.",
+          "Tervezze az utazásokat a klaszterek között a csúcsidőn kívülre, hogy elkerülje a forgalmat."
+        ],
+        "ro": [
+          "Taxele de parcare pot fi mari în Suedia; un bilet de o zi este adesea mai ieftin.",
+          "Planificați-vă călătoriile între clustere în afara orelor de vârf pentru a evita traficul."
+        ],
+        "en": [
+          "Parking fees can be high in Sweden; a day pass is often cheaper.",
+          "Plan your drives between clusters outside of peak hours to avoid traffic."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 5.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Ankunft am Hauptbahnhof",
+            "hu": "1. klaszter: Érkezés a főpályaudvarra",
+            "ro": "Cluster 1: Sosire la Gara Centrală",
+            "en": "Cluster 1: Arrive at Central Station"
+          },
+          "coords": [
+            14.161,
+            56.031
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie am Hauptbahnhof, dem Verkehrsknotenpunkt der Stadt. Kaufen Sie eine Tageskarte.",
+            "hu": "Kezdje a főpályaudvaron, a város közlekedési csomópontjában. Vásároljon napijegyet.",
+            "ro": "Începeți de la Gara Centrală, nodul de transport al orașului. Cumpărați un bilet de o zi.",
+            "en": "Start at the Central Station, the city's transport hub. Purchase a day ticket."
+          }
+        },
+        {
+          "name": {
+            "de": "Stora Torg & Heliga Trefaldighets kyrka",
+            "hu": "Stora Torg és Heliga Trefaldighets kyrka",
+            "ro": "Stora Torg & Biserica Sfânta Treime",
+            "en": "Stora Torg & Holy Trinity Church"
+          },
+          "coords": [
+            14.157,
+            56.0285
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:22",
+          "stay_min": 120,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Bahnhof führt Sie direkt ins Herz der Altstadt.",
+            "hu": "Egy rövid séta a pályaudvartól egyenesen az óváros szívébe vezet.",
+            "ro": "O scurtă plimbare de la gară vă duce direct în inima orașului vechi.",
+            "en": "A short walk from the station takes you right into the heart of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Tivoliparken",
+            "hu": "Tivoliparken",
+            "ro": "Parcul Tivoli",
+            "en": "Tivoli Park"
+          },
+          "coords": [
+            14.15,
+            56.024
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die Stadt zum Park für eine Mittagspause.",
+            "hu": "Sétáljon át a városon a parkba egy ebédszünetre.",
+            "ro": "Plimbați-vă prin oraș până la parc pentru o pauză de prânz.",
+            "en": "Walk across the city to the park for a lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Naturum Vattenriket",
+            "hu": "2. klaszter: Naturum Vattenriket",
+            "ro": "Cluster 2: Naturum Vattenriket",
+            "en": "Cluster 2: Naturum Vattenriket"
+          },
+          "coords": [
+            14.164,
+            56.029
+          ],
+          "category": "natural features",
+          "arrive_at": "13:20",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.3,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Stadtzentrum zum Naturum. Die Fahrt selbst bietet schöne Ausblicke.",
+            "hu": "Vegyen egy buszt a városközpontból a Naturumhoz. Maga az utazás is szép kilátást nyújt.",
+            "ro": "Luați un autobuz din centrul orașului spre Naturum. Călătoria în sine oferă priveliști frumoase.",
+            "en": "Take a bus from the city centre to the Naturum. The journey itself offers nice views."
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück zum Hauptbahnhof",
+            "hu": "Vissza a főpályaudvarra",
+            "ro": "Înapoi la Gara Centrală",
+            "en": "Return to Central Station"
+          },
+          "coords": [
+            14.161,
+            56.031
+          ],
+          "category": "transport",
+          "arrive_at": "16:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Bus zurück zum Bahnhof, um den Tag abzuschließen.",
+            "hu": "Menjen vissza busszal a pályaudvarra, hogy lezárja a napot.",
+            "ro": "Luați autobuzul înapoi la gară pentru a încheia ziua.",
+            "en": "Take the bus back to the station to conclude the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erkunden Sie Kristianstad effizient. Ihr Tag beginnt am Hauptbahnhof. Von dort aus spazieren Sie zum ersten Cluster, dem historischen Zentrum mit Stora Torg und der Kirche, wo Sie den Vormittag verbringen. Nach einem weiteren Spaziergang durch die Stadt zum Tivoliparken für eine Mittagspause nehmen Sie am frühen Nachmittag einen Bus zum zweiten Cluster, dem Naturum Vattenriket. Hier haben Sie ausgiebig Zeit, die Natur und die Ausstellungen zu genießen. Am späten Nachmittag bringt Sie ein Bus bequem zurück zum Ausgangspunkt am Hauptbahnhof.",
+        "hu": "A tömegközlekedéssel hatékonyan fedezheti fel Kristianstadot. A nap a főpályaudvaron kezdődik. Innen az első klaszterhez, a történelmi központhoz sétál, a Stora Torg-hoz és a templomhoz, ahol a délelőttöt tölti. Miután átsétált a városon a Tivoli parkba egy ebédszünetre, kora délután busszal utazik a második klaszterhez, a Naturum Vattenriket-hez. Itt bőséges ideje van a természet és a kiállítások élvezetére. Késő délután egy busz kényelmesen visszaviszi a kiindulópontra, a főpályaudvarra.",
+        "ro": "Explorați Kristianstad eficient folosind transportul public. Ziua dvs. începe la Gara Centrală. De acolo, vă plimbați până la primul cluster, centrul istoric cu Stora Torg și biserica, unde vă petreceți dimineața. După o altă plimbare prin oraș până la Parcul Tivoli pentru o pauză de prânz, luați un autobuz la începutul după-amiezii spre al doilea cluster, Naturum Vattenriket. Aici aveți timp suficient pentru a vă bucura de natură și de expoziții. La sfârșitul după-amiezii, un autobuz vă duce confortabil înapoi la punctul de plecare, Gara Centrală.",
+        "en": "Using public transport allows you to explore Kristianstad efficiently. Your day starts at the Central Station. From there, you'll walk to the first cluster, the historic centre with Stora Torg and the church, where you'll spend the morning. After another walk across town to Tivoli Park for a lunch break, you'll take a bus in the early afternoon to the second cluster, Naturum Vattenriket. Here you have ample time to enjoy the nature and exhibits. In the late afternoon, a bus will conveniently take you back to your starting point at the Central Station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tagesgericht (Dagens rätt)",
+            "tip": "Viele Cafés und Restaurants in der Nähe des Bahnhofs bieten ein erschwingliches Mittagsmenü an, das oft Salat und Kaffee beinhaltet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Napi ajánlat (Dagens rätt)",
+            "tip": "Sok kávézó és étterem a pályaudvar közelében kínál kedvező árú ebédmenüt, amely gyakran salátát és kávét is tartalmaz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Meniul zilei (Dagens rätt)",
+            "tip": "Multe cafenele și restaurante de lângă gară oferă un meniu de prânz la preț accesibil, care include adesea salată și cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dish of the Day (Dagens rätt)",
+            "tip": "Many cafés and restaurants near the station offer an affordable lunch menu, often including salad and coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Die schwimmenden Plattformen des Naturum",
+            "tip": "Setzen Sie sich auf eine der Plattformen, die ins Wasser hinausragen, um die Ruhe des Biosphärenreservats zu spüren.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Naturum lebegő platformjai",
+            "tip": "Üljön le az egyik, vízbe nyúló platformra, hogy érezze a bioszféra-rezervátum nyugalmát.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platformele plutitoare de la Naturum",
+            "tip": "Așezați-vă pe una dintre platformele care se extind în apă pentru a simți liniștea rezervației biosferei.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "The floating platforms at Naturum",
+            "tip": "Sit on one of the platforms extending into the water to feel the tranquility of the biosphere reserve.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs im Naturum",
+            "tip": "Der Geschenkeladen im Naturum bietet einzigartige, naturbezogene Souvenirs und Bücher über die lokale Tierwelt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándéktárgyak a Naturumban",
+            "tip": "A Naturum ajándékboltja egyedi, természetközeli ajándéktárgyakat és könyveket kínál a helyi vadvilágról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri la Naturum",
+            "tip": "Magazinul de cadouri de la Naturum oferă suveniruri unice, legate de natură, și cărți despre fauna locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenirs at Naturum",
+            "tip": "The gift shop at the Naturum offers unique, nature-themed souvenirs and books about the local wildlife."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die lokale ÖPNV-App 'Skånetrafiken' herunter, um Fahrpläne und Tickets zu verwalten.",
+          "Beachten Sie, dass Busse in Schweden oft bargeldlos sind; eine Kreditkarte oder die App ist erforderlich."
+        ],
+        "hu": [
+          "Töltse le a helyi tömegközlekedési alkalmazást, a 'Skånetrafiken'-t a menetrendek és jegyek kezeléséhez.",
+          "Vegye figyelembe, hogy a svéd buszokon gyakran nem lehet készpénzzel fizetni; hitelkártya vagy az alkalmazás szükséges."
+        ],
+        "ro": [
+          "Descărcați aplicația locală de transport public 'Skånetrafiken' pentru a gestiona orarele și biletele.",
+          "Rețineți că autobuzele din Suedia sunt adesea fără numerar; este necesar un card de credit sau aplicația."
+        ],
+        "en": [
+          "Download the local public transport app, 'Skånetrafiken', to manage timetables and tickets.",
+          "Note that buses in Sweden are often cashless; a credit card or the app is required."
+        ]
+      }
+    }
+  }
+}

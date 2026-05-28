@@ -1,0 +1,1471 @@
+{
+  "city_id": "denmark-aabenraa-cities-v2",
+  "anchor": {
+    "name": "Aabenraa",
+    "coords": [
+      9.42,
+      55.04
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Vægterpladsen",
+            "hu": "Vægterpladsen (Az Éjjeliőrök tere)",
+            "ro": "Vægterpladsen (Piața Gărzii de Noapte)",
+            "en": "Vægterpladsen (The Night Watchman's Square)"
+          },
+          "coords": [
+            9.4175,
+            55.0442
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der perfekte Ausgangspunkt, um die Atmosphäre der Altstadt aufzusaugen.",
+            "hu": "Tökéletes kiindulópont a régi város hangulatának magába szívásához.",
+            "ro": "Punctul de plecare perfect pentru a absorbi atmosfera orașului vechi.",
+            "en": "The perfect starting point to soak up the old town atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Postmestergården",
+            "hu": "Postmestergården (A Postamester Háza)",
+            "ro": "Postmestergården (Curtea Poștașului)",
+            "en": "Postmestergården (The Postmaster's Courtyard)"
+          },
+          "coords": [
+            9.4188,
+            55.0448
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:43",
+          "stay_min": 30,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Achten Sie auf die kunstvollen Holzschnitzereien an der Fassade.",
+            "hu": "Figyelje meg a homlokzaton található díszes fafaragásokat!",
+            "ro": "Fiți atenți la sculpturile elaborate în lemn de pe fațadă.",
+            "en": "Pay attention to the elaborate wood carvings on the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Sct. Nicolai Kirke",
+            "hu": "Szent Miklós templom",
+            "ro": "Biserica Sf. Nicolae",
+            "en": "St. Nicolai Church"
+          },
+          "coords": [
+            9.4165,
+            55.0455
+          ],
+          "category": "churches",
+          "arrive_at": "10:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Innere, um das beeindruckende Votivschiff zu sehen.",
+            "hu": "Nézzen be a belsejébe, hogy megnézze a lenyűgöző fogadalmi hajót.",
+            "ro": "Intrați înăuntru pentru a vedea impresionanta navă votivă.",
+            "en": "Go inside to see the impressive votive ship."
+          }
+        },
+        {
+          "name": {
+            "de": "Brundlund Slot",
+            "hu": "Brundlund kastély",
+            "ro": "Castelul Brundlund",
+            "en": "Brundlund Castle"
+          },
+          "coords": [
+            9.412,
+            55.041
+          ],
+          "category": "castles",
+          "arrive_at": "11:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Das Schloss beherbergt ein Kunstmuseum. Prüfen Sie die aktuellen Ausstellungen.",
+            "hu": "A kastély egy művészeti múzeumnak ad otthont. Ellenőrizze az aktuális kiállításokat!",
+            "ro": "Castelul găzduiește un muzeu de artă. Verificați expozițiile curente.",
+            "en": "The castle houses an art museum. Check the current exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Aabenraa Havn",
+            "hu": "Aabenraa kikötő",
+            "ro": "Portul Aabenraa",
+            "en": "Aabenraa Harbour"
+          },
+          "coords": [
+            9.432,
+            55.046
+          ],
+          "category": "port",
+          "arrive_at": "13:19",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Ideal für ein Mittagessen mit Blick auf die Segelboote.",
+            "hu": "Ideális egy ebédhez, kilátással a vitorlásokra.",
+            "ro": "Ideal pentru un prânz cu vedere la ambarcațiunile cu pânze.",
+            "en": "Ideal for a lunch with a view of the sailing boats."
+          }
+        },
+        {
+          "name": {
+            "de": "Sønderstrand",
+            "hu": "Sønderstrand (Déli part)",
+            "ro": "Sønderstrand (Plaja de Sud)",
+            "en": "Sønderstrand (South Beach)"
+          },
+          "coords": [
+            9.439,
+            55.042
+          ],
+          "category": "beaches",
+          "arrive_at": "14:41",
+          "stay_min": 130,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Ein schöner Ort für einen langen Spaziergang oder um im Sommer die Füße ins Wasser zu halten.",
+            "hu": "Remek hely egy hosszú sétára, vagy nyáron a lábát a vízbe lógatni.",
+            "ro": "Un loc minunat pentru o plimbare lungă sau pentru a vă băga picioarele în apă vara.",
+            "en": "A lovely spot for a long walk or to dip your feet in the water in summer."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Aabenraa am Vægterpladsen, bevor Sie die historischen Gassen erkunden. Der Vormittag ist der Kultur gewidmet, mit Besuchen der Sct. Nicolai Kirke und dem imposanten Brundlund Slot. Nach einem Mittagessen am belebten Hafen verbringen Sie den Nachmittag entspannt am Sønderstrand, genießen die Meeresbrise und den weiten Blick über die Förde. Zum Abschluss kehren Sie für ein traditionelles dänisches Abendessen ins Stadtzentrum zurück.",
+        "hu": "Kezdje a napot Aabenraa szívében, a Vægterpladsen téren, mielőtt felfedezné a történelmi sikátorokat. A délelőtt a kultúráé, a Sct. Nicolai Kirke és a lenyűgöző Brundlund kastély meglátogatásával. Egy forgalmas kikötőben elköltött ebéd után töltse a délutánt pihenéssel a Sønderstrandon, élvezve a tengeri szellőt és a fjordra nyíló széles kilátást. Végül térjen vissza a városközpontba egy hagyományos dán vacsorára.",
+        "ro": "Începeți ziua în inima orașului Aabenraa, la Vægterpladsen, înainte de a explora străduțele istorice. Dimineața este dedicată culturii, cu vizite la Biserica Sct. Nicolai și impunătorul Castel Brundlund. După un prânz în portul animat, petreceți după-amiaza relaxându-vă la Sønderstrand, bucurându-vă de briza mării și de priveliștea largă asupra fiordului. La final, reveniți în centrul orașului pentru o cină tradițională daneză.",
+        "en": "Start your day in the heart of Aabenraa at Vægterpladsen before exploring the historic alleys. The morning is dedicated to culture, with visits to Sct. Nicolai Kirke and the imposing Brundlund Castle. After lunch at the bustling harbour, spend the afternoon relaxing at Sønderstrand, enjoying the sea breeze and the wide view over the fjord. To finish, return to the city center for a traditional Danish dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sønderjysk Kaffebord",
+            "tip": "Eine traditionelle südjütländische Kaffeetafel mit mindestens 21 verschiedenen Kuchensorten. Suchen Sie nach Cafés, die dies anbieten."
+          },
+          {
+            "name": "Restaurant Knapp",
+            "tip": "Bekannt für seine gehobene dänische Küche in einer wunderschönen Umgebung etwas außerhalb der Stadt."
+          },
+          {
+            "name": "Fisk & Røgeri",
+            "tip": "Frischer Fisch und geräucherte Spezialitäten direkt am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sønderjysk Kaffebord",
+            "tip": "Hagyományos dél-jütlandi kávézóasztal legalább 21 különböző süteménnyel. Keressen olyan kávézókat, amelyek ezt kínálják."
+          },
+          {
+            "name": "Restaurant Knapp",
+            "tip": "A városon kívül, gyönyörű környezetben, finom dán konyhájáról ismert."
+          },
+          {
+            "name": "Fisk & Røgeri",
+            "tip": "Friss hal és füstölt különlegességek közvetlenül a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sønderjysk Kaffebord",
+            "tip": "O masă de cafea tradițională din Iutlanda de Sud cu cel puțin 21 de tipuri diferite de prăjituri. Căutați cafenelele care o oferă."
+          },
+          {
+            "name": "Restaurant Knapp",
+            "tip": "Renumit pentru bucătăria daneză rafinată într-un cadru frumos, chiar în afara orașului."
+          },
+          {
+            "name": "Fisk & Røgeri",
+            "tip": "Pește proaspăt și specialități afumate direct în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sønderjysk Kaffebord",
+            "tip": "A traditional Southern Jutland coffee table with at least 21 different kinds of cakes. Look for cafes that offer it."
+          },
+          {
+            "name": "Restaurant Knapp",
+            "tip": "Known for its fine Danish cuisine in a beautiful setting just outside the city."
+          },
+          {
+            "name": "Fisk & Røgeri",
+            "tip": "Fresh fish and smoked specialties right at the harbour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Brundlund Schlosspark",
+            "tip": "Ein ruhiger Spaziergang durch die Gärten nach dem Museumsbesuch.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hjelm Skov",
+            "tip": "Ein friedlicher Wald für einen längeren Spaziergang oder eine Wanderung.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sonnenuntergang am Sønderstrand",
+            "tip": "Finden Sie eine Bank und beobachten Sie, wie die Sonne über dem Fjord untergeht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brundlund kastélypark",
+            "tip": "Egy csendes séta a kertekben a múzeumlátogatás után.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hjelm Skov erdő",
+            "tip": "Békés erdő egy hosszabb sétához vagy túrához.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Naplemente a Sønderstrandon",
+            "tip": "Keressen egy padot, és nézze, ahogy a nap lemegy a fjord felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului Brundlund",
+            "tip": "O plimbare liniștită prin grădini după vizitarea muzeului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pădurea Hjelm Skov",
+            "tip": "O pădure liniștită pentru o plimbare mai lungă sau o drumeție.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Apus de soare la Sønderstrand",
+            "tip": "Găsiți o bancă și priviți soarele apunând peste fiord.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Brundlund Castle Park",
+            "tip": "A quiet stroll through the gardens after visiting the museum.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hjelm Skov Forest",
+            "tip": "A peaceful forest for a longer walk or hike.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sunset at Sønderstrand",
+            "tip": "Find a bench and watch the sun set over the fjord.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fußgängerzone (Gågade)",
+            "tip": "Entdecken Sie lokale Boutiquen und dänische Designläden in der Hauptstraße."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Wenn Sie an einem Markttag dort sind, probieren Sie lokale Produkte und Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sétálóutca (Gågade)",
+            "tip": "Fedezze fel a helyi butikokat és dán dizájnerboltokat a főutcán."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Ha piacnapon van ott, kóstolja meg a helyi termékeket és sajtokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada pietonală (Gågade)",
+            "tip": "Descoperiți buticuri locale și magazine de design danez pe strada principală."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Dacă sunteți acolo într-o zi de piață, gustați produse locale și brânzeturi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pedestrian Street (Gågade)",
+            "tip": "Discover local boutiques and Danish design shops on the main street."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "If you're there on a market day, try some local produce and cheeses."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind leicht zu Fuß erreichbar.",
+          "Ein Spaziergang entlang des Hafens bis zum Strand ist ein Muss.",
+          "Viele Cafés bieten gemütliche Sitzgelegenheiten im Freien, perfekt für eine Pause."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakövek egyenetlenek lehetnek az óvárosban.",
+          "A legtöbb belvárosi látnivaló könnyen megközelíthető gyalog.",
+          "A kikötő mentén a strandig tartó séta kötelező program.",
+          "Sok kávézó kínál hangulatos szabadtéri ülőhelyeket, amelyek tökéletesek egy szünetre."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece pavajul din orașul vechi poate fi denivelat.",
+          "Majoritatea atracțiilor din centrul orașului sunt ușor accesibile pe jos.",
+          "O plimbare de-a lungul portului până la plajă este obligatorie.",
+          "Multe cafenele oferă locuri confortabile în aer liber, perfecte pentru o pauză."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Most attractions in the city center are within easy walking distance.",
+          "A walk along the harbour to the beach is a must-do.",
+          "Many cafes offer cozy outdoor seating, perfect for a break."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Vægterpladsen",
+            "hu": "Vægterpladsen",
+            "ro": "Vægterpladsen",
+            "en": "Vægterpladsen"
+          },
+          "coords": [
+            9.4175,
+            55.0442
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und machen Sie einen kurzen Spaziergang durch die umliegenden Straßen.",
+            "hu": "Zárja le a biciklit, és tegyen egy rövid sétát a környező utcákban.",
+            "ro": "Încuiați-vă bicicleta și faceți o scurtă plimbare pe străzile din jur.",
+            "en": "Lock up your bike and take a short stroll through the surrounding streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Sct. Nicolai Kirke",
+            "hu": "Szent Miklós templom",
+            "ro": "Biserica Sf. Nicolae",
+            "en": "St. Nicolai Church"
+          },
+          "coords": [
+            9.4165,
+            55.0455
+          ],
+          "category": "churches",
+          "arrive_at": "09:33",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe im Inneren, eine willkommene Abwechslung vom Radfahren.",
+            "hu": "Élvezze a benti csendet, ami kellemes kikapcsolódás a biciklizés után.",
+            "ro": "Bucurați-vă de liniștea din interior, o pauză binevenită de la ciclism.",
+            "en": "Enjoy the tranquility inside, a welcome break from cycling."
+          }
+        },
+        {
+          "name": {
+            "de": "Brundlund Slot",
+            "hu": "Brundlund kastély",
+            "ro": "Castelul Brundlund",
+            "en": "Brundlund Castle"
+          },
+          "coords": [
+            9.412,
+            55.041
+          ],
+          "category": "castles",
+          "arrive_at": "10:09",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Der Schlosspark ist ideal für eine kleine Pause, bevor Sie das Museum besuchen.",
+            "hu": "A kastélypark ideális egy rövid pihenőre a múzeum látogatása előtt.",
+            "ro": "Parcul castelului este ideal pentru o scurtă pauză înainte de a vizita muzeul.",
+            "en": "The castle park is ideal for a short break before visiting the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Aabenraa Havn",
+            "hu": "Aabenraa kikötő",
+            "ro": "Portul Aabenraa",
+            "en": "Aabenraa Harbour"
+          },
+          "coords": [
+            9.432,
+            55.046
+          ],
+          "category": "port",
+          "arrive_at": "11:31",
+          "stay_min": 50,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Fahren Sie die Promenade entlang und beobachten Sie die Boote.",
+            "hu": "Tekerjen végig a sétányon, és nézze a hajókat.",
+            "ro": "Plimbați-vă cu bicicleta de-a lungul promenadei și priviți bărcile.",
+            "en": "Cycle along the promenade and watch the boats."
+          }
+        },
+        {
+          "name": {
+            "de": "Sønderstrand",
+            "hu": "Sønderstrand",
+            "ro": "Sønderstrand",
+            "en": "Sønderstrand"
+          },
+          "coords": [
+            9.439,
+            55.042
+          ],
+          "category": "beaches",
+          "arrive_at": "12:27",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause. Viele Radwege führen entlang der Küste.",
+            "hu": "Tökéletes egy ebédszünetre. Sok kerékpárút vezet a part mentén.",
+            "ro": "Perfect pentru o pauză de prânz. Multe piste de biciclete duc de-a lungul coastei.",
+            "en": "Perfect for a lunch break. Many cycle paths lead along the coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Hjelm Skov",
+            "hu": "Hjelm Skov erdő",
+            "ro": "Pădurea Hjelm Skov",
+            "en": "Hjelm Skov Forest"
+          },
+          "coords": [
+            9.38,
+            55.055
+          ],
+          "category": "parks",
+          "arrive_at": "14:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4,
+          "tip_5lang": {
+            "de": "Eine erfrischende Fahrt durch den Wald. Achten Sie auf die markierten Radwege.",
+            "hu": "Egy frissítő tekerés az erdőn keresztül. Figyeljen a kijelölt kerékpárutakra!",
+            "ro": "O plimbare revigorantă prin pădure. Fiți atenți la pistele de biciclete marcate.",
+            "en": "A refreshing ride through the forest. Look out for the marked cycle paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Oldemorstoft (Museum)",
+            "hu": "Oldemorstoft (Múzeum)",
+            "ro": "Oldemorstoft (Muzeu)",
+            "en": "Oldemorstoft (Museum)"
+          },
+          "coords": [
+            9.405,
+            55.02
+          ],
+          "category": "museums",
+          "arrive_at": "16:03",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die lokale Geschichte, bevor Sie den Tag ausklingen lassen.",
+            "hu": "Tudjon meg többet a helyi történelemről, mielőtt lezárná a napot.",
+            "ro": "Aflați mai multe despre istoria locală înainte de a încheia ziua.",
+            "en": "Learn about the local history before you wind down your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Rad und starten Sie am Vægterpladsen. Am Vormittag radeln Sie durch das historische Zentrum zum Brundlund Slot. Mittags genießen Sie die maritime Atmosphäre am Hafen und am Strand von Sønderstrand. Der Nachmittag führt Sie auf eine längere Tour durch den grünen Hjelm Skov, eine willkommene Abkühlung. Beenden Sie Ihre Radtour mit einem kulturellen Einblick im Oldemorstoft Museum.",
+        "hu": "Pattanjon biciklire és induljon a Vægterpladsen-ről. Délelőtt tekerjen át a történelmi központon a Brundlund kastélyhoz. Délben élvezze a tengeri hangulatot a kikötőben és a Sønderstrand strandon. A délután egy hosszabb túrára visz a zöld Hjelm Skov erdőn keresztül, ami kellemes felüdülést nyújt. Zárja a kerékpártúrát egy kulturális betekintéssel az Oldemorstoft Múzeumban.",
+        "ro": "Urcați-vă pe bicicletă și porniți de la Vægterpladsen. Dimineața pedalați prin centrul istoric până la Castelul Brundlund. La prânz, bucurați-vă de atmosfera maritimă din port și de pe plaja Sønderstrand. După-amiaza vă poartă într-un tur mai lung prin pădurea verde Hjelm Skov, o răcorire binevenită. Încheiați turul cu bicicleta cu o incursiune culturală la Muzeul Oldemorstoft.",
+        "en": "Hop on your bike and start at Vægterpladsen. In the morning, cycle through the historic center to Brundlund Castle. At noon, enjoy the maritime atmosphere at the harbour and Sønderstrand beach. The afternoon takes you on a longer tour through the green Hjelm Skov forest, a welcome cool-down. End your bike tour with a cultural insight at the Oldemorstoft Museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Das klassische dänische offene Sandwich. Perfekt für ein schnelles und leckeres Mittagessen."
+          },
+          {
+            "name": "Café Kridt",
+            "tip": "Ein gemütliches Café im Zentrum, ideal für Kaffee und Kuchen."
+          },
+          {
+            "name": "Aabenraa Røgeriet",
+            "tip": "Kaufen Sie geräucherten Fisch für ein Picknick am Strand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smørrebrød",
+            "tip": "A klasszikus dán nyitott szendvics. Tökéletes egy gyors és finom ebédhez."
+          },
+          {
+            "name": "Café Kridt",
+            "tip": "Hangulatos kávézó a központban, ideális kávéhoz és süteményhez."
+          },
+          {
+            "name": "Aabenraa Røgeriet",
+            "tip": "Vásároljon füstölt halat egy piknikhez a tengerparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Sandvișul deschis clasic danez. Perfect pentru un prânz rapid și delicios."
+          },
+          {
+            "name": "Café Kridt",
+            "tip": "O cafenea primitoare în centru, ideală pentru o cafea și o prăjitură."
+          },
+          {
+            "name": "Aabenraa Røgeriet",
+            "tip": "Cumpărați pește afumat pentru un picnic pe plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smørrebrød",
+            "tip": "The classic Danish open-faced sandwich. Perfect for a quick and delicious lunch."
+          },
+          {
+            "name": "Café Kridt",
+            "tip": "A cozy cafe in the center, ideal for coffee and cake."
+          },
+          {
+            "name": "Aabenraa Røgeriet",
+            "tip": "Buy some smoked fish for a picnic on the beach."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg entlang des Fjords",
+            "tip": "Genießen Sie die Ruhe und die Aussicht auf dem Weg zum Strand.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Hjelm Skov",
+            "tip": "Tiefer im Wald finden Sie absolute Stille.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eine Bank im Schlosspark",
+            "tip": "Ein perfekter Ort, um ein Buch zu lesen oder einfach nur zu entspannen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a fjord mentén",
+            "tip": "Élvezze a csendet és a kilátást a strand felé vezető úton.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Hjelm Skov erdő",
+            "tip": "Mélyebben az erdőben teljes csendet talál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy pad a kastélyparkban",
+            "tip": "Tökéletes hely egy könyv olvasásához vagy egyszerűen csak a pihenéshez.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul fiordului",
+            "tip": "Bucurați-vă de liniște și de priveliște în drum spre plajă.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Pădurea Hjelm Skov",
+            "tip": "Mai adânc în pădure veți găsi liniște absolută.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O bancă în parcul castelului",
+            "tip": "Un loc perfect pentru a citi o carte sau pur și simplu pentru a vă relaxa.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cycle path along the fjord",
+            "tip": "Enjoy the peace and the view on the way to the beach.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Hjelm Skov Forest",
+            "tip": "You'll find absolute silence deeper in the forest.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A bench in the castle park",
+            "tip": "A perfect spot to read a book or just relax.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Storegade",
+            "tip": "Die Haupteinkaufsstraße mit einer guten Mischung aus Ketten und lokalen Geschäften."
+          },
+          {
+            "name": "FarmShop",
+            "tip": "Suchen Sie nach Hofläden am Stadtrand für frische, lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Storegade",
+            "tip": "A fő bevásárlóutca, ahol a láncok és a helyi üzletek jó keveréke található."
+          },
+          {
+            "name": "Tanyaboltok",
+            "tip": "Keressen tanyasi boltokat a város szélén friss, helyi termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Storegade",
+            "tip": "Principala stradă comercială cu un amestec bun de lanțuri de magazine și magazine locale."
+          },
+          {
+            "name": "Magazine de fermă",
+            "tip": "Căutați magazine de fermă la periferia orașului pentru produse proaspete, locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Storegade",
+            "tip": "The main shopping street with a good mix of chains and local shops."
+          },
+          {
+            "name": "Farm Shops",
+            "tip": "Look for farm shops on the outskirts of town for fresh, local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Zustand Ihres Fahrrads, bevor Sie losfahren.",
+          "Dänemark ist sehr fahrradfreundlich, aber achten Sie immer auf den Verkehr.",
+          "Nehmen Sie eine Wasserflasche und Snacks für die längere Tour am Nachmittag mit.",
+          "Ein Helm wird dringend empfohlen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpár állapotát.",
+          "Dánia nagyon kerékpárbarát, de mindig figyeljen a forgalomra.",
+          "Vigyen magával egy kulacs vizet és harapnivalót a délutáni hosszabb túrára.",
+          "A sisak használata erősen ajánlott."
+        ],
+        "ro": [
+          "Verificați starea bicicletei înainte de a porni.",
+          "Danemarca este foarte prietenoasă cu bicicliștii, dar fiți mereu atenți la trafic.",
+          "Luați o sticlă de apă și gustări pentru turul mai lung de după-amiază.",
+          "O cască este foarte recomandată."
+        ],
+        "en": [
+          "Check the condition of your bike before you set off.",
+          "Denmark is very bike-friendly, but always be aware of traffic.",
+          "Bring a water bottle and snacks for the longer afternoon tour.",
+          "A helmet is highly recommended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 21.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Altstadt: Parken & Vægterpladsen",
+            "hu": "Óváros Klaszter: Parkolás és Vægterpladsen",
+            "ro": "Cluster Centrul Vechi: Parcare și Vægterpladsen",
+            "en": "Old Town Cluster: Parking & Vægterpladsen"
+          },
+          "coords": [
+            9.418,
+            55.0435
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Zentrums. Der erste Spaziergang beginnt hier.",
+            "hu": "Parkoljon a központ közelében. Az első séta itt kezdődik.",
+            "ro": "Parcați lângă centru. Prima plimbare începe aici.",
+            "en": "Park near the center. The first walk starts here."
+          }
+        },
+        {
+          "name": {
+            "de": "Sct. Nicolai Kirke",
+            "hu": "Szent Miklós templom",
+            "ro": "Biserica Sf. Nicolae",
+            "en": "St. Nicolai Church"
+          },
+          "coords": [
+            9.4165,
+            55.0455
+          ],
+          "category": "churches",
+          "arrive_at": "09:36",
+          "stay_min": 35,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Hauptplatz entfernt.",
+            "hu": "Csak egy rövid séta a főtértől.",
+            "ro": "La doar o scurtă plimbare de piața principală.",
+            "en": "Just a short walk from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Postmestergården",
+            "hu": "Postmestergården",
+            "ro": "Postmestergården",
+            "en": "Postmestergården"
+          },
+          "coords": [
+            9.4188,
+            55.0448
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:18",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Auf dem Rückweg zum Auto einen Blick auf dieses historische Gebäude werfen.",
+            "hu": "Vessen egy pillantást erre a történelmi épületre a kocsihoz menet.",
+            "ro": "Aruncați o privire la această clădire istorică în drum spre mașină.",
+            "en": "Take a look at this historic building on your way back to the car."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Schloss & Museum: Brundlund Slot",
+            "hu": "Kastély és Múzeum Klaszter: Brundlund kastély",
+            "ro": "Cluster Castel și Muzeu: Castelul Brundlund",
+            "en": "Castle & Museum Cluster: Brundlund Castle"
+          },
+          "coords": [
+            9.412,
+            55.041
+          ],
+          "category": "castles",
+          "arrive_at": "10:52",
+          "stay_min": 90,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Schloss und parken Sie dort. Planen Sie Zeit für das Kunstmuseum ein.",
+            "hu": "Vezessen a kastélyhoz és parkoljon le. Tervezzen időt a művészeti múzeumra is.",
+            "ro": "Conduceți la castel și parcați acolo. Alocați timp pentru muzeul de artă.",
+            "en": "Drive to the castle and park there. Plan time for the art museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Oldemorstoft (Museum)",
+            "hu": "Oldemorstoft (Múzeum)",
+            "ro": "Oldemorstoft (Muzeu)",
+            "en": "Oldemorstoft (Museum)"
+          },
+          "coords": [
+            9.405,
+            55.02
+          ],
+          "category": "museums",
+          "arrive_at": "12:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 4,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt zu diesem Museum, das die Agrargeschichte der Region beleuchtet.",
+            "hu": "Egy rövid autóút ehhez a múzeumhoz, amely a régió agrártörténetét mutatja be.",
+            "ro": "O scurtă călătorie cu mașina până la acest muzeu care prezintă istoria agrară a regiunii.",
+            "en": "A short drive to this museum showcasing the region's agricultural history."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Küste & Wald: Aabenraa Havn",
+            "hu": "Part és Erdő Klaszter: Aabenraa kikötő",
+            "ro": "Cluster Coasta și Pădurea: Portul Aabenraa",
+            "en": "Coast & Forest Cluster: Aabenraa Harbour"
+          },
+          "coords": [
+            9.432,
+            55.046
+          ],
+          "category": "port",
+          "arrive_at": "15:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 6,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Hafen für einen Spaziergang entlang des Wassers.",
+            "hu": "Parkoljon a kikötőnél egy vízparti sétához.",
+            "ro": "Parcați în port pentru o plimbare de-a lungul apei.",
+            "en": "Park at the harbour for a walk along the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Hjelm Skov",
+            "hu": "Hjelm Skov erdő",
+            "ro": "Pădurea Hjelm Skov",
+            "en": "Hjelm Skov Forest"
+          },
+          "coords": [
+            9.38,
+            55.055
+          ],
+          "category": "parks",
+          "arrive_at": "16:09",
+          "stay_min": 70,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 9.3,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einer Fahrt in den Wald für einen friedlichen Spaziergang.",
+            "hu": "Zárja a napot egy autózással az erdőbe egy békés sétáért.",
+            "ro": "Încheiați ziua cu o plimbare cu mașina în pădure pentru o promenadă liniștită.",
+            "en": "End the day with a drive to the forest for a peaceful walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Aabenraa in Clustern. Beginnen Sie mit einem Spaziergang durch die Altstadt. Dann fahren Sie zum Brundlund Slot für eine Dosis Kunst und Geschichte. Am Nachmittag fahren Sie weiter zum Oldemorstoft Museum, um mehr über die ländliche Vergangenheit zu erfahren. Schließlich bringt Sie Ihr Auto zum Hafen und in den ruhigen Hjelm Skov, um den Tag in der Natur ausklingen zu lassen.",
+        "hu": "Autóval klaszterekben fedezheti fel Aabenraa-t. Kezdje egy sétával az óvárosban. Ezután vezessen a Brundlund kastélyhoz egy adag művészetért és történelemért. Délután folytassa útját az Oldemorstoft Múzeumba, hogy többet tudjon meg a vidéki múltról. Végül autója elviszi a kikötőbe és a csendes Hjelm Skov erdőbe, hogy a természetben fejezze be a napot.",
+        "ro": "Cu mașina, explorați Aabenraa în clustere. Începeți cu o plimbare prin orașul vechi. Apoi, conduceți la Castelul Brundlund pentru o doză de artă și istorie. După-amiaza, continuați la Muzeul Oldemorstoft pentru a afla despre trecutul rural. În cele din urmă, mașina vă va duce în port și în liniștita Pădure Hjelm Skov pentru a încheia ziua în natură.",
+        "en": "By car, you'll explore Aabenraa in clusters. Start with a walk through the old town. Then, drive to Brundlund Castle for a dose of art and history. In the afternoon, continue to Oldemorstoft Museum to learn about the rural past. Finally, your car takes you to the harbour and the peaceful Hjelm Skov forest to end the day in nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ringriderpølse",
+            "tip": "Eine lokale Wurstspezialität, oft auf Festen verkauft, aber auch in einigen Metzgereien erhältlich."
+          },
+          {
+            "name": "Restaurant Under Sejlet",
+            "tip": "Gutes Essen mit schöner Aussicht am Hafen."
+          },
+          {
+            "name": "Fox and Hounds",
+            "tip": "Ein Pub im schottischen Stil für ein herzhaftes Abendessen und ein Bier."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ringriderpølse",
+            "tip": "Helyi kolbászkülönlegesség, gyakran fesztiválokon árulják, de néhány hentesnél is kapható."
+          },
+          {
+            "name": "Restaurant Under Sejlet",
+            "tip": "Jó ételek, gyönyörű kilátással a kikötőben."
+          },
+          {
+            "name": "Fox and Hounds",
+            "tip": "Skót stílusú kocsma egy kiadós vacsorához és egy sörhöz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ringriderpølse",
+            "tip": "O specialitate locală de cârnați, adesea vândută la festivaluri, dar disponibilă și în unele măcelării."
+          },
+          {
+            "name": "Restaurant Under Sejlet",
+            "tip": "Mâncare bună cu o priveliște frumoasă în port."
+          },
+          {
+            "name": "Fox and Hounds",
+            "tip": "Un pub în stil scoțian pentru o cină consistentă și o bere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ringriderpølse",
+            "tip": "A local sausage specialty, often sold at festivals but also available in some butcher shops."
+          },
+          {
+            "name": "Restaurant Under Sejlet",
+            "tip": "Good food with a beautiful view at the harbour."
+          },
+          {
+            "name": "Fox and Hounds",
+            "tip": "A Scottish-style pub for a hearty dinner and a beer."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Knapp Vandmølle",
+            "tip": "Eine kurze Autofahrt zu einer historischen Wassermühle in einer ruhigen Umgebung.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtspunkt im Hjelm Skov",
+            "tip": "Finden Sie einen der höheren Punkte für einen weiten Blick über die Landschaft.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Die Gärten von Brundlund",
+            "tip": "Ein friedlicher Ort, um nach dem Museumsbesuch zu verweilen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Knapp Vandmølle",
+            "tip": "Egy rövid autóútra egy történelmi vízimalomhoz, csendes környezetben.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátó a Hjelm Skov erdőben",
+            "tip": "Keressen egy magasabb pontot a tájra nyíló széles kilátásért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Brundlund kertjei",
+            "tip": "Békés hely a múzeumlátogatás utáni időtöltésre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Knapp Vandmølle",
+            "tip": "O scurtă călătorie cu mașina până la o moară de apă istorică într-un cadru liniștit.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Punct de belvedere în Pădurea Hjelm Skov",
+            "tip": "Găsiți unul dintre punctele mai înalte pentru o priveliște largă asupra peisajului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile din Brundlund",
+            "tip": "Un loc liniștit pentru a zăbovi după vizita la muzeu.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Knapp Vandmølle",
+            "tip": "A short drive to a historic watermill in a tranquil setting.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Viewpoint in Hjelm Skov Forest",
+            "tip": "Find one of the higher points for a wide view over the landscape.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "The Gardens of Brundlund",
+            "tip": "A peaceful place to linger after the museum visit.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gågade",
+            "tip": "Die Fußgängerzone ist am besten zu Fuß zu erkunden, nachdem Sie Ihr Auto geparkt haben."
+          },
+          {
+            "name": "Kunsthandwerk",
+            "tip": "Halten Sie Ausschau nach kleinen Ateliers und Werkstätten lokaler Künstler."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gågade",
+            "tip": "A sétálóutcát a legjobb gyalog felfedezni, miután leparkolta az autóját."
+          },
+          {
+            "name": "Kézműves termékek",
+            "tip": "Keresse a helyi művészek kis műtermeit és műhelyeit."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gågade",
+            "tip": "Strada pietonală este cel mai bine explorată pe jos după ce v-ați parcat mașina."
+          },
+          {
+            "name": "Artizanat local",
+            "tip": "Fiți cu ochii pe micile studiouri și ateliere ale artiștilor locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gågade",
+            "tip": "The pedestrian street is best explored on foot after parking your car."
+          },
+          {
+            "name": "Local Crafts",
+            "tip": "Keep an eye out for small studios and workshops of local artists."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten und -gebühren im Voraus.",
+          "Ein GPS ist nützlich, um zwischen den Clustern zu navigieren.",
+          "Die Cluster-Philosophie hilft, Parkprobleme zu minimieren und mehr zu erleben.",
+          "Planen Sie zusätzliche Zeit für den Verkehr ein, besonders an Wochenenden."
+        ],
+        "hu": [
+          "Előre tájékozódjon a parkolási lehetőségekről és díjakról.",
+          "A GPS hasznos a klaszterek közötti navigációhoz.",
+          "A klaszter-filozófia segít minimalizálni a parkolási problémákat és többet megtapasztalni.",
+          "Tervezzen plusz időt a forgalomra, különösen hétvégén."
+        ],
+        "ro": [
+          "Verificați dinainte opțiunile și taxele de parcare.",
+          "Un GPS este util pentru a naviga între clustere.",
+          "Filozofia clusterelor ajută la minimizarea problemelor de parcare și la experimentarea mai multor lucruri.",
+          "Planificați timp suplimentar pentru trafic, în special în weekend."
+        ],
+        "en": [
+          "Check parking options and fees in advance.",
+          "A GPS is useful for navigating between the clusters.",
+          "The cluster philosophy helps minimize parking issues and experience more.",
+          "Plan for extra time for traffic, especially on weekends."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 8.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Zentrum: Ankunft am Vægterpladsen",
+            "hu": "Központ Klaszter: Érkezés a Vægterpladsen-re",
+            "ro": "Cluster Centru: Sosire la Vægterpladsen",
+            "en": "Center Cluster: Arrival at Vægterpladsen"
+          },
+          "coords": [
+            9.4175,
+            55.0442
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus ins Zentrum und beginnen Sie Ihren Rundgang hier.",
+            "hu": "Menjen busszal a központba, és itt kezdje a sétát.",
+            "ro": "Luați un autobuz spre centru și începeți turul pietonal de aici.",
+            "en": "Take a bus to the center and start your walking tour here."
+          }
+        },
+        {
+          "name": {
+            "de": "Sct. Nicolai Kirke",
+            "hu": "Szent Miklós templom",
+            "ro": "Biserica Sf. Nicolae",
+            "en": "St. Nicolai Church"
+          },
+          "coords": [
+            9.4165,
+            55.0455
+          ],
+          "category": "churches",
+          "arrive_at": "09:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Platz aus leicht zu Fuß erreichbar.",
+            "hu": "A térről könnyen elérhető gyalog.",
+            "ro": "Ușor accesibil pe jos din piață.",
+            "en": "Easily walkable from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Postmestergården",
+            "hu": "Postmestergården",
+            "ro": "Postmestergården",
+            "en": "Postmestergården"
+          },
+          "coords": [
+            9.4188,
+            55.0448
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein weiteres historisches Juwel in diesem zu Fuß erreichbaren Cluster.",
+            "hu": "Egy újabb történelmi gyöngyszem ebben a gyalogosan bejárható klaszterben.",
+            "ro": "O altă bijuterie istorică în acest cluster pietonal.",
+            "en": "Another historical gem in this walkable cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Schloss: Brundlund Slot",
+            "hu": "Kastély Klaszter: Brundlund kastély",
+            "ro": "Cluster Castel: Castelul Brundlund",
+            "en": "Castle Cluster: Brundlund Castle"
+          },
+          "coords": [
+            9.412,
+            55.041
+          ],
+          "category": "castles",
+          "arrive_at": "11:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus, der in der Nähe des Schlosses hält. Genießen Sie das Museum und den Park.",
+            "hu": "Menjen busszal, amely a kastély közelében áll meg. Élvezze a múzeumot és a parkot.",
+            "ro": "Luați un autobuz care oprește lângă castel. Bucurați-vă de muzeu și de parc.",
+            "en": "Take a bus that stops near the castle. Enjoy the museum and the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Hafen: Aabenraa Havn",
+            "hu": "Kikötő Klaszter: Aabenraa kikötő",
+            "ro": "Cluster Port: Portul Aabenraa",
+            "en": "Harbour Cluster: Aabenraa Harbour"
+          },
+          "coords": [
+            9.432,
+            55.046
+          ],
+          "category": "port",
+          "arrive_at": "14:04",
+          "stay_min": 60,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 3,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nach dem Schloss bringt Sie ein Bus zum Hafen, perfekt für eine späte Mittagspause.",
+            "hu": "A kastély után egy busz visz a kikötőbe, tökéletes egy késői ebédszünetre.",
+            "ro": "După castel, un autobuz vă duce în port, perfect pentru o pauză de prânz târzie.",
+            "en": "After the castle, a bus takes you to the harbour, perfect for a late lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Sønderstrand",
+            "hu": "Sønderstrand",
+            "ro": "Sønderstrand",
+            "en": "Sønderstrand"
+          },
+          "coords": [
+            9.439,
+            55.042
+          ],
+          "category": "beaches",
+          "arrive_at": "15:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein kurzer Bus-Hop oder ein schöner Spaziergang vom Hafen zum Strand.",
+            "hu": "Egy rövid buszozás vagy egy kellemes séta a kikötőtől a strandig.",
+            "ro": "O scurtă călătorie cu autobuzul sau o plimbare frumoasă din port până la plajă.",
+            "en": "A short bus hop or a nice walk from the harbour to the beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Aabenraa bequem mit öffentlichen Verkehrsmitteln. Der Tag beginnt mit einem Spaziergang durch das historische Zentrum. Ein Bus bringt Sie dann zum Brundlund Slot, wo Sie den Vormittag verbringen. Nach dem Mittagessen fahren Sie mit dem Bus zum Hafen und weiter zum Sønderstrand, um die frische Meeresluft zu genießen und den Nachmittag entspannt ausklingen zu lassen.",
+        "hu": "Fedezze fel Aabenraa-t kényelmesen a tömegközlekedéssel. A nap egy sétával kezdődik a történelmi központban. Ezután egy busz elviszi a Brundlund kastélyhoz, ahol a délelőttöt tölti. Ebéd után busszal utazik a kikötőbe, majd tovább a Sønderstrandra, hogy élvezze a friss tengeri levegőt és pihenéssel zárja a délutánt.",
+        "ro": "Descoperiți Aabenraa confortabil cu transportul public. Ziua începe cu o plimbare prin centrul istoric. Un autobuz vă va duce apoi la Castelul Brundlund, unde vă veți petrece dimineața. După prânz, luați autobuzul spre port și apoi spre Sønderstrand pentru a vă bucura de aerul proaspăt al mării și pentru a încheia după-amiaza într-un mod relaxat.",
+        "en": "Discover Aabenraa comfortably by public transport. The day begins with a walk through the historic center. A bus will then take you to Brundlund Castle, where you'll spend the morning. After lunch, you'll take a bus to the harbour and then on to Sønderstrand to enjoy the fresh sea air and end the afternoon in a relaxed way."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pølsevogn",
+            "tip": "Probieren Sie einen klassischen dänischen Hotdog von einem Wagen im Stadtzentrum."
+          },
+          {
+            "name": "Restaurant Royal",
+            "tip": "Traditionelle dänische Gerichte in der Nähe des Busbahnhofs."
+          },
+          {
+            "name": "Fiskehuset",
+            "tip": "Ein Fischgeschäft und kleines Restaurant am Hafen, leicht mit dem Bus zu erreichen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pølsevogn",
+            "tip": "Kóstoljon meg egy klasszikus dán hot dogot egy belvárosi kocsiról."
+          },
+          {
+            "name": "Restaurant Royal",
+            "tip": "Hagyományos dán ételek a buszpályaudvar közelében."
+          },
+          {
+            "name": "Fiskehuset",
+            "tip": "Halkereskedés és kis étterem a kikötőben, busszal könnyen megközelíthető."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pølsevogn",
+            "tip": "Încercați un hot dog danez clasic de la o tarabă din centrul orașului."
+          },
+          {
+            "name": "Restaurant Royal",
+            "tip": "Mâncăruri tradiționale daneze lângă autogară."
+          },
+          {
+            "name": "Fiskehuset",
+            "tip": "Un magazin de pește și un mic restaurant în port, ușor accesibil cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pølsevogn",
+            "tip": "Try a classic Danish hot dog from a cart in the city center."
+          },
+          {
+            "name": "Restaurant Royal",
+            "tip": "Traditional Danish dishes near the bus station."
+          },
+          {
+            "name": "Fiskehuset",
+            "tip": "A fish shop and small eatery at the harbour, easily reached by bus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Aabenraa Fjord",
+            "tip": "Ein ruhiger Weg verbindet den Hafen mit dem Strand.",
+            "emoji": "🚶"
+          },
+          {
+            "name": "Leseecke im Schlosspark",
+            "tip": "Finden Sie eine abgeschiedene Bank und genießen Sie die Ruhe.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Blick vom Busfenster",
+            "tip": "Die Fahrt aus der Stadt hinaus bietet oft überraschend schöne Ausblicke.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta az Aabenraa-fjord mentén",
+            "tip": "Egy csendes ösvény köti össze a kikötőt a stranddal.",
+            "emoji": "🚶"
+          },
+          {
+            "name": "Olvasósarok a kastélyparkban",
+            "tip": "Keressen egy félreeső padot, és élvezze a csendet.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás a busz ablakából",
+            "tip": "A városból kifelé vezető út gyakran meglepően szép kilátást nyújt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare de-a lungul fiordului Aabenraa",
+            "tip": "O potecă liniștită leagă portul de plajă.",
+            "emoji": "🚶"
+          },
+          {
+            "name": "Colț de lectură în parcul castelului",
+            "tip": "Găsiți o bancă retrasă și bucurați-vă de liniște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vedere de la geamul autobuzului",
+            "tip": "Călătoria în afara orașului oferă adesea priveliști surprinzător de frumoase.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along Aabenraa Fjord",
+            "tip": "A quiet path connects the harbour to the beach.",
+            "emoji": "🚶"
+          },
+          {
+            "name": "Reading corner in the castle park",
+            "tip": "Find a secluded bench and enjoy the peace.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from the bus window",
+            "tip": "The ride out of town often offers surprisingly beautiful views.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Nørreport",
+            "tip": "Ein Einkaufszentrum in der Nähe des Busbahnhofs für praktische Einkäufe."
+          },
+          {
+            "name": "Søndergade",
+            "tip": "Eine weitere Einkaufsstraße, die vom Zentrum aus leicht zu erreichen ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nørreport",
+            "tip": "Bevásárlóközpont a buszpályaudvar közelében a praktikus vásárláshoz."
+          },
+          {
+            "name": "Søndergade",
+            "tip": "Egy másik bevásárlóutca, amely a központból könnyen megközelíthető."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Nørreport",
+            "tip": "Un centru comercial lângă autogară pentru cumpărături practice."
+          },
+          {
+            "name": "Søndergade",
+            "tip": "O altă stradă comercială ușor accesibilă din centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Nørreport",
+            "tip": "A shopping center near the bus station for practical shopping."
+          },
+          {
+            "name": "Søndergade",
+            "tip": "Another shopping street easily accessible from the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere für spätere Fahrten.",
+          "Die meisten Busse sind barrierefrei.",
+          "Seien Sie an der Haltestelle rechtzeitig, da die Busse in Dänemark oft pünktlich sind."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha több utazást tervez.",
+          "Előre ellenőrizze a buszmenetrendet, különösen a későbbi járatok esetében.",
+          "A legtöbb busz akadálymentesített.",
+          "Legyen időben a megállóban, mivel a buszok Dániában gyakran pontosak."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă plănuiți mai multe călătorii.",
+          "Verificați programul autobuzelor în avans, în special pentru cursele de mai târziu.",
+          "Majoritatea autobuzelor sunt accesibile pentru scaune cu rotile.",
+          "Fiți la stație la timp, deoarece autobuzele din Danemarca sunt adesea punctuale."
+        ],
+        "en": [
+          "Buy a day ticket for the bus if you plan multiple trips.",
+          "Check the bus schedule in advance, especially for later journeys.",
+          "Most buses are wheelchair accessible.",
+          "Be at the stop on time, as buses in Denmark are often punctual."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1471 @@
+{
+  "city_id": "greece-kastoria-cities-v2",
+  "anchor": {
+    "name": "Kastoria",
+    "coords": [
+      21.2684,
+      40.5186
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Start im Viertel Doltcho",
+            "hu": "Indulás a Doltcho negyedből",
+            "ro": "Început în cartierul Doltcho",
+            "en": "Start in Doltcho Quarter"
+          },
+          "coords": [
+            21.2645,
+            40.5155
+          ],
+          "category": "old-town",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den engen Gassen und bewundern Sie die traditionellen Herrenhäuser.",
+            "hu": "Tévedjen el a szűk sikátorokban, és csodálja meg a hagyományos kúriákat.",
+            "ro": "Pierdeți-vă pe aleile înguste și admirați conacele tradiționale.",
+            "en": "Get lost in the narrow alleys and admire the traditional mansions."
+          }
+        },
+        {
+          "name": {
+            "de": "Volkskundemuseum",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul de Folclor",
+            "en": "Folklore Museum"
+          },
+          "coords": [
+            21.2658,
+            40.5148
+          ],
+          "category": "museums",
+          "arrive_at": "10:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die reiche Geschichte des Pelzhandels in Kastoria.",
+            "hu": "Ismerje meg Kasztória gazdag szőrmekereskedelmi múltját.",
+            "ro": "Aflați despre istoria bogată a comerțului cu blănuri din Kastoria.",
+            "en": "Learn about the rich history of the fur trade in Kastoria."
+          }
+        },
+        {
+          "name": {
+            "de": "Herrenhaus Tsiatsiapa",
+            "hu": "Tsiatsiapa-kúria",
+            "ro": "Conacul Tsiatsiapa",
+            "en": "Tsiatsiapa Mansion"
+          },
+          "coords": [
+            21.264,
+            40.5162
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein perfektes Beispiel für die opulente Architektur der Pelzhändler.",
+            "hu": "A pazar szőrmekereskedő építészet tökéletes példája.",
+            "ro": "Un exemplu perfect al arhitecturii opulente a negustorilor de blănuri.",
+            "en": "A perfect example of the opulent architecture of the fur merchants."
+          }
+        },
+        {
+          "name": {
+            "de": "Byzantinisches Museum",
+            "hu": "Bizánci Múzeum",
+            "ro": "Muzeul Bizantin",
+            "en": "Byzantine Museum"
+          },
+          "coords": [
+            21.27,
+            40.52
+          ],
+          "category": "museums",
+          "arrive_at": "12:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Eine beeindruckende Sammlung byzantinischer Ikonen und Kunstwerke.",
+            "hu": "Lenyűgöző bizánci ikon- és műtárgygyűjtemény.",
+            "ro": "O colecție impresionantă de icoane și artefacte bizantine.",
+            "en": "An impressive collection of Byzantine icons and artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "See-Promenade",
+            "hu": "Tóparti sétány",
+            "ro": "Promenada de pe malul lacului",
+            "en": "Lake Promenade"
+          },
+          "coords": [
+            21.2725,
+            40.522
+          ],
+          "category": "promenades",
+          "arrive_at": "14:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannten Spaziergang mit Blick auf den Orestiada-See.",
+            "hu": "Tegyen egy pihentető sétát az Orestiada-tóra nyíló kilátással.",
+            "ro": "Bucurați-vă de o plimbare relaxantă cu vedere la Lacul Orestiada.",
+            "en": "Enjoy a relaxing stroll with views of Lake Orestiada."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Nikolaos",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "Church of Agios Nikolaos"
+          },
+          "coords": [
+            21.263,
+            40.518
+          ],
+          "category": "churches",
+          "arrive_at": "16:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Achten Sie auf die einzigartigen Fresken in dieser kleinen byzantinischen Kirche.",
+            "hu": "Figyelje meg az egyedi freskókat ebben a kis bizánci templomban.",
+            "ro": "Fiți atenți la frescele unice din această mică biserică bizantină.",
+            "en": "Pay attention to the unique frescoes inside this small Byzantine church."
+          }
+        },
+        {
+          "name": {
+            "de": "Viertel Apozari",
+            "hu": "Apozari negyed",
+            "ro": "Cartierul Apozari",
+            "en": "Apozari Quarter"
+          },
+          "coords": [
+            21.261,
+            40.517
+          ],
+          "category": "old-town",
+          "arrive_at": "16:59",
+          "stay_min": 45,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein ruhigerer Teil der Altstadt, ideal für einen Abendspaziergang.",
+            "hu": "Az óváros egy csendesebb része, ideális egy esti sétához.",
+            "ro": "O parte mai liniștită a orașului vechi, ideală pentru o plimbare de seară.",
+            "en": "A quieter part of the old town, perfect for an evening stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Viertel Doltcho, wo Sie durch Kopfsteinpflastergassen schlendern und die prächtigen Herrenhäuser der Pelzhändler bewundern. Das nahegelegene Volkskundemuseum bietet tiefe Einblicke in diese goldene Ära der Stadt.\nAm Mittag erkunden Sie das Byzantinische Museum, das eine der bedeutendsten Sammlungen byzantinischer Kunst in Griechenland beherbergt. Danach können Sie in einer der Tavernen am See zu Mittag essen und lokale Spezialitäten wie Süßwasserfische probieren.\nDer Nachmittag ist perfekt für einen entspannten Spaziergang entlang der See-Promenade. Genießen Sie die frische Luft, den Blick auf den See und die ruhige Atmosphäre. Besuchen Sie die kleine, aber beeindruckende Kirche Agios Nikolaos mit ihren alten Fresken.\nBeenden Sie Ihren Tag im malerischen Viertel Apozari. Suchen Sie sich einen Platz mit Blick auf den See, um den Sonnenuntergang zu beobachten. Die friedliche Stimmung und die schönen Farben machen dies zu einem unvergesslichen Erlebnis.",
+        "hu": "Kezdje a napot a történelmi Doltcho negyedben, sétáljon a macskaköves utcákon, és csodálja meg a szőrmekereskedők pompás kúriáit. A közeli Néprajzi Múzeum mély betekintést nyújt a város ezen aranykorába.\nDélben fedezze fel a Bizánci Múzeumot, amely Görögország egyik legjelentősebb bizánci művészeti gyűjteményének ad otthont. Ezután ebédeljen egy tóparti tavernában, és kóstoljon meg helyi specialitásokat, például édesvízi halakat.\nA délután tökéletes egy pihentető sétára a tóparti sétányon. Élvezze a friss levegőt, a tóra nyíló kilátást és a nyugodt légkört. Látogassa meg a kicsi, de lenyűgöző Szent Miklós-templomot ősi freskóival.\nZárja a napot a festői Apozari negyedben. Keressen egy helyet, ahonnan kilátás nyílik a tóra, és nézze meg a naplementét. A békés hangulat és a gyönyörű színek felejthetetlen élménnyé teszik ezt.",
+        "ro": "Începeți ziua în cartierul istoric Doltcho, plimbându-vă pe străduțele pietruite și admirând conacele opulente ale negustorilor de blănuri. Muzeul de Folclor din apropiere oferă o perspectivă profundă asupra acestei epoci de aur a orașului.\nLa prânz, explorați Muzeul Bizantin, care găzduiește una dintre cele mai importante colecții de artă bizantină din Grecia. După aceea, luați prânzul la o tavernă de pe malul lacului, gustând specialități locale precum peștele de apă dulce.\nDupă-amiaza este perfectă pentru o plimbare relaxantă de-a lungul promenadei de pe malul lacului. Bucurați-vă de aerul curat, de vederea spre lac și de atmosfera liniștită. Vizitați mica, dar impresionanta Biserică a Sfântului Nicolae, cu frescele sale vechi.\nÎncheiați ziua în pitorescul cartier Apozari. Găsiți un loc cu vedere la lac pentru a privi apusul. Atmosfera pașnică și culorile frumoase fac din aceasta o experiență de neuitat.",
+        "en": "Start your day in the historic Doltcho quarter, strolling through cobblestone alleys and admiring the opulent mansions of the fur merchants. The nearby Folklore Museum offers deep insights into this golden era of the city.\nAt midday, explore the Byzantine Museum, which houses one of the most important collections of Byzantine art in Greece. Afterwards, have lunch at a lakeside taverna, tasting local specialties like freshwater fish.\nThe afternoon is perfect for a relaxing walk along the lake promenade. Enjoy the fresh air, the view of the lake, and the tranquil atmosphere. Visit the small but impressive Church of Agios Nikolaos with its ancient frescoes.\nEnd your day in the picturesque Apozari quarter. Find a spot overlooking the lake to watch the sunset. The peaceful atmosphere and beautiful colors make this an unforgettable experience."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Grivadi (Γριβάδι)",
+            "tip": "Ein lokaler Süßwasserfisch, oft gegrillt oder gebraten serviert."
+          },
+          {
+            "name": "Giouvetsi",
+            "tip": "Ein herzhafter Eintopf mit Rindfleisch oder Huhn und kleinen Nudeln, im Ofen gebacken."
+          },
+          {
+            "name": "Makarones me Kavourma",
+            "tip": "Pasta mit einer lokalen Spezialität aus gepökeltem Fleisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grivadi (Γριβάδι)",
+            "tip": "Helyi édesvízi hal, gyakran grillezve vagy sütve tálalva."
+          },
+          {
+            "name": "Giouvetsi",
+            "tip": "Kiadós egytálétel marha- vagy csirkehússal és apró tésztával, sütőben sütve."
+          },
+          {
+            "name": "Makarones me Kavourma",
+            "tip": "Tészta egy helyi pácolt hús specialitással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grivadi (Γριβάδι)",
+            "tip": "Un pește local de apă dulce, adesea servit la grătar sau prăjit."
+          },
+          {
+            "name": "Giouvetsi",
+            "tip": "O tocană consistentă cu carne de vită sau pui și paste mici, coaptă la cuptor."
+          },
+          {
+            "name": "Makarones me Kavourma",
+            "tip": "Paste cu o specialitate locală din carne conservată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grivadi (Γριβάδι)",
+            "tip": "A local freshwater fish, often served grilled or fried."
+          },
+          {
+            "name": "Giouvetsi",
+            "tip": "A hearty stew with beef or chicken and small pasta, baked in the oven."
+          },
+          {
+            "name": "Makarones me Kavourma",
+            "tip": "Pasta with a local specialty of cured meat."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Seeufer bei Panagia Mavriotissa",
+            "tip": "Ein ruhiger Ort außerhalb des Zentrums, um die Stille des Sees zu genießen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sonnenuntergang am Apozari-Viertel",
+            "tip": "Finden Sie eine Bank und beobachten Sie, wie die Sonne hinter den Bergen versinkt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spaziergang auf der Halbinsel",
+            "tip": "Folgen Sie den Wegen, die die Halbinsel umrunden, für eine friedliche Flucht.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tópart a Panagia Mavriotissa közelében",
+            "tip": "Csendes hely a központon kívül, ahol élvezheti a tó csendjét.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Naplemente az Apozari negyedben",
+            "tip": "Keressen egy padot, és nézze, ahogy a nap a hegyek mögé bukik.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Séta a félszigeten",
+            "tip": "Kövesse a félszigetet körülvevő ösvényeket egy békés kikapcsolódásért.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului lângă Panagia Mavriotissa",
+            "tip": "Un loc liniștit în afara centrului pentru a te bucura de liniștea lacului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Apus de soare în cartierul Apozari",
+            "tip": "Găsiți o bancă și priviți soarele apunând după munți.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plimbare pe peninsulă",
+            "tip": "Urmați potecile care înconjoară peninsula pentru o evadare pașnică.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lakeshore near Panagia Mavriotissa",
+            "tip": "A quiet spot outside the center to enjoy the silence of the lake.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sunset at Apozari Quarter",
+            "tip": "Find a bench and watch the sun dip behind the mountains.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Walk on the peninsula",
+            "tip": "Follow the paths that circle the peninsula for a peaceful escape.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Pelzprodukte",
+            "tip": "Kastoria ist weltberühmt für seine Pelzindustrie; finden Sie lokale Boutiquen."
+          },
+          {
+            "name": "Lokale Produkte",
+            "tip": "Suchen Sie nach getrockneten Bohnen (Gigantes), Äpfeln und lokalem Tsipouro."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szőrme termékek",
+            "tip": "Kasztória világhírű szőrmeiparáról; keressen helyi butikokat."
+          },
+          {
+            "name": "Helyi termékek",
+            "tip": "Keressen szárított babot (Gigantes), almát és helyi tsipourót."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse din blană",
+            "tip": "Kastoria este renumită la nivel mondial pentru industria sa de blănuri; găsiți buticuri locale."
+          },
+          {
+            "name": "Produse locale",
+            "tip": "Căutați fasole uscată (Gigantes), mere și tsipouro local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fur products",
+            "tip": "Kastoria is world-famous for its fur industry; find local boutiques."
+          },
+          {
+            "name": "Local produce",
+            "tip": "Look for dried beans (Gigantes), apples, and local tsipouro."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Altstadt Kopfsteinpflaster hat.",
+          "Viele Kirchen und Museen haben mittags geschlossen; planen Sie entsprechend.",
+          "Nehmen Sie sich Zeit, um einfach am See zu sitzen und die Pelikane zu beobachten.",
+          "Die Einheimischen sind freundlich; zögern Sie nicht, nach dem Weg zu fragen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros macskaköves.",
+          "Sok templom és múzeum bezár délben; tervezzen ennek megfelelően.",
+          "Szánjon időt arra, hogy csak üljön a tó partján, és figyelje a pelikánokat.",
+          "A helyiek barátságosak; ne habozzon útbaigazítást kérni."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece orașul vechi are pavaj.",
+          "Multe biserici și muzee sunt închise la prânz; planificați în consecință.",
+          "Luați-vă timp să stați pe malul lacului și să priviți pelicanii.",
+          "Localnicii sunt prietenoși; nu ezitați să cereți indicații."
+        ],
+        "en": [
+          "Wear comfortable shoes as the old town is cobblestoned.",
+          "Many churches and museums close for lunch; plan accordingly.",
+          "Take some time to just sit by the lake and watch the pelicans.",
+          "The locals are friendly; don't hesitate to ask for directions."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Radtour entlang der See-Promenade",
+            "hu": "Kerékpártúra a tóparti sétányon",
+            "ro": "Tur cu bicicleta pe promenada lacului",
+            "en": "Bike tour along the Lake Promenade"
+          },
+          "coords": [
+            21.2725,
+            40.522
+          ],
+          "category": "promenades",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie mit einer flachen, malerischen Fahrt um einen Teil des Sees.",
+            "hu": "Kezdje egy sík, festői úttal a tó egy része körül.",
+            "ro": "Începeți cu o plimbare plată și pitorească în jurul unei părți a lacului.",
+            "en": "Start with a flat, scenic ride around a portion of the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Panagia Mavriotissa Kloster",
+            "hu": "Panagia Mavriotissa kolostor",
+            "ro": "Mănăstirea Panagia Mavriotissa",
+            "en": "Panagia Mavriotissa Monastery"
+          },
+          "coords": [
+            21.293,
+            40.511
+          ],
+          "category": "churches",
+          "arrive_at": "10:28",
+          "stay_min": 50,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Eine friedliche Oase mit wunderschönen Wandmalereien direkt am Seeufer.",
+            "hu": "Békés oázis gyönyörű falfestményekkel, közvetlenül a tó partján.",
+            "ro": "O oază de pace cu picturi murale frumoase, chiar pe malul lacului.",
+            "en": "A peaceful oasis with beautiful murals right on the lakeshore."
+          }
+        },
+        {
+          "name": {
+            "de": "Drachenhöhle (Spilia tou Drakou)",
+            "hu": "Sárkány-barlang (Spilia tou Drakou)",
+            "ro": "Peștera Dragonului (Spilia tou Drakou)",
+            "en": "Dragon's Cave (Spilia tou Drakou)"
+          },
+          "coords": [
+            21.291,
+            40.51
+          ],
+          "category": "natural features",
+          "arrive_at": "11:24",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Eine beeindruckende Höhle mit unterirdischen Seen. Die Führung ist empfehlenswert.",
+            "hu": "Lenyűgöző barlang földalatti tavakkal. A vezetett túra ajánlott.",
+            "ro": "O peșteră impresionantă cu lacuri subterane. Turul ghidat este recomandat.",
+            "en": "An impressive cave with underground lakes. The guided tour is recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Byzantinisches Museum",
+            "hu": "Bizánci Múzeum",
+            "ro": "Muzeul Bizantin",
+            "en": "Byzantine Museum"
+          },
+          "coords": [
+            21.27,
+            40.52
+          ],
+          "category": "museums",
+          "arrive_at": "13:04",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und tauchen Sie in die byzantinische Geschichte ein.",
+            "hu": "Zárja le a kerékpárt, és merüljön el a bizánci történelemben.",
+            "ro": "Lăsați bicicleta și scufundați-vă în istoria bizantină.",
+            "en": "Lock up your bike and dive into Byzantine history."
+          }
+        },
+        {
+          "name": {
+            "de": "Viertel Doltcho",
+            "hu": "Doltcho negyed",
+            "ro": "Cartierul Doltcho",
+            "en": "Doltcho Quarter"
+          },
+          "coords": [
+            21.2645,
+            40.5155
+          ],
+          "category": "old-town",
+          "arrive_at": "15:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie die engen Gassen zu Fuß.",
+            "hu": "Tegye le a kerékpárt, és fedezze fel a szűk utcákat gyalog.",
+            "ro": "Parcați bicicleta și explorați străduțele înguste pe jos.",
+            "en": "Park your bike and explore the narrow alleys on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Sonnenuntergang am Orestiada-See",
+            "hu": "Naplemente az Orestiada-tónál",
+            "ro": "Apus de soare la Lacul Orestiada",
+            "en": "Sunset at Lake Orestiada"
+          },
+          "coords": [
+            21.26,
+            40.518
+          ],
+          "category": "natural features",
+          "arrive_at": "16:36",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Finden Sie einen schönen Platz am Westufer für die beste Aussicht.",
+            "hu": "Keressen egy szép helyet a nyugati parton a legjobb kilátásért.",
+            "ro": "Găsiți un loc frumos pe malul vestic pentru cea mai bună priveliște.",
+            "en": "Find a nice spot on the western shore for the best view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag mit einer gemütlichen Fahrt entlang der See-Promenade. Die flache Strecke ist ideal, um sich aufzuwärmen und die Aussicht auf den Orestiada-See zu genießen. Ihr erstes Hauptziel ist das friedliche Kloster Panagia Mavriotissa.\nAm späten Vormittag wagen Sie sich zur geheimnisvollen Drachenhöhle. Die kurze, aber steile Anfahrt lohnt sich für den Anblick der unterirdischen Seen. Es ist ein erfrischender Stopp, bevor Sie zurück ins Stadtzentrum fahren, um zu Mittag zu essen.\nNach dem Mittagessen widmen Sie sich der Kultur im Byzantinischen Museum. Nach der Erkundung der reichen Ikonensammlung fahren Sie in das alte Viertel Doltcho, wo Sie das Fahrrad abstellen und die charmanten Gassen zu Fuß erkunden.\nSchließen Sie Ihre Radtour mit dem Höhepunkt des Tages ab: dem Sonnenuntergang über dem See. Radeln Sie zum Westufer der Halbinsel, finden Sie einen ruhigen Platz und beobachten Sie das spektakuläre Farbenspiel am Himmel.",
+        "hu": "Kezdje a kerékpáros napot egy kellemes tekeréssel a tóparti sétányon. A sík szakasz ideális bemelegítéshez és az Orestiada-tóra nyíló kilátás élvezetéhez. Az első fő célpont a békés Panagia Mavriotissa kolostor.\nKéső délelőtt merészkedjen el a titokzatos Sárkány-barlanghoz. A rövid, de meredek út megéri a földalatti tavak látványáért. Ez egy frissítő megálló, mielőtt visszatekerne a városközpontba ebédelni.\nEbéd után szentelje idejét a kultúrának a Bizánci Múzeumban. A gazdag ikongyűjtemény felfedezése után tekerjen el a régi Doltcho negyedbe, ahol leteheti a kerékpárt, és gyalog fedezheti fel a bájos sikátorokat.\nZárja a kerékpártúrát a nap fénypontjával: a naplementével a tó felett. Tekerjen a félsziget nyugati partjára, keressen egy csendes helyet, és figyelje az ég látványos színjátékát.",
+        "ro": "Începeți ziua de ciclism cu o plimbare relaxantă de-a lungul promenadei lacului. Traseul plat este ideal pentru a vă încălzi și pentru a vă bucura de priveliștea Lacului Orestiada. Primul dvs. obiectiv principal este liniștita Mănăstire Panagia Mavriotissa.\nSpre sfârșitul dimineții, aventurați-vă la misterioasa Peșteră a Dragonului. Urcușul scurt, dar abrupt, merită pentru vederea lacurilor subterane. Este o oprire răcoritoare înainte de a vă întoarce în centrul orașului pentru prânz.\nDupă prânz, dedicați-vă culturii la Muzeul Bizantin. După ce ați explorat bogata colecție de icoane, pedalați spre vechiul cartier Doltcho, unde puteți lăsa bicicleta și explora aleile fermecătoare pe jos.\nÎncheiați turul cu bicicleta cu punctul culminant al zilei: apusul de soare peste lac. Pedalați spre malul vestic al peninsulei, găsiți un loc liniștit și priviți spectacolul de culori de pe cer.",
+        "en": "Start your cycling day with a leisurely ride along the lake promenade. The flat route is ideal for warming up and enjoying the views of Lake Orestiada. Your first main destination is the peaceful Panagia Mavriotissa Monastery.\nIn the late morning, venture to the mysterious Dragon's Cave. The short but steep climb is worth it for the sight of the underground lakes. It's a refreshing stop before you head back to the city center for lunch.\nAfter lunch, dedicate yourself to culture at the Byzantine Museum. After exploring the rich icon collection, cycle to the old Doltcho quarter, where you can park your bike and explore the charming alleys on foot.\nConclude your bike tour with the highlight of the day: the sunset over the lake. Cycle to the western shore of the peninsula, find a quiet spot, and watch the spectacular play of colors in the sky."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Karpfen aus dem See",
+            "tip": "Eine lokale Delikatesse, oft in Tavernen rund um den See serviert."
+          },
+          {
+            "name": "Gigantes Bohnen",
+            "tip": "Große weiße Bohnen, in einer Tomatensauce im Ofen gebacken, ein klassisches griechisches Gericht."
+          },
+          {
+            "name": "Lokaler Wein",
+            "tip": "Probieren Sie einen Wein aus der nahegelegenen Region Amyndeon."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tavi ponty",
+            "tip": "Helyi finomság, gyakran a tó körüli tavernákban szolgálják fel."
+          },
+          {
+            "name": "Gigantes bab",
+            "tip": "Nagy fehérbab, paradicsomszószban sütve, klasszikus görög étel."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "Kóstoljon meg egy bort a közeli Amyndeon régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crap din lac",
+            "tip": "O delicatesă locală, adesea servită în tavernele din jurul lacului."
+          },
+          {
+            "name": "Fasole Gigantes",
+            "tip": "Fasole albă mare, coaptă la cuptor într-un sos de roșii, un fel de mâncare grecesc clasic."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Încercați un vin din regiunea apropiată Amyndeon."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lake Carp",
+            "tip": "A local delicacy, often served in tavernas around the lake."
+          },
+          {
+            "name": "Gigantes beans",
+            "tip": "Large white beans baked in a tomato sauce, a classic Greek dish."
+          },
+          {
+            "name": "Local wine",
+            "tip": "Try a wine from the nearby Amyndeon region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Nordspitze der Halbinsel",
+            "tip": "Ein weniger besuchter Ort für einen Panoramablick auf den See.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Klostergarten von Panagia Mavriotissa",
+            "tip": "Setzen Sie sich nach dem Besuch der Kirche in den ruhigen Garten.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Frühmorgens am See",
+            "tip": "Beginnen Sie Ihre Tour vor 9 Uhr, um die Stille des erwachenden Sees zu erleben.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A félsziget északi csücske",
+            "tip": "Kevésbé látogatott hely, ahonnan panorámás kilátás nyílik a tóra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Panagia Mavriotissa kolostorkertje",
+            "tip": "A templomlátogatás után üljön le a csendes kertben.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kora reggel a tónál",
+            "tip": "Kezdje a túrát 9 óra előtt, hogy megtapasztalja az ébredő tó csendjét.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful nordic al peninsulei",
+            "tip": "Un loc mai puțin vizitat pentru o vedere panoramică a lacului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina mănăstirii Panagia Mavriotissa",
+            "tip": "Stați în grădina liniștită după vizitarea bisericii.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Dimineața devreme la lac",
+            "tip": "Începeți turul înainte de ora 9 pentru a experimenta liniștea lacului care se trezește.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Northern tip of the peninsula",
+            "tip": "A less-visited spot for a panoramic view of the lake.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Monastery garden of Panagia Mavriotissa",
+            "tip": "Sit in the quiet garden after visiting the church.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Early morning at the lake",
+            "tip": "Start your tour before 9 am to experience the silence of the awakening lake.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradverleih",
+            "tip": "Mehrere Geschäfte in der Stadt bieten Fahrräder für einen Tag an."
+          },
+          {
+            "name": "Lokaler Honig",
+            "tip": "Ein süßes Souvenir von den Blumenwiesen rund um Kastoria."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárkölcsönző",
+            "tip": "A városban több üzlet is kínál egynapos kerékpárbérlést."
+          },
+          {
+            "name": "Helyi méz",
+            "tip": "Édes ajándéktárgy a Kasztória körüli virágos rétekről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Închiriere de biciclete",
+            "tip": "Mai multe magazine din oraș oferă biciclete de închiriat pentru o zi."
+          },
+          {
+            "name": "Miere locală",
+            "tip": "Un suvenir dulce de pe pajiștile înflorite din jurul Kastoriei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike rental",
+            "tip": "Several shops in town offer bikes for a day's rental."
+          },
+          {
+            "name": "Local honey",
+            "tip": "A sweet souvenir from the flowery meadows around Kastoria."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straße um die Halbinsel ist hügelig; seien Sie auf einige Anstiege vorbereitet.",
+          "Ein Helm wird empfohlen, besonders auf den Straßen außerhalb des Zentrums.",
+          "Nehmen Sie ausreichend Wasser mit, da es entlang der Strecke nur wenige Geschäfte gibt.",
+          "Prüfen Sie die Öffnungszeiten der Drachenhöhle im Voraus."
+        ],
+        "hu": [
+          "A félsziget körüli út dombos; készüljön fel néhány emelkedőre.",
+          "Sisak viselése ajánlott, különösen a központon kívüli utakon.",
+          "Vigyen magával elegendő vizet, mivel az útvonal mentén kevés üzlet található.",
+          "Előre ellenőrizze a Sárkány-barlang nyitvatartási idejét."
+        ],
+        "ro": [
+          "Drumul în jurul peninsulei este deluros; fiți pregătiți pentru câteva urcări.",
+          "Se recomandă cască de protecție, mai ales pe drumurile din afara centrului.",
+          "Luați suficientă apă, deoarece există puține magazine de-a lungul traseului.",
+          "Verificați în avans programul de funcționare al Peșterii Dragonului."
+        ],
+        "en": [
+          "The road around the peninsula is hilly; be prepared for some climbs.",
+          "A helmet is recommended, especially on the roads outside the center.",
+          "Bring plenty of water, as there are few shops along the route.",
+          "Check the opening hours of the Dragon's Cave in advance."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 11.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken am Kloster Panagia Mavriotissa",
+            "hu": "Parkolás a Panagia Mavriotissa kolostornál",
+            "ro": "Parcare la Mănăstirea Panagia Mavriotissa",
+            "en": "Parking at Panagia Mavriotissa Monastery"
+          },
+          "coords": [
+            21.293,
+            40.511
+          ],
+          "category": "churches",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie am Rande der Halbinsel, wo es genügend Parkplätze gibt.",
+            "hu": "Kezdje a félsziget szélén, ahol bőséges parkolóhely áll rendelkezésre.",
+            "ro": "Începeți la marginea peninsulei, unde există parcare amplă.",
+            "en": "Start at the edge of the peninsula where there is ample parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Drachenhöhle (Spilia tou Drakou)",
+            "hu": "Sárkány-barlang (Spilia tou Drakou)",
+            "ro": "Peștera Dragonului (Spilia tou Drakou)",
+            "en": "Dragon's Cave (Spilia tou Drakou)"
+          },
+          "coords": [
+            21.291,
+            40.51
+          ],
+          "category": "natural features",
+          "arrive_at": "09:55",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Kloster zur Höhle.",
+            "hu": "Rövid séta a kolostortól a barlangig.",
+            "ro": "O scurtă plimbare de la mănăstire la peșteră.",
+            "en": "A short walk from the monastery to the cave."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Parkplatz am Byzantinischen Museum",
+            "hu": "Utazás a Bizánci Múzeum parkolójába",
+            "ro": "Călătorie spre parcarea de la Muzeul Bizantin",
+            "en": "Drive to parking at Byzantine Museum"
+          },
+          "coords": [
+            21.2705,
+            40.5205
+          ],
+          "category": "museums",
+          "arrive_at": "11:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Stadtzentrum und erkunden Sie den nächsten Cluster zu Fuß.",
+            "hu": "Parkoljon a városközpontban, és fedezze fel a következő klasztert gyalog.",
+            "ro": "Parcați în centrul orașului și explorați următorul cluster pe jos.",
+            "en": "Park in the city center and explore the next cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "See-Promenade",
+            "hu": "Tóparti sétány",
+            "ro": "Promenada de pe malul lacului",
+            "en": "Lake Promenade"
+          },
+          "coords": [
+            21.2725,
+            40.522
+          ],
+          "category": "promenades",
+          "arrive_at": "13:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Machen Sie einen Spaziergang vor oder nach dem Mittagessen.",
+            "hu": "Tegyen egy sétát ebéd előtt vagy után.",
+            "ro": "Faceți o plimbare înainte sau după prânz.",
+            "en": "Take a walk before or after lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Parkplatz im Viertel Doltcho",
+            "hu": "Utazás a Doltcho negyed parkolójába",
+            "ro": "Călătorie spre parcarea din cartierul Doltcho",
+            "en": "Drive to parking in Doltcho Quarter"
+          },
+          "coords": [
+            21.265,
+            40.514
+          ],
+          "category": "old-town",
+          "arrive_at": "14:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Der letzte Cluster für heute. Parken kann hier schwierig sein, haben Sie Geduld.",
+            "hu": "Az utolsó klaszter mára. A parkolás itt nehézkes lehet, legyen türelmes.",
+            "ro": "Ultimul cluster pentru astăzi. Parcarea poate fi dificilă aici, aveți răbdare.",
+            "en": "The last cluster for today. Parking can be tricky here, be patient."
+          }
+        },
+        {
+          "name": {
+            "de": "Volkskundemuseum",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul de Folclor",
+            "en": "Folklore Museum"
+          },
+          "coords": [
+            21.2658,
+            40.5148
+          ],
+          "category": "museums",
+          "arrive_at": "15:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt im Herzen von Doltcho gelegen.",
+            "hu": "Közvetlenül Doltcho szívében található.",
+            "ro": "Situat chiar în inima cartierului Doltcho.",
+            "en": "Located right in the heart of Doltcho."
+          }
+        },
+        {
+          "name": {
+            "de": "Herrenhaus Tsiatsiapa",
+            "hu": "Tsiatsiapa-kúria",
+            "ro": "Conacul Tsiatsiapa",
+            "en": "Tsiatsiapa Mansion"
+          },
+          "coords": [
+            21.264,
+            40.5162
+          ],
+          "category": "famous residences",
+          "arrive_at": "17:04",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die Gassen vom Museum aus.",
+            "hu": "Rövid séta a sikátorokon keresztül a múzeumtól.",
+            "ro": "O scurtă plimbare pe alei de la muzeu.",
+            "en": "A short walk through the alleys from the museum."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Auto am östlichen Rand der Halbinsel. Parken Sie in der Nähe des Klosters Panagia Mavriotissa. Erkunden Sie diesen ruhigen Ort und spazieren Sie dann zur nahegelegenen Drachenhöhle, um ein unterirdisches Abenteuer zu erleben.\nFahren Sie mittags ins Zentrum von Kastoria und parken Sie in der Nähe des Byzantinischen Museums. Nachdem Sie in die reiche Geschichte der Ikonen eingetaucht sind, schlendern Sie zur See-Promenade für ein Mittagessen mit Aussicht in einer der vielen Tavernen.\nAm Nachmittag fahren Sie zu Ihrem letzten Parkstopp im alten Viertel Doltcho. Dieser Bereich lässt sich am besten zu Fuß erkunden. Besuchen Sie das Volkskundemuseum, um mehr über den Pelzhandel zu erfahren, und bewundern Sie die Architektur der alten Herrenhäuser wie das von Tsiatsiapa.\nBeenden Sie Ihren Tag mit einem gemütlichen Spaziergang durch die Gassen von Doltcho und Apozari, während die Sonne untergeht. Suchen Sie sich eine Bar am Seeufer für einen abendlichen Drink, um die Eindrücke des Tages Revue passieren zu lassen.",
+        "hu": "Kezdje a napot autóval a félsziget keleti szélén. Parkoljon a Panagia Mavriotissa kolostor közelében. Fedezze fel ezt a csendes helyet, majd sétáljon el a közeli Sárkány-barlanghoz egy földalatti kalandért.\nDélben vezessen Kasztória központjába, és parkoljon a Bizánci Múzeum közelében. Miután elmerült az ikonok gazdag történelmében, sétáljon le a tóparti sétányra egy kilátással egybekötött ebédért a sok taverna egyikében.\nDélután vezessen az utolsó parkolóhelyére a régi Doltcho negyedben. Ezt a területet a legjobb gyalog felfedezni. Látogasson el a Néprajzi Múzeumba, hogy többet megtudjon a szőrmekereskedelemről, és csodálja meg a régi kúriák, például a Tsiatsiapa-ház építészetét.\nZárja a napot egy kellemes sétával Doltcho és Apozari sikátoraiban, miközben a nap lenyugszik. Keressen egy tóparti bárt egy esti italra, hogy felidézze a nap élményeit.",
+        "ro": "Începeți ziua cu mașina la marginea de est a peninsulei. Parcați lângă Mănăstirea Panagia Mavriotissa. Explorați acest loc liniștit și apoi plimbați-vă până la Peștera Dragonului din apropiere pentru o aventură subterană.\nLa prânz, conduceți în centrul orașului Kastoria și parcați lângă Muzeul Bizantin. După ce v-ați cufundat în istoria bogată a icoanelor, plimbați-vă până la promenada de pe malul lacului pentru un prânz cu vedere la una dintre numeroasele taverne.\nDupă-amiaza, conduceți până la ultima oprire de parcare în vechiul cartier Doltcho. Această zonă este cel mai bine explorată pe jos. Vizitați Muzeul de Folclor pentru a afla despre comerțul cu blănuri și admirați arhitectura conacelor vechi, cum ar fi cel al lui Tsiatsiapa.\nÎncheiați ziua cu o plimbare relaxantă pe aleile din Doltcho și Apozari, în timp ce soarele apune. Găsiți un bar pe malul lacului pentru o băutură de seară și reflectați asupra zilei.",
+        "en": "Start your day by car at the eastern edge of the peninsula. Park near the Panagia Mavriotissa Monastery. Explore this tranquil spot and then walk to the nearby Dragon's Cave for an underground adventure.\nAt midday, drive to the center of Kastoria and park near the Byzantine Museum. After immersing yourself in the rich history of icons, stroll down to the lake promenade for lunch with a view at one of the many tavernas.\nIn the afternoon, drive to your final parking stop in the old Doltcho quarter. This area is best explored on foot. Visit the Folklore Museum to learn about the fur trade and admire the architecture of the old mansions like Tsiatsiapa's.\nEnd your day with a leisurely walk through the alleys of Doltcho and Apozari as the sun sets. Find a lakeside bar for an evening drink to reflect on the day's experiences."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Taverna am See",
+            "tip": "Wählen Sie eine Taverne an der Promenade für frischen Fisch und eine tolle Aussicht."
+          },
+          {
+            "name": "Sarmades",
+            "tip": "Kohlrouladen gefüllt mit Reis und Hackfleisch, eine lokale Spezialität."
+          },
+          {
+            "name": "Bougatsa",
+            "tip": "Ein süßes oder herzhaftes Gebäck, perfekt für ein schnelles Frühstück oder einen Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Taverna a tónál",
+            "tip": "Válasszon egy tavernát a sétányon friss halért és remek kilátásért."
+          },
+          {
+            "name": "Sarmades",
+            "tip": "Rizzsel és darált hússal töltött káposztatekercs, helyi specialitás."
+          },
+          {
+            "name": "Bougatsa",
+            "tip": "Édes vagy sós péksütemény, tökéletes egy gyors reggelihez vagy uzsonnához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Taverna de pe lac",
+            "tip": "Alegeți o tavernă pe promenadă pentru pește proaspăt și o priveliște minunată."
+          },
+          {
+            "name": "Sarmades",
+            "tip": "Sarmale din varză umplute cu orez și carne tocată, o specialitate locală."
+          },
+          {
+            "name": "Bougatsa",
+            "tip": "Un produs de patiserie dulce sau sărat, perfect pentru un mic dejun rapid sau o gustare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lakeside Taverna",
+            "tip": "Choose a taverna on the promenade for fresh fish and a great view."
+          },
+          {
+            "name": "Sarmades",
+            "tip": "Cabbage rolls stuffed with rice and minced meat, a local specialty."
+          },
+          {
+            "name": "Bougatsa",
+            "tip": "A sweet or savory pastry, perfect for a quick breakfast or snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Prophet Elias Aussichtspunkt",
+            "tip": "Fahren Sie für einen atemberaubenden Panoramablick auf die Stadt und den See hierher.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Die kleinen Gassen von Apozari",
+            "tip": "Parken Sie in Doltcho und spazieren Sie in das ruhigere Nachbarviertel.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Uferweg",
+            "tip": "Ein kurzer Spaziergang vom Kloster Panagia Mavriotissa entlang des Wassers.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Illés próféta kilátó",
+            "tip": "Vezessen fel ide a városra és a tóra nyíló lélegzetelállító panorámáért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Apozari kis sikátorai",
+            "tip": "Parkoljon Doltchóban, és sétáljon át a csendesebb szomszédos negyedbe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parti ösvény",
+            "tip": "Rövid séta a Panagia Mavriotissa kolostortól a víz mentén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punctul de belvedere Profitis Ilias",
+            "tip": "Conduceți aici pentru o vedere panoramică uluitoare a orașului și a lacului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aleile mici din Apozari",
+            "tip": "Parcați în Doltcho și plimbați-vă în cartierul vecin mai liniștit.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cărarea de pe mal",
+            "tip": "O scurtă plimbare de la Mănăstirea Panagia Mavriotissa de-a lungul apei.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Prophet Elias Viewpoint",
+            "tip": "Drive up here for a stunning panoramic view of the city and lake.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The small alleys of Apozari",
+            "tip": "Park in Doltcho and walk over to the quieter neighboring quarter.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Lakeshore path",
+            "tip": "A short walk from Panagia Mavriotissa monastery along the water.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Pelz-Ausstellungsräume",
+            "tip": "Fahren Sie zu den Ausstellungsräumen am Rande der Stadt für eine größere Auswahl."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Fragen Sie nach dem Tag des lokalen Marktes, um frische Produkte und lokale Waren zu finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szőrme bemutatótermek",
+            "tip": "Vezessen a város szélén található bemutatótermekhez a nagyobb választékért."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Kérdezze meg a helyi piac napját, hogy friss termékeket és helyi árukat találjon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Showroom-uri de blănuri",
+            "tip": "Conduceți la showroom-urile de la marginea orașului pentru o selecție mai largă."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Întrebați despre ziua pieței locale pentru a găsi produse proaspete și bunuri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fur showrooms",
+            "tip": "Drive to the showrooms on the outskirts of the city for a wider selection."
+          },
+          {
+            "name": "Weekly market",
+            "tip": "Ask about the local market day to find fresh produce and local goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken in der Altstadt kann sehr schwierig sein. Planen Sie zusätzliche Zeit ein oder nutzen Sie gebührenpflichtige Parkplätze.",
+          "Die Cluster-Strategie spart Ihnen Zeit und Nerven.",
+          "Einige Straßen in den alten Vierteln sind sehr eng; fahren Sie vorsichtig.",
+          "Ein Auto ermöglicht es Ihnen, auch nahegelegene Dörfer oder Aussichtspunkte zu besuchen."
+        ],
+        "hu": [
+          "A parkolás az óvárosban nagyon nehéz lehet. Tervezzen plusz időt, vagy használjon fizetős parkolókat.",
+          "A klaszter-stratégia időt és idegeket takarít meg Önnek.",
+          "Néhány utca a régi negyedekben nagyon szűk; vezessen óvatosan.",
+          "Az autó lehetővé teszi a közeli falvak vagy kilátópontok meglátogatását is."
+        ],
+        "ro": [
+          "Parcarea în orașul vechi poate fi foarte dificilă. Planificați timp suplimentar sau utilizați parcări cu plată.",
+          "Strategia cluster vă va economisi timp și nervi.",
+          "Unele străzi din cartierele vechi sunt foarte înguste; conduceți cu atenție.",
+          "O mașină vă permite să vizitați și satele sau punctele de belvedere din apropiere."
+        ],
+        "en": [
+          "Parking in the old town can be very difficult. Plan extra time or use paid parking lots.",
+          "The cluster strategy will save you time and nerves.",
+          "Some streets in the old quarters are very narrow; drive carefully.",
+          "A car allows you to also visit nearby villages or viewpoints."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 7.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Start im Viertel Doltcho",
+            "hu": "Indulás a Doltcho negyedből",
+            "ro": "Început în cartierul Doltcho",
+            "en": "Start in Doltcho Quarter"
+          },
+          "coords": [
+            21.2645,
+            40.5155
+          ],
+          "category": "old-town",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie im Herzen der Altstadt, die gut mit dem Bus zu erreichen ist.",
+            "hu": "Kezdje az óváros szívében, amely busszal könnyen megközelíthető.",
+            "ro": "Începeți în inima orașului vechi, care este ușor accesibil cu autobuzul.",
+            "en": "Start in the heart of the old town, which is easily accessible by bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Volkskundemuseum",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul de Folclor",
+            "en": "Folklore Museum"
+          },
+          "coords": [
+            21.2658,
+            40.5148
+          ],
+          "category": "museums",
+          "arrive_at": "10:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Bushaltestelle Doltcho.",
+            "hu": "Rövid séta a Doltcho buszmegállótól.",
+            "ro": "O scurtă plimbare de la stația de autobuz Doltcho.",
+            "en": "A short walk from the Doltcho bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Kloster Panagia Mavriotissa",
+            "hu": "Buszozás a Panagia Mavriotissa kolostorhoz",
+            "ro": "Călătorie cu autobuzul la Mănăstirea Panagia Mavriotissa",
+            "en": "Bus ride to Panagia Mavriotissa Monastery"
+          },
+          "coords": [
+            21.293,
+            40.511
+          ],
+          "category": "churches",
+          "arrive_at": "11:57",
+          "stay_min": 50,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus, der die Halbinsel umrundet. Genießen Sie die Aussicht.",
+            "hu": "Menjen a félszigetet megkerülő busszal. Élvezze a kilátást.",
+            "ro": "Luați autobuzul care înconjoară peninsula. Bucurați-vă de priveliște.",
+            "en": "Take the bus that circles the peninsula. Enjoy the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Drachenhöhle (Spilia tou Drakou)",
+            "hu": "Sárkány-barlang (Spilia tou Drakou)",
+            "ro": "Peștera Dragonului (Spilia tou Drakou)",
+            "en": "Dragon's Cave (Spilia tou Drakou)"
+          },
+          "coords": [
+            21.291,
+            40.51
+          ],
+          "category": "natural features",
+          "arrive_at": "12:51",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Höhle ist nur einen kurzen Spaziergang von der Bushaltestelle am Kloster entfernt.",
+            "hu": "A barlang csak egy rövid sétára van a kolostor melletti buszmegállótól.",
+            "ro": "Peștera este la o scurtă plimbare de stația de autobuz de la mănăstire.",
+            "en": "The cave is a short walk from the bus stop at the monastery."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Byzantinischen Museum",
+            "hu": "Buszozás a Bizánci Múzeumhoz",
+            "ro": "Călătorie cu autobuzul la Muzeul Bizantin",
+            "en": "Bus ride to the Byzantine Museum"
+          },
+          "coords": [
+            21.27,
+            40.52
+          ],
+          "category": "museums",
+          "arrive_at": "14:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Fahren Sie zurück ins Stadtzentrum, um Ihren kulturellen Nachmittag zu beginnen.",
+            "hu": "Utazzon vissza a városközpontba, hogy megkezdje a kulturális délutánt.",
+            "ro": "Întoarceți-vă în centrul orașului pentru a începe după-amiaza culturală.",
+            "en": "Head back to the city center to start your cultural afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "See-Promenade",
+            "hu": "Tóparti sétány",
+            "ro": "Promenada de pe malul lacului",
+            "en": "Lake Promenade"
+          },
+          "coords": [
+            21.2725,
+            "40.522"
+          ],
+          "category": "promenades",
+          "arrive_at": "16:04",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie sich nach dem Museumsbesuch bei einem Spaziergang am Wasser.",
+            "hu": "Pihenjen a múzeumlátogatás után egy sétával a vízparton.",
+            "ro": "Relaxați-vă după vizita la muzeu cu o plimbare pe malul apei.",
+            "en": "Relax after the museum visit with a walk by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt im historischen Viertel Doltcho. Erkunden Sie die Gassen und besuchen Sie das Volkskundemuseum, bevor Sie in den Bus steigen, der Sie aus der Stadt hinausbringt.\nDie Busfahrt um die Halbinsel bietet malerische Ausblicke auf dem Weg zum Kloster Panagia Mavriotissa. Nach dem Besuch des Klosters spazieren Sie zur Drachenhöhle. Planen Sie hier Ihr Mittagessen in einer nahegelegenen Taverne.\nAm Nachmittag bringt Sie ein weiterer Bus zurück ins Herz von Kastoria, direkt zum Byzantinischen Museum. Tauchen Sie ein in die beeindruckende Sammlung, bevor Sie den Rest des Tages zu Fuß verbringen.\nBeenden Sie Ihren Tag mit einem gemütlichen Spaziergang entlang der See-Promenade. Beobachten Sie die Pelikane und die Fischerboote und genießen Sie die entspannte Atmosphäre der Stadt bei Sonnenuntergang.",
+        "hu": "A tömegközlekedéssel töltött nap a történelmi Doltcho negyedben kezdődik. Fedezze fel a sikátorokat és látogasson el a Néprajzi Múzeumba, mielőtt felszállna a városból kivezető buszra.\nA buszút a félsziget körül festői kilátást nyújt a Panagia Mavriotissa kolostor felé vezető úton. A kolostor meglátogatása után sétáljon el a Sárkány-barlanghoz. Tervezze itt az ebédjét egy közeli tavernában.\nDélután egy másik busz visszaviszi Kasztória szívébe, közvetlenül a Bizánci Múzeumhoz. Merüljön el a lenyűgöző gyűjteményben, mielőtt a nap hátralévő részét gyalog töltené.\nZárja a napot egy kellemes sétával a tóparti sétányon. Figyelje a pelikánokat és a halászhajókat, és élvezze a város nyugodt légkörét naplementekor.",
+        "ro": "Ziua dvs. cu transportul public începe în cartierul istoric Doltcho. Explorați aleile și vizitați Muzeul de Folclor înainte de a lua autobuzul care vă duce în afara orașului.\nCălătoria cu autobuzul în jurul peninsulei oferă priveliști pitorești în drum spre Mănăstirea Panagia Mavriotissa. După vizitarea mănăstirii, mergeți pe jos până la Peștera Dragonului. Planificați-vă prânzul aici, la o tavernă din apropiere.\nDupă-amiaza, un alt autobuz vă duce înapoi în inima orașului Kastoria, direct la Muzeul Bizantin. Cufundați-vă în colecția impresionantă înainte de a petrece restul zilei pe jos.\nÎncheiați ziua cu o plimbare relaxantă de-a lungul promenadei de pe malul lacului. Priviți pelicanii și bărcile de pescuit și bucurați-vă de atmosfera relaxată a orașului la apus.",
+        "en": "Your day on public transit begins in the historic Doltcho quarter. Explore the alleys and visit the Folklore Museum before hopping on the bus that takes you out of the city.\nThe bus ride around the peninsula offers scenic views on the way to Panagia Mavriotissa Monastery. After visiting the monastery, take a walk to the Dragon's Cave. Plan to have your lunch here at a nearby taverna.\nIn the afternoon, another bus takes you back to the heart of Kastoria, right to the Byzantine Museum. Immerse yourself in the impressive collection before spending the rest of the day on foot.\nEnd your day with a leisurely stroll along the lake promenade. Watch the pelicans and the fishing boats, and enjoy the relaxed atmosphere of the city as the sun sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kreatopita",
+            "tip": "Ein herzhafter Fleischkuchen, ideal für ein schnelles und sättigendes Mittagessen."
+          },
+          {
+            "name": "Gekochter Krebs",
+            "tip": "Eine Spezialität des Sees, fragen Sie in den Tavernen danach."
+          },
+          {
+            "name": "Revani",
+            "tip": "Ein traditioneller griechischer Grießkuchen, oft mit Sirup getränkt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kreatopita",
+            "tip": "Kiadós húsos pite, ideális egy gyors és laktató ebédhez."
+          },
+          {
+            "name": "Főtt rák",
+            "tip": "A tó specialitása, érdeklődjön utána a tavernákban."
+          },
+          {
+            "name": "Revani",
+            "tip": "Hagyományos görög grízes sütemény, gyakran sziruppal átitatva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kreatopita",
+            "tip": "O plăcintă cu carne consistentă, ideală pentru un prânz rapid și sățios."
+          },
+          {
+            "name": "Rac fiert",
+            "tip": "O specialitate a lacului, întrebați la taverne despre ea."
+          },
+          {
+            "name": "Revani",
+            "tip": "O prăjitură tradițională grecească din griș, adesea însiropată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kreatopita",
+            "tip": "A hearty meat pie, ideal for a quick and filling lunch."
+          },
+          {
+            "name": "Boiled Crayfish",
+            "tip": "A specialty of the lake, ask for it in the tavernas."
+          },
+          {
+            "name": "Revani",
+            "tip": "A traditional Greek semolina cake, often soaked in syrup."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bushaltestelle mit Aussicht",
+            "tip": "Einige Haltestellen entlang der Halbinselroute bieten unerwartet schöne Ausblicke.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirche Agios Nikolaos",
+            "tip": "Ein kurzer Spaziergang vom Zentrum, um dieser ruhigen, alten Kirche einen Besuch abzustatten.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Abend am Pier",
+            "tip": "Finden Sie einen ruhigen Platz an einem der Piers entlang der Promenade.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszmegálló kilátással",
+            "tip": "Néhány megálló a félszigeti útvonalon váratlanul szép kilátást nyújt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent Miklós-templom",
+            "tip": "Rövid séta a központtól, hogy meglátogassa ezt a csendes, régi templomot.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Este a mólónál",
+            "tip": "Keressen egy csendes helyet a sétány mentén található mólók egyikén.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stație de autobuz cu vedere",
+            "tip": "Unele stații de-a lungul traseului peninsulei oferă priveliști neașteptat de frumoase.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Biserica Sfântul Nicolae",
+            "tip": "O scurtă plimbare din centru pentru a vizita această biserică veche și liniștită.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Seara pe dig",
+            "tip": "Găsiți un loc liniștit pe unul dintre digurile de-a lungul promenadei.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus stop with a view",
+            "tip": "Some stops along the peninsula route offer unexpectedly beautiful views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Church of Agios Nikolaos",
+            "tip": "A short walk from the center to pay a visit to this quiet, old church.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Evening at the pier",
+            "tip": "Find a quiet spot on one of the piers along the promenade.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirläden",
+            "tip": "Entlang der Mitropoleos Straße finden Sie Geschäfte mit lokalen Handwerksprodukten."
+          },
+          {
+            "name": "Bäckereien",
+            "tip": "Probieren Sie lokale Süßigkeiten und Brot aus einer traditionellen Bäckerei."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándékboltok",
+            "tip": "A Mitropoleos utca mentén helyi kézműves termékeket árusító üzleteket talál."
+          },
+          {
+            "name": "Pékségek",
+            "tip": "Kóstoljon meg helyi édességeket és kenyeret egy hagyományos pékségben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de suveniruri",
+            "tip": "De-a lungul străzii Mitropoleos veți găsi magazine cu produse artizanale locale."
+          },
+          {
+            "name": "Brutării",
+            "tip": "Încercați dulciuri locale și pâine de la o brutărie tradițională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir shops",
+            "tip": "Along Mitropoleos street, you will find shops with local handicrafts."
+          },
+          {
+            "name": "Bakeries",
+            "tip": "Try local sweets and bread from a traditional bakery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, da die Busse außerhalb der Saison seltener fahren.",
+          "Seien Sie darauf vorbereitet, zwischen den Bushaltestellen und den Sehenswürdigkeiten etwas zu laufen.",
+          "Fragen Sie den Busfahrer, um sicherzustellen, dass Sie in die richtige Richtung fahren."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha több utazást tervez.",
+          "Előre ellenőrizze a buszmenetrendet, mivel a buszok a szezonon kívül ritkábban közlekednek.",
+          "Készüljön fel arra, hogy sétálnia kell a buszmegállók és a látnivalók között.",
+          "Kérdezze meg a buszsofőrt, hogy megbizonyosodjon arról, hogy a helyes irányba halad."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă plănuiți mai multe călătorii.",
+          "Verificați programul autobuzelor în avans, deoarece autobuzele circulă mai rar în afara sezonului.",
+          "Fiți pregătiți să mergeți pe jos între stațiile de autobuz și obiectivele turistice.",
+          "Întrebați șoferul de autobuz pentru a vă asigura că mergeți în direcția corectă."
+        ],
+        "en": [
+          "Buy a day pass for the bus if you plan on making multiple trips.",
+          "Check the bus schedule in advance, as buses may run less frequently off-season.",
+          "Be prepared for some walking between bus stops and the sights.",
+          "Ask the bus driver to make sure you are heading in the right direction."
+        ]
+      }
+    }
+  }
+}

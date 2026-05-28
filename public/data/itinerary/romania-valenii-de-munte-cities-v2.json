@@ -1,0 +1,1484 @@
+{
+  "city_id": "romania-valenii-de-munte-cities-v2",
+  "anchor": {
+    "name": "Vălenii de Munte",
+    "coords": [
+      45.2,
+      26.05
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Platz",
+            "hu": "Központi tér",
+            "ro": "Piața Centrală",
+            "en": "Central Square"
+          },
+          "coords": [
+            26.048,
+            45.199
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee und beobachten Sie das lokale Leben.",
+            "hu": "Kezdje a napot egy kávéval, és figyelje a helyi életet.",
+            "ro": "Începeți ziua aici cu o cafea, observând viața locală.",
+            "en": "Start your day here with a coffee and watch the local life unfold."
+          }
+        },
+        {
+          "name": {
+            "de": "Nicolae-Iorga-Denkmal",
+            "hu": "Nicolae Iorga Emlékmű",
+            "ro": "Monumentul Nicolae Iorga",
+            "en": "Nicolae Iorga Monument"
+          },
+          "coords": [
+            26.047,
+            45.201
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:43",
+          "stay_min": 15,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein wichtiger Ort, um die bedeutendste Persönlichkeit der Stadt zu ehren.",
+            "hu": "Fontos hely a város legjelentősebb személyiségének tiszteletére.",
+            "ro": "Un loc important pentru a onora cea mai semnificativă personalitate a orașului.",
+            "en": "An important spot to honor the most significant personality of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Nicolae-Iorga-Gedenkhaus",
+            "hu": "Nicolae Iorga Emlékház",
+            "ro": "Muzeul Memorial Nicolae Iorga",
+            "en": "Nicolae Iorga Memorial Museum"
+          },
+          "coords": [
+            26.046,
+            45.202
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in das Leben und Werk des großen rumänischen Historikers.",
+            "hu": "Merüljön el a nagy román történész életében és munkásságában.",
+            "ro": "Pătrundeți în viața și opera marelui istoric român.",
+            "en": "Immerse yourself in the life and work of the great Romanian historian."
+          }
+        },
+        {
+          "name": {
+            "de": "Ethnographisches Museum des Teleajen-Tals",
+            "hu": "Teleajen-völgyi Néprajzi Múzeum",
+            "ro": "Muzeul de Etnografie al Văii Teleajenului",
+            "en": "Ethnographic Museum of the Teleajen Valley"
+          },
+          "coords": [
+            26.045,
+            45.204
+          ],
+          "category": "museums",
+          "arrive_at": "11:24",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die reichen Traditionen und das Handwerk dieser Region.",
+            "hu": "Fedezze fel a régió gazdag hagyományait és kézművességét.",
+            "ro": "Descoperiți tradițiile și meșteșugurile bogate ale acestei regiuni.",
+            "en": "Discover the rich traditions and crafts of this region."
+          }
+        },
+        {
+          "name": {
+            "de": "Mănăstirea-Kirche",
+            "hu": "Mănăstirea kolostortemplom",
+            "ro": "Biserica Mănăstirea Văleni",
+            "en": "Văleni Monastery Church"
+          },
+          "coords": [
+            26.055,
+            45.208
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Ort der Ruhe und spirituellen Einkehr mit wunderschönen Fresken.",
+            "hu": "A béke és a spirituális elmélkedés helye, gyönyörű freskókkal.",
+            "ro": "Un loc de pace și reflecție spirituală, cu fresce frumoase.",
+            "en": "A place of peace and spiritual reflection with beautiful frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturmuseum des Teleajen-Tals",
+            "hu": "Teleajen-völgyi Természettudományi Múzeum",
+            "ro": "Muzeul de Științe Naturale al Văii Teleajenului",
+            "en": "Natural Science Museum of the Teleajen Valley"
+          },
+          "coords": [
+            26.044,
+            45.195
+          ],
+          "category": "museums",
+          "arrive_at": "14:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die einzigartige Flora und Fauna des Tals.",
+            "hu": "Ismerje meg a völgy egyedülálló növény- és állatvilágát.",
+            "ro": "Aflați despre flora și fauna unică a văii.",
+            "en": "Learn about the unique flora and fauna of the valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentralpark",
+            "hu": "Központi Park",
+            "ro": "Parcul Central",
+            "en": "Central Park"
+          },
+          "coords": [
+            26.049,
+            45.198
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.65,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Tag bei einem entspannten Spaziergang ausklingen zu lassen.",
+            "hu": "Tökéletes hely a nap befejezéséhez egy pihentető sétával.",
+            "ro": "Locul perfect pentru a încheia ziua cu o plimbare relaxantă.",
+            "en": "The perfect place to end the day with a relaxing walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang am lebhaften Zentralen Platz, dem Herzen der Stadt. Am Vormittag tauchen Sie in die Geschichte ein und besuchen das Denkmal und das Gedenkhaus von Nicolae Iorga sowie das Ethnographische Museum, um die lokale Kultur zu verstehen. Nach dem Mittagessen führt Sie ein Spaziergang zur spirituellen Ruhe der Mănăstirea-Kirche. Der Nachmittag ist der Natur gewidmet, mit einem Besuch des Naturmuseums. Beenden Sie Ihren Tag mit einem entspannenden Spaziergang im Zentralpark und genießen Sie die friedliche Atmosphäre.",
+        "hu": "Sétáját a város szívében, a nyüzsgő Központi téren kezdje. A délelőtt a történelemé: látogassa meg Nicolae Iorga emlékművét, emlékházát és a Néprajzi Múzeumot, hogy megismerje a helyi kultúrát. Ebéd után sétáljon el a Mănăstirea kolostortemplom spirituális nyugalmához. A délután a természetről szól a Természettudományi Múzeumban. Zárja a napot egy pihentető sétával a Központi Parkban, élvezve a békés hangulatot.",
+        "ro": "Începeți plimbarea în Piața Centrală, inima orașului. Dimineața, cufundați-vă în istorie vizitând Monumentul și Muzeul Memorial Nicolae Iorga, plus Muzeul de Etnografie pentru a înțelege cultura locală. După prânz, o plimbare vă duce la liniștea spirituală a Bisericii Mănăstirea Văleni. După-amiaza este dedicată naturii, cu o vizită la Muzeul de Științe Naturale. Încheiați ziua cu o plimbare relaxantă în Parcul Central, bucurându-vă de atmosfera pașnică.",
+        "en": "Start your walk in the bustling Central Square, the heart of the town. In the morning, immerse yourself in history by visiting the Nicolae Iorga Monument and Memorial Museum, plus the Ethnographic Museum to understand the local culture. After lunch, a walk takes you to the spiritual tranquility of the Văleni Monastery Church. The afternoon is dedicated to nature with a visit to the Natural Science Museum. End your day with a relaxing stroll in the Central Park, enjoying the peaceful atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tochitură Moldovenească",
+            "tip": "Ein herzhafter Eintopf aus Schweinefleisch, serviert mit Mămăligă (Polenta) und Käse. Perfekt nach einem langen Spaziergang."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Kohlrouladen gefüllt mit Hackfleisch und Reis, ein rumänischer Klassiker."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Ein köstliches Dessert aus gebratenem oder gekochtem Teig, serviert mit Sauerrahm und Marmelade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tochitură Moldovenească",
+            "tip": "Kiadós sertéshúsos pörkölt, puliszkával és sajttal tálalva. Tökéletes egy hosszú séta után."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Töltött káposzta darált hússal és rizzsel, egy román klasszikus."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Ízletes desszert sült vagy főtt tésztából, tejföllel és lekvárral tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tochitură Moldovenească",
+            "tip": "O tocană consistentă de porc, servită cu mămăliguță și brânză. Perfectă după o plimbare lungă."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Rulouri de varză umplute cu carne tocată și orez, un clasic românesc."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Un desert delicios din aluat prăjit sau fiert, servit cu smântână și gem."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tochitură Moldovenească",
+            "tip": "A hearty pork stew served with mămăligă (polenta) and cheese. Perfect after a long walk."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Cabbage rolls stuffed with minced meat and rice, a Romanian classic."
+          },
+          {
+            "name": "Papanași",
+            "tip": "A delicious dessert of fried or boiled dough, served with sour cream and jam."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hof der Mănăstirea-Kirche",
+            "tip": "Finden Sie einen Moment der Stille im friedlichen Innenhof des Klosters.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang am Teleajen-Fluss",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses, abseits des Stadtzentrums.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bank im Zentralpark",
+            "tip": "Setzen Sie sich auf eine Bank und lauschen Sie den Geräuschen der Natur.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Mănăstirea kolostortemplom udvara",
+            "tip": "Találjon egy csendes pillanatot a kolostor békés udvarán.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a Teleajen folyó partján",
+            "tip": "Egy csendes séta a folyó mentén, távol a városközponttól.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pad a Központi Parkban",
+            "tip": "Üljön le egy padra és hallgassa a természet hangjait.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea Bisericii Mănăstirea Văleni",
+            "tip": "Găsiți un moment de liniște în curtea pașnică a mănăstirii.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare pe malul râului Teleajen",
+            "tip": "O plimbare liniștită de-a lungul râului, departe de centrul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O bancă în Parcul Central",
+            "tip": "Așezați-vă pe o bancă și ascultați sunetele naturii.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Courtyard of the Văleni Monastery Church",
+            "tip": "Find a moment of silence in the peaceful courtyard of the monastery.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk by the Teleajen River",
+            "tip": "A quiet walk along the river, away from the town center.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A bench in Central Park",
+            "tip": "Sit on a bench and listen to the sounds of nature.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte, Käse und traditionelle Wurstwaren von lokalen Bauern."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Suchen Sie nach handgemachter Keramik und Textilien, die für die Region typisch sind."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket, sajtot és hagyományos kolbászokat a helyi gazdáktól."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keressen kézzel készített kerámiákat és textíliákat, amelyek a régióra jellemzőek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse proaspete, brânzeturi și mezeluri tradiționale de la fermierii locali."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Căutați ceramică și textile lucrate manual, specifice regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Buy fresh produce, cheese, and traditional sausages from local farmers."
+          },
+          {
+            "name": "Craft Shops",
+            "tip": "Look for handmade pottery and textiles, typical of the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag auf den Beinen sein werden.",
+          "Nehmen Sie eine Wasserflasche mit, besonders an warmen Tagen.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus, da diese variieren können.",
+          "Die meisten Sehenswürdigkeiten liegen nahe beieinander, was diesen Rundgang ideal macht."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap talpon lesz.",
+          "Vigyen magával egy üveg vizet, különösen meleg napokon.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét, mert az változhat.",
+          "A legtöbb látnivaló közel van egymáshoz, így ez a séta ideális."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți fi pe picioare toată ziua.",
+          "Luați o sticlă cu apă, mai ales în zilele călduroase.",
+          "Verificați în avans programul de funcționare al muzeelor, deoarece acesta poate varia.",
+          "Majoritatea atracțiilor sunt apropiate, făcând acest tur pietonal ideal."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be on your feet all day.",
+          "Bring a water bottle, especially on warm days.",
+          "Check the opening hours of the museums in advance as they can vary.",
+          "Most attractions are close to each other, making this walking tour ideal."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Platz",
+            "hu": "Központi tér",
+            "ro": "Piața Centrală",
+            "en": "Central Square"
+          },
+          "coords": [
+            26.048,
+            45.199
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein guter Ausgangspunkt, um sich mit dem Fahrrad vertraut zu machen.",
+            "hu": "Jó kiindulópont a kerékpárral való ismerkedéshez.",
+            "ro": "Un bun punct de plecare pentru a vă familiariza cu bicicleta.",
+            "en": "A good starting point to get comfortable with your bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentralpark",
+            "hu": "Központi Park",
+            "ro": "Parcul Central",
+            "en": "Central Park"
+          },
+          "coords": [
+            26.049,
+            45.198
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:28",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Runde durch den Park, bevor Sie zu den kulturellen Stätten aufbrechen.",
+            "hu": "Tegyen egy gyors kört a parkban, mielőtt a kulturális helyszínek felé veszi az irányt.",
+            "ro": "Faceți o tură scurtă prin parc înainte de a porni spre siturile culturale.",
+            "en": "Take a quick lap around the park before heading to the cultural sites."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturmuseum des Teleajen-Tals",
+            "hu": "Teleajen-völgyi Természettudományi Múzeum",
+            "ro": "Muzeul de Științe Naturale al Văii Teleajenului",
+            "en": "Natural Science Museum of the Teleajen Valley"
+          },
+          "coords": [
+            26.044,
+            45.195
+          ],
+          "category": "museums",
+          "arrive_at": "10:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad sicher und entdecken Sie die Naturwunder der Region.",
+            "hu": "Parkolja le biztonságosan a kerékpárját, és fedezze fel a régió természeti csodáit.",
+            "ro": "Parcați bicicleta în siguranță și explorați minunile naturale ale regiunii.",
+            "en": "Park your bike safely and explore the natural wonders of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Nicolae-Iorga-Denkmal & Gedenkhaus",
+            "hu": "Nicolae Iorga Emlékmű & Emlékház",
+            "ro": "Monumentul & Muzeul Memorial Nicolae Iorga",
+            "en": "Nicolae Iorga Monument & Memorial Museum"
+          },
+          "coords": [
+            26.046,
+            45.202
+          ],
+          "category": "museums",
+          "arrive_at": "11:23",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Besuch des Denkmals und des Museums für ein umfassendes Erlebnis.",
+            "hu": "Kombinálja az emlékmű és a múzeum látogatását egy átfogó élményért.",
+            "ro": "Combinați vizita la monument și muzeu pentru o experiență completă.",
+            "en": "Combine the visit to the monument and the museum for a comprehensive experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Ethnographisches Museum des Teleajen-Tals",
+            "hu": "Teleajen-völgyi Néprajzi Múzeum",
+            "ro": "Muzeul de Etnografie al Văii Teleajenului",
+            "en": "Ethnographic Museum of the Teleajen Valley"
+          },
+          "coords": [
+            26.045,
+            45.204
+          ],
+          "category": "museums",
+          "arrive_at": "12:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Nur eine kurze Fahrt vom Iorga-Museum entfernt, um mehr über die lokalen Traditionen zu erfahren.",
+            "hu": "Csak egy rövid útra az Iorga Múzeumtól, hogy többet megtudjon a helyi hagyományokról.",
+            "ro": "La doar o scurtă plimbare de Muzeul Iorga pentru a afla mai multe despre tradițiile locale.",
+            "en": "Just a short ride from the Iorga Museum to learn more about local traditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Mănăstirea-Kirche",
+            "hu": "Mănăstirea kolostortemplom",
+            "ro": "Biserica Mănăstirea Văleni",
+            "en": "Văleni Monastery Church"
+          },
+          "coords": [
+            26.055,
+            45.208
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Fahrt zum Kloster ist leicht bergauf, aber die friedliche Atmosphäre ist es wert.",
+            "hu": "A kolostorhoz vezető út enyhén emelkedik, de a békés hangulat megéri.",
+            "ro": "Urcarea spre mănăstire este ușoară, dar atmosfera pașnică merită efortul.",
+            "en": "The ride to the monastery is slightly uphill, but the peaceful atmosphere is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Nicolae Iorga",
+            "hu": "Nicolae Iorga Kulturális Központ",
+            "ro": "Centrul Cultural Nicolae Iorga",
+            "en": "Nicolae Iorga Cultural Center"
+          },
+          "coords": [
+            26.042,
+            45.197
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:16",
+          "stay_min": 65,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour hier. Prüfen Sie, ob am Abend eine Vorstellung stattfindet.",
+            "hu": "Itt fejezze be a túrát. Nézze meg, van-e esti előadás.",
+            "ro": "Încheiați turul aici. Verificați dacă există un spectacol programat seara.",
+            "en": "End your tour here. Check if there's a performance scheduled for the evening."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet am Zentralen Platz und führt für eine Aufwärmrunde in den Zentralpark. Von dort aus radeln Sie zum Naturmuseum, um die Flora und Fauna des Tals zu entdecken. Am Vormittag konzentrieren Sie sich auf das kulturelle Erbe der Stadt mit Besuchen beim Nicolae-Iorga-Komplex und dem Ethnographischen Museum. Nach dem Mittagessen machen Sie eine friedliche Fahrt zur Mănăstirea-Kirche. Schließen Sie den Tag mit einem Besuch im Kulturzentrum ab und genießen Sie die lebendige Kulturszene der Stadt.",
+        "hu": "Kerékpártúrája a Központi térről indul, majd egy bemelegítő körrel folytatódik a Központi Parkban. Onnan tekerjen a Természettudományi Múzeumhoz, hogy felfedezze a völgy növény- és állatvilágát. A délelőtt a város kulturális örökségére összpontosít a Nicolae Iorga komplexum és a Néprajzi Múzeum meglátogatásával. Ebéd után tegyen egy békés utat a Mănăstirea kolostortemplomhoz. Zárja a napot a Kulturális Központ meglátogatásával, élvezve a város pezsgő kulturális életét.",
+        "ro": "Turul pe bicicletă începe din Piața Centrală cu o tură de încălzire în Parcul Central. De acolo, pedalați spre Muzeul de Științe Naturale pentru a descoperi flora și fauna văii. Dimineața se concentrează pe moștenirea culturală a orașului, cu vizite la complexul Nicolae Iorga și Muzeul de Etnografie. După prânz, faceți o plimbare liniștită până la Biserica Mănăstirea Văleni. Încheiați ziua cu o vizită la Centrul Cultural, bucurându-vă de scena culturală vibrantă a orașului.",
+        "en": "Your bike tour starts at the Central Square with a warm-up lap in the Central Park. From there, cycle to the Natural Science Museum to discover the valley's flora and fauna. The morning focuses on the town's cultural heritage with visits to the Nicolae Iorga complex and the Ethnographic Museum. After lunch, take a peaceful ride to the Văleni Monastery Church. Conclude the day with a visit to the Cultural Center, enjoying the town's vibrant cultural scene."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tochitură Moldovenească",
+            "tip": "Ein herzhafter Eintopf aus Schweinefleisch, serviert mit Mămăligă (Polenta) und Käse. Perfekt nach einem langen Spaziergang."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Kohlrouladen gefüllt mit Hackfleisch und Reis, ein rumänischer Klassiker."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Ein köstliches Dessert aus gebratenem oder gekochtem Teig, serviert mit Sauerrahm und Marmelade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tochitură Moldovenească",
+            "tip": "Kiadós sertéshúsos pörkölt, puliszkával és sajttal tálalva. Tökéletes egy hosszú séta után."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Töltött káposzta darált hússal és rizzsel, egy román klasszikus."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Ízletes desszert sült vagy főtt tésztából, tejföllel és lekvárral tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tochitură Moldovenească",
+            "tip": "O tocană consistentă de porc, servită cu mămăliguță și brânză. Perfectă după o plimbare lungă."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Rulouri de varză umplute cu carne tocată și orez, un clasic românesc."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Un desert delicios din aluat prăjit sau fiert, servit cu smântână și gem."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tochitură Moldovenească",
+            "tip": "A hearty pork stew served with mămăligă (polenta) and cheese. Perfect after a long walk."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Cabbage rolls stuffed with minced meat and rice, a Romanian classic."
+          },
+          {
+            "name": "Papanași",
+            "tip": "A delicious dessert of fried or boiled dough, served with sour cream and jam."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hof der Mănăstirea-Kirche",
+            "tip": "Finden Sie einen Moment der Stille im friedlichen Innenhof des Klosters.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang am Teleajen-Fluss",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses, abseits des Stadtzentrums.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bank im Zentralpark",
+            "tip": "Setzen Sie sich auf eine Bank und lauschen Sie den Geräuschen der Natur.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Mănăstirea kolostortemplom udvara",
+            "tip": "Találjon egy csendes pillanatot a kolostor békés udvarán.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a Teleajen folyó partján",
+            "tip": "Egy csendes séta a folyó mentén, távol a városközponttól.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pad a Központi Parkban",
+            "tip": "Üljön le egy padra és hallgassa a természet hangjait.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea Bisericii Mănăstirea Văleni",
+            "tip": "Găsiți un moment de liniște în curtea pașnică a mănăstirii.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare pe malul râului Teleajen",
+            "tip": "O plimbare liniștită de-a lungul râului, departe de centrul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O bancă în Parcul Central",
+            "tip": "Așezați-vă pe o bancă și ascultați sunetele naturii.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Courtyard of the Văleni Monastery Church",
+            "tip": "Find a moment of silence in the peaceful courtyard of the monastery.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk by the Teleajen River",
+            "tip": "A quiet walk along the river, away from the town center.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A bench in Central Park",
+            "tip": "Sit on a bench and listen to the sounds of nature.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte, Käse und traditionelle Wurstwaren von lokalen Bauern."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Suchen Sie nach handgemachter Keramik und Textilien, die für die Region typisch sind."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket, sajtot és hagyományos kolbászokat a helyi gazdáktól."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keressen kézzel készített kerámiákat és textíliákat, amelyek a régióra jellemzőek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse proaspete, brânzeturi și mezeluri tradiționale de la fermierii locali."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Căutați ceramică și textile lucrate manual, specifice regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Buy fresh produce, cheese, and traditional sausages from local farmers."
+          },
+          {
+            "name": "Craft Shops",
+            "tip": "Look for handmade pottery and textiles, typical of the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Einige Straßen können Kopfsteinpflaster haben, fahren Sie also vorsichtig.",
+          "Schließen Sie Ihr Fahrrad immer an, wenn Sie es unbeaufsichtigt lassen.",
+          "Die Stadt ist relativ flach, was das Radfahren angenehm macht."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket és a gumikat.",
+          "Néhány utca macskaköves lehet, ezért óvatosan közlekedjen.",
+          "Mindig zárja le a kerékpárt, ha felügyelet nélkül hagyja.",
+          "A város viszonylag sík, ami kellemessé teszi a kerékpározást."
+        ],
+        "ro": [
+          "Verificați bicicleta înainte de a pleca, în special frânele și anvelopele.",
+          "Unele străzi pot fi pavate cu piatră cubică, așa că mergeți cu prudență.",
+          "Legați întotdeauna bicicleta când o lăsați nesupravegheată.",
+          "Orașul este relativ plat, ceea ce face ciclismul plăcut."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes and tires.",
+          "Some streets can be cobbled, so ride with caution.",
+          "Always lock your bike when you leave it unattended.",
+          "The town is relatively flat, which makes cycling enjoyable."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Zentraler Platz",
+            "hu": "1. klaszter: Központi tér",
+            "ro": "Cluster 1: Piața Centrală",
+            "en": "Cluster 1: Central Square"
+          },
+          "coords": [
+            26.048,
+            45.199
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und beginnen Sie Ihre Erkundung zu Fuß im historischen Zentrum.",
+            "hu": "Parkoljon a közelben, és kezdje a felfedezést gyalog a történelmi központban.",
+            "ro": "Parcați în apropiere și începeți explorarea pe jos în centrul istoric.",
+            "en": "Park nearby and start your exploration on foot in the historic center."
+          }
+        },
+        {
+          "name": {
+            "de": "Nicolae-Iorga-Denkmal",
+            "hu": "Nicolae Iorga Emlékmű",
+            "ro": "Monumentul Nicolae Iorga",
+            "en": "Nicolae Iorga Monument"
+          },
+          "coords": [
+            26.047,
+            45.201
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:33",
+          "stay_min": 20,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz entfernt, um den großen Historiker zu ehren.",
+            "hu": "Rövid séta a térről a nagy történész tiszteletére.",
+            "ro": "O scurtă plimbare din piață pentru a-l onora pe marele istoric.",
+            "en": "A short walk from the square to honor the great historian."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Museumsviertel",
+            "hu": "2. klaszter: Múzeumi negyed",
+            "ro": "Cluster 2: Cartierul Muzeelor",
+            "en": "Cluster 2: Museum Quarter"
+          },
+          "coords": [
+            26.046,
+            45.202
+          ],
+          "category": "museums",
+          "arrive_at": "10:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum nächsten Cluster. Hier besuchen Sie das Iorga-Gedenkhaus.",
+            "hu": "Vezessen a következő klaszterhez. Itt látogassa meg az Iorga Emlékházat.",
+            "ro": "Conduceți la următorul cluster. Aici veți vizita Muzeul Memorial Iorga.",
+            "en": "Drive to the next cluster. Here you will visit the Iorga Memorial Museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Ethnographisches Museum des Teleajen-Tals",
+            "hu": "Teleajen-völgyi Néprajzi Múzeum",
+            "ro": "Muzeul de Etnografie al Văii Teleajenului",
+            "en": "Ethnographic Museum of the Teleajen Valley"
+          },
+          "coords": [
+            26.045,
+            45.204
+          ],
+          "category": "museums",
+          "arrive_at": "11:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gleich um die Ecke, um die lokalen Traditionen zu entdecken. Das Auto kann geparkt bleiben.",
+            "hu": "A sarkon túl, hogy felfedezze a helyi hagyományokat. Az autó parkolva maradhat.",
+            "ro": "Chiar după colț, pentru a descoperi tradițiile locale. Mașina poate rămâne parcată.",
+            "en": "Just around the corner to discover the local traditions. The car can stay parked."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Spirituelles & Grünes Văleni",
+            "hu": "3. klaszter: Spirituális és zöld Văleni",
+            "ro": "Cluster 3: Vălenii spiritual și verde",
+            "en": "Cluster 3: Spiritual & Green Văleni"
+          },
+          "coords": [
+            26.055,
+            45.208
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:12",
+          "stay_min": 45,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.3,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zur Mănăstirea-Kirche für einen Moment der Besinnung.",
+            "hu": "Vezessen a Mănăstirea kolostortemplomhoz egy pillanatnyi elmélkedésre.",
+            "ro": "Conduceți spre Biserica Mănăstirea Văleni pentru un moment de reflecție.",
+            "en": "Drive to the Văleni Monastery Church for a moment of reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentralpark",
+            "hu": "Központi Park",
+            "ro": "Parcul Central",
+            "en": "Central Park"
+          },
+          "coords": [
+            26.049,
+            45.198
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:27",
+          "stay_min": 153,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem langen, entspannten Spaziergang im nahegelegenen Park.",
+            "hu": "Zárja a napot egy hosszú, pihentető sétával a közeli parkban.",
+            "ro": "Încheiați ziua cu o plimbare lungă și relaxantă în parcul din apropiere.",
+            "en": "End the day with a long, relaxing walk in the nearby park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit dem Auto ist in drei Cluster unterteilt. Beginnen Sie im historischen Herzen (Cluster 1), parken Sie und spazieren Sie vom Zentralen Platz zum Nicolae-Iorga-Denkmal. Fahren Sie dann zum Museumsviertel (Cluster 2) für eine tiefere kulturelle Erfahrung im Iorga-Gedenkhaus und im Ethnographischen Museum. Nach dem Mittagessen fahren Sie zum spirituellen Zentrum (Cluster 3), der Mănăstirea-Kirche. Der letzte Teil Ihres Tages ist der Entspannung gewidmet, mit einem ausgedehnten Spaziergang durch den Zentralpark, der leicht vom letzten Cluster aus zu Fuß erreichbar ist.",
+        "hu": "Autós napja három klaszterre oszlik. Kezdje a történelmi szívben (1. klaszter), parkoljon le, és sétáljon a Központi tértől a Nicolae Iorga emlékműig. Ezután vezessen a Múzeumi negyedbe (2. klaszter) egy mélyebb kulturális élményért az Iorga Emlékházban és a Néprajzi Múzeumban. Ebéd után utazzon a spirituális központba (3. klaszter), a Mănăstirea kolostortemplomhoz. A nap utolsó része a pihenésé, egy hosszú sétával a Központi Parkban, amely könnyen megközelíthető gyalog az utolsó klaszterből.",
+        "ro": "Ziua cu mașina este împărțită în trei clustere. Începeți în inima istorică (Cluster 1), parcați și plimbați-vă de la Piața Centrală la Monumentul Nicolae Iorga. Apoi, conduceți spre Cartierul Muzeelor (Cluster 2) pentru o experiență culturală mai profundă la Muzeul Memorial Iorga și Muzeul de Etnografie. După prânz, călătoriți spre centrul spiritual (Cluster 3), Biserica Mănăstirea Văleni. Ultima parte a zilei este dedicată relaxării, cu o plimbare extinsă prin Parcul Central, ușor accesibil pe jos de la ultimul cluster.",
+        "en": "Your day by car is divided into three clusters. Start in the historic heart (Cluster 1), park your car, and walk from the Central Square to the Nicolae Iorga Monument. Then, drive to the Museum Quarter (Cluster 2) for a deeper cultural dive at the Iorga Memorial Museum and the Ethnographic Museum. After lunch, travel to the spiritual center (Cluster 3), the Văleni Monastery Church. The final part of your day is for relaxation with an extended walk through the Central Park, easily accessible on foot from the last cluster."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tochitură Moldovenească",
+            "tip": "Ein herzhafter Eintopf aus Schweinefleisch, serviert mit Mămăligă (Polenta) und Käse. Perfekt nach einem langen Spaziergang."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Kohlrouladen gefüllt mit Hackfleisch und Reis, ein rumänischer Klassiker."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Ein köstliches Dessert aus gebratenem oder gekochtem Teig, serviert mit Sauerrahm und Marmelade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tochitură Moldovenească",
+            "tip": "Kiadós sertéshúsos pörkölt, puliszkával és sajttal tálalva. Tökéletes egy hosszú séta után."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Töltött káposzta darált hússal és rizzsel, egy román klasszikus."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Ízletes desszert sült vagy főtt tésztából, tejföllel és lekvárral tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tochitură Moldovenească",
+            "tip": "O tocană consistentă de porc, servită cu mămăliguță și brânză. Perfectă după o plimbare lungă."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Rulouri de varză umplute cu carne tocată și orez, un clasic românesc."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Un desert delicios din aluat prăjit sau fiert, servit cu smântână și gem."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tochitură Moldovenească",
+            "tip": "A hearty pork stew served with mămăligă (polenta) and cheese. Perfect after a long walk."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Cabbage rolls stuffed with minced meat and rice, a Romanian classic."
+          },
+          {
+            "name": "Papanași",
+            "tip": "A delicious dessert of fried or boiled dough, served with sour cream and jam."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hof der Mănăstirea-Kirche",
+            "tip": "Finden Sie einen Moment der Stille im friedlichen Innenhof des Klosters.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang am Teleajen-Fluss",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses, abseits des Stadtzentrums.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bank im Zentralpark",
+            "tip": "Setzen Sie sich auf eine Bank und lauschen Sie den Geräuschen der Natur.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Mănăstirea kolostortemplom udvara",
+            "tip": "Találjon egy csendes pillanatot a kolostor békés udvarán.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a Teleajen folyó partján",
+            "tip": "Egy csendes séta a folyó mentén, távol a városközponttól.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pad a Központi Parkban",
+            "tip": "Üljön le egy padra és hallgassa a természet hangjait.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea Bisericii Mănăstirea Văleni",
+            "tip": "Găsiți un moment de liniște în curtea pașnică a mănăstirii.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare pe malul râului Teleajen",
+            "tip": "O plimbare liniștită de-a lungul râului, departe de centrul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O bancă în Parcul Central",
+            "tip": "Așezați-vă pe o bancă și ascultați sunetele naturii.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Courtyard of the Văleni Monastery Church",
+            "tip": "Find a moment of silence in the peaceful courtyard of the monastery.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk by the Teleajen River",
+            "tip": "A quiet walk along the river, away from the town center.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A bench in Central Park",
+            "tip": "Sit on a bench and listen to the sounds of nature.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte, Käse und traditionelle Wurstwaren von lokalen Bauern."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Suchen Sie nach handgemachter Keramik und Textilien, die für die Region typisch sind."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket, sajtot és hagyományos kolbászokat a helyi gazdáktól."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keressen kézzel készített kerámiákat és textíliákat, amelyek a régióra jellemzőek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse proaspete, brânzeturi și mezeluri tradiționale de la fermierii locali."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Căutați ceramică și textile lucrate manual, specifice regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Buy fresh produce, cheese, and traditional sausages from local farmers."
+          },
+          {
+            "name": "Craft Shops",
+            "tip": "Look for handmade pottery and textiles, typical of the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken kann im Stadtzentrum eine Herausforderung sein; suchen Sie nach ausgewiesenen Parkplätzen.",
+          "Die Cluster-Philosophie hilft, Parkprobleme zu minimieren und mehr zu Fuß zu entdecken.",
+          "Planen Sie zusätzliche Zeit für den Verkehr ein, besonders während der Stoßzeiten.",
+          "Ein Auto ermöglicht es Ihnen, leicht auch Attraktionen etwas außerhalb der Stadt zu erreichen (obwohl in diesem Plan nicht enthalten)."
+        ],
+        "hu": [
+          "A parkolás kihívást jelenthet a városközpontban; keressen kijelölt parkolóhelyeket.",
+          "A klaszter-filozófia segít minimalizálni a parkolási problémákat és többet felfedezni gyalog.",
+          "Tervezzen plusz időt a forgalomra, különösen csúcsidőben.",
+          "Az autó lehetővé teszi, hogy könnyen elérjen a városon kívüli látnivalókat is (bár ebben a tervben nem szerepel)."
+        ],
+        "ro": [
+          "Parcarea poate fi o provocare în centrul orașului; căutați parcări amenajate.",
+          "Filozofia clusterelor ajută la minimizarea problemelor de parcare și la explorarea mai multor locuri pe jos.",
+          "Planificați timp suplimentar pentru trafic, în special la orele de vârf.",
+          "O mașină vă permite să ajungeți cu ușurință la atracțiile din afara orașului (deși nu sunt incluse în acest plan)."
+        ],
+        "en": [
+          "Parking can be a challenge in the city center; look for designated parking areas.",
+          "The cluster philosophy helps minimize parking issues and explore more on foot.",
+          "Plan for extra time for traffic, especially during peak hours.",
+          "A car allows you to easily reach attractions slightly outside the town (though not included in this plan)."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:14",
+      "total_km": 3.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft: Zentraler Platz",
+            "hu": "Érkezés: Központi tér",
+            "ro": "Sosire: Piața Centrală",
+            "en": "Arrival: Central Square"
+          },
+          "coords": [
+            26.048,
+            45.199
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die meisten Busse halten in der Nähe. Beginnen Sie hier Ihren Tag.",
+            "hu": "A legtöbb busz a közelben áll meg. Kezdje itt a napot.",
+            "ro": "Majoritatea autobuzelor opresc în apropiere. Începeți ziua de aici.",
+            "en": "Most buses stop nearby. Start your day here."
+          }
+        },
+        {
+          "name": {
+            "de": "Nicolae-Iorga-Denkmal",
+            "hu": "Nicolae Iorga Emlékmű",
+            "ro": "Monumentul Nicolae Iorga",
+            "en": "Nicolae Iorga Monument"
+          },
+          "coords": [
+            26.047,
+            45.201
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:33",
+          "stay_min": 20,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Platz aus leicht zu Fuß erreichbar.",
+            "hu": "Könnyen megközelíthető gyalog a térről.",
+            "ro": "Ușor accesibil pe jos din piață.",
+            "en": "Easily walkable from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Museumsviertel",
+            "hu": "Utazás a Múzeumi negyedbe",
+            "ro": "Călătorie spre Cartierul Muzeelor",
+            "en": "Trip to the Museum Quarter"
+          },
+          "coords": [
+            26.046,
+            45.202
+          ],
+          "category": "museums",
+          "arrive_at": "10:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus zum Nicolae-Iorga-Gedenkhaus.",
+            "hu": "Vegyen egy helyi buszt a Nicolae Iorga Emlékházhoz.",
+            "ro": "Luați un autobuz local spre Muzeul Memorial Nicolae Iorga.",
+            "en": "Take a local bus to the Nicolae Iorga Memorial Museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Ethnographisches Museum des Teleajen-Tals",
+            "hu": "Teleajen-völgyi Néprajzi Múzeum",
+            "ro": "Muzeul de Etnografie al Văii Teleajenului",
+            "en": "Ethnographic Museum of the Teleajen Valley"
+          },
+          "coords": [
+            26.045,
+            45.204
+          ],
+          "category": "museums",
+          "arrive_at": "11:28",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom vorherigen Museum.",
+            "hu": "Rövid séta az előző múzeumtól.",
+            "ro": "O scurtă plimbare de la muzeul anterior.",
+            "en": "A short walk from the previous museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Mănăstirea-Kirche",
+            "hu": "Utazás a Mănăstirea kolostortemplomhoz",
+            "ro": "Călătorie spre Biserica Mănăstirea Văleni",
+            "en": "Trip to Văleni Monastery Church"
+          },
+          "coords": [
+            26.055,
+            45.208
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:16",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.6,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein weiterer Bus bringt Sie in die Nähe dieses spirituellen Ortes.",
+            "hu": "Egy másik busz elviszi Önt e spirituális hely közelébe.",
+            "ro": "Un alt autobuz vă va duce aproape de acest loc spiritual.",
+            "en": "Another bus will take you close to this spiritual place."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentralpark",
+            "hu": "Központi Park",
+            "ro": "Parcul Central",
+            "en": "Central Park"
+          },
+          "coords": [
+            26.049,
+            45.198
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:31",
+          "stay_min": 163,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie vom Kloster zum Park für einen entspannenden Abschluss des Tages.",
+            "hu": "Sétáljon a kolostortól a parkba egy pihentető napzárásért.",
+            "ro": "Mergeți pe jos de la mănăstire la parc pentru o încheiere relaxantă a zilei.",
+            "en": "Walk from the monastery to the park for a relaxing end to the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die lokalen Busse, um sich zwischen den Sehenswürdigkeiten von Vălenii de Munte zu bewegen. Beginnen Sie am Zentralen Platz, der mit dem Bus leicht erreichbar ist, und erkunden Sie das nahegelegene Iorga-Denkmal zu Fuß. Nehmen Sie dann einen Bus zum Museumsviertel, um in die lokale Geschichte und Kultur einzutauchen. Eine weitere Busfahrt bringt Sie zur ruhigen Mănăstirea-Kirche. Beenden Sie Ihren Tag mit einem gemütlichen Spaziergang von der Kirche zum Zentralpark, wo Sie sich entspannen und die Atmosphäre genießen können.",
+        "hu": "Használja a helyi buszokat a Vălenii de Munte látnivalói közötti közlekedéshez. Kezdje a busszal könnyen elérhető Központi téren, és fedezze fel gyalog a közeli Iorga emlékművet. Ezután szálljon buszra a Múzeumi negyedbe, hogy elmerüljön a helyi történelemben és kultúrában. Egy másik buszjárat elviszi a csendes Mănăstirea kolostortemplomhoz. Zárja a napot egy kellemes sétával a templomtól a Központi Parkig, ahol pihenhet és élvezheti a hangulatot.",
+        "ro": "Folosiți autobuzele locale pentru a vă deplasa între atracțiile din Vălenii de Munte. Începeți în Piața Centrală, ușor accesibilă cu autobuzul, și explorați pe jos Monumentul Iorga din apropiere. Apoi, luați un autobuz spre Cartierul Muzeelor pentru a vă cufunda în istoria și cultura locală. O altă călătorie cu autobuzul vă va duce la liniștita Biserică Mănăstirea Văleni. Încheiați ziua cu o plimbare agale de la biserică la Parcul Central, unde vă puteți relaxa și bucura de atmosferă.",
+        "en": "Use the local buses to move between the sights of Vălenii de Munte. Start at the Central Square, easily accessible by bus, and explore the nearby Iorga Monument on foot. Then, take a bus to the Museum Quarter to immerse yourself in local history and culture. Another bus ride will take you to the tranquil Văleni Monastery Church. End your day with a leisurely walk from the church to the Central Park, where you can relax and soak in the atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tochitură Moldovenească",
+            "tip": "Ein herzhafter Eintopf aus Schweinefleisch, serviert mit Mămăligă (Polenta) und Käse. Perfekt nach einem langen Spaziergang."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Kohlrouladen gefüllt mit Hackfleisch und Reis, ein rumänischer Klassiker."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Ein köstliches Dessert aus gebratenem oder gekochtem Teig, serviert mit Sauerrahm und Marmelade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tochitură Moldovenească",
+            "tip": "Kiadós sertéshúsos pörkölt, puliszkával és sajttal tálalva. Tökéletes egy hosszú séta után."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Töltött káposzta darált hússal és rizzsel, egy román klasszikus."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Ízletes desszert sült vagy főtt tésztából, tejföllel és lekvárral tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tochitură Moldovenească",
+            "tip": "O tocană consistentă de porc, servită cu mămăliguță și brânză. Perfectă după o plimbare lungă."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Rulouri de varză umplute cu carne tocată și orez, un clasic românesc."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Un desert delicios din aluat prăjit sau fiert, servit cu smântână și gem."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tochitură Moldovenească",
+            "tip": "A hearty pork stew served with mămăligă (polenta) and cheese. Perfect after a long walk."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Cabbage rolls stuffed with minced meat and rice, a Romanian classic."
+          },
+          {
+            "name": "Papanași",
+            "tip": "A delicious dessert of fried or boiled dough, served with sour cream and jam."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hof der Mănăstirea-Kirche",
+            "tip": "Finden Sie einen Moment der Stille im friedlichen Innenhof des Klosters.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang am Teleajen-Fluss",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses, abseits des Stadtzentrums.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bank im Zentralpark",
+            "tip": "Setzen Sie sich auf eine Bank und lauschen Sie den Geräuschen der Natur.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Mănăstirea kolostortemplom udvara",
+            "tip": "Találjon egy csendes pillanatot a kolostor békés udvarán.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a Teleajen folyó partján",
+            "tip": "Egy csendes séta a folyó mentén, távol a városközponttól.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pad a Központi Parkban",
+            "tip": "Üljön le egy padra és hallgassa a természet hangjait.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea Bisericii Mănăstirea Văleni",
+            "tip": "Găsiți un moment de liniște în curtea pașnică a mănăstirii.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare pe malul râului Teleajen",
+            "tip": "O plimbare liniștită de-a lungul râului, departe de centrul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O bancă în Parcul Central",
+            "tip": "Așezați-vă pe o bancă și ascultați sunetele naturii.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Courtyard of the Văleni Monastery Church",
+            "tip": "Find a moment of silence in the peaceful courtyard of the monastery.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk by the Teleajen River",
+            "tip": "A quiet walk along the river, away from the town center.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A bench in Central Park",
+            "tip": "Sit on a bench and listen to the sounds of nature.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte, Käse und traditionelle Wurstwaren von lokalen Bauern."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Suchen Sie nach handgemachter Keramik und Textilien, die für die Region typisch sind."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket, sajtot és hagyományos kolbászokat a helyi gazdáktól."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keressen kézzel készített kerámiákat és textíliákat, amelyek a régióra jellemzőek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse proaspete, brânzeturi și mezeluri tradiționale de la fermierii locali."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Căutați ceramică și textile lucrate manual, specifice regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Buy fresh produce, cheese, and traditional sausages from local farmers."
+          },
+          {
+            "name": "Craft Shops",
+            "tip": "Look for handmade pottery and textiles, typical of the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich über die lokalen Buslinien und Fahrpläne.",
+          "Eine Tageskarte könnte günstiger sein als Einzelfahrscheine.",
+          "Seien Sie auf mögliche Verspätungen vorbereitet, besonders bei Bussen in kleineren Städten.",
+          "Die Kombination aus Busfahrten und Spaziergängen bietet ein ausgewogenes Erlebnis."
+        ],
+        "hu": [
+          "Tájékozódjon a helyi buszjáratokról és menetrendekről.",
+          "Egy napijegy olcsóbb lehet, mint a vonaljegyek.",
+          "Készüljön fel a lehetséges késésekre, különösen a kisebb városok buszainál.",
+          "A buszozás és a séta kombinációja kiegyensúlyozott élményt nyújt."
+        ],
+        "ro": [
+          "Informați-vă despre rutele și orarele autobuzelor locale.",
+          "Un bilet de o zi ar putea fi mai ieftin decât biletele individuale.",
+          "Fiți pregătiți pentru posibile întârzieri, în special la autobuzele din orașele mai mici.",
+          "Combinația dintre călătoriile cu autobuzul și plimbări oferă o experiență echilibrată."
+        ],
+        "en": [
+          "Get information about local bus routes and schedules.",
+          "A day pass might be cheaper than single tickets.",
+          "Be prepared for potential delays, especially with buses in smaller towns.",
+          "The combination of bus rides and walking provides a balanced experience."
+        ]
+      }
+    }
+  }
+}

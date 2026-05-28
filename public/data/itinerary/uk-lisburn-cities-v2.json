@@ -1,0 +1,1514 @@
+{
+  "city_id": "uk-lisburn-cities-v2",
+  "anchor": {
+    "name": "Lisburn",
+    "coords": [
+      -6.0353,
+      54.5126
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Castle Street",
+            "hu": "Castle Street",
+            "ro": "Strada Castelului",
+            "en": "Castle Street"
+          },
+          "coords": [
+            -6.042,
+            54.5125
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier, um die Atmosphäre der Stadt aufzusaugen.",
+            "hu": "Kezdje itt a napot, hogy magába szívja a város hangulatát.",
+            "ro": "Începeți ziua aici pentru a absorbi atmosfera orașului.",
+            "en": "Start your day here to soak up the city's atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Lisburn",
+            "hu": "Lisburni székesegyház",
+            "ro": "Catedrala din Lisburn",
+            "en": "Lisburn Cathedral"
+          },
+          "coords": [
+            -6.0435,
+            54.5128
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckende Turmspitze und die Buntglasfenster.",
+            "hu": "Figyelje meg a lenyűgöző tornyot és az ólomüveg ablakokat.",
+            "ro": "Observați turla impresionantă și vitraliile.",
+            "en": "Look for the impressive spire and the stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Irisches Leinenzentrum & Lisburn Museum",
+            "hu": "Ír Vászon Központ és Lisburn Múzeum",
+            "ro": "Centrul Inului Irlandez & Muzeul Lisburn",
+            "en": "Irish Linen Centre & Lisburn Museum"
+          },
+          "coords": [
+            -6.0445,
+            54.5135
+          ],
+          "category": "museums",
+          "arrive_at": "11:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Vorführung des Webens teil, um die Geschichte lebendig werden zu lassen.",
+            "hu": "Vegyen részt egy szövési bemutatón, hogy életre keltse a történelmet.",
+            "ro": "Participați la o demonstrație de țesut pentru a vedea istoria adusă la viață.",
+            "en": "Join a weaving demonstration to see history come alive."
+          }
+        },
+        {
+          "name": {
+            "de": "Castle Gardens",
+            "hu": "Várkert",
+            "ro": "Grădinile Castelului",
+            "en": "Castle Gardens"
+          },
+          "coords": [
+            -6.041,
+            54.514
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause. Genießen Sie die Blumenbeete.",
+            "hu": "Tökéletes egy ebédszünetre. Élvezze a virágágyásokat.",
+            "ro": "Perfect pentru o pauză de prânz. Bucurați-vă de straturile de flori.",
+            "en": "Perfect for a lunch break. Enjoy the floral displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Island Arts Centre",
+            "hu": "Island Művészeti Központ",
+            "ro": "Centrul de Arte Island",
+            "en": "Island Arts Centre"
+          },
+          "coords": [
+            -6.035,
+            54.515
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:02",
+          "stay_min": 50,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Prüfen Sie, ob lokale Kunstausstellungen stattfinden.",
+            "hu": "Nézze meg, vannak-e helyi művészeti kiállítások.",
+            "ro": "Verificați dacă există expoziții de artă locală.",
+            "en": "Check for any local art exhibitions on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Lagan Valley Island",
+            "hu": "Lagan Valley-sziget",
+            "ro": "Insula Lagan Valley",
+            "en": "Lagan Valley Island"
+          },
+          "coords": [
+            -6.034,
+            54.5155
+          ],
+          "category": "natural features",
+          "arrive_at": "14:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang am Fluss entlang, direkt neben dem Kunstzentrum.",
+            "hu": "Egy kellemes séta a folyó mentén, közvetlenül a művészeti központ mellett.",
+            "ro": "O plimbare plăcută de-a lungul râului, chiar lângă centrul de artă.",
+            "en": "A lovely walk along the river, right next to the arts centre."
+          }
+        },
+        {
+          "name": {
+            "de": "Wallace Park",
+            "hu": "Wallace Park",
+            "ro": "Parcul Wallace",
+            "en": "Wallace Park"
+          },
+          "coords": [
+            -6.055,
+            54.518
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Ein riesiger Park, ideal für einen entspannenden Spaziergang am Ende des Tages.",
+            "hu": "Hatalmas park, ideális egy pihentető sétához a nap végén.",
+            "ro": "Un parc vast, ideal pentru o plimbare relaxantă la sfârșitul zilei.",
+            "en": "A vast park, great for a relaxing end-of-day stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Rundgang beginnt in der historischen Castle Street und führt Sie zur beeindruckenden Kathedrale von Lisburn. Am Vormittag tauchen Sie im Leinenzentrum und Museum in die industrielle Vergangenheit der Stadt ein. Nach dem Mittagessen in den ruhigen Castle Gardens überqueren Sie den Fluss zum Island Arts Centre für eine Dosis Kultur. Am Nachmittag genießen Sie die Natur auf der Lagan Valley Island. Der Tag endet mit einem entspannenden Spaziergang durch den weitläufigen Wallace Park, der einen friedlichen Abschluss Ihrer Erkundung von Lisburn bietet.",
+        "hu": "Sétája a történelmi Castle Streeten kezdődik, majd a lenyűgöző Lisburni székesegyházhoz vezet. Délelőtt elmerülhet a város ipari múltjában az Ír Vászon Központban és Múzeumban. Az ebéd utáni pihenőt a csendes Várkertben tölti, majd a folyón átkelve a szigeten található Művészeti Központban szívhat magába egy kis kultúrát. Délután élvezze a természetet a Lagan Valley-szigeten. A napot egy pihentető séta zárja a tágas Wallace Parkban, békés lezárást adva Lisburn felfedezésének.",
+        "ro": "Turul dumneavoastră pe jos începe pe istorica Stradă a Castelului, ducându-vă la impresionanta Catedrală din Lisburn. Dimineața este dedicată explorării trecutului industrial al orașului la Centrul Inului și Muzeu. După prânzul în liniștitele Grădini ale Castelului, traversați râul spre Centrul de Arte Island pentru o doză de cultură. După-amiaza vă bucurați de natură la Insula Lagan Valley. Ziua se încheie cu o plimbare relaxantă prin vastul Parc Wallace, oferind o încheiere pașnică explorării dumneavoastră în Lisburn.",
+        "en": "Your walking tour starts on the historic Castle Street, leading you to the impressive Lisburn Cathedral. The morning is for diving into the city's industrial past at the Linen Centre and Museum. After lunch in the tranquil Castle Gardens, you cross the river to the Island Arts Centre for a dose of culture. The afternoon is for enjoying nature at Lagan Valley Island. The day concludes with a relaxing stroll through the expansive Wallace Park, offering a peaceful end to your Lisburn exploration."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ulster Fry",
+            "tip": "Ein Muss für ein herzhaftes Frühstück oder Mittagessen."
+          },
+          {
+            "name": "The Speckled Hen",
+            "tip": "Bekannt für gutes Essen und eine gemütliche Atmosphäre."
+          },
+          {
+            "name": "Gowdy's at the Racecourse",
+            "tip": "Traditionelle Gerichte in einer einzigartigen Umgebung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ulster Fry",
+            "tip": "Kihagyhatatlan egy kiadós reggelihez vagy ebédhez."
+          },
+          {
+            "name": "The Speckled Hen",
+            "tip": "Jó ételeiről és hangulatos légköréről ismert."
+          },
+          {
+            "name": "Gowdy's at the Racecourse",
+            "tip": "Hagyományos ételek egyedülálló környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulster Fry",
+            "tip": "O necesitate pentru un mic dejun sau prânz copios."
+          },
+          {
+            "name": "The Speckled Hen",
+            "tip": "Renumit pentru mâncare bună și o atmosferă primitoare."
+          },
+          {
+            "name": "Gowdy's at the Racecourse",
+            "tip": "Mâncăruri tradiționale într-un cadru unic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ulster Fry",
+            "tip": "A must-try for a hearty breakfast or lunch."
+          },
+          {
+            "name": "The Speckled Hen",
+            "tip": "Known for good food and a cozy atmosphere."
+          },
+          {
+            "name": "Gowdy's at the Racecourse",
+            "tip": "Traditional fare in a unique setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Lagan",
+            "tip": "Ein friedlicher Spaziergang abseits des Stadtzentrums.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Wallace Park Duck Pond",
+            "tip": "Ein ruhiger Ort, um die Enten zu beobachten.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Castle Gardens",
+            "tip": "Finden Sie eine stille Bank und genießen Sie die Blumen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lagan folyó partja",
+            "tip": "Békés séta a városközponttól távolabb.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Wallace Park kacsató",
+            "tip": "Csendes hely a kacsák figyelésére.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Várkert",
+            "tip": "Keressen egy csendes padot és élvezze a virágokat.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Lagan",
+            "tip": "O plimbare liniștită departe de centrul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Iazul cu rațe din Parcul Wallace",
+            "tip": "Un loc liniștit pentru a privi rațele.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grădinile Castelului",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de flori.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lagan River banks",
+            "tip": "A peaceful walk away from the town centre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Wallace Park Duck Pond",
+            "tip": "A quiet spot to watch the ducks.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Castle Gardens",
+            "tip": "Find a quiet bench and enjoy the flowers.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bow Street Mall",
+            "tip": "Ein lokales Einkaufszentrum mit einer Vielzahl von Geschäften."
+          },
+          {
+            "name": "Lisburn Square",
+            "tip": "Boutiquen und Cafés rund um einen modernen Platz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bow Street Mall",
+            "tip": "Helyi bevásárlóközpont különféle üzletekkel."
+          },
+          {
+            "name": "Lisburn Square",
+            "tip": "Butikok és kávézók egy modern tér körül."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bow Street Mall",
+            "tip": "Un centru comercial local cu o varietate de magazine."
+          },
+          {
+            "name": "Piața Lisburn",
+            "tip": "Boutique-uri și cafenele în jurul unei piețe moderne."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bow Street Mall",
+            "tip": "A local shopping centre with a variety of stores."
+          },
+          {
+            "name": "Lisburn Square",
+            "tip": "Boutique shops and cafes around a modern square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind leicht zu Fuß erreichbar.",
+          "Prüfen Sie die Öffnungszeiten des Museums und des Kunstzentrums im Voraus.",
+          "Ein leichter Regenmantel ist in Nordirland immer eine gute Idee."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog sétálni.",
+          "A belváros legtöbb látnivalója könnyen megközelíthető gyalog.",
+          "Előre ellenőrizze a múzeum és a művészeti központ nyitvatartási idejét.",
+          "Egy könnyű esőkabát mindig jó ötlet Észak-Írországban."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Majoritatea atracțiilor din centrul orașului sunt ușor de atins pe jos.",
+          "Verificați în avans orele de funcționare ale muzeului și centrului de artă.",
+          "O pelerină de ploaie ușoară este întotdeauna o idee bună în Irlanda de Nord."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Most city centre attractions are within easy walking distance of each other.",
+          "Check the opening times for the museum and arts centre in advance.",
+          "A light raincoat is always a good idea in Northern Ireland."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 9.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Wallace Park",
+            "hu": "Wallace Park",
+            "ro": "Parcul Wallace",
+            "en": "Wallace Park"
+          },
+          "coords": [
+            -6.055,
+            54.518
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie mit einer erfrischenden Runde durch den Park.",
+            "hu": "Kezdje a napot egy frissítő körrel a parkban.",
+            "ro": "Începeți cu o tură revigorantă prin parc.",
+            "en": "Start with a refreshing loop around the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Castle Street",
+            "hu": "Castle Street",
+            "ro": "Strada Castelului",
+            "en": "Castle Street"
+          },
+          "coords": [
+            -6.042,
+            54.5125
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:09",
+          "stay_min": 20,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und erkunden Sie die Geschäfte.",
+            "hu": "Zárja le a kerékpárt és fedezze fel az üzleteket.",
+            "ro": "Legați-vă bicicleta și explorați magazinele.",
+            "en": "Lock up your bike and explore the shops."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Lisburn",
+            "hu": "Lisburni székesegyház",
+            "ro": "Catedrala din Lisburn",
+            "en": "Lisburn Cathedral"
+          },
+          "coords": [
+            -6.0435,
+            54.5128
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer, einfacher Ritt von der Hauptstraße entfernt.",
+            "hu": "Egy rövid, könnyű tekerés a főútról.",
+            "ro": "O plimbare scurtă și ușoară de la strada principală.",
+            "en": "A short, easy ride from the main street."
+          }
+        },
+        {
+          "name": {
+            "de": "Irisches Leinenzentrum & Lisburn Museum",
+            "hu": "Ír Vászon Központ és Lisburn Múzeum",
+            "ro": "Centrul Inului Irlandez & Muzeul Lisburn",
+            "en": "Irish Linen Centre & Lisburn Museum"
+          },
+          "coords": [
+            -6.0445,
+            54.5135
+          ],
+          "category": "museums",
+          "arrive_at": "11:33",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Hier gibt es Fahrradständer, um Ihr Fahrrad sicher abzustellen.",
+            "hu": "Vannak kerékpártárolók, ahol biztonságosan lezárhatja a kerékpárt.",
+            "ro": "Există suporturi de biciclete disponibile pentru a vă securiza bicicleta.",
+            "en": "Bike racks are available here to secure your ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Castle Gardens",
+            "hu": "Várkert",
+            "ro": "Grădinile Castelului",
+            "en": "Castle Gardens"
+          },
+          "coords": [
+            -6.041,
+            54.514
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:06",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Eine friedliche Oase, ideal für eine Mittagspause.",
+            "hu": "Békés oázis, ideális egy ebédszünethez.",
+            "ro": "O oază de liniște, perfectă pentru o pauză de prânz.",
+            "en": "A peaceful oasis perfect for a lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Island Arts Centre",
+            "hu": "Island Művészeti Központ",
+            "ro": "Centrul de Arte Island",
+            "en": "Island Arts Centre"
+          },
+          "coords": [
+            -6.035,
+            54.515
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:11",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die Fahrt entlang des Flusses, um hierher zu gelangen.",
+            "hu": "Élvezze a folyó menti utat, hogy ideérjen.",
+            "ro": "Bucurați-vă de plimbarea de-a lungul râului pentru a ajunge aici.",
+            "en": "Enjoy the riverside ride to get here."
+          }
+        },
+        {
+          "name": {
+            "de": "Lagan Valley Island",
+            "hu": "Lagan Valley-sziget",
+            "ro": "Insula Lagan Valley",
+            "en": "Lagan Valley Island"
+          },
+          "coords": [
+            -6.034,
+            54.5155
+          ],
+          "category": "natural features",
+          "arrive_at": "14:57",
+          "stay_min": 30,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Fahren Sie um die Insel für eine schnelle und landschaftlich reizvolle Runde.",
+            "hu": "Tegyen egy gyors, festői kört a sziget körül.",
+            "ro": "Pedalați în jurul insulei pentru o tură rapidă și pitorească.",
+            "en": "Cycle around the island for a quick scenic loop."
+          }
+        },
+        {
+          "name": {
+            "de": "Hilden Brauerei",
+            "hu": "Hilden Sörfőzde",
+            "ro": "Berăria Hilden",
+            "en": "Hilden Brewery"
+          },
+          "coords": [
+            -6.02,
+            54.525
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Ein großartiger Abschluss der Tour. Probieren Sie ein lokales Bier (nach der Fahrt!).",
+            "hu": "Nagyszerű befejezése a túrának. Kóstoljon meg egy helyi sört (a tekerés után!).",
+            "ro": "O modalitate excelentă de a încheia turul. Gustați o bere locală (după plimbare!).",
+            "en": "A great way to end the tour. Sample a local ale (after the ride!)."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag mit einer Runde durch den Wallace Park. Fahren Sie dann ins Stadtzentrum, um die Castle Street und die Kathedrale zu erkunden. Am Vormittag besuchen Sie das Leinenzentrum und Museum. Nach einer Mittagspause in den Castle Gardens führt Sie eine malerische Fahrt entlang des Flusses zum Island Arts Centre und der Lagan Valley Island. Die Tour endet mit einer längeren Fahrt zur historischen Hilden Brauerei, wo Sie sich für Ihre Anstrengungen belohnen können.",
+        "hu": "Kezdje a kerékpáros napot egy körrel a Wallace Parkban. Ezután tekerjen be a városközpontba, hogy felfedezze a Castle Streetet és a székesegyházat. A délelőttöt a Vászon Központ és Múzeum meglátogatásával töltse. Egy ebédszünet után a Várkertben egy festői út vezet a folyó mentén az Island Művészeti Központba és a Lagan Valley-szigetre. A túra egy hosszabb tekeréssel zárul a történelmi Hilden Sörfőzdéhez, ahol megjutalmazhatja magát az erőfeszítésekért.",
+        "ro": "Începeți ziua pe bicicletă cu o tură în Parcul Wallace. Apoi, pedalați spre centrul orașului pentru a explora Strada Castelului și catedrala. Dimineața este rezervată pentru Centrul Inului și Muzeu. După o pauză de prânz în Grădinile Castelului, o plimbare pitorească de-a lungul râului vă duce la Centrul de Arte Island și Insula Lagan Valley. Turul se încheie cu o plimbare mai lungă până la istorica Berărie Hilden, o recompensă pentru eforturile dumneavoastră.",
+        "en": "Start your cycling day with a loop of Wallace Park. Then, pedal into the city centre to explore Castle Street and the cathedral. The morning is for visiting the Linen Centre and Museum. After a lunch break in Castle Gardens, a scenic ride along the river takes you to the Island Arts Centre and Lagan Valley Island. The tour concludes with a longer ride to the historic Hilden Brewery for a well-earned reward."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Tap Room at Hilden Brewery",
+            "tip": "Perfekt für ein Essen nach der Radtour, gepaart mit lokalem Bier."
+          },
+          {
+            "name": "Fifty Three",
+            "tip": "Bietet eine moderne Speisekarte im Stadtzentrum."
+          },
+          {
+            "name": "Dal-Riata",
+            "tip": "Ein Café, das sich gut für einen schnellen Happen eignet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Tap Room a Hilden Sörfőzdében",
+            "tip": "Tökéletes egy kerékpártúra utáni étkezéshez, helyi sörrel párosítva."
+          },
+          {
+            "name": "Fifty Three",
+            "tip": "Modern étlapot kínál a városközpontban."
+          },
+          {
+            "name": "Dal-Riata",
+            "tip": "Kávézó, amely kiválóan alkalmas egy gyors falatra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Tap Room la Berăria Hilden",
+            "tip": "Perfect pentru o masă după plimbare, asortată cu bere locală."
+          },
+          {
+            "name": "Fifty Three",
+            "tip": "Oferă un meniu modern în centrul orașului."
+          },
+          {
+            "name": "Dal-Riata",
+            "tip": "O cafenea bună pentru o gustare rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Tap Room at Hilden Brewery",
+            "tip": "Perfect for a post-cycle meal paired with local ale."
+          },
+          {
+            "name": "Fifty Three",
+            "tip": "Offers a modern menu in the city centre."
+          },
+          {
+            "name": "Dal-Riata",
+            "tip": "A cafe that's good for a quick bite."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lagan Towpath",
+            "tip": "Ein flacher, einfacher Radweg entlang des Flusses.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Wallace Park",
+            "tip": "Abseits der Hauptwege finden Sie viele ruhige Ecken.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Castle Gardens",
+            "tip": "Stellen Sie Ihr Fahrrad ab und genießen Sie einen Moment der Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lagan vontatóút",
+            "tip": "Sík, könnyű kerékpárút a folyó mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Wallace Park",
+            "tip": "A fő utaktól távol számos csendes zugot talál.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Várkert",
+            "tip": "Tegye le a kerékpárt és élvezzen egy pillanatnyi csendet.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poteca de tractare Lagan",
+            "tip": "O pistă de biciclete plată și ușoară de-a lungul râului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Wallace",
+            "tip": "Veți găsi multe colțuri liniștite departe de căile principale.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grădinile Castelului",
+            "tip": "Parcați bicicleta și bucurați-vă de un moment de liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lagan Towpath",
+            "tip": "A flat, easy cycle path along the river.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Wallace Park",
+            "tip": "You'll find many quiet corners away from the main paths.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Castle Gardens",
+            "tip": "Park your bike and enjoy a moment of peace.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Fahrradgeschäfte",
+            "tip": "Suchen Sie nach Zubehör oder lokaler Ausrüstung."
+          },
+          {
+            "name": "St George's Market (Belfast)",
+            "tip": "Wenn Sie einen Ausflug machen, ist dies ein berühmter Markt in der Nähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerékpárboltok",
+            "tip": "Keressen kiegészítőket vagy helyi felszerelést."
+          },
+          {
+            "name": "St George's Market (Belfast)",
+            "tip": "Ha kirándul, ez egy híres piac a közelben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine locale de biciclete",
+            "tip": "Căutați accesorii sau echipament local."
+          },
+          {
+            "name": "Piața St George (Belfast)",
+            "tip": "Dacă faceți o excursie, aceasta este o piață renumită în apropiere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local bike shops",
+            "tip": "Check for accessories or local gear."
+          },
+          {
+            "name": "St George's Market (Belfast)",
+            "tip": "If you take a trip, this is a famous nearby market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie einen Helm und verwenden Sie Lichter, besonders bei schlechtem Wetter.",
+          "Schließen Sie Ihr Fahrrad an ausgewiesenen Stellen immer ab.",
+          "Der Lagan Towpath ist ideal für eine entspannte Fahrt abseits der Straßen.",
+          "Einige Hügel in und um Lisburn können anspruchsvoll sein."
+        ],
+        "hu": [
+          "Viseljen sisakot és használjon lámpákat, különösen rossz időben.",
+          "Mindig zárja le a kerékpárt a kijelölt helyeken.",
+          "A Lagan vontatóút ideális egy nyugodt tekeréshez az utaktól távol.",
+          "Néhány emelkedő Lisburnben és környékén kihívást jelenthet."
+        ],
+        "ro": [
+          "Purtați cască și folosiți lumini, mai ales pe vreme rea.",
+          "Legați-vă întotdeauna bicicleta în zonele desemnate.",
+          "Poteca de tractare Lagan este ideală pentru o plimbare relaxantă, departe de drumuri.",
+          "Unele dealuri din și în jurul Lisburn pot fi provocatoare."
+        ],
+        "en": [
+          "Wear a helmet and use lights, especially in inclement weather.",
+          "Always lock your bike in designated areas.",
+          "The Lagan Towpath is great for a relaxed ride away from the roads.",
+          "Some hills in and around Lisburn can be challenging."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:41",
+      "total_km": 6.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Wallace Park",
+            "hu": "Wallace Park parkoló",
+            "ro": "Parcare Parc Wallace",
+            "en": "Wallace Park Car Park"
+          },
+          "coords": [
+            -6.056,
+            54.5185
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und beginnen Sie mit einem Spaziergang durch den Park.",
+            "hu": "Parkoljon itt, és kezdje a napot egy sétával a parkban.",
+            "ro": "Parcați aici și începeți cu o plimbare prin parc.",
+            "en": "Park here and start with a walk through the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Stadtzentrum",
+            "hu": "Belvárosi parkoló",
+            "ro": "Parcare Centrul Orașului",
+            "en": "City Centre Car Park"
+          },
+          "coords": [
+            -6.045,
+            54.512
+          ],
+          "category": "transport",
+          "arrive_at": "10:30",
+          "stay_min": 0,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier, um den historischen Kern zu Fuß zu erkunden.",
+            "hu": "Parkoljon itt, hogy gyalog fedezze fel a történelmi központot.",
+            "ro": "Parcați aici pentru a explora nucleul istoric pe jos.",
+            "en": "Park here to explore the historic core on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Castle Street & Kathedrale",
+            "hu": "Castle Street és Székesegyház",
+            "ro": "Strada Castelului & Catedrala",
+            "en": "Castle Street & Cathedral"
+          },
+          "coords": [
+            -6.043,
+            54.5126
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:34",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die Straße und besuchen Sie dann die Kathedrale.",
+            "hu": "Sétáljon végig az utcán, majd látogasson el a székesegyházba.",
+            "ro": "Plimbați-vă pe stradă, apoi vizitați catedrala.",
+            "en": "Stroll down the street, then visit the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Irisches Leinenzentrum & Lisburn Museum",
+            "hu": "Ír Vászon Központ és Lisburn Múzeum",
+            "ro": "Centrul Inului Irlandez & Muzeul Lisburn",
+            "en": "Irish Linen Centre & Lisburn Museum"
+          },
+          "coords": [
+            -6.0445,
+            54.5135
+          ],
+          "category": "museums",
+          "arrive_at": "12:06",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Dom entfernt.",
+            "hu": "Egy rövid séta a székesegyháztól.",
+            "ro": "O scurtă plimbare de la catedrală.",
+            "en": "A short walk from the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Castle Gardens",
+            "hu": "Várkert",
+            "ro": "Grădinile Castelului",
+            "en": "Castle Gardens"
+          },
+          "coords": [
+            -6.041,
+            54.514
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:49",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie sich nach dem Museum, bevor Sie zum Auto zurückkehren.",
+            "hu": "Pihenjen a múzeum után, mielőtt visszatérne az autóhoz.",
+            "ro": "Relaxați-vă după muzeu înainte de a vă întoarce la mașină.",
+            "en": "Relax after the museum before heading back to the car."
+          }
+        },
+        {
+          "name": {
+            "de": "Hilden Brauerei",
+            "hu": "Hilden Sörfőzde",
+            "ro": "Berăria Hilden",
+            "en": "Hilden Brewery"
+          },
+          "coords": [
+            -6.02,
+            54.525
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.4,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem historischen Ort für eine Führung und Verkostung.",
+            "hu": "Vezessen el ehhez a történelmi helyszínhez egy túrára és kóstolóra.",
+            "ro": "Conduceți la acest sit istoric pentru un tur și o degustare.",
+            "en": "Drive to this historic site for a tour and tasting."
+          }
+        },
+        {
+          "name": {
+            "de": "Lagan Valley Island",
+            "hu": "Lagan Valley-sziget",
+            "ro": "Insula Lagan Valley",
+            "en": "Lagan Valley Island"
+          },
+          "coords": [
+            -6.034,
+            54.5155
+          ],
+          "category": "natural features",
+          "arrive_at": "16:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem friedlichen Spaziergang am Fluss.",
+            "hu": "Zárja a napot egy békés sétával a folyóparton.",
+            "ro": "Încheiați ziua cu o plimbare liniștită pe malul râului.",
+            "en": "End the day with a peaceful riverside walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt entspannt im Wallace Park. Danach fahren Sie ins Zentrum, parken und erkunden den historischen Kern zu Fuß: Castle Street, die Kathedrale und das Leinenzentrum. Nach dem Mittagessen und einer Pause in den Castle Gardens fahren Sie zu Ihrem Nachmittagsziel. Die historische Hilden Brauerei bietet einen Einblick in die lokale Braukunst. Der Tag endet mit einer kurzen Fahrt zur Lagan Valley Island für einen letzten Spaziergang am Flussufer, bevor Sie Ihre Heimreise antreten.",
+        "hu": "Autós napja egy pihentető sétával kezdődik a Wallace Parkban. Ezután hajtson be a központba, parkoljon le, és fedezze fel gyalog a történelmi magot: a Castle Streetet, a székesegyházat és a Vászon Központot. Ebéd és a Várkertben tartott szünet után délutáni úticéljához hajt. A történelmi Hilden Sörfőzde bepillantást nyújt a helyi sörfőzésbe. A nap egy rövid autózással zárul a Lagan Valley-szigetre, ahol tehet egy utolsó sétát a folyóparton, mielőtt hazaindul.",
+        "ro": "Ziua dumneavoastră cu mașina începe relaxat în Parcul Wallace. Apoi, conduceți în centru, parcați și explorați nucleul istoric pe jos: Strada Castelului, catedrala și Centrul Inului. După prânz și o pauză în Grădinile Castelului, conduceți spre destinația de după-amiază. Istorica Berărie Hilden oferă o perspectivă asupra berăritului local. Ziua se încheie cu o scurtă călătorie cu mașina spre Insula Lagan Valley pentru o ultimă plimbare pe malul râului înainte de a pleca.",
+        "en": "Your car day starts relaxed in Wallace Park. Then, drive to the centre, park up, and explore the historic core on foot: Castle Street, the cathedral, and the Linen Centre. After lunch and a break in Castle Gardens, you drive to your afternoon destination. The historic Hilden Brewery offers a glimpse into local brewing. The day concludes with a short drive to Lagan Valley Island for a final riverside walk before you head home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Square Bistro",
+            "tip": "Ein hoch bewertetes Restaurant in Lisburn Square."
+          },
+          {
+            "name": "The Tap Room at Hilden Brewery",
+            "tip": "Kombinieren Sie Ihre Brauereitour mit einem herzhaften Essen."
+          },
+          {
+            "name": "Glass House",
+            "tip": "Befindet sich im Island Arts Centre, praktisch für einen Kaffee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Square Bistro",
+            "tip": "Magasan értékelt étterem a Lisburn Square-en."
+          },
+          {
+            "name": "The Tap Room a Hilden Sörfőzdében",
+            "tip": "Kombinálja a sörfőzdei túrát egy kiadós étkezéssel."
+          },
+          {
+            "name": "Glass House",
+            "tip": "Az Island Művészeti Központban található, kényelmes egy kávéhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Square Bistro",
+            "tip": "Un restaurant foarte apreciat în Piața Lisburn."
+          },
+          {
+            "name": "The Tap Room la Berăria Hilden",
+            "tip": "Combinați turul berăriei cu o masă copioasă."
+          },
+          {
+            "name": "Glass House",
+            "tip": "Situat în Centrul de Arte Island, convenabil pentru o cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Square Bistro",
+            "tip": "A highly-rated restaurant in Lisburn Square."
+          },
+          {
+            "name": "The Tap Room at Hilden Brewery",
+            "tip": "Combine your brewery tour with a hearty meal."
+          },
+          {
+            "name": "Glass House",
+            "tip": "Located in the Island Arts Centre, convenient for a coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Duncan's Dam Park",
+            "tip": "Ein weniger bekannter Park für einen ruhigen Moment.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Lagan Towpath",
+            "tip": "Parken Sie und machen Sie einen Spaziergang entlang des Wassers.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Friedhof der Kathedrale",
+            "tip": "Ein Ort der Geschichte und Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Duncan's Dam Park",
+            "tip": "Kevésbé ismert park egy csendes pillanathoz."
+          },
+          {
+            "name": "Lagan vontatóút",
+            "tip": "Parkoljon le és sétáljon egyet a víz mentén."
+          },
+          {
+            "name": "Székesegyház temetője",
+            "tip": "A történelem és a nyugalom helye."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Duncan's Dam",
+            "tip": "Un parc mai puțin cunoscut pentru un moment de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Poteca de tractare Lagan",
+            "tip": "Parcați și faceți o plimbare de-a lungul apei.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cimitirul Catedralei",
+            "tip": "Un loc de istorie și liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Duncan's Dam Park",
+            "tip": "A lesser-known park for a quiet moment.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Lagan Towpath",
+            "tip": "Park up and take a walk along the water.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cathedral Graveyard",
+            "tip": "A place of history and quiet contemplation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sprucefield Shopping Centre",
+            "tip": "Ein großes Einkaufszentrum am Rande der Stadt, leicht mit dem Auto erreichbar."
+          },
+          {
+            "name": "Bow Street",
+            "tip": "Parken Sie in der Nähe und erkunden Sie die unabhängigen Geschäfte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sprucefield Bevásárlóközpont",
+            "tip": "Nagy bevásárlóközpont a város szélén, autóval könnyen megközelíthető."
+          },
+          {
+            "name": "Bow Street",
+            "tip": "Parkoljon a közelben, és fedezze fel a független üzleteket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Sprucefield",
+            "tip": "Un centru comercial mare la marginea orașului, ușor accesibil cu mașina."
+          },
+          {
+            "name": "Strada Bow",
+            "tip": "Parcați în apropiere și explorați magazinele independente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sprucefield Shopping Centre",
+            "tip": "A large retail park on the edge of town, easily accessible by car."
+          },
+          {
+            "name": "Bow Street",
+            "tip": "Park nearby and explore the independent shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum ist an Wochentagen oft gebührenpflichtig.",
+          "Planen Sie Ihre Route, um den Verkehr zur Hauptverkehrszeit zu vermeiden.",
+          "Die Verwendung von Park-and-Ride-Diensten kann eine gute Option sein.",
+          "Halten Sie Kleingeld für Parkautomaten bereit."
+        ],
+        "hu": [
+          "A belvárosi parkolás hétköznap gyakran fizetős.",
+          "Tervezze meg útvonalát, hogy elkerülje a csúcsforgalmat.",
+          "A parkolj és utazz (Park and Ride) szolgáltatások használata jó lehetőség lehet.",
+          "Tartson magánál aprópénzt a parkolóautomatákhoz."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului este adesea plătită în timpul săptămânii.",
+          "Planificați-vă ruta pentru a evita traficul de la orele de vârf.",
+          "Utilizarea serviciilor de tip park-and-ride poate fi o opțiune bună.",
+          "Păstrați monede pentru automatele de parcare."
+        ],
+        "en": [
+          "City centre parking is often paid on weekdays.",
+          "Plan your route to avoid rush hour traffic.",
+          "Using park-and-ride services can be a good option.",
+          "Keep change handy for parking meters."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Lisburn Bus Centre",
+            "hu": "Lisburn buszpályaudvar",
+            "ro": "Autogara Lisburn",
+            "en": "Lisburn Bus Centre"
+          },
+          "coords": [
+            -6.046,
+            54.5115
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ihr Ausgangspunkt. Von hier aus ist das Stadtzentrum nur einen kurzen Spaziergang entfernt.",
+            "hu": "Az Ön kiindulópontja. Innen a városközpont csak egy rövid séta.",
+            "ro": "Punctul dumneavoastră de plecare. Centrul orașului este la o scurtă plimbare de aici.",
+            "en": "Your starting point. The city centre is a short walk from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Castle Street & Kathedrale",
+            "hu": "Castle Street és Székesegyház",
+            "ro": "Strada Castelului & Catedrala",
+            "en": "Castle Street & Cathedral"
+          },
+          "coords": [
+            -6.043,
+            54.5126
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:16",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der erste Cluster von Sehenswürdigkeiten, die alle zu Fuß erreichbar sind.",
+            "hu": "Az első látnivalócsoport, mind gyalogosan elérhető.",
+            "ro": "Primul grup de atracții, toate la distanță de mers pe jos.",
+            "en": "The first cluster of attractions, all walkable."
+          }
+        },
+        {
+          "name": {
+            "de": "Irisches Leinenzentrum & Lisburn Museum",
+            "hu": "Ír Vászon Központ és Lisburn Múzeum",
+            "ro": "Centrul Inului Irlandez & Muzeul Lisburn",
+            "en": "Irish Linen Centre & Lisburn Museum"
+          },
+          "coords": [
+            -6.0445,
+            54.5135
+          ],
+          "category": "museums",
+          "arrive_at": "10:48",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie Lisburns berühmtestes Erbe.",
+            "hu": "Fedezze fel Lisburn leghíresebb örökségét.",
+            "ro": "Descoperiți cea mai faimoasă moștenire a Lisburnului.",
+            "en": "Discover Lisburn's most famous heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Castle Gardens",
+            "hu": "Várkert",
+            "ro": "Grădinile Castelului",
+            "en": "Castle Gardens"
+          },
+          "coords": [
+            -6.041,
+            54.514
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zeit für eine Mittagspause in diesem zentralen Park.",
+            "hu": "Ideje egy ebédszünetre ebben a központi parkban.",
+            "ro": "Timpul pentru o pauză de prânz în acest parc central.",
+            "en": "Time for a lunch break in this central park."
+          }
+        },
+        {
+          "name": {
+            "de": "Island Arts Centre",
+            "hu": "Island Művészeti Központ",
+            "ro": "Centrul de Arte Island",
+            "en": "Island Arts Centre"
+          },
+          "coords": [
+            -6.035,
+            54.515
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.1,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus für die kurze Fahrt über den Fluss.",
+            "hu": "Vegyen igénybe egy buszt a rövid útra a folyón át.",
+            "ro": "Luați un autobuz pentru scurta călătorie peste râu.",
+            "en": "Take a bus for the short hop across the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Wallace Park",
+            "hu": "Wallace Park",
+            "ro": "Parcul Wallace",
+            "en": "Wallace Park"
+          },
+          "coords": [
+            -6.055,
+            54.518
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine weitere kurze Busfahrt bringt Sie zu diesem weitläufigen Park.",
+            "hu": "Egy másik rövid buszút elviszi Önt ehhez a tágas parkhoz.",
+            "ro": "O altă călătorie scurtă cu autobuzul vă duce la acest parc extins.",
+            "en": "Another short bus ride takes you to this expansive park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie am Buszentrum und gehen Sie zum historischen Zentrum von Lisburn. Der Morgen ist dem Spaziergang zwischen der Kathedrale, dem Leinenzentrum und den Castle Gardens gewidmet, wo Sie zu Mittag essen. Am Nachmittag bringt Sie ein Bus zum Island Arts Centre für einen kulturellen Besuch. Eine weitere Busfahrt führt Sie zum Wallace Park für einen entspannten Spaziergang. Der Tag endet bequem mit einer Rückfahrt zum Buszentrum von einer nahegelegenen Haltestelle.",
+        "hu": "Kezdje a buszpályaudvaron, és sétáljon be Lisburn történelmi központjába. A délelőtt a székesegyház, a Vászon Központ és a Várkert közötti sétával telik, ahol ebédelhet. Délután egy busz elviszi Önt az Island Művészeti Központba egy kulturális látogatásra. Egy másik buszút a Wallace Parkba vezet egy pihentető sétára. A nap kényelmesen zárul, visszatérve a buszpályaudvarra egy közeli megállóból.",
+        "ro": "Începeți de la autogară și mergeți pe jos în centrul istoric al Lisburnului. Dimineața este dedicată plimbării între catedrală, Centrul Inului și Grădinile Castelului, unde luați prânzul. După-amiaza, un autobuz vă duce la Centrul de Arte Island pentru o doză de cultură. O altă călătorie cu autobuzul vă transportă la Parcul Wallace pentru o plimbare relaxantă. Ziua se încheie convenabil, întorcându-vă la autogară de la o stație din apropiere.",
+        "en": "Start at the bus centre and walk into Lisburn's historic core. The morning is spent in a walking cluster between the cathedral, the Linen Centre, and Castle Gardens, where you'll have lunch. In the afternoon, a bus takes you to the Island Arts Centre for a cultural visit. Another bus journey transports you to Wallace Park for a relaxing stroll. The day ends conveniently by returning to the bus centre from a nearby stop."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Greggs",
+            "tip": "In der Nähe des Buszentrums für einen schnellen, günstigen Snack."
+          },
+          {
+            "name": "The Governor's Cafe",
+            "tip": "Im Museum gelegen, ideal für einen Kaffee während Ihres Besuchs."
+          },
+          {
+            "name": "Botanic",
+            "tip": "Bietet gesunde Mittagessenoptionen im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Greggs",
+            "tip": "A buszpályaudvar közelében egy gyors, olcsó harapnivalóért."
+          },
+          {
+            "name": "The Governor's Cafe",
+            "tip": "A múzeumban található, ideális egy kávéra a látogatás során."
+          },
+          {
+            "name": "Botanic",
+            "tip": "Egészséges ebédlehetőségeket kínál a belvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Greggs",
+            "tip": "Aproape de autogară pentru o gustare rapidă și ieftină."
+          },
+          {
+            "name": "The Governor's Cafe",
+            "tip": "Situată în muzeu, ideală pentru o cafea în timpul vizitei."
+          },
+          {
+            "name": "Botanic",
+            "tip": "Oferă opțiuni de prânz sănătoase în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Greggs",
+            "tip": "Near the bus centre for a quick, cheap snack."
+          },
+          {
+            "name": "The Governor's Cafe",
+            "tip": "Located in the museum, great for a coffee during your visit."
+          },
+          {
+            "name": "Botanic",
+            "tip": "Offers healthy lunch options in the city centre."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obere Etage eines Doppeldeckerbusses",
+            "tip": "Genießen Sie die Aussicht auf die Stadt aus einer anderen Perspektive.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lagan Riverside",
+            "tip": "Steigen Sie in der Nähe des Flusses aus und finden Sie einen ruhigen Ort.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Wallace Park Fernery",
+            "tip": "Ein ruhiger und grüner Ort im Park.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy emeletes busz felső szintje",
+            "tip": "Élvezze a város látképét más szemszögből.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lagan folyópart",
+            "tip": "Szálljon le a folyó közelében, és keressen egy csendes helyet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Wallace Park páfrányház",
+            "tip": "Csendes és zöld hely a parkban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etajul superior al unui autobuz supraetajat",
+            "tip": "Bucurați-vă de priveliștea orașului dintr-o perspectivă diferită.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malul râului Lagan",
+            "tip": "Coborâți lângă râu și găsiți un loc liniștit.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Feriga din Parcul Wallace",
+            "tip": "Un loc liniștit și verde în interiorul parcului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Top floor of a double-decker bus",
+            "tip": "Enjoy views of the city from a different perspective.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lagan Riverside",
+            "tip": "Hop off near the river and find a quiet spot.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Wallace Park Fernery",
+            "tip": "A quiet and green spot inside the park.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Bow Street",
+            "tip": "Leicht erreichbar vom Buszentrum."
+          },
+          {
+            "name": "Laganview Retail Park",
+            "tip": "Prüfen Sie, ob Buslinien zu diesem Einkaufszentrum in der Nähe fahren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bow Street üzletei",
+            "tip": "Könnyen megközelíthető a buszpályaudvarról."
+          },
+          {
+            "name": "Laganview Retail Park",
+            "tip": "Ellenőrizze, hogy a buszjáratok megállnak-e a közeli bevásárlóparknál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele de pe Strada Bow",
+            "tip": "Ușor accesibil de la autogară."
+          },
+          {
+            "name": "Parcul Comercial Laganview",
+            "tip": "Verificați dacă rutele de autobuz deservesc acest parc comercial din apropiere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bow Street shops",
+            "tip": "Easily walkable from the bus centre."
+          },
+          {
+            "name": "Laganview Retail Park",
+            "tip": "Check if bus routes serve this nearby retail park."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Laden Sie eine lokale ÖPNV-App herunter, um Fahrpläne und Routen in Echtzeit zu verfolgen.",
+          "Die Busse in Nordirland sind in der Regel rot. Suchen Sie nach Translink Ulsterbus.",
+          "Geben Sie dem Fahrer ein Zeichen, wenn Ihr Bus naht."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Töltsön le egy helyi tömegközlekedési alkalmazást a valós idejű menetrendek és útvonalak követéséhez.",
+          "Észak-Írországban a buszok általában pirosak. Keresse a Translink Ulsterbus-t.",
+          "Intsen a sofőrnek, amikor a busza közeledik."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Descărcați o aplicație locală de transport public pentru orare și rute în timp real.",
+          "Autobuzele din Irlanda de Nord sunt de obicei roșii; căutați Translink Ulsterbus.",
+          "Semnalizați șoferului când se apropie autobuzul dumneavoastră."
+        ],
+        "en": [
+          "Purchase a day ticket for unlimited travel.",
+          "Download a local transit app for real-time timetables and routes.",
+          "Buses in Northern Ireland are typically red; look for Translink Ulsterbus.",
+          "Signal the driver when you see your bus approaching."
+        ]
+      }
+    }
+  }
+}

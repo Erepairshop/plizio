@@ -1,0 +1,1473 @@
+{
+  "city_id": "greece-metsovo-cities-v2",
+  "anchor": {
+    "name": "Metsovo",
+    "coords": [
+      21.1833,
+      39.7667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentralplatz von Metsovo",
+            "hu": "Mecovó központi tere",
+            "ro": "Piața Centrală din Metsovo",
+            "en": "Central Square of Metsovo"
+          },
+          "coords": [
+            21.1836,
+            39.7669
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee und beobachten Sie das lokale Leben.",
+            "hu": "Kezdje a napot egy kávéval, és figyelje a helyi életet.",
+            "ro": "Începeți ziua cu o cafea și observați viața locală.",
+            "en": "Start your day with a coffee and watch the local life unfold."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agia Paraskevi",
+            "hu": "Agia Paraskevi templom",
+            "ro": "Biserica Agia Paraskevi",
+            "en": "Church of Agia Paraskevi"
+          },
+          "coords": [
+            21.1825,
+            39.7675
+          ],
+          "category": "churches",
+          "arrive_at": "09:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Holzschnitzereien im Inneren der Kirche.",
+            "hu": "Csodálja meg a templom belsejében található fafaragásokat.",
+            "ro": "Admirați sculpturile detaliate în lemn din interiorul bisericii.",
+            "en": "Admire the detailed wood carvings inside the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Tositsa Herrenhaus",
+            "hu": "Tositsa-kúria",
+            "ro": "Conacul Tositsa",
+            "en": "Tositsa Mansion"
+          },
+          "coords": [
+            21.1819,
+            39.7671
+          ],
+          "category": "museums",
+          "arrive_at": "10:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein faszinierender Einblick in das Leben einer reichen Familie des 19. Jahrhunderts.",
+            "hu": "Lenyűgöző bepillantás egy 19. századi gazdag család életébe.",
+            "ro": "O privire fascinantă în viața unei familii bogate din secolul al XIX-lea.",
+            "en": "A fascinating glimpse into the life of a wealthy 19th-century family."
+          }
+        },
+        {
+          "name": {
+            "de": "Averoff-Museum für Neugriechische Kunst",
+            "hu": "Averoff Újgörög Művészeti Múzeum",
+            "ro": "Muzeul de Artă Neoelenă Averoff",
+            "en": "Averoff Museum of Neo-Hellenic Art"
+          },
+          "coords": [
+            21.1805,
+            39.7682
+          ],
+          "category": "museums",
+          "arrive_at": "11:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Werke griechischer Maler des 19. und 20. Jahrhunderts.",
+            "hu": "Fókuszáljon a 19. és 20. századi görög festők műveire.",
+            "ro": "Concentrați-vă pe lucrările pictorilor greci din secolele XIX și XX.",
+            "en": "Focus on the works of 19th and 20th-century Greek painters."
+          }
+        },
+        {
+          "name": {
+            "de": "Averoff Garten",
+            "hu": "Averoff-kert",
+            "ro": "Grădina Averoff",
+            "en": "Averoff Garden"
+          },
+          "coords": [
+            21.1795,
+            39.7688
+          ],
+          "category": "parks",
+          "arrive_at": "13:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für eine Mittagspause und um die Ruhe zu genießen.",
+            "hu": "Tökéletes hely egy ebédszünetre és a csend élvezetére.",
+            "ro": "Un loc perfect pentru o pauză de prânz și pentru a vă bucura de liniște.",
+            "en": "A perfect spot for a lunch break and to enjoy the tranquility."
+          }
+        },
+        {
+          "name": {
+            "de": "Katogi Averoff Weingut",
+            "hu": "Katogi Averoff Pincészet",
+            "ro": "Crama Katogi Averoff",
+            "en": "Katogi Averoff Winery"
+          },
+          "coords": [
+            21.1885,
+            39.7655
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Buchen Sie eine Führung, um die einzigartigen Weinkeller zu sehen und den Wein zu probieren.",
+            "hu": "Foglaljon vezetett túrát, hogy megnézze az egyedi borospincéket és bort kóstoljon.",
+            "ro": "Rezervați un tur pentru a vedea pivnițele unice și a degusta vinul.",
+            "en": "Book a tour to see the unique cellars and taste the wine."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Metsovo beginnt auf dem belebten Zentralplatz, dem Herzen der Stadt. Am Vormittag erkunden Sie das reiche kulturelle Erbe, indem Sie die historische Kirche Agia Paraskevi und das beeindruckende Tositsa Herrenhaus besuchen, das einen Einblick in das traditionelle Leben bietet. Nach dem Mittagessen tauchen Sie in die Welt der Kunst im Averoff-Museum ein, gefolgt von einer entspannenden Zeit im ruhigen Averoff Garten. Der Nachmittag ist der Weinkultur gewidmet mit einem Besuch des berühmten Katogi Averoff Weinguts, wo Sie die lokalen Aromen entdecken können. Der Abend klingt perfekt bei einem herzhaften Abendessen in einer traditionellen Taverne aus, wo Sie die Spezialitäten der Region genießen können.",
+        "hu": "A nap Mecovóban a város szívében, a nyüzsgő központi téren kezdődik. Délelőtt fedezze fel a gazdag kulturális örökséget az Agia Paraskevi templom és a lenyűgöző Tositsa-kúria meglátogatásával. Ebéd után merüljön el a művészet világában az Averoff Múzeumban, majd pihenjen a csendes Averoff-kertben. A délután a borkultúráról szól a híres Katogi Averoff Pincészetben, ahol felfedezheti a helyi ízeket. Az estét egy kiadós vacsora zárja egy hagyományos tavernában, ahol megkóstolhatja a régió specialitásait.",
+        "ro": "Ziua dvs. în Metsovo începe în Piața Centrală, inima orașului. Dimineața explorați bogata moștenire culturală vizitând biserica istorică Agia Paraskevi și impresionantul Conac Tositsa. După prânz, scufundați-vă în lumea artei la Muzeul Averoff, urmat de o perioadă de relaxare în liniștita Grădină Averoff. După-amiaza este dedicată culturii vinului cu o vizită la renumita Cramă Katogi Averoff, unde puteți descoperi aromele locale. Seara se încheie perfect cu o cină consistentă la o tavernă tradițională, savurând specialitățile regiunii.",
+        "en": "Your day in Metsovo begins at the bustling Central Square, the heart of the town. In the morning, you'll explore the rich cultural heritage by visiting the historic Church of Agia Paraskevi and the impressive Tositsa Mansion. After lunch, immerse yourself in the world of art at the Averoff Museum, followed by a relaxing time in the tranquil Averoff Garden. The afternoon is dedicated to wine culture with a visit to the famous Katogi Averoff Winery, where you can discover the local flavors. The evening concludes perfectly with a hearty dinner at a traditional tavern, enjoying the region's specialties."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Metsovone-Käse",
+            "tip": "Probieren Sie diesen geräucherten Käse gegrillt als 'Saganaki'."
+          },
+          {
+            "name": "Lammkoteletts",
+            "tip": "Die Lammgerichte sind eine lokale Spezialität, besonders vom Grill."
+          },
+          {
+            "name": "Pites (Pasteten)",
+            "tip": "Suchen Sie nach handgemachten Pasteten mit Käse (Kasopita) oder Gemüse (Chortopita)."
+          },
+          {
+            "name": "Katogi Averoff Wein",
+            "tip": "Ein Glas des lokalen Rotweins passt perfekt zu Fleischgerichten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Metsovone sajt",
+            "tip": "Kóstolja meg ezt a füstölt sajtot grillezve, 'Saganaki'-ként."
+          },
+          {
+            "name": "Bárányborda",
+            "tip": "A bárányételek helyi specialitásnak számítanak, különösen grillezve."
+          },
+          {
+            "name": "Pités (piték)",
+            "tip": "Keressen kézzel készített pitéket sajttal (Kasopita) vagy zöldségekkel (Chortopita)."
+          },
+          {
+            "name": "Katogi Averoff bor",
+            "tip": "Egy pohár helyi vörösbor tökéletesen illik a húsételekhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză Metsovone",
+            "tip": "Încercați această brânză afumată la grătar, ca 'Saganaki'."
+          },
+          {
+            "name": "Coaste de miel",
+            "tip": "Mâncărurile din miel sunt o specialitate locală, în special la grătar."
+          },
+          {
+            "name": "Pites (plăcinte)",
+            "tip": "Căutați plăcinte făcute manual cu brânză (Kasopita) sau verdețuri (Chortopita)."
+          },
+          {
+            "name": "Vin Katogi Averoff",
+            "tip": "Un pahar de vin roșu local se potrivește perfect cu preparatele din carne."
+          }
+        ],
+        "en": [
+          {
+            "name": "Metsovone Cheese",
+            "tip": "Try this smoked cheese grilled as 'Saganaki'."
+          },
+          {
+            "name": "Lamb Chops",
+            "tip": "The lamb dishes are a local specialty, especially grilled."
+          },
+          {
+            "name": "Pites (Pies)",
+            "tip": "Look for handmade pies with cheese (Kasopita) or greens (Chortopita)."
+          },
+          {
+            "name": "Katogi Averoff Wine",
+            "tip": "A glass of the local red wine pairs perfectly with meat dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Averoff Garten",
+            "tip": "Ein ruhiger, schattiger Ort, um dem Trubel zu entfliehen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kloster Agios Nikolaos",
+            "tip": "Die friedliche Atmosphäre und die Aussicht sind die Wanderung wert.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Bänke mit Aussicht",
+            "tip": "Finden Sie eine Bank am Rande der Stadt für einen Panoramablick auf die Pindos-Berge.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Averoff-kert",
+            "tip": "Csendes, árnyékos hely, ahol elmenekülhet a nyüzsgés elől.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Agios Nikolaos kolostor",
+            "tip": "A békés légkör és a kilátás megéri a sétát.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Padok kilátással",
+            "tip": "Keressen egy padot a város szélén, ahonnan panorámás kilátás nyílik a Pindosz-hegységre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Averoff",
+            "tip": "Un loc liniștit și umbros pentru a evada din agitație.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Mănăstirea Agios Nikolaos",
+            "tip": "Atmosfera pașnică și priveliștea merită drumeția.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Bănci cu vedere",
+            "tip": "Găsiți o bancă la marginea orașului pentru o vedere panoramică a Munților Pindului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Averoff Garden",
+            "tip": "A quiet, shady place to escape the bustle.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Monastery of Agios Nikolaos",
+            "tip": "The peaceful atmosphere and the views are worth the walk.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Benches with a View",
+            "tip": "Find a bench on the edge of town for a panoramic view of the Pindus Mountains.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Käsereien",
+            "tip": "Kaufen Sie Metsovone- und Metsovela-Käse direkt von den Herstellern."
+          },
+          {
+            "name": "Holzschnitzereien",
+            "tip": "Metsovo ist bekannt für seine Handwerker; suchen Sie nach einzigartigen Souvenirs."
+          },
+          {
+            "name": "Weingeschäfte",
+            "tip": "Nehmen Sie eine Flasche Katogi Averoff als Andenken mit nach Hause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi sajtkészítők",
+            "tip": "Vásároljon Metsovone és Metsovela sajtot közvetlenül a termelőktől."
+          },
+          {
+            "name": "Fafaragások",
+            "tip": "Mecovó híres kézműveseiről; keressen egyedi ajándéktárgyakat."
+          },
+          {
+            "name": "Borboltok",
+            "tip": "Vigyen haza egy üveg Katogi Averoff bort emlékként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de brânzeturi locale",
+            "tip": "Cumpărați brânză Metsovone și Metsovela direct de la producători."
+          },
+          {
+            "name": "Sculpturi în lemn",
+            "tip": "Metsovo este renumit pentru artizanii săi; căutați suveniruri unice."
+          },
+          {
+            "name": "Magazine de vinuri",
+            "tip": "Luați acasă o sticlă de Katogi Averoff ca amintire."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Cheese Shops",
+            "tip": "Buy Metsovone and Metsovela cheese directly from the producers."
+          },
+          {
+            "name": "Wood Carvings",
+            "tip": "Metsovo is known for its craftsmen; look for unique souvenirs."
+          },
+          {
+            "name": "Wine Shops",
+            "tip": "Take home a bottle of Katogi Averoff as a memento."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Straßen steil und gepflastert sind.",
+          "Die Vormittage können kühl sein, auch im Sommer, also bringen Sie eine leichte Jacke mit.",
+          "Die meisten Geschäfte und Museen haben eine Mittagspause, planen Sie also entsprechend.",
+          "Probieren Sie das Leitungswasser, es kommt frisch aus den Bergen und ist köstlich."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert az utcák meredekek és macskakövesek.",
+          "A délelőttök hűvösek lehetnek, még nyáron is, ezért hozzon magával egy könnyű dzsekit.",
+          "A legtöbb üzlet és múzeum ebédszünetet tart, tervezzen ennek megfelelően.",
+          "Kóstolja meg a csapvizet, frissen a hegyekből jön és finom."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece străzile sunt abrupte și pavate.",
+          "Diminețile pot fi răcoroase, chiar și vara, așa că aduceți o jachetă ușoară.",
+          "Majoritatea magazinelor și muzeelor au o pauză de prânz, așa că planificați-vă în consecință.",
+          "Încercați apa de la robinet, vine proaspătă din munți și este delicioasă."
+        ],
+        "en": [
+          "Wear comfortable shoes as the streets are steep and cobbled.",
+          "Mornings can be cool, even in summer, so bring a light jacket.",
+          "Most shops and museums have a lunch break, so plan accordingly.",
+          "Try the tap water; it comes fresh from the mountains and is delicious."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 11.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentralplatz von Metsovo",
+            "hu": "Mecovó központi tere",
+            "ro": "Piața Centrală din Metsovo",
+            "en": "Central Square of Metsovo"
+          },
+          "coords": [
+            21.1836,
+            39.7669
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der ideale Ausgangspunkt, um die Atmosphäre der Stadt aufzusaugen.",
+            "hu": "Ideális kiindulópont a város hangulatának magába szívásához.",
+            "ro": "Punctul de plecare ideal pentru a absorbi atmosfera orașului.",
+            "en": "The ideal starting point to soak up the town's atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Averoff Garten",
+            "hu": "Averoff-kert",
+            "ro": "Grădina Averoff",
+            "en": "Averoff Garden"
+          },
+          "coords": [
+            21.1795,
+            39.7688
+          ],
+          "category": "parks",
+          "arrive_at": "09:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Pause und genießen Sie die kühle Bergluft.",
+            "hu": "Tartson egy rövid szünetet és élvezze a hűs hegyi levegőt.",
+            "ro": "Faceți o scurtă pauză și bucurați-vă de aerul răcoros de munte.",
+            "en": "Take a short break and enjoy the cool mountain air."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Agios Nikolaos",
+            "hu": "Agios Nikolaos kolostor",
+            "ro": "Mănăstirea Agios Nikolaos",
+            "en": "Monastery of Agios Nikolaos"
+          },
+          "coords": [
+            21.189,
+            39.774
+          ],
+          "category": "churches",
+          "arrive_at": "10:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Die Radtour hierher ist anspruchsvoll, aber die Aussicht und die Ruhe sind es wert.",
+            "hu": "A biciklizés ide kihívást jelent, de a kilátás és a csend megéri.",
+            "ro": "Plimbarea cu bicicleta până aici este solicitantă, dar priveliștea și liniștea merită.",
+            "en": "The bike ride here is challenging, but the views and tranquility are worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Metsovo Ski Center (Aussichtspunkt)",
+            "hu": "Mecovói Síközpont (kilátó)",
+            "ro": "Centrul de schi Metsovo (punct de belvedere)",
+            "en": "Metsovo Ski Center (Viewpoint)"
+          },
+          "coords": [
+            21.16,
+            39.77
+          ],
+          "category": "parks",
+          "arrive_at": "12:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 4.7,
+          "tip_5lang": {
+            "de": "Auch ohne Schnee ist die Aussicht fantastisch. Ideal für ein Picknick-Mittagessen.",
+            "hu": "Hó nélkül is fantasztikus a kilátás. Ideális egy piknik ebédhez.",
+            "ro": "Chiar și fără zăpadă, priveliștea este fantastică. Ideal pentru un prânz la picnic.",
+            "en": "Even without snow, the views are fantastic. Ideal for a picnic lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Katogi Averoff Weingut",
+            "hu": "Katogi Averoff Pincészet",
+            "ro": "Crama Katogi Averoff",
+            "en": "Katogi Averoff Winery"
+          },
+          "coords": [
+            21.1885,
+            39.7655
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:24",
+          "stay_min": 100,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Belohnen Sie sich nach der Radtour mit einer Weinprobe.",
+            "hu": "Jutalmazza meg magát egy borkóstolóval a biciklitúra után.",
+            "ro": "Recompensați-vă cu o degustare de vinuri după plimbarea cu bicicleta.",
+            "en": "Reward yourself with a wine tasting after the bike ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Zentralplatz von Metsovo, bevor Sie zum ruhigen Averoff Garten radeln. Am Vormittag erwartet Sie eine anspruchsvolle, aber lohnende Fahrt zum Kloster Agios Nikolaos mit seiner spirituellen Atmosphäre. Gegen Mittag erreichen Sie das Skizentrum von Metsovo, wo Sie auch im Sommer eine atemberaubende Aussicht und einen idealen Ort für ein Picknick finden. Nach dem Mittagessen rollen Sie bergab zum berühmten Katogi Averoff Weingut für eine wohlverdiente Weinprobe. Der Abend ist perfekt, um die müden Muskeln in einer lokalen Taverne bei herzhaften Speisen und einem letzten Glas Wein zu entspannen.",
+        "hu": "Kezdje a biciklitúrát Mecovó központi teréről, mielőtt a csendes Averoff-kerthez tekerne. Délelőtt egy kihívásokkal teli, de annál hálásabb út vár az Agios Nikolaos kolostorhoz. Dél körül éri el a Mecovói Síközpontot, ahol nyáron is lélegzetelállító kilátás és ideális piknikezőhely fogadja. Ebéd után guruljon le a híres Katogi Averoff Pincészethez egy jól megérdemelt borkóstolóra. Az este tökéletes alkalom a fáradt izmok pihentetésére egy helyi tavernában, bőséges ételek és egy utolsó pohár bor mellett.",
+        "ro": "Începeți turul cu bicicleta din Piața Centrală a Metsovo, înainte de a pedala spre liniștita Grădină Averoff. Dimineața vă așteaptă o plimbare provocatoare, dar plină de satisfacții, la Mănăstirea Agios Nikolaos. Pe la prânz, ajungeți la Centrul de Schi Metsovo, unde veți găsi o priveliște uluitoare și un loc ideal pentru picnic, chiar și vara. După prânz, coborâți spre renumita Cramă Katogi Averoff pentru o degustare de vinuri binemeritată. Seara este perfectă pentru a vă relaxa mușchii obosiți la o tavernă locală, cu mâncăruri consistente și un ultim pahar de vin.",
+        "en": "Start your bike tour from Metsovo's Central Square before cycling to the serene Averoff Garden. In the morning, a challenging but rewarding ride awaits you to the Monastery of Agios Nikolaos. Around noon, you'll reach the Metsovo Ski Center, where you'll find a breathtaking view and an ideal picnic spot even in summer. After lunch, roll downhill to the famous Katogi Averoff Winery for a well-deserved wine tasting. The evening is perfect for relaxing your tired muscles at a local tavern with hearty food and a final glass of wine."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Energie-Snacks",
+            "tip": "Lokale Bäckereien bieten 'Koulouria' (Sesamringe) an, perfekt für unterwegs."
+          },
+          {
+            "name": "Gegrilltes Fleisch",
+            "tip": "Nach einer langen Radtour gibt es nichts Besseres als 'Kontosouvli' (gegrillter Fleischspieß)."
+          },
+          {
+            "name": "Metsovela-Käse",
+            "tip": "Ein milder, halbharter Käse, der gut zu Brot und Obst passt."
+          },
+          {
+            "name": "Bergtee",
+            "tip": "Erfrischen Sie sich mit einem 'Tsai tou vounou', heiß oder kalt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Energia snackek",
+            "tip": "A helyi pékségek 'Koulouria'-t (szezámmagos karikát) kínálnak, tökéletes útközben."
+          },
+          {
+            "name": "Grillezett húsok",
+            "tip": "Egy hosszú biciklitúra után nincs is jobb, mint a 'Kontosouvli' (grillezett húsnyárs)."
+          },
+          {
+            "name": "Metsovela sajt",
+            "tip": "Enyhe, félkemény sajt, amely jól illik kenyérhez és gyümölcshöz."
+          },
+          {
+            "name": "Hegyi tea",
+            "tip": "Frissítse fel magát egy 'Tsai tou vounou'-val, forrón vagy hidegen."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gustări energizante",
+            "tip": "Brutăriile locale oferă 'Koulouria' (inele de susan), perfecte pentru drum."
+          },
+          {
+            "name": "Carne la grătar",
+            "tip": "După o plimbare lungă cu bicicleta, nimic nu este mai bun decât 'Kontosouvli' (frigăruie la grătar)."
+          },
+          {
+            "name": "Brânză Metsovela",
+            "tip": "O brânză semitare, blândă, care merge bine cu pâine și fructe."
+          },
+          {
+            "name": "Ceai de munte",
+            "tip": "Răcoriți-vă cu un 'Tsai tou vounou', cald sau rece."
+          }
+        ],
+        "en": [
+          {
+            "name": "Energy Snacks",
+            "tip": "Local bakeries offer 'Koulouri' (sesame rings), perfect for on the go."
+          },
+          {
+            "name": "Grilled Meats",
+            "tip": "After a long bike ride, nothing beats 'Kontosouvli' (grilled meat skewer)."
+          },
+          {
+            "name": "Metsovela Cheese",
+            "tip": "A mild, semi-hard cheese that goes well with bread and fruit."
+          },
+          {
+            "name": "Mountain Tea",
+            "tip": "Refresh yourself with a 'Tsai tou vounou', hot or cold."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussicht vom Ski-Center",
+            "tip": "Ein endloser Blick über die Gipfel des Pindos-Gebirges.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hof des Klosters Agios Nikolaos",
+            "tip": "Ein Ort der Stille und Besinnung nach einem steilen Anstieg.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Am Fluss Aoos",
+            "tip": "Wenn Sie weiter radeln, finden Sie ruhige Plätze am Flussufer.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a síközpontból",
+            "tip": "Végtelen kilátás a Pindosz-hegység csúcsaira.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Az Agios Nikolaos kolostor udvara",
+            "tip": "A csend és az elmélkedés helye egy meredek emelkedő után.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Az Aoos folyó mellett",
+            "tip": "Ha tovább teker, csendes helyeket talál a folyóparton.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la Centrul de Schi",
+            "tip": "O priveliște nesfârșită asupra vârfurilor Munților Pindus.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea Mănăstirii Agios Nikolaos",
+            "tip": "Un loc de liniște și reflecție după o urcare abruptă.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Pe malul râului Aoos",
+            "tip": "Dacă pedalați mai departe, veți găsi locuri liniștite pe malul râului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the Ski Center",
+            "tip": "An endless view over the peaks of the Pindus Mountains.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Courtyard of Agios Nikolaos Monastery",
+            "tip": "A place of silence and reflection after a steep climb.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "By the Aoos River",
+            "tip": "If you cycle further, you'll find quiet spots along the riverbank.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Nudeln",
+            "tip": "Suchen Sie nach 'Chylopites', traditionelle Eiernudeln."
+          },
+          {
+            "name": "Handgewebte Textilien",
+            "tip": "Einige Geschäfte verkaufen Teppiche und Decken mit traditionellen Mustern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi tésztafélék",
+            "tip": "Keressen 'Chylopites'-t, a hagyományos tojásos tésztát."
+          },
+          {
+            "name": "Kézzel szőtt textíliák",
+            "tip": "Néhány üzletben hagyományos mintájú szőnyegeket és takarókat árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paste locale",
+            "tip": "Căutați 'Chylopites', tăiței tradiționali cu ou."
+          },
+          {
+            "name": "Textile țesute manual",
+            "tip": "Unele magazine vând covoare și pături cu modele tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Noodles",
+            "tip": "Look for 'Chylopites', traditional egg noodles."
+          },
+          {
+            "name": "Handwoven Textiles",
+            "tip": "Some shops sell rugs and blankets with traditional patterns."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Metsovo ist bergig. Ein E-Bike wird dringend empfohlen, wenn Sie kein erfahrener Radfahrer sind.",
+          "Tragen Sie einen Helm und seien Sie auf steile Anstiege und Abfahrten vorbereitet.",
+          "Nehmen Sie viel Wasser und einige Snacks für die längeren Strecken mit.",
+          "Überprüfen Sie die Öffnungszeiten des Weinguts und des Klosters im Voraus."
+        ],
+        "hu": [
+          "Mecovó hegyvidéki terület. E-bike erősen ajánlott, ha nem tapasztalt kerékpáros.",
+          "Viseljen sisakot, és készüljön fel a meredek emelkedőkre és lejtőkre.",
+          "Vigyen magával sok vizet és néhány harapnivalót a hosszabb szakaszokra.",
+          "Előre ellenőrizze a pincészet és a kolostor nyitvatartási idejét."
+        ],
+        "ro": [
+          "Metsovo este muntos. O bicicletă electrică este puternic recomandată dacă nu sunteți un ciclist experimentat.",
+          "Purtați cască și fiți pregătiți pentru urcări și coborâri abrupte.",
+          "Luați multă apă și câteva gustări pentru segmentele mai lungi.",
+          "Verificați în avans programul de funcționare al cramei și mănăstirii."
+        ],
+        "en": [
+          "Metsovo is mountainous. An e-bike is strongly recommended if you are not an experienced cyclist.",
+          "Wear a helmet and be prepared for steep ascents and descents.",
+          "Take plenty of water and some snacks for the longer stretches.",
+          "Check the opening hours of the winery and monastery in advance."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:54",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Metsovo Ski Center",
+            "hu": "Mecovói Síközpont",
+            "ro": "Centrul de schi Metsovo",
+            "en": "Metsovo Ski Center"
+          },
+          "coords": [
+            21.16,
+            39.77
+          ],
+          "category": "parks",
+          "arrive_at": "09:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit der frischen Bergluft und der Panoramaaussicht.",
+            "hu": "Kezdje a napot a friss hegyi levegővel és a panorámás kilátással.",
+            "ro": "Începeți ziua cu aerul proaspăt de munte și priveliștea panoramică.",
+            "en": "Start the day with the fresh mountain air and panoramic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Agios Nikolaos",
+            "hu": "Agios Nikolaos kolostor",
+            "ro": "Mănăstirea Agios Nikolaos",
+            "en": "Monastery of Agios Nikolaos"
+          },
+          "coords": [
+            21.189,
+            39.774
+          ],
+          "category": "churches",
+          "arrive_at": "10:32",
+          "stay_min": 50,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein Ort der Ruhe. Achten Sie auf die Fresken aus dem 17. Jahrhundert.",
+            "hu": "A nyugalom helye. Figyeljen a 17. századi freskókra.",
+            "ro": "Un loc de liniște. Fiți atenți la frescele din secolul al XVII-lea.",
+            "en": "A place of tranquility. Look for the 17th-century frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz im Zentrum & Mittagessen",
+            "hu": "Parkolás a központban és ebéd",
+            "ro": "Parcare în centru și prânz",
+            "en": "Central Parking & Lunch"
+          },
+          "coords": [
+            21.184,
+            39.766
+          ],
+          "category": "squares",
+          "arrive_at": "11:26",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie den Rest der Stadt zu Fuß. Genießen Sie ein Mittagessen.",
+            "hu": "Parkoljon le itt, és fedezze fel a város többi részét gyalog. Ebédeljen egy jót.",
+            "ro": "Parcați aici și explorați restul orașului pe jos. Savurați prânzul.",
+            "en": "Park here and explore the rest of the town on foot. Enjoy some lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentralplatz & Kirche Agia Paraskevi",
+            "hu": "Központi tér és Agia Paraskevi templom",
+            "ro": "Piața Centrală și Biserica Agia Paraskevi",
+            "en": "Central Square & Agia Paraskevi Church"
+          },
+          "coords": [
+            21.183,
+            39.767
+          ],
+          "category": "squares",
+          "arrive_at": "13:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erleben Sie das Herz von Metsovo und die beeindruckende Hauptkirche.",
+            "hu": "Tapasztalja meg Mecovó szívét és a lenyűgöző főtemplomot.",
+            "ro": "Experimentați inima Metsovo și biserica principală impresionantă.",
+            "en": "Experience the heart of Metsovo and its impressive main church."
+          }
+        },
+        {
+          "name": {
+            "de": "Averoff-Museum für Neugriechische Kunst",
+            "hu": "Averoff Újgörög Művészeti Múzeum",
+            "ro": "Muzeul de Artă Neoelenă Averoff",
+            "en": "Averoff Museum of Neo-Hellenic Art"
+          },
+          "coords": [
+            21.1805,
+            39.7682
+          ],
+          "category": "museums",
+          "arrive_at": "13:46",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eine der wichtigsten Sammlungen moderner griechischer Kunst.",
+            "hu": "A modern görög művészet egyik legfontosabb gyűjteménye.",
+            "ro": "Una dintre cele mai importante colecții de artă greacă modernă.",
+            "en": "One of the most important collections of modern Greek art."
+          }
+        },
+        {
+          "name": {
+            "de": "Tositsa Herrenhaus",
+            "hu": "Tositsa-kúria",
+            "ro": "Conacul Tositsa",
+            "en": "Tositsa Mansion"
+          },
+          "coords": [
+            21.1819,
+            39.7671
+          ],
+          "category": "museums",
+          "arrive_at": "15:32",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ergänzt den Museumsbesuch perfekt mit einem Einblick in die Volkskunst.",
+            "hu": "Tökéletesen kiegészíti a múzeumlátogatást a népművészetbe való bepillantással.",
+            "ro": "Completează perfect vizita la muzeu cu o incursiune în arta populară.",
+            "en": "Perfectly complements the museum visit with a glimpse into folk art."
+          }
+        },
+        {
+          "name": {
+            "de": "Katogi Averoff Weingut",
+            "hu": "Katogi Averoff Pincészet",
+            "ro": "Crama Katogi Averoff",
+            "en": "Katogi Averoff Winery"
+          },
+          "coords": [
+            21.1885,
+            39.7655
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:48",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Zentrum, um den Tag mit einer Weinprobe abzuschließen.",
+            "hu": "Rövid séta a központból, hogy egy borkóstolóval zárja a napot.",
+            "ro": "O scurtă plimbare de la centru pentru a încheia ziua cu o degustare de vin.",
+            "en": "A short walk from the center to end the day with a wine tasting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt mit einer Fahrt zum Metsovo Ski Center, um die Morgenfrische und die atemberaubende Aussicht zu genießen. Von dort aus fahren Sie zum friedlichen Kloster Agios Nikolaos. Gegen Mittag parken Sie Ihr Auto im Zentrum und erkunden den Rest des Tages zu Fuß. Nach einem gemütlichen Mittagessen tauchen Sie in die Kultur ein: der lebhafte Hauptplatz, die beeindruckende Kunst im Averoff-Museum und die traditionelle Atmosphäre im Tositsa Herrenhaus. Ein kurzer Spaziergang führt Sie am späten Nachmittag zum Katogi Averoff Weingut für eine abschließende Weinprobe, bevor Sie den Abend in einer der gemütlichen Tavernen ausklingen lassen.",
+        "hu": "Az autós nap a Mecovói Síközpontba való utazással kezdődik, hogy élvezze a reggeli frissességet és a lélegzetelállító kilátást. Onnan a békés Agios Nikolaos kolostorhoz hajt. Dél körül parkolja le autóját a központban, és a nap hátralévő részét gyalog fedezi fel. Egy kellemes ebéd után merüljön el a kultúrában: a nyüzsgő főtér, a lenyűgöző művészet az Averoff Múzeumban és a hagyományos hangulat a Tositsa-kúriában. Késő délután egy rövid séta vezet a Katogi Averoff Pincészethez egy záró borkóstolóra, mielőtt az estét az egyik hangulatos tavernában zárná.",
+        "ro": "Ziua cu mașina începe cu o excursie la Centrul de Schi Metsovo pentru a vă bucura de aerul proaspăt de dimineață și de priveliștile uluitoare. De acolo, conduceți spre liniștita Mănăstire Agios Nikolaos. Pe la prânz, parcați mașina în centru și explorați restul zilei pe jos. După un prânz pe îndelete, scufundați-vă în cultură: piața principală plină de viață, arta impresionantă de la Muzeul Averoff și atmosfera tradițională de la Conacul Tositsa. O scurtă plimbare vă duce după-amiaza târziu la Crama Katogi Averoff pentru o degustare finală de vinuri, înainte de a încheia seara la una dintre tavernele primitoare.",
+        "en": "Your car day begins with a drive to the Metsovo Ski Center to enjoy the morning freshness and breathtaking views. From there, you'll drive to the peaceful Monastery of Agios Nikolaos. Around noon, park your car in the center and explore for the rest of the day on foot. After a leisurely lunch, immerse yourself in culture: the lively main square, the impressive art at the Averoff Museum, and the traditional atmosphere at the Tositsa Mansion. A short walk in the late afternoon takes you to the Katogi Averoff Winery for a final wine tasting before you end the evening in one of the cozy taverns."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Wildschwein-Eintopf",
+            "tip": "Eine herzhafte Spezialität, die oft in den Wintermonaten angeboten wird."
+          },
+          {
+            "name": "Galotyri",
+            "tip": "Ein weicher, joghurtähnlicher Käse, der als Vorspeise oder Brotaufstrich serviert wird."
+          },
+          {
+            "name": "Lokale Würste",
+            "tip": "Probieren Sie die mit Lauch gewürzten Würste, eine Spezialität aus Epirus."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vaddisznópörkölt",
+            "tip": "Kiadós specialitás, amelyet gyakran kínálnak a téli hónapokban."
+          },
+          {
+            "name": "Galotyri",
+            "tip": "Lágy, joghurtszerű sajt, amelyet előételként vagy kenyérre kenve tálalnak."
+          },
+          {
+            "name": "Helyi kolbászok",
+            "tip": "Kóstolja meg a póréhagymával fűszerezett kolbászokat, egy epiruszi specialitást."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tocăniță de mistreț",
+            "tip": "O specialitate consistentă, adesea servită în lunile de iarnă."
+          },
+          {
+            "name": "Galotyri",
+            "tip": "O brânză moale, asemănătoare iaurtului, servită ca aperitiv sau tartinabilă."
+          },
+          {
+            "name": "Cârnați locali",
+            "tip": "Încercați cârnații aromați cu praz, o specialitate din Epir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wild Boar Stew",
+            "tip": "A hearty specialty often served during the winter months."
+          },
+          {
+            "name": "Galotyri",
+            "tip": "A soft, yogurt-like cheese served as an appetizer or spread."
+          },
+          {
+            "name": "Local Sausages",
+            "tip": "Try the leek-flavored sausages, a specialty of Epirus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt auf der Fahrt",
+            "tip": "Halten Sie an den ausgewiesenen Stellen an, um die Landschaft zu fotografieren.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gassen abseits des Hauptplatzes",
+            "tip": "Verlieren Sie sich in den ruhigen, gepflasterten Gassen für ein authentisches Gefühl.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang über den Bergen",
+            "tip": "Finden Sie einen westlich ausgerichteten Platz für einen unvergesslichen Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópont az út mentén",
+            "tip": "Álljon meg a kijelölt helyeken, hogy lefényképezze a tájat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mellékutcák a főtér mellett",
+            "tip": "Vesszen el a csendes, macskaköves utcákban az autentikus élményért.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a hegyek felett",
+            "tip": "Keressen egy nyugatra néző helyet egy felejthetetlen naplementéhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere pe drum",
+            "tip": "Opriți-vă în locurile desemnate pentru a fotografia peisajul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Străduțe lăturalnice",
+            "tip": "Pierdeți-vă pe străduțele liniștite, pavate, pentru o senzație autentică.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus peste munți",
+            "tip": "Găsiți un loc orientat spre vest pentru un apus de neuitat.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint on the drive",
+            "tip": "Stop at designated spots to photograph the landscape.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Alleys off the main square",
+            "tip": "Get lost in the quiet, cobbled alleys for an authentic feel.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset over the mountains",
+            "tip": "Find a west-facing spot for an unforgettable sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Honig und Kräuter",
+            "tip": "Lokale Geschäfte verkaufen Honig aus der Region und getrocknete Bergkräuter."
+          },
+          {
+            "name": "Ikonen",
+            "tip": "Suchen Sie nach handgemalten Ikonen in den Geschäften in der Nähe der Kirchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Méz és gyógynövények",
+            "tip": "A helyi boltokban helyi mézet és szárított hegyi gyógynövényeket árulnak."
+          },
+          {
+            "name": "Ikonok",
+            "tip": "Keressen kézzel festett ikonokat a templomok közelében lévő üzletekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere și ierburi aromatice",
+            "tip": "Magazinele locale vând miere din regiune și ierburi de munte uscate."
+          },
+          {
+            "name": "Icoane",
+            "tip": "Căutați icoane pictate manual în magazinele din apropierea bisericilor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Honey and Herbs",
+            "tip": "Local shops sell regional honey and dried mountain herbs."
+          },
+          {
+            "name": "Icons",
+            "tip": "Look for hand-painted icons in the shops near the churches."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen können eng und kurvenreich sein. Fahren Sie vorsichtig.",
+          "Parkplätze im Zentrum sind begrenzt. Nutzen Sie die ausgewiesenen Parkflächen am Ortseingang.",
+          "Planen Sie zusätzliche Zeit für Fotostopps ein; die Landschaft ist spektakulär.",
+          "Ein kleineres Auto ist für die Bergstraßen von Vorteil."
+        ],
+        "hu": [
+          "Az utak szűkek és kanyargósak lehetnek. Vezessen óvatosan.",
+          "A parkolóhelyek korlátozottak a központban. Használja a város bejáratánál kijelölt parkolókat.",
+          "Tervezzen extra időt a fotómegállókra; a táj látványos.",
+          "Egy kisebb autó előnyösebb a hegyi utakon."
+        ],
+        "ro": [
+          "Drumurile pot fi înguste și sinuoase. Conduceți cu prudență.",
+          "Locurile de parcare în centru sunt limitate. Folosiți parcările desemnate de la intrarea în oraș.",
+          "Planificați timp suplimentar pentru opriri foto; peisajul este spectaculos.",
+          "O mașină mai mică este avantajoasă pentru drumurile de munte."
+        ],
+        "en": [
+          "The roads can be narrow and winding. Drive carefully.",
+          "Parking in the center is limited. Use the designated parking areas at the entrance to the town.",
+          "Plan for extra time for photo stops; the scenery is spectacular.",
+          "A smaller car is advantageous for the mountain roads."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrt zum Ski Center",
+            "hu": "Utazás a síközponthoz",
+            "ro": "Călătorie spre Centrul de Schi",
+            "en": "Trip to the Ski Center"
+          },
+          "coords": [
+            21.16,
+            39.77
+          ],
+          "category": "parks",
+          "arrive_at": "09:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie ein lokales Taxi. Die Fahrt bietet bereits tolle Ausblicke.",
+            "hu": "Vegyen igénybe egy helyi taxit. Az út már önmagában is nagyszerű kilátást nyújt.",
+            "ro": "Luați un taxi local. Călătoria oferă deja priveliști minunate.",
+            "en": "Take a local taxi. The ride itself offers great views."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt ins Zentrum und Mittagessen",
+            "hu": "Vissza a központba és ebéd",
+            "ro": "Întoarcere în centru și prânz",
+            "en": "Return to Center & Lunch"
+          },
+          "coords": [
+            21.183,
+            39.767
+          ],
+          "category": "squares",
+          "arrive_at": "11:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Lassen Sie sich in der Nähe des Hauptplatzes absetzen, um das Zentrum zu erkunden.",
+            "hu": "Szálljon ki a főtér közelében, hogy felfedezze a központot.",
+            "ro": "Lăsați-vă la o stație apropiată de piața principală pentru a explora centrul.",
+            "en": "Get dropped off near the main square to explore the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentralplatz von Metsovo",
+            "hu": "Mecovó központi tere",
+            "ro": "Piața Centrală din Metsovo",
+            "en": "Central Square of Metsovo"
+          },
+          "coords": [
+            21.1836,
+            39.7669
+          ],
+          "category": "squares",
+          "arrive_at": "12:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Treffpunkt für Einheimische und Besucher gleichermaßen.",
+            "hu": "A helyiek és a látogatók találkozóhelye egyaránt.",
+            "ro": "Punctul de întâlnire pentru localnici și vizitatori deopotrivă.",
+            "en": "The meeting point for locals and visitors alike."
+          }
+        },
+        {
+          "name": {
+            "de": "Tositsa Herrenhaus",
+            "hu": "Tositsa-kúria",
+            "ro": "Conacul Tositsa",
+            "en": "Tositsa Mansion"
+          },
+          "coords": [
+            21.1819,
+            39.7671
+          ],
+          "category": "museums",
+          "arrive_at": "12:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte und das Handwerk von Metsovo.",
+            "hu": "Fedezze fel Mecovó gazdag történelmét és kézművességét.",
+            "ro": "Descoperiți istoria bogată și meșteșugurile din Metsovo.",
+            "en": "Discover the rich history and craftsmanship of Metsovo."
+          }
+        },
+        {
+          "name": {
+            "de": "Averoff-Museum für Neugriechische Kunst",
+            "hu": "Averoff Újgörög Művészeti Múzeum",
+            "ro": "Muzeul de Artă Neoelenă Averoff",
+            "en": "Averoff Museum of Neo-Hellenic Art"
+          },
+          "coords": [
+            21.1805,
+            39.7682
+          ],
+          "category": "museums",
+          "arrive_at": "14:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss für Kunstliebhaber mit einer beeindruckenden Sammlung.",
+            "hu": "Kötelező darab a művészetkedvelőknek, lenyűgöző gyűjteménnyel.",
+            "ro": "O vizită obligatorie pentru iubitorii de artă, cu o colecție impresionantă.",
+            "en": "A must-visit for art lovers, with an impressive collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agia Paraskevi",
+            "hu": "Agia Paraskevi templom",
+            "ro": "Biserica Agia Paraskevi",
+            "en": "Church of Agia Paraskevi"
+          },
+          "coords": [
+            21.1825,
+            39.7675
+          ],
+          "category": "churches",
+          "arrive_at": "16:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren kulturellen Spaziergang mit einem Besuch in dieser wunderschönen Kirche.",
+            "hu": "Zárja a kulturális sétát ennek a gyönyörű templomnak a meglátogatásával.",
+            "ro": "Încheiați plimbarea culturală cu o vizită la această biserică frumoasă.",
+            "en": "End your cultural walk with a visit to this beautiful church."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einer Taxifahrt zum Metsovo Ski Center, um die beeindruckende Landschaft zu genießen. Nach einem erfrischenden Vormittag fahren Sie mit dem Taxi zurück ins Herz der Stadt zum Mittagessen. Den Rest des Tages erkunden Sie den kompakten Stadtkern zu Fuß. Sie schlendern über den Zentralplatz, tauchen im Tositsa Herrenhaus in die Geschichte ein und bewundern die Kunst im Averoff-Museum. Ein Besuch der Agia Paraskevi Kirche rundet Ihren kulturellen Spaziergang ab. Genießen Sie am Abend die Gastfreundschaft in einer der vielen traditionellen Tavernen.",
+        "hu": "A nap egy taxizással kezdődik a Mecovói Síközpontba, hogy élvezze a lenyűgöző tájat. Egy frissítő délelőtt után taxival tér vissza a város szívébe ebédelni. A nap hátralévő részében gyalogosan fedezi fel a kompakt városközpontot. Sétál a központi téren, elmerül a történelemben a Tositsa-kúriában, és megcsodálja a művészetet az Averoff Múzeumban. Az Agia Paraskevi templom meglátogatása teszi teljessé a kulturális sétát. Este élvezze a vendégszeretetet a sok hagyományos taverna egyikében.",
+        "ro": "Ziua dvs. începe cu o călătorie cu taxiul la Centrul de Schi Metsovo pentru a vă bucura de peisajul impresionant. După o dimineață înviorătoare, vă întoarceți cu taxiul în inima orașului pentru prânz. Restul zilei explorați centrul compact al orașului pe jos. Vă plimbați prin Piața Centrală, vă scufundați în istorie la Conacul Tositsa și admirați arta la Muzeul Averoff. O vizită la Biserica Agia Paraskevi completează plimbarea culturală. Seara, bucurați-vă de ospitalitatea uneia dintre multele taverne tradiționale.",
+        "en": "Your day begins with a taxi ride to the Metsovo Ski Center to enjoy the impressive scenery. After a refreshing morning, you'll take a taxi back to the heart of the town for lunch. For the rest of the day, you'll explore the compact town center on foot. You'll stroll through the Central Square, delve into history at the Tositsa Mansion, and admire the art at the Averoff Museum. A visit to the Church of Agia Paraskevi completes your cultural walk. In the evening, enjoy the hospitality in one of the many traditional taverns."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Kuchen",
+            "tip": "Suchen Sie nach 'Galaktoboureko' (Grießpudding in Filoteig) in den örtlichen Konditoreien."
+          },
+          {
+            "name": "Käsefondue auf Metsovo-Art",
+            "tip": "Einige Restaurants bieten eine lokale Version des Fondues mit Metsovone-Käse an."
+          },
+          {
+            "name": "Tsipouro",
+            "tip": "Ein starker lokaler Tresterschnaps, der oft mit Meze serviert wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi sütemények",
+            "tip": "Keressen 'Galaktoboureko'-t (búzadara puding filotésztában) a helyi cukrászdákban."
+          },
+          {
+            "name": "Sajtfondü mecóvói módra",
+            "tip": "Néhány étterem a fondü helyi változatát kínálja Metsovone sajttal."
+          },
+          {
+            "name": "Tsipouro",
+            "tip": "Erős helyi törkölypálinka, amelyet gyakran mezével tálalnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Prăjituri locale",
+            "tip": "Căutați 'Galaktoboureko' (budincă de griș în foitaj) la cofetăriile locale."
+          },
+          {
+            "name": "Fondue de brânză în stil Metsovo",
+            "tip": "Unele restaurante oferă o versiune locală a fondue-ului cu brânză Metsovone."
+          },
+          {
+            "name": "Tsipouro",
+            "tip": "O rachiu puternic local, adesea servit cu meze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local cakes",
+            "tip": "Look for 'Galaktoboureko' (semolina custard in filo) in the local pastry shops."
+          },
+          {
+            "name": "Metsovo-style cheese fondue",
+            "tip": "Some restaurants offer a local version of fondue with Metsovone cheese."
+          },
+          {
+            "name": "Tsipouro",
+            "tip": "A strong local pomace brandy, often served with meze."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Averoff Garten",
+            "tip": "Ein friedlicher Rückzugsort im Herzen der Stadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirchhof der Agia Paraskevi",
+            "tip": "Ein ruhiger Ort, um die Architektur und die Atmosphäre zu genießen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Eine Bank mit Aussicht",
+            "tip": "Suchen Sie sich eine Bank am Rande des Dorfes und blicken Sie auf die Täler.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Averoff-kert",
+            "tip": "Békés menedék a város szívében.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Az Agia Paraskevi templom kertje",
+            "tip": "Csendes hely az építészet és a hangulat élvezetére.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Egy pad kilátással",
+            "tip": "Keressen egy padot a falu szélén, és nézzen le a völgyekre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Averoff",
+            "tip": "Un refugiu pașnic în inima orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea Bisericii Agia Paraskevi",
+            "tip": "Un loc liniștit pentru a admira arhitectura și atmosfera.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "O bancă cu priveliște",
+            "tip": "Găsiți o bancă la marginea satului și priviți spre văi.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Averoff Garden",
+            "tip": "A peaceful retreat in the heart of the town.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Churchyard of Agia Paraskevi",
+            "tip": "A quiet spot to enjoy the architecture and atmosphere.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A bench with a view",
+            "tip": "Find a bench on the edge of the village and look out over the valleys.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Produkte",
+            "tip": "Die Geschäfte am Hauptplatz bieten eine große Auswahl an Käse, Wein und Nudeln."
+          },
+          {
+            "name": "Wollwaren",
+            "tip": "Metsovo ist auch für seine hochwertigen Wollprodukte bekannt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termékek",
+            "tip": "A főtéren található üzletek széles választékát kínálják sajtoknak, bornak és tésztáknak."
+          },
+          {
+            "name": "Gyapjúáruk",
+            "tip": "Mecovó híres a kiváló minőségű gyapjútermékeiről is."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse locale",
+            "tip": "Magazinele din piața principală oferă o selecție excelentă de brânzeturi, vinuri și paste."
+          },
+          {
+            "name": "Articole din lână",
+            "tip": "Metsovo este, de asemenea, cunoscut pentru produsele sale de lână de înaltă calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Products",
+            "tip": "The shops in the main square offer a great selection of cheese, wine, and pasta."
+          },
+          {
+            "name": "Woolen Goods",
+            "tip": "Metsovo is also known for its high-quality woolen products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fragen Sie in Ihrem Hotel oder einem Café nach der Nummer eines zuverlässigen Taxidienstes.",
+          "Vereinbaren Sie den Fahrpreis, bevor Sie die Fahrt antreten, insbesondere für Fahrten außerhalb der Stadt.",
+          "Metsovo hat keinen regulären öffentlichen Nahverkehr; Taxis sind die Hauptoption.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar, sodass Sie nur für längere Strecken ein Taxi benötigen."
+        ],
+        "hu": [
+          "Kérje el egy megbízható taxiszolgálat számát a szállodájában vagy egy kávézóban.",
+          "Egyezzen meg a viteldíjban, mielőtt elindul, különösen a városon kívüli utakra.",
+          "Mecovóban nincs rendszeres tömegközlekedés; a taxik a fő lehetőség.",
+          "A legtöbb látnivaló a központban könnyen megközelíthető gyalog, így csak hosszabb távokra van szüksége taxira."
+        ],
+        "ro": [
+          "Cereți la hotelul dvs. sau la o cafenea numărul unui serviciu de taxi de încredere.",
+          "Stabiliți tariful înainte de a începe călătoria, în special pentru cursele în afara orașului.",
+          "Metsovo nu are transport public regulat; taxiurile sunt opțiunea principală.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos, deci veți avea nevoie de un taxi doar pentru distanțe mai lungi."
+        ],
+        "en": [
+          "Ask your hotel or a cafe for the number of a reliable taxi service.",
+          "Agree on the fare before you start the ride, especially for trips out of town.",
+          "Metsovo does not have regular public transport; taxis are the main option.",
+          "Most sights in the center are easily walkable, so you'll only need a taxi for longer distances."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1420 @@
+{
+  "city_id": "denmark-horsens-cities-v2",
+  "anchor": {
+    "name": "Horsens",
+    "coords": [
+      9.85,
+      55.86
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Horsens Klosterkirke",
+            "hu": "Horsensi kolostortemplom",
+            "ro": "Biserica Mănăstirii Horsens",
+            "en": "Horsens Abbey Church"
+          },
+          "coords": [
+            9.8518,
+            55.8615
+          ],
+          "category": "churches",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden Fresken und die ruhige Atmosphäre.",
+            "hu": "Figyelje meg a lenyűgöző freskókat és élvezze a csendes légkört.",
+            "ro": "Observați frescele impresionante și bucurați-vă de atmosfera liniștită.",
+            "en": "Look for the impressive frescoes and enjoy the tranquil atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Horsens Kunstmuseum",
+            "hu": "Horsensi Művészeti Múzeum",
+            "ro": "Muzeul de Artă Horsens",
+            "en": "Horsens Art Museum"
+          },
+          "coords": [
+            9.859,
+            55.8705
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Sammlung moderner dänischer Kunst.",
+            "hu": "Fókuszáljon a modern dán művészeti gyűjteményre.",
+            "ro": "Concentrați-vă pe colecția de artă modernă daneză.",
+            "en": "Focus on the collection of modern Danish art."
+          }
+        },
+        {
+          "name": {
+            "de": "Danmarks Industrimuseum",
+            "hu": "Dán Ipari Múzeum",
+            "ro": "Muzeul Industrial al Danemarcei",
+            "en": "Denmark's Industrial Museum"
+          },
+          "coords": [
+            9.839,
+            55.865
+          ],
+          "category": "museums",
+          "arrive_at": "12:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Planen Sie genug Zeit für die Arbeiterwohnungen ein, um einen Einblick in die Vergangenheit zu bekommen.",
+            "hu": "Szánjon elég időt a munkáslakásokra, hogy bepillantást nyerjen a múltba.",
+            "ro": "Planificați suficient timp pentru locuințele muncitorilor pentru o incursiune în trecut.",
+            "en": "Plan enough time for the workers' dwellings to get a glimpse into the past."
+          }
+        },
+        {
+          "name": {
+            "de": "Fængslet",
+            "hu": "Fængslet (A Börtön)",
+            "ro": "Fængslet (Închisoarea)",
+            "en": "Fængslet (The Prison)"
+          },
+          "coords": [
+            9.835,
+            55.869
+          ],
+          "category": "museums",
+          "arrive_at": "14:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie den Virtual-Reality-Fluchttunnel für ein immersives Erlebnis.",
+            "hu": "Próbálja ki a virtuális valóság szökőalagutat egy magával ragadó élményért.",
+            "ro": "Încercați tunelul de evadare în realitate virtuală pentru o experiență imersivă.",
+            "en": "Try the virtual reality escape tunnel for an immersive experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Vitus Bering Park",
+            "hu": "Vitus Bering Park",
+            "ro": "Parcul Vitus Bering",
+            "en": "Vitus Bering Park"
+          },
+          "coords": [
+            9.855,
+            55.863
+          ],
+          "category": "parks",
+          "arrive_at": "16:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für eine kurze Pause. Suchen Sie die Kanonen, die Vitus Bering gewidmet sind.",
+            "hu": "Tökéletes hely egy rövid szünetre. Keresse a Vitus Beringnek szentelt ágyúkat.",
+            "ro": "Un loc perfect pentru o scurtă pauză. Căutați tunurile dedicate lui Vitus Bering.",
+            "en": "A perfect spot for a short break. Look for the cannons dedicated to Vitus Bering."
+          }
+        },
+        {
+          "name": {
+            "de": "Horsens Ny Teater",
+            "hu": "Horsens Ny Teater (Új Színház)",
+            "ro": "Noul Teatru din Horsens",
+            "en": "Horsens New Theatre"
+          },
+          "coords": [
+            9.851,
+            55.862
+          ],
+          "category": "theatres",
+          "arrive_at": "17:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Überprüfen Sie den Spielplan für Abendvorstellungen oder bewundern Sie einfach die Architektur.",
+            "hu": "Nézze meg az esti előadások műsorát, vagy csak csodálja meg az építészetet.",
+            "ro": "Verificați programul pentru spectacole de seară sau pur și simplu admirați arhitectura.",
+            "en": "Check the schedule for evening shows or just admire the architecture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Horsens beginnt mit einem Spaziergang durch das historische Zentrum, bei dem Sie die Ruhe der Klosterkirke genießen. Am Vormittag tauchen Sie in die dänische Kunst und Industriegeschichte ein und entdecken zwei faszinierende Museen. Der Nachmittag wird intensiv mit einem Besuch im ehemaligen Staatsgefängnis Fængslet, einem einzigartigen Kulturort. Zum Abschluss des Tages entspannen Sie im Vitus Bering Park und bewundern das Theater, bevor Sie den Abend in einem der gemütlichen Restaurants der Stadt ausklingen lassen.",
+        "hu": "A horsensi nap a történelmi központban tett sétával kezdődik, ahol élvezheti a kolostortemplom nyugalmát. A délelőtt folyamán elmerülhet a dán művészetben és ipartörténetben két lenyűgöző múzeum felfedezésével. A délután intenzív lesz a Fængslet, az egykori állami börtön meglátogatásával, amely ma egyedülálló kulturális helyszín. A nap végén pihenjen a Vitus Bering Parkban és csodálja meg a színházat, mielőtt a város egyik hangulatos éttermében zárná az estét.",
+        "ro": "Ziua dumneavoastră în Horsens începe cu o plimbare prin centrul istoric, bucurându-vă de liniștea Bisericii Mănăstirii. În cursul dimineții, vă veți cufunda în arta și istoria industrială daneză, explorând două muzee fascinante. După-amiaza devine intensă cu o vizită la fosta închisoare de stat, Fængslet, acum un loc cultural unic. Pentru a încheia ziua, vă relaxați în Parcul Vitus Bering și admirați teatrul înainte de a încheia seara la unul dintre restaurantele primitoare ale orașului.",
+        "en": "Your day in Horsens begins with a walk through the historic center, enjoying the tranquility of the Abbey Church. In the morning, you'll dive into Danish art and industrial history by exploring two fascinating museums. The afternoon gets intense with a visit to the former state prison, Fængslet, now a unique cultural venue. To wrap up the day, relax in Vitus Bering Park and admire the theatre before ending your evening at one of the city's cozy restaurants."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Probieren Sie das klassische dänische offene Sandwich bei Eydes Kælder."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Genießen Sie dänische Fleischbällchen, eine lokale Spezialität."
+          },
+          {
+            "name": "Gasthaus Spisehus",
+            "tip": "Ein großartiger Ort für traditionelle dänische Küche in einer gemütlichen Umgebung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Kóstolja meg a klasszikus dán nyitott szendvicset az Eydes Kælderben."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Élvezze a dán húsgombócokat, egy helyi specialitást."
+          },
+          {
+            "name": "Gasthaus Spisehus",
+            "tip": "Nagyszerű hely a hagyományos dán konyha megkóstolására egy hangulatos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Încercați sandvișul deschis danez clasic la Eydes Kælder."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Savurați chiftelele daneze, o specialitate locală."
+          },
+          {
+            "name": "Gasthaus Spisehus",
+            "tip": "Un loc excelent pentru bucătăria tradițională daneză într-un cadru primitor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Try the classic Danish open-faced sandwich at Eydes Kælder."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Enjoy Danish meatballs, a local specialty."
+          },
+          {
+            "name": "Gasthaus Spisehus",
+            "tip": "A great spot for traditional Danish cuisine in a cozy setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vitus Bering Park",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die grüne Oase mitten in der Stadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Langelinie",
+            "tip": "Ein Spaziergang entlang der Promenade am Fjord bietet eine friedliche Auszeit.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kirchhof der Klosterkirke",
+            "tip": "Der Bereich um die Kirche ist oft sehr ruhig und friedlich.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vitus Bering Park",
+            "tip": "Keressen egy csendes padot, és élvezze a zöld oázist a város közepén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Langelinie",
+            "tip": "Egy séta a fjord menti promenádon békés kikapcsolódást nyújt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A kolostortemplom udvara",
+            "tip": "A templom körüli terület gyakran nagyon csendes és békés.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Vitus Bering",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de oaza de verdeață din mijlocul orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Langelinie",
+            "tip": "O plimbare de-a lungul promenadei de la fiord oferă o evadare pașnică.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curtea Bisericii Mănăstirii",
+            "tip": "Zona din jurul bisericii este adesea foarte liniștită și pașnică.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vitus Bering Park",
+            "tip": "Find a quiet bench and enjoy the green oasis in the middle of the city.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Langelinie",
+            "tip": "A walk along the promenade by the fjord offers a peaceful escape.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Abbey Churchyard",
+            "tip": "The area around the church is often very quiet and peaceful.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Søndergade",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus dänischen Marken und internationalen Geschäften."
+          },
+          {
+            "name": "Lokale Keramik",
+            "tip": "Halten Sie Ausschau nach kleinen Kunsthandwerksläden, die handgefertigte Keramik verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Søndergade",
+            "tip": "A fő bevásárlóutca, ahol dán márkák és nemzetközi üzletek keverednek."
+          },
+          {
+            "name": "Helyi kerámia",
+            "tip": "Keresse a kézzel készített kerámiákat árusító kis kézműves boltokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Søndergade",
+            "tip": "Principala stradă comercială cu un amestec de mărci daneze și magazine internaționale."
+          },
+          {
+            "name": "Ceramică locală",
+            "tip": "Căutați mici magazine de artizanat care vând ceramică lucrată manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Søndergade",
+            "tip": "The main shopping street with a mix of Danish brands and international stores."
+          },
+          {
+            "name": "Local Ceramics",
+            "tip": "Look for small artisan shops selling handmade pottery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Museen haben montags geschlossen, überprüfen Sie also die Öffnungszeiten im Voraus.",
+          "Horsens ist kompakt, was es ideal für eine Erkundung zu Fuß macht."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakövek az óvárosban egyenetlenek lehetnek.",
+          "A legtöbb múzeum hétfőn zárva tart, ezért előre ellenőrizze a nyitvatartási időt.",
+          "Horsens kompakt, így ideális a gyalogos felfedezéshez."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din centrul vechi poate fi denivelat.",
+          "Majoritatea muzeelor sunt închise lunea, așa că verificați orele de funcționare în avans.",
+          "Horsens este un oraș compact, ceea ce îl face ideal pentru a fi explorat pe jos."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Most museums are closed on Mondays, so check opening hours in advance.",
+          "Horsens is compact, making it ideal for exploring on foot."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Boller Slot",
+            "hu": "Boller kastély",
+            "ro": "Castelul Boller",
+            "en": "Boller Castle"
+          },
+          "coords": [
+            9.88,
+            55.83
+          ],
+          "category": "castles",
+          "arrive_at": "09:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang durch den Schlosspark, der für die Öffentlichkeit zugänglich ist.",
+            "hu": "Sétáljon egyet a kastélyparkban, amely nyitva áll a nagyközönség előtt.",
+            "ro": "Bucurați-vă de o plimbare prin parcul castelului, care este deschis publicului.",
+            "en": "Enjoy a walk through the castle park, which is open to the public."
+          }
+        },
+        {
+          "name": {
+            "de": "Langelinie",
+            "hu": "Langelinie",
+            "ro": "Langelinie",
+            "en": "Langelinie"
+          },
+          "coords": [
+            9.875,
+            55.865
+          ],
+          "category": "promenades",
+          "arrive_at": "11:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort, um die Meeresbrise zu genießen und die Aussicht auf den Fjord zu bewundern.",
+            "hu": "Nagyszerű hely a tengeri szellő és a fjordra nyíló kilátás élvezetére.",
+            "ro": "Un loc minunat pentru a vă bucura de briza mării și a admira vederea la fiord.",
+            "en": "A great place to enjoy the sea breeze and admire the view of the fjord."
+          }
+        },
+        {
+          "name": {
+            "de": "Horsens Klosterkirke",
+            "hu": "Horsensi kolostortemplom",
+            "ro": "Biserica Mănăstirii Horsens",
+            "en": "Horsens Abbey Church"
+          },
+          "coords": [
+            9.8518,
+            55.8615
+          ],
+          "category": "churches",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und nehmen Sie sich einen Moment Zeit für die friedliche Atmosphäre im Inneren.",
+            "hu": "Parkolja le a kerékpárt, és szánjon egy percet a benti békés légkörre.",
+            "ro": "Parcați bicicleta și acordați-vă un moment pentru atmosfera pașnică din interior.",
+            "en": "Park your bike and take a moment for the peaceful atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Danmarks Industrimuseum",
+            "hu": "Dán Ipari Múzeum",
+            "ro": "Muzeul Industrial al Danemarcei",
+            "en": "Denmark's Industrial Museum"
+          },
+          "coords": [
+            9.839,
+            55.865
+          ],
+          "category": "museums",
+          "arrive_at": "12:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Das Museum ist größer als es aussieht. Perfekt, um hier die Mittagszeit zu verbringen.",
+            "hu": "A múzeum nagyobb, mint amilyennek látszik. Tökéletes hely az ebédidő eltöltésére.",
+            "ro": "Muzeul este mai mare decât pare. Perfect pentru a petrece aici pauza de prânz.",
+            "en": "The museum is larger than it looks. Perfect for spending your lunch break here."
+          }
+        },
+        {
+          "name": {
+            "de": "Fængslet",
+            "hu": "Fængslet (A Börtön)",
+            "ro": "Fængslet (Închisoarea)",
+            "en": "Fængslet (The Prison)"
+          },
+          "coords": [
+            9.835,
+            55.869
+          ],
+          "category": "museums",
+          "arrive_at": "15:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Es gibt sichere Fahrradständer. Die Ausstellungen sind sehr interaktiv.",
+            "hu": "Biztonságos kerékpártárolók állnak rendelkezésre. A kiállítások nagyon interaktívak.",
+            "ro": "Există parcări sigure pentru biciclete. Expozițiile sunt foarte interactive.",
+            "en": "There are secure bike racks available. The exhibitions are very interactive."
+          }
+        },
+        {
+          "name": {
+            "de": "Horsens Kunstmuseum",
+            "hu": "Horsensi Művészeti Múzeum",
+            "ro": "Muzeul de Artă Horsens",
+            "en": "Horsens Art Museum"
+          },
+          "coords": [
+            9.859,
+            55.8705
+          ],
+          "category": "museums",
+          "arrive_at": "16:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein schöner, ruhiger Abschluss des Tages, umgeben von moderner Kunst.",
+            "hu": "Egy szép, csendes lezárása a napnak, modern művészettel körülvéve.",
+            "ro": "Un final de zi frumos și liniștit, înconjurat de artă modernă.",
+            "en": "A nice, quiet end to the day surrounded by modern art."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrradtour beginnt mit einer Fahrt zum eleganten Boller Slot im Süden. Am Vormittag radeln Sie entlang der Küste an der Langelinie und genießen die frische Luft, bevor Sie das historische Herz der Stadt erreichen. Nach einem Besuch in der Klosterkirke verbringen Sie den Mittag damit, in die industrielle Vergangenheit Dänemarks einzutauchen. Der Nachmittag ist für das beeindruckende Gefängnismuseum Fængslet reserviert, bevor Sie den Tag mit einem ruhigen Besuch im Kunstmuseum ausklingen lassen.",
+        "hu": "A kerékpártúra a délen fekvő elegáns Boller kastélyhoz való tekeréssel kezdődik. Délelőtt a part mentén, a Langelinie-n kerékpározik, élvezve a friss levegőt, mielőtt elérné a város történelmi szívét. A kolostortemplom meglátogatása után a déli órákat Dánia ipari múltjának felfedezésével tölti. A délután a lenyűgöző Fængslet börtönmúzeumé, mielőtt a napot egy csendes látogatással zárná a művészeti múzeumban.",
+        "ro": "Turul pe bicicletă începe cu o plimbare spre elegantul Castel Boller, aflat la sud. Dimineața, pedalați de-a lungul coastei la Langelinie, bucurându-vă de aerul proaspăt înainte de a ajunge în inima istorică a orașului. După o vizită la Biserica Mănăstirii, petreceți prânzul explorând trecutul industrial al Danemarcei. După-amiaza este rezervată impresionantului muzeu al închisorii Fængslet, înainte de a încheia ziua cu o vizită liniștită la muzeul de artă.",
+        "en": "Your bike tour starts with a ride to the elegant Boller Castle in the south. In the morning, you'll cycle along the coast at Langelinie, enjoying the fresh air before reaching the historic heart of the city. After a visit to the Abbey Church, you'll spend midday diving into Denmark's industrial past. The afternoon is reserved for the impressive Fængslet prison museum, before you end the day with a quiet visit to the art museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Probieren Sie das klassische dänische offene Sandwich bei Eydes Kælder."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Genießen Sie dänische Fleischbällchen, eine lokale Spezialität."
+          },
+          {
+            "name": "Dollys",
+            "tip": "Ein beliebter Ort für ein schnelles und leckeres Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Kóstolja meg a klasszikus dán nyitott szendvicset az Eydes Kælderben."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Élvezze a dán húsgombócokat, egy helyi specialitást."
+          },
+          {
+            "name": "Dollys",
+            "tip": "Népszerű hely egy gyors és finom ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Încercați sandvișul deschis danez clasic la Eydes Kælder."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Savurați chiftelele daneze, o specialitate locală."
+          },
+          {
+            "name": "Dollys",
+            "tip": "Un loc popular pentru un prânz rapid și delicios."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Try the classic Danish open-faced sandwich at Eydes Kælder."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Enjoy Danish meatballs, a local specialty."
+          },
+          {
+            "name": "Dollys",
+            "tip": "A popular spot for a quick and tasty lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Boller Schlosspark",
+            "tip": "Die Gärten rund um das Schloss sind wunderschön und friedlich.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Langelinie",
+            "tip": "Finden Sie eine Bank mit Blick auf den Fjord für einen Moment der Ruhe.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Vitus Bering Park",
+            "tip": "Eine grüne Oase, ideal für eine Pause vom Radfahren.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boller kastélypark",
+            "tip": "A kastély körüli kertek gyönyörűek és békések.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Langelinie",
+            "tip": "Keressen egy padot a fjordra néző kilátással egy csendes pillanatért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Vitus Bering Park",
+            "tip": "Zöld oázis, ideális egy kis pihenőre a kerékpározás után.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului Boller",
+            "tip": "Grădinile din jurul castelului sunt frumoase și pașnice.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Langelinie",
+            "tip": "Găsiți o bancă cu vedere la fiord pentru un moment de liniște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Vitus Bering",
+            "tip": "O oază de verdeață, perfectă pentru o pauză de la pedalat.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Boller Castle Park",
+            "tip": "The gardens surrounding the castle are beautiful and peaceful.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Langelinie",
+            "tip": "Find a bench overlooking the fjord for a moment of peace.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Vitus Bering Park",
+            "tip": "A green oasis, perfect for a break from cycling.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Søndergade",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus dänischen Marken und internationalen Geschäften."
+          },
+          {
+            "name": "Lokales Kunsthandwerk",
+            "tip": "Halten Sie in den kleineren Straßen Ausschau nach einzigartigen Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Søndergade",
+            "tip": "A fő bevásárlóutca, ahol dán márkák és nemzetközi üzletek keverednek."
+          },
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keresse az egyedi szuveníreket a kisebb utcákban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Søndergade",
+            "tip": "Principala stradă comercială cu un amestec de mărci daneze și magazine internaționale."
+          },
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați suveniruri unice pe străzile mai mici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Søndergade",
+            "tip": "The main shopping street with a mix of Danish brands and international stores."
+          },
+          {
+            "name": "Local Crafts",
+            "tip": "Look for unique souvenirs in the smaller streets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Horsens ist relativ flach und daher gut für Radfahrer geeignet.",
+          "Nutzen Sie die ausgewiesenen Radwege für eine sichere Fahrt.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, besonders an belebten Orten.",
+          "Eine Fahrradkarte kann hilfreich sein, ist aber nicht unbedingt erforderlich."
+        ],
+        "hu": [
+          "Horsens viszonylag sík, így kerékpárosbarát.",
+          "Használja a kijelölt kerékpárutakat a biztonságos közlekedés érdekében.",
+          "Mindig zárja le jól a kerékpárját, különösen forgalmas helyeken.",
+          "Egy kerékpáros térkép hasznos lehet, de nem elengedhetetlen."
+        ],
+        "ro": [
+          "Horsens este relativ plat, ceea ce îl face prietenos pentru bicicliști.",
+          "Folosiți pistele de biciclete desemnate pentru o plimbare sigură.",
+          "Asigurați-vă întotdeauna bicicleta, mai ales în locurile aglomerate.",
+          "O hartă a pistelor de biciclete poate fi utilă, dar nu este esențială."
+        ],
+        "en": [
+          "Horsens is relatively flat, making it bicycle-friendly.",
+          "Use the designated bike lanes for a safe ride.",
+          "Always lock your bike securely, especially in busy areas.",
+          "A bike map can be helpful, but is not essential."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Boller Slot",
+            "hu": "Boller kastély",
+            "ro": "Castelul Boller",
+            "en": "Boller Castle"
+          },
+          "coords": [
+            9.88,
+            55.83
+          ],
+          "category": "castles",
+          "arrive_at": "09:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie den Schlosspark zu Fuß.",
+            "hu": "Parkoljon itt, és fedezze fel a kastélyparkot gyalog.",
+            "ro": "Parcați aici și explorați parcul castelului pe jos.",
+            "en": "Park here and explore the castle park on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang im Schlosspark",
+            "hu": "Séta a kastélyparkban",
+            "ro": "Plimbare în parcul castelului",
+            "en": "Walk in the Castle Park"
+          },
+          "coords": [
+            9.882,
+            55.831
+          ],
+          "category": "parks",
+          "arrive_at": "10:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Park ist ideal für einen ruhigen Spaziergang am Morgen.",
+            "hu": "A park ideális egy csendes reggeli sétához.",
+            "ro": "Parcul este ideal pentru o plimbare liniștită de dimineață.",
+            "en": "The park is ideal for a quiet morning walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster: Museen (Fængslet & Industriemuseum)",
+            "hu": "Múzeumi negyed (Fængslet és Ipari Múzeum)",
+            "ro": "Cluster: Muzee (Fængslet & Muzeul Industrial)",
+            "en": "Museum Cluster (Fængslet & Industrial Museum)"
+          },
+          "coords": [
+            9.837,
+            55.867
+          ],
+          "category": "museums",
+          "arrive_at": "11:40",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und besuchen Sie beide Museen zu Fuß.",
+            "hu": "Parkoljon le itt, és látogassa meg mindkét múzeumot gyalog.",
+            "ro": "Parcați aici și vizitați ambele muzee pe jos.",
+            "en": "Park here and visit both museums on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Fængslet",
+            "hu": "Fængslet (A Börtön)",
+            "ro": "Fængslet (Închisoarea)",
+            "en": "Fængslet (The Prison)"
+          },
+          "coords": [
+            9.835,
+            55.869
+          ],
+          "category": "museums",
+          "arrive_at": "11:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein unvergessliches Erlebnis, planen Sie mindestens 1,5 Stunden ein.",
+            "hu": "Felejthetetlen élmény, szánjon rá legalább 1,5 órát.",
+            "ro": "O experiență de neuitat, planificați cel puțin 1,5 ore.",
+            "en": "An unforgettable experience, plan for at least 1.5 hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Danmarks Industrimuseum",
+            "hu": "Dán Ipari Múzeum",
+            "ro": "Muzeul Industrial al Danemarcei",
+            "en": "Denmark's Industrial Museum"
+          },
+          "coords": [
+            9.839,
+            55.865
+          ],
+          "category": "museums",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Hier können Sie auch zu Mittag essen und sich in die dänische Geschichte vertiefen.",
+            "hu": "Itt ebédelhet is, miközben elmélyül a dán történelemben.",
+            "ro": "Puteți lua prânzul aici în timp ce aprofundați istoria daneză.",
+            "en": "You can also have lunch here while delving into Danish history."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster: Zentrum (Klosterkirke & Langelinie)",
+            "hu": "Központi negyed (Kolostortemplom és Langelinie)",
+            "ro": "Cluster: Centru (Biserica Mănăstirii & Langelinie)",
+            "en": "Center Cluster (Abbey Church & Langelinie)"
+          },
+          "coords": [
+            9.8518,
+            55.8615
+          ],
+          "category": "churches",
+          "arrive_at": "16:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.1,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Suchen Sie einen Parkplatz im Zentrum und erkunden Sie den Rest zu Fuß.",
+            "hu": "Keressen egy parkolót a központban, és fedezze fel a többit gyalog.",
+            "ro": "Găsiți o parcare în centru și explorați restul pe jos.",
+            "en": "Find a parking spot in the center and explore the rest on foot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit dem Auto beginnt im Süden beim Boller Slot, wo Sie den Morgen im ruhigen Schlosspark verbringen. Anschließend fahren Sie zum Museumscluster im Westen, parken Ihr Auto und tauchen zu Fuß in die faszinierende Welt von Fængslet und dem Industriemuseum ein. Nach einem ausgiebigen Mittagessen fahren Sie ins Stadtzentrum. Dort beenden Sie den Tag mit einem Spaziergang von der historischen Klosterkirke zur erfrischenden Promenade Langelinie.",
+        "hu": "Autós napja délen, a Boller kastélynál kezdődik, ahol a reggelt a csendes kastélyparkban tölti. Ezután a nyugati múzeumi negyedbe hajt, leparkol, és gyalog merül el a Fængslet és az Ipari Múzeum lenyűgöző világában. Egy bőséges ebédet követően a városközpontba indul. A napot egy sétával zárja a történelmi kolostortemplomtól a frissítő Langelinie promenádig.",
+        "ro": "Ziua cu mașina începe la sud, la Castelul Boller, unde vă petreceți dimineața în parcul liniștit al castelului. Apoi, conduceți către clusterul de muzee din vest, parcați mașina și explorați pe jos lumea fascinantă a Fængslet și a Muzeului Industrial. După un prânz copios, vă îndreptați spre centrul orașului. Încheiați ziua cu o plimbare de la istorica Biserică a Mănăstirii până la promenada revigorantă Langelinie.",
+        "en": "Your day by car begins in the south at Boller Castle, where you spend the morning in the tranquil castle park. You then drive to the museum cluster in the west, park your car, and immerse yourself on foot in the fascinating world of Fængslet and the Industrial Museum. After a hearty lunch, you head to the city center. You end the day with a walk from the historic Abbey Church to the refreshing Langelinie promenade."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Jørgensens Hotel",
+            "tip": "Ein gehobenes Restaurant für ein besonderes Abendessen."
+          },
+          {
+            "name": "Café Gran",
+            "tip": "Ideal für Kaffee und Kuchen nach dem Museumsbesuch."
+          },
+          {
+            "name": "Det Lille Røgeri",
+            "tip": "Probieren Sie frischen Räucherfisch in der Nähe des Hafens."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jørgensens Hotel",
+            "tip": "Elegáns étterem egy különleges vacsorához."
+          },
+          {
+            "name": "Café Gran",
+            "tip": "Ideális egy kávéra és süteményre a múzeumlátogatás után."
+          },
+          {
+            "name": "Det Lille Røgeri",
+            "tip": "Kóstoljon frissen füstölt halat a kikötő közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jørgensens Hotel",
+            "tip": "Un restaurant rafinat pentru o cină specială."
+          },
+          {
+            "name": "Café Gran",
+            "tip": "Ideal pentru o cafea și o prăjitură după vizitarea muzeului."
+          },
+          {
+            "name": "Det Lille Røgeri",
+            "tip": "Încercați pește proaspăt afumat lângă port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Jørgensens Hotel",
+            "tip": "An upscale restaurant for a special dinner."
+          },
+          {
+            "name": "Café Gran",
+            "tip": "Ideal for coffee and cake after the museum visit."
+          },
+          {
+            "name": "Det Lille Røgeri",
+            "tip": "Try fresh smoked fish near the harbour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Boller Schlosspark",
+            "tip": "Finden Sie einen abgelegenen Pfad für einen Moment der Stille.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Langelinie am Abend",
+            "tip": "Die Promenade ist bei Sonnenuntergang besonders friedlich.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Vitus Bering Park",
+            "tip": "Eine schnelle Flucht aus der Stadt, ohne weit fahren zu müssen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boller kastélypark",
+            "tip": "Keressen egy eldugott ösvényt egy csendes pillanatért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Langelinie este",
+            "tip": "A promenád naplementekor különösen békés.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Vitus Bering Park",
+            "tip": "Gyors menekülés a városból anélkül, hogy messzire kellene mennie.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului Boller",
+            "tip": "Găsiți o cărare retrasă pentru un moment de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Langelinie seara",
+            "tip": "Promenada este deosebit de pașnică la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Vitus Bering",
+            "tip": "O evadare rapidă din oraș fără a fi nevoie să conduceți departe.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Boller Castle Park",
+            "tip": "Find a secluded path for a moment of silence.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Langelinie in the evening",
+            "tip": "The promenade is especially peaceful at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Vitus Bering Park",
+            "tip": "A quick escape from the city without having to drive far.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Søndergade",
+            "tip": "Parken Sie im Zentrum und genießen Sie einen Einkaufsbummel."
+          },
+          {
+            "name": "Museumsshop Fængslet",
+            "tip": "Einzigartige Souvenirs, die mit der Geschichte des Gefängnisses zu tun haben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Søndergade",
+            "tip": "Parkoljon a központban, és élvezze a vásárlást."
+          },
+          {
+            "name": "Fængslet múzeumi bolt",
+            "tip": "Egyedi szuvenírek a börtön történetével kapcsolatban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Søndergade",
+            "tip": "Parcați în centru și bucurați-vă de o sesiune de cumpărături."
+          },
+          {
+            "name": "Magazinul muzeului Fængslet",
+            "tip": "Suveniruri unice legate de istoria închisorii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Søndergade",
+            "tip": "Park in the center and enjoy a shopping spree."
+          },
+          {
+            "name": "Fængslet Museum Shop",
+            "tip": "Unique souvenirs related to the prison's history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken kann im Stadtzentrum kostenpflichtig sein.",
+          "Planen Sie Ihre Route im Voraus, um Einbahnstraßen zu vermeiden.",
+          "Die Geschwindigkeitsbegrenzungen sind streng, achten Sie auf die Beschilderung.",
+          "Ein Auto ermöglicht es Ihnen, auch Sehenswürdigkeiten etwas außerhalb der Stadt zu besuchen."
+        ],
+        "hu": [
+          "A parkolás a városközpontban díjköteles lehet.",
+          "Tervezze meg előre az útvonalat az egyirányú utcák elkerülése érdekében.",
+          "A sebességkorlátozások szigorúak, figyeljen a táblákra.",
+          "Az autó lehetővé teszi a városon kívüli látnivalók meglátogatását is."
+        ],
+        "ro": [
+          "Parcarea poate fi contra cost în centrul orașului.",
+          "Planificați-vă ruta în avans pentru a evita străzile cu sens unic.",
+          "Limitele de viteză sunt stricte, fiți atenți la semne.",
+          "O mașină vă permite să vizitați și obiectivele turistice din afara orașului."
+        ],
+        "en": [
+          "Parking may be paid in the city center.",
+          "Plan your route in advance to avoid one-way streets.",
+          "Speed limits are strict, pay attention to the signs.",
+          "A car allows you to visit sights just outside the city as well."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster: Museen (Fængslet & Industriemuseum)",
+            "hu": "Múzeumi negyed (Fængslet és Ipari Múzeum)",
+            "ro": "Cluster: Muzee (Fængslet & Muzeul Industrial)",
+            "en": "Museum Cluster (Fængslet & Industrial Museum)"
+          },
+          "coords": [
+            9.837,
+            55.867
+          ],
+          "category": "museums",
+          "arrive_at": "09:25",
+          "stay_min": 0,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Bahnhof. Steigen Sie aus und erkunden Sie beide Museen zu Fuß.",
+            "hu": "Menjen busszal az állomásról. Szálljon le és fedezze fel mindkét múzeumot gyalog.",
+            "ro": "Luați un autobuz de la gară. Coborâți și explorați ambele muzee pe jos.",
+            "en": "Take a bus from the station. Get off and explore both museums on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Fængslet",
+            "hu": "Fængslet (A Börtön)",
+            "ro": "Fængslet (Închisoarea)",
+            "en": "Fængslet (The Prison)"
+          },
+          "coords": [
+            9.835,
+            55.869
+          ],
+          "category": "museums",
+          "arrive_at": "09:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Bushaltestelle ist direkt vor dem Eingang.",
+            "hu": "A buszmegálló közvetlenül a bejárat előtt van.",
+            "ro": "Stația de autobuz este chiar în fața intrării.",
+            "en": "The bus stop is right in front of the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Danmarks Industrimuseum",
+            "hu": "Dán Ipari Múzeum",
+            "ro": "Muzeul Industrial al Danemarcei",
+            "en": "Denmark's Industrial Museum"
+          },
+          "coords": [
+            9.839,
+            55.865
+          ],
+          "category": "museums",
+          "arrive_at": "11:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Fængslet. Ideal für die Mittagszeit.",
+            "hu": "Rövid séta a Fængslet-től. Ideális ebédidőben.",
+            "ro": "O scurtă plimbare de la Fængslet. Ideal pentru pauza de prânz.",
+            "en": "A short walk from Fængslet. Ideal for lunchtime."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster: Zentrum (Klosterkirke & Vitus Bering Park)",
+            "hu": "Központi negyed (Kolostortemplom és Vitus Bering Park)",
+            "ro": "Cluster: Centru (Biserica Mănăstirii & Parcul Vitus Bering)",
+            "en": "Center Cluster (Abbey Church & Vitus Bering Park)"
+          },
+          "coords": [
+            9.8518,
+            55.8615
+          ],
+          "category": "churches",
+          "arrive_at": "13:40",
+          "stay_min": 0,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück ins Zentrum. Von hier aus ist alles zu Fuß erreichbar.",
+            "hu": "Menjen vissza busszal a központba. Innen minden gyalogosan elérhető.",
+            "ro": "Luați autobuzul înapoi în centru. De aici, totul este la distanță de mers pe jos.",
+            "en": "Take the bus back to the center. Everything is within walking distance from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Horsens Klosterkirke",
+            "hu": "Horsensi kolostortemplom",
+            "ro": "Biserica Mănăstirii Horsens",
+            "en": "Horsens Abbey Church"
+          },
+          "coords": [
+            9.8518,
+            55.8615
+          ],
+          "category": "churches",
+          "arrive_at": "13:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Ort der Ruhe nach der Busfahrt.",
+            "hu": "A nyugalom helye a buszozás után.",
+            "ro": "Un loc de liniște după călătoria cu autobuzul.",
+            "en": "A place of tranquility after the bus ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Vitus Bering Park",
+            "hu": "Vitus Bering Park",
+            "ro": "Parcul Vitus Bering",
+            "en": "Vitus Bering Park"
+          },
+          "coords": [
+            9.855,
+            55.863
+          ],
+          "category": "parks",
+          "arrive_at": "14:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf einer Bank, bevor Sie zum letzten Ziel aufbrechen.",
+            "hu": "Pihenjen meg egy padon, mielőtt elindulna az utolsó célponthoz.",
+            "ro": "Relaxați-vă pe o bancă înainte de a porni spre destinația finală.",
+            "en": "Relax on a bench before heading to the final destination."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt mit einer Busfahrt zum Museumscluster, wo Sie in die Welt von Fængslet und dem Industriemuseum eintauchen. Nach einem Vormittag voller Entdeckungen und einem Mittagessen fahren Sie mit dem Bus zurück ins Herz von Horsens. Der Nachmittag gehört dem historischen Zentrum. Sie erkunden die ruhige Klosterkirke und entspannen im grünen Vitus Bering Park, alles bequem zu Fuß erreichbar von der zentralen Bushaltestelle aus.",
+        "hu": "A tömegközlekedéssel töltött nap egy buszúttal kezdődik a múzeumi negyedbe, ahol elmerülhet a Fængslet és az Ipari Múzeum világában. Egy felfedezésekkel és ebéddel teli délelőtt után busszal tér vissza Horsens szívébe. A délután a történelmi központé. Felfedezi a csendes kolostortemplomot, és pihen a zöld Vitus Bering Parkban, mindezt kényelmesen, gyalogosan elérhető távolságra a központi buszmegállótól.",
+        "ro": "Ziua cu transportul public începe cu o călătorie cu autobuzul către clusterul de muzee, unde vă veți cufunda în lumea Fængslet și a Muzeului Industrial. După o dimineață plină de explorări și un prânz, luați autobuzul înapoi în inima orașului Horsens. După-amiaza este dedicată centrului istoric. Explorați liniștita Biserică a Mănăstirii și vă relaxați în verdele Parc Vitus Bering, totul la o distanță de mers pe jos de la stația centrală de autobuz.",
+        "en": "Your day using public transport begins with a bus ride to the museum cluster, where you'll delve into the world of Fængslet and the Industrial Museum. After a morning of exploration and lunch, you'll take the bus back to the heart of Horsens. The afternoon is for the historic center. You'll explore the tranquil Abbey Church and relax in the green Vitus Bering Park, all within easy walking distance from the central bus stop."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Probieren Sie das klassische dänische offene Sandwich bei Eydes Kælder."
+          },
+          {
+            "name": "Streetfood in der Nähe des Bahnhofs",
+            "tip": "Schnappen Sie sich einen schnellen Happen, bevor Sie in den Bus steigen."
+          },
+          {
+            "name": "Mackies",
+            "tip": "Ein klassisches Diner für Burger und Pommes im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Kóstolja meg a klasszikus dán nyitott szendvicset az Eydes Kælderben."
+          },
+          {
+            "name": "Street food a pályaudvar közelében",
+            "tip": "Kapjon be egy gyors falatot, mielőtt felszáll a buszra."
+          },
+          {
+            "name": "Mackies",
+            "tip": "Klasszikus étkezde hamburgerekkel és sült krumplival a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Încercați sandvișul deschis danez clasic la Eydes Kælder."
+          },
+          {
+            "name": "Mâncare stradală lângă gară",
+            "tip": "Luați o gustare rapidă înainte de a urca în autobuz."
+          },
+          {
+            "name": "Mackies",
+            "tip": "Un restaurant clasic pentru burgeri și cartofi prăjiți în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Try the classic Danish open-faced sandwich at Eydes Kælder."
+          },
+          {
+            "name": "Street food near the station",
+            "tip": "Grab a quick bite before you hop on the bus."
+          },
+          {
+            "name": "Mackies",
+            "tip": "A classic diner for burgers and fries in the center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vitus Bering Park",
+            "tip": "Der perfekte Ort, um auf den nächsten Bus zu warten oder einfach nur zu entspannen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Nørrestrand",
+            "tip": "Einige Buslinien fahren in die Nähe dieses Naturschutzgebietes, ideal für eine ruhige Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirchhof der Klosterkirke",
+            "tip": "Eine Oase der Stille direkt im Stadtzentrum.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vitus Bering Park",
+            "tip": "Tökéletes hely a következő buszra várni vagy csak pihenni.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Nørrestrand partja",
+            "tip": "Néhány buszjárat ennek a természetvédelmi területnek a közelében áll meg, ideális egy csendes szünethez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A kolostortemplom udvara",
+            "tip": "A csend oázisa a város központjában.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Vitus Bering",
+            "tip": "Locul perfect pentru a aștepta următorul autobuz sau pur și simplu pentru a vă relaxa.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malul Nørrestrand",
+            "tip": "Unele linii de autobuz ajung în apropierea acestei rezervații naturale, ideală pentru o pauză liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea Bisericii Mănăstirii",
+            "tip": "O oază de liniște chiar în centrul orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vitus Bering Park",
+            "tip": "The perfect place to wait for the next bus or just to relax.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Shores of Nørrestrand",
+            "tip": "Some bus routes go near this nature reserve, ideal for a quiet break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Abbey Churchyard",
+            "tip": "An oasis of silence right in the city center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Søndergade",
+            "tip": "Leicht erreichbar von der zentralen Bushaltestelle für einen Einkaufsbummel."
+          },
+          {
+            "name": "bytorvHORSENS",
+            "tip": "Ein Einkaufszentrum in der Nähe des Busbahnhofs für einen regnerischen Tag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Søndergade",
+            "tip": "Könnyen megközelíthető a központi buszmegállóból egy vásárláshoz."
+          },
+          {
+            "name": "bytorvHORSENS",
+            "tip": "Bevásárlóközpont a buszpályaudvar közelében egy esős napra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Søndergade",
+            "tip": "Ușor accesibil de la stația centrală de autobuz pentru o sesiune de cumpărături."
+          },
+          {
+            "name": "bytorvHORSENS",
+            "tip": "Un centru comercial lângă autogară pentru o zi ploioasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Søndergade",
+            "tip": "Easily accessible from the central bus stop for a shopping spree."
+          },
+          {
+            "name": "bytorvHORSENS",
+            "tip": "A shopping mall near the bus station for a rainy day."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Überprüfen Sie den Busfahrplan im Voraus, besonders am Wochenende.",
+          "Die App 'Rejseplanen' ist sehr nützlich für die Planung Ihrer Fahrten.",
+          "Seien Sie pünktlich an der Haltestelle, die Busse fahren oft auf die Minute genau ab."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Előre ellenőrizze a buszmenetrendet, különösen hétvégén.",
+          "A 'Rejseplanen' alkalmazás nagyon hasznos az utazások megtervezéséhez.",
+          "Érkezzen időben a megállóba, a buszok gyakran percre pontosan indulnak."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Verificați programul autobuzelor în avans, mai ales în weekend.",
+          "Aplicația 'Rejseplanen' este foarte utilă pentru planificarea călătoriilor.",
+          "Fiți la timp la stație, autobuzele pleacă adesea la minut."
+        ],
+        "en": [
+          "Buy a day ticket for unlimited travel.",
+          "Check the bus schedule in advance, especially on weekends.",
+          "The 'Rejseplanen' app is very useful for planning your journeys.",
+          "Be at the bus stop on time, buses often leave exactly on schedule."
+        ]
+      }
+    }
+  }
+}

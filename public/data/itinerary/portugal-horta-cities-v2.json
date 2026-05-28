@@ -1,0 +1,1508 @@
+{
+  "city_id": "portugal-horta-cities-v2",
+  "anchor": {
+    "name": "Horta",
+    "coords": [
+      -28.6267,
+      38.5332
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Marina da Horta",
+            "hu": "Horta kikötője",
+            "ro": "Marina da Horta",
+            "en": "Marina da Horta"
+          },
+          "coords": [
+            -28.6245,
+            38.5321
+          ],
+          "category": "port",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die unzähligen Malereien der Segler, eine Freiluft-Kunstgalerie.",
+            "hu": "Csodáld meg a hajósok által festett több száz képet, egy valóságos szabadtéri galéria.",
+            "ro": "Admirați picturile nenumărate ale marinarilor, o galerie de artă în aer liber.",
+            "en": "Admire the countless paintings left by sailors, a true open-air art gallery."
+          }
+        },
+        {
+          "name": {
+            "de": "Peter Café Sport",
+            "hu": "Peter Café Sport",
+            "ro": "Peter Café Sport",
+            "en": "Peter Café Sport"
+          },
+          "coords": [
+            -28.6258,
+            38.5315
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Gin Tonic ist hier Pflicht. Besuchen Sie das Scrimshaw-Museum im Obergeschoss.",
+            "hu": "Egy gin-tonik itt kötelező. Látogasd meg az emeleten lévő scrimshaw múzeumot.",
+            "ro": "Un gin tonic aici este obligatoriu. Vizitați muzeul Scrimshaw de la etaj.",
+            "en": "A gin and tonic here is a must. Visit the Scrimshaw Museum upstairs."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja de São Salvador",
+            "hu": "Szent Megváltó templom",
+            "ro": "Biserica São Salvador",
+            "en": "Church of São Salvador"
+          },
+          "coords": [
+            -28.6299,
+            38.5345
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:43",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beachten Sie die vergoldeten Holzarbeiten und die schönen Azulejo-Fliesen im Inneren.",
+            "hu": "Figyeld meg a belső aranyozott fa-díszítést és a gyönyörű azulejo csempéket.",
+            "ro": "Observați lucrările interioare din lemn aurit și frumoasele plăci de azulejo.",
+            "en": "Note the gilded woodwork and beautiful azulejo tiles inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu da Horta",
+            "hu": "Horta Múzeum",
+            "ro": "Muzeul din Horta",
+            "en": "Horta Museum"
+          },
+          "coords": [
+            -28.6288,
+            38.5328
+          ],
+          "category": "museums",
+          "arrive_at": "11:26",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Ausstellung über den Walfang und die Vulkangeschichte der Insel.",
+            "hu": "Koncentrálj a bálnavadászatról és a sziget vulkáni történelméről szóló kiállításra.",
+            "ro": "Concentrează-te pe expoziția despre vânătoarea de balene și istoria vulcanică a insulei.",
+            "en": "Focus on the exhibit about whaling and the island's volcanic history."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte de Santa Cruz",
+            "hu": "Santa Cruz erőd",
+            "ro": "Fortul Santa Cruz",
+            "en": "Fort of Santa Cruz"
+          },
+          "coords": [
+            -28.6231,
+            38.5289
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:14",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Heute ein Hotel, aber Sie können die Außenmauern bewundern und die Aussicht auf den Hafen genießen.",
+            "hu": "Ma már szálloda, de megcsodálhatod a külső falakat és a kikötőre nyíló kilátást.",
+            "ro": "Astăzi este un hotel, dar puteți admira zidurile exterioare și priveliștea spre port.",
+            "en": "It's a hotel now, but you can admire the outer walls and the views over the harbour."
+          }
+        },
+        {
+          "name": {
+            "de": "Porto Pim Strand",
+            "hu": "Porto Pim strand",
+            "ro": "Plaja Porto Pim",
+            "en": "Porto Pim Beach"
+          },
+          "coords": [
+            -28.6315,
+            38.5273
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:28",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein sehr geschützter und ruhiger Strand, ideal zum Entspannen am Nachmittag.",
+            "hu": "Nagyon védett és nyugodt strand, ideális egy délutáni pihenéshez.",
+            "ro": "O plajă foarte adăpostită și calmă, perfectă pentru relaxare după-amiaza.",
+            "en": "A very sheltered and calm beach, perfect for relaxing in the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Monte da Guia",
+            "hu": "Monte da Guia",
+            "ro": "Monte da Guia",
+            "en": "Monte da Guia"
+          },
+          "coords": [
+            -28.6291,
+            38.5221
+          ],
+          "category": "natural features",
+          "arrive_at": "16:58",
+          "stay_min": 55,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Der Aufstieg ist die Aussicht wert. Schauen Sie auf Horta und über die Bucht nach Pico.",
+            "hu": "A meredek út megéri a kilátást. Tekints le Hortára és a Pico szigetére.",
+            "ro": "Urcușul merită priveliștea. Priviți în jos spre Horta și peste golf spre Pico.",
+            "en": "The climb is worth the view. Look down on Horta and across the bay to Pico."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im kosmopolitischen Jachthafen, bevor Sie im berühmten Peter's Café in die Seefahrergeschichte eintauchen. Erkunden Sie am Vormittag das historische Zentrum mit seiner Hauptkirche und dem Museum, das die Vergangenheit der Insel enthüllt. Am Nachmittag schlendern Sie zur Festung, entspannen am geschützten Strand von Porto Pim und beenden den Tag mit einem Aufstieg auf den Monte da Guia, der einen atemberaubenden Blick auf den Sonnenuntergang bietet. Es ist ein Tag voller Seefahrer-Charme und natürlicher Schönheit.",
+        "hu": "Kezdje a napot a kozmopolita jachtkikötőben, mielőtt a híres Peter's Caféban elmerülne a tengerész-történelemben. Délelőtt fedezze fel a történelmi központot a főtemplomával és a sziget múltját bemutató múzeumával. Délután sétáljon el az erődhöz, pihenjen Porto Pim védett strandján, és fejezze be a napot a Monte da Guia megmászásával, ahonnan lenyűgöző naplementében gyönyörködhet. Ez egy tengerész bájjal és természeti szépséggel teli nap.",
+        "ro": "Începeți ziua în portul cosmopolit înainte de a vă cufunda în istoria maritimă la faimosul Peter's Café. La amiază, explorați centrul istoric, cu biserica sa principală și muzeul care dezvăluie trecutul insulei. După-amiaza, plimbați-vă până la fort, relaxați-vă pe plaja adăpostită din Porto Pim și încheiați cu o urcare pe Monte da Guia pentru priveliști uimitoare la apus. Este o zi de farmec maritim și frumusețe naturală.",
+        "en": "Start your day at the cosmopolitan marina before diving into seafaring history at the famous Peter's Café. Mid-morning, explore the historic center, with its main church and museum revealing the island's past. In the afternoon, stroll to the fort, relax on the sheltered Porto Pim beach, and finish with a climb up Monte da Guia for stunning sunset views. It's a day of maritime charm and natural beauty."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frischer Fisch vom Grill",
+            "tip": "Probieren Sie ihn im Genuíno, mit Blick auf den Hafen von Porto Pim."
+          },
+          {
+            "name": "Alcatra",
+            "tip": "Ein traditioneller Rindfleischeintopf, langsam gargekocht in einem Tontopf. Am besten im Canto da Doca."
+          },
+          {
+            "name": "Queijo de São Jorge",
+            "tip": "Obwohl von einer anderen Insel, ist dieser würzige Käse überall auf den Azoren zu finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett friss hal",
+            "tip": "Próbáld ki a Genuínóban, kilátással a Porto Pim kikötőre."
+          },
+          {
+            "name": "Alcatra",
+            "tip": "Hagyományos marhapörkölt, agyagedényben lassan főzve. A legjobb a Canto da Docában."
+          },
+          {
+            "name": "São Jorge sajt",
+            "tip": "Bár egy másik szigetről származik, ez a csípős sajt mindenhol megtalálható az Azori-szigeteken."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește proaspăt la grătar",
+            "tip": "Încercați-l la Genuíno, cu vedere la portul Porto Pim."
+          },
+          {
+            "name": "Alcatra",
+            "tip": "O tocană tradițională de vită, gătită lent într-un vas de lut. Cel mai bun la Canto da Doca."
+          },
+          {
+            "name": "Brânză São Jorge",
+            "tip": "Deși de pe o altă insulă, această brânză picantă se găsește peste tot în Azore."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled Fresh Fish",
+            "tip": "Try it at Genuíno, overlooking the Porto Pim harbour."
+          },
+          {
+            "name": "Alcatra",
+            "tip": "A traditional beef stew slow-cooked in a clay pot. Best at Canto da Doca."
+          },
+          {
+            "name": "São Jorge Cheese",
+            "tip": "Although from another island, this tangy cheese is found everywhere in the Azores."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfel des Monte da Guia",
+            "tip": "Panorama-Blick auf die Bucht und die Stadt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Porto Pim Strand",
+            "tip": "Besonders am späten Nachmittag sehr ruhig.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Jardim da Praça do Infante",
+            "tip": "Ein kleiner, ruhiger Garten im Zentrum der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Monte da Guia csúcsa",
+            "tip": "Panorámás kilátás az öbölre és a városra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Porto Pim strand",
+            "tip": "Különösen csendes a késő délutáni órákban.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Jardim da Praça do Infante",
+            "tip": "Egy kicsi, békés kert a város központjában.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Monte da Guia",
+            "tip": "Vederi panoramice ale golfului și orașului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plaja Porto Pim",
+            "tip": "Deosebit de liniștită după-amiaza târziu.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Jardim da Praça do Infante",
+            "tip": "O grădină mică și liniștită în centrul orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Summit of Monte da Guia",
+            "tip": "Panoramic views of the bay and the city.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Porto Pim Beach",
+            "tip": "Especially quiet in the late afternoon.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Jardim da Praça do Infante",
+            "tip": "A small, peaceful garden in the city center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Peter Café Sport Shop",
+            "tip": "Kaufen Sie das ikonische T-Shirt oder einen Kapuzenpulli."
+          },
+          {
+            "name": "Lokale Kunsthandwerksläden",
+            "tip": "Suchen Sie nach Scrimshaw (gravierte Walzähne) und Kunsthandwerk aus Fischschuppen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Peter Café Sport boltja",
+            "tip": "Vásárolj egy ikonikus pólót vagy kapucnis pulóvert."
+          },
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keress scrimshaw-t (vésett bálnafog) és halpikkelyből készült kézműves termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Peter Café Sport",
+            "tip": "Cumpărați tricoul iconic sau un hanorac."
+          },
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Căutați scrimshaw (dinți de balenă gravați) și obiecte de artizanat din solzi de pește."
+          }
+        ],
+        "en": [
+          {
+            "name": "Peter Café Sport Shop",
+            "tip": "Buy the iconic t-shirt or a hoodie."
+          },
+          {
+            "name": "Local Artisan Shops",
+            "tip": "Look for scrimshaw (engraved whale teeth) and fish scale crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel auf Kopfsteinpflaster laufen werden.",
+          "Nehmen Sie Wasser mit für den Aufstieg auf den Monte da Guia.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind leicht zu Fuß erreichbar.",
+          "Überprüfen Sie die Öffnungszeiten des Museums, da diese variieren können."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, sokat fogsz macskakövön sétálni.",
+          "Vigyél vizet a Monte da Guia megmászásához.",
+          "A városközpont legtöbb látnivalója könnyen elérhető gyalog.",
+          "Ellenőrizd a múzeum nyitvatartási idejét, mert változhat."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge mult pe piatră cubică.",
+          "Luați apă cu voi pentru urcarea pe Monte da Guia.",
+          "Majoritatea atracțiilor din centrul orașului sunt la o distanță mică de mers pe jos.",
+          "Verificați orele de deschidere ale muzeului, deoarece acestea pot varia."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be walking on cobblestones a lot.",
+          "Bring water for the climb up Monte da Guia.",
+          "Most sights in the city center are within easy walking distance.",
+          "Check museum opening times as they can vary."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Marina da Horta",
+            "hu": "Horta kikötője",
+            "ro": "Marina da Horta",
+            "en": "Marina da Horta"
+          },
+          "coords": [
+            -28.6245,
+            38.5321
+          ],
+          "category": "port",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Radtour hier, nachdem Sie die berühmten Wandmalereien bewundert haben.",
+            "hu": "Innen indítsd a biciklitúrát, miután megcsodáltad a híres falfestményeket.",
+            "ro": "Începeți turul cu bicicleta de aici, după ce ați admirat picturile murale celebre.",
+            "en": "Start your bike tour here after admiring the famous murals."
+          }
+        },
+        {
+          "name": {
+            "de": "Porto Pim Strand",
+            "hu": "Porto Pim strand",
+            "ro": "Plaja Porto Pim",
+            "en": "Porto Pim Beach"
+          },
+          "coords": [
+            -28.6315,
+            38.5273
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:48",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für eine erste Pause und vielleicht ein kurzes Bad im ruhigen Wasser.",
+            "hu": "Tökéletes hely egy első szünetre, és talán egy gyors úszásra a nyugodt vízben.",
+            "ro": "Un loc perfect pentru o primă pauză și poate o baie rapidă în apele calme.",
+            "en": "A perfect spot for a first break and maybe a quick swim in the calm waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu da Horta",
+            "hu": "Horta Múzeum",
+            "ro": "Muzeul din Horta",
+            "en": "Horta Museum"
+          },
+          "coords": [
+            -28.6288,
+            38.5328
+          ],
+          "category": "museums",
+          "arrive_at": "11:11",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und tauchen Sie in die faszinierende Geschichte der Insel ein.",
+            "hu": "Parkold le a biciklidet, és merülj el a sziget lenyűgöző történelmében.",
+            "ro": "Parcați bicicleta și pătrundeți în istoria fascinantă a insulei.",
+            "en": "Park your bike and delve into the island's fascinating history."
+          }
+        },
+        {
+          "name": {
+            "de": "Peter Café Sport",
+            "hu": "Peter Café Sport",
+            "ro": "Peter Café Sport",
+            "en": "Peter Café Sport"
+          },
+          "coords": [
+            -28.6258,
+            38.5315
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:54",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für ein Mittagessen und um die maritime Atmosphäre aufzusaugen.",
+            "hu": "Remek hely egy ebédre és a tengeri hangulat magába szívására.",
+            "ro": "Un loc minunat pentru prânz și pentru a absorbi atmosfera maritimă.",
+            "en": "A great spot for lunch and to soak up the maritime atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte de Santa Cruz",
+            "hu": "Santa Cruz erőd",
+            "ro": "Fortul Santa Cruz",
+            "en": "Fort of Santa Cruz"
+          },
+          "coords": [
+            -28.6231,
+            38.5289
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:18",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Machen Sie Fotos von der Festung mit dem Meer im Hintergrund.",
+            "hu": "Készíts képeket az erődről a tengerrel a háttérben.",
+            "ro": "Faceți fotografii cu fortul având marea pe fundal.",
+            "en": "Take photos of the fort with the sea in the background."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro N. Sra. da Conceição",
+            "hu": "N. Sra. da Conceição kilátó",
+            "ro": "Punct de vedere N. Sra. da Conceição",
+            "en": "N. Sra. da Conceição Viewpoint"
+          },
+          "coords": [
+            -28.636,
+            38.544
+          ],
+          "category": "natural features",
+          "arrive_at": "15:52",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 54,
+          "hop_from_prev_km": 9.0,
+          "tip_5lang": {
+            "de": "Der Anstieg ist eine Herausforderung, aber der Panoramablick über die Stadt und die Bucht ist die Belohnung.",
+            "hu": "A hegyre való feljutás kihívást jelent, de a városra és az öbölre nyíló panoráma kárpótol.",
+            "ro": "Urcarea este o provocare, dar priveliștea panoramică asupra orașului și a golfului este recompensa.",
+            "en": "The climb is a challenge, but the panoramic view over the city and bay is the reward."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens von der berühmten Marina zum ruhigen Strand von Porto Pim für eine erfrischende Pause. Nach dem Eintauchen in die Geschichte im Horta Museum genießen Sie ein wohlverdientes Mittagessen im legendären Peter Café Sport. Am Nachmittag radeln Sie zur Festung Santa Cruz, bevor Sie die Herausforderung des Aufstiegs zum Miradouro da Conceição annehmen, wo Sie mit einer der besten Aussichten der Insel belohnt werden. Dies ist ein aktiver Tag, der die Highlights der Küste von Horta verbindet.",
+        "hu": "Kerékpározzon reggel a híres kikötőből a nyugodt Porto Pim strandra egy frissítő szünetért. Miután elmerült a Horta Múzeum történelmében, élvezze a jól megérdemelt ebédet a legendás Peter Café Sportban. Délután tekerjen el a Santa Cruz erődhöz, mielőtt vállalkozna a Miradouro da Conceição megmászásának kihívására, ahol a sziget egyik legjobb kilátása várja. Ez egy aktív nap, amely Horta tengerparti látnivalóit köti össze.",
+        "ro": "Dimineața, pedalați de la celebra marină la plaja liniștită Porto Pim pentru o pauză revigorantă. După ce v-ați cufundat în istorie la Muzeul Horta, bucurați-vă de un prânz binemeritat la legendarul Peter Café Sport. După-amiaza, pedalați până la Fortul Santa Cruz înainte de a accepta provocarea urcării la Miradouro da Conceição, unde veți fi răsplătit cu una dintre cele mai bune priveliști de pe insulă. Este o zi activă care leagă cele mai importante atracții de pe coasta Hortei.",
+        "en": "In the morning, cycle from the famous marina to the tranquil Porto Pim beach for a refreshing break. After delving into history at the Horta Museum, enjoy a well-deserved lunch at the legendary Peter Café Sport. In the afternoon, pedal to the Santa Cruz Fort before taking on the challenge of climbing to Miradouro da Conceição, where you'll be rewarded with one of the best views on the island. This is an active day connecting Horta's coastal highlights."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lapas (Napfschnecken)",
+            "tip": "Gegrillt mit Knoblauch und Butter, eine lokale Delikatesse. Probieren Sie sie im O'Pescador."
+          },
+          {
+            "name": "Bolo de Milho",
+            "tip": "Ein traditioneller Maismehlkuchen, perfekt für einen Energieschub."
+          },
+          {
+            "name": "Kima Maracujá",
+            "tip": "Ein lokales Passionsfrucht-Soda, sehr erfrischend nach einer Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lapas (csigaszerű tengeri herkentyű)",
+            "tip": "Grillezve fokhagymával és vajjal, helyi finomság. Próbáld ki az O'Pescador-ban."
+          },
+          {
+            "name": "Bolo de Milho",
+            "tip": "Hagyományos kukoricaliszt sütemény, tökéletes energiafröccs."
+          },
+          {
+            "name": "Kima Maracujá",
+            "tip": "Helyi passiógyümölcs szénsavas üdítő, nagyon frissítő egy biciklitúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lapas (melci de mare)",
+            "tip": "La grătar cu usturoi și unt, o delicatesă locală. Încercați-le la O'Pescador."
+          },
+          {
+            "name": "Bolo de Milho",
+            "tip": "O prăjitură tradițională din făină de porumb, perfectă pentru un plus de energie."
+          },
+          {
+            "name": "Kima Maracujá",
+            "tip": "O băutură carbogazoasă locală cu fructul pasiunii, foarte răcoritoare după o plimbare cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lapas (Limpets)",
+            "tip": "Grilled with garlic and butter, a local delicacy. Try them at O'Pescador."
+          },
+          {
+            "name": "Bolo de Milho",
+            "tip": "A traditional cornmeal cake, perfect for an energy boost."
+          },
+          {
+            "name": "Kima Maracujá",
+            "tip": "A local passion fruit soda, very refreshing after a bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Miradouro N. Sra. da Conceição",
+            "tip": "Nach dem Aufstieg werden Sie die Ruhe und die Aussicht genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Blick von der Hafenmauer",
+            "tip": "Schauen Sie den Segelbooten beim Kommen und Gehen zu.",
+            "emoji": "⛵"
+          },
+          {
+            "name": "Walfabrik-Museum in Porto Pim",
+            "tip": "Ein stiller Ort, der an eine vergangene Ära erinnert.",
+            "emoji": "🏛️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "N. Sra. da Conceição kilátó",
+            "tip": "A mászás után élvezni fogod a csendet és a kilátást.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a kikötőgátról",
+            "tip": "Nézd a vitorlásokat, ahogy jönnek és mennek.",
+            "emoji": "⛵"
+          },
+          {
+            "name": "A Bálnavadászati Múzeum Porto Pimben",
+            "tip": "Csendes hely, amely egy letűnt korszakra emlékeztet.",
+            "emoji": "🏛️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de vedere N. Sra. da Conceição",
+            "tip": "După urcare, vă veți bucura de liniște și de priveliște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere de pe digul portului",
+            "tip": "Urmăriți bărcile cu pânze cum vin și pleacă.",
+            "emoji": "⛵"
+          },
+          {
+            "name": "Muzeul Fabricii de Balene din Porto Pim",
+            "tip": "Un loc tăcut, care amintește de o eră apusă.",
+            "emoji": "🏛️"
+          }
+        ],
+        "en": [
+          {
+            "name": "N. Sra. da Conceição Viewpoint",
+            "tip": "After the climb, you'll enjoy the peace and the view.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from the marina breakwater",
+            "tip": "Watch the sailing boats come and go.",
+            "emoji": "⛵"
+          },
+          {
+            "name": "Whale Factory Museum at Porto Pim",
+            "tip": "A silent place, reminiscent of a bygone era.",
+            "emoji": "🏛️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Azores on the Road",
+            "tip": "Ein Geschäft, das sich auf lokale Produkte und Souvenirs konzentriert, ideal für Radfahrer."
+          },
+          {
+            "name": "Mercado Municipal da Horta",
+            "tip": "Kaufen Sie lokale Früchte und Käse für ein Picknick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Azores on the Road",
+            "tip": "Helyi termékekre és ajándéktárgyakra szakosodott bolt, ideális kerékpárosoknak."
+          },
+          {
+            "name": "Horta városi piac",
+            "tip": "Vásárolj helyi gyümölcsöt és sajtot egy piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Azores on the Road",
+            "tip": "Un magazin axat pe produse locale și suveniruri, ideal pentru bicicliști."
+          },
+          {
+            "name": "Mercado Municipal da Horta",
+            "tip": "Cumpărați fructe și brânzeturi locale pentru un picnic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Azores on the Road",
+            "tip": "A shop focused on local products and souvenirs, great for cyclists."
+          },
+          {
+            "name": "Mercado Municipal da Horta",
+            "tip": "Buy some local fruit and cheese for a picnic."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Horta ist hügelig; ein E-Bike könnte eine gute Option sein.",
+          "Die Straßen können eng und mit Kopfsteinpflaster gepflastert sein, fahren Sie also vorsichtig.",
+          "Schließen Sie Ihr Fahrrad an den Hauptattraktionen immer ab.",
+          "Die Küstenstraße 'Avenida Marginal' bietet eine flache und malerische Fahrt."
+        ],
+        "hu": [
+          "Horta dombos; egy e-bicikli jó választás lehet.",
+          "Az utak szűkek és macskakövesek lehetnek, vezess óvatosan.",
+          "Mindig zárd le a biciklidet a fő látnivalóknál.",
+          "Az 'Avenida Marginal' tengerparti út sík és festői utat kínál."
+        ],
+        "ro": [
+          "Horta este deluroasă; o bicicletă electrică ar putea fi o opțiune bună.",
+          "Străzile pot fi înguste și pavate cu piatră cubică, așa că mergeți cu prudență.",
+          "Încuiati-vă întotdeauna bicicleta la principalele atracții.",
+          "Drumul de coastă 'Avenida Marginal' oferă o plimbare plată și pitorească."
+        ],
+        "en": [
+          "Horta is hilly; an e-bike could be a good option.",
+          "Roads can be narrow and cobbled, so ride with care.",
+          "Always lock your bike at the main attractions.",
+          "The coastal road 'Avenida Marginal' offers a flat and scenic ride."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 14.9,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Miradouro N. Sra. da Conceição",
+            "hu": "N. Sra. da Conceição kilátó",
+            "ro": "Punct de vedere N. Sra. da Conceição",
+            "en": "N. Sra. da Conceição Viewpoint"
+          },
+          "coords": [
+            -28.636,
+            38.544
+          ],
+          "category": "natural features",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit dem besten Panoramablick auf Horta.",
+            "hu": "Kezdje a napot Horta legjobb panorámájával.",
+            "ro": "Începeți ziua cu cea mai bună priveliște panoramică a Hortei.",
+            "en": "Start your day with the best panoramic view of Horta."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja de São Salvador",
+            "hu": "Szent Megváltó templom",
+            "ro": "Biserica São Salvador",
+            "en": "Church of São Salvador"
+          },
+          "coords": [
+            -28.6299,
+            38.5345
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:33",
+          "stay_min": 40,
+          "hop_mode": "car",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Stadtzentrums und beginnen Sie Ihren Rundgang hier.",
+            "hu": "Parkolj a városközpont közelében, és innen kezdd a sétát.",
+            "ro": "Parcați lângă centrul orașului și începeți turul pietonal de aici.",
+            "en": "Park near the city center and start your walking tour here."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu da Horta",
+            "hu": "Horta Múzeum",
+            "ro": "Muzeul din Horta",
+            "en": "Horta Museum"
+          },
+          "coords": [
+            -28.6288,
+            38.5328
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Kirche aus. Planen Sie genügend Zeit ein.",
+            "hu": "Rövid séta a templomtól. Szánj rá elég időt.",
+            "ro": "La o scurtă plimbare de biserică. Alocați suficient timp.",
+            "en": "A short walk from the church. Plan enough time."
+          }
+        },
+        {
+          "name": {
+            "de": "Peter Café Sport",
+            "hu": "Peter Café Sport",
+            "ro": "Peter Café Sport",
+            "en": "Peter Café Sport"
+          },
+          "coords": [
+            -28.6258,
+            38.5315
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:40",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein Muss für jeden Horta-Besucher. Der perfekte Ort für eine Vormittagspause.",
+            "hu": "Minden Horta-látogatónak kötelező. Tökéletes hely egy délelőtti szünetre.",
+            "ro": "O vizită obligatorie pentru orice vizitator al Hortei. Locul perfect pentru o pauză de dimineață.",
+            "en": "A must-visit for any Horta visitor. The perfect spot for a mid-morning break."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina da Horta",
+            "hu": "Horta kikötője",
+            "ro": "Marina da Horta",
+            "en": "Marina da Horta"
+          },
+          "coords": [
+            -28.6245,
+            38.5321
+          ],
+          "category": "port",
+          "arrive_at": "12:22",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der Hafenmauern und bewundern Sie die Kunst der Seeleute.",
+            "hu": "Sétálj végig a kikötő falain és csodáld meg a tengerészek művészetét.",
+            "ro": "Plimbați-vă de-a lungul zidurilor marinei și admirați arta marinarilor.",
+            "en": "Walk along the marina walls and admire the sailors' art."
+          }
+        },
+        {
+          "name": {
+            "de": "Monte da Guia",
+            "hu": "Monte da Guia",
+            "ro": "Monte da Guia",
+            "en": "Monte da Guia"
+          },
+          "coords": [
+            -28.6291,
+            38.5221
+          ],
+          "category": "natural features",
+          "arrive_at": "13:30",
+          "stay_min": 40,
+          "hop_mode": "car",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum nächsten Cluster und genießen Sie die Aussicht von diesem Vulkankegel.",
+            "hu": "Vezess át a következő helyszíncsoporthoz, és élvezd a kilátást erről a vulkáni kúpról.",
+            "ro": "Conduceți spre următorul cluster și bucurați-vă de priveliștea de pe acest con vulcanic.",
+            "en": "Drive to the next cluster and enjoy the view from this volcanic cone."
+          }
+        },
+        {
+          "name": {
+            "de": "Porto Pim Strand",
+            "hu": "Porto Pim strand",
+            "ro": "Plaja Porto Pim",
+            "en": "Porto Pim Beach"
+          },
+          "coords": [
+            -28.6315,
+            38.5273
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Zeit für ein Mittagessen und Entspannung am Strand.",
+            "hu": "Itt az ebéd és a strandolás ideje.",
+            "ro": "Timp pentru prânz și relaxare pe plajă.",
+            "en": "Time for lunch and some beach relaxation."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte de Santa Cruz",
+            "hu": "Santa Cruz erőd",
+            "ro": "Fortul Santa Cruz",
+            "en": "Fort of Santa Cruz"
+          },
+          "coords": [
+            -28.6231,
+            38.5289
+          ],
+          "arrive_at": "16:25",
+          "stay_min": 50,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 9.0,
+          "category": "castles/fortresses/towers",
+          "tip_5lang": {
+            "de": "Ein letzter kurzer Halt, um die historische Festung zu bewundern, die den Hafen bewacht.",
+            "hu": "Egy utolsó rövid megálló, hogy megcsodáljuk a kikötőt őrző történelmi erődöt.",
+            "ro": "O ultimă oprire scurtă pentru a admira fortul istoric care păzește portul.",
+            "en": "A final short stop to admire the historic fort guarding the harbour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer Autofahrt zum Miradouro da Conceição für einen unschlagbaren Überblick. Fahren Sie dann ins Stadtzentrum, parken Sie Ihr Auto und erkunden Sie den ersten Cluster zu Fuß: die Kirche, das Museum, das Peter's Café und den farbenfrohen Jachthafen. Nach dem Mittagessen fahren Sie zum zweiten Cluster: dem Monte da Guia. Von dort aus spazieren Sie zum entspannten Strand von Porto Pim. Beenden Sie Ihren Tag mit einer kurzen Fahrt zur historischen Festung Santa Cruz, bevor Sie den Sonnenuntergang genießen. Ein perfekter Mix aus Fahren und Entdecken.",
+        "hu": "Kezdje a napot egy autózással a Miradouro da Conceição kilátóhoz egy verhetetlen áttekintésért. Ezután hajtson be a városközpontba, parkolja le autóját, és fedezze fel az első helyszíncsoportot gyalog: a templomot, a múzeumot, a Peter's Café-t és a színes jachtkikötőt. Ebéd után vezessen a második csoporthoz: a Monte da Guia-hoz. Innen sétáljon le a pihentető Porto Pim strandra. Fejezze be a napot egy rövid autózással a történelmi Santa Cruz erődhöz, mielőtt élvezné a naplementét. A vezetés és a felfedezés tökéletes keveréke.",
+        "ro": "Începeți ziua cu o plimbare cu mașina până la Miradouro da Conceição pentru o imagine de ansamblu imbatabilă. Apoi, conduceți în centrul orașului, parcați mașina și explorați primul cluster pe jos: biserica, muzeul, Peter's Café și portul de agrement colorat. După prânz, conduceți spre al doilea cluster: Monte da Guia. De acolo, faceți o plimbare până la plaja relaxantă Porto Pim. Încheiați ziua cu o scurtă călătorie cu mașina până la istoricul Fort Santa Cruz înainte de a vă bucura de apus. Un amestec perfect de condus și explorare.",
+        "en": "Start your day with a drive to Miradouro da Conceição for an unbeatable overview. Then, drive into the city center, park your car, and explore the first cluster on foot: the church, the museum, Peter's Café, and the colorful marina. After lunch, drive to the second cluster: Monte da Guia. From there, take a walk down to the relaxing Porto Pim beach. End your day with a final short drive to the historic Santa Cruz Fort before enjoying the sunset. A perfect mix of driving and discovery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cozido das Furnas (Azorean Style)",
+            "tip": "Obwohl es typisch für São Miguel ist, bieten einige Restaurants in Horta ihre eigene Version an."
+          },
+          {
+            "name": "Espécies",
+            "tip": "Ein gewürzter Keks, der oft in lokalen Bäckereien zu finden ist."
+          },
+          {
+            "name": "Lokaler Wein von Pico",
+            "tip": "Probieren Sie einen Verdelho oder Arinto von der Nachbarinsel, der perfekt zu Meeresfrüchten passt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cozido das Furnas (azori stílus)",
+            "tip": "Bár São Miguelre jellemző, néhány Horta-i étterem saját verzióját kínálja."
+          },
+          {
+            "name": "Espécies",
+            "tip": "Fűszeres keksz, amelyet gyakran találni a helyi pékségekben."
+          },
+          {
+            "name": "Helyi bor Picóról",
+            "tip": "Kóstolj meg egy Verdelho-t vagy Arinto-t a szomszédos szigetről, amely tökéletesen illik a tenger gyümölcseihez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cozido das Furnas (stil azorean)",
+            "tip": "Deși este tipic pentru São Miguel, unele restaurante din Horta oferă propria lor versiune."
+          },
+          {
+            "name": "Espécies",
+            "tip": "Un fursec condimentat, adesea găsit în brutăriile locale."
+          },
+          {
+            "name": "Vin local din Pico",
+            "tip": "Încercați un Verdelho sau Arinto de pe insula vecină, perfect cu fructe de mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cozido das Furnas (Azorean Style)",
+            "tip": "Although typical of São Miguel, some restaurants in Horta offer their own version."
+          },
+          {
+            "name": "Espécies",
+            "tip": "A spiced biscuit often found in local bakeries."
+          },
+          {
+            "name": "Local Pico Wine",
+            "tip": "Try a Verdelho or Arinto from the neighbouring island, perfect with seafood."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Caldeira do Faial",
+            "tip": "Eine kurze Autofahrt von Horta entfernt liegt dieser beeindruckende Vulkankrater. Ultimative Ruhe.",
+            "emoji": "🌋"
+          },
+          {
+            "name": "Die Fahrt entlang der Küste",
+            "tip": "Finden Sie Ihre eigene kleine Bucht oder einen Aussichtspunkt.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Parque da Alagoa",
+            "tip": "Ein schöner Park zum Entspannen, etwas außerhalb des Hauptzentrums.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Caldeira do Faial",
+            "tip": "Rövid autóútra Hortától található ez a lenyűgöző vulkáni kráter. Végső nyugalom.",
+            "emoji": "🌋"
+          },
+          {
+            "name": "Autózás a tengerpart mentén",
+            "tip": "Találd meg a saját kis öblödet vagy kilátópontodat.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Parque da Alagoa",
+            "tip": "Egy kellemes park a pihenéshez, kicsit a központtól kijjebb.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caldeira do Faial",
+            "tip": "La o scurtă distanță cu mașina de Horta se află acest crater vulcanic impresionant. Liniște supremă.",
+            "emoji": "🌋"
+          },
+          {
+            "name": "Drumul de-a lungul coastei",
+            "tip": "Găsește-ți propriul golfuleț sau punct de belvedere.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Parque da Alagoa",
+            "tip": "Un parc frumos pentru relaxare, chiar în afara centrului principal.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Caldeira do Faial",
+            "tip": "A short drive from Horta lies this stunning volcanic crater. Ultimate tranquility.",
+            "emoji": "🌋"
+          },
+          {
+            "name": "The drive along the coast",
+            "tip": "Find your own little cove or viewpoint.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Parque da Alagoa",
+            "tip": "A nice park to relax in, just outside the main center.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Käsefabrik O Morro",
+            "tip": "Kaufen Sie frischen Azorenkäse direkt von der Quelle."
+          },
+          {
+            "name": "Casa de Povo",
+            "tip": "Kooperativen, die oft lokales Kunsthandwerk und Produkte verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "O Morro sajtgyár",
+            "tip": "Vásárolj friss azori sajtot közvetlenül a forrásból."
+          },
+          {
+            "name": "Casa de Povo",
+            "tip": "Szövetkezetek, amelyek gyakran helyi kézműves termékeket és árukat árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fabrica de brânzeturi O Morro",
+            "tip": "Cumpărați brânză proaspătă azoreană direct de la sursă."
+          },
+          {
+            "name": "Casa de Povo",
+            "tip": "Cooperative care vând adesea artizanat și produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "O Morro Cheese Factory",
+            "tip": "Buy fresh Azorean cheese direct from the source."
+          },
+          {
+            "name": "Casa de Povo",
+            "tip": "Cooperatives that often sell local handicrafts and produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum kann im Sommer schwierig sein. Suchen Sie nach ausgewiesenen Parkplätzen.",
+          "Die Straßen sind eng, fahren Sie also langsam und aufmerksam.",
+          "Ein Auto gibt Ihnen die Freiheit, auch die abgelegeneren Teile der Insel Faial zu erkunden.",
+          "Achten Sie auf Einbahnstraßen im historischen Zentrum."
+        ],
+        "hu": [
+          "A parkolás a városközpontban nyáron nehézkes lehet. Keress kijelölt parkolóhelyeket.",
+          "Az utak szűkek, ezért vezess lassan és figyelmesen.",
+          "Az autó szabadságot ad, hogy Faial sziget távolabbi részeit is felfedezd.",
+          "Figyelj az egyirányú utcákra a történelmi központban."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi dificilă în timpul verii. Căutați locuri de parcare desemnate.",
+          "Străzile sunt înguste, așa că conduceți încet și cu atenție.",
+          "O mașină vă oferă libertatea de a explora și părțile mai îndepărtate ale insulei Faial.",
+          "Fiți atenți la străzile cu sens unic din centrul istoric."
+        ],
+        "en": [
+          "Parking in the city center can be tricky in summer. Look for designated car parks.",
+          "The streets are narrow, so drive slowly and be aware.",
+          "A car gives you the freedom to explore the more remote parts of Faial island.",
+          "Be mindful of one-way streets in the historic center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Igreja de São Salvador",
+            "hu": "Szent Megváltó templom",
+            "ro": "Biserica São Salvador",
+            "en": "Church of São Salvador"
+          },
+          "coords": [
+            -28.6299,
+            38.5345
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie am Busbahnhof in der Nähe des Zentrums und gehen Sie zu dieser beeindruckenden Kirche.",
+            "hu": "Kezdje a központhoz közeli buszpályaudvarnál, és sétáljon el ehhez a lenyűgöző templomhoz.",
+            "ro": "Începeți la stația de autobuz de lângă centru și mergeți pe jos până la această biserică impresionantă.",
+            "en": "Start at the bus terminal near the center and walk to this impressive church."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu da Horta",
+            "hu": "Horta Múzeum",
+            "ro": "Muzeul din Horta",
+            "en": "Horta Museum"
+          },
+          "coords": [
+            -28.6288,
+            38.5328
+          ],
+          "category": "museums",
+          "arrive_at": "09:42",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die lokale Kultur, die nur einen kurzen Spaziergang entfernt ist.",
+            "hu": "Ismerje meg a helyi kultúrát, amely csak egy rövid sétára van.",
+            "ro": "Aflați despre cultura locală, la o scurtă plimbare distanță.",
+            "en": "Learn about the local culture just a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina da Horta & Peter Café Sport",
+            "hu": "Horta kikötő és Peter Café Sport",
+            "ro": "Marina da Horta & Peter Café Sport",
+            "en": "Marina da Horta & Peter Café Sport"
+          },
+          "coords": [
+            -28.6251,
+            38.5318
+          ],
+          "category": "port",
+          "arrive_at": "11:27",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Kombinieren Sie einen Spaziergang durch den Jachthafen mit einem Drink im berühmtesten Café der Welt.",
+            "hu": "Kombinálja a kikötői sétát egy itallal a világ leghíresebb kávézójában.",
+            "ro": "Combinați o plimbare prin port cu o băutură la cea mai faimoasă cafenea din lume.",
+            "en": "Combine a walk around the marina with a drink at the world's most famous café."
+          }
+        },
+        {
+          "name": {
+            "de": "Porto Pim Strand",
+            "hu": "Porto Pim strand",
+            "ro": "Plaja Porto Pim",
+            "en": "Porto Pim Beach"
+          },
+          "coords": [
+            -28.6315,
+            38.5273
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:02",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus oder gehen Sie zu Fuß, um diesen geschützten Strand für eine Mittagspause zu erreichen.",
+            "hu": "Menjen helyi busszal vagy sétáljon el erre a védett strandra egy ebédszünetre.",
+            "ro": "Luați un autobuz local sau mergeți pe jos pentru a ajunge la această plajă adăpostită pentru o pauză de prânz.",
+            "en": "Take a local bus or walk to reach this sheltered beach for a lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte de Santa Cruz",
+            "hu": "Santa Cruz erőd",
+            "ro": "Fortul Santa Cruz",
+            "en": "Fort of Santa Cruz"
+          },
+          "coords": [
+            -28.6231,
+            38.5289
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:10",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein einfacher Spaziergang vom Strand von Porto Pim aus, um die Bucht zu überblicken.",
+            "hu": "Könnyű séta a Porto Pim strandról, kilátással az öbölre.",
+            "ro": "O plimbare ușoară de la plaja Porto Pim pentru a admira golful.",
+            "en": "An easy walk from Porto Pim beach to overlook the bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Monte da Guia",
+            "hu": "Monte da Guia",
+            "ro": "Monte da Guia",
+            "en": "Monte da Guia"
+          },
+          "coords": [
+            -28.6291,
+            38.5221
+          ],
+          "arrive_at": "16:20",
+          "stay_min": 75,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.2,
+          "category": "natural features",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Fuß des Hügels und machen Sie sich bereit für den Aufstieg zum Sonnenuntergang.",
+            "hu": "Menjen busszal a hegy lábához, és készüljön fel a naplementés mászásra.",
+            "ro": "Luați un autobuz până la poalele dealului și pregătiți-vă pentru urcarea la apus.",
+            "en": "Take a bus to the base of the hill and get ready for the sunset climb."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den lokalen Bus, um Ihren Tag zu beginnen, und erkunden Sie den zentralen Cluster von Horta zu Fuß, einschließlich der Hauptkirche und des Museums. Spazieren Sie mittags zum Hafen und zum Peter's Café. Am Nachmittag bringt Sie ein Bus in die Nähe von Porto Pim, wo Sie den Strand und die nahegelegene Festung genießen können. Schließlich bringt Sie ein weiterer Bus zum Fuß des Monte da Guia, von wo aus Sie einen unvergesslichen Blick auf den Sonnenuntergang genießen können. Ein effizienter Weg, um die Stadt ohne Auto zu sehen.",
+        "hu": "Használja a helyi buszt a nap megkezdéséhez, gyalogosan fedezze fel Horta központi részét, beleértve a főtemplomot és a múzeumot. Délben sétáljon le a kikötőbe és a Peter's Caféba. Délután egy busz elviszi Önt Porto Pim közelébe, ahol élvezheti a strandot és a közeli erődöt. Végül egy másik busz a Monte da Guia lábához viszi, ahonnan felejthetetlen naplementében gyönyörködhet. Hatékony módja a város autó nélküli megtekintésének.",
+        "ro": "Folosiți autobuzul local pentru a începe ziua, explorând pe jos clusterul central al Hortei, inclusiv biserica principală și muzeul. La prânz, plimbați-vă până la port și la Peter's Café. După-amiaza, un autobuz vă va duce în apropiere de Porto Pim pentru a vă bucura de plajă și de fortul din apropiere. În cele din urmă, un alt autobuz vă va duce la poalele Muntelui da Guia pentru priveliști de neuitat la apus. O modalitate eficientă de a vedea orașul fără mașină.",
+        "en": "Use the local bus to start your day, exploring Horta's central cluster on foot, including the main church and museum. At midday, walk down to the marina and Peter's Café. In the afternoon, a bus will take you near Porto Pim to enjoy the beach and the nearby fort. Finally, another bus takes you to the base of Monte da Guia for unforgettable sunset views. An efficient way to see the city without a car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bifana",
+            "tip": "Ein klassisches portugiesisches Schweinesandwich, ideal für ein schnelles Mittagessen von einem lokalen Café."
+          },
+          {
+            "name": "Polvo Guisado",
+            "tip": "Geschmorter Oktopus, ein herzhaftes und geschmackvolles Gericht."
+          },
+          {
+            "name": "Massa Sovada",
+            "tip": "Süßes Brot der Azoren, perfekt zum Frühstück oder als Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bifana",
+            "tip": "Klasszikus portugál sertésszendvics, ideális gyors ebédre egy helyi kávézóból."
+          },
+          {
+            "name": "Polvo Guisado",
+            "tip": "Párolt polip, kiadós és ízletes étel."
+          },
+          {
+            "name": "Massa Sovada",
+            "tip": "Azori-szigeteki édes kenyér, tökéletes reggelire vagy uzsonnára."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bifana",
+            "tip": "Un sandviș clasic portughez cu carne de porc, excelent pentru un prânz rapid de la o cafenea locală."
+          },
+          {
+            "name": "Polvo Guisado",
+            "tip": "Caracatiță înăbușită, un fel de mâncare consistent și plin de aromă."
+          },
+          {
+            "name": "Massa Sovada",
+            "tip": "Pâine dulce azoreană, perfectă pentru micul dejun sau ca gustare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bifana",
+            "tip": "A classic Portuguese pork sandwich, great for a quick lunch from a local café."
+          },
+          {
+            "name": "Polvo Guisado",
+            "tip": "Stewed octopus, a hearty and flavourful dish."
+          },
+          {
+            "name": "Massa Sovada",
+            "tip": "Azorean sweet bread, perfect for breakfast or a snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Biblioteca Pública e Arquivo Regional João José da Graça",
+            "tip": "Finden Sie einen ruhigen Moment in der örtlichen Bibliothek.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Die oberen Straßen von Horta",
+            "tip": "Entfliehen Sie den Menschenmassen und sehen Sie das lokale Leben.",
+            "emoji": "🏘️"
+          },
+          {
+            "name": "Kapelle von N.S. da Guia",
+            "tip": "Eine kleine, friedliche Kapelle auf dem Monte da Guia.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "João José da Graça Nyilvános Könyvtár és Regionális Levéltár",
+            "tip": "Találj egy csendes pillanatot a helyi könyvtárban.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Horta felső utcái",
+            "tip": "Menekülj el a tömeg elől és nézd meg a helyi életet.",
+            "emoji": "🏘️"
+          },
+          {
+            "name": "N.S. da Guia kápolna",
+            "tip": "Egy kicsi, békés kápolna a Monte da Guia-n.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biblioteca Publică și Arhiva Regională João José da Graça",
+            "tip": "Găsiți un moment de liniște la biblioteca locală.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Străzile superioare ale Hortei",
+            "tip": "Evadați din mulțime și vedeți viața locală.",
+            "emoji": "🏘️"
+          },
+          {
+            "name": "Capela N.S. da Guia",
+            "tip": "O capelă mică și pașnică pe Monte da Guia.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "João José da Graça Public Library and Regional Archive",
+            "tip": "Find a quiet moment in the local library.",
+            "emoji": "📚"
+          },
+          {
+            "name": "The upper streets of Horta",
+            "tip": "Escape the crowds and see local life.",
+            "emoji": "🏘️"
+          },
+          {
+            "name": "Chapel of N.S. da Guia",
+            "tip": "A small, peaceful chapel atop Monte da Guia.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Loja do Triângulo",
+            "tip": "Ein Geschäft, das eine Vielzahl von Produkten aus den Azoren verkauft."
+          },
+          {
+            "name": "Postkarten von Peter's Bar",
+            "tip": "Ein klassisches Souvenir zum Versenden an Freunde und Familie."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Loja do Triângulo",
+            "tip": "Azori-szigeteki termékek széles választékát árusító bolt."
+          },
+          {
+            "name": "Képeslapok a Peter's Bár-ból",
+            "tip": "Klasszikus ajándéktárgy, amelyet barátoknak és családtagoknak küldhet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Loja do Triângulo",
+            "tip": "Un magazin care vinde o varietate de produse azoreene."
+          },
+          {
+            "name": "Cărți poștale de la Peter's Bar",
+            "tip": "Un suvenir clasic de trimis prietenilor și familiei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Loja do Triângulo",
+            "tip": "A shop selling a variety of Azorean products."
+          },
+          {
+            "name": "Postcards from Peter's Bar",
+            "tip": "A classic souvenir to send to friends and family."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte, wenn verfügbar, oder haben Sie Kleingeld für die Busfahrten dabei.",
+          "Der Busfahrplan ist möglicherweise nicht sehr häufig, planen Sie Ihre Reise also im Voraus.",
+          "Einige Strecken, wie die zum Monte da Guia, erfordern nach der Busfahrt noch einen erheblichen Spaziergang.",
+          "Fragen Sie die Einheimischen oder im Tourismusbüro nach den neuesten Busfahrplänen."
+        ],
+        "hu": [
+          "Vásárolj napijegyet, ha elérhető, vagy legyen nálad aprópénz a buszra.",
+          "A buszmenetrend nem biztos, hogy túl sűrű, ezért tervezd meg előre az utazást.",
+          "Egyes útvonalak, mint például a Monte da Guia, a buszozás után még jelentős sétát igényelnek.",
+          "Kérdezd meg a helyieket vagy a turisztikai irodát a legfrissebb buszmenetrendekről."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi dacă este disponibil sau aveți bani mărunți pentru călătoriile cu autobuzul.",
+          "Orarul autobuzelor s-ar putea să nu fie foarte frecvent, așa că planificați-vă călătoria din timp.",
+          "Unele rute, cum ar fi cea către Monte da Guia, necesită încă o plimbare considerabilă după călătoria cu autobuzul.",
+          "Întrebați localnicii sau biroul de turism pentru cele mai recente orare ale autobuzelor."
+        ],
+        "en": [
+          "Buy a day pass if available, or have small change ready for bus fares.",
+          "The bus schedule may not be very frequent, so plan your journey ahead.",
+          "Some routes, like to Monte da Guia, still require a significant walk after the bus ride.",
+          "Ask locals or the tourist office for the most up-to-date bus schedules."
+        ]
+      }
+    }
+  }
+}

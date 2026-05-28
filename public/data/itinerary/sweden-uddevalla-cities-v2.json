@@ -1,0 +1,1388 @@
+{
+  "city_id": "sweden-uddevalla-cities-v2",
+  "anchor": {
+    "name": "Uddevalla",
+    "coords": [
+      11.9421,
+      58.3477
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kungstorget",
+            "hu": "Kungstorget (Királyi tér)",
+            "ro": "Kungstorget (Piața Regelui)",
+            "en": "Kungstorget (King's Square)"
+          },
+          "coords": [
+            11.9425,
+            58.348
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Kaffee in einem der Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
+            "en": "Start your day with a coffee at one of the square's cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Uddevalla",
+            "hu": "Uddevalla temploma",
+            "ro": "Biserica din Uddevalla",
+            "en": "Uddevalla Church"
+          },
+          "coords": [
+            11.94,
+            58.3495
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Achten Sie auf das beeindruckende Votivschiff, das von der Decke hängt.",
+            "hu": "Figyelje meg a mennyezetről lógó lenyűgöző fogadalmi hajót.",
+            "ro": "Observați impresionanta navă votivă care atârnă de tavan.",
+            "en": "Look for the impressive votive ship hanging from the ceiling."
+          }
+        },
+        {
+          "name": {
+            "de": "Kampenhof",
+            "hu": "Kampenhof",
+            "ro": "Kampenhof",
+            "en": "Kampenhof"
+          },
+          "coords": [
+            11.948,
+            58.345
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:00",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Industriegebäude, die heute Geschäfte und Werkstätten beherbergen.",
+            "hu": "Fedezze fel a régi ipari épületeket, amelyek ma üzleteknek és műhelyeknek adnak otthont.",
+            "ro": "Explorați vechile clădiri industriale, care acum găzduiesc magazine și ateliere.",
+            "en": "Explore the old industrial buildings, now home to shops and workshops."
+          }
+        },
+        {
+          "name": {
+            "de": "Bohusläns Museum",
+            "hu": "Bohusläns Múzeum",
+            "ro": "Muzeul Bohusläns",
+            "en": "Bohusläns Museum"
+          },
+          "coords": [
+            11.9325,
+            58.351
+          ],
+          "category": "museums",
+          "arrive_at": "12:30",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Perfekt für ein Mittagessen im Museumscafé mit Blick auf den Fluss.",
+            "hu": "Tökéletes egy ebédhez a múzeumi kávézóban, kilátással a folyóra.",
+            "ro": "Perfect pentru prânz la cafeneaua muzeului, cu vedere la râu.",
+            "en": "Perfect for lunch at the museum cafe overlooking the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Strandpromenade Uddevalla",
+            "hu": "Uddevallai tengerparti sétány",
+            "ro": "Promenada de pe plajă Uddevalla",
+            "en": "Strandpromenaden Uddevalla"
+          },
+          "coords": [
+            11.928,
+            58.3525
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:45",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein wunderschöner Holzsteg entlang des Wassers, ideal für einen Nachmittagsspaziergang.",
+            "hu": "Egy gyönyörű, víz menti deszkasétány, ideális egy délutáni sétához.",
+            "ro": "O frumoasă promenadă din lemn de-a lungul apei, ideală pentru o plimbare de după-amiază.",
+            "en": "A beautiful wooden boardwalk along the water, perfect for an afternoon stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Muschelbank-Museum",
+            "hu": "Kagylópad Múzeum",
+            "ro": "Muzeul Bancului de Scoici",
+            "en": "Shell Bank Museum"
+          },
+          "coords": [
+            11.935,
+            58.358
+          ],
+          "category": "museums",
+          "arrive_at": "16:30",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die größten Muschelbänke der Welt, ein einzigartiges Naturphänomen.",
+            "hu": "Fedezze fel a világ legnagyobb kagylópadjait, egy egyedülálló természeti jelenséget.",
+            "ro": "Descoperiți cele mai mari bancuri de scoici din lume, un fenomen natural unic.",
+            "en": "Discover the world's largest shell banks, a unique natural phenomenon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Uddevalla beginnt am belebten Kungstorget, dem Herzen der Stadt. Von dort aus schlendern Sie zur historischen Kirche und tauchen in die lokale Geschichte ein. Am Vormittag erkunden Sie das industrielle Erbe von Kampenhof, wo alte Fabriken neuem Leben eingehaucht wurden. Der Mittag gehört der Kultur im Bohusläns Museum, das direkt am Fluss liegt und einen tollen Einblick in die Region bietet. Am Nachmittag spazieren Sie auf der berühmten Strandpromenade, einem Holzsteg, der sich über das Wasser schlängelt und atemberaubende Ausblicke bietet. Den Abschluss bildet ein Besuch im einzigartigen Muschelbank-Museum, bevor Sie den Abend in der Stadt ausklingen lassen.",
+        "hu": "Uddevallai napja a nyüzsgő Kungstorgeten, a város szívében kezdődik. Innen sétáljon el a történelmi templomhoz, hogy elmerüljön a helyi történelemben. Délelőtt fedezze fel Kampenhof ipari örökségét, ahol a régi gyárak új életre keltek. Az ebédidő a kultúráé a folyóparti Bohusläns Múzeumban, amely remek betekintést nyújt a régióba. Délután sétáljon a híres tengerparti sétányon, egy vízen kanyargó fa pallón, amely lélegzetelállító kilátást kínál. A napot a különleges Kagylópad Múzeum meglátogatásával zárja, mielőtt az estét a városban töltené.",
+        "ro": "Ziua dvs. în Uddevalla începe în animata piață Kungstorget, inima orașului. De acolo, vă plimbați la biserica istorică pentru a vă cufunda în istoria locală. Dimineața explorați moștenirea industrială din Kampenhof, unde vechile fabrici au primit o nouă viață. Prânzul este dedicat culturii la Muzeul Bohusläns, situat chiar pe malul râului, oferind o perspectivă excelentă asupra regiunii. După-amiaza, vă plimbați pe faimoasa promenadă de pe plajă, o pasarelă din lemn care șerpuiește peste apă, oferind priveliști uimitoare. Ziua se încheie cu o vizită la unicul Muzeu al Bancului de Scoici, înainte de a vă bucura de seară în oraș.",
+        "en": "Your day in Uddevalla begins at the bustling Kungstorget, the heart of the city. From there, stroll to the historic church to immerse yourself in local history. In the morning, explore the industrial heritage of Kampenhof, where old factories have been given new life. Lunchtime is for culture at the Bohusläns Museum, located right by the river, offering great insight into the region. In the afternoon, walk along the famous Strandpromenaden, a wooden boardwalk winding over the water, offering breathtaking views. The day concludes with a visit to the unique Shell Bank Museum before you enjoy the evening in the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Äggost",
+            "tip": "Ein traditioneller Eierkäse aus Bohuslän, oft als Dessert serviert."
+          },
+          {
+            "name": "Fisch und Meeresfrüchte",
+            "tip": "Probieren Sie den Fang des Tages in Restaurants am Hafen."
+          },
+          {
+            "name": "Restaurang Varvet",
+            "tip": "Bekannt für seine exzellenten Meeresfrüchtegerichte mit Blick aufs Wasser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Äggost",
+            "tip": "Hagyományos bohusläni tojássajt, gyakran desszertként tálalva."
+          },
+          {
+            "name": "Hal és tenger gyümölcsei",
+            "tip": "Kóstolja meg a nap fogását a kikötői éttermekben."
+          },
+          {
+            "name": "Restaurang Varvet",
+            "tip": "Kiváló tengeri ételeiről és a vízre néző kilátásáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Äggost",
+            "tip": "O brânză tradițională de ouă din Bohuslän, adesea servită ca desert."
+          },
+          {
+            "name": "Pește și fructe de mare",
+            "tip": "Încercați captura zilei în restaurantele de lângă port."
+          },
+          {
+            "name": "Restaurang Varvet",
+            "tip": "Renumit pentru preparatele excelente din fructe de mare, cu vedere la apă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Äggost",
+            "tip": "A traditional egg cheese from Bohuslän, often served as a dessert."
+          },
+          {
+            "name": "Fish and seafood",
+            "tip": "Try the catch of the day at restaurants by the harbor."
+          },
+          {
+            "name": "Restaurang Varvet",
+            "tip": "Known for its excellent seafood dishes with a view of the water."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Strandpromenade bei Sonnenuntergang",
+            "tip": "Der perfekte Ort, um die Ruhe und die wechselnden Farben des Himmels zu genießen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gustafsberg Park",
+            "tip": "Spazieren Sie durch Schwedens ältesten Badeort und finden Sie eine ruhige Bank.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bredfjället Naturreservat",
+            "tip": "Ein kurzer Ausflug für absolute Stille und eine großartige Aussicht.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Strandpromenaden naplementekor",
+            "tip": "Tökéletes hely a csend és az ég változó színeinek élvezetéhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gustafsberg Park",
+            "tip": "Sétáljon végig Svédország legrégebbi tengerparti üdülőhelyén, és keressen egy csendes padot.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bredfjället természetvédelmi terület",
+            "tip": "Egy rövid kirándulás a teljes csendért és a nagyszerű kilátásért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strandpromenaden la apus",
+            "tip": "Locul perfect pentru a vă bucura de liniște și de culorile schimbătoare ale cerului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Gustafsberg",
+            "tip": "Plimbați-vă prin cea mai veche stațiune balneară din Suedia și găsiți o bancă liniștită.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Rezervația Naturală Bredfjället",
+            "tip": "O excursie scurtă pentru liniște absolută și priveliști minunate.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Strandpromenaden at sunset",
+            "tip": "The perfect spot to enjoy the tranquility and the changing colors of the sky.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gustafsberg Park",
+            "tip": "Stroll through Sweden's oldest seaside resort and find a quiet bench.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bredfjället Nature Reserve",
+            "tip": "A short trip for absolute silence and great views.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte am Kungstorget",
+            "tip": "Rund um den Hauptplatz finden Sie eine Mischung aus lokalen Boutiquen und bekannten Marken."
+          },
+          {
+            "name": "Handwerk in Kampenhof",
+            "tip": "Suchen Sie nach einzigartigen, handgefertigten Souvenirs in den Werkstätten des alten Industriegebiets."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Üzletek a Kungstorget körül",
+            "tip": "A főtér környékén helyi butikok és ismert márkák keverékét találja."
+          },
+          {
+            "name": "Kézműves termékek Kampenhofban",
+            "tip": "Keressen egyedi, kézzel készített ajándéktárgyakat a régi ipari negyed műhelyeiben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine în jurul Kungstorget",
+            "tip": "Veți găsi un amestec de buticuri locale și mărci cunoscute în jurul pieței principale."
+          },
+          {
+            "name": "Artizanat în Kampenhof",
+            "tip": "Căutați suveniruri unice, lucrate manual, în atelierele din vechea zonă industrială."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops around Kungstorget",
+            "tip": "You'll find a mix of local boutiques and well-known brands around the main square."
+          },
+          {
+            "name": "Crafts in Kampenhof",
+            "tip": "Look for unique, handmade souvenirs in the workshops of the old industrial area."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den größten Teil des Tages zu Fuß unterwegs sein werden.",
+          "Die Strandpromenade kann windig sein, bringen Sie also eine leichte Jacke mit.",
+          "Überprüfen Sie die Öffnungszeiten der Museen im Voraus, insbesondere außerhalb der Saison.",
+          "Viele Cafés bieten 'Fika', die schwedische Kaffeepause mit Gebäck – ein Muss!"
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a nap nagy részében gyalogolni fog.",
+          "A tengerparti sétány szeles lehet, ezért vigyen magával egy könnyű dzsekit.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét, különösen a szezonon kívül.",
+          "Sok kávézó kínál 'Fikát', a svéd kávészünetet süteménnyel – ezt ki kell próbálni!"
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge pe jos cea mai mare parte a zilei.",
+          "Promenada de pe plajă poate fi vântoasă, așa că aduceți o jachetă ușoară.",
+          "Verificați în avans orele de deschidere ale muzeelor, mai ales în afara sezonului.",
+          "Multe cafenele oferă 'Fika', pauza de cafea suedeză cu produse de patiserie - o necesitate!"
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be walking for most of the day.",
+          "The seaside promenade can be windy, so bring a light jacket.",
+          "Check the opening hours of the museums in advance, especially outside the main season.",
+          "Many cafes offer 'Fika', the Swedish coffee break with pastries – a must-try!"
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 11.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kungstorget",
+            "hu": "Kungstorget (Királyi tér)",
+            "ro": "Kungstorget (Piața Regelui)",
+            "en": "Kungstorget (King's Square)"
+          },
+          "coords": [
+            11.9425,
+            58.348
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Perfekter Treffpunkt und um das Fahrrad für den Tag vorzubereiten.",
+            "hu": "Tökéletes találkozóhely, és itt készítheti fel a kerékpárt a napra.",
+            "ro": "Punct de întâlnire perfect și pentru a vă pregăti bicicleta pentru ziua respectivă.",
+            "en": "Perfect meeting point and to get your bike ready for the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Bohusläns Museum",
+            "hu": "Bohusläns Múzeum",
+            "ro": "Muzeul Bohusläns",
+            "en": "Bohusläns Museum"
+          },
+          "coords": [
+            11.9325,
+            58.351
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab und tauchen Sie in die Küstenkultur ein.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és merüljön el a tengerparti kultúrában.",
+            "ro": "Parcați-vă bicicleta în siguranță și scufundați-vă în cultura de coastă.",
+            "en": "Park your bike securely and dive into the coastal culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Strandpromenade Uddevalla",
+            "hu": "Uddevallai tengerparti sétány",
+            "ro": "Promenada de pe plajă Uddevalla",
+            "en": "Strandpromenaden Uddevalla"
+          },
+          "coords": [
+            11.928,
+            58.3525
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:25",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Fahren Sie langsam auf dem Holzsteg und genießen Sie die Meeresbrise.",
+            "hu": "Tekerjen lassan a fapallón, és élvezze a tengeri szellőt.",
+            "ro": "Pedalați încet pe pasarela de lemn și bucurați-vă de briza mării.",
+            "en": "Cycle slowly on the wooden boardwalk and enjoy the sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Gustafsberg",
+            "hu": "Gustafsberg",
+            "ro": "Gustafsberg",
+            "en": "Gustafsberg"
+          },
+          "coords": [
+            11.901,
+            58.335
+          ],
+          "category": "historical",
+          "arrive_at": "12:40",
+          "stay_min": 150,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für eine längere Mittagspause in historischer Umgebung.",
+            "hu": "Ideális hely egy hosszabb ebédszünetre történelmi környezetben.",
+            "ro": "Un loc ideal pentru o pauză de prânz mai lungă într-un cadru istoric.",
+            "en": "An ideal spot for a longer lunch break in a historic setting."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Uddevalla",
+            "hu": "Uddevalla temploma",
+            "ro": "Biserica din Uddevalla",
+            "en": "Uddevalla Church"
+          },
+          "coords": [
+            11.94,
+            58.3495
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:40",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einem Moment der Besinnung in diesem ruhigen Gotteshaus.",
+            "hu": "Zárja a kerékpártúrát egy csendes elmélyüléssel ebben a békés templomban.",
+            "ro": "Încheiați turul cu bicicleta cu un moment de reflecție în acest lăcaș de cult liniștit.",
+            "en": "End your bike tour with a moment of reflection in this peaceful house of worship."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich in Uddevalla aufs Rad und starten Sie am Kungstorget. Ihre erste Etappe führt Sie zum faszinierenden Bohusläns Museum, wo Sie die reiche Geschichte der Küste entdecken. Gegen Mittag radeln Sie die berühmte Strandpromenade entlang, ein einzigartiges Erlebnis auf Holzplanken über dem Wasser. Der Höhepunkt des Tages ist die Fahrt zum historischen Badeort Gustafsberg. Hier können Sie eine lange Mittagspause einlegen, durch den Park schlendern und die alten Villen bewundern. Auf dem Rückweg ins Zentrum legen Sie einen letzten Halt an der ehrwürdigen Kirche von Uddevalla ein, ein perfekter, ruhiger Abschluss für einen aktiven Tag.",
+        "hu": "Pattanjon kerékpárra Uddevallában, és induljon a Kungstorgetről. Az első szakasz a lenyűgöző Bohusläns Múzeumhoz vezet, ahol felfedezheti a partvidék gazdag történelmét. Dél körül tekerjen végig a híres tengerparti sétányon, ami egyedülálló élmény a víz feletti fapallókon. A nap fénypontja a történelmi Gustafsberg üdülőhelyre vezető út. Itt tarthat egy hosszú ebédszünetet, sétálhat a parkban, és megcsodálhatja a régi villákat. A központ felé visszaúton tegyen egy utolsó megállót a tiszteletreméltó uddevallai templomnál, amely tökéletes, békés lezárása egy aktív napnak.",
+        "ro": "Urcați-vă pe bicicletă în Uddevalla și porniți din Kungstorget. Prima etapă vă duce la fascinantul Muzeu Bohusläns, unde veți descoperi istoria bogată a coastei. În jurul prânzului, pedalați de-a lungul faimoasei promenade de pe plajă, o experiență unică pe scânduri de lemn deasupra apei. Punctul culminant al zilei este excursia la stațiunea istorică Gustafsberg. Aici puteți lua o pauză lungă de prânz, vă puteți plimba prin parc și admira vilele vechi. Pe drumul de întoarcere spre centru, faceți o ultimă oprire la venerabila Biserică din Uddevalla, o încheiere perfectă și liniștită pentru o zi activă.",
+        "en": "Hop on your bike in Uddevalla and start from Kungstorget. Your first leg takes you to the fascinating Bohusläns Museum, where you'll discover the rich history of the coast. Around noon, you'll cycle along the famous Strandpromenaden, a unique experience on wooden planks over the water. The highlight of the day is the ride to the historic seaside resort of Gustafsberg. Here you can take a long lunch break, stroll through the park, and admire the old villas. On your way back to the center, make a final stop at the venerable Uddevalla Church, a perfect, peaceful end to an active day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smörgås",
+            "tip": "Ein klassisches schwedisches offenes Sandwich, perfekt für ein schnelles Mittagessen."
+          },
+          {
+            "name": "Konditori-Café in Gustafsberg",
+            "tip": "Genießen Sie Kaffee und Kuchen in einem der charmanten Cafés im historischen Park."
+          },
+          {
+            "name": "Lejas Café & Bistro",
+            "tip": "Ein beliebter Ort im Zentrum für leichte Mahlzeiten und köstliches Gebäck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smörgås",
+            "tip": "Klasszikus svéd szendvics, tökéletes egy gyors ebédhez."
+          },
+          {
+            "name": "Cukrászda-kávézó Gustafsbergben",
+            "tip": "Élvezzen egy kávét és süteményt a történelmi park egyik bájos kávézójában."
+          },
+          {
+            "name": "Lejas Café & Bistro",
+            "tip": "Népszerű hely a központban könnyű ételekért és finom süteményekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smörgås",
+            "tip": "Un sandviș suedez clasic deschis, perfect pentru un prânz rapid."
+          },
+          {
+            "name": "Cafenea-cofetărie în Gustafsberg",
+            "tip": "Bucurați-vă de o cafea și o prăjitură la una dintre cafenelele fermecătoare din parcul istoric."
+          },
+          {
+            "name": "Lejas Café & Bistro",
+            "tip": "Un loc popular în centru pentru mese ușoare și produse de patiserie delicioase."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smörgås",
+            "tip": "A classic Swedish open-faced sandwich, perfect for a quick lunch."
+          },
+          {
+            "name": "Konditori-Café in Gustafsberg",
+            "tip": "Enjoy coffee and cake in one of the charming cafes in the historic park."
+          },
+          {
+            "name": "Lejas Café & Bistro",
+            "tip": "A popular spot in the center for light meals and delicious pastries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blick von der Uddevalla-Brücke",
+            "tip": "Wenn Sie Zeit haben, radeln Sie in die Nähe der Brücke für eine beeindruckende Aussicht auf den Fjord.",
+            "emoji": "🌉"
+          },
+          {
+            "name": "Gustafsberg Klippen",
+            "tip": "Finden Sie einen ruhigen Platz auf den Felsen mit Blick auf das Wasser.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Kirchhof der Uddevalla-Kirche",
+            "tip": "Ein friedlicher Ort der Ruhe im Herzen der Stadt.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás az Uddevalla-hídról",
+            "tip": "Ha van ideje, tekerjen a híd közelébe, ahonnan lenyűgöző kilátás nyílik a fjordra.",
+            "emoji": "🌉"
+          },
+          {
+            "name": "Gustafsbergi sziklák",
+            "tip": "Keressen egy csendes helyet a vízre néző sziklákon.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Az uddevallai templom kertje",
+            "tip": "A nyugalom békés helye a város szívében.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de pe Podul Uddevalla",
+            "tip": "Dacă aveți timp, pedalați lângă pod pentru o vedere impresionantă a fiordului.",
+            "emoji": "🌉"
+          },
+          {
+            "name": "Stâncile din Gustafsberg",
+            "tip": "Găsiți un loc liniștit pe stâncile cu vedere la apă.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Curtea Bisericii Uddevalla",
+            "tip": "Un loc pașnic de liniște în inima orașului.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the Uddevalla Bridge",
+            "tip": "If you have time, cycle near the bridge for an impressive view of the fjord.",
+            "emoji": "🌉"
+          },
+          {
+            "name": "Gustafsberg Cliffs",
+            "tip": "Find a quiet spot on the rocks overlooking the water.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Uddevalla Churchyard",
+            "tip": "A peaceful place of tranquility in the heart of the city.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Fahrradgeschäfte",
+            "tip": "Fragen Sie nach lokalen Radkarten oder einzigartigem Zubehör."
+          },
+          {
+            "name": "Hafenmarkt (falls vorhanden)",
+            "tip": "Halten Sie Ausschau nach saisonalen Märkten am Hafen für lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerékpárboltok",
+            "tip": "Érdeklődjön helyi kerékpáros térképek vagy egyedi kiegészítők felől."
+          },
+          {
+            "name": "Kikötői piac (ha van)",
+            "tip": "Keresse a szezonális piacokat a kikötőben helyi termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine locale de biciclete",
+            "tip": "Întrebați despre hărți locale pentru ciclism sau accesorii unice."
+          },
+          {
+            "name": "Piața din port (dacă există)",
+            "tip": "Fiți atenți la piețele sezoniere din port pentru produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local bike shops",
+            "tip": "Ask for local cycling maps or unique accessories."
+          },
+          {
+            "name": "Harbor Market (if available)",
+            "tip": "Look out for seasonal markets at the harbor for local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad mit mehreren Gängen, da es einige leichte Steigungen gibt.",
+          "Tragen Sie einen Helm und verwenden Sie Lichter, besonders wenn Sie am späten Nachmittag unterwegs sind.",
+          "Die Strecke nach Gustafsberg ist landschaftlich sehr reizvoll und führt größtenteils am Wasser entlang.",
+          "Packen Sie Wasser und Snacks ein, besonders für die längere Fahrt."
+        ],
+        "hu": [
+          "Béreljen többsebességes kerékpárt, mivel vannak enyhe emelkedők.",
+          "Viseljen sisakot, és használjon lámpákat, különösen, ha késő délután teker.",
+          "A Gustafsbergbe vezető út nagyon festői, és többnyire a víz mentén halad.",
+          "Csomagoljon vizet és rágcsálnivalót, különösen a hosszabb útra."
+        ],
+        "ro": [
+          "Închiriați o bicicletă cu mai multe viteze, deoarece există câteva pante ușoare.",
+          "Purtați cască și folosiți lumini, mai ales dacă pedalați după-amiaza târziu.",
+          "Traseul spre Gustafsberg este foarte pitoresc, în mare parte de-a lungul apei.",
+          "Luați apă și gustări, în special pentru călătoria mai lungă."
+        ],
+        "en": [
+          "Rent a bike with multiple gears as there are some gentle slopes.",
+          "Wear a helmet and use lights, especially if you're out in the late afternoon.",
+          "The route to Gustafsberg is very scenic and mostly follows the waterfront.",
+          "Pack water and snacks, especially for the longer ride."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 30.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum & Kungstorget",
+            "hu": "Parkoló a központban és Kungstorget",
+            "ro": "Parcare centrală și Kungstorget",
+            "en": "City Center Parking & Kungstorget"
+          },
+          "coords": [
+            11.944,
+            58.347
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie zentral und beginnen Sie Ihre Erkundung zu Fuß am Hauptplatz.",
+            "hu": "Parkoljon a központban, és kezdje a felfedezést gyalog a főtérről.",
+            "ro": "Parcați în centru și începeți explorarea pe jos din piața principală.",
+            "en": "Park centrally and start your exploration on foot from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Uddevalla",
+            "hu": "Uddevalla temploma",
+            "ro": "Biserica din Uddevalla",
+            "en": "Uddevalla Church"
+          },
+          "coords": [
+            11.94,
+            58.3495
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz, um die Ruhe der Kirche zu genießen.",
+            "hu": "Egy rövid séta a térről, hogy élvezze a templom nyugalmát.",
+            "ro": "O scurtă plimbare din piață pentru a vă bucura de liniștea bisericii.",
+            "en": "A short walk from the square to enjoy the tranquility of the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Bohusläns Museum",
+            "hu": "Bohusläns Múzeum",
+            "ro": "Muzeul Bohusläns",
+            "en": "Bohusläns Museum"
+          },
+          "coords": [
+            11.9325,
+            58.351
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang entlang des Flusses vom ersten Cluster zum Museum.",
+            "hu": "Kellemes séta a folyó mentén az első klasztertől a múzeumig.",
+            "ro": "O plimbare plăcută de-a lungul râului de la primul grup la muzeu.",
+            "en": "A nice walk along the river from the first cluster to the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Gustafsberg Parkplatz & Erkundung",
+            "hu": "Gustafsberg Parkoló és Felfedezés",
+            "ro": "Parcare și Explorare Gustafsberg",
+            "en": "Gustafsberg Parking & Exploration"
+          },
+          "coords": [
+            11.902,
+            58.336
+          ],
+          "category": "historical",
+          "arrive_at": "13:00",
+          "stay_min": 150,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Fahren Sie nach Gustafsberg, parken Sie dort und erkunden Sie den historischen Badeort zu Fuß. Ideal für ein Mittagessen.",
+            "hu": "Vezessen el Gustafsbergbe, parkoljon le, és fedezze fel gyalog a történelmi fürdőhelyet. Ideális ebédre.",
+            "ro": "Conduceți la Gustafsberg, parcați și explorați stațiunea balneară istorică pe jos. Ideal pentru prânz.",
+            "en": "Drive to Gustafsberg, park, and explore the historic seaside resort on foot. Ideal for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Bredfjället Aussichtspunkt",
+            "hu": "Bredfjället kilátó",
+            "ro": "Punct de belvedere Bredfjället",
+            "en": "Bredfjället Viewpoint"
+          },
+          "coords": [
+            12.05,
+            58.29
+          ],
+          "category": "natural features",
+          "arrive_at": "16:10",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 24,
+          "tip_5lang": {
+            "de": "Eine Fahrt ins Landesinnere zu diesem Naturreservat bietet eine atemberaubende Aussicht.",
+            "hu": "Egy út a szárazföld belsejébe ehhez a természetvédelmi területhez lélegzetelállító kilátást nyújt.",
+            "ro": "O călătorie în interiorul țării către această rezervație naturală oferă priveliști uimitoare.",
+            "en": "A drive inland to this nature reserve offers breathtaking views."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in der Innenstadt",
+            "hu": "Vacsora a belvárosban",
+            "ro": "Cină în centrul orașului",
+            "en": "Dinner in the City Center"
+          },
+          "coords": [
+            11.9421,
+            58.3477
+          ],
+          "category": "gastro",
+          "arrive_at": "17:40",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Kehren Sie ins Zentrum zurück, um den Tag mit einem gemütlichen Abendessen ausklingen zu lassen.",
+            "hu": "Térjen vissza a központba, hogy egy kellemes vacsorával zárja a napot.",
+            "ro": "Întoarceți-vă în centru pentru a încheia ziua cu o cină relaxantă.",
+            "en": "Return to the city center to end the day with a relaxing dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Uddevalla folgt einer Cluster-Strategie. Parken Sie Ihr Auto im Zentrum und erkunden Sie den ersten Cluster zu Fuß: den Kungstorget, die Kirche und das Bohusläns Museum. Genießen Sie die Stadtatmosphäre und ein Mittagessen am Fluss. Am Nachmittag fahren Sie zum zweiten Cluster, dem historischen Gustafsberg. Parken Sie erneut und spazieren Sie durch Schwedens ältesten Badeort, genießen Sie die alten Villen und die Meeresluft. Der letzte Teil Ihrer Reise führt Sie landeinwärts zum Naturreservat Bredfjället. Eine kurze Fahrt belohnt Sie mit spektakulären Ausblicken über die Landschaft von Bohuslän, bevor Sie für ein wohlverdientes Abendessen ins Stadtzentrum zurückkehren.",
+        "hu": "Uddevallai autós napja egy klaszter-stratégiát követ. Parkolja le az autót a központban, és fedezze fel gyalog az első klasztert: a Kungstorgetet, a templomot és a Bohusläns Múzeumot. Élvezze a városi hangulatot és egy ebédet a folyóparton. Délután vezessen a második klaszterhez, a történelmi Gustafsberghez. Parkoljon le ismét, és sétáljon végig Svédország legrégebbi tengerparti üdülőhelyén, élvezve a régi villákat és a tengeri levegőt. Útja utolsó szakasza a szárazföld belsejébe, a Bredfjället természetvédelmi területre vezet. Egy rövid autóút látványos kilátással jutalmazza Bohuslän tájára, mielőtt visszatérne a városközpontba egy jól megérdemelt vacsorára.",
+        "ro": "Ziua dvs. cu mașina în Uddevalla urmează o strategie de grupuri. Parcați mașina în centru și explorați primul grup pe jos: Kungstorget, biserica și Muzeul Bohusläns. Bucurați-vă de atmosfera orașului și de un prânz lângă râu. După-amiaza, conduceți spre al doilea grup, istoricul Gustafsberg. Parcați din nou și plimbați-vă prin cea mai veche stațiune balneară din Suedia, bucurându-vă de vilele vechi și de aerul mării. Ultima parte a călătoriei vă duce în interiorul țării, la rezervația naturală Bredfjället. O scurtă călătorie cu mașina vă recompensează cu vederi spectaculoase asupra peisajului din Bohuslän, înainte de a vă întoarce în centrul orașului pentru o cină binemeritată.",
+        "en": "Your car day in Uddevalla follows a cluster strategy. Park your car in the center and explore the first cluster on foot: Kungstorget, the church, and the Bohusläns Museum. Enjoy the city atmosphere and lunch by the river. In the afternoon, drive to the second cluster, the historic Gustafsberg. Park again and stroll through Sweden's oldest seaside resort, enjoying the old villas and sea air. The final leg of your journey takes you inland to the Bredfjället nature reserve. A short drive rewards you with spectacular views over the Bohuslän landscape before you return to the city center for a well-deserved dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Räksmörgås",
+            "tip": "Ein opulentes Krabbensandwich, ein Klassiker der Westküste."
+          },
+          {
+            "name": "Landgangen",
+            "tip": "Ein Restaurant, das für seine traditionelle schwedische Küche mit modernem Touch bekannt ist."
+          },
+          {
+            "name": "Picknick in Bredfjället",
+            "tip": "Kaufen Sie lokale Köstlichkeiten und genießen Sie sie mit einer fantastischen Aussicht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Räksmörgås",
+            "tip": "Bőséges garnélarákos szendvics, a nyugati part klasszikusa."
+          },
+          {
+            "name": "Landgangen",
+            "tip": "Modern csavarral készült hagyományos svéd konyhájáról ismert étterem."
+          },
+          {
+            "name": "Piknik Bredfjälletben",
+            "tip": "Vásároljon helyi finomságokat, és fogyassza el őket fantasztikus kilátás mellett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Räksmörgås",
+            "tip": "Un sandviș opulent cu creveți, un clasic de pe coasta de vest."
+          },
+          {
+            "name": "Landgangen",
+            "tip": "Un restaurant cunoscut pentru bucătăria sa tradițională suedeză cu o notă modernă."
+          },
+          {
+            "name": "Picnic la Bredfjället",
+            "tip": "Cumpărați delicatese locale și bucurați-vă de ele cu o priveliște fantastică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Räksmörgås",
+            "tip": "A lavish shrimp sandwich, a west coast classic."
+          },
+          {
+            "name": "Landgangen",
+            "tip": "A restaurant known for its traditional Swedish cuisine with a modern twist."
+          },
+          {
+            "name": "Picnic at Bredfjället",
+            "tip": "Buy some local delicacies and enjoy them with a fantastic view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussicht von Bredfjället",
+            "tip": "Die Fahrt lohnt sich allein für die Stille und den Panoramablick.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Versteckte Gärten in Gustafsberg",
+            "tip": "Entdecken Sie die ruhigen Gärten hinter den historischen Villen.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Spaziergang am Byfjorden",
+            "tip": "Finden Sie einen ruhigen Ort entlang des Fjords, weit weg vom Trubel.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás Bredfjälletről",
+            "tip": "Már a csendért és a panorámáért is megéri az utat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rejtett kertek Gustafsbergben",
+            "tip": "Fedezze fel a történelmi villák mögötti csendes kerteket.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Séta a Byfjorden mentén",
+            "tip": "Keressen egy csendes helyet a fjord mentén, távol a nyüzsgéstől.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la Bredfjället",
+            "tip": "Călătoria merită doar pentru liniște și priveliștea panoramică.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădini ascunse în Gustafsberg",
+            "tip": "Descoperiți grădinile liniștite din spatele vilelor istorice.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Plimbare de-a lungul Byfjorden",
+            "tip": "Găsiți un loc liniștit de-a lungul fiordului, departe de agitație.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from Bredfjället",
+            "tip": "The drive is worth it for the silence and panoramic views alone.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hidden gardens in Gustafsberg",
+            "tip": "Discover the quiet gardens behind the historic villas.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Walk along the Byfjorden",
+            "tip": "Find a quiet spot along the fjord, away from the hustle and bustle.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden rund um Bredfjället",
+            "tip": "Halten Sie auf dem Land Ausschau nach Hofläden, die lokale Produkte verkaufen."
+          },
+          {
+            "name": "Souvenirladen im Bohusläns Museum",
+            "tip": "Finden Sie Bücher und Geschenke, die mit der Geschichte der Region zusammenhängen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Farmboltok Bredfjället környékén",
+            "tip": "Vidéken keresse a helyi termékeket árusító farmboltokat."
+          },
+          {
+            "name": "Ajándékbolt a Bohusläns Múzeumban",
+            "tip": "Keressen a régió történelmével kapcsolatos könyveket és ajándékokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de fermă în jurul Bredfjället",
+            "tip": "Fiți atenți la magazinele de fermă care vând produse locale în mediul rural."
+          },
+          {
+            "name": "Magazin de suveniruri la Muzeul Bohusläns",
+            "tip": "Găsiți cărți și cadouri legate de istoria regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops around Bredfjället",
+            "tip": "Look out for farm shops selling local produce in the countryside."
+          },
+          {
+            "name": "Gift shop at Bohusläns Museum",
+            "tip": "Find books and gifts related to the region's history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die Parkgebühren im Stadtzentrum; einige Parkplätze sind zeitlich begrenzt.",
+          "Die Straßen nach Bredfjället können eng sein, fahren Sie also vorsichtig.",
+          "Ein GPS ist nützlich, um die verschiedenen Standorte zu finden.",
+          "Die Cluster-Strategie spart Parkplatzsuche und lässt Sie die Atmosphäre der Orte besser aufsaugen."
+        ],
+        "hu": [
+          "Figyeljen a parkolási díjakra a városközpontban; néhány parkoló időkorlátos.",
+          "A Bredfjälletbe vezető utak szűkek lehetnek, ezért vezessen óvatosan.",
+          "GPS hasznos lehet a különböző helyszínek megtalálásához.",
+          "A klaszter-stratégia időt takarít meg a parkolóhely-kereséssel, és lehetővé teszi, hogy jobban magába szívja a helyek hangulatát."
+        ],
+        "ro": [
+          "Fiți atenți la taxele de parcare din centrul orașului; unele parcări sunt limitate în timp.",
+          "Drumurile spre Bredfjället pot fi înguste, așa că conduceți cu prudență.",
+          "Un GPS este util pentru a găsi diferitele locații.",
+          "Strategia pe grupuri economisește timp la căutarea parcării și vă permite să absorbiți mai bine atmosfera locurilor."
+        ],
+        "en": [
+          "Be aware of parking fees in the city center; some parking is time-limited.",
+          "The roads to Bredfjället can be narrow, so drive carefully.",
+          "A GPS is useful for finding the different locations.",
+          "The cluster strategy saves time on parking searches and lets you soak up the atmosphere of the places better."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 8.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Uddevalla Kampenhof (Busbahnhof)",
+            "hu": "Uddevalla Kampenhof (buszpályaudvar)",
+            "ro": "Uddevalla Kampenhof (autogară)",
+            "en": "Uddevalla Kampenhof (Bus Terminal)"
+          },
+          "coords": [
+            11.948,
+            58.345
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag am zentralen Busknotenpunkt, um sich mit dem System vertraut zu machen.",
+            "hu": "Kezdje a napot a központi buszcsomópontnál, hogy megismerkedjen a rendszerrel.",
+            "ro": "Începeți ziua la nodul central de autobuze pentru a vă familiariza cu sistemul.",
+            "en": "Start your day at the central bus hub to get familiar with the system."
+          }
+        },
+        {
+          "name": {
+            "de": "Kungstorget & Kirche",
+            "hu": "Kungstorget és a templom",
+            "ro": "Kungstorget și Biserica",
+            "en": "Kungstorget & Church"
+          },
+          "coords": [
+            11.9425,
+            58.348
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Busbahnhof, um das Herz der Stadt zu erkunden.",
+            "hu": "Egy rövid séta a buszpályaudvartól a város szívének felfedezéséhez.",
+            "ro": "O scurtă plimbare de la autogară pentru a explora inima orașului.",
+            "en": "A short walk from the bus terminal to explore the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Bohusläns Museum & Strandpromenade",
+            "hu": "Bohusläns Múzeum és tengerparti sétány",
+            "ro": "Muzeul Bohusläns și Promenada",
+            "en": "Bohusläns Museum & Promenade"
+          },
+          "coords": [
+            11.9325,
+            58.351
+          ],
+          "category": "museums",
+          "arrive_at": "11:05",
+          "stay_min": 150,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Verbringen Sie den Vormittag und das Mittagessen in diesem Cluster aus Kultur und Natur.",
+            "hu": "Töltse a délelőttöt és az ebédet ebben a kulturális és természeti klaszterben.",
+            "ro": "Petreceți dimineața și prânzul în acest grup de cultură și natură.",
+            "en": "Spend the morning and lunch in this cluster of culture and nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Gustafsberg (Busfahrt)",
+            "hu": "Gustafsberg (buszos utazás)",
+            "ro": "Gustafsberg (călătorie cu autobuzul)",
+            "en": "Gustafsberg (Bus Trip)"
+          },
+          "coords": [
+            11.901,
+            58.335
+          ],
+          "category": "historical",
+          "arrive_at": "14:10",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus nach Gustafsberg und genießen Sie die landschaftlich reizvolle Fahrt.",
+            "hu": "Vegyen buszt Gustafsbergbe, és élvezze a festői utat.",
+            "ro": "Luați un autobuz spre Gustafsberg și bucurați-vă de călătoria pitorească.",
+            "en": "Take a bus to Gustafsberg and enjoy the scenic ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum",
+            "hu": "Visszatérés a központba",
+            "ro": "Întoarcere în centru",
+            "en": "Return to City Center"
+          },
+          "coords": [
+            11.9421,
+            58.3477
+          ],
+          "category": "gastro",
+          "arrive_at": "16:40",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Fahren Sie zurück ins Zentrum, um den Tag mit einem Abendessen ausklingen zu lassen.",
+            "hu": "Buszozzon vissza a központba, hogy a napot egy vacsorával zárja.",
+            "ro": "Luați autobuzul înapoi în centru pentru a încheia ziua cu cina.",
+            "en": "Take the bus back to the center to finish the day with dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln erkunden Sie Uddevalla in zwei Clustern. Sie beginnen im Stadtzentrum, wo Sie vom Busbahnhof aus bequem den Kungstorget, die Kirche und das Bohusläns Museum zu Fuß erreichen. Dieser Bereich eignet sich perfekt für einen Vormittag voller Entdeckungen und einen Spaziergang auf der Strandpromenade. Nach dem Mittagessen nehmen Sie einen Bus, der Sie aus der Stadt heraus zum historischen Gustafsberg bringt. Genießen Sie einen entspannten Nachmittag in Schwedens ältestem Badeort, bevor Sie mit dem Bus ins Zentrum zurückkehren, um dort zu Abend zu essen.",
+        "hu": "Tömegközlekedéssel két klaszterben fedezheti fel Uddevallát. A városközpontban kezdi, ahonnan a buszpályaudvartól gyalogosan kényelmesen elérhető a Kungstorget, a templom és a Bohusläns Múzeum. Ez a terület tökéletes egy felfedezésekkel teli délelőtthöz és egy sétához a tengerparti sétányon. Ebéd után busszal utazik ki a városból a történelmi Gustafsbergbe. Élvezzen egy pihentető délutánt Svédország legrégebbi tengerparti üdülőhelyén, mielőtt visszatérne busszal a központba vacsorázni.",
+        "ro": "Folosind transportul public, explorați Uddevalla în două grupuri. Începeți în centrul orașului, unde puteți ajunge cu ușurință pe jos la Kungstorget, biserică și Muzeul Bohusläns de la autogară. Această zonă este perfectă pentru o dimineață de explorare și o plimbare pe promenadă. După prânz, luați un autobuz care vă duce în afara orașului, la istoricul Gustafsberg. Bucurați-vă de o după-amiază relaxantă în cea mai veche stațiune balneară din Suedia, înainte de a vă întoarce cu autobuzul în centru pentru cină.",
+        "en": "Using public transport, you'll explore Uddevalla in two clusters. You'll start in the city center, where you can easily walk to Kungstorget, the church, and the Bohusläns Museum from the bus station. This area is perfect for a morning of exploration and a walk on the promenade. After lunch, you'll take a bus out of town to the historic Gustafsberg. Enjoy a relaxing afternoon at Sweden's oldest seaside resort before taking the bus back to the center for dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fika in einem Café",
+            "tip": "Machen Sie eine Pause in einem der vielen Cafés der Stadt für Kaffee und Gebäck."
+          },
+          {
+            "name": "Restaurant near Kampenhof",
+            "tip": "Praktisch für ein frühes Abendessen nach Ihrer Rückkehr ins Zentrum."
+          },
+          {
+            "name": "Mortens Krog",
+            "tip": "Ein beliebtes Restaurant mit einer abwechslungsreichen Speisekarte, ideal für den Abschluss des Tages."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fika egy kávézóban",
+            "tip": "Tartson szünetet a város egyik kávézójában egy kávéra és süteményre."
+          },
+          {
+            "name": "Étterem Kampenhof közelében",
+            "tip": "Kényelmes egy korai vacsorához, miután visszatért a központba."
+          },
+          {
+            "name": "Mortens Krog",
+            "tip": "Népszerű étterem változatos étlappal, ideális a nap lezárásához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fika la o cafenea",
+            "tip": "Luați o pauză la una dintre numeroasele cafenele din oraș pentru o cafea și produse de patiserie."
+          },
+          {
+            "name": "Restaurant lângă Kampenhof",
+            "tip": "Convenabil pentru o cină timpurie după întoarcerea în centru."
+          },
+          {
+            "name": "Mortens Krog",
+            "tip": "Un restaurant popular cu un meniu variat, perfect pentru a încheia ziua."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fika at a café",
+            "tip": "Take a break at one of the city's many cafes for coffee and pastries."
+          },
+          {
+            "name": "Restaurant near Kampenhof",
+            "tip": "Convenient for an early dinner upon your return to the center."
+          },
+          {
+            "name": "Mortens Krog",
+            "tip": "A popular restaurant with a varied menu, perfect for ending the day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Die Bäveån-Flusspromenade",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses, der durch die Stadt fließt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sozialistischer Park (Sinnenas Park)",
+            "tip": "Ein ruhiger Park zum Entspannen und Nachdenken, nur einen kurzen Spaziergang vom Zentrum entfernt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Busfahrt mit Aussicht",
+            "tip": "Genießen Sie die vorbeiziehende Landschaft auf der Fahrt nach Gustafsberg.",
+            "emoji": "🚌"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Bäveån folyó sétánya",
+            "tip": "Csendes séta a városon átfolyó folyó mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szocialista park (Sinnenas Park)",
+            "tip": "Csendes park a pihenésre és elmélkedésre, rövid sétára a központtól.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Buszút kilátással",
+            "tip": "Élvezze az elhaladó tájat a Gustafsbergbe vezető úton.",
+            "emoji": "🚌"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada râului Bäveån",
+            "tip": "O plimbare liniștită de-a lungul râului care traversează orașul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Socialist (Sinnenas Park)",
+            "tip": "Un parc liniștit pentru relaxare și reflecție, la o scurtă plimbare de centru.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Călătorie cu autobuzul cu priveliște",
+            "tip": "Bucurați-vă de peisajul care trece în timpul călătoriei spre Gustafsberg.",
+            "emoji": "🚌"
+          }
+        ],
+        "en": [
+          {
+            "name": "The Bäveån river walk",
+            "tip": "A quiet walk along the river that runs through the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Socialist Park (Sinnenas Park)",
+            "tip": "A quiet park for relaxation and reflection, a short walk from the center.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Bus ride with a view",
+            "tip": "Enjoy the passing scenery on the ride to Gustafsberg.",
+            "emoji": "🚌"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Torb-Plan Einkaufszentrum",
+            "tip": "Ein Einkaufszentrum in der Nähe des Busbahnhofs für alle Ihre Bedürfnisse."
+          },
+          {
+            "name": "Lokale Geschäfte in der Kungsgatan",
+            "tip": "Die Haupteinkaufsstraße mit einer Vielzahl von Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Torb-Plan bevásárlóközpont",
+            "tip": "Bevásárlóközpont a buszpályaudvar közelében minden igényt kielégítve."
+          },
+          {
+            "name": "Helyi üzletek a Kungsgatanon",
+            "tip": "A fő bevásárlóutca számos üzlettel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul comercial Torb-Plan",
+            "tip": "Un centru comercial lângă autogară pentru toate nevoile dumneavoastră."
+          },
+          {
+            "name": "Magazine locale pe Kungsgatan",
+            "tip": "Strada comercială principală cu o varietate de magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Torb-Plan Shopping Center",
+            "tip": "A shopping mall near the bus station for all your needs."
+          },
+          {
+            "name": "Local shops on Kungsgatan",
+            "tip": "The main shopping street with a variety of stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um unbegrenzte Fahrten zu ermöglichen.",
+          "Laden Sie die lokale ÖPNV-App herunter, um Fahrpläne und Routen in Echtzeit zu sehen.",
+          "Planen Sie Ihre Busfahrten im Voraus, besonders am späten Nachmittag, da die Frequenzen abnehmen können.",
+          "Die Bushaltestellen sind deutlich gekennzeichnet, aber fragen Sie im Zweifelsfall den Fahrer."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra a korlátlan utazásért.",
+          "Töltse le a helyi tömegközlekedési alkalmazást a valós idejű menetrendekért és útvonalakért.",
+          "Tervezze meg előre a buszutakat, különösen késő délután, mivel a járatok ritkulhatnak.",
+          "A buszmegállók egyértelműen jelölve vannak, de ha kétségei vannak, kérdezze meg a sofőrt."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru călătorii nelimitate.",
+          "Descărcați aplicația locală de transport public pentru a vedea orarele și rutele în timp real.",
+          "Planificați-vă călătoriile cu autobuzul în avans, mai ales după-amiaza târziu, deoarece frecvența poate scădea.",
+          "Stațiile de autobuz sunt marcate clar, dar întrebați șoferul dacă aveți dubii."
+        ],
+        "en": [
+          "Buy a day pass for the bus to allow for unlimited travel.",
+          "Download the local public transport app to see real-time schedules and routes.",
+          "Plan your bus trips in advance, especially in the late afternoon, as frequencies might decrease.",
+          "Bus stops are clearly marked, but ask the driver if in doubt."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1133 @@
+{
+  "city_id": "romania-brazi-cities-v2",
+  "anchor": {
+    "name": "Brazi",
+    "coords": [
+      44.86,
+      26.03
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "15:40",
+      "total_km": 4.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "St.-Demetrius-Kirche",
+            "hu": "Szent Demeter-templom",
+            "ro": "Biserica Sfântul Dumitru",
+            "en": "St. Demetrius Church"
+          },
+          "coords": [
+            44.861,
+            26.032
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Achten Sie auf die byzantinisch inspirierten Ikonen im Inneren.",
+            "hu": "Figyelje meg a belső tér bizánci ihletésű ikonjait.",
+            "ro": "Observați icoanele de inspirație bizantină din interior.",
+            "en": "Look for the Byzantine-inspired icons inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Heldenmahnmal Brazi",
+            "hu": "Brazi-i Hősök Emlékműve",
+            "ro": "Monumentul Eroilor din Brazi",
+            "en": "Brazi Heroes' Monument"
+          },
+          "coords": [
+            44.8625,
+            26.034
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:55",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer, besinnlicher Halt, um der lokalen Geschichte zu gedenken.",
+            "hu": "Egy rövid, elmélkedő megálló a helyi történelem tiszteletére.",
+            "ro": "O oprire scurtă, sobră, pentru a comemora istoria locală.",
+            "en": "A brief, solemn stop to commemorate local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Nicolau-Herrenhaus",
+            "hu": "Nicolau-kúria",
+            "ro": "Conacul Nicolau",
+            "en": "Nicolau Mansion"
+          },
+          "coords": [
+            44.87,
+            26.028
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Obwohl es nicht immer geöffnet ist, ist die Architektur von außen beeindruckend.",
+            "hu": "Bár nem mindig látogatható, az építészet kívülről is lenyűgöző.",
+            "ro": "Chiar dacă nu este mereu deschis, arhitectura exterioară este impresionantă.",
+            "en": "While not always open to the public, the architecture is impressive from the outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Nicolau-Park",
+            "hu": "Nicolau-park",
+            "ro": "Parcul Nicolau",
+            "en": "Nicolau Park"
+          },
+          "coords": [
+            44.872,
+            26.031
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Ideal für eine Mittagspause. Bringen Sie ein Picknick mit!",
+            "hu": "Ideális egy ebédszünetre. Hozzon magával piknikkosarat!",
+            "ro": "Perfect pentru o pauză de prânz. Aduceți un coș de picnic!",
+            "en": "Ideal for a lunch break. Bring a picnic!"
+          }
+        },
+        {
+          "name": {
+            "de": "Prahova-Ufer bei Brazi",
+            "hu": "Prahova-part Brazi közelében",
+            "ro": "Malul râului Prahova lângă Brazi",
+            "en": "Prahova River Bank near Brazi"
+          },
+          "coords": [
+            44.855,
+            26.045
+          ],
+          "category": "natural features",
+          "arrive_at": "14:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort, um den Tag ausklingen zu lassen und die Natur zu genießen.",
+            "hu": "Csendes hely a nap lezárásához és a természet élvezetéhez.",
+            "ro": "Un loc liniștit pentru a încheia ziua și a vă bucura de natură.",
+            "en": "A peaceful spot to end the day and enjoy nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Brazi bei der St.-Demetrius-Kirche, einem spirituellen Zentrum. Nach einem kurzen Gedenken am Heldenmahnmal führt Sie ein Spaziergang zum historischen Nicolau-Herrenhaus, das von der reichen Vergangenheit der Region zeugt. Am Mittag bietet der angrenzende Nicolau-Park eine grüne Oase für eine entspannte Pause und ein Picknick im Schatten alter Bäume. Der Nachmittag ist einem Spaziergang zum Ufer des Flusses Prahova gewidmet, wo die Ruhe der Natur einen perfekten Kontrast zum industriellen Erbe der Stadt bildet. Am Abend kehren Sie ins Zentrum zurück, um in einem lokalen Restaurant die authentische rumänische Küche zu genießen und den Tag ausklingen zu lassen.",
+        "hu": "Kezdje a napot Brazi szívében, a Szent Demeter-templomnál, a város spirituális központjában. A Hősök Emlékművénél tett rövid megemlékezés után sétáljon el a történelmi Nicolau-kúriához, amely a régió gazdag múltjáról tanúskodik. Délben a szomszédos Nicolau-park zöld oázist kínál egy pihentető szünethez és egy piknikhez az öreg fák árnyékában. A délután a Prahova folyó partjához tett sétáé, ahol a természet csendje tökéletes kontrasztot alkot a város ipari örökségével. Este térjen vissza a központba, hogy egy helyi étteremben megkóstolja az autentikus román konyhát, és lezárja a napot.",
+        "ro": "Începeți ziua în inima localității Brazi la Biserica Sfântul Dumitru, un centru spiritual. După un scurt moment de reculegere la Monumentul Eroilor, o plimbare vă duce la istoricul Conac Nicolau, o mărturie a trecutului bogat al zonei. La prânz, Parcul Nicolau adiacent oferă o oază de verdeață pentru o pauză relaxantă și un picnic la umbra copacilor bătrâni. După-amiaza este dedicată unei plimbări pe malul râului Prahova, unde liniștea naturii oferă un contrast perfect cu moștenirea industrială a orașului. Seara, reveniți în centru pentru a savura bucătăria românească autentică la un restaurant local și a încheia ziua.",
+        "en": "Start your day in the heart of Brazi at St. Demetrius Church, a spiritual center. After a brief commemoration at the Heroes' Monument, a walk takes you to the historic Nicolau Mansion, a testament to the area's rich past. At noon, the adjacent Nicolau Park offers a green oasis for a relaxing break and a picnic under the shade of old trees. The afternoon is dedicated to a walk to the banks of the Prahova River, where the tranquility of nature provides a perfect contrast to the town's industrial heritage. In the evening, return to the center to enjoy authentic Romanian cuisine at a local restaurant and round off the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mici",
+            "tip": "Probieren Sie diese gegrillten Hackfleischröllchen, ein rumänischer Klassiker."
+          },
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "Eine traditionelle Kuttelsuppe, für abenteuerlustige Esser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mics (Mici)",
+            "tip": "Kóstolja meg ezt a grillezett, darált húsból készült tekercset, egy román klasszikust."
+          },
+          {
+            "name": "Pacalleves (Ciorbă de burtă)",
+            "tip": "Hagyományos pacalleves a kalandvágyóknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mici",
+            "tip": "Încercați acești chiftele cilindrice la grătar, un clasic românesc."
+          },
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "O supă tradițională, pentru cei aventuroși."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mici",
+            "tip": "Try these grilled minced meat rolls, a Romanian classic."
+          },
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "A traditional tripe soup, for adventurous eaters."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Prahova-Ufer",
+            "tip": "Ein Spaziergang entlang des Flusses ist der beste Weg, um dem Trubel zu entkommen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Nicolau-Park",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die Stille.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Prahova-part",
+            "tip": "Egy séta a folyó mentén a legjobb módja a nyüzsgés elkerülésének.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Nicolau-park",
+            "tip": "Keressen egy csendes padot, és élvezze a nyugalmat.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Prahova",
+            "tip": "O plimbare de-a lungul râului este cel mai bun mod de a scăpa de agitație.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Nicolau",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de calm.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Prahova River Bank",
+            "tip": "A walk along the river is the best way to escape the hustle and bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Nicolau Park",
+            "tip": "Find a quiet bench and enjoy the silence.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Produkten und handwerklichem Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen helyi termékeket és kézműves sajtokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse locale și brânzeturi artizanale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for local produce and artisanal cheeses."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie einige Kilometer zurücklegen werden.",
+          "Nehmen Sie Wasser und Snacks mit, besonders für den Spaziergang zum Fluss.",
+          "Überprüfen Sie die Öffnungszeiten, wenn Sie das Innere von Gebäuden besichtigen möchten."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel több kilométert fog gyalogolni.",
+          "Vigyen magával vizet és harapnivalót, különösen a folyóparti sétához.",
+          "Ellenőrizze a nyitvatartási időt, ha épületeket szeretne belülről is megnézni."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți parcurge câțiva kilometri.",
+          "Luați apă și gustări, mai ales pentru plimbarea spre râu.",
+          "Verificați programul de funcționare dacă doriți să vizitați interiorul clădirilor."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be covering a few kilometers.",
+          "Bring water and snacks, especially for the walk to the river.",
+          "Check opening hours if you plan to visit the interior of any buildings."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Brazi",
+            "hu": "Brazi vasútállomás",
+            "ro": "Gara Brazi",
+            "en": "Brazi Train Station"
+          },
+          "coords": [
+            44.88,
+            26.04
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein Relikt der industriellen Vergangenheit, interessant für Eisenbahnfans.",
+            "hu": "Az ipari múlt emléke, érdekes a vasút rajongóinak.",
+            "ro": "O relicvă a trecutului industrial, interesantă pentru pasionații de căi ferate.",
+            "en": "A relic of the industrial past, interesting for railway enthusiasts."
+          }
+        },
+        {
+          "name": {
+            "de": "Petrobrazi-Raffinerie (Aussichtspunkt)",
+            "hu": "Petrobrazi finomító (kilátópont)",
+            "ro": "Rafinăria Petrobrazi (punct de observare)",
+            "en": "Petrobrazi Refinery (Viewing Point)"
+          },
+          "coords": [
+            44.885,
+            26.055
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die schiere Größe der rumänischen Industrie aus sicherer Entfernung.",
+            "hu": "Tapasztalja meg a román ipar méreteit biztonságos távolságból.",
+            "ro": "Experimentați amploarea industriei românești de la o distanță sigură.",
+            "en": "Witness the scale of Romanian industry from a safe distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Prahova-Ufer bei Brazi",
+            "hu": "Prahova-part Brazi közelében",
+            "ro": "Malul râului Prahova lângă Brazi",
+            "en": "Prahova River Bank near Brazi"
+          },
+          "coords": [
+            44.855,
+            26.045
+          ],
+          "category": "natural features",
+          "arrive_at": "10:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Eine erfrischende Pause am Wasser nach den industriellen Eindrücken.",
+            "hu": "Frissítő pihenő a vízparton az ipari látványosságok után.",
+            "ro": "O pauză răcoritoare la malul apei după priveliștile industriale.",
+            "en": "A refreshing break by the water after the industrial sights."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Demetrius-Kirche",
+            "hu": "Szent Demeter-templom",
+            "ro": "Biserica Sfântul Dumitru",
+            "en": "St. Demetrius Church"
+          },
+          "coords": [
+            44.861,
+            26.032
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Das spirituelle Zentrum der Stadt ist einen Besuch wert.",
+            "hu": "A város spirituális központja megér egy látogatást.",
+            "ro": "Centrul spiritual al orașului merită o vizită.",
+            "en": "The spiritual heart of the town is worth a visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Nicolau-Park",
+            "hu": "Nicolau-park",
+            "ro": "Parcul Nicolau",
+            "en": "Nicolau Park"
+          },
+          "coords": [
+            44.872,
+            26.031
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der perfekte Ort für ein Mittagessen im Freien.",
+            "hu": "Tökéletes hely egy szabadtéri ebédhez.",
+            "ro": "Locul perfect pentru un prânz în aer liber.",
+            "en": "The perfect spot for an outdoor lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Chimia-Brazi-Stadion",
+            "hu": "Chimia Brazi Stadion",
+            "ro": "Stadionul Chimia Brazi",
+            "en": "Chimia Brazi Stadium"
+          },
+          "coords": [
+            44.875,
+            26.015
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Spüren Sie die lokale Sportkultur, auch wenn kein Spiel stattfindet.",
+            "hu": "Érezze a helyi sportkultúrát, még ha nincs is meccs.",
+            "ro": "Simțiți cultura sportivă locală, chiar dacă nu are loc niciun meci.",
+            "en": "Feel the local sports culture, even if there's no game."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel und beginnen Sie Ihre Tour am Bahnhof von Brazi, einem Zeugen der industriellen Revolution. Von dort radeln Sie zum Petrobrazi-Komplex, um einen Eindruck von der modernen Industrie zu bekommen, bevor Sie am Ufer des Prahova-Flusses eine natürliche Auszeit nehmen. Die Mittagszeit führt Sie ins Zentrum zur St.-Demetrius-Kirche und in den Nicolau-Park, wo Sie sich bei einem Picknick stärken können. Der Nachmittag ist sportlich: eine Fahrt zum Chimia-Brazi-Stadion rundet Ihre Erkundung der verschiedenen Facetten der Stadt ab. Dieser Tag auf zwei Rädern verbindet Industrie, Natur und lokale Kultur.",
+        "hu": "Pattanjon nyeregbe, és kezdje a túrát a brazi-i vasútállomásnál, az ipari forradalom tanújánál. Onnan tekerjen el a Petrobrazi komplexumhoz, hogy bepillantást nyerjen a modern iparba, mielőtt a Prahova folyó partján természetes kikapcsolódást tartana. Délidőben a központba, a Szent Demeter-templomhoz és a Nicolau-parkba vezet az út, ahol egy piknikkel erősíthet. A délután sportos: egy biciklizés a Chimia Brazi stadionhoz teszi teljessé a város különböző arcainak felfedezését. Ez a két keréken töltött nap ötvözi az ipart, a természetet és a helyi kultúrát.",
+        "ro": "Urcați-vă pe bicicletă și începeți turul la Gara Brazi, un martor al revoluției industriale. De acolo, pedalați spre complexul Petrobrazi pentru o imagine a industriei moderne, înainte de a lua o pauză în natură pe malul râului Prahova. La prânz, drumul vă duce în centru, la Biserica Sfântul Dumitru și în Parcul Nicolau, unde vă puteți reîncărca bateriile cu un picnic. După-amiaza este dedicată sportului: o plimbare cu bicicleta la Stadionul Chimia Brazi completează explorarea diferitelor fațete ale orașului. Această zi pe două roți îmbină industria, natura și cultura locală.",
+        "en": "Hop on your bike and start your tour at Brazi Train Station, a witness to the industrial revolution. From there, pedal to the Petrobrazi complex for a glimpse of modern industry before taking a natural break on the banks of the Prahova River. At lunchtime, the route takes you to the center, to St. Demetrius Church and Nicolau Park, where you can recharge with a picnic. The afternoon is sporty: a ride to the Chimia Brazi Stadium completes your exploration of the city's different facets. This day on two wheels combines industry, nature, and local culture."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Covrigi",
+            "tip": "Ein schneller, salziger Snack, perfekt für eine Radtour."
+          },
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "Ein herzhafter Kuchen mit Käse, der Energie für die Fahrt gibt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Perec (Covrigi)",
+            "tip": "Gyors, sós harapnivaló, tökéletes egy kerékpártúrához."
+          },
+          {
+            "name": "Túrós pite (Plăcintă cu brânză)",
+            "tip": "Kiadós, sajtos pite, amely energiát ad a tekeréshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Covrigi",
+            "tip": "O gustare rapidă și sărată, perfectă pentru o tură cu bicicleta."
+          },
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "O plăcintă sărată care vă va da energie pentru pedalat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Covrigi",
+            "tip": "A quick, salty snack, perfect for a bike ride."
+          },
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "A savory pie with cheese to give you energy for the ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Prahova-Ufer",
+            "tip": "Das Rauschen des Flusses ist die perfekte Geräuschkulisse für eine Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eine ruhige Ecke im Nicolau-Park",
+            "tip": "Abseits der Hauptwege finden Sie sicher einen friedlichen Ort.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Prahova-part",
+            "tip": "A folyó zúgása tökéletes háttérzaj egy szünethez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy csendes sarok a Nicolau-parkban",
+            "tip": "A fő utaktól távol biztosan talál egy békés helyet.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Prahova",
+            "tip": "Sunetul râului este fundalul perfect pentru o pauză.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Un colț liniștit în Parcul Nicolau",
+            "tip": "Departe de aleile principale, veți găsi cu siguranță un loc pașnic.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Prahova River Bank",
+            "tip": "The sound of the river is the perfect backdrop for a break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A quiet corner in Nicolau Park",
+            "tip": "You're sure to find a peaceful spot away from the main paths.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Kaufen Sie frisches Brot und Gebäck für Ihre Reise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékség",
+            "tip": "Vásároljon friss kenyeret és péksüteményt az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie locală",
+            "tip": "Cumpărați pâine proaspătă și produse de patiserie pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bakery",
+            "tip": "Buy some fresh bread and pastries for your journey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad an den Haltestellen sicher abzustellen.",
+          "Achten Sie auf den Verkehr, besonders in der Nähe der Industrieanlagen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját, különösen a fékeket és a gumikat.",
+          "Hozzon magával lakatot, hogy biztonságosan lezárhassa a kerékpárt a megállóknál.",
+          "Vigyázzon a forgalomra, különösen az ipari területek közelében."
+        ],
+        "ro": [
+          "Verificați bicicleta înainte de a pleca, în special frânele și anvelopele.",
+          "Luați un lacăt pentru a vă asigura bicicleta la opriri.",
+          "Fiți atenți la trafic, mai ales în apropierea zonelor industriale."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes and tires.",
+          "Bring a lock to secure your bike at the stops.",
+          "Be aware of traffic, especially near the industrial areas."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 19.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Nicolau-Park (Cluster A Parkplatz)",
+            "hu": "Nicolau-park (A-Klaszter parkoló)",
+            "ro": "Parcul Nicolau (Parcare Cluster A)",
+            "en": "Nicolau Park (Cluster A Parking)"
+          },
+          "coords": [
+            44.872,
+            26.031
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie den ersten Cluster zu Fuß.",
+            "hu": "Parkoljon itt, és fedezze fel gyalog az első klasztert.",
+            "ro": "Parcați aici și explorați primul cluster pe jos.",
+            "en": "Park here and explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Nicolau-Herrenhaus",
+            "hu": "Nicolau-kúria",
+            "ro": "Conacul Nicolau",
+            "en": "Nicolau Mansion"
+          },
+          "coords": [
+            44.87,
+            26.028
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Park zum beeindruckenden Herrenhaus.",
+            "hu": "Rövid séta a parkból a lenyűgöző kúriához.",
+            "ro": "O scurtă plimbare de la parc la conacul impresionant.",
+            "en": "A short walk from the park to the impressive mansion."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Demetrius-Kirche",
+            "hu": "Szent Demeter-templom",
+            "ro": "Biserica Sfântul Dumitru",
+            "en": "St. Demetrius Church"
+          },
+          "coords": [
+            44.861,
+            26.032
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den ersten Cluster-Spaziergang mit einem Besuch der Hauptkirche.",
+            "hu": "Fejezze be az első klaszter-sétát a főtemplom meglátogatásával.",
+            "ro": "Încheiați plimbarea din primul cluster cu o vizită la biserica principală.",
+            "en": "Finish the first cluster walk with a visit to the main church."
+          }
+        },
+        {
+          "name": {
+            "de": "Petrobrazi-Raffinerie (Cluster B Parkplatz)",
+            "hu": "Petrobrazi finomító (B-Klaszter parkoló)",
+            "ro": "Rafinăria Petrobrazi (Parcare Cluster B)",
+            "en": "Petrobrazi Refinery (Cluster B Parking)"
+          },
+          "coords": [
+            44.885,
+            26.055
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum zweiten Cluster für einen Einblick in die Industrie.",
+            "hu": "Vezessen a második klaszterhez, hogy bepillantást nyerjen az iparba.",
+            "ro": "Conduceți la al doilea cluster pentru o privire asupra industriei.",
+            "en": "Drive to the second cluster for a glimpse of the industry."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahnhof Brazi",
+            "hu": "Brazi vasútállomás",
+            "ro": "Gara Brazi",
+            "en": "Brazi Train Station"
+          },
+          "coords": [
+            44.88,
+            26.04
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:55",
+          "stay_min": 20,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang, um die alte Eisenbahnarchitektur zu bewundern.",
+            "hu": "Rövid séta a régi vasúti építészet megcsodálására.",
+            "ro": "O plimbare scurtă pentru a admira arhitectura feroviară veche.",
+            "en": "A short walk to admire the old railway architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Prahova-Ufer (Cluster C)",
+            "hu": "Prahova-part (C-Klaszter)",
+            "ro": "Malul râului Prahova (Cluster C)",
+            "en": "Prahova River Bank (Cluster C)"
+          },
+          "coords": [
+            44.855,
+            26.045
+          ],
+          "category": "natural features",
+          "arrive_at": "15:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 9.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Der letzte Halt des Tages für Entspannung in der Natur.",
+            "hu": "A nap utolsó állomása a természetben való kikapcsolódáshoz.",
+            "ro": "Ultima oprire a zilei pentru relaxare în natură.",
+            "en": "The last stop of the day for relaxation in nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren motorisierten Ausflug im Zentrum von Brazi. Parken Sie Ihr Auto im ersten Cluster und erkunden Sie zu Fuß den Nicolau-Park, das prächtige Herrenhaus und die St.-Demetrius-Kirche. Genießen Sie die Flexibilität, die historischen und grünen Herzen der Stadt in Ihrem eigenen Tempo zu entdecken. Zur Mittagszeit steigen Sie wieder ins Auto und fahren zum zweiten Cluster, dem industriellen Kern der Region, um die Petrobrazi-Raffinerie und den alten Bahnhof zu sehen. Der Nachmittag führt Sie zu Ihrem letzten Ziel, dem ruhigen Ufer des Prahova-Flusses. Hier können Sie parken und einen langen Spaziergang machen, um die Eindrücke des Tages zu verarbeiten und die natürliche Schönheit zu genießen.",
+        "hu": "Kezdje motorizált kirándulását Brazi központjában. Parkolja le autóját az első klaszterben, és fedezze fel gyalog a Nicolau-parkot, a csodálatos kúriát és a Szent Demeter-templomot. Élvezze a rugalmasságot, hogy saját tempójában fedezheti fel a város történelmi és zöld szívét. Délidőben szálljon vissza az autóba, és vezessen a második klaszterhez, a régió ipari magjához, hogy megnézze a Petrobrazi finomítót és a régi vasútállomást. A délután az utolsó célponthoz, a Prahova folyó csendes partjához vezet. Itt leparkolhat, és egy hosszú sétát tehet, hogy feldolgozza a nap benyomásait és élvezze a természeti szépséget.",
+        "ro": "Începeți excursia motorizată în centrul localității Brazi. Parcați mașina în primul cluster și explorați pe jos Parcul Nicolau, magnificul conac și Biserica Sfântul Dumitru. Bucurați-vă de flexibilitatea de a descoperi inima istorică și verde a orașului în propriul ritm. La prânz, urcați-vă din nou în mașină și conduceți spre al doilea cluster, nucleul industrial al regiunii, pentru a vedea Rafinăria Petrobrazi și vechea gară. După-amiaza vă duce la destinația finală, malul liniștit al râului Prahova. Aici puteți parca și face o plimbare lungă pentru a procesa impresiile zilei și a vă bucura de frumusețea naturală.",
+        "en": "Start your motorized trip in the center of Brazi. Park your car in the first cluster and explore Nicolau Park, the magnificent mansion, and St. Demetrius Church on foot. Enjoy the flexibility of discovering the town's historic and green heart at your own pace. At midday, get back in the car and drive to the second cluster, the region's industrial core, to see the Petrobrazi Refinery and the old train station. The afternoon takes you to your final destination, the quiet bank of the Prahova River. Here you can park and take a long walk to process the day's impressions and enjoy the natural beauty."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sarmale cu mămăliguță",
+            "tip": "Kohlrouladen mit Polenta, ein herzhaftes Gericht für einen langen Tag."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Ein köstliches Dessert aus Quark, Sauerrahm und Marmelade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Töltött káposzta puliszkával (Sarmale cu mămăliguță)",
+            "tip": "Töltött káposzta polentával, kiadós étel egy hosszú napra."
+          },
+          {
+            "name": "Túrógombóc (Papanași)",
+            "tip": "Ízletes desszert túróból, tejfölből és lekvárból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sarmale cu mămăliguță",
+            "tip": "Un fel de mâncare consistent pentru o zi lungă."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Un desert delicios cu brânză de vaci, smântână și gem."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sarmale cu mămăliguță",
+            "tip": "Cabbage rolls with polenta, a hearty dish for a long day."
+          },
+          {
+            "name": "Papanași",
+            "tip": "A delicious dessert of cottage cheese, sour cream, and jam."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Prahova-Ufer",
+            "tip": "Der perfekte Ort, um dem Motorenlärm zu entfliehen und die Ruhe zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bank im Nicolau-Park",
+            "tip": "Nach dem Spaziergang durch den Cluster können Sie hier durchatmen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Prahova-part",
+            "tip": "Tökéletes hely a motorzaj elől való menekülésre és a csend élvezetére.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pad a Nicolau-parkban",
+            "tip": "A klaszterben tett séta után itt fellélegezhet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Prahova",
+            "tip": "Locul perfect pentru a scăpa de zgomotul motoarelor și a vă bucura de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bancă în Parcul Nicolau",
+            "tip": "După plimbarea prin cluster, puteți respira adânc aici.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Prahova River Bank",
+            "tip": "The perfect place to escape the engine noise and enjoy the peace and quiet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bench in Nicolau Park",
+            "tip": "After walking through the cluster, you can take a deep breath here.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Straßenverkäufer",
+            "tip": "Halten Sie Ausschau nach hausgemachter Marmelade oder Honig am Straßenrand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Út menti árusok",
+            "tip": "Figyelje a házi lekvárt vagy mézet kínáló árusokat az út mentén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vânzători ambulanți",
+            "tip": "Fiți atenți la gemurile de casă sau mierea vândute la marginea drumului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Roadside vendors",
+            "tip": "Look out for homemade jams or honey sold on the roadside."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Planen Sie Ihre Parkstopps sorgfältig, um lange Fußwege zu vermeiden.",
+          "Ein Navi ist unerlässlich, um zwischen den Clustern zu navigieren.",
+          "Tanken Sie, bevor Sie in ländlichere Gebiete fahren."
+        ],
+        "hu": [
+          "Gondosan tervezze meg a parkolási megállókat a hosszú séták elkerülése érdekében.",
+          "A navigáció elengedhetetlen a klaszterek közötti közlekedéshez.",
+          "Tankoljon, mielőtt vidékibb területekre indulna."
+        ],
+        "ro": [
+          "Planificați cu atenție opririle de parcare pentru a evita plimbările lungi.",
+          "Un sistem de navigație este esențial pentru a naviga între clustere.",
+          "Alimentați cu combustibil înainte de a intra în zone mai rurale."
+        ],
+        "en": [
+          "Plan your parking stops carefully to avoid long walks.",
+          "A GPS is essential for navigating between clusters.",
+          "Fill up on gas before heading into more rural areas."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:55",
+      "total_km": 8.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "St.-Demetrius-Kirche (Cluster A)",
+            "hu": "Szent Demeter-templom (A-Klaszter)",
+            "ro": "Biserica Sfântul Dumitru (Cluster A)",
+            "en": "St. Demetrius Church (Cluster A)"
+          },
+          "coords": [
+            44.861,
+            26.032
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie im Zentrum, das leicht mit dem Bus zu erreichen ist.",
+            "hu": "Kezdje a központban, amely busszal könnyen megközelíthető.",
+            "ro": "Începeți în centru, ușor accesibil cu autobuzul.",
+            "en": "Start in the center, easily accessible by bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Heldenmahnmal Brazi",
+            "hu": "Brazi-i Hősök Emlékműve",
+            "ro": "Monumentul Eroilor din Brazi",
+            "en": "Brazi Heroes' Monument"
+          },
+          "coords": [
+            44.8625,
+            26.034
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:55",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang von der Kirche entfernt.",
+            "hu": "Csak egy rövid sétára a templomtól.",
+            "ro": "La doar o scurtă plimbare de biserică.",
+            "en": "Just a short walk from the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Nicolau-Park",
+            "hu": "Nicolau-park",
+            "ro": "Parcul Nicolau",
+            "en": "Nicolau Park"
+          },
+          "coords": [
+            44.872,
+            26.031
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang durch die Stadt zum Park.",
+            "hu": "Szép séta a városon keresztül a parkig.",
+            "ro": "O plimbare frumoasă prin oraș până la parc.",
+            "en": "A pleasant walk through the town to the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahnhof Brazi (Cluster B)",
+            "hu": "Brazi vasútállomás (B-Klaszter)",
+            "ro": "Gara Brazi (Cluster B)",
+            "en": "Brazi Train Station (Cluster B)"
+          },
+          "coords": [
+            44.88,
+            26.04
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus, um zum Industriegebiet zu gelangen.",
+            "hu": "Menjen helyi busszal az ipari területre.",
+            "ro": "Luați un autobuz local pentru a ajunge în zona industrială.",
+            "en": "Take a local bus to get to the industrial area."
+          }
+        },
+        {
+          "name": {
+            "de": "Petrobrazi-Raffinerie (Aussichtspunkt)",
+            "hu": "Petrobrazi finomító (kilátópont)",
+            "ro": "Rafinăria Petrobrazi (punct de observare)",
+            "en": "Petrobrazi Refinery (Viewing Point)"
+          },
+          "coords": [
+            44.885,
+            26.055
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Spaziergang, um die Dimensionen der Anlage zu erfassen.",
+            "hu": "Séta, hogy felmérje a létesítmény méreteit.",
+            "ro": "O plimbare pentru a înțelege dimensiunile complexului.",
+            "en": "A walk to grasp the dimensions of the facility."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die lokalen Busse, um Brazi zu erkunden. Der Tag beginnt im Zentrum (Cluster A) mit der St.-Demetrius-Kirche, dem Heldenmahnmal und einem entspannten Mittagessen im Nicolau-Park, alles bequem zu Fuß erreichbar. Am Nachmittag bringt Sie ein Bus zum industriellen Herzen (Cluster B). Dort können Sie den alten Bahnhof und die beeindruckende Petrobrazi-Raffinerie aus der Nähe betrachten. Dieser Plan zeigt, wie man mit öffentlichen Verkehrsmitteln sowohl das historische Zentrum als auch die industrielle Landschaft von Brazi erleben kann, und bietet eine ausgewogene Mischung aus Kultur, Geschichte und Industrie.",
+        "hu": "Használja a helyi buszokat Brazi felfedezéséhez. A nap a központban (A-klaszter) kezdődik a Szent Demeter-templommal, a Hősök Emlékművével és egy pihentető ebéddel a Nicolau-parkban, mindez kényelmesen, gyalogosan elérhető. Délután egy busz elviszi az ipari szívhez (B-klaszter). Ott megnézheti a régi vasútállomást és a lenyűgöző Petrobrazi finomítót. Ez a terv bemutatja, hogyan lehet tömegközlekedéssel megtapasztalni Brazi történelmi központját és ipari táját is, kiegyensúlyozott keveréket kínálva a kultúrából, történelemből és iparból.",
+        "ro": "Folosiți autobuzele locale pentru a explora Brazi. Ziua începe în centru (Cluster A) cu Biserica Sfântul Dumitru, Monumentul Eroilor și un prânz relaxant în Parcul Nicolau, toate accesibile confortabil pe jos. După-amiaza, un autobuz vă duce în inima industrială (Cluster B). Acolo puteți vedea vechea gară și impresionanta Rafinărie Petrobrazi. Acest plan arată cum se poate experimenta atât centrul istoric, cât și peisajul industrial din Brazi folosind transportul public, oferind un amestec echilibrat de cultură, istorie și industrie.",
+        "en": "Use the local buses to explore Brazi. The day begins in the center (Cluster A) with St. Demetrius Church, the Heroes' Monument, and a relaxing lunch in Nicolau Park, all comfortably accessible on foot. In the afternoon, a bus takes you to the industrial heart (Cluster B). There you can see the old train station and the impressive Petrobrazi Refinery. This plan shows how you can experience both the historic center and the industrial landscape of Brazi using public transport, offering a balanced mix of culture, history, and industry."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gogoși",
+            "tip": "Rumänische Donuts, ein süßer Genuss für unterwegs."
+          },
+          {
+            "name": "Zacuscă pe pâine",
+            "tip": "Ein beliebter Gemüseaufstrich auf Brot, ideal für eine schnelle Mahlzeit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fánk (Gogoși)",
+            "tip": "Román fánk, édes finomság útközben."
+          },
+          {
+            "name": "Zakuszka kenyérrel (Zacuscă pe pâine)",
+            "tip": "Népszerű zöldségkrém kenyéren, ideális egy gyors étkezéshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gogoși",
+            "tip": "O delicatesă dulce pentru drum."
+          },
+          {
+            "name": "Zacuscă pe pâine",
+            "tip": "O pastă de legume populară, ideală pentru o masă rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gogoși",
+            "tip": "Romanian donuts, a sweet treat for the road."
+          },
+          {
+            "name": "Zacuscă on bread",
+            "tip": "A popular vegetable spread on bread, ideal for a quick meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Nicolau-Park",
+            "tip": "Vor der Nachmittagsfahrt mit dem Bus können Sie hier die Stille genießen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nicolau-park",
+            "tip": "A délutáni buszozás előtt itt élvezheti a csendet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Nicolau",
+            "tip": "Înainte de călătoria cu autobuzul de după-amiază, vă puteți bucura de liniște aici.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Nicolau Park",
+            "tip": "Before the afternoon bus ride, you can enjoy the silence here.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Bahnhof",
+            "tip": "Kaufen Sie ein Ticket und vielleicht eine lokale Zeitung oder ein Magazin."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bódé az állomáson",
+            "tip": "Vegyél jegyet, és talán egy helyi újságot vagy magazint."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la gară",
+            "tip": "Cumpărați un bilet și poate un ziar sau o revistă locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the station",
+            "tip": "Buy a ticket and maybe a local newspaper or magazine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich im Voraus über die Busfahrpläne und -routen.",
+          "Haben Sie Kleingeld für Bustickets bereit.",
+          "Planen Sie Pufferzeiten für mögliche Verspätungen ein."
+        ],
+        "hu": [
+          "Előre tájékozódjon a buszmenetrendekről és -útvonalakról.",
+          "Készítsen elő aprópénzt a buszjegyekhez.",
+          "Tervezzen pufferidőt az esetleges késésekre."
+        ],
+        "ro": [
+          "Informați-vă în prealabil despre orarele și rutele autobuzelor.",
+          "Aveți la îndemână mărunțiș pentru biletele de autobuz.",
+          "Planificați timp suplimentar pentru posibile întârzieri."
+        ],
+        "en": [
+          "Find out in advance about bus timetables and routes.",
+          "Have small change ready for bus tickets.",
+          "Plan for buffer times for possible delays."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1172 @@
+{
+  "city_id": "montenegro-gusinje-cities-v2",
+  "anchor": {
+    "name": "Gusinje",
+    "coords": [
+      19.829,
+      42.562
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:35",
+      "total_km": 3.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Nationalpark-Besucherzentrum Prokletije",
+            "hu": "Prokletije Nemzeti Park Látogatóközpont",
+            "ro": "Centrul de Vizitare al Parcului Național Prokletije",
+            "en": "Prokletije National Park Visitor Center"
+          },
+          "coords": [
+            19.8321,
+            42.5635
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Holen Sie sich hier Karten und Einblicke, bevor Sie die Natur erkunden.",
+            "hu": "Szerezzen be térképeket és tippeket itt, mielőtt a természetbe indul.",
+            "ro": "Obțineți hărți și informații de aici înainte de a explora natura.",
+            "en": "Get maps and insights here before exploring the natural surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Vezir-Moschee",
+            "hu": "Vezír-mecset",
+            "ro": "Moscheea Vizirului",
+            "en": "Vizier's Mosque"
+          },
+          "coords": [
+            19.83,
+            42.561
+          ],
+          "category": "religious",
+          "arrive_at": "10:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die osmanische Architektur und die friedliche Atmosphäre.",
+            "hu": "Csodálja meg az oszmán építészetet és a békés légkört.",
+            "ro": "Admirați arhitectura otomană și atmosfera pașnică.",
+            "en": "Admire the Ottoman architecture and the peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Radončića-Turm",
+            "hu": "Radončić-torony",
+            "ro": "Turnul Radončića",
+            "en": "Radončić Tower"
+          },
+          "coords": [
+            19.8285,
+            42.5605
+          ],
+          "category": "historical",
+          "arrive_at": "11:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Wehrturm aus dem 18. Jahrhundert, der einen Einblick in die lokale Geschichte bietet.",
+            "hu": "Egy 18. századi őrtorony, amely bepillantást enged a helyi történelembe.",
+            "ro": "Un turn de apărare din secolul al XVIII-lea care oferă o perspectivă asupra istoriei locale.",
+            "en": "A defensive tower from the 18th century offering a glimpse into local history."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Antonius-Kirche",
+            "hu": "Szent Antal-templom",
+            "ro": "Biserica Sfântul Anton",
+            "en": "St. Anthony's Church"
+          },
+          "coords": [
+            19.833,
+            42.56
+          ],
+          "category": "religious",
+          "arrive_at": "13:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eine charmante katholische Kirche, die einen Moment der Ruhe bietet.",
+            "hu": "Egy bájos katolikus templom, amely egy pillanatnyi nyugalmat kínál.",
+            "ro": "O biserică catolică fermecătoare ce oferă un moment de liniște.",
+            "en": "A charming Catholic church offering a moment of tranquility."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebéd a városközpontban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the Town Center"
+          },
+          "coords": [
+            19.8295,
+            42.5615
+          ],
+          "category": "gastro",
+          "arrive_at": "14:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie lokale Spezialitäten wie Kačamak oder gegrilltes Lamm.",
+            "hu": "Kóstolja meg a helyi specialitásokat, mint a kačamak vagy a grillezett bárány.",
+            "ro": "Încercați specialități locale precum kačamak sau miel la grătar.",
+            "en": "Try local specialties like kačamak or grilled lamb."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Gusinje beginnt im Nationalpark-Besucherzentrum, wo Sie sich auf die Wunder von Prokletije einstimmen. Am Vormittag erkunden Sie das historische Herz der Stadt, von der osmanischen Vezir-Moschee bis zum alten Radončića-Turm. Nach dem Mittagessen mit lokalen Köstlichkeiten finden Sie Ruhe in der St.-Antonius-Kirche. Der Nachmittag lädt zu einem entspannten Spaziergang entlang des Flusses Ljuča ein, um die Eindrücke des Tages zu verarbeiten.",
+        "hu": "A nap Gusinjében a Prokletije Nemzeti Park Látogatóközpontjában kezdődik, felkészülve a Prokletije csodáira. Délelőtt a város történelmi szívét fedezi fel, az oszmán Vezír-mecsettől a régi Radončić-toronyig. Egy helyi finomságokkal teli ebéd után a Szent Antal-templomban talál nyugalmat. A délután egy pihentető sétára hív a Ljuča folyó mentén, feldolgozva a nap élményeit.",
+        "ro": "Ziua dvs. în Gusinje începe la Centrul de Vizitare al Parcului Național, pregătindu-vă pentru minunile din Prokletije. Dimineața explorați inima istorică a orașului, de la Moscheea Vizirului otomană la vechiul Turn Radončića. După un prânz cu delicatese locale, găsiți liniște la Biserica Sfântul Anton. După-amiaza vă invită la o plimbare relaxantă de-a lungul râului Ljuča, pentru a procesa impresiile zilei.",
+        "en": "Your day in Gusinje begins at the National Park Visitor Center, setting the stage for the wonders of Prokletije. In the morning, you'll explore the historical heart of the town, from the Ottoman Vizier's Mosque to the ancient Radončić Tower. After a lunch of local delicacies, you'll find peace at St. Anthony's Church. The afternoon calls for a relaxing walk along the Ljuča River, absorbing the day's impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kačamak",
+            "tip": "Ein herzhaftes Gericht aus Maismehl und Kartoffeln, oft mit Käse und Kajmak serviert."
+          },
+          {
+            "name": "Gegrilltes Lamm",
+            "tip": "In den Bergen Montenegros eine weit verbreitete und köstliche Spezialität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kačamak",
+            "tip": "Laktató kukoricalisztből és burgonyából készült étel, gyakran sajttal és kajmakkal tálalva."
+          },
+          {
+            "name": "Grillezett bárány",
+            "tip": "Montenegró hegyvidékén elterjedt és ízletes specialitás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kačamak",
+            "tip": "Un fel de mâncare consistent din mălai și cartofi, adesea servit cu brânză și kajmak."
+          },
+          {
+            "name": "Miel la grătar",
+            "tip": "O specialitate răspândită și delicioasă în munții din Muntenegru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kačamak",
+            "tip": "A hearty dish of cornmeal and potatoes, often served with cheese and kajmak."
+          },
+          {
+            "name": "Grilled Lamb",
+            "tip": "A common and delicious specialty in the mountains of Montenegro."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Fluss Ljuča",
+            "tip": "Finden Sie einen ruhigen Platz am Ufer und lauschen Sie dem Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hof der Vezir-Moschee",
+            "tip": "Ein friedlicher Ort für einen Moment der Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Ljuča folyó partján",
+            "tip": "Találjon egy csendes helyet a parton és hallgassa a víz csobogását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Vezír-mecset udvara",
+            "tip": "Békés hely egy pillanatnyi elmélkedésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului Ljuča",
+            "tip": "Găsiți un loc liniștit pe mal și ascultați susurul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea Moscheii Vizirului",
+            "tip": "Un loc pașnic pentru un moment de reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk by the Ljuča River",
+            "tip": "Find a quiet spot on the bank and listen to the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Courtyard of the Vizier's Mosque",
+            "tip": "A peaceful place for a moment of reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Die Bergwiesen ergeben einen besonders aromatischen Honig."
+          },
+          {
+            "name": "Handgefertigte Wollwaren",
+            "tip": "Suchen Sie nach traditionellen Socken, Pullovern oder Decken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "A hegyi rétek különösen aromás mézet adnak."
+          },
+          {
+            "name": "Kézzel készített gyapjútermékek",
+            "tip": "Keressen hagyományos zoknikat, pulóvereket vagy takarókat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Pajiștile montane produc o miere deosebit de aromată."
+          },
+          {
+            "name": "Articole din lână lucrate manual",
+            "tip": "Căutați șosete, pulovere sau pături tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "The mountain meadows produce a particularly aromatic honey."
+          },
+          {
+            "name": "Handmade Woolen Goods",
+            "tip": "Look for traditional socks, sweaters, or blankets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind leicht zu Fuß erreichbar.",
+          "Nehmen Sie Wasser mit, besonders an warmen Tagen.",
+          "Ein Spaziergang am frühen Morgen ist am besten, um die Ruhe der Stadt zu genießen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakő egyenetlen lehet.",
+          "A legtöbb belvárosi látnivaló könnyen megközelíthető gyalog.",
+          "Vigyen magával vizet, különösen meleg napokon.",
+          "A kora reggeli séta a legjobb, hogy élvezze a város nyugalmát."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul poate fi denivelat.",
+          "Majoritatea atracțiilor din centrul orașului sunt ușor accesibile pe jos.",
+          "Luați apă cu dvs., mai ales în zilele călduroase.",
+          "O plimbare dimineața devreme este cea mai bună pentru a vă bucura de liniștea orașului."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones can be uneven.",
+          "Most sights in the town center are within easy walking distance.",
+          "Bring water with you, especially on warm days.",
+          "An early morning walk is best to enjoy the town's tranquility."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 10.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ali-Pascha-Quellen",
+            "hu": "Ali Pasa-források",
+            "ro": "Izvoarele Ali Pașa",
+            "en": "Ali Pasha's Springs"
+          },
+          "coords": [
+            19.839,
+            42.555
+          ],
+          "category": "natural_features",
+          "arrive_at": "09:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein wunderschöner Ort, an dem mehrere Quellen aus dem Boden sprudeln.",
+            "hu": "Gyönyörű hely, ahol több forrás tör a felszínre a földből.",
+            "ro": "Un loc frumos unde mai multe izvoare țâșnesc din pământ.",
+            "en": "A beautiful spot where several springs gush from the ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Vezir-Moschee & Radončića-Turm",
+            "hu": "Vezír-mecset & Radončić-torony",
+            "ro": "Moscheea Vizirului & Turnul Radončića",
+            "en": "Vizier's Mosque & Radončić Tower"
+          },
+          "coords": [
+            19.829,
+            42.561
+          ],
+          "category": "historical",
+          "arrive_at": "10:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Erkunden Sie diese beiden historischen Wahrzeichen im Zentrum von Gusinje.",
+            "hu": "Fedezze fel ezt a két történelmi nevezetességet Gusinje központjában.",
+            "ro": "Explorați aceste două repere istorice din centrul orașului Gusinje.",
+            "en": "Explore these two historical landmarks in the center of Gusinje."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Stadt",
+            "hu": "Ebéd a városban",
+            "ro": "Prânz în oraș",
+            "en": "Lunch in town"
+          },
+          "coords": [
+            19.8295,
+            42.5615
+          ],
+          "category": "gastro",
+          "arrive_at": "11:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Stärken Sie sich mit herzhafter montenegrinischer Küche.",
+            "hu": "Erősítse meg magát kiadós montenegrói ételekkel.",
+            "ro": "Întăriți-vă cu bucătăria muntenegreană consistentă.",
+            "en": "Refuel with some hearty Montenegrin cuisine."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalpark-Besucherzentrum",
+            "hu": "Nemzeti Park Látogatóközpont",
+            "ro": "Centrul de Vizitare al Parcului Național",
+            "en": "National Park Visitor Center"
+          },
+          "coords": [
+            19.8321,
+            42.5635
+          ],
+          "category": "museums",
+          "arrive_at": "13:03",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Lernen Sie mehr über die einzigartige Flora und Fauna des Prokletije-Gebirges.",
+            "hu": "Tudjon meg többet a Prokletije-hegység egyedülálló növény- és állatvilágáról.",
+            "ro": "Aflați mai multe despre flora și fauna unică a munților Prokletije.",
+            "en": "Learn about the unique flora and fauna of the Prokletije mountains."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt in Richtung Grebaje-Tal",
+            "hu": "Tekerés a Grebaje-völgy felé",
+            "ro": "Plimbare spre Valea Grebaje",
+            "en": "Ride towards Grebaje Valley"
+          },
+          "coords": [
+            19.78,
+            42.545
+          ],
+          "category": "viewpoint",
+          "arrive_at": "14:33",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht auf die Berge, auch wenn Sie nicht den ganzen Weg fahren.",
+            "hu": "Élvezze a hegyekre nyíló kilátást, még ha nem is teszi meg a teljes utat.",
+            "ro": "Bucurați-vă de priveliștea munților, chiar dacă nu parcurgeți tot drumul.",
+            "en": "Enjoy the mountain views, even if you don't go all the way."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Rad und starten Sie bei den sprudelnden Ali-Pascha-Quellen. Am Vormittag rollen Sie ins Zentrum von Gusinje, um die osmanische Geschichte an der Vezir-Moschee und dem Radončića-Turm zu erleben. Ein stärkendes Mittagessen bereitet Sie auf den Nachmittag vor. Sie besuchen das Nationalparkzentrum und unternehmen dann eine malerische Fahrt in Richtung des majestätischen Grebaje-Tals, um die atemberaubende Landschaft auf sich wirken zu lassen.",
+        "hu": "Pattanjon kerékpárra, és induljon a bugyogó Ali Pasa-forrásoktól. Délelőtt begurul Gusinje központjába, hogy megtapasztalja az oszmán történelmet a Vezír-mecsetnél és a Radončić-toronynál. Egy erősítő ebéd felkészíti a délutánra. Meglátogatja a Nemzeti Park központját, majd egy festői tekerésre indul a fenséges Grebaje-völgy felé, hogy magába szívja a lélegzetelállító tájat.",
+        "ro": "Urcați-vă pe bicicletă și porniți de la Izvoarele Ali Pașa. Dimineața, pedalați spre centrul orașului Gusinje pentru a experimenta istoria otomană la Moscheea Vizirului și Turnul Radončića. Un prânz consistent vă pregătește pentru după-amiază. Vizitați centrul parcului național și apoi faceți o plimbare pitorească spre majestuoasa Valea Grebaje pentru a admira peisajul uluitor.",
+        "en": "Hop on your bike and start at the bubbling Ali Pasha's Springs. In the morning, you'll roll into the center of Gusinje to experience Ottoman history at the Vizier's Mosque and Radončić Tower. A hearty lunch prepares you for the afternoon. You'll visit the national park center and then take a scenic ride towards the majestic Grebaje Valley, soaking in the breathtaking landscape."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pita/Burek",
+            "tip": "Ein perfekter, sättigender Snack für unterwegs, gefüllt mit Käse oder Fleisch."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Erfrischen Sie sich nach einer Radtour mit einem kalten Nikšićko."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pite/Burek",
+            "tip": "Tökéletes, laktató úti harapnivaló, sajttal vagy hússal töltve."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Frissüljön fel egy hideg Nikšićko sörrel a kerékpártúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pita/Burek",
+            "tip": "O gustare perfectă și sățioasă pentru drum, umplută cu brânză sau carne."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "Răcoriți-vă după o tură cu bicicleta cu o bere rece Nikšićko."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pita/Burek",
+            "tip": "A perfect, filling snack for the road, filled with cheese or meat."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Refresh yourself after a bike ride with a cold Nikšićko."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ali-Pascha-Quellen",
+            "tip": "Das Geräusch des sprudelnden Wassers ist unglaublich beruhigend.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtspunkt Grebaje",
+            "tip": "Ein Moment der Stille mit Blick auf die Gipfel des Prokletije.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ali Pasa-források",
+            "tip": "A bugyogó víz hangja hihetetlenül megnyugtató.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grebaje-kilátó",
+            "tip": "Egy csendes pillanat a Prokletije csúcsaira nézve.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Izvoarele Ali Pașa",
+            "tip": "Sunetul apei care bolborosește este incredibil de liniștitor.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Punct de belvedere Grebaje",
+            "tip": "Un moment de liniște cu vedere la vârfurile Prokletije.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ali Pasha's Springs",
+            "tip": "The sound of the bubbling water is incredibly calming.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grebaje Viewpoint",
+            "tip": "A moment of silence overlooking the peaks of Prokletije.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kräutertee",
+            "tip": "Kaufen Sie Mischungen aus in den Bergen gesammelten Kräutern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyógytea",
+            "tip": "Vásároljon a hegyekben gyűjtött gyógynövényekből készült keverékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceai de plante",
+            "tip": "Cumpărați amestecuri de ierburi culese din munți."
+          }
+        ],
+        "en": [
+          {
+            "name": "Herbal Tea",
+            "tip": "Buy blends of herbs collected in the mountains."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen zu den Natursehenswürdigkeiten können schmal und steil sein.",
+          "Ein Mountainbike ist für diese Region besser geeignet als ein Rennrad.",
+          "Prüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen.",
+          "Nehmen Sie ausreichend Wasser und energiereiche Snacks mit."
+        ],
+        "hu": [
+          "A természeti látnivalókhoz vezető utak szűkek és meredekek lehetnek.",
+          "Ehhez a régióhoz egy mountain bike jobban megfelel, mint egy országúti kerékpár.",
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket.",
+          "Vigyen magával elegendő vizet és energiadús harapnivalókat."
+        ],
+        "ro": [
+          "Drumurile către atracțiile naturale pot fi înguste și abrupte.",
+          "O bicicletă de munte este mai potrivită pentru această regiune decât o bicicletă de șosea.",
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele.",
+          "Luați suficientă apă și gustări bogate în energie."
+        ],
+        "en": [
+          "The roads to the natural sights can be narrow and steep.",
+          "A mountain bike is more suitable for this region than a road bike.",
+          "Check your bike before leaving, especially the brakes.",
+          "Bring enough water and high-energy snacks."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:28",
+      "total_km": 31.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Grebaje-Tal: Ankunft & Erkundung",
+            "hu": "Grebaje-völgy klaszter: Érkezés és felfedezés",
+            "ro": "Cluster Valea Grebaje: Sosire și explorare",
+            "en": "Grebaje Valley Cluster: Arrival & Exploration"
+          },
+          "coords": [
+            19.782,
+            42.535
+          ],
+          "category": "natural_features",
+          "arrive_at": "09:28",
+          "stay_min": 120,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto und wandern Sie auf den gut markierten Wegen. Die Aussicht ist spektakulär.",
+            "hu": "Parkolja le az autót, és túrázzon a jól jelzett ösvényeken. A kilátás lenyűgöző.",
+            "ro": "Parcați mașina și faceți drumeții pe potecile bine marcate. Priveliștea este spectaculoasă.",
+            "en": "Park your car and hike the well-marked trails. The views are spectacular."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Wasserfälle: Grlja-Wasserfall",
+            "hu": "Vízesések klaszter: Grlja-vízesés",
+            "ro": "Cluster Cascade: Cascada Grlja",
+            "en": "Waterfalls Cluster: Grlja Waterfall"
+          },
+          "coords": [
+            19.835,
+            42.525
+          ],
+          "category": "natural_features",
+          "arrive_at": "11:44",
+          "stay_min": 45,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 7,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein kraftvoller Wasserfall, besonders im Frühling nach der Schneeschmelze.",
+            "hu": "Erőteljes vízesés, különösen tavasszal a hóolvadás után.",
+            "ro": "O cascadă puternică, mai ales primăvara după topirea zăpezii.",
+            "en": "A powerful waterfall, especially in spring after the snow melts."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Wasserfälle: Oko Skakavice (Blaues Auge)",
+            "hu": "Vízesések klaszter: Oko Skakavice (Kék Szem)",
+            "ro": "Cluster Cascade: Oko Skakavice (Ochiul Albastru)",
+            "en": "Waterfalls Cluster: Oko Skakavice (Blue Eye)"
+          },
+          "coords": [
+            19.837,
+            42.523
+          ],
+          "category": "natural_features",
+          "arrive_at": "12:32",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eine eiskalte Karstquelle mit unglaublich klarem, blauem Wasser.",
+            "hu": "Jéghideg karsztforrás hihetetlenül tiszta, kék vízzel.",
+            "ro": "Un izvor carstic rece ca gheața, cu o apă incredibil de limpede și albastră.",
+            "en": "An ice-cold karst spring with incredibly clear, blue water."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Stadtzentrum: Mittagessen & Spaziergang",
+            "hu": "Belváros klaszter: Ebéd és séta",
+            "ro": "Cluster Centru: Prânz și plimbare",
+            "en": "Town Center Cluster: Lunch & Walk"
+          },
+          "coords": [
+            19.829,
+            42.561
+          ],
+          "category": "gastro",
+          "arrive_at": "13:17",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Zentrum und genießen Sie ein spätes Mittagessen.",
+            "hu": "Parkoljon a központban, és élvezzen egy késői ebédet.",
+            "ro": "Parcați în centru și bucurați-vă de un prânz târziu.",
+            "en": "Park in the center and enjoy a late lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Stadtzentrum: Vezir-Moschee & Radončića-Turm",
+            "hu": "Belváros klaszter: Vezír-mecset & Radončić-torony",
+            "ro": "Cluster Centru: Moscheea Vizirului & Turnul Radončića",
+            "en": "Town Center Cluster: Vizier's Mosque & Radončić Tower"
+          },
+          "coords": [
+            19.8285,
+            42.5605
+          ],
+          "category": "historical",
+          "arrive_at": "14:49",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Erbe der Stadt zu Fuß vom Restaurant aus.",
+            "hu": "Fedezze fel a város történelmi örökségét gyalog az étteremtől.",
+            "ro": "Explorați moștenirea istorică a orașului pe jos de la restaurant.",
+            "en": "Explore the town's historical heritage on foot from the restaurant."
+          }
+        },
+        {
+          "name": {
+            "de": "Ali-Pascha-Quellen bei Sonnenuntergang",
+            "hu": "Ali Pasa-források naplementekor",
+            "ro": "Izvoarele Ali Pașa la apus",
+            "en": "Ali Pasha's Springs at Sunset"
+          },
+          "coords": [
+            19.839,
+            42.555
+          ],
+          "category": "sunset",
+          "arrive_at": "16:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 10,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Das weiche Abendlicht macht diesen Ort noch magischer.",
+            "hu": "A lágy esti fény még varázslatosabbá teszi ezt a helyet.",
+            "ro": "Lumina blândă a serii face acest loc și mai magic.",
+            "en": "The soft evening light makes this place even more magical."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt mit der majestätischen Natur im Grebaje-Tal. Nach einer ausgiebigen Wanderung fahren Sie zum nächsten Cluster: den beeindruckenden Wasserfällen Grlja und dem eiskalten Blauen Auge. Am frühen Nachmittag parken Sie im Zentrum von Gusinje für ein spätes Mittagessen und einen Spaziergang zu den historischen Stätten. Den Tag beenden Sie mit einem magischen Moment bei den Ali-Pascha-Quellen, deren Wasser im Licht der untergehenden Sonne glitzert.",
+        "hu": "Autós napja a Grebaje-völgy fenséges természetével kezdődik. Egy kiadós túra után a következő klaszterhez hajt: a lenyűgöző Grlja-vízeséshez és a jéghideg Kék Szemhez. Kora délután Gusinje központjában parkol egy késői ebédre és egy sétára a történelmi helyszínekhez. A napot egy varázslatos pillanattal zárja az Ali Pasa-forrásoknál, melynek vize a lemenő nap fényében csillog.",
+        "ro": "Ziua cu mașina începe cu natura maiestuoasă din Valea Grebaje. După o drumeție lungă, conduceți spre următorul cluster: cascadele impresionante Grlja și Ochiul Albastru rece ca gheața. La începutul după-amiezii, parcați în centrul orașului Gusinje pentru un prânz târziu și o plimbare la siturile istorice. Încheiați ziua cu un moment magic la Izvoarele Ali Pașa, a căror apă strălucește în lumina soarelui apunând.",
+        "en": "Your car day begins with the majestic nature in Grebaje Valley. After a long hike, you drive to the next cluster: the impressive Grlja Waterfall and the ice-cold Blue Eye. In the early afternoon, you park in the center of Gusinje for a late lunch and a walk to the historic sites. You end the day with a magical moment at Ali Pasha's Springs, its water glistening in the light of the setting sun."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cicvara",
+            "tip": "Ein weiteres reichhaltiges Gericht mit jungem Kuhkäse und Kajmak, perfekt nach einer Wanderung."
+          },
+          {
+            "name": "Forelle (Pastrmka)",
+            "tip": "Frisch aus den Bergflüssen, oft einfach gegrillt mit Knoblauch und Petersilie."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cicvara",
+            "tip": "Egy másik gazdag étel fiatal tehénsajttal és kajmakkal, tökéletes egy túra után."
+          },
+          {
+            "name": "Pisztráng (Pastrmka)",
+            "tip": "Frissen a hegyi folyókból, gyakran egyszerűen grillezve fokhagymával és petrezselyemmel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cicvara",
+            "tip": "Un alt fel de mâncare bogat cu brânză proaspătă de vaci și kajmak, perfect după o drumeție."
+          },
+          {
+            "name": "Păstrăv (Pastrmka)",
+            "tip": "Proaspăt din râurile de munte, adesea la grătar simplu cu usturoi și pătrunjel."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cicvara",
+            "tip": "Another rich dish with young cow's cheese and kajmak, perfect after a hike."
+          },
+          {
+            "name": "Trout (Pastrmka)",
+            "tip": "Fresh from the mountain rivers, often simply grilled with garlic and parsley."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Grebaje-Tal",
+            "tip": "Die Stille in diesem Tal, umgeben von Felsriesen, ist unvergesslich.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Oko Skakavice",
+            "tip": "Beobachten Sie das ruhige, pulsierende Wasser der Quelle.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grebaje-völgy",
+            "tip": "A csend ebben a sziklaóriásokkal körülvett völgyben felejthetetlen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Oko Skakavice",
+            "tip": "Figyelje a forrás nyugodt, lüktető vizét.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Valea Grebaje",
+            "tip": "Liniștea din această vale, înconjurată de giganți de stâncă, este de neuitat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Oko Skakavice",
+            "tip": "Priviți apa calmă și vibrantă a izvorului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Grebaje Valley",
+            "tip": "The silence in this valley, surrounded by rock giants, is unforgettable.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Oko Skakavice",
+            "tip": "Watch the calm, pulsating water of the spring.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rakija",
+            "tip": "Ein lokaler Obstbrand, oft hausgemacht. Kaufen Sie ihn von einem vertrauenswürdigen Verkäufer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rakija",
+            "tip": "Helyi gyümölcspárlat, gyakran házi készítésű. Vásárolja megbízható eladótól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rakija",
+            "tip": "O țuică locală din fructe, adesea făcută în casă. Cumpărați de la un vânzător de încredere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rakija",
+            "tip": "A local fruit brandy, often homemade. Buy from a trusted seller."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen zu den Tälern sind eng, fahren Sie vorsichtig.",
+          "Tanken Sie, bevor Sie Gusinje verlassen, da Tankstellen selten sind.",
+          "Achten Sie auf Nutztiere auf der Straße.",
+          "Ein Auto ist unerlässlich, um die abgelegenen Naturschönheiten zu erreichen."
+        ],
+        "hu": [
+          "A völgyekbe vezető utak szűkek, vezessen óvatosan.",
+          "Tankoljon, mielőtt elhagyja Gusinjét, mivel a benzinkutak ritkák.",
+          "Vigyázzon a haszonállatokra az úton.",
+          "Az autó elengedhetetlen a távoli természeti szépségek eléréséhez."
+        ],
+        "ro": [
+          "Drumurile spre văi sunt înguste, conduceți cu prudență.",
+          "Alimentați înainte de a părăsi Gusinje, deoarece benzinăriile sunt rare.",
+          "Fiți atenți la animalele domestice de pe drum.",
+          "O mașină este esențială pentru a ajunge la frumusețile naturale îndepărtate."
+        ],
+        "en": [
+          "The roads to the valleys are narrow, drive carefully.",
+          "Fill up your tank before leaving Gusinje, as gas stations are scarce.",
+          "Watch out for farm animals on the road.",
+          "A car is essential to reach the remote natural beauties."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 20.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrt zu den Ali-Pascha-Quellen",
+            "hu": "Utazás az Ali Pasa-forrásokhoz",
+            "ro": "Călătorie la Izvoarele Ali Pașa",
+            "en": "Trip to Ali Pasha's Springs"
+          },
+          "coords": [
+            19.839,
+            42.555
+          ],
+          "category": "natural_features",
+          "arrive_at": "09:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie ein lokales Taxi oder einen Minibus, es ist eine kurze Fahrt.",
+            "hu": "Vegyen igénybe helyi taxit vagy minibuszt, ez egy rövid út.",
+            "ro": "Luați un taxi local sau un microbuz, este o călătorie scurtă.",
+            "en": "Take a local taxi or minibus, it's a short ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Stadtzentrum: Ankunft & Erkundung",
+            "hu": "Belváros klaszter: Érkezés és felfedezés",
+            "ro": "Cluster Centru: Sosire și explorare",
+            "en": "Town Center Cluster: Arrival & Exploration"
+          },
+          "coords": [
+            19.829,
+            42.561
+          ],
+          "category": "historical",
+          "arrive_at": "10:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Lassen Sie sich im Zentrum absetzen und erkunden Sie die Moschee, den Turm und die Kirche zu Fuß.",
+            "hu": "Tegye le magát a központban, és fedezze fel gyalog a mecsetet, a tornyot és a templomot.",
+            "ro": "Lăsați-vă în centru și explorați moscheea, turnul și biserica pe jos.",
+            "en": "Get dropped off in the center and explore the mosque, tower, and church on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Stadtzentrum: Mittagessen",
+            "hu": "Belváros klaszter: Ebéd",
+            "ro": "Cluster Centru: Prânz",
+            "en": "Town Center Cluster: Lunch"
+          },
+          "coords": [
+            19.8295,
+            42.5615
+          ],
+          "category": "gastro",
+          "arrive_at": "12:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Viele Restaurants sind in diesem Bereich leicht zu Fuß erreichbar.",
+            "hu": "Sok étterem könnyen megközelíthető gyalog ezen a területen.",
+            "ro": "Multe restaurante sunt ușor accesibile pe jos în această zonă.",
+            "en": "Many restaurants are within easy walking distance in this area."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Grebaje-Tal",
+            "hu": "Utazás a Grebaje-völgybe",
+            "ro": "Călătorie în Valea Grebaje",
+            "en": "Trip to Grebaje Valley"
+          },
+          "coords": [
+            19.782,
+            42.535
+          ],
+          "category": "natural_features",
+          "arrive_at": "14:24",
+          "stay_min": 120,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 8,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Organisieren Sie ein Taxi für die Hin- und Rückfahrt. Vereinbaren Sie eine Abholzeit.",
+            "hu": "Szervezzen taxit az oda-vissza útra. Egyezzen meg a felvételi időpontról.",
+            "ro": "Aranjați un taxi pentru dus-întors. Stabiliți o oră de preluare.",
+            "en": "Arrange a return taxi trip. Agree on a pickup time."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr nach Gusinje",
+            "hu": "Visszatérés Gusinjébe",
+            "ro": "Întoarcere la Gusinje",
+            "en": "Return to Gusinje"
+          },
+          "coords": [
+            19.829,
+            42.562
+          ],
+          "category": "other",
+          "arrive_at": "16:56",
+          "stay_min": 0,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 7,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kehren Sie für einen entspannten Abend in die Stadt zurück.",
+            "hu": "Térjen vissza a városba egy pihentető estére.",
+            "ro": "Întoarceți-vă în oraș pentru o seară relaxantă.",
+            "en": "Head back into town for a relaxed evening."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt mit einer kurzen Fahrt zu den friedlichen Ali-Pascha-Quellen. Danach fahren Sie ins Zentrum von Gusinje. Hier erkunden Sie das historische Herz der Stadt zu Fuß und genießen ein ausgiebiges Mittagessen. Der Nachmittag ist dem Höhepunkt gewidmet: einer Fahrt ins atemberaubende Grebaje-Tal. Nach einer langen Wanderung kehren Sie am späten Nachmittag nach Gusinje zurück, erfüllt von den Eindrücken der wilden Schönheit Montenegros.",
+        "hu": "Tömegközlekedéssel töltött napja egy rövid utazással kezdődik a békés Ali Pasa-forrásokhoz. Ezután Gusinje központjába utazik. Itt gyalogosan fedezi fel a város történelmi szívét, és elfogyaszt egy kiadós ebédet. A délután a csúcspontnak van szentelve: egy utazás a lélegzetelállító Grebaje-völgybe. Egy hosszú túra után késő délután tér vissza Gusinjébe, tele Montenegró vad szépségének benyomásaival.",
+        "ro": "Ziua dvs. cu transportul public începe cu o scurtă călătorie la Izvoarele pașnice Ali Pașa. Apoi călătoriți în centrul orașului Gusinje. Aici explorați pe jos inima istorică a orașului și savurați un prânz consistent. După-amiaza este dedicată punctului culminant: o călătorie în uluitoarea Vale Grebaje. După o drumeție lungă, vă întoarceți la Gusinje după-amiaza târziu, plini de impresiile frumuseții sălbatice a Muntenegrului.",
+        "en": "Your day on public transport begins with a short trip to the peaceful Ali Pasha's Springs. You then travel to the center of Gusinje. Here, you'll explore the historical heart of the town on foot and enjoy a hearty lunch. The afternoon is dedicated to the highlight: a trip to the breathtaking Grebaje Valley. After a long hike, you return to Gusinje in the late afternoon, filled with the impressions of Montenegro's wild beauty."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Jagnjetina ispod sača",
+            "tip": "Lamm, das unter einer Metallglocke mit heißen Kohlen langsam gegart wird. Unglaublich zart."
+          },
+          {
+            "name": "Lokaler Käse",
+            "tip": "Probieren Sie den Pljevaljski-Käse, wenn Sie ihn finden können."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jagnjetina ispod sača",
+            "tip": "Bárány, amelyet fém harang alatt, forró szénen lassan sütnek. Hihetetlenül puha."
+          },
+          {
+            "name": "Helyi sajt",
+            "tip": "Kóstolja meg a Pljevaljski sajtot, ha talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jagnjetina ispod sača",
+            "tip": "Miel gătit lent sub un capac metalic cu cărbuni încinși. Incredibil de fraged."
+          },
+          {
+            "name": "Brânză locală",
+            "tip": "Încercați brânza Pljevaljski dacă o găsiți."
+          }
+        ],
+        "en": [
+          {
+            "name": "Jagnjetina ispod sača",
+            "tip": "Lamb slow-cooked under a metal dome with hot coals. Incredibly tender."
+          },
+          {
+            "name": "Local Cheese",
+            "tip": "Try the Pljevaljski cheese if you can find it."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Bank im Grebaje-Tal",
+            "tip": "Setzen Sie sich und lassen Sie die majestätische Bergkulisse auf sich wirken.",
+            "emoji": "🏔️"
+          },
+          {
+            "name": "St.-Antonius-Kirche",
+            "tip": "Ein ruhiger, spiritueller Ort im Herzen der Stadt.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy pad a Grebaje-völgyben",
+            "tip": "Üljön le és hagyja, hogy a fenséges hegyi táj hasson Önre.",
+            "emoji": "🏔️"
+          },
+          {
+            "name": "Szent Antal-templom",
+            "tip": "Csendes, spirituális hely a város szívében.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă în Valea Grebaje",
+            "tip": "Așezați-vă și admirați peisajul montan maiestuos.",
+            "emoji": "🏔️"
+          },
+          {
+            "name": "Biserica Sfântul Anton",
+            "tip": "Un loc liniștit, spiritual, în inima orașului.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench in Grebaje Valley",
+            "tip": "Sit down and let the majestic mountain scenery sink in.",
+            "emoji": "🏔️"
+          },
+          {
+            "name": "St. Anthony's Church",
+            "tip": "A quiet, spiritual place in the heart of the town.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Getrocknete Pilze",
+            "tip": "Die Wälder sind reich an Steinpilzen (Vrganj), die getrocknet ein tolles Souvenir sind."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szárított gomba",
+            "tip": "Az erdők gazdagok vargányában (Vrganj), amely szárítva remek szuvenír."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciuperci uscate",
+            "tip": "Pădurile sunt bogate în hribi (Vrganj), care sunt un suvenir excelent uscat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dried Mushrooms",
+            "tip": "The forests are rich in porcini mushrooms (Vrganj), which make a great souvenir when dried."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der öffentliche Verkehr ist begrenzt; Taxis sind eine gängige Alternative.",
+          "Verhandeln Sie den Preis mit dem Taxifahrer, bevor Sie losfahren, insbesondere für längere Fahrten.",
+          "Fragen Sie in Ihrer Unterkunft nach Kontakten zu zuverlässigen Fahrern.",
+          "Planen Sie Pufferzeiten ein, da der Transport nicht immer pünktlich ist."
+        ],
+        "hu": [
+          "A tömegközlekedés korlátozott; a taxik gyakori alternatívát jelentenek.",
+          "Indulás előtt alkudja meg az árat a taxisofőrrel, különösen hosszabb utakra.",
+          "Érdeklődjön a szálláshelyén megbízható sofőrök elérhetőségeiről.",
+          "Tervezzen pufferidőket, mivel a közlekedés nem mindig pontos."
+        ],
+        "ro": [
+          "Transportul public este limitat; taxiurile sunt o alternativă comună.",
+          "Negociați prețul cu șoferul de taxi înainte de a pleca, mai ales pentru călătorii mai lungi.",
+          "Întrebați la cazare despre contactele șoferilor de încredere.",
+          "Planificați timpi de rezervă, deoarece transportul nu este întotdeauna punctual."
+        ],
+        "en": [
+          "Public transport is limited; taxis are a common alternative.",
+          "Negotiate the price with the taxi driver before you go, especially for longer trips.",
+          "Ask your accommodation for contacts of reliable drivers.",
+          "Plan for buffer times as transport may not always be on schedule."
+        ]
+      }
+    }
+  }
+}

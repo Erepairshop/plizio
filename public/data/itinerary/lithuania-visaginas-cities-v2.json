@@ -1,0 +1,1187 @@
+{
+  "city_id": "lithuania-visaginas-cities-v2",
+  "anchor": {
+    "name": "Visaginas",
+    "coords": [
+      55.6,
+      26.4333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Denkmal für die Gründer",
+            "hu": "Az Alapítók Emlékműve",
+            "ro": "Monumentul Fondatorilor",
+            "en": "Monument to the Founders"
+          },
+          "coords": [
+            55.5971,
+            26.4355
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein guter Ausgangspunkt, um die einzigartige Geschichte der Stadt zu verstehen.",
+            "hu": "Jó kiindulópont a város egyedi történetének megértéséhez.",
+            "ro": "Un punct de plecare bun pentru a înțelege istoria unică a orașului.",
+            "en": "A great starting point to understand the city's unique history."
+          }
+        },
+        {
+          "name": {
+            "de": "Geplante Stadtarchitektur",
+            "hu": "Tervezett Városi Építészet",
+            "ro": "Arhitectura urbană planificată",
+            "en": "Planned City Architecture"
+          },
+          "coords": [
+            55.5995,
+            26.4381
+          ],
+          "category": "historical",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Achten Sie auf die für die Sowjetzeit typischen Muster und Anordnungen der Wohnblöcke.",
+            "hu": "Figyelje meg a szovjet időszakra jellemző lakótelepi mintákat és elrendezéseket.",
+            "ro": "Observați modelele și aranjamentele blocurilor de locuințe, tipice erei sovietice.",
+            "en": "Look for the patterns and layouts of the apartment blocks, typical of the Soviet era."
+          }
+        },
+        {
+          "name": {
+            "de": "Visaginas-Kulturzentrum",
+            "hu": "Visaginas Kulturális Központ",
+            "ro": "Centrul Cultural Visaginas",
+            "en": "Visaginas Cultural Centre"
+          },
+          "coords": [
+            55.6012,
+            26.4402
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:52",
+          "stay_min": 50,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Prüfen Sie den lokalen Veranstaltungskalender; hier finden oft Konzerte oder Ausstellungen statt.",
+            "hu": "Nézze meg a helyi eseménynaptárt; gyakran tartanak itt koncerteket vagy kiállításokat.",
+            "ro": "Verificați calendarul evenimentelor locale; adesea găzduiește concerte sau expoziții.",
+            "en": "Check the local event calendar; it often hosts concerts or exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Allerheiligenkirche",
+            "hu": "Mindenszentek-templom",
+            "ro": "Biserica Tuturor Sfinților",
+            "en": "Church of All Saints"
+          },
+          "coords": [
+            55.5943,
+            26.4251
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Ein modernes religiöses Bauwerk, das einen Kontrast zur sowjetischen Architektur der Stadt bildet.",
+            "hu": "Modern vallási épület, amely kontrasztot alkot a város szovjet építészetével.",
+            "ro": "O structură religioasă modernă care contrastează cu arhitectura sovietică a orașului.",
+            "en": "A modern religious structure contrasting with the city's Soviet architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Kranich-Statue",
+            "hu": "Daru-szobor",
+            "ro": "Statuia Cocorului",
+            "en": "Crane Statue"
+          },
+          "coords": [
+            55.6025,
+            26.4211
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:52",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Ein Symbol des Friedens und der Natur, oft als Treffpunkt genutzt.",
+            "hu": "A béke és a természet szimbóluma, gyakran használják találkozási pontként.",
+            "ro": "Un simbol al păcii și al naturii, adesea folosit ca punct de întâlnire.",
+            "en": "A symbol of peace and nature, often used as a meeting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Visaginas-See",
+            "hu": "Visaginas-tó",
+            "ro": "Lacul Visaginas",
+            "en": "Lake Visaginas"
+          },
+          "coords": [
+            55.606,
+            26.415
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:22",
+          "stay_min": 203,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Perfekt für ein Mittagessen am Ufer und einen entspannten Nachmittag.",
+            "hu": "Tökéletes egy tóparti ebédhez és egy pihentető délutánhoz.",
+            "ro": "Perfect pentru un prânz pe malul apei și o după-amiază relaxantă.",
+            "en": "Perfect for a waterside lunch and a relaxing afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Visaginas beginnt mit einem Spaziergang durch das Herz der geplanten Stadt, bei dem Sie die Monumente und die einzigartige sowjetische Architektur erkunden. Am Vormittag besuchen Sie das Kulturzentrum und die moderne Kirche, die einen interessanten Kontrast bilden. Der Mittag ist ganz dem Visaginas-See gewidmet, dem größten künstlichen See Litauens. Hier können Sie am Sandstrand entspannen, spazieren gehen und die ruhige Atmosphäre genießen. Der Nachmittag bietet Zeit für weitere Erkundungen am See oder einen Kaffee in einem der nahegelegenen Cafés, bevor Ihr Spaziergang durch die jüngste Stadt Litauens zu Ende geht.",
+        "hu": "A nap Visaginasban egy sétával kezdődik a tervezett város szívében, felfedezve az emlékműveket és az egyedi szovjet építészetet. Délelőtt ellátogat a kulturális központba és a modern templomba, amelyek érdekes kontrasztot alkotnak. Az ebédidőt a Visaginas-tónál tölti, Litvánia legnagyobb mesterséges tavánál. Itt pihenhet a homokos parton, sétálhat és élvezheti a nyugodt légkört. A délután további felfedezésekre ad lehetőséget a tó körül, vagy egy kávéra a közeli kávézók egyikében, mielőtt véget ér a séta Litvánia legfiatalabb városában.",
+        "ro": "Ziua dvs. în Visaginas începe cu o plimbare prin inima orașului planificat, explorând monumentele și arhitectura sovietică unică. Dimineața, veți vizita centrul cultural și biserica modernă, care oferă un contrast interesant. Prânzul este dedicat Lacului Visaginas, cel mai mare lac artificial din Lituania. Aici vă puteți relaxa pe plaja cu nisip, vă puteți plimba și vă puteți bucura de atmosfera liniștită. După-amiaza oferă timp pentru explorări suplimentare în jurul lacului sau o cafea la una dintre cafenelele din apropiere înainte ca plimbarea prin cel mai tânăr oraș din Lituania să se încheie.",
+        "en": "Your day in Visaginas begins with a walk through the heart of the planned city, exploring its monuments and unique Soviet architecture. In the morning, you'll visit the cultural centre and the modern church, which provide an interesting contrast. Lunchtime is dedicated to Lake Visaginas, Lithuania's largest artificial lake. Here you can relax on the sandy beach, take a walk, and enjoy the tranquil atmosphere. The afternoon allows for more exploration around the lake or a coffee in a nearby café before your walk through Lithuania's youngest city concludes."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cepelinai (Zeppeline)",
+            "tip": "Probieren Sie das litauische Nationalgericht in einem lokalen Restaurant wie 'Geras Skonis'."
+          },
+          {
+            "name": "Šaltibarščiai (Kalte Rote-Bete-Suppe)",
+            "tip": "Eine erfrischende Wahl für einen warmen Tag, oft mit gekochten Kartoffeln serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cepelinai (Zeppelinek)",
+            "tip": "Kóstolja meg a litván nemzeti ételt egy helyi étteremben, mint például a 'Geras Skonis'."
+          },
+          {
+            "name": "Šaltibarščiai (Hideg céklaleves)",
+            "tip": "Frissítő választás egy meleg napra, gyakran főtt burgonyával tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cepelinai (Zeppeline)",
+            "tip": "Încercați mâncarea națională lituaniană la un restaurant local precum 'Geras Skonis'."
+          },
+          {
+            "name": "Šaltibarščiai (Supă rece de sfeclă roșie)",
+            "tip": "O alegere răcoritoare pentru o zi caldă, adesea servită cu cartofi fierți."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cepelinai (Zeppelins)",
+            "tip": "Try the Lithuanian national dish at a local restaurant like 'Geras Skonis'."
+          },
+          {
+            "name": "Šaltibarščiai (Cold Beetroot Soup)",
+            "tip": "A refreshing choice for a warm day, often served with boiled potatoes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Visaginas-Sees",
+            "tip": "Finden Sie eine ruhige Bank entlang der Promenade und beobachten Sie das Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pinienwälder rund um die Stadt",
+            "tip": "Ein kurzer Spaziergang in die umliegenden Wälder bietet sofortige Ruhe.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Visaginas-tó partja",
+            "tip": "Keressen egy csendes padot a sétány mentén, és nézze a vizet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fenyőerdők a város körül",
+            "tip": "Egy rövid séta a környező erdőkbe azonnali nyugalmat kínál.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Lacului Visaginas",
+            "tip": "Găsiți o bancă liniștită de-a lungul promenadei și priviți apa.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pădurile de pini din jurul orașului",
+            "tip": "O scurtă plimbare în pădurile înconjurătoare oferă liniște instantanee.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shore of Lake Visaginas",
+            "tip": "Find a quiet bench along the promenade and watch the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pine forests around the city",
+            "tip": "A short walk into the surrounding forests offers instant tranquility.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Produkten wie geräuchertem Fisch oder Beeren der Saison."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen helyi termékeket, például füstölt halat vagy szezonális bogyókat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse locale, cum ar fi pește afumat sau fructe de pădure de sezon."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for local products like smoked fish or seasonal berries."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie die meiste Zeit des Tages laufen werden.",
+          "Eine wiederverwendbare Wasserflasche ist eine gute Idee, besonders für die Zeit am See."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a nap nagy részében sétálni fog.",
+          "Egy újrafelhasználható vizes palack jó ötlet, különösen a tónál töltött időre."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge pe jos în cea mai mare parte a zilei.",
+          "O sticlă de apă reutilizabilă este o idee bună, mai ales pentru timpul petrecut la lac."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be walking for most of the day.",
+          "A reusable water bottle is a good idea, especially for your time at the lake."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 19.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Visaginas-Kulturzentrum",
+            "hu": "Visaginas Kulturális Központ",
+            "ro": "Centrul Cultural Visaginas",
+            "en": "Visaginas Cultural Centre"
+          },
+          "coords": [
+            55.6012,
+            26.4402
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie hier, um einen Einblick in das gesellschaftliche Leben der Stadt zu bekommen.",
+            "hu": "Kezdje itt, hogy bepillantást nyerjen a város társadalmi életébe.",
+            "ro": "Începeți de aici pentru a obține o perspectivă asupra vieții sociale a orașului.",
+            "en": "Start here to get a glimpse into the social life of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für die Gründer & Geplante Architektur",
+            "hu": "Alapítók Emlékműve & Tervezett Építészet",
+            "ro": "Monumentul Fondatorilor & Arhitectura Planificată",
+            "en": "Founders' Monument & Planned Architecture"
+          },
+          "coords": [
+            55.5971,
+            26.4355
+          ],
+          "category": "historical",
+          "arrive_at": "09:56",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Fahren Sie langsam durch die Wohngebiete, um die Symmetrie und das Design zu schätzen.",
+            "hu": "Lassan haladjon át a lakónegyedeken, hogy értékelje a szimmetriát és a dizájnt.",
+            "ro": "Mergeți cu bicicleta încet prin zonele rezidențiale pentru a aprecia simetria și designul.",
+            "en": "Cycle slowly through the residential areas to appreciate the symmetry and design."
+          }
+        },
+        {
+          "name": {
+            "de": "Allerheiligenkirche",
+            "hu": "Mindenszentek-templom",
+            "ro": "Biserica Tuturor Sfinților",
+            "en": "Church of All Saints"
+          },
+          "coords": [
+            55.5943,
+            26.4251
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Halt, um die moderne religiöse Architektur zu bewundern.",
+            "hu": "Rövid megálló a modern vallási építészet megcsodálására.",
+            "ro": "O scurtă oprire pentru a admira arhitectura religioasă modernă.",
+            "en": "A brief stop to admire the modern religious architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Visaginas-See-Promenade",
+            "hu": "Visaginas-tó Sétány",
+            "ro": "Promenada Lacului Visaginas",
+            "en": "Lake Visaginas Promenade"
+          },
+          "coords": [
+            55.606,
+            26.415
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:32",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Fahren Sie am Ufer entlang. Es gibt viele Plätze zum Anhalten und Genießen der Aussicht.",
+            "hu": "Kerékpározzon a part mentén. Sok hely van megállni és élvezni a kilátást.",
+            "ro": "Mergeți cu bicicleta de-a lungul malului. Există o mulțime de locuri pentru a opri și a vă bucura de priveliște.",
+            "en": "Cycle along the shore. There are plenty of spots to stop and enjoy the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am See",
+            "hu": "Ebéd a tónál",
+            "ro": "Prânz la lac",
+            "en": "Lunch at the Lake"
+          },
+          "coords": [
+            55.608,
+            26.41
+          ],
+          "category": "gastro",
+          "arrive_at": "13:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Suchen Sie sich ein Café mit Terrasse für eine Mahlzeit im Freien.",
+            "hu": "Keressen egy teraszos kávézót egy szabadtéri étkezéshez.",
+            "ro": "Găsiți o cafenea cu terasă pentru o masă în aer liber.",
+            "en": "Find a café with a terrace for an outdoor meal."
+          }
+        },
+        {
+          "name": {
+            "de": "Landschaftsschutzgebiet Smalvas",
+            "hu": "Smalvas Tájvédelmi Terület",
+            "ro": "Rezervația peisagistică Smalvas",
+            "en": "Smalvas Landscape Reserve"
+          },
+          "coords": [
+            55.63,
+            26.38
+          ],
+          "category": "natural features",
+          "arrive_at": "14:52",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und machen Sie einen Spaziergang auf den markierten Wegen.",
+            "hu": "Zárja le a kerékpárját, és tegyen egy sétát a kijelölt ösvényeken.",
+            "ro": "Încuiați-vă bicicleta și faceți o plimbare pe traseele marcate.",
+            "en": "Lock up your bike and take a walk on the marked trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Stadtzentrum",
+            "hu": "Visszatérés a városközpontba",
+            "ro": "Întoarcere în centrul orașului",
+            "en": "Return to City Centre"
+          },
+          "coords": [
+            55.6012,
+            26.4402
+          ],
+          "category": "historical",
+          "arrive_at": "17:52",
+          "stay_min": 30,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 10,
+          "tip_5lang": {
+            "de": "Genießen Sie die Abendstimmung auf der Rückfahrt in die Stadt.",
+            "hu": "Élvezze az esti hangulatot a városba való visszatérés során.",
+            "ro": "Bucurați-vă de atmosfera de seară la întoarcerea în oraș.",
+            "en": "Enjoy the evening atmosphere as you cycle back to the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour durch Visaginas führt Sie vom Kulturzentrum durch die sowjetisch geprägten Wohnviertel zur modernen Kirche. Am Vormittag radeln Sie entlang der Promenade des Visaginas-Sees, genießen die Aussicht und legen eine Mittagspause ein. Der Nachmittag ist einem längeren Ausflug in das nahegelegene Landschaftsschutzgebiet Smalvas gewidmet, ein Naturparadies. Die Tour endet mit einer entspannten Rückfahrt ins Zentrum, während die Sonne untergeht.",
+        "hu": "A visaginasi kerékpártúra a kulturális központtól a szovjet stílusú lakónegyedeken át a modern templomig vezet. Délelőtt a Visaginas-tó sétányán kerékpározik, élvezi a kilátást és ebédszünetet tart. A délután egy hosszabb kirándulásé a közeli Smalvas Tájvédelmi Területre, egy természeti paradicsomba. A túra egy pihentető visszautazással zárul a központba, miközben a nap lenyugszik.",
+        "ro": "Turul cu bicicleta prin Visaginas vă poartă de la centrul cultural prin cartierele rezidențiale în stil sovietic până la biserica modernă. Dimineața, pedalați de-a lungul promenadei Lacului Visaginas, bucurându-vă de priveliște și făcând o pauză de prânz. După-amiaza este dedicată unei excursii mai lungi la Rezervația peisagistică Smalvas din apropiere, un paradis natural. Turul se încheie cu o plimbare relaxantă înapoi în centru, în timp ce soarele apune.",
+        "en": "Your bike tour of Visaginas takes you from the cultural centre through the Soviet-style residential areas to the modern church. In the morning, you'll cycle along the Lake Visaginas promenade, enjoying the views and taking a lunch break. The afternoon is dedicated to a longer trip to the nearby Smalvas Landscape Reserve, a natural paradise. The tour concludes with a relaxing ride back to the centre as the sun sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kibinai",
+            "tip": "Ein herzhafter Gebäck-Snack, perfekt für eine Pause während der Radtour."
+          },
+          {
+            "name": "Gira (Kwas)",
+            "tip": "Ein traditionelles fermentiertes Getränk, um den Durst zu löschen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kibinai",
+            "tip": "Egy kiadós sütemény-snack, tökéletes egy szünetre a kerékpártúra alatt."
+          },
+          {
+            "name": "Gira (Kvasz)",
+            "tip": "Hagyományos erjesztett ital a szomjúság oltására."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kibinai",
+            "tip": "O gustare consistentă de patiserie, perfectă pentru o pauză în timpul turului cu bicicleta."
+          },
+          {
+            "name": "Gira (Cvas)",
+            "tip": "O băutură tradițională fermentată pentru a vă potoli setea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kibinai",
+            "tip": "A hearty pastry snack, perfect for a break during the bike tour."
+          },
+          {
+            "name": "Gira (Kvass)",
+            "tip": "A traditional fermented drink to quench your thirst."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Smalvas Reservat",
+            "tip": "Die Stille der unberührten Natur ist der perfekte Ort zum Abschalten.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Versteckte Strände am See",
+            "tip": "Suchen Sie nach kleineren, weniger überlaufenen Stellen am Ufer.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smalvas Rezervátum",
+            "tip": "Az érintetlen természet csendje tökéletes hely a kikapcsolódásra.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Rejtett strandok a tónál",
+            "tip": "Keressen kisebb, kevésbé zsúfolt helyeket a parton.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rezervația Smalvas",
+            "tip": "Liniștea naturii neatinse este locul perfect pentru a vă deconecta.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Plaje ascunse pe lac",
+            "tip": "Căutați locuri mai mici și mai puțin aglomerate de-a lungul malului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Smalvas Reserve",
+            "tip": "The silence of the untouched nature is the perfect place to disconnect.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Hidden beaches on the lake",
+            "tip": "Look for smaller, less crowded spots along the shore.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Kaufen Sie vielleicht ein lokales Radsport-Trikot oder Zubehör."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Vásároljon esetleg egy helyi kerékpáros mezt vagy kiegészítőt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Poate cumpărați un tricou de ciclism local sau accesorii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "Perhaps buy a local cycling jersey or accessory."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck vor der Abfahrt.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad an den Haltestellen sicher abzustellen.",
+          "Einige Wege im Smalvas-Reservat sind möglicherweise nicht für dünne Reifen geeignet."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Vigyen magával lakatot, hogy biztonságosan lezárhassa kerékpárját a megállóknál.",
+          "Néhány ösvény a Smalvas Rezervátumban nem biztos, hogy alkalmas vékony gumikhoz."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope înainte de a pleca.",
+          "Luați un lacăt pentru a vă asigura bicicleta la opriri.",
+          "Unele poteci din Rezervația Smalvas s-ar putea să nu fie potrivite pentru anvelope subțiri."
+        ],
+        "en": [
+          "Check your tire pressure before heading out.",
+          "Bring a lock to secure your bike at stops.",
+          "Some trails in the Smalvas Reserve may not be suitable for thin tires."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 32.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kernkraftwerk Ignalina",
+            "hu": "Ignalinai atomerőmű",
+            "ro": "Centrala Nucleară Ignalina",
+            "en": "Ignalina Nuclear Power Plant"
+          },
+          "coords": [
+            55.628,
+            26.559
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:00",
+          "stay_min": 130,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Buchen Sie eine Führung im Voraus! Dies ist ein Muss für Technik- und Geschichtsinteressierte.",
+            "hu": "Foglaljon túrát előre! Ez kötelező a technológia és a történelem iránt érdeklődőknek.",
+            "ro": "Rezervați un tur în avans! Acesta este un obiectiv obligatoriu pentru pasionații de tehnologie și istorie.",
+            "en": "Book a tour in advance! This is a must-see for technology and history enthusiasts."
+          },
+          "hop_mode": "car"
+        },
+        {
+          "name": {
+            "de": "Parkplatz im Stadtzentrum von Visaginas",
+            "hu": "Parkoló Visaginas központjában",
+            "ro": "Parcare în centrul orașului Visaginas",
+            "en": "Visaginas City Centre Car Park"
+          },
+          "coords": [
+            55.598,
+            26.436
+          ],
+          "category": "historical",
+          "arrive_at": "11:40",
+          "stay_min": 10,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 15,
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie den Rest der Stadt zu Fuß.",
+            "hu": "Parkoljon itt, és fedezze fel a város többi részét gyalog.",
+            "ro": "Parcați aici și explorați restul orașului pe jos.",
+            "en": "Park here and explore the rest of the city on foot."
+          },
+          "hop_mode": "car"
+        },
+        {
+          "name": {
+            "de": "Denkmal für die Gründer",
+            "hu": "Az Alapítók Emlékműve",
+            "ro": "Monumentul Fondatorilor",
+            "en": "Monument to the Founders"
+          },
+          "coords": [
+            55.5971,
+            26.4355
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:52",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzes Foto, bevor Sie zum Mittagessen weitergehen.",
+            "hu": "Egy gyors fotó, mielőtt továbbmegy ebédelni.",
+            "ro": "O fotografie rapidă înainte de a merge la prânz.",
+            "en": "A quick photo before heading on for lunch."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Innenstadt",
+            "hu": "Ebéd a belvárosban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city centre"
+          },
+          "coords": [
+            55.599,
+            26.439
+          ],
+          "category": "gastro",
+          "arrive_at": "12:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Wählen Sie ein Restaurant, das traditionelle litauische Küche anbietet.",
+            "hu": "Válasszon egy éttermet, amely hagyományos litván konyhát kínál.",
+            "ro": "Alegeți un restaurant care servește bucătărie tradițională lituaniană.",
+            "en": "Choose a restaurant serving traditional Lithuanian cuisine."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Visaginas-See",
+            "hu": "Visaginas-tó",
+            "ro": "Lacul Visaginas",
+            "en": "Lake Visaginas"
+          },
+          "coords": [
+            55.606,
+            26.415
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:52",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Machen Sie nach dem Mittagessen einen langen Spaziergang am Ufer.",
+            "hu": "Ebéd után tegyen egy hosszú sétát a parton.",
+            "ro": "Faceți o plimbare lungă de-a lungul malului după prânz.",
+            "en": "Take a long walk along the shore after lunch."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Landschaftsschutzgebiet Smalvas",
+            "hu": "Smalvas Tájvédelmi Terület",
+            "ro": "Rezervația peisagistică Smalvas",
+            "en": "Smalvas Landscape Reserve"
+          },
+          "coords": [
+            55.63,
+            26.38
+          ],
+          "category": "natural features",
+          "arrive_at": "16:22",
+          "stay_min": 68,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 15.5,
+          "tip_5lang": {
+            "de": "Ein letzter Halt, um die Natur zu genießen, bevor der Tag zu Ende geht. Perfekt für den Sonnenuntergang.",
+            "hu": "Egy utolsó megálló a természet élvezetére, mielőtt a nap véget ér. Tökéletes a naplementéhez.",
+            "ro": "O ultimă oprire pentru a vă bucura de natură înainte de sfârșitul zilei. Perfect pentru apus.",
+            "en": "A final stop to enjoy nature before the day ends. Perfect for sunset."
+          },
+          "hop_mode": "car"
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit dem Highlight der Region: dem Kernkraftwerk Ignalina, einem faszinierenden Relikt der Sowjetzeit. Nach der morgendlichen Erkundung fahren Sie ins Zentrum von Visaginas. Sie parken Ihr Auto und erkunden den Rest des Tages zu Fuß: vom Gründungsdenkmal über ein gemütliches Mittagessen bis hin zu einem langen Spaziergang am Ufer des Visaginas-Sees. Der Tag endet mit einer kurzen Fahrt zum Landschaftsschutzgebiet Smalvas, wo Sie die Ruhe der litauischen Natur bei Sonnenuntergang genießen.",
+        "hu": "A nap a régió fénypontjával kezdődik: az Ignalinai atomerőművel, a szovjet korszak lenyűgöző emlékével. A délelőtti felfedezés után Visaginas központjába hajt. Leteszi az autót, és a nap hátralévő részét gyalog fedezi fel: az alapító emlékműtől egy kellemes ebédig, majd egy hosszú sétáig a Visaginas-tó partján. A nap egy rövid autózással zárul a Smalvas Tájvédelmi Területre, ahol naplementekor élvezheti a litván természet csendjét.",
+        "ro": "Ziua dvs. începe cu punctul culminant al regiunii: Centrala Nucleară Ignalina, o relicvă fascinantă a erei sovietice. După explorarea de dimineață, conduceți spre centrul orașului Visaginas. Parcați mașina și explorați restul zilei pe jos: de la monumentul fondatorilor la un prânz pe îndelete și o plimbare lungă pe malul lacului Visaginas. Ziua se încheie cu o scurtă călătorie cu mașina până la Rezervația peisagistică Smalvas, unde vă bucurați de liniștea naturii lituaniene la apus.",
+        "en": "Your day starts with the region's highlight: the Ignalina Nuclear Power Plant, a fascinating relic of the Soviet era. After the morning exploration, you'll drive to the centre of Visaginas. You park your car and explore on foot for the rest of the day: from the founders' monument to a leisurely lunch and a long walk along the shore of Lake Visaginas. The day concludes with a short drive to the Smalvas Landscape Reserve to enjoy the tranquility of Lithuanian nature at sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Šašlykai (Schaschlik)",
+            "tip": "Gegrillte Fleischspieße, eine beliebte Wahl in vielen Restaurants."
+          },
+          {
+            "name": "Balandėliai (Kohlrouladen)",
+            "tip": "Herzhaft und sättigend, perfekt nach einem langen Besichtigungstag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saslik",
+            "tip": "Grillezett húsnyárs, népszerű választás sok étteremben."
+          },
+          {
+            "name": "Balandėliai (Töltött káposzta)",
+            "tip": "Kiadós és laktató, tökéletes egy hosszú városnéző nap után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Šašlõkk (Frigărui)",
+            "tip": "Frigărui de carne la grătar, o alegere populară în multe restaurante."
+          },
+          {
+            "name": "Balandėliai (Sarmale)",
+            "tip": "Consistent și sățios, perfect după o zi lungă de vizitare a obiectivelor turistice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Šašlykai (Shashlik)",
+            "tip": "Grilled meat skewers, a popular choice in many restaurants."
+          },
+          {
+            "name": "Balandėliai (Cabbage Rolls)",
+            "tip": "Hearty and filling, perfect after a long day of sightseeing."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenuntergang über dem Smalvas-See",
+            "tip": "Ein atemberaubender Anblick, um den Tag ausklingen zu lassen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Fahrt durch die Wälder",
+            "tip": "Genießen Sie die ruhige Landschaft auf dem Weg zwischen den Orten.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente a Smalvas-tó felett",
+            "tip": "Lélegzetelállító látvány a nap lezárásaként.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Autózás az erdőkön keresztül",
+            "tip": "Élvezze a csendes tájat a helyszínek közötti úton.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apus de soare peste lacul Smalvas",
+            "tip": "O priveliște uluitoare pentru a încheia ziua.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Conducând prin păduri",
+            "tip": "Bucurați-vă de peisajul liniștit pe drumul dintre locații.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunset over Smalvas Lake",
+            "tip": "A breathtaking sight to end the day.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Driving through the forests",
+            "tip": "Enjoy the quiet scenery on the road between locations.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs zum Kernkraftwerk",
+            "tip": "Halten Sie Ausschau nach einzigartigen Erinnerungsstücken an das Kernkraftwerk, wie z.B. T-Shirts oder Postkarten mit Strahlungssymbolen.",
+            "emoji": "☢️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Atomerőműves szuvenírek",
+            "tip": "Keressen egyedi emléktárgyakat az atomerőműről, például pólókat vagy képeslapokat sugárzási szimbólumokkal.",
+            "emoji": "☢️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri de la centrala nucleară",
+            "tip": "Căutați suveniruri unice de la centrala nucleară, cum ar fi tricouri sau cărți poștale cu simboluri de radiații.",
+            "emoji": "☢️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Nuclear Power Plant Souvenirs",
+            "tip": "Look out for unique memorabilia from the NPP, like t-shirts or postcards with radiation symbols.",
+            "emoji": "☢️"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Buchen Sie die Tour zum Kernkraftwerk Ignalina weit im Voraus, da die Plätze begrenzt sind.",
+          "Überprüfen Sie die Parkvorschriften im Stadtzentrum.",
+          "Haben Sie etwas Bargeld für kleinere Einkäufe oder Parkgebühren dabei."
+        ],
+        "hu": [
+          "Foglalja le az Ignalinai atomerőmű-túrát jó előre, mivel a helyek korlátozottak.",
+          "Ellenőrizze a parkolási szabályokat a városközpontban.",
+          "Legyen Önnél készpénz kisebb vásárlásokhoz vagy parkolási díjakhoz."
+        ],
+        "ro": [
+          "Rezervați turul la Centrala Nucleară Ignalina cu mult timp în avans, deoarece locurile sunt limitate.",
+          "Verificați regulile de parcare în centrul orașului.",
+          "Aveți la dumneavoastră numerar pentru achiziții mici sau taxe de parcare."
+        ],
+        "en": [
+          "Book the Ignalina Nuclear Power Plant tour well in advance as spots are limited.",
+          "Check parking regulations in the city centre.",
+          "Have some cash on hand for small purchases or parking fees."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 31.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrt zum Kernkraftwerk Ignalina",
+            "hu": "Utazás az Ignalinai atomerőműhöz",
+            "ro": "Călătorie la Centrala Nucleară Ignalina",
+            "en": "Trip to Ignalina Nuclear Power Plant"
+          },
+          "coords": [
+            55.628,
+            26.559
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:00",
+          "stay_min": 130,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen frühen Bus. Informieren Sie sich vorab über den Fahrplan, da die Verbindungen selten sein können.",
+            "hu": "Menjen egy korai busszal. Előre tájékozódjon a menetrendről, mert a járatok ritkák lehetnek.",
+            "ro": "Luați un autobuz devreme. Verificați orarul în avans, deoarece cursele pot fi rare.",
+            "en": "Take an early bus. Check the schedule in advance as services can be infrequent."
+          },
+          "hop_mode": "transit"
+        },
+        {
+          "name": {
+            "de": "Rückfahrt ins Stadtzentrum von Visaginas",
+            "hu": "Visszaút Visaginas központjába",
+            "ro": "Întoarcere în centrul orașului Visaginas",
+            "en": "Trip back to Visaginas City Centre"
+          },
+          "coords": [
+            55.598,
+            26.436
+          ],
+          "category": "historical",
+          "arrive_at": "12:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 15,
+          "tip_5lang": {
+            "de": "Steigen Sie an einer zentralen Haltestelle aus, um Ihren Rundgang zu beginnen.",
+            "hu": "Szálljon le egy központi megállónál, hogy elkezdje a sétát.",
+            "ro": "Coborâți la o stație centrală pentru a începe turul pietonal.",
+            "en": "Get off at a central stop to begin your walking tour."
+          },
+          "hop_mode": "transit"
+        },
+        {
+          "name": {
+            "de": "Visaginas-Kulturzentrum",
+            "hu": "Visaginas Kulturális Központ",
+            "ro": "Centrul Cultural Visaginas",
+            "en": "Visaginas Cultural Centre"
+          },
+          "coords": [
+            55.6012,
+            26.4402
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Bushaltestelle entfernt.",
+            "hu": "Rövid séta a buszmegállótól.",
+            "ro": "O scurtă plimbare de la stația de autobuz.",
+            "en": "A short walk from the bus stop."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Spaziergang zur Allerheiligenkirche",
+            "hu": "Ebéd és séta a Mindenszentek-templomhoz",
+            "ro": "Prânz și plimbare la Biserica Tuturor Sfinților",
+            "en": "Lunch and walk to Church of All Saints"
+          },
+          "coords": [
+            55.5943,
+            26.4251
+          ],
+          "category": "gastro",
+          "arrive_at": "13:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Genießen Sie Ihr Mittagessen und machen Sie dann einen Verdauungsspaziergang zur Kirche.",
+            "hu": "Élvezze az ebédet, majd tegyen egy emésztő sétát a templomhoz.",
+            "ro": "Bucurați-vă de prânz, apoi faceți o plimbare digestivă până la biserică.",
+            "en": "Enjoy your lunch then take a digestive walk to the church."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Visaginas-See",
+            "hu": "Visaginas-tó",
+            "ro": "Lacul Visaginas",
+            "en": "Lake Visaginas"
+          },
+          "coords": [
+            55.606,
+            26.415
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:08",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Verbringen Sie den Rest des Nachmittags damit, am Strand zu entspannen.",
+            "hu": "Töltse a délután hátralévő részét a strandon pihenve.",
+            "ro": "Petreceți restul după-amiezii relaxându-vă pe plajă.",
+            "en": "Spend the rest of the afternoon relaxing on the beach."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Rückfahrt zur Unterkunft",
+            "hu": "Visszaút a szállásra",
+            "ro": "Întoarcere la cazare",
+            "en": "Return to accommodation"
+          },
+          "coords": [
+            55.6,
+            26.4333
+          ],
+          "category": "historical",
+          "arrive_at": "17:23",
+          "stay_min": 37,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 13.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus zurück zu Ihrem Ausgangspunkt.",
+            "hu": "Menjen egy helyi busszal vissza a kiindulási ponthoz.",
+            "ro": "Luați un autobuz local înapoi la punctul de plecare.",
+            "en": "Take a local bus back towards your starting point."
+          },
+          "hop_mode": "transit"
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt mit einer Busfahrt zum beeindruckenden Kernkraftwerk Ignalina. Nach diesem unvergesslichen Erlebnis fahren Sie zurück ins Zentrum von Visaginas. Dort erkunden Sie zu Fuß das Kulturzentrum, essen zu Mittag und spazieren zur Kirche. Der gesamte Nachmittag ist der Entspannung am weitläufigen Visaginas-See gewidmet. Am Abend bringt Sie ein lokaler Bus bequem zurück zu Ihrer Unterkunft.",
+        "hu": "A tömegközlekedéssel töltött nap egy buszúttal kezdődik a lenyűgöző Ignalinai atomerőműhöz. E felejthetetlen élmény után visszautazik Visaginas központjába. Itt gyalog fedezi fel a kulturális központot, megebédel és elsétál a templomhoz. Az egész délutánt a tágas Visaginas-tónál való pihenésnek szenteli. Este egy helyi busz kényelmesen visszaviszi a szállására.",
+        "ro": "Ziua dvs. cu transportul public începe cu o călătorie cu autobuzul la impresionanta Centrală Nucleară Ignalina. După această experiență de neuitat, vă întoarceți în centrul orașului Visaginas. Acolo, explorați pe jos centrul cultural, luați prânzul și vă plimbați până la biserică. Întreaga după-amiază este dedicată relaxării pe malul întinsului lac Visaginas. Seara, un autobuz local vă va duce confortabil înapoi la cazare.",
+        "en": "Your day on public transport begins with a bus trip to the impressive Ignalina Nuclear Power Plant. After this unforgettable experience, you travel back to the centre of Visaginas. There, you'll explore the cultural centre on foot, have lunch, and walk to the church. The entire afternoon is dedicated to relaxing by the vast Lake Visaginas. In the evening, a local bus will comfortably take you back to your accommodation."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bulviniai blynai (Kartoffelpuffer)",
+            "tip": "Ein einfacher, aber köstlicher Snack, den man oft auf Märkten oder in Cafés findet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bulviniai blynai (Krumplilángos)",
+            "tip": "Egyszerű, de finom snack, amelyet gyakran találni piacokon vagy kávézókban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bulviniai blynai (Clătite din cartofi)",
+            "tip": "O gustare simplă, dar delicioasă, găsită adesea în piețe sau cafenele."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bulviniai blynai (Potato Pancakes)",
+            "tip": "A simple but delicious snack often found at markets or in cafes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt durch die Landschaft",
+            "tip": "Schauen Sie aus dem Fenster und genießen Sie die vorbeiziehende litauische Landschaft.",
+            "emoji": "🚌"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás a tájon keresztül",
+            "tip": "Nézzen ki az ablakon, és élvezze az elhaladó litván tájat.",
+            "emoji": "🚌"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătorie cu autobuzul prin peisaj",
+            "tip": "Priviți pe fereastră și bucurați-vă de peisajul lituanian care trece pe lângă dumneavoastră.",
+            "emoji": "🚌"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride through the countryside",
+            "tip": "Look out the window and enjoy the passing Lithuanian scenery.",
+            "emoji": "🚌"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bernsteinschmuck",
+            "tip": "Auch wenn es nicht die Küste ist, finden Sie vielleicht litauischen Bernstein in lokalen Souvenirläden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borostyán ékszerek",
+            "tip": "Bár ez nem a tengerpart, a helyi szuvenírboltokban találhat litván borostyánt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bijuterii din chihlimbar",
+            "tip": "Deși nu este coasta, s-ar putea să găsiți chihlimbar lituanian în magazinele locale de suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Amber Jewelry",
+            "tip": "Even though it's not the coast, you might find Lithuanian amber in local souvenir shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn verfügbar.",
+          "Laden Sie eine Offline-Karte auf Ihr Handy, um die Orientierung zwischen den Haltestellen zu erleichtern.",
+          "Beachten Sie die Abfahrtszeiten für den letzten Bus zurück von entlegeneren Orten."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha elérhető.",
+          "Töltsön le egy offline térképet a telefonjára, hogy megkönnyítse a tájékozódást a megállók között.",
+          "Vegye figyelembe az utolsó busz indulási idejét a távolabbi helyekről."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz, dacă este disponibil.",
+          "Descărcați o hartă offline pe telefon pentru a vă ajuta să navigați între stații.",
+          "Fiți atenți la orele de plecare ale ultimului autobuz din locații mai îndepărtate."
+        ],
+        "en": [
+          "Buy a day pass for the bus if available.",
+          "Download an offline map to your phone to help navigate between stops.",
+          "Be aware of the last bus departure times from more remote locations."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1460 @@
+{
+  "city_id": "belgium-mechelen-cities-v2",
+  "anchor": {
+    "name": "Mechelen",
+    "coords": [
+      4.4773,
+      51.0259
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Grote Markt",
+            "hu": "Fő tér",
+            "ro": "Piața Mare",
+            "en": "Grote Markt (Main Market Square)"
+          },
+          "coords": [
+            4.4781,
+            51.0285
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee in einem der historischen Gildehäuser.",
+            "hu": "Indítsa a napot egy kávéval a történelmi céh-házak egyikében!",
+            "ro": "Începeți ziua cu o cafea la una dintre casele breslelor istorice.",
+            "en": "Start your day with a coffee at one of the historic guild houses."
+          }
+        },
+        {
+          "name": {
+            "de": "Sint-Romboutskathedraal",
+            "hu": "Szent Rumbold-székesegyház",
+            "ro": "Catedrala Sfântul Rumbold",
+            "en": "St. Rumbold's Cathedral"
+          },
+          "coords": [
+            4.4795,
+            51.0288
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Aufstieg auf den Turm ist anstrengend, aber die Aussicht ist es wert.",
+            "hu": "A toronymászás fárasztó, de a kilátás megéri az erőfeszítést.",
+            "ro": "Urcarea în turn este obositoare, dar priveliștea merită efortul.",
+            "en": "The climb up the tower is strenuous, but the view is well worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Hof van Busleyden",
+            "hu": "Busleyden-udvar Múzeum",
+            "ro": "Muzeul Curtea lui Busleyden",
+            "en": "Museum Hof van Busleyden"
+          },
+          "coords": [
+            4.4815,
+            51.0302
+          ],
+          "category": "museums",
+          "arrive_at": "10:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Stadtpalast aus der Renaissance, der die burgundische Zeit beleuchtet.",
+            "hu": "Fedezze fel a burgundi korszakot ebben a reneszánsz városi palotában!",
+            "ro": "Explorați perioada burgundă în acest palat renascentist.",
+            "en": "A Renaissance city palace that brings the Burgundian era to life."
+          }
+        },
+        {
+          "name": {
+            "de": "Dijlepad",
+            "hu": "Dijle-ösvény",
+            "ro": "Cărarea Dijle",
+            "en": "Dyle Path"
+          },
+          "coords": [
+            4.4792,
+            51.0255
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:48",
+          "stay_min": 45,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein einzigartiger schwimmender Weg auf dem Wasser. Perfekt für Fotos.",
+            "hu": "Egyedi, vízen lebegő sétány. Tökéletes fotóhelyszín.",
+            "ro": "O potecă plutitoare unică pe apă. Perfectă pentru fotografii.",
+            "en": "A unique floating path on the water. Perfect for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Sint-Janskerk",
+            "hu": "Szent János-templom",
+            "ro": "Biserica Sfântul Ioan",
+            "en": "St. John's Church"
+          },
+          "coords": [
+            4.475,
+            51.0265
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie Rubens' Meisterwerk 'Die Anbetung der Könige'.",
+            "hu": "Csodálja meg Rubens „A háromkirályok imádása” című remekművét!",
+            "ro": "Admirați capodopera lui Rubens „Adorația Magilor”.",
+            "en": "Admire the masterpiece 'The Adoration of the Magi' by Rubens."
+          }
+        },
+        {
+          "name": {
+            "de": "Brusselpoort",
+            "hu": "Brüsszeli kapu",
+            "ro": "Poarta Bruxelles",
+            "en": "Brussels Gate"
+          },
+          "coords": [
+            4.488,
+            51.023
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:49",
+          "stay_min": 25,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das einzige erhaltene Stadttor von Mechelen, ein beeindruckendes Stück Geschichte.",
+            "hu": "Mechelen egyetlen megmaradt városkapuja, a történelem lenyűgöző darabja.",
+            "ro": "Singura poartă a orașului Mechelen care a supraviețuit, o bucată impresionantă de istorie.",
+            "en": "The only remaining city gate of Mechelen, an impressive piece of history."
+          }
+        },
+        {
+          "name": {
+            "de": "Brouwerij Het Anker",
+            "hu": "Het Anker Sörfőzde",
+            "ro": "Fabrica de bere Het Anker",
+            "en": "Het Anker Brewery"
+          },
+          "coords": [
+            4.4855,
+            51.0321
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einer Führung und Verkostung des berühmten Gouden Carolus Bieres.",
+            "hu": "Zárja a napot egy sörfőzde-túrával és a híres Gouden Carolus sör kóstolásával!",
+            "ro": "Încheiați ziua cu un tur și o degustare a faimoasei beri Gouden Carolus.",
+            "en": "End your day with a tour and a tasting of the famous Gouden Carolus beer."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen in Mechelen beginnt auf dem Grote Markt, dem Herzen der Stadt. Nach dem Erklimmen des Sint-Romboutstorens für eine atemberaubende Aussicht, tauchen Sie im Hof van Busleyden in die burgundische Geschichte ein.\nAm Mittag bietet der schwimmende Dijlepad eine einzigartige Perspektive auf die Stadt. Gestärkt durch ein Mittagessen, entdecken Sie in der Sint-Janskerk ein Meisterwerk von Rubens, das die reiche Kunstgeschichte der Stadt bezeugt.\nDer Nachmittag führt Sie zum Brusselpoort, dem letzten verbliebenen Stadttor, einem stillen Zeugen der Vergangenheit. Von dort ist es nur ein kurzer Spaziergang zu einem der flüssigen Schätze Belgiens.\nDer Abend klingt in der Brauerei Het Anker aus, wo Sie das weltberühmte Gouden Carolus Bier probieren. Ein perfekter Abschluss eines Tages voller Kultur, Geschichte und Genuss in der charmanten Stadt Mechelen.",
+        "hu": "A mecheleni reggel a város szívében, a Grote Markton indul. Miután megmászta a Sint-Rombouts tornyot a lélegzetelállító kilátásért, merüljön el a burgundi történelemben a Hof van Busleyden udvarában.\nDélben a lebegő Dijle-ösvény egyedülálló perspektívát kínál a városra. Egy ebéd után fedezze fel Rubens mesterművét a Sint-Janskerk templomban, amely a város gazdag művészettörténetéről tanúskodik.\nA délután a Brusselpoorthoz, az utolsó megmaradt városkapuhoz vezet, amely a múlt csendes tanúja. Innen már csak egy rövid séta Belgium egyik folyékony kincséhez.\nAz estét a Het Anker sörfőzdében zárja, ahol megkóstolhatja a világhírű Gouden Carolus sört. Tökéletes befejezése egy kultúrával, történelemmel és ízekkel teli napnak a bájos Mechelenben.",
+        "ro": "Dimineața în Mechelen începe în Grote Markt, inima orașului. După ce urcați în Turnul Sf. Rumbold pentru o priveliște uluitoare, vă scufundați în istoria burgundă la Muzeul Hof van Busleyden.\nLa prânz, poteca plutitoare Dijlepad oferă o perspectivă unică asupra orașului. După un prânz revigorant, descoperiți o capodoperă de Rubens la Biserica Sf. Ioan, o mărturie a bogatei istorii artistice a orașului.\nDupă-amiaza vă duce la Brusselpoort, ultima poartă a orașului rămasă în picioare, un martor tăcut al trecutului. De acolo, este doar o scurtă plimbare până la una dintre comorile lichide ale Belgiei.\nSeara se încheie la fabrica de bere Het Anker, unde degustați faimoasa bere Gouden Carolus. Un final perfect pentru o zi plină de cultură, istorie și arome în fermecătorul oraș Mechelen.",
+        "en": "The morning in Mechelen starts in the Grote Markt, the heart of the city. After climbing the St. Rumbold's Tower for a breathtaking view, delve into Burgundian history at the Hof van Busleyden.\nAt midday, the floating Dyle Path offers a unique perspective on the city. After a refreshing lunch, discover a masterpiece by Rubens in St. John's Church, a testament to the city's rich art history.\nThe afternoon takes you to the Brusselpoort, the last remaining city gate, a silent witness to the past. From there, it's just a short walk to one of Belgium's liquid treasures.\nThe evening concludes at the Het Anker Brewery, where you'll taste the world-famous Gouden Carolus beer. A perfect end to a day filled with culture, history, and flavor in the charming city of Mechelen."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mechelse Koekoek",
+            "tip": "Probieren Sie dieses berühmte lokale Huhn, bekannt für sein zartes Fleisch."
+          },
+          {
+            "name": "Gouden Carolus Bier",
+            "tip": "Ein Muss für Bierliebhaber, direkt von der Quelle in der Brauerei Het Anker."
+          },
+          {
+            "name": "Frietjes (Pommes)",
+            "tip": "Belgische Pommes von einer 'Fritkot' sind immer eine gute Idee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mecheleni kakukk",
+            "tip": "Kóstolja meg ezt a híres helyi csirkefajtát, amely a zsenge húsáról ismert."
+          },
+          {
+            "name": "Gouden Carolus sör",
+            "tip": "Kötelező a sörkedvelőknek, egyenesen a forrásból a Het Anker sörfőzdében."
+          },
+          {
+            "name": "Sült krumpli (Frietjes)",
+            "tip": "A belga sült krumpli egy 'Fritkot'-ból mindig jó ötlet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pui de Mechelen (Koekoek)",
+            "tip": "Încercați acest faimos pui local, cunoscut pentru carnea sa fragedă."
+          },
+          {
+            "name": "Berea Gouden Carolus",
+            "tip": "O necesitate pentru iubitorii de bere, direct de la sursă la fabrica Het Anker."
+          },
+          {
+            "name": "Cartofi prăjiți (Frietjes)",
+            "tip": "Cartofii prăjiți belgieni de la un 'Fritkot' sunt întotdeauna o idee bună."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mechelen Cuckoo",
+            "tip": "Try this famous local chicken, known for its tender meat."
+          },
+          {
+            "name": "Gouden Carolus Beer",
+            "tip": "A must-try for beer lovers, straight from the source at Het Anker Brewery."
+          },
+          {
+            "name": "Fries (Frietjes)",
+            "tip": "Belgian fries from a 'fritkot' are always a good idea."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vrijbroekpark",
+            "tip": "Ein ruhiger Park etwas außerhalb des Zentrums, ideal für einen entspannten Spaziergang.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dijlepad",
+            "tip": "Der schwimmende Pfad bietet friedliche Momente auf dem Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Beginenhof",
+            "tip": "Schlendern Sie durch die stillen Gassen des Großen Beginenhofs für eine Zeitreise.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vrijbroekpark",
+            "tip": "Egy csendes park a központtól kicsit távolabb, ideális egy pihentető sétához.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dijle-ösvény",
+            "tip": "A lebegő ösvény békés pillanatokat kínál a vízen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Beginaházak",
+            "tip": "Sétáljon a Nagy Beginaház csendes sikátoraiban egy időutazáshoz.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Vrijbroek",
+            "tip": "Un parc liniștit chiar în afara centrului, perfect pentru o plimbare relaxantă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cărarea Dijle",
+            "tip": "Poteca plutitoare oferă momente de pace pe apă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Begijnhof",
+            "tip": "Plimbați-vă pe aleile tăcute ale Marelui Begijnhof pentru o călătorie în timp.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vrijbroekpark",
+            "tip": "A quiet park just outside the center, perfect for a relaxing stroll.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dyle Path",
+            "tip": "The floating path offers peaceful moments on the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Beguinage",
+            "tip": "Stroll through the silent alleys of the Grand Beguinage for a trip back in time.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bruul",
+            "tip": "Die Haupteinkaufsstraße von Mechelen mit einer Mischung aus bekannten Marken und lokalen Geschäften."
+          },
+          {
+            "name": "Wochenmarkt am Samstag",
+            "tip": "Findet auf dem Grote Markt statt und bietet lokale Produkte, Käse und mehr."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bruul",
+            "tip": "Mechelen fő bevásárlóutcája ismert márkák és helyi boltok keverékével."
+          },
+          {
+            "name": "Szombati piac",
+            "tip": "A Grote Markton tartják, helyi termékeket, sajtokat és egyebeket kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bruul",
+            "tip": "Principala stradă comercială din Mechelen, cu un amestec de mărci cunoscute și magazine locale."
+          },
+          {
+            "name": "Piața de sâmbătă",
+            "tip": "Are loc în Grote Markt și oferă produse locale, brânzeturi și multe altele."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bruul",
+            "tip": "Mechelen's main shopping street with a mix of famous brands and local shops."
+          },
+          {
+            "name": "Saturday Market",
+            "tip": "Held on the Grote Markt, offering local produce, cheese, and more."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Innenstadt uneben sein kann.",
+          "Mechelen ist sehr kompakt, fast alle wichtigen Sehenswürdigkeiten sind leicht zu Fuß erreichbar.",
+          "Verlieren Sie sich in den kleinen Gassen rund um den Grote Markt.",
+          "Viele Museen sind montags geschlossen, planen Sie entsprechend."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a belvárosi macskakövek egyenetlenek lehetnek.",
+          "Mechelen nagyon kompakt, szinte minden fő látnivaló könnyen elérhető gyalog.",
+          "Vesszen el a Grote Markt körüli kis sikátorokban.",
+          "Sok múzeum zárva tart hétfőn, tervezzen ennek megfelelően."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavelele din centrul orașului pot fi denivelate.",
+          "Mechelen este foarte compact, aproape toate atracțiile principale fiind ușor accesibile pe jos.",
+          "Pierdeți-vă pe străduțele mici din jurul Grote Markt.",
+          "Multe muzee sunt închise lunea, planificați-vă vizita în consecință."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the city center can be uneven.",
+          "Mechelen is very compact, with almost all major sights within easy walking distance.",
+          "Get lost in the small alleys around the Grote Markt.",
+          "Many museums are closed on Mondays, so plan accordingly."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:41",
+      "total_km": 8.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Grote Markt & Sint-Romboutskathedraal",
+            "hu": "Fő tér és Szent Rumbold-székesegyház",
+            "ro": "Piața Mare și Catedrala Sf. Rumbold",
+            "en": "Grote Markt & St. Rumbold's Cathedral"
+          },
+          "coords": [
+            4.4781,
+            51.0285
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie den Platz und die Kathedrale zu Fuß.",
+            "hu": "Parkolja le a biciklit, és fedezze fel a teret és a katedrálist gyalog.",
+            "ro": "Parcați bicicleta și explorați piața și catedrala pe jos.",
+            "en": "Park your bike and explore the square and the cathedral on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Brusselpoort",
+            "hu": "Brüsszeli kapu",
+            "ro": "Poarta Bruxelles",
+            "en": "Brussels Gate"
+          },
+          "coords": [
+            4.488,
+            51.023
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:39",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine angenehme Radtour entlang der alten Stadtmauern führt zu diesem Tor.",
+            "hu": "Egy kellemes biciklitúra a régi városfalak mentén vezet ehhez a kapuhoz.",
+            "ro": "O plimbare plăcută cu bicicleta de-a lungul vechilor ziduri ale orașului duce la această poartă.",
+            "en": "A pleasant bike ride along the old city ramparts leads to this gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Speelgoedmuseum",
+            "hu": "Játékmúzeum",
+            "ro": "Muzeul Jucăriilor",
+            "en": "Toy Museum"
+          },
+          "coords": [
+            4.471,
+            51.019
+          ],
+          "category": "museums",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Nicht nur für Kinder! Entdecken Sie Spielzeug aus verschiedenen Epochen.",
+            "hu": "Nem csak gyerekeknek! Fedezze fel a különböző korszakok játékait.",
+            "ro": "Nu doar pentru copii! Descoperiți jucării din diferite epoci.",
+            "en": "Not just for kids! Discover toys from different eras."
+          }
+        },
+        {
+          "name": {
+            "de": "Dijlepad & Mittagessen",
+            "hu": "Dijle-ösvény és ebéd",
+            "ro": "Cărarea Dijle și prânz",
+            "en": "Dyle Path & Lunch"
+          },
+          "coords": [
+            4.477,
+            51.025
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Suchen Sie sich ein schönes Restaurant entlang der Dijle für eine Mittagspause.",
+            "hu": "Válasszon egy szép éttermet a Dijle mentén egy ebédszünetre.",
+            "ro": "Găsiți un restaurant drăguț de-a lungul râului Dijle pentru o pauză de prânz.",
+            "en": "Find a nice restaurant along the Dyle for a lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Kazerne Dossin",
+            "hu": "Dossin-laktanya",
+            "ro": "Cazarma Dossin",
+            "en": "Kazerne Dossin"
+          },
+          "coords": [
+            4.483,
+            51.033
+          ],
+          "category": "museums",
+          "arrive_at": "14:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein ergreifendes Museum über den Holocaust und Menschenrechte in Belgien.",
+            "hu": "Egy megrendítő múzeum a holokausztról és az emberi jogokról Belgiumban.",
+            "ro": "Un muzeu emoționant despre Holocaust și drepturile omului în Belgia.",
+            "en": "A poignant museum about the Holocaust and human rights in Belgium."
+          }
+        },
+        {
+          "name": {
+            "de": "Brouwerij Het Anker",
+            "hu": "Het Anker Sörfőzde",
+            "ro": "Fabrica de bere Het Anker",
+            "en": "Het Anker Brewery"
+          },
+          "coords": [
+            4.4855,
+            51.0321
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:58",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die perfekte Belohnung nach einer Radtour durch die Stadt.",
+            "hu": "Tökéletes jutalom egy városi biciklitúra után.",
+            "ro": "Recompensa perfectă după un tur cu bicicleta prin oraș.",
+            "en": "The perfect reward after a bike tour through the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour auf dem Grote Markt und erklimmen Sie den Turm für eine Vogelperspektive. Mit dem Rad geht es dann zum historischen Brusselpoort, einem Tor zur Vergangenheit der Stadt.\nMittags radeln Sie zum Speelgoedmuseum, einer nostalgischen Reise für alle Altersgruppen. Anschließend genießen Sie eine Pause und ein Mittagessen am malerischen Dijlepad, dem schwimmenden Weg auf dem Wasser.\nDer Nachmittag wird nachdenklicher mit einem Besuch der Kazerne Dossin, einem wichtigen Ort der Erinnerung. Die Radtour führt Sie durch verschiedene Facetten der Stadtgeschichte und -kultur.\nIhre Tour endet bei der Brauerei Het Anker. Nach einem Tag im Sattel gibt es keine bessere Belohnung als ein frisch gebrautes Gouden Carolus, das Sie sich redlich verdient haben.",
+        "hu": "Kezdje a biciklitúrát a Grote Markton, és mássza meg a tornyot a madártávlati kilátásért. Kerékpárral folytassa útját a történelmi Brusselpoorthoz, a város múltjába nyíló kapuhoz.\nDélben tekerjen el a Játékmúzeumhoz, amely egy nosztalgikus utazás minden korosztály számára. Ezután élvezze a szünetet és az ebédet a festői Dijle-ösvényen, a vízen lebegő úton.\nA délután elgondolkodtatóbb a Kazerne Dossin meglátogatásával, amely az emlékezés fontos helyszíne. A kerékpártúra a város történelmének és kultúrájának különböző aspektusain vezeti keresztül.\nA túra a Het Anker sörfőzdénél ér véget. Egy nyeregben töltött nap után nincs is jobb jutalom, mint egy frissen főzött Gouden Carolus, amelyet alaposan megérdemelt.",
+        "ro": "Începeți turul cu bicicleta din Grote Markt și urcați în turn pentru o vedere panoramică. Apoi pedalați spre istorica Brusselpoort, o poartă către trecutul orașului.\nLa prânz, mergeți cu bicicleta la Muzeul Jucăriilor, o călătorie nostalgică pentru toate vârstele. Apoi, bucurați-vă de o pauză și de prânz pe pitoreasca potecă Dijlepad, calea plutitoare pe apă.\nDupă-amiaza devine mai sobră cu o vizită la Kazerne Dossin, un loc important de aducere aminte. Turul cu bicicleta vă poartă prin diferite fațete ale istoriei și culturii orașului.\nTurul se încheie la fabrica de bere Het Anker. După o zi în șa, nu există o recompensă mai bună decât o bere Gouden Carolus proaspăt preparată, pe care ați câștigat-o pe merit.",
+        "en": "Start your bike tour at the Grote Markt and climb the tower for a bird's-eye view. Then, cycle to the historic Brusselpoort, a gateway to the city's past.\nAt noon, pedal to the Toy Museum for a nostalgic journey for all ages. Afterwards, enjoy a break and lunch on the picturesque Dyle Path, the floating walkway on the water.\nThe afternoon becomes more reflective with a visit to Kazerne Dossin, an important place of remembrance. The bike tour takes you through various facets of the city's history and culture.\nYour tour concludes at the Het Anker Brewery. After a day in the saddle, there's no better reward than a freshly brewed Gouden Carolus, which you've rightfully earned."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mechelse Koekoek",
+            "tip": "Probieren Sie dieses berühmte lokale Huhn, bekannt für sein zartes Fleisch."
+          },
+          {
+            "name": "Gouden Carolus Bier",
+            "tip": "Ein Muss für Bierliebhaber, direkt von der Quelle in der Brauerei Het Anker."
+          },
+          {
+            "name": "Frietjes (Pommes)",
+            "tip": "Belgische Pommes von einer 'Fritkot' sind immer eine gute Idee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mecheleni kakukk",
+            "tip": "Kóstolja meg ezt a híres helyi csirkefajtát, amely a zsenge húsáról ismert."
+          },
+          {
+            "name": "Gouden Carolus sör",
+            "tip": "Kötelező a sörkedvelőknek, egyenesen a forrásból a Het Anker sörfőzdében."
+          },
+          {
+            "name": "Sült krumpli (Frietjes)",
+            "tip": "A belga sült krumpli egy 'Fritkot'-ból mindig jó ötlet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pui de Mechelen (Koekoek)",
+            "tip": "Încercați acest faimos pui local, cunoscut pentru carnea sa fragedă."
+          },
+          {
+            "name": "Berea Gouden Carolus",
+            "tip": "O necesitate pentru iubitorii de bere, direct de la sursă la fabrica Het Anker."
+          },
+          {
+            "name": "Cartofi prăjiți (Frietjes)",
+            "tip": "Cartofii prăjiți belgieni de la un 'Fritkot' sunt întotdeauna o idee bună."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mechelen Cuckoo",
+            "tip": "Try this famous local chicken, known for its tender meat."
+          },
+          {
+            "name": "Gouden Carolus Beer",
+            "tip": "A must-try for beer lovers, straight from the source at Het Anker Brewery."
+          },
+          {
+            "name": "Fries (Frietjes)",
+            "tip": "Belgian fries from a 'fritkot' are always a good idea."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vrijbroekpark",
+            "tip": "Ein ruhiger Park etwas außerhalb des Zentrums, ideal für einen entspannten Spaziergang.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dijlepad",
+            "tip": "Der schwimmende Pfad bietet friedliche Momente auf dem Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Beginenhof",
+            "tip": "Schlendern Sie durch die stillen Gassen des Großen Beginenhofs für eine Zeitreise.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vrijbroekpark",
+            "tip": "Egy csendes park a központtól kicsit távolabb, ideális egy pihentető sétához.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dijle-ösvény",
+            "tip": "A lebegő ösvény békés pillanatokat kínál a vízen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Beginaházak",
+            "tip": "Sétáljon a Nagy Beginaház csendes sikátoraiban egy időutazáshoz.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Vrijbroek",
+            "tip": "Un parc liniștit chiar în afara centrului, perfect pentru o plimbare relaxantă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cărarea Dijle",
+            "tip": "Poteca plutitoare oferă momente de pace pe apă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Begijnhof",
+            "tip": "Plimbați-vă pe aleile tăcute ale Marelui Begijnhof pentru o călătorie în timp.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vrijbroekpark",
+            "tip": "A quiet park just outside the center, perfect for a relaxing stroll.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dyle Path",
+            "tip": "The floating path offers peaceful moments on the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Beguinage",
+            "tip": "Stroll through the silent alleys of the Grand Beguinage for a trip back in time.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bruul",
+            "tip": "Die Haupteinkaufsstraße von Mechelen mit einer Mischung aus bekannten Marken und lokalen Geschäften."
+          },
+          {
+            "name": "Wochenmarkt am Samstag",
+            "tip": "Findet auf dem Grote Markt statt und bietet lokale Produkte, Käse und mehr."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bruul",
+            "tip": "Mechelen fő bevásárlóutcája ismert márkák és helyi boltok keverékével."
+          },
+          {
+            "name": "Szombati piac",
+            "tip": "A Grote Markton tartják, helyi termékeket, sajtokat és egyebeket kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bruul",
+            "tip": "Principala stradă comercială din Mechelen, cu un amestec de mărci cunoscute și magazine locale."
+          },
+          {
+            "name": "Piața de sâmbătă",
+            "tip": "Are loc în Grote Markt și oferă produse locale, brânzeturi și multe altele."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bruul",
+            "tip": "Mechelen's main shopping street with a mix of famous brands and local shops."
+          },
+          {
+            "name": "Saturday Market",
+            "tip": "Held on the Grote Markt, offering local produce, cheese, and more."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mechelen ist fahrradfreundlich mit vielen Radwegen.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, besonders in der Nähe von Touristenattraktionen.",
+          "Achten Sie auf Einbahnstraßen, die für Fahrräder in beide Richtungen geöffnet sein können.",
+          "Einige Kopfsteinpflasterstraßen können holprig sein, fahren Sie vorsichtig."
+        ],
+        "hu": [
+          "Mechelen biciklibarát város, sok kerékpárúttal.",
+          "Mindig zárja le jól a kerékpárját, különösen a turisztikai látványosságok közelében.",
+          "Vigyázzon az egyirányú utcákra, amelyek a kerékpárosok számára mindkét irányban nyitottak lehetnek.",
+          "Néhány macskaköves utca rázós lehet, vezessen óvatosan."
+        ],
+        "ro": [
+          "Mechelen este un oraș prietenos cu bicicletele, cu multe piste special amenajate.",
+          "Asigurați-vă întotdeauna bicicleta, mai ales în apropierea atracțiilor turistice.",
+          "Fiți atenți la străzile cu sens unic, care pot fi deschise pentru bicicliști în ambele direcții.",
+          "Unele străzi pavate pot fi denivelate, conduceți cu prudență."
+        ],
+        "en": [
+          "Mechelen is bike-friendly with many cycling paths.",
+          "Always lock your bike securely, especially near tourist attractions.",
+          "Be aware of one-way streets, which may be open for cyclists in both directions.",
+          "Some cobblestone streets can be bumpy, so ride carefully."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 11.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Planckendael Zoo",
+            "hu": "1. klaszter: Planckendael Állatkert",
+            "ro": "Cluster 1: Grădina Zoologică Planckendael",
+            "en": "Cluster 1: Planckendael Zoo"
+          },
+          "coords": [
+            4.52,
+            51
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie direkt zum Zoo, um den Morgen mit den Tieren zu verbringen. Es gibt ausreichend Parkplätze.",
+            "hu": "Vezessen egyenesen az állatkerthez, hogy az állatokkal töltse a délelőttöt. Elegendő parkolóhely áll rendelkezésre.",
+            "ro": "Conduceți direct la grădina zoologică pentru a petrece dimineața cu animalele. Există parcare suficientă.",
+            "en": "Drive directly to the zoo to spend the morning with the animals. There's ample parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Grote Markt",
+            "hu": "2. klaszter: Fő tér",
+            "ro": "Cluster 2: Piața Mare",
+            "en": "Cluster 2: Grote Markt"
+          },
+          "coords": [
+            4.4781,
+            51.0285
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 9.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in einer der Tiefgaragen und beginnen Sie Ihren Rundgang im Herzen der Stadt.",
+            "hu": "Parkoljon egy mélygarázsban, és kezdje a városnézést a város szívében.",
+            "ro": "Parcați într-o parcare subterană și începeți turul pietonal în inima orașului.",
+            "en": "Park in one of the underground car parks and start your walking tour in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Sint-Romboutskathedraal & Mittagessen",
+            "hu": "Szent Rumbold-székesegyház és ebéd",
+            "ro": "Catedrala Sfântul Rumbold și prânz",
+            "en": "St. Rumbold's Cathedral & Lunch"
+          },
+          "coords": [
+            4.4795,
+            51.0288
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Kathedrale liegt direkt am Platz. Danach gibt es viele Restaurants zur Auswahl.",
+            "hu": "A katedrális közvetlenül a téren található. Utána számos étterem közül választhat.",
+            "ro": "Catedrala se află chiar în piață. După aceea, există multe restaurante din care puteți alege.",
+            "en": "The cathedral is right on the square. Afterwards, there are plenty of restaurants to choose from."
+          }
+        },
+        {
+          "name": {
+            "de": "Dijlepad",
+            "hu": "Dijle-ösvény",
+            "ro": "Cărarea Dijle",
+            "en": "Dyle Path"
+          },
+          "coords": [
+            4.4792,
+            51.0255
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:22",
+          "stay_min": 30,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Grote Markt führt zu diesem einzigartigen Wasserweg.",
+            "hu": "Egy rövid séta a Fő tértől vezet ehhez az egyedülálló vízi ösvényhez.",
+            "ro": "O scurtă plimbare de la Grote Markt duce la această potecă acvatică unică.",
+            "en": "A short walk from the Grote Markt leads to this unique waterway."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Kazerne Dossin",
+            "hu": "3. klaszter: Dossin-laktanya",
+            "ro": "Cluster 3: Cazarma Dossin",
+            "en": "Cluster 3: Kazerne Dossin"
+          },
+          "coords": [
+            4.483,
+            51.033
+          ],
+          "category": "museums",
+          "arrive_at": "15:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.4,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum nächsten Cluster. In der Nähe gibt es Parkmöglichkeiten.",
+            "hu": "Vezessen a következő klaszterhez. A közelben van parkolási lehetőség.",
+            "ro": "Conduceți la următorul cluster. Există parcare disponibilă în apropiere.",
+            "en": "Drive to the next cluster. Parking is available nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Brouwerij Het Anker",
+            "hu": "Het Anker Sörfőzde",
+            "ro": "Fabrica de bere Het Anker",
+            "en": "Het Anker Brewery"
+          },
+          "coords": [
+            4.4855,
+            51.0321
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Brauerei ist nur einen kurzen Spaziergang von der Kazerne Dossin entfernt.",
+            "hu": "A sörfőzde csak egy rövid sétára van a Dossin-laktanyától.",
+            "ro": "Fabrica de bere este la o scurtă plimbare de Cazarma Dossin.",
+            "en": "The brewery is just a short walk from Kazerne Dossin."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt mit einem Abenteuer außerhalb der Stadt im Zoo Planckendael, der leicht mit dem Auto erreichbar ist. Verbringen Sie den Morgen damit, die Tierwelt zu erkunden, bevor Sie ins historische Herz von Mechelen fahren.\nZu Mittag parken Sie im Zentrum und tauchen in die Atmosphäre des Grote Markts ein. Nach der Besichtigung der beeindruckenden Kathedrale und einem stärkenden Mittagessen spazieren Sie über den einzigartigen, schwimmenden Dijlepad.\nAm Nachmittag fahren Sie zu Ihrem nächsten Zielcluster. Sie besuchen die Kazerne Dossin, ein ergreifendes Museum, das zum Nachdenken anregt und einen tiefen Einblick in die Geschichte bietet.\nDer Tag endet mit einem kurzen Spaziergang zur Brauerei Het Anker. Belohnen Sie sich mit einer Verkostung des berühmten Gouden Carolus Bieres und genießen Sie die Gastfreundschaft, bevor Sie die Heimreise antreten.",
+        "hu": "A nap egy városon kívüli kalanddal kezdődik a Planckendael Állatkertben, amely autóval könnyen megközelíthető. Töltse a délelőttöt az állatvilág felfedezésével, mielőtt Mechelen történelmi szívébe utazik.\nDélben parkoljon le a központban, és merüljön el a Grote Markt hangulatában. A lenyűgöző katedrális megtekintése és egy kiadós ebéd után sétáljon végig az egyedülálló, lebegő Dijle-ösvényen.\nDélután autózzon el a következő célklaszterhez. Látogasson el a Kazerne Dossinba, egy megrendítő múzeumba, amely elgondolkodtató és mély betekintést nyújt a történelembe.\nA nap egy rövid sétával zárul a Het Anker sörfőzdéhez. Jutalmazza meg magát a híres Gouden Carolus sör kóstolásával, és élvezze a vendégszeretetet, mielőtt hazaindul.",
+        "ro": "Ziua începe cu o aventură în afara orașului la Grădina Zoologică Planckendael, ușor accesibilă cu mașina. Petreceți dimineața explorând fauna sălbatică înainte de a vă îndrepta spre inima istorică a orașului Mechelen.\nLa prânz, parcați în centru și lăsați-vă cuprinși de atmosfera din Grote Markt. După ce vizitați impunătoarea catedrală și luați un prânz copios, plimbați-vă pe unica potecă plutitoare Dijlepad.\nDupă-amiaza, conduceți spre următorul cluster de destinații. Vizitați Kazerne Dossin, un muzeu emoționant care provoacă la reflecție și oferă o perspectivă profundă asupra istoriei.\nZiua se încheie cu o scurtă plimbare până la fabrica de bere Het Anker. Răsplătiți-vă cu o degustare a faimoasei beri Gouden Carolus și bucurați-vă de ospitalitate înainte de a porni spre casă.",
+        "en": "The day begins with an out-of-town adventure at Planckendael Zoo, easily accessible by car. Spend the morning exploring the wildlife before heading into the historic heart of Mechelen.\nAt noon, park in the center and immerse yourself in the atmosphere of the Grote Markt. After visiting the impressive cathedral and having a hearty lunch, take a stroll along the unique, floating Dyle Path.\nIn the afternoon, drive to your next destination cluster. You'll visit Kazerne Dossin, a poignant museum that is thought-provoking and offers a deep insight into history.\nThe day concludes with a short walk to the Het Anker Brewery. Reward yourself with a tasting of the famous Gouden Carolus beer and enjoy the hospitality before heading home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mechelse Koekoek",
+            "tip": "Probieren Sie dieses berühmte lokale Huhn, bekannt für sein zartes Fleisch."
+          },
+          {
+            "name": "Gouden Carolus Bier",
+            "tip": "Ein Muss für Bierliebhaber, direkt von der Quelle in der Brauerei Het Anker."
+          },
+          {
+            "name": "Frietjes (Pommes)",
+            "tip": "Belgische Pommes von einer 'Fritkot' sind immer eine gute Idee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mecheleni kakukk",
+            "tip": "Kóstolja meg ezt a híres helyi csirkefajtát, amely a zsenge húsáról ismert."
+          },
+          {
+            "name": "Gouden Carolus sör",
+            "tip": "Kötelező a sörkedvelőknek, egyenesen a forrásból a Het Anker sörfőzdében."
+          },
+          {
+            "name": "Sült krumpli (Frietjes)",
+            "tip": "A belga sült krumpli egy 'Fritkot'-ból mindig jó ötlet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pui de Mechelen (Koekoek)",
+            "tip": "Încercați acest faimos pui local, cunoscut pentru carnea sa fragedă."
+          },
+          {
+            "name": "Berea Gouden Carolus",
+            "tip": "O necesitate pentru iubitorii de bere, direct de la sursă la fabrica Het Anker."
+          },
+          {
+            "name": "Cartofi prăjiți (Frietjes)",
+            "tip": "Cartofii prăjiți belgieni de la un 'Fritkot' sunt întotdeauna o idee bună."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mechelen Cuckoo",
+            "tip": "Try this famous local chicken, known for its tender meat."
+          },
+          {
+            "name": "Gouden Carolus Beer",
+            "tip": "A must-try for beer lovers, straight from the source at Het Anker Brewery."
+          },
+          {
+            "name": "Fries (Frietjes)",
+            "tip": "Belgian fries from a 'fritkot' are always a good idea."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Planckendael",
+            "tip": "Die Weitläufigkeit des Zoos bietet viele ruhige Ecken, um die Natur zu genießen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Beginenhof",
+            "tip": "Parken Sie in der Nähe und spazieren Sie durch die friedlichen, historischen Gassen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "T'Ile Malines",
+            "tip": "Ein kleines Naturgebiet entlang der Dijle, ideal für eine kurze, ruhige Pause.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Planckendael",
+            "tip": "Az állatkert tágassága számos csendes sarkot kínál a természet élvezetéhez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Beginaházak",
+            "tip": "Parkoljon a közelben, és sétáljon végig a békés, történelmi sikátorokon.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "T'Ile Malines",
+            "tip": "Egy kis természetvédelmi terület a Dijle mentén, ideális egy rövid, csendes szünethez.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Planckendael",
+            "tip": "Întinderea grădinii zoologice oferă multe colțuri liniștite pentru a vă bucura de natură.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Begijnhof",
+            "tip": "Parcați în apropiere și plimbați-vă pe aleile pașnice și istorice.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "T'Ile Malines",
+            "tip": "O mică zonă naturală de-a lungul râului Dijle, ideală pentru o scurtă pauză liniștită.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Planckendael",
+            "tip": "The vastness of the zoo offers many quiet corners to enjoy nature.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Beguinage",
+            "tip": "Park nearby and take a walk through the peaceful, historic alleys.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "T'Ile Malines",
+            "tip": "A small nature area along the Dyle, ideal for a short, quiet break.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bruul",
+            "tip": "Die Haupteinkaufsstraße von Mechelen mit einer Mischung aus bekannten Marken und lokalen Geschäften."
+          },
+          {
+            "name": "Wochenmarkt am Samstag",
+            "tip": "Findet auf dem Grote Markt statt und bietet lokale Produkte, Käse und mehr."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bruul",
+            "tip": "Mechelen fő bevásárlóutcája ismert márkák és helyi boltok keverékével."
+          },
+          {
+            "name": "Szombati piac",
+            "tip": "A Grote Markton tartják, helyi termékeket, sajtokat és egyebeket kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bruul",
+            "tip": "Principala stradă comercială din Mechelen, cu un amestec de mărci cunoscute și magazine locale."
+          },
+          {
+            "name": "Piața de sâmbătă",
+            "tip": "Are loc în Grote Markt și oferă produse locale, brânzeturi și multe altele."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bruul",
+            "tip": "Mechelen's main shopping street with a mix of famous brands and local shops."
+          },
+          {
+            "name": "Saturday Market",
+            "tip": "Held on the Grote Markt, offering local produce, cheese, and more."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Park-and-Ride-Möglichkeiten am Stadtrand, um Parkgebühren zu sparen.",
+          "Achten Sie auf die Low Emission Zone (LEZ) in Mechelen; prüfen Sie, ob Ihr Fahrzeug registriert werden muss.",
+          "Tiefgaragen im Zentrum sind praktisch, aber teurer.",
+          "Planen Sie zusätzliche Zeit für den Verkehr ein, besonders während der Stoßzeiten."
+        ],
+        "hu": [
+          "Használja a város szélén található P+R parkolókat a parkolási díjak megtakarítása érdekében.",
+          "Vegye figyelembe a mecheleni alacsony kibocsátású zónát (LEZ); ellenőrizze, hogy regisztrálnia kell-e a járművét.",
+          "A központi mélygarázsok praktikusak, de drágábbak.",
+          "Tervezzen plusz időt a forgalomra, különösen csúcsidőben."
+        ],
+        "ro": [
+          "Folosiți opțiunile Park and Ride de la periferia orașului pentru a economisi la taxele de parcare.",
+          "Fiți atenți la Zona cu Emisii Scăzute (LEZ) din Mechelen; verificați dacă vehiculul dvs. trebuie înregistrat.",
+          "Parcările subterane din centru sunt convenabile, dar mai scumpe.",
+          "Planificați timp suplimentar pentru trafic, în special în timpul orelor de vârf."
+        ],
+        "en": [
+          "Use the Park and Ride facilities on the outskirts of the city to save on parking fees.",
+          "Be aware of the Low Emission Zone (LEZ) in Mechelen; check if your vehicle needs to be registered.",
+          "Underground car parks in the center are convenient but more expensive.",
+          "Plan for extra time for traffic, especially during peak hours."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:58",
+      "total_km": 11.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Planckendael Zoo",
+            "hu": "1. klaszter: Planckendael Állatkert",
+            "ro": "Cluster 1: Grădina Zoologică Planckendael",
+            "en": "Cluster 1: Planckendael Zoo"
+          },
+          "coords": [
+            4.52,
+            51
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus vom Bahnhof Mechelen direkt zum Zoo. Die Fahrt ist kurz und bequem.",
+            "hu": "Menjen busszal a mecheleni pályaudvarról egyenesen az állatkertbe. Az út rövid és kényelmes.",
+            "ro": "Luați autobuzul de la gara Mechelen direct la grădina zoologică. Călătoria este scurtă și convenabilă.",
+            "en": "Take the bus from Mechelen station directly to the zoo. The ride is short and convenient."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Grote Markt",
+            "hu": "2. klaszter: Fő tér",
+            "ro": "Cluster 2: Piața Mare",
+            "en": "Cluster 2: Grote Markt"
+          },
+          "coords": [
+            4.4781,
+            51.0285
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:47",
+          "stay_min": 25,
+          "hop_from_prev_min": 37,
+          "hop_from_prev_km": 9.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück ins Zentrum und steigen Sie in der Nähe des Grote Markts aus.",
+            "hu": "Menjen busszal vissza a központba, és szálljon le a Grote Markt közelében.",
+            "ro": "Luați autobuzul înapoi spre centru și coborâți lângă Grote Markt.",
+            "en": "Take the bus back to the city center and get off near the Grote Markt."
+          }
+        },
+        {
+          "name": {
+            "de": "Sint-Romboutskathedraal & Mittagessen",
+            "hu": "Szent Rumbold-székesegyház és ebéd",
+            "ro": "Catedrala Sfântul Rumbold și prânz",
+            "en": "St. Rumbold's Cathedral & Lunch"
+          },
+          "coords": [
+            4.4795,
+            51.0288
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Kathedrale und viele Restaurants sind nur einen kurzen Spaziergang entfernt.",
+            "hu": "A katedrális és számos étterem csak egy rövid sétára található.",
+            "ro": "Catedrala și multe restaurante sunt la o scurtă plimbare.",
+            "en": "The cathedral and many restaurants are just a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Hof van Busleyden",
+            "hu": "Busleyden-udvar Múzeum",
+            "ro": "Muzeul Curtea lui Busleyden",
+            "en": "Museum Hof van Busleyden"
+          },
+          "coords": [
+            4.4815,
+            51.0302
+          ],
+          "category": "museums",
+          "arrive_at": "14:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die historischen Straßen führt Sie zu diesem Renaissance-Palast.",
+            "hu": "Egy rövid séta a történelmi utcákon keresztül vezet ehhez a reneszánsz palotához.",
+            "ro": "O scurtă plimbare pe străzile istorice vă duce la acest palat renascentist.",
+            "en": "A short walk through the historic streets takes you to this Renaissance palace."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Kazerne Dossin",
+            "hu": "3. klaszter: Dossin-laktanya",
+            "ro": "Cluster 3: Cazarma Dossin",
+            "en": "Cluster 3: Kazerne Dossin"
+          },
+          "coords": [
+            4.483,
+            51.033
+          ],
+          "category": "museums",
+          "arrive_at": "16:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine kurze Busfahrt bringt Sie zum nächsten Cluster.",
+            "hu": "Egy rövid buszút elviszi a következő klaszterhez.",
+            "ro": "O scurtă călătorie cu autobuzul vă duce la următorul cluster.",
+            "en": "A short bus ride will take you to the next cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Brouwerij Het Anker",
+            "hu": "Het Anker Sörfőzde",
+            "ro": "Fabrica de bere Het Anker",
+            "en": "Het Anker Brewery"
+          },
+          "coords": [
+            4.4855,
+            51.0321
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "17:32",
+          "stay_min": 26,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem kurzen Spaziergang zur Brauerei für eine wohlverdiente Belohnung.",
+            "hu": "Zárja a napot egy rövid sétával a sörfőzdébe egy jól megérdemelt jutalomért.",
+            "ro": "Încheiați ziua cu o scurtă plimbare până la fabrică pentru o recompensă binemeritată.",
+            "en": "End the day with a short walk to the brewery for a well-deserved reward."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Bus beginnt Ihr Tag bequem mit einem Besuch im Zoo Planckendael, wo Sie den Morgen inmitten faszinierender Tiere verbringen. Die öffentlichen Verkehrsmittel bringen Sie mühelos von Attraktion zu Attraktion.\nZur Mittagszeit bringt Sie der Bus zurück ins Herz von Mechelen. Erkunden Sie zu Fuß den Grote Markt, die Kathedrale und den Hof van Busleyden, und genießen Sie ein Mittagessen in einem der vielen Restaurants der Innenstadt.\nAm Nachmittag steigen Sie wieder in den Bus, um das nächste Kapitel Ihrer Erkundung aufzuschlagen. Ein Besuch der Kazerne Dossin bietet einen tiefen und wichtigen Einblick in die Geschichte, der zum Nachdenken anregt.\nDer Tag findet seinen Abschluss in der Nähe, in der Brauerei Het Anker. Nach einem kurzen Spaziergang können Sie den Tag mit einem weltberühmten belgischen Bier ausklingen lassen – ein perfekter Abschluss eines abwechslungsreichen Tages.",
+        "hu": "A nap kényelmesen, busszal indul a Planckendael Állatkertbe, ahol a délelőttöt lenyűgöző állatok között tölti. A tömegközlekedés könnyedén eljuttatja egyik látványosságtól a másikig.\nEbédidőben a busz visszaviszi Mechelen szívébe. Fedezze fel gyalog a Grote Marktot, a katedrálist és a Hof van Busleydent, majd ebédeljen a belváros számos éttermének egyikében.\nDélután ismét buszra száll, hogy megkezdje a felfedezés következő fejezetét. A Kazerne Dossin meglátogatása mély és fontos betekintést nyújt a történelembe, amely elgondolkodtató.\nA nap a közelben, a Het Anker sörfőzdében ér véget. Egy rövid séta után egy világhírű belga sörrel zárhatja a napot - tökéletes befejezése egy változatos napnak.",
+        "ro": "Ziua dvs. începe confortabil cu autobuzul, cu o vizită la Grădina Zoologică Planckendael, unde vă petreceți dimineața printre animale fascinante. Transportul public vă duce fără efort de la o atracție la alta.\nLa prânz, autobuzul vă aduce înapoi în inima orașului Mechelen. Explorați pe jos Grote Markt, catedrala și Hof van Busleyden și bucurați-vă de un prânz la unul dintre multele restaurante din centrul orașului.\nDupă-amiaza, urcați din nou în autobuz pentru a începe următorul capitol al explorării. O vizită la Kazerne Dossin oferă o perspectivă profundă și importantă asupra istoriei, care vă va pune pe gânduri.\nZiua se încheie în apropiere, la fabrica de bere Het Anker. După o scurtă plimbare, puteți încheia ziua cu o bere belgiană de renume mondial - un final perfect pentru o zi variată.",
+        "en": "Your day starts comfortably by bus with a visit to Planckendael Zoo, where you'll spend the morning among fascinating animals. Public transport takes you effortlessly from one attraction to another.\nAt lunchtime, the bus brings you back to the heart of Mechelen. Explore the Grote Markt, the cathedral, and the Hof van Busleyden on foot, and enjoy lunch at one of the many city-center restaurants.\nIn the afternoon, you'll hop back on a bus to start the next chapter of your exploration. A visit to Kazerne Dossin offers a deep and important insight into history that is thought-provoking.\nThe day concludes nearby at the Het Anker Brewery. After a short walk, you can end the day with a world-famous Belgian beer - a perfect end to a varied day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mechelse Koekoek",
+            "tip": "Probieren Sie dieses berühmte lokale Huhn, bekannt für sein zartes Fleisch."
+          },
+          {
+            "name": "Gouden Carolus Bier",
+            "tip": "Ein Muss für Bierliebhaber, direkt von der Quelle in der Brauerei Het Anker."
+          },
+          {
+            "name": "Frietjes (Pommes)",
+            "tip": "Belgische Pommes von einer 'Fritkot' sind immer eine gute Idee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mecheleni kakukk",
+            "tip": "Kóstolja meg ezt a híres helyi csirkefajtát, amely a zsenge húsáról ismert."
+          },
+          {
+            "name": "Gouden Carolus sör",
+            "tip": "Kötelező a sörkedvelőknek, egyenesen a forrásból a Het Anker sörfőzdében."
+          },
+          {
+            "name": "Sült krumpli (Frietjes)",
+            "tip": "A belga sült krumpli egy 'Fritkot'-ból mindig jó ötlet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pui de Mechelen (Koekoek)",
+            "tip": "Încercați acest faimos pui local, cunoscut pentru carnea sa fragedă."
+          },
+          {
+            "name": "Berea Gouden Carolus",
+            "tip": "O necesitate pentru iubitorii de bere, direct de la sursă la fabrica Het Anker."
+          },
+          {
+            "name": "Cartofi prăjiți (Frietjes)",
+            "tip": "Cartofii prăjiți belgieni de la un 'Fritkot' sunt întotdeauna o idee bună."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mechelen Cuckoo",
+            "tip": "Try this famous local chicken, known for its tender meat."
+          },
+          {
+            "name": "Gouden Carolus Beer",
+            "tip": "A must-try for beer lovers, straight from the source at Het Anker Brewery."
+          },
+          {
+            "name": "Fries (Frietjes)",
+            "tip": "Belgian fries from a 'fritkot' are always a good idea."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Planckendael",
+            "tip": "Die Weitläufigkeit des Zoos bietet viele ruhige Ecken, um die Natur zu genießen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Beginenhof",
+            "tip": "Vom Zentrum aus leicht zu Fuß erreichbar, ein Ort der Stille und Geschichte.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Botanischer Garten (Kruidtuin)",
+            "tip": "Ein wunderschöner Park, ideal für eine Pause vom städtischen Trubel.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Planckendael",
+            "tip": "Az állatkert tágassága számos csendes sarkot kínál a természet élvezetéhez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Beginaházak",
+            "tip": "A központból könnyen megközelíthető gyalog, a csend és a történelem helye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Botanikus kert (Kruidtuin)",
+            "tip": "Egy gyönyörű park, ideális a városi nyüzsgésből való kikapcsolódáshoz.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Planckendael",
+            "tip": "Întinderea grădinii zoologice oferă multe colțuri liniștite pentru a vă bucura de natură.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Begijnhof",
+            "tip": "Ușor accesibil pe jos din centru, un loc de liniște și istorie.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădina Botanică (Kruidtuin)",
+            "tip": "Un parc frumos, ideal pentru o pauză de la agitația orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Planckendael",
+            "tip": "The vastness of the zoo offers many quiet corners to enjoy nature.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Beguinage",
+            "tip": "Easily accessible on foot from the center, a place of tranquility and history.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Botanical Garden (Kruidtuin)",
+            "tip": "A beautiful park, ideal for a break from the city bustle.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bruul",
+            "tip": "Die Haupteinkaufsstraße von Mechelen mit einer Mischung aus bekannten Marken und lokalen Geschäften."
+          },
+          {
+            "name": "Wochenmarkt am Samstag",
+            "tip": "Findet auf dem Grote Markt statt und bietet lokale Produkte, Käse und mehr."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bruul",
+            "tip": "Mechelen fő bevásárlóutcája ismert márkák és helyi boltok keverékével."
+          },
+          {
+            "name": "Szombati piac",
+            "tip": "A Grote Markton tartják, helyi termékeket, sajtokat és egyebeket kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bruul",
+            "tip": "Principala stradă comercială din Mechelen, cu un amestec de mărci cunoscute și magazine locale."
+          },
+          {
+            "name": "Piața de sâmbătă",
+            "tip": "Are loc în Grote Markt și oferă produse locale, brânzeturi și multe altele."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bruul",
+            "tip": "Mechelen's main shopping street with a mix of famous brands and local shops."
+          },
+          {
+            "name": "Saturday Market",
+            "tip": "Held on the Grote Markt, offering local produce, cheese, and more."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten mit den De Lijn Bussen.",
+          "Verwenden Sie die De Lijn App, um Routen zu planen und Fahrpläne in Echtzeit zu überprüfen.",
+          "Die meisten Busse fahren vom Hauptbahnhof Mechelen ab.",
+          "Beachten Sie, dass die Busfrequenzen abends und am Wochenende geringer sein können."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz a De Lijn buszain.",
+          "Használja a De Lijn alkalmazást az útvonaltervezéshez és a valós idejű menetrendek ellenőrzéséhez.",
+          "A legtöbb busz a mecheleni főpályaudvarról indul.",
+          "Vegye figyelembe, hogy a buszjáratok sűrűsége esténként és hétvégén alacsonyabb lehet."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate cu autobuzele De Lijn.",
+          "Utilizați aplicația De Lijn pentru a planifica rute și a verifica orarele în timp real.",
+          "Majoritatea autobuzelor pleacă de la gara principală din Mechelen.",
+          "Rețineți că frecvența autobuzelor poate fi mai redusă seara și în weekend."
+        ],
+        "en": [
+          "Buy a day pass for unlimited travel on De Lijn buses.",
+          "Use the De Lijn app to plan routes and check real-time schedules.",
+          "Most buses depart from Mechelen's main train station.",
+          "Be aware that bus frequencies may be lower in the evenings and on weekends."
+        ]
+      }
+    }
+  }
+}

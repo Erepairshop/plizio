@@ -1,0 +1,1388 @@
+{
+  "city_id": "cyprus-kato-polemidia-cities-v2",
+  "anchor": {
+    "name": "Kato Polemidia",
+    "coords": [
+      32.9961,
+      34.6865
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kulturzentrum Kato Polemidia",
+            "hu": "Kato Polemidia Kulturális Központ",
+            "ro": "Centrul Cultural Kato Polemidia",
+            "en": "Kato Polemidia Cultural Centre"
+          },
+          "coords": [
+            32.9955,
+            34.687
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Prüfen Sie den lokalen Veranstaltungsplan auf eventuelle Ausstellungen.",
+            "hu": "Nézd meg a helyi programfüzetet, hátha van valamilyen kiállítás.",
+            "ro": "Verificați programul de evenimente locale pentru posibile expoziții.",
+            "en": "Check the local event schedule for any ongoing exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Nikolaos Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "Agios Nikolaos Church"
+          },
+          "coords": [
+            32.998,
+            34.6885
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Ikonen und die friedliche Atmosphäre im Inneren.",
+            "hu": "Csodáld meg az ikonokat és a békés belső atmoszférát.",
+            "ro": "Admirați icoanele și atmosfera liniștită din interior.",
+            "en": "Admire the icons and the peaceful atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Panagia Evangelistria Kirche",
+            "hu": "Panagia Evangelistria templom",
+            "ro": "Biserica Panagia Evangelistria",
+            "en": "Panagia Evangelistria Church"
+          },
+          "coords": [
+            32.9995,
+            34.691
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckende Architektur der Glockentürme.",
+            "hu": "Figyeld meg a harangtornyok lenyűgöző építészetét.",
+            "ro": "Observați arhitectura impresionantă a clopotnițelor.",
+            "en": "Notice the impressive architecture of the bell towers."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einer lokalen Taverne",
+            "hu": "Ebéd egy helyi tavernában",
+            "ro": "Prânz la o tavernă locală",
+            "en": "Lunch at a local tavern"
+          },
+          "coords": [
+            32.997,
+            34.689
+          ],
+          "category": "gastro",
+          "arrive_at": "12:05",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Probieren Sie das Meze für eine Vielfalt an zypriotischen Aromen.",
+            "hu": "Kóstold meg a meze-t, hogy a ciprusi ízek sokféleségét élvezhesd.",
+            "ro": "Încercați meze pentru o varietate de arome cipriote.",
+            "en": "Try the meze for a variety of Cypriot flavours."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalpark Polemidia",
+            "hu": "Polemidia Nemzeti Park",
+            "ro": "Parcul Național Polemidia",
+            "en": "Polemidia National Park"
+          },
+          "coords": [
+            33.005,
+            34.705
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:55",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Perfekt für einen entspannten Spaziergang nach dem Mittagessen.",
+            "hu": "Tökéletes egy pihentető sétára ebéd után.",
+            "ro": "Perfect pentru o plimbare relaxantă după prânz.",
+            "en": "Perfect for a relaxing post-lunch stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Polemidia Stausee",
+            "hu": "Polemidia víztározó",
+            "ro": "Lacul de acumulare Polemidia",
+            "en": "Polemidia Reservoir"
+          },
+          "coords": [
+            33.008,
+            34.71
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "16:15",
+          "stay_min": 55,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Aussicht und halten Sie Ausschau nach Vögeln.",
+            "hu": "Élvezd a csendes kilátást és figyeld a madarakat.",
+            "ro": "Bucurați-vă de priveliștea liniștită și observați păsările.",
+            "en": "Enjoy the tranquil views and look out for birdlife."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im Herzen von Kato Polemidia, wo Kultur auf Spiritualität trifft. Sie erkunden das Kulturzentrum, bevor Sie die ruhige Atmosphäre der nahegelegenen orthodoxen Kirchen auf sich wirken lassen. Am Vormittag entdecken Sie die architektonischen Details der Panagia Evangelistria Kirche. Nach einem authentischen zypriotischen Mittagessen in einer gemütlichen Taverne verbringen Sie den Nachmittag in der Natur. Ein langer Spaziergang führt Sie durch den Nationalpark Polemidia bis zum ruhigen Stausee. Am Abend kehren Sie mit neuen Eindrücken ins Stadtzentrum zurück und lassen den Tag bei einem Glas Commandaria-Wein ausklingen.",
+        "hu": "A nap Kato Polemidia szívében kezdődik, ahol a kultúra és a spiritualitás találkozik. Felfedezi a kulturális központot, mielőtt elmerül a közeli ortodox templomok békés hangulatában. Délelőtt a Panagia Evangelistria templom építészeti részleteit csodálhatja meg. Egy autentikus ciprusi ebéd után egy hangulatos tavernában a délutánt a természetben tölti. Hosszú séta vezet a Polemidia Nemzeti Parkon keresztül a csendes víztározóig. Este új élményekkel tér vissza a városközpontba, és egy pohár Commandaria borral zárja a napot.",
+        "ro": "Ziua începe în inima Kato Polemidia, unde cultura se întâlnește cu spiritualitatea. Explorați centrul cultural înainte de a absorbi atmosfera pașnică a bisericilor ortodoxe din apropiere. Dimineața descoperiți detaliile arhitecturale ale Bisericii Panagia Evangelistria. După un prânz cipriot autentic la o tavernă primitoare, petreceți după-amiaza în natură. O plimbare lungă vă va duce prin Parcul Național Polemidia până la lacul de acumulare liniștit. Seara, vă întoarceți în centrul orașului cu noi impresii, încheind ziua cu un pahar de vin Commandaria.",
+        "en": "Your day starts in the heart of Kato Polemidia, where culture meets spirituality. You'll explore the cultural centre before soaking in the peaceful atmosphere of the nearby Orthodox churches. In the morning, you'll discover the architectural details of Panagia Evangelistria Church. After an authentic Cypriot lunch at a cozy tavern, you spend the afternoon in nature. A long walk takes you through the Polemidia National Park to the quiet reservoir. In the evening, you return to the city centre with new impressions, ending the day with a glass of Commandaria wine."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Souvlaki",
+            "tip": "Gegrillte Fleischspieße, ein Muss in jeder Taverne."
+          },
+          {
+            "name": "Halloumi",
+            "tip": "Gegrillter oder gebratener Käse, oft als Vorspeise serviert."
+          },
+          {
+            "name": "Sheftalia",
+            "tip": "Würzige, gegrillte Wurst ohne Haut."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Souvlaki",
+            "tip": "Grillezett húsnyárs, minden tavernában kötelező."
+          },
+          {
+            "name": "Halloumi",
+            "tip": "Grillezett vagy sült sajt, gyakran előételként tálalják."
+          },
+          {
+            "name": "Sheftalia",
+            "tip": "Fűszeres, grillezett, bőrnélküli kolbász."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Souvlaki",
+            "tip": "Frigărui de carne la grătar, un preparat de neratat în orice tavernă."
+          },
+          {
+            "name": "Halloumi",
+            "tip": "Brânză la grătar sau prăjită, adesea servită ca aperitiv."
+          },
+          {
+            "name": "Sheftalia",
+            "tip": "Cârnați picanți, la grătar, fără membrană."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvlaki",
+            "tip": "Grilled meat skewers, a must-try at any tavern."
+          },
+          {
+            "name": "Halloumi",
+            "tip": "Grilled or fried cheese, often served as an appetizer."
+          },
+          {
+            "name": "Sheftalia",
+            "tip": "Spicy, grilled, skinless sausage."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Polemidia Stausee",
+            "tip": "Ein ruhiger Ort, um die Natur zu beobachten und zu entspannen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Nationalpark Polemidia",
+            "tip": "Finden Sie eine abgelegene Bank und genießen Sie die Stille.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Polemidia víztározó",
+            "tip": "Csendes hely a természet megfigyelésére és a pihenésre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Polemidia Nemzeti Park",
+            "tip": "Keress egy eldugott padot, és élvezd a csendet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul de acumulare Polemidia",
+            "tip": "Un loc liniștit pentru a observa natura și a te relaxa.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Național Polemidia",
+            "tip": "Găsiți o bancă retrasă și bucurați-vă de liniște.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Polemidia Reservoir",
+            "tip": "A quiet spot to watch nature and relax.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Polemidia National Park",
+            "tip": "Find a secluded bench and enjoy the silence.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Kaufen Sie traditionelles zypriotisches Gebäck wie Flaounes."
+          },
+          {
+            "name": "Kleine Supermärkte",
+            "tip": "Suchen Sie nach Commandaria-Wein und lokalem Olivenöl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékségek",
+            "tip": "Vásárolj hagyományos ciprusi süteményeket, mint például a flaounes."
+          },
+          {
+            "name": "Kis szupermarketek",
+            "tip": "Keress Commandaria bort és helyi olívaolajat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutării locale",
+            "tip": "Cumpărați produse de patiserie tradiționale cipriote, cum ar fi flaounes."
+          },
+          {
+            "name": "Mici supermarketuri",
+            "tip": "Căutați vin Commandaria și ulei de măsline local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bakeries",
+            "tip": "Buy traditional Cypriot pastries like flaounes."
+          },
+          {
+            "name": "Small Supermarkets",
+            "tip": "Look for Commandaria wine and local olive oil."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie viel Wasser mit, besonders in den Sommermonaten.",
+          "Eine Powerbank für Ihr Handy ist nützlich für Fotos und Navigation."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, sokat fogsz gyalogolni.",
+          "Vigyél magaddal sok vizet, különösen a nyári hónapokban.",
+          "Egy power bank a telefonodhoz hasznos lehet a fotózáshoz és a navigációhoz."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe jos.",
+          "Luați multă apă cu voi, mai ales în lunile de vară.",
+          "O baterie externă pentru telefon este utilă pentru fotografii și navigație."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Bring plenty of water, especially during the summer months.",
+          "A power bank for your phone is useful for photos and navigation."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Mittelalterlicher Turm von Polemidia",
+            "hu": "Polemidia középkori tornya",
+            "ro": "Turnul Medieval din Polemidia",
+            "en": "Medieval Tower of Polemidia"
+          },
+          "coords": [
+            32.993,
+            34.685
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein großartiger historischer Startpunkt für Ihre Radtour.",
+            "hu": "Nagyszerű történelmi kiindulópont a kerékpártúrához.",
+            "ro": "Un punct de plecare istoric excelent pentru turul cu bicicleta.",
+            "en": "A great historical starting point for your bike tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtisches Stadion von Kato Polemidia",
+            "hu": "Kato Polemidia városi stadion",
+            "ro": "Stadionul Municipal din Kato Polemidia",
+            "en": "Kato Polemidia Municipal Stadium"
+          },
+          "coords": [
+            32.99,
+            34.689
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:56",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Pause und schauen Sie, ob eine lokale Mannschaft trainiert.",
+            "hu": "Tarts egy rövid szünetet, és nézd meg, edz-e egy helyi csapat.",
+            "ro": "Faceți o scurtă pauză și vedeți dacă se antrenează vreo echipă locală.",
+            "en": "Take a short break and see if a local team is training."
+          }
+        },
+        {
+          "name": {
+            "de": "Archangel Michael Kirche",
+            "hu": "Mihály arkangyal templom",
+            "ro": "Biserica Arhanghelul Mihail",
+            "en": "Archangel Michael Church"
+          },
+          "coords": [
+            32.997,
+            34.692
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:33",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Eine wunderschöne, weniger besuchte Kirche, die einen Stopp wert ist.",
+            "hu": "Egy gyönyörű, kevésbé látogatott templom, ami megér egy megállót.",
+            "ro": "O biserică frumoasă, mai puțin vizitată, care merită o oprire.",
+            "en": "A beautiful, less-visited church worth a stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Kato Polemidia",
+            "hu": "Kato Polemidia Kulturális Központ",
+            "ro": "Centrul Cultural Kato Polemidia",
+            "en": "Kato Polemidia Cultural Centre"
+          },
+          "coords": [
+            32.9955,
+            34.687
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:19",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie die aktuellen Ausstellungen.",
+            "hu": "Tedd le a biciklidet, és fedezd fel az aktuális kiállításokat.",
+            "ro": "Parcați bicicleta și explorați expozițiile curente.",
+            "en": "Park your bike and explore any current exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagspause",
+            "hu": "Ebédszünet",
+            "ro": "Pauză de prânz",
+            "en": "Lunch Break"
+          },
+          "coords": [
+            32.997,
+            34.689
+          ],
+          "category": "gastro",
+          "arrive_at": "12:07",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Stärken Sie sich für die Nachmittagstour zum Stausee.",
+            "hu": "Erősíts meg a délutáni túrára a víztározóhoz.",
+            "ro": "Întăriți-vă pentru turul de după-amiază spre lac.",
+            "en": "Fuel up for the afternoon ride to the reservoir."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalpark Polemidia",
+            "hu": "Polemidia Nemzeti Park",
+            "ro": "Parcul Național Polemidia",
+            "en": "Polemidia National Park"
+          },
+          "coords": [
+            33.005,
+            34.705
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:45",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Die Radwege im Park sind ideal für eine entspannte Fahrt.",
+            "hu": "A park kerékpárútjai ideálisak egy laza tekeréshez.",
+            "ro": "Pistele de biciclete din parc sunt ideale pentru o plimbare relaxantă.",
+            "en": "The bike paths in the park are great for a relaxed ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Polemidia Stausee",
+            "hu": "Polemidia víztározó",
+            "ro": "Lacul de acumulare Polemidia",
+            "en": "Polemidia Reservoir"
+          },
+          "coords": [
+            33.015,
+            34.715
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "15:30",
+          "stay_min": 85,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Der Höhepunkt Ihrer Tour mit einer atemberaubenden Aussicht.",
+            "hu": "A túra csúcspontja, lélegzetelállító kilátással.",
+            "ro": "Punctul culminant al turului, cu o priveliște uluitoare.",
+            "en": "The highlight of your tour with a stunning view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Fahrrad und beginnen Sie den Tag am mittelalterlichen Turm, einem Zeugen der Geschichte. Ihre Route führt Sie am Stadion vorbei zu den ruhigeren Ecken der Stadt, wie der Erzengel-Michael-Kirche. Am Vormittag erreichen Sie das Kulturzentrum für eine kurze Pause vom Radfahren. Nach einem stärkenden Mittagessen nehmen Sie die Herausforderung an und radeln bergauf zum Nationalpark. Die Anstrengung wird belohnt, wenn Sie am Nachmittag am Polemidia-Stausee ankommen, wo Sie die Ruhe und die weite Aussicht genießen können. Der Rückweg ins Zentrum ist eine entspannte Abfahrt, die einen perfekten Abschluss für einen aktiven Tag bildet.",
+        "hu": "Pattanj a biciklidre, és kezdd a napot a középkori toronynál, a történelem tanújánál. Az útvonalad a stadion mellett vezet a város csendesebb részeihez, mint például a Mihály arkangyal templomhoz. Délelőtt elérkezel a kulturális központhoz egy rövid pihenőre. Egy kiadós ebéd után vállalkozol a kihívásra, és feltekersz a nemzeti parkhoz. Az erőfeszítés meghozza gyümölcsét, amikor délután megérkezel a Polemidia-víztározóhoz, ahol élvezheted a csendet és a tágas kilátást. A visszaút a központba egy laza lejtmenet, amely tökéletes lezárása egy aktív napnak.",
+        "ro": "Urcați-vă pe bicicletă și începeți ziua la turnul medieval, un martor al istoriei. Traseul vă duce pe lângă stadion spre colțurile mai liniștite ale orașului, cum ar fi Biserica Arhanghelul Mihail. Dimineața, ajungeți la centrul cultural pentru o scurtă pauză de la pedalat. După un prânz copios, acceptați provocarea și pedalați în sus spre parcul național. Efortul este răsplătit când ajungeți după-amiaza la lacul de acumulare Polemidia, unde vă puteți bucura de liniște și de priveliștea panoramică. Drumul de întoarcere spre centru este o coborâre relaxantă, încheind perfect o zi activă.",
+        "en": "Hop on your bike and start the day at the medieval tower, a witness to history. Your route takes you past the stadium to the quieter corners of the city, like the Archangel Michael Church. In the morning, you'll reach the cultural centre for a short break from cycling. After a hearty lunch, you take on the challenge and cycle uphill to the national park. The effort is rewarded when you arrive at the Polemidia reservoir in the afternoon, where you can enjoy the tranquility and the wide views. The ride back to the centre is a relaxed descent, providing a perfect end to an active day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frischer Orangensaft",
+            "tip": "An vielen Ständen erhältlich und unglaublich erfrischend."
+          },
+          {
+            "name": "Kleftiko",
+            "tip": "Langsam gegartes Lammfleisch, perfekt zur Stärkung."
+          },
+          {
+            "name": "Zypriotischer Kaffee",
+            "tip": "Stark und aromatisch, ideal für eine Pause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Friss narancslé",
+            "tip": "Sok standnál kapható és hihetetlenül frissítő."
+          },
+          {
+            "name": "Kleftiko",
+            "tip": "Lassan főtt bárányhús, tökéletes az erőgyűjtéshez."
+          },
+          {
+            "name": "Ciprusi kávé",
+            "tip": "Erős és aromás, ideális egy szünethez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suc proaspăt de portocale",
+            "tip": "Disponibil la multe standuri și incredibil de revigorant."
+          },
+          {
+            "name": "Kleftiko",
+            "tip": "Miel gătit lent, perfect pentru a vă reface forțele."
+          },
+          {
+            "name": "Cafea cipriotă",
+            "tip": "Puternică și aromată, ideală pentru o pauză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fresh Orange Juice",
+            "tip": "Available at many stalls and incredibly refreshing."
+          },
+          {
+            "name": "Kleftiko",
+            "tip": "Slow-cooked lamb, perfect for refueling."
+          },
+          {
+            "name": "Cypriot Coffee",
+            "tip": "Strong and aromatic, ideal for a break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Stausees",
+            "tip": "Setzen Sie sich ans Wasser und genießen Sie die Stille, weit weg vom Stadtlärm.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ein Pfad im Nationalpark",
+            "tip": "Halten Sie an einem schattigen Plätzchen an und lauschen Sie den Geräuschen der Natur.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A víztározó partja",
+            "tip": "Ülj le a víz mellé, és élvezd a csendet, távol a város zajától.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy ösvény a nemzeti parkban",
+            "tip": "Állj meg egy árnyékos helyen, és hallgasd a természet hangjait.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului de acumulare",
+            "tip": "Așezați-vă lângă apă și bucurați-vă de liniște, departe de zgomotul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O potecă în parcul național",
+            "tip": "Opriți-vă într-un loc umbrit și ascultați sunetele naturii.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shore of the Reservoir",
+            "tip": "Sit by the water and enjoy the quiet, far from the city noise.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A trail in the National Park",
+            "tip": "Stop at a shady spot and listen to the sounds of nature.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Für eventuell benötigtes Zubehör oder schnelle Reparaturen."
+          },
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie Honig oder Oliven als leichtes Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Esetlegesen szükséges kiegészítőkért vagy gyors javításokért."
+          },
+          {
+            "name": "Helyi piac",
+            "tip": "Vegyél mézet vagy olajbogyót könnyű szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Pentru orice accesorii de care ați putea avea nevoie sau reparații rapide."
+          },
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați miere sau măsline ca suveniruri ușoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "For any accessories you might need or quick repairs."
+          },
+          {
+            "name": "Local Market",
+            "tip": "Buy some honey or olives as an easy-to-carry souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen.",
+          "Tragen Sie einen Helm und helle Kleidung, um gut sichtbar zu sein.",
+          "Die Strecke zum Stausee hat einige Steigungen, seien Sie darauf vorbereitet."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizd a biciklidet, különösen a fékeket.",
+          "Viselj sisakot és világos ruhát, hogy jól látható legyél.",
+          "A víztározóhoz vezető úton vannak emelkedők, készülj fel rájuk."
+        ],
+        "ro": [
+          "Verificați bicicleta înainte de a pleca, în special frânele.",
+          "Purtați cască și haine deschise la culoare pentru a fi vizibil.",
+          "Traseul spre lac are câteva urcări, fiți pregătiți."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes.",
+          "Wear a helmet and bright clothing to be visible.",
+          "The route to the reservoir has some inclines, be prepared."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 25.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Historisches Zentrum",
+            "hu": "1. klaszter: Történelmi központ",
+            "ro": "Cluster 1: Centrul Istoric",
+            "en": "Cluster 1: Historical Centre"
+          },
+          "coords": [
+            32.9955,
+            34.687
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_mode": "car",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Kulturzentrums und beginnen Sie Ihren Rundgang.",
+            "hu": "Parkolj a kulturális központ közelében, és kezdd a sétát.",
+            "ro": "Parcați lângă centrul cultural și începeți turul pietonal.",
+            "en": "Park near the cultural centre and start your walking tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Kato Polemidia",
+            "hu": "Kato Polemidia Kulturális Központ",
+            "ro": "Centrul Cultural Kato Polemidia",
+            "en": "Kato Polemidia Cultural Centre"
+          },
+          "coords": [
+            32.9958,
+            34.6872
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Der erste Halt in Ihrem fußläufigen Cluster.",
+            "hu": "Az első megálló a gyalogos klaszterben.",
+            "ro": "Prima oprire din clusterul pietonal.",
+            "en": "The first stop in your walking cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Nikolaos Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "Agios Nikolaos Church"
+          },
+          "coords": [
+            32.998,
+            34.6885
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Kulturzentrum entfernt.",
+            "hu": "Egy rövid séta a kulturális központtól.",
+            "ro": "La o scurtă plimbare de centrul cultural.",
+            "en": "A short walk from the cultural centre."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Spirituelles Erbe & Mittagessen",
+            "hu": "2. klaszter: Spirituális örökség és ebéd",
+            "ro": "Cluster 2: Patrimoniu Spiritual & Prânz",
+            "en": "Cluster 2: Spiritual Heritage & Lunch"
+          },
+          "coords": [
+            32.9995,
+            34.691
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 10,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum nächsten Cluster und suchen Sie einen neuen Parkplatz.",
+            "hu": "Vezess a következő klaszterhez, és keress egy új parkolóhelyet.",
+            "ro": "Conduceți spre următorul cluster și găsiți un nou loc de parcare.",
+            "en": "Drive to the next cluster and find a new parking spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Panagia Evangelistria Kirche",
+            "hu": "Panagia Evangelistria templom",
+            "ro": "Biserica Panagia Evangelistria",
+            "en": "Panagia Evangelistria Church"
+          },
+          "coords": [
+            32.9998,
+            34.6912
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:25",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Die Hauptattraktion dieses Clusters.",
+            "hu": "Ennek a klaszternek a fő látványossága.",
+            "ro": "Atracția principală a acestui cluster.",
+            "en": "The main attraction of this cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einer Taverne",
+            "hu": "Ebéd egy tavernában",
+            "ro": "Prânz la o tavernă",
+            "en": "Lunch at a Tavern"
+          },
+          "coords": [
+            33.001,
+            34.6905
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Es gibt viele gute Optionen in Gehweite der Kirche.",
+            "hu": "A templomtól sétatávolságra számos jó lehetőség van.",
+            "ro": "Există multe opțiuni bune la distanță de mers pe jos de biserică.",
+            "en": "There are many good options within walking distance of the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Natur & Erholung",
+            "hu": "3. klaszter: Természet és kikapcsolódás",
+            "ro": "Cluster 3: Natură & Recreere",
+            "en": "Cluster 3: Nature & Recreation"
+          },
+          "coords": [
+            33.015,
+            34.715
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "14:25",
+          "stay_min": 180,
+          "hop_mode": "car",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 20.0,
+          "tip_5lang": {
+            "de": "Die längste Fahrt des Tages führt Sie in die Natur. Parken Sie am Stausee.",
+            "hu": "A nap leghosszabb útja a természetbe vezet. Parkolj a víztározónál.",
+            "ro": "Cea mai lungă călătorie a zilei vă duce în natură. Parcați lângă lac.",
+            "en": "The longest drive of the day takes you to nature. Park by the reservoir."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag ist in drei Cluster unterteilt, um das Beste aus Kato Polemidia zu erleben. Der Morgen beginnt im historischen Herzen, wo Sie parken und zu Fuß das Kulturzentrum und die Agios Nikolaos Kirche erkunden. Eine kurze Autofahrt bringt Sie zum zweiten Cluster. Hier besuchen Sie die beeindruckende Panagia Evangelistria Kirche und genießen ein ausgiebiges Mittagessen in einer nahegelegenen Taverne, alles zu Fuß. Am Nachmittag unternehmen Sie die längste Fahrt zum Polemidia-Stausee. Dort haben Sie reichlich Zeit, den Nationalpark zu durchwandern, die Aussicht zu genießen und sich von der Stadt zu erholen. Dieser Tag kombiniert städtische Kultur perfekt mit ländlicher Ruhe.",
+        "hu": "Az autós napot három klaszterre osztottuk, hogy a legtöbbet hozza ki Kato Polemidiából. A reggel a történelmi szívben kezdődik, ahol leparkol, és gyalog fedezi fel a kulturális központot és az Agios Nikolaos templomot. Egy rövid autóút visz a második klaszterhez. Itt meglátogatja a lenyűgöző Panagia Evangelistria templomot, és egy bőséges ebédet fogyaszt egy közeli tavernában, mindezt gyalogosan. Délután a leghosszabb útra indul a Polemidia-víztározóhoz. Ott bőven van ideje bejárni a nemzeti parkot, élvezni a kilátást és kikapcsolódni a város zajától. Ez a nap tökéletesen ötvözi a városi kultúrát a vidéki nyugalommal.",
+        "ro": "Ziua cu mașina este împărțită în trei clustere pentru a experimenta ce este mai bun în Kato Polemidia. Dimineața începe în inima istorică, unde parcați și explorați pe jos centrul cultural și Biserica Agios Nikolaos. O scurtă călătorie cu mașina vă duce la al doilea cluster. Aici vizitați impresionanta Biserică Panagia Evangelistria și savurați un prânz copios la o tavernă din apropiere, totul pe jos. După-amiaza, faceți cea mai lungă călătorie spre lacul de acumulare Polemidia. Acolo aveți suficient timp să vă plimbați prin parcul național, să vă bucurați de priveliște și să vă relaxați departe de oraș. Această zi combină perfect cultura urbană cu liniștea rurală.",
+        "en": "Your car day is divided into three clusters to experience the best of Kato Polemidia. The morning starts in the historical heart, where you park and explore the cultural centre and Agios Nikolaos Church on foot. A short drive takes you to the second cluster. Here, you visit the impressive Panagia Evangelistria Church and enjoy a hearty lunch at a nearby tavern, all within walking distance. In the afternoon, you take the longest drive to the Polemidia reservoir. There, you have ample time to wander through the national park, enjoy the views, and relax away from the city. This day perfectly combines urban culture with rural tranquility."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tavernen-Meze",
+            "tip": "Eine großartige Möglichkeit, viele lokale Gerichte auf einmal zu probieren."
+          },
+          {
+            "name": "Gegrillter Oktopus",
+            "tip": "Frisch und köstlich, oft in Tavernen in der Nähe des Meeres zu finden."
+          },
+          {
+            "name": "Lokaler Wein",
+            "tip": "Fragen Sie nach dem Hauswein, er ist oft ausgezeichnet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Taverna-Meze",
+            "tip": "Nagyszerű módja annak, hogy egyszerre sok helyi ételt kóstolj meg."
+          },
+          {
+            "name": "Grillezett polip",
+            "tip": "Friss és finom, gyakran a tenger közeli tavernákban található."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "Kérd a ház borát, gyakran kiváló."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Meze la tavernă",
+            "tip": "O modalitate excelentă de a încerca multe feluri de mâncare locale deodată."
+          },
+          {
+            "name": "Caracatiță la grătar",
+            "tip": "Proaspătă și delicioasă, adesea găsită în tavernele de lângă mare."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Întrebați de vinul casei, este adesea excelent."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tavern Meze",
+            "tip": "A great way to sample many local dishes at once."
+          },
+          {
+            "name": "Grilled Octopus",
+            "tip": "Fresh and delicious, often found in taverns near the sea."
+          },
+          {
+            "name": "Local Wine",
+            "tip": "Ask for the house wine; it's often excellent."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Polemidia Stausee",
+            "tip": "Das ultimative Ziel für Ruhe und Frieden an diesem Tag.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bänke im Nationalpark",
+            "tip": "Ein idealer Ort für eine Pause nach dem Mittagessen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Polemidia víztározó",
+            "tip": "A nap végső célja a csend és a béke szigetén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Padok a nemzeti parkban",
+            "tip": "Ideális hely egy ebéd utáni pihenőre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul de acumulare Polemidia",
+            "tip": "Destinația finală pentru liniște și pace în această zi.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bănci în parcul național",
+            "tip": "Un loc ideal pentru o pauză după prânz.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Polemidia Reservoir",
+            "tip": "The ultimate destination for peace and quiet on this day.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Benches in the National Park",
+            "tip": "An ideal spot for a post-lunch break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden außerhalb der Stadt",
+            "tip": "Suchen Sie nach frischem Obst, Olivenöl und Honig auf dem Weg zum Stausee."
+          },
+          {
+            "name": "Souvenirladen",
+            "tip": "Kaufen Sie handgefertigte Keramik oder Spitze."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Útszéli boltok a városon kívül",
+            "tip": "Keress friss gyümölcsöt, olívaolajat és mézet a víztározó felé vezető úton."
+          },
+          {
+            "name": "Szuvenírbolt",
+            "tip": "Vásárolj kézzel készített kerámiát vagy csipkét."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de fermă în afara orașului",
+            "tip": "Căutați fructe proaspete, ulei de măsline și miere în drum spre lac."
+          },
+          {
+            "name": "Magazin de suveniruri",
+            "tip": "Cumpărați ceramică sau dantele lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops outside the city",
+            "tip": "Look for fresh fruit, olive oil, and honey on the way to the reservoir."
+          },
+          {
+            "name": "Souvenir Shop",
+            "tip": "Buy some handmade pottery or lace."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie eine GPS-App, um die besten Parkplätze in der Nähe der Cluster zu finden.",
+          "Planen Sie zusätzliche Zeit für den Verkehr ein, besonders am späten Nachmittag.",
+          "Das Parken kann in den Zentren der Cluster eine Herausforderung sein, seien Sie geduldig."
+        ],
+        "hu": [
+          "Használj GPS-alkalmazást a legjobb parkolóhelyek megtalálásához a klaszterek közelében.",
+          "Számolj plusz idővel a forgalomra, különösen késő délután.",
+          "A parkolás kihívást jelenthet a klaszterek központjában, légy türelmes."
+        ],
+        "ro": [
+          "Utilizați o aplicație GPS pentru a găsi cele mai bune locuri de parcare în apropierea clusterelor.",
+          "Planificați timp suplimentar pentru trafic, mai ales după-amiaza târziu.",
+          "Parcarea poate fi o provocare în centrele clusterelor, aveți răbdare."
+        ],
+        "en": [
+          "Use a GPS app to find the best parking spots near the clusters.",
+          "Plan for extra time for traffic, especially in the late afternoon.",
+          "Parking can be challenging in the centres of the clusters, be patient."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 10.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Stadtzentrum",
+            "hu": "1. klaszter: Városközpont",
+            "ro": "Cluster 1: Centrul Orașului",
+            "en": "Cluster 1: City Centre"
+          },
+          "coords": [
+            32.9955,
+            34.687
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zur zentralen Haltestelle Polemidia.",
+            "hu": "Menj busszal a központi Polemidia megállóig.",
+            "ro": "Luați un autobuz până la stația centrală Polemidia.",
+            "en": "Take a bus to the central Polemidia stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Kato Polemidia",
+            "hu": "Kato Polemidia Kulturális Központ",
+            "ro": "Centrul Cultural Kato Polemidia",
+            "en": "Kato Polemidia Cultural Centre"
+          },
+          "coords": [
+            32.9958,
+            34.6872
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nur wenige Schritte von der Bushaltestelle entfernt.",
+            "hu": "Csak néhány lépésre a buszmegállótól.",
+            "ro": "La doar câțiva pași de stația de autobuz.",
+            "en": "Just a few steps from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Panagia Evangelistria Kirche",
+            "hu": "Panagia Evangelistria templom",
+            "ro": "Biserica Panagia Evangelistria",
+            "en": "Panagia Evangelistria Church"
+          },
+          "coords": [
+            32.9995,
+            34.691
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:18",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang durch die Nachbarschaft.",
+            "hu": "Kellemes séta a környéken.",
+            "ro": "O plimbare plăcută prin cartier.",
+            "en": "A pleasant walk through the neighbourhood."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            32.997,
+            34.689
+          ],
+          "category": "gastro",
+          "arrive_at": "11:11",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Finden Sie eine Taverne auf dem Weg zurück zur Bushaltestelle.",
+            "hu": "Keress egy tavernát visszafelé a buszmegállóhoz.",
+            "ro": "Găsiți o tavernă în drum spre stația de autobuz.",
+            "en": "Find a tavern on your way back towards the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Naturpark",
+            "hu": "2. klaszter: Természeti Park",
+            "ro": "Cluster 2: Parcul Natural",
+            "en": "Cluster 2: Nature Park"
+          },
+          "coords": [
+            33.005,
+            34.705
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:03",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus in Richtung des Stausees.",
+            "hu": "Menj busszal a víztározó irányába.",
+            "ro": "Luați autobuzul spre lacul de acumulare.",
+            "en": "Take the bus heading towards the reservoir."
+          }
+        },
+        {
+          "name": {
+            "de": "Polemidia Stausee",
+            "hu": "Polemidia víztározó",
+            "ro": "Lacul de acumulare Polemidia",
+            "en": "Polemidia Reservoir"
+          },
+          "coords": [
+            33.008,
+            34.71
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "15:07",
+          "stay_min": 63,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Nationalpark zum malerischen Aussichtspunkt.",
+            "hu": "Rövid séta a nemzeti parktól a festői kilátóig.",
+            "ro": "O scurtă plimbare de la parcul național la punctul de belvedere pitoresc.",
+            "en": "A short walk from the national park to the scenic viewpoint."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt mit einer Busfahrt ins Zentrum von Kato Polemidia. Von der Haltestelle aus erkunden Sie zu Fuß das kulturelle Herz der Stadt, einschließlich des Kulturzentrums und der Panagia Evangelistria Kirche. Nach einem Mittagessen in einer lokalen Taverne nehmen Sie einen weiteren Bus, der Sie aus der Stadt hinaus in die Natur bringt. Der Nachmittag ist dem Nationalpark und dem Polemidia-Stausee gewidmet, eine willkommene Abwechslung vom städtischen Trubel. Ein kurzer Spaziergang verbindet diese beiden Naturhighlights. Am späten Nachmittag fahren Sie mit dem Bus zurück und beenden einen Tag, der Kultur und Natur mühelos miteinander verbindet.",
+        "hu": "A tömegközlekedéssel töltött nap egy buszúttal kezdődik Kato Polemidia központjába. A megállótól gyalogosan fedezi fel a város kulturális szívét, beleértve a kulturális központot és a Panagia Evangelistria templomot. Egy helyi tavernában elköltött ebéd után egy másik buszra száll, amely kiviszi a városból a természetbe. A délután a nemzeti parknak és a Polemidia-víztározónak van szentelve, ami kellemes kikapcsolódás a városi nyüzsgésből. Rövid séta köti össze ezt a két természeti látványosságot. Késő délután busszal tér vissza, és egy olyan napot zár, amely könnyedén ötvözi a kultúrát és a természetet.",
+        "ro": "Ziua cu transportul public începe cu o călătorie cu autobuzul spre centrul orașului Kato Polemidia. De la stație, explorați pe jos inima culturală a orașului, inclusiv centrul cultural și Biserica Panagia Evangelistria. După prânz la o tavernă locală, luați un alt autobuz care vă duce în afara orașului, în natură. După-amiaza este dedicată parcului național și lacului de acumulare Polemidia, o pauză binevenită de la agitația urbană. O scurtă plimbare leagă aceste două atracții naturale. Spre seară, vă întoarceți cu autobuzul, încheind o zi care îmbină fără efort cultura și natura.",
+        "en": "Your day on public transport begins with a bus ride to the centre of Kato Polemidia. From the stop, you'll explore the city's cultural heart on foot, including the cultural centre and Panagia Evangelistria Church. After lunch at a local tavern, you'll take another bus out of the city and into nature. The afternoon is dedicated to the national park and the Polemidia reservoir, a welcome break from the urban bustle. A short walk connects these two natural highlights. In the late afternoon, you'll take the bus back, ending a day that effortlessly combines culture and nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gyros im Pita",
+            "tip": "Ein schneller und leckerer Snack für unterwegs."
+          },
+          {
+            "name": "Loukoumades",
+            "tip": "Kleine, in Sirup getränkte Teigbällchen als süßer Abschluss."
+          },
+          {
+            "name": "Eiskaffee (Frappé)",
+            "tip": "Ein Muss an einem heißen zypriotischen Tag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyros pitában",
+            "tip": "Gyors és finom harapnivaló útközben."
+          },
+          {
+            "name": "Loukoumades",
+            "tip": "Kicsi, szirupba mártott fánkgolyók édes lezárásként."
+          },
+          {
+            "name": "Jegeskávé (Frappé)",
+            "tip": "Kötelező egy forró ciprusi napon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gyros în pită",
+            "tip": "O gustare rapidă și delicioasă pentru drum."
+          },
+          {
+            "name": "Loukoumades",
+            "tip": "Gogoși mici, însiropate, ca desert dulce."
+          },
+          {
+            "name": "Cafea cu gheață (Frappé)",
+            "tip": "O necesitate într-o zi fierbinte cipriotă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gyros in a Pita",
+            "tip": "A quick and delicious snack for on the go."
+          },
+          {
+            "name": "Loukoumades",
+            "tip": "Small, syrup-soaked doughnuts for a sweet treat."
+          },
+          {
+            "name": "Iced Coffee (Frappé)",
+            "tip": "A must-have on a hot Cypriot day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine ruhige Ecke im Nationalpark",
+            "tip": "Entfliehen Sie dem Lärm und genießen Sie die Naturgeräusche.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussichtspunkt am Stausee",
+            "tip": "Ein perfekter Ort, um den Gedanken nachzuhängen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy csendes zug a nemzeti parkban",
+            "tip": "Menekülj el a zaj elől, és élvezd a természet hangjait.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátó a víztározónál",
+            "tip": "Tökéletes hely az elmélkedésre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Un colț liniștit în parcul național",
+            "tip": "Evadați de zgomot și bucurați-vă de sunetele naturii.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Punct de belvedere la lacul de acumulare",
+            "tip": "Un loc perfect pentru a vă lăsa purtat de gânduri.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "A quiet corner in the National Park",
+            "tip": "Escape the noise and enjoy the sounds of nature.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Viewpoint at the Reservoir",
+            "tip": "A perfect place to get lost in thought.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske (Periptera)",
+            "tip": "Hier finden Sie Getränke, Snacks und Bustickets."
+          },
+          {
+            "name": "Lokale Handwerksläden",
+            "tip": "Suchen Sie nach kleinen, einzigartigen Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok (Periptera)",
+            "tip": "Itt italokat, rágcsálnivalókat és buszjegyeket találhat."
+          },
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keress kicsi, egyedi szuveníreket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri (Periptera)",
+            "tip": "Aici puteți găsi băuturi, gustări și bilete de autobuz."
+          },
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Căutați suveniruri mici și unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks (Periptera)",
+            "tip": "You can find drinks, snacks, and bus tickets here."
+          },
+          {
+            "name": "Local Craft Shops",
+            "tip": "Look for small, unique souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, besonders für die letzte Rückfahrt.",
+          "Haben Sie Kleingeld für Tickets parat, die Sie im Bus kaufen."
+        ],
+        "hu": [
+          "Vásárolj napijegyet a buszra, hogy pénzt takaríts meg.",
+          "Ellenőrizd előre a buszmenetrendet, különösen az utolsó visszaútra vonatkozóan.",
+          "Legyen nálad aprópénz a buszon vásárolt jegyekhez."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru a economisi bani.",
+          "Verificați programul autobuzelor în avans, mai ales pentru ultima călătorie de întoarcere.",
+          "Aveți la voi mărunt pentru biletele cumpărate din autobuz."
+        ],
+        "en": [
+          "Buy a day pass for the bus to save money.",
+          "Check the bus schedule in advance, especially for the last return trip.",
+          "Have small change ready for tickets bought on the bus."
+        ]
+      }
+    }
+  }
+}

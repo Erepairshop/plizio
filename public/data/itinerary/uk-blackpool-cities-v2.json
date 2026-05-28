@@ -1,0 +1,1488 @@
+{
+  "city_id": "uk-blackpool-cities-v2",
+  "anchor": {
+    "name": "Blackpool",
+    "coords": [
+      -3.0357,
+      53.8175
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "19:05",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "North Pier",
+            "hu": "Északi móló",
+            "ro": "Debarcaderul de Nord",
+            "en": "North Pier"
+          },
+          "coords": [
+            -3.0589,
+            53.819
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die klassische viktorianische Architektur und die Arkaden.",
+            "hu": "Élvezd a klasszikus viktoriánus építészetet és a játéktermeket.",
+            "ro": "Bucurați-vă de arhitectura victoriană clasică și de arcade.",
+            "en": "Enjoy the classic Victorian architecture and the arcades."
+          }
+        },
+        {
+          "name": {
+            "de": "Blackpool Tower",
+            "hu": "Blackpool-torony",
+            "ro": "Turnul Blackpool",
+            "en": "Blackpool Tower"
+          },
+          "coords": [
+            -3.055,
+            53.816
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Buchen Sie die Zirkusvorstellung im Voraus, sie ist im Ticket inbegriffen.",
+            "hu": "Foglald le előre a cirkuszi előadást, benne van a jegy árában.",
+            "ro": "Rezervați spectacolul de circ în avans, este inclus în bilet.",
+            "en": "Book the circus show in advance, it's included with the ticket."
+          }
+        },
+        {
+          "name": {
+            "de": "Grand Theatre",
+            "hu": "Grand Theatre",
+            "ro": "Marele Teatru",
+            "en": "Grand Theatre"
+          },
+          "coords": [
+            -3.052,
+            53.817
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:54",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Machen Sie eine Führung, um das wunderschöne Interieur zu sehen.",
+            "hu": "Vegyél részt egy vezetett túrán, hogy lásd a gyönyörű belső teret.",
+            "ro": "Faceți un tur ghidat pentru a vedea interiorul frumos.",
+            "en": "Take a heritage tour to see the beautiful interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Winter Gardens",
+            "hu": "Winter Gardens",
+            "ro": "Grădinile de Iarnă",
+            "en": "Winter Gardens"
+          },
+          "coords": [
+            -3.051,
+            53.815
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie, ob während Ihres Besuchs eine Ausstellung oder Veranstaltung stattfindet.",
+            "hu": "Nézd meg, van-e valamilyen kiállítás vagy esemény a látogatásod alatt.",
+            "ro": "Verificați dacă există o expoziție sau un eveniment în timpul vizitei dumneavoastră.",
+            "en": "Check if there's an exhibition or event on during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "The Golden Mile",
+            "hu": "Az Arany Mérföld",
+            "ro": "Mila de Aur",
+            "en": "The Golden Mile"
+          },
+          "coords": [
+            -3.056,
+            53.811
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie die traditionellen Fish and Chips in einem der vielen Läden.",
+            "hu": "Kóstold meg a hagyományos fish and chipset az egyik üzletben.",
+            "ro": "Încercați tradiționalul fish and chips de la una dintre numeroasele tarabe.",
+            "en": "Try the traditional fish and chips from one of the many shops."
+          }
+        },
+        {
+          "name": {
+            "de": "Blackpool Pleasure Beach",
+            "hu": "Blackpool Pleasure Beach",
+            "ro": "Plaja de Agrement Blackpool",
+            "en": "Blackpool Pleasure Beach"
+          },
+          "coords": [
+            -3.056,
+            53.791
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:48",
+          "stay_min": 180,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kaufen Sie einen Ride Pass online, um Geld und Zeit zu sparen.",
+            "hu": "Vegyél online bérletet, hogy pénzt és időt spórolj.",
+            "ro": "Cumpărați un abonament online pentru a economisi bani și timp.",
+            "en": "Buy a ride pass online to save money and time."
+          }
+        },
+        {
+          "name": {
+            "de": "Blackpool Illuminations",
+            "hu": "Blackpool-i fények",
+            "ro": "Iluminările din Blackpool",
+            "en": "Blackpool Illuminations"
+          },
+          "coords": [
+            -3.055,
+            53.825
+          ],
+          "category": "landmark",
+          "arrive_at": "18:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 77,
+          "hop_from_prev_km": 3.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Am besten im Herbst zu sehen. Gehen Sie die Promenade entlang, um die volle Wirkung zu erzielen.",
+            "hu": "Ősszel a legszebb. Sétálj végig a promenádon a teljes élményért.",
+            "ro": "Cel mai bine de văzut toamna. Plimbați-vă de-a lungul promenadei pentru efectul complet.",
+            "en": "Best seen in autumn. Walk the promenade for the full effect."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Blackpool beginnt am historischen North Pier, wo Sie die Seeluft und den viktorianischen Charme genießen. Am Vormittag erklimmen Sie den berühmten Blackpool Tower für eine atemberaubende Aussicht und besuchen die eleganten Theater der Stadt. Der Nachmittag ist dem Nervenkitzel gewidmet, mit einem Spaziergang über die Golden Mile, der Sie zum berühmten Pleasure Beach führt, einem Paradies für Achterbahnfans. Zum Abschluss des Tages spazieren Sie bei Einbruch der Dunkelheit entlang der Promenade, um die magischen Blackpool Illuminations zu bewundern, ein unvergessliches Lichtermeer.",
+        "hu": "A blackpooli napod a történelmi Északi mólónál kezdődik, ahol élvezheted a tengeri levegőt és a viktoriánus hangulatot. Délelőtt megmászod az ikonikus Blackpool-tornyot a lélegzetelállító kilátásért, és felfedezed a város elegáns színházait. A délután az izgalmaké, egy sétával az Arany Mérföldön, amely elvezet a híres Pleasure Beach-re, a hullámvasutak szerelmeseinek paradicsomába. A nap zárásaként, ahogy leszáll az este, sétálj végig a promenádon, hogy megcsodáld a varázslatos Blackpooli Fényeket, a fények felejthetetlen látványát.",
+        "ro": "Ziua dvs. în Blackpool începe la istoricul Debarcader de Nord, absorbind aerul mării și farmecul victorian. Dimineața urcați în emblematicul Turn Blackpool pentru priveliști uluitoare și explorați teatrele elegante ale orașului. După-amiaza este dedicată distracției, cu o plimbare pe Mila de Aur care vă duce la faimoasa Plajă de Agrement, un paradis pentru iubitorii de montane ruse. Pentru a încheia ziua, pe măsură ce se lasă seara, plimbați-vă de-a lungul promenadei pentru a admira magicele Iluminări din Blackpool, un spectacol de neuitat de lumini.",
+        "en": "Your day in Blackpool begins at the historic North Pier, soaking up the sea air and Victorian charm. Your morning involves ascending the iconic Blackpool Tower for breathtaking views and exploring the city's elegant theatres. The afternoon is dedicated to thrills, with a stroll down the Golden Mile leading you to the famous Pleasure Beach, a haven for rollercoaster enthusiasts. To cap off the day, as dusk falls, wander along the promenade to witness the magical Blackpool Illuminations, an unforgettable spectacle of light."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Ein Muss an der Küste. Genießen Sie es mit Salz und Essig am Strand."
+          },
+          {
+            "name": "Blackpool Rock",
+            "tip": "Eine traditionelle Süßigkeit, perfekt als Souvenir."
+          },
+          {
+            "name": "Donuts",
+            "tip": "Frisch und warm von einem der vielen Stände an der Promenade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Kötelező a tengerparton. Élvezd sóval és ecettel a strandon."
+          },
+          {
+            "name": "Blackpool Rock cukorka",
+            "tip": "Hagyományos édesség, tökéletes szuvenírnek."
+          },
+          {
+            "name": "Fánk",
+            "tip": "Frissen és melegen a promenád egyik standjáról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fish and Chips",
+            "tip": "O necesitate pe litoral. Savurați cu sare și oțet pe plajă."
+          },
+          {
+            "name": "Baton de zahăr Blackpool",
+            "tip": "Un dulce tradițional, perfect ca suvenir."
+          },
+          {
+            "name": "Gogoși",
+            "tip": "Proaspete și calde de la una dintre numeroasele tarabe de pe promenadă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish and Chips",
+            "tip": "A seaside essential. Enjoy with salt and vinegar on the beach."
+          },
+          {
+            "name": "Blackpool Rock",
+            "tip": "A traditional stick of hard candy, perfect as a souvenir."
+          },
+          {
+            "name": "Donuts",
+            "tip": "Fresh and warm from one of the many promenade stalls."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stanley Park",
+            "tip": "Entfliehen Sie dem Trubel der Küste in dieser riesigen, ruhigen Grünanlage.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Strand am frühen Morgen",
+            "tip": "Erleben Sie den Strand, bevor die Menschenmassen ankommen, für einen ruhigen Spaziergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "North Pier am Ende",
+            "tip": "Gehen Sie bis zum Ende des Piers für ein Gefühl von Frieden und eine tolle Aussicht.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stanley Park",
+            "tip": "Menekülj el a tengerpart nyüzsgése elől ebben a hatalmas, békés zöldterületen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kora reggeli strand",
+            "tip": "Élvezd a strandot a tömeg érkezése előtt egy békés sétáért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Az Északi móló vége",
+            "tip": "Sétálj el a móló végéig a béke érzéséért és a nagyszerű kilátásért.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Stanley",
+            "tip": "Evadați din agitația de pe faleză în acest spațiu verde vast și liniștit.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plaja dimineața devreme",
+            "tip": "Experimentați plaja înainte de sosirea mulțimilor pentru o plimbare liniștită.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Capătul Debarcaderului de Nord",
+            "tip": "Mergeți până la capătul debarcaderului pentru un sentiment de pace și priveliști grozave.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Stanley Park",
+            "tip": "Escape the hustle of the seafront in this vast, peaceful green space.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Early Morning Beach",
+            "tip": "Experience the beach before the crowds arrive for a peaceful walk.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "End of North Pier",
+            "tip": "Walk to the very end of the pier for a sense of peace and great views.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Golden Mile Souvenirläden",
+            "tip": "Finden Sie alles, von Postkarten bis hin zu „I Love Blackpool“-T-Shirts."
+          },
+          {
+            "name": "Houndshill Shopping Centre",
+            "tip": "Für bekannte Markennamen und ein moderneres Einkaufserlebnis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Golden Mile szuvenírboltok",
+            "tip": "Találsz itt mindent, a képeslapoktól az 'I Love Blackpool' pólókig."
+          },
+          {
+            "name": "Houndshill bevásárlóközpont",
+            "tip": "Nagynevű márkákért és egy modernebb vásárlási élményért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele de suveniruri de pe Golden Mile",
+            "tip": "Găsiți totul, de la cărți poștale la tricouri „I Love Blackpool”."
+          },
+          {
+            "name": "Centrul Comercial Houndshill",
+            "tip": "Pentru mărci de renume și o experiență de cumpărături mai modernă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Golden Mile Souvenir Shops",
+            "tip": "Find everything from postcards to 'I Love Blackpool' t-shirts."
+          },
+          {
+            "name": "Houndshill Shopping Centre",
+            "tip": "For high-street brands and a more modern shopping experience."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Überprüfen Sie die Gezeitenzeiten, wenn Sie Zeit am Strand verbringen möchten.",
+          "Eine Powerbank für Ihr Telefon ist eine gute Idee, da Sie viele Fotos machen werden.",
+          "Die Illuminations sind saisonal (Herbst), überprüfen Sie die Daten vor Ihrem Besuch."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, sokat fogsz gyalogolni.",
+          "Ellenőrizd az árapály menetrendjét, ha a strandon szeretnél időt tölteni.",
+          "Egy power bank a telefonodhoz jó ötlet, mert sok képet fogsz készíteni.",
+          "A Fények szezonálisak (ősszel), ellenőrizd a dátumokat a látogatás előtt."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, veți merge mult pe jos.",
+          "Verificați orele mareelor dacă intenționați să petreceți timp pe plajă.",
+          "O baterie externă pentru telefon este o idee bună, deoarece veți face multe fotografii.",
+          "Iluminările sunt sezoniere (toamna), verificați datele înainte de a vizita."
+        ],
+        "en": [
+          "Wear comfortable shoes, you will be doing a lot of walking.",
+          "Check the tide times if you plan on spending time on the beach.",
+          "A power bank for your phone is a good idea, as you'll be taking lots of photos.",
+          "The Illuminations are seasonal (autumn), check the dates before you visit."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:52",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stanley Park",
+            "hu": "Stanley Park",
+            "ro": "Parcul Stanley",
+            "en": "Stanley Park"
+          },
+          "coords": [
+            -3.02,
+            53.809
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Mieten Sie ein Boot auf dem See oder bewundern Sie einfach die wunderschönen Gärten.",
+            "hu": "Bérelj csónakot a tavon, vagy csak csodáld a gyönyörű kerteket.",
+            "ro": "Închiriați o barcă pe lac sau pur și simplu admirați grădinile frumoase.",
+            "en": "Hire a boat on the lake or simply admire the beautiful gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Winter Gardens",
+            "hu": "Winter Gardens",
+            "ro": "Grădinile de Iarnă",
+            "en": "Winter Gardens"
+          },
+          "coords": [
+            -3.051,
+            53.815
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab und erkunden Sie diesen riesigen Unterhaltungskomplex.",
+            "hu": "Zárd le biztonságosan a biciklidet, és fedezd fel ezt a hatalmas szórakoztató komplexumot.",
+            "ro": "Legați-vă bicicleta în siguranță și explorați acest complex de divertisment vast.",
+            "en": "Lock up your bike securely and explore this vast entertainment complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Blackpool Tower",
+            "hu": "Blackpool-torony",
+            "ro": "Turnul Blackpool",
+            "en": "Blackpool Tower"
+          },
+          "coords": [
+            -3.055,
+            53.816
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:36",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie die 4D-Kinoerlebnis, bevor Sie nach oben fahren.",
+            "hu": "Élvezd a 4D moziélményt, mielőtt felmész a toronyba.",
+            "ro": "Bucurați-vă de experiența cinematografică 4D înainte de a urca.",
+            "en": "Enjoy the 4D cinema experience before you go up the tower."
+          }
+        },
+        {
+          "name": {
+            "de": "North Pier",
+            "hu": "Északi móló",
+            "ro": "Debarcaderul de Nord",
+            "en": "North Pier"
+          },
+          "coords": [
+            -3.0589,
+            53.819
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für eine Pause und um die Aussicht auf das Meer zu genießen.",
+            "hu": "Nagyszerű hely egy kis szünetre és a tengeri kilátás élvezetére.",
+            "ro": "Un loc minunat pentru a lua o pauză și a admira priveliștea mării.",
+            "en": "A great spot to take a break and enjoy the sea views."
+          }
+        },
+        {
+          "name": {
+            "de": "The Golden Mile",
+            "hu": "Az Arany Mérföld",
+            "ro": "Mila de Aur",
+            "en": "The Golden Mile"
+          },
+          "coords": [
+            -3.056,
+            53.811
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie die spezielle Fahrradspur entlang und genießen Sie die Atmosphäre.",
+            "hu": "Kerékpározz végig a kijelölt sávon és élvezd a hangulatot.",
+            "ro": "Pedalați pe pista de biciclete dedicată și bucurați-vă de atmosferă.",
+            "en": "Cycle along the dedicated bike lane and soak in the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Blackpool Pleasure Beach",
+            "hu": "Blackpool Pleasure Beach",
+            "ro": "Plaja de Agrement Blackpool",
+            "en": "Blackpool Pleasure Beach"
+          },
+          "coords": [
+            -3.056,
+            53.791
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:05",
+          "stay_min": 180,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Es gibt Fahrradständer in der Nähe des Eingangs. Schließen Sie Ihr Rad gut ab!",
+            "hu": "A bejárat közelében vannak kerékpártárolók. Zárd le jól a biciklidet!",
+            "ro": "Există suporturi pentru biciclete lângă intrare. Asigurați-vă bicicleta!",
+            "en": "There are bike racks near the entrance. Lock your bike securely!"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag im ruhigen Stanley Park und genießen Sie die Natur, bevor Sie ins Zentrum fahren. Am Vormittag erkunden Sie die kulturellen Sehenswürdigkeiten wie die Winter Gardens und den Blackpool Tower und genießen die Freiheit, die Ihnen Ihr Fahrrad bietet. Der Nachmittag führt Sie auf eine aufregende Fahrt entlang der Küste über die Golden Mile, die im weltberühmten Pleasure Beach gipfelt. Dies ist eine perfekte Mischung aus entspannter Erkundung und Küsten-Nervenkitzel.",
+        "hu": "Kezdd a biciklis napot a békés Stanley Parkban, élvezd a természetet, mielőtt a központba tekersz. Délelőtt fedezd fel a kulturális nevezetességeket, mint a Winter Gardens és a Blackpool-torony, kihasználva a kerékpár adta szabadságot. Délután egy izgalmas tengerparti tekerés következik az Arany Mérföldön, amely a világhírű Pleasure Beach-en csúcsosodik ki. Ez a nyugodt felfedezés és a tengerparti izgalmak tökéletes keveréke.",
+        "ro": "Începeți-vă ziua de ciclism în liniștitul Parc Stanley, bucurându-vă de natură înainte de a vă îndrepta spre centru. Dimineața explorați reperele culturale precum Grădinile de Iarnă și Turnul Blackpool, profitând de libertatea pe care v-o oferă bicicleta. După-amiaza vă poartă într-o plimbare antrenantă de-a lungul coastei pe Mila de Aur, culminând la faimoasa Plajă de Agrement. Aceasta este o combinație perfectă de explorare relaxată și senzații tari pe litoral.",
+        "en": "Start your cycling day at the peaceful Stanley Park, enjoying nature before heading to the centre. Your morning is for exploring cultural landmarks like the Winter Gardens and Blackpool Tower, enjoying the freedom your bike provides. The afternoon takes you on an exhilarating coastal ride down the Golden Mile, culminating at the world-famous Pleasure Beach. This is a perfect blend of relaxed exploration and seaside thrills."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Café im Stanley Park",
+            "tip": "Ein schöner Ort für einen Kaffee und Kuchen vor Ihrer Fahrt."
+          },
+          {
+            "name": "Yorkshire Fisheries",
+            "tip": "Einer der ältesten und besten Fish-and-Chip-Läden der Stadt."
+          },
+          {
+            "name": "Eis von Notarianni's",
+            "tip": "Ein lokaler Favorit, perfekt für eine Belohnung nach der Fahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stanley Park kávézója",
+            "tip": "Egy szép hely egy kávéra és süteményre a tekerés előtt."
+          },
+          {
+            "name": "Yorkshire Fisheries",
+            "tip": "A város egyik legrégebbi és legjobb fish and chip üzlete."
+          },
+          {
+            "name": "Fagylalt a Notarianni's-tól",
+            "tip": "Helyi kedvenc, tökéletes jutalom a tekerés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafeneaua din Parcul Stanley",
+            "tip": "Un loc minunat pentru o cafea și o prăjitură înainte de plimbare."
+          },
+          {
+            "name": "Yorkshire Fisheries",
+            "tip": "Unul dintre cele mai vechi și mai bune magazine de fish and chips din oraș."
+          },
+          {
+            "name": "Înghețată de la Notarianni's",
+            "tip": "Un favorit local, perfect pentru o recompensă după plimbare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stanley Park Cafe",
+            "tip": "A lovely spot for a coffee and cake before your ride."
+          },
+          {
+            "name": "Yorkshire Fisheries",
+            "tip": "One of the oldest and best fish and chip shops in town."
+          },
+          {
+            "name": "Ice Cream from Notarianni's",
+            "tip": "A local favourite, perfect for a post-ride treat."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stanley Park Gärten",
+            "tip": "Finden Sie eine ruhige Ecke in den italienischen Gärten oder am See.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Südstrand",
+            "tip": "Fahren Sie südlich von Pleasure Beach für einen ruhigeren Abschnitt der Küste.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kunstgalerie Grundy",
+            "tip": "Ein ruhiger Raum, um zeitgenössische Kunst zu betrachten, in der Nähe des Zentrums.",
+            "emoji": "🖼️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stanley Park kertjei",
+            "tip": "Találj egy csendes sarkot az olasz kertekben vagy a tó mellett.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Déli strand",
+            "tip": "Tekerj a Pleasure Beach-től délre egy csendesebb partszakaszért.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grundy Művészeti Galéria",
+            "tip": "Egy csendes hely a kortárs művészet szemlélésére, közel a központhoz.",
+            "emoji": "🖼️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Parcului Stanley",
+            "tip": "Găsiți un colț liniștit în Grădinile Italiene sau lângă lac.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plaja de Sud",
+            "tip": "Pedalați la sud de Plaja de Agrement pentru o porțiune mai liniștită de coastă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Galeria de Artă Grundy",
+            "tip": "Un spațiu liniștit pentru a vizualiza arta contemporană, aproape de centru.",
+            "emoji": "🖼️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Stanley Park Gardens",
+            "tip": "Find a quiet corner in the Italian Gardens or by the lake.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "South Beach",
+            "tip": "Cycle south of Pleasure Beach for a quieter stretch of coast.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grundy Art Gallery",
+            "tip": "A quiet space to view contemporary art, near the town centre.",
+            "emoji": "🖼️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Promenade Fahrradverleih",
+            "tip": "Wenn Sie kein eigenes Fahrrad haben, gibt es entlang der Küste viele Verleihstationen."
+          },
+          {
+            "name": "The Rock Shop",
+            "tip": "Kaufen Sie eine Stange traditioneller Blackpool-Süßigkeiten, um sie mit nach Hause zu nehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Promenád kerékpárkölcsönző",
+            "tip": "Ha nincs saját biciklid, számos kölcsönző található a part mentén."
+          },
+          {
+            "name": "The Rock Shop",
+            "tip": "Vásárolj egy rúd hagyományos Blackpool édességet hazavitelre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Închiriere de biciclete pe promenadă",
+            "tip": "Dacă nu aveți propria bicicletă, există o mulțime de locuri de închiriat de-a lungul falezei."
+          },
+          {
+            "name": "The Rock Shop",
+            "tip": "Cumpărați un baton de bomboane tradiționale din Blackpool pentru a-l lua acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Promenade Bike Hire",
+            "tip": "If you don't have your own bike, there are plenty of hire places along the front."
+          },
+          {
+            "name": "The Rock Shop",
+            "tip": "Buy a stick of traditional Blackpool rock candy to take home."
+          }
+        ]
+      },
+      "tips": [
+        "Die Promenade hat einen eigenen Radweg, der das Radfahren sicher und einfach macht.",
+        "Nehmen Sie ein gutes Schloss mit, besonders wenn Sie vorhaben, Attraktionen zu betreten.",
+        "Der Wind kann an der Küste stark sein, seien Sie also vorbereitet.",
+        "Stanley Park ist ein großartiger Ausgangspunkt mit guten Parkmöglichkeiten, wenn Sie mit dem Auto anreisen."
+      ]
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Stanley Park",
+            "hu": "Stanley Park",
+            "ro": "Parcul Stanley",
+            "en": "Stanley Park"
+          },
+          "coords": [
+            -3.02,
+            53.809
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und genießen Sie einen ruhigen Morgen, bevor Sie in die Hektik der Küste fahren.",
+            "hu": "Parkolj itt és élvezz egy békés reggelt, mielőtt a nyüzsgő tengerpartra indulsz.",
+            "ro": "Parcați aici și bucurați-vă de o dimineață liniștită înainte de a vă îndrepta spre agitația de pe faleză.",
+            "en": "Park here and enjoy a peaceful morning before heading to the bustle of the seafront."
+          }
+        },
+        {
+          "name": {
+            "de": "Blackpool Pleasure Beach",
+            "hu": "Blackpool Pleasure Beach",
+            "ro": "Plaja de Agrement Blackpool",
+            "en": "Blackpool Pleasure Beach"
+          },
+          "coords": [
+            -3.056,
+            53.791
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:45",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Nutzen Sie den offiziellen Parkplatz. Buchen Sie online, um Zeit zu sparen.",
+            "hu": "Használd a hivatalos parkolót. Foglalj online, hogy időt spórolj.",
+            "ro": "Utilizați parcarea oficială. Rezervați online pentru a economisi timp.",
+            "en": "Use the official car park. Book online to save time."
+          }
+        },
+        {
+          "name": {
+            "de": "The Golden Mile (Spaziergang)",
+            "hu": "Az Arany Mérföld (séta)",
+            "ro": "Mila de Aur (plimbare)",
+            "en": "The Golden Mile (Walk)"
+          },
+          "coords": [
+            -3.056,
+            53.811
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto stehen und spazieren Sie einen Teil dieser berühmten Promenade entlang.",
+            "hu": "Hagyd az autót, és sétálj egyet ezen a híres sétányon.",
+            "ro": "Lăsați mașina în urmă și plimbați-vă pe o porțiune din această faimoasă promenadă.",
+            "en": "Leave the car and walk a section of this famous promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Blackpool Tower (Cluster)",
+            "hu": "Blackpool-torony (Klaszter)",
+            "ro": "Turnul Blackpool (Cluster)",
+            "en": "Blackpool Tower (Cluster)"
+          },
+          "coords": [
+            -3.055,
+            53.816
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 6,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Central Car Park und erkunden Sie diesen Bereich zu Fuß.",
+            "hu": "Parkolj a Central Car Parkban, és fedezd fel ezt a területet gyalog.",
+            "ro": "Parcați în parcarea centrală și explorați această zonă pe jos.",
+            "en": "Park in the Central Car Park and explore this area on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Grand Theatre",
+            "hu": "Grand Theatre",
+            "ro": "Marele Teatru",
+            "en": "Grand Theatre"
+          },
+          "coords": [
+            -3.052,
+            53.817
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:30",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang vom Turm entfernt, bewundern Sie die Fassade.",
+            "hu": "Csak egy rövid sétára a toronytól, csodáld meg a homlokzatát.",
+            "ro": "La o scurtă plimbare de turn, admirați fațada.",
+            "en": "A very short walk from the tower, admire the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Winter Gardens",
+            "hu": "Winter Gardens",
+            "ro": "Grădinile de Iarnă",
+            "en": "Winter Gardens"
+          },
+          "coords": [
+            -3.051,
+            53.815
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:47",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie durch die Floral Hall, auch wenn Sie keine Zeit für eine Show haben.",
+            "hu": "Sétálj át a Virágcsarnokon, még ha nincs is időd egy előadásra.",
+            "ro": "Treceți prin Sala Florală chiar dacă nu aveți timp pentru un spectacol.",
+            "en": "Walk through the Floral Hall even if you don't have time for a show."
+          }
+        },
+        {
+          "name": {
+            "de": "North Pier",
+            "hu": "Északi móló",
+            "ro": "Debarcaderul de Nord",
+            "en": "North Pier"
+          },
+          "coords": [
+            -3.0589,
+            53.819
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "17:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Abschluss des Tages, mit Blick auf das Meer bei Sonnenuntergang.",
+            "hu": "Szép lezárása a napnak, naplementekor a tengerre nézve.",
+            "ro": "Un final frumos al zilei, privind spre mare la apus.",
+            "en": "A lovely end to the day, looking out to sea as the sun sets."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag ermöglicht es Ihnen, die Vielfalt Blackpools zu erleben. Beginnen Sie im ruhigen Stanley Park, einem grünen Juwel abseits der Küste. Am Vormittag fahren Sie zum Pleasure Beach für stundenlangen Nervenkitzel und Spaß. Nach dem Mittagessen parken Sie im Zentrum und bilden einen zweiten Cluster zu Fuß: Erklimmen Sie den Blackpool Tower und schlendern Sie dann durch das kulturelle Herz der Stadt mit seinen Theatern und Gärten. Dieser Plan kombiniert die Bequemlichkeit des Autos mit der Freude an der Erkundung zu Fuß.",
+        "hu": "Az autós nap lehetővé teszi, hogy megtapasztald Blackpool sokszínűségét. Kezdj a nyugodt Stanley Parkban, egy zöld ékkőben a parttól távol. Délelőtt vezess el a Pleasure Beach-re, ahol órákig tartó izgalom és szórakozás vár. Ebéd után parkolj le a központban, hogy egy második gyalogos klasztert alkoss: mássz fel a Blackpool-toronyba, majd sétálj át a város kulturális szívén, a színházakon és kerteken. Ez a terv ötvözi az autó kényelmét a gyalogos felfedezés örömével.",
+        "ro": "Ziua cu mașina vă permite să experimentați diversitatea din Blackpool. Începeți în liniștitul Parc Stanley, o bijuterie verde departe de faleză. Dimineața vă duce la Plaja de Agrement pentru ore de senzații tari și distracție. După prânz, parcați în centru pentru a forma un al doilea cluster pietonal: urcați în Turnul Blackpool, apoi plimbați-vă prin inima culturală a orașului, cu teatrele și grădinile sale. Acest plan combină confortul mașinii cu bucuria explorării pe jos.",
+        "en": "Your car-based day allows you to experience the diversity of Blackpool. Start in the tranquil Stanley Park, a green gem away from the coast. Your morning takes you to Pleasure Beach for hours of thrills and fun. After lunch, you'll park in the centre to form a second walking cluster: ascend the Blackpool Tower, then wander through the city's cultural heart of theatres and gardens. This plan combines the convenience of the car with the joy of pedestrian exploration."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Beach House",
+            "tip": "Ein stilvolles Restaurant und eine Bar mit herrlicher Aussicht, in der Nähe des Turms."
+          },
+          {
+            "name": "Whelans Fish and Chips",
+            "tip": "Etwas außerhalb des Zentrums, aber von Einheimischen als eines der besten angesehen."
+          },
+          {
+            "name": "Abendessen in einem Pub",
+            "tip": "Probieren Sie einen traditionellen Sonntagsbraten, wenn Sie an einem Sonntag hier sind."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Beach House",
+            "tip": "Stílusos étterem és bár nagyszerű kilátással, a torony közelében."
+          },
+          {
+            "name": "Whelans Fish and Chips",
+            "tip": "Kicsit távolabb a központtól, de a helyiek szerint az egyik legjobb."
+          },
+          {
+            "name": "Pub vacsora",
+            "tip": "Próbálj ki egy hagyományos Sunday roast-ot, ha vasárnap jársz itt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Beach House",
+            "tip": "Un restaurant și bar elegant, cu vederi minunate, lângă turn."
+          },
+          {
+            "name": "Whelans Fish and Chips",
+            "tip": "Puțin în afara centrului, dar considerat unul dintre cele mai bune de către localnici."
+          },
+          {
+            "name": "Cină la pub",
+            "tip": "Încercați o friptură tradițională de duminică dacă vizitați într-o duminică."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Beach House",
+            "tip": "A stylish restaurant and bar with great views, near the Tower."
+          },
+          {
+            "name": "Whelans Fish and Chips",
+            "tip": "Slightly out of the centre but considered one of the best by locals."
+          },
+          {
+            "name": "Pub Dinner",
+            "tip": "Try a traditional Sunday Roast if you're visiting on a Sunday."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lytham St Annes",
+            "tip": "Eine kurze Autofahrt entfernt für eine vornehmere und ruhigere Küstenatmosphäre.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Marton Mere Local Nature Reserve",
+            "tip": "Ein Paradies für Vogelbeobachter, nur eine kurze Autofahrt vom Zentrum entfernt.",
+            "emoji": "🦆"
+          },
+          {
+            "name": "Spaziergang am Kanal",
+            "tip": "Finden Sie einen Abschnitt des Lancaster Canal für einen ruhigen Spaziergang abseits der Menschenmassen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lytham St Annes",
+            "tip": "Egy rövid autóútra egy elegánsabb és csendesebb tengerparti hangulatért.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Marton Mere helyi természetvédelmi terület",
+            "tip": "Madármegfigyelők paradicsoma, csak egy rövid autóútra a központtól.",
+            "emoji": "🦆"
+          },
+          {
+            "name": "Csatornaséta",
+            "tip": "Keress egy szakaszt a Lancaster-csatornán egy békés sétáért a tömegtől távol.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lytham St Annes",
+            "tip": "O scurtă călătorie cu mașina pentru o atmosferă de coastă mai elegantă și mai liniștită.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Rezervația Naturală Locală Marton Mere",
+            "tip": "Un paradis pentru observatorii de păsări la o scurtă distanță cu mașina de centru.",
+            "emoji": "🦆"
+          },
+          {
+            "name": "Plimbare pe canal",
+            "tip": "Găsiți o secțiune a Canalului Lancaster pentru o plimbare liniștită departe de mulțimi.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lytham St Annes",
+            "tip": "A short drive away for a more upmarket and quieter coastal atmosphere.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Marton Mere Local Nature Reserve",
+            "tip": "A haven for birdwatchers just a short drive from the centre.",
+            "emoji": "🦆"
+          },
+          {
+            "name": "Canal Walk",
+            "tip": "Find a section of the Lancaster Canal for a peaceful walk away from the crowds.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Affinity Outlet Lancashire",
+            "tip": "Eine kurze Autofahrt entfernt in Fleetwood für Markenschnäppchen."
+          },
+          {
+            "name": "Abingdon Street Market",
+            "tip": "Ein renovierter Lebensmittel- und Einzelhandelsmarkt im Herzen der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Affinity Outlet Lancashire",
+            "tip": "Egy rövid autóútra Fleetwoodban a márkás akciókért."
+          },
+          {
+            "name": "Abingdon Street Market",
+            "tip": "Felújított élelmiszer- és kiskereskedelmi piac a város szívében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Affinity Outlet Lancashire",
+            "tip": "O scurtă călătorie cu mașina până la Fleetwood pentru chilipiruri de marcă."
+          },
+          {
+            "name": "Piața Abingdon Street",
+            "tip": "O piață alimentară și de vânzare cu amănuntul renovată în inima orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Affinity Outlet Lancashire",
+            "tip": "A short drive away in Fleetwood for brand-name bargains."
+          },
+          {
+            "name": "Abingdon Street Market",
+            "tip": "A refurbished food and retail market in the heart of town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken kann teuer sein. Suchen Sie nach Tagespauschalen.",
+          "Der Verkehr kann im Sommer und während der Illuminations stark sein. Planen Sie zusätzliche Reisezeit ein.",
+          "Beachten Sie die Parkbeschränkungen. Strafzettel sind häufig.",
+          "Ein Auto ermöglicht es Ihnen, nahe gelegene Städte wie Lytham oder Cleveleys leicht zu erkunden."
+        ],
+        "hu": [
+          "A parkolás drága lehet. Keress napidíjas lehetőségeket.",
+          "Nyáron és a Fények alatt nagy lehet a forgalom. Tervezz extra utazási idővel.",
+          "Figyelj a parkolási korlátozásokra. Gyakoriak a bírságok.",
+          "Az autóval könnyen felfedezheted a közeli városokat, mint Lytham vagy Cleveleys."
+        ],
+        "ro": [
+          "Parcarea poate fi scumpă. Căutați tarife de o zi întreagă.",
+          "Traficul poate fi aglomerat vara și în timpul Iluminărilor. Planificați timp suplimentar de călătorie.",
+          "Fiți atenți la restricțiile de parcare. Amenzile de parcare sunt frecvente.",
+          "O mașină vă permite să explorați cu ușurință orașele din apropiere, cum ar fi Lytham sau Cleveleys."
+        ],
+        "en": [
+          "Parking can be expensive. Look for all-day rates.",
+          "Traffic can be heavy in summer and during the Illuminations. Plan extra travel time.",
+          "Be aware of parking restrictions. Parking tickets are common.",
+          "A car allows you to easily explore nearby towns like Lytham or Cleveleys."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:21",
+      "total_km": 10.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Pleasure Beach Station (Cluster)",
+            "hu": "Pleasure Beach állomás (Klaszter)",
+            "ro": "Stația Pleasure Beach (Cluster)",
+            "en": "Pleasure Beach Station (Cluster)"
+          },
+          "coords": [
+            -3.056,
+            53.791
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier Ihren Tag mit den größten Attraktionen. Nehmen Sie die Straßenbahn bis zur Endstation.",
+            "hu": "Kezdd a napot itt a legnagyobb attrakciókkal. Menj a villamossal a végállomásig.",
+            "ro": "Începeți ziua aici cu cele mai mari atracții. Luați tramvaiul până la capătul liniei.",
+            "en": "Start your day here with the biggest thrills. Take the tram to its southern terminus."
+          }
+        },
+        {
+          "name": {
+            "de": "The Golden Mile (Spaziergang)",
+            "hu": "Az Arany Mérföld (séta)",
+            "ro": "Mila de Aur (plimbare)",
+            "en": "The Golden Mile (Walk)"
+          },
+          "coords": [
+            -3.055,
+            53.805
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie vom Pleasure Beach aus einen Teil der Promenade nach Norden.",
+            "hu": "Sétálj észak felé a Pleasure Beach-től a sétány egy részén.",
+            "ro": "De la Plaja de Agrement, plimbați-vă spre nord pe o porțiune de promenadă.",
+            "en": "From Pleasure Beach, walk a section of the promenade northwards."
+          }
+        },
+        {
+          "name": {
+            "de": "Tower (Straßenbahnhaltestelle Cluster)",
+            "hu": "Tower (villamosmegálló klaszter)",
+            "ro": "Tower (stație de tramvai cluster)",
+            "en": "Tower (Tram Stop Cluster)"
+          },
+          "coords": [
+            -3.055,
+            53.816
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie hier aus. Die Haltestelle befindet sich direkt vor dem Turm.",
+            "hu": "Szállj le itt. A megálló közvetlenül a torony előtt van.",
+            "ro": "Coborâți aici. Stația este chiar în fața turnului.",
+            "en": "Get off here. The stop is right outside the Tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Winter Gardens",
+            "hu": "Winter Gardens",
+            "ro": "Grădinile de Iarnă",
+            "en": "Winter Gardens"
+          },
+          "coords": [
+            -3.051,
+            53.815
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:06",
+          "stay_min": 50,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein einfacher Spaziergang vom Turm durch das Stadtzentrum.",
+            "hu": "Könnyű séta a toronytól a városközponton keresztül.",
+            "ro": "O plimbare ușoară de la turn prin centrul orașului.",
+            "en": "An easy walk from the Tower through the town centre."
+          }
+        },
+        {
+          "name": {
+            "de": "North Pier",
+            "hu": "Északi móló",
+            "ro": "Debarcaderul de Nord",
+            "en": "North Pier"
+          },
+          "coords": [
+            -3.0589,
+            53.819
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie zurück zur Küste, um diese historische Anlegestelle zu besuchen.",
+            "hu": "Sétálj vissza a parthoz, hogy meglátogasd ezt a történelmi mólót.",
+            "ro": "Întoarceți-vă la faleză pentru a vizita acest debarcader istoric.",
+            "en": "Walk back towards the seafront to visit this historic pier."
+          }
+        },
+        {
+          "name": {
+            "de": "Stanley Park (Busfahrt)",
+            "hu": "Stanley Park (buszút)",
+            "ro": "Parcul Stanley (călătorie cu autobuzul)",
+            "en": "Stanley Park (Bus Ride)"
+          },
+          "coords": [
+            -3.02,
+            53.809
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Stadtzentrum für eine Abwechslung.",
+            "hu": "Menj busszal a városközpontból a változatosság kedvéért.",
+            "ro": "Luați un autobuz din centrul orașului pentru o schimbare de peisaj.",
+            "en": "Take a bus from the town centre for a change of scenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Blackpool Illuminations (Straßenbahnfahrt)",
+            "hu": "Blackpool-i fények (villamosút)",
+            "ro": "Iluminările din Blackpool (plimbare cu tramvaiul)",
+            "en": "Blackpool Illuminations (Tram Ride)"
+          },
+          "coords": [
+            -3.055,
+            53.825
+          ],
+          "category": "landmark",
+          "arrive_at": "17:51",
+          "stay_min": 60,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie eine spezielle Illumination-Straßenbahn, um die Lichter zu sehen.",
+            "hu": "Menj egy különleges Fény-villamossal, hogy lásd a fényeket.",
+            "ro": "Luați un tramvai special pentru Iluminări pentru a vedea luminile.",
+            "en": "Take a special Illumination tram to see the lights."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Blackpools ausgezeichnete Straßenbahnen und Busse machen die Erkundung einfach. Beginnen Sie Ihren Tag mit dem Nervenkitzel am Pleasure Beach, der leicht mit der Straßenbahn zu erreichen ist. Am Vormittag bringt Sie eine kurze Fahrt zum zentralen Cluster, wo Sie den Turm, die Wintergärten und den Pier zu Fuß erkunden können. Am Nachmittag bringt Sie ein Bus in den ruhigen Stanley Park für eine Pause vom Trubel. Schließen Sie Ihren Tag mit einer magischen Straßenbahnfahrt durch die weltberühmten Illuminations ab.",
+        "hu": "Blackpool kiváló villamos- és buszhálózata megkönnyíti a felfedezést. Kezdd a napot a Pleasure Beach izgalmaival, amely könnyen elérhető villamossal. Délelőtt egy rövid utazás elvisz a központi klaszterbe, ahol gyalog fedezheted fel a tornyot, a Winter Gardens-t és a mólót. Délután egy busz elvisz a békés Stanley Parkba egy kis pihenőre. Zárd a napot egy varázslatos villamosúttal a világhírű Fények között.",
+        "ro": "Tramvaiele și autobuzele excelente din Blackpool fac explorarea ușoară. Începeți ziua cu senzațiile tari de la Plaja de Agrement, ușor accesibilă cu tramvaiul. Dimineața, o scurtă călătorie vă duce la clusterul central, unde puteți explora pe jos Turnul, Grădinile de Iarnă și debarcaderul. După-amiaza, un autobuz vă duce în liniștitul Parc Stanley pentru o pauză de la agitație. Încheiați ziua cu o plimbare magică cu tramvaiul prin faimoasele Iluminări.",
+        "en": "Blackpool's excellent trams and buses make exploration easy. Start your day with the thrills at Pleasure Beach, easily reached by tram. In the morning, a short ride takes you to the central cluster where you can explore the Tower, Winter Gardens, and pier on foot. In the afternoon, a bus will whisk you away to the peaceful Stanley Park for a break from the crowds. End your day with a magical tram ride through the world-famous Illuminations."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tram-Side-Kioske",
+            "tip": "Holen Sie sich unterwegs einen schnellen Snack oder ein Getränk von einem der Kioske an den Haltestellen."
+          },
+          {
+            "name": "The Spoons (Wetherspoons)",
+            "tip": "Mehrere in der Stadt, bieten erschwingliche Mahlzeiten und Getränke, die leicht mit öffentlichen Verkehrsmitteln zu erreichen sind."
+          },
+          {
+            "name": "Sandwich-Laden",
+            "tip": "Kaufen Sie ein Picknick, das Sie im Stanley Park genießen können."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Villamosmegálló-kioszkok",
+            "tip": "Vegyél egy gyors snacket vagy italt útközben a megállókban lévő kioszkokból."
+          },
+          {
+            "name": "The Spoons (Wetherspoons)",
+            "tip": "Több is van a városban, megfizethető ételeket és italokat kínálnak, könnyen megközelíthetőek tömegközlekedéssel."
+          },
+          {
+            "name": "Szendvicsbolt",
+            "tip": "Vegyél egy pikniket, amit a Stanley Parkban fogyaszthatsz el."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri de lângă tramvai",
+            "tip": "Luați o gustare rapidă sau o băutură de la unul dintre chioșcurile de la stații în timp ce călătoriți."
+          },
+          {
+            "name": "The Spoons (Wetherspoons)",
+            "tip": "Multiple în oraș, oferind mese și băuturi la prețuri accesibile, ușor de ajuns cu transportul public."
+          },
+          {
+            "name": "Magazin de sandvișuri",
+            "tip": "Cumpărați un prânz la pachet pentru a-l savura în Parcul Stanley."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tram-side Kiosks",
+            "tip": "Grab a quick snack or drink from one of the kiosks at the stops as you travel."
+          },
+          {
+            "name": "The Spoons (Wetherspoons)",
+            "tip": "Multiple in town, offering affordable meals and drinks easily accessible by public transport."
+          },
+          {
+            "name": "Sandwich Shop",
+            "tip": "Buy a picnic lunch to enjoy in Stanley Park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Oberdeck des Busses",
+            "tip": "Sitzen Sie vorne auf dem Oberdeck für eine großartige Aussicht und eine relativ ruhige Reise.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Heritage Tram Tours",
+            "tip": "Diese sind oft weniger überfüllt als die regulären Straßenbahnen und bieten eine nostalgische, entspannte Fahrt.",
+            "emoji": "🚃"
+          },
+          {
+            "name": "Bibliothek im Stadtzentrum",
+            "tip": "Ein wirklich ruhiger Ort, um sich für eine Weile von allem zurückzuziehen.",
+            "emoji": "🤫"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Busz emelete",
+            "tip": "Ülj elöl az emeleten a nagyszerű kilátásért és egy viszonylag csendes utazásért.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Örökség Villamos Túrák",
+            "tip": "Ezek gyakran kevésbé zsúfoltak, mint a normál villamosok, és nosztalgikus, nyugodt utazást kínálnak.",
+            "emoji": "🚃"
+          },
+          {
+            "name": "Városi könyvtár",
+            "tip": "Igazán csendes hely, ahol egy időre elvonulhatsz mindentől.",
+            "emoji": "🤫"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etajul superior al autobuzului",
+            "tip": "Stați în față la etajul superior pentru vederi minunate și o călătorie relativ liniștită.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Tururi cu tramvaiul de epocă",
+            "tip": "Acestea sunt adesea mai puțin aglomerate decât tramvaiele obișnuite și oferă o plimbare nostalgică și relaxantă.",
+            "emoji": "🚃"
+          },
+          {
+            "name": "Biblioteca din centrul orașului",
+            "tip": "Un spațiu cu adevărat liniștit pentru a scăpa de tot pentru o vreme.",
+            "emoji": "🤫"
+          }
+        ],
+        "en": [
+          {
+            "name": "Top deck of the bus",
+            "tip": "Sit at the front of the top deck for great views and a relatively quiet journey.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Heritage Tram Tours",
+            "tip": "These are often less crowded than the regular trams and offer a nostalgic, relaxed ride.",
+            "emoji": "🚃"
+          },
+          {
+            "name": "Town Centre Library",
+            "tip": "A truly quiet space to get away from it all for a while.",
+            "emoji": "🤫"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Straßenbahn-Souvenirs",
+            "tip": "Kaufen Sie ein Modell einer Straßenbahn oder ein anderes Souvenir im Transport-Shop."
+          },
+          {
+            "name": "Charity Shops",
+            "tip": "In der Nähe der Bushaltestellen im Stadtzentrum gibt es viele, in denen Sie nach Schnäppchen suchen können."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Villamosos szuvenírek",
+            "tip": "Vásárolj egy villamosmodellt vagy más emléktárgyat a közlekedési boltban."
+          },
+          {
+            "name": "Adományboltok",
+            "tip": "A városközponti buszmegállók közelében számos található, ahol kincsekre bukkanhatsz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri de tramvai",
+            "tip": "Cumpărați un model de tramvai sau alt suvenir de la magazinul de transport."
+          },
+          {
+            "name": "Magazine de caritate",
+            "tip": "Există multe în apropierea stațiilor de autobuz din centrul orașului pentru a căuta chilipiruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tram Souvenirs",
+            "tip": "Buy a model tram or other souvenir from the transport shop."
+          },
+          {
+            "name": "Charity Shops",
+            "tip": "There are many near the town centre bus stops to browse for bargains."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für Bus und Straßenbahn für das beste Preis-Leistungs-Verhältnis.",
+          "Die Straßenbahnen entlang der Küste sind der schnellste Weg, um nach Norden und Süden zu gelangen.",
+          "Laden Sie die Blackpool Transport App herunter, um Live-Zeiten und Routenplanung zu erhalten.",
+          "Seien Sie sich der Endstationen bewusst, besonders am späten Abend."
+        ],
+        "hu": [
+          "Vásárolj napijegyet buszra és villamosra a legjobb ár-érték arányért.",
+          "A tengerparti villamosok a leggyorsabb módja az északi és déli közlekedésnek.",
+          "Töltsd le a Blackpool Transport alkalmazást az élő menetrendekért és útvonaltervezésért.",
+          "Légy tisztában a végállomásokkal, különösen késő este."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz și tramvai pentru cea mai bună valoare.",
+          "Tramvaiele de pe faleză sunt cel mai rapid mod de a călători spre nord și sud.",
+          "Descărcați aplicația Blackpool Transport pentru ore live și planificarea rutei.",
+          "Fiți conștienți de orele ultimelor servicii, în special seara târziu."
+        ],
+        "en": [
+          "Buy a day saver ticket for bus and tram for the best value.",
+          "The trams along the seafront are the quickest way to get north and south.",
+          "Download the Blackpool Transport app for live times and route planning.",
+          "Be aware of the times of the last services, especially late at night."
+        ]
+      }
+    }
+  }
+}

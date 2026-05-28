@@ -1,0 +1,1447 @@
+{
+  "city_id": "poland-szczecin-cities-v2",
+  "anchor": {
+    "name": "Stettin",
+    "coords": [
+      14.5528,
+      53.4285
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Altes Rathaus",
+            "hu": "Régi Városháza",
+            "ro": "Primăria Veche",
+            "en": "Old Town Hall"
+          },
+          "coords": [
+            14.5575,
+            53.4261
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Bewundern Sie die rote Backsteingotik, die typisch für die Region ist.",
+            "hu": "Csodálja meg a régióra jellemző vörös téglagótikát.",
+            "ro": "Admirați goticul de cărămidă roșie, tipic pentru regiune.",
+            "en": "Admire the red-brick Gothic architecture, typical for the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Jakobskathedrale",
+            "hu": "Szent Jakab-katedrális",
+            "ro": "Catedrala Sf. Iacob",
+            "en": "St. James' Cathedral"
+          },
+          "coords": [
+            14.5545,
+            53.425
+          ],
+          "category": "churches",
+          "arrive_at": "09:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Nehmen Sie den Aufzug zur Aussichtsplattform für einen Panoramablick.",
+            "hu": "Menjen fel lifttel a kilátóteraszra a panorámáért.",
+            "ro": "Luați liftul până la platforma de observare pentru o vedere panoramică.",
+            "en": "Take the elevator to the viewing platform for a panoramic view."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss der Pommerschen Herzöge",
+            "hu": "Pomerániai hercegek kastélya",
+            "ro": "Castelul Ducilor Pomeranieni",
+            "en": "Pomeranian Dukes' Castle"
+          },
+          "coords": [
+            14.5583,
+            53.4278
+          ],
+          "category": "castles",
+          "arrive_at": "11:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Prüfen Sie den Veranstaltungskalender für Konzerte im Innenhof.",
+            "hu": "Nézze meg az eseménynaptárt, gyakran tartanak koncerteket az udvaron.",
+            "ro": "Verificați calendarul evenimentelor pentru concerte în curtea interioară.",
+            "en": "Check the event calendar for concerts held in the courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Hakenterrasse (Wały Chrobrego)",
+            "hu": "Hakenterrasse (Chrobry-sáncok)",
+            "ro": "Terasa lui Hakon (Wały Chrobrego)",
+            "en": "Chrobry Embankment (Hakenterrasse)"
+          },
+          "coords": [
+            14.562,
+            53.4295
+          ],
+          "category": "promenades",
+          "arrive_at": "12:36",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Ein idealer Ort für ein Mittagessen mit Blick auf die Oder.",
+            "hu": "Ideális hely egy ebédhez az Odera-folyóra néző kilátással.",
+            "ro": "Un loc ideal pentru prânz cu vedere la râul Oder.",
+            "en": "An ideal spot for lunch with a view over the Oder River."
+          }
+        },
+        {
+          "name": {
+            "de": "Philharmonie Stettin",
+            "hu": "Stettini Filharmónia",
+            "ro": "Filarmonica din Szczecin",
+            "en": "Szczecin Philharmonic"
+          },
+          "coords": [
+            14.5515,
+            53.431
+          ],
+          "category": "theatres",
+          "arrive_at": "13:56",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Die leuchtende Fassade ist nachts am beeindruckendsten.",
+            "hu": "A kivilágított homlokzat éjjel a leglenyűgözőbb.",
+            "ro": "Fațada luminată este cea mai impresionantă noaptea.",
+            "en": "The illuminated facade is most impressive at night."
+          }
+        },
+        {
+          "name": {
+            "de": "Berliner Tor",
+            "hu": "Berlini kapu",
+            "ro": "Poarta Berlinului",
+            "en": "Berlin Gate"
+          },
+          "coords": [
+            14.545,
+            53.4245
+          ],
+          "category": "landmark",
+          "arrive_at": "14:51",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Eines der beiden erhaltenen barocken Stadttore, perfekt für ein Foto.",
+            "hu": "Egy a két megmaradt barokk városkapu közül, tökéletes egy fotóhoz.",
+            "ro": "Una dintre cele două porți baroce ale orașului care s-au păstrat, perfectă pentru o fotografie.",
+            "en": "One of the two preserved baroque city gates, perfect for a photo."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am Alten Rathaus, einem Juwel der Backsteingotik. Von dort aus führt Sie ein kurzer Spaziergang zur imposanten Jakobskathedrale. Nach dem spirituellen Erlebnis erkunden Sie das Schloss der Pommerschen Herzöge, das Herz der Geschichte der Region. Am Nachmittag schlendern Sie entlang der Hakenterrasse mit herrlichem Blick auf die Oder und bewundern die moderne Architektur der Philharmonie. Der Tag endet am historischen Berliner Tor und lässt Sie die reiche Geschichte der Stadt spüren.",
+        "hu": "A nap a Régi Városházánál, a téglagótika ékkövénél kezdődik. Innen rövid séta vezet a lenyűgöző Szent Jakab-katedrálishoz. A spirituális élmény után fedezze fel a Pomerániai hercegek kastélyát, a régió történelmének szívét. Délután sétáljon végig a Hakenterrasse-on, ahonnan csodálatos kilátás nyílik az Oderára, majd csodálja meg a Filharmónia modern építészetét. A nap a történelmi Berlini kapunál ér véget, átérezve a város gazdag múltját.",
+        "ro": "Ziua dvs. începe la Primăria Veche, o bijuterie a goticului de cărămidă. De acolo, o scurtă plimbare vă duce la impunătoarea Catedrală Sf. Iacob. După experiența spirituală, explorați Castelul Ducilor Pomeranieni, inima istoriei regiunii. După-amiaza, plimbați-vă de-a lungul Terasei lui Hakon cu vederi magnifice asupra Oderului și admirați arhitectura modernă a Filarmonicii. Ziua se încheie la istorica Poartă a Berlinului, simțind istoria bogată a orașului.",
+        "en": "Your day starts at the Old Town Hall, a gem of brick Gothic architecture. From there, a short walk takes you to the imposing St. James' Cathedral. After the spiritual experience, explore the Pomeranian Dukes' Castle, the heart of the region's history. In the afternoon, stroll along the Chrobry Embankment with magnificent views of the Oder River and admire the modern architecture of the Philharmonic. The day ends at the historic Berlin Gate, feeling the city's rich history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pasztet szczeciński",
+            "tip": "Probieren Sie diese berühmte Stettiner Pastete, ein lokaler Stolz."
+          },
+          {
+            "name": "Paprykarz szczeciński",
+            "tip": "Eine würzige Fischpaste, perfekt als Snack mit Brot."
+          },
+          {
+            "name": "Hering in Sahnesoße",
+            "tip": "Ein Klassiker der Ostseeküche, oft mit Kartoffeln serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pasztet szczeciński",
+            "tip": "Kóstolja meg ezt a híres stettini pástétomot, a helyiek büszkeségét."
+          },
+          {
+            "name": "Paprykarz szczeciński",
+            "tip": "Fűszeres halkrém, tökéletes harapnivaló kenyérrel."
+          },
+          {
+            "name": "Hering tejszínes szószban",
+            "tip": "A balti-tengeri konyha klasszikusa, gyakran burgonyával tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pasztet szczeciński",
+            "tip": "Încercați acest faimos pateu din Szczecin, o mândrie locală."
+          },
+          {
+            "name": "Paprykarz szczeciński",
+            "tip": "O pastă de pește picantă, perfectă ca gustare cu pâine."
+          },
+          {
+            "name": "Hering în sos de smântână",
+            "tip": "Un clasic al bucătăriei baltice, adesea servit cu cartofi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pasztet szczeciński",
+            "tip": "Try this famous Szczecin pâté, a local pride."
+          },
+          {
+            "name": "Paprykarz szczeciński",
+            "tip": "A spicy fish spread, perfect as a snack with bread."
+          },
+          {
+            "name": "Herring in cream sauce",
+            "tip": "A classic of Baltic cuisine, often served with potatoes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hakenterrasse",
+            "tip": "Finden Sie eine Bank und beobachten Sie die Schiffe auf der Oder.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schlosshöfe",
+            "tip": "Die Innenhöfe des Schlosses bieten eine ruhige Zuflucht vor der Hektik der Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Jasne Błonia Park",
+            "tip": "Ein etwas längerer Spaziergang, aber die Platanenalleen sind es wert.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hakenterrasse",
+            "tip": "Keressen egy padot, és nézze a hajókat az Oderán.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kastély udvarai",
+            "tip": "A kastély udvarai csendes menedéket nyújtanak a város nyüzsgése elől.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Jasne Błonia park",
+            "tip": "Kicsit hosszabb séta, de a platánfasorok megérik.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Terasa lui Hakon",
+            "tip": "Găsiți o bancă și priviți navele de pe râul Oder.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curțile castelului",
+            "tip": "Curțile castelului oferă un refugiu liniștit de agitația orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Jasne Błonia",
+            "tip": "O plimbare puțin mai lungă, dar aleile cu platani merită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Chrobry Embankment",
+            "tip": "Find a bench and watch the ships on the Oder River.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Castle Courtyards",
+            "tip": "The castle courtyards offer a quiet refuge from the city bustle.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Jasne Błonia Park",
+            "tip": "A bit of a longer walk, but the plane tree avenues are worth it.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Altstadtmarkt",
+            "tip": "Suchen Sie nach Bernstein und lokalen Handwerksprodukten."
+          },
+          {
+            "name": "Kaskada Shopping Centre",
+            "tip": "Ein modernes Einkaufszentrum, falls Sie etwas Bestimmtes benötigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Óvárosi piac",
+            "tip": "Keressen borostyánt és helyi kézműves termékeket."
+          },
+          {
+            "name": "Kaskada bevásárlóközpont",
+            "tip": "Modern bevásárlóközpont, ha valami konkrétra van szüksége."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața din Centrul Vechi",
+            "tip": "Căutați chihlimbar și produse artizanale locale."
+          },
+          {
+            "name": "Centrul Comercial Kaskada",
+            "tip": "Un centru comercial modern dacă aveți nevoie de ceva specific."
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Town Market",
+            "tip": "Look for amber and local handicrafts."
+          },
+          {
+            "name": "Kaskada Shopping Centre",
+            "tip": "A modern shopping mall if you need something specific."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel auf Kopfsteinpflaster laufen werden.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Halten Sie eine Kamera für die beeindruckende Architektur bereit.",
+          "Planen Sie eine Mittagspause an der Hakenterrasse ein, um die Aussicht zu genießen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog macskakövön sétálni.",
+          "A központi látnivalók többsége könnyen megközelíthető gyalog.",
+          "Készítsen elő egy fényképezőgépet a lenyűgöző építészet megörökítéséhez.",
+          "Tervezzen egy ebédszünetet a Hakenterrasse-on, hogy élvezze a kilátást."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe piatră cubică.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Pregătiți o cameră foto pentru arhitectura impresionantă.",
+          "Planificați o pauză de prânz la Terasa lui Hakon pentru a vă bucura de priveliște."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking a lot on cobblestones.",
+          "Most central sights are within easy walking distance.",
+          "Keep a camera ready for the impressive architecture.",
+          "Plan for a lunch break at the Chrobry Embankment to enjoy the view."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Berliner Tor",
+            "hu": "Berlini kapu",
+            "ro": "Poarta Berlinului",
+            "en": "Berlin Gate"
+          },
+          "coords": [
+            14.545,
+            53.4245
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Ein schneller Fotostopp zum Aufwärmen.",
+            "hu": "Egy gyors fotómegálló bemelegítésként.",
+            "ro": "O oprire foto rapidă pentru încălzire.",
+            "en": "A quick photo stop to warm up."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Rathaus",
+            "hu": "Régi Városháza",
+            "ro": "Primăria Veche",
+            "en": "Old Town Hall"
+          },
+          "coords": [
+            14.5575,
+            53.4261
+          ],
+          "category": "landmark",
+          "arrive_at": "09:32",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_4lang": {
+            "de": "Stellen Sie Ihr Fahrrad in der Nähe ab und erkunden Sie den Heumarkt.",
+            "hu": "Parkolja le a biciklit a közelben, és fedezze fel a Széna-piacot.",
+            "ro": "Parcați bicicleta în apropiere și explorați Piața de Fân.",
+            "en": "Park your bike nearby and explore the Hay Market square."
+          }
+        },
+        {
+          "name": {
+            "de": "Jakobskathedrale",
+            "hu": "Szent Jakab-katedrális",
+            "ro": "Catedrala Sf. Iacob",
+            "en": "St. James' Cathedral"
+          },
+          "coords": [
+            14.5545,
+            53.425
+          ],
+          "category": "churches",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Schließen Sie Ihr Fahrrad gut ab, bevor Sie den Turm besteigen.",
+            "hu": "Zárja le jól a kerékpárját, mielőtt felmenne a toronyba.",
+            "ro": "Legați-vă bine bicicleta înainte de a urca în turn.",
+            "en": "Lock your bike securely before climbing the tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss der Pommerschen Herzöge",
+            "hu": "Pomerániai hercegek kastélya",
+            "ro": "Castelul Ducilor Pomeranieni",
+            "en": "Pomeranian Dukes' Castle"
+          },
+          "coords": [
+            14.5583,
+            53.4278
+          ],
+          "category": "castles",
+          "arrive_at": "11:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Es gibt Fahrradständer im ersten Innenhof.",
+            "hu": "Az első udvarban vannak kerékpártárolók.",
+            "ro": "Există suporturi pentru biciclete în prima curte.",
+            "en": "There are bike racks in the first courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Hakenterrasse (Wały Chrobrego)",
+            "hu": "Hakenterrasse (Chrobry-sáncok)",
+            "ro": "Terasa lui Hakon (Wały Chrobrego)",
+            "en": "Chrobry Embankment (Hakenterrasse)"
+          },
+          "coords": [
+            14.562,
+            53.4295
+          ],
+          "category": "promenades",
+          "arrive_at": "12:23",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Perfekt für eine Mittagspause. Fahren Sie am Flussufer entlang.",
+            "hu": "Tökéletes egy ebédszünethez. Tekerjen végig a folyóparton.",
+            "ro": "Perfect pentru o pauză de prânz. Pedalați de-a lungul malului râului.",
+            "en": "Perfect for a lunch break. Cycle along the riverbank."
+          }
+        },
+        {
+          "name": {
+            "de": "Bismarckturm",
+            "hu": "Bismarck-torony",
+            "ro": "Turnul Bismarck",
+            "en": "Bismarck Tower"
+          },
+          "coords": [
+            14.6,
+            53.445
+          ],
+          "category": "towers",
+          "arrive_at": "13:43",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_4lang": {
+            "de": "Die Fahrt bergauf ist eine kleine Herausforderung, aber die Aussicht belohnt Sie.",
+            "hu": "Az út felfelé egy kis kihívás, de a kilátás kárpótol.",
+            "ro": "Urcușul este o mică provocare, dar priveliștea vă va răsplăti.",
+            "en": "The uphill ride is a bit of a challenge, but the view is rewarding."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentralfriedhof",
+            "hu": "Központi temető",
+            "ro": "Cimitirul Central",
+            "en": "Central Cemetery"
+          },
+          "coords": [
+            14.51,
+            53.415
+          ],
+          "category": "parks",
+          "arrive_at": "14:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 9.0,
+          "tip_4lang": {
+            "de": "Dieser riesige parkähnliche Friedhof ist ideal für eine lange, ruhige Radtour.",
+            "hu": "Ez a hatalmas, parkszerű temető ideális egy hosszú, csendes biciklitúrához.",
+            "ro": "Acest cimitir imens, asemănător unui parc, este ideal pentru o plimbare lungă și liniștită cu bicicleta.",
+            "en": "This huge park-like cemetery is ideal for a long, quiet bike ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour am Berliner Tor und radeln Sie ins Herz der Altstadt. Nach der Besichtigung von Rathaus, Kathedrale und Schloss genießen Sie eine Pause an der Hakenterrasse. Am Nachmittag erwartet Sie eine sportliche Herausforderung: die Fahrt zum Bismarckturm, die mit einer fantastischen Aussicht belohnt wird. Zum Abschluss des Tages radeln Sie durch die ruhigen Alleen des weitläufigen Zentralfriedhofs, einer Oase der Ruhe.",
+        "hu": "Kezdje a biciklitúrát a Berlini kapunál, és tekerjen be az óváros szívébe. A városháza, a katedrális és a kastély megtekintése után élvezze a szünetet a Hakenterrasse-on. Délután sportos kihívás várja: a tekerés a Bismarck-toronyhoz, amit fantasztikus kilátás jutalmaz. A nap végén kerékpározzon végig a hatalmas Központi temető csendes fasorain, a nyugalom oázisában.",
+        "ro": "Începeți turul cu bicicleta de la Poarta Berlinului și pedalați în inima Orașului Vechi. După ce vizitați Primăria, Catedrala și Castelul, bucurați-vă de o pauză la Terasa lui Hakon. După-amiaza vă așteaptă o provocare sportivă: urcarea la Turnul Bismarck, recompensată cu o priveliște fantastică. La sfârșitul zilei, pedalați pe aleile liniștite ale vastului Cimitir Central, o oază de pace.",
+        "en": "Start your bike tour at the Berlin Gate and cycle into the heart of the Old Town. After visiting the Town Hall, Cathedral, and Castle, enjoy a break at the Chrobry Embankment. In the afternoon, a sporty challenge awaits: the ride to the Bismarck Tower, rewarded with a fantastic view. At the end of the day, cycle through the quiet avenues of the vast Central Cemetery, an oasis of peace."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pasztet szczeciński",
+            "tip": "Probieren Sie diese berühmte Stettiner Pastete, ein lokaler Stolz."
+          },
+          {
+            "name": "Paprykarz szczeciński",
+            "tip": "Eine würzige Fischpaste, perfekt als Snack mit Brot."
+          },
+          {
+            "name": "Hering in Sahnesoße",
+            "tip": "Ein Klassiker der Ostseeküche, oft mit Kartoffeln serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pasztet szczeciński",
+            "tip": "Kóstolja meg ezt a híres stettini pástétomot, a helyiek büszkeségét."
+          },
+          {
+            "name": "Paprykarz szczeciński",
+            "tip": "Fűszeres halkrém, tökéletes harapnivaló kenyérrel."
+          },
+          {
+            "name": "Hering tejszínes szószban",
+            "tip": "A balti-tengeri konyha klasszikusa, gyakran burgonyával tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pasztet szczeciński",
+            "tip": "Încercați acest faimos pateu din Szczecin, o mândrie locală."
+          },
+          {
+            "name": "Paprykarz szczeciński",
+            "tip": "O pastă de pește picantă, perfectă ca gustare cu pâine."
+          },
+          {
+            "name": "Hering în sos de smântână",
+            "tip": "Un clasic al bucătăriei baltice, adesea servit cu cartofi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pasztet szczeciński",
+            "tip": "Try this famous Szczecin pâté, a local pride."
+          },
+          {
+            "name": "Paprykarz szczeciński",
+            "tip": "A spicy fish spread, perfect as a snack with bread."
+          },
+          {
+            "name": "Herring in cream sauce",
+            "tip": "A classic of Baltic cuisine, often served with potatoes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Zentralfriedhof",
+            "tip": "Europas drittgrößter Friedhof ist ein riesiger Park, ideal für eine kontemplative Radtour.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kasprowicz Park",
+            "tip": "Ein schöner Park mit einem See, perfekt für eine kurze Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer der Oder",
+            "tip": "Radfahren entlang des Flusses bietet eine entspannende Perspektive auf die Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi temető",
+            "tip": "Európa harmadik legnagyobb temetője egy hatalmas park, ideális egy elmélkedő kerékpártúrához.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kasprowicz Park",
+            "tip": "Egy gyönyörű park tóval, tökéletes egy rövid pihenőre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Odera partja",
+            "tip": "A folyó menti kerékpározás pihentető kilátást nyújt a városra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul Central",
+            "tip": "Al treilea cel mai mare cimitir din Europa este un parc imens, ideal pentru o plimbare contemplativă cu bicicleta.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Parcul Kasprowicz",
+            "tip": "Un parc frumos cu un lac, perfect pentru o scurtă pauză.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul râului Oder",
+            "tip": "Mersul pe bicicletă de-a lungul râului oferă o perspectivă relaxantă asupra orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Cemetery",
+            "tip": "Europe's third-largest cemetery is a huge park, ideal for a contemplative bike ride.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kasprowicz Park",
+            "tip": "A beautiful park with a lake, perfect for a short break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the Oder",
+            "tip": "Cycling along the river offers a relaxing perspective of the city.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Galaxy Centrum",
+            "tip": "Ein großes Einkaufszentrum mit vielen Fahrradgeschäften in der Nähe."
+          },
+          {
+            "name": "Lokale Märkte",
+            "tip": "Halten Sie Ausschau nach kleinen Märkten für frisches Obst als Snack für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Galaxy Centrum",
+            "tip": "Nagy bevásárlóközpont, a közelben számos kerékpárbolttal."
+          },
+          {
+            "name": "Helyi piacok",
+            "tip": "Keressen kis piacokat friss gyümölcsért útközbeni harapnivalóként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galaxy Centrum",
+            "tip": "Un centru comercial mare, cu multe magazine de biciclete în apropiere."
+          },
+          {
+            "name": "Piețe locale",
+            "tip": "Căutați piețe mici pentru fructe proaspete ca gustare pe drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Galaxy Centrum",
+            "tip": "A large shopping center with many bike shops nearby."
+          },
+          {
+            "name": "Local Markets",
+            "tip": "Look out for small markets for fresh fruit as a snack on the go."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck vor der Abfahrt.",
+          "Stettin ist relativ flach, aber einige Brücken und der Weg zum Bismarckturm erfordern etwas Kraft.",
+          "Nutzen Sie die ausgebauten Radwege, besonders entlang des Flusses.",
+          "Ein gutes Schloss ist unerlässlich, wenn Sie die Sehenswürdigkeiten besichtigen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Stettin viszonylag sík, de néhány híd és a Bismarck-toronyhoz vezető út némi erőt igényel.",
+          "Használja a kiépített kerékpárutakat, különösen a folyó mentén.",
+          "Egy jó lakat elengedhetetlen, amikor a látnivalókat nézi."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de a pleca.",
+          "Szczecin este relativ plat, dar unele poduri și drumul spre Turnul Bismarck necesită puțin efort.",
+          "Folosiți pistele de biciclete bine dezvoltate, în special de-a lungul râului.",
+          "O încuietoare bună este esențială atunci când vizitați obiectivele turistice."
+        ],
+        "en": [
+          "Check your tire pressure before setting off.",
+          "Szczecin is relatively flat, but some bridges and the path to the Bismarck Tower require some effort.",
+          "Use the well-developed cycle paths, especially along the river.",
+          "A good lock is essential when you're visiting the sights."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:33",
+      "total_km": 19.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentralfriedhof (Parkplatz)",
+            "hu": "Központi temető (parkoló)",
+            "ro": "Cimitirul Central (Parcare)",
+            "en": "Central Cemetery (Parking)"
+          },
+          "coords": [
+            14.51,
+            53.415
+          ],
+          "category": "parks",
+          "arrive_at": "09:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 9.0,
+          "hop_mode": "car",
+          "tip_4lang": {
+            "de": "Beginnen Sie den Tag in dieser ruhigen Oase. Parken Sie am Haupteingang.",
+            "hu": "Kezdje a napot ebben a csendes oázisban. Parkoljon a főbejáratnál.",
+            "ro": "Începeți ziua în această oază de liniște. Parcați la intrarea principală.",
+            "en": "Start the day in this peaceful oasis. Park at the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkhaus Altstadt (z.B. Kaskada)",
+            "hu": "Óvárosi parkolóház (pl. Kaskada)",
+            "ro": "Parcare Centrul Vechi (ex. Kaskada)",
+            "en": "Old Town Parking (e.g., Kaskada)"
+          },
+          "coords": [
+            14.5505,
+            53.428
+          ],
+          "category": "landmark",
+          "arrive_at": "11:13",
+          "stay_min": 10,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 8.5,
+          "hop_mode": "car",
+          "tip_4lang": {
+            "de": "Parken Sie hier für den Rest des zentralen Rundgangs.",
+            "hu": "Parkoljon itt a központi séta hátralévő részére.",
+            "ro": "Parcați aici pentru restul turului central.",
+            "en": "Park here for the remainder of the central walking tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Rathaus & Heumarkt",
+            "hu": "Régi Városháza és Széna-piac",
+            "ro": "Primăria Veche și Piața de Fân",
+            "en": "Old Town Hall & Hay Market"
+          },
+          "coords": [
+            14.5575,
+            53.4261
+          ],
+          "category": "landmark",
+          "arrive_at": "11:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Schlendern Sie über den Markt und genießen Sie ein frühes Mittagessen.",
+            "hu": "Sétáljon át a piacon és ebédeljen korán.",
+            "ro": "Plimbați-vă prin piață și luați un prânz timpuriu.",
+            "en": "Stroll through the market and have an early lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss der Pommerschen Herzöge",
+            "hu": "Pomerániai hercegek kastélya",
+            "ro": "Castelul Ducilor Pomeranieni",
+            "en": "Pomeranian Dukes' Castle"
+          },
+          "coords": [
+            14.5583,
+            53.4278
+          ],
+          "category": "castles",
+          "arrive_at": "12:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Ein kurzer Spaziergang vom Rathaus. Erkunden Sie die Höfe.",
+            "hu": "Rövid séta a Városházától. Fedezze fel az udvarokat.",
+            "ro": "O scurtă plimbare de la Primărie. Explorați curțile.",
+            "en": "A short walk from the Town Hall. Explore the courtyards."
+          }
+        },
+        {
+          "name": {
+            "de": "Hakenterrasse (Wały Chrobrego)",
+            "hu": "Hakenterrasse (Chrobry-sáncok)",
+            "ro": "Terasa lui Hakon (Wały Chrobrego)",
+            "en": "Chrobry Embankment (Hakenterrasse)"
+          },
+          "coords": [
+            14.562,
+            53.4295
+          ],
+          "category": "promenades",
+          "arrive_at": "14:19",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Genießen Sie den Nachmittagsblick auf den Fluss, bevor Sie zum Auto zurückkehren.",
+            "hu": "Élvezze a délutáni kilátást a folyóra, mielőtt visszatérne az autóhoz.",
+            "ro": "Bucurați-vă de vederea de după-amiază a râului înainte de a vă întoarce la mașină.",
+            "en": "Enjoy the afternoon river view before heading back to the car."
+          }
+        },
+        {
+          "name": {
+            "de": "Bismarckturm",
+            "hu": "Bismarck-torony",
+            "ro": "Turnul Bismarck",
+            "en": "Bismarck Tower"
+          },
+          "coords": [
+            14.6,
+            53.445
+          ],
+          "category": "towers",
+          "arrive_at": "16:04",
+          "stay_min": 60,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 1.4,
+          "hop_mode": "car",
+          "tip_4lang": {
+            "de": "Fahren Sie zum Abschluss des Tages hierher für den Sonnenuntergangsblick.",
+            "hu": "A nap végén vezessen ide a naplementéért.",
+            "ro": "Conduceți aici la sfârșitul zilei pentru a vedea apusul.",
+            "en": "Drive here at the end of the day for the sunset view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt unkonventionell im ruhigen Zentralfriedhof, einem riesigen Park. Nach einem Spaziergang fahren Sie ins Zentrum und parken in einem Parkhaus. Von dort erkunden Sie zu Fuß den historischen Kern: das Alte Rathaus, das Schloss der Herzöge und die prächtige Hakenterrasse, wo Sie zu Mittag essen. Am späten Nachmittag holen Sie Ihr Auto und fahren zum Bismarckturm, um den Tag mit einem Panoramablick über die Stadt bei Sonnenuntergang abzuschließen.",
+        "hu": "Az autós nap szokatlanul kezdődik a csendes Központi temetőben, egy hatalmas parkban. Séta után hajtson be a központba, és parkoljon egy parkolóházban. Innen gyalog fedezze fel a történelmi magot: a Régi Városházát, a hercegi kastélyt és a csodálatos Hakenterrasse-t, ahol ebédelhet. Késő délután vegye fel az autót, és hajtson a Bismarck-toronyhoz, hogy a napot egy panorámás kilátással zárja a városra naplementekor.",
+        "ro": "Ziua dvs. cu mașina începe neconvențional în liniștitul Cimitir Central, un parc imens. După o plimbare, conduceți spre centru și parcați într-o parcare supraetajată. De acolo explorați pe jos nucleul istoric: Primăria Veche, Castelul Ducilor și magnifica Terasă a lui Hakon, unde luați prânzul. Spre seară, vă recuperați mașina și conduceți la Turnul Bismarck pentru a încheia ziua cu o vedere panoramică a orașului la apus.",
+        "en": "Your car day begins unconventionally at the peaceful Central Cemetery, a vast park. After a stroll, drive to the center and park in a multi-story car park. From there, explore the historic core on foot: the Old Town Hall, the Dukes' Castle, and the magnificent Chrobry Embankment, where you'll have lunch. In the late afternoon, retrieve your car and drive to the Bismarck Tower to end the day with a panoramic sunset view over the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pasztet szczeciński",
+            "tip": "Probieren Sie diese berühmte Stettiner Pastete, ein lokaler Stolz."
+          },
+          {
+            "name": "Paprykarz szczeciński",
+            "tip": "Eine würzige Fischpaste, perfekt als Snack mit Brot."
+          },
+          {
+            "name": "Hering in Sahnesoße",
+            "tip": "Ein Klassiker der Ostseeküche, oft mit Kartoffeln serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pasztet szczeciński",
+            "tip": "Kóstolja meg ezt a híres stettini pástétomot, a helyiek büszkeségét."
+          },
+          {
+            "name": "Paprykarz szczeciński",
+            "tip": "Fűszeres halkrém, tökéletes harapnivaló kenyérrel."
+          },
+          {
+            "name": "Hering tejszínes szószban",
+            "tip": "A balti-tengeri konyha klasszikusa, gyakran burgonyával tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pasztet szczeciński",
+            "tip": "Încercați acest faimos pateu din Szczecin, o mândrie locală."
+          },
+          {
+            "name": "Paprykarz szczeciński",
+            "tip": "O pastă de pește picantă, perfectă ca gustare cu pâine."
+          },
+          {
+            "name": "Hering în sos de smântână",
+            "tip": "Un clasic al bucătăriei baltice, adesea servit cu cartofi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pasztet szczeciński",
+            "tip": "Try this famous Szczecin pâté, a local pride."
+          },
+          {
+            "name": "Paprykarz szczeciński",
+            "tip": "A spicy fish spread, perfect as a snack with bread."
+          },
+          {
+            "name": "Herring in cream sauce",
+            "tip": "A classic of Baltic cuisine, often served with potatoes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Zentralfriedhof",
+            "tip": "Eine riesige, stille Parklandschaft, perfekt für den Start in den Tag.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Blick vom Bismarckturm",
+            "tip": "Der weite Blick von oben bietet einen Moment der Ruhe und Perspektive.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Różanka-Garten",
+            "tip": "Ein wunderschöner Rosengarten, eine kurze Autofahrt vom Zentrum entfernt.",
+            "emoji": "🌸"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi temető",
+            "tip": "Hatalmas, csendes park, tökéletes a napkezdéshez.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kilátás a Bismarck-toronyból",
+            "tip": "A fentről nyíló tágas kilátás a nyugalom és a perspektíva pillanatát kínálja.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Różanka kert",
+            "tip": "Gyönyörű rózsakert, rövid autóútra a központtól.",
+            "emoji": "🌸"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul Central",
+            "tip": "Un parc imens și liniștit, perfect pentru a începe ziua.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Vedere de la Turnul Bismarck",
+            "tip": "Priveliștea vastă de sus oferă un moment de calm și perspectivă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina Różanka",
+            "tip": "O frumoasă grădină de trandafiri, la o scurtă călătorie cu mașina de centru.",
+            "emoji": "🌸"
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Cemetery",
+            "tip": "A vast, silent parkland, perfect for starting the day.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "View from Bismarck Tower",
+            "tip": "The wide view from the top offers a moment of calm and perspective.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Różanka Garden",
+            "tip": "A beautiful rose garden, a short drive from the center.",
+            "emoji": "🌸"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bernsteinschmuck",
+            "tip": "Suchen Sie in den Geschäften der Altstadt nach authentischem Bernsteinschmuck."
+          },
+          {
+            "name": "Cepelia",
+            "tip": "Ein Geschäft für traditionelles polnisches Handwerk und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borostyán ékszerek",
+            "tip": "Keressen autentikus borostyán ékszereket az óvárosi üzletekben."
+          },
+          {
+            "name": "Cepelia",
+            "tip": "Hagyományos lengyel kézműves termékek és ajándéktárgyak boltja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bijuterii de chihlimbar",
+            "tip": "Căutați bijuterii autentice de chihlimbar în magazinele din Centrul Vechi."
+          },
+          {
+            "name": "Cepelia",
+            "tip": "Un magazin de artizanat tradițional polonez și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Amber Jewelry",
+            "tip": "Look for authentic amber jewelry in the Old Town shops."
+          },
+          {
+            "name": "Cepelia",
+            "tip": "A store for traditional Polish handicrafts and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkgebühren in den zentralen Parkhäusern; Tageskarten können günstiger sein.",
+          "Der Verkehr kann in der Innenstadt zu Stoßzeiten stark sein, planen Sie entsprechend.",
+          "Lassen Sie keine Wertsachen im Auto sichtbar liegen.",
+          "Die Cluster-Walking-Methode spart Zeit bei der Parkplatzsuche."
+        ],
+        "hu": [
+          "Ellenőrizze a parkolási díjakat a központi parkolóházakban; a napijegyek olcsóbbak lehetnek.",
+          "A belvárosi forgalom csúcsidőben sűrű lehet, tervezzen ennek megfelelően.",
+          "Ne hagyjon értékeket látható helyen az autóban.",
+          "A „cluster-walking” módszerrel időt takaríthat meg a parkolóhely-keresésnél."
+        ],
+        "ro": [
+          "Verificați taxele de parcare în parcările centrale; biletele de o zi pot fi mai ieftine.",
+          "Traficul în centrul orașului poate fi aglomerat la orele de vârf, planificați în consecință.",
+          "Nu lăsați obiecte de valoare la vedere în mașină.",
+          "Metoda „plimbării în cluster” economisește timp la căutarea unui loc de parcare."
+        ],
+        "en": [
+          "Check parking fees in central car parks; day tickets can be cheaper.",
+          "Traffic can be heavy in the city center during peak hours, plan accordingly.",
+          "Do not leave valuables visible in the car.",
+          "The cluster-walking method saves time on parking searches."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:54",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptbahnhof (Start)",
+            "hu": "Főpályaudvar (indulás)",
+            "ro": "Gara Centrală (Start)",
+            "en": "Main Station (Start)"
+          },
+          "coords": [
+            14.551,
+            53.42
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_4lang": {
+            "de": "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr.",
+            "hu": "Vásároljon napijegyet a tömegközlekedéshez.",
+            "ro": "Cumpărați un bilet de o zi pentru transportul public.",
+            "en": "Buy a day ticket for public transport."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle Brama Portowa (Berliner Tor)",
+            "hu": "Brama Portowa megálló (Berlini kapu)",
+            "ro": "Stația Brama Portowa (Poarta Berlinului)",
+            "en": "Brama Portowa Stop (Berlin Gate)"
+          },
+          "coords": [
+            14.5465,
+            53.425
+          ],
+          "category": "landmark",
+          "arrive_at": "09:20",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_4lang": {
+            "de": "Cluster 1: Beginnen Sie hier Ihre Erkundung der Altstadt.",
+            "hu": "1. klaszter: Kezdje itt az óváros felfedezését.",
+            "ro": "Cluster 1: Începeți explorarea Orașului Vechi de aici.",
+            "en": "Cluster 1: Start your exploration of the Old Town here."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Rathaus & Jakobskathedrale",
+            "hu": "Régi Városháza és Szent Jakab-katedrális",
+            "ro": "Primăria Veche și Catedrala Sf. Iacob",
+            "en": "Old Town Hall & St. James' Cathedral"
+          },
+          "coords": [
+            14.556,
+            53.4255
+          ],
+          "category": "landmark",
+          "arrive_at": "09:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Diese beiden liegen nahe beieinander. Nehmen Sie sich Zeit für die Kathedrale.",
+            "hu": "Ez a kettő közel van egymáshoz. Szánjon időt a katedrálisra.",
+            "ro": "Aceste două sunt aproape una de cealaltă. Acordați-vă timp pentru catedrală.",
+            "en": "These two are close to each other. Take your time for the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss & Hakenterrasse",
+            "hu": "Kastély és Hakenterrasse",
+            "ro": "Castelul și Terasa lui Hakon",
+            "en": "Castle & Chrobry Embankment"
+          },
+          "coords": [
+            14.56,
+            53.4285
+          ],
+          "category": "promenades",
+          "arrive_at": "11:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Beenden Sie Ihren Rundgang durch die Altstadt mit einem Spaziergang am Flussufer.",
+            "hu": "Fejezze be az óvárosi sétát egy folyóparti sétával.",
+            "ro": "Încheiați turul Orașului Vechi cu o plimbare pe malul râului.",
+            "en": "End your Old Town tour with a walk along the riverbank."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle Cmentarz Centralny (Zentralfriedhof)",
+            "hu": "Cmentarz Centralny megálló (Központi temető)",
+            "ro": "Stația Cmentarz Centralny (Cimitirul Central)",
+            "en": "Cmentarz Centralny Stop (Central Cemetery)"
+          },
+          "coords": [
+            14.512,
+            53.416
+          ],
+          "category": "parks",
+          "arrive_at": "13:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7.5,
+          "hop_mode": "transit",
+          "tip_4lang": {
+            "de": "Cluster 2: Nehmen Sie eine Straßenbahn (z.B. Linie 8) hierher. Der Friedhof ist riesig.",
+            "hu": "2. klaszter: Menjen villamossal (pl. 8-as) ide. A temető hatalmas.",
+            "ro": "Cluster 2: Luați un tramvai (de ex. linia 8) până aici. Cimitirul este imens.",
+            "en": "Cluster 2: Take a tram (e.g., line 8) here. The cemetery is huge."
+          }
+        },
+        {
+          "name": {
+            "de": "Philharmonie",
+            "hu": "Filharmónia",
+            "ro": "Filarmonica",
+            "en": "Philharmonic"
+          },
+          "coords": [
+            14.5515,
+            53.431
+          ],
+          "category": "theatres",
+          "arrive_at": "16:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "transit",
+          "tip_4lang": {
+            "de": "Cluster 3: Fahren Sie zurück ins Zentrum, um dieses architektonische Meisterwerk zu sehen.",
+            "hu": "3. klaszter: Utazzon vissza a központba, hogy megnézze ezt az építészeti remekművet.",
+            "ro": "Cluster 3: Întoarceți-vă în centru pentru a vedea această capodoperă arhitecturală.",
+            "en": "Cluster 3: Travel back to the center to see this architectural masterpiece."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit einer Tageskarte starten Sie am Hauptbahnhof und fahren zum Berliner Tor, dem Startpunkt Ihres ersten Clusters. Zu Fuß erkunden Sie die Altstadt mit Rathaus, Kathedrale, Schloss und Hakenterrasse. Am frühen Nachmittag nehmen Sie die Straßenbahn zum zweiten Cluster: dem riesigen Zentralfriedhof, einer Parklandschaft. Nach einem ausgedehnten Spaziergang fahren Sie mit der Straßenbahn zurück ins Zentrum, um das dritte Cluster zu besuchen: die beeindruckende Philharmonie, besonders schön bei Dämmerung.",
+        "hu": "Napijeggyel induljon a főpályaudvarról a Berlini kapuhoz, az első klaszter kiindulópontjához. Gyalog fedezze fel az óvárost: a városházát, a katedrálist, a kastélyt és a Hakenterrasse-t. Kora délután villamossal utazzon a második klaszterhez: a hatalmas, parkszerű Központi temetőhöz. Egy kiadós séta után villamossal térjen vissza a központba, hogy meglátogassa a harmadik klasztert: a lenyűgöző Filharmóniát, amely alkonyatkor különösen szép.",
+        "ro": "Cu un bilet de o zi, porniți de la Gara Centrală spre Poarta Berlinului, punctul de plecare al primului cluster. Explorați pe jos Orașul Vechi cu Primăria, Catedrala, Castelul și Terasa lui Hakon. La începutul după-amiezii, luați tramvaiul spre al doilea cluster: imensul Cimitir Central, un peisaj de parc. După o plimbare lungă, luați tramvaiul înapoi în centru pentru a vizita al treilea cluster: impresionanta Filarmonică, deosebit de frumoasă la amurg.",
+        "en": "With a day ticket, start at the main station and travel to the Berlin Gate, the starting point of your first cluster. Explore the Old Town on foot, including the Town Hall, Cathedral, Castle, and Chrobry Embankment. In the early afternoon, take the tram to the second cluster: the vast Central Cemetery, a park-like landscape. After a long walk, take the tram back to the center to visit the third cluster: the impressive Philharmonic, especially beautiful at dusk."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pasztet szczeciński",
+            "tip": "Probieren Sie diese berühmte Stettiner Pastete, ein lokaler Stolz."
+          },
+          {
+            "name": "Paprykarz szczeciński",
+            "tip": "Eine würzige Fischpaste, perfekt als Snack mit Brot."
+          },
+          {
+            "name": "Hering in Sahnesoße",
+            "tip": "Ein Klassiker der Ostseeküche, oft mit Kartoffeln serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pasztet szczeciński",
+            "tip": "Kóstolja meg ezt a híres stettini pástétomot, a helyiek büszkeségét."
+          },
+          {
+            "name": "Paprykarz szczeciński",
+            "tip": "Fűszeres halkrém, tökéletes harapnivaló kenyérrel."
+          },
+          {
+            "name": "Hering tejszínes szószban",
+            "tip": "A balti-tengeri konyha klasszikusa, gyakran burgonyával tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pasztet szczeciński",
+            "tip": "Încercați acest faimos pateu din Szczecin, o mândrie locală."
+          },
+          {
+            "name": "Paprykarz szczeciński",
+            "tip": "O pastă de pește picantă, perfectă ca gustare cu pâine."
+          },
+          {
+            "name": "Hering în sos de smântână",
+            "tip": "Un clasic al bucătăriei baltice, adesea servit cu cartofi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pasztet szczeciński",
+            "tip": "Try this famous Szczecin pâté, a local pride."
+          },
+          {
+            "name": "Paprykarz szczeciński",
+            "tip": "A spicy fish spread, perfect as a snack with bread."
+          },
+          {
+            "name": "Herring in cream sauce",
+            "tip": "A classic of Baltic cuisine, often served with potatoes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Zentralfriedhof",
+            "tip": "Ein Ort der Stille und des Gedenkens, weitläufig und friedlich.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "In den Höfen des Schlosses",
+            "tip": "Ein ruhiger Ort, um dem Trubel der Stadt zu entfliehen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang am Oderufer",
+            "tip": "Abseits der Hauptpromenade finden sich ruhige Plätze am Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi temető",
+            "tip": "A csend és az emlékezés helye, tágas és békés.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "A kastély udvaraiban",
+            "tip": "Csendes hely a város nyüzsgésétől távol.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta az Odera partján",
+            "tip": "A fő sétánytól távolabb csendes helyeket talál a víz mellett.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul Central",
+            "tip": "Un loc de liniște și comemorare, vast și pașnic.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "În curțile castelului",
+            "tip": "Un loc liniștit pentru a scăpa de agitația orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare pe malul Oderului",
+            "tip": "Departe de promenada principală veți găsi locuri liniștite lângă apă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Cemetery",
+            "tip": "A place of silence and remembrance, vast and peaceful.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "In the castle courtyards",
+            "tip": "A quiet place to escape the hustle and bustle of the city.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk on the Oder bank",
+            "tip": "Away from the main promenade you will find quiet places by the water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Untergrund-Passagen am Brama Portowa",
+            "tip": "Ein Labyrinth aus kleinen Geschäften und Kiosken."
+          },
+          {
+            "name": "Markthalle (Hala Targowa)",
+            "tip": "Für frische Produkte und eine authentische lokale Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Földalatti átjárók a Brama Portowánál",
+            "tip": "Kis üzletek és kioszkok labirintusa."
+          },
+          {
+            "name": "Vásárcsarnok (Hala Targowa)",
+            "tip": "Friss termékekért és autentikus helyi hangulatért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pasajele subterane de la Brama Portowa",
+            "tip": "Un labirint de mici magazine și chioșcuri."
+          },
+          {
+            "name": "Hala de piață (Hala Targowa)",
+            "tip": "Pentru produse proaspete și o atmosferă locală autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Underground passages at Brama Portowa",
+            "tip": "A labyrinth of small shops and kiosks."
+          },
+          {
+            "name": "Market Hall (Hala Targowa)",
+            "tip": "For fresh produce and an authentic local atmosphere."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Eine Tageskarte ist die einfachste und günstigste Option für mehrere Fahrten.",
+          "Laden Sie eine Nahverkehrs-App herunter, um die Abfahrtszeiten in Echtzeit zu verfolgen.",
+          "Achten Sie auf die richtigen Straßenbahn- und Busnummern.",
+          "Validieren Sie Ihr Ticket beim Einsteigen, um Strafen zu vermeiden."
+        ],
+        "hu": [
+          "A napijegy a legegyszerűbb és legolcsóbb megoldás több utazáshoz.",
+          "Töltsön le egy tömegközlekedési alkalmazást a valós idejű indulási idők követéséhez.",
+          "Figyeljen a helyes villamos- és busz-számokra.",
+          "Érvényesítse a jegyét felszálláskor a bírságok elkerülése érdekében."
+        ],
+        "ro": [
+          "Un bilet de o zi este cea mai simplă și mai ieftină opțiune pentru mai multe călătorii.",
+          "Descărcați o aplicație de transport public pentru a urmări orele de plecare în timp real.",
+          "Fiți atenți la numerele corecte de tramvai și autobuz.",
+          "Validați biletul la urcare pentru a evita amenzile."
+        ],
+        "en": [
+          "A day ticket is the easiest and cheapest option for multiple trips.",
+          "Download a public transport app to track real-time departure times.",
+          "Pay attention to the correct tram and bus numbers.",
+          "Validate your ticket upon boarding to avoid fines."
+        ]
+      }
+    }
+  }
+}

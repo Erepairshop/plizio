@@ -1,0 +1,1468 @@
+{
+  "city_id": "netherlands-kampen-cities-v2",
+  "anchor": {
+    "name": "Kampen",
+    "coords": [
+      5.91,
+      52.55
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Start: Cellebroederspoort",
+            "hu": "Kezdés: Cellebroederspoort",
+            "ro": "Start: Cellebroederspoort",
+            "en": "Start: Cellebroederspoort"
+          },
+          "coords": [
+            5.912,
+            52.553
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Zwillingsstürme dieses beeindruckenden Stadttors aus dem 15. Jahrhundert.",
+            "hu": "Csodálja meg ennek a lenyűgöző 15. századi városkapunak az ikertornyait.",
+            "ro": "Admirați turnurile gemene ale acestei impresionante porți a orașului din secolul al XV-lea.",
+            "en": "Admire the twin towers of this impressive 15th-century city gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Gotisches Haus",
+            "hu": "Gótikus Ház",
+            "ro": "Casa Gotică",
+            "en": "Gothic House"
+          },
+          "coords": [
+            5.914,
+            52.555
+          ],
+          "category": "historical",
+          "arrive_at": "09:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beherbergt heute das Stedelijk Museum. Achten Sie auf die ursprüngliche Fassade.",
+            "hu": "Ma a Városi Múzeumnak ad otthont. Figyelje meg az eredeti homlokzatot.",
+            "ro": "Astăzi găzduiește Muzeul Stedelijk. Fiți atenți la fațada originală.",
+            "en": "Now part of the Stedelijk Museum. Pay attention to the original facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Stedelijk Museum Kampen",
+            "hu": "Stedelijk Múzeum Kampen",
+            "ro": "Muzeul Municipal Kampen",
+            "en": "Stedelijk Museum Kampen"
+          },
+          "coords": [
+            5.913,
+            52.556
+          ],
+          "category": "museums",
+          "arrive_at": "11:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die vier verschiedenen Gebäude, die die reiche Geschichte von Kampen erzählen.",
+            "hu": "Fedezze fel a négy különböző épületet, amelyek Kampen gazdag történelmét mesélik el.",
+            "ro": "Explorați cele patru clădiri diferite care spun povestea bogată a orașului Kampen.",
+            "en": "Explore the four different buildings that tell the rich history of Kampen."
+          }
+        },
+        {
+          "name": {
+            "de": "Nieuwe Toren",
+            "hu": "Új Torony",
+            "ro": "Turnul Nou",
+            "en": "New Tower"
+          },
+          "coords": [
+            5.914,
+            52.557
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Hören Sie das Glockenspiel, entworfen von François Hemony, einem berühmten Glockengießer.",
+            "hu": "Hallgassa meg a harangjátékot, amelyet François Hemony, a híres harangöntő tervezett.",
+            "ro": "Ascultați carillonul, proiectat de François Hemony, un faimos turnător de clopote.",
+            "en": "Listen to the carillon, designed by François Hemony, a famous bell-founder."
+          }
+        },
+        {
+          "name": {
+            "de": "Bovenkerk",
+            "hu": "Bovenkerk",
+            "ro": "Biserica de Sus (Bovenkerk)",
+            "en": "Bovenkerk"
+          },
+          "coords": [
+            5.915,
+            52.557
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besteigen Sie den Turm für eine fantastische Aussicht über die Hansestadt und den Fluss IJssel.",
+            "hu": "Másszon fel a toronyba, ahonnan fantasztikus kilátás nyílik a Hanza-városra és az IJssel folyóra.",
+            "ro": "Urcați în turn pentru o priveliște fantastică asupra orașului hanseatic și a râului IJssel.",
+            "en": "Climb the tower for a fantastic view over the Hanseatic city and the river IJssel."
+          }
+        },
+        {
+          "name": {
+            "de": "Koornmarktspoort",
+            "hu": "Koornmarktspoort",
+            "ro": "Poarta Pieței de Grâne (Koornmarktspoort)",
+            "en": "Koornmarktspoort"
+          },
+          "coords": [
+            5.918,
+            52.558
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das älteste Stadttor von Kampen, direkt am Flussufer gelegen. Ein perfekter Ort für Fotos.",
+            "hu": "Kampen legrégebbi városkapuja, közvetlenül a folyóparton. Tökéletes fotóhelyszín.",
+            "ro": "Cea mai veche poartă a orașului Kampen, situată chiar pe malul râului. Un loc perfect pentru fotografii.",
+            "en": "The oldest city gate of Kampen, located right on the riverfront. A perfect photo spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Abschluss: Broederpoort",
+            "hu": "Befejezés: Broederpoort",
+            "ro": "Final: Broederpoort",
+            "en": "Finish: Broederpoort"
+          },
+          "coords": [
+            5.908,
+            52.556
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an diesem eleganten Tor und genießen Sie die ruhige Atmosphäre des Stadtparks.",
+            "hu": "Fejezze be a sétát ennél az elegáns kapunál, és élvezze a városi park nyugodt légkörét.",
+            "ro": "Încheiați plimbarea la această poartă elegantă și bucurați-vă de atmosfera liniștită a parcului orașului.",
+            "en": "End your walk at this elegant gate and enjoy the tranquil atmosphere of the city park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an den majestätischen Stadttoren von Kampen und schlendern Sie durch die kopfsteingepflasterten Gassen. Der Vormittag ist der Erkundung der reichen Handelsgeschichte im Gotischen Haus und dem Stedelijk Museum gewidmet. Nach dem Mittagessen erklimmen Sie die Bovenkerk, um einen Panoramablick zu genießen. Der Nachmittag führt Sie zum Ufer der IJssel beim Koornmarktspoort, wo Sie die hanseatische Atmosphäre aufsaugen. Beenden Sie Ihren Tag im ruhigen Stadtpark in der Nähe des Broederpoort, um über die zeitlose Schönheit der Stadt nachzudenken.",
+        "hu": "Kezdje a napot Kampen fenséges városkapuinál, sétálva a macskaköves utcákon. A délelőtt a gazdag kereskedelmi múlt felfedezésével telik a Gótikus Házban és a Városi Múzeumban. Ebéd után másszon fel a Bovenkerk tornyába a panorámáért. A délután az IJssel folyó partjára vezet a Koornmarktspoornál, ahol magába szívhatja a hanza hangulatot. Zárja a napot a Broederpoort melletti csendes városi parkban, elmélkedve a város időtlen szépségén.",
+        "ro": "Începeți ziua la porțile majestuoase ale orașului Kampen, plimbându-vă pe străduțele pietruite. Dimineața este dedicată explorării istoriei comerciale bogate la Casa Gotică și Muzeul Municipal. După prânz, urcați în Bovenkerk pentru vederi panoramice. După-amiaza vă duce pe malul râului IJssel la Koornmarktspoort pentru a absorbi atmosfera hanseatică. Încheiați ziua în parcul liniștit al orașului, lângă Broederpoort, reflectând la frumusețea atemporală a orașului.",
+        "en": "Start your day at Kampen's majestic city gates, strolling through the cobblestone streets. The morning is for exploring the rich merchant history at the Gothic House and the Stedelijk Museum. After lunch, climb the Bovenkerk for panoramic views. The afternoon takes you to the IJssel riverfront at Koornmarktspoort to absorb the Hanseatic atmosphere. End your day at the tranquil city park near the Broederpoort, reflecting on the city's timeless beauty."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kamper Zandkoekjes",
+            "tip": "Probieren Sie diese lokalen, krümeligen Butterkekse, eine wahre Delikatesse."
+          },
+          {
+            "name": "Paling (Aal)",
+            "tip": "In den Restaurants am Flussufer wird oft frisch geräucherter Aal serviert."
+          },
+          {
+            "name": "De Stadsherberg",
+            "tip": "Speisen Sie in einem der ältesten Gasthäuser der Niederlande mit Blick auf die IJssel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kamper Zandkoekjes",
+            "tip": "Kóstolja meg ezt a helyi, omlós vajas kekszet, igazi finomság."
+          },
+          {
+            "name": "Paling (angolna)",
+            "tip": "A folyóparti éttermekben gyakran szolgálnak fel frissen füstölt angolnát."
+          },
+          {
+            "name": "De Stadsherberg",
+            "tip": "Étkezzen Hollandia egyik legrégebbi fogadójában, kilátással az IJssel folyóra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kamper Zandkoekjes",
+            "tip": "Încercați acești biscuiți locali, sfărâmicioși cu unt, o adevărată delicatesă."
+          },
+          {
+            "name": "Paling (Anghilă)",
+            "tip": "Restaurantele de pe malul râului servesc adesea anghilă proaspăt afumată."
+          },
+          {
+            "name": "De Stadsherberg",
+            "tip": "Luați masa într-unul dintre cele mai vechi hanuri din Olanda, cu vedere la râul IJssel."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kamper Zandkoekjes",
+            "tip": "Try these local, crumbly butter cookies, a true delicacy."
+          },
+          {
+            "name": "Paling (Eel)",
+            "tip": "Riverfront restaurants often serve freshly smoked eel."
+          },
+          {
+            "name": "De Stadsherberg",
+            "tip": "Dine in one of the oldest inns in the Netherlands, overlooking the IJssel."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "IJsselkade",
+            "tip": "Machen Sie einen ruhigen Spaziergang am Flussufer und beobachten Sie die vorbeifahrenden Boote.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Stadspark Kampen",
+            "tip": "Finden Sie eine Bank unter den alten Bäumen in diesem friedlichen Park.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Versteckte Innenhöfe",
+            "tip": "Halten Sie Ausschau nach 'hofjes', ruhigen Innenhöfen, die hinter den Hauptstraßen versteckt sind.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "IJsselkade",
+            "tip": "Tegyen egy csendes sétát a folyóparton, nézve az elhaladó hajókat.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Stadspark Kampen",
+            "tip": "Keressen egy padot az öreg fák alatt ebben a békés parkban.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Rejtett udvarok",
+            "tip": "Keresse a 'hofjes'-eket, a főutcák mögött megbúvó csendes udvarokat.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cheiul IJssel (IJsselkade)",
+            "tip": "Faceți o plimbare liniștită de-a lungul malului râului, urmărind bărcile care trec.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Orașului Kampen",
+            "tip": "Găsiți o bancă sub copacii bătrâni în acest parc pașnic.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curți ascunse",
+            "tip": "Căutați 'hofjes', curți liniștite ascunse în spatele străzilor principale.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "IJsselkade (Riverfront)",
+            "tip": "Take a quiet stroll along the riverfront, watching the boats go by.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Stadspark Kampen",
+            "tip": "Find a bench under the old trees in this peaceful park.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hidden Courtyards",
+            "tip": "Look for 'hofjes', tranquil courtyards hidden behind the main streets.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Oudestraat",
+            "tip": "Die Haupteinkaufsstraße von Kampen, gesäumt von einer Mischung aus Boutiquen und bekannten Marken."
+          },
+          {
+            "name": "Samstagsmarkt",
+            "tip": "Wenn Sie an einem Samstag hier sind, besuchen Sie den lebhaften Markt für lokale Produkte und Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Oudestraat",
+            "tip": "Kampen fő bevásárlóutcája, butikok és ismert márkák keverékével szegélyezve."
+          },
+          {
+            "name": "Szombati piac",
+            "tip": "Ha szombaton jár itt, látogasson el a nyüzsgő piacra helyi termékekért és sajtokért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Oudestraat",
+            "tip": "Strada principală de cumpărături din Kampen, plină de o combinație de buticuri și mărci cunoscute."
+          },
+          {
+            "name": "Piața de sâmbătă",
+            "tip": "Dacă sunteți aici într-o sâmbătă, vizitați piața animată pentru produse locale și brânzeturi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Oudestraat",
+            "tip": "The main shopping street in Kampen, lined with a mix of boutiques and known brands."
+          },
+          {
+            "name": "Saturday Market",
+            "tip": "If you're here on a Saturday, visit the lively market for local produce and cheese."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die meisten Straßen im historischen Zentrum mit Kopfsteinpflaster gepflastert sind.",
+          "Viele kleinere Geschäfte und Museen können montags geschlossen sein.",
+          "Nehmen Sie sich Zeit, die Details an den Fassaden der alten Gebäude zu bewundern.",
+          "Ein Spaziergang entlang der IJsselkade bei Sonnenuntergang bietet eine magische Aussicht."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a történelmi központ legtöbb utcája macskaköves.",
+          "Sok kisebb üzlet és múzeum zárva lehet hétfőnként.",
+          "Szánjon időt arra, hogy megcsodálja a régi épületek homlokzatának részleteit.",
+          "Egy séta az IJsselkade mentén naplementekor varázslatos látványt nyújt."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece majoritatea străzilor din centrul istoric sunt pavate cu piatră cubică.",
+          "Multe magazine mici și muzee pot fi închise în zilele de luni.",
+          "Luați-vă timp pentru a admira detaliile de pe fațadele clădirilor vechi.",
+          "O plimbare de-a lungul cheiului IJssel la apus oferă o priveliște magică."
+        ],
+        "en": [
+          "Wear comfortable shoes as most streets in the historic center are cobblestoned.",
+          "Many smaller shops and museums may be closed on Mondays.",
+          "Take time to admire the details on the facades of the old buildings.",
+          "A walk along the IJsselkade at sunset offers a magical view."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Start: Fahrradverleih am Bahnhof",
+            "hu": "Kezdés: Kerékpárkölcsönző az állomáson",
+            "ro": "Start: Închiriere de biciclete la gară",
+            "en": "Start: Bike rental at the station"
+          },
+          "coords": [
+            5.922,
+            52.559
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Holen Sie sich Ihr Fahrrad für den Tag und überqueren Sie die Stadtbrücke in die Altstadt.",
+            "hu": "Vegye fel a kerékpárt a napra, és keljen át a városi hídon az óvárosba.",
+            "ro": "Luați-vă bicicleta pentru o zi și traversați podul orașului în centrul vechi.",
+            "en": "Get your bike for the day and cross the city bridge into the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Koornmarktspoort & IJsselkade",
+            "hu": "Koornmarktspoort és IJsselkade",
+            "ro": "Koornmarktspoort & Cheiul IJssel",
+            "en": "Koornmarktspoort & IJsselkade"
+          },
+          "coords": [
+            5.918,
+            52.558
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beginnen Sie mit einer Fahrt entlang des Flusses, um die Skyline der Stadt zu genießen.",
+            "hu": "Kezdje egy tekeréssel a folyó mentén, hogy élvezze a város sziluettjét.",
+            "ro": "Începeți cu o plimbare de-a lungul râului pentru a vă bucura de panorama orașului.",
+            "en": "Start with a ride along the river to enjoy the city's skyline."
+          }
+        },
+        {
+          "name": {
+            "de": "Bovenkerk & Nieuwe Toren",
+            "hu": "Bovenkerk és Új Torony",
+            "ro": "Bovenkerk & Turnul Nou",
+            "en": "Bovenkerk & New Tower"
+          },
+          "coords": [
+            5.915,
+            52.557
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:11",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und erkunden Sie das religiöse Herz der Stadt. Steigen Sie auf den Turm!",
+            "hu": "Parkolja le a kerékpárt, és fedezze fel a város vallási szívét. Másszon fel a toronyba!",
+            "ro": "Parcați bicicleta și explorați inima religioasă a orașului. Urcați în turn!",
+            "en": "Park your bike and explore the religious heart of the city. Climb the tower!"
+          }
+        },
+        {
+          "name": {
+            "de": "Stedelijk Museum & Gotisches Haus",
+            "hu": "Városi Múzeum és Gótikus Ház",
+            "ro": "Muzeul Municipal & Casa Gotică",
+            "en": "Stedelijk Museum & Gothic House"
+          },
+          "coords": [
+            5.913,
+            52.556
+          ],
+          "category": "museums",
+          "arrive_at": "11:44",
+          "stay_min": 120,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie nach dem Abstellen Ihres Fahrrads in die lokale Geschichte und Kunst ein.",
+            "hu": "Miután lezárta a kerékpárt, merüljön el a helyi történelemben és művészetben.",
+            "ro": "După ce vă parcați bicicleta, scufundați-vă în istoria și arta locală.",
+            "en": "After locking up your bike, immerse yourself in local history and art."
+          }
+        },
+        {
+          "name": {
+            "de": "Broederpoort & Stadspark",
+            "hu": "Broederpoort és Városi Park",
+            "ro": "Broederpoort & Parcul Orașului",
+            "en": "Broederpoort & City Park"
+          },
+          "coords": [
+            5.908,
+            52.556
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:47",
+          "stay_min": 50,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause im Park neben diesem eleganten Renaissancetor.",
+            "hu": "Tartson szünetet a parkban ezen elegáns reneszánsz kapu mellett.",
+            "ro": "Luați o pauză în parc lângă această poartă elegantă renascentistă.",
+            "en": "Take a break in the park next to this elegant Renaissance gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Cellebroederspoort",
+            "hu": "Cellebroederspoort",
+            "ro": "Cellebroederspoort",
+            "en": "Cellebroederspoort"
+          },
+          "coords": [
+            5.912,
+            52.553
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Radfahren Sie zum südlichen Tor der Stadt, das eine märchenhafte Erscheinung hat.",
+            "hu": "Tekerjen el a város déli kapujához, amely mesebeli megjelenésű.",
+            "ro": "Mergeți cu bicicleta la poarta de sud a orașului, care are un aspect de basm.",
+            "en": "Cycle to the southern gate of the city, which has a fairytale-like appearance."
+          }
+        },
+        {
+          "name": {
+            "de": "Abschluss: Fahrt Richtung Kampereiland",
+            "hu": "Befejezés: Tekerés a Kampereiland felé",
+            "ro": "Final: Plimbare spre Kampereiland",
+            "en": "Finish: Ride towards Kampereiland"
+          },
+          "coords": [
+            5.89,
+            52.57
+          ],
+          "category": "natural features",
+          "arrive_at": "15:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 9.0,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einer längeren Fahrt in die Polderlandschaft für ein echtes niederländisches Erlebnis.",
+            "hu": "Zárja a napot egy hosszabb tekeréssel a polder tájba egy igazi holland élményért.",
+            "ro": "Încheiați ziua cu o plimbare mai lungă în peisajul polderelor pentru o experiență olandeză autentică.",
+            "en": "End the day with a longer ride into the polder landscape for a true Dutch experience."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Tag in Kampen auf zwei Rädern ist der Inbegriff des niederländischen Erlebnisses. Beginnen Sie mit einer malerischen Fahrt entlang der IJssel. Der Vormittag ist dem Abstellen des Fahrrads gewidmet, um die hoch aufragende Bovenkerk und das historische Museumsviertel zu erkunden. Nach dem Mittagessen radeln Sie zu den alten Stadttoren, dem Broederpoort und dem Cellebroederspoort. Der Nachmittag gipfelt in einer belebenden Fahrt in die weite Landschaft von Kampereiland, die einen Kontrast zur kompakten Stadt bietet. Es ist eine Reise durch Geschichte, Kultur und Natur.",
+        "hu": "Egy nap Kampenben két keréken a holland élmény megtestesítője. Kezdje egy festői tekeréssel az IJssel mentén. A délelőtt a kerékpár leparkolásáról és a magasba törő Bovenkerk, valamint a történelmi múzeumi negyed felfedezéséről szól. Ebéd után tekerjen el a régi városkapukhoz, a Broederpoorthoz és a Cellebroederspoorthoz. A délután egy élénkítő tekerésben csúcsosodik ki a Kampereiland tágas tájára, kontrasztot alkotva a kompakt várossal. Ez egy utazás a történelmen, kultúrán és természeten keresztül.",
+        "ro": "O zi în Kampen pe două roți este chintesența experienței olandeze. Începeți cu o plimbare pitorească de-a lungul râului IJssel. Dimineața este pentru a parca bicicleta și a explora impunătoarea Bovenkerk și cartierul muzeelor istorice. După prânz, pedalați spre porțile vechi ale orașului, Broederpoort și Cellebroederspoort. După-amiaza culminează cu o plimbare revigorantă în peisajul vast din Kampereiland, oferind un contrast cu orașul compact. Este o călătorie prin istorie, cultură și natură.",
+        "en": "A day in Kampen on two wheels is the quintessential Dutch experience. Start with a scenic ride along the IJssel riverfront. The morning is for parking the bike to explore the towering Bovenkerk and the historic museum quarter. After lunch, cycle to the ancient city gates, Broederpoort and Cellebroederspoort. The afternoon culminates in an invigorating ride into the vast landscape of Kampereiland, offering a contrast to the compact city. It's a journey through history, culture, and nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pannekoeken",
+            "tip": "Tanken Sie Energie mit einem herzhaften oder süßen holländischen Pfannkuchen in einem Café in der Innenstadt."
+          },
+          {
+            "name": "Haring",
+            "tip": "Wenn Sie abenteuerlustig sind, probieren Sie rohen Hering von einem lokalen Fischstand."
+          },
+          {
+            "name": "'t Ponton",
+            "tip": "Ein Restaurant auf dem Wasser, perfekt für eine Mahlzeit mit Aussicht nach einem Tag Radfahren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pannekoeken",
+            "tip": "Töltődjön fel egy kiadós vagy édes holland palacsintával egy belvárosi kávézóban."
+          },
+          {
+            "name": "Haring",
+            "tip": "Ha kalandvágyó, próbálja ki a nyers heringet egy helyi halárusnál."
+          },
+          {
+            "name": "'t Ponton",
+            "tip": "Egy vízen lévő étterem, tökéletes egy kilátással egybekötött étkezéshez egy napos biciklizés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pannekoeken (Clătite olandeze)",
+            "tip": "Alimentați-vă cu o clătită olandeză sărată sau dulce la o cafenea din centrul orașului."
+          },
+          {
+            "name": "Haring (Hering crud)",
+            "tip": "Dacă sunteți aventuros, încercați heringul crud de la o tarabă locală de pește."
+          },
+          {
+            "name": "'t Ponton",
+            "tip": "Un restaurant pe apă, perfect pentru o masă cu priveliște după o zi de ciclism."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pannekoeken (Dutch pancakes)",
+            "tip": "Refuel with a hearty or sweet Dutch pancake at a downtown café."
+          },
+          {
+            "name": "Haring (Herring)",
+            "tip": "If you're feeling adventurous, try raw herring from a local fish stall."
+          },
+          {
+            "name": "'t Ponton",
+            "tip": "A restaurant on the water, perfect for a meal with a view after a day of cycling."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Entlang des Flusses radeln",
+            "tip": "Der Radweg entlang der IJssel ist flach, friedlich und bietet tolle Ausblicke.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Bänke im Stadspark",
+            "tip": "Ein perfekter Ort für eine Pause, um Leute zu beobachten und die Ruhe zu genießen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kampereiland Polder",
+            "tip": "Erleben Sie die Stille der niederländischen Landschaft mit ihren weiten Feldern und Wasserwegen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpározás a folyó mentén",
+            "tip": "Az IJssel menti kerékpárút sík, békés és nagyszerű kilátást nyújt.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Padok a Városi Parkban",
+            "tip": "Tökéletes hely egy szünetre, emberek nézésére és a csend élvezetére.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kampereiland polder",
+            "tip": "Tapasztalja meg a holland vidék csendjét a tágas mezőkkel és vízi utakkal.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pedalând de-a lungul râului",
+            "tip": "Pista de biciclete de-a lungul râului IJssel este plată, pașnică și oferă priveliști minunate.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Bănci în Stadspark",
+            "tip": "Un loc perfect pentru o pauză pentru a privi oamenii și a vă bucura de liniște.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Polderul Kampereiland",
+            "tip": "Experimentați liniștea peisajului olandez cu câmpurile sale vaste și căile navigabile.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cycling along the river",
+            "tip": "The bike path along the IJssel is flat, peaceful, and offers great views.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Benches in Stadspark",
+            "tip": "A perfect spot for a break to people-watch and enjoy the quiet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kampereiland Polder",
+            "tip": "Experience the silence of the Dutch countryside with its vast fields and waterways.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "De Eenhoorn Koffie en Thee",
+            "tip": "Ein historisches Geschäft, das für seinen speziell gerösteten Kaffee und Tee bekannt ist."
+          },
+          {
+            "name": "Lokale Kunstgalerien",
+            "tip": "Entdecken Sie kleine Galerien mit Werken von Künstlern, die von der Hansestadt inspiriert sind."
+          }
+        ],
+        "hu": [
+          {
+            "name": "De Eenhoorn Koffie en Thee",
+            "tip": "Egy történelmi üzlet, amely a különlegesen pörkölt kávéjáról és teájáról ismert."
+          },
+          {
+            "name": "Helyi művészeti galériák",
+            "tip": "Fedezzen fel kis galériákat, amelyek a Hanza-város által inspirált művészek alkotásait mutatják be."
+          }
+        ],
+        "ro": [
+          {
+            "name": "De Eenhoorn Koffie en Thee",
+            "tip": "Un magazin istoric cunoscut pentru cafeaua și ceaiul prăjite special."
+          },
+          {
+            "name": "Galerii de artă locale",
+            "tip": "Descoperiți mici galerii cu lucrări ale artiștilor inspirați de orașul hanseatic."
+          }
+        ],
+        "en": [
+          {
+            "name": "De Eenhoorn Koffie en Thee",
+            "tip": "A historic shop known for its specially roasted coffee and tea."
+          },
+          {
+            "name": "Local Art Galleries",
+            "tip": "Discover small galleries featuring works by artists inspired by the Hanseatic city."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad mit Gängen, wenn Sie vorhaben, weiter ins Kampereiland zu fahren.",
+          "Schließen Sie Ihr Fahrrad immer ab, auch wenn Sie nur für ein paar Minuten anhalten.",
+          "Achten Sie auf das Kopfsteinpflaster in der Altstadt, das bei Nässe rutschig sein kann.",
+          "Die Niederlande sind sehr fahrradfreundlich, aber achten Sie immer auf den anderen Verkehr, insbesondere auf Mopeds auf Radwegen."
+        ],
+        "hu": [
+          "Béreljen sebességváltós kerékpárt, ha távolabbra tervezi a Kampereiland felfedezését.",
+          "Mindig zárja le a kerékpárt, még akkor is, ha csak néhány percre áll meg.",
+          "Vigyázzon a macskakőre az óvárosban, amely nedvesen csúszós lehet.",
+          "Hollandia nagyon kerékpárbarát, de mindig figyeljen a többi közlekedőre, különösen a robogókra a kerékpárutakon."
+        ],
+        "ro": [
+          "Închiriați o bicicletă cu viteze dacă plănuiți să mergeți mai departe în Kampereiland.",
+          "Încuietăți întotdeauna bicicleta, chiar dacă vă opriți doar pentru câteva minute.",
+          "Fiți atenți la piatra cubică din centrul vechi, care poate fi alunecoasă când este udă.",
+          "Olanda este foarte prietenoasă cu bicicletele, dar fiți mereu atenți la celălalt trafic, în special la scuterele de pe pistele de biciclete."
+        ],
+        "en": [
+          "Rent a bike with gears if you plan to venture further into Kampereiland.",
+          "Always lock your bike, even if stopping for just a few minutes.",
+          "Be careful on the cobblestones in the old town, they can be slippery when wet.",
+          "The Netherlands is very bike-friendly, but always be aware of other traffic, especially mopeds on bike paths."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 24.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Parkplatz Zentrum",
+            "hu": "A csoport: Parkoló a központban",
+            "ro": "Grupul A: Parcare în centru",
+            "en": "Cluster A: City Center Parking"
+          },
+          "coords": [
+            5.917,
+            52.559
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto am Rande der Altstadt für den Tag. Von hier aus ist alles zu Fuß erreichbar.",
+            "hu": "Parkolja le az autót az óváros szélén a napra. Innen minden gyalogosan elérhető.",
+            "ro": "Parcați mașina la marginea centrului vechi pentru o zi. Totul este la distanță de mers pe jos de aici.",
+            "en": "Park your car on the edge of the old town for the day. Everything is walkable from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Bovenkerk & Nieuwe Toren",
+            "hu": "Bovenkerk és Új Torony",
+            "ro": "Bovenkerk & Turnul Nou",
+            "en": "Bovenkerk & New Tower"
+          },
+          "coords": [
+            5.915,
+            52.557
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Spaziergang am kirchlichen Zentrum der Stadt.",
+            "hu": "Kezdje a sétát a város egyházi központjában.",
+            "ro": "Începeți plimbarea la centrul ecleziastic al orașului.",
+            "en": "Start your walk at the ecclesiastical center of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Stedelijk Museum Kampen",
+            "hu": "Stedelijk Múzeum Kampen",
+            "ro": "Muzeul Municipal Kampen",
+            "en": "Stedelijk Museum Kampen"
+          },
+          "coords": [
+            5.913,
+            52.556
+          ],
+          "category": "museums",
+          "arrive_at": "10:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang bringt Sie zu diesem Komplex historischer Gebäude und Ausstellungen.",
+            "hu": "Egy rövid séta elvezeti Önt a történelmi épületek és kiállítások ezen komplexumához.",
+            "ro": "O scurtă plimbare vă duce la acest complex de clădiri și expoziții istorice.",
+            "en": "A short walk takes you to this complex of historic buildings and exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Koornmarktspoort & Mittagessen",
+            "hu": "Koornmarktspoort és Ebéd",
+            "ro": "Koornmarktspoort & Prânz",
+            "en": "Koornmarktspoort & Lunch"
+          },
+          "coords": [
+            5.918,
+            52.558
+          ],
+          "category": "gastro",
+          "arrive_at": "12:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie das Mittagessen in einem Restaurant mit Blick auf den Fluss in der Nähe des ältesten Tors der Stadt.",
+            "hu": "Ebédeljen egy folyóra néző étteremben a város legrégebbi kapuja közelében.",
+            "ro": "Bucurați-vă de prânz la un restaurant cu vedere la râu, lângă cea mai veche poartă a orașului.",
+            "en": "Enjoy lunch at a restaurant with a river view near the city's oldest gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Kampereiland",
+            "hu": "B csoport: Kampereiland",
+            "ro": "Grupul B: Kampereiland",
+            "en": "Cluster B: Kampereiland"
+          },
+          "coords": [
+            5.89,
+            52.6
+          ],
+          "category": "natural features",
+          "arrive_at": "14:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie aus der Stadt hinaus, um diese einzigartige von Menschenhand geschaffene Insellandschaft zu erkunden.",
+            "hu": "Hajtson ki a városból, hogy felfedezze ezt az egyedülálló, ember alkotta szigeti tájat.",
+            "ro": "Conduceți în afara orașului pentru a explora acest peisaj insular unic, creat de om.",
+            "en": "Drive out of the city to explore this unique man-made island landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Südliche Tore",
+            "hu": "C csoport: Déli kapuk",
+            "ro": "Grupul C: Porțile de Sud",
+            "en": "Cluster C: Southern Gates"
+          },
+          "coords": [
+            5.91,
+            52.554
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zurück in die Stadt, um die Tore Cellebroederspoort und Broederpoort zu Fuß zu erkunden.",
+            "hu": "Hajtson vissza a városba, hogy gyalog fedezze fel a Cellebroederspoort és a Broederpoort kapukat.",
+            "ro": "Conduceți înapoi în oraș pentru a explora porțile Cellebroederspoort și Broederpoort pe jos.",
+            "en": "Drive back towards the city to explore the Cellebroederspoort and Broederpoort gates on foot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie die kompakte Stadt Kampen mit der weiten Landschaft von Kampereiland kombinieren. Parken Sie Ihr Auto und verbringen Sie den Vormittag damit, das historische Herz der Stadt zu Fuß zu erkunden, von der Bovenkerk bis zu den Museen. Nach einem Mittagessen am Flussufer fahren Sie in die einzigartige Polderlandschaft von Kampereiland, ein Zeugnis niederländischer Ingenieurskunst. Am späten Nachmittag kehren Sie in die Stadt zurück, um die südlichen Stadttore zu besichtigen und den Tag mit einer Mischung aus städtischem Erbe und ländlicher Ruhe ausklingen zu lassen.",
+        "hu": "Az autó lehetővé teszi, hogy összekapcsolja Kampen kompakt városát a Kampereiland tágas tájával. Parkolja le az autót, és töltse a délelőttöt a város történelmi szívének gyalogos felfedezésével, a Bovenkerktől a múzeumokig. Egy folyóparti ebéd után hajtson ki a Kampereiland egyedülálló poldervidékére, a holland mérnöki tudás bizonyítékára. Késő délután térjen vissza a városba, hogy megnézze a déli városkapukat, lezárva a napot a városi örökség és a vidéki nyugalom keverékével.",
+        "ro": "Cu mașina, puteți combina orașul compact Kampen cu peisajul vast din Kampereiland. Parcați mașina și petreceți dimineața explorând pe jos inima istorică a orașului, de la Bovenkerk la muzee. După un prânz pe malul râului, conduceți spre peisajul unic al polderelor din Kampereiland, o mărturie a ingineriei olandeze. Reveniți în oraș după-amiaza târziu pentru a vedea porțile de sud ale orașului, încheind ziua cu un amestec de patrimoniu urban și liniște rurală.",
+        "en": "The car allows you to combine the compact city of Kampen with the vast landscape of Kampereiland. Park your car and spend the morning exploring the city's historic heart on foot, from the Bovenkerk to the museums. After a riverside lunch, drive out to the unique polder landscape of Kampereiland, a testament to Dutch engineering. Return to the city in the late afternoon to see the southern city gates, ending the day with a blend of urban heritage and rural tranquility."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokaler Käse",
+            "tip": "Halten Sie an einem Hofladen auf Kampereiland an, um authentischen holländischen Käse zu kaufen."
+          },
+          {
+            "name": "Kamper Steur",
+            "tip": "Ein lokaler Likör, der ein einzigartiges Souvenir oder einen Digestif darstellt."
+          },
+          {
+            "name": "Restaurant Poppe",
+            "tip": "Ein gehobenes Restaurant im Stadtzentrum, ideal für ein besonderes Abendessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi sajt",
+            "tip": "Álljon meg egy farmboltban a Kampereilanden, hogy autentikus holland sajtot vásároljon."
+          },
+          {
+            "name": "Kamper Steur",
+            "tip": "Egy helyi likőr, amely egyedi szuvenír vagy emésztést segítő ital lehet."
+          },
+          {
+            "name": "Restaurant Poppe",
+            "tip": "Egy elegáns étterem a városközpontban, ideális egy különleges vacsorához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză locală",
+            "tip": "Opriți-vă la un magazin de fermă din Kampereiland pentru a cumpăra brânză olandeză autentică."
+          },
+          {
+            "name": "Kamper Steur",
+            "tip": "Un lichior local care poate fi un suvenir unic sau un digestiv."
+          },
+          {
+            "name": "Restaurant Poppe",
+            "tip": "Un restaurant rafinat în centrul orașului, ideal pentru o cină specială."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Cheese",
+            "tip": "Stop at a farm shop on Kampereiland to buy authentic Dutch cheese."
+          },
+          {
+            "name": "Kamper Steur",
+            "tip": "A local liquor that makes for a unique souvenir or after-dinner drink."
+          },
+          {
+            "name": "Restaurant Poppe",
+            "tip": "An upscale dining option in the city center, great for a special dinner."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkte auf Kampereiland",
+            "tip": "Finden Sie einen ruhigen Ort entlang der Deiche, um die Weite der Landschaft zu überblicken.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Der Friedhof an der Bovenkerk",
+            "tip": "Ein überraschend ruhiger und historischer Ort im Herzen der Stadt.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Abend am Flussufer",
+            "tip": "Kehren Sie nach dem Abendessen zum Flussufer zurück, um die Lichter der Stadt auf dem Wasser zu sehen.",
+            "emoji": "🌃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópontok a Kampereilanden",
+            "tip": "Keressen egy csendes helyet a gátak mentén, ahonnan beláthatja a táj tágasságát.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Bovenkerk melletti temető",
+            "tip": "Meglepően csendes és történelmi hely a város szívében.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Este a folyóparton",
+            "tip": "Vacsora után térjen vissza a folyópartra, hogy megnézze a város fényeit a vízen.",
+            "emoji": "🌃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Puncte de belvedere pe Kampereiland",
+            "tip": "Găsiți un loc liniștit de-a lungul digurilor pentru a admira vastitatea peisajului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul de lângă Bovenkerk",
+            "tip": "Un loc surprinzător de liniștit și istoric în inima orașului.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Seara pe malul râului",
+            "tip": "Reveniți pe malul râului după cină pentru a vedea luminile orașului reflectate în apă.",
+            "emoji": "🌃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kampereiland viewpoints",
+            "tip": "Find a quiet spot along the dikes to look out over the vastness of the landscape.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The churchyard at Bovenkerk",
+            "tip": "A surprisingly quiet and historic spot in the heart of the city.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Evening on the riverfront",
+            "tip": "Return to the riverfront after dinner to see the city lights reflected on the water.",
+            "emoji": "🌃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Antiquitätengeschäfte",
+            "tip": "Stöbern Sie in den kleinen Antiquitätengeschäften nach einzigartigen Fundstücken und maritimen Artefakten."
+          },
+          {
+            "name": "Kamper Tabak",
+            "tip": "Die Stadt hat eine Geschichte des Tabakhandels; finden Sie Fachgeschäfte für ein einzigartiges Geschenk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Antikváriumok",
+            "tip": "Böngésszen a kis antikváriumokban egyedi leletekért és tengerészeti tárgyakért."
+          },
+          {
+            "name": "Kamper dohány",
+            "tip": "A városnak dohánykereskedelmi múltja van; keressen szaküzleteket egy egyedi ajándékért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de antichități",
+            "tip": "Căutați în micile magazine de antichități pentru descoperiri unice și artefacte maritime."
+          },
+          {
+            "name": "Tutun Kamper",
+            "tip": "Orașul are o istorie a comerțului cu tutun; găsiți magazine specializate pentru un cadou unic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Antique Shops",
+            "tip": "Browse the small antique shops for unique finds and maritime artifacts."
+          },
+          {
+            "name": "Kamper Tabak",
+            "tip": "The city has a history of tobacco trade; find specialty shops for a unique gift."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Parkvorschriften sorgfältig; die meisten zentralen Bereiche erfordern eine Parkscheibe oder Bezahlung.",
+          "Die Straßen im Zentrum sind eng, fahren Sie also langsam und achten Sie auf Radfahrer und Fußgänger.",
+          "Die Fahrt nach Kampereiland bietet eine großartige Perspektive auf das niederländische Wassermanagement.",
+          "Planen Sie Ihre Rückfahrt in die Stadt so, dass Sie den Feierabendverkehr vermeiden, wenn möglich."
+        ],
+        "hu": [
+          "Gondosan ellenőrizze a parkolási szabályokat; a legtöbb központi területen parkolótárcsa vagy fizetés szükséges.",
+          "A központi utcák szűkek, ezért vezessen lassan, és figyeljen a kerékpárosokra és a gyalogosokra.",
+          "A Kampereiland-i út nagyszerű perspektívát nyújt a holland vízgazdálkodásról.",
+          "Tervezze meg a városba való visszautat, hogy elkerülje a csúcsforgalmat, ha lehetséges."
+        ],
+        "ro": [
+          "Verificați cu atenție regulile de parcare; majoritatea zonelor centrale necesită un disc de parcare sau plată.",
+          "Străzile din centru sunt înguste, așa că conduceți încet și fiți atenți la bicicliști și pietoni.",
+          "Drumul spre Kampereiland oferă o perspectivă excelentă asupra managementului apelor din Olanda.",
+          "Planificați-vă întoarcerea în oraș pentru a evita traficul de la orele de vârf, dacă este posibil."
+        ],
+        "en": [
+          "Check parking regulations carefully; most central areas require a parking disc or payment.",
+          "The streets in the center are narrow, so drive slowly and be mindful of cyclists and pedestrians.",
+          "The drive to Kampereiland offers a great perspective on Dutch water management.",
+          "Plan your drive back into the city to avoid rush hour traffic if possible."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Haltestelle IJsselkade",
+            "hu": "A csoport: IJsselkade megálló",
+            "ro": "Grupul A: Stația IJsselkade",
+            "en": "Cluster A: IJsselkade Bus Stop"
+          },
+          "coords": [
+            5.919,
+            52.559
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Bahnhof zur Haltestelle am Flussufer, um Ihre Erkundung zu beginnen.",
+            "hu": "Menjen busszal az állomásról a folyóparti megállóig, hogy elkezdje a felfedezést.",
+            "ro": "Luați un autobuz de la gară până la stația de pe malul râului pentru a începe explorarea.",
+            "en": "Take a bus from the train station to the riverfront stop to begin your exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Koornmarktspoort",
+            "hu": "Koornmarktspoort",
+            "ro": "Koornmarktspoort",
+            "en": "Koornmarktspoort"
+          },
+          "coords": [
+            5.918,
+            52.558
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ihr erster Halt ist das beeindruckende Tor, das über den Fluss wacht.",
+            "hu": "Az első megálló a folyó felett őrködő lenyűgöző kapu.",
+            "ro": "Prima oprire este poarta impunătoare care veghează asupra râului.",
+            "en": "Your first stop is the impressive gate watching over the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Bovenkerk",
+            "hu": "Bovenkerk",
+            "ro": "Bovenkerk",
+            "en": "Bovenkerk"
+          },
+          "coords": [
+            5.915,
+            52.557
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang landeinwärts führt Sie zu der riesigen gotischen Basilika.",
+            "hu": "Egy rövid séta a szárazföld belseje felé elvezeti Önt az óriási gótikus bazilikához.",
+            "ro": "O scurtă plimbare spre interior vă duce la imensa bazilică gotică.",
+            "en": "A short walk inland brings you to the massive Gothic basilica."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Haltestelle Oranjesingel",
+            "hu": "B csoport: Oranjesingel megálló",
+            "ro": "Grupul B: Stația Oranjesingel",
+            "en": "Cluster B: Oranjesingel Bus Stop"
+          },
+          "coords": [
+            5.911,
+            52.552
+          ],
+          "category": "transport",
+          "arrive_at": "11:50",
+          "stay_min": 10,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus, um zum südlichen Teil des Stadtzentrums zu gelangen.",
+            "hu": "Menjen helyi busszal a városközpont déli részébe.",
+            "ro": "Luați un autobuz local pentru a ajunge în partea de sud a centrului orașului.",
+            "en": "Take a local bus to loop around to the southern part of the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Cellebroederspoort",
+            "hu": "Cellebroederspoort",
+            "ro": "Cellebroederspoort",
+            "en": "Cellebroederspoort"
+          },
+          "coords": [
+            5.912,
+            52.553
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses märchenhafte Tor und essen Sie in der Nähe zu Mittag.",
+            "hu": "Fedezze fel ezt a mesebeli kaput, és ebédeljen a közelben.",
+            "ro": "Explorați această poartă de basm și luați prânzul în apropiere.",
+            "en": "Explore this fairytale gate and have lunch nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Stedelijk Museum Kampen",
+            "hu": "Stedelijk Múzeum Kampen",
+            "ro": "Muzeul Municipal Kampen",
+            "en": "Stedelijk Museum Kampen"
+          },
+          "coords": [
+            5.913,
+            52.556
+          ],
+          "category": "museums",
+          "arrive_at": "13:43",
+          "stay_min": 180,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem ausgiebigen Besuch des Hauptmuseums der Stadt.",
+            "hu": "Zárja a napot egy hosszú látogatással a város fő múzeumában.",
+            "ro": "Încheiați ziua cu o vizită extinsă la muzeul principal al orașului.",
+            "en": "Finish your day with an extensive visit to the city's main museum."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Nutzung öffentlicher Verkehrsmittel in Kampen ermöglicht eine entspannte Erkundung. Beginnen Sie Ihren Tag mit einer Busfahrt zum Flussufer, um die hanseatische Skyline zu bewundern. Ein Spaziergang führt Sie zur Bovenkerk. Am Mittag bringt Sie ein weiterer Bus in die Nähe der südlichen Tore, wo Sie eine andere Facette der Stadt entdecken können. Der Nachmittag ist einem tiefen Eintauchen in die Geschichte im Stedelijk Museum gewidmet, das nach einem angenehmen Spaziergang durch die alten Straßen leicht zu erreichen ist. Es ist eine effiziente und stressfreie Art, die Highlights zu sehen.",
+        "hu": "A tömegközlekedés használata Kampenben lehetővé teszi a nyugodt felfedezést. Kezdje a napot egy buszúttal a folyópartra, hogy megcsodálja a hanza város sziluettjét. Egy séta elvezeti a Bovenkerkhez. Délben egy másik busz elviszi a déli kapuk közelébe, ahol a város egy másik oldalát fedezheti fel. A délután a történelem mélyére merülésről szól a Városi Múzeumban, amely egy kellemes séta után könnyen elérhető a régi utcákon keresztül. Ez egy hatékony és stresszmentes módja a főbb látnivalók megtekintésének.",
+        "ro": "Folosirea transportului public în Kampen permite o explorare relaxată. Începeți ziua cu o călătorie cu autobuzul până pe malul râului pentru a admira orizontul hanseatic. O plimbare vă duce la Bovenkerk. La prânz, un alt autobuz vă duce aproape de porțile sudice pentru o altă fațetă a orașului. După-amiaza este dedicată unei scufundări profunde în istorie la Muzeul Municipal, ușor accesibil după o plimbare plăcută pe străzile vechi. Este un mod eficient și fără stres de a vedea punctele de atracție.",
+        "en": "Using public transport in Kampen allows for a relaxed exploration. Start your day with a bus ride to the riverfront to admire the Hanseatic skyline. A walk takes you to the Bovenkerk. At midday, another bus takes you near the southern gates for a different facet of the city. The afternoon is for a deep dive into history at the Stedelijk Museum, easily reached after a pleasant stroll through the old streets. It's an efficient and stress-free way to see the highlights."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Friet Speciaal",
+            "tip": "Holen Sie sich eine Portion holländische Pommes mit einer einzigartigen Mischung aus Saucen von einem Imbissstand."
+          },
+          {
+            "name": "Kibbeling",
+            "tip": "Gebratene Fischstücke, ein perfekter Snack, den man unterwegs genießen kann."
+          },
+          {
+            "name": "Eetcafé 't Middelpunt",
+            "tip": "Ein zwangloses 'Esscafé', das bei Einheimischen für eine herzhafte und erschwingliche Mahlzeit beliebt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Friet Speciaal",
+            "tip": "Vegyen egy adag holland sült krumplit egyedi szószkeverékkel egy büféből."
+          },
+          {
+            "name": "Kibbeling",
+            "tip": "Sült haldarabok, tökéletes snack útközben."
+          },
+          {
+            "name": "Eetcafé 't Middelpunt",
+            "tip": "Egy laza 'étkező kávézó', amely a helyiek körében népszerű egy kiadós és megfizethető ételért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Friet Speciaal",
+            "tip": "Luați o porție de cartofi prăjiți olandezi cu un amestec unic de sosuri de la o tarabă."
+          },
+          {
+            "name": "Kibbeling",
+            "tip": "Bucăți de pește prăjit, o gustare perfectă de savurat din mers."
+          },
+          {
+            "name": "Eetcafé 't Middelpunt",
+            "tip": "O 'cafenea-restaurant' informală, populară printre localnici pentru o masă consistentă și accesibilă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Friet Speciaal",
+            "tip": "Get a portion of Dutch fries with a unique mix of sauces from a snack bar."
+          },
+          {
+            "name": "Kibbeling",
+            "tip": "Battered and fried pieces of fish, a perfect snack to enjoy on the go."
+          },
+          {
+            "name": "Eetcafé 't Middelpunt",
+            "tip": "A casual 'eating café' popular with locals for a hearty and affordable meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Leseecke im Museum",
+            "tip": "Viele Museen haben ruhige Ecken oder Cafés, perfekt für eine kurze Pause.",
+            "emoji": "🖼️"
+          },
+          {
+            "name": "Ufer der Burgel",
+            "tip": "Finden Sie eine Bank entlang des innerstädtischen Kanals für einen ruhigen Moment.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Obere Etage der Bovenkerk",
+            "tip": "Auch ohne den Turm zu besteigen, kann das Innere der Kirche sehr friedlich sein.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olvasósarok a múzeumban",
+            "tip": "Sok múzeumban vannak csendes sarkok vagy kávézók, amelyek tökéletesek egy rövid szünetre.",
+            "emoji": "🖼️"
+          },
+          {
+            "name": "A Burgel partja",
+            "tip": "Keressen egy padot a belvárosi csatorna mentén egy csendes pillanatra.",
+            "emoji": "💧"
+          },
+          {
+            "name": "A Bovenkerk felső szintje",
+            "tip": "Még a torony megmászása nélkül is nagyon békés lehet a templom belseje.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Colț de lectură în muzeu",
+            "tip": "Multe muzee au colțuri liniștite sau cafenele, perfecte pentru o scurtă pauză.",
+            "emoji": "🖼️"
+          },
+          {
+            "name": "Malurile canalului Burgel",
+            "tip": "Găsiți o bancă de-a lungul canalului interior al orașului pentru un moment de liniște.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Etajul superior al Bovenkerk",
+            "tip": "Chiar și fără a urca în turn, interiorul bisericii poate fi foarte pașnic.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Museum reading corner",
+            "tip": "Many museums have quiet corners or cafés perfect for a short rest.",
+            "emoji": "🖼️"
+          },
+          {
+            "name": "Banks of the Burgel canal",
+            "tip": "Find a bench along the inner-city canal for a quiet moment.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Upper floor of the Bovenkerk",
+            "tip": "Even without climbing the tower, the church interior can be very peaceful.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Buchhandlungen",
+            "tip": "Kampen hat mehrere charmante Buchhandlungen, ideal zum Stöbern an einem ruhigen Nachmittag."
+          },
+          {
+            "name": "Souvenirladen im Museum",
+            "tip": "Der Laden im Stedelijk Museum bietet einzigartige Geschenke im Zusammenhang mit der Geschichte der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Könyvesboltok",
+            "tip": "Kampenben több bájos könyvesbolt is található, ideálisak egy csendes délutáni böngészéshez."
+          },
+          {
+            "name": "Múzeumi ajándékbolt",
+            "tip": "A Stedelijk Múzeum boltja egyedi, a város történelméhez kapcsolódó ajándékokat kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Librării",
+            "tip": "Kampen are mai multe librării fermecătoare, ideale pentru a răsfoi într-o după-amiază liniștită."
+          },
+          {
+            "name": "Magazinul de suveniruri al muzeului",
+            "tip": "Magazinul de la Muzeul Stedelijk oferă cadouri unice legate de istoria orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bookshops",
+            "tip": "Kampen has several charming bookshops, ideal for browsing on a quiet afternoon."
+          },
+          {
+            "name": "Museum Gift Shop",
+            "tip": "The shop at the Stedelijk Museum offers unique gifts related to the city's history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen, da dies kostengünstiger sein kann.",
+          "Laden Sie die App des lokalen Busunternehmens (z.B. RRReis) herunter, um Fahrpläne und Routen in Echtzeit zu sehen.",
+          "Die Bushaltestellen sind nicht immer direkt vor den Sehenswürdigkeiten; seien Sie auf kurze Spaziergänge vorbereitet.",
+          "Beachten Sie die letzte Busabfahrt, besonders wenn Sie am späten Abend zum Bahnhof zurückkehren."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha több utazást tervez, mivel ez költséghatékonyabb lehet.",
+          "Töltse le a helyi busztársaság (pl. RRReis) alkalmazását a valós idejű menetrendekért és útvonalakért.",
+          "A buszmegállók nem mindig közvetlenül a látnivalók előtt vannak; készüljön fel rövid sétákra.",
+          "Figyeljen az utolsó busz indulására, különösen, ha késő este tér vissza az állomásra."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă plănuiți mai multe călătorii, poate fi mai rentabil.",
+          "Descărcați aplicația companiei locale de autobuz (de ex. RRReis) pentru orare și rute în timp real.",
+          "Stațiile de autobuz nu sunt întotdeauna direct în fața atracțiilor; fiți pregătiți pentru scurte plimbări.",
+          "Fiți atenți la plecarea ultimului autobuz, mai ales dacă vă întoarceți la gară târziu în seară."
+        ],
+        "en": [
+          "Buy a day ticket for the bus if you plan on making multiple trips, it can be more cost-effective.",
+          "Download the local bus company's app (e.g., RRReis) for real-time schedules and routes.",
+          "Bus stops aren't always directly in front of the sights; be prepared for short walks.",
+          "Be aware of the last bus departure, especially if you're returning to the train station late in the evening."
+        ]
+      }
+    }
+  }
+}

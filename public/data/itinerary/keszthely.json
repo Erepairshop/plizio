@@ -1,0 +1,1392 @@
+{
+  "city_id": "keszthely",
+  "anchor": {
+    "name": "Keszthely",
+    "coords": [
+      17.2431,
+      46.7681
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Schloss Festetics",
+          "coords": [
+            17.24,
+            46.771
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tickets im Voraus online kaufen, um Wartezeiten am prächtigen Barockschloss zu vermeiden.",
+            "hu": "Érdemes online jegyet venni, hogy elkerüld a sorban állást a lenyűgöző barokk kastélynál.",
+            "ro": "Cumpără bilete online pentru a evita cozile la acest magnific castel baroc.",
+            "en": "Buy tickets online to skip the lines at this magnificent Baroque palace."
+          }
+        },
+        {
+          "name": "Schlossgarten",
+          "coords": [
+            17.239,
+            46.7715
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spaziere zu den historischen Springbrunnen und dem englischen Landschaftsgarten.",
+            "hu": "Sétálj el a történelmi szökőkutakhoz és az angol tájkert különleges fáihoz.",
+            "ro": "Plimbă-te printre fântânile istorice și grădina peisagistică în stil englezesc.",
+            "en": "Stroll to the historic fountains and the English landscape garden."
+          }
+        },
+        {
+          "name": "Puppenmuseum",
+          "coords": [
+            17.244,
+            46.766
+          ],
+          "category": "museums",
+          "arrive_at": "12:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Europas größte Wachspuppensammlung in ungarischen Volkstrachten.",
+            "hu": "Európa legnagyobb, magyar népviseleteket bemutató viaszbaba-gyűjteménye.",
+            "ro": "Cea mai mare colecție de păpuși de ceară din Europa în costume populare maghiare.",
+            "en": "Europe's largest wax doll collection showcasing Hungarian folk costumes."
+          }
+        },
+        {
+          "name": "Pfarrkirche St. Theresia",
+          "coords": [
+            17.2445,
+            46.764
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachte die prächtigen mittelalterlichen Fresken im Inneren der Franziskanerkirche.",
+            "hu": "Figyeld meg a csodás középkori freskókat a ferences templom belsejében.",
+            "ro": "Observă frescele medievale impresionante din interiorul bisericii franciscane.",
+            "en": "Notice the magnificent medieval frescoes inside this Franciscan church."
+          }
+        },
+        {
+          "name": "Balaton-Museum",
+          "coords": [
+            17.245,
+            46.76
+          ],
+          "category": "museums",
+          "arrive_at": "13:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lerne alles über die Entstehung und Ökologie des Plattensees.",
+            "hu": "Ismerd meg a Balaton kialakulását és gazdag ökológiai világát.",
+            "ro": "Află totul despre formarea și ecologia Lacului Balaton.",
+            "en": "Learn everything about the formation and ecology of Lake Balaton."
+          }
+        },
+        {
+          "name": "Helikon-Park",
+          "coords": [
+            17.249,
+            46.76
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Raste unter alten Platanen beim Helikon-Denkmal aus dem Jahr 1921.",
+            "hu": "Pihenj meg az öreg platánok alatt az 1921-es Helikon-emlékműnél.",
+            "ro": "Relaxează-te sub platanii seculari la monumentul Helikon din 1921.",
+            "en": "Rest under old plane trees by the Helikon monument from 1921."
+          }
+        },
+        {
+          "name": "Inselbad",
+          "coords": [
+            17.252,
+            46.756
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genieße den Sonnenuntergang in diesem rekonstruierten historischen Seebad.",
+            "hu": "Élvezd a naplementét ebben a gyönyörűen rekonstruált történelmi szigetfürdőben.",
+            "ro": "Bucură-te de apusul soarelui în această baie istorică pe insulă, reconstruită.",
+            "en": "Enjoy the sunset at this beautifully reconstructed historic island bath."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Keszthelys aristokratisches Erbe lässt sich am besten zu Fuß erkunden. Der Morgen ist dem Festetics-Palast und seinen Gärten gewidmet. Mittags geht es durch die Fußgängerzone zu einzigartigen Museen. Der Nachmittag wird rund um das Balaton-Museum und den Helikon-Park verbracht. Der Abend endet am legendären Szigetfürdő-Seebad am Seeufer.",
+        "hu": "Keszthely arisztokratikus öröksége gyalog fedezhető fel a legjobban. A délelőtt a Festetics-kastélyé és parkjáé. Délben a sétálóutcán át a különleges múzeumokat nézzük meg. A délutánt a Balatoni Múzeum és a Helikon park környékén töltjük. Az este a tóparton, az ikonikus Szigetfürdőnél zárul.",
+        "ro": "Moștenirea aristocratică a orașului Keszthely este cel mai bine explorată pe jos. Dimineața este dedicată Palatului Festetics și grădinilor sale. La prânz te plimbi pe strada pietonală pentru muzee unice. După-amiaza se petrece în jurul Muzeului Balaton și al Parcului Helikon. Seara se încheie la baia istorică Szigetfürdő.",
+        "en": "Keszthely's aristocratic heritage is best explored on foot. The morning is dedicated to the magnificent Festetics Palace and its gardens. Midday takes you through the pedestrian street to see quirky museums. The afternoon relaxes around the Balaton Museum and Helikon Park. The evening concludes at the iconic Szigetfürdő bath by the lake."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zalaer Wildgulasch",
+            "tip": "Herzhaftes regionales Wildgericht."
+          },
+          {
+            "name": "Balatoner Zander",
+            "tip": "Traditionell gebraten an der Promenade."
+          },
+          {
+            "name": "Krémes",
+            "tip": "Klassische ungarische Vanilleschnitte im Café."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zalai szarvaspörkölt",
+            "tip": "Klasszikus helyi vadétel dödöllével."
+          },
+          {
+            "name": "Balatoni süllő",
+            "tip": "Hagyományosan sütve a parton."
+          },
+          {
+            "name": "Krémes",
+            "tip": "Klasszikus magyar sütemény a sétálóutca kávézóiban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gulaș de căprioară Zala",
+            "tip": "Preparat local tradițional din vânat."
+          },
+          {
+            "name": "Șalău de Balaton",
+            "tip": "Prăjit tradițional, lângă promenadă."
+          },
+          {
+            "name": "Krémes",
+            "tip": "Prăjitură clasică cu cremă de vanilie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zala Venison Stew",
+            "tip": "A hearty traditional game dish."
+          },
+          {
+            "name": "Balaton Pike-Perch",
+            "tip": "Traditionally roasted near the promenade."
+          },
+          {
+            "name": "Krémes",
+            "tip": "Classic Hungarian vanilla slice in local cafés."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Festetics Schlosspark",
+            "tip": "Unter den alten Eichen ruhen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Helikon-Park",
+            "tip": "Ruhige Schattenplätze im Zentrum.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Keszthelyer Pier",
+            "tip": "Perfekter Ort für den Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Festetics Kastélypark",
+            "tip": "Pihenés az ősfák árnyékában.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Helikon park",
+            "tip": "Csendes árnyékos helyek a központban.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Keszthelyi móló",
+            "tip": "Tökéletes helyszín a naplementéhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului Festetics",
+            "tip": "Odihnește-te sub stejarii bătrâni.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Helikon",
+            "tip": "Locuri liniștite și umbrite în centru.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Debarcaderul Keszthely",
+            "tip": "Loc perfect pentru apusul soarelui.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Festetics Castle Park",
+            "tip": "Rest under the ancient oak trees.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Helikon Park",
+            "tip": "Quiet shaded spots in the center.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Keszthely Pier",
+            "tip": "Perfect spot to watch the sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markthalle Keszthely",
+            "tip": "Lokale Käse- und Wurstwaren."
+          },
+          {
+            "name": "Lavendelprodukte",
+            "tip": "Hausgemachte Seifen und Öle vom Balaton."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Keszthelyi Piac",
+            "tip": "Helyi sajtok, húsok és termelői javak."
+          },
+          {
+            "name": "Levendula termékek",
+            "tip": "Házi készítésű szappanok és olajok a tó mellől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Keszthely",
+            "tip": "Brânzeturi și mezeluri locale."
+          },
+          {
+            "name": "Produse cu lavandă",
+            "tip": "Săpunuri și uleiuri artizanale de la Balaton."
+          }
+        ],
+        "en": [
+          {
+            "name": "Keszthely Market",
+            "tip": "Local cheeses and artisan meats."
+          },
+          {
+            "name": "Lavender products",
+            "tip": "Homemade soaps and oils from the Balaton region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Fußgängerzone (Kossuth Lajos utca) verbindet das Schloss mit dem Zentrum.",
+          "Trage bequeme Schuhe für die Kopfsteinpflaster rund um das Schloss.",
+          "Plane extra Zeit für den Balaton-Strand am späten Nachmittag ein.",
+          "Verpasse nicht das Marzipan-Museum in einer kleinen Seitengasse."
+        ],
+        "hu": [
+          "A sétálóutca (Kossuth Lajos utca) kényelmesen köti össze a kastélyt a központtal.",
+          "Viselj kényelmes cipőt a kastély körüli macskaköves utakra.",
+          "Hagyj elég időt a Balaton-parti sétára a késő délutáni órákban.",
+          "Ne hagyd ki a Marcipán Múzeumot az egyik kis mellékutcában."
+        ],
+        "ro": [
+          "Strada pietonală leagă confortabil castelul de centrul orașului.",
+          "Poartă pantofi comozi pentru străzile pietruite din jurul castelului.",
+          "Alocă timp suplimentar pentru plaja de la Balaton după-amiaza târziu.",
+          "Nu rata Muzeul Marțipanului de pe o străduță laterală mică."
+        ],
+        "en": [
+          "The pedestrian street (Kossuth Lajos utca) perfectly links the castle to the center.",
+          "Wear comfortable shoes for the cobblestones around the castle.",
+          "Leave enough time for the Balaton shoreline walk in the late afternoon.",
+          "Don't miss the Marzipan Museum tucked away on a small side street."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 6.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Inselbad",
+          "coords": [
+            17.252,
+            46.756
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genieße die ruhige Morgenstimmung am Seeufer.",
+            "hu": "Élvezd a csendes reggeli hangulatot a tóparton.",
+            "ro": "Bucură-te de atmosfera liniștită a dimineții pe malul lacului.",
+            "en": "Enjoy the peaceful morning atmosphere on the lake shore."
+          }
+        },
+        {
+          "name": "Helikon-Park",
+          "coords": [
+            17.249,
+            46.76
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radle gemütlich durch die breiten, schattigen Alleen des Parks.",
+            "hu": "Tekerj kényelmesen a park széles, árnyékos sétányain.",
+            "ro": "Pedalează lejer pe aleile largi și umbrite ale parcului.",
+            "en": "Cycle leisurely through the park's wide, shaded avenues."
+          }
+        },
+        {
+          "name": "Balaton-Museum",
+          "coords": [
+            17.245,
+            46.76
+          ],
+          "category": "museums",
+          "arrive_at": "11:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahrradständer befinden sich direkt vor dem prächtigen Museumsgebäude.",
+            "hu": "Kerékpártárolók találhatók közvetlenül a lenyűgöző múzeumépület előtt.",
+            "ro": "Suporturile pentru biciclete se află chiar în fața clădirii grandioase a muzeului.",
+            "en": "Bicycle racks are located directly in front of the grand museum building."
+          }
+        },
+        {
+          "name": "Pfarrkirche St. Theresia",
+          "coords": [
+            17.2445,
+            46.764
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Hauptplatz ist ideal für eine kurze Pause mit Blick auf die Kirche.",
+            "hu": "A Fő tér ideális egy rövid pihenőre, kilátással a templomra.",
+            "ro": "Piața principală este ideală pentru o scurtă pauză cu vedere la biserică.",
+            "en": "The main square is ideal for a short break with a view of the church."
+          }
+        },
+        {
+          "name": "Cadillac-Museum",
+          "coords": [
+            17.241,
+            46.765
+          ],
+          "category": "museums",
+          "arrive_at": "13:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine fantastische private Sammlung amerikanischer Oldtimer.",
+            "hu": "Fantasztikus magángyűjtemény amerikai oldtimerekből.",
+            "ro": "O colecție privată fantastică de mașini clasice americane.",
+            "en": "A fantastic private collection of American classic cars."
+          }
+        },
+        {
+          "name": "Schloss Festetics",
+          "coords": [
+            17.24,
+            46.771
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Sichere dein Fahrrad am Eingang des Schlossgeländes.",
+            "hu": "Zárd le a kerékpárodat a kastély bejáratánál.",
+            "ro": "Securizează-ți bicicleta la intrarea în domeniul castelului.",
+            "en": "Secure your bike at the entrance to the castle grounds."
+          }
+        },
+        {
+          "name": "Festetics-Imre-Erlebnispark",
+          "coords": [
+            17.275,
+            46.775
+          ],
+          "category": "natural features",
+          "arrive_at": "16:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine schöne Fahrt etwas außerhalb des Zentrums zu ungarischen Nutztieren.",
+            "hu": "Kellemes tekerés a városból kifelé a magyar haszonállatokat bemutató parkhoz.",
+            "ro": "O plimbare plăcută în afara centrului spre animalele de fermă maghiare.",
+            "en": "A nice ride just outside the center to see Hungarian farm animals."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radfahren ist entlang des Seeufers von Keszthely ein Traum. Beginne am historischen Seebad Szigetfürdő und fahre durch den schattigen Helikon-Park. Mittags passierst du Museen zum Hauptplatz. Am Nachmittag erkundest du das prächtige Schloss Festetics und radelst zum Naturpark Festetics Imre für einen perfekten Abschluss.",
+        "hu": "Keszthely tópartján és utcáin kerékpározni nagyszerű élmény. Kezdj a történelmi Szigetfürdőnél, majd tekerj át az árnyas Helikon parkon. Délben a múzeumok és a Fő tér következik. Délután nézd meg a pompás Festetics-kastélyt, majd bringázz ki a Festetics Imre Élményparkba a nap lezárásaként.",
+        "ro": "Ciclismul este o briză de-a lungul lacului Keszthely. Începe la baia istorică Szigetfürdő și pedalează prin Parcul umbrit Helikon. La prânz treci pe lângă muzee spre piața principală. După-amiaza, explorează grandiosul Palat Festetics, apoi mergi spre Parcul Natural Festetics Imre.",
+        "en": "Cycling is a breeze along Keszthely's lakefront. Start your morning at the historic Szigetfürdő and pedal through the shady Helikon Park. Midday brings you past museums to the main square. In the afternoon, explore the grand Festetics Palace, then ride out to the Imre Festetics Nature Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Balatoner Lángos",
+            "tip": "Am Kiosk nahe dem Inselbad."
+          },
+          {
+            "name": "Eis am Pier",
+            "tip": "Perfekte Erfrischung nach der Radtour."
+          },
+          {
+            "name": "Gefüllte Paprika",
+            "tip": "Klassiker in den Tavernen der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Balatoni Lángos",
+            "tip": "A Szigetfürdő melletti pavilonoknál."
+          },
+          {
+            "name": "Fagylalt a mólónál",
+            "tip": "Tökéletes hűsítő a bringázás után."
+          },
+          {
+            "name": "Töltött paprika",
+            "tip": "Házias ebéd az óvárosi kisvendéglőkben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lángos de Balaton",
+            "tip": "La un chioșc lângă Insulă."
+          },
+          {
+            "name": "Înghețată la debarcader",
+            "tip": "Răcorire perfectă după pedalat."
+          },
+          {
+            "name": "Ardei umpluți",
+            "tip": "Clasic în tavernele din orașul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Balaton Lángos",
+            "tip": "At a kiosk near the Island Bath."
+          },
+          {
+            "name": "Ice cream at the pier",
+            "tip": "Perfect refreshment after the ride."
+          },
+          {
+            "name": "Stuffed Peppers",
+            "tip": "A classic dish in old town taverns."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Helikon-Park",
+            "tip": "Pause unter den Baumkronen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Uferpromenade",
+            "tip": "Blick auf die Segelboote.",
+            "emoji": "⛵"
+          },
+          {
+            "name": "Festetics Tierpark",
+            "tip": "Natur pur am Stadtrand.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helikon park",
+            "tip": "Pihenő a lombkoronák alatt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parti sétány",
+            "tip": "Kilátás a vitorlásokra.",
+            "emoji": "⛵"
+          },
+          {
+            "name": "Festetics Állatpark",
+            "tip": "Tiszta természet a város szélén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Helikon",
+            "tip": "Pauză sub coronamentul copacilor.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Promenada pe mal",
+            "tip": "Vedere către bărcile cu pânze.",
+            "emoji": "⛵"
+          },
+          {
+            "name": "Parcul de animale Festetics",
+            "tip": "Natură pură la marginea orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Helikon Park",
+            "tip": "Break under the tree canopy.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Lake Promenade",
+            "tip": "View of the sailboats.",
+            "emoji": "⛵"
+          },
+          {
+            "name": "Festetics Animal Park",
+            "tip": "Pure nature on the city outskirts.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrrad-Zubehör",
+            "tip": "Kleine Shops in der Kossuth Straße."
+          },
+          {
+            "name": "Regionale Weine",
+            "tip": "Balaton-Weine aus den umliegenden Hügeln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpáros kiegészítők",
+            "tip": "Kis boltok a Kossuth utcában."
+          },
+          {
+            "name": "Regionális borok",
+            "tip": "Balatoni borok a környező hegyekből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Accesorii pentru biciclete",
+            "tip": "Micile magazine de pe strada Kossuth."
+          },
+          {
+            "name": "Vinuri regionale",
+            "tip": "Vinuri Balaton din dealurile înconjurătoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike accessories",
+            "tip": "Small shops on Kossuth Street."
+          },
+          {
+            "name": "Regional wines",
+            "tip": "Balaton wines from the surrounding hills."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Keszthely ist sehr fahrradfreundlich mit ausgewiesenen Wegen am See.",
+          "Die Fußgängerzone im Zentrum darf oft nur geschoben passiert werden.",
+          "Schließe das Fahrrad bei den Museen immer gut ab.",
+          "Die Strecke zum Erlebnispark ist größtenteils flach und gut ausgebaut."
+        ],
+        "hu": [
+          "Keszthely nagyon kerékpárosbarát, kiépített utakkal a tóparton.",
+          "A központi sétálóutcában a kerékpárt sok helyen csak tolni szabad.",
+          "A múzeumoknál mindig biztonságosan zárd le a bringát.",
+          "Az élményparkba vezető út nagyrészt sík és jó minőségű."
+        ],
+        "ro": [
+          "Keszthely este foarte prietenos cu bicicletele, cu trasee pe lac.",
+          "Zona pietonală din centru necesită adesea împingerea bicicletei.",
+          "Încuie întotdeauna bine bicicleta lângă muzee.",
+          "Traseul către parcul de aventură este în mare parte plat."
+        ],
+        "en": [
+          "Keszthely is very bike-friendly with dedicated paths by the lake.",
+          "The central pedestrian zone often requires you to push your bike.",
+          "Always lock your bike securely when visiting the museums.",
+          "The route to the adventure park is mostly flat and well-paved."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:15",
+      "total_km": 7.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Schloss Festetics",
+          "coords": [
+            17.24,
+            46.771
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Nutze den großen Parkplatz in der Nähe des Schlosseingangs für diesen Cluster.",
+            "hu": "Használd a kastély bejáratához közeli nagy parkolót ehhez a blokkhoz.",
+            "ro": "Folosește parcarea mare din apropierea intrării în castel pentru acest cluster.",
+            "en": "Use the large parking lot near the castle entrance for this cluster."
+          }
+        },
+        {
+          "name": "Schlossgarten",
+          "coords": [
+            17.239,
+            46.7715
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Garten ist direkt an das Schlossgelände angeschlossen.",
+            "hu": "A park közvetlenül a kastély területéhez kapcsolódik.",
+            "ro": "Grădina este conectată direct de domeniul castelului.",
+            "en": "The garden is directly connected to the castle grounds."
+          }
+        },
+        {
+          "name": "Puppenmuseum",
+          "coords": [
+            17.244,
+            46.766
+          ],
+          "category": "museums",
+          "arrive_at": "12:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang vom Schlossparkplatz entfernt.",
+            "hu": "Csak egy rövid sétára található a kastély parkolójától.",
+            "ro": "La doar o scurtă plimbare de parcarea castelului.",
+            "en": "Just a short walk from the castle parking lot."
+          }
+        },
+        {
+          "name": "Balaton-Museum",
+          "coords": [
+            17.245,
+            46.76
+          ],
+          "category": "museums",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahre zum Seeufer-Cluster und parke in der Nähe des Museums.",
+            "hu": "Vezess át a tóparti zónába, és parkolj le a múzeum közelében.",
+            "ro": "Condu spre clusterul de pe malul lacului și parchează lângă muzeu.",
+            "en": "Drive to the lakefront cluster and park near the museum."
+          }
+        },
+        {
+          "name": "Helikon-Park",
+          "coords": [
+            17.249,
+            46.76
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner kurzer Spaziergang vom Museumsparkplatz.",
+            "hu": "Egy kellemes, rövid séta a múzeum parkolójától.",
+            "ro": "O scurtă plimbare plăcută de la parcarea muzeului.",
+            "en": "A pleasant short walk from the museum parking lot."
+          }
+        },
+        {
+          "name": "Inselbad",
+          "coords": [
+            17.252,
+            46.756
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Folge der Promenade vom Park bis zu diesem ikonischen Bad.",
+            "hu": "Kövesd a sétányt a parkból ehhez az ikonikus fürdőhöz.",
+            "ro": "Urmează promenada de la parc până la această baie iconică.",
+            "en": "Follow the promenade from the park to this iconic bath."
+          }
+        },
+        {
+          "name": "Festetics-Imre-Erlebnispark",
+          "coords": [
+            17.275,
+            46.775
+          ],
+          "category": "natural features",
+          "arrive_at": "17:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahre aus der Stadt heraus zum Naturpark mit eigenem Parkplatz.",
+            "hu": "Vezess ki a városból az élményparkhoz, ahol kényelmes parkoló vár.",
+            "ro": "Condu afară din oraș către parcul natural cu propria parcare.",
+            "en": "Drive out of the city to the nature park with its own parking lot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto kannst du die zentralen Highlights mit Zielen außerhalb kombinieren. Parke am Festetics-Palast für einen Vormittag voller Pracht und Museen zu Fuß. Mittags fährst du zum Seeufer-Cluster, um das Balaton-Museum und den Helikon-Park zu erkunden. Entspanne am historischen Bad und fahre nachmittags zum Festetics-Naturpark.",
+        "hu": "Az autóval könnyen összekötheted a központi látnivalókat a távolabbiakkal. Parkolj a Festetics-kastélynál egy gyalogos délelőttre a múzeumok között. Délben vezess át a tóparti zónába a Balatoni Múzeumhoz és a Helikon parkhoz. Pihenj a történelmi fürdőnél, majd délután vezess ki a Festetics Élményparkba.",
+        "ro": "Cu mașina poți combina atracțiile centrale cu destinații mai îndepărtate. Parchează la Palatul Festetics pentru o dimineață pietonală printre muzee. La prânz condu la clusterul de pe malul lacului pentru Muzeul Balaton și Parcul Helikon. Relaxează-te la baia istorică, apoi mergi cu mașina la parcul natural.",
+        "en": "Driving lets you combine the central highlights with wider attractions. Park near the Festetics Palace for a morning of grandeur and museums on foot. For midday, drive to the lakeshore cluster to explore the Balaton Museum and Helikon Park. Relax at the historic bath, then drive out to the Imre Festetics park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zalaer Wildgulasch",
+            "tip": "Herzhaftes regionales Wildgericht."
+          },
+          {
+            "name": "Balatoner Zander",
+            "tip": "Am Seeufer mit Knoblauch gebraten."
+          },
+          {
+            "name": "Lángos",
+            "tip": "Klassischer Strand-Snack in Gyenesdiás."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zalai szarvaspörkölt",
+            "tip": "Klasszikus helyi vadétel dödöllével."
+          },
+          {
+            "name": "Balatoni süllő",
+            "tip": "Fokhagymásan sütve a tóparti éttermekben."
+          },
+          {
+            "name": "Lángos",
+            "tip": "Klasszikus strandétel a gyenesdiási határban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gulaș de căprioară Zala",
+            "tip": "Preparat local tradițional din vânat."
+          },
+          {
+            "name": "Șalău de Balaton",
+            "tip": "Prăjit cu usturoi la restaurantele de pe mal."
+          },
+          {
+            "name": "Lángos",
+            "tip": "Gustare clasică pe plajă în Gyenesdiás."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zala Venison Stew",
+            "tip": "A hearty traditional game dish."
+          },
+          {
+            "name": "Balaton Pike-Perch",
+            "tip": "Roasted with garlic at lakefront restaurants."
+          },
+          {
+            "name": "Lángos",
+            "tip": "Classic beach snack near Gyenesdiás."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Keszthelyer Pier",
+            "tip": "Herrlicher Blick auf das Wasser.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Schlosspark Festetics",
+            "tip": "Ruhiger Start in den Tag.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Waldwege Gyenesdiás",
+            "tip": "Natur pur am Nachmittag.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Keszthelyi móló",
+            "tip": "Csodás kilátás a vízre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Festetics Kastélypark",
+            "tip": "Nyugodt napindítás az ősfák alatt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Gyenesdiási erdei utak",
+            "tip": "Tiszta természet a délután folyamán.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Debarcaderul Keszthely",
+            "tip": "Vedere minunată asupra apei.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Palatului Festetics",
+            "tip": "Început liniștit de zi.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Trasee forestiere Gyenesdiás",
+            "tip": "Natură pură după-amiaza.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Keszthely Pier",
+            "tip": "Wonderful view of the water.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Festetics Palace Park",
+            "tip": "Quiet start to the day.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Gyenesdiás forest trails",
+            "tip": "Pure nature in the afternoon.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marzipan-Museum Shop",
+            "tip": "Süße Souvenirs in der Nähe des Schlosses."
+          },
+          {
+            "name": "Weinboutique",
+            "tip": "Lokale Weine aus der Badacsony-Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marcipán Múzeum boltja",
+            "tip": "Édes ajándékok a kastély közelében."
+          },
+          {
+            "name": "Borszaküzlet",
+            "tip": "Helyi borok a badacsonyi régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Muzeului Marțipanului",
+            "tip": "Suveniruri dulci lângă castel."
+          },
+          {
+            "name": "Boutique de vinuri",
+            "tip": "Vinuri locale din regiunea Badacsony."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marzipan Museum Shop",
+            "tip": "Sweet souvenirs near the castle."
+          },
+          {
+            "name": "Wine boutique",
+            "tip": "Local wines from the Badacsony region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken am Schloss ist gebührenpflichtig, halte Kleingeld oder eine App bereit.",
+          "Lasse das Auto im Zentrum stehen und gehe zwischen Schloss und Hauptplatz zu Fuß.",
+          "Am Seeufer gibt es im Sommer dedizierte Großparkplätze.",
+          "Der Erlebnispark liegt ideal für einen Stopp vor der Weiterfahrt."
+        ],
+        "hu": [
+          "A kastélynál a parkolás fizetős, legyen nálad apró vagy applikáció.",
+          "Hagyd az autót a központban, a kastély és a Fő tér közötti távot sétáld le.",
+          "A tóparton nyáron nagy, kijelölt parkolók üzemelnek.",
+          "Az élménypark ideális megálló, mielőtt tovább utaznál."
+        ],
+        "ro": [
+          "Parcarea la castel se plătește, pregătește monede sau o aplicație.",
+          "Lasă mașina în centru și mergi pe jos între castel și piața principală.",
+          "Există parcări mari dedicate pe malul lacului în timpul verii.",
+          "Parcul de aventură este ideal pentru o oprire înainte de a merge mai departe."
+        ],
+        "en": [
+          "Parking at the castle requires payment; have coins or an app ready.",
+          "Leave the car in the center and walk between the castle and main square.",
+          "There are large dedicated parking lots at the lakefront during summer.",
+          "The adventure park is perfectly situated for a stop before driving onward."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 3.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Schloss Festetics",
+          "coords": [
+            17.24,
+            46.771
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Lokale Busse halten ganz in der Nähe des Schlosseingangs.",
+            "hu": "A helyi buszok közvetlenül a kastély bejárata közelében állnak meg.",
+            "ro": "Autobuzele locale opresc foarte aproape de intrarea în castel.",
+            "en": "Local buses stop very close to the castle entrance."
+          }
+        },
+        {
+          "name": "Schlossgarten",
+          "coords": [
+            17.239,
+            46.7715
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Flaniere direkt vom Schloss in den weitläufigen Garten.",
+            "hu": "A kastélyból kilépve egyből a hatalmas parkban sétálhatsz.",
+            "ro": "Plimbă-te direct de la castel în grădina extinsă.",
+            "en": "Stroll directly from the palace into the expansive garden."
+          }
+        },
+        {
+          "name": "Pfarrkirche St. Theresia",
+          "coords": [
+            17.2445,
+            46.764
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die Innenstadt zum Hauptplatz.",
+            "hu": "Rövid séta a belvároson át a Fő térre.",
+            "ro": "O scurtă plimbare prin centrul orașului până la piața principală.",
+            "en": "A short walk through downtown to the main square."
+          }
+        },
+        {
+          "name": "Cadillac-Museum",
+          "coords": [
+            17.241,
+            46.765
+          ],
+          "category": "museums",
+          "arrive_at": "12:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Leicht zu Fuß von der Kirche aus zu erreichen.",
+            "hu": "Könnyen megközelíthető gyalog a templomtól.",
+            "ro": "Ușor de ajuns pe jos de la biserică.",
+            "en": "Easily reachable on foot from the church."
+          }
+        },
+        {
+          "name": "Balaton-Museum",
+          "coords": [
+            17.245,
+            46.76
+          ],
+          "category": "museums",
+          "arrive_at": "13:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nimm den Bus Richtung See, um schnell zum Museum zu gelangen.",
+            "hu": "Szállj fel a tó felé tartó buszra, hogy gyorsan a múzeumhoz érj.",
+            "ro": "Ia autobuzul spre lac pentru a ajunge rapid la muzeu.",
+            "en": "Take the bus towards the lake to quickly reach the museum."
+          }
+        },
+        {
+          "name": "Helikon-Park",
+          "coords": [
+            17.249,
+            46.76
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Park grenzt fast an das Museumsgelände.",
+            "hu": "A park szinte közvetlenül a múzeum mellett található.",
+            "ro": "Parcul se învecinează aproape de terenul muzeului.",
+            "en": "The park borders almost directly on the museum grounds."
+          }
+        },
+        {
+          "name": "Inselbad",
+          "coords": [
+            17.252,
+            46.756
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Am Ende des Spaziergangs wartet das erfrischende Seeufer.",
+            "hu": "A séta végén a frissítő tópart vár rád.",
+            "ro": "La sfârșitul plimbării te așteaptă malul răcoritor al lacului.",
+            "en": "The refreshing lake shore awaits at the end of the walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Lokale Busse verbinden das Zentrum bequem mit dem Seeufer. Beginne mit dem majestätischen Festetics-Palast und den nahegelegenen Museen auf einem kompakten Rundgang. Am Nachmittag bringt dich eine kurze Busfahrt hinunter zum Balaton-Museum. Beende den Tag mit einem Spaziergang durch den Helikon-Park zum eleganten Szigetfürdő-Bad.",
+        "hu": "A helyi buszok kényelmesen összekötik a központot a tóparttal. Kezdj a lenyűgöző Festetics-kastélynál és a közeli múzeumoknál egy kompakt sétával. Délután egy rövid buszút levisz a Balatoni Múzeumhoz. A napot a Helikon parkon át az elegáns Szigetfürdőhöz sétálva zárd.",
+        "ro": "Autobuzele locale conectează confortabil centrul cu malul lacului. Începe cu maiestuosul Palat Festetics și muzeele din apropiere într-un tur pietonal. După-amiaza, ia autobuzul spre Muzeul Balaton. Încheie-ți ziua plimbându-te prin Parcul Helikon până la eleganta baie Szigetfürdő.",
+        "en": "Local buses comfortably connect the town center with the lakeshore. Begin with the majestic Festetics Palace and nearby museums in a compact walking tour. In the afternoon, take a short bus ride down to the Balaton Museum. End your day strolling through Helikon Park before reaching the elegant Szigetfürdő bath."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Balatoner Fischsuppe",
+            "tip": "In den Restaurants nahe der Busstation."
+          },
+          {
+            "name": "Krémes",
+            "tip": "Traditionelle Cremeschnitte im Zentrum."
+          },
+          {
+            "name": "Lángos",
+            "tip": "Ein Muss am Seeufer am Nachmittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Balatoni halászlé",
+            "tip": "A buszpályaudvar környéki éttermekben."
+          },
+          {
+            "name": "Krémes",
+            "tip": "Hagyományos sütemény a központban."
+          },
+          {
+            "name": "Lángos",
+            "tip": "Kötelező falat a tóparton délután."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciorbă de pește Balaton",
+            "tip": "La restaurantele de lângă stația de autobuz."
+          },
+          {
+            "name": "Krémes",
+            "tip": "Prăjitură tradițională cu cremă în centru."
+          },
+          {
+            "name": "Lángos",
+            "tip": "O necesitate pe malul lacului după-amiaza."
+          }
+        ],
+        "en": [
+          {
+            "name": "Balaton Fish Soup",
+            "tip": "In the restaurants near the bus station."
+          },
+          {
+            "name": "Krémes",
+            "tip": "Traditional cream slice in the center."
+          },
+          {
+            "name": "Lángos",
+            "tip": "A must-have at the lakefront in the afternoon."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Helikon-Park",
+            "tip": "Entspannung abseits der Straßen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Schlosspark",
+            "tip": "Ruhiger Rückzugsort im Stadtzentrum.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Seeufer-Bänke",
+            "tip": "Perfekt für den Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helikon park",
+            "tip": "Kikapcsolódás távol a forgalomtól.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kastélypark",
+            "tip": "Nyugodt menedék a városközpontban.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Tóparti padok",
+            "tip": "Tökéletes a naplementéhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Helikon",
+            "tip": "Relaxare departe de străzi.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul castelului",
+            "tip": "Refugiu liniștit în centrul orașului.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Bănci pe malul lacului",
+            "tip": "Perfect pentru apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Helikon Park",
+            "tip": "Relaxation away from the streets.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Castle Park",
+            "tip": "Quiet retreat in the city center.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Lakefront benches",
+            "tip": "Perfect for watching the sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markthalle",
+            "tip": "Frische Produkte nahe dem Busbahnhof."
+          },
+          {
+            "name": "Souvenirs am Pier",
+            "tip": "Kleine Andenken am Seeufer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vásárcsarnok",
+            "tip": "Friss termékek a buszpályaudvar közelében."
+          },
+          {
+            "name": "Szuvenírek a mólónál",
+            "tip": "Apró ajándékok a tóparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața acoperită",
+            "tip": "Produse proaspete lângă stația de autobuz."
+          },
+          {
+            "name": "Suveniruri la debarcader",
+            "tip": "Mici amintiri pe malul lacului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market Hall",
+            "tip": "Fresh produce near the bus station."
+          },
+          {
+            "name": "Souvenirs at the pier",
+            "tip": "Small keepsakes by the lakefront."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Busticket kann oft direkt beim Fahrer gekauft werden (Bargeld mitnehmen).",
+          "Der Busbahnhof liegt günstig zwischen der Altstadt und dem See.",
+          "Die Taktung der Busse ist im Sommer häufiger als in der Nebensaison.",
+          "Die Wege in den Parks sind auch für Fußgänger sehr gut ausgebaut."
+        ],
+        "hu": [
+          "A buszjegyet gyakran a sofőrnél is megveheted (készpénz legyen nálad).",
+          "A buszpályaudvar ideális helyen, az óváros és a tó között fekszik.",
+          "A buszok nyáron sűrűbben járnak, mint elő- és utószezonban.",
+          "A parkokon átvezető sétányok gyalogosan is nagyon kényelmesek."
+        ],
+        "ro": [
+          "Biletul de autobuz se poate cumpăra adesea de la șofer (ia bani gheață).",
+          "Stația de autobuz este situată convenabil între orașul vechi și lac.",
+          "Frecvența autobuzelor este mai mare vara decât în extrasezon.",
+          "Potecile din parcuri sunt foarte bine întreținute pentru pietoni."
+        ],
+        "en": [
+          "You can often buy the bus ticket directly from the driver (bring cash).",
+          "The bus station is conveniently located between the old town and the lake.",
+          "Buses run more frequently in the summer than in the off-season.",
+          "The paths through the parks are very well maintained for pedestrians."
+        ]
+      }
+    }
+  }
+}

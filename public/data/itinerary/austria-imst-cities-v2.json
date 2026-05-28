@@ -1,0 +1,1372 @@
+{
+  "city_id": "austria-imst-cities-v2",
+  "anchor": {
+    "name": "Imst",
+    "coords": [
+      10.7417,
+      47.2344
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pfarrkirche Mariä Himmelfahrt",
+            "hu": "Mária Mennybemenetele Plébániatemplom",
+            "ro": "Biserica Parohială Înălțarea Maicii Domnului",
+            "en": "Parish Church of the Assumption of Mary"
+          },
+          "coords": [
+            10.7405,
+            47.2391
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie die beeindruckenden Deckenfresken und den barocken Hochaltar.",
+            "hu": "Figyelje meg a lenyűgöző mennyezeti freskókat és a barokk főoltárt.",
+            "ro": "Observați frescele impresionante de pe tavan și altarul baroc.",
+            "en": "Notice the impressive ceiling frescoes and the baroque high altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum im Ballhaus",
+            "hu": "Múzeum a Ballhausban",
+            "ro": "Muzeul din Ballhaus",
+            "en": "Museum in the Ballhaus"
+          },
+          "coords": [
+            10.7412,
+            47.2395
+          ],
+          "category": "museums",
+          "arrive_at": "09:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum gibt einen tollen Einblick in die Bergbaugeschichte der Region.",
+            "hu": "A múzeum remek betekintést nyújt a régió bányászatának történetébe.",
+            "ro": "Muzeul oferă o perspectivă excelentă asupra istoriei miniere a regiunii.",
+            "en": "The museum offers a great insight into the mining history of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus der Fasnacht",
+            "hu": "Farsang Háza",
+            "ro": "Casa Carnavalului",
+            "en": "House of Carnival"
+          },
+          "coords": [
+            10.7425,
+            47.2388
+          ],
+          "category": "museums",
+          "arrive_at": "11:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über das 'Imster Schemenlaufen', ein UNESCO-Kulturerbe.",
+            "hu": "Tudjon meg mindent az 'Imster Schemenlaufen'-ről, amely az UNESCO kulturális örökség része.",
+            "ro": "Aflați totul despre 'Imster Schemenlaufen', un sit al patrimoniului cultural UNESCO.",
+            "en": "Learn all about the 'Imster Schemenlaufen', a UNESCO cultural heritage event."
+          }
+        },
+        {
+          "name": {
+            "de": "Johanneskirche",
+            "hu": "Szent János-templom",
+            "ro": "Biserica Sf. Ioan",
+            "en": "St. John's Church"
+          },
+          "coords": [
+            10.738,
+            47.2361
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eine ruhige, gotische Kirche, perfekt für eine kurze Pause vom Trubel der Stadt.",
+            "hu": "Egy csendes, gótikus templom, tökéletes egy rövid szünetre a város nyüzsgésétől.",
+            "ro": "O biserică gotică liniștită, perfectă pentru o scurtă pauză de agitația orașului.",
+            "en": "A quiet, Gothic church, perfect for a short break from the hustle and bustle of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Pestkapelle",
+            "hu": "Pestiskápolna",
+            "ro": "Capela Ciumei",
+            "en": "Plague Chapel"
+          },
+          "coords": [
+            10.735,
+            47.2355
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:43",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kleines, aber ergreifendes Denkmal an die Pestepidemien der Vergangenheit.",
+            "hu": "Egy kicsi, de megrendítő emlékmű a múltbéli pestisjárványoknak.",
+            "ro": "Un monument mic, dar emoționant, dedicat epidemiilor de ciumă din trecut.",
+            "en": "A small but poignant monument to the plague epidemics of the past."
+          }
+        },
+        {
+          "name": {
+            "de": "Beginn der Rosengartenschlucht",
+            "hu": "A Rosengarten-szurdok kezdete",
+            "ro": "Intrarea în Cheile Rosengarten",
+            "en": "Start of the Rosengarten Gorge"
+          },
+          "coords": [
+            10.7433,
+            47.235
+          ],
+          "category": "natural features",
+          "arrive_at": "14:46",
+          "stay_min": 90,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 1.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tragen Sie festes Schuhwerk! Der Weg kann rutschig sein, aber die Aussicht ist es wert.",
+            "hu": "Viseljen erős lábbelit! Az út csúszós lehet, de a kilátás megéri.",
+            "ro": "Purtați încălțăminte rezistentă! Cărarea poate fi alunecoasă, dar priveliștea merită.",
+            "en": "Wear sturdy shoes! The path can be slippery, but the view is worth it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Imst mit einem Besuch der prächtigen Pfarrkirche. Schlendern Sie durch die Gassen zum Museum im Ballhaus und dem Haus der Fasnacht, um in die lokale Kultur einzutauchen. Nach dem Mittagessen führt Sie ein Spaziergang zu den ruhigeren Johannes- und Pestkapellen, bevor Sie am Nachmittag die ersten Eindrücke der atemberaubenden Rosengartenschlucht sammeln. Der Tag endet mit einem gemütlichen Abendessen in einem traditionellen Tiroler Gasthaus.",
+        "hu": "Kezdje a napot Imst szívében a pompás plébániatemplom meglátogatásával. Sétáljon végig a sikátorokon a Ballhaus Múzeumhoz és a Farsang Házához, hogy elmerüljön a helyi kultúrában. Ebéd után egy séta vezet a csendesebb Szent János- és Pestiskápolnákhoz, mielőtt délután belekóstolna a lélegzetelállító Rosengarten-szurdokba. A nap egy hangulatos vacsorával zárul egy hagyományos tiroli vendéglőben.",
+        "ro": "Începeți ziua în inima orașului Imst cu o vizită la magnifica biserică parohială. Plimbați-vă pe străduțe până la Muzeul din Ballhaus și Casa Carnavalului pentru a vă cufunda în cultura locală. După prânz, o plimbare vă va duce la mai liniștitele biserici Sf. Ioan și Capela Ciumei, înainte de a experimenta după-amiaza primele impresii ale uimitoarelor Chei Rosengarten. Ziua se încheie cu o cină relaxantă la un han tradițional tirolez.",
+        "en": "Start your day in the heart of Imst with a visit to the magnificent parish church. Stroll through the alleys to the Museum in the Ballhaus and the House of Carnival to immerse yourself in local culture. After lunch, a walk will take you to the quieter St. John's and Plague Chapels before you get your first taste of the breathtaking Rosengarten Gorge in the afternoon. The day ends with a cozy dinner at a traditional Tyrolean inn."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tiroler Gröstl",
+            "tip": "Ein herzhaftes Pfannengericht aus Kartoffeln, Fleisch und Zwiebeln, oft mit einem Spiegelei serviert."
+          },
+          {
+            "name": "Kaspressknödel",
+            "tip": "In Butter gebratene Käseknödel, serviert in einer Suppe oder mit Salat."
+          },
+          {
+            "name": "Gasthof Hirschen",
+            "tip": "Bekannt für seine authentische Tiroler Küche und gemütliche Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tiroli Gröstl",
+            "tip": "Kiadós serpenyős étel burgonyából, húsból és hagymából, gyakran tükörtojással tálalva."
+          },
+          {
+            "name": "Kaspressknödel",
+            "tip": "Vajban sült sajtgombóc, levesben vagy salátával tálalva."
+          },
+          {
+            "name": "Gasthof Hirschen",
+            "tip": "Híres az autentikus tiroli konyhájáról és hangulatos légköréről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tiroler Gröstl",
+            "tip": "Un fel de mâncare consistent la tigaie, cu cartofi, carne și ceapă, adesea servit cu un ou ochi."
+          },
+          {
+            "name": "Kaspressknödel",
+            "tip": "Găluște de brânză prăjite în unt, servite în supă sau cu salată."
+          },
+          {
+            "name": "Gasthof Hirschen",
+            "tip": "Renumit pentru bucătăria sa tiroleză autentică și atmosfera primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tyrolean Gröstl",
+            "tip": "A hearty pan-fried dish of potatoes, meat, and onions, often served with a fried egg."
+          },
+          {
+            "name": "Kaspressknödel",
+            "tip": "Pan-fried cheese dumplings, served in a soup or with a salad."
+          },
+          {
+            "name": "Gasthof Hirschen",
+            "tip": "Known for its authentic Tyrolean cuisine and cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Inn",
+            "tip": "Ein Spaziergang entlang des Flusses bietet Ruhe und schöne Ausblicke.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Johanneskirche",
+            "tip": "Die gotische Stille dieser Kirche ist ein willkommener Rückzugsort.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Bänke am Rande der Rosengartenschlucht",
+            "tip": "Finden Sie eine Bank am Eingang der Schlucht und lauschen Sie dem Rauschen des Wassers.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az Inn folyó partja",
+            "tip": "Egy séta a folyó mentén nyugalmat és gyönyörű kilátást kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent János-templom",
+            "tip": "A gótikus templom csendje üdítő menedéket nyújt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Padok a Rosengarten-szurdok szélén",
+            "tip": "Keressen egy padot a szurdok bejáratánál, és hallgassa a víz zúgását.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Inn",
+            "tip": "O plimbare de-a lungul râului oferă liniște și priveliști frumoase.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Biserica Sf. Ioan",
+            "tip": "Liniștea gotică a acestei biserici este un refugiu binevenit.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Bănci la marginea Cheilor Rosengarten",
+            "tip": "Găsiți o bancă la intrarea în chei și ascultați susurul apei.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Inn River",
+            "tip": "A walk along the river offers peace and beautiful views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. John's Church",
+            "tip": "The Gothic silence of this church is a welcome retreat.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Benches at the edge of Rosengarten Gorge",
+            "tip": "Find a bench at the entrance to the gorge and listen to the sound of the water.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt Imst",
+            "tip": "Kaufen Sie lokale Produkte wie Käse, Speck und Honig direkt von den Erzeugern (normalerweise samstags)."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Suchen Sie nach handgeschnitzten Holzfiguren und traditioneller Keramik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Imsti heti piac",
+            "tip": "Vásároljon helyi termékeket, mint sajtot, szalonnát és mézet közvetlenül a termelőktől (általában szombatonként)."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keressen kézzel faragott fafigurákat és hagyományos kerámiákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală din Imst",
+            "tip": "Cumpărați produse locale precum brânză, slănină și miere direct de la producători (de obicei sâmbăta)."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Căutați figurine din lemn sculptate manual și ceramică tradițională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Imst Weekly Market",
+            "tip": "Buy local products like cheese, bacon, and honey directly from the producers (usually on Saturdays)."
+          },
+          {
+            "name": "Craft Shops",
+            "tip": "Look for hand-carved wooden figures and traditional pottery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum einige Steigungen aufweist.",
+          "Viele Museen und Geschäfte haben über Mittag geschlossen, planen Sie entsprechend.",
+          "Eine wiederverwendbare Wasserflasche ist nützlich, es gibt mehrere Brunnen mit frischem Bergquellwasser."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a városközpontban vannak emelkedők.",
+          "Sok múzeum és üzlet bezár ebédidőben, tervezzen ennek megfelelően.",
+          "Egy újrafelhasználható vizes palack hasznos, több kút is van friss hegyi forrásvízzel."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece centrul orașului are câteva pante.",
+          "Multe muzee și magazine sunt închise la prânz, planificați-vă în consecință.",
+          "O sticlă de apă reutilizabilă este utilă, există mai multe fântâni cu apă proaspătă de izvor montan."
+        ],
+        "en": [
+          "Wear comfortable shoes, as the town center has some inclines.",
+          "Many museums and shops close for lunch, so plan accordingly.",
+          "A reusable water bottle is useful; there are several fountains with fresh mountain spring water."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Pfarrkirche & Museum im Ballhaus",
+            "hu": "Plébániatemplom és Ballhaus Múzeum",
+            "ro": "Biserica Parohială și Muzeul din Ballhaus",
+            "en": "Parish Church & Museum in the Ballhaus"
+          },
+          "coords": [
+            10.7408,
+            47.2393
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Kombinieren Sie die beiden Hauptsehenswürdigkeiten im Zentrum. Das Fahrrad kann man sicher in der Nähe abstellen.",
+            "hu": "Kombinálja a központ két fő látnivalóját. A kerékpárt biztonságosan le lehet tenni a közelben.",
+            "ro": "Combinați cele două atracții principale din centru. Bicicleta poate fi parcată în siguranță în apropiere.",
+            "en": "Combine the two main sights in the center. You can park your bike safely nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus der Fasnacht",
+            "hu": "Farsang Háza",
+            "ro": "Casa Carnavalului",
+            "en": "House of Carnival"
+          },
+          "coords": [
+            10.7425,
+            47.2388
+          ],
+          "category": "museums",
+          "arrive_at": "10:44",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer Abstecher, um die faszinierenden Masken und Kostüme zu sehen.",
+            "hu": "Egy rövid kitérő, hogy megnézze a lenyűgöző maszkokat és jelmezeket.",
+            "ro": "Un scurt ocol pentru a vedea măștile și costumele fascinante.",
+            "en": "A short detour to see the fascinating masks and costumes."
+          }
+        },
+        {
+          "name": {
+            "de": "Entlang des Inn-Radwegs",
+            "hu": "Az Inn menti kerékpárúton",
+            "ro": "De-a lungul pistei de biciclete de pe râul Inn",
+            "en": "Along the Inn Cycle Path"
+          },
+          "coords": [
+            10.755,
+            47.23
+          ],
+          "category": "natural features",
+          "arrive_at": "12:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie eine flache, malerische Fahrt entlang des Flusses. Perfekt für ein Picknick.",
+            "hu": "Élvezze a sík, festői utat a folyó mentén. Tökéletes egy piknikhez.",
+            "ro": "Bucurați-vă de o plimbare plată și pitorească de-a lungul râului. Perfect pentru un picnic.",
+            "en": "Enjoy a flat, scenic ride along the river. Perfect for a picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Rosengartenschlucht (Eingangsbereich)",
+            "hu": "Rosengarten-szurdok (bejárati rész)",
+            "ro": "Cheile Rosengarten (zona de intrare)",
+            "en": "Rosengarten Gorge (Entrance Area)"
+          },
+          "coords": [
+            10.7433,
+            47.235
+          ],
+          "category": "natural features",
+          "arrive_at": "13:08",
+          "stay_min": 60,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 3.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie das Fahrrad ab und erkunden Sie den Anfang der Schlucht zu Fuß.",
+            "hu": "Tegye le a kerékpárt és fedezze fel a szurdok elejét gyalog.",
+            "ro": "Parcați bicicleta și explorați începutul cheilor pe jos.",
+            "en": "Park the bike and explore the beginning of the gorge on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Alpine Coaster Imst",
+            "hu": "Imsti Alpine Coaster",
+            "ro": "Alpine Coaster Imst",
+            "en": "Alpine Coaster Imst"
+          },
+          "coords": [
+            10.71,
+            47.245
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:38",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein Adrenalinkick zum Abschluss des Tages! Die Auffahrt mit dem Rad ist anspruchsvoll, alternativ die Bergbahn nutzen.",
+            "hu": "Egy adrenalinlöket a nap végére! A kerékpáros feljutás kihívást jelent, alternatívaként használja a hegyi vasutat.",
+            "ro": "O doză de adrenalină la sfârșitul zilei! Urcarea cu bicicleta este solicitantă, alternativ folosiți telecabina.",
+            "en": "An adrenaline rush to end the day! The ascent by bike is challenging, alternatively use the mountain railway."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour im Zentrum von Imst und erkunden Sie die historischen Sehenswürdigkeiten. Fahren Sie weiter zum Haus der Fasnacht, bevor Sie eine entspannte Etappe entlang des malerischen Inn-Radwegs einlegen. Nach dem Mittagessen stellen Sie sich der Herausforderung, den Eingang der Rosengartenschlucht zu erreichen. Der krönende Abschluss ist eine aufregende Fahrt mit dem Alpine Coaster, die einen unvergesslichen Panoramablick und Nervenkitzel bietet.",
+        "hu": "Kezdje a kerékpártúrát Imst központjában, és fedezze fel a történelmi látnivalókat. Tekerjen tovább a Farsang Házához, mielőtt egy pihentető szakaszt tenne meg a festői Inn menti kerékpárúton. Ebéd után vállalja a kihívást, hogy elérje a Rosengarten-szurdok bejáratát. A nap megkoronázása egy izgalmas utazás az Alpine Coasteren, amely felejthetetlen panorámát és izgalmakat kínál.",
+        "ro": "Începeți turul cu bicicleta în centrul orașului Imst și explorați obiectivele istorice. Continuați spre Casa Carnavalului înainte de a face o plimbare relaxantă de-a lungul pitorescului traseu de biciclete de pe râul Inn. După prânz, înfruntați provocarea de a ajunge la intrarea în Cheile Rosengarten. Punctul culminant este o coborâre palpitantă cu Alpine Coaster, care oferă priveliști panoramice de neuitat și senzații tari.",
+        "en": "Start your bike tour in the center of Imst and explore the historic sights. Continue to the House of Carnival before taking a relaxing ride along the scenic Inn Cycle Path. After lunch, take on the challenge of reaching the entrance to the Rosengarten Gorge. The grand finale is an exciting ride on the Alpine Coaster, offering unforgettable panoramic views and thrills."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Apfelstrudel",
+            "tip": "Ein Klassiker, der nach einer Radtour besonders gut schmeckt. Suchen Sie ein Café mit Sonnenterrasse."
+          },
+          {
+            "name": "Radler",
+            "tip": "Das perfekte Erfrischungsgetränk für Radfahrer: Bier gemischt mit Limonade."
+          },
+          {
+            "name": "Restaurant Pizzeria La Luna",
+            "tip": "Gute Option für eine schnelle und stärkende Mahlzeit nach der Tour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Almáspite (Apfelstrudel)",
+            "tip": "Klasszikus sütemény, ami különösen jól esik egy kerékpártúra után. Keressen egy napos terasszal rendelkező kávézót."
+          },
+          {
+            "name": "Radler",
+            "tip": "A tökéletes frissítő ital kerékpárosoknak: sör limonádéval keverve."
+          },
+          {
+            "name": "Restaurant Pizzeria La Luna",
+            "tip": "Jó választás egy gyors és energiát adó étkezéshez a túra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ștrudel cu mere (Apfelstrudel)",
+            "tip": "Un desert clasic care este deosebit de gustos după un tur cu bicicleta. Căutați o cafenea cu o terasă însorită."
+          },
+          {
+            "name": "Radler",
+            "tip": "Băutura răcoritoare perfectă pentru bicicliști: bere amestecată cu limonadă."
+          },
+          {
+            "name": "Restaurant Pizzeria La Luna",
+            "tip": "O opțiune bună pentru o masă rapidă și revigorantă după tur."
+          }
+        ],
+        "en": [
+          {
+            "name": "Apple Strudel (Apfelstrudel)",
+            "tip": "A classic dessert that tastes especially good after a bike ride. Look for a café with a sun terrace."
+          },
+          {
+            "name": "Radler",
+            "tip": "The perfect refreshing drink for cyclists: beer mixed with lemonade."
+          },
+          {
+            "name": "Restaurant Pizzeria La Luna",
+            "tip": "A good option for a quick and energizing meal after the tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Inn-Radweg",
+            "tip": "Die Abschnitte abseits des Stadtzentrums sind sehr ruhig und friedlich.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtspunkt auf dem Weg zum Alpine Coaster",
+            "tip": "Halten Sie für einen Moment an und genießen Sie den Blick über das Gurgltal.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Widum Imst",
+            "tip": "Der Bereich um dieses historische Gebäude ist oft sehr ruhig.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Inn-kerékpárút",
+            "tip": "A városközponttól távolabbi szakaszok nagyon csendesek és békések.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátópont az Alpine Coaster felé vezető úton",
+            "tip": "Álljon meg egy pillanatra, és élvezze a Gurgltal-völgyre nyíló kilátást.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Widum Imst",
+            "tip": "A történelmi épület környéke gyakran nagyon csendes.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de pe Inn",
+            "tip": "Secțiunile îndepărtate de centrul orașului sunt foarte liniștite și pașnice.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Punct de belvedere în drum spre Alpine Coaster",
+            "tip": "Opriți-vă o clipă pentru a vă bucura de priveliștea asupra văii Gurgltal.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Widum Imst",
+            "tip": "Zona din jurul acestei clădiri istorice este adesea foarte liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Inn Cycle Path",
+            "tip": "The sections away from the town center are very quiet and peaceful.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Viewpoint on the way to the Alpine Coaster",
+            "tip": "Stop for a moment and enjoy the view over the Gurgltal valley.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Widum Imst",
+            "tip": "The area around this historic building is often very quiet.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sportgeschäfte",
+            "tip": "Imst ist ein Outdoor-Zentrum. Hier finden Sie hochwertige Ausrüstung und Kleidung."
+          },
+          {
+            "name": "Lokale Imkerei",
+            "tip": "Suchen Sie nach Schildern für 'Honig vom Imker' für ein süßes, lokales Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sportboltok",
+            "tip": "Imst egy szabadtéri központ. Itt minőségi felszerelést és ruházatot talál."
+          },
+          {
+            "name": "Helyi méhészet",
+            "tip": "Keressen 'Méz a méhésztől' táblákat egy édes, helyi szuvenírért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de sport",
+            "tip": "Imst este un centru outdoor. Aici veți găsi echipamente și îmbrăcăminte de înaltă calitate."
+          },
+          {
+            "name": "Apicultură locală",
+            "tip": "Căutați semne cu 'Miere de la apicultor' pentru un suvenir dulce, local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sports Shops",
+            "tip": "Imst is an outdoor hub. You'll find high-quality gear and clothing here."
+          },
+          {
+            "name": "Local Beekeeping",
+            "tip": "Look for 'Honey from the beekeeper' signs for a sweet, local souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Inn-Radweg ist größtenteils flach, aber die Wege zu den Sehenswürdigkeiten in der Stadt können steil sein.",
+          "Ein E-Bike ist eine gute Option, um die Anstiege zu bewältigen.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad sicher abzustellen, während Sie die Sehenswürdigkeiten erkunden."
+        ],
+        "hu": [
+          "Az Inn menti kerékpárút többnyire sík, de a városi látnivalókhoz vezető utak meredekek lehetnek.",
+          "Az e-bike jó lehetőség az emelkedők leküzdésére.",
+          "Vigyen magával lakatot, hogy biztonságosan lezárja a kerékpárt, amíg a látnivalókat fedezi fel."
+        ],
+        "ro": [
+          "Pista de biciclete de pe Inn este în mare parte plată, dar drumurile către atracțiile din oraș pot fi abrupte.",
+          "O bicicletă electrică este o opțiune bună pentru a face față urcușurilor.",
+          "Luați un lacăt pentru a vă asigura bicicleta în timp ce explorați obiectivele turistice."
+        ],
+        "en": [
+          "The Inn Cycle Path is mostly flat, but the paths to the sights in town can be steep.",
+          "An e-bike is a good option to tackle the climbs.",
+          "Bring a lock to secure your bike while you explore the sights."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 8.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum",
+            "hu": "Parkoló a központban",
+            "ro": "Parcare Centru",
+            "en": "Central Car Park"
+          },
+          "coords": [
+            10.743,
+            47.239
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie das historische Zentrum zu Fuß.",
+            "hu": "Parkoljon itt, és fedezze fel a történelmi központot gyalog.",
+            "ro": "Parcați aici și explorați centrul istoric pe jos.",
+            "en": "Park here and explore the historic center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche & Museum im Ballhaus",
+            "hu": "Plébániatemplom és Ballhaus Múzeum",
+            "ro": "Biserica Parohială și Muzeul din Ballhaus",
+            "en": "Parish Church & Museum in the Ballhaus"
+          },
+          "coords": [
+            10.7408,
+            47.2393
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz zu den beiden wichtigsten kulturellen Stätten.",
+            "hu": "Rövid séta a parkolótól a két legfontosabb kulturális helyszínhez.",
+            "ro": "O scurtă plimbare de la parcare la cele două situri culturale majore.",
+            "en": "A short walk from the car park to the two main cultural sites."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus der Fasnacht",
+            "hu": "Farsang Háza",
+            "ro": "Casa Carnavalului",
+            "en": "House of Carnival"
+          },
+          "coords": [
+            10.7425,
+            47.2388
+          ],
+          "category": "museums",
+          "arrive_at": "11:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur wenige Schritte weiter, ein Muss für das Verständnis der lokalen Traditionen.",
+            "hu": "Csak néhány lépésre található, kötelező a helyi hagyományok megértéséhez.",
+            "ro": "La doar câțiva pași, esențial pentru a înțelege tradițiile locale.",
+            "en": "Just a few steps away, a must-see to understand local traditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Alpine Coaster / Rosengartenschlucht",
+            "hu": "Alpine Coaster / Rosengarten-szurdok parkoló",
+            "ro": "Parcare Alpine Coaster / Cheile Rosengarten",
+            "en": "Car Park Alpine Coaster / Rosengarten Gorge"
+          },
+          "coords": [
+            10.712,
+            47.244
+          ],
+          "category": "transport",
+          "arrive_at": "13:00",
+          "stay_min": 5,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 7.1,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum nächsten Cluster. Von hier aus sind beide Attraktionen zu Fuß erreichbar.",
+            "hu": "Vezessen a következő csoporthoz. Innen mindkét látnivaló gyalogosan elérhető.",
+            "ro": "Conduceți la următorul cluster. De aici, ambele atracții sunt accesibile pe jos.",
+            "en": "Drive to the next cluster. From here, both attractions are within walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Alpine Coaster Imst",
+            "hu": "Imsti Alpine Coaster",
+            "ro": "Alpine Coaster Imst",
+            "en": "Alpine Coaster Imst"
+          },
+          "coords": [
+            10.71,
+            47.245
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der längste Alpine Coaster der Alpen! Planen Sie genug Zeit für die Fahrt und die Aussicht ein.",
+            "hu": "Az Alpok leghosszabb Alpine Coastere! Tervezzen elég időt az utazásra és a kilátásra.",
+            "ro": "Cel mai lung Alpine Coaster din Alpi! Planificați suficient timp pentru coborâre și priveliște.",
+            "en": "The longest Alpine Coaster in the Alps! Plan enough time for the ride and the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Rosengartenschlucht",
+            "hu": "Rosengarten-szurdok",
+            "ro": "Cheile Rosengarten",
+            "en": "Rosengarten Gorge"
+          },
+          "coords": [
+            10.714,
+            47.243
+          ],
+          "category": "natural features",
+          "arrive_at": "15:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach dem Adrenalinrausch eine beeindruckende Wanderung durch die Schlucht. Auch ein kurzer Spaziergang lohnt sich.",
+            "hu": "Az adrenalinlöket után egy lenyűgöző túra a szurdokban. Már egy rövid séta is megéri.",
+            "ro": "După adrenalina, o drumeție impresionantă prin chei. Chiar și o scurtă plimbare merită.",
+            "en": "After the adrenaline rush, an impressive hike through the gorge. Even a short walk is worthwhile."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Parken Sie Ihr Auto im Zentrum und erkunden Sie den Vormittag über die kulturellen Schätze von Imst zu Fuß: die Pfarrkirche, das Museum und das Haus der Fasnacht. Nach einer kurzen Fahrt zum zweiten Cluster verbringen Sie den Nachmittag mit Nervenkitzel auf dem Alpine Coaster und einer anschließenden, beeindruckenden Wanderung durch die Rosengartenschlucht. Diese Kombination aus Kultur und Natur macht den Tag unvergesslich.",
+        "hu": "Parkolja le autóját a központban, és délelőtt gyalog fedezze fel Imst kulturális kincseit: a plébániatemplomot, a múzeumot és a Farsang Házát. Egy rövid autóút után a második látnivalócsoporthoz érve a délutánt az Alpine Coasteren való izgalmakkal és egy azt követő, lenyűgöző túrával tölti a Rosengarten-szurdokban. Ez a kultúra és természet kombinációja felejthetetlenné teszi a napot.",
+        "ro": "Parcați mașina în centru și explorați pe jos comorile culturale ale orașului Imst în timpul dimineții: biserica parohială, muzeul și Casa Carnavalului. După o scurtă călătorie cu mașina către al doilea cluster, petreceți după-amiaza cu senzații tari pe Alpine Coaster și o drumeție impresionantă ulterioară prin Cheile Rosengarten. Această combinație de cultură și natură face ziua de neuitat.",
+        "en": "Park your car in the center and spend the morning exploring Imst's cultural treasures on foot: the parish church, the museum, and the House of Carnival. After a short drive to the second cluster, spend the afternoon with thrills on the Alpine Coaster followed by an impressive hike through the Rosengarten Gorge. This combination of culture and nature makes for an unforgettable day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Alm-Gasthof",
+            "tip": "Suchen Sie nach einem Gasthof in der Nähe des Alpine Coasters für eine authentische Mahlzeit mit Aussicht."
+          },
+          {
+            "name": "Kaiserschmarrn",
+            "tip": "Ein süßer, zerrissener Pfannkuchen, oft mit Apfelmus oder Beerenkompott serviert."
+          },
+          {
+            "name": "UASIS",
+            "tip": "Restaurant an der Talstation des Alpine Coasters, praktisch für eine Stärkung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hegyi vendéglő (Alm-Gasthof)",
+            "tip": "Keressen egy vendéglőt az Alpine Coaster közelében egy autentikus, kilátással egybekötött étkezéshez."
+          },
+          {
+            "name": "Császármorzsa (Kaiserschmarrn)",
+            "tip": "Édes, darabokra szaggatott palacsinta, gyakran almaszósszal vagy bogyós gyümölcsökből készült kompóttal tálalva."
+          },
+          {
+            "name": "UASIS",
+            "tip": "Étterem az Alpine Coaster völgyállomásánál, praktikus egy frissítőhöz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Han alpin (Alm-Gasthof)",
+            "tip": "Căutați un han lângă Alpine Coaster pentru o masă autentică cu priveliște."
+          },
+          {
+            "name": "Kaiserschmarrn",
+            "tip": "O clătită dulce, sfărâmată, adesea servită cu sos de mere sau compot de fructe de pădure."
+          },
+          {
+            "name": "UASIS",
+            "tip": "Restaurant la stația de bază a Alpine Coaster, convenabil pentru o gustare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Alpine Inn (Alm-Gasthof)",
+            "tip": "Look for an inn near the Alpine Coaster for an authentic meal with a view."
+          },
+          {
+            "name": "Kaiserschmarrn",
+            "tip": "A sweet, shredded pancake, often served with apple sauce or berry compote."
+          },
+          {
+            "name": "UASIS",
+            "tip": "Restaurant at the base station of the Alpine Coaster, convenient for a refreshment."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Panoramablick vom Hoch-Imst",
+            "tip": "Genießen Sie die Aussicht von der Bergstation, bevor Sie mit dem Coaster hinunterfahren.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spaziergang abseits der Hauptwege",
+            "tip": "In der Nähe der Rosengartenschlucht gibt es ruhigere Pfade zu entdecken.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pestkapelle",
+            "tip": "Ein Moment der Stille und des Gedenkens abseits der Touristenströme.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Panorámakilátás Hoch-Imstből",
+            "tip": "Élvezze a kilátást a hegyi állomásról, mielőtt lecsúszik a Coasterrel.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Séta a fő utaktól távol",
+            "tip": "A Rosengarten-szurdok közelében csendesebb ösvényeket is felfedezhet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pestiskápolna",
+            "tip": "A csend és az emlékezés pillanata a turistaáradattól távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere panoramică de la Hoch-Imst",
+            "tip": "Bucurați-vă de priveliștea de la stația de sus înainte de a coborî cu Coasterul.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plimbare pe cărări lăturalnice",
+            "tip": "Există poteci mai liniștite de explorat în apropierea Cheilor Rosengarten.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Capela Ciumei",
+            "tip": "Un moment de liniște și comemorare departe de aglomerația turistică.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Panoramic view from Hoch-Imst",
+            "tip": "Enjoy the view from the top station before riding down the Coaster.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Walk off the main paths",
+            "tip": "There are quieter paths to discover near the Rosengarten Gorge.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plague Chapel",
+            "tip": "A moment of silence and remembrance away from the tourist crowds.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirshop am Alpine Coaster",
+            "tip": "Ein kleines Andenken an die aufregende Fahrt."
+          },
+          {
+            "name": "Bauernladen in der Umgebung",
+            "tip": "Halten Sie Ausschau nach Hofläden für authentischen Tiroler Speck und Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvenírbolt az Alpine Coasternél",
+            "tip": "Egy kis emléktárgy az izgalmas utazásról."
+          },
+          {
+            "name": "Paraszti bolt a környéken",
+            "tip": "Keresse a tanyasi boltokat autentikus tiroli szalonnáért és sajtért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri la Alpine Coaster",
+            "tip": "O mică amintire a cursei palpitante."
+          },
+          {
+            "name": "Magazin de fermă în zonă",
+            "tip": "Fiți atenți la magazinele fermelor pentru slănină și brânză tiroleză autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir shop at the Alpine Coaster",
+            "tip": "A small souvenir of the exciting ride."
+          },
+          {
+            "name": "Farm shop in the area",
+            "tip": "Look out for farm shops for authentic Tyrolean bacon and cheese."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Kombitickets für Bergbahn und Alpine Coaster, um Geld zu sparen.",
+          "Prüfen Sie die Öffnungszeiten, besonders in der Nebensaison.",
+          "Parkgebühren können anfallen, halten Sie etwas Kleingeld bereit."
+        ],
+        "hu": [
+          "Vásároljon kombinált jegyeket a hegyi vasútra és az Alpine Coasterre, hogy pénzt takarítson meg.",
+          "Ellenőrizze a nyitvatartási időt, különösen a szezonon kívül.",
+          "Parkolási díjak merülhetnek fel, tartson magánál aprópénzt."
+        ],
+        "ro": [
+          "Cumpărați bilete combinate pentru telecabină și Alpine Coaster pentru a economisi bani.",
+          "Verificați programul de funcționare, în special în extrasezon.",
+          "Se pot aplica taxe de parcare, aveți la îndemână niște mărunțiș."
+        ],
+        "en": [
+          "Buy combination tickets for the mountain railway and Alpine Coaster to save money.",
+          "Check the opening hours, especially in the off-season.",
+          "Parking fees may apply, so have some change ready."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 6.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Imst Terminal Post (Busbahnhof)",
+            "hu": "Imst buszpályaudvar (Terminal Post)",
+            "ro": "Autogara Imst (Terminal Post)",
+            "en": "Imst Bus Terminal (Terminal Post)"
+          },
+          "coords": [
+            10.741,
+            47.237
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der zentrale Knotenpunkt für alle Buslinien in und um Imst.",
+            "hu": "Az Imst környéki buszjáratok központi csomópontja.",
+            "ro": "Nodul central pentru toate liniile de autobuz din Imst și din jur.",
+            "en": "The central hub for all bus lines in and around Imst."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche & Museum im Ballhaus",
+            "hu": "Plébániatemplom és Ballhaus Múzeum",
+            "ro": "Biserica Parohială și Muzeul din Ballhaus",
+            "en": "Parish Church & Museum in the Ballhaus"
+          },
+          "coords": [
+            10.7408,
+            47.2393
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:20",
+          "stay_min": 130,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Busbahnhof aus ein kurzer Spaziergang bergauf ins historische Zentrum.",
+            "hu": "A buszpályaudvartól egy rövid séta felfelé a történelmi központba.",
+            "ro": "De la autogară, o scurtă plimbare la deal spre centrul istoric.",
+            "en": "A short walk uphill from the bus station to the historic center."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus der Fasnacht",
+            "hu": "Farsang Háza",
+            "ro": "Casa Carnavalului",
+            "en": "House of Carnival"
+          },
+          "coords": [
+            10.7425,
+            47.2388
+          ],
+          "category": "museums",
+          "arrive_at": "11:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die Gassen zwischen den wichtigsten Museen der Stadt.",
+            "hu": "Fedezze fel a sikátorokat a város legfontosabb múzeumai között.",
+            "ro": "Explorați străduțele dintre cele mai importante muzee ale orașului.",
+            "en": "Explore the alleys between the city's most important museums."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle Hoch-Imst Bergbahnen",
+            "hu": "Hoch-Imst Bergbahnen buszmegálló",
+            "ro": "Stația de autobuz Hoch-Imst Bergbahnen",
+            "en": "Hoch-Imst Bergbahnen Bus Stop"
+          },
+          "coords": [
+            10.713,
+            47.243
+          ],
+          "category": "transport",
+          "arrive_at": "13:10",
+          "stay_min": 5,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.3,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus vom Zentrum hierher. Die Fahrt bietet bereits schöne Ausblicke.",
+            "hu": "Menjen busszal a központból ide. Az út már önmagában is gyönyörű kilátást nyújt.",
+            "ro": "Luați autobuzul din centru până aici. Călătoria oferă deja priveliști frumoase.",
+            "en": "Take the bus from the center here. The ride itself offers beautiful views."
+          }
+        },
+        {
+          "name": {
+            "de": "Alpine Coaster & Rosengartenschlucht",
+            "hu": "Alpine Coaster és Rosengarten-szurdok",
+            "ro": "Alpine Coaster și Cheile Rosengarten",
+            "en": "Alpine Coaster & Rosengarten Gorge"
+          },
+          "coords": [
+            10.711,
+            47.244
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:20",
+          "stay_min": 210,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verbringen Sie den ganzen Nachmittag in diesem Outdoor-Paradies. Beide Attraktionen liegen direkt nebeneinander.",
+            "hu": "Töltse az egész délutánt ebben a szabadtéri paradicsomban. Mindkét látnivaló közvetlenül egymás mellett található.",
+            "ro": "Petreceți întreaga după-amiază în acest paradis în aer liber. Ambele atracții sunt situate una lângă cealaltă.",
+            "en": "Spend the whole afternoon in this outdoor paradise. Both attractions are located right next to each other."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das effiziente Busnetz von Imst. Starten Sie am zentralen Busterminal und gehen Sie zu Fuß zu den Sehenswürdigkeiten im Stadtzentrum. Am Nachmittag bringt Sie ein Bus bequem zu den Bergbahnen Hoch-Imst. Dort erwartet Sie ein actionreicher Nachmittag mit dem Alpine Coaster und einer Wanderung durch die Rosengartenschlucht, bevor Sie mit dem Bus ins Zentrum zurückkehren.",
+        "hu": "Használja ki Imst hatékony buszhálózatát. Induljon a központi buszpályaudvarról, és sétáljon el a városközpont látnivalóihoz. Délután egy busz kényelmesen elviszi a Hoch-Imst hegyi vasutakhoz. Ott egy akciódús délután várja az Alpine Coasterrel és egy túrával a Rosengarten-szurdokban, mielőtt busszal visszatérne a központba.",
+        "ro": "Folosiți rețeaua eficientă de autobuze din Imst. Porniți de la terminalul central de autobuze și mergeți pe jos la obiectivele turistice din centrul orașului. După-amiaza, un autobuz vă va duce confortabil la telecabinele Hoch-Imst. Acolo vă așteaptă o după-amiază plină de acțiune cu Alpine Coaster și o drumeție prin Cheile Rosengarten, înainte de a vă întoarce în centru cu autobuzul.",
+        "en": "Use Imst's efficient bus network. Start at the central bus terminal and walk to the sights in the city center. In the afternoon, a bus will take you comfortably to the Hoch-Imst mountain railways. An action-packed afternoon awaits you there with the Alpine Coaster and a hike through the Rosengarten Gorge before returning to the center by bus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei im Zentrum",
+            "tip": "Holen Sie sich eine Jause für den Tag, bevor Sie losfahren."
+          },
+          {
+            "name": "Tiroler Marend",
+            "tip": "Eine kalte Platte mit Speck, Käse, Wurst und Brot – perfekt für ein Picknick."
+          },
+          {
+            "name": "Café Central",
+            "tip": "Ein guter Ort, um bei der Rückkehr ins Zentrum auf den Bus zu warten und einen Kaffee zu trinken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség a központban",
+            "tip": "Szerezzen be egy uzsonnát a napra, mielőtt elindul."
+          },
+          {
+            "name": "Tiroli uzsonna (Marend)",
+            "tip": "Hidegtál szalonnával, sajttal, kolbásszal és kenyérrel – tökéletes egy piknikhez."
+          },
+          {
+            "name": "Café Central",
+            "tip": "Jó hely a buszra várni és egy kávét inni, amikor visszaér a központba."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie în centru",
+            "tip": "Luați o gustare pentru ziua respectivă înainte de a porni la drum."
+          },
+          {
+            "name": "Gustare tiroleză (Marend)",
+            "tip": "Un platou rece cu slănină, brânză, cârnați și pâine – perfect pentru un picnic."
+          },
+          {
+            "name": "Café Central",
+            "tip": "Un loc bun pentru a aștepta autobuzul și a bea o cafea la întoarcerea în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery in the center",
+            "tip": "Get a snack for the day before you head out."
+          },
+          {
+            "name": "Tyrolean Marend",
+            "tip": "A cold platter with bacon, cheese, sausage, and bread – perfect for a picnic."
+          },
+          {
+            "name": "Café Central",
+            "tip": "A good place to wait for the bus and have a coffee when you return to the center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt aus dem Fenster",
+            "tip": "Die Fahrt nach Hoch-Imst bietet entspannende Ausblicke auf die Landschaft.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sonnenterrasse Hoch-Imst",
+            "tip": "Genießen Sie die Ruhe der Berge bei einem Getränk.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Versteckte Gassen",
+            "tip": "Entdecken Sie die ruhigen Seitengassen abseits der Hauptstraßen im Zentrum.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás közbeni nézelődés",
+            "tip": "A Hoch-Imstbe vezető út pihentető kilátást nyújt a tájra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hoch-Imst napozóterasz",
+            "tip": "Élvezze a hegyek csendjét egy ital mellett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rejtett sikátorok",
+            "tip": "Fedezze fel a csendes mellékutcákat a központ főutcáitól távol.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Privind pe geamul autobuzului",
+            "tip": "Călătoria spre Hoch-Imst oferă priveliști relaxante ale peisajului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Terasa însorită Hoch-Imst",
+            "tip": "Bucurați-vă de liniștea munților cu o băutură.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Străduțe ascunse",
+            "tip": "Descoperiți străduțele laterale liniștite, departe de străzile principale din centru.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the bus window",
+            "tip": "The ride to Hoch-Imst offers relaxing views of the landscape.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sun terrace Hoch-Imst",
+            "tip": "Enjoy the tranquility of the mountains with a drink.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hidden alleys",
+            "tip": "Discover the quiet side streets away from the main roads in the center.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Kramer-Straße",
+            "tip": "Hier finden Sie eine Mischung aus lokalen Boutiquen und bekannten Marken."
+          },
+          {
+            "name": "Informationsbüro",
+            "tip": "Verkauft oft Wanderkarten und kleine, lokale Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok a Kramer-utcában",
+            "tip": "Itt helyi butikok és ismert márkák keverékét találja."
+          },
+          {
+            "name": "Információs iroda",
+            "tip": "Gyakran árulnak túratérképeket és apró, helyi ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine pe strada Kramer",
+            "tip": "Aici veți găsi un amestec de buticuri locale și mărci cunoscute."
+          },
+          {
+            "name": "Birou de informații",
+            "tip": "Vinde adesea hărți de drumeție și mici suveniruri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops on Kramer Street",
+            "tip": "Here you will find a mix of local boutiques and well-known brands."
+          },
+          {
+            "name": "Information Office",
+            "tip": "Often sells hiking maps and small, local souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere für die letzte Rückfahrt.",
+          "Die Busse können in der Hochsaison voll sein, seien Sie also rechtzeitig an der Haltestelle."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha több utazást tervez.",
+          "Ellenőrizze előre a buszmenetrendet, különösen az utolsó visszautat.",
+          "A buszok főszezonban zsúfoltak lehetnek, ezért legyen időben a megállóban."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă planificați mai multe călătorii.",
+          "Verificați programul autobuzelor în avans, în special pentru ultima călătorie de întoarcere.",
+          "Autobuzele pot fi aglomerate în sezonul de vârf, așa că ajungeți la stație din timp."
+        ],
+        "en": [
+          "Buy a day ticket for the bus if you plan to make several trips.",
+          "Check the bus schedule in advance, especially for the last return trip.",
+          "Buses can be crowded in high season, so be at the stop on time."
+        ]
+      }
+    }
+  }
+}

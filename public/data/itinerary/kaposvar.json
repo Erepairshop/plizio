@@ -1,0 +1,1026 @@
+{
+  "city_id": "kaposvar",
+  "anchor": {
+    "name": "Kopisch",
+    "coords": [
+      17.7897,
+      46.3592
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kossuth-Platz",
+            "hu": "Kossuth tér",
+            "ro": "Piața Kossuth",
+            "en": "Kossuth Square"
+          },
+          "coords": [
+            17.7865,
+            46.3572
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Jugendstil-Architektur und die zentrale Fontäne.",
+            "hu": "Csodálja meg a szecessziós építészetet és a központi szökőkutat!",
+            "ro": "Admirați arhitectura Art Nouveau și fântâna centrală.",
+            "en": "Admire the Art Nouveau architecture and the central fountain."
+          }
+        },
+        {
+          "name": {
+            "de": "Dorottya-Haus",
+            "hu": "Dorottya-ház",
+            "ro": "Casa Dorottya",
+            "en": "Dorottya House"
+          },
+          "coords": [
+            17.7878,
+            46.3569
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Kaposvárer Dom",
+            "hu": "Kaposvári dóm",
+            "ro": "Catedrala din Kaposvár",
+            "en": "Kaposvár Cathedral"
+          },
+          "coords": [
+            17.7885,
+            46.356
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:25",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Rippl-Rónai-Museum",
+            "hu": "Rippl-Rónai Múzeum",
+            "ro": "Muzeul Rippl-Rónai",
+            "en": "Rippl-Rónai Museum"
+          },
+          "coords": [
+            17.791,
+            46.3595
+          ],
+          "category": "museums",
+          "arrive_at": "11:50",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Csiky-Gergely-Theater",
+            "hu": "Csiky Gergely Színház",
+            "ro": "Teatrul Csiky Gergely",
+            "en": "Csiky Gergely Theatre"
+          },
+          "coords": [
+            17.7899,
+            46.3601
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:40",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4
+        },
+        {
+          "name": {
+            "de": "Stadtpark (Vaszary Park)",
+            "hu": "Városliget (Vaszary Park)",
+            "ro": "Parcul Orașului (Parcul Vaszary)",
+            "en": "City Park (Vaszary Park)"
+          },
+          "coords": [
+            17.801,
+            46.362
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:40",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für einen entspannten Spaziergang am Nachmittag.",
+            "hu": "Ideális hely egy kellemes délutáni sétához.",
+            "ro": "Un loc ideal pentru o plimbare relaxantă de după-amiază.",
+            "en": "An ideal spot for a relaxing afternoon walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem eleganten Kossuth-Platz, dem Herzen von Kaposvár. Spazieren Sie durch die historischen Straßen zum Dorottya-Haus und der beeindruckenden Kathedrale. Am Nachmittag tauchen Sie im Rippl-Rónai-Museum in die Kunst ein. Beenden Sie Ihren Tag mit einem Blick auf das prächtige Csiky-Gergely-Theater, bevor Sie im ruhigen Stadtpark entspannen.",
+        "hu": "Kezdje a napot Kaposvár szívében, az elegáns Kossuth téren! Sétáljon végig a történelmi utcákon a Dorottya-házhoz és a lenyűgöző székesegyházhoz. Délután merüljön el a művészetekben a Rippl-Rónai Múzeumban. A napot a Csiky Gergely Színház megcsodálásával zárja, mielőtt a csendes Városligetben pihenne.",
+        "ro": "Începeți ziua în eleganta Piață Kossuth, inima orașului Kaposvár. Plimbați-vă pe străzile istorice până la Casa Dorottya și impunătoarea catedrală. După-amiaza, scufundați-vă în artă la Muzeul Rippl-Rónai. Încheiați ziua admirând magnificul Teatru Csiky Gergely înainte de a vă relaxa în liniștitul Parc al Orașului.",
+        "en": "Start your day in the elegant Kossuth Square, the heart of Kaposvár. Stroll through the historic streets to the Dorottya House and the impressive cathedral. In the afternoon, immerse yourself in art at the Rippl-Rónai Museum. End your day by admiring the magnificent Csiky Gergely Theatre before relaxing in the tranquil City Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Somogyi Betyárgombóc",
+            "tip": "Ein herzhafter Knödel, gefüllt mit geräuchertem Fleisch, serviert in den meisten traditionellen Restaurants."
+          },
+          {
+            "name": "L'Altro Restaurant",
+            "tip": "Bietet eine Mischung aus ungarischer und internationaler Küche in einem eleganten Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Somogyi betyárgombóc",
+            "tip": "Kiadós, füstölt hússal töltött gombóc, a legtöbb hagyományos étteremben kapható."
+          },
+          {
+            "name": "L'Altro Étterem",
+            "tip": "Magyar és nemzetközi konyha keverékét kínálja elegáns környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gălușcă haiducească din Somogy",
+            "tip": "O gălușcă consistentă umplută cu carne afumată, servită în majoritatea restaurantelor tradiționale."
+          },
+          {
+            "name": "Restaurantul L'Altro",
+            "tip": "Oferă un amestec de bucătărie maghiară și internațională într-un cadru elegant."
+          }
+        ],
+        "en": [
+          {
+            "name": "Somogyi Outlaw Dumpling",
+            "tip": "A hearty dumpling filled with smoked meat, served in most traditional restaurants."
+          },
+          {
+            "name": "L'Altro Restaurant",
+            "tip": "Offers a mix of Hungarian and international cuisine in an elegant setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtpark",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die Natur.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Deseda-Sees",
+            "tip": "Ein friedlicher Ort, um dem Stadttrubel zu entfliehen, auch wenn er etwas weiter entfernt ist.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városliget",
+            "tip": "Keressen egy csendes padot és élvezze a természetet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Deseda-tó partja",
+            "tip": "Békés hely a városi nyüzsgés elől, még ha kicsit távolabb is van.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Orașului",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de natură.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malul lacului Deseda",
+            "tip": "Un loc pașnic pentru a scăpa de agitația orașului, chiar dacă este puțin mai departe.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Park",
+            "tip": "Find a quiet bench and enjoy nature.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Shore of Lake Deseda",
+            "tip": "A peaceful place to escape the city bustle, even if it's a bit further out.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerksprodukte",
+            "tip": "Suchen Sie nach handgemachter Keramik und Stickereien in kleinen Läden in der Innenstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen kézzel készített kerámiákat és hímzéseket a belvárosi kis üzletekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse de artizanat locale",
+            "tip": "Căutați ceramică și broderii lucrate manual în micile magazine din centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local artisan products",
+            "tip": "Look for handmade ceramics and embroidery in small shops in the city center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag laufen werden.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind leicht zu Fuß erreichbar.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit, um hydriert zu bleiben."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap gyalogolni fog.",
+          "A legtöbb belvárosi látnivaló könnyen elérhető gyalog.",
+          "Hozzon magával újratölthető vizes palackot, hogy hidratált maradjon."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge pe jos toată ziua.",
+          "Majoritatea atracțiilor din centrul orașului sunt ușor accesibile pe jos.",
+          "Luați cu voi o sticlă de apă reutilizabilă pentru a vă menține hidratați."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking all day.",
+          "Most city center attractions are easily accessible on foot.",
+          "Bring a reusable water bottle to stay hydrated."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kossuth-Platz",
+            "hu": "Kossuth tér",
+            "ro": "Piața Kossuth",
+            "en": "Kossuth Square"
+          },
+          "coords": [
+            17.7865,
+            46.3572
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Csiky-Gergely-Theater",
+            "hu": "Csiky Gergely Színház",
+            "ro": "Teatrul Csiky Gergely",
+            "en": "Csiky Gergely Theatre"
+          },
+          "coords": [
+            17.7899,
+            46.3601
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:35",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8
+        },
+        {
+          "name": {
+            "de": "Rippl-Rónai-Gartenhaus",
+            "hu": "Rippl-Rónai-emlékház",
+            "ro": "Casa Memorială Rippl-Rónai",
+            "en": "Rippl-Rónai Memorial House"
+          },
+          "coords": [
+            17.818,
+            46.3561
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:20",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Innenstadt",
+            "hu": "Ebéd a belvárosban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city center"
+          },
+          "coords": [
+            17.788,
+            46.358
+          ],
+          "category": "gastro",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5
+        },
+        {
+          "name": {
+            "de": "Deseda-See",
+            "hu": "Deseda-tó",
+            "ro": "Lacul Deseda",
+            "en": "Lake Deseda"
+          },
+          "coords": [
+            17.825,
+            46.41
+          ],
+          "category": "natural features",
+          "arrive_at": "13:55",
+          "stay_min": 180,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 8.7
+        },
+        {
+          "name": {
+            "de": "Kaposvárer Dom",
+            "hu": "Kaposvári dóm",
+            "ro": "Catedrala din Kaposvár",
+            "en": "Kaposvár Cathedral"
+          },
+          "coords": [
+            17.7885,
+            46.356
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:35",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 1
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Kossuth-Platz, radeln Sie am Theater vorbei und besuchen Sie das Rippl-Rónai-Gartenhaus. Nach einem Mittagessen im Zentrum unternehmen Sie eine längere Tour zum wunderschönen Deseda-See, einem perfekten Ort für eine lange Pause. Kehren Sie am späten Nachmittag in die Stadt zurück und beenden Sie Ihren Tag mit einem Besuch des Doms.",
+        "hu": "Indítsa kerékpártúráját a Kossuth térről, tekerjen el a színház mellett, majd látogasson el a Rippl-Rónai Emlékházhoz. Egy belvárosi ebéd után tegyen egy hosszabb túrát a gyönyörű Deseda-tóhoz, amely tökéletes hely egy hosszabb pihenőre. Késő délután térjen vissza a városba, és a napot a Dóm meglátogatásával zárja.",
+        "ro": "Începeți turul cu bicicleta din Piața Kossuth, treceți pe lângă teatru și vizitați Casa Memorială Rippl-Rónai. După prânzul în centru, faceți o excursie mai lungă la frumosul lac Deseda, un loc perfect pentru o pauză lungă. Întoarceți-vă în oraș după-amiaza târziu și încheiați ziua cu o vizită la catedrală.",
+        "en": "Start your bike tour from Kossuth Square, cycle past the theatre, and visit the Rippl-Rónai Memorial House. After lunch in the center, take a longer trip to the beautiful Lake Deseda, a perfect spot for a long break. Return to the city in the late afternoon and end your day with a visit to the Cathedral."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kaposvári Kifli",
+            "tip": "Ein lokales Gebäck, perfekt für einen schnellen Energieschub."
+          },
+          {
+            "name": "Büfé am Deseda-See",
+            "tip": "Genießen Sie einen einfachen Snack oder ein Getränk mit Blick auf den See."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kaposvári kifli",
+            "tip": "Helyi péksütemény, tökéletes egy gyors energiabevitelhez."
+          },
+          {
+            "name": "Büfé a Deseda-tónál",
+            "tip": "Élvezzen egy egyszerű harapnivalót vagy italt a tóra néző kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cornuleț din Kaposvár",
+            "tip": "Un produs de patiserie local, perfect pentru o gustare rapidă."
+          },
+          {
+            "name": "Bufet pe malul lacului Deseda",
+            "tip": "Bucurați-vă de o gustare simplă sau o băutură cu vedere la lac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kaposvár Crescent Roll",
+            "tip": "A local pastry, perfect for a quick energy boost."
+          },
+          {
+            "name": "Buffet at Lake Deseda",
+            "tip": "Enjoy a simple snack or a drink overlooking the lake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Deseda-See Arboretum",
+            "tip": "Ein ruhiger Spaziergang durch die Bäume am Seeufer.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Rippl-Rónai-Garten",
+            "tip": "Finden Sie Inspiration in dem Garten, der den berühmten Maler inspirierte.",
+            "emoji": "🎨"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Deseda Arborétum",
+            "tip": "Egy csendes séta a fák között a tó partján.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Rippl-Rónai kertje",
+            "tip": "Merítsen ihletet a kertben, amely a híres festőt is megihlette.",
+            "emoji": "🎨"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arboretul Deseda",
+            "tip": "O plimbare liniștită printre copaci pe malul lacului.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Grădina Rippl-Rónai",
+            "tip": "Găsiți inspirație în grădina care l-a inspirat pe celebrul pictor.",
+            "emoji": "🎨"
+          }
+        ],
+        "en": [
+          {
+            "name": "Deseda Arboretum",
+            "tip": "A quiet walk among the trees on the lake shore.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Rippl-Rónai's Garden",
+            "tip": "Find inspiration in the garden that inspired the famous painter.",
+            "emoji": "🎨"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Falls Sie Zubehör benötigen, gibt es in der Stadt mehrere Geschäfte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Ha kiegészítőkre van szüksége, több bolt is található a városban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Dacă aveți nevoie de accesorii, există mai multe magazine în oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shops",
+            "tip": "If you need any accessories, there are several shops in town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck, bevor Sie losfahren.",
+          "Rund um den Deseda-See gibt es einen gut ausgebauten Radweg.",
+          "Schließen Sie Ihr Fahrrad immer sicher ab, wenn Sie es abstellen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a keréknyomást.",
+          "A Deseda-tó körül jól kiépített kerékpárút található.",
+          "Mindig zárja le biztonságosan a kerékpárját, ha leparkol."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope înainte de a porni.",
+          "Există o pistă de biciclete bine dezvoltată în jurul lacului Deseda.",
+          "Legați întotdeauna bicicleta în siguranță atunci când o parcați."
+        ],
+        "en": [
+          "Check your tire pressure before setting off.",
+          "There is a well-developed cycle path around Lake Deseda.",
+          "Always lock your bike securely when you park it."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 21.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Innenstadt",
+            "hu": "Parkoló a belvárosban",
+            "ro": "Parcare în centrul orașului",
+            "en": "City Center Car Park"
+          },
+          "coords": [
+            17.785,
+            46.358
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Kossuth-Platz",
+            "hu": "Kossuth tér",
+            "ro": "Piața Kossuth",
+            "en": "Kossuth Square"
+          },
+          "coords": [
+            17.7865,
+            46.3572
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Kaposvárer Dom",
+            "hu": "Kaposvári dóm",
+            "ro": "Catedrala din Kaposvár",
+            "en": "Kaposvár Cathedral"
+          },
+          "coords": [
+            17.7885,
+            46.356
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4
+        },
+        {
+          "name": {
+            "de": "Rippl-Rónai-Gartenhaus",
+            "hu": "Rippl-Rónai-emlékház",
+            "ro": "Casa Memorială Rippl-Rónai",
+            "en": "Rippl-Rónai Memorial House"
+          },
+          "coords": [
+            17.818,
+            46.3561
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:55",
+          "stay_min": 100,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Gartenhauses",
+            "hu": "Ebéd az Emlékház közelében",
+            "ro": "Prânz lângă Casa Memorială",
+            "en": "Lunch near the Memorial House"
+          },
+          "coords": [
+            17.817,
+            46.357
+          ],
+          "category": "gastro",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Deseda-See",
+            "hu": "Deseda-tó",
+            "ro": "Lacul Deseda",
+            "en": "Lake Deseda"
+          },
+          "coords": [
+            17.825,
+            46.41
+          ],
+          "category": "natural features",
+          "arrive_at": "14:40",
+          "stay_min": 150,
+          "hop_mode": "car",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 17
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Seeufer",
+            "hu": "Séta a tóparton",
+            "ro": "Plimbare pe malul lacului",
+            "en": "Walk on the lake shore"
+          },
+          "coords": [
+            17.826,
+            46.411
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:15",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens ins Stadtzentrum, parken Sie und erkunden Sie den Kossuth-Platz und den Dom zu Fuß. Steigen Sie wieder ins Auto für einen kurzen Ausflug zum Rippl-Rónai-Gartenhaus für eine Dosis Kunst. Nach dem Mittagessen führt Sie die Hauptfahrt des Tages zum malerischen Deseda-See, wo Sie den Rest des Nachmittags mit Spaziergängen und Entspannung am Wasser verbringen.",
+        "hu": "Reggel vezessen a belvárosba, parkoljon le, és fedezze fel gyalog a Kossuth teret és a Dómot. Szálljon vissza az autóba egy rövid útra a Rippl-Rónai Emlékházhoz egy adag művészetért. Ebéd után a nap fő autós útja a festői Deseda-tóhoz vezet, ahol a délután hátralévő részét sétával és a vízparti pihenéssel töltheti.",
+        "ro": "Dimineața, conduceți în centrul orașului, parcați și explorați pe jos Piața Kossuth și catedrala. Urcați-vă înapoi în mașină pentru o scurtă călătorie la Casa Memorială Rippl-Rónai pentru o doză de artă. După prânz, călătoria principală a zilei vă duce la pitorescul lac Deseda, unde vă petreceți restul după-amiezii plimbându-vă și relaxându-vă lângă apă.",
+        "en": "In the morning, drive to the city center, park, and explore Kossuth Square and the Cathedral on foot. Get back in the car for a short trip to the Rippl-Rónai Memorial House for a dose of art. After lunch, the day's main drive takes you to the scenic Lake Deseda, where you'll spend the rest of the afternoon walking and relaxing by the water."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant am Deseda-See",
+            "tip": "Viele Restaurants am See bieten frischen Fisch und eine entspannte Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a Deseda-tónál",
+            "tip": "Több tóparti étterem kínál friss halat és pihentető környezetet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant pe malul lacului Deseda",
+            "tip": "Multe restaurante de pe malul lacului oferă pește proaspăt și o atmosferă relaxantă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant at Lake Deseda",
+            "tip": "Many lakeside restaurants offer fresh fish and a relaxing atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtsturm am Deseda-See",
+            "tip": "Klettern Sie hinauf für einen Panoramablick über den See und die Wälder.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátó a Deseda-tónál",
+            "tip": "Másszon fel a panorámás kilátásért a tóra és az erdőkre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Turnul de observație de la Lacul Deseda",
+            "tip": "Urcați pentru o vedere panoramică asupra lacului și a pădurilor.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lookout tower at Lake Deseda",
+            "tip": "Climb up for a panoramic view over the lake and forests.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rippl-Rónai-Souvenirs",
+            "tip": "Der Souvenirladen des Museums verkauft Drucke und Bücher, die mit dem Künstler zu tun haben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rippl-Rónai ajándéktárgyak",
+            "tip": "A múzeum ajándékboltjában a művészhez kapcsolódó nyomatokat és könyveket árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri Rippl-Rónai",
+            "tip": "Magazinul de suveniruri al muzeului vinde printuri și cărți legate de artist."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rippl-Rónai souvenirs",
+            "tip": "The museum's gift shop sells prints and books related to the artist."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum kann kostenpflichtig sein.",
+          "Planen Sie genügend Zeit für die Fahrt zum und vom Deseda-See ein.",
+          "Überprüfen Sie die Öffnungszeiten der Museen und Attraktionen im Voraus."
+        ],
+        "hu": [
+          "A belvárosi parkolás díjköteles lehet.",
+          "Tervezzen elegendő időt a Deseda-tóhoz való utazásra és vissza.",
+          "Előre ellenőrizze a múzeumok és látnivalók nyitvatartási idejét."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi contra cost.",
+          "Planificați suficient timp pentru drumul dus-întors la Lacul Deseda.",
+          "Verificați în prealabil programul de funcționare al muzeelor și atracțiilor."
+        ],
+        "en": [
+          "Parking in the city center may be paid.",
+          "Allow enough time for the drive to and from Lake Deseda.",
+          "Check the opening hours of museums and attractions in advance."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 10,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kossuth-Platz",
+            "hu": "Kossuth tér",
+            "ro": "Piața Kossuth",
+            "en": "Kossuth Square"
+          },
+          "coords": [
+            17.7865,
+            46.3572
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Kaposvárer Dom",
+            "hu": "Kaposvári dóm",
+            "ro": "Catedrala din Kaposvár",
+            "en": "Kaposvár Cathedral"
+          },
+          "coords": [
+            17.7885,
+            46.356
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Rippl-Rónai-Museum",
+            "hu": "Rippl-Rónai Múzeum",
+            "ro": "Muzeul Rippl-Rónai",
+            "en": "Rippl-Rónai Museum"
+          },
+          "coords": [
+            17.791,
+            46.3595
+          ],
+          "category": "museums",
+          "arrive_at": "10:40",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Innenstadt",
+            "hu": "Ebéd a belvárosban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city center"
+          },
+          "coords": [
+            17.788,
+            46.358
+          ],
+          "category": "gastro",
+          "arrive_at": "12:25",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Deseda-See (Bushaltestelle)",
+            "hu": "Deseda-tó (buszmegálló)",
+            "ro": "Lacul Deseda (stație de autobuz)",
+            "en": "Lake Deseda (bus stop)"
+          },
+          "coords": [
+            17.824,
+            46.409
+          ],
+          "category": "natural features",
+          "arrive_at": "14:15",
+          "stay_min": 150,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 8.5
+        },
+        {
+          "name": {
+            "de": "Csiky-Gergely-Theater",
+            "hu": "Csiky Gergely Színház",
+            "ro": "Teatrul Csiky Gergely",
+            "en": "Csiky Gergely Theatre"
+          },
+          "coords": [
+            17.7899,
+            46.3601
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "17:20",
+          "stay_min": 20,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 0.3
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit der Erkundung des Stadtzentrums zu Fuß, einschließlich des Hauptplatzes, des Doms und des Rippl-Rónai-Museums. Nach einem gemütlichen Mittagessen nehmen Sie einen Bus zum Deseda-See für einen erholsamen Nachmittag in der Natur. Kehren Sie am späten Nachmittag mit dem Bus in die Stadt zurück und werfen Sie einen letzten Blick auf das Theater, bevor Ihr Tag endet.",
+        "hu": "Kezdje a napot a belváros gyalogos felfedezésével, beleértve a főteret, a Dómot és a Rippl-Rónai Múzeumot. Egy kellemes ebéd után szálljon buszra a Deseda-tóhoz egy pihentető délutánért a természetben. Késő délután térjen vissza busszal a városba, és vessen egy utolsó pillantást a színházra, mielőtt a napja véget ér.",
+        "ro": "Începeți ziua explorând centrul orașului pe jos, inclusiv piața principală, catedrala și Muzeul Rippl-Rónai. După un prânz pe îndelete, luați un autobuz spre Lacul Deseda pentru o după-amiază relaxantă în natură. Întoarceți-vă în oraș cu autobuzul după-amiaza târziu pentru o ultimă privire la teatru înainte de a încheia ziua.",
+        "en": "Start your day exploring the city center on foot, including the main square, the cathedral, and the Rippl-Rónai Museum. After a leisurely lunch, take a bus to Lake Deseda for a relaxing afternoon in nature. Return to the city by bus in the late afternoon for a final look at the theatre before your day ends."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lángos",
+            "tip": "Probieren Sie diesen ungarischen Klassiker an einem der Imbissstände in der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lángos",
+            "tip": "Kóstolja meg ezt a magyar klasszikust a város egyik büféjében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Langoși",
+            "tip": "Încercați acest clasic maghiar la una dintre tarabele cu mâncare din oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lángos",
+            "tip": "Try this Hungarian classic from one of the food stalls in the city."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ein ruhiger Ort am Deseda-See",
+            "tip": "Entfernen Sie sich von den Hauptbereichen, um einen friedlichen Platz am Wasser zu finden.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy csendes hely a Deseda-tónál",
+            "tip": "Távolodjon el a fő területektől, hogy békés helyet találjon a vízparton.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Un loc liniștit la Lacul Deseda",
+            "tip": "Îndepărtați-vă de zonele principale pentru a găsi un loc pașnic lângă apă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "A quiet spot at Lake Deseda",
+            "tip": "Move away from the main areas to find a peaceful spot by the water.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fő utca (Hauptstraße)",
+            "tip": "Die Hauptfußgängerzone ist gesäumt von Geschäften und Cafés."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fő utca",
+            "tip": "A fő sétálóutca tele van üzletekkel és kávézókkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fő utca (Strada Principală)",
+            "tip": "Principala stradă pietonală este plină de magazine și cafenele."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fő utca (Main Street)",
+            "tip": "The main pedestrian street is lined with shops and cafes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel, um Geld zu sparen.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, insbesondere für die Rückfahrt vom Deseda-See.",
+          "Einige Busse akzeptieren möglicherweise keine Kartenzahlungen, halten Sie also Bargeld bereit."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
+          "Előre ellenőrizze a buszmenetrendet, különösen a Deseda-tótól való visszautazáshoz.",
+          "Néhány buszon esetleg nem fogadnak el kártyás fizetést, ezért legyen Önnél készpénz."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru a economisi bani.",
+          "Verificați în prealabil orarele autobuzelor, în special pentru călătoria de întoarcere de la Lacul Deseda.",
+          "Este posibil ca unele autobuze să nu accepte plata cu cardul, așa că aveți la îndemână numerar."
+        ],
+        "en": [
+          "Buy a day pass for public transport to save money.",
+          "Check bus schedules in advance, especially for the return trip from Lake Deseda.",
+          "Some buses may not accept card payments, so have cash ready."
+        ]
+      }
+    }
+  }
+}

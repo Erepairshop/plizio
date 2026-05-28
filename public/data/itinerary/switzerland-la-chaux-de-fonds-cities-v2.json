@@ -1,0 +1,1556 @@
+{
+  "city_id": "switzerland-la-chaux-de-fonds-cities-v2",
+  "anchor": {
+    "name": "La Chaux-de-Fonds",
+    "coords": [
+      6.832,
+      47.103
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ancien Manège",
+            "hu": "Ancien Manège (Régi lovarda)",
+            "ro": "Ancien Manège (Manejul Vechi)",
+            "en": "Ancien Manège (Old Riding Hall)"
+          },
+          "coords": [
+            6.8295,
+            47.1025
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier mit einem Kaffee und beobachten Sie das Stadtleben.",
+            "hu": "Kezdje a napot egy kávéval, és figyelje a város ébredését.",
+            "ro": "Începeți ziua aici cu o cafea, observând viața orașului.",
+            "en": "Start here with a coffee and watch the city life unfold."
+          }
+        },
+        {
+          "name": {
+            "de": "Grand Temple",
+            "hu": "Nagytemplom",
+            "ro": "Marele Templu",
+            "en": "Grand Temple"
+          },
+          "coords": [
+            6.828,
+            47.101
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die schlichte, aber elegante protestantische Architektur.",
+            "hu": "Figyelje meg a visszafogott, mégis elegáns protestáns építészetet.",
+            "ro": "Observați arhitectura protestantă sobră, dar elegantă.",
+            "en": "Notice the sober yet elegant Protestant architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée des Beaux-Arts",
+            "hu": "Szépművészeti Múzeum",
+            "ro": "Muzeul de Arte Frumoase",
+            "en": "Museum of Fine Arts"
+          },
+          "coords": [
+            6.825,
+            47.104
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Werke lokaler Künstler und Le Corbusier.",
+            "hu": "Fókuszáljon a helyi művészek és Le Corbusier munkáira.",
+            "ro": "Concentrați-vă pe lucrările artiștilor locali și ale lui Le Corbusier.",
+            "en": "Focus on the works by local artists and Le Corbusier."
+          }
+        },
+        {
+          "name": {
+            "de": "Espacité-Turm",
+            "hu": "Espacité-torony",
+            "ro": "Turnul Espacité",
+            "en": "Espacité Tower"
+          },
+          "coords": [
+            6.831,
+            47.105
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "12:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der beste Panoramablick auf das schachbrettartige Stadtbild.",
+            "hu": "Innen nyílik a legjobb panoráma a sakktábla-szerű városszerkezetre.",
+            "ro": "Cea mai bună vedere panoramică a planului urbanistic în carouri.",
+            "en": "The best panoramic view of the checkerboard city layout."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée international d'horlogerie",
+            "hu": "Nemzetközi Óramúzeum",
+            "ro": "Muzeul Internațional de Ceasornicărie",
+            "en": "International Museum of Horology"
+          },
+          "coords": [
+            6.826,
+            47.098
+          ],
+          "category": "museums",
+          "arrive_at": "12:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für die unterirdische Ausstellung zur Geschichte der Zeitmessung.",
+            "hu": "Szánjon időt az időmérés történetét bemutató földalatti kiállításra.",
+            "ro": "Acordați-vă timp pentru expoziția subterană despre istoria măsurării timpului.",
+            "en": "Take time for the subterranean exhibition on the history of timekeeping."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison Blanche",
+            "hu": "Maison Blanche (Fehér Ház)",
+            "ro": "Maison Blanche (Casa Albă)",
+            "en": "Maison Blanche (White House)"
+          },
+          "coords": [
+            6.815,
+            47.101
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Le Corbusiers erstes unabhängiges Projekt. Buchen Sie die Führung im Voraus.",
+            "hu": "Le Corbusier első önálló projektje. A vezetett túrát foglalja le előre.",
+            "ro": "Primul proiect independent al lui Le Corbusier. Rezervați turul ghidat în avans.",
+            "en": "Le Corbusier's first independent project. Book the guided tour in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo du Bois du Petit-Château",
+            "hu": "Bois du Petit-Château Állatkert",
+            "ro": "Grădina Zoologică Bois du Petit-Château",
+            "en": "Zoo du Bois du Petit-Château"
+          },
+          "coords": [
+            6.82,
+            47.093
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "16:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannender Abschluss des Tages inmitten der lokalen Fauna.",
+            "hu": "Pihentető befejezése a napnak a helyi fauna megfigyelésével.",
+            "ro": "O încheiere relaxantă a zilei în mijlocul faunei locale.",
+            "en": "A relaxing end to the day among local fauna."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in La Chaux-de-Fonds beginnt im Herzen der Stadt, am Ancien Manège. Vormittags erkunden Sie die architektonischen und künstlerischen Schätze, vom Grand Temple bis zum Musée des Beaux-Arts. Der Mittag bietet vom Espacité-Turm aus eine Vogelperspektive, bevor Sie in die Welt der Uhrmacherei eintauchen. Nachmittags wandeln Sie auf den Spuren Le Corbusiers und schließen den Tag mit einem ruhigen Spaziergang im Zoo ab.",
+        "hu": "A nap La Chaux-de-Fonds szívében, az Ancien Manège-on kezdődik. Délelőtt a város építészeti és művészeti kincseit fedezi fel, a Nagytemplomtól a Szépművészeti Múzeumig. Délben madártávlatból is megcsodálhatja a várost az Espacité-toronyból, mielőtt elmerül az óragyártás világában. A délután Le Corbusier nyomában telik, majd a napot egy nyugodt állatkerti sétával zárja.",
+        "ro": "Ziua dvs. în La Chaux-de-Fonds începe în inima orașului, la Ancien Manège. Dimineața explorați comorile arhitecturale și artistice, de la Marele Templu la Muzeul de Arte Frumoase. La prânz, admirați orașul de la înălțimea Turnului Espacité înainte de a vă scufunda în lumea ceasornicăriei. După-amiaza este dedicată urmelor lui Le Corbusier, încheind ziua cu o plimbare liniștită la grădina zoologică.",
+        "en": "Your day in La Chaux-de-Fonds begins in the heart of the city, at Ancien Manège. The morning is for exploring architectural and artistic treasures, from the Grand Temple to the Museum of Fine Arts. Midday offers a bird's-eye view from the Espacité Tower before you delve into the world of watchmaking. The afternoon is spent on Le Corbusier's trail, ending with a peaceful walk at the zoo."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Käsefondue",
+            "tip": "Ein Muss in der Schweiz, am besten in einem traditionellen Restaurant."
+          },
+          {
+            "name": "Rösti",
+            "tip": "Knusprig gebratene Kartoffeln, oft mit einem Spiegelei serviert."
+          },
+          {
+            "name": "Saucisson neuchâtelois",
+            "tip": "Eine lokale Wurstspezialität, die man probieren sollte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sajt fondü",
+            "tip": "Kötelező Svájcban, legjobb egy hagyományos étteremben."
+          },
+          {
+            "name": "Rösti",
+            "tip": "Ropogósra sült burgonya, gyakran tükörtojással tálalva."
+          },
+          {
+            "name": "Neuchâteli kolbász",
+            "tip": "Helyi kolbászkülönlegesség, amit érdemes megkóstolni."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fondue de brânză",
+            "tip": "O necesitate în Elveția, cel mai bine savurat într-un restaurant tradițional."
+          },
+          {
+            "name": "Rösti",
+            "tip": "Cartofi prăjiți crocanți, adesea serviți cu un ou ochi."
+          },
+          {
+            "name": "Saucisson neuchâtelois",
+            "tip": "O specialitate locală de cârnați care merită încercată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cheese Fondue",
+            "tip": "A must-try in Switzerland, best enjoyed in a traditional restaurant."
+          },
+          {
+            "name": "Rösti",
+            "tip": "Crispy fried potatoes, often served with a fried egg."
+          },
+          {
+            "name": "Saucisson neuchâtelois",
+            "tip": "A local sausage specialty worth tasting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc du Gallet",
+            "tip": "Ein ruhiger Park für eine kurze Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bois du Petit-Château",
+            "tip": "Abseits des Zoos bietet der Wald ruhige Wege.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussicht vom Espacité-Turm",
+            "tip": "Finden Sie einen ruhigen Moment über den Dächern der Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc du Gallet",
+            "tip": "Egy csendes park egy rövid pihenőre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bois du Petit-Château",
+            "tip": "Az állatkerttől távolabb az erdő csendes ösvényeket kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás az Espacité-toronyból",
+            "tip": "Találjon egy csendes pillanatot a város háztetői felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Gallet",
+            "tip": "Un parc liniștit pentru o scurtă pauză.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pădurea Petit-Château",
+            "tip": "Departe de grădina zoologică, pădurea oferă poteci liniștite.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Priveliștea de pe Turnul Espacité",
+            "tip": "Găsiți un moment de liniște deasupra acoperișurilor orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc du Gallet",
+            "tip": "A quiet park for a short break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bois du Petit-Château",
+            "tip": "Away from the zoo, the forest offers quiet paths.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from Espacité Tower",
+            "tip": "Find a quiet moment above the city rooftops.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Uhrengeschäfte",
+            "tip": "Fenstershopping oder Kauf einer Schweizer Uhr im Epizentrum der Uhrmacherei."
+          },
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach Märkten am Place du Marché für lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Óraboltok",
+            "tip": "Nézze meg a kirakatokat, vagy vegyen egy svájci órát az óragyártás epicentrumában."
+          },
+          {
+            "name": "Helyi piac",
+            "tip": "Keresse a piacokat a Place du Marché-n helyi termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de ceasuri",
+            "tip": "Priviți vitrinele sau cumpărați un ceas elvețian din epicentrul orologeriei."
+          },
+          {
+            "name": "Piața locală",
+            "tip": "Căutați piețele din Place du Marché pentru produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Watch Shops",
+            "tip": "Window shop or purchase a Swiss watch in the epicenter of watchmaking."
+          },
+          {
+            "name": "Local Market",
+            "tip": "Look for markets in Place du Marché for local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Stadt auf einem Hügel liegt.",
+          "Die Stadt ist für ihr schachbrettartiges Layout bekannt, was die Orientierung erleichtert.",
+          "Viele Museen sind montags geschlossen, prüfen Sie die Öffnungszeiten.",
+          "Halten Sie Ausschau nach den vielen Jugendstilgebäuden in der ganzen Stadt."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a város egy dombon fekszik.",
+          "A város a sakktábla-szerű elrendezéséről ismert, ami megkönnyíti a tájékozódást.",
+          "Sok múzeum zárva tart hétfőnként, ellenőrizze a nyitvatartást.",
+          "Figyelje a városban található szecessziós épületeket."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece orașul este așezat pe un deal.",
+          "Orașul este cunoscut pentru planul său în carouri, ceea ce face orientarea ușoară.",
+          "Multe muzee sunt închise lunea, verificați programul.",
+          "Fiți atenți la numeroasele clădiri Art Nouveau din oraș."
+        ],
+        "en": [
+          "Wear comfortable shoes as the city is built on a hill.",
+          "The city is known for its grid plan, which makes navigation easy.",
+          "Many museums are closed on Mondays, check opening times.",
+          "Keep an eye out for the many Art Nouveau buildings throughout the city."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:29",
+      "total_km": 10.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ancien Manège",
+            "hu": "Ancien Manège (Régi lovarda)",
+            "ro": "Ancien Manège (Manejul Vechi)",
+            "en": "Ancien Manège (Old Riding Hall)"
+          },
+          "coords": [
+            6.8295,
+            47.1025
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab und genießen Sie die Atmosphäre des Platzes.",
+            "hu": "Zárja le biztonságosan a kerékpárt, és élvezze a tér hangulatát.",
+            "ro": "Asigurați-vă bicicleta și bucurați-vă de atmosfera pieței.",
+            "en": "Secure your bike and enjoy the square's atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Espacité-Turm",
+            "hu": "Espacité-torony",
+            "ro": "Turnul Espacité",
+            "en": "Espacité Tower"
+          },
+          "coords": [
+            6.831,
+            47.105
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "09:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt bergauf für eine lohnende Aussicht.",
+            "hu": "Rövid emelkedő egy megérdemelt kilátásért.",
+            "ro": "O urcare scurtă pentru o priveliște care merită.",
+            "en": "A short uphill ride for a rewarding view."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison Blanche",
+            "hu": "Maison Blanche",
+            "ro": "Maison Blanche",
+            "en": "Maison Blanche"
+          },
+          "coords": [
+            6.815,
+            47.101
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Radtour zu diesem Juwel von Le Corbusier ist landschaftlich reizvoll.",
+            "hu": "Festői út vezet Le Corbusier ezen ékkövéhez.",
+            "ro": "Plimbarea cu bicicleta până la această bijuterie a lui Le Corbusier este pitorească.",
+            "en": "The bike ride to this Le Corbusier gem is scenic."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Turque",
+            "hu": "Villa Turque",
+            "ro": "Vila Turque",
+            "en": "Villa Turque"
+          },
+          "coords": [
+            6.819,
+            47.096
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein weiteres Meisterwerk von Le Corbusier, nur eine kurze Radtour entfernt.",
+            "hu": "Le Corbusier egy másik mesterműve, csak egy rövid bicikliútra.",
+            "ro": "O altă capodoperă a lui Le Corbusier, la o scurtă plimbare cu bicicleta.",
+            "en": "Another Le Corbusier masterpiece, just a short ride away."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée international d'horlogerie",
+            "hu": "Nemzetközi Óramúzeum",
+            "ro": "Muzeul Internațional de Ceasornicărie",
+            "en": "International Museum of Horology"
+          },
+          "coords": [
+            6.826,
+            47.098
+          ],
+          "category": "museums",
+          "arrive_at": "12:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und tauchen Sie für ein paar Stunden in die Zeit ein.",
+            "hu": "Parkolja le a biciklit, és merüljön el az időben néhány órára.",
+            "ro": "Parcați bicicleta și scufundați-vă în timp pentru câteva ore.",
+            "en": "Park your bike and dive into time for a couple of hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Grand Temple",
+            "hu": "Nagytemplom",
+            "ro": "Marele Templu",
+            "en": "Grand Temple"
+          },
+          "coords": [
+            6.828,
+            47.101
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radeln Sie zurück ins Zentrum, um dieses historische Wahrzeichen zu besichtigen.",
+            "hu": "Tekerjen vissza a központba, hogy megnézze ezt a történelmi emléket.",
+            "ro": "Întoarceți-vă cu bicicleta în centru pentru a vizita acest reper istoric.",
+            "en": "Cycle back to the center to visit this historic landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo du Bois du Petit-Château",
+            "hu": "Bois du Petit-Château Állatkert",
+            "ro": "Grădina Zoologică Bois du Petit-Château",
+            "en": "Zoo du Bois du Petit-Château"
+          },
+          "coords": [
+            6.82,
+            47.093
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "15:54",
+          "stay_min": 95,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Radtour zum Zoo ist eine großartige Möglichkeit, die Stadtgrenzen zu sehen.",
+            "hu": "A biciklizés az állatkerthez remek módja a város határainak felfedezésének.",
+            "ro": "Plimbarea cu bicicleta la grădina zoologică este o modalitate excelentă de a vedea limitele orașului.",
+            "en": "The bike ride to the zoo is a great way to see the city's outskirts."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad beginnt Ihr Tag am Ancien Manège, bevor Sie schnell zum Espacité-Turm hinauffahren. Der Vormittag ist Le Corbusier gewidmet, mit Besuchen der Maison Blanche und der Villa Turque. Nach dem Mittagessen, das Sie nach Ihrem Besuch im Uhrenmuseum einnehmen, radeln Sie zurück ins Zentrum, um den Grand Temple zu besichtigen, und beenden den Tag mit einer entspannten Fahrt zum Zoo.",
+        "hu": "Kerékpárral a nap az Ancien Manège-nél indul, mielőtt gyorsan feltekerve az Espacité-toronyhoz. A délelőtt Le Corbusier-é, a Maison Blanche és a Villa Turque meglátogatásával. Az Óramúzeumban tett látogatás utáni ebéd után visszateker a központba a Nagytemplomhoz, és egy pihentető állatkerti úttal zárja a napot.",
+        "ro": "Pe bicicletă, ziua începe la Ancien Manège înainte de o urcare rapidă la Turnul Espacité. Dimineața este dedicată lui Le Corbusier, cu vizite la Maison Blanche și Villa Turque. După prânzul de după Muzeul Ceasornicăriei, vă întoarceți în centru la Marele Templu și încheiați cu o plimbare relaxantă la grădina zoologică.",
+        "en": "On a bike, your day starts at Ancien Manège before a quick climb to Espacité Tower. The morning is dedicated to Le Corbusier, visiting Maison Blanche and Villa Turque. After lunch following the Horology Museum, you'll cycle back to the center for the Grand Temple and finish with a relaxing ride to the zoo."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Käsefondue",
+            "tip": "Ein Muss in der Schweiz, am besten in einem traditionellen Restaurant."
+          },
+          {
+            "name": "Rösti",
+            "tip": "Knusprig gebratene Kartoffeln, oft mit einem Spiegelei serviert."
+          },
+          {
+            "name": "Saucisson neuchâtelois",
+            "tip": "Eine lokale Wurstspezialität, die man probieren sollte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sajt fondü",
+            "tip": "Kötelező Svájcban, legjobb egy hagyományos étteremben."
+          },
+          {
+            "name": "Rösti",
+            "tip": "Ropogósra sült burgonya, gyakran tükörtojással tálalva."
+          },
+          {
+            "name": "Neuchâteli kolbász",
+            "tip": "Helyi kolbászkülönlegesség, amit érdemes megkóstolni."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fondue de brânză",
+            "tip": "O necesitate în Elveția, cel mai bine savurat într-un restaurant tradițional."
+          },
+          {
+            "name": "Rösti",
+            "tip": "Cartofi prăjiți crocanți, adesea serviți cu un ou ochi."
+          },
+          {
+            "name": "Saucisson neuchâtelois",
+            "tip": "O specialitate locală de cârnați care merită încercată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cheese Fondue",
+            "tip": "A must-try in Switzerland, best enjoyed in a traditional restaurant."
+          },
+          {
+            "name": "Rösti",
+            "tip": "Crispy fried potatoes, often served with a fried egg."
+          },
+          {
+            "name": "Saucisson neuchâtelois",
+            "tip": "A local sausage specialty worth tasting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc du Gallet",
+            "tip": "Ein ruhiger Park für eine kurze Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bois du Petit-Château",
+            "tip": "Abseits des Zoos bietet der Wald ruhige Wege.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussicht vom Espacité-Turm",
+            "tip": "Finden Sie einen ruhigen Moment über den Dächern der Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc du Gallet",
+            "tip": "Egy csendes park egy rövid pihenőre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bois du Petit-Château",
+            "tip": "Az állatkerttől távolabb az erdő csendes ösvényeket kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás az Espacité-toronyból",
+            "tip": "Találjon egy csendes pillanatot a város háztetői felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Gallet",
+            "tip": "Un parc liniștit pentru o scurtă pauză.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pădurea Petit-Château",
+            "tip": "Departe de grădina zoologică, pădurea oferă poteci liniștite.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Priveliștea de pe Turnul Espacité",
+            "tip": "Găsiți un moment de liniște deasupra acoperișurilor orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc du Gallet",
+            "tip": "A quiet park for a short break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bois du Petit-Château",
+            "tip": "Away from the zoo, the forest offers quiet paths.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from Espacité Tower",
+            "tip": "Find a quiet moment above the city rooftops.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Uhrengeschäfte",
+            "tip": "Fenstershopping oder Kauf einer Schweizer Uhr im Epizentrum der Uhrmacherei."
+          },
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach Märkten am Place du Marché für lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Óraboltok",
+            "tip": "Nézze meg a kirakatokat, vagy vegyen egy svájci órát az óragyártás epicentrumában."
+          },
+          {
+            "name": "Helyi piac",
+            "tip": "Keresse a piacokat a Place du Marché-n helyi termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de ceasuri",
+            "tip": "Priviți vitrinele sau cumpărați un ceas elvețian din epicentrul orologeriei."
+          },
+          {
+            "name": "Piața locală",
+            "tip": "Căutați piețele din Place du Marché pentru produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Watch Shops",
+            "tip": "Window shop or purchase a Swiss watch in the epicenter of watchmaking."
+          },
+          {
+            "name": "Local Market",
+            "tip": "Look for markets in Place du Marché for local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Stadt hat einige steile Hügel, seien Sie auf Steigungen vorbereitet.",
+          "Nutzen Sie die Fahrradwege, wo immer möglich.",
+          "Ein gutes Schloss ist unerlässlich, wenn Sie Museen oder Restaurants besuchen.",
+          "Prüfen Sie den Wetterbericht; das Wetter im Jura kann sich schnell ändern."
+        ],
+        "hu": [
+          "A városban vannak meredek dombok, készüljön fel az emelkedőkre.",
+          "Használja a kerékpárutakat, ahol csak lehetséges.",
+          "Egy jó lakat elengedhetetlen, ha múzeumokat vagy éttermeket látogat.",
+          "Ellenőrizze az időjárás-előrejelzést; a Jura időjárása gyorsan változhat."
+        ],
+        "ro": [
+          "Orașul are câteva dealuri abrupte, fiți pregătiți pentru urcări.",
+          "Folosiți pistele de biciclete ori de câte ori este posibil.",
+          "Un lacăt bun este esențial atunci când vizitați muzee sau restaurante.",
+          "Verificați prognoza meteo; vremea în Jura se poate schimba rapid."
+        ],
+        "en": [
+          "The city has some steep hills, be prepared for climbs.",
+          "Use bike lanes wherever possible for safety.",
+          "A good lock is essential when you're visiting museums or restaurants.",
+          "Check the weather forecast; the Jura weather can change quickly."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 11.7,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum",
+            "hu": "Parkoló a központban",
+            "ro": "Parcare centrală",
+            "en": "City Center Parking"
+          },
+          "coords": [
+            6.829,
+            47.103
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den ersten Teil Ihrer Erkundung.",
+            "hu": "Parkoljon le itt a felfedezés első részére.",
+            "ro": "Parcați aici pentru prima parte a explorării.",
+            "en": "Park here for the first cluster of your exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Ancien Manège & Grand Temple",
+            "hu": "Ancien Manège és Nagytemplom",
+            "ro": "Ancien Manège și Marele Templu",
+            "en": "Ancien Manège & Grand Temple"
+          },
+          "coords": [
+            6.8288,
+            47.102
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den Platz und die nahegelegene Kirche zu Fuß.",
+            "hu": "Fedezze fel a teret és a közeli templomot gyalog.",
+            "ro": "Explorați piața și biserica din apropiere pe jos.",
+            "en": "Explore the square and the nearby church on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée des Beaux-Arts",
+            "hu": "Szépművészeti Múzeum",
+            "ro": "Muzeul de Arte Frumoase",
+            "en": "Museum of Fine Arts"
+          },
+          "coords": [
+            6.825,
+            47.104
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Grand Temple entfernt.",
+            "hu": "Csak egy rövid séta a Nagytemplomtól.",
+            "ro": "La o scurtă plimbare de Marele Templu.",
+            "en": "Just a short walk from the Grand Temple."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée international d'horlogerie",
+            "hu": "Nemzetközi Óramúzeum",
+            "ro": "Muzeul Internațional de Ceasornicărie",
+            "en": "International Museum of Horology"
+          },
+          "coords": [
+            6.826,
+            47.098
+          ],
+          "category": "museums",
+          "arrive_at": "12:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Höhepunkt des Tages, bequem zu Fuß erreichbar.",
+            "hu": "A nap fénypontja, kényelmesen elérhető gyalog.",
+            "ro": "Punctul culminant al zilei, ușor accesibil pe jos.",
+            "en": "The highlight of the day, easily reachable on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zu Le Corbusiers Villen",
+            "hu": "Utazás Le Corbusier villáihoz",
+            "ro": "Călătorie spre vilele lui Le Corbusier",
+            "en": "Drive to Le Corbusier's Villas"
+          },
+          "coords": [
+            6.815,
+            47.101
+          ],
+          "category": "transport",
+          "arrive_at": "14:20",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum nächsten Cluster und parken Sie erneut.",
+            "hu": "Vezessen a következő csoporthoz és parkoljon le újra.",
+            "ro": "Conduceți spre următorul cluster și parcați din nou.",
+            "en": "Drive to the next cluster and find parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison Blanche",
+            "hu": "Maison Blanche",
+            "ro": "Maison Blanche",
+            "en": "Maison Blanche"
+          },
+          "coords": [
+            6.815,
+            47.101
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie die Erkundung des Architekturerbes.",
+            "hu": "Kezdje az építészeti örökség felfedezését.",
+            "ro": "Începeți explorarea moștenirii arhitecturale.",
+            "en": "Start exploring the architectural heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Turque",
+            "hu": "Villa Turque",
+            "ro": "Vila Turque",
+            "en": "Villa Turque"
+          },
+          "coords": [
+            6.819,
+            47.096
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang zwischen den beiden Villen.",
+            "hu": "Rövid séta a két villa között.",
+            "ro": "O plimbare scurtă între cele două vile.",
+            "en": "A short walk between the two villas."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo du Bois du Petit-Château",
+            "hu": "Bois du Petit-Château Állatkert",
+            "ro": "Grădina Zoologică Bois du Petit-Château",
+            "en": "Zoo du Bois du Petit-Château"
+          },
+          "coords": [
+            6.82,
+            47.093
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "16:44",
+          "stay_min": 65,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Der letzte Halt des Tages, mit eigenem Parkplatz.",
+            "hu": "A nap utolsó állomása, saját parkolóval.",
+            "ro": "Ultima oprire a zilei, cu parcare proprie.",
+            "en": "The final stop of the day, with its own parking."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag nutzt Cluster-Parken für maximale Effizienz. Der Morgen ist dem Stadtzentrum gewidmet: Kunst, Geschichte und das Uhrenmuseum, alles zu Fuß erreichbar. Nach dem Mittagessen fahren Sie zu den Villen von Le Corbusier für einen architektonischen Spaziergang. Der Tag endet mit einer kurzen Fahrt zum Zoo du Bois du Petit-Château für einen entspannten Abschluss.",
+        "hu": "Az autós nap a klaszterparkolást használja a maximális hatékonyság érdekében. A délelőtt a városközponté: művészet, történelem és az Óramúzeum, mind gyalogosan elérhető. Ebéd után Le Corbusier villáihoz hajt, egy építészeti sétára. A nap egy rövid autózással a Bois du Petit-Château állatkerthez zárul, egy pihentető befejezésként.",
+        "ro": "Ziua cu mașina folosește parcarea pe clustere pentru eficiență maximă. Dimineața este dedicată centrului orașului: artă, istorie și Muzeul Ceasornicăriei, toate la distanță de mers pe jos. După prânz, conduceți la vilele lui Le Corbusier pentru o plimbare arhitecturală. Ziua se încheie cu o scurtă călătorie cu mașina la Grădina Zoologică Bois du Petit-Château pentru o încheiere relaxantă.",
+        "en": "Your car day uses cluster parking for maximum efficiency. The morning is dedicated to the city center: art, history, and the Horology Museum, all within walking distance. After lunch, you drive to Le Corbusier's villas for an architectural walk. The day concludes with a short drive to the Zoo du Bois du Petit-Château for a relaxing finish."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Käsefondue",
+            "tip": "Ein Muss in der Schweiz, am besten in einem traditionellen Restaurant."
+          },
+          {
+            "name": "Rösti",
+            "tip": "Knusprig gebratene Kartoffeln, oft mit einem Spiegelei serviert."
+          },
+          {
+            "name": "Saucisson neuchâtelois",
+            "tip": "Eine lokale Wurstspezialität, die man probieren sollte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sajt fondü",
+            "tip": "Kötelező Svájcban, legjobb egy hagyományos étteremben."
+          },
+          {
+            "name": "Rösti",
+            "tip": "Ropogósra sült burgonya, gyakran tükörtojással tálalva."
+          },
+          {
+            "name": "Neuchâteli kolbász",
+            "tip": "Helyi kolbászkülönlegesség, amit érdemes megkóstolni."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fondue de brânză",
+            "tip": "O necesitate în Elveția, cel mai bine savurat într-un restaurant tradițional."
+          },
+          {
+            "name": "Rösti",
+            "tip": "Cartofi prăjiți crocanți, adesea serviți cu un ou ochi."
+          },
+          {
+            "name": "Saucisson neuchâtelois",
+            "tip": "O specialitate locală de cârnați care merită încercată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cheese Fondue",
+            "tip": "A must-try in Switzerland, best enjoyed in a traditional restaurant."
+          },
+          {
+            "name": "Rösti",
+            "tip": "Crispy fried potatoes, often served with a fried egg."
+          },
+          {
+            "name": "Saucisson neuchâtelois",
+            "tip": "A local sausage specialty worth tasting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc du Gallet",
+            "tip": "Ein ruhiger Park für eine kurze Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bois du Petit-Château",
+            "tip": "Abseits des Zoos bietet der Wald ruhige Wege.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussicht vom Espacité-Turm",
+            "tip": "Finden Sie einen ruhigen Moment über den Dächern der Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc du Gallet",
+            "tip": "Egy csendes park egy rövid pihenőre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bois du Petit-Château",
+            "tip": "Az állatkerttől távolabb az erdő csendes ösvényeket kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás az Espacité-toronyból",
+            "tip": "Találjon egy csendes pillanatot a város háztetői felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Gallet",
+            "tip": "Un parc liniștit pentru o scurtă pauză.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pădurea Petit-Château",
+            "tip": "Departe de grădina zoologică, pădurea oferă poteci liniștite.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Priveliștea de pe Turnul Espacité",
+            "tip": "Găsiți un moment de liniște deasupra acoperișurilor orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc du Gallet",
+            "tip": "A quiet park for a short break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bois du Petit-Château",
+            "tip": "Away from the zoo, the forest offers quiet paths.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from Espacité Tower",
+            "tip": "Find a quiet moment above the city rooftops.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Uhrengeschäfte",
+            "tip": "Fenstershopping oder Kauf einer Schweizer Uhr im Epizentrum der Uhrmacherei."
+          },
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach Märkten am Place du Marché für lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Óraboltok",
+            "tip": "Nézze meg a kirakatokat, vagy vegyen egy svájci órát az óragyártás epicentrumában."
+          },
+          {
+            "name": "Helyi piac",
+            "tip": "Keresse a piacokat a Place du Marché-n helyi termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de ceasuri",
+            "tip": "Priviți vitrinele sau cumpărați un ceas elvețian din epicentrul orologeriei."
+          },
+          {
+            "name": "Piața locală",
+            "tip": "Căutați piețele din Place du Marché pentru produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Watch Shops",
+            "tip": "Window shop or purchase a Swiss watch in the epicenter of watchmaking."
+          },
+          {
+            "name": "Local Market",
+            "tip": "Look for markets in Place du Marché for local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie öffentliche Parkhäuser, da das Parken auf der Straße begrenzt sein kann.",
+          "Planen Sie Ihre Cluster im Voraus, um die Fahrzeit zu minimieren.",
+          "Das Auto gibt Ihnen die Flexibilität, auch nahegelegene Naturattraktionen zu besuchen.",
+          "Achten Sie auf die Parkgebühren und -beschränkungen im Stadtzentrum."
+        ],
+        "hu": [
+          "Használja a nyilvános parkolóházakat, mivel az utcai parkolás korlátozott lehet.",
+          "Tervezze meg előre a klasztereket a vezetési idő minimalizálása érdekében.",
+          "Az autó rugalmasságot ad a közeli természeti látnivalók meglátogatásához is.",
+          "Figyeljen a parkolási díjakra és korlátozásokra a városközpontban."
+        ],
+        "ro": [
+          "Folosiți parcările publice, deoarece parcarea pe stradă poate fi limitată.",
+          "Planificați-vă clusterele în avans pentru a minimiza timpul de condus.",
+          "Mașina vă oferă flexibilitatea de a vizita și atracțiile naturale din apropiere.",
+          "Fiți atenți la taxele și restricțiile de parcare din centrul orașului."
+        ],
+        "en": [
+          "Use public parking garages as street parking can be limited.",
+          "Plan your clusters in advance to minimize driving time.",
+          "The car gives you the flexibility to visit nearby natural attractions as well.",
+          "Be mindful of parking fees and restrictions in the city center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:33",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ancien Manège",
+            "hu": "Ancien Manège",
+            "ro": "Ancien Manège",
+            "en": "Ancien Manège"
+          },
+          "coords": [
+            6.8295,
+            47.1025
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ihr Ausgangspunkt, leicht mit dem Bus vom Bahnhof aus erreichbar.",
+            "hu": "A kiindulópont, könnyen megközelíthető busszal az állomásról.",
+            "ro": "Punctul de plecare, ușor accesibil cu autobuzul de la gară.",
+            "en": "Your starting point, easily reached by bus from the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Grand Temple",
+            "hu": "Nagytemplom",
+            "ro": "Marele Templu",
+            "en": "Grand Temple"
+          },
+          "coords": [
+            6.828,
+            47.101
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom ersten Halt aus.",
+            "hu": "Rövid séta az első megállótól.",
+            "ro": "O scurtă plimbare de la prima oprire.",
+            "en": "A short walk from the first stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée des Beaux-Arts",
+            "hu": "Szépművészeti Múzeum",
+            "ro": "Muzeul de Arte Frumoase",
+            "en": "Museum of Fine Arts"
+          },
+          "coords": [
+            6.825,
+            47.104
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie durch die schachbrettartigen Straßen zum Museum.",
+            "hu": "Sétáljon át a sakktábla-szerű utcákon a múzeumhoz.",
+            "ro": "Mergeți pe străzile în carouri până la muzeu.",
+            "en": "Walk through the grid-plan streets to the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Uhrenmuseum",
+            "hu": "Utazás az Óramúzeumhoz",
+            "ro": "Călătorie spre Muzeul Ceasornicăriei",
+            "en": "Transit to Horology Museum"
+          },
+          "coords": [
+            6.826,
+            47.098
+          ],
+          "category": "transport",
+          "arrive_at": "12:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum nächsten Cluster.",
+            "hu": "Vegyen egy buszt a következő klaszterhez.",
+            "ro": "Luați un autobuz spre următorul cluster.",
+            "en": "Take a bus to the next cluster of sights."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée international d'horlogerie",
+            "hu": "Nemzetközi Óramúzeum",
+            "ro": "Muzeul Internațional de Ceasornicărie",
+            "en": "International Museum of Horology"
+          },
+          "coords": [
+            6.826,
+            47.098
+          ],
+          "category": "museums",
+          "arrive_at": "12:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt von der Bushaltestelle aus erreichbar.",
+            "hu": "Közvetlenül a buszmegállóból elérhető.",
+            "ro": "Accesibil direct din stația de autobuz.",
+            "en": "Accessible right from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison Blanche",
+            "hu": "Maison Blanche",
+            "ro": "Maison Blanche",
+            "en": "Maison Blanche"
+          },
+          "coords": [
+            6.815,
+            47.101
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.4,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine weitere Busfahrt bringt Sie in die Nähe dieses Architektur-Highlights.",
+            "hu": "Egy másik buszút visz közelebb ehhez az építészeti gyöngyszemhez.",
+            "ro": "O altă călătorie cu autobuzul vă aduce aproape de acest punct de atracție arhitectural.",
+            "en": "Another bus ride takes you near this architectural highlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo du Bois du Petit-Château",
+            "hu": "Bois du Petit-Château Állatkert",
+            "ro": "Grădina Zoologică Bois du Petit-Château",
+            "en": "Zoo du Bois du Petit-Château"
+          },
+          "coords": [
+            6.82,
+            47.093
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "16:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der letzte Bus bringt Sie zum entspannenden Abschluss des Tages.",
+            "hu": "Az utolsó busz elviszi a nap pihentető befejezéséhez.",
+            "ro": "Ultimul autobuz vă duce la finalul relaxant al zilei.",
+            "en": "The final bus takes you to the relaxing end of the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln erkunden Sie die Stadt in Clustern. Sie beginnen im historischen Zentrum, bevor ein Bus Sie zum Uhrenmuseum bringt. Dort verbringen Sie die Mittagszeit. Eine weitere Busfahrt am Nachmittag führt Sie zu Le Corbusiers Maison Blanche. Die letzte Fahrt bringt Sie zum Zoo, wo Sie den Tag ausklingen lassen können.",
+        "hu": "A tömegközlekedéssel klaszterekben fedezi fel a várost. A történelmi központban kezd, mielőtt egy busz elviszi az Óramúzeumhoz, ahol az ebédidőt tölti. Egy délutáni buszút Le Corbusier Maison Blanche-jához vezet. Az utolsó utazás az állatkertbe visz, ahol lezárhatja a napot.",
+        "ro": "Folosind transportul public, explorați orașul în clustere. Începeți în centrul istoric înainte ca un autobuz să vă ducă la Muzeul Ceasornicăriei, unde petreceți prânzul. O altă călătorie cu autobuzul după-amiaza vă duce la Maison Blanche a lui Le Corbusier. Ultima călătorie vă duce la grădina zoologică pentru a încheia ziua.",
+        "en": "Using public transit, you'll explore the city in clusters. You start in the historic center before a bus takes you to the Horology Museum, where you'll spend midday. Another afternoon bus ride leads to Le Corbusier's Maison Blanche. The final trip takes you to the zoo to wind down the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Käsefondue",
+            "tip": "Ein Muss in der Schweiz, am besten in einem traditionellen Restaurant."
+          },
+          {
+            "name": "Rösti",
+            "tip": "Knusprig gebratene Kartoffeln, oft mit einem Spiegelei serviert."
+          },
+          {
+            "name": "Saucisson neuchâtelois",
+            "tip": "Eine lokale Wurstspezialität, die man probieren sollte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sajt fondü",
+            "tip": "Kötelező Svájcban, legjobb egy hagyományos étteremben."
+          },
+          {
+            "name": "Rösti",
+            "tip": "Ropogósra sült burgonya, gyakran tükörtojással tálalva."
+          },
+          {
+            "name": "Neuchâteli kolbász",
+            "tip": "Helyi kolbászkülönlegesség, amit érdemes megkóstolni."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fondue de brânză",
+            "tip": "O necesitate în Elveția, cel mai bine savurat într-un restaurant tradițional."
+          },
+          {
+            "name": "Rösti",
+            "tip": "Cartofi prăjiți crocanți, adesea serviți cu un ou ochi."
+          },
+          {
+            "name": "Saucisson neuchâtelois",
+            "tip": "O specialitate locală de cârnați care merită încercată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cheese Fondue",
+            "tip": "A must-try in Switzerland, best enjoyed in a traditional restaurant."
+          },
+          {
+            "name": "Rösti",
+            "tip": "Crispy fried potatoes, often served with a fried egg."
+          },
+          {
+            "name": "Saucisson neuchâtelois",
+            "tip": "A local sausage specialty worth tasting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc du Gallet",
+            "tip": "Ein ruhiger Park für eine kurze Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bois du Petit-Château",
+            "tip": "Abseits des Zoos bietet der Wald ruhige Wege.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussicht vom Espacité-Turm",
+            "tip": "Finden Sie einen ruhigen Moment über den Dächern der Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc du Gallet",
+            "tip": "Egy csendes park egy rövid pihenőre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bois du Petit-Château",
+            "tip": "Az állatkerttől távolabb az erdő csendes ösvényeket kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás az Espacité-toronyból",
+            "tip": "Találjon egy csendes pillanatot a város háztetői felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Gallet",
+            "tip": "Un parc liniștit pentru o scurtă pauză.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pădurea Petit-Château",
+            "tip": "Departe de grădina zoologică, pădurea oferă poteci liniștite.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Priveliștea de pe Turnul Espacité",
+            "tip": "Găsiți un moment de liniște deasupra acoperișurilor orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc du Gallet",
+            "tip": "A quiet park for a short break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bois du Petit-Château",
+            "tip": "Away from the zoo, the forest offers quiet paths.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from Espacité Tower",
+            "tip": "Find a quiet moment above the city rooftops.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Uhrengeschäfte",
+            "tip": "Fenstershopping oder Kauf einer Schweizer Uhr im Epizentrum der Uhrmacherei."
+          },
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach Märkten am Place du Marché für lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Óraboltok",
+            "tip": "Nézze meg a kirakatokat, vagy vegyen egy svájci órát az óragyártás epicentrumában."
+          },
+          {
+            "name": "Helyi piac",
+            "tip": "Keresse a piacokat a Place du Marché-n helyi termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de ceasuri",
+            "tip": "Priviți vitrinele sau cumpărați un ceas elvețian din epicentrul orologeriei."
+          },
+          {
+            "name": "Piața locală",
+            "tip": "Căutați piețele din Place du Marché pentru produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Watch Shops",
+            "tip": "Window shop or purchase a Swiss watch in the epicenter of watchmaking."
+          },
+          {
+            "name": "Local Market",
+            "tip": "Look for markets in Place du Marché for local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr für das beste Preis-Leistungs-Verhältnis.",
+          "Laden Sie die Fahrplan-App der lokalen Verkehrsbetriebe herunter.",
+          "Beachten Sie, dass Busse abends seltener fahren.",
+          "Einige Haltestellen sind auf Anfrage; signalisieren Sie dem Fahrer, wenn Sie aussteigen möchten."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a legjobb ár-érték arány érdekében.",
+          "Töltse le a helyi közlekedési vállalat menetrend-alkalmazását.",
+          "Ne feledje, hogy a buszok este ritkábban járnak.",
+          "Néhány megálló jelzésre működik; jelezze a sofőrnek, ha le szeretne szállni."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru cel mai bun raport calitate-preț.",
+          "Descărcați aplicația cu orarul transportului public local.",
+          "Rețineți că autobuzele circulă mai rar seara.",
+          "Unele stații sunt la cerere; semnalizați șoferului dacă doriți să coborâți."
+        ],
+        "en": [
+          "Purchase a day pass for public transport for the best value.",
+          "Download the local transit authority's schedule app.",
+          "Be aware that buses may run less frequently in the evening.",
+          "Some stops are by request; signal the driver when you want to get off."
+        ]
+      }
+    }
+  }
+}

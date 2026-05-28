@@ -1,0 +1,1211 @@
+{
+  "city_id": "finland-kerava-cities-v2",
+  "anchor": {
+    "name": "Kerava",
+    "coords": [
+      25.1014,
+      60.4042
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Sampola Zentrum",
+            "hu": "Sampola Központ",
+            "ro": "Centrul Sampola",
+            "en": "Sampola Centre"
+          },
+          "coords": [
+            25.101,
+            60.404
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee und beobachten Sie das städtische Leben.",
+            "hu": "Indítsa a napot egy kávéval, és figyelje a város ébredését.",
+            "ro": "Începeți ziua aici cu o cafea, privind viața orașului.",
+            "en": "Start your day here with a coffee and watch the city life unfold."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Kerava",
+            "hu": "Keravai templom",
+            "ro": "Biserica din Kerava",
+            "en": "Church of Kerava"
+          },
+          "coords": [
+            25.1045,
+            60.4058
+          ],
+          "category": "churches",
+          "arrive_at": "09:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Achten Sie auf die moderne Architektur und die minimalistische Innenausstattung.",
+            "hu": "Figyelje meg a modern építészetet és a minimalista belső teret.",
+            "ro": "Observați arhitectura modernă și designul interior minimalist.",
+            "en": "Notice the modern architecture and minimalist interior design."
+          }
+        },
+        {
+          "name": {
+            "de": "Sinkka Kunst- und Museumszentrum",
+            "hu": "Sinkka Művészeti és Múzeumi Központ",
+            "ro": "Centrul de Artă și Muzeu Sinkka",
+            "en": "Sinkka Art and Museum Centre"
+          },
+          "coords": [
+            25.0978,
+            60.407
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Prüfen Sie vorab die aktuellen Ausstellungen; es gibt oft überraschende Themen.",
+            "hu": "Előzetesen ellenőrizze az aktuális kiállításokat, gyakran vannak meglepő témák.",
+            "ro": "Verificați expozițiile curente în avans; adesea există teme surprinzătoare.",
+            "en": "Check the current exhibitions in advance; there are often surprising themes."
+          }
+        },
+        {
+          "name": {
+            "de": "Heikkilä Heimatmuseum",
+            "hu": "Heikkilä Helytörténeti Múzeum",
+            "ro": "Muzeul Local Heikkilä",
+            "en": "Heikkilä Local History Museum"
+          },
+          "coords": [
+            25.095,
+            60.4085
+          ],
+          "category": "museums",
+          "arrive_at": "12:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein Einblick in das ländliche finnische Leben des 19. Jahrhunderts. Ideal für eine Zeitreise.",
+            "hu": "Betekintés a 19. századi finn vidéki életbe. Ideális egy időutazáshoz.",
+            "ro": "O incursiune în viața rurală finlandeză din secolul al XIX-lea. Ideal pentru o călătorie în timp.",
+            "en": "A glimpse into 19th-century rural Finnish life. Ideal for a trip back in time."
+          }
+        },
+        {
+          "name": {
+            "de": "Herrenhaus Kerava",
+            "hu": "Kerava Uradalmi Ház",
+            "ro": "Conacul Kerava",
+            "en": "Kerava Manor"
+          },
+          "coords": [
+            25.115,
+            60.415
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der umliegende Park ist perfekt für einen ruhigen Spaziergang nach dem Museumsbesuch.",
+            "hu": "A környező park tökéletes egy csendes sétához a múzeumlátogatás után.",
+            "ro": "Parcul înconjurător este perfect pentru o plimbare liniștită după vizitarea muzeului.",
+            "en": "The surrounding park is perfect for a quiet walk after the museum visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Aurinkomäki",
+            "hu": "Aurinkomäki (Nap-domb)",
+            "ro": "Dealul Soarelui (Aurinkomäki)",
+            "en": "Aurinkomäki (Sun Hill)"
+          },
+          "coords": [
+            25.106,
+            60.402
+          ],
+          "category": "parks",
+          "arrive_at": "16:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort, um den Tag ausklingen zu lassen, besonders im Sommer.",
+            "hu": "Nagyszerű hely a nap lezárásához, különösen nyáron.",
+            "ro": "Un loc minunat pentru a încheia ziua, mai ales vara.",
+            "en": "A great place to end the day, especially in summer."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Kerava beginnt im belebten Sampola-Zentrum, gefolgt von der modernen Architektur der Kirche. Am Vormittag tauchen Sie in die Kunst und Geschichte im Sinkka-Zentrum und im Heikkilä-Heimatmuseum ein. Der Nachmittag führt Sie zum historischen Herrenhaus Kerava, wo Sie in die Vergangenheit eintauchen. Zum Abschluss des Tages entspannen Sie im beliebten Aurinkomäki-Park und genießen die friedliche Atmosphäre.",
+        "hu": "Keravai napja a nyüzsgő Sampola központban kezdődik, majd a templom modern építészete következik. A délelőtt a művészet és a történelem jegyében telik a Sinkka központban és a Heikkilä helytörténeti múzeumban. Délután a történelmi Kerava uradalmi házhoz látogat, ahol elmerülhet a múltban. A nap végén az Aurinkomäki parkban pihenhet, élvezve a békés hangulatot.",
+        "ro": "Ziua dvs. în Kerava începe în animatul centru Sampola, urmată de arhitectura modernă a bisericii. Dimineața este dedicată artei și istoriei la Centrul Sinkka și Muzeul Local Heikkilä. După-amiaza vă duce la istoricul Conac Kerava, unde vă cufundați în trecut. La finalul zilei, vă relaxați în popularul parc Aurinkomäki, bucurându-vă de atmosfera pașnică.",
+        "en": "Your day in Kerava starts at the bustling Sampola Centre, followed by the modern architecture of the church. The morning is dedicated to art and history at the Sinkka Centre and Heikkilä Local History Museum. The afternoon takes you to the historic Kerava Manor, where you delve into the past. To end the day, you'll relax in the popular Aurinkomäki park, enjoying the peaceful atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Karjalanpiirakka",
+            "tip": "Probieren Sie diese traditionellen karelischen Piroggen, ein herzhafter Snack."
+          },
+          {
+            "name": "Lohikeitto",
+            "tip": "Eine cremige Lachssuppe, perfekt für ein wärmendes Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Karjalanpiirakka",
+            "tip": "Kóstolja meg ezeket a hagyományos karéliai pirogokat, egy kiadós harapnivalót."
+          },
+          {
+            "name": "Lohikeitto",
+            "tip": "Krémes lazacleves, tökéletes egy melengető ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Karjalanpiirakka",
+            "tip": "Încercați aceste plăcinte tradiționale kareliene, o gustare consistentă."
+          },
+          {
+            "name": "Lohikeitto",
+            "tip": "O supă cremoasă de somon, perfectă pentru un prânz cald."
+          }
+        ],
+        "en": [
+          {
+            "name": "Karjalanpiirakka",
+            "tip": "Try these traditional Karelian pasties, a hearty snack."
+          },
+          {
+            "name": "Lohikeitto",
+            "tip": "A creamy salmon soup, perfect for a warming lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Keravanjoki",
+            "tip": "Ein Spaziergang entlang des Flusses bietet Ruhe und Natur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park am Herrenhaus Kerava",
+            "tip": "Der weitläufige Park ist ideal für eine stille Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Keravanjoki folyó partja",
+            "tip": "Egy séta a folyó mentén nyugalmat és természetet kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Kerava uradalmi ház parkja",
+            "tip": "A tágas park ideális egy csendes pihenőre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Keravanjoki",
+            "tip": "O plimbare de-a lungul râului oferă liniște și natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Conacului Kerava",
+            "tip": "Parcul extins este ideal pentru o pauză liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Keravanjoki River",
+            "tip": "A walk along the river offers peace and nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kerava Manor Park",
+            "tip": "The spacious park is ideal for a quiet break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kauppakeskus Karuselli",
+            "tip": "Lokales Einkaufszentrum für finnische Produkte und Alltagsgegenstände."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kauppakeskus Karuselli",
+            "tip": "Helyi bevásárlóközpont finn termékekért és mindennapi cikkekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kauppakeskus Karuselli",
+            "tip": "Centru comercial local pentru produse finlandeze și articole de zi cu zi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kauppakeskus Karuselli",
+            "tip": "Local shopping center for Finnish products and everyday items."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den größten Teil des Tages zu Fuß unterwegs sein werden.",
+          "Die Museen können voll werden, planen Sie Ihren Besuch unter der Woche, wenn möglich.",
+          "Nutzen Sie die vielen Grünflächen für kurze Pausen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a nap nagy részében gyalogolni fog.",
+          "A múzeumok zsúfoltak lehetnek, ha lehetséges, hétköznapra tervezze a látogatást.",
+          "Használja ki a sok zöld területet rövid szünetekre."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge pe jos cea mai mare parte a zilei.",
+          "Muzeele pot fi aglomerate, planificați-vă vizita în timpul săptămânii, dacă este posibil.",
+          "Folosiți numeroasele spații verzi pentru pauze scurte."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking for most of the day.",
+          "Museums can get crowded, plan your visit on a weekday if possible.",
+          "Take advantage of the many green spaces for short breaks."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Sampola Zentrum",
+            "hu": "Sampola Központ",
+            "ro": "Centrul Sampola",
+            "en": "Sampola Centre"
+          },
+          "coords": [
+            25.101,
+            60.404
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein guter Ausgangspunkt mit vielen Fahrradständern.",
+            "hu": "Jó kiindulópont, sok kerékpártárolóval.",
+            "ro": "Un bun punct de plecare cu multe parcări pentru biciclete.",
+            "en": "A good starting point with plenty of bike racks."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Kerava",
+            "hu": "Keravai templom",
+            "ro": "Biserica din Kerava",
+            "en": "Church of Kerava"
+          },
+          "coords": [
+            25.1045,
+            60.4058
+          ],
+          "category": "churches",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die kühne Betonkonstruktion, die mit dem Fahrrad leicht zu erreichen ist.",
+            "hu": "Csodálja meg a merész betonszerkezetet, amely kerékpárral könnyen elérhető.",
+            "ro": "Admirați structura îndrăzneață de beton, ușor accesibilă cu bicicleta.",
+            "en": "Admire the bold concrete structure, easily accessible by bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Sinkka Kunst- und Museumszentrum",
+            "hu": "Sinkka Művészeti és Múzeumi Központ",
+            "ro": "Centrul de Artă și Muzeu Sinkka",
+            "en": "Sinkka Art and Museum Centre"
+          },
+          "coords": [
+            25.0978,
+            60.407
+          ],
+          "category": "museums",
+          "arrive_at": "10:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Eine angenehme Radtour vom Stadtzentrum zu diesem kulturellen Hotspot.",
+            "hu": "Kellemes kerékpártúra a városközpontból ehhez a kulturális központhoz.",
+            "ro": "O plimbare plăcută cu bicicleta din centrul orașului până la acest punct fierbinte cultural.",
+            "en": "A pleasant bike ride from the city center to this cultural hotspot."
+          }
+        },
+        {
+          "name": {
+            "de": "Herrenhaus Kerava",
+            "hu": "Kerava Uradalmi Ház",
+            "ro": "Conacul Kerava",
+            "en": "Kerava Manor"
+          },
+          "coords": [
+            25.115,
+            60.415
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Die Radwege führen durch schöne Grünanlagen auf dem Weg zum Herrenhaus.",
+            "hu": "A kerékpárutak gyönyörű zöld területeken vezetnek az uradalmi ház felé.",
+            "ro": "Pistele de biciclete trec prin zone verzi frumoase în drum spre conac.",
+            "en": "The bike paths lead through beautiful green areas on the way to the manor."
+          }
+        },
+        {
+          "name": {
+            "de": "Aurinkomäki",
+            "hu": "Aurinkomäki (Nap-domb)",
+            "ro": "Dealul Soarelui (Aurinkomäki)",
+            "en": "Aurinkomäki (Sun Hill)"
+          },
+          "coords": [
+            25.106,
+            60.402
+          ],
+          "category": "parks",
+          "arrive_at": "13:46",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und genießen Sie ein Picknick auf dem Hügel.",
+            "hu": "Tegye le a kerékpárt, és piknikezzen egyet a dombon.",
+            "ro": "Parcați bicicleta și bucurați-vă de un picnic pe deal.",
+            "en": "Park your bike and enjoy a picnic on the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Heikkilä Heimatmuseum",
+            "hu": "Heikkilä Helytörténeti Múzeum",
+            "ro": "Muzeul Local Heikkilä",
+            "en": "Heikkilä Local History Museum"
+          },
+          "coords": [
+            25.095,
+            60.4085
+          ],
+          "category": "museums",
+          "arrive_at": "14:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Eine kurze Radtour bringt Sie zu diesem charmanten Freilichtmuseum.",
+            "hu": "Egy rövid kerékpártúra elviszi Önt ehhez a bájos szabadtéri múzeumhoz.",
+            "ro": "O scurtă plimbare cu bicicleta vă duce la acest fermecător muzeu în aer liber.",
+            "en": "A short bike ride takes you to this charming open-air museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Industriegebiet Savio",
+            "hu": "Savio ipari terület",
+            "ro": "Zona industrială Savio",
+            "en": "Savio Industrial Area"
+          },
+          "coords": [
+            25.08,
+            60.38
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:32",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die industrielle Vergangenheit der Region, ein interessanter Kontrast zum Rest der Stadt.",
+            "hu": "Fedezze fel a régió ipari múltját, amely érdekes kontrasztot képez a város többi részével.",
+            "ro": "Descoperiți trecutul industrial al regiunii, un contrast interesant cu restul orașului.",
+            "en": "Discover the region's industrial past, an interesting contrast to the rest of the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Rad und starten Sie am Sampola-Zentrum. Ihre Tour führt Sie zur modernen Kirche und dann zum Kunstzentrum Sinkka. Nach dem Mittagessen radeln Sie zum historischen Herrenhaus Kerava und genießen dessen Park. Ein Stopp im Aurinkomäki-Park bietet eine Verschnaufpause, bevor Sie im Heikkilä-Museum mehr über die lokale Geschichte erfahren. Die Tour endet mit einem Abstecher in das Industriegebiet Savio, das einen einzigartigen Einblick in die industrielle Entwicklung Keravas bietet.",
+        "hu": "Pattanjon kerékpárra, és induljon a Sampola központból. Túrája a modern templomhoz, majd a Sinkka művészeti központhoz vezet. Ebéd után tekerjen el a történelmi Kerava uradalmi házhoz, és élvezze a parkját. Egy megálló az Aurinkomäki parkban pihenőt kínál, mielőtt a Heikkilä múzeumban többet megtudna a helyi történelemről. A túra a Savio ipari negyedben tett kitérővel zárul, amely egyedülálló betekintést nyújt Kerava ipari fejlődésébe.",
+        "ro": "Urcați-vă pe bicicletă și porniți de la Centrul Sampola. Turul vă duce la biserica modernă și apoi la Centrul de Artă Sinkka. După prânz, pedalați până la istoricul Conac Kerava și bucurați-vă de parcul său. O oprire în parcul Aurinkomäki oferă o pauză înainte de a afla mai multe despre istoria locală la Muzeul Heikkilä. Turul se încheie cu un ocol în zona industrială Savio, oferind o perspectivă unică asupra dezvoltării industriale a Keravei.",
+        "en": "Hop on your bike and start from the Sampola Centre. Your tour takes you to the modern church and then to the Sinkka Art Centre. After lunch, cycle to the historic Kerava Manor and enjoy its park. A stop at Aurinkomäki park offers a breather before you learn more about local history at the Heikkilä Museum. The tour concludes with a detour to the Savio industrial area, offering a unique insight into Kerava's industrial development."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant an der Strecke",
+            "tip": "Viele Cafés und kleine Restaurants säumen die Radwege, ideal für eine schnelle Stärkung."
+          },
+          {
+            "name": "Korvapuusti",
+            "tip": "Belohnen Sie sich mit einer finnischen Zimtschnecke und einem Kaffee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem az útvonal mentén",
+            "tip": "Számos kávézó és kis étterem szegélyezi a kerékpárutakat, ideális egy gyors feltöltődéshez."
+          },
+          {
+            "name": "Korvapuusti",
+            "tip": "Jutalmazza meg magát egy finn fahéjas csigával és egy kávéval."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant pe traseu",
+            "tip": "Multe cafenele și restaurante mici se află de-a lungul pistelor de biciclete, ideale pentru o oprire rapidă."
+          },
+          {
+            "name": "Korvapuusti",
+            "tip": "Recompensați-vă cu un rulou finlandez cu scorțișoară și o cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant along the route",
+            "tip": "Many cafes and small restaurants line the bike paths, ideal for a quick refuel."
+          },
+          {
+            "name": "Korvapuusti",
+            "tip": "Reward yourself with a Finnish cinnamon bun and a coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Keravanjoki",
+            "tip": "Folgen Sie dem Fluss für eine besonders ruhige und landschaftlich reizvolle Fahrt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Picknick im Park",
+            "tip": "Die vielen Parks eignen sich hervorragend für eine entspannte Mittagspause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Keravanjoki mentén",
+            "tip": "Kövesse a folyót egy különösen csendes és festői útvonalért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Piknik a parkban",
+            "tip": "A számos park kiválóan alkalmas egy pihentető ebédszünetre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul Keravanjoki",
+            "tip": "Urmați râul pentru o plimbare deosebit de liniștită și pitorească.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Picnic în parc",
+            "tip": "Numeroasele parcuri sunt excelente pentru o pauză de prânz relaxantă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike path along Keravanjoki",
+            "tip": "Follow the river for a particularly quiet and scenic ride.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Picnic in the park",
+            "tip": "The many parks are great for a relaxing lunch break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerksläden",
+            "tip": "Halten Sie Ausschau nach kleinen Läden, die lokale Handwerkskunst verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keresse a helyi kézműves termékeket árusító kis boltokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Fiți atenți la micile magazine care vând produse de artizanat local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local craft shops",
+            "tip": "Look out for small shops selling local handicrafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad, bevor Sie losfahren, insbesondere die Reifen und Bremsen.",
+          "Ein Helm wird dringend empfohlen.",
+          "Kerava ist relativ flach, aber einige leichte Steigungen sind vorhanden."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a gumikat és a fékeket.",
+          "Sisak használata erősen ajánlott.",
+          "Kerava viszonylag sík, de vannak enyhe emelkedők."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni, în special anvelopele și frânele.",
+          "O cască este puternic recomandată.",
+          "Kerava este relativ plat, dar există câteva pante ușoare."
+        ],
+        "en": [
+          "Check your bike before you set off, especially the tires and brakes.",
+          "A helmet is strongly recommended.",
+          "Kerava is relatively flat, but there are some gentle slopes."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:18",
+      "total_km": 19.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Industriegebiet Savio",
+            "hu": "Savio ipari terület",
+            "ro": "Zona industrială Savio",
+            "en": "Savio Industrial Area"
+          },
+          "coords": [
+            25.08,
+            60.38
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie am südlichen Rand, um die industrielle Geschichte zuerst zu sehen. Genügend Parkplätze vorhanden.",
+            "hu": "Kezdje a déli szélén, hogy először az ipari történelmet lássa. Elegendő parkolóhely áll rendelkezésre.",
+            "ro": "Începeți de la marginea de sud pentru a vedea mai întâi istoria industrială. Există suficiente locuri de parcare.",
+            "en": "Start on the southern edge to see the industrial history first. Plenty of parking available."
+          }
+        },
+        {
+          "name": {
+            "de": "Herrenhaus Kerava",
+            "hu": "Kerava Uradalmi Ház",
+            "ro": "Conacul Kerava",
+            "en": "Kerava Manor"
+          },
+          "coords": [
+            25.115,
+            60.415
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Herrenhaus und parken Sie dort. Der umliegende Park lädt zum Spazieren ein.",
+            "hu": "Vezessen az uradalmi házhoz, és parkoljon ott. A környező park sétára hív.",
+            "ro": "Conduceți la conac și parcați acolo. Parcul înconjurător este primitor pentru o plimbare.",
+            "en": "Drive to the manor and park there. The surrounding park is inviting for a stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Sinkka Kunst- und Museumszentrum",
+            "hu": "Sinkka Művészeti és Múzeumi Központ",
+            "ro": "Centrul de Artă și Muzeu Sinkka",
+            "en": "Sinkka Art and Museum Centre"
+          },
+          "coords": [
+            25.0978,
+            60.407
+          ],
+          "category": "museums",
+          "arrive_at": "11:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie diesen und den nächsten Halt zu Fuß.",
+            "hu": "Parkoljon le itt, és fedezze fel ezt és a következő megállót gyalog.",
+            "ro": "Parcați aici și explorați această oprire și următoarea pe jos.",
+            "en": "Park here and explore this and the next stop on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Heikkilä Heimatmuseum",
+            "hu": "Heikkilä Helytörténeti Múzeum",
+            "ro": "Muzeul Local Heikkilä",
+            "en": "Heikkilä Local History Museum"
+          },
+          "coords": [
+            25.095,
+            60.4085
+          ],
+          "category": "museums",
+          "arrive_at": "13:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Sinkka-Museum. Lassen Sie das Auto stehen.",
+            "hu": "Rövid séta a Sinkka múzeumtól. Hagyja az autót.",
+            "ro": "O scurtă plimbare de la Muzeul Sinkka. Lăsați mașina.",
+            "en": "A short walk from the Sinkka Museum. Leave the car."
+          }
+        },
+        {
+          "name": {
+            "de": "Sampola Zentrum",
+            "hu": "Sampola Központ",
+            "ro": "Centrul Sampola",
+            "en": "Sampola Centre"
+          },
+          "coords": [
+            25.101,
+            60.404
+          ],
+          "category": "squares",
+          "arrive_at": "15:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Fahren Sie ins Zentrum und finden Sie einen Parkplatz. Der letzte Teil der Tour ist ein Spaziergang.",
+            "hu": "Vezessen a központba, és keressen egy parkolóhelyet. A túra utolsó része séta.",
+            "ro": "Conduceți în centru și găsiți un loc de parcare. Ultima parte a turului este o plimbare.",
+            "en": "Drive to the center and find a parking spot. The last part of the tour is a walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Aurinkomäki",
+            "hu": "Aurinkomäki (Nap-domb)",
+            "ro": "Dealul Soarelui (Aurinkomäki)",
+            "en": "Aurinkomäki (Sun Hill)"
+          },
+          "coords": [
+            25.106,
+            60.402
+          ],
+          "category": "parks",
+          "arrive_at": "15:48",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein entspannender Spaziergang vom Zentrum, um den Tag ausklingen zu lassen.",
+            "hu": "Egy pihentető séta a központból a nap lezárásaként.",
+            "ro": "O plimbare relaxantă din centru pentru a încheia ziua.",
+            "en": "A relaxing walk from the center to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt im industriellen Savio, bevor Sie zum eleganten Herrenhaus Kerava fahren. Am Vormittag bilden die Museen Sinkka und Heikkilä einen kulturellen Cluster, den Sie zu Fuß erkunden, nachdem Sie Ihr Auto geparkt haben. Am Nachmittag fahren Sie ins Stadtzentrum, parken erneut und genießen die Atmosphäre des Sampola-Zentrums, bevor Sie den Tag mit einem entspannten Spaziergang zum Aurinkomäki-Park abschließen. Diese Tour kombiniert die Flexibilität des Autos mit entspannten Spaziergängen.",
+        "hu": "Autós túrája az ipari Savio negyedben kezdődik, mielőtt az elegáns Kerava uradalmi házhoz hajtana. Délelőtt a Sinkka és Heikkilä múzeumok alkotnak egy kulturális klasztert, amelyet gyalog fedezhet fel, miután leparkolta az autót. Délután a városközpontba hajt, újra leparkol, és élvezi a Sampola központ hangulatát, mielőtt a napot egy pihentető sétával zárja az Aurinkomäki parkban. Ez a túra ötvözi az autó rugalmasságát a pihentető sétákkal.",
+        "ro": "Turul cu mașina începe în zona industrială Savio, înainte de a vă îndrepta spre elegantul Conac Kerava. Dimineața, muzeele Sinkka și Heikkilä formează un cluster cultural pe care îl explorați pe jos după ce parcați mașina. După-amiaza, conduceți spre centrul orașului, parcați din nou și bucurați-vă de atmosfera din Centrul Sampola înainte de a încheia ziua cu o plimbare relaxantă în parcul Aurinkomäki. Acest tur combină flexibilitatea mașinii cu plimbări relaxante.",
+        "en": "Your car tour starts in industrial Savio before driving to the elegant Kerava Manor. In the morning, the Sinkka and Heikkilä museums form a cultural cluster that you explore on foot after parking your car. In the afternoon, you drive to the city center, park again, and enjoy the atmosphere of Sampola Centre before ending the day with a relaxing walk to Aurinkomäki park. This tour combines the flexibility of the car with relaxed walks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mittagessen in der Nähe der Museen",
+            "tip": "Es gibt mehrere gute Optionen für ein Mittagessen zwischen den Museumsbesuchen."
+          },
+          {
+            "name": "Kaffee und Kuchen im Zentrum",
+            "tip": "Gönnen Sie sich eine Pause in einem der Cafés am Sampola-Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ebéd a múzeumok közelében",
+            "tip": "Számos jó lehetőség van ebédre a múzeumlátogatások között."
+          },
+          {
+            "name": "Kávé és sütemény a központban",
+            "tip": "Tartson egy szünetet a Sampola központ egyik kávézójában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Prânz lângă muzee",
+            "tip": "Există mai multe opțiuni bune pentru prânz între vizitele la muzee."
+          },
+          {
+            "name": "Cafea și prăjitură în centru",
+            "tip": "Luați o pauză la una dintre cafenelele din Centrul Sampola."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lunch near the museums",
+            "tip": "There are several good options for lunch between museum visits."
+          },
+          {
+            "name": "Coffee and cake in the center",
+            "tip": "Take a break at one of the cafes in the Sampola Centre."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Keravanjoki-Flussufer",
+            "tip": "Machen Sie einen kurzen Abstecher zum Fluss für einen Moment der Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Leseecke in einem Café",
+            "tip": "Finden Sie ein gemütliches Café für eine stille Pause mit einem Buch.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Keravanjoki folyópart",
+            "tip": "Tegyen egy rövid kitérőt a folyóhoz egy pillanatnyi békéért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Olvasósarok egy kávézóban",
+            "tip": "Keressen egy hangulatos kávézót egy csendes pihenőre egy könyvvel.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Keravanjoki",
+            "tip": "Faceți un scurt ocol la râu pentru un moment de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Colț de lectură într-o cafenea",
+            "tip": "Găsiți o cafenea primitoare pentru o pauză liniștită cu o carte.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Keravanjoki riverbank",
+            "tip": "Take a short detour to the river for a moment of peace.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Reading corner in a cafe",
+            "tip": "Find a cozy cafe for a quiet break with a book.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden außerhalb der Stadt",
+            "tip": "Halten Sie Ausschau nach Hofläden mit lokalen Produkten, wenn Sie zwischen den Standorten fahren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok a városon kívül",
+            "tip": "Keresse a helyi termékeket kínáló tanyasi boltokat, amikor a helyszínek között vezet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine agricole în afara orașului",
+            "tip": "Fiți atenți la magazinele agricole cu produse locale în timp ce conduceți între locații."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops outside the city",
+            "tip": "Look out for farm shops with local produce as you drive between locations."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in Kerava ist in der Regel einfach, aber im Stadtzentrum kann es geschäftig sein.",
+          "Planen Sie Ihre Route im Voraus, um die Fahrzeit zu minimieren.",
+          "Ein GPS oder eine Navigations-App ist sehr hilfreich."
+        ],
+        "hu": [
+          "A parkolás Keravában általában egyszerű, de a városközpont forgalmas lehet.",
+          "Tervezze meg előre az útvonalat, hogy minimalizálja a vezetési időt.",
+          "GPS vagy navigációs alkalmazás nagyon hasznos."
+        ],
+        "ro": [
+          "Parcarea în Kerava este de obicei ușoară, dar poate fi aglomerată în centrul orașului.",
+          "Planificați-vă traseul în avans pentru a minimiza timpul de condus.",
+          "Un GPS sau o aplicație de navigație este foarte utilă."
+        ],
+        "en": [
+          "Parking in Kerava is generally easy, but it can be busy in the city center.",
+          "Plan your route in advance to minimize driving time.",
+          "A GPS or navigation app is very helpful."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 11.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Sampola Zentrum",
+            "hu": "Sampola Központ",
+            "ro": "Centrul Sampola",
+            "en": "Sampola Centre"
+          },
+          "coords": [
+            25.101,
+            60.404
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie am Hauptbahnhof, der nur einen kurzen Spaziergang entfernt ist.",
+            "hu": "Induljon a főpályaudvarról, amely csak egy rövid sétára található.",
+            "ro": "Începeți de la gara principală, care se află la o scurtă plimbare.",
+            "en": "Start at the main train station, just a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Kerava",
+            "hu": "Keravai templom",
+            "ro": "Biserica din Kerava",
+            "en": "Church of Kerava"
+          },
+          "coords": [
+            25.1045,
+            60.4058
+          ],
+          "category": "churches",
+          "arrive_at": "09:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Sampola-Zentrum.",
+            "hu": "Rövid séta a Sampola központtól.",
+            "ro": "O scurtă plimbare de la Centrul Sampola.",
+            "en": "A short walk from the Sampola Centre."
+          }
+        },
+        {
+          "name": {
+            "de": "Sinkka Kunst- und Museumszentrum",
+            "hu": "Sinkka Művészeti és Múzeumi Központ",
+            "ro": "Centrul de Artă și Muzeu Sinkka",
+            "en": "Sinkka Art and Museum Centre"
+          },
+          "coords": [
+            25.0978,
+            60.407
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus für eine kurze Fahrt zu diesem Museumcluster.",
+            "hu": "Vegyen egy helyi buszt egy rövid útra ehhez a múzeumi klaszterhez.",
+            "ro": "Luați un autobuz local pentru o scurtă călătorie către acest cluster de muzee.",
+            "en": "Take a local bus for a short ride to this museum cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Heikkilä Heimatmuseum",
+            "hu": "Heikkilä Helytörténeti Múzeum",
+            "ro": "Muzeul Local Heikkilä",
+            "en": "Heikkilä Local History Museum"
+          },
+          "coords": [
+            25.095,
+            60.4085
+          ],
+          "category": "museums",
+          "arrive_at": "12:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Gehen Sie vom Sinkka-Museum zu Fuß. Die beiden Museen liegen nahe beieinander.",
+            "hu": "Sétáljon a Sinkka múzeumtól. A két múzeum közel van egymáshoz.",
+            "ro": "Mergeți pe jos de la Muzeul Sinkka. Cele două muzee sunt apropiate.",
+            "en": "Walk from the Sinkka Museum. The two museums are close to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Herrenhaus Kerava",
+            "hu": "Kerava Uradalmi Ház",
+            "ro": "Conacul Kerava",
+            "en": "Kerava Manor"
+          },
+          "coords": [
+            25.115,
+            60.415
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Eine weitere Busfahrt bringt Sie zu diesem historischen Ort am Rande der Stadt.",
+            "hu": "Egy újabb buszút viszi el Önt ehhez a történelmi helyhez a város szélén.",
+            "ro": "O altă călătorie cu autobuzul vă duce la acest loc istoric de la marginea orașului.",
+            "en": "Another bus ride takes you to this historic site on the outskirts of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Aurinkomäki",
+            "hu": "Aurinkomäki (Nap-domb)",
+            "ro": "Dealul Soarelui (Aurinkomäki)",
+            "en": "Aurinkomäki (Sun Hill)"
+          },
+          "coords": [
+            25.106,
+            60.402
+          ],
+          "category": "parks",
+          "arrive_at": "16:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Bus zurück ins Zentrum und gehen Sie zum Park, um den Tag ausklingen zu lassen.",
+            "hu": "Menjen vissza busszal a központba, és sétáljon el a parkba a nap lezárásaként.",
+            "ro": "Luați autobuzul înapoi în centru și mergeți la parc pentru a încheia ziua.",
+            "en": "Take the bus back to the center and walk to the park to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt im Herzen von Kerava, im Sampola-Zentrum und der nahegelegenen Kirche. Ein kurzer Spaziergang führt Sie dorthin. Dann nehmen Sie einen Bus zum Kulturcluster der Museen Sinkka und Heikkilä. Nach dem Mittagessen bringt Sie ein weiterer Bus zum prächtigen Herrenhaus Kerava. Schließlich kehren Sie mit dem Bus ins Zentrum zurück, um den Tag im entspannenden Aurinkomäki-Park ausklingen zu lassen, der nur einen kurzen Spaziergang entfernt ist.",
+        "hu": "Tömegközlekedéssel töltött napja Kerava szívében, a Sampola központban és a közeli templomnál kezdődik. Egy rövid séta vezet ide. Ezután busszal jut el a Sinkka és Heikkilä múzeumok kulturális klaszteréhez. Ebéd után egy másik busz viszi el a csodálatos Kerava uradalmi házhoz. Végül busszal tér vissza a központba, hogy a napot a pihentető Aurinkomäki parkban zárja, amely csak egy rövid sétára található.",
+        "ro": "Ziua dvs. cu transportul public începe în inima orașului Kerava, la Centrul Sampola și la biserica din apropiere. O scurtă plimbare vă duce acolo. Apoi, luați un autobuz către clusterul cultural al muzeelor Sinkka și Heikkilä. După prânz, un alt autobuz vă duce la magnificul Conac Kerava. În cele din urmă, reveniți în centru cu autobuzul pentru a încheia ziua în relaxantul parc Aurinkomäki, la o scurtă plimbare distanță.",
+        "en": "Your day on public transport starts in the heart of Kerava, at the Sampola Centre and the nearby church. A short walk takes you there. Then, you'll take a bus to the cultural cluster of the Sinkka and Heikkilä museums. After lunch, another bus takes you to the magnificent Kerava Manor. Finally, you'll return to the center by bus to end the day in the relaxing Aurinkomäki park, just a short walk away."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckereien in der Nähe von Haltestellen",
+            "tip": "Schnappen Sie sich unterwegs einen Snack in einer der vielen Bäckereien."
+          },
+          {
+            "name": "Lokale Supermärkte",
+            "tip": "Kaufen Sie Zutaten für ein Picknick, das Sie in einem der Parks genießen können."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékségek a megállók közelében",
+            "tip": "Kapjon be egy falatot útközben a sok pékség egyikében."
+          },
+          {
+            "name": "Helyi szupermarketek",
+            "tip": "Vásároljon hozzávalókat egy piknikhez, amelyet az egyik parkban élvezhet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutării lângă stații",
+            "tip": "Luați o gustare pe drum de la una dintre numeroasele brutării."
+          },
+          {
+            "name": "Supermarketuri locale",
+            "tip": "Cumpărați ingrediente pentru un picnic de care să vă bucurați într-unul dintre parcuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakeries near stops",
+            "tip": "Grab a snack on the go from one of the many bakeries."
+          },
+          {
+            "name": "Local supermarkets",
+            "tip": "Buy ingredients for a picnic to enjoy in one of the parks."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obere Etage im Bus",
+            "tip": "Wenn es einen Doppeldeckerbus gibt, genießen Sie die Aussicht von oben.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Eine Bank im Park",
+            "tip": "Nehmen Sie sich Zeit, um auf einer Bank zu sitzen und die Leute zu beobachten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A busz emelete",
+            "tip": "Ha van emeletes busz, élvezze a kilátást fentről.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Egy pad a parkban",
+            "tip": "Szánjon időt arra, hogy leüljön egy padra, és figyelje az embereket.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etajul superior al autobuzului",
+            "tip": "Dacă există un autobuz supraetajat, bucurați-vă de priveliștea de sus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "O bancă în parc",
+            "tip": "Luați-vă timp să stați pe o bancă și să priviți oamenii.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Upper deck of the bus",
+            "tip": "If there's a double-decker bus, enjoy the view from the top.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A bench in the park",
+            "tip": "Take time to sit on a bench and people-watch.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske am Bahnhof",
+            "tip": "Kaufen Sie finnische Zeitschriften oder Süßigkeiten für Ihre Reise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok a pályaudvaron",
+            "tip": "Vásároljon finn magazinokat vagy édességeket az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri la gară",
+            "tip": "Cumpărați reviste finlandeze sau dulciuri pentru călătoria dvs."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks at the station",
+            "tip": "Buy Finnish magazines or sweets for your journey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, besonders am Wochenende.",
+          "Die HSL-App ist unerlässlich für die Routenplanung in Echtzeit."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Előre ellenőrizze a buszmenetrendet, különösen hétvégén.",
+          "A HSL alkalmazás elengedhetetlen a valós idejű útvonaltervezéshez."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Verificați programul autobuzelor în avans, mai ales în weekend.",
+          "Aplicația HSL este esențială pentru planificarea rutelor în timp real."
+        ],
+        "en": [
+          "Buy a day ticket for unlimited travel.",
+          "Check bus schedules in advance, especially on weekends.",
+          "The HSL app is essential for real-time route planning."
+        ]
+      }
+    }
+  }
+}

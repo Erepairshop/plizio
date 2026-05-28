@@ -1,0 +1,1556 @@
+{
+  "city_id": "spain-orihuela-cities-v2",
+  "anchor": {
+    "name": "Orihuela",
+    "coords": [
+      -0.9443,
+      38.0847
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Santo Domingo Kolleg",
+            "hu": "Santo Domingo Főiskola",
+            "ro": "Colegiul Santo Domingo",
+            "en": "Santo Domingo College"
+          },
+          "coords": [
+            -0.938,
+            38.088
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die zwei getrennten Kreuzgänge, einer im Barock-, der andere im Renaissancestil.",
+            "hu": "Csodálja meg a két különálló kerengőt, az egyik barokk, a másik reneszánsz stílusú.",
+            "ro": "Admirați cele două claustre separate, unul baroc și celălalt renascentist.",
+            "en": "Admire the two separate cloisters, one Baroque and the other Renaissance in style."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus Miguel Hernández",
+            "hu": "Miguel Hernández szülőháza",
+            "ro": "Casa Muzeu Miguel Hernández",
+            "en": "Miguel Hernández House-Museum"
+          },
+          "coords": [
+            -0.94,
+            38.083
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:02",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf den Gemüsegarten und den Feigenbaum, die den Dichter so sehr inspiriert haben.",
+            "hu": "Keresse a veteményeskertet és a fügefát, amelyek a költőt annyira megihlették.",
+            "ro": "Căutați grădina de legume și smochinul care l-au inspirat atât de mult pe poet.",
+            "en": "Look for the vegetable garden and the fig tree that so inspired the poet."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santas Justa y Rufina",
+            "hu": "Santas Justa és Rufina templom",
+            "ro": "Biserica Santas Justa y Rufina",
+            "en": "Church of Saints Justa and Rufina"
+          },
+          "coords": [
+            -0.9465,
+            38.0855
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der gotische Glockenturm ist einzigartig und bietet eine tolle Aussicht, wenn der Aufstieg möglich ist.",
+            "hu": "A gótikus harangtorony egyedi, és remek kilátást nyújt, ha nyitva áll a látogatók előtt.",
+            "ro": "Turnul clopotniță gotic este unic și oferă vederi minunate dacă este deschis pentru urcare.",
+            "en": "The Gothic bell tower is unique and offers great views if it's open for climbing."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Reconquista",
+            "hu": "Reconquista Múzeum",
+            "ro": "Muzeul Reconquista",
+            "en": "Museum of the Reconquista"
+          },
+          "coords": [
+            -0.947,
+            38.0862
+          ],
+          "category": "museums",
+          "arrive_at": "12:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Fokus auf die Kostüme der Mauren und Christen. Ein Fest für die Augen.",
+            "hu": "Fókuszáljon a mórok és keresztények viseleteire. Igazi vizuális ünnep.",
+            "ro": "Concentrează-te pe costumele maurilor și creștinilor. O sărbătoare pentru ochi.",
+            "en": "Focus on the costumes of the Moors and Christians. A feast for the eyes."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Orihuela",
+            "hu": "Orihuelai székesegyház",
+            "ro": "Catedrala din Orihuela",
+            "en": "Orihuela Cathedral"
+          },
+          "coords": [
+            -0.945,
+            38.085
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 90,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Orgel und das Chorgestühl aus der Barockzeit.",
+            "hu": "Ne hagyja ki a barokk orgonát és a kórusüléseket.",
+            "ro": "Nu ratați orga și stranele corului din perioada barocă.",
+            "en": "Don't miss the Baroque period organ and choir stalls."
+          }
+        },
+        {
+          "name": {
+            "de": "Rubalcava Palast",
+            "hu": "Rubalcava-palota",
+            "ro": "Palatul Rubalcava",
+            "en": "Rubalcava Palace"
+          },
+          "coords": [
+            -0.9455,
+            38.086
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schauen Sie sich die beeindruckende Fliesensammlung und die opulenten Salons an.",
+            "hu": "Nézze meg a lenyűgöző csempegyűjteményt és a pazar szalonokat.",
+            "ro": "Uitați-vă la colecția impresionantă de faianță și la saloanele opulente.",
+            "en": "Check out the impressive tile collection and the opulent drawing rooms."
+          }
+        },
+        {
+          "name": {
+            "de": "Palmeral de Orihuela",
+            "hu": "Orihuelai pálmaliget",
+            "ro": "Palmeral de Orihuela",
+            "en": "Palm Grove of Orihuela"
+          },
+          "coords": [
+            -0.955,
+            38.081
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:56",
+          "stay_min": 59,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für einen entspannten Spaziergang am späten Nachmittag im Schatten der Palmen.",
+            "hu": "Tökéletes hely egy pihentető késő délutáni sétához a pálmafák árnyékában.",
+            "ro": "Un loc perfect pentru o plimbare relaxantă după-amiaza târziu, la umbra palmierilor.",
+            "en": "A perfect spot for a relaxing late afternoon walk under the shade of the palms."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Orihuela beginnt im monumentalen Santo Domingo Kolleg, gefolgt von einem literarischen Abstecher zum Haus des Dichters Miguel Hernández. Sie durchqueren das historische Zentrum, um die gotische Pracht der Kirche Santas Justa y Rufina zu entdecken.\nDer Mittag ist der reichen Geschichte der Stadt gewidmet, mit einem Besuch im Museum der Reconquista, das die berühmten Feste der Mauren und Christen zum Leben erweckt. Nach einer wohlverdienten Mittagspause erkunden Sie das Herzstück der Stadt, die beeindruckende Kathedrale von Orihuela.\nDer Nachmittag wird elegant im Rubalcava-Palast, wo Sie einen Einblick in das aristokratische Leben vergangener Zeiten erhalten. Der Tag endet mit einem friedlichen Spaziergang durch den Palmeral de Orihuela, einer Oase der Ruhe und natürlichen Schönheit, die einen perfekten Kontrast zum historischen Trubel bildet.",
+        "hu": "Az orihuelai nap a monumentális Santo Domingo Főiskolánál kezdődik, majd egy irodalmi kitérő következik Miguel Hernández költő házához. Átsétál a történelmi központon, hogy felfedezze a Santas Justa és Rufina templom gótikus pompáját.\nA délelőtt a város gazdag történelmének szentelődik a Reconquista Múzeum meglátogatásával, amely életre kelti a híres „Mórok és Keresztények” ünnepséget. Egy jól megérdemelt ebédszünet után a város szívét, a lenyűgöző Orihuelai Székesegyházat fedezi fel.\nA délután elegánsan folytatódik a Rubalcava-palotában, ahol bepillantást nyerhet a múlt arisztokratikus életébe. A nap egy békés sétával zárul az Orihuelai Pálmaligetben, a nyugalom és a természeti szépség oázisában, amely tökéletes kontrasztot alkot a történelmi nyüzsgéssel.",
+        "ro": "Ziua dvs. în Orihuela începe la monumentalul Colegiu Santo Domingo, urmată de o incursiune literară la casa poetului Miguel Hernández. Veți traversa centrul istoric pentru a descoperi splendoarea gotică a Bisericii Santas Justa y Rufina.\nMiezul zilei este dedicat istoriei bogate a orașului, cu o vizită la Muzeul Reconquista, care aduce la viață faimoasele festivaluri ale Maurilor și Creștinilor. După o pauză de prânz binemeritată, veți explora inima orașului, impresionanta Catedrală din Orihuela.\nDupă-amiaza devine elegantă la Palatul Rubalcava, unde veți avea o privire asupra vieții aristocratice de altădată. Ziua se încheie cu o plimbare liniștită prin Palmeral de Orihuela, o oază de calm și frumusețe naturală, oferind un contrast perfect cu agitația istorică.",
+        "en": "Your day in Orihuela begins at the monumental Santo Domingo College, followed by a literary detour to the house of poet Miguel Hernández. You'll cross the historic center to discover the Gothic splendor of the Church of Saints Justa and Rufina.\nMidday is dedicated to the city's rich history with a visit to the Museum of the Reconquista, which brings the famous Moors and Christians festivities to life. After a well-deserved lunch break, you'll explore the heart of the city, the impressive Orihuela Cathedral.\nThe afternoon turns elegant at the Rubalcava Palace, where you'll get a glimpse into the aristocratic life of yesteryear. The day concludes with a peaceful stroll through the Palmeral de Orihuela, an oasis of calm and natural beauty, providing a perfect contrast to the historical hustle."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Arroz y Costra",
+            "tip": "Ein lokaler Klassiker, ein im Ofen gebackenes Reisgericht mit einer Eierkruste. Ein Muss!"
+          },
+          {
+            "name": "Olleta",
+            "tip": "Ein herzhafter Eintopf mit Bohnen, Reis und verschiedenen Fleischsorten, perfekt für ein sättigendes Mittagessen."
+          },
+          {
+            "name": "Pasteles de Gloria",
+            "tip": "Süße Marzipan- und Süßkartoffelgebäcke, die traditionell zu Weihnachten gegessen werden, aber das ganze Jahr über zu finden sind."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arroz y Costra",
+            "tip": "Helyi klasszikus, egy sütőben sült rizsétel tojáskéreggel a tetején. Kötelező megkóstolni!"
+          },
+          {
+            "name": "Olleta",
+            "tip": "Kiadós egytálétel babból, rizsből és különféle húsokból, tökéletes egy laktató ebédhez."
+          },
+          {
+            "name": "Pasteles de Gloria",
+            "tip": "Édes marcipános és édesburgonyás sütemények, hagyományosan karácsonykor fogyasztják, de egész évben kaphatók."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arroz y Costra",
+            "tip": "Un clasic local, un fel de mâncare cu orez la cuptor cu o crustă de ou deasupra. Trebuie încercat!"
+          },
+          {
+            "name": "Olleta",
+            "tip": "O tocană consistentă cu fasole, orez și diverse cărnuri, perfectă pentru un prânz sățios."
+          },
+          {
+            "name": "Pasteles de Gloria",
+            "tip": "Prăjituri dulci din marțipan și cartof dulce, consumate tradițional de Crăciun, dar disponibile tot anul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Arroz y Costra",
+            "tip": "A local classic, an oven-baked rice dish with an egg crust on top. A must-try!"
+          },
+          {
+            "name": "Olleta",
+            "tip": "A hearty stew with beans, rice, and various meats, perfect for a filling lunch."
+          },
+          {
+            "name": "Pasteles de Gloria",
+            "tip": "Sweet marzipan and sweet potato pastries, traditionally eaten at Christmas but available year-round."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Palmeral de Orihuela",
+            "tip": "Finden Sie eine ruhige Bank unter den Dattelpalmen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kreuzgang der Kathedrale",
+            "tip": "Ein abgeschiedener Ort der Ruhe im Herzen der Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ufer des Flusses Segura",
+            "tip": "Ein Spaziergang am Flussufer kann eine friedliche Auszeit bieten.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Orihuelai pálmaliget",
+            "tip": "Keressen egy csendes padot a datolyapálmák alatt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A székesegyház kerengője",
+            "tip": "Egy eldugott, békés hely a város szívében.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Segura folyó partja",
+            "tip": "Egy séta a folyóparton békés kikapcsolódást nyújthat.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Palmeral de Orihuela",
+            "tip": "Găsiți o bancă liniștită sub curmali.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Claustrul Catedralei",
+            "tip": "Un loc izolat de pace în inima orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malurile râului Segura",
+            "tip": "O plimbare pe malul râului poate oferi o pauză liniștită.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Palm Grove of Orihuela",
+            "tip": "Find a quiet bench under the date palms.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cathedral Cloister",
+            "tip": "A secluded spot of peace in the heart of the city.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Banks of the Segura River",
+            "tip": "A walk along the riverbank can offer a peaceful escape.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte und lokale Spezialitäten auf dem Wochenmarkt."
+          },
+          {
+            "name": "Kunsthandwerksläden",
+            "tip": "Suchen Sie nach handgefertigten Lederwaren und Keramiken in den kleinen Läden der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket és helyi különlegességeket a heti piacon."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keressen kézzel készített bőrárukat és kerámiákat az óváros kis üzleteiben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse proaspete și specialități locale de la piața săptămânală."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Căutați articole din piele și ceramică lucrate manual în micile magazine din orașul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for fresh produce and local delicacies at the weekly market."
+          },
+          {
+            "name": "Artisan Shops",
+            "tip": "Look for handmade leather goods and ceramics in the small shops of the old town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Nehmen Sie viel Wasser mit, besonders in den Sommermonaten.",
+          "Die meisten Sehenswürdigkeiten befinden sich in unmittelbarer Nähe zueinander.",
+          "Planen Sie eine Siesta-Pause am Nachmittag ein, da einige kleinere Geschäfte und Sehenswürdigkeiten schließen könnten."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros macskakövei egyenetlenek lehetnek.",
+          "Hozzon magával sok vizet, különösen a nyári hónapokban.",
+          "A legtöbb látnivaló sétatávolságra van egymástól.",
+          "Tervezzen egy szieszta szünetet délután, mivel néhány kisebb üzlet és látnivaló bezárhat."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece pavajul din orașul vechi poate fi denivelat.",
+          "Luați multă apă, mai ales în lunile de vară.",
+          "Majoritatea atracțiilor sunt la distanță de mers pe jos una de cealaltă.",
+          "Planificați o pauză de siestă după-amiaza, deoarece unele magazine și atracții mai mici s-ar putea închide."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Bring plenty of water, especially during the summer months.",
+          "Most sights are within easy walking distance of each other.",
+          "Plan for a siesta break in the afternoon, as some smaller shops and sights might close."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 8.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Palmeral de Orihuela",
+            "hu": "Orihuelai pálmaliget",
+            "ro": "Palmeral de Orihuela",
+            "en": "Palm Grove of Orihuela"
+          },
+          "coords": [
+            -0.955,
+            38.081
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einer erfrischenden Fahrt durch diese urbane Oase.",
+            "hu": "Kezdje a napot egy frissítő tekeréssel ebben a városi oázisban.",
+            "ro": "Începeți ziua cu o plimbare revigorantă prin această oază urbană.",
+            "en": "Start the day with a refreshing ride through this urban oasis."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus Miguel Hernández",
+            "hu": "Miguel Hernández szülőháza",
+            "ro": "Casa Muzeu Miguel Hernández",
+            "en": "Miguel Hernández House-Museum"
+          },
+          "coords": [
+            -0.94,
+            38.083
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:09",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad in der Nähe ab und tauchen Sie in die Welt des Dichters ein.",
+            "hu": "Parkolja le a kerékpárt a közelben, és merüljön el a költő világában.",
+            "ro": "Parcați bicicleta în apropiere și scufundați-vă în lumea poetului.",
+            "en": "Park your bike nearby and immerse yourself in the poet's world."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Orihuela",
+            "hu": "Orihuelai székesegyház",
+            "ro": "Catedrala din Orihuela",
+            "en": "Orihuela Cathedral"
+          },
+          "coords": [
+            -0.945,
+            38.085
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie diese beeindruckende Kathedrale betreten.",
+            "hu": "Biztonságosan zárja le a kerékpárt, mielőtt belépne ebbe a lenyűgöző székesegyházba.",
+            "ro": "Asigurați-vă bicicleta înainte de a intra în această catedrală impresionantă.",
+            "en": "Securely lock your bike before entering this impressive cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santas Justa y Rufina",
+            "hu": "Santas Justa és Rufina templom",
+            "ro": "Biserica Santas Justa y Rufina",
+            "en": "Church of Saints Justa and Rufina"
+          },
+          "coords": [
+            -0.9465,
+            38.0855
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Nur eine kurze Radtour von der Kathedrale entfernt, perfekt für einen schnellen Besuch.",
+            "hu": "Csak egy rövid biciklizésre a székesegyháztól, tökéletes egy gyors látogatáshoz.",
+            "ro": "La doar o scurtă plimbare cu bicicleta de la catedrală, perfect pentru o vizită rapidă.",
+            "en": "Just a short bike ride from the cathedral, perfect for a quick visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Reconquista",
+            "hu": "Reconquista Múzeum",
+            "ro": "Muzeul Reconquista",
+            "en": "Museum of the Reconquista"
+          },
+          "coords": [
+            -0.947,
+            38.0862
+          ],
+          "category": "museums",
+          "arrive_at": "14:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 91,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die lokale Kultur, bevor Sie den Nachmittag fortsetzen.",
+            "hu": "Tudjon meg többet a helyi kultúráról, mielőtt folytatná a délutánt.",
+            "ro": "Aflați despre cultura locală înainte de a continua după-amiaza.",
+            "en": "Learn about the local culture before continuing your afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Rubalcava Palast",
+            "hu": "Rubalcava-palota",
+            "ro": "Palatul Rubalcava",
+            "en": "Rubalcava Palace"
+          },
+          "coords": [
+            -0.9455,
+            38.086
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:23",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein Einblick in den Adel, nur eine kurze Fahrt entfernt.",
+            "hu": "Bepillantás a nemesi életbe, csak egy rövid tekerésnyire.",
+            "ro": "O privire în nobilime, la doar o scurtă plimbare cu bicicleta.",
+            "en": "A glimpse into nobility, just a short ride away."
+          }
+        },
+        {
+          "name": {
+            "de": "Santo Domingo Kolleg",
+            "hu": "Santo Domingo Főiskola",
+            "ro": "Colegiul Santo Domingo",
+            "en": "Santo Domingo College"
+          },
+          "coords": [
+            -0.938,
+            38.088
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie zum nördlichen Teil der Altstadt, um dieses beeindruckende Monument zu sehen.",
+            "hu": "Tekerjen el az óváros északi részébe, hogy megnézze ezt a lenyűgöző műemléket.",
+            "ro": "Mergeți cu bicicleta în partea de nord a orașului vechi pentru a vedea acest monument impresionant.",
+            "en": "Cycle to the northern part of the old town to see this impressive monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo de Orihuela",
+            "hu": "Orihuelai vár",
+            "ro": "Castelul din Orihuela",
+            "en": "Castle of Orihuela"
+          },
+          "coords": [
+            -0.942,
+            38.09
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "17:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Anstieg ist die Aussicht wert. Lassen Sie Ihr Fahrrad am Fuß des Hügels und gehen Sie das letzte Stück.",
+            "hu": "Az emelkedő megéri a kilátásért. Hagyja a kerékpárt a domb lábánál, és sétáljon fel az utolsó szakaszon.",
+            "ro": "Urcușul merită priveliștea. Lăsați bicicleta la baza dealului și urcați ultima parte pe jos.",
+            "en": "The climb is worth the view. Leave your bike at the base of the hill and walk the final stretch."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt mit einer ruhigen Fahrt durch den Palmeral de Orihuela. Von dort aus radeln Sie in die Altstadt, um in die poetische Atmosphäre des Hauses von Miguel Hernández einzutauchen, gefolgt von der Erkundung der majestätischen Kathedrale und der nahegelegenen Kirche Santas Justa y Rufina.\nNach dem Mittagessen, das Sie mit einem Besuch im Museum der Reconquista und dem eleganten Rubalcava-Palast bereichern, radeln Sie in den nördlichen Teil der Stadt. Dort erwartet Sie das monumentale Santo Domingo Kolleg.\nDer Höhepunkt des Nachmittags ist der Aufstieg zum Castillo de Orihuela. Die Anstrengung wird mit einem atemberaubenden Panoramablick über die Stadt und die umliegende Landschaft belohnt, ein perfekter Abschluss für Ihren aktiven Tag.",
+        "hu": "A kerékpártúra egy nyugodt tekeréssel kezdődik az Orihuelai Pálmaligetben. Onnan az óvárosba kerekezik, hogy elmerüljön Miguel Hernández házának költői hangulatában, majd felfedezze a fenséges székesegyházat és a közeli Santas Justa y Rufina templomot.\nAz ebéd utáni programot a Reconquista Múzeum és az elegáns Rubalcava-palota meglátogatásával gazdagítja, majd a város északi részébe teker. Ott várja Önt a monumentális Santo Domingo Főiskola.\nA délután csúcspontja az Orihuelai várhoz való feljutás. Az erőfeszítést a városra és a környező tájra nyíló lélegzetelállító panoráma jutalmazza, amely tökéletes lezárása az aktív napnak.",
+        "ro": "Turul dvs. cu bicicleta începe cu o plimbare liniștită prin Palmeral de Orihuela. De acolo, pedalați spre orașul vechi pentru a vă cufunda în atmosfera poetică a casei lui Miguel Hernández, urmată de explorarea catedralei maiestuoase și a bisericii din apropiere, Santas Justa y Rufina.\nDupă prânz, îmbogățit cu o vizită la Muzeul Reconquista și la elegantul Palat Rubalcava, vă îndreptați spre partea de nord a orașului. Acolo vă așteaptă monumentalul Colegiu Santo Domingo.\nPunctul culminant al după-amiezii este urcarea la Castelul din Orihuela. Efortul este răsplătit cu o priveliște panoramică uluitoare asupra orașului și a peisajului înconjurător, un final perfect pentru o zi activă.",
+        "en": "Your bike tour begins with a peaceful ride through the Palmeral de Orihuela. From there, you'll cycle to the old town to immerse yourself in the poetic atmosphere of Miguel Hernández's house, followed by exploring the majestic cathedral and the nearby Church of Saints Justa and Rufina.\nAfter lunch, enriched with a visit to the Museum of the Reconquista and the elegant Rubalcava Palace, you'll cycle to the northern part of the city. The monumental Santo Domingo College awaits you there.\nThe highlight of the afternoon is the ascent to the Castle of Orihuela. The effort is rewarded with a breathtaking panoramic view over the city and the surrounding landscape, a perfect end to your active day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Arroz y Costra",
+            "tip": "Ein lokaler Klassiker, ein im Ofen gebackenes Reisgericht mit einer Eierkruste. Ein Muss!"
+          },
+          {
+            "name": "Olleta",
+            "tip": "Ein herzhafter Eintopf mit Bohnen, Reis und verschiedenen Fleischsorten, perfekt für ein sättigendes Mittagessen."
+          },
+          {
+            "name": "Pasteles de Gloria",
+            "tip": "Süße Marzipan- und Süßkartoffelgebäcke, die traditionell zu Weihnachten gegessen werden, aber das ganze Jahr über zu finden sind."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arroz y Costra",
+            "tip": "Helyi klasszikus, egy sütőben sült rizsétel tojáskéreggel a tetején. Kötelező megkóstolni!"
+          },
+          {
+            "name": "Olleta",
+            "tip": "Kiadós egytálétel babból, rizsből és különféle húsokból, tökéletes egy laktató ebédhez."
+          },
+          {
+            "name": "Pasteles de Gloria",
+            "tip": "Édes marcipános és édesburgonyás sütemények, hagyományosan karácsonykor fogyasztják, de egész évben kaphatók."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arroz y Costra",
+            "tip": "Un clasic local, un fel de mâncare cu orez la cuptor cu o crustă de ou deasupra. Trebuie încercat!"
+          },
+          {
+            "name": "Olleta",
+            "tip": "O tocană consistentă cu fasole, orez și diverse cărnuri, perfectă pentru un prânz sățios."
+          },
+          {
+            "name": "Pasteles de Gloria",
+            "tip": "Prăjituri dulci din marțipan și cartof dulce, consumate tradițional de Crăciun, dar disponibile tot anul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Arroz y Costra",
+            "tip": "A local classic, an oven-baked rice dish with an egg crust on top. A must-try!"
+          },
+          {
+            "name": "Olleta",
+            "tip": "A hearty stew with beans, rice, and various meats, perfect for a filling lunch."
+          },
+          {
+            "name": "Pasteles de Gloria",
+            "tip": "Sweet marzipan and sweet potato pastries, traditionally eaten at Christmas but available year-round."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfel des Castillo de Orihuela",
+            "tip": "Die beste Aussicht und ein Gefühl der Ruhe über der Stadt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Palmeral de Orihuela",
+            "tip": "Finden Sie eine ruhige Bank unter den Dattelpalmen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kreuzgang des Santo Domingo Kollegs",
+            "tip": "Ein oft übersehener Ort der Stille und Schönheit.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Orihuelai vár csúcsa",
+            "tip": "A legjobb kilátás és a nyugalom érzése a város felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Orihuelai pálmaliget",
+            "tip": "Keressen egy csendes padot a datolyapálmák alatt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Santo Domingo Főiskola kerengője",
+            "tip": "Egy gyakran figyelmen kívül hagyott, csendes és szép hely.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Castelului din Orihuela",
+            "tip": "Cea mai bună priveliște și un sentiment de pace deasupra orașului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Palmeral de Orihuela",
+            "tip": "Găsiți o bancă liniștită sub curmali.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Claustrul Colegiului Santo Domingo",
+            "tip": "Un loc de liniște și frumusețe adesea trecut cu vederea.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Summit of Orihuela Castle",
+            "tip": "The best view and a sense of peace above the city.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Palm Grove of Orihuela",
+            "tip": "Find a quiet bench under the date palms.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cloister of Santo Domingo College",
+            "tip": "An often-overlooked spot of tranquility and beauty.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte und lokale Spezialitäten auf dem Wochenmarkt."
+          },
+          {
+            "name": "Kunsthandwerksläden",
+            "tip": "Suchen Sie nach handgefertigten Lederwaren und Keramiken in den kleinen Läden der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket és helyi különlegességeket a heti piacon."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keressen kézzel készített bőrárukat és kerámiákat az óváros kis üzleteiben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse proaspete și specialități locale de la piața săptămânală."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Căutați articole din piele și ceramică lucrate manual în micile magazine din orașul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for fresh produce and local delicacies at the weekly market."
+          },
+          {
+            "name": "Artisan Shops",
+            "tip": "Look for handmade leather goods and ceramics in the small shops of the old town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad, bevor Sie losfahren, insbesondere die Bremsen für die Abfahrt vom Schloss.",
+          "Schließen Sie Ihr Fahrrad an den Hauptsehenswürdigkeiten immer gut ab.",
+          "Die Altstadt hat enge Gassen; seien Sie vorsichtig mit Fußgängern.",
+          "Einige Bereiche, wie der Weg zum Schloss, erfordern möglicherweise, dass Sie vom Rad steigen und schieben."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket a várból való leereszkedéshez.",
+          "Mindig gondosan zárja le a kerékpárt a főbb látnivalóknál.",
+          "Az óvárosnak szűk utcái vannak; legyen óvatos a gyalogosokkal.",
+          "Néhány területen, például a várhoz vezető úton, le kell szállnia és tolnia kell a kerékpárt."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni, în special frânele pentru coborârea de la castel.",
+          "Legați-vă întotdeauna bicicleta în siguranță la atracțiile principale.",
+          "Orașul vechi are străzi înguste; fiți atenți la pietoni.",
+          "Anumite zone, cum ar fi urcarea la castel, pot necesita să descălecați și să împingeți bicicleta."
+        ],
+        "en": [
+          "Check your bike before you start, especially the brakes for the descent from the castle.",
+          "Always lock your bike securely at the main sights.",
+          "The old town has narrow streets; be considerate of pedestrians.",
+          "Some areas, like the path up to the castle, may require you to get off and push your bike."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:49",
+      "total_km": 6.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Castillo de Orihuela",
+            "hu": "Orihuelai vár",
+            "ro": "Castelul din Orihuela",
+            "en": "Castle of Orihuela"
+          },
+          "coords": [
+            -0.942,
+            38.09
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie so nah wie möglich heran und genießen Sie die Aussicht, bevor die Mittagshitze einsetzt.",
+            "hu": "Hajtson fel, amilyen közel csak lehet, és élvezze a kilátást, mielőtt beáll a déli hőség.",
+            "ro": "Conduceți cât mai aproape posibil și bucurați-vă de priveliște înainte de căldura amiezii.",
+            "en": "Drive as close as you can and enjoy the views before the midday heat sets in."
+          }
+        },
+        {
+          "name": {
+            "de": "Santo Domingo Kolleg",
+            "hu": "Santo Domingo Főiskola",
+            "ro": "Colegiul Santo Domingo",
+            "en": "Santo Domingo College"
+          },
+          "coords": [
+            -0.938,
+            38.088
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang bergab vom Schloss. Erkunden Sie die beeindruckende barocke Fassade.",
+            "hu": "Egy rövid séta lefelé a vártól. Fedezze fel a lenyűgöző barokk homlokzatot.",
+            "ro": "O scurtă plimbare la vale de la castel. Explorați fațada barocă impresionantă.",
+            "en": "A short walk downhill from the castle. Explore the impressive baroque facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Orihuela",
+            "hu": "Orihuelai székesegyház",
+            "ro": "Catedrala din Orihuela",
+            "en": "Orihuela Cathedral"
+          },
+          "coords": [
+            -0.945,
+            38.085
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Zentrum und beginnen Sie Ihren Rundgang durch die Altstadt hier.",
+            "hu": "Parkoljon a központban, és innen kezdje a sétát az óvárosban.",
+            "ro": "Parcați în centru și începeți turul pe jos al orașului vechi de aici.",
+            "en": "Park in the center and begin your walking tour of the old town from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santas Justa y Rufina",
+            "hu": "Santas Justa és Rufina templom",
+            "ro": "Biserica Santas Justa y Rufina",
+            "en": "Church of Saints Justa and Rufina"
+          },
+          "coords": [
+            -0.9465,
+            38.0855
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner kurzer Spaziergang von der Kathedrale durch die engen Gassen.",
+            "hu": "Egy kellemes, rövid séta a székesegyháztól a szűk utcákon keresztül.",
+            "ro": "O plimbare scurtă și plăcută de la catedrală pe străzile înguste.",
+            "en": "A nice short walk from the cathedral through the narrow streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Reconquista",
+            "hu": "Reconquista Múzeum",
+            "ro": "Muzeul Reconquista",
+            "en": "Museum of the Reconquista"
+          },
+          "coords": [
+            -0.947,
+            38.0862
+          ],
+          "category": "museums",
+          "arrive_at": "14:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 91,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach dem Mittagessen tauchen Sie in die farbenfrohe Geschichte der Stadt ein.",
+            "hu": "Ebéd után merüljön el a város színes történelmében.",
+            "ro": "După prânz, cufundați-vă în istoria colorată a orașului.",
+            "en": "After lunch, immerse yourself in the city's colorful history."
+          }
+        },
+        {
+          "name": {
+            "de": "Rubalcava Palast",
+            "hu": "Rubalcava-palota",
+            "ro": "Palatul Rubalcava",
+            "en": "Rubalcava Palace"
+          },
+          "coords": [
+            -0.9455,
+            38.086
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:29",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die aristokratische Eleganz, bevor Sie zu Ihrem nächsten Ziel fahren.",
+            "hu": "Csodálja meg az arisztokratikus eleganciát, mielőtt a következő célponthoz hajtana.",
+            "ro": "Admirați eleganța aristocratică înainte de a conduce la următoarea destinație.",
+            "en": "Admire the aristocratic elegance before driving to your next destination."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus Miguel Hernández",
+            "hu": "Miguel Hernández szülőháza",
+            "ro": "Casa Muzeu Miguel Hernández",
+            "en": "Miguel Hernández House-Museum"
+          },
+          "coords": [
+            -0.94,
+            38.083
+          ],
+          "arrive_at": "16:38",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "category": "famous residences",
+          "tip_5lang": {
+            "de": "Fahren Sie in den Süden der Stadt, um das bescheidene Haus des berühmten Dichters zu besuchen.",
+            "hu": "Hajtson a város déli részébe, hogy meglátogassa a híres költő szerény otthonát.",
+            "ro": "Conduceți spre sudul orașului pentru a vizita casa modestă a celebrului poet.",
+            "en": "Drive to the south of the city to visit the humble home of the famous poet."
+          }
+        },
+        {
+          "name": {
+            "de": "Palmeral de Orihuela",
+            "hu": "Orihuelai pálmaliget",
+            "ro": "Palmeral de Orihuela",
+            "en": "Palm Grove of Orihuela"
+          },
+          "coords": [
+            -0.955,
+            38.081
+          ],
+          "arrive_at": "17:42",
+          "stay_min": 67,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "category": "parks/promenades/beaches",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und beenden Sie den Tag mit einem entspannten Spaziergang durch die Palmen.",
+            "hu": "Parkoljon a közelben, és fejezze be a napot egy pihentető sétával a pálmák között.",
+            "ro": "Parcați în apropiere și încheiați ziua cu o plimbare relaxantă printre palmieri.",
+            "en": "Park nearby and end your day with a relaxing stroll through the palms."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Auto am höchsten Punkt, dem Castillo de Orihuela, um eine atemberaubende Aussicht zu genießen. Nach einem kurzen Spaziergang zum Santo Domingo Kolleg fahren Sie ins Herz der Stadt. Dort parken Sie und erkunden zu Fuß die Kathedrale, die Kirche Santas Justa y Rufina und das Museum der Reconquista.\nNach einem Mittagessen in der Altstadt setzen Sie Ihren Spaziergang zum eleganten Rubalcava-Palast fort. Dieser erste Teil des Tages gibt Ihnen einen umfassenden Überblick über das historische und religiöse Zentrum von Orihuela.\nAm Nachmittag steigen Sie wieder ins Auto und fahren in den südlichen Teil der Stadt. Sie besuchen das Haus des Dichters Miguel Hernández und beenden Ihren Tag mit einem ruhigen Spaziergang durch den weitläufigen Palmeral, eine perfekte grüne Abwechslung nach den vielen historischen Eindrücken.",
+        "hu": "Kezdje a napot autóval a legmagasabb ponton, az Orihuelai várnál, hogy élvezze a lélegzetelállító kilátást. Egy rövid séta után a Santo Domingo Főiskolához, hajtson a város szívébe. Itt parkoljon le, és gyalog fedezze fel a székesegyházat, a Santas Justa és Rufina templomot és a Reconquista Múzeumot.\nAz óvárosban elfogyasztott ebéd után folytassa sétáját az elegáns Rubalcava-palotához. A nap első fele átfogó képet ad Orihuela történelmi és vallási központjáról.\nDélután ismét autóba ül, és a város déli részébe hajt. Meglátogatja Miguel Hernández költő házát, és a napot egy békés sétával zárja a tágas Pálmaligetben, amely tökéletes zöld kikapcsolódás a sok történelmi benyomás után.",
+        "ro": "Începeți ziua cu mașina la cel mai înalt punct, Castelul din Orihuela, pentru priveliști uluitoare. După o scurtă plimbare până la Colegiul Santo Domingo, conduceți în inima orașului. Acolo, parcați și explorați pe jos Catedrala, Biserica Santas Justa y Rufina și Muzeul Reconquista.\nDupă prânz în orașul vechi, continuați plimbarea spre elegantul Palat Rubalcava. Această primă parte a zilei vă oferă o imagine de ansamblu cuprinzătoare a centrului istoric și religios al Orihuelei.\nDupă-amiaza, vă urcați din nou în mașină și vă îndreptați spre partea de sud a orașului. Veți vizita casa poetului Miguel Hernández și veți încheia ziua cu o plimbare liniștită prin vastul Palmeral, o diversiune verde perfectă după atâtea impresii istorice.",
+        "en": "Start your day by car at the highest point, the Castle of Orihuela, for breathtaking views. After a short walk to Santo Domingo College, drive into the heart of the city. There, you'll park and explore the Cathedral, the Church of Saints Justa and Rufina, and the Museum of the Reconquista on foot.\nAfter lunch in the old town, continue your walk to the elegant Rubalcava Palace. This first part of the day gives you a comprehensive overview of Orihuela's historic and religious center.\nIn the afternoon, get back in the car and head to the southern part of the city. You'll visit the house of poet Miguel Hernández and end your day with a peaceful stroll through the expansive Palmeral, a perfect green diversion after so many historical impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Arroz y Costra",
+            "tip": "Ein lokaler Klassiker, ein im Ofen gebackenes Reisgericht mit einer Eierkruste. Ein Muss!"
+          },
+          {
+            "name": "Olleta",
+            "tip": "Ein herzhafter Eintopf mit Bohnen, Reis und verschiedenen Fleischsorten, perfekt für ein sättigendes Mittagessen."
+          },
+          {
+            "name": "Pasteles de Gloria",
+            "tip": "Süße Marzipan- und Süßkartoffelgebäcke, die traditionell zu Weihnachten gegessen werden, aber das ganze Jahr über zu finden sind."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arroz y Costra",
+            "tip": "Helyi klasszikus, egy sütőben sült rizsétel tojáskéreggel a tetején. Kötelező megkóstolni!"
+          },
+          {
+            "name": "Olleta",
+            "tip": "Kiadós egytálétel babból, rizsből és különféle húsokból, tökéletes egy laktató ebédhez."
+          },
+          {
+            "name": "Pasteles de Gloria",
+            "tip": "Édes marcipános és édesburgonyás sütemények, hagyományosan karácsonykor fogyasztják, de egész évben kaphatók."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arroz y Costra",
+            "tip": "Un clasic local, un fel de mâncare cu orez la cuptor cu o crustă de ou deasupra. Trebuie încercat!"
+          },
+          {
+            "name": "Olleta",
+            "tip": "O tocană consistentă cu fasole, orez și diverse cărnuri, perfectă pentru un prânz sățios."
+          },
+          {
+            "name": "Pasteles de Gloria",
+            "tip": "Prăjituri dulci din marțipan și cartof dulce, consumate tradițional de Crăciun, dar disponibile tot anul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Arroz y Costra",
+            "tip": "A local classic, an oven-baked rice dish with an egg crust on top. A must-try!"
+          },
+          {
+            "name": "Olleta",
+            "tip": "A hearty stew with beans, rice, and various meats, perfect for a filling lunch."
+          },
+          {
+            "name": "Pasteles de Gloria",
+            "tip": "Sweet marzipan and sweet potato pastries, traditionally eaten at Christmas but available year-round."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfel des Castillo de Orihuela",
+            "tip": "Die beste Aussicht und ein Gefühl der Ruhe über der Stadt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Palmeral de Orihuela",
+            "tip": "Finden Sie eine ruhige Bank unter den Dattelpalmen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Flusses Segura",
+            "tip": "Ein kurzer Abstecher zum Flussufer für einen Moment der Ruhe.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Orihuelai vár csúcsa",
+            "tip": "A legjobb kilátás és a nyugalom érzése a város felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Orihuelai pálmaliget",
+            "tip": "Keressen egy csendes padot a datolyapálmák alatt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Segura folyó partja",
+            "tip": "Egy rövid kitérő a folyóparthoz egy pillanatnyi békéért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Castelului din Orihuela",
+            "tip": "Cea mai bună priveliște și un sentiment de pace deasupra orașului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Palmeral de Orihuela",
+            "tip": "Găsiți o bancă liniștită sub curmali.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malurile râului Segura",
+            "tip": "Un scurt ocol pe malul râului pentru un moment de liniște.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Summit of Orihuela Castle",
+            "tip": "The best view and a sense of peace above the city.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Palm Grove of Orihuela",
+            "tip": "Find a quiet bench under the date palms.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the Segura River",
+            "tip": "A quick detour to the riverbank for a moment of peace.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte und lokale Spezialitäten auf dem Wochenmarkt."
+          },
+          {
+            "name": "Kunsthandwerksläden",
+            "tip": "Suchen Sie nach handgefertigten Lederwaren und Keramiken in den kleinen Läden der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket és helyi különlegességeket a heti piacon."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keressen kézzel készített bőrárukat és kerámiákat az óváros kis üzleteiben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse proaspete și specialități locale de la piața săptămânală."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Căutați articole din piele și ceramică lucrate manual în micile magazine din orașul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for fresh produce and local delicacies at the weekly market."
+          },
+          {
+            "name": "Artisan Shops",
+            "tip": "Look for handmade leather goods and ceramics in the small shops of the old town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum kann schwierig sein; nutzen Sie ausgewiesene Parkplätze oder Parkhäuser.",
+          "Planen Sie Ihre Route zwischen den Clustern, um den Verkehr zu vermeiden.",
+          "Lassen Sie keine Wertsachen im Auto sichtbar liegen.",
+          "Die Cluster-Strategie spart Zeit und Parkgebühren."
+        ],
+        "hu": [
+          "A parkolás a városközpontban nehézkes lehet; használjon kijelölt parkolóhelyeket vagy parkolóházakat.",
+          "Tervezze meg az útvonalat a klaszterek között a forgalom elkerülése érdekében.",
+          "Ne hagyjon értékeket látható helyen az autóban.",
+          "A klaszter-stratégia időt és parkolási díjakat takarít meg."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi dificilă; folosiți parcările desemnate sau garajele.",
+          "Planificați-vă traseul între clustere pentru a evita traficul.",
+          "Nu lăsați obiecte de valoare la vedere în mașină.",
+          "Strategia de clustere economisește timp și taxe de parcare."
+        ],
+        "en": [
+          "Parking in the city center can be difficult; use designated car parks or parking garages.",
+          "Plan your route between clusters to avoid traffic.",
+          "Do not leave valuables visible in the car.",
+          "The cluster strategy saves time and parking fees."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:41",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Santo Domingo Kolleg",
+            "hu": "Santo Domingo Főiskola",
+            "ro": "Colegiul Santo Domingo",
+            "en": "Santo Domingo College"
+          },
+          "coords": [
+            -0.938,
+            38.088
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem beeindruckenden Monument, das leicht mit dem Bus zu erreichen ist.",
+            "hu": "Kezdje a napot ennél a lenyűgöző műemléknél, amely busszal könnyen megközelíthető.",
+            "ro": "Începeți ziua la acest monument impresionant, ușor accesibil cu autobuzul.",
+            "en": "Start your day at this impressive monument, easily reachable by bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo de Orihuela",
+            "hu": "Orihuelai vár",
+            "ro": "Castelul din Orihuela",
+            "en": "Castle of Orihuela"
+          },
+          "coords": [
+            -0.942,
+            38.09
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer, aber steiler Spaziergang vom Kolleg aus. Der Aufstieg lohnt sich!",
+            "hu": "Egy rövid, de meredek séta a főiskolától. Megéri felmenni!",
+            "ro": "O plimbare scurtă, dar abruptă de la colegiu. Urcarea merită!",
+            "en": "A short but steep walk up from the college. The climb is worth it!"
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Orihuela",
+            "hu": "Orihuelai székesegyház",
+            "ro": "Catedrala din Orihuela",
+            "en": "Orihuela Cathedral"
+          },
+          "coords": [
+            -0.945,
+            38.085
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie vom Schloss hinunter ins Herz der Altstadt.",
+            "hu": "Sétáljon le a vártól az óváros szívébe.",
+            "ro": "Coborâți pe jos de la castel în inima orașului vechi.",
+            "en": "Walk down from the castle into the heart of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Reconquista",
+            "hu": "Reconquista Múzeum",
+            "ro": "Muzeul Reconquista",
+            "en": "Museum of the Reconquista"
+          },
+          "coords": [
+            -0.947,
+            38.0862
+          ],
+          "category": "museums",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 82,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach dem Mittagessen ein kurzer Spaziergang zu diesem faszinierenden Museum.",
+            "hu": "Ebéd után egy rövid séta ehhez a lenyűgöző múzeumhoz.",
+            "ro": "După prânz, o scurtă plimbare până la acest muzeu fascinant.",
+            "en": "After lunch, a short walk to this fascinating museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus Miguel Hernández",
+            "hu": "Miguel Hernández szülőháza",
+            "ro": "Casa Muzeu Miguel Hernández",
+            "en": "Miguel Hernández House-Museum"
+          },
+          "coords": [
+            -0.94,
+            38.083
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in den Süden der Stadt, um das Haus des Dichters zu finden.",
+            "hu": "Menjen busszal a város déli részébe, hogy megtalálja a költő házát.",
+            "ro": "Luați un autobuz spre sudul orașului pentru a găsi casa poetului.",
+            "en": "Take a bus to the southern part of the city to find the poet's house."
+          }
+        },
+        {
+          "name": {
+            "de": "Palmeral de Orihuela",
+            "hu": "Orihuelai pálmaliget",
+            "ro": "Palmeral de Orihuela",
+            "en": "Palm Grove of Orihuela"
+          },
+          "coords": [
+            -0.955,
+            38.081
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein angenehmer Spaziergang vom Haus des Dichters zu dieser grünen Oase.",
+            "hu": "Egy kellemes séta a költő házától ehhez a zöld oázishoz.",
+            "ro": "O plimbare plăcută de la casa poetului la această oază verde.",
+            "en": "A pleasant walk from the poet's house to this green oasis."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einer Busfahrt zum Santo Domingo Kolleg im Norden der Stadt. Von dort aus erklimmen Sie zu Fuß den Hügel zum Castillo de Orihuela. Nach dem Abstieg führt Sie ein Spaziergang durch die Altstadt zur Kathedrale und zum Museum der Reconquista, wo Sie zu Mittag essen.\nDer Vormittag konzentriert sich auf den historischen Kern von Orihuela und kombiniert beeindruckende Architektur mit Panoramablicken.\nAm Nachmittag nehmen Sie einen weiteren Bus, der Sie in den südlichen Teil der Stadt bringt. Dort besuchen Sie das Haus des Dichters Miguel Hernández. Der Tag endet friedlich mit einem ausgedehnten Spaziergang durch den Palmeral de Orihuela, der einen schönen Kontrast zum Trubel der Altstadt bietet.",
+        "hu": "A nap egy buszúttal kezdődik a város északi részén található Santo Domingo Főiskolához. Onnan gyalog mássza meg a dombot az Orihuelai várhoz. A leereszkedés után egy séta vezet az óvároson keresztül a székesegyházhoz és a Reconquista Múzeumhoz, ahol megebédel.\nA délelőtt Orihuela történelmi magjára összpontosít, lenyűgöző építészetet kombinálva panorámás kilátással.\nDélután egy másik buszra száll, amely a város déli részébe viszi. Ott meglátogatja Miguel Hernández költő házát. A nap békésen zárul egy kiadós sétával az Orihuelai Pálmaligetben, amely szép kontrasztot nyújt az óváros nyüzsgésével.",
+        "ro": "Ziua începe cu o călătorie cu autobuzul la Colegiul Santo Domingo, în nordul orașului. De acolo, urcați pe jos dealul spre Castelul din Orihuela. După coborâre, o plimbare prin orașul vechi vă duce la Catedrală și la Muzeul Reconquista, unde veți lua prânzul.\nDimineața se concentrează pe nucleul istoric al Orihuelei, combinând arhitectura impresionantă cu priveliști panoramice.\nDupă-amiaza, luați un alt autobuz care vă duce în partea de sud a orașului. Acolo veți vizita casa poetului Miguel Hernández. Ziua se încheie pașnic cu o plimbare extinsă prin Palmeral de Orihuela, oferind un contrast frumos cu agitația orașului vechi.",
+        "en": "Your day begins with a bus ride to Santo Domingo College in the north of the city. From there, you'll climb the hill on foot to the Castle of Orihuela. After descending, a walk through the old town takes you to the Cathedral and the Museum of the Reconquista, where you'll have lunch.\nThe morning focuses on Orihuela's historic core, combining impressive architecture with panoramic views.\nIn the afternoon, you'll take another bus to the southern part of the city. There, you'll visit the house of poet Miguel Hernández. The day ends peacefully with an extensive stroll through the Palmeral de Orihuela, providing a nice contrast to the bustle of the old town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Arroz y Costra",
+            "tip": "Ein lokaler Klassiker, ein im Ofen gebackenes Reisgericht mit einer Eierkruste. Ein Muss!"
+          },
+          {
+            "name": "Olleta",
+            "tip": "Ein herzhafter Eintopf mit Bohnen, Reis und verschiedenen Fleischsorten, perfekt für ein sättigendes Mittagessen."
+          },
+          {
+            "name": "Pasteles de Gloria",
+            "tip": "Süße Marzipan- und Süßkartoffelgebäcke, die traditionell zu Weihnachten gegessen werden, aber das ganze Jahr über zu finden sind."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arroz y Costra",
+            "tip": "Helyi klasszikus, egy sütőben sült rizsétel tojáskéreggel a tetején. Kötelező megkóstolni!"
+          },
+          {
+            "name": "Olleta",
+            "tip": "Kiadós egytálétel babból, rizsből és különféle húsokból, tökéletes egy laktató ebédhez."
+          },
+          {
+            "name": "Pasteles de Gloria",
+            "tip": "Édes marcipános és édesburgonyás sütemények, hagyományosan karácsonykor fogyasztják, de egész évben kaphatók."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arroz y Costra",
+            "tip": "Un clasic local, un fel de mâncare cu orez la cuptor cu o crustă de ou deasupra. Trebuie încercat!"
+          },
+          {
+            "name": "Olleta",
+            "tip": "O tocană consistentă cu fasole, orez și diverse cărnuri, perfectă pentru un prânz sățios."
+          },
+          {
+            "name": "Pasteles de Gloria",
+            "tip": "Prăjituri dulci din marțipan și cartof dulce, consumate tradițional de Crăciun, dar disponibile tot anul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Arroz y Costra",
+            "tip": "A local classic, an oven-baked rice dish with an egg crust on top. A must-try!"
+          },
+          {
+            "name": "Olleta",
+            "tip": "A hearty stew with beans, rice, and various meats, perfect for a filling lunch."
+          },
+          {
+            "name": "Pasteles de Gloria",
+            "tip": "Sweet marzipan and sweet potato pastries, traditionally eaten at Christmas but available year-round."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfel des Castillo de Orihuela",
+            "tip": "Die beste Aussicht und ein Gefühl der Ruhe über der Stadt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Palmeral de Orihuela",
+            "tip": "Finden Sie eine ruhige Bank unter den Dattelpalmen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kreuzgang des Santo Domingo Kollegs",
+            "tip": "Ein oft übersehener Ort der Stille und Schönheit.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Orihuelai vár csúcsa",
+            "tip": "A legjobb kilátás és a nyugalom érzése a város felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Orihuelai pálmaliget",
+            "tip": "Keressen egy csendes padot a datolyapálmák alatt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Santo Domingo Főiskola kerengője",
+            "tip": "Egy gyakran figyelmen kívül hagyott, csendes és szép hely.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Castelului din Orihuela",
+            "tip": "Cea mai bună priveliște și un sentiment de pace deasupra orașului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Palmeral de Orihuela",
+            "tip": "Găsiți o bancă liniștită sub curmali.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Claustrul Colegiului Santo Domingo",
+            "tip": "Un loc de liniște și frumusețe adesea trecut cu vederea.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Summit of Orihuela Castle",
+            "tip": "The best view and a sense of peace above the city.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Palm Grove of Orihuela",
+            "tip": "Find a quiet bench under the date palms.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cloister of Santo Domingo College",
+            "tip": "An often-overlooked spot of tranquility and beauty.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte und lokale Spezialitäten auf dem Wochenmarkt."
+          },
+          {
+            "name": "Kunsthandwerksläden",
+            "tip": "Suchen Sie nach handgefertigten Lederwaren und Keramiken in den kleinen Läden der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket és helyi különlegességeket a heti piacon."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keressen kézzel készített bőrárukat és kerámiákat az óváros kis üzleteiben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse proaspete și specialități locale de la piața săptămânală."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Căutați articole din piele și ceramică lucrate manual în micile magazine din orașul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for fresh produce and local delicacies at the weekly market."
+          },
+          {
+            "name": "Artisan Shops",
+            "tip": "Look for handmade leather goods and ceramics in the small shops of the old town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn verfügbar.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, um Wartezeiten zu minimieren.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind zu Fuß erreichbar, sobald Sie dort sind.",
+          "Seien Sie bereit für einen steilen Spaziergang zum Schloss."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha elérhető.",
+          "Előre ellenőrizze a buszmenetrendet a várakozási idő minimalizálása érdekében.",
+          "A legtöbb központi látnivaló gyalogosan elérhető, miután odaért.",
+          "Készüljön fel egy meredek sétára a várhoz."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz, dacă este disponibil.",
+          "Verificați în avans orarele autobuzelor pentru a minimiza timpii de așteptare.",
+          "Majoritatea atracțiilor din centru sunt accesibile pe jos odată ce ajungeți acolo.",
+          "Fiți pregătit pentru o plimbare abruptă până la castel."
+        ],
+        "en": [
+          "Purchase a day pass for the bus if available.",
+          "Check bus schedules in advance to minimize waiting times.",
+          "Most sights in the center are walkable once you're there.",
+          "Be prepared for a steep walk to the castle."
+        ]
+      }
+    }
+  }
+}

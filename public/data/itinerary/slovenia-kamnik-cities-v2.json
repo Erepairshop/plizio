@@ -1,0 +1,1328 @@
+{
+  "city_id": "slovenia-kamnik-cities-v2",
+  "anchor": {
+    "name": "Kamnik",
+    "coords": [
+      14.612,
+      46.225
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptplatz (Glavni trg)",
+            "hu": "Főtér (Glavni trg)",
+            "ro": "Piața Principală (Glavni trg)",
+            "en": "Main Square (Glavni trg)"
+          },
+          "coords": [
+            14.6115,
+            46.2248
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee in einem der charmanten Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik hangulatos kávézójában.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele fermecătoare din piață.",
+            "en": "Start your day with a coffee at one of the charming cafes on the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Šutna Straße",
+            "hu": "Šutna utca",
+            "ro": "Strada Šutna",
+            "en": "Šutna Street"
+          },
+          "coords": [
+            14.6105,
+            46.2235
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:41",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Zunftzeichen an den alten Gebäuden.",
+            "hu": "Figyelje a régi épületeken található céhjelvényeket.",
+            "ro": "Fiți atenți la semnele breslelor de pe clădirile vechi.",
+            "en": "Look for the guild signs on the old buildings."
+          }
+        },
+        {
+          "name": {
+            "de": "Franziskanerkloster Kamnik",
+            "hu": "Ferences kolostor",
+            "ro": "Mănăstirea Franciscană Kamnik",
+            "en": "Franciscan Monastery Kamnik"
+          },
+          "coords": [
+            14.613,
+            46.223
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:39",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Kapelle des Heiligen Grabes, ein Werk von Jože Plečnik.",
+            "hu": "Látogassa meg a Szent Sír kápolnát, Jože Plečnik alkotását.",
+            "ro": "Vizitați Capela Sfântului Mormânt, o operă a lui Jože Plečnik.",
+            "en": "Visit the Chapel of the Holy Sepulchre, a work by Jože Plečnik."
+          }
+        },
+        {
+          "name": {
+            "de": "Mali Grad (Kleine Burg)",
+            "hu": "Mali Grad (Kisvár)",
+            "ro": "Mali Grad (Micul Castel)",
+            "en": "Mali Grad (Little Castle)"
+          },
+          "coords": [
+            14.6108,
+            46.2265
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:25",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht von der romanischen Kapelle.",
+            "hu": "Élvezze a kilátást a román stílusú kápolnából.",
+            "ro": "Bucurați-vă de priveliștea de la capela romanică.",
+            "en": "Enjoy the view from the Romanesque chapel."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Zaprice",
+            "hu": "Zaprice kastély",
+            "ro": "Castelul Zaprice",
+            "en": "Zaprice Castle"
+          },
+          "coords": [
+            14.6175,
+            46.225
+          ],
+          "category": "museums",
+          "arrive_at": "12:17",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Das Museum gibt einen tollen Einblick in die Geschichte der Region.",
+            "hu": "A múzeum remek betekintést nyújt a régió történelmébe.",
+            "ro": "Muzeul oferă o perspectivă excelentă asupra istoriei regiunii.",
+            "en": "The museum offers great insight into the region's history."
+          }
+        },
+        {
+          "name": {
+            "de": "Geburtshaus von Rudolf Maister",
+            "hu": "Rudolf Maister szülőháza",
+            "ro": "Casa natală a lui Rudolf Maister",
+            "en": "Birth House of Rudolf Maister"
+          },
+          "coords": [
+            14.6101,
+            46.223
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:13",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über den slowenischen General und Dichter.",
+            "hu": "Tudjon meg többet a szlovén tábornokról és költőről.",
+            "ro": "Aflați mai multe despre generalul și poetul sloven.",
+            "en": "Learn about the Slovenian general and poet."
+          }
+        },
+        {
+          "name": {
+            "de": "Stari Grad (Alte Burg)",
+            "hu": "Stari Grad (Óvár)",
+            "ro": "Stari Grad (Castelul Vechi)",
+            "en": "Stari Grad (Old Castle)"
+          },
+          "coords": [
+            14.605,
+            46.228
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:47",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 54,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Der Aufstieg ist steil, aber die Aussicht bei Sonnenuntergang ist es wert.",
+            "hu": "Meredek a kaptató, de naplementekor a kilátás megéri.",
+            "ro": "Urcușul este abrupt, dar priveliștea la apus merită efortul.",
+            "en": "The climb is steep, but the view at sunset is worth it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Am Morgen erkunden Sie das historische Herz von Kamnik, vom belebten Hauptplatz bis zur malerischen Šutna-Straße. Mittags tauchen Sie im Schloss Zaprice in die Kultur ein, nachdem Sie die spirituelle Ruhe des Franziskanerklosters und die Aussicht von Mali Grad genossen haben. Der Nachmittag ist dem Nationalhelden Rudolf Maister gewidmet, bevor Sie den Tag mit einem Aufstieg zur Alten Burg für einen Panoramablick auf die Stadt und die Alpen ausklingen lassen. Abends entspannen Sie in einem traditionellen Restaurant und genießen die lokale Küche.",
+        "hu": "Reggel fedezze fel Kamnik történelmi szívét, a nyüzsgő Főtértől a festői Šutna utcáig. Délben merüljön el a kultúrában a Zaprice kastélyban, miután élvezte a ferences kolostor spirituális nyugalmát és a Mali Grad kilátását. A délután Rudolf Maister nemzeti hősnek van szentelve, mielőtt a napot egy sétával zárná az Óvárhoz, ahonnan panorámás kilátás nyílik a városra és az Alpokra. Este pihenjen egy hagyományos étteremben és élvezze a helyi konyhát.",
+        "ro": "Dimineața explorați inima istorică a Kamnikului, de la Piața Principală plină de viață la pitoreasca stradă Šutna. La prânz, pătrundeți în cultură la Castelul Zaprice, după ce v-ați bucurat de liniștea spirituală a Mănăstirii Franciscane și de priveliștea de la Mali Grad. După-amiaza este dedicată eroului național Rudolf Maister, înainte de a încheia ziua cu o urcare la Castelul Vechi pentru o vedere panoramică asupra orașului și Alpilor. Seara, relaxați-vă într-un restaurant tradițional, savurând bucătăria locală.",
+        "en": "In the morning, explore the historic heart of Kamnik, from the bustling Main Square to the picturesque Šutna Street. At midday, immerse yourself in culture at Zaprice Castle after enjoying the spiritual tranquility of the Franciscan Monastery and the views from Mali Grad. The afternoon is dedicated to national hero Rudolf Maister before concluding the day with a climb to the Old Castle for a panoramic vista of the town and the Alps. In the evening, relax at a traditional restaurant, enjoying the local cuisine."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kamniška kajžerica",
+            "tip": "Ein traditionelles Wurstgericht, das man in lokalen Gasthäusern (Gostilna) probieren sollte."
+          },
+          {
+            "name": "Gostilna Pri Planinskem Orlu",
+            "tip": "Bietet authentische slowenische Küche in einem rustikalen Ambiente."
+          },
+          {
+            "name": "Štruklji",
+            "tip": "Probieren Sie diese gerollten Teigtaschen, die süß oder herzhaft gefüllt sein können."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kamniška kajžerica",
+            "tip": "Hagyományos kolbászétel, amelyet érdemes megkóstolni a helyi vendéglőkben (Gostilna)."
+          },
+          {
+            "name": "Gostilna Pri Planinskem Orlu",
+            "tip": "Autentikus szlovén konyhát kínál rusztikus környezetben."
+          },
+          {
+            "name": "Štruklji",
+            "tip": "Kóstolja meg ezeket a tekert tésztabatyukat, amelyek édes vagy sós töltelékkel is készülhetnek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kamniška kajžerica",
+            "tip": "Un preparat tradițional din cârnați, de încercat la hanurile locale (Gostilna)."
+          },
+          {
+            "name": "Gostilna Pri Planinskem Orlu",
+            "tip": "Oferă bucătărie slovenă autentică într-un cadru rustic."
+          },
+          {
+            "name": "Štruklji",
+            "tip": "Încercați aceste găluște rulate, care pot fi umplute cu ceva dulce sau sărat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kamniška kajžerica",
+            "tip": "A traditional sausage dish that you should try in local inns (Gostilna)."
+          },
+          {
+            "name": "Gostilna Pri Planinskem Orlu",
+            "tip": "Offers authentic Slovenian cuisine in a rustic setting."
+          },
+          {
+            "name": "Štruklji",
+            "tip": "Try these rolled dumplings, which can be filled with sweet or savory fillings."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Kamniška Bistrica",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses, der durch die Stadt fließt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stari Grad Gipfel",
+            "tip": "Nach dem Aufstieg bietet sich ein friedlicher Ort, um den Sonnenuntergang zu beobachten.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Klostergarten",
+            "tip": "Der Garten des Franziskanerklosters ist eine Oase der Ruhe.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kamniška Bistrica partja",
+            "tip": "Egy csendes séta a városon átfolyó folyó mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stari Grad csúcsa",
+            "tip": "A mászás után békés hely a naplemente megcsodálására.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kolostorkert",
+            "tip": "A ferences kolostor kertje a nyugalom oázisa.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Kamniška Bistrica",
+            "tip": "O plimbare liniștită de-a lungul râului care traversează orașul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vârful Stari Grad",
+            "tip": "După urcare, oferă un loc pașnic pentru a privi apusul.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina mănăstirii",
+            "tip": "Grădina Mănăstirii Franciscane este o oază de liniște.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Kamniška Bistrica River",
+            "tip": "A quiet walk along the river that flows through the town.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stari Grad Summit",
+            "tip": "After the climb, it's a peaceful spot to watch the sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Monastery Garden",
+            "tip": "The garden of the Franciscan Monastery is an oasis of calm.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Šutna Markt",
+            "tip": "Finden Sie lokale Handwerksprodukte und Souvenirs in den kleinen Läden."
+          },
+          {
+            "name": "Lokaler Honig",
+            "tip": "Die Region ist bekannt für ihren hochwertigen Honig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Šutna piac",
+            "tip": "Keressen helyi kézműves termékeket és ajándéktárgyakat a kis üzletekben."
+          },
+          {
+            "name": "Helyi méz",
+            "tip": "A régió híres a kiváló minőségű mézéről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Šutna",
+            "tip": "Găsiți produse artizanale locale și suveniruri în magazinele mici."
+          },
+          {
+            "name": "Miere locală",
+            "tip": "Regiunea este cunoscută pentru mierea sa de înaltă calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Šutna Market",
+            "tip": "Find local crafts and souvenirs in the small shops."
+          },
+          {
+            "name": "Local Honey",
+            "tip": "The region is known for its high-quality honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster uneben sein kann.",
+          "Der Aufstieg zur Alten Burg ist anstrengend, aber die Aussicht entschädigt dafür.",
+          "Planen Sie genügend Zeit für das Museum im Schloss Zaprice ein.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert a macskakő egyenetlen lehet.",
+          "Az Óvárhoz való feljutás megerőltető, de a kilátás kárpótol érte.",
+          "Szánjon elég időt a Zaprice kastélyban található múzeumra.",
+          "A központ legtöbb látnivalója könnyen megközelíthető gyalog."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul poate fi denivelat.",
+          "Urcarea la Castelul Vechi este obositoare, dar priveliștea merită.",
+          "Planificați suficient timp pentru muzeul de la Castelul Zaprice.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones can be uneven.",
+          "The climb to the Old Castle is strenuous, but the view is rewarding.",
+          "Allow plenty of time for the museum in Zaprice Castle.",
+          "Most sights in the center are easily within walking distance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 18.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Arboretum Volčji Potok",
+            "hu": "Volčji Potok Arborétum",
+            "ro": "Arboretumul Volčji Potok",
+            "en": "Arboretum Volčji Potok"
+          },
+          "coords": [
+            14.611,
+            46.18
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:40",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Besonders schön im Frühling während der Tulpensaison.",
+            "hu": "Különösen szép tavasszal, a tulipánvirágzás idején.",
+            "ro": "Deosebit de frumos primăvara, în timpul sezonului lalelelor.",
+            "en": "Especially beautiful in spring during the tulip season."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Zaprice",
+            "hu": "Zaprice kastély",
+            "ro": "Castelul Zaprice",
+            "en": "Zaprice Castle"
+          },
+          "coords": [
+            14.6175,
+            46.225
+          ],
+          "category": "museums",
+          "arrive_at": "12:08",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 4.7,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab und erkunden Sie die Ausstellungen.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és fedezze fel a kiállításokat.",
+            "ro": "Asigurați-vă bicicleta și explorați expozițiile.",
+            "en": "Secure your bike and explore the exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptplatz & Šutna",
+            "hu": "Főtér és Šutna",
+            "ro": "Piața Principală & Šutna",
+            "en": "Main Square & Šutna"
+          },
+          "coords": [
+            14.6115,
+            46.2248
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:44",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Perfekter Ort für eine Mittagspause.",
+            "hu": "Tökéletes hely egy ebédszünetre.",
+            "ro": "Locul perfect pentru o pauză de prânz.",
+            "en": "The perfect spot for a lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Franziskanerkloster Kamnik",
+            "hu": "Ferences kolostor",
+            "ro": "Mănăstirea Franciscană Kamnik",
+            "en": "Franciscan Monastery Kamnik"
+          },
+          "coords": [
+            14.613,
+            46.223
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:47",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Moment der Stille, bevor Sie weiterfahren.",
+            "hu": "Egy pillanatnyi csend, mielőtt tovább indulna.",
+            "ro": "Un moment de liniște înainte de a continua drumul.",
+            "en": "A moment of silence before you continue your ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Mali Grad (Kleine Burg)",
+            "hu": "Mali Grad (Kisvár)",
+            "ro": "Mali Grad (Micul Castel)",
+            "en": "Mali Grad (Little Castle)"
+          },
+          "coords": [
+            14.6108,
+            46.2265
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:23",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihr Fahrrad unten und gehen Sie die letzten Meter zu Fuß.",
+            "hu": "Hagyja lent a kerékpárt, és tegye meg az utolsó métereket gyalog.",
+            "ro": "Lăsați bicicleta jos și urcați ultimii metri pe jos.",
+            "en": "Leave your bike at the bottom and walk the last few meters."
+          }
+        },
+        {
+          "name": {
+            "de": "Stari Grad (Alte Burg)",
+            "hu": "Stari Grad (Óvár)",
+            "ro": "Stari Grad (Castelul Vechi)",
+            "en": "Stari Grad (Old Castle)"
+          },
+          "coords": [
+            14.605,
+            46.228
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:23",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5,
+          "tip_5lang": {
+            "de": "Der Radweg führt um den Hügel herum; der letzte Teil ist ein Fußweg.",
+            "hu": "A kerékpárút a hegy körül vezet; az utolsó szakasz gyalogút.",
+            "ro": "Pista de biciclete ocolește dealul; ultima parte este o potecă.",
+            "en": "The bike path goes around the hill; the last part is a footpath."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Tag mit einer Radtour zum prächtigen Arboretum Volčji Potok und verbringen Sie den Vormittag inmitten von Blumen und Natur. Mittags radeln Sie zurück in die Stadt, um im Schloss Zaprice in die Geschichte einzutauchen, gefolgt von einer wohlverdienten Mittagspause am Hauptplatz. Der Nachmittag führt Sie durch das historische Zentrum, vorbei am Franziskanerkloster und der Kleinen Burg. Beenden Sie Ihre Tour mit einem anspruchsvollen, aber lohnenden Abstecher zur Alten Burg, um die Aussicht zu genießen.",
+        "hu": "Kezdje a napot egy kerékpártúrával a csodálatos Volčji Potok Arborétumba, és töltse a délelőttöt virágok és természet közepette. Délben tekerjen vissza a városba, hogy elmerüljön a történelemben a Zaprice kastélyban, majd tartson egy jól megérdemelt ebédszünetet a Főtéren. A délután a történelmi központon vezet keresztül, elhaladva a ferences kolostor és a Kisvár mellett. Zárja a túrát egy kihívást jelentő, de annál inkább megérő kitérővel az Óvárhoz, hogy élvezze a kilátást.",
+        "ro": "Începeți ziua cu o plimbare cu bicicleta la magnificul Arboretum Volčji Potok, petrecând dimineața printre flori și natură. La prânz, pedalați înapoi în oraș pentru o incursiune în istorie la Castelul Zaprice, urmată de o pauză de prânz binemeritată în Piața Principală. După-amiaza vă poartă prin centrul istoric, pe lângă Mănăstirea Franciscană și Micul Castel. Încheiați turul cu un ocol provocator, dar plin de satisfacții, la Castelul Vechi pentru a admira priveliștea.",
+        "en": "Start your day with a bike ride to the magnificent Arboretum Volčji Potok, spending the morning amidst flowers and nature. At midday, cycle back to town for a dip into history at Zaprice Castle, followed by a well-deserved lunch break in the Main Square. The afternoon takes you through the historic center, past the Franciscan Monastery and the Little Castle. End your tour with a challenging but rewarding detour to the Old Castle to soak in the views."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kavarna Veronika",
+            "tip": "Ein großartiger Ort für Kaffee und Kuchen (Kremšnita) nach einer langen Fahrt."
+          },
+          {
+            "name": "Pri Cesarju",
+            "tip": "Traditionelle Gerichte, ideal um die Energiereserven wieder aufzufüllen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kavarna Veronika",
+            "tip": "Nagyszerű hely egy kávéra és süteményre (Kremšnita) egy hosszú tekerés után."
+          },
+          {
+            "name": "Pri Cesarju",
+            "tip": "Hagyományos ételek, ideális az energiatartalékok feltöltésére."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kavarna Veronika",
+            "tip": "Un loc minunat pentru o cafea și o prăjitură (Kremšnita) după o plimbare lungă."
+          },
+          {
+            "name": "Pri Cesarju",
+            "tip": "Mâncăruri tradiționale, ideale pentru a vă reface rezervele de energie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kavarna Veronika",
+            "tip": "A great spot for coffee and cake (Kremšnita) after a long ride."
+          },
+          {
+            "name": "Pri Cesarju",
+            "tip": "Traditional dishes, perfect for replenishing your energy reserves."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Arboretum Seen",
+            "tip": "Finden Sie einen ruhigen Platz an einem der Seen im Arboretum.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kamniška Bistrica Radweg",
+            "tip": "Folgen Sie dem Fluss für eine entspannte und landschaftlich reizvolle Fahrt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arborétum tavai",
+            "tip": "Keressen egy csendes helyet az arborétum egyik tavánál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kamniška Bistrica kerékpárút",
+            "tip": "Kövesse a folyót egy pihentető és festői útvonalon.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacurile din Arboretum",
+            "tip": "Găsiți un loc liniștit lângă unul dintre lacurile din arboretum.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pista de biciclete Kamniška Bistrica",
+            "tip": "Urmați râul pentru o plimbare relaxantă și pitorească.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Arboretum Lakes",
+            "tip": "Find a quiet spot by one of the lakes in the arboretum.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kamniška Bistrica Bike Path",
+            "tip": "Follow the river for a relaxing and scenic ride.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Arboretum Souvenirladen",
+            "tip": "Kaufen Sie pflanzenbezogene Geschenke und lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arborétum ajándékbolt",
+            "tip": "Vásároljon növényekkel kapcsolatos ajándékokat és helyi termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de suveniruri al Arboretumului",
+            "tip": "Cumpărați cadouri legate de plante și produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Arboretum Gift Shop",
+            "tip": "Buy plant-related gifts and local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Zustand Ihres Fahrrads vor der Abfahrt, insbesondere die Bremsen für die Abfahrten.",
+          "Nehmen Sie genügend Wasser mit, besonders für die Fahrt zum Arboretum.",
+          "Einige Abschnitte in der Altstadt erfordern möglicherweise, dass Sie absteigen und das Fahrrad schieben.",
+          "Es gibt mehrere Radwege in der Umgebung; eine Karte kann nützlich sein."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpár állapotát, különösen a fékeket a lejtőkhöz.",
+          "Vigyen magával elegendő vizet, különösen az arborétumba vezető útra.",
+          "Az óváros egyes szakaszain le kell szállnia és tolnia kell a kerékpárt.",
+          "A környéken több kerékpárút is található; egy térkép hasznos lehet."
+        ],
+        "ro": [
+          "Verificați starea bicicletei înainte de a pleca, în special frânele pentru coborâri.",
+          "Luați suficientă apă, mai ales pentru drumul spre arboretum.",
+          "Anumite secțiuni din orașul vechi ar putea necesita să descălecați și să împingeți bicicleta.",
+          "Există mai multe piste de biciclete în zonă; o hartă poate fi utilă."
+        ],
+        "en": [
+          "Check your bike's condition before leaving, especially the brakes for the descents.",
+          "Bring enough water, especially for the ride to the arboretum.",
+          "Some sections in the old town may require you to dismount and walk your bike.",
+          "There are several bike paths in the area; a map can be useful."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 15.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Arboretum Volčji Potok",
+            "hu": "Volčji Potok Arborétum",
+            "ro": "Arboretumul Volčji Potok",
+            "en": "Arboretum Volčji Potok"
+          },
+          "coords": [
+            14.611,
+            46.18
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:24",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Parken Sie am Eingang und planen Sie mindestens zwei Stunden für einen Spaziergang ein.",
+            "hu": "Parkoljon a bejáratnál, és szánjon legalább két órát a sétára.",
+            "ro": "Parcați la intrare și planificați cel puțin două ore pentru o plimbare.",
+            "en": "Park at the entrance and plan for at least a two-hour walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster: Kamnik Zentrum",
+            "hu": "Klaszter: Kamnik Központ",
+            "ro": "Cluster: Centrul Kamnik",
+            "en": "Cluster: Kamnik Center"
+          },
+          "coords": [
+            14.615,
+            46.224
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:42",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 8,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto in einem der ausgewiesenen Parkhäuser für den Rest des Tages.",
+            "hu": "Parkolja le autóját a kijelölt parkolóházak egyikében a nap hátralévő részére.",
+            "ro": "Parcați mașina într-una dintre parcările desemnate pentru restul zilei.",
+            "en": "Park your car in one of the designated parking lots for the rest of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Zaprice",
+            "hu": "Zaprice kastély",
+            "ro": "Castelul Zaprice",
+            "en": "Zaprice Castle"
+          },
+          "coords": [
+            14.6175,
+            46.225
+          ],
+          "category": "museums",
+          "arrive_at": "11:44",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Stadtrundgang hier, um einen historischen Überblick zu bekommen.",
+            "hu": "Kezdje a városnézést itt, hogy történelmi áttekintést kapjon.",
+            "ro": "Începeți turul orașului de aici pentru o perspectivă istorică.",
+            "en": "Start your town walk here for a historical overview."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptplatz & Šutna",
+            "hu": "Főtér és Šutna",
+            "ro": "Piața Principală & Šutna",
+            "en": "Main Square & Šutna"
+          },
+          "coords": [
+            14.6115,
+            46.2248
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:26",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zeit für ein entspanntes Mittagessen in der Altstadt.",
+            "hu": "Ideje egy kellemes ebédnek az óvárosban.",
+            "ro": "Timpul pentru un prânz relaxant în orașul vechi.",
+            "en": "Time for a relaxed lunch in the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Franziskanerkloster Kamnik",
+            "hu": "Ferences kolostor",
+            "ro": "Mănăstirea Franciscană Kamnik",
+            "en": "Franciscan Monastery Kamnik"
+          },
+          "coords": [
+            14.613,
+            46.223
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:45",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer, besinnlicher Halt.",
+            "hu": "Egy rövid, elmélkedő megálló.",
+            "ro": "O scurtă oprire contemplativă.",
+            "en": "A short, contemplative stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Mali Grad (Kleine Burg)",
+            "hu": "Mali Grad (Kisvár)",
+            "ro": "Mali Grad (Micul Castel)",
+            "en": "Mali Grad (Little Castle)"
+          },
+          "coords": [
+            14.6108,
+            46.2265
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:23",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kleiner Hügel mit großer Aussicht über die Dächer der Stadt.",
+            "hu": "Egy kis domb nagyszerű kilátással a város háztetőire.",
+            "ro": "Un deal mic cu o priveliște minunată asupra acoperișurilor orașului.",
+            "en": "A small hill with a great view over the town's rooftops."
+          }
+        },
+        {
+          "name": {
+            "de": "Stari Grad (Alte Burg)",
+            "hu": "Stari Grad (Óvár)",
+            "ro": "Stari Grad (Castelul Vechi)",
+            "en": "Stari Grad (Old Castle)"
+          },
+          "coords": [
+            14.605,
+            46.228
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:33",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Der letzte Spaziergang des Tages zu den Ruinen für den besten Sonnenuntergangsblick.",
+            "hu": "A nap utolsó sétája a romokhoz a legjobb naplementés kilátásért.",
+            "ro": "Ultima plimbare a zilei la ruine pentru cea mai bună priveliște la apus.",
+            "en": "The last walk of the day to the ruins for the best sunset view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag mit einer kurzen Fahrt zum Arboretum Volčji Potok, wo Sie den Vormittag in der Natur verbringen. Mittags fahren Sie ins Zentrum von Kamnik, parken Ihr Auto und erkunden den Rest des Tages zu Fuß. Sie beginnen mit dem Schloss Zaprice, gefolgt von einem Mittagessen in der Altstadt. Der Nachmittag ist einem Spaziergang durch das historische Zentrum gewidmet, mit Stopps am Franziskanerkloster und der Kleinen Burg. Der Tag endet mit dem Aufstieg zur Alten Burg, um einen atemberaubenden Blick auf die Alpen zu genießen.",
+        "hu": "Kezdje a napot egy rövid autóúttal a Volčji Potok Arborétumba, ahol a délelőttöt a természetben tölti. Délben hajtson be Kamnik központjába, parkolja le autóját, és fedezze fel a város többi részét gyalog. Kezdje a Zaprice kastéllyal, majd ebédeljen az óvárosban. A délutánt a történelmi központban tett séta teszi ki, megállókkal a ferences kolostornál és a Kisvárnál. A nap az Óvárhoz való felmászással ér véget, ahonnan lélegzetelállító kilátás nyílik az Alpokra.",
+        "ro": "Începeți ziua cu o scurtă călătorie cu mașina la Arboretum Volčji Potok, petrecând dimineața în natură. La prânz, conduceți spre centrul orașului Kamnik, parcați mașina și explorați restul orașului pe jos. Începeți cu Castelul Zaprice, urmat de prânz în orașul vechi. După-amiaza este dedicată unei plimbări prin centrul istoric, cu opriri la Mănăstirea Franciscană și Micul Castel. Ziua se încheie cu o urcare la Castelul Vechi pentru o priveliște uluitoare a Alpilor.",
+        "en": "Start the day with a short drive to Arboretum Volčji Potok, spending the morning in nature. At midday, drive to the center of Kamnik, park your car, and explore the rest of the town on foot. Begin with Zaprice Castle, followed by lunch in the old town. The afternoon is dedicated to a walk through the historic center, with stops at the Franciscan Monastery and the Little Castle. The day concludes with the climb to the Old Castle for a breathtaking view of the Alps."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gostilna Repnik",
+            "tip": "Etwas außerhalb der Stadt gelegen, aber die Fahrt für ein gehobenes traditionelles Essen wert."
+          },
+          {
+            "name": "Tuhinjska fila",
+            "tip": "Eine lokale Spezialität, eine Art gefülltes Brot, das oft zu Ostern gegessen wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gostilna Repnik",
+            "tip": "Kicsit a városon kívül található, de megéri az utat egy emelkedett hangulatú, hagyományos vacsoráért."
+          },
+          {
+            "name": "Tuhinjska fila",
+            "tip": "Helyi specialitás, egyfajta töltött kenyér, amelyet gyakran húsvétkor fogyasztanak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gostilna Repnik",
+            "tip": "Situat puțin în afara orașului, dar merită drumul pentru o masă tradițională rafinată."
+          },
+          {
+            "name": "Tuhinjska fila",
+            "tip": "O specialitate locală, un fel de pâine umplută consumată adesea de Paște."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gostilna Repnik",
+            "tip": "Located a bit outside the town, but worth the drive for an upscale traditional meal."
+          },
+          {
+            "name": "Tuhinjska fila",
+            "tip": "A local specialty, a type of stuffed bread often eaten at Easter."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Velika Planina",
+            "tip": "Wenn Sie Zeit haben, ist eine Fahrt zur Hochebene Velika Planina ein unvergessliches Erlebnis.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Quelle der Kamniška Bistrica",
+            "tip": "Fahren Sie ins Tal, um die malerische Quelle des Flusses zu sehen.",
+            "emoji": "💧"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Velika Planina",
+            "tip": "Ha van ideje, a Velika Planina fennsíkra való kirándulás felejthetetlen élmény.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kamniška Bistrica forrása",
+            "tip": "Hajtson le a völgybe, hogy megnézze a folyó festői forrását.",
+            "emoji": "💧"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Velika Planina",
+            "tip": "Dacă aveți timp, o excursie cu mașina pe platoul Velika Planina este o experiență de neuitat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Izvorul râului Kamniška Bistrica",
+            "tip": "Conduceți în vale pentru a vedea izvorul pitoresc al râului.",
+            "emoji": "💧"
+          }
+        ],
+        "en": [
+          {
+            "name": "Velika Planina",
+            "tip": "If you have time, a drive to the Velika Planina plateau is an unforgettable experience.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Source of Kamniška Bistrica river",
+            "tip": "Drive into the valley to see the picturesque source of the river.",
+            "emoji": "💧"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Keramik aus Kamnik",
+            "tip": "Halten Sie Ausschau nach handgefertigter Keramik, einer lokalen Tradition."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kamniki kerámia",
+            "tip": "Keresse a kézzel készített kerámiákat, amely helyi hagyomány."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică de Kamnik",
+            "tip": "Căutați ceramică lucrată manual, o tradiție locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kamnik pottery",
+            "tip": "Look for handmade pottery, a local tradition."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum kann schwierig sein; nutzen Sie die ausgewiesenen Parkplätze.",
+          "Die Straßen in den umliegenden Hügeln können eng und kurvenreich sein.",
+          "Ein Auto ermöglicht es Ihnen, abgelegenere Sehenswürdigkeiten wie die Velika Planina leicht zu erreichen.",
+          "Kombinieren Sie die Fahrt mit Spaziergängen, um das Beste aus beiden Welten zu erleben."
+        ],
+        "hu": [
+          "A parkolás a városközpontban nehézkes lehet; használja a kijelölt parkolókat.",
+          "A környező dombok útjai szűkek és kanyargósak lehetnek.",
+          "Az autó lehetővé teszi, hogy könnyen elérjen távolabbi látnivalókat, mint például a Velika Planina.",
+          "Kombinálja az autózást sétákkal, hogy mindkét világból a legjobbat hozza ki."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi dificilă; folosiți parcările desemnate.",
+          "Drumurile de pe dealurile din jur pot fi înguste și sinuoase.",
+          "O mașină vă permite să ajungeți cu ușurință la atracții mai îndepărtate, cum ar fi Velika Planina.",
+          "Combinați condusul cu plimbările pentru a experimenta tot ce este mai bun din ambele lumi."
+        ],
+        "en": [
+          "Parking in the city center can be difficult; use the designated car parks.",
+          "The roads in the surrounding hills can be narrow and winding.",
+          "A car allows you to easily reach more remote attractions like Velika Planina.",
+          "Combine driving with walking to experience the best of both worlds."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:09",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster: Kamnik Zentrum",
+            "hu": "Klaszter: Kamnik Központ",
+            "ro": "Cluster: Centrul Kamnik",
+            "en": "Cluster: Kamnik Center"
+          },
+          "coords": [
+            14.6135,
+            46.2255
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Hauptbusbahnhof von Kamnik.",
+            "hu": "Menjen busszal Kamnik fő buszpályaudvarára.",
+            "ro": "Luați un autobuz până la autogara principală din Kamnik.",
+            "en": "Take a bus to the main Kamnik bus station."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptplatz & Šutna",
+            "hu": "Főtér és Šutna",
+            "ro": "Piața Principală & Šutna",
+            "en": "Main Square & Šutna"
+          },
+          "coords": [
+            14.6115,
+            46.2248
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:14",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag im Herzen der Altstadt.",
+            "hu": "Kezdje a napot az óváros szívében.",
+            "ro": "Începeți ziua în inima orașului vechi.",
+            "en": "Start your day in the heart of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Mali Grad & Kloster",
+            "hu": "Mali Grad és kolostor",
+            "ro": "Mali Grad și Mănăstirea",
+            "en": "Mali Grad & Monastery"
+          },
+          "coords": [
+            14.611,
+            46.226
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:07",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Kapelle und genießen Sie die Aussicht, bevor Sie zum Kloster hinabsteigen.",
+            "hu": "Fedezze fel a kápolnát és élvezze a kilátást, mielőtt leereszkedik a kolostorhoz.",
+            "ro": "Explorați capela și bucurați-vă de priveliște înainte de a coborî la mănăstire.",
+            "en": "Explore the chapel and enjoy the view before descending to the monastery."
+          }
+        },
+        {
+          "name": {
+            "de": "Arboretum Volčji Potok",
+            "hu": "Volčji Potok Arborétum",
+            "ro": "Arboretumul Volčji Potok",
+            "en": "Arboretum Volčji Potok"
+          },
+          "coords": [
+            14.611,
+            46.18
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:51",
+          "stay_min": 150,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 44,
+          "hop_from_prev_km": 10,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus vom Zentrum; überprüfen Sie den Fahrplan im Voraus.",
+            "hu": "Menjen helyi busszal a központból; előzetesen ellenőrizze a menetrendet.",
+            "ro": "Luați un autobuz local din centru; verificați orarul în avans.",
+            "en": "Take a local bus from the center; check the schedule in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Zaprice",
+            "hu": "Zaprice kastély",
+            "ro": "Castelul Zaprice",
+            "en": "Zaprice Castle"
+          },
+          "coords": [
+            14.6175,
+            46.225
+          ],
+          "category": "museums",
+          "arrive_at": "14:51",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück ins Zentrum und gehen Sie zum Schloss.",
+            "hu": "Menjen vissza busszal a központba, majd sétáljon a kastélyhoz.",
+            "ro": "Luați autobuzul înapoi în centru și mergeți pe jos până la castel.",
+            "en": "Take the bus back to the center and walk to the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Geburtshaus von Rudolf Maister",
+            "hu": "Rudolf Maister szülőháza",
+            "ro": "Casa natală a lui Rudolf Maister",
+            "en": "Birth House of Rudolf Maister"
+          },
+          "coords": [
+            14.6101,
+            46.223
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:37",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Schloss, um mehr über den lokalen Helden zu erfahren.",
+            "hu": "Egy rövid séta a kastélytól, hogy többet tudjon meg a helyi hősről.",
+            "ro": "O scurtă plimbare de la castel pentru a afla mai multe despre eroul local.",
+            "en": "A short walk from the castle to learn about the local hero."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im Zentrum von Kamnik, das Sie mit dem Bus erreichen. Erkunden Sie am Morgen die Altstadt zu Fuß, vom Hauptplatz bis zur Kleinen Burg. Gegen Mittag nehmen Sie einen Bus zum Arboretum Volčji Potok für ein ausgedehntes Naturerlebnis inklusive Mittagessen. Am Nachmittag fahren Sie mit dem Bus zurück und besuchen das Museum im Schloss Zaprice, bevor Sie den Tag mit einem Besuch des Geburtshauses von Rudolf Maister ausklingen lassen. Der Abend bietet die Gelegenheit, in der Altstadt zu Abend zu essen, bevor Sie den Bus zurücknehmen.",
+        "hu": "A nap Kamnik központjában kezdődik, ahová busszal érkezik. Délelőtt fedezze fel gyalog az óvárost, a Főtéren át a Kisvárig. Dél körül buszra száll, hogy a Volčji Potok Arborétumban egy kiterjedt természeti élményben legyen része, ebéddel egybekötve. Délután busszal tér vissza, és meglátogatja a Zaprice kastély múzeumát, mielőtt a napot Rudolf Maister szülőházának meglátogatásával zárja. Az este lehetőséget nyújt egy vacsorára az óvárosban, mielőtt visszaindulna a busszal.",
+        "ro": "Ziua începe în centrul orașului Kamnik, la care ajungeți cu autobuzul. Dimineața, explorați orașul vechi pe jos, de la Piața Principală la Micul Castel. În jurul prânzului, luați un autobuz spre Arboretum Volčji Potok pentru o experiență extinsă în natură, inclusiv prânzul. După-amiaza, reveniți cu autobuzul și vizitați muzeul de la Castelul Zaprice, înainte de a încheia ziua cu o vizită la casa natală a lui Rudolf Maister. Seara oferă ocazia de a cina în orașul vechi înainte de a lua autobuzul înapoi.",
+        "en": "Your day starts in the center of Kamnik, reached by bus. In the morning, explore the old town on foot, from the Main Square to the Little Castle. Around noon, take a bus to Arboretum Volčji Potok for an extensive nature experience, including lunch. In the afternoon, you'll bus back to visit the museum at Zaprice Castle before ending the day with a visit to Rudolf Maister's birth house. The evening offers a chance for dinner in the old town before taking the bus back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Okrepčevalnica na žaru",
+            "tip": "Suchen Sie nach einem Grill-Imbiss für eine schnelle und leckere Mahlzeit."
+          },
+          {
+            "name": "Eisdielen",
+            "tip": "Ein Eis ist die perfekte Erfrischung an einem warmen Tag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Okrepčevalnica na žaru",
+            "tip": "Keressen egy grillbárót egy gyors és finom étkezéshez."
+          },
+          {
+            "name": "Fagylaltozók",
+            "tip": "Egy fagylalt tökéletes felüdülést nyújt egy meleg napon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Okrepčevalnica na žaru",
+            "tip": "Căutați un snack bar cu grătar pentru o masă rapidă și gustoasă."
+          },
+          {
+            "name": "Gelaterii",
+            "tip": "O înghețată este răcorirea perfectă într-o zi călduroasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Okrepčevalnica na žaru",
+            "tip": "Look for a grill snack bar for a quick and tasty meal."
+          },
+          {
+            "name": "Ice Cream Parlors",
+            "tip": "An ice cream is the perfect refreshment on a warm day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park am Busbahnhof",
+            "tip": "Ein guter Ort, um zu warten und Leute zu beobachten.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Obere Wege des Arboretums",
+            "tip": "Entfliehen Sie den Menschenmassen auf den weniger begangenen Wegen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Park a buszpályaudvarnál",
+            "tip": "Jó hely a várakozásra és az emberek nézésére.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Az arborétum felső ösvényei",
+            "tip": "Meneküljön el a tömeg elől a kevésbé járt utakon.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul de la autogară",
+            "tip": "Un loc bun pentru a aștepta și a privi oamenii.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Potecile superioare ale arboretumului",
+            "tip": "Evadați de mulțime pe cărările mai puțin umblate.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Park by the bus station",
+            "tip": "A good place to wait and people-watch.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Upper paths of the Arboretum",
+            "tip": "Escape the crowds on the less-traveled paths.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Überprüfen Sie, ob während Ihres Besuchs ein Markt stattfindet, um lokale Produkte zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Ellenőrizze, hogy látogatása során van-e piac, ahol helyi termékeket vásárolhat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Verificați dacă există o piață în timpul vizitei dvs. pentru a cumpăra produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local market",
+            "tip": "Check if there is a market during your visit to buy local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Überprüfen Sie die Busfahrpläne online, da sie variieren können, insbesondere an Wochenenden.",
+          "Die meisten Busse in Slowenien sind modern und komfortabel.",
+          "Beachten Sie die letzte Busverbindung zurück, wenn Sie Ihren Abend planen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha több utazást tervez.",
+          "Ellenőrizze a buszmenetrendeket online, mivel azok változhatnak, különösen hétvégén.",
+          "A legtöbb busz Szlovéniában modern és kényelmes.",
+          "Vegye figyelembe az utolsó buszjáratot, amikor az estéjét tervezi."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă plănuiți mai multe călătorii.",
+          "Verificați orarele autobuzelor online, deoarece acestea pot varia, mai ales în weekend.",
+          "Majoritatea autobuzelor din Slovenia sunt moderne și confortabile.",
+          "Fiți atenți la ultimul autobuz de întoarcere atunci când vă planificați seara."
+        ],
+        "en": [
+          "Buy a daily bus ticket if you plan on making multiple trips.",
+          "Check bus schedules online as they can vary, especially on weekends.",
+          "Most buses in Slovenia are modern and comfortable.",
+          "Be mindful of the last bus back when planning your evening."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1424 @@
+{
+  "city_id": "austria-weiz-cities-v2",
+  "anchor": {
+    "name": "Weiz",
+    "coords": [
+      15.6203,
+      47.2208
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptplatz & Weberhaus",
+            "hu": "Főtér és Weberhaus",
+            "ro": "Piața Principală și Casa Weber",
+            "en": "Main Square & Weber House"
+          },
+          "coords": [
+            15.6248,
+            47.2188
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee in einem der Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a téren található egyik kávézóban.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
+            "en": "Start your day with a coffee at one of the cafés on the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Taborkirche",
+            "hu": "Tábor-templom",
+            "ro": "Biserica Tabor",
+            "en": "Tabor Church"
+          },
+          "coords": [
+            15.6255,
+            47.2195
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Fresken und die wehrhafte Architektur.",
+            "hu": "Figyelje meg a freskókat és a védekező jellegű építészetet.",
+            "ro": "Observați frescele și arhitectura sa defensivă.",
+            "en": "Pay attention to the frescoes and its defensive architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunsthaus Weiz",
+            "hu": "Weizi Művészetek Háza",
+            "ro": "Casa de Artă Weiz",
+            "en": "Weiz Art House"
+          },
+          "coords": [
+            15.6225,
+            47.2192
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:51",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Prüfen Sie das aktuelle Ausstellungsprogramm online.",
+            "hu": "Nézze meg az aktuális kiállítási programot online.",
+            "ro": "Verificați online programul actual al expozițiilor.",
+            "en": "Check the current exhibition schedule online."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Radmannsdorf",
+            "hu": "Radmannsdorf kastély",
+            "ro": "Castelul Radmannsdorf",
+            "en": "Radmannsdorf Castle"
+          },
+          "coords": [
+            15.6201,
+            47.2181
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das Schloss beherbergt das Bezirksgericht, aber die Außenanlagen sind sehenswert.",
+            "hu": "A kastélyban a kerületi bíróság működik, de a külső területek megtekintése is megéri.",
+            "ro": "Castelul găzduiește tribunalul districtual, dar exteriorul merită văzut.",
+            "en": "The castle houses the district court, but the exterior is worth seeing."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika am Weizberg",
+            "hu": "Weizbergi bazilika",
+            "ro": "Bazilica de pe Weizberg",
+            "en": "Basilica on the Weizberg"
+          },
+          "coords": [
+            15.632,
+            47.225
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für die atemberaubende Aussicht und die prächtige Barockkirche.",
+            "hu": "Megéri a fáradságot felmenni a lélegzetelállító kilátásért és a pompás barokk templomért.",
+            "ro": "Urcarea merită efortul pentru priveliștea uluitoare și biserica barocă magnifică.",
+            "en": "The climb is worth it for the breathtaking view and the magnificent baroque church."
+          }
+        },
+        {
+          "name": {
+            "de": "Gemini-Haus",
+            "hu": "Gemini-ház",
+            "ro": "Casa Gemini",
+            "en": "Gemini House"
+          },
+          "coords": [
+            15.61,
+            47.228
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Ein futuristisches Solarhaus, das sich mit der Sonne dreht. Am besten aus der Ferne betrachten.",
+            "hu": "Egy futurisztikus szolárház, amely a nappal forog. A legjobb távolról megfigyelni.",
+            "ro": "O casă solară futuristă care se rotește odată cu soarele. Cel mai bine se observă de la distanță.",
+            "en": "A futuristic solar house that rotates with the sun. Best viewed from a distance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang am lebhaften Hauptplatz von Weiz, wo Geschichte auf Moderne trifft. Am Vormittag erkunden Sie die befestigte Taborkirche und das Kulturangebot im Kunsthaus. Nach dem Mittagessen und einem Blick auf das Schloss Radmannsdorf führt Sie ein Spaziergang auf den Weizberg zur prächtigen Basilika, die einen weiten Blick über die Stadt bietet. Der Nachmittag endet mit einem Blick auf das innovative Gemini-Haus, ein Symbol für die zukunftsorientierte Seite von Weiz. Der Abend klingt gemütlich in einem der Gasthöfe im Zentrum aus.",
+        "hu": "Sétáját Weiz nyüzsgő főterén kezdje, ahol a történelem és a modernitás találkozik. Délelőtt fedezze fel az erődített Tábor-templomot és a Művészetek Házának kulturális kínálatát. Ebéd és a Radmannsdorf kastély megtekintése után sétáljon fel a Weizbergre a pompás bazilikához, ahonnan tágas kilátás nyílik a városra. A délután az innovatív Gemini-ház megtekintésével zárul, amely Weiz jövőorientált oldalának szimbóluma. Az estét a központ egyik vendéglőjében zárhatja.",
+        "ro": "Începeți turul pietonal în vibranta piață principală din Weiz, unde istoria se întâlnește cu modernitatea. Dimineața explorați Biserica fortificată Tabor și oferta culturală de la Casa de Artă. După prânz și o privire la Castelul Radmannsdorf, o plimbare vă duce pe Weizberg la magnifica basilică, oferind o vedere panoramică asupra orașului. După-amiaza se încheie cu o privire la inovatoarea Casă Gemini, un simbol al laturii orientate spre viitor a orașului Weiz. Seara se încheie confortabil la unul dintre hanurile din centru.",
+        "en": "Start your walking tour in the vibrant main square of Weiz, where history meets modernity. In the morning, explore the fortified Tabor Church and the cultural offerings at the Art House. After lunch and a look at Radmannsdorf Castle, a walk takes you up the Weizberg to the magnificent basilica, offering a wide view over the city. The afternoon concludes with a look at the innovative Gemini House, a symbol of Weiz's future-oriented side. The evening ends comfortably in one of the inns in the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Steirisches Wurzelfleisch",
+            "tip": "Ein traditionelles Gericht mit Schweinefleisch und Wurzelgemüse. Probieren Sie es im Gasthof Ederer."
+          },
+          {
+            "name": "Apfelstrudel",
+            "tip": "Ein Klassiker der österreichischen Küche, oft mit Vanillesauce serviert."
+          },
+          {
+            "name": "Käferbohnensalat",
+            "tip": "Ein typischer Salat aus der Steiermark mit großen, violetten Bohnen und Kernöl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stájer gyökérhús (Wurzelfleisch)",
+            "tip": "Hagyományos étel sertéshússal és gyökérzöldségekkel. Kóstolja meg az Ederer vendéglőben."
+          },
+          {
+            "name": "Almás rétes (Apfelstrudel)",
+            "tip": "Az osztrák konyha klasszikusa, gyakran vaníliaszósszal tálalva."
+          },
+          {
+            "name": "Tarkabab saláta (Käferbohnensalat)",
+            "tip": "Jellegzetes stájer saláta nagy, lila babból és tökmagolajjal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Wurzelfleisch stirian",
+            "tip": "Un fel de mâncare tradițional cu carne de porc și rădăcinoase. Încercați-l la Gasthof Ederer."
+          },
+          {
+            "name": "Ștrudel cu mere (Apfelstrudel)",
+            "tip": "Un clasic al bucătăriei austriece, adesea servit cu sos de vanilie."
+          },
+          {
+            "name": "Salată de fasole Käferbohnen",
+            "tip": "O salată tipică din Stiria cu fasole mare, violetă, și ulei de dovleac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Styrian Wurzelfleisch",
+            "tip": "A traditional dish with pork and root vegetables. Try it at Gasthof Ederer."
+          },
+          {
+            "name": "Apple Strudel (Apfelstrudel)",
+            "tip": "A classic of Austrian cuisine, often served with vanilla sauce."
+          },
+          {
+            "name": "Scarlet Runner Bean Salad",
+            "tip": "A typical Styrian salad with large, purple beans and pumpkin seed oil."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten am Weizberg",
+            "tip": "Rund um die Basilika finden Sie ruhige Plätze zum Verweilen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang am Weizbach",
+            "tip": "Ein entspannender Weg entlang des kleinen Flusses.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussicht vom Weizberg",
+            "tip": "Genießen Sie den Panoramablick in der Abenddämmerung.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kertek a Weizbergen",
+            "tip": "A bazilika körül csendes helyeket talál a pihenésre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Séta a Weizbach mentén",
+            "tip": "Egy pihentető ösvény a kis folyó mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a Weizbergről",
+            "tip": "Élvezze a panorámát naplementekor.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile de pe Weizberg",
+            "tip": "În jurul bazilicii veți găsi locuri liniștite pentru a vă relaxa.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare pe malul pârâului Weizbach",
+            "tip": "O potecă relaxantă de-a lungul micului râu.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere de pe Weizberg",
+            "tip": "Bucurați-vă de panorama la amurg.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gardens on the Weizberg",
+            "tip": "Around the basilica, you will find quiet places to relax.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Walk along the Weizbach stream",
+            "tip": "A relaxing path along the small river.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from the Weizberg",
+            "tip": "Enjoy the panoramic view at dusk.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bauernmarkt",
+            "tip": "Finden Sie lokale Produkte und Spezialitäten auf dem Wochenmarkt."
+          },
+          {
+            "name": "Steirisches Kernöl",
+            "tip": "Ein Muss als Souvenir aus der Region. In vielen Geschäften erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői piac",
+            "tip": "Találjon helyi termékeket és különlegességeket a heti piacon."
+          },
+          {
+            "name": "Stájer tökmagolaj",
+            "tip": "Kötelező szuvenír a régióból. Számos üzletben kapható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața fermierilor",
+            "tip": "Găsiți produse locale și specialități la piața săptămânală."
+          },
+          {
+            "name": "Ulei de dovleac stirian",
+            "tip": "Un suvenir obligatoriu din regiune. Disponibil în multe magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farmers' Market",
+            "tip": "Find local products and specialities at the weekly market."
+          },
+          {
+            "name": "Styrian Pumpkin Seed Oil",
+            "tip": "A must-have souvenir from the region. Available in many shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, besonders für den Aufstieg zum Weizberg.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind leicht zu Fuß erreichbar.",
+          "Planen Sie genügend Zeit für die Basilika am Weizberg ein, um sowohl die Kirche als auch die Aussicht zu genießen.",
+          "Prüfen Sie die Öffnungszeiten, da einige Orte mittags geschlossen sein können."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, különösen a Weizbergre való feljutáshoz.",
+          "A városközpont legtöbb látnivalója könnyen megközelíthető gyalog.",
+          "Tervezzen elegendő időt a Weizbergi bazilikára, hogy mind a templomot, mind a kilátást élvezhesse.",
+          "Ellenőrizze a nyitvatartási időket, mivel néhány hely délben zárva lehet."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, mai ales pentru urcarea pe Weizberg.",
+          "Majoritatea atracțiilor din centrul orașului sunt ușor accesibile pe jos.",
+          "Planificați suficient timp pentru bazilica de pe Weizberg pentru a vă bucura atât de biserică, cât și de priveliște.",
+          "Verificați orele de program, deoarece unele locații pot fi închise la prânz."
+        ],
+        "en": [
+          "Wear comfortable shoes, especially for the climb to the Weizberg.",
+          "Most sights in the city center are easily accessible on foot.",
+          "Plan enough time for the Basilica on the Weizberg to enjoy both the church and the view.",
+          "Check opening hours, as some places may be closed at noon."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptplatz & Taborkirche",
+            "hu": "Főtér és Tábor-templom",
+            "ro": "Piața Principală și Biserica Tabor",
+            "en": "Main Square & Tabor Church"
+          },
+          "coords": [
+            15.625,
+            47.219
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab und erkunden Sie den Platz zu Fuß.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és fedezze fel a teret gyalog.",
+            "ro": "Asigurați-vă bicicleta și explorați piața pe jos.",
+            "en": "Lock your bike securely and explore the square on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Radmannsdorf & Kunsthaus",
+            "hu": "Radmannsdorf kastély és Művészetek Háza",
+            "ro": "Castelul Radmannsdorf și Casa de Artă",
+            "en": "Radmannsdorf Castle & Art House"
+          },
+          "coords": [
+            15.621,
+            47.2185
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Diese beiden Orte liegen nahe beieinander, ideal für einen kombinierten Besuch.",
+            "hu": "Ez a két hely közel van egymáshoz, ideális egy kombinált látogatáshoz.",
+            "ro": "Aceste două locuri sunt apropiate, ideale pentru o vizită combinată.",
+            "en": "These two places are close to each other, ideal for a combined visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika am Weizberg",
+            "hu": "Weizbergi bazilika",
+            "ro": "Bazilica de pe Weizberg",
+            "en": "Basilica on the Weizberg"
+          },
+          "coords": [
+            15.632,
+            47.225
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Der Anstieg ist eine kleine Herausforderung, aber die Aussicht entschädigt dafür.",
+            "hu": "Az emelkedő egy kis kihívás, de a kilátás kárpótol érte.",
+            "ro": "Urcușul este o mică provocare, dar priveliștea merită.",
+            "en": "The climb is a bit of a challenge, but the view makes up for it."
+          }
+        },
+        {
+          "name": {
+            "de": "Gemini-Haus",
+            "hu": "Gemini-ház",
+            "ro": "Casa Gemini",
+            "en": "Gemini House"
+          },
+          "coords": [
+            15.61,
+            47.228
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Fotostopp bei diesem einzigartigen, rotierenden Haus.",
+            "hu": "Egy rövid fotómegálló ennél az egyedülálló, forgó háznál.",
+            "ro": "O scurtă oprire pentru fotografii la această casă rotativă unică.",
+            "en": "A quick photo stop at this unique rotating house."
+          }
+        },
+        {
+          "name": {
+            "de": "Entlang der Feistritz",
+            "hu": "A Feistritz mentén",
+            "ro": "De-a lungul râului Feistritz",
+            "en": "Along the Feistritz River"
+          },
+          "coords": [
+            15.615,
+            47.215
+          ],
+          "category": "nature",
+          "arrive_at": "14:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Genießen Sie eine entspannte Fahrt auf dem Radweg entlang des Flusses.",
+            "hu": "Élvezze a pihentető kerékpározást a folyó menti kerékpárúton.",
+            "ro": "Bucurați-vă de o plimbare relaxantă pe pista de biciclete de-a lungul râului.",
+            "en": "Enjoy a relaxing ride on the cycle path along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Feistritztalbahn Haltestelle",
+            "hu": "Feistritztalbahn megálló",
+            "ro": "Stația Feistritztalbahn",
+            "en": "Feistritztalbahn Stop"
+          },
+          "coords": [
+            15.628,
+            47.21
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Informieren Sie sich über die Fahrzeiten der historischen Schmalspurbahn.",
+            "hu": "Tájékozódjon a történelmi keskeny nyomtávú vasút menetrendjéről.",
+            "ro": "Informați-vă despre orarul trenului istoric cu ecartament îngust.",
+            "en": "Check the schedule for the historic narrow-gauge railway."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie Weiz und seine Umgebung auf aktive Weise. Starten Sie im Zentrum, bevor Sie die nahegelegenen Kulturstätten ansteuern. Der Vormittag gipfelt in der sportlichen Herausforderung, den Weizberg zu erklimmen. Nach dem Mittagessen führt die Route zum futuristischen Gemini-Haus und dann für eine entspannte Phase entlang des Feistritz-Flusses. Am Nachmittag werfen Sie einen Blick auf die historische Feistritztalbahn, bevor Sie ins Zentrum zurückkehren. Ein erfrischendes Getränk schließt den erlebnisreichen Tag ab.",
+        "hu": "Kerékpárral aktívan fedezheti fel Weizt és környékét. Induljon a központból, mielőtt a közeli kulturális helyszíneket célozza meg. A délelőtt a Weizberg megmászásának sportos kihívásában csúcsosodik ki. Ebéd után az útvonal a futurisztikus Gemini-házhoz, majd egy pihentető szakaszra a Feistritz folyó mentén vezet. Délután vessen egy pillantást a történelmi Feistritztalbahnra, mielőtt visszatér a központba. Egy frissítő ital zárja az élményekkel teli napot.",
+        "ro": "Cu bicicleta, explorați Weiz și împrejurimile sale într-un mod activ. Porniți din centru înainte de a vă îndrepta spre siturile culturale din apropiere. Dimineața culminează cu provocarea sportivă de a urca pe Weistberg. După prânz, traseul duce la futurista Casă Gemini și apoi la o fază relaxantă de-a lungul râului Feistritz. După-amiaza, aruncați o privire la istorica cale ferată Feistritztalbahn înainte de a vă întoarce în centru. O băutură răcoritoare încheie ziua plină de evenimente.",
+        "en": "Explore Weiz and its surroundings actively by bike. Start in the center before heading to the nearby cultural sites. The morning culminates in the sporting challenge of climbing the Weizberg. After lunch, the route leads to the futuristic Gemini House and then for a relaxing phase along the Feistritz River. In the afternoon, take a look at the historic Feistritztalbahn before returning to the center. A refreshing drink concludes the eventful day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brettljause",
+            "tip": "Eine herzhafte Platte mit verschiedenen Fleischsorten, Käse und Aufstrichen, ideal für eine Radlerpause."
+          },
+          {
+            "name": "Apfelsaft",
+            "tip": "Frisch gepresster Saft aus den umliegenden Obstgärten."
+          },
+          {
+            "name": "Gasthof Allmer",
+            "tip": "Ein traditioneller Gasthof mit einem schönen Gastgarten, ideal für ein stärkendes Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paraszttál (Brettljause)",
+            "tip": "Kiadós tál különböző húsokkal, sajtokkal és krémekkel, ideális egy kerékpáros pihenőhöz."
+          },
+          {
+            "name": "Almalé",
+            "tip": "Frissen préselt lé a környező gyümölcsösökből."
+          },
+          {
+            "name": "Gasthof Allmer",
+            "tip": "Hagyományos fogadó szép kerthelyiséggel, ideális egy kiadós ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brettljause",
+            "tip": "Un platou consistent cu diverse tipuri de carne, brânză și tartine, ideal pentru o pauză de ciclist."
+          },
+          {
+            "name": "Suc de mere",
+            "tip": "Suc proaspăt stors din livezile din jur."
+          },
+          {
+            "name": "Gasthof Allmer",
+            "tip": "Un han tradițional cu o grădină frumoasă, ideal pentru un prânz consistent."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brettljause",
+            "tip": "A hearty platter with various meats, cheeses, and spreads, ideal for a cyclist's break."
+          },
+          {
+            "name": "Apple Juice",
+            "tip": "Freshly squeezed juice from the surrounding orchards."
+          },
+          {
+            "name": "Gasthof Allmer",
+            "tip": "A traditional inn with a beautiful garden, ideal for a hearty lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg R11",
+            "tip": "Der Feistritztal-Radweg bietet ruhige Abschnitte abseits der Straßen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Picknick am Fluss",
+            "tip": "Suchen Sie sich ein ruhiges Plätzchen am Ufer der Feistritz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang am Weizberg",
+            "tip": "Wenn es die Zeit erlaubt, ist der Blick von hier oben zum Abend magisch.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "R11 kerékpárút",
+            "tip": "A Feistritztal kerékpárút csendes szakaszokat kínál az utaktól távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Piknik a folyóparton",
+            "tip": "Keressen egy csendes helyet a Feistritz partján.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a Weizbergen",
+            "tip": "Ha az idő engedi, a kilátás innen fentről este varázslatos.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete R11",
+            "tip": "Pista de biciclete Feistritztal oferă secțiuni liniștite, departe de drumuri.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Picnic pe malul râului",
+            "tip": "Găsiți un loc liniștit pe malul râului Feistritz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus de soare pe Weizberg",
+            "tip": "Dacă timpul permite, priveliștea de aici seara este magică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "R11 Cycle Path",
+            "tip": "The Feistritztal cycle path offers quiet sections away from the roads.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Picnic by the river",
+            "tip": "Find a quiet spot on the banks of the Feistritz river.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset on the Weizberg",
+            "tip": "If time allows, the view from up here in the evening is magical.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Entlang der Radwege finden sich oft kleine Läden, die Produkte direkt vom Bauernhof verkaufen."
+          },
+          {
+            "name": "Lokale Handwerkskunst",
+            "tip": "Halten Sie Ausschau nach kleinen Manufakturen in und um Weiz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok",
+            "tip": "A kerékpárutak mentén gyakran találhatók kis boltok, amelyek közvetlenül a gazdaságból származó termékeket árulnak."
+          },
+          {
+            "name": "Helyi kézművesség",
+            "tip": "Keresse a kis manufaktúrákat Weizben és környékén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele fermei",
+            "tip": "De-a lungul pistelor de biciclete veți găsi adesea mici magazine care vând produse direct de la fermă."
+          },
+          {
+            "name": "Artizanat local",
+            "tip": "Fiți cu ochii pe micile ateliere din Weiz și din împrejurimi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm Shops",
+            "tip": "Along the cycle paths, you will often find small shops selling products directly from the farm."
+          },
+          {
+            "name": "Local Crafts",
+            "tip": "Look out for small manufactories in and around Weiz."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein E-Bike kann den Anstieg zum Weizberg erheblich erleichtern.",
+          "Nehmen Sie ausreichend Wasser und einen kleinen Snack für unterwegs mit.",
+          "Ein Fahrradschloss ist unerlässlich, um die Sehenswürdigkeiten unbesorgt erkunden zu können.",
+          "Die Radwege sind gut ausgeschildert, eine Karte oder GPS ist dennoch hilfreich."
+        ],
+        "hu": [
+          "Egy e-bike jelentősen megkönnyítheti a Weizbergre való feljutást.",
+          "Vigyen magával elegendő vizet és egy kis harapnivalót az útra.",
+          "A kerékpárzár elengedhetetlen a látnivalók gondtalan felfedezéséhez.",
+          "A kerékpárutak jól ki vannak táblázva, de egy térkép vagy GPS mégis hasznos."
+        ],
+        "ro": [
+          "O bicicletă electrică poate face urcarea pe Weizberg mult mai ușoară.",
+          "Luați suficientă apă și o mică gustare pentru drum.",
+          "Un lacăt de bicicletă este esențial pentru a explora atracțiile fără griji.",
+          "Pistele de biciclete sunt bine semnalizate, dar o hartă sau un GPS este totuși util."
+        ],
+        "en": [
+          "An e-bike can make the climb to the Weizberg much easier.",
+          "Take enough water and a small snack for the road.",
+          "A bike lock is essential to explore the sights without worry.",
+          "The cycle paths are well signposted, but a map or GPS is still helpful."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 24.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken & Altstadt-Cluster",
+            "hu": "Parkolás és Óváros-Klaszter",
+            "ro": "Parcare și Clusterul Orașului Vechi",
+            "en": "Parking & Old Town Cluster"
+          },
+          "coords": [
+            15.624,
+            47.218
+          ],
+          "category": "parking",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Zentrum und erkunden Sie den ersten Teil der Stadt zu Fuß.",
+            "hu": "Parkoljon a központban, és fedezze fel a város első részét gyalog.",
+            "ro": "Parcați în centru și explorați prima parte a orașului pe jos.",
+            "en": "Park in the center and explore the first part of the city on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptplatz & Taborkirche",
+            "hu": "Főtér és Tábor-templom",
+            "ro": "Piața Principală și Biserica Tabor",
+            "en": "Main Square & Tabor Church"
+          },
+          "coords": [
+            15.625,
+            47.219
+          ],
+          "category": "squares",
+          "arrive_at": "09:22",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spüren Sie die Atmosphäre des historischen Zentrums.",
+            "hu": "Érezze át a történelmi központ hangulatát.",
+            "ro": "Simțiți atmosfera centrului istoric.",
+            "en": "Feel the atmosphere of the historic center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunsthaus & Weberhaus",
+            "hu": "Művészetek Háza és Weberhaus",
+            "ro": "Casa de Artă și Casa Weber",
+            "en": "Art House & Weber House"
+          },
+          "coords": [
+            15.623,
+            47.219
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Kontrast zwischen moderner und traditioneller Architektur.",
+            "hu": "A modern és a hagyományos építészet kontrasztja.",
+            "ro": "Un contrast între arhitectura modernă și cea tradițională.",
+            "en": "A contrast between modern and traditional architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika am Weizberg",
+            "hu": "Weizbergi bazilika",
+            "ro": "Bazilica de pe Weizberg",
+            "en": "Basilica on the Weizberg"
+          },
+          "coords": [
+            15.632,
+            47.225
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz nahe der Basilika. Ein absolutes Highlight der Region.",
+            "hu": "Vezessen a bazilika melletti parkolóhoz. A régió abszolút fénypontja.",
+            "ro": "Conduceți până la parcarea de lângă basilică. Un punct culminant absolut al regiunii.",
+            "en": "Drive to the parking lot near the basilica. An absolute highlight of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Grasslhöhle",
+            "hu": "Grassl-barlang",
+            "ro": "Peștera Grassl",
+            "en": "Grassl Cave"
+          },
+          "coords": [
+            15.58,
+            47.27
+          ],
+          "category": "natural features",
+          "arrive_at": "13:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 12,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Österreichs älteste Schauhöhle. Tragen Sie feste Schuhe und eine Jacke.",
+            "hu": "Ausztria legrégebbi bemutatóbarlangja. Viseljen erős cipőt és kabátot.",
+            "ro": "Cea mai veche peșteră turistică din Austria. Purtați încălțăminte rezistentă și o jachetă.",
+            "en": "Austria's oldest show cave. Wear sturdy shoes and a jacket."
+          }
+        },
+        {
+          "name": {
+            "de": "Feistritztalbahn (Bahnhof Birkfeld)",
+            "hu": "Feistritztalbahn (Birkfeld állomás)",
+            "ro": "Feistritztalbahn (Gara Birkfeld)",
+            "en": "Feistritztalbahn (Birkfeld Station)"
+          },
+          "coords": [
+            15.689,
+            47.35
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 10,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Erleben Sie eine nostalgische Zugfahrt. Prüfen Sie unbedingt den Fahrplan.",
+            "hu": "Éljen át egy nosztalgikus vonatutat. Feltétlenül ellenőrizze a menetrendet.",
+            "ro": "Experimentați o călătorie nostalgică cu trenul. Asigurați-vă că verificați orarul.",
+            "en": "Experience a nostalgic train ride. Be sure to check the timetable."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in Weiz",
+            "hu": "Vacsora Weizben",
+            "ro": "Cină în Weiz",
+            "en": "Dinner in Weiz"
+          },
+          "coords": [
+            15.625,
+            47.2185
+          ],
+          "category": "gastro",
+          "arrive_at": "17:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kehren Sie für ein wohlverdientes Abendessen ins Stadtzentrum zurück.",
+            "hu": "Térjen vissza a városközpontba egy jól megérdemelt vacsorára.",
+            "ro": "Întoarceți-vă în centrul orașului pentru o cină binemeritată.",
+            "en": "Return to the city center for a well-deserved dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt im Herzen von Weiz, wo Sie Ihr Auto parken und die Altstadt zu Fuß erkunden. Am Vormittag besuchen Sie historische und kulturelle Stätten, bevor Sie zum Weizberg fahren, um die prächtige Basilika zu bewundern. Am Nachmittag verlassen Sie die Stadt für ein Naturerlebnis in der Grasslhöhle, der ältesten Schauhöhle Österreichs. Anschließend tauchen Sie bei einer Fahrt mit der nostalgischen Feistritztalbahn in die Industriegeschichte ein. Der Tag endet mit einer Rückkehr nach Weiz für ein gemütliches Abendessen.",
+        "hu": "A nap Weiz szívében kezdődik, ahol leparkolja autóját és gyalog fedezi fel az óvárost. Délelőtt történelmi és kulturális helyszíneket látogat meg, mielőtt a Weizbergre hajt, hogy megcsodálja a pompás bazilikát. Délután elhagyja a várost egy természeti élményért Ausztria legrégebbi bemutatóbarlangjában, a Grassl-barlangban. Ezt követően egy nosztalgikus utazással a Feistritztalbahn-on elmerül az ipartörténetben. A nap egy weizi vacsorával zárul.",
+        "ro": "Ziua începe în inima orașului Weiz, unde parcați mașina și explorați orașul vechi pe jos. Dimineața vizitați situri istorice și culturale înainte de a conduce spre Weizberg pentru a admira magnifica basilică. După-amiaza, părăsiți orașul pentru o experiență în natură la Peștera Grassl, cea mai veche peșteră turistică din Austria. Apoi, vă scufundați în istoria industrială cu o călătorie nostalgică cu Feistritztalbahn. Ziua se încheie cu o întoarcere la Weiz pentru o cină confortabilă.",
+        "en": "The day begins in the heart of Weiz, where you park your car and explore the old town on foot. In the morning, you'll visit historical and cultural sites before driving up to the Weizberg to admire the magnificent basilica. In the afternoon, you leave the city for a nature experience in the Grassl Cave, Austria's oldest show cave. Afterwards, immerse yourself in industrial history with a nostalgic ride on the Feistritztalbahn. The day ends with a return to Weiz for a cozy dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Buschenschank-Jause",
+            "tip": "In der Umgebung von Weiz gibt es viele Heurigen, die lokale Spezialitäten anbieten."
+          },
+          {
+            "name": "Steirisches Backhendl",
+            "tip": "Knusprig gebackenes Hähnchen, eine Delikatesse der Region."
+          },
+          {
+            "name": "Schilcher Wein",
+            "tip": "Ein roséfarbener Wein, der typisch für die Weststeiermark ist, aber auch hier genossen wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buschenschank-tál",
+            "tip": "Weiz környékén számos borozó található, amelyek helyi specialitásokat kínálnak."
+          },
+          {
+            "name": "Stájer rántott csirke (Backhendl)",
+            "tip": "Ropogósra sült csirke, a régió egyik finomsága."
+          },
+          {
+            "name": "Schilcher bor",
+            "tip": "Egy rozé bor, amely Nyugat-Stájerországra jellemző, de itt is élvezik."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gustare la Buschenschank",
+            "tip": "În împrejurimile orașului Weiz există numeroase taverne care oferă specialități locale."
+          },
+          {
+            "name": "Pui prăjit stirian (Backhendl)",
+            "tip": "Pui prăjit crocant, o delicatesă a regiunii."
+          },
+          {
+            "name": "Vin Schilcher",
+            "tip": "Un vin rosé tipic pentru Stiria de Vest, dar apreciat și aici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Buschenschank Snack",
+            "tip": "In the surroundings of Weiz, there are many wine taverns offering local specialities."
+          },
+          {
+            "name": "Styrian Fried Chicken (Backhendl)",
+            "tip": "Crispy fried chicken, a delicacy of the region."
+          },
+          {
+            "name": "Schilcher Wine",
+            "tip": "A rosé wine typical of Western Styria, but also enjoyed here."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Raabklamm",
+            "tip": "Eine der längsten Klammen Österreichs, ideal für eine Wanderung, wenn Zeit bleibt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussicht von der Grasslhöhle",
+            "tip": "Auch die Umgebung der Höhle bietet schöne, ruhige Ausblicke.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Fahrt durch das Almenland",
+            "tip": "Die Landschaft rund um Weiz ist idyllisch und perfekt für eine entspannte Autofahrt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Raabklamm-szurdok",
+            "tip": "Ausztria egyik leghosszabb szurdoka, ideális egy túrához, ha marad idő.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a Grassl-barlangtól",
+            "tip": "A barlang környéke is szép, csendes kilátást kínál.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Autózás az Almenlandon keresztül",
+            "tip": "Weiz környéke idilli és tökéletes egy pihentető autóúthoz.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cheile Raabklamm",
+            "tip": "Unul dintre cele mai lungi defileuri din Austria, ideal pentru o drumeție, dacă timpul permite.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere de la Peștera Grassl",
+            "tip": "Și zona din jurul peșterii oferă priveliști frumoase și liniștite.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare cu mașina prin Almenland",
+            "tip": "Peisajul din jurul orașului Weiz este idilic și perfect pentru o plimbare relaxantă cu mașina.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Raabklamm Gorge",
+            "tip": "One of the longest gorges in Austria, ideal for a hike if time permits.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from Grassl Cave",
+            "tip": "The area around the cave also offers beautiful, quiet views.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Drive through the Almenland",
+            "tip": "The landscape around Weiz is idyllic and perfect for a relaxing drive.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirshop Grasslhöhle",
+            "tip": "Finden Sie einzigartige Andenken an Ihren Besuch in der Höhle."
+          },
+          {
+            "name": "Lokale Imkereien",
+            "tip": "Die Region ist bekannt für ihren hochwertigen Honig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grassl-barlang ajándékbolt",
+            "tip": "Találjon egyedi emléktárgyakat a barlanglátogatásáról."
+          },
+          {
+            "name": "Helyi méhészetek",
+            "tip": "A régió híres a kiváló minőségű mézéről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de suveniruri al Peșterii Grassl",
+            "tip": "Găsiți suveniruri unice ale vizitei dumneavoastră la peșteră."
+          },
+          {
+            "name": "Stupine locale",
+            "tip": "Regiunea este cunoscută pentru mierea sa de înaltă calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grassl Cave Souvenir Shop",
+            "tip": "Find unique mementos of your visit to the cave."
+          },
+          {
+            "name": "Local Beekeepers",
+            "tip": "The region is known for its high-quality honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tanken Sie voll, bevor Sie die ländlichen Gebiete erkunden.",
+          "Prüfen Sie die Öffnungszeiten und Führungszeiten für die Grasslhöhle und den Fahrplan der Feistritztalbahn im Voraus.",
+          "Ein GPS ist für die Navigation zwischen den weiter entfernten Zielen unerlässlich.",
+          "Parkmöglichkeiten sind bei den meisten Attraktionen außerhalb des Zentrums vorhanden."
+        ],
+        "hu": [
+          "Tankoljon tele, mielőtt felfedezné a vidéki területeket.",
+          "Előre ellenőrizze a Grassl-barlang nyitvatartási és vezetési idejét, valamint a Feistritztalbahn menetrendjét.",
+          "A távolabbi célpontok közötti navigációhoz elengedhetetlen a GPS.",
+          "A legtöbb központon kívüli látnivalónál van parkolási lehetőség."
+        ],
+        "ro": [
+          "Alimentați complet înainte de a explora zonele rurale.",
+          "Verificați în avans orele de program și orele de ghidaj pentru Peștera Grassl și orarul Feistritztalbahn.",
+          "Un GPS este esențial pentru navigarea între destinațiile mai îndepărtate.",
+          "Există locuri de parcare la majoritatea atracțiilor din afara centrului."
+        ],
+        "en": [
+          "Fill up your tank before exploring the rural areas.",
+          "Check the opening hours and tour times for the Grassl Cave and the timetable for the Feistritztalbahn in advance.",
+          "A GPS is essential for navigating between the more distant destinations.",
+          "Parking is available at most attractions outside the center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 6.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft Weiz & Stadtzentrum-Cluster",
+            "hu": "Érkezés Weizbe és Belváros-Klaszter",
+            "ro": "Sosire în Weiz și Clusterul Central",
+            "en": "Arrival in Weiz & City Center Cluster"
+          },
+          "coords": [
+            15.626,
+            47.217
+          ],
+          "category": "transit_station",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie am Busbahnhof oder Bahnhof und gehen Sie zum Hauptplatz.",
+            "hu": "Induljon a buszpályaudvarról vagy a vasútállomásról, és sétáljon a főtérre.",
+            "ro": "Începeți de la autogară sau gară și mergeți spre Piața Principală.",
+            "en": "Start at the bus or train station and walk to the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptplatz & Taborkirche",
+            "hu": "Főtér és Tábor-templom",
+            "ro": "Piața Principală și Biserica Tabor",
+            "en": "Main Square & Tabor Church"
+          },
+          "coords": [
+            15.625,
+            47.219
+          ],
+          "category": "squares",
+          "arrive_at": "09:25",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der historische Kern von Weiz ist kompakt und leicht zu Fuß zu erkunden.",
+            "hu": "Weiz történelmi magja kompakt és könnyen felfedezhető gyalog.",
+            "ro": "Centrul istoric al orașului Weiz este compact și ușor de explorat pe jos.",
+            "en": "The historic core of Weiz is compact and easy to explore on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Radmannsdorf & Kunsthaus",
+            "hu": "Radmannsdorf kastély és Művészetek Háza",
+            "ro": "Castelul Radmannsdorf și Casa de Artă",
+            "en": "Radmannsdorf Castle & Art House"
+          },
+          "coords": [
+            15.621,
+            47.2185
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:43",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die kulturelle Vielfalt an diesen nahegelegenen Orten.",
+            "hu": "Élvezze a kulturális sokszínűséget ezeken a közeli helyeken.",
+            "ro": "Bucurați-vă de diversitatea culturală în aceste locații apropiate.",
+            "en": "Enjoy the cultural diversity at these nearby locations."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika am Weizberg",
+            "hu": "Weizbergi bazilika",
+            "ro": "Bazilica de pe Weizberg",
+            "en": "Basilica on the Weizberg"
+          },
+          "coords": [
+            15.632,
+            47.225
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus zum Weizberg, um den steilen Aufstieg zu vermeiden.",
+            "hu": "Menjen helyi busszal a Weizbergre, hogy elkerülje a meredek emelkedőt.",
+            "ro": "Luați un autobuz local spre Weizberg pentru a evita urcușul abrupt.",
+            "en": "Take a local bus to the Weizberg to avoid the steep climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang und Café im Zentrum",
+            "hu": "Séta és kávézó a központban",
+            "ro": "Plimbare și cafenea în centru",
+            "en": "Walk and Café in the Center"
+          },
+          "coords": [
+            15.625,
+            47.2185
+          ],
+          "category": "gastro",
+          "arrive_at": "15:03",
+          "stay_min": 117,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 3,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Fahren Sie zurück ins Zentrum für eine entspannte Kaffeepause und einen letzten Bummel.",
+            "hu": "Utazzon vissza a központba egy pihentető kávészünetre és egy utolsó sétára.",
+            "ro": "Întoarceți-vă în centru pentru o pauză de cafea relaxantă și o ultimă plimbare.",
+            "en": "Head back to the center for a relaxing coffee break and a final stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Tour mit öffentlichen Verkehrsmitteln startet im Zentrum von Weiz. Der Vormittag ist der fußläufigen Erkundung des historischen Kerns gewidmet. Nach einem Einblick in die Geschichte und Kultur der Stadt nehmen Sie am Mittag einen Bus, der Sie bequem auf den Weizberg zur beeindruckenden Basilika bringt. Genießen Sie dort die Aussicht und die spirituelle Atmosphäre. Der Nachmittag führt Sie zurück ins Stadtzentrum für eine ausgedehnte Pause in einem Café und die Möglichkeit, lokale Geschäfte zu entdecken, bevor Sie Ihre Heimreise antreten.",
+        "hu": "Túrája tömegközlekedéssel Weiz központjában kezdődik. A délelőtt a történelmi mag gyalogos felfedezésének van szentelve. Miután bepillantást nyert a város történelmébe és kultúrájába, délben busszal kényelmesen feljuthat a Weizbergre a lenyűgöző bazilikához. Élvezze ott a kilátást és a spirituális légkört. A délután visszavezeti Önt a városközpontba egy hosszabb kávészünetre és a helyi üzletek felfedezésére, mielőtt hazaindul.",
+        "ro": "Turul dumneavoastră cu transportul public începe în centrul orașului Weiz. Dimineața este dedicată explorării pe jos a nucleului istoric. După o incursiune în istoria și cultura orașului, la prânz luați un autobuz care vă duce confortabil pe Weizberg la impresionanta basilică. Bucurați-vă de priveliște și de atmosfera spirituală de acolo. După-amiaza vă aduce înapoi în centrul orașului pentru o pauză prelungită la o cafenea și posibilitatea de a descoperi magazinele locale înainte de a vă întoarce acasă.",
+        "en": "Your tour by public transport starts in the center of Weiz. The morning is dedicated to exploring the historic core on foot. After an insight into the city's history and culture, you take a bus at noon that comfortably takes you up to the Weizberg to the impressive basilica. Enjoy the view and the spiritual atmosphere there. The afternoon takes you back to the city center for an extended break in a café and the opportunity to discover local shops before you head home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Weizer Mulbratl",
+            "tip": "Ein regionaler Schweinsbraten, den Sie in traditionellen Gasthöfen finden."
+          },
+          {
+            "name": "Konditorei",
+            "tip": "Besuchen Sie eine lokale Konditorei wie die Konditorei Ebner für hausgemachte Kuchen und Torten."
+          },
+          {
+            "name": "Holundersaft",
+            "tip": "Ein erfrischendes, hausgemachtes Getränk, das in vielen Cafés angeboten wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Weizi Mulbratl",
+            "tip": "Helyi sertéssült, amelyet hagyományos vendéglőkben talál."
+          },
+          {
+            "name": "Cukrászda",
+            "tip": "Látogasson el egy helyi cukrászdába, mint az Ebner Cukrászda, házi süteményekért és tortákért."
+          },
+          {
+            "name": "Bodzaszörp",
+            "tip": "Frissítő, házi ital, amelyet számos kávézóban kínálnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Weizer Mulbratl",
+            "tip": "O friptură de porc regională pe care o puteți găsi în hanurile tradiționale."
+          },
+          {
+            "name": "Cofetărie",
+            "tip": "Vizitați o cofetărie locală precum Konditorei Ebner pentru prăjituri și torturi de casă."
+          },
+          {
+            "name": "Sirop de soc",
+            "tip": "O băutură răcoritoare, de casă, oferită în multe cafenele."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weizer Mulbratl",
+            "tip": "A regional pork roast that you can find in traditional inns."
+          },
+          {
+            "name": "Pastry Shop",
+            "tip": "Visit a local pastry shop like Konditorei Ebner for homemade cakes and pies."
+          },
+          {
+            "name": "Elderflower syrup",
+            "tip": "A refreshing, homemade drink offered in many cafés."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtpark",
+            "tip": "Ein kleiner, aber feiner Park im Zentrum für eine kurze Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Friedhof am Weizberg",
+            "tip": "Ein Ort der Stille mit einer besonderen Atmosphäre und schöner Aussicht.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Blick aus dem Bus",
+            "tip": "Genießen Sie die vorbeiziehende Landschaft auf der Fahrt zum Weizberg.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi park",
+            "tip": "Egy kicsi, de szép park a központban egy rövid szünetre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Temető a Weizbergen",
+            "tip": "A csend helye különleges légkörrel és szép kilátással.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás a buszból",
+            "tip": "Élvezze az elhaladó tájat a Weizbergre vezető úton.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul orașului",
+            "tip": "Un parc mic, dar frumos, în centru, pentru o scurtă pauză.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cimitirul de pe Weizberg",
+            "tip": "Un loc de liniște cu o atmosferă specială și o priveliște frumoasă.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vedere din autobuz",
+            "tip": "Bucurați-vă de peisajul care trece în drum spre Weizberg.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Park",
+            "tip": "A small but nice park in the center for a short break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cemetery on the Weizberg",
+            "tip": "A place of silence with a special atmosphere and a beautiful view.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from the bus",
+            "tip": "Enjoy the passing scenery on the way to the Weizberg.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte am Hauptplatz",
+            "tip": "Rund um den Hauptplatz finden Sie eine Mischung aus lokalen Geschäften und bekannten Marken."
+          },
+          {
+            "name": "Bäckereien",
+            "tip": "Kaufen Sie frisches Brot oder Gebäck als Proviant für den Tag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Üzletek a főtéren",
+            "tip": "A főtér körül helyi üzletek és ismert márkák keverékét találja."
+          },
+          {
+            "name": "Pékségek",
+            "tip": "Vásároljon friss kenyeret vagy péksüteményt a napra való útravalónak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine în Piața Principală",
+            "tip": "În jurul pieței principale veți găsi un amestec de magazine locale și mărci cunoscute."
+          },
+          {
+            "name": "Brutării",
+            "tip": "Cumpărați pâine proaspătă sau produse de patiserie ca provizii pentru o zi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops on the Main Square",
+            "tip": "Around the main square you will find a mix of local shops and well-known brands."
+          },
+          {
+            "name": "Bakeries",
+            "tip": "Buy fresh bread or pastries as provisions for the day."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Informieren Sie sich vorab über die Busfahrpläne, insbesondere für die Rückfahrt vom Weizberg.",
+          "Die Grasslhöhle und die Feistritztalbahn sind mit öffentlichen Verkehrsmitteln nur schwer zu erreichen und nicht in diesem Plan enthalten.",
+          "Viele Busse sind barrierefrei, aber prüfen Sie dies bei Bedarf im Voraus."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha több utazást tervez.",
+          "Előre tájékozódjon a buszmenetrendekről, különösen a Weizbergről való visszautazáshoz.",
+          "A Grassl-barlang és a Feistritztalbahn tömegközlekedéssel nehezen érhető el, és nem szerepelnek ebben a tervben.",
+          "Sok busz akadálymentesített, de szükség esetén ezt előre ellenőrizze."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă plănuiți mai multe călătorii.",
+          "Informați-vă în avans despre orarele autobuzelor, în special pentru călătoria de întoarcere de pe Weizberg.",
+          "Peștera Grassl și Feistritztalbahn sunt greu accesibile cu transportul public și nu sunt incluse în acest plan.",
+          "Multe autobuze sunt accesibile persoanelor cu dizabilități, dar verificați acest lucru în avans dacă este necesar."
+        ],
+        "en": [
+          "Buy a day ticket for the bus if you are planning several trips.",
+          "Find out about the bus timetables in advance, especially for the return trip from the Weizberg.",
+          "The Grassl Cave and the Feistritztalbahn are difficult to reach by public transport and are not included in this plan.",
+          "Many buses are wheelchair accessible, but check this in advance if necessary."
+        ]
+      }
+    }
+  }
+}

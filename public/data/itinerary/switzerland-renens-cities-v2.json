@@ -1,0 +1,1447 @@
+{
+  "city_id": "switzerland-renens-cities-v2",
+  "anchor": {
+    "name": "Renens",
+    "coords": [
+      6.588,
+      46.535
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Renens",
+            "hu": "Renens vasútállomás",
+            "ro": "Gara Renens",
+            "en": "Renens Railway Station"
+          },
+          "coords": [
+            6.587,
+            46.533
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie das Kommen und Gehen; ein Knotenpunkt des lokalen Lebens.",
+            "hu": "Figyeld a helyi élet csomópontját, a vonatok jövés-menését.",
+            "ro": "Observați forfota; un centru al vieții locale.",
+            "en": "Watch the comings and goings; a hub of local life."
+          }
+        },
+        {
+          "name": {
+            "de": "Place de l'Europe",
+            "hu": "Európa tér",
+            "ro": "Piața Europa",
+            "en": "Place de l'Europe"
+          },
+          "coords": [
+            6.588,
+            46.535
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein idealer Ort, um mit einem Kaffee in den Tag zu starten.",
+            "hu": "Ideális hely egy kávéval kezdeni a napot.",
+            "ro": "Un loc ideal pentru a începe ziua cu o cafea.",
+            "en": "A perfect spot to start your day with a coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Maurice",
+            "hu": "Saint-Maurice templom",
+            "ro": "Biserica Saint-Maurice",
+            "en": "Church of Saint-Maurice"
+          },
+          "coords": [
+            6.589,
+            46.537
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Glasfenster und die ruhige Atmosphäre.",
+            "hu": "Figyelj az ólomüveg ablakokra és a csendes légkörre.",
+            "ro": "Fiți atenți la vitralii și la atmosfera liniștită.",
+            "en": "Pay attention to the stained-glass windows and the quiet atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Renens",
+            "hu": "Renens-i kastély",
+            "ro": "Castelul din Renens",
+            "en": "Château de Renens"
+          },
+          "coords": [
+            6.591,
+            46.538
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Obwohl es heute administrativ genutzt wird, ist seine historische Fassade ein Foto wert.",
+            "hu": "Bár ma adminisztratív célokat szolgál, történelmi homlokzata megér egy fotót.",
+            "ro": "Deși acum este folosit în scopuri administrative, fațada sa istorică merită o fotografie.",
+            "en": "Although used for administration now, its historic facade is worth a photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Salle de spectacles",
+            "hu": "Előadóterem",
+            "ro": "Sală de spectacole",
+            "en": "Salle de spectacles"
+          },
+          "coords": [
+            6.585,
+            46.54
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Prüfen Sie das Abendprogramm; vielleicht gibt es eine interessante Vorstellung.",
+            "hu": "Nézd meg az esti programot, hátha találsz egy érdekes előadást.",
+            "ro": "Verificați programul de seară; poate prindeți un spectacol interesant.",
+            "en": "Check the evening program; you might find an interesting show."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc du Silence",
+            "hu": "A Csend Parkja",
+            "ro": "Parcul Tăcerii",
+            "en": "Parc du Silence"
+          },
+          "coords": [
+            6.582,
+            46.542
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:30",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Ein wunderbarer Ort zum Entspannen und die Natur zu genießen.",
+            "hu": "Csodálatos hely a pihenésre és a természet élvezetére.",
+            "ro": "Un loc minunat pentru a vă relaxa și a vă bucura de natură.",
+            "en": "A wonderful place to relax and enjoy nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Renens beginnt am belebten Bahnhof, einem Mikrokosmos des Stadtlebens. Vormittags erkunden Sie das historische Herz mit der Place de l'Europe und dem alten Schloss. Nach einem kulturellen Mittagessen in der Salle de Spectacles verbringen Sie einen ruhigen Nachmittag im Parc du Silence. Der Abend klingt bei einem gemütlichen Spaziergang aus, bei dem Sie die Eindrücke des Tages Revue passieren lassen.",
+        "hu": "A renens-i nap a nyüzsgő vasútállomáson kezdődik, a városi élet mikrokozmoszában. Délelőtt felfedezi a történelmi központot az Európa térrel és a régi kastéllyal. A kulturális ebéd után az Előadóteremben egy csendes délutánt tölt a Csend Parkjában. Az estét egy kellemes sétával zárja, felidézve a nap benyomásait.",
+        "ro": "Ziua dvs. în Renens începe la gara plină de viață, un microcosmos al vieții orașului. Dimineața explorați inima istorică cu Place de l'Europe și vechiul castel. După un prânz cultural la Sala de Spectacole, petreceți o după-amiază liniștită în Parcul Tăcerii. Seara se încheie cu o plimbare relaxantă, rememorând impresiile zilei.",
+        "en": "Your day in Renens starts at the bustling train station, a microcosm of city life. In the morning, you'll explore the historic heart with Place de l'Europe and the old castle. After a cultural lunch at the Salle de Spectacles, you'll spend a quiet afternoon in the Parc du Silence. The evening concludes with a leisurely walk, reflecting on the day's impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fondue moitié-moitié",
+            "tip": "Ein Muss in der Schweiz, cremig und würzig."
+          },
+          {
+            "name": "Malakoff",
+            "tip": "Frittierte Käsebällchen, eine lokale Spezialität."
+          },
+          {
+            "name": "Auberge de l'Onde",
+            "tip": "Traditionelle Waadtländer Küche in historischem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fondue moitié-moitié",
+            "tip": "Svájci klasszikus, krémes és fűszeres."
+          },
+          {
+            "name": "Malakoff",
+            "tip": "Sült sajtgolyók, helyi különlegesség."
+          },
+          {
+            "name": "Auberge de l'Onde",
+            "tip": "Hagyományos Vaud-i konyha történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fondue moitié-moitié",
+            "tip": "Un clasic elvețian, cremos și aromat."
+          },
+          {
+            "name": "Malakoff",
+            "tip": "Bulete de brânză prăjite, o specialitate locală."
+          },
+          {
+            "name": "Auberge de l'Onde",
+            "tip": "Bucătărie tradițională din Vaud într-un cadru istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fondue moitié-moitié",
+            "tip": "A Swiss classic, creamy and flavorful."
+          },
+          {
+            "name": "Malakoff",
+            "tip": "Fried cheese balls, a local specialty."
+          },
+          {
+            "name": "Auberge de l'Onde",
+            "tip": "Traditional Vaud cuisine in a historic setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc du Silence",
+            "tip": "Der Name ist Programm: pure Entspannung.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ufer des Genfersees",
+            "tip": "Ein kurzer Ausflug für weite Blicke und Ruhe.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kirche Saint-Maurice",
+            "tip": "Ein Moment der Stille im Inneren.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc du Silence",
+            "tip": "A neve mindent elárul: tiszta kikapcsolódás.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Genfi-tó partja",
+            "tip": "Egy rövid kirándulás a kilátásért és a békéért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Saint-Maurice templom",
+            "tip": "Egy pillanatnyi csend a templom belsejében.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Tăcerii",
+            "tip": "Numele spune totul: relaxare pură.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malul lacului Geneva",
+            "tip": "O scurtă excursie pentru priveliști și liniște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Biserica Saint-Maurice",
+            "tip": "Un moment de liniște în interior.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc du Silence",
+            "tip": "The name says it all: pure relaxation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Shores of Lake Geneva",
+            "tip": "A short trip for wide views and peace.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Church of Saint-Maurice",
+            "tip": "A moment of silence inside.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Frische Produkte und lokale Spezialitäten am Samstagmorgen."
+          },
+          {
+            "name": "Lokale Chocolatiers",
+            "tip": "Suchen Sie nach handgemachter Schweizer Schokolade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Friss termékek és helyi különlegességek szombat reggelente."
+          },
+          {
+            "name": "Helyi csokoládékészítők",
+            "tip": "Keress kézzel készített svájci csokoládét."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Produse proaspete și specialități locale sâmbăta dimineața."
+          },
+          {
+            "name": "Ciocolatieri locali",
+            "tip": "Căutați ciocolată elvețiană artizanală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Fresh produce and local specialties on Saturday mornings."
+          },
+          {
+            "name": "Local Chocolatiers",
+            "tip": "Look for handmade Swiss chocolate."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Eine wiederverwendbare Wasserflasche ist nützlich.",
+          "Halten Sie Ausschau nach kleinen Cafés für eine Pause.",
+          "Prüfen Sie die Öffnungszeiten der Sehenswürdigkeiten im Voraus."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, sokat fogsz sétálni.",
+          "Egy újratölthető vizes palack hasznos.",
+          "Keress kis kávézókat egy szünetre.",
+          "Előre ellenőrizd a látnivalók nyitvatartási idejét."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult.",
+          "O sticlă de apă reutilizabilă este utilă.",
+          "Căutați cafenele mici pentru o pauză.",
+          "Verificați în avans orele de deschidere ale atracțiilor."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking a lot.",
+          "A reusable water bottle is useful.",
+          "Look out for small cafes for a break.",
+          "Check the opening hours of the sights in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 9.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Place de l'Europe",
+            "hu": "Európa tér",
+            "ro": "Piața Europa",
+            "en": "Place de l'Europe"
+          },
+          "coords": [
+            6.588,
+            46.535
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Perfekter Startpunkt, um sich zu orientieren und das Fahrrad vorzubereiten.",
+            "hu": "Tökéletes kiindulópont a tájékozódáshoz és a bicikli felkészítéséhez.",
+            "ro": "Punct de plecare perfect pentru a vă orienta și a pregăti bicicleta.",
+            "en": "Perfect starting point to get your bearings and prep your bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Silo de Renens",
+            "hu": "Renens-i siló",
+            "ro": "Silozul din Renens",
+            "en": "Silo de Renens"
+          },
+          "coords": [
+            6.58,
+            46.533
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:40",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein beeindruckendes Beispiel für Industriearchitektur.",
+            "hu": "Az ipari építészet lenyűgöző példája.",
+            "ro": "Un exemplu impresionant de arhitectură industrială.",
+            "en": "An impressive example of industrial architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Ferme des Tilleuls",
+            "hu": "Tilleuls farm",
+            "ro": "Ferma Tilleuls",
+            "en": "Ferme des Tilleuls"
+          },
+          "coords": [
+            6.578,
+            46.538
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein Kulturzentrum in einer alten Farm, oft mit Ausstellungen.",
+            "hu": "Egy kulturális központ egy régi farmon, gyakran kiállításokkal.",
+            "ro": "Un centru cultural într-o fermă veche, adesea cu expoziții.",
+            "en": "A cultural center in an old farm, often with exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc du Silence",
+            "hu": "A Csend Parkja",
+            "ro": "Parcul Tăcerii",
+            "en": "Parc du Silence"
+          },
+          "coords": [
+            6.582,
+            46.542
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und machen Sie einen Spaziergang.",
+            "hu": "Parkold le a biciklit és sétálj egyet.",
+            "ro": "Parcați bicicleta și faceți o plimbare.",
+            "en": "Park your bike and take a stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Salle de spectacles",
+            "hu": "Előadóterem",
+            "ro": "Sală de spectacole",
+            "en": "Salle de spectacles"
+          },
+          "coords": [
+            6.585,
+            46.54
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um die moderne Architektur zu bewundern.",
+            "hu": "Rövid megálló a modern építészet megcsodálására.",
+            "ro": "O oprire scurtă pentru a admira arhitectura modernă.",
+            "en": "A quick stop to admire the modern architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Renens",
+            "hu": "Renens-i kastély",
+            "ro": "Castelul din Renens",
+            "en": "Château de Renens"
+          },
+          "coords": [
+            6.591,
+            46.538
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Ein schöner Ort für eine Mittagspause im Freien.",
+            "hu": "Szép hely egy szabadtéri ebédszünethez.",
+            "ro": "Un loc frumos pentru o pauză de prânz în aer liber.",
+            "en": "A lovely spot for an outdoor lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Maurice",
+            "hu": "Saint-Maurice templom",
+            "ro": "Biserica Saint-Maurice",
+            "en": "Church of Saint-Maurice"
+          },
+          "coords": [
+            6.589,
+            46.537
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der letzte Halt für einen Moment der Besinnung.",
+            "hu": "Az utolsó megálló egy pillanatnyi elmélkedésre.",
+            "ro": "Ultima oprire pentru un moment de reflecție.",
+            "en": "The final stop for a moment of reflection."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie Renens auf dynamische Weise. Der Morgen führt Sie von der Industrie-Ästhetik des Silos zu den kulturellen Oasen der Ferme des Tilleuls. Mittags machen Sie ein Picknick im ruhigen Parc du Silence. Der Nachmittag ist der Erkundung des historischen Zentrums gewidmet, vom Schloss bis zur Kirche, bevor Sie den Tag mit einem Gefühl der Freiheit beenden.",
+        "hu": "Biciklivel dinamikusan fedezheted fel Renens-t. A reggel a Silo ipari esztétikájától a Ferme des Tilleuls kulturális oázisáig vezet. Délben piknikezz a csendes Parc du Silence-ben. A délután a történelmi központ felfedezésének szentelt, a kastélytól a templomig, mielőtt a szabadság érzésével zárnád a napot.",
+        "ro": "Cu bicicleta, explorați Renens într-un mod dinamic. Dimineața vă poartă de la estetica industrială a Silozului la oazele culturale ale Ferme des Tilleuls. La prânz, faceți un picnic în liniștitul Parc du Silence. După-amiaza este dedicată explorării centrului istoric, de la castel la biserică, înainte de a încheia ziua cu un sentiment de libertate.",
+        "en": "By bike, you'll explore Renens in a dynamic way. The morning takes you from the industrial aesthetic of the Silo to the cultural oases of Ferme des Tilleuls. At noon, you'll have a picnic in the quiet Parc du Silence. The afternoon is dedicated to exploring the historic center, from the castle to the church, before ending the day with a sense of freedom."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Papet Vaudois",
+            "tip": "Lauch- und Kartoffel-Eintopf mit Wurst."
+          },
+          {
+            "name": "Bäckereien",
+            "tip": "Für schnelle und leckere Snacks unterwegs."
+          },
+          {
+            "name": "Le Tramway",
+            "tip": "Beliebt bei Einheimischen für ein schnelles, gutes Essen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Papet Vaudois",
+            "tip": "Póréhagyma- és burgonyapörkölt kolbásszal."
+          },
+          {
+            "name": "Pékségek",
+            "tip": "Gyors és finom harapnivalók útközben."
+          },
+          {
+            "name": "Le Tramway",
+            "tip": "A helyiek körében népszerű egy gyors, jó ebédre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Papet Vaudois",
+            "tip": "TOCANĂ de praz și cartofi cu cârnați."
+          },
+          {
+            "name": "Brutării",
+            "tip": "Pentru gustări rapide și delicioase pe drum."
+          },
+          {
+            "name": "Le Tramway",
+            "tip": "Popular printre localnici pentru o masă rapidă și bună."
+          }
+        ],
+        "en": [
+          {
+            "name": "Papet Vaudois",
+            "tip": "Leek and potato stew with sausage."
+          },
+          {
+            "name": "Bakeries",
+            "tip": "For quick and delicious snacks on the go."
+          },
+          {
+            "name": "Le Tramway",
+            "tip": "Popular with locals for a quick, good meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc du Silence",
+            "tip": "Ideal für eine Pause vom Radfahren.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ferme des Tilleuls",
+            "tip": "Ein ruhiger Hof, der zum Verweilen einlädt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Nebenstraßen erkunden",
+            "tip": "Entdecken Sie unerwartete ruhige Ecken.",
+            "emoji": "🚲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc du Silence",
+            "tip": "Ideális egy kis pihenőre a biciklizés közben.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ferme des Tilleuls",
+            "tip": "Egy csendes udvar, ami marasztal.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Fedezd fel a mellékutcákat",
+            "tip": "Fedezz fel váratlan csendes zugokat.",
+            "emoji": "🚲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Tăcerii",
+            "tip": "Ideal pentru o pauză de la ciclism.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ferme des Tilleuls",
+            "tip": "O curte liniștită care te invită să zăbovești.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Explorați străzile lăturalnice",
+            "tip": "Descoperiți colțuri liniștite neașteptate.",
+            "emoji": "🚲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc du Silence",
+            "tip": "Ideal for a break from cycling.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ferme des Tilleuls",
+            "tip": "A quiet courtyard that invites you to linger.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Explore the side streets",
+            "tip": "Discover unexpected quiet corners.",
+            "emoji": "🚲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradladen",
+            "tip": "Für Zubehör oder schnelle Reparaturen."
+          },
+          {
+            "name": "Markt an der Place de l'Europe",
+            "tip": "Kaufen Sie lokale Produkte für ein Picknick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Biciklibolt",
+            "tip": "Kiegészítőkért vagy gyors javításokért."
+          },
+          {
+            "name": "Piac az Európa téren",
+            "tip": "Vásárolj helyi termékeket a piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Pentru accesorii sau reparații rapide."
+          },
+          {
+            "name": "Piața din Place de l'Europe",
+            "tip": "Cumpărați produse locale pentru un picnic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "For accessories or quick repairs."
+          },
+          {
+            "name": "Market at Place de l'Europe",
+            "tip": "Buy local produce for a picnic."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad, bevor Sie losfahren.",
+          "Ein Helm wird dringend empfohlen.",
+          "Nutzen Sie die Fahrradwege, wo immer möglich.",
+          "Schließen Sie Ihr Fahrrad immer gut ab."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizd a biciklidet.",
+          "A sisak viselése erősen ajánlott.",
+          "Használd a bicikliutakat, ahol csak lehet.",
+          "Mindig zárd le jól a biciklidet."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni.",
+          "O cască este puternic recomandată.",
+          "Folosiți pistele de biciclete ori de câte ori este posibil.",
+          "Încuiați-vă întotdeauna bicicleta bine."
+        ],
+        "en": [
+          "Check your bike before you set off.",
+          "A helmet is highly recommended.",
+          "Use bike paths wherever possible.",
+          "Always lock your bike securely."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Start: Ferme des Tilleuls",
+            "hu": "Cluster kezdete: Tilleuls farm",
+            "ro": "Început cluster: Ferma Tilleuls",
+            "en": "Cluster Start: Ferme des Tilleuls"
+          },
+          "coords": [
+            6.578,
+            46.538
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier und beginnen Sie Ihren Tag mit Kunst und Kultur.",
+            "hu": "Parkolj le itt, és kezdd a napot művészettel és kultúrával.",
+            "ro": "Parcați aici și începeți ziua cu artă și cultură.",
+            "en": "Park here and start your day with art and culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Silo de Renens",
+            "hu": "Renens-i siló",
+            "ro": "Silozul din Renens",
+            "en": "Silo de Renens"
+          },
+          "coords": [
+            6.58,
+            46.533
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:10",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz, um dieses Wahrzeichen zu sehen.",
+            "hu": "Rövid séta a parkolótól, hogy megnézd ezt a nevezetességet.",
+            "ro": "O scurtă plimbare de la parcare pentru a vedea acest punct de reper.",
+            "en": "A short walk from the parking spot to see this landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster-Wechsel: Place de l'Europe",
+            "hu": "Cluster-váltás: Európa tér",
+            "ro": "Schimbare cluster: Piața Europa",
+            "en": "Cluster Change: Place de l'Europe"
+          },
+          "coords": [
+            6.588,
+            46.535
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:00",
+          "stay_min": 30,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Finden Sie einen zentralen Parkplatz und erkunden Sie das Herz der Stadt.",
+            "hu": "Keress egy központi parkolót és fedezd fel a város szívét.",
+            "ro": "Găsiți o parcare centrală și explorați inima orașului.",
+            "en": "Find a central parking spot and explore the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Renens",
+            "hu": "Renens-i kastély",
+            "ro": "Castelul din Renens",
+            "en": "Château de Renens"
+          },
+          "coords": [
+            6.591,
+            46.538
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:40",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein angenehmer Spaziergang vom Platz zum Schloss.",
+            "hu": "Kellemes séta a tértől a kastélyig.",
+            "ro": "O plimbare plăcută de la piață la castel.",
+            "en": "A pleasant walk from the square to the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Maurice",
+            "hu": "Saint-Maurice templom",
+            "ro": "Biserica Saint-Maurice",
+            "en": "Church of Saint-Maurice"
+          },
+          "coords": [
+            6.589,
+            46.537
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:35",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Vom Schloss aus ist es nur ein Katzensprung zur Kirche.",
+            "hu": "A kastélytól csak egy ugrás a templom.",
+            "ro": "De la castel, este doar o aruncătură de băț până la biserică.",
+            "en": "From the castle, it's just a stone's throw to the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster-Wechsel: Parc du Silence",
+            "hu": "Cluster-váltás: A Csend Parkja",
+            "ro": "Schimbare cluster: Parcul Tăcerii",
+            "en": "Cluster Change: Parc du Silence"
+          },
+          "coords": [
+            6.582,
+            46.542
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 180,
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Park für einen entspannten Nachmittag.",
+            "hu": "Vezess el a parkba egy pihentető délutánra.",
+            "ro": "Conduceți spre parc pentru o după-amiază relaxantă.",
+            "en": "Drive to the park for a relaxing afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto gruppieren Sie Ihre Besuche in Renens effizient. Der Vormittag beginnt im westlichen Kulturcluster mit der Ferme des Tilleuls und dem Silo. Danach fahren Sie ins Zentrum, parken und erkunden den historischen Kern zu Fuß. Den Nachmittag verbringen Sie im weitläufigen Parc du Silence, wohin Sie bequem mit dem Auto gelangen. So verbinden Sie Flexibilität mit intensiven Spaziergängen.",
+        "hu": "Autóval hatékonyan csoportosíthatja renens-i látogatásait. A délelőtt a nyugati kulturális negyedben kezdődik a Ferme des Tilleuls-szel és a Silóval. Ezután a központba hajt, leparkol, és gyalog fedezi fel a történelmi magot. A délutánt a tágas Parc du Silence-ben tölti, ahová kényelmesen eljuthat autóval. Így ötvözi a rugalmasságot az intenzív sétákkal.",
+        "ro": "Cu mașina, grupați eficient vizitele în Renens. Dimineața începe în clusterul cultural vestic cu Ferme des Tilleuls și Silozul. Apoi conduceți spre centru, parcați și explorați nucleul istoric pe jos. Petreceți după-amiaza în vastul Parc du Silence, unde ajungeți convenabil cu mașina. Astfel combinați flexibilitatea cu plimbări intense.",
+        "en": "By car, you can efficiently cluster your visits in Renens. The morning starts in the western cultural cluster with the Ferme des Tilleuls and the Silo. Then you drive to the center, park, and explore the historic core on foot. You'll spend the afternoon in the spacious Parc du Silence, easily reached by car. This combines flexibility with intensive walks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant de l'Hôtel de Ville",
+            "tip": "Gehobene Küche in der Nähe des Zentrums."
+          },
+          {
+            "name": "Picknick im Park",
+            "tip": "Kaufen Sie lokale Produkte und genießen Sie sie im Parc du Silence."
+          },
+          {
+            "name": "Brasserie du Jura",
+            "tip": "Klassische Gerichte in entspannter Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant de l'Hôtel de Ville",
+            "tip": "Elegáns konyha a központ közelében."
+          },
+          {
+            "name": "Piknik a parkban",
+            "tip": "Vásárolj helyi termékeket és élvezd őket a Parc du Silence-ben."
+          },
+          {
+            "name": "Brasserie du Jura",
+            "tip": "Klasszikus ételek laza hangulatban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant de l'Hôtel de Ville",
+            "tip": "Bucătărie rafinată lângă centru."
+          },
+          {
+            "name": "Picnic în parc",
+            "tip": "Cumpărați produse locale și bucurați-vă de ele în Parc du Silence."
+          },
+          {
+            "name": "Brasserie du Jura",
+            "tip": "Mâncăruri clasice într-o atmosferă relaxată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant de l'Hôtel de Ville",
+            "tip": "Fine dining near the center."
+          },
+          {
+            "name": "Picnic in the Park",
+            "tip": "Buy local products and enjoy them in the Parc du Silence."
+          },
+          {
+            "name": "Brasserie du Jura",
+            "tip": "Classic dishes in a relaxed atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc du Silence",
+            "tip": "Der perfekte Ort, um dem Stadtlärm zu entfliehen.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Eine Fahrt entlang des Sees",
+            "tip": "Ein kurzer Abstecher zum Genfersee für Ruhe und Aussicht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Château-Gärten",
+            "tip": "Die Umgebung des Schlosses bietet ruhige Ecken.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc du Silence",
+            "tip": "Tökéletes hely a városi zaj elől való menekülésre.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Autózás a tó mentén",
+            "tip": "Rövid kitérő a Genfi-tóhoz a békéért és a kilátásért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kastélykert",
+            "tip": "A kastély környéke csendes zugokat kínál.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Tăcerii",
+            "tip": "Locul perfect pentru a scăpa de zgomotul orașului.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "O plimbare cu mașina pe malul lacului",
+            "tip": "O scurtă deviere către Lacul Geneva pentru liniște și priveliști.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile castelului",
+            "tip": "Împrejurimile castelului oferă colțuri liniștite.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc du Silence",
+            "tip": "The perfect place to escape the city noise.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "A drive along the lake",
+            "tip": "A short detour to Lake Geneva for peace and views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Castle Gardens",
+            "tip": "The area around the castle offers quiet corners.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Einkaufszentrum",
+            "tip": "Für alles, was Sie vielleicht vergessen haben."
+          },
+          {
+            "name": "Hofläden in der Umgebung",
+            "tip": "Suchen Sie nach frischen Produkten direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bevásárlóközpont",
+            "tip": "Mindenre, amit esetleg elfelejtettél."
+          },
+          {
+            "name": "Termelői boltok a környéken",
+            "tip": "Keress friss termékeket közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centru comercial",
+            "tip": "Pentru orice ați putea fi uitat."
+          },
+          {
+            "name": "Magazine de la fermă în zonă",
+            "tip": "Căutați produse proaspete direct de la producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shopping Center",
+            "tip": "For anything you might have forgotten."
+          },
+          {
+            "name": "Farm shops in the area",
+            "tip": "Look for fresh produce directly from the source."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich über Parkmöglichkeiten und -gebühren.",
+          "Ein GPS ist unerlässlich.",
+          "Achten Sie auf die Geschwindigkeitsbegrenzungen.",
+          "Planen Sie Zeit für den Verkehr ein, besonders zu Stoßzeiten."
+        ],
+        "hu": [
+          "Tájékozódj a parkolási lehetőségekről és díjakról.",
+          "A GPS elengedhetetlen.",
+          "Figyelj a sebességkorlátozásokra.",
+          "Számolj időt a forgalomra, különösen csúcsidőben."
+        ],
+        "ro": [
+          "Informați-vă despre opțiunile de parcare și taxe.",
+          "Un GPS este esențial.",
+          "Fiți atenți la limitele de viteză.",
+          "Planificați timp pentru trafic, mai ales la orele de vârf."
+        ],
+        "en": [
+          "Find out about parking options and fees.",
+          "A GPS is essential.",
+          "Pay attention to the speed limits.",
+          "Allow time for traffic, especially during peak hours."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft: Bahnhof Renens",
+            "hu": "Érkezés: Renens vasútállomás",
+            "ro": "Sosire: Gara Renens",
+            "en": "Arrival: Renens Railway Station"
+          },
+          "coords": [
+            6.587,
+            46.533
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel.",
+            "hu": "Vegyél egy napijegyet a tömegközlekedésre.",
+            "ro": "Cumpărați un bilet de o zi pentru transportul public.",
+            "en": "Buy a day pass for public transport."
+          }
+        },
+        {
+          "name": {
+            "de": "Place de l'Europe",
+            "hu": "Európa tér",
+            "ro": "Piața Europa",
+            "en": "Place de l'Europe"
+          },
+          "coords": [
+            6.588,
+            46.535
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:30",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Bahnhof zum Startpunkt Ihrer Erkundung.",
+            "hu": "Rövid séta az állomástól a felfedezőtúra kiindulópontjához.",
+            "ro": "O scurtă plimbare de la gară la punctul de plecare al explorării.",
+            "en": "A short walk from the station to the starting point of your exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Renens",
+            "hu": "Renens-i kastély",
+            "ro": "Castelul din Renens",
+            "en": "Château de Renens"
+          },
+          "coords": [
+            6.591,
+            46.538
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:10",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erklimmen Sie den leichten Anstieg zum Schloss und genießen Sie die Aussicht.",
+            "hu": "Mássz fel a enyhe emelkedőn a kastélyhoz és élvezd a kilátást.",
+            "ro": "Urcați panta lină spre castel și bucurați-vă de priveliște.",
+            "en": "Climb the gentle slope to the castle and enjoy the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster-Wechsel: Ferme des Tilleuls",
+            "hu": "Cluster-váltás: Tilleuls farm",
+            "ro": "Schimbare cluster: Ferma Tilleuls",
+            "en": "Cluster Change: Ferme des Tilleuls"
+          },
+          "coords": [
+            6.578,
+            46.538
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:50",
+          "stay_min": 80,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus, um diesen kulturellen Hotspot zu erreichen.",
+            "hu": "Vedd a buszt, hogy elérd ezt a kulturális központot.",
+            "ro": "Luați autobuzul pentru a ajunge la acest punct fierbinte cultural.",
+            "en": "Take the bus to reach this cultural hotspot."
+          }
+        },
+        {
+          "name": {
+            "de": "Salle de spectacles",
+            "hu": "Előadóterem",
+            "ro": "Sală de spectacole",
+            "en": "Salle de spectacles"
+          },
+          "coords": [
+            6.585,
+            46.54
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:20",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Von der Farm aus ist es ein angenehmer Spaziergang hierher.",
+            "hu": "A farmtól kellemes séta vezet ide.",
+            "ro": "De la fermă, este o plimbare plăcută până aici.",
+            "en": "From the farm, it's a pleasant walk here."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster-Wechsel: Parc du Silence",
+            "hu": "Cluster-váltás: A Csend Parkja",
+            "ro": "Schimbare cluster: Parcul Tăcerii",
+            "en": "Cluster Change: Parc du Silence"
+          },
+          "coords": [
+            6.582,
+            46.542
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:20",
+          "stay_min": 135,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein letzter Bus bringt Sie zum perfekten Ort für einen entspannten Nachmittag.",
+            "hu": "Egy utolsó busz visz el a tökéletes helyre egy pihentető délutánhoz.",
+            "ro": "Un ultim autobuz vă duce la locul perfect pentru o după-amiază relaxantă.",
+            "en": "A final bus takes you to the perfect spot for a relaxing afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Nutzung öffentlicher Verkehrsmittel in Renens ist einfach und effizient. Ihr Tag beginnt mit einem Spaziergang durch das Zentrum, direkt vom Bahnhof aus. Am späten Vormittag bringt Sie ein Bus zum westlichen Kulturcluster. Nach dem Mittagessen bringt Sie ein weiterer Bus zum Parc du Silence, wo Sie den Rest des Nachmittags entspannen können. Diese Methode ist umweltfreundlich und stressfrei.",
+        "hu": "A tömegközlekedés használata Renens-ben egyszerű és hatékony. A nap a központban tett sétával kezdődik, közvetlenül a vasútállomásról. Késő délelőtt egy busz visz el a nyugati kulturális negyedbe. Ebéd után egy másik busz visz a Parc du Silence-be, ahol a délután hátralévő részében pihenhetsz. Ez a módszer környezetbarát és stresszmentes.",
+        "ro": "Utilizarea transportului public în Renens este simplă și eficientă. Ziua începe cu o plimbare prin centru, direct de la gară. Spre sfârșitul dimineții, un autobuz vă duce la clusterul cultural vestic. După prânz, un alt autobuz vă duce la Parc du Silence, unde vă puteți relaxa pentru restul după-amiezii. Această metodă este ecologică și fără stres.",
+        "en": "Using public transport in Renens is simple and efficient. Your day starts with a walk through the center, right from the train station. In the late morning, a bus takes you to the western cultural cluster. After lunch, another bus takes you to the Parc du Silence, where you can relax for the rest of the afternoon. This method is environmentally friendly and stress-free."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Snacks vom Bahnhof",
+            "tip": "Schnell und praktisch für den Start in den Tag."
+          },
+          {
+            "name": "Café du Marché",
+            "tip": "Ein beliebter Treffpunkt für ein schnelles Mittagessen."
+          },
+          {
+            "name": "Buvette du Parc",
+            "tip": "Erfrischungen direkt im Parc du Silence."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Harapnivalók az állomásról",
+            "tip": "Gyors és praktikus a nap indításához."
+          },
+          {
+            "name": "Café du Marché",
+            "tip": "Népszerű találkozóhely egy gyors ebédre."
+          },
+          {
+            "name": "Buvette du Parc",
+            "tip": "Frissítők közvetlenül a Parc du Silence-ben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gustări de la gară",
+            "tip": "Rapid și convenabil pentru a începe ziua."
+          },
+          {
+            "name": "Café du Marché",
+            "tip": "Un loc popular de întâlnire pentru un prânz rapid."
+          },
+          {
+            "name": "Buvette du Parc",
+            "tip": "Băuturi răcoritoare chiar în Parc du Silence."
+          }
+        ],
+        "en": [
+          {
+            "name": "Snacks from the station",
+            "tip": "Quick and convenient to start the day."
+          },
+          {
+            "name": "Café du Marché",
+            "tip": "A popular meeting place for a quick lunch."
+          },
+          {
+            "name": "Buvette du Parc",
+            "tip": "Refreshments right in the Parc du Silence."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc du Silence",
+            "tip": "Leicht mit dem Bus zu erreichen und perfekt zum Entspannen.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Fensterplatz im Bus",
+            "tip": "Beobachten Sie die Stadt an sich vorbeiziehen.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Innenhof der Ferme des Tilleuls",
+            "tip": "Eine ruhige Oase.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc du Silence",
+            "tip": "Könnyen elérhető busszal és tökéletes a pihenésre.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Ablak melletti ülés a buszon",
+            "tip": "Nézd, ahogy elsuhan melletted a város.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "A Ferme des Tilleuls belső udvara",
+            "tip": "Egy csendes oázis.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Tăcerii",
+            "tip": "Ușor de ajuns cu autobuzul și perfect pentru relaxare.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Loc la geam în autobuz",
+            "tip": "Priviți orașul trecând pe lângă voi.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Curtea interioară a Ferme des Tilleuls",
+            "tip": "O oază de liniște.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc du Silence",
+            "tip": "Easy to reach by bus and perfect for relaxing.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Window seat on the bus",
+            "tip": "Watch the city go by.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Courtyard of Ferme des Tilleuls",
+            "tip": "A quiet oasis.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte rund um den Bahnhof",
+            "tip": "Für Souvenirs oder letzte Besorgungen."
+          },
+          {
+            "name": "Kioske an Haltestellen",
+            "tip": "Für Zeitschriften und Getränke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok az állomás körül",
+            "tip": "Szuvenírekért vagy utolsó pillanatos bevásárlásokért."
+          },
+          {
+            "name": "Kioszkok a megállókban",
+            "tip": "Magazinokért és italokért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine în jurul gării",
+            "tip": "Pentru suveniruri sau cumpărături de ultim moment."
+          },
+          {
+            "name": "Chioșcuri la stații",
+            "tip": "Pentru reviste și băuturi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops around the station",
+            "tip": "For souvenirs or last-minute shopping."
+          },
+          {
+            "name": "Kiosks at stops",
+            "tip": "For magazines and drinks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die lokale ÖPNV-App herunter.",
+          "Eine Tageskarte ist oft die günstigste Option.",
+          "Beachten Sie die Fahrpläne, besonders abends.",
+          "Geben Sie dem Busfahrer ein Zeichen, wenn Sie aussteigen möchten."
+        ],
+        "hu": [
+          "Töltsd le a helyi tömegközlekedési alkalmazást.",
+          "A napijegy gyakran a legolcsóbb opció.",
+          "Figyelj a menetrendre, különösen este.",
+          "Jelezz a buszsofőrnek, ha le akarsz szállni."
+        ],
+        "ro": [
+          "Descărcați aplicația locală de transport public.",
+          "Un bilet de o zi este adesea cea mai ieftină opțiune.",
+          "Fiți atenți la orare, mai ales seara.",
+          "Faceți semn șoferului de autobuz când doriți să coborâți."
+        ],
+        "en": [
+          "Download the local public transport app.",
+          "A day pass is often the cheapest option.",
+          "Pay attention to the timetables, especially in the evening.",
+          "Signal the bus driver when you want to get off."
+        ]
+      }
+    }
+  }
+}

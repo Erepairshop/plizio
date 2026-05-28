@@ -1,0 +1,1020 @@
+{
+  "city_id": "denmark-frederikssund-cities-v2",
+  "anchor": {
+    "name": "Frederikssund",
+    "coords": [
+      55.84,
+      12.06
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Frederikssund Kirche",
+            "hu": "Frederikssundi templom",
+            "ro": "Biserica Frederikssund",
+            "en": "Frederikssund Church"
+          },
+          "coords": [
+            12.0665,
+            55.8402
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Achten Sie auf die besonderen Votivschiffe, die von der Decke hängen.",
+            "hu": "Figyelje meg a mennyezetről lógó különleges fogadalmi hajókat.",
+            "ro": "Observați corăbiile votive speciale atârnând de tavan.",
+            "en": "Look out for the special votive ships hanging from the ceiling."
+          }
+        },
+        {
+          "name": {
+            "de": "J.F. Willumsens Museum",
+            "hu": "J.F. Willumsens Múzeum",
+            "ro": "Muzeul J.F. Willumsens",
+            "en": "J.F. Willumsen's Museum"
+          },
+          "coords": [
+            12.0688,
+            55.8421
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Das Museum selbst ist ein architektonisches Juwel, nicht nur die Kunst darin.",
+            "hu": "Maga a múzeum is építészeti gyöngyszem, nem csak a benne lévő művészet.",
+            "ro": "Muzeul în sine este o bijuterie arhitecturală, nu doar arta din interior.",
+            "en": "The museum itself is an architectural gem, not just the art inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Frederikssund Hafen",
+            "hu": "Frederikssund kikötő",
+            "ro": "Portul Frederikssund",
+            "en": "Frederikssund Harbour"
+          },
+          "coords": [
+            12.061,
+            55.8435
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:55",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Holen Sie sich ein Eis und beobachten Sie die Boote, die auf dem Fjord segeln.",
+            "hu": "Vegyen egy fagyit, és nézze a fjordban hajózó csónakokat.",
+            "ro": "Luați o înghețată și priviți bărcile navigând pe fiord.",
+            "en": "Grab an ice cream and watch the boats sailing on the fjord."
+          }
+        },
+        {
+          "name": {
+            "de": "Vikingersiedlung",
+            "hu": "Viking település",
+            "ro": "Așezarea Vikingilor",
+            "en": "Viking Settlement"
+          },
+          "coords": [
+            12.058,
+            55.844
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:20",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Zeitplan für das jährliche Wikingerspiel, ein spektakuläres Freiluft-Event.",
+            "hu": "Ellenőrizze az éves Viking Játékok menetrendjét, ami egy látványos szabadtéri esemény.",
+            "ro": "Verificați programul pentru Jocul Viking anual, un eveniment spectaculos în aer liber.",
+            "en": "Check the schedule for the annual Viking Game, a spectacular open-air event."
+          }
+        },
+        {
+          "name": {
+            "de": "Færgegården Museum",
+            "hu": "Færgegården Múzeum",
+            "ro": "Muzeul Færgegården",
+            "en": "Færgegården Museum"
+          },
+          "coords": [
+            12.052,
+            55.848
+          ],
+          "category": "museums",
+          "arrive_at": "14:40",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein kleineres Museum, das einen Einblick in die lokale Geschichte und das Fährwesen gibt.",
+            "hu": "Egy kisebb múzeum, amely bepillantást nyújt a helyi történelembe és a kompközlekedésbe.",
+            "ro": "Un muzeu mai mic ce oferă o perspectivă asupra istoriei locale și a serviciilor de feribot.",
+            "en": "A smaller museum offering a glimpse into local history and ferry services."
+          }
+        },
+        {
+          "name": {
+            "de": "Kronprinz Frederiks Brücke",
+            "hu": "Frederik koronaherceg hídja",
+            "ro": "Podul Prințului Moștenitor Frederik",
+            "en": "Crown Prince Frederik's Bridge"
+          },
+          "coords": [
+            12.048,
+            55.85
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "16:25",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Gehen Sie zur Mitte der Brücke für die beste Aussicht auf den Roskilde-Fjord.",
+            "hu": "Sétáljon a híd közepére a legjobb kilátásért a Roskilde-fjordra.",
+            "ro": "Mergeți la mijlocul podului pentru cea mai bună priveliște asupra fiordului Roskilde.",
+            "en": "Walk to the middle of the bridge for the best view of Roskilde Fjord."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Herzen von Frederikssund bei der alten Kirche. Spazieren Sie zum J.F. Willumsens Museum, um die Werke eines der bedeutendsten Künstler Dänemarks zu bewundern. Am Mittag genießen Sie die maritime Atmosphäre am Hafen, vielleicht mit einem traditionellen dänischen Mittagessen. Der Nachmittag ist der reichen Wikingergeschichte der Stadt gewidmet, gefolgt von einem Besuch im Færgegården Museum, bevor Sie den Tag mit einem Spaziergang über die Kronprinz-Frederik-Brücke und einem atemberaubenden Blick auf den Fjord ausklingen lassen.",
+        "hu": "Kezdje a napot Frederikssund történelmi szívében, a régi templomnál. Sétáljon el a J.F. Willumsens Múzeumba, hogy megcsodálja Dánia egyik legjelentősebb művészének alkotásait. Délben élvezze a kikötő tengeri hangulatát, esetleg egy hagyományos dán ebéd mellett. A délután a város gazdag viking történelmének van szentelve, amit a Færgegården Múzeum meglátogatása követ, mielőtt a napot egy sétával zárja a Frederik koronaherceg hídján, ahonnan lélegzetelállító kilátás nyílik a fjordra.",
+        "ro": "Începeți ziua în inima istorică a Frederikssund, la biserica veche. Plimbați-vă până la Muzeul J.F. Willumsens pentru a admira opera unuia dintre cei mai importanți artiști ai Danemarcei. La prânz, bucurați-vă de atmosfera maritimă din port, poate cu un prânz tradițional danez. După-amiaza este dedicată bogatei istorii vikinge a orașului, urmată de o vizită la Muzeul Færgegården, înainte de a încheia ziua cu o plimbare pe podul Prințului Moștenitor Frederik pentru o priveliște uluitoare asupra fiordului.",
+        "en": "Start your day in the historic heart of Frederikssund at the old church. Stroll to the J.F. Willumsen's Museum to admire the work of one of Denmark's most significant artists. At noon, enjoy the maritime atmosphere at the harbor, perhaps with a traditional Danish lunch. The afternoon is dedicated to the city's rich Viking history, followed by a visit to the Færgegården Museum, before ending the day with a walk across the Crown Prince Frederik's Bridge for a stunning view of the fjord."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Probieren Sie das klassische offene Sandwich mit Hering oder Roastbeef in einem der Cafés am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Kóstolja meg a klasszikus nyitott szendvicset heringgel vagy rostbiff-fel a kikötői kávézók egyikében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Încercați sandvișul deschis clasic cu hering sau roast beef la una dintre cafenelele din port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Try the classic open-faced sandwich with herring or roast beef at one of the harbor cafes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Fjord",
+            "tip": "Finden Sie eine ruhige Bank entlang des Fjordufers, weg vom Hauptteil des Hafens.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a fjord mentén",
+            "tip": "Keressen egy csendes padot a fjord partján, távol a kikötő fő részétől.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul fiordului",
+            "tip": "Găsiți o bancă liniștită de-a lungul malului fiordului, departe de zona principală a portului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fjord-side walk",
+            "tip": "Find a quiet bench along the fjord shore, away from the main harbor area.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Kunsthandwerksläden",
+            "tip": "Suchen Sie in der Innenstadt nach kleinen Läden, die von Wikingern inspirierte Keramik und Schmuck verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keresse a belvárosban a viking ihletésű kerámiákat és ékszereket árusító kis boltokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Căutați în centrul orașului magazine mici care vând ceramică și bijuterii de inspirație vikingă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local craft shops",
+            "tip": "Look for small shops in the city center selling Viking-inspired pottery and jewelry."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag auf den Beinen sein werden.",
+          "Eine wiederverwendbare Wasserflasche ist eine gute Idee.",
+          "Die meisten Orte akzeptieren Kreditkarten, aber etwas Bargeld für kleine Einkäufe ist nützlich."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap talpon lesz.",
+          "Egy újrafelhasználható vizes palack jó ötlet.",
+          "A legtöbb helyen elfogadnak bankkártyát, de némi készpénz hasznos lehet kisebb vásárlásokhoz."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți fi în picioare toată ziua.",
+          "O sticlă de apă reutilizabilă este o idee bună.",
+          "Majoritatea locurilor acceptă carduri de credit, dar niște numerar pentru cumpărături mici este util."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be on your feet all day.",
+          "A reusable water bottle is a good idea.",
+          "Most places accept credit cards, but some cash is useful for small purchases."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "J.F. Willumsens Museum",
+            "hu": "J.F. Willumsens Múzeum",
+            "ro": "Muzeul J.F. Willumsens",
+            "en": "J.F. Willumsen's Museum"
+          },
+          "coords": [
+            12.0688,
+            55.8421
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Fahrradständer vor dem Museum.",
+            "hu": "Használja a múzeum előtti kerékpártárolókat.",
+            "ro": "Folosiți suporturile de biciclete din fața muzeului.",
+            "en": "Use the bike racks available in front of the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Vikingersiedlung",
+            "hu": "Viking település",
+            "ro": "Așezarea Vikingilor",
+            "en": "Viking Settlement"
+          },
+          "coords": [
+            12.058,
+            55.844
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Radfahren zur Siedlung gibt Ihnen ein Gefühl für die Landschaft, die die Wikinger kannten.",
+            "hu": "A településre kerékpározva átérezheti azt a tájat, amelyet a vikingek ismertek.",
+            "ro": "Mersul cu bicicleta la așezare vă oferă o senzație a peisajului pe care l-au cunoscut vikingii.",
+            "en": "Biking to the settlement gives you a feel for the landscape the Vikings knew."
+          }
+        },
+        {
+          "name": {
+            "de": "Frederikssund Hafen",
+            "hu": "Frederikssund kikötő",
+            "ro": "Portul Frederikssund",
+            "en": "Frederikssund Harbour"
+          },
+          "coords": [
+            12.061,
+            55.8435
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:10",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für eine Mittagspause mit vielen Möglichkeiten, Ihr Fahrrad abzustellen.",
+            "hu": "Nagyszerű hely egy ebédszünetre, rengeteg lehetőséggel a kerékpár leparkolására.",
+            "ro": "Un loc minunat pentru o pauză de prânz, cu multe opțiuni pentru a vă parca bicicleta.",
+            "en": "A great spot for a lunch break with plenty of options to park your bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Kronprinz Frederiks Brücke",
+            "hu": "Frederik koronaherceg hídja",
+            "ro": "Podul Prințului Moștenitor Frederik",
+            "en": "Crown Prince Frederik's Bridge"
+          },
+          "coords": [
+            12.048,
+            55.85
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:42",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Die Brücke hat einen eigenen Radweg, der eine sichere und landschaftlich reizvolle Überfahrt ermöglicht.",
+            "hu": "A hídnak saját kerékpárútja van, amely biztonságos és festői átkelést biztosít.",
+            "ro": "Podul are o pistă de biciclete dedicată pentru o traversare sigură și pitorească.",
+            "en": "The bridge has a dedicated bike lane for a safe and scenic crossing."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalvø Insel",
+            "hu": "Kalvø-sziget",
+            "ro": "Insula Kalvø",
+            "en": "Kalvø Island"
+          },
+          "coords": [
+            12.04,
+            55.83
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "14:32",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Eine ruhige Insel, perfekt für eine entspannte Radtour. Folgen Sie dem Weg rund um die Insel.",
+            "hu": "Egy csendes sziget, tökéletes egy pihentető kerékpártúrához. Kövesse a sziget körüli ösvényt.",
+            "ro": "O insulă liniștită, perfectă pentru o plimbare relaxantă cu bicicleta. Urmați poteca din jurul insulei.",
+            "en": "A peaceful island perfect for a relaxing bike ride. Follow the path around the island."
+          }
+        },
+        {
+          "name": {
+            "de": "Frederikssund Kirche",
+            "hu": "Frederikssundi templom",
+            "ro": "Biserica Frederikssund",
+            "en": "Frederikssund Church"
+          },
+          "coords": [
+            12.0665,
+            55.8402
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:28",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem Moment der Ruhe in dieser historischen Kirche.",
+            "hu": "Zárja a túrát egy csendes pillanattal ebben a történelmi templomban.",
+            "ro": "Încheiați-vă turul cu un moment de liniște în această biserică istorică.",
+            "en": "End your tour with a moment of peace at this historic church."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am J.F. Willumsens Museum und radeln Sie dann zur Wikingersiedlung. Genießen Sie eine Mittagspause am belebten Hafen von Frederikssund. Am Nachmittag überqueren Sie die beeindruckende Kronprinz-Frederik-Brücke und erkunden die ruhige Natur der Insel Kalvø. Beenden Sie Ihre Tour mit einem Besuch der alten Kirche von Frederikssund, um die Eindrücke des Tages Revue passieren zu lassen.",
+        "hu": "Kezdje a kerékpártúrát a J.F. Willumsens Múzeumnál, majd tekerjen el a viking településhez. Tartson ebédszünetet Frederikssund nyüzsgő kikötőjében. Délután keljen át a lenyűgöző Frederik koronaherceg hídján, és fedezze fel Kalvø szigetének csendes természetét. Zárja a túrát Frederikssund régi templomának meglátogatásával, hogy átgondolja a nap élményeit.",
+        "ro": "Începeți turul pe bicicletă la Muzeul J.F. Willumsens, apoi pedalați spre Așezarea Vikingilor. Bucurați-vă de o pauză de prânz în portul animat din Frederikssund. După-amiaza, traversați impresionantul pod al Prințului Moștenitor Frederik pentru a explora natura liniștită a insulei Kalvø. Încheiați turul cu o vizită la vechea biserică din Frederikssund pentru a reflecta asupra zilei.",
+        "en": "Start your bike tour at the J.F. Willumsen's Museum, then pedal to the Viking Settlement. Enjoy a lunch break at the bustling Frederikssund Harbour. In the afternoon, cross the impressive Crown Prince Frederik's Bridge to explore the tranquil nature of Kalvø island. Finish your tour with a visit to the old Frederikssund Church to reflect on the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fiskefrikadeller",
+            "tip": "Probieren Sie die dänischen Fischfrikadellen, eine lokale Spezialität, die in vielen Hafenrestaurants erhältlich ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fiskefrikadeller",
+            "tip": "Kóstolja meg a dán halfasírtot, egy helyi specialitást, amely számos kikötői étteremben kapható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fiskefrikadeller",
+            "tip": "Încercați chiftelele de pește daneze, o specialitate locală disponibilă la multe restaurante din port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fiskefrikadeller",
+            "tip": "Try the Danish fish cakes, a local specialty available at many harbor restaurants."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kalvø Insel",
+            "tip": "Die Wege auf Kalvø sind perfekt für eine ruhige Flucht aus der Stadt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kalvø-sziget",
+            "tip": "A Kalvø-sziget ösvényei tökéletesek a városból való csendes elvonuláshoz.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Insula Kalvø",
+            "tip": "Căile de pe Kalvø sunt perfecte pentru o evadare liniștită din oraș.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kalvø Island",
+            "tip": "The paths on Kalvø are perfect for a quiet escape from the town.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Halten Sie außerhalb der Stadt Ausschau nach Hofläden, die lokale Produkte wie Honig und Marmelade verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok",
+            "tip": "A városon kívül keresse a helyi termékeket, például mézet és lekvárt árusító tanyasi boltokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de la fermă",
+            "tip": "În afara orașului, căutați magazine de la fermă care vând produse locale, cum ar fi miere și gem."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops",
+            "tip": "Outside the town, look for farm shops selling local produce like honey and jam."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad mit Gängen, da es einige leichte Steigungen geben kann.",
+          "Der Wind am Fjord kann stark sein, eine Windjacke wird empfohlen.",
+          "Schließen Sie Ihr Fahrrad immer ab, wenn Sie es abstellen."
+        ],
+        "hu": [
+          "Béreljen váltós kerékpárt, mivel lehetnek enyhe emelkedők.",
+          "A szél a fjordnál erős lehet, széldzseki ajánlott.",
+          "Mindig zárja le a kerékpárt, amikor otthagyja."
+        ],
+        "ro": [
+          "Închiriați o bicicletă cu viteze, deoarece pot exista unele pante ușoare.",
+          "Vântul de la fiord poate fi puternic, se recomandă o jachetă de vânt.",
+          "Încuiati-vă întotdeauna bicicleta când o lăsați nesupravegheată."
+        ],
+        "en": [
+          "Rent a bike with gears as there can be some slight inclines.",
+          "The wind by the fjord can be strong, a wind jacket is recommended.",
+          "Always lock your bike when leaving it unattended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 36.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Selsø",
+            "hu": "Selsø kastély",
+            "ro": "Castelul Selsø",
+            "en": "Selsø Castle"
+          },
+          "coords": [
+            11.96,
+            55.74
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:40",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Ein unberührtes Barockschloss. Die Führung gibt faszinierende Einblicke in seine Geschichte.",
+            "hu": "Egy érintetlen barokk kastély. A tárlatvezetés lenyűgöző betekintést nyújt a történelmébe.",
+            "ro": "Un castel baroc neatins. Turul ghidat oferă perspective fascinante asupra istoriei sale.",
+            "en": "An untouched Baroque castle. The guided tour gives fascinating insights into its history."
+          }
+        },
+        {
+          "name": {
+            "de": "Frederikssund Kirche",
+            "hu": "Frederikssundi templom",
+            "ro": "Biserica Frederikssund",
+            "en": "Frederikssund Church"
+          },
+          "coords": [
+            12.0665,
+            55.8402
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_mode": "car",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 20.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Stadtzentrum und beginnen Sie Ihren Spaziergang durch die Stadt hier.",
+            "hu": "Parkoljon a városközpontban, és innen induljon a városi séta.",
+            "ro": "Parcați în centrul orașului și începeți plimbarea prin oraș de aici.",
+            "en": "Park in the city center and start your walking tour of the town from here."
+          }
+        },
+        {
+          "name": {
+            "de": "J.F. Willumsens Museum",
+            "hu": "J.F. Willumsens Múzeum",
+            "ro": "Muzeul J.F. Willumsens",
+            "en": "J.F. Willumsen's Museum"
+          },
+          "coords": [
+            12.0688,
+            55.8421
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang von der Kirche entfernt, lassen Sie das Auto geparkt.",
+            "hu": "Csak egy rövid séta a templomtól, hagyja az autót leparkolva.",
+            "ro": "La doar o scurtă plimbare de biserică, lăsați mașina parcată.",
+            "en": "Just a short walk from the church, leave the car parked."
+          }
+        },
+        {
+          "name": {
+            "de": "Frederikssund Hafen & Wikingersiedlung",
+            "hu": "Frederikssund kikötő és Viking település",
+            "ro": "Portul Frederikssund și Așezarea Vikingilor",
+            "en": "Frederikssund Harbour & Viking Settlement"
+          },
+          "coords": [
+            12.06,
+            55.8438
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:50",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für einen späten Nachmittagsimbiss mit Blick auf den Fjord.",
+            "hu": "Tökéletes hely egy késő délutáni harapnivalóhoz a fjordra néző kilátással.",
+            "ro": "Un loc perfect pentru o gustare târzie de după-amiază cu vedere la fiord.",
+            "en": "A perfect spot for a late afternoon snack overlooking the fjord."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussicht von der Kronprinz Frederiks Brücke",
+            "hu": "Kilátás a Frederik koronaherceg hídjáról",
+            "ro": "Vedere de pe Podul Prințului Moștenitor Frederik",
+            "en": "View from Crown Prince Frederik's Bridge"
+          },
+          "coords": [
+            12.048,
+            55.85
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "17:00",
+          "stay_min": 45,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fahren Sie kurz vor Sonnenuntergang hierher, um die spektakulärsten Farben am Himmel zu erleben.",
+            "hu": "Vezessen ide röviddel napnyugta előtt a leglátványosabb égi színekért.",
+            "ro": "Conduceți aici chiar înainte de apus pentru cele mai spectaculoase culori pe cer.",
+            "en": "Drive here just before sunset for the most spectacular colors in the sky."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer kurzen Fahrt zum prächtigen Schloss Selsø, um in die dänische Adelsgeschichte einzutauchen. Fahren Sie dann zurück nach Frederikssund, parken Sie Ihr Auto im Zentrum und erkunden Sie zu Fuß die historische Kirche und das beeindruckende J.F. Willumsens Museum. Am Nachmittag schlendern Sie zum Hafen und zur Wikingersiedlung, um die maritime und historische Atmosphäre zu genießen. Beenden Sie den Tag mit einer kurzen Fahrt zur Kronprinz-Frederik-Brücke, um einen unvergesslichen Sonnenuntergang über dem Fjord zu erleben.",
+        "hu": "Kezdje a napot egy rövid autóúttal a csodálatos Selsø kastélyhoz, hogy elmerüljön a dán nemesi történelemben. Ezután vezessen vissza Frederikssundba, parkolja le autóját a központban, és fedezze fel gyalog a történelmi templomot és a lenyűgöző J.F. Willumsens Múzeumot. Délután sétáljon le a kikötőbe és a viking településhez, hogy élvezze a tengeri és történelmi hangulatot. Zárja a napot egy rövid autóúttal a Frederik koronaherceg hídjához, hogy egy felejthetetlen naplementét élvezhessen a fjord felett.",
+        "ro": "Începeți ziua cu o scurtă călătorie cu mașina la magnificul Castel Selsø pentru a vă cufunda în istoria aristocratică daneză. Apoi, conduceți înapoi la Frederikssund, parcați mașina în centru și explorați pe jos biserica istorică și impresionantul Muzeu J.F. Willumsens. După-amiaza, plimbați-vă până la port și la Așezarea Vikingilor pentru a absorbi atmosfera maritimă și istorică. Încheiați ziua cu o scurtă călătorie cu mașina la Podul Prințului Moștenitor Frederik pentru a prinde un apus de soare de neuitat peste fiord.",
+        "en": "Start your day with a short drive to the magnificent Selsø Castle to immerse yourself in Danish aristocratic history. Then, drive back to Frederikssund, park your car in the center, and explore the historic church and the impressive J.F. Willumsen's Museum on foot. In the afternoon, stroll down to the harbor and the Viking Settlement to soak up the maritime and historical atmosphere. End your day with a short drive to the Crown Prince Frederik's Bridge to catch an unforgettable sunset over the fjord."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokales Brauerei-Restaurant",
+            "tip": "Suchen Sie nach einem Restaurant mit einer lokalen Brauerei, um dänisches Craft-Bier und herzhafte Speisen zu genießen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi sörfőzde étterem",
+            "tip": "Keressen egy helyi sörfőzdével rendelkező éttermet, ahol dán kézműves sört és kiadós ételeket kóstolhat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant cu berărie locală",
+            "tip": "Căutați un restaurant cu o berărie locală pentru a vă bucura de bere artizanală daneză și mâncare consistentă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Brewery Restaurant",
+            "tip": "Look for a restaurant with a local brewery to enjoy Danish craft beer and hearty food."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Selsø Sees",
+            "tip": "Die Gegend um Schloss Selsø ist sehr friedlich und ideal für einen ruhigen Spaziergang.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Selsø-tó partja",
+            "tip": "A Selsø kastély környéke nagyon békés, ideális egy csendes sétához.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Selsø",
+            "tip": "Zona din jurul Castelului Selsø este foarte pașnică și ideală pentru o plimbare liniștită.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shores of Lake Selsø",
+            "tip": "The area around Selsø Castle is very peaceful and great for a quiet walk.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Antiquitätenläden",
+            "tip": "In den Dörfern rund um Frederikssund finden Sie möglicherweise Antiquitätenläden mit einzigartigen dänischen Fundstücken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Antikváriumok",
+            "tip": "Frederikssund körüli falvakban találhat antikváriumokat egyedi dán leletekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de antichități",
+            "tip": "În satele din jurul Frederikssund, s-ar putea să găsiți magazine de antichități cu descoperiri daneze unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Antique shops",
+            "tip": "In the villages around Frederikssund, you might find antique shops with unique Danish finds."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Öffnungszeiten von Schloss Selsø, da es saisonal sein kann.",
+          "Das Parken im Zentrum von Frederikssund kann eine Parkscheibe erfordern.",
+          "Planen Sie zusätzliche Zeit für den Verkehr ein, besonders an Sommerwochenenden."
+        ],
+        "hu": [
+          "Ellenőrizze a Selsø kastély nyitvatartási idejét, mivel szezonális lehet.",
+          "A parkoláshoz Frederikssund központjában parkolótárcsára lehet szükség.",
+          "Tervezzen plusz időt a forgalomra, különösen a nyári hétvégéken."
+        ],
+        "ro": [
+          "Verificați orele de deschidere ale Castelului Selsø, deoarece pot fi sezoniere.",
+          "Parcarea în centrul orașului Frederikssund poate necesita un disc de parcare.",
+          "Planificați timp suplimentar pentru trafic, în special în weekendurile de vară."
+        ],
+        "en": [
+          "Check the opening hours for Selsø Castle as it can be seasonal.",
+          "Parking in the center of Frederikssund may require a parking disc.",
+          "Allow extra time for traffic, especially on summer weekends."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 5.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof Frederikssund",
+            "hu": "Érkezés a Frederikssund állomásra",
+            "ro": "Sosire la Gara Frederikssund",
+            "en": "Arrival at Frederikssund Station"
+          },
+          "coords": [
+            12.069,
+            55.836
+          ],
+          "category": "transit-hub",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten mit den lokalen Bussen.",
+            "hu": "Vásároljon napijegyet a helyi buszokon való korlátlan utazáshoz.",
+            "ro": "Cumpărați un bilet de o zi pentru călătorii nelimitate cu autobuzele locale.",
+            "en": "Purchase a day ticket for unlimited travel on local buses."
+          }
+        },
+        {
+          "name": {
+            "de": "Frederikssund Kirche",
+            "hu": "Frederikssundi templom",
+            "ro": "Biserica Frederikssund",
+            "en": "Frederikssund Church"
+          },
+          "coords": [
+            12.0665,
+            55.8402
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:33",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom zentralen Busbahnhof.",
+            "hu": "Rövid séta a központi buszpályaudvartól.",
+            "ro": "O scurtă plimbare de la autogara centrală.",
+            "en": "A short walk from the central bus hub."
+          }
+        },
+        {
+          "name": {
+            "de": "J.F. Willumsens Museum",
+            "hu": "J.F. Willumsens Múzeum",
+            "ro": "Muzeul J.F. Willumsens",
+            "en": "J.F. Willumsen's Museum"
+          },
+          "coords": [
+            12.0688,
+            55.8421
+          ],
+          "category": "museums",
+          "arrive_at": "10:18",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die erste Gruppe von Sehenswürdigkeiten befindet sich alle in Gehweite voneinander.",
+            "hu": "Az első látnivalócsoport gyalogosan is elérhető egymástól.",
+            "ro": "Primul grup de atracții este la distanță de mers pe jos unul de celălalt.",
+            "en": "The first cluster of sights are all within walking distance of each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Vikingersiedlung",
+            "hu": "Viking település",
+            "ro": "Așezarea Vikingilor",
+            "en": "Viking Settlement"
+          },
+          "coords": [
+            12.058,
+            55.844
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:20",
+          "stay_min": 80,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in Richtung Hafen; die Haltestelle ist in der Nähe des Eingangs.",
+            "hu": "Menjen busszal a kikötő felé; a megálló a bejárat közelében van.",
+            "ro": "Luați un autobuz spre port; stația este aproape de intrare.",
+            "en": "Take a bus towards the harbour; the stop is near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Frederikssund Hafen",
+            "hu": "Frederikssund kikötő",
+            "ro": "Portul Frederikssund",
+            "en": "Frederikssund Harbour"
+          },
+          "coords": [
+            12.061,
+            55.8435
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:25",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 85,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie von der Wikingersiedlung zum Hafen für eine entspannte Mittagspause.",
+            "hu": "Sétáljon a viking településről a kikötőbe egy pihentető ebédszünetre.",
+            "ro": "Plimbați-vă de la Așezarea Vikingilor la port pentru o pauză de prânz relaxantă.",
+            "en": "Stroll from the Viking Settlement to the Harbour for a relaxing lunch break."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Kommen Sie am Bahnhof Frederikssund an und beginnen Sie Ihre Erkundungstour zu Fuß mit der Kirche und dem Willumsens Museum. Nehmen Sie am Mittag einen lokalen Bus zum Wikingergebiet, um in die Geschichte einzutauchen. Verbringen Sie den Rest des Nachmittags damit, vom Wikingerspielplatz zum belebten Hafen zu schlendern und die maritime Atmosphäre zu genießen, bevor Sie mit dem Bus zurück zum Bahnhof fahren.",
+        "hu": "Érkezzen meg a Frederikssund állomásra, és kezdje a felfedezést gyalog a templommal és a Willumsens Múzeummal. Délben szálljon helyi buszra a viking területre, hogy elmerüljön a történelemben. Töltse a délután hátralévő részét a viking játszótérről a nyüzsgő kikötőbe sétálva, élvezve a tengeri hangulatot, mielőtt busszal visszatérne az állomásra.",
+        "ro": "Sosiți la gara Frederikssund și începeți explorarea pe jos cu biserica și Muzeul Willumsens. La prânz, luați un autobuz local spre zona vikingă pentru o imersiune în istorie. Petreceți restul după-amiezii plimbându-vă de la locul de joacă viking la portul plin de viață, bucurându-vă de atmosfera maritimă înainte de a lua autobuzul înapoi la gară.",
+        "en": "Arrive at Frederikssund station and start your exploration on foot with the church and Willumsen's Museum. At midday, take a local bus to the Viking area for an immersion in history. Spend the rest of the afternoon strolling from the Viking playground to the bustling harbor, enjoying the maritime atmosphere before taking a bus back to the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pølser",
+            "tip": "Holen Sie sich einen klassischen dänischen Hotdog von einem der Stände in der Nähe des Bahnhofs oder Hafens."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pølser",
+            "tip": "Vegyen egy klasszikus dán hot dogot a pályaudvar vagy a kikötő közelében lévő standok egyikénél."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pølser",
+            "tip": "Luați un hot dog danez clasic de la una dintre tarabele de lângă gară sau port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pølser",
+            "tip": "Grab a classic Danish hot dog from one of the stands near the station or harbour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirchhof",
+            "tip": "Der Friedhof rund um die Frederikssund Kirche ist ein ruhiger und besinnlicher Ort.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Templomkert",
+            "tip": "A Frederikssund templom körüli temető egy csendes és elgondolkodtató hely.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul bisericii",
+            "tip": "Cimitirul din jurul Bisericii Frederikssund este un loc liniștit și contemplativ.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Churchyard",
+            "tip": "The graveyard around Frederikssund Church is a quiet and contemplative spot.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Supermarkt für Snacks",
+            "tip": "Kaufen Sie in einem Supermarkt in der Nähe des Bahnhofs Snacks und Getränke für den Tag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szupermarket rágcsálnivalókért",
+            "tip": "Vásároljon rágcsálnivalókat és italokat a napra egy szupermarketben az állomás közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarket pentru gustări",
+            "tip": "Cumpărați gustări și băuturi pentru ziua respectivă de la un supermarket de lângă gară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Supermarket for snacks",
+            "tip": "Stock up on snacks and drinks for the day at a supermarket near the station."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die lokale ÖPNV-App herunter, um Fahrpläne und Routen in Echtzeit zu erhalten.",
+          "Busse verkehren möglicherweise nicht so häufig an Wochenenden, planen Sie also entsprechend.",
+          "Überprüfen Sie die Nummer und Richtung des Busses, bevor Sie einsteigen."
+        ],
+        "hu": [
+          "Töltse le a helyi tömegközlekedési alkalmazást a valós idejű menetrendekért és útvonalakért.",
+          "A buszok hétvégén ritkábban közlekedhetnek, ezért tervezzen ennek megfelelően.",
+          "Beszállás előtt ellenőrizze a busz számát és irányát."
+        ],
+        "ro": [
+          "Descărcați aplicația locală de transport public pentru orare și rute în timp real.",
+          "Autobuzele pot circula mai rar în weekend, așa că planificați în consecință.",
+          "Verificați numărul și direcția autobuzului înainte de a urca."
+        ],
+        "en": [
+          "Download the local public transport app for real-time schedules and routes.",
+          "Buses may run less frequently on weekends, so plan accordingly.",
+          "Check the bus number and direction before you board."
+        ]
+      }
+    }
+  }
+}

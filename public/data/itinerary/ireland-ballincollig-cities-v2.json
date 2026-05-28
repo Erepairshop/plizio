@@ -1,0 +1,1412 @@
+{
+  "city_id": "ireland-ballincollig-cities-v2",
+  "anchor": {
+    "name": "Ballincollig",
+    "coords": [
+      -8.5835,
+      51.8887
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Burgruine Ballincollig",
+            "hu": "A Ballincollig vár romjai",
+            "ro": "Ruinele castelului Ballincollig",
+            "en": "Ballincollig Castle"
+          },
+          "coords": [
+            -8.5855,
+            51.8892
+          ],
+          "category": "castles",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die äußeren Mauern für die beste Aussicht auf die Umgebung.",
+            "hu": "Fedezze fel a külső falakat a környék legjobb kilátásáért.",
+            "ro": "Explorați zidurile exterioare pentru cele mai bune priveliști ale zonei înconjurătoare.",
+            "en": "Explore the outer walls for the best views of the surrounding area."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Maria & St. Johannes",
+            "hu": "Szent Mária és Szent János templom",
+            "ro": "Biserica Sf. Maria și Sf. Ioan",
+            "en": "St. Mary & St. John's Church"
+          },
+          "coords": [
+            -8.582,
+            51.8885
+          ],
+          "category": "churches",
+          "arrive_at": "10:18",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Achten Sie auf die schönen Buntglasfenster, die lokale Geschichten erzählen.",
+            "hu": "Figyelje meg a gyönyörű ólomüveg ablakokat, melyek helyi történeteket mesélnek el.",
+            "ro": "Observați vitraliile frumoase care povestesc istorii locale.",
+            "en": "Look for the beautiful stained-glass windows depicting local stories."
+          }
+        },
+        {
+          "name": {
+            "de": "Oriel House",
+            "hu": "Oriel House",
+            "ro": "Casa Oriel",
+            "en": "Oriel House"
+          },
+          "coords": [
+            -8.579,
+            51.8895
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:04",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Obwohl es ein Hotel ist, bewundern Sie die historische Fassade von außen.",
+            "hu": "Bár szálloda, csodálja meg a történelmi homlokzatot kívülről.",
+            "ro": "Deși este un hotel, admirați fațada istorică din exterior.",
+            "en": "Even though it's a hotel, admire the historic facade from the outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Ballincollig Schießpulverfabriken",
+            "hu": "Ballincolligi Lőporgyár",
+            "ro": "Fabrica de praf de pușcă Ballincollig",
+            "en": "Ballincollig Gunpowder Mills"
+          },
+          "coords": [
+            -8.601,
+            51.887
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:05",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil, um die komplette Geschichte dieses Ortes zu erfahren.",
+            "hu": "Vegyen részt egy vezetett túrán, hogy megismerje a hely teljes történetét.",
+            "ro": "Participați la un tur ghidat pentru a afla istoria completă a acestui sit.",
+            "en": "Join a guided tour to get the full history of this extensive site."
+          }
+        },
+        {
+          "name": {
+            "de": "Regionalpark Ballincollig",
+            "hu": "Ballincolligi Regionális Park",
+            "ro": "Parcul Regional Ballincollig",
+            "en": "Ballincollig Regional Park"
+          },
+          "coords": [
+            -8.608,
+            51.8865
+          ],
+          "category": "parks",
+          "arrive_at": "13:50",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Perfekt für ein Mittagspicknick. Viele Bänke mit Blick auf den Fluss Lee.",
+            "hu": "Tökéletes egy ebédpiknikhez. Sok pad található a Lee folyóra néző kilátással.",
+            "ro": "Perfect pentru un picnic la prânz. Există multe bănci cu vedere la râul Lee.",
+            "en": "Perfect for a midday picnic. Lots of benches with views of the River Lee."
+          }
+        },
+        {
+          "name": {
+            "de": "Brücke über den Fluss Lee",
+            "hu": "Híd a Lee folyón",
+            "ro": "Pod peste râul Lee",
+            "en": "Bridge over the River Lee"
+          },
+          "coords": [
+            -8.622,
+            51.885
+          ],
+          "category": "bridges",
+          "arrive_at": "16:20",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort, um den Tag ausklingen zu lassen und den Fluss zu beobachten.",
+            "hu": "Egy csendes hely a nap lezárásához és a folyó megfigyeléséhez.",
+            "ro": "Un loc liniștit pentru a încheia ziua și a privi râul.",
+            "en": "A peaceful spot to end the day, watching the river flow by."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer Reise in die Vergangenheit bei der Burgruine Ballincollig. Spazieren Sie mittags durch das Stadtzentrum, vorbei an der Kirche und dem historischen Oriel House. Der Nachmittag ist dem industriellen Erbe der Schießpulverfabriken und der natürlichen Schönheit des Regionalparks gewidmet. Beenden Sie Ihren Tag mit einem friedlichen Moment an der Brücke über den Fluss Lee, während die Sonne untergeht.",
+        "hu": "Kezdje a napot egy utazással a múltba a Ballincollig vár romjainál. Délben sétáljon át a városközponton, elhaladva a templom és a történelmi Oriel House mellett. A délutánt a lőporgyár ipari örökségének és a regionális park természeti szépségének szentelje. Zárja a napot egy békés pillanattal a Lee folyó hídjánál, ahogy a nap lemegy.",
+        "ro": "Începeți ziua cu o călătorie înapoi în timp la ruinele castelului Ballincollig. La amiază, plimbați-vă prin centrul orașului, trecând pe lângă biserică și istorica Casă Oriel. După-amiaza este dedicată moștenirii industriale a Fabricii de Praf de Pușcă și frumuseții naturale a Parcului Regional. Încheiați-vă ziua cu un moment de liniște la podul peste râul Lee, la apusul soarelui.",
+        "en": "Start your day with a trip back in time at Ballincollig Castle's ruins. At midday, stroll through the town centre, passing the church and the historic Oriel House. The afternoon is dedicated to the industrial heritage of the Gunpowder Mills and the natural beauty of the Regional Park. End your day with a peaceful moment at the bridge over the River Lee as the sun sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The White Horse",
+            "tip": "Ein traditioneller Pub, der für sein herzhaftes irisches Eintopfgericht und Live-Musik bekannt ist."
+          },
+          {
+            "name": "Good for the Soul",
+            "tip": "Ein gemütliches Café, ideal für ein komplettes irisches Frühstück oder ein leichtes Mittagessen."
+          },
+          {
+            "name": "The Oriel House Hotel",
+            "tip": "Probieren Sie ihren Nachmittagstee für ein gehobenes Erlebnis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The White Horse",
+            "tip": "Hagyományos pub, amely kiadós ír pörköltjéről és élő zenéjéről ismert."
+          },
+          {
+            "name": "Good for the Soul",
+            "tip": "Egy hangulatos kávézó, ideális egy teljes ír reggelihez vagy egy könnyű ebédhez."
+          },
+          {
+            "name": "The Oriel House Hotel",
+            "tip": "Próbálja ki a délutáni teájukat egy elegánsabb élményért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The White Horse",
+            "tip": "Un pub tradițional cunoscut pentru tocănița irlandeză consistentă și muzica live."
+          },
+          {
+            "name": "Good for the Soul",
+            "tip": "O cafenea primitoare, ideală pentru un mic dejun irlandez complet sau un prânz ușor."
+          },
+          {
+            "name": "The Oriel House Hotel",
+            "tip": "Încercați ceaiul lor de după-amiază pentru o experiență mai rafinată."
+          }
+        ],
+        "en": [
+          {
+            "name": "The White Horse",
+            "tip": "A traditional pub known for its hearty Irish stew and live music."
+          },
+          {
+            "name": "Good for the Soul",
+            "tip": "A cozy café perfect for a full Irish breakfast or a light lunch."
+          },
+          {
+            "name": "The Oriel House Hotel",
+            "tip": "Try their afternoon tea for a more upscale experience."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Flussuferweg im Regionalpark",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses Lee, abseits der belebteren Parkbereiche.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten der St. Mary & St. John's Church",
+            "tip": "Eine kleine, friedliche Grünfläche, perfekt für einen Moment der Besinnung.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sonnenuntergang am Wehr",
+            "tip": "Beobachten Sie, wie die Farben des Himmels sich im Wasser spiegeln.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Folyóparti ösvény a Regionális Parkban",
+            "tip": "Csendes séta a Lee folyó mentén, távol a park forgalmasabb részeitől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent Mária és Szent János templom kertje",
+            "tip": "Egy kis, békés zöld terület, tökéletes egy pillanatnyi elmélkedésre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Naplemente a gátnál",
+            "tip": "Nézze, ahogy az ég színei visszatükröződnek a vízen.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cărarea de pe malul râului în Parcul Regional",
+            "tip": "O plimbare liniștită de-a lungul râului Lee, departe de zonele mai aglomerate ale parcului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Bisericii Sf. Maria și Sf. Ioan",
+            "tip": "Un mic spațiu verde pașnic, perfect pentru un moment de reflecție.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Apus de soare la baraj",
+            "tip": "Priviți culorile cerului reflectându-se în apă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Riverbank path in the Regional Park",
+            "tip": "A quiet walk along the River Lee, away from the busier park areas.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. Mary & St. John's Church Gardens",
+            "tip": "A small, peaceful green space perfect for a moment of contemplation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sunset by the Weir",
+            "tip": "Watch the colours of the sky reflect in the water.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ballincollig Farmers Market",
+            "tip": "Finden Sie lokale Produkte, Kunsthandwerk und Backwaren. Mittwochs geöffnet."
+          },
+          {
+            "name": "Main Street Geschäfte",
+            "tip": "Erkunden Sie die kleinen, unabhängigen Geschäfte für einzigartige Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ballincolligi Termelői Piac",
+            "tip": "Keressen helyi termékeket, kézműves árukat és pékárut. Szerdánként tart nyitva."
+          },
+          {
+            "name": "Főutcai üzletek",
+            "tip": "Fedezze fel a kis, független boltokat egyedi szuvenírekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Agricolă Ballincollig",
+            "tip": "Găsiți produse locale, artizanat și produse de patiserie. Deschisă miercurea."
+          },
+          {
+            "name": "Magazinele de pe strada principală",
+            "tip": "Explorați micile magazine independente pentru suveniruri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ballincollig Farmers Market",
+            "tip": "Find local produce, crafts, and baked goods. Open on Wednesdays."
+          },
+          {
+            "name": "Main Street Shops",
+            "tip": "Explore the small, independent shops for unique souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Ein leichter Regenmantel ist immer eine gute Idee in Irland, auch an sonnigen Tagen.",
+          "Nehmen Sie Wasser und Snacks für den langen Spaziergang durch den Park mit.",
+          "Überprüfen Sie die Öffnungszeiten für das Schloss und die Schießpulverfabriken im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Egy könnyű esőkabát mindig jó ötlet Írországban, még napos napokon is.",
+          "Vigyen magával vizet és harapnivalót a hosszú parki sétához.",
+          "Előre ellenőrizze a vár és a lőporgyár nyitvatartási idejét."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "O pelerină de ploaie ușoară este întotdeauna o idee bună în Irlanda, chiar și în zilele insorite.",
+          "Luați apă și gustări pentru plimbarea lungă prin parc.",
+          "Verificați în avans orele de deschidere pentru castel și fabricile de praf de pușcă."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "A light raincoat is always a good idea in Ireland, even on sunny days.",
+          "Bring water and snacks for the long walk through the park.",
+          "Check opening times for the castle and gunpowder mills in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ballincollig Schießpulverfabriken",
+            "hu": "Ballincolligi Lőporgyár",
+            "ro": "Fabrica de praf de pușcă Ballincollig",
+            "en": "Ballincollig Gunpowder Mills"
+          },
+          "coords": [
+            -8.601,
+            51.887
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Eingang ab und erkunden Sie das riesige Gelände zu Fuß.",
+            "hu": "Zárja le a biciklijét a bejáratnál, és fedezze fel a hatalmas területet gyalog.",
+            "ro": "Legați-vă bicicleta la intrare și explorați situl vast pe jos.",
+            "en": "Lock your bike at the entrance and explore the vast site on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Regionalpark Ballincollig",
+            "hu": "Ballincolligi Regionális Park",
+            "ro": "Parcul Regional Ballincollig",
+            "en": "Ballincollig Regional Park"
+          },
+          "coords": [
+            -8.608,
+            51.8865
+          ],
+          "category": "parks",
+          "arrive_at": "10:46",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Es gibt viele Radwege im Park, die eine gemütliche Fahrt ermöglichen.",
+            "hu": "A parkban számos kerékpárút található, amelyek kellemes tekerést tesznek lehetővé.",
+            "ro": "Există o mulțime de piste de biciclete în parc pentru o plimbare relaxantă.",
+            "en": "There are plenty of cycle paths within the park for a leisurely ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Brücke über den Fluss Lee",
+            "hu": "Híd a Lee folyón",
+            "ro": "Pod peste râul Lee",
+            "en": "Bridge over the River Lee"
+          },
+          "coords": [
+            -8.622,
+            51.885
+          ],
+          "category": "bridges",
+          "arrive_at": "12:10",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein guter Fotostopp auf Ihrer Radtour.",
+            "hu": "Jó fotómegálló a biciklitúrádon.",
+            "ro": "O oprire bună pentru fotografii în turul cu bicicleta.",
+            "en": "A good photo stop on your bike tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Burgruine Ballincollig",
+            "hu": "A Ballincollig vár romjai",
+            "ro": "Ruinele castelului Ballincollig",
+            "en": "Ballincollig Castle"
+          },
+          "coords": [
+            -8.5855,
+            51.8892
+          ],
+          "category": "castles",
+          "arrive_at": "13:00",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Fahrt vom Park zum Schloss, die Ihnen eine andere Perspektive der Stadt bietet.",
+            "hu": "Élvezze az utat a parktól a kastélyig, amely a város egy másik perspektíváját nyújtja.",
+            "ro": "Bucurați-vă de plimbarea de la parc la castel, oferindu-vă o perspectivă diferită a orașului.",
+            "en": "Enjoy the ride from the park to the castle, giving a different perspective of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Maria & St. Johannes",
+            "hu": "Szent Mária és Szent János templom",
+            "ro": "Biserica Sf. Maria și Sf. Ioan",
+            "en": "St. Mary & St. John's Church"
+          },
+          "coords": [
+            -8.582,
+            51.8885
+          ],
+          "category": "churches",
+          "arrive_at": "14:05",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Ort der Ruhe nach einer langen Radtour.",
+            "hu": "A nyugalom helye egy hosszú biciklizés után.",
+            "ro": "Un loc de liniște după o plimbare lungă cu bicicleta.",
+            "en": "A place of tranquility after a long bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Oriel House",
+            "hu": "Oriel House",
+            "ro": "Casa Oriel",
+            "en": "Oriel House"
+          },
+          "coords": [
+            -8.579,
+            51.8895
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:50",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour hier mit einem wohlverdienten Kaffee oder Tee.",
+            "hu": "Fejezze be a túrát itt egy jól megérdemelt kávéval vagy teával.",
+            "ro": "Încheiați-vă turul aici cu o cafea sau un ceai binemeritat.",
+            "en": "End your tour here with a well-deserved coffee or tea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour bei den historischen Schießpulverfabriken. Erkunden Sie am Vormittag die weitläufigen Wege des Regionalparks und machen Sie Halt an der Lee-Brücke. Nach dem Mittagessen radeln Sie ins Stadtzentrum, um die Burg, die Kirche und das Oriel House zu besichtigen. Diese Route verbindet industrielle Geschichte mit städtischem Charme und bietet eine großartige Möglichkeit, die Vielfalt von Ballincollig zu sehen.",
+        "hu": "Kezdje a biciklitúrát a történelmi lőporgyárnál. Délelőtt fedezze fel a regionális park kiterjedt ösvényeit, megállva a Lee hídjánál. Ebéd után tekerjen be a városközpontba, hogy megnézze a várat, a templomot és az Oriel House-t. Ez az útvonal ötvözi az ipari történelmet a városi bájjal, nagyszerű módot kínálva Ballincollig sokszínűségének megismerésére.",
+        "ro": "Începeți turul cu bicicleta la istorica Fabrică de Praf de Pușcă. Dimineața, explorați potecile extinse ale Parcului Regional, oprindu-vă la podul Lee. După prânz, pedalați spre centrul orașului pentru a vedea castelul, biserica și Casa Oriel. Acest traseu combină istoria industrială cu farmecul urban, o modalitate excelentă de a vedea diversitatea din Ballincollig.",
+        "en": "Kick off your bike tour at the historic Gunpowder Mills. In the morning, explore the extensive paths of the Regional Park, stopping at the Lee bridge. After lunch, cycle into the town centre to see the castle, church, and Oriel House. This route blends industrial history with urban charm, a great way to see the diversity of Ballincollig."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Angler's",
+            "tip": "Ein gastfreundlicher Pub mit einem tollen Biergarten, perfekt für eine Stärkung nach der Radtour."
+          },
+          {
+            "name": "The Reel Picture",
+            "tip": "In der Nähe gibt es viele Take-away-Optionen, ideal für ein schnelles Mittagessen."
+          },
+          {
+            "name": "Myo Cafe",
+            "tip": "Gesunde Salate und Sandwiches, die Energie für den Rest der Fahrt geben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Angler's",
+            "tip": "Barátságos pub nagyszerű sörkerttel, tökéletes egy biciklizés utáni feltöltődéshez."
+          },
+          {
+            "name": "The Reel Picture",
+            "tip": "A közelben számos elviteles lehetőség található, ideális egy gyors ebédhez."
+          },
+          {
+            "name": "Myo Cafe",
+            "tip": "Egészséges saláták és szendvicsek, amelyek energiát adnak a tekerés hátralévő részére."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Angler's",
+            "tip": "Un pub primitor cu o grădină de bere grozavă, perfect pentru a vă realimenta după plimbare."
+          },
+          {
+            "name": "The Reel Picture",
+            "tip": "În apropiere există multe opțiuni de luat la pachet, perfecte pentru un prânz rapid."
+          },
+          {
+            "name": "Myo Cafe",
+            "tip": "Salate sănătoase și sandvișuri pentru a vă energiza pentru restul plimbării."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Angler's",
+            "tip": "A welcoming pub with a great beer garden, perfect for refueling after your ride."
+          },
+          {
+            "name": "The Reel Picture",
+            "tip": "Nearby are many takeaway options, perfect for a quick lunch."
+          },
+          {
+            "name": "Myo Cafe",
+            "tip": "Healthy salads and sandwiches to energize you for the rest of the ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Versteckte Wege im Regionalpark",
+            "tip": "Nehmen Sie die weniger befahrenen Wege für eine friedliche Fahrt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bänke am Fluss Lee",
+            "tip": "Machen Sie eine Pause und lauschen Sie dem Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Am frühen Morgen bei der Burg",
+            "tip": "Besuchen Sie die Burg früh, um die Menschenmassen zu vermeiden und die Ruhe zu genießen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rejtett ösvények a Regionális Parkban",
+            "tip": "Válassza a kevésbé járt utakat egy békés tekeréshez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Padok a Lee folyó partján",
+            "tip": "Tartson egy szünetet és hallgassa a vizet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kora reggel a várnál",
+            "tip": "Látogasson el korán a várhoz, hogy elkerülje a tömeget és élvezze a csendet.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poteci ascunse în Parcul Regional",
+            "tip": "Luați cărările mai puțin circulate pentru o plimbare pașnică.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bănci lângă râul Lee",
+            "tip": "Luați o pauză și ascultați apa.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dimineața devreme la castel",
+            "tip": "Vizitați devreme pentru a evita mulțimile și a vă bucura de liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hidden paths in the Regional Park",
+            "tip": "Take the lesser-traveled paths for a peaceful ride.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Benches by the River Lee",
+            "tip": "Take a break and listen to the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Early morning at the castle",
+            "tip": "Visit early to avoid the crowds and enjoy the quiet.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Popsicle",
+            "tip": "Ein Geschenkeladen mit einer Auswahl an irischem Design und Kunsthandwerk."
+          },
+          {
+            "name": "Quish's SuperValu",
+            "tip": "Holen Sie sich lokale Snacks und Getränke für Ihre Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Popsicle",
+            "tip": "Ajándékbolt, ahol ír dizájn és kézműves termékek választékát találja."
+          },
+          {
+            "name": "Quish's SuperValu",
+            "tip": "Szerezzen be helyi harapnivalókat és italokat a biciklitúrához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Popsicle",
+            "tip": "Un magazin de cadouri cu o selecție de design și artizanat irlandez."
+          },
+          {
+            "name": "Quish's SuperValu",
+            "tip": "Luați gustări și băuturi locale pentru plimbarea cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Popsicle",
+            "tip": "A gift shop with a selection of Irish design and crafts."
+          },
+          {
+            "name": "Quish's SuperValu",
+            "tip": "Pick up some local snacks and drinks for your bike ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Stellen Sie sicher, dass Ihr Fahrrad in gutem Zustand ist. Es gibt einige Hügel.",
+          "Tragen Sie einen Helm und gut sichtbare Kleidung.",
+          "Nehmen Sie ein gutes Schloss mit, um Ihr Fahrrad an den Haltestellen sicher abzustellen.",
+          "Planen Sie Ihre Route im Voraus, aber seien Sie flexibel."
+        ],
+        "hu": [
+          "Győződjön meg róla, hogy a biciklije jó állapotban van. Van néhány emelkedő.",
+          "Viseljen sisakot és jól látható ruházatot.",
+          "Vigyen magával egy jó lakatot, hogy biztonságban lezárhassa a biciklijét a megállóknál.",
+          "Tervezze meg előre az útvonalát, de legyen rugalmas."
+        ],
+        "ro": [
+          "Asigurați-vă că bicicleta este în stare bună. Există câteva dealuri.",
+          "Purtați cască și haine vizibile.",
+          "Aduceți un lacăt bun pentru a vă asigura bicicleta la opriri.",
+          "Planificați-vă traseul în avans, dar fiți flexibil."
+        ],
+        "en": [
+          "Make sure your bike is in good condition; there are some hills.",
+          "Wear a helmet and high-visibility clothing.",
+          "Bring a good lock to secure your bike at stops.",
+          "Plan your route in advance, but be flexible."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 6.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ballincollig Schießpulverfabriken",
+            "hu": "Ballincolligi Lőporgyár",
+            "ro": "Fabrica de praf de pușcă Ballincollig",
+            "en": "Ballincollig Gunpowder Mills"
+          },
+          "coords": [
+            -8.601,
+            51.887
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier. Das Gelände ist groß, planen Sie also genügend Zeit für die Erkundung zu Fuß ein.",
+            "hu": "Parkoljon itt. A terület nagy, ezért szánjon elegendő időt a gyalogos felfedezésre.",
+            "ro": "Parcați aici. Situl este mare, așa că alocați suficient timp pentru explorarea pe jos.",
+            "en": "Park here. The site is large, so allow plenty of time for exploring on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Regionalpark Ballincollig",
+            "hu": "Ballincolligi Regionális Park",
+            "ro": "Parcul Regional Ballincollig",
+            "en": "Ballincollig Regional Park"
+          },
+          "coords": [
+            -8.608,
+            51.8865
+          ],
+          "category": "parks",
+          "arrive_at": "10:45",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von den Fabriken. Die Wege verbinden beide Attraktionen.",
+            "hu": "Rövid séta a gyáraktól. Az ösvények összekötik a két látnivalót.",
+            "ro": "O scurtă plimbare de la fabrici. Cărările leagă ambele atracții.",
+            "en": "A short walk from the mills. The paths connect both attractions."
+          }
+        },
+        {
+          "name": {
+            "de": "Brücke über den Fluss Lee",
+            "hu": "Híd a Lee folyón",
+            "ro": "Pod peste râul Lee",
+            "en": "Bridge over the River Lee"
+          },
+          "coords": [
+            -8.61,
+            51.885
+          ],
+          "category": "bridges",
+          "arrive_at": "12:03",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Leicht zu Fuß vom Hauptparkplatz der Fabriken erreichbar.",
+            "hu": "Könnyen megközelíthető gyalog a gyárak fő parkolójából.",
+            "ro": "Ușor accesibil pe jos de la parcarea principală a fabricilor.",
+            "en": "Easily walkable from the main mills car park."
+          }
+        },
+        {
+          "name": {
+            "de": "Burgruine Ballincollig",
+            "hu": "A Ballincollig vár romjai",
+            "ro": "Ruinele castelului Ballincollig",
+            "en": "Ballincollig Castle"
+          },
+          "coords": [
+            -8.5855,
+            51.8892
+          ],
+          "category": "castles",
+          "arrive_at": "12:35",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Stadtzentrum und finden Sie einen Parkplatz. Das Schloss ist Ihr erster Halt in diesem Cluster.",
+            "hu": "Vezessen a városközpontba és keressen parkolóhelyet. A vár az első megálló ebben a klaszterben.",
+            "ro": "Conduceți spre centrul orașului și găsiți o parcare. Castelul este prima oprire în acest grup.",
+            "en": "Drive to the town centre and find parking. The castle is your first stop in this cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Maria & St. Johannes",
+            "hu": "Szent Mária és Szent János templom",
+            "ro": "Biserica Sf. Maria și Sf. Ioan",
+            "en": "St. Mary & St. John's Church"
+          },
+          "coords": [
+            -8.582,
+            51.8885
+          ],
+          "category": "churches",
+          "arrive_at": "13:43",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer, angenehmer Spaziergang vom Schloss entfernt.",
+            "hu": "Rövid, kellemes séta a vártól.",
+            "ro": "O scurtă plimbare plăcută de la castel.",
+            "en": "A short, pleasant walk from the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Oriel House",
+            "hu": "Oriel House",
+            "ro": "Casa Oriel",
+            "en": "Oriel House"
+          },
+          "coords": [
+            -8.579,
+            51.8895
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:29",
+          "stay_min": 121,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur, bevor Sie für ein spätes Mittagessen oder einen Nachmittagstee einkehren.",
+            "hu": "Csodálja meg az építészetet, mielőtt betérne egy késői ebédre vagy délutáni teára.",
+            "ro": "Admirați arhitectura înainte de a intra pentru un prânz târziu sau un ceai de după-amiază.",
+            "en": "Admire the architecture before heading inside for a late lunch or afternoon tea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens direkt zu den Schießpulverfabriken und zum Regionalpark. Nachdem Sie diesen weitläufigen historischen und natürlichen Bereich erkundet haben, fahren Sie ins Stadtzentrum. Parken Sie Ihr Auto und verbringen Sie den Nachmittag damit, die Burg, die Kirche und das Oriel House zu Fuß zu erkunden, und genießen Sie die kompakte historische Atmosphäre. Dieser Plan minimiert das Fahren und maximiert das Erlebnis.",
+        "hu": "Reggel vezessen közvetlenül a lőporgyárhoz és a regionális parkhoz. Miután felfedezte ezt a kiterjedt történelmi és természeti területet, vezessen be a városközpontba. Parkolja le az autóját, és töltse a délutánt a vár, a templom és az Oriel House gyalogos felfedezésével, élvezve a kompakt történelmi hangulatot. Ez a terv minimalizálja a vezetést és maximalizálja az élményt.",
+        "ro": "Dimineața, conduceți direct la Fabricile de Praf de Pușcă și la Parcul Regional. După ce explorați această vastă zonă istorică și naturală, conduceți spre centrul orașului. Parcați-vă mașina și petreceți după-amiaza explorând pe jos castelul, biserica și Casa Oriel, bucurându-vă de atmosfera istorică compactă. Acest plan minimizează condusul și maximizează experiența.",
+        "en": "In the morning, drive directly to the Gunpowder Mills and Regional Park cluster. After exploring this vast historical and natural area, drive to the town centre. Park your car and spend the afternoon exploring the castle, church, and Oriel House on foot, enjoying the compact historic atmosphere. This plan minimises driving and maximises experience."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Oriel Restaurant",
+            "tip": "Ein gehobenes kulinarisches Erlebnis im historischen Oriel House. Reservierung empfohlen."
+          },
+          {
+            "name": "Tampopo",
+            "tip": "Wenn Sie Lust auf etwas anderes haben, bietet dieses Restaurant ausgezeichnete asiatische Küche."
+          },
+          {
+            "name": "The Real Olive Company",
+            "tip": "Holen Sie sich Delikatessen für ein Picknick im Regionalpark."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Oriel Restaurant",
+            "tip": "Elegáns étkezési élmény a történelmi Oriel House-ban. Asztalfoglalás ajánlott."
+          },
+          {
+            "name": "Tampopo",
+            "tip": "Ha valami másra vágyik, ez az étterem kiváló ázsiai ételeket kínál."
+          },
+          {
+            "name": "The Real Olive Company",
+            "tip": "Szerezzen be finomságokat egy piknikhez a Regionális Parkban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul Oriel",
+            "tip": "O experiență culinară rafinată în istorica Casă Oriel. Se recomandă rezervare."
+          },
+          {
+            "name": "Tampopo",
+            "tip": "Dacă aveți poftă de ceva diferit, acest restaurant oferă o bucătărie asiatică excelentă."
+          },
+          {
+            "name": "The Real Olive Company",
+            "tip": "Luați niște delicatese pentru un picnic în Parcul Regional."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Oriel Restaurant",
+            "tip": "An upscale dining experience within the historic Oriel House. Reservations recommended."
+          },
+          {
+            "name": "Tampopo",
+            "tip": "If you're in the mood for something different, this restaurant offers excellent Asian cuisine."
+          },
+          {
+            "name": "The Real Olive Company",
+            "tip": "Pick up some delicatessen items for a picnic in the Regional Park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Die Kanäle der Schießpulverfabriken",
+            "tip": "Folgen Sie den alten Wasserwegen für einen einzigartigen und ruhigen Spaziergang.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick vom Burgturm",
+            "tip": "Wenn zugänglich, bietet er einen ruhigen Blick über die Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ein ruhiger Tisch im Café",
+            "tip": "Genießen Sie nach Ihrem Spaziergang durch die Stadt eine Tasse Tee in Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A lőporgyár csatornái",
+            "tip": "Kövesse a régi vízi utakat egy egyedi és csendes sétáért.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a vártoronyból",
+            "tip": "Ha látogatható, csendes kilátást nyújt a városra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy csendes asztal egy kávézóban",
+            "tip": "Élvezzen egy csésze teát békében a városi séta után.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Canalele Fabricii de Praf de Pușcă",
+            "tip": "Urmați vechile căi navigabile pentru o plimbare unică și liniștită.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere din turnul castelului",
+            "tip": "Dacă este accesibil, oferă o priveliște liniștită asupra orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O masă liniștită la o cafenea",
+            "tip": "Bucurați-vă de o ceașcă de ceai în liniște după plimbarea prin oraș.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "The Gunpowder Mills Canals",
+            "tip": "Follow the old waterways for a unique and quiet walk.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the Castle Tower",
+            "tip": "If accessible, it offers a quiet viewpoint over the town.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A quiet table at a café",
+            "tip": "Enjoy a cup of tea in peace after your town walk.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Castlewest Shopping Centre",
+            "tip": "Ein moderneres Einkaufszentrum für alle wichtigen Bedürfnisse."
+          },
+          {
+            "name": "Geschenkeladen im Oriel House",
+            "tip": "Finden Sie elegante Souvenirs und Erinnerungsstücke an Ihren Besuch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Castlewest Bevásárlóközpont",
+            "tip": "Egy modernebb bevásárlóközpont minden alapvető szükséglethez."
+          },
+          {
+            "name": "Ajándékbolt az Oriel House-ban",
+            "tip": "Találjon elegáns szuveníreket és emléktárgyakat a látogatásáról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Castlewest",
+            "tip": "Un centru comercial mai modern pentru orice nevoi esențiale."
+          },
+          {
+            "name": "Magazinul de cadouri Oriel House",
+            "tip": "Găsiți suveniruri elegante și amintiri ale vizitei dumneavoastră."
+          }
+        ],
+        "en": [
+          {
+            "name": "Castlewest Shopping Centre",
+            "tip": "A more modern shopping centre for any essential needs."
+          },
+          {
+            "name": "Oriel House Gift Shop",
+            "tip": "Find elegant souvenirs and mementos of your visit."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten und -gebühren im Stadtzentrum im Voraus.",
+          "Die Schießpulverfabriken haben einen großen Parkplatz, der ein guter Ausgangspunkt ist.",
+          "Lassen Sie keine Wertsachen im Auto sichtbar liegen.",
+          "Kombinieren Sie Ihren Besuch mit einer kurzen Fahrt in die umliegende Landschaft von Cork, wenn Sie Zeit haben."
+        ],
+        "hu": [
+          "Előre ellenőrizze a parkolási lehetőségeket és díjakat a városközpontban.",
+          "A lőporgyárnak nagy parkolója van, ami jó kiindulópont.",
+          "Ne hagyjon értéktárgyakat látható helyen az autóban.",
+          "Ha van ideje, kösse össze a látogatást egy rövid autózással a környező Cork vidékén."
+        ],
+        "ro": [
+          "Verificați în avans opțiunile de parcare și taxele din centrul orașului.",
+          "Fabricile de praf de pușcă au o parcare mare, care este un bun punct de plecare.",
+          "Nu lăsați obiecte de valoare la vedere în mașină.",
+          "Combinați vizita cu o scurtă plimbare cu mașina în peisajul rural din jur, dacă aveți timp."
+        ],
+        "en": [
+          "Check parking options and fees in the town centre in advance.",
+          "The Gunpowder Mills have a large car park, which is a good starting base.",
+          "Don't leave valuables visible in your car.",
+          "Combine your visit with a short drive into the surrounding Cork countryside if you have time."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 5.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Oriel House",
+            "hu": "Oriel House",
+            "ro": "Casa Oriel",
+            "en": "Oriel House"
+          },
+          "coords": [
+            -8.579,
+            51.8895
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie hier, in der Nähe einer Hauptbushaltestelle an der Main Street.",
+            "hu": "Kezdje itt, a Fő utca egyik fő buszmegállójának közelében.",
+            "ro": "Începeți aici, aproape de o stație de autobuz principală de pe Main Street.",
+            "en": "Start here, near a main bus stop on Main Street."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Maria & St. Johannes",
+            "hu": "Szent Mária és Szent János templom",
+            "ro": "Biserica Sf. Maria și Sf. Ioan",
+            "en": "St. Mary & St. John's Church"
+          },
+          "coords": [
+            -8.582,
+            51.8885
+          ],
+          "category": "churches",
+          "arrive_at": "09:36",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Hauptstraße entfernt.",
+            "hu": "Rövid séta a Fő utcától.",
+            "ro": "O scurtă plimbare de la strada principală.",
+            "en": "A brief walk from the main street."
+          }
+        },
+        {
+          "name": {
+            "de": "Burgruine Ballincollig",
+            "hu": "A Ballincollig vár romjai",
+            "ro": "Ruinele castelului Ballincollig",
+            "en": "Ballincollig Castle"
+          },
+          "coords": [
+            -8.5855,
+            51.8892
+          ],
+          "category": "castles",
+          "arrive_at": "10:24",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der letzte Halt im Stadtzentrum, bevor Sie den Bus zum Park nehmen.",
+            "hu": "Az utolsó megálló a városközpontban, mielőtt buszra szállna a park felé.",
+            "ro": "Ultima oprire în centrul orașului înainte de a lua autobuzul spre parc.",
+            "en": "The last stop in the town centre cluster before you catch a bus to the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Ballincollig Schießpulverfabriken",
+            "hu": "Ballincolligi Lőporgyár",
+            "ro": "Fabrica de praf de pușcă Ballincollig",
+            "en": "Ballincollig Gunpowder Mills"
+          },
+          "coords": [
+            -8.601,
+            51.887
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:44",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in Richtung Westen. Die Haltestelle befindet sich in der Nähe des Eingangs zum Park.",
+            "hu": "Szálljon fel egy nyugat felé tartó buszra. A megálló a park bejáratának közelében van.",
+            "ro": "Luați un autobuz spre vest. Stația este aproape de intrarea în parc.",
+            "en": "Take a westbound bus. The stop is near the entrance to the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Regionalpark Ballincollig",
+            "hu": "Ballincolligi Regionális Park",
+            "ro": "Parcul Regional Ballincollig",
+            "en": "Ballincollig Regional Park"
+          },
+          "coords": [
+            -8.608,
+            51.8865
+          ],
+          "category": "parks",
+          "arrive_at": "13:49",
+          "stay_min": 156,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Verbringen Sie den Rest Ihres Nachmittags hier und genießen Sie ein Picknick und die Natur.",
+            "hu": "Töltse itt a délután hátralévő részét, piknikezzen és élvezze a természetet.",
+            "ro": "Petreceți restul după-amiezii aici, bucurându-vă de un picnic și de natură.",
+            "en": "Spend the rest of your afternoon here, enjoying a picnic and the nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im leicht erreichbaren Stadtzentrum. Erkunden Sie vormittags die Sehenswürdigkeiten rund um die Main Street zu Fuß. Nach dem Mittagessen bringt Sie eine kurze Busfahrt zum weitläufigen Gelände der Schießpulverfabriken und des Regionalparks. Verbringen Sie den Nachmittag in dieser grünen Oase, bevor Sie den Bus zurück ins Zentrum oder nach Cork nehmen. So können Sie beide Seiten von Ballincollig ohne Auto erleben.",
+        "hu": "Kezdje a napot a könnyen megközelíthető városközpontban. Délelőtt fedezze fel gyalog a Fő utca körüli látnivalókat. Ebéd után egy rövid buszút elviszi a lőporgyár és a regionális park hatalmas területére. Töltse a délutánt ebben a zöld oázisban, mielőtt visszabuszozna a központba vagy Corkba. Így autó nélkül is megtapasztalhatja Ballincollig mindkét oldalát.",
+        "ro": "Începeți ziua în centrul orașului, ușor accesibil. Explorați obiectivele turistice din jurul Main Street pe jos în timpul dimineții. După prânz, o scurtă călătorie cu autobuzul vă va duce la terenurile extinse ale Fabricii de Praf de Pușcă și ale Parcului Regional. Petreceți după-amiaza în această oază de verdeață înainte de a lua autobuzul înapoi spre centru sau spre Cork. Acest lucru vă permite să experimentați ambele părți ale Ballincollig fără mașină.",
+        "en": "Start your day in the easily accessible town centre. Explore the sights around Main Street on foot during the morning. After lunch, a short bus ride will take you to the expansive grounds of the Gunpowder Mills and Regional Park. Spend the afternoon in this green oasis before catching a bus back to the centre or on to Cork. This allows you to experience both sides of Ballincollig without a car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Traditional Irish Bakery",
+            "tip": "Holen Sie sich ein warmes Wurstbrötchen oder ein Gebäck für ein schnelles Frühstück."
+          },
+          {
+            "name": "Sliced",
+            "tip": "Bietet Sandwiches und Salate zum Mitnehmen an, die Sie im Park essen können."
+          },
+          {
+            "name": "The Time Square",
+            "tip": "Ein beliebter Ort für ein preiswertes und leckeres Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Traditional Irish Bakery",
+            "tip": "Vegyen egy meleg kolbászos tekercset vagy péksüteményt egy gyors reggelihez."
+          },
+          {
+            "name": "Sliced",
+            "tip": "Elviteles szendvicseket és salátákat kínál, amelyeket megehet a parkban."
+          },
+          {
+            "name": "The Time Square",
+            "tip": "Népszerű hely egy olcsó és finom ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Traditional Irish Bakery",
+            "tip": "Luați un rulou cald cu cârnați sau un produs de patiserie pentru un mic dejun rapid."
+          },
+          {
+            "name": "Sliced",
+            "tip": "Oferă sandvișuri și salate la pachet pentru a le mânca în parc."
+          },
+          {
+            "name": "The Time Square",
+            "tip": "Un loc popular pentru un prânz delicios și la prețuri accesibile."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Traditional Irish Bakery",
+            "tip": "Grab a warm sausage roll or a pastry for a quick breakfast."
+          },
+          {
+            "name": "Sliced",
+            "tip": "Offers takeaway sandwiches and salads to eat in the park."
+          },
+          {
+            "name": "The Time Square",
+            "tip": "A popular spot for a reasonably priced and tasty lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Oberdeck des Busses",
+            "tip": "Genießen Sie die Aussicht, während Sie zwischen den Clustern reisen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eine Bank in der Nähe der ehemaligen Militärkasernen",
+            "tip": "Ein ruhiger Ort, um über die Geschichte der Stadt nachzudenken.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Leseecke im Park",
+            "tip": "Bringen Sie ein Buch mit und finden Sie einen abgelegenen Platz zum Entspannen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A busz emelete",
+            "tip": "Élvezze a kilátást, miközben a klaszterek között utazik.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy pad a volt laktanya közelében",
+            "tip": "Csendes hely a város történelmén való elmélkedésre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Olvasósarok a parkban",
+            "tip": "Hozzon magával egy könyvet, és keressen egy félreeső helyet a pihenésre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Puntea superioară a autobuzului",
+            "tip": "Bucurați-vă de priveliști în timp ce călătoriți între grupuri.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O bancă lângă fosta cazarmă militară",
+            "tip": "Un loc liniștit pentru a reflecta asupra istoriei orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Colț de lectură în parc",
+            "tip": "Aduceți o carte și găsiți un loc retras pentru a vă relaxa.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Top deck of the bus",
+            "tip": "Enjoy the views as you travel between the clusters.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A bench near the former military barracks",
+            "tip": "A quiet spot to reflect on the town's history.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Reading corner in the park",
+            "tip": "Bring a book and find a secluded spot to relax.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "The Charity Shops on Main Street",
+            "tip": "Durchsuchen Sie sie nach einzigartigen Fundstücken und unterstützen Sie gleichzeitig einen guten Zweck."
+          },
+          {
+            "name": "Eason",
+            "tip": "Ein guter Ort, um eine Zeitung, ein Magazin oder ein Buch für Ihre Busfahrt zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Fő utcai jótékonysági boltok",
+            "tip": "Böngésszen egyedi leletekért, miközben egy jó ügyet is támogat."
+          },
+          {
+            "name": "Eason",
+            "tip": "Jó hely egy újság, magazin vagy könyv vásárlásához a buszútra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele de caritate de pe Main Street",
+            "tip": "Căutați chilipiruri unice în timp ce susțineți o cauză bună."
+          },
+          {
+            "name": "Eason",
+            "tip": "Un loc bun pentru a cumpăra un ziar, o revistă sau o carte pentru călătoria cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Charity Shops on Main Street",
+            "tip": "Browse for unique finds while supporting a good cause."
+          },
+          {
+            "name": "Eason",
+            "tip": "A good place to pick up a newspaper, magazine, or book for your bus journey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Leap Card für günstigere Tarife für Bus Éireann.",
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere für die Rückfahrt am späten Nachmittag.",
+          "Laden Sie die TFI Live App herunter, um Busse in Echtzeit zu verfolgen.",
+          "Die meisten Busse fahren entlang der Main Street, was den Zugang zu den meisten Annehmlichkeiten erleichtert."
+        ],
+        "hu": [
+          "Vásároljon Leap Cardot az olcsóbb Bus Éireann viteldíjakért.",
+          "Előre ellenőrizze a buszmenetrendet, különösen a késő délutáni visszautazáshoz.",
+          "Töltse le a TFI Live alkalmazást a buszok valós idejű követéséhez.",
+          "A legtöbb busz a Fő utcán közlekedik, így a legtöbb szolgáltatás könnyen elérhető."
+        ],
+        "ro": [
+          "Cumpărați un card Leap pentru tarife mai ieftine la Bus Éireann.",
+          "Verificați programul autobuzelor în avans, în special pentru călătoria de întoarcere de la sfârșitul după-amiezii.",
+          "Descărcați aplicația TFI Live pentru a urmări autobuzele în timp real.",
+          "Majoritatea autobuzelor circulă de-a lungul Main Street, facilitând accesul la majoritatea facilităților."
+        ],
+        "en": [
+          "Purchase a Leap Card for cheaper Bus Éireann fares.",
+          "Check the bus schedule in advance, especially for the return trip late in the afternoon.",
+          "Download the TFI Live app for real-time bus tracking.",
+          "Most buses run along the Main Street, making it easy to access most amenities."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1307 @@
+{
+  "city_id": "norway-larvik-cities-v2",
+  "anchor": {
+    "name": "Larvik",
+    "coords": [
+      59.05,
+      10.03
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Herregården (Herrenhaus)",
+            "hu": "Herregården (Uradalmi ház)",
+            "ro": "Herregården (Conacul)",
+            "en": "Herregården (Manor House)"
+          },
+          "coords": [
+            10.0355,
+            59.0521
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden Deckenmalereien im Inneren.",
+            "hu": "Figyelje meg a lenyűgöző mennyezeti festményeket az épületben!",
+            "ro": "Fiți atenți la picturile impresionante de pe tavan din interior.",
+            "en": "Look for the impressive ceiling paintings inside the manor."
+          }
+        },
+        {
+          "name": {
+            "de": "Larvik Museum",
+            "hu": "Larvik Múzeum",
+            "ro": "Muzeul Larvik",
+            "en": "Larvik Museum"
+          },
+          "coords": [
+            10.0368,
+            59.0515
+          ],
+          "category": "museums",
+          "arrive_at": "10:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die maritime Abteilung ist besonders faszinierend und zeigt Larviks Geschichte als Seefahrerstadt.",
+            "hu": "A tengerészeti részleg különösen lenyűgöző, bemutatva Larvik tengerészvárosi múltját.",
+            "ro": "Secțiunea maritimă este deosebit de fascinantă, arătând istoria Larvikului ca oraș maritim.",
+            "en": "The maritime section is particularly fascinating, showcasing Larvik's history as a seafaring town."
+          }
+        },
+        {
+          "name": {
+            "de": "Larvik Kirche",
+            "hu": "Larviki templom",
+            "ro": "Biserica Larvik",
+            "en": "Larvik Church"
+          },
+          "coords": [
+            10.0321,
+            59.0538
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Suchen Sie nach dem Altarbild von Lucas Cranach, einem wahren Meisterwerk.",
+            "hu": "Keresse meg Lucas Cranach oltárképét, egy igazi mesterművet.",
+            "ro": "Căutați altarul realizat de Lucas Cranach, o adevărată capodoperă.",
+            "en": "Look for the altarpiece by Lucas Cranach, a true masterpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Tollerodden",
+            "hu": "Tollerodden",
+            "ro": "Tollerodden",
+            "en": "Tollerodden"
+          },
+          "coords": [
+            10.0411,
+            59.0498
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Perfekter Ort für ein Mittagspicknick mit Blick auf den Fjord.",
+            "hu": "Tökéletes hely egy ebédpiknikhez a fjordra néző kilátással.",
+            "ro": "Locul perfect pentru un picnic la prânz cu vedere la fiord.",
+            "en": "A perfect spot for a lunch picnic with a view over the fjord."
+          }
+        },
+        {
+          "name": {
+            "de": "Farris Bad",
+            "hu": "Farris Bad",
+            "ro": "Farris Bad",
+            "en": "Farris Bad"
+          },
+          "coords": [
+            10.0151,
+            59.0435
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Auch wenn Sie nicht im Spa sind, genießen Sie einen Kaffee im Café mit herrlicher Aussicht.",
+            "hu": "Még ha nem is mész be a fürdőbe, igyál egy kávét a kávézóban a csodás kilátással.",
+            "ro": "Chiar dacă nu intrați la spa, savurați o cafea la cafenea cu o priveliște superbă.",
+            "en": "Even if not using the spa, enjoy a coffee at the café with its splendid view."
+          }
+        },
+        {
+          "name": {
+            "de": "Bøkeskogen (Buchenwald)",
+            "hu": "Bøkeskogen (Bükkerdő)",
+            "ro": "Bøkeskogen (Pădurea de fagi)",
+            "en": "Bøkeskogen (The Beech Forest)"
+          },
+          "coords": [
+            10.045,
+            59.06
+          ],
+          "category": "natural features",
+          "arrive_at": "16:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie im Frühling, wenn der Waldboden mit weißen Anemonen bedeckt ist.",
+            "hu": "Látogasson el tavasszal, amikor az erdő talaját fehér szellőrózsák borítják.",
+            "ro": "Vizitați primăvara, când solul pădurii este acoperit de anemone albe.",
+            "en": "Visit in the spring when the forest floor is covered in white anemones."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Larvik beginnt im historischen Herzen mit einem Besuch des Herregården und dem nahegelegenen Museum. Am Vormittag erkunden Sie die spirituelle Seite der Stadt in der Larvik Kirche. Der Mittag bietet eine entspannte Pause am Wasser in Tollerodden, ideal für ein Picknick. Der Nachmittag steht im Zeichen der Entspannung, entweder bei einem Spaziergang zum Farris Bad oder durch den weltberühmten Buchenwald Bøkeskogen. Genießen Sie die frische norwegische Luft und die ruhige Atmosphäre, bevor der Tag ausklingt.",
+        "hu": "A larviki nap a történelmi szívben kezdődik a Herregården és a közeli múzeum meglátogatásával. Délelőtt a város spirituális oldalát fedezi fel a Larvik-templomban. Az ebédidő pihentető szünetet kínál a vízparton, Tolleroddenben, ami ideális egy piknikhez. A délután a pihenésé, egy sétával a Farris Bad fürdőhöz vagy a világhírű Bøkeskogen bükkerdőben. Élvezze a friss norvég levegőt és a csendes hangulatot a nap végén.",
+        "ro": "Ziua dvs. în Larvik începe în inima sa istorică, cu o vizită la Herregården și la muzeul din apropiere. Dimineața explorați latura spirituală a orașului la Biserica Larvik. Prânzul oferă o pauză relaxantă pe malul apei la Tollerodden, ideal pentru un picnic. După-amiaza este dedicată relaxării, fie cu o plimbare până la Farris Bad, fie prin faimoasa pădure de fagi, Bøkeskogen. Bucurați-vă de aerul proaspăt norvegian și de atmosfera liniștită înainte de încheierea zilei.",
+        "en": "Your day in Larvik begins in its historic heart with a visit to Herregården and the nearby museum. In the morning, you'll explore the spiritual side of the city at Larvik Church. Lunchtime offers a relaxing break by the water at Tollerodden, perfect for a picnic. The afternoon is for relaxation, either with a stroll to Farris Bad or through the world-famous beech forest, Bøkeskogen. Enjoy the fresh Norwegian air and quiet atmosphere before your day concludes."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fiskesuppe (Fischsuppe)",
+            "tip": "Eine cremige, herzhafte Suppe, perfekt nach einem Spaziergang am Fjord. Probieren Sie sie im Bølgen & Moi."
+          },
+          {
+            "name": "Reker (Garnelen)",
+            "tip": "Frische Garnelen direkt vom Kutter, am besten auf einem Stück Weißbrot mit Mayonnaise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fiskesuppe (halászlé)",
+            "tip": "Krémes, kiadós leves, tökéletes egy fjordparti séta után. Kóstolja meg a Bølgen & Moi-ban."
+          },
+          {
+            "name": "Reker (garnélarák)",
+            "tip": "Friss garnéla egyenesen a halászbárkáról, a legjobb egy szelet fehér kenyéren majonézzel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fiskesuppe (supă de pește)",
+            "tip": "O supă cremoasă și consistentă, perfectă după o plimbare pe malul fiordului. Încercați-o la Bølgen & Moi."
+          },
+          {
+            "name": "Reker (creveți)",
+            "tip": "Creveți proaspeți direct de la barcă, cel mai bun pe o felie de pâine albă cu maioneză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fiskesuppe (Fish Soup)",
+            "tip": "A creamy, hearty soup perfect after a walk by the fjord. Try it at Bølgen & Moi."
+          },
+          {
+            "name": "Reker (Shrimp)",
+            "tip": "Fresh shrimp straight from the boat, best enjoyed on a piece of white bread with mayonnaise."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bøkeskogen",
+            "tip": "Finden Sie eine ruhige Bank und lauschen Sie dem Wind in den Buchen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Tollerodden",
+            "tip": "Beobachten Sie die Boote, die in den Fjord ein- und auslaufen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bøkeskogen",
+            "tip": "Keressen egy csendes padot, és hallgassa a szél susogását a bükkfák között.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Tollerodden",
+            "tip": "Nézze a fjordba be- és kihajózó csónakokat.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bøkeskogen",
+            "tip": "Găsiți o bancă liniștită și ascultați vântul printre fagi.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Tollerodden",
+            "tip": "Priviți bărcile intrând și ieșind din fiord.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bøkeskogen",
+            "tip": "Find a quiet bench and listen to the wind in the beech trees.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Tollerodden",
+            "tip": "Watch the boats coming in and out of the fjord.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Keramik",
+            "tip": "In den kleinen Galerien in der Innenstadt finden Sie einzigartige handgefertigte Keramik."
+          },
+          {
+            "name": "Norwegischer Pullover",
+            "tip": "Ein klassisches Souvenir, das Sie in den Bekleidungsgeschäften finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerámia",
+            "tip": "Egyedi, kézzel készített kerámiákat talál a belváros kis galériáiban."
+          },
+          {
+            "name": "Norvég pulóver",
+            "tip": "Klasszikus szuvenír, amelyet a ruházati üzletekben talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică locală",
+            "tip": "Veți găsi ceramică unică, lucrată manual, în micile galerii din centrul orașului."
+          },
+          {
+            "name": "Pulover norvegian",
+            "tip": "Un suvenir clasic pe care îl veți găsi în magazinele de îmbrăcăminte."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Ceramics",
+            "tip": "You'll find unique handmade ceramics in the small galleries downtown."
+          },
+          {
+            "name": "Norwegian Sweater",
+            "tip": "A classic souvenir you can find in the clothing stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel auf Kopfsteinpflaster unterwegs sein werden.",
+          "Eine wiederverwendbare Wasserflasche ist praktisch, da es viele öffentliche Brunnen gibt."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog macskakövön sétálni.",
+          "Egy újrafelhasználható vizes palack praktikus, mivel sok a nyilvános ivókút."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe piatră cubică.",
+          "O sticlă de apă reutilizabilă este la îndemână, deoarece există multe fântâni publice."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be walking on cobblestones quite a bit.",
+          "A reusable water bottle is handy as there are many public fountains."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:58",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Herregården",
+            "hu": "Herregården",
+            "ro": "Herregården",
+            "en": "Herregården"
+          },
+          "coords": [
+            10.0355,
+            59.0521
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und spazieren Sie durch die Gärten.",
+            "hu": "Zárja le a biciklit és sétáljon egyet a kertekben.",
+            "ro": "Legați-vă bicicleta și faceți o plimbare prin grădini.",
+            "en": "Lock up your bike and take a stroll through the gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Larvik Museum",
+            "hu": "Larvik Múzeum",
+            "ro": "Muzeul Larvik",
+            "en": "Larvik Museum"
+          },
+          "coords": [
+            10.0368,
+            59.0515
+          ],
+          "category": "museums",
+          "arrive_at": "10:22",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über Thor Heyerdahl, den berühmten Entdecker aus Larvik.",
+            "hu": "Tudjon meg többet Thor Heyerdahlról, a híres larviki felfedezőről.",
+            "ro": "Aflați mai multe despre Thor Heyerdahl, faimosul explorator din Larvik.",
+            "en": "Learn about Thor Heyerdahl, the famous explorer from Larvik."
+          }
+        },
+        {
+          "name": {
+            "de": "Bøkeskogen",
+            "hu": "Bøkeskogen",
+            "ro": "Bøkeskogen",
+            "en": "Bøkeskogen"
+          },
+          "coords": [
+            10.045,
+            59.06
+          ],
+          "category": "natural features",
+          "arrive_at": "12:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Die Radwege im Wald sind gut gepflegt und ideal für eine gemütliche Fahrt.",
+            "hu": "Az erdei kerékpárutak jól karbantartottak, ideálisak egy kellemes tekeréshez.",
+            "ro": "Pistele de biciclete din pădure sunt bine întreținute și ideale pentru o plimbare relaxantă.",
+            "en": "The bike paths in the forest are well-maintained and great for a leisurely ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Fritzøehus Park",
+            "hu": "Fritzøehus Park",
+            "ro": "Parcul Fritzøehus",
+            "en": "Fritzøehus Park"
+          },
+          "coords": [
+            10.01,
+            59.055
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:37",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Der Park ist riesig. Suchen Sie nach den Wasserspielen und Skulpturen.",
+            "hu": "A park hatalmas. Keresse meg a vízi elemeket és a szobrokat.",
+            "ro": "Parcul este imens. Căutați jocurile de apă și sculpturile.",
+            "en": "The park is huge. Look for the water features and sculptures."
+          }
+        },
+        {
+          "name": {
+            "de": "Farris Bad",
+            "hu": "Farris Bad",
+            "ro": "Farris Bad",
+            "en": "Farris Bad"
+          },
+          "coords": [
+            10.0151,
+            59.0435
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:46",
+          "stay_min": 50,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und spazieren Sie am Strand entlang.",
+            "hu": "Parkolja le a kerékpárt, és sétáljon egyet a tengerparton.",
+            "ro": "Parcați-vă bicicleta și faceți o plimbare de-a lungul plajei.",
+            "en": "Park your bike and take a walk along the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Tollerodden",
+            "hu": "Tollerodden",
+            "ro": "Tollerodden",
+            "en": "Tollerodden"
+          },
+          "coords": [
+            10.0411,
+            59.0498
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:48",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Sonnenuntergang über dem Fjord zu beobachten.",
+            "hu": "Tökéletes hely a naplemente megtekintéséhez a fjord felett.",
+            "ro": "Locul perfect pentru a privi apusul peste fiord.",
+            "en": "The perfect spot to watch the sunset over the fjord."
+          }
+        },
+        {
+          "name": {
+            "de": "Minnehallen",
+            "hu": "Minnehallen",
+            "ro": "Minnehallen",
+            "en": "Minnehallen"
+          },
+          "coords": [
+            9.98,
+            59.03
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "17:06",
+          "stay_min": 20,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Eine nachdenkliche Gedenkstätte mit einer weitreichenden Aussicht auf das Meer.",
+            "hu": "Egy elgondolkodtató emlékmű, ahonnan messzire ellátni a tenger felett.",
+            "ro": "Un memorial solemn cu o vedere panoramică asupra mării.",
+            "en": "A solemn memorial with a sweeping view of the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel und beginnen Sie Ihren Tag im historischen Zentrum von Larvik. Nach dem Herregården und dem Museum führt Sie eine erfrischende Fahrt in den kühlen Bøkeskogen. Gegen Mittag erkunden Sie den weitläufigen Fritzøehus Park. Der Nachmittag führt Sie entlang der Küste zum Farris Bad und weiter zum malerischen Tollerodden. Ein kurzer Abstecher zum Minnehallen bietet einen Moment der Besinnung und eine fantastische Aussicht, bevor Sie in die Stadt zurückkehren.",
+        "hu": "Pattanjon nyeregbe, és kezdje a napot Larvik történelmi központjában. A Herregården és a múzeum után egy frissítő tekerés vezet a hűs Bøkeskogen erdőbe. Dél körül fedezze fel a tágas Fritzøehus Parkot. A délután a part mentén vezet a Farris Bad fürdőhöz és tovább a festői Tolleroddenbe. Egy rövid kitérő a Minnehallen emlékműhöz elgondolkodásra ad lehetőséget és fantasztikus kilátást nyújt, mielőtt visszatér a városba.",
+        "ro": "Urcați-vă pe bicicletă și începeți ziua în centrul istoric al Larvikului. După Herregården și muzeu, o plimbare revigorantă vă duce în răcoroasa pădure Bøkeskogen. În jurul prânzului, explorați vastul parc Fritzøehus. După-amiaza vă poartă de-a lungul coastei până la Farris Bad și mai departe, la pitorescul Tollerodden. O scurtă deviere la Minnehallen oferă un moment de reflecție și o priveliște fantastică înainte de a vă întoarce în oraș.",
+        "en": "Hop on your bike and start your day in the historic center of Larvik. After Herregården and the museum, a refreshing ride takes you into the cool Bøkeskogen forest. Around noon, you'll explore the expansive Fritzøehus Park. The afternoon takes you along the coast to Farris Bad and onward to the picturesque Tollerodden. A short detour to Minnehallen offers a moment of reflection and a fantastic view before you head back into town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Vafler (Waffeln)",
+            "tip": "Norwegische Waffeln sind herzförmig und werden oft mit Sauerrahm und Marmelade serviert. Ein Muss in einem Café."
+          },
+          {
+            "name": "Pølse i lompe",
+            "tip": "Ein Hotdog in einem weichen Kartoffelfladenbrot, ein schneller und leckerer Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vafler (gofri)",
+            "tip": "A norvég gofri szív alakú, és gyakran tejföllel és lekvárral tálalják. Egy kávézóban kötelező."
+          },
+          {
+            "name": "Pølse i lompe",
+            "tip": "Virsli egy puha burgonyalepényben, gyors és finom harapnivaló."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vafler (vafă)",
+            "tip": "Vafelele norvegiene au formă de inimă și sunt adesea servite cu smântână și gem. O necesitate la o cafenea."
+          },
+          {
+            "name": "Pølse i lompe",
+            "tip": "Un hotdog într-o lipie moale de cartofi, o gustare rapidă și delicioasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vafler (Waffles)",
+            "tip": "Norwegian waffles are heart-shaped and often served with sour cream and jam. A must-try at a café."
+          },
+          {
+            "name": "Pølse i lompe",
+            "tip": "A hot dog in a soft potato flatbread, a quick and delicious snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fritzøehus Park",
+            "tip": "Finden Sie einen abgelegenen Pfad und genießen Sie die Stille des riesigen Anwesens.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Strand bei Farris Bad",
+            "tip": "Ein ruhiger Ort, um den Wellen zuzuhören.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fritzøehus Park",
+            "tip": "Keressen egy eldugott ösvényt, és élvezze a hatalmas birtok csendjét.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Strand a Farris Badnál",
+            "tip": "Csendes hely a hullámok hallgatásához.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Fritzøehus",
+            "tip": "Găsiți o potecă retrasă și bucurați-vă de liniștea imensei proprietăți.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plaja de lângă Farris Bad",
+            "tip": "Un loc liniștit pentru a asculta valurile.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fritzøehus Park",
+            "tip": "Find a secluded path and enjoy the silence of the vast estate.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Beach near Farris Bad",
+            "tip": "A quiet spot to listen to the waves.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sportgeschäfte",
+            "tip": "Larvik hat eine starke Outdoor-Kultur. Schauen Sie sich die Ausrüstung an."
+          },
+          {
+            "name": "Hafenmarkt",
+            "tip": "An manchen Tagen gibt es einen kleinen Markt, auf dem lokale Produkte verkauft werden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sportboltok",
+            "tip": "Larvikban erős a szabadtéri kultúra. Nézzen szét a felszerelések között."
+          },
+          {
+            "name": "Kikötői piac",
+            "tip": "Bizonyos napokon van egy kis piac, ahol helyi termékeket árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de sport",
+            "tip": "Larvik are o cultură puternică a activităților în aer liber. Aruncați o privire la echipamente."
+          },
+          {
+            "name": "Piața din port",
+            "tip": "În unele zile există o mică piață care vinde produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sports Shops",
+            "tip": "Larvik has a strong outdoor culture. Check out the gear."
+          },
+          {
+            "name": "Harbour Market",
+            "tip": "On some days, there's a small market selling local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck, bevor Sie losfahren. Einige Wege können uneben sein.",
+          "Ein Helm wird dringend empfohlen.",
+          "Larvik ist hügelig, seien Sie auf einige Anstiege vorbereitet."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást. Néhány út egyenetlen lehet.",
+          "Sisak viselése erősen ajánlott.",
+          "Larvik dombos, készüljön fel néhány emelkedőre."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de a porni. Unele poteci pot fi denivelate.",
+          "Casca este foarte recomandată.",
+          "Larvik este deluros, fiți pregătit pentru câteva urcări."
+        ],
+        "en": [
+          "Check your tire pressure before setting off. Some paths can be uneven.",
+          "A helmet is highly recommended.",
+          "Larvik is hilly, be prepared for some climbs."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 44.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kaupang Wikingerstadt",
+            "hu": "Kaupang viking város",
+            "ro": "Orașul viking Kaupang",
+            "en": "Kaupang Viking Town"
+          },
+          "coords": [
+            10.103,
+            59.028
+          ],
+          "category": "historical",
+          "arrive_at": "09:28",
+          "stay_min": 120,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil, um das Leben der Wikinger wirklich zu verstehen.",
+            "hu": "Vegyen részt egy vezetett túrán, hogy igazán megértse a vikingek életét.",
+            "ro": "Participați la un tur ghidat pentru a înțelege cu adevărat viața vikingilor.",
+            "en": "Join a guided tour to truly understand Viking life."
+          }
+        },
+        {
+          "name": {
+            "de": "Mølen",
+            "hu": "Mølen",
+            "ro": "Mølen",
+            "en": "Mølen"
+          },
+          "coords": [
+            9.82,
+            58.97
+          ],
+          "category": "natural features",
+          "arrive_at": "12:08",
+          "stay_min": 90,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 25.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Die Steinformationen sind einzigartig. Bringen Sie eine Kamera und festes Schuhwerk mit.",
+            "hu": "A kőalakzatok egyedülállóak. Hozzon fényképezőgépet és erős cipőt.",
+            "ro": "Formațiunile de piatră sunt unice. Aduceți un aparat foto și încălțăminte rezistentă.",
+            "en": "The stone formations are unique. Bring a camera and sturdy shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Minnehallen",
+            "hu": "Minnehallen",
+            "ro": "Minnehallen",
+            "en": "Minnehallen"
+          },
+          "coords": [
+            9.98,
+            59.03
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:58",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein Ort der Stille und des Gedenkens mit einem atemberaubenden Blick.",
+            "hu": "A csend és az emlékezés helye, lélegzetelállító kilátással.",
+            "ro": "Un loc de reculegere și comemorare cu o priveliște uluitoare.",
+            "en": "A place of silence and remembrance with a breathtaking view."
+          }
+        },
+        {
+          "name": {
+            "de": "Herregården (Cluster Larvik Zentrum)",
+            "hu": "Herregården (Larvik központ klaszter)",
+            "ro": "Herregården (Cluster Centru Larvik)",
+            "en": "Herregården (Larvik Centre Cluster)"
+          },
+          "coords": [
+            10.0355,
+            59.0521
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie das Zentrum zu Fuß.",
+            "hu": "Parkoljon le itt, és fedezze fel a központot gyalog.",
+            "ro": "Parcați aici și explorați centrul pe jos.",
+            "en": "Park here and explore the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Larvik Museum",
+            "hu": "Larvik Múzeum",
+            "ro": "Muzeul Larvik",
+            "en": "Larvik Museum"
+          },
+          "coords": [
+            10.0368,
+            59.0515
+          ],
+          "category": "museums",
+          "arrive_at": "15:33",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Sehen Sie sich die Ausstellung über die Grafschaft an, sie ist sehr informativ.",
+            "hu": "Tekintse meg a grófságról szóló kiállítást, nagyon informatív.",
+            "ro": "Vedeți expoziția despre comitat, este foarte informativă.",
+            "en": "See the exhibition about the county, it's very informative."
+          }
+        },
+        {
+          "name": {
+            "de": "Larvik Kirche",
+            "hu": "Larviki templom",
+            "ro": "Biserica Larvik",
+            "en": "Larvik Church"
+          },
+          "coords": [
+            10.0321,
+            59.0538
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:49",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Akustik in der Kirche ist hervorragend.",
+            "hu": "A templom akusztikája kiváló.",
+            "ro": "Acustica din biserică este remarcabilă.",
+            "en": "The acoustics in the church are outstanding."
+          }
+        },
+        {
+          "name": {
+            "de": "Bøkeskogen",
+            "hu": "Bøkeskogen",
+            "ro": "Bøkeskogen",
+            "en": "Bøkeskogen"
+          },
+          "coords": [
+            10.045,
+            59.06
+          ],
+          "category": "natural features",
+          "arrive_at": "17:41",
+          "stay_min": 54,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.6,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein Abendspaziergang hier ist der perfekte Abschluss für Ihren Tag.",
+            "hu": "Egy esti séta itt tökéletes befejezése a napnak.",
+            "ro": "O plimbare de seară aici este finalul perfect pentru ziua dumneavoastră.",
+            "en": "An evening walk here is the perfect end to your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt mit einer Zeitreise in die Wikingerzeit in Kaupang. Danach fahren Sie zur Küste, um die beeindruckenden geologischen Formationen von Mølen zu bestaunen. Am Mittag halten Sie am Minnehallen inne, bevor Sie ins Zentrum von Larvik fahren. Dort parken Sie Ihr Auto und erkunden zu Fuß das historische Cluster um Herregården, das Museum und die Kirche. Ein kurzer letzter Abstecher mit dem Auto führt Sie zum Sonnenuntergang in den Bøkeskogen, ein ruhiger Ausklang eines erlebnisreichen Tages.",
+        "hu": "Autós napja időutazással kezdődik a viking korba, Kaupangba. Ezután a parthoz hajt, hogy megcsodálja Mølen lenyűgöző geológiai képződményeit. Délben megáll a Minnehallen emlékműnél, mielőtt Larvik központjába indul. Itt leparkol, és gyalog fedezi fel a Herregården, a múzeum és a templom körüli történelmi klasztert. Egy utolsó, rövid autós kitérő a naplementébe vezet a Bøkeskogen erdőbe, egy eseménydús nap csendes lezárásaként.",
+        "ro": "Ziua dvs. cu mașina începe cu o călătorie în timp, în epoca vikingilor, la Kaupang. Apoi, conduceți spre coastă pentru a admira formațiunile geologice impresionante de la Mølen. La prânz, faceți o oprire la Minnehallen înainte de a vă îndrepta spre centrul Larvik. Acolo, parcați mașina și explorați pe jos clusterul istoric din jurul Herregården, muzeu și biserică. O ultimă scurtă călătorie cu mașina vă duce la apus în Bøkeskogen, un final liniștit pentru o zi plină de evenimente.",
+        "en": "Your car day starts with a journey back in time to the Viking era at Kaupang. You'll then drive to the coast to marvel at the impressive geological formations of Mølen. At noon, you'll pause at Minnehallen before heading into the center of Larvik. There, you'll park your car and explore the historic cluster around Herregården, the museum, and the church on foot. A final short drive takes you to Bøkeskogen for sunset, a peaceful end to an eventful day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokales Bier",
+            "tip": "Probieren Sie ein Bier von einer der lokalen Mikrobrauereien, wie Farris Mikrobryggeri."
+          },
+          {
+            "name": "Elch- oder Rentierfleisch",
+            "tip": "In einigen Restaurants außerhalb der Stadt finden Sie traditionelle Gerichte mit Wild."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi sör",
+            "tip": "Kóstoljon meg egy sört a helyi mikrofőzdék egyikéből, mint például a Farris Mikrobryggeri."
+          },
+          {
+            "name": "Jávorszarvas- vagy rénszarvashús",
+            "tip": "Néhány városon kívüli étteremben hagyományos vadas ételeket talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Berea locală",
+            "tip": "Încercați o bere de la una dintre microberăriile locale, cum ar fi Farris Mikrobryggeri."
+          },
+          {
+            "name": "Carne de elan sau ren",
+            "tip": "La unele restaurante din afara orașului puteți găsi mâncăruri tradiționale cu vânat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Beer",
+            "tip": "Try a beer from one of the local microbreweries, like Farris Mikrobryggeri."
+          },
+          {
+            "name": "Moose or Reindeer Meat",
+            "tip": "You can find traditional game dishes in some restaurants outside the city."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mølen Küste",
+            "tip": "Finden Sie einen Platz auf den glatten Felsen und schauen Sie aufs Meer.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kaupang",
+            "tip": "Stellen Sie sich vor, wie hier vor 1200 Jahren das Leben pulsierte.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mølen partvidéke",
+            "tip": "Keressen egy helyet a sima sziklákon, és nézze a tengert.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kaupang",
+            "tip": "Képzelje el, hogyan lüktetett itt az élet 1200 évvel ezelőtt.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Coasta Mølen",
+            "tip": "Găsiți un loc pe stâncile netede și priviți marea.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kaupang",
+            "tip": "Imaginați-vă cum pulsa viața aici acum 1200 de ani.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mølen Coastline",
+            "tip": "Find a spot on the smooth rocks and gaze out at the sea.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kaupang",
+            "tip": "Imagine the life bustling here 1200 years ago.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Auf dem Land rund um Larvik finden Sie Hofläden, die lokale Produkte wie Marmelade und Käse verkaufen."
+          },
+          {
+            "name": "Wikinger-Souvenirs",
+            "tip": "Am Kaupang-Standort gibt es einen Laden mit Nachbildungen und Büchern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok",
+            "tip": "Larvik környékén a vidéken talál tanyasi boltokat, ahol helyi termékeket, például lekvárt és sajtot árulnak."
+          },
+          {
+            "name": "Viking szuvenírek",
+            "tip": "A Kaupang helyszínen van egy bolt másolatokkal és könyvekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de la fermă",
+            "tip": "În zona rurală din jurul Larvikului veți găsi magazine de la fermă care vând produse locale, cum ar fi gem și brânză."
+          },
+          {
+            "name": "Suveniruri vikinge",
+            "tip": "La situl Kaupang există un magazin cu replici și cărți."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm Shops",
+            "tip": "In the countryside around Larvik, you'll find farm shops selling local products like jam and cheese."
+          },
+          {
+            "name": "Viking Souvenirs",
+            "tip": "There's a shop at the Kaupang site with replicas and books."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Planen Sie genügend Zeit für die Fahrt zwischen den Standorten ein, besonders in der Hochsaison.",
+          "Parken im Stadtzentrum kann schwierig sein, nutzen Sie die ausgewiesenen Parkhäuser.",
+          "Tanken Sie, bevor Sie zu den abgelegeneren Orten fahren."
+        ],
+        "hu": [
+          "Tervezzen elegendő időt a helyszínek közötti utazásra, különösen a főszezonban.",
+          "A városközpontban nehéz lehet parkolni, használja a kijelölt parkolóházakat.",
+          "Tankoljon, mielőtt a távolabbi helyekre indulna."
+        ],
+        "ro": [
+          "Planificați suficient timp pentru deplasarea între locații, mai ales în sezonul de vârf.",
+          "Parcarea în centrul orașului poate fi dificilă, folosiți parcările desemnate.",
+          "Alimentați cu combustibil înainte de a merge în locuri mai îndepărtate."
+        ],
+        "en": [
+          "Allow plenty of time for driving between locations, especially during peak season.",
+          "Parking in the city center can be tricky; use the designated parking garages.",
+          "Fill up on gas before heading to the more remote sites."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 8.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Herregården (Cluster Zentrum)",
+            "hu": "Herregården (Központ klaszter)",
+            "ro": "Herregården (Cluster Centru)",
+            "en": "Herregården (Center Cluster)"
+          },
+          "coords": [
+            10.0355,
+            59.0521
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:18",
+          "stay_min": 70,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die Bushaltestelle 'Larvik sentrum' ist nur wenige Gehminuten entfernt.",
+            "hu": "A 'Larvik sentrum' buszmegálló csak néhány perc sétára van.",
+            "ro": "Stația de autobuz 'Larvik sentrum' este la doar câteva minute de mers pe jos.",
+            "en": "The 'Larvik sentrum' bus stop is just a few minutes' walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Larvik Museum",
+            "hu": "Larvik Múzeum",
+            "ro": "Muzeul Larvik",
+            "en": "Larvik Museum"
+          },
+          "coords": [
+            10.0368,
+            59.0515
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Besuch mit dem Herregården, da sie direkt nebeneinander liegen.",
+            "hu": "Kombinálja a látogatást a Herregårdennel, mivel közvetlenül egymás mellett vannak.",
+            "ro": "Combinați vizita cu Herregården, deoarece sunt chiar una lângă alta.",
+            "en": "Combine the visit with Herregården as they are right next to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Bøkeskogen (Cluster Wald)",
+            "hu": "Bøkeskogen (Erdő klaszter)",
+            "ro": "Bøkeskogen (Cluster Pădure)",
+            "en": "Bøkeskogen (Forest Cluster)"
+          },
+          "coords": [
+            10.045,
+            59.06
+          ],
+          "category": "natural features",
+          "arrive_at": "12:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus in Richtung 'Undersbo' und steigen Sie an der Haltestelle 'Bøkeskogen' aus.",
+            "hu": "Menjen a 'Undersbo' irányába tartó busszal, és szálljon le a 'Bøkeskogen' megállónál.",
+            "ro": "Luați autobuzul spre 'Undersbo' și coborâți la stația 'Bøkeskogen'.",
+            "en": "Take the bus towards 'Undersbo' and get off at the 'Bøkeskogen' stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Farris Bad (Cluster Küste)",
+            "hu": "Farris Bad (Part klaszter)",
+            "ro": "Farris Bad (Cluster Coastă)",
+            "en": "Farris Bad (Coast Cluster)"
+          },
+          "coords": [
+            10.0151,
+            59.0435
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:48",
+          "stay_min": 60,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Mehrere Buslinien halten in der Nähe. Ein schöner Ort für eine Kaffeepause.",
+            "hu": "Több buszjárat is megáll a közelben. Szép hely egy kávészünetre.",
+            "ro": "Mai multe linii de autobuz opresc în apropiere. Un loc frumos pentru o pauză de cafea.",
+            "en": "Several bus lines stop nearby. A lovely place for a coffee break."
+          }
+        },
+        {
+          "name": {
+            "de": "Tollerodden",
+            "hu": "Tollerodden",
+            "ro": "Tollerodden",
+            "en": "Tollerodden"
+          },
+          "coords": [
+            10.0411,
+            59.0498
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:16",
+          "stay_min": 60,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang vom Stadtzentrum entlang des Wassers.",
+            "hu": "Kellemes séta a városközpontból a víz mentén.",
+            "ro": "O plimbare frumoasă din centrul orașului de-a lungul apei.",
+            "en": "A beautiful walk from the city center along the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Larvik Kirche",
+            "hu": "Larviki templom",
+            "ro": "Biserica Larvik",
+            "en": "Larvik Church"
+          },
+          "coords": [
+            10.0321,
+            59.0538
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:23",
+          "stay_min": 26,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit einem Moment der Ruhe an diesem historischen Ort.",
+            "hu": "Fejezze be a napot egy csendes pillanattal ezen a történelmi helyen.",
+            "ro": "Încheiați-vă ziua cu un moment de liniște în acest loc istoric.",
+            "en": "End your day with a moment of peace in this historic place."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt im Zentrum von Larvik, wo Sie das Herregården und das Museum bequem zu Fuß erkunden. Anschließend bringt Sie ein Bus in den berühmten Bøkeskogen, wo Sie den Vormittag verbringen. Nach dem Mittagessen fahren Sie mit dem Bus zur Küste, um die Gegend um Farris Bad zu genießen. Der späte Nachmittag ist für einen gemütlichen Spaziergang entlang der Uferpromenade von Tollerodden reserviert, bevor Sie zur Larvik Kirche zurückkehren und den Tag ausklingen lassen.",
+        "hu": "Tömegközlekedéssel töltött napja Larvik központjában kezdődik, ahol gyalogosan kényelmesen felfedezheti a Herregården-t és a múzeumot. Ezután egy busz elviszi a híres Bøkeskogen erdőbe, ahol a délelőttöt tölti. Ebéd után busszal utazik a partra, hogy élvezze a Farris Bad környékét. A késő délután egy kellemes sétára van fenntartva a Tollerodden sétányon, mielőtt visszatérne a Larvik-templomhoz, és lezárná a napot.",
+        "ro": "Ziua dvs. cu transportul public începe în centrul Larvikului, unde explorați convenabil pe jos Herregården și muzeul. Apoi, un autobuz vă duce la faimoasa pădure Bøkeskogen, unde vă petreceți dimineața. După prânz, luați autobuzul spre coastă pentru a vă bucura de zona Farris Bad. După-amiaza târziu este rezervată unei plimbări relaxante de-a lungul promenadei Tollerodden, înainte de a vă întoarce la Biserica Larvik pentru a încheia ziua.",
+        "en": "Your day on public transport begins in the center of Larvik, where you'll comfortably explore Herregården and the museum on foot. A bus then takes you to the famous Bøkeskogen forest, where you'll spend the morning. After lunch, you'll take a bus to the coast to enjoy the Farris Bad area. The late afternoon is reserved for a leisurely stroll along the Tollerodden promenade before returning to Larvik Church to end your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kjøttkaker",
+            "tip": "Norwegische Fleischbällchen, serviert mit Kartoffeln und Soße. Ein herzhaftes, traditionelles Gericht."
+          },
+          {
+            "name": "Skillingsboller",
+            "tip": "Eine große Zimtschnecke, perfekt für eine süße Pause am Nachmittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kjøttkaker",
+            "tip": "Norvég húsgombócok, burgonyával és szósszal tálalva. Kiadós, hagyományos étel."
+          },
+          {
+            "name": "Skillingsboller",
+            "tip": "Nagy fahéjas csiga, tökéletes egy édes délutáni szünetre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kjøttkaker",
+            "tip": "Chiftele norvegiene servite cu cartofi și sos. O mâncare consistentă, tradițională."
+          },
+          {
+            "name": "Skillingsboller",
+            "tip": "Un melc mare cu scorțișoară, perfect pentru o pauză dulce de după-amiază."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kjøttkaker",
+            "tip": "Norwegian meatballs served with potatoes and gravy. A hearty, traditional meal."
+          },
+          {
+            "name": "Skillingsboller",
+            "tip": "A large cinnamon bun, perfect for a sweet afternoon break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pavillon im Bøkeskogen",
+            "tip": "Ein ruhiger Ort im Wald, um sich auszuruhen und die Natur zu genießen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Felsen bei Tollerodden",
+            "tip": "Setzen Sie sich und beobachten Sie die Wellen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pavilon a Bøkeskogenben",
+            "tip": "Csendes hely az erdőben a pihenésre és a természet élvezetére.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sziklák Tolleroddennél",
+            "tip": "Üljön le és figyelje a hullámokat.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pavilionul din Bøkeskogen",
+            "tip": "Un loc liniștit în pădure pentru a vă odihni și a vă bucura de natură.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Stâncile de la Tollerodden",
+            "tip": "Așezați-vă și priviți valurile.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pavilion in Bøkeskogen",
+            "tip": "A quiet spot in the forest to rest and enjoy nature.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Rocks at Tollerodden",
+            "tip": "Sit down and watch the waves.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "AMFI Larvik",
+            "tip": "Das wichtigste Einkaufszentrum der Stadt, falls Sie etwas Bestimmtes benötigen."
+          },
+          {
+            "name": "Bücher über lokale Geschichte",
+            "tip": "Im Museumsshop finden Sie interessante Bücher über Larvik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "AMFI Larvik",
+            "tip": "A város fő bevásárlóközpontja, ha valami konkrét dologra van szüksége."
+          },
+          {
+            "name": "Könyvek a helytörténetről",
+            "tip": "A múzeumi boltban érdekes könyveket talál Larvikról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "AMFI Larvik",
+            "tip": "Principalul centru comercial al orașului, în caz că aveți nevoie de ceva anume."
+          },
+          {
+            "name": "Cărți despre istoria locală",
+            "tip": "Veți găsi cărți interesante despre Larvik în magazinul muzeului."
+          }
+        ],
+        "en": [
+          {
+            "name": "AMFI Larvik",
+            "tip": "The main shopping center in town in case you need anything specific."
+          },
+          {
+            "name": "Books on local history",
+            "tip": "You'll find interesting books about Larvik in the museum shop."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, das ist günstiger als Einzeltickets.",
+          "Überprüfen Sie den Busfahrplan im Voraus, besonders am Wochenende.",
+          "Laden Sie die lokale ÖPNV-App für Echtzeit-Informationen herunter."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, olcsóbb, mint az egyedi jegyek.",
+          "Előre ellenőrizze a buszmenetrendet, különösen hétvégén.",
+          "Töltse le a helyi tömegközlekedési alkalmazást a valós idejű információkért."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz, este mai ieftin decât biletele individuale.",
+          "Verificați programul autobuzelor în avans, mai ales în weekend.",
+          "Descărcați aplicația locală de transport public pentru informații în timp real."
+        ],
+        "en": [
+          "Buy a day pass for the bus; it's cheaper than single tickets.",
+          "Check the bus schedule in advance, especially on weekends.",
+          "Download the local public transport app for real-time information."
+        ]
+      }
+    }
+  }
+}

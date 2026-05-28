@@ -1,0 +1,1180 @@
+{
+  "city_id": "RS-002-apatin",
+  "anchor": {
+    "name": "Apatin",
+    "coords": [
+      18.9858,
+      45.6714
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Apatin",
+            "hu": "Apatini városháza",
+            "ro": "Primăria din Apatin",
+            "en": "Apatin Town Hall"
+          },
+          "coords": [
+            18.9845,
+            45.6718
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Jugendstil-Architektur und die lebhafte Atmosphäre des Hauptplatzes.",
+            "hu": "Csodálja meg a szecessziós építészetet és a főtér élénk hangulatát.",
+            "ro": "Admirați arhitectura Art Nouveau și atmosfera plină de viață a pieței principale.",
+            "en": "Admire the Art Nouveau architecture and the lively atmosphere of the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Statue der Nike",
+            "hu": "Niké szobra",
+            "ro": "Statuia zeiței Nike",
+            "en": "Statue of Nike"
+          },
+          "coords": [
+            18.984,
+            45.6722
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:40",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für ein Foto, das an die Befreiungsschlachten erinnert.",
+            "hu": "Tökéletes fotóhelyszín, a felszabadító harcokra emlékeztet.",
+            "ro": "Un loc perfect pentru o fotografie, comemorând bătăliile de eliberare.",
+            "en": "A perfect spot for a photo, commemorating the liberation battles."
+          }
+        },
+        {
+          "name": {
+            "de": "Mariä-Himmelfahrt-Kirche",
+            "hu": "Mária Mennybemenetele templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Assumption of Mary"
+          },
+          "coords": [
+            18.9855,
+            45.6725
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, um die beeindruckenden Deckenfresken im Inneren zu betrachten.",
+            "hu": "Szánjon időt a lenyűgöző mennyezeti freskók megtekintésére.",
+            "ro": "Luați-vă timp să priviți frescele impresionante de pe tavanul din interior.",
+            "en": "Take a moment to gaze at the impressive ceiling frescoes inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus der Familie Boršoš",
+            "hu": "Boršoš család háza",
+            "ro": "Casa familiei Boršoš",
+            "en": "House of the Boršoš Family"
+          },
+          "coords": [
+            18.9833,
+            45.6709
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:55",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein schönes Beispiel für die bürgerliche Architektur des frühen 20. Jahrhunderts.",
+            "hu": "A 20. század eleji polgári építészet szép példája.",
+            "ro": "Un exemplu frumos de arhitectură burgheză de la începutul secolului al XX-lea.",
+            "en": "A fine example of early 20th-century bourgeois architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Brauerei Apatin",
+            "hu": "Apatini Sörgyár",
+            "ro": "Fabrica de bere Apatin",
+            "en": "Apatin Brewery"
+          },
+          "coords": [
+            18.9785,
+            45.674
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:30",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Buchen Sie eine Führung, um mehr über die lange Brautradition zu erfahren und das lokale Jelen-Bier zu probieren.",
+            "hu": "Foglaljon túrát, hogy többet tudjon meg a sörfőzés hosszú hagyományáról, és kóstolja meg a helyi Jelen sört.",
+            "ro": "Rezervați un tur pentru a afla despre lunga tradiție a berii și pentru a degusta berea locală Jelen.",
+            "en": "Book a tour to learn about the long brewing tradition and taste the local Jelen beer."
+          }
+        },
+        {
+          "name": {
+            "de": "Donau-Promenade",
+            "hu": "Duna-sétány",
+            "ro": "Promenada Dunării",
+            "en": "Danube Promenade"
+          },
+          "coords": [
+            18.975,
+            45.67
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:10",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ideal für ein Mittagessen in einem der Fischrestaurants mit Blick auf den Fluss.",
+            "hu": "Ideális egy ebédre az egyik folyóra néző halétteremben.",
+            "ro": "Ideal pentru un prânz la unul dintre restaurantele pescărești cu vedere la fluviu.",
+            "en": "Ideal for lunch at one of the fish restaurants overlooking the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Angelsportzentrum",
+            "hu": "Horgászközpont",
+            "ro": "Centrul de pescuit sportiv",
+            "en": "Angling Center"
+          },
+          "coords": [
+            18.973,
+            45.668
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:25",
+          "stay_min": 105,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Auch wenn Sie nicht angeln, ist es ein ruhiger Ort, um die Natur zu genießen und den Tag ausklingen zu lassen.",
+            "hu": "Még ha nem is horgászik, ez egy csendes hely a természet élvezetére és a nap befejezésére.",
+            "ro": "Chiar dacă nu pescuiți, este un loc liniștit pentru a vă bucura de natură și a încheia ziua.",
+            "en": "Even if you don't fish, it's a quiet place to enjoy nature and end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Apatin beginnt im historischen Herzen der Stadt, wo Sie die prächtige Architektur bewundern. Am Vormittag erkunden Sie die religiösen und kulturellen Sehenswürdigkeiten, bevor Sie in die berühmte Brautradition eintauchen. Den Nachmittag verbringen Sie entspannt an der Donau, genießen die frische Luft und die Aussicht auf den Fluss. Der Abend klingt in einem der gemütlichen Restaurants an der Promenade aus, wo Sie lokale Spezialitäten probieren.",
+        "hu": "Apatini napja a város történelmi szívében kezdődik, ahol megcsodálhatja a csodálatos építészetet. Délelőtt felfedezi a vallási és kulturális nevezetességeket, mielőtt elmerülne a híres sörfőző hagyományokban. A délutánt a Duna mentén pihenve tölti, élvezve a friss levegőt és a folyóra nyíló kilátást. Az estét a sétány egyik hangulatos éttermében zárja, ahol helyi specialitásokat kóstolhat.",
+        "ro": "Ziua dvs. în Apatin începe în inima istorică a orașului, admirând arhitectura magnifică. În cursul dimineții explorați obiectivele religioase și culturale înainte de a vă cufunda în celebra tradiție a berii. Petreceți după-amiaza relaxându-vă pe malul Dunării, bucurându-vă de aerul proaspăt și de priveliștea fluviului. Seara se încheie la unul dintre restaurantele primitoare de pe promenadă, degustând specialități locale.",
+        "en": "Your day in Apatin begins in the historic heart of the city, admiring the magnificent architecture. In the morning, you'll explore the religious and cultural sights before diving into the famous brewing tradition. You'll spend the afternoon relaxing by the Danube, enjoying the fresh air and the river view. The evening concludes at one of the cozy restaurants on the promenade, tasting local specialties."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fisch-Paprikasch (Riblja čorba)",
+            "tip": "Ein Muss in Apatin, am besten in einer 'Čarda' an der Donau."
+          },
+          {
+            "name": "Jelen Pivo",
+            "tip": "Das lokale Bier, direkt aus der Quelle."
+          },
+          {
+            "name": "Šaran na rašljama",
+            "tip": "Auf einem Holzgabel über offenem Feuer gegrillter Karpfen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halpaprikás (Riblja čorba)",
+            "tip": "Apatinban kötelező, a legjobb egy dunai csárdában."
+          },
+          {
+            "name": "Jelen sör",
+            "tip": "A helyi sör, egyenesen a forrásból."
+          },
+          {
+            "name": "Faszenes ponty (Šaran na rašljama)",
+            "tip": "Nyílt tűzön, faágon sütött ponty."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Papricaș de pește (Riblja čorba)",
+            "tip": "O specialitate obligatorie în Apatin, cel mai bun la o 'Čarda' de pe Dunăre."
+          },
+          {
+            "name": "Berea Jelen",
+            "tip": "Berea locală, direct de la sursă."
+          },
+          {
+            "name": "Crap la proțap (Šaran na rašljama)",
+            "tip": "Crap la grătar pe o furculiță de lemn deasupra focului deschis."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish Paprikash (Riblja čorba)",
+            "tip": "A must-try in Apatin, best enjoyed at a 'Čarda' on the Danube."
+          },
+          {
+            "name": "Jelen Beer",
+            "tip": "The local beer, straight from the source."
+          },
+          {
+            "name": "Carp on the fork (Šaran na rašljama)",
+            "tip": "Carp grilled on a wooden fork over an open fire."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenuntergang an der Donau",
+            "tip": "Finden Sie eine Bank an der Promenade und genießen Sie die Show.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Harbor of Peace",
+            "tip": "Ein ruhiger Ort, um die Boote und die Stille des Wassers zu beobachten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spaziergang im Park",
+            "tip": "Die Grünflächen entlang des Flusses bieten eine Oase der Ruhe.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente a Dunánál",
+            "tip": "Keressen egy padot a sétányon, és élvezze az előadást.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Béke kikötője",
+            "tip": "Csendes hely a csónakok és a víz csendjének megfigyelésére.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Séta a parkban",
+            "tip": "A folyó menti zöld területek a nyugalom oázisát kínálják.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apus de soare pe Dunăre",
+            "tip": "Găsiți o bancă pe promenadă și bucurați-vă de spectacol.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Portul Păcii",
+            "tip": "Un loc liniștit pentru a privi bărcile și liniștea apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plimbare în parc",
+            "tip": "Spațiile verzi de-a lungul fluviului oferă o oază de liniște.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunset on the Danube",
+            "tip": "Find a bench on the promenade and enjoy the show.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Harbor of Peace",
+            "tip": "A quiet spot to watch the boats and the stillness of the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stroll in the park",
+            "tip": "The green spaces along the river offer an oasis of calm.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte und lokale Handwerkskunst."
+          },
+          {
+            "name": "Souvenirs von der Donau",
+            "tip": "Suchen Sie nach handgefertigten Gegenständen mit Flussmotiven."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket és helyi kézműves termékeket."
+          },
+          {
+            "name": "Dunai szuvenírek",
+            "tip": "Keressen kézzel készített, folyami motívumokkal díszített tárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse proaspete și artizanat local."
+          },
+          {
+            "name": "Suveniruri de pe Dunăre",
+            "tip": "Căutați obiecte lucrate manual cu motive fluviale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for fresh produce and local handicrafts."
+          },
+          {
+            "name": "Danube Souvenirs",
+            "tip": "Look for handmade items with river motifs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Planen Sie genügend Zeit für ein gemütliches Mittagessen an der Donau ein.",
+          "Die besten Fotomotive finden Sie am frühen Morgen oder späten Nachmittag."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "Szánjon elegendő időt egy kellemes ebédre a Duna-parton.",
+          "A legjobb fotótémákat kora reggel vagy késő délután találja."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe jos.",
+          "Planificați suficient timp pentru un prânz relaxant pe malul Dunării.",
+          "Cele mai bune oportunități foto sunt dimineața devreme sau după-amiaza târziu."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Plan enough time for a leisurely lunch by the Danube.",
+          "The best photo opportunities are in the early morning or late afternoon."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus und Hauptplatz",
+            "hu": "Városháza és Főtér",
+            "ro": "Primăria și Piața Principală",
+            "en": "Town Hall and Main Square"
+          },
+          "coords": [
+            18.9845,
+            45.6718
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Mariä-Himmelfahrt-Kirche",
+            "hu": "Mária Mennybemenetele templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Assumption of Mary"
+          },
+          "coords": [
+            18.9855,
+            45.6725
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:33",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Brauerei Apatin",
+            "hu": "Apatini Sörgyár",
+            "ro": "Fabrica de bere Apatin",
+            "en": "Apatin Brewery"
+          },
+          "coords": [
+            18.9785,
+            45.674
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:09",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0
+        },
+        {
+          "name": {
+            "de": "Donau-Promenade (Start)",
+            "hu": "Duna-sétány (Kezdet)",
+            "ro": "Promenada Dunării (Început)",
+            "en": "Danube Promenade (Start)"
+          },
+          "coords": [
+            18.975,
+            45.67
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:18",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5
+        },
+        {
+          "name": {
+            "de": "Angelsportzentrum",
+            "hu": "Horgászközpont",
+            "ro": "Centrul de pescuit sportiv",
+            "en": "Angling Center"
+          },
+          "coords": [
+            18.973,
+            45.668
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Apostels Paul",
+            "hu": "Szent Pál apostol templom",
+            "ro": "Biserica Sfântul Apostol Pavel",
+            "en": "Church of Saint Apostle Paul"
+          },
+          "coords": [
+            18.9958,
+            45.659
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:30",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 7.5
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel und entdecken Sie Apatin auf zwei Rädern. Die Tour beginnt im Stadtzentrum, führt Sie zur berühmten Brauerei und dann entlang der malerischen Donaupromenade. Am Nachmittag unternehmen Sie eine längere Fahrt zu einem ruhigeren Teil der Stadt, um eine andere historische Kirche zu besichtigen. Genießen Sie die Freiheit und die frische Brise, während Sie die Highlights der Stadt und ihrer Umgebung erkunden.",
+        "hu": "Pattanjon nyeregbe, és fedezze fel Apatint két keréken. A túra a városközpontból indul, elvezet a híres sörgyárhoz, majd a festői Duna-sétány mentén halad. Délután egy hosszabb útra indul a város egy csendesebb részébe, hogy megnézzen egy másik történelmi templomot. Élvezze a szabadságot és a friss szellőt, miközben felfedezi a város és környéke nevezetességeit.",
+        "ro": "Urcați-vă pe bicicletă și descoperiți Apatin pe două roți. Turul începe în centrul orașului, vă duce la faimoasa fabrică de bere și apoi de-a lungul pitoreștii promenade a Dunării. După-amiaza faceți o plimbare mai lungă către o parte mai liniștită a orașului pentru a vizita o altă biserică istorică. Bucurați-vă de libertate și de briza proaspătă în timp ce explorați atracțiile orașului și ale împrejurimilor sale.",
+        "en": "Hop on your bike and discover Apatin on two wheels. The tour starts in the city center, takes you to the famous brewery, and then along the scenic Danube promenade. In the afternoon, you'll take a longer ride to a quieter part of town to visit another historic church. Enjoy the freedom and the fresh breeze as you explore the highlights of the city and its surroundings."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Čarda Zlatna Kruna",
+            "tip": "Ein berühmtes Fischrestaurant mit einer tollen Terrasse direkt am Wasser."
+          },
+          {
+            "name": "Leichte Snacks",
+            "tip": "Perfekt für eine Radtour, packen Sie ein paar lokale Gebäcke (Pekara) ein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zlatna Kruna Csárda",
+            "tip": "Híres halétterem nagyszerű terasszal közvetlenül a vízparton."
+          },
+          {
+            "name": "Könnyű harapnivalók",
+            "tip": "Tökéletes egy biciklitúrához, csomagoljon néhány helyi péksüteményt (Pekara)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Čarda Zlatna Kruna",
+            "tip": "Un renumit restaurant pescăresc cu o terasă superbă chiar pe malul apei."
+          },
+          {
+            "name": "Gustări ușoare",
+            "tip": "Perfect pentru o plimbare cu bicicleta, împachetați câteva produse de patiserie locale (Pekara)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Čarda Zlatna Kruna",
+            "tip": "A famous fish restaurant with a great terrace right on the waterfront."
+          },
+          {
+            "name": "Light snacks",
+            "tip": "Perfect for a bike tour, pack some local pastries (Pekara)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg entlang der Donau",
+            "tip": "Fahren Sie flussabwärts für ruhige Abschnitte und unberührte Natur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Versteckte Bänke im Park",
+            "tip": "Machen Sie eine Pause im Schatten der Bäume.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Duna menti kerékpárút",
+            "tip": "Tekerjen lefelé a folyón a csendes szakaszokért és az érintetlen természetért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rejtett padok a parkban",
+            "tip": "Tartson egy kis szünetet a fák árnyékában.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul Dunării",
+            "tip": "Mergeți în aval pentru porțiuni liniștite și natură neatinsă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bănci ascunse în parc",
+            "tip": "Luați o pauză la umbra copacilor.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Danube cycle path",
+            "tip": "Ride downstream for quiet stretches and untouched nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hidden benches in the park",
+            "tip": "Take a break in the shade of the trees.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradladen",
+            "tip": "Falls Sie Zubehör oder eine schnelle Reparatur benötigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Ha kiegészítőre vagy gyors javításra van szüksége."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "În caz că aveți nevoie de accesorii sau de o reparație rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shop",
+            "tip": "In case you need accessories or a quick repair."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt.",
+          "Nehmen Sie viel Wasser mit, besonders an warmen Tagen.",
+          "Schließen Sie Ihr Fahrrad immer ab, wenn Sie es abstellen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját.",
+          "Vigyen magával sok vizet, különösen meleg napokon.",
+          "Mindig zárja le a kerékpárját, ha leparkolja."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca.",
+          "Luați multă apă cu dvs., mai ales în zilele călduroase.",
+          "Încuiați-vă întotdeauna bicicleta când o parcați."
+        ],
+        "en": [
+          "Check your bike before you leave.",
+          "Bring plenty of water, especially on warm days.",
+          "Always lock your bike when you park it."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 16.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Rathaus von Apatin",
+            "hu": "A Klaszter: Apatini városháza",
+            "ro": "Cluster A: Primăria din Apatin",
+            "en": "Cluster A: Apatin Town Hall"
+          },
+          "coords": [
+            18.9845,
+            45.6718
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Cluster A: Mariä-Himmelfahrt-Kirche",
+            "hu": "A Klaszter: Mária Mennybemenetele templom",
+            "ro": "Cluster A: Biserica Adormirea Maicii Domnului",
+            "en": "Cluster A: Church of the Assumption of Mary"
+          },
+          "coords": [
+            18.9855,
+            45.6725
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Cluster A: Statue der Nike",
+            "hu": "A Klaszter: Niké szobra",
+            "ro": "Cluster A: Statuia zeiței Nike",
+            "en": "Cluster A: Statue of Nike"
+          },
+          "coords": [
+            18.984,
+            45.6722
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:20",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Cluster B: Donau-Promenade & Mittagessen",
+            "hu": "B Klaszter: Duna-sétány és ebéd",
+            "ro": "Cluster B: Promenada Dunării & Prânz",
+            "en": "Cluster B: Danube Promenade & Lunch"
+          },
+          "coords": [
+            18.975,
+            45.67
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:55",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5
+        },
+        {
+          "name": {
+            "de": "Cluster B: Brauerei Apatin",
+            "hu": "B Klaszter: Apatini Sörgyár",
+            "ro": "Cluster B: Fabrica de bere Apatin",
+            "en": "Cluster B: Apatin Brewery"
+          },
+          "coords": [
+            18.9785,
+            45.674
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:05",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Ausflug: Kirche des Heiligen Apostels Paul",
+            "hu": "Kirándulás: Szent Pál apostol templom",
+            "ro": "Excursie: Biserica Sfântul Apostol Pavel",
+            "en": "Excursion: Church of Saint Apostle Paul"
+          },
+          "coords": [
+            18.9958,
+            45.659
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:50",
+          "stay_min": 155,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 13.0
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Apatin und seine Umgebung flexibel. Beginnen Sie im Zentrum (Cluster A), parken Sie und spazieren Sie zu den wichtigsten historischen Gebäuden. Fahren Sie dann zur Donau (Cluster B) für ein entspanntes Mittagessen und eine Brauereibesichtigung. Am Nachmittag ermöglicht Ihnen das Auto einen Ausflug zu einer etwas abgelegeneren Kirche, wo Sie die Ruhe und die Landschaft genießen können, bevor Sie in die Stadt zurückkehren.",
+        "hu": "Autóval rugalmasan fedezheti fel Apatint és környékét. Kezdje a központban (A klaszter), parkoljon le, és sétáljon el a legfontosabb történelmi épületekhez. Ezután hajtson a Dunához (B klaszter) egy kellemes ebédre és sörgyárlátogatásra. Délután az autóval kirándulást tehet egy kissé távolabbi templomhoz, ahol élvezheti a csendet és a tájat, mielőtt visszatérne a városba.",
+        "ro": "Cu mașina explorați Apatin și împrejurimile sale cu flexibilitate. Începeți în centru (Cluster A), parcați și plimbați-vă la principalele clădiri istorice. Apoi conduceți la Dunăre (Cluster B) pentru un prânz relaxant și un tur al fabricii de bere. După-amiaza, mașina vă permite o excursie la o biserică mai îndepărtată, unde vă puteți bucura de liniște și peisaj înainte de a vă întoarce în oraș.",
+        "en": "With a car, you can explore Apatin and its surroundings flexibly. Start in the center (Cluster A), park, and stroll to the main historic buildings. Then, drive to the Danube (Cluster B) for a relaxed lunch and a brewery tour. In the afternoon, the car allows for an excursion to a more remote church, where you can enjoy the peace and scenery before returning to town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant am Stadtrand",
+            "tip": "Nutzen Sie das Auto, um eine authentische Čarda außerhalb des Zentrums zu finden."
+          },
+          {
+            "name": "Kaffee und Kuchen im Zentrum",
+            "tip": "Nach dem Stadtspaziergang eine willkommene Pause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a külvárosban",
+            "tip": "Használja ki az autót, és keressen egy autentikus csárdát a központon kívül."
+          },
+          {
+            "name": "Kávé és sütemény a központban",
+            "tip": "A városi séta után jól eső pihenő."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant la periferie",
+            "tip": "Folosiți mașina pentru a găsi o Čarda autentică în afara centrului."
+          },
+          {
+            "name": "Cafea și prăjituri în centru",
+            "tip": "O pauză binevenită după plimbarea prin oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant on the outskirts",
+            "tip": "Use the car to find an authentic Čarda outside the center."
+          },
+          {
+            "name": "Coffee and cake in the center",
+            "tip": "A welcome break after the city walk."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Umland von Apatin",
+            "tip": "Fahren Sie auf kleinen Straßen und entdecken Sie die ländliche Umgebung.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parken am Flussufer",
+            "tip": "Finden Sie einen ruhigen Parkplatz und genießen Sie die Aussicht von Ihrem Auto aus.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Apatin környéke",
+            "tip": "Vezessen kis utakon, és fedezze fel a vidéki környezetet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parkolás a folyóparton",
+            "tip": "Keressen egy csendes parkolót, és élvezze a kilátást az autójából.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Împrejurimile Apatinului",
+            "tip": "Conduceți pe drumuri mici și descoperiți peisajul rural.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcare pe malul fluviului",
+            "tip": "Găsiți un loc de parcare liniștit și bucurați-vă de priveliște din mașină.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Surroundings of Apatin",
+            "tip": "Drive on small roads and discover the rural surroundings.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parking on the riverbank",
+            "tip": "Find a quiet parking spot and enjoy the view from your car.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Halten Sie Ausschau nach Schildern, die lokale Produkte wie Honig oder Wein verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői boltok",
+            "tip": "Keresse a táblákat, ahol helyi termékeket, például mézet vagy bort árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de la fermă",
+            "tip": "Fiți atenți la indicatoarele care vând produse locale, cum ar fi miere sau vin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops",
+            "tip": "Look out for signs selling local products like honey or wine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Suchen Sie nach ausgewiesenen Parkplätzen in der Nähe der Cluster.",
+          "Planen Sie die Fahrtzeiten zwischen den Clustern großzügig.",
+          "Ein Navigationssystem ist hilfreich für die Fahrt zu abgelegeneren Orten."
+        ],
+        "hu": [
+          "Keressen kijelölt parkolókat a klaszterek közelében.",
+          "Tervezze meg nagyvonalúan az utazási időt a klaszterek között.",
+          "A navigációs rendszer hasznos a távolabbi helyekre való utazáshoz."
+        ],
+        "ro": [
+          "Căutați parcări desemnate în apropierea clusterelor.",
+          "Planificați generos timpii de condus între clustere.",
+          "Un sistem de navigație este util pentru a ajunge în locații mai îndepărtate."
+        ],
+        "en": [
+          "Look for designated parking areas near the clusters.",
+          "Plan driving times between clusters generously.",
+          "A navigation system is helpful for driving to more remote locations."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Rathaus von Apatin",
+            "hu": "A Klaszter: Apatini városháza",
+            "ro": "Cluster A: Primăria din Apatin",
+            "en": "Cluster A: Apatin Town Hall"
+          },
+          "coords": [
+            18.9845,
+            45.6718
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Cluster A: Mariä-Himmelfahrt-Kirche",
+            "hu": "A Klaszter: Mária Mennybemenetele templom",
+            "ro": "Cluster A: Biserica Adormirea Maicii Domnului",
+            "en": "Cluster A: Church of the Assumption of Mary"
+          },
+          "coords": [
+            18.9855,
+            45.6725
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Cluster A: Haus der Familie Boršoš",
+            "hu": "A Klaszter: Boršoš család háza",
+            "ro": "Cluster A: Casa familiei Boršoš",
+            "en": "Cluster A: House of the Boršoš Family"
+          },
+          "coords": [
+            18.9833,
+            45.6709
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:25",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Cluster B: Donau-Promenade",
+            "hu": "B Klaszter: Duna-sétány",
+            "ro": "Cluster B: Promenada Dunării",
+            "en": "Cluster B: Danube Promenade"
+          },
+          "coords": [
+            18.975,
+            45.67
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:20",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.5
+        },
+        {
+          "name": {
+            "de": "Cluster B: Brauerei Apatin",
+            "hu": "B Klaszter: Apatini Sörgyár",
+            "ro": "Cluster B: Fabrica de bere Apatin",
+            "en": "Cluster B: Apatin Brewery"
+          },
+          "coords": [
+            18.9785,
+            45.674
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:30",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Cluster C: Angelsportzentrum",
+            "hu": "C Klaszter: Horgászközpont",
+            "ro": "Cluster C: Centrul de pescuit sportiv",
+            "en": "Cluster C: Angling Center"
+          },
+          "coords": [
+            18.973,
+            45.668
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:10",
+          "stay_min": 115,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die lokalen Busse, um Apatin entspannt zu erleben. Starten Sie im Zentrum (Cluster A) und erkunden Sie die historischen Sehenswürdigkeiten zu Fuß. Nehmen Sie dann einen Bus zur Donau (Cluster B) für ein Mittagessen und einen Besuch der Brauerei. Eine weitere kurze Busfahrt (Cluster C) bringt Sie zum ruhigen Angelsportzentrum, wo Sie den Nachmittag verbringen und die Natur genießen können. Diese Methode ist kostengünstig und stressfrei.",
+        "hu": "Használja a helyi buszokat, hogy nyugodtan felfedezze Apatint. Kezdje a központban (A klaszter), és gyalogosan fedezze fel a történelmi nevezetességeket. Ezután buszozzon a Dunához (B klaszter) egy ebédre és a sörgyár meglátogatására. Egy másik rövid buszút (C klaszter) elviszi a csendes horgászközponthoz, ahol a délutánt töltheti és élvezheti a természetet. Ez a módszer költséghatékony és stresszmentes.",
+        "ro": "Folosiți autobuzele locale pentru a experimenta Apatin într-un mod relaxat. Începeți în centru (Cluster A) și explorați obiectivele istorice pe jos. Apoi luați un autobuz până la Dunăre (Cluster B) pentru prânz și o vizită la fabrica de bere. O altă călătorie scurtă cu autobuzul (Cluster C) vă duce la centrul de pescuit liniștit, unde vă puteți petrece după-amiaza bucurându-vă de natură. Această metodă este rentabilă și fără stres.",
+        "en": "Use the local buses to experience Apatin in a relaxed way. Start in the center (Cluster A) and explore the historical sights on foot. Then take a bus to the Danube (Cluster B) for lunch and a visit to the brewery. Another short bus ride (Cluster C) takes you to the quiet angling center, where you can spend the afternoon enjoying nature. This method is cost-effective and stress-free."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Imbissbude in der Nähe der Bushaltestelle",
+            "tip": "Probieren Sie lokale Schnellgerichte wie Pljeskavica."
+          },
+          {
+            "name": "Café im Zentrum",
+            "tip": "Warten Sie auf Ihren Bus bei einer Tasse Kaffee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyorsétterem a buszmegálló közelében",
+            "tip": "Kóstolja meg a helyi gyorsételeket, mint például a pljeskavica."
+          },
+          {
+            "name": "Kávézó a központban",
+            "tip": "Várja a buszt egy csésze kávé mellett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc de mâncare lângă stația de autobuz",
+            "tip": "Încercați mâncăruri rapide locale precum Pljeskavica."
+          },
+          {
+            "name": "Cafenea în centru",
+            "tip": "Așteptați autobuzul cu o ceașcă de cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Food stall near the bus stop",
+            "tip": "Try local fast food like Pljeskavica."
+          },
+          {
+            "name": "Café in the center",
+            "tip": "Wait for your bus with a cup of coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blick aus dem Busfenster",
+            "tip": "Beobachten Sie das städtische Leben, während Sie von A nach B fahren.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Warten an einer ruhigen Haltestelle",
+            "tip": "Manchmal ist eine Pause an einer weniger frequentierten Haltestelle eine gute Erholung.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a busz ablakából",
+            "tip": "Figyelje a városi életet, miközben A-ból B-be utazik.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Várakozás egy csendes megállóban",
+            "tip": "Néha egy kevésbé forgalmas megállóban tartott szünet is jó pihenés.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Privind pe geamul autobuzului",
+            "tip": "Observați viața urbană în timp ce călătoriți de la A la B.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Așteptând într-o stație liniștită",
+            "tip": "Uneori, o pauză într-o stație mai puțin aglomerată este o bună relaxare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the bus window",
+            "tip": "Observe urban life as you travel from A to B.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Waiting at a quiet stop",
+            "tip": "Sometimes a break at a less busy stop is a good rest.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk (Trafika)",
+            "tip": "Kaufen Sie Bustickets, Getränke und kleine Snacks."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk (Trafika)",
+            "tip": "Vásároljon buszjegyet, italokat és apró harapnivalókat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc (Trafika)",
+            "tip": "Cumpărați bilete de autobuz, băuturi și mici gustări."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk (Trafika)",
+            "tip": "Buy bus tickets, drinks, and small snacks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich im Voraus über die Buslinien und Fahrpläne.",
+          "Haben Sie Kleingeld für die Tickets bereit.",
+          "Beachten Sie die Stoßzeiten, um überfüllte Busse zu vermeiden."
+        ],
+        "hu": [
+          "Tájékozódjon előre a buszjáratokról és a menetrendről.",
+          "Készítsen elő aprópénzt a jegyekhez.",
+          "Vegye figyelembe a csúcsidőt a zsúfolt buszok elkerülése érdekében."
+        ],
+        "ro": [
+          "Informați-vă în prealabil despre rutele și orarele autobuzelor.",
+          "Pregătiți mărunțiș pentru bilete.",
+          "Fiți atenți la orele de vârf pentru a evita autobuzele aglomerate."
+        ],
+        "en": [
+          "Find out about bus routes and schedules in advance.",
+          "Have small change ready for tickets.",
+          "Pay attention to peak hours to avoid crowded buses."
+        ]
+      }
+    }
+  }
+}

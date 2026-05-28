@@ -1,0 +1,1138 @@
+{
+  "city_id": "bonyhad",
+  "anchor": {
+    "name": "Bonnhard",
+    "coords": [
+      18.5333,
+      46.3
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus und Dreifaltigkeitssäule",
+            "hu": "Városháza és Szentháromság-szobor",
+            "ro": "Primăria și Coloana Sfintei Treimi",
+            "en": "Town Hall and Trinity Column"
+          },
+          "coords": [
+            18.533,
+            46.3005
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag im Herzen der Stadt, dem Széchenyi-Platz.",
+            "hu": "Kezdje a napot a város szívében, a Széchenyi téren.",
+            "ro": "Începeți ziua în inima orașului, Piața Széchenyi.",
+            "en": "Start your day in the heart of the city, Széchenyi Square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Unbefleckten Empfängnis",
+            "hu": "Szeplőtelen Fogantatás templom",
+            "ro": "Biserica Imaculata Concepție",
+            "en": "Church of the Immaculate Conception"
+          },
+          "coords": [
+            18.5345,
+            46.3015
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie das barocke Interieur dieser beeindruckenden katholischen Kirche.",
+            "hu": "Csodálja meg ennek a lenyűgöző katolikus templomnak a barokk belső terét.",
+            "ro": "Admirați interiorul baroc al acestei impresionante biserici catolice.",
+            "en": "Admire the baroque interior of this impressive Catholic church."
+          }
+        },
+        {
+          "name": {
+            "de": "Evangelische Kirche",
+            "hu": "Evangélikus templom",
+            "ro": "Biserica Evanghelică",
+            "en": "Evangelical Church"
+          },
+          "coords": [
+            18.531,
+            46.298
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein schönes Beispiel klassizistischer Architektur, das einen ruhigen Moment bietet.",
+            "hu": "A klasszicista építészet szép példája, amely csendes pillanatokat kínál.",
+            "ro": "Un frumos exemplu de arhitectură clasicistă care oferă un moment de liniște.",
+            "en": "A fine example of classicist architecture, offering a quiet moment."
+          }
+        },
+        {
+          "name": {
+            "de": "Perczel-Herrenhaus",
+            "hu": "Perczel-kúria",
+            "ro": "Conacul Perczel",
+            "en": "Perczel Mansion"
+          },
+          "coords": [
+            18.528,
+            46.299
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die einflussreiche Familie Perczel und ihre Rolle in der ungarischen Geschichte.",
+            "hu": "Ismerje meg a befolyásos Perczel családot és szerepüket a magyar történelemben.",
+            "ro": "Aflați despre influenta familie Perczel și rolul lor în istoria Ungariei.",
+            "en": "Learn about the influential Perczel family and their role in Hungarian history."
+          }
+        },
+        {
+          "name": {
+            "de": "Völgység-Museum",
+            "hu": "Völgységi Múzeum",
+            "ro": "Muzeul Völgység",
+            "en": "Völgység Museum"
+          },
+          "coords": [
+            18.5285,
+            46.2995
+          ],
+          "category": "museums",
+          "arrive_at": "13:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Direkt neben dem Herrenhaus gelegen, zeigt es die lokale Geschichte und Ethnographie.",
+            "hu": "Közvetlenül a kúria mellett található, a helyi történelmet és néprajzot mutatja be.",
+            "ro": "Situat chiar lângă conac, prezintă istoria și etnografia locală.",
+            "en": "Located right next to the mansion, it showcases local history and ethnography."
+          }
+        },
+        {
+          "name": {
+            "de": "Perczel-Garten",
+            "hu": "Perczel-kert",
+            "ro": "Grădina Perczel",
+            "en": "Perczel Garden"
+          },
+          "coords": [
+            18.527,
+            46.2985
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für einen entspannten Spaziergang nach dem Museumsbesuch.",
+            "hu": "Tökéletes hely egy pihentető sétára a múzeumi látogatás után.",
+            "ro": "Un loc perfect pentru o plimbare relaxantă după vizita la muzeu.",
+            "en": "A perfect spot for a relaxing stroll after the museum visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalvarienberg",
+            "hu": "Kálvária-hegy",
+            "ro": "Dealul Calvariei",
+            "en": "Calvary Hill"
+          },
+          "coords": [
+            18.538,
+            46.296
+          ],
+          "category": "historical",
+          "arrive_at": "16:20",
+          "stay_min": 55,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für die Panoramaaussicht auf die Stadt und die umliegende Landschaft.",
+            "hu": "A megéri a fáradtságot a városra és a környező tájra nyíló panorámás kilátásért.",
+            "ro": "Urcușul merită efortul pentru vederea panoramică asupra orașului și a peisajului înconjurător.",
+            "en": "The climb is worth the effort for the panoramic view of the town and surrounding landscape."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Bonyhád beginnt auf dem belebten Széchenyi-Platz, dem historischen Herzen der Stadt. Am Vormittag erkunden Sie die prächtigen Kirchen, die die religiöse Vielfalt der Region widerspiegeln. Der Nachmittag ist der Geschichte gewidmet, mit einem Besuch des Perczel-Herrenhauses und des Völgység-Museums, gefolgt von einer entspannenden Zeit im Perczel-Garten. Der Tag endet mit einem kurzen Aufstieg zum Kalvarienberg, der eine atemberaubende Aussicht bei Sonnenuntergang bietet.",
+        "hu": "Bonyhádi napja a nyüzsgő Széchenyi téren, a város történelmi szívében kezdődik. A délelőttöt a régió vallási sokszínűségét tükröző csodálatos templomok felfedezésével tölti. A délután a történelemé, a Perczel-kúria és a Völgységi Múzeum meglátogatásával, amit a Perczel-kertben való pihenés követ. A nap a Kálvária-hegyre való rövid felkapaszkodással zárul, ahonnan lélegzetelállító kilátás nyílik naplementekor.",
+        "ro": "Ziua dumneavoastră în Bonyhád începe în Piața plină de viață Széchenyi, inima istorică a orașului. Dimineața explorați bisericile magnifice care reflectă diversitatea religioasă a regiunii. După-amiaza este dedicată istoriei, cu o vizită la Conacul Perczel și Muzeul Völgység, urmată de o perioadă de relaxare în Grădina Perczel. Ziua se încheie cu o scurtă urcare pe Dealul Calvariei, care oferă o priveliște uluitoare la apus.",
+        "en": "Your day in Bonyhád begins in the bustling Széchenyi Square, the historic heart of the town. The morning is spent exploring the magnificent churches that reflect the region's religious diversity. The afternoon is dedicated to history, with a visit to the Perczel Mansion and the Völgység Museum, followed by a relaxing time in the Perczel Garden. The day concludes with a short climb up Calvary Hill for a breathtaking sunset view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schwäbische Küche",
+            "tip": "Probieren Sie lokale schwäbische Spezialitäten in einem der traditionellen Restaurants."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sváb konyha",
+            "tip": "Kóstoljon meg helyi sváb specialitásokat az egyik hagyományos étteremben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bucătărie șvăbească",
+            "tip": "Încercați specialități locale șvăbești la unul dintre restaurantele tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Swabian Cuisine",
+            "tip": "Try local Swabian specialities in one of the traditional restaurants."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kalvarienberg bei Sonnenuntergang",
+            "tip": "Der ruhigste Ort der Stadt mit der besten Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Perczel-Garten",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die Natur.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kálvária-hegy naplementekor",
+            "tip": "A város legcsendesebb helye a legjobb kilátással.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Perczel-kert",
+            "tip": "Keressen egy csendes padot, és élvezze a természetet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Calvariei la apus",
+            "tip": "Cel mai liniștit loc din oraș cu cea mai bună priveliște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina Perczel",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de natură.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Calvary Hill at sunset",
+            "tip": "The quietest spot in town with the best view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Perczel Garden",
+            "tip": "Find a quiet bench and enjoy nature.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Produkten und Handwerk auf dem Hauptplatz an Markttagen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Piacnapokon keresse a helyi termékeket és kézműves termékeket a főtéren."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse locale și artizanat în piața principală în zilele de piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for local produce and crafts in the main square on market days."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Prüfen Sie die Öffnungszeiten des Museums im Voraus.",
+          "Bringen Sie Wasser mit, besonders für den Aufstieg zum Kalvarienberg."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Előre ellenőrizze a múzeum nyitvatartási idejét.",
+          "Hozzon magával vizet, különösen a Kálvária-hegyre való feljutáshoz."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Verificați în avans programul de funcționare al muzeului.",
+          "Luați apă cu dumneavoastră, mai ales pentru urcarea pe Dealul Calvariei."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Check the museum's opening hours in advance.",
+          "Bring water, especially for the climb to Calvary Hill."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus und Dreifaltigkeitssäule",
+            "hu": "Városháza és Szentháromság-szobor",
+            "ro": "Primăria și Coloana Sfintei Treimi",
+            "en": "Town Hall and Trinity Column"
+          },
+          "coords": [
+            18.533,
+            46.3005
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Radtour am zentralen Platz der Stadt.",
+            "hu": "Indítsa a kerékpártúrát a város központi teréről.",
+            "ro": "Începeți turul cu bicicleta din piața centrală a orașului.",
+            "en": "Start your bike tour from the city's central square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Unbefleckten Empfängnis",
+            "hu": "Szeplőtelen Fogantatás templom",
+            "ro": "Biserica Imaculata Concepție",
+            "en": "Church of the Immaculate Conception"
+          },
+          "coords": [
+            18.5345,
+            46.3015
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und nehmen Sie sich einen Moment Zeit, um die barocke Schönheit zu bewundern.",
+            "hu": "Zárja le a kerékpárt, és szánjon egy percet a barokk szépség megcsodálására.",
+            "ro": "Legați-vă bicicleta și admirați frumusețea barocă.",
+            "en": "Lock up your bike and take a moment to admire the baroque beauty."
+          }
+        },
+        {
+          "name": {
+            "de": "Evangelische Kirche",
+            "hu": "Evangélikus templom",
+            "ro": "Biserica Evanghelică",
+            "en": "Evangelical Church"
+          },
+          "coords": [
+            18.531,
+            46.298
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt zu einem weiteren architektonischen Juwel der Stadt.",
+            "hu": "Egy rövid út a város egy másik építészeti gyöngyszeméhez.",
+            "ro": "O scurtă plimbare cu bicicleta până la o altă bijuterie arhitecturală a orașului.",
+            "en": "A short ride to another of the city's architectural gems."
+          }
+        },
+        {
+          "name": {
+            "de": "Perczel-Herrenhaus und Museum",
+            "hu": "Perczel-kúria és Múzeum",
+            "ro": "Conacul și Muzeul Perczel",
+            "en": "Perczel Mansion and Museum"
+          },
+          "coords": [
+            18.528,
+            46.299
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Kombinieren Sie diese beiden Attraktionen für einen tiefen Einblick in die lokale Geschichte.",
+            "hu": "Kombinálja ezt a két látnivalót, hogy mély betekintést nyerjen a helyi történelembe.",
+            "ro": "Combinați aceste două atracții pentru o incursiune profundă în istoria locală.",
+            "en": "Combine these two attractions for a deep dive into local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Stadt",
+            "hu": "Ebéd a városban",
+            "ro": "Prânz în oraș",
+            "en": "Lunch in town"
+          },
+          "coords": [
+            18.532,
+            46.3
+          ],
+          "category": "gastro",
+          "arrive_at": "13:10",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Stärken Sie sich mit einem herzhaften ungarischen Mittagessen.",
+            "hu": "Töltődjön fel egy kiadós magyar ebéddel.",
+            "ro": "Reîncărcați-vă bateriile cu un prânz maghiar consistent.",
+            "en": "Refuel with a hearty Hungarian lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Perczel-Garten",
+            "hu": "Perczel-kert",
+            "ro": "Grădina Perczel",
+            "en": "Perczel Garden"
+          },
+          "coords": [
+            18.527,
+            46.2985
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Radeln Sie zum Garten für eine entspannte Pause am Nachmittag.",
+            "hu": "Tekerjen el a kertbe egy kellemes délutáni pihenőre.",
+            "ro": "Pedalați până la grădină pentru o pauză relaxantă de după-amiază.",
+            "en": "Cycle to the garden for a relaxing afternoon break."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalvarienberg",
+            "hu": "Kálvária-hegy",
+            "ro": "Dealul Calvariei",
+            "en": "Calvary Hill"
+          },
+          "coords": [
+            18.538,
+            46.296
+          ],
+          "category": "viewpoint",
+          "arrive_at": "15:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Die letzte Etappe ist ein Hügel, aber die Aussicht ist die Anstrengung wert. Vielleicht müssen Sie das Fahrrad schieben.",
+            "hu": "Az utolsó szakasz egy emelkedő, de a kilátás megéri az erőfeszítést. Lehet, hogy tolnia kell a kerékpárt.",
+            "ro": "Ultima etapă este o urcare, dar priveliștea merită efortul. S-ar putea să trebuiască să împingeți bicicleta.",
+            "en": "The final leg is a hill, but the view is worth the effort. You might need to push the bike."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie Bonyhád auf flexible Weise. Der Morgen führt Sie vom Stadtzentrum zu den historischen Kirchen. Nach einem kulturellen Vormittag im Perczel-Komplex mit Herrenhaus und Museum stärken Sie sich beim Mittagessen. Der Nachmittag bietet eine Mischung aus Entspannung im Perczel-Garten und einer sportlichen Herausforderung mit der Fahrt zum Kalvarienberg, dem perfekten Abschluss Ihrer Tour.",
+        "hu": "Kerékpárral rugalmasan fedezheti fel Bonyhádot. A reggeli út a városközpontból a történelmi templomokhoz vezet. A Perczel-komplexumban, a kúriával és a múzeummal töltött kulturális délelőtt után ebédnél frissülhet fel. A délután a Perczel-kertben való pihenés és a Kálvária-hegyre való sportos kihívás keverékét kínálja, amely tökéletes lezárása a túrának.",
+        "ro": "Cu bicicleta explorați Bonyhádul într-un mod flexibil. Dimineața vă poartă din centrul orașului la bisericile istorice. După o dimineață culturală la complexul Perczel, cu conacul și muzeul său, vă refaceți forțele la prânz. După-amiaza oferă un amestec de relaxare în Grădina Perczel și o provocare sportivă cu urcarea pe Dealul Calvariei, încheierea perfectă a turului dumneavoastră.",
+        "en": "Exploring Bonyhád by bike offers a flexible way to see the sights. The morning takes you from the town center to the historic churches. After a cultural morning at the Perczel complex with its mansion and museum, you'll refuel with lunch. The afternoon offers a mix of relaxation in the Perczel Garden and a sporting challenge with the ride up to Calvary Hill, the perfect conclusion to your tour."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lángos",
+            "tip": "Ein schneller und leckerer ungarischer Snack, perfekt für eine Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lángos",
+            "tip": "Gyors és ízletes magyar harapnivaló, tökéletes egy kerékpártúrához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lángos",
+            "tip": "O gustare maghiară rapidă și delicioasă, perfectă pentru o pauză în timpul turului cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lángos",
+            "tip": "A quick and delicious Hungarian snack, perfect for a bike tour break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Baches",
+            "tip": "Finden Sie einen ruhigen Platz am Wasser für eine kurze Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kalvarienberg",
+            "tip": "Genießen Sie die Stille und die weite Aussicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Patakpart",
+            "tip": "Keressen egy csendes helyet a vízparton egy rövid pihenőre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kálvária-hegy",
+            "tip": "Élvezze a csendet és a széles panorámát.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul pârâului",
+            "tip": "Găsiți un loc liniștit lângă apă pentru o scurtă pauză.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dealul Calvariei",
+            "tip": "Bucurați-vă de liniște și de priveliștea panoramică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Stream bank",
+            "tip": "Find a quiet spot by the water for a short break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Calvary Hill",
+            "tip": "Enjoy the silence and the wide view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Falls Sie Ersatzteile oder Zubehör benötigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Ha pótalkatrészekre vagy kiegészítőkre van szüksége."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "În caz că aveți nevoie de piese de schimb sau accesorii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shop",
+            "tip": "In case you need any spare parts or accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck vor der Abfahrt.",
+          "Nehmen Sie ein Fahrradschloss für die Besichtigungen mit.",
+          "Die Wege sind meist flach, aber der Kalvarienberg ist eine Herausforderung."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Hozzon magával kerékpárzárat a látnivalók megtekintéséhez.",
+          "Az utak többnyire síkak, de a Kálvária-hegy kihívást jelent."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope înainte de a pleca.",
+          "Luați un lacăt pentru bicicletă pentru opririle la obiective.",
+          "Traseele sunt în mare parte plate, dar Dealul Calvariei este o provocare."
+        ],
+        "en": [
+          "Check your tire pressure before leaving.",
+          "Bring a bike lock for sightseeing stops.",
+          "The paths are mostly flat, but Calvary Hill is a challenge."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 5.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Kalvarienberg & Parken",
+            "hu": "1. klaszter: Kálvária-hegy és parkolás",
+            "ro": "Cluster 1: Dealul Calvariei și parcare",
+            "en": "Cluster 1: Calvary Hill & Parking"
+          },
+          "coords": [
+            18.538,
+            46.296
+          ],
+          "category": "viewpoint",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie mit der besten Aussicht. Parken Sie hier und gehen Sie dann ins Stadtzentrum.",
+            "hu": "Kezdje a legjobb kilátással. Parkoljon itt, majd sétáljon be a városközpontba.",
+            "ro": "Începeți cu cea mai bună priveliște. Parcați aici și apoi mergeți pe jos în centrul orașului.",
+            "en": "Start with the best view. Park your car here and then walk to the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Stadtzentrum zu Fuß",
+            "hu": "2. klaszter: Belváros gyalog",
+            "ro": "Cluster 2: Centrul orașului pe jos",
+            "en": "Cluster 2: Downtown on Foot"
+          },
+          "coords": [
+            18.533,
+            46.3005
+          ],
+          "category": "historical",
+          "arrive_at": "10:05",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den Széchenyi-Platz mit dem Rathaus und den beiden großen Kirchen.",
+            "hu": "Fedezze fel a Széchenyi teret a Városházával és a két nagy templommal.",
+            "ro": "Explorați Piața Széchenyi cu Primăria și cele două biserici principale.",
+            "en": "Explore Széchenyi Square with the Town Hall and the two main churches."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Perczel Kulturviertel",
+            "hu": "3. klaszter: Perczel kulturális negyed",
+            "ro": "Cluster 3: Cartierul Cultural Perczel",
+            "en": "Cluster 3: Perczel Cultural Quarter"
+          },
+          "coords": [
+            18.528,
+            46.299
+          ],
+          "category": "museums",
+          "arrive_at": "11:45",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie erneut und besuchen Sie das Herrenhaus, das Museum und den Garten.",
+            "hu": "Parkoljon újra, és látogassa meg a kúriát, a múzeumot és a kertet.",
+            "ro": "Parcați din nou și vizitați conacul, muzeul și grădina.",
+            "en": "Park again and visit the mansion, museum, and garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Perczel-Viertels",
+            "hu": "Ebéd a Perczel-negyed közelében",
+            "ro": "Prânz lângă Cartierul Perczel",
+            "en": "Lunch near Perczel Quarter"
+          },
+          "coords": [
+            18.529,
+            46.3
+          ],
+          "category": "gastro",
+          "arrive_at": "14:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach den Besichtigungen ist es Zeit für ein wohlverdientes Mittagessen.",
+            "hu": "A látnivalók megtekintése után itt az ideje egy jól megérdemelt ebédnek.",
+            "ro": "După vizitarea obiectivelor turistice, este timpul pentru un prânz binemeritat.",
+            "en": "After sightseeing, it's time for a well-deserved lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Abschieds-Kaffee im Zentrum",
+            "hu": "Búcsúkávé a központban",
+            "ro": "Cafea de rămas bun în centru",
+            "en": "Farewell Coffee in the Center"
+          },
+          "coords": [
+            18.5325,
+            46.3008
+          ],
+          "category": "gastro",
+          "arrive_at": "15:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie zurück ins Zentrum für einen Kaffee, bevor Sie abreisen.",
+            "hu": "Sétáljon vissza a központba egy kávéra, mielőtt elindulna.",
+            "ro": "Întoarceți-vă în centru pentru o cafea înainte de a pleca.",
+            "en": "Walk back to the center for a coffee before you leave."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto gruppieren Sie Ihren Besuch in Bonyhád in drei effiziente Cluster. Beginnen Sie auf dem Kalvarienberg für eine fantastische Aussicht und einen Parkplatz. Gehen Sie von dort ins Zentrum, um die Plätze und Kirchen zu erkunden. Fahren Sie dann zum Perczel-Viertel, wo Sie das Herrenhaus, das Museum und den Garten entdecken. Ein gemütliches Mittagessen rundet den Kulturtag ab, bevor Sie mit einem Kaffee im Herzen der Stadt Abschied nehmen.",
+        "hu": "Autóval három hatékony klaszterbe csoportosíthatja bonyhádi látogatását. Kezdje a Kálvária-hegyen a fantasztikus kilátásért és egy parkolóhelyért. Innen sétáljon be a központba, hogy felfedezze a tereket és templomokat. Ezután vezessen a Perczel-negyedbe, ahol a kúria, a múzeum és a kert várja. Egy kellemes ebéd zárja a kulturális napot, mielőtt a város szívében egy kávéval búcsúzik.",
+        "ro": "Cu mașina, grupați-vă vizita în Bonyhád în trei clustere eficiente. Începeți pe Dealul Calvariei pentru o priveliște fantastică și un loc de parcare. De acolo, mergeți pe jos în centru pentru a explora piețele și bisericile. Apoi, conduceți spre Cartierul Perczel pentru a descoperi conacul, muzeul și grădina. Un prânz pe îndelete încheie ziua culturală înainte de a vă lua rămas bun cu o cafea în inima orașului.",
+        "en": "By car, you'll group your visit to Bonyhád into three efficient clusters. Start at Calvary Hill for a fantastic view and a place to park. From there, walk into the center to explore the squares and churches. Then, drive to the Perczel Quarter to discover the mansion, museum, and garden. A leisurely lunch completes the cultural day before you say goodbye with a coffee in the heart of the town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Weine",
+            "tip": "Die Region Tolna ist für ihre Weine bekannt, probieren Sie einen zum Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi borok",
+            "tip": "A Tolnai borvidék híres borairól, kóstoljon meg egyet ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinuri locale",
+            "tip": "Regiunea Tolna este cunoscută pentru vinurile sale, încercați unul la prânz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Wines",
+            "tip": "The Tolna region is known for its wines, try one with your lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Früher Morgen am Kalvarienberg",
+            "tip": "Genießen Sie die Stille, bevor die Stadt erwacht.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Eine Bank im Perczel-Garten",
+            "tip": "Ein schattiger, friedlicher Ort.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kora reggel a Kálvária-hegyen",
+            "tip": "Élvezze a csendet, mielőtt a város felébred.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Egy pad a Perczel-kertben",
+            "tip": "Árnyékos, békés hely.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dimineața devreme pe Dealul Calvariei",
+            "tip": "Bucurați-vă de liniște înainte ca orașul să se trezească.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "O bancă în Grădina Perczel",
+            "tip": "Un loc umbros și liniștit.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Early morning at Calvary Hill",
+            "tip": "Enjoy the quiet before the town wakes up.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A bench in Perczel Garden",
+            "tip": "A shady, peaceful spot.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weingeschäft",
+            "tip": "Nehmen Sie eine Flasche lokalen Weins als Souvenir mit nach Hause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borbolt",
+            "tip": "Vigyen haza egy üveg helyi bort szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de vinuri",
+            "tip": "Luați acasă o sticlă de vin local ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wine Shop",
+            "tip": "Take home a bottle of local wine as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Cluster-Strategie, um Parkprobleme zu minimieren.",
+          "Planen Sie genügend Zeit für den Fußweg zwischen den Clustern ein.",
+          "Die meisten Sehenswürdigkeiten sind im Zentrum und im Perczel-Viertel konzentriert."
+        ],
+        "hu": [
+          "Használja a klaszter-stratégiát a parkolási problémák minimalizálására.",
+          "Tervezzen elegendő időt a klaszterek közötti gyaloglásra.",
+          "A legtöbb látnivaló a központban és a Perczel-negyedben koncentrálódik."
+        ],
+        "ro": [
+          "Folosiți strategia cluster pentru a minimiza problemele de parcare.",
+          "Planificați suficient timp pentru plimbarea între clustere.",
+          "Majoritatea atracțiilor sunt concentrate în centru și în Cartierul Perczel."
+        ],
+        "en": [
+          "Use the cluster strategy to minimize parking issues.",
+          "Plan enough time for walking within the clusters.",
+          "Most sights are concentrated in the center and the Perczel Quarter."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 4.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof & Spaziergang zum Zentrum",
+            "hu": "Érkezés a buszpályaudvarra és séta a központba",
+            "ro": "Sosire la autogară și plimbare spre centru",
+            "en": "Arrival at Bus Station & Walk to Center"
+          },
+          "coords": [
+            18.533,
+            46.3005
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie am Hauptplatz, nachdem Sie vom Busbahnhof hierher gelaufen sind.",
+            "hu": "Kezdje a főtéren, miután a buszpályaudvarról idesétált.",
+            "ro": "Începeți în piața principală după ce ați mers pe jos de la autogară.",
+            "en": "Start at the main square after walking from the bus station."
+          }
+        },
+        {
+          "name": {
+            "de": "Katholische & Evangelische Kirche",
+            "hu": "Katolikus és evangélikus templom",
+            "ro": "Biserica Catolică și Evanghelică",
+            "en": "Catholic & Evangelical Churches"
+          },
+          "coords": [
+            18.5345,
+            46.3015
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden Kirchen liegen nahe beieinander und sind leicht zu Fuß erreichbar.",
+            "hu": "Ez a két templom közel van egymáshoz, és könnyen megközelíthető gyalog.",
+            "ro": "Aceste două biserici sunt apropiate și ușor de explorat pe jos.",
+            "en": "These two churches are close to each other and easy to explore on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Perczel-Viertel",
+            "hu": "Buszozás a Perczel-negyedbe",
+            "ro": "Călătorie cu autobuzul spre Cartierul Perczel",
+            "en": "Bus ride to Perczel Quarter"
+          },
+          "coords": [
+            18.528,
+            46.299
+          ],
+          "category": "museums",
+          "arrive_at": "11:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus für die kurze Fahrt, um Energie zu sparen.",
+            "hu": "Vegyen igénybe egy helyi buszt a rövid útra, hogy energiát takarítson meg.",
+            "ro": "Luați un autobuz local pentru călătoria scurtă pentru a economisi energie.",
+            "en": "Take a local bus for the short ride to save energy."
+          }
+        },
+        {
+          "name": {
+            "de": "Perczel-Herrenhaus, Museum & Garten",
+            "hu": "Perczel-kúria, Múzeum és Kert",
+            "ro": "Conacul, Muzeul și Grădina Perczel",
+            "en": "Perczel Mansion, Museum & Garden"
+          },
+          "coords": [
+            18.527,
+            46.2985
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:25",
+          "stay_min": 0,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Alles in diesem Bereich ist zu Fuß erreichbar. Nehmen Sie sich Zeit.",
+            "hu": "Ezen a területen minden gyalogosan elérhető. Szánjon rá időt.",
+            "ro": "Totul în această zonă este la distanță de mers pe jos. Nu vă grăbiți.",
+            "en": "Everything in this area is within walking distance. Take your time."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Kalvarienberg",
+            "hu": "Buszozás a Kálvária-hegyre",
+            "ro": "Călătorie cu autobuzul la Dealul Calvariei",
+            "en": "Bus ride to Calvary Hill"
+          },
+          "coords": [
+            18.538,
+            46.296
+          ],
+          "category": "viewpoint",
+          "arrive_at": "15:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in die Nähe des Hügels und gehen Sie das letzte Stück.",
+            "hu": "Menjen busszal a hegy közelébe, és sétáljon fel az utolsó szakaszon.",
+            "ro": "Luați un autobuz aproape de deal și mergeți pe jos ultima parte.",
+            "en": "Take a bus close to the hill and walk the final part."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr zum Busbahnhof",
+            "hu": "Visszatérés a buszpályaudvarra",
+            "ro": "Întoarcere la autogară",
+            "en": "Return to Bus Station"
+          },
+          "coords": [
+            18.53,
+            46.305
+          ],
+          "category": "historical",
+          "arrive_at": "16:30",
+          "stay_min": 0,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Planen Sie Ihre Rückfahrt vom zentralen Busbahnhof.",
+            "hu": "Tervezze meg a visszautat a központi buszpályaudvarról.",
+            "ro": "Planificați-vă călătoria de întoarcere de la autogara centrală.",
+            "en": "Plan your return journey from the central bus station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln können Sie Bonyhád bequem erkunden. Nach der Ankunft am Busbahnhof führt Sie ein kurzer Spaziergang ins Zentrum, wo Sie die Kirchen besichtigen. Eine kurze Busfahrt bringt Sie zum Perczel-Viertel, einem kulturellen Zentrum. Ein weiterer Bus bringt Sie zum Kalvarienberg für eine tolle Aussicht, bevor Sie zum Bahnhof zurückkehren, um Ihre Heimreise anzutreten.",
+        "hu": "Tömegközlekedéssel kényelmesen felfedezheti Bonyhádot. A buszpályaudvarra érkezés után egy rövid séta vezet a központba, ahol megtekintheti a templomokat. Egy rövid buszút elviszi a Perczel-negyedbe, a kulturális központba. Egy másik busz elviszi a Kálvária-hegyre a nagyszerű kilátásért, mielőtt visszatérne az állomásra a hazautazáshoz.",
+        "ro": "Folosind transportul public, puteți explora convenabil Bonyhád. După sosirea la autogară, o scurtă plimbare vă duce în centru, unde puteți vizita bisericile. O scurtă călătorie cu autobuzul vă va duce la Cartierul Perczel, un centru cultural. Un alt autobuz vă va duce la Dealul Calvariei pentru o priveliște minunată, înainte de a vă întoarce la gară pentru călătoria spre casă.",
+        "en": "Using public transport, you can conveniently explore Bonyhád. After arriving at the bus station, a short walk takes you to the center where you can visit the churches. A short bus ride will take you to the Perczel Quarter, a cultural hub. Another bus will take you to Calvary Hill for a great view before you return to the station for your journey home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kürtőskalács",
+            "tip": "Suchen Sie nach diesem süßen Gebäck an einem Straßenstand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kürtőskalács",
+            "tip": "Keressen egy utcai árusnál ebből az édes süteményből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kürtőskalács",
+            "tip": "Căutați acest produs de patiserie dulce la o tarabă stradală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chimney Cake (Kürtőskalács)",
+            "tip": "Look for this sweet pastry at a street vendor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Evangelische Kirche",
+            "tip": "Ein Ort der Stille im Herzen der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Evangélikus templom",
+            "tip": "A csend helye a város szívében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica Evanghelică",
+            "tip": "Un loc de liniște în inima orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Evangelical Church",
+            "tip": "A place of quiet in the heart of the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Kaufen Sie frisches Gebäck für Ihre Reise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékség",
+            "tip": "Vásároljon friss péksüteményt az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie locală",
+            "tip": "Cumpărați produse de patiserie proaspete pentru călătoria dumneavoastră."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bakery",
+            "tip": "Buy some fresh pastries for your journey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den lokalen Busfahrplan im Voraus.",
+          "Haben Sie Kleingeld für Bustickets dabei.",
+          "Die meisten Strecken im Zentrum sind leicht zu Fuß zu bewältigen, nutzen Sie den Bus für längere Distanzen."
+        ],
+        "hu": [
+          "Előre ellenőrizze a helyi buszmenetrendet.",
+          "Legyen nálad aprópénz a buszjegyekhez.",
+          "A központban a legtöbb távolság könnyen gyalogolható, a hosszabb utakra használja a buszt."
+        ],
+        "ro": [
+          "Verificați în avans programul autobuzelor locale.",
+          "Aveți la dumneavoastră mărunțiș pentru biletele de autobuz.",
+          "Majoritatea distanțelor din centru sunt ușor de parcurs pe jos, folosiți autobuzul pentru distanțe mai lungi."
+        ],
+        "en": [
+          "Check the local bus schedule in advance.",
+          "Have small change ready for bus tickets.",
+          "Most distances in the center are easily walkable, use the bus for longer hops."
+        ]
+      }
+    }
+  }
+}

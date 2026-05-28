@@ -1,0 +1,1444 @@
+{
+  "city_id": "slovenia-nova-gorica-cities-v2",
+  "anchor": {
+    "name": "Nova Gorica",
+    "coords": [
+      13.649,
+      45.955
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Transalpina-Platz",
+            "hu": "Transalpina tér",
+            "ro": "Piața Transalpina",
+            "en": "Transalpina Square"
+          },
+          "coords": [
+            13.644,
+            45.959
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Stehen Sie mit einem Fuß in Italien und dem anderen in Slowenien!",
+            "hu": "Álljon egyik lábával Olaszországban, a másikkal Szlovéniában!",
+            "ro": "Stați cu un picior în Italia și cu celălalt în Slovenia!",
+            "en": "Stand with one foot in Italy and the other in Slovenia!"
+          }
+        },
+        {
+          "name": {
+            "de": "Nationaltheater Nova Gorica",
+            "hu": "Nova Gorica-i Nemzeti Színház",
+            "ro": "Teatrul Național Nova Gorica",
+            "en": "National Theatre Nova Gorica"
+          },
+          "coords": [
+            13.638,
+            45.956
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:50",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie das Abendprogramm, oft gibt es moderne Aufführungen.",
+            "hu": "Nézze meg az esti műsort, gyakran vannak modern előadások.",
+            "ro": "Verificați programul de seară, adesea au spectacole moderne.",
+            "en": "Check the evening program; they often have modern performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Kostanjevica",
+            "hu": "Kostanjevicai kolostor",
+            "ro": "Mănăstirea Kostanjevica",
+            "en": "Kostanjevica Monastery"
+          },
+          "coords": [
+            13.628,
+            45.953
+          ],
+          "category": "historical",
+          "arrive_at": "10:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besuchen Sie die Gruft des letzten französischen Königs, Karl X.",
+            "hu": "Látogassa meg X. Károly, az utolsó Bourbon-király sírját.",
+            "ro": "Vizitați cripta ultimului rege francez, Carol al X-lea.",
+            "en": "Visit the crypt of the last French king, Charles X."
+          }
+        },
+        {
+          "name": {
+            "de": "Rosengarten von Kostanjevica",
+            "hu": "Kostanjevicai rózsakert",
+            "ro": "Grădina de trandafiri Kostanjevica",
+            "en": "Kostanjevica Rose Garden"
+          },
+          "coords": [
+            13.627,
+            45.952
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ideal für eine Pause im Frühling, wenn die Bourbon-Rosen blühen.",
+            "hu": "Tavasszal ideális egy kis pihenőre, amikor a Bourbon rózsák virágoznak.",
+            "ro": "Ideal pentru o pauză primăvara, când înfloresc trandafirii Bourbon.",
+            "en": "Perfect for a break in spring when the Bourbon roses are in bloom."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Innenstadt",
+            "hu": "Ebéd a belvárosban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city center"
+          },
+          "coords": [
+            13.635,
+            45.956
+          ],
+          "category": "gastro",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie eine Gostilna für authentische slowenische Küche.",
+            "hu": "Próbáljon ki egy Gostilnát az autentikus szlovén konyháért.",
+            "ro": "Încercați o Gostilna pentru bucătăria slovenă autentică.",
+            "en": "Try a Gostilna for authentic Slovenian cuisine."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Fluss Isonzo (Soča)",
+            "hu": "Séta a Soča (Isonzó) folyó partján",
+            "ro": "Plimbare pe malul râului Isonzo (Soča)",
+            "en": "Walk along the Isonzo (Soča) River"
+          },
+          "coords": [
+            13.649,
+            45.965
+          ],
+          "category": "natural features",
+          "arrive_at": "15:15",
+          "stay_min": 105,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das smaragdgrüne Wasser ist im Sommer erfrischend, aber kalt!",
+            "hu": "A smaragdzöld víz nyáron frissítő, de hideg!",
+            "ro": "Apa de smarald este răcoritoare vara, dar rece!",
+            "en": "The emerald water is refreshing in summer, but cold!"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am symbolträchtigen Transalpina-Platz, einem geteilten Platz zwischen zwei Nationen. Nach einem kurzen Blick auf das moderne Theater führt Sie ein Spaziergang zum Kloster Kostanjevica, wo Geschichte lebendig wird. Am Mittag genießen Sie die Ruhe des Bourbon-Rosengartens, bevor Sie in einer lokalen Gostilna zu Mittag essen. Der Nachmittag ist einem entspannten Spaziergang entlang des smaragdgrünen Flusses Soča gewidmet, dessen Schönheit Sie in ihren Bann ziehen wird. Der Abend klingt in der lebhaften Atmosphäre des Stadtzentrums aus.",
+        "hu": "A nap a szimbolikus Transalpina téren kezdődik, amely két nemzet között oszlik meg. A modern színház megtekintése után egy séta a Kostanjevicai kolostorhoz vezet, ahol a történelem megelevenedik. Délben a Bourbon rózsakert csendjét élvezheti, mielőtt megebédel egy helyi gostilnában. A délután egy pihentető sétával telik a smaragdzöld Soča folyó mentén, amelynek szépsége magával ragadja. Az estét a városközpont nyüzsgő hangulatában zárhatja.",
+        "ro": "Ziua dvs. începe în Piața Transalpina, un spațiu simbolic împărțit între două națiuni. După o scurtă privire la teatrul modern, o plimbare vă duce la Mănăstirea Kostanjevica, unde istoria prinde viață. La prânz, vă bucurați de liniștea Grădinii de Trandafiri Bourbon înainte de a lua masa la o gostilna locală. După-amiaza este dedicată unei plimbări relaxante de-a lungul râului Soča, de un verde smarald, a cărui frumusețe vă va captiva. Seara se încheie în atmosfera plină de viață a centrului orașului.",
+        "en": "Your day begins at the symbolic Transalpina Square, a space shared between two nations. After a quick look at the modern theatre, a walk takes you to the Kostanjevica Monastery, where history comes alive. At noon, you'll enjoy the tranquility of the Bourbon Rose Garden before having lunch at a local gostilna. The afternoon is dedicated to a relaxing walk along the emerald Soča River, whose beauty will captivate you. The evening concludes in the lively atmosphere of the city center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Jota",
+            "tip": "Herzhafter Eintopf mit Sauerkraut und Bohnen."
+          },
+          {
+            "name": "Idrijski Žlikrofi",
+            "tip": "Kleine Teigtaschen, oft als Beilage serviert."
+          },
+          {
+            "name": "Gostilna pri Lojzetu (im Schloss Zemono)",
+            "tip": "Gourmet-Erlebnis in der Nähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jota",
+            "tip": "Kiadós egytálétel savanyú káposztával és babbal."
+          },
+          {
+            "name": "Idrijski Žlikrofi",
+            "tip": "Apró tésztatáskák, gyakran köretként tálalva."
+          },
+          {
+            "name": "Gostilna pri Lojzetu (Zemono kastély)",
+            "tip": "Gourmet élmény a közelben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jota",
+            "tip": "O tocană consistentă cu varză murată și fasole."
+          },
+          {
+            "name": "Idrijski Žlikrofi",
+            "tip": "Găluște mici, adesea servite ca garnitură."
+          },
+          {
+            "name": "Gostilna pri Lojzetu (Castelul Zemono)",
+            "tip": "O experiență gourmet în apropiere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Jota",
+            "tip": "A hearty stew with sauerkraut and beans."
+          },
+          {
+            "name": "Idrijski Žlikrofi",
+            "tip": "Small dumplings, often served as a side dish."
+          },
+          {
+            "name": "Gostilna pri Lojzetu (at Zemono Castle)",
+            "tip": "A nearby gourmet experience."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rosengarten von Kostanjevica",
+            "tip": "Ein friedlicher Ort, besonders außerhalb der Hauptblütezeit.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer der Soča",
+            "tip": "Finden Sie eine ruhige Stelle am Flussufer.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Panovec Wald",
+            "tip": "Ein Stadtwald für einen ruhigen Spaziergang.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kostanjevicai rózsakert",
+            "tip": "Békés hely, különösen a fő virágzási időszakon kívül.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Soča partja",
+            "tip": "Keressen egy csendes helyet a folyóparton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Panovec erdő",
+            "tip": "Városi erdő egy csendes sétához.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina de trandafiri Kostanjevica",
+            "tip": "Un loc pașnic, mai ales în afara sezonului de înflorire maximă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malurile râului Soča",
+            "tip": "Găsiți un loc liniștit pe malul râului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pădurea Panovec",
+            "tip": "O pădure urbană pentru o plimbare liniștită.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kostanjevica Rose Garden",
+            "tip": "A peaceful spot, especially outside of peak blooming season.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the Soča River",
+            "tip": "Find a quiet spot along the riverbank.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Panovec Forest",
+            "tip": "A city forest for a quiet walk.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Produkten und Käse."
+          },
+          {
+            "name": "Weingeschäfte",
+            "tip": "Die Region Goriška Brda ist berühmt für ihre Weine."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen helyi termékeket és sajtokat."
+          },
+          {
+            "name": "Borboltok",
+            "tip": "A Goriška Brda régió híres borairól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse locale și brânzeturi."
+          },
+          {
+            "name": "Magazine de vinuri",
+            "tip": "Regiunea Goriška Brda este renumită pentru vinurile sale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for local produce and cheeses."
+          },
+          {
+            "name": "Wine Shops",
+            "tip": "The Goriška Brda region is famous for its wines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit.",
+          "Respektieren Sie die Grenze am Transalpina-Platz; es ist ein einzigartiger Ort."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "Hozzon magával újratölthető vizes palackot.",
+          "Tartsa tiszteletben a határt a Transalpina téren; ez egy egyedülálló hely."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, veți merge mult pe jos.",
+          "Luați cu dvs. o sticlă de apă reutilizabilă.",
+          "Respectați granița din Piața Transalpina; este un loc unic."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Bring a reusable water bottle.",
+          "Be respectful of the border at Transalpina Square; it's a unique location."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Transalpina-Platz",
+            "hu": "Transalpina tér",
+            "ro": "Piața Transalpina",
+            "en": "Transalpina Square"
+          },
+          "coords": [
+            13.644,
+            45.959
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto auf der Grenze, bevor Sie Ihre Radtour beginnen.",
+            "hu": "Készítsen egy fotót a határon, mielőtt elkezdi a kerékpártúrát.",
+            "ro": "Faceți o fotografie la graniță înainte de a începe turul cu bicicleta.",
+            "en": "Take a picture on the border before starting your bike tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Kostanjevica",
+            "hu": "Kostanjevicai kolostor",
+            "ro": "Mănăstirea Kostanjevica",
+            "en": "Kostanjevica Monastery"
+          },
+          "coords": [
+            13.628,
+            45.953
+          ],
+          "category": "historical",
+          "arrive_at": "09:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad gut ab; der Hügel ist eine kleine Anstrengung.",
+            "hu": "Zárja le jól a kerékpárját; a domb egy kis erőfeszítést igényel.",
+            "ro": "Asigurați-vă bine bicicleta; urcușul pe deal necesită un mic efort.",
+            "en": "Lock your bike securely; the hill is a bit of a climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt entlang des Flusses Isonzo (Soča)",
+            "hu": "Kerékpározás a Soča (Isonzó) folyó mentén",
+            "ro": "Plimbare cu bicicleta de-a lungul râului Isonzo (Soča)",
+            "en": "Ride along the Isonzo (Soča) River"
+          },
+          "coords": [
+            13.649,
+            45.965
+          ],
+          "category": "natural features",
+          "arrive_at": "11:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Radweg bietet spektakuläre Ausblicke auf das smaragdgrüne Wasser.",
+            "hu": "A kerékpárút látványos kilátást nyújt a smaragdzöld vízre.",
+            "ro": "Pista de biciclete oferă vederi spectaculoase ale apei de smarald.",
+            "en": "The bike path offers spectacular views of the emerald water."
+          }
+        },
+        {
+          "name": {
+            "de": "Solkan-Brücke",
+            "hu": "Solkani híd",
+            "ro": "Podul Solkan",
+            "en": "Solkan Bridge"
+          },
+          "coords": [
+            13.649,
+            45.978
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Bewundern Sie die größte Steinbogenbrücke der Welt.",
+            "hu": "Csodálja meg a világ legnagyobb kőívhídját.",
+            "ro": "Admirați cel mai mare pod de piatră în arc din lume.",
+            "en": "Admire the world's largest stone arch bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Solkan",
+            "hu": "Ebéd Solkanban",
+            "ro": "Prânz în Solkan",
+            "en": "Lunch in Solkan"
+          },
+          "coords": [
+            13.648,
+            45.976
+          ],
+          "category": "gastro",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Viele Restaurants hier servieren frischen Fisch aus der Soča.",
+            "hu": "Sok itteni étteremben szolgálnak fel friss halat a Sočából.",
+            "ro": "Multe restaurante de aici servesc pește proaspăt din râul Soča.",
+            "en": "Many restaurants here serve fresh fish from the Soča river."
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück ins Zentrum und Schloss Kromberk",
+            "hu": "Vissza a központba és a Kromberk kastély",
+            "ro": "Înapoi în centru și la Castelul Kromberk",
+            "en": "Back to the center & Kromberk Castle"
+          },
+          "coords": [
+            13.663,
+            45.952
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Das Schloss beherbergt das Regionalmuseum mit interessanten Ausstellungen.",
+            "hu": "A kastély ad otthont a regionális múzeumnak, érdekes kiállításokkal.",
+            "ro": "Castelul găzduiește muzeul regional cu expoziții interesante.",
+            "en": "The castle houses the regional museum with interesting exhibitions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Transalpina-Platz und radeln Sie zum historischen Kloster Kostanjevica. Der Vormittag führt Sie entlang des atemberaubenden Flusses Soča zur beeindruckenden Solkan-Brücke. Genießen Sie ein Mittagessen in Solkan mit Blick auf den Fluss. Am Nachmittag radeln Sie zurück in Richtung Stadt und erklimmen den leichten Anstieg zum Schloss Kromberk, das einen Einblick in die regionale Kultur bietet. Schließen Sie den Tag mit einer entspannten Fahrt zurück ins Zentrum ab.",
+        "hu": "Kezdje kerékpártúráját a Transalpina téren, majd tekerjen el a történelmi Kostanjevicai kolostorhoz. A délelőtt a lenyűgöző Soča folyó mentén vezet az impozáns Solkani hídhoz. Ebédeljen Solkanban, kilátással a folyóra. Délután tekerjen vissza a város felé, és mássza meg az enyhe emelkedőt a Kromberk kastélyhoz, amely betekintést nyújt a regionális kultúrába. Zárja a napot egy kellemes tekeréssel vissza a központba.",
+        "ro": "Începeți turul cu bicicleta din Piața Transalpina și pedalați spre istorica Mănăstire Kostanjevica. Dimineața vă poartă de-a lungul uimitorului râu Soča până la impresionantul Pod Solkan. Bucurați-vă de un prânz în Solkan cu vedere la râu. După-amiaza, pedalați înapoi spre oraș și urcați panta ușoară spre Castelul Kromberk, care oferă o perspectivă asupra culturii regionale. Încheiați ziua cu o plimbare relaxantă înapoi în centru.",
+        "en": "Start your bike tour at Transalpina Square and cycle to the historic Kostanjevica Monastery. The morning takes you along the stunning Soča River to the impressive Solkan Bridge. Enjoy lunch in Solkan with river views. In the afternoon, cycle back towards the city and tackle the gentle climb to Kromberk Castle, offering a glimpse into regional culture. Conclude the day with a relaxed ride back to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Forelle nach Triester Art",
+            "tip": "Frischer Fisch aus der Soča."
+          },
+          {
+            "name": "Goriška Brda Wein",
+            "tip": "Probieren Sie einen lokalen Rebula oder Merlot."
+          },
+          {
+            "name": "Štruklji",
+            "tip": "Gekochter oder gebackener Teig mit verschiedenen Füllungen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trieszti stílusú pisztráng",
+            "tip": "Friss hal a Sočából."
+          },
+          {
+            "name": "Goriška Brda bor",
+            "tip": "Kóstoljon meg egy helyi Rebula vagy Merlot bort."
+          },
+          {
+            "name": "Štruklji",
+            "tip": "Főtt vagy sült tészta különféle töltelékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Păstrăv în stil Trieste",
+            "tip": "Pește proaspăt din râul Soča."
+          },
+          {
+            "name": "Vin din Goriška Brda",
+            "tip": "Încercați un vin local Rebula sau Merlot."
+          },
+          {
+            "name": "Štruklji",
+            "tip": "Aluat fiert sau copt cu diverse umpluturi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trieste-style Trout",
+            "tip": "Fresh fish from the Soča river."
+          },
+          {
+            "name": "Goriška Brda Wine",
+            "tip": "Try a local Rebula or Merlot."
+          },
+          {
+            "name": "Štruklji",
+            "tip": "Boiled or baked dough with various fillings."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg an der Soča",
+            "tip": "Halten Sie an und genießen Sie die Stille des Flusses.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schlosspark Kromberk",
+            "tip": "Entspannen Sie nach dem Museumsbesuch im Park.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Sveta Gora (mit dem Rad anstrengend)",
+            "tip": "Für erfahrene Radfahrer ein ruhiger Ort mit toller Aussicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Soča mentén",
+            "tip": "Álljon meg és élvezze a folyó csendjét.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kromberk kastélypark",
+            "tip": "Pihenjen a parkban a múzeumlátogatás után.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Sveta Gora (kerékpárral megerőltető)",
+            "tip": "Tapasztalt kerékpárosoknak csendes hely, nagyszerű kilátással.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de pe Soča",
+            "tip": "Opriți-vă și bucurați-vă de liniștea râului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Castelului Kromberk",
+            "tip": "Relaxați-vă în parc după vizitarea muzeului.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Sveta Gora (dificil cu bicicleta)",
+            "tip": "Pentru bicicliștii experimentați, un loc liniștit cu o priveliște minunată.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Soča River Bike Path",
+            "tip": "Stop and enjoy the quiet of the river.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kromberk Castle Park",
+            "tip": "Relax in the park after the museum visit.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Sveta Gora (challenging by bike)",
+            "tip": "For experienced cyclists, a quiet spot with a great view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Für Zubehör oder schnelle Reparaturen."
+          },
+          {
+            "name": "Hofläden in Goriška Brda",
+            "tip": "Wenn Sie in die Weinregion fahren, finden Sie Olivenöl und Wein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Kiegészítőkért vagy gyors javításokért."
+          },
+          {
+            "name": "Termelői boltok Goriška Brdában",
+            "tip": "Ha a borvidékre teker, olívaolajat és bort talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Pentru accesorii sau reparații rapide."
+          },
+          {
+            "name": "Magazinele fermelor din Goriška Brda",
+            "tip": "Dacă pedalați în regiunea viticolă, veți găsi ulei de măsline și vin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "For any accessories or quick repairs."
+          },
+          {
+            "name": "Farm Shops in Goriška Brda",
+            "tip": "If you cycle into the wine region, find olive oil and wine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein Helm wird dringend empfohlen.",
+          "Überprüfen Sie die Fahrradwege im Voraus, einige sind anspruchsvoller.",
+          "Nehmen Sie ausreichend Wasser mit, besonders im Sommer."
+        ],
+        "hu": [
+          "A sisak használata erősen ajánlott.",
+          "Ellenőrizze előre a kerékpárutakat, némelyik nagyobb kihívást jelenthet.",
+          "Vigyen magával elegendő vizet, különösen nyáron."
+        ],
+        "ro": [
+          "Casca este foarte recomandată.",
+          "Verificați pistele de biciclete în avans, unele sunt mai dificile.",
+          "Luați suficientă apă, mai ales vara."
+        ],
+        "en": [
+          "A helmet is strongly recommended.",
+          "Check the bike paths in advance, as some can be challenging.",
+          "Bring plenty of water, especially in summer."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 31.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken und Erkundung des Zentrums: Transalpina-Platz",
+            "hu": "Parkolás és a központ felfedezése: Transalpina tér",
+            "ro": "Parcare și explorarea centrului: Piața Transalpina",
+            "en": "Park & Explore Center: Transalpina Square"
+          },
+          "coords": [
+            13.644,
+            45.959
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und beginnen Sie Ihren Tag an diesem einzigartigen Grenzort.",
+            "hu": "Parkoljon a közelben, és kezdje a napot ezen az egyedülálló határon.",
+            "ro": "Parcați în apropiere și începeți ziua în acest loc de frontieră unic.",
+            "en": "Park nearby and start your day at this unique border location."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Kostanjevica & Rosengarten",
+            "hu": "Kostanjevicai kolostor és Rózsakert",
+            "ro": "Mănăstirea Kostanjevica și Grădina de Trandafiri",
+            "en": "Kostanjevica Monastery & Rose Garden"
+          },
+          "coords": [
+            13.628,
+            45.953
+          ],
+          "category": "historical",
+          "arrive_at": "09:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Transalpina-Platz. Erkunden Sie die Geschichte und die Gärten.",
+            "hu": "Rövid séta a Transalpina tértől. Fedezze fel a történelmet és a kerteket.",
+            "ro": "O scurtă plimbare din Piața Transalpina. Explorați istoria și grădinile.",
+            "en": "A short walk from Transalpina Square. Explore the history and the gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Schloss Kromberk",
+            "hu": "Autóút a Kromberk kastélyhoz",
+            "ro": "Drumul spre Castelul Kromberk",
+            "en": "Drive to Kromberk Castle"
+          },
+          "coords": [
+            13.663,
+            45.952
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.6,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Schloss und besuchen Sie das Regionalmuseum.",
+            "hu": "Parkoljon a kastélynál, és látogassa meg a regionális múzeumot.",
+            "ro": "Parcați la castel și vizitați muzeul regional.",
+            "en": "Park at the castle and visit the regional museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Kromberk",
+            "hu": "Ebéd Kromberkben",
+            "ro": "Prânz în Kromberk",
+            "en": "Lunch in Kromberk"
+          },
+          "coords": [
+            13.662,
+            45.951
+          ],
+          "category": "gastro",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Es gibt einige gute Gostilnas in der Nähe des Schlosses.",
+            "hu": "A kastély közelében található néhány jó gostilna.",
+            "ro": "Există câteva gostilna bune în apropierea castelului.",
+            "en": "There are some good gostilnas near the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Solkan-Brücke",
+            "hu": "Autóút a Solkani hídhoz",
+            "ro": "Drumul spre Podul Solkan",
+            "en": "Drive to Solkan Bridge"
+          },
+          "coords": [
+            13.649,
+            45.978
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie und gehen Sie zu Fuß, um die beeindruckende Konstruktion zu bewundern.",
+            "hu": "Parkoljon le, és sétáljon, hogy megcsodálhassa a lenyűgöző építményt.",
+            "ro": "Parcați și mergeți pe jos pentru a admira construcția impresionantă.",
+            "en": "Park your car and walk to admire the impressive structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt nach Sveta Gora",
+            "hu": "Autóút a Sveta Gorára",
+            "ro": "Drumul spre Sveta Gora",
+            "en": "Drive to Sveta Gora"
+          },
+          "coords": [
+            13.682,
+            46.002
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 20.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Die kurvenreiche Straße lohnt sich für die Aussicht und die spirituelle Atmosphäre.",
+            "hu": "A kanyargós út megéri a kilátásért és a spirituális hangulatért.",
+            "ro": "Drumul sinuos merită pentru priveliște și atmosfera spirituală.",
+            "en": "The winding road is worth it for the views and the spiritual atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Sonnenuntergang am Aussichtspunkt Sveta Gora",
+            "hu": "Naplemente a Sveta Gora kilátópontjánál",
+            "ro": "Apus de soare la punctul de belvedere Sveta Gora",
+            "en": "Sunset at Sveta Gora viewpoint"
+          },
+          "coords": [
+            13.681,
+            46.003
+          ],
+          "category": "viewpoint",
+          "arrive_at": "17:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Abschluss des Tages mit Panoramablick auf die Region.",
+            "hu": "Tökéletes befejezése a napnak, panorámás kilátással a régióra.",
+            "ro": "Finalul perfect al zilei cu vederi panoramice ale regiunii.",
+            "en": "The perfect end to the day with panoramic views of the region."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Nova Gorica, wo Sie den Transalpina-Platz und das Kloster Kostanjevica zu Fuß erkunden. Am Vormittag fahren Sie zum Schloss Kromberk, um in die regionale Geschichte einzutauchen und dort zu Mittag zu essen. Der Nachmittag ist voller beeindruckender Ingenieurskunst und Spiritualität: Sie fahren zur Solkan-Brücke und dann die Serpentinen hinauf nach Sveta Gora. Beenden Sie Ihren Tag mit einem atemberaubenden Sonnenuntergang über dem Soča-Tal von diesem heiligen Berg aus.",
+        "hu": "Kezdje a napot Nova Gorica szívében, gyalogosan felfedezve a Transalpina teret és a Kostanjevicai kolostort. Délelőtt autózzon el a Kromberk kastélyhoz, hogy elmerüljön a regionális történelemben, és ott ebédeljen. A délután tele lesz lenyűgöző mérnöki alkotásokkal és spiritualitással: elhajt a Solkani hídhoz, majd felkanyarog a Sveta Gorára. Zárja a napot egy lélegzetelállító naplementével a Soča-völgy felett erről a szent hegyről.",
+        "ro": "Începeți ziua în inima orașului Nova Gorica, explorând pe jos Piața Transalpina și Mănăstirea Kostanjevica. Dimineața, conduceți la Castelul Kromberk pentru a vă cufunda în istoria regională și a lua prânzul acolo. După-amiaza este plină de inginerie impresionantă și spiritualitate: veți conduce la Podul Solkan și apoi veți urca pe serpentinele spre Sveta Gora. Încheiați ziua cu un apus de soare uluitor peste valea Soča de pe acest munte sfânt.",
+        "en": "Start your day in the heart of Nova Gorica, exploring Transalpina Square and Kostanjevica Monastery on foot. In the morning, drive to Kromberk Castle to delve into regional history and have lunch nearby. The afternoon is filled with impressive engineering and spirituality: you'll drive to the Solkan Bridge and then up the winding road to Sveta Gora. End your day with a breathtaking sunset over the Soča Valley from this sacred mountain."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gostilna pri Lojzetu (im Schloss Zemono)",
+            "tip": "Eine kurze Fahrt für ein Michelin-Stern-Erlebnis."
+          },
+          {
+            "name": "Frittata mit wildem Spargel",
+            "tip": "Eine lokale Spezialität im Frühling."
+          },
+          {
+            "name": "Rebula-Wein",
+            "tip": "Der Star-Weißwein der Region Goriška Brda."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gostilna pri Lojzetu (Zemono kastély)",
+            "tip": "Rövid autóút egy Michelin-csillagos élményért."
+          },
+          {
+            "name": "Frittata vadspárgával",
+            "tip": "Helyi tavaszi specialitás."
+          },
+          {
+            "name": "Rebula bor",
+            "tip": "A Goriška Brda régió csillaga, egy fehérbor."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gostilna pri Lojzetu (Castelul Zemono)",
+            "tip": "O scurtă călătorie cu mașina pentru o experiență cu stea Michelin."
+          },
+          {
+            "name": "Frittata cu sparanghel sălbatic",
+            "tip": "O specialitate locală de primăvară."
+          },
+          {
+            "name": "Vin Rebula",
+            "tip": "Vinul alb vedetă al regiunii Goriška Brda."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gostilna pri Lojzetu (at Zemono Castle)",
+            "tip": "A short drive for a Michelin-starred experience."
+          },
+          {
+            "name": "Frittata with wild asparagus",
+            "tip": "A local specialty in spring."
+          },
+          {
+            "name": "Rebula wine",
+            "tip": "The star white wine of the Goriška Brda region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sveta Gora",
+            "tip": "Trotz der Besucher ein Ort der Ruhe und Besinnung.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Soča-Ufer bei Solkan",
+            "tip": "Ein ruhiger Ort, um die Kraft des Flusses zu spüren.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Weinberge von Goriška Brda",
+            "tip": "Eine kurze Autofahrt zu endloser Ruhe.",
+            "emoji": "🍇"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sveta Gora",
+            "tip": "A látogatók ellenére a béke és az elmélkedés helye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Soča part Solkannál",
+            "tip": "Csendes hely, ahol érezni lehet a folyó erejét.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Goriška Brda szőlőültetvényei",
+            "tip": "Rövid autóút a végtelen nyugalomhoz.",
+            "emoji": "🍇"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sveta Gora",
+            "tip": "În ciuda vizitatorilor, este un loc de pace și reflecție.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malul râului Soča lângă Solkan",
+            "tip": "Un loc liniștit pentru a simți puterea râului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Viile din Goriška Brda",
+            "tip": "O scurtă călătorie cu mașina spre o liniște nesfârșită.",
+            "emoji": "🍇"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sveta Gora",
+            "tip": "Despite the visitors, a place of peace and reflection.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Soča river bank near Solkan",
+            "tip": "A quiet place to feel the power of the river.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vineyards of Goriška Brda",
+            "tip": "A short drive away for endless tranquility.",
+            "emoji": "🍇"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "E. Leclerc Nova Gorica",
+            "tip": "Ein großer Supermarkt für italienische und slowenische Produkte."
+          },
+          {
+            "name": "Weinkeller in Goriška Brda",
+            "tip": "Kaufen Sie Wein direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "E. Leclerc Nova Gorica",
+            "tip": "Nagy szupermarket olasz és szlovén termékekkel."
+          },
+          {
+            "name": "Pincészetek Goriška Brdában",
+            "tip": "Vásároljon bort közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "E. Leclerc Nova Gorica",
+            "tip": "Un supermarket mare pentru produse italiene și slovene."
+          },
+          {
+            "name": "Cramele din Goriška Brda",
+            "tip": "Cumpărați vin direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "E. Leclerc Nova Gorica",
+            "tip": "A large supermarket for both Italian and Slovenian products."
+          },
+          {
+            "name": "Wineries in Goriška Brda",
+            "tip": "Buy wine directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Öffnungszeiten der Museen und Kirchen.",
+          "Die Straße nach Sveta Gora ist eng und kurvenreich; fahren Sie vorsichtig.",
+          "Einige Parkplätze sind kostenpflichtig."
+        ],
+        "hu": [
+          "Ellenőrizze a múzeumok és templomok nyitvatartási idejét.",
+          "A Sveta Gorára vezető út keskeny és kanyargós; vezessen óvatosan.",
+          "Néhány parkoló fizetős."
+        ],
+        "ro": [
+          "Verificați orele de deschidere ale muzeelor și bisericilor.",
+          "Drumul spre Sveta Gora este îngust și sinuos; conduceți cu prudență.",
+          "Unele parcări sunt cu plată."
+        ],
+        "en": [
+          "Check the opening hours of museums and churches.",
+          "The road to Sveta Gora is narrow and winding; drive carefully.",
+          "Some parking areas require payment."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 9.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof & Transalpina-Platz",
+            "hu": "Érkezés a buszpályaudvarra & Transalpina tér",
+            "ro": "Sosire la autogară & Piața Transalpina",
+            "en": "Arrival at Bus Station & Transalpina Square"
+          },
+          "coords": [
+            13.639,
+            45.957
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Hauptbusbahnhof ist nur einen kurzen Spaziergang vom berühmten Platz entfernt.",
+            "hu": "A fő buszpályaudvar csak egy rövid sétára van a híres tértől.",
+            "ro": "Autogara principală este la o scurtă plimbare de celebra piață.",
+            "en": "The main bus station is a short walk from the famous square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Kostanjevica",
+            "hu": "Kostanjevicai kolostor",
+            "ro": "Mănăstirea Kostanjevica",
+            "en": "Kostanjevica Monastery"
+          },
+          "coords": [
+            13.628,
+            45.953
+          ],
+          "category": "historical",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein angenehmer Spaziergang vom Zentrum zu diesem historischen Ort.",
+            "hu": "Kellemes séta a központból ehhez a történelmi helyhez.",
+            "ro": "O plimbare plăcută din centru până la acest sit istoric.",
+            "en": "A pleasant walk from the center to this historic site."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Schloss Kromberk",
+            "hu": "Busszal a Kromberk kastélyhoz",
+            "ro": "Autobuz spre Castelul Kromberk",
+            "en": "Bus to Kromberk Castle"
+          },
+          "coords": [
+            13.663,
+            45.952
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die lokalen Busse bringen Sie in die Nähe des Schlosses.",
+            "hu": "A helyi buszok elviszik a kastély közelébe.",
+            "ro": "Autobuzele locale vă vor duce aproape de castel.",
+            "en": "The local buses will get you close to the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Schlosses",
+            "hu": "Ebéd a kastély közelében",
+            "ro": "Prânz lângă castel",
+            "en": "Lunch near the castle"
+          },
+          "coords": [
+            13.662,
+            45.951
+          ],
+          "category": "gastro",
+          "arrive_at": "13:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Stärken Sie sich, bevor Sie Ihre Erkundung fortsetzen.",
+            "hu": "Erősítse meg magát, mielőtt folytatja a felfedezést.",
+            "ro": "Întăriți-vă înainte de a continua explorarea.",
+            "en": "Refuel before continuing your exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus nach Solkan zur Solkan-Brücke",
+            "hu": "Busszal Solkanba a Solkani hídhoz",
+            "ro": "Autobuz spre Solkan pentru Podul Solkan",
+            "en": "Bus to Solkan for Solkan Bridge"
+          },
+          "coords": [
+            13.649,
+            45.978
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die Busfahrt bietet einen anderen Blick auf die Stadt und ihre Umgebung.",
+            "hu": "A buszozás más perspektívát nyújt a városra és környékére.",
+            "ro": "Călătoria cu autobuzul oferă o perspectivă diferită asupra orașului și a împrejurimilor sale.",
+            "en": "The bus ride gives a different perspective of the city and its surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang entlang der Soča",
+            "hu": "Séta a Soča mentén",
+            "ro": "Plimbare de-a lungul râului Soča",
+            "en": "Walk along the Soča"
+          },
+          "coords": [
+            13.649,
+            45.97
+          ],
+          "category": "natural features",
+          "arrive_at": "16:25",
+          "stay_min": 85,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Natur, bevor Sie den Bus zurück ins Zentrum nehmen.",
+            "hu": "Élvezze a természetet, mielőtt visszaindulna a buszhoz a központba.",
+            "ro": "Bucurați-vă de natură înainte de a lua autobuzul înapoi în centru.",
+            "en": "Enjoy nature before taking the bus back to the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im Zentrum von Nova Gorica nach Ihrer Ankunft am Busbahnhof. Erkunden Sie den Transalpina-Platz und das Kloster Kostanjevica zu Fuß. Nehmen Sie dann einen lokalen Bus zum Schloss Kromberk für eine Dosis Kultur und ein Mittagessen. Am Nachmittag bringt Sie ein weiterer Bus nach Solkan, wo Sie die berühmte Brücke bewundern und am smaragdgrünen Fluss Soča spazieren gehen können. Der Abend endet mit einer einfachen Busfahrt zurück in die Innenstadt.",
+        "hu": "A nap Nova Gorica központjában kezdődik, miután megérkezett a buszpályaudvarra. Fedezze fel gyalog a Transalpina teret és a Kostanjevicai kolostort. Ezután szálljon helyi buszra a Kromberk kastélyhoz egy adag kultúráért és ebédért. Délután egy másik busz elviszi Solkanba, ahol megcsodálhatja a híres hidat és sétálhat a smaragdzöld Soča folyó mentén. Az este egy egyszerű buszúttal ér véget vissza a belvárosba.",
+        "ro": "Ziua dvs. începe în centrul orașului Nova Gorica după sosirea la autogară. Explorați Piața Transalpina și Mănăstirea Kostanjevica pe jos. Apoi, luați un autobuz local spre Castelul Kromberk pentru o doză de cultură și prânz. După-amiaza, un alt autobuz vă va duce la Solkan pentru a admira faimosul pod și a vă plimba de-a lungul râului Soča de smarald. Seara se încheie cu o călătorie ușoară cu autobuzul înapoi în centrul orașului.",
+        "en": "Your day starts in the center of Nova Gorica after arriving at the bus station. Explore Transalpina Square and Kostanjevica Monastery on foot. Then, take a local bus to Kromberk Castle for a dose of culture and lunch. In the afternoon, another bus will take you to Solkan to admire the famous bridge and walk along the emerald Soča River. The evening ends with an easy bus ride back to the city center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Burek",
+            "tip": "Ein schneller und leckerer Snack, den man an vielen Ständen findet."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Probieren Sie ein 'pivo' von einer slowenischen Brauerei."
+          },
+          {
+            "name": "Kremšnita",
+            "tip": "Obwohl aus Bled, ist dieser Cremeschnitte im ganzen Land beliebt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Burek",
+            "tip": "Gyors és finom snack, sok standnál megtalálható."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Kóstoljon meg egy 'pivo'-t egy szlovén sörfőzdétől."
+          },
+          {
+            "name": "Kremšnita",
+            "tip": "Bár Bledből származik, ez a krémestorta országszerte népszerű."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Burek",
+            "tip": "O gustare rapidă și delicioasă găsită la multe tarabe."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "Încercați o 'pivo' de la o fabrică de bere slovenă."
+          },
+          {
+            "name": "Kremšnita",
+            "tip": "Deși originară din Bled, această prăjitură cu cremă este populară în toată țara."
+          }
+        ],
+        "en": [
+          {
+            "name": "Burek",
+            "tip": "A quick and delicious snack found at many stalls."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Try a 'pivo' from a Slovenian brewery."
+          },
+          {
+            "name": "Kremšnita",
+            "tip": "Although from Bled, this cream cake is popular throughout the country."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof neben dem Kloster Kostanjevica",
+            "tip": "Ein Ort der Stille und Geschichte.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Park bei Schloss Kromberk",
+            "tip": "Eine grüne Oase abseits des Stadtzentrums.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Abendlicher Spaziergang am Fluss",
+            "tip": "Die Menschenmassen verschwinden und es wird friedlich.",
+            "emoji": "🌙"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Temető a Kostanjevicai kolostor mellett",
+            "tip": "A csend és a történelem helye.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Park a Kromberk kastélynál",
+            "tip": "Zöld oázis a városközponttól távol.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Esti séta a folyóparton",
+            "tip": "A tömeg eltűnik, és béke költözik a tájra.",
+            "emoji": "🌙"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul de lângă Mănăstirea Kostanjevica",
+            "tip": "Un loc de liniște și istorie.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Parcul de la Castelul Kromberk",
+            "tip": "O oază de verdeață departe de centrul orașului.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Plimbare de seară pe malul râului",
+            "tip": "Mulțimile dispar și devine pașnic.",
+            "emoji": "🌙"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cemetery next to Kostanjevica Monastery",
+            "tip": "A place of silence and history.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Park at Kromberk Castle",
+            "tip": "A green oasis away from the city center.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Evening walk by the river",
+            "tip": "The crowds disappear and it becomes peaceful.",
+            "emoji": "🌙"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske am Busbahnhof",
+            "tip": "Für Last-Minute-Souvenirs und Snacks."
+          },
+          {
+            "name": "Supermärkte",
+            "tip": "Kaufen Sie slowenische Schokolade oder Honig als Mitbringsel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok a buszpályaudvaron",
+            "tip": "Utolsó pillanatos ajándéktárgyakért és rágcsálnivalókért."
+          },
+          {
+            "name": "Szupermarketek",
+            "tip": "Vásároljon szlovén csokoládét vagy mézet ajándékba."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri la autogară",
+            "tip": "Pentru suveniruri și gustări de ultim moment."
+          },
+          {
+            "name": "Supermarketuri",
+            "tip": "Cumpărați ciocolată sau miere slovenă ca suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks at the bus station",
+            "tip": "For last-minute souvenirs and snacks."
+          },
+          {
+            "name": "Supermarkets",
+            "tip": "Buy Slovenian chocolate or honey as souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, besonders am Wochenende.",
+          "Haben Sie etwas Kleingeld für Bustickets dabei."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha több utazást tervez.",
+          "Ellenőrizze előre a buszmenetrendet, különösen hétvégén.",
+          "Legyen Önnél aprópénz a buszjegyekhez."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă plănuiți mai multe călătorii.",
+          "Verificați programul autobuzelor în avans, mai ales în weekend.",
+          "Aveți la îndemână mărunțiș pentru biletele de autobuz."
+        ],
+        "en": [
+          "Buy a daily bus pass if you plan on making multiple trips.",
+          "Check the bus schedule in advance, especially on weekends.",
+          "Have some small change ready for bus tickets."
+        ]
+      }
+    }
+  }
+}

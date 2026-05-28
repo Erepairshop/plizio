@@ -1,0 +1,1471 @@
+{
+  "city_id": "bulgaria-kavarna-cities-v2",
+  "anchor": {
+    "name": "Kawarna",
+    "coords": [
+      43.4333,
+      28.3333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Historisches Museum Kawarna",
+            "hu": "Kavárnai Történeti Múzeum",
+            "ro": "Muzeul de Istorie din Kavarna",
+            "en": "Kavarna Historical Museum"
+          },
+          "coords": [
+            28.3355,
+            43.434
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die antiken thrakischen und römischen Artefakte.",
+            "hu": "Fókuszáljon az ókori trák és római leletekre.",
+            "ro": "Concentrați-vă pe artefactele antice trace și romane.",
+            "en": "Focus on the ancient Thracian and Roman artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtische Kunstgalerie",
+            "hu": "Városi Művészeti Galéria",
+            "ro": "Galeria de Artă Municipală",
+            "en": "City Art Gallery"
+          },
+          "coords": [
+            28.3365,
+            43.4335
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf Werke lokaler Künstler, die das Meer darstellen.",
+            "hu": "Keresse a helyi művészek tengeri témájú alkotásait.",
+            "ro": "Căutați lucrările artiștilor locali ce înfățișează marea.",
+            "en": "Look for works by local artists depicting the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Georg",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Sfântul Gheorghe",
+            "en": "Church of Saint George"
+          },
+          "coords": [
+            28.338,
+            43.4345
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Ikonenwand und die ruhige Atmosphäre.",
+            "hu": "Csodálja meg az ikonosztázt és a csendes légkört.",
+            "ro": "Admirați iconostasul și atmosfera liniștită.",
+            "en": "Admire the iconostasis and the quiet atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebéd a városközpontban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the City Center"
+          },
+          "coords": [
+            28.337,
+            43.4325
+          ],
+          "category": "gastro",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie ein lokales Restaurant für frische Meeresfrüchte.",
+            "hu": "Próbáljon ki egy helyi éttermet friss tengeri ételekkel.",
+            "ro": "Încercați un restaurant local pentru fructe de mare proaspete.",
+            "en": "Try a local restaurant for some fresh seafood."
+          }
+        },
+        {
+          "name": {
+            "de": "Meeresgarten",
+            "hu": "Tengeri Kert",
+            "ro": "Grădina Mării",
+            "en": "Sea Garden"
+          },
+          "coords": [
+            28.344,
+            43.428
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für einen entspannten Spaziergang mit Blick auf das Schwarze Meer.",
+            "hu": "Tökéletes hely egy pihentető sétához a Fekete-tengerre néző kilátással.",
+            "ro": "Un loc perfect pentru o plimbare relaxantă cu vedere la Marea Neagră.",
+            "en": "A perfect spot for a relaxing walk overlooking the Black Sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentralstrand von Kawarna",
+            "hu": "Kavárna központi strandja",
+            "ro": "Plaja Centrală din Kavarna",
+            "en": "Kavarna Central Beach"
+          },
+          "coords": [
+            28.346,
+            43.425
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am Sandstrand oder nehmen Sie ein Bad im Meer.",
+            "hu": "Pihenjen a homokos parton vagy ússzon egyet a tengerben.",
+            "ro": "Relaxați-vă pe plaja cu nisip sau faceți o baie în mare.",
+            "en": "Relax on the sandy shore or take a dip in the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einem tiefen Einblick in die Geschichte im Historischen Museum, gefolgt von lokaler Kunst in der Städtischen Galerie. Nach dem spirituellen Besuch der Kirche des Heiligen Georg genießen Sie ein Mittagessen mit Meeresfrüchten. Der Nachmittag ist der Entspannung gewidmet, mit einem Spaziergang durch den Meeresgarten und Zeit am Zentralstrand. Beenden Sie den Tag, während die Sonne über dem Schwarzen Meer untergeht.",
+        "hu": "Kezdje a napot a Történeti Múzeumban, majd merüljön el a helyi művészetben a Városi Galériában. A Szent György-templom meglátogatása után ebédeljen egy jót a tenger gyümölcseiből. A délutánt szentelje a pihenésnek a Tengeri Kertben és a központi strandon. Zárja a napot a Fekete-tenger feletti naplemente látványával.",
+        "ro": "Începeți ziua cu o incursiune în istorie la Muzeul de Istorie, urmată de arta locală la Galeria Municipală. După o vizită spirituală la Biserica Sf. Gheorghe, savurați un prânz cu fructe de mare. După-amiaza este dedicată relaxării, cu o plimbare prin Grădina Mării și timp petrecut pe Plaja Centrală. Încheiați ziua admirând apusul peste Marea Neagră.",
+        "en": "Start your day with a deep dive into history at the Historical Museum, followed by local art at the City Gallery. After a spiritual visit to the Church of St. George, enjoy a seafood lunch. The afternoon is for relaxation, with a stroll through the Sea Garden and time at the Central Beach. End the day as the sun sets over the Black Sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Miesmuscheln nach Kawarna-Art",
+            "tip": "In den Restaurants am Strand gedämpft mit Kräutern probieren."
+          },
+          {
+            "name": "Gegrillter Fisch",
+            "tip": "Frisch aus dem Schwarzen Meer, serviert mit Zitrone und Knoblauch."
+          },
+          {
+            "name": "Shopska-Salat",
+            "tip": "Ein klassischer bulgarischer Salat, perfekt für einen heißen Tag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fekete kagyló kavárnai módra",
+            "tip": "Próbálja ki a tengerparti éttermekben, fűszernövényekkel párolva."
+          },
+          {
+            "name": "Grillezett hal",
+            "tip": "Frissen a Fekete-tengerből, citrommal és fokhagymával tálalva."
+          },
+          {
+            "name": "Sopszka saláta",
+            "tip": "Klasszikus bolgár saláta, tökéletes egy forró napon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Midii în stil Kavarna",
+            "tip": "Încercați-le la restaurantele de pe plajă, fierte la abur cu ierburi."
+          },
+          {
+            "name": "Pește la grătar",
+            "tip": "Proaspăt din Marea Neagră, servit cu lămâie și usturoi."
+          },
+          {
+            "name": "Salată Shopska",
+            "tip": "O salată bulgărească clasică, perfectă pentru o zi călduroasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kavarna-style Mussels",
+            "tip": "Try them steamed with herbs at the beachfront restaurants."
+          },
+          {
+            "name": "Grilled Fish",
+            "tip": "Fresh from the Black Sea, served with lemon and garlic."
+          },
+          {
+            "name": "Shopska Salad",
+            "tip": "A classic Bulgarian salad, perfect for a hot day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Meeresgarten",
+            "tip": "Finden Sie eine ruhige Bank mit Blick auf das Meer.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Die Klippen bei Sonnenuntergang",
+            "tip": "Spazieren Sie am späten Nachmittag entlang der Küste für eine atemberaubende Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Früher Morgen am Strand",
+            "tip": "Erleben Sie die Ruhe, bevor die Menschenmassen ankommen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tengeri Kert",
+            "tip": "Keressen egy csendes padot, ahonnan a tengerre nyílik kilátás.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sziklák naplementekor",
+            "tip": "Sétáljon a part mentén késő délután a lélegzetelállító kilátásért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kora reggel a tengerparton",
+            "tip": "Tapasztalja meg a nyugalmat, mielőtt a tömeg megérkezik.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Mării",
+            "tip": "Găsiți o bancă liniștită cu vedere la mare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stâncile la apus",
+            "tip": "Plimbați-vă de-a lungul coastei după-amiaza târziu pentru priveliști uimitoare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Dimineața devreme pe plajă",
+            "tip": "Experimentați liniștea înainte de sosirea mulțimilor.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sea Garden",
+            "tip": "Find a quiet bench overlooking the sea.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The cliffs at sunset",
+            "tip": "Walk along the coast in the late afternoon for stunning views.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Early morning at the beach",
+            "tip": "Experience the tranquility before the crowds arrive.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerksläden",
+            "tip": "Suchen Sie nach handgefertigter Keramik und Textilien."
+          },
+          {
+            "name": "Souvenirs mit Meeresmotiven",
+            "tip": "Muschelschmuck und kleine Gemälde sind beliebte Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keressen kézzel készített kerámiákat és textíliákat."
+          },
+          {
+            "name": "Tengeri témájú ajándéktárgyak",
+            "tip": "Kagylóékszerek és kis festmények népszerű emléktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Căutați ceramică și textile lucrate manual."
+          },
+          {
+            "name": "Suveniruri cu tematică marină",
+            "tip": "Bijuteriile din scoici și picturile mici sunt amintiri populare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Craft Shops",
+            "tip": "Look for handmade pottery and textiles."
+          },
+          {
+            "name": "Sea-themed Souvenirs",
+            "tip": "Shell jewelry and small paintings are popular keepsakes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie Sonnencreme und einen Hut mit, besonders für den Nachmittag am Strand.",
+          "Halten Sie immer eine Flasche Wasser bereit.",
+          "Die meisten Orte im Stadtzentrum sind leicht zu Fuß erreichbar."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog sétálni.",
+          "Vigyen magával naptejet és kalapot, különösen a délutáni strandoláshoz.",
+          "Mindig legyen Önnél egy üveg víz.",
+          "A városközpont legtöbb helye könnyen megközelíthető gyalog."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Luați cu voi cremă de protecție solară și o pălărie, mai ales pentru după-amiaza la plajă.",
+          "Aveți întotdeauna la îndemână o sticlă cu apă.",
+          "Majoritatea locurilor din centrul orașului sunt ușor accesibile pe jos."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "Bring sunscreen and a hat, especially for the afternoon at the beach.",
+          "Always keep a bottle of water with you.",
+          "Most places in the city center are within easy walking distance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Start: Fahrradverleih",
+            "hu": "Indulás: Kerékpárkölcsönző",
+            "ro": "Start: Închiriere biciclete",
+            "en": "Start: Bike Rental"
+          },
+          "coords": [
+            28.335,
+            43.435
+          ],
+          "category": "service",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Überprüfen Sie die Bremsen und Reifen, bevor Sie losfahren.",
+            "hu": "Indulás előtt ellenőrizze a fékeket és a gumikat.",
+            "ro": "Verificați frânele și anvelopele înainte de a pleca.",
+            "en": "Check the brakes and tires before you set off."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Tschirakman",
+            "hu": "Csirakman erőd",
+            "ro": "Cetatea Chirakman",
+            "en": "Chirakman Fortress"
+          },
+          "coords": [
+            28.349,
+            43.418
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Der Aufstieg ist steil, aber die Aussicht von oben ist die Mühe wert.",
+            "hu": "Az emelkedő meredek, de a fenti kilátás megéri a fáradságot.",
+            "ro": "Urcușul este abrupt, dar priveliștea de sus merită efortul.",
+            "en": "The climb is steep, but the view from the top is worth the effort."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentralstrand von Kawarna",
+            "hu": "Kavárna központi strandja",
+            "ro": "Plaja Centrală din Kavarna",
+            "en": "Kavarna Central Beach"
+          },
+          "coords": [
+            28.346,
+            43.425
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie zum Strand gehen.",
+            "hu": "Zárja le biztonságosan a kerékpárt, mielőtt a strandra megy.",
+            "ro": "Asigurați-vă bicicleta înainte de a merge la plajă.",
+            "en": "Lock your bike securely before heading to the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Meer",
+            "hu": "Ebéd a tengernél",
+            "ro": "Prânz la malul mării",
+            "en": "Lunch by the Sea"
+          },
+          "coords": [
+            28.3475,
+            43.424
+          ],
+          "category": "gastro",
+          "arrive_at": "12:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie frische Miesmuscheln mit Blick auf die Wellen.",
+            "hu": "Élvezze a friss fekete kagylót a hullámokra nézve.",
+            "ro": "Savurați midii proaspete cu vedere la valuri.",
+            "en": "Enjoy fresh mussels with a view of the waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum Kawarna",
+            "hu": "Kavárnai Történeti Múzeum",
+            "ro": "Muzeul de Istorie din Kavarna",
+            "en": "Kavarna Historical Museum"
+          },
+          "coords": [
+            28.3355,
+            43.434
+          ],
+          "category": "museums",
+          "arrive_at": "14:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Eine willkommene Abkühlung und eine Dosis Kultur am Nachmittag.",
+            "hu": "Kellemes hűsölés és egy adag kultúra délutánra.",
+            "ro": "O pauză răcoroasă și o doză de cultură după-amiaza.",
+            "en": "A welcome cool-down and a dose of culture in the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Ethnographisches Museum",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul Etnografic",
+            "en": "Ethnographic Museum"
+          },
+          "coords": [
+            28.3345,
+            43.436
+          ],
+          "category": "museums",
+          "arrive_at": "16:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokalen Traditionen und das ländliche Leben der Region.",
+            "hu": "Ismerje meg a régió helyi hagyományait és vidéki életét.",
+            "ro": "Descoperiți tradițiile locale și viața rurală din regiune.",
+            "en": "Discover the local traditions and rural life of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückgabe der Fahrräder",
+            "hu": "Kerékpárok visszavitele",
+            "ro": "Returnarea bicicletelor",
+            "en": "Bike Drop-off"
+          },
+          "coords": [
+            28.335,
+            43.435
+          ],
+          "category": "service",
+          "arrive_at": "17:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem wohlverdienten Eis in der Nähe.",
+            "hu": "Zárja a napot egy jól megérdemelt fagyival a közelben.",
+            "ro": "Încheiați ziua cu o înghețată binemeritată în apropiere.",
+            "en": "End the day with a well-deserved ice cream nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein aktiver Tag erwartet Sie! Nach dem Ausleihen Ihres Fahrrads erklimmen Sie die Festung Tschirakman für eine Panoramasicht. Kühlen Sie sich am Zentralstrand ab, bevor Sie ein Mittagessen am Meer genießen. Der Nachmittag ist der Kultur gewidmet, mit Besuchen im Historischen und Ethnographischen Museum. Geben Sie Ihr Fahrrad zurück und beenden Sie den Tag voller unvergesslicher Eindrücke.",
+        "hu": "Aktív nap vár Önre! A kerékpárkölcsönzés után mássza meg a Csirakman erődöt a panorámáért. Hűsöljön a központi strandon, majd ebédeljen a tengerparton. A délutánt szentelje a kultúrának a Történeti és Néprajzi Múzeumban. Vigye vissza a biciklit, és zárja a napot tele felejthetetlen élményekkel.",
+        "ro": "Vă așteaptă o zi activă! După ce închiriați bicicleta, urcați la Cetatea Chirakman pentru o vedere panoramică. Răcoriți-vă la Plaja Centrală înainte de a savura prânzul pe malul mării. După-amiaza este dedicată culturii, cu vizite la Muzeul de Istorie și cel Etnografic. Returnați bicicleta și încheiați ziua plină de impresii memorabile.",
+        "en": "An active day awaits! After renting your bike, climb Chirakman Fortress for a panoramic view. Cool off at the Central Beach before enjoying lunch by the sea. The afternoon is dedicated to culture with visits to the Historical and Ethnographic Museums. Return your bike and end the day full of memorable impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Miesmuscheln nach Kawarna-Art",
+            "tip": "In den Restaurants am Strand gedämpft mit Kräutern probieren."
+          },
+          {
+            "name": "Gegrillter Fisch",
+            "tip": "Frisch aus dem Schwarzen Meer, serviert mit Zitrone und Knoblauch."
+          },
+          {
+            "name": "Tarator",
+            "tip": "Eine kalte Gurken-Joghurt-Suppe, sehr erfrischend nach dem Radfahren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fekete kagyló kavárnai módra",
+            "tip": "Próbálja ki a tengerparti éttermekben, fűszernövényekkel párolva."
+          },
+          {
+            "name": "Grillezett hal",
+            "tip": "Frissen a Fekete-tengerből, citrommal és fokhagymával tálalva."
+          },
+          {
+            "name": "Tarator",
+            "tip": "Hideg uborkás-joghurtos leves, nagyon frissítő biciklizés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Midii în stil Kavarna",
+            "tip": "Încercați-le la restaurantele de pe plajă, fierte la abur cu ierburi."
+          },
+          {
+            "name": "Pește la grătar",
+            "tip": "Proaspăt din Marea Neagră, servit cu lămâie și usturoi."
+          },
+          {
+            "name": "Tarator",
+            "tip": "O supă rece de castraveți și iaurt, foarte răcoritoare după ciclism."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kavarna-style Mussels",
+            "tip": "Try them steamed with herbs at the beachfront restaurants."
+          },
+          {
+            "name": "Grilled Fish",
+            "tip": "Fresh from the Black Sea, served with lemon and garlic."
+          },
+          {
+            "name": "Tarator",
+            "tip": "A cold cucumber and yogurt soup, very refreshing after cycling."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Festung Tschirakman",
+            "tip": "Genießen Sie die Stille und die weite Aussicht auf das Meer.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Geheime Buchten",
+            "tip": "Fahren Sie entlang der Küste, um kleine, ruhige Strände zu entdecken.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Meeresgarten",
+            "tip": "Eine friedliche Oase für eine kurze Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csirakman erőd",
+            "tip": "Élvezze a csendet és a tengerre nyíló széles kilátást.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Titkos öblök",
+            "tip": "Kerékpározzon a part mentén, hogy kis, csendes strandokat fedezzen fel.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Tengeri Kert",
+            "tip": "Békés oázis egy rövid pihenőre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cetatea Chirakman",
+            "tip": "Bucurați-vă de liniște și de priveliștea vastă asupra mării.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Golfuri secrete",
+            "tip": "Pedalați de-a lungul coastei pentru a descoperi plaje mici și liniștite.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina Mării",
+            "tip": "O oază de pace pentru o scurtă pauză.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Chirakman Fortress",
+            "tip": "Enjoy the silence and the vast view of the sea.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Secret Coves",
+            "tip": "Cycle along the coast to discover small, quiet beaches.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sea Garden",
+            "tip": "A peaceful oasis for a short break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerksläden",
+            "tip": "Suchen Sie nach handgefertigter Keramik und Textilien."
+          },
+          {
+            "name": "Souvenirs mit Meeresmotiven",
+            "tip": "Muschelschmuck und kleine Gemälde sind beliebte Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keressen kézzel készített kerámiákat és textíliákat."
+          },
+          {
+            "name": "Tengeri témájú ajándéktárgyak",
+            "tip": "Kagylóékszerek és kis festmények népszerű emléktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Căutați ceramică și textile lucrate manual."
+          },
+          {
+            "name": "Suveniruri cu tematică marină",
+            "tip": "Bijuteriile din scoici și picturile mici sunt amintiri populare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Craft Shops",
+            "tip": "Look for handmade pottery and textiles."
+          },
+          {
+            "name": "Sea-themed Souvenirs",
+            "tip": "Shell jewelry and small paintings are popular keepsakes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad mit Gängen für die Hügel.",
+          "Tragen Sie einen Helm und verwenden Sie Lichter, wenn Sie am Abend fahren.",
+          "Die Küstenstraße bietet malerische Routen, aber seien Sie vorsichtig mit dem Verkehr.",
+          "Nehmen Sie viel Wasser mit, besonders an heißen Tagen."
+        ],
+        "hu": [
+          "Béreljen sebességváltós kerékpárt a dombokhoz.",
+          "Viseljen sisakot, és használjon lámpát, ha este teker.",
+          "A parti út festői útvonalakat kínál, de legyen óvatos a forgalommal.",
+          "Vigyen magával sok vizet, különösen forró napokon."
+        ],
+        "ro": [
+          "Închiriați o bicicletă cu viteze pentru dealuri.",
+          "Purtați cască și folosiți lumini dacă pedalați seara.",
+          "Drumul de coastă oferă trasee pitorești, dar fiți atenți la trafic.",
+          "Luați multă apă cu voi, mai ales în zilele caniculare."
+        ],
+        "en": [
+          "Rent a bike with gears for the hills.",
+          "Wear a helmet and use lights if you're cycling in the evening.",
+          "The coastal road offers scenic routes, but be careful with traffic.",
+          "Bring plenty of water, especially on hot days."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:50",
+      "total_km": 30.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Historisches Museum Kawarna",
+            "hu": "A csoport: Kavárnai Történeti Múzeum",
+            "ro": "Cluster A: Muzeul de Istorie Kavarna",
+            "en": "Cluster A: Kavarna Historical Museum"
+          },
+          "coords": [
+            28.3355,
+            43.434
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Stadtzentrum und beginnen Sie hier Ihre Erkundungstour.",
+            "hu": "Parkoljon a városközpontban, és innen kezdje a felfedezést.",
+            "ro": "Parcați în centrul orașului și începeți explorarea de aici.",
+            "en": "Park in the city center and start your exploration here."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Georg",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Sfântul Gheorghe",
+            "en": "Church of Saint George"
+          },
+          "coords": [
+            28.338,
+            43.4345
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum entfernt, ein Ort der Ruhe.",
+            "hu": "Rövid séta a múzeumtól, a nyugalom szigete.",
+            "ro": "La o scurtă plimbare de muzeu, un loc de liniște.",
+            "en": "A short walk from the museum, a place of tranquility."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Festung Tschirakman",
+            "hu": "B csoport: Csirakman erőd",
+            "ro": "Cluster B: Cetatea Chirakman",
+            "en": "Cluster B: Chirakman Fortress"
+          },
+          "coords": [
+            28.349,
+            43.418
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz der Festung und genießen Sie die Aussicht.",
+            "hu": "Hajtson fel az erőd parkolójába, és élvezze a kilátást.",
+            "ro": "Conduceți până la parcarea cetății și bucurați-vă de priveliște.",
+            "en": "Drive up to the fortress parking lot and enjoy the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe der Festung",
+            "hu": "Ebéd az erőd közelében",
+            "ro": "Prânz lângă cetate",
+            "en": "Lunch near the fortress"
+          },
+          "coords": [
+            28.35,
+            43.417
+          ],
+          "category": "gastro",
+          "arrive_at": "12:25",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Es gibt Restaurants mit Panoramablick auf die Küste.",
+            "hu": "Vannak éttermek panorámás kilátással a partra.",
+            "ro": "Există restaurante cu vedere panoramică la coastă.",
+            "en": "There are restaurants with panoramic views of the coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Kap Kaliakra",
+            "hu": "C csoport: Kaliakra-fok",
+            "ro": "Cluster C: Capul Caliacra",
+            "en": "Cluster C: Cape Kaliakra"
+          },
+          "coords": [
+            28.462,
+            43.361
+          ],
+          "category": "natural features",
+          "arrive_at": "14:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 15.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Der Höhepunkt des Tages. Erkunden Sie die Ruinen und die dramatischen Klippen.",
+            "hu": "A nap fénypontja. Fedezze fel a romokat és a drámai sziklákat.",
+            "ro": "Punctul culminant al zilei. Explorați ruinele și stâncile dramatice.",
+            "en": "The highlight of the day. Explore the ruins and dramatic cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Sonnenuntergang am Kap",
+            "hu": "Naplemente a fokon",
+            "ro": "Apus la Cap",
+            "en": "Sunset at the Cape"
+          },
+          "coords": [
+            28.465,
+            43.359
+          ],
+          "category": "natural features",
+          "arrive_at": "16:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Finden Sie einen Platz auf den Klippen, um das Spektakel zu beobachten.",
+            "hu": "Keressen egy helyet a sziklákon, hogy megnézze a látványt.",
+            "ro": "Găsiți un loc pe stânci pentru a urmări spectacolul.",
+            "en": "Find a spot on the cliffs to watch the spectacle."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen am Strand von Kawarna",
+            "hu": "Vacsora Kavárna strandján",
+            "ro": "Cină pe plaja din Kavarna",
+            "en": "Dinner at Kavarna Beach"
+          },
+          "coords": [
+            28.346,
+            43.425
+          ],
+          "category": "gastro",
+          "arrive_at": "17:45",
+          "stay_min": 95,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit einem entspannten Abendessen am Meer.",
+            "hu": "Zárja a napot egy kellemes vacsorával a tengerparton.",
+            "ro": "Încheiați ziua cu o cină relaxantă pe malul mării.",
+            "en": "End your day with a relaxing dinner by the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Autoausflug kombiniert Kultur mit Naturwundern. Starten Sie im Zentrum von Kawarna und erkunden Sie das Museum und die Kirche zu Fuß. Fahren Sie dann zur Festung Tschirakman für eine atemberaubende Aussicht und Mittagessen. Der Nachmittag ist dem majestätischen Kap Kaliakra gewidmet, wo Sie Ruinen erkunden und den Sonnenuntergang beobachten. Beenden Sie den Tag mit einem Abendessen am Strand von Kawarna.",
+        "hu": "Ez az autós kirándulás ötvözi a kultúrát a természeti csodákkal. Kezdjen Kavárna központjában, gyalogosan fedezze fel a múzeumot és a templomot. Ezután hajtson a Csirakman erődhöz a lélegzetelállító kilátásért és ebédért. A délután a fenséges Kaliakra-foké, ahol romokat fedezhet fel és naplementét nézhet. Zárja a napot vacsorával Kavárna strandján.",
+        "ro": "Această excursie cu mașina combină cultura cu minunile naturale. Începeți în centrul Kavarna, explorând muzeul și biserica pe jos. Apoi, conduceți la Cetatea Chirakman pentru priveliști uimitoare și prânz. După-amiaza este dedicată maiestuosului Cap Caliacra, explorând ruine și urmărind apusul. Încheiați ziua cu cina pe plaja din Kavarna.",
+        "en": "This car trip combines culture with natural wonders. Start in Kavarna's center, exploring the museum and church on foot. Then, drive to Chirakman Fortress for stunning views and lunch. The afternoon is dedicated to the majestic Cape Kaliakra, exploring ruins and watching the sunset. End your day with dinner back at Kavarna beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Miesmuschelfarm Dalboka",
+            "tip": "In der Nähe von Kap Kaliakra, berühmt für Dutzende von Miesmuschelgerichten."
+          },
+          {
+            "name": "Gegrillter Fisch",
+            "tip": "Frisch aus dem Schwarzen Meer, serviert mit Zitrone und Knoblauch."
+          },
+          {
+            "name": "Shopska-Salat",
+            "tip": "Ein klassischer bulgarischer Salat, perfekt für einen heißen Tag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dalboka kagylófarm",
+            "tip": "A Kaliakra-fok közelében található, tucatnyi kagylóételéről híres."
+          },
+          {
+            "name": "Grillezett hal",
+            "tip": "Frissen a Fekete-tengerből, citrommal és fokhagymával tálalva."
+          },
+          {
+            "name": "Sopszka saláta",
+            "tip": "Klasszikus bolgár saláta, tökéletes egy forró napon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ferma de midii Dalboka",
+            "tip": "Aproape de Capul Caliacra, renumită pentru zecile de feluri de mâncare cu midii."
+          },
+          {
+            "name": "Pește la grătar",
+            "tip": "Proaspăt din Marea Neagră, servit cu lămâie și usturoi."
+          },
+          {
+            "name": "Salată Shopska",
+            "tip": "O salată bulgărească clasică, perfectă pentru o zi călduroasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dalboka Mussel Farm",
+            "tip": "Near Cape Kaliakra, famous for dozens of mussel dishes."
+          },
+          {
+            "name": "Grilled Fish",
+            "tip": "Fresh from the Black Sea, served with lemon and garlic."
+          },
+          {
+            "name": "Shopska Salad",
+            "tip": "A classic Bulgarian salad, perfect for a hot day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kap Kaliakra",
+            "tip": "Die Weite des Meeres und der Wind schaffen eine kraftvolle, ruhige Atmosphäre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Festung Tschirakman",
+            "tip": "Ein ruhiger Ort am Morgen, bevor die meisten Touristen ankommen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Versteckte Strände entlang der Küste",
+            "tip": "Halten Sie Ausschau nach kleinen Wegen, die zu abgelegenen Buchten führen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kaliakra-fok",
+            "tip": "A tenger végtelensége és a szél erőteljes, nyugodt légkört teremt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Csirakman erőd",
+            "tip": "Csendes hely reggel, mielőtt a legtöbb turista megérkezik.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rejtett strandok a part mentén",
+            "tip": "Keressen kis ösvényeket, amelyek eldugott öblökhöz vezetnek.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capul Caliacra",
+            "tip": "Imensitatea mării și vântul creează o atmosferă puternică și senină.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cetatea Chirakman",
+            "tip": "Un loc liniștit dimineața, înainte de sosirea majorității turiștilor.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plaje ascunse de-a lungul coastei",
+            "tip": "Fiți atenți la cărările mici care duc la golfuri izolate.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cape Kaliakra",
+            "tip": "The vastness of the sea and the wind create a powerful, serene atmosphere.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Chirakman Fortress",
+            "tip": "A quiet spot in the morning before most tourists arrive.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hidden beaches along the coast",
+            "tip": "Look for small tracks leading to secluded coves.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirladen Kap Kaliakra",
+            "tip": "Finden Sie Souvenirs, die mit der Legende des Kaps zusammenhängen."
+          },
+          {
+            "name": "Lokale Weine",
+            "tip": "Die Region ist bekannt für einige gute Weißweine."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kaliakra-fok ajándékbolt",
+            "tip": "Keressen a fok legendájához kapcsolódó ajándéktárgyakat."
+          },
+          {
+            "name": "Helyi borok",
+            "tip": "A régió néhány jó fehérborról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri Capul Caliacra",
+            "tip": "Găsiți suveniruri legate de legenda capului."
+          },
+          {
+            "name": "Vinuri locale",
+            "tip": "Regiunea este cunoscută pentru câteva vinuri albe bune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cape Kaliakra Souvenir Shop",
+            "tip": "Find souvenirs related to the legend of the cape."
+          },
+          {
+            "name": "Local Wines",
+            "tip": "The region is known for some good white wines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Stellen Sie sicher, dass Sie genügend Benzin für die Fahrt nach Kap Kaliakra haben.",
+          "Die Straßen können eng sein, fahren Sie also vorsichtig.",
+          "Nehmen Sie eine gute Kamera für die spektakulären Aussichten mit.",
+          "Für Kap Kaliakra und die Festung wird eine Eintrittsgebühr erhoben."
+        ],
+        "hu": [
+          "Győződjön meg róla, hogy van elég üzemanyaga a Kaliakra-fokra való utazáshoz.",
+          "Az utak keskenyek lehetnek, ezért vezessen óvatosan.",
+          "Vigyen magával jó fényképezőgépet a látványos kilátásért.",
+          "A Kaliakra-fokra és az erődbe belépődíjat szednek."
+        ],
+        "ro": [
+          "Asigurați-vă că aveți suficient combustibil pentru drumul spre Capul Caliacra.",
+          "Drumurile pot fi înguste, așa că șofați cu prudență.",
+          "Luați un aparat foto bun pentru priveliștile spectaculoase.",
+          "Se percepe o taxă de intrare pentru Capul Caliacra și cetate."
+        ],
+        "en": [
+          "Make sure you have enough fuel for the trip to Cape Kaliakra.",
+          "The roads can be narrow, so drive carefully.",
+          "Bring a good camera for the spectacular views.",
+          "There is an entrance fee for Cape Kaliakra and the fortress."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 7.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Historisches Museum Kawarna",
+            "hu": "A csoport: Kavárnai Történeti Múzeum",
+            "ro": "Cluster A: Muzeul de Istorie Kavarna",
+            "en": "Cluster A: Kavarna Historical Museum"
+          },
+          "coords": [
+            28.3355,
+            43.434
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie im Stadtzentrum, das vom Hauptbusbahnhof aus leicht zu erreichen ist.",
+            "hu": "Kezdje a városközpontban, amely könnyen megközelíthető a fő buszpályaudvarról.",
+            "ro": "Începeți din centrul orașului, ușor accesibil de la autogara principală.",
+            "en": "Start in the city center, easily reachable from the main bus station."
+          }
+        },
+        {
+          "name": {
+            "de": "Ethnographisches Museum",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul Etnografic",
+            "en": "Ethnographic Museum"
+          },
+          "coords": [
+            28.3345,
+            43.436
+          ],
+          "category": "museums",
+          "arrive_at": "10:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang, um mehr über die lokale Kultur zu erfahren.",
+            "hu": "Rövid séta, hogy többet tudjon meg a helyi kultúráról.",
+            "ro": "O scurtă plimbare pentru a afla mai multe despre cultura locală.",
+            "en": "A short walk to learn more about the local culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebéd a városközpontban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the City Center"
+          },
+          "coords": [
+            28.337,
+            43.4325
+          ],
+          "category": "gastro",
+          "arrive_at": "12:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Stärken Sie sich, bevor Sie den Bus zum Strand nehmen.",
+            "hu": "Erősítsen, mielőtt buszra szállna a strand felé.",
+            "ro": "Luați o masă copioasă înainte de a lua autobuzul spre plajă.",
+            "en": "Fuel up before taking the bus to the beach area."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Meeresgarten",
+            "hu": "B csoport: Tengeri Kert",
+            "ro": "Cluster B: Grădina Mării",
+            "en": "Cluster B: Sea Garden"
+          },
+          "coords": [
+            28.344,
+            43.428
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus zur Küste und steigen Sie hier aus.",
+            "hu": "Menjen helyi busszal a partra, és itt szálljon le.",
+            "ro": "Luați un autobuz local spre coastă și coborâți aici.",
+            "en": "Take a local bus to the coast and get off here."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentralstrand von Kawarna",
+            "hu": "Kavárna központi strandja",
+            "ro": "Plaja Centrală din Kavarna",
+            "en": "Kavarna Central Beach"
+          },
+          "coords": [
+            28.346,
+            43.425
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Hauptstrand ist nur einen kurzen Spaziergang entfernt.",
+            "hu": "A fő strand csak egy rövid sétára van.",
+            "ro": "Plaja principală este la doar o scurtă plimbare.",
+            "en": "The main beach is just a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt ins Zentrum",
+            "hu": "Vissza a központba",
+            "ro": "Întoarcere în centru",
+            "en": "Return to the Center"
+          },
+          "coords": [
+            28.335,
+            43.435
+          ],
+          "category": "service",
+          "arrive_at": "17:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück und lassen Sie den Tag ausklingen.",
+            "hu": "Menjen busszal vissza, és zárja le a napot.",
+            "ro": "Luați autobuzul înapoi și încheiați ziua.",
+            "en": "Take the bus back and wind down your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Kawarna einfach mit öffentlichen Verkehrsmitteln. Verbringen Sie den Vormittag damit, die Museen im Stadtzentrum zu Fuß zu erkunden und genießen Sie ein lokales Mittagessen. Am Nachmittag bringt Sie ein Bus in die Küstenregion, wo Sie im Meeresgarten spazieren gehen und am Zentralstrand entspannen können. Eine bequeme Busfahrt bringt Sie am Ende des Tages zurück ins Zentrum.",
+        "hu": "Fedezze fel Kavárnát könnyedén a tömegközlekedéssel. Töltse a délelőttöt a belvárosi múzeumok gyalogos felfedezésével és egy helyi ebéd elfogyasztásával. Délután egy busz elviszi a partvidékre, ahol sétálhat a Tengeri Kertben és pihenhet a központi strandon. A nap végén egy kényelmes buszút viszi vissza a központba.",
+        "ro": "Explorați Kavarna cu ușurință folosind transportul public. Petreceți dimineața explorând pe jos muzeele din centrul orașului și savurând un prânz local. După-amiaza, un autobuz vă va duce în zona de coastă pentru o plimbare prin Grădina Mării și relaxare pe Plaja Centrală. O călătorie confortabilă cu autobuzul vă va aduce înapoi în centru la sfârșitul zilei.",
+        "en": "Explore Kavarna with ease using public transport. Spend the morning exploring the city center's museums on foot and enjoy a local lunch. In the afternoon, a bus will take you to the coastal area for a walk in the Sea Garden and relaxation on the Central Beach. A convenient bus ride brings you back to the center at the end of the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Miesmuscheln nach Kawarna-Art",
+            "tip": "In den Restaurants am Strand gedämpft mit Kräutern probieren."
+          },
+          {
+            "name": "Gegrillter Fisch",
+            "tip": "Frisch aus dem Schwarzen Meer, serviert mit Zitrone und Knoblauch."
+          },
+          {
+            "name": "Banitsa",
+            "tip": "Ein herzhaftes Gebäck, perfekt für einen schnellen Snack zwischendurch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fekete kagyló kavárnai módra",
+            "tip": "Próbálja ki a tengerparti éttermekben, fűszernövényekkel párolva."
+          },
+          {
+            "name": "Grillezett hal",
+            "tip": "Frissen a Fekete-tengerből, citrommal és fokhagymával tálalva."
+          },
+          {
+            "name": "Banica",
+            "tip": "Sós péksütemény, tökéletes egy gyors harapnivalóhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Midii în stil Kavarna",
+            "tip": "Încercați-le la restaurantele de pe plajă, fierte la abur cu ierburi."
+          },
+          {
+            "name": "Pește la grătar",
+            "tip": "Proaspăt din Marea Neagră, servit cu lămâie și usturoi."
+          },
+          {
+            "name": "Banitsa",
+            "tip": "O plăcintă sărată, perfectă pentru o gustare rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kavarna-style Mussels",
+            "tip": "Try them steamed with herbs at the beachfront restaurants."
+          },
+          {
+            "name": "Grilled Fish",
+            "tip": "Fresh from the Black Sea, served with lemon and garlic."
+          },
+          {
+            "name": "Banitsa",
+            "tip": "A savory pastry, perfect for a quick snack on the go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Meeresgarten",
+            "tip": "Finden Sie eine ruhige Bank mit Blick auf das Meer.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirche des Heiligen Georg",
+            "tip": "Ein Ort der Stille und Besinnung im Herzen der Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Früher Morgen am Strand",
+            "tip": "Nehmen Sie einen frühen Bus, um die Ruhe vor den Menschenmassen zu genießen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tengeri Kert",
+            "tip": "Keressen egy csendes padot, ahonnan a tengerre nyílik kilátás.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent György-templom",
+            "tip": "A csend és az elmélkedés helye a város szívében.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kora reggel a tengerparton",
+            "tip": "Menjen korai busszal, hogy élvezze a nyugalmat a tömeg előtt.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Mării",
+            "tip": "Găsiți o bancă liniștită cu vedere la mare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Biserica Sfântul Gheorghe",
+            "tip": "Un loc de liniște și contemplare în inima orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Dimineața devreme pe plajă",
+            "tip": "Luați un autobuz devreme pentru a vă bucura de liniște înainte de mulțime.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sea Garden",
+            "tip": "Find a quiet bench overlooking the sea.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Church of Saint George",
+            "tip": "A place of quiet contemplation in the heart of the city.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Early morning at the beach",
+            "tip": "Take an early bus to enjoy the peace before the crowds.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Märkte",
+            "tip": "Suchen Sie nach frischem Obst und lokalem Honig."
+          },
+          {
+            "name": "Souvenirläden in Strandnähe",
+            "tip": "Finden Sie Muscheln und andere Andenken an das Meer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piacok",
+            "tip": "Keressen friss gyümölcsöt és helyi mézet."
+          },
+          {
+            "name": "Ajándékboltok a strand közelében",
+            "tip": "Keressen kagylókat és más tengeri emléktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe locale",
+            "tip": "Căutați fructe proaspete și miere locală."
+          },
+          {
+            "name": "Magazine de suveniruri lângă plajă",
+            "tip": "Găsiți scoici și alte amintiri de la mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Markets",
+            "tip": "Look for fresh fruit and local honey."
+          },
+          {
+            "name": "Souvenir shops near the beach",
+            "tip": "Find shells and other sea-related keepsakes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Überprüfen Sie den Busfahrplan im Voraus, besonders für die letzte Fahrt zurück.",
+          "Die Busse können im Sommer überfüllt sein.",
+          "Halten Sie Kleingeld für die Tickets bereit."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Ellenőrizze előre a buszmenetrendet, különösen az utolsó visszaútra.",
+          "A buszok nyáron zsúfoltak lehetnek.",
+          "Tartson magánál aprópénzt a jegyekhez."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Verificați programul autobuzelor în avans, în special pentru ultima cursă înapoi.",
+          "Autobuzele pot fi aglomerate în timpul verii.",
+          "Păstrați mărunțiș pentru bilete."
+        ],
+        "en": [
+          "Buy a day pass for unlimited travel.",
+          "Check the bus schedule in advance, especially for the last ride back.",
+          "Buses can be crowded during the summer.",
+          "Keep small change ready for tickets."
+        ]
+      }
+    }
+  }
+}

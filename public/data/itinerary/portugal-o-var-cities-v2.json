@@ -1,0 +1,950 @@
+{
+  "city_id": "portugal-o-var-cities-v2",
+  "anchor": {
+    "name": "Ovar",
+    "coords": [
+      -8.6167,
+      40.8667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Praça da República",
+            "hu": "Érkezés a Köztársaság térre (Praça da República)",
+            "ro": "Sosire în Praça da República",
+            "en": "Arrival at Republic Square (Praça da República)"
+          },
+          "coords": [
+            -8.6162,
+            40.8665
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Holen Sie sich einen Kaffee und genießen Sie die Atmosphäre, bevor die Menschenmassen kommen.",
+            "hu": "Igyon meg egy kávét, és élvezze a hangulatot, mielőtt a tömeg megérkezik.",
+            "ro": "Luați o cafea și bucurați-vă de atmosferă înainte de a se aglomera.",
+            "en": "Grab a coffee and enjoy the atmosphere before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja Matriz de Ovar",
+            "hu": "Ovari Mátrix-templom",
+            "ro": "Igreja Matriz de Ovar",
+            "en": "Mother Church of Ovar"
+          },
+          "coords": [
+            -8.617,
+            40.867
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden Azulejo-Fliesen, die die gesamte Fassade bedecken.",
+            "hu": "Csodálja meg a lenyűgöző azulejo csempéket, amelyek az egész homlokzatot borítják.",
+            "ro": "Admirați panourile impresionante de azulejo care acoperă întreaga fațadă.",
+            "en": "Admire the impressive azulejo tile panels covering the entire facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Passos da Rua Direita",
+            "hu": "Passos da Rua Direita",
+            "ro": "Passos da Rua Direita",
+            "en": "Chapels of Rua Direita"
+          },
+          "coords": [
+            -8.618,
+            40.866
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:25",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Suchen Sie nach diesen kleinen Kapellen, die in die Stadt integriert sind; sie sind leicht zu übersehen.",
+            "hu": "Keresse ezeket a városba ágyazott kis kápolnákat; könnyű elsétálni mellettük.",
+            "ro": "Căutați aceste mici capele încorporate în oraș; sunt ușor de ratat.",
+            "en": "Look for these small chapels embedded in the city; they are easy to miss."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu de Ovar",
+            "hu": "Ovari Múzeum",
+            "ro": "Muzeul din Ovar",
+            "en": "Museum of Ovar"
+          },
+          "coords": [
+            -8.6195,
+            40.8655
+          ],
+          "category": "museums",
+          "arrive_at": "11:05",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die ethnografischen Exponate, um das lokale Leben und die Traditionen zu verstehen.",
+            "hu": "Fókuszáljon a néprajzi kiállításokra, hogy megértse a helyi életet és hagyományokat.",
+            "ro": "Concentrați-vă pe expozițiile etnografice pentru a înțelege viața și tradițiile locale.",
+            "en": "Focus on the ethnographic exhibits to understand local life and traditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebéd a városközpontban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the City Center"
+          },
+          "coords": [
+            -8.6185,
+            40.866
+          ],
+          "category": "gastro",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Probieren Sie ein lokales Restaurant für frische Meeresfrüchte oder ein Tagesmenü.",
+            "hu": "Próbáljon ki egy helyi éttermet friss tengeri ételekkel vagy egy napi menüvel.",
+            "ro": "Încercați un restaurant local pentru fructe de mare proaspete sau un meniu al zilei.",
+            "en": "Try a local restaurant for fresh seafood or a 'menu of the day'."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro de Arte de Ovar",
+            "hu": "Ovari Művészeti Központ",
+            "ro": "Centrul de Artă din Ovar",
+            "en": "Art Centre of Ovar"
+          },
+          "coords": [
+            -8.625,
+            40.861
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:45",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Überprüfen Sie den Veranstaltungsplan im Voraus; möglicherweise gibt es eine interessante Ausstellung oder Veranstaltung.",
+            "hu": "Nézze meg előre a programot; lehet, hogy van egy érdekes kiállítás vagy esemény.",
+            "ro": "Verificați programul în avans; s-ar putea să existe o expoziție sau un eveniment interesant.",
+            "en": "Check the schedule in advance; there might be an interesting exhibition or event."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Ovar, dem Praça da República. Am Vormittag erkunden Sie das reiche architektonische Erbe der Stadt und bewundern die berühmten Azulejo-Fliesen der Igreja Matriz und der Passos-Kapellen. Nach dem Mittagessen tauchen Sie im Museu de Ovar in die lokale Kultur ein und verstehen die Traditionen, die diese Region geprägt haben. Schließen Sie Ihren Tag mit einem Besuch im modernen Centro de Arte ab, einem Kontrast zur historischen Umgebung.",
+        "hu": "Kezdje a napot Ovar szívében, a Praça da República téren. A délelőttöt a város gazdag építészeti örökségének felfedezésével töltse, megcsodálva az Igreja Matriz és a Passos kápolnák híres azulejo csempéit. Ebéd után merüljön el a helyi kultúrában a Museu de Ovarban, megértve a régiót formáló hagyományokat. Zárja a napot a modern Centro de Arte meglátogatásával, amely kontrasztot képez a történelmi környezettel.",
+        "ro": "Începeți ziua în inima orașului Ovar, la Praça da República. Dimineața este dedicată explorării bogatului patrimoniu arhitectural al orașului, admirând faimoasele azulejo de la Igreja Matriz și capelele Passos. După prânz, aprofundați cultura locală la Muzeul din Ovar, înțelegând tradițiile care au modelat această regiune. Încheiați ziua cu o vizită la modernul Centru de Artă, un contrast față de împrejurimile istorice.",
+        "en": "Start your day in the heart of Ovar at Praça da República. The morning is for exploring the city's rich architectural heritage, admiring the famous azulejo tiles of the Igreja Matriz and the Passos chapels. After lunch, delve into local culture at the Museu de Ovar, understanding the traditions that have shaped this region. Conclude your day with a visit to the modern Centro de Arte, a contrast to the historic surroundings."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pão de Ló de Ovar",
+            "tip": "Ein Muss! Dieser berühmte Biskuitkuchen ist das gastronomische Symbol der Stadt."
+          },
+          {
+            "name": "Caldeirada de Enguias",
+            "tip": "Ein herzhafter Aaleintopf, eine Spezialität der Region Ria de Aveiro."
+          },
+          {
+            "name": "Frischer Fisch vom Grill",
+            "tip": "In den Restaurants am Meer in Furadouro finden Sie den besten Fang des Tages."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pão de Ló de Ovar",
+            "tip": "Ezt kötelező megkóstolni! Ez a híres piskóta a város gasztronómiai szimbóluma."
+          },
+          {
+            "name": "Caldeirada de Enguias",
+            "tip": "Kiadós angolnaragu, a Ria de Aveiro régió specialitása."
+          },
+          {
+            "name": "Frissen grillezett hal",
+            "tip": "A legjobb napi fogásért látogasson el a tengerparti éttermekbe Furadouróban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pão de Ló de Ovar",
+            "tip": "O necesitate! Acest faimos pandișpan este simbolul gastronomic al orașului."
+          },
+          {
+            "name": "Caldeirada de Enguias",
+            "tip": "O tocană consistentă de anghilă, o specialitate a regiunii Ria de Aveiro."
+          },
+          {
+            "name": "Pește proaspăt la grătar",
+            "tip": "Mergeți la restaurantele de pe malul mării din Furadouro pentru cea mai bună captură a zilei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pão de Ló de Ovar",
+            "tip": "A must-try! This famous sponge cake is the town's gastronomic symbol."
+          },
+          {
+            "name": "Caldeirada de Enguias",
+            "tip": "A hearty eel stew, a specialty of the Ria de Aveiro region."
+          },
+          {
+            "name": "Fresh Grilled Fish",
+            "tip": "Head to the seaside restaurants in Furadouro for the best catch of the day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque Ambiental do Buçaquinho",
+            "tip": "Ein ruhiger Spaziergang durch diesen Umweltpark ist perfekt, um dem Trubel der Stadt zu entkommen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Eine stille Bank am Praça da República",
+            "tip": "Finden Sie frühmorgens einen ruhigen Platz, um das Erwachen der Stadt zu beobachten.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Strand von Furadouro bei Ebbe",
+            "tip": "Ein langer Spaziergang entlang der riesigen Sandfläche ist sehr friedlich.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parque Ambiental do Buçaquinho",
+            "tip": "Egy csendes séta ebben a környezeti parkban tökéletes menekülés a város nyüzsgésétől.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Csendes pad a Praça da República téren",
+            "tip": "Találjon egy csendes helyet kora reggel, és nézze, ahogy a város ébredezik.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Furadouro strand apálykor",
+            "tip": "Egy hosszú séta a hatalmas homokos területen nagyon békés.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parque Ambiental do Buçaquinho",
+            "tip": "O plimbare liniștită prin acest parc ecologic este perfectă pentru a scăpa de agitația orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "O bancă liniștită în Praça da República",
+            "tip": "Găsiți un loc liniștit dimineața devreme pentru a privi orașul cum se trezește.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plaja Furadouro la reflux",
+            "tip": "O plimbare lungă de-a lungul întinderii vaste de nisip este foarte pașnică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parque Ambiental do Buçaquinho",
+            "tip": "A quiet walk through this environmental park is perfect for escaping the city buzz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A quiet bench in Praça da República",
+            "tip": "Find a quiet spot early in the morning to watch the town wake up.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Furadouro Beach at low tide",
+            "tip": "A long walk along the vast expanse of sand is very peaceful.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Kaufen Sie authentischen Pão de Ló de Ovar, um ihn als süßes Souvenir mit nach Hause zu nehmen."
+          },
+          {
+            "name": "Keramikläden",
+            "tip": "Halten Sie Ausschau nach handbemalten Azulejos, inspiriert von den berühmten Kirchen der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékségek",
+            "tip": "Vásároljon autentikus Pão de Ló de Ovart, hogy édes emlékként hazavigye."
+          },
+          {
+            "name": "Kerámiaüzletek",
+            "tip": "Keressen kézzel festett azulejo csempéket, amelyeket a város híres templomai ihlettek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutării locale",
+            "tip": "Cumpărați Pão de Ló de Ovar autentic pentru a-l lua acasă ca un suvenir dulce."
+          },
+          {
+            "name": "Magazine de ceramică",
+            "tip": "Căutați azulejos pictate manual, inspirate de faimoasele biserici ale orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bakeries",
+            "tip": "Buy some authentic Pão de Ló de Ovar to take home as a sweet souvenir."
+          },
+          {
+            "name": "Ceramics Shops",
+            "tip": "Look for hand-painted azulejo tiles inspired by the town's famous churches."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie äußerst bequeme Schuhe, da Sie den größten Teil des Tages auf Kopfsteinpflaster laufen werden.",
+          "Halten Sie eine wiederverwendbare Wasserflasche bereit; Sie können sie in Cafés auffüllen.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum liegen nahe beieinander, sodass man sich leicht zurechtfindet.",
+          "Planen Sie zusätzliche Zeit ein, um sich einfach ohne festes Ziel zu verirren und die Fliesenfassaden zu bewundern."
+        ],
+        "hu": [
+          "Viseljen rendkívül kényelmes cipőt, mivel a nap nagy részében macskaköves utcákon fog sétálni.",
+          "Tartson magánál egy újratölthető vizes palackot; kávézókban újratöltheti.",
+          "A legtöbb belvárosi látnivaló közel van egymáshoz, így a tájékozódás egyszerű.",
+          "Szánjon rá extra időt, hogy céltalanul bolyongjon, és csodálja a csempézett homlokzatokat."
+        ],
+        "ro": [
+          "Purtați încălțăminte extrem de confortabilă, deoarece veți merge pe străzi pietruite în cea mai mare parte a zilei.",
+          "Păstrați la îndemână o sticlă de apă reutilizabilă; o puteți reumple la cafenele.",
+          "Majoritatea atracțiilor din centrul orașului sunt apropiate, făcând navigarea ușoară.",
+          "Alocați timp suplimentar pentru a vă plimba fără o destinație anume, admirând fațadele cu azulejo."
+        ],
+        "en": [
+          "Wear extremely comfortable shoes, as you'll be walking on cobblestone streets for most of the day.",
+          "Keep a reusable water bottle handy; you can refill it at cafes.",
+          "Most city center attractions are close together, making navigation easy.",
+          "Budget extra time just to get lost and wander, admiring the tiled facades."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Start am Praça da República",
+            "hu": "Indulás a Praça da República térről",
+            "ro": "Start din Praça da República",
+            "en": "Start at Praça da República"
+          },
+          "coords": [
+            -8.6162,
+            40.8665
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Machen Sie ein schnelles Foto und beginnen Sie Ihre Radtour in Richtung Küste.",
+            "hu": "Készítsen egy gyors fotót, és induljon a tengerpart felé.",
+            "ro": "Faceți o fotografie rapidă și începeți călătoria cu bicicleta spre coastă.",
+            "en": "Take a quick photo and begin your cycle towards the coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja Matriz de Ovar",
+            "hu": "Ovari Mátrix-templom",
+            "ro": "Igreja Matriz de Ovar",
+            "en": "Mother Church of Ovar"
+          },
+          "coords": [
+            -8.617,
+            40.867
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:23",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab und nehmen Sie sich Zeit, die erstaunlichen Fliesen zu bewundern.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és szánjon időt a lenyűgöző csempék megcsodálására.",
+            "ro": "Legați-vă bicicleta în siguranță și luați-vă timp pentru a admira azulejourile uimitoare.",
+            "en": "Lock your bike securely and take a moment to admire the amazing tiles."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Ambiental do Buçaquinho",
+            "hu": "Parque Ambiental do Buçaquinho",
+            "ro": "Parque Ambiental do Buçaquinho",
+            "en": "Buçaquinho Environmental Park"
+          },
+          "coords": [
+            -8.653,
+            40.88
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:28",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Radfahren Sie auf den Holzstegen und halten Sie Ausschau nach der lokalen Vogelwelt.",
+            "hu": "Kerékpározzon a fapallókon, és figyelje a helyi madárvilágot.",
+            "ro": "Pedalați pe podețele de lemn și fiți atenți la păsările locale.",
+            "en": "Cycle on the wooden boardwalks and look out for local birdlife."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Furadouro",
+            "hu": "Praia do Furadouro",
+            "ro": "Plaja Furadouro",
+            "en": "Furadouro Beach"
+          },
+          "coords": [
+            -8.665,
+            40.875
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:37",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und genießen Sie den riesigen Sandstrand. Perfekt für ein erfrischendes Bad im Meer.",
+            "hu": "Parkolja le a kerékpárt, és élvezze a hatalmas homokos strandot. Tökéletes egy frissítő úszáshoz.",
+            "ro": "Parcați bicicleta și bucurați-vă de plaja vastă. Perfect pentru o baie răcoritoare în ocean.",
+            "en": "Park your bike and enjoy the vast sandy beach. Perfect for a refreshing swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Meer in Furadouro",
+            "hu": "Ebéd a tengerparton, Furadouróban",
+            "ro": "Prânz pe malul mării la Furadouro",
+            "en": "Seaside Lunch at Furadouro"
+          },
+          "coords": [
+            -8.666,
+            40.874
+          ],
+          "category": "gastro",
+          "arrive_at": "13:39",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Wählen Sie ein Restaurant mit Blick auf den Ozean und probieren Sie den frisch gegrillten Fisch.",
+            "hu": "Válasszon egy óceánra néző éttermet, és kóstolja meg a frissen grillezett halat.",
+            "ro": "Alegeți un restaurant cu vedere la ocean și încercați peștele proaspăt la grătar.",
+            "en": "Choose a restaurant with an ocean view and try the fresh grilled fish."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Stadtzentrum von Ovar",
+            "hu": "Visszatérés Ovar központjába",
+            "ro": "Întoarcere în centrul orașului Ovar",
+            "en": "Return to Ovar City Center"
+          },
+          "coords": [
+            -8.6167,
+            40.8667
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:54",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 7.7,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Zeit, um Souvenirs zu kaufen, wie den Pão de Ló, bevor Sie gehen.",
+            "hu": "Használja ki az időt ajándéktárgyak, például Pão de Ló vásárlására, mielőtt elindulna.",
+            "ro": "Folosiți timpul pentru a cumpăra suveniruri, cum ar fi Pão de Ló, înainte de a pleca.",
+            "en": "Use the time to shop for souvenirs, like the Pão de Ló, before you leave."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Zentrum von Ovar und radeln Sie dann nach Westen in Richtung der frischen Meeresbrise. Der Vormittag führt Sie durch den ruhigen Buçaquinho-Park, bevor Sie den goldenen Sand des Furadouro-Strandes erreichen. Genießen Sie ein ausgiebiges Mittagessen am Meer mit dem Fang des Tages. Am Nachmittag radeln Sie gemütlich zurück ins Stadtzentrum, um die lokale Süßspezialität zu probieren und die Atmosphäre ein letztes Mal aufzusaugen, bevor der Tag zu Ende geht.",
+        "hu": "Kezdje a napot Ovar történelmi központjában, majd tekerjen nyugat felé a friss tengeri szellő irányába. A délelőtt a békés Buçaquinho parkon keresztül vezet, mielőtt elérné a Furadouro strand aranyhomokját. Élvezzen egy kiadós tengerparti ebédet a napi fogásból. Délután kényelmesen tekerjen vissza a városközpontba, hogy megkóstolja a helyi édes különlegességet, és még egyszer magába szívja a hangulatot a nap vége előtt.",
+        "ro": "Începeți ziua în centrul istoric al orașului Ovar, apoi pedalați spre vest, spre briza proaspătă a mării. Dimineața vă poartă prin parcul liniștit Buçaquinho înainte de a ajunge la nisipurile aurii ale plajei Furadouro. Bucurați-vă de un prânz copios pe malul mării cu captura zilei. După-amiaza, pedalați agale înapoi în centrul orașului pentru a gusta specialitatea dulce locală și a vă bucura de atmosferă pentru ultima oară înainte de sfârșitul zilei.",
+        "en": "Start your day in the historic center of Ovar, then cycle west towards the fresh sea breeze. The morning takes you through the tranquil Buçaquinho park before you reach the golden sands of Furadouro Beach. Enjoy a hearty seaside lunch featuring the catch of the day. In the afternoon, leisurely cycle back to the city center to taste the local sweet specialty and soak in the atmosphere one last time before the day ends."
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck und die Bremsen, bevor Sie losfahren.",
+          "Es gibt einige spezielle Radwege, aber seien Sie auf den Straßen vorsichtig, die Sie mit Autos teilen.",
+          "Nehmen Sie Sonnencreme und ein Handtuch mit, falls Sie am Strand schwimmen gehen möchten.",
+          "Ein leichter Rucksack ist ideal, um Wasser und Snacks zu transportieren."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást és a fékeket.",
+          "Vannak kijelölt kerékpárutak, de legyen óvatos az autókkal közös utakon.",
+          "Hozzon naptejet és törölközőt, ha úszni szeretne a strandon.",
+          "Egy könnyű hátizsák ideális víz és rágcsálnivalók szállítására."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor și frânele înainte de a porni.",
+          "Există unele piste de biciclete dedicate, dar fiți precauți pe drumurile partajate cu mașinile.",
+          "Luați cremă de soare și un prosop dacă plănuiți să înotați la plajă.",
+          "Un rucsac ușor este ideal pentru a transporta apă și gustări."
+        ],
+        "en": [
+          "Check your tire pressure and brakes before setting off.",
+          "There are some dedicated cycle paths, but be cautious on roads shared with cars.",
+          "Bring sunscreen and a towel in case you decide to swim at the beach.",
+          "A lightweight backpack is ideal for carrying water and snacks."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:00",
+      "total_km": 24.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Praça da República & Igreja Matriz",
+            "hu": "A. klaszter: Praça da República és Igreja Matriz",
+            "ro": "Grupul A: Praça da República & Igreja Matriz",
+            "en": "Cluster A: Praça da República & Mother Church"
+          },
+          "coords": [
+            -8.6162,
+            40.8665
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie im Stadtzentrum. Erkunden Sie den Platz und die Hauptkirche zu Fuß.",
+            "hu": "Parkoljon a városközpontban. Fedezze fel gyalog a teret és a főtemplomot.",
+            "ro": "Parcați în centrul orașului. Explorați piața și biserica principală pe jos.",
+            "en": "Park in the city center. Explore the square and the main church on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster A: Museu de Ovar",
+            "hu": "A. klaszter: Ovari Múzeum",
+            "ro": "Grupul A: Muzeul din Ovar",
+            "en": "Cluster A: Museum of Ovar"
+          },
+          "coords": [
+            -8.6195,
+            40.8655
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz entfernt. Planen Sie genügend Zeit für dieses detaillierte Museum ein.",
+            "hu": "Rövid séta a tértől. Szánjon elegendő időt erre a részletes múzeumra.",
+            "ro": "O scurtă plimbare de la piață. Alocați suficient timp pentru acest muzeu detaliat.",
+            "en": "A short walk from the square. Budget enough time for this detailed museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Igreja de Válega",
+            "hu": "B. klaszter: Válega-i templom",
+            "ro": "Grupul B: Biserica din Válega",
+            "en": "Cluster B: Church of Válega"
+          },
+          "coords": [
+            -8.583,
+            40.835
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:00",
+          "stay_min": 45,
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6,
+          "tip_5lang": {
+            "de": "Die kurze Fahrt lohnt sich. Dies ist ein Meisterwerk der portugiesischen Fliesenkunst.",
+            "hu": "Megéri a rövid autóutat. Ez a portugál csempeművészet egyik mesterműve.",
+            "ro": "Merită scurta călătorie cu mașina. Aceasta este o capodoperă a artei portugheze a azulejo-ului.",
+            "en": "Worth the short drive. This is a masterpiece of Portuguese tile art."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe von Válega / Auf dem Weg nach Furadouro",
+            "hu": "Ebéd Válega közelében / Úton Furadouro felé",
+            "ro": "Prânz lângă Válega / În drum spre Furadouro",
+            "en": "Lunch near Válega / On the way to Furadouro"
+          },
+          "coords": [
+            -8.62,
+            40.85
+          ],
+          "category": "gastro",
+          "arrive_at": "12:55",
+          "stay_min": 75,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4,
+          "tip_5lang": {
+            "de": "Suchen Sie ein traditionelles Restaurant außerhalb des Haupttouristengebiets.",
+            "hu": "Keressen egy hagyományos éttermet a fő turistaövezeten kívül.",
+            "ro": "Găsiți un restaurant tradițional în afara zonei turistice principale.",
+            "en": "Find a traditional restaurant outside the main tourist area."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Parque Ambiental do Buçaquinho",
+            "hu": "C. klaszter: Parque Ambiental do Buçaquinho",
+            "ro": "Grupul C: Parque Ambiental do Buçaquinho",
+            "en": "Cluster C: Buçaquinho Environmental Park"
+          },
+          "coords": [
+            -8.653,
+            40.88
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:40",
+          "stay_min": 75,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12,
+          "tip_5lang": {
+            "de": "Parken Sie hier und machen Sie einen Spaziergang. Es ist eine erfrischende Abwechslung.",
+            "hu": "Parkoljon le itt, és tegyen egy sétát. Frissítő változatosság.",
+            "ro": "Parcați aici și faceți o plimbare. Este o schimbare revigorantă.",
+            "en": "Park here and go for a walk. It's a refreshing change of scenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Praia do Furadouro",
+            "hu": "C. klaszter: Praia do Furadouro",
+            "ro": "Grupul C: Plaja Furadouro",
+            "en": "Cluster C: Furadouro Beach"
+          },
+          "coords": [
+            -8.665,
+            40.875
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:05",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto stehen und gehen Sie zum Strand. Ideal für einen langen Spaziergang oder um die Sonne zu genießen.",
+            "hu": "Hagyja az autót, és sétáljon le a partra. Ideális egy hosszú sétához vagy napozáshoz.",
+            "ro": "Lăsați mașina și mergeți pe jos până la plajă. Ideal pentru o plimbare lungă sau pentru a vă bucura de soare.",
+            "en": "Leave the car and walk to the beach. Ideal for a long walk or enjoying the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen mit Sonnenuntergang in Furadouro",
+            "hu": "Naplementés vacsora Furadouróban",
+            "ro": "Cină la apus în Furadouro",
+            "en": "Sunset Dinner in Furadouro"
+          },
+          "coords": [
+            -8.667,
+            40.874
+          ],
+          "category": "gastro",
+          "arrive_at": "18:15",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Wählen Sie ein Restaurant am Meer, um das Abendessen mit einem atemberaubenden Blick auf den Sonnenuntergang zu genießen.",
+            "hu": "Válasszon egy tengerparti éttermet, hogy a vacsorát lenyűgöző naplementével élvezhesse.",
+            "ro": "Alegeți un restaurant pe malul mării pentru a vă bucura de cină cu o priveliște uimitoare la apus.",
+            "en": "Pick a seaside restaurant to enjoy dinner with a stunning sunset view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt im historischen Zentrum von Ovar, wo Sie die wichtigsten Sehenswürdigkeiten zu Fuß erkunden. Am späten Vormittag fahren Sie zur atemberaubenden Igreja de Válega, einem Juwel der Fliesenkunst. Nach dem Mittagessen geht es weiter zur Küste. Der Nachmittag ist der Natur gewidmet, mit einem Spaziergang im Buçaquinho-Park, gefolgt von entspannter Zeit am riesigen Strand von Furadouro. Beenden Sie den Tag mit einem unvergesslichen Abendessen bei Sonnenuntergang über dem Atlantik.",
+        "hu": "Az autós nap Ovar történelmi központjában kezdődik, ahol gyalogosan fedezi fel a legfontosabb látnivalókat. Késő délelőtt elautózik a lenyűgöző Igreja de Válega templomhoz, a csempeművészet gyöngyszeméhez. Ebéd után irány a tengerpart. A délután a természeté, egy sétával a Buçaquinho parkban, majd pihenéssel a hatalmas Furadouro strandon. A napot egy felejthetetlen naplementés vacsorával zárja az Atlanti-óceán felett.",
+        "ro": "Ziua cu mașina începe în centrul istoric al orașului Ovar, explorând atracțiile cheie pe jos. Spre sfârșitul dimineții, conduceți spre uimitoarea Igreja de Válega, o bijuterie a artei azulejo-ului. După prânz, vă îndreptați spre coastă. După-amiaza este dedicată naturii, cu o plimbare în Parcul Buçaquinho, urmată de relaxare pe vasta plajă Furadouro. Încheiați ziua cu o cină memorabilă la apus, cu vedere la Atlantic.",
+        "en": "Your car day starts in the historic center of Ovar, exploring the key sights on foot. In the late morning, you drive to the stunning Igreja de Válega, a gem of tile art. After lunch, you head for the coast. The afternoon is dedicated to nature, with a walk in Buçaquinho Park followed by relaxing time on the vast Furadouro Beach. End the day with a memorable sunset dinner over the Atlantic."
+      },
+      "tips": {
+        "de": [
+          "In der Innenstadt gibt es gebührenpflichtige Parkplätze, aber Sie können auch kostenlose Parkplätze in den Seitenstraßen finden.",
+          "Planen Sie Ihre Route mit einer GPS-App, um die Navigation zwischen den Clustern zu erleichtern.",
+          "Beachten Sie die Mautgebühren auf einigen Autobahnen in der Umgebung.",
+          "Lassen Sie keine Wertsachen im Auto sichtbar liegen."
+        ],
+        "hu": [
+          "A belvárosban fizetős parkolók vannak, de az mellékutcákban találhat ingyenes helyeket.",
+          "Tervezze meg útvonalát egy GPS-alkalmazással a klaszterek közötti könnyebb navigáció érdekében.",
+          "Vegye figyelembe az autópályadíjakat a környéken.",
+          "Ne hagyjon értékeket látható helyen az autóban."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului este plătită, dar puteți găsi locuri gratuite pe străzile laterale.",
+          "Folosiți o aplicație GPS pentru a vă planifica traseul și a naviga ușor între grupuri.",
+          "Fiți conștienți de taxele de drum de pe unele autostrăzi din zonă.",
+          "Nu lăsați obiecte de valoare la vedere în mașină."
+        ],
+        "en": [
+          "Parking in the city center is paid, but you can find free spots on side streets.",
+          "Use a GPS app to plan your route for easy navigation between clusters.",
+          "Be aware of tolls on some highways in the area.",
+          "Don't leave valuables visible in the car."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 14,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Praça da República",
+            "hu": "A. klaszter: Praça da República",
+            "ro": "Grupul A: Praça da República",
+            "en": "Cluster A: Praça da República"
+          },
+          "coords": [
+            -8.6162,
+            40.8665
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag im Herzen der Stadt, in der Nähe der wichtigsten Bushaltestellen.",
+            "hu": "Kezdje a napot a város szívében, a fő buszmegállók közelében.",
+            "ro": "Începeți ziua în inima orașului, aproape de stațiile principale de autobuz.",
+            "en": "Start your day in the heart of the city, near the main bus stops."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster A: Igreja Matriz & Museu de Ovar",
+            "hu": "A. klaszter: Igreja Matriz és Ovari Múzeum",
+            "ro": "Grupul A: Igreja Matriz & Muzeul din Ovar",
+            "en": "Cluster A: Mother Church & Museum of Ovar"
+          },
+          "coords": [
+            -8.618,
+            40.866
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:30",
+          "stay_min": 150,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Diese Attraktionen liegen nahe beieinander. Nehmen Sie sich Zeit für beide.",
+            "hu": "Ezek a látnivalók közel vannak egymáshoz. Szánjon időt mindkettőre.",
+            "ro": "Aceste atracții sunt apropiate. Luați-vă timp pentru amândouă.",
+            "en": "These attractions are close to each other. Take your time to enjoy both."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebéd a városközpontban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the City Center"
+          },
+          "coords": [
+            -8.6185,
+            40.866
+          ],
+          "category": "gastro",
+          "arrive_at": "12:10",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Stärken Sie sich vor Ihrer Busfahrt zum Strand.",
+            "hu": "Egyen valamit, mielőtt busszal a strandra indul.",
+            "ro": "Mâncați ceva înainte de a lua autobuzul spre plajă.",
+            "en": "Fuel up before you take the bus to the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Fahrt mit dem Bus nach Praia do Furadouro",
+            "hu": "B. klaszter: Buszozás a Praia do Furadouro strandra",
+            "ro": "Grupul B: Călătorie cu autobuzul spre Plaja Furadouro",
+            "en": "Cluster B: Bus ride to Praia do Furadouro"
+          },
+          "coords": [
+            -8.665,
+            40.875
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:10",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6,
+          "tip_5lang": {
+            "de": "Genießen Sie die Fahrt und steigen Sie an der Hauptbushaltestelle am Strand aus.",
+            "hu": "Élvezze az utazást, és szálljon le a strand fő buszmegállójánál.",
+            "ro": "Bucurați-vă de călătorie și coborâți la stația principală de autobuz de la plajă.",
+            "en": "Enjoy the ride and get off at the main beach bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Spaziergang zum Parque Ambiental do Buçaquinho",
+            "hu": "B. klaszter: Séta a Parque Ambiental do Buçaquinho parkba",
+            "ro": "Grupul B: Plimbare la Parque Ambiental do Buçaquinho",
+            "en": "Cluster B: Walk to Parque Ambiental do Buçaquinho"
+          },
+          "coords": [
+            -8.653,
+            40.88
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:20",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang vom Strand entfernt, um eine andere Seite der Küstenlandschaft zu sehen.",
+            "hu": "Kellemes séta a strandtól, hogy megnézze a tengerparti táj egy másik oldalát.",
+            "ro": "O plimbare plăcută de la plajă pentru a vedea o altă latură a peisajului de coastă.",
+            "en": "A pleasant walk from the beach to see a different side of the coastal landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt mit dem Bus nach Ovar",
+            "hu": "Buszozás vissza Ovarba",
+            "ro": "Întoarcere cu autobuzul la Ovar",
+            "en": "Bus Ride back to Ovar"
+          },
+          "coords": [
+            -8.6167,
+            40.8667
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "18:05",
+          "stay_min": 10,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 6,
+          "tip_5lang": {
+            "de": "Planen Sie Ihre Rückfahrt im Voraus, damit Sie den letzten Bus nicht verpassen.",
+            "hu": "Tervezze meg előre a visszaútját, hogy ne késsen le az utolsó buszról.",
+            "ro": "Planificați-vă călătoria de întoarcere în avans pentru a nu pierde ultimul autobuz.",
+            "en": "Plan your return trip in advance so you don't miss the last bus."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit der Erkundung des fußgängerfreundlichen Zentrums von Ovar, einschließlich seiner berühmten Kirche und seines Museums. Nach einem gemütlichen Mittagessen steigen Sie in einen lokalen Bus, der Sie zur Atlantikküste bringt. Verbringen Sie den Nachmittag am goldenen Sandstrand von Furadouro und machen Sie einen erfrischenden Spaziergang im nahegelegenen Buçaquinho-Park. Am späten Nachmittag nehmen Sie den Bus zurück ins Stadtzentrum und beenden so Ihren erlebnisreichen Tag.",
+        "hu": "A nap Ovar gyalogosbarát központjának felfedezésével kezdődik, beleértve a híres templomot és múzeumot. Egy kényelmes ebéd után felszáll egy helyi buszra, amely elviszi az Atlanti-óceán partjára. Töltse a délutánt Furadouro aranyhomokos strandján, és tegyen egy frissítő sétát a közeli Buçaquinho parkban. Késő délután busszal tér vissza a városközpontba, lezárva az élményekkel teli napot.",
+        "ro": "Ziua începe prin explorarea centrului pietonal al orașului Ovar, inclusiv a faimoasei sale biserici și muzeu. După un prânz relaxat, urcați într-un autobuz local pentru o călătorie spre coasta Atlanticului. Petreceți după-amiaza pe nisipurile aurii ale plajei Furadouro și faceți o plimbare revigorantă în Parcul Buçaquinho din apropiere. Luați autobuzul înapoi în centrul orașului la sfârșitul după-amiezii pentru a încheia o zi plină de explorări.",
+        "en": "Your day begins exploring the pedestrian-friendly center of Ovar, including its famous church and museum. After a leisurely lunch, you'll hop on a local bus for a trip to the Atlantic coast. Spend the afternoon on the golden sands of Furadouro beach and take a refreshing walk in the nearby Buçaquinho Park. You'll catch the bus back to the city center in the late afternoon, concluding your day of exploration."
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan online (z.B. bei der Firma 'BusBus') für die Linien zwischen Ovar und Furadouro.",
+          "Kaufen Sie Tickets im Voraus oder haben Sie Kleingeld für den Busfahrer bereit.",
+          "Die Bushaltestellen sind möglicherweise nicht immer deutlich gekennzeichnet, fragen Sie also im Zweifelsfall einen Einheimischen.",
+          "Beachten Sie die Zeiten des letzten Busses zurück nach Ovar, besonders am Wochenende."
+        ],
+        "hu": [
+          "Ellenőrizze online a buszmenetrendet (pl. a 'BusBus' cégnél) az Ovar és Furadouro közötti járatokhoz.",
+          "Vásároljon jegyet előre, vagy készítsen aprópénzt a buszsofőrnek.",
+          "A buszmegállók nem mindig egyértelműen jelöltek, ezért kétség esetén kérdezzen meg egy helyit.",
+          "Vegye figyelembe az utolsó Ovarba visszainduló busz idejét, különösen hétvégén."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor online (de ex., compania 'BusBus') pentru rutele dintre Ovar și Furadouro.",
+          "Cumpărați bilete în avans sau aveți bani mărunți pregătiți pentru șoferul autobuzului.",
+          "Stațiile de autobuz s-ar putea să nu fie întotdeauna clar marcate, așa că întrebați un localnic dacă aveți dubii.",
+          "Fiți atenți la orele ultimului autobuz înapoi spre Ovar, mai ales în weekend."
+        ],
+        "en": [
+          "Check the bus schedule online (e.g., 'BusBus' company) for routes between Ovar and Furadouro.",
+          "Buy tickets in advance or have small change ready for the bus driver.",
+          "Bus stops may not always be clearly marked, so ask a local if in doubt.",
+          "Be mindful of the last bus times back to Ovar, especially on weekends."
+        ]
+      }
+    }
+  }
+}

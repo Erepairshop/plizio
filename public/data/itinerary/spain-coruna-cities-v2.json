@@ -1,0 +1,1175 @@
+{
+  "city_id": "spain-coruna-cities-v2",
+  "anchor": {
+    "name": "A Coruña",
+    "coords": [
+      -8.4115,
+      43.3623
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Plaza de María Pita",
+          "coords": [
+            -8.396,
+            43.3713
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Trinken Sie einen Kaffee in den Arkaden.",
+            "hu": "Igyál egy kávét az árkádok alatt.",
+            "ro": "Savurați o cafea sub arcade.",
+            "en": "Enjoy a coffee under the arcades."
+          }
+        },
+        {
+          "name": "Colegiata de Santa María",
+          "coords": [
+            -8.394,
+            43.3725
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie die romanische Architektur.",
+            "hu": "Figyeld meg a román stílusú építészetet.",
+            "ro": "Observați arhitectura romanică.",
+            "en": "Notice the Romanesque architecture."
+          }
+        },
+        {
+          "name": "Galerías de la Marina",
+          "coords": [
+            -8.394,
+            43.37
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die berühmten verglasten Balkone.",
+            "hu": "A híres üvegezett erkélyek.",
+            "ro": "Faimoasele balcoane vitrate.",
+            "en": "The famous glazed balconies."
+          }
+        },
+        {
+          "name": "Castillo de San Antón",
+          "coords": [
+            -8.388,
+            43.365
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tolle Aussicht auf den Hafen.",
+            "hu": "Remek kilátás a kikötőre.",
+            "ro": "O vedere excelentă asupra portului.",
+            "en": "Great views of the harbor."
+          }
+        },
+        {
+          "name": "Domus",
+          "coords": [
+            -8.4065,
+            43.3775
+          ],
+          "category": "museums",
+          "arrive_at": "12:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Interaktives Museum über den Menschen.",
+            "hu": "Interaktív múzeum az emberről.",
+            "ro": "Muzeu interactiv despre om.",
+            "en": "Interactive museum about humans."
+          }
+        },
+        {
+          "name": "Aquarium Finisterrae",
+          "coords": [
+            -8.41,
+            43.383
+          ],
+          "category": "natural features",
+          "arrive_at": "14:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Sehen Sie die Atlantik-Meeresbewohner.",
+            "hu": "Nézd meg az atlanti tengeri élőlényeket.",
+            "ro": "Vedeți viețuitoarele din Atlantic.",
+            "en": "See the Atlantic marine life."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Spaziergang durch A Coruña verbindet Geschichte und Moderne am Meer. Beginnen Sie am beeindruckenden María Pita Platz, bevor Sie die typischen Glasgalerien an der Marina bewundern. Die Festung San Antón bietet danach maritime Geschichte. Nachmittags locken interaktive Erlebnisse im Domus und das Aquarium mit seiner Atlantik-Ausstellung.",
+        "hu": "A Coruña gyalogos felfedezése a történelem és az óceán találkozása. Kezdj a monumentális María Pita téren, majd csodáld meg az üvegezett erkélyeket a kikötőnél. A San Antón kastély tengerészeti emlékeket őriz. Délután a Domus interaktív múzeuma és az Akvárium nyújt betekintést az atlanti élővilágba.",
+        "ro": "O plimbare prin A Coruña îmbină istoria cu oceanul. Începeți în piața monumentală María Pita, apoi admirați balcoanele de sticlă la Marina. Castelul San Antón oferă istorie maritimă. După-amiaza, muzeul interactiv Domus și Acvariul dezvăluie viața din Atlantic.",
+        "en": "A walk through A Coruña blends history and ocean views. Start at the monumental María Pita square, then admire the glazed balconies at the Marina. The San Antón castle offers maritime history. In the afternoon, the interactive Domus museum and the Aquarium showcase Atlantic marine life."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pulpo a la gallega",
+            "tip": "Probieren Sie den Oktopus in einer traditionellen Pulpería."
+          },
+          {
+            "name": "Empanada Gallega",
+            "tip": "Gefüllte Teigtasche in einer der lokalen Bäckereien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pulpo a la gallega",
+            "tip": "Kóstold meg a galíciai polipot egy hagyományos pulperíában."
+          },
+          {
+            "name": "Empanada Gallega",
+            "tip": "Helyi töltött pite, amit szinte minden pékségben megtalálsz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pulpo a la gallega",
+            "tip": "Încercați caracatița într-o pulpería tradițională."
+          },
+          {
+            "name": "Empanada Gallega",
+            "tip": "Plăcintă umplută, o specialitate locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pulpo a la gallega",
+            "tip": "Try the Galician octopus in a traditional pulpería."
+          },
+          {
+            "name": "Empanada Gallega",
+            "tip": "A savory local pie found in most bakeries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardines de San Carlos",
+            "tip": "Ruhiger Park mit alten Bäumen und Meerblick.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Paseo Marítimo",
+            "tip": "Lange Promenade zum Entspannen am Wasser.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardines de San Carlos",
+            "tip": "Csendes park öreg fákkal és tengeri kilátással.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Paseo Marítimo",
+            "tip": "Hosszú sétány a vízparti pihenéshez.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardines de San Carlos",
+            "tip": "Un parc liniștit cu arbori bătrâni și vedere la mare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Paseo Marítimo",
+            "tip": "Promenadă lungă pentru relaxare pe malul apei.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardines de San Carlos",
+            "tip": "A quiet park with old trees and ocean views.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Paseo Marítimo",
+            "tip": "A long promenade for relaxing by the water.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado de la Plaza de Lugo",
+            "tip": "Hervorragender Markt für frischen Fisch und Meeresfrüchte."
+          },
+          {
+            "name": "Calle Real",
+            "tip": "Beliebte Einkaufsstraße im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado de la Plaza de Lugo",
+            "tip": "Kiváló piac friss halakkal és tenger gyümölcseivel."
+          },
+          {
+            "name": "Calle Real",
+            "tip": "Népszerű bevásárlóutca a városközpontban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado de la Plaza de Lugo",
+            "tip": "Piață excelentă pentru pește proaspăt și fructe de mare."
+          },
+          {
+            "name": "Calle Real",
+            "tip": "Strada comercială populară în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado de la Plaza de Lugo",
+            "tip": "Excellent market for fresh fish and seafood."
+          },
+          {
+            "name": "Calle Real",
+            "tip": "Popular shopping street in the city center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Wetter kann schnell umschlagen, nehmen Sie eine Jacke mit.",
+          "Der Paseo Marítimo ist einer der längsten Europas.",
+          "Genießen Sie Tapas in den Gassen um die Plaza de María Pita."
+        ],
+        "hu": [
+          "Az időjárás gyorsan változhat, vigyél magaddal egy kabátot.",
+          "A Paseo Marítimo Európa egyik leghosszabb sétánya.",
+          "Kóstold meg a tapasokat a María Pita tér körüli utcákban."
+        ],
+        "ro": [
+          "Vremea se poate schimba rapid, luați o jachetă.",
+          "Paseo Marítimo este una dintre cele mai lungi promenade din Europa.",
+          "Bucurați-vă de tapas pe străduțele din jurul Plaza de María Pita."
+        ],
+        "en": [
+          "Weather can change quickly, so bring a light jacket.",
+          "The Paseo Marítimo is one of the longest promenades in Europe.",
+          "Enjoy tapas in the narrow streets around Plaza de María Pita."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "15:25",
+      "total_km": 11.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Domus",
+          "coords": [
+            -8.4065,
+            43.3775
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Interaktives Wissenschaftsmuseum.",
+            "hu": "Interaktív tudományos múzeum.",
+            "ro": "Muzeu interactiv de știință.",
+            "en": "Interactive science museum."
+          }
+        },
+        {
+          "name": "Aquarium Finisterrae",
+          "coords": [
+            -8.41,
+            43.383
+          ],
+          "category": "natural features",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Robben und Haie beobachten.",
+            "hu": "Fókák és cápák megfigyelése.",
+            "ro": "Observați focile și rechinii.",
+            "en": "Watch seals and sharks."
+          }
+        },
+        {
+          "name": "Herkulesturm",
+          "coords": [
+            -8.406,
+            43.386
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ältester noch funktionierender Leuchtturm.",
+            "hu": "A legősibb, még működő világítótorony.",
+            "ro": "Cel mai vechi far încă funcțional.",
+            "en": "The oldest still functioning lighthouse."
+          }
+        },
+        {
+          "name": "Castillo de San Antón",
+          "coords": [
+            -8.388,
+            43.365
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Historische Hafenfestung.",
+            "hu": "Történelmi kikötői erőd.",
+            "ro": "Fortăreață istorică în port.",
+            "en": "Historic harbor fortress."
+          }
+        },
+        {
+          "name": "Galerías de la Marina",
+          "coords": [
+            -8.394,
+            43.37
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:20",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fotomotiv am Hafen.",
+            "hu": "Fotótéma a kikötőben.",
+            "ro": "Punct foto la port.",
+            "en": "Photo spot at the harbor."
+          }
+        },
+        {
+          "name": "Plaza de María Pita",
+          "coords": [
+            -8.396,
+            43.3713
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der zentrale Platz der Stadt.",
+            "hu": "A város központi tere.",
+            "ro": "Piața centrală a orașului.",
+            "en": "The main square of the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "A Coruña lässt sich perfekt mit dem Rad erkunden, besonders entlang des Paseo Marítimo. Starten Sie bei den Museen Domus und dem Aquarium. Fahren Sie weiter zum römischen Herkulesturm, der majestätisch über den Klippen thront. Eine längere Etappe am Wasser bringt Sie zur Festung San Antón und schließlich zu den Hafen-Galerien und dem historischen María Pita Platz.",
+        "hu": "A Coruña tökéletesen felfedezhető kerékpárral a hosszú Paseo Marítimo mentén. Indulj a Domus múzeumnál és az Akváriumnál, majd tekerj fel a római kori Herkules-toronyhoz, amely a sziklák felett magasodik. A tengerparti útvonal elvezet a San Antón erődhöz, majd a kikötői galériákhoz és a történelmi María Pita térhez.",
+        "ro": "A Coruña este perfectă pentru bicicletă, mai ales de-a lungul Paseo Marítimo. Începeți la Domus și Acvariu, apoi pedalați spre Turnul lui Hercule, care veghează de pe stânci. Un traseu lung pe malul apei vă duce la Castelul San Antón și în final la galeriile din port și la Piața María Pita.",
+        "en": "A Coruña is perfect to explore by bike along the Paseo Marítimo. Start at the Domus and the Aquarium, then cycle to the Roman Tower of Hercules overlooking the cliffs. A scenic waterfront ride takes you to the San Antón fortress, and finally to the harbor galleries and the historic María Pita Square."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Caldo Gallego",
+            "tip": "Traditioneller galicischer Eintopf, ideal nach dem Radfahren."
+          },
+          {
+            "name": "Pimientos de Padrón",
+            "tip": "Gebratene kleine Paprikas."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Caldo Gallego",
+            "tip": "Hagyományos galíciai leves, tökéletes bringázás után."
+          },
+          {
+            "name": "Pimientos de Padrón",
+            "tip": "Sütve tálalt kis paprikák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caldo Gallego",
+            "tip": "Supă tradițională din Galicia, perfectă după pedalare."
+          },
+          {
+            "name": "Pimientos de Padrón",
+            "tip": "Ardei mici prăjiți."
+          }
+        ],
+        "en": [
+          {
+            "name": "Caldo Gallego",
+            "tip": "Traditional Galician stew, perfect after cycling."
+          },
+          {
+            "name": "Pimientos de Padrón",
+            "tip": "Small fried green peppers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rosa Dos Ventos",
+            "tip": "Mosaik beim Herkulesturm mit tollem Ozeanblick.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Playa del Orzán",
+            "tip": "Stadtstrand zum Entspannen.",
+            "emoji": "🏖️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rosa Dos Ventos",
+            "tip": "Mozaik a Herkules-toronynál, óceáni kilátással.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Playa del Orzán",
+            "tip": "Városi strand pihenésre.",
+            "emoji": "🏖️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rosa Dos Ventos",
+            "tip": "Mozaic la Turnul lui Hercule cu vedere la ocean.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Playa del Orzán",
+            "tip": "Plajă urbană pentru relaxare.",
+            "emoji": "🏖️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rosa Dos Ventos",
+            "tip": "Mosaic at the Tower of Hercules with ocean views.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Playa del Orzán",
+            "tip": "Urban beach to relax at.",
+            "emoji": "🏖️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cerámica de Sargadelos",
+            "tip": "Typische galicische Keramik als Souvenir."
+          },
+          {
+            "name": "Gassen der Altstadt",
+            "tip": "Kleine Boutiquen und lokale Handwerkskunst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cerámica de Sargadelos",
+            "tip": "Jellegzetes galíciai kerámia emlékbe."
+          },
+          {
+            "name": "Óvárosi utcák",
+            "tip": "Kis butikok és helyi kézműves termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cerámica de Sargadelos",
+            "tip": "Ceramică tradițională din Galicia."
+          },
+          {
+            "name": "Străduțele centrului vechi",
+            "tip": "Mici buticuri cu artizanat local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cerámica de Sargadelos",
+            "tip": "Traditional Galician ceramics."
+          },
+          {
+            "name": "Old Town streets",
+            "tip": "Small boutiques and local crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Radweg entlang der Promenade ist gut ausgebaut und sicher.",
+          "Achten Sie auf Fußgänger, besonders in der Nähe der Strände.",
+          "Nutzen Sie die vielen Abstellmöglichkeiten bei den Sehenswürdigkeiten."
+        ],
+        "hu": [
+          "A tengerparti sétány menti kerékpárút jól kiépített és biztonságos.",
+          "Figyelj a gyalogosokra, különösen a strandok közelében.",
+          "Használd ki a látványosságok melletti kerékpártárolókat."
+        ],
+        "ro": [
+          "Pista de biciclete de pe promenadă este bine amenajată și sigură.",
+          "Atenție la pietoni, mai ales lângă plaje.",
+          "Folosiți parcările pentru biciclete de la atracții."
+        ],
+        "en": [
+          "The bike path along the promenade is well-maintained and safe.",
+          "Watch out for pedestrians, especially near the beaches.",
+          "Make use of the bike racks near the main sights."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 25,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Plaza de María Pita",
+          "coords": [
+            -8.396,
+            43.3713
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Hafen und beginnen Sie hier.",
+            "hu": "Parkolj a kikötőben és kezdd itt a sétát.",
+            "ro": "Parcați la port și începeți de aici.",
+            "en": "Park near the harbor and start here."
+          }
+        },
+        {
+          "name": "Galerías de la Marina",
+          "coords": [
+            -8.394,
+            43.37
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der Glasfassaden.",
+            "hu": "Sétálj végig az üveghomlokzatok mentén.",
+            "ro": "Plimbați-vă de-a lungul fațadelor de sticlă.",
+            "en": "Walk along the glass facades."
+          }
+        },
+        {
+          "name": "Colegiata de Santa María",
+          "coords": [
+            -8.394,
+            43.3725
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eine der ältesten Kirchen der Stadt.",
+            "hu": "A város egyik legrégebbi temploma.",
+            "ro": "Una dintre cele mai vechi biserici din oraș.",
+            "en": "One of the oldest churches in the city."
+          }
+        },
+        {
+          "name": "Castillo de San Antón",
+          "coords": [
+            -8.388,
+            43.365
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Archäologisches Museum in der Festung.",
+            "hu": "Régészeti múzeum az erődben.",
+            "ro": "Muzeu arheologic în fortăreață.",
+            "en": "Archaeological museum inside the fortress."
+          }
+        },
+        {
+          "name": "Herkulesturm",
+          "coords": [
+            -8.406,
+            43.386
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz am Turm.",
+            "hu": "Hajts a torony melletti parkolóba.",
+            "ro": "Conduceți spre parcarea de la turn.",
+            "en": "Drive to the parking area near the tower."
+          }
+        },
+        {
+          "name": "Aquarium Finisterrae",
+          "coords": [
+            -8.41,
+            43.383
+          ],
+          "category": "natural features",
+          "arrive_at": "14:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gleich in der Nähe, ideal zu Fuß erreichbar.",
+            "hu": "Nagyon közel van, könnyen elsétálhatsz ide.",
+            "ro": "Foarte aproape, ușor de ajuns pe jos.",
+            "en": "Very close, easily reachable on foot."
+          }
+        },
+        {
+          "name": "Monte de San Pedro",
+          "coords": [
+            -8.435,
+            43.3735
+          ],
+          "category": "natural features",
+          "arrive_at": "15:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahrt auf den Hügel für den besten Panoramablick.",
+            "hu": "Autózz fel a hegyre a legjobb panorámáért.",
+            "ro": "Conduceți pe deal pentru cea mai bună panoramă.",
+            "en": "Drive up the hill for the best panoramic views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die verschiedenen Zonen der Stadt. Starten Sie im historischen Zentrum und erkunden Sie die Plaza de María Pita, die Galerien und das Castillo de San Antón zu Fuß. Danach fahren Sie zur Halbinsel, um den römischen Herkulesturm und das nahegelegene Aquarium zu besichtigen. Den perfekten Abschluss bildet eine kurze Fahrt auf den Monte de San Pedro mit seinem weiten Atlantikpanorama.",
+        "hu": "Autóval kényelmesen összekötheted a város különböző részeit. Kezdd az autót leparkolva a történelmi központban a María Pita tér, a galériák és a San Antón erőd gyalogos felfedezésével. Ezután hajts át a félszigetre a római Herkules-toronyhoz és a szomszédos Akváriumhoz. Zárásként gurulj fel a Monte de San Pedro hegyre, ahonnan lenyűgöző az atlanti panoráma.",
+        "ro": "Cu mașina puteți ajunge ușor în diferitele zone ale orașului. Începeți în centrul istoric, explorând pe jos Piața María Pita, galeriile și Castelul San Antón. Apoi conduceți spre peninsulă pentru a vizita Turnul lui Hercule și Acvariul. La final, o scurtă călătorie până pe Monte de San Pedro vă oferă o panoramă uimitoare asupra Atlanticului.",
+        "en": "A car lets you easily connect the different clusters of the city. Park in the historic center to explore the María Pita Square, the galleries, and the San Antón Castle on foot. Then, drive to the peninsula to see the Roman Tower of Hercules and the nearby Aquarium. Finish the day with a short drive up to Monte de San Pedro for sweeping Atlantic panoramas."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mariscos",
+            "tip": "Probieren Sie frische Meeresfrüchte in den Restaurants in der Nähe des Hafens."
+          },
+          {
+            "name": "Tarta de Santiago",
+            "tip": "Galicischer Mandelkuchen zum Dessert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tenger gyümölcsei",
+            "tip": "Kóstold meg a friss tenger gyümölcseit a kikötő közeli éttermekben."
+          },
+          {
+            "name": "Tarta de Santiago",
+            "tip": "Galíciai mandulatorta desszertként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fructe de mare",
+            "tip": "Încercați fructe de mare proaspete la restaurantele de lângă port."
+          },
+          {
+            "name": "Tarta de Santiago",
+            "tip": "Tort galician de migdale la desert."
+          }
+        ],
+        "en": [
+          {
+            "name": "Seafood",
+            "tip": "Try fresh seafood at the restaurants near the harbor."
+          },
+          {
+            "name": "Tarta de Santiago",
+            "tip": "Galician almond cake for dessert."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Monte de San Pedro",
+            "tip": "Entspannen Sie in der Parkanlage auf dem Hügel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mirador de San Pedro",
+            "tip": "Toller Aussichtspunkt zum Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Monte de San Pedro",
+            "tip": "Pihenj meg a hegytetőn lévő parkban.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mirador de San Pedro",
+            "tip": "Remek kilátópont a naplementéhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Monte de San Pedro",
+            "tip": "Relaxați-vă în parcul de pe deal.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mirador de San Pedro",
+            "tip": "Punct excelent de belvedere la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Monte de San Pedro",
+            "tip": "Relax in the park area on top of the hill.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mirador de San Pedro",
+            "tip": "Great viewpoint for the sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marineda City",
+            "tip": "Großes Einkaufszentrum am Stadtrand (mit Auto gut erreichbar)."
+          },
+          {
+            "name": "Lokaler Wein (Albariño)",
+            "tip": "Ein Muss für Weinliebhaber."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marineda City",
+            "tip": "Nagy bevásárlóközpont a város szélén (autóval könnyen elérhető)."
+          },
+          {
+            "name": "Helyi bor (Albariño)",
+            "tip": "Kötelező a borok szerelmeseinek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marineda City",
+            "tip": "Centru comercial mare la periferie (ușor accesibil cu mașina)."
+          },
+          {
+            "name": "Vin local (Albariño)",
+            "tip": "De neratat pentru iubitorii de vin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marineda City",
+            "tip": "Large shopping mall on the outskirts (easily accessible by car)."
+          },
+          {
+            "name": "Local wine (Albariño)",
+            "tip": "A must for wine lovers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "In der Altstadt sind Parkplätze knapp, nutzen Sie Tiefgaragen.",
+          "Der Herkulesturm hat einen großen Besucherparkplatz.",
+          "Fahren Sie vorsichtig, da das Wetter an der Küste sehr windig sein kann."
+        ],
+        "hu": [
+          "Az óvárosban kevés a parkoló, használj mélygarázst.",
+          "A Herkules-toronynál van egy nagy látogatói parkoló.",
+          "Vezess óvatosan, mivel a parton nagyon szeles lehet az idő."
+        ],
+        "ro": [
+          "Parcările sunt limitate în centrul vechi, folosiți parcări subterane.",
+          "Turnul lui Hercule are o parcare mare pentru vizitatori.",
+          "Conduceți cu grijă, coasta poate fi foarte vântoasă."
+        ],
+        "en": [
+          "Parking is scarce in the old town, use underground garages.",
+          "The Tower of Hercules has a large visitor parking lot.",
+          "Drive carefully as the coastal weather can be very windy."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 7.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Plaza de María Pita",
+          "coords": [
+            -8.396,
+            43.3713
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Zentraler Startpunkt im Herzen der Stadt.",
+            "hu": "Központi indulópont a város szívében.",
+            "ro": "Punct central de plecare în inima orașului.",
+            "en": "Central starting point in the heart of the city."
+          }
+        },
+        {
+          "name": "Galerías de la Marina",
+          "coords": [
+            -8.394,
+            43.37
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang entfernt.",
+            "hu": "Csak egy rövid sétára.",
+            "ro": "La doar o scurtă plimbare distanță.",
+            "en": "Just a short walk away."
+          }
+        },
+        {
+          "name": "Castillo de San Antón",
+          "coords": [
+            -8.388,
+            43.365
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie weiter am Hafen entlang zur Festung.",
+            "hu": "Sétálj tovább a kikötő mentén az erődhöz.",
+            "ro": "Plimbați-vă mai departe de-a lungul portului spre fortăreață.",
+            "en": "Continue walking along the harbor to the fortress."
+          }
+        },
+        {
+          "name": "Domus",
+          "coords": [
+            -8.4065,
+            43.3775
+          ],
+          "category": "museums",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zum Museumsviertel.",
+            "hu": "Menj busszal a múzeumi negyedbe.",
+            "ro": "Luați autobuzul spre zona muzeelor.",
+            "en": "Take the bus to the museum district."
+          }
+        },
+        {
+          "name": "Aquarium Finisterrae",
+          "coords": [
+            -8.41,
+            43.383
+          ],
+          "category": "natural features",
+          "arrive_at": "13:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Von der Domus schnell zu Fuß erreichbar.",
+            "hu": "A Domusból gyorsan elsétálhatsz ide.",
+            "ro": "La o scurtă plimbare de Domus.",
+            "en": "A quick walk from the Domus."
+          }
+        },
+        {
+          "name": "Herkulesturm",
+          "coords": [
+            -8.406,
+            43.386
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der krönende Abschluss auf der Landspitze.",
+            "hu": "A nap fénypontja a földnyelven.",
+            "ro": "Punctul culminant al zilei pe promontoriu.",
+            "en": "The grand finale on the headland."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das städtische Busnetz verbindet die zentralen Zonen. Beginnen Sie in der historischen Altstadt und laufen Sie zur Plaza de María Pita und den gläsernen Galerien. Nach der Besichtigung des Castillo de San Antón nutzen Sie den Bus, um das Wissenschaftsviertel zu erreichen. Von der Domus laufen Sie entspannt zum Aquarium und enden am ikonischen Herkulesturm.",
+        "hu": "A helyi buszhálózat összeköti a város főbb zónáit. Kezdd a történelmi központban a María Pita térrel és az üvegfalú galériákkal. A San Antón erőd után szállj buszra a múzeumi negyed felé. A Domus interaktív tárlata után csak egy rövid séta az Akvárium, végül pedig az ikonikus Herkules-torony zárja a napot.",
+        "ro": "Rețeaua de autobuze conectează zonele centrale. Începeți în centrul istoric cu Piața María Pita și galeriile. După vizita la Castelul San Antón, luați autobuzul spre zona muzeelor. De la Domus, mergeți pe jos la Acvariu și terminați ziua la emblematicul Turn al lui Hercule.",
+        "en": "The local bus network connects the central zones. Start in the historic center to see the María Pita Square and the glass galleries. After visiting the San Antón Castle, take the bus to the museum district. From the Domus, enjoy a short walk to the Aquarium and end your day at the iconic Tower of Hercules."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lacón con Grelos",
+            "tip": "Herzhaftes traditionelles Gericht in den Tavernen der Altstadt."
+          },
+          {
+            "name": "Zamburiñas",
+            "tip": "Gegrillte kleine Jakobsmuscheln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lacón con Grelos",
+            "tip": "Laktató, hagyományos egytálétel az óvárosi tavernákban."
+          },
+          {
+            "name": "Zamburiñas",
+            "tip": "Grillezett kis fésűkagylók."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacón con Grelos",
+            "tip": "Un preparat tradițional sățios în tavernele din centrul vechi."
+          },
+          {
+            "name": "Zamburiñas",
+            "tip": "Scoici mici la grătar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lacón con Grelos",
+            "tip": "A hearty traditional dish in the old town taverns."
+          },
+          {
+            "name": "Zamburiñas",
+            "tip": "Grilled small scallops."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque Escultórico de la Torre de Hércules",
+            "tip": "Ein Skulpturenpark mit Blick aufs Meer.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Playa de Riazor",
+            "tip": "Ein Strand für eine ruhige Pause.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parque Escultórico de la Torre de Hércules",
+            "tip": "Szoborpark tengeri kilátással.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Playa de Riazor",
+            "tip": "Strand egy csendes pihenőhöz.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parque Escultórico de la Torre de Hércules",
+            "tip": "Un parc de sculpturi cu vedere la mare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Playa de Riazor",
+            "tip": "O plajă pentru o pauză liniștită.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parque Escultórico de la Torre de Hércules",
+            "tip": "A sculpture park with sea views.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Playa de Riazor",
+            "tip": "A beach for a quiet break.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Centro Comercial Cuatro Caminos",
+            "tip": "Ein praktisches Einkaufszentrum nahe der Busstation."
+          },
+          {
+            "name": "Cantones de A Coruña",
+            "tip": "Gute Shoppingmeile im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Centro Comercial Cuatro Caminos",
+            "tip": "Praktikus bevásárlóközpont a buszpályaudvar közelében."
+          },
+          {
+            "name": "Cantones de A Coruña",
+            "tip": "Jó bevásárlóutca a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centro Comercial Cuatro Caminos",
+            "tip": "Un centru comercial practic lângă stația de autobuz."
+          },
+          {
+            "name": "Cantones de A Coruña",
+            "tip": "O stradă comercială bună în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Centro Comercial Cuatro Caminos",
+            "tip": "A convenient shopping center near the bus station."
+          },
+          {
+            "name": "Cantones de A Coruña",
+            "tip": "Good shopping street in the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die lokalen Busse sind eine günstige und gute Wahl.",
+          "Kaufen Sie Bustickets vorab oder halten Sie Kleingeld bereit.",
+          "A Coruña ist an den Stränden recht flach, aber zu den Leuchttürmen hin hügelig."
+        ],
+        "hu": [
+          "A helyi buszok olcsók és jó választást jelentenek.",
+          "Vegyél buszjegyet előre, vagy legyen nálad apró.",
+          "A Coruña a strandoknál viszonylag sík, de a világítótornyok felé dombos."
+        ],
+        "ro": [
+          "Autobuzele locale sunt o alegere ieftină și bună.",
+          "Cumpărați bilete de autobuz în avans sau aveți bani mărunți.",
+          "A Coruña este destul de plată la plaje, dar deluroasă spre faruri."
+        ],
+        "en": [
+          "Local buses are cheap and a good choice.",
+          "Buy bus tickets in advance or have small change ready.",
+          "A Coruña is quite flat near the beaches, but hilly towards the lighthouses."
+        ]
+      }
+    }
+  }
+}

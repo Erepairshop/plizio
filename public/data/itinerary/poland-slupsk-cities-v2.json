@@ -1,0 +1,1407 @@
+{
+  "city_id": "poland-slupsk-cities-v2",
+  "anchor": {
+    "name": "Rathaus von Słupsk",
+    "coords": [
+      17.0285,
+      54.4641
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Słupsk",
+            "hu": "Słupski Városháza",
+            "ro": "Primăria din Słupsk",
+            "en": "Słupsk Town Hall"
+          },
+          "coords": [
+            17.0285,
+            54.4641
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besteigen Sie den Turm für eine großartige Aussicht auf die Stadt. Der Eintritt ist oft kostenlos.",
+            "hu": "Mássz fel a toronyba a nagyszerű városi kilátásért. A belépés gyakran ingyenes.",
+            "ro": "Urcați în turn pentru o priveliște superbă asupra orașului. Intrarea este adesea gratuită.",
+            "en": "Climb the tower for a great view of the city. Admission is often free."
+          }
+        },
+        {
+          "name": {
+            "de": "Marienkirche",
+            "hu": "Mária-templom",
+            "ro": "Biserica Sf. Maria",
+            "en": "St. Mary's Church"
+          },
+          "coords": [
+            17.0301,
+            54.4658
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckende Orgel und die kunstvollen Glasfenster.",
+            "hu": "Figyeld meg a lenyűgöző orgonát és a díszes ólomüveg ablakokat.",
+            "ro": "Observați orga impresionantă și vitraliile elaborate.",
+            "en": "Pay attention to the impressive organ and the ornate stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss der Pommerschen Herzöge",
+            "hu": "Pomerániai Hercegek Vára",
+            "ro": "Castelul Ducilor Pomeraniei",
+            "en": "Castle of the Pomeranian Dukes"
+          },
+          "coords": [
+            17.0225,
+            54.4666
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Das Schloss beherbergt das Mittelpommersche Museum mit einer riesigen Sammlung von Witkacy-Porträts.",
+            "hu": "A kastély ad otthont a Közép-Pomerániai Múzeumnak, ahol egy hatalmas Witkacy-portrégyűjtemény található.",
+            "ro": "Castelul găzduiește Muzeul Pomeraniei Centrale, cu o colecție uriașă de portrete de Witkacy.",
+            "en": "The castle houses the Museum of Central Pomerania with a huge collection of Witkacy's portraits."
+          }
+        },
+        {
+          "name": {
+            "de": "Richter-Speicher",
+            "hu": "Richter-magtár",
+            "ro": "Hambarul Richter",
+            "en": "Richter's Granary"
+          },
+          "coords": [
+            17.022,
+            54.468
+          ],
+          "category": "museums",
+          "arrive_at": "12:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die ethnografische Ausstellung hier gibt einen faszinierenden Einblick in das regionale Leben.",
+            "hu": "Az itteni néprajzi kiállítás lenyűgöző betekintést nyújt a régió életébe.",
+            "ro": "Expoziția etnografică de aici oferă o perspectivă fascinantă asupra vieții regionale.",
+            "en": "The ethnographic exhibition here offers a fascinating insight into regional life."
+          }
+        },
+        {
+          "name": {
+            "de": "Mühlentor (Brama Młyńska)",
+            "hu": "Malom-kapu (Brama Młyńska)",
+            "ro": "Poarta Morii (Brama Młyńska)",
+            "en": "Mill Gate (Brama Młyńska)"
+          },
+          "coords": [
+            17.0235,
+            54.4685
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein schöner Ort für Fotos, besonders mit dem Fluss im Hintergrund.",
+            "hu": "Szép hely a fotózáshoz, különösen a folyóval a háttérben.",
+            "ro": "Un loc frumos pentru fotografii, mai ales cu râul pe fundal.",
+            "en": "A beautiful spot for photos, especially with the river in the background."
+          }
+        },
+        {
+          "name": {
+            "de": "Hexenturm (Baszta Czarownic)",
+            "hu": "Boszorkánytorony (Baszta Czarownic)",
+            "ro": "Turnul Vrăjitoarelor (Baszta Czarownic)",
+            "en": "Witches' Tower (Baszta Czarownic)"
+          },
+          "coords": [
+            17.0269,
+            54.4682
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Heute eine Kunstgalerie. Überprüfen Sie die aktuellen Ausstellungen, bevor Sie hingehen.",
+            "hu": "Ma művészeti galéria. Látogatás előtt ellenőrizd az aktuális kiállításokat.",
+            "ro": "Astăzi este o galerie de artă. Verificați expozițiile curente înainte de a merge.",
+            "en": "It's an art gallery today. Check the current exhibitions before you go."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Słupia-Flussufer",
+            "hu": "Séta a Słupia folyó partján",
+            "ro": "Promenadă pe malul râului Słupia",
+            "en": "Walk along the Słupia Riverbank"
+          },
+          "coords": [
+            17.0205,
+            54.469
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ideal für eine entspannte Pause. Suchen Sie sich eine Bank und genießen Sie die Ruhe.",
+            "hu": "Ideális egy pihentető szünethez. Keress egy padot, és élvezd a csendet.",
+            "ro": "Ideal pentru o pauză relaxantă. Găsiți o bancă și bucurați-vă de liniște.",
+            "en": "Ideal for a relaxing break. Find a bench and enjoy the peace and quiet."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am prächtigen Rathaus und spüren Sie den Puls der Stadt. Der Vormittag führt Sie durch gotische Wunder in der Marienkirche, bevor Sie in die herzogliche Geschichte im Schloss der Pommerschen Herzöge eintauchen. Nach dem Mittagessen erkunden Sie die faszinierenden Ausstellungen im Richter-Speicher und durchqueren das historische Mühlentor. Am Nachmittag entdecken Sie die geheimnisvolle Vergangenheit des Hexenturms. Beenden Sie Ihren Tag mit einem ruhigen Spaziergang entlang des malerischen Słupia-Flussufers, wo Sie die friedliche Atmosphäre genießen können.",
+        "hu": "Kezdje a napot a csodálatos Városházánál, és érezze a város lüktetését. A délelőtt gótikus csodákon vezet keresztül a Mária-templomban, mielőtt elmerülne a hercegi történelemben a Pomerániai Hercegek Várában. Ebéd után fedezze fel a Richter-magtár lenyűgöző kiállításait és haladjon át a történelmi Malom-kapun. Délután fedezze fel a Boszorkánytorony titokzatos múltját. Zárja a napot egy békés sétával a festői Słupia folyó partján, élvezve a nyugodt légkört.",
+        "ro": "Începeți ziua la magnificul Primărie și simțiți pulsul orașului. Dimineața vă poartă prin minuni gotice la Biserica Sf. Maria, înainte de a vă adânci în istoria ducală la Castelul Ducilor Pomeraniei. După prânz, explorați expozițiile fascinante de la Hambarul Richter și treceți prin istorica Poartă a Morii. După-amiaza, descoperiți trecutul misterios al Turnului Vrăjitoarelor. Încheiați ziua cu o plimbare liniștită de-a lungul malului pitoresc al râului Słupia, bucurându-vă de atmosfera pașnică.",
+        "en": "Start your day at the magnificent Town Hall and feel the city's pulse. The morning takes you through Gothic wonders at St. Mary's Church before delving into ducal history at the Castle of the Pomeranian Dukes. After lunch, explore the fascinating exhibitions at Richter's Granary and pass through the historic Mill Gate. In the afternoon, discover the mysterious past of the Witches' Tower. End your day with a peaceful stroll along the picturesque Słupia riverbank, enjoying the tranquil atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pierogi",
+            "tip": "Probieren Sie die traditionellen polnischen Teigtaschen in einem der vielen kleinen Restaurants in der Altstadt."
+          },
+          {
+            "name": "Zupa rybna",
+            "tip": "Eine herzhafte Fischsuppe, besonders gut in den Restaurants in der Nähe des Flusses."
+          },
+          {
+            "name": "Restauracja Aureus",
+            "tip": "Bekannt für seine elegante Interpretation der polnischen Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pierogi",
+            "tip": "Kóstold meg a hagyományos lengyel derelyét az óváros egyik kis éttermében."
+          },
+          {
+            "name": "Zupa rybna",
+            "tip": "Kiadós halleves, különösen finom a folyó menti éttermekben."
+          },
+          {
+            "name": "Restauracja Aureus",
+            "tip": "A lengyel konyha elegáns újraértelmezéséről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierogi",
+            "tip": "Încercați găluștele tradiționale poloneze la unul dintre multele restaurante mici din centrul vechi."
+          },
+          {
+            "name": "Zupa rybna",
+            "tip": "O supă de pește consistentă, deosebit de bună în restaurantele de lângă râu."
+          },
+          {
+            "name": "Restauracja Aureus",
+            "tip": "Renumit pentru interpretarea sa elegantă a bucătăriei poloneze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierogi",
+            "tip": "Try the traditional Polish dumplings at one of the many small restaurants in the old town."
+          },
+          {
+            "name": "Zupa rybna",
+            "tip": "A hearty fish soup, especially good in the restaurants near the river."
+          },
+          {
+            "name": "Restauracja Aureus",
+            "tip": "Known for its elegant interpretation of Polish cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Słupia-Flussufer",
+            "tip": "Finden Sie eine ruhige Bank abseits des Hauptweges.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park Kultury i Wypoczynku",
+            "tip": "Ein größerer Park südlich des Zentrums, ideal für einen längeren, ruhigen Spaziergang.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Friedhof an der St.-Hyazinth-Kirche",
+            "tip": "Ein Ort der Stille und Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Słupia folyópart",
+            "tip": "Keress egy csendes padot a fő ösvénytől távolabb.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kultúra és Pihenés Parkja",
+            "tip": "Egy nagyobb park a központtól délre, ideális egy hosszabb, békés sétához.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szent Jácint-templom melletti temető",
+            "tip": "A csend és az elmélkedés helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Słupia",
+            "tip": "Găsiți o bancă liniștită departe de calea principală.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Culturii și Recreerii",
+            "tip": "Un parc mai mare la sud de centru, ideal pentru o plimbare mai lungă și liniștită.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cimitirul de la Biserica Sf. Iacint",
+            "tip": "Un loc de liniște și contemplare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Słupia Riverbank",
+            "tip": "Find a quiet bench away from the main path.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park of Culture and Rest",
+            "tip": "A larger park south of the center, ideal for a longer, peaceful walk.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cemetery at St. Hyacinth's Church",
+            "tip": "A place of silence and contemplation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ulica Nowobramska",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus lokalen Geschäften und bekannten Marken."
+          },
+          {
+            "name": "Lokale Bernsteinprodukte",
+            "tip": "Halten Sie Ausschau nach kleinen Juweliergeschäften, die den baltischen Bernstein verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nowobramska utca",
+            "tip": "A fő bevásárlóutca helyi üzletek és ismert márkák keverékével."
+          },
+          {
+            "name": "Helyi borostyántermékek",
+            "tip": "Keresd a kis ékszerüzleteket, amelyek a balti borostyánt árulják."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Nowobramska",
+            "tip": "Principala stradă comercială cu un amestec de magazine locale și mărci cunoscute."
+          },
+          {
+            "name": "Produse locale din chihlimbar",
+            "tip": "Căutați micile magazine de bijuterii care vând chihlimbar baltic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Nowobramska Street",
+            "tip": "The main shopping street with a mix of local shops and known brands."
+          },
+          {
+            "name": "Local amber products",
+            "tip": "Look for small jewelry shops selling Baltic amber."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten sind zu Fuß erreichbar, planen Sie also genügend Zeit für spontane Erkundungen ein.",
+          "Einige Museen sind montags geschlossen, prüfen Sie die Öffnungszeiten im Voraus."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, mivel az óvárosi macskakövek egyenetlenek lehetnek.",
+          "A legtöbb látnivaló gyalogosan elérhető, így hagyj elég időt a spontán felfedezésekre.",
+          "Néhány múzeum hétfőn zárva tart, ezért ellenőrizd előre a nyitvatartási időt."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece pavelele din centrul vechi pot fi denivelate.",
+          "Majoritatea atracțiilor sunt la distanță de mers pe jos, așa că lăsați suficient timp pentru explorări spontane.",
+          "Unele muzee sunt închise lunea, verificați programul în avans."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Most sights are within walking distance, so allow enough time for spontaneous discoveries.",
+          "Some museums are closed on Mondays, so check opening hours in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:16",
+      "total_km": 7.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Słupsk",
+            "hu": "Słupski Városháza",
+            "ro": "Primăria din Słupsk",
+            "en": "Słupsk Town Hall"
+          },
+          "coords": [
+            17.0285,
+            54.4641
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Perfekter Startpunkt. Schließen Sie Ihr Fahrrad sicher ab, bevor Sie den Turm besteigen.",
+            "hu": "Tökéletes kiindulópont. Zárd le biztonságosan a biciklidet, mielőtt felmész a toronyba.",
+            "ro": "Punct de plecare perfect. Asigurați-vă bicicleta înainte de a urca în turn.",
+            "en": "Perfect starting point. Lock your bike securely before climbing the tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss der Pommerschen Herzöge",
+            "hu": "Pomerániai Hercegek Vára",
+            "ro": "Castelul Ducilor Pomeraniei",
+            "en": "Castle of the Pomeranian Dukes"
+          },
+          "coords": [
+            17.0225,
+            54.4666
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit für das Museum im Inneren ein. Es gibt Fahrradständer in der Nähe.",
+            "hu": "Szánj elég időt a belső múzeumra. A közelben vannak kerékpártárolók.",
+            "ro": "Planificați suficient timp pentru muzeul din interior. Există suporturi pentru biciclete în apropiere.",
+            "en": "Plan enough time for the museum inside. There are bike racks nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Mühlentor & Richter-Speicher",
+            "hu": "Malom-kapu és Richter-magtár",
+            "ro": "Poarta Morii & Hambarul Richter",
+            "en": "Mill Gate & Richter's Granary"
+          },
+          "coords": [
+            17.0235,
+            54.4685
+          ],
+          "category": "museums",
+          "arrive_at": "11:07",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Diese beiden historischen Stätten liegen direkt nebeneinander, perfekt für einen kombinierten Besuch.",
+            "hu": "Ez a két történelmi helyszín közvetlenül egymás mellett található, tökéletes egy közös látogatáshoz.",
+            "ro": "Aceste două situri istorice sunt chiar unul lângă celălalt, perfecte pentru o vizită combinată.",
+            "en": "These two historic sites are right next to each other, perfect for a combined visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt entlang des Słupia-Flussufers",
+            "hu": "Biciklizés a Słupia folyó partján",
+            "ro": "Plimbare cu bicicleta pe malul râului Słupia",
+            "en": "Ride along the Słupia Riverbank"
+          },
+          "coords": [
+            17.015,
+            54.475
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Der Radweg ist gut ausgebaut. Machen Sie eine Pause in einem der Parks entlang des Weges.",
+            "hu": "A kerékpárút jól kiépített. Tarts szünetet az egyik parkban útközben.",
+            "ro": "Pista de biciclete este bine dezvoltată. Luați o pauză într-unul dintre parcurile de pe drum.",
+            "en": "The bike path is well-developed. Take a break in one of the parks along the way."
+          }
+        },
+        {
+          "name": {
+            "de": "Hexenturm (Baszta Czarownic)",
+            "hu": "Boszorkánytorony (Baszta Czarownic)",
+            "ro": "Turnul Vrăjitoarelor (Baszta Czarownic)",
+            "en": "Witches' Tower (Baszta Czarownic)"
+          },
+          "coords": [
+            17.0269,
+            54.4682
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Nach der Radtour eine willkommene kulturelle Abwechslung in der Kunstgalerie.",
+            "hu": "A biciklitúra után üdítő kulturális kitérő a művészeti galériában.",
+            "ro": "O pauză culturală binevenită la galeria de artă după plimbarea cu bicicleta.",
+            "en": "A welcome cultural break at the art gallery after the bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Hyazinth-Kirche",
+            "hu": "Szent Jácint-templom",
+            "ro": "Biserica Sf. Iacint",
+            "en": "St. Hyacinth's Church"
+          },
+          "coords": [
+            17.0245,
+            54.4655
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Eine der ältesten Kirchen der Stadt mit einer einzigartigen Fachwerkkonstruktion.",
+            "hu": "A város egyik legrégebbi temploma, egyedi favázas szerkezettel.",
+            "ro": "Una dintre cele mai vechi biserici din oraș, cu o construcție unică din lemn.",
+            "en": "One of the oldest churches in the city with a unique half-timbered construction."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich am Rathaus auf Ihr Fahrrad und starten Sie den Tag. Radeln Sie zum Schloss der Herzöge, wo Geschichte lebendig wird. Nach einer ausgiebigen Erkundung geht es weiter zum Fluss, wo das Mühlentor und der Richter-Speicher auf Sie warten. Gönnen Sie sich am Mittag eine lange, erfrischende Fahrt entlang des Słupia-Ufers, die perfekte Flucht aus der Stadt. Am Nachmittag kehren Sie ins Zentrum zurück, um die Kunst im Hexenturm zu bewundern und die stille Andacht der St.-Hyazinth-Kirche zu erleben, bevor Sie den Tag ausklingen lassen.",
+        "hu": "Pattanj biciklire a Városházánál a nap indításaként. Tekerj el a Hercegek Várához, ahol a történelem megelevenedik. Egy alapos felfedezés után folytasd az utat a folyóhoz, ahol a Malom-kapu és a Richter-magtár vár. Délben engedj meg magadnak egy hosszú, frissítő biciklizést a Słupia partján, tökéletes menekülés a városból. Délután térj vissza a központba, hogy megcsodáld a Boszorkánytorony művészetét és megtapasztald a Szent Jácint-templom csendes áhítatát, mielőtt lezárnád a napot.",
+        "ro": "Urcați-vă pe bicicletă la Primărie pentru a începe ziua. Pedalați spre Castelul Ducilor, unde istoria prinde viață. După o explorare amănunțită, continuați spre râu, unde vă așteaptă Poarta Morii și Hambarul Richter. La prânz, bucurați-vă de o plimbare lungă și revigorantă de-a lungul malului Słupia, evadarea perfectă din oraș. După-amiaza, reveniți în centru pentru a admira arta din Turnul Vrăjitoarelor și a experimenta devoțiunea liniștită a Bisericii Sf. Iacint înainte de a încheia ziua.",
+        "en": "Hop on your bike at the Town Hall to kick off the day. Cycle to the Dukes' Castle where history comes alive. After a thorough exploration, continue to the river where the Mill Gate and Richter's Granary await. At midday, treat yourself to a long, refreshing ride along the Słupia riverbank, the perfect urban escape. In the afternoon, return to the center to admire the art in the Witches' Tower and experience the quiet devotion of St. Hyacinth's Church before wrapping up the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gołąbki",
+            "tip": "Kohlrouladen, ein wärmender und sättigender polnischer Klassiker."
+          },
+          {
+            "name": "Sernik",
+            "tip": "Probieren Sie den polnischen Käsekuchen in einem der Cafés als Belohnung nach der Radtour."
+          },
+          {
+            "name": "Intryga",
+            "tip": "Ein modernes Restaurant, das sich gut für ein entspanntes Abendessen eignet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gołąbki",
+            "tip": "Töltött káposzta, egy melengető és laktató lengyel klasszikus."
+          },
+          {
+            "name": "Sernik",
+            "tip": "Kóstold meg a lengyel sajttortát egy kávézóban jutalomként a biciklizés után."
+          },
+          {
+            "name": "Intryga",
+            "tip": "Modern étterem, amely kiválóan alkalmas egy laza vacsorára."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gołąbki",
+            "tip": "Sarmale de varză, un clasic polonez cald și sățios."
+          },
+          {
+            "name": "Sernik",
+            "tip": "Încercați prăjitura cu brânză poloneză la o cafenea ca recompensă după plimbarea cu bicicleta."
+          },
+          {
+            "name": "Intryga",
+            "tip": "Un restaurant modern, potrivit pentru o cină relaxată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gołąbki",
+            "tip": "Cabbage rolls, a warming and filling Polish classic."
+          },
+          {
+            "name": "Sernik",
+            "tip": "Try the Polish cheesecake at a café as a reward after your bike ride."
+          },
+          {
+            "name": "Intryga",
+            "tip": "A modern restaurant great for a relaxed dinner."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Fluss Słupia",
+            "tip": "Die Abschnitte weiter vom Zentrum entfernt sind besonders ruhig.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtsturm des Rathauses",
+            "tip": "Oben angekommen, ist es oft ruhiger und man hat einen Moment für sich.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Schlosspark",
+            "tip": "Der Bereich hinter dem Schloss ist oft weniger überlaufen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Słupia folyó menti kerékpárút",
+            "tip": "A központtól távolabbi szakaszok különösen csendesek.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Városháza kilátótornya",
+            "tip": "Fent gyakran csendesebb, és van egy pillanatod magadra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Várkert",
+            "tip": "A vár mögötti terület gyakran kevésbé zsúfolt.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de pe râul Słupia",
+            "tip": "Secțiunile mai îndepărtate de centru sunt deosebit de liniștite.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Turnul de observație al Primăriei",
+            "tip": "Odată ajuns în vârf, este adesea mai liniștit și ai un moment pentru tine.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Castelului",
+            "tip": "Zona din spatele castelului este adesea mai puțin aglomerată.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Słupia River bike path",
+            "tip": "The sections further from the center are particularly quiet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Town Hall observation tower",
+            "tip": "Once at the top, it's often quieter and you have a moment to yourself.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Castle Park",
+            "tip": "The area behind the castle is often less crowded.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markt (Targowisko)",
+            "tip": "Finden Sie frische Produkte und lokale Spezialitäten auf dem städtischen Markt."
+          },
+          {
+            "name": "Cepelia",
+            "tip": "Ein Geschäft, das traditionelles polnisches Kunsthandwerk und Souvenirs verkauft."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piac (Targowisko)",
+            "tip": "Találj friss termékeket és helyi különlegességeket a városi piacon."
+          },
+          {
+            "name": "Cepelia",
+            "tip": "Egy üzlet, amely hagyományos lengyel kézműves termékeket és szuveníreket árul."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața (Targowisko)",
+            "tip": "Găsiți produse proaspete și specialități locale la piața municipală."
+          },
+          {
+            "name": "Cepelia",
+            "tip": "Un magazin care vinde artizanat tradițional polonez și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marketplace (Targowisko)",
+            "tip": "Find fresh produce and local specialities at the municipal market."
+          },
+          {
+            "name": "Cepelia",
+            "tip": "A store selling traditional Polish handicrafts and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Słupsk ist relativ flach und daher sehr fahrradfreundlich.",
+          "Achten Sie auf die Fahrradwege, aber seien Sie auch auf Straßen ohne separate Wege vorbereitet.",
+          "Nehmen Sie ein gutes Schloss mit, um Ihr Fahrrad an den Sehenswürdigkeiten sicher abzustellen."
+        ],
+        "hu": [
+          "Słupsk viszonylag sík, így nagyon biciklibarát.",
+          "Figyelj a kerékpárutakra, de készülj fel azokra az utakra is, ahol nincs külön sáv.",
+          "Vigyél magaddal egy jó lakatot, hogy biztonságosan lezárd a biciklidet a látnivalóknál."
+        ],
+        "ro": [
+          "Słupsk este relativ plat și, prin urmare, foarte prietenos cu bicicletele.",
+          "Fiți atenți la pistele de biciclete, dar fiți pregătiți și pentru străzile fără benzi separate.",
+          "Luați un lacăt bun pentru a vă asigura bicicleta la atracții."
+        ],
+        "en": [
+          "Słupsk is relatively flat and therefore very bike-friendly.",
+          "Pay attention to the bike lanes, but also be prepared for streets without separate paths.",
+          "Bring a good lock to secure your bike at the sights."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Altstadt",
+            "hu": "Parkoló az Óvárosban",
+            "ro": "Parcare în Centrul Vechi",
+            "en": "Old Town Car Park"
+          },
+          "coords": [
+            17.032,
+            54.4635
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie den ersten Cluster zu Fuß.",
+            "hu": "Parkolj le itt, és fedezd fel az első látnivaló-csoportot gyalog.",
+            "ro": "Parcați aici și explorați primul grup de atracții pe jos.",
+            "en": "Park here and explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Marienkirche",
+            "hu": "Városháza és Mária-templom",
+            "ro": "Primăria și Biserica Sf. Maria",
+            "en": "Town Hall & St. Mary's Church"
+          },
+          "coords": [
+            17.0293,
+            54.465
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:16",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden Hauptsehenswürdigkeiten liegen nur wenige Schritte voneinander entfernt.",
+            "hu": "Ez a két fő látnivaló csak pár lépésre van egymástól.",
+            "ro": "Aceste două atracții principale sunt la doar câțiva pași una de cealaltă.",
+            "en": "These two main sights are just a few steps from each other."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Hyazinth-Kirche",
+            "hu": "Szent Jácint-templom",
+            "ro": "Biserica Sf. Iacint",
+            "en": "St. Hyacinth's Church"
+          },
+          "coords": [
+            17.0245,
+            54.4655
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:34",
+          "stay_min": 30,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz durch charmante Gassen.",
+            "hu": "Rövid séta a főtérről bájos sikátorokon keresztül.",
+            "ro": "O scurtă plimbare din piața principală pe alei fermecătoare.",
+            "en": "A short walk from the main square through charming alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Schloss & Fluss",
+            "hu": "Parkoló a Várnál és a folyónál",
+            "ro": "Parcare la Castel și Râu",
+            "en": "Castle & River Car Park"
+          },
+          "coords": [
+            17.0215,
+            54.467
+          ],
+          "category": "transport",
+          "arrive_at": "11:15",
+          "stay_min": 0,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum zweiten Cluster. Von hier aus ist alles am Flussufer zu Fuß erreichbar.",
+            "hu": "Vezess át a második látnivaló-csoporthoz. Innen minden elérhető gyalog a folyóparton.",
+            "ro": "Conduceți spre al doilea grup. Totul de pe malul râului este la distanță de mers pe jos de aici.",
+            "en": "Drive to the second cluster. Everything on the riverbank is within walking distance from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss, Mühlentor & Richter-Speicher",
+            "hu": "Vár, Malom-kapu és Richter-magtár",
+            "ro": "Castel, Poarta Morii și Hambarul Richter",
+            "en": "Castle, Mill Gate & Richter's Granary"
+          },
+          "coords": [
+            17.0225,
+            54.4675
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:18",
+          "stay_min": 180,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für dieses reiche historische Ensemble. Das Mittagessen passt gut in diese lange Pause.",
+            "hu": "Szánj időt erre a gazdag történelmi együttesre. Az ebéd jól belefér ebbe a hosszú szünetbe.",
+            "ro": "Luați-vă timp pentru acest ansamblu istoric bogat. Prânzul se potrivește bine în această pauză lungă.",
+            "en": "Take your time for this rich historical ensemble. Lunch fits well into this long break."
+          }
+        },
+        {
+          "name": {
+            "de": "Hexenturm & Flussufer",
+            "hu": "Boszorkánytorony és folyópart",
+            "ro": "Turnul Vrăjitoarelor și malul râului",
+            "en": "Witches' Tower & Riverbank"
+          },
+          "coords": [
+            17.0269,
+            54.4682
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:26",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang zum Turm und dann ein entspannender Abschluss des Tages am Wasser.",
+            "hu": "Egy rövid séta a toronyhoz, majd egy pihentető napzárás a vízparton.",
+            "ro": "O scurtă plimbare până la turn și apoi o încheiere relaxantă a zilei la malul apei.",
+            "en": "A short walk to the tower and then a relaxing end to the day by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Parken Sie Ihr Auto in der Nähe der Altstadt und beginnen Sie Ihren Tag zu Fuß. Entdecken Sie das Rathaus und die nahe gelegene Marienkirche in Ihrem eigenen Tempo. Nach einem kurzen Spaziergang erreichen Sie die historische St.-Hyazinth-Kirche. Am Mittag fahren Sie zu einem neuen Parkplatz in der Nähe des Schlosses. Von hier aus erkunden Sie das Schloss, das Mühlentor und den Richter-Speicher, mit genügend Zeit für ein Mittagessen. Der Nachmittag endet mit einem Besuch des Hexenturms und einem entspannten Spaziergang am Słupia-Flussufer, bevor Sie zu Ihrem Auto zurückkehren.",
+        "hu": "Parkolja le autóját az óváros közelében, és kezdje a napot gyalog. Fedezze fel a Városházát és a közeli Mária-templomot a saját tempójában. Egy rövid séta után elérheti a történelmi Szent Jácint-templomot. Délben vezessen át egy új parkolóba a vár közelében. Innen fedezze fel a várat, a Malom-kaput és a Richter-magtárat, elegendő időt hagyva az ebédre. A délután a Boszorkánytorony meglátogatásával és egy pihentető sétával zárul a Słupia folyó partján, mielőtt visszatérne az autójához.",
+        "ro": "Parcați mașina lângă centrul vechi și începeți ziua pe jos. Descoperiți Primăria și Biserica Sf. Maria din apropiere în propriul ritm. După o scurtă plimbare, ajungeți la istorica Biserică Sf. Iacint. La prânz, conduceți spre o nouă parcare lângă castel. De aici, explorați castelul, Poarta Morii și Hambarul Richter, cu timp suficient pentru prânz. După-amiaza se încheie cu o vizită la Turnul Vrăjitoarelor și o plimbare relaxantă pe malul râului Słupia înainte de a vă întoarce la mașină.",
+        "en": "Park your car near the old town and start your day on foot. Discover the Town Hall and the nearby St. Mary's Church at your own pace. After a short stroll, you'll reach the historic St. Hyacinth's Church. At midday, drive to a new parking spot near the castle. From here, explore the castle, the Mill Gate, and Richter's Granary, with plenty of time for lunch. The afternoon concludes with a visit to the Witches' Tower and a relaxing walk along the Słupia riverbank before returning to your car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bigos",
+            "tip": "Ein traditioneller polnischer Sauerkrauteintopf, perfekt für ein herzhaftes Mittagessen."
+          },
+          {
+            "name": "Karczma Słupska",
+            "tip": "Ein Restaurant im traditionellen Stil, das große Portionen lokaler Gerichte serviert."
+          },
+          {
+            "name": "Pączek",
+            "tip": "Gönnen Sie sich einen gefüllten polnischen Donut von einer lokalen Bäckerei."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bigos",
+            "tip": "Hagyományos lengyel savanyúkáposzta-egytálétel, tökéletes egy kiadós ebédhez."
+          },
+          {
+            "name": "Karczma Słupska",
+            "tip": "Hagyományos stílusú étterem, amely nagy adag helyi ételeket szolgál fel."
+          },
+          {
+            "name": "Pączek",
+            "tip": "Kényeztesd magad egy töltött lengyel fánkkal egy helyi pékségből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bigos",
+            "tip": "O tocană tradițională poloneză de varză acră, perfectă pentru un prânz copios."
+          },
+          {
+            "name": "Karczma Słupska",
+            "tip": "Un restaurant în stil tradițional care servește porții mari de mâncăruri locale."
+          },
+          {
+            "name": "Pączek",
+            "tip": "Răsfățați-vă cu o gogoașă poloneză umplută de la o brutărie locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bigos",
+            "tip": "A traditional Polish hunter's stew, perfect for a hearty lunch."
+          },
+          {
+            "name": "Karczma Słupska",
+            "tip": "A traditional-style restaurant serving large portions of local dishes."
+          },
+          {
+            "name": "Pączek",
+            "tip": "Treat yourself to a filled Polish doughnut from a local bakery."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bank am Flussufer",
+            "tip": "Nach dem Mittagessen ein perfekter Ort, um die Enten zu beobachten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Laskiem Północnym Park",
+            "tip": "Ein kurzer Abstecher mit dem Auto zu diesem Waldpark für totale Ruhe.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Innenhof des Schlosses",
+            "tip": "Manchmal findet man hier eine ruhige Ecke abseits der Hauptausstellungen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pad a folyóparton",
+            "tip": "Ebéd után tökéletes hely a kacsák figyelésére.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Északi Erdő Park",
+            "tip": "Rövid autós kitérő ebbe az erdőparkba a teljes csendért.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "A vár belső udvara",
+            "tip": "Néha találhatsz itt egy csendes sarkot a fő kiállításoktól távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bancă pe malul râului",
+            "tip": "După prânz, un loc perfect pentru a privi rațele.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Pădurea de Nord",
+            "tip": "O scurtă deviere cu mașina spre acest parc forestier pentru o liniște totală.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Curtea interioară a castelului",
+            "tip": "Uneori puteți găsi un colț liniștit aici, departe de expozițiile principale.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Riverbank bench",
+            "tip": "After lunch, a perfect spot to watch the ducks.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Northern Forest Park",
+            "tip": "A short drive to this forest park for total tranquility.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Castle courtyard",
+            "tip": "Sometimes you can find a quiet corner here away from the main exhibitions.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Galeria Słupsk",
+            "tip": "Ein modernes Einkaufszentrum, falls Sie etwas Bestimmtes benötigen oder das Wetter schlecht ist."
+          },
+          {
+            "name": "Souvenirladen im Schloss",
+            "tip": "Bietet oft einzigartige, historisch inspirierte Geschenke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Galeria Słupsk",
+            "tip": "Modern bevásárlóközpont, ha valami konkrétra van szükséged, vagy ha rossz az idő."
+          },
+          {
+            "name": "Ajándékbolt a várban",
+            "tip": "Gyakran kínál egyedi, történelmileg ihletett ajándékokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galeria Słupsk",
+            "tip": "Un centru comercial modern dacă aveți nevoie de ceva anume sau dacă vremea este rea."
+          },
+          {
+            "name": "Magazinul de suveniruri al castelului",
+            "tip": "Oferă adesea cadouri unice, de inspirație istorică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Galeria Słupsk",
+            "tip": "A modern shopping mall if you need something specific or if the weather is bad."
+          },
+          {
+            "name": "Castle souvenir shop",
+            "tip": "Often offers unique, historically inspired gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in der Innenstadt kann gebührenpflichtig sein. Halten Sie Münzen bereit.",
+          "Planen Sie Ihre Route zwischen den Parkplätzen, um Einbahnstraßen zu vermeiden.",
+          "Das Auto gibt Ihnen die Flexibilität, auch Sehenswürdigkeiten etwas außerhalb des Zentrums zu besuchen."
+        ],
+        "hu": [
+          "A belvárosi parkolás díjköteles lehet. Készíts elő aprópénzt.",
+          "Tervezd meg az útvonalat a parkolók között, hogy elkerüld az egyirányú utcákat.",
+          "Az autó rugalmasságot ad, hogy a központtól kicsit távolabb eső látnivalókat is meglátogasd."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi contra cost. Pregătiți monede.",
+          "Planificați-vă traseul între parcări pentru a evita străzile cu sens unic.",
+          "Mașina vă oferă flexibilitatea de a vizita și atracții puțin în afara centrului."
+        ],
+        "en": [
+          "Parking in the city center can be paid. Have coins ready.",
+          "Plan your route between car parks to avoid one-way streets.",
+          "The car gives you the flexibility to also visit sights slightly outside the center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:48",
+      "total_km": 3.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Haltestelle am Rathaus",
+            "hu": "Megálló a Városházánál",
+            "ro": "Stația de la Primărie",
+            "en": "Bus Stop at the Town Hall"
+          },
+          "coords": [
+            17.0295,
+            54.4638
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier. Die meisten Buslinien halten in der Nähe des Stadtzentrums.",
+            "hu": "Kezdd itt. A legtöbb buszjárat a városközpont közelében áll meg.",
+            "ro": "Începeți aici. Majoritatea liniilor de autobuz opresc lângă centrul orașului.",
+            "en": "Start here. Most bus lines stop near the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Marienkirche",
+            "hu": "Városháza és Mária-templom",
+            "ro": "Primăria și Biserica Sf. Maria",
+            "en": "Town Hall & St. Mary's Church"
+          },
+          "coords": [
+            17.0293,
+            54.465
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:14",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den zentralen Platz und die beeindruckende Kirche, das Herz von Słupsk.",
+            "hu": "Fedezd fel a központi teret és a lenyűgöző templomot, Słupsk szívét.",
+            "ro": "Explorați piața centrală și biserica impresionantă, inima orașului Słupsk.",
+            "en": "Explore the central square and the impressive church, the heart of Słupsk."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle am Schloss",
+            "hu": "Megálló a Várnál",
+            "ro": "Stația de la Castel",
+            "en": "Bus Stop at the Castle"
+          },
+          "coords": [
+            17.022,
+            54.466
+          ],
+          "category": "transport",
+          "arrive_at": "11:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum zweiten Cluster. Die Fahrt dauert nur wenige Minuten.",
+            "hu": "Menj busszal a második látnivaló-csoporthoz. Az út csak pár percig tart.",
+            "ro": "Luați un autobuz spre al doilea grup. Călătoria durează doar câteva minute.",
+            "en": "Take a bus to the second cluster. The ride only takes a few minutes."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss der Pommerschen Herzöge",
+            "hu": "Pomerániai Hercegek Vára",
+            "ro": "Castelul Ducilor Pomeraniei",
+            "en": "Castle of the Pomeranian Dukes"
+          },
+          "coords": [
+            17.0225,
+            54.4666
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:03",
+          "stay_min": 120,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tauchen Sie tief in die Geschichte der Region ein und besuchen Sie das Museum im Inneren.",
+            "hu": "Merülj el a régió történelmében, és látogass el a belső múzeumba.",
+            "ro": "Pătrundeți adânc în istoria regiunii și vizitați muzeul din interior.",
+            "en": "Dive deep into the region's history and visit the museum inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Richter-Speicher, Mühlentor & Hexenturm",
+            "hu": "Richter-magtár, Malom-kapu és Boszorkánytorony",
+            "ro": "Hambarul Richter, Poarta Morii și Turnul Vrăjitoarelor",
+            "en": "Richter's Granary, Mill Gate & Witches' Tower"
+          },
+          "coords": [
+            17.0245,
+            54.468
+          ],
+          "category": "museums",
+          "arrive_at": "14:11",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dieser Spaziergang verbindet drei wichtige historische Stätten am Flussufer und in der Nähe.",
+            "hu": "Ez a séta három fontos történelmi helyszínt köt össze a folyóparton és környékén.",
+            "ro": "Această plimbare leagă trei situri istorice importante de pe malul râului și din apropiere.",
+            "en": "This walk connects three important historical sites on and near the riverbank."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Tag mit einer Busfahrt ins Herz der Stadt, zum Rathaus. Erkunden Sie den Hauptplatz und die Marienkirche zu Fuß. Eine kurze Busfahrt bringt Sie dann zum Schloss-Cluster, wo Sie den größten Teil des Tages verbringen. Tauchen Sie in die Geschichte im Herzogsschloss ein. Nach dem Mittagessen schlendern Sie gemütlich zum Richter-Speicher, dem Mühlentor und dem Hexenturm. Diese fußgängerfreundliche Zone ermöglicht es Ihnen, die Sehenswürdigkeiten in Ihrem eigenen Tempo zu genießen, bevor Sie den Bus zurück nehmen.",
+        "hu": "Kezdje a napot egy buszúttal a város szívébe, a Városházához. Fedezze fel gyalog a főteret és a Mária-templomot. Egy rövid buszút elvisz a vár-csoporthoz, ahol a nap nagy részét tölti. Merüljön el a hercegi vár történelmében. Ebéd után sétáljon kényelmesen a Richter-magtárhoz, a Malom-kapuhoz és a Boszorkánytoronyhoz. Ez a gyalogosbarát zóna lehetővé teszi, hogy a saját tempójában élvezze a látnivalókat, mielőtt visszaszállna a buszra.",
+        "ro": "Începeți ziua cu o călătorie cu autobuzul în inima orașului, la Primărie. Explorați piața principală și Biserica Sf. Maria pe jos. O scurtă călătorie cu autobuzul vă va duce apoi la grupul castelului, unde veți petrece cea mai mare parte a zilei. Pătrundeți în istoria Castelului Ducal. După prânz, plimbați-vă agale la Hambarul Richter, Poarta Morii și Turnul Vrăjitoarelor. Această zonă pietonală vă permite să vă bucurați de atracții în ritmul propriu înainte de a lua autobuzul înapoi.",
+        "en": "Start your day with a bus ride into the heart of the city, to the Town Hall. Explore the main square and St. Mary's Church on foot. A short bus ride will then take you to the castle cluster, where you'll spend most of your day. Immerse yourself in the history at the Ducal Castle. After lunch, stroll leisurely to Richter's Granary, the Mill Gate, and the Witches' Tower. This pedestrian-friendly zone allows you to enjoy the sights at your own pace before taking the bus back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zapiekanka",
+            "tip": "Ein beliebtes polnisches Streetfood, im Grunde ein überbackenes Baguette. Perfekt für einen schnellen Happen."
+          },
+          {
+            "name": "Café Kultura",
+            "tip": "Ein gemütliches Café, um sich zwischen den Busfahrten aufzuwärmen."
+          },
+          {
+            "name": "Restauracja Zamkowa",
+            "tip": "Essen in der Nähe des Schlosses, bietet eine Mischung aus polnischer und europäischer Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zapiekanka",
+            "tip": "Népszerű lengyel street food, lényegében egy sült bagett. Tökéletes egy gyors harapnivalóhoz."
+          },
+          {
+            "name": "Café Kultura",
+            "tip": "Hangulatos kávézó, ahol felmelegedhetsz a buszutak között."
+          },
+          {
+            "name": "Restauracja Zamkowa",
+            "tip": "Étkezés a vár közelében, lengyel és európai konyha keverékét kínálja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zapiekanka",
+            "tip": "Un street food polonez popular, în esență o baghetă la cuptor. Perfect pentru o gustare rapidă."
+          },
+          {
+            "name": "Café Kultura",
+            "tip": "O cafenea primitoare pentru a vă încălzi între călătoriile cu autobuzul."
+          },
+          {
+            "name": "Restauracja Zamkowa",
+            "tip": "Masa lângă castel, oferind un amestec de bucătărie poloneză și europeană."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zapiekanka",
+            "tip": "A popular Polish street food, essentially a toasted open-face sandwich. Perfect for a quick bite."
+          },
+          {
+            "name": "Café Kultura",
+            "tip": "A cozy café to warm up in between bus rides."
+          },
+          {
+            "name": "Restauracja Zamkowa",
+            "tip": "Dining near the castle, offering a mix of Polish and European cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirchhof der St.-Hyazinth-Kirche",
+            "tip": "Ein unerwartet ruhiger Ort im Stadtzentrum.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang entlang des Flusses",
+            "tip": "Auch wenn Sie nur einen kurzen Abschnitt gehen, ist die beruhigende Wirkung spürbar.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Lesesaal der Bibliothek",
+            "tip": "Im Schloss befindet sich auch eine Bibliothek, die eine Oase der Ruhe ist.",
+            "emoji": "📚"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Jácint-templom udvara",
+            "tip": "Váratlanul csendes hely a városközpontban.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a folyó mentén",
+            "tip": "Még ha csak egy rövid szakaszon is sétálsz, a nyugtató hatás érezhető.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Könyvtár olvasóterme",
+            "tip": "A várban egy könyvtár is található, amely a nyugalom oázisa.",
+            "emoji": "📚"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea bisericii Sf. Iacint",
+            "tip": "Un loc neașteptat de liniștit în centrul orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare de-a lungul râului",
+            "tip": "Chiar dacă mergeți doar pe o secțiune scurtă, efectul calmant este vizibil.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sala de lectură a bibliotecii",
+            "tip": "Există și o bibliotecă în castel, care este o oază de liniște.",
+            "emoji": "📚"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Hyacinth's Churchyard",
+            "tip": "An unexpectedly quiet place in the city center.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Stroll along the river",
+            "tip": "Even if you only walk a short section, the calming effect is noticeable.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Library reading room",
+            "tip": "There is also a library in the castle, which is an oasis of calm.",
+            "emoji": "📚"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ulica Wojska Polskiego",
+            "tip": "Eine weitere Einkaufsstraße, die vom Zentrum aus leicht zu erreichen ist."
+          },
+          {
+            "name": "Lokale Töpferwaren",
+            "tip": "In einigen Souvenirläden finden Sie Keramik aus der Region Kaschubei."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wojska Polskiego utca",
+            "tip": "Egy másik bevásárlóutca, amely könnyen elérhető a központból."
+          },
+          {
+            "name": "Helyi kerámiák",
+            "tip": "Néhány ajándékboltban találhatsz kasubiai kerámiákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Wojska Polskiego",
+            "tip": "O altă stradă comercială ușor accesibilă din centru."
+          },
+          {
+            "name": "Ceramică locală",
+            "tip": "Puteți găsi ceramică din regiunea Kashubia în unele magazine de suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wojska Polskiego Street",
+            "tip": "Another shopping street easily accessible from the center."
+          },
+          {
+            "name": "Local pottery",
+            "tip": "You can find pottery from the Kashubian region in some souvenir shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um unbegrenzte Fahrten zu ermöglichen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, besonders an Wochenenden.",
+          "Haben Sie keine Angst, ein paar Blocks zu Fuß zu gehen; oft ist es schneller als auf den nächsten Bus zu warten."
+        ],
+        "hu": [
+          "Vegyél napijegyet a buszra a korlátlan utazásért.",
+          "Ellenőrizd előre a buszmenetrendet, különösen hétvégén.",
+          "Ne félj pár háztömbnyit sétálni; gyakran gyorsabb, mint a következő buszra várni."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru călătorii nelimitate.",
+          "Verificați programul autobuzelor în avans, mai ales în weekend.",
+          "Nu vă fie teamă să mergeți câteva străzi pe jos; adesea este mai rapid decât să așteptați următorul autobuz."
+        ],
+        "en": [
+          "Buy a day ticket for the bus to allow for unlimited rides.",
+          "Check the bus schedule in advance, especially on weekends.",
+          "Don't be afraid to walk a few blocks; it's often faster than waiting for the next bus."
+        ]
+      }
+    }
+  }
+}

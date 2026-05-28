@@ -1,0 +1,1327 @@
+{
+  "city_id": "spain-almazan-cities-v2",
+  "anchor": {
+    "name": "Plaza Mayor de Almazán",
+    "coords": [
+      -2.5332,
+      41.4816
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 2.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza Mayor",
+            "hu": "Főtér (Plaza Mayor)",
+            "ro": "Plaza Mayor",
+            "en": "Main Square (Plaza Mayor)"
+          },
+          "coords": [
+            -2.5332,
+            41.4816
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee in einer der Bars am Platz und beobachten Sie das Leben.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik bárjában, és figyelje a város ébredését.",
+            "ro": "Începeți ziua cu o cafea la unul dintre barurile din piață și priviți viața locală.",
+            "en": "Start your day with a coffee at one of the bars on the square and watch the town come to life."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Miguel",
+            "hu": "Szent Mihály-templom",
+            "ro": "Biserica San Miguel",
+            "en": "Church of San Miguel"
+          },
+          "coords": [
+            -2.533,
+            41.4818
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Achten Sie auf den romanischen Stil und die einzigartige achteckige Kuppel.",
+            "hu": "Figyelje meg a román stílusjegyeket és az egyedi, nyolcszögletű kupolát.",
+            "ro": "Observați stilul romanic și cupola sa octogonală unică.",
+            "en": "Look for the Romanesque style and its unique octagonal dome."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast der Altamira",
+            "hu": "Altamira-palota",
+            "ro": "Palatul Altamira",
+            "en": "Palace of the Altamira"
+          },
+          "coords": [
+            -2.5335,
+            41.4815
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:27",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Renaissance-Fassade; der Palast ist heute ein Kulturzentrum.",
+            "hu": "Csodálja meg a reneszánsz homlokzatot; a palota ma kulturális központként működik.",
+            "ro": "Admirați fațada renascentistă; palatul este acum un centru cultural.",
+            "en": "Admire the Renaissance facade; the palace is now a cultural center."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadttor Puerta del Mercado",
+            "hu": "Piaci kapu (Puerta del Mercado)",
+            "ro": "Poarta Pieței (Puerta del Mercado)",
+            "en": "Market Gate (Puerta del Mercado)"
+          },
+          "coords": [
+            -2.5315,
+            41.481
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:03",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Dies ist eines der drei erhaltenen mittelalterlichen Tore. Ein tolles Fotomotiv.",
+            "hu": "Ez az egyik a három fennmaradt középkori kapu közül. Nagyszerű fotótéma.",
+            "ro": "Aceasta este una dintre cele trei porți medievale care au supraviețuit. Un loc minunat pentru fotografii.",
+            "en": "This is one of the three surviving medieval gates. A great photo opportunity."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauern von Almazán",
+            "hu": "Almazán városfalai",
+            "ro": "Zidurile din Almazán",
+            "en": "Walls of Almazán"
+          },
+          "coords": [
+            -2.531,
+            41.4805
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Machen Sie einen Spaziergang entlang der erhaltenen Abschnitte für einen Blick in die Vergangenheit.",
+            "hu": "Sétáljon végig a fennmaradt falszakaszokon, és pillantson be a múltba.",
+            "ro": "Faceți o plimbare de-a lungul secțiunilor conservate pentru o priveliște în trecut.",
+            "en": "Take a walk along the preserved sections for a glimpse into the past."
+          }
+        },
+        {
+          "name": {
+            "de": "Brücke über den Duero",
+            "hu": "Híd a Duero folyón",
+            "ro": "Podul peste Duero",
+            "en": "Bridge over the Duero"
+          },
+          "coords": [
+            -2.5325,
+            41.479
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:33",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie hier die Mittagspause mit Blick auf den Fluss und die Stadt.",
+            "hu": "Élvezze itt az ebédszünetet a folyóra és a városra nyíló kilátással.",
+            "ro": "Savurați pauza de prânz aici, cu vedere la râu și la oraș.",
+            "en": "Enjoy your lunch break here with a view of the river and the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Eremitage von Jesús Nazareno",
+            "hu": "Názáreti Jézus-kápolna",
+            "ro": "Schitul lui Isus Nazarineanul",
+            "en": "Hermitage of Jesús Nazareno"
+          },
+          "coords": [
+            -2.53,
+            41.4795
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Eine ruhige, barocke Kapelle, perfekt für einen Moment der Besinnung.",
+            "hu": "Egy csendes, barokk kápolna, amely tökéletes egy pillanatnyi elmélkedésre.",
+            "ro": "O capelă barocă liniștită, perfectă pentru un moment de reflecție.",
+            "en": "A quiet, baroque chapel, perfect for a moment of reflection."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang im Herzen von Almazán, der Plaza Mayor, umgeben von historischer Architektur. Erklimmen Sie die alten Mauern und Tore, um das mittelalterliche Flair zu spüren. Am Nachmittag überqueren Sie die römische Brücke über den Duero und finden Ruhe am Flussufer und in der nahegelegenen Kapelle. Lassen Sie den Tag mit einem Glas Wein aus der Region ausklingen und genießen Sie die ruhige Atmosphäre der kastilischen Stadt.",
+        "hu": "Sétáját Almazán szívében, a történelmi épületekkel körülvett Plaza Mayoron kezdje. Mássza meg a régi falakat és kapukat, hogy átérezze a középkori hangulatot. Délután keljen át a Duero feletti római hídon, és találjon nyugalmat a folyóparton és a közeli kápolnában. Zárja a napot egy pohár helyi borral, élvezve a kasztíliai város csendes légkörét.",
+        "ro": "Începeți plimbarea în inima orașului Almazán, Plaza Mayor, înconjurată de arhitectură istorică. Urcați pe zidurile și porțile vechi pentru a simți atmosfera medievală. După-amiaza, traversați podul roman peste Duero și găsiți liniștea pe malul râului și la schitul din apropiere. Încheiați ziua cu un pahar de vin local, bucurându-vă de atmosfera liniștită a orașului castilian.",
+        "en": "Start your walk in the heart of Almazán, the Plaza Mayor, surrounded by historic architecture. Climb the old walls and gates to feel the medieval atmosphere. In the afternoon, cross the Roman bridge over the Duero and find peace on the riverbank and at the nearby hermitage. End the day with a glass of local wine, enjoying the quiet atmosphere of the Castilian town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lechazo asado",
+            "tip": "Probieren Sie das berühmte Spanferkel, eine Spezialität von Kastilien und León."
+          },
+          {
+            "name": "Torreznos",
+            "tip": "Knusprig gebratener Schweinebauch, ein klassischer lokaler Snack."
+          },
+          {
+            "name": "Yemas de Almazán",
+            "tip": "Eine süße Leckerei aus Eigelb, die typisch für die Stadt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lechazo asado",
+            "tip": "Kóstolja meg a híres sült bárányt, Kasztília és León specialitását."
+          },
+          {
+            "name": "Torreznos",
+            "tip": "Ropogósra sült sertéshas, egy klasszikus helyi snack."
+          },
+          {
+            "name": "Yemas de Almazán",
+            "tip": "Tojássárgájából készült édes finomság, a város jellegzetessége."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lechazo asado",
+            "tip": "Încercați faimosul miel la proțap, o specialitate din Castilia și León."
+          },
+          {
+            "name": "Torreznos",
+            "tip": "Burtă de porc prăjită crocantă, o gustare locală clasică."
+          },
+          {
+            "name": "Yemas de Almazán",
+            "tip": "Un deliciu dulce din gălbenuș de ou, tipic orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lechazo asado",
+            "tip": "Try the famous roast suckling lamb, a specialty of Castile and León."
+          },
+          {
+            "name": "Torreznos",
+            "tip": "Crispy fried pork belly, a classic local snack."
+          },
+          {
+            "name": "Yemas de Almazán",
+            "tip": "A sweet treat made from egg yolks, typical of the town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Duero",
+            "tip": "Ein Spaziergang entlang des Flusses bietet Ruhe und schöne Ausblicke.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten des Convento de la Merced",
+            "tip": "Ein abgeschiedener Ort für eine Pause.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Duero folyó partja",
+            "tip": "Egy séta a folyó mentén nyugalmat és szép kilátást kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Convento de la Merced kertjei",
+            "tip": "Egy eldugott hely egy kis pihenésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Duero",
+            "tip": "O plimbare de-a lungul râului oferă liniște și priveliști frumoase.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Mănăstirii la Merced",
+            "tip": "Un loc retras pentru o pauză.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Duero River",
+            "tip": "A walk along the river offers peace and beautiful views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gardens of the Convento de la Merced",
+            "tip": "A secluded spot for a break.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Konditoreien",
+            "tip": "Kaufen Sie 'Yemas de Almazán' als süßes Souvenir."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Wenn Sie an einem Markttag hier sind, finden Sie lokale Produkte und Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi cukrászdák",
+            "tip": "Vásároljon 'Yemas de Almazán'-t édes emlékként."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Ha piacnapon jár itt, helyi termékeket és kézműves árukat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Patiserii locale",
+            "tip": "Cumpărați 'Yemas de Almazán' ca suvenir dulce."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Dacă sunteți aici într-o zi de piață, veți găsi produse locale și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local patisseries",
+            "tip": "Buy 'Yemas de Almazán' as a sweet souvenir."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "If you're here on market day, you'll find local products and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster uneben sein kann.",
+          "Prüfen Sie die Öffnungszeiten der Kirchen, da diese oft mittags geschlossen sind.",
+          "Die meisten Sehenswürdigkeiten befinden sich in unmittelbarer Nähe zueinander."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakövek egyenetlenek lehetnek.",
+          "Ellenőrizze a templomok nyitvatartási idejét, mivel délben gyakran bezárnak.",
+          "A legtöbb látnivaló sétatávolságra van egymástól."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul poate fi denivelat.",
+          "Verificați orele de deschidere ale bisericilor, deoarece acestea sunt adesea închise la prânz.",
+          "Majoritatea atracțiilor sunt la mică distanță una de cealaltă."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones can be uneven.",
+          "Check the opening hours of the churches, as they are often closed at noon.",
+          "Most sights are within easy walking distance of each other."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:05",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza Mayor & Fahrradverleih",
+            "hu": "Főtér és kerékpárkölcsönző",
+            "ro": "Plaza Mayor & închiriere biciclete",
+            "en": "Plaza Mayor & Bike Rental"
+          },
+          "coords": [
+            -2.5332,
+            41.4816
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Holen Sie sich Ihr Fahrrad und genießen Sie einen ersten Kaffee am Hauptplatz.",
+            "hu": "Vegye át a kerékpárt, és igyon meg egy kávét a főtéren.",
+            "ro": "Luați-vă bicicleta și savurați o primă cafea în piața principală.",
+            "en": "Pick up your bike and enjoy a first coffee in the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Miguel & Palast",
+            "hu": "Szent Mihály-templom és Palota",
+            "ro": "Biserica San Miguel & Palatul",
+            "en": "Church of San Miguel & Palace"
+          },
+          "coords": [
+            -2.533,
+            41.4818
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:41",
+          "stay_min": 50,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und erkunden Sie die beiden Hauptgebäude am Platz.",
+            "hu": "Zárja le a kerékpárt, és fedezze fel a tér két fő épületét.",
+            "ro": "Legați-vă bicicleta și explorați cele două clădiri principale din piață.",
+            "en": "Lock up your bike and explore the two main buildings on the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Runde entlang der Stadtmauern",
+            "hu": "Kör a városfalak mentén",
+            "ro": "Tur de-a lungul zidurilor orașului",
+            "en": "Loop along the city walls"
+          },
+          "coords": [
+            -2.5315,
+            41.481
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:43",
+          "stay_min": 45,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Fahren Sie eine Runde um den alten Stadtkern, beginnend am Puerta del Mercado.",
+            "hu": "Tegyen egy kört az óváros körül, a Puerta del Mercadótól indulva.",
+            "ro": "Faceți un tur în jurul centrului vechi, pornind de la Puerta del Mercado.",
+            "en": "Take a loop around the old town center, starting at Puerta del Mercado."
+          }
+        },
+        {
+          "name": {
+            "de": "Brücke und Flussufer des Duero",
+            "hu": "Híd és a Duero partja",
+            "ro": "Podul și malul râului Duero",
+            "en": "Bridge and Duero Riverbank"
+          },
+          "coords": [
+            -2.5325,
+            41.479
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause. Fahren Sie ein Stück am Fluss entlang.",
+            "hu": "Tökéletes egy ebédszünetre. Tekerjen egy kicsit a folyó mentén.",
+            "ro": "Perfect pentru o pauză de prânz. Pedalați puțin de-a lungul râului.",
+            "en": "Perfect for a lunch break. Cycle a little along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Convento de la Merced",
+            "hu": "La Merced-kolostor",
+            "ro": "Mănăstirea La Merced",
+            "en": "Convent of La Merced"
+          },
+          "coords": [
+            -2.535,
+            41.482
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses ruhige Kloster im Westen der Stadt.",
+            "hu": "Fedezze fel ezt a csendes kolostort a város nyugati részén.",
+            "ro": "Descoperiți această mănăstire liniștită în partea de vest a orașului.",
+            "en": "Discover this quiet convent in the west of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr zur Plaza Mayor",
+            "hu": "Visszatérés a Főtérre",
+            "ro": "Întoarcere la Plaza Mayor",
+            "en": "Return to Plaza Mayor"
+          },
+          "coords": [
+            -2.5332,
+            41.4816
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:04",
+          "stay_min": 61,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Geben Sie Ihr Fahrrad zurück und genießen Sie ein letztes Getränk auf dem Platz.",
+            "hu": "Adja le a kerékpárt, és fogyasszon el egy utolsó italt a téren.",
+            "ro": "Returnați bicicleta și bucurați-vă de o ultimă băutură în piață.",
+            "en": "Return your bike and enjoy one last drink in the square."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Almazán auf zwei Rädern. Beginnen Sie am Hauptplatz, radeln Sie durch die engen Gassen zu den historischen Monumenten. Eine längere Tour führt Sie entlang der alten Stadtmauern und dann hinunter zum Duero-Fluss für eine erfrischende Pause. Am Nachmittag entdecken Sie die ruhigeren Ecken der Stadt, bevor Sie zum Ausgangspunkt zurückkehren. Diese Route verbindet Kultur mit einer leichten sportlichen Aktivität.",
+        "hu": "Fedezze fel Almazánt két keréken. Induljon a főtérről, tekerjen a szűk utcákon a történelmi műemlékekhez. Egy hosszabb túra a régi városfalak mentén, majd le a Duero folyóhoz vezet egy frissítő szünetre. Délután fedezze fel a város csendesebb zugait, mielőtt visszatér a kiindulópontra. Ez az útvonal ötvözi a kultúrát a könnyű sporttevékenységgel.",
+        "ro": "Explorați Almazán pe două roți. Începeți din piața principală, pedalați pe străzile înguste către monumentele istorice. Un tur mai lung vă duce de-a lungul zidurilor vechi ale orașului și apoi coboară la râul Duero pentru o pauză revigorantă. După-amiaza, descoperiți colțurile mai liniștite ale orașului înainte de a vă întoarce la punctul de plecare. Acest traseu combină cultura cu o activitate sportivă ușoară.",
+        "en": "Explore Almazán on two wheels. Start at the main square, cycle through the narrow streets to the historic monuments. A longer tour takes you along the old city walls and then down to the Duero River for a refreshing break. In the afternoon, discover the quieter corners of the city before returning to the starting point. This route combines culture with light sporting activity."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lechazo asado",
+            "tip": "Probieren Sie das berühmte Spanferkel, eine Spezialität von Kastilien und León."
+          },
+          {
+            "name": "Torreznos",
+            "tip": "Knusprig gebratener Schweinebauch, ein klassischer lokaler Snack."
+          },
+          {
+            "name": "Yemas de Almazán",
+            "tip": "Eine süße Leckerei aus Eigelb, die typisch für die Stadt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lechazo asado",
+            "tip": "Kóstolja meg a híres sült bárányt, Kasztília és León specialitását."
+          },
+          {
+            "name": "Torreznos",
+            "tip": "Ropogósra sült sertéshas, egy klasszikus helyi snack."
+          },
+          {
+            "name": "Yemas de Almazán",
+            "tip": "Tojássárgájából készült édes finomság, a város jellegzetessége."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lechazo asado",
+            "tip": "Încercați faimosul miel la proțap, o specialitate din Castilia și León."
+          },
+          {
+            "name": "Torreznos",
+            "tip": "Burtă de porc prăjită crocantă, o gustare locală clasică."
+          },
+          {
+            "name": "Yemas de Almazán",
+            "tip": "Un deliciu dulce din gălbenuș de ou, tipic orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lechazo asado",
+            "tip": "Try the famous roast suckling lamb, a specialty of Castile and León."
+          },
+          {
+            "name": "Torreznos",
+            "tip": "Crispy fried pork belly, a classic local snack."
+          },
+          {
+            "name": "Yemas de Almazán",
+            "tip": "A sweet treat made from egg yolks, typical of the town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Duero",
+            "tip": "Eine ruhige Fahrt entlang des Flusses, weg vom Stadtzentrum.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtspunkt an den Stadtmauern",
+            "tip": "Halten Sie für einen Panoramablick über die Landschaft an.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Duero mentén",
+            "tip": "Csendes tekerés a folyó mentén, távol a városközponttól.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátópont a városfalaknál",
+            "tip": "Álljon meg egy panorámaképért a tájról.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul râului Duero",
+            "tip": "O plimbare liniștită de-a lungul râului, departe de centrul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Punct de belvedere la zidurile orașului",
+            "tip": "Opriți-vă pentru o vedere panoramică asupra peisajului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cycle path along the Duero",
+            "tip": "A quiet ride along the river, away from the town center.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Viewpoint at the city walls",
+            "tip": "Stop for a panoramic view of the landscape.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Konditoreien",
+            "tip": "Kaufen Sie 'Yemas de Almazán' als süßes Souvenir."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Wenn Sie an einem Markttag hier sind, finden Sie lokale Produkte und Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi cukrászdák",
+            "tip": "Vásároljon 'Yemas de Almazán'-t édes emlékként."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Ha piacnapon jár itt, helyi termékeket és kézműves árukat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Patiserii locale",
+            "tip": "Cumpărați 'Yemas de Almazán' ca suvenir dulce."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Dacă sunteți aici într-o zi de piață, veți găsi produse locale și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local patisseries",
+            "tip": "Buy 'Yemas de Almazán' as a sweet souvenir."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "If you're here on market day, you'll find local products and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fragen Sie nach Fahrradwegen oder ruhigen Straßen.",
+          "Nehmen Sie ein Schloss für Ihr Fahrrad mit.",
+          "Eine Flasche Wasser ist bei der kastilischen Sonne unerlässlich."
+        ],
+        "hu": [
+          "Érdeklődjön a kerékpárutakról vagy a csendes utcákról.",
+          "Vigyen magával lakatot a kerékpárhoz.",
+          "Egy üveg víz elengedhetetlen a kasztíliai napsütésben."
+        ],
+        "ro": [
+          "Întrebați despre pistele de biciclete sau străzile liniștite.",
+          "Luați un lacăt pentru bicicletă.",
+          "O sticlă de apă este esențială sub soarele castilian."
+        ],
+        "en": [
+          "Ask for bike paths or quiet streets.",
+          "Bring a lock for your bike.",
+          "A bottle of water is essential under the Castilian sun."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:39",
+      "total_km": 3.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am historischen Zentrum",
+            "hu": "Parkoló a történelmi központnál",
+            "ro": "Parcare în centrul istoric",
+            "en": "Parking at the Historic Center"
+          },
+          "coords": [
+            -2.536,
+            41.4825
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier Ihr Auto für den Vormittag und erkunden Sie den ersten Cluster zu Fuß.",
+            "hu": "Parkolja le itt az autót a délelőttre, és fedezze fel gyalog az első látnivaló-csoportot.",
+            "ro": "Parcați mașina aici pentru dimineață și explorați primul grup de atracții pe jos.",
+            "en": "Park your car here for the morning and explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza Mayor & Palast Altamira",
+            "hu": "Főtér és Altamira-palota",
+            "ro": "Plaza Mayor & Palatul Altamira",
+            "en": "Plaza Mayor & Altamira Palace"
+          },
+          "coords": [
+            -2.5332,
+            41.4816
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:21",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Platz ist das pulsierende Herz der Stadt.",
+            "hu": "A tér a város lüktető szíve.",
+            "ro": "Piața este inima vibrantă a orașului.",
+            "en": "The square is the vibrant heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Miguel",
+            "hu": "Szent Mihály-templom",
+            "ro": "Biserica San Miguel",
+            "en": "Church of San Miguel"
+          },
+          "coords": [
+            -2.533,
+            41.4818
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Meisterwerk der Romanik, nur wenige Schritte vom Platz entfernt.",
+            "hu": "A román kor mesterműve, csak pár lépésre a tértől.",
+            "ro": "O capodoperă a artei romanice, la doar câțiva pași de piață.",
+            "en": "A masterpiece of Romanesque art, just a few steps from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Puerta del Mercado & Mauern",
+            "hu": "Piaci kapu és falak",
+            "ro": "Poarta Pieței și Zidurile",
+            "en": "Market Gate & Walls"
+          },
+          "coords": [
+            -2.5315,
+            41.481
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:51",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spüren Sie die Geschichte, während Sie entlang der mittelalterlichen Befestigungsanlagen spazieren.",
+            "hu": "Érezze a történelmet, miközben a középkori erődítmények mentén sétál.",
+            "ro": "Simțiți istoria în timp ce vă plimbați de-a lungul fortificațiilor medievale.",
+            "en": "Feel the history as you walk along the medieval fortifications."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz am Fluss Duero",
+            "hu": "Parkoló a Duero folyónál",
+            "ro": "Parcare lângă râul Duero",
+            "en": "Parking by the Duero River"
+          },
+          "coords": [
+            -2.532,
+            41.4785
+          ],
+          "category": "transport",
+          "arrive_at": "12:51",
+          "stay_min": 90,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum zweiten Cluster. Hier können Sie zu Mittag essen und am Fluss spazieren gehen.",
+            "hu": "Vezessen a második látnivaló-csoporthoz. Itt ebédelhet és sétálhat a folyóparton.",
+            "ro": "Conduceți spre al doilea grup de atracții. Aici puteți lua prânzul și vă puteți plimba pe malul râului.",
+            "en": "Drive to the second cluster. You can have lunch here and walk by the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Brücke & Eremitage Jesús Nazareno",
+            "hu": "Híd és Názáreti Jézus-kápolna",
+            "ro": "Podul & Schitul Isus Nazarineanul",
+            "en": "Bridge & Hermitage of Jesús Nazareno"
+          },
+          "coords": [
+            -2.5325,
+            41.479
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:27",
+          "stay_min": 42,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihren Besuch mit einem Spaziergang über die Brücke und einem Besuch der Kapelle ab.",
+            "hu": "Zárja a látogatást egy sétával a hídon és a kápolna megtekintésével.",
+            "ro": "Încheiați vizita cu o plimbare peste pod și o vizită la schit.",
+            "en": "Conclude your visit with a walk across the bridge and a visit to the hermitage."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie Almazán bequem in zwei Clustern erkunden. Parken Sie morgens im historischen Zentrum und entdecken Sie die Plaza Mayor und die umliegenden Kirchen zu Fuß. Nach dem Mittagessen fahren Sie zum Ufer des Duero, parken erneut und genießen die ruhige Atmosphäre am Fluss und an der römischen Brücke. Dieser Ansatz kombiniert die Flexibilität des Autos mit entspannten Spaziergängen.",
+        "hu": "Autóval kényelmesen felfedezheti Almazánt két látnivaló-csoportban. Reggel parkoljon a történelmi központban, és fedezze fel gyalog a Plaza Mayort és a környező templomokat. Ebéd után vezessen a Duero partjára, parkoljon le újra, és élvezze a folyó és a római híd nyugodt légkörét. Ez a megközelítés ötvözi az autó rugalmasságát a pihentető sétákkal.",
+        "ro": "Cu mașina, puteți explora convenabil Almazán în două grupuri de atracții. Parcați dimineața în centrul istoric și descoperiți pe jos Plaza Mayor și bisericile din jur. După prânz, conduceți spre malurile râului Duero, parcați din nou și bucurați-vă de atmosfera liniștită de lângă râu și podul roman. Această abordare combină flexibilitatea mașinii cu plimbări relaxante.",
+        "en": "By car, you can conveniently explore Almazán in two clusters. Park in the historic center in the morning and discover the Plaza Mayor and surrounding churches on foot. After lunch, drive to the banks of the Duero, park again, and enjoy the peaceful atmosphere by the river and the Roman bridge. This approach combines the flexibility of the car with relaxing walks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lechazo asado",
+            "tip": "Probieren Sie das berühmte Spanferkel, eine Spezialität von Kastilien und León."
+          },
+          {
+            "name": "Torreznos",
+            "tip": "Knusprig gebratener Schweinebauch, ein klassischer lokaler Snack."
+          },
+          {
+            "name": "Yemas de Almazán",
+            "tip": "Eine süße Leckerei aus Eigelb, die typisch für die Stadt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lechazo asado",
+            "tip": "Kóstolja meg a híres sült bárányt, Kasztília és León specialitását."
+          },
+          {
+            "name": "Torreznos",
+            "tip": "Ropogósra sült sertéshas, egy klasszikus helyi snack."
+          },
+          {
+            "name": "Yemas de Almazán",
+            "tip": "Tojássárgájából készült édes finomság, a város jellegzetessége."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lechazo asado",
+            "tip": "Încercați faimosul miel la proțap, o specialitate din Castilia și León."
+          },
+          {
+            "name": "Torreznos",
+            "tip": "Burtă de porc prăjită crocantă, o gustare locală clasică."
+          },
+          {
+            "name": "Yemas de Almazán",
+            "tip": "Un deliciu dulce din gălbenuș de ou, tipic orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lechazo asado",
+            "tip": "Try the famous roast suckling lamb, a specialty of Castile and León."
+          },
+          {
+            "name": "Torreznos",
+            "tip": "Crispy fried pork belly, a classic local snack."
+          },
+          {
+            "name": "Yemas de Almazán",
+            "tip": "A sweet treat made from egg yolks, typical of the town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Duero",
+            "tip": "Ein Spaziergang entlang des Flusses bietet Ruhe und schöne Ausblicke.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten des Convento de la Merced",
+            "tip": "Ein abgeschiedener Ort für eine Pause.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Duero folyó partja",
+            "tip": "Egy séta a folyó mentén nyugalmat és szép kilátást kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Convento de la Merced kertjei",
+            "tip": "Egy eldugott hely egy kis pihenésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Duero",
+            "tip": "O plimbare de-a lungul râului oferă liniște și priveliști frumoase.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Mănăstirii la Merced",
+            "tip": "Un loc retras pentru o pauză.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Duero River",
+            "tip": "A walk along the river offers peace and beautiful views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gardens of the Convento de la Merced",
+            "tip": "A secluded spot for a break.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Konditoreien",
+            "tip": "Kaufen Sie 'Yemas de Almazán' als süßes Souvenir."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Wenn Sie an einem Markttag hier sind, finden Sie lokale Produkte und Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi cukrászdák",
+            "tip": "Vásároljon 'Yemas de Almazán'-t édes emlékként."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Ha piacnapon jár itt, helyi termékeket és kézműves árukat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Patiserii locale",
+            "tip": "Cumpărați 'Yemas de Almazán' ca suvenir dulce."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Dacă sunteți aici într-o zi de piață, veți găsi produse locale și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local patisseries",
+            "tip": "Buy 'Yemas de Almazán' as a sweet souvenir."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "If you're here on market day, you'll find local products and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Suchen Sie nach öffentlichen Parkplätzen am Rande des historischen Zentrums.",
+          "Die Entfernungen sind kurz, aber das Auto hilft, die beiden Hauptbereiche (Zentrum und Fluss) zu trennen.",
+          "Planen Sie Zeit für die Parkplatzsuche ein, besonders im Sommer."
+        ],
+        "hu": [
+          "Keressen nyilvános parkolókat a történelmi központ szélén.",
+          "A távolságok rövidek, de az autó segít elválasztani a két fő területet (központ és folyó).",
+          "Tervezzen időt a parkolóhely keresésére, különösen nyáron."
+        ],
+        "ro": [
+          "Căutați parcări publice la marginea centrului istoric.",
+          "Distanțele sunt scurte, dar mașina ajută la separarea celor două zone principale (centru și râu).",
+          "Planificați timp pentru a găsi un loc de parcare, mai ales vara."
+        ],
+        "en": [
+          "Look for public parking lots on the edge of the historic center.",
+          "The distances are short, but the car helps to separate the two main areas (center and river).",
+          "Plan time for finding a parking space, especially in summer."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:24",
+      "total_km": 2.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft Plaza Mayor (Bus)",
+            "hu": "Érkezés a Főtérre (busszal)",
+            "ro": "Sosire în Plaza Mayor (autobuz)",
+            "en": "Arrival at Plaza Mayor (Bus)"
+          },
+          "coords": [
+            -2.5332,
+            41.4816
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie an der zentralen Haltestelle aus, um Ihre Tour zu beginnen.",
+            "hu": "Szálljon le a központi megállónál a túra megkezdéséhez.",
+            "ro": "Coborâți la stația centrală pentru a începe turul.",
+            "en": "Get off at the central stop to start your tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Zentrum: Plaza, San Miguel, Palast",
+            "hu": "Központi csoport: Főtér, San Miguel, Palota",
+            "ro": "Grupul central: Piața, San Miguel, Palatul",
+            "en": "Center Cluster: Plaza, San Miguel, Palace"
+          },
+          "coords": [
+            -2.5333,
+            41.4817
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die drei Hauptattraktionen im Herzen der Stadt zu Fuß.",
+            "hu": "Fedezze fel gyalog a város szívében található három fő látnivalót.",
+            "ro": "Explorați pe jos cele trei atracții principale din inima orașului.",
+            "en": "Explore the three main attractions in the heart of the city on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Fluss",
+            "hu": "Buszozás a folyóhoz",
+            "ro": "Călătorie cu autobuzul spre râu",
+            "en": "Bus ride to the river"
+          },
+          "coords": [
+            -2.532,
+            41.4785
+          ],
+          "category": "transport",
+          "arrive_at": "12:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus, um zum zweiten Cluster am Duero-Ufer zu gelangen.",
+            "hu": "Menjen egy helyi busszal a Duero-parton lévő második látnivaló-csoporthoz.",
+            "ro": "Luați un autobuz local pentru a ajunge la al doilea grup de atracții de pe malul râului Duero.",
+            "en": "Take a local bus to get to the second cluster on the banks of the Duero."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Fluss: Brücke und Eremitage",
+            "hu": "Folyóparti csoport: Híd és kápolna",
+            "ro": "Grupul râului: Podul și Schitul",
+            "en": "River Cluster: Bridge and Hermitage"
+          },
+          "coords": [
+            -2.5325,
+            41.479
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:46",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe am Fluss, bevor Sie die Brücke überqueren.",
+            "hu": "Élvezze a folyóparti csendet, mielőtt átkel a hídon.",
+            "ro": "Bucurați-vă de liniștea de lângă râu înainte de a traversa podul.",
+            "en": "Enjoy the peace by the river before crossing the bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt zum Zentrum (Bus)",
+            "hu": "Visszaút a központba (busszal)",
+            "ro": "Întoarcere în centru (autobuz)",
+            "en": "Return to the center (Bus)"
+          },
+          "coords": [
+            -2.5332,
+            41.4816
+          ],
+          "category": "transport",
+          "arrive_at": "14:54",
+          "stay_min": 30,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück zum Hauptplatz, um Ihren Tag ausklingen zu lassen.",
+            "hu": "Menjen vissza busszal a főtérre, hogy lezárja a napot.",
+            "ro": "Luați autobuzul înapoi în piața principală pentru a încheia ziua.",
+            "en": "Take the bus back to the main square to end your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auch mit öffentlichen Verkehrsmitteln lässt sich Almazán gut entdecken. Starten Sie an der Plaza Mayor, erkunden Sie den historischen Kern zu Fuß. Ein kurzer Bus-Hop bringt Sie dann zum Duero-Ufer, wo Sie zu Mittag essen und die römische Brücke bewundern können. Dieser Plan ist ideal für Reisende, die eine autofreie und entspannte Erkundung bevorzugen und die lokalen Gegebenheiten erleben möchten.",
+        "hu": "Almazán tömegközlekedéssel is jól felfedezhető. Induljon a Plaza Mayortól, fedezze fel gyalog a történelmi központot. Egy rövid buszozás elviszi a Duero partjára, ahol megebédelhet és megcsodálhatja a római hidat. Ez a terv ideális azoknak az utazóknak, akik autómentes, pihentető felfedezésre vágynak, és szeretnék megtapasztalni a helyi viszonyokat.",
+        "ro": "Almazán poate fi explorat cu ușurință și cu transportul public. Începeți din Plaza Mayor, explorați centrul istoric pe jos. O scurtă călătorie cu autobuzul vă va duce apoi pe malul râului Duero, unde puteți lua prânzul și admira podul roman. Acest plan este ideal pentru călătorii care preferă o explorare relaxată, fără mașină, și doresc să experimenteze condițiile locale.",
+        "en": "Almazán is also easy to explore by public transport. Start at the Plaza Mayor, explore the historic core on foot. A short bus hop will then take you to the banks of the Duero, where you can have lunch and admire the Roman bridge. This plan is ideal for travelers who prefer a car-free, relaxed exploration and want to experience local conditions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lechazo asado",
+            "tip": "Probieren Sie das berühmte Spanferkel, eine Spezialität von Kastilien und León."
+          },
+          {
+            "name": "Torreznos",
+            "tip": "Knusprig gebratener Schweinebauch, ein klassischer lokaler Snack."
+          },
+          {
+            "name": "Yemas de Almazán",
+            "tip": "Eine süße Leckerei aus Eigelb, die typisch für die Stadt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lechazo asado",
+            "tip": "Kóstolja meg a híres sült bárányt, Kasztília és León specialitását."
+          },
+          {
+            "name": "Torreznos",
+            "tip": "Ropogósra sült sertéshas, egy klasszikus helyi snack."
+          },
+          {
+            "name": "Yemas de Almazán",
+            "tip": "Tojássárgájából készült édes finomság, a város jellegzetessége."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lechazo asado",
+            "tip": "Încercați faimosul miel la proțap, o specialitate din Castilia și León."
+          },
+          {
+            "name": "Torreznos",
+            "tip": "Burtă de porc prăjită crocantă, o gustare locală clasică."
+          },
+          {
+            "name": "Yemas de Almazán",
+            "tip": "Un deliciu dulce din gălbenuș de ou, tipic orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lechazo asado",
+            "tip": "Try the famous roast suckling lamb, a specialty of Castile and León."
+          },
+          {
+            "name": "Torreznos",
+            "tip": "Crispy fried pork belly, a classic local snack."
+          },
+          {
+            "name": "Yemas de Almazán",
+            "tip": "A sweet treat made from egg yolks, typical of the town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Duero",
+            "tip": "Ein Spaziergang entlang des Flusses bietet Ruhe und schöne Ausblicke.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten des Convento de la Merced",
+            "tip": "Ein abgeschiedener Ort für eine Pause.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Duero folyó partja",
+            "tip": "Egy séta a folyó mentén nyugalmat és szép kilátást kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Convento de la Merced kertjei",
+            "tip": "Egy eldugott hely egy kis pihenésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Duero",
+            "tip": "O plimbare de-a lungul râului oferă liniște și priveliști frumoase.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Mănăstirii la Merced",
+            "tip": "Un loc retras pentru o pauză.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Duero River",
+            "tip": "A walk along the river offers peace and beautiful views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gardens of the Convento de la Merced",
+            "tip": "A secluded spot for a break.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Konditoreien",
+            "tip": "Kaufen Sie 'Yemas de Almazán' als süßes Souvenir."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Wenn Sie an einem Markttag hier sind, finden Sie lokale Produkte und Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi cukrászdák",
+            "tip": "Vásároljon 'Yemas de Almazán'-t édes emlékként."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Ha piacnapon jár itt, helyi termékeket és kézműves árukat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Patiserii locale",
+            "tip": "Cumpărați 'Yemas de Almazán' ca suvenir dulce."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Dacă sunteți aici într-o zi de piață, veți găsi produse locale și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local patisseries",
+            "tip": "Buy 'Yemas de Almazán' as a sweet souvenir."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "If you're here on market day, you'll find local products and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich im Voraus über die Fahrpläne der lokalen Busse.",
+          "Kaufen Sie eine Tageskarte, wenn verfügbar.",
+          "Planen Sie Wartezeiten an den Haltestellen ein, da die Busse in kleinen Städten seltener fahren."
+        ],
+        "hu": [
+          "Előzetesen tájékozódjon a helyi buszok menetrendjéről.",
+          "Vásároljon napijegyet, ha elérhető.",
+          "Tervezzen be várakozási időt a megállókban, mivel a kisvárosokban ritkábban járnak a buszok."
+        ],
+        "ro": [
+          "Informați-vă în prealabil despre orarele autobuzelor locale.",
+          "Cumpărați un bilet de o zi, dacă este disponibil.",
+          "Planificați timpii de așteptare în stații, deoarece autobuzele circulă mai rar în orașele mici."
+        ],
+        "en": [
+          "Find out about the local bus schedules in advance.",
+          "Buy a day ticket if available.",
+          "Plan for waiting times at the stops, as buses may run less frequently in small towns."
+        ]
+      }
+    }
+  }
+}

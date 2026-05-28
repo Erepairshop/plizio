@@ -1,0 +1,1412 @@
+{
+  "city_id": "montenegro-petnjica-cities-v2",
+  "anchor": {
+    "name": "Petnjica",
+    "coords": [
+      19.957,
+      42.895
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 3.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Moschee von Petnjica",
+            "hu": "Petnjicai Mecset",
+            "ro": "Moscheea din Petnjica",
+            "en": "Petnjica Mosque"
+          },
+          "coords": [
+            19.9625,
+            42.9095
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie das einzigartige Holzminarett, ein charakteristisches Merkmal der regionalen Architektur.",
+            "hu": "Csodálja meg az egyedülálló fa minaretet, a regionális építészet jellegzetességét.",
+            "ro": "Admirați minaretul unic din lemn, o trăsătură distinctivă a arhitecturii regionale.",
+            "en": "Admire the unique wooden minaret, a distinctive feature of regional architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Petnjica",
+            "hu": "Petnjicai Kulturális Központ",
+            "ro": "Centrul Cultural Petnjica",
+            "en": "Petnjica Cultural Center"
+          },
+          "coords": [
+            19.9611,
+            42.9082
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie den lokalen Veranstaltungskalender; oft gibt es hier Kunstausstellungen oder Konzerte.",
+            "hu": "Nézze meg a helyi eseménynaptárt; gyakran tartanak itt művészeti kiállításokat vagy koncerteket.",
+            "ro": "Verificați calendarul local de evenimente; adesea găzduiește expoziții de artă sau concerte.",
+            "en": "Check the local event calendar; it often hosts art exhibitions or concerts."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der Bihor-Flüchtlinge",
+            "hu": "Bihori Menekültek Emlékműve",
+            "ro": "Monumentul Refugiaților din Bihor",
+            "en": "Monument to the Bihor Refugees"
+          },
+          "coords": [
+            19.964,
+            42.906
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Moment der Besinnung, um die komplexe Geschichte der Region zu verstehen.",
+            "hu": "Egy pillanatnyi elmélkedés a régió összetett történelmének megértéséhez.",
+            "ro": "Un moment de reflecție pentru a înțelege istoria complexă a regiunii.",
+            "en": "A moment of reflection to understand the complex history of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einem lokalen Restaurant",
+            "hu": "Ebéd egy helyi étteremben",
+            "ro": "Prânz la un restaurant local",
+            "en": "Lunch at a local restaurant"
+          },
+          "coords": [
+            19.963,
+            42.9075
+          ],
+          "category": "gastro",
+          "arrive_at": "12:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie „Mantije“, ein lokales Gebäck, das typisch für die Sandžak-Region ist.",
+            "hu": "Kóstolja meg a „mantije”-t, a Szandzsák régióra jellemző helyi péksüteményt.",
+            "ro": "Încercați „mantije”, un produs de patiserie local specific regiunii Sandžak.",
+            "en": "Try 'mantije', a local pastry typical of the Sandžak region."
+          }
+        },
+        {
+          "name": {
+            "de": "Natürliche Pools Bratimin Vir",
+            "hu": "Bratimin Vir természetes medencéi",
+            "ro": "Piscinele naturale Bratimin Vir",
+            "en": "Bratimin Vir Natural Pools"
+          },
+          "coords": [
+            19.949,
+            42.915
+          ],
+          "category": "natural features",
+          "arrive_at": "14:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für eine Erfrischung an heißen Tagen. Das Wasser ist kristallklar und kalt.",
+            "hu": "Tökéletes hely a felfrissülésre a forró napokon. A víz kristálytiszta és hideg.",
+            "ro": "Un loc perfect pentru a vă răcori în zilele toride. Apa este cristalină și rece.",
+            "en": "A perfect spot for refreshment on hot days. The water is crystal clear and cold."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Petnjica mit einem Besuch der historischen Moschee, einem Symbol der lokalen Kultur. Schlendern Sie durch die Straßen und nehmen Sie die ruhige Atmosphäre der Stadt in sich auf. Am Vormittag erkunden Sie das kulturelle Zentrum und das ergreifende Denkmal, das an die Geschichte der Region erinnert. Diese Sehenswürdigkeiten liegen nah beieinander und bieten einen tiefen Einblick in das Erbe von Bihor. Nach einem authentischen Mittagessen mit regionalen Spezialitäten machen Sie sich auf den Weg zu den natürlichen Pools von Bratimin Vir. Der Spaziergang dorthin führt durch eine malerische Landschaft und ist eine wunderbare Abwechslung. Verbringen Sie den Nachmittag damit, sich im kühlen Wasser zu erfrischen oder einfach nur die friedliche Naturkulisse zu genießen, bevor Sie den Tag entspannt ausklingen lassen.",
+        "hu": "Kezdje a napot Petnjica szívében a történelmi mecset meglátogatásával, amely a helyi kultúra jelképe. Sétáljon végig az utcákon, és szívja magába a városka nyugodt légkörét. Délelőtt fedezze fel a kulturális központot és a régió történelmére emlékeztető megindító emlékművet. Ezek a látnivalók közel vannak egymáshoz, és mély betekintést nyújtanak Bihor örökségébe. Egy autentikus, regionális specialitásokat felvonultató ebéd után induljon a Bratimin Vir természetes medencéihez. Az odavezető séta festői tájon visz keresztül, és csodálatos kikapcsolódást nyújt. Töltse a délutánt a hűs vízben való felfrissüléssel vagy egyszerűen csak élvezze a békés természeti környezetet, mielőtt nyugodtan lezárná a napot.",
+        "ro": "Începeți ziua în inima orașului Petnjica cu o vizită la moscheea istorică, un simbol al culturii locale. Plimbați-vă pe străzi și absorbiți atmosfera liniștită a orașului. În cursul dimineții, explorați centrul cultural și monumentul emoționant care comemorează istoria regiunii. Aceste atracții sunt apropiate și oferă o perspectivă profundă asupra moștenirii Bihorului. După un prânz autentic cu specialități regionale, porniți spre piscinele naturale de la Bratimin Vir. Plimbarea până acolo vă poartă printr-un peisaj pitoresc și este o schimbare minunată. Petreceți după-amiaza răcorindu-vă în apa rece sau pur și simplu bucurându-vă de peisajul natural pașnic înainte de a încheia ziua într-un mod relaxat.",
+        "en": "Start your day in the heart of Petnjica with a visit to the historic mosque, a symbol of local culture. Stroll through the streets and absorb the town's tranquil atmosphere. In the morning, explore the cultural center and the poignant monument commemorating the region's history. These sights are close to each other and offer a deep insight into the heritage of Bihor. After an authentic lunch featuring regional specialties, head towards the Bratimin Vir natural pools. The walk there takes you through picturesque scenery and is a wonderful change of pace. Spend the afternoon refreshing yourself in the cool water or simply enjoying the peaceful natural setting before winding down your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mantije",
+            "tip": "Herzhaftes Gebäck, oft mit Hackfleisch oder Käse gefüllt, ein Muss in der Region."
+          },
+          {
+            "name": "Kačamak",
+            "tip": "Ein traditionelles Maisbrei-Gericht, ähnlich der Polenta, serviert mit Käse und Kajmak."
+          },
+          {
+            "name": "Lokaler Honig",
+            "tip": "Die Wiesen von Bihor sind für ihren aromatischen Honig bekannt. Suchen Sie nach Imkern, die direkt verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mantije",
+            "tip": "Húsos vagy sajtos töltelékkel készült sós sütemény, kötelező kóstolni a régióban."
+          },
+          {
+            "name": "Kačamak",
+            "tip": "Hagyományos kukoricakása, a polentához hasonló, sajttal és kajmakkal tálalva."
+          },
+          {
+            "name": "Helyi méz",
+            "tip": "A bihori rétek aromás mézükről híresek. Keressen közvetlenül árusító méhészeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mantije",
+            "tip": "Plăcintă sărată, adesea umplută cu carne tocată sau brânză, o necesitate în regiune."
+          },
+          {
+            "name": "Kačamak",
+            "tip": "Un fel de mâncare tradițional din mălai, similar cu mămăliga, servit cu brânză și caimac."
+          },
+          {
+            "name": "Miere locală",
+            "tip": "Pajiștile din Bihor sunt renumite pentru mierea lor aromatică. Căutați apicultori care vând direct."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mantije",
+            "tip": "A savory pastry, often filled with minced meat or cheese, a must-try in the region."
+          },
+          {
+            "name": "Kačamak",
+            "tip": "A traditional cornmeal porridge, similar to polenta, served with cheese and kajmak."
+          },
+          {
+            "name": "Local Honey",
+            "tip": "The meadows of Bihor are known for their aromatic honey. Look for beekeepers selling directly."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Popča-Flusses",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses, um dem Trubel zu entkommen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bratimin Vir Pools",
+            "tip": "Außerhalb der Stoßzeiten finden Sie hier absolute Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Wiesen oberhalb der Stadt",
+            "tip": "Suchen Sie sich einen Platz auf den Hügeln für eine tolle Aussicht und Stille.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Popča folyó partja",
+            "tip": "Egy csendes séta a folyó mentén, hogy elmeneküljön a nyüzsgéstől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bratimin Vir medencék",
+            "tip": "Csúcsidőn kívül teljes nyugalmat talál itt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Rétek a város felett",
+            "tip": "Keressen egy helyet a dombokon a nagyszerű kilátásért és a csendért.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Popča",
+            "tip": "O plimbare liniștită de-a lungul râului pentru a scăpa de agitație.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Piscinele Bratimin Vir",
+            "tip": "În afara orelor de vârf, veți găsi aici o liniște absolută.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pajiști deasupra orașului",
+            "tip": "Găsiți un loc pe dealuri pentru o priveliște superbă și liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Popča River",
+            "tip": "A quiet walk along the river to escape the hustle and bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bratimin Vir Pools",
+            "tip": "Outside of peak hours, you will find absolute tranquility here.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Meadows above the town",
+            "tip": "Find a spot on the hills for a great view and silence.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte, Käse und hausgemachte Waren."
+          },
+          {
+            "name": "Handgefertigte Wollwaren",
+            "tip": "Halten Sie Ausschau nach handgestrickten Socken, Pullovern und Teppichen, einer lokalen Spezialität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket, sajtot és házi készítésű árukat."
+          },
+          {
+            "name": "Kézzel készített gyapjútermékek",
+            "tip": "Keresse a kézzel kötött zoknikat, pulóvereket és szőnyegeket, amelyek helyi specialitásnak számítanak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse proaspete, brânzeturi și produse de casă."
+          },
+          {
+            "name": "Articole din lână lucrate manual",
+            "tip": "Căutați șosete, pulovere și covoare tricotate manual, o specialitate locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for fresh produce, cheese, and homemade goods."
+          },
+          {
+            "name": "Handmade Woolens",
+            "tip": "Look for hand-knitted socks, sweaters, and rugs, a local specialty."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel auf unebenem Gelände unterwegs sein werden.",
+          "Nehmen Sie Bargeld mit, da nicht alle kleinen Geschäfte und Cafés Karten akzeptieren.",
+          "Ein kleiner Rucksack mit Wasser und Snacks ist für den Spaziergang zu den Pools unerlässlich.",
+          "Respektieren Sie die lokalen Bräuche, insbesondere beim Besuch religiöser Stätten."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni egyenetlen terepen.",
+          "Vigyen magával készpénzt, mivel nem minden kis üzlet és kávézó fogad el kártyát.",
+          "Egy kis hátizsák vízzel és rágcsálnivalóval elengedhetetlen a medencékhez vezető sétához.",
+          "Tartsa tiszteletben a helyi szokásokat, különösen a vallási helyszínek látogatásakor."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe teren accidentat.",
+          "Luați numerar cu dumneavoastră, deoarece nu toate magazinele mici și cafenelele acceptă carduri.",
+          "Un rucsac mic cu apă și gustări este esențial pentru plimbarea la piscine.",
+          "Respectați obiceiurile locale, în special atunci când vizitați lăcașuri de cult."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be walking a lot on uneven terrain.",
+          "Bring cash, as not all small shops and cafes accept cards.",
+          "A small backpack with water and snacks is essential for the walk to the pools.",
+          "Respect local customs, especially when visiting religious sites."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Festung Bihor (Gradina)",
+            "hu": "Bihori erőd (Gradina)",
+            "ro": "Fortăreața Bihor (Gradina)",
+            "en": "Bihor Fortress (Gradina)"
+          },
+          "coords": [
+            19.975,
+            42.925
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Aufstieg ist anspruchsvoll, aber die Aussicht von den Ruinen ist die Mühe wert.",
+            "hu": "A feljutás kihívást jelent, de a romoktól nyíló kilátás megéri a fáradságot.",
+            "ro": "Urcușul este solicitant, dar priveliștea de la ruine merită efortul.",
+            "en": "The climb is challenging, but the view from the ruins is worth the effort."
+          }
+        },
+        {
+          "name": {
+            "de": "Turjak-Aussichtspunkte",
+            "hu": "Turjak kilátópontok",
+            "ro": "Punctele de belvedere Turjak",
+            "en": "Turjak Viewpoints"
+          },
+          "coords": [
+            19.98,
+            42.928
+          ],
+          "category": "natural features",
+          "arrive_at": "11:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Von hier aus haben Sie den besten Panoramablick auf das Bihor-Gebiet.",
+            "hu": "Innen nyílik a legjobb panoráma a Bihor-vidékre.",
+            "ro": "De aici aveți cea mai bună vedere panoramică asupra zonei Bihor.",
+            "en": "From here you have the best panoramic view of the Bihor area."
+          }
+        },
+        {
+          "name": {
+            "de": "Moschee von Petnjica",
+            "hu": "Petnjicai Mecset",
+            "ro": "Moscheea din Petnjica",
+            "en": "Petnjica Mosque"
+          },
+          "coords": [
+            19.9625,
+            42.9095
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Nach der Abfahrt ins Tal ist dies ein guter Ort für eine kurze Pause.",
+            "hu": "A völgybe való leereszkedés után ez egy jó hely egy rövid pihenőre.",
+            "ro": "După coborârea în vale, acesta este un loc bun pentru o scurtă pauză.",
+            "en": "After descending into the valley, this is a good spot for a short break."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Petnjica",
+            "hu": "Ebéd Petnjicában",
+            "ro": "Prânz în Petnjica",
+            "en": "Lunch in Petnjica"
+          },
+          "coords": [
+            19.963,
+            42.9075
+          ],
+          "category": "gastro",
+          "arrive_at": "12:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tanken Sie neue Energie mit herzhafter lokaler Küche, bevor Sie die nächste Etappe in Angriff nehmen.",
+            "hu": "Töltődjön fel kiadós helyi ételekkel, mielőtt nekivág a következő szakasznak.",
+            "ro": "Realimentați-vă cu preparate locale consistente înainte de a aborda următoarea etapă.",
+            "en": "Refuel with hearty local cuisine before tackling the next stage."
+          }
+        },
+        {
+          "name": {
+            "de": "Natürliche Pools Bratimin Vir",
+            "hu": "Bratimin Vir természetes medencéi",
+            "ro": "Piscinele naturale Bratimin Vir",
+            "en": "Bratimin Vir Natural Pools"
+          },
+          "coords": [
+            19.949,
+            42.915
+          ],
+          "category": "natural features",
+          "arrive_at": "14:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein erfrischendes Bad ist nach der Radtour genau das Richtige.",
+            "hu": "Egy frissítő fürdő éppen megfelelő a kerékpártúra után.",
+            "ro": "O baie răcoritoare este exact ceea ce trebuie după turul cu bicicleta.",
+            "en": "A refreshing dip is just the thing after the bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Popča-Flusscanyon",
+            "hu": "Popča-folyó kanyonja",
+            "ro": "Canionul râului Popča",
+            "en": "Popča River Canyon"
+          },
+          "coords": [
+            19.94,
+            42.9
+          ],
+          "category": "natural features",
+          "arrive_at": "16:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Folgen Sie dem Pfad entlang des Flusses für beeindruckende Ausblicke auf den Canyon.",
+            "hu": "Kövesse az ösvényt a folyó mentén a kanyon lenyűgöző látványáért.",
+            "ro": "Urmați poteca de-a lungul râului pentru vederi impresionante ale canionului.",
+            "en": "Follow the path along the river for impressive views of the canyon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt mit einem anspruchsvollen Anstieg zur Festung Bihor, wo historische Ruinen und eine fantastische Aussicht auf Sie warten. Der nahegelegene Turjak-Aussichtspunkt bietet ein noch umfassenderes Panorama der Region. Anschließend rollen Sie hinunter ins Tal nach Petnjica. Nach der rasanten Abfahrt können Sie an der Moschee kurz durchatmen, bevor Sie sich mit einem traditionellen Mittagessen für die zweite Hälfte des Tages stärken. Am Nachmittag führt Sie Ihre Route zu den kühlen, natürlichen Pools von Bratimin Vir – die perfekte Belohnung nach der Anstrengung. Zum Abschluss des Tages erkunden Sie den malerischen Popča-Flusscanyon, eine friedliche und beeindruckende Naturlandschaft, die den perfekten Ausklang für Ihr Abenteuer bildet.",
+        "hu": "Kerékpártúrája egy kihívást jelentő emelkedővel kezdődik a Bihori erődhöz, ahol történelmi romok és fantasztikus kilátás várja. A közeli Turjak kilátópont még átfogóbb panorámát kínál a régióra. Ezután legurul a völgybe, Petnjicába. A gyors leereszkedés után a mecsetnél vehet egy rövid lélegzetet, mielőtt egy hagyományos ebéddel megerősítené magát a nap második felére. Délután az útvonal a hűs, természetes Bratimin Vir medencékhez vezet – a tökéletes jutalom az erőfeszítés után. A nap zárásaként fedezze fel a festői Popča-folyó kanyonját, egy békés és lenyűgöző természeti tájat, amely tökéletes lezárása a kalandnak.",
+        "ro": "Turul cu bicicleta începe cu o urcare provocatoare spre Fortăreața Bihor, unde vă așteaptă ruine istorice și o priveliște fantastică. Punctul de belvedere Turjak, aflat în apropiere, oferă o panoramă și mai cuprinzătoare a regiunii. Apoi, coborâți în vale spre Petnjica. După coborârea rapidă, puteți lua o scurtă pauză la moschee înainte de a vă întări cu un prânz tradițional pentru a doua jumătate a zilei. După-amiaza, traseul vă duce la piscinele naturale răcoroase de la Bratimin Vir – recompensa perfectă după efort. La sfârșitul zilei, explorați pitorescul canion al râului Popča, un peisaj natural pașnic și impresionant, care reprezintă finalul perfect pentru aventura dumneavoastră.",
+        "en": "Your bike tour starts with a challenging climb to Bihor Fortress, where historic ruins and a fantastic view await you. The nearby Turjak viewpoint offers an even more comprehensive panorama of the region. Afterwards, you'll roll down into the valley to Petnjica. After the rapid descent, you can take a short breather at the mosque before fortifying yourself with a traditional lunch for the second half of the day. In the afternoon, your route takes you to the cool, natural pools of Bratimin Vir – the perfect reward after the effort. To end the day, explore the picturesque Popča River Canyon, a peaceful and impressive natural landscape that provides the perfect conclusion to your adventure."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Grillfleisch",
+            "tip": "Ćevapi oder Pljeskavica sind perfekt, um nach einer langen Radtour wieder zu Kräften zu kommen."
+          },
+          {
+            "name": "Frischer Salat",
+            "tip": "Ein Šopska-Salat mit Tomaten, Gurken und Käse ist eine leichte und erfrischende Beilage."
+          },
+          {
+            "name": "Boza",
+            "tip": "Ein traditionelles, leicht fermentiertes Getränk aus Mais und Weizen, sehr erfrischend."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett húsok",
+            "tip": "A Ćevapi vagy a Pljeskavica tökéletes az erőnlét visszanyeréséhez egy hosszú kerékpártúra után."
+          },
+          {
+            "name": "Friss saláta",
+            "tip": "A paradicsomból, uborkából és sajtból készült Šopska saláta könnyű és frissítő köret."
+          },
+          {
+            "name": "Boza",
+            "tip": "Hagyományos, enyhén erjesztett ital kukoricából és búzából, nagyon frissítő."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Carne la grătar",
+            "tip": "Ćevapi sau Pljeskavica sunt perfecte pentru a vă reface puterile după un tur lung cu bicicleta."
+          },
+          {
+            "name": "Salată proaspătă",
+            "tip": "O salată Šopska cu roșii, castraveți și brânză este o garnitură ușoară și răcoritoare."
+          },
+          {
+            "name": "Boza",
+            "tip": "O băutură tradițională, ușor fermentată, din porumb și grâu, foarte răcoritoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled Meat",
+            "tip": "Ćevapi or Pljeskavica are perfect for regaining strength after a long bike ride."
+          },
+          {
+            "name": "Fresh Salad",
+            "tip": "A Šopska salad with tomatoes, cucumbers, and cheese is a light and refreshing side dish."
+          },
+          {
+            "name": "Boza",
+            "tip": "A traditional, slightly fermented drink made from corn and wheat, very refreshing."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Turjak-Aussichtspunkte",
+            "tip": "Genießen Sie die Stille und den weiten Blick, bevor Sie ins Tal zurückkehren.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Popča-Flusscanyon",
+            "tip": "Das Rauschen des Flusses ist das einzige Geräusch in dieser friedlichen Schlucht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rastplatz auf dem Weg zur Festung",
+            "tip": "Machen Sie auf halbem Weg eine Pause und genießen Sie die Ruhe des Waldes.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Turjak kilátópontok",
+            "tip": "Élvezze a csendet és a széles kilátást, mielőtt visszatér a völgybe.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Popča-folyó kanyonja",
+            "tip": "A folyó zúgása az egyetlen zaj ebben a békés szurdokban.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pihenőhely az erőd felé vezető úton",
+            "tip": "Félúton tartson szünetet és élvezze az erdő csendjét.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punctele de belvedere Turjak",
+            "tip": "Bucurați-vă de liniște și de priveliștea panoramică înainte de a vă întoarce în vale.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Canionul râului Popča",
+            "tip": "Murmurul râului este singurul sunet din acest canion pașnic.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Loc de odihnă pe drumul spre fortăreață",
+            "tip": "Faceți o pauză la jumătatea drumului și bucurați-vă de liniștea pădurii.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Turjak Viewpoints",
+            "tip": "Enjoy the silence and the wide view before returning to the valley.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Popča River Canyon",
+            "tip": "The murmur of the river is the only sound in this peaceful canyon.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rest stop on the way to the fortress",
+            "tip": "Take a break halfway and enjoy the quiet of the forest.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Ein Glas Bergwiesenhonig ist ein perfektes, energiereiches Souvenir."
+          },
+          {
+            "name": "Getrocknete Kräuter",
+            "tip": "Sammeln Sie Tee und Gewürze aus der Region auf dem lokalen Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Egy üveg hegyi réti méz tökéletes, energiadús szuvenír."
+          },
+          {
+            "name": "Szárított gyógynövények",
+            "tip": "Gyűjtsön teát és fűszereket a régióból a helyi piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Un borcan de miere de pajiște de munte este un suvenir perfect, plin de energie."
+          },
+          {
+            "name": "Ierburi uscate",
+            "tip": "Adunați ceaiuri și condimente din regiune de la piața locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "A jar of mountain meadow honey is a perfect, energy-rich souvenir."
+          },
+          {
+            "name": "Dried Herbs",
+            "tip": "Collect teas and spices from the region at the local market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein Mountainbike oder zumindest ein Fahrrad mit guter Gangschaltung wird für die Anstiege dringend empfohlen.",
+          "Nehmen Sie ausreichend Wasser mit, da es auf den höheren Lagen keine Quellen gibt.",
+          "Ein Reparaturset für Reifenpannen ist eine gute Vorsichtsmaßnahme.",
+          "Prüfen Sie die Wettervorhersage; die Bedingungen in den Bergen können sich schnell ändern."
+        ],
+        "hu": [
+          "Hegyi kerékpár vagy legalább egy jó váltóval rendelkező kerékpár erősen ajánlott az emelkedőkhöz.",
+          "Vigyen elegendő vizet, mivel a magasabb részeken nincsenek források.",
+          "Egy defektjavító készlet jó óvintézkedés.",
+          "Ellenőrizze az időjárás-előrejelzést; a hegyekben az időjárás gyorsan változhat."
+        ],
+        "ro": [
+          "O bicicletă de munte sau cel puțin o bicicletă cu un schimbător de viteze bun este foarte recomandată pentru urcări.",
+          "Luați suficientă apă, deoarece nu există izvoare la altitudini mai mari.",
+          "Un kit de reparații pentru pană de cauciuc este o bună măsură de precauție.",
+          "Verificați prognoza meteo; condițiile la munte se pot schimba rapid."
+        ],
+        "en": [
+          "A mountain bike or at least a bike with good gears is highly recommended for the climbs.",
+          "Bring plenty of water, as there are no springs at the higher elevations.",
+          "A puncture repair kit is a good precaution.",
+          "Check the weather forecast; conditions in the mountains can change quickly."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 52.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz an der Festung Bihor",
+            "hu": "Parkoló a Bihori erőd mellett",
+            "ro": "Parcare la Fortăreața Bihor",
+            "en": "Parking at Bihor Fortress"
+          },
+          "coords": [
+            19.974,
+            42.924
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:25",
+          "stay_min": 10,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag hier. Parken Sie das Auto und erkunden Sie den ersten Cluster zu Fuß.",
+            "hu": "Kezdje itt a napot. Parkolja le az autót és fedezze fel az első klasztert gyalog.",
+            "ro": "Începeți ziua aici. Parcați mașina și explorați primul grup de obiective pe jos.",
+            "en": "Start the day here. Park the car and explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Bihor (Gradina)",
+            "hu": "Bihori erőd (Gradina)",
+            "ro": "Fortăreața Bihor (Gradina)",
+            "en": "Bihor Fortress (Gradina)"
+          },
+          "coords": [
+            19.975,
+            42.925
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, um die Ruinen zu erkunden und die historische Atmosphäre aufzusaugen.",
+            "hu": "Szánjon időt a romok felfedezésére és a történelmi légkör magába szívására.",
+            "ro": "Luați-vă timp pentru a explora ruinele și a absorbi atmosfera istorică.",
+            "en": "Take your time to explore the ruins and soak up the historical atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Turjak-Aussichtspunkte",
+            "hu": "Turjak kilátópontok",
+            "ro": "Punctele de belvedere Turjak",
+            "en": "Turjak Viewpoints"
+          },
+          "coords": [
+            19.98,
+            42.928
+          ],
+          "category": "natural features",
+          "arrive_at": "11:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Festung für eine noch bessere Aussicht. Perfekt für Fotos.",
+            "hu": "Rövid séta az erődtől a még jobb kilátásért. Tökéletes fotózáshoz.",
+            "ro": "O scurtă plimbare de la fortăreață pentru o priveliște și mai bună. Perfect pentru fotografii.",
+            "en": "A short walk from the fortress for an even better view. Perfect for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz im Zentrum von Petnjica",
+            "hu": "Parkoló Petnjica központjában",
+            "ro": "Parcare în centrul orașului Petnjica",
+            "en": "Parking in Petnjica Center"
+          },
+          "coords": [
+            19.962,
+            42.909
+          ],
+          "category": "gastro",
+          "arrive_at": "12:12",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie für den Mittagscluster. Wählen Sie ein Restaurant und erkunden Sie die Moschee.",
+            "hu": "Parkoljon az ebédklaszterhez. Válasszon egy éttermet és fedezze fel a mecsetet.",
+            "ro": "Parcați pentru grupul de prânz. Alegeți un restaurant și explorați moscheea.",
+            "en": "Park for the lunch cluster. Choose a restaurant and explore the mosque."
+          }
+        },
+        {
+          "name": {
+            "de": "Moschee von Petnjica",
+            "hu": "Petnjicai Mecset",
+            "ro": "Moscheea din Petnjica",
+            "en": "Petnjica Mosque"
+          },
+          "coords": [
+            19.9625,
+            42.9095
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:52",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang nach dem Mittagessen, um das architektonische Juwel der Stadt zu besichtigen.",
+            "hu": "Rövid séta ebéd után, hogy megtekintse a város építészeti gyöngyszemét.",
+            "ro": "O scurtă plimbare după prânz pentru a vedea bijuteria arhitecturală a orașului.",
+            "en": "A short walk after lunch to see the town's architectural gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Zugang zur Đalovića-Höhle",
+            "hu": "Bejárat a Đalovića-barlanghoz",
+            "ro": "Acces la peștera Đalovića",
+            "en": "Đalovića Cave Access"
+          },
+          "coords": [
+            19.845,
+            42.99
+          ],
+          "category": "natural features",
+          "arrive_at": "15:22",
+          "stay_min": 120,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 35.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Die Fahrt ist lang, aber der Besuch dieses Höhlensystems ist ein unvergessliches Erlebnis. Planen Sie genug Zeit ein.",
+            "hu": "Az út hosszú, de ennek a barlangrendszernek a meglátogatása felejthetetlen élmény. Tervezzen elég időt.",
+            "ro": "Drumul este lung, dar vizitarea acestui sistem de peșteri este o experiență de neuitat. Planificați suficient timp.",
+            "en": "The drive is long, but visiting this cave system is an unforgettable experience. Plan enough time."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in einem Restaurant mit Aussicht",
+            "hu": "Vacsora egy kilátással rendelkező étteremben",
+            "ro": "Cină la un restaurant cu priveliște",
+            "en": "Dinner at a restaurant with a view"
+          },
+          "coords": [
+            19.95,
+            42.91
+          ],
+          "category": "gastro",
+          "arrive_at": "18:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag auf dem Rückweg in einem Restaurant mit Blick auf das Tal.",
+            "hu": "A napot a visszaúton fejezze be egy völgyre néző étteremben.",
+            "ro": "Încheiați ziua pe drumul de întoarcere la un restaurant cu vedere la vale.",
+            "en": "End the day on your way back at a restaurant overlooking the valley."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einer Fahrt zum ersten Cluster, der Festung Bihor. Parken Sie Ihr Auto und erkunden Sie die historischen Ruinen und die nahegelegenen Turjak-Aussichtspunkte zu Fuß, um die atemberaubende Landschaft zu genießen. Gegen Mittag fahren Sie hinunter nach Petnjica. Hier parken Sie erneut und entdecken den Stadtkern. Nach einem stärkenden Mittagessen in einem lokalen Restaurant besichtigen Sie die berühmte Moschee der Stadt, die nur einen kurzen Spaziergang entfernt ist. Der Nachmittag ist einem größeren Abenteuer gewidmet: einer längeren Fahrt zum beeindruckenden Đalovića-Höhlensystem. Planen Sie für diese Erkundung genügend Zeit ein, es ist ein Höhepunkt der Region. Auf dem Rückweg lassen Sie den erlebnisreichen Tag bei einem gemütlichen Abendessen in einem Restaurant mit Panoramablick auf das Tal ausklingen.",
+        "hu": "A napja egy utazással kezdődik az első klaszterhez, a Bihori erődhez. Parkolja le autóját, és fedezze fel gyalog a történelmi romokat és a közeli Turjak kilátópontokat, hogy élvezze a lélegzetelállító tájat. Dél körül autózzon le Petnjicába. Itt ismét parkoljon le, és fedezze fel a városközpontot. Egy helyi étteremben elfogyasztott kiadós ebéd után tekintse meg a város híres mecsetjét, amely csak egy rövid sétára található. A délután egy nagyobb kalandnak van szentelve: egy hosszabb utazás a lenyűgöző Đalovića-barlangrendszerhez. Tervezzen elegendő időt ennek a felfedezésére, ez a régió egyik fénypontja. Visszafelé egy hangulatos vacsorával zárja az eseménydús napot egy völgyre néző panorámás étteremben.",
+        "ro": "Ziua dumneavoastră începe cu o călătorie cu mașina către primul grup de obiective, Fortăreața Bihor. Parcați mașina și explorați pe jos ruinele istorice și punctele de belvedere Turjak din apropiere pentru a vă bucura de peisajul uluitor. În jurul prânzului, coborâți cu mașina la Petnjica. Aici parcați din nou și descoperiți centrul orașului. După un prânz copios la un restaurant local, vizitați faimoasa moschee a orașului, aflată la o scurtă plimbare. După-amiaza este dedicată unei aventuri mai mari: o călătorie mai lungă cu mașina până la impresionantul sistem de peșteri Đalovića. Planificați suficient timp pentru această explorare, este un punct culminant al regiunii. Pe drumul de întoarcere, încheiați ziua plină de evenimente cu o cină relaxantă la un restaurant cu vedere panoramică la vale.",
+        "en": "Your day starts with a drive to the first cluster, Bihor Fortress. Park your car and explore the historic ruins and the nearby Turjak viewpoints on foot to enjoy the breathtaking scenery. Around noon, drive down to Petnjica. Park here again and discover the town center. After a hearty lunch at a local restaurant, visit the town's famous mosque, just a short walk away. The afternoon is dedicated to a bigger adventure: a longer drive to the impressive Đalovića Cave system. Plan enough time for this exploration, it's a highlight of the region. On the way back, end the eventful day with a leisurely dinner at a restaurant with panoramic views of the valley."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lammfleisch vom Spieß (Jagnjetina)",
+            "tip": "Eine Delikatesse, die oft in Restaurants außerhalb der Stadt angeboten wird."
+          },
+          {
+            "name": "Hausgemachter Käse und Kajmak",
+            "tip": "Suchen Sie nach Restaurants, die ihre eigenen Milchprodukte herstellen."
+          },
+          {
+            "name": "Pita",
+            "tip": "Ein dünner Teigfladen, gefüllt mit Käse, Spinat oder Fleisch, perfekt für ein schnelles Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nyárson sült bárány (Jagnjetina)",
+            "tip": "Finomság, amelyet gyakran kínálnak a városon kívüli éttermekben."
+          },
+          {
+            "name": "Házi sajt és kajmak",
+            "tip": "Keressen olyan éttermeket, amelyek saját tejtermékeket készítenek."
+          },
+          {
+            "name": "Pita",
+            "tip": "Sajttal, spenóttal vagy hússal töltött vékony tészta, tökéletes egy gyors ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miel la proțap (Jagnjetina)",
+            "tip": "O delicatesă adesea oferită în restaurantele din afara orașului."
+          },
+          {
+            "name": "Brânză de casă și caimac",
+            "tip": "Căutați restaurante care își produc propriile lactate."
+          },
+          {
+            "name": "Pita",
+            "tip": "O plăcintă subțire umplută cu brânză, spanac sau carne, perfectă pentru un prânz rapid."
+          }
+        ],
+        "en": [
+          {
+            "name": "Spit-roasted lamb (Jagnjetina)",
+            "tip": "A delicacy often offered in restaurants outside the town."
+          },
+          {
+            "name": "Homemade cheese and kajmak",
+            "tip": "Look for restaurants that make their own dairy products."
+          },
+          {
+            "name": "Pita",
+            "tip": "A thin pastry filled with cheese, spinach, or meat, perfect for a quick lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussicht von der Festung Bihor",
+            "tip": "Frühmorgens ist es hier am ruhigsten, mit magischem Licht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ein Spaziergang im Popča-Canyon",
+            "tip": "Wenn Sie Zeit haben, ist dies ein friedlicher Umweg.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ein Picknickplatz in den Bergen",
+            "tip": "Halten Sie an einem schönen Ort auf dem Weg zur Höhle an.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a Bihori erődről",
+            "tip": "Kora reggel a legcsendesebb itt, varázslatos fénnyel.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Séta a Popča-kanyonban",
+            "tip": "Ha van ideje, ez egy békés kitérő.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Piknikezőhely a hegyekben",
+            "tip": "Álljon meg egy szép helyen a barlang felé vezető úton.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la Fortăreața Bihor",
+            "tip": "Dimineața devreme este cel mai liniștit aici, cu o lumină magică.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "O plimbare în canionul Popča",
+            "tip": "Dacă aveți timp, acesta este un ocol pașnic.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Un loc de picnic la munte",
+            "tip": "Opriți-vă într-un loc frumos pe drumul spre peșteră.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from Bihor Fortress",
+            "tip": "Early in the morning it is quietest here, with magical light.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A walk in the Popča Canyon",
+            "tip": "If you have time, this is a peaceful detour.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A picnic spot in the mountains",
+            "tip": "Stop at a beautiful spot on the way to the cave.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Straßenstände",
+            "tip": "Kaufen Sie Honig, Marmelade und Schnaps direkt von den Erzeugern entlang der Landstraßen."
+          },
+          {
+            "name": "Holzschnitzereien",
+            "tip": "In der Region gibt es talentierte Handwerker, die traditionelle Holzgegenstände herstellen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Útszéli standok",
+            "tip": "Vásároljon mézet, lekvárt és pálinkát közvetlenül a termelőktől az országutak mentén."
+          },
+          {
+            "name": "Fafaragások",
+            "tip": "A régióban tehetséges kézművesek készítenek hagyományos fatárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tarabe de pe marginea drumului",
+            "tip": "Cumpărați miere, gem și rachiu direct de la producători de-a lungul drumurilor de țară."
+          },
+          {
+            "name": "Sculpturi în lemn",
+            "tip": "Regiunea are meșteri talentați care realizează obiecte tradiționale din lemn."
+          }
+        ],
+        "en": [
+          {
+            "name": "Roadside stalls",
+            "tip": "Buy honey, jam, and schnapps directly from producers along the country roads."
+          },
+          {
+            "name": "Wood carvings",
+            "tip": "The region has talented artisans who create traditional wooden items."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tanken Sie Ihr Auto voll, bevor Sie Petnjica verlassen, da Tankstellen in den Bergregionen rar sind.",
+          "Die Straßen können eng und kurvenreich sein. Fahren Sie vorsichtig.",
+          "Laden Sie Karten offline herunter, da der Handyempfang lückenhaft sein kann.",
+          "Prüfen Sie die Öffnungszeiten der Đalovića-Höhle im Voraus."
+        ],
+        "hu": [
+          "Töltse tele az autóját, mielőtt elhagyja Petnjicát, mivel a hegyvidéki régiókban ritkák a benzinkutak.",
+          "Az utak szűkek és kanyargósak lehetnek. Vezessen óvatosan.",
+          "Töltse le a térképeket offline, mivel a mobil vétel foltos lehet.",
+          "Előre ellenőrizze a Đalovića-barlang nyitvatartási idejét."
+        ],
+        "ro": [
+          "Alimentați-vă mașina înainte de a părăsi Petnjica, deoarece benzinăriile sunt rare în regiunile muntoase.",
+          "Drumurile pot fi înguste și sinuoase. Conduceți cu prudență.",
+          "Descărcați hărțile offline, deoarece acoperirea rețelei de telefonie mobilă poate fi slabă.",
+          "Verificați în avans programul de funcționare al peșterii Đalovića."
+        ],
+        "en": [
+          "Fill up your car before leaving Petnjica, as gas stations are scarce in the mountain regions.",
+          "The roads can be narrow and winding. Drive carefully.",
+          "Download maps offline, as cell reception can be patchy.",
+          "Check the opening hours of the Đalovića Cave in advance."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 10.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bus nach Radman Do",
+            "hu": "Busz Radman Do felé",
+            "ro": "Autobuz spre Radman Do",
+            "en": "Bus to Radman Do"
+          },
+          "coords": [
+            19.96,
+            42.91
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus in Richtung der Bergdörfer. Steigen Sie in der Nähe des Weges zur Festung aus.",
+            "hu": "Vegyen egy helyi buszt a hegyi falvak felé. Szálljon le az erőd felé vezető ösvény közelében.",
+            "ro": "Luați un autobuz local spre satele de munte. Coborâți lângă poteca spre fortăreață.",
+            "en": "Take a local bus towards the mountain villages. Get off near the trail to the fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Wanderung zur Festung Bihor",
+            "hu": "Túra a Bihori erődhöz",
+            "ro": "Drumeție la Fortăreața Bihor",
+            "en": "Hike to Bihor Fortress"
+          },
+          "coords": [
+            19.975,
+            42.925
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:40",
+          "stay_min": 70,
+          "hop_from_prev_min": 90,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Wanderung ist Teil des Erlebnisses. Genießen Sie die Natur und die Aussicht.",
+            "hu": "A túra az élmény része. Élvezze a természetet és a kilátást.",
+            "ro": "Drumeția face parte din experiență. Bucurați-vă de natură și de priveliști.",
+            "en": "The hike is part of the experience. Enjoy the nature and the views."
+          }
+        },
+        {
+          "name": {
+            "de": "Wanderung zurück nach Petnjica und Mittagessen",
+            "hu": "Túra vissza Petnjicába és ebéd",
+            "ro": "Drumeție înapoi la Petnjica și prânz",
+            "en": "Hike back to Petnjica and Lunch"
+          },
+          "coords": [
+            19.963,
+            42.9075
+          ],
+          "category": "gastro",
+          "arrive_at": "13:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 80,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach der Rückkehr in die Stadt haben Sie sich ein herzhaftes Mahl verdient.",
+            "hu": "Miután visszatért a városba, megérdemel egy kiadós étkezést.",
+            "ro": "După ce vă întoarceți în oraș, ați meritat o masă copioasă.",
+            "en": "After returning to town, you've earned a hearty meal."
+          }
+        },
+        {
+          "name": {
+            "de": "Moschee und Kulturzentrum",
+            "hu": "Mecset és Kulturális Központ",
+            "ro": "Moscheea și Centrul Cultural",
+            "en": "Mosque and Cultural Center"
+          },
+          "coords": [
+            19.9618,
+            42.9088
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die wichtigsten Sehenswürdigkeiten im Zentrum nach dem Mittagessen.",
+            "hu": "Ebéd után fedezze fel a központ legfontosabb látnivalóit.",
+            "ro": "Explorați principalele atracții din centru după prânz.",
+            "en": "Explore the main sights in the center after lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Popča-Fluss",
+            "hu": "Séta a Popča folyó mentén",
+            "ro": "Plimbare pe malul râului Popča",
+            "en": "Walk along the Popča River"
+          },
+          "coords": [
+            19.95,
+            42.9
+          ],
+          "category": "natural features",
+          "arrive_at": "16:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannter Ausklang des Tages am Wasser, bevor Sie den Bus zurück nehmen.",
+            "hu": "Pihentető befejezése a napnak a vízparton, mielőtt visszaindulna a busszal.",
+            "ro": "O încheiere relaxantă a zilei la malul apei înainte de a lua autobuzul înapoi.",
+            "en": "A relaxing end to the day by the water before you take the bus back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt mit einer Busfahrt in die Berge. Von der Haltestelle aus unternehmen Sie eine belebende Wanderung zur Festung Bihor, die Sie mit spektakulären Ausblicken belohnt. Genießen Sie die Ruhe und die historische Stätte in Ihrem eigenen Tempo. Nach dem Abstieg wandern Sie zurück ins Zentrum von Petnjica, wo ein wohlverdientes, traditionelles Mittagessen auf Sie wartet. Gestärkt erkunden Sie am Nachmittag die zentralen Sehenswürdigkeiten der Stadt, die Moschee und das Kulturzentrum, die beide bequem zu Fuß erreichbar sind. Bevor Sie den Bus für die Rückfahrt nehmen, lassen Sie den Tag mit einem friedlichen Spaziergang entlang des Popča-Flusscanyons ausklingen und genießen die natürliche Schönheit der Region.",
+        "hu": "A tömegközlekedéssel töltött napja egy buszúttal kezdődik a hegyekbe. A megállótól egy élénkítő túrát tesz a Bihori erődhöz, amely látványos kilátással jutalmazza. Élvezze a nyugalmat és a történelmi helyszínt a saját tempójában. A leereszkedés után visszatúrázik Petnjica központjába, ahol egy jól megérdemelt, hagyományos ebéd várja. Megerősödve délután felfedezi a város központi látnivalóit, a mecsetet és a kulturális központot, mindkettő kényelmesen elérhető gyalog. Mielőtt felszállna a visszaúti buszra, egy békés sétával zárja a napot a Popča-folyó kanyonja mentén, élvezve a régió természeti szépségét.",
+        "ro": "Ziua dumneavoastră cu transportul public începe cu o călătorie cu autobuzul spre munți. De la stație, faceți o drumeție revigorantă până la Fortăreața Bihor, care vă va răsplăti cu priveliști spectaculoase. Bucurați-vă de liniște și de situl istoric în ritmul dumneavoastră. După coborâre, faceți o drumeție înapoi în centrul orașului Petnjica, unde vă așteaptă un prânz tradițional binemeritat. Întăriți, după-amiaza explorați atracțiile centrale ale orașului, moscheea și centrul cultural, ambele ușor accesibile pe jos. Înainte de a lua autobuzul de întoarcere, încheiați ziua cu o plimbare liniștită de-a lungul canionului râului Popča, bucurându-vă de frumusețea naturală a regiunii.",
+        "en": "Your day on public transport begins with a bus ride into the mountains. From the bus stop, you'll take an invigorating hike to Bihor Fortress, which rewards you with spectacular views. Enjoy the tranquility and the historic site at your own pace. After the descent, you'll hike back to the center of Petnjica, where a well-deserved traditional lunch awaits. Refreshed, you'll explore the town's central attractions in the afternoon, the mosque and the cultural center, both easily accessible on foot. Before you take the bus back, end the day with a peaceful walk along the Popča River Canyon, enjoying the natural beauty of the region."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokaler Eintopf (Čorba)",
+            "tip": "Ein wärmender, nahrhafter Eintopf ist perfekt nach einer langen Wanderung."
+          },
+          {
+            "name": "Frisch gebackenes Brot (Hleb)",
+            "tip": "Probieren Sie das lokale Brot, das oft im Holzofen gebacken wird."
+          },
+          {
+            "name": "Kräutertee",
+            "tip": "Genießen Sie einen Tee aus Kräutern, die auf den umliegenden Wiesen gesammelt wurden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi egytálétel (Čorba)",
+            "tip": "Egy melegítő, tápláló egytálétel tökéletes egy hosszú túra után."
+          },
+          {
+            "name": "Frissen sült kenyér (Hleb)",
+            "tip": "Kóstolja meg a helyi kenyeret, amelyet gyakran fatüzelésű kemencében sütnek."
+          },
+          {
+            "name": "Gyógytea",
+            "tip": "Élvezzen egy teát a környező réteken gyűjtött gyógynövényekből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciorbă locală",
+            "tip": "O ciorbă caldă și hrănitoare este perfectă după o drumeție lungă."
+          },
+          {
+            "name": "Pâine proaspăt coaptă (Hleb)",
+            "tip": "Încercați pâinea locală, adesea coaptă în cuptor cu lemne."
+          },
+          {
+            "name": "Ceai de plante",
+            "tip": "Bucurați-vă de un ceai din plante culese de pe pajiștile înconjurătoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local stew (Čorba)",
+            "tip": "A warming, nutritious stew is perfect after a long hike."
+          },
+          {
+            "name": "Freshly baked bread (Hleb)",
+            "tip": "Try the local bread, often baked in a wood-fired oven."
+          },
+          {
+            "name": "Herbal tea",
+            "tip": "Enjoy a tea made from herbs gathered in the surrounding meadows."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfel bei der Festung Bihor",
+            "tip": "Der ruhigste Moment des Tages, allein mit der Geschichte und der Natur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eine Bank am Flussufer",
+            "tip": "Ein einfacher Ort, um die Gedanken schweifen zu lassen und dem Wasser zuzuhören.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Friedhof neben der Moschee",
+            "tip": "Ein Ort der Stille und des Respekts im Herzen der Stadt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csúcs a Bihori erőd közelében",
+            "tip": "A nap legcsendesebb pillanata, egyedül a történelemmel és a természettel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy pad a folyóparton",
+            "tip": "Egy egyszerű hely, ahol elkalandozhatnak a gondolatok és hallgathatja a vizet.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Temető a mecset mellett",
+            "tip": "A csend és a tisztelet helye a város szívében.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful de lângă Fortăreața Bihor",
+            "tip": "Cel mai liniștit moment al zilei, singur cu istoria și natura.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O bancă pe malul râului",
+            "tip": "Un loc simplu pentru a vă lăsa gândurile să zboare și a asculta apa.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Cimitirul de lângă moschee",
+            "tip": "Un loc de liniște și respect în inima orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Summit near Bihor Fortress",
+            "tip": "The quietest moment of the day, alone with history and nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A bench on the riverbank",
+            "tip": "A simple place to let your thoughts wander and listen to the water.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Cemetery next to the mosque",
+            "tip": "A place of silence and respect in the heart of the town.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kleiner Laden im Zentrum",
+            "tip": "Hier finden Sie grundlegende Souvenirs und lokale Produkte."
+          },
+          {
+            "name": "Fragen Sie nach hausgemachtem Käse",
+            "tip": "Viele Einheimische verkaufen Käse direkt von zu Hause aus. Fragen Sie in einem Café nach Kontakten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kis bolt a központban",
+            "tip": "Itt alapvető szuveníreket és helyi termékeket talál."
+          },
+          {
+            "name": "Érdeklődjön házi sajt iránt",
+            "tip": "Sok helyi lakos közvetlenül otthonról árul sajtot. Kérjen kapcsolatot egy kávézóban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin mic în centru",
+            "tip": "Aici veți găsi suveniruri de bază și produse locale."
+          },
+          {
+            "name": "Întrebați de brânză de casă",
+            "tip": "Mulți localnici vând brânză direct de acasă. Întrebați la o cafenea pentru contacte."
+          }
+        ],
+        "en": [
+          {
+            "name": "Small shop in the center",
+            "tip": "Here you will find basic souvenirs and local products."
+          },
+          {
+            "name": "Ask about homemade cheese",
+            "tip": "Many locals sell cheese directly from their homes. Ask in a cafe for contacts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Erkundigen Sie sich im Voraus nach den Busfahrplänen, da diese unregelmäßig sein können.",
+          "Gute Wanderschuhe sind für die Tour zur Festung unerlässlich.",
+          "Nehmen Sie genügend Wasser und Proviant für die Wanderung mit.",
+          "Sagen Sie dem Busfahrer, wo Sie aussteigen möchten, da es möglicherweise keine offiziellen Haltestellenschilder gibt."
+        ],
+        "hu": [
+          "Érdeklődjön előre a buszmenetrendekről, mivel azok rendszertelenek lehetnek.",
+          "Jó túracipő elengedhetetlen az erőd túrájához.",
+          "Vigyen elegendő vizet és élelmet a túrára.",
+          "Mondja meg a buszsofőrnek, hol szeretne leszállni, mivel lehet, hogy nincsenek hivatalos megállótáblák."
+        ],
+        "ro": [
+          "Interesați-vă din timp de orarele autobuzelor, deoarece acestea pot fi neregulate.",
+          "Bocancii buni de drumeție sunt esențiali pentru turul la fortăreață.",
+          "Luați suficientă apă și provizii pentru drumeție.",
+          "Spuneți șoferului de autobuz unde doriți să coborâți, deoarece este posibil să nu existe indicatoare oficiale de stație."
+        ],
+        "en": [
+          "Inquire about bus schedules in advance, as they can be irregular.",
+          "Good hiking boots are essential for the tour to the fortress.",
+          "Bring enough water and provisions for the hike.",
+          "Tell the bus driver where you want to get off, as there may not be official stop signs."
+        ]
+      }
+    }
+  }
+}

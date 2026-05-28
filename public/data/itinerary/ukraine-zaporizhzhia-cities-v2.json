@@ -1,0 +1,980 @@
+{
+  "city_id": "ukraine-zaporizhzhia-cities-v2",
+  "anchor": {
+    "name": "Saporischschja",
+    "coords": [
+      35.1396,
+      47.8388
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Sobornyj-Prospekt",
+            "hu": "Szobornij sugárút",
+            "ro": "Bulevardul Sobornîi",
+            "en": "Sobornyi Prospekt"
+          },
+          "coords": [
+            35.1396,
+            47.8388
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee in einem der vielen Cafés am Boulevard.",
+            "hu": "Kezdje a napot egy kávéval a sugárút egyik hangulatos kávézójában.",
+            "ro": "Începeți ziua cu o cafea la una dintre numeroasele cafenele de pe bulevard.",
+            "en": "Start your day with a coffee at one of the many cafés along the boulevard."
+          }
+        },
+        {
+          "name": {
+            "de": "Wosnesseniwskyj-Park",
+            "hu": "Vozneszenyivszkij park",
+            "ro": "Parcul Voznesenivskîi",
+            "en": "Voznesenivskyi Park"
+          },
+          "coords": [
+            35.161,
+            47.842
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekt für einen entspannten Spaziergang mit Blick auf den Fluss.",
+            "hu": "Tökéletes egy pihentető sétához, kilátással a folyóra.",
+            "ro": "Perfect pentru o plimbare relaxantă cu vedere la râu.",
+            "en": "Perfect for a relaxing stroll with a view of the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebédszünet a központban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the City Center"
+          },
+          "coords": [
+            35.145,
+            47.835
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie lokale ukrainische Gerichte wie Borschtsch oder Wareniki.",
+            "hu": "Kóstolja meg a helyi ukrán ételeket, például a borscsot vagy a varenyiket.",
+            "ro": "Încercați mâncăruri locale ucrainene, cum ar fi borșul sau varenyky.",
+            "en": "Try local Ukrainian dishes like borsch or varenyky."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Dnjepr-Ufer",
+            "hu": "Séta a Dnyeper partján",
+            "ro": "Promenadă pe malul Niprului",
+            "en": "Stroll along the Dnieper Riverbank"
+          },
+          "coords": [
+            35.115,
+            47.855
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht auf die Insel Chortyzja und die Brücken.",
+            "hu": "Élvezze a kilátást a Horticja-szigetre és a hidakra.",
+            "ro": "Admirați vederea spre insula Hortiția și poduri.",
+            "en": "Enjoy the views of Khortytsia Island and the bridges."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt mit der Kinder-Eisenbahn",
+            "hu": "Utazás a Gyermekvasúttal",
+            "ro": "Călătorie cu trenul pentru copii",
+            "en": "Ride on the Children's Railway"
+          },
+          "coords": [
+            35.18,
+            47.81
+          ],
+          "category": "kid-landmark",
+          "arrive_at": "16:10",
+          "stay_min": 65,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein nostalgisches Erlebnis nicht nur für Kinder am Rande der Stadt.",
+            "hu": "Nosztalgikus élmény nem csak gyerekeknek, a város szélén.",
+            "ro": "O experiență nostalgică nu numai pentru copii, la marginea orașului.",
+            "en": "A nostalgic experience not just for children, located on the city outskirts."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Saporischschja beginnt auf dem belebten Sobornyj-Prospekt, der längsten Allee Europas. Am Vormittag schlendern Sie durch den grünen Wosnesseniwskyj-Park und genießen die Ruhe. Nach einem traditionellen ukrainischen Mittagessen führt Sie Ihr Weg am Nachmittag an das Ufer des mächtigen Dnjepr. Den Abschluss bildet ein Besuch der charmanten Kinder-Eisenbahn, eine nostalgische Reise in die Vergangenheit, bevor Sie den Abend in der Stadt ausklingen lassen.",
+        "hu": "A napja Zaporizzsjában a nyüzsgő Szobornij sugárúton, Európa leghosszabb sugárútján kezdődik. Délelőtt a zöld Vozneszenyivszkij parkban sétálhat, élvezve a nyugalmat. Egy hagyományos ukrán ebéd után délután a hatalmas Dnyeper partjára vezet az útja. A napot egy bájos utazás zárja a Gyermekvasúttal, egy nosztalgikus visszaemlékezés a múltba, mielőtt az estét a városban töltené.",
+        "ro": "Ziua dvs. în Zaporijia începe pe animatul Bulevard Sobornîi, cel mai lung din Europa. Dimineața, vă plimbați prin Parcul Voznesenivskîi, bucurându-vă de liniște. După un prânz tradițional ucrainean, după-amiaza vă poartă pașii pe malul puternicului Nipru. Ziua se încheie cu o vizită la fermecătorul tren pentru copii, o călătorie nostalgică în trecut, înainte de a vă petrece seara în oraș.",
+        "en": "Your day in Zaporizhzhia begins on the bustling Sobornyi Prospekt, Europe's longest avenue. In the morning, you'll stroll through the green Voznesenivskyi Park, enjoying the tranquility. After a traditional Ukrainian lunch, your afternoon path leads to the banks of the mighty Dnieper River. The day concludes with a visit to the charming Children's Railway, a nostalgic journey into the past, before you spend the evening in the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Puzata Hata",
+            "tip": "Authentische ukrainische Küche im Buffet-Stil, ideal für eine schnelle und leckere Mahlzeit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Puzata Hata",
+            "tip": "Autentikus ukrán konyha büfé stílusban, ideális egy gyors és finom étkezéshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Puzata Hata",
+            "tip": "Bucătărie ucraineană autentică în stil bufet, ideală pentru o masă rapidă și gustoasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Puzata Hata",
+            "tip": "Authentic Ukrainian cuisine buffet-style, ideal for a quick and delicious meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wosnesseniwskyj-Park",
+            "tip": "Finden Sie eine ruhige Bank und beobachten Sie das Leben auf dem Fluss.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vozneszenyivszkij park",
+            "tip": "Keressen egy csendes padot, és figyelje a folyón zajló életet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Voznesenivskîi",
+            "tip": "Găsiți o bancă liniștită și priviți viața de pe râu.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Voznesenivskyi Park",
+            "tip": "Find a quiet bench and watch the life on the river.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sobornyj-Prospekt",
+            "tip": "Kleine Boutiquen und Geschäfte mit lokalen Produkten und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szobornij sugárút",
+            "tip": "Kis butikok és üzletek helyi termékekkel és szuvenírekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bulevardul Sobornîi",
+            "tip": "Mici buticuri și magazine cu produse locale și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sobornyi Prospekt",
+            "tip": "Small boutiques and shops with local products and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie einige Kilometer zurücklegen werden.",
+          "Halten Sie Bargeld für kleine Einkäufe oder Trinkgelder bereit."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel több kilométert fog gyalogolni.",
+          "Tartson magánál készpénzt a kisebb vásárlásokhoz vagy borravalóhoz."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți parcurge câțiva kilometri.",
+          "Aveți la îndemână numerar pentru cumpărături mici sau bacșișuri."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be covering several kilometers.",
+          "Keep some cash handy for small purchases or tips."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 21.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Sobornyj-Prospekt",
+            "hu": "Szobornij sugárút",
+            "ro": "Bulevardul Sobornîi",
+            "en": "Sobornyi Prospekt"
+          },
+          "coords": [
+            35.1396,
+            47.8388
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Radtour auf der zentralen Achse der Stadt.",
+            "hu": "Indítsa a kerékpártúrát a város központi tengelyén.",
+            "ro": "Începeți turul cu bicicleta pe axa centrală a orașului.",
+            "en": "Start your bike tour on the city's central axis."
+          }
+        },
+        {
+          "name": {
+            "de": "Wosnesseniwskyj-Park",
+            "hu": "Vozneszenyivszkij park",
+            "ro": "Parcul Voznesenivskîi",
+            "en": "Voznesenivskyi Park"
+          },
+          "coords": [
+            35.161,
+            47.842
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:19",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie durch den Park und genießen Sie die grünen Wege.",
+            "hu": "Kerékpározzon át a parkon, és élvezze a zöld utakat.",
+            "ro": "Plimbați-vă cu bicicleta prin parc și bucurați-vă de aleile verzi.",
+            "en": "Ride through the park and enjoy the green paths."
+          }
+        },
+        {
+          "name": {
+            "de": "DniproHES-Staudamm",
+            "hu": "Dnyeper vízerőmű gátja",
+            "ro": "Barajul DniproHES",
+            "en": "DniproHES Dam"
+          },
+          "coords": [
+            35.09,
+            47.87
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein beeindruckendes Beispiel sowjetischer Ingenieurskunst. Halten Sie für Fotos an.",
+            "hu": "A szovjet mérnöki munka lenyűgöző példája. Álljon meg fotózni.",
+            "ro": "Un exemplu impresionant de inginerie sovietică. Opriți-vă pentru fotografii.",
+            "en": "An impressive example of Soviet engineering. Stop for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Überquerung zur Insel Chortyzja",
+            "hu": "Átkelés a Horticja-szigetre",
+            "ro": "Traversare către Insula Hortiția",
+            "en": "Crossing to Khortytsia Island"
+          },
+          "coords": [
+            35.08,
+            47.825
+          ],
+          "category": "natural features",
+          "arrive_at": "13:51",
+          "stay_min": 120,
+          "hop_from_prev_min": 37,
+          "hop_from_prev_km": 6.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Insel ist riesig; das Fahrrad ist ideal, um die Weite zu erkunden.",
+            "hu": "A sziget hatalmas; a kerékpár ideális a felfedezéséhez.",
+            "ro": "Insula este uriașă; bicicleta este ideală pentru a explora întinderea ei.",
+            "en": "The island is huge; the bicycle is ideal for exploring its vastness."
+          }
+        },
+        {
+          "name": {
+            "de": "Saporoger Eiche & Rückkehr",
+            "hu": "A zaporizzsjai tölgyfa és visszaút",
+            "ro": "Stejarul Zaporojean și întoarcerea",
+            "en": "Zaporozhian Oak & Return Trip"
+          },
+          "coords": [
+            35.06,
+            47.81
+          ],
+          "category": "natural features",
+          "arrive_at": "16:36",
+          "stay_min": 60,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 7.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen legendären Baum, bevor Sie den Rückweg ins Zentrum antreten.",
+            "hu": "Látogassa meg ezt a legendás fát, mielőtt visszaindulna a központba.",
+            "ro": "Vizitați acest copac legendar înainte de a vă întoarce în centru.",
+            "en": "Visit this legendary tree before heading back to the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auf zwei Rädern erkunden Sie Saporischschja, beginnend am Sobornyj-Prospekt. Der Vormittag führt Sie durch Parks zum monumentalen DniproHES-Staudamm, einem Symbol der industriellen Stärke. Am Mittag überqueren Sie die Brücke zur legendären Insel Chortyzja, dem Herzen des Kosakentums. Der Nachmittag ist der Erkundung der Insel gewidmet, mit einem Besuch bei der uralten Saporoger Eiche, bevor Sie in die Stadt zurückkehren.",
+        "hu": "Két keréken fedezi fel Zaporizzsját, a Szobornij sugárúttól indulva. A délelőtt parkokon keresztül vezet a monumentális Dnyeper vízerőmű gátjához, az ipari erő szimbólumához. Délben átkel a hídon a legendás Horticja-szigetre, a kozákság szívébe. A délutánt a sziget felfedezésének szenteli, meglátogatva az ősi zaporizzsjai tölgyet, mielőtt visszatérne a városba.",
+        "ro": "Pe două roți, explorați Zaporijia, pornind de la Bulevardul Sobornîi. Dimineața vă poartă prin parcuri până la monumentalul baraj DniproHES, un simbol al puterii industriale. La prânz, traversați podul spre legendara insulă Hortiția, inima cazacilor. După-amiaza este dedicată explorării insulei, cu o vizită la vechiul stejar zaporojean, înainte de a vă întoarce în oraș.",
+        "en": "On two wheels, you'll explore Zaporizhzhia, starting from Sobornyi Prospekt. The morning takes you through parks to the monumental DniproHES dam, a symbol of industrial strength. At noon, you'll cross the bridge to the legendary Khortytsia Island, the heart of the Cossacks. The afternoon is dedicated to exploring the island, with a visit to the ancient Zaporozhian Oak, before returning to the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Picknick auf Chortyzja",
+            "tip": "Kaufen Sie lokale Snacks und genießen Sie ein Mittagessen in der Natur."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piknik a Horticja-szigeten",
+            "tip": "Vásároljon helyi harapnivalókat és ebédeljen a természetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Picnic pe Insula Hortiția",
+            "tip": "Cumpărați gustări locale și bucurați-vă de un prânz în natură."
+          }
+        ],
+        "en": [
+          {
+            "name": "Picnic on Khortytsia",
+            "tip": "Buy some local snacks and enjoy lunch surrounded by nature."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Insel Chortyzja",
+            "tip": "Finden Sie einen abgelegenen Ort am Wasser und genießen Sie die Stille.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Horticja-sziget partja",
+            "tip": "Keressen egy félreeső helyet a vízparton, és élvezze a csendet.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile Insulei Hortiția",
+            "tip": "Găsiți un loc retras pe malul apei și bucurați-vă de liniște.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shores of Khortytsia Island",
+            "tip": "Find a secluded spot by the water and enjoy the silence.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kosaken-Souvenirs",
+            "tip": "Auf der Insel Chortyzja finden Sie handgefertigte Andenken, die an die Kosakengeschichte erinnern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kozák szuvenírek",
+            "tip": "A Horticja-szigeten kézzel készített emléktárgyakat talál, amelyek a kozák történelemre emlékeztetnek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri Căzăcești",
+            "tip": "Pe Insula Hortiția veți găsi suveniruri artizanale care amintesc de istoria cazacilor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cossack Souvenirs",
+            "tip": "On Khortytsia Island, you can find handmade keepsakes commemorating Cossack history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Zustand Ihres Fahrrads vor der Abfahrt.",
+          "Nehmen Sie ausreichend Wasser mit, besonders für die Tour auf der Insel."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpár állapotát.",
+          "Vigyen magával elegendő vizet, különösen a szigeti túrára."
+        ],
+        "ro": [
+          "Verificați starea bicicletei înainte de a pleca.",
+          "Luați suficientă apă, mai ales pentru turul pe insulă."
+        ],
+        "en": [
+          "Check the condition of your bike before setting off.",
+          "Bring plenty of water, especially for the island tour."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 42.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Start am Sobornyj-Prospekt",
+            "hu": "Indulás a Szobornij sugárútról",
+            "ro": "Pornire de pe Bulevardul Sobornîi",
+            "en": "Start at Sobornyi Prospekt"
+          },
+          "coords": [
+            35.1396,
+            47.8388
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in einer Nebenstraße und erkunden Sie den Boulevard zu Fuß.",
+            "hu": "Parkoljon egy mellékutcában, és fedezze fel a sugárutat gyalog.",
+            "ro": "Parcați pe o stradă laterală și explorați bulevardul pe jos.",
+            "en": "Park on a side street and explore the boulevard on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Wosnesseniwskyj-Park",
+            "hu": "Vozneszenyivszkij park",
+            "ro": "Parcul Voznesenivskîi",
+            "en": "Voznesenivskyi Park"
+          },
+          "coords": [
+            35.161,
+            47.842
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:58",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Prospekt. Genießen Sie die morgendliche Frische.",
+            "hu": "Rövid séta a sugárúttól. Élvezze a reggeli frissességet.",
+            "ro": "O scurtă plimbare de la bulevard. Bucurați-vă de prospețimea dimineții.",
+            "en": "A short walk from the prospekt. Enjoy the morning freshness."
+          }
+        },
+        {
+          "name": {
+            "de": "Insel Chortyzja & Kosakenmuseum",
+            "hu": "Horticja-sziget és Kozák Múzeum",
+            "ro": "Insula Hortiția & Muzeul Cazacilor",
+            "en": "Khortytsia Island & Cossack Museum"
+          },
+          "coords": [
+            35.08,
+            47.825
+          ],
+          "category": "museums",
+          "arrive_at": "11:03",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 9.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Museum und erkunden Sie die Umgebung zu Fuß. Planen Sie Zeit für das Museum und die Landschaft ein.",
+            "hu": "Parkoljon a múzeumnál, és fedezze fel a környéket gyalog. Tervezzen időt a múzeumra és a tájra.",
+            "ro": "Parcați la muzeu și explorați împrejurimile pe jos. Planificați timp pentru muzeu și peisaj.",
+            "en": "Park at the museum and explore the surroundings on foot. Allow time for both the museum and the landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "DniproHES-Staudamm",
+            "hu": "Dnyeper vízerőmű gátja",
+            "ro": "Barajul DniproHES",
+            "en": "DniproHES Dam"
+          },
+          "coords": [
+            35.09,
+            47.87
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie über den Damm, um seine Größe zu erfassen. Es gibt spezielle Aussichtspunkte.",
+            "hu": "Hajtson át a gáton, hogy felmérje a méretét. Külön kilátópontok vannak.",
+            "ro": "Conduceți peste baraj pentru a-i înțelege dimensiunea. Există puncte de belvedere speciale.",
+            "en": "Drive across the dam to grasp its scale. There are special viewpoints."
+          }
+        },
+        {
+          "name": {
+            "de": "Faeton Automuseum",
+            "hu": "Faeton Autómúzeum",
+            "ro": "Muzeul Auto Faeton",
+            "en": "Faeton Auto Museum"
+          },
+          "coords": [
+            35.18,
+            47.78
+          ],
+          "category": "museums",
+          "arrive_at": "15:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 31,
+          "hop_from_prev_km": 14.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein Muss für Autoliebhaber mit einer beeindruckenden Sammlung von Oldtimern.",
+            "hu": "Kötelező az autórajongóknak, lenyűgöző veteránautó-gyűjteménnyel.",
+            "ro": "O necesitate pentru pasionații de mașini, cu o colecție impresionantă de mașini de epocă.",
+            "en": "A must-see for car enthusiasts with an impressive collection of vintage cars."
+          }
+        },
+        {
+          "name": {
+            "de": "Motor Sich Luftfahrtmuseum",
+            "hu": "Motor Szics Repülési Múzeum",
+            "ro": "Muzeul Aviației Motor Sich",
+            "en": "Motor Sich Aviation Museum"
+          },
+          "coords": [
+            35.3,
+            47.86
+          ],
+          "category": "museums",
+          "arrive_at": "17:28",
+          "stay_min": 72,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 9.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geschichte der Flugzeugmotoren, die hier hergestellt wurden.",
+            "hu": "Fedezze fel az itt gyártott repülőgép-motorok történetét.",
+            "ro": "Descoperiți istoria motoarelor de avion fabricate aici.",
+            "en": "Discover the history of aircraft engines manufactured here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto haben Sie die Flexibilität, die weitläufigen Sehenswürdigkeiten von Saporischschja zu erkunden. Der Morgen beginnt im Stadtzentrum, bevor Sie zur historischen Insel Chortyzja fahren, dem spirituellen Zentrum der Kosaken. Nach dem Mittagessen bestaunen Sie das technische Wunderwerk des DniproHES-Staudamms. Der Nachmittag ist der Technik gewidmet, mit Besuchen im Faeton Automuseum und dem Motor Sich Luftfahrtmuseum, die die industrielle Seele der Stadt offenbaren.",
+        "hu": "Autóval rugalmasan felfedezheti Zaporizzsja kiterjedt látnivalóit. A reggel a városközpontban kezdődik, mielőtt a történelmi Horticja-szigetre, a kozákok spirituális központjába utazna. Ebéd után megcsodálhatja a Dnyeper vízerőmű gátjának műszaki csodáját. A délután a technika jegyében telik, a Faeton Autómúzeum és a Motor Szics Repülési Múzeum meglátogatásával, amelyek feltárják a város ipari lelkét.",
+        "ro": "Cu mașina, aveți flexibilitatea de a explora atracțiile extinse din Zaporijia. Dimineața începe în centrul orașului, înainte de a vă îndrepta spre istorica insulă Hortiția, centrul spiritual al cazacilor. După prânz, admirați minunea tehnică a barajului DniproHES. După-amiaza este dedicată tehnologiei, cu vizite la Muzeul Auto Faeton și Muzeul Aviației Motor Sich, care dezvăluie sufletul industrial al orașului.",
+        "en": "By car, you have the flexibility to explore the widespread attractions of Zaporizhzhia. The morning starts in the city center before you drive to the historic Khortytsia Island, the spiritual heart of the Cossacks. After lunch, you'll marvel at the engineering feat of the DniproHES dam. The afternoon is dedicated to technology, with visits to the Faeton Auto Museum and the Motor Sich Aviation Museum, revealing the industrial soul of the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant auf Chortyzja",
+            "tip": "Genießen Sie ein Mittagessen mit Aussicht nach dem Museumsbesuch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a Horticja-szigeten",
+            "tip": "Élvezze az ebédet kilátással a múzeumlátogatás után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant pe Insula Hortiția",
+            "tip": "Bucurați-vă de un prânz cu vedere după vizita la muzeu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant on Khortytsia",
+            "tip": "Enjoy lunch with a view after the museum visit."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Saporoger Eiche",
+            "tip": "Ein Moment der Stille unter einem Baum, der Jahrhunderte gesehen hat.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A zaporizzsjai tölgy",
+            "tip": "Egy csendes pillanat egy fa alatt, amely évszázadokat látott.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stejarul Zaporojean",
+            "tip": "Un moment de liniște sub un copac care a văzut secole.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Zaporozhian Oak",
+            "tip": "A moment of silence under a tree that has seen centuries.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsshops",
+            "tip": "Die technischen Museen bieten einzigartige Souvenirs und Modelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Múzeumi boltok",
+            "tip": "A műszaki múzeumok egyedi szuveníreket és modelleket kínálnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele muzeelor",
+            "tip": "Muzeele tehnice oferă suveniruri și modele unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Museum Shops",
+            "tip": "The technical museums offer unique souvenirs and models."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie eine Navigations-App, da die Beschilderung verwirrend sein kann.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus."
+        ],
+        "hu": [
+          "Használjon navigációs alkalmazást, mivel a táblák zavaróak lehetnek.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét."
+        ],
+        "ro": [
+          "Utilizați o aplicație de navigație, deoarece semnalizarea poate fi confuză.",
+          "Verificați în avans orele de deschidere ale muzeelor."
+        ],
+        "en": [
+          "Use a navigation app as signage can be confusing.",
+          "Check the opening hours of the museums in advance."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 25.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Treffen am Sobornyj-Prospekt",
+            "hu": "Találkozó a Szobornij sugárúton",
+            "ro": "Întâlnire pe Bulevardul Sobornîi",
+            "en": "Meet at Sobornyi Prospekt"
+          },
+          "coords": [
+            35.1396,
+            47.8388
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Prospekt ist ein wichtiger Verkehrsknotenpunkt, von dem aus viele Busse und Trolleybusse abfahren.",
+            "hu": "A sugárút fontos közlekedési csomópont, ahonnan számos busz és trolibusz indul.",
+            "ro": "Bulevardul este un nod de transport important, de unde pleacă multe autobuze și troleibuze.",
+            "en": "The prospekt is a major transport hub from where many buses and trolleybuses depart."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Insel Chortyzja",
+            "hu": "Utazás a Horticja-szigetre",
+            "ro": "Călătorie spre Insula Hortiția",
+            "en": "Trip to Khortytsia Island"
+          },
+          "coords": [
+            35.08,
+            47.825
+          ],
+          "category": "natural features",
+          "arrive_at": "10:38",
+          "stay_min": 180,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 9.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Trolleybus oder einen Marschrutka-Minibus. Steigen Sie in der Nähe des Kosakenmuseums aus.",
+            "hu": "Menjen trolibusszal vagy marsrutkával. Szálljon le a Kozák Múzeum közelében.",
+            "ro": "Luați un troleibuz sau un microbuz marshrutka. Coborâți lângă Muzeul Cazacilor.",
+            "en": "Take a trolleybus or a marshrutka minibus. Get off near the Cossack Museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Kosakenmuseum",
+            "hu": "Kozák Múzeum",
+            "ro": "Muzeul Cazacilor",
+            "en": "Cossack Museum"
+          },
+          "coords": [
+            35.081,
+            47.826
+          ],
+          "category": "museums",
+          "arrive_at": "13:38",
+          "stay_min": 0,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Aussichtspunkt auf der Insel.",
+            "hu": "Rövid séta a szigeti kilátóponttól.",
+            "ro": "O scurtă plimbare de la punctul de belvedere de pe insulă.",
+            "en": "A short walk from the viewpoint on the island."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum DniproHES",
+            "hu": "Utazás a Dnyeper vízerőműhöz",
+            "ro": "Călătorie la DniproHES",
+            "en": "Trip to DniproHES"
+          },
+          "coords": [
+            35.09,
+            47.87
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 62,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Es gibt direkte Verbindungen von der Insel zum Damm. Fragen Sie nach der richtigen Linie.",
+            "hu": "Közvetlen járatok vannak a szigetről a gáthoz. Kérdezze meg a megfelelő vonalat.",
+            "ro": "Există legături directe de pe insulă la baraj. Întrebați despre linia corectă.",
+            "en": "There are direct connections from the island to the dam. Ask for the correct line."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr zum Wosnesseniwskyj-Park",
+            "hu": "Visszatérés a Vozneszenyivszkij parkba",
+            "ro": "Întoarcere la Parcul Voznesenivskîi",
+            "en": "Return to Voznesenivskyi Park"
+          },
+          "coords": [
+            35.161,
+            47.842
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:25",
+          "stay_min": 95,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7.4,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem entspannten Spaziergang im Park, bevor Sie zu Abend essen.",
+            "hu": "Zárja a napot egy pihentető sétával a parkban vacsora előtt.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă în parc înainte de cină.",
+            "en": "End the day with a relaxing walk in the park before dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln erleben Sie Saporischschja wie ein Einheimischer. Vom zentralen Sobornyj-Prospekt aus bringt Sie ein Trolleybus zur sagenumwobenen Insel Chortyzja, wo Sie den Vormittag verbringen. Nach einem tiefen Einblick in die Kosakengeschichte fahren Sie zum DniproHES-Staudamm, einem Meisterwerk der Ingenieurskunst. Der Nachmittag endet entspannt im Wosnesseniwskyj-Park, einem grünen Juwel im Herzen der Stadt.",
+        "hu": "A tömegközlekedéssel úgy élheti át Zaporizzsját, mint egy helyi. A központi Szobornij sugárútról egy trolibusz viszi a legendás Horticja-szigetre, ahol a délelőttöt tölti. A kozák történelembe való mély betekintés után a Dnyeper vízerőmű gátjához utazik, egy mérnöki remekműhöz. A délután a Vozneszenyivszkij parkban, a város szívében található zöld ékszerben ér véget.",
+        "ro": "Cu transportul public, veți experimenta Zaporijia ca un localnic. De pe Bulevardul central Sobornîi, un troleibuz vă duce la legendara insulă Hortiția, unde vă veți petrece dimineața. După o incursiune profundă în istoria cazacilor, călătoriți la barajul DniproHES, o capodoperă a ingineriei. După-amiaza se încheie relaxat în Parcul Voznesenivskîi, o bijuterie verde în inima orașului.",
+        "en": "Using public transport, you'll experience Zaporizhzhia like a local. From the central Sobornyi Prospekt, a trolleybus takes you to the legendary Khortytsia Island, where you'll spend the morning. After a deep dive into Cossack history, you'll travel to the DniproHES dam, an engineering masterpiece. The afternoon ends with a relaxing time in Voznesenivskyi Park, a green gem in the heart of the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Märkte",
+            "tip": "Probieren Sie Piroggen (Pirozhki) von einem Straßenverkäufer für einen authentischen Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piacok",
+            "tip": "Kóstolja meg a pirogot (pirozhki) egy utcai árustól egy autentikus harapnivalóért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe locale",
+            "tip": "Încercați pirogi (pirozhki) de la un vânzător ambulant pentru o gustare autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Markets",
+            "tip": "Try pirozhki (fried buns) from a street vendor for an authentic snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussicht vom Damm",
+            "tip": "Ein überraschend ruhiger Ort, um die Weite des Flusses zu betrachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a gátról",
+            "tip": "Meglepően csendes hely a folyó végtelenségének szemlélésére.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de pe baraj",
+            "tip": "Un loc surprinzător de liniștit pentru a contempla întinderea râului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the Dam",
+            "tip": "A surprisingly quiet spot to contemplate the vastness of the river.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Unterführungen",
+            "tip": "In den Fußgängerunterführungen finden Sie oft eine Vielzahl von kleinen Geschäften und Ständen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aluljárók",
+            "tip": "A gyalogos aluljárókban gyakran sokféle kis üzletet és standot talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pasaje subterane",
+            "tip": "În pasajele subterane pentru pietoni veți găsi adesea o varietate de magazine mici și tarabe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Underpasses",
+            "tip": "In the pedestrian underpasses, you'll often find a variety of small shops and stalls."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel.",
+          "Marschrutkas (Minibusse) halten oft auf Zuruf, nicht nur an festen Haltestellen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez.",
+          "A marsrutkák (minibuszok) gyakran kérésre is megállnak, nem csak a kijelölt megállókban."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public.",
+          "Marshrutkas (microbuzele) opresc adesea la cerere, nu doar la stațiile fixe."
+        ],
+        "en": [
+          "Buy a day pass for public transport.",
+          "Marshrutkas (minibuses) often stop on demand, not just at fixed stops."
+        ]
+      }
+    }
+  }
+}

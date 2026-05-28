@@ -1,0 +1,1064 @@
+{
+  "city_id": "greece-almyros-cities-v2",
+  "anchor": {
+    "name": "Almyros",
+    "coords": [
+      22.7667,
+      39.1833
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Agios Dimitrios",
+            "hu": "Agios Dimitrios templom",
+            "ro": "Biserica Sfântul Dimitrie",
+            "en": "Church of Agios Dimitrios"
+          },
+          "coords": [
+            22.7665,
+            39.1835
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Kriegerdenkmal (Heroon)",
+            "hu": "Háborús Emlékmű (Heroon)",
+            "ro": "Monumentul Eroilor (Heroon)",
+            "en": "War Memorial (Heroon)"
+          },
+          "coords": [
+            22.767,
+            39.184
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:55",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Traditionelle Wohnhäuser",
+            "hu": "Hagyományos lakóházak",
+            "ro": "Case Tradiționale",
+            "en": "Traditional Residential Houses"
+          },
+          "coords": [
+            22.765,
+            39.1825
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:18",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul Arheologic",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            22.764,
+            39.181
+          ],
+          "category": "museums",
+          "arrive_at": "10:49",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Almyros",
+            "hu": "Almyros Kulturális Központ",
+            "ro": "Centrul Cultural Almyros",
+            "en": "Almyros Cultural Center"
+          },
+          "coords": [
+            22.768,
+            39.185
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:39",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Kouri-Wald",
+            "hu": "Kouri-erdő",
+            "ro": "Pădurea Kouri",
+            "en": "Kouri Forest"
+          },
+          "coords": [
+            22.788,
+            39.19
+          ],
+          "category": "forest",
+          "arrive_at": "13:57",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 48,
+          "hop_from_prev_km": 2.4
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Almyros bei der Kirche Agios Dimitrios und dem nahegelegenen Kriegerdenkmal. Mittags erkunden Sie die reiche Geschichte im Archäologischen Museum. Am Nachmittag schlendern Sie durch die traditionellen Straßen, bevor Sie sich im üppigen Kouri-Wald entspannen. Beenden Sie Ihren Tag mit einem authentischen griechischen Essen in einer lokalen Taverne.",
+        "hu": "Kezdje a napot Almyros szívében az Agios Dimitrios templomnál és a közeli háborús emlékműnél. Délben fedezze fel a gazdag történelmet a Régészeti Múzeumban. Délután sétáljon a hagyományos utcákon, mielőtt a buja Kouri-erdőben pihenne. Zárja a napot egy autentikus görög vacsorával egy helyi tavernában.",
+        "ro": "Începeți ziua în inima orașului Almyros, la Biserica Sfântul Dimitrie și la Monumentul Eroilor din apropiere. La prânz, explorați istoria bogată la Muzeul Arheologic. După-amiaza, plimbați-vă pe străzile tradiționale înainte de a vă relaxa în pădurea luxuriantă Kouri. Încheiați ziua cu o masă grecească autentică la o tavernă locală.",
+        "en": "Start your day in the heart of Almyros at the Church of Agios Dimitrios and the nearby War Memorial. At midday, explore the rich history at the Archaeological Museum. In the afternoon, stroll through the traditional streets before relaxing in the lush Kouri Forest. End your day with an authentic Greek meal at a local taverna."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Tavernen",
+            "tip": "Probieren Sie 'Spetsofai', einen traditionellen Eintopf mit Wurst und Paprika."
+          },
+          {
+            "name": "Käsekuchen",
+            "tip": "Genießen Sie in einer lokalen Bäckerei handgemachte 'Tiropita'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi tavernák",
+            "tip": "Kóstolja meg a 'Spetsofai'-t, egy hagyományos kolbászos-paprikás ragut."
+          },
+          {
+            "name": "Sajtos pite",
+            "tip": "Élvezze a kézzel készített 'Tiropitát' egy helyi pékségben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Taverne locale",
+            "tip": "Încercați 'Spetsofai', o tocană tradițională cu cârnați și ardei."
+          },
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "Savurați 'Tiropita' artizanală la o brutărie locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Tavernas",
+            "tip": "Try 'Spetsofai', a traditional stew with sausage and peppers."
+          },
+          {
+            "name": "Cheese pies",
+            "tip": "Enjoy handmade 'Tiropita' from a local bakery."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kouri-Wald",
+            "tip": "Finden Sie eine ruhige Bank und lauschen Sie den Geräuschen der Natur.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Zerelia-Seen",
+            "tip": "Ein friedlicher Ort für einen Spaziergang und Vogelbeobachtung, etwas außerhalb der Stadt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kouri-erdő",
+            "tip": "Keressen egy csendes padot, és hallgassa a természet hangjait.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Zerelia-tavak",
+            "tip": "Békés hely sétára és madármegfigyelésre, kicsit a városon kívül.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Kouri",
+            "tip": "Găsiți o bancă liniștită și ascultați sunetele naturii.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Lacurile Zerelia",
+            "tip": "Un loc pașnic pentru o plimbare și observarea păsărilor, chiar în afara orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kouri Forest",
+            "tip": "Find a quiet bench and listen to the sounds of nature.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Zerelia Lakes",
+            "tip": "A peaceful spot for a walk and birdwatching, just outside the town.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie Olivenöl aus der Region, Honig und Kräuter."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Suchen Sie nach handgefertigter Keramik und Textilien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon helyi olívaolajat, mézet és fűszereket."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keressen kézzel készített kerámiákat és textíliákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați ulei de măsline local, miere și ierburi."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Căutați ceramică și textile lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for local olive oil, honey, and herbs."
+          },
+          {
+            "name": "Craft Shops",
+            "tip": "Look for handmade pottery and textiles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie eine Wasserflasche mit, besonders in den Sommermonaten.",
+          "Die meisten Geschäfte und Museen machen mittags eine Siesta; planen Sie entsprechend.",
+          "Fragen Sie die Einheimischen nach Empfehlungen, sie sind sehr freundlich."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "Hozzon magával egy vizes palackot, különösen a nyári hónapokban.",
+          "A legtöbb üzlet és múzeum délben sziesztát tart; tervezzen ennek megfelelően.",
+          "Kérjen ajánlásokat a helyiektől, nagyon barátságosak."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge mult pe jos.",
+          "Luați cu voi o sticlă de apă, mai ales în lunile de vară.",
+          "Majoritatea magazinelor și muzeelor au o siestă la prânz; planificați-vă în consecință.",
+          "Cereți localnicilor recomandări, sunt foarte prietenoși."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "Bring a water bottle, especially during the summer months.",
+          "Most shops and museums have a siesta at midday; plan accordingly.",
+          "Ask locals for recommendations, they are very friendly."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kulturzentrum Almyros",
+            "hu": "Almyros Kulturális Központ",
+            "ro": "Centrul Cultural Almyros",
+            "en": "Almyros Cultural Center"
+          },
+          "coords": [
+            22.768,
+            39.185
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul Arheologic",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            22.764,
+            39.181
+          ],
+          "category": "museums",
+          "arrive_at": "09:39",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Dimitrios",
+            "hu": "Agios Dimitrios templom",
+            "ro": "Biserica Sfântul Dimitrie",
+            "en": "Church of Agios Dimitrios"
+          },
+          "coords": [
+            22.7665,
+            39.1835
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:12",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Kouri-Wald",
+            "hu": "Kouri-erdő",
+            "ro": "Pădurea Kouri",
+            "en": "Kouri Forest"
+          },
+          "coords": [
+            22.788,
+            39.19
+          ],
+          "category": "forest",
+          "arrive_at": "11:57",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5
+        },
+        {
+          "name": {
+            "de": "Antikes Alos",
+            "hu": "Ókori Alos",
+            "ro": "Alos Antic",
+            "en": "Ancient Alos"
+          },
+          "coords": [
+            22.825,
+            39.15
+          ],
+          "category": "landmark",
+          "arrive_at": "13:42",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0
+        },
+        {
+          "name": {
+            "de": "Zerelia-Seen",
+            "hu": "Zerelia-tavak",
+            "ro": "Lacurile Zerelia",
+            "en": "Zerelia Lakes"
+          },
+          "coords": [
+            22.75,
+            39.135
+          ],
+          "category": "natural features",
+          "arrive_at": "15:43",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 41,
+          "hop_from_prev_km": 6.8
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine Radtour, die das städtische Erbe mit der natürlichen Schönheit verbindet. Beginnen Sie im Zentrum, besuchen Sie das Museum und die Kirche. Am Mittag radeln Sie zum Kouri-Wald für eine Pause im Grünen. Am Nachmittag entdecken Sie die antike Stätte von Alos und beenden Ihre Tour an den ruhigen Zerelia-Seen, Zeugnisse einer neolithischen Vergangenheit.",
+        "hu": "Egy kerékpártúra, amely ötvözi a városi örökséget a természeti szépséggel. Kezdje a központban, látogassa meg a múzeumot és a templomot. Délben tekerjen el a Kouri-erdőbe egy zöldellő szünetre. Délután fedezze fel az ókori Alos lelőhelyét, és fejezze be a túrát a csendes Zerelia-tavaknál, a neolitikus múlt tanúinál.",
+        "ro": "Un tur cu bicicleta care combină patrimoniul urban cu frumusețea naturală. Începeți din centru, vizitând muzeul și biserica. La prânz, pedalați spre Pădurea Kouri pentru o pauză în natură. După-amiaza, descoperiți situl antic Alos și încheiați turul la liniștitele lacuri Zerelia, martore ale unui trecut neolitic.",
+        "en": "A bike tour combining urban heritage with natural beauty. Start in the center, visiting the museum and church. At midday, cycle to Kouri Forest for a green break. In the afternoon, discover the ancient site of Alos and finish your tour at the serene Zerelia Lakes, witnesses to a Neolithic past."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gegrillter Oktopus",
+            "tip": "Suchen Sie eine Taverne in der Nähe der Küste, um die frischesten Meeresfrüchte zu bekommen."
+          },
+          {
+            "name": "Lokaler Wein",
+            "tip": "Fragen Sie nach einem Glas 'Tsipouro' nach dem Essen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett polip",
+            "tip": "Keressen egy tavernát a parthoz közel a legfrissebb tengeri ételekért."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "Kérjen egy pohár 'Tsipouro'-t étkezés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caracatiță la grătar",
+            "tip": "Căutați o tavernă aproape de coastă pentru cele mai proaspete fructe de mare."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Cereți un pahar de 'Tsipouro' după masă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled Octopus",
+            "tip": "Find a taverna near the coast for the freshest seafood."
+          },
+          {
+            "name": "Local wine",
+            "tip": "Ask for a glass of 'Tsipouro' after your meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Zerelia-Seen",
+            "tip": "Ein mystischer und ruhiger Ort, perfekt zum Nachdenken.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Antikes Alos",
+            "tip": "Fühlen Sie die Ruhe der Geschichte zwischen den alten Ruinen.",
+            "emoji": "🏛️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zerelia-tavak partja",
+            "tip": "Misztikus és csendes hely, tökéletes elmélkedésre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ókori Alos",
+            "tip": "Érezze a történelem csendjét az ókori romok között.",
+            "emoji": "🏛️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile Lacurilor Zerelia",
+            "tip": "Un loc mistic și liniștit, perfect pentru contemplare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Alos Antic",
+            "tip": "Simțiți liniștea istoriei printre ruinele antice.",
+            "emoji": "🏛️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shores of Zerelia Lakes",
+            "tip": "A mystical and quiet spot, perfect for contemplation.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ancient Alos",
+            "tip": "Feel the quietness of history among the ancient ruins.",
+            "emoji": "🏛️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Kaufen Sie eine lokale Karte oder Zubehör für Ihre Fahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Vásároljon egy helyi térképet vagy kiegészítőket az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Cumpărați o hartă locală sau accesorii pentru plimbare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "Buy a local map or some accessories for your ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Zustand Ihres Fahrrads, bevor Sie losfahren.",
+          "Die Straßen können auf dem Land uneben sein, fahren Sie vorsichtig.",
+          "Tragen Sie einen Helm und verwenden Sie Lichter, wenn Sie spät zurückkehren.",
+          "Planen Sie genügend Zeit für die Rückfahrt nach Almyros von den Seen aus ein."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpár állapotát.",
+          "Az utak vidéken egyenetlenek lehetnek, vezessen óvatosan.",
+          "Viseljen sisakot és használjon lámpákat, ha későn ér vissza.",
+          "Tervezzen elegendő időt a tavaktól Almyrosba való visszatérésre."
+        ],
+        "ro": [
+          "Verificați starea bicicletei înainte de a porni la drum.",
+          "Drumurile pot fi denivelate în zonele rurale, conduceți cu prudență.",
+          "Purtați cască și folosiți lumini dacă vă întoarceți târziu.",
+          "Planificați-vă suficient timp pentru a vă întoarce la Almyros de la lacuri."
+        ],
+        "en": [
+          "Check your bike's condition before setting off.",
+          "Roads can be uneven in the countryside, ride with care.",
+          "Wear a helmet and use lights if you're returning late.",
+          "Plan enough time to return to Almyros from the lakes."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 24.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz bei den Zerelia-Seen",
+            "hu": "Parkoló a Zerelia-tavaknál",
+            "ro": "Parcare la Lacurile Zerelia",
+            "en": "Parking at Zerelia Lakes"
+          },
+          "coords": [
+            22.75,
+            39.135
+          ],
+          "category": "natural features",
+          "arrive_at": "09:25",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 10.0
+        },
+        {
+          "name": {
+            "de": "Zerelia-Seen",
+            "hu": "Zerelia-tavak",
+            "ro": "Lacurile Zerelia",
+            "en": "Zerelia Lakes"
+          },
+          "coords": [
+            22.751,
+            39.136
+          ],
+          "category": "natural features",
+          "arrive_at": "10:27",
+          "stay_min": 0,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1
+        },
+        {
+          "name": {
+            "de": "Parkplatz bei Antikes Alos",
+            "hu": "Parkoló az Ókori Alosnál",
+            "ro": "Parcare la Alos Antic",
+            "en": "Parking at Ancient Alos"
+          },
+          "coords": [
+            22.825,
+            39.15
+          ],
+          "category": "landmark",
+          "arrive_at": "11:03",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 9.8
+        },
+        {
+          "name": {
+            "de": "Antikes Alos",
+            "hu": "Ókori Alos",
+            "ro": "Alos Antic",
+            "en": "Ancient Alos"
+          },
+          "coords": [
+            22.826,
+            39.151
+          ],
+          "category": "landmark",
+          "arrive_at": "12:35",
+          "stay_min": 0,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1
+        },
+        {
+          "name": {
+            "de": "Parkplatz im Zentrum von Almyros",
+            "hu": "Parkoló Almyros központjában",
+            "ro": "Parcare în centrul orașului Almyros",
+            "en": "Parking in Almyros Center"
+          },
+          "coords": [
+            22.766,
+            39.184
+          ],
+          "category": "parking",
+          "arrive_at": "13:06",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 7.5
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul Arheologic",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            22.764,
+            39.181
+          ],
+          "category": "museums",
+          "arrive_at": "13:12",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Dimitrios",
+            "hu": "Agios Dimitrios templom",
+            "ro": "Biserica Sfântul Dimitrie",
+            "en": "Church of Agios Dimitrios"
+          },
+          "coords": [
+            22.7665,
+            39.1835
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:17",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie die Umgebung von Almyros mit dem Auto. Beginnen Sie mit den mysteriösen Zerelia-Seen, fahren Sie dann weiter zur bedeutenden archäologischen Stätte des antiken Alos. Parken Sie am Nachmittag im Stadtzentrum, um das Archäologische Museum zu erkunden und die zentrale Kirche Agios Dimitrios zu besuchen, und genießen Sie ein spätes Mittagessen in einer Taverne.",
+        "hu": "Fedezze fel Almyros környékét autóval. Kezdje a titokzatos Zerelia-tavaknál, majd hajtson tovább az ókori Alos fontos régészeti lelőhelyéhez. Délután parkoljon le a városközpontban, hogy felfedezze a Régészeti Múzeumot és meglátogassa a központi Agios Dimitrios templomot, majd élvezzen egy késői ebédet egy tavernában.",
+        "ro": "Explorați împrejurimile orașului Almyros cu mașina. Începeți cu misterioasele lacuri Zerelia, apoi conduceți spre importantul sit arheologic Alos Antic. După-amiaza, parcați în centrul orașului pentru a explora Muzeul Arheologic și pentru a vizita biserica centrală Sfântul Dimitrie, savurând un prânz târziu la o tavernă.",
+        "en": "Explore the surroundings of Almyros by car. Start with the mysterious Zerelia Lakes, then drive to the important archaeological site of Ancient Alos. In the afternoon, park in the city center to explore the Archaeological Museum and visit the central Church of Agios Dimitrios, enjoying a late lunch at a taverna."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lammkoteletts (Paidakia)",
+            "tip": "Ein Muss in den Bergtavernen außerhalb der Stadt."
+          },
+          {
+            "name": "Griechischer Salat (Horiatiki)",
+            "tip": "Immer frisch und mit lokalem Feta-Käse zubereitet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bárányborda (Paidakia)",
+            "tip": "Kötelező a városon kívüli hegyi tavernákban."
+          },
+          {
+            "name": "Görög saláta (Horiatiki)",
+            "tip": "Mindig friss és helyi feta sajttal készült."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cotlete de miel (Paidakia)",
+            "tip": "O necesitate în tavernele montane din afara orașului."
+          },
+          {
+            "name": "Salată grecească (Horiatiki)",
+            "tip": "Întotdeauna proaspătă și făcută cu brânză Feta locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lamb chops (Paidakia)",
+            "tip": "A must-try in the mountain tavernas outside the city."
+          },
+          {
+            "name": "Greek Salad (Horiatiki)",
+            "tip": "Always fresh and made with local Feta cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt auf dem Weg nach Alos",
+            "tip": "Halten Sie an und genießen Sie den Panoramablick auf die thessalische Ebene.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kouri-Wald",
+            "tip": "Machen Sie einen kurzen Abstecher für einen friedlichen Spaziergang.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátó az Alos felé vezető úton",
+            "tip": "Álljon meg, és élvezze a thesszáliai síkság panorámáját.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kouri-erdő",
+            "tip": "Tegyen egy rövid kitérőt egy békés sétáért.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere pe drumul spre Alos",
+            "tip": "Opriți-vă pentru a admira priveliștea panoramică a câmpiei Tesaliene.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pădurea Kouri",
+            "tip": "Faceți un scurt ocol pentru o plimbare liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint on the way to Alos",
+            "tip": "Stop to admire the panoramic view of the Thessalian plain.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kouri Forest",
+            "tip": "Take a short detour for a peaceful walk.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Suchen Sie nach Schildern, die frische Produkte direkt vom Bauernhof verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői boltok",
+            "tip": "Keressen táblákat, amelyek friss termékeket árulnak közvetlenül a gazdaságból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de la fermă",
+            "tip": "Căutați semne care vând produse proaspete direct de la fermă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm stands",
+            "tip": "Look for signs selling fresh produce directly from the farm."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Öffnungszeiten der archäologischen Stätten, da diese saisonal variieren können.",
+          "Das Parken im Stadtzentrum kann schwierig sein, seien Sie geduldig.",
+          "Die Straßen zu den Seen und Alos können eng sein.",
+          "Ein GPS ist für die Navigation in der ländlichen Umgebung sehr zu empfehlen."
+        ],
+        "hu": [
+          "Ellenőrizze a régészeti lelőhelyek nyitvatartási idejét, mivel az szezonálisan változhat.",
+          "A parkolás a városközpontban nehéz lehet, legyen türelmes.",
+          "A tavakhoz és Aloshoz vezető utak szűkek lehetnek.",
+          "A vidéki területeken való navigációhoz erősen ajánlott a GPS."
+        ],
+        "ro": [
+          "Verificați orele de funcționare ale siturilor arheologice, deoarece acestea pot varia sezonier.",
+          "Parcarea în centrul orașului poate fi dificilă, aveți răbdare.",
+          "Drumurile către lacuri și Alos pot fi înguste.",
+          "Un GPS este foarte recomandat pentru navigarea în zona rurală."
+        ],
+        "en": [
+          "Check the opening hours of the archaeological sites as they can vary seasonally.",
+          "Parking in the city center can be challenging, be patient.",
+          "The roads to the lakes and Alos can be narrow.",
+          "A GPS is highly recommended for navigating the rural area."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Busbahnhof",
+            "hu": "Központi buszpályaudvar",
+            "ro": "Autogara Centrală",
+            "en": "Central Bus Station"
+          },
+          "coords": [
+            22.76,
+            39.18
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul Arheologic",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            22.764,
+            39.181
+          ],
+          "category": "museums",
+          "arrive_at": "09:20",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Dimitrios",
+            "hu": "Agios Dimitrios templom",
+            "ro": "Biserica Sfântul Dimitrie",
+            "en": "Church of Agios Dimitrios"
+          },
+          "coords": [
+            22.7665,
+            39.1835
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:06",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Kouri-Wald Bushaltestelle",
+            "hu": "Kouri-erdő buszmegálló",
+            "ro": "Stația de autobuz Pădurea Kouri",
+            "en": "Kouri Forest Bus Stop"
+          },
+          "coords": [
+            22.787,
+            39.189
+          ],
+          "category": "transport",
+          "arrive_at": "12:02",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.2
+        },
+        {
+          "name": {
+            "de": "Kouri-Wald",
+            "hu": "Kouri-erdő",
+            "ro": "Pădurea Kouri",
+            "en": "Kouri Forest"
+          },
+          "coords": [
+            22.788,
+            39.19
+          ],
+          "category": "forest",
+          "arrive_at": "12:05",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den lokalen Bus, um Almyros zu erkunden. Beginnen Sie im Zentrum und besuchen Sie das Archäologische Museum und die Hauptkirche. Am Mittag nehmen Sie einen Bus zum Stadtrand, um im Kouri-Wald spazieren zu gehen und zu Mittag zu essen. Am Nachmittag kehren Sie ins Zentrum zurück, um die lokalen Geschäfte und Cafés zu genießen.",
+        "hu": "Használja a helyi buszt Almyros felfedezéséhez. Kezdje a központban, látogassa meg a Régészeti Múzeumot és a főtemplomot. Délben buszozzon ki a város szélére egy sétára és ebédre a Kouri-erdőben. Délután térjen vissza a központba, hogy élvezze a helyi üzleteket és kávézókat.",
+        "ro": "Folosiți autobuzul local pentru a explora Almyros. Începeți din centru, vizitând Muzeul Arheologic și biserica principală. La prânz, luați un autobuz spre periferie pentru o plimbare și prânz în Pădurea Kouri. După-amiaza, reveniți în centru pentru a vă bucura de magazinele și cafenelele locale.",
+        "en": "Use the local bus to explore Almyros. Start in the center, visiting the Archaeological Museum and the main church. At midday, take a bus to the outskirts for a walk and lunch in the Kouri Forest. In the afternoon, return to the center to enjoy the local shops and cafes."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Souvlaki Pita",
+            "tip": "Ein schnelles, günstiges und leckeres Mittagessen, das Sie unterwegs genießen können."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Souvlaki Pita",
+            "tip": "Gyors, olcsó és finom ebéd, amit útközben is elfogyaszthat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Souvlaki Pita",
+            "tip": "Un prânz rapid, ieftin și delicios de savurat pe drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvlaki Pita",
+            "tip": "A quick, cheap, and delicious lunch to have on the go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ein ruhiges Café",
+            "tip": "Genießen Sie einen griechischen Kaffee und beobachten Sie das Leben auf der Straße.",
+            "emoji": "☕"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy csendes kávézó",
+            "tip": "Igyon egy görög kávét, és nézze az utca életét.",
+            "emoji": "☕"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O cafenea liniștită",
+            "tip": "Savurați o cafea grecească și priviți viața de pe stradă.",
+            "emoji": "☕"
+          }
+        ],
+        "en": [
+          {
+            "name": "A quiet café",
+            "tip": "Enjoy a Greek coffee and watch the street life.",
+            "emoji": "☕"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk (Periptero)",
+            "tip": "Kaufen Sie Bustickets, Snacks und kalte Getränke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk (Periptero)",
+            "tip": "Vásároljon buszjegyeket, rágcsálnivalókat és hideg italokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc (Periptero)",
+            "tip": "Cumpărați bilete de autobuz, gustări și băuturi reci."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk (Periptero)",
+            "tip": "Buy bus tickets, snacks, and cold drinks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Ihre Bustickets im Voraus an einem Kiosk.",
+          "Fragen Sie den Fahrer oder die Einheimischen, um sicherzustellen, dass Sie an der richtigen Haltestelle aussteigen.",
+          "Überprüfen Sie den Busfahrplan für die Rückfahrt, besonders an Wochenenden.",
+          "Die Busse sind möglicherweise nicht immer pünktlich."
+        ],
+        "hu": [
+          "Vásárolja meg a buszjegyeket előre egy kioszkban.",
+          "Kérdezze meg a sofőrt vagy a helyieket, hogy biztosan a megfelelő megállónál szálljon le.",
+          "Ellenőrizze a buszmenetrendet a visszautazáshoz, különösen hétvégén.",
+          "A buszok nem mindig pontosak."
+        ],
+        "ro": [
+          "Cumpărați biletele de autobuz în avans de la un chioșc.",
+          "Întrebați șoferul sau localnicii pentru a vă asigura că coborâți la stația corectă.",
+          "Verificați orarul autobuzelor pentru călătoria de întoarcere, mai ales în weekend.",
+          "Autobuzele s-ar putea să nu fie întotdeauna la timp."
+        ],
+        "en": [
+          "Buy your bus tickets in advance from a kiosk.",
+          "Ask the driver or locals to make sure you get off at the right stop.",
+          "Check the bus schedule for the return trip, especially on weekends.",
+          "Buses may not always be on time."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1423 @@
+{
+  "city_id": "netherlands-drachten-cities-v2",
+  "anchor": {
+    "name": "Drachten",
+    "coords": [
+      53.107,
+      6.095
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Grote Kerk",
+            "hu": "Grote Kerk (Nagytemplom)",
+            "ro": "Grote Kerk (Biserica Mare)",
+            "en": "Grote Kerk (Great Church)"
+          },
+          "coords": [
+            6.0965,
+            53.105
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Eleganz des Innenraums und die historische Orgel.",
+            "hu": "Csodálja meg a belső tér egyszerű eleganciáját és a történelmi orgonát.",
+            "ro": "Admirați eleganța simplă a interiorului și orga istorică.",
+            "en": "Admire the simple elegance of the interior and the historic organ."
+          }
+        },
+        {
+          "name": {
+            "de": "Papegaaienbuurt",
+            "hu": "Papegaaienbuurt (Papagáj-negyed)",
+            "ro": "Papegaaienbuurt (Cartierul Papagalilor)",
+            "en": "Papegaaienbuurt (Parrot District)"
+          },
+          "coords": [
+            6.101,
+            53.11
+          ],
+          "category": "historical",
+          "arrive_at": "10:08",
+          "stay_min": 50,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Achten Sie auf die farbenfrohen, von De Stijl inspirierten Häuser von Theo van Doesburg.",
+            "hu": "Figyelje meg Theo van Doesburg színes, De Stijl által inspirált házait.",
+            "ro": "Observați casele colorate, inspirate de De Stijl, proiectate de Theo van Doesburg.",
+            "en": "Look for the colorful De Stijl-inspired houses designed by Theo van Doesburg."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Dr8888",
+            "hu": "Dr8888 Múzeum",
+            "ro": "Muzeul Dr8888",
+            "en": "Museum Dr8888"
+          },
+          "coords": [
+            6.098,
+            53.104
+          ],
+          "category": "museums",
+          "arrive_at": "11:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Das Museum ist ein Muss für Liebhaber der De Stijl-Bewegung.",
+            "hu": "A múzeum kötelező a De Stijl mozgalom kedvelőinek.",
+            "ro": "Muzeul este o necesitate pentru iubitorii mișcării De Stijl.",
+            "en": "The museum is a must-visit for lovers of the De Stijl movement."
+          }
+        },
+        {
+          "name": {
+            "de": "De Lawei",
+            "hu": "De Lawei színház",
+            "ro": "Teatrul De Lawei",
+            "en": "De Lawei Theatre"
+          },
+          "coords": [
+            6.106,
+            53.103
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:08",
+          "stay_min": 25,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Prüfen Sie das Programm für Abendvorstellungen oder Matineen.",
+            "hu": "Nézze meg a műsort esti előadásokra vagy matinékelőadásokra.",
+            "ro": "Verificați programul pentru spectacole de seară sau matinee.",
+            "en": "Check the schedule for evening performances or matinees."
+          }
+        },
+        {
+          "name": {
+            "de": "Karmelklooster",
+            "hu": "Karmelita kolostor",
+            "ro": "Mănăstirea Karmelklooster",
+            "en": "Karmelklooster Monastery"
+          },
+          "coords": [
+            6.085,
+            53.101
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:53",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Finden Sie einen Moment der Ruhe im Klostergarten.",
+            "hu": "Találjon egy csendes pillanatot a kolostor kertjében.",
+            "ro": "Găsiți un moment de liniște în grădina mănăstirii.",
+            "en": "Find a moment of peace in the monastery garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Slingerpark",
+            "hu": "Slingerpark",
+            "ro": "Parcul Slingerpark",
+            "en": "Slingerpark"
+          },
+          "coords": [
+            6.091,
+            53.098
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:46",
+          "stay_min": 115,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Perfekt für einen entspannten Spaziergang am Nachmittag.",
+            "hu": "Tökéletes egy pihentető délutáni sétához.",
+            "ro": "Perfect pentru o plimbare relaxantă de după-amiază.",
+            "en": "Perfect for a relaxing afternoon stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Drachten beginnt mit einem Spaziergang durch das Herz der Stadt, wo Sie die Grote Kerk entdecken. Von dort aus tauchen Sie in die Welt der Kunst ein, indem Sie die einzigartige Architektur des Papegaaienbuurt und die Meisterwerke im Museum Dr8888 bewundern. Nach einem kulturellen Vormittag stärken Sie sich mit einem lokalen Mittagessen, bevor Sie das moderne Kulturzentrum De Lawei und die spirituelle Oase des Karmelkloosters besuchen. Der Tag endet mit einem entspannenden Spaziergang durch den grünen Slingerpark, wo Sie die frische friesische Luft genießen und den Tag ausklingen lassen.",
+        "hu": "A drachteni nap egy sétával kezdődik a város szívében, felfedezve a Grote Kerk templomot. Innen a művészet világába merülhet, megcsodálva a Papegaaienbuurt egyedi építészetét és a Dr8888 Múzeum mesterműveit. A kulturális délelőtt után egy helyi ebéddel erősíthet, mielőtt meglátogatja a modern De Lawei kulturális központot és a Karmelita kolostor spirituális oázisát. A nap egy pihentető sétával zárul a zöld Slingerparkban, ahol élvezheti a friss fríz levegőt és lezárhatja a napot.",
+        "ro": "Ziua dvs. în Drachten începe cu o plimbare prin inima orașului, descoperind Grote Kerk. De acolo, vă scufundați în lumea artei, admirând arhitectura unică a Papegaaienbuurt și capodoperele de la Muzeul Dr8888. După o dimineață culturală, vă reîncărcați cu un prânz local înainte de a vizita centrul cultural modern De Lawei și oaza spirituală a Mănăstirii Karmelklooster. Ziua se încheie cu o plimbare relaxantă prin parcul verde Slingerpark, bucurându-vă de aerul proaspăt frizian.",
+        "en": "Your day in Drachten begins with a walk through the heart of the city, discovering the Grote Kerk. From there, immerse yourself in the world of art by admiring the unique architecture of Papegaaienbuurt and the masterpieces at Museum Dr8888. After a cultural morning, refuel with a local lunch before visiting the modern De Lawei cultural center and the spiritual oasis of the Karmelklooster Monastery. The day concludes with a relaxing stroll through the green Slingerpark, enjoying the fresh Frisian air."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fryske dúmkes",
+            "tip": "Probieren Sie diese knusprigen friesischen Daumenkekse, oft mit Anis und Ingwer gewürzt."
+          },
+          {
+            "name": "Sûkerbôle",
+            "tip": "Ein süßes friesisches Brot mit dicken Zuckerstücken, köstlich mit Butter."
+          },
+          {
+            "name": "Stamppot",
+            "tip": "Ein herzhaftes traditionelles Gericht aus gestampftem Gemüse und Kartoffeln, perfekt für ein sättigendes Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fryske dúmkes",
+            "tip": "Kóstolja meg ezeket a ropogós fríz „hüvelykujj” sütiket, gyakran ánizzsal és gyömbérrel ízesítve."
+          },
+          {
+            "name": "Sûkerbôle",
+            "tip": "Édes fríz kenyér vastag cukordarabokkal, vajjal isteni."
+          },
+          {
+            "name": "Stamppot",
+            "tip": "Kiadós, hagyományos étel tört zöldségekből és burgonyából, tökéletes egy laktató ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fryske dúmkes",
+            "tip": "Încercați acești biscuiți frizieni crocanți, adesea aromați cu anason și ghimbir."
+          },
+          {
+            "name": "Sûkerbôle",
+            "tip": "O pâine dulce friziană cu bucăți mari de zahăr, delicioasă cu unt."
+          },
+          {
+            "name": "Stamppot",
+            "tip": "Un fel de mâncare tradițional consistent, făcut din legume și cartofi piure, perfect pentru un prânz sățios."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fryske dúmkes",
+            "tip": "Try these crunchy Frisian 'thumb' cookies, often flavored with aniseed and ginger."
+          },
+          {
+            "name": "Sûkerbôle",
+            "tip": "A sweet Frisian bread with thick lumps of sugar, delicious with butter."
+          },
+          {
+            "name": "Stamppot",
+            "tip": "A hearty traditional dish of mashed vegetables and potatoes, perfect for a filling lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Garten des Karmelkloosters",
+            "tip": "Ein verborgener, friedlicher Ort für Kontemplation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Van Haersmapark",
+            "tip": "Ein ruhiger Park mit schönen Teichen und alten Bäumen.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Ufer am Smeliester Sân",
+            "tip": "Ein ruhiger Spaziergang am Wasser etwas außerhalb des Zentrums.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Karmelita kolostor kertje",
+            "tip": "Egy rejtett, békés hely az elmélyülésre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Van Haersmapark",
+            "tip": "Csendes park gyönyörű tavakkal és öreg fákkal.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Smeliester Sân partja",
+            "tip": "Csendes séta a víz mellett, kicsit a központon kívül.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Mănăstirii Karmelklooster",
+            "tip": "Un loc ascuns și pașnic pentru contemplare.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Van Haersmapark",
+            "tip": "Un parc liniștit cu iazuri frumoase și copaci bătrâni.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Malul apei la Smeliester Sân",
+            "tip": "O plimbare liniștită pe malul apei, chiar în afara centrului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Karmelklooster Garden",
+            "tip": "A hidden, peaceful spot for contemplation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Van Haersmapark",
+            "tip": "A quiet park with beautiful ponds and old trees.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Waterfront at Smeliester Sân",
+            "tip": "A quiet walk by the water just outside the center.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Besuchen Sie den Markt für lokale Produkte, Käse und frische Blumen (prüfen Sie die Tage)."
+          },
+          {
+            "name": "De Passage",
+            "tip": "Ein Einkaufszentrum im Zentrum für eine Vielzahl von Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Látogasson el a piacra helyi termékekért, sajtokért és friss virágokért (ellenőrizze a napokat)."
+          },
+          {
+            "name": "De Passage",
+            "tip": "Bevásárlóközpont a központban, ahol sokféle üzlet található."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Vizitați piața pentru produse locale, brânzeturi și flori proaspete (verificați zilele)."
+          },
+          {
+            "name": "De Passage",
+            "tip": "Un centru comercial în centru pentru o varietate de magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Visit the market for local produce, cheese, and fresh flowers (check for days)."
+          },
+          {
+            "name": "De Passage",
+            "tip": "A shopping mall in the center for a variety of stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag auf den Beinen sein werden.",
+          "Drachten ist relativ flach und daher sehr gut zu Fuß zu erkunden.",
+          "Viele Cafés im Zentrum bieten eine gute Gelegenheit für eine Kaffeepause.",
+          "Halten Sie Ausschau nach den vielen öffentlichen Kunstwerken, die in der Stadt verstreut sind."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap talpon lesz.",
+          "Drachten viszonylag sík, így nagyon könnyen bejárható gyalog.",
+          "A központban számos kávézó kínál jó lehetőséget egy kávészünetre.",
+          "Figyelje a városban szétszórt számos köztéri műalkotást."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți fi în picioare toată ziua.",
+          "Drachten este relativ plat și, prin urmare, foarte ușor de explorat pe jos.",
+          "Multe cafenele din centru oferă o bună oportunitate pentru o pauză de cafea.",
+          "Fiți atenți la numeroasele opere de artă publică răspândite prin oraș."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be on your feet all day.",
+          "Drachten is relatively flat, making it very walkable.",
+          "Many cafes in the center offer a good opportunity for a coffee break.",
+          "Keep an eye out for the many public artworks scattered around the city."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradverleih",
+            "hu": "Kerékpárkölcsönző",
+            "ro": "Închiriere de biciclete",
+            "en": "Bike Rental"
+          },
+          "coords": [
+            6.09,
+            53.106
+          ],
+          "category": "other",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Mieten Sie ein typisch holländisches Fahrrad für ein authentisches Erlebnis.",
+            "hu": "Béreljen egy tipikus holland kerékpárt az autentikus élményért.",
+            "ro": "Închiriați o bicicletă tipic olandeză pentru o experiență autentică.",
+            "en": "Rent a typical Dutch bike for an authentic experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Papegaaienbuurt",
+            "hu": "Papegaaienbuurt (Papagáj-negyed)",
+            "ro": "Papegaaienbuurt (Cartierul Papagalilor)",
+            "en": "Papegaaienbuurt (Parrot District)"
+          },
+          "coords": [
+            6.101,
+            53.11
+          ],
+          "category": "historical",
+          "arrive_at": "09:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Fahren Sie langsam durch die Straßen, um die einzigartige Architektur zu schätzen.",
+            "hu": "Lassan tekerjen az utcákon, hogy értékelni tudja az egyedi építészetet.",
+            "ro": "Pedalați încet pe străzi pentru a aprecia arhitectura unică.",
+            "en": "Cycle slowly through the streets to appreciate the unique architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Dr8888 & Grote Kerk",
+            "hu": "Dr8888 Múzeum és Grote Kerk",
+            "ro": "Muzeul Dr8888 & Grote Kerk",
+            "en": "Museum Dr8888 & Grote Kerk"
+          },
+          "coords": [
+            6.097,
+            53.104
+          ],
+          "category": "museums",
+          "arrive_at": "10:31",
+          "stay_min": 120,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad in der Nähe ab und erkunden Sie diese beiden zentralen Sehenswürdigkeiten zu Fuß.",
+            "hu": "Parkolja le a kerékpárt a közelben, és fedezze fel ezt a két központi látnivalót gyalog.",
+            "ro": "Parcați bicicleta în apropiere și explorați aceste două atracții centrale pe jos.",
+            "en": "Park your bike nearby and explore these two central attractions on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Van Haersmapark",
+            "hu": "Van Haersmapark",
+            "ro": "Parcul Van Haersmapark",
+            "en": "Van Haersmapark"
+          },
+          "coords": [
+            6.082,
+            53.112
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:43",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für ein Picknick-Mittagessen.",
+            "hu": "Remek hely egy piknikebédhez.",
+            "ro": "Un loc minunat pentru un prânz la picnic.",
+            "en": "A great spot for a picnic lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Karmelklooster",
+            "hu": "Karmelita kolostor",
+            "ro": "Mănăstirea Karmelklooster",
+            "en": "Karmelklooster Monastery"
+          },
+          "coords": [
+            6.085,
+            53.101
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Die ruhige Atmosphäre ist eine willkommene Abwechslung nach der Radtour.",
+            "hu": "A csendes légkör kellemes kikapcsolódás a kerékpározás után.",
+            "ro": "Atmosfera liniștită este o pauză binevenită după plimbarea cu bicicleta.",
+            "en": "The quiet atmosphere is a welcome break from cycling."
+          }
+        },
+        {
+          "name": {
+            "de": "Slingerpark & Thalenpark",
+            "hu": "Slingerpark és Thalenpark",
+            "ro": "Parcurile Slingerpark și Thalenpark",
+            "en": "Slingerpark & Thalenpark"
+          },
+          "coords": [
+            6.091,
+            53.098
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Radeln Sie durch diese benachbarten Parks und genießen Sie die Grünflächen.",
+            "hu": "Tekerjen át ezeken a szomszédos parkokon, és élvezze a zöld területeket.",
+            "ro": "Pedalați prin aceste parcuri învecinate și bucurați-vă de spațiile verzi.",
+            "en": "Cycle through these adjacent parks and enjoy the green spaces."
+          }
+        },
+        {
+          "name": {
+            "de": "De Lawei",
+            "hu": "De Lawei színház",
+            "ro": "Teatrul De Lawei",
+            "en": "De Lawei Theatre"
+          },
+          "coords": [
+            6.106,
+            53.103
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem Kaffee im Theatercafé.",
+            "hu": "Zárja a túrát egy kávéval a színházi kávézóban.",
+            "ro": "Încheiați turul cu o cafea la cafeneaua teatrului.",
+            "en": "End your tour with a coffee at the theatre cafe."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf ein Fahrrad und erleben Sie Drachten wie ein Einheimischer! Ihre Tour beginnt mit der Abholung Ihres Fahrrads und führt Sie zum bunten Papegaaienbuurt. Nach der Erkundung des architektonischen Wunders parken Sie Ihr Rad, um das Museum Dr8888 und die Grote Kerk im Zentrum zu besuchen. Am Mittag radeln Sie zum Van Haersmapark für eine grüne Pause. Der Nachmittag führt Sie zur Ruhe des Karmelkloosters und durch die weitläufigen Slinger- und Thalenparks. Ihre Radtour endet am Kulturzentrum De Lawei, einem perfekten Ort, um über die Erlebnisse des Tages nachzudenken.",
+        "hu": "Pattanjon kerékpárra, és élje át Drachtent, mint egy helyi! A túra a kerékpár átvételével kezdődik, majd a színes Papegaaienbuurt-ba vezet. Az építészeti csoda felfedezése után parkolja le a kerékpárt, hogy meglátogassa a Dr8888 Múzeumot és a Grote Kerk templomot a központban. Délben tekerjen el a Van Haersmaparkba egy zöld szünetre. A délután a Karmelita kolostor csendjéhez és a tágas Slinger- és Thalenparkokon keresztül vezet. A kerékpártúra a De Lawei kulturális központnál ér véget, amely tökéletes hely a napi élmények átgondolására.",
+        "ro": "Urcați-vă pe bicicletă și experimentați Drachten ca un localnic! Turul dvs. începe cu ridicarea bicicletei și vă duce la coloratul Papegaaienbuurt. După ce explorați minunea arhitecturală, parcați bicicleta pentru a vizita Muzeul Dr8888 și Grote Kerk în centru. La prânz, pedalați spre Parcul Van Haersmapark pentru o pauză verde. După-amiaza vă poartă spre liniștea Mănăstirii Karmelklooster și prin parcurile întinse Slingerpark și Thalenpark. Turul cu bicicleta se încheie la centrul cultural De Lawei, un loc perfect pentru a reflecta asupra experiențelor zilei.",
+        "en": "Hop on a bike and experience Drachten like a local! Your tour starts by picking up your bike and heading to the colorful Papegaaienbuurt. After exploring the architectural wonder, park your bike to visit Museum Dr8888 and the Grote Kerk in the center. At midday, cycle to Van Haersmapark for a green break. The afternoon takes you to the tranquility of the Karmelklooster Monastery and through the expansive Slingerpark and Thalenpark. Your bike tour concludes at the De Lawei cultural center, a perfect spot to reflect on the day's experiences."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fryske dúmkes",
+            "tip": "Probieren Sie diese knusprigen friesischen Daumenkekse, oft mit Anis und Ingwer gewürzt."
+          },
+          {
+            "name": "Sûkerbôle",
+            "tip": "Ein süßes friesisches Brot mit dicken Zuckerstücken, köstlich mit Butter."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Kleine, flauschige Pfannkuchen, serviert mit Puderzucker und Butter, ein perfekter Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fryske dúmkes",
+            "tip": "Kóstolja meg ezeket a ropogós fríz „hüvelykujj” sütiket, gyakran ánizzsal és gyömbérrel ízesítve."
+          },
+          {
+            "name": "Sûkerbôle",
+            "tip": "Édes fríz kenyér vastag cukordarabokkal, vajjal isteni."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Kicsi, puha palacsinták porcukorral és vajjal tálalva, tökéletes harapnivaló."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fryske dúmkes",
+            "tip": "Încercați acești biscuiți frizieni crocanți, adesea aromați cu anason și ghimbir."
+          },
+          {
+            "name": "Sûkerbôle",
+            "tip": "O pâine dulce friziană cu bucăți mari de zahăr, delicioasă cu unt."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Clătite mici și pufoase, servite cu zahăr pudră și unt, o gustare perfectă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fryske dúmkes",
+            "tip": "Try these crunchy Frisian 'thumb' cookies, often flavored with aniseed and ginger."
+          },
+          {
+            "name": "Sûkerbôle",
+            "tip": "A sweet Frisian bread with thick lumps of sugar, delicious with butter."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Small, fluffy pancakes served with powdered sugar and butter, a perfect snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Thalenpark",
+            "tip": "Ein weniger besuchter Park, ideal für eine ruhige Radtour.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Garten des Karmelkloosters",
+            "tip": "Stellen Sie Ihr Fahrrad ab und genießen Sie die Stille dieses Ortes.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Van Haersmapark",
+            "tip": "Finden Sie eine Bank am Teich und beobachten Sie die Enten.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Thalenpark",
+            "tip": "Kevésbé látogatott park, ideális egy csendes biciklizéshez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Karmelita kolostor kertje",
+            "tip": "Tegye le a biciklit, és élvezze a hely csendjét.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Van Haersmapark",
+            "tip": "Keressen egy padot a tónál, és nézze a kacsákat.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Thalenpark",
+            "tip": "Un parc mai puțin aglomerat, ideal pentru o plimbare liniștită cu bicicleta.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grădina Mănăstirii Karmelklooster",
+            "tip": "Lăsați bicicleta și bucurați-vă de liniștea acestui loc.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Van Haersmapark",
+            "tip": "Găsiți o bancă lângă iaz și priviți rațele.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Thalenpark",
+            "tip": "A less-visited park, ideal for a quiet bike ride.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Karmelklooster Garden",
+            "tip": "Park your bike and enjoy the silence of this place.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Van Haersmapark",
+            "tip": "Find a bench by the pond and watch the ducks.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Kaufen Sie frisches Sûkerbôle oder Fryske dúmkes als Souvenir."
+          },
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Suchen Sie nach einzigartigen niederländischen Fahrradaccessoires."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékségek",
+            "tip": "Vásároljon friss Sûkerbôle-t vagy Fryske dúmkes-t szuvenírként."
+          },
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Keressen egyedi holland kerékpár-kiegészítőket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutării locale",
+            "tip": "Cumpărați Sûkerbôle proaspăt sau Fryske dúmkes ca suvenir."
+          },
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Căutați accesorii unice pentru biciclete olandeze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bakeries",
+            "tip": "Buy some fresh Sûkerbôle or Fryske dúmkes to take home."
+          },
+          {
+            "name": "Bike Shops",
+            "tip": "Look for unique Dutch cycling accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie das ausgezeichnete Netz von Radwegen (fietspaden).",
+          "Achten Sie immer auf andere Radfahrer und Fußgänger.",
+          "Schließen Sie Ihr Fahrrad immer ab, auch wenn Sie es nur für kurze Zeit abstellen.",
+          "Eine Fahrradklingel ist in den Niederlanden unerlässlich!"
+        ],
+        "hu": [
+          "Használja a kiváló kerékpárút-hálózatot (fietspaden).",
+          "Mindig figyeljen a többi kerékpárosra és gyalogosra.",
+          "Mindig zárja le a kerékpárját, még akkor is, ha csak rövid időre hagyja ott.",
+          "A csengő elengedhetetlen Hollandiában!"
+        ],
+        "ro": [
+          "Folosiți rețeaua excelentă de piste de biciclete (fietspaden).",
+          "Fiți întotdeauna atenți la ceilalți bicicliști și pietoni.",
+          "Încuiați-vă întotdeauna bicicleta, chiar dacă o lăsați doar pentru o perioadă scurtă de timp.",
+          "Un clopoțel de bicicletă este esențial în Olanda!"
+        ],
+        "en": [
+          "Make use of the excellent network of cycle paths (fietspaden).",
+          "Always be aware of other cyclists and pedestrians.",
+          "Always lock your bike, even if you're only leaving it for a short time.",
+          "A bike bell is essential in the Netherlands!"
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkhaus Zentrum & Grote Kerk",
+            "hu": "Parkolóház Központ és Grote Kerk",
+            "ro": "Parcare Centru & Grote Kerk",
+            "en": "Parking Garage Center & Grote Kerk"
+          },
+          "coords": [
+            6.095,
+            53.103
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Vormittag. Die Grote Kerk ist nur einen kurzen Spaziergang entfernt.",
+            "hu": "Parkoljon itt a délelőttre. A Grote Kerk csak egy rövid sétára van.",
+            "ro": "Parcați aici pentru dimineață. Grote Kerk este la o scurtă plimbare.",
+            "en": "Park here for the morning. The Grote Kerk is just a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Dr8888",
+            "hu": "Dr8888 Múzeum",
+            "ro": "Muzeul Dr8888",
+            "en": "Museum Dr8888"
+          },
+          "coords": [
+            6.098,
+            53.104
+          ],
+          "category": "museums",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkhaus zum Zentrum der De Stijl-Bewegung.",
+            "hu": "Egy rövid séta a parkolóháztól a De Stijl mozgalom központjába.",
+            "ro": "O scurtă plimbare de la parcare la centrul mișcării De Stijl.",
+            "en": "A short walk from the parking garage to the center of the De Stijl movement."
+          }
+        },
+        {
+          "name": {
+            "de": "Papegaaienbuurt",
+            "hu": "Papegaaienbuurt (Papagáj-negyed)",
+            "ro": "Papegaaienbuurt (Cartierul Papagalilor)",
+            "en": "Papegaaienbuurt (Parrot District)"
+          },
+          "coords": [
+            6.101,
+            53.11
+          ],
+          "category": "historical",
+          "arrive_at": "11:45",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch dieses Viertel, bevor Sie zum Mittagessen zurück ins Zentrum gehen.",
+            "hu": "Sétáljon át ezen a negyeden, mielőtt visszatérne a központba ebédelni.",
+            "ro": "Plimbați-vă prin acest cartier înainte de a vă întoarce în centru pentru prânz.",
+            "en": "Stroll through this neighborhood before heading back to the center for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Karmelklooster & Gärten",
+            "hu": "Karmelita kolostor és kertek",
+            "ro": "Mănăstirea Karmelklooster și Grădinile",
+            "en": "Karmelklooster Monastery & Gardens"
+          },
+          "coords": [
+            6.085,
+            53.101
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem ruhigen Ort. Es gibt normalerweise Parkplätze in der Nähe.",
+            "hu": "Vezessen el ehhez a csendes helyhez. Általában van a közelben parkoló.",
+            "ro": "Conduceți până la acest loc liniștit. De obicei, există parcare în apropiere.",
+            "en": "Drive to this quiet spot. There's usually parking nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "De Lawei",
+            "hu": "De Lawei színház",
+            "ro": "Teatrul De Lawei",
+            "en": "De Lawei Theatre"
+          },
+          "coords": [
+            6.106,
+            53.103
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:50",
+          "stay_min": 40,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Ein weiterer kurzer Sprung mit dem Auto, um das kulturelle Zentrum der Stadt zu sehen.",
+            "hu": "Egy újabb rövid autós ugrás a város kulturális központjának megtekintéséhez.",
+            "ro": "Încă un salt scurt cu mașina pentru a vedea centrul cultural al orașului.",
+            "en": "Another short hop by car to see the town's cultural hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Van Haersmapark",
+            "hu": "Van Haersmapark",
+            "ro": "Parcul Van Haersmapark",
+            "en": "Van Haersmapark"
+          },
+          "coords": [
+            6.082,
+            53.112
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:30",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe von De Lawei und gehen Sie zu Fuß zu diesem schönen Park für einen entspannten Abschluss des Tages.",
+            "hu": "Parkoljon a De Lawei közelében, és sétáljon el ehhez a szép parkhoz egy pihentető napzárásként.",
+            "ro": "Parcați lângă De Lawei și mergeți pe jos până la acest parc frumos pentru o încheiere relaxantă a zilei.",
+            "en": "Park near De Lawei and walk to this lovely park for a relaxing end to the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto genießen Sie die Flexibilität, Drachten in Clustern zu erkunden. Parken Sie im Zentrum und widmen Sie den Vormittag dem kulturellen Herzen der Stadt: der Grote Kerk, dem Museum Dr8888 und dem bunten Papegaaienbuurt. Nach dem Mittagessen fahren Sie zum ruhigen Karmelklooster für einen Moment der Besinnung. Ein weiterer kurzer Autotrip bringt Sie in die Nähe des Kulturzentrums De Lawei, von wo aus Sie den nahegelegenen Van Haersmapark zu Fuß erkunden und den Tag im Grünen ausklingen lassen können.",
+        "hu": "Autóval élvezheti a rugalmasságot, hogy Drachtent klaszterekben fedezze fel. Parkoljon a központban, és szentelje a délelőttöt a város kulturális szívének: a Grote Kerknek, a Dr8888 Múzeumnak és a színes Papegaaienbuurt-nak. Ebéd után vezessen el a csendes Karmelita kolostorhoz egy elmélyült pillanatra. Egy másik rövid autós út a De Lawei kulturális központ közelébe visz, ahonnan gyalogosan felfedezheti a közeli Van Haersmaparkot, és a zöldben zárhatja a napot.",
+        "ro": "Cu mașina, vă bucurați de flexibilitatea de a explora Drachten în clustere. Parcați în centru și dedicați dimineața inimii culturale a orașului: Grote Kerk, Muzeul Dr8888 și coloratul Papegaaienbuurt. După prânz, conduceți spre liniștita Mănăstire Karmelklooster pentru un moment de reflecție. O altă scurtă călătorie cu mașina vă duce lângă centrul cultural De Lawei, de unde puteți explora pe jos Parcul Van Haersmapark din apropiere pentru a încheia ziua în natură.",
+        "en": "With a car, you have the flexibility to explore Drachten in clusters. Park in the center and dedicate your morning to the city's cultural heart: the Grote Kerk, Museum Dr8888, and the colorful Papegaaienbuurt. After lunch, drive to the serene Karmelklooster Monastery for a moment of reflection. Another short car trip takes you near the De Lawei cultural center, from where you can explore the nearby Van Haersmapark on foot to end your day surrounded by greenery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Friesischer Käse",
+            "tip": "Halten Sie in einem örtlichen Geschäft an, um Nagelkaas (Nelkenkäse) zu kaufen."
+          },
+          {
+            "name": "Restaurant am Wasser",
+            "tip": "Fahren Sie zu einem Restaurant etwas außerhalb des Zentrums für eine Mahlzeit mit Aussicht."
+          },
+          {
+            "name": "Sûkerbôle",
+            "tip": "Kaufen Sie ein ganzes Brot in einer Bäckerei, um es mit nach Hause zu nehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fríz sajt",
+            "tip": "Álljon meg egy helyi boltban, hogy vegyen Nagelkaas-t (szegfűszeges sajt)."
+          },
+          {
+            "name": "Vízparti étterem",
+            "tip": "Vezessen el egy, a központon kissé kívül eső étterembe egy kilátással egybekötött étkezéshez."
+          },
+          {
+            "name": "Sûkerbôle",
+            "tip": "Vegyél egy egész kenyeret egy pékségben, hogy hazavidd."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză friziană",
+            "tip": "Opriți-vă la un magazin local pentru a cumpăra Nagelkaas (brânză cu cuișoare)."
+          },
+          {
+            "name": "Restaurant pe malul apei",
+            "tip": "Conduceți la un restaurant chiar în afara centrului pentru o masă cu vedere."
+          },
+          {
+            "name": "Sûkerbôle",
+            "tip": "Cumpărați o pâine întreagă de la o brutărie pentru a o lua acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Frisian Cheese",
+            "tip": "Stop at a local shop to buy some Nagelkaas (clove cheese)."
+          },
+          {
+            "name": "Waterside Restaurant",
+            "tip": "Drive to a restaurant just outside the center for a meal with a view."
+          },
+          {
+            "name": "Sûkerbôle",
+            "tip": "Buy a whole loaf from a bakery to take home."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Fahrt durch die Landschaft",
+            "tip": "Machen Sie einen kleinen Umweg durch die friesische Landschaft, um die Weite zu genießen.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Thalenpark",
+            "tip": "Ein leicht erreichbarer Park mit dem Auto, der oft ruhiger ist als die zentralen Parks.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Garten des Karmelkloosters",
+            "tip": "Parken Sie in der Nähe und finden Sie Frieden in diesem spirituellen Raum.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Autózás a vidéken",
+            "tip": "Tegyen egy kis kitérőt a fríz vidéken, hogy élvezze a tágasságot.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Thalenpark",
+            "tip": "Könnyen megközelíthető park autóval, gyakran csendesebb, mint a központi parkok.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Karmelita kolostor kertje",
+            "tip": "Parkoljon a közelben, és találjon békét ebben a spirituális térben.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O plimbare cu mașina prin peisajul rural",
+            "tip": "Faceți un mic ocol prin peisajul rural frizian pentru a vă bucura de vastitate.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Parcul Thalenpark",
+            "tip": "Un parc ușor accesibil cu mașina, adesea mai liniștit decât parcurile centrale.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grădina Mănăstirii Karmelklooster",
+            "tip": "Parcați în apropiere și găsiți pacea în acest spațiu spiritual.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "A drive in the countryside",
+            "tip": "Take a small detour through the Frisian countryside to enjoy the vastness.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Thalenpark",
+            "tip": "An easily accessible park by car, often quieter than the central ones.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Karmelklooster Garden",
+            "tip": "Park nearby and find peace in this spiritual space.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Halten Sie Ausschau nach Schildern für Hofläden außerhalb der Stadt, die lokale Produkte verkaufen."
+          },
+          {
+            "name": "Einrichtungshäuser",
+            "tip": "Drachten hat mehrere große Möbel- und Einrichtungshäuser am Stadtrand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok",
+            "tip": "Figyelje a város szélén a helyi termékeket árusító tanyasi boltok tábláit."
+          },
+          {
+            "name": "Bútorboltok",
+            "tip": "Drachtenben több nagy bútor- és lakberendezési áruház található a város szélén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de fermă",
+            "tip": "Fiți atenți la indicatoarele pentru magazinele de fermă de la marginea orașului, care vând produse locale."
+          },
+          {
+            "name": "Magazine de mobilă",
+            "tip": "Drachten are mai multe magazine mari de mobilă și decorațiuni interioare la periferie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm Shops",
+            "tip": "Look for signs for farm shops on the outskirts of town selling local produce."
+          },
+          {
+            "name": "Home Furnishing Stores",
+            "tip": "Drachten has several large furniture and home furnishing stores on its periphery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie im Voraus die Parkmöglichkeiten und -gebühren.",
+          "Ein Navigationssystem ist hilfreich, um sich in den Außenbezirken zurechtzufinden.",
+          "Kombinieren Sie Ihren Besuch mit einem Ausflug in die umliegende friesische Seenplatte.",
+          "Beachten Sie, dass die Stadtzentren in den Niederlanden oft für den Autoverkehr eingeschränkt sind."
+        ],
+        "hu": [
+          "Előre ellenőrizze a parkolási lehetőségeket és díjakat.",
+          "A navigációs rendszer hasznos a külvárosokban való tájékozódáshoz.",
+          "Kombinálja látogatását egy kirándulással a környező fríz tóvidékre.",
+          "Ne feledje, hogy Hollandiában a városközpontok gyakran korlátozottak az autóforgalom számára."
+        ],
+        "ro": [
+          "Verificați în avans opțiunile de parcare și taxele.",
+          "Un sistem de navigație este util pentru a vă deplasa la periferie.",
+          "Combinați vizita cu o excursie în districtul lacurilor friziene din apropiere.",
+          "Rețineți că centrele orașelor din Olanda au adesea trafic auto restricționat."
+        ],
+        "en": [
+          "Check parking options and fees in advance.",
+          "A GPS is helpful for navigating the outskirts.",
+          "Combine your visit with a trip to the surrounding Frisian lakes district.",
+          "Be aware that city centers in the Netherlands often have restricted car traffic."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 7.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Busbahnhof & Spaziergang zur Grote Kerk",
+            "hu": "Buszpályaudvar és séta a Grote Kerkhez",
+            "ro": "Autogară și plimbare la Grote Kerk",
+            "en": "Bus Station & Walk to Grote Kerk"
+          },
+          "coords": [
+            6.0965,
+            53.105
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:20",
+          "stay_min": 40,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag am zentralen Busbahnhof, Van Knobelsdorffplein.",
+            "hu": "Kezdje a napot a központi buszpályaudvaron, a Van Knobelsdorffpleinen.",
+            "ro": "Începeți ziua la autogara centrală, Van Knobelsdorffplein.",
+            "en": "Start your day at the central bus station, Van Knobelsdorffplein."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Dr8888",
+            "hu": "Dr8888 Múzeum",
+            "ro": "Muzeul Dr8888",
+            "en": "Museum Dr8888"
+          },
+          "coords": [
+            6.098,
+            53.104
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Alles im Zentrum ist leicht zu Fuß erreichbar.",
+            "hu": "A központban minden könnyen elérhető gyalog.",
+            "ro": "Totul în centru este ușor accesibil pe jos.",
+            "en": "Everything in the center is within easy walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Karmelklooster",
+            "hu": "Busszal a Karmelita kolostorhoz",
+            "ro": "Autobuz spre Mănăstirea Karmelklooster",
+            "en": "Bus to Karmelklooster"
+          },
+          "coords": [
+            6.085,
+            53.101
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:35",
+          "stay_min": 50,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Zentrum, um den westlichen Teil der Stadt zu erreichen.",
+            "hu": "Vegyen egy buszt a központból, hogy elérje a város nyugati részét.",
+            "ro": "Luați un autobuz din centru pentru a ajunge în partea de vest a orașului.",
+            "en": "Take a bus from the center to reach the western part of town."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zu De Lawei & Spaziergang zum Park",
+            "hu": "Busszal a De Lawei-hez és séta a parkba",
+            "ro": "Autobuz spre De Lawei & plimbare în parc",
+            "en": "Bus to De Lawei & Walk to Park"
+          },
+          "coords": [
+            6.106,
+            53.103
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:10",
+          "stay_min": 40,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Bus zurück durch das Zentrum zum Theaterviertel.",
+            "hu": "Menjen busszal vissza a központon keresztül a színházi negyedbe.",
+            "ro": "Luați autobuzul înapoi prin centru spre cartierul teatrelor.",
+            "en": "Take the bus back across the center to the theatre district."
+          }
+        },
+        {
+          "name": {
+            "de": "Slingerpark",
+            "hu": "Slingerpark",
+            "ro": "Parcul Slingerpark",
+            "en": "Slingerpark"
+          },
+          "coords": [
+            6.091,
+            53.098
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:00",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem entspannten Spaziergang, bevor Sie den Bus zurück nehmen.",
+            "hu": "Zárja a napot egy pihentető sétával, mielőtt visszamenne a buszhoz.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă înainte de a lua autobuzul înapoi.",
+            "en": "End the day with a relaxing walk before taking the bus back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Drachten mühelos mit dem öffentlichen Nahverkehr. Beginnen Sie am zentralen Busbahnhof und spazieren Sie zur Grote Kerk und zum Museum Dr8888. Diese zentralen Sehenswürdigkeiten bilden Ihren ersten Fußgänger-Cluster. Nach dem Mittagessen bringt Sie ein Bus zum ruhigen Karmelklooster. Von dort aus nehmen Sie eine andere Linie, die Sie zum zweiten Cluster bringt: dem Kulturzentrum De Lawei. Ein kurzer Spaziergang führt Sie zum Slingerpark, wo Sie den Nachmittag ausklingen lassen können, bevor Sie wieder in den Bus steigen.",
+        "hu": "Fedezze fel Drachtent könnyedén a tömegközlekedéssel. Kezdje a központi buszpályaudvaron, és sétáljon el a Grote Kerkhez és a Dr8888 Múzeumhoz. Ezek a központi látnivalók alkotják az első gyalogos klasztert. Ebéd után egy busz elviszi a csendes Karmelita kolostorhoz. Onnan egy másik járattal a második klaszterhez juthat: a De Lawei kulturális központhoz. Egy rövid séta elvezet a Slingerparkba, ahol a délutánt töltheti, mielőtt visszaszállna a buszra.",
+        "ro": "Explorați Drachten fără efort folosind transportul public. Începeți de la autogara centrală și plimbați-vă la Grote Kerk și Muzeul Dr8888. Aceste atracții centrale formează primul dvs. cluster pietonal. După prânz, un autobuz vă duce la liniștita Mănăstire Karmelklooster. De acolo, luați o altă linie pentru a ajunge la al doilea cluster: centrul cultural De Lawei. O scurtă plimbare vă duce la Slingerpark, unde vă puteți încheia după-amiaza înainte de a lua din nou autobuzul.",
+        "en": "Explore Drachten effortlessly using public transport. Start at the central bus station and walk to the Grote Kerk and Museum Dr8888. This central cluster of sights is your first walking hub. After lunch, a bus takes you to the tranquil Karmelklooster Monastery. From there, take another line to reach your second cluster: the De Lawei cultural center. A short walk from there leads you to Slingerpark to finish your afternoon before hopping back on a bus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Broodje",
+            "tip": "Holen Sie sich ein frisch zubereitetes Sandwich in einer Bäckerei oder einem Café in der Nähe einer Bushaltestelle."
+          },
+          {
+            "name": "Friesischer Apfelkuchen",
+            "tip": "Genießen Sie ein Stück Apfelkuchen mit Schlagsahne in einem Café im Zentrum."
+          },
+          {
+            "name": "Snackbar",
+            "tip": "Probieren Sie eine Frikandel oder Kroket für einen schnellen und typisch niederländischen Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Broodje",
+            "tip": "Vegyen egy frissen készített szendvicset egy pékségben vagy kávézóban egy buszmegálló közelében."
+          },
+          {
+            "name": "Fríz almáspite",
+            "tip": "Élvezzen egy szelet almáspitét tejszínhabbal egy kávézóban a központban."
+          },
+          {
+            "name": "Snackbar",
+            "tip": "Kóstoljon meg egy frikandelt vagy krokettet egy gyors és tipikus holland harapnivalóért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Broodje",
+            "tip": "Luați un sandviș proaspăt preparat de la o brutărie sau o cafenea de lângă o stație de autobuz."
+          },
+          {
+            "name": "Plăcintă cu mere friziană",
+            "tip": "Bucurați-vă de o felie de plăcintă cu mere cu frișcă la o cafenea din centru."
+          },
+          {
+            "name": "Snackbar",
+            "tip": "Încercați un frikandel sau kroket pentru o gustare rapidă și tipic olandeză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Broodje",
+            "tip": "Grab a freshly made sandwich from a bakery or cafe near a bus stop."
+          },
+          {
+            "name": "Frisian Apple Pie",
+            "tip": "Enjoy a slice of apple pie with whipped cream at a cafe in the center."
+          },
+          {
+            "name": "Snackbar",
+            "tip": "Try a frikandel or kroket for a quick and typically Dutch snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt durch die Vororte",
+            "tip": "Beobachten Sie das lokale Leben vom Busfenster aus.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Van Haersmapark",
+            "tip": "Nehmen Sie einen Bus, der in der Nähe hält, und genießen Sie diesen ruhigen Park.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Leseecke im Museum",
+            "tip": "Viele Museen haben ruhige Ecken, in denen man sich hinsetzen und nachdenken kann.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás a külvárosban",
+            "tip": "Nézze a helyi életet a busz ablakából.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Van Haersmapark",
+            "tip": "Vegyen egy buszt, ami a közelben áll meg, és élvezze ezt a csendes parkot.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Olvasósarok a múzeumban",
+            "tip": "Sok múzeumban vannak csendes sarkok, ahol leülhet és elgondolkodhat.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătorie cu autobuzul prin suburbii",
+            "tip": "Observați viața locală de la fereastra autobuzului.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Parcul Van Haersmapark",
+            "tip": "Luați un autobuz care oprește în apropiere și bucurați-vă de acest parc liniștit.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Colț de lectură în muzeu",
+            "tip": "Multe muzee au colțuri liniștite unde puteți sta și reflecta.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride through suburbs",
+            "tip": "Observe local life from the bus window.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Van Haersmapark",
+            "tip": "Take a bus that stops nearby and enjoy this quiet park.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Reading corner in museum",
+            "tip": "Many museums have quiet corners where you can sit and reflect.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs am Busbahnhof",
+            "tip": "Der Kiosk am Busbahnhof hat oft Postkarten und kleine Souvenirs."
+          },
+          {
+            "name": "Geschäfte im Zentrum",
+            "tip": "Die meisten Geschäfte sind vom zentralen Bus-Cluster aus leicht zu erreichen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvenírek a buszpályaudvaron",
+            "tip": "A buszpályaudvaron lévő kioszkban gyakran vannak képeslapok és apró ajándéktárgyak."
+          },
+          {
+            "name": "Üzletek a központban",
+            "tip": "A legtöbb üzlet könnyen elérhető a központi buszklaszterből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri la autogară",
+            "tip": "Chioșcul de la autogară are adesea cărți poștale și suveniruri mici."
+          },
+          {
+            "name": "Magazine în centru",
+            "tip": "Majoritatea magazinelor sunt ușor accesibile din clusterul central de autobuze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenirs at the bus station",
+            "tip": "The kiosk at the bus station often has postcards and small souvenirs."
+          },
+          {
+            "name": "Shops in the center",
+            "tip": "Most shops are within easy reach of the central bus cluster."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Verwenden Sie eine ÖPNV-App, um Routen und Fahrpläne in Echtzeit zu überprüfen.",
+          "Halten Sie beim Einsteigen Ihre Hand oder Karte bereit, um sie zu scannen.",
+          "Drücken Sie rechtzeitig den Stopp-Knopf, bevor Ihre Haltestelle kommt."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Használjon tömegközlekedési alkalmazást az útvonalak és a valós idejű menetrendek ellenőrzéséhez.",
+          "Tartsa készen a kezét vagy a kártyáját a szkenneléshez felszálláskor.",
+          "Nyomja meg időben a stop gombot, mielőtt a megállója következik."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Utilizați o aplicație de transport public pentru a verifica rutele și orarele în timp real.",
+          "Pregătiți-vă mâna sau cardul pentru a scana la urcare.",
+          "Apăsați butonul de oprire înainte de a ajunge la stația dvs."
+        ],
+        "en": [
+          "Buy a day ticket for unlimited travel.",
+          "Use a public transport app to check routes and real-time schedules.",
+          "Have your hand or card ready to scan when you board.",
+          "Press the stop button well before your stop is due."
+        ]
+      }
+    }
+  }
+}

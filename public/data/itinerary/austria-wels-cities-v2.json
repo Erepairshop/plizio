@@ -1,0 +1,1460 @@
+{
+  "city_id": "austria-wels-cities-v2",
+  "anchor": {
+    "name": "Wels",
+    "coords": [
+      14.0289,
+      48.1575
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Stadtplatz",
+            "hu": "Érkezés a Főtérre",
+            "ro": "Sosire în Piața Centrală",
+            "en": "Arrival at the Main Square"
+          },
+          "coords": [
+            14.026,
+            48.158
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee in einem der vielen Cafés und beobachten Sie das Treiben.",
+            "hu": "Indítsa a napot egy kávéval a számos kávézó egyikében, és figyelje a város ébredését.",
+            "ro": "Începeți ziua cu o cafea la una dintre numeroasele cafenele și priviți agitația orașului.",
+            "en": "Start your day with a coffee at one of the many cafes and watch the city come to life."
+          }
+        },
+        {
+          "name": {
+            "de": "Ledererturm",
+            "hu": "Lederer-torony",
+            "ro": "Turnul Lederer",
+            "en": "Lederer Tower"
+          },
+          "coords": [
+            14.0295,
+            48.1595
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die astronomische Uhr am Turm, ein wunderschönes Detail.",
+            "hu": "Keresse a csillagászati órát a tornyon, egy gyönyörű részlet.",
+            "ro": "Fiți atenți la ceasul astronomic de pe turn, un detaliu superb.",
+            "en": "Look for the astronomical clock on the tower, a beautiful detail."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche",
+            "hu": "Városi plébániatemplom",
+            "ro": "Biserica Parohială",
+            "en": "City Parish Church"
+          },
+          "coords": [
+            14.025,
+            48.157
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Glasfenster sind besonders beeindruckend, wenn die Sonne durchscheint.",
+            "hu": "Az üvegablakok különösen lenyűgözőek, amikor átsüt rajtuk a nap.",
+            "ro": "Vitraliile sunt deosebit de impresionante când soarele strălucește prin ele.",
+            "en": "The stained glass windows are especially impressive when the sun shines through."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Wels",
+            "hu": "Welsi vár",
+            "ro": "Castelul Wels",
+            "en": "Wels Castle"
+          },
+          "coords": [
+            14.023,
+            48.156
+          ],
+          "category": "museums",
+          "arrive_at": "11:19",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum im Inneren gibt einen tollen Einblick in die Geschichte der Stadt und der Landwirtschaft.",
+            "hu": "A benne található múzeum remek betekintést nyújt a város és a mezőgazdaság történetébe.",
+            "ro": "Muzeul din interior oferă o perspectivă excelentă asupra istoriei orașului și a agriculturii.",
+            "en": "The museum inside offers a great insight into the city's history and agriculture."
+          }
+        },
+        {
+          "name": {
+            "de": "Minoritenkloster",
+            "hu": "Minorita kolostor",
+            "ro": "Mănăstirea Minoriților",
+            "en": "Minorite Monastery"
+          },
+          "coords": [
+            14.027,
+            48.16
+          ],
+          "category": "museums",
+          "arrive_at": "13:03",
+          "stay_min": 60,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Innenhof ist eine Oase der Ruhe, perfekt für eine kurze Pause.",
+            "hu": "A belső udvar a nyugalom oázisa, tökéletes egy rövid szünetre.",
+            "ro": "Curtea interioară este o oază de liniște, perfectă pentru o scurtă pauză.",
+            "en": "The inner courtyard is an oasis of calm, perfect for a short break."
+          }
+        },
+        {
+          "name": {
+            "de": "Pollheimerpark",
+            "hu": "Pollheimer park",
+            "ro": "Parcul Pollheimer",
+            "en": "Pollheimer Park"
+          },
+          "coords": [
+            14.02,
+            48.158
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ideal für ein entspanntes Picknick am Nachmittag oder einfach zum Leute beobachten.",
+            "hu": "Ideális egy kellemes délutáni piknikhez vagy csak az emberek figyeléséhez.",
+            "ro": "Ideal pentru un picnic relaxant după-amiaza sau pur și simplu pentru a privi oamenii.",
+            "en": "Ideal for a relaxing afternoon picnic or just for people-watching."
+          }
+        },
+        {
+          "name": {
+            "de": "Herminenhof",
+            "hu": "Herminenhof",
+            "ro": "Curtea Herminenhof",
+            "en": "Herminenhof"
+          },
+          "coords": [
+            14.029,
+            48.155
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:46",
+          "stay_min": 45,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie den Spielplan, vielleicht gibt es eine Abendvorstellung, die Sie interessiert.",
+            "hu": "Ellenőrizze a műsort, hátha van egy esti előadás, ami érdekli.",
+            "ro": "Verificați programul, poate este un spectacol de seară care vă interesează.",
+            "en": "Check the schedule, there might be an evening performance that interests you."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang am belebten Stadtplatz, dem Herzen von Wels. Der Vormittag führt Sie zu historischen Wahrzeichen wie dem Ledererturm und der ehrwürdigen Stadtpfarrkirche, die von der reichen Geschichte der Stadt zeugen. Nach dem Mittagessen tauchen Sie in der Burg Wels und im Minoritenkloster tiefer in die lokale Kultur ein. Der Nachmittag lädt zu einem entspannten Spaziergang im Pollheimerpark ein, einer grünen Oase mitten in der Stadt. Beenden Sie Ihren Tag mit einem Blick auf den Herminenhof, das kulturelle Zentrum, bevor Sie in einem der traditionellen Gasthäuser zu Abend essen.",
+        "hu": "Kezdje a sétát a nyüzsgő Főtéren, Wels szívében. A délelőtt folyamán olyan történelmi nevezetességekhez jut el, mint a Lederer-torony és a tiszteletreméltó Városi plébániatemplom, amelyek a város gazdag múltjáról tanúskodnak. Ebéd után merüljön el a helyi kultúrában a welsi várban és a minorita kolostorban. A délután egy pihentető sétára hív a Pollheimer parkban, egy zöld oázisban a város közepén. Zárja a napot a kulturális központnak számító Herminenhof megtekintésével, mielőtt megvacsorázik az egyik hagyományos vendéglőben.",
+        "ro": "Începeți turul pietonal în animata Piața Centrală, inima orașului Wels. Dimineața vă va purta spre repere istorice precum Turnul Lederer și venerabila Biserică Parohială, care mărturisesc istoria bogată a orașului. După prânz, aprofundați cultura locală la Castelul Wels și la Mănăstirea Minoriților. După-amiaza vă invită la o plimbare relaxantă în Parcul Pollheimer, o oază de verdeață în mijlocul orașului. Încheiați ziua aruncând o privire la Curtea Herminenhof, centrul cultural, înainte de a cina la unul dintre hanurile tradiționale.",
+        "en": "Start your walking tour at the bustling Stadtplatz, the heart of Wels. The morning will take you to historic landmarks like the Lederer Tower and the venerable City Parish Church, which testify to the city's rich history. After lunch, delve deeper into local culture at Wels Castle and the Minorite Monastery. The afternoon invites you for a relaxing stroll in Pollheimerpark, a green oasis in the middle of the city. End your day with a look at the Herminenhof, the cultural center, before having dinner at one of the traditional inns."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Most",
+            "tip": "Probieren Sie den regionalen Apfel- oder Birnenwein in einem Heurigen."
+          },
+          {
+            "name": "Leberknödelsuppe",
+            "tip": "Eine herzhafte und traditionelle Suppe, perfekt für den Anfang einer Mahlzeit."
+          },
+          {
+            "name": "Gasthof Bayrischer Hof",
+            "tip": "Ein bekanntes Restaurant für authentische österreichische Küche im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Must",
+            "tip": "Kóstolja meg a regionális alma- vagy körtabort egy helyi „Heurigen”-ben."
+          },
+          {
+            "name": "Májgombócleves",
+            "tip": "Egy kiadós és hagyományos leves, tökéletes kezdete az étkezésnek."
+          },
+          {
+            "name": "Gasthof Bayrischer Hof",
+            "tip": "Egy ismert étterem az autentikus osztrák konyháért a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Must",
+            "tip": "Încercați vinul regional de mere sau pere la un Heurigen local."
+          },
+          {
+            "name": "Supă cu găluște de ficat",
+            "tip": "O supă consistentă și tradițională, perfectă pentru a începe masa."
+          },
+          {
+            "name": "Gasthof Bayrischer Hof",
+            "tip": "Un restaurant renumit pentru bucătăria austriacă autentică în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cider (Most)",
+            "tip": "Try the regional apple or pear wine at a local 'Heurigen' tavern."
+          },
+          {
+            "name": "Liver Dumpling Soup",
+            "tip": "A hearty and traditional soup, perfect for starting a meal."
+          },
+          {
+            "name": "Gasthof Bayrischer Hof",
+            "tip": "A well-known restaurant for authentic Austrian cuisine in the center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Traun-Ufer",
+            "tip": "Ein Spaziergang entlang des Flusses Traun bietet Ruhe und schöne Ausblicke.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Innenhof des Minoritenklosters",
+            "tip": "Eine versteckte Oase der Stille im Herzen der Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Pollheimerpark",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die Natur.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Traun folyó partja",
+            "tip": "Egy séta a Traun folyó mentén nyugalmat és szép kilátást kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Minorita kolostor belső udvara",
+            "tip": "A csend rejtett oázisa a város szívében.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Pollheimer park",
+            "tip": "Keressen egy csendes padot, és élvezze a természetet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Traun",
+            "tip": "O plimbare de-a lungul râului Traun oferă liniște și priveliști frumoase.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea interioară a Mănăstirii Minoriților",
+            "tip": "O oază ascunsă de liniște în inima orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Pollheimer",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de natură.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Traun River",
+            "tip": "A walk along the Traun river offers tranquility and beautiful views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Courtyard of the Minorite Monastery",
+            "tip": "A hidden oasis of silence in the heart of the city.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Pollheimer Park",
+            "tip": "Find a quiet bench and enjoy nature.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Welser Wochenmarkt",
+            "tip": "Findet mittwochs und samstags statt und bietet frische lokale Produkte und Spezialitäten."
+          },
+          {
+            "name": "Schmidtgasse",
+            "tip": "Eine charmante Einkaufsstraße mit einer Mischung aus Boutiquen und bekannten Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Welsi heti piac",
+            "tip": "Szerdánként és szombatonként tartják, friss helyi termékeket és különlegességeket kínál."
+          },
+          {
+            "name": "Schmidtgasse",
+            "tip": "Egy bájos bevásárlóutca butikok és ismert márkák keverékével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală din Wels",
+            "tip": "Are loc miercurea și sâmbăta, oferind produse locale proaspete și specialități."
+          },
+          {
+            "name": "Schmidtgasse",
+            "tip": "O stradă comercială fermecătoare, cu un amestec de buticuri și mărci cunoscute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wels Weekly Market",
+            "tip": "Held on Wednesdays and Saturdays, offering fresh local produce and specialties."
+          },
+          {
+            "name": "Schmidtgasse",
+            "tip": "A charming shopping street with a mix of boutiques and well-known brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Planen Sie eine Mittagspause in einem der Gasthäuser rund um den Stadtplatz ein.",
+          "Halten Sie Ausschau nach den historischen Fassaden der Gebäude am Stadtplatz."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óvárosi macskakő egyenetlen lehet.",
+          "A központ legtöbb látnivalója könnyen elérhető gyalog.",
+          "Tervezzen egy ebédszünetet a Főtér körüli vendéglők egyikében.",
+          "Figyelje meg a Főtéren álló épületek történelmi homlokzatát."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din centrul vechi poate fi denivelat.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Planificați o pauză de prânz la unul dintre hanurile din jurul pieței centrale.",
+          "Fiți atenți la fațadele istorice ale clădirilor din piața centrală."
+        ],
+        "en": [
+          "Wear comfortable shoes, as the cobblestones in the old town can be uneven.",
+          "Most sights in the center are easily accessible on foot.",
+          "Plan a lunch break at one of the inns around the main square.",
+          "Look out for the historic facades of the buildings on the main square."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Start am Stadtplatz & Radverleih",
+            "hu": "Indulás a Főtérről & kerékpárkölcsönzés",
+            "ro": "Start din Piața Centrală & închiriere de biciclete",
+            "en": "Start at Stadtplatz & Bike Rental"
+          },
+          "coords": [
+            14.026,
+            48.158
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Viele Hotels und Shops bieten Leihräder an. Prüfen Sie den Reifendruck vor der Abfahrt.",
+            "hu": "Sok szálloda és üzlet kínál bérelhető kerékpárokat. Indulás előtt ellenőrizze a guminyomást.",
+            "ro": "Multe hoteluri și magazine oferă biciclete de închiriat. Verificați presiunea anvelopelor înainte de a pleca.",
+            "en": "Many hotels and shops offer rental bikes. Check the tire pressure before you leave."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Wels",
+            "hu": "Welsi vár",
+            "ro": "Castelul Wels",
+            "en": "Wels Castle"
+          },
+          "coords": [
+            14.023,
+            48.156
+          ],
+          "category": "museums",
+          "arrive_at": "09:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Rad sicher ab und erkunden Sie die Ausstellungen in Ruhe.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és fedezze fel a kiállításokat nyugalomban.",
+            "ro": "Parcați-vă bicicleta în siguranță și explorați exponatele în liniște.",
+            "en": "Lock your bike securely and explore the exhibitions in peace."
+          }
+        },
+        {
+          "name": {
+            "de": "Welios Science Center",
+            "hu": "Welios Tudományos Központ",
+            "ro": "Centrul de Științe Welios",
+            "en": "Welios Science Center"
+          },
+          "coords": [
+            14.04,
+            48.165
+          ],
+          "category": "museums",
+          "arrive_at": "11:26",
+          "stay_min": 120,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein interaktives Erlebnis für alle Altersgruppen. Planen Sie genügend Zeit ein!",
+            "hu": "Interaktív élmény minden korosztály számára. Tervezzen elegendő időt!",
+            "ro": "O experiență interactivă pentru toate vârstele. Planificați suficient timp!",
+            "en": "An interactive experience for all ages. Plan enough time!"
+          }
+        },
+        {
+          "name": {
+            "de": "Tiergarten Wels",
+            "hu": "Welsi Állatkert",
+            "ro": "Grădina Zoologică Wels",
+            "en": "Wels Zoo"
+          },
+          "coords": [
+            14.045,
+            48.166
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:32",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Zoo liegt direkt neben dem Welios. Eine perfekte Kombination für einen Familienausflug.",
+            "hu": "Az állatkert közvetlenül a Welios mellett található. Tökéletes kombináció egy családi kiránduláshoz.",
+            "ro": "Grădina zoologică este chiar lângă Welios. O combinație perfectă pentru o excursie în familie.",
+            "en": "The zoo is right next to Welios. A perfect combination for a family outing."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt entlang der Traun",
+            "hu": "Kerékpározás a Traun mentén",
+            "ro": "Plimbare cu bicicleta de-a lungul râului Traun",
+            "en": "Ride along the Traun River"
+          },
+          "coords": [
+            14.015,
+            48.16
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:26",
+          "stay_min": 60,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Traunradweg ist gut ausgebaut und bietet eine flache, malerische Strecke.",
+            "hu": "A Traun menti kerékpárút jól kiépített, sík és festői szakaszt kínál.",
+            "ro": "Pista de biciclete de-a lungul râului Traun este bine dezvoltată și oferă un traseu plat și pitoresc.",
+            "en": "The Traun cycle path is well-developed and offers a flat, scenic route."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr zum Stadtplatz",
+            "hu": "Visszatérés a Főtérre",
+            "ro": "Întoarcere în Piața Centrală",
+            "en": "Return to the Main Square"
+          },
+          "coords": [
+            14.026,
+            48.158
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:44",
+          "stay_min": 45,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Geben Sie Ihr Rad zurück und genießen Sie ein wohlverdientes Abendessen.",
+            "hu": "Adja vissza a kerékpárt, és élvezzen egy jól megérdemelt vacsorát.",
+            "ro": "Returnați bicicleta și bucurați-vă de o cină binemeritată.",
+            "en": "Return your bike and enjoy a well-deserved dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich in Wels aufs Rad und starten Sie am Stadtplatz. Die erste Etappe führt Sie zur historischen Burg Wels. Am späten Vormittag erreichen Sie das moderne Welios Science Center, wo Sie interaktive Wissenschaft erleben können, gefolgt von einem Besuch im benachbarten Tiergarten. Nach dem Mittagessen genießen Sie eine entspannte Fahrt entlang des malerischen Traun-Flusses, die Sie mit frischer Luft und schönen Ausblicken belohnt. Am späten Nachmittag kehren Sie in die Altstadt zurück, um den Tag bei einem gemütlichen Abendessen ausklingen zu lassen.",
+        "hu": "Pattanjon kerékpárra Welsben, és induljon a Főtérről. Az első szakasz a történelmi welsi várhoz vezet. A késő délelőtt folyamán eléri a modern Welios Tudományos Központot, ahol interaktív tudományt tapasztalhat meg, majd ellátogathat a szomszédos állatkertbe. Ebéd után élvezze a pihentető kerékpározást a festői Traun folyó mentén, amely friss levegővel és gyönyörű kilátással ajándékozza meg. Késő délután térjen vissza az óvárosba, hogy egy kellemes vacsorával zárja a napot.",
+        "ro": "Urcați-vă pe bicicletă în Wels și porniți din Piața Centrală. Prima etapă vă duce la istoricul Castel Wels. Spre sfârșitul dimineții veți ajunge la modernul Centru de Științe Welios, unde puteți experimenta știința interactivă, urmat de o vizită la grădina zoologică învecinată. După prânz, bucurați-vă de o plimbare relaxantă cu bicicleta de-a lungul pitorescului râu Traun, care vă va recompensa cu aer curat și priveliști frumoase. Spre seară, întoarceți-vă în orașul vechi pentru a încheia ziua cu o cină relaxantă.",
+        "en": "Hop on a bike in Wels and start at the main square. The first stage takes you to the historic Wels Castle. In the late morning, you'll reach the modern Welios Science Center, where you can experience interactive science, followed by a visit to the neighboring zoo. After lunch, enjoy a relaxing bike ride along the picturesque Traun River, which rewards you with fresh air and beautiful views. In the late afternoon, return to the old town to end the day with a leisurely dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Welser Würstel",
+            "tip": "Ein schneller und leckerer Snack von einem der vielen Würstelstände."
+          },
+          {
+            "name": "Kaiserschmarrn",
+            "tip": "Ein süßer, zerrissener Pfannkuchen, der als Hauptgericht oder Dessert genossen wird."
+          },
+          {
+            "name": "Wirt am Berg",
+            "tip": "Etwas außerhalb gelegen, aber die Radtour lohnt sich für die hervorragende Hausmannskost."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Welsi virsli",
+            "tip": "Gyors és finom harapnivaló a számos virslis bódé egyikéből."
+          },
+          {
+            "name": "Császármorzsa",
+            "tip": "Édes, tépett palacsinta, amelyet főételként vagy desszertként is fogyasztanak."
+          },
+          {
+            "name": "Wirt am Berg",
+            "tip": "Kicsit kijjebb esik, de a kerékpártúra megéri a kiváló házias ételekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cârnați din Wels",
+            "tip": "O gustare rapidă și delicioasă de la una dintre numeroasele tarabe cu cârnați."
+          },
+          {
+            "name": "Kaiserschmarrn",
+            "tip": "O clătită dulce, sfărâmată, savurată ca fel principal sau desert."
+          },
+          {
+            "name": "Wirt am Berg",
+            "tip": "Situat puțin în afara orașului, dar plimbarea cu bicicleta merită pentru mâncarea excelentă de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wels Sausages",
+            "tip": "A quick and tasty snack from one of the many sausage stands."
+          },
+          {
+            "name": "Kaiserschmarrn",
+            "tip": "A sweet, shredded pancake enjoyed as a main course or dessert."
+          },
+          {
+            "name": "Wirt am Berg",
+            "tip": "Located a bit outside, but the bike ride is worth it for the excellent home-style cooking."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Traunradweg",
+            "tip": "Halten Sie an einer ruhigen Stelle am Flussufer an und lauschen Sie dem Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Tiergarten",
+            "tip": "Beobachten Sie die Tiere in einer ruhigen Ecke des Parks.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussichtspunkt bei der Burg",
+            "tip": "Genießen Sie den Blick über die Dächer der Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Traun menti kerékpárút",
+            "tip": "Álljon meg egy csendes helyen a folyóparton, és hallgassa a víz csobogását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Állatkert",
+            "tip": "Figyelje az állatokat a park egy csendes sarkában.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátópont a várnál",
+            "tip": "Élvezze a kilátást a város háztetőire.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete Traun",
+            "tip": "Opriți-vă într-un loc liniștit pe malul râului și ascultați susurul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Zoologică",
+            "tip": "Observați animalele într-un colț liniștit al parcului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Punct de belvedere lângă castel",
+            "tip": "Bucurați-vă de priveliștea asupra acoperișurilor orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Traun Cycle Path",
+            "tip": "Stop at a quiet spot on the riverbank and listen to the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Zoo",
+            "tip": "Watch the animals in a quiet corner of the park.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Viewpoint near the Castle",
+            "tip": "Enjoy the view over the city's rooftops.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Lokale Radläden bieten oft auch spezielle Ausrüstung und Souvenirs für Radfahrer an."
+          },
+          {
+            "name": "Bäckereien für Proviant",
+            "tip": "Decken Sie sich in einer Bäckerei mit Gebäck für die Radtour ein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "A helyi kerékpárüzletek gyakran kínálnak speciális felszereléseket és ajándéktárgyakat kerékpárosoknak."
+          },
+          {
+            "name": "Pékségek útravalóért",
+            "tip": "Töltse fel készleteit egy pékségben a kerékpártúrához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Magazinele locale de biciclete oferă adesea echipamente speciale și suveniruri pentru bicicliști."
+          },
+          {
+            "name": "Brutării pentru provizii",
+            "tip": "Aprovizionați-vă cu produse de patiserie de la o brutărie pentru turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "Local bike shops often offer special equipment and souvenirs for cyclists."
+          },
+          {
+            "name": "Bakeries for provisions",
+            "tip": "Stock up on pastries from a bakery for the bike tour."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Wels ist relativ flach, was das Radfahren angenehm macht.",
+          "Achten Sie auf die Radwegbeschilderung, besonders entlang der Traun.",
+          "Nehmen Sie ausreichend Wasser mit, besonders für die längeren Strecken außerhalb des Zentrums.",
+          "Ein Fahrradschloss ist unerlässlich, wenn Sie die Sehenswürdigkeiten besuchen."
+        ],
+        "hu": [
+          "Wels viszonylag sík, ami kellemessé teszi a kerékpározást.",
+          "Figyeljen a kerékpárút jelzéseire, különösen a Traun mentén.",
+          "Vigyen magával elegendő vizet, különösen a központon kívüli hosszabb szakaszokra.",
+          "A kerékpárzár elengedhetetlen a látnivalók meglátogatásakor."
+        ],
+        "ro": [
+          "Wels este relativ plat, ceea ce face ciclismul plăcut.",
+          "Fiți atenți la indicatoarele pentru pista de biciclete, în special de-a lungul râului Traun.",
+          "Luați suficientă apă cu voi, mai ales pentru traseele mai lungi din afara centrului.",
+          "Un lacăt pentru bicicletă este esențial atunci când vizitați atracțiile."
+        ],
+        "en": [
+          "Wels is relatively flat, which makes cycling pleasant.",
+          "Pay attention to the cycle path signs, especially along the Traun.",
+          "Take enough water with you, especially for the longer stretches outside the center.",
+          "A bike lock is essential when visiting the sights."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:41",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken & Altstadt-Cluster: Stadtplatz",
+            "hu": "Parkolás és Óváros-klaszter: Főtér",
+            "ro": "Parcare & Cluster Centrul Vechi: Piața Centrală",
+            "en": "Parking & Old Town Cluster: Main Square"
+          },
+          "coords": [
+            14.0265,
+            48.1585
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in einer der Tiefgaragen am Rande der Altstadt für den ganzen Tag.",
+            "hu": "Parkoljon az óváros szélén található mélygarázsok egyikében egész napra.",
+            "ro": "Parcați într-una dintre parcările subterane de la marginea centrului vechi pentru întreaga zi.",
+            "en": "Park in one of the underground car parks on the edge of the old town for the whole day."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche",
+            "hu": "Városi plébániatemplom",
+            "ro": "Biserica Parohială",
+            "en": "City Parish Church"
+          },
+          "coords": [
+            14.025,
+            48.157
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Stadtplatz. Bewundern Sie die gotische Architektur.",
+            "hu": "Rövid séta a Főtértől. Csodálja meg a gótikus építészetet.",
+            "ro": "O scurtă plimbare de la Piața Centrală. Admirați arhitectura gotică.",
+            "en": "A short walk from the main square. Admire the Gothic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Wels",
+            "hu": "Welsi vár",
+            "ro": "Castelul Wels",
+            "en": "Wels Castle"
+          },
+          "coords": [
+            14.023,
+            48.156
+          ],
+          "category": "museums",
+          "arrive_at": "10:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das größte Museum der Stadt, planen Sie ausreichend Zeit für die vielfältigen Ausstellungen ein.",
+            "hu": "A város legnagyobb múzeuma, tervezzen elegendő időt a változatos kiállításokra.",
+            "ro": "Cel mai mare muzeu din oraș, planificați suficient timp pentru diversele expoziții.",
+            "en": "The city's largest museum, plan enough time for the diverse exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Wissens-Cluster: Welios Science Center",
+            "hu": "Autózás a Tudás-klaszterhez: Welios Tudományos Központ",
+            "ro": "Călătorie spre Clusterul Științei: Centrul de Științe Welios",
+            "en": "Drive to the Science Cluster: Welios Science Center"
+          },
+          "coords": [
+            14.04,
+            48.165
+          ],
+          "category": "museums",
+          "arrive_at": "12:11",
+          "stay_min": 120,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Hier gibt es einen großen Parkplatz. Ideal, um das Auto für den nächsten Teil des Tages abzustellen.",
+            "hu": "Itt nagy parkoló található. Ideális hely az autó letételéhez a nap következő részére.",
+            "ro": "Există o parcare mare aici. Ideal pentru a lăsa mașina pentru următoarea parte a zilei.",
+            "en": "There is a large parking lot here. Ideal for leaving the car for the next part of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Tiergarten Wels",
+            "hu": "Welsi Állatkert",
+            "ro": "Grădina Zoologică Wels",
+            "en": "Wels Zoo"
+          },
+          "coords": [
+            14.045,
+            48.166
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:16",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Welios aus nur ein kurzer Spaziergang. Ein schöner Kontrast zur interaktiven Wissenschaft.",
+            "hu": "Csak egy rövid séta a Weliostól. Szép kontraszt az interaktív tudomány után.",
+            "ro": "La doar o scurtă plimbare de Welios. Un contrast plăcut cu știința interactivă.",
+            "en": "Just a short walk from Welios. A nice contrast to the interactive science."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Park-Cluster: Pollheimerpark",
+            "hu": "Autózás a Park-klaszterhez: Pollheimer park",
+            "ro": "Călătorie spre Clusterul Parcului: Parcul Pollheimer",
+            "en": "Drive to the Park Cluster: Pollheimer Park"
+          },
+          "coords": [
+            14.02,
+            48.158
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:03",
+          "stay_min": 65,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Finden Sie einen Parkplatz in der Nähe und genießen Sie die abendliche Ruhe im Park.",
+            "hu": "Keressen egy parkolóhelyet a közelben, és élvezze az esti nyugalmat a parkban.",
+            "ro": "Găsiți un loc de parcare în apropiere și bucurați-vă de liniștea serii în parc.",
+            "en": "Find a parking spot nearby and enjoy the evening tranquility in the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Parken Sie Ihr Auto in der Nähe des Stadtplatzes und erkunden Sie den ersten Cluster zu Fuß: die historische Altstadt mit der Stadtpfarrkirche und der beeindruckenden Burg Wels. Nach einem Vormittag voller Geschichte fahren Sie zum zweiten Cluster, dem Wissens-Hub um das Welios Science Center. Nach interaktiven Experimenten spazieren Sie zum benachbarten Tiergarten. Der letzte Autostopp des Tages führt Sie zum Pollheimerpark, wo Sie den Tag entspannt ausklingen lassen können, bevor Sie sich auf die Suche nach einem Abendessen machen.",
+        "hu": "Parkolja le autóját a Főtér közelében, és fedezze fel gyalog az első klasztert: a történelmi óvárost a Városi plébániatemplommal és a lenyűgöző welsi várral. A történelemmel teli délelőtt után autózzon a második klaszterhez, a Welios Tudományos Központ körüli tudásközponthoz. Az interaktív kísérletek után sétáljon át a szomszédos állatkertbe. A nap utolsó autós megállója a Pollheimer parkhoz vezet, ahol pihentetően zárhatja a napot, mielőtt vacsora után néz.",
+        "ro": "Parcați mașina lângă Piața Centrală și explorați primul cluster pe jos: centrul istoric cu Biserica Parohială și impresionantul Castel Wels. După o dimineață plină de istorie, conduceți spre al doilea cluster, centrul de cunoaștere din jurul Centrului de Științe Welios. După experimente interactive, faceți o plimbare până la grădina zoologică din apropiere. Ultima oprire cu mașina a zilei vă duce la Parcul Pollheimer, unde vă puteți încheia ziua într-un mod relaxant înainte de a căuta un loc pentru cină.",
+        "en": "Park your car near the main square and explore the first cluster on foot: the historic old town with the City Parish Church and the impressive Wels Castle. After a morning full of history, drive to the second cluster, the knowledge hub around the Welios Science Center. After interactive experiments, take a walk to the neighboring zoo. The last car stop of the day takes you to Pollheimerpark, where you can end the day in a relaxed way before looking for dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Stelze",
+            "tip": "Eine knusprig gebratene Schweinshaxe, oft in größeren Gasthäusern zu finden."
+          },
+          {
+            "name": "Apfelstrudel",
+            "tip": "Ein klassisches österreichisches Dessert, das man sich nicht entgehen lassen sollte."
+          },
+          {
+            "name": "Olivi",
+            "tip": "Ein modernes Restaurant mit guter Küche, wenn Sie eine Abwechslung zur traditionellen Kost suchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csülök (Stelze)",
+            "tip": "Ropogósra sült sertéscsülök, gyakran nagyobb vendéglőkben található."
+          },
+          {
+            "name": "Almás rétes (Apfelstrudel)",
+            "tip": "Klasszikus osztrák desszert, amelyet nem szabad kihagyni."
+          },
+          {
+            "name": "Olivi",
+            "tip": "Modern étterem jó konyhával, ha változatosságra vágyik a hagyományos ételek mellett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciocan de porc (Stelze)",
+            "tip": "Un ciocan de porc prăjit crocant, adesea găsit în hanurile mai mari."
+          },
+          {
+            "name": "Ștrudel cu mere (Apfelstrudel)",
+            "tip": "Un desert austriac clasic de neratat."
+          },
+          {
+            "name": "Olivi",
+            "tip": "Un restaurant modern cu bucătărie bună, dacă doriți o alternativă la mâncarea tradițională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pork Knuckle (Stelze)",
+            "tip": "A crispy roasted pork knuckle, often found in larger inns."
+          },
+          {
+            "name": "Apple Strudel (Apfelstrudel)",
+            "tip": "A classic Austrian dessert not to be missed."
+          },
+          {
+            "name": "Olivi",
+            "tip": "A modern restaurant with good cuisine if you're looking for a change from traditional fare."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Burggarten",
+            "tip": "Der Garten rund um die Burg Wels ist oft ruhiger als die Hauptstraßen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Reinberg",
+            "tip": "Ein kleiner Hügel mit einer Kirche etwas außerhalb, von wo man eine gute Aussicht hat (kurze Fahrt).",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Am Ufer der Traun",
+            "tip": "Fahren Sie zu einem der Parkplätze am Fluss und genießen Sie die Stille.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Várkert",
+            "tip": "A welsi vár körüli kert gyakran csendesebb, mint a főutcák.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Reinberg",
+            "tip": "Egy kis domb egy templommal kicsit kijjebb, ahonnan jó a kilátás (rövid autóút).",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Traun partján",
+            "tip": "Hajtson el a folyó melletti parkolók egyikébe, és élvezze a csendet.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Castelului",
+            "tip": "Grădina din jurul Castelului Wels este adesea mai liniștită decât străzile principale.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Reinberg",
+            "tip": "Un deal mic cu o biserică puțin în afara orașului, de unde aveți o priveliște bună (o scurtă călătorie cu mașina).",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pe malul râului Traun",
+            "tip": "Conduceți până la una dintre parcările de lângă râu și bucurați-vă de liniște.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Garden",
+            "tip": "The garden around Wels Castle is often quieter than the main streets.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Reinberg",
+            "tip": "A small hill with a church just outside, offering a good view (a short drive).",
+            "emoji": "🌅"
+          },
+          {
+            "name": "On the banks of the Traun",
+            "tip": "Drive to one of the parking lots by the river and enjoy the silence.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "MAX.CENTER",
+            "tip": "Ein Einkaufszentrum am Stadtrand, falls Sie größere Einkäufe erledigen müssen."
+          },
+          {
+            "name": "Hofläden in der Umgebung",
+            "tip": "Mit dem Auto können Sie leicht Bauernhöfe erreichen, die lokale Produkte verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "MAX.CENTER",
+            "tip": "Egy bevásárlóközpont a város szélén, ha nagyobb bevásárlást kell intéznie."
+          },
+          {
+            "name": "Tanyasi boltok a környéken",
+            "tip": "Autóval könnyen elérhetők a helyi termékeket árusító gazdaságok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "MAX.CENTER",
+            "tip": "Un centru comercial la periferia orașului, în caz că trebuie să faceți cumpărături mai mari."
+          },
+          {
+            "name": "Magazinele fermelor din zonă",
+            "tip": "Cu mașina puteți ajunge ușor la fermele care vând produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "MAX.CENTER",
+            "tip": "A shopping center on the outskirts of town if you need to do some major shopping."
+          },
+          {
+            "name": "Farm shops in the area",
+            "tip": "By car, you can easily reach farms that sell local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Cluster-Strategie, um Parkgebühren und Stress zu minimieren.",
+          "Die Innenstadt ist eine Fußgängerzone, das Auto ist hier keine Option.",
+          "Achten Sie auf die Parkraumbewirtschaftung (Kurzparkzonen).",
+          "Ein Navigationsgerät hilft, die verschiedenen Cluster schnell zu finden."
+        ],
+        "hu": [
+          "Használja a klaszter-stratégiát a parkolási díjak és a stressz minimalizálása érdekében.",
+          "A belváros sétálóövezet, az autó itt nem opció.",
+          "Figyeljen a parkolási szabályokra (rövid idejű parkolási zónák).",
+          "Egy navigációs eszköz segít gyorsan megtalálni a különböző klasztereket."
+        ],
+        "ro": [
+          "Folosiți strategia cluster pentru a minimiza taxele de parcare și stresul.",
+          "Centrul orașului este o zonă pietonală, mașina nu este o opțiune aici.",
+          "Fiți atenți la gestionarea parcărilor (zone de parcare pe termen scurt).",
+          "Un dispozitiv de navigație ajută la găsirea rapidă a diferitelor clustere."
+        ],
+        "en": [
+          "Use the cluster strategy to minimize parking fees and stress.",
+          "The city center is a pedestrian zone, so the car is not an option here.",
+          "Pay attention to parking management (short-term parking zones).",
+          "A navigation device helps to find the different clusters quickly."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 7.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Kaiser-Josef-Platz (Zentraler Bus-Hub)",
+            "hu": "Érkezés a Kaiser-Josef-Platzra (Központi buszcsomópont)",
+            "ro": "Sosire la Kaiser-Josef-Platz (Nod central de autobuze)",
+            "en": "Arrival at Kaiser-Josef-Platz (Central Bus Hub)"
+          },
+          "coords": [
+            14.029,
+            48.156
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie hier eine Tageskarte für die öffentlichen Verkehrsmittel.",
+            "hu": "Vásároljon itt napijegyet a tömegközlekedéshez.",
+            "ro": "Cumpărați de aici un bilet de o zi pentru transportul public.",
+            "en": "Buy a day ticket for public transport here."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zum Stadtplatz",
+            "hu": "Séta a Főtérre",
+            "ro": "Plimbare spre Piața Centrală",
+            "en": "Walk to the Main Square"
+          },
+          "coords": [
+            14.026,
+            48.158
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der erste Cluster beginnt mit einem kurzen Spaziergang ins Herz der Stadt.",
+            "hu": "Az első klaszter egy rövid sétával kezdődik a város szívébe.",
+            "ro": "Primul cluster începe cu o scurtă plimbare în inima orașului.",
+            "en": "The first cluster starts with a short walk into the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Ledererturm",
+            "hu": "Lederer-torony",
+            "ro": "Turnul Lederer",
+            "en": "Lederer Tower"
+          },
+          "coords": [
+            14.0295,
+            48.1595
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:01",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Wahrzeichen von Wels, nur wenige Schritte vom Stadtplatz entfernt.",
+            "hu": "Wels jelképe, csak néhány lépésre a Főtértől.",
+            "ro": "Simbolul orașului Wels, la doar câțiva pași de Piața Centrală.",
+            "en": "The landmark of Wels, just a few steps from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Museums-Cluster: Burg Wels",
+            "hu": "Buszozás a Múzeum-klaszterhez: Welsi vár",
+            "ro": "Călătorie cu autobuzul spre Clusterul Muzeelor: Castelul Wels",
+            "en": "Bus ride to the Museum Cluster: Wels Castle"
+          },
+          "coords": [
+            14.023,
+            48.156
+          ],
+          "category": "museums",
+          "arrive_at": "10:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Mehrere Buslinien verbinden die Innenstadt mit dem Bereich um die Burg.",
+            "hu": "Több buszjárat köti össze a belvárost a vár környékével.",
+            "ro": "Mai multe linii de autobuz leagă centrul orașului de zona din jurul castelului.",
+            "en": "Several bus lines connect the city center with the area around the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Minoritenkloster",
+            "hu": "Minorita kolostor",
+            "ro": "Mănăstirea Minoriților",
+            "en": "Minorite Monastery"
+          },
+          "coords": [
+            14.027,
+            48.16
+          ],
+          "category": "museums",
+          "arrive_at": "12:37",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Burg, der sich für die archäologische Sammlung lohnt.",
+            "hu": "Rövid séta a vártól, amely megéri a régészeti gyűjtemény miatt.",
+            "ro": "O scurtă plimbare de la castel, care merită pentru colecția arheologică.",
+            "en": "A short walk from the castle, worth it for the archaeological collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Erholungs-Cluster: Tiergarten Wels",
+            "hu": "Buszozás a Pihenő-klaszterhez: Welsi Állatkert",
+            "ro": "Călătorie cu autobuzul spre Clusterul de Recreere: Grădina Zoologică Wels",
+            "en": "Bus ride to the Recreation Cluster: Wels Zoo"
+          },
+          "coords": [
+            14.045,
+            48.166
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:03",
+          "stay_min": 120,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die Busse halten in der Nähe des Eingangs. Perfekt für einen entspannten Nachmittag.",
+            "hu": "A buszok a bejárat közelében állnak meg. Tökéletes egy pihentető délutánhoz.",
+            "ro": "Autobuzele opresc în apropierea intrării. Perfect pentru o după-amiază relaxantă.",
+            "en": "Buses stop near the entrance. Perfect for a relaxing afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am Busbahnhof Kaiser-Josef-Platz und spazieren Sie zum ersten Cluster, dem Stadtplatz und dem Ledererturm. Genießen Sie das historische Flair der Altstadt. Nehmen Sie dann den Bus zum Museumscluster, wo Sie die Burg Wels und das nahegelegene Minoritenkloster erkunden können. Hier können Sie tief in die Geschichte der Region eintauchen. Für den Nachmittag bringt Sie ein weiterer Bus zum letzten Cluster des Tages: dem Tiergarten. Verbringen Sie entspannte Stunden in der Natur, bevor Sie mit dem Bus zurück ins Zentrum fahren und den Tag beenden.",
+        "hu": "Induljon a Kaiser-Josef-Platz buszpályaudvarról, és sétáljon az első klaszterhez, a Főtérhez és a Lederer-toronyhoz. Élvezze az óváros történelmi hangulatát. Ezután szálljon buszra a Múzeumklaszterhez, ahol felfedezheti a welsi várat és a közeli minorita kolostort. Itt mélyen elmerülhet a régió történelmében. Délután egy másik busz viszi a nap utolsó klaszteréhez: az Állatkerthez. Töltsön pihentető órákat a természetben, mielőtt visszabuszozik a központba, és befejezi a napot.",
+        "ro": "Porniți de la autogara Kaiser-Josef-Platz și faceți o plimbare până la primul cluster, Piața Centrală și Turnul Lederer. Bucurați-vă de atmosfera istorică a orașului vechi. Apoi, luați autobuzul spre clusterul muzeelor, unde puteți explora Castelul Wels și Mănăstirea Minoriților din apropiere. Aici vă puteți cufunda adânc în istoria regiunii. Pentru după-amiază, un alt autobuz vă va duce la ultimul cluster al zilei: Grădina Zoologică. Petreceți ore relaxante în natură înainte de a lua autobuzul înapoi în centru pentru a încheia ziua.",
+        "en": "Start at the Kaiser-Josef-Platz bus station and walk to the first cluster, the main square and the Lederer Tower. Enjoy the historic flair of the old town. Then take the bus to the museum cluster, where you can explore Wels Castle and the nearby Minorite Monastery. Here you can delve deep into the region's history. For the afternoon, another bus will take you to the last cluster of the day: the zoo. Spend relaxing hours in nature before taking the bus back to the center to end the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bratl in der Rein",
+            "tip": "Ein traditioneller Schweinebraten, der in vielen Gasthäusern serviert wird."
+          },
+          {
+            "name": "Konditorei Urbann",
+            "tip": "Eine Institution in Wels für Kaffee, Kuchen und feine Pralinen."
+          },
+          {
+            "name": "Imbissstand am Busbahnhof",
+            "tip": "Für eine schnelle, günstige und authentische Mahlzeit zwischen den Busfahrten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sertéssült tepsiben (Bratl in der Rein)",
+            "tip": "Hagyományos sertéssült, amelyet sok vendéglőben felszolgálnak."
+          },
+          {
+            "name": "Urbann Cukrászda",
+            "tip": "Egy intézmény Welsben a kávé, sütemény és finom pralinék kedvelőinek."
+          },
+          {
+            "name": "Büfé a buszpályaudvaron",
+            "tip": "Gyors, olcsó és autentikus étkezéshez a buszozások között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Friptură de porc la tavă (Bratl in der Rein)",
+            "tip": "O friptură tradițională de porc servită în multe hanuri."
+          },
+          {
+            "name": "Cofetăria Urbann",
+            "tip": "O instituție în Wels pentru cafea, prăjituri și bomboane fine."
+          },
+          {
+            "name": "Chioșc de mâncare la autogară",
+            "tip": "Pentru o masă rapidă, ieftină și autentică între călătoriile cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Roast Pork in a Pan (Bratl in der Rein)",
+            "tip": "A traditional roast pork served in many inns."
+          },
+          {
+            "name": "Urbann Confectionery",
+            "tip": "An institution in Wels for coffee, cake, and fine chocolates."
+          },
+          {
+            "name": "Snack stand at the bus station",
+            "tip": "For a quick, cheap, and authentic meal between bus rides."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Alter Stadtfriedhof St. Stephan",
+            "tip": "Ein historischer Friedhof, der heute als ruhiger Park dient.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Obere Bus-Etage",
+            "tip": "Wenn verfügbar, bietet ein Platz in der oberen Etage eines Busses eine ruhige Perspektive auf die Stadt.",
+            "emoji": "🏙️"
+          },
+          {
+            "name": "Tiergarten am späten Nachmittag",
+            "tip": "Kurz vor Schließung wird es ruhiger und man kann die Tiere entspannt beobachten.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Régi Szent István városi temető",
+            "tip": "Történelmi temető, amely ma csendes parkként szolgál.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Busz emelete",
+            "tip": "Ha van, a busz emeletén egy hely csendes perspektívát kínál a városra.",
+            "emoji": "🏙️"
+          },
+          {
+            "name": "Állatkert késő délután",
+            "tip": "Zárás előtt csendesebb lesz, és nyugodtan megfigyelheti az állatokat.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vechiul cimitir Sf. Ștefan",
+            "tip": "Un cimitir istoric care astăzi servește drept parc liniștit.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Etajul superior al autobuzului",
+            "tip": "Dacă este disponibil, un loc la etajul superior al unui autobuz oferă o perspectivă liniștită asupra orașului.",
+            "emoji": "🏙️"
+          },
+          {
+            "name": "Grădina Zoologică după-amiaza târziu",
+            "tip": "Devine mai liniștit chiar înainte de închidere și puteți observa animalele în relaxare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Old St. Stephan City Cemetery",
+            "tip": "A historic cemetery that now serves as a quiet park.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Upper deck of the bus",
+            "tip": "If available, a seat on the upper deck of a bus offers a quiet perspective on the city.",
+            "emoji": "🏙️"
+          },
+          {
+            "name": "Zoo in the late afternoon",
+            "tip": "It gets quieter just before closing and you can watch the animals in a relaxed way.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte am Stadtplatz",
+            "tip": "Nach dem ersten Spaziergang können Sie hier Souvenirs und lokale Handwerkskunst finden."
+          },
+          {
+            "name": "Kiosk am Kaiser-Josef-Platz",
+            "tip": "Ideal für Zeitschriften, Snacks und Getränke für die Busfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Üzletek a Főtéren",
+            "tip": "Az első séta után itt ajándéktárgyakat és helyi kézműves termékeket találhat."
+          },
+          {
+            "name": "Kioszk a Kaiser-Josef-Platzon",
+            "tip": "Ideális magazinok, rágcsálnivalók és italok beszerzésére a buszútra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine în Piața Centrală",
+            "tip": "După prima plimbare, puteți găsi aici suveniruri și artizanat local."
+          },
+          {
+            "name": "Chioșc la Kaiser-Josef-Platz",
+            "tip": "Ideal pentru reviste, gustări și băuturi pentru călătoria cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops at the Main Square",
+            "tip": "After the first walk, you can find souvenirs and local handicrafts here."
+          },
+          {
+            "name": "Kiosk at Kaiser-Josef-Platz",
+            "tip": "Ideal for magazines, snacks, and drinks for the bus ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die offizielle App der Welser Linien herunter, um Fahrpläne und Routen in Echtzeit zu sehen.",
+          "Eine Tageskarte ist fast immer günstiger als mehrere Einzelfahrscheine.",
+          "Achten Sie auf die Anzeigen an den Haltestellen für die nächsten Abfahrten.",
+          "Planen Sie etwas Pufferzeit für Wartezeiten an den Haltestellen ein."
+        ],
+        "hu": [
+          "Töltse le a Welser Linien hivatalos alkalmazását a valós idejű menetrendekért és útvonalakért.",
+          "A napijegy szinte mindig olcsóbb, mint több vonaljegy.",
+          "Figyelje a megállókban lévő kijelzőket a következő indulásokért.",
+          "Tervezzen némi pufferidőt a megállókban való várakozásra."
+        ],
+        "ro": [
+          "Descărcați aplicația oficială a Welser Linien pentru a vedea orarele și rutele în timp real.",
+          "Un bilet de o zi este aproape întotdeauna mai ieftin decât mai multe bilete individuale.",
+          "Fiți atenți la afișajele din stații pentru următoarele plecări.",
+          "Planificați un timp tampon pentru așteptarea în stații."
+        ],
+        "en": [
+          "Download the official Welser Linien app to see real-time schedules and routes.",
+          "A day ticket is almost always cheaper than several single tickets.",
+          "Pay attention to the displays at the stops for the next departures.",
+          "Plan some buffer time for waiting at the stops."
+        ]
+      }
+    }
+  }
+}

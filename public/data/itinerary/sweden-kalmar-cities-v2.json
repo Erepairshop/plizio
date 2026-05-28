@@ -1,0 +1,1436 @@
+{
+  "city_id": "sweden-kalmar-cities-v2",
+  "anchor": {
+    "name": "Kalmar",
+    "coords": [
+      16.3568,
+      56.6634
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stortorget (Großer Platz)",
+            "hu": "Stortorget (Főtér)",
+            "ro": "Stortorget (Piața Mare)",
+            "en": "Stortorget (Main Square)"
+          },
+          "coords": [
+            16.3653,
+            56.6635
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier mit der beeindruckenden Kathedrale als Kulisse.",
+            "hu": "Kezdje a napot itt, a lenyűgöző katedrális látványával a háttérben.",
+            "ro": "Începeți ziua aici, cu impunătoarea catedrală pe fundal.",
+            "en": "Start your day here with the impressive cathedral as a backdrop."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom zu Kalmar",
+            "hu": "Kalmari dóm",
+            "ro": "Catedrala din Kalmar",
+            "en": "Kalmar Cathedral"
+          },
+          "coords": [
+            16.3661,
+            56.6638
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die barocke Architektur und die ruhige Atmosphäre.",
+            "hu": "Csodálja meg a barokk építészetet és a nyugodt légkört.",
+            "ro": "Admirați arhitectura barocă și atmosfera liniștită.",
+            "en": "Admire the baroque architecture and the serene atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Gamla Stan (Altstadt)",
+            "hu": "Gamla Stan (Óváros)",
+            "ro": "Gamla Stan (Orașul Vechi)",
+            "en": "Gamla Stan (Old Town)"
+          },
+          "coords": [
+            16.369,
+            56.6615
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den charmanten Kopfsteinpflasterstraßen.",
+            "hu": "Vesszen el a bájos, macskaköves utcácskákban.",
+            "ro": "Pierdeți-vă pe străduțele pietruite pline de farmec.",
+            "en": "Get lost in the charming cobblestone streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalmar Läns Museum",
+            "hu": "Kalmar Läns Múzeum",
+            "ro": "Muzeul Regional Kalmar",
+            "en": "Kalmar County Museum"
+          },
+          "coords": [
+            16.3688,
+            56.6655
+          ],
+          "category": "museums",
+          "arrive_at": "11:48",
+          "stay_min": 100,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Ausstellung über das königliche Schiff Kronan ist ein Muss.",
+            "hu": "A Kronan királyi hajóról szóló kiállítás kötelező program.",
+            "ro": "Expoziția despre nava regală Kronan este o vizită obligatorie.",
+            "en": "The exhibition about the royal ship Kronan is a must-see."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Kalmar",
+            "hu": "Kalmari vár",
+            "ro": "Castelul Kalmar",
+            "en": "Kalmar Castle"
+          },
+          "coords": [
+            16.356,
+            56.6575
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:03",
+          "stay_min": 120,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil, um die reiche Geschichte zu entdecken.",
+            "hu": "Vegyen részt egy vezetett túrán, hogy felfedezze a gazdag történelmet.",
+            "ro": "Participați la un tur ghidat pentru a descoperi istoria sa bogată.",
+            "en": "Join a guided tour to discover its rich history."
+          }
+        },
+        {
+          "name": {
+            "de": "Krusenstiernska Gården",
+            "hu": "Krusenstiernska Gården",
+            "ro": "Grădinile Krusenstiernska",
+            "en": "Krusenstiernska Gården"
+          },
+          "coords": [
+            16.3725,
+            56.66
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:33",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie Kaffee und Kuchen im ruhigen Garten-Café.",
+            "hu": "Élvezze a kávét és a süteményt a csendes kerti kávézóban.",
+            "ro": "Savurați o cafea și o prăjitură la cafeneaua liniștită din grădină.",
+            "en": "Enjoy a coffee and cake in the tranquil garden café."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang beginnt auf dem Stortorget, dem Herzen Kalmars, wo Sie die prächtige Kathedrale bewundern. Schlendern Sie durch die malerische Altstadt Gamla Stan, bevor Sie im Läns Museum in die maritime Geschichte eintauchen. Der Nachmittag ist dem majestätischen Schloss Kalmar gewidmet, einem Symbol der schwedischen Macht. Beenden Sie Ihren Tag im friedlichen Garten von Krusenstiernska gården, einem perfekten Ort, um die Eindrücke des Tages Revue passieren zu lassen.",
+        "hu": "Sétája a Stortorgeten, Kalmar szívében kezdődik, ahol megcsodálhatja a csodálatos dómot. Barangoljon a festői Gamla Stan óvárosban, mielőtt a Läns Múzeumban elmerül a tengerészeti történelemben. A délutánt a fenséges Kalmari várnak szenteljük, a svéd hatalom jelképének. Zárja a napot a Krusenstiernska gården békés kertjében, amely tökéletes hely a napi benyomások áttekintésére.",
+        "ro": "Plimbarea dvs. începe în Stortorget, inima orașului Kalmar, unde veți admira magnifica catedrală. Plimbați-vă prin pitorescul Oraș Vechi (Gamla Stan) înainte de a vă cufunda în istoria maritimă la Muzeul Regional. După-amiaza este dedicată maiestuosului Castel Kalmar, un simbol al puterii suedeze. Încheiați ziua în grădina liniștită de la Krusenstiernska gården, un loc perfect pentru a reflecta asupra impresiilor zilei.",
+        "en": "Your walk begins at Stortorget, the heart of Kalmar, admiring the magnificent cathedral. Stroll through the picturesque Old Town, Gamla Stan, before diving into maritime history at the County Museum. The afternoon is dedicated to the majestic Kalmar Castle, a symbol of Swedish power. End your day in the peaceful garden of Krusenstiernska gården, a perfect spot to reflect on the day's impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kroppkakor",
+            "tip": "Probieren Sie diese traditionellen Kartoffelklöße, gefüllt mit Schweinefleisch und Zwiebeln."
+          },
+          {
+            "name": "Gebratener Hering",
+            "tip": "Ein Klassiker der Ostseeküste, oft mit Kartoffelpüree serviert."
+          },
+          {
+            "name": "Postgatan",
+            "tip": "Ein beliebtes Restaurant in der Altstadt mit moderner schwedischer Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kroppkakor",
+            "tip": "Kóstolja meg ezt a hagyományos, sertéshússal és hagymával töltött burgonyagombócot."
+          },
+          {
+            "name": "Sült hering",
+            "tip": "A Balti-tenger partvidékének klasszikusa, gyakran krumplipürével tálalva."
+          },
+          {
+            "name": "Postgatan",
+            "tip": "Népszerű étterem az óvárosban, modern svéd konyhával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kroppkakor",
+            "tip": "Încercați aceste găluște tradiționale din cartofi, umplute cu carne de porc și ceapă."
+          },
+          {
+            "name": "Hering prăjit",
+            "tip": "Un clasic al coastei baltice, adesea servit cu piure de cartofi."
+          },
+          {
+            "name": "Postgatan",
+            "tip": "Un restaurant popular în Orașul Vechi, cu bucătărie suedeză modernă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kroppkakor",
+            "tip": "Try these traditional potato dumplings filled with pork and onions."
+          },
+          {
+            "name": "Fried Herring",
+            "tip": "A classic of the Baltic coast, often served with mashed potatoes."
+          },
+          {
+            "name": "Postgatan",
+            "tip": "A popular restaurant in the Old Town with modern Swedish cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kalmar Stadspark",
+            "tip": "Ein wunderschöner Park neben dem Schloss, ideal für eine ruhige Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spaziergang am Kalmarsund",
+            "tip": "Genießen Sie die Meeresbrise und den Blick auf die Ölandbrücke.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Bibliotheksgarten",
+            "tip": "Eine versteckte Oase der Ruhe mitten in der Stadt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kalmar Stadspark",
+            "tip": "Gyönyörű park a vár mellett, ideális egy csendes pihenőre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Séta a Kalmarsund mentén",
+            "tip": "Élvezze a tengeri szellőt és a kilátást az Öland hídra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Könyvtárkert",
+            "tip": "A nyugalom rejtett oázisa a város közepén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Orașului Kalmar",
+            "tip": "Un parc frumos lângă castel, perfect pentru o pauză liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Promenadă de-a lungul Strâmtorii Kalmar",
+            "tip": "Bucurați-vă de briza mării și de vederea spre Podul Öland.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina Bibliotecii",
+            "tip": "O oază ascunsă de liniște în mijlocul orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kalmar City Park",
+            "tip": "A beautiful park next to the castle, perfect for a quiet break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Walk along the Kalmar Sound",
+            "tip": "Enjoy the sea breeze and the view of the Öland Bridge.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Library Garden",
+            "tip": "A hidden oasis of calm in the middle of the city.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kvasten",
+            "tip": "Ein zentrales Einkaufszentrum für schwedische Marken und mehr."
+          },
+          {
+            "name": "Hemslöjden",
+            "tip": "Kaufen Sie authentisches schwedisches Handwerk und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kvasten",
+            "tip": "Központi bevásárlóközpont svéd márkákért és egyebekért."
+          },
+          {
+            "name": "Hemslöjden",
+            "tip": "Vásároljon autentikus svéd kézműves termékeket és szuveníreket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kvasten",
+            "tip": "Un centru comercial central pentru mărci suedeze și multe altele."
+          },
+          {
+            "name": "Hemslöjden",
+            "tip": "Cumpărați artizanat suedez autentic și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kvasten",
+            "tip": "A central shopping mall for Swedish brands and more."
+          },
+          {
+            "name": "Hemslöjden",
+            "tip": "Shop for authentic Swedish handicrafts and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Museen und das Schloss bieten ermäßigte Kombitickets an.",
+          "Ein 'Fika' (Kaffeepause mit Gebäck) ist ein wesentlicher Bestandteil der schwedischen Kultur – planen Sie eine ein!",
+          "Prüfen Sie die Öffnungszeiten des Schlosses im Voraus, da diese je nach Saison variieren."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óvárosi macskakő egyenetlen lehet.",
+          "A legtöbb múzeum és a vár kedvezményes kombinált jegyeket kínál.",
+          "A 'fika' (kávészünet süteménnyel) a svéd kultúra elengedhetetlen része – tervezzen be egyet!",
+          "Előre ellenőrizze a vár nyitvatartási idejét, mivel az szezonálisan változhat."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din Orașul Vechi poate fi denivelat.",
+          "Majoritatea muzeelor și castelul oferă bilete combinate la preț redus.",
+          "O 'fika' (pauză de cafea cu produse de patiserie) este o parte esențială a culturii suedeze - planificați una!",
+          "Verificați programul de funcționare al castelului în avans, deoarece acesta variază în funcție de sezon."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the Old Town can be uneven.",
+          "Most museums and the castle offer discounted combination tickets.",
+          "A 'fika' (coffee break with pastry) is an essential part of Swedish culture – plan for one!",
+          "Check the castle's opening hours in advance as they vary by season."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Gamla Stan (Altstadt)",
+            "hu": "Gamla Stan (Óváros)",
+            "ro": "Gamla Stan (Orașul Vechi)",
+            "en": "Gamla Stan (Old Town)"
+          },
+          "coords": [
+            16.369,
+            56.6615
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und erkunden Sie die engen Gassen zu Fuß.",
+            "hu": "Zárja le a biciklit és fedezze fel a szűk sikátorokat gyalog.",
+            "ro": "Încuietoarea bicicletei și explorați aleile înguste pe jos.",
+            "en": "Lock up your bike and explore the narrow alleys on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Kalmar",
+            "hu": "Kalmari vár",
+            "ro": "Castelul Kalmar",
+            "en": "Kalmar Castle"
+          },
+          "coords": [
+            16.356,
+            56.6575
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie durch den Schlosspark, um die besten Fotomotive zu finden.",
+            "hu": "Tekerjen át a várparkon a legjobb fotóhelyekért.",
+            "ro": "Plimbați-vă cu bicicleta prin parcul castelului pentru cele mai bune oportunități foto.",
+            "en": "Cycle through the castle park for the best photo opportunities."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalmar Konstmuseum",
+            "hu": "Kalmari Művészeti Múzeum",
+            "ro": "Muzeul de Artă Kalmar",
+            "en": "Kalmar Art Museum"
+          },
+          "coords": [
+            16.358,
+            56.6595
+          ],
+          "category": "museums",
+          "arrive_at": "11:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Moderne Architektur trifft auf zeitgenössische Kunst - ein toller Kontrast zum Schloss.",
+            "hu": "A modern építészet találkozik a kortárs művészettel - remek kontraszt a várral.",
+            "ro": "Arhitectura modernă întâlnește arta contemporană - un contrast excelent cu castelul.",
+            "en": "Modern architecture meets contemporary art - a great contrast to the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussicht auf Ölandsbron",
+            "hu": "Kilátás az Öland hídra",
+            "ro": "Vedere spre Podul Öland",
+            "en": "Ölandsbron Viewpoint"
+          },
+          "coords": [
+            16.39,
+            56.675
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine schöne Radtour entlang der Küste zu einem tollen Aussichtspunkt auf die Brücke.",
+            "hu": "Egy kellemes biciklitúra a part mentén egy remek kilátóponthoz a hídra.",
+            "ro": "O plimbare plăcută cu bicicleta de-a lungul coastei până la un punct de belvedere excelent spre pod.",
+            "en": "A pleasant bike ride along the coast to a great viewpoint of the bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalmar Läns Museum",
+            "hu": "Kalmar Läns Múzeum",
+            "ro": "Muzeul Regional Kalmar",
+            "en": "Kalmar County Museum"
+          },
+          "coords": [
+            16.3688,
+            56.6655
+          ],
+          "category": "museums",
+          "arrive_at": "14:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über das Wrack des Schiffes Kronan, das direkt vor der Küste sank.",
+            "hu": "Tudjon meg többet a part közelében elsüllyedt Kronan hajóroncsról.",
+            "ro": "Aflați despre epava navei Kronan, care s-a scufundat chiar în largul coastei.",
+            "en": "Learn about the wreck of the Kronan ship, which sank just off the coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Stortorget & Dom",
+            "hu": "Stortorget és a Dóm",
+            "ro": "Stortorget și Catedrala",
+            "en": "Stortorget & Cathedral"
+          },
+          "coords": [
+            16.3661,
+            56.6638
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:06",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour dort, wo der Tag für die Spaziergänger begann.",
+            "hu": "Fejezze be a túrát ott, ahol a gyalogosok számára a nap kezdődött.",
+            "ro": "Încheiați turul acolo unde a început ziua pentru pietoni.",
+            "en": "End your tour where the day began for the walkers."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Fahrrad und starten Sie in der charmanten Altstadt. Radeln Sie zum imposanten Schloss Kalmar und genießen Sie die Aussicht vom Park aus. Ein kurzer Abstecher führt Sie zum modernen Kunstmuseum, bevor Sie eine längere Tour entlang der Küste zur berühmten Ölandbrücke unternehmen. Auf dem Rückweg tauchen Sie im Läns Museum in die Geschichte ein und beenden den Tag mit einem letzten Blick auf die Kathedrale am Stortorget.",
+        "hu": "Pattanjon biciklire, és induljon a bájos óvárosból. Tekerjen el a lenyűgöző Kalmari várhoz, és élvezze a kilátást a parkból. Egy rövid kitérő a modern művészeti múzeumba vezet, mielőtt egy hosszabb túrára indul a part mentén a híres Öland hídhoz. Visszafelé merüljön el a történelemben a Läns Múzeumban, és zárja a napot egy utolsó pillantással a Stortorgeten álló dómra.",
+        "ro": "Urcați-vă pe bicicletă și porniți din fermecătorul Oraș Vechi. Pedalați spre impunătorul Castel Kalmar și bucurați-vă de priveliștea din parc. Un scurt ocol vă duce la muzeul de artă modernă înainte de a face un tur mai lung de-a lungul coastei spre faimosul Pod Öland. Pe drumul de întoarcere, scufundați-vă în istorie la Muzeul Regional și încheiați ziua cu o ultimă privire la catedrala din Stortorget.",
+        "en": "Hop on your bike and start in the charming Old Town. Cycle to the imposing Kalmar Castle and enjoy the view from the park. A short detour takes you to the modern art museum before you embark on a longer tour along the coast to the famous Öland Bridge. On the way back, immerse yourself in history at the County Museum and end the day with a final look at the cathedral in Stortorget."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smålandskringlor",
+            "tip": "Ein lokales Gebäck, perfekt für eine süße Stärkung unterwegs."
+          },
+          {
+            "name": "Fischsuppen",
+            "tip": "Wärmen Sie sich mit einer herzhaften Fischsuppe in einem der Hafencafés auf."
+          },
+          {
+            "name": "Kallskänken",
+            "tip": "Ein großartiger Ort für ein leichtes Mittagessen mit frischen Salaten und Sandwiches."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smålandskringlor",
+            "tip": "Helyi péksütemény, tökéletes egy édes energiabombához útközben."
+          },
+          {
+            "name": "Hallevesek",
+            "tip": "Melegedjen fel egy kiadós halevessel a kikötői kávézók egyikében."
+          },
+          {
+            "name": "Kallskänken",
+            "tip": "Nagyszerű hely egy könnyű ebédhez friss salátákkal és szendvicsekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smålandskringlor",
+            "tip": "Un produs de patiserie local, perfect pentru un impuls de energie dulce pe drum."
+          },
+          {
+            "name": "Supe de pește",
+            "tip": "Încălziți-vă cu o supă de pește consistentă la una dintre cafenelele din port."
+          },
+          {
+            "name": "Kallskänken",
+            "tip": "Un loc minunat pentru un prânz ușor cu salate proaspete și sandvișuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smålandskringlor",
+            "tip": "A local pastry, perfect for a sweet boost of energy on the go."
+          },
+          {
+            "name": "Fish Soups",
+            "tip": "Warm up with a hearty fish soup at one of the harbor cafes."
+          },
+          {
+            "name": "Kallskänken",
+            "tip": "A great spot for a light lunch with fresh salads and sandwiches."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Svinö Naturreservat",
+            "tip": "Ein Naturschutzgebiet in der Nähe der Ölandbrücke, ideal für eine Radpause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stensö",
+            "tip": "Eine Halbinsel südlich des Schlosses mit schönen Wegen und Stränden.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Friedhof von Kalmar",
+            "tip": "Ein überraschend friedlicher und wunderschön gepflegter Ort.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Svinö Természetvédelmi Terület",
+            "tip": "Természetvédelmi terület az Öland híd közelében, ideális egy biciklis pihenőhöz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stensö",
+            "tip": "Félsziget a vártól délre, szép utakkal és strandokkal.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kalmari temető",
+            "tip": "Meglepően békés és gyönyörűen gondozott hely.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rezervația Naturală Svinö",
+            "tip": "O rezervație naturală lângă Podul Öland, ideală pentru o pauză de ciclism.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stensö",
+            "tip": "O peninsulă la sud de castel cu poteci și plaje frumoase.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cimitirul din Kalmar",
+            "tip": "Un loc surprinzător de pașnic și frumos întreținut.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Svinö Nature Reserve",
+            "tip": "A nature reserve near the Öland Bridge, ideal for a cycling break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stensö",
+            "tip": "A peninsula south of the castle with beautiful paths and beaches.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kalmar Cemetery",
+            "tip": "A surprisingly peaceful and beautifully maintained place.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradverleih Kalmar",
+            "tip": "Mieten Sie ein Fahrrad in der Nähe des Bahnhofs, um die Stadt zu erkunden."
+          },
+          {
+            "name": "Lokale Hofläden",
+            "tip": "Entlang der Küstenstraßen finden Sie oft kleine Läden mit lokalen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kalmar kerékpárkölcsönző",
+            "tip": "Béreljen biciklit a vasútállomás közelében a város felfedezéséhez."
+          },
+          {
+            "name": "Helyi termelői boltok",
+            "tip": "A parti utak mentén gyakran talál kis boltokat helyi termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Închiriere biciclete Kalmar",
+            "tip": "Închiriați o bicicletă lângă gară pentru a explora orașul."
+          },
+          {
+            "name": "Magazine agricole locale",
+            "tip": "De-a lungul drumurilor de coastă veți găsi adesea mici magazine cu produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kalmar Bicycle Rental",
+            "tip": "Rent a bike near the train station to explore the city."
+          },
+          {
+            "name": "Local Farm Shops",
+            "tip": "Along the coastal roads, you'll often find small shops with local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Viele Wege in Kalmar sind fahrradfreundlich, achten Sie aber in der Altstadt auf Fußgänger.",
+          "Ein Helm wird empfohlen, ist aber nicht gesetzlich vorgeschrieben.",
+          "Nehmen Sie eine Wasserflasche und Snacks für die längere Fahrt zur Ölandbrücke mit.",
+          "Schließen Sie Ihr Fahrrad immer an, auch wenn Sie es nur für kurze Zeit abstellen."
+        ],
+        "hu": [
+          "Kalmarban sok út biciklibarát, de az óvárosban figyeljen a gyalogosokra.",
+          "A sisak ajánlott, de nem kötelező.",
+          "Vigyen magával egy vizes palackot és rágcsálnivalót a hosszabb, Öland hídhoz vezető útra.",
+          "Mindig zárja le a biciklit, még akkor is, ha csak rövid időre hagyja ott."
+        ],
+        "ro": [
+          "Multe trasee din Kalmar sunt prietenoase cu bicicletele, dar fiți atenți la pietoni în Orașul Vechi.",
+          "O cască este recomandată, dar nu este obligatorie prin lege.",
+          "Luați o sticlă de apă și gustări pentru plimbarea mai lungă spre Podul Öland.",
+          "Întotdeauna încuiați-vă bicicleta, chiar dacă o lăsați doar pentru o perioadă scurtă."
+        ],
+        "en": [
+          "Many paths in Kalmar are bike-friendly, but watch out for pedestrians in the Old Town.",
+          "A helmet is recommended but not legally required.",
+          "Bring a water bottle and snacks for the longer ride to the Öland Bridge.",
+          "Always lock your bike, even if leaving it for just a short time."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Parken am Stortorget",
+            "hu": "A klaszter: Parkolás a Stortorgetnél",
+            "ro": "Cluster A: Parcare la Stortorget",
+            "en": "Cluster A: Parking at Stortorget"
+          },
+          "coords": [
+            16.364,
+            56.6645
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie den ersten Teil der Stadt zu Fuß.",
+            "hu": "Parkoljon itt, és fedezze fel a város első részét gyalog.",
+            "ro": "Parcați aici și explorați prima parte a orașului pe jos.",
+            "en": "Park here and explore the first part of the city on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom zu Kalmar",
+            "hu": "Kalmari dóm",
+            "ro": "Catedrala din Kalmar",
+            "en": "Kalmar Cathedral"
+          },
+          "coords": [
+            16.3661,
+            56.6638
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 35,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Parkplatz entfernt.",
+            "hu": "Csak egy rövid séta a parkolótól.",
+            "ro": "La doar o scurtă plimbare de parcare.",
+            "en": "Just a short walk from the parking spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Gamla Stan (Altstadt)",
+            "hu": "Gamla Stan (Óváros)",
+            "ro": "Gamla Stan (Orașul Vechi)",
+            "en": "Gamla Stan (Old Town)"
+          },
+          "coords": [
+            16.369,
+            56.6615
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Gassen der Altstadt sind am besten zu Fuß zu entdecken.",
+            "hu": "Az óváros sikátorait a legjobb gyalog felfedezni.",
+            "ro": "Aleile din Orașul Vechi sunt cel mai bine explorate pe jos.",
+            "en": "The alleys of the Old Town are best explored on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Schloss Kalmar",
+            "hu": "B klaszter: Kalmari vár",
+            "ro": "Cluster B: Castelul Kalmar",
+            "en": "Cluster B: Kalmar Castle"
+          },
+          "coords": [
+            16.356,
+            56.6575
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Schloss und nutzen Sie den großen Parkplatz dort.",
+            "hu": "Vezessen a várhoz, és használja az ottani nagy parkolót.",
+            "ro": "Conduceți la castel și folosiți parcarea mare de acolo.",
+            "en": "Drive to the castle and use the large parking lot there."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalmar Konstmuseum",
+            "hu": "Kalmari Művészeti Múzeum",
+            "ro": "Muzeul de Artă Kalmar",
+            "en": "Kalmar Art Museum"
+          },
+          "coords": [
+            16.358,
+            56.6595
+          ],
+          "category": "museums",
+          "arrive_at": "13:40",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Kunstmuseum liegt direkt neben dem Schloss im selben Park.",
+            "hu": "A művészeti múzeum közvetlenül a vár mellett található, ugyanabban a parkban.",
+            "ro": "Muzeul de artă este situat chiar lângă castel, în același parc.",
+            "en": "The art museum is located right next to the castle in the same park."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Ölandsbron & Küste",
+            "hu": "C klaszter: Öland híd és part",
+            "ro": "Cluster C: Podul Öland și Coasta",
+            "en": "Cluster C: Öland Bridge & Coast"
+          },
+          "coords": [
+            16.395,
+            56.678
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie für eine andere Perspektive zum nördlichen Ufer für einen Blick auf die Brücke.",
+            "hu": "Vezessen az északi partra egy másik perspektíváért és a hídra nyíló kilátásért.",
+            "ro": "Conduceți spre malul nordic pentru o perspectivă diferită și o vedere a podului.",
+            "en": "Drive to the northern shore for a different perspective and a view of the bridge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Auto im Zentrum und parken Sie in der Nähe des Stortorget. Erkunden Sie die Kathedrale und die Altstadt zu Fuß. Anschließend fahren Sie zum majestätischen Schloss Kalmar, wo Sie einen neuen Stützpunkt für die Erkundung des Schlosses und des benachbarten Kunstmuseums einrichten. Zum Abschluss des Tages fahren Sie zur Küste, um die beeindruckende Ölandbrücke aus der Ferne zu bewundern und die Meeresluft zu genießen. Dieses clusterbasierte Vorgehen minimiert die Parkplatzsuche und maximiert Ihr Erlebnis.",
+        "hu": "Kezdje a napot autóval a központban, parkoljon a Stortorget közelében. Fedezze fel gyalog a dómot és az óvárost. Ezután vezessen a fenséges Kalmari várhoz egy újabb bázisért, ahonnan felfedezheti a várat és a szomszédos művészeti múzeumot. A nap végén hajtson a parthoz, hogy távolról megcsodálhassa a lenyűgöző Öland hidat és élvezze a tengeri levegőt. Ez a klaszter-alapú megközelítés minimalizálja a parkolóhely-keresést és maximalizálja az élményt.",
+        "ro": "Începeți ziua cu mașina în centru, parcând lângă Stortorget. Explorați catedrala și Orașul Vechi pe jos. Apoi, conduceți la maiestuosul Castel Kalmar pentru o nouă bază de explorare a castelului și a muzeului de artă adiacent. Pentru a încheia ziua, conduceți spre coastă pentru a admira impresionantul Pod Öland de la distanță și a vă bucura de aerul mării. Această abordare pe clustere minimizează căutarea parcării și maximizează experiența.",
+        "en": "Start your day by car in the center, parking near Stortorget. Explore the cathedral and the Old Town on foot. Then, drive to the majestic Kalmar Castle for a new base to explore the castle and the adjacent art museum. To finish the day, drive to the coast to admire the impressive Öland Bridge from a distance and enjoy the sea air. This cluster-based approach minimizes parking searches and maximizes your experience."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Isterband",
+            "tip": "Eine grobe, geräucherte Wurst aus Småland, oft mit Roter Bete und Dillkartoffeln serviert."
+          },
+          {
+            "name": "Schlosscafé Kalmar",
+            "tip": "Genießen Sie eine königliche 'Fika' mit Blick auf den Schlosshof."
+          },
+          {
+            "name": "Grill-Plätze am Meer",
+            "tip": "Mit dem Auto können Sie leicht tragbare Grills zu den ausgewiesenen Plätzen mitnehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Isterband",
+            "tip": "Durva, füstölt kolbász Smålandból, gyakran céklával és kapros burgonyával tálalva."
+          },
+          {
+            "name": "Kalmari várkávézó",
+            "tip": "Élvezzen egy királyi 'fikát' a várudvarra néző kilátással."
+          },
+          {
+            "name": "Grillezőhelyek a tengernél",
+            "tip": "Autóval könnyen vihet hordozható grilleket a kijelölt helyekre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Isterband",
+            "tip": "Un cârnat gros, afumat, din Småland, adesea servit cu sfeclă roșie și cartofi cu mărar."
+          },
+          {
+            "name": "Cafeneaua Castelului Kalmar",
+            "tip": "Bucurați-vă de o 'fika' regală cu vedere la curtea castelului."
+          },
+          {
+            "name": "Zone de grătar la malul mării",
+            "tip": "Cu mașina, puteți aduce cu ușurință grătare portabile în zonele desemnate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Isterband",
+            "tip": "A coarse, smoked sausage from Småland, often served with beetroot and dill potatoes."
+          },
+          {
+            "name": "Kalmar Castle Café",
+            "tip": "Enjoy a royal 'fika' with a view of the castle courtyard."
+          },
+          {
+            "name": "Seaside BBQ spots",
+            "tip": "With a car, you can easily bring portable grills to designated spots."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Öland (mit dem Auto)",
+            "tip": "Fahren Sie über die Brücke für weite Landschaften und ruhige Dörfer.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ekenäs",
+            "tip": "Ein ruhiger kleiner Hafen südlich des Stadtzentrums, mit dem Auto leicht erreichbar.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Die Wälder von Småland",
+            "tip": "Nur eine kurze Autofahrt landeinwärts finden Sie endlose, stille Wälder.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Öland (autóval)",
+            "tip": "Hajtson át a hídon a tágas tájakért és csendes falvakért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ekenäs",
+            "tip": "Csendes kis kikötő a városközponttól délre, autóval könnyen elérhető.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Småland erdői",
+            "tip": "Csak egy rövid autóútra a szárazföld belseje felé végtelen, csendes erdőket talál.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Öland (cu mașina)",
+            "tip": "Conduceți peste pod pentru peisaje vaste și sate liniștite.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ekenäs",
+            "tip": "Un mic port liniștit la sud de centrul orașului, ușor accesibil cu mașina.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pădurile din Småland",
+            "tip": "La doar o scurtă călătorie cu mașina în interiorul țării veți găsi păduri nesfârșite și tăcute.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Öland (by car)",
+            "tip": "Drive across the bridge for vast landscapes and quiet villages.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ekenäs",
+            "tip": "A quiet little harbor south of the city center, easily accessible by car.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The forests of Småland",
+            "tip": "Just a short drive inland you'll find endless, silent forests.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Giraffen Shopping Center",
+            "tip": "Ein größeres Einkaufszentrum am Stadtrand, leicht mit dem Auto erreichbar."
+          },
+          {
+            "name": "Glasreich (Glasriket)",
+            "tip": "Machen Sie einen Tagesausflug zu den berühmten Glasbläsereien von Småland."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Giraffen Bevásárlóközpont",
+            "tip": "Nagyobb bevásárlóközpont a város szélén, autóval könnyen megközelíthető."
+          },
+          {
+            "name": "Üvegkirályság (Glasriket)",
+            "tip": "Tegyen egy napos kirándulást Småland híres üvegfúvó műhelyeibe."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Giraffen",
+            "tip": "Un centru comercial mai mare la marginea orașului, ușor accesibil cu mașina."
+          },
+          {
+            "name": "Regatul de Sticlă (Glasriket)",
+            "tip": "Faceți o excursie de o zi la faimoasele sticlării din Småland."
+          }
+        ],
+        "en": [
+          {
+            "name": "Giraffen Shopping Center",
+            "tip": "A larger shopping center on the outskirts of town, easily accessible by car."
+          },
+          {
+            "name": "Kingdom of Crystal (Glasriket)",
+            "tip": "Take a day trip to the famous glassworks of Småland."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum ist kostenpflichtig. Nutzen Sie Park-Apps wie EasyPark.",
+          "Die Ölandbrücke ist mautfrei.",
+          "Achten Sie auf Geschwindigkeitsbegrenzungen, besonders in Wohngebieten.",
+          "Planen Sie Ihre Cluster, um unnötiges Hin- und Herfahren zu vermeiden."
+        ],
+        "hu": [
+          "A parkolás a városközpontban fizetős. Használjon parkolási alkalmazásokat, mint az EasyPark.",
+          "Az Öland híd ingyenes.",
+          "Figyeljen a sebességkorlátozásokra, különösen a lakóövezetekben.",
+          "Tervezze meg a klasztereket, hogy elkerülje a felesleges oda-vissza vezetést."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului este contra cost. Folosiți aplicații de parcare precum EasyPark.",
+          "Podul Öland este gratuit.",
+          "Fiți atenți la limitele de viteză, în special în zonele rezidențiale.",
+          "Planificați-vă clusterele pentru a evita condusul inutil înainte și înapoi."
+        ],
+        "en": [
+          "Parking in the city center is paid. Use parking apps like EasyPark.",
+          "The Öland Bridge is toll-free.",
+          "Pay attention to speed limits, especially in residential areas.",
+          "Plan your clusters to avoid unnecessary driving back and forth."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 6.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Hauptbahnhof & Stortorget",
+            "hu": "A klaszter: Főpályaudvar és Stortorget",
+            "ro": "Cluster A: Gara Centrală și Stortorget",
+            "en": "Cluster A: Central Station & Stortorget"
+          },
+          "coords": [
+            16.3653,
+            56.6635
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Vom Bahnhof sind es nur wenige Gehminuten zum Hauptplatz.",
+            "hu": "A pályaudvartól csak néhány perc séta a főtér.",
+            "ro": "De la gară, este doar o scurtă plimbare până la piața principală.",
+            "en": "From the station, it's just a short walk to the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom zu Kalmar",
+            "hu": "Kalmari dóm",
+            "ro": "Catedrala din Kalmar",
+            "en": "Kalmar Cathedral"
+          },
+          "coords": [
+            16.3661,
+            56.6638
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 35,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt am Platz gelegen, unübersehbar.",
+            "hu": "Közvetlenül a téren található, nem lehet eltéveszteni.",
+            "ro": "Situată chiar în piață, imposibil de ratat.",
+            "en": "Located right on the square, impossible to miss."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalmar Läns Museum",
+            "hu": "Kalmar Läns Múzeum",
+            "ro": "Muzeul Regional Kalmar",
+            "en": "Kalmar County Museum"
+          },
+          "coords": [
+            16.3688,
+            56.6655
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Dom entlang des Wassers.",
+            "hu": "Egy rövid séta a dómtól a víz mentén.",
+            "ro": "O scurtă plimbare de la catedrală de-a lungul apei.",
+            "en": "A short walk from the cathedral along the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Schloss Kalmar",
+            "hu": "B klaszter: Kalmari vár",
+            "ro": "Cluster B: Castelul Kalmar",
+            "en": "Cluster B: Kalmar Castle"
+          },
+          "coords": [
+            16.356,
+            56.6575
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Zentrum zum Schloss, um Zeit und Energie zu sparen.",
+            "hu": "Menjen busszal a központból a várhoz, hogy időt és energiát takarítson meg.",
+            "ro": "Luați un autobuz din centru spre castel pentru a economisi timp și energie.",
+            "en": "Take a bus from the center to the castle to save time and energy."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalmar Konstmuseum",
+            "hu": "Kalmari Művészeti Múzeum",
+            "ro": "Muzeul de Artă Kalmar",
+            "en": "Kalmar Art Museum"
+          },
+          "coords": [
+            16.358,
+            56.6595
+          ],
+          "category": "museums",
+          "arrive_at": "14:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum befindet sich im selben Park wie das Schloss.",
+            "hu": "A múzeum ugyanabban a parkban található, mint a vár.",
+            "ro": "Muzeul este situat în același parc cu castelul.",
+            "en": "The museum is located in the same park as the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Gamla Stan",
+            "hu": "C klaszter: Gamla Stan",
+            "ro": "Cluster C: Gamla Stan",
+            "en": "Cluster C: Gamla Stan"
+          },
+          "coords": [
+            16.3725,
+            56.66
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:05",
+          "stay_min": 70,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zurück in die Altstadt für einen abendlichen Spaziergang.",
+            "hu": "Menjen busszal vissza az óvárosba egy esti sétára.",
+            "ro": "Luați un autobuz înapoi în Orașul Vechi pentru o plimbare de seară.",
+            "en": "Take a bus back to the Old Town for an evening stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Tour beginnt im Herzen der Stadt, dem Stortorget, der vom Bahnhof aus leicht zu Fuß erreichbar ist. Nach der Erkundung der Kathedrale und des Läns Museums bringt Sie ein kurzer Bus Sie zum majestätischen Schloss-Cluster. Hier können Sie das Schloss und das benachbarte Kunstmuseum in Ruhe erkunden. Eine weitere Busfahrt bringt Sie zurück in die charmante Altstadt, wo Sie den Tag in den historischen Gassen ausklingen lassen können. Diese Methode kombiniert Spaziergänge mit effizienten Busfahrten.",
+        "hu": "Túrája a város szívében, a Stortorgeten kezdődik, amely a vasútállomástól könnyen megközelíthető gyalog. A dóm és a Läns Múzeum felfedezése után egy rövid buszozás elviszi a fenséges vár-klaszterhez. Itt nyugodtan felfedezheti a várat és a szomszédos művészeti múzeumot. Egy újabb buszút visszaviszi a bájos óvárosba, ahol a történelmi sikátorokban fejezheti be a napot. Ez a módszer ötvözi a sétákat a hatékony buszozással.",
+        "ro": "Turul dvs. începe în inima orașului, Stortorget, ușor accesibil pe jos de la gară. După explorarea catedralei și a Muzeului Regional, o scurtă călătorie cu autobuzul vă duce la clusterul maiestuos al castelului. Aici, puteți explora castelul și muzeul de artă adiacent în ritmul propriu. O altă călătorie cu autobuzul vă duce înapoi în fermecătorul Oraș Vechi, unde puteți încheia ziua pe aleile istorice. Această metodă combină plimbările cu călătoriile eficiente cu autobuzul.",
+        "en": "Your tour begins in the heart of the city, Stortorget, easily reachable on foot from the train station. After exploring the cathedral and the County Museum, a short bus ride takes you to the majestic castle cluster. Here, you can explore the castle and the adjacent art museum at your leisure. Another bus ride takes you back to the charming Old Town, where you can end the day in the historic alleys. This method combines walks with efficient bus journeys."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konditori",
+            "tip": "In der Nähe vieler Bushaltestellen finden Sie traditionelle Konditoreien für eine schnelle Fika."
+          },
+          {
+            "name": "Saluhall (Markthalle)",
+            "tip": "Wenn eine in der Nähe Ihrer Route liegt, probieren Sie lokale Delikatessen."
+          },
+          {
+            "name": "Restaurang Kvarnen",
+            "tip": "Ein klassisches Restaurant, das für seine schwedische Hausmannskost bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cukrászda (Konditori)",
+            "tip": "Sok buszmegálló közelében talál hagyományos cukrászdákat egy gyors fikára."
+          },
+          {
+            "name": "Vásárcsarnok (Saluhall)",
+            "tip": "Ha van egy az útvonala közelében, kóstolja meg a helyi finomságokat."
+          },
+          {
+            "name": "Restaurang Kvarnen",
+            "tip": "Klasszikus étterem, amely svéd házias ételeiről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cofetărie (Konditori)",
+            "tip": "Veți găsi cofetării tradiționale lângă multe stații de autobuz pentru o fika rapidă."
+          },
+          {
+            "name": "Hală (Saluhall)",
+            "tip": "Dacă există una aproape de traseul dvs., încercați delicatese locale."
+          },
+          {
+            "name": "Restaurang Kvarnen",
+            "tip": "Un restaurant clasic cunoscut pentru mâncarea suedeză gătită acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pastry Shop (Konditori)",
+            "tip": "You'll find traditional pastry shops near many bus stops for a quick fika."
+          },
+          {
+            "name": "Market Hall (Saluhall)",
+            "tip": "If there's one near your route, try local delicacies."
+          },
+          {
+            "name": "Restaurang Kvarnen",
+            "tip": "A classic restaurant known for its Swedish home cooking."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obere Etage eines Doppeldeckerbusses",
+            "tip": "Genießen Sie die Stadt aus einer anderen Perspektive, während Sie zwischen den Clustern reisen.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Kattrumpan",
+            "tip": "Ein beliebter Badeplatz, der mit dem Bus erreichbar ist, für eine erfrischende Pause.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Skälby",
+            "tip": "Ein etwas außerhalb gelegener Bauernhof und Park, perfekt für einen längeren, ruhigen Ausflug mit dem Bus.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Emeletes busz felső szintje",
+            "tip": "Élvezze a várost más szemszögből, miközben a klaszterek között utazik.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Kattrumpan",
+            "tip": "Népszerű fürdőhely, busszal elérhető, egy frissítő szünetre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Skälby",
+            "tip": "Kicsit kijjebb eső farm és park, tökéletes egy hosszabb, csendes kiránduláshoz busszal.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etajul superior al unui autobuz supraetajat",
+            "tip": "Bucurați-vă de oraș dintr-o perspectivă diferită în timp ce călătoriți între clustere.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Kattrumpan",
+            "tip": "Un loc popular de înot accesibil cu autobuzul pentru o pauză revigorantă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Skälby",
+            "tip": "O fermă și un parc puțin în afara orașului, perfect pentru o excursie mai lungă și liniștită cu autobuzul.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Upper deck of a double-decker bus",
+            "tip": "Enjoy the city from a different perspective while traveling between clusters.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Kattrumpan",
+            "tip": "A popular swimming spot accessible by bus for a refreshing break.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Skälby",
+            "tip": "A farm and park a bit outside the city, perfect for a longer, quiet trip by bus.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Baronen Shopping",
+            "tip": "Ein Einkaufszentrum in der Nähe des Hafens, gut mit öffentlichen Verkehrsmitteln erreichbar."
+          },
+          {
+            "name": "Souvenirladen im Schloss",
+            "tip": "Finden Sie einzigartige Geschenke und Bücher zur schwedischen Geschichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Baronen Shopping",
+            "tip": "Bevásárlóközpont a kikötő közelében, tömegközlekedéssel jól megközelíthető."
+          },
+          {
+            "name": "Szuvenírbolt a várban",
+            "tip": "Találjon egyedi ajándékokat és könyveket a svéd történelemről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Baronen Shopping",
+            "tip": "Un centru comercial lângă port, ușor accesibil cu transportul public."
+          },
+          {
+            "name": "Magazinul de suveniruri al castelului",
+            "tip": "Găsiți cadouri unice și cărți despre istoria Suediei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Baronen Shopping",
+            "tip": "A shopping center near the harbor, easily accessible by public transport."
+          },
+          {
+            "name": "Castle Gift Shop",
+            "tip": "Find unique gifts and books about Swedish history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine 24-Stunden-Karte für den öffentlichen Nahverkehr, um Geld zu sparen.",
+          "Laden Sie die KLT-App herunter, um Busfahrpläne und Routen in Echtzeit zu verfolgen.",
+          "Die meisten Busse sind bargeldlos, also stellen Sie sicher, dass Sie eine Karte oder ein App-Ticket haben.",
+          "Geben Sie dem Fahrer ein Zeichen, wenn Sie möchten, dass der Bus anhält."
+        ],
+        "hu": [
+          "Vásároljon 24 órás tömegközlekedési jegyet a spórolás érdekében.",
+          "Töltse le a KLT alkalmazást a valós idejű buszmenetrendek és útvonalak követéséhez.",
+          "A legtöbb busz készpénzmentes, ezért győződjön meg róla, hogy van kártyája vagy applikációs jegye.",
+          "Jelezzen a sofőrnek, ha azt szeretné, hogy a busz megálljon."
+        ],
+        "ro": [
+          "Cumpărați un bilet de 24 de ore pentru transportul public pentru a economisi bani.",
+          "Descărcați aplicația KLT pentru a urmări orarele și rutele autobuzelor în timp real.",
+          "Majoritatea autobuzelor sunt fără numerar, așa că asigurați-vă că aveți un card sau un bilet în aplicație.",
+          "Faceți un semn șoferului când doriți ca autobuzul să oprească."
+        ],
+        "en": [
+          "Buy a 24-hour public transport ticket to save money.",
+          "Download the KLT app to track bus schedules and routes in real-time.",
+          "Most buses are cashless, so make sure you have a card or an app ticket.",
+          "Signal the driver when you want the bus to stop."
+        ]
+      }
+    }
+  }
+}

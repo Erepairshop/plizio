@@ -1,0 +1,1556 @@
+{
+  "city_id": "czechrepublic-orlova-cities-v2",
+  "anchor": {
+    "name": "Orlau",
+    "coords": [
+      18.43,
+      49.845
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Platz des 28. Oktober",
+            "hu": "Október 28. tér",
+            "ro": "Piața 28 Octombrie",
+            "en": "October 28th Square"
+          },
+          "coords": [
+            18.4305,
+            49.8455
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Starten Sie den Tag hier mit einem Kaffee und beobachten Sie das städtische Leben.",
+            "hu": "Kezdje a napot egy kávéval, és figyelje a város ébredését.",
+            "ro": "Începeți ziua aici cu o cafea, observând viața orașului.",
+            "en": "Start your day here with a coffee and watch the town life unfold."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Rathaus",
+            "hu": "Régi Városháza",
+            "ro": "Primăria Veche",
+            "en": "Old Town Hall"
+          },
+          "coords": [
+            18.431,
+            49.8452
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur und die Details der Fassade.",
+            "hu": "Csodálja meg az épület építészetét és a homlokzat részleteit.",
+            "ro": "Admirați arhitectura și detaliile fațadei.",
+            "en": "Admire the architecture and the details of the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für die Streikopfer",
+            "hu": "Sztrájk Áldozatainak Emlékműve",
+            "ro": "Monumentul Victimelor Grevei",
+            "en": "Monument to the Strike Victims"
+          },
+          "coords": [
+            18.429,
+            49.846
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:08",
+          "stay_min": 15,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Moment der Stille, um der lokalen Geschichte zu gedenken.",
+            "hu": "Egy csendes pillanat a helyi történelem emlékére.",
+            "ro": "Un moment de reculegere pentru a comemora istoria locală.",
+            "en": "A moment of silence to commemorate the local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Geburt",
+            "hu": "Szűz Mária Születése templom",
+            "ro": "Biserica Nașterea Maicii Domnului",
+            "en": "Church of the Nativity of the Virgin Mary"
+          },
+          "coords": [
+            18.432,
+            49.848
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden Fresken im Inneren der Kirche.",
+            "hu": "Figyelje meg a templom belsejében található lenyűgöző freskókat.",
+            "ro": "Fiți atenți la frescele impresionante din interiorul bisericii.",
+            "en": "Pay attention to the impressive frescoes inside the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Evangelische Kirche",
+            "hu": "Evangélikus templom",
+            "ro": "Biserica Evanghelică",
+            "en": "Evangelical Church"
+          },
+          "coords": [
+            18.435,
+            49.8475
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:27",
+          "stay_min": 30,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vergleichen Sie den schlichteren Baustil mit der katholischen Kirche.",
+            "hu": "Hasonlítsa össze az egyszerűbb építészeti stílust a katolikus temploméval.",
+            "ro": "Comparați stilul arhitectural mai simplu cu cel al bisericii catolice.",
+            "en": "Compare the simpler architectural style to the Catholic church."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Region Teschen",
+            "hu": "Tescheni Régió Múzeuma",
+            "ro": "Muzeul regiunii Těšín",
+            "en": "Museum of the Těšín Region"
+          },
+          "coords": [
+            18.433,
+            49.849
+          ],
+          "category": "museums",
+          "arrive_at": "12:07",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie genug Zeit für die Bergbau-Ausstellung ein.",
+            "hu": "Szánjon elég időt a bányászati kiállításra.",
+            "ro": "Planificați suficient timp pentru expoziția despre minerit.",
+            "en": "Plan enough time for the mining exhibition."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlosspark",
+            "hu": "Kastélypark",
+            "ro": "Parcul Castelului",
+            "en": "Castle Park"
+          },
+          "coords": [
+            18.42,
+            49.847
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekt für einen entspannten Spaziergang nach dem Museumsbesuch. Suchen Sie den alten Baumbestand.",
+            "hu": "Tökéletes egy pihentető sétára a múzeumlátogatás után. Keresse meg az öreg fákat.",
+            "ro": "Perfect pentru o plimbare relaxantă după vizita la muzeu. Căutați arborii seculari.",
+            "en": "Perfect for a relaxing walk after the museum visit. Look for the ancient trees."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Spaziergang durch Orlová beginnt am belebten Platz des 28. Oktober. Der Vormittag ist der Erkundung des historischen Zentrums gewidmet, einschließlich des Alten Rathauses und eines Denkmals, das an die lokale Geschichte erinnert. Am Mittag tauchen Sie in die sakrale Architektur ein, indem Sie zwei bedeutende Kirchen besuchen. Der Nachmittag bietet einen tiefen Einblick in die Kultur der Region im Teschen-Museum, gefolgt von einer erholsamen Zeit im weitläufigen Schlosspark, der den Tag in Ruhe ausklingen lässt.",
+        "hu": "Az orlovái séta az Október 28. téren kezdődik. A délelőtt a történelmi központ felfedezésével telik, beleértve a Régi Városházát és egy helyi történelmi emlékművet. Délben elmerülhet a szakrális építészetben két fontos templom meglátogatásával. A délután mélyebb betekintést nyújt a régió kultúrájába a Tescheni Múzeumban, majd pihenéssel zárul a tágas Kastélyparkban, amely békésen zárja a napot.",
+        "ro": "O plimbare prin Orlová începe în Piața 28 Octombrie. Dimineața este dedicată explorării centrului istoric, inclusiv Primăria Veche și un monument ce comemorează istoria locală. La prânz, vă veți cufunda în arhitectura sacră vizitând două biserici importante. După-amiaza oferă o perspectivă aprofundată asupra culturii regionale la Muzeul Těšín, urmată de o perioadă de relaxare în vastul Parc al Castelului, încheind ziua în liniște.",
+        "en": "A walk through Orlová begins at the bustling October 28th Square. The morning is dedicated to exploring the historic center, including the Old Town Hall and a monument commemorating local history. At midday, you'll immerse yourself in sacred architecture by visiting two significant churches. The afternoon offers a deep dive into the region's culture at the Těšín Museum, followed by a relaxing time in the expansive Castle Park, bringing the day to a peaceful close."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smažený sýr",
+            "tip": "Ein Klassiker der tschechischen Küche, panierter und gebratener Käse, oft mit Pommes und Tatarsauce serviert."
+          },
+          {
+            "name": "Knedlíky",
+            "tip": "Probieren Sie die traditionellen böhmischen Knödel als Beilage zu Gulasch oder Saucengerichten."
+          },
+          {
+            "name": "Restaurant U Zvonu",
+            "tip": "Bekannt für seine authentische lokale Küche in einem traditionellen Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smažený sýr",
+            "tip": "A cseh konyha klasszikusa, rántott sajt, gyakran hasábburgonyával és tartármártással tálalva."
+          },
+          {
+            "name": "Knedlíky",
+            "tip": "Kóstolja meg a hagyományos cseh gombócot gulyás vagy mártásos ételek köreteként."
+          },
+          {
+            "name": "Restaurant U Zvonu",
+            "tip": "Hagyományos környezetben kínált autentikus helyi konyhájáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smažený sýr",
+            "tip": "Un clasic al bucătăriei cehe, cașcaval pane, adesea servit cu cartofi prăjiți și sos tartar."
+          },
+          {
+            "name": "Knedlíky",
+            "tip": "Încercați găluștele tradiționale cehe ca garnitură la gulaș sau la mâncăruri cu sos."
+          },
+          {
+            "name": "Restaurant U Zvonu",
+            "tip": "Renumit pentru bucătăria locală autentică într-un cadru tradițional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smažený sýr",
+            "tip": "A classic of Czech cuisine, fried breaded cheese, often served with fries and tartar sauce."
+          },
+          {
+            "name": "Knedlíky",
+            "tip": "Try the traditional Czech dumplings as a side dish for goulash or saucy dishes."
+          },
+          {
+            "name": "Restaurant U Zvonu",
+            "tip": "Known for its authentic local cuisine in a traditional setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlosspark",
+            "tip": "Finden Sie eine ruhige Bank am Teich und genießen Sie die Natur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Flusses Petrůvka",
+            "tip": "Ein Spaziergang entlang des kleinen Flusses kann sehr beruhigend sein.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Evangelische Kirche",
+            "tip": "Die schlichte und ruhige Atmosphäre im Inneren lädt zur Besinnung ein.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kastélypark",
+            "tip": "Keressen egy csendes padot a tó mellett, és élvezze a természetet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Petrůvka folyó partja",
+            "tip": "Egy séta a kis folyó mentén nagyon megnyugtató lehet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Evangélikus templom",
+            "tip": "A templom egyszerű és csendes belső tere elgondolkodásra hív.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului",
+            "tip": "Găsiți o bancă liniștită lângă iaz și bucurați-vă de natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malurile râului Petrůvka",
+            "tip": "O plimbare de-a lungul micului râu poate fi foarte liniștitoare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Biserica Evanghelică",
+            "tip": "Atmosfera simplă și liniștită din interior invită la reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Park",
+            "tip": "Find a quiet bench by the pond and enjoy nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the Petrůvka River",
+            "tip": "A walk along the small river can be very calming.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Evangelical Church",
+            "tip": "The simple and quiet atmosphere inside invites contemplation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Bauernmarkt",
+            "tip": "Suchen Sie nach saisonalem Obst, Gemüse und handgemachten Produkten (prüfen Sie die Markttage)."
+          },
+          {
+            "name": "Souvenirladen im Museum",
+            "tip": "Bietet Bücher und kleine Andenken zur Geschichte der Region Teschen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termelői piac",
+            "tip": "Keressen szezonális gyümölcsöket, zöldségeket és kézműves termékeket (ellenőrizze a piaci napokat)."
+          },
+          {
+            "name": "Múzeumi ajándékbolt",
+            "tip": "Könyveket és apró emléktárgyakat kínál a Tescheni régió történelméről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală a fermierilor",
+            "tip": "Căutați fructe de sezon, legume și produse artizanale (verificați zilele de piață)."
+          },
+          {
+            "name": "Magazinul de suveniruri al muzeului",
+            "tip": "Oferă cărți și mici suveniruri despre istoria regiunii Těšín."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Farmer's Market",
+            "tip": "Look for seasonal fruits, vegetables, and handmade products (check for market days)."
+          },
+          {
+            "name": "Museum Gift Shop",
+            "tip": "Offers books and small souvenirs related to the history of the Těšín region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag auf den Beinen sein werden.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Nehmen Sie eine Wasserflasche mit, besonders an wärmeren Tagen.",
+          "Planen Sie eine Mittagspause in der Nähe des Museumsviertels ein."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap talpon lesz.",
+          "A központi látnivalók többsége könnyen megközelíthető gyalog.",
+          "Vigyen magával egy üveg vizet, különösen melegebb napokon.",
+          "Tervezzen ebédszünetet a múzeumi negyed közelében."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți fi în picioare toată ziua.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Luați cu voi o sticlă de apă, mai ales în zilele mai calde.",
+          "Planificați o pauză de prânz în apropierea zonei muzeelor."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be on your feet all day.",
+          "Most sights in the center are easily within walking distance.",
+          "Bring a water bottle, especially on warmer days.",
+          "Plan for a lunch break near the museum area."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 6.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Platz des 28. Oktober",
+            "hu": "Október 28. tér",
+            "ro": "Piața 28 Octombrie",
+            "en": "October 28th Square"
+          },
+          "coords": [
+            18.4305,
+            49.8455
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab und genießen Sie die Atmosphäre des Platzes.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és élvezze a tér hangulatát.",
+            "ro": "Asigurați-vă bicicleta și bucurați-vă de atmosfera pieței.",
+            "en": "Securely park your bike and enjoy the atmosphere of the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Rathaus",
+            "hu": "Régi Városháza",
+            "ro": "Primăria Veche",
+            "en": "Old Town Hall"
+          },
+          "coords": [
+            18.431,
+            49.8452
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:32",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Hauptplatz entfernt.",
+            "hu": "Csak egy rövid séta a főtértől.",
+            "ro": "La doar o scurtă plimbare de piața principală.",
+            "en": "Just a short walk from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für die Streikopfer",
+            "hu": "Sztrájk Áldozatainak Emlékműve",
+            "ro": "Monumentul Victimelor Grevei",
+            "en": "Monument to the Strike Victims"
+          },
+          "coords": [
+            18.429,
+            49.846
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:50",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine kurze Radfahrt, um einen wichtigen Teil der Stadtgeschichte zu sehen.",
+            "hu": "Egy rövid biciklizés a város történetének egy fontos részéhez.",
+            "ro": "O scurtă plimbare cu bicicleta pentru a vedea o parte importantă a istoriei orașului.",
+            "en": "A short bike ride to see an important part of the city's history."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturhaus Orlová",
+            "hu": "Orlovái Kultúrház",
+            "ro": "Casa de Cultură Orlová",
+            "en": "Orlová House of Culture"
+          },
+          "coords": [
+            18.4315,
+            49.843
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:11",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Prüfen Sie das Programm, vielleicht gibt es eine interessante Veranstaltung.",
+            "hu": "Nézze meg a programot, hátha van egy érdekes esemény.",
+            "ro": "Verificați programul, s-ar putea să existe un eveniment interesant.",
+            "en": "Check the schedule, there might be an interesting event."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Geburt",
+            "hu": "Szűz Mária Születése templom",
+            "ro": "Biserica Nașterea Maicii Domnului",
+            "en": "Church of the Nativity of the Virgin Mary"
+          },
+          "coords": [
+            18.432,
+            49.848
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine angenehme Fahrt bergauf zu diesem architektonischen Juwel.",
+            "hu": "Kellemes emelkedő vezet ehhez az építészeti gyöngyszemhez.",
+            "ro": "O plimbare plăcută în pantă către această bijuterie arhitecturală.",
+            "en": "A pleasant uphill ride to this architectural gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Evangelische Kirche",
+            "hu": "Evangélikus templom",
+            "ro": "Biserica Evanghelică",
+            "en": "Evangelical Church"
+          },
+          "coords": [
+            18.435,
+            49.8475
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:26",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Leicht mit dem Fahrrad vom vorherigen Halt aus zu erreichen.",
+            "hu": "Könnyen elérhető kerékpárral az előző megállótól.",
+            "ro": "Ușor de ajuns cu bicicleta de la oprirea anterioară.",
+            "en": "Easily reachable by bike from the previous stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Region Teschen",
+            "hu": "Tescheni Régió Múzeuma",
+            "ro": "Muzeul regiunii Těšín",
+            "en": "Museum of the Těšín Region"
+          },
+          "coords": [
+            18.433,
+            49.849
+          ],
+          "category": "museums",
+          "arrive_at": "12:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Rad gut an und tauchen Sie ein in die Geschichte.",
+            "hu": "Zárja le jól a kerékpárt, és merüljön el a történelemben.",
+            "ro": "Asigurați-vă bine bicicleta și cufundați-vă în istorie.",
+            "en": "Lock your bike securely and dive into history."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlosspark",
+            "hu": "Kastélypark",
+            "ro": "Parcul Castelului",
+            "en": "Castle Park"
+          },
+          "coords": [
+            18.42,
+            49.847
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie eine entspannte Radtour durch die Alleen des Parks.",
+            "hu": "Élvezze a pihentető kerékpártúrát a park sétányain.",
+            "ro": "Bucurați-vă de o plimbare relaxantă cu bicicleta pe aleile parcului.",
+            "en": "Enjoy a relaxing bike ride through the park's avenues."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Orlová mit dem Fahrrad, beginnend am Hauptplatz. Die Vormittagsroute führt Sie zu den historischen und kulturellen Wahrzeichen im Stadtzentrum, darunter das Rathaus und das Kulturhaus. Am Mittag radeln Sie zu den beeindruckenden Kirchen der Stadt, bevor Sie im Regionalmuseum in die Geschichte eintauchen. Der Nachmittag ist für eine gemütliche Fahrt durch den Schlosspark reserviert, eine perfekte Möglichkeit, die grüne Lunge der Stadt zu erleben und den Tag aktiv ausklingen zu lassen.",
+        "hu": "Fedezze fel Orlovát kerékpárral, a főtérről indulva. A délelőtti útvonal a városközpont történelmi és kulturális nevezetességeihez vezet, beleértve a városházát és a kultúrházat. Délben a város lenyűgöző templomaihoz teker, mielőtt elmerülne a történelemben a regionális múzeumban. A délután a Kastélyparkon keresztüli kényelmes biciklizésre van fenntartva, ami tökéletes módja a város zöld tüdejének megtapasztalására és a nap aktív befejezésére.",
+        "ro": "Descoperiți Orlová pe bicicletă, pornind din piața principală. Traseul de dimineață vă duce la reperele istorice și culturale din centrul orașului, inclusiv primăria și casa de cultură. La prânz, pedalați spre bisericile impresionante ale orașului înainte de a vă cufunda în istorie la muzeul regional. După-amiaza este rezervată unei plimbări lejere prin Parcul Castelului, o modalitate perfectă de a experimenta plămânul verde al orașului și de a încheia ziua activ.",
+        "en": "Discover Orlová by bike, starting from the main square. The morning route takes you to the historical and cultural landmarks in the city center, including the town hall and the house of culture. At midday, you'll cycle to the city's impressive churches before diving into history at the regional museum. The afternoon is reserved for a leisurely ride through the Castle Park, a perfect way to experience the city's green lung and end the day actively."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smažený sýr",
+            "tip": "Ein Klassiker der tschechischen Küche, panierter und gebratener Käse, oft mit Pommes und Tatarsauce serviert."
+          },
+          {
+            "name": "Knedlíky",
+            "tip": "Probieren Sie die traditionellen böhmischen Knödel als Beilage zu Gulasch oder Saucengerichten."
+          },
+          {
+            "name": "Restaurant U Zvonu",
+            "tip": "Bekannt für seine authentische lokale Küche in einem traditionellen Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smažený sýr",
+            "tip": "A cseh konyha klasszikusa, rántott sajt, gyakran hasábburgonyával és tartármártással tálalva."
+          },
+          {
+            "name": "Knedlíky",
+            "tip": "Kóstolja meg a hagyományos cseh gombócot gulyás vagy mártásos ételek köreteként."
+          },
+          {
+            "name": "Restaurant U Zvonu",
+            "tip": "Hagyományos környezetben kínált autentikus helyi konyhájáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smažený sýr",
+            "tip": "Un clasic al bucătăriei cehe, cașcaval pane, adesea servit cu cartofi prăjiți și sos tartar."
+          },
+          {
+            "name": "Knedlíky",
+            "tip": "Încercați găluștele tradiționale cehe ca garnitură la gulaș sau la mâncăruri cu sos."
+          },
+          {
+            "name": "Restaurant U Zvonu",
+            "tip": "Renumit pentru bucătăria locală autentică într-un cadru tradițional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smažený sýr",
+            "tip": "A classic of Czech cuisine, fried breaded cheese, often served with fries and tartar sauce."
+          },
+          {
+            "name": "Knedlíky",
+            "tip": "Try the traditional Czech dumplings as a side dish for goulash or saucy dishes."
+          },
+          {
+            "name": "Restaurant U Zvonu",
+            "tip": "Known for its authentic local cuisine in a traditional setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlosspark",
+            "tip": "Finden Sie eine ruhige Bank am Teich und genießen Sie die Natur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Flusses Petrůvka",
+            "tip": "Ein Spaziergang entlang des kleinen Flusses kann sehr beruhigend sein.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Evangelische Kirche",
+            "tip": "Die schlichte und ruhige Atmosphäre im Inneren lädt zur Besinnung ein.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kastélypark",
+            "tip": "Keressen egy csendes padot a tó mellett, és élvezze a természetet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Petrůvka folyó partja",
+            "tip": "Egy séta a kis folyó mentén nagyon megnyugtató lehet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Evangélikus templom",
+            "tip": "A templom egyszerű és csendes belső tere elgondolkodásra hív.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului",
+            "tip": "Găsiți o bancă liniștită lângă iaz și bucurați-vă de natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malurile râului Petrůvka",
+            "tip": "O plimbare de-a lungul micului râu poate fi foarte liniștitoare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Biserica Evanghelică",
+            "tip": "Atmosfera simplă și liniștită din interior invită la reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Park",
+            "tip": "Find a quiet bench by the pond and enjoy nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the Petrůvka River",
+            "tip": "A walk along the small river can be very calming.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Evangelical Church",
+            "tip": "The simple and quiet atmosphere inside invites contemplation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Bauernmarkt",
+            "tip": "Suchen Sie nach saisonalem Obst, Gemüse und handgemachten Produkten (prüfen Sie die Markttage)."
+          },
+          {
+            "name": "Souvenirladen im Museum",
+            "tip": "Bietet Bücher und kleine Andenken zur Geschichte der Region Teschen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termelői piac",
+            "tip": "Keressen szezonális gyümölcsöket, zöldségeket és kézműves termékeket (ellenőrizze a piaci napokat)."
+          },
+          {
+            "name": "Múzeumi ajándékbolt",
+            "tip": "Könyveket és apró emléktárgyakat kínál a Tescheni régió történelméről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală a fermierilor",
+            "tip": "Căutați fructe de sezon, legume și produse artizanale (verificați zilele de piață)."
+          },
+          {
+            "name": "Magazinul de suveniruri al muzeului",
+            "tip": "Oferă cărți și mici suveniruri despre istoria regiunii Těšín."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Farmer's Market",
+            "tip": "Look for seasonal fruits, vegetables, and handmade products (check for market days)."
+          },
+          {
+            "name": "Museum Gift Shop",
+            "tip": "Offers books and small souvenirs related to the history of the Těšín region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt.",
+          "Nutzen Sie Fahrradwege, wo immer möglich.",
+          "Ein gutes Schloss ist unerlässlich, um Ihr Fahrrad an den Haltestellen zu sichern.",
+          "Die Stadt ist relativ flach, aber einige kleinere Anstiege sind möglich."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját.",
+          "Ahol csak lehetséges, használja a kerékpárutakat.",
+          "Egy jó lakat elengedhetetlen a kerékpár biztonságos lezárásához a megállóknál.",
+          "A város viszonylag sík, de néhány kisebb emelkedő előfordulhat."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni.",
+          "Folosiți pistele de biciclete ori de câte ori este posibil.",
+          "Un lacăt bun este esențial pentru a vă asigura bicicleta la opriri.",
+          "Orașul este relativ plat, dar sunt posibile câteva urcări minore."
+        ],
+        "en": [
+          "Check your bike before you set off.",
+          "Use bike lanes wherever possible.",
+          "A good lock is essential for securing your bike at stops.",
+          "The town is relatively flat, but some minor climbs are possible."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Zentrumsplatz",
+            "hu": "A-Klaszter: Központi tér",
+            "ro": "Cluster A: Piața Centrală",
+            "en": "Cluster A: Central Square"
+          },
+          "coords": [
+            18.4305,
+            49.8455
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Platzes des 28. Oktober. Dies ist Ihr erster Hub.",
+            "hu": "Parkoljon az Október 28. tér közelében. Ez az első központ.",
+            "ro": "Parcați lângă Piața 28 Octombrie. Acesta este primul dvs. hub.",
+            "en": "Park near October 28th Square. This is your first hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Rathaus",
+            "hu": "Régi Városháza",
+            "ro": "Primăria Veche",
+            "en": "Old Town Hall"
+          },
+          "coords": [
+            18.431,
+            49.8452
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie das Rathaus und die Umgebung zu Fuß.",
+            "hu": "Fedezze fel a Városházát és környékét gyalog.",
+            "ro": "Explorați Primăria și împrejurimile pe jos.",
+            "en": "Explore the Town Hall and its surroundings on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für die Streikopfer",
+            "hu": "Sztrájk Áldozatainak Emlékműve",
+            "ro": "Monumentul Victimelor Grevei",
+            "en": "Monument to the Strike Victims"
+          },
+          "coords": [
+            18.429,
+            49.846
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:48",
+          "stay_min": 20,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Rathaus zu diesem nachdenklichen Ort.",
+            "hu": "Rövid séta a Városházától ehhez az elgondolkodtató helyhez.",
+            "ro": "O scurtă plimbare de la Primărie la acest loc de reflecție.",
+            "en": "A short walk from the town hall to this thoughtful spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Kirchen & Museum",
+            "hu": "B-Klaszter: Templomok és Múzeum",
+            "ro": "Cluster B: Biserici & Muzeu",
+            "en": "Cluster B: Churches & Museum"
+          },
+          "coords": [
+            18.4325,
+            49.8485
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:23",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum zweiten Hub und parken Sie in der Nähe der Kirchen.",
+            "hu": "Vezessen a második központhoz, és parkoljon a templomok közelében.",
+            "ro": "Conduceți la al doilea hub și parcați în apropierea bisericilor.",
+            "en": "Drive to the second hub and park near the churches."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Geburt",
+            "hu": "Szűz Mária Születése templom",
+            "ro": "Biserica Nașterea Maicii Domnului",
+            "en": "Church of the Nativity of the Virgin Mary"
+          },
+          "coords": [
+            18.432,
+            49.848
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:28",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ihr erster Halt in diesem zu Fuß erkundbaren Cluster.",
+            "hu": "Az első megálló ebben a gyalogosan bejárható klaszterben.",
+            "ro": "Prima dvs. oprire în acest cluster explorabil pe jos.",
+            "en": "Your first stop in this walkable cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Region Teschen",
+            "hu": "Tescheni Régió Múzeuma",
+            "ro": "Muzeul regiunii Těšín",
+            "en": "Museum of the Těšín Region"
+          },
+          "coords": [
+            18.433,
+            49.849
+          ],
+          "category": "museums",
+          "arrive_at": "11:18",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ideal für die Mittagszeit, um der Hitze oder Kälte zu entkommen.",
+            "hu": "Ideális ebédidőben, hogy elkerülje a hőséget vagy a hideget.",
+            "ro": "Ideal pentru amiază pentru a scăpa de căldură sau frig.",
+            "en": "Ideal for midday to escape the heat or cold."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlosspark",
+            "hu": "Kastélypark",
+            "ro": "Parcul Castelului",
+            "en": "Castle Park"
+          },
+          "coords": [
+            18.42,
+            49.847
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannender Spaziergang, bevor Sie zurück zum Auto gehen.",
+            "hu": "Egy pihentető séta, mielőtt visszatérne az autóhoz.",
+            "ro": "O plimbare relaxantă înainte de a vă întoarce la mașină.",
+            "en": "A relaxing walk before heading back to the car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Autotour durch Orlová nutzt Cluster, um Parkprobleme zu minimieren. Beginnen Sie im Zentrum, parken Sie und erkunden Sie den Hauptplatz und das historische Rathaus zu Fuß. Am Vormittag fahren Sie zum zweiten Cluster. Dort parken Sie erneut und widmen sich den Kirchen und dem Regionalmuseum, ebenfalls zu Fuß. Der Nachmittag ist für einen ausgedehnten Spaziergang im nahegelegenen Schlosspark reserviert, der einen ruhigen Abschluss bietet, bevor Sie die Rückfahrt antreten.",
+        "hu": "Az orlovái autós túra klasztereket használ a parkolási problémák minimalizálására. Kezdje a központban, parkoljon le, és fedezze fel gyalog a főteret és a történelmi városházát. Délelőtt vezessen át a második klaszterhez. Itt ismét parkoljon, és szentelje magát a templomoknak és a regionális múzeumnak, szintén gyalogosan. A délután a közeli Kastélyparkban tett hosszabb sétára van fenntartva, amely békés lezárást kínál a visszaút előtt.",
+        "ro": "Turul cu mașina prin Orlová folosește clustere pentru a minimiza problemele de parcare. Începeți în centru, parcați și explorați pe jos piața principală și primăria istorică. Dimineața, conduceți la al doilea cluster. Parcați din nou și dedicați-vă timp bisericilor și muzeului regional, tot pe jos. După-amiaza este rezervată unei plimbări extinse în Parcul Castelului din apropiere, oferind o încheiere liniștită înainte de a porni la drumul de întoarcere.",
+        "en": "The car tour of Orlová uses clusters to minimize parking issues. Start in the center, park, and explore the main square and historic town hall on foot. In the morning, drive to the second cluster. Park again and dedicate your time to the churches and the regional museum, also on foot. The afternoon is reserved for an extended walk in the nearby Castle Park, providing a quiet conclusion before you head back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smažený sýr",
+            "tip": "Ein Klassiker der tschechischen Küche, panierter und gebratener Käse, oft mit Pommes und Tatarsauce serviert."
+          },
+          {
+            "name": "Knedlíky",
+            "tip": "Probieren Sie die traditionellen böhmischen Knödel als Beilage zu Gulasch oder Saucengerichten."
+          },
+          {
+            "name": "Restaurant U Zvonu",
+            "tip": "Bekannt für seine authentische lokale Küche in einem traditionellen Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smažený sýr",
+            "tip": "A cseh konyha klasszikusa, rántott sajt, gyakran hasábburgonyával és tartármártással tálalva."
+          },
+          {
+            "name": "Knedlíky",
+            "tip": "Kóstolja meg a hagyományos cseh gombócot gulyás vagy mártásos ételek köreteként."
+          },
+          {
+            "name": "Restaurant U Zvonu",
+            "tip": "Hagyományos környezetben kínált autentikus helyi konyhájáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smažený sýr",
+            "tip": "Un clasic al bucătăriei cehe, cașcaval pane, adesea servit cu cartofi prăjiți și sos tartar."
+          },
+          {
+            "name": "Knedlíky",
+            "tip": "Încercați găluștele tradiționale cehe ca garnitură la gulaș sau la mâncăruri cu sos."
+          },
+          {
+            "name": "Restaurant U Zvonu",
+            "tip": "Renumit pentru bucătăria locală autentică într-un cadru tradițional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smažený sýr",
+            "tip": "A classic of Czech cuisine, fried breaded cheese, often served with fries and tartar sauce."
+          },
+          {
+            "name": "Knedlíky",
+            "tip": "Try the traditional Czech dumplings as a side dish for goulash or saucy dishes."
+          },
+          {
+            "name": "Restaurant U Zvonu",
+            "tip": "Known for its authentic local cuisine in a traditional setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlosspark",
+            "tip": "Finden Sie eine ruhige Bank am Teich und genießen Sie die Natur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Flusses Petrůvka",
+            "tip": "Ein Spaziergang entlang des kleinen Flusses kann sehr beruhigend sein.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Evangelische Kirche",
+            "tip": "Die schlichte und ruhige Atmosphäre im Inneren lädt zur Besinnung ein.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kastélypark",
+            "tip": "Keressen egy csendes padot a tó mellett, és élvezze a természetet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Petrůvka folyó partja",
+            "tip": "Egy séta a kis folyó mentén nagyon megnyugtató lehet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Evangélikus templom",
+            "tip": "A templom egyszerű és csendes belső tere elgondolkodásra hív.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului",
+            "tip": "Găsiți o bancă liniștită lângă iaz și bucurați-vă de natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malurile râului Petrůvka",
+            "tip": "O plimbare de-a lungul micului râu poate fi foarte liniștitoare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Biserica Evanghelică",
+            "tip": "Atmosfera simplă și liniștită din interior invită la reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Park",
+            "tip": "Find a quiet bench by the pond and enjoy nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the Petrůvka River",
+            "tip": "A walk along the small river can be very calming.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Evangelical Church",
+            "tip": "The simple and quiet atmosphere inside invites contemplation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Bauernmarkt",
+            "tip": "Suchen Sie nach saisonalem Obst, Gemüse und handgemachten Produkten (prüfen Sie die Markttage)."
+          },
+          {
+            "name": "Souvenirladen im Museum",
+            "tip": "Bietet Bücher und kleine Andenken zur Geschichte der Region Teschen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termelői piac",
+            "tip": "Keressen szezonális gyümölcsöket, zöldségeket és kézműves termékeket (ellenőrizze a piaci napokat)."
+          },
+          {
+            "name": "Múzeumi ajándékbolt",
+            "tip": "Könyveket és apró emléktárgyakat kínál a Tescheni régió történelméről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală a fermierilor",
+            "tip": "Căutați fructe de sezon, legume și produse artizanale (verificați zilele de piață)."
+          },
+          {
+            "name": "Magazinul de suveniruri al muzeului",
+            "tip": "Oferă cărți și mici suveniruri despre istoria regiunii Těšín."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Farmer's Market",
+            "tip": "Look for seasonal fruits, vegetables, and handmade products (check for market days)."
+          },
+          {
+            "name": "Museum Gift Shop",
+            "tip": "Offers books and small souvenirs related to the history of the Těšín region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten und -gebühren im Voraus.",
+          "Ein Navigationsgerät ist hilfreich, um die Cluster-Parkplätze zu finden.",
+          "Lassen Sie keine Wertsachen im Auto sichtbar liegen.",
+          "Die Cluster-Strategie spart Zeit bei der Parkplatzsuche an jeder einzelnen Sehenswürdigkeit."
+        ],
+        "hu": [
+          "Előre ellenőrizze a parkolási lehetőségeket és díjakat.",
+          "Egy navigációs eszköz segít megtalálni a klaszter parkolókat.",
+          "Ne hagyjon értékeket látható helyen az autóban.",
+          "A klaszter-stratégia időt takarít meg azzal, hogy nem kell minden látnivalónál külön parkolóhelyet keresni."
+        ],
+        "ro": [
+          "Verificați dinainte opțiunile de parcare și taxele.",
+          "Un dispozitiv de navigație este util pentru a găsi parcările din clustere.",
+          "Nu lăsați obiecte de valoare la vedere în mașină.",
+          "Strategia pe clustere economisește timp în căutarea unui loc de parcare la fiecare atracție în parte."
+        ],
+        "en": [
+          "Check parking options and fees in advance.",
+          "A navigation device is helpful for finding the cluster parking spots.",
+          "Do not leave valuables visible in the car.",
+          "The cluster strategy saves time searching for parking at each individual sight."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Zentrum",
+            "hu": "A-Klaszter: Központ",
+            "ro": "Cluster A: Centru",
+            "en": "Cluster A: Center"
+          },
+          "coords": [
+            18.4305,
+            49.8455
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie an der zentralen Bushaltestelle am Platz des 28. Oktober.",
+            "hu": "Kezdje a központi buszmegállónál az Október 28. téren.",
+            "ro": "Începeți la stația centrală de autobuz din Piața 28 Octombrie.",
+            "en": "Start at the central bus stop at October 28th Square."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Rathaus",
+            "hu": "Régi Városháza",
+            "ro": "Primăria Veche",
+            "en": "Old Town Hall"
+          },
+          "coords": [
+            18.431,
+            49.8452
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Busbahnhof aus leicht zu Fuß erreichbar.",
+            "hu": "Könnyen megközelíthető gyalog a buszállomástól.",
+            "ro": "Ușor de ajuns pe jos de la stația de autobuz.",
+            "en": "Easily reachable on foot from the bus station."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturhaus Orlová",
+            "hu": "Orlovái Kultúrház",
+            "ro": "Casa de Cultură Orlová",
+            "en": "Orlová House of Culture"
+          },
+          "coords": [
+            18.4315,
+            49.843
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch das Stadtzentrum.",
+            "hu": "Rövid séta a városközponton keresztül.",
+            "ro": "O scurtă plimbare prin centrul orașului.",
+            "en": "A short walk through the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Geschichte & Glaube",
+            "hu": "B-Klaszter: Történelem és Hit",
+            "ro": "Cluster B: Istorie & Credință",
+            "en": "Cluster B: History & Faith"
+          },
+          "coords": [
+            18.432,
+            49.848
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:40",
+          "stay_min": 0,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus zum zweiten Cluster in der Nähe der Kirche Mariä Geburt.",
+            "hu": "Vegyen egy helyi buszt a második klaszterhez a Szűz Mária Születése templom közelében.",
+            "ro": "Luați un autobuz local către al doilea cluster, lângă Biserica Nașterea Maicii Domnului.",
+            "en": "Take a local bus to the second cluster near the Church of the Nativity of the Virgin Mary."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Geburt",
+            "hu": "Szűz Mária Születése templom",
+            "ro": "Biserica Nașterea Maicii Domnului",
+            "en": "Church of the Nativity of the Virgin Mary"
+          },
+          "coords": [
+            18.432,
+            49.848
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Steigen Sie aus und die Kirche ist direkt vor Ihnen.",
+            "hu": "Szálljon le, és a templom közvetlenül Ön előtt lesz.",
+            "ro": "Coborâți și biserica este chiar în fața dvs.",
+            "en": "Get off and the church is right in front of you."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Region Teschen",
+            "hu": "Tescheni Régió Múzeuma",
+            "ro": "Muzeul regiunii Těšín",
+            "en": "Museum of the Těšín Region"
+          },
+          "coords": [
+            18.433,
+            49.849
+          ],
+          "category": "museums",
+          "arrive_at": "11:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Kirche zum Museum.",
+            "hu": "Rövid séta a templomtól a múzeumig.",
+            "ro": "O scurtă plimbare de la biserică la muzeu.",
+            "en": "A short walk from the church to the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlosspark",
+            "hu": "Kastélypark",
+            "ro": "Parcul Castelului",
+            "en": "Castle Park"
+          },
+          "coords": [
+            18.42,
+            49.847
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Park ist vom Museum aus gut zu Fuß erreichbar und ein toller Ort zum Entspannen.",
+            "hu": "A park könnyen megközelíthető gyalog a múzeumtól, és remek hely a pihenésre.",
+            "ro": "Parcul este la o distanță de mers pe jos de la muzeu, un loc minunat pentru relaxare.",
+            "en": "The park is within walking distance from the museum, a great place to relax."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Orlová lässt sich effizient mit öffentlichen Verkehrsmitteln erkunden. Starten Sie im Zentrum und besichtigen Sie das Rathaus und das Kulturhaus zu Fuß. Eine kurze Busfahrt bringt Sie am Vormittag zum historischen Viertel. Dort erkunden Sie die Kirchen, das Museum und das nahegelegene Denkmal, alles bequem zu Fuß erreichbar. Der Nachmittag klingt mit einem entspannten Spaziergang im großen Schlosspark aus, bevor Sie den Bus zurück ins Zentrum nehmen.",
+        "hu": "Orlová hatékonyan felfedezhető tömegközlekedéssel. Kezdje a központban, és nézze meg gyalog a városházát és a kultúrházat. Egy rövid buszút elviszi délelőtt a történelmi negyedbe. Ott fedezze fel a templomokat, a múzeumot és a közeli emlékművet, mindezt kényelmesen, gyalog. A délután a nagy Kastélyparkban tett pihentető sétával zárul, mielőtt visszabuszozna a központba.",
+        "ro": "Orlová poate fi explorat eficient cu transportul public. Începeți în centru și vizitați pe jos primăria și casa de cultură. O scurtă călătorie cu autobuzul vă duce dimineața în cartierul istoric. Acolo, explorați bisericile, muzeul și monumentul din apropiere, toate accesibile pe jos. După-amiaza se încheie cu o plimbare relaxantă în marele Parc al Castelului, înainte de a lua autobuzul înapoi spre centru.",
+        "en": "Orlová can be efficiently explored using public transport. Start in the center and visit the town hall and the house of culture on foot. A short bus ride takes you to the historic quarter in the morning. There, explore the churches, the museum, and the nearby monument, all within easy walking distance. The afternoon concludes with a relaxing walk in the large Castle Park before taking the bus back to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smažený sýr",
+            "tip": "Ein Klassiker der tschechischen Küche, panierter und gebratener Käse, oft mit Pommes und Tatarsauce serviert."
+          },
+          {
+            "name": "Knedlíky",
+            "tip": "Probieren Sie die traditionellen böhmischen Knödel als Beilage zu Gulasch oder Saucengerichten."
+          },
+          {
+            "name": "Restaurant U Zvonu",
+            "tip": "Bekannt für seine authentische lokale Küche in einem traditionellen Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smažený sýr",
+            "tip": "A cseh konyha klasszikusa, rántott sajt, gyakran hasábburgonyával és tartármártással tálalva."
+          },
+          {
+            "name": "Knedlíky",
+            "tip": "Kóstolja meg a hagyományos cseh gombócot gulyás vagy mártásos ételek köreteként."
+          },
+          {
+            "name": "Restaurant U Zvonu",
+            "tip": "Hagyományos környezetben kínált autentikus helyi konyhájáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smažený sýr",
+            "tip": "Un clasic al bucătăriei cehe, cașcaval pane, adesea servit cu cartofi prăjiți și sos tartar."
+          },
+          {
+            "name": "Knedlíky",
+            "tip": "Încercați găluștele tradiționale cehe ca garnitură la gulaș sau la mâncăruri cu sos."
+          },
+          {
+            "name": "Restaurant U Zvonu",
+            "tip": "Renumit pentru bucătăria locală autentică într-un cadru tradițional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smažený sýr",
+            "tip": "A classic of Czech cuisine, fried breaded cheese, often served with fries and tartar sauce."
+          },
+          {
+            "name": "Knedlíky",
+            "tip": "Try the traditional Czech dumplings as a side dish for goulash or saucy dishes."
+          },
+          {
+            "name": "Restaurant U Zvonu",
+            "tip": "Known for its authentic local cuisine in a traditional setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlosspark",
+            "tip": "Finden Sie eine ruhige Bank am Teich und genießen Sie die Natur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Flusses Petrůvka",
+            "tip": "Ein Spaziergang entlang des kleinen Flusses kann sehr beruhigend sein.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Evangelische Kirche",
+            "tip": "Die schlichte und ruhige Atmosphäre im Inneren lädt zur Besinnung ein.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kastélypark",
+            "tip": "Keressen egy csendes padot a tó mellett, és élvezze a természetet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Petrůvka folyó partja",
+            "tip": "Egy séta a kis folyó mentén nagyon megnyugtató lehet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Evangélikus templom",
+            "tip": "A templom egyszerű és csendes belső tere elgondolkodásra hív.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului",
+            "tip": "Găsiți o bancă liniștită lângă iaz și bucurați-vă de natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malurile râului Petrůvka",
+            "tip": "O plimbare de-a lungul micului râu poate fi foarte liniștitoare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Biserica Evanghelică",
+            "tip": "Atmosfera simplă și liniștită din interior invită la reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Park",
+            "tip": "Find a quiet bench by the pond and enjoy nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the Petrůvka River",
+            "tip": "A walk along the small river can be very calming.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Evangelical Church",
+            "tip": "The simple and quiet atmosphere inside invites contemplation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Bauernmarkt",
+            "tip": "Suchen Sie nach saisonalem Obst, Gemüse und handgemachten Produkten (prüfen Sie die Markttage)."
+          },
+          {
+            "name": "Souvenirladen im Museum",
+            "tip": "Bietet Bücher und kleine Andenken zur Geschichte der Region Teschen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termelői piac",
+            "tip": "Keressen szezonális gyümölcsöket, zöldségeket és kézműves termékeket (ellenőrizze a piaci napokat)."
+          },
+          {
+            "name": "Múzeumi ajándékbolt",
+            "tip": "Könyveket és apró emléktárgyakat kínál a Tescheni régió történelméről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală a fermierilor",
+            "tip": "Căutați fructe de sezon, legume și produse artizanale (verificați zilele de piață)."
+          },
+          {
+            "name": "Magazinul de suveniruri al muzeului",
+            "tip": "Oferă cărți și mici suveniruri despre istoria regiunii Těšín."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Farmer's Market",
+            "tip": "Look for seasonal fruits, vegetables, and handmade products (check for market days)."
+          },
+          {
+            "name": "Museum Gift Shop",
+            "tip": "Offers books and small souvenirs related to the history of the Těšín region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel, um Geld zu sparen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, um Wartezeiten zu vermeiden.",
+          "Die meisten Busse sind modern und zugänglich.",
+          "Halten Sie Kleingeld für Tickets bereit, falls Sie es beim Fahrer kaufen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
+          "Előre ellenőrizze a buszmenetrendet a várakozási idő elkerülése érdekében.",
+          "A legtöbb busz modern és akadálymentesített.",
+          "Tartson magánál aprópénzt a jegyekhez, ha a sofőrtől vásárol."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru a economisi bani.",
+          "Verificați programul autobuzelor în avans pentru a evita timpii de așteptare.",
+          "Majoritatea autobuzelor sunt moderne și accesibile.",
+          "Pregătiți monede pentru bilete dacă le cumpărați de la șofer."
+        ],
+        "en": [
+          "Buy a day pass for public transport to save money.",
+          "Check the bus schedule in advance to avoid waiting times.",
+          "Most buses are modern and accessible.",
+          "Have small change ready for tickets if buying from the driver."
+        ]
+      }
+    }
+  }
+}

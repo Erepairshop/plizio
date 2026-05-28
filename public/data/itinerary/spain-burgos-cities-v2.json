@@ -1,0 +1,1524 @@
+{
+  "city_id": "spain-burgos-cities-v2",
+  "anchor": {
+    "name": "Burgos",
+    "coords": [
+      -3.6969,
+      42.3439
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza Mayor",
+            "hu": "Főtér",
+            "ro": "Plaza Mayor",
+            "en": "Main Square"
+          },
+          "coords": [
+            -3.7049,
+            42.3413
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee und beobachten Sie das Erwachen der Stadt.",
+            "hu": "Kezdje a napot itt egy kávéval, és nézze, ahogy a város ébredezik.",
+            "ro": "Începeți ziua aici cu o cafea, privind cum se trezește orașul.",
+            "en": "Start your day here with a coffee and watch the city come to life."
+          }
+        },
+        {
+          "name": {
+            "de": "Arco de Santa María",
+            "hu": "Santa María-kapu",
+            "ro": "Arco de Santa María",
+            "en": "Arch of Santa María"
+          },
+          "coords": [
+            -3.704,
+            42.3402
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:50",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Statuen kastilischer Adliger und Kaiser Karls V.",
+            "hu": "Csodálja meg a kasztíliai nemesek és V. Károly császár szobrait.",
+            "ro": "Admirați statuile nobililor castilieni și ale împăratului Carol al V-lea.",
+            "en": "Admire the statues of Castilian nobles and Emperor Charles V."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Burgos",
+            "hu": "Burgosi katedrális",
+            "ro": "Catedrala din Burgos",
+            "en": "Burgos Cathedral"
+          },
+          "coords": [
+            -3.7045,
+            42.3407
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:20",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Escalera Dorada und das Grab von El Cid.",
+            "hu": "Ne hagyja ki az Escalera Dorada-t (Aranylépcső) és El Cid sírját.",
+            "ro": "Nu ratați Escalera Dorada (Scara de Aur) și mormântul lui El Cid.",
+            "en": "Don't miss the Golden Staircase (Escalera Dorada) and the tomb of El Cid."
+          }
+        },
+        {
+          "name": {
+            "de": "Paseo del Espolón",
+            "hu": "Paseo del Espolón",
+            "ro": "Paseo del Espolón",
+            "en": "Paseo del Espolón"
+          },
+          "coords": [
+            -3.702,
+            42.3402
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:00",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für einen Mittagsspaziergang und um das lokale Leben zu genießen.",
+            "hu": "Ideális hely egy ebéd utáni sétára és a helyi élet megfigyelésére.",
+            "ro": "Un loc ideal pentru o plimbare de prânz și pentru a vă bucura de viața locală.",
+            "en": "An ideal spot for a midday stroll and to soak up the local life."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der menschlichen Evolution",
+            "hu": "Emberi Evolúció Múzeuma",
+            "ro": "Muzeul Evoluției Umane",
+            "en": "Museum of Human Evolution"
+          },
+          "coords": [
+            -3.693,
+            42.3395
+          ],
+          "category": "museums",
+          "arrive_at": "13:35",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein, die Atapuerca-Funde sind wirklich faszinierend.",
+            "hu": "Szánjon rá elég időt, az Atapuerca-leletek igazán lenyűgözőek.",
+            "ro": "Planificați-vă suficient timp, descoperirile de la Atapuerca sunt cu adevărat fascinante.",
+            "en": "Plan enough time; the Atapuerca findings are truly fascinating."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Burgos",
+            "hu": "Burgosi vár",
+            "ro": "Castelul din Burgos",
+            "en": "Burgos Castle"
+          },
+          "coords": [
+            -3.706,
+            42.3435
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:10",
+          "stay_min": 85,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für den Panoramablick über die Stadt bei Sonnenuntergang.",
+            "hu": "A kaptató megéri a panorámáért naplementekor a város felett.",
+            "ro": "Urcușul merită efortul pentru vederea panoramică asupra orașului la apus.",
+            "en": "The climb is worth it for the panoramic view over the city at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf der lebhaften Plaza Mayor, dem Herzen von Burgos. Nach der Erkundung des monumentalen Arco de Santa María tauchen Sie in die gotische Pracht der Kathedrale ein, die zum UNESCO-Weltkulturerbe gehört. Gönnen Sie sich am Mittag eine entspannte Pause auf dem eleganten Paseo del Espolón. Am Nachmittag reisen Sie in der Zeit zurück im Museum der menschlichen Evolution und entdecken die faszinierenden Funde von Atapuerca. Schließen Sie den Tag mit einem Aufstieg zur Burg von Burgos ab, wo Sie ein atemberaubender Panoramablick auf die Stadt im Abendlicht erwartet.",
+        "hu": "Kezdje a napot Burgos szívében, a nyüzsgő Plaza Mayoron. A monumentális Arco de Santa María felfedezése után merüljön el az UNESCO Világörökség részét képező katedrális gótikus pompájában. Délben tartson egy pihentető szünetet az elegáns Paseo del Espolónon. Délután utazzon vissza az időben az Emberi Evolúció Múzeumában, felfedezve a lenyűgöző atapuercai leleteket. Zárja a napot a burgosi várhoz való felkapaszkodással, ahonnan lélegzetelállító panoráma nyílik az esti fényekben úszó városra.",
+        "ro": "Începeți ziua în inima orașului Burgos, în vibranta Plaza Mayor. După ce explorați monumentalul Arco de Santa María, scufundați-vă în splendoarea gotică a Catedralei, un sit al Patrimoniului Mondial UNESCO. La prânz, bucurați-vă de o pauză relaxantă pe elegantul Paseo del Espolón. După-amiaza, călătoriți înapoi în timp la Muzeul Evoluției Umane, descoperind fascinantele vestigii de la Atapuerca. Încheiați ziua cu o urcare la Castelul Burgos, unde vă așteaptă o priveliște panoramică uluitoare a orașului în lumina serii.",
+        "en": "Start your day in the heart of Burgos, the vibrant Plaza Mayor. After exploring the monumental Arco de Santa María, immerse yourself in the Gothic splendor of the Cathedral, a UNESCO World Heritage site. At midday, enjoy a relaxing break on the elegant Paseo del Espolón. In the afternoon, travel back in time at the Museum of Human Evolution, discovering the fascinating finds from Atapuerca. Conclude your day with a climb to Burgos Castle, where a breathtaking panoramic view of the city awaits in the evening light."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Morcilla de Burgos",
+            "tip": "Probieren Sie diese einzigartige Blutwurst, oft mit Reis gefüllt, gebraten serviert."
+          },
+          {
+            "name": "Lechazo Asado",
+            "tip": "Ein Festmahl aus langsam gebratenem Milchlamm, eine Spezialität von Kastilien und León."
+          },
+          {
+            "name": "Queso de Burgos",
+            "tip": "Ein frischer, weicher Weißkäse, perfekt als Dessert mit Honig oder Quittengelee."
+          },
+          {
+            "name": "Ribera del Duero Wein",
+            "tip": "Begleiten Sie Ihre Mahlzeit mit einem Glas kräftigen Rotweins aus der nahen Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Morcilla de Burgos",
+            "tip": "Kóstolja meg ezt az egyedi, gyakran rizzsel töltött véres hurkát, sültve tálalva."
+          },
+          {
+            "name": "Lechazo Asado",
+            "tip": "Lakoma a lassan sült bárányból, Kasztília és León specialitása."
+          },
+          {
+            "name": "Queso de Burgos",
+            "tip": "Friss, puha, fehér sajt, tökéletes desszertként mézzel vagy birsalmasajttal."
+          },
+          {
+            "name": "Ribera del Duero bor",
+            "tip": "Kísérje étkezését egy pohár testes vörösborral a közeli régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Morcilla de Burgos",
+            "tip": "Încercați acest cârnat de sânge unic, adesea umplut cu orez, servit prăjit."
+          },
+          {
+            "name": "Lechazo Asado",
+            "tip": "Un festin de miel de lapte fript lent, o specialitate din Castilia și León."
+          },
+          {
+            "name": "Queso de Burgos",
+            "tip": "O brânză proaspătă, moale și albă, perfectă ca desert cu miere sau pastă de gutui."
+          },
+          {
+            "name": "Vin Ribera del Duero",
+            "tip": "Însoțiți masa cu un pahar de vin roșu corpolent din regiunea apropiată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Morcilla de Burgos",
+            "tip": "Try this unique blood sausage, often filled with rice, served fried."
+          },
+          {
+            "name": "Lechazo Asado",
+            "tip": "A feast of slow-roasted suckling lamb, a specialty of Castile and León."
+          },
+          {
+            "name": "Queso de Burgos",
+            "tip": "A fresh, soft white cheese, perfect as a dessert with honey or quince paste."
+          },
+          {
+            "name": "Ribera del Duero Wine",
+            "tip": "Accompany your meal with a glass of robust red wine from the nearby region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Río Arlanzón",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses, weg vom Trubel der Innenstadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mirador del Castillo",
+            "tip": "Der beste Ort, um den Sonnenuntergang über den Dächern von Burgos zu beobachten.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gärten der Kathedrale",
+            "tip": "Eine kleine, friedliche Oase im Schatten des gotischen Meisterwerks.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Río Arlanzón partja",
+            "tip": "Egy csendes séta a folyó mentén, távol a belváros nyüzsgésétől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mirador del Castillo",
+            "tip": "A legjobb hely a naplemente megtekintéséhez Burgos háztetői felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A katedrális kertjei",
+            "tip": "Egy kicsi, békés oázis a gótikus mestermű árnyékában.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Arlanzón",
+            "tip": "O plimbare liniștită de-a lungul râului, departe de agitația centrului orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mirador del Castillo",
+            "tip": "Cel mai bun loc pentru a privi apusul peste acoperișurile din Burgos.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile Catedralei",
+            "tip": "O mică oază de pace la umbra capodoperei gotice.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Río Arlanzón",
+            "tip": "A quiet walk along the river, away from the hustle of the city center.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mirador del Castillo",
+            "tip": "The best spot to watch the sunset over the rooftops of Burgos.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cathedral Gardens",
+            "tip": "A small, peaceful oasis in the shadow of the Gothic masterpiece.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle de la Paloma",
+            "tip": "Finden Sie traditionelle Souvenirs und lokale Handwerkskunst in den Geschäften rund um die Kathedrale."
+          },
+          {
+            "name": "Mercado Sur",
+            "tip": "Kaufen Sie lokale Produkte, einschließlich Queso de Burgos und Morcilla, auf diesem traditionellen Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle de la Paloma",
+            "tip": "Találjon hagyományos szuveníreket és helyi kézműves termékeket a katedrális körüli üzletekben."
+          },
+          {
+            "name": "Mercado Sur",
+            "tip": "Vásároljon helyi termékeket, köztük burgosi sajtot és morcillát ezen a hagyományos piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle de la Paloma",
+            "tip": "Găsiți suveniruri tradiționale și produse de artizanat local în magazinele din jurul catedralei."
+          },
+          {
+            "name": "Mercado Sur",
+            "tip": "Cumpărați produse locale, inclusiv Queso de Burgos și morcilla, din această piață tradițională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle de la Paloma",
+            "tip": "Find traditional souvenirs and local crafts in the shops surrounding the cathedral."
+          },
+          {
+            "name": "Mercado Sur",
+            "tip": "Shop for local products, including Queso de Burgos and morcilla, at this traditional market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten sind zu Fuß erreichbar, planen Sie Ihre Route, um Rückwege zu vermeiden.",
+          "Nehmen Sie sich Zeit für ein 'Menú del Día' zum Mittagessen für ein authentisches und preiswertes Erlebnis.",
+          "Der Aufstieg zur Burg ist steil, aber die Aussicht ist die Mühe wert."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros macskakövei egyenetlenek lehetnek.",
+          "A legtöbb látnivaló gyalogosan elérhető, tervezze meg útvonalát a felesleges utak elkerülése érdekében.",
+          "Szánjon időt egy „Menú del Día”-ra ebédidőben egy autentikus és kedvező árú élményért.",
+          "A várhoz vezető út meredek, de a kilátás megéri a fáradságot."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavelele din orașul vechi pot fi denivelate.",
+          "Majoritatea atracțiilor sunt la distanță de mers pe jos, planificați-vă traseul pentru a evita dublarea drumurilor.",
+          "Acordați-vă timp pentru un „Menú del Día” la prânz pentru o experiență autentică și la preț bun.",
+          "Urcușul la castel este abrupt, dar priveliștea merită efortul."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Most sights are within walking distance, plan your route to avoid backtracking.",
+          "Take time for a 'Menú del Día' at lunch for an authentic and affordable experience.",
+          "The climb to the castle is steep, but the view is worth the effort."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Paseo del Espolón",
+            "hu": "Paseo del Espolón",
+            "ro": "Paseo del Espolón",
+            "en": "Paseo del Espolón"
+          },
+          "coords": [
+            -3.702,
+            42.3402
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Radtour auf dieser schönen Promenade entlang des Flusses.",
+            "hu": "Kezdje a kerékpártúrát ezen a gyönyörű sétányon a folyó mentén.",
+            "ro": "Începeți turul cu bicicleta pe această frumoasă promenadă de-a lungul râului.",
+            "en": "Start your bike tour on this beautiful promenade along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Burgos und Arco de Santa María",
+            "hu": "Burgosi katedrális és Santa María-kapu",
+            "ro": "Catedrala din Burgos și Arco de Santa María",
+            "en": "Burgos Cathedral and Arch of Santa María"
+          },
+          "coords": [
+            -3.7045,
+            42.3407
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:46",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie diese beiden Meisterwerke der Gotik und Renaissance zu Fuß.",
+            "hu": "Parkolja le a biciklit, és fedezze fel gyalog ezt a két gótikus és reneszánsz remekművet.",
+            "ro": "Parcați bicicleta și explorați pe jos aceste două capodopere gotice și renascentiste.",
+            "en": "Park your bike and explore these two Gothic and Renaissance masterpieces on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der menschlichen Evolution",
+            "hu": "Emberi Evolúció Múzeuma",
+            "ro": "Muzeul Evoluției Umane",
+            "en": "Museum of Human Evolution"
+          },
+          "coords": [
+            -3.693,
+            42.3395
+          ],
+          "category": "museums",
+          "arrive_at": "11:38",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Eine einfache Radtour entlang des Flusses führt Sie zu diesem modernen Museum.",
+            "hu": "Egy könnyű kerékpártúra a folyó mentén elvezeti ehhez a modern múzeumhoz.",
+            "ro": "O plimbare ușoară cu bicicleta de-a lungul râului vă va duce la acest muzeu modern.",
+            "en": "An easy bike ride along the river will take you to this modern museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Las Huelgas",
+            "hu": "Las Huelgas kolostor",
+            "ro": "Mănăstirea Las Huelgas",
+            "en": "Monastery of Las Huelgas"
+          },
+          "coords": [
+            -3.723,
+            42.336
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:04",
+          "stay_min": 70,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Die Radtour hierher ist angenehm und führt Sie zu einem der reichsten Klöster Spaniens.",
+            "hu": "A kerékpárút idáig kellemes, és Spanyolország egyik leggazdagabb kolostorához vezet.",
+            "ro": "Plimbarea cu bicicleta până aici este plăcută și vă duce la una dintre cele mai bogate mănăstiri din Spania.",
+            "en": "The bike ride here is pleasant and takes you to one of Spain's richest monasteries."
+          }
+        },
+        {
+          "name": {
+            "de": "Kartause von Miraflores",
+            "hu": "Miraflores-i karthauzi kolostor",
+            "ro": "Cartuja de Miraflores",
+            "en": "Miraflores Charterhouse"
+          },
+          "coords": [
+            -3.659,
+            42.333
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:44",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Eine längere, aber lohnende Fahrt durch den Parque Fuentes Blancas zu diesem Juwel der Spätgotik.",
+            "hu": "Egy hosszabb, de megérő út a Fuentes Blancas parkon keresztül ehhez a késő gótikus gyöngyszemhez.",
+            "ro": "O plimbare mai lungă, dar plină de satisfacții prin Parcul Fuentes Blancas până la această bijuterie gotică târzie.",
+            "en": "A longer but rewarding ride through Fuentes Blancas Park to this late Gothic jewel."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Burgos",
+            "hu": "Burgosi vár",
+            "ro": "Castelul din Burgos",
+            "en": "Burgos Castle"
+          },
+          "coords": [
+            -3.706,
+            42.3435
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "17:04",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit dem anspruchsvollen Anstieg zur Burg - die Aussicht ist die Belohnung.",
+            "hu": "Fejezze be a túrát a várhoz vezető kihívást jelentő emelkedővel - a kilátás a jutalom.",
+            "ro": "Încheiați-vă turul cu urcarea provocatoare la castel - priveliștea este recompensa.",
+            "en": "End your tour with the challenging climb to the castle - the view is your reward."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt am grünen Paseo del Espolón und führt Sie schnell zum Herzen der Stadt, der Kathedrale und dem Arco de Santa María. Folgen Sie dem Flusslauf bis zum modernen Museum der menschlichen Evolution. Am Nachmittag unternehmen Sie eine längere Fahrt westwärts zum königlichen Kloster Las Huelgas. Anschließend durchqueren Sie die Stadt und fahren ostwärts durch einen Park zur abgeschiedenen Kartause von Miraflores. Der letzte Anstieg bringt Sie zur Burg, von wo aus Sie einen wohlverdienten Panoramablick über Ihre Tagesroute genießen können.",
+        "hu": "Kerékpártúrája a zöldellő Paseo del Espolónon kezdődik, ahonnan gyorsan a város szívébe, a katedrálishoz és az Arco de Santa Maríához ér. Kövesse a folyót a modern Emberi Evolúció Múzeumáig. Délután tegyen egy hosszabb utat nyugatra a királyi Las Huelgas kolostorhoz. Ezután szelje át a várost, és tekerjen keletre egy parkon keresztül a félreeső Miraflores-i karthauzi kolostorhoz. Az utolsó emelkedő a várhoz visz, ahonnan megérdemelt panorámában gyönyörködhet az aznapi útvonalon.",
+        "ro": "Turul pe bicicletă începe pe înveritul Paseo del Espolón, ducându-vă rapid în inima orașului, la Catedrală și la Arco de Santa María. Urmați cursul râului până la modernul Muzeu al Evoluției Umane. După-amiaza, faceți o plimbare mai lungă spre vest, la mănăstirea regală Las Huelgas. Apoi, traversați orașul spre est printr-un parc până la izolată Cartuja de Miraflores. Urcarea finală vă duce la castel pentru o vedere panoramică binemeritată a traseului parcurs.",
+        "en": "Your bike tour starts on the leafy Paseo del Espolón, quickly taking you to the city's heart: the Cathedral and the Arco de Santa María. Follow the river to the modern Museum of Human Evolution. In the afternoon, take a longer ride west to the royal Monastery of Las Huelgas. Then, cross the city and ride east through a park to the secluded Miraflores Charterhouse. The final climb takes you to the castle for a well-earned panoramic view of your day's route."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Morcilla de Burgos",
+            "tip": "Probieren Sie diese einzigartige Blutwurst, oft mit Reis gefüllt, gebraten serviert."
+          },
+          {
+            "name": "Lechazo Asado",
+            "tip": "Ein Festmahl aus langsam gebratenem Milchlamm, eine Spezialität von Kastilien und León."
+          },
+          {
+            "name": "Queso de Burgos",
+            "tip": "Ein frischer, weicher Weißkäse, perfekt als Dessert mit Honig oder Quittengelee."
+          },
+          {
+            "name": "Ribera del Duero Wein",
+            "tip": "Begleiten Sie Ihre Mahlzeit mit einem Glas kräftigen Rotweins aus der nahen Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Morcilla de Burgos",
+            "tip": "Kóstolja meg ezt az egyedi, gyakran rizzsel töltött véres hurkát, sültve tálalva."
+          },
+          {
+            "name": "Lechazo Asado",
+            "tip": "Lakoma a lassan sült bárányból, Kasztília és León specialitása."
+          },
+          {
+            "name": "Queso de Burgos",
+            "tip": "Friss, puha, fehér sajt, tökéletes desszertként mézzel vagy birsalmasajttal."
+          },
+          {
+            "name": "Ribera del Duero bor",
+            "tip": "Kísérje étkezését egy pohár testes vörösborral a közeli régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Morcilla de Burgos",
+            "tip": "Încercați acest cârnat de sânge unic, adesea umplut cu orez, servit prăjit."
+          },
+          {
+            "name": "Lechazo Asado",
+            "tip": "Un festin de miel de lapte fript lent, o specialitate din Castilia și León."
+          },
+          {
+            "name": "Queso de Burgos",
+            "tip": "O brânză proaspătă, moale și albă, perfectă ca desert cu miere sau pastă de gutui."
+          },
+          {
+            "name": "Vin Ribera del Duero",
+            "tip": "Însoțiți masa cu un pahar de vin roșu corpolent din regiunea apropiată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Morcilla de Burgos",
+            "tip": "Try this unique blood sausage, often filled with rice, served fried."
+          },
+          {
+            "name": "Lechazo Asado",
+            "tip": "A feast of slow-roasted suckling lamb, a specialty of Castile and León."
+          },
+          {
+            "name": "Queso de Burgos",
+            "tip": "A fresh, soft white cheese, perfect as a dessert with honey or quince paste."
+          },
+          {
+            "name": "Ribera del Duero Wine",
+            "tip": "Accompany your meal with a glass of robust red wine from the nearby region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque Fuentes Blancas",
+            "tip": "Eine große, ruhige Grünfläche, ideal für eine Pause auf dem Weg zur Kartause von Miraflores.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Mirador del Castillo",
+            "tip": "Der beste Ort, um den Sonnenuntergang über den Dächern von Burgos zu beobachten.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ufer des Río Arlanzón",
+            "tip": "Ein ruhiger Radweg entlang des Flusses, weg vom Trubel der Innenstadt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parque Fuentes Blancas",
+            "tip": "Egy nagy, csendes zöldterület, ideális pihenőhely a Miraflores-i karthauzi kolostor felé vezető úton.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Mirador del Castillo",
+            "tip": "A legjobb hely a naplemente megtekintéséhez Burgos háztetői felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Río Arlanzón partja",
+            "tip": "Egy csendes kerékpárút a folyó mentén, távol a belváros nyüzsgésétől.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Fuentes Blancas",
+            "tip": "Un spațiu verde mare și liniștit, ideal pentru o pauză în drum spre Cartuja de Miraflores.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Mirador del Castillo",
+            "tip": "Cel mai bun loc pentru a privi apusul peste acoperișurile din Burgos.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malurile râului Arlanzón",
+            "tip": "O pistă de biciclete liniștită de-a lungul râului, departe de agitația centrului orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parque Fuentes Blancas",
+            "tip": "A large, quiet green space, ideal for a break on the way to Miraflores Charterhouse.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Mirador del Castillo",
+            "tip": "The best spot to watch the sunset over the rooftops of Burgos.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Banks of the Río Arlanzón",
+            "tip": "A quiet cycle path along the river, away from the hustle of the city center.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle de la Paloma",
+            "tip": "Finden Sie traditionelle Souvenirs und lokale Handwerkskunst in den Geschäften rund um die Kathedrale."
+          },
+          {
+            "name": "Mercado Sur",
+            "tip": "Kaufen Sie lokale Produkte, einschließlich Queso de Burgos und Morcilla, auf diesem traditionellen Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle de la Paloma",
+            "tip": "Találjon hagyományos szuveníreket és helyi kézműves termékeket a katedrális körüli üzletekben."
+          },
+          {
+            "name": "Mercado Sur",
+            "tip": "Vásároljon helyi termékeket, köztük burgosi sajtot és morcillát ezen a hagyományos piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle de la Paloma",
+            "tip": "Găsiți suveniruri tradiționale și produse de artizanat local în magazinele din jurul catedralei."
+          },
+          {
+            "name": "Mercado Sur",
+            "tip": "Cumpărați produse locale, inclusiv Queso de Burgos și morcilla, din această piață tradițională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle de la Paloma",
+            "tip": "Find traditional souvenirs and local crafts in the shops surrounding the cathedral."
+          },
+          {
+            "name": "Mercado Sur",
+            "tip": "Shop for local products, including Queso de Burgos and morcilla, at this traditional market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Burgos ist relativ flach, aber der Anstieg zur Burg ist anspruchsvoll.",
+          "Nutzen Sie die Radwege entlang des Flusses Arlanzón für eine sichere und landschaftlich reizvolle Fahrt.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, besonders in der Nähe von Touristenattraktionen.",
+          "Prüfen Sie die Öffnungszeiten der Klöster im Voraus, da diese variieren können."
+        ],
+        "hu": [
+          "Burgos viszonylag sík, de a várhoz vezető emelkedő kihívást jelent.",
+          "Használja a kerékpárutakat az Arlanzón folyó mentén a biztonságos és festői utazáshoz.",
+          "Mindig zárja le jól a kerékpárját, különösen a turisztikai látványosságok közelében.",
+          "Előre ellenőrizze a kolostorok nyitvatartási idejét, mivel az változhat."
+        ],
+        "ro": [
+          "Burgos este relativ plat, dar urcarea la castel este provocatoare.",
+          "Folosiți pistele de biciclete de-a lungul râului Arlanzón pentru o plimbare sigură și pitorească.",
+          "Asigurați-vă întotdeauna bicicleta, mai ales în apropierea atracțiilor turistice.",
+          "Verificați în avans orele de deschidere ale mănăstirilor, deoarece acestea pot varia."
+        ],
+        "en": [
+          "Burgos is relatively flat, but the climb to the castle is challenging.",
+          "Use the cycle paths along the Arlanzón river for a safe and scenic ride.",
+          "Always lock your bike securely, especially near tourist attractions.",
+          "Check the opening hours of the monasteries in advance as they can vary."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:04",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kloster Las Huelgas",
+            "hu": "Las Huelgas kolostor",
+            "ro": "Mănăstirea Las Huelgas",
+            "en": "Monastery of Las Huelgas"
+          },
+          "coords": [
+            -3.723,
+            42.336
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, um den Menschenmassen im Zentrum zu entgehen. Parkplätze sind morgens leichter zu finden.",
+            "hu": "Kezdje itt, hogy elkerülje a központi tömeget. Reggel könnyebb parkolóhelyet találni.",
+            "ro": "Începeți aici pentru a evita aglomerația din centru. Locurile de parcare sunt mai ușor de găsit dimineața.",
+            "en": "Start here to avoid the crowds in the center. Parking is easier to find in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Burgos",
+            "hu": "Burgosi katedrális",
+            "ro": "Catedrala din Burgos",
+            "en": "Burgos Cathedral"
+          },
+          "coords": [
+            -3.7045,
+            42.3407
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parken Sie in der Tiefgarage Plaza Mayor und erkunden Sie das Zentrum zu Fuß.",
+            "hu": "Parkoljon a Plaza Mayor mélygarázsában, és fedezze fel a központot gyalog.",
+            "ro": "Parcați în parcarea subterană Plaza Mayor și explorați centrul pe jos.",
+            "en": "Park in the Plaza Mayor underground car park and explore the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Arco de Santa María",
+            "hu": "Santa María-kapu",
+            "ro": "Arco de Santa María",
+            "en": "Arch of Santa María"
+          },
+          "coords": [
+            -3.704,
+            42.3402
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Kathedrale zu diesem beeindruckenden Stadttor.",
+            "hu": "Egy rövid séta a katedrálistól ehhez a lenyűgöző városkapuhoz.",
+            "ro": "O scurtă plimbare de la catedrală la această poartă impresionantă a orașului.",
+            "en": "A short walk from the cathedral to this impressive city gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Paseo del Espolón",
+            "hu": "Paseo del Espolón",
+            "ro": "Paseo del Espolón",
+            "en": "Paseo del Espolón"
+          },
+          "coords": [
+            -3.702,
+            42.3402
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:40",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der perfekte Ort für eine Mittagspause. Viele Cafés und Restaurants in der Nähe.",
+            "hu": "Tökéletes hely egy ebédszünetre. A közelben számos kávézó és étterem található.",
+            "ro": "Locul perfect pentru o pauză de prânz. Multe cafenele și restaurante în apropiere.",
+            "en": "The perfect place for a lunch break. Many cafes and restaurants nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der menschlichen Evolution",
+            "hu": "Emberi Evolúció Múzeuma",
+            "ro": "Muzeul Evoluției Umane",
+            "en": "Museum of Human Evolution"
+          },
+          "coords": [
+            -3.693,
+            42.3395
+          ],
+          "category": "museums",
+          "arrive_at": "14:25",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Vom Zentrum aus leicht zu Fuß erreichbar, lassen Sie Ihr Auto im Parkhaus.",
+            "hu": "A központból könnyen elérhető gyalog, hagyja az autót a parkolóházban.",
+            "ro": "Ușor de ajuns pe jos din centru, lăsați mașina în parcare.",
+            "en": "Easily walkable from the center, leave your car in the parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Kartause von Miraflores",
+            "hu": "Miraflores-i karthauzi kolostor",
+            "ro": "Cartuja de Miraflores",
+            "en": "Miraflores Charterhouse"
+          },
+          "coords": [
+            -3.659,
+            42.333
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:40",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Fahren Sie am Nachmittag zu diesem ruhigen Ort, der für sein Altarbild und die königlichen Gräber berühmt ist.",
+            "hu": "Délután vezessen el erre a csendes helyre, amely oltárképéről és királyi sírjairól híres.",
+            "ro": "Conduceți după-amiaza la acest loc liniștit, renumit pentru altarul și mormintele regale.",
+            "en": "Drive to this peaceful spot in the afternoon, famous for its altarpiece and royal tombs."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Burgos",
+            "hu": "Burgosi vár",
+            "ro": "Castelul din Burgos",
+            "en": "Burgos Castle"
+          },
+          "coords": [
+            -3.706,
+            42.3435
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "17:54",
+          "stay_min": 40,
+          "hop_mode": "car",
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Abschluss des Tages hinauf, um den besten Blick auf den Sonnenuntergang über Burgos zu genießen.",
+            "hu": "A nap végén vezessen fel ide, hogy a legjobb naplementés kilátásban gyönyörködhessen Burgos felett.",
+            "ro": "Conduceți sus la sfârșitul zilei pentru cea mai bună priveliște a apusului peste Burgos.",
+            "en": "Drive up at the end of the day for the best sunset view over Burgos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Auto am ruhigen Kloster Las Huelgas. Fahren Sie dann ins Zentrum, parken Sie Ihr Auto und erkunden Sie den historischen Kern zu Fuß: die prächtige Kathedrale, den Arco de Santa María und den lebhaften Paseo del Espolón. Nach dem Mittagessen und einem Besuch im Museum der menschlichen Evolution steigen Sie wieder ins Auto. Am Nachmittag fahren Sie zur abgeschiedenen Kartause von Miraflores, einem Meisterwerk der Spätgotik. Beenden Sie Ihren Ausflug mit einer Fahrt hinauf zur Burg von Burgos, um den spektakulären Sonnenuntergang zu erleben.",
+        "hu": "Kezdje a napot autóval a csendes Las Huelgas kolostornál. Ezután vezessen a központba, parkolja le az autót, és fedezze fel gyalog a történelmi magot: a pompás katedrálist, az Arco de Santa Maríát és a nyüzsgő Paseo del Espolónt. Ebéd és az Emberi Evolúció Múzeumának meglátogatása után üljön vissza az autóba. Délután hajtson el a félreeső Miraflores-i karthauzi kolostorhoz, egy késő gótikus remekműhöz. Fejezze be a kirándulást egy autózással a burgosi várhoz, hogy tanúja legyen a látványos naplementének.",
+        "ro": "Începeți ziua cu mașina la liniștita Mănăstire Las Huelgas. Apoi, conduceți spre centru, parcați mașina și explorați nucleul istoric pe jos: magnifica Catedrală, Arco de Santa María și animatul Paseo del Espolón. După prânz și o vizită la Muzeul Evoluției Umane, reveniți la mașină. După-amiaza, conduceți la izolată Cartuja de Miraflores, o capodoperă a goticului târziu. Încheiați excursia cu o plimbare cu mașina până la Castelul Burgos pentru a asista la apusul spectaculos.",
+        "en": "Start your day by car at the tranquil Monastery of Las Huelgas. Then, drive to the center, park your car, and explore the historic core on foot: the magnificent Cathedral, the Arco de Santa María, and the lively Paseo del Espolón. After lunch and a visit to the Museum of Human Evolution, get back in the car. In the afternoon, drive to the secluded Miraflores Charterhouse, a late Gothic masterpiece. End your trip with a drive up to Burgos Castle to witness the spectacular sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Morcilla de Burgos",
+            "tip": "Probieren Sie diese einzigartige Blutwurst, oft mit Reis gefüllt, gebraten serviert."
+          },
+          {
+            "name": "Lechazo Asado",
+            "tip": "Ein Festmahl aus langsam gebratenem Milchlamm, eine Spezialität von Kastilien und León."
+          },
+          {
+            "name": "Queso de Burgos",
+            "tip": "Ein frischer, weicher Weißkäse, perfekt als Dessert mit Honig oder Quittengelee."
+          },
+          {
+            "name": "Ribera del Duero Wein",
+            "tip": "Begleiten Sie Ihre Mahlzeit mit einem Glas kräftigen Rotweins aus der nahen Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Morcilla de Burgos",
+            "tip": "Kóstolja meg ezt az egyedi, gyakran rizzsel töltött véres hurkát, sültve tálalva."
+          },
+          {
+            "name": "Lechazo Asado",
+            "tip": "Lakoma a lassan sült bárányból, Kasztília és León specialitása."
+          },
+          {
+            "name": "Queso de Burgos",
+            "tip": "Friss, puha, fehér sajt, tökéletes desszertként mézzel vagy birsalmasajttal."
+          },
+          {
+            "name": "Ribera del Duero bor",
+            "tip": "Kísérje étkezését egy pohár testes vörösborral a közeli régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Morcilla de Burgos",
+            "tip": "Încercați acest cârnat de sânge unic, adesea umplut cu orez, servit prăjit."
+          },
+          {
+            "name": "Lechazo Asado",
+            "tip": "Un festin de miel de lapte fript lent, o specialitate din Castilia și León."
+          },
+          {
+            "name": "Queso de Burgos",
+            "tip": "O brânză proaspătă, moale și albă, perfectă ca desert cu miere sau pastă de gutui."
+          },
+          {
+            "name": "Vin Ribera del Duero",
+            "tip": "Însoțiți masa cu un pahar de vin roșu corpolent din regiunea apropiată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Morcilla de Burgos",
+            "tip": "Try this unique blood sausage, often filled with rice, served fried."
+          },
+          {
+            "name": "Lechazo Asado",
+            "tip": "A feast of slow-roasted suckling lamb, a specialty of Castile and León."
+          },
+          {
+            "name": "Queso de Burgos",
+            "tip": "A fresh, soft white cheese, perfect as a dessert with honey or quince paste."
+          },
+          {
+            "name": "Ribera del Duero Wine",
+            "tip": "Accompany your meal with a glass of robust red wine from the nearby region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque de la Isla",
+            "tip": "Ein schöner, ruhiger Park auf dem Weg zum Kloster Las Huelgas.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Mirador del Castillo",
+            "tip": "Der beste Ort, um den Sonnenuntergang über den Dächern von Burgos zu beobachten.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gärten der Kartause von Miraflores",
+            "tip": "Finden Sie Frieden und Stille in den gepflegten Gärten dieses Klosters.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parque de la Isla",
+            "tip": "Egy gyönyörű, csendes park a Las Huelgas kolostor felé vezető úton.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Mirador del Castillo",
+            "tip": "A legjobb hely a naplemente megtekintéséhez Burgos háztetői felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Miraflores-i karthauzi kolostor kertjei",
+            "tip": "Találjon békét és csendet ennek a kolostornak a gondozott kertjeiben.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parque de la Isla",
+            "tip": "Un parc frumos și liniștit în drum spre Mănăstirea Las Huelgas.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Mirador del Castillo",
+            "tip": "Cel mai bun loc pentru a privi apusul peste acoperișurile din Burgos.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile Cartuja de Miraflores",
+            "tip": "Găsiți pace și liniște în grădinile îngrijite ale acestei mănăstiri.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parque de la Isla",
+            "tip": "A beautiful, quiet park on the way to the Monastery of Las Huelgas.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Mirador del Castillo",
+            "tip": "The best spot to watch the sunset over the rooftops of Burgos.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gardens of Miraflores Charterhouse",
+            "tip": "Find peace and quiet in the manicured gardens of this monastery.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle de la Paloma",
+            "tip": "Finden Sie traditionelle Souvenirs und lokale Handwerkskunst in den Geschäften rund um die Kathedrale."
+          },
+          {
+            "name": "Mercado Sur",
+            "tip": "Kaufen Sie lokale Produkte, einschließlich Queso de Burgos und Morcilla, auf diesem traditionellen Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle de la Paloma",
+            "tip": "Találjon hagyományos szuveníreket és helyi kézműves termékeket a katedrális körüli üzletekben."
+          },
+          {
+            "name": "Mercado Sur",
+            "tip": "Vásároljon helyi termékeket, köztük burgosi sajtot és morcillát ezen a hagyományos piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle de la Paloma",
+            "tip": "Găsiți suveniruri tradiționale și produse de artizanat local în magazinele din jurul catedralei."
+          },
+          {
+            "name": "Mercado Sur",
+            "tip": "Cumpărați produse locale, inclusiv Queso de Burgos și morcilla, din această piață tradițională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle de la Paloma",
+            "tip": "Find traditional souvenirs and local crafts in the shops surrounding the cathedral."
+          },
+          {
+            "name": "Mercado Sur",
+            "tip": "Shop for local products, including Queso de Burgos and morcilla, at this traditional market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Flexibilität des Autos, um weiter entfernte Sehenswürdigkeiten wie Las Huelgas und Miraflores zu besuchen.",
+          "Parken Sie im Zentrum in einer Tiefgarage, da Parkplätze auf der Straße selten sind.",
+          "Planen Sie zusätzliche Zeit für den Verkehr ein, besonders während der Hauptverkehrszeiten.",
+          "Das Autofahren in der Altstadt ist eingeschränkt; halten Sie sich an die Hauptstraßen."
+        ],
+        "hu": [
+          "Használja ki az autó rugalmasságát a távolabbi látnivalók, mint például Las Huelgas és Miraflores meglátogatásához.",
+          "Parkoljon a központban mélygarázsban, mivel az utcai parkolóhelyek ritkák.",
+          "Számoljon extra idővel a forgalomra, különösen csúcsidőben.",
+          "Az autóvezetés az óvárosban korlátozott; tartsa magát a főutakhoz."
+        ],
+        "ro": [
+          "Folosiți flexibilitatea mașinii pentru a vizita atracțiile mai îndepărtate, cum ar fi Las Huelgas și Miraflores.",
+          "Parcați în centru într-o parcare subterană, deoarece locurile de parcare pe stradă sunt rare.",
+          "Planificați timp suplimentar pentru trafic, în special în orele de vârf.",
+          "Conducerea în orașul vechi este restricționată; rămâneți pe drumurile principale."
+        ],
+        "en": [
+          "Use the flexibility of the car to visit more distant sights like Las Huelgas and Miraflores.",
+          "Park in an underground garage in the center, as street parking is scarce.",
+          "Allow extra time for traffic, especially during peak hours.",
+          "Driving in the old town is restricted; stick to the main roads."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:51",
+      "total_km": 7.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza Mayor",
+            "hu": "Főtér",
+            "ro": "Plaza Mayor",
+            "en": "Main Square"
+          },
+          "coords": [
+            -3.7049,
+            42.3413
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier, leicht erreichbar mit mehreren Buslinien.",
+            "hu": "Kezdje a napot itt, több buszjárattal is könnyen megközelíthető.",
+            "ro": "Începeți ziua aici, ușor accesibil cu mai multe linii de autobuz.",
+            "en": "Start your day here, easily accessible by several bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Burgos",
+            "hu": "Burgosi katedrális",
+            "ro": "Catedrala din Burgos",
+            "en": "Burgos Cathedral"
+          },
+          "coords": [
+            -3.7045,
+            42.3407
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Von der Plaza Mayor ist es nur ein kurzer Spaziergang zu diesem gotischen Juwel.",
+            "hu": "A Plaza Mayortól csak egy rövid séta ez a gótikus gyöngyszem.",
+            "ro": "De la Plaza Mayor este doar o scurtă plimbare până la această bijuterie gotică.",
+            "en": "It's just a short walk from Plaza Mayor to this Gothic gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Paseo del Espolón",
+            "hu": "Paseo del Espolón",
+            "ro": "Paseo del Espolón",
+            "en": "Paseo del Espolón"
+          },
+          "coords": [
+            -3.702,
+            42.3402
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:20",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen eleganten Park, bevor Sie den Bus zur nächsten Station nehmen.",
+            "hu": "Sétáljon végig ezen az elegáns parkon, mielőtt felszáll a buszra a következő megállóhoz.",
+            "ro": "Plimbați-vă prin acest parc elegant înainte de a lua autobuzul spre următoarea oprire.",
+            "en": "Stroll through this elegant park before taking the bus to your next stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der menschlichen Evolution",
+            "hu": "Emberi Evolúció Múzeuma",
+            "ro": "Muzeul Evoluției Umane",
+            "en": "Museum of Human Evolution"
+          },
+          "coords": [
+            -3.693,
+            42.3395
+          ],
+          "category": "museums",
+          "arrive_at": "12:44",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Eine kurze Busfahrt vom Zentrum bringt Sie zu diesem Weltklasse-Museum.",
+            "hu": "Egy rövid buszút a központból elviszi ehhez a világszínvonalú múzeumhoz.",
+            "ro": "O scurtă călătorie cu autobuzul din centru vă va duce la acest muzeu de talie mondială.",
+            "en": "A short bus ride from the center will take you to this world-class museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Las Huelgas",
+            "hu": "Las Huelgas kolostor",
+            "ro": "Mănăstirea Las Huelgas",
+            "en": "Monastery of Las Huelgas"
+          },
+          "coords": [
+            -3.723,
+            42.336
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:24",
+          "stay_min": 80,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus, der die Stadt durchquert, um dieses beeindruckende königliche Kloster zu erreichen.",
+            "hu": "Vegyél egy buszt, ami átszeli a várost, hogy elérd ezt a lenyűgöző királyi kolostort.",
+            "ro": "Luați un autobuz care traversează orașul pentru a ajunge la această impresionantă mănăstire regală.",
+            "en": "Take a cross-town bus to reach this impressive royal monastery."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Burgos",
+            "hu": "Burgosi vár",
+            "ro": "Castelul din Burgos",
+            "en": "Burgos Castle"
+          },
+          "coords": [
+            -3.706,
+            42.3435
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "17:11",
+          "stay_min": 70,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Einige Buslinien bringen Sie in die Nähe des Hügels. Der letzte Aufstieg zu Fuß lohnt sich.",
+            "hu": "Néhány buszjárat a hegy közelébe visz. Az utolsó, gyalogos emelkedő megéri.",
+            "ro": "Unele linii de autobuz vă vor duce aproape de deal. Urcușul final pe jos merită.",
+            "en": "Some bus lines will get you close to the hill. The final climb on foot is worth it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln erkunden Sie Burgos mühelos. Beginnen Sie im historischen Zentrum, das Sie bequem mit dem Bus erreichen, und spazieren Sie von der Plaza Mayor zur Kathedrale. Nach einem Spaziergang auf dem Paseo del Espolón bringt Sie ein kurzer Bus zum Museum der menschlichen Evolution. Am Nachmittag durchqueren Sie die Stadt mit dem Bus, um das königliche Kloster Las Huelgas zu besichtigen. Schließen Sie Ihren Tag mit einer Busfahrt in die Nähe der Burg ab und genießen Sie den Panoramablick über die Stadt, die Sie heute durchquert haben.",
+        "hu": "A tömegközlekedéssel könnyedén felfedezheti Burgost. Kezdje a történelmi központban, amely busszal könnyen megközelíthető, és sétáljon a Plaza Mayortól a katedrálisig. A Paseo del Espolónon tett séta után egy rövid buszozás elviszi az Emberi Evolúció Múzeumába. Délután szelje át a várost busszal, hogy meglátogassa a királyi Las Huelgas kolostort. Zárja a napot egy buszúttal a vár közelébe, és élvezze a panorámát a város felett, amelyet ma bejárt.",
+        "ro": "Explorați Burgos fără efort folosind transportul public. Începeți în centrul istoric, ușor accesibil cu autobuzul, și plimbați-vă de la Plaza Mayor la Catedrală. După o plimbare pe Paseo del Espolón, o scurtă călătorie cu autobuzul vă va duce la Muzeul Evoluției Umane. După-amiaza, traversați orașul cu autobuzul pentru a vizita mănăstirea regală Las Huelgas. Încheiați-vă ziua cu o călătorie cu autobuzul aproape de castel pentru o vedere panoramică a orașului pe care l-ați străbătut.",
+        "en": "Explore Burgos effortlessly using public transport. Start in the historic center, easily reached by bus, and walk from Plaza Mayor to the Cathedral. After a stroll on Paseo del Espolón, a short bus ride takes you to the Museum of Human Evolution. In the afternoon, cross the city by bus to visit the royal Monastery of Las Huelgas. End your day with a bus trip near the castle for a panoramic view of the city you've traversed."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Morcilla de Burgos",
+            "tip": "Probieren Sie diese einzigartige Blutwurst, oft mit Reis gefüllt, gebraten serviert."
+          },
+          {
+            "name": "Lechazo Asado",
+            "tip": "Ein Festmahl aus langsam gebratenem Milchlamm, eine Spezialität von Kastilien und León."
+          },
+          {
+            "name": "Queso de Burgos",
+            "tip": "Ein frischer, weicher Weißkäse, perfekt als Dessert mit Honig oder Quittengelee."
+          },
+          {
+            "name": "Ribera del Duero Wein",
+            "tip": "Begleiten Sie Ihre Mahlzeit mit einem Glas kräftigen Rotweins aus der nahen Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Morcilla de Burgos",
+            "tip": "Kóstolja meg ezt az egyedi, gyakran rizzsel töltött véres hurkát, sültve tálalva."
+          },
+          {
+            "name": "Lechazo Asado",
+            "tip": "Lakoma a lassan sült bárányból, Kasztília és León specialitása."
+          },
+          {
+            "name": "Queso de Burgos",
+            "tip": "Friss, puha, fehér sajt, tökéletes desszertként mézzel vagy birsalmasajttal."
+          },
+          {
+            "name": "Ribera del Duero bor",
+            "tip": "Kísérje étkezését egy pohár testes vörösborral a közeli régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Morcilla de Burgos",
+            "tip": "Încercați acest cârnat de sânge unic, adesea umplut cu orez, servit prăjit."
+          },
+          {
+            "name": "Lechazo Asado",
+            "tip": "Un festin de miel de lapte fript lent, o specialitate din Castilia și León."
+          },
+          {
+            "name": "Queso de Burgos",
+            "tip": "O brânză proaspătă, moale și albă, perfectă ca desert cu miere sau pastă de gutui."
+          },
+          {
+            "name": "Vin Ribera del Duero",
+            "tip": "Însoțiți masa cu un pahar de vin roșu corpolent din regiunea apropiată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Morcilla de Burgos",
+            "tip": "Try this unique blood sausage, often filled with rice, served fried."
+          },
+          {
+            "name": "Lechazo Asado",
+            "tip": "A feast of slow-roasted suckling lamb, a specialty of Castile and León."
+          },
+          {
+            "name": "Queso de Burgos",
+            "tip": "A fresh, soft white cheese, perfect as a dessert with honey or quince paste."
+          },
+          {
+            "name": "Ribera del Duero Wine",
+            "tip": "Accompany your meal with a glass of robust red wine from the nearby region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Río Arlanzón",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses, weg vom Trubel der Innenstadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mirador del Castillo",
+            "tip": "Der beste Ort, um den Sonnenuntergang über den Dächern von Burgos zu beobachten.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parque de la Isla",
+            "tip": "Ein schöner, ruhiger Park auf dem Weg zum Kloster Las Huelgas.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Río Arlanzón partja",
+            "tip": "Egy csendes séta a folyó mentén, távol a belváros nyüzsgésétől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mirador del Castillo",
+            "tip": "A legjobb hely a naplemente megtekintéséhez Burgos háztetői felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parque de la Isla",
+            "tip": "Egy gyönyörű, csendes park a Las Huelgas kolostor felé vezető úton.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Arlanzón",
+            "tip": "O plimbare liniștită de-a lungul râului, departe de agitația centrului orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mirador del Castillo",
+            "tip": "Cel mai bun loc pentru a privi apusul peste acoperișurile din Burgos.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parque de la Isla",
+            "tip": "Un parc frumos și liniștit în drum spre Mănăstirea Las Huelgas.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Río Arlanzón",
+            "tip": "A quiet walk along the river, away from the hustle of the city center.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mirador del Castillo",
+            "tip": "The best spot to watch the sunset over the rooftops of Burgos.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parque de la Isla",
+            "tip": "A beautiful, quiet park on the way to the Monastery of Las Huelgas.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle de la Paloma",
+            "tip": "Finden Sie traditionelle Souvenirs und lokale Handwerkskunst in den Geschäften rund um die Kathedrale."
+          },
+          {
+            "name": "Mercado Sur",
+            "tip": "Kaufen Sie lokale Produkte, einschließlich Queso de Burgos und Morcilla, auf diesem traditionellen Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle de la Paloma",
+            "tip": "Találjon hagyományos szuveníreket és helyi kézműves termékeket a katedrális körüli üzletekben."
+          },
+          {
+            "name": "Mercado Sur",
+            "tip": "Vásároljon helyi termékeket, köztük burgosi sajtot és morcillát ezen a hagyományos piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle de la Paloma",
+            "tip": "Găsiți suveniruri tradiționale și produse de artizanat local în magazinele din jurul catedralei."
+          },
+          {
+            "name": "Mercado Sur",
+            "tip": "Cumpărați produse locale, inclusiv Queso de Burgos și morcilla, din această piață tradițională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle de la Paloma",
+            "tip": "Find traditional souvenirs and local crafts in the shops surrounding the cathedral."
+          },
+          {
+            "name": "Mercado Sur",
+            "tip": "Shop for local products, including Queso de Burgos and morcilla, at this traditional market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine 'Bonobús'-Karte für ermäßigte Fahrpreise, wenn Sie mehrere Fahrten planen.",
+          "Die Buslinien sind gut ausgeschildert, aber eine App für den öffentlichen Nahverkehr kann hilfreich sein.",
+          "Beachten Sie die Fahrpläne, besonders abends und am Wochenende.",
+          "Von den Bushaltestellen zu den Sehenswürdigkeiten sind oft kurze Fußwege erforderlich."
+        ],
+        "hu": [
+          "Vásároljon „Bonobús” kártyát a kedvezményes utazáshoz, ha több utat tervez.",
+          "A buszjáratok jól ki vannak táblázva, de egy tömegközlekedési alkalmazás hasznos lehet.",
+          "Vegye figyelembe a menetrendet, különösen este és hétvégén.",
+          "A buszmegállóktól a látnivalókig gyakran rövid sétára van szükség."
+        ],
+        "ro": [
+          "Cumpărați un card „Bonobús” pentru tarife reduse dacă plănuiți mai multe călătorii.",
+          "Liniile de autobuz sunt bine semnalizate, dar o aplicație de transport public poate fi de ajutor.",
+          "Fiți atenți la orare, în special seara și în weekend.",
+          "Este adesea necesară o scurtă plimbare pe jos de la stațiile de autobuz la atracții."
+        ],
+        "en": [
+          "Buy a 'Bonobús' card for discounted fares if you plan on taking multiple trips.",
+          "Bus routes are well-marked, but a public transport app can be helpful.",
+          "Be mindful of the schedules, especially in the evenings and on weekends.",
+          "Short walks are often required from bus stops to the sights."
+        ]
+      }
+    }
+  }
+}

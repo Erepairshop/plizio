@@ -1,0 +1,1445 @@
+{
+  "city_id": "switzerland-peseux-cities-v2",
+  "anchor": {
+    "name": "Peseux",
+    "coords": [
+      6.891,
+      46.991
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Beginn an der Rue du Château",
+            "hu": "Indulás a Rue du Château-tól",
+            "ro": "Început pe Rue du Château",
+            "en": "Start at Rue du Château"
+          },
+          "coords": [
+            6.8905,
+            46.9912
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Spüren Sie die Atmosphäre der Altstadt, bevor die Menschenmassen eintreffen.",
+            "hu": "Érezze át az óváros hangulatát, mielőtt megérkezik a tömeg.",
+            "ro": "Simțiți atmosfera centrului vechi înainte de a deveni aglomerat.",
+            "en": "Feel the atmosphere of the old town before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Fontaine du Banneret",
+            "hu": "Fontaine du Banneret szökőkút",
+            "ro": "Fântâna Banneret",
+            "en": "Banneret Fountain"
+          },
+          "coords": [
+            6.8911,
+            46.9915
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:40",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein schönes Fotomotiv, das die lokale Geschichte darstellt.",
+            "hu": "Szép fotótéma, amely a helyi történelmet ábrázolja.",
+            "ro": "Un subiect foto frumos care reprezintă istoria locală.",
+            "en": "A beautiful photo opportunity representing local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Temple de Peseux",
+            "hu": "Peseux-i templom",
+            "ro": "Templul din Peseux",
+            "en": "Temple of Peseux"
+          },
+          "coords": [
+            6.8918,
+            46.992
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Achten Sie auf die schlichte Eleganz der reformierten Architektur.",
+            "hu": "Figyelje meg a református építészet egyszerű eleganciáját.",
+            "ro": "Observați eleganța sobră a arhitecturii reformate.",
+            "en": "Notice the simple elegance of the Reformed architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel de Ville",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            6.8908,
+            46.9908
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:50",
+          "stay_min": 20,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fassade des Gebäudes, ein lokales Wahrzeichen.",
+            "hu": "Csodálja meg az épület homlokzatát, egy helyi jelképet.",
+            "ro": "Admirați fațada clădirii, un punct de reper local.",
+            "en": "Admire the building's facade, a local landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Peseux",
+            "hu": "Peseux-i kastély",
+            "ro": "Castelul Peseux",
+            "en": "Peseux Castle"
+          },
+          "coords": [
+            6.8875,
+            46.9935
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Umgebung des Schlosses für einen tollen Blick auf die Stadt.",
+            "hu": "Fedezze fel a kastély környékét a városra nyíló remek kilátásért.",
+            "ro": "Explorați împrejurimile castelului pentru o priveliște minunată asupra orașului.",
+            "en": "Explore the castle grounds for a great view of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de la Fondation Panayotidis",
+            "hu": "Panayotidis Alapítvány Parkja",
+            "ro": "Parcul Fundației Panayotidis",
+            "en": "Panayotidis Foundation Park"
+          },
+          "coords": [
+            6.886,
+            46.9945
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für ein Picknick oder eine entspannte Mittagspause.",
+            "hu": "Ideális hely egy piknikhez vagy egy pihentető ebédszünethez.",
+            "ro": "Un loc ideal pentru un picnic sau o pauză de prânz relaxantă.",
+            "en": "An ideal spot for a picnic or a relaxing lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang im Forêt de Neuchâtel",
+            "hu": "Séta a Neuchâteli erdőben",
+            "ro": "Plimbare în Pădurea Neuchâtel",
+            "en": "Walk in the Neuchâtel Forest"
+          },
+          "coords": [
+            6.898,
+            46.985
+          ],
+          "category": "natural features",
+          "arrive_at": "15:00",
+          "stay_min": 105,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Folgen Sie den markierten Wegen für einen erfrischenden Waldspaziergang.",
+            "hu": "Kövesse a jelzett ösvényeket egy frissítő erdei sétához.",
+            "ro": "Urmați potecile marcate pentru o plimbare revigorantă prin pădure.",
+            "en": "Follow the marked trails for a refreshing forest walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Herzen von Peseux, umgeben von charmanter Architektur. Am Mittag erklimmen Sie den Hügel zum Schloss und genießen die Aussicht, bevor Sie im Park entspannen. Der Nachmittag ist einem langen Spaziergang im kühlen Forêt de Neuchâtel gewidmet. Am Abend kehren Sie mit vielen Eindrücken in das Dorfzentrum zurück.",
+        "hu": "Kezdje a napot Peseux történelmi szívében, bájos építészettel körülvéve. Délben másszon fel a dombra a kastélyhoz, és élvezze a kilátást, mielőtt a parkban pihenne. A délutánt egy hosszú séta teszi ki a hűvös Neuchâteli erdőben. Este térjen vissza a faluközpontba, tele élményekkel.",
+        "ro": "Începeți ziua în inima istorică a Peseux, înconjurat de arhitectură fermecătoare. La prânz, urcați dealul spre castel și bucurați-vă de priveliște înainte de a vă relaxa în parc. După-amiaza este dedicată unei plimbări lungi în răcoroasa Pădure Neuchâtel. Seara, reveniți în centrul satului plin de impresii.",
+        "en": "Start your day in the historic heart of Peseux, surrounded by charming architecture. At noon, climb the hill to the castle and enjoy the view before relaxing in the park. The afternoon is dedicated to a long walk in the cool Neuchâtel Forest. In the evening, return to the village center full of impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fondue Neuchâteloise",
+            "tip": "Ein Muss in der Region, cremig und würzig."
+          },
+          {
+            "name": "Saucisson Neuchâtelois",
+            "tip": "Eine lokale Wurstspezialität, oft mit Gemüse serviert."
+          },
+          {
+            "name": "Restaurant du Château",
+            "tip": "Bietet traditionelle Gerichte mit einer herrlichen Aussicht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Neuchâteli Fondue",
+            "tip": "Kötelező a régióban, krémes és ízletes."
+          },
+          {
+            "name": "Neuchâteli kolbász",
+            "tip": "Helyi kolbászkülönlegesség, gyakran zöldségekkel tálalva."
+          },
+          {
+            "name": "Restaurant du Château",
+            "tip": "Hagyományos ételeket kínál csodálatos kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fondue Neuchâteloise",
+            "tip": "O necesitate în regiune, cremos și aromat."
+          },
+          {
+            "name": "Saucisson Neuchâtelois",
+            "tip": "O specialitate locală de cârnați, adesea servită cu legume."
+          },
+          {
+            "name": "Restaurant du Château",
+            "tip": "Oferă mâncăruri tradiționale cu o priveliște magnifică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Neuchâtel Fondue",
+            "tip": "A must-try in the region, creamy and flavorful."
+          },
+          {
+            "name": "Saucisson Neuchâtelois",
+            "tip": "A local sausage specialty, often served with vegetables."
+          },
+          {
+            "name": "Restaurant du Château",
+            "tip": "Offers traditional dishes with a magnificent view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc de la Fondation Panayotidis",
+            "tip": "Eine ruhige Oase mit schönen Skulpturen und Bänken.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Neuenburgersees",
+            "tip": "Ein kurzer Spaziergang zum Seeufer für friedliche Momente.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Bänke am Waldrand",
+            "tip": "Finden Sie eine Bank am Rande des Forêt de Neuchâtel und lauschen Sie den Vögeln.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Panayotidis Alapítvány Parkja",
+            "tip": "Csendes oázis szép szobrokkal és padokkal.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Neuchâteli-tó partja",
+            "tip": "Rövid séta a tópartra a békés pillanatokért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Padok az erdő szélén",
+            "tip": "Keressen egy padot a Neuchâteli erdő szélén, és hallgassa a madarakat.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Fundației Panayotidis",
+            "tip": "O oază de liniște cu sculpturi frumoase și bănci.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul lacului Neuchâtel",
+            "tip": "O scurtă plimbare până la malul lacului pentru momente de pace.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Bănci la marginea pădurii",
+            "tip": "Găsiți o bancă la marginea Pădurii Neuchâtel și ascultați păsările.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Panayotidis Foundation Park",
+            "tip": "A quiet oasis with beautiful sculptures and benches.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Shores of Lake Neuchâtel",
+            "tip": "A short walk to the lake shore for peaceful moments.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Benches at the Forest Edge",
+            "tip": "Find a bench on the edge of the Neuchâtel Forest and listen to the birds.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Kaufen Sie ein frisches 'Pain Neuchâtelois'."
+          },
+          {
+            "name": "Weingut in der Nähe",
+            "tip": "Probieren und kaufen Sie Weine aus der Region Neuchâtel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékség",
+            "tip": "Vásároljon friss 'Pain Neuchâtelois'-t."
+          },
+          {
+            "name": "Közeli borászat",
+            "tip": "Kóstoljon és vásároljon borokat a Neuchâtel régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie locală",
+            "tip": "Cumpărați un 'Pain Neuchâtelois' proaspăt."
+          },
+          {
+            "name": "Cramă din apropiere",
+            "tip": "Degustați și cumpărați vinuri din regiunea Neuchâtel."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bakery",
+            "tip": "Buy a fresh 'Pain Neuchâtelois'."
+          },
+          {
+            "name": "Nearby Winery",
+            "tip": "Taste and buy wines from the Neuchâtel region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Gelände hügelig ist.",
+          "Nehmen Sie Wasser mit, besonders für den Spaziergang im Wald.",
+          "Prüfen Sie die Öffnungszeiten des Schlosses im Voraus.",
+          "Eine Kamera ist unerlässlich für die schönen Ausblicke."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a terep dombos.",
+          "Vigyen magával vizet, különösen az erdei sétához.",
+          "Előre ellenőrizze a kastély nyitvatartási idejét.",
+          "A gyönyörű kilátásokhoz elengedhetetlen a fényképezőgép."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece terenul este deluros.",
+          "Luați apă cu dvs., mai ales pentru plimbarea prin pădure.",
+          "Verificați în prealabil orele de deschidere ale castelului.",
+          "Un aparat foto este esențial pentru priveliștile frumoase."
+        ],
+        "en": [
+          "Wear comfortable shoes as the terrain is hilly.",
+          "Bring water, especially for the walk in the forest.",
+          "Check the castle's opening hours in advance.",
+          "A camera is essential for the beautiful views."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 9.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Start am Temple de Peseux",
+            "hu": "Indulás a Peseux-i templomtól",
+            "ro": "Pornire de la Templul din Peseux",
+            "en": "Start at the Temple of Peseux"
+          },
+          "coords": [
+            6.8918,
+            46.992
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein guter Ausgangspunkt mit Parkmöglichkeiten für Fahrräder in der Nähe.",
+            "hu": "Jó kiindulópont a közelben lévő kerékpárparkolókkal.",
+            "ro": "Un bun punct de plecare cu parcare pentru biciclete în apropiere.",
+            "en": "A good starting point with bicycle parking nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel de Ville & Rue du Château",
+            "hu": "Városháza és Rue du Château",
+            "ro": "Primăria și Rue du Château",
+            "en": "Town Hall & Rue du Château"
+          },
+          "coords": [
+            6.8908,
+            46.9908
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:43",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und erkunden Sie die engen Gassen zu Fuß.",
+            "hu": "Zárja le a kerékpárját, és fedezze fel gyalog a szűk utcákat.",
+            "ro": "Legați-vă bicicleta și explorați străduțele înguste pe jos.",
+            "en": "Lock up your bike and explore the narrow streets on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Peseux",
+            "hu": "Peseux-i kastély",
+            "ro": "Castelul Peseux",
+            "en": "Peseux Castle"
+          },
+          "coords": [
+            6.8875,
+            46.9935
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:20",
+          "stay_min": 70,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Der Anstieg ist die Mühe wert für die Aussicht. Oben gibt es einen Fahrradständer.",
+            "hu": "Az emelkedő megéri a fáradságot a kilátásért. Fent van kerékpártároló.",
+            "ro": "Urcușul merită efortul pentru priveliște. Există un suport pentru biciclete în vârf.",
+            "en": "The climb is worth the effort for the view. There's a bike rack at the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de la Fondation Panayotidis",
+            "hu": "Panayotidis Alapítvány Parkja",
+            "ro": "Parcul Fundației Panayotidis",
+            "en": "Panayotidis Foundation Park"
+          },
+          "coords": [
+            6.886,
+            46.9945
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Fahren Sie durch den Park und machen Sie eine Pause am Teich.",
+            "hu": "Tekerjen át a parkon, és tartson szünetet a tónál.",
+            "ro": "Plimbați-vă cu bicicleta prin parc și faceți o pauză lângă iaz.",
+            "en": "Ride through the park and take a break by the pond."
+          }
+        },
+        {
+          "name": {
+            "de": "Ancienne Cure",
+            "hu": "Ancienne Cure (Régi Plébánia)",
+            "ro": "Ancienne Cure (Vechea Casă Parohială)",
+            "en": "Ancienne Cure (Old Presbytery)"
+          },
+          "coords": [
+            6.8885,
+            46.9925
+          ],
+          "category": "historical",
+          "arrive_at": "12:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein historisches Gebäude in der Nähe des Schlosses, das oft übersehen wird.",
+            "hu": "Egy történelmi épület a kastély közelében, amelyet gyakran figyelmen kívül hagynak.",
+            "ro": "O clădire istorică lângă castel, adesea trecută cu vederea.",
+            "en": "A historic building near the castle that is often overlooked."
+          }
+        },
+        {
+          "name": {
+            "de": "Radtour in den Forêt de Neuchâtel",
+            "hu": "Kerékpártúra a Neuchâteli erdőbe",
+            "ro": "Tur cu bicicleta în Pădurea Neuchâtel",
+            "en": "Bike ride into the Neuchâtel Forest"
+          },
+          "coords": [
+            6.905,
+            46.983
+          ],
+          "category": "natural features",
+          "arrive_at": "14:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Wählen Sie eine der flacheren Routen, wenn Sie eine gemütliche Fahrt bevorzugen.",
+            "hu": "Válasszon egyet a lankásabb útvonalak közül, ha egy kényelmes tekerést részesít előnyben.",
+            "ro": "Alegeți unul dintre traseele mai plate dacă preferați o plimbare lejeră.",
+            "en": "Choose one of the flatter routes if you prefer a leisurely ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt im Herzen von Peseux und führt Sie durch die historischen Gassen. Ein kurzer Anstieg bringt Sie zum Schloss mit seiner atemberaubenden Aussicht. Nach einer entspannten Mittagspause im Park radeln Sie zum weitläufigen Forêt de Neuchâtel für ein Naturerlebnis. Der Tag endet mit einer gemütlichen Rückfahrt ins Zentrum.",
+        "hu": "A kerékpártúra Peseux szívében kezdődik, és a történelmi sikátorokon keresztül vezet. Egy rövid emelkedő felvisz a kastélyhoz, ahonnan lélegzetelállító a kilátás. Egy pihentető ebédszünet után a parkban a tágas Neuchâteli erdőbe teker, egy természeti élményért. A nap egy kényelmes visszaúttal zárul a központba.",
+        "ro": "Turul cu bicicleta începe în inima orașului Peseux și vă poartă pe străduțele istorice. O urcare scurtă vă duce la castel cu priveliștea sa uluitoare. După o pauză de prânz relaxantă în parc, pedalați spre vasta Pădure Neuchâtel pentru o experiență în natură. Ziua se încheie cu o plimbare lejeră înapoi în centru.",
+        "en": "Your bike tour starts in the heart of Peseux, taking you through the historic alleys. A short climb brings you to the castle with its breathtaking view. After a relaxing lunch break in the park, you'll cycle to the vast Neuchâtel Forest for a nature experience. The day ends with a leisurely ride back to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Perfekt für einen schnellen und leckeren Snack für unterwegs."
+          },
+          {
+            "name": "Auberge de Peseux",
+            "tip": "Traditionelle Schweizer Küche, ideal nach einer langen Radtour."
+          },
+          {
+            "name": "Café du Centre",
+            "tip": "Gönnen Sie sich ein Stück Kuchen und einen Kaffee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékség",
+            "tip": "Tökéletes egy gyors és finom úti harapnivalóhoz."
+          },
+          {
+            "name": "Auberge de Peseux",
+            "tip": "Hagyományos svájci konyha, ideális egy hosszú kerékpártúra után."
+          },
+          {
+            "name": "Café du Centre",
+            "tip": "Kényeztesse magát egy szelet süteménnyel és egy kávéval."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie locală",
+            "tip": "Perfectă pentru o gustare rapidă și delicioasă la pachet."
+          },
+          {
+            "name": "Auberge de Peseux",
+            "tip": "Bucătărie tradițională elvețiană, ideală după o plimbare lungă cu bicicleta."
+          },
+          {
+            "name": "Café du Centre",
+            "tip": "Răsfățați-vă cu o felie de prăjitură și o cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bakery",
+            "tip": "Perfect for a quick and delicious snack on the go."
+          },
+          {
+            "name": "Auberge de Peseux",
+            "tip": "Traditional Swiss cuisine, ideal after a long bike ride."
+          },
+          {
+            "name": "Café du Centre",
+            "tip": "Treat yourself to a slice of cake and a coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt beim Schloss",
+            "tip": "Der beste Panoramablick über das Dorf und den See.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Waldlichtung im Forêt de Neuchâtel",
+            "tip": "Finden Sie einen ruhigen Ort, um die Natur zu genießen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirchhof des Temple de Peseux",
+            "tip": "Ein friedlicher Ort im Zentrum des Dorfes.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópont a kastélynál",
+            "tip": "A legjobb panorámakilátás a falura és a tóra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Erdei tisztás a Neuchâteli erdőben",
+            "tip": "Keressen egy csendes helyet a természet élvezetére.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Peseux-i templom templomkertje",
+            "tip": "Békés hely a falu központjában.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere la castel",
+            "tip": "Cea mai bună vedere panoramică asupra satului și lacului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Luminiș în Pădurea Neuchâtel",
+            "tip": "Găsiți un loc liniștit pentru a vă bucura de natură.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea bisericii Temple de Peseux",
+            "tip": "Un loc pașnic în centrul satului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint at the Castle",
+            "tip": "The best panoramic view over the village and the lake.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Forest clearing in Forêt de Neuchâtel",
+            "tip": "Find a quiet spot to enjoy nature.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Churchyard of the Temple de Peseux",
+            "tip": "A peaceful place in the center of the village.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sportgeschäft",
+            "tip": "Falls Sie Zubehör für Ihr Fahrrad benötigen."
+          },
+          {
+            "name": "Käserei",
+            "tip": "Kaufen Sie authentischen Schweizer Käse für zu Hause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sportbolt",
+            "tip": "Ha tartozékokra lenne szüksége a kerékpárjához."
+          },
+          {
+            "name": "Sajtüzem",
+            "tip": "Vásároljon autentikus svájci sajtot hazavitelre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de sport",
+            "tip": "În caz că aveți nevoie de accesorii pentru bicicletă."
+          },
+          {
+            "name": "Fabrică de brânzeturi",
+            "tip": "Cumpărați brânză elvețiană autentică pentru acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sports Shop",
+            "tip": "In case you need any accessories for your bike."
+          },
+          {
+            "name": "Cheese Dairy",
+            "tip": "Buy authentic Swiss cheese to take home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck vor der Abfahrt.",
+          "Ein Helm wird dringend empfohlen.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad sicher abzustellen.",
+          "Die Wege im Wald können uneben sein, fahren Sie vorsichtig."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Sisak viselése erősen ajánlott.",
+          "Hozzon magával lakatot a kerékpár biztonságos lezárásához.",
+          "Az erdei ösvények egyenetlenek lehetnek, óvatosan közlekedjen."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope înainte de a pleca.",
+          "Se recomandă insistent purtarea unei căști.",
+          "Luați un lacăt pentru a vă asigura bicicleta.",
+          "Potecile din pădure pot fi denivelate, conduceți cu prudență."
+        ],
+        "en": [
+          "Check your tire pressure before setting off.",
+          "A helmet is strongly recommended.",
+          "Bring a lock to secure your bike.",
+          "The paths in the forest can be uneven, ride carefully."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 15.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Parken im Dorfzentrum",
+            "hu": "1. klaszter: Parkolás a faluközpontban",
+            "ro": "Cluster 1: Parcare în centrul satului",
+            "en": "Cluster 1: Park in the Village Center"
+          },
+          "coords": [
+            6.891,
+            46.991
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Suchen Sie einen zentralen Parkplatz, um das historische Zentrum zu Fuß zu erkunden.",
+            "hu": "Keressen egy központi parkolót, hogy gyalog fedezhesse fel a történelmi központot.",
+            "ro": "Găsiți o parcare centrală pentru a explora centrul istoric pe jos.",
+            "en": "Find a central parking spot to explore the historic center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Rue du Château & Fontaine du Banneret",
+            "hu": "Rue du Château és Fontaine du Banneret",
+            "ro": "Rue du Château și Fântâna Banneret",
+            "en": "Rue du Château & Banneret Fountain"
+          },
+          "coords": [
+            6.8905,
+            46.9912
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang verbindet diese beiden malerischen Orte.",
+            "hu": "Egy rövid séta köti össze ezt a két festői helyet.",
+            "ro": "O scurtă plimbare leagă aceste două locuri pitorești.",
+            "en": "A short walk connects these two picturesque spots."
+          }
+        },
+        {
+          "name": {
+            "de": "Temple de Peseux",
+            "hu": "Peseux-i templom",
+            "ro": "Templul din Peseux",
+            "en": "Temple of Peseux"
+          },
+          "coords": [
+            6.8918,
+            46.992
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:42",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur, bevor Sie zum Auto zurückkehren.",
+            "hu": "Csodálja meg az építészetet, mielőtt visszatérne az autóhoz.",
+            "ro": "Admirați arhitectura înainte de a vă întoarce la mașină.",
+            "en": "Admire the architecture before heading back to the car."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Fahrt zum Château de Peseux",
+            "hu": "2. klaszter: Autóval a Peseux-i kastélyhoz",
+            "ro": "Cluster 2: Cu mașina la Castelul Peseux",
+            "en": "Cluster 2: Drive to Peseux Castle"
+          },
+          "coords": [
+            6.8875,
+            46.9935
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:20",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Parken Sie am Schloss und genießen Sie die Aussicht und die Geschichte.",
+            "hu": "Parkoljon a kastélynál, és élvezze a kilátást és a történelmet.",
+            "ro": "Parcați la castel și bucurați-vă de priveliște și de istorie.",
+            "en": "Park at the castle and enjoy the view and history."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de la Fondation Panayotidis",
+            "hu": "Panayotidis Alapítvány Parkja",
+            "ro": "Parcul Fundației Panayotidis",
+            "en": "Panayotidis Foundation Park"
+          },
+          "coords": [
+            6.886,
+            46.9945
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Schloss zu diesem friedlichen Park. Ideal für die Mittagspause.",
+            "hu": "Rövid séta a kastélytól ehhez a békés parkhoz. Ideális ebédszünetre.",
+            "ro": "O scurtă plimbare de la castel la acest parc pașnic. Ideal pentru pauza de prânz.",
+            "en": "A short walk from the castle to this peaceful park. Ideal for a lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Ausflug zum Forêt de Neuchâtel",
+            "hu": "3. klaszter: Kirándulás a Neuchâteli erdőbe",
+            "ro": "Cluster 3: Excursie la Pădurea Neuchâtel",
+            "en": "Cluster 3: Trip to the Neuchâtel Forest"
+          },
+          "coords": [
+            6.91,
+            46.98
+          ],
+          "category": "natural features",
+          "arrive_at": "14:15",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zu einem der Parkplätze am Waldrand und unternehmen Sie eine Wanderung.",
+            "hu": "Hajtson el az egyik parkolóba az erdő szélén, és tegyen egy túrát.",
+            "ro": "Conduceți până la una dintre parcările de la marginea pădurii și faceți o drumeție.",
+            "en": "Drive to one of the parking lots at the edge of the forest and go for a hike."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Peseux in Clustern. Sie beginnen mit einem Spaziergang durch das Dorfzentrum. Danach fahren Sie zum Schloss und dem angrenzenden Park, wo Sie zu Mittag essen. Der Nachmittag gehört einem Ausflug in den nahen Forêt de Neuchâtel, ein perfekter Kontrast zum Dorf. Ein Tag voller Kultur und Natur.",
+        "hu": "Autóval klaszterekben fedezi fel Peseux-t. Egy sétával kezdi a faluközpontban. Ezután a kastélyhoz és a szomszédos parkhoz hajt, ahol ebédel. A délután egy kirándulásé a közeli Neuchâteli erdőbe, ami tökéletes kontrasztot képez a faluval. Egy kultúrával és természettel teli nap.",
+        "ro": "Cu mașina, explorați Peseux în clustere. Începeți cu o plimbare prin centrul satului. Apoi, conduceți la castel și la parcul adiacent, unde luați prânzul. După-amiaza este dedicată unei excursii în apropiata Pădure Neuchâtel, un contrast perfect cu satul. O zi plină de cultură și natură.",
+        "en": "By car, you'll explore Peseux in clusters. You start with a walk through the village center. Then, you drive to the castle and the adjacent park, where you have lunch. The afternoon is for a trip to the nearby Neuchâtel Forest, a perfect contrast to the village. A day full of culture and nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Landgasthof",
+            "tip": "Suchen Sie nach einem Gasthof außerhalb des Dorfes für authentische Küche."
+          },
+          {
+            "name": "Picknick im Wald",
+            "tip": "Kaufen Sie lokale Produkte und genießen Sie sie in der Natur."
+          },
+          {
+            "name": "Confiserie am See",
+            "tip": "Fahren Sie für einen süßen Abschluss des Tages an den Neuenburgersee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vidéki fogadó",
+            "tip": "Keressen egy fogadót a falun kívül az autentikus konyháért."
+          },
+          {
+            "name": "Piknik az erdőben",
+            "tip": "Vásároljon helyi termékeket és fogyassza el a természetben."
+          },
+          {
+            "name": "Cukrászda a tónál",
+            "tip": "Autózzon le a Neuchâteli-tóhoz a nap édes lezárásaként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Han rustic",
+            "tip": "Căutați un han în afara satului pentru bucătărie autentică."
+          },
+          {
+            "name": "Picnic în pădure",
+            "tip": "Cumpărați produse locale și savurați-le în natură."
+          },
+          {
+            "name": "Cofetărie pe malul lacului",
+            "tip": "Conduceți până la Lacul Neuchâtel pentru un final dulce al zilei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Country Inn",
+            "tip": "Look for an inn outside the village for authentic cuisine."
+          },
+          {
+            "name": "Picnic in the Forest",
+            "tip": "Buy local products and enjoy them in nature."
+          },
+          {
+            "name": "Confectionery by the lake",
+            "tip": "Drive to Lake Neuchâtel for a sweet end to the day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parkplatz mit Aussicht",
+            "tip": "Halten Sie an einem Aussichtspunkt auf dem Weg zum Wald.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ancienne Cure",
+            "tip": "Ein ruhiger historischer Ort, abseits der Hauptrouten.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Fahrt entlang der Weinberge",
+            "tip": "Nehmen Sie eine Nebenstraße durch die Weinberge für eine entspannte Fahrt.",
+            "emoji": "🍇"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parkoló kilátással",
+            "tip": "Álljon meg egy kilátópontnál az erdő felé vezető úton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ancienne Cure",
+            "tip": "Csendes, történelmi hely, távol a fő útvonalaktól.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Autózás a szőlőültetvények mentén",
+            "tip": "Válasszon egy mellékutat a szőlőültetvényeken keresztül egy pihentető autózáshoz.",
+            "emoji": "🍇"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcare cu vedere",
+            "tip": "Opriți-vă la un punct de belvedere în drum spre pădure.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ancienne Cure",
+            "tip": "Un loc istoric liniștit, departe de rutele principale.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare cu mașina pe lângă podgorii",
+            "tip": "Luați un drum secundar prin podgorii pentru o plimbare relaxantă.",
+            "emoji": "🍇"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parking with a view",
+            "tip": "Stop at a viewpoint on the way to the forest.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ancienne Cure",
+            "tip": "A quiet historical spot, away from the main routes.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Drive along the vineyards",
+            "tip": "Take a side road through the vineyards for a relaxing drive.",
+            "emoji": "🍇"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofladen",
+            "tip": "Kaufen Sie frische Produkte direkt vom Bauern."
+          },
+          {
+            "name": "Brocante / Flohmarkt",
+            "tip": "Halten Sie Ausschau nach Schildern, besonders am Wochenende."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői bolt",
+            "tip": "Vásároljon friss termékeket közvetlenül a gazdától."
+          },
+          {
+            "name": "Brocante / Bolhapiac",
+            "tip": "Figyelje a táblákat, különösen hétvégén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de fermă",
+            "tip": "Cumpărați produse proaspete direct de la fermier."
+          },
+          {
+            "name": "Brocante / Piață de vechituri",
+            "tip": "Fiți atenți la indicatoare, mai ales în weekend."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm Shop",
+            "tip": "Buy fresh produce directly from the farmer."
+          },
+          {
+            "name": "Brocante / Flea Market",
+            "tip": "Keep an eye out for signs, especially on weekends."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkgebühren können anfallen, halten Sie Kleingeld bereit.",
+          "Verwenden Sie eine Navigations-App, um die besten Routen zu finden.",
+          "Achten Sie auf Geschwindigkeitsbegrenzungen, besonders in Wohngebieten.",
+          "Planen Sie zusätzliche Zeit für unvorhergesehene Stopps an schönen Orten ein."
+        ],
+        "hu": [
+          "Parkolási díjak merülhetnek fel, tartson magánál aprópénzt.",
+          "Használjon navigációs alkalmazást a legjobb útvonalak megtalálásához.",
+          "Ügyeljen a sebességkorlátozásokra, különösen lakóövezetekben.",
+          "Tervezzen plusz időt a váratlan megállókra szép helyeken."
+        ],
+        "ro": [
+          "Se pot aplica taxe de parcare, aveți la îndemână monede.",
+          "Utilizați o aplicație de navigație pentru a găsi cele mai bune rute.",
+          "Fiți atenți la limitele de viteză, în special în zonele rezidențiale.",
+          "Planificați timp suplimentar pentru opriri neprevăzute în locuri frumoase."
+        ],
+        "en": [
+          "Parking fees may apply, have coins ready.",
+          "Use a navigation app to find the best routes.",
+          "Pay attention to speed limits, especially in residential areas.",
+          "Plan extra time for unplanned stops at beautiful places."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Ankunft im Dorfzentrum",
+            "hu": "1. klaszter: Érkezés a faluközpontba",
+            "ro": "Cluster 1: Sosire în centrul satului",
+            "en": "Cluster 1: Arrive in the Village Center"
+          },
+          "coords": [
+            6.891,
+            46.991
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Steigen Sie an einer zentralen Haltestelle aus.",
+            "hu": "Szálljon le egy központi megállónál.",
+            "ro": "Coborâți la o stație centrală.",
+            "en": "Get off at a central stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Rue du Château & Fontaine",
+            "hu": "Rue du Château és a szökőkút",
+            "ro": "Rue du Château și Fântâna",
+            "en": "Rue du Château & Fountain"
+          },
+          "coords": [
+            6.8905,
+            46.9912
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie den Kern des Dorfes zu Fuß.",
+            "hu": "Fedezze fel gyalog a falu magját.",
+            "ro": "Explorați centrul satului pe jos.",
+            "en": "Explore the core of the village on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Temple de Peseux",
+            "hu": "Peseux-i templom",
+            "ro": "Templul din Peseux",
+            "en": "Temple of Peseux"
+          },
+          "coords": [
+            6.8918,
+            46.992
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 35,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein Ort der Stille, nur wenige Schritte von der Hauptstraße entfernt.",
+            "hu": "A csend helye, csak pár lépésre a főúttól.",
+            "ro": "Un loc de liniște la doar câțiva pași de strada principală.",
+            "en": "A place of silence just a few steps from the main street."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Busfahrt zum Schlossbereich",
+            "hu": "2. klaszter: Buszozás a kastély környékére",
+            "ro": "Cluster 2: Călătorie cu autobuzul spre zona castelului",
+            "en": "Cluster 2: Bus ride to the Castle area"
+          },
+          "coords": [
+            6.887,
+            46.993
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:50",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus, der Sie näher zum Schloss bringt.",
+            "hu": "Vegye igénybe a buszt, amely közelebb visz a kastélyhoz.",
+            "ro": "Luați autobuzul care vă duce mai aproape de castel.",
+            "en": "Take the bus that brings you closer to the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Peseux",
+            "hu": "Peseux-i kastély",
+            "ro": "Castelul Peseux",
+            "en": "Peseux Castle"
+          },
+          "coords": [
+            6.8875,
+            46.9935
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:50",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Von der Haltestelle aus ist es ein kurzer Spaziergang bergauf.",
+            "hu": "A megállótól rövid séta vezet felfelé.",
+            "ro": "De la stație este o scurtă plimbare la deal.",
+            "en": "It's a short uphill walk from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de la Fondation Panayotidis",
+            "hu": "Panayotidis Alapítvány Parkja",
+            "ro": "Parcul Fundației Panayotidis",
+            "en": "Panayotidis Foundation Park"
+          },
+          "coords": [
+            6.886,
+            46.9945
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:35",
+          "stay_min": 150,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich und essen Sie zu Mittag, bevor Sie den Bus zurück nehmen.",
+            "hu": "Pihenjen és ebédeljen, mielőtt visszamenne a buszhoz.",
+            "ro": "Relaxați-vă și luați prânzul înainte de a lua autobuzul înapoi.",
+            "en": "Relax and have lunch before taking the bus back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln entdecken Sie Peseux bequem. Starten Sie im Dorfzentrum, das Sie zu Fuß erkunden. Ein Bus bringt Sie dann in die Nähe des Schlosses, wo Sie den Mittag mit Aussicht und einer langen Pause im Park verbringen. Am Nachmittag kehren Sie entspannt mit dem Bus ins Zentrum zurück, bereit für einen Kaffee.",
+        "hu": "Tömegközlekedéssel kényelmesen felfedezheti Peseux-t. Kezdje a gyalogosan bejárható faluközpontban. Egy busz elviszi a kastély közelébe, ahol a déli órákat kilátással és egy hosszú parkbéli pihenővel tölti. Délután kipihenten tér vissza busszal a központba, készen egy kávéra.",
+        "ro": "Descoperiți Peseux confortabil cu transportul public. Începeți în centrul satului, pe care îl explorați pe jos. Un autobuz vă va duce apoi lângă castel, unde petreceți amiaza cu o priveliște și o pauză lungă în parc. După-amiaza, vă întoarceți relaxat cu autobuzul în centru, gata pentru o cafea.",
+        "en": "Discover Peseux comfortably by public transport. Start in the village center, which you explore on foot. A bus will then take you near the castle, where you'll spend noon with a view and a long break in the park. In the afternoon, you return relaxed by bus to the center, ready for a coffee."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei-Café",
+            "tip": "Ideal für ein schnelles Frühstück nach der Ankunft."
+          },
+          {
+            "name": "Restaurant nahe der Haltestelle",
+            "tip": "Suchen Sie ein Lokal in der Nähe einer Haltestelle für einfache Logistik."
+          },
+          {
+            "name": "Mitgebrachtes Sandwich",
+            "tip": "Sparen Sie Zeit und Geld mit einem Picknick im Park."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség-kávézó",
+            "tip": "Ideális egy gyors reggelihez érkezés után."
+          },
+          {
+            "name": "Étterem a megálló közelében",
+            "tip": "Keressen egy helyet a megálló közelében az egyszerű logisztika érdekében."
+          },
+          {
+            "name": "Hozott szendvics",
+            "tip": "Takarítson meg időt és pénzt egy parkbéli piknikkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie-cafenea",
+            "tip": "Ideal pentru un mic dejun rapid la sosire."
+          },
+          {
+            "name": "Restaurant lângă stație",
+            "tip": "Căutați un local lângă o stație pentru o logistică simplă."
+          },
+          {
+            "name": "Sandviș la pachet",
+            "tip": "Economisiți timp și bani cu un picnic în parc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery-Café",
+            "tip": "Ideal for a quick breakfast after arriving."
+          },
+          {
+            "name": "Restaurant near the bus stop",
+            "tip": "Look for a place near a stop for easy logistics."
+          },
+          {
+            "name": "Packed Sandwich",
+            "tip": "Save time and money with a picnic in the park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obere Sitzreihe im Bus",
+            "tip": "Genießen Sie die Aussicht während der Fahrt.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Leseecke im Park",
+            "tip": "Finden Sie eine ruhige Ecke zum Lesen.",
+            "emoji": "📖"
+          },
+          {
+            "name": "Friedhof am Tempel",
+            "tip": "Ein unerwartet friedlicher Ort.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Felső üléssor a buszon",
+            "tip": "Élvezze a kilátást utazás közben.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Olvasósarok a parkban",
+            "tip": "Keressen egy csendes sarkot az olvasáshoz.",
+            "emoji": "📖"
+          },
+          {
+            "name": "Temető a templomnál",
+            "tip": "Váratlanul békés hely.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rândul de sus în autobuz",
+            "tip": "Bucurați-vă de priveliște în timpul călătoriei.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Colț de lectură în parc",
+            "tip": "Găsiți un colț liniștit pentru a citi.",
+            "emoji": "📖"
+          },
+          {
+            "name": "Cimitirul de lângă templu",
+            "tip": "Un loc neașteptat de pașnic.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Upstairs seat on the bus",
+            "tip": "Enjoy the view during the ride.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Reading corner in the park",
+            "tip": "Find a quiet corner to read.",
+            "emoji": "📖"
+          },
+          {
+            "name": "Cemetery at the temple",
+            "tip": "An unexpectedly peaceful place.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk an der Haltestelle",
+            "tip": "Kaufen Sie eine Zeitung oder ein Getränk."
+          },
+          {
+            "name": "Lokaler Supermarkt",
+            "tip": "Decken Sie sich mit Snacks für den Tag ein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a megállóban",
+            "tip": "Vásároljon újságot vagy italt."
+          },
+          {
+            "name": "Helyi szupermarket",
+            "tip": "Töltse fel magát harapnivalókkal a napra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc în stație",
+            "tip": "Cumpărați un ziar sau o băutură."
+          },
+          {
+            "name": "Supermarket local",
+            "tip": "Aprovizionați-vă cu gustări pentru zi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus stop",
+            "tip": "Buy a newspaper or a drink."
+          },
+          {
+            "name": "Local Supermarket",
+            "tip": "Stock up on snacks for the day."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel.",
+          "Informieren Sie sich im Voraus über den Fahrplan.",
+          "Achten Sie auf die letzte Busverbindung zurück.",
+          "Fragen Sie den Busfahrer, wenn Sie unsicher sind, wo Sie aussteigen müssen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez.",
+          "Előre tájékozódjon a menetrendről.",
+          "Figyeljen az utolsó buszjáratra visszafelé.",
+          "Kérdezze meg a buszsofőrt, ha nem biztos benne, hol kell leszállnia."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public.",
+          "Informați-vă în prealabil despre orar.",
+          "Fiți atenți la ultima cursă de autobuz înapoi.",
+          "Întrebați șoferul autobuzului dacă nu sunteți sigur unde să coborâți."
+        ],
+        "en": [
+          "Buy a day pass for public transport.",
+          "Check the timetable in advance.",
+          "Be aware of the last bus connection back.",
+          "Ask the bus driver if you are unsure where to get off."
+        ]
+      }
+    }
+  }
+}

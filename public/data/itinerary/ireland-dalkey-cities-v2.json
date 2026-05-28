@@ -1,0 +1,1436 @@
+{
+  "city_id": "ireland-dalkey-cities-v2",
+  "anchor": {
+    "name": "Dalkey",
+    "coords": [
+      -6.113,
+      53.275
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bullock Harbour",
+            "hu": "Bullock kikötő",
+            "ro": "Portul Bullock",
+            "en": "Bullock Harbour"
+          },
+          "coords": [
+            -6.118,
+            53.285
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beobachten Sie die Robben, die oft im Hafen spielen.",
+            "hu": "Figyeld a fókákat, gyakran játszanak a kikötőben.",
+            "ro": "Urmăriți focile care se joacă adesea în port.",
+            "en": "Watch for the seals that often play in the harbour."
+          }
+        },
+        {
+          "name": {
+            "de": "Dalkey Schloss & Kulturerbezentrum",
+            "hu": "Dalkey vár és Örökségi Központ",
+            "ro": "Castelul Dalkey și Centrul de Patrimoniu",
+            "en": "Dalkey Castle & Heritage Centre"
+          },
+          "coords": [
+            -6.108,
+            53.279
+          ],
+          "category": "castles",
+          "arrive_at": "10:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie an der Führung mit kostümierten Schauspielern teil.",
+            "hu": "Vegyen részt a jelmezes színészekkel vezetett túrán.",
+            "ro": "Participați la turul ghidat cu actori costumați.",
+            "en": "Join the guided tour with costumed actors."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Begnet's Kirche",
+            "hu": "Szent Begnet-templom",
+            "ro": "Biserica Sf. Begnet",
+            "en": "St. Begnet's Church"
+          },
+          "coords": [
+            -6.107,
+            53.279
+          ],
+          "category": "churches",
+          "arrive_at": "11:32",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort, um die alte Steinarbeit zu bewundern.",
+            "hu": "Csendes hely, ahol megcsodálhatja az ősi kőfaragást.",
+            "ro": "Un loc liniștit pentru a admira lucrătura veche în piatră.",
+            "en": "A peaceful spot to admire the ancient stonework."
+          }
+        },
+        {
+          "name": {
+            "de": "Coliemore Harbour",
+            "hu": "Coliemore kikötő",
+            "ro": "Portul Coliemore",
+            "en": "Coliemore Harbour"
+          },
+          "coords": [
+            -6.104,
+            53.277
+          ],
+          "category": "port",
+          "arrive_at": "12:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Mittagessen und Bootsfahrt zur Dalkey Island von hier aus.",
+            "hu": "Ebédeljen és innen induljon hajóval a Dalkey-szigetre.",
+            "ro": "Luați prânzul și apoi o barcă spre Insula Dalkey de aici.",
+            "en": "Have lunch and take a boat to Dalkey Island from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Sorrento Park",
+            "hu": "Sorrento Park",
+            "ro": "Parcul Sorrento",
+            "en": "Sorrento Park"
+          },
+          "coords": [
+            -6.103,
+            53.273
+          ],
+          "category": "parks",
+          "arrive_at": "13:51",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bester Panoramablick auf die Bucht von Dublin.",
+            "hu": "A legjobb panoráma a Dublini-öbölre innen nyílik.",
+            "ro": "Cea mai bună vedere panoramică a golfului Dublin.",
+            "en": "Best panoramic view of Dublin Bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Vico Bäder",
+            "hu": "Vico fürdők",
+            "ro": "Băile Vico",
+            "en": "Vico Baths"
+          },
+          "coords": [
+            -6.107,
+            53.266
+          ],
+          "category": "natural features",
+          "arrive_at": "15:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein erfrischendes Bad im Meer, nur für die Mutigen!",
+            "hu": "Frissítő úszás a tengerben, csak a bátraknak!",
+            "ro": "O baie revigorantă în mare, doar pentru cei curajoși!",
+            "en": "A refreshing sea swim, only for the brave!"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im malerischen Bullock Harbour, bevor Sie ins Mittelalter im Dalkey Castle eintauchen. Nach einem Moment der Besinnung in der St. Begnet's Kirche, genießen Sie ein Mittagessen am Coliemore Harbour. Am Nachmittag bietet der Sorrento Park atemberaubende Ausblicke, bevor Sie den Tag mit einem mutigen Sprung in die Vico Baths ausklingen lassen. Ein perfekter Spaziergang durch Dalkeys Geschichte und Küstenschönheit.",
+        "hu": "Kezdje a napot a festői Bullock kikötőben, majd merüljön el a középkorban a Dalkey várban. A Szent Begnet-templomban töltött csendes pillanatok után ebédeljen a Coliemore kikötőben. Délután a Sorrento Parkból lélegzetelállító a kilátás, végül pedig egy bátor ugrással zárhatja a napot a Vico fürdőnél. Tökéletes séta Dalkey történelmén és tengerparti szépségén keresztül.",
+        "ro": "Începeți ziua în pitorescul port Bullock înainte de a vă scufunda în Evul Mediu la Castelul Dalkey. După un moment de reflecție la Biserica Sf. Begnet, bucurați-vă de prânz în portul Coliemore. După-amiaza, Parcul Sorrento oferă vederi uluitoare, înainte de a încheia ziua cu o baie curajoasă la Băile Vico. O plimbare perfectă prin istoria și frumusețea de coastă a lui Dalkey.",
+        "en": "Start your day at the scenic Bullock Harbour before diving into medieval times at Dalkey Castle. After a moment of reflection at St. Begnet's Church, enjoy lunch at Coliemore Harbour. In the afternoon, Sorrento Park provides breathtaking views, before you cap off the day with a brave plunge at the Vico Baths. A perfect walk through Dalkey's history and coastal beauty."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "DeVille's",
+            "tip": "Klassisches Bistro für ein herzhaftes Mittagessen."
+          },
+          {
+            "name": "The Corner Note Café",
+            "tip": "Perfekt für einen schnellen Kaffee und Gebäck."
+          },
+          {
+            "name": "Finnegan's of Dalkey",
+            "tip": "Ein traditioneller Pub für ein Pint und Fish and Chips."
+          }
+        ],
+        "hu": [
+          {
+            "name": "DeVille's",
+            "tip": "Klasszikus bisztró egy kiadós ebédhez."
+          },
+          {
+            "name": "The Corner Note Café",
+            "tip": "Tökéletes egy gyors kávéra és süteményre."
+          },
+          {
+            "name": "Finnegan's of Dalkey",
+            "tip": "Hagyományos pub egy korsó sörért és fish and chips-ért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "DeVille's",
+            "tip": "Bistro clasic pentru un prânz consistent."
+          },
+          {
+            "name": "The Corner Note Café",
+            "tip": "Perfect pentru o cafea rapidă și o prăjitură."
+          },
+          {
+            "name": "Finnegan's of Dalkey",
+            "tip": "Un pub tradițional pentru o halbă de bere și fish and chips."
+          }
+        ],
+        "en": [
+          {
+            "name": "DeVille's",
+            "tip": "Classic bistro for a hearty lunch."
+          },
+          {
+            "name": "The Corner Note Café",
+            "tip": "Perfect for a quick coffee and pastry."
+          },
+          {
+            "name": "Finnegan's of Dalkey",
+            "tip": "A traditional pub for a pint and fish and chips."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Dalkey Island",
+            "tip": "Eine kurze Bootsfahrt zu Stille und historischen Ruinen.",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Spaziergang entlang der Vico Road",
+            "tip": "Wunderschöne Ausblicke und ruhige Momente.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Killiney Hill Park Gipfel",
+            "tip": "Weitläufige Aussichten in friedlicher Umgebung.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dalkey-sziget",
+            "tip": "Rövid hajóút a csendhez és a történelmi romokhoz.",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Séta a Vico úton",
+            "tip": "Gyönyörű kilátás és békés pillanatok.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Killiney Hill Park csúcsa",
+            "tip": "Messzire nyúló kilátás békés környezetben.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Insula Dalkey",
+            "tip": "O scurtă plimbare cu barca spre liniște și ruine istorice.",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Plimbare pe Vico Road",
+            "tip": "Priveliști frumoase și momente de liniște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Vârful Parcului Killiney Hill",
+            "tip": "Vederi extinse într-un cadru pașnic.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dalkey Island",
+            "tip": "A short boat trip to tranquility and historic ruins.",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Vico Road walk",
+            "tip": "Beautiful vistas and quiet moments.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Killiney Hill Park summit",
+            "tip": "Expansive views in a peaceful setting.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Dalkey's Main Street",
+            "tip": "Entdecken Sie die Boutiquen und Kunsthandwerksläden."
+          },
+          {
+            "name": "The Gutter Bookshop",
+            "tip": "Ein wunderbarer unabhängiger Buchladen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dalkey főutcája",
+            "tip": "Fedezze fel a butikokat és a kézműves boltokat."
+          },
+          {
+            "name": "The Gutter Bookshop",
+            "tip": "Egy csodálatos független könyvesbolt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada principală din Dalkey",
+            "tip": "Explorați buticurile și magazinele de artizanat."
+          },
+          {
+            "name": "The Gutter Bookshop",
+            "tip": "O minunată librărie independentă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dalkey's Main Street",
+            "tip": "Explore the boutique shops and artisan stores."
+          },
+          {
+            "name": "The Gutter Bookshop",
+            "tip": "A wonderful independent bookshop."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Hügel steil sein können.",
+          "Überprüfen Sie den Gezeitenplan, bevor Sie zu den Vico Baths gehen.",
+          "Nehmen Sie Bargeld für die Bootsfahrt zur Dalkey Island mit.",
+          "Reservieren Sie im Voraus, wenn Sie in einem beliebten Restaurant zu Mittag essen möchten."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert a dombok meredekek lehetnek.",
+          "Ellenőrizze az árapály menetrendet, mielőtt a Vico fürdőhöz megy.",
+          "Vigyen magával készpénzt a Dalkey-szigetre tartó hajóútra.",
+          "Foglaljon előre, ha egy népszerű étteremben szeretne ebédelni."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece dealurile pot fi abrupte.",
+          "Verificați programul mareelor înainte de a merge la Băile Vico.",
+          "Luați numerar pentru călătoria cu barca pe Insula Dalkey.",
+          "Rezervați în avans dacă doriți să luați prânzul la un restaurant popular."
+        ],
+        "en": [
+          "Wear comfortable shoes as the hills can be steep.",
+          "Check the tide times before heading to the Vico Baths.",
+          "Bring cash for the boat trip to Dalkey Island.",
+          "Book in advance if you plan to have lunch at a popular restaurant."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:41",
+      "total_km": 10.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bullock Harbour",
+            "hu": "Bullock kikötő",
+            "ro": "Portul Bullock",
+            "en": "Bullock Harbour"
+          },
+          "coords": [
+            -6.118,
+            53.285
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein guter Startpunkt, um sich aufzuwärmen.",
+            "hu": "Jó kiindulópont a bemelegítéshez.",
+            "ro": "Un bun punct de plecare pentru a vă încălzi.",
+            "en": "A good starting point to warm up."
+          }
+        },
+        {
+          "name": {
+            "de": "Dalkey Schloss",
+            "hu": "Dalkey vár",
+            "ro": "Castelul Dalkey",
+            "en": "Dalkey Castle"
+          },
+          "coords": [
+            -6.108,
+            53.279
+          ],
+          "category": "castles",
+          "arrive_at": "09:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie die Tour beginnen.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt elkezdi a túrát.",
+            "ro": "Încuiați-vă bicicleta în siguranță înainte de a intra în tur.",
+            "en": "Lock your bike securely before entering for the tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Coliemore Harbour",
+            "hu": "Coliemore kikötő",
+            "ro": "Portul Coliemore",
+            "en": "Coliemore Harbour"
+          },
+          "coords": [
+            -6.104,
+            53.277
+          ],
+          "category": "port",
+          "arrive_at": "11:04",
+          "stay_min": 20,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fotostopp mit Blick auf Dalkey Island.",
+            "hu": "Fotómegálló a Dalkey-szigetre néző kilátással.",
+            "ro": "Oprire foto cu vedere la Insula Dalkey.",
+            "en": "Photo stop with views of Dalkey Island."
+          }
+        },
+        {
+          "name": {
+            "de": "Sorrento Park",
+            "hu": "Sorrento Park",
+            "ro": "Parcul Sorrento",
+            "en": "Sorrento Park"
+          },
+          "coords": [
+            -6.103,
+            53.273
+          ],
+          "category": "parks",
+          "arrive_at": "11:28",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Lassen Sie das Rad stehen und gehen Sie für die beste Aussicht nach oben.",
+            "hu": "Hagyja a biciklit és sétáljon fel a legjobb kilátásért.",
+            "ro": "Lăsați bicicleta și urcați pentru cea mai bună priveliște.",
+            "en": "Leave the bike and walk to the top for the best view."
+          }
+        },
+        {
+          "name": {
+            "de": "Vico Bäder",
+            "hu": "Vico fürdők",
+            "ro": "Băile Vico",
+            "en": "Vico Baths"
+          },
+          "coords": [
+            -6.107,
+            53.266
+          ],
+          "category": "natural features",
+          "arrive_at": "12:19",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause und ein Bad im Meer.",
+            "hu": "Tökéletes egy ebédszünetre és egy tengeri fürdőzésre.",
+            "ro": "Perfect pentru o pauză de prânz și o baie în mare.",
+            "en": "Perfect for a lunch break and a swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Killiney Hill Park",
+            "hu": "Killiney Hill Park",
+            "ro": "Parcul Killiney Hill",
+            "en": "Killiney Hill Park"
+          },
+          "coords": [
+            -6.115,
+            53.268
+          ],
+          "category": "parks",
+          "arrive_at": "14:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Anstieg ist die Aussicht vom Obelisken wert.",
+            "hu": "A kaptató megéri a kilátásért az obeliszktől.",
+            "ro": "Urcușul merită priveliștea de la obelisc.",
+            "en": "The climb is worth the view from the Obelisk."
+          }
+        },
+        {
+          "name": {
+            "de": "Dalkey Island Aussichtspunkt",
+            "hu": "Kilátó a Dalkey-szigetre",
+            "ro": "Punct de belvedere spre Insula Dalkey",
+            "en": "Dalkey Island Viewpoint"
+          },
+          "coords": [
+            -6.095,
+            53.275
+          ],
+          "category": "viewpoint",
+          "arrive_at": "15:47",
+          "stay_min": 45,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Tag ausklingen zu lassen.",
+            "hu": "Tökéletes hely a nap befejezéséhez.",
+            "ro": "Locul perfect pentru a încheia ziua.",
+            "en": "The perfect spot to end the day's ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine Radtour, die an der Küste beginnt und im Herzen der Geschichte endet. Vom Bullock Harbour radeln Sie zum Dalkey Castle. Nach einer Dosis Kultur geht es weiter entlang der Küste zum Coliemore Harbour und Sorrento Park. Am Nachmittag erobern Sie den Killiney Hill für eine unvergessliche Aussicht, bevor Sie am Aussichtspunkt Dalkey Island entspannen. Eine aktive Art, die Schönheit der irischen Küste zu erleben.",
+        "hu": "Kerékpártúra, amely a partról indul és a történelem szívében ér véget. A Bullock kikötőből tekerjen a Dalkey várhoz. Egy adag kultúra után haladjon tovább a part mentén a Coliemore kikötőhöz és a Sorrento Parkhoz. Délután hódítsa meg a Killiney Hillt egy felejthetetlen kilátásért, mielőtt pihenne a Dalkey-szigeti kilátónál. Aktív módja az ír part szépségének megtapasztalásának.",
+        "ro": "Un tur cu bicicleta care începe pe coastă și se termină în inima istoriei. De la Portul Bullock, pedalați spre Castelul Dalkey. După o doză de cultură, continuați de-a lungul coastei spre Portul Coliemore și Parcul Sorrento. După-amiaza, cuceriți Dealul Killiney pentru o priveliște de neuitat, înainte de a vă relaxa la Punctul de belvedere al Insulei Dalkey. Un mod activ de a experimenta frumusețea coastei irlandeze.",
+        "en": "A bike tour that starts on the coast and ends in the heart of history. From Bullock Harbour, cycle to Dalkey Castle. After a dose of culture, continue along the coast to Coliemore Harbour and Sorrento Park. In the afternoon, conquer Killiney Hill for an unforgettable view before relaxing at the Dalkey Island viewpoint. An active way to experience the beauty of the Irish coast."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "DeVille's",
+            "tip": "Klassisches Bistro für ein herzhaftes Mittagessen."
+          },
+          {
+            "name": "The Corner Note Café",
+            "tip": "Perfekt für einen schnellen Kaffee und Gebäck."
+          },
+          {
+            "name": "Finnegan's of Dalkey",
+            "tip": "Ein traditioneller Pub für ein Pint und Fish and Chips."
+          }
+        ],
+        "hu": [
+          {
+            "name": "DeVille's",
+            "tip": "Klasszikus bisztró egy kiadós ebédhez."
+          },
+          {
+            "name": "The Corner Note Café",
+            "tip": "Tökéletes egy gyors kávéra és süteményre."
+          },
+          {
+            "name": "Finnegan's of Dalkey",
+            "tip": "Hagyományos pub egy korsó sörért és fish and chips-ért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "DeVille's",
+            "tip": "Bistro clasic pentru un prânz consistent."
+          },
+          {
+            "name": "The Corner Note Café",
+            "tip": "Perfect pentru o cafea rapidă și o prăjitură."
+          },
+          {
+            "name": "Finnegan's of Dalkey",
+            "tip": "Un pub tradițional pentru o halbă de bere și fish and chips."
+          }
+        ],
+        "en": [
+          {
+            "name": "DeVille's",
+            "tip": "Classic bistro for a hearty lunch."
+          },
+          {
+            "name": "The Corner Note Café",
+            "tip": "Perfect for a quick coffee and pastry."
+          },
+          {
+            "name": "Finnegan's of Dalkey",
+            "tip": "A traditional pub for a pint and fish and chips."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Dalkey Island",
+            "tip": "Eine kurze Bootsfahrt zu Stille und historischen Ruinen.",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Spaziergang entlang der Vico Road",
+            "tip": "Wunderschöne Ausblicke und ruhige Momente.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Killiney Hill Park Gipfel",
+            "tip": "Weitläufige Aussichten in friedlicher Umgebung.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dalkey-sziget",
+            "tip": "Rövid hajóút a csendhez és a történelmi romokhoz.",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Séta a Vico úton",
+            "tip": "Gyönyörű kilátás és békés pillanatok.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Killiney Hill Park csúcsa",
+            "tip": "Messzire nyúló kilátás békés környezetben.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Insula Dalkey",
+            "tip": "O scurtă plimbare cu barca spre liniște și ruine istorice.",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Plimbare pe Vico Road",
+            "tip": "Priveliști frumoase și momente de liniște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Vârful Parcului Killiney Hill",
+            "tip": "Vederi extinse într-un cadru pașnic.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dalkey Island",
+            "tip": "A short boat trip to tranquility and historic ruins.",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Vico Road walk",
+            "tip": "Beautiful vistas and quiet moments.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Killiney Hill Park summit",
+            "tip": "Expansive views in a peaceful setting.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Dalkey's Main Street",
+            "tip": "Entdecken Sie die Boutiquen und Kunsthandwerksläden."
+          },
+          {
+            "name": "The Gutter Bookshop",
+            "tip": "Ein wunderbarer unabhängiger Buchladen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dalkey főutcája",
+            "tip": "Fedezze fel a butikokat és a kézműves boltokat."
+          },
+          {
+            "name": "The Gutter Bookshop",
+            "tip": "Egy csodálatos független könyvesbolt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada principală din Dalkey",
+            "tip": "Explorați buticurile și magazinele de artizanat."
+          },
+          {
+            "name": "The Gutter Bookshop",
+            "tip": "O minunată librărie independentă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dalkey's Main Street",
+            "tip": "Explore the boutique shops and artisan stores."
+          },
+          {
+            "name": "The Gutter Bookshop",
+            "tip": "A wonderful independent bookshop."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Bremsen und Reifen, bevor Sie losfahren.",
+          "Die Vico Road ist schmal, seien Sie vorsichtig mit dem Verkehr.",
+          "Ein Helm wird dringend empfohlen.",
+          "Nehmen Sie Wasser und Snacks für den Anstieg zum Killiney Hill mit."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a fékeket és a gumikat.",
+          "A Vico út keskeny, legyen óvatos a forgalommal.",
+          "Sisak viselése erősen ajánlott.",
+          "Vigyen magával vizet és harapnivalót a Killiney Hillre való feljutáshoz."
+        ],
+        "ro": [
+          "Verificați frânele și anvelopele înainte de a porni.",
+          "Vico Road este îngustă, fiți atenți la trafic.",
+          "O cască este puternic recomandată.",
+          "Luați apă și gustări pentru urcarea pe Dealul Killiney."
+        ],
+        "en": [
+          "Check your brakes and tires before setting off.",
+          "Vico Road is narrow, be mindful of traffic.",
+          "A helmet is strongly recommended.",
+          "Bring water and snacks for the climb up Killiney Hill."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:54",
+      "total_km": 10.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Killiney Hill",
+            "hu": "Killiney Hill parkoló",
+            "ro": "Parcarea Killiney Hill",
+            "en": "Killiney Hill Car Park"
+          },
+          "coords": [
+            -6.116,
+            53.27
+          ],
+          "category": "parks",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und beginnen Sie den Aufstieg.",
+            "hu": "Parkoljon itt, és kezdje meg a hegymászást.",
+            "ro": "Parcați aici și începeți urcarea.",
+            "en": "Park here and start your ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Killiney Hill Park Gipfel",
+            "hu": "Killiney Hill Park csúcsa",
+            "ro": "Vârful Parcului Killiney Hill",
+            "en": "Killiney Hill Park Summit"
+          },
+          "coords": [
+            -6.115,
+            53.268
+          ],
+          "category": "parks",
+          "arrive_at": "09:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die 360-Grad-Aussicht ist den Spaziergang wert.",
+            "hu": "A 360 fokos panoráma megéri a sétát.",
+            "ro": "Vederea de 360 de grade merită plimbarea.",
+            "en": "The 360-degree view is worth the walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Vico Bäder",
+            "hu": "Vico fürdők",
+            "ro": "Băile Vico",
+            "en": "Vico Baths"
+          },
+          "coords": [
+            -6.107,
+            53.266
+          ],
+          "category": "natural features",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein steiler Abstieg, aber ein ikonischer Ort.",
+            "hu": "Meredek ereszkedés, de ikonikus helyszín.",
+            "ro": "O coborâre abruptă, dar un loc iconic.",
+            "en": "A steep walk down, but an iconic spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Dalkey Zentrum (Parkplatz)",
+            "hu": "Dalkey központ (parkoló)",
+            "ro": "Centrul Dalkey (parcare)",
+            "en": "Dalkey Centre (Car Park)"
+          },
+          "coords": [
+            -6.11,
+            53.28
+          ],
+          "category": "historical",
+          "arrive_at": "12:00",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken und das Dorf zu Fuß erkunden: Schloss, Kirchen, Mittagessen.",
+            "hu": "Parkoljon le, és fedezze fel a falut gyalog: vár, templomok, ebéd.",
+            "ro": "Parcați și explorați satul pe jos: castel, biserici, prânz.",
+            "en": "Park and explore the village on foot: castle, churches, lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Dalkey Insel Bootsfahrt",
+            "hu": "Hajókirándulás a Dalkey-szigetre",
+            "ro": "Excursie cu barca pe Insula Dalkey",
+            "en": "Dalkey Island Boat Trip"
+          },
+          "coords": [
+            -6.104,
+            53.277
+          ],
+          "category": "island",
+          "arrive_at": "15:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Abenteuer mit Wildtieren und Ruinen.",
+            "hu": "Kaland a vadvilággal és romokkal.",
+            "ro": "O aventură cu faună sălbatică și ruine.",
+            "en": "An adventure with wildlife and ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Bullock Harbour",
+            "hu": "Bullock kikötő",
+            "ro": "Portul Bullock",
+            "en": "Bullock Harbour"
+          },
+          "coords": [
+            -6.118,
+            53.285
+          ],
+          "category": "port",
+          "arrive_at": "17:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein letzter Blick auf das Meer zum Abschluss des Tages.",
+            "hu": "Egy utolsó pillantás a tengerre a nap végén.",
+            "ro": "O ultimă privire la mare pentru a încheia ziua.",
+            "en": "A final seaside view to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einem Panoramablick vom Killiney Hill. Nach einem Spaziergang zu den Vico Baths fahren Sie ins Herz von Dalkey. Parken Sie Ihr Auto und erkunden Sie das Schloss und die charmanten Straßen. Am Nachmittag bringt Sie eine Bootsfahrt zur ruhigen Dalkey Island. Schließen Sie den Tag im historischen Bullock Harbour ab. Eine Reise, die atemberaubende Natur mit reicher Geschichte verbindet.",
+        "hu": "Kezdje a napot egy panorámás kilátással a Killiney Hillről. A Vico fürdőhöz tett séta után vezessen Dalkey szívébe. Parkolja le az autót, és fedezze fel a várat és a bájos utcákat. Délután egy hajókirándulás viszi a csendes Dalkey-szigetre. Zárja a napot a történelmi Bullock kikötőben. Egy utazás, amely ötvözi a lélegzetelállító természetet a gazdag történelemmel.",
+        "ro": "Începeți ziua cu o priveliște panoramică de pe Dealul Killiney. După o plimbare la Băile Vico, conduceți spre inima orașului Dalkey. Parcați mașina și explorați castelul și străzile fermecătoare. După-amiaza, o excursie cu barca vă duce pe liniștita Insulă Dalkey. Încheiați ziua în portul istoric Bullock. O călătorie care combină natura uluitoare cu istoria bogată.",
+        "en": "Start your day with panoramic views from Killiney Hill. After a walk to the Vico Baths, drive to the heart of Dalkey. Park the car and explore the castle and charming streets. In the afternoon, a boat trip takes you to the tranquil Dalkey Island. End the day at the historic Bullock Harbour. A journey combining breathtaking nature with rich history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "DeVille's",
+            "tip": "Klassisches Bistro für ein herzhaftes Mittagessen."
+          },
+          {
+            "name": "The Corner Note Café",
+            "tip": "Perfekt für einen schnellen Kaffee und Gebäck."
+          },
+          {
+            "name": "Finnegan's of Dalkey",
+            "tip": "Ein traditioneller Pub für ein Pint und Fish and Chips."
+          }
+        ],
+        "hu": [
+          {
+            "name": "DeVille's",
+            "tip": "Klasszikus bisztró egy kiadós ebédhez."
+          },
+          {
+            "name": "The Corner Note Café",
+            "tip": "Tökéletes egy gyors kávéra és süteményre."
+          },
+          {
+            "name": "Finnegan's of Dalkey",
+            "tip": "Hagyományos pub egy korsó sörért és fish and chips-ért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "DeVille's",
+            "tip": "Bistro clasic pentru un prânz consistent."
+          },
+          {
+            "name": "The Corner Note Café",
+            "tip": "Perfect pentru o cafea rapidă și o prăjitură."
+          },
+          {
+            "name": "Finnegan's of Dalkey",
+            "tip": "Un pub tradițional pentru o halbă de bere și fish and chips."
+          }
+        ],
+        "en": [
+          {
+            "name": "DeVille's",
+            "tip": "Classic bistro for a hearty lunch."
+          },
+          {
+            "name": "The Corner Note Café",
+            "tip": "Perfect for a quick coffee and pastry."
+          },
+          {
+            "name": "Finnegan's of Dalkey",
+            "tip": "A traditional pub for a pint and fish and chips."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Dalkey Island",
+            "tip": "Eine kurze Bootsfahrt zu Stille und historischen Ruinen.",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Spaziergang entlang der Vico Road",
+            "tip": "Wunderschöne Ausblicke und ruhige Momente.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Killiney Hill Park Gipfel",
+            "tip": "Weitläufige Aussichten in friedlicher Umgebung.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dalkey-sziget",
+            "tip": "Rövid hajóút a csendhez és a történelmi romokhoz.",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Séta a Vico úton",
+            "tip": "Gyönyörű kilátás és békés pillanatok.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Killiney Hill Park csúcsa",
+            "tip": "Messzire nyúló kilátás békés környezetben.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Insula Dalkey",
+            "tip": "O scurtă plimbare cu barca spre liniște și ruine istorice.",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Plimbare pe Vico Road",
+            "tip": "Priveliști frumoase și momente de liniște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Vârful Parcului Killiney Hill",
+            "tip": "Vederi extinse într-un cadru pașnic.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dalkey Island",
+            "tip": "A short boat trip to tranquility and historic ruins.",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Vico Road walk",
+            "tip": "Beautiful vistas and quiet moments.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Killiney Hill Park summit",
+            "tip": "Expansive views in a peaceful setting.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Dalkey's Main Street",
+            "tip": "Entdecken Sie die Boutiquen und Kunsthandwerksläden."
+          },
+          {
+            "name": "The Gutter Bookshop",
+            "tip": "Ein wunderbarer unabhängiger Buchladen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dalkey főutcája",
+            "tip": "Fedezze fel a butikokat és a kézműves boltokat."
+          },
+          {
+            "name": "The Gutter Bookshop",
+            "tip": "Egy csodálatos független könyvesbolt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada principală din Dalkey",
+            "tip": "Explorați buticurile și magazinele de artizanat."
+          },
+          {
+            "name": "The Gutter Bookshop",
+            "tip": "O minunată librărie independentă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dalkey's Main Street",
+            "tip": "Explore the boutique shops and artisan stores."
+          },
+          {
+            "name": "The Gutter Bookshop",
+            "tip": "A wonderful independent bookshop."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken kann in Dalkey schwierig sein, besonders im Sommer. Seien Sie früh da.",
+          "Achten Sie auf Parkbeschränkungen und -gebühren.",
+          "Die Straßen um Dalkey sind eng; fahren Sie vorsichtig.",
+          "Überprüfen Sie die Abfahrtszeiten für die Bootsfahrt zur Dalkey Island."
+        ],
+        "hu": [
+          "A parkolás Dalkey-ban nehéz lehet, különösen nyáron. Érkezzen korán.",
+          "Figyeljen a parkolási korlátozásokra és díjakra.",
+          "Az utak Dalkey környékén szűkek; vezessen óvatosan.",
+          "Ellenőrizze a Dalkey-szigetre induló hajó indulási idejét."
+        ],
+        "ro": [
+          "Parcarea poate fi dificilă în Dalkey, mai ales vara. Ajungeți devreme.",
+          "Fiți atenți la restricțiile și taxele de parcare.",
+          "Drumurile din jurul Dalkey sunt înguste; conduceți cu prudență.",
+          "Verificați orele de plecare ale bărcii spre Insula Dalkey."
+        ],
+        "en": [
+          "Parking can be difficult in Dalkey, especially in summer. Arrive early.",
+          "Be aware of parking restrictions and fees.",
+          "The roads around Dalkey are narrow; drive with care.",
+          "Check the boat departure times for Dalkey Island."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 5.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof Dalkey",
+            "hu": "Érkezés a Dalkey vasútállomásra",
+            "ro": "Sosire la Gara Dalkey",
+            "en": "Arrive at Dalkey Station"
+          },
+          "coords": [
+            -6.113,
+            53.28
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der DART-Zug bietet eine malerische Anreise.",
+            "hu": "A DART vonat festői utazást kínál.",
+            "ro": "Trenul DART oferă o călătorie pitorească.",
+            "en": "The DART train offers a scenic journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Dalkey Schloss & Zentrum",
+            "hu": "Dalkey vár és központ",
+            "ro": "Castelul Dalkey și Centrul",
+            "en": "Dalkey Castle & Centre"
+          },
+          "coords": [
+            -6.108,
+            53.279
+          ],
+          "category": "castles",
+          "arrive_at": "09:28",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie das Schloss und die nahegelegene Kirche.",
+            "hu": "Fedezze fel a várat és a közeli templomot.",
+            "ro": "Explorați castelul și biserica din apropiere.",
+            "en": "Explore the castle and the nearby church."
+          }
+        },
+        {
+          "name": {
+            "de": "Coliemore Harbour (für Bootsfahrt)",
+            "hu": "Coliemore kikötő (hajókiránduláshoz)",
+            "ro": "Portul Coliemore (pentru excursie cu barca)",
+            "en": "Coliemore Harbour (for Boat Trip)"
+          },
+          "coords": [
+            -6.104,
+            53.277
+          ],
+          "category": "port",
+          "arrive_at": "11:34",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zeit für das Mittagessen und den Ausflug zur Dalkey Island.",
+            "hu": "Itt az ideje ebédelni és kirándulni a Dalkey-szigetre.",
+            "ro": "Timp pentru prânz și excursia pe Insula Dalkey.",
+            "en": "Time for lunch and the trip to Dalkey Island."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahnhof Killiney",
+            "hu": "Killiney vasútállomás",
+            "ro": "Gara Killiney",
+            "en": "Killiney Station"
+          },
+          "coords": [
+            -6.11,
+            53.264
+          ],
+          "category": "transit",
+          "arrive_at": "13:54",
+          "stay_min": 10,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine kurze DART-Fahrt für eine andere Perspektive.",
+            "hu": "Rövid DART utazás egy másik perspektíváért.",
+            "ro": "O scurtă călătorie cu DART pentru o perspectivă diferită.",
+            "en": "A short DART ride for a different perspective."
+          }
+        },
+        {
+          "name": {
+            "de": "Killiney Hill Park",
+            "hu": "Killiney Hill Park",
+            "ro": "Parcul Killiney Hill",
+            "en": "Killiney Hill Park"
+          },
+          "coords": [
+            -6.115,
+            53.268
+          ],
+          "category": "parks",
+          "arrive_at": "14:24",
+          "stay_min": 135,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Aufstieg vom Bahnhof ist steil, aber lohnend.",
+            "hu": "Az emelkedő az állomástól meredek, de megéri.",
+            "ro": "Urcușul de la gară este abrupt, dar plin de satisfacții.",
+            "en": "The walk up from the station is steep but rewarding."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den DART-Zug für ein nahtloses Küstenabenteuer. Beginnen Sie im Herzen von Dalkey, erkunden Sie das Schloss und genießen Sie eine Bootsfahrt zur Insel. Am Nachmittag bringt Sie eine kurze Zugfahrt nach Killiney. Erklimmen Sie den Hügel für eine atemberaubende Aussicht über die Bucht. Eine perfekte Kombination aus Dorfcharme, Inselerkundung und Panoramablicken, alles mit öffentlichen Verkehrsmitteln erreichbar.",
+        "hu": "Használja a DART vonatot egy zökkenőmentes tengerparti kalandhoz. Kezdje Dalkey szívében, fedezze fel a várat, és élvezze a hajókirándulást a szigetre. Délután egy rövid vonatút viszi Killiney-be. Másszon fel a hegyre, ahonnan lélegzetelállító kilátás nyílik az öbölre. A falusi báj, a szigetfelfedezés és a panorámás kilátás tökéletes kombinációja, mindez tömegközlekedéssel elérhető.",
+        "ro": "Folosiți trenul DART pentru o aventură de coastă fără probleme. Începeți în inima orașului Dalkey, explorați castelul și bucurați-vă de o excursie cu barca pe insulă. După-amiaza, o scurtă călătorie cu trenul vă duce la Killiney. Urcați pe deal pentru vederi uluitoare ale golfului. O combinație perfectă de farmec sătesc, explorare a insulei și vederi panoramice, totul accesibil cu transportul public.",
+        "en": "Use the DART train for a seamless coastal adventure. Start in the heart of Dalkey, exploring its castle and enjoying a boat trip to the island. In the afternoon, a short train ride takes you to Killiney. Climb the hill for breathtaking views over the bay. A perfect combination of village charm, island exploration, and panoramic vistas, all accessible by public transport."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "DeVille's",
+            "tip": "Klassisches Bistro für ein herzhaftes Mittagessen."
+          },
+          {
+            "name": "The Corner Note Café",
+            "tip": "Perfekt für einen schnellen Kaffee und Gebäck."
+          },
+          {
+            "name": "Finnegan's of Dalkey",
+            "tip": "Ein traditioneller Pub für ein Pint und Fish and Chips."
+          }
+        ],
+        "hu": [
+          {
+            "name": "DeVille's",
+            "tip": "Klasszikus bisztró egy kiadós ebédhez."
+          },
+          {
+            "name": "The Corner Note Café",
+            "tip": "Tökéletes egy gyors kávéra és süteményre."
+          },
+          {
+            "name": "Finnegan's of Dalkey",
+            "tip": "Hagyományos pub egy korsó sörért és fish and chips-ért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "DeVille's",
+            "tip": "Bistro clasic pentru un prânz consistent."
+          },
+          {
+            "name": "The Corner Note Café",
+            "tip": "Perfect pentru o cafea rapidă și o prăjitură."
+          },
+          {
+            "name": "Finnegan's of Dalkey",
+            "tip": "Un pub tradițional pentru o halbă de bere și fish and chips."
+          }
+        ],
+        "en": [
+          {
+            "name": "DeVille's",
+            "tip": "Classic bistro for a hearty lunch."
+          },
+          {
+            "name": "The Corner Note Café",
+            "tip": "Perfect for a quick coffee and pastry."
+          },
+          {
+            "name": "Finnegan's of Dalkey",
+            "tip": "A traditional pub for a pint and fish and chips."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Dalkey Island",
+            "tip": "Eine kurze Bootsfahrt zu Stille und historischen Ruinen.",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Spaziergang entlang der Vico Road",
+            "tip": "Wunderschöne Ausblicke und ruhige Momente.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Killiney Hill Park Gipfel",
+            "tip": "Weitläufige Aussichten in friedlicher Umgebung.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dalkey-sziget",
+            "tip": "Rövid hajóút a csendhez és a történelmi romokhoz.",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Séta a Vico úton",
+            "tip": "Gyönyörű kilátás és békés pillanatok.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Killiney Hill Park csúcsa",
+            "tip": "Messzire nyúló kilátás békés környezetben.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Insula Dalkey",
+            "tip": "O scurtă plimbare cu barca spre liniște și ruine istorice.",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Plimbare pe Vico Road",
+            "tip": "Priveliști frumoase și momente de liniște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Vârful Parcului Killiney Hill",
+            "tip": "Vederi extinse într-un cadru pașnic.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dalkey Island",
+            "tip": "A short boat trip to tranquility and historic ruins.",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Vico Road walk",
+            "tip": "Beautiful vistas and quiet moments.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Killiney Hill Park summit",
+            "tip": "Expansive views in a peaceful setting.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Dalkey's Main Street",
+            "tip": "Entdecken Sie die Boutiquen und Kunsthandwerksläden."
+          },
+          {
+            "name": "The Gutter Bookshop",
+            "tip": "Ein wunderbarer unabhängiger Buchladen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dalkey főutcája",
+            "tip": "Fedezze fel a butikokat és a kézműves boltokat."
+          },
+          {
+            "name": "The Gutter Bookshop",
+            "tip": "Egy csodálatos független könyvesbolt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada principală din Dalkey",
+            "tip": "Explorați buticurile și magazinele de artizanat."
+          },
+          {
+            "name": "The Gutter Bookshop",
+            "tip": "O minunată librărie independentă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dalkey's Main Street",
+            "tip": "Explore the boutique shops and artisan stores."
+          },
+          {
+            "name": "The Gutter Bookshop",
+            "tip": "A wonderful independent bookshop."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Leap Card für die einfachste Art, für DART-Fahrten zu bezahlen.",
+          "Züge fahren regelmäßig, aber überprüfen Sie den Fahrplan für die letzte Rückfahrt.",
+          "Die Bahnhöfe Dalkey und Killiney sind nicht barrierefrei.",
+          "Kombinieren Sie Ihre DART-Fahrt mit einem Spaziergang, um das Beste aus beiden Welten zu bekommen."
+        ],
+        "hu": [
+          "Vásároljon Leap kártyát a DART utazások legkönnyebb fizetési módjához.",
+          "A vonatok rendszeresen közlekednek, de ellenőrizze a menetrendet az utolsó visszainduláshoz.",
+          "A Dalkey és Killiney állomások nem akadálymentesítettek.",
+          "Kombinálja a DART utazást egy sétával, hogy a legjobbat hozza ki mindkettőből."
+        ],
+        "ro": [
+          "Cumpărați un card Leap pentru cel mai simplu mod de a plăti călătoriile DART.",
+          "Trenurile circulă regulat, dar verificați orarul pentru ultima întoarcere.",
+          "Gările Dalkey și Killiney nu sunt accesibile pentru scaune cu rotile.",
+          "Combinați călătoria cu DART cu o plimbare pentru a obține ce e mai bun din ambele lumi."
+        ],
+        "en": [
+          "Buy a Leap Card for the easiest way to pay for DART fares.",
+          "Trains are frequent, but check the schedule for the last return journey.",
+          "Dalkey and Killiney stations are not wheelchair accessible.",
+          "Combine your DART journey with walking to get the best of both worlds."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1468 @@
+{
+  "city_id": "slovakia-presov-cities-v2",
+  "anchor": {
+    "name": "Prešov",
+    "coords": [
+      21.2399,
+      48.9984
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Neptun-Brunnen",
+            "hu": "Neptun-kút",
+            "ro": "Fântâna Neptun",
+            "en": "Neptune Fountain"
+          },
+          "coords": [
+            21.2395,
+            48.9967
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Der perfekte Treffpunkt, um den Tag im Herzen der Stadt zu beginnen.",
+            "hu": "Tökéletes találkozóhely a nap indításához a város szívében.",
+            "ro": "Punctul de întâlnire perfect pentru a începe ziua în inima orașului.",
+            "en": "The perfect meeting point to start the day in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Rákóczi-Palast",
+            "hu": "Rákóczi-palota",
+            "ro": "Palatul Rákóczi",
+            "en": "Rákóczi Palace"
+          },
+          "coords": [
+            21.2401,
+            48.9975
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beherbergt das Heimatmuseum. Achten Sie auf die reich verzierte Fassade.",
+            "hu": "A helytörténeti múzeumnak ad otthont. Figyelje meg a gazdagon díszített homlokzatot.",
+            "ro": "Găzduiește muzeul regional. Observați fațada bogat decorată.",
+            "en": "Houses the regional museum. Pay attention to the richly decorated facade."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Nikolaus-Konkathedrale",
+            "hu": "Szent Miklós-társszékesegyház",
+            "ro": "Concatedrala Sfântul Nicolae",
+            "en": "Co-Cathedral of St. Nicholas"
+          },
+          "coords": [
+            21.2388,
+            48.9981
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besteigen Sie den Turm für eine großartige Aussicht auf die Stadt.",
+            "hu": "Másszon fel a toronyba a városra nyíló nagyszerű kilátásért.",
+            "ro": "Urcați în turn pentru o priveliște magnifică asupra orașului.",
+            "en": "Climb the tower for a great view of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Orthodoxe Kathedrale des Heiligen Alexander Newski",
+            "hu": "Szent Alekszandr Nyevszkij Ortodox Székesegyház",
+            "ro": "Catedrala Ortodoxă Sfântul Alexandru Nevski",
+            "en": "Orthodox Cathedral of St. Alexander Nevsky"
+          },
+          "coords": [
+            21.2465,
+            48.9959
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Ikonostase und die byzantinische Architektur.",
+            "hu": "Csodálja meg a lenyűgöző ikonosztázt és a bizánci stílusú építészetet.",
+            "ro": "Admirați iconostasul impresionant și arhitectura în stil bizantin.",
+            "en": "Admire the impressive iconostasis and Byzantine-style architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Weinmuseum Prešov",
+            "hu": "Eperjesi Bormúzeum",
+            "ro": "Muzeul Vinului din Prešov",
+            "en": "Prešov Wine Museum"
+          },
+          "coords": [
+            21.2393,
+            48.9961
+          ],
+          "category": "museums",
+          "arrive_at": "13:06",
+          "stay_min": 100,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Probieren Sie unbedingt die lokalen Tokajer Weine, eine Spezialität der Region.",
+            "hu": "Feltétlenül kóstolja meg a helyi tokaji borokat, a régió specialitását.",
+            "ro": "Asigurați-vă că degustați vinurile locale Tokaj, o specialitate a regiunii.",
+            "en": "Be sure to sample the local Tokaj wines, a specialty of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Prešov Kalvarienberg",
+            "hu": "Eperjesi kálvária",
+            "ro": "Calvarul din Prešov",
+            "en": "Prešov Calvary"
+          },
+          "coords": [
+            21.23,
+            49.009
+          ],
+          "category": "natural features",
+          "arrive_at": "15:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Der Aufstieg ist steil, aber die Panoramaaussicht ist die Mühe wert.",
+            "hu": "Az emelkedő meredek, de a panorámás kilátás megéri a fáradságot.",
+            "ro": "Urcușul este abrupt, dar vederea panoramică merită efortul.",
+            "en": "The climb is steep, but the panoramic view is worth the effort."
+          }
+        },
+        {
+          "name": {
+            "de": "Solivar",
+            "hu": "Sóbánya (Solivar)",
+            "ro": "Salina Solivar",
+            "en": "Solivar (Salt Mine)"
+          },
+          "coords": [
+            21.275,
+            48.978
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "17:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein einzigartiges technisches Denkmal. Planen Sie Zeit für die Führung ein.",
+            "hu": "Egyedülálló ipari műemlék. Szánjon időt a vezetett túrára.",
+            "ro": "Un monument tehnic unic. Rezervați timp pentru turul ghidat.",
+            "en": "A unique technical monument. Allow time for the guided tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Prešov beginnt im historischen Herzen, wo der Neptun-Brunnen plätschert. Sie schlendern durch die Hauptstraße, bewundern die Fassade des Rákóczi-Palastes und tauchen in die lokale Geschichte ein. Am Vormittag erkunden Sie die sakralen Schätze der Stadt, die imposante St.-Nikolaus-Konkathedrale und die kunstvolle orthodoxe Kathedrale, die Zeugen der reichen multikulturellen Vergangenheit sind.\nDer Mittag ist der Weinkultur gewidmet. Im Weinmuseum entdecken Sie die Geheimnisse des regionalen Weinbaus, insbesondere des berühmten Tokajers, und genießen vielleicht eine kleine Verkostung. Dieser kulturelle Genuss bereitet Sie auf den physischeren Teil des Nachmittags vor.\nAm Nachmittag erwartet Sie ein Aufstieg zum Kalvarienberg. Der Weg führt Sie an barocken Kapellen vorbei und belohnt Sie oben mit einer atemberaubenden Panoramaaussicht über Prešov und die umliegende Landschaft – ein Moment der Ruhe und Besinnung.\nDer Tag klingt im Stadtteil Solivar aus, wo Sie das einzigartige Salzbergwerk besichtigen. Dieses technische Denkmal bietet einen faszinierenden Einblick in die industrielle Geschichte der Region und rundet Ihre Erkundung von Prešov mit einer ganz besonderen Erfahrung ab, bevor Sie zum Abendessen in die Altstadt zurückkehren.",
+        "hu": "Az eperjesi nap a történelmi szívben, a Neptun-kút csobogásánál kezdődik. Végigsétál a főutcán, megcsodálja a Rákóczi-palota homlokzatát és elmélyül a helyi történelemben. A délelőtt a város szakrális kincseinek felfedezésével telik: a lenyűgöző Szent Miklós-társszékesegyház és a díszes ortodox katedrális a gazdag multikulturális múlt tanúi.\nA dél a borkultúrának van szentelve. A Bormúzeumban felfedezi a regionális borászat titkait, különösen a híres Tokajiét, és talán egy kis kóstolón is részt vesz. Ez a kulturális élmény felkészíti Önt a délután fizikailag megterhelőbb részére.\nDélután a Kálváriára való feljutás vár Önre. Az út barokk kápolnák mellett vezet el, és a csúcson lélegzetelállító panorámával jutalmazza Eperjesre és a környező tájra – a nyugalom és az elmélkedés pillanata.\nA nap Solivar városrészben ér véget, ahol megtekinti az egyedülálló sóbányát. Ez az ipari műemlék lenyűgöző betekintést nyújt a régió ipari történelmébe, és egy igazán különleges élménnyel zárja eperjesi felfedezőútját, mielőtt visszatérne az óvárosba vacsorázni.",
+        "ro": "Ziua dvs. în Prešov începe în inima istorică, unde fântâna lui Neptun susură. Vă plimbați pe strada principală, admirând fațada Palatului Rákóczi și aprofundând istoria locală. Dimineața explorați comorile sacre ale orașului, impunătoarea Concatedrală Sfântul Nicolae și artistica Catedrală Ortodoxă, martore ale unui bogat trecut multicultural.\nAmiaza este dedicată culturii vinului. La Muzeul Vinului descoperiți secretele viticulturii regionale, în special ale renumitului Tokaj, și poate vă bucurați de o mică degustare. Această plăcere culturală vă pregătește pentru partea mai fizică a după-amiezii.\nDupă-amiaza vă așteaptă o urcare la Calvar. Calea vă poartă pe lângă capele baroce și vă recompensează în vârf cu o priveliște panoramică uluitoare asupra orașului Prešov și a peisajului înconjurător – un moment de pace și reflecție.\nZiua se încheie în cartierul Solivar, unde vizitați salina unică. Acest monument tehnic oferă o perspectivă fascinantă asupra istoriei industriale a regiunii și completează explorarea dvs. a orașului Prešov cu o experiență cu totul specială, înainte de a vă întoarce în orașul vechi pentru cină.",
+        "en": "Your day in Prešov begins in the historic heart, where the Neptune Fountain murmurs. You'll stroll down the main street, admiring the facade of the Rákóczi Palace and delving into local history. The morning is for exploring the city's sacred treasures, the imposing Co-Cathedral of St. Nicholas and the ornate Orthodox Cathedral, witnesses to a rich multicultural past.\nNoon is dedicated to wine culture. At the Wine Museum, you'll discover the secrets of regional winemaking, especially the famous Tokaj, and perhaps enjoy a small tasting. This cultural delight prepares you for the more physical part of the afternoon.\nIn the afternoon, an ascent to the Calvary awaits you. The path takes you past baroque chapels and rewards you at the top with a breathtaking panoramic view over Prešov and the surrounding landscape – a moment of peace and reflection.\nThe day concludes in the Solivar district, where you'll visit the unique salt mine. This technical monument offers a fascinating insight into the region's industrial history, rounding off your exploration of Prešov with a very special experience before you return to the old town for dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Der slowakische Nationalgericht – Kartoffelklöße mit Schafskäse und Speck."
+          },
+          {
+            "name": "Pirohy",
+            "tip": "Gefüllte Teigtaschen, ähnlich wie Piroggen, oft mit Bryndza oder Marmelade."
+          },
+          {
+            "name": "Šariš Bier",
+            "tip": "Probieren Sie das lokal gebraute Bier, das nach der Region benannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bryndzové halušky (juhtúrós galuska)",
+            "tip": "A szlovák nemzeti étel – burgonyagaluska juhtúróval és szalonnával."
+          },
+          {
+            "name": "Pirohy (derelye)",
+            "tip": "Töltött tészta, gyakran juhtúróval vagy lekvárral."
+          },
+          {
+            "name": "Šariš sör",
+            "tip": "Kóstolja meg a helyi, a régióról elnevezett sört."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Mâncarea națională slovacă – găluște de cartofi cu brânză de oi și slănină."
+          },
+          {
+            "name": "Pirohy",
+            "tip": "Colțunași umpluți, similari cu pirogi, adesea cu brânză bryndza sau gem."
+          },
+          {
+            "name": "Berea Šariš",
+            "tip": "Încercați berea produsă local, numită după regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "The Slovak national dish – potato dumplings with sheep cheese and bacon."
+          },
+          {
+            "name": "Pirohy",
+            "tip": "Filled dumplings, similar to pierogi, often with bryndza cheese or jam."
+          },
+          {
+            "name": "Šariš Beer",
+            "tip": "Try the locally brewed beer, named after the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Prešov Kalvarienberg",
+            "tip": "Der Gipfel bietet nicht nur eine tolle Aussicht, sondern auch eine friedliche Atmosphäre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Garten des Rákóczi-Palastes",
+            "tip": "Ein kleiner, ruhiger Ort hinter dem Museum, um dem Trubel der Hauptstraße zu entkommen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Torysa-Flusses",
+            "tip": "Ein Spaziergang entlang des Flusses kann sehr entspannend sein.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Eperjesi kálvária",
+            "tip": "A csúcs nemcsak nagyszerű kilátást, hanem békés légkört is kínál.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rákóczi-palota kertje",
+            "tip": "Egy kis, csendes hely a múzeum mögött, ahol elmenekülhet a főutca nyüzsgésétől.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Tarca folyó partja",
+            "tip": "Egy séta a folyó mentén nagyon pihentető lehet.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calvarul din Prešov",
+            "tip": "Vârful nu oferă doar o priveliște minunată, ci și o atmosferă pașnică.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina Palatului Rákóczi",
+            "tip": "Un loc mic și liniștit în spatele muzeului pentru a scăpa de agitația străzii principale.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malurile râului Torysa",
+            "tip": "O plimbare de-a lungul râului poate fi foarte relaxantă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Prešov Calvary",
+            "tip": "The top offers not only a great view but also a peaceful atmosphere.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Garden of the Rákóczi Palace",
+            "tip": "A small, quiet spot behind the museum to escape the bustle of the main street.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the Torysa River",
+            "tip": "A walk along the river can be very relaxing.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hlavná ulica (Hauptstraße)",
+            "tip": "Hier finden Sie viele kleine Geschäfte mit Souvenirs und lokalen Produkten."
+          },
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach Märkten, auf denen frische Produkte und handgefertigte Waren verkauft werden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hlavná ulica (Fő utca)",
+            "tip": "Itt számos kis üzletet talál ajándéktárgyakkal és helyi termékekkel."
+          },
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen piacokat, ahol friss termékeket és kézműves árukat árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hlavná ulica (Strada Principală)",
+            "tip": "Aici veți găsi multe magazine mici cu suveniruri și produse locale."
+          },
+          {
+            "name": "Piața locală",
+            "tip": "Căutați piețe care vând produse proaspete și articole de artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hlavná ulica (Main Street)",
+            "tip": "You will find many small shops with souvenirs and local products here."
+          },
+          {
+            "name": "Local Market",
+            "tip": "Look for markets selling fresh produce and handmade goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden, besonders beim Aufstieg zum Kalvarienberg.",
+          "Planen Sie genügend Zeit für das Weinmuseum und Solivar ein, da beide Führungen anbieten, die sehr informativ sind.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum liegen nahe beieinander.",
+          "Überprüfen Sie die Öffnungszeiten der Museen und Kirchen im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni, különösen a Kálváriára való feljutáskor.",
+          "Szánjon elegendő időt a Bormúzeumra és Solivarra, mivel mindkettő nagyon informatív tárlatvezetést kínál.",
+          "A legtöbb belvárosi látnivaló közel van egymáshoz.",
+          "Előre ellenőrizze a múzeumok és templomok nyitvatartási idejét."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos, mai ales la urcarea pe Calvar.",
+          "Alocați suficient timp pentru Muzeul Vinului și Solivar, deoarece ambele oferă tururi ghidate foarte informative.",
+          "Majoritatea atracțiilor din centrul orașului sunt apropiate una de cealaltă.",
+          "Verificați în avans orele de program ale muzeelor și bisericilor."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking, especially the climb to the Calvary.",
+          "Allow enough time for the Wine Museum and Solivar as they both offer guided tours that are very informative.",
+          "Most sights in the city center are close to each other.",
+          "Check the opening hours of museums and churches in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Neptun-Brunnen",
+            "hu": "Neptun-kút",
+            "ro": "Fântâna Neptun",
+            "en": "Neptune Fountain"
+          },
+          "coords": [
+            21.2395,
+            48.9967
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, während Sie den zentralen Platz erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárját, amíg felfedezi a központi teret.",
+            "ro": "Asigurați-vă bicicleta în mod corespunzător în timp ce explorați piața centrală.",
+            "en": "Lock your bike securely while you explore the central square."
+          }
+        },
+        {
+          "name": {
+            "de": "Rákóczi-Palast",
+            "hu": "Rákóczi-palota",
+            "ro": "Palatul Rákóczi",
+            "en": "Rákóczi Palace"
+          },
+          "coords": [
+            21.2401,
+            48.9975
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:28",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das Museum im Inneren ist einen Besuch wert.",
+            "hu": "A benne található múzeumot érdemes meglátogatni.",
+            "ro": "Muzeul din interior merită vizitat.",
+            "en": "The museum inside is worth a visit."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Nikolaus-Konkathedrale",
+            "hu": "Szent Miklós-társszékesegyház",
+            "ro": "Concatedrala Sfântul Nicolae",
+            "en": "Co-Cathedral of St. Nicholas"
+          },
+          "coords": [
+            21.2388,
+            48.9981
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:31",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Meisterwerk der Gotik.",
+            "hu": "A gótikus építészet mesterműve.",
+            "ro": "O capodoperă a arhitecturii gotice.",
+            "en": "A masterpiece of Gothic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Orthodoxe Kathedrale des Heiligen Alexander Newski",
+            "hu": "Szent Alekszandr Nyevszkij Ortodox Székesegyház",
+            "ro": "Catedrala Ortodoxă Sfântul Alexandru Nevski",
+            "en": "Orthodox Cathedral of St. Alexander Nevsky"
+          },
+          "coords": [
+            21.2465,
+            48.9959
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein schönes Beispiel für russisch-orthodoxe Architektur.",
+            "hu": "Az orosz ortodox építészet gyönyörű példája.",
+            "ro": "Un exemplu frumos de arhitectură rusă ortodoxă.",
+            "en": "A beautiful example of Russian Orthodox architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Solivar",
+            "hu": "Sóbánya (Solivar)",
+            "ro": "Salina Solivar",
+            "en": "Solivar (Salt Mine)"
+          },
+          "coords": [
+            21.275,
+            48.978
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:32",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Die Radtour hierher führt Sie durch verschiedene Teile der Stadt.",
+            "hu": "Az ide vezető kerékpártúra a város különböző részein visz keresztül.",
+            "ro": "Plimbarea cu bicicleta până aici vă va purta prin diferite părți ale orașului.",
+            "en": "The bike ride here takes you through different parts of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Prešov Kalvarienberg",
+            "hu": "Eperjesi kálvária",
+            "ro": "Calvarul din Prešov",
+            "en": "Prešov Calvary"
+          },
+          "coords": [
+            21.23,
+            49.009
+          ],
+          "category": "natural features",
+          "arrive_at": "14:49",
+          "stay_min": 60,
+          "hop_from_prev_min": 47,
+          "hop_from_prev_km": 7.8,
+          "tip_5lang": {
+            "de": "Bereiten Sie sich auf einen steilen Anstieg vor. Vielleicht möchten Sie das Fahrrad unten abstellen und zu Fuß gehen.",
+            "hu": "Készüljön fel egy meredek emelkedőre. Érdemes lehet lent hagyni a kerékpárt és gyalogolni.",
+            "ro": "Pregătiți-vă pentru o urcare abruptă. Poate doriți să lăsați bicicleta jos și să urcați pe jos.",
+            "en": "Be prepared for a steep climb. You might want to leave the bike at the bottom and walk up."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadttheater Jonáš Záborský",
+            "hu": "Jonáš Záborský Színház",
+            "ro": "Teatrul Jonáš Záborský",
+            "en": "Jonáš Záborský Theatre"
+          },
+          "coords": [
+            21.2415,
+            48.995
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:19",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Informieren Sie sich über das Abendprogramm, falls Sie an einer Vorstellung interessiert sind.",
+            "hu": "Nézze meg az esti programot, ha érdekli egy előadás.",
+            "ro": "Verificați programul de seară dacă sunteți interesat de un spectacol.",
+            "en": "Check the evening's schedule if you're interested in a performance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad beginnt Ihr Tag in Prešov mit Agilität und frischer Luft. Sie starten am Neptun-Brunnen, dem pulsierenden Herzen der Stadt, und radeln gemütlich zum Rákóczi-Palast und zur St.-Nikolaus-Konkathedrale. Die kurzen Wege im Zentrum sind ideal, um die historische Atmosphäre aufzusaugen.\nAm Vormittag führt Sie eine kurze Fahrt zur orthodoxen Kathedrale, bevor Sie sich auf eine längere Etappe nach Solivar begeben. Diese Tour gibt Ihnen einen umfassenderen Eindruck von der Stadt, während Sie sich dem faszinierenden Salzbergwerk nähern, einem Höhepunkt der Industriegeschichte.\nNachdem Sie die unterirdische Welt von Solivar erkundet haben, schwingen Sie sich wieder auf den Sattel für die anspruchsvollste, aber auch lohnendste Fahrt des Tages: hinauf zum Kalvarienberg. Die Anstrengung wird mit einer spektakulären Aussicht belohnt. Es ist der perfekte Ort für eine wohlverdiente Pause.\nZum Abschluss des Tages rollen Sie gemütlich zurück ins Zentrum. Ein letzter Halt am Stadttheater rundet Ihre kulturelle Radtour ab. Sie haben die wichtigsten Sehenswürdigkeiten von Prešov gesehen und dabei sowohl die städtischen als auch die naturnahen Seiten der Stadt auf sportliche Weise erlebt.",
+        "hu": "Kerékpárral az eperjesi nap mozgékonysággal és friss levegővel kezdődik. A Neptun-kútnál, a város lüktető szívében indul, és kényelmesen elteker a Rákóczi-palotához és a Szent Miklós-társszékesegyházhoz. A központ rövid távolságai ideálisak a történelmi légkör magába szívásához.\nA délelőtt egy rövid tekeréssel folytatódik az ortodox katedrálishoz, mielőtt egy hosszabb szakaszra indulna Solivar felé. Ez a túra átfogóbb képet ad a városról, miközben a lenyűgöző sóbánya, az ipartörténet egyik csúcspontja felé közeledik.\nMiután felfedezte Solivar földalatti világát, újra nyeregbe pattan a nap legnehezebb, de egyben legkifizetődőbb útjára: fel a Kálváriára. A fáradozást látványos kilátás jutalmazza. Tökéletes hely egy jól megérdemelt pihenőre.\nA nap végén kényelmesen visszagurul a központba. Egy utolsó megálló a Városi Színháznál teszi teljessé a kulturális kerékpártúrát. Megtekintette Eperjes legfontosabb látnivalóit, és közben sportosan élvezte a város városi és természeti oldalait egyaránt.",
+        "ro": "Pe bicicletă, ziua dvs. în Prešov începe cu agilitate și aer proaspăt. Porniți de la Fântâna Neptun, inima vibrantă a orașului, și pedalați pe îndelete spre Palatul Rákóczi și Concatedrala Sfântul Nicolae. Distanțele scurte din centru sunt ideale pentru a absorbi atmosfera istorică.\nDimineața, o scurtă plimbare vă duce la catedrala ortodoxă, înainte de a porni într-o etapă mai lungă spre Solivar. Acest tur vă oferă o impresie mai cuprinzătoare a orașului pe măsură ce vă apropiați de fascinanta salină, un punct culminant al istoriei industriale.\nDupă ce ați explorat lumea subterană a Solivarului, vă urcați din nou în șa pentru cea mai solicitantă, dar și cea mai plină de satisfacții, plimbare a zilei: sus la Calvar. Efortul este răsplătit cu o priveliște spectaculoasă. Este locul perfect pentru o pauză binemeritată.\nLa sfârșitul zilei, vă întoarceți relaxat în centru. O ultimă oprire la Teatrul Municipal completează turul dvs. cultural pe bicicletă. Ați văzut cele mai importante atracții din Prešov, experimentând atât latura urbană, cât și cea naturală a orașului într-un mod sportiv.",
+        "en": "On a bike, your day in Prešov starts with agility and fresh air. You'll begin at Neptune Fountain, the city's vibrant heart, and leisurely pedal to the Rákóczi Palace and the Co-Cathedral of St. Nicholas. The short distances in the center are ideal for soaking up the historical atmosphere.\nIn the morning, a short ride takes you to the Orthodox Cathedral before you embark on a longer leg to Solivar. This tour gives you a more comprehensive impression of the city as you approach the fascinating salt mine, a highlight of industrial history.\nAfter exploring the subterranean world of Solivar, you'll get back in the saddle for the most demanding but also most rewarding ride of the day: up to the Calvary. The effort is rewarded with a spectacular view. It's the perfect spot for a well-deserved break.\nAt the end of the day, you'll roll comfortably back to the center. A final stop at the City Theatre completes your cultural bike tour. You've seen the most important sights of Prešov, experiencing both the urban and natural sides of the city in a sporty way."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Reštaurácia Double Tiffany",
+            "tip": "Bietet traditionelle slowakische Gerichte in einem gemütlichen Ambiente."
+          },
+          {
+            "name": "Lokálne pivo Šariš",
+            "tip": "Ein Muss für Bierliebhaber, direkt aus der Region."
+          },
+          {
+            "name": "Trdelník",
+            "tip": "Ein süßer Gebäck-Snack, perfekt zur Stärkung während der Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Double Tiffany étterem",
+            "tip": "Hagyományos szlovák ételeket kínál hangulatos környezetben."
+          },
+          {
+            "name": "Helyi Šariš sör",
+            "tip": "A sörkedvelőknek kötelező, egyenesen a régióból."
+          },
+          {
+            "name": "Kürtőskalács (Trdelník)",
+            "tip": "Édes péksütemény, tökéletes energiaforrás a kerékpártúra során."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Double Tiffany",
+            "tip": "Oferă mâncăruri tradiționale slovace într-un cadru primitor."
+          },
+          {
+            "name": "Berea locală Šariš",
+            "tip": "O necesitate pentru iubitorii de bere, direct din regiune."
+          },
+          {
+            "name": "Trdelník",
+            "tip": "Un desert dulce, perfect pentru a vă reîncărca bateriile în timpul turului cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Double Tiffany Restaurant",
+            "tip": "Offers traditional Slovak dishes in a cozy setting."
+          },
+          {
+            "name": "Local Šariš Beer",
+            "tip": "A must-try for beer lovers, straight from the region."
+          },
+          {
+            "name": "Trdelník",
+            "tip": "A sweet pastry snack, perfect for refueling during your bike tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussicht vom Kalvarienberg",
+            "tip": "Nach dem Aufstieg werden Sie mit Stille und einer weiten Aussicht belohnt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pause am Torysa-Ufer",
+            "tip": "Finden Sie eine Bank am Flussufer für eine ruhige Pause.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Früher Morgen am Hauptplatz",
+            "tip": "Erleben Sie den Platz, bevor die Menschenmassen eintreffen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a Kálváriáról",
+            "tip": "A mászás után csend és pazar kilátás a jutalom.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pihenő a Tarca-parton",
+            "tip": "Keressen egy padot a folyóparton egy csendes pihenőhöz.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kora reggel a Fő téren",
+            "tip": "Tapasztalja meg a teret, mielőtt a tömeg megérkezik.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la Calvar",
+            "tip": "După urcare, veți fi răsplătit cu liniște și o priveliște vastă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pauză pe malul râului Torysa",
+            "tip": "Găsiți o bancă pe malul râului pentru o pauză liniștită.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Dimineața devreme în Piața Principală",
+            "tip": "Experimentați piața înainte de sosirea mulțimilor.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the Calvary",
+            "tip": "After the climb, you are rewarded with silence and a wide view.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Break on the banks of the Torysa",
+            "tip": "Find a bench on the riverbank for a quiet break.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Early morning in the Main Square",
+            "tip": "Experience the square before the crowds arrive.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Falls Sie Zubehör oder eine schnelle Reparatur benötigen."
+          },
+          {
+            "name": "Souvenirs auf der Hlavná ulica",
+            "tip": "Kleine Läden bieten lokale Handwerkskunst und Erinnerungsstücke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Ha kiegészítőre vagy gyors javításra van szüksége."
+          },
+          {
+            "name": "Ajándéktárgyak a Fő utcán (Hlavná ulica)",
+            "tip": "Kis üzletek helyi kézműves termékeket és emléktárgyakat kínálnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "În caz că aveți nevoie de accesorii sau de o reparație rapidă."
+          },
+          {
+            "name": "Suveniruri pe Hlavná ulica",
+            "tip": "Micile magazine oferă artizanat local și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "In case you need any accessories or a quick repair."
+          },
+          {
+            "name": "Souvenirs on Hlavná ulica",
+            "tip": "Small shops offer local crafts and mementos."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Nehmen Sie eine Flasche Wasser mit, besonders für den Aufstieg zum Kalvarienberg.",
+          "Die Stadt ist relativ fahrradfreundlich, aber achten Sie im Zentrum auf Fußgänger.",
+          "Ein Schloss ist unerlässlich, um Ihr Fahrrad sicher abzustellen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket és a gumikat.",
+          "Vigyen magával egy üveg vizet, különösen a Kálváriára való feljutáshoz.",
+          "A város viszonylag kerékpárbarát, de a központban figyeljen a gyalogosokra.",
+          "A lakat elengedhetetlen a kerékpár biztonságos lezárásához."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni, în special frânele și anvelopele.",
+          "Luați cu voi o sticlă de apă, mai ales pentru urcarea la Calvar.",
+          "Orașul este relativ prietenos cu bicicletele, dar fiți atenți la pietoni în centru.",
+          "Un lacăt este esențial pentru a vă securiza bicicleta."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes and tires.",
+          "Bring a bottle of water, especially for the climb to the Calvary.",
+          "The city is relatively bike-friendly, but watch out for pedestrians in the center.",
+          "A lock is essential to secure your bike safely."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 15.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum & Neptun-Brunnen",
+            "hu": "Parkoló a központban és Neptun-kút",
+            "ro": "Parcare Centru și Fântâna Neptun",
+            "en": "Parking Downtown & Neptune Fountain"
+          },
+          "coords": [
+            21.2385,
+            48.9955
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier, um den ersten Cluster zu Fuß zu erkunden. Der Brunnen ist Ihr Ausgangspunkt.",
+            "hu": "Parkoljon le itt az első látnivalócsoport gyalogos felfedezéséhez. A kút a kiindulópont.",
+            "ro": "Parcați aici pentru a explora primul grup de atracții pe jos. Fântâna este punctul de plecare.",
+            "en": "Park here to explore the first cluster on foot. The fountain is your starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Nikolaus-Konkathedrale",
+            "hu": "Szent Miklós-társszékesegyház",
+            "ro": "Concatedrala Sfântul Nicolae",
+            "en": "Co-Cathedral of St. Nicholas"
+          },
+          "coords": [
+            21.2388,
+            48.9981
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Brunnen entfernt. Nehmen Sie sich Zeit für das Innere.",
+            "hu": "Rövid séta a kúttól. Szánjon időt a belső térre.",
+            "ro": "La o scurtă plimbare de fântână. Acordați-vă timp pentru a admira interiorul.",
+            "en": "A short walk from the fountain. Take your time for the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Rákóczi-Palast",
+            "hu": "Rákóczi-palota",
+            "ro": "Palatul Rákóczi",
+            "en": "Rákóczi Palace"
+          },
+          "coords": [
+            21.2401,
+            48.9975
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:55",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der Spaziergang entlang der Hauptstraße führt Sie direkt zu diesem historischen Gebäude.",
+            "hu": "A Fő utcán végigsétálva egyenesen ehhez a történelmi épülethez jut.",
+            "ro": "Plimbarea de-a lungul străzii principale vă duce direct la această clădire istorică.",
+            "en": "The walk along the main street leads you directly to this historic building."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt und Erkundung von Solivar",
+            "hu": "Utazás és a sóbányai (Solivar) komplexum felfedezése",
+            "ro": "Călătorie și explorare la Solivar",
+            "en": "Drive to and explore Solivar"
+          },
+          "coords": [
+            21.275,
+            48.978
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:35",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum zweiten Cluster. Planen Sie Mittagessen in der Nähe oder bringen Sie Snacks mit.",
+            "hu": "Vezessen a második látnivalócsoporthoz. Tervezzen ebédet a közelben, vagy vigyen magával harapnivalót.",
+            "ro": "Conduceți spre al doilea grup de atracții. Planificați prânzul în apropiere sau aduceți gustări.",
+            "en": "Drive to the second cluster. Plan for lunch nearby or bring snacks."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Prešov Kalvarienberg",
+            "hu": "Utazás az Eperjesi kálváriához",
+            "ro": "Călătorie spre Calvarul din Prešov",
+            "en": "Drive to Prešov Calvary"
+          },
+          "coords": [
+            21.2315,
+            49.008
+          ],
+          "category": "natural features",
+          "arrive_at": "15:00",
+          "stay_min": 75,
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Der letzte Cluster des Tages. Parken Sie am Fuße des Hügels und genießen Sie den Aufstieg.",
+            "hu": "A nap utolsó látnivalócsoportja. Parkoljon a hegy lábánál, és élvezze a mászást.",
+            "ro": "Ultimul grup de atracții al zilei. Parcați la poalele dealului și bucurați-vă de urcare.",
+            "en": "The last cluster of the day. Park at the bottom of the hill and enjoy the climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt am Kalvarienberg",
+            "hu": "Kilátópont a Kálvárián",
+            "ro": "Punct de belvedere la Calvar",
+            "en": "Viewpoint at the Calvary"
+          },
+          "coords": [
+            21.23,
+            49.009
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:25",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der kurze Spaziergang nach oben wird mit der besten Aussicht auf die Stadt belohnt.",
+            "hu": "A rövid séta felfelé a város legjobb kilátásával jutalmazza.",
+            "ro": "Scurta plimbare până în vârf este răsplătită cu cea mai bună priveliște a orașului.",
+            "en": "The short walk up is rewarded with the best view of the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Prešov folgt einer cleveren Cluster-Strategie. Sie beginnen mit dem Parken im Zentrum und erkunden den ersten Cluster zu Fuß: vom Neptun-Brunnen zur prächtigen St.-Nikolaus-Konkathedrale und weiter zum geschichtsträchtigen Rákóczi-Palast. So erleben Sie die historische Atmosphäre der Innenstadt ganz ohne Parkplatzsuche zwischendurch.\nZur Mittagszeit steigen Sie ins Auto und fahren zum zweiten Cluster: dem einzigartigen Salzbergwerk in Solivar. Dieser kurze Ausflug bietet einen faszinierenden Kontrast zum historischen Zentrum und einen tiefen Einblick in das industrielle Erbe der Region. Hier können Sie eine ausgiebige Tour machen und in die Welt unter Tage eintauchen.\nAm Nachmittag bringt Sie eine weitere kurze Fahrt zum dritten und letzten Cluster des Tages, dem Kalvarienberg. Sie parken am Fuße des Hügels und unternehmen einen erfrischenden Spaziergang hinauf zu den Kapellen und dem Gipfelkreuz. Der Aufstieg ist ein Erlebnis für sich.\nDer Tag gipfelt in der atemberaubenden Aussicht vom Kalvarienberg. Von hier oben überblicken Sie die gesamte Stadt und die umliegende Landschaft des Šariš-Hochlandes. Es ist der perfekte, ruhige Abschluss einer abwechslungsreichen Erkundungstour, die historische, industrielle und natürliche Highlights von Prešov geschickt kombiniert.",
+        "hu": "Az autós nap Eperjesen egy okos „cluster” stratégiát követ. A központban való parkolással kezd, majd gyalogosan fedezi fel az első látnivalócsoportot: a Neptun-kúttól a csodálatos Szent Miklós-társszékesegyházig, majd tovább a történelmi Rákóczi-palotáig. Így a köztes parkolóhely-keresés nélkül élvezheti a belváros történelmi hangulatát.\nDélidőben autóba ül, és a második látnivalócsoporthoz, az egyedülálló sóbányához (Solivar) hajt. Ez a rövid kirándulás lenyűgöző kontrasztot kínál a történelmi központtal, és mély betekintést nyújt a régió ipari örökségébe. Itt egy alapos túrán vehet részt, és elmerülhet a föld alatti világban.\nDélután egy újabb rövid autóút visz a nap harmadik és egyben utolsó látnivalócsoportjához, a Kálváriához. A hegy lábánál parkol le, és egy frissítő sétát tesz felfelé a kápolnákhoz és a csúcskereszthez. Már maga a séta is egy élmény.\nA nap a Kálváriáról nyíló lélegzetelállító kilátásban csúcsosodik ki. Innen fentről áttekintheti az egész várost és a környező Sárosi-felföld táját. Ez a tökéletes, csendes befejezése egy változatos felfedezőútnak, amely ügyesen ötvözi Eperjes történelmi, ipari és természeti látnivalóit.",
+        "ro": "Ziua dvs. cu mașina în Prešov urmează o strategie inteligentă de grupare a obiectivelor. Începeți prin a parca în centru și a explora primul grup pe jos: de la Fântâna Neptun la magnifica Concatedrală Sfântul Nicolae și mai departe la istoricul Palat Rákóczi. Astfel, experimentați atmosfera istorică a centrului orașului fără a căuta locuri de parcare între opriri.\nLa prânz, vă urcați în mașină și conduceți spre al doilea grup: salina unică din Solivar. Această scurtă excursie oferă un contrast fascinant cu centrul istoric și o perspectivă profundă asupra moștenirii industriale a regiunii. Aici puteți face un tur extins și vă puteți cufunda în lumea subterană.\nDupă-amiaza, o altă scurtă călătorie cu mașina vă duce la al treilea și ultimul grup al zilei, Calvarul. Parcați la poalele dealului și faceți o plimbare revigorantă până la capele și crucea din vârf. Urcarea este o experiență în sine.\nZiua culminează cu priveliștea uluitoare de la Calvar. De aici, de sus, puteți admira întregul oraș și peisajul înconjurător al platoului Šariš. Este finalul perfect și liniștit al unui tur diversificat care combină cu iscusință atracțiile istorice, industriale și naturale ale orașului Prešov.",
+        "en": "Your car day in Prešov follows a smart cluster strategy. You start by parking in the center and exploring the first cluster on foot: from Neptune Fountain to the magnificent St. Nicholas Co-Cathedral and on to the historic Rákóczi Palace. This way, you experience the historic atmosphere of the city center without any intermediate search for parking.\nAt lunchtime, you get in the car and drive to the second cluster: the unique salt mine in Solivar. This short trip offers a fascinating contrast to the historic center and a deep insight into the region's industrial heritage. Here you can take an extensive tour and immerse yourself in the world underground.\nIn the afternoon, another short drive takes you to the third and final cluster of the day, the Calvary. You park at the foot of the hill and take a refreshing walk up to the chapels and the summit cross. The climb is an experience in itself.\nThe day culminates in the breathtaking view from the Calvary. From up here, you can overlook the entire city and the surrounding landscape of the Šariš highlands. It is the perfect, quiet end to a varied exploration tour that skillfully combines Prešov's historical, industrial, and natural highlights."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Platan",
+            "tip": "Eine gute Wahl für ein Mittagessen in der Nähe des Stadtzentrums, bevor Sie nach Solivar aufbrechen."
+          },
+          {
+            "name": "Káva",
+            "tip": "Genießen Sie einen Kaffee in einem der vielen Cafés auf der Hlavná ulica, bevor Sie losfahren."
+          },
+          {
+            "name": "Salaš",
+            "tip": "Suchen Sie nach einem 'Salaš' (traditionelles Restaurant) am Stadtrand für ein authentisches Abendessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Platan étterem",
+            "tip": "Jó választás egy ebédre a városközpont közelében, mielőtt Solivarba indulna."
+          },
+          {
+            "name": "Káva (kávé)",
+            "tip": "Indulás előtt igyon meg egy kávét a Fő utca (Hlavná ulica) egyik kávézójában."
+          },
+          {
+            "name": "Salaš (szállás)",
+            "tip": "Keressen egy 'Salaš'-t (hagyományos étterem) a város szélén egy autentikus vacsoráért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Platan",
+            "tip": "O alegere bună pentru prânz în apropierea centrului orașului înainte de a pleca spre Solivar."
+          },
+          {
+            "name": "Káva (Cafea)",
+            "tip": "Bucurați-vă de o cafea la una dintre numeroasele cafenele de pe Hlavná ulica înainte de a porni la drum."
+          },
+          {
+            "name": "Salaš",
+            "tip": "Căutați un 'Salaš' (restaurant tradițional) la periferia orașului pentru o cină autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Platan Restaurant",
+            "tip": "A good choice for lunch near the city center before heading to Solivar."
+          },
+          {
+            "name": "Káva (Coffee)",
+            "tip": "Enjoy a coffee in one of the many cafes on Hlavná ulica before you set off."
+          },
+          {
+            "name": "Salaš",
+            "tip": "Look for a 'Salaš' (traditional restaurant) on the outskirts of the city for an authentic dinner."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfel des Kalvarienbergs",
+            "tip": "Der ultimative ruhige Ort mit der besten Aussicht. Perfekt am späten Nachmittag.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Die Gassen abseits der Hauptstraße",
+            "tip": "Erkunden Sie die kleineren Straßen im Zentrum für eine ruhigere Atmosphäre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Im Auto mit guter Musik",
+            "tip": "Die Fahrt zwischen den Clustern kann auch eine Zeit der Entspannung sein.",
+            "emoji": "🎶"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Kálvária csúcsa",
+            "tip": "A végső csendes hely a legjobb kilátással. Tökéletes késő délután.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Fő utcáról leágazó sikátorok",
+            "tip": "Fedezze fel a központ kisebb utcáit a csendesebb hangulatért.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Az autóban jó zenével",
+            "tip": "A látnivalócsoportok közötti utazás is lehet a pihenés ideje.",
+            "emoji": "🎶"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Calvarului",
+            "tip": "Locul liniștit suprem cu cea mai bună priveliște. Perfect la sfârșitul după-amiezii.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Străduțele lăturalnice de pe strada principală",
+            "tip": "Explorați străzile mai mici din centru pentru o atmosferă mai liniștită.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "În mașină cu muzică bună",
+            "tip": "Călătoria între grupurile de obiective poate fi, de asemenea, un moment de relaxare.",
+            "emoji": "🎶"
+          }
+        ],
+        "en": [
+          {
+            "name": "Top of the Calvary",
+            "tip": "The ultimate quiet spot with the best view. Perfect in the late afternoon.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "The alleys off the main street",
+            "tip": "Explore the smaller streets in the center for a quieter atmosphere.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "In the car with good music",
+            "tip": "The drive between clusters can also be a time for relaxation.",
+            "emoji": "🎶"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Einkaufszentren am Stadtrand",
+            "tip": "Wenn Sie größere Einkäufe tätigen müssen, finden Sie diese auf dem Weg zwischen den Clustern."
+          },
+          {
+            "name": "Salzprodukte aus Solivar",
+            "tip": "Ein einzigartiges Souvenir, das Sie direkt an der Quelle kaufen können."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bevásárlóközpontok a város szélén",
+            "tip": "Ha nagyobb bevásárlást kell intéznie, ezeket a látnivalócsoportok között útközben találja."
+          },
+          {
+            "name": "Sóbányai (Solivar) sótermékek",
+            "tip": "Egyedülálló ajándéktárgy, amelyet közvetlenül a forrásnál vásárolhat meg."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centre comerciale la periferie",
+            "tip": "Dacă trebuie să faceți cumpărături mai mari, le veți găsi în drum între grupurile de obiective."
+          },
+          {
+            "name": "Produse din sare de la Solivar",
+            "tip": "Un suvenir unic pe care îl puteți cumpăra direct de la sursă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shopping centers on the outskirts",
+            "tip": "If you need to do major shopping, you'll find them on the way between clusters."
+          },
+          {
+            "name": "Salt products from Solivar",
+            "tip": "A unique souvenir that you can buy directly at the source."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie eine Navigations-App, um Parkplätze in der Nähe der Cluster-Startpunkte zu finden.",
+          "Die Cluster-Walking-Strategie spart Zeit und Nerven bei der Parkplatzsuche.",
+          "Überprüfen Sie die Verkehrsbedingungen, bevor Sie zwischen den Clustern fahren.",
+          "Kombinieren Sie Ihren Besuch in Solivar mit dem Mittagessen, um Zeit zu sparen."
+        ],
+        "hu": [
+          "Használjon navigációs alkalmazást a parkolóhelyek megtalálásához a látnivalócsoportok kiindulópontjainak közelében.",
+          "A „cluster-walking” stratégia időt és idegeket takarít meg a parkolóhely-keresés során.",
+          "Ellenőrizze a forgalmi viszonyokat, mielőtt a látnivalócsoportok között közlekedik.",
+          "Kombinálja a sóbányai (Solivar) látogatást ebéddel, hogy időt takarítson meg."
+        ],
+        "ro": [
+          "Utilizați o aplicație de navigație pentru a găsi parcări în apropierea punctelor de plecare ale grupurilor.",
+          "Strategia de mers pe jos în grup economisește timp și nervi în căutarea unui loc de parcare.",
+          "Verificați condițiile de trafic înainte de a conduce între grupuri.",
+          "Combinați vizita la Solivar cu prânzul pentru a economisi timp."
+        ],
+        "en": [
+          "Use a navigation app to find parking near the cluster starting points.",
+          "The cluster-walking strategy saves time and nerves looking for parking spaces.",
+          "Check traffic conditions before driving between clusters.",
+          "Combine your visit to Solivar with lunch to save time."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 14.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft Zentrum & Neptun-Brunnen",
+            "hu": "Érkezés a központba és Neptun-kút",
+            "ro": "Sosire în Centru & Fântâna Neptun",
+            "en": "Arrival Downtown & Neptune Fountain"
+          },
+          "coords": [
+            21.2418,
+            48.9958
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Die meisten Buslinien halten hier. Ein idealer Startpunkt.",
+            "hu": "A legtöbb buszjárat megáll itt. Ideális kiindulópont.",
+            "ro": "Majoritatea liniilor de autobuz opresc aici. Un punct de plecare ideal.",
+            "en": "Most bus lines stop here. An ideal starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Nikolaus-Konkathedrale",
+            "hu": "Szent Miklós-társszékesegyház",
+            "ro": "Concatedrala Sfântul Nicolae",
+            "en": "Co-Cathedral of St. Nicholas"
+          },
+          "coords": [
+            21.2388,
+            48.9981
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:33",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Vom zentralen Knotenpunkt aus leicht zu Fuß erreichbar.",
+            "hu": "A központi csomópontból gyalog könnyen elérhető.",
+            "ro": "Ușor accesibil pe jos de la nodul central.",
+            "en": "Easily accessible on foot from the central hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Rákóczi-Palast",
+            "hu": "Rákóczi-palota",
+            "ro": "Palatul Rákóczi",
+            "en": "Rákóczi Palace"
+          },
+          "coords": [
+            21.2401,
+            48.9975
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:38",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie die Hauptstraße entlang, um hierher zu gelangen.",
+            "hu": "Sétáljon végig a Fő utcán, hogy ideérjen.",
+            "ro": "Plimbați-vă pe strada principală pentru a ajunge aici.",
+            "en": "Stroll down the main street to get here."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt nach Solivar",
+            "hu": "Utazás Solivarba",
+            "ro": "Călătorie spre Solivar",
+            "en": "Trip to Solivar"
+          },
+          "coords": [
+            21.275,
+            48.978
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:18",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Stadtzentrum. Die Fahrt gibt Ihnen Zeit, die Landschaft zu beobachten.",
+            "hu": "Vegyen buszt a városközpontból. Az utazás időt ad a táj megfigyelésére.",
+            "ro": "Luați un autobuz din centrul orașului. Călătoria vă oferă timp să observați peisajul.",
+            "en": "Take a bus from the city center. The ride gives you time to watch the scenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Kalvarienberg",
+            "hu": "Utazás a Kálváriához",
+            "ro": "Călătorie spre Calvar",
+            "en": "Trip to the Calvary"
+          },
+          "coords": [
+            21.2315,
+            49.008
+          ],
+          "category": "natural features",
+          "arrive_at": "15:10",
+          "stay_min": 75,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Möglicherweise müssen Sie umsteigen, aber die Aussicht ist es wert.",
+            "hu": "Lehet, hogy át kell szállnia, de a kilátás megéri.",
+            "ro": "S-ar putea să fie nevoie să schimbați autobuzul, dar priveliștea merită.",
+            "en": "You may need to change buses, but the view is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zur Spitze des Kalvarienbergs",
+            "hu": "Séta a Kálvária csúcsára",
+            "ro": "Plimbare până în vârful Calvarului",
+            "en": "Walk to the top of the Calvary"
+          },
+          "coords": [
+            21.23,
+            49.009
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:35",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nach der Busfahrt ist der kurze Aufstieg eine willkommene Abwechslung.",
+            "hu": "A buszozás után a rövid séta felüdülést jelent.",
+            "ro": "După călătoria cu autobuzul, scurta urcare este o schimbare binevenită.",
+            "en": "After the bus ride, the short climb is a welcome change."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln erkunden Sie Prešov effizient und umweltfreundlich. Ihr Tag beginnt an einer zentralen Haltestelle nahe dem Neptun-Brunnen. Von hier aus erkunden Sie den ersten Cluster – die Altstadt – bequem zu Fuß, besuchen die St.-Nikolaus-Konkathedrale und den Rákóczi-Palast.\nAm späten Vormittag nehmen Sie den Bus für Ihre erste große Fahrt nach Solivar. Diese Etappe ermöglicht es Ihnen, sich zurückzulehnen und die Stadtviertel an sich vorbeiziehen zu sehen, bevor Sie in die faszinierende Welt des historischen Salzbergwerks eintauchen. Es ist ein perfekter Ort für die Mittagszeit.\nNachdem Sie Solivar erkundet haben, bringt Sie der nächste Bus zum Fuße des Kalvarienbergs. Diese Fahrt führt Sie durch einen anderen Teil von Prešov und bereitet Sie auf den spirituellen und landschaftlichen Höhepunkt des Tages vor. Der Spaziergang vom Bus zum Gipfel ist erfrischend.\nDer Tag endet mit der friedlichen Atmosphäre und der herrlichen Aussicht vom Kalvarienberg. Nachdem Sie die Panoramaaussicht genossen haben, können Sie bequem mit dem Bus ins Stadtzentrum zurückkehren, um den Abend ausklingen zu lassen. Diese Tour verbindet städtische Erkundung mit Ausflügen zu den wichtigsten Sehenswürdigkeiten außerhalb des Zentrums auf eine entspannte Weise.",
+        "hu": "A tömegközlekedéssel hatékonyan és környezetbarát módon fedezheti fel Eperjest. A nap egy központi megállóban kezdődik a Neptun-kút közelében. Innen kényelmesen, gyalogosan fedezi fel az első látnivalócsoportot – az Óvárost –, meglátogatja a Szent Miklós-társszékesegyházat és a Rákóczi-palotát.\nKéső délelőtt busszal indul az első nagyobb útjára Solivarba. Ez a szakasz lehetővé teszi, hogy hátradőljön és figyelje a városrészeket, mielőtt elmerülne a történelmi sóbánya lenyűgöző világában. Tökéletes hely a déli időtöltéshez.\nMiután felfedezte Solivart, a következő busz a Kálvária lábához viszi. Ez az út Eperjes egy másik részén vezet keresztül, és felkészíti Önt a nap spirituális és tájképi csúcspontjára. A buszmegállótól a csúcsig tartó séta frissítő.\nA nap a Kálvária békés hangulatával és csodálatos kilátásával zárul. Miután élvezte a panorámát, kényelmesen visszatérhet busszal a városközpontba, hogy lezárja az estét. Ez a túra laza módon ötvözi a városi felfedezést a központon kívüli legfontosabb látnivalókhoz tett kirándulásokkal.",
+        "ro": "Folosind transportul public, explorați Prešov eficient și ecologic. Ziua dvs. începe la o stație centrală, lângă Fântâna Neptun. De aici, explorați primul grup de obiective – centrul vechi – confortabil pe jos, vizitând Concatedrala Sfântul Nicolae și Palatul Rákóczi.\nSpre sfârșitul dimineții, luați autobuzul pentru prima dvs. călătorie importantă spre Solivar. Această etapă vă permite să vă relaxați și să priviți cartierele orașului trecând pe lângă dvs., înainte de a vă cufunda în lumea fascinantă a salinei istorice. Este un loc perfect pentru pauza de prânz.\nDupă ce ați explorat Solivar, următorul autobuz vă duce la poalele Calvarului. Această călătorie vă poartă printr-o altă parte a orașului Prešov și vă pregătește pentru punctul culminant spiritual și peisagistic al zilei. Plimbarea de la stația de autobuz până în vârf este revigorantă.\nZiua se încheie cu atmosfera pașnică și priveliștea magnifică de la Calvar. După ce v-ați bucurat de panorama, puteți reveni confortabil cu autobuzul în centrul orașului pentru a încheia seara. Acest tur combină explorarea urbană cu excursii la cele mai importante atracții din afara centrului într-un mod relaxat.",
+        "en": "Using public transport, you can explore Prešov efficiently and in an environmentally friendly way. Your day starts at a central stop near Neptune Fountain. From here, you can comfortably explore the first cluster – the Old Town – on foot, visiting the St. Nicholas Co-Cathedral and the Rákóczi Palace.\nIn the late morning, you take the bus for your first major trip to Solivar. This leg allows you to sit back and watch the city districts pass by before immersing yourself in the fascinating world of the historic salt mine. It is a perfect place for lunchtime.\nAfter exploring Solivar, the next bus takes you to the foot of the Calvary. This journey takes you through another part of Prešov and prepares you for the spiritual and scenic highlight of the day. The walk from the bus stop to the summit is refreshing.\nThe day ends with the peaceful atmosphere and magnificent view from the Calvary. After enjoying the panorama, you can comfortably return to the city center by bus to round off the evening. This tour combines urban exploration with trips to the most important sights outside the center in a relaxed way."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Imbissbude am Busbahnhof",
+            "tip": "Schnappen Sie sich einen schnellen Snack, während Sie auf Ihren Anschluss warten."
+          },
+          {
+            "name": "Lokales Gebäck",
+            "tip": "Kaufen Sie süßes oder salziges Gebäck in einer Bäckerei für unterwegs."
+          },
+          {
+            "name": "Reštaurácia Staré časy",
+            "tip": "Ein schöner Ort für ein Abendessen im Zentrum nach Ihrer Rückkehr."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Büfé a buszpályaudvaron",
+            "tip": "Kapjon be egy gyors falatot, amíg a csatlakozásra vár."
+          },
+          {
+            "name": "Helyi péksütemény",
+            "tip": "Vásároljon édes vagy sós péksüteményt egy pékségben útközben."
+          },
+          {
+            "name": "Staré časy étterem",
+            "tip": "Szép hely egy vacsorához a központban, miután visszatért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc de mâncare la autogară",
+            "tip": "Luați o gustare rapidă în timp ce așteptați legătura."
+          },
+          {
+            "name": "Produse de patiserie locale",
+            "tip": "Cumpărați produse de patiserie dulci sau sărate de la o brutărie pentru drum."
+          },
+          {
+            "name": "Restaurantul Staré časy",
+            "tip": "Un loc frumos pentru cină în centru după întoarcerea dvs."
+          }
+        ],
+        "en": [
+          {
+            "name": "Snack bar at the bus station",
+            "tip": "Grab a quick snack while waiting for your connection."
+          },
+          {
+            "name": "Local pastries",
+            "tip": "Buy sweet or savory pastries from a bakery for the road."
+          },
+          {
+            "name": "Staré časy Restaurant",
+            "tip": "A nice place for dinner in the center after your return."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blick aus dem Busfenster",
+            "tip": "Nutzen Sie die Fahrtzeit, um die weniger touristischen Teile der Stadt zu beobachten.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Friedhof am Kalvarienberg",
+            "tip": "Ein Ort der Stille und Besinnung.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Bank in einem Park",
+            "tip": "Machen Sie eine kurze Pause in einem der kleinen Parks im Stadtzentrum.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a busz ablakából",
+            "tip": "Használja ki az utazási időt a város kevésbé turistás részeinek megfigyelésére.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Temető a Kálvárián",
+            "tip": "A csend és az elmélkedés helye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Pad egy parkban",
+            "tip": "Tartson egy rövid szünetet a belváros egyik kis parkjában.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Privind pe geamul autobuzului",
+            "tip": "Folosiți timpul de călătorie pentru a observa părțile mai puțin turistice ale orașului.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Cimitirul de la Calvar",
+            "tip": "Un loc de liniște și reflecție.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "O bancă într-un parc",
+            "tip": "Faceți o scurtă pauză într-unul dintre micile parcuri din centrul orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the bus window",
+            "tip": "Use the travel time to observe the less touristy parts of the city.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Cemetery at the Calvary",
+            "tip": "A place of silence and reflection.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A bench in a park",
+            "tip": "Take a short break in one of the small parks in the city center.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kleine Läden in der Nähe von Bushaltestellen",
+            "tip": "Oft finden sich hier unerwartete kleine Schätze."
+          },
+          {
+            "name": "Souvenirshop im Rákóczi-Palast",
+            "tip": "Kaufen Sie ein Andenken, während Sie das Museum besuchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kis boltok a buszmegállók közelében",
+            "tip": "Gyakran váratlan kis kincsekre bukkanhat itt."
+          },
+          {
+            "name": "Ajándékbolt a Rákóczi-palotában",
+            "tip": "Vásároljon emléktárgyat a múzeum látogatása közben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mici magazine lângă stațiile de autobuz",
+            "tip": "Adesea puteți găsi aici mici comori neașteptate."
+          },
+          {
+            "name": "Magazin de suveniruri la Palatul Rákóczi",
+            "tip": "Cumpărați un suvenir în timp ce vizitați muzeul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Small shops near bus stops",
+            "tip": "You can often find unexpected little treasures here."
+          },
+          {
+            "name": "Souvenir shop in the Rákóczi Palace",
+            "tip": "Buy a souvenir while visiting the museum."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel, um Geld zu sparen.",
+          "Nutzen Sie eine ÖPNV-App, um Routen und Fahrpläne in Echtzeit zu überprüfen.",
+          "Planen Sie etwas Pufferzeit für mögliche Verspätungen ein.",
+          "Achten Sie auf die letzte Busverbindung zurück ins Zentrum, besonders vom Kalvarienberg."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
+          "Használjon tömegközlekedési alkalmazást az útvonalak és menetrendek valós idejű ellenőrzéséhez.",
+          "Tervezzen némi pufferidőt az esetleges késésekre.",
+          "Figyeljen az utolsó buszjáratra vissza a központba, különösen a Kálváriáról."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru a economisi bani.",
+          "Utilizați o aplicație de transport public pentru a verifica rutele și orarele în timp real.",
+          "Planificați un timp tampon pentru posibile întârzieri.",
+          "Fiți atenți la ultima legătură de autobuz înapoi spre centru, în special de la Calvar."
+        ],
+        "en": [
+          "Buy a day ticket for public transport to save money.",
+          "Use a public transport app to check routes and timetables in real time.",
+          "Plan some buffer time for possible delays.",
+          "Pay attention to the last bus connection back to the center, especially from the Calvary."
+        ]
+      }
+    }
+  }
+}

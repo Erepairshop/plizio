@@ -1,307 +1,139 @@
 {
   "city_id": "poland-wloclawek-cities-v2",
   "anchor": {
-    "name": "Plac Wolności, Włocławek",
+    "name": "Leslau",
     "coords": [
-      19.0715,
-      52.6562
+      19.0678,
+      52.6483
     ]
   },
   "modes": {
     "walk": {
       "mode": "walk",
-      "speed_kmh": 4,
+      "speed_kmh": 3,
       "start": "09:00",
-      "end_estimate": "17:15",
-      "total_km": 3.5,
-      "stop_count": 6,
+      "end_estimate": "17:54",
+      "total_km": 2.6,
+      "stop_count": 7,
       "stops": [
         {
           "name": {
-            "de": "Platz der Freiheit (Plac Wolności)",
-            "hu": "Szabadság tér (Plac Wolności)",
-            "ro": "Piața Libertății (Plac Wolności)",
-            "en": "Freedom Square (Plac Wolności)"
+            "de": "Freiheitsplatz",
+            "hu": "Szabadság tér",
+            "ro": "Piața Libertății",
+            "en": "Freedom Square"
           },
           "coords": [
-            19.0718,
-            52.6565
+            19.067,
+            52.65
           ],
-          "category": "square",
+          "category": "squares/old-town",
           "arrive_at": "09:10",
-          "stay_min": 30,
+          "stay_min": 25,
+          "hop_mode": "walk",
           "hop_from_prev_min": 10,
           "hop_from_prev_km": 0.0,
-          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Zentraler Platz mit Cafés und Geschäften.",
-            "hu": "Központi tér kávézókkal és üzletekkel.",
-            "ro": "Piața centrală cu cafenele și magazine.",
-            "en": "Central square lined with shops and cafes."
+            "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee in einem der örtlichen Cafés.",
+            "hu": "Kezdje a napot egy kávéval a helyi kávézók egyikében.",
+            "ro": "Începeți ziua aici cu o cafea la una dintre cafenelele locale.",
+            "en": "Start your day here with a coffee from one of the local cafes."
           }
         },
         {
           "name": {
-            "de": "St. Vitalis Kirche",
-            "hu": "Szent Vitális-templom",
-            "ro": "Biserica Sf. Vitalis",
-            "en": "St. Vitalis Church"
+            "de": "Kathedralbasilika Mariä Himmelfahrt",
+            "hu": "Nagyboldogasszony-székesegyház",
+            "ro": "Catedrala Adormirea Maicii Domnului",
+            "en": "Cathedral Basilica of the Assumption"
           },
           "coords": [
-            19.0685,
-            52.6582
+            19.064,
+            52.651
           ],
-          "category": "religious",
-          "arrive_at": "09:55",
-          "stay_min": 40,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.5,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Die älteste Backsteinkirche der Stadt (1330).",
-            "hu": "A város legrégebbi téglaépítésű temploma (1330).",
-            "ro": "Cea mai veche biserică de cărămidă din oraș (1330).",
-            "en": "The oldest brick church in the city (1330)."
-          }
-        },
-        {
-          "name": {
-            "de": "Kathedrale von Włocławek",
-            "hu": "Włocławeki székesegyház",
-            "ro": "Catedrala din Włocławek",
-            "en": "Włocławek Cathedral"
-          },
-          "coords": [
-            19.0665,
-            52.6595
-          ],
-          "category": "religious",
-          "arrive_at": "10:50",
-          "stay_min": 60,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.4,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Gotische Basilika mit wertvollen Glasmalereien.",
-            "hu": "Gótikus bazilika értékes üvegablakokkal.",
-            "ro": "Bazilică gotică cu vitralii valoroase.",
-            "en": "Gothic basilica featuring valuable stained glass."
-          }
-        },
-        {
-          "name": {
-            "de": "Kujawien-Museum (Speicher)",
-            "hu": "Kujawy Múzeum (Magtár)",
-            "ro": "Muzeul Kujawy (Grânar)",
-            "en": "Kujawy Museum (Granary)"
-          },
-          "coords": [
-            19.0625,
-            52.6612
-          ],
-          "category": "museum",
-          "arrive_at": "12:05",
-          "stay_min": 90,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.6,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "In einem historischen Getreidespeicher von 1848.",
-            "hu": "Egy 1848-ból származó történelmi magtárban.",
-            "ro": "Într-un grânar istoric datând din 1848.",
-            "en": "Located in a historic granary built in 1848."
-          }
-        },
-        {
-          "name": {
-            "de": "Mittagessen am Weichselufer",
-            "hu": "Ebéd a Visztula-parton",
-            "ro": "Prânz pe malul Vistulei",
-            "en": "Lunch by the Vistula"
-          },
-          "coords": [
-            19.0645,
-            52.6625
-          ],
-          "category": "gastro",
-          "arrive_at": "13:50",
-          "stay_min": 80,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.4,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Genießen Sie den Blick auf den Fluss.",
-            "hu": "Élvezze a folyóra nyíló kilátást.",
-            "ro": "Bucurați-vă de vederea spre fluviu.",
-            "en": "Enjoy your meal with views over the river."
-          }
-        },
-        {
-          "name": {
-            "de": "Sienkiewicz Park",
-            "hu": "Sienkiewicz park",
-            "ro": "Parcul Sienkiewicz",
-            "en": "Sienkiewicz Park"
-          },
-          "coords": [
-            19.0755,
-            52.6515
-          ],
-          "category": "park",
-          "arrive_at": "15:30",
+          "category": "churches/cathedrals",
+          "arrive_at": "09:41",
           "stay_min": 75,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 1.2,
           "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
           "tip_5lang": {
-            "de": "Einer der ältesten Stadtparks Polens.",
-            "hu": "Lengyelország egyik legrégebbi városi parkja.",
-            "ro": "Unul dintre cele mai vechi parcuri din Polonia.",
-            "en": "One of the oldest city parks in Poland."
+            "de": "Bewundern Sie die gotische Architektur und die beeindruckenden Glasfenster.",
+            "hu": "Csodálja meg a gótikus építészetet és a lenyűgöző ólomüveg ablakokat.",
+            "ro": "Admirați arhitectura gotică și vitraliile impresionante.",
+            "en": "Admire the Gothic architecture and the impressive stained-glass windows."
           }
-        }
-      ],
-      "narrative_4lang": {
-        "de": "Entdecken Sie Włocławek zu Fuß, beginnend am zentralen Platz der Freiheit. Besuchen Sie die historischen Kirchen St. Vitalis und die prächtige gotische Kathedrale. Mittags tauchen Sie im Kujawien-Museum, das in einem alten Speicher untergebracht ist, in die Regionalgeschichte ein. Nach einem Mittagessen am Weichselufer spazieren Sie durch den traditionsreichen Sienkiewicz-Park, eine grüne Oase im Herzen der Stadt.",
-        "hu": "Fedezze fel Włocławeket gyalogosan, a központi Szabadság tértől indulva. Látogassa meg a történelmi Szent Vitális-templomot és a pompás gótikus székesegyházat. Délben a Kujawy Múzeumban, egy régi magtárban ismerkedhet meg a régió múltjával. A Visztula-parti ebéd után sétáljon a nagy múltú Sienkiewicz parkban, amely a város szívének zöld szigete.",
-        "ro": "Descoperiți Włocławek la pas, începând din piața centrală a Libertății. Vizitați biserica istorică Sf. Vitalis și superba catedrală gotică. La prânz, explorați istoria regională la Muzeul Kujawy, găzduit într-un vechi grânar. După o masă pe malul Vistulei, plimbați-vă prin parcul istoric Sienkiewicz, o oază verde în inima orașului.",
-        "en": "Explore Włocławek on foot, starting from the central Freedom Square. Visit the historic St. Vitalis Church and the magnificent Gothic cathedral. Spend midday at the Kujawy Museum, housed in an old granary, to learn about regional history. After lunch by the Vistula, stroll through the traditional Sienkiewicz Park, a peaceful green haven in the city center."
-      },
-      "gastro_picks": {
-        "de": [
-          {
-            "name": "Restauracja Rejs",
-            "tip": "Hervorragende Küche direkt an der Weichsel."
-          }
-        ],
-        "hu": [
-          {
-            "name": "Restauracja Rejs",
-            "tip": "Kiváló konyha közvetlenül a Visztula partján."
-          }
-        ],
-        "ro": [
-          {
-            "name": "Restauracja Rejs",
-            "tip": "Bucătărie excelentă chiar pe malul Vistulei."
-          }
-        ],
-        "en": [
-          {
-            "name": "Restauracja Rejs",
-            "tip": "Excellent dining experience right on the Vistula bank."
-          }
-        ]
-      },
-      "quiet_picks": {
-        "de": [
-          {
-            "name": "Bulwary Józefa Piłsudskiego",
-            "tip": "Ruhiger Spaziergang am Weichsel-Ufer.",
-            "emoji": "🏞️"
-          }
-        ],
-        "hu": [
-          {
-            "name": "Józef Piłsudski rakpart",
-            "tip": "Csendes séta a Visztula mentén.",
-            "emoji": "🏞️"
-          }
-        ],
-        "ro": [
-          {
-            "name": "Faleza Józef Piłsudski",
-            "tip": "Plimbare liniștită pe malul Vistulei.",
-            "emoji": "🏞️"
-          }
-        ],
-        "en": [
-          {
-            "name": "Józef Piłsudski Embankment",
-            "tip": "A quiet stroll along the Vistula riverbanks.",
-            "emoji": "🏞️"
-          }
-        ]
-      },
-      "shopping_picks": {
-        "de": [
-          {
-            "name": "Wzorcownia Włocławek",
-            "tip": "Modernes Einkaufszentrum in historischen Gebäuden."
-          }
-        ],
-        "hu": [
-          {
-            "name": "Wzorcownia Włocławek",
-            "tip": "Modern bevásárlóközpont történelmi épületekben."
-          }
-        ],
-        "ro": [
-          {
-            "name": "Wzorcownia Włocławek",
-            "tip": "Centru comercial modern în clădiri istorice."
-          }
-        ],
-        "en": [
-          {
-            "name": "Wzorcownia Włocławek",
-            "tip": "Modern shopping mall integrated into historic buildings."
-          }
-        ]
-      },
-      "tips": {
-        "de": [
-          "Die Uferpromenade ist abends schön beleuchtet.",
-          "Achten Sie im Museum auf die berühmte Włocławek-Fayence.",
-          "Die Kathedrale hat eine beeindruckende Akustik."
-        ],
-        "hu": [
-          "A folyóparti sétány este gyönyörűen ki van világítva.",
-          "A múzeumban figyelje a híres włocławeki fajanszokat.",
-          "A székesegyháznak lenyűgöző az akusztikája."
-        ],
-        "ro": [
-          "Faleza fluviului este frumos iluminată seara.",
-          "Căutați faimoasa faianță de Włocławek în muzeu.",
-          "Catedrala are o acustică impresionantă."
-        ],
-        "en": [
-          "The river embankment is beautifully lit up in the evening.",
-          "Look for the famous Włocławek faience in the museum.",
-          "The cathedral is known for its impressive acoustics."
-        ]
-      }
-    },
-    "car": {
-      "mode": "car",
-      "speed_kmh": 28,
-      "start": "09:00",
-      "end_estimate": "17:30",
-      "total_km": 15.5,
-      "stop_count": 8,
-      "stops": [
+        },
         {
           "name": {
-            "de": "Kathedrale von Włocławek",
-            "hu": "Włocławeki székesegyház",
-            "ro": "Catedrala din Włocławek",
-            "en": "Włocławek Cathedral"
+            "de": "Kirche St. Vitalis",
+            "hu": "Szent Vitalis-templom",
+            "ro": "Biserica Sfântul Vitalis",
+            "en": "Church of St. Vitalis"
           },
           "coords": [
-            19.0665,
-            52.6595
+            19.062,
+            52.649
           ],
-          "category": "religious",
-          "arrive_at": "09:10",
-          "stay_min": 60,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.0,
-          "hop_mode": "car",
+          "category": "churches/cathedrals",
+          "arrive_at": "11:04",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
           "tip_5lang": {
-            "de": "Gotisches Meisterwerk am Flussufer.",
-            "hu": "Gótikus remekmű a folyóparton.",
-            "ro": "Capodoperă gotică pe malul fluviului.",
-            "en": "A Gothic masterpiece on the riverbank."
+            "de": "Das älteste erhaltene Gebäude der Stadt, ein Juwel der romanischen Architektur.",
+            "hu": "A város legrégebbi fennmaradt épülete, a román kori építészet gyöngyszeme.",
+            "ro": "Cea mai veche clădire supraviețuitoare din oraș, o bijuterie a arhitecturii romanice.",
+            "en": "The oldest surviving building in the city, a gem of Romanesque architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum des Kujawen- und Dobriner Landes",
+            "hu": "Kujávia és Dobrzyń Földjének Múzeuma",
+            "ro": "Muzeul ținutului Kujawy și Dobrzyń",
+            "en": "Museum of the Kujawy and Dobrzyń Land"
+          },
+          "coords": [
+            19.07,
+            52.652
+          ],
+          "category": "museums",
+          "arrive_at": "11:58",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Planen Sie hier Zeit für das Mittagessen ein, um die lokale Geschichte vollständig zu erleben.",
+            "hu": "Tervezzen itt egy ebédszünetet, hogy teljesen elmerüljön a helyi történelemben.",
+            "ro": "Planificați timp pentru prânz aici pentru a absorbi pe deplin istoria locală.",
+            "en": "Plan for lunch time around here to fully absorb the local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Fayence-Museum",
+            "hu": "Fajansz Múzeum",
+            "ro": "Muzeul de Faianță",
+            "en": "Faience Museum"
+          },
+          "coords": [
+            19.072,
+            52.653
+          ],
+          "category": "museums",
+          "arrive_at": "13:42",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Einzigartige Sammlung lokaler Keramik. Ein Muss für Kunstliebhaber.",
+            "hu": "Egyedülálló helyi kerámiagyűjtemény. A művészetkedvelőknek kötelező.",
+            "ro": "Colecție unică de ceramică locală. O vizită obligatorie pentru iubitorii de artă.",
+            "en": "Unique collection of local ceramics. A must-visit for art lovers."
           }
         },
         {
@@ -312,225 +144,533 @@
             "en": "Diocesan Museum"
           },
           "coords": [
-            19.0682,
-            52.6602
+            19.065,
+            52.652
           ],
-          "category": "museum",
-          "arrive_at": "10:25",
-          "stay_min": 90,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.2,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Reiche Sammlung gotischer Sakralkunst.",
-            "hu": "Gótikus szakrális művészet gazdag gyűjteménye.",
-            "ro": "Colecție bogată de artă sacră gotică.",
-            "en": "Rich collection of Gothic sacral art."
-          }
-        },
-        {
-          "name": {
-            "de": "Copernicus-Platz",
-            "hu": "Kopernikusz tér",
-            "ro": "Piața Copernic",
-            "en": "Copernicus Square"
-          },
-          "coords": [
-            19.0705,
-            52.6592
-          ],
-          "category": "square",
-          "arrive_at": "12:05",
-          "stay_min": 25,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.3,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Erinnert an den Aufenthalt des Astronomen.",
-            "hu": "A csillagász városi tartózkodásának emléke.",
-            "ro": "Comemorează șederea astronomului în oraș.",
-            "en": "Commemorates the astronomer's stay in the city."
-          }
-        },
-        {
-          "name": {
-            "de": "Mittagessen in der Altstadt",
-            "hu": "Ebéd az óvárosban",
-            "ro": "Prânz în centrul vechi",
-            "en": "Lunch in the Old Town"
-          },
-          "coords": [
-            19.0685,
-            52.6615
-          ],
-          "category": "gastro",
-          "arrive_at": "12:45",
-          "stay_min": 80,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.4,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Lokale Spezialitäten der Kujawien-Region.",
-            "hu": "A Kujawy régió helyi ínyencségei.",
-            "ro": "Delicii locale din regiunea Kujawy.",
-            "en": "Local delicacies from the Kujawy region."
-          }
-        },
-        {
-          "name": {
-            "de": "Włocławek-Staudamm",
-            "hu": "Włocławeki vízlépcső",
-            "ro": "Barajul Włocławek",
-            "en": "Włocławek Dam"
-          },
-          "coords": [
-            19.1455,
-            52.6612
-          ],
-          "category": "historical",
-          "arrive_at": "14:25",
-          "stay_min": 40,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 6.0,
-          "hop_mode": "car",
-          "tip_5lang": {
-            "de": "Monumentales Wasserkraftwerk an der Weichsel.",
-            "hu": "Monumentális vízerőmű a Visztulán.",
-            "ro": "Hidrocentrală monumentală pe Vistula.",
-            "en": "Monumental hydroelectric plant on the Vistula."
-          }
-        },
-        {
-          "name": {
-            "de": "Faience-Museum",
-            "hu": "Fajansz Múzeum",
-            "ro": "Muzeul Faianței",
-            "en": "Faience Museum"
-          },
-          "coords": [
-            19.0725,
-            52.6545
-          ],
-          "category": "museum",
-          "arrive_at": "15:25",
+          "category": "museums",
+          "arrive_at": "15:24",
           "stay_min": 60,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 5.5,
-          "hop_mode": "car",
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
           "tip_5lang": {
-            "de": "Ausstellung der berühmten handbemalten Keramik.",
-            "hu": "A híres, kézzel festett kerámia kiállítása.",
-            "ro": "Expoziție de ceramică celebră pictată manual.",
-            "en": "Exhibition of the famous hand-painted ceramics."
+            "de": "Entdecken Sie die religiöse Kunst und die Schätze, die in der Nähe der Kathedrale aufbewahrt werden.",
+            "hu": "Fedezze fel a székesegyház közelében őrzött egyházi művészetet és kincseket.",
+            "ro": "Descoperiți arta religioasă și comorile păstrate lângă catedrală.",
+            "en": "Discover the religious art and treasures kept near the cathedral."
           }
         },
         {
           "name": {
-            "de": "Sienkiewicz Park",
-            "hu": "Sienkiewicz park",
+            "de": "Sienkiewicz-Park",
+            "hu": "Sienkiewicz Park",
             "ro": "Parcul Sienkiewicz",
             "en": "Sienkiewicz Park"
           },
           "coords": [
-            19.0755,
-            52.6515
+            19.068,
+            52.645
           ],
-          "category": "park",
-          "arrive_at": "16:35",
-          "stay_min": 40,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.8,
-          "hop_mode": "car",
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:32",
+          "stay_min": 82,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
           "tip_5lang": {
-            "de": "Traditionsreicher Park am Zgłowiączka-Fluss.",
-            "hu": "Nagy múltú park a Zgłowiączka-folyó mentén.",
-            "ro": "Parc istoric de-a lungul râului Zgłowiączka.",
-            "en": "Historic park along the Zgłowiączka river."
-          }
-        },
-        {
-          "name": {
-            "de": "Włocławek-See (Blick)",
-            "hu": "Włocławeki-tó (kilátás)",
-            "ro": "Lacul Włocławek (belvedere)",
-            "en": "Lake Włocławek (view)"
-          },
-          "coords": [
-            19.1625,
-            52.6355
-          ],
-          "category": "lake",
-          "arrive_at": "17:30",
-          "stay_min": 15,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 5.0,
-          "hop_mode": "car",
-          "tip_5lang": {
-            "de": "Größter Stausee Polens bei Sonnenuntergang.",
-            "hu": "Lengyelország legnagyobb mesterséges tava.",
-            "ro": "Cel mai mare lac de acumulare din Polonia.",
-            "en": "Poland's largest reservoir at sunset."
+            "de": "Ein perfekter Ort, um den Tag bei einem entspannten Spaziergang ausklingen zu lassen.",
+            "hu": "Tökéletes hely a nap lezárására egy pihentető sétával.",
+            "ro": "Un loc perfect pentru a încheia ziua cu o plimbare relaxantă.",
+            "en": "A perfect spot to end your day with a relaxing stroll."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Erkunden Sie die Höhepunkte von Włocławek mit dem Auto. Der Tag beginnt im religiösen Zentrum bei der Kathedrale und dem Diözesanmuseum. Nach einem Mittagessen in der Altstadt führt die Route zum beeindruckenden Staudamm, einem Meisterwerk der Technik. Nachmittags besuchen Sie das spezialisierte Fayence-Museum und den Sienkiewicz-Park, bevor Sie den Ausflug mit einem Blick auf den riesigen Włocławek-Stausee krönen.",
-        "hu": "Autóval fedezze fel Włocławek legfőbb látnivalóit. A napot a vallási központban kezdjük a székesegyháznál és az egyházmegyei múzeumnál. Az óvárosi ebéd után az útvonal a lenyűgöző vízlépcsőhöz vezet, amely a mérnöki tudomány remeke. Délután a különleges Fajansz Múzeumot és a Sienkiewicz parkot keressük fel, majd a napot a hatalmas Włocławeki-tóra nyíló kilátással zárjuk.",
-        "ro": "Explorați punctele de atracție din Włocławek cu mașina. Ziua începe în centrul religios la catedrală și muzeul diecezan. După un prânz în centrul vechi, traseul duce la barajul impresionant, o capodoperă a ingineriei. După-amiaza vizitați muzeul specializat al faianței și parcul Sienkiewicz, încheind excursia cu o vedere asupra imensului lac de acumulare Włocławek.",
-        "en": "Discover the highlights of Włocławek by car. Start your day at the religious center, visiting the cathedral and the diocesan museum. After lunch in the Old Town, drive to the impressive dam, a true marvel of engineering. In the afternoon, explore the Faience Museum and Sienkiewicz Park before concluding with a sunset view over the vast Włocławek Reservoir."
+        "de": "Ihr Tag in Leslau beginnt am belebten Freiheitsplatz. Von dort aus tauchen Sie in die sakrale Geschichte der Stadt ein, indem Sie die majestätische Kathedrale und die alte St.-Vitalis-Kirche besuchen. Am Nachmittag erkunden Sie die reiche Kultur von Kujawien in drei verschiedenen Museen, die sich auf Regionalgeschichte, exquisite Fayence und religiöse Kunst spezialisieren. Beenden Sie Ihren Tag mit einem erholsamen Spaziergang im grünen Sienkiewicz-Park.",
+        "hu": "A wloclaweki nap a nyüzsgő Szabadság téren kezdődik. Innen elmerülhet a város szakrális történelmében a fenséges székesegyház és az ősi Szent Vitalis-templom meglátogatásával. Délután fedezze fel Kujávia gazdag kultúráját három különböző múzeumban, melyek a helytörténetre, a különleges fajanszra és az egyházi művészetre szakosodtak. A napot egy pihentető sétával zárja a zöldellő Sienkiewicz Parkban.",
+        "ro": "Ziua dvs. în Włocławek începe în Piața Libertății. De acolo, vă veți scufunda în istoria sacră a orașului vizitând catedrala maiestuoasă și vechea Biserică Sf. Vitalis. După-amiaza, explorați cultura bogată a regiunii Kujawy în trei muzee diferite, specializate în istorie regională, faianță rafinată și artă religioasă. Încheiați ziua cu o plimbare relaxantă în Parcul Sienkiewicz.",
+        "en": "Your day in Włocławek begins at the bustling Freedom Square. From there, delve into the city's sacred history by visiting the majestic Cathedral and the ancient Church of St. Vitalis. The afternoon is for exploring the rich culture of Kuyavia in three distinct museums, specializing in regional history, exquisite faience, and religious art. Conclude your day with a relaxing stroll in the verdant Sienkiewicz Park."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Restauracja Dziedziniec",
-            "tip": "Traditionelle Gerichte in historischem Gemäuer."
+            "name": "Pierogi Kujawskie",
+            "tip": "Probieren Sie die lokalen Teigtaschen mit verschiedenen Füllungen."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Eine traditionelle polnische Sauermehlsuppe, perfekt für ein herzhaftes Mittagessen."
+          },
+          {
+            "name": "Restauracja „Pod Aniołami”",
+            "tip": "Bekannt für ihre traditionelle polnische Küche in einem historischen Ambiente."
           }
         ],
         "hu": [
           {
-            "name": "Restauracja Dziedziniec",
-            "tip": "Hagyományos ételek történelmi falak között."
+            "name": "Kujáviai Pierogi",
+            "tip": "Kóstolja meg a helyi, különböző töltelékkel készített derelyét."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Hagyományos lengyel savanyú leves, tökéletes egy kiadós ebédhez."
+          },
+          {
+            "name": "„Pod Aniołami” Étterem",
+            "tip": "Hagyományos lengyel konyhájáról ismert, történelmi környezetben."
           }
         ],
         "ro": [
           {
-            "name": "Restauracja Dziedziniec",
-            "tip": "Preparate tradiționale între ziduri istorice."
+            "name": "Pierogi Kujawskie",
+            "tip": "Încercați găluștele locale umplute cu diverse umpluturi."
+          },
+          {
+            "name": "Żurek",
+            "tip": "O ciorbă acră tradițională poloneză, perfectă pentru un prânz consistent."
+          },
+          {
+            "name": "Restaurant „Pod Aniołami”",
+            "tip": "Renumit pentru bucătăria sa tradițională poloneză într-un cadru istoric."
           }
         ],
         "en": [
           {
-            "name": "Restauracja Dziedziniec",
-            "tip": "Traditional dishes served in a historic setting."
+            "name": "Kuyavian Pierogi",
+            "tip": "Try the local dumplings with various fillings."
+          },
+          {
+            "name": "Żurek",
+            "tip": "A traditional Polish sour rye soup, perfect for a hearty lunch."
+          },
+          {
+            "name": "„Pod Aniołami” Restaurant",
+            "tip": "Known for its traditional Polish cuisine in a historic setting."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Jezioro Włocławskie",
-            "tip": "Weite Wasserfläche und Waldgebiete.",
+            "name": "Weichselufer",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses bietet eine friedliche Flucht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Inneres der Kathedrale",
+            "tip": "Finden Sie einen Moment der Stille in der beeindruckenden gotischen Halle.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sienkiewicz-Park",
+            "tip": "Entspannen Sie sich auf einer Bank und genießen Sie die Natur.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Visztula partja",
+            "tip": "Egy csendes séta a folyó mentén békés kikapcsolódást nyújt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A székesegyház belseje",
+            "tip": "Találjon egy csendes pillanatot a lenyűgöző gótikus csarnokban.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sienkiewicz Park",
+            "tip": "Pihenjen meg egy padon és élvezze a természetet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Vistulei",
+            "tip": "O plimbare liniștită de-a lungul râului oferă o evadare pașnică.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Interiorul Catedralei",
+            "tip": "Găsiți un moment de liniște în impresionanta sală gotică.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Sienkiewicz",
+            "tip": "Relaxați-vă pe o bancă și bucurați-vă de natură.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vistula Riverbank",
+            "tip": "A quiet walk along the river offers a peaceful escape.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cathedral Interior",
+            "tip": "Find a moment of silence inside the awe-inspiring Gothic hall.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sienkiewicz Park",
+            "tip": "Relax on a bench and enjoy the nature.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Włocławek Fayence",
+            "tip": "Kaufen Sie ein einzigartiges handbemaltes Keramikstück im Fayence-Museumsshop."
+          },
+          {
+            "name": "Lokaler Markt am Plac Wolności",
+            "tip": "Suchen Sie nach frischen Produkten und lokalen Handwerksprodukten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Włocławeki fajansz",
+            "tip": "Vásároljon egyedi, kézzel festett kerámiát a Fajansz Múzeum boltjában."
+          },
+          {
+            "name": "Helyi piac a Szabadság téren",
+            "tip": "Keressen friss termékeket és helyi kézműves termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Faianța de Włocławek",
+            "tip": "Cumpărați o piesă unică de ceramică pictată manual de la magazinul Muzeului de Faianță."
+          },
+          {
+            "name": "Piața locală din Piața Libertății",
+            "tip": "Căutați produse proaspete și meșteșuguri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Włocławek Faience",
+            "tip": "Purchase a unique hand-painted ceramic piece at the Faience Museum shop."
+          },
+          {
+            "name": "Local Market at Plac Wolności",
+            "tip": "Browse for fresh produce and local handicrafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Überprüfen Sie die Öffnungszeiten der Museen im Voraus, da diese variieren können.",
+          "Die meisten Orte im Stadtzentrum sind leicht zu Fuß erreichbar.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit, um hydriert zu bleiben."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét, mert az változhat.",
+          "A belváros legtöbb helye könnyen megközelíthető gyalog.",
+          "Hozzon magával újratölthető vizes palackot, hogy hidratált maradjon."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Verificați în prealabil orele de deschidere ale muzeelor, deoarece acestea pot varia.",
+          "Majoritatea locurilor din centrul orașului sunt ușor accesibile pe jos.",
+          "Luați o sticlă de apă reutilizabilă pentru a vă menține hidratat."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Check museum opening times in advance as they can vary.",
+          "Most places in the city center are within easy walking distance.",
+          "Carry a reusable water bottle to stay hydrated."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Freiheitsplatz",
+            "hu": "Szabadság tér",
+            "ro": "Piața Libertății",
+            "en": "Freedom Square"
+          },
+          "coords": [
+            19.067,
+            52.65
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ideal zum Starten, leihen Sie sich in der Nähe ein Fahrrad.",
+            "hu": "Ideális kiindulópont, béreljen a közelben kerékpárt.",
+            "ro": "Ideal pentru a începe, închiriați o bicicletă din apropiere.",
+            "en": "Great place to start, rent a bike nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedralbasilika Mariä Himmelfahrt",
+            "hu": "Nagyboldogasszony-székesegyház",
+            "ro": "Catedrala Adormirea Maicii Domnului",
+            "en": "Cathedral Basilica of the Assumption"
+          },
+          "coords": [
+            19.064,
+            52.651
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:32",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie eintreten.",
+            "hu": "Zárja le biztonságosan a kerékpárt, mielőtt belép.",
+            "ro": "Asigurați-vă bicicleta înainte de a intra.",
+            "en": "Lock your bike securely before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum des Kujawen- und Dobriner Landes",
+            "hu": "Kujávia és Dobrzyń Földjének Múzeuma",
+            "ro": "Muzeul ținutului Kujawy și Dobrzyń",
+            "en": "Museum of the Kujawy and Dobrzyń Land"
+          },
+          "coords": [
+            19.07,
+            52.652
+          ],
+          "category": "museums",
+          "arrive_at": "10:38",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein guter Ort für eine längere Pause und um mehr über die Region zu erfahren.",
+            "hu": "Jó hely egy hosszabb pihenőre és a régió megismerésére.",
+            "ro": "Un loc bun pentru o pauză mai lungă și pentru a învăța despre regiune.",
+            "en": "A good place for a longer break and to learn about the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Sienkiewicz-Park",
+            "hu": "Sienkiewicz Park",
+            "ro": "Parcul Sienkiewicz",
+            "en": "Sienkiewicz Park"
+          },
+          "coords": [
+            19.068,
+            52.645
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:14",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie eine gemütliche Fahrt durch den Park.",
+            "hu": "Élvezze a kellemes kerékpározást a parkon keresztül.",
+            "ro": "Bucurați-vă de o plimbare lejeră cu bicicleta prin parc.",
+            "en": "Enjoy a leisurely ride through the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Weichsel-Staudamm",
+            "hu": "Visztula-gát",
+            "ro": "Barajul de pe Vistula",
+            "en": "Vistula River Dam"
+          },
+          "coords": [
+            19.035,
+            52.665
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:57",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 4.7,
+          "tip_5lang": {
+            "de": "Eine beeindruckende Ingenieurleistung mit toller Aussicht auf den Fluss.",
+            "hu": "Lenyűgöző mérnöki alkotás, nagyszerű kilátással a folyóra.",
+            "ro": "O realizare inginerească impresionantă cu vederi minunate asupra râului.",
+            "en": "An impressive feat of engineering with great views of the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Fayence-Museum",
+            "hu": "Fajansz Múzeum",
+            "ro": "Muzeul de Faianță",
+            "en": "Faience Museum"
+          },
+          "coords": [
+            19.072,
+            52.653
+          ],
+          "category": "museums",
+          "arrive_at": "15:23",
+          "stay_min": 131,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem Besuch dieser einzigartigen Kunstsammlung.",
+            "hu": "Zárja a túrát ennek az egyedi művészeti gyűjteménynek a meglátogatásával.",
+            "ro": "Încheiați-vă turul cu o vizită la această colecție de artă unică.",
+            "en": "End your tour with a visit to this unique art collection."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich in Leslau aufs Rad und starten Sie am Freiheitsplatz. Die Route führt Sie schnell zu den historischen Kirchen der Stadt. Nach einem Vormittag voller Geschichte radeln Sie zum Sienkiewicz-Park für eine Mittagspause im Grünen. Gestärkt geht es weiter zum beeindruckenden Weichsel-Staudamm, einem Highlight für Technik- und Naturfreunde. Den Abschluss Ihrer Radtour bildet das berühmte Fayence-Museum, wo Sie die lokale Handwerkskunst bewundern können.",
+        "hu": "Pattanjon kerékpárra Włocławekben, és induljon a Szabadság térről. Az útvonal gyorsan elvezeti a város történelmi templomaihoz. A történelemmel teli délelőtt után tekerjen el a Sienkiewicz Parkba egy zöldben eltöltött ebédszünetre. Megerősödve folytassa útját a lenyűgöző Visztula-gáthoz, amely a technika és a természet szerelmeseinek is fénypontot jelent. A kerékpártúrát a híres Fajansz Múzeum zárja, ahol megcsodálhatja a helyi kézművességet.",
+        "ro": "Urcați-vă pe bicicletă în Włocławek și porniți din Piața Libertății. Traseul vă duce rapid la bisericile istorice ale orașului. După o dimineață plină de istorie, pedalați spre Parcul Sienkiewicz pentru o pauză de prânz în natură. Revigorat, continuați spre impresionantul baraj de pe Vistula, un punct de atracție pentru pasionații de tehnologie și natură. Turul cu bicicleta se încheie la faimosul Muzeu de Faianță, unde puteți admira măiestria locală.",
+        "en": "Hop on a bike in Włocławek and start from Freedom Square. The route quickly takes you to the city's historic churches. After a morning of history, you'll cycle to Sienkiewicz Park for a lunch break amidst greenery. Refreshed, continue to the impressive Vistula River Dam, a highlight for technology and nature enthusiasts. Your cycling tour concludes at the famous Faience Museum, where you can admire local craftsmanship."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kanapka z kiełbasą",
+            "tip": "Ein schnelles und leckeres Wurstsandwich von einem Straßenverkäufer."
+          },
+          {
+            "name": "Pączki",
+            "tip": "Gönnen Sie sich einen traditionellen polnischen Donut für einen Energieschub."
+          },
+          {
+            "name": "Bar Mleczny 'Kujawianka'",
+            "tip": "Erleben Sie eine authentische Milchbar für eine schnelle, günstige und traditionelle Mahlzeit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kolbászos szendvics",
+            "tip": "Egy gyors és finom szendvics egy utcai árustól."
+          },
+          {
+            "name": "Pączki",
+            "tip": "Kényeztesse magát egy hagyományos lengyel fánkkal egy energia löketért."
+          },
+          {
+            "name": "'Kujawianka' Tejivó",
+            "tip": "Tapasztalja meg egy autentikus tejivó hangulatát egy gyors, olcsó és hagyományos étkezéshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sandviș cu cârnați",
+            "tip": "Un sandviș rapid și gustos cu cârnați de la un vânzător ambulant."
+          },
+          {
+            "name": "Pączki",
+            "tip": "Răsfățați-vă cu o gogoașă tradițională poloneză pentru un plus de energie."
+          },
+          {
+            "name": "Bar de lapte 'Kujawianka'",
+            "tip": "Experimentați un bar de lapte autentic pentru o masă rapidă, ieftină și tradițională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sausage sandwich (Kiełbasa)",
+            "tip": "A quick and tasty sausage sandwich from a street vendor."
+          },
+          {
+            "name": "Pączki",
+            "tip": "Treat yourself to a traditional Polish donut for an energy boost."
+          },
+          {
+            "name": "Milk Bar 'Kujawianka'",
+            "tip": "Experience an authentic milk bar for a quick, cheap, and traditional meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg entlang der Weichsel",
+            "tip": "Genießen Sie die Ruhe des Flusses, während Sie wegradeln.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eine Bank im Sienkiewicz-Park",
+            "tip": "Ein großartiger Ort für eine Pause im Schatten der Bäume.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussicht vom Staudamm",
+            "tip": "Schauen Sie über das Wasser und genießen Sie die Weite.",
             "emoji": "🌅"
           }
         ],
         "hu": [
           {
-            "name": "Włocławeki-tó",
-            "tip": "Hatalmas vízfelület és erdős környezet.",
+            "name": "Kerékpárút a Visztula mentén",
+            "tip": "Élvezze a folyó nyugalmát, miközben elteker mellette.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy pad a Sienkiewicz Parkban",
+            "tip": "Nagyszerű hely egy pihenőre a fák árnyékában.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a gátról",
+            "tip": "Nézzen végig a vízen, és élvezze a tágasságot.",
             "emoji": "🌅"
           }
         ],
         "ro": [
           {
-            "name": "Lacul Włocławek",
-            "tip": "Suprafață vastă de apă și zone împădurite.",
+            "name": "Pista de biciclete de-a lungul Vistulei",
+            "tip": "Bucurați-vă de liniștea râului în timp ce pedalați.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O bancă în Parcul Sienkiewicz",
+            "tip": "Un loc minunat pentru o pauză la umbra copacilor.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de pe baraj",
+            "tip": "Priviți peste apă și bucurați-vă de vastitate.",
             "emoji": "🌅"
           }
         ],
         "en": [
           {
-            "name": "Lake Włocławek",
-            "tip": "Vast water surface and surrounding forests.",
+            "name": "Vistula riverside cycle path",
+            "tip": "Enjoy the tranquility of the river as you pedal away.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A bench in Sienkiewicz Park",
+            "tip": "A great spot for a break in the shade of the trees.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the Dam",
+            "tip": "Gaze over the water and enjoy the vastness.",
             "emoji": "🌅"
           }
         ]
@@ -538,49 +678,805 @@
       "shopping_picks": {
         "de": [
           {
-            "name": "Fabryka Fajansu (Sklep)",
-            "tip": "Original Włocławek-Fayence als Souvenir."
+            "name": "Fahrradzubehör",
+            "tip": "Lokale Geschäfte könnten einzigartiges Zubehör für Ihre Tour anbieten."
+          },
+          {
+            "name": "Souvenirs aus dem Museumsshop",
+            "tip": "Kaufen Sie ein kleines Keramikstück, das in Ihre Tasche passt."
           }
         ],
         "hu": [
           {
-            "name": "Fajanszgyár boltja",
-            "tip": "Eredeti włocławeki fajansz szuvenírként."
+            "name": "Kerékpár kiegészítők",
+            "tip": "A helyi boltok egyedi kiegészítőket kínálhatnak a túrájához."
+          },
+          {
+            "name": "Ajándéktárgyak a múzeumi boltból",
+            "tip": "Vásároljon egy kis kerámiát, ami elfér a táskájában."
           }
         ],
         "ro": [
           {
-            "name": "Magazinul Fabricii de Faianță",
-            "tip": "Faianță originală de Włocławek ca suvenir."
+            "name": "Accesorii pentru biciclete",
+            "tip": "Magazinele locale pot oferi accesorii unice pentru turul dvs."
+          },
+          {
+            "name": "Suveniruri de la magazinul muzeului",
+            "tip": "Cumpărați o piesă mică de ceramică care să încapă în geantă."
           }
         ],
         "en": [
           {
-            "name": "Faience Factory Shop",
-            "tip": "Buy original Włocławek faience as a souvenir."
+            "name": "Bike accessories",
+            "tip": "Local shops might offer unique gear for your tour."
+          },
+          {
+            "name": "Museum shop souvenirs",
+            "tip": "Buy a small ceramic piece that can fit in your bag."
           }
         ]
       },
       "tips": {
         "de": [
-          "Der Staudamm ist ein guter Ort für technische Fotografie.",
-          "Parken Sie im Zentrum in der Wzorcownia.",
-          "Die See-Aussichtspunkte sind per Auto am besten erreichbar."
+          "Mieten Sie ein Fahrrad mit Korb für Ihre Sachen.",
+          "Tragen Sie einen Helm und befolgen Sie die Verkehrsregeln.",
+          "Planen Sie Ihre Route im Voraus, aber seien Sie flexibel.",
+          "Nehmen Sie Snacks und Wasser für unterwegs mit."
         ],
         "hu": [
-          "A vízlépcső kiváló helyszín ipari fotózáshoz.",
-          "A belvárosban a Wzorcowniában érdemes parkolni.",
-          "A tóparti kilátópontok autóval érhetők el a legjobban."
+          "Béreljen kosaras kerékpárt a holmijainak.",
+          "Viseljen sisakot és tartsa be a közlekedési szabályokat.",
+          "Tervezze meg előre az útvonalat, de legyen rugalmas.",
+          "Vigyen magával harapnivalót és vizet az útra."
         ],
         "ro": [
-          "Barajul este un loc excelent pentru fotografia tehnică.",
-          "Parcați în centru la Wzorcownia.",
-          "Punctele de belvedere ale lacului sunt cel mai bine accesibile cu mașina."
+          "Închiriați o bicicletă cu coș pentru lucrurile dvs.",
+          "Purtați cască și respectați regulile de circulație.",
+          "Planificați-vă traseul în avans, dar fiți flexibil.",
+          "Luați gustări și apă pentru drum."
         ],
         "en": [
-          "The dam is a great spot for industrial and technical photography.",
-          "Park at the Wzorcownia in the city center.",
-          "Lake viewpoints are best reached and explored by car."
+          "Rent a bike with a basket for your belongings.",
+          "Wear a helmet and follow traffic rules.",
+          "Plan your route in advance but be flexible.",
+          "Bring snacks and water for the journey."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 8.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Altstadt: Parken & Erkunden",
+            "hu": "Óvárosi klaszter: Parkolás és felfedezés",
+            "ro": "Cluster Centrul Vechi: Parcare și explorare",
+            "en": "Old Town Cluster: Park & Explore"
+          },
+          "coords": [
+            19.066,
+            52.651
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Finden Sie einen Parkplatz in der Nähe des Plac Wolności für den Vormittag.",
+            "hu": "Keressen egy parkolót a Plac Wolności közelében a délelőttre.",
+            "ro": "Găsiți o parcare lângă Piața Wolności pentru dimineață.",
+            "en": "Find a parking spot near Plac Wolności for the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedralbasilika Mariä Himmelfahrt",
+            "hu": "Nagyboldogasszony-székesegyház",
+            "ro": "Catedrala Adormirea Maicii Domnului",
+            "en": "Cathedral Basilica of the Assumption"
+          },
+          "coords": [
+            19.064,
+            52.651
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz aus.",
+            "hu": "Egy rövid séta a térről.",
+            "ro": "O scurtă plimbare din piață.",
+            "en": "A short walk from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Vitalis",
+            "hu": "Szent Vitalis-templom",
+            "ro": "Biserica Sfântul Vitalis",
+            "en": "Church of St. Vitalis"
+          },
+          "coords": [
+            19.062,
+            52.649
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:01",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Setzen Sie Ihre historische Erkundung zu Fuß fort.",
+            "hu": "Folytassa a történelmi felfedezést gyalog.",
+            "ro": "Continuați explorarea istorică pe jos.",
+            "en": "Continue your historical exploration on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Museen: Mittagessen & Kultur",
+            "hu": "Múzeumi klaszter: Ebéd és kultúra",
+            "ro": "Cluster Muzee: Prânz și cultură",
+            "en": "Museums Cluster: Lunch & Culture"
+          },
+          "coords": [
+            19.071,
+            52.652
+          ],
+          "category": "museums",
+          "arrive_at": "11:51",
+          "stay_min": 100,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Museumsviertel und parken Sie für den Nachmittag.",
+            "hu": "Vezessen a múzeumi negyedbe, és parkoljon le délutánra.",
+            "ro": "Conduceți în cartierul muzeelor și parcați pentru după-amiază.",
+            "en": "Drive to the museum district and park for the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Fayence-Museum",
+            "hu": "Fajansz Múzeum",
+            "ro": "Muzeul de Faianță",
+            "en": "Faience Museum"
+          },
+          "coords": [
+            19.072,
+            52.653
+          ],
+          "category": "museums",
+          "arrive_at": "13:35",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Direkt nebenan und ein Muss.",
+            "hu": "Közvetlenül a szomszédban, és kihagyhatatlan.",
+            "ro": "Chiar alături și o vizită obligatorie.",
+            "en": "Right next door and a must-see."
+          }
+        },
+        {
+          "name": {
+            "de": "Weichsel-Staudamm",
+            "hu": "Visztula-gát",
+            "ro": "Barajul de pe Vistula",
+            "en": "Vistula River Dam"
+          },
+          "coords": [
+            19.035,
+            52.665
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:20",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.7,
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt zu diesem beeindruckenden Bauwerk.",
+            "hu": "Egy rövid autóút ehhez a lenyűgöző építményhez.",
+            "ro": "O scurtă călătorie cu mașina până la această structură impresionantă.",
+            "en": "A short drive to this impressive structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Sienkiewicz-Park",
+            "hu": "Sienkiewicz Park",
+            "ro": "Parcul Sienkiewicz",
+            "en": "Sienkiewicz Park"
+          },
+          "coords": [
+            19.068,
+            52.645
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:33",
+          "stay_min": 67,
+          "hop_mode": "car",
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Park für einen entspannten Abschluss des Tages.",
+            "hu": "Vezessen a parkba egy pihentető napzáráshoz.",
+            "ro": "Conduceți la parc pentru o încheiere relaxantă a zilei.",
+            "en": "Drive to the park for a relaxing end to the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Leslau effizient in Clustern. Parken Sie morgens in der Altstadt, um den Freiheitsplatz und die historischen Kirchen zu Fuß zu entdecken. Mittags fahren Sie zum Museumsviertel, wo Sie nach dem Mittagessen die kulturellen Schätze der Stadt erkunden. Am späten Nachmittag bringt Sie eine kurze Fahrt zum beeindruckenden Weichsel-Staudamm, bevor Sie den Tag entspannt im Sienkiewicz-Park ausklingen lassen.",
+        "hu": "Autóval hatékonyan, klaszterekben fedezheti fel Włocławeket. Reggel parkoljon le az óvárosban, hogy gyalog fedezze fel a Szabadság teret és a történelmi templomokat. Ebédidőben vezessen át a múzeumi negyedbe, ahol ebéd után felfedezheti a város kulturális kincseit. Késő délután egy rövid autóút elviszi a lenyűgöző Visztula-gáthoz, mielőtt a napot pihenéssel zárná a Sienkiewicz Parkban.",
+        "ro": "Cu mașina, explorați Włocławek eficient, în clustere. Parcați dimineața în Centrul Vechi pentru a descoperi pe jos Piața Libertății și bisericile istorice. La prânz, conduceți spre cartierul muzeelor, unde după masă puteți explora comorile culturale ale orașului. Spre sfârșitul după-amiezii, o scurtă călătorie cu mașina vă duce la impresionantul baraj de pe Vistula, înainte de a încheia ziua relaxându-vă în Parcul Sienkiewicz.",
+        "en": "With a car, you can explore Włocławek efficiently in clusters. Park in the Old Town in the morning to discover Freedom Square and the historic churches on foot. At noon, drive to the museum district, where you can explore the city's cultural treasures after lunch. In the late afternoon, a short drive takes you to the impressive Vistula River Dam, before you end the day relaxing in Sienkiewicz Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gospoda 'Pod Herbem'",
+            "tip": "Ein Restaurant etwas außerhalb des Zentrums, das mit dem Auto leicht erreichbar ist und eine große Auswahl an polnischen Gerichten bietet."
+          },
+          {
+            "name": "Bigos",
+            "tip": "Probieren Sie diesen herzhaften Jägereintopf, eine polnische Spezialität."
+          },
+          {
+            "name": "Konditorei 'Sowa'",
+            "tip": "Perfekt für einen Kaffee- und Kuchenstopp am Nachmittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "'Pod Herbem' Fogadó",
+            "tip": "A központtól kicsit távolabb eső, autóval könnyen megközelíthető étterem, amely lengyel ételek széles választékát kínálja."
+          },
+          {
+            "name": "Bigos",
+            "tip": "Kóstolja meg ezt a kiadós vadászragut, egy lengyel specialitást."
+          },
+          {
+            "name": "'Sowa' Cukrászda",
+            "tip": "Tökéletes egy délutáni kávé- és süteményszünetre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hanul 'Pod Herbem'",
+            "tip": "Un restaurant chiar în afara centrului, ușor accesibil cu mașina, care oferă o gamă largă de mâncăruri poloneze."
+          },
+          {
+            "name": "Bigos",
+            "tip": "Încercați această tocană vânătorească consistentă, o specialitate poloneză."
+          },
+          {
+            "name": "Cofetăria 'Sowa'",
+            "tip": "Perfectă pentru o oprire de după-amiază pentru cafea și prăjituri."
+          }
+        ],
+        "en": [
+          {
+            "name": "'Pod Herbem' Inn",
+            "tip": "A restaurant just outside the center, easily accessible by car, offering a wide range of Polish dishes."
+          },
+          {
+            "name": "Bigos",
+            "tip": "Try this hearty hunter's stew, a Polish specialty."
+          },
+          {
+            "name": "'Sowa' Patisserie",
+            "tip": "Perfect for an afternoon coffee and cake stop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt entlang der Weichsel",
+            "tip": "Genießen Sie die Aussicht vom Auto aus, während Sie zum Staudamm fahren.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtspunkt am Staudamm",
+            "tip": "Ein Ort, um die Kraft des Wassers und die Weite der Landschaft zu betrachten.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Abgelegene Ecke im Sienkiewicz-Park",
+            "tip": "Finden Sie einen ruhigen Platz abseits der Hauptwege.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Autózás a Visztula mentén",
+            "tip": "Élvezze a kilátást az autóból, miközben a gáthoz hajt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátópont a gátnál",
+            "tip": "Egy hely, ahol szemlélheti a víz erejét és a táj tágasságát.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Elhagyatott sarok a Sienkiewicz Parkban",
+            "tip": "Keressen egy csendes helyet a fő utaktól távol.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare cu mașina de-a lungul Vistulei",
+            "tip": "Bucurați-vă de priveliște din mașină în timp ce conduceți spre baraj.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Punct de belvedere la baraj",
+            "tip": "Un loc pentru a contempla puterea apei și vastitatea peisajului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Un colț retras în Parcul Sienkiewicz",
+            "tip": "Găsiți un loc liniștit departe de aleile principale.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Drive along the Vistula",
+            "tip": "Enjoy the views from your car as you drive towards the dam.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Viewpoint at the Dam",
+            "tip": "A place to contemplate the power of the water and the vastness of the landscape.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Secluded corner in Sienkiewicz Park",
+            "tip": "Find a quiet spot away from the main paths.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Großeinkauf von Fayence",
+            "tip": "Mit dem Auto können Sie problemlos größere, zerbrechliche Keramikstücke transportieren."
+          },
+          {
+            "name": "Hofläden in der Umgebung",
+            "tip": "Suchen Sie nach Schildern für 'sprzedaż bezpośrednia' (Direktverkauf) für lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nagybevásárlás fajanszból",
+            "tip": "Autóval könnyedén szállíthat nagyobb, törékeny kerámiadarabokat."
+          },
+          {
+            "name": "Termelői boltok a környéken",
+            "tip": "Keresse a 'sprzedaż bezpośrednia' (közvetlen értékesítés) táblákat a helyi termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cumpărături în vrac de faianță",
+            "tip": "Cu o mașină, puteți transporta cu ușurință piese ceramice mai mari și fragile."
+          },
+          {
+            "name": "Magazine agricole din zonă",
+            "tip": "Căutați semne pentru 'sprzedaż bezpośrednia' (vânzare directă) pentru produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bulk Faience shopping",
+            "tip": "With a car, you can easily transport larger, fragile ceramic pieces."
+          },
+          {
+            "name": "Farm shops in the area",
+            "tip": "Look for signs for 'sprzedaż bezpośrednia' (direct sale) for local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Parkmöglichkeiten und -gebühren im Voraus.",
+          "Ein GPS ist für die Navigation zwischen den Clustern unerlässlich.",
+          "Achten Sie auf Geschwindigkeitsbegrenzungen, insbesondere in Wohngebieten.",
+          "Lassen Sie keine Wertsachen sichtbar im Auto liegen."
+        ],
+        "hu": [
+          "Előre ellenőrizze a parkolási lehetőségeket és díjakat.",
+          "A GPS elengedhetetlen a klaszterek közötti navigációhoz.",
+          "Ügyeljen a sebességhatárokra, különösen lakóövezetekben.",
+          "Ne hagyjon értékeket látható helyen az autóban."
+        ],
+        "ro": [
+          "Verificați în prealabil opțiunile de parcare și taxele.",
+          "Un GPS este esențial pentru a naviga între clustere.",
+          "Fiți atenți la limitele de viteză, în special în zonele rezidențiale.",
+          "Nu lăsați obiecte de valoare la vedere în mașină."
+        ],
+        "en": [
+          "Check parking options and fees in advance.",
+          "A GPS is essential for navigating between clusters.",
+          "Be mindful of speed limits, especially in residential areas.",
+          "Do not leave valuables visible in the car."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:51",
+      "total_km": 7.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Distrikt Altstadt: Ankunft",
+            "hu": "Óvárosi negyed: Érkezés",
+            "ro": "Districtul Centrul Vechi: Sosire",
+            "en": "Old Town District: Arrival"
+          },
+          "coords": [
+            19.067,
+            52.65
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Plac Wolności, um Ihre Erkundung zu beginnen.",
+            "hu": "Menjen busszal a Plac Wolności-ra a felfedezés megkezdéséhez.",
+            "ro": "Luați un autobuz spre Piața Wolności pentru a începe explorarea.",
+            "en": "Take a bus to Plac Wolności to start your exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedralbasilika Mariä Himmelfahrt",
+            "hu": "Nagyboldogasszony-székesegyház",
+            "ro": "Catedrala Adormirea Maicii Domnului",
+            "en": "Cathedral Basilica of the Assumption"
+          },
+          "coords": [
+            19.064,
+            52.651
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:41",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang vom zentralen Platz entfernt.",
+            "hu": "Csak egy rövid sétára a központi tértől.",
+            "ro": "La doar o scurtă plimbare de piața centrală.",
+            "en": "Just a short walk from the central square."
+          }
+        },
+        {
+          "name": {
+            "de": "Distrikt Museen: Kultur & Mittagessen",
+            "hu": "Múzeumi negyed: Kultúra és ebéd",
+            "ro": "Districtul Muzeelor: Cultură și prânz",
+            "en": "Museum District: Culture & Lunch"
+          },
+          "coords": [
+            19.071,
+            52.652
+          ],
+          "category": "museums",
+          "arrive_at": "11:10",
+          "stay_min": 100,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Eine kurze Busfahrt bringt Sie zu den wichtigsten Museen der Stadt.",
+            "hu": "Egy rövid buszút elviszi a város főbb múzeumaihoz.",
+            "ro": "O scurtă călătorie cu autobuzul vă duce la principalele muzee ale orașului.",
+            "en": "A short bus ride will take you to the city's main museums."
+          }
+        },
+        {
+          "name": {
+            "de": "Fayence-Museum",
+            "hu": "Fajansz Múzeum",
+            "ro": "Muzeul de Faianță",
+            "en": "Faience Museum"
+          },
+          "coords": [
+            19.072,
+            52.653
+          ],
+          "category": "museums",
+          "arrive_at": "12:54",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Gehen Sie zu Fuß vom Regionalmuseum aus.",
+            "hu": "Sétáljon át a regionális múzeumból.",
+            "ro": "Mergeți pe jos de la muzeul regional.",
+            "en": "Walk over from the regional museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Weichsel-Staudamm",
+            "hu": "Visztula-gát",
+            "ro": "Barajul de pe Vistula",
+            "en": "Vistula River Dam"
+          },
+          "coords": [
+            19.035,
+            52.665
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:48",
+          "stay_min": 60,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in Richtung Westen, um dieses technische Wunderwerk zu sehen.",
+            "hu": "Menjen busszal nyugat felé, hogy megnézze ezt a mérnöki csodát.",
+            "ro": "Luați un autobuz spre vest pentru a vedea această minune inginerească.",
+            "en": "Take a westbound bus to see this engineering marvel."
+          }
+        },
+        {
+          "name": {
+            "de": "Sienkiewicz-Park",
+            "hu": "Sienkiewicz Park",
+            "ro": "Parcul Sienkiewicz",
+            "en": "Sienkiewicz Park"
+          },
+          "coords": [
+            19.068,
+            52.645
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:11",
+          "stay_min": 100,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein letzter Bus bringt Sie zurück ins Zentrum für einen entspannten Spaziergang.",
+            "hu": "Egy utolsó busz visszaviszi a központba egy pihentető sétára.",
+            "ro": "Un ultim autobuz vă va duce înapoi în centru pentru o plimbare relaxantă.",
+            "en": "A final bus will take you back towards the center for a relaxing walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Leslau bequem mit öffentlichen Verkehrsmitteln. Beginnen Sie in der historischen Altstadt und entdecken Sie die Kirchen zu Fuß. Eine kurze Busfahrt bringt Sie zum Museumsviertel für ein Mittagessen und eine Dosis Kultur. Am Nachmittag fahren Sie mit dem Bus zum beeindruckenden Weichsel-Staudamm. Schließlich kehren Sie ins Zentrum zurück, um den Tag im friedlichen Sienkiewicz-Park ausklingen zu lassen.",
+        "hu": "Fedezze fel Włocławeket kényelmesen a tömegközlekedéssel. Kezdje a történelmi óvárosban, és fedezze fel gyalog a templomokat. Egy rövid buszút elviszi a múzeumi negyedbe egy ebédre és egy adag kultúrára. Délután busszal utazzon a lenyűgöző Visztula-gáthoz. Végül térjen vissza a központba, hogy a napot a békés Sienkiewicz Parkban zárja.",
+        "ro": "Explorați Włocławek convenabil cu transportul public. Începeți în centrul istoric și descoperiți bisericile pe jos. O scurtă călătorie cu autobuzul vă va duce în cartierul muzeelor pentru prânz și o doză de cultură. După-amiaza, luați un autobuz spre impresionantul baraj de pe Vistula. În cele din urmă, întoarceți-vă în centru pentru a încheia ziua în liniștitul Parc Sienkiewicz.",
+        "en": "Explore Włocławek conveniently using public transport. Start in the historic Old Town, discovering the churches on foot. A short bus ride takes you to the museum district for lunch and a dose of culture. In the afternoon, take a bus to the impressive Vistula River Dam. Finally, return to the center to wind down your day in the peaceful Sienkiewicz Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zapiekanka",
+            "tip": "Ein beliebtes polnisches Fastfood, ein offenes Sandwich, das Sie in der Nähe von Bushaltestellen finden können."
+          },
+          {
+            "name": "Barszcz",
+            "tip": "Rote-Bete-Suppe, eine leichte und erfrischende Option."
+          },
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Holen Sie sich Gebäck für die Busfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zapiekanka",
+            "tip": "Népszerű lengyel gyorsétel, egy nyitott szendvics, amelyet buszmegállók közelében találhat."
+          },
+          {
+            "name": "Barszcz",
+            "tip": "Céklaleves, egy könnyű és frissítő lehetőség."
+          },
+          {
+            "name": "Helyi pékség",
+            "tip": "Vegyen péksüteményt a buszútra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zapiekanka",
+            "tip": "Un fast-food polonez popular, un sandviș deschis pe care îl puteți găsi lângă stațiile de autobuz."
+          },
+          {
+            "name": "Barszcz",
+            "tip": "Supă de sfeclă roșie, o opțiune ușoară și răcoritoare."
+          },
+          {
+            "name": "Brutărie locală",
+            "tip": "Luați produse de patiserie pentru călătoria cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zapiekanka",
+            "tip": "A popular Polish fast food, an open-faced sandwich you can find near bus stops."
+          },
+          {
+            "name": "Barszcz",
+            "tip": "Beetroot soup, a light and refreshing option."
+          },
+          {
+            "name": "Local Bakery",
+            "tip": "Grab some pastries for the bus ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blick aus dem Busfenster",
+            "tip": "Beobachten Sie das Stadtleben, während Sie von einem Viertel zum nächsten fahren.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Ufer der Weichsel in der Nähe des Damms",
+            "tip": "Finden Sie einen ruhigen Ort, um dem Rauschen des Wassers zu lauschen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Später Nachmittag im Park",
+            "tip": "Der Park ist später am Tag oft ruhiger.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a busz ablakából",
+            "tip": "Figyelje a városi életet, miközben egyik negyedből a másikba utazik.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "A Visztula partja a gát közelében",
+            "tip": "Keressen egy csendes helyet, ahol hallgathatja a víz zúgását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Késő délután a parkban",
+            "tip": "A park később a nap folyamán gyakran csendesebb.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Privind pe geamul autobuzului",
+            "tip": "Urmăriți viața orașului în timp ce călătoriți dintr-un district în altul.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Malul Vistulei lângă baraj",
+            "tip": "Găsiți un loc liniștit pentru a asculta sunetul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "După-amiaza târziu în parc",
+            "tip": "Parcul este adesea mai liniștit mai târziu în cursul zilei.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the bus window",
+            "tip": "Watch the city life pass by as you travel between districts.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Vistula bank near the dam",
+            "tip": "Find a quiet spot to listen to the sound of the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Late afternoon in the park",
+            "tip": "The park is often quieter later in the day.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske an Bushaltestellen",
+            "tip": "Kaufen Sie eine Zeitung oder ein kleines Souvenir, während Sie auf Ihren Bus warten."
+          },
+          {
+            "name": "Museumsshops",
+            "tip": "Die beste Wahl für hochwertige Souvenirs, die leicht zu transportieren sind."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok a buszmegállókban",
+            "tip": "Vásároljon újságot vagy egy kis szuvenírt, amíg a buszra vár."
+          },
+          {
+            "name": "Múzeumi boltok",
+            "tip": "A legjobb választás minőségi, könnyen szállítható ajándéktárgyakhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri la stațiile de autobuz",
+            "tip": "Cumpărați un ziar sau un mic suvenir în timp ce așteptați autobuzul."
+          },
+          {
+            "name": "Magazinele muzeelor",
+            "tip": "Cea mai bună opțiune pentru suveniruri de calitate, ușor de transportat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks at bus stops",
+            "tip": "Buy a newspaper or a small souvenir while waiting for your bus."
+          },
+          {
+            "name": "Museum shops",
+            "tip": "Your best bet for quality souvenirs that are easy to carry."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Laden Sie eine Nahverkehrs-App für Fahrpläne in Echtzeit herunter.",
+          "Halten Sie Kleingeld für Tickets bereit, wenn Sie beim Fahrer kaufen.",
+          "Validieren Sie Ihr Ticket beim Einsteigen, um eine Strafe zu vermeiden."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Töltsön le egy tömegközlekedési alkalmazást a valós idejű menetrendekért.",
+          "Készítsen elő aprópénzt a jegyekhez, ha a sofőrtől vásárol.",
+          "Érvényesítse a jegyét felszálláskor, hogy elkerülje a büntetést."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Descărcați o aplicație de transport public pentru orare în timp real.",
+          "Aveți la îndemână bani mărunți pentru bilete dacă cumpărați de la șofer.",
+          "Validați-vă biletul la urcare pentru a evita o amendă."
+        ],
+        "en": [
+          "Purchase a day pass for unlimited travel.",
+          "Download a public transport app for real-time schedules.",
+          "Keep small change handy for tickets if buying from the driver.",
+          "Validate your ticket upon boarding to avoid a fine."
         ]
       }
     }

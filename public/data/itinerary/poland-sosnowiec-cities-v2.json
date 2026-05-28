@@ -1,0 +1,1344 @@
+{
+  "city_id": "poland-sosnowiec-cities-v2",
+  "anchor": {
+    "name": "Sosnowiec",
+    "coords": [
+      19.104,
+      50.2863
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Sielecki & Park",
+            "hu": "Sielecki-kastély és Park",
+            "ro": "Castelul și Parcul Sielecki",
+            "en": "Sielecki Castle & Park"
+          },
+          "coords": [
+            19.1015,
+            50.288
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie im Park, um die beste Aussicht auf das Schloss zu genießen.",
+            "hu": "Kezdje a parkban, onnan a legjobb a kilátás a kastélyra.",
+            "ro": "Începeți în parc pentru a avea cea mai bună priveliște asupra castelului.",
+            "en": "Start in the park to get the best views of the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Dietel-Palast",
+            "hu": "Dietel-palota",
+            "ro": "Palatul Dietel",
+            "en": "Dietel Palace"
+          },
+          "coords": [
+            19.1245,
+            50.2785
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:10",
+          "stay_min": 70,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die neobarocken Details der Fassade.",
+            "hu": "Figyelje meg a homlokzat neobarokk részleteit.",
+            "ro": "Observați detaliile neobaroce ale fațadei.",
+            "en": "Look for the neo-baroque details on the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Mariä Himmelfahrt",
+            "hu": "Nagyboldogasszony-székesegyház",
+            "ro": "Catedrala Adormirea Maicii Domnului",
+            "en": "Cathedral of the Assumption of the Blessed Virgin Mary"
+          },
+          "coords": [
+            19.128,
+            50.2801
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Glasfenster sind besonders beeindruckend am Nachmittag.",
+            "hu": "Az üvegablakok délután különösen lenyűgözőek.",
+            "ro": "Vitraliile sunt deosebit de impresionante după-amiaza.",
+            "en": "The stained glass windows are especially impressive in the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Innenstadt",
+            "hu": "Ebéd a belvárosban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city center"
+          },
+          "coords": [
+            19.126,
+            50.279
+          ],
+          "category": "gastro",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie die regionalen Piroggen in einem der kleinen Restaurants.",
+            "hu": "Kóstolja meg a regionális pirogot az egyik kis étteremben.",
+            "ro": "Încercați pierogi regionali într-unul dintre micile restaurante.",
+            "en": "Try the regional pierogi in one of the small restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Zagłębie-Museum",
+            "hu": "Zagłębie Múzeum",
+            "ro": "Muzeul Zagłębie",
+            "en": "Zagłębie Museum"
+          },
+          "coords": [
+            19.1205,
+            50.2795
+          ],
+          "category": "museums",
+          "arrive_at": "15:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Ausstellungen zur Industriegeschichte der Region.",
+            "hu": "Koncentráljon a régió ipartörténeti kiállításaira.",
+            "ro": "Concentrați-vă pe expozițiile despre istoria industrială a regiunii.",
+            "en": "Focus on the exhibits about the region's industrial history."
+          }
+        },
+        {
+          "name": {
+            "de": "Schönhöfer Palast",
+            "hu": "Schön-palota",
+            "ro": "Palatul Schön",
+            "en": "Schön Palace"
+          },
+          "coords": [
+            19.098,
+            50.286
+          ],
+          "category": "famous residences",
+          "arrive_at": "17:20",
+          "stay_min": 65,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Heute ein Gerichtsgebäude, aber die äußere Architektur ist immer noch sehenswert.",
+            "hu": "Ma bírósági épület, de a külső építészete még mindig megér egy látogatást.",
+            "ro": "Astăzi este o clădire de judecată, dar arhitectura exterioară încă merită văzută.",
+            "en": "It's a courthouse today, but the exterior architecture is still worth seeing."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Rundgang durch Sosnowiec beginnt am historischen Schloss Sielecki, umgeben von einem ruhigen Park. Am Vormittag erkunden Sie die prächtigen Residenzen der Industriellenmagnaten, wie den Dietel-Palast, und bewundern die imposante Kathedrale Mariä Himmelfahrt. Nach einem stärkenden Mittagessen mit schlesischen Spezialitäten tauchen Sie am Nachmittag im Zagłębie-Museum in die reiche Industriegeschichte der Region ein. Zum Abschluss des Tages spazieren Sie zum Schönhöfer Palast und lassen die architektonischen Eindrücke auf sich wirken, während der Tag ausklingt.",
+        "hu": "Sosnowieci sétája a történelmi Sielecki-kastélynál kezdődik, melyet egy békés park ölel körül. Délelőtt felfedezi az iparmágnások pazar rezidenciáit, mint a Dietel-palotát, és megcsodálja a Nagyboldogasszony-székesegyház impozáns épületét. Egy kiadós, sziléziai specialitásokból álló ebéd után délután a Zagłębie Múzeumban merül el a régió gazdag ipartörténetében. A nap végén átsétál a Schön-palotához, és hagyja, hogy az építészeti benyomások leülepedjenek, miközben a nap véget ér.",
+        "ro": "Turul dumneavoastră pietonal prin Sosnowiec începe la istoricul Castel Sielecki, înconjurat de un parc liniștit. Dimineața, explorați reședințele opulente ale magnaților industriali, precum Palatul Dietel, și admirați impunătoarea Catedrală a Adormirii Maicii Domnului. După un prânz consistent cu specialități sileziene, după-amiaza vă scufundați în bogata istorie industrială a regiunii la Muzeul Zagłębie. Încheiați ziua cu o plimbare la Palatul Schön, absorbind impresiile arhitecturale pe măsură ce ziua se apropie de sfârșit.",
+        "en": "Your walking tour of Sosnowiec begins at the historic Sielecki Castle, surrounded by a tranquil park. In the morning, you'll explore the opulent residences of industrial magnates, like the Dietel Palace, and admire the imposing Cathedral of the Assumption. After a hearty lunch with Silesian specialties, you'll dive into the region's rich industrial history at the Zagłębie Museum in the afternoon. To conclude the day, you'll stroll to the Schön Palace, taking in the architectural impressions as the day winds down."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pierogi Śląskie",
+            "tip": "Gefüllte Teigtaschen, oft mit Kartoffeln und Käse. Suchen Sie nach 'Stara Pączkarnia' für eine authentische Erfahrung."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Eine saure Roggenmehlsuppe, ein polnischer Klassiker. 'Restauracja Warszawska' serviert eine hervorragende Version."
+          },
+          {
+            "name": "Rolada Śląska",
+            "tip": "Rinderroulade gefüllt mit Speck, Gurken und Zwiebeln. Ein Muss in der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sziléziai Pirog",
+            "tip": "Töltött tésztabatyu, gyakran krumplival és sajttal. Keresse a 'Stara Pączkarnia'-t egy autentikus élményért."
+          },
+          {
+            "name": "Żurek leves",
+            "tip": "Savanykás rozslisztleves, egy lengyel klasszikus. A 'Restauracja Warszawska' kiváló változatot kínál."
+          },
+          {
+            "name": "Sziléziai Tekercs (Rolada)",
+            "tip": "Marhahústekercs szalonnával, uborkával és hagymával töltve. Kötelező a régióban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierogi Sileziene",
+            "tip": "Găluște umplute, adesea cu cartofi și brânză. Căutați 'Stara Pączkarnia' pentru o experiență autentică."
+          },
+          {
+            "name": "Supă Żurek",
+            "tip": "O supă acră de secară, un clasic polonez. 'Restauracja Warszawska' servește o versiune excelentă."
+          },
+          {
+            "name": "Roladă Sileziană",
+            "tip": "Ruladă de vită umplută cu slănină, castraveți și ceapă. O necesitate în regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Silesian Pierogi",
+            "tip": "Dumplings often filled with potatoes and cheese. Look for 'Stara Pączkarnia' for an authentic experience."
+          },
+          {
+            "name": "Żurek Soup",
+            "tip": "A sour rye flour soup, a Polish classic. 'Restauracja Warszawska' serves an excellent version."
+          },
+          {
+            "name": "Silesian Roulade (Rolada)",
+            "tip": "Beef roulade stuffed with bacon, pickles, and onions. A must-try in the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sielecki-Park",
+            "tip": "Ein ruhiger Ort für einen Spaziergang am Morgen, besonders in der Nähe des Teiches. 🏞️",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer der Czarna Przemsza",
+            "tip": "Finden Sie eine Bank am Flussufer für eine friedliche Pause vom Stadttrubel. 🧘",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kathedralengarten",
+            "tip": "Der kleine Garten hinter der Kathedrale ist oft menschenleer. 🍃",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sielecki Park",
+            "tip": "Csendes hely egy reggeli sétához, különösen a tó környékén. 🏞️",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Czarna Przemsza folyópart",
+            "tip": "Keressen egy padot a folyóparton egy békés szünetre a város zajától. 🧘",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Székesegyház kertje",
+            "tip": "A székesegyház mögötti kis kert gyakran elhagyatott. 🍃",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Sielecki",
+            "tip": "Un loc liniștit pentru o plimbare de dimineață, mai ales lângă iaz. 🏞️",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malurile râului Czarna Przemsza",
+            "tip": "Găsiți o bancă pe malul râului pentru o pauză liniștită de agitația orașului. 🧘",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădina Catedralei",
+            "tip": "Mica grădină din spatele catedralei este adesea goală. 🍃",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sielecki Park",
+            "tip": "A quiet spot for a morning stroll, especially near the pond. 🏞️",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the Czarna Przemsza River",
+            "tip": "Find a bench by the river for a peaceful break from the city bustle. 🧘",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Cathedral Garden",
+            "tip": "The small garden behind the cathedral is often empty. 🍃",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ulica Modrzejowska",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus lokalen und nationalen Geschäften."
+          },
+          {
+            "name": "Lokale Handwerksläden",
+            "tip": "Suchen Sie nach kleinen Geschäften, die schlesische Keramik oder Holzschnitzereien verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Modrzejowska utca",
+            "tip": "A fő bevásárlóutca helyi és országos üzletek keverékével."
+          },
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keressen kis boltokat, amelyek sziléziai kerámiát vagy fafaragásokat árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Modrzejowska",
+            "tip": "Principala stradă comercială cu un amestec de magazine locale și naționale."
+          },
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Căutați magazine mici care vând ceramică sileziană sau sculpturi în lemn."
+          }
+        ],
+        "en": [
+          {
+            "name": "Modrzejowska Street",
+            "tip": "The main shopping street with a mix of local and national stores."
+          },
+          {
+            "name": "Local Artisan Shops",
+            "tip": "Look for small shops selling Silesian pottery or wood carvings."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Museen sind montags geschlossen, planen Sie also entsprechend.",
+          "Halten Sie immer etwas Bargeld für kleinere Einkäufe oder Trinkgelder bereit.",
+          "Ein kleiner Stadtplan ist hilfreich, obwohl das Zentrum recht kompakt ist."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakő egyenetlen lehet a belvárosban.",
+          "A legtöbb múzeum hétfőn zárva tart, ezért tervezzen ennek megfelelően.",
+          "Mindig tartson magánál készpénzt kisebb vásárlásokhoz vagy borravalóhoz.",
+          "Egy kis várostérkép hasznos, bár a központ meglehetősen kompakt."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din centrul vechi poate fi denivelat.",
+          "Majoritatea muzeelor sunt închise lunea, așa că planificați-vă vizita în consecință.",
+          "Aveți întotdeauna niște bani cash la dumneavoastră pentru cumpărături mici sau bacșișuri.",
+          "O mică hartă a orașului este utilă, deși centrul este destul de compact."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Most museums are closed on Mondays, so plan accordingly.",
+          "Always keep some cash on hand for smaller purchases or tips.",
+          "A small city map is helpful, although the center is quite compact."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Sielecki & Park",
+            "hu": "Sielecki-kastély és Park",
+            "ro": "Castelul și Parcul Sielecki",
+            "en": "Sielecki Castle & Park"
+          },
+          "coords": [
+            19.1015,
+            50.288
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Eingang des Parks an und erkunden Sie die Gegend zu Fuß.",
+            "hu": "Zárja le a biciklit a park bejáratánál, és fedezze fel a területet gyalog.",
+            "ro": "Legați-vă bicicleta la intrarea în parc și explorați zona pe jos.",
+            "en": "Lock your bike at the park entrance and explore the area on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Schönhöfer Palast",
+            "hu": "Schön-palota",
+            "ro": "Palatul Schön",
+            "en": "Schön Palace"
+          },
+          "coords": [
+            19.098,
+            50.286
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um die beeindruckende Fassade zu fotografieren.",
+            "hu": "Egy rövid megálló, hogy lefotózza a lenyűgöző homlokzatot.",
+            "ro": "O oprire scurtă pentru a fotografia fațada impresionantă.",
+            "en": "A quick stop to photograph the impressive facade."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Joachim-Kirche",
+            "hu": "Szent Joachim-templom",
+            "ro": "Biserica Sfântul Ioachim",
+            "en": "St. Joachim's Church"
+          },
+          "coords": [
+            19.135,
+            50.275
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine weniger bekannte Kirche mit einer ruhigen Atmosphäre.",
+            "hu": "Egy kevésbé ismert templom, békés légkörrel.",
+            "ro": "O biserică mai puțin cunoscută, cu o atmosferă liniștită.",
+            "en": "A lesser-known church with a peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Dietel-Palast & Kathedrale",
+            "hu": "Dietel-palota és Székesegyház",
+            "ro": "Palatul Dietel și Catedrala",
+            "en": "Dietel Palace & Cathedral"
+          },
+          "coords": [
+            19.126,
+            50.279
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und erkunden Sie beide Sehenswürdigkeiten, da sie nahe beieinander liegen.",
+            "hu": "Parkolja le a biciklit, és fedezze fel mindkét látnivalót, mivel közel vannak egymáshoz.",
+            "ro": "Parcați bicicleta și explorați ambele atracții, deoarece sunt apropiate.",
+            "en": "Park your bike and explore both sights as they are close to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            19.127,
+            50.281
+          ],
+          "category": "gastro",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suchen Sie ein Restaurant mit Fahrradständern in der Nähe.",
+            "hu": "Keressen egy éttermet, ahol van a közelben kerékpártároló.",
+            "ro": "Căutați un restaurant cu suporturi pentru biciclete în apropiere.",
+            "en": "Look for a restaurant with bike racks nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Zagłębie-Museum",
+            "hu": "Zagłębie Múzeum",
+            "ro": "Muzeul Zagłębie",
+            "en": "Zagłębie Museum"
+          },
+          "coords": [
+            19.1205,
+            50.2795
+          ],
+          "category": "museums",
+          "arrive_at": "15:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein idealer Ort, um der Nachmittagshitze zu entkommen und etwas zu lernen.",
+            "hu": "Ideális hely a délutáni hőség elől való menekülésre és tanulásra.",
+            "ro": "Un loc ideal pentru a scăpa de căldura de după-amiază și a învăța ceva.",
+            "en": "An ideal place to escape the afternoon heat and learn something."
+          }
+        },
+        {
+          "name": {
+            "de": "Exotarium",
+            "hu": "Exotárium",
+            "ro": "Exotarium",
+            "en": "Exotarium"
+          },
+          "coords": [
+            19.155,
+            50.289
+          ],
+          "category": "natural features",
+          "arrive_at": "17:22",
+          "stay_min": 42,
+          "hop_from_prev_min": 42,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der perfekte Abschluss des Tages, umgeben von exotischen Pflanzen und Tieren.",
+            "hu": "Tökéletes befejezése a napnak, egzotikus növényekkel és állatokkal körülvéve.",
+            "ro": "Finalul perfect al zilei, înconjurat de plante și animale exotice.",
+            "en": "The perfect end to the day, surrounded by exotic plants and animals."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auf zwei Rädern beginnt Ihr Tag im grünen Sielecki-Park. Von dort radeln Sie zu den architektonischen Juwelen der Stadt, dem Schönhöfer Palast und der St.-Joachim-Kirche, bevor Sie das Zentrum erreichen. Hier stellen Sie Ihr Fahrrad ab, um den Dietel-Palast und die Kathedrale zu Fuß zu erkunden. Nach dem Mittagessen bietet das Zagłębie-Museum eine kühle und lehrreiche Pause. Die letzte Etappe führt Sie durch die Stadt zum Exotarium, einem grünen Paradies, das einen entspannten Abschluss für Ihren aktiven Tag bietet.",
+        "hu": "Két keréken a nap a zöld Sielecki Parkban kezdődik. Innen a város építészeti gyöngyszemeihez, a Schön-palotához és a Szent Joachim-templomhoz teker, mielőtt elérné a központot. Itt leteszi a biciklit, hogy gyalog fedezze fel a Dietel-palotát és a székesegyházat. Ebéd után a Zagłębie Múzeum hűsítő és tanulságos pihenőt kínál. Az utolsó szakasz a városon keresztül az Exotáriumba vezet, egy zöld paradicsomba, amely pihentető befejezést nyújt az aktív napnak.",
+        "ro": "Pe două roți, ziua începe în Parcul verde Sielecki. De acolo, pedalați spre bijuteriile arhitecturale ale orașului, Palatul Schön și Biserica Sf. Ioachim, înainte de a ajunge în centru. Aici vă lăsați bicicleta pentru a explora pe jos Palatul Dietel și Catedrala. După prânz, Muzeul Zagłębie oferă o pauză răcoroasă și educativă. Ultima etapă vă duce prin oraș la Exotarium, un paradis verde care oferă un final relaxant pentru ziua dumneavoastră activă.",
+        "en": "On two wheels, your day begins in the green Sielecki Park. From there, you'll cycle to the city's architectural gems, Schön Palace and St. Joachim's Church, before reaching the center. Here, you'll park your bike to explore Dietel Palace and the Cathedral on foot. After lunch, the Zagłębie Museum offers a cool and educational break. The final leg takes you across the city to the Exotarium, a green paradise providing a relaxing end to your active day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zapiekanka",
+            "tip": "Ein geröstetes Baguette mit Käse und Pilzen, perfektes schnelles Essen für Radfahrer. Am Hauptbahnhof erhältlich."
+          },
+          {
+            "name": "Kiełbasa z grilla",
+            "tip": "Gegrillte Wurst, oft an Ständen in Parks oder bei Veranstaltungen verkauft."
+          },
+          {
+            "name": "Restauracja Magiel Kulinarny",
+            "tip": "Ein schönes Restaurant, um sich nach einem Tag im Sattel mit gehobener polnischer Küche zu belohnen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zapiekanka",
+            "tip": "Pirított bagett sajttal és gombával, tökéletes gyorsétel bicikliseknek. A főpályaudvarnál kapható."
+          },
+          {
+            "name": "Grillezett Kolbász (Kiełbasa)",
+            "tip": "Gyakran árulják standokon parkokban vagy rendezvényeken."
+          },
+          {
+            "name": "Restauracja Magiel Kulinarny",
+            "tip": "Egy kellemes étterem, ahol egy nyeregben töltött nap után megjutalmazhatja magát a kifinomult lengyel konyhával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zapiekanka",
+            "tip": "O baghetă prăjită cu brânză și ciuperci, o masă rapidă perfectă pentru bicicliști. Disponibilă lângă gara principală."
+          },
+          {
+            "name": "Kiełbasa la grătar",
+            "tip": "Cârnați la grătar, adesea vânduți la standuri în parcuri sau la evenimente."
+          },
+          {
+            "name": "Restauracja Magiel Kulinarny",
+            "tip": "Un restaurant frumos pentru a vă răsfăța cu bucătărie poloneză rafinată după o zi în șa."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zapiekanka",
+            "tip": "A toasted baguette with cheese and mushrooms, perfect fast food for cyclists. Available near the main train station."
+          },
+          {
+            "name": "Grilled Kiełbasa",
+            "tip": "Grilled sausage, often sold at stalls in parks or at events."
+          },
+          {
+            "name": "Restauracja Magiel Kulinarny",
+            "tip": "A nice restaurant to reward yourself with refined Polish cuisine after a day in the saddle."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Exotarium-Gärten",
+            "tip": "Abseits der Hauptpfade finden Sie ruhige Ecken zwischen den exotischen Pflanzen. 🍃",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sielecki-Park",
+            "tip": "Ideal für eine Pause, bevor Sie Ihre Radtour durch die Stadt beginnen. 🏞️",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Exotárium kertjei",
+            "tip": "A fő ösvényektől távolabb csendes sarkokat találhat az egzotikus növények között. 🍃",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sielecki Park",
+            "tip": "Ideális egy pihenőre, mielőtt elkezdené a városi biciklitúrát. 🏞️",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Exotariumului",
+            "tip": "Departe de potecile principale, veți găsi colțuri liniștite printre plantele exotice. 🍃",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Sielecki",
+            "tip": "Ideal pentru o pauză înainte de a începe turul cu bicicleta prin oraș. 🏞️",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Exotarium Gardens",
+            "tip": "Off the main paths, you'll find quiet corners among the exotic plants. 🍃",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sielecki Park",
+            "tip": "Ideal for a break before starting your bike tour of the city. 🏞️",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Möglicherweise benötigen Sie Zubehör oder eine schnelle Reparatur. Suchen Sie nach 'sklep rowerowy'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Szüksége lehet kiegészítőkre vagy egy gyors javításra. Keresse a 'sklep rowerowy'-t."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "S-ar putea să aveți nevoie de accesorii sau de o reparație rapidă. Căutați 'sklep rowerowy'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "You might need accessories or a quick repair. Look for 'sklep rowerowy'."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck, bevor Sie losfahren.",
+          "Einige Straßen haben möglicherweise keine ausgewiesenen Radwege, seien Sie also vorsichtig.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit, um hydriert zu bleiben.",
+          "Ein Helm wird für die Sicherheit dringend empfohlen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Néhány úton lehet, hogy nincs kijelölt kerékpárút, ezért legyen óvatos.",
+          "Hozzon magával egy újrafelhasználható vizes palackot, hogy hidratált maradjon.",
+          "A sisak használata erősen ajánlott a biztonság érdekében."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de a porni.",
+          "Unele străzi s-ar putea să nu aibă piste de biciclete dedicate, așa că fiți prudenți.",
+          "Luați o sticlă de apă reutilizabilă pentru a rămâne hidratat.",
+          "O cască este puternic recomandată pentru siguranță."
+        ],
+        "en": [
+          "Check your tire pressure before you set off.",
+          "Some streets may not have dedicated bike lanes, so be cautious.",
+          "Bring a reusable water bottle to stay hydrated.",
+          "A helmet is strongly recommended for safety."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 18.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Exotarium & Botanischer Garten",
+            "hu": "Exotárium és Botanikus Kert",
+            "ro": "Exotarium și Grădina Botanică",
+            "en": "Exotarium & Botanical Garden"
+          },
+          "coords": [
+            19.155,
+            50.289
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und beginnen Sie den Tag im Grünen. Es gibt oft genügend Parkplätze am Morgen.",
+            "hu": "Parkoljon itt, és kezdje a napot a zöldben. Reggelente általában van elég parkolóhely.",
+            "ro": "Parcați aici și începeți ziua în natură. De obicei, dimineața există suficiente locuri de parcare.",
+            "en": "Park here and start the day surrounded by nature. There's usually ample parking in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang im Exotarium-Park",
+            "hu": "Séta az Exotárium parkjában",
+            "ro": "Plimbare în parcul Exotarium",
+            "en": "Walk in the Exotarium Park"
+          },
+          "coords": [
+            19.156,
+            50.288
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die Außenanlagen, die oft übersehen werden.",
+            "hu": "Fedezze fel a külső területeket, amelyeket gyakran figyelmen kívül hagynak.",
+            "ro": "Explorați terenurile exterioare, care sunt adesea trecute cu vederea.",
+            "en": "Explore the outdoor grounds, which are often overlooked."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Sielecki & Park",
+            "hu": "Sielecki-kastély és Park",
+            "ro": "Castelul și Parcul Sielecki",
+            "en": "Sielecki Castle & Park"
+          },
+          "coords": [
+            19.1015,
+            50.288
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Finden Sie einen Parkplatz in der Nähe und genießen Sie das Schloss und den umliegenden Park.",
+            "hu": "Keressen egy közeli parkolót, és élvezze a kastélyt és a környező parkot.",
+            "ro": "Găsiți o parcare în apropiere și bucurați-vă de castel și de parcul înconjurător.",
+            "en": "Find a nearby parking spot and enjoy the castle and its surrounding park."
+          }
+        },
+        {
+          "name": {
+            "de": "Schönhöfer Palast",
+            "hu": "Schön-palota",
+            "ro": "Palatul Schön",
+            "en": "Schön Palace"
+          },
+          "coords": [
+            19.098,
+            50.286
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Sielecki-Park aus. Bewundern Sie die Architektur von außen.",
+            "hu": "Rövid séta a Sielecki Parkból. Csodálja meg az építészetet kívülről.",
+            "ro": "O scurtă plimbare din Parcul Sielecki. Admirați arhitectura exterioară.",
+            "en": "A short walk from Sielecki Park. Admire the architecture from the outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentrum: Kathedrale & Dietel-Palast",
+            "hu": "Központ: Székesegyház és Dietel-palota",
+            "ro": "Centru: Catedrala și Palatul Dietel",
+            "en": "Center: Cathedral & Dietel Palace"
+          },
+          "coords": [
+            19.127,
+            50.279
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 9.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in einem Parkhaus und erkunden Sie diesen Cluster zu Fuß. Mittagessen hier einplanen.",
+            "hu": "Parkoljon egy parkolóházban, és fedezze fel ezt a csoportot gyalog. Tervezze ide az ebédet.",
+            "ro": "Parcați într-o parcare supraetajată și explorați acest cluster pe jos. Planificați prânzul aici.",
+            "en": "Park in a parking garage and explore this cluster on foot. Plan for lunch here."
+          }
+        },
+        {
+          "name": {
+            "de": "Zagłębie-Museum",
+            "hu": "Zagłębie Múzeum",
+            "ro": "Muzeul Zagłębie",
+            "en": "Zagłębie Museum"
+          },
+          "coords": [
+            19.1205,
+            50.2795
+          ],
+          "category": "museums",
+          "arrive_at": "14:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Dietel-Palast. Perfekt für den Nachmittag.",
+            "hu": "Csak egy rövid séta a Dietel-palotától. Tökéletes délutánra.",
+            "ro": "La doar o scurtă plimbare de Palatul Dietel. Perfect pentru după-amiază.",
+            "en": "Just a short walk from Dietel Palace. Perfect for the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Abschiedskaffee im Zentrum",
+            "hu": "Búcsúkávé a központban",
+            "ro": "Cafea de rămas bun în centru",
+            "en": "Farewell coffee in the center"
+          },
+          "coords": [
+            19.128,
+            50.28
+          ],
+          "category": "gastro",
+          "arrive_at": "16:40",
+          "stay_min": 49,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag in einem der Cafés nahe der Kathedrale ausklingen.",
+            "hu": "Zárja a napot a székesegyház melletti kávézók egyikében.",
+            "ro": "Încheiați ziua la una dintre cafenelele de lângă catedrală.",
+            "en": "End your day at one of the cafes near the cathedral."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto beginnen Sie den Tag im grünen Exotarium, um dem Stadtverkehr zu entgehen. Nach einem entspannten Spaziergang fahren Sie zum historischen Cluster um das Schloss Sielecki und den Schönhöfer Palast. Am Mittag steuern Sie das Stadtzentrum an, parken das Auto und erkunden die Highlights wie die Kathedrale und den Dietel-Palast zu Fuß. Den Nachmittag verbringen Sie im nahegelegenen Zagłębie-Museum, bevor Sie bei einem Kaffee im Zentrum die Eindrücke des Tages Revue passieren lassen und zum Auto zurückkehren.",
+        "hu": "Autóval a napot a zöld Exotáriumban kezdi, hogy elkerülje a városi forgalmat. Egy pihentető séta után a Sielecki-kastély és a Schön-palota körüli történelmi negyedbe hajt. Délben a városközpontot célozza meg, leparkolja az autót, és gyalog fedezi fel az olyan látnivalókat, mint a székesegyház és a Dietel-palota. A délutánt a közeli Zagłębie Múzeumban tölti, mielőtt egy belvárosi kávé mellett áttekinti a nap benyomásait, és visszatér az autóhoz.",
+        "ro": "Cu mașina, începeți ziua la verdele Exotarium pentru a evita traficul urban. După o plimbare relaxantă, conduceți către clusterul istoric din jurul Castelului Sielecki și al Palatului Schön. La prânz, vă îndreptați spre centrul orașului, parcați mașina și explorați pe jos atracțiile principale, cum ar fi Catedrala și Palatul Dietel. Petreceți după-amiaza la Muzeul Zagłębie din apropiere, înainte de a rememora impresiile zilei la o cafea în centru și de a vă întoarce la mașină.",
+        "en": "By car, you start the day at the green Exotarium to avoid city traffic. After a relaxing walk, you drive to the historic cluster around Sielecki Castle and Schön Palace. At noon, you head to the city center, park the car, and explore highlights like the Cathedral and Dietel Palace on foot. You'll spend the afternoon at the nearby Zagłębie Museum before reviewing the day's impressions over a coffee in the center and returning to your car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Karczma Słupska",
+            "tip": "Ein traditionelles Gasthaus, das oft Parkplätze bietet und deftige polnische Küche serviert."
+          },
+          {
+            "name": "Pizzeria 'Szybki Kąsek'",
+            "tip": "Ideal für ein schnelles Mittagessen zwischen den Besichtigungen, wenn Sie mit dem Auto unterwegs sind."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Karczma Słupska",
+            "tip": "Hagyományos fogadó, amely gyakran kínál parkolási lehetőséget és kiadós lengyel ételeket szolgál fel."
+          },
+          {
+            "name": "Pizzeria 'Szybki Kąsek'",
+            "tip": "Ideális egy gyors ebédhez a látnivalók között, ha autóval utazik."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Karczma Słupska",
+            "tip": "Un han tradițional care oferă adesea parcare și servește mâncăruri poloneze consistente."
+          },
+          {
+            "name": "Pizzeria 'Szybki Kąsek'",
+            "tip": "Ideal pentru un prânz rapid între vizite, dacă călătoriți cu mașina."
+          }
+        ],
+        "en": [
+          {
+            "name": "Karczma Słupska",
+            "tip": "A traditional inn that often offers parking and serves hearty Polish cuisine."
+          },
+          {
+            "name": "Pizzeria 'Szybki Kąsek'",
+            "tip": "Ideal for a quick lunch between sights when traveling by car."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sielecki-Park",
+            "tip": "Ein weitläufiger Park, der sich perfekt für eine Pause zwischen den Autofahrten eignet. 🏞️",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Exotarium-Außengelände",
+            "tip": "Bevor die Menschenmassen eintreffen, ist es hier am Morgen besonders friedlich. 🍃",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sielecki Park",
+            "tip": "Tágas park, amely tökéletes egy pihenőre az autós utak között. 🏞️",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Exotárium külső területe",
+            "tip": "Mielőtt a tömeg megérkezik, reggel különösen békés itt. 🍃",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Sielecki",
+            "tip": "Un parc întins, perfect pentru o pauză între drumuri. 🏞️",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Terenurile exterioare ale Exotariumului",
+            "tip": "Este deosebit de pașnic aici dimineața, înainte de sosirea mulțimilor. 🍃",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sielecki Park",
+            "tip": "A spacious park perfect for a break between drives. 🏞️",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Exotarium Outdoor Grounds",
+            "tip": "It's especially peaceful here in the morning before the crowds arrive. 🍃",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Einkaufszentrum Plejada",
+            "tip": "Ein großes Einkaufszentrum am Stadtrand, leicht mit dem Auto zu erreichen, für alle Bedürfnisse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plejada Bevásárlóközpont",
+            "tip": "Nagy bevásárlóközpont a város szélén, autóval könnyen megközelíthető, minden igényt kielégít."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Plejada",
+            "tip": "Un centru comercial mare la marginea orașului, ușor accesibil cu mașina, pentru toate nevoile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Plejada Shopping Centre",
+            "tip": "A large shopping center on the outskirts of the city, easily accessible by car, for all your needs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie Park-and-Ride-Möglichkeiten, wenn verfügbar, um den Verkehr im Zentrum zu vermeiden.",
+          "Laden Sie eine Offline-Karte herunter, falls die mobile Datenverbindung schlecht ist.",
+          "Achten Sie auf Parkgebühren und -beschränkungen im Stadtzentrum.",
+          "Planen Sie zusätzliche Zeit für den Verkehr während der Stoßzeiten ein."
+        ],
+        "hu": [
+          "Használja a P+R lehetőségeket, ha rendelkezésre állnak, hogy elkerülje a belvárosi forgalmat.",
+          "Töltsön le egy offline térképet, ha rossz a mobil adatkapcsolat.",
+          "Ügyeljen a parkolási díjakra és korlátozásokra a városközpontban.",
+          "Tervezzen plusz időt a csúcsforgalom idejére."
+        ],
+        "ro": [
+          "Utilizați opțiunile Park-and-Ride, dacă sunt disponibile, pentru a evita traficul din centru.",
+          "Descărcați o hartă offline în caz de conexiune slabă la date mobile.",
+          "Fiți atenți la taxele de parcare și la restricțiile din centrul orașului.",
+          "Planificați timp suplimentar pentru trafic în timpul orelor de vârf."
+        ],
+        "en": [
+          "Use Park and Ride options if available to avoid city center traffic.",
+          "Download an offline map in case of poor mobile data connection.",
+          "Be aware of parking fees and restrictions in the city center.",
+          "Plan for extra time for traffic during peak hours."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentrum: Dietel-Palast",
+            "hu": "Központ: Dietel-palota",
+            "ro": "Centru: Palatul Dietel",
+            "en": "Center: Dietel Palace"
+          },
+          "coords": [
+            19.1245,
+            50.2785
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, da viele Bus- und Straßenbahnlinien in der Nähe halten.",
+            "hu": "Kezdje itt, mivel sok busz- és villamosvonal megáll a közelben.",
+            "ro": "Începeți aici, deoarece multe linii de autobuz și tramvai opresc în apropiere.",
+            "en": "Start here as many bus and tram lines stop nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale & Zagłębie-Museum",
+            "hu": "Székesegyház és Zagłębie Múzeum",
+            "ro": "Catedrala și Muzeul Zagłębie",
+            "en": "Cathedral & Zagłębie Museum"
+          },
+          "coords": [
+            19.126,
+            50.2795
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:12",
+          "stay_min": 150,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden liegen nahe beieinander, ideal für einen kombinierten Vormittagsbesuch.",
+            "hu": "Ez a kettő közel van egymáshoz, ideális egy kombinált délelőtti látogatáshoz.",
+            "ro": "Aceste două sunt aproape una de cealaltă, ideale pentru o vizită combinată de dimineață.",
+            "en": "These two are close together, ideal for a combined morning visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a belvárosban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city center"
+          },
+          "coords": [
+            19.127,
+            50.281
+          ],
+          "category": "gastro",
+          "arrive_at": "12:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zahlreiche Optionen sind vom Museum aus zu Fuß erreichbar.",
+            "hu": "Számos lehetőség sétatávolságra van a múzeumtól.",
+            "ro": "Numeroase opțiuni sunt la distanță de mers pe jos de muzeu.",
+            "en": "Numerous options are within walking distance of the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Sielecki & Park",
+            "hu": "Sielecki-kastély és Park",
+            "ro": "Castelul și Parcul Sielecki",
+            "en": "Sielecki Castle & Park"
+          },
+          "coords": [
+            19.1015,
+            50.288
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in Richtung Westen. Die Haltestelle ist normalerweise 'Sielecki Park'.",
+            "hu": "Menjen egy nyugati irányú busszal. A megálló általában 'Sielecki Park'.",
+            "ro": "Luați un autobuz spre vest. Stația este de obicei 'Sielecki Park'.",
+            "en": "Take a westbound bus. The stop is usually 'Sielecki Park'."
+          }
+        },
+        {
+          "name": {
+            "de": "Schönhöfer Palast",
+            "hu": "Schön-palota",
+            "ro": "Palatul Schön",
+            "en": "Schön Palace"
+          },
+          "coords": [
+            19.098,
+            50.286
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:08",
+          "stay_min": 35,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Park aus, um die Fassade zu bewundern.",
+            "hu": "Rövid séta a parkból, hogy megcsodálja a homlokzatot.",
+            "ro": "O scurtă plimbare din parc pentru a admira fațada.",
+            "en": "A short walk from the park to admire the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Joachim-Kirche",
+            "hu": "Szent Joachim-templom",
+            "ro": "Biserica Sfântul Ioachim",
+            "en": "St. Joachim's Church"
+          },
+          "coords": [
+            19.135,
+            50.275
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:01",
+          "stay_min": 64,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein letzter Halt mit dem Bus, um diese friedliche Kirche zu sehen.",
+            "hu": "Egy utolsó megálló busszal, hogy megnézze ezt a békés templomot.",
+            "ro": "O ultimă oprire cu autobuzul pentru a vedea această biserică pașnică.",
+            "en": "A final bus stop to see this peaceful church."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt im Herzen von Sosnowiec, wo Sie den Dietel-Palast, die Kathedrale und das Zagłębie-Museum bequem zu Fuß erreichen. Nach dem Mittagessen bringt Sie ein kurzer Bus- oder Straßenbahnfahrt zum weitläufigen Sielecki-Park und dem nahegelegenen Schloss. Ein kleiner Spaziergang führt Sie zum Schönhöfer Palast. Den Abschluss bildet eine weitere kurze Fahrt zur ruhigen St.-Joachim-Kirche, die einen friedlichen Kontrast zum industriellen Erbe der Stadt bietet.",
+        "hu": "A tömegközlekedéssel töltött nap Sosnowiec szívében kezdődik, ahol a Dietel-palota, a székesegyház és a Zagłębie Múzeum gyalogosan is könnyen elérhető. Ebéd után egy rövid busz- vagy villamosút viszi a tágas Sielecki Parkba és a közeli kastélyhoz. Egy rövid séta vezet a Schön-palotához. A napot egy újabb rövid utazás zárja a csendes Szent Joachim-templomhoz, amely békés kontrasztot kínál a város ipari örökségével szemben.",
+        "ro": "Ziua dumneavoastră cu transportul public începe în inima orașului Sosnowiec, unde Palatul Dietel, Catedrala și Muzeul Zagłębie sunt ușor accesibile pe jos. După prânz, o scurtă călătorie cu autobuzul sau tramvaiul vă duce la vastul Parc Sielecki și la castelul din apropiere. O scurtă plimbare vă conduce la Palatul Schön. Ziua se încheie cu o altă călătorie scurtă la liniștita Biserică Sf. Ioachim, oferind un contrast pașnic cu moștenirea industrială a orașului.",
+        "en": "Your day using public transit begins in the heart of Sosnowiec, where Dietel Palace, the Cathedral, and the Zagłębie Museum are easily reached on foot. After lunch, a short bus or tram ride takes you to the expansive Sielecki Park and the nearby castle. A brief walk leads you to Schön Palace. The day concludes with another short ride to the quiet St. Joachim's Church, offering a peaceful contrast to the city's industrial heritage."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bar Mleczny (Milchbar)",
+            "tip": "Erleben Sie authentische, günstige polnische Hausmannskost. Oft in der Nähe von Verkehrsknotenpunkten zu finden."
+          },
+          {
+            "name": "Pączki",
+            "tip": "Polnische Donuts. Ein perfekter Snack für unterwegs von einer Bäckerei in der Nähe einer Haltestelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tejbár (Bar Mleczny)",
+            "tip": "Tapasztalja meg az autentikus, olcsó lengyel házias ételeket. Gyakran megtalálható közlekedési csomópontok közelében."
+          },
+          {
+            "name": "Pączki (Fánk)",
+            "tip": "Lengyel fánk. Tökéletes útközbeni harapnivaló egy pékségből egy megálló közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bar Mleczny (Bar de lapte)",
+            "tip": "Experimentați mâncarea poloneză autentică și ieftină, gătită acasă. Adesea găsită lângă nodurile de transport."
+          },
+          {
+            "name": "Pączki",
+            "tip": "Gogoși poloneze. O gustare perfectă din mers de la o brutărie de lângă o stație."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bar Mleczny (Milk Bar)",
+            "tip": "Experience authentic, cheap Polish home-style cooking. Often found near transport hubs."
+          },
+          {
+            "name": "Pączki",
+            "tip": "Polish doughnuts. A perfect on-the-go snack from a bakery near a stop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Fahrt mit der Straßenbahn",
+            "tip": "Manchmal ist die beste Ruhepause, einfach nur dazusitzen und die Stadt an sich vorbeiziehen zu sehen. 🧘",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sielecki-Park",
+            "tip": "Nach der Busfahrt bietet der Park einen willkommenen grünen Rückzugsort. 🏞️",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Villamosozás",
+            "tip": "Néha a legjobb pihenés csak ülni és nézni, ahogy a város elsuhan. 🧘",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sielecki Park",
+            "tip": "A buszozás után a park kellemes zöld menedéket nyújt. 🏞️",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O călătorie cu tramvaiul",
+            "tip": "Uneori, cea mai bună pauză este să stai și să privești orașul trecând pe lângă tine. 🧘",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Sielecki",
+            "tip": "După călătoria cu autobuzul, parcul oferă un refugiu verde binevenit. 🏞️",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "A tram ride",
+            "tip": "Sometimes the best quiet break is just to sit and watch the city go by. 🧘",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sielecki Park",
+            "tip": "After the bus ride, the park offers a welcome green retreat. 🏞️",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske an Haltestellen",
+            "tip": "Kaufen Sie Fahrkarten, Zeitungen oder einen schnellen Snack an den 'Ruch'-Kiosken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bódék a megállókban",
+            "tip": "Vásároljon jegyeket, újságokat vagy egy gyors harapnivalót a 'Ruch' bódéknál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri la stații",
+            "tip": "Cumpărați bilete, ziare sau o gustare rapidă de la chioșcurile 'Ruch'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks at stops",
+            "tip": "Buy tickets, newspapers, or a quick snack at the 'Ruch' kiosks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel (KZK GOP), um Geld zu sparen.",
+          "Laden Sie die App 'jakdojade' herunter, um Routen und Fahrpläne in Echtzeit zu planen.",
+          "Validieren Sie Ihr Ticket sofort nach dem Einsteigen, um eine Strafe zu vermeiden.",
+          "Beachten Sie, dass Busse und Straßenbahnen zu Stoßzeiten sehr voll sein können."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez (KZK GOP), hogy pénzt takarítson meg.",
+          "Töltse le a 'jakdojade' alkalmazást az útvonalak és menetrendek valós idejű tervezéséhez.",
+          "A felszállás után azonnal érvényesítse a jegyét, hogy elkerülje a büntetést.",
+          "Vegye figyelembe, hogy a buszok és villamosok csúcsidőben nagyon zsúfoltak lehetnek."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public (KZK GOP) pentru a economisi bani.",
+          "Descărcați aplicația 'jakdojade' pentru a planifica rute și orare în timp real.",
+          "Validați biletul imediat după urcare pentru a evita o amendă.",
+          "Rețineți că autobuzele și tramvaiele pot fi foarte aglomerate în orele de vârf."
+        ],
+        "en": [
+          "Buy a day pass for public transport (KZK GOP) to save money.",
+          "Download the 'jakdojade' app to plan routes and schedules in real time.",
+          "Validate your ticket immediately upon boarding to avoid a fine.",
+          "Be aware that buses and trams can be very crowded during peak hours."
+        ]
+      }
+    }
+  }
+}

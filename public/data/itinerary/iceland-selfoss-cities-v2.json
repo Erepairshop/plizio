@@ -1,0 +1,1508 @@
+{
+  "city_id": "iceland-selfoss-cities-v2",
+  "anchor": {
+    "name": "Selfoss",
+    "coords": [
+      -20.9833,
+      63.9333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt Selfoss",
+            "hu": "Selfoss óvárosa",
+            "ro": "Centrul vechi Selfoss",
+            "en": "Old Town Selfoss"
+          },
+          "coords": [
+            -20.998,
+            63.9355
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier mit einem Kaffee und beobachten Sie das Treiben in den rekonstruierten historischen Gebäuden.",
+            "hu": "Kezdje a napot egy kávéval itt, és figyelje a nyüzsgést az újjáépített történelmi épületek között.",
+            "ro": "Începeți ziua cu o cafea aici și priviți agitația printre clădirile istorice reconstruite.",
+            "en": "Start with a coffee here and watch the hustle and bustle among the reconstructed historic buildings."
+          }
+        },
+        {
+          "name": {
+            "de": "Tryggvaskáli",
+            "hu": "Tryggvaskáli",
+            "ro": "Tryggvaskáli",
+            "en": "Tryggvaskáli"
+          },
+          "coords": [
+            -20.9995,
+            63.9348
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:41",
+          "stay_min": 50,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eines der ältesten Gebäude der Stadt, heute ein Restaurant. Werfen Sie einen Blick auf die historische Architektur.",
+            "hu": "A város egyik legrégebbi épülete, ma étterem. Vessen egy pillantást a történelmi építészetre!",
+            "ro": "Una dintre cele mai vechi clădiri din oraș, acum un restaurant. Aruncați o privire la arhitectura istorică.",
+            "en": "One of the oldest buildings in town, now a restaurant. Take a look at the historic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Skyrgerðin",
+            "hu": "Skyrgerðin",
+            "ro": "Skyrgerðin",
+            "en": "Skyrgerðin"
+          },
+          "coords": [
+            -20.997,
+            63.936
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die isländische Skyr-Tradition in diesem einzigartigen Boutique-Hotel und Ausstellungsraum.",
+            "hu": "Ismerje meg az izlandi skyr hagyományát ebben az egyedülálló butikhotelben és kiállítótérben.",
+            "ro": "Aflați despre tradiția islandeză a skyr-ului în acest hotel de tip boutique și spațiu expozițional unic.",
+            "en": "Learn about the Icelandic skyr tradition in this unique boutique hotel and exhibition space."
+          }
+        },
+        {
+          "name": {
+            "de": "Selfosskirkja",
+            "hu": "Selfosskirkja",
+            "ro": "Biserica Selfosskirkja",
+            "en": "Selfosskirkja"
+          },
+          "coords": [
+            -21.002,
+            63.937
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die markante moderne Architektur und die schönen Buntglasfenster.",
+            "hu": "Figyelje meg a jellegzetes modern építészetet és a gyönyörű ólomüveg ablakokat.",
+            "ro": "Observați arhitectura modernă distinctivă și vitraliile frumoase.",
+            "en": "Note the distinctive modern architecture and the beautiful stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Ölfusá Brücke",
+            "hu": "Ölfusá-híd",
+            "ro": "Podul Ölfusá",
+            "en": "Ölfusá Bridge"
+          },
+          "coords": [
+            -21.0005,
+            63.934
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:19",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für Fotos vom mächtigsten Fluss Islands. Im Winter kann man Eisschollen treiben sehen.",
+            "hu": "Nagyszerű fotóhely Izland legbővizűbb folyójánál. Télen jégtáblák úszását is láthatja.",
+            "ro": "Un loc excelent pentru fotografii cu cel mai puternic râu din Islanda. Iarna, puteți vedea sloiuri de gheață plutind.",
+            "en": "A great spot for photos of Iceland's most powerful river. In winter, you can see ice floes drifting by."
+          }
+        },
+        {
+          "name": {
+            "de": "Bobby Fischer Zentrum",
+            "hu": "Bobby Fischer Központ",
+            "ro": "Centrul Bobby Fischer",
+            "en": "Bobby Fischer Center"
+          },
+          "coords": [
+            -20.995,
+            63.933
+          ],
+          "category": "museums",
+          "arrive_at": "12:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss für Schachfans. Das Museum dokumentiert das Leben des exzentrischen Weltmeisters.",
+            "hu": "Kötelező a sakkrajongóknak. A múzeum a különc világbajnok életét mutatja be.",
+            "ro": "O vizită obligatorie pentru fanii șahului. Muzeul documentează viața excentricului campion mondial.",
+            "en": "A must-visit for chess fans. The museum documents the life of the eccentric world champion."
+          }
+        },
+        {
+          "name": {
+            "de": "Hellisskógur",
+            "hu": "Hellisskógur",
+            "ro": "Pădurea Hellisskógur",
+            "en": "Hellisskógur Forest"
+          },
+          "coords": [
+            -20.97,
+            63.938
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang am Flussufer. Halten Sie Ausschau nach den kleinen „Elfenhäusern“ entlang des Weges.",
+            "hu": "Egy szép séta a folyóparton. Keresse az apró „elf házakat” az ösvény mentén!",
+            "ro": "O plimbare minunată pe malul râului. Fiți atenți la micile „case ale elfilor” de-a lungul potecii.",
+            "en": "A lovely walk by the riverside. Look out for the small 'elf houses' along the path."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Selfoss beginnt im neuen alten Stadtzentrum, wo historischer Charme auf modernes isländisches Design trifft. Am Vormittag erkunden Sie die Ufer der mächtigen Ölfusá, überqueren die historische Brücke und besuchen die markante Selfosskirkja. Der Nachmittag ist der Kultur gewidmet, mit einem Besuch im Bobby Fischer Zentrum, gefolgt von einem erholsamen Spaziergang im Hellisskógur-Wald. Der Abend klingt bei einem herzhaften isländischen Abendessen aus, während Sie die Eindrücke des Tages Revue passieren lassen.",
+        "hu": "Selfossi napja az új óvárosban kezdődik, ahol a történelmi báj találkozik a modern izlandi dizájnnal. A délelőttöt a hatalmas Ölfusá folyó partjának felfedezésével tölti, átkelve a történelmi hídon és meglátogatva a jellegzetes Selfosskirkját. A délután a kultúráé, egy látogatással a Bobby Fischer Központban, amit egy pihentető séta követ a Hellisskógur erdőben. Az estét egy kiadós izlandi vacsorával zárja, miközben felidézi a nap élményeit.",
+        "ro": "Ziua dvs. în Selfoss începe în noul centru vechi, unde farmecul istoric se întâlnește cu designul islandez modern. Dimineața este dedicată explorării malurilor puternicului râu Ölfusá, traversând podul istoric și vizitând impunătoarea Selfosskirkja. După-amiaza este dedicată culturii, cu o vizită la Centrul Bobby Fischer, urmată de o plimbare relaxantă în pădurea Hellisskógur. Seara se încheie cu o cină islandeză copioasă, rememorând impresiile zilei.",
+        "en": "Your day in Selfoss begins in the new old town center, where historic charm meets modern Icelandic design. The morning is for exploring the banks of the mighty Ölfusá river, crossing the historic bridge and visiting the distinctive Selfosskirkja. The afternoon is dedicated to culture with a visit to the Bobby Fischer Center, followed by a relaxing walk in the Hellisskógur forest. The evening concludes with a hearty Icelandic dinner, reflecting on the day's experiences."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kjötsúpa (Lammfleischsuppe)",
+            "tip": "Probieren Sie diese traditionelle Suppe im Tryggvaskáli für ein authentisches Erlebnis."
+          },
+          {
+            "name": "Skyr",
+            "tip": "Kosten Sie den echten isländischen Skyr, am besten direkt im Skyrgerðin."
+          },
+          {
+            "name": "Pylsur (Hotdog)",
+            "tip": "Ein schneller und beliebter isländischer Snack, erhältlich an vielen Ständen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kjötsúpa (Bárányhúsleves)",
+            "tip": "Kóstolja meg ezt a hagyományos levest a Tryggvaskáliban egy autentikus élményért."
+          },
+          {
+            "name": "Skyr",
+            "tip": "Ízlelje meg az igazi izlandi skyrt, lehetőleg közvetlenül a Skyrgerðinben."
+          },
+          {
+            "name": "Pylsur (Hot dog)",
+            "tip": "Gyors és népszerű izlandi snack, sok standnál kapható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kjötsúpa (Supă de miel)",
+            "tip": "Încercați această supă tradițională la Tryggvaskáli pentru o experiență autentică."
+          },
+          {
+            "name": "Skyr",
+            "tip": "Gustați adevăratul skyr islandez, de preferință direct la Skyrgerðin."
+          },
+          {
+            "name": "Pylsur (Hotdog)",
+            "tip": "O gustare islandeză rapidă și populară, disponibilă la multe standuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kjötsúpa (Lamb soup)",
+            "tip": "Try this traditional soup at Tryggvaskáli for an authentic experience."
+          },
+          {
+            "name": "Skyr",
+            "tip": "Taste the real Icelandic skyr, preferably right at Skyrgerðin."
+          },
+          {
+            "name": "Pylsur (Hot dog)",
+            "tip": "A quick and popular Icelandic snack, available at many stands."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Flussufer der Ölfusá",
+            "tip": "Finden Sie eine ruhige Bank am Fluss und beobachten Sie das Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hellisskógur",
+            "tip": "Die tieferen Pfade des Waldes bieten eine friedliche Flucht.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick auf den Ingólfsfjall",
+            "tip": "An einem klaren Tag bietet der Blick auf den Berg im Osten einen Moment der Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az Ölfusá folyó partja",
+            "tip": "Keressen egy csendes padot a folyóparton, és figyelje a vizet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hellisskógur",
+            "tip": "Az erdő mélyebb ösvényei békés menedéket nyújtanak.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás az Ingólfsfjall hegyre",
+            "tip": "Tiszta napon a keletre fekvő hegy látványa a nyugalom pillanatát nyújtja.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Ölfusá",
+            "tip": "Găsiți o bancă liniștită lângă râu și priviți apa.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pădurea Hellisskógur",
+            "tip": "Cărările mai adânci ale pădurii oferă o evadare pașnică.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere spre Muntele Ingólfsfjall",
+            "tip": "Într-o zi senină, priveliștea muntelui spre est oferă un moment de liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bank of the Ölfusá river",
+            "tip": "Find a quiet bench by the river and watch the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hellisskógur Forest",
+            "tip": "The deeper paths of the forest offer a peaceful escape.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View of Ingólfsfjall Mountain",
+            "tip": "On a clear day, the view of the mountain to the east offers a moment of tranquility.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Altstadt Selfoss Markt",
+            "tip": "Stöbern Sie in den kleinen Läden nach isländischem Design und Handwerk."
+          },
+          {
+            "name": "Wollwaren",
+            "tip": "Suchen Sie nach einem authentischen isländischen Lopapeysa-Pullover."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Selfoss óvárosi piac",
+            "tip": "Böngésszen a kis üzletekben izlandi dizájn és kézműves termékek után."
+          },
+          {
+            "name": "Gyapjútermékek",
+            "tip": "Keressen egy autentikus izlandi Lopapeysa pulóvert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața din Centrul Vechi Selfoss",
+            "tip": "Răsfoiți magazinele mici pentru design și artizanat islandez."
+          },
+          {
+            "name": "Articole din lână",
+            "tip": "Căutați un pulover autentic islandez Lopapeysa."
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Town Selfoss Market",
+            "tip": "Browse the small shops for Icelandic design and crafts."
+          },
+          {
+            "name": "Woolen Goods",
+            "tip": "Look for an authentic Icelandic Lopapeysa sweater."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie feste und bequeme Schuhe, da Sie viel laufen werden.",
+          "Das Wetter in Island kann sich schnell ändern. Kleiden Sie sich am besten im Zwiebellook und haben Sie eine wasserdichte Jacke dabei.",
+          "Die meisten Orte akzeptieren Kreditkarten, aber es ist immer gut, etwas Bargeld für kleine Einkäufe dabei zu haben.",
+          "Nutzen Sie die langen Sommertage für zusätzliche Spaziergänge am Abend."
+        ],
+        "hu": [
+          "Viseljen erős, kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Az időjárás Izlandon gyorsan változhat. Öltözzön rétegesen, és mindig legyen Önnél egy vízálló dzseki.",
+          "A legtöbb helyen elfogadnak bankkártyát, de mindig jó, ha van Önnél némi készpénz apróbb vásárlásokhoz.",
+          "Használja ki a hosszú nyári napokat további esti sétákra."
+        ],
+        "ro": [
+          "Purtați pantofi rezistenți și confortabili, deoarece veți merge mult pe jos.",
+          "Vremea în Islanda se poate schimba rapid. Cel mai bine este să vă îmbrăcați în straturi și să aveți la îndemână o jachetă impermeabilă.",
+          "Majoritatea locurilor acceptă carduri de credit, dar este întotdeauna bine să aveți niște numerar pentru cumpărături mici.",
+          "Profitați de zilele lungi de vară pentru plimbări suplimentare seara."
+        ],
+        "en": [
+          "Wear sturdy and comfortable shoes, as you will be doing a lot of walking.",
+          "The weather in Iceland can change quickly. It's best to dress in layers and have a waterproof jacket with you.",
+          "Most places accept credit cards, but it's always good to have some cash for small purchases.",
+          "Take advantage of the long summer days for extra evening walks."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:47",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradverleih & Altstadt",
+            "hu": "Kerékpárkölcsönző és Óváros",
+            "ro": "Închiriere biciclete & Centrul Vechi",
+            "en": "Bike Rental & Old Town"
+          },
+          "coords": [
+            -20.998,
+            63.9355
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Holen Sie sich Ihr Fahrrad und erkunden Sie die Gassen der neuen Altstadt, bevor Sie losfahren.",
+            "hu": "Vegye át a kerékpárját, és fedezze fel az új óváros sikátorait, mielőtt útnak indul.",
+            "ro": "Luați-vă bicicleta și explorați străduțele noului centru vechi înainte de a porni.",
+            "en": "Pick up your bike and explore the alleys of the new old town before you set off."
+          }
+        },
+        {
+          "name": {
+            "de": "Ölfusá Brücke",
+            "hu": "Ölfusá-híd",
+            "ro": "Podul Ölfusá",
+            "en": "Ölfusá Bridge"
+          },
+          "coords": [
+            -21.0005,
+            63.934
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:43",
+          "stay_min": 20,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Halten Sie in der Mitte der Brücke an, um die Kraft des Flusses zu spüren.",
+            "hu": "Álljon meg a híd közepén, hogy érezze a folyó erejét.",
+            "ro": "Opriți-vă la mijlocul podului pentru a simți puterea râului.",
+            "en": "Stop in the middle of the bridge to feel the power of the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Selfosskirkja",
+            "hu": "Selfosskirkja",
+            "ro": "Biserica Selfosskirkja",
+            "en": "Selfosskirkja"
+          },
+          "coords": [
+            -21.002,
+            63.937
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:09",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und nehmen Sie sich einen Moment Zeit, um die friedliche Atmosphäre im Inneren zu genießen.",
+            "hu": "Parkolja le a kerékpárt, és szánjon egy percet a benti békés légkör élvezetére.",
+            "ro": "Parcați-vă bicicleta și acordați-vă un moment pentru a vă bucura de atmosfera liniștită din interior.",
+            "en": "Park your bike and take a moment to enjoy the peaceful atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Bobby Fischer Zentrum",
+            "hu": "Bobby Fischer Központ",
+            "ro": "Centrul Bobby Fischer",
+            "en": "Bobby Fischer Center"
+          },
+          "coords": [
+            -20.995,
+            63.933
+          ],
+          "category": "museums",
+          "arrive_at": "10:48",
+          "stay_min": 90,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fordern Sie einen Freund zu einer Partie Schach auf den Brettern vor dem Museum heraus.",
+            "hu": "Hívjon ki egy barátot egy sakkpartira a múzeum előtti táblákon.",
+            "ro": "Provocați un prieten la o partidă de șah pe tablele din fața muzeului.",
+            "en": "Challenge a friend to a game of chess on the boards outside the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Hellisskógur",
+            "hu": "Hellisskógur",
+            "ro": "Pădurea Hellisskógur",
+            "en": "Hellisskógur Forest"
+          },
+          "coords": [
+            -20.97,
+            63.938
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ideal für eine Mittagspause. Fahren Sie entlang der schönen Wege am Fluss.",
+            "hu": "Ideális egy ebédszünetre. Kerékpározzon végig a folyó melletti gyönyörű ösvényeken.",
+            "ro": "Ideal pentru o pauză de prânz. Plimbați-vă cu bicicleta de-a lungul potecilor frumoase de lângă râu.",
+            "en": "Ideal for a lunch break. Ride along the beautiful paths by the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Am Ufer Richtung Ingólfsfjall",
+            "hu": "A folyóparton az Ingólfsfjall felé",
+            "ro": "Pe mal spre Ingólfsfjall",
+            "en": "Along the bank towards Ingólfsfjall"
+          },
+          "coords": [
+            -20.92,
+            63.945
+          ],
+          "category": "natural features",
+          "arrive_at": "13:54",
+          "stay_min": 45,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Diese längere Fahrt aus der Stadt heraus bietet eine atemberaubende Aussicht auf den Berg und die umliegende Landschaft.",
+            "hu": "Ez a hosszabb út a városból kifelé lélegzetelállító kilátást nyújt a hegyre és a környező tájra.",
+            "ro": "Această plimbare mai lungă în afara orașului oferă priveliști uimitoare ale muntelui și peisajului înconjurător.",
+            "en": "This longer ride out of town offers stunning views of the mountain and surrounding landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück in der Altstadt",
+            "hu": "Vissza az Óvárosba",
+            "ro": "Înapoi în Centrul Vechi",
+            "en": "Back to the Old Town"
+          },
+          "coords": [
+            -20.998,
+            63.9355
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Geben Sie Ihr Fahrrad zurück und genießen Sie ein wohlverdientes Abendessen in einem der vielen Restaurants.",
+            "hu": "Adja le a kerékpárt, és élvezzen egy jól megérdemelt vacsorát a sok étterem egyikében.",
+            "ro": "Returnați bicicleta și bucurați-vă de o cină binemeritată la unul dintre multele restaurante.",
+            "en": "Return your bike and enjoy a well-deserved dinner at one of the many restaurants."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auf zwei Rädern erleben Sie Selfoss aus einer ganz anderen Perspektive. Nach dem Start in der Altstadt führt Sie Ihre Route über die beeindruckende Ölfusá-Brücke. Am Vormittag erkunden Sie die kulturellen Highlights wie die Selfosskirkja und das Bobby-Fischer-Zentrum. Der Nachmittag ist eine aktive Flucht in die Natur, mit einer Fahrt durch den Hellisskógur-Wald und weiter entlang des Flusses in Richtung des majestätischen Ingólfsfjall. Der Tag endet dort, wo er begann, mit einem entspannten Abendessen in der charmanten Altstadt.",
+        "hu": "Két keréken egészen más szemszögből tapasztalhatja meg Selfosst. Az óvárosból indulva az útvonal az lenyűgöző Ölfusá-hídon vezet át. A délelőtt folyamán olyan kulturális látnivalókat fedezhet fel, mint a Selfosskirkja és a Bobby Fischer Központ. A délután aktív kikapcsolódás a természetben, egy biciklitúrával a Hellisskógur erdőn keresztül és tovább a folyó mentén a fenséges Ingólfsfjall irányába. A nap ott ér véget, ahol elkezdődött, egy kellemes vacsorával a bájos óvárosban.",
+        "ro": "Pe două roți, veți experimenta Selfoss dintr-o perspectivă complet diferită. După ce porniți din centrul vechi, traseul vă duce peste impresionantul pod Ölfusá. Dimineața explorați atracțiile culturale, cum ar fi Selfosskirkja și Centrul Bobby Fischer. După-amiaza este o evadare activă în natură, cu o plimbare cu bicicleta prin pădurea Hellisskógur și mai departe de-a lungul râului spre maiestuosul munte Ingólfsfjall. Ziua se încheie acolo unde a început, cu o cină relaxantă în fermecătorul centru vechi.",
+        "en": "On two wheels, you'll experience Selfoss from a completely different perspective. After starting in the old town, your route takes you over the impressive Ölfusá bridge. In the morning, you'll explore cultural highlights like Selfosskirkja and the Bobby Fischer Center. The afternoon is an active escape into nature, with a ride through the Hellisskógur forest and further along the river towards the majestic Ingólfsfjall mountain. The day ends where it began, with a relaxing dinner in the charming old town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fisch des Tages",
+            "tip": "Genießen Sie fangfrischen Fisch in einem der Restaurants am Fluss."
+          },
+          {
+            "name": "Isländisches Craft Beer",
+            "tip": "Probieren Sie lokale Biere in einer der Bars in der Altstadt."
+          },
+          {
+            "name": "Rúgbrauð (Roggenbrot)",
+            "tip": "Ein süßliches, dunkles Brot, oft mit Butter und Fisch serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "A nap hala",
+            "tip": "Élvezze a frissen fogott halat a folyóparti éttermek egyikében."
+          },
+          {
+            "name": "Izlandi kézműves sör",
+            "tip": "Kóstoljon helyi söröket az óváros egyik bárjában."
+          },
+          {
+            "name": "Rúgbrauð (Rozskenyér)",
+            "tip": "Édes, sötét kenyér, gyakran vajjal és hallal tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Peștele zilei",
+            "tip": "Bucurați-vă de pește proaspăt prins la unul dintre restaurantele de pe malul râului."
+          },
+          {
+            "name": "Bere artizanală islandeză",
+            "tip": "Încercați berile locale într-unul dintre barurile din centrul vechi."
+          },
+          {
+            "name": "Rúgbrauð (Pâine de secară)",
+            "tip": "O pâine dulce, închisă la culoare, adesea servită cu unt și pește."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish of the day",
+            "tip": "Enjoy freshly caught fish at one of the riverside restaurants."
+          },
+          {
+            "name": "Icelandic Craft Beer",
+            "tip": "Try local brews at one of the bars in the old town."
+          },
+          {
+            "name": "Rúgbrauð (Rye bread)",
+            "tip": "A sweet, dark bread often served with butter and fish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt entlang des Flusses",
+            "tip": "Der Radweg östlich der Stadt ist ruhig und bietet eine tolle Aussicht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pause im Hellisskógur",
+            "tip": "Ein perfekter Ort für ein Picknick abseits des Trubels.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Abendstimmung am Flussufer",
+            "tip": "Beobachten Sie den Sonnenuntergang über dem Wasser nach Ihrer Radtour.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpártúra a folyó mentén",
+            "tip": "A várostól keletre eső kerékpárút csendes és nagyszerű kilátást nyújt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pihenő a Hellisskógurban",
+            "tip": "Tökéletes hely egy piknikre a nyüzsgéstől távol.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Esti hangulat a folyóparton",
+            "tip": "Nézze a naplementét a víz felett a kerékpártúra után.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului",
+            "tip": "Pista de biciclete la est de oraș este liniștită și oferă priveliști minunate.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pauză în Pădurea Hellisskógur",
+            "tip": "Un loc perfect pentru un picnic departe de agitație.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Atmosferă de seară pe malul râului",
+            "tip": "Priviți apusul peste apă după turul cu bicicleta.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ride along the river",
+            "tip": "The bike path east of the town is quiet and offers great views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Break in Hellisskógur Forest",
+            "tip": "A perfect spot for a picnic away from the hustle.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Evening mood on the riverbank",
+            "tip": "Watch the sunset over the water after your bike tour.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Kunstgalerien",
+            "tip": "Entdecken Sie Kunst, die von der isländischen Landschaft inspiriert ist."
+          },
+          {
+            "name": "Bauernmarkt (falls vorhanden)",
+            "tip": "Suchen Sie nach lokalen Produkten wie Marmeladen und geräuchertem Lachs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi művészeti galériák",
+            "tip": "Fedezzen fel az izlandi táj által inspirált művészetet."
+          },
+          {
+            "name": "Termelői piac (ha van)",
+            "tip": "Keressen helyi termékeket, például lekvárokat és füstölt lazacot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galerii de artă locale",
+            "tip": "Descoperiți arta inspirată de peisajul islandez."
+          },
+          {
+            "name": "Piața fermierilor (dacă există)",
+            "tip": "Căutați produse locale, cum ar fi gemuri și somon afumat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local art galleries",
+            "tip": "Discover art inspired by the Icelandic landscape."
+          },
+          {
+            "name": "Farmers' Market (if available)",
+            "tip": "Look for local products like jams and smoked salmon."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck und die Bremsen, bevor Sie losfahren.",
+          "Ein Helm ist immer eine gute Idee, besonders wenn Sie sich außerhalb des Stadtzentrums begeben.",
+          "Nehmen Sie Wasser und Snacks für die längere Fahrt mit.",
+          "Achten Sie auf Wind, der in Island eine große Rolle spielen kann."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást és a fékeket.",
+          "A sisak mindig jó ötlet, különösen, ha a városközponton kívülre merészkedik.",
+          "Vigyen magával vizet és harapnivalót a hosszabb útra.",
+          "Vigyázzon a szélre, amely Izlandon nagy szerepet játszhat."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope și frânele înainte de a porni.",
+          "O cască este întotdeauna o idee bună, mai ales dacă vă aventurați în afara centrului orașului.",
+          "Luați apă și gustări pentru călătoria mai lungă.",
+          "Fiți atenți la vânt, care poate juca un rol important în Islanda."
+        ],
+        "en": [
+          "Check your tire pressure and brakes before you set off.",
+          "A helmet is always a good idea, especially if you venture outside the town center.",
+          "Take water and snacks for the longer ride.",
+          "Be aware of the wind, which can be a major factor in Iceland."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 20.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz bei Hellisskógur",
+            "hu": "Parkoló a Hellisskógur-nál",
+            "ro": "Parcare la Hellisskógur",
+            "en": "Parking at Hellisskógur"
+          },
+          "coords": [
+            -20.97,
+            63.938
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem erfrischenden Spaziergang. Parken Sie hier und genießen Sie die Ruhe des Waldes.",
+            "hu": "Kezdje a napot egy frissítő sétával. Parkoljon itt, és élvezze az erdő csendjét.",
+            "ro": "Începeți ziua cu o plimbare revigorantă. Parcați aici și bucurați-vă de liniștea pădurii.",
+            "en": "Start the day with a refreshing walk. Park here and enjoy the tranquility of the forest."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt und Parken im Zentrum",
+            "hu": "Autózás és parkolás a központban",
+            "ro": "Condus și parcare în centru",
+            "en": "Drive and Park in the Center"
+          },
+          "coords": [
+            -20.9975,
+            63.9358
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:18",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto im Zentrum und bereiten Sie sich darauf vor, den Rest der Stadt zu Fuß zu erkunden.",
+            "hu": "Parkolja le az autóját a központban, és készüljön fel, hogy a város többi részét gyalog fedezze fel.",
+            "ro": "Parcați mașina în centru și pregătiți-vă să explorați restul orașului pe jos.",
+            "en": "Park your car in the center and prepare to explore the rest of the town on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt, Tryggvaskáli & Skyrgerðin",
+            "hu": "Óváros, Tryggvaskáli és Skyrgerðin",
+            "ro": "Centrul Vechi, Tryggvaskáli & Skyrgerðin",
+            "en": "Old Town, Tryggvaskáli & Skyrgerðin"
+          },
+          "coords": [
+            -20.998,
+            63.9355
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:49",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dieser erste Wandercluster führt Sie durch das Herz von Selfoss' neuem Zentrum und seine kulinarische Geschichte.",
+            "hu": "Ez az első gyalogos klaszter Selfoss új központjának szívén és kulináris történelmén vezet keresztül.",
+            "ro": "Acest prim grup de mers pe jos vă poartă prin inima noului centru al orașului Selfoss și prin istoria sa culinară.",
+            "en": "This first walking cluster takes you through the heart of Selfoss's new center and its culinary history."
+          }
+        },
+        {
+          "name": {
+            "de": "Selfosskirkja & Ölfusá Brücke",
+            "hu": "Selfosskirkja és Ölfusá-híd",
+            "ro": "Selfosskirkja și Podul Ölfusá",
+            "en": "Selfosskirkja & Ölfusá Bridge"
+          },
+          "coords": [
+            -21.002,
+            63.937
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:29",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang bringt Sie zu diesen beiden ikonischen Wahrzeichen von Selfoss.",
+            "hu": "Egy rövid séta elvezeti Önt Selfoss e két ikonikus nevezetességéhez.",
+            "ro": "O scurtă plimbare vă duce la aceste două repere iconice din Selfoss.",
+            "en": "A short walk brings you to these two iconic Selfoss landmarks."
+          }
+        },
+        {
+          "name": {
+            "de": "Bobby Fischer Zentrum",
+            "hu": "Bobby Fischer Központ",
+            "ro": "Centrul Bobby Fischer",
+            "en": "Bobby Fischer Center"
+          },
+          "coords": [
+            -20.995,
+            63.933
+          ],
+          "category": "museums",
+          "arrive_at": "13:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach dem Mittagessen tauchen Sie in die Welt des Schachs ein. Es ist vom Stadtzentrum aus leicht zu Fuß erreichbar.",
+            "hu": "Ebéd után merüljön el a sakk világában. A városközpontból könnyen megközelíthető gyalog.",
+            "ro": "După prânz, scufundați-vă în lumea șahului. Este la o scurtă plimbare de centrul orașului.",
+            "en": "After lunch, immerse yourself in the world of chess. It's an easy walk from the town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Ingólfsfjall",
+            "hu": "Autózás az Ingólfsfjall hegyhez",
+            "ro": "Drumul spre Muntele Ingólfsfjall",
+            "en": "Drive to Ingólfsfjall Mountain"
+          },
+          "coords": [
+            -20.85,
+            63.94
+          ],
+          "category": "natural features",
+          "arrive_at": "15:52",
+          "stay_min": 50,
+          "hop_from_prev_min": 31,
+          "hop_from_prev_km": 15.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein kurzer Ausflug aus der Stadt für einen Panoramablick auf die Landschaft von Südisland.",
+            "hu": "Egy rövid kiruccanás a városból, ahonnan panorámás kilátás nyílik Dél-Izland tájára.",
+            "ro": "O scurtă excursie în afara orașului pentru o vedere panoramică a peisajului din sudul Islandei.",
+            "en": "A short trip out of town for a panoramic view of the Southern Iceland landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum für Abendessen",
+            "hu": "Visszatérés a központba vacsorára",
+            "ro": "Întoarcere în centru pentru cină",
+            "en": "Return to Center for Dinner"
+          },
+          "coords": [
+            -20.9975,
+            63.9358
+          ],
+          "category": "gastro",
+          "arrive_at": "16:47",
+          "stay_min": 58,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem entspannten Abendessen in der Altstadt, bevor Sie zu Ihrem Auto zurückkehren.",
+            "hu": "Zárja a napot egy pihentető vacsorával az óvárosban, mielőtt visszatérne az autójához.",
+            "ro": "Încheiați ziua cu o cină relaxantă în centrul vechi înainte de a vă întoarce la mașină.",
+            "en": "End the day with a relaxing dinner in the old town before heading back to your car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto haben Sie die Flexibilität, sowohl das Herz von Selfoss als auch seine wunderschöne Umgebung zu entdecken. Der Tag beginnt mit der ruhigen Natur im Hellisskógur-Wald. Danach fahren Sie ins Zentrum, parken Ihr Auto und erkunden den pulsierenden Stadtkern zu Fuß: die Altstadt, die ikonische Kirche und die Brücke. Am Nachmittag führt Sie ein kurzer Ausflug zum majestätischen Berg Ingólfsfjall für einen unvergesslichen Panoramablick, bevor Sie für ein wohlverdientes Abendessen in die Stadt zurückkehren.",
+        "hu": "Az autó rugalmasságot biztosít Selfoss szívének és gyönyörű környékének felfedezéséhez. A nap a Hellisskógur erdő békés természetével kezdődik. Ezután a központba hajt, leparkol, és gyalog fedezi fel a nyüzsgő városközpontot: az óvárost, az ikonikus templomot és a hidat. Délután egy rövid kirándulás vezet a fenséges Ingólfsfjall hegyhez egy felejthetetlen panorámáért, mielőtt visszatérne a városba egy jól megérdemelt vacsorára.",
+        "ro": "Cu mașina, aveți flexibilitatea de a descoperi atât inima orașului Selfoss, cât și împrejurimile sale frumoase. Ziua începe cu natura liniștită din pădurea Hellisskógur. Apoi, conduceți spre centru, parcați mașina și explorați pe jos centrul vibrant al orașului: centrul vechi, biserica iconică și podul. După-amiaza, o scurtă excursie vă duce la maiestuosul munte Ingólfsfjall pentru o priveliște panoramică de neuitat, înainte de a vă întoarce în oraș pentru o cină binemeritată.",
+        "en": "By car, you have the flexibility to discover both the heart of Selfoss and its beautiful surroundings. The day begins with the peaceful nature in Hellisskógur forest. Afterwards, you drive to the center, park your car, and explore the vibrant town core on foot: the old town, the iconic church, and the bridge. In the afternoon, a short trip takes you to the majestic Ingólfsfjall mountain for an unforgettable panoramic view before returning to town for a well-deserved dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lammkeule",
+            "tip": "Ein klassisches isländisches Gericht, perfekt nach einem Tag voller Entdeckungen."
+          },
+          {
+            "name": "Geothermisch gebackenes Brot",
+            "tip": "Fragen Sie nach Brot, das mit Erdwärme gebacken wurde – ein einzigartiger Geschmack."
+          },
+          {
+            "name": "Brennivín",
+            "tip": "Der isländische Signature-Schnaps, auch „Schwarzer Tod“ genannt. Mit Vorsicht genießen!"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Báránycomb",
+            "tip": "Klasszikus izlandi étel, tökéletes egy felfedezéssel teli nap után."
+          },
+          {
+            "name": "Geotermikus kenyér",
+            "tip": "Kérjen geotermikus hővel sütött kenyeret – egyedülálló íz."
+          },
+          {
+            "name": "Brennivín",
+            "tip": "Az izlandi nemzeti pálinka, más néven „Fekete Halál”. Csak óvatosan!"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pulpă de miel",
+            "tip": "Un fel de mâncare islandez clasic, perfect după o zi de explorare."
+          },
+          {
+            "name": "Pâine coaptă geotermal",
+            "tip": "Întrebați de pâinea coaptă cu căldură geotermală - un gust unic."
+          },
+          {
+            "name": "Brennivín",
+            "tip": "Băutura spirtoasă emblematică a Islandei, cunoscută și sub numele de „Moartea Neagră”. A se consuma cu prudență!"
+          }
+        ],
+        "en": [
+          {
+            "name": "Leg of lamb",
+            "tip": "A classic Icelandic dish, perfect after a day of exploring."
+          },
+          {
+            "name": "Geothermally baked bread",
+            "tip": "Ask for bread baked with geothermal heat – a unique taste."
+          },
+          {
+            "name": "Brennivín",
+            "tip": "Iceland's signature schnapps, also known as 'Black Death'. Enjoy with caution!"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang in Hellisskógur",
+            "tip": "Der Morgen im Wald ist besonders friedlich.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussicht vom Ingólfsfjall",
+            "tip": "Die Weite der isländischen Landschaft von hier oben ist atemberaubend und beruhigend.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Friedhof bei Selfosskirkja",
+            "tip": "Ein Ort der Stille und Reflexion.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Hellisskógurban",
+            "tip": "A reggel az erdőben különösen békés.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás az Ingólfsfjallról",
+            "tip": "Az izlandi táj tágassága innen fentről lélegzetelállító és megnyugtató.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A Selfosskirkja melletti temető",
+            "tip": "A csend és az elmélkedés helye.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare în pădurea Hellisskógur",
+            "tip": "Dimineața în pădure este deosebit de pașnică.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Priveliștea de pe Muntele Ingólfsfjall",
+            "tip": "Întinderea peisajului islandez de aici de sus este uluitoare și liniștitoare.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Cimitirul de lângă Selfosskirkja",
+            "tip": "Un loc de liniște și reflecție.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk in Hellisskógur Forest",
+            "tip": "The morning in the forest is particularly peaceful.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from Ingólfsfjall Mountain",
+            "tip": "The vastness of the Icelandic landscape from up here is breathtaking and calming.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Cemetery at Selfosskirkja",
+            "tip": "A place of silence and reflection.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden in der Umgebung",
+            "tip": "Halten Sie auf Ihrer Fahrt Ausschau nach Schildern für Direktverkäufe von Bauernhöfen (Wolle, Fleisch)."
+          },
+          {
+            "name": "Buchhandlung in Selfoss",
+            "tip": "Finden Sie isländische Sagas oder Bücher über die lokale Geschichte und Natur."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok a környéken",
+            "tip": "Útközben figyelje a farmokról történő közvetlen értékesítésre utaló táblákat (gyapjú, hús)."
+          },
+          {
+            "name": "Könyvesbolt Selfossban",
+            "tip": "Találjon izlandi sagákat vagy könyveket a helyi történelemről és természetről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele fermelor din zonă",
+            "tip": "În timpul călătoriei, fiți atenți la indicatoarele pentru vânzări directe de la ferme (lână, carne)."
+          },
+          {
+            "name": "Librărie în Selfoss",
+            "tip": "Găsiți saga islandeze sau cărți despre istoria și natura locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops in the area",
+            "tip": "On your drive, look out for signs for direct sales from farms (wool, meat)."
+          },
+          {
+            "name": "Bookstore in Selfoss",
+            "tip": "Find Icelandic sagas or books about local history and nature."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Wetter- und Straßenbedingungen, bevor Sie zum Ingólfsfjall aufbrechen.",
+          "Parkgebühren können im Stadtzentrum anfallen. Halten Sie eine Kreditkarte bereit.",
+          "Die Geschwindigkeitsbegrenzungen in Island sind streng und die Bußgelder hoch. Fahren Sie vorsichtig.",
+          "Ein Auto gibt Ihnen die Freiheit, an malerischen Orten spontan anzuhalten."
+        ],
+        "hu": [
+          "Ellenőrizze az időjárási és útviszonyokat, mielőtt elindul az Ingólfsfjallhoz.",
+          "A városközpontban parkolási díjak lehetnek. Tartson kéznél bankkártyát.",
+          "A sebességkorlátozások Izlandon szigorúak, a bírságok magasak. Vezessen óvatosan.",
+          "Az autó szabadságot ad, hogy spontán megálljon a festői helyeken."
+        ],
+        "ro": [
+          "Verificați condițiile meteo și de drum înainte de a pleca spre Muntele Ingólfsfjall.",
+          "Taxele de parcare se pot aplica în centrul orașului. Pregătiți un card de credit.",
+          "Limitele de viteză în Islanda sunt stricte, iar amenzile sunt mari. Conduceți cu prudență.",
+          "O mașină vă oferă libertatea de a opri spontan în locuri pitorești."
+        ],
+        "en": [
+          "Check the weather and road conditions before heading out to Ingólfsfjall mountain.",
+          "Parking fees may apply in the town center. Have a credit card ready.",
+          "Speed limits in Iceland are strict and fines are high. Drive carefully.",
+          "A car gives you the freedom to stop spontaneously at scenic spots."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 4.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft an der zentralen Bushaltestelle",
+            "hu": "Érkezés a központi buszmegállóba",
+            "ro": "Sosire la stația centrală de autobuz",
+            "en": "Arrival at the Central Bus Stop"
+          },
+          "coords": [
+            -20.996,
+            63.9365
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Machen Sie sich mit dem lokalen Busnetz vertraut. Die Haltestelle liegt direkt bei der neuen Altstadt.",
+            "hu": "Ismerkedjen meg a helyi buszhálózattal. A megálló közvetlenül az új óváros mellett található.",
+            "ro": "Familiarizați-vă cu rețeaua locală de autobuze. Stația este chiar lângă noul centru vechi.",
+            "en": "Familiarize yourself with the local bus network. The stop is right by the new old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Altstadt: Tryggvaskáli & Skyrgerðin",
+            "hu": "Óváros klaszter: Tryggvaskáli és Skyrgerðin",
+            "ro": "Cluster Centrul Vechi: Tryggvaskáli & Skyrgerðin",
+            "en": "Old Town Cluster: Tryggvaskáli & Skyrgerðin"
+          },
+          "coords": [
+            -20.998,
+            63.9355
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:31",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den historischen und kulinarischen Kern von Selfoss zu Fuß. Alles ist nur wenige Schritte entfernt.",
+            "hu": "Fedezze fel gyalog Selfoss történelmi és kulináris magját. Minden csak néhány lépésre van.",
+            "ro": "Explorați pe jos nucleul istoric și culinar al orașului Selfoss. Totul este la doar câțiva pași distanță.",
+            "en": "Explore the historical and culinary core of Selfoss on foot. Everything is just a few steps away."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Kirche & Brücke: Selfosskirkja & Ölfusá",
+            "hu": "Templom és Híd klaszter: Selfosskirkja és Ölfusá",
+            "ro": "Cluster Biserică și Pod: Selfosskirkja & Ölfusá",
+            "en": "Church & Bridge Cluster: Selfosskirkja & Ölfusá"
+          },
+          "coords": [
+            -21.002,
+            63.937
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang bringt Sie zu den architektonischen und natürlichen Wahrzeichen der Stadt.",
+            "hu": "Egy rövid séta elvezeti Önt a város építészeti és természeti nevezetességeihez.",
+            "ro": "O scurtă plimbare vă duce la reperele arhitecturale și naturale ale orașului.",
+            "en": "A short walk takes you to the town's architectural and natural landmarks."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zur Haltestelle Hellisskógur",
+            "hu": "Buszozás a Hellisskógur megállóig",
+            "ro": "Călătorie cu autobuzul până la stația Hellisskógur",
+            "en": "Bus ride to Hellisskógur stop"
+          },
+          "coords": [
+            -20.975,
+            63.9385
+          ],
+          "category": "transport",
+          "arrive_at": "13:06",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus, um zum östlichen Teil der Stadt zu gelangen und Energie für den Waldspaziergang zu sparen.",
+            "hu": "Menjen helyi busszal a város keleti részébe, hogy energiát takarítson meg az erdei sétához.",
+            "ro": "Luați un autobuz local pentru a ajunge în partea de est a orașului și pentru a economisi energie pentru plimbarea prin pădure.",
+            "en": "Take a local bus to get to the eastern part of town and save energy for the forest walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang im Hellisskógur",
+            "hu": "Séta a Hellisskógurban",
+            "ro": "Plimbare în Pădurea Hellisskógur",
+            "en": "Walk in Hellisskógur Forest"
+          },
+          "coords": [
+            -20.97,
+            63.938
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Natur und die Ruhe nach der Erkundung des Stadtzentrums.",
+            "hu": "Élvezze a természetet és a csendet a városközpont felfedezése után.",
+            "ro": "Bucurați-vă de natură și liniște după explorarea centrului orașului.",
+            "en": "Enjoy nature and tranquility after exploring the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück ins Zentrum & Abendessen",
+            "hu": "Vissza a központba és vacsora",
+            "ro": "Înapoi în centru și cină",
+            "en": "Back to the center & Dinner"
+          },
+          "coords": [
+            -20.996,
+            63.9365
+          ],
+          "category": "gastro",
+          "arrive_at": "14:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie zurück in die Altstadt und lassen Sie den Tag bei einem gemütlichen Abendessen ausklingen, bevor Sie den Bus nach Hause nehmen.",
+            "hu": "Sétáljon vissza az óvárosba, és zárja a napot egy kellemes vacsorával, mielőtt hazabuszozna.",
+            "ro": "Plimbați-vă înapoi în centrul vechi și încheiați ziua cu o cină relaxată înainte de a lua autobuzul spre casă.",
+            "en": "Stroll back to the old town and end the day with a leisurely dinner before taking the bus home."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Erkundung von Selfoss mit öffentlichen Verkehrsmitteln ist einfach und effizient. Ihr Tag beginnt an der zentralen Bushaltestelle, von wo aus Sie das Herz der Stadt zu Fuß erobern. Der Vormittag ist in zwei Wandercluster aufgeteilt: Zuerst das geschäftige Zentrum, dann die ruhigeren Bereiche um die Kirche und die Brücke. Am Nachmittag bringt Sie ein kurzer Bus-Hop zum entspannenden Hellisskógur-Wald. Der Tag endet mit einem gemütlichen Spaziergang zurück ins Zentrum für ein köstliches Abendessen, bevor Sie Ihre Heimreise antreten.",
+        "hu": "Selfoss felfedezése tömegközlekedéssel egyszerű és hatékony. A nap a központi buszmegállóban kezdődik, ahonnan gyalog hódíthatja meg a város szívét. A délelőtt két gyalogos klaszterre oszlik: először a nyüzsgő központ, majd a templom és a híd körüli csendesebb területek. Délután egy rövid buszozás elviszi a pihentető Hellisskógur erdőbe. A nap egy kellemes sétával zárul vissza a központba egy finom vacsorára, mielőtt hazaindulna.",
+        "ro": "Explorarea Selfoss cu transportul public este ușoară și eficientă. Ziua dvs. începe la stația centrală de autobuz, de unde puteți cuceri inima orașului pe jos. Dimineața este împărțită în două clustere de mers pe jos: mai întâi centrul aglomerat, apoi zonele mai liniștite din jurul bisericii și podului. După-amiaza, un scurt salt cu autobuzul vă duce la relaxanta pădure Hellisskógur. Ziua se încheie cu o plimbare relaxantă înapoi în centru pentru o cină delicioasă înainte de a vă întoarce acasă.",
+        "en": "Exploring Selfoss by public transport is easy and efficient. Your day begins at the central bus station, from where you can conquer the heart of the city on foot. The morning is divided into two walking clusters: first the bustling center, then the quieter areas around the church and bridge. In the afternoon, a short bus hop takes you to the relaxing Hellisskógur forest. The day ends with a leisurely stroll back to the center for a delicious dinner before you head home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Plokkfiskur",
+            "tip": "Ein traditioneller Fischeintopf, cremig und sättigend. Perfekt für einen kühlen Tag."
+          },
+          {
+            "name": "Kleina",
+            "tip": "Ein isländisches frittiertes Gebäck, ideal für einen süßen Snack zwischendurch."
+          },
+          {
+            "name": "Malt og Appelsín",
+            "tip": "Ein beliebtes isländisches Mischgetränk, besonders zur Weihnachtszeit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plokkfiskur",
+            "tip": "Hagyományos halpörkölt, krémes és laktató. Tökéletes egy hűvös napra."
+          },
+          {
+            "name": "Kleina",
+            "tip": "Izlandi fánk, ideális édes harapnivalónak."
+          },
+          {
+            "name": "Malt og Appelsín",
+            "tip": "Népszerű izlandi kevert ital, különösen karácsonykor."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plokkfiskur",
+            "tip": "O tocană tradițională de pește, cremoasă și sățioasă. Perfectă pentru o zi răcoroasă."
+          },
+          {
+            "name": "Kleina",
+            "tip": "O gogoașă prăjită islandeză, ideală pentru o gustare dulce între mese."
+          },
+          {
+            "name": "Malt og Appelsín",
+            "tip": "O băutură mixtă populară islandeză, mai ales în perioada Crăciunului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Plokkfiskur",
+            "tip": "A traditional fish stew, creamy and filling. Perfect for a cool day."
+          },
+          {
+            "name": "Kleina",
+            "tip": "An Icelandic fried pastry, ideal for a sweet snack in between."
+          },
+          {
+            "name": "Malt og Appelsín",
+            "tip": "A popular Icelandic mixed drink, especially around Christmas."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Selfosskirkja Innenraum",
+            "tip": "Finden Sie einen Moment der Stille in der modernen Kirche.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Spaziergang am Fluss",
+            "tip": "Auch ohne Auto ist das Flussufer vom Zentrum aus leicht zu erreichen und bietet Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Leseecke in einem Café",
+            "tip": "Ziehen Sie sich mit einem Buch in eines der gemütlichen Cafés in der Altstadt zurück.",
+            "emoji": "☕"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Selfosskirkja beltere",
+            "tip": "Találjon egy csendes pillanatot a modern templomban.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Séta a folyóparton",
+            "tip": "Autó nélkül is könnyen megközelíthető a folyópart a központból, és nyugalmat kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Olvasósarok egy kávézóban",
+            "tip": "Vonuljon el egy könyvvel az óváros egyik hangulatos kávézójába.",
+            "emoji": "☕"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Interiorul Bisericii Selfosskirkja",
+            "tip": "Găsiți un moment de liniște în biserica modernă.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Plimbare pe malul râului",
+            "tip": "Chiar și fără mașină, malul râului este ușor accesibil din centru și oferă liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Colț de lectură într-o cafenea",
+            "tip": "Retrageți-vă cu o carte într-una dintre cafenelele primitoare din centrul vechi.",
+            "emoji": "☕"
+          }
+        ],
+        "en": [
+          {
+            "name": "Selfosskirkja Interior",
+            "tip": "Find a moment of silence inside the modern church.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Riverside walk",
+            "tip": "Even without a car, the riverbank is easily accessible from the center and offers tranquility.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Reading corner in a café",
+            "tip": "Retreat with a book to one of the cozy cafés in the old town.",
+            "emoji": "☕"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handarbeitsladen",
+            "tip": "Kaufen Sie lokal hergestellte Wolle und Strickmuster."
+          },
+          {
+            "name": "Delikatessengeschäft",
+            "tip": "Nehmen Sie isländische Spezialitäten wie geräucherten Lachs oder Harðfiskur (Trockenfisch) mit nach Hause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézimunka bolt",
+            "tip": "Vásároljon helyben készült gyapjút és kötésmintákat."
+          },
+          {
+            "name": "Csemegebolt",
+            "tip": "Vigyen haza izlandi különlegességeket, például füstölt lazacot vagy Harðfiskurt (szárított hal)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de artizanat",
+            "tip": "Cumpărați lână și modele de tricotat produse local."
+          },
+          {
+            "name": "Delicatese",
+            "tip": "Luați acasă specialități islandeze, cum ar fi somon afumat sau Harðfiskur (pește uscat)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Handicraft store",
+            "tip": "Buy locally made wool and knitting patterns."
+          },
+          {
+            "name": "Delicatessen shop",
+            "tip": "Take home Icelandic specialties like smoked salmon or Harðfiskur (dried fish)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, da die Busse in kleineren Städten möglicherweise nicht so häufig fahren.",
+          "Die meisten Busse sind barrierefrei, aber erkundigen Sie sich bei Bedarf im Voraus.",
+          "Winken Sie dem Busfahrer, um sicherzustellen, dass er an Ihrer Haltestelle anhält."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha több utazást tervez.",
+          "Ellenőrizze előre a buszmenetrendet, mivel a kisebb városokban a buszok ritkábban közlekedhetnek.",
+          "A legtöbb busz akadálymentesített, de szükség esetén érdeklődjön előre.",
+          "Intsen a buszsofőrnek, hogy biztosan megálljon a megállójában."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă plănuiți mai multe călătorii.",
+          "Verificați programul autobuzelor în avans, deoarece autobuzele din orașele mai mici s-ar putea să nu circule la fel de frecvent.",
+          "Majoritatea autobuzelor sunt accesibile, dar verificați în avans dacă este necesar.",
+          "Faceți semn șoferului de autobuz pentru a vă asigura că oprește la stația dvs."
+        ],
+        "en": [
+          "Buy a day pass for the bus if you plan on making multiple trips.",
+          "Check the bus schedule in advance, as buses in smaller towns may not run as frequently.",
+          "Most buses are accessible, but check in advance if needed.",
+          "Wave to the bus driver to ensure they stop at your stop."
+        ]
+      }
+    }
+  }
+}

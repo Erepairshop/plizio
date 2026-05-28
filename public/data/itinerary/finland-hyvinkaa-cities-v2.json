@@ -1,0 +1,1131 @@
+{
+  "city_id": "finland-hyvinkaa-cities-v2",
+  "anchor": {
+    "name": "Hyvinkää",
+    "coords": [
+      24.8667,
+      60.6333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:38",
+      "total_km": 3.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Villatehdas",
+          "coords": [
+            24.864,
+            60.631
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Gelände der alten Wollfabrik, heute ein Kulturzentrum.",
+            "hu": "Fedezze fel a régi gyapjúgyár történelmi épületegyüttesét, amely ma kulturális központ.",
+            "ro": "Explorați clădirile istorice ale fostei fabrici de lână, acum un centru cultural.",
+            "en": "Explore the historic grounds of the old wool factory, now a cultural center."
+          }
+        },
+        {
+          "name": "Kunstmuseum Hyvinkää",
+          "coords": [
+            24.865,
+            60.6315
+          ],
+          "category": "museums",
+          "arrive_at": "10:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie finnische Kunstwerke in diesen modernen Ausstellungsräumen.",
+            "hu": "Csodálja meg a finn műalkotásokat ezekben a modern kiállítótermekben.",
+            "ro": "Admirați opere de artă finlandeze în aceste săli de expoziție moderne.",
+            "en": "Admire Finnish artworks in these modern exhibition spaces."
+          }
+        },
+        {
+          "name": "Kirche von Hyvinkää",
+          "coords": [
+            24.858,
+            60.634
+          ],
+          "category": "churches",
+          "arrive_at": "11:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die pyramidenförmige Architektur ist einzigartig und ein beliebtes Fotomotiv.",
+            "hu": "A piramis alakú építészet egyedülálló, és népszerű fotótéma a városban.",
+            "ro": "Arhitectura în formă de piramidă este unică și un subiect foto popular.",
+            "en": "The pyramid-shaped architecture is unique and a popular photo subject."
+          }
+        },
+        {
+          "name": "Finnisches Eisenbahnmuseum",
+          "coords": [
+            24.847,
+            60.627
+          ],
+          "category": "museums",
+          "arrive_at": "13:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Sehen Sie die kaiserlichen Züge des russischen Zaren in den originalen Schuppen.",
+            "hu": "Tekintse meg az orosz cárok egykori császári vonatait az eredeti csarnokokban.",
+            "ro": "Vedeți trenurile imperiale ale țarului rus în depourile originale.",
+            "en": "See the imperial trains of the Russian Tsar in the original sheds."
+          }
+        },
+        {
+          "name": "Promenadi-sali",
+          "coords": [
+            24.868,
+            60.632
+          ],
+          "category": "cultural centres",
+          "arrive_at": "14:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Abschluss des Spaziergangs im kulturellen Herzen der Stadt.",
+            "hu": "Kellemes befejezése a sétának a város kulturális központjában.",
+            "ro": "Un final plăcut al plimbării în inima culturală a orașului.",
+            "en": "A nice end to the walk in the cultural heart of the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt im industriellen Herzen von Hyvinkää auf dem Gelände der Villatehdas. Nach einem kurzen Spaziergang besuchen wir das Kunstmuseum. Mittags steht die markante, pyramidenförmige Kirche auf dem Programm. Der Nachmittag ist dem faszinierenden Eisenbahnmuseum gewidmet, bevor wir zum Promenadi-sali zurückkehren.",
+        "hu": "A nap Hyvinkää ipari szívében, a történelmi Villatehdas területén indul. Egy rövid séta után a művészeti múzeumot fedezzük fel. Délben a lenyűgöző, piramis alakú templom következik. A délutánt a lenyűgöző vasútmúzeumnak szenteljük, majd visszatérünk a Promenadi-sali központjához.",
+        "ro": "Ziua începe în inima industrială din Hyvinkää, la Villatehdas. După o scurtă plimbare, vizităm muzeul de artă. La prânz admirăm biserica impresionantă în formă de piramidă. După-amiaza este dedicată fascinantului muzeu feroviar, înainte de a ne întoarce la Promenadi-sali.",
+        "en": "The day begins in the industrial heart of Hyvinkää at the Villatehdas site. After a short walk, we visit the art museum. At midday, the striking pyramid-shaped church is on the agenda. The afternoon is dedicated to the fascinating railway museum before returning to the Promenadi-sali."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Karelische Piroggen",
+            "tip": "Probieren Sie diese traditionellen finnischen Backwaren in einem lokalen Café."
+          },
+          {
+            "name": "Lachssuppe",
+            "tip": "Eine wärmende Lohikeitto in einem Bistro nahe der Villatehdas."
+          },
+          {
+            "name": "Zimtgebäck (Korvapuusti)",
+            "tip": "Perfekt für eine Kaffeepause am Nachmittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Karjalai pirog",
+            "tip": "Kóstolja meg ezt a hagyományos finn sós péksüteményt egy helyi kávézóban."
+          },
+          {
+            "name": "Lazacleves (Lohikeitto)",
+            "tip": "Egy melegítő leves a Villatehdas közelében lévő egyik bisztróban."
+          },
+          {
+            "name": "Fahéjas csiga (Korvapuusti)",
+            "tip": "Tökéletes választás egy délutáni kávészünethez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plăcinte din Karelia",
+            "tip": "Încercați aceste produse de patiserie tradiționale finlandeze într-o cafenea locală."
+          },
+          {
+            "name": "Supă de somon",
+            "tip": "O Lohikeitto caldă într-un bistro lângă Villatehdas."
+          },
+          {
+            "name": "Rulouri cu scorțișoară",
+            "tip": "Perfecte pentru o pauză de cafea după-amiaza."
+          }
+        ],
+        "en": [
+          {
+            "name": "Karelian pies",
+            "tip": "Try these traditional Finnish pastries in a local cafe."
+          },
+          {
+            "name": "Salmon soup",
+            "tip": "A warming Lohikeitto in a bistro near Villatehdas."
+          },
+          {
+            "name": "Cinnamon rolls (Korvapuusti)",
+            "tip": "Perfect for an afternoon coffee break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parkanlage der Kirche",
+            "tip": "Ein ruhiger Ort, um die Architektur auf sich wirken zu lassen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Museumsgarten",
+            "tip": "Ein entspannter Platz hinter dem Kunstmuseum.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A templom parkja",
+            "tip": "Csendes hely, ahol átadhatjuk magunkat az építészet látványának.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Múzeumkert",
+            "tip": "Egy pihentető hely a művészeti múzeum mögött.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul bisericii",
+            "tip": "Un loc liniștit pentru a admira arhitectura.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grădina muzeului",
+            "tip": "Un loc relaxant în spatele muzeului de artă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Church Park",
+            "tip": "A quiet place to take in the architecture.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Museum Garden",
+            "tip": "A relaxing spot behind the art museum.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Villatehdas Shops",
+            "tip": "Kleine Boutiquen und Handwerkskunst auf dem Fabrikgelände."
+          },
+          {
+            "name": "Zentrum Hyvinkää",
+            "tip": "Finnisches Design und Souvenirs in der Fußgängerzone."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Villatehdas boltok",
+            "tip": "Kis butikok és kézműves termékek a gyártelepen."
+          },
+          {
+            "name": "Hyvinkää központja",
+            "tip": "Finn dizájn és szuvenírek a sétálóutcában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele Villatehdas",
+            "tip": "Mici buticuri și obiecte de artizanat în fosta fabrică."
+          },
+          {
+            "name": "Centrul Hyvinkää",
+            "tip": "Design finlandez și suveniruri în zona pietonală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Villatehdas Shops",
+            "tip": "Small boutiques and crafts on the factory grounds."
+          },
+          {
+            "name": "Hyvinkää Center",
+            "tip": "Finnish design and souvenirs in the pedestrian zone."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Distanzen im Zentrum sind sehr kurz und fußgängerfreundlich.",
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster rund um das Museum.",
+          "Im Winter kann es auf den Gehwegen rutschig sein, Spikes sind empfehlenswert.",
+          "Viele Cafés im Zentrum bieten günstige Mittagsmenüs an."
+        ],
+        "hu": [
+          "A központban a távolságok nagyon rövidek és gyalogosbarátok.",
+          "Viseljen kényelmes cipőt a múzeum körüli macskaköves utakon.",
+          "Télen a járdák csúszósak lehetnek, a csúszásgátló ajánlott.",
+          "A központban sok kávézó kínál kedvező árú ebédmenüt."
+        ],
+        "ro": [
+          "Distanțele din centru sunt foarte scurte și prietenoase cu pietonii.",
+          "Purtați încălțăminte confortabilă pentru piatra cubică din jurul muzeului.",
+          "Iarna, trotuarele pot fi alunecoase, se recomandă crampoane.",
+          "Multe cafenele din centru oferă meniuri de prânz la prețuri bune."
+        ],
+        "en": [
+          "Distances in the center are very short and pedestrian-friendly.",
+          "Wear comfortable shoes for the cobblestones around the museum.",
+          "In winter, the sidewalks can be slippery, spikes are recommended.",
+          "Many cafes in the center offer reasonably priced lunch menus."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 6.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Kirche von Hyvinkää",
+          "coords": [
+            24.858,
+            60.634
+          ],
+          "category": "churches",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit der besten Aussicht auf dieses architektonische Meisterwerk.",
+            "hu": "Kezdje a napot ennek az építészeti remekműnek a megtekintésével.",
+            "ro": "Începeți ziua cu cea mai bună priveliște a acestei capodopere arhitecturale.",
+            "en": "Start the day with the best view of this architectural masterpiece."
+          }
+        },
+        {
+          "name": "Finnisches Eisenbahnmuseum",
+          "coords": [
+            24.847,
+            60.627
+          ],
+          "category": "museums",
+          "arrive_at": "09:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahrradparkplätze sind direkt vor dem Haupteingang reichlich vorhanden.",
+            "hu": "Kerékpártárolók bőségesen rendelkezésre állnak közvetlenül a főbejárat előtt.",
+            "ro": "Există locuri de parcare pentru biciclete chiar în fața intrării principale.",
+            "en": "Bicycle parking is plentiful right in front of the main entrance."
+          }
+        },
+        {
+          "name": "Villatehdas",
+          "coords": [
+            24.864,
+            60.631
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für eine Mittagspause in industriellem Ambiente.",
+            "hu": "Kiváló hely egy ebédszünethez ipari környezetben.",
+            "ro": "Un loc excelent pentru o pauză de prânz într-o ambianță industrială.",
+            "en": "A great place for a lunch break in an industrial setting."
+          }
+        },
+        {
+          "name": "Kunstmuseum Hyvinkää",
+          "coords": [
+            24.865,
+            60.6315
+          ],
+          "category": "museums",
+          "arrive_at": "13:12",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lassen Sie das Rad stehen, es ist nur ein Katzensprung von der Villatehdas.",
+            "hu": "Hagyja itt a kerékpárt, csak egy kőhajításnyira van a Villatehdastól.",
+            "ro": "Lăsați bicicleta aici, este la doar o aruncătură de băț de Villatehdas.",
+            "en": "Leave the bike here, it's just a stone's throw from Villatehdas."
+          }
+        },
+        {
+          "name": "Sveitsi-Naturpark",
+          "coords": [
+            24.835,
+            60.64
+          ],
+          "category": "parks",
+          "arrive_at": "14:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radfahren auf den befestigten Wegen dieses Parks ist ein echtes Naturerlebnis.",
+            "hu": "A park kiépített ösvényein kerékpározni igazi természeti élmény.",
+            "ro": "Mersul pe bicicletă pe potecile pavate ale acestui parc este o adevărată experiență.",
+            "en": "Cycling on the paved paths of this park is a real nature experience."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir starten sportlich an der modernen Kirche und radeln zum historischen Eisenbahnmuseum am Stadtrand. Mittags kehren wir ins Zentrum zur Villatehdas zurück, um Industriegeschichte und Kunst zu genießen. Am Nachmittag führt uns eine schöne Radstrecke in den Sveitsi-Naturpark, wo die finnische Natur wartet.",
+        "hu": "Sportosan indulunk a modern templomtól, majd a város szélén lévő történelmi vasútmúzeumhoz tekerünk. Délben visszatérünk a központba, a Villatehdas területére, hogy élvezzük az ipartörténetet és a művészetet. Délután egy szép kerékpárút vezet a Sveitsi Natúrparkba, ahol a finn természet vár ránk.",
+        "ro": "Începem sportiv la biserica modernă și pedalăm până la muzeul feroviar istoric de la periferie. La prânz ne întoarcem în centru la Villatehdas pentru a ne bucura de istoria industrială și artă. După-amiaza, un traseu frumos de biciclete ne duce în Parcul Natural Sveitsi, unde ne așteaptă natura.",
+        "en": "We start sportily at the modern church and cycle to the historic railway museum on the outskirts. At midday, we return to the center to Villatehdas to enjoy industrial history and art. In the afternoon, a beautiful cycling route takes us to the Sveitsi Nature Park, where Finnish nature awaits."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rentier-Burger",
+            "tip": "Eine deftige Stärkung nach der Radtour im Park."
+          },
+          {
+            "name": "Blau- und Multbeerenkuchen",
+            "tip": "Süße Energie in einem Café auf dem Weg zum Museum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rénszarvas burger",
+            "tip": "Kiadós erősítés a parkban tett kerékpártúra után."
+          },
+          {
+            "name": "Áfonya- és törpemálnatorta",
+            "tip": "Édes energia az egyik múzeum felé vezető kávézóban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Burger de ren",
+            "tip": "O întărire copioasă după turul cu bicicleta în parc."
+          },
+          {
+            "name": "Prăjitură cu afine și mur pitic",
+            "tip": "Energie dulce într-o cafenea în drum spre muzeu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Reindeer burger",
+            "tip": "A hearty refreshment after the bike ride in the park."
+          },
+          {
+            "name": "Blueberry and cloudberry cake",
+            "tip": "Sweet energy in a cafe on the way to the museum."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sveitsi-Waldrand",
+            "tip": "Perfekt für eine kurze Verschnaufpause.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Wiesen beim Museum",
+            "tip": "Ein sonniges Plätzchen neben dem Eisenbahnmuseum.",
+            "emoji": "☀️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sveitsi erdőszéle",
+            "tip": "Tökéletes egy rövid pihenőre a kerékpározás után.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "A múzeum melletti rét",
+            "tip": "Napos hely a vasútmúzeum mellett.",
+            "emoji": "☀️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marginea pădurii Sveitsi",
+            "tip": "Perfect pentru o scurtă pauză de respirație.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Pajiștile de lângă muzeu",
+            "tip": "Un loc însorit lângă muzeul feroviar.",
+            "emoji": "☀️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sveitsi forest edge",
+            "tip": "Perfect for a short breather.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Meadows by the museum",
+            "tip": "A sunny spot next to the railway museum.",
+            "emoji": "☀️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradladen am Bahnhof",
+            "tip": "Falls Sie Luft oder kleines Zubehör benötigen."
+          },
+          {
+            "name": "Lokale Märkte",
+            "tip": "Frische Beeren für das Picknick im Park einkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt az állomásnál",
+            "tip": "Ha pumpára vagy kisebb kiegészítőkre lenne szüksége."
+          },
+          {
+            "name": "Helyi piacok",
+            "tip": "Vásároljon friss bogyós gyümölcsöket a parki piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete lângă gară",
+            "tip": "Dacă aveți nevoie de aer sau mici accesorii."
+          },
+          {
+            "name": "Piețe locale",
+            "tip": "Cumpărați fructe de pădure proaspete pentru un picnic în parc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shop at the station",
+            "tip": "In case you need air or small accessories."
+          },
+          {
+            "name": "Local markets",
+            "tip": "Buy fresh berries for a picnic in the park."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Hyvinkää verfügt über ein gutes Netz an Radwegen, auch ins Umland.",
+          "Die Strecke in den Sveitsi-Park führt leicht bergauf.",
+          "Schließen Sie Ihr Rad am Bahnhof immer gut ab.",
+          "Trinkflasche nicht vergessen, besonders in der Sommersonne."
+        ],
+        "hu": [
+          "Hyvinkää jó kerékpárút-hálózattal rendelkezik, amely a környékre is kivezet.",
+          "A Sveitsi parkba vezető út enyhén emelkedik.",
+          "Az állomáson mindig gondosan zárja le a kerékpárját.",
+          "Ne felejtse el a kulacsát, különösen a nyári napsütésben."
+        ],
+        "ro": [
+          "Hyvinkää are o rețea bună de piste de biciclete, inclusiv spre împrejurimi.",
+          "Traseul către Parcul Sveitsi urcă ușor.",
+          "Încuiați-vă întotdeauna bine bicicleta la gară.",
+          "Nu uitați sticla de apă, mai ales în soarele de vară."
+        ],
+        "en": [
+          "Hyvinkää has a good network of bike paths, including to the surrounding areas.",
+          "The route to Sveitsi Park goes slightly uphill.",
+          "Always lock your bike securely at the station.",
+          "Don't forget your water bottle, especially in the summer sun."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 21.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Villatehdas",
+          "coords": [
+            24.864,
+            60.631
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier zentral und erkunden Sie das Areal zu Fuß.",
+            "hu": "Parkoljon le itt a központban, és fedezze fel a környéket gyalogosan.",
+            "ro": "Parcați aici central și explorați zona pe jos.",
+            "en": "Park here centrally and explore the area on foot."
+          }
+        },
+        {
+          "name": "Kunstmuseum Hyvinkää",
+          "coords": [
+            24.865,
+            60.6315
+          ],
+          "category": "museums",
+          "arrive_at": "10:34",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum ist fußläufig vom Fabrikgelände aus zu erreichen.",
+            "hu": "A múzeum sétatávolságra van a gyárterülettől.",
+            "ro": "Muzeul se află la distanță de mers pe jos de fosta fabrică.",
+            "en": "The museum is within walking distance from the factory grounds."
+          }
+        },
+        {
+          "name": "Kirche von Hyvinkää",
+          "coords": [
+            24.858,
+            60.634
+          ],
+          "category": "churches",
+          "arrive_at": "11:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Spaziergang zur Kirche bietet einen schönen Blick auf die Architektur.",
+            "hu": "A templomhoz vezető séta során gyönyörű kilátás nyílik az építészetre.",
+            "ro": "Plimbarea spre biserică oferă o vedere frumoasă asupra arhitecturii.",
+            "en": "The walk to the church offers a beautiful view of the architecture."
+          }
+        },
+        {
+          "name": "Finnisches Eisenbahnmuseum",
+          "coords": [
+            24.847,
+            60.627
+          ],
+          "category": "museums",
+          "arrive_at": "12:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ausreichend kostenlose Parkplätze stehen für Museumsbesucher bereit.",
+            "hu": "Bőséges ingyenes parkolóhely áll rendelkezésre a múzeum látogatói számára.",
+            "ro": "Există o parcare gratuită generoasă pentru vizitatorii muzeului.",
+            "en": "Ample free parking is available for museum visitors."
+          }
+        },
+        {
+          "name": "Sveitsi-Naturpark",
+          "coords": [
+            24.835,
+            60.64
+          ],
+          "category": "parks",
+          "arrive_at": "14:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Hoteleingang für den besten Zugang zu den Wanderwegen.",
+            "hu": "Parkoljon a szálloda bejáratánál, hogy a legkönnyebben elérje a túraútvonalakat.",
+            "ro": "Parcați la intrarea hotelului pentru cel mai bun acces la traseele de drumeție.",
+            "en": "Park at the hotel entrance for the best access to the hiking trails."
+          }
+        },
+        {
+          "name": "Kytäjä-Usmi",
+          "coords": [
+            24.7,
+            60.6
+          ],
+          "category": "natural features",
+          "arrive_at": "16:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 15.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Eine kurze Autofahrt bringt Sie zu diesem idyllischen Outdoor-Paradies.",
+            "hu": "Egy rövid autóút elviszi ebbe az idilli szabadtéri paradicsomba.",
+            "ro": "O scurtă plimbare cu mașina vă duce la acest paradis idilic în aer liber.",
+            "en": "A short drive takes you to this idyllic outdoor paradise."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir parken zentral an der Villatehdas und erkunden den ersten Kultur-Cluster inklusive Kunstmuseum und Kirche zu Fuß. Danach fahren wir das kurze Stück zum Eisenbahnmuseum. Am Nachmittag lockt die Natur: Zuerst der Sveitsi-Park, bevor uns eine kurze Fahrt ins Seengebiet Kytäjä-Usmi führt, wo wir den Tag ausklingen lassen.",
+        "hu": "A Villatehdasnál parkolunk le a központban, és gyalogosan fedezzük fel az első kulturális klasztert, benne a művészeti múzeummal és a templommal. Ezután a közeli vasútmúzeumhoz hajtunk. Délután a természet csábít: először a Sveitsi park, majd egy rövid autózás után a Kytäjä-Usmi tóvidéken zárjuk a napot.",
+        "ro": "Parcăm central la Villatehdas și explorăm pe jos primul cluster cultural, incluzând muzeul de artă și biserica. Apoi conducem scurt până la muzeul feroviar. După-amiaza natura ne cheamă: mai întâi Parcul Sveitsi, înainte ca o scurtă plimbare să ne ducă în regiunea lacurilor Kytäjä-Usmi, unde încheiem ziua.",
+        "en": "We park centrally at Villatehdas and explore the first cultural cluster including the art museum and church on foot. Then we drive the short distance to the railway museum. In the afternoon, nature beckons: first the Sveitsi Park, before a short drive takes us to the Kytäjä-Usmi lake area, where we end the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gutshof Kytäjä",
+            "tip": "Hochwertiges Abendessen nach der Wanderung im Seengebiet."
+          },
+          {
+            "name": "Café im Eisenbahnmuseum",
+            "tip": "Snacks und finnischer Kaffee während des Museumsbesuchs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kytäjä Kúria",
+            "tip": "Kiváló minőségű vacsora a tóvidéki túra után."
+          },
+          {
+            "name": "Kávézó a vasútmúzeumban",
+            "tip": "Snackek és finn kávé a múzeumlátogatás során."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Conacul Kytäjä",
+            "tip": "Cină de înaltă calitate după drumeția în regiunea lacurilor."
+          },
+          {
+            "name": "Cafenea la muzeul feroviar",
+            "tip": "Gustări și cafea finlandeză în timpul vizitei la muzeu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kytäjä Manor",
+            "tip": "High quality dinner after the hike in the lake area."
+          },
+          {
+            "name": "Cafe at the railway museum",
+            "tip": "Snacks and Finnish coffee during the museum visit."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kytäjä-See",
+            "tip": "Ein perfekter Ort für den Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Aussichtspunkt Sveitsi",
+            "tip": "Weitblick über die Baumkronen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kytäjä-tó",
+            "tip": "Tökéletes hely a naplementéhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sveitsi kilátópont",
+            "tip": "Széles kilátás a fák koronája felett.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Kytäjä",
+            "tip": "Un loc perfect pentru apusul soarelui.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Punctul de belvedere Sveitsi",
+            "tip": "O priveliște vastă peste coroanele copacilor.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lake Kytäjä",
+            "tip": "A perfect place for the sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sveitsi viewpoint",
+            "tip": "A wide view over the treetops.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Einkaufszentrum Willa",
+            "tip": "Eines der größten Malls der Region mit riesigem Parkhaus."
+          },
+          {
+            "name": "Kytäjä Shop",
+            "tip": "Lokale Produkte und Golf-Zubehör."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Willa Bevásárlóközpont",
+            "tip": "A régió egyik legnagyobb bevásárlóközpontja, hatalmas parkolóval."
+          },
+          {
+            "name": "Kytäjä Bolt",
+            "tip": "Helyi termékek és golfkiegészítők."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul comercial Willa",
+            "tip": "Unul dintre cele mai mari mall-uri din regiune cu parcare uriașă."
+          },
+          {
+            "name": "Magazinul Kytäjä",
+            "tip": "Produse locale și accesorii pentru golf."
+          }
+        ],
+        "en": [
+          {
+            "name": "Willa Shopping Center",
+            "tip": "One of the largest malls in the region with a huge parking garage."
+          },
+          {
+            "name": "Kytäjä Shop",
+            "tip": "Local products and golf accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "In Finnland muss auch am Tag mit Abblendlicht gefahren werden.",
+          "Die Straßen nach Kytäjä-Usmi können schmal und kurvig sein.",
+          "Achten Sie in der Dämmerung auf Wildwechsel, besonders Elche.",
+          "Parken an den Museen ist oft kostenlos, aber eine Parkscheibe kann Pflicht sein."
+        ],
+        "hu": [
+          "Finnországban nappal is kötelező a tompított fényszóró használata.",
+          "A Kytäjä-Usmi felé vezető utak keskenyek és kanyargósak lehetnek.",
+          "Szürkületkor ügyeljen a vadon élő állatokra, különösen a jávorszarvasokra.",
+          "A múzeumoknál a parkolás gyakran ingyenes, de parkolótárcsa használata kötelező lehet."
+        ],
+        "ro": [
+          "În Finlanda, faza scurtă trebuie folosită și în timpul zilei.",
+          "Drumurile către Kytäjä-Usmi pot fi înguste și sinuoase.",
+          "Fiți atenți la animalele sălbatice la amurg, în special la elani.",
+          "Parcarea la muzee este adesea gratuită, dar un disc de parcare poate fi obligatoriu."
+        ],
+        "en": [
+          "In Finland, dipped headlights must be used even during the day.",
+          "The roads to Kytäjä-Usmi can be narrow and winding.",
+          "Watch out for wildlife at dusk, especially moose.",
+          "Parking at the museums is often free, but a parking disc may be mandatory."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:43",
+      "total_km": 6.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Kirche von Hyvinkää",
+          "coords": [
+            24.858,
+            60.634
+          ],
+          "category": "churches",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Bahnhof aus schnell zu Fuß erreichbar.",
+            "hu": "Az állomásról egy rövid sétával könnyen elérhető.",
+            "ro": "Ușor accesibil pe jos de la gară.",
+            "en": "Easily accessible on foot from the station."
+          }
+        },
+        {
+          "name": "Villatehdas",
+          "coords": [
+            24.864,
+            60.631
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Zentrum ist sehr fußgängerfreundlich, ideal für diesen Cluster.",
+            "hu": "A központ nagyon gyalogosbarát, ideális ehhez a csoporthoz.",
+            "ro": "Centrul este foarte prietenos cu pietonii, ideal pentru acest grup.",
+            "en": "The center is very pedestrian-friendly, ideal for this cluster."
+          }
+        },
+        {
+          "name": "Kunstmuseum Hyvinkää",
+          "coords": [
+            24.865,
+            60.6315
+          ],
+          "category": "museums",
+          "arrive_at": "11:26",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur wenige Schritte von der Wollfabrik entfernt.",
+            "hu": "Csak néhány lépésre a gyapjúgyártól.",
+            "ro": "La doar câțiva pași de fabrica de lână.",
+            "en": "Just a few steps from the wool factory."
+          }
+        },
+        {
+          "name": "Finnisches Eisenbahnmuseum",
+          "coords": [
+            24.847,
+            60.627
+          ],
+          "category": "museums",
+          "arrive_at": "12:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den lokalen Bus vom Zentrum direkt zum Museum.",
+            "hu": "Szálljon fel a helyi buszra a központban, amely egyenesen a múzeumhoz viszi.",
+            "ro": "Luați autobuzul local din centru direct către muzeu.",
+            "en": "Take the local bus from the center straight to the museum."
+          }
+        },
+        {
+          "name": "Sveitsi-Naturpark",
+          "coords": [
+            24.835,
+            60.64
+          ],
+          "category": "parks",
+          "arrive_at": "14:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine kurze Busfahrt bringt Sie in die Natur.",
+            "hu": "Egy rövid buszút kiviszi a természetbe.",
+            "ro": "O scurtă călătorie cu autobuzul vă duce în natură.",
+            "en": "A short bus ride takes you out into nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen den Tag zu Fuß im zentralen Cluster bei der Kirche und der historischen Villatehdas mit dem Kunstmuseum. Am Mittag nutzen wir den lokalen Nahverkehr, um bequem zum Eisenbahnmuseum zu gelangen. Eine weitere kurze Busfahrt bringt uns am Nachmittag in den Sveitsi-Naturpark für einen erholsamen Spaziergang im Grünen.",
+        "hu": "A napot gyalogosan kezdjük a központi klaszterben, a templomnál és a történelmi Villatehdasnál, valamint a művészeti múzeumnál. Délben a helyi tömegközlekedést használjuk, hogy kényelmesen eljussunk a vasútmúzeumhoz. Délután egy újabb rövid buszút visz a Sveitsi Natúrparkba egy pihentető erdei sétára.",
+        "ro": "Începem ziua pe jos în clusterul central la biserică și istorica Villatehdas, alături de muzeul de artă. La prânz folosim transportul local pentru a ajunge confortabil la muzeul feroviar. O altă scurtă călătorie cu autobuzul ne duce după-amiaza în Parcul Natural Sveitsi pentru o plimbare relaxantă în verdeață.",
+        "en": "We start the day on foot in the central cluster at the church and the historic Villatehdas, along with the art museum. At midday, we use local public transport to travel comfortably to the railway museum. Another short bus ride takes us to Sveitsi Nature Park in the afternoon for a relaxing walk in the greenery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro im Bahnhof",
+            "tip": "Gute finnische Hausmannskost nach der Zugankunft."
+          },
+          {
+            "name": "Café Sveitsi",
+            "tip": "Kaffee und Kuchen mit Blick auf den Park."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bisztró az állomáson",
+            "tip": "Jó finn házias ételek a vonat megérkezése után."
+          },
+          {
+            "name": "Sveitsi kávézó",
+            "tip": "Kávé és sütemény a parkra néző kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro la gară",
+            "tip": "Mâncare bună de casă finlandeză după sosirea trenului."
+          },
+          {
+            "name": "Cafenea Sveitsi",
+            "tip": "Cafea și prăjituri cu vedere la parc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro at the station",
+            "tip": "Good Finnish home cooking after the train arrives."
+          },
+          {
+            "name": "Cafe Sveitsi",
+            "tip": "Coffee and cake with a view of the park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kiefernwald in Sveitsi",
+            "tip": "Spazieren Sie zwischen den alten Bäumen.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Bahnhofspark",
+            "tip": "Ein ruhiger Ort, während man auf den Bus wartet.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fenyőerdő a Sveitsi parkban",
+            "tip": "Sétáljon az öreg fák között.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Állomáspark",
+            "tip": "Csendes hely a buszra várva.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădure de pini în Sveitsi",
+            "tip": "Plimbați-vă printre copacii bătrâni.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Parcul gării",
+            "tip": "Un loc liniștit în timp ce așteptați autobuzul.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pine forest in Sveitsi",
+            "tip": "Walk among the old trees.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Station Park",
+            "tip": "A quiet place while waiting for the bus.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske am Bahnhof",
+            "tip": "Für Snacks und Tickets unterwegs."
+          },
+          {
+            "name": "Willa Center",
+            "tip": "Mit dem Bus aus der ganzen Stadt leicht erreichbar."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok az állomáson",
+            "tip": "Útközbeni harapnivalókhoz és jegyekhez."
+          },
+          {
+            "name": "Willa Központ",
+            "tip": "Busszal a város bármely pontjáról könnyen elérhető."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri la gară",
+            "tip": "Pentru gustări și bilete din mers."
+          },
+          {
+            "name": "Centrul Willa",
+            "tip": "Ușor accesibil cu autobuzul de oriunde din oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks at the station",
+            "tip": "For snacks and tickets on the go."
+          },
+          {
+            "name": "Willa Center",
+            "tip": "Easily accessible by bus from anywhere in the city."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die HSL-App für aktuelle Fahrpläne und Tickets herunter.",
+          "Die Busse in Hyvinkää fahren am Wochenende seltener.",
+          "Viele Sehenswürdigkeiten sind so nah beieinander, dass Sie den Bus oft nicht brauchen.",
+          "Tagestickets sind oft günstiger, wenn Sie mehr als 3 Fahrten planen."
+        ],
+        "hu": [
+          "Töltse le a HSL alkalmazást az aktuális menetrendekhez és jegyekhez.",
+          "A buszok Hyvinkääben ritkábban járnak hétvégén.",
+          "Sok látnivaló olyan közel van egymáshoz, hogy gyakran nincs is szükség buszra.",
+          "A napijegyek gyakran olcsóbbak, ha több mint 3 utazást tervez."
+        ],
+        "ro": [
+          "Descărcați aplicația HSL pentru orare actualizate și bilete.",
+          "Autobuzele din Hyvinkää circulă mai rar la sfârșit de săptămână.",
+          "Multe atracții sunt atât de apropiate încât adesea nu veți avea nevoie de autobuz.",
+          "Biletele de o zi sunt adesea mai ieftine dacă intenționați mai mult de 3 călătorii."
+        ],
+        "en": [
+          "Download the HSL app for up-to-date schedules and tickets.",
+          "Buses in Hyvinkää run less frequently on weekends.",
+          "Many attractions are so close together that you often won't need the bus.",
+          "Day tickets are often cheaper if you plan more than 3 trips."
+        ]
+      }
+    }
+  }
+}

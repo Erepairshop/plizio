@@ -1,0 +1,1556 @@
+{
+  "city_id": "ukraine-kharkiv-cities-v2",
+  "anchor": {
+    "name": "Charkiw",
+    "coords": [
+      36.2304,
+      49.9935
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Freiheitsplatz",
+            "hu": "Szabadság tér",
+            "ro": "Piața Libertății",
+            "en": "Freedom Square"
+          },
+          "coords": [
+            36.2298,
+            50.0053
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die schiere Größe – einer der größten Plätze Europas. Perfekt für den Start.",
+            "hu": "Csodálja meg puszta méretét – Európa egyik legnagyobb tere. Tökéletes kiindulópont.",
+            "ro": "Admirați dimensiunea sa pură - una dintre cele mai mari piețe din Europa. Perfect pentru a începe.",
+            "en": "Admire the sheer scale – one of Europe's largest squares. Perfect for a starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Derzhprom",
+            "hu": "Derzsprom",
+            "ro": "Derzhprom",
+            "en": "Derzhprom"
+          },
+          "coords": [
+            36.2271,
+            50.0064
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Meisterwerk des Konstruktivismus. Achten Sie auf die einzigartigen Brückenübergänge.",
+            "hu": "A konstruktivizmus mesterműve. Figyelje meg az egyedülálló hídátjárókat.",
+            "ro": "O capodoperă a constructivismului. Observați pasajele unice ale podurilor.",
+            "en": "A masterpiece of constructivism. Look for the unique bridge passages."
+          }
+        },
+        {
+          "name": {
+            "de": "Schewtschenko-Park",
+            "hu": "Sevcsenko Park",
+            "ro": "Parcul Șevcenko",
+            "en": "Shevchenko Park"
+          },
+          "coords": [
+            36.2322,
+            50.0021
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Finden Sie die Statue von Taras Schewtschenko, umgeben von Figuren seiner Werke.",
+            "hu": "Keresse meg Tarasz Sevcsenko szobrát, amelyet műveinek alakjai vesznek körül.",
+            "ro": "Găsiți statuia lui Taras Șevcenko, înconjurată de personaje din operele sale.",
+            "en": "Find the statue of Taras Shevchenko, surrounded by characters from his works."
+          }
+        },
+        {
+          "name": {
+            "de": "Opern- und Balletttheater",
+            "hu": "Opera- és Balettszínház",
+            "ro": "Teatrul de Operă și Balet",
+            "en": "Opera and Ballet Theatre"
+          },
+          "coords": [
+            36.2358,
+            49.9985
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:41",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Auch wenn Sie keine Vorstellung besuchen, ist die moderne Architektur beeindruckend.",
+            "hu": "Még ha nem is látogat el egy előadásra, a modern építészet lenyűgöző.",
+            "ro": "Chiar dacă nu participați la un spectacol, arhitectura modernă este impresionantă.",
+            "en": "Even if you don't attend a show, the modern architecture is impressive."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum",
+            "hu": "Történeti Múzeum",
+            "ro": "Muzeul de Istorie",
+            "en": "Historical Museum"
+          },
+          "coords": [
+            36.2321,
+            49.9888
+          ],
+          "category": "museums",
+          "arrive_at": "12:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Ausstellungen zur Geschichte der Sloboda-Ukraine.",
+            "hu": "Összpontosítson a Szloboda-Ukrajna történetét bemutató kiállításokra.",
+            "ro": "Concentrați-vă pe expozițiile despre istoria Ucrainei Slobozia.",
+            "en": "Focus on the exhibitions about the history of Sloboda Ukraine."
+          }
+        },
+        {
+          "name": {
+            "de": "Uspenski-Kathedrale",
+            "hu": "Uszpenszkij-székesegyház",
+            "ro": "Catedrala Adormirea Maicii Domnului (Uspenski)",
+            "en": "Uspenski Cathedral"
+          },
+          "coords": [
+            36.2335,
+            49.9875
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besteigen Sie den Glockenturm für eine fantastische Aussicht auf die Stadt.",
+            "hu": "Másszon fel a harangtoronyba a városra nyíló fantasztikus kilátásért.",
+            "ro": "Urcați în clopotniță pentru o priveliște fantastică a orașului.",
+            "en": "Climb the bell tower for a fantastic view of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Verkündigungs-Kathedrale",
+            "hu": "Angyali Üdvözlet-székesegyház",
+            "ro": "Catedrala Buna Vestire",
+            "en": "Annunciation Cathedral"
+          },
+          "coords": [
+            36.2235,
+            49.9891
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die gestreifte Fassade ist einzigartig. Der Innenraum ist ebenso farbenfroh.",
+            "hu": "A csíkos homlokzat egyedülálló. A belső tér is hasonlóan színes.",
+            "ro": "Fațada în dungi este unică. Interiorul este la fel de colorat.",
+            "en": "The striped facade is unique. The interior is just as colorful."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im monumentalen Herzen von Charkiw, dem Freiheitsplatz. Am Vormittag erkunden Sie das konstruktivistische Derzhprom und spazieren durch den grünen Schewtschenko-Park. Mittags tauchen Sie nach einem Blick auf das Opernhaus in die reiche Geschichte im Historischen Museum ein. Der Nachmittag ist den beeindruckenden Sakralbauten gewidmet, der Uspenski- und der farbenfrohen Verkündigungs-Kathedrale, die einen spirituellen und architektonischen Kontrapunkt zum sowjetischen Erbe setzen. Der Abend klingt in der Nähe des historischen Zentrums aus, wo Sie die Eindrücke des Tages bei einem traditionellen ukrainischen Abendessen Revue passieren lassen können.",
+        "hu": "Kezdje a napot Harkov monumentális szívében, a Szabadság téren. Délelőtt fedezze fel a konstruktivista Derzspromot és sétáljon a zöld Sevcsenko Parkban. Délben, miután vetett egy pillantást az Operaházra, merüljön el a Történeti Múzeum gazdag múltjában. A délután a lenyűgöző szakrális épületeké, az Uszpenszkij- és a színpompás Angyali Üdvözlet-székesegyházé, amelyek spirituális és építészeti ellenpontot képeznek a szovjet örökséggel szemben. Az este a történelmi központ közelében ér véget, ahol egy hagyományos ukrán vacsora mellett idézheti fel a nap benyomásait.",
+        "ro": "Începeți ziua în inima monumentală a Harkovului, Piața Libertății. Dimineața, explorați constructivistul Derzhprom și plimbați-vă prin verdele Parc Șevcenko. La prânz, după o privire la clădirea Operei, scufundați-vă în istoria bogată la Muzeul de Istorie. După-amiaza este dedicată impunătoarelor clădiri sacre, Catedrala Uspenski și colorata Catedrală a Bunei Vestiri, care oferă un contrapunct spiritual și arhitectural moștenirii sovietice. Seara se încheie în apropierea centrului istoric, unde puteți rememora impresiile zilei la o cină tradițională ucraineană.",
+        "en": "Start your day in the monumental heart of Kharkiv, Freedom Square. In the morning, explore the constructivist Derzhprom and stroll through the green Shevchenko Park. At noon, after a glimpse of the Opera House, delve into the rich history at the Historical Museum. The afternoon is dedicated to the impressive sacred buildings, the Uspenski and the colorful Annunciation Cathedrals, providing a spiritual and architectural counterpoint to the Soviet heritage. The evening concludes near the historical center, where you can reflect on the day's impressions over a traditional Ukrainian dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Borschtsch",
+            "tip": "Ein Muss. Probieren Sie ihn in einem traditionellen Restaurant wie 'Sharikoff'."
+          },
+          {
+            "name": "Wareniki",
+            "tip": "Gefüllte Teigtaschen, süß oder herzhaft. Perfekt für ein leichtes Mittagessen."
+          },
+          {
+            "name": "Kiewer Kotelett",
+            "tip": "Zartes Hühnchen gefüllt mit Kräuterbutter."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borscs",
+            "tip": "Kötelező. Kóstolja meg egy hagyományos étteremben, mint a 'Sharikoff'."
+          },
+          {
+            "name": "Varenyiki",
+            "tip": "Töltött tésztabatyuk, édesen vagy sósan. Tökéletes egy könnyű ebédhez."
+          },
+          {
+            "name": "Kijevi jércemell",
+            "tip": "Omlós csirkemell fűszervajjal töltve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Borș",
+            "tip": "O necesitate. Încercați-l la un restaurant tradițional precum 'Sharikoff'."
+          },
+          {
+            "name": "Vareniki",
+            "tip": "Găluște umplute, dulci sau sărate. Perfecte pentru un prânz ușor."
+          },
+          {
+            "name": "Cotlet de Kiev",
+            "tip": "Pui fraged umplut cu unt aromat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Borscht",
+            "tip": "A must-try. Sample it at a traditional restaurant like 'Sharikoff'."
+          },
+          {
+            "name": "Varenyky",
+            "tip": "Filled dumplings, sweet or savory. Perfect for a light lunch."
+          },
+          {
+            "name": "Chicken Kyiv",
+            "tip": "Tender chicken filled with herb butter."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pokrowski-Kloster",
+            "tip": "Finden Sie eine ruhige Ecke in diesem historischen Klosterkomplex.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ufer des Lopan",
+            "tip": "Ein Spaziergang entlang des Flusses bietet eine Pause vom städtischen Trubel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Botanischer Garten",
+            "tip": "Etwas weiter entfernt, aber eine Oase der Ruhe.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pokrovszkij-kolostor",
+            "tip": "Keressen egy csendes zugot ebben a történelmi kolostorkomplexumban.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Lopan folyó partja",
+            "tip": "Egy séta a folyó mentén kikapcsolódást nyújt a városi nyüzsgésből.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Botanikus Kert",
+            "tip": "Kicsit távolabb, de a nyugalom oázisa.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mănăstirea Pokrovsky",
+            "tip": "Găsiți un colț liniștit în acest complex mănăstiresc istoric.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malul râului Lopan",
+            "tip": "O plimbare de-a lungul râului oferă o pauză de la agitația urbană.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Botanică",
+            "tip": "Puțin mai departe, dar o oază de liniște.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pokrovsky Monastery",
+            "tip": "Find a quiet corner in this historic monastery complex.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Banks of the Lopan River",
+            "tip": "A walk along the river offers a break from the urban hustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Botanical Garden",
+            "tip": "A bit further out, but an oasis of tranquility.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sumska-Straße",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus lokalen und internationalen Marken."
+          },
+          {
+            "name": "Zentralmarkt (Blagoveshchensky)",
+            "tip": "Ein riesiger, lebhafter Markt für alles von Lebensmitteln bis zu Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szumszka utca",
+            "tip": "A fő bevásárlóutca helyi és nemzetközi márkák keverékével."
+          },
+          {
+            "name": "Központi Piac (Blagovescsenszkij)",
+            "tip": "Hatalmas, nyüzsgő piac, ahol az élelmiszerektől a szuvenírekig mindent megtalál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Sumska",
+            "tip": "Principala stradă comercială cu un amestec de mărci locale și internaționale."
+          },
+          {
+            "name": "Piața Centrală (Blagoveshchensky)",
+            "tip": "O piață imensă și plină de viață pentru orice, de la alimente la suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sumska Street",
+            "tip": "The main shopping street with a mix of local and international brands."
+          },
+          {
+            "name": "Central Market (Blagoveshchensky)",
+            "tip": "A huge, bustling market for everything from food to souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Planen Sie zusätzliche Zeit für die Kathedralen ein, ihre Innenräume sind detailreich.",
+          "Viele Cafés rund um den Schewtschenko-Park bieten eine gute Gelegenheit für eine Pause.",
+          "Achten Sie auf unebenes Pflaster in den älteren Teilen der Stadt."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "Szánjon több időt a székesegyházakra, belső tereik részletgazdagok.",
+          "A Sevcsenko Park körüli számos kávézó jó lehetőséget kínál egy szünetre.",
+          "Vigyázzon az egyenetlen macskakövekre a város régebbi részein."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe jos.",
+          "Planificați timp suplimentar pentru catedrale, interioarele lor sunt detaliate.",
+          "Multe cafenele în jurul Parcului Șevcenko oferă o bună oportunitate pentru o pauză.",
+          "Fiți atenți la pavelele denivelate din părțile mai vechi ale orașului."
+        ],
+        "en": [
+          "Wear comfortable shoes, as you'll be doing a lot of walking.",
+          "Plan extra time for the cathedrals; their interiors are detailed.",
+          "Many cafes around Shevchenko Park offer a good opportunity for a break.",
+          "Be mindful of uneven cobblestones in the older parts of the city."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:42",
+      "total_km": 11.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Freiheitsplatz",
+            "hu": "Szabadság tér",
+            "ro": "Piața Libertății",
+            "en": "Freedom Square"
+          },
+          "coords": [
+            36.2298,
+            50.0053
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein idealer, weitläufiger Startpunkt für eine Radtour.",
+            "hu": "Ideális, tágas kiindulópont egy biciklitúrához.",
+            "ro": "Un punct de plecare ideal și spațios pentru un tur cu bicicleta.",
+            "en": "An ideal, spacious starting point for a bike tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Derzhprom",
+            "hu": "Derzsprom",
+            "ro": "Derzhprom",
+            "en": "Derzhprom"
+          },
+          "coords": [
+            36.2271,
+            50.0064
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:24",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Rad an und gehen Sie nah heran, um die architektonischen Details zu sehen.",
+            "hu": "Zárja le a biciklit és menjen közel, hogy lássa az építészeti részleteket.",
+            "ro": "Legați-vă bicicleta și apropiați-vă pentru a vedea detaliile arhitecturale.",
+            "en": "Lock your bike and get up close to see the architectural details."
+          }
+        },
+        {
+          "name": {
+            "de": "Schewtschenko-Park",
+            "hu": "Sevcsenko Park",
+            "ro": "Parcul Șevcenko",
+            "en": "Shevchenko Park"
+          },
+          "coords": [
+            36.2322,
+            50.0021
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:59",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie auf den Hauptwegen, aber steigen Sie ab, um die Gärten zu erkunden.",
+            "hu": "Kerékpározzon a fő utakon, de szálljon le, hogy felfedezze a kerteket.",
+            "ro": "Mergeți pe aleile principale, dar descălecați pentru a explora grădinile.",
+            "en": "Ride on the main paths, but dismount to explore the gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Gorki-Park",
+            "hu": "Gorkij park",
+            "ro": "Parcul Gorki",
+            "en": "Gorky Park"
+          },
+          "coords": [
+            36.2488,
+            50.0165
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:02",
+          "stay_min": 120,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein riesiger Park mit Riesenrad. Planen Sie hier Ihr Mittagessen ein.",
+            "hu": "Hatalmas park óriáskerékkel. Tervezze ide az ebédjét.",
+            "ro": "Un parc imens cu o roată mare. Planificați-vă prânzul aici.",
+            "en": "A huge park with a Ferris wheel. Plan your lunch here."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiegelstrom-Brunnen",
+            "hu": "Tükörsugár-szökőkút",
+            "ro": "Fântâna Jet de Oglindă",
+            "en": "Mirror Stream Fountain"
+          },
+          "coords": [
+            36.2368,
+            49.9974
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:20",
+          "stay_min": 15,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Besonders schön bei Nacht, aber auch tagsüber ein toller Fotospot.",
+            "hu": "Éjjel különösen szép, de nappal is remek fotóhelyszín.",
+            "ro": "Deosebit de frumos noaptea, dar și un loc minunat pentru fotografii în timpul zilei.",
+            "en": "Especially beautiful at night, but also a great photo spot during the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum",
+            "hu": "Történeti Múzeum",
+            "ro": "Muzeul de Istorie",
+            "en": "Historical Museum"
+          },
+          "coords": [
+            36.2321,
+            49.9888
+          ],
+          "category": "museums",
+          "arrive_at": "13:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab, bevor Sie in die Geschichte eintauchen.",
+            "hu": "Biztonságosan zárja le a kerékpárt, mielőtt elmerülne a történelemben.",
+            "ro": "Asigurați-vă bicicleta înainte de a vă cufunda în istorie.",
+            "en": "Securely park your bike before diving into history."
+          }
+        },
+        {
+          "name": {
+            "de": "Verkündigungs-Kathedrale",
+            "hu": "Angyali Üdvözlet-székesegyház",
+            "ro": "Catedrala Buna Vestire",
+            "en": "Annunciation Cathedral"
+          },
+          "coords": [
+            36.2235,
+            49.9891
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:08",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein beeindruckender Anblick. Zeigen Sie Respekt und kleiden Sie sich angemessen.",
+            "hu": "Lenyűgöző látvány. Tanúsítson tiszteletet és öltözködjön megfelelően.",
+            "ro": "O priveliște impresionantă. Arătați respect și îmbrăcați-vă corespunzător.",
+            "en": "An impressive sight. Show respect and dress appropriately."
+          }
+        },
+        {
+          "name": {
+            "de": "Pokrowski-Kloster",
+            "hu": "Pokrovszkij-kolostor",
+            "ro": "Mănăstirea Pokrovsky",
+            "en": "Pokrovsky Monastery"
+          },
+          "coords": [
+            36.2315,
+            49.9868
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein friedlicher Abschluss des Tages. Genießen Sie die ruhige Atmosphäre.",
+            "hu": "A nap békés lezárása. Élvezze a csendes légkört.",
+            "ro": "Un final pașnic al zilei. Bucurați-vă de atmosfera liniștită.",
+            "en": "A peaceful end to the day. Enjoy the quiet atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich am weitläufigen Freiheitsplatz aufs Rad und starten Sie den Tag mit einem Besuch des Derzhprom. Am Vormittag radeln Sie durch den Schewtschenko-Park und weiter zur grünen Lunge der Stadt, dem Gorki-Park, wo Sie eine längere Pause einlegen. Nach dem Mittagessen führt die Route Sie zurück ins Zentrum zum fotogenen Spiegelstrom-Brunnen. Der Nachmittag ist der Kultur und Spiritualität gewidmet: Sie erkunden das Historische Museum, bestaunen die gestreifte Verkündigungs-Kathedrale und finden Ruhe im historischen Pokrowski-Kloster. Der Abend bricht an, während Sie die letzten Eindrücke in der Altstadt sammeln.",
+        "hu": "Pattanjon biciklire a tágas Szabadság téren, és kezdje a napot a Derzsprom meglátogatásával. Délelőtt tekerjen át a Sevcsenko Parkon, majd tovább a város zöld tüdejébe, a Gorkij parkba, ahol hosszabb pihenőt tart. Ebéd után az útvonal visszavezet a központba a fotogén Tükörsugár-szökőkúthoz. A délután a kultúráé és a spiritualitásé: felfedezi a Történeti Múzeumot, megcsodálja a csíkos Angyali Üdvözlet-székesegyházat, és békére lel a történelmi Pokrovszkij-kolostorban. Az este beköszöntével az óvárosban gyűjtheti be az utolsó benyomásokat.",
+        "ro": "Urcați-vă pe bicicletă în spațioasa Piață a Libertății și începeți ziua cu o vizită la Derzhprom. Dimineața, pedalați prin Parcul Șevcenko și mai departe spre plămânul verde al orașului, Parcul Gorki, unde faceți o pauză mai lungă. După prânz, traseul vă duce înapoi în centru, la fotogenica Fântână Jet de Oglindă. După-amiaza este dedicată culturii și spiritualității: explorați Muzeul de Istorie, admirați Catedrala Buna Vestire cu dungi și găsiți liniștea la istorica Mănăstire Pokrovsky. Seara se lasă în timp ce adunați ultimele impresii în orașul vechi.",
+        "en": "Hop on your bike in the spacious Freedom Square and start the day with a visit to Derzhprom. In the morning, cycle through Shevchenko Park and on to the city's green lung, Gorky Park, where you'll take a longer break. After lunch, the route takes you back to the center to the photogenic Mirror Stream Fountain. The afternoon is dedicated to culture and spirituality: you'll explore the Historical Museum, marvel at the striped Annunciation Cathedral, and find peace at the historic Pokrovsky Monastery. Evening falls as you gather your last impressions in the old town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Salat mit Leber",
+            "tip": "Ein lokaler Favorit, leicht und nahrhaft."
+          },
+          {
+            "name": "Okroschka",
+            "tip": "Eine kalte Suppe, perfekt für einen warmen Tag nach einer Radtour."
+          },
+          {
+            "name": "Uzvar",
+            "tip": "Ein traditioneller getrockneter Früchtekompott, sehr erfrischend."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Májas saláta",
+            "tip": "Helyi kedvenc, könnyű és tápláló."
+          },
+          {
+            "name": "Okroska",
+            "tip": "Hideg leves, tökéletes egy meleg napon egy biciklitúra után."
+          },
+          {
+            "name": "Uzvar",
+            "tip": "Hagyományos szárított gyümölcskompót, nagyon frissítő."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Salată cu ficat",
+            "tip": "Un favorit local, ușor și hrănitor."
+          },
+          {
+            "name": "Okroshka",
+            "tip": "O supă rece, perfectă pentru o zi caldă după un tur cu bicicleta."
+          },
+          {
+            "name": "Uzvar",
+            "tip": "Un compot tradițional de fructe uscate, foarte răcoritor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Salad with liver",
+            "tip": "A local favorite, light and nutritious."
+          },
+          {
+            "name": "Okroshka",
+            "tip": "A cold soup, perfect for a warm day after a bike tour."
+          },
+          {
+            "name": "Uzvar",
+            "tip": "A traditional dried fruit compote, very refreshing."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gorki-Park See",
+            "tip": "Finden Sie eine Bank am See und beobachten Sie die Menschen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Botanischer Garten (auf dem Weg)",
+            "tip": "Ein kleiner Umweg, aber ideal für eine ruhige Pause im Grünen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang am Lopan-Ufer",
+            "tip": "Beenden Sie Ihre Tour mit Blick auf den Fluss.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gorkij parki tó",
+            "tip": "Keressen egy padot a tónál és nézze az embereket.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Botanikus Kert (út közben)",
+            "tip": "Kis kitérő, de ideális egy csendes pihenőre a zöldben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a Lopan-parton",
+            "tip": "Fejezze be a túrát a folyóra néző kilátással.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul din Parcul Gorki",
+            "tip": "Găsiți o bancă lângă lac și priviți oamenii.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Botanică (pe drum)",
+            "tip": "Un mic ocol, dar ideal pentru o pauză liniștită în verdeață.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus de soare pe malul râului Lopan",
+            "tip": "Încheiați turul cu o priveliște asupra râului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gorky Park Lake",
+            "tip": "Find a bench by the lake and people-watch.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Botanical Garden (on the way)",
+            "tip": "A slight detour, but ideal for a quiet break in the green.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset on the Lopan riverbank",
+            "tip": "End your tour with a view of the river.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "In der Nähe der Universität gibt es mehrere Geschäfte für Zubehör oder schnelle Reparaturen."
+          },
+          {
+            "name": "Lokale Kunsthandwerker im Schewtschenko-Park",
+            "tip": "Halten Sie Ausschau nach kleinen Ständen mit handgemachten Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Az egyetem közelében több üzlet is található kiegészítőkért vagy gyors javításokért."
+          },
+          {
+            "name": "Helyi kézművesek a Sevcsenko Parkban",
+            "tip": "Keresse a kézzel készített szuveníreket árusító kis standokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Există mai multe magazine lângă universitate pentru accesorii sau reparații rapide."
+          },
+          {
+            "name": "Artizani locali în Parcul Șevcenko",
+            "tip": "Fiți atenți la micile tarabe care vând suveniruri făcute manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shops",
+            "tip": "There are several shops near the university for accessories or quick repairs."
+          },
+          {
+            "name": "Local artisans in Shevchenko Park",
+            "tip": "Look out for small stalls selling handmade souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Charkiw ist relativ flach, aber einige Brücken erfordern einen kleinen Anstieg.",
+          "Nutzen Sie die breiten Alleen, aber seien Sie im Verkehr vorsichtig.",
+          "Schließen Sie Ihr Fahrrad immer an, auch bei kurzen Stopps.",
+          "Ein Helm wird dringend empfohlen."
+        ],
+        "hu": [
+          "Harkov viszonylag sík, de néhány híd megkövetel egy kis emelkedőt.",
+          "Használja a széles sugárutakat, de legyen óvatos a forgalomban.",
+          "Mindig zárja le a kerékpárt, még rövid megállók esetén is.",
+          "Sisak használata erősen ajánlott."
+        ],
+        "ro": [
+          "Harkovul este relativ plat, dar unele poduri necesită o mică urcare.",
+          "Folosiți bulevardele largi, dar fiți prudenți în trafic.",
+          "Legați-vă întotdeauna bicicleta, chiar și pentru opriri scurte.",
+          "O cască este puternic recomandată."
+        ],
+        "en": [
+          "Kharkiv is relatively flat, but some bridges require a bit of a climb.",
+          "Use the wide avenues, but be cautious in traffic.",
+          "Always lock your bike, even for short stops.",
+          "A helmet is highly recommended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:54",
+      "total_km": 10.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Gorki-Park",
+            "hu": "Gorkij park",
+            "ro": "Parcul Gorki",
+            "en": "Gorky Park"
+          },
+          "coords": [
+            36.2488,
+            50.0165
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Haupteingang. Der Park ist groß genug für einen ganzen Vormittag.",
+            "hu": "Parkoljon a főbejáratnál. A park elég nagy egy egész délelőttre.",
+            "ro": "Parcați la intrarea principală. Parcul este suficient de mare pentru o dimineață întreagă.",
+            "en": "Park at the main entrance. The park is large enough for a whole morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Freiheitsplatz",
+            "hu": "Szabadság tér",
+            "ro": "Piața Libertății",
+            "en": "Freedom Square"
+          },
+          "coords": [
+            36.2298,
+            50.0053
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:18",
+          "stay_min": 20,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Finden Sie einen Parkplatz in einer Nebenstraße und erkunden Sie den Platz zu Fuß.",
+            "hu": "Keressen parkolóhelyet egy mellékutcában, és fedezze fel a teret gyalog.",
+            "ro": "Găsiți un loc de parcare pe o stradă lăturalnică și explorați piața pe jos.",
+            "en": "Find a parking spot on a side street and explore the square on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Derzhprom",
+            "hu": "Derzsprom",
+            "ro": "Derzhprom",
+            "en": "Derzhprom"
+          },
+          "coords": [
+            36.2271,
+            50.0064
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:42",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Platz aus leicht zu Fuß erreichbar. Ein Muss für Architekturliebhaber.",
+            "hu": "A térről könnyen megközelíthető gyalog. Kötelező az építészet szerelmeseinek.",
+            "ro": "Ușor de accesat pe jos din piață. O necesitate pentru iubitorii de arhitectură.",
+            "en": "Easily accessible on foot from the square. A must for architecture lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "Schewtschenko-Park",
+            "hu": "Sevcsenko Park",
+            "ro": "Parcul Șevcenko",
+            "en": "Shevchenko Park"
+          },
+          "coords": [
+            36.2322,
+            50.0021
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang vom Derzhprom. Ideal für eine Mittagspause.",
+            "hu": "Kellemes séta a Derzspromtól. Ideális egy ebédszünetre.",
+            "ro": "O plimbare frumoasă de la Derzhprom. Ideal pentru o pauză de prânz.",
+            "en": "A beautiful walk from Derzhprom. Ideal for a lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Verkündigungs-Kathedrale",
+            "hu": "Angyali Üdvözlet-székesegyház",
+            "ro": "Catedrala Buna Vestire",
+            "en": "Annunciation Cathedral"
+          },
+          "coords": [
+            36.2235,
+            49.9891
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:04",
+          "stay_min": 45,
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Flusses und gehen Sie zur Kathedrale.",
+            "hu": "Parkoljon a folyó közelében, és sétáljon el a székesegyházhoz.",
+            "ro": "Parcați lângă râu și mergeți pe jos până la catedrală.",
+            "en": "Park near the river and walk to the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Uspenski-Kathedrale",
+            "hu": "Uszpenszkij-székesegyház",
+            "ro": "Catedrala Adormirea Maicii Domnului (Uspenski)",
+            "en": "Uspenski Cathedral"
+          },
+          "coords": [
+            36.2335,
+            49.9875
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang über die Brücke von der Verkündigungs-Kathedrale.",
+            "hu": "Rövid séta a hídon át az Angyali Üdvözlet-székesegyháztól.",
+            "ro": "O scurtă plimbare peste pod de la Catedrala Buna Vestire.",
+            "en": "A short walk across the bridge from the Annunciation Cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum",
+            "hu": "Történeti Múzeum",
+            "ro": "Muzeul de Istorie",
+            "en": "Historical Museum"
+          },
+          "coords": [
+            36.2321,
+            49.9888
+          ],
+          "category": "museums",
+          "arrive_at": "15:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einer Dosis Geschichte. Liegt direkt neben der Kathedrale.",
+            "hu": "Zárja a napot egy adag történelemmel. Közvetlenül a székesegyház mellett található.",
+            "ro": "Încheiați ziua cu o doză de istorie. Situat chiar lângă catedrală.",
+            "en": "End the day with a dose of history. Located right next to the cathedral."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Autotag entspannt im weitläufigen Gorki-Park. Nach einem Vormittag im Grünen fahren Sie zum ersten Cluster im Stadtzentrum. Parken Sie Ihr Auto und erkunden Sie zu Fuß den monumentalen Freiheitsplatz, das Derzhprom-Gebäude und den Schewtschenko-Park, wo Sie zu Mittag essen. Am Nachmittag fahren Sie zum zweiten Cluster, dem spirituellen Herzen der Stadt. Lassen Sie das Auto stehen und entdecken Sie die beeindruckende Verkündigungs-Kathedrale, die Uspenski-Kathedrale und tauchen Sie zum Abschluss im Historischen Museum in die Vergangenheit ein.",
+        "hu": "Kezdje autós napját nyugodtan a tágas Gorkij parkban. A zöldben töltött délelőtt után hajtson az első klaszterhez a városközpontban. Parkolja le autóját, és fedezze fel gyalog a monumentális Szabadság teret, a Derzsprom épületét és a Sevcsenko Parkot, ahol ebédelhet. Délután hajtson a második klaszterhez, a város spirituális szívéhez. Hagyja az autót, és fedezze fel a lenyűgöző Angyali Üdvözlet-székesegyházat, az Uszpenszkij-székesegyházat, majd a nap végén merüljön el a múltban a Történeti Múzeumban.",
+        "ro": "Începeți-vă ziua cu mașina relaxat în spațiosul Parc Gorki. După o dimineață în natură, conduceți spre primul cluster din centrul orașului. Parcați mașina și explorați pe jos monumentala Piață a Libertății, clădirea Derzhprom și Parcul Șevcenko, unde luați prânzul. După-amiaza, conduceți spre al doilea cluster, inima spirituală a orașului. Lăsați mașina și descoperiți impresionanta Catedrală a Bunei Vestiri, Catedrala Uspenski și, la final, scufundați-vă în trecut la Muzeul de Istorie.",
+        "en": "Start your car day relaxed in the spacious Gorky Park. After a morning in the green, drive to the first cluster in the city center. Park your car and explore the monumental Freedom Square, the Derzhprom building, and Shevchenko Park on foot, where you'll have lunch. In the afternoon, drive to the second cluster, the spiritual heart of the city. Leave the car and discover the impressive Annunciation Cathedral, the Uspenski Cathedral, and finally, delve into the past at the Historical Museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schaschlik",
+            "tip": "Gegrilltes Fleisch am Spieß, oft in Parks und an Imbissständen erhältlich."
+          },
+          {
+            "name": "Syrniki",
+            "tip": "Quarkpfannkuchen, meist zum Frühstück oder als Dessert serviert."
+          },
+          {
+            "name": "Kwas",
+            "tip": "Ein traditionelles fermentiertes Getränk aus Brot. Erfrischend und anders."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saslik",
+            "tip": "Nyárson sült grillezett hús, gyakran kapható parkokban és büfékben."
+          },
+          {
+            "name": "Szirnyiki",
+            "tip": "Túrós palacsinta, általában reggelire vagy desszertként tálalva."
+          },
+          {
+            "name": "Kvasz",
+            "tip": "Hagyományos, erjesztett kenyérből készült ital. Frissítő és különleges."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Șașlîk",
+            "tip": "Carne la grătar pe frigăruie, adesea disponibilă în parcuri și la standuri de mâncare."
+          },
+          {
+            "name": "Syrniki",
+            "tip": "Clătite din brânză de vaci, servite de obicei la micul dejun sau ca desert."
+          },
+          {
+            "name": "Cvas",
+            "tip": "O băutură tradițională fermentată din pâine. Răcoritoare și diferită."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shashlik",
+            "tip": "Grilled meat on a skewer, often available in parks and at food stalls."
+          },
+          {
+            "name": "Syrniki",
+            "tip": "Cottage cheese pancakes, usually served for breakfast or as a dessert."
+          },
+          {
+            "name": "Kvass",
+            "tip": "A traditional fermented beverage made from bread. Refreshing and different."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pokrowski-Klosterhof",
+            "tip": "Ein ruhiger Ort, um dem Stadtverkehr zu entfliehen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sarzhyn Jar",
+            "tip": "Ein Talpark mit einer Quelle, etwas außerhalb, aber mit dem Auto gut erreichbar.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Blick vom Derzhprom",
+            "tip": "Auch wenn man nicht hineingeht, bietet die Umgebung eine Perspektive auf die Weite.",
+            "emoji": "🏙️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pokrovszkij-kolostor udvara",
+            "tip": "Csendes hely a városi forgalom elől.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Szarzsin Jar",
+            "tip": "Egy völgypark forrással, kissé kiesik, de autóval jól megközelíthető.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a Derzspromtól",
+            "tip": "Még ha nem is megy be, a környék perspektívát nyújt a tágasságra.",
+            "emoji": "🏙️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea Mănăstirii Pokrovsky",
+            "tip": "Un loc liniștit pentru a scăpa de traficul orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sarzhyn Yar",
+            "tip": "Un parc într-o vale cu un izvor, puțin în afara centrului, dar ușor accesibil cu mașina.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere de la Derzhprom",
+            "tip": "Chiar dacă nu intrați, zona înconjurătoare oferă o perspectivă asupra vastității.",
+            "emoji": "🏙️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pokrovsky Monastery Courtyard",
+            "tip": "A quiet place to escape the city traffic.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sarzhyn Yar",
+            "tip": "A valley park with a spring, a bit out of the way but easily accessible by car.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from Derzhprom",
+            "tip": "Even if you don't go in, the surroundings offer a perspective on the vastness.",
+            "emoji": "🏙️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Einkaufszentrum 'Karavan'",
+            "tip": "Ein großes Einkaufszentrum am Stadtrand, wenn Sie eine größere Auswahl benötigen."
+          },
+          {
+            "name": "Buchmarkt am 'Knyzhkovyy Rynok'",
+            "tip": "Ein Paradies für Bibliophile, auch mit alten Postkarten und Karten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "'Karavan' bevásárlóközpont",
+            "tip": "Nagy bevásárlóközpont a város szélén, ha nagyobb választékra van szüksége."
+          },
+          {
+            "name": "Könyvpiac a 'Knyizskovij Rinok'-on",
+            "tip": "A bibliofilek paradicsoma, régi képeslapokkal és térképekkel is."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul comercial 'Karavan'",
+            "tip": "Un mall mare la periferia orașului dacă aveți nevoie de o selecție mai largă."
+          },
+          {
+            "name": "Piața de carte de la 'Knyzhkovyy Rynok'",
+            "tip": "Un paradis pentru bibliofili, cu vederi și hărți vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "'Karavan' Shopping Mall",
+            "tip": "A large mall on the outskirts if you need a wider selection."
+          },
+          {
+            "name": "Book Market at 'Knyzhkovyy Rynok'",
+            "tip": "A paradise for bibliophiles, also with old postcards and maps."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken im Zentrum kann eine Herausforderung sein. Nutzen Sie kostenpflichtige Parkplätze.",
+          "Planen Sie Stoßzeiten ein, der Verkehr kann dicht sein.",
+          "Ein GPS ist unerlässlich. Überprüfen Sie die Routen im Voraus.",
+          "Die Cluster-Walking-Strategie spart Zeit und Nerven bei der Parkplatzsuche."
+        ],
+        "hu": [
+          "A központban a parkolás kihívást jelenthet. Használjon fizetős parkolókat.",
+          "Tervezzen a csúcsforgalommal, a forgalom sűrű lehet.",
+          "GPS elengedhetetlen. Ellenőrizze előre az útvonalakat.",
+          "A klaszteres gyalogos stratégia időt és idegeket takarít meg a parkolóhely-keresésnél."
+        ],
+        "ro": [
+          "Parcarea în centru poate fi o provocare. Folosiți parcările cu plată.",
+          "Luați în considerare orele de vârf, traficul poate fi aglomerat.",
+          "Un GPS este esențial. Verificați traseele în avans.",
+          "Strategia de mers pe jos în clustere economisește timp și nervi la căutarea unui loc de parcare."
+        ],
+        "en": [
+          "Parking in the center can be challenging. Use paid parking lots.",
+          "Plan for rush hours; traffic can be heavy.",
+          "A GPS is essential. Check routes in advance.",
+          "The cluster-walking strategy saves time and nerves when looking for parking."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:36",
+      "total_km": 7.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Freiheitsplatz",
+            "hu": "Szabadság tér",
+            "ro": "Piața Libertății",
+            "en": "Freedom Square"
+          },
+          "coords": [
+            36.2298,
+            50.0053
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Starten Sie an der Metrostation 'Universytet' oder 'Derzhprom', die direkt am Platz liegen.",
+            "hu": "Induljon az 'Universytet' vagy 'Derzhprom' metróállomásokról, amelyek közvetlenül a téren találhatók.",
+            "ro": "Începeți de la stația de metrou 'Universytet' sau 'Derzhprom', situate chiar în piață.",
+            "en": "Start at the 'Universytet' or 'Derzhprom' metro stations, located right on the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Derzhprom",
+            "hu": "Derzsprom",
+            "ro": "Derzhprom",
+            "en": "Derzhprom"
+          },
+          "coords": [
+            36.2271,
+            50.0064
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:24",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang über den Platz. Die schiere Größe ist aus der Nähe am besten zu erfassen.",
+            "hu": "Rövid séta a téren át. A puszta méretét közelről lehet a legjobban felmérni.",
+            "ro": "O scurtă plimbare prin piață. Dimensiunea sa pură este cel mai bine apreciată de aproape.",
+            "en": "A short walk across the square. Its sheer scale is best appreciated up close."
+          }
+        },
+        {
+          "name": {
+            "de": "Schewtschenko-Park",
+            "hu": "Sevcsenko Park",
+            "ro": "Parcul Șevcenko",
+            "en": "Shevchenko Park"
+          },
+          "coords": [
+            36.2322,
+            50.0021
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:02",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie durch den Park in Richtung der nächsten Metrostation 'Istorychnyi Muzei'.",
+            "hu": "Sétáljon át a parkon a következő, 'Istorychnyi Muzei' metróállomás felé.",
+            "ro": "Plimbați-vă prin parc spre următoarea stație de metrou, 'Istorychnyi Muzei'.",
+            "en": "Stroll through the park towards the next metro station, 'Istorychnyi Muzei'."
+          }
+        },
+        {
+          "name": {
+            "de": "Verkündigungs-Kathedrale",
+            "hu": "Angyali Üdvözlet-székesegyház",
+            "ro": "Catedrala Buna Vestire",
+            "en": "Annunciation Cathedral"
+          },
+          "coords": [
+            36.2235,
+            49.9891
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:26",
+          "stay_min": 45,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie die Metro eine Station oder gehen Sie zu Fuß. Die Kathedrale ist unübersehbar.",
+            "hu": "Menjen egy megállót metróval, vagy sétáljon. A székesegyházat nem lehet eltéveszteni.",
+            "ro": "Luați metroul o stație sau mergeți pe jos. Catedrala este imposibil de ratat.",
+            "en": "Take the metro one stop or walk. The cathedral is unmissable."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum",
+            "hu": "Történeti Múzeum",
+            "ro": "Muzeul de Istorie",
+            "en": "Historical Museum"
+          },
+          "coords": [
+            36.2321,
+            49.9888
+          ],
+          "category": "museums",
+          "arrive_at": "12:19",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Kathedrale. Planen Sie hier Ihre Mittagspause.",
+            "hu": "Rövid séta a székesegyháztól. Tervezze ide az ebédszünetet.",
+            "ro": "O scurtă plimbare de la catedrală. Planificați-vă pauza de prânz aici.",
+            "en": "A short walk from the cathedral. Plan your lunch break here."
+          }
+        },
+        {
+          "name": {
+            "de": "Uspenski-Kathedrale",
+            "hu": "Uszpenszkij-székesegyház",
+            "ro": "Catedrala Adormirea Maicii Domnului (Uspenski)",
+            "en": "Uspenski Cathedral"
+          },
+          "coords": [
+            36.2335,
+            49.9875
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt neben dem Museum. Beide bilden den historischen Kern.",
+            "hu": "Közvetlenül a múzeum mellett. Mindkettő a történelmi magot alkotja.",
+            "ro": "Chiar lângă muzeu. Ambele formează nucleul istoric.",
+            "en": "Right next to the museum. Both form the historical core."
+          }
+        },
+        {
+          "name": {
+            "de": "Gorki-Park",
+            "hu": "Gorkij park",
+            "ro": "Parcul Gorki",
+            "en": "Gorky Park"
+          },
+          "coords": [
+            36.2488,
+            50.0165
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:07",
+          "stay_min": 90,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 3.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie die Metro oder einen Bus. Ein perfekter Ort, um den Nachmittag ausklingen zu lassen.",
+            "hu": "Menjen metróval vagy busszal. Tökéletes hely a délután befejezéséhez.",
+            "ro": "Luați metroul sau un autobuz. Un loc perfect pentru a încheia după-amiaza.",
+            "en": "Take the metro or a bus. A perfect place to end the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag direkt an den Metrostationen am Freiheitsplatz. Der Vormittag gehört dem ersten Fußgänger-Cluster: Erkunden Sie den Platz, das Derzhprom und den Schewtschenko-Park. Nach einem Spaziergang nehmen Sie die Metro zum zweiten Cluster. Am frühen Nachmittag entdecken Sie das historische Viertel zu Fuß, mit der farbenfrohen Verkündigungs-Kathedrale, dem Historischen Museum und der Uspenski-Kathedrale. Eine letzte Fahrt mit den öffentlichen Verkehrsmitteln bringt Sie zum Gorki-Park, wo Sie den Tag in entspannter Atmosphäre ausklingen lassen.",
+        "hu": "Kezdje a napot közvetlenül a Szabadság téri metróállomásoknál. A délelőtt az első gyalogos klaszteré: fedezze fel a teret, a Derzspromot és a Sevcsenko Parkot. Séta után metróval utazzon a második klaszterhez. Kora délután gyalog fedezze fel a történelmi negyedet a színpompás Angyali Üdvözlet-székesegyházzal, a Történeti Múzeummal és az Uszpenszkij-székesegyházzal. Egy utolsó tömegközlekedési út a Gorkij parkba viszi, ahol nyugodt légkörben zárhatja a napot.",
+        "ro": "Începeți ziua direct de la stațiile de metrou din Piața Libertății. Dimineața aparține primului cluster pietonal: explorați piața, Derzhprom și Parcul Șevcenko. După o plimbare, luați metroul spre al doilea cluster. La începutul după-amiezii, descoperiți cartierul istoric pe jos, cu colorata Catedrală a Bunei Vestiri, Muzeul de Istorie și Catedrala Uspenski. O ultimă călătorie cu transportul public vă duce la Parcul Gorki, unde puteți încheia ziua într-o atmosferă relaxată.",
+        "en": "Start your day right at the metro stations on Freedom Square. The morning belongs to the first pedestrian cluster: explore the square, Derzhprom, and Shevchenko Park. After a stroll, take the metro to the second cluster. In the early afternoon, discover the historic quarter on foot, with the colorful Annunciation Cathedral, the Historical Museum, and the Uspenski Cathedral. A final transit ride takes you to Gorky Park, where you can end the day in a relaxed atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Piroggen",
+            "tip": "Kleine gebackene oder gebratene Pasteten, ein perfekter Snack für unterwegs."
+          },
+          {
+            "name": "Soljanka",
+            "tip": "Eine dicke, würzige Suppe, die an kalten Tagen wärmt."
+          },
+          {
+            "name": "Kaffee Charkiw-Stil",
+            "tip": "Starker Kaffee, oft mit einem Schuss lokalem Balsam serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pirog",
+            "tip": "Kis sült vagy rántott piték, tökéletes úti snack."
+          },
+          {
+            "name": "Szoljanka",
+            "tip": "Sűrű, fűszeres leves, amely felmelegít a hideg napokon."
+          },
+          {
+            "name": "Harkovi stílusú kávé",
+            "tip": "Erős kávé, gyakran egy csepp helyi balzsammal tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pirojki",
+            "tip": "Plăcinte mici coapte sau prăjite, o gustare perfectă pentru drum."
+          },
+          {
+            "name": "Solianka",
+            "tip": "O supă groasă și picantă care te încălzește în zilele reci."
+          },
+          {
+            "name": "Cafea în stil Harkov",
+            "tip": "Cafea tare, adesea servită cu un strop de balsam local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pirozhki",
+            "tip": "Small baked or fried pies, a perfect snack on the go."
+          },
+          {
+            "name": "Solyanka",
+            "tip": "A thick, spicy soup that warms you up on cold days."
+          },
+          {
+            "name": "Kharkiv-style coffee",
+            "tip": "Strong coffee, often served with a dash of local balsam."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt mit der Kinder-Eisenbahn",
+            "tip": "Im Gorki-Park, eine überraschend ruhige und nostalgische Fahrt.",
+            "emoji": "🚂"
+          },
+          {
+            "name": "Spaziergang entlang der Sumska-Straße am Abend",
+            "tip": "Weniger überfüllt als tagsüber, mit schön beleuchteten Gebäuden.",
+            "emoji": "🌃"
+          },
+          {
+            "name": "In einer Kirche",
+            "tip": "Die orthodoxen Kirchen sind oft ruhige Zufluchtsorte.",
+            "emoji": "🕯️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Utazás a Gyermekvasúttal",
+            "tip": "A Gorkij parkban, meglepően csendes és nosztalgikus utazás.",
+            "emoji": "🚂"
+          },
+          {
+            "name": "Esti séta a Szumszka utcán",
+            "tip": "Kevésbé zsúfolt, mint napközben, szépen kivilágított épületekkel.",
+            "emoji": "🌃"
+          },
+          {
+            "name": "Egy templomban",
+            "tip": "Az ortodox templomok gyakran csendes menedékhelyek.",
+            "emoji": "🕯️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătorie cu trenulețul pentru copii",
+            "tip": "În Parcul Gorki, o plimbare surprinzător de liniștită și nostalgică.",
+            "emoji": "🚂"
+          },
+          {
+            "name": "Plimbare pe strada Sumska seara",
+            "tip": "Mai puțin aglomerată decât în timpul zilei, cu clădiri frumos iluminate.",
+            "emoji": "🌃"
+          },
+          {
+            "name": "Într-o biserică",
+            "tip": "Bisericile ortodoxe sunt adesea refugii liniștite.",
+            "emoji": "🕯️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ride the Children's Railway",
+            "tip": "In Gorky Park, a surprisingly quiet and nostalgic ride.",
+            "emoji": "🚂"
+          },
+          {
+            "name": "Evening stroll on Sumska Street",
+            "tip": "Less crowded than during the day, with beautifully lit buildings.",
+            "emoji": "🌃"
+          },
+          {
+            "name": "Inside a church",
+            "tip": "The Orthodox churches are often quiet sanctuaries.",
+            "emoji": "🕯️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Untergrund-Passagen",
+            "tip": "In vielen Metrostationen finden Sie kleine Geschäfte und Kioske."
+          },
+          {
+            "name": "Ave Plaza",
+            "tip": "Ein modernes Einkaufszentrum in der Nähe der Sumska-Straße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aluljárók",
+            "tip": "Sok metróállomáson talál kis boltokat és kioszkokat."
+          },
+          {
+            "name": "Ave Plaza",
+            "tip": "Modern bevásárlóközpont a Szumszka utca közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pasaje subterane",
+            "tip": "Veți găsi mici magazine și chioșcuri în multe stații de metrou."
+          },
+          {
+            "name": "Ave Plaza",
+            "tip": "Un centru comercial modern lângă strada Sumska."
+          }
+        ],
+        "en": [
+          {
+            "name": "Underground passages",
+            "tip": "You'll find small shops and kiosks in many metro stations."
+          },
+          {
+            "name": "Ave Plaza",
+            "tip": "A modern shopping center near Sumska Street."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Jetons für die Metro an den Kassen in den Stationen.",
+          "Die Metro ist schnell und effizient für größere Entfernungen.",
+          "Achten Sie auf Ihre Sachen in überfüllten Bussen oder Bahnen.",
+          "Die Beschilderung ist oft auch in Englisch, aber eine Offline-Karte ist nützlich."
+        ],
+        "hu": [
+          "Vásároljon zsetonokat a metróhoz az állomások pénztárában.",
+          "A metró gyors és hatékony a nagyobb távolságokra.",
+          "Vigyázzon a holmijára a zsúfolt buszokon vagy vonatokon.",
+          "A feliratok gyakran angolul is megtalálhatók, de egy offline térkép hasznos."
+        ],
+        "ro": [
+          "Cumpărați jetoane pentru metrou de la casele de bilete din stații.",
+          "Metroul este rapid și eficient pentru distanțe mai mari.",
+          "Aveți grijă de bunurile dumneavoastră în autobuze sau trenuri aglomerate.",
+          "Semnalizarea este adesea și în engleză, dar o hartă offline este utilă."
+        ],
+        "en": [
+          "Buy tokens for the metro at the cash desks in the stations.",
+          "The metro is fast and efficient for longer distances.",
+          "Watch your belongings on crowded buses or trains.",
+          "Signage is often in English as well, but an offline map is useful."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1471 @@
+{
+  "city_id": "poland-krakow-cities-v2",
+  "anchor": {
+    "name": "Krakau",
+    "coords": [
+      19.945,
+      50.0647
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptmarkt (Rynek Główny)",
+            "hu": "Főpiactér (Rynek Główny)",
+            "ro": "Piața Principală (Rynek Główny)",
+            "en": "Main Market Square (Rynek Główny)"
+          },
+          "coords": [
+            19.9372,
+            50.0619
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Hören Sie um Punkt 12 Uhr den Trompeter vom Turm der Marienkirche.",
+            "hu": "Hallgassa meg a déli trombitajátékot a Mária-templom tornyából.",
+            "ro": "La prânz, ascultați trompetistul din turnul Bazilicii Sf. Maria.",
+            "en": "Listen for the bugle call from St. Mary's Basilica tower on the hour."
+          }
+        },
+        {
+          "name": {
+            "de": "Tuchhallen (Sukiennice)",
+            "hu": "Posztócsarnok (Sukiennice)",
+            "ro": "Hala de Postav (Sukiennice)",
+            "en": "Cloth Hall (Sukiennice)"
+          },
+          "coords": [
+            19.9376,
+            50.0617
+          ],
+          "category": "landmark",
+          "arrive_at": "09:42",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Im Obergeschoss befindet sich eine Galerie polnischer Kunst des 19. Jahrhunderts.",
+            "hu": "Az emeleten egy 19. századi lengyel művészeti galéria található.",
+            "ro": "La etaj se află o galerie de artă poloneză din secolul al XIX-lea.",
+            "en": "The upper floor houses a gallery of 19th-century Polish art."
+          }
+        },
+        {
+          "name": {
+            "de": "Marienkirche",
+            "hu": "Mária-templom",
+            "ro": "Bazilica Sf. Maria",
+            "en": "St. Mary's Basilica"
+          },
+          "coords": [
+            19.9393,
+            50.0616
+          ],
+          "category": "churches",
+          "arrive_at": "10:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie den berühmten Hochaltar von Veit Stoß, der nur mittags geöffnet ist.",
+            "hu": "Csodálja meg Veit Stoss híres főoltárát, melyet csak délben nyitnak ki.",
+            "ro": "Admirați faimosul altar sculptat de Veit Stoss, deschis doar la amiază.",
+            "en": "Admire the famous altarpiece by Veit Stoss, which is opened only at midday."
+          }
+        },
+        {
+          "name": {
+            "de": "Collegium Maius",
+            "hu": "Collegium Maius",
+            "ro": "Collegium Maius",
+            "en": "Collegium Maius"
+          },
+          "coords": [
+            19.9333,
+            50.0631
+          ],
+          "category": "museums",
+          "arrive_at": "11:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Der Innenhof ist frei zugänglich, aber eine Führung zeigt Kopernikus' Instrumente.",
+            "hu": "Az udvar ingyenesen látogatható, de egy túra bemutatja Kopernikusz eszközeit.",
+            "ro": "Curtea interioară este gratuită, dar un tur ghidat vă arată instrumentele lui Copernic.",
+            "en": "The courtyard is free to visit, but a guided tour shows Copernicus's instruments."
+          }
+        },
+        {
+          "name": {
+            "de": "Wawel-Kathedrale",
+            "hu": "Waweli székesegyház",
+            "ro": "Catedrala Wawel",
+            "en": "Wawel Cathedral"
+          },
+          "coords": [
+            19.9355,
+            50.0544
+          ],
+          "category": "churches",
+          "arrive_at": "13:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Steigen Sie auf den Sigismund-Turm, um die berühmte Glocke und die Aussicht zu sehen.",
+            "hu": "Másszon fel a Zsigmond-toronyba a híres harangért és a kilátásért.",
+            "ro": "Urcați în Turnul lui Sigismund pentru a vedea faimosul clopot și panorama.",
+            "en": "Climb the Sigismund Tower to see the famous bell and enjoy the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Wawel-Schloss",
+            "hu": "Waweli királyi palota",
+            "ro": "Castelul Wawel",
+            "en": "Wawel Royal Castle"
+          },
+          "coords": [
+            19.935,
+            50.054
+          ],
+          "category": "castles",
+          "arrive_at": "14:18",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Kaufen Sie Tickets online im Voraus, um die Warteschlangen zu umgehen, besonders für die Staatsgemächer.",
+            "hu": "Vásároljon jegyet online előre, hogy elkerülje a sorban állást, különösen az állami lakosztályokhoz.",
+            "ro": "Cumpărați bilete online în avans pentru a evita cozile, mai ales pentru Apartamentele de Stat.",
+            "en": "Buy tickets online in advance to skip the queues, especially for the State Rooms."
+          }
+        },
+        {
+          "name": {
+            "de": "Kazimierz (Jüdisches Viertel)",
+            "hu": "Kazimierz (Zsidónegyed)",
+            "ro": "Kazimierz (Cartierul Evreiesc)",
+            "en": "Kazimierz (Jewish Quarter)"
+          },
+          "coords": [
+            19.949,
+            50.051
+          ],
+          "category": "old-town",
+          "arrive_at": "16:30",
+          "stay_min": 65,
+          "hop_from_prev_min": 42,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Probieren Sie Zapiekanka auf dem Plac Nowy, ein klassisches polnisches Streetfood.",
+            "hu": "Kóstolja meg a Zapiekankát a Plac Nowy-n, egy klasszikus lengyel utcai ételt.",
+            "ro": "Încercați Zapiekanka în Plac Nowy, un fel de mâncare stradală poloneză clasică.",
+            "en": "Try a Zapiekanka at Plac Nowy, a classic Polish street food."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem weitläufigen Hauptmarkt, dem pulsierenden Herzen Krakaus. Am Vormittag erkunden Sie die historischen Tuchhallen und die majestätische Marienkirche. Nach dem Mittagessen tauchen Sie im Collegium Maius in die akademische Geschichte ein. Der Nachmittag ist dem königlichen Wawel-Hügel gewidmet, wo Sie die Kathedrale und das Schloss erkunden. Schließen Sie den Tag im böhmischen Kazimierz ab, genießen Sie die einzigartige Atmosphäre und die kulinarischen Köstlichkeiten.",
+        "hu": "Kezdje a napot a Krakkó lüktető szívét jelentő hatalmas Főpiactéren. Délelőtt fedezze fel a történelmi Posztócsarnokot és a fenséges Mária-templomot. Ebéd után merüljön el a tudományos történelemben a Collegium Maiusban. A délutánt a királyi Wawel-dombnak szentelje, ahol a székesegyházat és a várat fedezi fel. Zárja a napot a bohém Kazimierz negyedben, élvezve annak egyedi hangulatát és kulináris élvezeteit.",
+        "ro": "Începeți ziua în Piața Principală, inima vibrantă a Cracoviei. În timpul dimineții, explorați Hala de Postav istorică și maiestuoasa Bazilică Sf. Maria. După prânz, pătrundeți în istoria academică la Collegium Maius. După-amiaza este dedicată Dealului Wawel, explorând catedrala și castelul regal. Încheiați ziua în cartierul boem Kazimierz, bucurându-vă de atmosfera sa unică și de deliciile culinare.",
+        "en": "Start your day in the vast Main Market Square, the vibrant heart of Krakow. During the morning, explore the historic Cloth Hall and the majestic St. Mary's Basilica. After lunch, delve into academic history at Collegium Maius. The afternoon is dedicated to the royal Wawel Hill, exploring the cathedral and the castle. Conclude your day in the bohemian Kazimierz district, soaking in its unique atmosphere and culinary delights."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pierogi",
+            "tip": "Probieren Sie die 'Ruskie' (Kartoffel und Käse) im 'Pierogarnia Krakowiacy'."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Eine saure Roggensuppe, perfekt für einen kühlen Tag, serviert in einem Brotlaib."
+          },
+          {
+            "name": "Zapiekanka",
+            "tip": "Das beste Streetfood auf dem Plac Nowy in Kazimierz - ein langes, offenes Sandwich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pierogi",
+            "tip": "Kóstolja meg a 'Ruskie'-t (burgonyás és túrós) a 'Pierogarnia Krakowiacy'-ban."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Savanyú rozsleves, tökéletes hűvös napokra, kenyérben tálalva."
+          },
+          {
+            "name": "Zapiekanka",
+            "tip": "A legjobb utcai étel a Kazimierz negyedben lévő Plac Nowy-n - egy hosszú, nyitott szendvics."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierogi",
+            "tip": "Încercați 'Ruskie' (cartofi și brânză) la 'Pierogarnia Krakowiacy'."
+          },
+          {
+            "name": "Żurek",
+            "tip": "O supă acră de secară, perfectă pentru o zi răcoroasă, servită într-o pâine."
+          },
+          {
+            "name": "Zapiekanka",
+            "tip": "Cea mai bună mâncare stradală în Plac Nowy din Kazimierz - un sandviș lung, deschis."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierogi",
+            "tip": "Try the 'Ruskie' (potato and cheese) at 'Pierogarnia Krakowiacy'."
+          },
+          {
+            "name": "Żurek",
+            "tip": "A sour rye soup, perfect for a chilly day, served in a bread bowl."
+          },
+          {
+            "name": "Zapiekanka",
+            "tip": "The ultimate street food in Plac Nowy in Kazimierz - a long, open-faced sandwich."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Planty-Park",
+            "tip": "Ein grüner Gürtel, der die Altstadt umgibt, perfekt für einen ruhigen Spaziergang.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Weichselufer",
+            "tip": "Machen Sie einen Spaziergang entlang des Flusses und beobachten Sie die Boote.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Skałka-Kirche",
+            "tip": "Ein friedlicher Ort in Kazimierz mit einem schönen Innenhof.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Planty park",
+            "tip": "Az Óvárost körülvevő zöld övezet, tökéletes egy csendes sétához.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Visztula folyópart",
+            "tip": "Sétáljon a folyó mentén, és nézze a hajókat.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Skałka templom",
+            "tip": "Egy békés hely Kazimierzben, gyönyörű udvarral.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Planty",
+            "tip": "O centură verde care înconjoară Orașul Vechi, perfectă pentru o plimbare liniștită.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malurile Vistulei",
+            "tip": "Faceți o plimbare de-a lungul râului, privind bărcile.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Biserica Skałka",
+            "tip": "Un loc pașnic în Kazimierz, cu o curte interioară frumoasă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Planty Park",
+            "tip": "A green belt surrounding the Old Town, perfect for a quiet stroll.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vistula River Banks",
+            "tip": "Take a walk along the river, watching the boats go by.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Skałka Church",
+            "tip": "A peaceful spot in Kazimierz with a beautiful courtyard.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Tuchhallen (Sukiennice)",
+            "tip": "Der beste Ort für Bernstein, Holzschnitzereien und andere polnische Souvenirs."
+          },
+          {
+            "name": "Ulica Floriańska",
+            "tip": "Eine der Haupteinkaufsstraßen mit einer Mischung aus lokalen und internationalen Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Posztócsarnok (Sukiennice)",
+            "tip": "A legjobb hely borostyán, fafaragások és más lengyel szuvenírek vásárlására."
+          },
+          {
+            "name": "Ulica Floriańska",
+            "tip": "Az egyik fő bevásárlóutca, helyi és nemzetközi márkák keverékével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hala de Postav (Sukiennice)",
+            "tip": "Cel mai bun loc pentru chihlimbar, sculpturi în lemn și alte suveniruri poloneze."
+          },
+          {
+            "name": "Ulica Floriańska",
+            "tip": "Una dintre principalele străzi comerciale cu un amestec de mărci locale și internaționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cloth Hall (Sukiennice)",
+            "tip": "The best place for amber, wood carvings, and other Polish souvenirs."
+          },
+          {
+            "name": "Ulica Floriańska",
+            "tip": "One of the main shopping streets with a mix of local and international brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster ermüdend sein kann.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Halten Sie immer etwas Bargeld für kleinere Geschäfte und Toiletten bereit.",
+          "Achten Sie auf die vielen kostenlosen Stadtführungen, die auf dem Hauptmarkt beginnen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakövek fárasztóak lehetnek.",
+          "A legtöbb központi látnivaló könnyen elérhető gyalog.",
+          "Mindig tartson magánál készpénzt a kisebb boltok és a mosdók számára.",
+          "Vegye figyelembe a sok ingyenes városnéző túrát, amelyek a Főpiactérről indulnak."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul poate fi obositor.",
+          "Majoritatea atracțiilor centrale sunt ușor accesibile pe jos.",
+          "Aveți întotdeauna niște bani cash pentru magazinele mici și toalete.",
+          "Fiți atenți la numeroasele tururi pietonale gratuite care încep din Piața Principală."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones can be tiring.",
+          "Most central sights are easily within walking distance.",
+          "Always keep some cash for smaller shops and restrooms.",
+          "Look out for the many free walking tours that start in the Main Market Square."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptmarkt (Rynek Główny)",
+            "hu": "Főpiactér (Rynek Główny)",
+            "ro": "Piața Principală (Rynek Główny)",
+            "en": "Main Market Square (Rynek Główny)"
+          },
+          "coords": [
+            19.9372,
+            50.0619
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Rande des Platzes ab, da das Radfahren auf dem Platz selbst verboten ist.",
+            "hu": "Zárja le a biciklit a tér szélén, mivel a téren tilos kerékpározni.",
+            "ro": "Legați-vă bicicleta la marginea pieței, deoarece ciclismul este interzis în piață.",
+            "en": "Lock your bike on the edge of the square, as cycling is prohibited in the square itself."
+          }
+        },
+        {
+          "name": {
+            "de": "Barbakan",
+            "hu": "Barbakan",
+            "ro": "Barbacanul",
+            "en": "Barbican"
+          },
+          "coords": [
+            19.9415,
+            50.0655
+          ],
+          "category": "fortresses",
+          "arrive_at": "09:41",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein beeindruckendes gotisches Torhaus, das einst die Stadtmauern schützte.",
+            "hu": "Egy lenyűgöző gótikus kapuerőd, amely egykor a városfalakat védte.",
+            "ro": "O poartă gotică impresionantă care odinioară proteja zidurile orașului.",
+            "en": "An impressive Gothic gateway that once protected the city walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Planty-Park",
+            "hu": "Planty park",
+            "ro": "Parcul Planty",
+            "en": "Planty Park"
+          },
+          "coords": [
+            19.934,
+            50.062
+          ],
+          "category": "parks",
+          "arrive_at": "10:19",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Fahren Sie den gesamten Weg um die Altstadt, um ein Gefühl für ihre Größe zu bekommen.",
+            "hu": "Tekerjen körbe az egész Óváros körül, hogy érzékelje a méretét.",
+            "ro": "Mergeți cu bicicleta în jurul întregului Oraș Vechi pentru a-i simți dimensiunea.",
+            "en": "Cycle the entire path around the Old Town to get a sense of its scale."
+          }
+        },
+        {
+          "name": {
+            "de": "Wawel-Schloss",
+            "hu": "Waweli királyi palota",
+            "ro": "Castelul Wawel",
+            "en": "Wawel Royal Castle"
+          },
+          "coords": [
+            19.935,
+            50.054
+          ],
+          "category": "castles",
+          "arrive_at": "11:13",
+          "stay_min": 120,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahrradständer befinden sich am Fuße des Hügels. Der Aufstieg ist zu Fuß.",
+            "hu": "A kerékpártárolók a hegy lábánál találhatók. A hegyre gyalog kell felmenni.",
+            "ro": "Rastelele pentru biciclete sunt la poalele dealului. Urcarea se face pe jos.",
+            "en": "Bike racks are located at the bottom of the hill. The climb is on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kazimierz (Jüdisches Viertel)",
+            "hu": "Kazimierz (Zsidónegyed)",
+            "ro": "Kazimierz (Cartierul Evreiesc)",
+            "en": "Kazimierz (Jewish Quarter)"
+          },
+          "coords": [
+            19.949,
+            50.051
+          ],
+          "category": "old-town",
+          "arrive_at": "13:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Die engen Gassen sind perfekt für eine Erkundung mit dem Fahrrad, aber seien Sie vorsichtig mit Fußgängern.",
+            "hu": "A szűk utcák tökéletesek a biciklis felfedezéshez, de vigyázzon a gyalogosokra.",
+            "ro": "Străzile înguste sunt perfecte pentru a fi explorate cu bicicleta, dar aveți grijă la pietoni.",
+            "en": "The narrow streets are perfect to explore by bike, but be careful of pedestrians."
+          }
+        },
+        {
+          "name": {
+            "de": "Kościuszko-Hügel",
+            "hu": "Kościuszko-halom",
+            "ro": "Movila lui Kościuszko",
+            "en": "Kościuszko Mound"
+          },
+          "coords": [
+            19.894,
+            50.054
+          ],
+          "category": "monuments",
+          "arrive_at": "15:26",
+          "stay_min": 95,
+          "hop_from_prev_min": 31,
+          "hop_from_prev_km": 5.2,
+          "tip_5lang": {
+            "de": "Der Aufstieg ist steil, aber der Panoramablick über Krakau ist die Mühe wert.",
+            "hu": "A mászás meredek, de a panorámás kilátás Krakkóra megéri az erőfeszítést.",
+            "ro": "Urcușul este abrupt, dar vederea panoramică asupra Cracoviei merită efortul.",
+            "en": "The ride up is steep, but the panoramic view of Krakow is worth the effort."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour am Hauptmarkt und fahren Sie dann nach Norden zum historischen Barbakan. Vormittags genießen Sie eine Fahrt durch den grünen Planty-Park, der die Altstadt umgibt. Zu Mittag erobern Sie den Wawel-Hügel zu Fuß, nachdem Sie Ihr Fahrrad abgestellt haben. Am Nachmittag radeln Sie in das lebhafte Kazimierz, um seine einzigartige Kultur zu entdecken. Beenden Sie den Tag mit einer anspruchsvollen, aber lohnenden Fahrt zum Kościuszko-Hügel für einen atemberaubenden Sonnenuntergangsblick.",
+        "hu": "Kezdje a biciklitúrát a Főpiactérről, majd tekerjen északra a történelmi Barbakanhoz. Délelőtt élvezze a kerékpározást az Óvárost körülvevő zöld Planty parkban. Ebédidőben, a biciklit lezárva, gyalog hódítsa meg a Wawel-dombot. Délután tekerjen el a nyüzsgő Kazimierzbe, hogy felfedezze egyedi kultúráját. Zárja a napot egy kihívást jelentő, de hálás úttal a Kościuszko-halomhoz, ahonnan lenyűgöző naplementében gyönyörködhet.",
+        "ro": "Începeți turul cu bicicleta din Piața Principală, apoi îndreptați-vă spre nord, la Barbacanul istoric. Dimineața, bucurați-vă de o plimbare prin parcul verde Planty, care înconjoară Orașul Vechi. La prânz, după ce v-ați lăsat bicicleta, cuceriți Dealul Wawel pe jos. După-amiaza, pedalați spre vibrantul Kazimierz pentru a-i explora cultura unică. Încheiați ziua cu o plimbare provocatoare, dar plină de satisfacții, spre Movila lui Kościuszko pentru o priveliște uluitoare la apus.",
+        "en": "Start your bike tour from the Main Market Square, then head north to the historic Barbican. In the morning, enjoy a ride through the green Planty Park encircling the Old Town. For lunch, after locking your bike, conquer Wawel Hill on foot. In the afternoon, cycle to the vibrant Kazimierz to explore its unique culture. End your day with a challenging but rewarding ride to Kościuszko Mound for a stunning sunset view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Obwarzanek Krakowski",
+            "tip": "Ein geflochtener Brotring, der von Straßenhändlern verkauft wird. Perfekt als Snack für Radfahrer."
+          },
+          {
+            "name": "Maczanka po Krakowsku",
+            "tip": "Ein 'gezogenes Schweinefleisch'-Sandwich nach Krakauer Art, herzhaft und sättigend."
+          },
+          {
+            "name": "Eisdielen (Lodziarnie)",
+            "tip": "Belohnen Sie sich nach einer Fahrt mit handwerklich hergestelltem Eis, besonders in Kazimierz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Obwarzanek Krakowski",
+            "tip": "Fonott kenyérgyűrű, amelyet utcai árusoktól lehet kapni. Tökéletes harapnivaló kerékpárosoknak."
+          },
+          {
+            "name": "Maczanka po Krakowsku",
+            "tip": "Krakkói stílusú 'tépett húsos' szendvics, laktató és ízletes."
+          },
+          {
+            "name": "Fagylaltozók (Lodziarnie)",
+            "tip": "Jutalmazza meg magát egy tekerés után kézműves fagyival, különösen Kazimierzben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Obwarzanek Krakowski",
+            "tip": "Un inel de pâine împletit vândut de vânzătorii ambulanți, perfect ca gustare pentru bicicliști."
+          },
+          {
+            "name": "Maczanka po Krakowsku",
+            "tip": "Un sandviș cu 'carne de porc trasă' în stil cracovian, consistent și sățios."
+          },
+          {
+            "name": "Gelaterii (Lodziarnie)",
+            "tip": "Recompensați-vă după o plimbare cu o înghețată artizanală, mai ales în Kazimierz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Obwarzanek Krakowski",
+            "tip": "A braided ring-shaped bread sold by street vendors, perfect as a cyclist's snack."
+          },
+          {
+            "name": "Maczanka po Krakowsku",
+            "tip": "A 'pulled pork' sandwich, Krakow-style, hearty and filling."
+          },
+          {
+            "name": "Ice Cream Shops (Lodziarnie)",
+            "tip": "Reward yourself after a ride with artisanal ice cream, especially in Kazimierz."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kościuszko-Hügel",
+            "tip": "Bietet die beste Panoramaaussicht auf die Stadt, besonders bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Zakrzówek-See",
+            "tip": "Ein ehemaliger Steinbruch, der in einen See umgewandelt wurde. Ein kurzer Abstecher mit dem Fahrrad.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bernatek-Fußgängerbrücke",
+            "tip": "Verbindet Kazimierz mit Podgórze, schön für einen abendlichen Blick auf den Fluss.",
+            "emoji": "🌉"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kościuszko-halom",
+            "tip": "A legjobb panorámát nyújtja a városra, különösen naplementekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Zakrzówek-tó",
+            "tip": "Egy egykori kőbánya, amelyet tóvá alakítottak. Egy rövid kitérő kerékpárral.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bernatek gyaloghíd",
+            "tip": "Összeköti Kazimierzet Podgórzéval, szép esti kilátást nyújt a folyóra.",
+            "emoji": "🌉"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Movila lui Kościuszko",
+            "tip": "Oferă cea mai bună vedere panoramică a orașului, mai ales la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lacul Zakrzówek",
+            "tip": "O fostă carieră transformată în lac, un scurt ocol cu bicicleta.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pasarela Bernatek",
+            "tip": "Leagă Kazimierz de Podgórze, frumoasă pentru o priveliște de seară asupra râului.",
+            "emoji": "🌉"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kościuszko Mound",
+            "tip": "Offers the best panoramic view of the city, especially at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Zakrzówek Lake",
+            "tip": "A former quarry turned into a lake, a short detour by bike.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bernatek Footbridge",
+            "tip": "Connects Kazimierz to Podgórze, nice for an evening river view.",
+            "emoji": "🌉"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Märkte in Kazimierz",
+            "tip": "Auf dem Plac Nowy gibt es einen Flohmarkt, während die umliegenden Straßen voller einzigartiger Boutiquen sind."
+          },
+          {
+            "name": "Stary Kleparz",
+            "tip": "Ein traditioneller Bauernmarkt nördlich der Altstadt, ideal für lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piacok Kazimierzben",
+            "tip": "A Plac Nowy-n bolhapiac található, míg a környező utcák tele vannak egyedi butikokkal."
+          },
+          {
+            "name": "Stary Kleparz",
+            "tip": "Hagyományos termelői piac az Óvárostól északra, ideális helyi termékekhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețele din Kazimierz",
+            "tip": "Plac Nowy găzduiește o piață de vechituri, în timp ce străzile din jur sunt pline de buticuri unice."
+          },
+          {
+            "name": "Stary Kleparz",
+            "tip": "O piață tradițională agricolă la nord de Orașul Vechi, excelentă pentru produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Markets in Kazimierz",
+            "tip": "Plac Nowy hosts a flea market, while the surrounding streets are full of unique boutiques."
+          },
+          {
+            "name": "Stary Kleparz",
+            "tip": "A traditional farmers' market just north of the Old Town, great for local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Krakau ist relativ flach, aber einige Brücken und Hügel erfordern etwas Anstrengung.",
+          "Nutzen Sie die vielen Radwege, besonders entlang des Flusses.",
+          "Seien Sie in der Altstadt vorsichtig, da die Straßen oft mit Fußgängern überfüllt sind.",
+          "Viele Hotels und Hostels bieten Fahrradverleih an."
+        ],
+        "hu": [
+          "Krakkó viszonylag sík, de néhány híd és domb erőfeszítést igényel.",
+          "Használja a sok kerékpárutat, különösen a folyó mentén.",
+          "Legyen óvatos az Óvárosban, mivel az utcák gyakran zsúfoltak gyalogosokkal.",
+          "Sok szálloda és hostel kínál kerékpárkölcsönzést."
+        ],
+        "ro": [
+          "Cracovia este relativ plată, dar unele poduri și dealuri necesită puțin efort.",
+          "Folosiți numeroasele piste de biciclete, în special de-a lungul râului.",
+          "Aveți grijă în Orașul Vechi, deoarece străzile sunt adesea aglomerate cu pietoni.",
+          "Multe hoteluri și hosteluri oferă închiriere de biciclete."
+        ],
+        "en": [
+          "Krakow is relatively flat, but some bridges and hills require a bit of effort.",
+          "Make use of the many bike paths, especially along the river.",
+          "Be cautious in the Old Town as streets are often crowded with pedestrians.",
+          "Many hotels and hostels offer bike rentals."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:08",
+      "total_km": 11.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kościuszko-Hügel",
+            "hu": "Kościuszko-halom",
+            "ro": "Movila lui Kościuszko",
+            "en": "Kościuszko Mound"
+          },
+          "coords": [
+            19.894,
+            50.054
+          ],
+          "category": "monuments",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie früh am Morgen hinauf, um den Menschenmassen zu entgehen und einen Parkplatz zu finden.",
+            "hu": "Menjen fel kora reggel, hogy elkerülje a tömeget és parkolóhelyet találjon.",
+            "ro": "Mergeți dimineața devreme pentru a evita aglomerația și pentru a găsi un loc de parcare.",
+            "en": "Drive up early in the morning to avoid the crowds and find a parking spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz bei Wawel",
+            "hu": "Parkoló a Wawelnél",
+            "ro": "Parcare lângă Wawel",
+            "en": "Parking near Wawel"
+          },
+          "coords": [
+            19.932,
+            50.053
+          ],
+          "category": "transport",
+          "arrive_at": "10:22",
+          "stay_min": 0,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie den Wawel und die Altstadt zu Fuß.",
+            "hu": "Parkoljon itt, és fedezze fel a Wawelt és az Óvárost gyalog.",
+            "ro": "Parcați aici și explorați Wawel și Orașul Vechi pe jos.",
+            "en": "Park here and explore Wawel and the Old Town on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Wawel-Kathedrale & Schloss",
+            "hu": "Waweli székesegyház és palota",
+            "ro": "Catedrala și Castelul Wawel",
+            "en": "Wawel Cathedral & Castle"
+          },
+          "coords": [
+            19.935,
+            50.054
+          ],
+          "category": "castles",
+          "arrive_at": "10:28",
+          "stay_min": 180,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie mindestens 3 Stunden ein, um beide Stätten vollständig zu würdigen.",
+            "hu": "Szánjon legalább 3 órát, hogy mindkét helyet teljes mértékben értékelni tudja.",
+            "ro": "Planificați cel puțin 3 ore pentru a aprecia pe deplin ambele situri.",
+            "en": "Plan for at least 3 hours to fully appreciate both sites."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptmarkt (Rynek Główny)",
+            "hu": "Főpiactér (Rynek Główny)",
+            "ro": "Piața Principală (Rynek Główny)",
+            "en": "Main Market Square (Rynek Główny)"
+          },
+          "coords": [
+            19.9372,
+            50.0619
+          ],
+          "category": "squares",
+          "arrive_at": "13:46",
+          "stay_min": 90,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie ein spätes Mittagessen in einem der vielen Restaurants mit Blick auf den Platz.",
+            "hu": "Élvezzen egy késői ebédet a térre néző számos étterem egyikében.",
+            "ro": "Bucurați-vă de un prânz târziu la unul dintre numeroasele restaurante cu vedere la piață.",
+            "en": "Enjoy a late lunch at one of the many restaurants overlooking the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz bei Kazimierz",
+            "hu": "Parkoló Kazimierzben",
+            "ro": "Parcare în Kazimierz",
+            "en": "Parking in Kazimierz"
+          },
+          "coords": [
+            19.951,
+            50.05
+          ],
+          "category": "transport",
+          "arrive_at": "15:24",
+          "stay_min": 0,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "In Kazimierz kann das Parken schwierig sein; suchen Sie nach bewachten Parkplätzen.",
+            "hu": "Kazimierzben a parkolás nehézkes lehet; keressen őrzött parkolókat.",
+            "ro": "Parcarea în Kazimierz poate fi dificilă; căutați parcări păzite.",
+            "en": "Parking can be tricky in Kazimierz; look for paid guarded lots."
+          }
+        },
+        {
+          "name": {
+            "de": "Kazimierz (Jüdisches Viertel)",
+            "hu": "Kazimierz (Zsidónegyed)",
+            "ro": "Kazimierz (Cartierul Evreiesc)",
+            "en": "Kazimierz (Jewish Quarter)"
+          },
+          "coords": [
+            19.949,
+            50.051
+          ],
+          "category": "old-town",
+          "arrive_at": "15:28",
+          "stay_min": 120,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den Straßen, entdecken Sie Synagogen, kleine Galerien und einzigartige Bars.",
+            "hu": "Vesszen el az utcákon, fedezzen fel zsinagógákat, kis galériákat és egyedi bárokat.",
+            "ro": "Pierdeți-vă pe străzi, descoperind sinagogi, mici galerii și baruri unice.",
+            "en": "Get lost in the streets, discovering synagogues, small galleries, and unique bars."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in Kazimierz",
+            "hu": "Vacsora Kazimierzben",
+            "ro": "Cină în Kazimierz",
+            "en": "Dinner in Kazimierz"
+          },
+          "coords": [
+            19.948,
+            50.052
+          ],
+          "category": "gastro",
+          "arrive_at": "17:30",
+          "stay_min": 98,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Gegend ist bekannt für ihre hervorragenden Restaurants, die von traditionell polnisch bis international reichen.",
+            "hu": "A környék híres kiváló éttermeiről, a hagyományos lengyeltől a nemzetköziig.",
+            "ro": "Zona este renumită pentru restaurantele sale excelente, de la cele tradiționale poloneze la cele internaționale.",
+            "en": "The area is known for its excellent restaurants, ranging from traditional Polish to international."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer Fahrt zum Kościuszko-Hügel für eine unvergleichliche Aussicht. Fahren Sie dann zum ersten Cluster: Parken Sie in der Nähe des Wawel-Hügels und verbringen Sie den Vormittag damit, das Schloss und die Kathedrale zu Fuß zu erkunden. Gehen Sie anschließend zur Altstadt für ein Mittagessen am Hauptmarkt. Am Nachmittag fahren Sie zum zweiten Cluster: Parken Sie in Kazimierz und tauchen Sie in das jüdische Viertel ein, wo Sie den Rest des Tages mit Erkundungen und einem köstlichen Abendessen verbringen.",
+        "hu": "Kezdje a napot a Kościuszko-halomhoz való autózással a páratlan kilátásért. Ezután hajtson az első klaszterhez: parkoljon a Wawel-domb közelében, és töltse a délelőttöt a vár és a székesegyház gyalogos felfedezésével. Sétáljon át az Óvárosba egy ebédre a Főpiactéren. Délután hajtson a második klaszterhez: parkoljon Kazimierzben, és merüljön el a zsidó negyedben, ahol a nap hátralévő részét felfedezéssel és egy finom vacsorával tölti.",
+        "ro": "Începeți ziua cu o călătorie cu mașina spre Movila lui Kościuszko pentru priveliști de neegalat. Apoi, conduceți spre primul cluster: parcați lângă Dealul Wawel și petreceți dimineața explorând castelul și catedrala pe jos. Apoi, mergeți pe jos spre Orașul Vechi pentru prânz în Piața Principală. După-amiaza, conduceți spre al doilea cluster: parcați în Kazimierz și scufundați-vă în cartierul evreiesc, petrecând restul zilei explorând și savurând o cină delicioasă.",
+        "en": "Start your day with a drive to Kościuszko Mound for unparalleled views. Then, drive to the first cluster: park near Wawel Hill and spend the morning exploring the castle and cathedral on foot. Afterward, walk to the Old Town for lunch in the Main Market Square. In the afternoon, drive to the second cluster: park in Kazimierz and immerse yourself in the Jewish Quarter, spending the rest of your day exploring and enjoying a delicious dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bigos",
+            "tip": "Ein herzhafter Jägereintopf, den man in traditionellen Restaurants ('Karczma') findet."
+          },
+          {
+            "name": "Placki Ziemniaczane",
+            "tip": "Kartoffelpuffer, oft mit Gulasch oder saurer Sahne serviert."
+          },
+          {
+            "name": "Szarlotka",
+            "tip": "Polnischer Apfelkuchen, normalerweise warm mit Eis serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bigos",
+            "tip": "Kiadós vadászpörkölt, amelyet hagyományos éttermekben ('Karczma') talál."
+          },
+          {
+            "name": "Placki Ziemniaczane",
+            "tip": "Tócsni, gyakran gulyással vagy tejföllel tálalva."
+          },
+          {
+            "name": "Szarlotka",
+            "tip": "Lengyel almatorta, általában melegen, fagylalttal tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bigos",
+            "tip": "O tocană vânătorească consistentă, găsită în restaurantele tradiționale ('Karczma')."
+          },
+          {
+            "name": "Placki Ziemniaczane",
+            "tip": "Clătite de cartofi, adesea servite cu gulaș sau smântână."
+          },
+          {
+            "name": "Szarlotka",
+            "tip": "Plăcintă de mere poloneză, de obicei servită caldă cu înghețată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bigos",
+            "tip": "A hearty hunter's stew, found in traditional restaurants ('Karczma')."
+          },
+          {
+            "name": "Placki Ziemniaczane",
+            "tip": "Potato pancakes, often served with goulash or sour cream."
+          },
+          {
+            "name": "Szarlotka",
+            "tip": "Polish apple pie, usually served warm with ice cream."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tyniec-Abtei",
+            "tip": "Eine kurze Autofahrt von Krakau entfernt, ein friedliches Kloster am Flussufer.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Las Wolski Wald",
+            "tip": "Ein großer Waldpark in der Nähe des Kościuszko-Hügels, ideal für eine ruhige Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Botanischer Garten",
+            "tip": "Eine Oase der Ruhe, wenn Sie dem Stadttrubel entfliehen möchten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tynieci apátság",
+            "tip": "Rövid autóútra Krakkótól, egy békés kolostor a folyóparton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Las Wolski erdő",
+            "tip": "Nagy erdőpark a Kościuszko-halom közelében, ideális egy csendes pihenőre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Botanikus Kert",
+            "tip": "A nyugalom oázisa, ha menekülni szeretne a város nyüzsgésétől.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Abația Tyniec",
+            "tip": "La o scurtă distanță cu mașina de Cracovia, o mănăstire pașnică pe malul râului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pădurea Las Wolski",
+            "tip": "Un parc forestier mare lângă Movila lui Kościuszko, perfect pentru o pauză liniștită.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grădina Botanică",
+            "tip": "O oază de pace dacă doriți să scăpați de agitația orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tyniec Abbey",
+            "tip": "A short drive from Krakow, a peaceful monastery on the river bank.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Las Wolski Forest",
+            "tip": "A large forest park near Kościuszko Mound, perfect for a quiet break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Botanical Garden",
+            "tip": "An oasis of peace if you want to escape the city bustle.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Galeria Krakowska",
+            "tip": "Ein großes Einkaufszentrum neben dem Hauptbahnhof, falls Sie mit dem Wetter Pech haben."
+          },
+          {
+            "name": "Cepelia",
+            "tip": "Geschäfte, die auf polnische Volkskunst und Handwerk spezialisiert sind."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Galeria Krakowska",
+            "tip": "Nagy bevásárlóközpont a főpályaudvar mellett, ha rossz az idő."
+          },
+          {
+            "name": "Cepelia",
+            "tip": "Lengyel népművészetre és kézművességre szakosodott üzletek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galeria Krakowska",
+            "tip": "Un centru comercial mare lângă gara principală, în caz că vremea este rea."
+          },
+          {
+            "name": "Cepelia",
+            "tip": "Magazine specializate în artă populară și meșteșuguri poloneze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Galeria Krakowska",
+            "tip": "A large shopping mall next to the main train station, in case of bad weather."
+          },
+          {
+            "name": "Cepelia",
+            "tip": "Stores specializing in Polish folk art and handicrafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Fahren in der Altstadt ist stark eingeschränkt. Nutzen Sie Park-and-Ride-Anlagen.",
+          "Parken kann teuer und schwer zu finden sein. Planen Sie im Voraus.",
+          "Achten Sie auf die 'Strefa' (Zonen)-Schilder für Parkbeschränkungen.",
+          "Der Verkehr kann während der Hauptverkehrszeiten stark sein, planen Sie also zusätzliche Zeit für Fahrten ein."
+        ],
+        "hu": [
+          "Az Óvárosban a vezetés erősen korlátozott. Használja a P+R parkolókat.",
+          "A parkolás drága és nehezen található lehet. Tervezzen előre.",
+          "Figyeljen a 'Strefa' (zóna) táblákra a parkolási korlátozások miatt.",
+          "A forgalom csúcsidőben sűrű lehet, ezért tervezzen extra időt az utazásokhoz."
+        ],
+        "ro": [
+          "Circulația în Orașul Vechi este foarte restricționată. Folosiți parcările de tip Park and Ride.",
+          "Parcarea poate fi scumpă și greu de găsit. Planificați din timp.",
+          "Fiți atenți la semnele 'Strefa' (zonă) pentru restricțiile de parcare.",
+          "Traficul poate fi aglomerat în orele de vârf, așa că alocați timp suplimentar pentru călătorii."
+        ],
+        "en": [
+          "Driving in the Old Town is highly restricted. Use Park and Ride facilities.",
+          "Parking can be expensive and hard to find. Plan ahead.",
+          "Pay attention to the 'Strefa' (zone) signs for parking restrictions.",
+          "Traffic can be heavy during peak hours, so allow extra time for drives."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptmarkt & Umgebung",
+            "hu": "Főpiactér és környéke",
+            "ro": "Piața Principală și împrejurimile",
+            "en": "Main Market Square & Area"
+          },
+          "coords": [
+            19.9372,
+            50.0619
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kommen Sie mit der Straßenbahn an einer Haltestelle wie 'Teatr Bagatela' oder 'Poczta Główna' an.",
+            "hu": "Érkezzen villamossal egy olyan megállóhoz, mint a 'Teatr Bagatela' vagy a 'Poczta Główna'.",
+            "ro": "Sosiți cu tramvaiul la o stație precum 'Teatr Bagatela' sau 'Poczta Główna'.",
+            "en": "Arrive by tram at a stop like 'Teatr Bagatela' or 'Poczta Główna'."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptmarkt & Marienkirche",
+            "hu": "Főpiactér és Mária-templom",
+            "ro": "Piața Principală și Bazilica Sf. Maria",
+            "en": "Main Market Square & St. Mary's"
+          },
+          "coords": [
+            19.938,
+            50.0618
+          ],
+          "category": "cluster",
+          "arrive_at": "09:12",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den Platz, die Tuchhallen und die Kirche als ersten Rundgang.",
+            "hu": "Fedezze fel a teret, a Posztócsarnokot és a templomot egy első körben.",
+            "ro": "Explorați piața, Hala de Postav și bazilica ca un prim circuit pietonal.",
+            "en": "Explore the square, Cloth Hall, and the Basilica as a first walking circuit."
+          }
+        },
+        {
+          "name": {
+            "de": "Wawel-Hügel Haltestelle",
+            "hu": "Wawel-domb megálló",
+            "ro": "Stația Dealul Wawel",
+            "en": "Wawel Hill Stop"
+          },
+          "coords": [
+            19.936,
+            50.052
+          ],
+          "category": "transport",
+          "arrive_at": "10:52",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie eine Straßenbahn für ein paar Haltestellen nach Süden, um näher an den Hügel zu gelangen.",
+            "hu": "Menjen villamossal néhány megállót dél felé, hogy közelebb kerüljön a dombhoz.",
+            "ro": "Luați un tramvai câteva stații spre sud pentru a ajunge mai aproape de deal.",
+            "en": "Take a tram for a couple of stops south to get closer to the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Wawel-Schloss & Kathedrale",
+            "hu": "Waweli királyi palota és székesegyház",
+            "ro": "Castelul și Catedrala Wawel",
+            "en": "Wawel Castle & Cathedral"
+          },
+          "coords": [
+            19.935,
+            50.054
+          ],
+          "category": "castles",
+          "arrive_at": "10:56",
+          "stay_min": 180,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dies ist der Hauptanziehungspunkt des Tages, nehmen Sie sich also Zeit für die Erkundung.",
+            "hu": "Ez a nap fő látványossága, szánjon időt a felfedezésére.",
+            "ro": "Aceasta este atracția principală a zilei, așa că alocați-vă timp pentru a explora.",
+            "en": "This is the main attraction of the day, so take your time exploring."
+          }
+        },
+        {
+          "name": {
+            "de": "Kazimierz Haltestelle (Plac Wolnica)",
+            "hu": "Kazimierz megálló (Plac Wolnica)",
+            "ro": "Stația Kazimierz (Plac Wolnica)",
+            "en": "Kazimierz Stop (Plac Wolnica)"
+          },
+          "coords": [
+            19.948,
+            50.049
+          ],
+          "category": "transport",
+          "arrive_at": "14:08",
+          "stay_min": 0,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Straßenbahnen bringen Sie direkt ins Herz von Kazimierz, oft schneller als zu Fuß.",
+            "hu": "A villamosok közvetlenül Kazimierz szívébe visznek, gyakran gyorsabban, mint gyalog.",
+            "ro": "Tramvaiele vă duc direct în inima Kazimierz, adesea mai repede decât pe jos.",
+            "en": "Trams will take you right into the heart of Kazimierz, often faster than walking."
+          }
+        },
+        {
+          "name": {
+            "de": "Kazimierz Erkundung",
+            "hu": "Kazimierz felfedezése",
+            "ro": "Explorarea Kazimierz",
+            "en": "Kazimierz Exploration"
+          },
+          "coords": [
+            19.949,
+            50.051
+          ],
+          "category": "old-town",
+          "arrive_at": "14:10",
+          "stay_min": 205,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verbringen Sie den Rest des Nachmittags und Abends damit, die Gegend zu erkunden und hier zu Abend zu essen.",
+            "hu": "Töltse a délután és az este hátralévő részét a környék felfedezésével és vacsorával.",
+            "ro": "Petreceți restul după-amiezii și serii explorând zona și luând cina aici.",
+            "en": "Spend the rest of the afternoon and evening exploring the area and having dinner here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Krakaus effiziente Straßenbahnen. Beginnen Sie Ihren Tag mit der Ankunft in der Nähe des Hauptmarktes, dem ersten Cluster, und erkunden Sie die Umgebung zu Fuß. Am späten Vormittag bringt Sie eine kurze Fahrt zum Wawel-Hügel, wo Sie in das königliche Erbe eintauchen. Nach einem ausgiebigen Besuch nehmen Sie eine weitere Straßenbahn nach Kazimierz, dem dritten Cluster. Verbringen Sie den Rest des Tages damit, durch die stimmungsvollen Straßen zu schlendern und die einzigartige Mischung aus jüdischer Geschichte und modernem Flair zu genießen.",
+        "hu": "Használja ki Krakkó hatékony villamoshálózatát. Kezdje a napot a Főpiactér közelébe érkezve, az első klaszterhez, és fedezze fel a környéket gyalog. Késő délelőtt egy rövid út a Wawel-dombhoz vezet, ahol elmerülhet a királyi örökségben. Egy alapos látogatás után szálljon fel egy másik villamosra Kazimierzbe, a harmadik klaszterbe. Töltse a nap hátralévő részét a hangulatos utcákon sétálva, élvezve a zsidó történelem és a modern hangulat egyedi keverékét.",
+        "ro": "Folosiți tramvaiele eficiente din Cracovia. Începeți ziua ajungând lângă Piața Principală, primul cluster, și explorați zona pe jos. Spre sfârșitul dimineții, o scurtă călătorie vă va duce la Dealul Wawel pentru o imersiune în moștenirea regală. După o vizită amplă, luați alt tramvai spre Kazimierz, al treilea cluster. Petreceți restul zilei plimbându-vă pe străzile sale atmosferice, bucurându-vă de amestecul unic de istorie evreiască și fler modern.",
+        "en": "Make use of Krakow's efficient trams. Start your day arriving near the Main Market Square, the first cluster, and explore the area on foot. In the late morning, a short ride will take you to Wawel Hill for an immersion in royal heritage. After an extensive visit, take another tram to Kazimierz, the third cluster. Spend the rest of your day wandering its atmospheric streets, enjoying the unique blend of Jewish history and modern buzz."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kiełbasa z Nyski",
+            "tip": "Legendäre gegrillte Wurst, die abends aus einem alten blauen Van in der Nähe des Hala Targowa verkauft wird."
+          },
+          {
+            "name": "Miód Pitny",
+            "tip": "Polnischer Met, ein süßes alkoholisches Getränk aus Honig."
+          },
+          {
+            "name": "Bars Mleczne (Milchbars)",
+            "tip": "Günstige, kantinenartige Restaurants für authentische polnische Hausmannskost."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kiełbasa z Nyski",
+            "tip": "Legendás grillezett kolbász, amelyet este egy régi kék furgonból árulnak a Hala Targowa közelében."
+          },
+          {
+            "name": "Miód Pitny",
+            "tip": "Lengyel mézbor, édes, mézből készült alkoholos ital."
+          },
+          {
+            "name": "Bars Mleczne (Tejbárok)",
+            "tip": "Olcsó, menza-szerű éttermek autentikus lengyel házias ételekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kiełbasa z Nyski",
+            "tip": "Cârnați legendari la grătar vânduți seara dintr-o dubă albastră veche, lângă Hala Targowa."
+          },
+          {
+            "name": "Miód Pitny",
+            "tip": "Hidromel polonez, o băutură alcoolică dulce făcută din miere."
+          },
+          {
+            "name": "Bars Mleczne (Baruri de lapte)",
+            "tip": "Restaurante ieftine, în stil cantină, pentru mâncare poloneză autentică, de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiełbasa z Nyski",
+            "tip": "Legendary grilled sausage sold from an old blue van near Hala Targowa in the evenings."
+          },
+          {
+            "name": "Miód Pitny",
+            "tip": "Polish mead, a sweet alcoholic beverage made from honey."
+          },
+          {
+            "name": "Bars Mleczne (Milk Bars)",
+            "tip": "Inexpensive, cafeteria-style eateries for authentic Polish home cooking."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Remuh-Synagoge und Friedhof",
+            "tip": "Ein ruhiger und ergreifender historischer Ort in Kazimierz.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Weichsel-Flusskreuzfahrt",
+            "tip": "Eine entspannende Möglichkeit, die Stadt aus einer anderen Perspektive zu sehen.",
+            "emoji": "🚤"
+          },
+          {
+            "name": "Jagiellonen-Universitäts-Gärten",
+            "tip": "Ein verstecktes Juwel in der Nähe des Collegium Maius für eine kurze Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Remuh-zsinagóga és temető",
+            "tip": "Csendes és megindító történelmi hely Kazimierzben.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Visztulai hajókirándulás",
+            "tip": "Pihentető módja annak, hogy a várost más szemszögből lássuk.",
+            "emoji": "🚤"
+          },
+          {
+            "name": "Jagelló Egyetem kertjei",
+            "tip": "Rejtett gyöngyszem a Collegium Maius közelében egy rövid pihenőre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sinagoga și Cimitirul Remuh",
+            "tip": "Un sit istoric liniștit și emoționant în Kazimierz.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Croazieră pe râul Vistula",
+            "tip": "O modalitate relaxantă de a vedea orașul dintr-o perspectivă diferită.",
+            "emoji": "🚤"
+          },
+          {
+            "name": "Grădinile Universității Jagielloniene",
+            "tip": "O bijuterie ascunsă lângă Collegium Maius pentru o scurtă pauză.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Remuh Synagogue and Cemetery",
+            "tip": "A quiet and poignant historical site in Kazimierz.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vistula River Cruise",
+            "tip": "A relaxing way to see the city from a different perspective.",
+            "emoji": "🚤"
+          },
+          {
+            "name": "Jagiellonian University Gardens",
+            "tip": "A hidden gem near Collegium Maius for a short break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hala Targowa",
+            "tip": "Ein lokaler Markt, der sonntags für seinen großen Flohmarkt bekannt ist."
+          },
+          {
+            "name": "Ulica Szeroka in Kazimierz",
+            "tip": "Geschäfte mit jüdischen zeremoniellen Gegenständen und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hala Targowa",
+            "tip": "Helyi piac, amely vasárnaponként a nagy bolhapiacáról ismert."
+          },
+          {
+            "name": "Ulica Szeroka Kazimierzben",
+            "tip": "Zsidó szertartási tárgyakat és szuveníreket árusító üzletek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hala Targowa",
+            "tip": "O piață locală, renumită duminica pentru piața sa mare de vechituri."
+          },
+          {
+            "name": "Ulica Szeroka în Kazimierz",
+            "tip": "Magazine care vând obiecte ceremoniale evreiești și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hala Targowa",
+            "tip": "A local market, famous on Sundays for its large flea market."
+          },
+          {
+            "name": "Szeroka Street in Kazimierz",
+            "tip": "Shops selling Jewish ceremonial items and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tages- oder Mehrtageskarte für den öffentlichen Nahverkehr an Kiosken ('Kiosk') oder Fahrkartenautomaten.",
+          "Validieren Sie Ihr Ticket sofort nach dem Einsteigen in eine Straßenbahn oder einen Bus.",
+          "Die App 'Jakdojade' ist unerlässlich, um Ihre Routen zu planen.",
+          "Die meisten Linien verkehren häufig, aber überprüfen Sie die Fahrpläne für Nachtverbindungen."
+        ],
+        "hu": [
+          "Vásároljon napi vagy többnapos tömegközlekedési jegyet a kioszkokban ('Kiosk') vagy a jegyautomatákból.",
+          "Érvényesítse a jegyét azonnal, miután felszállt a villamosra vagy buszra.",
+          "A 'Jakdojade' alkalmazás elengedhetetlen az útvonalak megtervezéséhez.",
+          "A legtöbb vonal gyakran közlekedik, de ellenőrizze a menetrendet az éjszakai járatokhoz."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi sau de mai multe zile pentru transportul public de la chioșcuri ('Kiosk') sau automate de bilete.",
+          "Validați biletul imediat după ce urcați într-un tramvai или autobuz.",
+          "Aplicația 'Jakdojade' este esențială pentru planificarea rutelor.",
+          "Majoritatea liniilor circulă frecvent, dar verificați orarele pentru serviciile de noapte."
+        ],
+        "en": [
+          "Buy a daily or multi-day public transport ticket from kiosks ('Kiosk') or ticket machines.",
+          "Validate your ticket immediately upon boarding a tram or bus.",
+          "The 'Jakdojade' app is essential for planning your routes.",
+          "Most lines run frequently, but check schedules for night services."
+        ]
+      }
+    }
+  }
+}

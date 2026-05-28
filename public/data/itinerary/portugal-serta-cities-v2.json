@@ -1,0 +1,1532 @@
+{
+  "city_id": "portugal-serta-cities-v2",
+  "anchor": {
+    "name": "Sertã",
+    "coords": [
+      -8.1,
+      39.8
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus (Paços do Concelho)",
+            "hu": "Városháza (Paços do Concelho)",
+            "ro": "Primăria (Paços do Concelho)",
+            "en": "Town Hall (Paços do Concelho)"
+          },
+          "coords": [
+            -8.1005,
+            39.8035
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier, im Herzen der Stadt, und genießen Sie die Morgenstimmung.",
+            "hu": "Kezdje a napot a város szívében, és élvezze a reggeli hangulatot.",
+            "ro": "Începeți ziua aici, în inima orașului, bucurându-vă de atmosfera de dimineață.",
+            "en": "Start your day here in the heart of the town and soak in the morning atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Schandpfahl von Sertã (Pelourinho)",
+            "hu": "Sertã pellengére (Pelourinho)",
+            "ro": "Stâlpul Infamiei din Sertã (Pelourinho)",
+            "en": "Pillory of Sertã (Pelourinho)"
+          },
+          "coords": [
+            -8.1002,
+            39.8038
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:39",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein manuelinisches Symbol der städtischen Autonomie. Achten Sie auf die filigranen Schnitzereien.",
+            "hu": "A városi autonómia mánueli stílusú szimbóluma. Figyelje meg a finom faragványokat!",
+            "ro": "Un simbol manuelin al autonomiei municipale. Observați sculpturile delicate.",
+            "en": "A Manueline symbol of municipal autonomy. Look for the intricate carvings."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptkirche von Sertã (Igreja Matriz)",
+            "hu": "Sertã Főtemploma (Igreja Matriz)",
+            "ro": "Biserica Principală din Sertã (Igreja Matriz)",
+            "en": "Main Church of Sertã (Igreja Matriz)"
+          },
+          "coords": [
+            -8.0998,
+            39.8041
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie den Renaissance-Altar und die bemalte Decke im Inneren.",
+            "hu": "Csodálja meg a reneszánsz oltárt és a festett mennyezetet odabent!",
+            "ro": "Admirați altarul renascentist și tavanul pictat din interior.",
+            "en": "Admire the Renaissance altarpiece and the painted ceiling inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Brücke von Sertã (Ponte da Ribeira)",
+            "hu": "Sertã római hídja (Ponte da Ribeira)",
+            "ro": "Podul Roman din Sertã (Ponte da Ribeira)",
+            "en": "Roman Bridge of Sertã (Ponte da Ribeira)"
+          },
+          "coords": [
+            -8.0965,
+            39.8055
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:56",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Oft fälschlicherweise als römisch bezeichnet, ist sie wahrscheinlich mittelalterlich. Ein toller Fotospot.",
+            "hu": "Gyakran tévesen rómainak nevezik, de valószínűleg középkori. Remek fotóhelyszín.",
+            "ro": "Adesea numit eronat roman, este probabil medieval. Un loc excelent pentru fotografii.",
+            "en": "Often mislabeled as Roman, it's likely medieval. A great photo spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Sertã (Castelo da Sertã)",
+            "hu": "Sertã vára (Castelo da Sertã)",
+            "ro": "Castelul din Sertã (Castelo da Sertã)",
+            "en": "Castle of Sertã (Castelo da Sertã)"
+          },
+          "coords": [
+            -8.0958,
+            39.8062
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:31",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Mauern für einen Panoramablick über die Stadt und den Fluss.",
+            "hu": "Másszon fel a falakra a városra és a folyóra nyíló panorámáért!",
+            "ro": "Urcați pe ziduri pentru o vedere panoramică asupra orașului și râului.",
+            "en": "Climb the walls for a panoramic view over the town and the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen mit lokalen Spezialitäten",
+            "hu": "Ebéd helyi specialitásokkal",
+            "ro": "Prânz cu specialități locale",
+            "en": "Lunch with Local Delicacies"
+          },
+          "coords": [
+            -8.098,
+            39.804
+          ],
+          "category": "gastro",
+          "arrive_at": "13:01",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie Maranho oder Bucho Recheado, die berühmten Gerichte der Region.",
+            "hu": "Kóstolja meg a Maranho-t vagy a Bucho Recheado-t, a régió híres ételeit!",
+            "ro": "Încercați Maranho sau Bucho Recheado, preparatele celebre ale regiunii.",
+            "en": "Try Maranho or Bucho Recheado, the region's famous dishes."
+          }
+        },
+        {
+          "name": {
+            "de": "Flussstrand Ribeira da Sertã (Praia Fluvial)",
+            "hu": "Ribeira da Sertã folyóparti strand (Praia Fluvial)",
+            "ro": "Plaja Fluvială Ribeira da Sertã (Praia Fluvial)",
+            "en": "Ribeira da Sertã River Beach (Praia Fluvial)"
+          },
+          "coords": [
+            -8.095,
+            39.807
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:51",
+          "stay_min": 180,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich, schwimmen Sie oder genießen Sie einfach die Sonne an diesem idyllischen Ort.",
+            "hu": "Pihenjen, ússzon egyet, vagy csak napozzon ezen az idilli helyen.",
+            "ro": "Relaxați-vă, înotați sau pur și simplu bucurați-vă de soare în acest loc idilic.",
+            "en": "Relax, swim, or just enjoy the sun at this idyllic spot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang am Morgen im historischen Herzen von Sertã, rund um das Rathaus und die Hauptkirche. Spüren Sie den Puls der Stadt, während sie erwacht. Mittags führt Sie Ihr Weg über die alte Brücke zur imposanten Burg, wo Geschichte lebendig wird und atemberaubende Ausblicke auf Sie warten. Der Nachmittag ist der puren Entspannung gewidmet. Nach einem köstlichen lokalen Mittagessen schlendern Sie zum Flussstrand, um die Seele baumeln zu lassen. Am Abend, nach einem erfrischenden Tag, genießen Sie die ruhige Atmosphäre der Stadt, vielleicht bei einem Glas Wein in einem der lokalen Cafés.",
+        "hu": "Kezdje reggeli sétáját Sertã történelmi szívében, a Városháza és a Főtemplom környékén. Érezze a város lüktetését, ahogy ébredezik. Délben útja a régi hídon át a lenyűgöző várhoz vezet, ahol a történelem megelevenedik, és lélegzetelállító kilátás várja. A délután a tiszta kikapcsolódásé. Egy finom, helyi specialitásokból álló ebéd után sétáljon le a folyóparti strandra, hogy feltöltődjön. Este, egy frissítő nap után, élvezze a város nyugodt hangulatát, talán egy pohár bor mellett az egyik helyi kávézóban.",
+        "ro": "Începeți plimbarea de dimineață în inima istorică a orașului Sertã, în jurul Primăriei și a Bisericii Principale. Simțiți pulsul orașului în timp ce se trezește. La prânz, drumul vă duce peste podul vechi spre castelul impunător, unde istoria prinde viață și vă așteaptă priveliști uluitoare. După-amiaza este dedicată relaxării pure. După un prânz delicios cu specialități locale, plimbați-vă până la plaja fluvială pentru a vă relaxa. Seara, după o zi revigorantă, bucurați-vă de atmosfera liniștită a orașului, poate cu un pahar de vin la una dintre cafenelele locale.",
+        "en": "Start your morning walk in the historic heart of Sertã, around the Town Hall and the Main Church. Feel the pulse of the town as it awakens. At noon, your path leads you over the old bridge to the imposing castle, where history comes alive and breathtaking views await. The afternoon is dedicated to pure relaxation. After a delicious local lunch, stroll down to the river beach to unwind. In the evening, after a refreshing day, enjoy the quiet atmosphere of the town, perhaps with a glass of wine at one of the local cafes."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Maranho",
+            "tip": "Eine Wurst aus Ziegenfleisch, Reis und Minze. Ein Muss!"
+          },
+          {
+            "name": "Bucho Recheado",
+            "tip": "Ähnlich wie Maranho, aber mit Schweinefleisch und im Magen gekocht."
+          },
+          {
+            "name": "Cartuchos de Amêndoa de Cernache",
+            "tip": "Süßes Gebäck mit Mandelfüllung, perfekt zum Kaffee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maranho",
+            "tip": "Kecskehúsból, rizsből és mentából készült kolbászféle. Kötelező megkóstolni!"
+          },
+          {
+            "name": "Bucho Recheado",
+            "tip": "Hasonló a Maranho-hoz, de sertéshússal és gyomorban főzve."
+          },
+          {
+            "name": "Cartuchos de Amêndoa de Cernache",
+            "tip": "Mandulával töltött édes sütemény, tökéletes a kávé mellé."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Maranho",
+            "tip": "Un cârnat din carne de capră, orez și mentă. Trebuie încercat!"
+          },
+          {
+            "name": "Bucho Recheado",
+            "tip": "Similar cu Maranho, dar cu carne de porc și gătit în stomac."
+          },
+          {
+            "name": "Cartuchos de Amêndoa de Cernache",
+            "tip": "Produse de patiserie dulci cu umplutură de migdale, perfecte cu cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Maranho",
+            "tip": "A sausage made from goat meat, rice, and mint. A must-try!"
+          },
+          {
+            "name": "Bucho Recheado",
+            "tip": "Similar to Maranho but with pork and cooked in a stomach casing."
+          },
+          {
+            "name": "Cartuchos de Amêndoa de Cernache",
+            "tip": "Sweet pastries with an almond filling, perfect with coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Praia Fluvial da Ribeira",
+            "tip": "Das sanfte Rauschen des Wassers ist perfekt zur Entspannung.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten des Convento de Santo António",
+            "tip": "Ein friedlicher Ort für einen ruhigen Spaziergang und Kontemplation.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussicht vom Castelo da Sertã",
+            "tip": "Genießen Sie die Stille und den weiten Blick über die Landschaft.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Praia Fluvial da Ribeira",
+            "tip": "A víz halk csobogása tökéletes a pihenéshez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Convento de Santo António kertjei",
+            "tip": "Békés hely egy csendes sétához és elmélkedéshez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Castelo da Sertã-ból",
+            "tip": "Élvezze a csendet és a tájra nyíló széles kilátást.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Praia Fluvial da Ribeira",
+            "tip": "Sunetul blând al apei este perfect pentru relaxare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Mănăstirii Santo António",
+            "tip": "Un loc pașnic pentru o plimbare liniștită și contemplare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de la Castelo da Sertã",
+            "tip": "Bucurați-vă de liniște și de priveliștea panoramică asupra peisajului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Praia Fluvial da Ribeira",
+            "tip": "The gentle sound of the water is perfect for relaxation.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gardens of Convento de Santo António",
+            "tip": "A peaceful spot for a quiet walk and contemplation.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from Castelo da Sertã",
+            "tip": "Enjoy the silence and the wide view over the landscape.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte, Käse und Honig aus der Region."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Suchen Sie nach handgemachter Keramik und Korkprodukten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket, sajtot és mézet a régióból."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keressen kézzel készített kerámiákat és parafa termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse proaspete, brânză și miere din regiune."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Căutați ceramică lucrată manual și produse din plută."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Buy fresh produce, regional cheese, and honey."
+          },
+          {
+            "name": "Artisan Shops",
+            "tip": "Look for handmade ceramics and cork products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster uneben sein kann.",
+          "Nehmen Sie Wasser mit, besonders an warmen Tagen.",
+          "Die meisten Geschäfte schließen zur Mittagszeit (Siesta), planen Sie entsprechend.",
+          "Die Einheimischen sind freundlich, ein 'Bom dia' (Guten Tag) wird sehr geschätzt."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakő egyenetlen lehet.",
+          "Vigyen magával vizet, különösen meleg napokon.",
+          "A legtöbb üzlet bezár ebédidőben (szieszta), tervezzen ennek megfelelően.",
+          "A helyiek barátságosak, egy 'Bom dia' (Jó napot) nagyra értékelik."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavelele pot fi denivelate.",
+          "Luați apă cu dumneavoastră, mai ales în zilele călduroase.",
+          "Majoritatea magazinelor se închid la prânz (siesta), planificați-vă în consecință.",
+          "Localnicii sunt prietenoși, un 'Bom dia' (Bună ziua) este foarte apreciat."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones can be uneven.",
+          "Bring water with you, especially on warm days.",
+          "Most shops close for lunch (siesta), so plan accordingly.",
+          "The locals are friendly; a 'Bom dia' (Good day) is much appreciated."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 8.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus (Paços do Concelho)",
+            "hu": "Városháza (Paços do Concelho)",
+            "ro": "Primăria (Paços do Concelho)",
+            "en": "Town Hall (Paços do Concelho)"
+          },
+          "coords": [
+            -8.1005,
+            39.8035
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Perfekter Ausgangspunkt für Ihre Radtour durch Sertã.",
+            "hu": "Tökéletes kiindulópont a sertã-i kerékpártúrához.",
+            "ro": "Punctul de plecare perfect pentru turul cu bicicleta prin Sertã.",
+            "en": "Perfect starting point for your bike tour of Sertã."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptkirche von Sertã (Igreja Matriz)",
+            "hu": "Sertã Főtemploma (Igreja Matriz)",
+            "ro": "Biserica Principală din Sertã (Igreja Matriz)",
+            "en": "Main Church of Sertã (Igreja Matriz)"
+          },
+          "coords": [
+            -8.0998,
+            39.8041
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:23",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und nehmen Sie sich einen Moment Zeit für die Kunst im Inneren.",
+            "hu": "Tegye le a biciklit, és szánjon egy percet a benti művészetre.",
+            "ro": "Parcați bicicleta și acordați-vă un moment pentru a admira arta din interior.",
+            "en": "Park your bike and take a moment for the art inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Sertã (Castelo da Sertã)",
+            "hu": "Sertã vára (Castelo da Sertã)",
+            "ro": "Castelul din Sertã (Castelo da Sertã)",
+            "en": "Castle of Sertã (Castelo da Sertã)"
+          },
+          "coords": [
+            -8.0958,
+            39.8062
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Der Aufstieg ist die Mühe wert, die Aussicht ist fantastisch.",
+            "hu": "A felfelé tekerés megéri a fáradságot, a kilátás fantasztikus.",
+            "ro": "Urcușul merită efortul, priveliștea este fantastică.",
+            "en": "The climb is worth the effort; the view is fantastic."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Brücke von Sertã (Ponte da Ribeira)",
+            "hu": "Sertã római hídja (Ponte da Ribeira)",
+            "ro": "Podul Roman din Sertã (Ponte da Ribeira)",
+            "en": "Roman Bridge of Sertã (Ponte da Ribeira)"
+          },
+          "coords": [
+            -8.0965,
+            39.8055
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:04",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Fahren Sie langsam über die Brücke und stellen Sie sich die Reisenden der Vergangenheit vor.",
+            "hu": "Tekerjen át lassan a hídon, és képzelje el a múlt utazóit.",
+            "ro": "Traversați podul încet și imaginați-vă călătorii din trecut.",
+            "en": "Ride slowly across the bridge and imagine travelers of the past."
+          }
+        },
+        {
+          "name": {
+            "de": "Flussstrand Ribeira da Sertã (Praia Fluvial)",
+            "hu": "Ribeira da Sertã folyóparti strand (Praia Fluvial)",
+            "ro": "Plaja Fluvială Ribeira da Sertã (Praia Fluvial)",
+            "en": "Ribeira da Sertã River Beach (Praia Fluvial)"
+          },
+          "coords": [
+            -8.095,
+            39.807
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:28",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Eine erfrischende Pause und vielleicht ein schnelles Bad, bevor es weitergeht.",
+            "hu": "Egy frissítő szünet és talán egy gyors csobbanás, mielőtt tovább indul.",
+            "ro": "O pauză răcoritoare și poate o baie rapidă înainte de a continua.",
+            "en": "A refreshing break and maybe a quick swim before continuing."
+          }
+        },
+        {
+          "name": {
+            "de": "Convento de Santo António",
+            "hu": "Szent Antal Kolostor",
+            "ro": "Mănăstirea Santo António",
+            "en": "Convent of Saint Anthony"
+          },
+          "coords": [
+            -8.109,
+            39.801
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:28",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein ruhiger und spiritueller Ort, etwas abseits des Zentrums.",
+            "hu": "Csendes, spirituális hely, kissé távolabb a központtól.",
+            "ro": "Un loc liniștit și spiritual, puțin în afara centrului.",
+            "en": "A quiet and spiritual place, a little away from the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Stadt",
+            "hu": "Ebéd a városban",
+            "ro": "Prânz în oraș",
+            "en": "Lunch in town"
+          },
+          "coords": [
+            -8.101,
+            39.803
+          ],
+          "category": "gastro",
+          "arrive_at": "13:31",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Stärken Sie sich mit einem herzhaften portugiesischen Essen für den Rest des Tages.",
+            "hu": "Erősítse meg magát egy kiadós portugál ebéddel a nap hátralévő részére.",
+            "ro": "Întăriți-vă cu o masă portugheză consistentă pentru restul zilei.",
+            "en": "Refuel with a hearty Portuguese meal for the rest of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Seminário das Missões",
+            "hu": "Missziós Szeminárium",
+            "ro": "Seminarul Misiunilor",
+            "en": "Seminary of the Missions"
+          },
+          "coords": [
+            -8.0945,
+            39.7995
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:07",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein beeindruckendes Gebäude mit einer reichen Geschichte. Heute eine Schule.",
+            "hu": "Lenyűgöző épület, gazdag történelemmel. Ma iskola működik benne.",
+            "ro": "O clădire impresionantă cu o istorie bogată. Astăzi este o școală.",
+            "en": "An impressive building with a rich history. Now a school."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich am Morgen auf Ihr Fahrrad und erkunden Sie das Zentrum von Sertã, beginnend am Rathaus. Die morgendliche Radtour führt Sie zur Kirche und hinauf zur Burg, wo Sie für Ihre Anstrengung belohnt werden. Gegen Mittag radeln Sie hinunter zum Fluss, überqueren die alte Brücke und machen eine Pause am erfrischenden Flussstrand, ein perfekter Ort für eine kurze Rast. Nach dem Mittagessen führt Sie Ihre Tour zu den etwas abgelegeneren, aber nicht weniger faszinierenden spirituellen Orten der Stadt, dem Konvent und dem Seminar. Am späten Nachmittag kehren Sie voller Eindrücke ins Zentrum zurück und beenden einen aktiven Tag auf zwei Rädern.",
+        "hu": "Pattanjon reggel biciklire, és fedezze fel Sertã központját a Városházától indulva. A reggeli tekerés elvezeti a templomhoz és fel a várhoz, ahol az erőfeszítésért jutalomban részesül. Dél körül legurul a folyóhoz, átkel a régi hídon, és megpihen a frissítő folyóparti strandon, ami tökéletes hely egy rövid pihenőre. Ebéd után a túra a város kissé távolabbi, de nem kevésbé lenyűgöző spirituális helyszíneire, a kolostorhoz és a szemináriumhoz vezet. Késő délután, élményekkel telve tér vissza a központba, lezárva egy aktív napot két keréken.",
+        "ro": "Urcați-vă pe bicicletă dimineața și explorați centrul orașului Sertã, pornind de la Primărie. Plimbarea de dimineață vă duce la biserică și sus la castel, unde veți fi răsplătit pentru efort. Spre prânz, coborâți cu bicicleta la râu, traversați podul vechi și faceți o pauză pe plaja fluvială răcoroasă, un loc perfect pentru o scurtă odihnă. După prânz, turul vă duce la locurile spirituale mai îndepărtate, dar nu mai puțin fascinante ale orașului, mănăstirea și seminarul. La sfârșitul după-amiezii, vă întoarceți în centru plin de impresii, încheind o zi activă pe două roți.",
+        "en": "Hop on your bike in the morning and explore the center of Sertã, starting at the Town Hall. The morning ride takes you to the church and up to the castle, where you'll be rewarded for your effort. Around noon, cycle down to the river, cross the old bridge, and take a break at the refreshing river beach, a perfect spot for a short rest. After lunch, your tour leads you to the slightly more remote but no less fascinating spiritual sites of the town, the convent and the seminary. In the late afternoon, you return to the center full of impressions, ending an active day on two wheels."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Maranho",
+            "tip": "Eine Wurst aus Ziegenfleisch, Reis und Minze. Ein Muss!"
+          },
+          {
+            "name": "Bucho Recheado",
+            "tip": "Ähnlich wie Maranho, aber mit Schweinefleisch und im Magen gekocht."
+          },
+          {
+            "name": "Lokale Weine",
+            "tip": "Probieren Sie einen Rotwein aus der Region Beira Baixa."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maranho",
+            "tip": "Kecskehúsból, rizsből és mentából készült kolbászféle. Kötelező megkóstolni!"
+          },
+          {
+            "name": "Bucho Recheado",
+            "tip": "Hasonló a Maranho-hoz, de sertéshússal és gyomorban főzve."
+          },
+          {
+            "name": "Helyi borok",
+            "tip": "Kóstoljon meg egy vörösbort a Beira Baixa régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Maranho",
+            "tip": "Un cârnat din carne de capră, orez și mentă. Trebuie încercat!"
+          },
+          {
+            "name": "Bucho Recheado",
+            "tip": "Similar cu Maranho, dar cu carne de porc și gătit în stomac."
+          },
+          {
+            "name": "Vinuri locale",
+            "tip": "Încercați un vin roșu din regiunea Beira Baixa."
+          }
+        ],
+        "en": [
+          {
+            "name": "Maranho",
+            "tip": "A sausage made from goat meat, rice, and mint. A must-try!"
+          },
+          {
+            "name": "Bucho Recheado",
+            "tip": "Similar to Maranho but with pork and cooked in a stomach casing."
+          },
+          {
+            "name": "Local Wines",
+            "tip": "Try a red wine from the Beira Baixa region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Uferweg der Ribeira da Sertã",
+            "tip": "Eine ruhige Radtour entlang des Flusses.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten des Convento de Santo António",
+            "tip": "Ein Ort der Stille und Besinnung.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick von der Burg",
+            "tip": "Ein Moment der Ruhe mit Panoramablick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ribeira da Sertã folyóparti ösvény",
+            "tip": "Csendes biciklizés a folyó mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Convento de Santo António kertjei",
+            "tip": "A csend és az elmélkedés helye.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a várból",
+            "tip": "Egy pillanatnyi béke panorámás kilátással.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poteca de pe malul râului Ribeira da Sertã",
+            "tip": "O plimbare liniștită cu bicicleta de-a lungul râului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Mănăstirii Santo António",
+            "tip": "Un loc de liniște și contemplare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de la castel",
+            "tip": "Un moment de pace cu o priveliște panoramică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ribeira da Sertã riverside path",
+            "tip": "A quiet bike ride along the river.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gardens of Convento de Santo António",
+            "tip": "A place of silence and contemplation.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the Castle",
+            "tip": "A moment of peace with a panoramic view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie regionale Produkte für ein Picknick."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Finden Sie einzigartige Souvenirs aus Kork und Keramik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon helyi termékeket egy piknikhez."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Találjon egyedi parafa és kerámia ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse locale pentru un picnic."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Găsiți suveniruri unice din plută și ceramică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Buy local products for a picnic."
+          },
+          {
+            "name": "Artisan Shops",
+            "tip": "Find unique souvenirs made from cork and ceramic."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck vor der Abfahrt.",
+          "Ein Helm wird für Ihre Sicherheit empfohlen.",
+          "Schließen Sie Ihr Fahrrad immer ab, wenn Sie es abstellen.",
+          "Die Hügel können anspruchsvoll sein, nehmen Sie sich Zeit."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "A biztonság érdekében sisak viselése ajánlott.",
+          "Mindig zárja le a kerékpárt, ha leparkolja.",
+          "A dombok kihívást jelenthetnek, ne siessen."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de a pleca.",
+          "Se recomandă cască pentru siguranța dumneavoastră.",
+          "Încuietăți întotdeauna bicicleta când o parcați.",
+          "Dealurile pot fi solicitante, nu vă grăbiți."
+        ],
+        "en": [
+          "Check your tire pressure before setting off.",
+          "A helmet is recommended for your safety.",
+          "Always lock your bike when you park it.",
+          "The hills can be challenging, take your time."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:17",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Historisches Zentrum",
+            "hu": "1. klaszter: Történelmi központ",
+            "ro": "Cluster 1: Centrul Istoric",
+            "en": "Cluster 1: Historic Center"
+          },
+          "coords": [
+            -8.1005,
+            39.8035
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto in der Nähe und beginnen Sie Ihre Erkundung zu Fuß.",
+            "hu": "Parkoljon le a közelben, és kezdje meg a felfedezést gyalog.",
+            "ro": "Parcați mașina în apropiere și începeți explorarea pe jos.",
+            "en": "Park your car nearby and start your exploration on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptkirche von Sertã (Igreja Matriz)",
+            "hu": "Sertã Főtemploma (Igreja Matriz)",
+            "ro": "Biserica Principală din Sertã (Igreja Matriz)",
+            "en": "Main Church of Sertã (Igreja Matriz)"
+          },
+          "coords": [
+            -8.0998,
+            39.8041
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:24",
+          "stay_min": 35,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Rathausplatz.",
+            "hu": "Rövid séta a városháza tértől.",
+            "ro": "O scurtă plimbare din piața primăriei.",
+            "en": "A short walk from the town hall square."
+          }
+        },
+        {
+          "name": {
+            "de": "Pelourinho da Sertã",
+            "hu": "Sertã pellengére",
+            "ro": "Stâlpul Infamiei din Sertã",
+            "en": "Pillory of Sertã"
+          },
+          "coords": [
+            -8.1002,
+            39.8038
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:01",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Auf dem Rückweg zum Auto nicht verpassen.",
+            "hu": "Ne hagyja ki a visszaúton az autóhoz.",
+            "ro": "Nu ratați pe drumul de întoarcere la mașină.",
+            "en": "Don't miss it on your way back to the car."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Burg und Fluss",
+            "hu": "2. klaszter: Vár és folyó",
+            "ro": "Cluster 2: Castel și Râu",
+            "en": "Cluster 2: Castle and River"
+          },
+          "coords": [
+            -8.0958,
+            39.8062
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:25",
+          "stay_min": 70,
+          "hop_mode": "car",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Burg-Parkplatz. Von hier aus ist alles zu Fuß erreichbar.",
+            "hu": "Hajtson a vár parkolójába. Innen minden gyalogosan elérhető.",
+            "ro": "Conduceți până la parcarea castelului. De aici, totul este la distanță de mers pe jos.",
+            "en": "Drive to the castle parking lot. Everything is within walking distance from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Brücke von Sertã (Ponte da Ribeira)",
+            "hu": "Sertã római hídja (Ponte da Ribeira)",
+            "ro": "Podul Roman din Sertã (Ponte da Ribeira)",
+            "en": "Roman Bridge of Sertã (Ponte da Ribeira)"
+          },
+          "coords": [
+            -8.0965,
+            39.8055
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:39",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang bergab von der Burg.",
+            "hu": "Rövid séta lefelé a vártól.",
+            "ro": "O scurtă plimbare la vale de la castel.",
+            "en": "A short walk downhill from the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia Fluvial da Ribeira da Sertã",
+            "hu": "Ribeira da Sertã folyóparti strand",
+            "ro": "Plaja Fluvială Ribeira da Sertã",
+            "en": "Ribeira da Sertã River Beach"
+          },
+          "coords": [
+            -8.095,
+            39.807
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:05",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zeit für ein langes Mittagessen und Entspannung am Wasser.",
+            "hu": "Ideje egy hosszú ebédnek és pihenésnek a vízparton.",
+            "ro": "Timp pentru un prânz lung și relaxare pe malul apei.",
+            "en": "Time for a long lunch and relaxation by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Spirituelles Erbe",
+            "hu": "3. klaszter: Spirituális örökség",
+            "ro": "Cluster 3: Moștenirea Spirituală",
+            "en": "Cluster 3: Spiritual Heritage"
+          },
+          "coords": [
+            -8.109,
+            39.801
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:21",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt zum Convento de Santo António, einem Ort der Ruhe.",
+            "hu": "Rövid autóút a Convento de Santo António-hoz, a nyugalom szigetéhez.",
+            "ro": "O scurtă călătorie cu mașina până la Mănăstirea Santo António, un loc de liniște.",
+            "en": "A short drive to the Convento de Santo António, a place of peace."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto gruppieren Sie Ihre Besichtigungen für maximale Effizienz. Beginnen Sie am Morgen im historischen Zentrum, parken Sie einmal und erkunden Sie Rathaus, Kirche und Schandpfahl zu Fuß. Gegen Mittag fahren Sie zum zweiten Cluster, dem Burgviertel. Lassen Sie das Auto stehen und genießen Sie die Burg, die alte Brücke und ein entspanntes Mittagessen am Flussstrand. Der Nachmittag ist für das spirituelle Erbe reserviert. Eine kurze Fahrt bringt Sie zum ruhigen Konvent, wo Sie den Tag in friedlicher Atmosphäre ausklingen lassen können. Dieser Plan kombiniert die Freiheit des Autos mit dem Vergnügen, die schönsten Ecken der Stadt zu Fuß zu entdecken.",
+        "hu": "Autóval csoportosítsa a látnivalókat a maximális hatékonyság érdekében. Kezdje a reggelt a történelmi központban: parkoljon le, majd fedezze fel gyalog a városházát, a templomot és a pellengért. Dél körül hajtson át a második klaszterhez, a várnegyedbe. Hagyja az autót, és élvezze a várat, a régi hidat és egy pihentető ebédet a folyóparti strandon. A délután a spirituális örökségé. Egy rövid autóút elviszi a csendes kolostorhoz, ahol békés légkörben zárhatja a napot. Ez a terv ötvözi az autó nyújtotta szabadságot a város legszebb zugainak gyalogos felfedezésének örömével.",
+        "ro": "Cu mașina, grupați vizitele pentru eficiență maximă. Începeți dimineața în centrul istoric: parcați o dată și explorați pe jos primăria, biserica și stâlpul infamiei. Spre prânz, conduceți către al doilea cluster, zona castelului. Lăsați mașina și bucurați-vă de castel, podul vechi și un prânz relaxant pe plaja fluvială. După-amiaza este rezervată moștenirii spirituale. O scurtă călătorie cu mașina vă duce la mănăstirea liniștită, unde puteți încheia ziua într-o atmosferă pașnică. Acest plan combină libertatea mașinii cu plăcerea de a descoperi cele mai frumoase colțuri ale orașului pe jos.",
+        "en": "With a car, cluster your visits for maximum efficiency. Start in the historic center in the morning: park once and explore the town hall, church, and pillory on foot. Around noon, drive to the second cluster, the castle area. Leave the car and enjoy the castle, the old bridge, and a relaxing lunch at the river beach. The afternoon is reserved for the spiritual heritage. A short drive takes you to the quiet convent, where you can end the day in a peaceful atmosphere. This plan combines the freedom of a car with the pleasure of discovering the most beautiful corners of the town on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Maranho",
+            "tip": "Probieren Sie diese lokale Spezialität in einem Restaurant am Fluss."
+          },
+          {
+            "name": "Queijo da Beira Baixa",
+            "tip": "Ein köstlicher Schafs- und Ziegenkäse aus der Region."
+          },
+          {
+            "name": "Vinho do Dão",
+            "tip": "Begleiten Sie Ihr Essen mit einem Wein aus dem nahegelegenen Dão-Gebiet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maranho",
+            "tip": "Kóstolja meg ezt a helyi specialitást egy folyóparti étteremben."
+          },
+          {
+            "name": "Queijo da Beira Baixa",
+            "tip": "Finom juh- és kecskesajt a régióból."
+          },
+          {
+            "name": "Vinho do Dão",
+            "tip": "Kísérje ételét egy borral a közeli Dão borvidékről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Maranho",
+            "tip": "Încercați această specialitate locală la un restaurant de pe malul râului."
+          },
+          {
+            "name": "Queijo da Beira Baixa",
+            "tip": "O brânză delicioasă de oaie și capră din regiune."
+          },
+          {
+            "name": "Vinho do Dão",
+            "tip": "Însoțiți masa cu un vin din regiunea viticolă Dão din apropiere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Maranho",
+            "tip": "Try this local specialty at a riverside restaurant."
+          },
+          {
+            "name": "Queijo da Beira Baixa",
+            "tip": "A delicious sheep and goat cheese from the region."
+          },
+          {
+            "name": "Vinho do Dão",
+            "tip": "Pair your meal with a wine from the nearby Dão wine region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Praia Fluvial",
+            "tip": "Ein perfekter Ort, um nach dem Mittagessen zu entspannen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Convento de Santo António",
+            "tip": "Finden Sie inneren Frieden in dieser ruhigen Umgebung.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Aussichtspunkt bei der Burg",
+            "tip": "Genießen Sie den Panoramablick in Ruhe.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Praia Fluvial",
+            "tip": "Tökéletes hely az ebéd utáni pihenéshez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Convento de Santo António",
+            "tip": "Találja meg a belső békét ebben a csendes környezetben.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátó a várnál",
+            "tip": "Élvezze a panorámás kilátást nyugalomban.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Praia Fluvial",
+            "tip": "Un loc perfect pentru a vă relaxa după prânz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mănăstirea Santo António",
+            "tip": "Găsiți pacea interioară în acest mediu liniștit.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Punct de belvedere lângă castel",
+            "tip": "Bucurați-vă de vederea panoramică în liniște.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Praia Fluvial",
+            "tip": "A perfect place to relax after lunch.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Convento de Santo António",
+            "tip": "Find inner peace in this quiet environment.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Viewpoint near the castle",
+            "tip": "Enjoy the panoramic view in peace.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Produkte",
+            "tip": "Kaufen Sie Olivenöl und Honig direkt vom Erzeuger."
+          },
+          {
+            "name": "Handwerkskunst",
+            "tip": "Halten Sie Ausschau nach Geschäften, die lokale Handwerkskunst verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termékek",
+            "tip": "Vásároljon olívaolajat és mézet közvetlenül a termelőtől."
+          },
+          {
+            "name": "Kézművesség",
+            "tip": "Keressen olyan boltokat, amelyek helyi kézműves termékeket árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse locale",
+            "tip": "Cumpărați ulei de măsline și miere direct de la producători."
+          },
+          {
+            "name": "Artizanat",
+            "tip": "Căutați magazine care vând produse de artizanat local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local produce",
+            "tip": "Buy olive oil and honey directly from the producers."
+          },
+          {
+            "name": "Craftsmanship",
+            "tip": "Look out for shops selling local handicrafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "In den engen Gassen des Zentrums kann das Parken schwierig sein. Nutzen Sie die ausgewiesenen Parkplätze.",
+          "Ein GPS ist nützlich, um zwischen den Clustern zu navigieren.",
+          "Lassen Sie keine Wertsachen im Auto sichtbar liegen.",
+          "Achten Sie auf die Geschwindigkeitsbegrenzungen, die in der Stadt oft niedrig sind."
+        ],
+        "hu": [
+          "A központ szűk utcáin nehéz lehet parkolni. Használja a kijelölt parkolókat.",
+          "GPS hasznos a klaszterek közötti navigációhoz.",
+          "Ne hagyjon értékeket látható helyen az autóban.",
+          "Vegye figyelembe a sebességkorlátozásokat, amelyek a városban gyakran alacsonyak."
+        ],
+        "ro": [
+          "Parcarea poate fi dificilă pe străzile înguste din centru. Folosiți parcările desemnate.",
+          "Un GPS este util pentru a naviga între clustere.",
+          "Nu lăsați obiecte de valoare la vedere în mașină.",
+          "Fiți atenți la limitele de viteză, care sunt adesea scăzute în oraș."
+        ],
+        "en": [
+          "Parking can be difficult in the narrow streets of the center. Use the designated parking lots.",
+          "A GPS is useful for navigating between clusters.",
+          "Do not leave valuables visible in the car.",
+          "Pay attention to the speed limits, which are often low in the town."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Historisches Zentrum (zu Fuß)",
+            "hu": "A. klaszter: Történelmi központ (gyalog)",
+            "ro": "Cluster A: Centrul Istoric (pe jos)",
+            "en": "Cluster A: Historic Center (on foot)"
+          },
+          "coords": [
+            -8.1005,
+            39.8035
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie am Busbahnhof oder einer zentralen Haltestelle und gehen Sie zum Rathaus.",
+            "hu": "Induljon a buszpályaudvarról vagy egy központi megállóból, és sétáljon a Városházához.",
+            "ro": "Începeți de la stația de autobuz sau o stație centrală și mergeți pe jos la primărie.",
+            "en": "Start from the bus station or a central stop and walk to the Town Hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptkirche & Pelourinho",
+            "hu": "Főtemplom & Pellengér",
+            "ro": "Biserica Principală și Stâlpul Infamiei",
+            "en": "Main Church & Pillory"
+          },
+          "coords": [
+            -8.0998,
+            39.8041
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:29",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beide Sehenswürdigkeiten liegen nur wenige Schritte voneinander entfernt.",
+            "hu": "Mindkét látnivaló csak pár lépésre van egymástól.",
+            "ro": "Ambele atracții sunt la doar câțiva pași una de cealaltă.",
+            "en": "Both sights are just a few steps from each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Burg & Fluss (Busfahrt)",
+            "hu": "B. klaszter: Vár és folyó (buszút)",
+            "ro": "Cluster B: Castel și Râu (cu autobuzul)",
+            "en": "Cluster B: Castle & River (by bus)"
+          },
+          "coords": [
+            -8.0958,
+            39.8062
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:34",
+          "stay_min": 70,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus in Richtung Burg. Steigen Sie so nah wie möglich aus.",
+            "hu": "Vegyen egy helyi buszt a vár irányába. Szálljon le a lehető legközelebb.",
+            "ro": "Luați un autobuz local spre castel. Coborâți cât mai aproape posibil.",
+            "en": "Take a local bus towards the castle. Get off as close as possible."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Brücke von Sertã",
+            "hu": "Sertã római hídja",
+            "ro": "Podul Roman din Sertã",
+            "en": "Roman Bridge of Sertã"
+          },
+          "coords": [
+            -8.0965,
+            39.8055
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:48",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Von der Burg aus leicht zu Fuß erreichbar.",
+            "hu": "A vártól könnyen megközelíthető gyalog.",
+            "ro": "Ușor de accesat pe jos de la castel.",
+            "en": "Easily accessible on foot from the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Entspannung am Flussstrand",
+            "hu": "Ebéd és pihenés a folyóparti strandon",
+            "ro": "Prânz și relaxare la plaja fluvială",
+            "en": "Lunch and Relaxation at the River Beach"
+          },
+          "coords": [
+            -8.095,
+            39.807
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:14",
+          "stay_min": 150,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Verbringen Sie hier einen großen Teil des Nachmittags.",
+            "hu": "Töltse itt a délután nagy részét.",
+            "ro": "Petreceți o mare parte a după-amiezii aici.",
+            "en": "Spend a large part of the afternoon here."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum",
+            "hu": "Visszatérés a központba",
+            "ro": "Întoarcere în centru",
+            "en": "Return to the Center"
+          },
+          "coords": [
+            -8.1005,
+            39.8035
+          ],
+          "category": "transit",
+          "arrive_at": "15:14",
+          "stay_min": 20,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück ins Zentrum für einen Kaffee oder Souvenirs.",
+            "hu": "Menjen vissza busszal a központba egy kávéra vagy ajándékokért.",
+            "ro": "Luați autobuzul înapoi în centru pentru o cafea sau suveniruri.",
+            "en": "Take the bus back to the center for a coffee or souvenirs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Selbst in einer kleinen Stadt kann der öffentliche Nahverkehr nützlich sein. Beginnen Sie Ihren Tag zu Fuß im historischen Zentrum. Nach der Erkundung von Kirche und Rathaus nehmen Sie am Vormittag einen Bus, der Sie näher an den zweiten großen Anziehungspunkt, die Burg, bringt. Von dort aus erkunden Sie das gesamte Flussufer-Areal, einschließlich der alten Brücke und des Strandes, zu Fuß. Hier verbringen Sie eine ausgedehnte Mittagspause. Am Nachmittag bringt Sie ein Bus bequem zurück ins Zentrum, wo Sie den Tag gemütlich ausklingen lassen können.",
+        "hu": "Még egy kisvárosban is hasznos lehet a tömegközlekedés. Kezdje a napot gyalog a történelmi központban. A templom és a városháza felfedezése után délelőtt szálljon buszra, amely közelebb viszi a második nagy látványossághoz, a várhoz. Onnan gyalogosan fedezze fel az egész folyóparti területet, beleértve a régi hidat és a strandot is. Itt töltsön egy hosszabb ebédszünetet. Délután egy busz kényelmesen visszaviszi a központba, ahol kényelmesen zárhatja a napot.",
+        "ro": "Chiar și într-un oraș mic, transportul public poate fi util. Începeți ziua pe jos în centrul istoric. După explorarea bisericii și a primăriei, luați un autobuz dimineața care vă va aduce mai aproape de a doua atracție majoră, castelul. De acolo, explorați întreaga zonă riverană pe jos, inclusiv podul vechi și plaja. Petreceți o pauză de prânz prelungită aici. După-amiaza, un autobuz vă va duce confortabil înapoi în centru, unde puteți încheia ziua într-un mod relaxat.",
+        "en": "Even in a small town, public transit can be useful. Start your day on foot in the historic center. After exploring the church and town hall, take a bus in the morning to get you closer to the second major attraction, the castle. From there, explore the entire riverside area, including the old bridge and the beach, on foot. Spend an extended lunch break here. In the afternoon, a bus will comfortably take you back to the center, where you can end the day at your leisure."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Maranho",
+            "tip": "Ein Muss für jeden Besucher."
+          },
+          {
+            "name": "Lokales Gebäck",
+            "tip": "Suchen Sie eine 'Pastelaria' für süße Leckereien."
+          },
+          {
+            "name": "Tagesmenü (Prato do Dia)",
+            "tip": "Fragen Sie in Restaurants nach dem günstigen und köstlichen Tagesmenü."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maranho",
+            "tip": "Minden látogatónak kötelező."
+          },
+          {
+            "name": "Helyi sütemények",
+            "tip": "Keressen egy 'Pastelaria'-t édes finomságokért."
+          },
+          {
+            "name": "Napi menü (Prato do Dia)",
+            "tip": "Kérdezze az éttermekben az olcsó és finom napi menüt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Maranho",
+            "tip": "O necesitate pentru orice vizitator."
+          },
+          {
+            "name": "Produse de patiserie locale",
+            "tip": "Căutați o 'Pastelaria' pentru dulciuri."
+          },
+          {
+            "name": "Meniul zilei (Prato do Dia)",
+            "tip": "Întrebați la restaurante despre meniul zilei, ieftin și delicios."
+          }
+        ],
+        "en": [
+          {
+            "name": "Maranho",
+            "tip": "A must-try for any visitor."
+          },
+          {
+            "name": "Local Pastries",
+            "tip": "Find a 'Pastelaria' for sweet treats."
+          },
+          {
+            "name": "Dish of the Day (Prato do Dia)",
+            "tip": "Ask in restaurants for the cheap and delicious daily menu."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Praia Fluvial",
+            "tip": "Ein ruhiger Ort, um dem Trubel der Stadt zu entkommen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spaziergang entlang des Flusses",
+            "tip": "Finden Sie einen ruhigen Platz am Ufer.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick von der Burg",
+            "tip": "Ein Moment der Stille mit weitem Ausblick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Praia Fluvial",
+            "tip": "Csendes hely a város nyüzsgésétől távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Séta a folyó mentén",
+            "tip": "Találjon egy csendes helyet a parton.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a várból",
+            "tip": "Egy pillanatnyi csend, tágas kilátással.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Praia Fluvial",
+            "tip": "Un loc liniștit pentru a scăpa de agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plimbare de-a lungul râului",
+            "tip": "Găsiți un loc liniștit pe mal.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de la castel",
+            "tip": "Un moment de liniște cu o priveliște vastă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Praia Fluvial",
+            "tip": "A quiet place to escape the hustle and bustle of the town.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Walk along the river",
+            "tip": "Find a quiet spot on the bank.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the Castle",
+            "tip": "A moment of silence with a wide view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Märkte",
+            "tip": "Informieren Sie sich über die Markttage für die frischesten Produkte."
+          },
+          {
+            "name": "Kleine Läden im Zentrum",
+            "tip": "Stöbern Sie nach einzigartigen Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piacok",
+            "tip": "Tájékozódjon a piaci napokról a legfrissebb termékekért."
+          },
+          {
+            "name": "Kis boltok a központban",
+            "tip": "Böngésszen egyedi ajándéktárgyak után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe locale",
+            "tip": "Interesați-vă de zilele de piață pentru cele mai proaspete produse."
+          },
+          {
+            "name": "Mici magazine în centru",
+            "tip": "Căutați suveniruri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local markets",
+            "tip": "Check for market days to get the freshest produce."
+          },
+          {
+            "name": "Small shops in the center",
+            "tip": "Browse for unique souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich im Voraus über den Busfahrplan, da die Frequenzen gering sein können.",
+          "Haben Sie Kleingeld für die Bustickets bereit.",
+          "Die Haltestellen sind nicht immer deutlich gekennzeichnet, achten Sie auf Einheimische.",
+          "Seien Sie flexibel, der öffentliche Nahverkehr auf dem Land kann unvorhersehbar sein."
+        ],
+        "hu": [
+          "Tájékozódjon előre a buszmenetrendről, mivel a járatok ritkák lehetnek.",
+          "Készítsen elő aprópénzt a buszjegyekhez.",
+          "A megállók nem mindig vannak egyértelműen jelölve, figyelje a helyieket.",
+          "Legyen rugalmas, a vidéki tömegközlekedés kiszámíthatatlan lehet."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor în avans, deoarece frecvențele pot fi reduse.",
+          "Aveți pregătiți bani mărunți pentru biletele de autobuz.",
+          "Stațiile nu sunt întotdeauna marcate clar, fiți atenți la localnici.",
+          "Fiți flexibil, transportul public rural poate fi imprevizibil."
+        ],
+        "en": [
+          "Check the bus schedule in advance, as frequencies can be low.",
+          "Have small change ready for bus tickets.",
+          "Stops are not always clearly marked, watch the locals.",
+          "Be flexible, rural public transport can be unpredictable."
+        ]
+      }
+    }
+  }
+}

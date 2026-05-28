@@ -1,0 +1,1144 @@
+{
+  "city_id": "finland-kurikka-cities-v2",
+  "anchor": {
+    "name": "Kurikka",
+    "coords": [
+      22.4,
+      62.6167
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche von Kurikka",
+            "hu": "Kurikkai templom",
+            "ro": "Biserica din Kurikka",
+            "en": "Church of Kurikka"
+          },
+          "coords": [
+            22.4011,
+            62.6175
+          ],
+          "category": "churches",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Altartafel und die ruhige Atmosphäre.",
+            "hu": "Csodálja meg a lenyűgöző oltárképet és a békés légkört.",
+            "ro": "Admirați altarul impresionant și atmosfera liniștită.",
+            "en": "Admire the impressive altarpiece and the serene atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Samuli Paulaharju Statue",
+            "hu": "Samuli Paulaharju szobra",
+            "ro": "Statuia lui Samuli Paulaharju",
+            "en": "Samuli Paulaharju Statue"
+          },
+          "coords": [
+            22.3995,
+            62.616
+          ],
+          "category": "monuments",
+          "arrive_at": "09:55",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein guter Ort für ein Foto, um den berühmten Folkloristen zu ehren.",
+            "hu": "Jó hely egy fotóhoz a híres folklorista tiszteletére.",
+            "ro": "Un loc bun pentru o fotografie în onoarea faimosului folclorist.",
+            "en": "A good spot for a photo to honor the famous folklorist."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum Kurikka",
+            "hu": "Kurikkai Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie Locală Kurikka",
+            "en": "Kurikka Local History Museum"
+          },
+          "coords": [
+            22.397,
+            62.615
+          ],
+          "category": "museums",
+          "arrive_at": "10:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Planen Sie genug Zeit für die Ausstellungen über das landwirtschaftliche Erbe ein.",
+            "hu": "Szánjon elég időt a mezőgazdasági örökségről szóló kiállításokra.",
+            "ro": "Planificați suficient timp pentru expozițiile despre moștenirea agricolă.",
+            "en": "Allow enough time for the exhibits on agricultural heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the center"
+          },
+          "coords": [
+            22.4005,
+            62.618
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Probieren Sie das lokale 'Rosvopaisti' (Räuberbraten), falls verfügbar.",
+            "hu": "Kóstolja meg a helyi „Rosvopaisti”-t ( betyárpecsenye), ha elérhető.",
+            "ro": "Încercați 'Rosvopaisti' local (friptură de tâlhar), dacă este disponibil.",
+            "en": "Try the local 'Rosvopaisti' (robber's roast) if available."
+          }
+        },
+        {
+          "name": {
+            "de": "Kurikka Sportpark",
+            "hu": "Kurikkai Sportpark",
+            "ro": "Parcul Sportiv Kurikka",
+            "en": "Kurikka Sports Park"
+          },
+          "coords": [
+            22.408,
+            62.622
+          ],
+          "category": "parks",
+          "arrive_at": "13:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein schöner Ort für einen Verdauungsspaziergang.",
+            "hu": "Kellemes hely egy emésztést segítő sétához.",
+            "ro": "Un loc plăcut pentru o plimbare digestivă.",
+            "en": "A lovely place for a digestive walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Pitämö Strand",
+            "hu": "Pitämö strand",
+            "ro": "Plaja Pitämö",
+            "en": "Pitämö Beach"
+          },
+          "coords": [
+            22.38,
+            62.6
+          ],
+          "category": "beaches",
+          "arrive_at": "15:35",
+          "stay_min": 180,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Perfekt zum Entspannen am Nachmittag. Bringen Sie ein Handtuch mit!",
+            "hu": "Tökéletes délutáni pihenéshez. Hozzon törölközőt!",
+            "ro": "Perfect pentru relaxare după-amiaza. Aduceți un prosop!",
+            "en": "Perfect for relaxing in the afternoon. Bring a towel!"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Kurikka mit einem Besuch der historischen Kirche und dem nahegelegenen Museum, das Einblicke in die lokale Kultur bietet. Spüren Sie die Geschichte der Region. Am Mittag genießen Sie eine wohlverdiente Pause in einem lokalen Restaurant und probieren die finnische Küche. Gestärkt machen Sie einen Spaziergang durch den Sportpark. Der Nachmittag ist für Entspannung am Pitämö-Strand reserviert. Genießen Sie die Ruhe am Wasser und lassen Sie den Tag gemütlich ausklingen.",
+        "hu": "Kezdje a napot Kurikka szívében a történelmi templom és a közeli, helyi kultúrát bemutató múzeum meglátogatásával. Érezze át a régió történelmét! Délben élvezze a jól megérdemelt szünetet egy helyi étteremben, és kóstolja meg a finn konyhát. Felfrissülve tegyen egy sétát a sportparkban. A délután a Pitämö strandon való pihenésé. Élvezze a vízparti csendet, és zárja a napot egy kellemes hangulatban.",
+        "ro": "Începeți ziua în inima orașului Kurikka cu o vizită la biserica istorică și la muzeul din apropiere, care oferă o perspectivă asupra culturii locale. Simțiți istoria regiunii. La prânz, bucurați-vă de o pauză binemeritată la un restaurant local, degustând bucătăria finlandeză. Revigorat, faceți o plimbare prin parcul sportiv. După-amiaza este rezervată relaxării pe plaja Pitämö. Bucurați-vă de liniștea de pe malul apei și încheiați ziua într-o manieră relaxată.",
+        "en": "Start your day in the heart of Kurikka with a visit to the historic church and the nearby museum offering insights into local culture. Feel the history of the region. At noon, enjoy a well-deserved break at a local restaurant, tasting Finnish cuisine. Refreshed, take a walk through the sports park. The afternoon is reserved for relaxation at Pitämö Beach. Enjoy the tranquility by the water and end the day in a leisurely fashion."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ravintola Wanha Asema",
+            "tip": "Bekannt für sein Mittagsbuffet mit traditionellen finnischen Gerichten."
+          },
+          {
+            "name": "Café-Konditoria Pässilä",
+            "tip": "Probieren Sie den 'Korvapuusti' (Zimtschnecke) mit einer Tasse Kaffee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ravintola Wanha Asema",
+            "tip": "Híres a svédasztalos ebédjéről, amely hagyományos finn ételeket kínál."
+          },
+          {
+            "name": "Café-Konditoria Pässilä",
+            "tip": "Kóstolja meg a 'Korvapuusti'-t (fahéjas csiga) egy csésze kávéval."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ravintola Wanha Asema",
+            "tip": "Renumit pentru bufetul de prânz cu mâncăruri tradiționale finlandeze."
+          },
+          {
+            "name": "Café-Konditoria Pässilä",
+            "tip": "Încercați 'Korvapuusti' (rulou cu scorțișoară) cu o ceașcă de cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ravintola Wanha Asema",
+            "tip": "Known for its lunch buffet featuring traditional Finnish dishes."
+          },
+          {
+            "name": "Café-Konditoria Pässilä",
+            "tip": "Try the 'Korvapuusti' (cinnamon roll) with a cup of coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Kyrönjoki",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses bietet eine friedliche Auszeit.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pitämö Strand außerhalb der Saison",
+            "tip": "Besonders friedlich, wenn weniger Menschen da sind.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kyrönjoki folyó partja",
+            "tip": "Egy csendes séta a folyó mentén békés kikapcsolódást nyújt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pitämö strand szezonon kívül",
+            "tip": "Különösen békés, amikor kevesebben vannak.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Kyrönjoki",
+            "tip": "O plimbare liniștită de-a lungul râului oferă o evadare pașnică.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plaja Pitämö în afara sezonului",
+            "tip": "Deosebit de pașnică atunci când sunt mai puțini oameni.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of Kyrönjoki River",
+            "tip": "A quiet walk along the river offers a peaceful escape.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pitämö Beach off-season",
+            "tip": "Especially peaceful when there are fewer people around.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kurikan tori (Marktplatz)",
+            "tip": "Suchen Sie nach lokalen Handwerksprodukten und saisonalen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kurikan tori (Piactér)",
+            "tip": "Keressen helyi kézműves termékeket és szezonális árukat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kurikan tori (Piața centrală)",
+            "tip": "Căutați produse artizanale locale și produse de sezon."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kurikan tori (Market Square)",
+            "tip": "Look for local handicrafts and seasonal produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Prüfen Sie die Öffnungszeiten des Museums im Voraus.",
+          "An sonnigen Tagen ist ein Hut empfehlenswert."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "Előre ellenőrizze a múzeum nyitvatartási idejét.",
+          "Napos napokon ajánlott a kalap viselése."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Verificați în avans programul de funcționare al muzeului.",
+          "O pălărie este recomandată în zilele însorite."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "Check the museum's opening hours in advance.",
+          "A hat is recommended on sunny days."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche von Kurikka",
+            "hu": "Kurikkai templom",
+            "ro": "Biserica din Kurikka",
+            "en": "Church of Kurikka"
+          },
+          "coords": [
+            22.4011,
+            62.6175
+          ],
+          "category": "churches",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie die Kirche betreten.",
+            "hu": "Biztonságosan zárja le a kerékpárját, mielőtt belép a templomba.",
+            "ro": "Asigurați-vă bicicleta înainte de a intra în biserică.",
+            "en": "Lock your bike securely before entering the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum Kurikka",
+            "hu": "Kurikkai Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie Locală Kurikka",
+            "en": "Kurikka Local History Museum"
+          },
+          "coords": [
+            22.397,
+            62.615
+          ],
+          "category": "museums",
+          "arrive_at": "09:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Es gibt oft Fahrradständer in der Nähe des Eingangs.",
+            "hu": "Gyakran vannak kerékpártárolók a bejárat közelében.",
+            "ro": "Există adesea suporturi pentru biciclete lângă intrare.",
+            "en": "There are often bike racks near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Polvenkylä Altes Dorf",
+            "hu": "Polvenkylä régi falu",
+            "ro": "Vechiul sat Polvenkylä",
+            "en": "Polvenkylä Old Village"
+          },
+          "coords": [
+            22.35,
+            62.64
+          ],
+          "category": "old-town",
+          "arrive_at": "11:34",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Fahren Sie langsam durch die alten Straßen, um die traditionellen Häuser zu sehen.",
+            "hu": "Lassan haladjon a régi utcákon, hogy megnézze a hagyományos házakat.",
+            "ro": "Mergeți încet pe străzile vechi pentru a vedea casele tradiționale.",
+            "en": "Ride slowly through the old streets to see the traditional houses."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Polvenkylä",
+            "hu": "Ebéd Polvenkylä-ban",
+            "ro": "Prânz în Polvenkylä",
+            "en": "Lunch in Polvenkylä"
+          },
+          "coords": [
+            22.352,
+            62.641
+          ],
+          "category": "gastro",
+          "arrive_at": "12:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Suchen Sie nach einem Café, das lokale Snacks anbietet.",
+            "hu": "Keressen egy kávézót, amely helyi harapnivalókat kínál.",
+            "ro": "Căutați o cafenea care oferă gustări locale.",
+            "en": "Look for a café that offers local snacks."
+          }
+        },
+        {
+          "name": {
+            "de": "Jyrä Erholungsgebiet",
+            "hu": "Jyrä üdülőterület",
+            "ro": "Zona de recreere Jyrä",
+            "en": "Jyrä Recreation Area"
+          },
+          "coords": [
+            22.45,
+            62.65
+          ],
+          "category": "natural-features",
+          "arrive_at": "14:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Es gibt Radwege, die durch das Gebiet führen. Perfekt für eine Erkundung.",
+            "hu": "A területen kerékpárutak vezetnek keresztül. Tökéletes a felfedezéshez.",
+            "ro": "Există piste de biciclete care traversează zona. Perfecte pentru explorare.",
+            "en": "There are bike paths running through the area. Perfect for exploring."
+          }
+        },
+        {
+          "name": {
+            "de": "Pitämö Strand",
+            "hu": "Pitämö strand",
+            "ro": "Plaja Pitämö",
+            "en": "Pitämö Beach"
+          },
+          "coords": [
+            22.38,
+            62.6
+          ],
+          "category": "beaches",
+          "arrive_at": "16:16",
+          "stay_min": 180,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Ein erfrischendes Bad nach einer langen Radtour.",
+            "hu": "Frissítő fürdő egy hosszú kerékpártúra után.",
+            "ro": "O baie răcoritoare după o plimbare lungă cu bicicleta.",
+            "en": "A refreshing swim after a long bike ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und entdecken Sie Kurikka auf zwei Rädern. Die Tour beginnt im Zentrum bei der Kirche und dem Museum. Von dort radeln Sie zum historischen Dorf Polvenkylä. Nach einer Mittagspause geht es weiter in die Natur. Das Jyrä Erholungsgebiet bietet tolle Wege zum Radfahren und Erkunden. Der krönende Abschluss Ihrer Tour ist der Pitämö Strand, wo Sie sich entspannen und erholen können.",
+        "hu": "Pattanjon kerékpárra, és fedezze fel Kurikkát két keréken! A túra a központban, a templomnál és a múzeumnál kezdődik. Onnan tekerjen el a történelmi Polvenkylä faluba. Egy ebédszünet után irány a természet. A Jyrä üdülőterület nagyszerű utakat kínál a kerékpározáshoz és a felfedezéshez. A túra megkoronázása a Pitämö strand, ahol pihenhet és feltöltődhet.",
+        "ro": "Urcați-vă pe bicicletă și descoperiți Kurikka pe două roți. Turul începe în centru, la biserică și muzeu. De acolo, pedalați spre satul istoric Polvenkylä. După o pauză de prânz, continuați spre natură. Zona de recreere Jyrä oferă trasee excelente pentru ciclism și explorare. Punctul culminant al turului este plaja Pitämö, unde vă puteți relaxa și reîncărca bateriile.",
+        "en": "Get on your bike and discover Kurikka on two wheels. The tour starts in the center at the church and museum. From there, cycle to the historic village of Polvenkylä. After a lunch break, continue into nature. The Jyrä Recreation Area offers great trails for cycling and exploring. The crowning glory of your tour is Pitämö Beach, where you can relax and recharge."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Järvenpään Grilli",
+            "tip": "Ein schneller und leckerer Imbiss für hungrige Radfahrer."
+          },
+          {
+            "name": "Epop Nurmo",
+            "tip": "Ein kleiner Supermarkt, um sich mit Snacks und Getränken für die Tour einzudecken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Järvenpään Grilli",
+            "tip": "Gyors és finom harapnivaló az éhes kerékpárosoknak."
+          },
+          {
+            "name": "Epop Nurmo",
+            "tip": "Egy kis szupermarket, ahol feltöltheti készleteit snackekkel és italokkal a túrára."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Järvenpään Grilli",
+            "tip": "O gustare rapidă și delicioasă pentru bicicliștii flămânzi."
+          },
+          {
+            "name": "Epop Nurmo",
+            "tip": "Un mic supermarket pentru a vă aproviziona cu gustări și băuturi pentru tur."
+          }
+        ],
+        "en": [
+          {
+            "name": "Järvenpään Grilli",
+            "tip": "A quick and tasty snack for hungry cyclists."
+          },
+          {
+            "name": "Epop Nurmo",
+            "tip": "A small supermarket to stock up on snacks and drinks for the tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Waldwege um Jyrä",
+            "tip": "Halten Sie an und lauschen Sie den Geräuschen des Waldes.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang am Pitämö Strand",
+            "tip": "Ein magischer Moment, um den Tag ausklingen zu lassen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Erdei ösvények Jyrä körül",
+            "tip": "Álljon meg, és hallgassa az erdő hangjait.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a Pitämö strandon",
+            "tip": "Varázslatos pillanat a nap lezárásához.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Potecile forestiere din jurul Jyrä",
+            "tip": "Opriți-vă și ascultați sunetele pădurii.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus de soare la plaja Pitämö",
+            "tip": "Un moment magic pentru a încheia ziua.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Forest trails around Jyrä",
+            "tip": "Stop and listen to the sounds of the forest.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset at Pitämö Beach",
+            "tip": "A magical moment to end the day.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Hofläden",
+            "tip": "Halten Sie Ausschau nach Schildern für 'suoramyynti' (Direktverkauf) für frische Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termelői boltok",
+            "tip": "Keresse a 'suoramyynti' (közvetlen értékesítés) táblákat a friss termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele fermelor locale",
+            "tip": "Fiți atenți la semnele pentru 'suoramyynti' (vânzare directă) pentru produse proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local farm shops",
+            "tip": "Look out for 'suoramyynti' (direct sale) signs for fresh produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie einen Helm und helle Kleidung.",
+          "Nehmen Sie eine Wasserflasche und Snacks mit.",
+          "Eine Fahrradkarte oder GPS ist sehr hilfreich."
+        ],
+        "hu": [
+          "Viseljen sisakot és világos ruházatot.",
+          "Vigyen magával vizes palackot és harapnivalókat.",
+          "Egy kerékpáros térkép vagy GPS nagyon hasznos."
+        ],
+        "ro": [
+          "Purtați cască și haine de culoare deschisă.",
+          "Luați cu voi o sticlă de apă și gustări.",
+          "O hartă pentru biciclete sau un GPS este foarte util."
+        ],
+        "en": [
+          "Wear a helmet and bright clothing.",
+          "Bring a water bottle and snacks.",
+          "A bike map or GPS is very helpful."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 35.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Holzmuseum Jurva",
+            "hu": "Jurvai Faipari Múzeum",
+            "ro": "Muzeul Lemnului din Jurva",
+            "en": "Jurva Wood Museum"
+          },
+          "coords": [
+            21.97,
+            62.68
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 18.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier, es ist der am weitesten entfernte Punkt.",
+            "hu": "Kezdje a napot itt, ez a legtávolabbi pont.",
+            "ro": "Începeți ziua aici, este cel mai îndepărtat punct.",
+            "en": "Start your day here as it's the furthest point."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Kurikka (Cluster B)",
+            "hu": "Kurikkai templom (B csoport)",
+            "ro": "Biserica din Kurikka (Cluster B)",
+            "en": "Church of Kurikka (Cluster B)"
+          },
+          "coords": [
+            22.4011,
+            62.6175
+          ],
+          "category": "churches",
+          "arrive_at": "11:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 17.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto im Zentrum und erkunden Sie die Umgebung zu Fuß.",
+            "hu": "Parkolja le az autót a központban, és fedezze fel a környéket gyalog.",
+            "ro": "Parcați mașina în centru și explorați zona pe jos.",
+            "en": "Park your car in the center and explore the area on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum Kurikka",
+            "hu": "Kurikkai Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie Locală Kurikka",
+            "en": "Kurikka Local History Museum"
+          },
+          "coords": [
+            22.397,
+            62.615
+          ],
+          "category": "museums",
+          "arrive_at": "12:41",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Kirche aus.",
+            "hu": "Rövid séta a templomtól.",
+            "ro": "O scurtă plimbare de la biserică.",
+            "en": "A short walk from the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the center"
+          },
+          "coords": [
+            22.4005,
+            62.618
+          ],
+          "category": "gastro",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Viele Restaurants sind vom Museum aus leicht zu Fuß erreichbar.",
+            "hu": "Sok étterem könnyen megközelíthető gyalog a múzeumtól.",
+            "ro": "Multe restaurante sunt ușor accesibile pe jos de la muzeu.",
+            "en": "Many restaurants are within easy walking distance from the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Jyrä Erholungsgebiet (Cluster C)",
+            "hu": "Jyrä üdülőterület (C csoport)",
+            "ro": "Zona de recreere Jyrä (Cluster C)",
+            "en": "Jyrä Recreation Area (Cluster C)"
+          },
+          "coords": [
+            22.45,
+            62.65
+          ],
+          "category": "natural-features",
+          "arrive_at": "15:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Hauptparkplatz und folgen Sie den Wanderwegen.",
+            "hu": "Hajtson a fő parkolóhoz, és kövesse a túraútvonalakat.",
+            "ro": "Conduceți până la parcarea principală și urmați traseele de drumeție.",
+            "en": "Drive to the main parking area and follow the hiking trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am See",
+            "hu": "Séta a tónál",
+            "ro": "Plimbare pe malul lacului",
+            "en": "Walk by the lake"
+          },
+          "coords": [
+            22.455,
+            62.652
+          ],
+          "category": "natural-features",
+          "arrive_at": "16:36",
+          "stay_min": 30,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die frische Luft und die Aussicht auf das Wasser.",
+            "hu": "Élvezze a friss levegőt és a vízre nyíló kilátást.",
+            "ro": "Bucurați-vă de aerul proaspăt și de priveliștea apei.",
+            "en": "Enjoy the fresh air and the view of the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Pitämö Strand",
+            "hu": "Pitämö strand",
+            "ro": "Plaja Pitämö",
+            "en": "Pitämö Beach"
+          },
+          "coords": [
+            22.38,
+            62.6
+          ],
+          "category": "beaches",
+          "arrive_at": "17:26",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Tag entspannt ausklingen zu lassen.",
+            "hu": "Tökéletes hely a nap pihentető lezárásához.",
+            "ro": "Locul perfect pentru a încheia ziua într-un mod relaxant.",
+            "en": "The perfect place to end the day in a relaxed way."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie die weitere Umgebung von Kurikka erkunden. Beginnen Sie im Holzmuseum in Jurva. Fahren Sie dann ins Zentrum von Kurikka, parken Sie und erkunden Sie die Kirche und das Heimatmuseum zu Fuß. Nach dem Mittagessen fahren Sie zum Jyrä-Erholungsgebiet für einen Naturspaziergang. Beenden Sie Ihren Tag am malerischen Pitämö-Strand.",
+        "hu": "Autóval felfedezheti Kurikka tágabb környékét. Kezdjen a jurvai Faipari Múzeumban. Ezután hajtson Kurikka központjába, parkoljon le, és fedezze fel gyalog a templomot és a helytörténeti múzeumot. Ebéd után irány a Jyrä üdülőterület egy természetközeli sétára. A napot a festői Pitämö strandon zárja.",
+        "ro": "Cu mașina puteți explora zona mai largă a Kurikka. Începeți la Muzeul Lemnului din Jurva. Apoi, conduceți în centrul orașului Kurikka, parcați și explorați biserica și muzeul local pe jos. După prânz, mergeți la zona de recreere Jyrä pentru o plimbare în natură. Încheiați ziua pe plaja pitorească Pitämö.",
+        "en": "By car, you can explore the wider area of Kurikka. Start at the Wood Museum in Jurva. Then drive to the center of Kurikka, park, and explore the church and local museum on foot. After lunch, head to the Jyrä recreation area for a nature walk. End your day at the scenic Pitämö Beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "ABC Kurikka",
+            "tip": "Eine praktische Option für eine schnelle Mahlzeit oder einen Kaffee unterwegs."
+          },
+          {
+            "name": "Restaurant Pihvitupa",
+            "tip": "Gute Steaks und eine gemütliche Atmosphäre für das Abendessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "ABC Kurikka",
+            "tip": "Kényelmes lehetőség egy gyors étkezésre vagy kávéra útközben."
+          },
+          {
+            "name": "Restaurant Pihvitupa",
+            "tip": "Jó steakek és hangulatos légkör a vacsorához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "ABC Kurikka",
+            "tip": "O opțiune convenabilă pentru o masă rapidă sau o cafea pe drum."
+          },
+          {
+            "name": "Restaurant Pihvitupa",
+            "tip": "Fripturi bune și o atmosferă primitoare pentru cină."
+          }
+        ],
+        "en": [
+          {
+            "name": "ABC Kurikka",
+            "tip": "A convenient option for a quick meal or coffee on the go."
+          },
+          {
+            "name": "Restaurant Pihvitupa",
+            "tip": "Good steaks and a cozy atmosphere for dinner."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Botniaring Rennstrecke (in der Nähe)",
+            "tip": "Wenn keine Rennen stattfinden, ist die Umgebung überraschend ruhig. Überprüfen Sie den Zeitplan!",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Botniaring versenypálya (a közelben)",
+            "tip": "Amikor nincsenek versenyek, a környék meglepően csendes. Ellenőrizze a menetrendet!",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Circuitul Botniaring (în apropiere)",
+            "tip": "Când nu sunt curse, zona este surprinzător de liniștită. Verificați programul!",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Botniaring Racing Circuit (nearby)",
+            "tip": "When there are no races, the area is surprisingly quiet. Check the schedule!",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handwerksläden in Jurva",
+            "tip": "Jurva ist bekannt für seine Holzarbeiten. Suchen Sie nach einzigartigen Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves boltok Jurvában",
+            "tip": "Jurva híres a famegmunkálásról. Keressen egyedi szuveníreket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat în Jurva",
+            "tip": "Jurva este renumită pentru prelucrarea lemnului. Căutați suveniruri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Craft shops in Jurva",
+            "tip": "Jurva is known for its woodworking. Look for unique souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tanken Sie voll, bevor Sie ländliche Gebiete erkunden.",
+          "Parken im Zentrum von Kurikka ist in der Regel einfach.",
+          "Ein GPS ist unerlässlich, um die abgelegeneren Orte zu finden."
+        ],
+        "hu": [
+          "Tankoljon tele, mielőtt a vidéki területeket felfedezné.",
+          "A parkolás Kurikka központjában általában egyszerű.",
+          "A GPS elengedhetetlen a távolabbi helyek megtalálásához."
+        ],
+        "ro": [
+          "Alimentați complet înainte de a explora zonele rurale.",
+          "Parcarea în centrul orașului Kurikka este de obicei ușoară.",
+          "Un GPS este esențial pentru a găsi locațiile mai îndepărtate."
+        ],
+        "en": [
+          "Fill up your tank before exploring rural areas.",
+          "Parking in the center of Kurikka is usually easy.",
+          "A GPS is essential for finding the more remote spots."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 9.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof Kurikka (Cluster A)",
+            "hu": "Érkezés a Kurikkai állomásra (A csoport)",
+            "ro": "Sosire la stația Kurikka (Cluster A)",
+            "en": "Arrival at Kurikka Station (Cluster A)"
+          },
+          "coords": [
+            22.405,
+            62.619
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier Ihre Tour. Die meisten zentralen Sehenswürdigkeiten sind zu Fuß erreichbar.",
+            "hu": "Kezdje itt a túrát. A legtöbb központi látnivaló gyalogosan elérhető.",
+            "ro": "Începeți turul de aici. Majoritatea atracțiilor centrale sunt la distanță de mers pe jos.",
+            "en": "Start your tour here. Most central sights are within walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Kurikka",
+            "hu": "Kurikkai templom",
+            "ro": "Biserica din Kurikka",
+            "en": "Church of Kurikka"
+          },
+          "coords": [
+            22.4011,
+            62.6175
+          ],
+          "category": "churches",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Busbahnhof.",
+            "hu": "Rövid séta a buszállomástól.",
+            "ro": "O scurtă plimbare de la stația de autobuz.",
+            "en": "A short walk from the bus station."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum Kurikka",
+            "hu": "Kurikkai Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie Locală Kurikka",
+            "en": "Kurikka Local History Museum"
+          },
+          "coords": [
+            22.397,
+            62.615
+          ],
+          "category": "museums",
+          "arrive_at": "10:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Folgen Sie einfach den Schildern vom Stadtzentrum.",
+            "hu": "Csak kövesse a táblákat a városközpontból.",
+            "ro": "Urmați indicatoarele din centrul orașului.",
+            "en": "Just follow the signs from the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Jyrä Erholungsgebiet (Cluster B)",
+            "hu": "Jyrä üdülőterület (B csoport)",
+            "ro": "Zona de recreere Jyrä (Cluster B)",
+            "en": "Jyrä Recreation Area (Cluster B)"
+          },
+          "coords": [
+            22.45,
+            62.65
+          ],
+          "category": "natural-features",
+          "arrive_at": "12:31",
+          "stay_min": 120,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus. Überprüfen Sie den Fahrplan für die Rückfahrt!",
+            "hu": "Menjen helyi busszal. Ellenőrizze a visszaindulási menetrendet!",
+            "ro": "Luați un autobuz local. Verificați programul pentru călătoria de întoarcere!",
+            "en": "Take a local bus. Check the schedule for the return trip!"
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück zum Zentrum und Abendessen",
+            "hu": "Vissza a központba és vacsora",
+            "ro": "Înapoi în centru și cină",
+            "en": "Back to the center and dinner"
+          },
+          "coords": [
+            22.4005,
+            62.618
+          ],
+          "category": "gastro",
+          "arrive_at": "15:21",
+          "stay_min": 150,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 3.6,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Zeit für eine ausgiebige Mahlzeit nach dem Ausflug in die Natur.",
+            "hu": "Ideje egy kiadós étkezésnek a természetjárás után.",
+            "ro": "Timpul pentru o masă copioasă după excursia în natură.",
+            "en": "Time for a hearty meal after the trip into nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Kurikka mit öffentlichen Verkehrsmitteln. Beginnen Sie im Zentrum, wo Kirche und Museum leicht zu Fuß erreichbar sind. Nach der Erkundung des Stadtkerns nehmen Sie einen Bus zum Jyrä-Erholungsgebiet für einen Nachmittag in der Natur. Kehren Sie am späten Nachmittag ins Zentrum zurück, um den Tag mit einem entspannten Abendessen ausklingen zu lassen.",
+        "hu": "Fedezze fel Kurikkát tömegközlekedéssel. Kezdjen a központban, ahol a templom és a múzeum gyalogosan is könnyen elérhető. A városközpont felfedezése után szálljon buszra a Jyrä üdülőterület felé egy természetben töltött délutánért. Késő délután térjen vissza a központba, és zárja a napot egy kellemes vacsorával.",
+        "ro": "Explorați Kurikka folosind transportul public. Începeți din centru, unde biserica și muzeul sunt ușor accesibile pe jos. După explorarea centrului orașului, luați un autobuz spre zona de recreere Jyrä pentru o după-amiază în natură. Întoarceți-vă în centru după-amiaza târziu pentru a încheia ziua cu o cină relaxantă.",
+        "en": "Explore Kurikka using public transport. Start in the center, where the church and museum are easily accessible on foot. After exploring the city core, take a bus to the Jyrä recreation area for an afternoon in nature. Return to the center in the late afternoon to end the day with a relaxing dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kotipizza Kurikka",
+            "tip": "Eine beliebte Wahl für eine unkomplizierte und leckere Mahlzeit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kotipizza Kurikka",
+            "tip": "Népszerű választás egy egyszerű és finom étkezéshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kotipizza Kurikka",
+            "tip": "O alegere populară pentru o masă necomplicată și delicioasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kotipizza Kurikka",
+            "tip": "A popular choice for an uncomplicated and delicious meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Bank im Kurikka Sportpark",
+            "tip": "Beobachten Sie das lokale Leben, während Sie sich ausruhen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy pad a Kurikkai Sportparkban",
+            "tip": "Figyelje a helyi életet, miközben pihen.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă în Parcul Sportiv Kurikka",
+            "tip": "Urmăriți viața locală în timp ce vă odihniți.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench in Kurikka Sports Park",
+            "tip": "Watch local life while you rest.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "S-market Kurikka",
+            "tip": "Gut, um finnische Snacks für die Busfahrt zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "S-market Kurikka",
+            "tip": "Jó hely finn rágcsálnivalók vásárlására a buszútra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "S-market Kurikka",
+            "tip": "Bun pentru a cumpăra gustări finlandeze pentru călătoria cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "S-market Kurikka",
+            "tip": "Good for buying Finnish snacks for the bus ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Busfahrpläne online, da sie selten sein können.",
+          "Kaufen Sie Tickets im Voraus, wenn möglich.",
+          "Haben Sie etwas Bargeld dabei, falls Kartenzahlung im Bus nicht möglich ist."
+        ],
+        "hu": [
+          "Ellenőrizze online a buszmenetrendeket, mivel ritkák lehetnek.",
+          "Ha lehetséges, vásároljon jegyet előre.",
+          "Legyen Önnél készpénz, hátha a buszon nem lehet kártyával fizetni."
+        ],
+        "ro": [
+          "Verificați online orarele autobuzelor, deoarece pot fi rare.",
+          "Cumpărați biletele în avans, dacă este posibil.",
+          "Aveți la voi niște numerar în cazul în care plata cu cardul nu este posibilă în autobuz."
+        ],
+        "en": [
+          "Check bus schedules online as they can be infrequent.",
+          "Buy tickets in advance if possible.",
+          "Have some cash on you in case card payment is not available on the bus."
+        ]
+      }
+    }
+  }
+}

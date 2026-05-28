@@ -1,0 +1,1589 @@
+{
+  "city_id": "godollo",
+  "anchor": {
+    "name": "Schloss Grassalkovich",
+    "coords": [
+      19.3478,
+      47.5969
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:39",
+      "total_km": 4.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Königlicher Wartesaal",
+            "hu": "Királyi Váróterem",
+            "ro": "Sala Regală de Așteptare",
+            "en": "Royal Waiting Hall"
+          },
+          "coords": [
+            19.3561,
+            47.6012
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, um die königliche Atmosphäre der Stadt sofort zu spüren.",
+            "hu": "Kezdje itt a napot, hogy azonnal átérezze a város királyi hangulatát.",
+            "ro": "Începeți aici pentru a simți imediat atmosfera regală a orașului.",
+            "en": "Start here to immediately feel the royal atmosphere of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Gödöllő",
+            "hu": "Gödöllői Városi Múzeum",
+            "ro": "Muzeul Orașului Gödöllő",
+            "en": "Gödöllő Town Museum"
+          },
+          "coords": [
+            19.3495,
+            47.5991
+          ],
+          "category": "museums",
+          "arrive_at": "09:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche lokale Geschichte, bevor Sie das Schloss besuchen.",
+            "hu": "Fedezze fel a gazdag helytörténetet, mielőtt a kastélyt meglátogatná.",
+            "ro": "Descoperiți istoria locală bogată înainte de a vizita castelul.",
+            "en": "Discover the rich local history before you visit the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Weltfriedensgong",
+            "hu": "Világbéke Gong",
+            "ro": "Gongul Păcii Mondiale",
+            "en": "World Peace Gong"
+          },
+          "coords": [
+            19.3518,
+            47.5982
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:39",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein einzigartiges Monument, das von Indonesien gestiftet wurde. Halten Sie für ein Foto an.",
+            "hu": "Egyedi, Indonéziából származó emlékmű. Álljon meg egy fotóra!",
+            "ro": "Un monument unic donat de Indonezia. Opriți-vă pentru o fotografie.",
+            "en": "A unique monument donated by Indonesia. Stop for a photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Elisabeth-Park",
+            "hu": "Erzsébet-park",
+            "ro": "Parcul Elisabeta",
+            "en": "Elisabeth Park"
+          },
+          "coords": [
+            19.3511,
+            47.5975
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:56",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein schöner, ruhiger Park, der Königin Elisabeth gewidmet ist.",
+            "hu": "Egy gyönyörű, csendes park, amelyet Erzsébet királynénak szenteltek.",
+            "ro": "Un parc frumos și liniștit dedicat Reginei Elisabeta.",
+            "en": "A beautiful, quiet park dedicated to Queen Elisabeth."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Grassalkovich",
+            "hu": "Grassalkovich-kastély",
+            "ro": "Castelul Grassalkovich",
+            "en": "Grassalkovich Palace"
+          },
+          "coords": [
+            19.3455,
+            47.5955
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:32",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Planen Sie mindestens zwei Stunden für die Erkundung der Gemächer von Sissi ein.",
+            "hu": "Szánjon legalább két órát Sissi lakosztályainak felfedezésére.",
+            "ro": "Planificați cel puțin două ore pentru a explora apartamentele lui Sissi.",
+            "en": "Allocate at least two hours to explore Sissi's royal apartments."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlosspark und Mittagessen",
+            "hu": "Kastélypark és ebéd",
+            "ro": "Parcul Castelului și prânz",
+            "en": "Palace Park and Lunch"
+          },
+          "coords": [
+            19.3482,
+            47.5933
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:34",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie ein Mittagessen in einem der Cafés und machen Sie dann einen Spaziergang.",
+            "hu": "Ebédeljen meg az egyik kávézóban, majd tegyen egy sétát.",
+            "ro": "Luați prânzul la una dintre cafenele și apoi faceți o plimbare.",
+            "en": "Have lunch at one of the cafés, then take a stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Ungarische Universität für Agrar- und Lebenswissenschaften",
+            "hu": "Magyar Agrár- és Élettudományi Egyetem",
+            "ro": "Universitatea Maghiară de Agricultură și Științe ale Vieții",
+            "en": "Hungarian University of Agriculture and Life Sciences"
+          },
+          "coords": [
+            19.3633,
+            47.5911
+          ],
+          "category": "historical",
+          "arrive_at": "15:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur des Hauptgebäudes.",
+            "hu": "Csodálja meg a főépület lenyűgöző építészetét.",
+            "ro": "Admirați arhitectura impresionantă a clădirii principale.",
+            "en": "Admire the impressive architecture of the main building."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalvarienberg",
+            "hu": "Kálvária",
+            "ro": "Calvaria",
+            "en": "Calvary Hill"
+          },
+          "coords": [
+            19.3415,
+            47.6015
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:44",
+          "stay_min": 55,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort für einen besinnlichen Abschluss des Tages.",
+            "hu": "Csendes hely a nap elmélkedő lezárásához.",
+            "ro": "Un loc liniștit pentru o încheiere contemplativă a zilei.",
+            "en": "A peaceful spot for a contemplative end to your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit königlichem Flair am alten Bahnhof, bevor Sie durch die Stadtgeschichte schlendern. Der Vormittag ist eine Mischung aus kleinen Entdeckungen und Parkspaziergängen, die Sie auf das große Highlight vorbereiten. Das Herz des Tages ist der Besuch des Grassalkovich-Schlosses, der ehemaligen Sommerresidenz von Sissi. Nehmen Sie sich Zeit, die opulenten Räume und die besondere Atmosphäre aufzusaugen. Nach dem Mittagessen im Schlosspark führt Sie ein längerer Spaziergang zum historischen Universitätscampus. Beenden Sie den Tag auf dem ruhigen Kalvarienberg und genießen Sie die friedliche Stimmung, bevor Sie die Stadt verlassen.",
+        "hu": "Indítsa a napot királyi hangulatban a régi vasútállomáson, mielőtt belevetné magát a város történelmébe. A délelőtt a kis felfedezések és parki séták keveréke, felkészítve Önt a nap fénypontjára. A nap központi eleme a Grassalkovich-kastély, Sissi egykori nyári rezidenciájának meglátogatása. Szánjon időt a pazar termek és a különleges légkör befogadására. A kastélyparkban elköltött ebéd után egy hosszabb séta vezet a történelmi egyetemi campushoz. A napot a csendes Kálvárián zárja, élvezve a békés hangulatot, mielőtt elhagyja a várost.",
+        "ro": "Începeți ziua cu o notă regală la vechea gară înainte de a vă plimba prin istoria orașului. Dimineața este un amestec de mici descoperiri și plimbări în parc, pregătindu-vă pentru marele punct culminant. Inima zilei este vizita la Castelul Grassalkovich, fosta reședință de vară a lui Sissi. Luați-vă timp să absorbiți camerele opulente și atmosfera specială. După prânzul în Parcul Castelului, o plimbare mai lungă vă va duce la campusul universitar istoric. Încheiați ziua pe dealul liniștit Calvaria, bucurându-vă de starea de pace înainte de a părăsi orașul.",
+        "en": "Start your day with royal flair at the old train station before strolling through town history. The morning is a mix of small discoveries and park walks, preparing you for the grand highlight. The heart of the day is the visit to Grassalkovich Palace, Sissi's former summer residence. Take your time to absorb the opulent rooms and the special atmosphere. After lunch in the Palace Park, a longer walk will take you to the historic university campus. End your day on the quiet Calvary Hill, enjoying the peaceful mood before leaving the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Erzsébet Királyné Étterem",
+            "tip": "Elegantes Speisen in königlichem Ambiente, probieren Sie das Zanderfilet."
+          },
+          {
+            "name": "Solier Cafe",
+            "tip": "Perfekt für Kaffee und Kuchen. Der Gödöllőer Quarkfladen ist ein Muss."
+          },
+          {
+            "name": "Napsugár Pizzéria",
+            "tip": "Eine zwanglose, aber köstliche Option für ein schnelles Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Erzsébet Királyné Étterem",
+            "tip": "Elegáns étkezés királyi környezetben, kóstolja meg a fogasfilét."
+          },
+          {
+            "name": "Solier Cafe",
+            "tip": "Tökéletes egy kávéra és süteményre. A Gödöllői túrós lepényt kötelező megkóstolni."
+          },
+          {
+            "name": "Napsugár Pizzéria",
+            "tip": "Kötetlen, de finom választás egy gyors ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul Erzsébet Királyné",
+            "tip": "Masă elegantă într-un cadru regal, încercați fileul de șalău."
+          },
+          {
+            "name": "Solier Cafe",
+            "tip": "Perfect pentru o cafea și o prăjitură. Plăcinta cu brânză de Gödöllő este obligatorie."
+          },
+          {
+            "name": "Pizzeria Napsugár",
+            "tip": "O opțiune informală, dar delicioasă pentru un prânz rapid."
+          }
+        ],
+        "en": [
+          {
+            "name": "Erzsébet Királyné Restaurant",
+            "tip": "Elegant dining in a royal setting, try the pike-perch fillet."
+          },
+          {
+            "name": "Solier Cafe",
+            "tip": "Perfect for coffee and cake. The Gödöllő curd cheese flatbread is a must-try."
+          },
+          {
+            "name": "Napsugár Pizzeria",
+            "tip": "A casual but delicious option for a quick lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlosspark",
+            "tip": "Finden Sie eine abgelegene Bank und genießen Sie die Ruhe hinter dem Schloss.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kalvarienberg",
+            "tip": "Der perfekte Ort für stille Besinnung am Ende des Tages.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Arboretum Gödöllő",
+            "tip": "Etwas außerhalb, aber ein friedlicher Zufluchtsort für Naturliebhaber.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kastélypark",
+            "tip": "Keressen egy félreeső padot, és élvezze a csendet a kastély mögött.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kálvária",
+            "tip": "Tökéletes hely a csendes elmélkedéshez a nap végén.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Gödöllői Arborétum",
+            "tip": "Kicsit távolabb esik, de békés menedék a természetkedvelőknek.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului",
+            "tip": "Găsiți o bancă retrasă și bucurați-vă de liniștea din spatele castelului.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Calvaria",
+            "tip": "Locul perfect pentru reflecție liniștită la sfârșitul zilei.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Arboretul din Gödöllő",
+            "tip": "Puțin mai departe, dar un refugiu pașnic pentru iubitorii de natură.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Palace Park",
+            "tip": "Find a secluded bench and enjoy the quiet behind the palace.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Calvary Hill",
+            "tip": "The perfect spot for quiet reflection at the end of the day.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Arboretum of Gödöllő",
+            "tip": "A bit further out, but a peaceful escape for nature lovers.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsshop des Schlosses",
+            "tip": "Hochwertige Souvenirs mit Bezug zu Sissi und der königlichen Familie."
+          },
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Produkten und handgefertigten Waren auf dem Hauptplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kastély Múzeumshop",
+            "tip": "Minőségi ajándéktárgyak Sissivel és a királyi családdal kapcsolatban."
+          },
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen helyi termékeket és kézműves árukat a főtéren."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de suveniruri al Castelului",
+            "tip": "Suveniruri de înaltă calitate legate de Sissi și familia regală."
+          },
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse locale și articole de artizanat în piața principală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Palace Museum Shop",
+            "tip": "High-quality souvenirs related to Sissi and the royal family."
+          },
+          {
+            "name": "Local Market",
+            "tip": "Look for local produce and handmade goods in the main square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Kaufen Sie das Schlossticket online, um Warteschlangen zu vermeiden.",
+          "Die meisten Sehenswürdigkeiten sind im Stadtzentrum konzentriert und leicht zu Fuß erreichbar.",
+          "Prüfen Sie die Öffnungszeiten des Stadtmuseums, da diese variieren können."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "Vásárolja meg a kastélyjegyet online a sorban állás elkerülése érdekében.",
+          "A legtöbb látnivaló a városközpontban található, és könnyen megközelíthető gyalog.",
+          "Ellenőrizze a Városi Múzeum nyitvatartási idejét, mert az változhat."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, veți merge mult pe jos.",
+          "Cumpărați biletul la castel online pentru a evita cozile.",
+          "Majoritatea atracțiilor sunt concentrate în centrul orașului și ușor accesibile pe jos.",
+          "Verificați programul de funcționare al muzeului orașului, deoarece acesta poate varia."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Buy the palace ticket online to avoid queues.",
+          "Most sights are concentrated in the city center and are easily reachable on foot.",
+          "Check the opening hours of the Town Museum as they can vary."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Königlicher Wartesaal",
+            "hu": "Királyi Váróterem",
+            "ro": "Sala Regală de Așteptare",
+            "en": "Royal Waiting Hall"
+          },
+          "coords": [
+            19.3561,
+            47.6012
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein idealer Ausgangspunkt, besonders wenn Sie mit dem Zug anreisen.",
+            "hu": "Ideális kiindulópont, különösen, ha vonattal érkezik.",
+            "ro": "Un punct de plecare ideal, mai ales dacă sosiți cu trenul.",
+            "en": "An ideal starting point, especially if you arrive by train."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalvarienberg",
+            "hu": "Kálvária",
+            "ro": "Calvaria",
+            "en": "Calvary Hill"
+          },
+          "coords": [
+            19.3415,
+            47.6015
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:34",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Eine kurze Radtour zu einem ruhigen Ort, um den Tag zu beginnen.",
+            "hu": "Egy rövid biciklitúra egy csendes helyre a nap indításaként.",
+            "ro": "O scurtă plimbare cu bicicleta către un loc liniștit pentru a începe ziua.",
+            "en": "A short bike ride to a quiet spot to start the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Gödöllő",
+            "hu": "Gödöllői Városi Múzeum",
+            "ro": "Muzeul Orașului Gödöllő",
+            "en": "Gödöllő Town Museum"
+          },
+          "coords": [
+            19.3495,
+            47.5991
+          ],
+          "category": "museums",
+          "arrive_at": "10:04",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad in der Nähe ab und tauchen Sie in die lokale Geschichte ein.",
+            "hu": "Parkolja le a biciklijét a közelben, és merüljön el a helytörténetben.",
+            "ro": "Parcați bicicleta în apropiere și cufundați-vă în istoria locală.",
+            "en": "Park your bike nearby and dive into the local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Elisabeth-Park & Weltfriedensgong",
+            "hu": "Erzsébet-park és Világbéke Gong",
+            "ro": "Parcul Elisabeta și Gongul Păcii",
+            "en": "Elisabeth Park & Peace Gong"
+          },
+          "coords": [
+            19.3515,
+            47.5979
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Eine schnelle Fahrt, um zwei nahe beieinander liegende, friedliche Orte zu sehen.",
+            "hu": "Gyors tekerés két közeli, békés helyszín megtekintéséhez.",
+            "ro": "O plimbare rapidă pentru a vedea două locuri pașnice, apropiate.",
+            "en": "A quick ride to see two peaceful spots close to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Grassalkovich",
+            "hu": "Grassalkovich-kastély",
+            "ro": "Castelul Grassalkovich",
+            "en": "Grassalkovich Palace"
+          },
+          "coords": [
+            19.3455,
+            47.5955
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:52",
+          "stay_min": 120,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Highlight des Tages. Nehmen Sie sich Zeit für die Innenräume und die Geschichte.",
+            "hu": "A nap fénypontja. Szánjon időt a belső terekre és a történelemre.",
+            "ro": "Punctul culminant al zilei. Acordați-vă timp pentru interioare și istorie.",
+            "en": "The highlight of the day. Take your time for the interiors and the history."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlosspark und Mittagessen",
+            "hu": "Kastélypark és ebéd",
+            "ro": "Parcul Castelului și prânz",
+            "en": "Palace Park and Lunch"
+          },
+          "coords": [
+            19.3482,
+            47.5933
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:53",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Radeln Sie in den Park für eine wohlverdiente Pause und eine Mahlzeit.",
+            "hu": "Tekerjen be a parkba egy jól megérdemelt pihenőre és ebédre.",
+            "ro": "Pedalați în parc pentru o pauză și o masă binemeritată.",
+            "en": "Cycle into the park for a well-deserved break and a meal."
+          }
+        },
+        {
+          "name": {
+            "de": "Ungarische Universität für Agrar- und Lebenswissenschaften",
+            "hu": "Magyar Agrár- és Élettudományi Egyetem",
+            "ro": "Universitatea Maghiară de Agricultură și Științe ale Vieții",
+            "en": "Hungarian University of Agriculture and Life Sciences"
+          },
+          "coords": [
+            19.3633,
+            47.5911
+          ],
+          "category": "historical",
+          "arrive_at": "15:30",
+          "stay_min": 70,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein schöner letzter Ausflug, um den Campus zu sehen, bevor der Tag zu Ende geht.",
+            "hu": "Egy szép utolsó kitérő a campus megtekintésére a nap végén.",
+            "ro": "O ultimă excursie plăcută pentru a vedea campusul înainte de încheierea zilei.",
+            "en": "A nice final trip to see the campus before the day ends."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Fahrrad und beginnen Sie den Tag am königlichen Bahnhof. Eine kurze Fahrt führt Sie zu den ruhigeren Ecken der Stadt, bevor Sie ins Zentrum radeln. Der Vormittag ist eine Erkundungstour zu den wichtigsten kulturellen Stätten Gödöllős, die alle leicht mit dem Fahrrad erreichbar sind. Das Schloss Grassalkovich ist der unbestrittene Höhepunkt. Nachdem Sie die königliche Pracht aufgesogen haben, können Sie im Schlosspark eine entspannte Mittagspause einlegen. Am Nachmittag führt Sie eine letzte Fahrt zum beeindruckenden Universitätscampus, einem Juwel der Architektur, bevor Sie Ihren erlebnisreichen Tag beenden.",
+        "hu": "Pattanjon biciklire, és indítsa a napot a királyi váróteremnél. Egy rövid tekerés elvezeti a város csendesebb zugaiba, mielőtt a központ felé venné az irányt. A délelőtt Gödöllő legfontosabb kulturális helyszíneinek felfedezéséről szól, melyek mind könnyen elérhetők kerékpárral. A Grassalkovich-kastély a nap vitathatatlan fénypontja. Miután magába szívta a királyi pompát, tartson egy pihentető ebédszünetet a kastélyparkban. Délután egy utolsó tekerés vezet a lenyűgöző egyetemi campushoz, egy építészeti gyöngyszemhez, mielőtt lezárná ezt az eseménydús napot.",
+        "ro": "Urcați-vă pe bicicletă și începeți ziua la sala de așteptare regală. O scurtă plimbare vă duce în colțurile mai liniștite ale orașului înainte de a pedala spre centru. Dimineața este o explorare a principalelor situri culturale din Gödöllő, toate ușor accesibile cu bicicleta. Castelul Grassalkovich este punctul culminant incontestabil. După ce ați absorbit splendoarea regală, o pauză de prânz relaxantă vă așteaptă în parcul castelului. După-amiaza, o ultimă plimbare vă duce la impresionantul campus universitar, o bijuterie arhitecturală, înainte de a încheia ziua plină de evenimente.",
+        "en": "Hop on your bike and start the day at the royal waiting hall. A short ride takes you to the quieter corners of town before you cycle to the center. The morning is an exploration of Gödöllő's key cultural sites, all easily reachable by bike. The Grassalkovich Palace is the undisputed highlight. After soaking in the royal splendor, a relaxing lunch break awaits in the palace park. In the afternoon, one last ride takes you to the impressive university campus, an architectural gem, before you conclude your eventful day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Erzsébet Királyné Étterem",
+            "tip": "Elegantes Speisen in königlichem Ambiente, probieren Sie das Zanderfilet."
+          },
+          {
+            "name": "Solier Cafe",
+            "tip": "Perfekt für Kaffee und Kuchen. Der Gödöllőer Quarkfladen ist ein Muss."
+          },
+          {
+            "name": "Napsugár Pizzéria",
+            "tip": "Eine zwanglose, aber köstliche Option für ein schnelles Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Erzsébet Királyné Étterem",
+            "tip": "Elegáns étkezés királyi környezetben, kóstolja meg a fogasfilét."
+          },
+          {
+            "name": "Solier Cafe",
+            "tip": "Tökéletes egy kávéra és süteményre. A Gödöllői túrós lepényt kötelező megkóstolni."
+          },
+          {
+            "name": "Napsugár Pizzéria",
+            "tip": "Kötetlen, de finom választás egy gyors ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul Erzsébet Királyné",
+            "tip": "Masă elegantă într-un cadru regal, încercați fileul de șalău."
+          },
+          {
+            "name": "Solier Cafe",
+            "tip": "Perfect pentru o cafea și o prăjitură. Plăcinta cu brânză de Gödöllő este obligatorie."
+          },
+          {
+            "name": "Pizzeria Napsugár",
+            "tip": "O opțiune informală, dar delicioasă pentru un prânz rapid."
+          }
+        ],
+        "en": [
+          {
+            "name": "Erzsébet Királyné Restaurant",
+            "tip": "Elegant dining in a royal setting, try the pike-perch fillet."
+          },
+          {
+            "name": "Solier Cafe",
+            "tip": "Perfect for coffee and cake. The Gödöllő curd cheese flatbread is a must-try."
+          },
+          {
+            "name": "Napsugár Pizzeria",
+            "tip": "A casual but delicious option for a quick lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlosspark",
+            "tip": "Finden Sie eine abgelegene Bank und genießen Sie die Ruhe hinter dem Schloss.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kalvarienberg",
+            "tip": "Der perfekte Ort für stille Besinnung am Ende des Tages.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Arboretum Gödöllő",
+            "tip": "Etwas außerhalb, aber ein friedlicher Zufluchtsort für Naturliebhaber.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kastélypark",
+            "tip": "Keressen egy félreeső padot, és élvezze a csendet a kastély mögött.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kálvária",
+            "tip": "Tökéletes hely a csendes elmélkedéshez a nap végén.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Gödöllői Arborétum",
+            "tip": "Kicsit távolabb esik, de békés menedék a természetkedvelőknek.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului",
+            "tip": "Găsiți o bancă retrasă și bucurați-vă de liniștea din spatele castelului.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Calvaria",
+            "tip": "Locul perfect pentru reflecție liniștită la sfârșitul zilei.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Arboretul din Gödöllő",
+            "tip": "Puțin mai departe, dar un refugiu pașnic pentru iubitorii de natură.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Palace Park",
+            "tip": "Find a secluded bench and enjoy the quiet behind the palace.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Calvary Hill",
+            "tip": "The perfect spot for quiet reflection at the end of the day.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Arboretum of Gödöllő",
+            "tip": "A bit further out, but a peaceful escape for nature lovers.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsshop des Schlosses",
+            "tip": "Hochwertige Souvenirs mit Bezug zu Sissi und der königlichen Familie."
+          },
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Produkten und handgefertigten Waren auf dem Hauptplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kastély Múzeumshop",
+            "tip": "Minőségi ajándéktárgyak Sissivel és a királyi családdal kapcsolatban."
+          },
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen helyi termékeket és kézműves árukat a főtéren."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de suveniruri al Castelului",
+            "tip": "Suveniruri de înaltă calitate legate de Sissi și familia regală."
+          },
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse locale și articole de artizanat în piața principală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Palace Museum Shop",
+            "tip": "High-quality souvenirs related to Sissi and the royal family."
+          },
+          {
+            "name": "Local Market",
+            "tip": "Look for local produce and handmade goods in the main square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Schließen Sie Ihr Fahrrad immer gut ab, besonders in der Nähe von Touristenattraktionen.",
+          "Nutzen Sie die Radwege, wo immer es möglich ist.",
+          "Eine kleine Wasserflasche und Snacks sind für einen Tag auf dem Rad empfehlenswert.",
+          "Achten Sie im Stadtzentrum auf Fußgänger."
+        ],
+        "hu": [
+          "Mindig zárja le a kerékpárját, különösen a turisztikai látványosságok közelében.",
+          "Használja a kerékpárutakat, ahol csak lehetséges.",
+          "Egy kis vizespalack és némi harapnivaló ajánlott a kerékpáros naphoz.",
+          "Vigyázzon a gyalogosokra a városközpontban."
+        ],
+        "ro": [
+          "Încuiați-vă întotdeauna bicicleta, mai ales în apropierea atracțiilor turistice.",
+          "Folosiți pistele de biciclete ori de câte ori este posibil.",
+          "O sticlă mică de apă și gustări sunt recomandate pentru o zi pe bicicletă.",
+          "Fiți atenți la pietoni în centrul orașului."
+        ],
+        "en": [
+          "Always lock your bike securely, especially near tourist attractions.",
+          "Use bike lanes wherever available.",
+          "A small water bottle and snacks are advisable for a day of cycling.",
+          "Be mindful of pedestrians in the city center."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:20",
+      "total_km": 2.7,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft & Schloss Grassalkovich",
+            "hu": "Érkezés és Grassalkovich-kastély",
+            "ro": "Sosire & Castelul Grassalkovich",
+            "en": "Arrival & Grassalkovich Palace"
+          },
+          "coords": [
+            19.3455,
+            47.5955
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto in der Nähe und beginnen Sie direkt mit der Hauptattraktion.",
+            "hu": "Parkoljon le a közelben, és kezdje rögtön a fő látványossággal.",
+            "ro": "Parcați mașina în apropiere și începeți direct cu atracția principală.",
+            "en": "Park your car nearby and start directly with the main attraction."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlosspark",
+            "hu": "Kastélypark",
+            "ro": "Parcul Castelului",
+            "en": "Palace Park"
+          },
+          "coords": [
+            19.3482,
+            47.5933
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:04",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Schloss in den riesigen englischen Garten.",
+            "hu": "Rövid séta a kastélytól a hatalmas angolkertbe.",
+            "ro": "O scurtă plimbare de la castel la imensa grădină englezească.",
+            "en": "A short walk from the palace into the vast English garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Elisabeth-Park",
+            "hu": "Erzsébet-park",
+            "ro": "Parcul Elisabeta",
+            "en": "Elisabeth Park"
+          },
+          "coords": [
+            19.3511,
+            47.5975
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein weiterer ruhiger Ort, um die königliche Atmosphäre zu genießen.",
+            "hu": "Egy újabb csendes hely a királyi hangulat élvezetéhez.",
+            "ro": "Un alt loc liniștit pentru a vă bucura de atmosfera regală.",
+            "en": "Another quiet spot to enjoy the royal atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Weltfriedensgong",
+            "hu": "Világbéke Gong",
+            "ro": "Gongul Păcii Mondiale",
+            "en": "World Peace Gong"
+          },
+          "coords": [
+            19.3518,
+            47.5982
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:42",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Halt bei diesem einzigartigen Geschenk an die Stadt.",
+            "hu": "Egy rövid megálló a városnak adott különleges ajándéknál.",
+            "ro": "O scurtă oprire la acest cadou unic pentru oraș.",
+            "en": "A quick stop at this unique gift to the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the Center"
+          },
+          "coords": [
+            19.349,
+            47.598
+          ],
+          "category": "gastro",
+          "arrive_at": "13:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Wählen Sie eines der Restaurants in der Nähe des Hauptplatzes.",
+            "hu": "Válasszon egyet a főtér közeli éttermek közül.",
+            "ro": "Alegeți unul dintre restaurantele din apropierea pieței principale.",
+            "en": "Choose one of the restaurants near the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Gödöllő",
+            "hu": "Gödöllői Városi Múzeum",
+            "ro": "Muzeul Orașului Gödöllő",
+            "en": "Gödöllő Town Museum"
+          },
+          "coords": [
+            19.3495,
+            47.5991
+          ],
+          "category": "museums",
+          "arrive_at": "14:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach dem Mittagessen ist es Zeit, in die Geschichte der Stadt einzutauchen.",
+            "hu": "Ebéd után ideje elmerülni a város történelmében.",
+            "ro": "După prânz, este timpul să vă cufundați în istoria orașului.",
+            "en": "After lunch, it's time to delve into the town's history."
+          }
+        },
+        {
+          "name": {
+            "de": "Königlicher Wartesaal",
+            "hu": "Királyi Váróterem",
+            "ro": "Sala Regală de Așteptare",
+            "en": "Royal Waiting Hall"
+          },
+          "coords": [
+            19.3561,
+            47.6012
+          ],
+          "category": "historical",
+          "arrive_at": "15:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang zu einem weiteren Stück königlicher Geschichte.",
+            "hu": "Rövid séta egy újabb darab királyi történelemhez.",
+            "ro": "O scurtă plimbare către o altă bucată de istorie regală.",
+            "en": "A short walk to another piece of royal history."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalvarienberg",
+            "hu": "Kálvária",
+            "ro": "Calvaria",
+            "en": "Calvary Hill"
+          },
+          "coords": [
+            19.3415,
+            47.6015
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:24",
+          "stay_min": 56,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Rundgang, bevor Sie zu Ihrem Auto zurückkehren.",
+            "hu": "Fejezze be a sétát, mielőtt visszatérne az autójához.",
+            "ro": "Încheiați-vă turul pietonal înainte de a vă întoarce la mașină.",
+            "en": "Finish your walking tour before heading back to your car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie nach Gödöllő, parken Sie Ihr Auto für den Tag und tauchen Sie in die königliche Atmosphäre ein. Der Vormittag ist ganz dem Grassalkovich-Schloss und seinen weitläufigen Gärten gewidmet. Erkunden Sie die opulenten Räume und spazieren Sie durch die grünen Parks, die das Schloss umgeben. Nach einem gemütlichen Mittagessen im Stadtzentrum erkunden Sie zu Fuß die kleineren, aber ebenso faszinierenden Sehenswürdigkeiten. Entdecken Sie das Stadtmuseum, den historischen Bahnhof und den ruhigen Kalvarienberg. Diese autofreie Erkundung ermöglicht es Ihnen, den Charme von Gödöllő hautnah zu erleben.",
+        "hu": "Utazzon Gödöllőre, parkolja le az autót egész napra, és merüljön el a királyi hangulatban. A délelőtt a Grassalkovich-kastély és a hozzá tartozó hatalmas kertek felfedezéséről szól. Járja be a pazar termeket, majd sétáljon a kastélyt körülvevő zöld parkokban. Egy kellemes belvárosi ebéd után fedezze fel gyalog a kisebb, de nem kevésbé lenyűgöző látnivalókat. Ismerje meg a városi múzeumot, a történelmi vasútállomást és a csendes Kálváriát. Ez az autómentes felfedezés lehetővé teszi, hogy testközelből élje át Gödöllő varázsát.",
+        "ro": "Conduceți la Gödöllő, parcați mașina pentru întreaga zi și cufundați-vă în atmosfera regală. Dimineața este dedicată Castelului Grassalkovich și grădinilor sale întinse. Explorați camerele opulente și plimbați-vă prin parcurile verzi care înconjoară castelul. După un prânz relaxant în centrul orașului, explorați pe jos atracțiile mai mici, dar la fel de fascinante. Descoperiți muzeul orașului, gara istorică și liniștitul deal Calvaria. Această explorare fără mașină vă permite să experimentați farmecul orașului Gödöllő de aproape.",
+        "en": "Drive to Gödöllő, park your car for the day, and immerse yourself in the royal atmosphere. The morning is dedicated to the Grassalkovich Palace and its sprawling gardens. Explore the opulent rooms and stroll through the green parks surrounding the palace. After a leisurely lunch in the city center, explore the smaller yet equally fascinating sights on foot. Discover the town museum, the historic train station, and the serene Calvary Hill. This car-free exploration allows you to experience Gödöllő's charm up close."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Erzsébet Királyné Étterem",
+            "tip": "Elegantes Speisen in königlichem Ambiente, probieren Sie das Zanderfilet."
+          },
+          {
+            "name": "Solier Cafe",
+            "tip": "Perfekt für Kaffee und Kuchen. Der Gödöllőer Quarkfladen ist ein Muss."
+          },
+          {
+            "name": "Napsugár Pizzéria",
+            "tip": "Eine zwanglose, aber köstliche Option für ein schnelles Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Erzsébet Királyné Étterem",
+            "tip": "Elegáns étkezés királyi környezetben, kóstolja meg a fogasfilét."
+          },
+          {
+            "name": "Solier Cafe",
+            "tip": "Tökéletes egy kávéra és süteményre. A Gödöllői túrós lepényt kötelező megkóstolni."
+          },
+          {
+            "name": "Napsugár Pizzéria",
+            "tip": "Kötetlen, de finom választás egy gyors ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul Erzsébet Királyné",
+            "tip": "Masă elegantă într-un cadru regal, încercați fileul de șalău."
+          },
+          {
+            "name": "Solier Cafe",
+            "tip": "Perfect pentru o cafea și o prăjitură. Plăcinta cu brânză de Gödöllő este obligatorie."
+          },
+          {
+            "name": "Pizzeria Napsugár",
+            "tip": "O opțiune informală, dar delicioasă pentru un prânz rapid."
+          }
+        ],
+        "en": [
+          {
+            "name": "Erzsébet Királyné Restaurant",
+            "tip": "Elegant dining in a royal setting, try the pike-perch fillet."
+          },
+          {
+            "name": "Solier Cafe",
+            "tip": "Perfect for coffee and cake. The Gödöllő curd cheese flatbread is a must-try."
+          },
+          {
+            "name": "Napsugár Pizzeria",
+            "tip": "A casual but delicious option for a quick lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlosspark",
+            "tip": "Finden Sie eine abgelegene Bank und genießen Sie die Ruhe hinter dem Schloss.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kalvarienberg",
+            "tip": "Der perfekte Ort für stille Besinnung am Ende des Tages.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Arboretum Gödöllő",
+            "tip": "Etwas außerhalb, aber ein friedlicher Zufluchtsort für Naturliebhaber.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kastélypark",
+            "tip": "Keressen egy félreeső padot, és élvezze a csendet a kastély mögött.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kálvária",
+            "tip": "Tökéletes hely a csendes elmélkedéshez a nap végén.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Gödöllői Arborétum",
+            "tip": "Kicsit távolabb esik, de békés menedék a természetkedvelőknek.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului",
+            "tip": "Găsiți o bancă retrasă și bucurați-vă de liniștea din spatele castelului.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Calvaria",
+            "tip": "Locul perfect pentru reflecție liniștită la sfârșitul zilei.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Arboretul din Gödöllő",
+            "tip": "Puțin mai departe, dar un refugiu pașnic pentru iubitorii de natură.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Palace Park",
+            "tip": "Find a secluded bench and enjoy the quiet behind the palace.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Calvary Hill",
+            "tip": "The perfect spot for quiet reflection at the end of the day.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Arboretum of Gödöllő",
+            "tip": "A bit further out, but a peaceful escape for nature lovers.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsshop des Schlosses",
+            "tip": "Hochwertige Souvenirs mit Bezug zu Sissi und der königlichen Familie."
+          },
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Produkten und handgefertigten Waren auf dem Hauptplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kastély Múzeumshop",
+            "tip": "Minőségi ajándéktárgyak Sissivel és a királyi családdal kapcsolatban."
+          },
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen helyi termékeket és kézműves árukat a főtéren."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de suveniruri al Castelului",
+            "tip": "Suveniruri de înaltă calitate legate de Sissi și familia regală."
+          },
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse locale și articole de artizanat în piața principală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Palace Museum Shop",
+            "tip": "High-quality souvenirs related to Sissi and the royal family."
+          },
+          {
+            "name": "Local Market",
+            "tip": "Look for local produce and handmade goods in the main square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Suchen Sie einen zentralen Parkplatz, um das Auto für den Rest des Tages stehen zu lassen.",
+          "An Wochenenden kann das Parken eine Herausforderung sein; kommen Sie früh.",
+          "Das Fahren im Stadtzentrum ist nicht notwendig, da alles zu Fuß erreichbar ist.",
+          "Beachten Sie die Parkgebühren und -zeiten."
+        ],
+        "hu": [
+          "Keressen egy központi parkolót, és hagyja ott az autót a nap hátralévő részére.",
+          "Hétvégén a parkolás kihívást jelenthet, érkezzen korán.",
+          "A belvárosban nem szükséges autózni, minden elérhető gyalog.",
+          "Vegye figyelembe a parkolási díjakat és időkorlátokat."
+        ],
+        "ro": [
+          "Găsiți o parcare centrală pentru a lăsa mașina pentru restul zilei.",
+          "Parcarea poate fi o provocare în weekend; ajungeți devreme.",
+          "Nu este necesar să conduceți în centrul orașului, deoarece totul este accesibil pe jos.",
+          "Fiți atenți la taxele și orele de parcare."
+        ],
+        "en": [
+          "Find a central parking spot to leave the car for the rest of the day.",
+          "Parking can be challenging on weekends; arrive early.",
+          "Driving in the city center is not necessary as everything is within walking distance.",
+          "Pay attention to parking fees and time limits."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 4.1,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft & Königlicher Wartesaal",
+            "hu": "Érkezés és Királyi Váróterem",
+            "ro": "Sosire & Sala Regală de Așteptare",
+            "en": "Arrival & Royal Waiting Hall"
+          },
+          "coords": [
+            19.3561,
+            47.6012
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die HÉV-Vorortbahn aus Budapest hält hier. Der perfekte Startpunkt.",
+            "hu": "A budapesti HÉV itt áll meg. Tökéletes kiindulópont.",
+            "ro": "Trenul suburban HÉV din Budapesta oprește aici. Punctul de plecare perfect.",
+            "en": "The HÉV suburban railway from Budapest stops here. The perfect starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Gödöllő",
+            "hu": "Gödöllői Városi Múzeum",
+            "ro": "Muzeul Orașului Gödöllő",
+            "en": "Gödöllő Town Museum"
+          },
+          "coords": [
+            19.3495,
+            47.5991
+          ],
+          "category": "museums",
+          "arrive_at": "09:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Bahnhof ins Herz der Stadt.",
+            "hu": "Rövid séta az állomástól a város szívébe.",
+            "ro": "O scurtă plimbare de la gară în inima orașului.",
+            "en": "A short walk from the station into the heart of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Weltfriedensgong",
+            "hu": "Világbéke Gong",
+            "ro": "Gongul Păcii Mondiale",
+            "en": "World Peace Gong"
+          },
+          "coords": [
+            19.3518,
+            47.5982
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:39",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Auf dem Weg zum Schloss kommen Sie an diesem Symbol des Friedens vorbei.",
+            "hu": "Útban a kastély felé halad el e béke szimbóluma mellett.",
+            "ro": "În drum spre castel, veți trece pe lângă acest simbol al păcii.",
+            "en": "On your way to the palace, you'll pass this symbol of peace."
+          }
+        },
+        {
+          "name": {
+            "de": "Elisabeth-Park",
+            "hu": "Erzsébet-park",
+            "ro": "Parcul Elisabeta",
+            "en": "Elisabeth Park"
+          },
+          "coords": [
+            19.3511,
+            47.5975
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:56",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Ort, um durchzuatmen, bevor Sie das Schloss betreten.",
+            "hu": "Szép hely egy kis pihenőre, mielőtt a kastélyba lépne.",
+            "ro": "Un loc frumos pentru a respira adânc înainte de a intra în castel.",
+            "en": "A nice place to take a breath before entering the palace."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Grassalkovich",
+            "hu": "Grassalkovich-kastély",
+            "ro": "Castelul Grassalkovich",
+            "en": "Grassalkovich Palace"
+          },
+          "coords": [
+            19.3455,
+            47.5955
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:32",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Hauptgrund für Ihren Besuch. Planen Sie ausreichend Zeit ein.",
+            "hu": "Látogatásának fő oka. Szánjon rá elegendő időt.",
+            "ro": "Motivul principal al vizitei dumneavoastră. Planificați suficient timp.",
+            "en": "The main reason for your visit. Plan for ample time."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlosspark und Mittagessen",
+            "hu": "Kastélypark és ebéd",
+            "ro": "Parcul Castelului și prânz",
+            "en": "Palace Park and Lunch"
+          },
+          "coords": [
+            19.3482,
+            47.5933
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:34",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt hinter dem Schloss. Ein idealer Ort für eine Pause.",
+            "hu": "Közvetlenül a kastély mögött. Ideális hely egy szünetre.",
+            "ro": "Chiar în spatele castelului. Un loc ideal pentru o pauză.",
+            "en": "Located right behind the palace. An ideal spot for a break."
+          }
+        },
+        {
+          "name": {
+            "de": "Ungarische Universität für Agrar- und Lebenswissenschaften",
+            "hu": "Magyar Agrár- és Élettudományi Egyetem",
+            "ro": "Universitatea Maghiară de Agricultură și Științe ale Vieții",
+            "en": "Hungarian University of Agriculture and Life Sciences"
+          },
+          "coords": [
+            19.3633,
+            47.5911
+          ],
+          "category": "historical",
+          "arrive_at": "15:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein etwas längerer Spaziergang, der sich aber für die Architektur lohnt.",
+            "hu": "Kicsit hosszabb séta, de megéri az építészet miatt.",
+            "ro": "O plimbare puțin mai lungă, dar merită pentru arhitectură.",
+            "en": "A slightly longer walk, but well worth it for the architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalvarienberg",
+            "hu": "Kálvária",
+            "ro": "Calvaria",
+            "en": "Calvary Hill"
+          },
+          "coords": [
+            19.3415,
+            47.6015
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:44",
+          "stay_min": 65,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein letzter Halt, bevor Sie zum Bahnhof für Ihre Rückreise zurückkehren.",
+            "hu": "Egy utolsó megálló, mielőtt visszatérne az állomásra a hazaúthoz.",
+            "ro": "O ultimă oprire înainte de a vă întoarce la gară pentru călătoria de retur.",
+            "en": "A final stop before you head back towards the station for your return journey."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nehmen Sie den Zug nach Gödöllő und beginnen Sie Ihr Abenteuer direkt am historischen Bahnhof. Von dort aus ist die ganze Stadt Ihr Fußweg. Ein Spaziergang durch das Zentrum führt Sie zu Museen und Denkmälern auf dem Weg zum prächtigen Schloss. Der Vormittag gipfelt im Besuch der ehemaligen Residenz von Sissi. Nach einer Mittagspause in den Gärten des Schlosses können Sie am Nachmittag die weiter entfernten Sehenswürdigkeiten wie den Universitätscampus erkunden. Da Sie sich keine Sorgen um das Parken machen müssen, können Sie den Tag in aller Ruhe genießen und beenden, bevor Sie den Zug nach Hause nehmen.",
+        "hu": "Vonatozzon Gödöllőre, és kezdje a kalandot közvetlenül a történelmi vasútállomáson. Onnan az egész város a sétaútvonala. A központon átvezető séta múzeumokhoz és emlékművekhez vezet a csodálatos kastély felé. A délelőtt Sissi egykori rezidenciájának meglátogatásával csúcsosodik ki. A kastély kertjében tartott ebédszünet után délután felfedezheti a távolabbi látnivalókat, például az egyetemi campust. Mivel nem kell a parkolás miatt aggódnia, nyugodtan élvezheti és zárhatja a napot, mielőtt hazavonatozna.",
+        "ro": "Luați trenul spre Gödöllő și începeți aventura chiar de la gara istorică. De acolo, întregul oraș este traseul dumneavoastră pietonal. O plimbare prin centru vă duce la muzee și monumente în drum spre magnificul castel. Dimineața culminează cu vizita la fosta reședință a lui Sissi. După o pauză de prânz în grădinile castelului, după-amiaza puteți explora atracțiile mai îndepărtate, cum ar fi campusul universitar. Fără grija parcării, vă puteți bucura și încheia ziua într-un ritm relaxat înainte de a lua trenul spre casă.",
+        "en": "Take the train to Gödöllő and start your adventure right at the historic station. From there, the entire town is your walking path. A stroll through the center takes you to museums and monuments on your way to the magnificent palace. The morning culminates in the visit to Sissi's former residence. After a lunch break in the palace gardens, the afternoon allows for exploring farther sights like the university campus. With no parking to worry about, you can enjoy and conclude the day at a relaxed pace before catching the train back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Erzsébet Királyné Étterem",
+            "tip": "Elegantes Speisen in königlichem Ambiente, probieren Sie das Zanderfilet."
+          },
+          {
+            "name": "Solier Cafe",
+            "tip": "Perfekt für Kaffee und Kuchen. Der Gödöllőer Quarkfladen ist ein Muss."
+          },
+          {
+            "name": "Napsugár Pizzéria",
+            "tip": "Eine zwanglose, aber köstliche Option für ein schnelles Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Erzsébet Királyné Étterem",
+            "tip": "Elegáns étkezés királyi környezetben, kóstolja meg a fogasfilét."
+          },
+          {
+            "name": "Solier Cafe",
+            "tip": "Tökéletes egy kávéra és süteményre. A Gödöllői túrós lepényt kötelező megkóstolni."
+          },
+          {
+            "name": "Napsugár Pizzéria",
+            "tip": "Kötetlen, de finom választás egy gyors ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul Erzsébet Királyné",
+            "tip": "Masă elegantă într-un cadru regal, încercați fileul de șalău."
+          },
+          {
+            "name": "Solier Cafe",
+            "tip": "Perfect pentru o cafea și o prăjitură. Plăcinta cu brânză de Gödöllő este obligatorie."
+          },
+          {
+            "name": "Pizzeria Napsugár",
+            "tip": "O opțiune informală, dar delicioasă pentru un prânz rapid."
+          }
+        ],
+        "en": [
+          {
+            "name": "Erzsébet Királyné Restaurant",
+            "tip": "Elegant dining in a royal setting, try the pike-perch fillet."
+          },
+          {
+            "name": "Solier Cafe",
+            "tip": "Perfect for coffee and cake. The Gödöllő curd cheese flatbread is a must-try."
+          },
+          {
+            "name": "Napsugár Pizzeria",
+            "tip": "A casual but delicious option for a quick lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlosspark",
+            "tip": "Finden Sie eine abgelegene Bank und genießen Sie die Ruhe hinter dem Schloss.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kalvarienberg",
+            "tip": "Der perfekte Ort für stille Besinnung am Ende des Tages.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Arboretum Gödöllő",
+            "tip": "Etwas außerhalb, aber ein friedlicher Zufluchtsort für Naturliebhaber.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kastélypark",
+            "tip": "Keressen egy félreeső padot, és élvezze a csendet a kastély mögött.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kálvária",
+            "tip": "Tökéletes hely a csendes elmélkedéshez a nap végén.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Gödöllői Arborétum",
+            "tip": "Kicsit távolabb esik, de békés menedék a természetkedvelőknek.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului",
+            "tip": "Găsiți o bancă retrasă și bucurați-vă de liniștea din spatele castelului.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Calvaria",
+            "tip": "Locul perfect pentru reflecție liniștită la sfârșitul zilei.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Arboretul din Gödöllő",
+            "tip": "Puțin mai departe, dar un refugiu pașnic pentru iubitorii de natură.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Palace Park",
+            "tip": "Find a secluded bench and enjoy the quiet behind the palace.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Calvary Hill",
+            "tip": "The perfect spot for quiet reflection at the end of the day.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Arboretum of Gödöllő",
+            "tip": "A bit further out, but a peaceful escape for nature lovers.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsshop des Schlosses",
+            "tip": "Hochwertige Souvenirs mit Bezug zu Sissi und der königlichen Familie."
+          },
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Produkten und handgefertigten Waren auf dem Hauptplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kastély Múzeumshop",
+            "tip": "Minőségi ajándéktárgyak Sissivel és a királyi családdal kapcsolatban."
+          },
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen helyi termékeket és kézműves árukat a főtéren."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de suveniruri al Castelului",
+            "tip": "Suveniruri de înaltă calitate legate de Sissi și familia regală."
+          },
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse locale și articole de artizanat în piața principală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Palace Museum Shop",
+            "tip": "High-quality souvenirs related to Sissi and the royal family."
+          },
+          {
+            "name": "Local Market",
+            "tip": "Look for local produce and handmade goods in the main square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die HÉV-Linie H8 fährt regelmäßig vom Örs vezér tere in Budapest.",
+          "Kaufen Sie eine Tageskarte, wenn Sie planen, auch andere Orte entlang der Strecke zu besuchen.",
+          "Überprüfen Sie den letzten Zug zurück nach Budapest, um nicht stecken zu bleiben.",
+          "Vom Bahnhof aus ist das Stadtzentrum nur wenige Gehminuten entfernt."
+        ],
+        "hu": [
+          "A H8-as HÉV rendszeresen közlekedik Budapestről, az Örs vezér teréről.",
+          "Vásároljon napijegyet, ha a vonal mentén más helyeket is meg szeretne látogatni.",
+          "Ellenőrizze az utolsó Budapestre visszainduló vonat időpontját, hogy ne maradjon ott.",
+          "A vasútállomástól a városközpont csak néhány perc séta."
+        ],
+        "ro": [
+          "Linia HÉV H8 circulă regulat de la Piața Örs vezér din Budapesta.",
+          "Cumpărați un bilet de o zi dacă intenționați să vizitați și alte locuri de-a lungul rutei.",
+          "Verificați ora ultimului tren înapoi spre Budapesta pentru a nu rămâne blocat.",
+          "Centrul orașului este la doar câteva minute de mers pe jos de la gară."
+        ],
+        "en": [
+          "The H8 HÉV line runs regularly from Örs vezér tere in Budapest.",
+          "Buy a day ticket if you plan to visit other places along the line.",
+          "Check the last train back to Budapest to avoid getting stranded.",
+          "The city center is just a few minutes' walk from the train station."
+        ]
+      }
+    }
+  }
+}

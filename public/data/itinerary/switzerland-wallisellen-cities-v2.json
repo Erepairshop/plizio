@@ -1,0 +1,1055 @@
+{
+  "city_id": "switzerland-wallisellen-cities-v2",
+  "anchor": {
+    "name": "Wallisellen",
+    "coords": [
+      47.414,
+      8.592
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rundgang im Richti-Areal",
+            "hu": "Séta a Richti-negyedben",
+            "ro": "Plimbare în cartierul Richti",
+            "en": "Walk in the Richti-Areal"
+          },
+          "coords": [
+            8.5935,
+            47.4128
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur und die Wasserspiele, ein beliebter Treffpunkt.",
+            "hu": "Csodálja meg a modern építészetet és a vízjátékokat, a helyiek kedvenc találkozóhelyét.",
+            "ro": "Admirați arhitectura modernă și jocurile de apă, un punct de întâlnire popular.",
+            "en": "Admire the modern architecture and the water features, a popular meeting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Ortsmuseum Wallisellen",
+            "hu": "Walliselleni Helytörténeti Múzeum",
+            "ro": "Muzeul Local din Wallisellen",
+            "en": "Wallisellen Local Museum"
+          },
+          "coords": [
+            8.5958,
+            47.4151
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Fragen Sie nach den Sonderausstellungen zur Industriegeschichte von Wallisellen.",
+            "hu": "Érdeklődjön Wallisellen ipartörténetével kapcsolatos időszaki kiállításokról.",
+            "ro": "Întrebați despre expozițiile speciale dedicate istoriei industriale a orașului Wallisellen.",
+            "en": "Ask about the special exhibitions on Wallisellen's industrial history."
+          }
+        },
+        {
+          "name": {
+            "de": "Reformierte Kirche Wallisellen",
+            "hu": "Walliselleni Református Templom",
+            "ro": "Biserica Reformată din Wallisellen",
+            "en": "Reformed Church Wallisellen"
+          },
+          "coords": [
+            8.5972,
+            47.4145
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die schlichte, aber eindrucksvolle moderne Glasmalerei im Inneren.",
+            "hu": "Figyelje meg az egyszerű, mégis lenyűgöző modern ólomüveg ablakokat a templom belsejében.",
+            "ro": "Observați vitraliile moderne, simple dar impresionante, din interior.",
+            "en": "Notice the simple yet impressive modern stained glass windows inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagspause",
+            "hu": "Ebédszünet",
+            "ro": "Pauză de prânz",
+            "en": "Lunch Break"
+          },
+          "coords": [
+            8.596,
+            47.412
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie ein Zürcher Geschnetzeltes in einem der Restaurants nahe dem Zentrum.",
+            "hu": "Kóstolja meg a 'Zürcher Geschnetzeltes'-t egy centrumbeli étteremben.",
+            "ro": "Încercați un 'Zürcher Geschnetzeltes' la unul dintre restaurantele din apropierea centrului.",
+            "en": "Try a 'Zürcher Geschnetzeltes' in one of the restaurants near the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturschutzgebiet Moos",
+            "hu": "Moos Természetvédelmi Terület",
+            "ro": "Rezervația Naturală Moos",
+            "en": "Moos Nature Reserve"
+          },
+          "coords": [
+            8.6105,
+            47.4185
+          ],
+          "category": "natural features",
+          "arrive_at": "14:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bringen Sie ein Fernglas mit, um die vielfältige Vogelwelt in den Riedgebieten zu beobachten.",
+            "hu": "Hozzon távcsövet, hogy megfigyelhesse a nádasok gazdag madárvilágát.",
+            "ro": "Aduceți un binoclu pentru a observa diversitatea de păsări din zona mlăștinoasă.",
+            "en": "Bring binoculars to observe the diverse birdlife in the reed beds."
+          }
+        },
+        {
+          "name": {
+            "de": "Katholische Kirche St. Antonius",
+            "hu": "Szent Antal Katolikus Templom",
+            "ro": "Biserica Catolică Sfântul Anton",
+            "en": "St. Antonius Catholic Church"
+          },
+          "coords": [
+            8.5911,
+            47.4168
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Der moderne Bau bietet einen Moment der Stille abseits des städtischen Trubels.",
+            "hu": "A modern épület egy pillanatnyi csendet kínál a városi nyüzsgéstől távol.",
+            "ro": "Clădirea modernă oferă un moment de liniște departe de agitația urbană.",
+            "en": "The modern building offers a moment of silence away from the urban hustle."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Wallisellen beginnt im modernen Herzen der Stadt, dem Richti-Areal, wo Architektur und urbanes Leben verschmelzen. Nach einem Spaziergang tauchen Sie im Ortsmuseum in die lokale Geschichte ein, bevor Sie die spirituelle Ruhe der Reformierten Kirche erleben. Am Nachmittag führt Sie Ihr Weg in die grüne Oase des Naturschutzgebiets Moos, ein idealer Ort zur Vogelbeobachtung. Der Tag endet mit einem besinnlichen Moment in der modernen St. Antonius Kirche.",
+        "hu": "A nap Wallisellenben a város modern szívében, a Richti-negyedben indul, ahol az építészet és a városi élet összeolvad. Egy séta után a helytörténeti múzeumban merül el a helyi történelemben, mielőtt megtapasztalná a református templom spirituális nyugalmát. Délután az út a Moos természetvédelmi terület zöld oázisába vezet, amely ideális hely a madármegfigyelésre. A nap a modern Szent Antal-templomban töltött elmélkedő pillanattal zárul.",
+        "ro": "Ziua dvs. în Wallisellen începe în inima modernă a orașului, zona Richti, unde arhitectura și viața urbană se contopesc. După o plimbare, vă scufundați în istoria locală la muzeul orașului înainte de a experimenta liniștea spirituală a Bisericii Reformate. După-amiaza, drumul vă duce în oaza verde a rezervației naturale Moos, un loc ideal pentru observarea păsărilor. Ziua se încheie cu un moment de reculegere în moderna Biserică Sf. Anton.",
+        "en": "Your day in Wallisellen begins in the modern heart of the city, the Richti-Areal, where architecture and urban life merge. After a walk, you'll delve into local history at the town museum before experiencing the spiritual tranquility of the Reformed Church. In the afternoon, your path leads you to the green oasis of the Moos nature reserve, an ideal spot for bird watching. The day concludes with a contemplative moment in the modern St. Antonius Church."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zürcher Geschnetzeltes mit Rösti",
+            "tip": "Der Klassiker der Region, am besten in einem traditionellen Gasthaus."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zürcher Geschnetzeltes Rösztivel",
+            "tip": "A régió klasszikusa, leginkább egy hagyományos vendéglőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zürcher Geschnetzeltes cu Rösti",
+            "tip": "Clasicul regiunii, cel mai bun la un han tradițional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zürcher Geschnetzeltes with Rösti",
+            "tip": "The region's classic, best enjoyed in a traditional inn."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Naturschutzgebiets Moos",
+            "tip": "Finden Sie eine Bank am Wasser und lauschen Sie den Geräuschen der Natur.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Moos Természetvédelmi Terület partja",
+            "tip": "Keressen egy padot a víz mellett, és hallgassa a természet hangjait.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul rezervației naturale Moos",
+            "tip": "Găsiți o bancă lângă apă și ascultați sunetele naturii.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shores of the Moos Nature Reserve",
+            "tip": "Find a bench by the water and listen to the sounds of nature.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Suchen Sie nach lokalen Käsesorten und frischem Brot für ein authentisches Picknick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Keressen helyi sajtokat és friss kenyeret egy autentikus piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Căutați brânzeturi locale și pâine proaspătă pentru un picnic autentic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Look for local cheeses and fresh bread for an authentic picnic."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da der Tag viel Laufen erfordert.",
+          "Eine wiederverwendbare Wasserflasche ist nützlich.",
+          "Prüfen Sie die Öffnungszeiten des Museums im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a nap sok gyaloglással jár.",
+          "Egy újrafelhasználható vizes palack hasznos.",
+          "Előre ellenőrizze a múzeum nyitvatartási idejét."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece ziua implică mult mers pe jos.",
+          "O sticlă de apă reutilizabilă este utilă.",
+          "Verificați în avans programul de funcționare al muzeului."
+        ],
+        "en": [
+          "Wear comfortable shoes as the day involves a lot of walking.",
+          "A reusable water bottle is useful.",
+          "Check the museum's opening hours in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Start am Richti-Areal",
+            "hu": "Indulás a Richti-negyedből",
+            "ro": "Start din zona Richti",
+            "en": "Start at the Richti-Areal"
+          },
+          "coords": [
+            8.5935,
+            47.4128
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Perfekter Ort, um die Tour bei einem Kaffee zu beginnen.",
+            "hu": "Tökéletes hely a túra indításához egy kávé mellett.",
+            "ro": "Locul perfect pentru a începe turul cu o cafea.",
+            "en": "Perfect place to start the tour with a coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Glattzentrum",
+            "hu": "Glattzentrum",
+            "ro": "Centrul Glatt",
+            "en": "Glattzentrum"
+          },
+          "coords": [
+            8.599,
+            47.408
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Eines der ersten Einkaufszentren der Schweiz, heute ein Wahrzeichen.",
+            "hu": "Svájc egyik első bevásárlóközpontja, ma már jelkép.",
+            "ro": "Unul dintre primele centre comerciale din Elveția, acum un reper.",
+            "en": "One of Switzerland's first shopping centers, now a landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Schwimmbad Water World",
+            "hu": "Water World Uszoda",
+            "ro": "Piscina Water World",
+            "en": "Water World Swimming Pool"
+          },
+          "coords": [
+            8.605,
+            47.406
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Im Sommer ideal für eine erfrischende Pause. Auch der Park ist schön.",
+            "hu": "Nyáron ideális egy frissítő szünetre. A park is gyönyörű.",
+            "ro": "Ideal pentru o pauză răcoritoare vara. Parcul este de asemenea frumos.",
+            "en": "Ideal for a refreshing break in summer. The park is also beautiful."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            8.611,
+            47.417
+          ],
+          "category": "gastro",
+          "arrive_at": "12:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein Restaurant mit Garten ist an sonnigen Tagen sehr zu empfehlen.",
+            "hu": "Napsütéses napokon egy kerthelyiséges étterem erősen ajánlott.",
+            "ro": "Un restaurant cu grădină este foarte recomandat în zilele însorite.",
+            "en": "A restaurant with a garden is highly recommended on sunny days."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturschutzgebiet Moos",
+            "hu": "Moos Természetvédelmi Terület",
+            "ro": "Rezervația Naturală Moos",
+            "en": "Moos Nature Reserve"
+          },
+          "coords": [
+            8.6105,
+            47.4185
+          ],
+          "category": "natural features",
+          "arrive_at": "14:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Die Radwege durch das Gebiet sind gut ausgebaut und flach.",
+            "hu": "A területen áthaladó kerékpárutak jól kiépítettek és síkak.",
+            "ro": "Pistele de biciclete prin zonă sunt bine dezvoltate și plate.",
+            "en": "The cycle paths through the area are well-developed and flat."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Tambel",
+            "hu": "Tambel kilátópont",
+            "ro": "Punctul de belvedere Tambel",
+            "en": "Tambel Viewpoint"
+          },
+          "coords": [
+            8.583,
+            47.425
+          ],
+          "category": "natural features",
+          "arrive_at": "15:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Ein kurzer, aber steiler Anstieg, der mit einer tollen Aussicht belohnt wird.",
+            "hu": "Egy rövid, de meredek emelkedő, melyet nagyszerű kilátás jutalmaz.",
+            "ro": "O urcare scurtă, dar abruptă, care recompensează cu o priveliște minunată.",
+            "en": "A short but steep climb that is rewarded with a great view."
+          }
+        },
+        {
+          "name": {
+            "de": "Ortsmuseum Wallisellen",
+            "hu": "Walliselleni Helytörténeti Múzeum",
+            "ro": "Muzeul Local din Wallisellen",
+            "en": "Wallisellen Local Museum"
+          },
+          "coords": [
+            8.5958,
+            47.4151
+          ],
+          "category": "museums",
+          "arrive_at": "16:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schliessen Sie den Tag mit einem Einblick in die lokale Kultur ab.",
+            "hu": "Zárja a napot a helyi kultúrába való betekintéssel.",
+            "ro": "Încheiați ziua cu o incursiune în cultura locală.",
+            "en": "End the day with an insight into the local culture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und starten Sie am Richti-Areal. Die Route führt Sie zuerst zum Glattzentrum, einem Meilenstein der Schweizer Architektur, und weiter zum erfrischenden Water World. Nach dem Mittagessen erkunden Sie die ruhigen Wege des Naturschutzgebiets Moos. Ein kleiner Anstieg bringt Sie zum Aussichtspunkt Tambel für einen Panoramablick, bevor Sie im Ortsmuseum mehr über Wallisellens Vergangenheit erfahren.",
+        "hu": "Pattanjon kerékpárra és induljon a Richti-negyedből. Az útvonal először a Glattzentrumhoz, a svájci építészet egyik mérföldkövéhez, majd a frissítő Water Worldhöz vezet. Ebéd után fedezze fel a Moos természetvédelmi terület csendes ösvényeit. Egy kis emelkedővel jut el a Tambel kilátóponthoz a panorámáért, mielőtt a helytörténeti múzeumban többet megtudna Wallisellen múltjáról.",
+        "ro": "Urcați-vă pe bicicletă și porniți din zona Richti. Traseul vă duce mai întâi la Centrul Glatt, o piatră de hotar a arhitecturii elvețiene, și apoi la răcoritoarea Water World. După prânz, explorați potecile liniștite ale rezervației naturale Moos. O mică urcare vă duce la punctul de belvedere Tambel pentru o vedere panoramică, înainte de a afla mai multe despre trecutul Wallisellen la muzeul local.",
+        "en": "Get on your bike and start at the Richti-Areal. The route first takes you to the Glattzentrum, a milestone of Swiss architecture, and on to the refreshing Water World. After lunch, explore the quiet paths of the Moos nature reserve. A short climb takes you to the Tambel viewpoint for a panoramic view before you learn more about Wallisellen's past at the local museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Käsespätzle",
+            "tip": "Eine herzhafte Belohnung nach einer langen Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sajtos nokedli (Käsespätzle)",
+            "tip": "Egy kiadós jutalom egy hosszú kerékpártúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Käsespätzle (găluște cu brânză)",
+            "tip": "O recompensă consistentă după un tur lung cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Käsespätzle (Cheese Spaetzle)",
+            "tip": "A hearty reward after a long bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Tambel",
+            "tip": "Der perfekte Ort, um durchzuatmen und die Aussicht auf die Alpen zu geniessen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tambel kilátópont",
+            "tip": "Tökéletes hely, hogy fellélegezzen és élvezze az Alpokra nyíló kilátást.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punctul de belvedere Tambel",
+            "tip": "Locul perfect pentru a respira adânc și a vă bucura de vederea Alpilor.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tambel Viewpoint",
+            "tip": "The perfect place to take a breath and enjoy the view of the Alps.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden in der Umgebung",
+            "tip": "Halten Sie Ausschau nach kleinen Bauernhofläden für frische, saisonale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Környékbeli termelői boltok",
+            "tip": "Keresse a kis gazdaságokat, ahol friss, szezonális termékeket árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele fermelor din zonă",
+            "tip": "Căutați mici magazine ale fermierilor pentru produse proaspete, de sezon."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops in the area",
+            "tip": "Look out for small farm shops for fresh, seasonal produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein Helm wird dringend empfohlen.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad sicher abzustellen.",
+          "Die meisten Wege sind flach, aber der Anstieg zum Tambel ist anspruchsvoll."
+        ],
+        "hu": [
+          "A sisak használata erősen ajánlott.",
+          "Vigyen magával lakatot, hogy biztonságosan lezárhassa a kerékpárját.",
+          "Az utak többnyire síkak, de a Tambelhez vezető emelkedő kihívást jelent."
+        ],
+        "ro": [
+          "Casca este foarte recomandată.",
+          "Luați un lacăt pentru a vă asigura bicicleta.",
+          "Majoritatea traseelor sunt plate, dar urcarea spre Tambel este solicitantă."
+        ],
+        "en": [
+          "A helmet is strongly recommended.",
+          "Bring a lock to secure your bike.",
+          "Most paths are flat, but the climb to Tambel is challenging."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 11.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken und Spaziergang im Richti-Areal",
+            "hu": "Parkolás és séta a Richti-negyedben",
+            "ro": "Parcare și plimbare în zona Richti",
+            "en": "Parking and walk in the Richti-Areal"
+          },
+          "coords": [
+            8.5935,
+            47.4128
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus 'Richti' und erkunden Sie das moderne Zentrum zu Fuss.",
+            "hu": "Parkoljon a 'Richti' parkolóházban, és fedezze fel gyalog a modern központot.",
+            "ro": "Parcați în parcarea 'Richti' și explorați centrul modern pe jos.",
+            "en": "Park in the 'Richti' parking garage and explore the modern center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Ortsmuseum und Reformierte Kirche",
+            "hu": "Helytörténeti Múzeum és Református Templom",
+            "ro": "Muzeul Local și Biserica Reformată",
+            "en": "Local Museum and Reformed Church"
+          },
+          "coords": [
+            8.5965,
+            47.4148
+          ],
+          "category": "museums",
+          "arrive_at": "09:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden wichtigen Sehenswürdigkeiten liegen nur wenige Gehminuten voneinander entfernt.",
+            "hu": "Ez a két fontos látnivaló csak néhány perc sétára található egymástól.",
+            "ro": "Aceste două atracții importante sunt la doar câteva minute de mers pe jos una de cealaltă.",
+            "en": "These two important sights are just a few minutes' walk from each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Naturschutzgebiet Moos",
+            "hu": "Autóút a Moos Természetvédelmi Területhez",
+            "ro": "Drum cu mașina spre Rezervația Naturală Moos",
+            "en": "Drive to the Moos Nature Reserve"
+          },
+          "coords": [
+            8.6105,
+            47.4185
+          ],
+          "category": "natural features",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Geniessen Sie ein Picknick oder einen Spaziergang. Parkplätze sind am Eingang verfügbar.",
+            "hu": "Élvezzen egy pikniket vagy egy sétát. Parkolóhelyek a bejáratnál állnak rendelkezésre.",
+            "ro": "Bucurați-vă de un picnic sau de o plimbare. Parcarea este disponibilă la intrare.",
+            "en": "Enjoy a picnic or a walk. Parking is available at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Aussichtspunkt Tambel",
+            "hu": "Autóút a Tambel kilátóponthoz",
+            "ro": "Drum cu mașina la punctul de belvedere Tambel",
+            "en": "Drive to the Tambel Viewpoint"
+          },
+          "coords": [
+            8.583,
+            47.425
+          ],
+          "category": "natural features",
+          "arrive_at": "14:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Die beste Aussicht auf Wallisellen und die Umgebung. Ein kurzer Spaziergang vom Parkplatz.",
+            "hu": "A legjobb kilátás Wallisellenre és a környékre. Rövid séta a parkolótól.",
+            "ro": "Cea mai bună vedere asupra Wallisellen și a împrejurimilor. O scurtă plimbare de la parcare.",
+            "en": "The best view of Wallisellen and the surrounding area. A short walk from the parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Shopping und Kaffee im Glattzentrum",
+            "hu": "Vásárlás és kávézás a Glattzentrumban",
+            "ro": "Cumpărături și cafea la Centrul Glatt",
+            "en": "Shopping and coffee at the Glattzentrum"
+          },
+          "coords": [
+            8.599,
+            47.408
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach den Naturerlebnissen tauchen Sie in die belebte Atmosphäre des Einkaufszentrums ein.",
+            "hu": "A természeti élmények után merüljön el a bevásárlóközpont nyüzsgő légkörében.",
+            "ro": "După experiențele în natură, scufundați-vă în atmosfera plină de viață a centrului comercial.",
+            "en": "After the nature experiences, immerse yourself in the lively atmosphere of the shopping center."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen",
+            "hu": "Vacsora",
+            "ro": "Cină",
+            "en": "Dinner"
+          },
+          "coords": [
+            8.597,
+            47.411
+          ],
+          "category": "gastro",
+          "arrive_at": "17:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag in einem der vielen Restaurants ausklingen.",
+            "hu": "Zárja a napot a számos étterem egyikében.",
+            "ro": "Încheiați ziua la unul dintre numeroasele restaurante.",
+            "en": "End the day in one of the many restaurants."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto sind Sie flexibel. Starten Sie im Zentrum, wo Sie nach der Erkundung des Richti-Areals und der historischen Stätten das Auto stehen lassen. Der erste Cluster verbindet Kultur und Moderne. Dann fahren Sie zum ruhigen Naturschutzgebiet Moos für einen ausgedehnten Spaziergang (Cluster 2). Ein kurzer Abstecher zum Aussichtspunkt Tambel bietet eine fantastische Aussicht (Cluster 3). Der Tag endet mit einem Kontrastprogramm: Entspanntes Shopping und ein Kaffee im berühmten Glattzentrum.",
+        "hu": "Autóval rugalmasan közlekedhet. Induljon a központból, ahol a Richti-negyed és a történelmi helyszínek felfedezése után leteszi az autót. Az első klaszter a kultúrát és a modernitást köti össze. Ezután hajtson a csendes Moos természetvédelmi területhez egy kiadós sétára (2. klaszter). Egy rövid kitérő a Tambel kilátóhoz fantasztikus kilátást nyújt (3. klaszter). A nap egy kontrasztos programmal zárul: laza vásárlás és egy kávé a híres Glattzentrumban.",
+        "ro": "Cu mașina sunteți flexibil. Începeți din centru, unde lăsați mașina după ce explorați zona Richti și siturile istorice. Primul cluster combină cultura și modernitatea. Apoi conduceți spre liniștita rezervație naturală Moos pentru o plimbare lungă (Cluster 2). O scurtă deviere către punctul de belvedere Tambel oferă o priveliște fantastică (Cluster 3). Ziua se încheie cu un program de contrast: cumpărături relaxate și o cafea în faimosul Centru Glatt.",
+        "en": "You are flexible by car. Start in the center, where you can leave the car after exploring the Richti-Areal and the historical sites. The first cluster combines culture and modernity. Then drive to the quiet Moos nature reserve for a long walk (Cluster 2). A short detour to the Tambel viewpoint offers a fantastic view (Cluster 3). The day ends with a contrasting program: relaxed shopping and a coffee in the famous Glattzentrum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fondue",
+            "tip": "Ein geselliges Abendessen, um den Tag ausklingen zu lassen, besonders im Winter."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fondü",
+            "tip": "Egy társasági vacsora a nap lezárásaként, különösen télen."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fondue",
+            "tip": "O cină socială pentru a încheia ziua, mai ales iarna."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fondue",
+            "tip": "A social dinner to end the day, especially in winter."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Bach",
+            "tip": "Ein ruhiger Spazierweg führt entlang des örtlichen Baches, ideal für eine Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a patak mentén",
+            "tip": "Egy csendes sétaút vezet a helyi patak mentén, ideális egy szünetre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul pârâului",
+            "tip": "O potecă liniștită de-a lungul pârâului local, ideală pentru o pauză.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along the creek",
+            "tip": "A quiet walking path runs along the local creek, ideal for a break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Glattzentrum",
+            "tip": "Hier finden Sie alles von internationalen Marken bis zu Schweizer Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Glattzentrum",
+            "tip": "Itt mindent megtalál a nemzetközi márkáktól a svájci specialitásokig."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Glatt",
+            "tip": "Aici găsiți totul, de la mărci internaționale la specialități elvețiene."
+          }
+        ],
+        "en": [
+          {
+            "name": "Glattzentrum",
+            "tip": "Here you will find everything from international brands to Swiss specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Park+Ride-Möglichkeiten, um den Verkehr im Zentrum zu meiden.",
+          "Beachten Sie die Parkgebühren.",
+          "Ein Navigationssystem ist hilfreich, um die verschiedenen Cluster zu finden."
+        ],
+        "hu": [
+          "Használja a P+R lehetőségeket, hogy elkerülje a belvárosi forgalmat.",
+          "Vegye figyelembe a parkolási díjakat.",
+          "Egy navigációs rendszer segít megtalálni a különböző klasztereket."
+        ],
+        "ro": [
+          "Folosiți opțiunile Park+Ride pentru a evita traficul din centru.",
+          "Fiți atenți la taxele de parcare.",
+          "Un sistem de navigație este util pentru a găsi diferitele clustere."
+        ],
+        "en": [
+          "Use the Park+Ride options to avoid traffic in the center.",
+          "Be aware of the parking fees.",
+          "A navigation system is helpful to find the different clusters."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 7.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft Bhf. Wallisellen & Richti-Areal",
+            "hu": "Érkezés a Walliselleni pályaudvarra & Richti-negyed",
+            "ro": "Sosire la Gara Wallisellen & Zona Richti",
+            "en": "Arrival at Wallisellen Station & Richti-Areal"
+          },
+          "coords": [
+            8.593,
+            47.4125
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Das moderne Viertel beginnt direkt am Bahnhof. Ein perfekter Startpunkt.",
+            "hu": "A modern negyed közvetlenül a pályaudvarnál kezdődik. Tökéletes kiindulópont.",
+            "ro": "Cartierul modern începe chiar la gară. Un punct de plecare perfect.",
+            "en": "The modern quarter starts right at the train station. A perfect starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zu den Kirchen",
+            "hu": "Séta a templomokhoz",
+            "ro": "Plimbare la biserici",
+            "en": "Walk to the churches"
+          },
+          "coords": [
+            8.5941,
+            47.416
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die katholische und die reformierte Kirche sind beide bequem zu Fuss erreichbar.",
+            "hu": "A katolikus és a református templom is kényelmesen megközelíthető gyalog.",
+            "ro": "Biserica catolică și cea reformată sunt ambele ușor accesibile pe jos.",
+            "en": "The Catholic and Reformed churches are both within easy walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Glattzentrum",
+            "hu": "Busszal a Glattzentrumhoz",
+            "ro": "Cu autobuzul la Centrul Glatt",
+            "en": "Bus to the Glattzentrum"
+          },
+          "coords": [
+            8.599,
+            47.408
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus für die kurze Fahrt. Hier können Sie zu Mittag essen und einkaufen.",
+            "hu": "Menjen busszal a rövid útra. Itt ebédelhet és vásárolhat.",
+            "ro": "Luați un autobuz pentru călătoria scurtă. Aici puteți lua prânzul și face cumpărături.",
+            "en": "Take a bus for the short ride. You can have lunch and do some shopping here."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Naturschutzgebiet Moos",
+            "hu": "Busszal a Moos Természetvédelmi Területhez",
+            "ro": "Cu autobuzul la Rezervația Naturală Moos",
+            "en": "Bus to the Moos Nature Reserve"
+          },
+          "coords": [
+            8.6105,
+            47.4185
+          ],
+          "category": "natural features",
+          "arrive_at": "15:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein anderer Bus bringt Sie in die Nähe des Naturschutzgebiets für einen erholsamen Nachmittag.",
+            "hu": "Egy másik busz elviszi a természetvédelmi terület közelébe egy pihentető délutánra.",
+            "ro": "Un alt autobuz vă duce în apropierea rezervației naturale pentru o după-amiază relaxantă.",
+            "en": "Another bus takes you near the nature reserve for a relaxing afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum",
+            "hu": "Visszatérés a központba",
+            "ro": "Întoarcere în centru",
+            "en": "Return to the center"
+          },
+          "coords": [
+            8.593,
+            47.4125
+          ],
+          "category": "gastro",
+          "arrive_at": "17:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag bei einem Drink in der Nähe des Bahnhofs.",
+            "hu": "Zárja a napot egy itallal a pályaudvar közelében.",
+            "ro": "Încheiați ziua cu o băutură în apropierea gării.",
+            "en": "End the day with a drink near the train station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wallisellen ist perfekt mit öffentlichen Verkehrsmitteln zu erkunden. Vom Bahnhof aus spazieren Sie durch das moderne Richti-Areal zu den beiden Hauptkirchen (Cluster 1). Ein kurzer Bus-Hop bringt Sie zum Glattzentrum, wo Mittagessen und Shopping auf Sie warten (Cluster 2). Am Nachmittag bringt Sie ein weiterer Bus in die grüne Lunge der Stadt, das Naturschutzgebiet Moos, für einen entspannten Spaziergang (Cluster 3), bevor Sie ins Zentrum zurückkehren.",
+        "hu": "Wallisellen tökéletesen felfedezhető tömegközlekedéssel. A pályaudvartól sétáljon át a modern Richti-negyeden a két fő templomhoz (1. klaszter). Egy rövid buszozás elviszi a Glattzentrumhoz, ahol ebéd és vásárlás várja (2. klaszter). Délután egy másik busz a város zöld tüdejébe, a Moos természetvédelmi területre viszi egy pihentető sétára (3. klaszter), mielőtt visszatérne a központba.",
+        "ro": "Wallisellen este perfect de explorat cu transportul public. De la gară, plimbați-vă prin zona modernă Richti până la cele două biserici principale (Cluster 1). Un scurt salt cu autobuzul vă duce la Centrul Glatt, unde vă așteaptă prânzul și cumpărăturile (Cluster 2). După-amiaza, un alt autobuz vă duce la plămânul verde al orașului, rezervația naturală Moos, pentru o plimbare relaxantă (Cluster 3), înainte de a vă întoarce în centru.",
+        "en": "Wallisellen is perfect to explore by public transport. From the train station, you can walk through the modern Richti-Areal to the two main churches (Cluster 1). A short bus hop takes you to the Glattzentrum, where lunch and shopping await (Cluster 2). In the afternoon, another bus takes you to the city's green lung, the Moos nature reserve, for a relaxing walk (Cluster 3) before returning to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bratwurst vom Grill mit Bürli",
+            "tip": "Ein schneller und leckerer Schweizer Imbiss, oft an Strassenständen erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett kolbász Bürlivel",
+            "tip": "Egy gyors és finom svájci snack, gyakran kapható utcai árusoknál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bratwurst la grătar cu Bürli",
+            "tip": "O gustare elvețiană rapidă și delicioasă, adesea disponibilă la standurile stradale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled Bratwurst with Bürli",
+            "tip": "A quick and delicious Swiss snack, often available at street stalls."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Bank in der Nähe der Reformierten Kirche",
+            "tip": "Ein friedlicher Ort, um das Kommen und Gehen zu beobachten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy pad a Református Templom közelében",
+            "tip": "Békés hely a jövés-menés figyelésére.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă lângă Biserica Reformată",
+            "tip": "Un loc pașnic pentru a privi forfota.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench near the Reformed Church",
+            "tip": "A peaceful spot to watch the comings and goings.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bahnhofsgeschäfte",
+            "tip": "Für Last-Minute-Souvenirs oder einen schnellen Snack vor der Abfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pályaudvari üzletek",
+            "tip": "Utolsó pillanatos szuvenírekért vagy egy gyors harapnivalóért indulás előtt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele din gară",
+            "tip": "Pentru suveniruri de ultim moment sau o gustare rapidă înainte de plecare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Train station shops",
+            "tip": "For last-minute souvenirs or a quick snack before departure."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den öffentlichen Verkehr, um Geld zu sparen.",
+          "Laden Sie die ZVV-App herunter, um Fahrpläne und Verbindungen zu prüfen.",
+          "Beachten Sie, dass Busse und Züge in der Schweiz sehr pünktlich sind."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
+          "Töltse le a ZVV alkalmazást a menetrendek és csatlakozások ellenőrzéséhez.",
+          "Ne feledje, hogy a buszok és vonatok Svájcban nagyon pontosak."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru a economisi bani.",
+          "Descărcați aplicația ZVV pentru a verifica orarele și conexiunile.",
+          "Rețineți că autobuzele și trenurile din Elveția sunt foarte punctuale."
+        ],
+        "en": [
+          "Buy a day pass for public transport to save money.",
+          "Download the ZVV app to check timetables and connections.",
+          "Note that buses and trains in Switzerland are very punctual."
+        ]
+      }
+    }
+  }
+}

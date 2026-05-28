@@ -1,0 +1,1080 @@
+{
+  "city_id": "spain-santa-cruz-cities-v2",
+  "anchor": {
+    "name": "Santa Cruz de Tenerife",
+    "coords": [
+      -16.2518,
+      28.4636
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de España",
+            "hu": "Plaza de España",
+            "ro": "Plaza de España",
+            "en": "Plaza de España"
+          },
+          "coords": [
+            -16.2518,
+            28.4636
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee und beobachten Sie das Treiben der Stadt.",
+            "hu": "Kezdje a napot itt egy kávéval, és figyelje a város ébredését.",
+            "ro": "Începeți-vă ziua aici cu o cafea, privind cum se trezește orașul.",
+            "en": "Start your day here with a coffee, watching the city come to life."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Unbefleckten Empfängnis",
+            "hu": "Szeplőtelen Fogantatás temploma",
+            "ro": "Biserica Neprihănitei Zămisliri",
+            "en": "Church of the Immaculate Conception"
+          },
+          "coords": [
+            -16.2485,
+            28.4658
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Mischung aus Barock- und Toskana-Stilen.",
+            "hu": "Figyelje meg a barokk és toszkán stílusjegyek keveredését.",
+            "ro": "Observați amestecul de stiluri baroc și toscan.",
+            "en": "Notice the blend of Baroque and Tuscan architectural styles."
+          }
+        },
+        {
+          "name": {
+            "de": "Mercado de Nuestra Señora de África",
+            "hu": "Mercado de Nuestra Señora de África",
+            "ro": "Mercado de Nuestra Señora de África",
+            "en": "Market of Our Lady of Africa"
+          },
+          "coords": [
+            -16.255,
+            28.466
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:38",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Probieren Sie unbedingt die lokalen Käsesorten und frischen tropischen Früchte.",
+            "hu": "Feltétlenül kóstolja meg a helyi sajtokat és a friss trópusi gyümölcsöket.",
+            "ro": "Asigurați-vă că încercați brânzeturile locale și fructele tropicale proaspete.",
+            "en": "Be sure to try the local cheeses and fresh tropical fruits."
+          }
+        },
+        {
+          "name": {
+            "de": "Teneriffa Raum der Künste (TEA)",
+            "hu": "Tenerifei Művészeti Tér (TEA)",
+            "ro": "Spațiul Artelor din Tenerife (TEA)",
+            "en": "Tenerife Space of the Arts (TEA)"
+          },
+          "coords": [
+            -16.2495,
+            28.465
+          ],
+          "category": "museums",
+          "arrive_at": "11:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Das Gebäude selbst ist ein architektonisches Meisterwerk von Herzog & de Meuron.",
+            "hu": "Maga az épület is egy építészeti remekmű, Herzog & de Meuron alkotása.",
+            "ro": "Clădirea în sine este o capodoperă arhitecturală de Herzog & de Meuron.",
+            "en": "The building itself is an architectural masterpiece by Herzog & de Meuron."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque García Sanabria",
+            "hu": "García Sanabria Park",
+            "ro": "Parcul García Sanabria",
+            "en": "García Sanabria Park"
+          },
+          "coords": [
+            -16.256,
+            28.47
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Suchen Sie nach der Blumenuhr, einem Wahrzeichen des Parks.",
+            "hu": "Keresse meg a virágórát, a park egyik jelképét.",
+            "ro": "Căutați Ceasul Floral, un punct de reper iconic al parcului.",
+            "en": "Look for the Floral Clock, an iconic landmark within the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditorio de Tenerife",
+            "hu": "Tenerifei Auditórium",
+            "ro": "Auditoriul din Tenerife",
+            "en": "Auditorio de Tenerife"
+          },
+          "coords": [
+            -16.25,
+            28.456
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:21",
+          "stay_min": 50,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Umrunden Sie das Gebäude, um seine Calatrava-Architektur aus allen Blickwinkeln zu bewundern.",
+            "hu": "Sétálja körbe az épületet, hogy minden szögből megcsodálhassa Calatrava építészetét.",
+            "ro": "Mergeți în jurul clădirii pentru a-i admira arhitectura lui Calatrava din toate unghiurile.",
+            "en": "Walk around the building to admire its Calatrava architecture from all angles."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr morgendlicher Spaziergang führt Sie durch das historische Herz von Santa Cruz, von der belebten Plaza de España zur spirituellen Ruhe der ältesten Kirche der Stadt. Mittags erkunden Sie den lebhaften Mercado de África, gefolgt von moderner Kunst im TEA. Am Nachmittag entspannen Sie in der grünen Oase des Parque García Sanabria, bevor Sie zum architektonischen Wunder des Auditorio am Meer spazieren. Der Abend ist perfekt, um Tapas in der Nähe der Plaza zu genießen.",
+        "hu": "A reggeli séta Santa Cruz történelmi szívén vezet keresztül, a nyüzsgő Plaza de Españától a város legrégebbi templomának spirituális nyugalmáig. Délben felfedezheti az élénk Mercado de África piacot, majd a modern művészetet a TEA-ban. A délutánt a Parque García Sanabria zöld oázisában pihenve tölti, mielőtt lesétálna a tengerparti Auditorio építészeti csodájához. Az este tökéletes a Plaza környéki tapas-bárok felfedezésére.",
+        "ro": "Plimbarea de dimineață vă poartă prin inima istorică a Santa Cruz, de la aglomerata Plaza de España la liniștea spirituală a celei mai vechi biserici din oraș. La prânz, explorați vibranta Mercado de África, urmată de arta modernă la TEA. După-amiaza vă relaxați în oaza verde a Parcului García Sanabria înainte de a coborî la minunea arhitecturală de pe malul mării, Auditorio. Seara este perfectă pentru a savura tapas lângă Plaza.",
+        "en": "Your morning walk takes you through the historic heart of Santa Cruz, from the bustling Plaza de España to the spiritual calm of the city's oldest church. At midday, you'll explore the vibrant Mercado de África, followed by modern art at TEA. The afternoon is for relaxing in the green oasis of Parque García Sanabria before strolling down to the architectural marvel of the Auditorio by the sea. The evening is perfect for enjoying tapas near the Plaza."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Papas Arrugadas con Mojo",
+            "tip": "Ein Muss auf den Kanarischen Inseln. Suchen Sie nach einem Restaurant in der Nähe des Mercado de África für eine authentische Version."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Papas Arrugadas con Mojo",
+            "tip": "Kötelező Kanári-szigeteki étel. Keressen egy éttermet a Mercado de África közelében az autentikus változathoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Papas Arrugadas con Mojo",
+            "tip": "O specialitate obligatorie în Insulele Canare. Căutați un restaurant lângă Mercado de África pentru o versiune autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Papas Arrugadas con Mojo",
+            "tip": "A must-try Canary Islands specialty. Look for a restaurant near Mercado de África for an authentic version."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque García Sanabria",
+            "tip": "Finden Sie eine ruhige Bank unter exotischen Pflanzen, um dem städtischen Trubel zu entfliehen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parque García Sanabria",
+            "tip": "Keressen egy csendes padot az egzotikus növények alatt, hogy elmeneküljön a városi nyüzsgés elől.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul García Sanabria",
+            "tip": "Găsiți o bancă liniștită printre plante exotice pentru a evada din agitația urbană.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parque García Sanabria",
+            "tip": "Find a quiet bench among exotic plants to escape the urban hustle.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle del Castillo",
+            "tip": "Die wichtigste Einkaufsstraße der Stadt, parallel zu Ihrer Wanderroute."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle del Castillo",
+            "tip": "A város fő bevásárlóutcája, párhuzamosan a sétaútvonalával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle del Castillo",
+            "tip": "Principala stradă comercială a orașului, paralelă cu traseul dumneavoastră de mers pe jos."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle del Castillo",
+            "tip": "The city's main shopping street, running parallel to your walking route."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Pflaster in der Altstadt uneben sein kann.",
+          "Die meisten Geschäfte halten eine Siesta am Nachmittag, planen Sie Ihren Einkauf entsprechend.",
+          "Bleiben Sie hydriert, die kanarische Sonne kann stark sein."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óvárosi macskakövek egyenetlenek lehetnek.",
+          "A legtöbb üzlet délutáni sziesztát tart, tervezze a vásárlást ennek megfelelően.",
+          "Fogyasszon elegendő folyadékot, a kanári-szigeteki nap erős lehet."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din orașul vechi poate fi denivelat.",
+          "Majoritatea magazinelor respectă siesta de după-amiază, planificați-vă cumpărăturile în consecință.",
+          "Rămâneți hidratat, soarele canarian poate fi puternic."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Most shops observe an afternoon siesta, plan your shopping accordingly.",
+          "Stay hydrated, the Canarian sun can be strong."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parque García Sanabria",
+            "hu": "García Sanabria Park",
+            "ro": "Parcul García Sanabria",
+            "en": "García Sanabria Park"
+          },
+          "coords": [
+            -16.256,
+            28.47
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein idealer Ausgangspunkt, um den Tag entspannt zu beginnen, bevor Sie in die Pedale treten.",
+            "hu": "Ideális kiindulópont a nap laza kezdéséhez, mielőtt nyeregbe pattan.",
+            "ro": "Un punct de plecare ideal pentru a începe ziua relaxat înainte de a pedala.",
+            "en": "An ideal starting point to begin the day relaxed before you start pedaling."
+          }
+        },
+        {
+          "name": {
+            "de": "Mercado de Nuestra Señora de África",
+            "hu": "Mercado de Nuestra Señora de África",
+            "ro": "Mercado de Nuestra Señora de África",
+            "en": "Market of Our Lady of Africa"
+          },
+          "coords": [
+            -16.255,
+            28.466
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:01",
+          "stay_min": 50,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab und tauchen Sie ein in die Gerüche und Geschmäcker.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és merüljön el az illatokban és ízekben.",
+            "ro": "Parcați bicicleta într-un loc sigur și scufundați-vă în mirosuri și gusturi.",
+            "en": "Park your bike securely and dive into the smells and tastes."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de España",
+            "hu": "Plaza de España",
+            "ro": "Plaza de España",
+            "en": "Plaza de España"
+          },
+          "coords": [
+            -16.2518,
+            28.4636
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:59",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Der Platz wurde kürzlich renoviert und verfügt über einen großen künstlichen See.",
+            "hu": "A teret nemrég újították fel, és egy nagy mesterséges tóval rendelkezik.",
+            "ro": "Piața a fost recent renovată și are un lac artificial mare.",
+            "en": "The square was recently renovated and features a large artificial lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditorio de Tenerife",
+            "hu": "Tenerifei Auditórium",
+            "ro": "Auditoriul din Tenerife",
+            "en": "Auditorio de Tenerife"
+          },
+          "coords": [
+            -16.25,
+            28.456
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Die Radwege entlang der Küste bieten eine fantastische Aussicht auf das Gebäude.",
+            "hu": "A part menti kerékpárutak fantasztikus kilátást nyújtanak az épületre.",
+            "ro": "Pistele de biciclete de-a lungul coastei oferă vederi fantastice ale clădirii.",
+            "en": "The bike paths along the coast offer fantastic views of the building."
+          }
+        },
+        {
+          "name": {
+            "de": "Palmetum von Santa Cruz",
+            "hu": "Santa Cruz-i Palmetum",
+            "ro": "Palmetumul din Santa Cruz",
+            "en": "Palmetum of Santa Cruz"
+          },
+          "coords": [
+            -16.245,
+            28.453
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:18",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein botanischer Garten auf einem ehemaligen Müllberg, spezialisiert auf Palmen.",
+            "hu": "Egy botanikus kert egy egykori szemétdombon, pálmákra szakosodva.",
+            "ro": "O grădină botanică pe un fost deal de gunoi, specializată în palmieri.",
+            "en": "A botanical garden on a former garbage hill, specializing in palm trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo de San Juan Bautista",
+            "hu": "Keresztelő Szent János kastély",
+            "ro": "Castelul San Juan Bautista",
+            "en": "Castle of St. John the Baptist"
+          },
+          "coords": [
+            -16.248,
+            28.4575
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Diese kleine runde Festung ist auch als Schwarze Burg bekannt.",
+            "hu": "Ez a kis, kerek erőd Fekete Kastélyként is ismert.",
+            "ro": "Această mică fortăreață rotundă este cunoscută și sub numele de Castelul Negru.",
+            "en": "This small round fortress is also known as the Black Castle."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt im grünen Parque García Sanabria und führt Sie zum geschäftigen Mercado. Sie radeln durch das Stadtzentrum zur Plaza de España. Mittags erreichen Sie die Küste, wo Sie das moderne Auditorio bewundern. Am Nachmittag erkunden Sie das Palmetum, eine beeindruckende Sammlung von Palmen. Ihre Tour endet an der historischen Festung Castillo de San Juan und bietet einen letzten Blick auf das Meer.",
+        "hu": "A kerékpártúra a zöldellő Parque García Sanabriából indul a nyüzsgő piac felé. Átteker a városközponton a Plaza de España felé. Délben eléri a partot, ahol megcsodálhatja a modern Auditóriumot. Délután felfedezi a Palmetumot, egy lenyűgöző pálmagyűjteményt. A túra a történelmi Castillo de San Juan erődnél ér véget, ahonnan utolsó pillantást vethet a tengerre.",
+        "ro": "Turul cu bicicleta începe în verdele Parc García Sanabria și vă duce la piața aglomerată. Pedalați prin centrul orașului spre Plaza de España. La prânz, ajungeți pe coastă pentru a admira modernul Auditorio. După-amiaza explorați Palmetum, o colecție impresionantă de palmieri. Turul se încheie la fortăreața istorică Castillo de San Juan pentru o ultimă priveliște a mării.",
+        "en": "Your bike tour starts in the green Parque García Sanabria, leading to the bustling market. You'll cycle through the city center to Plaza de España. At midday, you reach the coast to admire the modern Auditorio. The afternoon is for exploring the Palmetum, an impressive collection of palm trees. Your tour concludes at the historic Castillo de San Juan fortress for a final sea view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bocadillo con chicharrones",
+            "tip": "Ein herzhaftes Sandwich, perfekt für eine schnelle Stärkung während der Radtour. Fragen Sie in einer lokalen Bar danach."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bocadillo con chicharrones",
+            "tip": "Egy kiadós szendvics, tökéletes gyors ebéd a kerékpártúra közben. Kérje egy helyi bárban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bocadillo con chicharrones",
+            "tip": "Un sandviș consistent, perfect pentru o masă rapidă în timpul turului cu bicicleta. Întrebați la un bar local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bocadillo con chicharrones",
+            "tip": "A hearty sandwich, perfect for a quick fuel-up during your bike tour. Ask for it at a local bar."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Palmetum",
+            "tip": "Die Wege auf dem Hügel bieten ruhige Ecken mit herrlichem Blick auf das Meer und die Stadt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palmetum",
+            "tip": "A dombon lévő ösvények csendes zugokat kínálnak, csodás kilátással a tengerre és a városra.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Palmetum",
+            "tip": "Cărările de pe deal oferă colțuri liniștite cu vederi superbe la mare și la oraș.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Palmetum",
+            "tip": "The paths on the hill offer quiet corners with great views of the sea and city.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Kunstgalerien",
+            "tip": "In den Straßen um das TEA-Museum finden Sie kleine Galerien mit Werken kanarischer Künstler."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi művészeti galériák",
+            "tip": "A TEA múzeum körüli utcákban kis galériákat találhat kanári-szigeteki művészek alkotásaival."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galerii de artă locale",
+            "tip": "Pe străzile din jurul muzeului TEA veți găsi mici galerii cu lucrări ale artiștilor canarieni."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Art Galleries",
+            "tip": "In the streets around the TEA museum, you'll find small galleries featuring works by Canarian artists."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Fahrradverleihoptionen in der Stadt im Voraus.",
+          "Einige Bereiche der Stadt sind hügelig, seien Sie auf einige Anstiege vorbereitet.",
+          "Nutzen Sie die ausgewiesenen Radwege, insbesondere entlang der Küste."
+        ],
+        "hu": [
+          "Előzetesen tájékozódjon a városi kerékpárkölcsönzési lehetőségekről.",
+          "A város egyes részei dombosak, készüljön fel néhány emelkedőre.",
+          "Használja a kijelölt kerékpárutakat, különösen a tengerpart mentén."
+        ],
+        "ro": [
+          "Verificați în avans opțiunile de închiriere de biciclete din oraș.",
+          "Unele zone ale orașului sunt deluroase, fiți pregătit pentru câteva urcări.",
+          "Folosiți pistele de biciclete desemnate, în special de-a lungul coastei."
+        ],
+        "en": [
+          "Check bike rental options in the city beforehand.",
+          "Some areas of the city are hilly, be prepared for some climbs.",
+          "Use the designated bike lanes, especially along the coast."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:02",
+      "total_km": 5.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Mercado de Nuestra Señora de África",
+            "hu": "Mercado de Nuestra Señora de África",
+            "ro": "Mercado de Nuestra Señora de África",
+            "en": "Market of Our Lady of Africa"
+          },
+          "coords": [
+            -16.255,
+            28.466
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus des Marktes. Dies ist Ihr erster Cluster-Startpunkt.",
+            "hu": "Parkoljon a piac parkolóházában. Ez az első gyalogos zóna kiindulópontja.",
+            "ro": "Parcați în parcarea pieței. Acesta este punctul de plecare pentru primul grup de obiective.",
+            "en": "Park in the market's parking garage. This is your first cluster starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Unbefleckten Empfängnis",
+            "hu": "Szeplőtelen Fogantatás temploma",
+            "ro": "Biserica Neprihănitei Zămisliri",
+            "en": "Church of the Immaculate Conception"
+          },
+          "coords": [
+            -16.2485,
+            28.4658
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Markt durch die alten Straßen.",
+            "hu": "Rövid séta a piactól a régi utcákon keresztül.",
+            "ro": "O scurtă plimbare de la piață pe străzile vechi.",
+            "en": "A short walk from the market through the old streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Teneriffa Raum der Künste (TEA)",
+            "hu": "Tenerifei Művészeti Tér (TEA)",
+            "ro": "Spațiul Artelor din Tenerife (TEA)",
+            "en": "Tenerife Space of the Arts (TEA)"
+          },
+          "coords": [
+            -16.2495,
+            28.465
+          ],
+          "category": "museums",
+          "arrive_at": "10:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt neben der Kirche gelegen, ein einfacher Übergang.",
+            "hu": "Közvetlenül a templom mellett található, könnyű átsétálni.",
+            "ro": "Situat chiar lângă biserică, o tranziție ușoară.",
+            "en": "Located right next to the church, an easy transition."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de España",
+            "hu": "Plaza de España",
+            "ro": "Plaza de España",
+            "en": "Plaza de España"
+          },
+          "coords": [
+            -16.2518,
+            28.4636
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren ersten Cluster hier, bevor Sie zu Ihrem Auto zurückkehren.",
+            "hu": "Itt fejezze be az első gyalogos kört, mielőtt visszatérne az autójához.",
+            "ro": "Încheiați primul grup de obiective aici înainte de a vă întoarce la mașină.",
+            "en": "Finish your first cluster here before heading back to your car."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditorio de Tenerife",
+            "hu": "Tenerifei Auditórium",
+            "ro": "Auditoriul din Tenerife",
+            "en": "Auditorio de Tenerife"
+          },
+          "coords": [
+            -16.25,
+            28.456
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zur Küste für Ihren zweiten Cluster. Parkplätze sind in der Nähe verfügbar.",
+            "hu": "Vezessen le a partra a második gyalogos zónához. Parkolás a közelben lehetséges.",
+            "ro": "Conduceți spre coastă pentru al doilea grup de obiective. Există parcare disponibilă în apropiere.",
+            "en": "Drive to the coast for your second cluster. Parking is available nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo de San Juan Bautista",
+            "hu": "Keresztelő Szent János kastély",
+            "ro": "Castelul San Juan Bautista",
+            "en": "Castle of St. John the Baptist"
+          },
+          "coords": [
+            -16.248,
+            28.4575
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:48",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein sehr kurzer Spaziergang vom Auditorio entlang der Uferpromenade.",
+            "hu": "Nagyon rövid séta az Auditóriumtól a tengerparti sétányon.",
+            "ro": "O plimbare foarte scurtă de la Auditorio de-a lungul promenadei.",
+            "en": "A very short walk from the Auditorio along the waterfront."
+          }
+        },
+        {
+          "name": {
+            "de": "Palmetum von Santa Cruz",
+            "hu": "Santa Cruz-i Palmetum",
+            "ro": "Palmetumul din Santa Cruz",
+            "en": "Palmetum of Santa Cruz"
+          },
+          "coords": [
+            -16.245,
+            28.453
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:28",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang zum Abschluss Ihres Tages, mit toller Aussicht.",
+            "hu": "Egy kellemes séta a nap lezárásaként, remek kilátással.",
+            "ro": "O plimbare plăcută pentru a încheia ziua, cu priveliști minunate.",
+            "en": "A lovely walk to end your day, offering great views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit dem Auto im Zentrum, wo Sie Ihr erstes Cluster zu Fuß erkunden: den Markt, die historische Kirche, das TEA-Museum und die Plaza de España. Gegen Mittag fahren Sie zum Küstencluster. Sie parken erneut und erkunden die moderne Architektur des Auditorio, die nahegelegene Festung und die botanischen Wunder des Palmetum. Dieser Ansatz minimiert Parkprobleme und maximiert das Erlebnis.",
+        "hu": "A nap autóval kezdődik a központban, ahol gyalog fedezi fel az első zónát: a piacot, a történelmi templomot, a TEA múzeumot és a Plaza de España-t. Dél körül a parti zónához hajt. Újra parkol, majd felfedezi az Auditorio modern építészetét, a közeli erődöt és a Palmetum botanikai csodáit. Ez a megközelítés minimalizálja a parkolási gondokat és maximalizálja az élményt.",
+        "ro": "Ziua începe cu mașina în centru, unde explorați pe jos primul grup de obiective: piața, biserica istorică, muzeul TEA și Plaza de España. Pe la prânz, conduceți către grupul de pe coastă. Parcați din nou și explorați arhitectura modernă a Auditorio, fortăreața din apropiere și minunile botanice ale Palmetum. Această abordare minimizează problemele de parcare și maximizează experiența.",
+        "en": "Your day starts by car in the center, where you explore your first cluster on foot: the market, the historic church, the TEA museum, and Plaza de España. Around midday, you drive to the coastal cluster. You park again and explore the modern architecture of the Auditorio, the nearby fortress, and the botanical wonders of the Palmetum. This approach minimizes parking hassles and maximizes the experience."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fisch und Meeresfrüchte",
+            "tip": "Fahren Sie zum Fischerdorf San Andrés (15 Min.) für den frischesten Fang des Tages."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hal és tenger gyümölcsei",
+            "tip": "Vezessen el San Andrés halászfaluba (15 perc) a nap legfrissebb fogásáért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește și fructe de mare",
+            "tip": "Conduceți până la satul pescăresc San Andrés (15 min) pentru cea mai proaspătă captură a zilei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish and Seafood",
+            "tip": "Drive to the fishing village of San Andrés (15 min) for the freshest catch of the day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Playa de las Teresitas",
+            "tip": "Ein kurzer Ausflug mit dem Auto zu diesem goldenen Sandstrand nördlich der Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Playa de las Teresitas",
+            "tip": "Rövid autós kirándulás a várostól északra található aranyhomokos strandra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Playa de las Teresitas",
+            "tip": "O scurtă călătorie cu mașina până la această plajă cu nisip auriu la nord de oraș.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Playa de las Teresitas",
+            "tip": "A short car trip to this golden sand beach north of the city.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Centro Comercial Meridiano",
+            "tip": "Ein großes Einkaufszentrum am Rande der Stadt, leicht mit dem Auto zu erreichen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Centro Comercial Meridiano",
+            "tip": "Egy nagy bevásárlóközpont a város szélén, autóval könnyen megközelíthető."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centro Comercial Meridiano",
+            "tip": "Un mare centru comercial la marginea orașului, ușor accesibil cu mașina."
+          }
+        ],
+        "en": [
+          {
+            "name": "Centro Comercial Meridiano",
+            "tip": "A large shopping center on the outskirts of the city, easily accessible by car."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in der Innenstadt kann schwierig sein; nutzen Sie Tiefgaragen.",
+          "Achten Sie auf Einbahnstraßen im historischen Zentrum.",
+          "Planen Sie einen Abstecher zum Teide-Nationalpark ein, wenn Sie Zeit haben."
+        ],
+        "hu": [
+          "A belvárosi parkolás nehézkes lehet; használja a mélygarázsokat.",
+          "Vigyázzon az egyirányú utcákra a történelmi központban.",
+          "Ha van ideje, tervezzen egy kirándulást a Teide Nemzeti Parkba."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi dificilă; folosiți parcările subterane.",
+          "Fiți atenți la străzile cu sens unic din centrul istoric.",
+          "Planificați o excursie la Parcul Național Teide dacă aveți timp."
+        ],
+        "en": [
+          "Parking in the city center can be difficult; use underground car parks.",
+          "Be mindful of one-way streets in the historic center.",
+          "Consider a side trip to Teide National Park if you have time."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:58",
+      "total_km": 6.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mercado de Nuestra Señora de África",
+            "hu": "Mercado de Nuestra Señora de África",
+            "ro": "Mercado de Nuestra Señora de África",
+            "en": "Market of Our Lady of Africa"
+          },
+          "coords": [
+            -16.255,
+            28.466
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus oder eine Straßenbahn zum Busbahnhof (Intercambiador), der Markt ist nur einen kurzen Spaziergang entfernt.",
+            "hu": "Menjen busszal vagy villamossal az buszpályaudvarra (Intercambiador), a piac rövid sétatávolságra van.",
+            "ro": "Luați un autobuz sau un tramvai până la autogară (Intercambiador), piața este la o scurtă plimbare.",
+            "en": "Take a bus or tram to the main station (Intercambiador), the market is a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Teneriffa Raum der Künste (TEA)",
+            "hu": "Tenerifei Művészeti Tér (TEA)",
+            "ro": "Spațiul Artelor din Tenerife (TEA)",
+            "en": "Tenerife Space of the Arts (TEA)"
+          },
+          "coords": [
+            -16.2495,
+            28.465
+          ],
+          "category": "museums",
+          "arrive_at": "10:12",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Folgen Sie dem Barranco de Santos vom Markt aus.",
+            "hu": "Kövesse a Barranco de Santos-t a piactól.",
+            "ro": "Urmați Barranco de Santos de la piață.",
+            "en": "Follow the Barranco de Santos ravine down from the market."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de España",
+            "hu": "Plaza de España",
+            "ro": "Plaza de España",
+            "en": "Plaza de España"
+          },
+          "coords": [
+            -16.2518,
+            28.4636
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:47",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Herz der Stadt, ideal für eine kurze Pause.",
+            "hu": "A város szíve, ideális egy rövid pihenőre.",
+            "ro": "Inima orașului, ideală pentru o scurtă pauză.",
+            "en": "The heart of the city, ideal for a short break."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque García Sanabria",
+            "hu": "García Sanabria Park",
+            "ro": "Parcul García Sanabria",
+            "en": "García Sanabria Park"
+          },
+          "coords": [
+            -16.256,
+            28.47
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie eine kurze Busfahrt von der Plaza de España zum Park.",
+            "hu": "Tegyen egy rövid buszutat a Plaza de Españától a parkig.",
+            "ro": "Luați un autobuz pe o distanță scurtă de la Plaza de España la parc.",
+            "en": "Take a short bus ride up from Plaza de España to the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditorio de Tenerife",
+            "hu": "Tenerifei Auditórium",
+            "ro": "Auditoriul din Tenerife",
+            "en": "Auditorio de Tenerife"
+          },
+          "coords": [
+            -16.25,
+            28.456
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:42",
+          "stay_min": 45,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie die Straßenbahn (Linie 1) bis zur Endstation 'Intercambiador'.",
+            "hu": "Menjen a villamossal (1-es vonal) az 'Intercambiador' végállomásig.",
+            "ro": "Luați tramvaiul (Linia 1) până la capătul liniei 'Intercambiador'.",
+            "en": "Take the tram (Line 1) down to its final stop, 'Intercambiador'."
+          }
+        },
+        {
+          "name": {
+            "de": "Palmetum von Santa Cruz",
+            "hu": "Santa Cruz-i Palmetum",
+            "ro": "Palmetumul din Santa Cruz",
+            "en": "Palmetum of Santa Cruz"
+          },
+          "coords": [
+            -16.245,
+            28.453
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang vom Auditorio zum Abschluss Ihres Tages.",
+            "hu": "Egy kellemes séta az Auditóriumtól a nap lezárásaként.",
+            "ro": "O plimbare plăcută de la Auditorio pentru a încheia ziua.",
+            "en": "A pleasant walk from the Auditorio to finish your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln starten Sie Ihren Tag im ersten Cluster: dem Markt- und Museumsviertel. Ein kurzer Spaziergang verbindet diese Ziele. Mittags bringt Sie ein Bus zum zweiten Cluster, dem üppigen Parque García Sanabria, für eine entspannte Pause. Am Nachmittag bringt Sie die Straßenbahn zum letzten Cluster an der Küste, wo Sie das Auditorio und das Palmetum erkunden. Dies ist eine effiziente Art, die weitläufigen Sehenswürdigkeiten der Stadt zu sehen.",
+        "hu": "Tömegközlekedéssel kezdi a napot az első zónában: a piac- és múzeumnegyedben. Egy rövid séta köti össze ezeket a helyszíneket. Délben busz viszi a második zónába, a buja Parque García Sanabriába egy pihentető szünetre. Délután a villamos viszi az utolsó, tengerparti zónába, ahol felfedezheti az Auditóriumot és a Palmetumot. Ez egy hatékony módja a város szétszórt látnivalóinak megtekintésének.",
+        "ro": "Folosind transportul public, începeți ziua în primul grup: cartierul pieței și al muzeelor. O scurtă plimbare leagă aceste destinații. La prânz, un autobuz vă duce la al doilea grup, luxuriantul Parc García Sanabria, pentru o pauză relaxantă. După-amiaza, tramvaiul vă duce la ultimul grup de pe coastă pentru a explora Auditorio și Palmetum. Acesta este un mod eficient de a vedea atracțiile dispersate ale orașului.",
+        "en": "Using public transit, you start your day at the first cluster: the market and museum district. A short walk connects these destinations. At midday, a bus takes you to the second cluster, the lush Parque García Sanabria, for a relaxing break. In the afternoon, the tram brings you to the final, coastal cluster to explore the Auditorio and Palmetum. This is an efficient way to see the city's spread-out attractions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gofio",
+            "tip": "Ein traditionelles kanarisches Mehl. Probieren Sie es als 'Gofio escaldado' (eine Art Brei) in einem traditionellen Restaurant."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gofio",
+            "tip": "Hagyományos kanári-szigeteki liszt. Kóstolja meg 'Gofio escaldado' formájában (egyfajta pép) egy hagyományos étteremben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gofio",
+            "tip": "O făină tradițională canariană. Încercați-o ca 'Gofio escaldado' (un fel de terci) într-un restaurant tradițional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gofio",
+            "tip": "A traditional Canarian flour. Try it as 'Gofio escaldado' (a type of porridge) in a traditional restaurant."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussicht vom Palmetum",
+            "tip": "Bietet einen Panoramablick auf die Stadt, das Meer und das Auditorio.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a Palmetumból",
+            "tip": "Panorámás kilátást nyújt a városra, a tengerre és az Auditóriumra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la Palmetum",
+            "tip": "Oferă o vedere panoramică asupra orașului, mării și Auditorio.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the Palmetum",
+            "tip": "Offers a panoramic view of the city, the sea, and the Auditorio.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rambla de Santa Cruz",
+            "tip": "Entlang dieser von Bäumen gesäumten Allee finden Sie an Sonntagen einen Flohmarkt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rambla de Santa Cruz",
+            "tip": "Vasárnaponként bolhapiacot találhat ezen a fákkal szegélyezett sugárúton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rambla de Santa Cruz",
+            "tip": "Veți găsi o piață de vechituri de-a lungul acestui bulevard mărginit de copaci în zilele de duminică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rambla de Santa Cruz",
+            "tip": "You'll find a flea market along this tree-lined avenue on Sundays."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine 'bono'-Karte für günstigere Fahrten mit Bus und Straßenbahn.",
+          "Die TITSA-App ist nützlich für die Planung von Busrouten in Echtzeit.",
+          "Die Straßenbahnlinie 1 ist eine schnelle und landschaftlich reizvolle Möglichkeit, zwischen dem Zentrum und der Küste zu pendeln."
+        ],
+        "hu": [
+          "Vásároljon 'bono' kártyát az olcsóbb busz- és villamosutakhoz.",
+          "A TITSA alkalmazás hasznos a buszútvonalak valós idejű tervezéséhez.",
+          "Az 1-es villamosvonal gyors és festői módja a központ és a part közötti közlekedésnek."
+        ],
+        "ro": [
+          "Cumpărați un card 'bono' pentru călătorii mai ieftine cu autobuzul și tramvaiul.",
+          "Aplicația TITSA este utilă pentru planificarea rutelor de autobuz în timp real.",
+          "Linia 1 de tramvai este o modalitate rapidă și pitorească de a face naveta între centru și coastă."
+        ],
+        "en": [
+          "Buy a 'bono' card for cheaper bus and tram fares.",
+          "The TITSA app is useful for planning bus routes in real time.",
+          "Tram Line 1 is a quick and scenic way to commute between the center and the coast."
+        ]
+      }
+    }
+  }
+}

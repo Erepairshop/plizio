@@ -1,0 +1,1476 @@
+{
+  "city_id": "bosniaherzegovina-gradiska-cities-v2",
+  "anchor": {
+    "name": "Gradiška",
+    "coords": [
+      17.2543,
+      45.1448
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 2.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Husein-kapetan Gradaščević Platz",
+            "hu": "Husein-kapetan Gradaščević tér",
+            "ro": "Piața Husein-kapetan Gradaščević",
+            "en": "Husein-kapetan Gradaščević Square"
+          },
+          "coords": [
+            17.254,
+            45.145
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag hier mit einem Kaffee in einem der örtlichen Cafés.",
+            "hu": "Kezdje a napot egy kávéval a helyi kávézók egyikében.",
+            "ro": "Începeți ziua aici cu o cafea la una dintre cafenelele locale.",
+            "en": "Start your day here with a coffee at one of the local cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Himmelfahrt der Jungfrau Maria",
+            "hu": "Szűz Mária Mennybemenetele templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Assumption of the Virgin Mary"
+          },
+          "coords": [
+            17.2555,
+            45.146
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckende Ikonostase und die ruhige Atmosphäre.",
+            "hu": "Figyelje meg a lenyűgöző ikonosztázt és a csendes légkört.",
+            "ro": "Observați iconostasul impresionant și atmosfera liniștită.",
+            "en": "Pay attention to the impressive iconostasis and the quiet atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum Gradiška",
+            "hu": "Gradiškai Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie Locală Gradiška",
+            "en": "Gradiška Heritage Museum"
+          },
+          "coords": [
+            17.253,
+            45.1465
+          ],
+          "category": "museums",
+          "arrive_at": "10:31",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte der Region, von der Römerzeit bis heute.",
+            "hu": "Ismerje meg a régió gazdag történelmét a római kortól napjainkig.",
+            "ro": "Descoperiți istoria bogată a regiunii, din perioada romană până în prezent.",
+            "en": "Discover the rich history of the region, from Roman times to the present day."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische archäologische Stätte Servitium",
+            "hu": "Servitium római régészeti lelőhely",
+            "ro": "Situl arheologic roman Servitium",
+            "en": "Roman archaeological site Servitium"
+          },
+          "coords": [
+            17.25,
+            45.148
+          ],
+          "category": "historical",
+          "arrive_at": "12:23",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Stellen Sie sich vor, wie das Leben in dieser alten römischen Siedlung war.",
+            "hu": "Képzelje el, milyen volt az élet ebben az ősi római településben.",
+            "ro": "Imaginați-vă cum era viața în această veche așezare romană.",
+            "en": "Imagine what life was like in this ancient Roman settlement."
+          }
+        },
+        {
+          "name": {
+            "de": "Sava-Uferpromenade",
+            "hu": "Száva-parti sétány",
+            "ro": "Promenada de pe malul râului Sava",
+            "en": "Sava River Promenade"
+          },
+          "coords": [
+            17.256,
+            45.149
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:01",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Perfekt für einen entspannten Spaziergang am Nachmittag mit Blick auf den Fluss.",
+            "hu": "Tökéletes egy pihentető délutáni sétához, kilátással a folyóra.",
+            "ro": "Perfect pentru o plimbare relaxantă de după-amiază cu vedere la râu.",
+            "en": "Perfect for a relaxing afternoon walk with a view of the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark Mladen Stojanović",
+            "hu": "Mladen Stojanović városi park",
+            "ro": "Parcul Municipal Mladen Stojanović",
+            "en": "Mladen Stojanović City Park"
+          },
+          "coords": [
+            17.248,
+            45.143
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:26",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein idealer Ort, um sich im Schatten der Bäume auszuruhen und den Tag ausklingen zu lassen.",
+            "hu": "Ideális hely a fák árnyékában pihenni és lezárni a napot.",
+            "ro": "Un loc ideal pentru a vă odihni la umbra copacilor și a încheia ziua.",
+            "en": "An ideal place to rest in the shade of the trees and end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Gradiška beginnt auf dem lebhaften Husein-kapetan Gradaščević Platz. Nach einem Moment der Stille in der orthodoxen Kirche tauchen Sie im Heimatmuseum in die lokale Geschichte ein. Am Nachmittag erkunden Sie die antiken Ruinen von Servitium, bevor Sie einen gemütlichen Spaziergang entlang der Sava-Promenade genießen. Der Tag endet entspannt im Stadtpark Mladen Stojanović, wo Sie die friedliche Atmosphäre auf sich wirken lassen.",
+        "hu": "A nap Gradiškában a nyüzsgő Husein-kapetan Gradaščević téren kezdődik. Az ortodox templomban töltött csendes pillanatok után a helytörténeti múzeumban merül el a helyi történelemben. Délután felfedezi Servitium ókori romjait, majd egy kellemes sétát tesz a Száva-parti sétányon. A nap a Mladen Stojanović városi parkban zárul, ahol élvezheti a békés légkört.",
+        "ro": "Ziua dvs. în Gradiška începe în vibranta Piață Husein-kapetan Gradaščević. După un moment de liniște la biserica ortodoxă, vă scufundați în istoria locală la Muzeul de Istorie. După-amiaza, explorați ruinele antice de la Servitium, înainte de a vă bucura de o plimbare pe promenada de pe malul Savei. Ziua se încheie relaxant în Parcul Mladen Stojanović, absorbind atmosfera pașnică.",
+        "en": "Your day in Gradiška begins in the lively Husein-kapetan Gradaščević Square. After a moment of silence in the Orthodox church, you'll dive into local history at the Heritage Museum. In the afternoon, explore the ancient ruins of Servitium before enjoying a leisurely stroll along the Sava Promenade. The day concludes with relaxation in the Mladen Stojanović City Park, soaking in the peaceful atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ćevapi",
+            "tip": "Probieren Sie die bosnische Spezialität in einem der lokalen Grillrestaurants."
+          },
+          {
+            "name": "Bureks",
+            "tip": "Ein herzhafter Snack, perfekt für zwischendurch, erhältlich in Bäckereien (pekara)."
+          },
+          {
+            "name": "Fisch aus der Sava",
+            "tip": "Genießen Sie frisch gefangenen Fisch in einem Restaurant am Flussufer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ćevapi",
+            "tip": "Kóstolja meg ezt a bosnyák specialitást a helyi grilléttermek egyikében."
+          },
+          {
+            "name": "Burek",
+            "tip": "Kiváló sós harapnivaló útközben, pékségekben (pekara) kapható."
+          },
+          {
+            "name": "Szávai hal",
+            "tip": "Élvezze a frissen fogott halat egy folyóparti étteremben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ćevapi",
+            "tip": "Încercați specialitatea bosniacă la unul dintre grătarele locale."
+          },
+          {
+            "name": "Burek",
+            "tip": "O gustare sărată, perfectă pentru drum, disponibilă la brutării (pekara)."
+          },
+          {
+            "name": "Pește de Sava",
+            "tip": "Savurați pește proaspăt prins la un restaurant de pe malul râului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ćevapi",
+            "tip": "Try the Bosnian specialty at one of the local grill restaurants."
+          },
+          {
+            "name": "Burek",
+            "tip": "A savory snack, perfect on the go, available at bakeries (pekara)."
+          },
+          {
+            "name": "Sava River Fish",
+            "tip": "Enjoy freshly caught fish at a riverside restaurant."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sava-Ufer",
+            "tip": "Finden Sie eine ruhige Bank und beobachten Sie das fließende Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stadtpark Mladen Stojanović",
+            "tip": "Entfliehen Sie dem Trubel der Stadt unter den alten Bäumen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang an der Sava-Brücke",
+            "tip": "Beobachten Sie, wie die Sonne über dem Fluss und Kroatien untergeht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Száva-part",
+            "tip": "Keressen egy csendes padot, és nézze a folyó áramlását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mladen Stojanović városi park",
+            "tip": "Meneküljön el a város zajától az öreg fák alatt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a Száva-hídnál",
+            "tip": "Nézze, ahogy a nap lemegy a folyó és Horvátország felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Sava",
+            "tip": "Găsiți o bancă liniștită și priviți apa curgând.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Municipal Mladen Stojanović",
+            "tip": "Evadați din agitația orașului sub copacii bătrâni.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus la Podul Sava",
+            "tip": "Priviți soarele apunând peste râu și Croația.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sava Riverbank",
+            "tip": "Find a quiet bench and watch the water flow by.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mladen Stojanović City Park",
+            "tip": "Escape the city bustle under the old trees.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset at the Sava Bridge",
+            "tip": "Watch the sun set over the river and Croatia.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach frischen Produkten und handgemachten Waren."
+          },
+          {
+            "name": "Souvenirläden",
+            "tip": "Finden Sie kleine Andenken wie Magnete oder Postkarten mit Motiven der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen friss termékeket és kézműves árukat."
+          },
+          {
+            "name": "Ajándékboltok",
+            "tip": "Találjon apró emléktárgyakat, például mágneseket vagy képeslapokat a város motívumaival."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse proaspete și articole de artizanat."
+          },
+          {
+            "name": "Magazine de suveniruri",
+            "tip": "Găsiți mici amintiri, cum ar fi magneți sau cărți poștale cu motive ale orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for fresh produce and handmade goods."
+          },
+          {
+            "name": "Souvenir Shops",
+            "tip": "Find small keepsakes like magnets or postcards with city motifs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag auf den Beinen sein werden.",
+          "Die meisten Sehenswürdigkeiten liegen nahe beieinander und sind leicht zu Fuß erreichbar.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit; es gibt öffentliche Brunnen.",
+          "Planen Sie eine längere Mittagspause ein, um die lokale Küche zu genießen.",
+          "Gradiška ist eine sichere Stadt, aber achten Sie wie immer auf Ihre Wertsachen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap talpon lesz.",
+          "A legtöbb látnivaló közel van egymáshoz és könnyen megközelíthető gyalog.",
+          "Hozzon magával újratölthető vizes palackot; vannak nyilvános kutak.",
+          "Tervezzen hosszabb ebédszünetet, hogy kiélvezhesse a helyi konyhát.",
+          "Gradiška biztonságos város, de mint mindig, figyeljen az értékeire."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți fi în picioare toată ziua.",
+          "Majoritatea atracțiilor sunt apropiate și ușor accesibile pe jos.",
+          "Luați o sticlă de apă reutilizabilă; există fântâni publice.",
+          "Planificați o pauză de prânz mai lungă pentru a savura bucătăria locală.",
+          "Gradiška este un oraș sigur, dar, ca întotdeauna, fiți atenți la obiectele de valoare."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be on your feet all day.",
+          "Most attractions are close to each other and easily reachable on foot.",
+          "Bring a reusable water bottle; there are public fountains.",
+          "Plan for a longer lunch break to enjoy the local cuisine.",
+          "Gradiška is a safe city, but as always, be mindful of your valuables."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 5.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Husein-kapetan Gradaščević Platz",
+            "hu": "Husein-kapetan Gradaščević tér",
+            "ro": "Piața Husein-kapetan Gradaščević",
+            "en": "Husein-kapetan Gradaščević Square"
+          },
+          "coords": [
+            17.254,
+            45.145
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein guter Ausgangspunkt, um die Stadt mit dem Fahrrad zu erkunden.",
+            "hu": "Jó kiindulópont a város kerékpáros felfedezéséhez.",
+            "ro": "Un bun punct de plecare pentru a explora orașul cu bicicleta.",
+            "en": "A great starting point for exploring the city by bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Gradiška",
+            "hu": "Gradiškai Kulturális Központ",
+            "ro": "Centrul Cultural Gradiška",
+            "en": "Cultural Centre Gradiška"
+          },
+          "coords": [
+            17.252,
+            45.144
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:32",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Prüfen Sie das Programm auf eventuelle Abendveranstaltungen.",
+            "hu": "Nézze meg a programot az esetleges esti eseményekért.",
+            "ro": "Verificați programul pentru eventuale evenimente de seară.",
+            "en": "Check the program for any evening events."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark Mladen Stojanović",
+            "hu": "Mladen Stojanović városi park",
+            "ro": "Parcul Municipal Mladen Stojanović",
+            "en": "Mladen Stojanović City Park"
+          },
+          "coords": [
+            17.248,
+            45.143
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:05",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fahren Sie durch die Wege und genießen Sie die grüne Oase.",
+            "hu": "Kerékpározzon végig az ösvényeken, és élvezze a zöld oázist.",
+            "ro": "Plimbați-vă pe alei și bucurați-vă de oaza de verdeață.",
+            "en": "Ride through the paths and enjoy the green oasis."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum Gradiška",
+            "hu": "Gradiškai Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie Locală Gradiška",
+            "en": "Gradiška Heritage Museum"
+          },
+          "coords": [
+            17.253,
+            45.1465
+          ],
+          "category": "museums",
+          "arrive_at": "11:11",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie das Museum betreten.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt belép a múzeumba.",
+            "ro": "Asigurați-vă bicicleta înainte de a intra în muzeu.",
+            "en": "Lock your bike securely before entering the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Himmelfahrt der Jungfrau Maria",
+            "hu": "Szűz Mária Mennybemenetele templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Assumption of the Virgin Mary"
+          },
+          "coords": [
+            17.2555,
+            45.146
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:43",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Halt, um die Architektur zu bewundern.",
+            "hu": "Egy rövid megálló az építészet megcsodálására.",
+            "ro": "O oprire scurtă pentru a admira arhitectura.",
+            "en": "A quick stop to admire the architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Sava-Uferpromenade",
+            "hu": "Száva-parti sétány",
+            "ro": "Promenada de pe malul râului Sava",
+            "en": "Sava River Promenade"
+          },
+          "coords": [
+            17.256,
+            45.149
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:16",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fahren Sie am Fluss entlang und genießen Sie die Aussicht auf die Sava-Brücke.",
+            "hu": "Kerékpározzon a folyó mentén, és élvezze a kilátást a Száva-hídra.",
+            "ro": "Pedalați de-a lungul râului și bucurați-vă de vederea spre Podul Sava.",
+            "en": "Cycle along the river and enjoy the view of the Sava Bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Sava-Brücke",
+            "hu": "Száva-híd",
+            "ro": "Podul Sava",
+            "en": "Sava Bridge"
+          },
+          "coords": [
+            17.258,
+            45.15
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:28",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein beeindruckendes Bauwerk, das Bosnien und Herzegowina mit Kroatien verbindet.",
+            "hu": "Lenyűgöző építmény, amely összeköti Bosznia-Hercegovinát Horvátországgal.",
+            "ro": "O structură impresionantă care leagă Bosnia și Herțegovina de Croația.",
+            "en": "An impressive structure connecting Bosnia and Herzegovina with Croatia."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und starten Sie am Husein-kapetan Gradaščević Platz. Eine kurze Fahrt führt Sie zum Kulturzentrum und dann zur Erholung in den Stadtpark. Nach einer Dosis Geschichte im Heimatmuseum und einem Moment der Besinnung in der Kirche radeln Sie zur Sava-Promenade. Der Höhepunkt der Tour ist die Fahrt zur und die Aussicht von der Sava-Brücke, die zwei Länder verbindet.",
+        "hu": "Pattanjon kerékpárra, és induljon a Husein-kapetan Gradaščević térről. Egy rövid tekerés a Kulturális Központhoz, majd pihenés a városi parkban. A helytörténeti múzeumban szerzett történelmi ismeretek és a templomban töltött elmélkedő pillanatok után a Száva-parti sétányra biciklizik. A túra csúcspontja a két országot összekötő Száva-hídhoz vezető út és az onnan nyíló kilátás.",
+        "ro": "Urcați-vă pe bicicletă și porniți din Piața Husein-kapetan Gradaščević. O scurtă plimbare vă duce la Centrul Cultural și apoi la relaxare în parcul orașului. După o doză de istorie la Muzeul de Istorie Locală și un moment de contemplare la biserică, pedalați spre promenada de pe Sava. Punctul culminant al turului este plimbarea până la Podul Sava și priveliștea de pe acesta, care leagă două țări.",
+        "en": "Hop on your bike and start at Husein-kapetan Gradaščević Square. A short ride takes you to the Cultural Centre and then for a break in the city park. After a dose of history at the Heritage Museum and a moment of reflection at the church, you'll cycle to the Sava Promenade. The highlight of the tour is the ride to and the view from the Sava Bridge, connecting two countries."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ćevapi",
+            "tip": "Probieren Sie die bosnische Spezialität in einem der lokalen Grillrestaurants."
+          },
+          {
+            "name": "Bureks",
+            "tip": "Ein herzhafter Snack, perfekt für zwischendurch, erhältlich in Bäckereien (pekara)."
+          },
+          {
+            "name": "Fisch aus der Sava",
+            "tip": "Genießen Sie frisch gefangenen Fisch in einem Restaurant am Flussufer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ćevapi",
+            "tip": "Kóstolja meg ezt a bosnyák specialitást a helyi grilléttermek egyikében."
+          },
+          {
+            "name": "Burek",
+            "tip": "Kiváló sós harapnivaló útközben, pékségekben (pekara) kapható."
+          },
+          {
+            "name": "Szávai hal",
+            "tip": "Élvezze a frissen fogott halat egy folyóparti étteremben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ćevapi",
+            "tip": "Încercați specialitatea bosniacă la unul dintre grătarele locale."
+          },
+          {
+            "name": "Burek",
+            "tip": "O gustare sărată, perfectă pentru drum, disponibilă la brutării (pekara)."
+          },
+          {
+            "name": "Pește de Sava",
+            "tip": "Savurați pește proaspăt prins la un restaurant de pe malul râului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ćevapi",
+            "tip": "Try the Bosnian specialty at one of the local grill restaurants."
+          },
+          {
+            "name": "Burek",
+            "tip": "A savory snack, perfect on the go, available at bakeries (pekara)."
+          },
+          {
+            "name": "Sava River Fish",
+            "tip": "Enjoy freshly caught fish at a riverside restaurant."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sava-Ufer",
+            "tip": "Finden Sie eine ruhige Bank und beobachten Sie das fließende Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stadtpark Mladen Stojanović",
+            "tip": "Entfliehen Sie dem Trubel der Stadt unter den alten Bäumen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang an der Sava-Brücke",
+            "tip": "Beobachten Sie, wie die Sonne über dem Fluss und Kroatien untergeht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Száva-part",
+            "tip": "Keressen egy csendes padot, és nézze a folyó áramlását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mladen Stojanović városi park",
+            "tip": "Meneküljön el a város zajától az öreg fák alatt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a Száva-hídnál",
+            "tip": "Nézze, ahogy a nap lemegy a folyó és Horvátország felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Sava",
+            "tip": "Găsiți o bancă liniștită și priviți apa curgând.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Municipal Mladen Stojanović",
+            "tip": "Evadați din agitația orașului sub copacii bătrâni.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus la Podul Sava",
+            "tip": "Priviți soarele apunând peste râu și Croația.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sava Riverbank",
+            "tip": "Find a quiet bench and watch the water flow by.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mladen Stojanović City Park",
+            "tip": "Escape the city bustle under the old trees.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset at the Sava Bridge",
+            "tip": "Watch the sun set over the river and Croatia.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach frischen Produkten und handgemachten Waren."
+          },
+          {
+            "name": "Souvenirläden",
+            "tip": "Finden Sie kleine Andenken wie Magnete oder Postkarten mit Motiven der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen friss termékeket és kézműves árukat."
+          },
+          {
+            "name": "Ajándékboltok",
+            "tip": "Találjon apró emléktárgyakat, például mágneseket vagy képeslapokat a város motívumaival."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse proaspete și articole de artizanat."
+          },
+          {
+            "name": "Magazine de suveniruri",
+            "tip": "Găsiți mici amintiri, cum ar fi magneți sau cărți poștale cu motive ale orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for fresh produce and handmade goods."
+          },
+          {
+            "name": "Souvenir Shops",
+            "tip": "Find small keepsakes like magnets or postcards with city motifs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt.",
+          "Die Stadt ist relativ flach und fahrradfreundlich.",
+          "Einige Abschnitte entlang der Sava sind ideal für eine gemütliche Radtour.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, wenn Sie es abstellen.",
+          "Ein Helm wird für Ihre Sicherheit empfohlen."
+        ],
+        "hu": [
+          "Ellenőrizze a kerékpárját indulás előtt.",
+          "A város viszonylag sík és kerékpárbarát.",
+          "A Száva menti egyes szakaszok ideálisak egy kényelmes kerékpártúrához.",
+          "Mindig zárja le jól a kerékpárját, ha leteszi.",
+          "A biztonság érdekében sisak viselése ajánlott."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni.",
+          "Orașul este relativ plat și prietenos cu bicicletele.",
+          "Unele secțiuni de-a lungul râului Sava sunt ideale pentru o plimbare relaxantă cu bicicleta.",
+          "Asigurați-vă întotdeauna bicicleta când o parcați.",
+          "Se recomandă purtarea căștii pentru siguranța dumneavoastră."
+        ],
+        "en": [
+          "Check your bike before you set off.",
+          "The city is relatively flat and bike-friendly.",
+          "Some sections along the Sava are ideal for a leisurely bike ride.",
+          "Always lock your bike securely when you park it.",
+          "A helmet is recommended for your safety."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtpark Mladen Stojanović (Parkplatz)",
+            "hu": "Mladen Stojanović városi park (parkoló)",
+            "ro": "Parcul Municipal Mladen Stojanović (parcare)",
+            "en": "Mladen Stojanović City Park (Parking)"
+          },
+          "coords": [
+            17.248,
+            45.143
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:15",
+          "stay_min": 45,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Parken Sie hier (Cluster A) und beginnen Sie den Tag mit einem Spaziergang im Park.",
+            "hu": "Parkoljon le itt (A klaszter), és kezdje a napot egy sétával a parkban.",
+            "ro": "Parcați aici (Cluster A) și începeți ziua cu o plimbare în parc.",
+            "en": "Park here (Cluster A) and start the day with a walk in the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Gradiška",
+            "hu": "Gradiškai Kulturális Központ",
+            "ro": "Centrul Cultural Gradiška",
+            "en": "Cultural Centre Gradiška"
+          },
+          "coords": [
+            17.252,
+            45.144
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:08",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Park zum kulturellen Herzen der Stadt.",
+            "hu": "Egy rövid séta a parktól a város kulturális szívéig.",
+            "ro": "O scurtă plimbare de la parc la inima culturală a orașului.",
+            "en": "A short walk from the park to the cultural heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Husein-kapetan Gradaščević Platz",
+            "hu": "Husein-kapetan Gradaščević tér",
+            "ro": "Piața Husein-kapetan Gradaščević",
+            "en": "Husein-kapetan Gradaščević Square"
+          },
+          "coords": [
+            17.254,
+            45.145
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:42",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die Atmosphäre des Hauptplatzes, bevor Sie zum Auto zurückkehren.",
+            "hu": "Élje át a főtér hangulatát, mielőtt visszatérne az autóhoz.",
+            "ro": "Experimentați atmosfera pieței principale înainte de a vă întoarce la mașină.",
+            "en": "Experience the atmosphere of the main square before returning to the car."
+          }
+        },
+        {
+          "name": {
+            "de": "Sava-Uferpromenade (Parkplatz)",
+            "hu": "Száva-parti sétány (parkoló)",
+            "ro": "Promenada Sava (parcare)",
+            "en": "Sava Promenade (Parking)"
+          },
+          "coords": [
+            17.256,
+            45.149
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:27",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Cluster B und parken Sie in der Nähe der Promenade für den Rest des Tages.",
+            "hu": "Vezessen a B klaszterhez, és parkoljon a sétány közelében a nap hátralévő részére.",
+            "ro": "Conduceți spre Cluster B și parcați lângă promenadă pentru restul zilei.",
+            "en": "Drive to Cluster B and park near the promenade for the rest of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum Gradiška",
+            "hu": "Gradiškai Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie Locală Gradiška",
+            "en": "Gradiška Heritage Museum"
+          },
+          "coords": [
+            17.253,
+            45.1465
+          ],
+          "category": "museums",
+          "arrive_at": "12:35",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Vom Flussufer aus leicht zu Fuß erreichbar.",
+            "hu": "Könnyen megközelíthető gyalog a folyópartról.",
+            "ro": "Ușor accesibil pe jos de pe malul râului.",
+            "en": "Easily accessible on foot from the riverbank."
+          }
+        },
+        {
+          "name": {
+            "de": "Sava-Brücke",
+            "hu": "Száva-híd",
+            "ro": "Podul Sava",
+            "en": "Sava Bridge"
+          },
+          "coords": [
+            17.258,
+            45.15
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:45",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der Spaziergang zur Brücke bietet tolle Fotomotive des Flusses.",
+            "hu": "A hídhoz vezető séta remek fotózási lehetőségeket kínál a folyóról.",
+            "ro": "Plimbarea până la pod oferă oportunități excelente de fotografiere a râului.",
+            "en": "The walk to the bridge offers great photo opportunities of the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren motorisierten Ausflug im Stadtpark (Cluster A), wo Sie Ihr Auto abstellen. Erkunden Sie den Park, das Kulturzentrum und den Hauptplatz zu Fuß. Am späten Vormittag fahren Sie zum Flussufer (Cluster B). Parken Sie erneut und verbringen Sie den Nachmittag damit, die Sava-Promenade, das nahegelegene Museum und die beeindruckende Sava-Brücke zu Fuß zu entdecken. Diese Cluster-Strategie verbindet den Komfort des Autos mit entspannten Spaziergängen.",
+        "hu": "Kezdje autós kirándulását a városi parkban (A klaszter), ahol leparkol. Fedezze fel gyalog a parkot, a kulturális központot és a főteret. Késő délelőtt vezessen a folyóparthoz (B klaszter). Parkoljon le újra, és töltse a délutánt a Száva-sétány, a közeli múzeum és a lenyűgöző Száva-híd gyalogos felfedezésével. Ez a klaszter-stratégia ötvözi az autó kényelmét a pihentető sétákkal.",
+        "ro": "Începeți excursia motorizată în parcul orașului (Cluster A), unde vă lăsați mașina. Explorați parcul, centrul cultural și piața principală pe jos. Spre sfârșitul dimineții, conduceți spre malul râului (Cluster B). Parcați din nou și petreceți după-amiaza descoperind pe jos promenada Sava, muzeul din apropiere și impresionantul pod Sava. Această strategie de clustere combină confortul mașinii cu plimbări relaxante.",
+        "en": "Start your motorized trip at the city park (Cluster A), where you park your car. Explore the park, the cultural center, and the main square on foot. In the late morning, drive to the riverfront (Cluster B). Park again and spend the afternoon discovering the Sava promenade, the nearby museum, and the impressive Sava bridge on foot. This cluster strategy combines the convenience of the car with relaxing walks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ćevapi",
+            "tip": "Probieren Sie die bosnische Spezialität in einem der lokalen Grillrestaurants."
+          },
+          {
+            "name": "Bureks",
+            "tip": "Ein herzhafter Snack, perfekt für zwischendurch, erhältlich in Bäckereien (pekara)."
+          },
+          {
+            "name": "Fisch aus der Sava",
+            "tip": "Genießen Sie frisch gefangenen Fisch in einem Restaurant am Flussufer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ćevapi",
+            "tip": "Kóstolja meg ezt a bosnyák specialitást a helyi grilléttermek egyikében."
+          },
+          {
+            "name": "Burek",
+            "tip": "Kiváló sós harapnivaló útközben, pékségekben (pekara) kapható."
+          },
+          {
+            "name": "Szávai hal",
+            "tip": "Élvezze a frissen fogott halat egy folyóparti étteremben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ćevapi",
+            "tip": "Încercați specialitatea bosniacă la unul dintre grătarele locale."
+          },
+          {
+            "name": "Burek",
+            "tip": "O gustare sărată, perfectă pentru drum, disponibilă la brutării (pekara)."
+          },
+          {
+            "name": "Pește de Sava",
+            "tip": "Savurați pește proaspăt prins la un restaurant de pe malul râului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ćevapi",
+            "tip": "Try the Bosnian specialty at one of the local grill restaurants."
+          },
+          {
+            "name": "Burek",
+            "tip": "A savory snack, perfect on the go, available at bakeries (pekara)."
+          },
+          {
+            "name": "Sava River Fish",
+            "tip": "Enjoy freshly caught fish at a riverside restaurant."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sava-Ufer",
+            "tip": "Finden Sie eine ruhige Bank und beobachten Sie das fließende Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stadtpark Mladen Stojanović",
+            "tip": "Entfliehen Sie dem Trubel der Stadt unter den alten Bäumen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang an der Sava-Brücke",
+            "tip": "Beobachten Sie, wie die Sonne über dem Fluss und Kroatien untergeht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Száva-part",
+            "tip": "Keressen egy csendes padot, és nézze a folyó áramlását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mladen Stojanović városi park",
+            "tip": "Meneküljön el a város zajától az öreg fák alatt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a Száva-hídnál",
+            "tip": "Nézze, ahogy a nap lemegy a folyó és Horvátország felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Sava",
+            "tip": "Găsiți o bancă liniștită și priviți apa curgând.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Municipal Mladen Stojanović",
+            "tip": "Evadați din agitația orașului sub copacii bătrâni.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus la Podul Sava",
+            "tip": "Priviți soarele apunând peste râu și Croația.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sava Riverbank",
+            "tip": "Find a quiet bench and watch the water flow by.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mladen Stojanović City Park",
+            "tip": "Escape the city bustle under the old trees.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset at the Sava Bridge",
+            "tip": "Watch the sun set over the river and Croatia.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach frischen Produkten und handgemachten Waren."
+          },
+          {
+            "name": "Souvenirläden",
+            "tip": "Finden Sie kleine Andenken wie Magnete oder Postkarten mit Motiven der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen friss termékeket és kézműves árukat."
+          },
+          {
+            "name": "Ajándékboltok",
+            "tip": "Találjon apró emléktárgyakat, például mágneseket vagy képeslapokat a város motívumaival."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse proaspete și articole de artizanat."
+          },
+          {
+            "name": "Magazine de suveniruri",
+            "tip": "Găsiți mici amintiri, cum ar fi magneți sau cărți poștale cu motive ale orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for fresh produce and handmade goods."
+          },
+          {
+            "name": "Souvenir Shops",
+            "tip": "Find small keepsakes like magnets or postcards with city motifs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf Parkmöglichkeiten; in der Nähe der Hauptattraktionen gibt es oft kostenpflichtige Parkplätze.",
+          "Ein Auto gibt Ihnen die Flexibilität, auch die Umgebung von Gradiška zu erkunden.",
+          "Die Straßen sind in der Regel in gutem Zustand.",
+          "Kombinieren Sie Autofahrten zwischen Stadtteilen mit Spaziergängen innerhalb der Viertel.",
+          "Laden Sie eine Offline-Karte herunter, um die Navigation zu erleichtern."
+        ],
+        "hu": [
+          "Figyeljen a parkolási lehetőségekre; a fő látnivalók közelében gyakran fizetős parkolók vannak.",
+          "Az autó rugalmasságot biztosít Gradiška környékének felfedezéséhez is.",
+          "Az utak általában jó állapotban vannak.",
+          "Kombinálja a városrészek közötti autóutakat a negyedeken belüli sétákkal.",
+          "Töltsön le egy offline térképet a könnyebb navigáció érdekében."
+        ],
+        "ro": [
+          "Fiți atenți la opțiunile de parcare; există adesea parcări cu plată în apropierea atracțiilor principale.",
+          "O mașină vă oferă flexibilitatea de a explora și împrejurimile orașului Gradiška.",
+          "Drumurile sunt în general în stare bună.",
+          "Combinați călătoriile cu mașina între cartiere cu plimbări în interiorul acestora.",
+          "Descărcați o hartă offline pentru a facilita navigarea."
+        ],
+        "en": [
+          "Pay attention to parking options; there are often paid parking lots near the main attractions.",
+          "A car gives you the flexibility to also explore the surroundings of Gradiška.",
+          "The roads are generally in good condition.",
+          "Combine car trips between districts with walks within the neighborhoods.",
+          "Download an offline map to make navigation easier."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Busbahnhof (Ankunft)",
+            "hu": "Buszpályaudvar (érkezés)",
+            "ro": "Autogară (sosire)",
+            "en": "Bus Station (Arrival)"
+          },
+          "coords": [
+            17.25,
+            45.142
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Tour am zentralen Knotenpunkt des öffentlichen Nahverkehrs.",
+            "hu": "Kezdje a túrát a tömegközlekedés központi csomópontjánál.",
+            "ro": "Începeți turul de la nodul central de transport public.",
+            "en": "Start your tour at the central public transport hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Husein-kapetan Gradaščević Platz",
+            "hu": "Husein-kapetan Gradaščević tér",
+            "ro": "Piața Husein-kapetan Gradaščević",
+            "en": "Husein-kapetan Gradaščević Square"
+          },
+          "coords": [
+            17.254,
+            45.145
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:28",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Busbahnhof zum Herzen der Stadt.",
+            "hu": "Egy rövid séta a buszpályaudvartól a város szívéig.",
+            "ro": "O scurtă plimbare de la autogară la inima orașului.",
+            "en": "A short walk from the bus station to the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum Gradiška",
+            "hu": "Gradiškai Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie Locală Gradiška",
+            "en": "Gradiška Heritage Museum"
+          },
+          "coords": [
+            17.253,
+            45.1465
+          ],
+          "category": "museums",
+          "arrive_at": "10:04",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die Geschichte, alles in Laufnähe.",
+            "hu": "Merüljön el a történelemben, minden sétatávolságra van.",
+            "ro": "Scufundați-vă în istorie, totul la distanță de mers pe jos.",
+            "en": "Immerse yourself in history, all within walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Sava-Uferpromenade (Bushaltestelle)",
+            "hu": "Száva-parti sétány (buszmegálló)",
+            "ro": "Promenada Sava (stație de autobuz)",
+            "en": "Sava Promenade (Bus Stop)"
+          },
+          "coords": [
+            17.256,
+            45.149
+          ],
+          "category": "transport",
+          "arrive_at": "12:16",
+          "stay_min": 10,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 3,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum zweiten Cluster am Flussufer.",
+            "hu": "Vegyen egy buszt a második, folyóparti klaszterhez.",
+            "ro": "Luați un autobuz spre al doilea cluster de pe malul râului.",
+            "en": "Take a bus to the second cluster on the riverfront."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische archäologische Stätte Servitium",
+            "hu": "Servitium római régészeti lelőhely",
+            "ro": "Situl arheologic roman Servitium",
+            "en": "Roman archaeological site Servitium"
+          },
+          "coords": [
+            17.25,
+            45.148
+          ],
+          "category": "historical",
+          "arrive_at": "12:34",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die antiken Ruinen nach einer kurzen Busfahrt.",
+            "hu": "Fedezze fel az ókori romokat egy rövid buszozás után.",
+            "ro": "Explorați ruinele antice după o scurtă călătorie cu autobuzul.",
+            "en": "Explore the ancient ruins after a short bus ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Sava-Brücke",
+            "hu": "Száva-híd",
+            "ro": "Podul Sava",
+            "en": "Sava Bridge"
+          },
+          "coords": [
+            17.258,
+            45.15
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:10",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Spaziergang zur Brücke und genießen Sie die grenzüberschreitende Aussicht.",
+            "hu": "Zárja a napot egy sétával a hídhoz, és élvezze a határokon átnyúló kilátást.",
+            "ro": "Încheiați ziua cu o plimbare la pod, bucurându-vă de priveliștea transfrontalieră.",
+            "en": "End the day with a walk to the bridge, enjoying the cross-border view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Tour mit öffentlichen Verkehrsmitteln beginnt am Busbahnhof. Der erste Spaziergang führt Sie ins Stadtzentrum (Cluster A), wo Sie den Hauptplatz und das Museum erkunden. Am Mittag nehmen Sie einen Bus zum Sava-Ufer (Cluster B). Von dort aus entdecken Sie die römischen Ruinen und die beeindruckende Sava-Brücke zu Fuß. Diese Methode ist effizient und lässt Sie die Stadt wie ein Einheimischer erleben.",
+        "hu": "Tömegközlekedési túrája a buszpályaudvaron kezdődik. Az első séta a városközpontba (A klaszter) vezet, ahol felfedezi a főteret és a múzeumot. Délben busszal utazik a Száva-parthoz (B klaszter). Onnan gyalogosan fedezi fel a római romokat és a lenyűgöző Száva-hidat. Ez a módszer hatékony, és lehetővé teszi, hogy úgy élje át a várost, mint egy helyi.",
+        "ro": "Turul dvs. cu transportul public începe la autogară. Prima plimbare vă duce în centrul orașului (Cluster A), unde explorați piața principală și muzeul. La prânz, luați un autobuz spre malul râului Sava (Cluster B). De acolo, descoperiți pe jos ruinele romane și impresionantul pod Sava. Această metodă este eficientă și vă permite să experimentați orașul ca un localnic.",
+        "en": "Your public transport tour starts at the bus station. The first walk takes you to the city center (Cluster A), where you explore the main square and the museum. At noon, you take a bus to the Sava riverfront (Cluster B). From there, you discover the Roman ruins and the impressive Sava Bridge on foot. This method is efficient and lets you experience the city like a local."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ćevapi",
+            "tip": "Probieren Sie die bosnische Spezialität in einem der lokalen Grillrestaurants."
+          },
+          {
+            "name": "Bureks",
+            "tip": "Ein herzhafter Snack, perfekt für zwischendurch, erhältlich in Bäckereien (pekara)."
+          },
+          {
+            "name": "Fisch aus der Sava",
+            "tip": "Genießen Sie frisch gefangenen Fisch in einem Restaurant am Flussufer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ćevapi",
+            "tip": "Kóstolja meg ezt a bosnyák specialitást a helyi grilléttermek egyikében."
+          },
+          {
+            "name": "Burek",
+            "tip": "Kiváló sós harapnivaló útközben, pékségekben (pekara) kapható."
+          },
+          {
+            "name": "Szávai hal",
+            "tip": "Élvezze a frissen fogott halat egy folyóparti étteremben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ćevapi",
+            "tip": "Încercați specialitatea bosniacă la unul dintre grătarele locale."
+          },
+          {
+            "name": "Burek",
+            "tip": "O gustare sărată, perfectă pentru drum, disponibilă la brutării (pekara)."
+          },
+          {
+            "name": "Pește de Sava",
+            "tip": "Savurați pește proaspăt prins la un restaurant de pe malul râului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ćevapi",
+            "tip": "Try the Bosnian specialty at one of the local grill restaurants."
+          },
+          {
+            "name": "Burek",
+            "tip": "A savory snack, perfect on the go, available at bakeries (pekara)."
+          },
+          {
+            "name": "Sava River Fish",
+            "tip": "Enjoy freshly caught fish at a riverside restaurant."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sava-Ufer",
+            "tip": "Finden Sie eine ruhige Bank und beobachten Sie das fließende Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stadtpark Mladen Stojanović",
+            "tip": "Entfliehen Sie dem Trubel der Stadt unter den alten Bäumen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang an der Sava-Brücke",
+            "tip": "Beobachten Sie, wie die Sonne über dem Fluss und Kroatien untergeht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Száva-part",
+            "tip": "Keressen egy csendes padot, és nézze a folyó áramlását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mladen Stojanović városi park",
+            "tip": "Meneküljön el a város zajától az öreg fák alatt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a Száva-hídnál",
+            "tip": "Nézze, ahogy a nap lemegy a folyó és Horvátország felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Sava",
+            "tip": "Găsiți o bancă liniștită și priviți apa curgând.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Municipal Mladen Stojanović",
+            "tip": "Evadați din agitația orașului sub copacii bătrâni.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus la Podul Sava",
+            "tip": "Priviți soarele apunând peste râu și Croația.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sava Riverbank",
+            "tip": "Find a quiet bench and watch the water flow by.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mladen Stojanović City Park",
+            "tip": "Escape the city bustle under the old trees.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset at the Sava Bridge",
+            "tip": "Watch the sun set over the river and Croatia.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach frischen Produkten und handgemachten Waren."
+          },
+          {
+            "name": "Souvenirläden",
+            "tip": "Finden Sie kleine Andenken wie Magnete oder Postkarten mit Motiven der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen friss termékeket és kézműves árukat."
+          },
+          {
+            "name": "Ajándékboltok",
+            "tip": "Találjon apró emléktárgyakat, például mágneseket vagy képeslapokat a város motívumaival."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse proaspete și articole de artizanat."
+          },
+          {
+            "name": "Magazine de suveniruri",
+            "tip": "Găsiți mici amintiri, cum ar fi magneți sau cărți poștale cu motive ale orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for fresh produce and handmade goods."
+          },
+          {
+            "name": "Souvenir Shops",
+            "tip": "Find small keepsakes like magnets or postcards with city motifs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich über die Buslinien und Fahrpläne.",
+          "Eine Tageskarte könnte eine kostengünstige Option sein.",
+          "Die Busse sind eine gute Möglichkeit, schnell zwischen den weiter entfernten Stadtteilen zu wechseln.",
+          "Halten Sie Kleingeld für die Tickets bereit.",
+          "Seien Sie pünktlich an der Haltestelle, besonders bei weniger frequentierten Linien."
+        ],
+        "hu": [
+          "Tájékozódjon a buszjáratokról és a menetrendekről.",
+          "Egy napijegy költséghatékony megoldás lehet.",
+          "A buszok jó lehetőséget kínálnak a távolabbi városrészek közötti gyors közlekedésre.",
+          "Tartson magánál aprópénzt a jegyekhez.",
+          "Legyen pontos a megállóban, különösen a ritkábban közlekedő járatoknál."
+        ],
+        "ro": [
+          "Informați-vă despre rutele și orarele autobuzelor.",
+          "Un bilet de o zi ar putea fi o opțiune rentabilă.",
+          "Autobuzele sunt o modalitate bună de a comuta rapid între cartierele mai îndepărtate.",
+          "Aveți la îndemână bani mărunți pentru bilete.",
+          "Fiți punctuali la stație, în special pentru liniile mai puțin frecvente."
+        ],
+        "en": [
+          "Find out about the bus routes and schedules.",
+          "A day ticket could be a cost-effective option.",
+          "Buses are a good way to quickly switch between the more distant districts.",
+          "Have small change ready for the tickets.",
+          "Be on time at the bus stop, especially for less frequent lines."
+        ]
+      }
+    }
+  }
+}

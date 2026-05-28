@@ -1,0 +1,1244 @@
+{
+  "city_id": "uk-watford-cities-v2",
+  "anchor": {
+    "name": "Watford",
+    "coords": [
+      -0.3903,
+      51.6565
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 4.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Atria Watford Einkaufszentrum",
+            "hu": "Atria Watford Bevásárlóközpont",
+            "ro": "Centrul Comercial Atria Watford",
+            "en": "Atria Watford Shopping Centre"
+          },
+          "coords": [
+            -0.3948,
+            51.6552
+          ],
+          "category": "shopping",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier für einen Kaffee, bevor die Geschäfte öffnen.",
+            "hu": "Kezdje a napot egy kávéval itt, mielőtt kinyitnak az üzletek.",
+            "ro": "Începeți cu o cafea aici înainte de deschiderea magazinelor.",
+            "en": "Start here for a coffee before the shops properly open."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Marienkirche",
+            "hu": "Szent Mária-templom",
+            "ro": "Biserica St Mary's",
+            "en": "St Mary's Church"
+          },
+          "coords": [
+            -0.3919,
+            51.6543
+          ],
+          "category": "churches",
+          "arrive_at": "10:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie die schönen Buntglasfenster und die alte Orgel.",
+            "hu": "Figyelje meg a gyönyörű ólomüveg ablakokat és a régi orgonát.",
+            "ro": "Observați vitraliile frumoase și orga veche.",
+            "en": "Note the beautiful stained glass windows and the old organ."
+          }
+        },
+        {
+          "name": {
+            "de": "Watford Museum",
+            "hu": "Watfordi Múzeum",
+            "ro": "Muzeul Watford",
+            "en": "Watford Museum"
+          },
+          "coords": [
+            -0.4001,
+            51.6521
+          ],
+          "category": "museums",
+          "arrive_at": "11:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Ausstellungen zur lokalen Druck- und Braugeschichte.",
+            "hu": "Fókuszáljon a helyi nyomdászat és sörfőzés történetét bemutató kiállításokra.",
+            "ro": "Concentrați-vă pe expozițiile despre istoria locală a tiparului și berii.",
+            "en": "Focus on the exhibitions about local printing and brewing history."
+          }
+        },
+        {
+          "name": {
+            "de": "Watford Palace Theatre",
+            "hu": "Watford Palace Színház",
+            "ro": "Teatrul Watford Palace",
+            "en": "Watford Palace Theatre"
+          },
+          "coords": [
+            -0.3908,
+            51.6582
+          ],
+          "category": "theatres",
+          "arrive_at": "12:53",
+          "stay_min": 25,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto von der Edwardischen Fassade, auch wenn Sie keine Vorstellung besuchen.",
+            "hu": "Készítsen egy fotót az edwardiánus homlokzatról, még ha nem is megy előadásra.",
+            "ro": "Faceți o fotografie a fațadei edwardiene, chiar dacă nu mergeți la un spectacol.",
+            "en": "Snap a photo of the Edwardian facade even if not seeing a show."
+          }
+        },
+        {
+          "name": {
+            "de": "Cassiobury Park",
+            "hu": "Cassiobury Park",
+            "ro": "Parcul Cassiobury",
+            "en": "Cassiobury Park"
+          },
+          "coords": [
+            -0.4185,
+            51.6601
+          ],
+          "category": "parks",
+          "arrive_at": "13:52",
+          "stay_min": 120,
+          "hop_from_prev_min": 34,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekt für ein Picknick-Mittagessen. Finden Sie einen Platz am Kanal.",
+            "hu": "Tökéletes egy piknik ebédhez. Keressen egy helyet a csatorna partján.",
+            "ro": "Perfect pentru un prânz la picnic. Găsiți un loc lângă canal.",
+            "en": "Perfect for a picnic lunch. Find a spot by the Grand Union Canal."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einem Schaufensterbummel im Atria, bevor Sie in der St. Mary's Church in die lokale Geschichte eintauchen. Nach einem lehrreichen Besuch im Watford Museum führt Sie ein kurzer Spaziergang zum historischen Palace Theatre. Der Nachmittag ist ganz der Entspannung und Natur im weitläufigen Cassiobury Park gewidmet, wo Sie am Kanal entlang spazieren oder einfach die grüne Oase genießen können.",
+        "hu": "A nap az Atria kirakatainak nézegetésével kezdődik, mielőtt elmerülne a helyi történelemben a Szent Mária-templomban. A Watfordi Múzeumban tett tanulságos látogatás után egy rövid séta a történelmi Palace Színházhoz vezet. A délutánt teljes egészében a pihenésnek és a természetnek szentelheti a tágas Cassiobury Parkban, ahol sétálhat a csatorna mentén, vagy egyszerűen élvezheti a zöld oázist.",
+        "ro": "Ziua dvs. începe cu o privire la vitrinele din Atria înainte de a vă cufunda în istoria locală la Biserica St Mary's. După o vizită educativă la Muzeul Watford, o scurtă plimbare vă duce la istoricul Teatru Palace. După-amiaza este dedicată în întregime relaxării și naturii în vastul Parc Cassiobury, unde vă puteți plimba de-a lungul canalului sau pur și simplu să vă bucurați de oaza de verdeață.",
+        "en": "Your day begins with some window shopping at Atria before delving into local history at St Mary's Church. After an educational visit to Watford Museum, a short stroll takes you to the historic Palace Theatre. The afternoon is all about relaxation and nature in the expansive Cassiobury Park, where you can wander along the canal or simply enjoy the green oasis."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Hornets' Nest",
+            "tip": "Ein traditioneller Pub in der Nähe des Stadions, ideal für ein Pint und einen Pie."
+          },
+          {
+            "name": "Tarboush",
+            "tip": "Authentische libanesische Küche mit großartigen Mezze-Platten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Hornets' Nest",
+            "tip": "Hagyományos pub a stadion közelében, ideális egy korsó sörhöz és egy pitéhez."
+          },
+          {
+            "name": "Tarboush",
+            "tip": "Autentikus libanoni konyha, remek mezze tálakkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Hornets' Nest",
+            "tip": "Un pub tradițional lângă stadion, excelent pentru o halbă și o plăcintă."
+          },
+          {
+            "name": "Tarboush",
+            "tip": "Bucătărie libaneză autentică, cu platouri mezze grozave."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Hornets' Nest",
+            "tip": "A traditional pub near the stadium, great for a pint and a pie."
+          },
+          {
+            "name": "Tarboush",
+            "tip": "Authentic Lebanese cuisine with great mezze platters to share."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cheslyn House and Gardens",
+            "tip": "Ein verstecktes Juwel, perfekt für einen ruhigen Spaziergang.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang am Grand Union Canal",
+            "tip": "Ein friedlicher Weg, um dem Trubel der Stadt zu entfliehen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cheslyn House and Gardens",
+            "tip": "Egy rejtett gyöngyszem, tökéletes egy csendes sétához.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Séta a Grand Union csatorna mentén",
+            "tip": "Békés útvonal a városi nyüzsgés elől.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cheslyn House and Gardens",
+            "tip": "O bijuterie ascunsă, perfectă pentru o plimbare liniștită.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare pe Canalul Grand Union",
+            "tip": "O cale pașnică de a evada din agitația orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cheslyn House and Gardens",
+            "tip": "A hidden gem perfect for a quiet, contemplative stroll.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grand Union Canal Walk",
+            "tip": "A peaceful way to escape the town's hustle and bustle.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Watford Market",
+            "tip": "Entdecken Sie lokale Produkte und einzigartige Fundstücke."
+          },
+          {
+            "name": "The Intu Gift Card",
+            "tip": "Eine gute Option, wenn Sie sich nicht für ein Geschenk entscheiden können."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Watfordi piac",
+            "tip": "Fedezze fel a helyi termékeket és egyedi leleteket."
+          },
+          {
+            "name": "The Intu Ajándékkártya",
+            "tip": "Jó választás, ha nem tud ajándékot választani."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Watford",
+            "tip": "Explorați produsele locale și descoperiți lucruri unice."
+          },
+          {
+            "name": "Card Cadou Intu",
+            "tip": "O opțiune bună dacă nu vă puteți decide asupra unui cadou."
+          }
+        ],
+        "en": [
+          {
+            "name": "Watford Market",
+            "tip": "Explore for local produce and unique finds."
+          },
+          {
+            "name": "The Intu Gift Card",
+            "tip": "A good option if you can't decide on a gift."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Prüfen Sie die Öffnungszeiten des Watford Museums im Voraus.",
+          "Der Cassiobury Park ist riesig, planen Sie also, welchen Teil Sie sehen möchten.",
+          "Die meisten Geschäfte im Zentrum akzeptieren kontaktlose Zahlungen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "Ellenőrizze előre a Watfordi Múzeum nyitvatartását.",
+          "A Cassiobury Park hatalmas, tervezze meg, melyik részét szeretné megnézni.",
+          "A legtöbb belvárosi üzlet elfogad érintésmentes fizetést."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe jos.",
+          "Verificați programul Muzeului Watford în avans.",
+          "Parcul Cassiobury este imens, planificați ce parte doriți să vedeți.",
+          "Majoritatea magazinelor din centru acceptă plăți contactless."
+        ],
+        "en": [
+          "Wear comfortable shoes as this itinerary involves a lot of walking.",
+          "Check the opening times for the Watford Museum in advance.",
+          "Cassiobury Park is huge, so plan which part you want to see.",
+          "Most central shops accept contactless payments."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Atria Watford",
+            "hu": "Atria Watford",
+            "ro": "Atria Watford",
+            "en": "Atria Watford"
+          },
+          "coords": [
+            -0.3948,
+            51.6552
+          ],
+          "category": "squares",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Suchen Sie sich einen sicheren Fahrradständer in der Nähe des Haupteingangs.",
+            "hu": "Keressen egy biztonságos kerékpártárolót a főbejárat közelében.",
+            "ro": "Găsiți un suport de biciclete securizat lângă intrarea principală.",
+            "en": "Find a secure bike rack near the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Marienkirche",
+            "hu": "Szent Mária-templom",
+            "ro": "Biserica St Mary's",
+            "en": "St Mary's Church"
+          },
+          "coords": [
+            -0.3919,
+            51.6543
+          ],
+          "category": "churches",
+          "arrive_at": "09:52",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer, respektvoller Besuch, um die Architektur zu bewundern.",
+            "hu": "Egy rövid, tisztelettudó látogatás az építészet megcsodálására.",
+            "ro": "O vizită scurtă și respectuoasă pentru a admira arhitectura.",
+            "en": "A quick, respectful visit to admire the architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Vicarage Road Stadion",
+            "hu": "Vicarage Road Stadion",
+            "ro": "Stadionul Vicarage Road",
+            "en": "Vicarage Road Stadium"
+          },
+          "coords": [
+            -0.4015,
+            51.6498
+          ],
+          "category": "monuments",
+          "arrive_at": "10:32",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto vor dem Stadion, der Heimat des FC Watford.",
+            "hu": "Készítsen egy képet a stadion előtt, a Watford FC otthonánál.",
+            "ro": "Faceți o fotografie în fața stadionului, casa echipei Watford FC.",
+            "en": "Snap a picture outside the stadium, home of Watford FC."
+          }
+        },
+        {
+          "name": {
+            "de": "Woodside Park",
+            "hu": "Woodside Park",
+            "ro": "Parcul Woodside",
+            "en": "Woodside Park"
+          },
+          "coords": [
+            -0.3751,
+            51.6782
+          ],
+          "category": "parks",
+          "arrive_at": "11:12",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für eine kurze Pause und einen Snack.",
+            "hu": "Nagyszerű hely egy rövid pihenőre és egy harapnivalóra.",
+            "ro": "Un loc minunat pentru o pauză scurtă și o gustare.",
+            "en": "A great spot for a short break and a snack."
+          }
+        },
+        {
+          "name": {
+            "de": "Cheslyn House and Gardens",
+            "hu": "Cheslyn House and Gardens",
+            "ro": "Cheslyn House and Gardens",
+            "en": "Cheslyn House and Gardens"
+          },
+          "coords": [
+            -0.395,
+            51.671
+          ],
+          "category": "parks",
+          "arrive_at": "12:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und erkunden Sie die Themengärten.",
+            "hu": "Zárja le a kerékpárját és fedezze fel a tematikus kerteket.",
+            "ro": "Legați-vă bicicleta și explorați grădinile tematice.",
+            "en": "Lock up your bike and explore the themed garden areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Cassiobury Park",
+            "hu": "Cassiobury Park",
+            "ro": "Parcul Cassiobury",
+            "en": "Cassiobury Park"
+          },
+          "coords": [
+            -0.4185,
+            51.6601
+          ],
+          "category": "parks",
+          "arrive_at": "14:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie auf den ausgewiesenen Radwegen durch den Park.",
+            "hu": "Kerékpározzon a kijelölt kerékpárutakon a parkon keresztül.",
+            "ro": "Pedalați pe pistele de biciclete desemnate din parc.",
+            "en": "Ride along the designated cycle paths through the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am Atria, bevor Sie zum historischen Herzen der Stadt mit der St. Mary's Church und dem Vicarage Road Stadion radeln. Eine längere Fahrt führt Sie zu den grünen Weiten des Woodside Parks und den gepflegten Cheslyn Gardens, ideal für eine Mittagspause. Der Nachmittag ist für den größten Park von Watford, Cassiobury, reserviert, wo Sie kilometerlange Radwege erkunden können.",
+        "hu": "Kezdjen az Atriánál, mielőtt a város történelmi szívébe, a Szent Mária-templomhoz és a Vicarage Road Stadionhoz teker. Egy hosszabb út vezet a Woodside Park zöld területeihez és a gondozott Cheslyn Gardens-hez, ideális egy ebédszünethez. A délután Watford legnagyobb parkjáé, a Cassiobury-é, ahol kilométereken át kerékpárutakat fedezhet fel.",
+        "ro": "Începeți la Atria înainte de a pedala spre inima istorică a orașului, la Biserica St Mary's și Stadionul Vicarage Road. O plimbare mai lungă vă duce la întinderile verzi ale Parcului Woodside și la îngrijitele Grădini Cheslyn, ideale pentru o pauză de prânz. După-amiaza este rezervată celui mai mare parc din Watford, Cassiobury, unde puteți explora kilometri de piste de biciclete.",
+        "en": "Kick off at Atria before cycling to the town's historic heart at St Mary's Church and Vicarage Road Stadium. A longer ride takes you to the green expanses of Woodside Park and the manicured Cheslyn Gardens, ideal for a lunch stop. The afternoon is reserved for Watford's largest park, Cassiobury, where you can explore its miles of cycle paths."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Prince George",
+            "tip": "Ein fahrradfreundlicher Pub mit einem tollen Biergarten."
+          },
+          {
+            "name": "Ocean Bells Coffee",
+            "tip": "Bekannt als der beste Kaffee in Watford, perfekt für einen Energieschub."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Prince George",
+            "tip": "Kerékpárosbarát pub, nagyszerű sörkerttel."
+          },
+          {
+            "name": "Ocean Bells Coffee",
+            "tip": "Watford legjobb kávéjaként ismert, tökéletes egy energiafröccshöz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Prince George",
+            "tip": "Un pub prietenos cu bicicliștii, cu o grădină de bere grozavă."
+          },
+          {
+            "name": "Ocean Bells Coffee",
+            "tip": "Renumită ca fiind cea mai bună cafea din Watford, perfectă pentru un plus de energie."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Prince George",
+            "tip": "A bike-friendly pub with a great beer garden."
+          },
+          {
+            "name": "Ocean Bells Coffee",
+            "tip": "Known for the best coffee in Watford, perfect for a caffeine boost."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Whippendell Woods",
+            "tip": "Gleich neben Cassiobury, bietet es ruhigere, waldreichere Wege.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Teiche im Cassiobury Park",
+            "tip": "Ein ruhiger Ort, um Vögel zu beobachten.",
+            "emoji": "🦆"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Whippendell Woods",
+            "tip": "Közvetlenül a Cassiobury mellett, csendesebb, erdősebb utakat kínál.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Cassiobury Park tavai",
+            "tip": "Csendes hely a madármegfigyeléshez.",
+            "emoji": "🦆"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Whippendell",
+            "tip": "Chiar lângă Cassiobury, oferă poteci mai liniștite și mai împădurite.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Iazurile din Parcul Cassiobury",
+            "tip": "Un loc liniștit pentru a observa păsările.",
+            "emoji": "🦆"
+          }
+        ],
+        "en": [
+          {
+            "name": "Whippendell Woods",
+            "tip": "Just next to Cassiobury, offering quieter, more wooded trails.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Cassiobury Park Ponds",
+            "tip": "A tranquil spot for bird watching.",
+            "emoji": "🦆"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Watford Cycle Hub",
+            "tip": "Für alle Fahrradbedürfnisse oder Last-Minute-Reparaturen."
+          },
+          {
+            "name": "Fan-Shop des FC Watford",
+            "tip": "Besorgen Sie sich ein gelbes Trikot am Vicarage Road."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Watford Cycle Hub",
+            "tip": "Minden kerékpáros igényre vagy utolsó pillanatos javításra."
+          },
+          {
+            "name": "Watford FC szurkolói bolt",
+            "tip": "Szerezzen be egy sárga mezt a Vicarage Roadon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Watford Cycle Hub",
+            "tip": "Pentru orice nevoie de ciclism sau reparații de ultim moment."
+          },
+          {
+            "name": "Magazinul Fanilor Watford FC",
+            "tip": "Luați un tricou galben de la Vicarage Road."
+          }
+        ],
+        "en": [
+          {
+            "name": "Watford Cycle Hub",
+            "tip": "For any cycling needs or last-minute repairs."
+          },
+          {
+            "name": "Watford FC Fan Store",
+            "tip": "Pick up a yellow shirt at Vicarage Road."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie ein gutes Fahrradschloss mit.",
+          "Einige Wege im Cassiobury Park können schlammig sein, seien Sie also vorbereitet.",
+          "Watford hat einige Hügel, seien Sie bereit für ein paar Anstiege.",
+          "Nutzen Sie Radwege, wo immer möglich."
+        ],
+        "hu": [
+          "Hozzon magával egy jó kerékpárzárat.",
+          "Néhány út a Cassiobury Parkban sáros lehet, készüljön fel.",
+          "Watfordban vannak dombok, készüljön fel néhány emelkedőre.",
+          "Használja a kerékpárutakat, ahol csak lehetséges."
+        ],
+        "ro": [
+          "Aduceți un antifurt bun pentru bicicletă.",
+          "Unele poteci din Parcul Cassiobury pot fi noroioase, fiți pregătit.",
+          "Watford are câteva dealuri, fiți gata de urcușuri.",
+          "Folosiți pistele de biciclete ori de câte ori este posibil."
+        ],
+        "en": [
+          "Bring a good bike lock.",
+          "Some paths in Cassiobury Park can be muddy, so be prepared.",
+          "Watford has some hills, so be ready for a few climbs.",
+          "Use cycle lanes wherever available."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 30,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 18.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bhaktivedanta Manor",
+            "hu": "Bhaktivedanta Manor",
+            "ro": "Conacul Bhaktivedanta",
+            "en": "Bhaktivedanta Manor"
+          },
+          "coords": [
+            -0.375,
+            51.625
+          ],
+          "category": "monuments",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Prüfen Sie die Öffnungszeiten; es ist ein funktionierender Tempel.",
+            "hu": "Ellenőrizze a nyitvatartási időt; ez egy működő templom.",
+            "ro": "Verificați orele de deschidere; este un templu funcțional.",
+            "en": "Check opening times; it's a functioning temple."
+          }
+        },
+        {
+          "name": {
+            "de": "Warner Bros. Studio Tour London",
+            "hu": "Warner Bros. Stúdió Túra London",
+            "ro": "Turul Studiourilor Warner Bros. Londra",
+            "en": "Warner Bros. Studio Tour London"
+          },
+          "coords": [
+            -0.419,
+            51.691
+          ],
+          "category": "museums",
+          "arrive_at": "10:45",
+          "stay_min": 240,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 9.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Buchen Sie Tickets Monate im Voraus. Trinken Sie ein Butterbier!",
+            "hu": "Foglaljon jegyet hónapokkal előre. Igyon egy Vajsört!",
+            "ro": "Rezervați biletele cu luni înainte. Beți o Butterbeer!",
+            "en": "Book tickets months in advance. Have a Butterbeer!"
+          }
+        },
+        {
+          "name": {
+            "de": "Cassiobury Park",
+            "hu": "Cassiobury Park",
+            "ro": "Parcul Cassiobury",
+            "en": "Cassiobury Park"
+          },
+          "coords": [
+            -0.4185,
+            51.6601
+          ],
+          "category": "parks",
+          "arrive_at": "15:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Gade Avenue Parkplatz für den besten Zugang.",
+            "hu": "Parkoljon a Gade Avenue parkolójában a legjobb megközelítésért.",
+            "ro": "Parcați în parcarea Gade Avenue pentru cel mai bun acces.",
+            "en": "Park at the Gade Avenue car park for best access."
+          }
+        },
+        {
+          "name": {
+            "de": "The Cha Café",
+            "hu": "The Cha Café",
+            "ro": "Cafeneaua The Cha",
+            "en": "The Cha Café"
+          },
+          "coords": [
+            -0.416,
+            51.658
+          ],
+          "category": "gastro",
+          "arrive_at": "16:37",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein klassisches Parkcafé für eine Tasse Tee nach dem Spaziergang.",
+            "hu": "Klasszikus parki kávézó egy csésze teára a séta után.",
+            "ro": "O cafenea clasică de parc pentru o ceașcă de ceai după plimbare.",
+            "en": "A classic park café for a cup of tea after your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Watford Palace Theatre",
+            "hu": "Watford Palace Színház",
+            "ro": "Teatrul Watford Palace",
+            "en": "Watford Palace Theatre"
+          },
+          "coords": [
+            -0.3908,
+            51.6582
+          ],
+          "category": "theatres",
+          "arrive_at": "17:40",
+          "stay_min": 15,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie vorbei, um das Gebäude bei Sonnenuntergang zu sehen.",
+            "hu": "Hajtson el mellette, hogy lássa az épületet naplementekor.",
+            "ro": "Treceți pe lângă pentru a vedea clădirea la apus.",
+            "en": "Drive past to see the building lit up as evening approaches."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt mit einem ruhigen Besuch im Bhaktivedanta Manor. Der Hauptteil des Tages ist dem magischen Warner Bros. Studio gewidmet, ein Muss für jeden Besucher. Nach Stunden in der Welt der Zauberer fahren Sie zum riesigen Cassiobury Park, um sich die Beine zu vertreten und eine Tasse Tee zu genießen. Sie beenden den Tag mit einer Fahrt am beleuchteten Palace Theatre vorbei, ein schöner Abschluss für Ihren Ausflug.",
+        "hu": "A nap egy békés látogatással kezdődik a Bhaktivedanta Manorban. A nap fő része a varázslatos Warner Bros. Stúdiónak van szentelve, amely minden látogató számára kötelező. A varázslók világában töltött órák után a hatalmas Cassiobury Parkba hajt, hogy kinyújtóztassa a lábait és elfogyasszon egy csésze teát. A napot a kivilágított Palace Színház melletti elhaladással zárja, ami egy szép befejezése a kirándulásnak.",
+        "ro": "Ziua începe cu o vizită liniștită la Conacul Bhaktivedanta. Partea principală a zilei este dedicată magicelor studiouri Warner Bros., o vizită obligatorie pentru orice vizitator. După ore petrecute în lumea vrăjitorilor, conduceți spre vastul Parc Cassiobury pentru a vă dezmorți picioarele și a savura o ceașcă de ceai. Încheiați ziua trecând pe lângă Teatrul Palace iluminat, o încheiere frumoasă a excursiei.",
+        "en": "The day starts with a serene visit to Bhaktivedanta Manor. The main event is dedicated to the magical Warner Bros. Studio, a must-do for any visitor. After hours in the world of wizards, you drive to the vast Cassiobury Park to stretch your legs and enjoy a cup of tea. You end the day with a drive past the lit-up Palace Theatre, a nice conclusion to your trip."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Grove Hotel",
+            "tip": "Für ein luxuriöses Nachmittagstee-Erlebnis, wenn Sie Zeit haben."
+          },
+          {
+            "name": "Prime Steak & Grill",
+            "tip": "Ein gehobenes Restaurant für ein besonderes Abendessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Grove Hotel",
+            "tip": "Egy luxus délutáni teázáshoz, ha van ideje."
+          },
+          {
+            "name": "Prime Steak & Grill",
+            "tip": "Egy elegáns étterem egy különleges vacsorához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hotelul The Grove",
+            "tip": "Pentru o experiență de ceai de după-amiază de lux, dacă aveți timp."
+          },
+          {
+            "name": "Prime Steak & Grill",
+            "tip": "Un restaurant de lux pentru o cină specială."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Grove Hotel",
+            "tip": "For a luxury afternoon tea experience if you have time."
+          },
+          {
+            "name": "Prime Steak & Grill",
+            "tip": "An upmarket restaurant for a special dinner."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten des Bhaktivedanta Manor",
+            "tip": "Sehr friedlich am frühen Morgen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Der ländliche Hertfordshire",
+            "tip": "Genießen Sie die Landschaft auf der Fahrt zwischen den Orten.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bhaktivedanta Manor kertjei",
+            "tip": "Nagyon békés kora reggel.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Hertfordshire vidéke",
+            "tip": "Élvezze a tájat a helyszínek közötti vezetés közben.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Conacului Bhaktivedanta",
+            "tip": "Foarte pașnic dimineața devreme.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Peisajul rural din Hertfordshire",
+            "tip": "Bucurați-vă de peisaj în timpul călătoriei între locații.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bhaktivedanta Manor Gardens",
+            "tip": "Very peaceful in the early morning.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Hertfordshire Countryside",
+            "tip": "Enjoy the scenery on the drive between locations.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Studio Shop bei Warner Bros.",
+            "tip": "Der einzige Ort, um offizielle Harry-Potter-Ware zu bekommen."
+          },
+          {
+            "name": "Hofladen in der Nähe",
+            "tip": "Suchen Sie nach lokalen Hofläden für frische Produkte außerhalb der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stúdióbolt a Warner Bros.-nál",
+            "tip": "Az egyetlen hely, ahol hivatalos Harry Potter-termékeket kaphat."
+          },
+          {
+            "name": "Közeli farmbolt",
+            "tip": "Keressen helyi farmboltokat a városon kívül friss termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul studioului Warner Bros.",
+            "tip": "Singurul loc de unde puteți obține produse oficiale Harry Potter."
+          },
+          {
+            "name": "Magazin de fermă din apropiere",
+            "tip": "Căutați magazine de fermă locale pentru produse proaspete în afara orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Studio Shop at Warner Bros.",
+            "tip": "The only place to get official Harry Potter merchandise."
+          },
+          {
+            "name": "Nearby Farm Shop",
+            "tip": "Look for local farm shops for fresh produce outside the town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Buchen Sie die Warner Bros. Tour Monate im Voraus, sie ist schnell ausverkauft.",
+          "Verwenden Sie eine Navigations-App, um den Verkehr zu umgehen.",
+          "Prüfen Sie die Parkgebühren, besonders im Stadtzentrum.",
+          "Das Parken bei der Studio Tour ist kostenlos."
+        ],
+        "hu": [
+          "Foglalja le a Warner Bros. túrát hónapokkal előre, gyorsan elkel.",
+          "Használjon navigációs alkalmazást a forgalom elkerülésére.",
+          "Ellenőrizze a parkolási díjakat, különösen a városközpontban.",
+          "A Stúdió Túrán a parkolás ingyenes."
+        ],
+        "ro": [
+          "Rezervați turul Warner Bros. cu luni înainte, se vinde rapid.",
+          "Folosiți o aplicație de navigație pentru a evita traficul.",
+          "Verificați taxele de parcare, mai ales în centrul orașului.",
+          "Parcarea la Studio Tour este gratuită."
+        ],
+        "en": [
+          "Book the Warner Bros. Tour months in advance, it sells out quickly.",
+          "Use a navigation app to avoid traffic.",
+          "Check parking charges, especially in the town centre.",
+          "Parking at the Studio Tour is free."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 7.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Watford Junction Station",
+            "hu": "Watford Junction állomás",
+            "ro": "Gara Watford Junction",
+            "en": "Watford Junction Station"
+          },
+          "coords": [
+            -0.395,
+            51.662
+          ],
+          "category": "transit",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für die Busse, um Geld zu sparen.",
+            "hu": "Vásároljon napijegyet a buszokra, hogy pénzt takarítson meg.",
+            "ro": "Cumpărați un abonament de o zi pentru autobuze pentru a economisi bani.",
+            "en": "Buy a day pass for the buses to save money."
+          }
+        },
+        {
+          "name": {
+            "de": "Atria Watford",
+            "hu": "Atria Watford",
+            "ro": "Atria Watford",
+            "en": "Atria Watford"
+          },
+          "coords": [
+            -0.3948,
+            51.6552
+          ],
+          "category": "shopping",
+          "arrive_at": "09:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Dies ist der erste Cluster, von hier aus gehen Sie zu Fuß.",
+            "hu": "Ez az első klaszter, innen gyalogol tovább.",
+            "ro": "Acesta este primul cluster, de aici veți merge pe jos.",
+            "en": "This is the first cluster, you'll explore from here on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Watford Museum",
+            "hu": "Watfordi Múzeum",
+            "ro": "Muzeul Watford",
+            "en": "Watford Museum"
+          },
+          "coords": [
+            -0.4001,
+            51.6521
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Einkaufszentrum.",
+            "hu": "Rövid séta a bevásárlóközponttól.",
+            "ro": "O scurtă plimbare de la centrul comercial.",
+            "en": "An easy walk from the shopping centre."
+          }
+        },
+        {
+          "name": {
+            "de": "Vicarage Road Stadion",
+            "hu": "Vicarage Road Stadion",
+            "ro": "Stadionul Vicarage Road",
+            "en": "Vicarage Road Stadium"
+          },
+          "coords": [
+            -0.4015,
+            51.6498
+          ],
+          "category": "monuments",
+          "arrive_at": "12:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus für den nächsten Cluster-Sprung.",
+            "hu": "Vegyünk egy buszt a következő klaszter ugráshoz.",
+            "ro": "Luați un autobuz pentru următorul salt între clustere.",
+            "en": "Take a bus for this next cluster hop."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Stadions",
+            "hu": "Ebéd a stadion közelében",
+            "ro": "Prânz lângă stadion",
+            "en": "Lunch near the stadium"
+          },
+          "coords": [
+            -0.403,
+            51.651
+          ],
+          "category": "gastro",
+          "arrive_at": "12:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Es gibt viele Imbissbuden und Cafés an Spieltagen.",
+            "hu": "Sok elviteles hely és kávézó van a meccsnapokon.",
+            "ro": "Există multe localuri cu mâncare la pachet și cafenele în zilele de meci.",
+            "en": "Plenty of takeaways and cafes catering to match days."
+          }
+        },
+        {
+          "name": {
+            "de": "Cassiobury Park",
+            "hu": "Cassiobury Park",
+            "ro": "Parcul Cassiobury",
+            "en": "Cassiobury Park"
+          },
+          "coords": [
+            -0.4185,
+            51.6601
+          ],
+          "category": "parks",
+          "arrive_at": "14:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der letzte Cluster des Tages, um sich zu entspannen.",
+            "hu": "A nap utolsó klasztere a pihenésre.",
+            "ro": "Ultimul cluster al zilei pentru relaxare.",
+            "en": "The final cluster of the day, to relax and unwind."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt an der Watford Junction. Ein kurzer Bus bringt Sie ins Zentrum, wo Sie das Atria und das Museum zu Fuß erkunden. Ein weiterer Bus bringt Sie zum zweiten Cluster rund um die Vicarage Road für einen Blick auf das Stadion und ein Mittagessen. Der letzte Bus des Tages bringt Sie zum Cassiobury Park, dem perfekten Ort, um den Nachmittag vor der Rückfahrt zu genießen.",
+        "hu": "Tömegközlekedési napja a Watford Junctionnál kezdődik. Egy rövid busz elviszi a központba, ahol gyalog felfedezheti az Atriát és a múzeumot. Egy másik busz elviszi a Vicarage Road körüli második klaszterbe, ahol megnézheti a stadiont és ebédelhet. A nap utolsó busza a Cassiobury Parkba visz, amely tökéletes hely a délután eltöltésére, mielőtt visszautazna.",
+        "ro": "Ziua dvs. cu transportul public începe la Gara Watford Junction. Un autobuz scurt vă duce în centru pentru a explora Atria și muzeul pe jos. Un alt autobuz vă duce la al doilea cluster, în jurul Vicarage Road, pentru o privire la stadion și prânz. Ultimul autobuz al zilei vă duce la Parcul Cassiobury, locul perfect pentru a vă bucura de după-amiază înainte de a vă întoarce.",
+        "en": "Your public transport day starts at Watford Junction. A short bus takes you to the centre to explore Atria and the museum on foot. Another bus hops you to the second cluster around Vicarage Road for a look at the stadium and lunch. The final bus of the day takes you to Cassiobury Park, the perfect place to enjoy the afternoon before heading back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Florist",
+            "tip": "Ein sehr 'instagrammable' Ort für Cocktails und Essen im Stadtzentrum."
+          },
+          {
+            "name": "Pepe Rosso",
+            "tip": "Ein solides italienisches Restaurant in der Nähe des Museums für ein schnelles Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Florist",
+            "tip": "Nagyon 'Instagram-kompatibilis' hely koktélokhoz és ételekhez a városközpontban."
+          },
+          {
+            "name": "Pepe Rosso",
+            "tip": "Egy megbízható olasz étterem a múzeum közelében egy gyors ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Florist",
+            "tip": "Un loc foarte 'instagramabil' pentru cocktailuri și mâncare în centrul orașului."
+          },
+          {
+            "name": "Pepe Rosso",
+            "tip": "Un restaurant italian solid lângă muzeu pentru un prânz rapid."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Florist",
+            "tip": "A very 'Instagrammable' spot for cocktails and food in the town centre."
+          },
+          {
+            "name": "Pepe Rosso",
+            "tip": "A solid Italian restaurant near the museum for a quick lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Watford Library",
+            "tip": "Ein ruhiger Ort, um sich auszuruhen und eine Stunde lang zu lesen.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Friedhof der St. Mary's Church",
+            "tip": "Ein friedlicher, historischer Ort im Stadtzentrum.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Watfordi Könyvtár",
+            "tip": "Csendes hely, ahol pihenhet és olvashat egy órát.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Szent Mária-templom temetője",
+            "tip": "Békés, történelmi hely a városközpontban.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biblioteca Watford",
+            "tip": "Un loc liniștit pentru a vă odihni și a citi timp de o oră.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Cimitirul Bisericii St Mary's",
+            "tip": "Un loc pașnic și istoric în centrul orașului.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Watford Library",
+            "tip": "A quiet place to rest your feet and read for an hour.",
+            "emoji": "📚"
+          },
+          {
+            "name": "St Mary's Church Graveyard",
+            "tip": "A peaceful, historic spot in the town centre.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Charity Shops auf der High Street",
+            "tip": "Sie können einzigartige Second-Hand-Schätze finden."
+          },
+          {
+            "name": "Souvenirs im Watford Museum",
+            "tip": "Kaufen Sie ein Buch über die lokale Geschichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jótékonysági üzletek a High Streeten",
+            "tip": "Egyedi, használt kincseket találhat."
+          },
+          {
+            "name": "Szuvírek a Watfordi Múzeumban",
+            "tip": "Vásároljon egy könyvet a helyi történelemről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de caritate pe High Street",
+            "tip": "Puteți găsi comori unice la mâna a doua."
+          },
+          {
+            "name": "Suveniruri la Muzeul Watford",
+            "tip": "Cumpărați o carte despre istoria locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Charity Shops on the High Street",
+            "tip": "You can find unique second-hand treasures."
+          },
+          {
+            "name": "Souvenirs at Watford Museum",
+            "tip": "Buy a book on local history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie eine lokale Bus-App herunter, um Fahrpläne in Echtzeit zu verfolgen.",
+          "Haben Sie etwas Kleingeld für Busse dabei, obwohl die meisten kontaktlos sind.",
+          "Der Warner Bros. Studio Tour Shuttlebus fährt von der Watford Junction ab, erfordert aber separate Tickets.",
+          "Der Verkehr kann die Buszeiten beeinflussen, planen Sie also Pufferzeit ein."
+        ],
+        "hu": [
+          "Töltsön le egy helyi buszalkalmazást a valós idejű menetrendek követéséhez.",
+          "Legyen Önnél aprópénz a buszokra, bár a legtöbb érintésmentes.",
+          "A Warner Bros. Stúdió Túra shuttle busz a Watford Junctionról indul, de külön jegy szükséges hozzá.",
+          "A forgalom befolyásolhatja a buszmenetrendet, ezért tervezzen pufferidőt."
+        ],
+        "ro": [
+          "Descărcați o aplicație locală de autobuz pentru a urmări orarele în timp real.",
+          "Aveți la îndemână mărunțiș pentru autobuze, deși majoritatea sunt contactless.",
+          "Autobuzul de transfer pentru Warner Bros. Studio Tour pleacă de la Gara Watford Junction, dar necesită bilete separate.",
+          "Traficul poate afecta orele de autobuz, așa că lăsați timp suplimentar."
+        ],
+        "en": [
+          "Download a local bus app to track real-time schedules.",
+          "Have some change ready for buses, although most are contactless.",
+          "The Warner Bros. Studio Tour shuttle bus leaves from Watford Junction, but requires separate tickets.",
+          "Traffic can affect bus times, so plan in buffer time."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1344 @@
+{
+  "city_id": "RS-004-vranje",
+  "anchor": {
+    "name": "Vranje",
+    "coords": [
+      21.8958,
+      42.5544
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Vranje Hamam",
+            "hu": "Vranjei Törökfürdő (Hamam)",
+            "ro": "Hamamul din Vranje",
+            "en": "Vranje Hamam"
+          },
+          "coords": [
+            21.8986,
+            42.5551
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die osmanische Architektur aus dem 17. Jahrhundert.",
+            "hu": "Csodálja meg a 17. századi oszmán építészetet.",
+            "ro": "Admirați arhitectura otomană din secolul al XVII-lea.",
+            "en": "Admire the 17th-century Ottoman architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Bora-Stanković-Denkmal",
+            "hu": "Bora Stanković Emlékmű",
+            "ro": "Monumentul lui Bora Stanković",
+            "en": "Bora Stanković Monument"
+          },
+          "coords": [
+            21.8971,
+            42.5545
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:41",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Weiße Brücke",
+            "hu": "Fehér Híd",
+            "ro": "Podul Alb",
+            "en": "White Bridge"
+          },
+          "coords": [
+            21.9022,
+            42.552
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:08",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6
+        },
+        {
+          "name": {
+            "de": "Kathedrale der Heiligen Dreifaltigkeit",
+            "hu": "Szentháromság-székesegyház",
+            "ro": "Catedrala Sfânta Treime",
+            "en": "Cathedral of the Holy Trinity"
+          },
+          "coords": [
+            21.8955,
+            42.5566
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1
+        },
+        {
+          "name": {
+            "de": "Bora-Stanković-Haus",
+            "hu": "Bora Stanković szülőháza",
+            "ro": "Casa memorială Bora Stanković",
+            "en": "Bora Stanković House"
+          },
+          "coords": [
+            21.9011,
+            42.5515
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8
+        },
+        {
+          "name": {
+            "de": "Nationalmuseum Vranje",
+            "hu": "Vranjei Nemzeti Múzeum",
+            "ro": "Muzeul Național din Vranje",
+            "en": "National Museum of Vranje"
+          },
+          "coords": [
+            21.8979,
+            42.5558
+          ],
+          "category": "museums",
+          "arrive_at": "14:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9
+        },
+        {
+          "name": {
+            "de": "Stadtpark von Vranje",
+            "hu": "Vranjei Városi Park",
+            "ro": "Parcul Municipal din Vranje",
+            "en": "City Park of Vranje"
+          },
+          "coords": [
+            21.894,
+            42.553
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.2
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im osmanischen Herzen von Vranje am Hamam und der Weißen Brücke, die von Legenden umwoben ist. Spüren Sie die Geschichte der Stadt. Am Mittag tauchen Sie in die reiche Kultur ein, besuchen die Kathedrale und das Geburtshaus des berühmten Schriftstellers Bora Stanković, gefolgt vom Nationalmuseum. Am Nachmittag entspannen Sie im grünen Stadtpark, lassen die Eindrücke des Tages Revue passieren und genießen die ruhige Atmosphäre. Am Abend lassen Sie sich von der lokalen Küche verführen und erleben die herzliche Gastfreundschaft von Vranje in einer traditionellen Kafana.",
+        "hu": "Kezdje a napot Vranje oszmán szívében, a legendákkal övezett Hamamnál és a Fehér Hídnál, átérezve a város történelmét. Délben merüljön el a gazdag kultúrában a Székesegyház, a híres író, Bora Stanković szülőháza és a Nemzeti Múzeum meglátogatásával. Délután pihenjen a zöldellő Városi Parkban, felidézve a nap élményeit és élvezve a nyugodt légkört. Este engedje, hogy elcsábítsa a helyi konyha, és tapasztalja meg Vranje szívélyes vendégszeretetét egy hagyományos kafanában.",
+        "ro": "Începeți ziua în inima otomană a orașului Vranje, la Hamam și la Podul Alb, învăluit în legende. Simțiți istoria orașului. La prânz, scufundați-vă în cultura bogată vizitând Catedrala, casa memorială a faimosului scriitor Bora Stanković și Muzeul Național. După-amiaza, relaxați-vă în Parcul Municipal, rememorând impresiile zilei și bucurându-vă de atmosfera liniștită. Seara, lăsați-vă seduși de bucătăria locală și experimentați ospitalitatea caldă din Vranje într-o kafana tradițională.",
+        "en": "Start your day in the Ottoman heart of Vranje at the Hamam and the legend-shrouded White Bridge, feeling the city's history. At midday, dive into the rich culture by visiting the Cathedral, the birth house of the famous writer Bora Stanković, and the National Museum. In the afternoon, unwind in the green City Park, reflecting on the day's impressions and enjoying the peaceful atmosphere. In the evening, let the local cuisine tempt you and experience the warm hospitality of Vranje in a traditional kafana."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Samsal",
+            "tip": "Ein herzhafter Kuchen mit Lauch und Hackfleisch, perfekt für ein schnelles Mittagessen."
+          },
+          {
+            "name": "Propeć",
+            "tip": "Ein traditioneller Kuchen, der dem Burek ähnelt und oft mit Käse oder Fleisch gefüllt ist."
+          },
+          {
+            "name": "Restoran Dvor",
+            "tip": "Probieren Sie authentische südserbische Gerichte in einem traditionellen Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Samsal",
+            "tip": "Kiadós pite póréhagymával és darált hússal, tökéletes egy gyors ebédhez."
+          },
+          {
+            "name": "Propeć",
+            "tip": "Hagyományos, burekre emlékeztető pite, gyakran sajttal vagy hússal töltve."
+          },
+          {
+            "name": "Dvor Étterem",
+            "tip": "Kóstoljon autentikus dél-szerb ételeket egy hagyományos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Samsal",
+            "tip": "O plăcintă consistentă cu praz și carne tocată, perfectă pentru un prânz rapid."
+          },
+          {
+            "name": "Propeć",
+            "tip": "O plăcintâ tradițională asemănătoare cu burek, adesea umplută cu brânză sau carne."
+          },
+          {
+            "name": "Restaurant Dvor",
+            "tip": "Încercați mâncăruri autentice din sudul Serbiei într-un cadru tradițional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Samsal",
+            "tip": "A hearty pie with leeks and minced meat, perfect for a quick lunch."
+          },
+          {
+            "name": "Propeć",
+            "tip": "A traditional pie similar to burek, often filled with cheese or meat."
+          },
+          {
+            "name": "Restoran Dvor",
+            "tip": "Try authentic southern Serbian dishes in a traditional ambiance."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Vranjska",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses, abseits des Stadtzentrums.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stadtpark von Vranje",
+            "tip": "Finden Sie eine ruhige Bank unter den Bäumen, um ein Buch zu lesen oder Leute zu beobachten.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hügel über der Stadt",
+            "tip": "Für einen Panoramablick und einen Moment der Ruhe steigen Sie zu den Hügeln wie dem Krstilovica auf.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Vranjska folyó partja",
+            "tip": "Egy csendes séta a folyó mentén, távol a városközponttól.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vranjei Városi Park",
+            "tip": "Keressen egy csendes padot a fák alatt, hogy olvasson egy könyvet vagy nézze az embereket.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A város feletti dombok",
+            "tip": "Panorámás kilátásért és egy csendes pillanatért másszon fel a dombokra, mint a Krstilovica.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Vranjska",
+            "tip": "O plimbare liniștită de-a lungul râului, departe de centrul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Municipal din Vranje",
+            "tip": "Găsiți o bancă liniștită sub copaci pentru a citi o carte sau a privi oamenii.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dealurile de deasupra orașului",
+            "tip": "Pentru o vedere panoramică și un moment de liniște, urcați pe dealuri precum Krstilovica.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Vranjska River",
+            "tip": "A quiet walk along the river, away from the city center.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "City Park of Vranje",
+            "tip": "Find a quiet bench under the trees to read a book or people-watch.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hills above the city",
+            "tip": "For a panoramic view and a moment of peace, climb the hills like Krstilovica.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Grüner Markt (Pijaca)",
+            "tip": "Kaufen Sie frische lokale Produkte, Käse und hausgemachten Honig."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Suchen Sie nach handgefertigter Keramik und traditionellen Textilien als einzigartige Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zöld Piac (Pijaca)",
+            "tip": "Vásároljon friss helyi termékeket, sajtot és házi mézet."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keressen kézzel készített kerámiákat és hagyományos textíliákat egyedi szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Verde (Pijaca)",
+            "tip": "Cumpărați produse locale proaspete, brânză și miere de casă."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Căutați ceramică lucrată manual și textile tradiționale ca suveniruri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Green Market (Pijaca)",
+            "tip": "Shop for fresh local produce, cheese, and homemade honey."
+          },
+          {
+            "name": "Handicraft shops",
+            "tip": "Look for handmade pottery and traditional textiles as unique souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit; es gibt öffentliche Brunnen.",
+          "Beginnen Sie früh, um die Menschenmassen und die Mittagshitze im Sommer zu vermeiden.",
+          "Halten Sie etwas Bargeld für kleine Einkäufe auf dem Markt bereit."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakövek az óvárosban egyenetlenek lehetnek.",
+          "Vigyen magával újratölthető vizes palackot; vannak nyilvános kutak.",
+          "Kezdje korán, hogy elkerülje a tömeget és a déli hőséget nyáron.",
+          "Tartson magánál némi készpénzt a piacon történő apróbb vásárlásokhoz."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pietrele din orașul vechi pot fi denivelate.",
+          "Luați o sticlă de apă reutilizabilă; există fântâni publice.",
+          "Începeți devreme pentru a evita mulțimile și căldura de la amiază în timpul verii.",
+          "Păstrați niște bani lichizi pentru cumpărături mici de la piață."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Bring a reusable water bottle; there are public fountains.",
+          "Start early to avoid the crowds and midday heat in summer.",
+          "Keep some cash handy for small purchases at the market."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 6.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtpark von Vranje",
+            "hu": "Vranjei Városi Park",
+            "ro": "Parcul Municipal din Vranje",
+            "en": "City Park of Vranje"
+          },
+          "coords": [
+            21.894,
+            42.553
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie mit einer schnellen Runde durch den Park, um sich aufzuwärmen.",
+            "hu": "Kezdje egy gyors körrel a parkban bemelegítésként.",
+            "ro": "Începeți cu o tură rapidă prin parc pentru a vă încălzi.",
+            "en": "Start with a quick loop around the park to warm up."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale der Heiligen Dreifaltigkeit",
+            "hu": "Szentháromság-székesegyház",
+            "ro": "Catedrala Sfânta Treime",
+            "en": "Cathedral of the Holy Trinity"
+          },
+          "coords": [
+            21.8955,
+            42.5566
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:34",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6
+        },
+        {
+          "name": {
+            "de": "Nationalmuseum Vranje",
+            "hu": "Vranjei Nemzeti Múzeum",
+            "ro": "Muzeul Național din Vranje",
+            "en": "National Museum of Vranje"
+          },
+          "coords": [
+            21.8979,
+            42.5558
+          ],
+          "category": "museums",
+          "arrive_at": "10:37",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Vranje Hamam",
+            "hu": "Vranjei Törökfürdő (Hamam)",
+            "ro": "Hamamul din Vranje",
+            "en": "Vranje Hamam"
+          },
+          "coords": [
+            21.8986,
+            42.5551
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:09",
+          "stay_min": 20,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Markovo Kale",
+            "hu": "Markovo Kale erőd",
+            "ro": "Cetatea Markovo Kale",
+            "en": "Markovo Kale"
+          },
+          "coords": [
+            21.91,
+            42.565
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3
+        },
+        {
+          "name": {
+            "de": "Weiße Brücke",
+            "hu": "Fehér Híd",
+            "ro": "Podul Alb",
+            "en": "White Bridge"
+          },
+          "coords": [
+            21.9022,
+            42.552
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:19",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2
+        },
+        {
+          "name": {
+            "de": "Bora-Stanković-Haus",
+            "hu": "Bora Stanković szülőháza",
+            "ro": "Casa memorială Bora Stanković",
+            "en": "Bora Stanković House"
+          },
+          "coords": [
+            21.9011,
+            42.5515
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:51",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.1
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Rad und starten Sie im Stadtpark. Die morgendliche Tour führt Sie zur Kathedrale und zum Museum, wo Sie Kultur tanken. Mittags erklimmen Sie den Hügel zur Festung Markovo Kale für eine atemberaubende Aussicht und ein Picknick. Die Abfahrt belohnt Sie. Am Nachmittag radeln Sie gemütlich zur legendären Weißen Brücke und zum Bora-Stanković-Haus, bevor Sie den Tag in der Altstadt ausklingen lassen. Am Abend belohnen Sie sich mit einem herzhaften serbischen Abendessen, das Sie sich nach der aktiven Erkundung redlich verdient haben.",
+        "hu": "Pattanjon biciklire, és induljon a Városi Parkból. A reggeli túra a Székesegyházhoz és a Múzeumhoz vezet, ahol kultúrával töltődhet fel. Délben mássza meg a dombot a Markovo Kale erődhöz a lélegzetelállító kilátásért és egy piknikért. A lejtőzés a jutalom. Délután tekerjen el a legendás Fehér Hídhoz és a Bora Stanković-házhoz, mielőtt az óvárosban fejezné be a napot. Este jutalmazza meg magát egy kiadós szerb vacsorával, amit az aktív felfedezés után megérdemelt.",
+        "ro": "Urcați-vă pe bicicletă și porniți din Parcul Municipal. Turul de dimineață vă duce la Catedrală și la Muzeu pentru o doză de cultură. La prânz, urcați dealul până la cetatea Markovo Kale pentru o priveliște uluitoare și un picnic. Coborârea este recompensa. După-amiaza, pedalați agale spre legendarul Pod Alb și Casa Bora Stanković înainte de a încheia ziua în orașul vechi. Seara, răsfățați-vă cu o cină sârbească copioasă, bine meritată după explorarea activă.",
+        "en": "Hop on your bike and start from the City Park. The morning tour takes you to the Cathedral and the Museum for a dose of culture. At noon, climb the hill to Markovo Kale fortress for a breathtaking view and a picnic. The descent is your reward. In the afternoon, leisurely cycle to the legendary White Bridge and the Bora Stanković House before finishing the day in the old town. In the evening, reward yourself with a hearty Serbian dinner, well-deserved after the active exploration."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pljeskavica",
+            "tip": "Ein klassisches serbisches Patty, oft in einem Fladenbrot (Lepinja) serviert."
+          },
+          {
+            "name": "Kafana",
+            "tip": "Machen Sie eine Pause in einer lokalen Kafana für einen starken Kaffee oder einen erfrischenden Drink."
+          },
+          {
+            "name": "Gradska Meana",
+            "tip": "Ein großartiger Ort, um nach einer langen Radtour traditionelle Grillgerichte zu genießen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pljeskavica",
+            "tip": "Klasszikus szerb húspogácsa, gyakran lepényben (lepinja) tálalva."
+          },
+          {
+            "name": "Kafana",
+            "tip": "Tartson szünetet egy helyi kafanában egy erős kávéra vagy egy frissítő italra."
+          },
+          {
+            "name": "Gradska Meana",
+            "tip": "Nagyszerű hely a hagyományos grillételek élvezetére egy hosszú kerékpártúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pljeskavica",
+            "tip": "O chiftea clasică sârbească, adesea servită într-o lipie (lepinja)."
+          },
+          {
+            "name": "Kafana",
+            "tip": "Faceți o pauză la o kafana locală pentru o cafea tare sau o băutură răcoritoare."
+          },
+          {
+            "name": "Gradska Meana",
+            "tip": "Un loc minunat pentru a savura preparate tradiționale la grătar după o plimbare lungă cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pljeskavica",
+            "tip": "A classic Serbian patty, often served in a flatbread (lepinja)."
+          },
+          {
+            "name": "Kafana",
+            "tip": "Take a break at a local kafana for a strong coffee or a refreshing drink."
+          },
+          {
+            "name": "Gradska Meana",
+            "tip": "A great spot to enjoy traditional grilled dishes after a long bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Markovo Kale",
+            "tip": "Genießen Sie die Stille und die weite Aussicht von den alten Festungsmauern.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Aleksandrovačko See",
+            "tip": "Wenn Sie Zeit haben, machen Sie einen längeren Ausflug zu diesem nahegelegenen See zum Entspannen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirchhof der Kathedrale",
+            "tip": "Ein friedlicher Ort, um dem Trubel der Stadt für einen Moment zu entfliehen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Markovo Kale",
+            "tip": "Élvezze a csendet és a tágas kilátást az ősi erődfalakról.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Aleksandrovaci-tó",
+            "tip": "Ha van ideje, tegyen egy hosszabb kirándulást ehhez a közeli tóhoz pihenni.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A székesegyház udvara",
+            "tip": "Békés hely, ahol egy pillanatra elmenekülhet a város nyüzsgésétől.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Markovo Kale",
+            "tip": "Bucurați-vă de liniște și de priveliștea vastă de pe zidurile vechii cetăți.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lacul Aleksandrovačko",
+            "tip": "Dacă aveți timp, faceți o excursie mai lungă la acest lac din apropiere pentru relaxare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea Catedralei",
+            "tip": "Un loc pașnic pentru a scăpa de agitația orașului pentru un moment.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Markovo Kale",
+            "tip": "Enjoy the silence and the vast view from the ancient fortress walls.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Aleksandrovačko Lake",
+            "tip": "If you have time, take a longer trip to this nearby lake for relaxation.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cathedral Courtyard",
+            "tip": "A peaceful spot to escape the city bustle for a moment.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradladen",
+            "tip": "Kaufen Sie lokales Zubehör oder ein T-Shirt als Andenken an Ihre Radtour."
+          },
+          {
+            "name": "Lokaler Honig",
+            "tip": "Suchen Sie nach Verkäufern von Honig vom Berg Besna Kobila, einer lokalen Spezialität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Vásároljon helyi kiegészítőket vagy egy pólót a kerékpártúra emlékére."
+          },
+          {
+            "name": "Helyi méz",
+            "tip": "Keressen a Besna Kobila hegyről származó mézet árusítókat, ami helyi különlegesség."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Cumpărați accesorii locale sau un tricou ca amintire a turului dumneavoastră cu bicicleta."
+          },
+          {
+            "name": "Miere locală",
+            "tip": "Căutați vânzători de miere de pe muntele Besna Kobila, o specialitate locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "Pick up some local gear or a T-shirt as a memento of your ride."
+          },
+          {
+            "name": "Local Honey",
+            "tip": "Look for sellers of honey from Besna Kobila mountain, a local specialty."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad, bevor Sie losfahren, insbesondere die Bremsen für die Abfahrt von Markovo Kale.",
+          "Nehmen Sie viel Wasser und ein paar energiereiche Snacks mit.",
+          "Einige Straßen sind möglicherweise nicht fahrradfreundlich; seien Sie vorsichtig im Verkehr.",
+          "Schließen Sie Ihr Fahrrad immer sicher ab, wenn Sie es abstellen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját, különösen a fékeket a Markovo Kale-ról való leereszkedéshez.",
+          "Vigyen magával sok vizet és néhány energiadús snacket.",
+          "Néhány út nem feltétlenül kerékpárbarát; legyen óvatos a forgalomban.",
+          "Mindig zárja le biztonságosan a kerékpárját, amikor leteszi."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni, în special frânele pentru coborârea de la Markovo Kale.",
+          "Luați multă apă și câteva gustări energizante.",
+          "Unele străzi pot să nu fie prietenoase cu bicicletele; fiți precauți în trafic.",
+          "Încuietăți întotdeauna bicicleta în siguranță când o parcați."
+        ],
+        "en": [
+          "Check your bike before you start, especially the brakes for the descent from Markovo Kale.",
+          "Bring plenty of water and some energy-rich snacks.",
+          "Some streets may not be bike-friendly; be cautious in traffic.",
+          "Always lock your bike securely when you leave it."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:18",
+      "total_km": 15.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Markovo Kale",
+            "hu": "Markovo Kale erőd",
+            "ro": "Cetatea Markovo Kale",
+            "en": "Markovo Kale"
+          },
+          "coords": [
+            21.91,
+            42.565
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie morgens hinauf, um die beste Aussicht und weniger Menschenmassen zu genießen.",
+            "hu": "Hajtson fel reggel a legjobb kilátásért és a kevesebb tömegért.",
+            "ro": "Conduceți până sus dimineața pentru cea mai bună priveliște și mai puține aglomerații.",
+            "en": "Drive up in the morning for the best views and fewer crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz im Stadtzentrum",
+            "hu": "Parkoló a városközpontban",
+            "ro": "Parcare în centrul orașului",
+            "en": "City Center Parking"
+          },
+          "coords": [
+            21.897,
+            42.556
+          ],
+          "category": "transport",
+          "arrive_at": "10:55",
+          "stay_min": 5,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Rest des Tages und erkunden Sie das Zentrum zu Fuß.",
+            "hu": "Parkoljon le itt a nap hátralévő részére, és fedezze fel a központot gyalog.",
+            "ro": "Parcați aici pentru restul zilei și explorați centrul pe jos.",
+            "en": "Park here for the rest of the day and explore the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale der Heiligen Dreifaltigkeit",
+            "hu": "Szentháromság-székesegyház",
+            "ro": "Catedrala Sfânta Treime",
+            "en": "Cathedral of the Holy Trinity"
+          },
+          "coords": [
+            21.8955,
+            42.5566
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Nationalmuseum Vranje",
+            "hu": "Vranjei Nemzeti Múzeum",
+            "ro": "Muzeul Național din Vranje",
+            "en": "National Museum of Vranje"
+          },
+          "coords": [
+            21.8979,
+            42.5558
+          ],
+          "category": "museums",
+          "arrive_at": "12:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Weiße Brücke",
+            "hu": "Fehér Híd",
+            "ro": "Podul Alb",
+            "en": "White Bridge"
+          },
+          "coords": [
+            21.9022,
+            42.552
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:19",
+          "stay_min": 25,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Vranjska Banja",
+            "hu": "Vranjska Banja gyógyfürdő",
+            "ro": "Stațiunea balneară Vranjska Banja",
+            "en": "Vranjska Banja Spa"
+          },
+          "coords": [
+            22.01,
+            42.56
+          ],
+          "category": "wellness",
+          "arrive_at": "15:01",
+          "stay_min": 90,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 7.4,
+          "hop_mode": "car"
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie den Tag mit einer Fahrt zur Festung Markovo Kale, um einen Panoramablick zu genießen. Parken Sie anschließend Ihr Auto im Zentrum. Der Mittag ist der Kultur gewidmet: ein Spaziergang zur Kathedrale, zum Museum und zur berühmten Weißen Brücke, dem Herzen von Vranje. Am Nachmittag fahren Sie in das nahegelegene Heilbad Vranjska Banja. Entspannen Sie sich im Thermalwasser und lassen Sie die Seele baumeln. Kehren Sie am Abend erfrischt nach Vranje zurück und genießen Sie ein Abendessen, das die kulinarischen Traditionen der Region widerspiegelt.",
+        "hu": "Kezdje a napot egy autózással a Markovo Kale erődhöz a panorámás kilátásért. Ezután parkolja le az autóját a központban. A dél a kultúráé: séta a Székesegyházhoz, a Múzeumhoz és a híres Fehér Hídhoz, Vranje szívéhez. Délután vezessen el a közeli Vranjska Banja gyógyfürdőbe. Pihenjen a termálvízben és frissüljön fel. Este térjen vissza Vranjéba felfrissülve, és élvezzen egy vacsorát, amely a régió kulináris hagyományait tükrözi.",
+        "ro": "Începeți ziua cu o plimbare cu mașina până la cetatea Markovo Kale pentru o priveliște panoramică. Apoi, parcați mașina în centru. Prânzul este dedicat culturii: o plimbare la Catedrală, la Muzeu și la faimosul Pod Alb, inima orașului Vranje. După-amiaza, conduceți spre stațiunea balneară Vranjska Banja din apropiere. Relaxați-vă în apele termale și reîncărcați-vă bateriile. Întoarceți-vă la Vranje seara, odihniți, și bucurați-vă de o cină care reflectă tradițiile culinare ale regiunii.",
+        "en": "Start your day with a drive up to Markovo Kale fortress for a panoramic view. Then, park your car in the center. Midday is for culture: a walking tour to the Cathedral, the Museum, and the famous White Bridge, the heart of Vranje. In the afternoon, drive to the nearby Vranjska Banja spa. Relax in the thermal waters and rejuvenate your spirit. Return to Vranje in the evening, refreshed, and enjoy a dinner that reflects the region's culinary traditions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Trljanica",
+            "tip": "Ein traditioneller Salat aus Paprika, Käse und Öl, sehr erfrischend."
+          },
+          {
+            "name": "Lamm am Spieß",
+            "tip": "Eine Spezialität, die oft in Restaurants außerhalb des Stadtzentrums zu finden ist."
+          },
+          {
+            "name": "Restoran ABC",
+            "tip": "Bekannt für seine exzellenten Grillgerichte und die großzügigen Portionen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trljanica",
+            "tip": "Hagyományos saláta paprikából, sajtból és olajból, nagyon frissítő."
+          },
+          {
+            "name": "Nyárson sült bárány",
+            "tip": "Különlegesség, amelyet gyakran a városközponton kívüli éttermekben találni."
+          },
+          {
+            "name": "ABC Étterem",
+            "tip": "Kiváló grillételeiről és bőséges adagjairól ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trljanica",
+            "tip": "O salată tradițională din ardei, brânză și ulei, foarte răcoritoare."
+          },
+          {
+            "name": "Miel la proțap",
+            "tip": "O specialitate adesea găsită în restaurantele din afara centrului orașului."
+          },
+          {
+            "name": "Restaurant ABC",
+            "tip": "Cunoscut pentru preparatele excelente la grătar și porțiile generoase."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trljanica",
+            "tip": "A traditional salad made of peppers, cheese, and oil, very refreshing."
+          },
+          {
+            "name": "Lamb on a spit",
+            "tip": "A specialty often found in restaurants outside the city center."
+          },
+          {
+            "name": "Restoran ABC",
+            "tip": "Known for its excellent grilled dishes and generous portions."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vranjska Banja",
+            "tip": "Der Kurpark ist ein idealer Ort für einen ruhigen Spaziergang nach dem Bad.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtspunkt Markovo Kale",
+            "tip": "Verweilen Sie einen Moment und genießen Sie die Aussicht, bevor Sie wieder hinunterfahren.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pčinja Fluss-Schlucht",
+            "tip": "Ein längerer Ausflug für Naturliebhaber, ca. 30 km von Vranje entfernt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vranjska Banja",
+            "tip": "A gyógyfürdő parkja ideális hely egy csendes sétára a fürdőzés után.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Markovo Kale kilátópont",
+            "tip": "Maradjon egy pillanatig, és élvezze a kilátást, mielőtt visszaindul.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pčinja folyó szurdoka",
+            "tip": "Hosszabb kirándulás a természetbarátoknak, kb. 30 km-re Vranjétól.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vranjska Banja",
+            "tip": "Parcul stațiunii este un loc ideal pentru o plimbare liniștită după baie.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Punct de belvedere Markovo Kale",
+            "tip": "Zăboviți un moment și bucurați-vă de priveliște înainte de a coborî.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cheile râului Pčinja",
+            "tip": "O excursie mai lungă pentru iubitorii de natură, la aproximativ 30 km de Vranje.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vranjska Banja",
+            "tip": "The spa park is an ideal place for a quiet walk after your bath.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Markovo Kale Viewpoint",
+            "tip": "Linger for a moment and enjoy the view before driving back down.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pčinja River Gorge",
+            "tip": "A longer excursion for nature lovers, about 30 km from Vranje.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs in Vranjska Banja",
+            "tip": "Kaufen Sie Badesalze oder lokale Kräuter aus der Kurregion."
+          },
+          {
+            "name": "Weinkellereien",
+            "tip": "Besuchen Sie eine der Weinkellereien in der Umgebung, um den lokalen Vranac-Wein zu probieren und zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvenírek Vranjska Banjában",
+            "tip": "Vásároljon fürdősókat vagy helyi gyógynövényeket a gyógyfürdő régiójából."
+          },
+          {
+            "name": "Pincészetek",
+            "tip": "Látogasson el a környékbeli pincészetek egyikébe, hogy megkóstolja és megvásárolja a helyi Vranac bort."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri în Vranjska Banja",
+            "tip": "Cumpărați săruri de baie sau ierburi locale din regiunea balneară."
+          },
+          {
+            "name": "Crame",
+            "tip": "Vizitați una dintre cramele din zonă pentru a degusta și cumpăra vinul local Vranac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenirs in Vranjska Banja",
+            "tip": "Buy bath salts or local herbs from the spa region."
+          },
+          {
+            "name": "Wineries",
+            "tip": "Visit one of the wineries in the surrounding area to taste and buy the local Vranac wine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Öffnungszeiten von Vranjska Banja im Voraus.",
+          "Parken im Stadtzentrum kann an Wochentagen eine Herausforderung sein.",
+          "Die Straße nach Markovo Kale kann eng sein; fahren Sie vorsichtig.",
+          "Ein GPS oder eine Navigations-App ist für die Erkundung der Umgebung unerlässlich."
+        ],
+        "hu": [
+          "Előre ellenőrizze a Vranjska Banja nyitvatartási idejét.",
+          "A parkolás a városközpontban hétköznap kihívást jelenthet.",
+          "A Markovo Kale-hoz vezető út szűk lehet; vezessen óvatosan.",
+          "A környék felfedezéséhez elengedhetetlen egy GPS vagy navigációs alkalmazás."
+        ],
+        "ro": [
+          "Verificați în avans programul de funcționare al stațiunii Vranjska Banja.",
+          "Parcarea în centrul orașului poate fi o provocare în timpul săptămânii.",
+          "Drumul spre Markovo Kale poate fi îngust; conduceți cu prudență.",
+          "Un GPS sau o aplicație de navigație este esențială pentru a explora împrejurimile."
+        ],
+        "en": [
+          "Check the opening hours of Vranjska Banja in advance.",
+          "Parking in the city center can be challenging on weekdays.",
+          "The road to Markovo Kale can be narrow; drive carefully.",
+          "A GPS or navigation app is essential for exploring the surrounding area."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:41",
+      "total_km": 8.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Busbahnhof",
+            "hu": "Központi buszpályaudvar",
+            "ro": "Autogara Centrală",
+            "en": "Central Bus Station"
+          },
+          "coords": [
+            21.89,
+            42.551
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für eine kostengünstige Erkundung.",
+            "hu": "Vásároljon napijegyet a költséghatékony felfedezéshez.",
+            "ro": "Cumpărați un bilet de o zi pentru o explorare rentabilă.",
+            "en": "Buy a day pass for cost-effective exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Vranje Hamam",
+            "hu": "Vranjei Törökfürdő (Hamam)",
+            "ro": "Hamamul din Vranje",
+            "en": "Vranje Hamam"
+          },
+          "coords": [
+            21.8986,
+            42.5551
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:28",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2,
+          "hop_mode": "transit"
+        },
+        {
+          "name": {
+            "de": "Kathedrale der Heiligen Dreifaltigkeit",
+            "hu": "Szentháromság-székesegyház",
+            "ro": "Catedrala Sfânta Treime",
+            "en": "Cathedral of the Holy Trinity"
+          },
+          "coords": [
+            21.8955,
+            42.5566
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Nationalmuseum Vranje",
+            "hu": "Vranjei Nemzeti Múzeum",
+            "ro": "Muzeul Național din Vranje",
+            "en": "National Museum of Vranje"
+          },
+          "coords": [
+            21.8979,
+            42.5558
+          ],
+          "category": "museums",
+          "arrive_at": "11:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle für Markovo Kale",
+            "hu": "Buszmegálló a Markovo Kale felé",
+            "ro": "Stație de autobuz spre Markovo Kale",
+            "en": "Bus Stop for Markovo Kale"
+          },
+          "coords": [
+            21.905,
+            42.56
+          ],
+          "category": "transport",
+          "arrive_at": "13:14",
+          "stay_min": 5,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 4,
+          "hop_mode": "transit"
+        },
+        {
+          "name": {
+            "de": "Markovo Kale",
+            "hu": "Markovo Kale erőd",
+            "ro": "Cetatea Markovo Kale",
+            "en": "Markovo Kale"
+          },
+          "coords": [
+            21.91,
+            42.565
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.6,
+          "hop_mode": "walk"
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die öffentlichen Verkehrsmittel, um Vranje zu erkunden. Starten Sie im Herzen der Stadt, spazieren Sie vom Hamam zur Kathedrale und zum Museum. Diese erste Gruppe von Sehenswürdigkeiten gibt Ihnen einen Einblick in die Seele von Vranje. Zu Mittag nehmen Sie einen Bus in Richtung der Hügel. Ein kurzer Spaziergang bringt Sie zur Festung Markovo Kale. Genießen Sie die Aussicht und die historische Atmosphäre. Am späten Nachmittag kehren Sie mit dem Bus ins Zentrum zurück, vielleicht für einen letzten Spaziergang durch den Park, bevor Sie den Abend genießen. Am Abend belohnt Sie die Stadt mit den Aromen ihrer traditionellen Küche in einer gemütlichen Atmosphäre.",
+        "hu": "Használja a tömegközlekedést Vranje felfedezéséhez. Induljon a város szívéből, sétáljon a Hamamtól a Székesegyházig és a Múzeumig. Ez az első látnivalócsoport bepillantást enged Vranje lelkébe. Délben szálljon buszra a dombok felé. Egy rövid séta elviszi a Markovo Kale erődhöz. Élvezze a kilátást és a történelmi hangulatot. Késő délután térjen vissza busszal a központba, esetleg egy utolsó sétára a parkban, mielőtt esteledne. Este a város hagyományos konyhájának ízeivel jutalmazza meg egy hangulatos környezetben.",
+        "ro": "Folosiți transportul public pentru a explora Vranje. Începeți din inima orașului, plimbându-vă de la Hamam la Catedrală și la Muzeu. Acest prim grup de atracții vă oferă o privire asupra sufletului orașului Vranje. La prânz, luați un autobuz spre dealuri. O scurtă plimbare vă va duce la cetatea Markovo Kale. Bucurați-vă de priveliște și de atmosfera istorică. Spre seară, întoarceți-vă cu autobuzul în centru, poate pentru o ultimă plimbare prin parc înainte de a vă bucura de seară. Seara, orașul vă recompensează cu aromele bucătăriei sale tradiționale într-o atmosferă primitoare.",
+        "en": "Use public transport to explore Vranje. Start in the heart of the city, walking from the Hamam to the Cathedral and the Museum. This first cluster of sights gives you a glimpse into Vranje's soul. At noon, take a bus towards the hills. A short walk will take you to Markovo Kale fortress. Enjoy the view and the historical atmosphere. In the late afternoon, return to the center by bus, perhaps for a final stroll through the park before enjoying your evening. In the evening, the city rewards you with the flavors of its traditional cuisine in a cozy atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Burek",
+            "tip": "Ein Muss in jedem Balkanland. Probieren Sie ihn mit Käse (sir) oder Fleisch (meso)."
+          },
+          {
+            "name": "Lokale Bäckerei (Pekara)",
+            "tip": "Holen Sie sich frisches Gebäck für ein schnelles und günstiges Frühstück oder einen Snack."
+          },
+          {
+            "name": "Kafana Stari Bunar",
+            "tip": "Eine authentische Erfahrung mit Live-Musik an manchen Abenden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Burek",
+            "tip": "Minden balkáni országban kötelező. Kóstolja meg sajttal (sir) vagy hússal (meso)."
+          },
+          {
+            "name": "Helyi pékség (Pekara)",
+            "tip": "Szerezzen be friss péksüteményt egy gyors és olcsó reggelihez vagy uzsonnához."
+          },
+          {
+            "name": "Stari Bunar Kafana",
+            "tip": "Autentikus élmény, néhány estén élőzenével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Burek",
+            "tip": "O necesitate în orice țară balcanică. Încercați-l cu brânză (sir) sau carne (meso)."
+          },
+          {
+            "name": "Brutărie locală (Pekara)",
+            "tip": "Luați produse de patiserie proaspete pentru un mic dejun sau o gustare rapidă și ieftină."
+          },
+          {
+            "name": "Kafana Stari Bunar",
+            "tip": "O experiență autentică, cu muzică live în unele seri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Burek",
+            "tip": "A must-try in any Balkan country. Try it with cheese (sir) or meat (meso)."
+          },
+          {
+            "name": "Local Bakery (Pekara)",
+            "tip": "Grab some fresh pastries for a quick and cheap breakfast or snack."
+          },
+          {
+            "name": "Kafana Stari Bunar",
+            "tip": "An authentic experience with live music on some nights."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obere Sitzreihe im Bus",
+            "tip": "Beobachten Sie das Stadtleben aus einer anderen Perspektive.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang von der Bushaltestelle nach Markovo Kale",
+            "tip": "Genießen Sie die frische Luft und die Natur auf dem Weg nach oben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Eine ruhige Ecke im Stadtpark",
+            "tip": "Der perfekte Ort, um auf den Bus zurück zu warten oder den Tag zu beenden.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A busz felső üléssora",
+            "tip": "Figyelje a városi életet más szemszögből.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a buszmegállótól Markovo Kale-ig",
+            "tip": "Élvezze a friss levegőt és a természetet felfelé menet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Egy csendes sarok a Városi Parkban",
+            "tip": "Tökéletes hely a visszabuszozásra várva vagy a nap befejezésére.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rândul de sus din autobuz",
+            "tip": "Priviți viața orașului dintr-o altă perspectivă.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare de la stația de autobuz la Markovo Kale",
+            "tip": "Bucurați-vă de aerul curat și de natură în drum spre vârf.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Un colț liniștit în Parcul Municipal",
+            "tip": "Locul perfect pentru a aștepta autobuzul de întoarcere sau pentru a încheia ziua.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Upstairs seat on the bus",
+            "tip": "Watch the city life from a different perspective.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk from the bus stop to Markovo Kale",
+            "tip": "Enjoy the fresh air and nature on your way up.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A quiet corner in the City Park",
+            "tip": "The perfect spot to wait for your bus back or to end the day.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Kaufen Sie eine Zeitung oder ein Magazin für die Fahrt."
+          },
+          {
+            "name": "Markt in der Nähe des Zentrums",
+            "tip": "Steigen Sie in der Nähe des Marktes aus, um lokale Produkte zu kaufen, bevor Sie nach Hause fahren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszpályaudvaron",
+            "tip": "Vásároljon újságot vagy magazint az utazáshoz."
+          },
+          {
+            "name": "Piac a központ közelében",
+            "tip": "Szálljon le a piac közelében, hogy helyi termékeket vásároljon, mielőtt hazamegy."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la autogară",
+            "tip": "Cumpărați un ziar sau o revistă pentru călătorie."
+          },
+          {
+            "name": "Piața de lângă centru",
+            "tip": "Coborâți lângă piață pentru a cumpăra produse locale înainte de a vă întoarce acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus station",
+            "tip": "Buy a newspaper or magazine for the ride."
+          },
+          {
+            "name": "Market near the center",
+            "tip": "Get off near the market to buy some local produce before heading home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere für die letzte Rückfahrt.",
+          "Halten Sie Kleingeld für die Bustickets bereit.",
+          "Die Busse können zu Stoßzeiten voll sein; seien Sie geduldig.",
+          "Fragen Sie Einheimische nach der richtigen Buslinie; sie sind normalerweise sehr hilfsbereit."
+        ],
+        "hu": [
+          "Előre ellenőrizze a buszmenetrendet, különösen az utolsó visszajáratot.",
+          "Tartson magánál aprópénzt a buszjegyekhez.",
+          "A buszok csúcsidőben zsúfoltak lehetnek; legyen türelmes.",
+          "Kérdezze meg a helyieket a megfelelő buszjáratról; általában nagyon segítőkészek."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor în avans, în special pentru ultima cursă de întoarcere.",
+          "Păstrați mărunțiș pentru biletele de autobuz.",
+          "Autobuzele pot fi aglomerate la orele de vârf; aveți răbdare.",
+          "Întrebați localnicii despre linia de autobuz corectă; de obicei sunt foarte amabili."
+        ],
+        "en": [
+          "Check the bus schedule in advance, especially for the last return trip.",
+          "Keep small change ready for bus tickets.",
+          "Buses can be crowded during peak hours; be patient.",
+          "Ask locals for the right bus line; they are usually very helpful."
+        ]
+      }
+    }
+  }
+}

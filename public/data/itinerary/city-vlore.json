@@ -1,0 +1,1388 @@
+{
+  "city_id": "city-vlore",
+  "anchor": {
+    "name": "Vlorë",
+    "coords": [
+      19.4897,
+      40.4667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Flaggenplatz (Sheshi i Flamurit)",
+            "hu": "Zászló tér (Sheshi i Flamurit)",
+            "ro": "Piața Drapelului (Sheshi i Flamurit)",
+            "en": "Flag Square (Sheshi i Flamurit)"
+          },
+          "coords": [
+            19.4912,
+            40.4708
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Kaffee in einem der vielen Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában.",
+            "ro": "Începeți ziua cu o cafea la una dintre numeroasele cafenele din piață.",
+            "en": "Start your day with a coffee at one of the many cafes on the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der Unabhängigkeit",
+            "hu": "Függetlenségi Emlékmű",
+            "ro": "Monumentul Independenței",
+            "en": "Independence Monument"
+          },
+          "coords": [
+            19.4915,
+            40.4705
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:40",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das zentrale Symbol der albanischen Unabhängigkeit, ideal für Fotos.",
+            "hu": "Az albán függetlenség központi szimbóluma, ideális fotókhoz.",
+            "ro": "Simbolul central al independenței albaneze, perfect pentru fotografii.",
+            "en": "The central symbol of Albanian independence, ideal for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalmuseum der Unabhängigkeit",
+            "hu": "Nemzeti Függetlenségi Múzeum",
+            "ro": "Muzeul Național de Independență",
+            "en": "National Museum of Independence"
+          },
+          "coords": [
+            19.4899,
+            40.4675
+          ],
+          "category": "museums",
+          "arrive_at": "10:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Muss, um die Gründung des modernen albanischen Staates zu verstehen.",
+            "hu": "Kötelező látnivaló a modern albán állam megalapításának megértéséhez.",
+            "ro": "O vizită obligatorie pentru a înțelege fondarea statului albanez modern.",
+            "en": "A must-visit to understand the founding of the modern Albanian state."
+          }
+        },
+        {
+          "name": {
+            "de": "Muradie-Moschee",
+            "hu": "Muradie-mecset",
+            "ro": "Moscheea Muradie",
+            "en": "Muradie Mosque"
+          },
+          "coords": [
+            19.4936,
+            40.4731
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die osmanische Architektur und die friedliche Atmosphäre.",
+            "hu": "Csodálja meg az oszmán építészetet és a békés légkört.",
+            "ro": "Admirați arhitectura otomană și atmosfera pașnică.",
+            "en": "Admire the Ottoman architecture and the peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az óvárosban",
+            "ro": "Prânz în orașul vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            19.494,
+            40.4725
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Probieren Sie lokale Spezialitäten wie Byrek oder frische Meeresfrüchte.",
+            "hu": "Kóstolja meg a helyi specialitásokat, mint a byrek vagy a friss tenger gyümölcsei.",
+            "ro": "Încercați specialități locale precum Byrek sau fructe de mare proaspete.",
+            "en": "Try local specialties like Byrek or fresh seafood."
+          }
+        },
+        {
+          "name": {
+            "de": "Lungomare Promenade",
+            "hu": "Lungomare sétány",
+            "ro": "Promenada Lungomare",
+            "en": "Lungomare Promenade"
+          },
+          "coords": [
+            19.4851,
+            40.4533
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Der perfekte Ort für einen entspannten Spaziergang am Meer zum Abschluss des Tages.",
+            "hu": "Tökéletes hely egy pihentető tengerparti sétához a nap végén.",
+            "ro": "Locul perfect pentru o plimbare relaxantă pe malul mării la sfârșitul zilei.",
+            "en": "The perfect place for a relaxing stroll by the sea to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Vlorë beginnt auf dem pulsierenden Flaggenplatz, dem Herzen der albanischen Unabhängigkeit. Nach einem Einblick in die Geschichte im Nationalmuseum und einem Besuch der historischen Muradie-Moschee stärken Sie sich mit einem traditionellen Mittagessen. Der Nachmittag gehört ganz der Entspannung an der weitläufigen Lungomare-Promenade, wo die Meeresbrise und die Aussicht auf die Bucht von Vlorë den perfekten Ausklang für einen Tag voller Kultur und Entdeckungen bieten.",
+        "hu": "Vlorë-i napja a nyüzsgő Zászló téren kezdődik, az albán függetlenség szívében. Miután a Nemzeti Múzeumban betekintést nyert a történelembe, és meglátogatta a történelmi Muradie-mecsetet, egy hagyományos ebéddel erősítheti meg magát. A délután a kikapcsolódásé a tágas Lungomare sétányon, ahol a tengeri szellő és a Vlorë-öbölre nyíló kilátás tökéletes lezárása a kultúrával és felfedezésekkel teli napnak.",
+        "ro": "Ziua dvs. în Vlorë începe în vibranta Piață a Drapelului, inima independenței albaneze. După o incursiune în istorie la Muzeul Național și o vizită la moscheea istorică Muradie, vă veți reîncărca bateriile cu un prânz tradițional. După-amiaza este dedicată relaxării pe promenada spațioasă Lungomare, unde briza mării și priveliștea golfului Vlorë oferă încheierea perfectă a unei zile pline de cultură și descoperiri.",
+        "en": "Your day in Vlorë begins in the vibrant Flag Square, the heart of Albanian independence. After a glimpse into history at the National Museum and a visit to the historic Muradie Mosque, you'll refuel with a traditional lunch. The afternoon is all about relaxation on the spacious Lungomare promenade, where the sea breeze and the view of the Bay of Vlorë provide the perfect end to a day full of culture and discovery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tavë Kosi",
+            "tip": "Ein traditioneller albanischer Auflauf mit Lamm und Joghurt."
+          },
+          {
+            "name": "Frische Meeresfrüchte",
+            "tip": "Genießen Sie den Fang des Tages in einem Restaurant an der Lungomare."
+          },
+          {
+            "name": "Byrek",
+            "tip": "Ein herzhaftes Gebäck, perfekt für einen schnellen Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tavë Kosi",
+            "tip": "Hagyományos albán rakott étel bárányhússal és joghurttal."
+          },
+          {
+            "name": "Friss tenger gyümölcsei",
+            "tip": "Élvezze a nap fogását egy étteremben a Lungomare sétányon."
+          },
+          {
+            "name": "Byrek",
+            "tip": "Sós péksütemény, tökéletes egy gyors harapnivalóhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tavë Kosi",
+            "tip": "O tocană tradițională albaneză cu miel și iaurt."
+          },
+          {
+            "name": "Fructe de mare proaspete",
+            "tip": "Bucurați-vă de captura zilei la un restaurant de pe Lungomare."
+          },
+          {
+            "name": "Byrek",
+            "tip": "O patiserie sărată, perfectă pentru o gustare rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tavë Kosi",
+            "tip": "A traditional Albanian casserole with lamb and yogurt."
+          },
+          {
+            "name": "Fresh Seafood",
+            "tip": "Enjoy the catch of the day at a restaurant on the Lungomare."
+          },
+          {
+            "name": "Byrek",
+            "tip": "A savory pastry, perfect for a quick snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenuntergang am Lungomare",
+            "tip": "Finden Sie eine Bank und beobachten Sie, wie die Sonne über dem Meer untergeht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ein ruhiger Moment in der Muradie-Moschee",
+            "tip": "Der Innenhof bietet eine Oase der Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente a Lungomarén",
+            "tip": "Keressen egy padot, és nézze, ahogy a nap lemegy a tenger felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Egy csendes pillanat a Muradie-mecsetben",
+            "tip": "Az udvar a nyugalom oázisát kínálja.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apus de soare pe Lungomare",
+            "tip": "Găsiți o bancă și priviți cum soarele apune peste mare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Un moment de liniște la Moscheea Muradie",
+            "tip": "Curtea interioară oferă o oază de pace.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunset at Lungomare",
+            "tip": "Find a bench and watch the sun set over the sea.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A quiet moment at Muradie Mosque",
+            "tip": "The courtyard offers an oasis of peace.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerkskunst",
+            "tip": "Suchen Sie in den kleinen Läden der Altstadt nach handgemachten Souvenirs."
+          },
+          {
+            "name": "Albanischer Wein",
+            "tip": "Eine Flasche lokalen Weins ist ein tolles Mitbringsel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen kézzel készített szuveníreket az óváros kis üzleteiben."
+          },
+          {
+            "name": "Albán bor",
+            "tip": "Egy üveg helyi bor nagyszerű ajándék."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați suveniruri lucrate manual în magazinele mici din orașul vechi."
+          },
+          {
+            "name": "Vin albanez",
+            "tip": "O sticlă de vin local este un suvenir minunat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Crafts",
+            "tip": "Look for handmade souvenirs in the small shops of the old town."
+          },
+          {
+            "name": "Albanian Wine",
+            "tip": "A bottle of local wine is a great souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Eine Wasserflasche ist an warmen Tagen unerlässlich.",
+          "Achten Sie auf unebene Pflastersteine in der Altstadt.",
+          "Genießen Sie die Flexibilität und entdecken Sie kleine Gassen abseits der Hauptroute."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "Egy vizes palack elengedhetetlen a meleg napokon.",
+          "Vigyázzon az egyenetlen macskakövekre az óvárosban.",
+          "Élvezze a rugalmasságot és fedezzen fel kis sikátorokat a fő útvonalon kívül."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "O sticlă de apă este esențială în zilele calde.",
+          "Aveți grijă la pavelele denivelate din orașul vechi.",
+          "Bucurați-vă de flexibilitate și explorați aleile mici de pe lângă traseul principal."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking a lot.",
+          "A water bottle is essential on warm days.",
+          "Watch out for uneven cobblestones in the old town.",
+          "Enjoy the flexibility and discover small alleys off the main route."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradverleih am Lungomare",
+            "hu": "Kerékpárkölcsönző a Lungomarén",
+            "ro": "Închiriere de biciclete pe Lungomare",
+            "en": "Bike rental on the Lungomare"
+          },
+          "coords": [
+            19.4845,
+            40.452
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Mieten Sie ein Rad für den Tag, um die Stadt flexibel zu erkunden.",
+            "hu": "Béreljen kerékpárt egy napra, hogy rugalmasan fedezhesse fel a várost.",
+            "ro": "Închiriați o bicicletă pentru o zi pentru a explora orașul în mod flexibil.",
+            "en": "Rent a bike for the day to explore the city flexibly."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Flaggenplatz",
+            "hu": "Utazás a Zászló térre",
+            "ro": "Plimbare cu bicicleta până la Piața Drapelului",
+            "en": "Ride to Flag Square"
+          },
+          "coords": [
+            19.4912,
+            40.4708
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Erleben Sie das geschäftige Zentrum der Stadt.",
+            "hu": "Tapasztalja meg a város nyüzsgő központját.",
+            "ro": "Experimentați centrul plin de viață al orașului.",
+            "en": "Experience the bustling center of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Muradie-Moschee",
+            "hu": "Muradie-mecset",
+            "ro": "Moscheea Muradie",
+            "en": "Muradie Mosque"
+          },
+          "coords": [
+            19.4936,
+            40.4731
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:25",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab, bevor Sie die Moschee betreten.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt belép a mecsetbe.",
+            "ro": "Asigurați-vă bicicleta înainte de a intra în moschee.",
+            "en": "Secure your bike before entering the mosque."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Kuzum Baba",
+            "hu": "Utazás a Kuzum Babához",
+            "ro": "Plimbare cu bicicleta la Kuzum Baba",
+            "en": "Ride to Kuzum Baba"
+          },
+          "coords": [
+            19.4995,
+            40.4755
+          ],
+          "category": "natural features",
+          "arrive_at": "11:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Der Anstieg ist anspruchsvoll, aber die Aussicht über Vlorë belohnt die Mühe.",
+            "hu": "Az emelkedő kihívást jelent, de a Vlorë-ra nyíló kilátás megéri a fáradozást.",
+            "ro": "Urcușul este solicitant, dar priveliștea asupra orașului Vlorë merită efortul.",
+            "en": "The climb is challenging, but the view over Vlorë rewards the effort."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen mit Aussicht",
+            "hu": "Ebéd kilátással",
+            "ro": "Prânz cu priveliște",
+            "en": "Lunch with a view"
+          },
+          "coords": [
+            19.499,
+            40.475
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie ein Mittagessen in einem der Restaurants auf dem Hügel.",
+            "hu": "Ebédeljen a hegyen található éttermek egyikében.",
+            "ro": "Bucurați-vă de un prânz la unul dintre restaurantele de pe deal.",
+            "en": "Enjoy lunch at one of the restaurants on the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Entspannte Rückfahrt entlang der Lungomare",
+            "hu": "Kényelmes visszaút a Lungomare mentén",
+            "ro": "Plimbare relaxantă înapoi de-a lungul Lungomare",
+            "en": "Relaxing ride back along the Lungomare"
+          },
+          "coords": [
+            19.4848,
+            40.4525
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:10",
+          "stay_min": 155,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Halten Sie für ein Eis oder ein erfrischendes Getränk an.",
+            "hu": "Álljon meg egy fagyira vagy egy frissítő italra.",
+            "ro": "Opriți-vă pentru o înghețată sau o băutură răcoritoare.",
+            "en": "Stop for an ice cream or a refreshing drink."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und starten Sie an der sonnigen Lungomare-Promenade. Die Tour führt Sie ins historische Herz Vlorës zum Flaggenplatz und der Muradie-Moschee. Der sportliche Höhepunkt ist der Anstieg zum Kuzum Baba, wo Sie ein Panoramablick und ein verdientes Mittagessen erwarten. Den Nachmittag verbringen Sie mit einer gemütlichen Rückfahrt entlang der Küste, mit viel Zeit für Pausen, Eis und das Genießen der Meeresbrise.",
+        "hu": "Pattanjon kerékpárra, és induljon a napsütötte Lungomare sétányról. A túra Vlorë történelmi szívébe, a Zászló térre és a Muradie-mecsethez vezet. A sportos csúcspont a Kuzum Babára való feljutás, ahol panorámás kilátás és egy megérdemelt ebéd várja. A délutánt egy kellemes visszaúttal tölti a part mentén, bőven időt hagyva pihenőkre, fagyizásra és a tengeri szellő élvezetére.",
+        "ro": "Urcați-vă pe bicicletă și porniți de pe promenada însorită Lungomare. Turul vă duce în inima istorică a orașului Vlorë, la Piața Drapelului și la Moscheea Muradie. Punctul culminant sportiv este urcarea la Kuzum Baba, unde vă așteaptă o priveliște panoramică și un prânz binemeritat. Petreceți după-amiaza cu o plimbare relaxantă înapoi de-a lungul coastei, cu mult timp pentru pauze, înghețată și bucurându-vă de briza mării.",
+        "en": "Get on your bike and start from the sunny Lungomare promenade. The tour takes you to the historic heart of Vlorë, to Flag Square and the Muradie Mosque. The sporting highlight is the climb to Kuzum Baba, where a panoramic view and a well-deserved lunch await you. Spend the afternoon with a leisurely ride back along the coast, with plenty of time for breaks, ice cream, and enjoying the sea breeze."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Petulla",
+            "tip": "Frittierte Teigbällchen, ein schneller Energielieferant."
+          },
+          {
+            "name": "Gegrillter Fisch",
+            "tip": "Frisch aus dem Ionischen Meer, ein Muss für Fischliebhaber."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Probieren Sie ein kühles Birra Tirana nach der Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Petulla",
+            "tip": "Sült tésztagombóc, gyors energiaforrás."
+          },
+          {
+            "name": "Grillezett hal",
+            "tip": "Frissen a Jón-tengerből, kötelező a halak szerelmeseinek."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Kóstoljon meg egy hideg Birra Tiranát a kerékpártúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Petulla",
+            "tip": "Gogoși prăjite, o sursă rapidă de energie."
+          },
+          {
+            "name": "Pește la grătar",
+            "tip": "Proaspăt din Marea Ionică, un deliciu pentru iubitorii de pește."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "Încercați o Birra Tirana rece după turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Petulla",
+            "tip": "Fried dough balls, a quick source of energy."
+          },
+          {
+            "name": "Grilled Fish",
+            "tip": "Fresh from the Ionian Sea, a must for fish lovers."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Try a cold Birra Tirana after the bike tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussicht von Kuzum Baba",
+            "tip": "Genießen Sie die Stille und den weiten Blick über die Stadt und das Meer.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Versteckte Strandabschnitte",
+            "tip": "Suchen Sie entlang der Lungomare nach kleineren, ruhigeren Buchten.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a Kuzum Babáról",
+            "tip": "Élvezze a csendet és a városra és a tengerre nyíló széles kilátást.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rejtett strandszakaszok",
+            "tip": "Keressen kisebb, csendesebb öblöket a Lungomare mentén.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Priveliștea de la Kuzum Baba",
+            "tip": "Bucurați-vă de liniște și de priveliștea vastă asupra orașului și a mării.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plaje ascunse",
+            "tip": "Căutați golfuri mai mici și mai liniștite de-a lungul Lungomare.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from Kuzum Baba",
+            "tip": "Enjoy the silence and the wide view over the city and the sea.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hidden beach sections",
+            "tip": "Look for smaller, quieter coves along the Lungomare.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Oljivenöl aus der Region",
+            "tip": "Die Gegend um Vlorë ist bekannt für ihr ausgezeichnetes Olivenöl."
+          },
+          {
+            "name": "Raki",
+            "tip": "Der traditionelle albanische Schnaps, ein starkes Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "Vlorë környéke kiváló olívaolajáról ismert."
+          },
+          {
+            "name": "Raki",
+            "tip": "A hagyományos albán pálinka, egy erős szuvenír."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Zona din jurul Vlorë este cunoscută pentru uleiul său de măsline excelent."
+          },
+          {
+            "name": "Raki",
+            "tip": "Rachiul tradițional albanez, un suvenir puternic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local olive oil",
+            "tip": "The area around Vlorë is known for its excellent olive oil."
+          },
+          {
+            "name": "Raki",
+            "tip": "The traditional Albanian brandy, a strong souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Bremsen und Reifen des Leihrads.",
+          "Ein Helm wird empfohlen, besonders im Stadtverkehr.",
+          "Nehmen Sie genügend Wasser für den Anstieg zum Kuzum Baba mit.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, wenn Sie es abstellen."
+        ],
+        "hu": [
+          "Ellenőrizze a bérelt kerékpár fékjeit és abroncsait.",
+          "Sisak viselése ajánlott, különösen a városi forgalomban.",
+          "Vigyen elegendő vizet a Kuzum Babára való feljutáshoz.",
+          "Mindig zárja le jól a kerékpárját, ha leállítja."
+        ],
+        "ro": [
+          "Verificați frânele și anvelopele bicicletei închiriate.",
+          "Se recomandă cască, în special în traficul urban.",
+          "Luați suficientă apă pentru urcarea la Kuzum Baba.",
+          "Încuiați întotdeauna bicicleta bine când o parcați."
+        ],
+        "en": [
+          "Check the brakes and tires of the rental bike.",
+          "A helmet is recommended, especially in city traffic.",
+          "Take enough water for the climb to Kuzum Baba.",
+          "Always lock your bike securely when you park it."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 42.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrt zum Kloster Zvërnec (Cluster A)",
+            "hu": "Utazás a Zvërneci kolostorhoz (A klaszter)",
+            "ro": "Drum spre Mănăstirea Zvërnec (Cluster A)",
+            "en": "Drive to Zvërnec Monastery (Cluster A)"
+          },
+          "coords": [
+            19.4042,
+            40.5106
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 14.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Anfang des Holzstegs. Der Spaziergang über die Lagune ist malerisch.",
+            "hu": "Parkoljon a fa móló elején. A séta a lagúnán keresztül festői.",
+            "ro": "Parcați la începutul pasarelei de lemn. Plimbarea peste lagună este pitorească.",
+            "en": "Park at the beginning of the wooden walkway. The walk across the lagoon is picturesque."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang auf der Insel Zvërnec",
+            "hu": "Séta a Zvërnec-szigeten",
+            "ro": "Plimbare pe insula Zvërnec",
+            "en": "Walk on Zvërnec Island"
+          },
+          "coords": [
+            19.4035,
+            40.5115
+          ],
+          "category": "natural features",
+          "arrive_at": "10:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe und die Natur auf der kleinen Insel.",
+            "hu": "Élvezze a csendet és a természetet a kis szigeten.",
+            "ro": "Bucurați-vă de liniște și natură pe mica insulă.",
+            "en": "Enjoy the peace and nature on the small island."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Burg Kaninë (Cluster B)",
+            "hu": "Utazás Kaninë várához (B klaszter)",
+            "ro": "Drum spre Cetatea Kaninë (Cluster B)",
+            "en": "Drive to Kaninë Castle (Cluster B)"
+          },
+          "coords": [
+            19.5208,
+            40.4358
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 16.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Die Straße kann eng sein, fahren Sie vorsichtig. Die Aussicht ist die Fahrt wert.",
+            "hu": "Az út szűk lehet, vezessen óvatosan. A kilátás megéri az utat.",
+            "ro": "Drumul poate fi îngust, conduceți cu prudență. Priveliștea merită călătoria.",
+            "en": "The road can be narrow, drive carefully. The view is worth the drive."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Kaninë",
+            "hu": "Ebéd Kaninë-ben",
+            "ro": "Prânz în Kaninë",
+            "en": "Lunch in Kaninë"
+          },
+          "coords": [
+            19.5195,
+            40.4365
+          ],
+          "category": "gastro",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suchen Sie ein Restaurant mit Blick auf die Bucht von Vlorë.",
+            "hu": "Keressen egy éttermet, ahonnan kilátás nyílik a Vlorë-öbölre.",
+            "ro": "Căutați un restaurant cu vedere la Golful Vlorë.",
+            "en": "Look for a restaurant with a view of the Bay of Vlorë."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt ins Zentrum von Vlorë (Cluster C)",
+            "hu": "Utazás Vlorë központjába (C klaszter)",
+            "ro": "Drum spre centrul orașului Vlorë (Cluster C)",
+            "en": "Drive to Vlorë center (Cluster C)"
+          },
+          "coords": [
+            19.4912,
+            40.4708
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Flaggenplatzes und erkunden Sie den Rest zu Fuß.",
+            "hu": "Parkoljon a Zászló tér közelében, és fedezze fel a többit gyalog.",
+            "ro": "Parcați lângă Piața Drapelului și explorați restul pe jos.",
+            "en": "Park near Flag Square and explore the rest on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal & Museum der Unabhängigkeit",
+            "hu": "Függetlenségi Emlékmű és Múzeum",
+            "ro": "Monumentul și Muzeul Independenței",
+            "en": "Independence Monument & Museum"
+          },
+          "coords": [
+            19.4905,
+            40.469
+          ],
+          "category": "museums",
+          "arrive_at": "14:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Besuch des Denkmals mit dem nahegelegenen Museum.",
+            "hu": "Kombinálja az emlékmű látogatását a közeli múzeummal.",
+            "ro": "Combinați vizita la monument cu muzeul din apropiere.",
+            "en": "Combine the visit to the monument with the nearby museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaffee und Entspannung am Lungomare",
+            "hu": "Kávé és pihenés a Lungomarén",
+            "ro": "Cafea și relaxare pe Lungomare",
+            "en": "Coffee and relaxation on the Lungomare"
+          },
+          "coords": [
+            19.4851,
+            40.4533
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:35",
+          "stay_min": 85,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Kaffee oder einem Spaziergang am Meer.",
+            "hu": "Zárja a napot egy kávéval vagy egy tengerparti sétával.",
+            "ro": "Încheiați ziua cu o cafea sau o plimbare pe malul mării.",
+            "en": "End the day with a coffee or a walk by the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt mit einer malerischen Fahrt zum abgelegenen Kloster Zvërnec, das auf einer Insel in einer Lagune liegt. Nach der morgendlichen Ruhe erklimmen Sie mit dem Auto die Hügel zur Burg Kaninë für einen atemberaubenden Panoramablick und ein Mittagessen. Am Nachmittag tauchen Sie in die Geschichte Vlorës im Stadtzentrum ein, bevor Sie den Tag entspannt an der modernen Lungomare-Promenade ausklingen lassen. Diese Tour verbindet Natur, Geschichte und städtisches Leben perfekt.",
+        "hu": "Autós napja egy festői utazással kezdődik a félreeső Zvërnec-kolostorhoz, amely egy lagúnában lévő szigeten található. A reggeli csend után autóval mássza meg a dombokat Kaninë várához, ahonnan lélegzetelállító panoráma és ebéd várja. Délután merüljön el Vlorë történelmében a városközpontban, mielőtt a napot a modern Lungomare sétányon pihenve fejezi be. Ez a túra tökéletesen ötvözi a természetet, a történelmet és a városi életet.",
+        "ro": "Ziua dvs. cu mașina începe cu o călătorie pitorească la mănăstirea izolată Zvërnec, situată pe o insulă într-o lagună. După liniștea de dimineață, veți urca dealurile cu mașina până la Cetatea Kaninë pentru o priveliște panoramică uluitoare și prânz. După-amiaza, vă veți scufunda în istoria orașului Vlorë în centrul orașului, înainte de a încheia ziua relaxându-vă pe promenada modernă Lungomare. Acest tur combină perfect natura, istoria și viața urbană.",
+        "en": "Your car day begins with a scenic drive to the secluded Zvërnec Monastery, located on an island in a lagoon. After the morning tranquility, you'll climb the hills by car to Kaninë Castle for a breathtaking panoramic view and lunch. In the afternoon, you'll delve into the history of Vlorë in the city center before ending the day relaxing on the modern Lungomare promenade. This tour perfectly combines nature, history, and urban life."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lamm am Spieß",
+            "tip": "Eine Spezialität in den Bergrestaurants wie in Kaninë."
+          },
+          {
+            "name": "Fërgesë",
+            "tip": "Ein herzhafter Auflauf mit Paprika, Tomaten und Hüttenkäse."
+          },
+          {
+            "name": "Meeresfrüchte-Risotto",
+            "tip": "Die italienische Nähe inspiriert die lokale Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nyárson sült bárány",
+            "tip": "Specialitás a hegyi éttermekben, mint például Kaninë-ben."
+          },
+          {
+            "name": "Fërgesë",
+            "tip": "Sós rakott étel paprikával, paradicsommal és túróval."
+          },
+          {
+            "name": "Tenger gyümölcsei rizottó",
+            "tip": "Az olasz közelség inspirálja a helyi konyhát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miel la proțap",
+            "tip": "O specialitate în restaurantele montane precum cele din Kaninë."
+          },
+          {
+            "name": "Fërgesë",
+            "tip": "O tocană consistentă cu ardei, roșii și brânză de vaci."
+          },
+          {
+            "name": "Risotto cu fructe de mare",
+            "tip": "Apropierea italiană inspiră bucătăria locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lamb on the spit",
+            "tip": "A specialty in mountain restaurants like those in Kaninë."
+          },
+          {
+            "name": "Fërgesë",
+            "tip": "A hearty casserole with peppers, tomatoes, and cottage cheese."
+          },
+          {
+            "name": "Seafood Risotto",
+            "tip": "The Italian proximity inspires the local cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Insel Zvërnec",
+            "tip": "Der Pinienwald und die Lagune bieten eine friedliche Flucht.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick von der Burg Kaninë",
+            "tip": "Überblicken Sie die gesamte Bucht in stiller Erhabenheit.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ein abgelegener Strand",
+            "tip": "Südlich von Vlorë finden Sie mit dem Auto ruhigere Strände.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zvërnec-sziget",
+            "tip": "A fenyőerdő és a lagúna békés menedéket nyújt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás Kaninë várából",
+            "tip": "Tekintse át az egész öblöt csendes fenségben.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy eldugott strand",
+            "tip": "Vlorë-től délre autóval csendesebb strandokat talál.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Insula Zvërnec",
+            "tip": "Pădurea de pini și laguna oferă o evadare pașnică.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de la Cetatea Kaninë",
+            "tip": "Priviți întregul golf în măreție tăcută.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O plajă retrasă",
+            "tip": "La sud de Vlorë, veți găsi plaje mai liniștite cu mașina.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Zvërnec Island",
+            "tip": "The pine forest and the lagoon offer a peaceful escape.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from Kaninë Castle",
+            "tip": "Overlook the entire bay in silent majesty.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A secluded beach",
+            "tip": "South of Vlorë, you will find quieter beaches by car.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Honig aus den Bergen",
+            "tip": "Suchen Sie nach lokalem Honig, der in der Nähe von Kaninë verkauft wird."
+          },
+          {
+            "name": "Keramik",
+            "tip": "Handgefertigte Keramik ist ein schönes und authentisches Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hegyi méz",
+            "tip": "Keressen helyi mézet, amelyet Kaninë közelében árulnak."
+          },
+          {
+            "name": "Kerámia",
+            "tip": "A kézzel készített kerámia szép és autentikus szuvenír."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere de munte",
+            "tip": "Căutați miere locală vândută în apropiere de Kaninë."
+          },
+          {
+            "name": "Ceramică",
+            "tip": "Ceramica lucrată manual este un suvenir frumos și autentic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mountain honey",
+            "tip": "Look for local honey sold near Kaninë."
+          },
+          {
+            "name": "Ceramics",
+            "tip": "Handmade ceramics are a beautiful and authentic souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Planen Sie genügend Zeit für die Fahrten ein, da die Straßen kurvig sein können.",
+          "Ein Auto mit guter Bodenfreiheit ist für einige Nebenstraßen von Vorteil.",
+          "Parken kann im Stadtzentrum schwierig sein; nutzen Sie kostenpflichtige Parkplätze.",
+          "Laden Sie Offline-Karten herunter, da die Mobilfunkabdeckung in ländlichen Gebieten lückenhaft sein kann."
+        ],
+        "hu": [
+          "Tervezzen elegendő időt az utazásokra, mivel az utak kanyargósak lehetnek.",
+          "Egy jó hasmagasságú autó előnyös lehet néhány mellékúton.",
+          "A parkolás nehéz lehet a városközpontban; használjon fizetős parkolókat.",
+          "Töltsön le offline térképeket, mivel a mobil lefedettség hiányos lehet a vidéki területeken."
+        ],
+        "ro": [
+          "Planificați suficient timp pentru călătorii, deoarece drumurile pot fi sinuoase.",
+          "O mașină cu o gardă la sol bună este avantajoasă pentru unele drumuri secundare.",
+          "Parcarea poate fi dificilă în centrul orașului; folosiți parcări cu plată.",
+          "Descărcați hărți offline, deoarece acoperirea mobilă poate fi slabă în zonele rurale."
+        ],
+        "en": [
+          "Allow enough time for the drives, as the roads can be winding.",
+          "A car with good ground clearance is advantageous for some side roads.",
+          "Parking can be difficult in the city center; use paid parking lots.",
+          "Download offline maps, as mobile coverage can be patchy in rural areas."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 7.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrt zum Flaggenplatz (Cluster A)",
+            "hu": "Utazás a Zászló térre (A klaszter)",
+            "ro": "Călătorie spre Piața Drapelului (Cluster A)",
+            "en": "Trip to Flag Square (Cluster A)"
+          },
+          "coords": [
+            19.4912,
+            40.4708
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie im Herzen der Stadt, das von vielen Buslinien angefahren wird.",
+            "hu": "Kezdje a város szívében, amelyet számos buszjárat érint.",
+            "ro": "Începeți în inima orașului, deservită de multe linii de autobuz.",
+            "en": "Start in the heart of the city, which is served by many bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Muradie-Moschee & Altstadt",
+            "hu": "Muradie-mecset és Óváros",
+            "ro": "Moscheea Muradie și Orașul Vechi",
+            "en": "Muradie Mosque & Old Town"
+          },
+          "coords": [
+            19.4936,
+            40.4731
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie von der Moschee durch die umliegenden Gassen.",
+            "hu": "Sétáljon a mecsettől a környező sikátorokon keresztül.",
+            "ro": "Plimbați-vă de la moschee pe aleile înconjurătoare.",
+            "en": "Stroll from the mosque through the surrounding alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalmuseum der Unabhängigkeit",
+            "hu": "Nemzeti Függetlenségi Múzeum",
+            "ro": "Muzeul Național de Independență",
+            "en": "National Museum of Independence"
+          },
+          "coords": [
+            19.4899,
+            40.4675
+          ],
+          "category": "museums",
+          "arrive_at": "10:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Zentrum zum wichtigsten Museum der Stadt.",
+            "hu": "Egy rövid séta a központból a város legfontosabb múzeumához.",
+            "ro": "O scurtă plimbare de la centru la cel mai important muzeu din oraș.",
+            "en": "A short walk from the center to the city's most important museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zur Lungomare (Cluster B)",
+            "hu": "Buszozás a Lungomaréhoz (B klaszter)",
+            "ro": "Călătorie cu autobuzul spre Lungomare (Cluster B)",
+            "en": "Bus ride to the Lungomare (Cluster B)"
+          },
+          "coords": [
+            19.4851,
+            40.4533
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie aus und genießen Sie sofort die Meeresbrise.",
+            "hu": "Szálljon ki, és azonnal élvezze a tengeri szellőt.",
+            "ro": "Coborâți și bucurați-vă imediat de briza mării.",
+            "en": "Get off and immediately enjoy the sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Meer",
+            "hu": "Ebéd a tengernél",
+            "ro": "Prânz pe malul mării",
+            "en": "Lunch by the sea"
+          },
+          "coords": [
+            19.4845,
+            40.452
+          ],
+          "category": "gastro",
+          "arrive_at": "14:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zahlreiche Restaurants bieten hier frischen Fisch und Meeresfrüchte an.",
+            "hu": "Számos étterem kínál itt friss halat és tenger gyümölcseit.",
+            "ro": "Numeroase restaurante oferă aici pește proaspăt și fructe de mare.",
+            "en": "Numerous restaurants here offer fresh fish and seafood."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Kuzum Baba (Cluster C)",
+            "hu": "Buszozás a Kuzum Babához (C klaszter)",
+            "ro": "Călătorie cu autobuzul la Kuzum Baba (Cluster C)",
+            "en": "Bus ride to Kuzum Baba (Cluster C)"
+          },
+          "coords": [
+            19.4995,
+            40.4755
+          ],
+          "category": "natural features",
+          "arrive_at": "16:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Bus bringt Sie nahe an den Gipfel. Ein kurzer Spaziergang für die beste Aussicht.",
+            "hu": "A busz közel visz a csúcshoz. Egy rövid séta a legjobb kilátásért.",
+            "ro": "Autobuzul vă duce aproape de vârf. O scurtă plimbare pentru cea mai bună priveliște.",
+            "en": "The bus takes you close to the summit. A short walk for the best view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Bus erkunden Sie Vlorë effizient und authentisch. Der Tag beginnt im historischen Zentrum rund um den Flaggenplatz. Nach einem Spaziergang durch die Geschichte ist es Zeit für einen Szenenwechsel: Der Bus bringt Sie direkt an die lebhafte Lungomare-Promenade für ein Mittagessen am Meer. Den krönenden Abschluss bildet eine weitere Busfahrt hinauf zum Kuzum Baba, von wo aus Sie den Sonnenuntergang über der Stadt und der Bucht genießen – ein perfekter Überblick zum Ende des Tages.",
+        "hu": "Busszal hatékonyan és hitelesen fedezheti fel Vlorë-t. A nap a történelmi központban, a Zászló tér környékén kezdődik. Egy történelmi séta után ideje a helyszínváltásnak: a busz egyenesen az élénk Lungomare sétányra viszi egy tengerparti ebédre. A nap megkoronázása egy újabb buszozás a Kuzum Babára, ahonnan élvezheti a naplementét a város és az öböl felett – tökéletes áttekintés a nap végén.",
+        "ro": "Cu autobuzul, explorați Vlorë eficient și autentic. Ziua începe în centrul istoric din jurul Pieței Drapelului. După o plimbare prin istorie, este timpul pentru o schimbare de decor: autobuzul vă duce direct la promenada animată Lungomare pentru un prânz pe malul mării. Marea finală este o altă călătorie cu autobuzul până la Kuzum Baba, de unde vă puteți bucura de apusul soarelui peste oraș și golf – o imagine de ansamblu perfectă la sfârșitul zilei.",
+        "en": "By bus, you can explore Vlorë efficiently and authentically. The day begins in the historic center around Flag Square. After a walk through history, it's time for a change of scenery: the bus takes you directly to the lively Lungomare promenade for lunch by the sea. The grand finale is another bus ride up to Kuzum Baba, from where you can enjoy the sunset over the city and the bay – a perfect overview at the end of the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Qofte",
+            "tip": "Würzige albanische Fleischbällchen, oft vom Grill."
+          },
+          {
+            "name": "Salat mit Meeresfrüchten",
+            "tip": "Eine leichte und erfrischende Option für ein Mittagessen am Strand."
+          },
+          {
+            "name": "Trileçe",
+            "tip": "Ein saftiger Milchkuchen, ein beliebter Nachtisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Qofte",
+            "tip": "Fűszeres albán húsgombóc, gyakran grillezve."
+          },
+          {
+            "name": "Tenger gyümölcsei saláta",
+            "tip": "Könnyű és frissítő lehetőség egy tengerparti ebédhez."
+          },
+          {
+            "name": "Trileçe",
+            "tip": "Szaftos tejes sütemény, népszerű desszert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Qofte",
+            "tip": "Chiftele albaneze picante, adesea la grătar."
+          },
+          {
+            "name": "Salată de fructe de mare",
+            "tip": "O opțiune ușoară și răcoritoare pentru un prânz pe plajă."
+          },
+          {
+            "name": "Trileçe",
+            "tip": "O prăjitură cu lapte suculentă, un desert popular."
+          }
+        ],
+        "en": [
+          {
+            "name": "Qofte",
+            "tip": "Spicy Albanian meatballs, often grilled."
+          },
+          {
+            "name": "Seafood Salad",
+            "tip": "A light and refreshing option for lunch on the beach."
+          },
+          {
+            "name": "Trileçe",
+            "tip": "A juicy milk cake, a popular dessert."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Panoramablick von Kuzum Baba",
+            "tip": "Der beste Ort, um die Stadt von oben zu betrachten und dem Trubel zu entkommen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ein Café in einer Seitengasse",
+            "tip": "Entfliehen Sie dem Lärm der Hauptstraßen in der Altstadt.",
+            "emoji": "☕"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Panorámás kilátás a Kuzum Babáról",
+            "tip": "A legjobb hely a város felülről való megtekintésére és a nyüzsgés elől való menekülésre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Egy kávézó egy mellékutcában",
+            "tip": "Meneküljön el a főutcák zajától az óvárosban.",
+            "emoji": "☕"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere panoramică de la Kuzum Baba",
+            "tip": "Cel mai bun loc pentru a privi orașul de sus și a scăpa de agitație.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "O cafenea pe o alee laterală",
+            "tip": "Evadați de zgomotul străzilor principale din orașul vechi.",
+            "emoji": "☕"
+          }
+        ],
+        "en": [
+          {
+            "name": "Panoramic view from Kuzum Baba",
+            "tip": "The best place to view the city from above and escape the hustle and bustle.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A café in a side alley",
+            "tip": "Escape the noise of the main streets in the old town.",
+            "emoji": "☕"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach dem Hauptmarkt für frische Produkte und eine authentische Atmosphäre."
+          },
+          {
+            "name": "Bücher über Albanien",
+            "tip": "Einige Buchhandlungen bieten englischsprachige Bücher zur Geschichte Albaniens an."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keresse a fő piacot friss termékekért és autentikus hangulatért."
+          },
+          {
+            "name": "Könyvek Albániáról",
+            "tip": "Néhány könyvesbolt angol nyelvű könyveket kínál Albánia történelméről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați piața principală pentru produse proaspete și o atmosferă autentică."
+          },
+          {
+            "name": "Cărți despre Albania",
+            "tip": "Unele librării oferă cărți în limba engleză despre istoria Albaniei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for the main market for fresh produce and an authentic atmosphere."
+          },
+          {
+            "name": "Books about Albania",
+            "tip": "Some bookstores offer English-language books on Albanian history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Fragen Sie Einheimische oder den Busfahrer nach der richtigen Linie; die Beschilderung kann unklar sein.",
+          "Haben Sie Kleingeld für die Tickets bereit.",
+          "Seien Sie auf volle Busse zu Stoßzeiten vorbereitet."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy pénzt takarítson meg.",
+          "Kérdezze meg a helyieket vagy a buszsofőrt a megfelelő járatról; a táblák félreérthetőek lehetnek.",
+          "Készítsen elő aprópénzt a jegyekhez.",
+          "Készüljön fel a zsúfolt buszokra csúcsidőben."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru a economisi bani.",
+          "Întrebați localnicii sau șoferul de autobuz despre linia corectă; semnalizarea poate fi neclară.",
+          "Aveți pregătiți bani mărunți pentru bilete.",
+          "Fiți pregătiți pentru autobuze aglomerate la orele de vârf."
+        ],
+        "en": [
+          "Buy a day ticket for the bus to save money.",
+          "Ask locals or the bus driver for the right line; the signage can be unclear.",
+          "Have small change ready for the tickets.",
+          "Be prepared for crowded buses during peak hours."
+        ]
+      }
+    }
+  }
+}

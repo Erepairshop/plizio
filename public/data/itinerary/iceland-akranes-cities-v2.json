@@ -1,0 +1,1067 @@
+{
+  "city_id": "iceland-akranes-cities-v2",
+  "anchor": {
+    "name": "Akranes",
+    "coords": [
+      -22.0667,
+      64.3167
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Akraneskirkja",
+            "hu": "Akraneskirkja templom",
+            "ro": "Biserica Akraneskirkja",
+            "en": "Akraneskirkja Church"
+          },
+          "coords": [
+            -22.07,
+            64.318
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die modernen Buntglasfenster.",
+            "hu": "Csodálja meg a modern ólomüveg ablakokat.",
+            "ro": "Admirați vitraliile moderne.",
+            "en": "Admire the modern stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Volksmuseum Akranes",
+            "hu": "Akranesi Néprajzi Múzeum",
+            "ro": "Muzeul Popular Akranes",
+            "en": "Akranes Folk Museum"
+          },
+          "coords": [
+            -22.075,
+            64.319
+          ],
+          "category": "museums",
+          "arrive_at": "09:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Ausstellung alter isländischer Häuser.",
+            "hu": "Ne hagyja ki a régi izlandi házak kiállítását.",
+            "ro": "Nu ratați expoziția de case vechi islandeze.",
+            "en": "Don't miss the exhibit of old Icelandic houses."
+          }
+        },
+        {
+          "name": {
+            "de": "Schiffswrack Garðar BA 64",
+            "hu": "Garðar BA 64 hajóroncs",
+            "ro": "Epava Garðar BA 64",
+            "en": "Garðar BA 64 Shipwreck"
+          },
+          "coords": [
+            -22.095,
+            64.314
+          ],
+          "category": "historical",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Perfekter Ort für dramatische Fotos bei Sonnenuntergang.",
+            "hu": "Tökéletes hely a drámai naplementés fotókhoz.",
+            "ro": "Locul perfect pentru fotografii dramatice la apus.",
+            "en": "Perfect spot for dramatic photos at sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchttürme von Akranes",
+            "hu": "Akranesi világítótornyok",
+            "ro": "Farurile din Akranes",
+            "en": "Akranes Lighthouses"
+          },
+          "coords": [
+            -22.098,
+            64.315
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Steigen Sie auf den neueren Leuchtturm für eine tolle Aussicht.",
+            "hu": "Másszon fel az újabb világítótoronyba a nagyszerű kilátásért.",
+            "ro": "Urcați în farul mai nou pentru o priveliște minunată.",
+            "en": "Climb the newer lighthouse for a great view."
+          }
+        },
+        {
+          "name": {
+            "de": "Geothermalbad Guðlaug",
+            "hu": "Guðlaug geotermikus fürdő",
+            "ro": "Băile geotermale Guðlaug",
+            "en": "Guðlaug Geothermal Baths"
+          },
+          "coords": [
+            -22.092,
+            64.321
+          ],
+          "category": "natural features",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im warmen Wasser mit Blick auf den Ozean.",
+            "hu": "Pihenjen a meleg vízben, óceánra néző kilátással.",
+            "ro": "Relaxați-vă în apa caldă cu vedere la ocean.",
+            "en": "Relax in the warm water with a view of the ocean."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Langisandur",
+            "hu": "Langisandur strand",
+            "ro": "Plaja Langisandur",
+            "en": "Langisandur Beach"
+          },
+          "coords": [
+            -22.09,
+            64.32
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Machen Sie einen langen Spaziergang am goldenen Sandstrand.",
+            "hu": "Tegyen egy hosszú sétát az aranyhomokos tengerparton.",
+            "ro": "Faceți o plimbare lungă pe plaja cu nisip auriu.",
+            "en": "Take a long walk along the golden sand beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Akranes mit einem Besuch der modernen Akraneskirkja. Schlendern Sie durch die Geschichte im Volksmuseum, bevor Sie zur Küste gehen. Am Nachmittag erleben Sie das rostige Wrack der Garðar BA 64 und die ikonischen Leuchttürme. Beenden Sie Ihren Tag mit einem entspannenden Bad in den Guðlaug-Bädern, gefolgt von einem ruhigen Spaziergang am goldenen Strand Langisandur.",
+        "hu": "Kezdje a napot Akranes szívében, a modern Akraneskirkja meglátogatásával. Sétáljon a történelemben a Néprajzi Múzeumban, mielőtt a parthoz indul. Délután fedezze fel a rozsdás Garðar BA 64 roncsot és az ikonikus világítótornyokat. Zárja a napot egy pihentető fürdőzéssel a Guðlaug fürdőben, majd egy békés sétával a Langisandur aranyhomokos strandján.",
+        "ro": "Începeți ziua în inima orașului Akranes cu o vizită la moderna Akraneskirkja. Plimbați-vă prin istorie la Muzeul Popular înainte de a vă îndrepta spre coastă. După-amiaza, experimentați epava ruginită Garðar BA 64 și farurile iconice. Încheiați ziua cu o baie relaxantă la băile Guðlaug, urmată de o plimbare liniștită pe plaja aurie Langisandur.",
+        "en": "Start your day in the heart of Akranes with a visit to the modern Akraneskirkja. Stroll through history at the Folk Museum before heading to the coast. In the afternoon, experience the rusty Garðar BA 64 wreck and the iconic lighthouses. End your day with a relaxing dip in the Guðlaug baths, followed by a peaceful walk on the golden Langisandur beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gamla Kaupfélagið",
+            "tip": "Probieren Sie den Fisch des Tages für einen authentischen isländischen Geschmack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gamla Kaupfélagið",
+            "tip": "Kóstolja meg a nap halát egy autentikus izlandi ízélményért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gamla Kaupfélagið",
+            "tip": "Încercați peștele zilei pentru un gust autentic islandez."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gamla Kaupfélagið",
+            "tip": "Try the fish of the day for an authentic Icelandic taste."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Langisandur",
+            "tip": "Ein Spaziergang am späten Nachmittag, um die Ruhe und die Meeresbrise zu genießen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Langisandur",
+            "tip": "Egy késő délutáni séta, hogy élvezze a nyugalmat és a tengeri szellőt.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Langisandur",
+            "tip": "O plimbare la sfârșitul după-amiezii pentru a vă bucura de liniște și de briza mării.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Langisandur",
+            "tip": "A late afternoon walk to enjoy the tranquility and the sea breeze.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerksläden",
+            "tip": "Suchen Sie nach handgestrickten isländischen Pullovern (Lopapeysa)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keressen kézzel kötött izlandi pulóvereket (Lopapeysa)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Căutați pulovere islandeze tricotate manual (Lopapeysa)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Craft Shops",
+            "tip": "Look for hand-knitted Icelandic sweaters (Lopapeysa)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe.",
+          "Das Wetter kann sich schnell ändern, kleiden Sie sich in Schichten.",
+          "Prüfen Sie die Öffnungszeiten des Leuchtturms."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt.",
+          "Az időjárás gyorsan változhat, öltözzön rétegesen.",
+          "Ellenőrizze a világítótorony nyitvatartási idejét."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă.",
+          "Vremea se poate schimba rapid, îmbrăcați-vă în straturi.",
+          "Verificați programul de funcționare al farului."
+        ],
+        "en": [
+          "Wear comfortable shoes.",
+          "The weather can change quickly, so dress in layers.",
+          "Check the lighthouse opening hours."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Strand Langisandur",
+            "hu": "Langisandur strand",
+            "ro": "Plaja Langisandur",
+            "en": "Langisandur Beach"
+          },
+          "coords": [
+            -22.09,
+            64.32
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einer erfrischenden Fahrt entlang des goldenen Sandes.",
+            "hu": "Kezdje a napot egy frissítő kerékpártúrával az aranyhomok mentén.",
+            "ro": "Începeți ziua cu o plimbare revigorantă cu bicicleta de-a lungul nisipului auriu.",
+            "en": "Start your day with a refreshing ride along the golden sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Geothermalbad Guðlaug",
+            "hu": "Guðlaug geotermikus fürdő",
+            "ro": "Băile geotermale Guðlaug",
+            "en": "Guðlaug Geothermal Baths"
+          },
+          "coords": [
+            -22.092,
+            64.321
+          ],
+          "category": "natural features",
+          "arrive_at": "10:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein schnelles, warmes Bad ist der perfekte Start in den Tag.",
+            "hu": "Egy gyors, meleg fürdő tökéletes kezdet a napnak.",
+            "ro": "O baie rapidă și caldă este începutul perfect al zilei.",
+            "en": "A quick warm dip is the perfect start to the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchttürme von Akranes",
+            "hu": "Akranesi világítótornyok",
+            "ro": "Farurile din Akranes",
+            "en": "Akranes Lighthouses"
+          },
+          "coords": [
+            -22.098,
+            64.315
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:26",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Der Radweg bietet eine großartige Perspektive auf die Leuchttürme.",
+            "hu": "A kerékpárútról nagyszerű kilátás nyílik a világítótornyokra.",
+            "ro": "Pista de biciclete oferă o perspectivă excelentă asupra farurilor.",
+            "en": "The bike path offers a great perspective on the lighthouses."
+          }
+        },
+        {
+          "name": {
+            "de": "Schiffswrack Garðar BA 64",
+            "hu": "Garðar BA 64 hajóroncs",
+            "ro": "Epava Garðar BA 64",
+            "en": "Garðar BA 64 Shipwreck"
+          },
+          "coords": [
+            -22.095,
+            64.314
+          ],
+          "category": "historical",
+          "arrive_at": "11:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und erkunden Sie das Wrack aus der Nähe.",
+            "hu": "Zárja le a kerékpárját, és fedezze fel a roncsot közelről.",
+            "ro": "Încuiați-vă bicicleta și explorați epava de aproape.",
+            "en": "Lock up your bike and explore the wreck up close."
+          }
+        },
+        {
+          "name": {
+            "de": "Volksmuseum Akranes",
+            "hu": "Akranesi Néprajzi Múzeum",
+            "ro": "Muzeul Popular Akranes",
+            "en": "Akranes Folk Museum"
+          },
+          "coords": [
+            -22.075,
+            64.319
+          ],
+          "category": "museums",
+          "arrive_at": "13:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 3.4,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort, um etwas über die lokale Fischereigeschichte zu lernen.",
+            "hu": "Nagyszerű hely a helyi halászati történelem megismerésére.",
+            "ro": "Un loc minunat pentru a învăța despre istoria pescuitului local.",
+            "en": "A great place to learn about the local fishing history."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Akraneskirkja",
+            "hu": "Akraneskirkja templom",
+            "ro": "Biserica Akraneskirkja",
+            "en": "Akraneskirkja Church"
+          },
+          "coords": [
+            -22.07,
+            64.318
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einem Moment der Ruhe.",
+            "hu": "Zárja a kerékpártúrát egy csendes pillanattal.",
+            "ro": "Încheiați-vă turul cu bicicleta cu un moment de liniște.",
+            "en": "End your bike tour with a moment of peace."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am malerischen Strand von Langisandur und wärmen Sie sich in den Guðlaug-Bädern auf. Radeln Sie entlang der Küste zu den Leuchttürmen und dem historischen Schiffswrack. Am Nachmittag tauchen Sie im Volksmuseum in die lokale Kultur ein, bevor Sie Ihre Tour an der ruhigen Akraneskirkja beenden. Es ist ein Tag voller Meeresbrise, Geschichte und isländischem Charme.",
+        "hu": "Kezdje a kerékpártúrát a festői Langisandur strandon, és melegedjen fel a Guðlaug fürdőben. Tekerjen végig a parton a világítótornyokhoz és a történelmi hajóroncshoz. Délután merüljön el a helyi kultúrában a Néprajzi Múzeumban, mielőtt a túrát a békés Akraneskirkjánál fejezi be. Ez egy tengeri szellővel, történelemmel és izlandi bájjal teli nap.",
+        "ro": "Începeți turul cu bicicleta pe plaja pitorească Langisandur și încălziți-vă la băile Guðlaug. Pedalați de-a lungul coastei până la faruri și epava istorică. După-amiaza, pătrundeți în cultura locală la Muzeul Popular înainte de a încheia turul la liniștita Akraneskirkja. Este o zi plină de briză marină, istorie și farmec islandez.",
+        "en": "Start your bike tour on the scenic Langisandur beach and warm up at the Guðlaug baths. Cycle along the coast to the lighthouses and the historic shipwreck. In the afternoon, delve into local culture at the Folk Museum before finishing your tour at the peaceful Akraneskirkja. It's a day of sea breezes, history, and Icelandic charm."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Skemmtigarðurinn",
+            "tip": "Ein schneller und leckerer isländischer Hotdog nach dem Radfahren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Skemmtigarðurinn",
+            "tip": "Egy gyors és finom izlandi hot dog a kerékpározás után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Skemmtigarðurinn",
+            "tip": "Un hotdog islandez rapid și gustos după plimbarea cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Skemmtigarðurinn",
+            "tip": "A quick and tasty Icelandic hot dog after your ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Akrafjall-Aussicht",
+            "tip": "Wenn Sie Zeit haben, bietet eine kurze Fahrt zum Fuß des Berges eine unglaubliche Ruhe.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Akrafjall kilátó",
+            "tip": "Ha van ideje, egy rövid út a hegy lábához hihetetlen nyugalmat kínál.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere la Akrafjall",
+            "tip": "Dacă aveți timp, o scurtă călătorie până la poalele muntelui oferă o liniște incredibilă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Akrafjall View",
+            "tip": "If you have time, a short ride towards the base of the mountain offers incredible peace.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sportver Líf & Sport",
+            "tip": "Für alle Radsport-Notwendigkeiten oder Outdoor-Ausrüstung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sportver Líf & Sport",
+            "tip": "Minden kerékpáros szükséglethez vagy szabadtéri felszereléshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sportver Líf & Sport",
+            "tip": "Pentru orice necesități de ciclism sau echipament de exterior."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sportver Líf & Sport",
+            "tip": "For any cycling necessities or outdoor gear."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck vor der Abfahrt.",
+          "Der Wind kann stark sein, seien Sie vorbereitet.",
+          "Tragen Sie einen Helm und helle Kleidung."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "A szél erős lehet, készüljön fel.",
+          "Viseljen sisakot és élénk színű ruházatot."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope înainte de a pleca.",
+          "Vântul poate fi puternic, fiți pregătit.",
+          "Purtați cască și haine de culori deschise."
+        ],
+        "en": [
+          "Check your tire pressure before leaving.",
+          "The wind can be strong, be prepared.",
+          "Wear a helmet and bright clothing."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 35.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Berg Akrafjall",
+            "hu": "Akrafjall hegy",
+            "ro": "Muntele Akrafjall",
+            "en": "Mount Akrafjall"
+          },
+          "coords": [
+            -21.9167,
+            64.35
+          ],
+          "category": "natural features",
+          "arrive_at": "09:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wandern Sie zum Gipfel für eine atemberaubende Aussicht auf die Bucht.",
+            "hu": "Túrázzon fel a csúcsra, ahonnan lenyűgöző kilátás nyílik az öbölre.",
+            "ro": "Urcați pe vârf pentru o priveliște uluitoare asupra golfului.",
+            "en": "Hike to the summit for a breathtaking view of the bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Volksmuseum Akranes",
+            "hu": "Akranesi Néprajzi Múzeum",
+            "ro": "Muzeul Popular Akranes",
+            "en": "Akranes Folk Museum"
+          },
+          "coords": [
+            -22.075,
+            64.319
+          ],
+          "category": "museums",
+          "arrive_at": "11:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie den Stadtkern zu Fuß.",
+            "hu": "Parkoljon itt, és fedezze fel gyalog a városközpontot.",
+            "ro": "Parcați aici și explorați centrul orașului pe jos.",
+            "en": "Park here and explore the town core on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Akraneskirkja",
+            "hu": "Akraneskirkja templom",
+            "ro": "Biserica Akraneskirkja",
+            "en": "Akraneskirkja Church"
+          },
+          "coords": [
+            -22.07,
+            64.318
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum entfernt, bewundern Sie die Architektur.",
+            "hu": "Rövid séta a múzeumtól, csodálja meg az építészetet.",
+            "ro": "O scurtă plimbare de la muzeu, admirați arhitectura.",
+            "en": "A short walk from the museum, admire the architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchttürme von Akranes",
+            "hu": "Akranesi világítótornyok",
+            "ro": "Farurile din Akranes",
+            "en": "Akranes Lighthouses"
+          },
+          "coords": [
+            -22.098,
+            64.315
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Neuer Parkplatz. Von hier aus können Sie zum Wrack laufen.",
+            "hu": "Új parkoló. Innen elsétálhat a roncshoz.",
+            "ro": "Parcare nouă. Puteți merge pe jos până la epavă de aici.",
+            "en": "New parking area. You can walk to the wreck from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Schiffswrack Garðar BA 64",
+            "hu": "Garðar BA 64 hajóroncs",
+            "ro": "Epava Garðar BA 64",
+            "en": "Garðar BA 64 Shipwreck"
+          },
+          "coords": [
+            -22.095,
+            64.314
+          ],
+          "category": "historical",
+          "arrive_at": "14:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Muss für Fotografen.",
+            "hu": "Fotósoknak kötelező.",
+            "ro": "O necesitate pentru fotografi.",
+            "en": "A must-see for photographers."
+          }
+        },
+        {
+          "name": {
+            "de": "Geothermalbad Guðlaug",
+            "hu": "Guðlaug geotermikus fürdő",
+            "ro": "Băile geotermale Guðlaug",
+            "en": "Guðlaug Geothermal Baths"
+          },
+          "coords": [
+            -22.092,
+            64.321
+          ],
+          "category": "natural features",
+          "arrive_at": "15:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie am Strand und genießen Sie ein Bad mit Aussicht.",
+            "hu": "Parkoljon a strandnál, és élvezze a fürdést a kilátással.",
+            "ro": "Parcați la plajă și bucurați-vă de o baie cu vedere.",
+            "en": "Park at the beach and enjoy a soak with a view."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Langisandur",
+            "hu": "Langisandur strand",
+            "ro": "Plaja Langisandur",
+            "en": "Langisandur Beach"
+          },
+          "coords": [
+            -22.09,
+            64.32
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Spaziergang, bevor Sie zurückfahren.",
+            "hu": "Zárja a napot egy sétával, mielőtt visszaindul.",
+            "ro": "Încheiați ziua cu o plimbare înainte de a vă întoarce cu mașina.",
+            "en": "End the day with a walk before driving back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer belebenden Fahrt und Wanderung auf den Berg Akrafjall für eine spektakuläre Aussicht. Fahren Sie dann zurück in die Stadt, parken Sie und erkunden Sie das historische Zentrum, einschließlich des Museums und der Kirche. Am Nachmittag fahren Sie zur Küste, um die Leuchttürme und das Schiffswrack zu sehen, bevor Sie sich in den Guðlaug-Bädern entspannen und am Strand von Langisandur spazieren gehen. Dies ist der ultimative Akranes-Roadtrip.",
+        "hu": "Kezdje a napot egy élénkítő autózással és túrával az Akrafjall hegyre a látványos kilátásért. Ezután vezessen vissza a városba, parkoljon le, és fedezze fel a történelmi központot, beleértve a múzeumot és a templomot. Délután irány a part, hogy megnézze a világítótornyokat és a hajóroncsot, mielőtt ellazulna a Guðlaug fürdőben és sétálna a Langisandur strandon. Ez a tökéletes akranesi autós kirándulás.",
+        "ro": "Începeți ziua cu o excursie revigorantă cu mașina și o drumeție pe Muntele Akrafjall pentru priveliști spectaculoase. Apoi, conduceți înapoi în oraș, parcați și explorați centrul istoric, inclusiv muzeul și biserica. După-amiaza, mergeți pe coastă pentru a vedea farurile și epava înainte de a vă relaxa la băile Guðlaug și de a vă plimba pe plaja Langisandur. Acesta este cel mai bun road trip în Akranes.",
+        "en": "Start your day with an invigorating drive and hike up Mount Akrafjall for spectacular views. Then, drive back into town, park, and explore the historic core, including the museum and church. In the afternoon, drive to the coast to see the lighthouses and shipwreck before relaxing at Guðlaug baths and strolling on Langisandur beach. This is the ultimate Akranes road trip."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Galito",
+            "tip": "Großartig für eine herzhafte Mahlzeit nach einer Wanderung. Probieren Sie die Grillgerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Galito",
+            "tip": "Nagyszerű egy kiadós étkezéshez a túrázás után. Próbálja ki a grillezett ételeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galito",
+            "tip": "Excelent pentru o masă consistentă după o drumeție. Încercați mâncărurile la grătar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Galito",
+            "tip": "Great for a hearty meal after a hike. Try their grilled dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfel des Akrafjall",
+            "tip": "Die ultimative Ruhe mit 360-Grad-Aussicht.",
+            "emoji": "🏔️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Akrafjall csúcsa",
+            "tip": "A tökéletes nyugalom 360 fokos kilátással.",
+            "emoji": "🏔️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Akrafjall",
+            "tip": "Liniște supremă cu vederi de 360 de grade.",
+            "emoji": "🏔️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Akrafjall Summit",
+            "tip": "The ultimate peace and quiet with 360-degree views.",
+            "emoji": "🏔️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bónus Supermarkt",
+            "tip": "Besorgen Sie sich isländische Snacks für Ihre Autofahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bónus szupermarket",
+            "tip": "Szerezzen be izlandi rágcsálnivalókat az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarketul Bónus",
+            "tip": "Aprovizionați-vă cu gustări islandeze pentru călătoria cu mașina."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bónus Supermarket",
+            "tip": "Stock up on Icelandic snacks for your road trip."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Wetterbedingungen, bevor Sie zum Akrafjall wandern.",
+          "Parkgebühren können anfallen.",
+          "Tanken Sie, bevor Sie die Stadt verlassen."
+        ],
+        "hu": [
+          "Ellenőrizze az időjárási körülményeket, mielőtt az Akrafjallra túrázik.",
+          "Parkolási díjak lehetnek.",
+          "Tankoljon, mielőtt elhagyja a várost."
+        ],
+        "ro": [
+          "Verificați condițiile meteorologice înainte de a urca pe Akrafjall.",
+          "Se pot aplica taxe de parcare.",
+          "Alimentați cu combustibil înainte de a părăsi orașul."
+        ],
+        "en": [
+          "Check weather conditions before hiking Akrafjall.",
+          "Parking fees may apply.",
+          "Fill up on gas before leaving town."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Akraneskirkja",
+            "hu": "Akraneskirkja templom",
+            "ro": "Biserica Akraneskirkja",
+            "en": "Akraneskirkja Church"
+          },
+          "coords": [
+            -22.07,
+            64.318
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Die Bushaltestelle im Zentrum ist ein guter Ausgangspunkt.",
+            "hu": "A központi buszmegálló jó kiindulópont.",
+            "ro": "Stația centrală de autobuz este un punct de plecare bun.",
+            "en": "The central bus stop is a great starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Volksmuseum Akranes",
+            "hu": "Akranesi Néprajzi Múzeum",
+            "ro": "Muzeul Popular Akranes",
+            "en": "Akranes Folk Museum"
+          },
+          "coords": [
+            -22.075,
+            64.319
+          ],
+          "category": "museums",
+          "arrive_at": "09:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Kirche.",
+            "hu": "Rövid séta a templomtól.",
+            "ro": "O scurtă plimbare de la biserică.",
+            "en": "A short walk from the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Langisandur",
+            "hu": "Langisandur strand",
+            "ro": "Plaja Langisandur",
+            "en": "Langisandur Beach"
+          },
+          "coords": [
+            -22.09,
+            64.32
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zur Küste für diesen Cluster.",
+            "hu": "Vegye a buszt a parthoz ehhez a csoporthoz.",
+            "ro": "Luați autobuzul spre coastă pentru acest grup de obiective.",
+            "en": "Take the bus to the coast for this cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Geothermalbad Guðlaug",
+            "hu": "Guðlaug geotermikus fürdő",
+            "ro": "Băile geotermale Guðlaug",
+            "en": "Guðlaug Geothermal Baths"
+          },
+          "coords": [
+            -22.092,
+            64.321
+          ],
+          "category": "natural features",
+          "arrive_at": "13:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Direkt am Strand, leicht zu Fuß erreichbar.",
+            "hu": "Közvetlenül a tengerparton, könnyen megközelíthető gyalog.",
+            "ro": "Chiar pe plajă, accesibil pe jos.",
+            "en": "Right on the beach, an easy walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchttürme von Akranes",
+            "hu": "Akranesi világítótornyok",
+            "ro": "Farurile din Akranes",
+            "en": "Akranes Lighthouses"
+          },
+          "coords": [
+            -22.098,
+            64.315
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Spaziergang entlang der Küste zu diesem Ort.",
+            "hu": "Élvezze a sétát a part mentén ide.",
+            "ro": "Bucurați-vă de plimbarea de-a lungul coastei până la acest loc.",
+            "en": "Enjoy the walk along the coast to this spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Schiffswrack Garðar BA 64",
+            "hu": "Garðar BA 64 hajóroncs",
+            "ro": "Epava Garðar BA 64",
+            "en": "Garðar BA 64 Shipwreck"
+          },
+          "coords": [
+            -22.095,
+            64.314
+          ],
+          "category": "historical",
+          "arrive_at": "15:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Ihr letzter Halt an der Küste, bevor Sie den Bus zurück ins Zentrum nehmen.",
+            "hu": "Az utolsó megálló a parton, mielőtt visszamenne a busszal a központba.",
+            "ro": "Ultima oprire de pe coastă înainte de a lua autobuzul înapoi în centru.",
+            "en": "Your last stop on the coast before catching the bus back to the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den lokalen Bus, um Akranes effizient zu erkunden. Beginnen Sie im Stadtzentrum mit der Kirche und dem Museum. Nehmen Sie dann einen Bus zum Küstencluster. Verbringen Sie den Nachmittag damit, vom Strand Langisandur zu den Guðlaug-Bädern, den Leuchttürmen und dem Schiffswrack zu spazieren, bevor Sie mit dem Bus zurückfahren. Es ist eine einfache und stressfreie Art, die Highlights zu sehen.",
+        "hu": "Használja a helyi buszt Akranes hatékony felfedezéséhez. Kezdje a városközpontban a templommal és a múzeummal. Ezután menjen busszal a tengerparti csoporthoz. Töltse a délutánt sétával a Langisandur strandtól a Guðlaug fürdőig, a világítótornyokig és a hajóroncsig, mielőtt visszabuszozna. Ez egy egyszerű és stresszmentes módja a nevezetességek megtekintésének.",
+        "ro": "Folosiți autobuzul local pentru a explora eficient Akranes. Începeți în centrul orașului cu biserica și muzeul. Apoi, luați un autobuz către grupul de obiective de pe coastă. Petreceți după-amiaza plimbându-vă de la plaja Langisandur la băile Guðlaug, faruri și epavă înainte de a lua autobuzul înapoi. Este un mod ușor și fără stres de a vedea atracțiile principale.",
+        "en": "Use the local bus to explore Akranes efficiently. Start in the town center with the church and museum. Then, take a bus to the coastal cluster. Spend the afternoon walking from Langisandur beach to Guðlaug baths, the lighthouses, and the shipwreck before catching the bus back. It's an easy and stress-free way to see the highlights."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kaffi Kaja",
+            "tip": "Ein gemütliches Café in der Nähe des Museums, ideal für eine Mittagspause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kaffi Kaja",
+            "tip": "Egy hangulatos kávézó a múzeum közelében, ideális egy ebédszünetre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kaffi Kaja",
+            "tip": "O cafenea primitoare lângă muzeu, perfectă pentru o pauză de prânz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kaffi Kaja",
+            "tip": "A cozy cafe near the museum, perfect for a lunch break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang entlang der Küste",
+            "tip": "Der Weg zwischen den Küstenorten ist friedlich und bietet großartige Ausblicke.",
+            "emoji": "🚶‍♀️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a tengerparton",
+            "tip": "A tengerparti megállók közötti séta békés és nagyszerű kilátást nyújt.",
+            "emoji": "🚶‍♀️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe coastă",
+            "tip": "Plimbarea între opririle de pe coastă este pașnică și oferă priveliști minunate.",
+            "emoji": "🚶‍♀️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Coastal Walk",
+            "tip": "The walk between the coastal stops is peaceful and offers great views.",
+            "emoji": "🚶‍♀️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handverks-markaðurinn",
+            "tip": "Lokaler Handwerksmarkt für einzigartige Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Handverks-markaðurinn",
+            "tip": "Helyi kézműves piac egyedi ajándéktárgyakért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Handverks-markaðurinn",
+            "tip": "Piața de artizanat local pentru suveniruri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Handverks-markaðurinn",
+            "tip": "Local handicraft market for unique souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus für das beste Preis-Leistungs-Verhältnis.",
+          "Überprüfen Sie den Busfahrplan im Voraus.",
+          "Seien Sie an den Bushaltestellen pünktlich."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra a legjobb ár-érték arányért.",
+          "Ellenőrizze előre a buszmenetrendet.",
+          "Legyen pontos a buszmegállókban."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru cel mai bun raport calitate-preț.",
+          "Verificați programul autobuzelor în avans.",
+          "Fiți punctuali la stațiile de autobuz."
+        ],
+        "en": [
+          "Buy a day pass for the bus for the best value.",
+          "Check the bus schedule in advance.",
+          "Be on time at the bus stops."
+        ]
+      }
+    }
+  }
+}

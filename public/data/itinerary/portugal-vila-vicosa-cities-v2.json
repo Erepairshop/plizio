@@ -1,0 +1,1402 @@
+{
+  "city_id": "portugal-vila-vicosa-cities-v2",
+  "anchor": {
+    "name": "Vila Viçosa",
+    "coords": [
+      -7.4167,
+      38.7761
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Praça da República",
+            "hu": "Köztársaság tér",
+            "ro": "Praça da República",
+            "en": "Republic Square"
+          },
+          "coords": [
+            -7.418,
+            38.778
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einem Kaffee in einem der charmanten Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik hangulatos kávézójában.",
+            "ro": "Începeți-vă ziua cu o cafea la una dintre cafenelele fermecătoare din piață.",
+            "en": "Start your day with a coffee at one of the charming cafes on the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kastell von Vila Viçosa",
+            "hu": "Vila Viçosa vára",
+            "ro": "Castelul din Vila Viçosa",
+            "en": "Castle of Vila Viçosa"
+          },
+          "coords": [
+            -7.4155,
+            38.78
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:50",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Mauern für einen Panoramablick auf die Stadt und die Alentejo-Ebene.",
+            "hu": "Másszon fel a falakra, ahonnan panorámás kilátás nyílik a városra és az Alentejo-síkságra.",
+            "ro": "Urcați pe ziduri pentru o vedere panoramică a orașului și a câmpiilor Alentejo.",
+            "en": "Climb the walls for a panoramic view of the town and the Alentejo plains."
+          }
+        },
+        {
+          "name": {
+            "de": "Wallfahrtskirche Unserer Lieben Frau von der Empfängnis",
+            "hu": "A Szeplőtelen Fogantatás Miasszonyunk szentélye",
+            "ro": "Sanctuarul Doamnei Noastre a Concepției",
+            "en": "Sanctuary of Our Lady of the Conception"
+          },
+          "coords": [
+            -7.416,
+            38.7805
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beachten Sie die reiche Innenausstattung; dies ist ein wichtiger Wallfahrtsort in Portugal.",
+            "hu": "Figyelje meg a gazdag belső díszítést; ez egy fontos zarándokhely Portugáliában.",
+            "ro": "Observați interiorul bogat decorat; acesta este un important loc de pelerinaj în Portugalia.",
+            "en": "Note the rich interior decoration; this is a major pilgrimage site in Portugal."
+          }
+        },
+        {
+          "name": {
+            "de": "Herzogspalast von Vila Viçosa",
+            "hu": "Vila Viçosa-i hercegi palota",
+            "ro": "Palatul Ducal din Vila Viçosa",
+            "en": "Ducal Palace of Vila Viçosa"
+          },
+          "coords": [
+            -7.422,
+            38.779
+          ],
+          "category": "famous-residences",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Die Führung ist sehr zu empfehlen, um die Geschichte der Braganza-Dynastie zu verstehen.",
+            "hu": "A tárlatvezetés erősen ajánlott a Bragança-dinasztia történetének megértéséhez.",
+            "ro": "Turul ghidat este foarte recomandat pentru a înțelege istoria dinastiei Bragança.",
+            "en": "The guided tour is highly recommended to understand the history of the Braganza dynasty."
+          }
+        },
+        {
+          "name": {
+            "de": "Pantheon der Herzöge von Braganza",
+            "hu": "A Bragança hercegek panteonja",
+            "ro": "Panteonul Ducilor de Bragança",
+            "en": "Pantheon of the Dukes of Braganza"
+          },
+          "coords": [
+            -7.4225,
+            38.7785
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein feierlicher Ort, der die letzte Ruhestätte der letzten königlichen Dynastie Portugals beherbergt.",
+            "hu": "Ünnepélyes hely, amely Portugália utolsó királyi dinasztiájának végső nyughelyéül szolgál.",
+            "ro": "Un loc solemn care găzduiește locul de odihnă final al ultimei dinastii regale a Portugaliei.",
+            "en": "A solemn place, housing the final resting place of Portugal's last royal dynasty."
+          }
+        },
+        {
+          "name": {
+            "de": "Kutschenmuseum",
+            "hu": "Hintómúzeum",
+            "ro": "Muzeul Trăsurilor",
+            "en": "Coach Museum"
+          },
+          "coords": [
+            -7.423,
+            38.7795
+          ],
+          "category": "museums",
+          "arrive_at": "14:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Direkt neben dem Palast gelegen, zeigt es eine beeindruckende Sammlung königlicher Kutschen.",
+            "hu": "A palota mellett található, és lenyűgöző királyi hintógyűjteményt mutat be.",
+            "ro": "Situat chiar lângă palat, prezintă o colecție impresionantă de trăsuri regale.",
+            "en": "Located right next to the palace, it showcases an impressive collection of royal coaches."
+          }
+        },
+        {
+          "name": {
+            "de": "Marmormuseum",
+            "hu": "Márványmúzeum",
+            "ro": "Muzeul Marmurei",
+            "en": "Marble Museum"
+          },
+          "coords": [
+            -7.411,
+            38.776
+          ],
+          "category": "museums",
+          "arrive_at": "15:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein faszinierender Einblick in die Industrie, die die Region berühmt gemacht hat.",
+            "hu": "Lenyűgöző betekintés az iparágba, amely híressé tette a régiót.",
+            "ro": "O perspectivă fascinantă asupra industriei care a făcut regiunea faimoasă.",
+            "en": "A fascinating insight into the industry that made the region famous."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Vila Viçosa beginnt an der historischen Praça da República. Am Vormittag erkunden Sie die imposante Burg und die heilige Wallfahrtskirche. Der Mittag ist ganz dem prächtigen Herzogspalast gewidmet, dem Herzstück der Stadt, gefolgt von einem Besuch im Pantheon und im Kutschenmuseum. Am Nachmittag tauchen Sie in der 'Marmorhauptstadt' Portugals in die lokale Industrie im Marmormuseum ein, bevor Sie den Tag ausklingen lassen.",
+        "hu": "A Vila Viçosa-i nap a történelmi Köztársaság téren kezdődik. Délelőtt fedezze fel a lenyűgöző várat és a szent zarándokhelyet. A déli órákat a város szívének számító pazar Hercegi Palotának szenteljük, majd meglátogatjuk a Panteont és a Hintómúzeumot. Délután, Portugália 'márványfővárosában' elmerülhet a helyi iparban a Márványmúzeumban, mielőtt lezárná a napot.",
+        "ro": "Ziua dvs. în Vila Viçosa începe în istorica Praça da República. În timpul dimineții, explorați impunătorul castel și sanctuarul sacru. Amiaza este dedicată opulentului Palat Ducal, inima orașului, urmată de o vizită la Panteon și la Muzeul Trăsurilor. După-amiaza, în 'capitala marmurei' a Portugaliei, pătrundeți în industria locală la Muzeul Marmurei înainte de a încheia ziua.",
+        "en": "Your day in Vila Viçosa starts at the historic Praça da República. During the morning, explore the imposing castle and the sacred sanctuary. Midday is dedicated to the opulent Ducal Palace, the heart of the town, followed by a visit to the Pantheon and the Coach Museum. In the afternoon, in Portugal's 'marble capital', delve into the local industry at the Marble Museum before winding down."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Migas à Alentejana",
+            "tip": "Ein herzhaftes Brotpaniert-Gericht, oft mit Schweinefleisch serviert. Probieren Sie es im 'Restaurante O Pátio'."
+          },
+          {
+            "name": "Sopa de Cação",
+            "tip": "Eine traditionelle Suppe mit Hundshai, Kräutern und Brot – ein einzigartiger lokaler Geschmack."
+          },
+          {
+            "name": "Sericaia com Ameixa de Elvas",
+            "tip": "Ein Eierpudding-Dessert mit Zimt, gepaart mit kandierten Pflaumen aus dem nahen Elvas."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Migas à Alentejana",
+            "tip": "Kiadós, kenyérmorzsás étel, gyakran sertéshússal tálalva. Kóstolja meg a 'Restaurante O Pátio'-ban."
+          },
+          {
+            "name": "Sopa de Cação",
+            "tip": "Hagyományos leves tüskéscápából, fűszernövényekkel és kenyérrel – egyedi helyi íz."
+          },
+          {
+            "name": "Sericaia com Ameixa de Elvas",
+            "tip": "Fahéjas tojáspuding desszert a közeli Elvasból származó kandírozott szilvával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Migas à Alentejana",
+            "tip": "Un fel de mâncare consistent cu pesmet, adesea servit cu carne de porc. Încercați-l la 'Restaurante O Pátio'."
+          },
+          {
+            "name": "Sopa de Cação",
+            "tip": "O supă tradițională cu câine de mare, ierburi și pâine – un gust local unic."
+          },
+          {
+            "name": "Sericaia com Ameixa de Elvas",
+            "tip": "Un desert de budincă de ouă cu scorțișoară, asociat cu prune confiate din apropierea Elvas."
+          }
+        ],
+        "en": [
+          {
+            "name": "Migas à Alentejana",
+            "tip": "A hearty breadcrumb-based dish, often served with pork. Try it at 'Restaurante O Pátio'."
+          },
+          {
+            "name": "Sopa de Cação",
+            "tip": "A traditional soup made with dogfish shark, herbs, and bread—a unique local flavor."
+          },
+          {
+            "name": "Sericaia com Ameixa de Elvas",
+            "tip": "An egg pudding dessert with cinnamon, paired with candied plums from nearby Elvas."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten des Herzogspalastes",
+            "tip": "Finden Sie eine ruhige Bank in den formalen Gärten hinter dem Palast.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang um die Burgmauern",
+            "tip": "Ein ruhiger Spaziergang am späten Nachmittag entlang der alten Festungsmauern.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Tapada Real",
+            "tip": "Der königliche Jagdpark (außerhalb der Stadt) ist ideal für einen ruhigen Naturspaziergang, wenn Sie mehr Zeit haben.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Hercegi Palota kertjei",
+            "tip": "Keressen egy csendes padot a palota mögötti formális kertekben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Séta a várfalak körül",
+            "tip": "Egy békés késő délutáni séta a régi erődítmény falai mentén.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Tapada Real",
+            "tip": "A királyi vadászpark (a városon kívül) ideális egy csendes természeti sétához, ha több ideje van.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Palatului Ducal",
+            "tip": "Găsiți o bancă liniștită în grădinile formale din spatele palatului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare în jurul zidurilor castelului",
+            "tip": "O plimbare liniștită la sfârșitul după-amiezii de-a lungul zidurilor vechii fortărețe.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Tapada Real",
+            "tip": "Parcul regal de vânătoare (în afara orașului) este ideal pentru o plimbare liniștită în natură, dacă aveți mai mult timp.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gardens of the Ducal Palace",
+            "tip": "Find a quiet bench within the formal gardens behind the palace.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Walk around the Castle Walls",
+            "tip": "A peaceful late-afternoon stroll along the old fortress walls.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Tapada Real",
+            "tip": "The royal hunting park (outside town) is ideal for a quiet nature walk if you have extra time.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marmor-Souvenirs",
+            "tip": "In den Läden rund um die Praça da República finden Sie alles von Marmor-Untersetzern bis hin zu Skulpturen."
+          },
+          {
+            "name": "Lokaler Wein",
+            "tip": "Suchen Sie nach Weinen aus der Region Alentejo, die für ihre kräftigen Rotweine bekannt ist."
+          },
+          {
+            "name": "Handgefertigte Keramik",
+            "tip": "Halten Sie Ausschau nach traditioneller, handbemalter Keramik, die typisch für die Region ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Márvány ajándéktárgyak",
+            "tip": "A Praça da República körüli üzletekben mindent megtalál, a márvány alátétektől a szobrokig."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "Keressen Alentejo régióból származó borokat, amely testes vörösborairól ismert."
+          },
+          {
+            "name": "Kézzel készített kerámia",
+            "tip": "Keresse a hagyományos, kézzel festett kerámiákat, amelyek jellemzőek a régióra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri din marmură",
+            "tip": "Magazinele din jurul Praça da República vând de la suporturi de pahare din marmură la sculpturi."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Căutați vinuri din regiunea Alentejo, renumită pentru vinurile sale roșii corpolente."
+          },
+          {
+            "name": "Ceramică artizanală",
+            "tip": "Fiți atenți la ceramica tradițională, pictată manual, specifică regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marble Souvenirs",
+            "tip": "Shops around Praça da República sell everything from marble coasters to sculptures."
+          },
+          {
+            "name": "Local Wine",
+            "tip": "Look for wines from the Alentejo region, famous for its full-bodied reds."
+          },
+          {
+            "name": "Handcrafted Pottery",
+            "tip": "Keep an eye out for traditional, hand-painted pottery typical of the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster uneben sein kann.",
+          "Kaufen Sie ein Kombiticket für den Palast und die Museen, um Geld zu sparen.",
+          "Planen Sie Ihr Mittagessen außerhalb der Hauptverkehrszeiten, um Menschenmassen zu vermeiden.",
+          "Die meisten Sehenswürdigkeiten befinden sich in unmittelbarer Nähe zueinander."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakövek egyenetlenek lehetnek.",
+          "Vásároljon kombinált jegyet a palotába és a múzeumokba, hogy pénzt takarítson meg.",
+          "Tervezze az ebédjét a csúcsidőn kívülre, hogy elkerülje a tömeget.",
+          "A legtöbb látnivaló gyalogosan is könnyen elérhető."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece pavajul poate fi denivelat.",
+          "Cumpărați un bilet combinat pentru palat și muzee pentru a economisi bani.",
+          "Planificați-vă prânzul în afara orelor de vârf pentru a evita aglomerația.",
+          "Majoritatea atracțiilor sunt la distanță mică una de cealaltă."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones can be uneven.",
+          "Buy a combination ticket for the palace and museums to save money.",
+          "Plan your lunch outside of peak hours to avoid crowds.",
+          "Most attractions are within easy walking distance of each other."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 3.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Praça da República",
+            "hu": "Köztársaság tér",
+            "ro": "Praça da República",
+            "en": "Republic Square"
+          },
+          "coords": [
+            -7.418,
+            38.778
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ideal, um Ihr Fahrrad abzustellen und die Atmosphäre des Hauptplatzes aufzusaugen.",
+            "hu": "Ideális hely a kerékpár lezárásához és a főtér hangulatának élvezetéhez.",
+            "ro": "Ideal pentru a vă parca bicicleta și a absorbi atmosfera pieței principale.",
+            "en": "Ideal for parking your bike and soaking up the main square's atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Kastell von Vila Viçosa",
+            "hu": "Vila Viçosa vára",
+            "ro": "Castelul din Vila Viçosa",
+            "en": "Castle of Vila Viçosa"
+          },
+          "coords": [
+            -7.4155,
+            38.78
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:40",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Eingang ab und erkunden Sie das weitläufige Burggelände zu Fuß.",
+            "hu": "Zárja le a kerékpárt a bejáratnál, és fedezze fel gyalog a kiterjedt várat.",
+            "ro": "Lăsați-vă bicicleta la intrare și explorați incinta vastă a castelului pe jos.",
+            "en": "Lock your bike at the entrance and explore the vast castle grounds on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Wallfahrtskirche Unserer Lieben Frau von der Empfängnis",
+            "hu": "A Szeplőtelen Fogantatás Miasszonyunk szentélye",
+            "ro": "Sanctuarul Doamnei Noastre a Concepției",
+            "en": "Sanctuary of Our Lady of the Conception"
+          },
+          "coords": [
+            -7.416,
+            38.7805
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Eine kurze Radtour von der Burg entfernt, diese Kirche ist ein Muss für ihre spirituelle Bedeutung.",
+            "hu": "A vártól egy rövid kerékpárútra található templom spirituális jelentősége miatt kihagyhatatlan.",
+            "ro": "La o scurtă plimbare cu bicicleta de castel, această biserică este o vizită obligatorie pentru importanța sa spirituală.",
+            "en": "A short bike ride from the castle, this church is a must-visit for its spiritual importance."
+          }
+        },
+        {
+          "name": {
+            "de": "Herzogspalast von Vila Viçosa",
+            "hu": "Vila Viçosa-i hercegi palota",
+            "ro": "Palatul Ducal din Vila Viçosa",
+            "en": "Ducal Palace of Vila Viçosa"
+          },
+          "coords": [
+            -7.422,
+            38.779
+          ],
+          "category": "famous-residences",
+          "arrive_at": "11:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Der große Platz vor dem Palast ist perfekt, um mit dem Fahrrad anzukommen.",
+            "hu": "A palota előtti hatalmas tér tökéletes a kerékpárral való érkezéshez.",
+            "ro": "Piața mare din fața palatului este perfectă pentru a ajunge cu bicicleta.",
+            "en": "The grand square in front of the palace is perfect for arriving by bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Pantheon der Herzöge von Braganza",
+            "hu": "A Bragança hercegek panteonja",
+            "ro": "Panteonul Ducilor de Bragança",
+            "en": "Pantheon of the Dukes of Braganza"
+          },
+          "coords": [
+            -7.4225,
+            38.7785
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Nur wenige Schritte vom Palast entfernt, ein Moment der stillen Besinnung.",
+            "hu": "Csak néhány lépésre a palotától, a csendes elmélkedés pillanata.",
+            "ro": "La doar câțiva pași de palat, un moment de reflecție tăcută.",
+            "en": "Just steps from the palace, a moment of quiet reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Kutschenmuseum",
+            "hu": "Hintómúzeum",
+            "ro": "Muzeul Trăsurilor",
+            "en": "Coach Museum"
+          },
+          "coords": [
+            -7.423,
+            38.7795
+          ],
+          "category": "museums",
+          "arrive_at": "13:54",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Sehen Sie die 'Fahrzeuge' der Vergangenheit, nachdem Sie mit Ihrem eigenen angekommen sind.",
+            "hu": "Tekintse meg a múlt 'járműveit', miután megérkezett a sajátjával.",
+            "ro": "Vedeți 'vehiculele' de altădată după ce ați ajuns cu al dumneavoastră.",
+            "en": "See the 'vehicles' of the past after arriving on your own."
+          }
+        },
+        {
+          "name": {
+            "de": "Marmormuseum",
+            "hu": "Márványmúzeum",
+            "ro": "Muzeul Marmurei",
+            "en": "Marble Museum"
+          },
+          "coords": [
+            -7.411,
+            38.776
+          ],
+          "category": "museums",
+          "arrive_at": "15:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Die Radtour zum Museum führt Sie durch einen anderen Teil der Stadt.",
+            "hu": "A múzeumhoz vezető kerékpárút a város egy másik részén vezet keresztül.",
+            "ro": "Plimbarea cu bicicleta până la muzeu vă poartă printr-o altă parte a orașului.",
+            "en": "The bike ride to the museum takes you through a different part of town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auf zwei Rädern beginnt Ihr Abenteuer an der Praça da República. Am Vormittag radeln Sie zur historischen Burg und zur Wallfahrtskirche. Der Mittag ist der königlichen Pracht des Herzogspalastes und seiner angrenzenden Museen gewidmet. Am Nachmittag führt Sie eine kurze Radtour zum Marmormuseum, das einen Einblick in das industrielle Erbe von Vila Viçosa bietet und einen schönen Abschluss Ihres Radtages darstellt.",
+        "hu": "Két keréken a kaland a Köztársaság téren kezdődik. Délelőtt tekerjen el a történelmi várhoz és a zarándoktemplomhoz. A déli órák a Hercegi Palota királyi pompájának és a szomszédos múzeumoknak szólnak. Délután egy rövid kerékpártúra vezet a Márványmúzeumhoz, amely betekintést nyújt Vila Viçosa ipari örökségébe, és kellemes lezárása a kerékpáros napnak.",
+        "ro": "Pe două roți, aventura dvs. începe în Praça da República. În timpul dimineții, pedalați spre castelul istoric și sanctuar. Amiaza este dedicată splendorii regale a Palatului Ducal și a muzeelor sale adiacente. După-amiaza, o scurtă plimbare cu bicicleta vă duce la Muzeul Marmurei, oferind o perspectivă asupra moștenirii industriale a Vila Viçosa pentru o încheiere plăcută a zilei pe bicicletă.",
+        "en": "On two wheels, your adventure begins at Praça da República. During the morning, you'll cycle to the historic castle and the sanctuary. Midday is for the royal splendor of the Ducal Palace and its adjacent museums. In the afternoon, a short bike ride takes you to the Marble Museum, offering a glimpse into Vila Viçosa's industrial heritage for a pleasant end to your cycling day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bifana",
+            "tip": "Ein klassisches portugiesisches Sandwich mit mariniertem Schweinefleisch, perfekt für ein schnelles Mittagessen."
+          },
+          {
+            "name": "Vinho do Alentejo",
+            "tip": "Begleiten Sie Ihre Mahlzeit mit einem Glas robusten Rotweins aus der Region."
+          },
+          {
+            "name": "Tiborna",
+            "tip": "Geröstetes Brot mit Olivenöl, Knoblauch und Salz. Einfach aber köstlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bifana",
+            "tip": "Klasszikus portugál szendvics pácolt sertéshússal, tökéletes egy gyors ebédhez."
+          },
+          {
+            "name": "Vinho do Alentejo",
+            "tip": "Kísérje ételét egy pohár testes helyi vörösborral."
+          },
+          {
+            "name": "Tiborna",
+            "tip": "Pirított kenyér olívaolajjal, fokhagymával és sóval. Egyszerű, de finom."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bifana",
+            "tip": "Un sandviș clasic portughez cu carne de porc marinată, perfect pentru un prânz rapid."
+          },
+          {
+            "name": "Vinho do Alentejo",
+            "tip": "Asortați-vă masa cu un pahar de vin roșu robust din regiune."
+          },
+          {
+            "name": "Tiborna",
+            "tip": "Pâine prăjită cu ulei de măsline, usturoi și sare. Simplu, dar delicios."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bifana",
+            "tip": "A classic Portuguese sandwich with marinated pork, perfect for a quick lunch."
+          },
+          {
+            "name": "Vinho do Alentejo",
+            "tip": "Pair your meal with a glass of robust red wine from the region."
+          },
+          {
+            "name": "Tiborna",
+            "tip": "Toasted bread with olive oil, garlic, and salt. Simple but delicious."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Porta dos Nós",
+            "tip": "Ein Moment der Ruhe bei diesem manuelinischen Tor, ein Symbol der Verbundenheit.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Pause am Schlosshof",
+            "tip": "Nach dem Aufstieg, genießen Sie die Stille im Innenhof der Burg.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sonnenuntergang über den Ebenen",
+            "tip": "Finden Sie einen Aussichtspunkt auf den Burgmauern für den Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Porta dos Nós",
+            "tip": "Egy pillanatnyi béke ennél a mánueli stílusú kapunál, az összetartozás szimbólumánál.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Pihenő a várudvaron",
+            "tip": "A mászás után élvezze a csendet a vár udvarán.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Naplemente a síkság felett",
+            "tip": "Keressen egy kilátópontot a várfalakon a naplementéhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Porta dos Nós",
+            "tip": "Un moment de liniște la această poartă manuelină, un simbol al conexiunii.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Pauză în curtea castelului",
+            "tip": "După urcare, bucurați-vă de liniștea din curtea interioară a castelului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Apus de soare peste câmpii",
+            "tip": "Găsiți un punct de observație pe zidurile castelului pentru apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Porta dos Nós",
+            "tip": "A moment of peace by this Manueline gate, a symbol of connection.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Pause at the Castle Courtyard",
+            "tip": "After the climb, enjoy the quiet inside the castle's courtyard.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sunset over the plains",
+            "tip": "Find a viewpoint on the castle walls for sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marmor-Schachbrett",
+            "tip": "Ein einzigartiges und schweres Souvenir, das das lokale Handwerk zeigt."
+          },
+          {
+            "name": "Olivenöl aus Alentejo",
+            "tip": "Die Region ist auch für ihr hochwertiges Olivenöl bekannt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Márvány sakktábla",
+            "tip": "Egyedi és nehéz ajándéktárgy, amely a helyi kézművességet mutatja be."
+          },
+          {
+            "name": "Alentejo-i olívaolaj",
+            "tip": "A régió a kiváló minőségű olívaolajáról is híres."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tablă de șah din marmură",
+            "tip": "Un suvenir unic și greu, care prezintă meșteșugul local."
+          },
+          {
+            "name": "Ulei de măsline din Alentejo",
+            "tip": "Regiunea este, de asemenea, renumită pentru uleiul de măsline de înaltă calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marble Chessboard",
+            "tip": "A unique and heavy souvenir showcasing the local craft."
+          },
+          {
+            "name": "Alentejo Olive Oil",
+            "tip": "The region is also famous for its high-quality olive oil."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck vor der Fahrt. Die Straßen können holprig sein.",
+          "Nehmen Sie ein stabiles Schloss mit, um Ihr Fahrrad an den Sehenswürdigkeiten sicher abzustellen.",
+          "Eine Wasserflasche ist unerlässlich, besonders an warmen Tagen.",
+          "Planen Sie Ihre Route im Voraus, um steile Hügel zu vermeiden, wenn Sie es vorziehen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást. Az utak rázósak lehetnek.",
+          "Hozzon magával egy erős lakatot, hogy biztonságosan lezárhassa kerékpárját a látnivalóknál.",
+          "Egy vizes palack elengedhetetlen, különösen meleg napokon.",
+          "Tervezze meg előre az útvonalat, hogy elkerülje a meredek emelkedőket, ha úgy tetszik."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de a porni. Drumurile pot fi accidentate.",
+          "Luați un lacăt solid pentru a vă asigura bicicleta la atracții.",
+          "O sticlă de apă este esențială, mai ales în zilele călduroase.",
+          "Planificați-vă traseul în avans pentru a evita dealurile abrupte, dacă preferați."
+        ],
+        "en": [
+          "Check your tire pressure before riding. Roads can be bumpy.",
+          "Bring a sturdy lock to secure your bike at the attractions.",
+          "A water bottle is essential, especially on warm days.",
+          "Plan your route in advance to avoid steep hills if you prefer."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 2.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz nahe Praça da República",
+            "hu": "Parkoló a Praça da República közelében",
+            "ro": "Parcare lângă Praça da República",
+            "en": "Parking near Praça da República"
+          },
+          "coords": [
+            -7.4185,
+            38.777
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier Ihr Auto für den Tag. Das gesamte historische Zentrum ist von hier aus zu Fuß erreichbar.",
+            "hu": "Parkolja le itt az autóját a napra. Az egész történelmi központ gyalogosan elérhető innen.",
+            "ro": "Parcați-vă mașina aici pentru întreaga zi. Întregul centru istoric este accesibil pe jos de aici.",
+            "en": "Park your car here for the day. The entire historic center is walkable from this point."
+          }
+        },
+        {
+          "name": {
+            "de": "Praça da República",
+            "hu": "Köztársaság tér",
+            "ro": "Praça da República",
+            "en": "Republic Square"
+          },
+          "coords": [
+            -7.418,
+            38.778
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der Beginn Ihres Rundgangs, umgeben von Orangenbäumen und historischer Architektur.",
+            "hu": "A gyalogtúra kiindulópontja, narancsfákkal és történelmi építészettel körülvéve.",
+            "ro": "Începutul turului dvs. pietonal, înconjurat de portocali și arhitectură istorică.",
+            "en": "The start of your walking tour, surrounded by orange trees and historic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Kastell von Vila Viçosa & Wallfahrtskirche",
+            "hu": "Vila Viçosa vára és a szentély",
+            "ro": "Castelul din Vila Viçosa și Sanctuarul",
+            "en": "Castle of Vila Viçosa & Sanctuary"
+          },
+          "coords": [
+            -7.4155,
+            38.78
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Burg und die angrenzende Kirche zusammen, da sie sich im selben ummauerten Bereich befinden.",
+            "hu": "Fedezze fel a várat és a szomszédos templomot együtt, mivel ugyanazon a fallal körülvett területen vannak.",
+            "ro": "Explorați castelul și biserica adiacentă împreună, deoarece se află în aceeași zonă cu ziduri.",
+            "en": "Explore the castle and the adjacent church together as they are in the same walled area."
+          }
+        },
+        {
+          "name": {
+            "de": "Herzogspalast von Vila Viçosa",
+            "hu": "Vila Viçosa-i hercegi palota",
+            "ro": "Palatul Ducal din Vila Viçosa",
+            "en": "Ducal Palace of Vila Viçosa"
+          },
+          "coords": [
+            -7.422,
+            38.779
+          ],
+          "category": "famous-residences",
+          "arrive_at": "12:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Das Highlight der Stadt. Planen Sie genügend Zeit für die opulenten Innenräume und die Fassade ein.",
+            "hu": "A város fénypontja. Szánjon elegendő időt a pazar belső terekre és a homlokzatra.",
+            "ro": "Punctul culminant al orașului. Alocați suficient timp pentru interioarele opulente și fațadă.",
+            "en": "The highlight of the town. Allow plenty of time for the opulent interiors and the façade."
+          }
+        },
+        {
+          "name": {
+            "de": "Kutschenmuseum & Pantheon",
+            "hu": "Hintómúzeum és Panteon",
+            "ro": "Muzeul Trăsurilor și Panteonul",
+            "en": "Coach Museum & Pantheon"
+          },
+          "coords": [
+            -7.423,
+            38.7795
+          ],
+          "category": "museums",
+          "arrive_at": "14:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Diese beiden Attraktionen befinden sich direkt neben dem Palast und können leicht zusammen besichtigt werden.",
+            "hu": "Ez a két látnivaló közvetlenül a palota mellett található, és könnyen megtekinthető együtt.",
+            "ro": "Aceste două atracții sunt situate chiar lângă palat și pot fi vizitate cu ușurință împreună.",
+            "en": "These two attractions are located right next to the palace and are easily visited together."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Marmormuseum",
+            "hu": "Utazás a Márványmúzeumhoz",
+            "ro": "Călătorie spre Muzeul Marmurei",
+            "en": "Drive to the Marble Museum"
+          },
+          "coords": [
+            -7.411,
+            38.776
+          ],
+          "category": "museums",
+          "arrive_at": "15:45",
+          "stay_min": 85,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt zu diesem Museum am Stadtrand, um Ihren Besuch abzurunden.",
+            "hu": "Egy rövid autóút a város szélén található múzeumhoz, hogy teljes legyen a látogatás.",
+            "ro": "O scurtă călătorie cu mașina până la acest muzeu de la marginea orașului pentru a vă completa vizita.",
+            "en": "A short drive to this museum on the edge of town to complete your visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Autotag folgt einer 'Parken und Gehen'-Philosophie. Nachdem Sie im Zentrum geparkt haben, beginnt Ihr Vormittag mit einem Spaziergang zur Burg und zur Wallfahrtskirche. Der Mittag ist dem riesigen Herzogspalast und seinen Nachbarmuseen gewidmet, die alle einen einzigen großen Fußgänger-Cluster bilden. Am Nachmittag machen Sie eine kurze Fahrt zum Marmormuseum, um die Reise in die lokale Kultur abzurunden.",
+        "hu": "Az autós nap a 'parkolj és sétálj' filozófiát követi. Miután a központban parkolt, a délelőtt a várhoz és a zarándoktemplomhoz tett sétával kezdődik. A déli órák a hatalmas Hercegi Palotának és a szomszédos múzeumoknak vannak szentelve, amelyek egyetlen nagy gyalogos klasztert alkotnak. Délután egy rövid autóúttal juthat el a Márványmúzeumhoz, hogy teljes legyen a helyi kultúrában tett utazása.",
+        "ro": "Ziua cu mașina urmează o filozofie 'parchează și mergi'. După ce ați parcat în centru, dimineața începe cu o plimbare la castel și sanctuar. Amiaza este dedicată vastului Palat Ducal și muzeelor sale învecinate, toate formând un singur cluster pietonal mare. După-amiaza, faceți o scurtă călătorie cu mașina la Muzeul Marmurei pentru a completa călătoria în cultura locală.",
+        "en": "The car day follows a 'park and walk' philosophy. After parking in the center, your morning starts with a walk to the castle and sanctuary. Midday is devoted to the vast Ducal Palace and its neighboring museums, all forming a single large pedestrian cluster. In the afternoon, you'll take a short drive to the Marble Museum to complete the journey into local culture."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ensopado de Borrego",
+            "tip": "Ein reichhaltiger Lammeintopf, ein Grundnahrungsmittel der Alentejo-Küche."
+          },
+          {
+            "name": "Açorda à Alentejana",
+            "tip": "Eine traditionelle Brotsuppe mit Knoblauch, Koriander und einem pochierten Ei."
+          },
+          {
+            "name": "Queijo de Serpa",
+            "tip": "Probieren Sie diesen scharfen Schafskäse aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ensopado de Borrego",
+            "tip": "Gazdag báránypörkölt, az Alentejo konyha alapétele."
+          },
+          {
+            "name": "Açorda à Alentejana",
+            "tip": "Hagyományos kenyérleves fokhagymával, korianderrel és buggyantott tojással."
+          },
+          {
+            "name": "Queijo de Serpa",
+            "tip": "Kóstolja meg ezt a csípős, régióbeli juhsajtot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ensopado de Borrego",
+            "tip": "O tocană bogată de miel, un element de bază în bucătăria din Alentejo."
+          },
+          {
+            "name": "Açorda à Alentejana",
+            "tip": "O supă tradițională de pâine cu usturoi, coriandru și un ou poșat."
+          },
+          {
+            "name": "Queijo de Serpa",
+            "tip": "Încercați această brânză de oaie înțepătoare din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ensopado de Borrego",
+            "tip": "A rich lamb stew, a staple of Alentejo cuisine."
+          },
+          {
+            "name": "Açorda à Alentejana",
+            "tip": "A traditional bread soup with garlic, cilantro, and a poached egg."
+          },
+          {
+            "name": "Queijo de Serpa",
+            "tip": "Try this pungent sheep's cheese from the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardim da Praça da República",
+            "tip": "Eine ruhige Ecke im zentralen Garten, um dem Trubel zu entfliehen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick von der Porta dos Nós",
+            "tip": "Ein malerischer und oft übersehener Ort für eine ruhige Pause.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardim da Praça da República",
+            "tip": "Egy csendes sarok a központi kertben, hogy elmeneküljön a nyüzsgés elől.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Porta dos Nós-tól",
+            "tip": "Festői és gyakran figyelmen kívül hagyott hely egy csendes pihenőre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardim da Praça da República",
+            "tip": "Un colț liniștit în grădina centrală pentru a scăpa de agitație.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de la Porta dos Nós",
+            "tip": "Un loc pitoresc și adesea trecut cu vederea pentru o pauză liniștită.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardim da Praça da República",
+            "tip": "A quiet corner in the central garden to escape the bustle.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from Porta dos Nós",
+            "tip": "A scenic and often overlooked spot for a quiet break.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Wurstwaren",
+            "tip": "Kaufen Sie Chorizo oder Presunto aus der Region Alentejo."
+          },
+          {
+            "name": "Korkprodukte",
+            "tip": "Portugal ist berühmt für Kork; suchen Sie nach Taschen, Geldbörsen oder Untersetzern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kolbászfélék",
+            "tip": "Vásároljon choriçót vagy presuntót az Alentejo régióból."
+          },
+          {
+            "name": "Parafa termékek",
+            "tip": "Portugália híres a parafáról; keressen táskákat, pénztárcákat vagy alátéteket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mezeluri locale",
+            "tip": "Cumpărați chorizo sau presunto din regiunea Alentejo."
+          },
+          {
+            "name": "Produse din plută",
+            "tip": "Portugalia este renumită pentru plută; căutați genți, portofele sau suporturi de pahare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Cured Meats",
+            "tip": "Shop for chouriço or presunto from the Alentejo region."
+          },
+          {
+            "name": "Cork Products",
+            "tip": "Portugal is famous for cork; look for bags, wallets, or coasters."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken kann im Sommer schwierig sein. Kommen Sie früh, um einen guten Platz zu finden.",
+          "Überprüfen Sie die Öffnungszeiten, da einige Orte zum Mittagessen schließen (Siesta).",
+          "Das Fahren im historischen Zentrum ist nicht zu empfehlen; die Straßen sind sehr eng.",
+          "Nutzen Sie Ihr Auto, um nahegelegene Städte wie Estremoz oder Elvas zu besuchen, wenn Sie Zeit haben."
+        ],
+        "hu": [
+          "A parkolás nyáron nehézkes lehet. Érkezzen korán, hogy jó helyet találjon.",
+          "Ellenőrizze a nyitvatartási időket, mivel néhány hely bezár ebédidőben (szieszta).",
+          "A történelmi központban nem ajánlott vezetni; az utcák nagyon szűkek.",
+          "Használja autóját a közeli városok, mint Estremoz vagy Elvas meglátogatásához, ha van ideje."
+        ],
+        "ro": [
+          "Parcarea poate fi dificilă în timpul verii. Ajungeți devreme pentru a găsi un loc bun.",
+          "Verificați orele de deschidere, deoarece unele locuri se închid pentru prânz (siesta).",
+          "Nu este recomandat să conduceți în centrul istoric; străzile sunt foarte înguste.",
+          "Folosiți-vă mașina pentru a vizita orașele din apropiere, cum ar fi Estremoz sau Elvas, dacă aveți timp."
+        ],
+        "en": [
+          "Parking can be difficult in the summer. Arrive early to find a good spot.",
+          "Check opening hours, as some places close for lunch (siesta).",
+          "Driving in the historic center is not recommended; streets are very narrow.",
+          "Use your car to visit nearby towns like Estremoz or Elvas if you have time."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 2.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft an der Bushaltestelle Vila Viçosa",
+            "hu": "Érkezés a Vila Viçosa buszmegállóba",
+            "ro": "Sosire la stația de autobuz Vila Viçosa",
+            "en": "Arrival at Vila Viçosa Bus Stop"
+          },
+          "coords": [
+            -7.414,
+            38.775
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Die Hauptbushaltestelle ist Ihr Tor zur Stadt. Von hier aus ist alles zu Fuß erreichbar.",
+            "hu": "A központi buszmegálló a kapu a városhoz. Innen minden gyalogosan elérhető.",
+            "ro": "Stația principală de autobuz este poarta dvs. de acces către oraș. Totul este la distanță de mers pe jos de aici.",
+            "en": "The main bus stop is your gateway to the town. Everything is walkable from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Marmormuseum",
+            "hu": "Márványmúzeum",
+            "ro": "Muzeul Marmurei",
+            "en": "Marble Museum"
+          },
+          "coords": [
+            -7.411,
+            38.776
+          ],
+          "category": "museums",
+          "arrive_at": "09:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, da es in der Nähe der Bushaltestelle liegt, bevor Sie ins Zentrum gehen.",
+            "hu": "Kezdje itt, mivel közel van a buszmegállóhoz, mielőtt a központba menne.",
+            "ro": "Începeți aici, deoarece este aproape de stația de autobuz, înainte de a vă îndrepta spre centru.",
+            "en": "Start here as it's close to the bus stop before heading into the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Praça da República",
+            "hu": "Köztársaság tér",
+            "ro": "Praça da República",
+            "en": "Republic Square"
+          },
+          "coords": [
+            -7.418,
+            38.778
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Das Herz der Stadt, ein perfekter Ort für eine Kaffeepause.",
+            "hu": "A város szíve, tökéletes hely egy kávészünetre.",
+            "ro": "Inima orașului, un loc perfect pentru o pauză de cafea.",
+            "en": "The heart of the town, a perfect spot for a coffee break."
+          }
+        },
+        {
+          "name": {
+            "de": "Kastell von Vila Viçosa",
+            "hu": "Vila Viçosa vára",
+            "ro": "Castelul din Vila Viçosa",
+            "en": "Castle of Vila Viçosa"
+          },
+          "coords": [
+            -7.4155,
+            38.78
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz zur Spitze des Hügels für eine Dosis Geschichte.",
+            "hu": "Rövid séta a térről a domb tetejére egy adag történelemért.",
+            "ro": "O scurtă plimbare de la piață până în vârful dealului pentru o doză de istorie.",
+            "en": "A short walk from the square to the top of the hill for a dose of history."
+          }
+        },
+        {
+          "name": {
+            "de": "Herzogspalast von Vila Viçosa",
+            "hu": "Vila Viçosa-i hercegi palota",
+            "ro": "Palatul Ducal din Vila Viçosa",
+            "en": "Ducal Palace of Vila Viçosa"
+          },
+          "coords": [
+            -7.422,
+            38.779
+          ],
+          "category": "famous-residences",
+          "arrive_at": "13:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Der krönende Abschluss Ihres Besuchs, der größte Teil des Nachmittags ist hier gut angelegt.",
+            "hu": "Látogatásának csúcspontja, a délután nagy részét érdemes itt tölteni.",
+            "ro": "Bijuteria coroanei vizitei dvs., cea mai mare parte a după-amiezii este bine petrecută aici.",
+            "en": "The crowning jewel of your visit, most of the afternoon is well spent here."
+          }
+        },
+        {
+          "name": {
+            "de": "Kutschenmuseum",
+            "hu": "Hintómúzeum",
+            "ro": "Muzeul Trăsurilor",
+            "en": "Coach Museum"
+          },
+          "coords": [
+            -7.423,
+            38.7795
+          ],
+          "category": "museums",
+          "arrive_at": "15:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein schneller, aber faszinierender Besuch direkt neben dem Palast, bevor Sie zum Bus zurückkehren.",
+            "hu": "Gyors, de lenyűgöző látogatás a palota mellett, mielőtt visszatérne a buszhoz.",
+            "ro": "O vizită rapidă, dar fascinantă, chiar lângă palat, înainte de a vă întoarce la autobuz.",
+            "en": "A quick but fascinating visit right next to the palace before heading back to the bus."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wenn Sie mit dem Bus anreisen, ist Vila Viçosa vollständig zu Fuß erreichbar. Beginnen Sie am Morgen mit dem Marmormuseum in der Nähe der Haltestelle. Spazieren Sie mittags ins Zentrum, um die Praça da República und die Burg zu erkunden. Der Nachmittag ist dem prächtigen Herzogspalast und dem benachbarten Kutschenmuseum gewidmet, bevor Sie einen gemütlichen Spaziergang zurück zur Bushaltestelle machen.",
+        "hu": "Ha busszal érkezik, Vila Viçosa teljesen bejárható gyalog. Kezdje a reggelt a megállóhoz közeli Márványmúzeummal. Délben sétáljon be a központba, hogy felfedezze a Köztársaság teret és a várat. A délutánt a pazar Hercegi Palotának és a szomszédos Hintómúzeumnak szenteljük, mielőtt kényelmesen visszasétálna a buszmegállóba.",
+        "ro": "Sosind cu autobuzul, Vila Viçosa este complet explorabilă pe jos. Începeți dimineața la Muzeul Marmurei, aproape de stație. La amiază, plimbați-vă în centru pentru a explora Praça da República și castelul. După-amiaza este dedicată opulentului Palat Ducal și Muzeului Trăsurilor adiacent, înainte de o plimbare relaxantă înapoi la stația de autobuz.",
+        "en": "Arriving by bus, Vila Viçosa is completely walkable. Start your morning at the Marble Museum near the stop. At midday, stroll into the center to explore Praça da República and the castle. The afternoon is dedicated to the opulent Ducal Palace and the adjacent Coach Museum before a leisurely walk back to the bus station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pastel de Nata",
+            "tip": "Auch wenn es nicht aus der Region stammt, finden Sie in den örtlichen Bäckereien hervorragende Versionen."
+          },
+          {
+            "name": "Pão Alentejano",
+            "tip": "Probieren Sie das berühmte Brot der Region, das oft als Vorspeise mit Oliven serviert wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pastel de Nata",
+            "tip": "Bár nem helyi, a helyi pékségekben kiváló változatokat talál."
+          },
+          {
+            "name": "Pão Alentejano",
+            "tip": "Kóstolja meg a régió híres kenyerét, amelyet gyakran olajbogyóval szolgálnak fel előételként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pastel de Nata",
+            "tip": "Chiar dacă nu este originar de aici, veți găsi versiuni excelente la brutăriile locale."
+          },
+          {
+            "name": "Pão Alentejano",
+            "tip": "Încercați pâinea faimoasă a regiunii, adesea servită ca aperitiv cu măsline."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pastel de Nata",
+            "tip": "Even if not native to the region, you'll find excellent versions at local bakeries."
+          },
+          {
+            "name": "Pão Alentejano",
+            "tip": "Try the region's famous bread, often served as a starter with olives."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Innenhof des Augustinerklosters",
+            "tip": "Ein verstecktes Juwel für einen Moment der Stille, wo sich das Pantheon befindet.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang entlang der Avenida Duques de Bragança",
+            "tip": "Ein breiter, von Bäumen gesäumter Boulevard, ideal für einen ruhigen Spaziergang.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az Ágostonos Kolostor udvara",
+            "tip": "Rejtett gyöngyszem egy csendes pillanatra, ahol a Panteon található.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta az Avenida Duques de Bragança mentén",
+            "tip": "Széles, fákkal szegélyezett körút, ideális egy csendes sétához.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea Mănăstirii Augustiniene",
+            "tip": "O bijuterie ascunsă pentru un moment de liniște, unde se află Panteonul.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare de-a lungul Avenida Duques de Bragança",
+            "tip": "Un bulevard larg, mărginit de copaci, ideal pentru o plimbare liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Courtyard of the Augustinian Convent",
+            "tip": "A hidden gem for a moment of silence, where the Pantheon is located.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Stroll along Avenida Duques de Bragança",
+            "tip": "A wide, tree-lined boulevard perfect for a peaceful walk.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handgefertigter Schmuck",
+            "tip": "Kleine Boutiquen verkaufen Schmuck, der von lokalen Handwerkern hergestellt wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézzel készített ékszerek",
+            "tip": "Kis butikok helyi kézművesek által készített ékszereket árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bijuterii artizanale",
+            "tip": "Micile buticuri vând bijuterii realizate de artizani locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Handmade Jewelry",
+            "tip": "Small boutiques sell jewelry made by local artisans."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan für Ihre Rückfahrt im Voraus.",
+          "Die Stadt ist klein, also machen Sie sich keine Sorgen, dass Sie sich verlaufen.",
+          "Fast alles ist zu Fuß erreichbar, aber priorisieren Sie Ihre Must-Sees.",
+          "Fragen Sie in den örtlichen Cafés nach dem 'Prato do Dia' (Tagesgericht) für ein günstiges Mittagessen."
+        ],
+        "hu": [
+          "Előre ellenőrizze a busz menetrendjét a visszaúthoz.",
+          "A város kicsi, ne aggódjon, hogy eltéved.",
+          "Szinte minden gyalogosan elérhető, de rangsorolja a kötelező látnivalókat.",
+          "Kérdezze a helyi kávézókban a 'Prato do Dia'-t (napi étel) egy olcsó ebédért."
+        ],
+        "ro": [
+          "Verificați din timp orarul autobuzului pentru călătoria de întoarcere.",
+          "Orașul este mic, așa că nu vă faceți griji că vă veți rătăci.",
+          "Aproape totul este la distanță de mers pe jos, dar prioritizați-vă obiectivele obligatorii.",
+          "Întrebați la cafenelele locale despre 'Prato do Dia' (mâncarea zilei) pentru un prânz economic."
+        ],
+        "en": [
+          "Check the bus schedule for your return trip in advance.",
+          "The town is small, so don't worry about getting lost.",
+          "Almost everything is walkable, but prioritize your must-sees.",
+          "Ask for the 'Prato do Dia' (dish of the day) at local cafes for an affordable lunch."
+        ]
+      }
+    }
+  }
+}

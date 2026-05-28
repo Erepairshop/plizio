@@ -1,0 +1,1308 @@
+{
+  "city_id": "bosniaherzegovina-lukavac-cities-v2",
+  "anchor": {
+    "name": "Lukavac",
+    "coords": [
+      18.5333,
+      44.5333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Puračić-Altstadt",
+            "hu": "Puračić óvárosa",
+            "ro": "Centrul vechi Puračić",
+            "en": "Puračić Old Town"
+          },
+          "coords": [
+            18.5333,
+            44.5333
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee auf dem Hauptplatz.",
+            "hu": "Indítsa a napot egy kávéval a főtéren.",
+            "ro": "Începeți ziua cu o cafea în piața principală.",
+            "en": "Start your day with a coffee in the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Weiße Moschee Lukavac",
+            "hu": "Lukavaci Fehér Mecset",
+            "ro": "Moscheea Albă din Lukavac",
+            "en": "White Mosque Lukavac"
+          },
+          "coords": [
+            18.53,
+            44.535
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die schlichte und moderne Architektur.",
+            "hu": "Figyelje meg az egyszerű, mégis modern építészetet.",
+            "ro": "Observați arhitectura sa simplă, dar modernă.",
+            "en": "Notice its simple yet modern architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Lukavac",
+            "hu": "Lukavaci Kulturális Központ",
+            "ro": "Centrul Cultural Lukavac",
+            "en": "Cultural Centre Lukavac"
+          },
+          "coords": [
+            18.535,
+            44.532
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:59",
+          "stay_min": 60,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie, ob lokale Ausstellungen oder Veranstaltungen stattfinden.",
+            "hu": "Nézze meg, van-e helyi kiállítás vagy esemény.",
+            "ro": "Verificați dacă au loc expoziții sau evenimente locale.",
+            "en": "Check if there are any local exhibitions or events."
+          }
+        },
+        {
+          "name": {
+            "de": "Vila Solvay",
+            "hu": "Solvay-villa",
+            "ro": "Vila Solvay",
+            "en": "Vila Solvay"
+          },
+          "coords": [
+            18.528,
+            44.538
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:17",
+          "stay_min": 30,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schönes Beispiel für die Architektur der österreichisch-ungarischen Zeit.",
+            "hu": "Az osztrák-magyar időszak építészetének szép példája.",
+            "ro": "Un exemplu frumos de arhitectură din perioada austro-ungară.",
+            "en": "A fine example of Austro-Hungarian era architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Innenstadt",
+            "hu": "Ebéd a belvárosban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city center"
+          },
+          "coords": [
+            18.5325,
+            44.5335
+          ],
+          "category": "gastro",
+          "arrive_at": "12:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie Ćevapi oder andere bosnische Spezialitäten.",
+            "hu": "Kóstolja meg a Ćevapit vagy más bosnyák specialitásokat.",
+            "ro": "Încercați Ćevapi sau alte specialități bosniace.",
+            "en": "Try some Ćevapi or other Bosnian specialties."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal Macan Marija",
+            "hu": "Macan Marija emlékmű",
+            "ro": "Monumentul Macan Marija",
+            "en": "Macan Marija Monument"
+          },
+          "coords": [
+            18.531,
+            44.531
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:41",
+          "stay_min": 64,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Moment des Innehaltens, um der lokalen Geschichte zu gedenken.",
+            "hu": "Egy pillanatnyi megállás a helyi történelemre való emlékezéshez.",
+            "ro": "Un moment de reflecție pentru a comemora istoria locală.",
+            "en": "A moment of reflection to commemorate local history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang durch Lukavac beginnt im historischen Herzen der Puračić-Altstadt. Am Vormittag erkunden Sie die spirituelle Ruhe der Weißen Moschee und tauchen in die lokale Kultur im Kulturzentrum ein. Der Mittag führt Sie vorbei an der eleganten Vila Solvay zu einem traditionellen bosnischen Mittagessen. Nachmittags spazieren Sie zum Macan Marija-Denkmal, einem Ort der Besinnung. Der Tag endet mit entspannten Momenten in einem der vielen Cafés der Stadt, die zum Verweilen einladen.",
+        "hu": "Lukavaci sétája a Puračić óváros történelmi szívében kezdődik. Délelőtt felfedezi a Fehér Mecset spirituális nyugalmát és elmerül a helyi kultúrában a Kulturális Központban. Délben az elegáns Solvay-villa mellett elhaladva egy hagyományos bosnyák ebéd várja. Délután a Macan Marija emlékműhöz sétál, amely a megemlékezés helye. A nap a város egyik kávézójában ér véget, ahol pihenhet és élvezheti a hangulatot.",
+        "ro": "Plimbarea dvs. prin Lukavac începe în inima istorică a centrului vechi Puračić. Dimineața explorați liniștea spirituală a Moscheii Albe și vă cufundați în cultura locală la Centrul Cultural. Amiaza vă poartă pe lângă eleganta Vilă Solvay spre un prânz tradițional bosniac. După-amiaza vă plimbați la Monumentul Macan Marija, un loc de reflecție. Ziua se încheie cu momente de relaxare la una dintre numeroasele cafenele ale orașului.",
+        "en": "Your walk through Lukavac begins in the historical heart of Puračić Old Town. In the morning, you'll explore the spiritual tranquility of the White Mosque and delve into local culture at the Cultural Centre. Midday takes you past the elegant Vila Solvay to a traditional Bosnian lunch. In the afternoon, you'll stroll to the Macan Marija Monument, a place for reflection. The day concludes with relaxing moments in one of the city's many inviting cafés."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ćevapi",
+            "tip": "Gegrillte Hackfleischröllchen, serviert mit Fladenbrot und Zwiebeln."
+          },
+          {
+            "name": "Burek",
+            "tip": "Ein mit Fleisch, Käse oder Spinat gefülltes Blätterteiggebäck."
+          },
+          {
+            "name": "Bosanski Lonac",
+            "tip": "Ein deftiger Fleischeintopf mit Gemüse, der stundenlang gekocht wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ćevapi",
+            "tip": "Grillezett darált hús tekercsek, lepénnyel és hagymával tálalva."
+          },
+          {
+            "name": "Burek",
+            "tip": "Hússal, sajttal vagy spenóttal töltött leveles tészta."
+          },
+          {
+            "name": "Bosanski Lonac",
+            "tip": "Kihaós, órákig főzött húsos egytálétel zöldségekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ćevapi",
+            "tip": "Rulouri de carne tocată la grătar, servite cu lipie și ceapă."
+          },
+          {
+            "name": "Burek",
+            "tip": "O plăcintă din foietaj umplută cu carne, brânză sau spanac."
+          },
+          {
+            "name": "Bosanski Lonac",
+            "tip": "O tocană consistentă de carne cu legume, gătită ore în șir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ćevapi",
+            "tip": "Grilled minced meat rolls, served with flatbread and onions."
+          },
+          {
+            "name": "Burek",
+            "tip": "A flaky pastry filled with meat, cheese, or spinach."
+          },
+          {
+            "name": "Bosanski Lonac",
+            "tip": "A hearty meat and vegetable stew, slow-cooked for hours."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Bistarac-See",
+            "tip": "Ein ruhiger Ort außerhalb des Zentrums, ideal für einen friedlichen Spaziergang.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hof der Weißen Moschee",
+            "tip": "Ein Ort der Stille und Besinnung, auch wenn Sie nicht eintreten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Bistarac-tónál",
+            "tip": "Csendes hely a központon kívül, ideális egy békés sétához.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Fehér Mecset udvara",
+            "tip": "A csend és az elmélyülés helye, még ha nem is lépsz be.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare la Lacul Bistarac",
+            "tip": "Un loc liniștit în afara centrului, ideal pentru o plimbare pașnică.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea Moscheii Albe",
+            "tip": "Un loc de liniște și contemplare, chiar dacă nu intrați.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk at Lake Bistarac",
+            "tip": "A quiet spot outside the center, ideal for a peaceful walk.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Courtyard of the White Mosque",
+            "tip": "A place of silence and contemplation, even if you don't go inside.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt in Puračić",
+            "tip": "Suchen Sie nach handgemachten Produkten und lokalen Lebensmitteln."
+          },
+          {
+            "name": "Souvenirläden im Zentrum",
+            "tip": "Kleine Geschäfte bieten traditionelle bosnische Handwerkskunst an."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac Puračićban",
+            "tip": "Keressen kézműves termékeket és helyi élelmiszereket."
+          },
+          {
+            "name": "Ajándékboltok a központban",
+            "tip": "A kis üzletek hagyományos bosnyák kézműves termékeket kínálnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală din Puračić",
+            "tip": "Căutați produse artizanale și alimente locale."
+          },
+          {
+            "name": "Magazine de suveniruri în centru",
+            "tip": "Micile magazine oferă artizanat tradițional bosniac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market in Puračić",
+            "tip": "Look for handmade crafts and local food products."
+          },
+          {
+            "name": "Souvenir Shops in the Center",
+            "tip": "Small shops offering traditional Bosnian handicrafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag zu Fuß unterwegs sein werden.",
+          "Nehmen Sie eine Wasserflasche mit, besonders an wärmeren Tagen.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Planen Sie Pausen in den zahlreichen Cafés ein, um die Atmosphäre zu genießen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap gyalogolni fog.",
+          "Vigyen magával egy vizes palackot, különösen melegebb napokon.",
+          "A legtöbb belvárosi látnivaló könnyen megközelíthető gyalog.",
+          "Tervezzen szüneteket a számos kávézóban, hogy élvezze a hangulatot."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge pe jos toată ziua.",
+          "Luați cu voi o sticlă de apă, mai ales în zilele mai calde.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Planificați pauze la numeroasele cafenele pentru a vă bucura de atmosferă."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking all day.",
+          "Bring a water bottle, especially on warmer days.",
+          "Most sights in the center are within easy walking distance.",
+          "Plan for breaks at the numerous cafes to soak in the atmosphere."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 14.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Start am Bistarac-See",
+            "hu": "Indulás a Bistarac-tótól",
+            "ro": "Start de la Lacul Bistarac",
+            "en": "Start at Lake Bistarac"
+          },
+          "coords": [
+            18.53,
+            44.5
+          ],
+          "category": "lake",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie die morgendliche Ruhe am See, bevor Sie in die Stadt fahren.",
+            "hu": "Élvezze a tó reggeli nyugalmát, mielőtt a városba indul.",
+            "ro": "Bucurați-vă de liniștea de dimineață la lac înainte de a porni spre oraș.",
+            "en": "Enjoy the morning tranquility at the lake before heading into the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Puračić-Altstadt",
+            "hu": "Puračić óvárosa",
+            "ro": "Centrul vechi Puračić",
+            "en": "Puračić Old Town"
+          },
+          "coords": [
+            18.5333,
+            44.5333
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:31",
+          "stay_min": 45,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie die Gassen zu Fuß.",
+            "hu": "Zárja le a biciklit és fedezze fel a sikátorokat gyalog.",
+            "ro": "Parcați bicicleta și explorați aleile pe jos.",
+            "en": "Park your bike and explore the alleys on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Weiße Moschee Lukavac",
+            "hu": "Lukavaci Fehér Mecset",
+            "ro": "Moscheea Albă din Lukavac",
+            "en": "White Mosque Lukavac"
+          },
+          "coords": [
+            18.53,
+            44.535
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:21",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer Halt, um die moderne islamische Architektur zu bewundern.",
+            "hu": "Egy rövid megálló a modern iszlám építészet megcsodálására.",
+            "ro": "O oprire scurtă pentru a admira arhitectura islamică modernă.",
+            "en": "A brief stop to admire the modern Islamic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            18.534,
+            44.5325
+          ],
+          "category": "gastro",
+          "arrive_at": "11:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stärken Sie sich mit lokalen Spezialitäten für die Weiterfahrt.",
+            "hu": "Erősítse meg magát helyi specialitásokkal a további útra.",
+            "ro": "Întăriți-vă cu specialități locale pentru restul călătoriei.",
+            "en": "Refuel with local specialties for the ride ahead."
+          }
+        },
+        {
+          "name": {
+            "de": "Industrielles Erbe Lukavac",
+            "hu": "Lukavaci Ipari Örökség",
+            "ro": "Patrimoniul Industrial Lukavac",
+            "en": "Industrial Heritage Lukavac"
+          },
+          "coords": [
+            18.515,
+            44.545
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein faszinierender Einblick in die industrielle Vergangenheit der Region.",
+            "hu": "Lenyűgöző bepillantás a régió ipari múltjába.",
+            "ro": "O privire fascinantă asupra trecutului industrial al regiunii.",
+            "en": "A fascinating glimpse into the region's industrial past."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr zum Modrac-See",
+            "hu": "Visszatérés a Modrac-tóhoz",
+            "ro": "Întoarcere la Lacul Modrac",
+            "en": "Return to Lake Modrac"
+          },
+          "coords": [
+            18.48,
+            44.48
+          ],
+          "category": "lake",
+          "arrive_at": "15:21",
+          "stay_min": 128,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 6.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem entspannten Ausblick über den größten See der Region.",
+            "hu": "Zárja a napot egy pihentető kilátással a régió legnagyobb tavára.",
+            "ro": "Încheiați ziua cu o priveliște relaxantă asupra celui mai mare lac din regiune.",
+            "en": "End the day with a relaxing view over the region's largest lake."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt mit der morgendlichen Stille am Bistarac-See. Von dort aus radeln Sie ins Herz von Lukavac, in die Puračić-Altstadt, und machen Halt an der modernen Weißen Moschee. Nach einem stärkenden bosnischen Mittagessen führt Sie Ihre Route zum industriellen Erbe der Stadt, das von der reichen Vergangenheit der Region zeugt. Den Abschluss des Tages bildet eine längere Fahrt zum beeindruckenden Modrac-See, wo Sie den Nachmittag mit einem atemberaubenden Panoramablick ausklingen lassen.",
+        "hu": "Kerékpártúrája a Bistarac-tó reggeli csendjével indul. Innen Lukavac szívébe, a Puračić óvárosba teker, megállva a modern Fehér Mecsetnél. Egy kiadós bosnyák ebéd után az útvonal a város ipari örökségéhez vezet, amely a régió gazdag múltjáról tanúskodik. A napot egy hosszabb tekerés zárja a lenyűgöző Modrac-tóhoz, ahol a délutánt egy lélegzetelállító panorámával fejezheti be.",
+        "ro": "Turul cu bicicleta începe cu liniștea de dimineață de la Lacul Bistarac. De acolo, pedalați spre inima orașului Lukavac, în centrul vechi Puračić, cu o oprire la Moscheea Albă modernă. După un prânz bosniac consistent, traseul vă duce la patrimoniul industrial al orașului, o mărturie a trecutului bogat al regiunii. Ziua se încheie cu o plimbare mai lungă spre impresionantul Lac Modrac, unde vă puteți petrece după-amiaza bucurându-vă de o panoramă uluitoare.",
+        "en": "Your bike tour starts with the morning tranquility at Lake Bistarac. From there, you'll cycle into the heart of Lukavac, the Puračić Old Town, with a stop at the modern White Mosque. After a hearty Bosnian lunch, your route leads to the city's industrial heritage, a testament to the region's rich past. The day concludes with a longer ride to the impressive Lake Modrac, where you'll finish the afternoon with a breathtaking panoramic view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pita Zeljanica",
+            "tip": "Ein herzhafter Kuchen gefüllt mit Spinat und Käse, perfekt für eine schnelle Mahlzeit."
+          },
+          {
+            "name": "Sudžukice",
+            "tip": "Würzige bosnische Würstchen, oft gegrillt und mit Brot serviert."
+          },
+          {
+            "name": "Frischer Fisch",
+            "tip": "In Restaurants an den Seen Modrac oder Bistarac können Sie lokalen Fisch probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pita Zeljanica",
+            "tip": "Spenóttal és sajttal töltött sós pite, tökéletes egy gyors étkezéshez."
+          },
+          {
+            "name": "Sudžukice",
+            "tip": "Fűszeres bosnyák kolbászkák, gyakran grillezve, kenyérrel tálalva."
+          },
+          {
+            "name": "Friss hal",
+            "tip": "A Modrac- vagy Bistarac-tó melletti éttermekben megkóstolhatja a helyi halat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pita Zeljanica",
+            "tip": "O plăcintă sărată umplută cu spanac și brânză, perfectă pentru o masă rapidă."
+          },
+          {
+            "name": "Sudžukice",
+            "tip": "Cârnați bosniaci picanți, adesea la grătar și serviți cu pâine."
+          },
+          {
+            "name": "Pește proaspăt",
+            "tip": "La restaurantele de pe malul lacurilor Modrac sau Bistarac puteți încerca pește local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pita Zeljanica",
+            "tip": "A savory pie filled with spinach and cheese, perfect for a quick meal."
+          },
+          {
+            "name": "Sudžukice",
+            "tip": "Spicy Bosnian sausages, often grilled and served with bread."
+          },
+          {
+            "name": "Fresh Fish",
+            "tip": "At restaurants by Lake Modrac or Bistarac, you can try local fish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Modrac-Sees",
+            "tip": "Finden Sie einen ruhigen Platz am Ufer und genießen Sie die Weite des Wassers.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Park am Kulturzentrum",
+            "tip": "Eine kleine grüne Oase im Stadtzentrum.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Modrac-tó partja",
+            "tip": "Keressen egy csendes helyet a parton, és élvezze a víz tágasságát.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Park a Kulturális Központnál",
+            "tip": "Egy kis zöld oázis a városközpontban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Lacului Modrac",
+            "tip": "Găsiți un loc liniștit pe mal și bucurați-vă de întinderea apei.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul de la Centrul Cultural",
+            "tip": "O mică oază de verdeață în centrul orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shore of Lake Modrac",
+            "tip": "Find a quiet spot on the shore and enjoy the vastness of the water.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Park at the Cultural Centre",
+            "tip": "A small green oasis in the city center.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Imkereien",
+            "tip": "Die Gegend ist für ihren Honig bekannt. Suchen Sie nach lokalen Verkäufern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méhészetek",
+            "tip": "A környék híres a mézéről. Keressen helyi árusokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stupi locali",
+            "tip": "Zona este cunoscută pentru mierea sa. Căutați vânzători locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Beekeepers",
+            "tip": "The area is known for its honey. Look for local sellers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Einige Strecken können hügelig sein, seien Sie also auf Anstiege vorbereitet.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad sicher abzustellen, während Sie die Sehenswürdigkeiten erkunden.",
+          "Eine Karte oder ein GPS-Gerät ist hilfreich, um sich zwischen den Seen und der Stadt zurechtzufinden."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket és a gumikat.",
+          "Néhány szakasz dombos lehet, ezért készüljön fel emelkedőkre.",
+          "Vigyen magával lakatot, hogy biztonságosan lezárhassa a kerékpárt a látnivalók felfedezése közben.",
+          "Egy térkép vagy GPS-eszköz hasznos a tavak és a város közötti navigáláshoz."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele și anvelopele.",
+          "Unele trasee pot fi deluroase, așa că fiți pregătiți pentru urcări.",
+          "Luați un lacăt pentru a vă asigura bicicleta în timp ce explorați atracțiile.",
+          "O hartă sau un dispozitiv GPS este util pentru a naviga între lacuri și oraș."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes and tires.",
+          "Some routes can be hilly, so be prepared for some climbs.",
+          "Bring a lock to secure your bike while you explore the sights.",
+          "A map or GPS device is helpful for navigating between the lakes and the city."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 24.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Modrac-See (Cluster A)",
+            "hu": "Modrac-tó (A csoport)",
+            "ro": "Lacul Modrac (Grupul A)",
+            "en": "Lake Modrac (Cluster A)"
+          },
+          "coords": [
+            18.48,
+            44.48
+          ],
+          "category": "lake",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe eines der vielen Cafés und genießen Sie den morgendlichen Seeblick.",
+            "hu": "Parkoljon egy kávézó közelében, és élvezze a reggeli kilátást a tóra.",
+            "ro": "Parcați lângă una dintre multele cafenele și bucurați-vă de vederea lacului dimineața.",
+            "en": "Park near one of the many cafes and enjoy the morning lake view."
+          }
+        },
+        {
+          "name": {
+            "de": "Bistarac-See (Cluster A)",
+            "hu": "Bistarac-tó (A csoport)",
+            "ro": "Lacul Bistarac (Grupul A)",
+            "en": "Lake Bistarac (Cluster A)"
+          },
+          "coords": [
+            18.53,
+            44.5
+          ],
+          "category": "lake",
+          "arrive_at": "10:43",
+          "stay_min": 45,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein kleinerer, aber oft ruhigerer See. Ideal für einen kurzen Spaziergang.",
+            "hu": "Kisebb, de gyakran csendesebb tó. Ideális egy rövid sétához.",
+            "ro": "Un lac mai mic, dar adesea mai liniștit. Ideal pentru o scurtă plimbare.",
+            "en": "A smaller but often quieter lake. Ideal for a short walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Puračić-Altstadt (Cluster B)",
+            "hu": "Puračić óvárosa (B csoport)",
+            "ro": "Centrul vechi Puračić (Grupul B)",
+            "en": "Puračić Old Town (Cluster B)"
+          },
+          "coords": [
+            18.5333,
+            44.5333
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:42",
+          "stay_min": 30,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 6.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Suchen Sie einen Parkplatz am Rand des Zentrums und erkunden Sie den Kern zu Fuß.",
+            "hu": "Keressen egy parkolót a központ szélén, és fedezze fel a magot gyalog.",
+            "ro": "Găsiți o parcare la marginea centrului și explorați centrul pe jos.",
+            "en": "Find parking on the edge of the center and explore the core on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Puračić (Cluster B)",
+            "hu": "Ebéd Puračićban (B csoport)",
+            "ro": "Prânz în Puračić (Grupul B)",
+            "en": "Lunch in Puračić (Cluster B)"
+          },
+          "coords": [
+            18.534,
+            44.533
+          ],
+          "category": "gastro",
+          "arrive_at": "12:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Restaurant ist nur einen kurzen Spaziergang vom Hauptplatz entfernt.",
+            "hu": "Az étterem csak egy rövid sétára van a főtértől.",
+            "ro": "Restaurantul este la o scurtă plimbare de piața principală.",
+            "en": "The restaurant is just a short walk from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Weiße Moschee (Cluster B)",
+            "hu": "Fehér Mecset (B csoport)",
+            "ro": "Moscheea Albă (Grupul B)",
+            "en": "White Mosque (Cluster B)"
+          },
+          "coords": [
+            18.53,
+            44.535
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:36",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie von der Altstadt zur Moschee, um die Atmosphäre aufzunehmen.",
+            "hu": "Sétáljon az óvárosból a mecsethez, hogy magába szívja a hangulatot.",
+            "ro": "Plimbați-vă din centrul vechi la moschee pentru a absorbi atmosfera.",
+            "en": "Walk from the old town to the mosque to absorb the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Industrielles Erbe Lukavac (Cluster C)",
+            "hu": "Lukavaci Ipari Örökség (C csoport)",
+            "ro": "Patrimoniul Industrial Lukavac (Grupul C)",
+            "en": "Industrial Heritage Lukavac (Cluster C)"
+          },
+          "coords": [
+            18.515,
+            44.545
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:26",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 9.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem einzigartigen Ort, der die Industriegeschichte der Stadt zeigt.",
+            "hu": "Vezessen el ehhez az egyedülálló helyhez, amely bemutatja a város ipari történelmét.",
+            "ro": "Conduceți la acest sit unic care prezintă istoria industrială a orașului.",
+            "en": "Drive to this unique site showcasing the city's industrial history."
+          }
+        },
+        {
+          "name": {
+            "de": "Vila Solvay (Cluster C)",
+            "hu": "Solvay-villa (C csoport)",
+            "ro": "Vila Solvay (Grupul C)",
+            "en": "Vila Solvay (Cluster C)"
+          },
+          "coords": [
+            18.528,
+            44.538
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:20",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Industriekomplex entfernt, ein architektonischer Kontrast.",
+            "hu": "Rövid séta az ipari komplexumtól, építészeti kontraszt.",
+            "ro": "La o scurtă plimbare de complexul industrial, un contrast arhitectural.",
+            "en": "A short walk from the industrial complex, an architectural contrast."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit dem Auto beginnt am Ufer des weitläufigen Modrac-Sees. Nach einem Abstecher zum ruhigeren Bistarac-See fahren Sie ins Zentrum von Lukavac. Sie parken Ihr Auto und erkunden den ersten Cluster zu Fuß: die Puračić-Altstadt und die nahegelegene Weiße Moschee, unterbrochen von einem Mittagessen. Am Nachmittag fahren Sie zum zweiten Cluster, um das industrielle Erbe der Stadt und die architektonisch interessante Vila Solvay zu entdecken. Der Tag bietet eine Mischung aus Natur, Stadtleben und Industriegeschichte.",
+        "hu": "Autós napja a tágas Modrac-tó partján kezdődik. Egy kitérő után a csendesebb Bistarac-tóhoz, Lukavac központjába hajt. Léparkolja az autót és gyalog fedezi fel az első csoportot: a Puračić óvárost és a közeli Fehér Mecsetet, egy ebéddel megszakítva. Délután a második csoporthoz hajt, hogy felfedezze a város ipari örökségét és az építészetileg érdekes Solvay-villát. A nap a természet, a városi élet és az ipari történelem keverékét kínálja.",
+        "ro": "Ziua cu mașina începe pe malurile întinsului lac Modrac. După un ocol la mai liniștitul lac Bistarac, conduceți spre centrul orașului Lukavac. Parcați mașina și explorați primul grup pe jos: centrul vechi Puračić și Moscheea Albă din apropiere, cu o pauză de prânz. După-amiaza, conduceți spre al doilea grup pentru a descoperi patrimoniul industrial al orașului și Vila Solvay, interesantă din punct de vedere arhitectural. Ziua oferă un amestec de natură, viață urbană și istorie industrială.",
+        "en": "Your day by car begins on the shores of the expansive Lake Modrac. After a detour to the quieter Lake Bistarac, you'll drive into the center of Lukavac. You'll park your car and explore the first cluster on foot: the Puračić Old Town and the nearby White Mosque, with a break for lunch. In the afternoon, you'll drive to the second cluster to discover the city's industrial heritage and the architecturally interesting Vila Solvay. The day offers a mix of nature, city life, and industrial history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lamm am Spieß",
+            "tip": "In vielen Restaurants außerhalb der Stadt eine Spezialität."
+          },
+          {
+            "name": "Kajmak",
+            "tip": "Ein cremiges Milchprodukt, das oft als Beilage serviert wird."
+          },
+          {
+            "name": "Tufahija",
+            "tip": "Ein mit Walnüssen gefüllter und in Sirup gekochter Apfel als Dessert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nyárson sült bárány",
+            "tip": "Specialitás sok városon kívüli étteremben."
+          },
+          {
+            "name": "Kajmak",
+            "tip": "Krémes tejtermék, gyakran köretként tálalva."
+          },
+          {
+            "name": "Tufahija",
+            "tip": "Dióval töltött, szirupban főtt alma desszertként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miel la proțap",
+            "tip": "O specialitate în multe restaurante din afara orașului."
+          },
+          {
+            "name": "Kajmak",
+            "tip": "Un produs lactat cremos, adesea servit ca garnitură."
+          },
+          {
+            "name": "Tufahija",
+            "tip": "Un măr umplut cu nuci și fiert în sirop, ca desert."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lamb on a spit",
+            "tip": "A specialty in many restaurants outside the city."
+          },
+          {
+            "name": "Kajmak",
+            "tip": "A creamy dairy product, often served as a side dish."
+          },
+          {
+            "name": "Tufahija",
+            "tip": "An apple stuffed with walnuts and boiled in syrup, for dessert."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt am Modrac-See",
+            "tip": "Fahren Sie an einen erhöhten Punkt für eine Panoramaaussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Wanderwege um den Bistarac-See",
+            "tip": "Ruhige Wege für einen entspannten Spaziergang in der Natur.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópont a Modrac-tónál",
+            "tip": "Vezessen egy magasabb pontra a panorámás kilátásért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Túraútvonalak a Bistarac-tó körül",
+            "tip": "Csendes ösvények egy pihentető sétához a természetben.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere la Lacul Modrac",
+            "tip": "Conduceți la un punct mai înalt pentru o vedere panoramică.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Trasee de drumeție în jurul Lacului Bistarac",
+            "tip": "Cărări liniștite pentru o plimbare relaxantă în natură.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint at Lake Modrac",
+            "tip": "Drive to a high point for a panoramic view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hiking trails around Lake Bistarac",
+            "tip": "Quiet paths for a relaxing walk in nature.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Achten Sie auf Schilder, die lokale Produkte wie Käse, Honig oder Schnaps verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok",
+            "tip": "Figyelje a táblákat, amelyek helyi termékeket, például sajtot, mézet vagy pálinkát árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine la fermă",
+            "tip": "Fiți atenți la indicatoarele care vând produse locale precum brânză, miere sau rachiu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops",
+            "tip": "Look for signs selling local products like cheese, honey, or brandy."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Auto gibt Ihnen die Flexibilität, die Seen und die Stadt an einem Tag zu kombinieren.",
+          "Parken im Stadtzentrum kann schwierig sein; nutzen Sie ausgewiesene Parkplätze.",
+          "Planen Sie genügend Zeit für die Fahrten zwischen den Clustern ein.",
+          "Überprüfen Sie die Straßenverhältnisse, besonders wenn Sie in ländlichere Gebiete fahren."
+        ],
+        "hu": [
+          "Az autó rugalmasságot ad, hogy egy nap alatt összekapcsolja a tavakat és a várost.",
+          "A parkolás a városközpontban nehézkes lehet; használja a kijelölt parkolókat.",
+          "Tervezzen elegendő időt a csoportok közötti utazásokra.",
+          "Ellenőrizze az útviszonyokat, különösen, ha vidéki területekre utazik."
+        ],
+        "ro": [
+          "Mașina vă oferă flexibilitatea de a combina lacurile și orașul într-o singură zi.",
+          "Parcarea în centrul orașului poate fi dificilă; folosiți parcările desemnate.",
+          "Alocați suficient timp pentru deplasările între grupuri.",
+          "Verificați starea drumurilor, mai ales dacă mergeți în zone rurale."
+        ],
+        "en": [
+          "The car gives you the flexibility to combine the lakes and the city in one day.",
+          "Parking in the city center can be challenging; use designated parking areas.",
+          "Allow enough time for the drives between clusters.",
+          "Check road conditions, especially if you are driving into more rural areas."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft im Zentrum (Cluster A)",
+            "hu": "Érkezés a központba (A csoport)",
+            "ro": "Sosire în centru (Grupul A)",
+            "en": "Arrival in the Center (Cluster A)"
+          },
+          "coords": [
+            18.5333,
+            44.5333
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie in Puračić, dem historischen Kern, der mit dem Bus gut erreichbar ist.",
+            "hu": "Kezdje Puračićban, a történelmi magban, amely busszal jól megközelíthető.",
+            "ro": "Începeți în Puračić, nucleul istoric, ușor accesibil cu autobuzul.",
+            "en": "Start in Puračić, the historical core, which is easily accessible by bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Weiße Moschee (Cluster A)",
+            "hu": "Fehér Mecset (A csoport)",
+            "ro": "Moscheea Albă (Grupul A)",
+            "en": "White Mosque (Cluster A)"
+          },
+          "coords": [
+            18.53,
+            44.535
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz entfernt.",
+            "hu": "Rövid sétára a főtértől.",
+            "ro": "La o scurtă plimbare de piața principală.",
+            "en": "A short walk from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum & Mittagessen (Cluster A)",
+            "hu": "Kulturális Központ és Ebéd (A csoport)",
+            "ro": "Centrul Cultural & Prânz (Grupul A)",
+            "en": "Cultural Centre & Lunch (Cluster A)"
+          },
+          "coords": [
+            18.535,
+            44.532
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kombinieren Sie Kultur mit Kulinarik, da viele Restaurants in der Nähe sind.",
+            "hu": "Kombinálja a kultúrát a konyhaművészettel, mivel sok étterem van a közelben.",
+            "ro": "Combinați cultura cu bucătăria, deoarece multe restaurante sunt în apropiere.",
+            "en": "Combine culture with cuisine, as many restaurants are nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Bistarac-See (Cluster B)",
+            "hu": "Utazás a Bistarac-tóhoz (B csoport)",
+            "ro": "Călătorie la Lacul Bistarac (Grupul B)",
+            "en": "Trip to Lake Bistarac (Cluster B)"
+          },
+          "coords": [
+            18.53,
+            44.5
+          ],
+          "category": "lake",
+          "arrive_at": "13:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 7.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus, um zum See zu gelangen. Informieren Sie sich über die Fahrpläne.",
+            "hu": "Menjen helyi busszal a tóhoz. Tájékozódjon a menetrendről.",
+            "ro": "Luați un autobuz local pentru a ajunge la lac. Verificați orarele.",
+            "en": "Take a local bus to get to the lake. Check the schedules in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Seeufer (Cluster B)",
+            "hu": "Séta a tóparton (B csoport)",
+            "ro": "Plimbare pe malul lacului (Grupul B)",
+            "en": "Walk along the lake shore (Cluster B)"
+          },
+          "coords": [
+            18.531,
+            44.498
+          ],
+          "category": "lake",
+          "arrive_at": "14:24",
+          "stay_min": 141,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe und die Natur, bevor Sie den Bus zurück nehmen.",
+            "hu": "Élvezze a nyugalmat és a természetet, mielőtt visszaindul a busszal.",
+            "ro": "Bucurați-vă de liniște și natură înainte de a lua autobuzul înapoi.",
+            "en": "Enjoy the peace and nature before taking the bus back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt im Zentrum von Lukavac. Der erste Cluster, die Puračić-Altstadt, die Weiße Moschee und das Kulturzentrum, lässt sich bequem zu Fuß erkunden. Nach dem Mittagessen nehmen Sie einen Bus zum zweiten Cluster, dem Bistarac-See. Dort verbringen Sie den Nachmittag mit einem Spaziergang am Ufer und genießen die natürliche Umgebung. Der Tag zeigt, wie man städtische Erkundungen und einen Ausflug in die Natur mit lokalen Bussen verbinden kann.",
+        "hu": "Tömegközlekedéssel töltött napja Lukavac központjában kezdődik. Az első csoport, a Puračić óváros, a Fehér Mecset és a Kulturális Központ, gyalogosan kényelmesen bejárható. Ebéd után busszal utazik a második csoporthoz, a Bistarac-tóhoz. Ott tölti a délutánt egy tóparti sétával, élvezve a természetes környezetet. A nap bemutatja, hogyan lehet összekötni a városi felfedezést és a természetjárást a helyi buszokkal.",
+        "ro": "Ziua dvs. cu transportul public începe în centrul orașului Lukavac. Primul grup, centrul vechi Puračić, Moscheea Albă și Centrul Cultural, poate fi explorat confortabil pe jos. După prânz, luați un autobuz către al doilea grup, Lacul Bistarac. Acolo vă veți petrece după-amiaza plimbându-vă pe mal și bucurându-vă de mediul natural. Ziua demonstrează cum puteți combina explorarea urbană cu o excursie în natură folosind autobuzele locale.",
+        "en": "Your day using public transport starts in the center of Lukavac. The first cluster, Puračić Old Town, the White Mosque, and the Cultural Centre, is easily explored on foot. After lunch, you'll take a bus to the second cluster, Lake Bistarac. There you'll spend the afternoon strolling along the shore and enjoying the natural surroundings. The day demonstrates how to combine urban exploration with a nature trip using local buses."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Begova Čorba",
+            "tip": "Eine reichhaltige Hühner- und Gemüsesuppe, oft mit saurer Sahne serviert."
+          },
+          {
+            "name": "Krofne",
+            "tip": "Bosnische Donuts, ein süßer Genuss, den man oft auf Märkten findet."
+          },
+          {
+            "name": "Domaća Kafa",
+            "tip": "Starker, ungefilterter bosnischer Kaffee, der in einem Džezva serviert wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Begova Čorba",
+            "tip": "Gazdag csirke- és zöldségleves, gyakran tejföllel tálalva."
+          },
+          {
+            "name": "Krofne",
+            "tip": "Bosnyák fánk, édes csemege, amelyet gyakran piacokon találni."
+          },
+          {
+            "name": "Domaća Kafa",
+            "tip": "Erős, szűretlen bosnyák kávé, džezvában tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Begova Čorba",
+            "tip": "O supă bogată de pui și legume, adesea servită cu smântână."
+          },
+          {
+            "name": "Krofne",
+            "tip": "Gogoși bosniace, un deliciu dulce găsit adesea în piețe."
+          },
+          {
+            "name": "Domaća Kafa",
+            "tip": "Cafea bosniacă tare, nefiltrată, servită într-un džezva."
+          }
+        ],
+        "en": [
+          {
+            "name": "Begova Čorba",
+            "tip": "A rich chicken and vegetable soup, often served with sour cream."
+          },
+          {
+            "name": "Krofne",
+            "tip": "Bosnian doughnuts, a sweet treat often found at markets."
+          },
+          {
+            "name": "Domaća Kafa",
+            "tip": "Strong, unfiltered Bosnian coffee served in a džezva."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof neben der Weißen Moschee",
+            "tip": "Ein Ort der Stille und des Gedenkens im Herzen der Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Abgelegene Bänke am Bistarac-See",
+            "tip": "Suchen Sie nach einer Bank abseits der Hauptwege für einen Moment der Ruhe.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Temető a Fehér Mecset mellett",
+            "tip": "A csend és az emlékezés helye a város szívében.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Elhagyatott padok a Bistarac-tónál",
+            "tip": "Keressen egy padot a fő utaktól távol egy csendes pillanatért.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul de lângă Moscheea Albă",
+            "tip": "Un loc de liniște și comemorare în inima orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Bănci retrase la Lacul Bistarac",
+            "tip": "Căutați o bancă departe de potecile principale pentru un moment de liniște.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cemetery next to the White Mosque",
+            "tip": "A place of silence and remembrance in the heart of the city.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Secluded benches at Lake Bistarac",
+            "tip": "Look for a bench away from the main paths for a moment of peace.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Hier finden Sie Zeitungen, Snacks und vielleicht kleine Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszpályaudvaron",
+            "tip": "Itt újságokat, harapnivalókat és esetleg kis ajándéktárgyakat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la autogară",
+            "tip": "Aici puteți găsi ziare, gustări și poate mici suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus station",
+            "tip": "Here you can find newspapers, snacks, and maybe small souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich im Voraus über die Busfahrpläne und -routen.",
+          "Haben Sie Kleingeld für Bustickets bereit.",
+          "Planen Sie Pufferzeiten ein, da Busse Verspätung haben können.",
+          "Fragen Sie Einheimische oder den Busfahrer, wenn Sie sich bei der Haltestelle unsicher sind."
+        ],
+        "hu": [
+          "Tájékozódjon előre a buszmenetrendekről és -útvonalakról.",
+          "Készítsen elő aprópénzt a buszjegyekhez.",
+          "Tervezzen pufferidőt, mivel a buszok késhetnek.",
+          "Kérdezze meg a helyieket vagy a buszsofőrt, ha bizonytalan a megállóval kapcsolatban."
+        ],
+        "ro": [
+          "Verificați în avans orarele și rutele autobuzelor.",
+          "Aveți la îndemână mărunțiș pentru biletele de autobuz.",
+          "Lăsați timp de rezervă, deoarece autobuzele pot avea întârzieri.",
+          "Întrebați localnicii sau șoferul de autobuz dacă nu sunteți sigur de stație."
+        ],
+        "en": [
+          "Check bus schedules and routes in advance.",
+          "Have small change ready for bus tickets.",
+          "Allow for buffer time as buses can be delayed.",
+          "Ask locals or the bus driver if you are unsure about a stop."
+        ]
+      }
+    }
+  }
+}

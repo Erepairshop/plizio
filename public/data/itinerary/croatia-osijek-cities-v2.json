@@ -1,0 +1,1340 @@
+{
+  "city_id": "croatia-osijek-cities-v2",
+  "anchor": {
+    "name": "Osijek",
+    "coords": [
+      18.6955,
+      45.555
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ante Starčević Platz",
+            "hu": "Ante Starčević tér",
+            "ro": "Piața Ante Starčević",
+            "en": "Ante Starčević Square"
+          },
+          "coords": [
+            18.6955,
+            45.557
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag hier mit einem Kaffee und beobachten Sie das Leben der Stadt.",
+            "hu": "Kezdje a napot egy kávéval, és figyelje a város ébredését.",
+            "ro": "Începeți ziua aici cu o cafea, privind viața orașului.",
+            "en": "Start your day here with a coffee and watch the city life."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale St. Peter und Paul",
+            "hu": "Szent Péter és Pál-társszékesegyház",
+            "ro": "Catedrala Sf. Petru și Pavel",
+            "en": "Co-cathedral of St. Peter and St. Paul"
+          },
+          "coords": [
+            18.695,
+            45.558
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:38",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf den beeindruckenden 90 Meter hohen Glockenturm, den höchsten in Slawonien.",
+            "hu": "Figyelje meg a lenyűgöző, 90 méter magas harangtornyot, Szlavónia legmagasabbját.",
+            "ro": "Observați impresionantul turn clopotniță de 90 de metri, cel mai înalt din Slavonia.",
+            "en": "Note the impressive 90-meter bell tower, the tallest in Slavonia."
+          }
+        },
+        {
+          "name": {
+            "de": "Europäische Allee",
+            "hu": "Európa sugárút",
+            "ro": "Bulevardul European",
+            "en": "European Avenue"
+          },
+          "coords": [
+            18.705,
+            45.559
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:08",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prächtigen Jugendstilfassaden der Paläste.",
+            "hu": "Csodálja meg a paloták gyönyörű szecessziós homlokzatát.",
+            "ro": "Admirați fațadele Art Nouveau magnifice ale palatelor.",
+            "en": "Admire the magnificent Art Nouveau facades of the palaces."
+          }
+        },
+        {
+          "name": {
+            "de": "Sakuntala Park",
+            "hu": "Sakuntala park",
+            "ro": "Parcul Sakuntala",
+            "en": "Sakuntala Park"
+          },
+          "coords": [
+            18.708,
+            45.56
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:39",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für eine kurze Pause im Schatten alter Bäume.",
+            "hu": "Tökéletes hely egy rövid pihenőre az öreg fák árnyékában.",
+            "ro": "Un loc perfect pentru o scurtă pauză la umbra copacilor bătrâni.",
+            "en": "A perfect spot for a short break in the shade of old trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Tvrđa",
+            "hu": "Tvrđa (Vár)",
+            "ro": "Tvrđa (Fortăreața)",
+            "en": "Tvrđa (The Fortress)"
+          },
+          "coords": [
+            18.715,
+            45.561
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:53",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den gepflasterten Gassen dieses barocken Meisterwerks.",
+            "hu": "Vesszen el a macskaköves utcákon ebben a barokk mesterműben.",
+            "ro": "Pierdeți-vă pe străduțele pavate ale acestei capodopere baroce.",
+            "en": "Get lost in the cobbled streets of this baroque masterpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Slawonien",
+            "hu": "Szlavónia Múzeuma",
+            "ro": "Muzeul Slavoniei",
+            "en": "Museum of Slavonia"
+          },
+          "coords": [
+            18.716,
+            45.561
+          ],
+          "category": "museums",
+          "arrive_at": "14:15",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das älteste Museum in Kroatien, ein Muss für Geschichtsliebhaber.",
+            "hu": "Horvátország legrégebbi múzeuma, kötelező a történelem kedvelőinek.",
+            "ro": "Cel mai vechi muzeu din Croația, un must-see pentru iubitorii de istorie.",
+            "en": "The oldest museum in Croatia, a must-visit for history lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "Drava-Hängebrücke",
+            "hu": "Dráva függőhíd",
+            "ro": "Podul suspendat peste Drava",
+            "en": "Drava Pedestrian Bridge"
+          },
+          "coords": [
+            18.68,
+            45.565
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "16:49",
+          "stay_min": 61,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 54,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Der beste Ort in Osijek, um den Sonnenuntergang über dem Fluss Drau zu beobachten.",
+            "hu": "A legjobb hely Eszéken a naplemente megtekintésére a Dráva felett.",
+            "ro": "Cel mai bun loc din Osijek pentru a privi apusul peste râul Drava.",
+            "en": "The best place in Osijek to watch the sunset over the Drava river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang am belebten Ante Starčević Platz, dem Herzen von Osijek. Am Vormittag erkunden Sie die hoch aufragende Kathedrale und schlendern die Europäische Allee entlang, gesäumt von prächtigen Jugendstilgebäuden, die in den Sakuntala Park führen. Der Nachmittag ist der barocken Festung Tvrđa gewidmet, wo Sie das Museum von Slawonien besuchen und in die reiche Geschichte der Region eintauchen. Zum Abschluss des Tages spazieren Sie zur Drau-Hängebrücke und genießen einen malerischen Sonnenuntergang, der den Himmel in leuchtende Farben taucht.",
+        "hu": "Kezdje sétáját a nyüzsgő Ante Starčević téren, Eszék szívében. A délelőttöt a tornyosuló székesegyház felfedezésével és az Európa sugárúton való sétával tölti, amelyet gyönyörű szecessziós épületek szegélyeznek, és a Sakuntala parkba vezetnek. A délután a barokk Tvrđa erődé, ahol meglátogatja a Szlavónia Múzeumát és elmerül a régió gazdag történelmében. A napot a Dráva gyaloghídhoz sétálva zárja, ahol egy festői naplementében gyönyörködhet, amely vibráló színekkel festi be az eget.",
+        "ro": "Începeți plimbarea în Piața plină de viață Ante Starčević, inima orașului Osijek. Dimineața este dedicată explorării catedralei impunătoare și plimbării pe Bulevardul European, flancat de clădiri magnifice Art Nouveau, care duc spre Parcul Sakuntala. După-amiaza este dedicată fortăreței baroce Tvrđa, unde veți vizita Muzeul Slavoniei și vă veți cufunda în istoria bogată a regiunii. Încheiați ziua cu o plimbare până la Podul pietonal Drava pentru a admira un apus de soare pitoresc, care pictează cerul în culori vibrante.",
+        "en": "Start your walking tour in the bustling Ante Starčević Square, the heart of Osijek. The morning is for exploring the towering Co-cathedral and strolling down European Avenue, lined with magnificent Art Nouveau buildings leading to Sakuntala Park. The afternoon is dedicated to the baroque fortress, Tvrđa, where you'll visit the Museum of Slavonia and delve into the region's rich history. End your day with a walk to the Drava Pedestrian Bridge to catch a picturesque sunset painting the sky in vibrant colors."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fiš paprikaš",
+            "tip": "Ein würziger Fischeintopf, ein Muss in Slawonien. Probieren Sie ihn im Restaurant 'Kod Ruže'."
+          },
+          {
+            "name": "Kulen",
+            "tip": "Eine berühmte geräucherte und gewürzte Wurst. Suchen Sie nach lokal hergestelltem auf dem Hauptmarkt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fiš paprikaš (Halpaprikás)",
+            "tip": "Fűszeres halpörkölt, Szlavóniában kötelező. Kóstolja meg a 'Kod Ruže' étteremben."
+          },
+          {
+            "name": "Kulen",
+            "tip": "Híres füstölt, fűszeres kolbász. Keresse a helyi készítésűt a fő piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fiš paprikaš",
+            "tip": "O tocană de pește picantă, obligatorie în Slavonia. Încercați-o la restaurantul 'Kod Ruže'."
+          },
+          {
+            "name": "Kulen",
+            "tip": "Un cârnat faimos, afumat și condimentat. Căutați-l pe cel produs local în piața principală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fiš paprikaš",
+            "tip": "A spicy fish stew, a must-try in Slavonia. Taste it at restaurant 'Kod Ruže'."
+          },
+          {
+            "name": "Kulen",
+            "tip": "A famous smoked and spiced sausage. Look for locally made ones at the main market."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Drau-Ufer",
+            "tip": "Ein ruhiger Spaziergang am Flussufer, besonders bei Sonnenaufgang oder Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sakuntala Park",
+            "tip": "Finden Sie eine Bank unter den Bäumen und genießen Sie einen Moment der Ruhe.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dráva-part",
+            "tip": "Egy csendes séta a folyóparton, különösen napkeltekor vagy napnyugtakor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sakuntala park",
+            "tip": "Keressen egy padot a fák alatt, és élvezze a csendet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada de pe Drava",
+            "tip": "O plimbare liniștită de-a lungul malului râului, în special la răsărit sau apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Sakuntala",
+            "tip": "Găsiți o bancă sub copaci și bucurați-vă de un moment de liniște.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Drava River Promenade",
+            "tip": "A quiet walk along the river bank, especially at sunrise or sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sakuntala Park",
+            "tip": "Find a bench under the trees and enjoy a moment of peace.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hauptmarkt",
+            "tip": "Kaufen Sie frische Produkte, lokalen Honig und handgemachten Kulen."
+          },
+          {
+            "name": "Tvrđa Souvenirläden",
+            "tip": "Finden Sie einzigartige handgefertigte Souvenirs in der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fő piac",
+            "tip": "Vásároljon friss termékeket, helyi mézet és kézzel készített kulent."
+          },
+          {
+            "name": "Tvrđa ajándékboltok",
+            "tip": "Találjon egyedi, kézzel készített ajándéktárgyakat az óvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Principală",
+            "tip": "Cumpărați produse proaspete, miere locală și kulen artizanal."
+          },
+          {
+            "name": "Magazine de suveniruri din Tvrđa",
+            "tip": "Găsiți suveniruri unice, realizate manual, în orașul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Main Market",
+            "tip": "Shop for fresh produce, local honey, and handmade Kulen."
+          },
+          {
+            "name": "Tvrđa Souvenir Shops",
+            "tip": "Find unique handcrafted souvenirs within the old fortress."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit.",
+          "Vergessen Sie Ihre Kamera nicht, besonders für die Jugendstilarchitektur und den Sonnenuntergang.",
+          "Die meisten zentralen Orte sind leicht zu Fuß erreichbar."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog sétálni.",
+          "Hozzon magával újratölthető vizes palackot.",
+          "Ne felejtse otthon a fényképezőgépét, különösen a szecessziós építészet és a naplemente miatt.",
+          "A legtöbb központi helyszín könnyen megközelíthető gyalog."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe jos.",
+          "Luați cu voi o sticlă de apă reutilizabilă.",
+          "Nu uitați aparatul foto, mai ales pentru arhitectura Art Nouveau și apus.",
+          "Majoritatea locațiilor centrale sunt ușor accesibile pe jos."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Carry a reusable water bottle.",
+          "Don't forget your camera, especially for the Art Nouveau architecture and the sunset.",
+          "Most central locations are easily reachable on foot."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Osijek Zoo",
+            "hu": "Eszéki Állatkert",
+            "ro": "Grădina Zoologică Osijek",
+            "en": "Osijek Zoo"
+          },
+          "coords": [
+            18.675,
+            45.569
+          ],
+          "category": "animal-habitat",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Einer der größten Zoos in Kroatien, direkt am Ufer der Drau.",
+            "hu": "Horvátország egyik legnagyobb állatkertje, közvetlenül a Dráva partján.",
+            "ro": "Una dintre cele mai mari grădini zoologice din Croația, situată chiar pe malul Dravei.",
+            "en": "One of the largest zoos in Croatia, located right on the bank of the Drava river."
+          }
+        },
+        {
+          "name": {
+            "de": "Drava-Hängebrücke",
+            "hu": "Dráva függőhíd",
+            "ro": "Podul suspendat peste Drava",
+            "en": "Drava Pedestrian Bridge"
+          },
+          "coords": [
+            18.68,
+            45.565
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:18",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Überqueren Sie die Brücke für eine tolle Aussicht auf die Stadt und den Fluss.",
+            "hu": "Menjen át a hídon a városra és a folyóra nyíló nagyszerű kilátásért.",
+            "ro": "Traversați podul pentru o priveliște minunată asupra orașului și a râului.",
+            "en": "Cross the bridge for a great view of the city and the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Tvrđa",
+            "hu": "Tvrđa (Vár)",
+            "ro": "Tvrđa (Fortăreața)",
+            "en": "Tvrđa (The Fortress)"
+          },
+          "coords": [
+            18.715,
+            45.561
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:04",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie die Festung zu Fuß. Mittagessen hier!",
+            "hu": "Parkolja le a biciklit és fedezze fel gyalog az erődöt. Ebédeljen itt!",
+            "ro": "Parcați bicicleta și explorați cetatea pe jos. Luați prânzul aici!",
+            "en": "Park your bike and explore the fortress on foot. Have lunch here!"
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Slawonien",
+            "hu": "Szlavónia Múzeuma",
+            "ro": "Muzeul Slavoniei",
+            "en": "Museum of Slavonia"
+          },
+          "coords": [
+            18.716,
+            45.561
+          ],
+          "category": "museums",
+          "arrive_at": "14:06",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Befindet sich innerhalb der Festungsmauern, ein einfacher Spaziergang nach dem Mittagessen.",
+            "hu": "Az erőd falain belül található, egy könnyű séta ebéd után.",
+            "ro": "Situat în interiorul zidurilor cetății, o plimbare ușoară după prânz.",
+            "en": "Located within the fortress walls, an easy walk after lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale St. Peter und Paul",
+            "hu": "Szent Péter és Pál-társszékesegyház",
+            "ro": "Catedrala Sf. Petru și Pavel",
+            "en": "Co-cathedral of St. Peter and St. Paul"
+          },
+          "coords": [
+            18.695,
+            45.558
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:49",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Ein atemberaubendes neugotisches Wahrzeichen. Schließen Sie Ihr Fahrrad sicher ab.",
+            "hu": "Lenyűgöző neogótikus épület. Zárja le biztonságosan a kerékpárját.",
+            "ro": "Un reper neo-gotic uimitor. Asigurați-vă bicicleta bine.",
+            "en": "A stunning neo-Gothic landmark. Lock your bike securely."
+          }
+        },
+        {
+          "name": {
+            "de": "Ante Starčević Platz",
+            "hu": "Ante Starčević tér",
+            "ro": "Piața Ante Starčević",
+            "en": "Ante Starčević Square"
+          },
+          "coords": [
+            18.6955,
+            45.557
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:52",
+          "stay_min": 43,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einem wohlverdienten Drink in einem der vielen Cafés.",
+            "hu": "Fejezze be a kerékpártúrát egy jól megérdemelt itallal a számos kávézó egyikében.",
+            "ro": "Încheiați turul cu bicicleta cu o băutură binemeritată la una dintre numeroasele cafenele.",
+            "en": "End your bike tour with a well-deserved drink at one of the many cafes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihr Fahrradabenteuer im Zoo von Osijek am Drauufer. Am Vormittag überqueren Sie die malerische Fußgängerbrücke und radeln zur historischen Festung Tvrđa, wo Sie zum Mittagessen anhalten. Am Nachmittag tauchen Sie im Museum von Slawonien in die Geschichte ein, bevor Sie ins Stadtzentrum radeln, um die beeindruckende Kathedrale zu bewundern. Beenden Sie den Tag auf dem Ante Starčević Platz, wo Sie sich bei einem erfrischenden Getränk entspannen und die Atmosphäre der Stadt auf sich wirken lassen.",
+        "hu": "Kezdje kerékpáros kalandját az eszéki állatkertben, a Dráva partján. Délelőtt átkel a festői gyaloghídon, majd a történelmi Tvrđa erődhöz teker, ahol megáll ebédelni. Délután a Szlavónia Múzeumában merül el a történelemben, mielőtt a városközpontba biciklizik, hogy megcsodálja a lenyűgöző székesegyházat. A napot az Ante Starčević téren zárja, ahol egy frissítő ital mellett pihenhet, és magába szívhatja a város hangulatát.",
+        "ro": "Începeți aventura pe bicicletă la Grădina Zoologică din Osijek, pe malul râului Drava. Dimineața veți traversa podul pietonal pitoresc și veți pedala spre fortăreața istorică Tvrđa, unde vă veți opri pentru prânz. După-amiaza, pătrundeți în istorie la Muzeul Slavoniei înainte de a pedala spre centrul orașului pentru a admira catedrala impunătoare. Încheiați ziua în Piața Ante Starčević, relaxându-vă cu o băutură răcoritoare și absorbind atmosfera orașului.",
+        "en": "Start your bike adventure at the Osijek Zoo on the Drava riverbank. In the morning, you'll cross the scenic pedestrian bridge and cycle to the historic Tvrđa fortress where you'll stop for lunch. In the afternoon, dive into history at the Museum of Slavonia before cycling to the city center to admire the impressive Co-cathedral. End your day at Ante Starčević Square, relaxing with a refreshing drink and soaking up the city's atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Čobanac",
+            "tip": "Ein herzhafter Fleischeintopf, perfekt nach einer langen Radtour. Probieren Sie ihn in einer Konoba in Tvrđa."
+          },
+          {
+            "name": "Osječko Pivo",
+            "tip": "Das lokale Bier, gebraut in der ältesten Brauerei Kroatiens."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Čobanac (Pásztortarhonya)",
+            "tip": "Kiadós húsos egytálétel, tökéletes egy hosszú kerékpártúra után. Próbálja ki egy Tvrđa-beli konobában."
+          },
+          {
+            "name": "Osječko Pivo (Eszéki sör)",
+            "tip": "A helyi sör, amelyet Horvátország legrégebbi sörfőzdéjében főznek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Čobanac",
+            "tip": "O tocană de carne consistentă, perfectă după o plimbare lungă cu bicicleta. Încercați-o la o konoba din Tvrđa."
+          },
+          {
+            "name": "Osječko Pivo",
+            "tip": "Berea locală, produsă la cea mai veche fabrică de bere din Croația."
+          }
+        ],
+        "en": [
+          {
+            "name": "Čobanac",
+            "tip": "A hearty meat stew, perfect after a long bike ride. Try it at a konoba in Tvrđa."
+          },
+          {
+            "name": "Osječko Pivo",
+            "tip": "The local beer, brewed in the oldest brewery in Croatia."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt am Drauufer",
+            "tip": "Die Radwege entlang des Flusses bieten eine friedliche Flucht aus der Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Zoo-Gärten",
+            "tip": "Finden Sie einen ruhigen Ort abseits der Hauptwege, um die Natur zu genießen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tekerés a Dráva-parton",
+            "tip": "A folyó menti kerékpárutak békés menekülést kínálnak a városból.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Az Állatkert kertjei",
+            "tip": "Keressen egy csendes helyet a főutaktól távol, hogy élvezze a természetet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul Dravei",
+            "tip": "Pistele de biciclete de-a lungul râului oferă o evadare pașnică din oraș.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Zoo",
+            "tip": "Găsiți un loc liniștit, departe de cărările principale, pentru a vă bucura de natură.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ride on the Drava bank",
+            "tip": "The bike paths along the river offer a peaceful escape from the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Zoo gardens",
+            "tip": "Find a quiet spot away from the main paths to enjoy nature.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradläden",
+            "tip": "Besorgen Sie sich Zubehör oder ein Souvenir mit Fahrradmotiv."
+          },
+          {
+            "name": "Lokale Kunsthandwerker in Tvrđa",
+            "tip": "Halten Sie Ausschau nach einzigartigen Stücken, die Sie in Ihre Fahrradtasche packen können."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Szerezzen be kiegészítőket vagy egy kerékpáros témájú emléktárgyat."
+          },
+          {
+            "name": "Helyi kézművesek a Tvrđában",
+            "tip": "Keressen egyedi darabokat, amelyeket a kerékpártáskájába tehet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Luați accesorii sau un suvenir cu tematică ciclistă."
+          },
+          {
+            "name": "Artizani locali în Tvrđa",
+            "tip": "Căutați piese unice pe care să le puneți în geanta de bicicletă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "Pick up some gear or a cycling-themed souvenir."
+          },
+          {
+            "name": "Local artisans in Tvrđa",
+            "tip": "Look for unique pieces to pack in your bike bag."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck vor der Abfahrt.",
+          "Osijek ist sehr fahrradfreundlich, nutzen Sie die ausgewiesenen Radwege.",
+          "Nehmen Sie ein starkes Schloss für die Besuche in der Kathedrale und im Museum.",
+          "Die Wege entlang der Drau sind flach und für alle Fitnesslevel geeignet."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Eszék nagyon kerékpárbarát, használja a kijelölt kerékpárutakat.",
+          "Vigyen magával erős lakatot a székesegyház és a múzeum látogatásához.",
+          "A Dráva menti utak síkak és minden edzettségi szintnek megfelelnek."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope înainte de a porni.",
+          "Osijek este foarte prietenos cu bicicletele, folosiți pistele special amenajate.",
+          "Luați un lacăt solid pentru vizitele la catedrală și muzeu.",
+          "Traseele de-a lungul Dravei sunt plate și potrivite pentru toate nivelurile de fitness."
+        ],
+        "en": [
+          "Check your tire pressure before heading out.",
+          "Osijek is very bike-friendly, make use of the designated bike lanes.",
+          "Bring a strong lock for the cathedral and museum visits.",
+          "The paths along the Drava are flat and suitable for all fitness levels."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 8.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Osijek Zoo",
+            "hu": "Eszéki Állatkert",
+            "ro": "Grădina Zoologică Osijek",
+            "en": "Osijek Zoo"
+          },
+          "coords": [
+            18.675,
+            45.569
+          ],
+          "category": "animal-habitat",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, es gibt genügend Parkplätze. Der Zoo liegt gegenüber der Stadt am Fluss.",
+            "hu": "Kezdje itt, rengeteg a parkolóhely. Az állatkert a folyó túlpartján, a várossal szemben található.",
+            "ro": "Începeți aici, există o parcare amplă. Grădina zoologică este vizavi de oraș, peste râu.",
+            "en": "Start here as parking is ample. The zoo is located across the river from the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Tvrđa",
+            "hu": "Tvrđa (Vár)",
+            "ro": "Tvrđa (Fortăreața)",
+            "en": "Tvrđa (The Fortress)"
+          },
+          "coords": [
+            18.715,
+            45.561
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:19",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Fahren Sie nach Tvrđa und parken Sie Ihr Auto für den nächsten Teil des Tages. Suchen Sie nach Parkplätzen außerhalb der Haupttore.",
+            "hu": "Vezessen a Tvrđába, és parkolja le az autót a nap következő részére. Keressen parkolót a főkapukon kívül.",
+            "ro": "Conduceți spre Tvrđa și parcați mașina pentru următoarea parte a zilei. Căutați parcare în afara porților principale.",
+            "en": "Drive to Tvrđa and park your car for the next part of the day. Look for parking outside the main gates."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Slawonien",
+            "hu": "Szlavónia Múzeuma",
+            "ro": "Muzeul Slavoniei",
+            "en": "Museum of Slavonia"
+          },
+          "coords": [
+            18.716,
+            45.561
+          ],
+          "category": "museums",
+          "arrive_at": "12:41",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz aus. Hier können Sie auch zu Mittag essen.",
+            "hu": "Rövid séta a parkolótól. Itt ebédelhet is.",
+            "ro": "O scurtă plimbare de la locul de parcare. Puteți lua și prânzul aici.",
+            "en": "A short walk from where you parked. You can also have lunch around here."
+          }
+        },
+        {
+          "name": {
+            "de": "Europäische Allee",
+            "hu": "Európa sugárút",
+            "ro": "Bulevardul European",
+            "en": "European Avenue"
+          },
+          "coords": [
+            18.705,
+            45.559
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:25",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie auf dem Weg zurück zum Stadtzentrum einen Spaziergang entlang dieser Allee.",
+            "hu": "Sétáljon végig ezen a sugárúton a városközpont felé vezető úton.",
+            "ro": "Faceți o plimbare pe acest bulevard în drum spre centrul orașului.",
+            "en": "Take a stroll down this avenue on your walk towards the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale St. Peter und Paul",
+            "hu": "Szent Péter és Pál-társszékesegyház",
+            "ro": "Catedrala Sf. Petru și Pavel",
+            "en": "Co-cathedral of St. Peter and St. Paul"
+          },
+          "coords": [
+            18.695,
+            45.558
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:52",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Fahren Sie ins Zentrum. Das Parken kann eine Herausforderung sein; suchen Sie nach gebührenpflichtigen Parkplätzen.",
+            "hu": "Vezessen a központba. A parkolás kihívást jelenthet; keressen fizetős parkolókat.",
+            "ro": "Conduceți spre centru. Parcarea poate fi o provocare; căutați parcări cu plată.",
+            "en": "Drive to the center. Parking can be a challenge; look for paid parking lots."
+          }
+        },
+        {
+          "name": {
+            "de": "Ante Starčević Platz",
+            "hu": "Ante Starčević tér",
+            "ro": "Piața Ante Starčević",
+            "en": "Ante Starčević Square"
+          },
+          "coords": [
+            18.6955,
+            45.557
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:54",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das Herz der Stadt, nur einen Steinwurf von der Kathedrale entfernt.",
+            "hu": "A város szíve, egy kőhajításnyira a székesegyháztól.",
+            "ro": "Inima orașului, la o aruncătură de băț de catedrală.",
+            "en": "The heart of the city, just a stone's throw from the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Drava-Hängebrücke",
+            "hu": "Dráva függőhíd",
+            "ro": "Podul suspendat peste Drava",
+            "en": "Drava Pedestrian Bridge"
+          },
+          "coords": [
+            18.68,
+            45.565
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "16:29",
+          "stay_min": 86,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihr Auto geparkt und machen Sie einen Spaziergang zur Brücke, um den Tag ausklingen zu lassen.",
+            "hu": "Hagyja leparkolva az autót, és sétáljon el a hídhoz a nap lezárásaként.",
+            "ro": "Lăsați mașina parcată și faceți o plimbare până la pod pentru a încheia ziua.",
+            "en": "Leave your car parked and take a walk to the bridge to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Zoo von Osijek, der leicht mit dem Auto zu erreichen ist. Nach dem Zoobesuch fahren Sie zur historischen Festung Tvrđa. Parken Sie Ihr Auto und verbringen Sie den Mittag damit, die Festung, das Museum von Slawonien zu erkunden und die Jugendstil-Architektur der Europäischen Allee zu bewundern. Am Nachmittag fahren Sie ins Stadtzentrum, besuchen die prächtige Kathedrale und den Hauptplatz. Beenden Sie den Tag mit einem entspannten Spaziergang zur Drau-Hängebrücke, um den Sonnenuntergang zu genießen.",
+        "hu": "Kezdje a napot az eszéki állatkertben, amely autóval könnyen megközelíthető. Az állatkerti látogatás után vezessen a történelmi Tvrđa erődhöz. Parkolja le az autót, és töltse a déli órákat az erőd, a Szlavónia Múzeuma felfedezésével és az Európa sugárút szecessziós építészetének csodálásával. Délután vezessen be a városközpontba, látogassa meg a csodálatos székesegyházat és a főteret. A napot egy pihentető sétával zárja a Dráva gyaloghídhoz, hogy élvezze a naplementét.",
+        "ro": "Începeți ziua la Grădina Zoologică din Osijek, ușor accesibilă cu mașina. După vizita la zoo, conduceți spre fortăreața istorică Tvrđa. Parcați mașina și petreceți amiaza explorând cetatea, Muzeul Slavoniei și admirând arhitectura Art Nouveau de pe Bulevardul European. După-amiaza, conduceți spre centrul orașului, vizitați magnifica catedrală și piața principală. Încheiați ziua cu o plimbare relaxantă la Podul pietonal Drava pentru a vă bucura de apus.",
+        "en": "Start your day at the Osijek Zoo, easily accessible by car. After the zoo visit, drive to the historic Tvrđa fortress. Park your car and spend midday exploring the fortress, the Museum of Slavonia, and admiring the Art Nouveau architecture of the European Avenue on foot. In the afternoon, drive to the city center, visit the magnificent Co-cathedral and the main square. End your day with a relaxing walk to the Drava Pedestrian Bridge to enjoy the sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Perkelt od soma",
+            "tip": "Wels-Eintopf, eine lokale Delikatesse. Suchen Sie nach Restaurants entlang der Drau."
+          },
+          {
+            "name": "Šljivovica",
+            "tip": "Probieren Sie den lokalen Pflaumenschnaps, aber seien Sie vorsichtig!"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Harcsapörkölt (Perkelt od soma)",
+            "tip": "Helyi különlegesség. Keressen éttermeket a Dráva mentén."
+          },
+          {
+            "name": "Šljivovica (Szilvapálinka)",
+            "tip": "Kóstolja meg a helyi szilvapálinkát, de csak óvatosan!"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Perkelt de somn",
+            "tip": "O tocană de somn, o delicatesă locală. Căutați restaurante de-a lungul Dravei."
+          },
+          {
+            "name": "Șliboviță",
+            "tip": "Încercați rachiul local de prune, dar fiți precaut!"
+          }
+        ],
+        "en": [
+          {
+            "name": "Perkelt od soma",
+            "tip": "Catfish stew, a local delicacy. Look for restaurants along the Drava."
+          },
+          {
+            "name": "Šljivovica",
+            "tip": "Try the local plum brandy, but be careful!"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kopački Rit Naturpark",
+            "tip": "Wenn Sie Zeit haben, ist eine kurze Fahrt zu diesem Feuchtgebiet-Paradies sehr zu empfehlen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spaziergang am Flussufer",
+            "tip": "Parken Sie und genießen Sie die Ruhe des Flusses.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kopácsi Rét Natúrpark",
+            "tip": "Ha van ideje, egy rövid autóút ehhez a vizes élőhely-paradicsomhoz erősen ajánlott.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Séta a folyóparton",
+            "tip": "Parkoljon le, és élvezze a folyó nyugalmát.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Natural Kopački Rit",
+            "tip": "Dacă aveți timp, o scurtă călătorie cu mașina către acest paradis al zonelor umede este foarte recomandată.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plimbare pe malul râului",
+            "tip": "Parcați și bucurați-vă de liniștea râului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kopački Rit Nature Park",
+            "tip": "If you have time, a short drive to this wetland paradise is highly recommended.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Riverbank Stroll",
+            "tip": "Park the car and enjoy the tranquility of the river.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Portanova Einkaufszentrum",
+            "tip": "Für ein moderneres Einkaufserlebnis, etwas außerhalb des Zentrums gelegen."
+          },
+          {
+            "name": "Weinhandlungen",
+            "tip": "Kaufen Sie eine Flasche lokalen Graševina-Weins."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Portanova bevásárlóközpont",
+            "tip": "Egy modernebb vásárlási élményért, kissé a központon kívül található."
+          },
+          {
+            "name": "Borboltok",
+            "tip": "Vásároljon egy üveg helyi Graševina (olaszrizling) bort."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Portanova",
+            "tip": "Pentru o experiență de cumpărături mai modernă, situat puțin în afara centrului."
+          },
+          {
+            "name": "Magazine de vinuri",
+            "tip": "Cumpărați o sticlă de vin local Graševina."
+          }
+        ],
+        "en": [
+          {
+            "name": "Portanova Shopping Center",
+            "tip": "For a more modern shopping experience, located slightly outside the center."
+          },
+          {
+            "name": "Wine Shops",
+            "tip": "Buy a bottle of local Graševina wine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken ist in Osijek im Allgemeinen einfach, besonders außerhalb des engsten Stadtzentrums.",
+          "Achten Sie auf Parkzonen und bezahlen Sie die Gebühren, um Strafzettel zu vermeiden.",
+          "Ein Auto gibt Ihnen die Flexibilität, nahe gelegene Attraktionen wie Kopački Rit zu besuchen.",
+          "Planen Sie Ihre Route, um den Verkehr zur Hauptverkehrszeit zu vermeiden."
+        ],
+        "hu": [
+          "A parkolás általában egyszerű Eszéken, különösen a szűk belvároson kívül.",
+          "Figyeljen a parkolási zónákra és fizesse ki a díjakat a büntetések elkerülése érdekében.",
+          "Az autó rugalmasságot biztosít a közeli látnivalók, például a Kopácsi Rét meglátogatásához.",
+          "Tervezze meg az útvonalat a csúcsforgalom elkerülése érdekében."
+        ],
+        "ro": [
+          "Parcarea este în general ușoară în Osijek, mai ales în afara centrului strict al orașului.",
+          "Fiți atenți la zonele de parcare și plătiți taxele pentru a evita amenzile.",
+          "O mașină vă oferă flexibilitatea de a vizita atracțiile din apropiere, cum ar fi Kopački Rit.",
+          "Planificați-vă traseul pentru a evita traficul la orele de vârf."
+        ],
+        "en": [
+          "Parking is generally easy in Osijek, especially outside the very city center.",
+          "Be mindful of parking zones and pay the fees to avoid tickets.",
+          "A car gives you the flexibility to visit nearby attractions like Kopački Rit.",
+          "Plan your route to avoid rush hour traffic."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:54",
+      "total_km": 6.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ante Starčević Platz",
+            "hu": "Ante Starčević tér",
+            "ro": "Piața Ante Starčević",
+            "en": "Ante Starčević Square"
+          },
+          "coords": [
+            18.6955,
+            45.557
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Das Haupt-Drehkreuz für Straßenbahnen und Busse. Ein idealer Ausgangspunkt.",
+            "hu": "A villamosok és buszok fő csomópontja. Ideális kiindulópont.",
+            "ro": "Principalul nod pentru tramvaie și autobuze. Un punct de plecare ideal.",
+            "en": "The main hub for trams and buses. An ideal starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale St. Peter und Paul",
+            "hu": "Szent Péter és Pál-társszékesegyház",
+            "ro": "Catedrala Sf. Petru și Pavel",
+            "en": "Co-cathedral of St. Peter and St. Paul"
+          },
+          "coords": [
+            18.695,
+            45.558
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:37",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang vom Platz entfernt, Sie können sie nicht verfehlen.",
+            "hu": "Csak egy rövid séta a tértől, nem lehet eltéveszteni.",
+            "ro": "La o scurtă plimbare de piață, nu o puteți rata.",
+            "en": "Just a short walk from the square, you can't miss it."
+          }
+        },
+        {
+          "name": {
+            "de": "Tvrđa",
+            "hu": "Tvrđa (Vár)",
+            "ro": "Tvrđa (Fortăreața)",
+            "en": "Tvrđa (The Fortress)"
+          },
+          "coords": [
+            18.715,
+            45.561
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:08",
+          "stay_min": 80,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie die Straßenbahnlinie 1 vom Hauptplatz. Es ist eine kurze und landschaftlich reizvolle Fahrt.",
+            "hu": "Menjen az 1-es villamossal a főtérről. Rövid és festői út.",
+            "ro": "Luați tramvaiul linia 1 din piața principală. Este o călătorie scurtă și pitorească.",
+            "en": "Take tram line 1 from the main square. It's a short and scenic ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Slawonien",
+            "hu": "Szlavónia Múzeuma",
+            "ro": "Muzeul Slavoniei",
+            "en": "Museum of Slavonia"
+          },
+          "coords": [
+            18.716,
+            45.561
+          ],
+          "category": "museums",
+          "arrive_at": "12:30",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Festung zu Fuß, nachdem Sie von der Straßenbahn ausgestiegen sind. Das Museum ist leicht zu finden.",
+            "hu": "Fedezze fel gyalog az erődöt, miután leszállt a villamosról. A múzeum könnyen megtalálható.",
+            "ro": "Explorați cetatea pe jos după ce coborâți din tramvai. Muzeul este ușor de găsit.",
+            "en": "Explore the fortress on foot after getting off the tram. The museum is easy to find."
+          }
+        },
+        {
+          "name": {
+            "de": "Drava-Hängebrücke",
+            "hu": "Dráva függőhíd",
+            "ro": "Podul suspendat peste Drava",
+            "en": "Drava Pedestrian Bridge"
+          },
+          "coords": [
+            18.68,
+            45.565
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:00",
+          "stay_min": 60,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus oder eine Straßenbahn zurück ins Zentrum und gehen Sie dann zum Flussufer.",
+            "hu": "Menjen busszal vagy villamossal vissza a központba, majd sétáljon le a folyópartra.",
+            "ro": "Luați un autobuz sau tramvai înapoi spre centru, apoi mergeți pe jos până la malul râului.",
+            "en": "Take a bus or tram back towards the center, then walk to the riverfront."
+          }
+        },
+        {
+          "name": {
+            "de": "Osijek Zoo",
+            "hu": "Eszéki Állatkert",
+            "ro": "Grădina Zoologică Osijek",
+            "en": "Osijek Zoo"
+          },
+          "coords": [
+            18.675,
+            45.569
+          ],
+          "category": "animal-habitat",
+          "arrive_at": "16:04",
+          "stay_min": 110,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Eine einzigartige Fähre namens 'Kompa' verbindet das Stadtzentrum mit dem Zoo. Prüfen Sie den Fahrplan!",
+            "hu": "Egy egyedülálló komp, a 'Kompa' köti össze a városközpontot az állatkerttel. Ellenőrizze a menetrendet!",
+            "ro": "Un feribot unic numit 'Kompa' leagă centrul orașului de grădina zoologică. Verificați orarul!",
+            "en": "A unique ferry called 'Kompa' connects the city center to the zoo. Check its schedule!"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Reise am Ante Starčević Platz, dem Verkehrsknotenpunkt der Stadt, und besichtigen Sie die nahegelegene Kathedrale. Am Vormittag nehmen Sie eine Straßenbahn zur barocken Festung Tvrđa, wo Sie das Museum von Slawonien erkunden. Nach dem Mittagessen in der Festung nehmen Sie öffentliche Verkehrsmittel zurück in Richtung Fluss. Am Nachmittag überqueren Sie die Drau mit der charmanten 'Kompa'-Fähre, um den Zoo von Osijek zu besuchen und einen entspannten Abschluss des Tages zwischen den Tieren zu genießen.",
+        "hu": "Kezdje utazását az Ante Starčević téren, a város közlekedési csomópontjában, és látogassa meg a közeli székesegyházat. Délelőtt villamossal utazik a barokk Tvrđa erődhöz, ahol felfedezi a Szlavónia Múzeumát. Az erődben elköltött ebéd után tömegközlekedéssel induljon vissza a folyó irányába. Délután a bájos 'Kompa' komppal kel át a Dráván, hogy meglátogassa az eszéki állatkertet, és az állatok között fejezze be a napot.",
+        "ro": "Începeți călătoria din Piața Ante Starčević, nodul de transport al orașului, și vizitați catedrala din apropiere. Dimineața, luați un tramvai spre fortăreața barocă Tvrđa, unde veți explora Muzeul Slavoniei. După prânzul în cetate, luați transportul public înapoi spre râu. După-amiaza, traversați Drava cu fermecătorul feribot 'Kompa' pentru a vizita Grădina Zoologică din Osijek, încheind ziua într-un mod relaxant printre animale.",
+        "en": "Start your journey at Ante Starčević Square, the city's transport hub, and visit the nearby Co-cathedral. In the morning, take a tram to the baroque Tvrđa fortress where you'll explore the Museum of Slavonia. After lunch in the fortress, take public transport back towards the river. In the afternoon, cross the Drava on the charming 'Kompa' ferry to visit the Osijek Zoo, enjoying a relaxing end to the day among the animals."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lángos",
+            "tip": "Probieren Sie diesen ungarischen Einfluss auf dem Hauptmarkt."
+          },
+          {
+            "name": "Slawonische Pizza",
+            "tip": "Eine lokale Variante der Pizza, oft mit Kulen und scharfen Paprika."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lángos",
+            "tip": "Kóstolja meg ezt a magyar hatást a fő piacon."
+          },
+          {
+            "name": "Szalvón pizza",
+            "tip": "A pizza helyi változata, gyakran kulennel és csípős paprikával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Langoși",
+            "tip": "Încercați această influență maghiară la piața principală."
+          },
+          {
+            "name": "Pizza slavonă",
+            "tip": "O variantă locală de pizza, adesea cu kulen și ardei iute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lángos",
+            "tip": "Try this Hungarian influence available at the main market."
+          },
+          {
+            "name": "Slavonian Pizza",
+            "tip": "A local take on pizza, often featuring kulen and hot peppers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Straßenbahnfahrt",
+            "tip": "Die Fahrt nach Tvrđa bietet einen einzigartigen Blick auf die Stadt.",
+            "emoji": "🚃"
+          },
+          {
+            "name": "'Kompa' Fähre",
+            "tip": "Die kurze Flussüberquerung ist ein friedlicher Moment.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Villamosozás",
+            "tip": "A Tvrđába tartó út egyedi kilátást nyújt a városra.",
+            "emoji": "🚃"
+          },
+          {
+            "name": "'Kompa' komp",
+            "tip": "A rövid folyami átkelés egy békés pillanat.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătoria cu tramvaiul",
+            "tip": "Călătoria spre Tvrđa oferă o priveliște unică a orașului.",
+            "emoji": "🚃"
+          },
+          {
+            "name": "'Kompa' Ferry",
+            "tip": "Scurta traversare a râului este un moment de pace.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tram Ride",
+            "tip": "The ride to Tvrđa offers a unique view of the city.",
+            "emoji": "🚃"
+          },
+          {
+            "name": "'Kompa' Ferry",
+            "tip": "The short river crossing is a peaceful moment.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske am Hauptplatz",
+            "tip": "Kaufen Sie Fahrkarten, Zeitungen und Snacks."
+          },
+          {
+            "name": "Markt in Tvrđa",
+            "tip": "An bestimmten Tagen finden Sie hier Antiquitäten- und Flohmärkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok a főtéren",
+            "tip": "Vásároljon jegyeket, újságokat és rágcsálnivalókat."
+          },
+          {
+            "name": "Piac a Tvrđában",
+            "tip": "Bizonyos napokon régiség- és bolhapiacokat találhat itt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri în Piața Principală",
+            "tip": "Cumpărați bilete, ziare și gustări."
+          },
+          {
+            "name": "Piața din Tvrđa",
+            "tip": "În anumite zile, puteți găsi aici piețe de antichități și vechituri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks in the main square",
+            "tip": "Buy your transit tickets, newspapers, and snacks."
+          },
+          {
+            "name": "Market in Tvrđa",
+            "tip": "On certain days, you can find antique and flea markets here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr für unbegrenzte Fahrten.",
+          "Die Straßenbahnen sind eine effiziente und malerische Art, sich fortzubewegen.",
+          "Validieren Sie Ihr Ticket beim Einsteigen, um Strafen zu vermeiden.",
+          "Überprüfen Sie den Fahrplan für die letzte 'Kompa'-Fähre zurück vom Zoo."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "A villamosok hatékony és festői közlekedési eszközt jelentenek.",
+          "Érvényesítse jegyét felszálláskor a büntetések elkerülése érdekében.",
+          "Ellenőrizze az utolsó 'Kompa' komp menetrendjét az állatkertből visszafelé."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru călătorii nelimitate.",
+          "Tramvaiele sunt un mod eficient și pitoresc de a vă deplasa.",
+          "Validați-vă biletul la urcare pentru a evita amenzile.",
+          "Verificați programul ultimului feribot 'Kompa' de la grădina zoologică."
+        ],
+        "en": [
+          "Buy a daily public transport ticket for unlimited rides.",
+          "Trams are an efficient and scenic way to get around.",
+          "Validate your ticket when you board to avoid fines.",
+          "Check the schedule for the last 'Kompa' ferry back from the zoo."
+        ]
+      }
+    }
+  }
+}

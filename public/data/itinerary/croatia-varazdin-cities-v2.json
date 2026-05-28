@@ -1,0 +1,1240 @@
+{
+  "city_id": "croatia-varazdin-cities-v2",
+  "anchor": {
+    "name": "Varaždin",
+    "coords": [
+      16.3366,
+      46.3057
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Varaždin",
+            "hu": "Városháza",
+            "ro": "Primăria din Varaždin",
+            "en": "Varaždin Town Hall"
+          },
+          "coords": [
+            16.3375,
+            46.3076
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Wachen in historischen Uniformen, die oft am Eingang stehen.",
+            "hu": "Figyelje a bejáratnál gyakran posztoló, történelmi egyenruhás őröket.",
+            "ro": "Admirați gărzile în uniforme istorice care stau adesea la intrare.",
+            "en": "Admire the guards in historical uniforms often standing at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Varaždin",
+            "hu": "Varasdi székesegyház",
+            "ro": "Catedrala din Varaždin",
+            "en": "Varaždin Cathedral"
+          },
+          "coords": [
+            16.3385,
+            46.3082
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die reich verzierte barocke Kanzel und die Deckenfresken.",
+            "hu": "Keresse a gazdagon díszített barokk szószéket és a mennyezeti freskókat.",
+            "ro": "Fiți atenți la amvonul baroc bogat ornamentat și la frescele de pe tavan.",
+            "en": "Look for the richly decorated baroque pulpit and the ceiling frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Palais Sermage",
+            "hu": "Sermage-palota",
+            "ro": "Palatul Sermage",
+            "en": "Sermage Palace"
+          },
+          "coords": [
+            16.335,
+            46.3071
+          ],
+          "category": "museums",
+          "arrive_at": "10:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beherbergt die Galerie der Alten und Neuen Meister; ideal für Kunstliebhaber.",
+            "hu": "A Régi és Új Mesterek Képtárának ad otthont; ideális a művészetkedvelőknek.",
+            "ro": "Găzduiește Galeria Maeștrilor Vechi și Noi; ideal pentru iubitorii de artă.",
+            "en": "Houses the Gallery of Old and New Masters; ideal for art lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "Stari Grad (Alte Burg)",
+            "hu": "Stari Grad (Öregvár)",
+            "ro": "Stari Grad (Cetatea Veche)",
+            "en": "Stari Grad (Old Castle)"
+          },
+          "coords": [
+            16.3331,
+            46.3065
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Stadtmuseum befindet sich im Inneren. Planen Sie genügend Zeit für die Exponate ein.",
+            "hu": "A Városi Múzeum a belsejében található. Szánjon elég időt a kiállításokra.",
+            "ro": "Muzeul orașului este situat în interior. Planificați suficient timp pentru exponate.",
+            "en": "The city museum is located inside. Plan enough time for the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Franziskanerkloster",
+            "hu": "Ferences kolostor",
+            "ro": "Mănăstirea Franciscană",
+            "en": "Franciscan Monastery"
+          },
+          "coords": [
+            16.3392,
+            46.3091
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suchen Sie die ruhigen Innenhöfe für einen Moment der Kontemplation.",
+            "hu": "Keresse a csendes belső udvarokat egy pillanatnyi elmélkedéshez.",
+            "ro": "Căutați curțile interioare liniștite pentru un moment de contemplare.",
+            "en": "Seek out the quiet inner courtyards for a moment of contemplation."
+          }
+        },
+        {
+          "name": {
+            "de": "Kroatisches Nationaltheater",
+            "hu": "Horvát Nemzeti Színház",
+            "ro": "Teatrul Național Croat",
+            "en": "Croatian National Theatre"
+          },
+          "coords": [
+            16.339,
+            46.306
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Auch wenn Sie keine Vorstellung besuchen, ist die neobarocke Architektur ein Foto wert.",
+            "hu": "Még ha nem is megy előadásra, az neobarokk építészet megér egy fotót.",
+            "ro": "Chiar dacă nu mergeți la un spectacol, arhitectura neo-barocă merită o fotografie.",
+            "en": "Even if you don't attend a show, the neo-baroque architecture is worth a photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Drau-Ufer",
+            "hu": "Séta a Dráva partján",
+            "ro": "Promenadă pe malul râului Drava",
+            "en": "Walk on the Drava River Bank"
+          },
+          "coords": [
+            16.33,
+            46.315
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:40",
+          "stay_min": 105,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannender Abschluss des Tages, besonders schön bei Sonnenuntergang.",
+            "hu": "Pihentető lezárása a napnak, különösen szép naplementekor.",
+            "ro": "Un final relaxant al zilei, deosebit de frumos la apus.",
+            "en": "A relaxing end to the day, especially beautiful at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Varaždin, dem barocken Stadtplatz am Rathaus. Schlendern Sie durch die Gassen zur Kathedrale und zum Sermage-Palast, wo Kunst auf Geschichte trifft. Am Mittag erwartet Sie die imposante Alte Burg, die das Stadtmuseum beherbergt. Tauchen Sie in die Vergangenheit ein, bevor Sie sich eine wohlverdiente Mittagspause gönnen. Der Nachmittag führt Sie zu den ruhigen Hallen des Franziskanerklosters und der Pracht des Nationaltheaters. Beenden Sie Ihren Spaziergang mit einem entspannenden Ausflug zum Ufer der Drau. Genießen Sie am Abend die Atmosphäre der Stadt in einem der vielen Cafés und blicken Sie auf einen Tag voller Entdeckungen zurück.",
+        "hu": "Kezdje a napot Varasd szívében, a barokk városháza téren. Sétáljon át a sikátorokon a székesegyházhoz és a Sermage-palotához, ahol a művészet és a történelem találkozik. Délben az impozáns Öregvár várja, amely a Városi Múzeumnak ad otthont. Merüljön el a múltban, mielőtt megérdemelt ebédszünetet tartana. A délután a Ferences kolostor csendes csarnokaihoz és a Nemzeti Színház pompájához vezet. A sétát egy pihentető kirándulással zárja a Dráva partján. Este élvezze a város hangulatát az egyik kávézóban, és tekintsen vissza a felfedezésekkel teli napra.",
+        "ro": "Începeți ziua în inima orașului Varaždin, piața barocă de la Primărie. Plimbați-vă pe străduțe până la Catedrală și Palatul Sermage, unde arta întâlnește istoria. La prânz, vă așteaptă impunătoarea Cetate Veche, care găzduiește Muzeul Orașului. Pătrundeți în trecut înainte de o binemeritată pauză de masă. După-amiaza vă duce la sălile liniștite ale Mănăstirii Franciscane și la splendoarea Teatrului Național. Încheiați plimbarea cu o excursie relaxantă pe malul râului Drava. Seara, bucurați-vă de atmosfera orașului la una dintre numeroasele cafenele, reflectând la o zi plină de descoperiri.",
+        "en": "Start your day in the heart of Varaždin, the baroque town square by the Town Hall. Stroll through the alleys to the Cathedral and Sermage Palace, where art meets history. At midday, the imposing Old Castle, housing the City Museum, awaits. Delve into the past before a well-deserved lunch break. The afternoon takes you to the quiet halls of the Franciscan Monastery and the splendor of the National Theatre. Conclude your walk with a relaxing trip to the banks of the Drava River. In the evening, soak up the city's atmosphere at one of the many cafes, reflecting on a day of discovery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Varaždinski klipič",
+            "tip": "Ein lokales, geschütztes Salzgebäck, perfekt für einen schnellen Snack."
+          },
+          {
+            "name": "Restoran Bedem",
+            "tip": "Moderne kroatische Küche in der Nähe der Alten Burg."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Varaždinski klipič",
+            "tip": "Helyi, védett sós péksütemény, tökéletes egy gyors harapnivalóhoz."
+          },
+          {
+            "name": "Bedem Étterem",
+            "tip": "Modern horvát konyha az Öregvár közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Varaždinski klipič",
+            "tip": "Un produs de patiserie sărat, local și protejat, perfect pentru o gustare rapidă."
+          },
+          {
+            "name": "Restaurant Bedem",
+            "tip": "Bucătărie croată modernă lângă Cetatea Veche."
+          }
+        ],
+        "en": [
+          {
+            "name": "Varaždinski klipič",
+            "tip": "A local, protected savory pastry, perfect for a quick snack."
+          },
+          {
+            "name": "Restaurant Bedem",
+            "tip": "Modern Croatian cuisine near the Old Castle."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof von Varaždin",
+            "tip": "Obwohl etwas weiter entfernt, gilt er als einer der schönsten Friedhöfe Europas.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Drau-Ufer",
+            "tip": "Ein friedlicher Ort, um dem Trubel der Stadt zu entkommen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Varasdi temető",
+            "tip": "Bár kicsit távolabb van, Európa egyik legszebb temetőjének tartják.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Dráva-part",
+            "tip": "Békés hely a város nyüzsgésétől távol.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul din Varaždin",
+            "tip": "Deși este puțin mai departe, este considerat unul dintre cele mai frumoase cimitire din Europa.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Malul râului Drava",
+            "tip": "Un loc pașnic pentru a evada din agitația orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Varaždin Cemetery",
+            "tip": "Although a bit further out, it's considered one of the most beautiful cemeteries in Europe.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Drava River Bank",
+            "tip": "A peaceful spot to escape the city bustle.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Varaždiner Marktplatz",
+            "tip": "Kaufen Sie frische lokale Produkte und erleben Sie das lokale Leben."
+          },
+          {
+            "name": "Gajeva Straße",
+            "tip": "Hauptgeschäftsstraße mit Boutiquen und Souvenirläden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Varasdi piac",
+            "tip": "Vásároljon friss helyi termékeket és tapasztalja meg a helyi életet."
+          },
+          {
+            "name": "Gajeva utca",
+            "tip": "Fő bevásárlóutca butikokkal és ajándékboltokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața din Varaždin",
+            "tip": "Cumpărați produse locale proaspete și experimentați viața locală."
+          },
+          {
+            "name": "Strada Gajeva",
+            "tip": "Strada comercială principală cu buticuri și magazine de suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Varaždin Marketplace",
+            "tip": "Shop for fresh local produce and experience local life."
+          },
+          {
+            "name": "Gajeva Street",
+            "tip": "Main shopping street with boutiques and souvenir shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die meisten Straßen im Zentrum mit Kopfsteinpflaster gepflastert sind.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum liegen sehr nah beieinander.",
+          "Prüfen Sie die Öffnungszeiten der Museen, da diese variieren können."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a belváros legtöbb utcája macskaköves.",
+          "A belvárosi látnivalók többsége nagyon közel van egymáshoz.",
+          "Ellenőrizze a múzeumok nyitvatartási idejét, mert az változhat."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece majoritatea străzilor din centru sunt pavate.",
+          "Majoritatea atracțiilor din centrul orașului sunt foarte apropiate una de cealaltă.",
+          "Verificați orele de deschidere ale muzeelor, deoarece acestea pot varia."
+        ],
+        "en": [
+          "Wear comfortable shoes as most of the streets in the center are cobblestoned.",
+          "Most attractions in the city center are very close to each other.",
+          "Check museum opening times as they can vary."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 7.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Varaždin",
+            "hu": "Városháza",
+            "ro": "Primăria din Varaždin",
+            "en": "Varaždin Town Hall"
+          },
+          "coords": [
+            16.3375,
+            46.3076
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der perfekte Startpunkt. Schließen Sie Ihr Fahrrad an und erkunden Sie den Platz zu Fuß.",
+            "hu": "Tökéletes kiindulópont. Zárja le a kerékpárt és fedezze fel a teret gyalog.",
+            "ro": "Punctul de plecare perfect. Legați-vă bicicleta și explorați piața pe jos.",
+            "en": "The perfect starting point. Lock your bike and explore the square on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Stari Grad (Alte Burg)",
+            "hu": "Stari Grad (Öregvár)",
+            "ro": "Stari Grad (Cetatea Veche)",
+            "en": "Stari Grad (Old Castle)"
+          },
+          "coords": [
+            16.3331,
+            46.3065
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie um die Burgmauern herum für eine einzigartige Perspektive.",
+            "hu": "Tekerjen körbe a várfalak mentén egyedi perspektívákért.",
+            "ro": "Mergeți cu bicicleta în jurul zidurilor castelului pentru o perspectivă unică.",
+            "en": "Cycle around the castle walls for a unique perspective."
+          }
+        },
+        {
+          "name": {
+            "de": "Palais Sermage",
+            "hu": "Sermage-palota",
+            "ro": "Palatul Sermage",
+            "en": "Sermage Palace"
+          },
+          "coords": [
+            16.335,
+            46.3071
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein großartiger Ort, um der Mittagshitze zu entkommen und Kunst zu genießen.",
+            "hu": "Nagyszerű hely a déli hőség elől való menekülésre és a művészet élvezetére.",
+            "ro": "Un loc minunat pentru a scăpa de căldura amiezii și a vă bucura de artă.",
+            "en": "A great place to escape the midday heat and enjoy some art."
+          }
+        },
+        {
+          "name": {
+            "de": "Kroatisches Nationaltheater",
+            "hu": "Horvát Nemzeti Színház",
+            "ro": "Teatrul Național Croat",
+            "en": "Croatian National Theatre"
+          },
+          "coords": [
+            16.339,
+            46.306
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:35",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto vor diesem architektonischen Juwel.",
+            "hu": "Készítsen egy fotót ezen építészeti gyöngyszem előtt.",
+            "ro": "Faceți o fotografie în fața acestei bijuterii arhitecturale.",
+            "en": "Take a photo in front of this architectural gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Varaždin",
+            "hu": "Varasdi székesegyház",
+            "ro": "Catedrala din Varaždin",
+            "en": "Varaždin Cathedral"
+          },
+          "coords": [
+            16.3385,
+            46.3082
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:59",
+          "stay_min": 35,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein Moment der Stille und Bewunderung der barocken Kunst.",
+            "hu": "A csend és a barokk művészet csodálatának pillanata.",
+            "ro": "Un moment de liniște și admirație pentru arta barocă.",
+            "en": "A moment of quiet and admiration of baroque art."
+          }
+        },
+        {
+          "name": {
+            "de": "Friedhof von Varaždin",
+            "hu": "Varasdi temető",
+            "ro": "Cimitirul din Varaždin",
+            "en": "Varaždin Cemetery"
+          },
+          "coords": [
+            16.345,
+            46.315
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein Meisterwerk der Gartenarchitektur. Nehmen Sie sich Zeit zum Spazierengehen.",
+            "hu": "A kertépítészet mesterműve. Szánjon időt a sétára.",
+            "ro": "O capodoperă a arhitecturii peisagistice. Luați-vă timp să vă plimbați.",
+            "en": "A masterpiece of landscape architecture. Take your time to walk around."
+          }
+        },
+        {
+          "name": {
+            "de": "Entspannung am Aquacity-See",
+            "hu": "Pihenés az Aquacity-tónál",
+            "ro": "Relaxare la lacul Aquacity",
+            "en": "Relaxing at Aquacity Lake"
+          },
+          "coords": [
+            16.36,
+            46.325
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:21",
+          "stay_min": 130,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Tag ausklingen zu lassen, schwimmen zu gehen oder einfach nur die Natur zu genießen.",
+            "hu": "Tökéletes hely a nap befejezéséhez, úszáshoz vagy csak a természet élvezetéhez.",
+            "ro": "Locul perfect pentru a încheia ziua, pentru a înota sau pur și simplu pentru a vă bucura de natură.",
+            "en": "The perfect place to end the day, go for a swim, or just enjoy nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Rad und beginnen Sie den Tag am Rathausplatz, dem pulsierenden Herzen von Varaždin. Eine kurze Fahrt bringt Sie zur Alten Burg, wo Sie in die Geschichte eintauchen. Nach der Kultur im Sermage-Palast und einem Fotostopp am Nationaltheater bietet die Kathedrale einen Moment der Ruhe. Am Nachmittag radeln Sie zum berühmten Friedhof von Varaždin, einem Park voller Kunst und Frieden. Die Tour endet am Aquacity-See, etwas außerhalb der Stadt, wo Sie sich entspannen, schwimmen und die Natur genießen können. Dieser Fahrradausflug verbindet die städtischen Highlights mit grünen Oasen und bietet eine aktive Art, Varaždin zu entdecken.",
+        "hu": "Pattanjon kerékpárra, és kezdje a napot a Városháza téren, Varasd lüktető szívében. Egy rövid tekerés elviszi az Öregvárhoz, ahol elmerülhet a történelemben. A Sermage-palota kultúrája és a Nemzeti Színháznál tett fotómegálló után a székesegyház nyújt egy csendes pillanatot. Délután tekerjen el Varasd híres temetőjébe, egy művészettel és békével teli parkba. A túra az Aquacity-tónál ér véget, kicsit a városon kívül, ahol pihenhet, úszhat és élvezheti a természetet. Ez a kerékpártúra összeköti a városi látnivalókat a zöld oázisokkal, aktív módot kínálva Varasd felfedezésére.",
+        "ro": "Urcați-vă pe bicicletă și începeți ziua în Piața Primăriei, inima vibrantă a Varaždinului. O scurtă plimbare vă duce la Cetatea Veche, unde vă puteți cufunda în istorie. După cultura de la Palatul Sermage și o oprire pentru fotografii la Teatrul Național, Catedrala oferă un moment de liniște. După-amiaza, pedalați spre faimosul cimitir din Varaždin, un parc plin de artă și pace. Turul se încheie la lacul Aquacity, chiar în afara orașului, unde vă puteți relaxa, înota și bucura de natură. Această excursie cu bicicleta combină atracțiile urbane cu oazele verzi, oferind un mod activ de a descoperi Varaždin.",
+        "en": "Hop on your bike and start the day at the Town Hall Square, the vibrant heart of Varaždin. A short ride takes you to the Old Castle, where you can immerse yourself in history. After culture at the Sermage Palace and a photo stop at the National Theatre, the Cathedral offers a moment of peace. In the afternoon, cycle to the famous Varaždin Cemetery, a park full of art and tranquility. The tour ends at Aquacity Lake, just outside the city, where you can relax, swim, and enjoy nature. This bike trip combines urban highlights with green oases, offering an active way to discover Varaždin."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mlinar",
+            "tip": "Holen Sie sich einen 'klipič' für unterwegs, bevor Sie losfahren."
+          },
+          {
+            "name": "Restaurant Zlatna guska",
+            "tip": "Traditionelle Küche in einem gemütlichen Ambiente im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mlinar",
+            "tip": "Vegyen egy 'klipič'-et útközben, mielőtt elindul."
+          },
+          {
+            "name": "Zlatna guska Étterem",
+            "tip": "Hagyományos konyha hangulatos környezetben a városközpontban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mlinar",
+            "tip": "Luați un 'klipič' la pachet înainte de a porni la drum."
+          },
+          {
+            "name": "Restaurant Zlatna guska",
+            "tip": "Bucătărie tradițională într-un cadru primitor în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mlinar",
+            "tip": "Grab a 'klipič' to go before you set off."
+          },
+          {
+            "name": "Restaurant Zlatna guska",
+            "tip": "Traditional cuisine in a cozy setting in the city center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof von Varaždin",
+            "tip": "Ein unglaublich friedlicher und kunstvoller Ort, ideal für eine Radpause.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Aquacity-See",
+            "tip": "Entfliehen Sie der Stadt und genießen Sie die Ruhe am Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Varasdi temető",
+            "tip": "Hihetetlenül békés és művészi hely, ideális egy kerékpáros pihenőhöz.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Aquacity-tó",
+            "tip": "Meneküljön el a városból és élvezze a vízparti csendet.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul din Varaždin",
+            "tip": "Un loc incredibil de pașnic și artistic, ideal pentru o pauză de la bicicletă.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Lacul Aquacity",
+            "tip": "Evadați din oraș și bucurați-vă de liniștea de pe malul apei.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Varaždin Cemetery",
+            "tip": "An incredibly peaceful and artistic place, ideal for a cycling break.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Aquacity Lake",
+            "tip": "Escape the city and enjoy the tranquility by the water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Fahrradläden",
+            "tip": "Fragen Sie nach Zubehör oder mieten Sie ein besseres Fahrrad."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerékpárboltok",
+            "tip": "Kérjen kiegészítőket, vagy béreljen egy jobb kerékpárt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine locale de biciclete",
+            "tip": "Întrebați de accesorii sau închiriați o bicicletă mai bună."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local bike shops",
+            "tip": "Ask for accessories or rent a better bike."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Varaždin ist relativ flach und sehr fahrradfreundlich.",
+          "Bringen Sie ein Schloss mit, um Ihr Fahrrad an den Hauptsehenswürdigkeiten sicher abzustellen.",
+          "Nehmen Sie Wasser mit, besonders für die Fahrt zum See."
+        ],
+        "hu": [
+          "Varasd viszonylag sík és nagyon kerékpárbarát.",
+          "Hozzon magával egy lakatot, hogy biztonságosan lezárhassa a kerékpárt a fő látnivalóknál.",
+          "Vigyen magával vizet, különösen a tóhoz vezető útra."
+        ],
+        "ro": [
+          "Varaždin este relativ plat și foarte prietenos cu bicicletele.",
+          "Aduceți un lacăt pentru a vă asigura bicicleta la principalele atracții.",
+          "Luați apă cu dumneavoastră, în special pentru drumul spre lac."
+        ],
+        "en": [
+          "Varaždin is relatively flat and very bike-friendly.",
+          "Bring a lock to secure your bike at the main attractions.",
+          "Take water with you, especially for the ride to the lake."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:47",
+      "total_km": 15.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum",
+            "hu": "Parkoló a központban",
+            "ro": "Parcare în centru",
+            "en": "City Center Parking"
+          },
+          "coords": [
+            16.34,
+            46.305
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Vormittag. Das Zentrum ist ein Spaziergang.",
+            "hu": "Parkoljon le itt a délelőttre. A központ egy séta.",
+            "ro": "Parcați aici pentru dimineață. Centrul este la o plimbare.",
+            "en": "Park here for the morning. The center is a walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Hauptplatz",
+            "hu": "Városháza és Fő tér",
+            "ro": "Primăria și Piața Principală",
+            "en": "Town Hall & Main Square"
+          },
+          "coords": [
+            16.3375,
+            46.3076
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:17",
+          "stay_min": 30,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Rundgang im Herzen der barocken Altstadt.",
+            "hu": "Kezdje a sétát a barokk óváros szívében.",
+            "ro": "Începeți turul pietonal în inima orașului vechi baroc.",
+            "en": "Start your walking tour in the heart of the baroque old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Stari Grad (Alte Burg)",
+            "hu": "Stari Grad (Öregvár)",
+            "ro": "Stari Grad (Cetatea Veche)",
+            "en": "Stari Grad (Old Castle)"
+          },
+          "coords": [
+            16.3331,
+            46.3065
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beinhaltet das Museum, planen Sie also genügend Zeit für eine gründliche Besichtigung ein.",
+            "hu": "A múzeumot is magában foglalja, ezért szánjon elegendő időt az alapos megtekintésre.",
+            "ro": "Include muzeul, așa că planificați suficient timp pentru o vizită amănunțită.",
+            "en": "Includes the museum, so plan enough time for a thorough visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Varaždin",
+            "hu": "Varasdi székesegyház",
+            "ro": "Catedrala din Varaždin",
+            "en": "Varaždin Cathedral"
+          },
+          "coords": [
+            16.3385,
+            46.3082
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein letzter Spaziergang durch das Zentrum vor der Weiterfahrt.",
+            "hu": "Egy utolsó séta a központban, mielőtt továbbhajtana.",
+            "ro": "O ultimă plimbare prin centru înainte de a merge mai departe.",
+            "en": "A final walk through the center before driving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Friedhof von Varaždin",
+            "hu": "Varasdi temető",
+            "ro": "Cimitirul din Varaždin",
+            "en": "Varaždin Cemetery"
+          },
+          "coords": [
+            16.345,
+            46.315
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:56",
+          "stay_min": 90,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Eingang. Dies ist ein Ort der Kunst und Ruhe, kein typischer Friedhof.",
+            "hu": "Parkoljon a bejáratnál. Ez a művészet és a béke helye, nem egy tipikus temető.",
+            "ro": "Parcați la intrare. Acesta este un loc de artă și liniște, nu un cimitir tipic.",
+            "en": "Park at the entrance. This is a place of art and peace, not a typical cemetery."
+          }
+        },
+        {
+          "name": {
+            "de": "Ausflug nach Trakošćan",
+            "hu": "Kirándulás Trakošćanba",
+            "ro": "Excursie la Trakošćan",
+            "en": "Trip to Trakošćan"
+          },
+          "coords": [
+            15.952,
+            46.259
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:21",
+          "stay_min": 135,
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 42.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Eine längere Fahrt, aber dieses Märchenschloss ist es absolut wert.",
+            "hu": "Hosszabb út, de ez a mesebeli kastély abszolút megéri.",
+            "ro": "O călătorie mai lungă, dar acest castel de basm merită absolut.",
+            "en": "A longer drive, but this fairytale castle is absolutely worth it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag, indem Sie Ihr Auto im Zentrum von Varaždin parken und den barocken Kern zu Fuß erkunden. Vom Hauptplatz mit dem Rathaus führt Sie ein kurzer Spaziergang zur majestätischen Alten Burg. Nehmen Sie sich Zeit für das Museum im Inneren. Nach dem Mittagessen kehren Sie zu Ihrem Auto zurück und fahren zum berühmten Varaždiner Friedhof, einem einzigartigen Park der Gartenkunst. Am Nachmittag wartet ein Highlight: die Fahrt zum märchenhaften Schloss Trakošćan, das malerisch an einem See liegt. Verbringen Sie den Rest des Tages damit, das Schloss und seine Umgebung zu erkunden, bevor Sie nach Varaždin zurückkehren.",
+        "hu": "Kezdje a napot azzal, hogy leparkolja autóját Varasd központjában, és gyalog fedezi fel a barokk városmagot. A Fő térről és a Városházától rövid séta vezet a fenséges Öregvárhoz. Szánjon időt a benne lévő múzeumra. Ebéd után térjen vissza autójához, és vezessen el a híres varasdi temetőhöz, a kertművészet egyedi parkjához. Délután egy fénypont vár: egy utazás a mesebeli Trakošćan kastélyhoz, amely festői helyen, egy tó mellett fekszik. Töltse a nap hátralévő részét a kastély és környéke felfedezésével, mielőtt visszatérne Varasdba.",
+        "ro": "Începeți ziua parcând mașina în centrul orașului Varaždin și explorând nucleul baroc pe jos. De la piața principală cu Primăria, o scurtă plimbare vă duce la majestuoasa Cetate Veche. Acordați-vă timp pentru muzeul din interior. După prânz, întoarceți-vă la mașină și conduceți spre faimosul cimitir din Varaždin, un parc unic de artă horticolă. După-amiaza vă așteaptă un punct culminant: o excursie la castelul de basm Trakošćan, situat pitoresc pe malul unui lac. Petreceți restul zilei explorând castelul și împrejurimile sale înainte de a vă întoarce la Varaždin.",
+        "en": "Start your day by parking your car in the center of Varaždin and exploring the baroque core on foot. From the main square with the Town Hall, a short walk takes you to the majestic Old Castle. Take your time for the museum inside. After lunch, return to your car and drive to the famous Varaždin Cemetery, a unique park of garden art. In the afternoon, a highlight awaits: the drive to the fairytale Trakošćan Castle, picturesquely situated by a lake. Spend the rest of the day exploring the castle and its surroundings before returning to Varaždin."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restoran Verglec",
+            "tip": "In der Nähe des Zentrums, gut für ein Mittagessen nach dem Spaziergang."
+          },
+          {
+            "name": "Hotel Trakošćan",
+            "tip": "Genießen Sie ein Abendessen mit Blick auf das Schloss nach Ihrer Besichtigung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Verglec Étterem",
+            "tip": "A központ közelében, jó ebédre a séta után."
+          },
+          {
+            "name": "Hotel Trakošćan",
+            "tip": "Élvezze a vacsorát a kastélyra néző kilátással a látogatás után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Verglec",
+            "tip": "Aproape de centru, bun pentru un prânz după plimbare."
+          },
+          {
+            "name": "Hotel Trakošćan",
+            "tip": "Bucurați-vă de o cină cu vedere la castel după vizită."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Verglec",
+            "tip": "Near the center, good for lunch after your walk."
+          },
+          {
+            "name": "Hotel Trakošćan",
+            "tip": "Enjoy dinner with a view of the castle after your visit."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "See am Schloss Trakošćan",
+            "tip": "Umrunden Sie den See für einen ruhigen Spaziergang mit herrlicher Aussicht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Die Gärten des Friedhofs",
+            "tip": "Ein Ort der Stille und Schönheit.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trakošćani-tó",
+            "tip": "Kerülje meg a tavat egy csendes sétáért, csodálatos kilátással.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A temető kertjei",
+            "tip": "A csend és a szépség helye.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Castelului Trakošćan",
+            "tip": "Înconjurați lacul pentru o plimbare liniștită cu vederi minunate.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile cimitirului",
+            "tip": "Un loc de liniște și frumusețe.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lake at Trakošćan Castle",
+            "tip": "Walk around the lake for a quiet stroll with lovely views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The gardens of the cemetery",
+            "tip": "A place of silence and beauty.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirladen am Schloss Trakošćan",
+            "tip": "Finden Sie einzigartige Andenken an Ihren Besuch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándékbolt a Trakošćan kastélynál",
+            "tip": "Találjon egyedi emléktárgyakat a látogatásáról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri la Castelul Trakošćan",
+            "tip": "Găsiți amintiri unice ale vizitei dumneavoastră."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir shop at Trakošćan Castle",
+            "tip": "Find unique mementos of your visit."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum ist kostenpflichtig. Halten Sie Münzen bereit.",
+          "Planen Sie genügend Zeit für die Fahrt nach Trakošćan ein, die Straßen können eng sein.",
+          "Überprüfen Sie die Öffnungszeiten von Schloss Trakošćan im Voraus."
+        ],
+        "hu": [
+          "A belvárosi parkolás díjköteles. Készítsen elő érméket.",
+          "Szánjon elegendő időt a Trakošćanba vezető útra, az utak szűkek lehetnek.",
+          "Előre ellenőrizze a Trakošćan kastély nyitvatartási idejét."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului este contra cost. Pregătiți monede.",
+          "Planificați suficient timp pentru drumul spre Trakošćan, drumurile pot fi înguste.",
+          "Verificați în prealabil orele de deschidere ale Castelului Trakošćan."
+        ],
+        "en": [
+          "Parking in the city center is paid. Have coins ready.",
+          "Allow enough time for the drive to Trakošćan, the roads can be narrow.",
+          "Check the opening hours of Trakošćan Castle in advance."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof",
+            "hu": "Érkezés a buszpályaudvarra",
+            "ro": "Sosire la autogară",
+            "en": "Arrival at Bus Station"
+          },
+          "coords": [
+            16.341,
+            46.303
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus ins Zentrum (Cluster A).",
+            "hu": "Menjen busszal a központba (A-klaszter).",
+            "ro": "Luați un autobuz spre centru (Cluster A).",
+            "en": "Take a bus to the center (Cluster A)."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Hauptplatz",
+            "hu": "Városháza és Fő tér",
+            "ro": "Primăria și Piața Principală",
+            "en": "Town Hall & Main Square"
+          },
+          "coords": [
+            16.3375,
+            46.3076
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie hier aus und beginnen Sie Ihren Rundgang.",
+            "hu": "Szálljon ki itt, és kezdje meg a sétát.",
+            "ro": "Coborâți aici și începeți turul pietonal.",
+            "en": "Get off here and start your walking tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Stari Grad (Alte Burg)",
+            "hu": "Stari Grad (Öregvár)",
+            "ro": "Stari Grad (Cetatea Veche)",
+            "en": "Stari Grad (Old Castle)"
+          },
+          "coords": [
+            16.3331,
+            46.3065
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:53",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz.",
+            "hu": "Rövid séta a Fő térről.",
+            "ro": "La o scurtă plimbare de piața principală.",
+            "en": "A short walk from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kroatisches Nationaltheater",
+            "hu": "Horvát Nemzeti Színház",
+            "ro": "Teatrul Național Croat",
+            "en": "Croatian National Theatre"
+          },
+          "coords": [
+            16.339,
+            46.306
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Auf dem Rückweg ins Zentrum, ein schöner Anblick.",
+            "hu": "Visszafelé a központba, gyönyörű látvány.",
+            "ro": "În drum spre centru, o priveliște frumoasă.",
+            "en": "On your way back towards the center, a beautiful sight."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle zum Friedhof",
+            "hu": "Buszmegálló a temetőhöz",
+            "ro": "Stație de autobuz spre cimitir",
+            "en": "Bus Stop to Cemetery"
+          },
+          "coords": [
+            16.34,
+            46.309
+          ],
+          "category": "transport",
+          "arrive_at": "12:34",
+          "stay_min": 10,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zeit, das Cluster zu wechseln. Nehmen Sie den Bus zum Friedhof (Cluster B).",
+            "hu": "Ideje klasztert váltani. Menjen busszal a temetőhöz (B-klaszter).",
+            "ro": "E timpul să schimbați clusterul. Luați autobuzul spre cimitir (Cluster B).",
+            "en": "Time to switch clusters. Take the bus to the cemetery (Cluster B)."
+          }
+        },
+        {
+          "name": {
+            "de": "Friedhof von Varaždin",
+            "hu": "Varasdi temető",
+            "ro": "Cimitirul din Varaždin",
+            "en": "Varaždin Cemetery"
+          },
+          "coords": [
+            16.345,
+            46.315
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:02",
+          "stay_min": 150,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Verbringen Sie den Nachmittag damit, dieses Meisterwerk der Landschaftsgestaltung zu erkunden.",
+            "hu": "Töltse a délutánt e tájépítészeti remekmű felfedezésével.",
+            "ro": "Petreceți după-amiaza explorând această capodoperă a peisagisticii.",
+            "en": "Spend the afternoon exploring this masterpiece of landscape design."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das öffentliche Verkehrsnetz von Varaždin für einen stressfreien Tag. Ein Bus bringt Sie vom Bahnhof direkt ins Herz der Altstadt. Erkunden Sie den ersten Cluster von Sehenswürdigkeiten – Rathaus, Alte Burg und Theater – bequem zu Fuß. Gönnen Sie sich ein Mittagessen in einem der zentralen Restaurants. Am Nachmittag steigen Sie wieder in einen Bus, um den zweiten Cluster zu erreichen: den berühmten Varaždiner Friedhof. Dieser Park ist ein Kunstwerk für sich und ein Ort der Ruhe. Verbringen Sie dort eine ausgiebige Zeit, bevor Sie mit dem Bus zurück ins Zentrum oder zum Bahnhof fahren und den Tag ausklingen lassen.",
+        "hu": "Használja Varasd tömegközlekedési hálózatát egy stresszmentes naphoz. A busz a pályaudvarról egyenesen az óváros szívébe viszi. Fedezze fel gyalog az első látnivaló-csoportot – a Városházát, az Öregvárat és a Színházat. Ebédeljen meg az egyik központi étteremben. Délután szálljon buszra, hogy elérje a második csoportot: a híres varasdi temetőt. Ez a park önmagában is egy műalkotás és a béke helye. Töltsön ott bőséges időt, mielőtt busszal visszatérne a központba vagy a pályaudvarra, és lezárná a napot.",
+        "ro": "Folosiți rețeaua de transport public din Varaždin pentru o zi fără stres. Un autobuz vă va duce de la gară direct în inima orașului vechi. Explorați primul cluster de atracții – Primăria, Cetatea Veche și Teatrul – confortabil pe jos. Bucurați-vă de prânz la unul dintre restaurantele centrale. După-amiaza, urcați din nou într-un autobuz pentru a ajunge la al doilea cluster: faimosul cimitir din Varaždin. Acest parc este o operă de artă în sine și un loc de liniște. Petreceți un timp îndelungat acolo înainte de a lua autobuzul înapoi spre centru sau gară pentru a încheia ziua.",
+        "en": "Use Varaždin's public transport network for a stress-free day. A bus will take you from the station straight to the heart of the old town. Explore the first cluster of sights—Town Hall, Old Castle, and Theatre—comfortably on foot. Enjoy lunch at one of the central restaurants. In the afternoon, hop on another bus to reach the second cluster: the famous Varaždin Cemetery. This park is a work of art in itself and a place of tranquility. Spend ample time there before taking a bus back to the center or the station to end your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Angelus Restaurant",
+            "tip": "Befindet sich direkt im Zentrum, ideal für ein Mittagessen zwischen den Besichtigungen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Angelus Étterem",
+            "tip": "Közvetlenül a központban található, ideális ebédre a látnivalók között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Angelus",
+            "tip": "Situat chiar în centru, ideal pentru prânz între vizite."
+          }
+        ],
+        "en": [
+          {
+            "name": "Angelus Restaurant",
+            "tip": "Located right in the center, ideal for lunch between sightseeing."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof von Varaždin",
+            "tip": "Der Haupt-Ruheort auf dieser Route, ein Muss für Liebhaber von Gärten und Skulpturen.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Varasdi temető",
+            "tip": "Az útvonal fő pihenőhelye, kötelező a kertek és szobrok szerelmeseinek.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul din Varaždin",
+            "tip": "Principalul loc de liniște de pe acest traseu, un must-see pentru iubitorii de grădini și sculpturi.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Varaždin Cemetery",
+            "tip": "The main quiet spot on this route, a must-see for garden and sculpture lovers.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske am Busbahnhof",
+            "tip": "Kaufen Sie Tickets und vielleicht einen Snack für die Fahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok a buszpályaudvaron",
+            "tip": "Vásároljon jegyeket és esetleg egy harapnivalót az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri la autogară",
+            "tip": "Cumpărați bilete și poate o gustare pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks at the bus station",
+            "tip": "Buy tickets and maybe a snack for the ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere für die Rückfahrt vom Friedhof.",
+          "Die meisten Busse sind modern und klimatisiert."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha több utazást tervez.",
+          "Előre ellenőrizze a buszmenetrendet, különösen a temetőből való visszautazáshoz.",
+          "A legtöbb busz modern és légkondicionált."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă plănuiți mai multe călătorii.",
+          "Verificați programul autobuzelor în avans, în special pentru călătoria de întoarcere de la cimitir.",
+          "Majoritatea autobuzelor sunt moderne și au aer condiționat."
+        ],
+        "en": [
+          "Buy a daily bus ticket if you plan on making multiple trips.",
+          "Check the bus schedule in advance, especially for the return trip from the cemetery.",
+          "Most buses are modern and air-conditioned."
+        ]
+      }
+    }
+  }
+}

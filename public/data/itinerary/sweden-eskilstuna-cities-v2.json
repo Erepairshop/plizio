@@ -1,0 +1,1512 @@
+{
+  "city_id": "sweden-eskilstuna-cities-v2",
+  "anchor": {
+    "name": "Eskilstuna",
+    "coords": [
+      16.5126,
+      59.3714
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Klosterkirche von Eskilstuna",
+            "hu": "Eskilstunai kolostortemplom",
+            "ro": "Biserica Mănăstirii din Eskilstuna",
+            "en": "Eskilstuna Klosterkyrka (Monastery Church)"
+          },
+          "coords": [
+            16.5165,
+            59.3705
+          ],
+          "category": "churches",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Achten Sie auf die mittelalterlichen Fresken und die ruhige Atmosphäre.",
+            "hu": "Figyelje meg a középkori freskókat és élvezze a csendes atmoszférát.",
+            "ro": "Admirați frescele medievale și bucurați-vă de atmosfera liniștită.",
+            "en": "Look for the medieval frescoes and enjoy the tranquil atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Rademachersmedjorna",
+            "hu": "Rademacher kovácsműhelyek",
+            "ro": "Fierăriile Rademacher",
+            "en": "Rademacher Forges"
+          },
+          "coords": [
+            16.5113,
+            59.3732
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Sprechen Sie mit den Handwerkern, die oft in den Werkstätten arbeiten.",
+            "hu": "Beszélgessen a kézművesekkel, akik gyakran a műhelyekben dolgoznak.",
+            "ro": "Discutați cu meșteșugarii care lucrează adesea în ateliere.",
+            "en": "Talk to the artisans who are often working in the workshops."
+          }
+        },
+        {
+          "name": {
+            "de": "Eskilstuna Stadtmuseum",
+            "hu": "Eskilstuna Városi Múzeum",
+            "ro": "Muzeul Orașului Eskilstuna",
+            "en": "Eskilstuna City Museum"
+          },
+          "coords": [
+            16.5102,
+            59.3738
+          ],
+          "category": "museums",
+          "arrive_at": "11:40",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die Ausstellungen zur Industriegeschichte sind besonders aufschlussreich.",
+            "hu": "Az ipartörténeti kiállítások különösen tanulságosak.",
+            "ro": "Expozițiile despre istoria industrială sunt deosebit de informative.",
+            "en": "The exhibitions on industrial history are particularly insightful."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az Óvárosban",
+            "ro": "Prânz în Orașul Vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            16.511,
+            59.3735
+          ],
+          "category": "gastro",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Probieren Sie ein lokales Restaurant für traditionelle schwedische Fika.",
+            "hu": "Próbáljon ki egy helyi éttermet egy hagyományos svéd 'fika' erejéig.",
+            "ro": "Încercați un restaurant local pentru o 'fika' suedeză tradițională.",
+            "en": "Try a local restaurant for a traditional Swedish 'fika'."
+          }
+        },
+        {
+          "name": {
+            "de": "Eskilstuna Konstmuseum",
+            "hu": "Eskilstuna Művészeti Múzeum",
+            "ro": "Muzeul de Artă Eskilstuna",
+            "en": "Eskilstuna Art Museum"
+          },
+          "coords": [
+            16.507,
+            59.3725
+          ],
+          "category": "museums",
+          "arrive_at": "14:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Sammlung schwedischer Kunst des 20. Jahrhunderts.",
+            "hu": "Fókuszáljon a 20. századi svéd művészeti gyűjteményre.",
+            "ro": "Concentrați-vă pe colecția de artă suedeză din secolul XX.",
+            "en": "Focus on the collection of 20th-century Swedish art."
+          }
+        },
+        {
+          "name": {
+            "de": "Rothoffsparken",
+            "hu": "Rothoffsparken",
+            "ro": "Parcul Rothoff",
+            "en": "Rothoff's Park"
+          },
+          "coords": [
+            16.5118,
+            59.3683
+          ],
+          "category": "parks",
+          "arrive_at": "16:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort, um am Fluss Eskilstunaån zu entspannen.",
+            "hu": "Tökéletes hely a pihenésre az Eskilstunaån folyó partján.",
+            "ro": "Un loc perfect pentru a vă relaxa pe malul râului Eskilstunaån.",
+            "en": "A perfect spot to relax by the Eskilstunaån river."
+          }
+        },
+        {
+          "name": {
+            "de": "Fors Kirche",
+            "hu": "Fors-templom",
+            "ro": "Biserica Fors",
+            "en": "Fors Church"
+          },
+          "coords": [
+            16.518,
+            59.366
+          ],
+          "category": "churches",
+          "arrive_at": "17:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Diese Kirche ist eine der ältesten in der Region, mit Teilen aus dem 11. Jahrhundert.",
+            "hu": "Ez a templom az egyik legrégebbi a régióban, egyes részei a 11. századból származnak.",
+            "ro": "Această biserică este una dintre cele mai vechi din regiune, cu părți datând din secolul al XI-lea.",
+            "en": "This church is one of the oldest in the region, with parts from the 11th century."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit der spirituellen Ruhe der Klosterkirche. Am Vormittag erkunden Sie das historische Handwerkerviertel Rademachersmedjorna und das Stadtmuseum. Nach einem gemütlichen Mittagessen in der Altstadt widmen Sie den Nachmittag der Kunst im Konstmuseum. Später entspannen Sie im grünen Rothoffsparken am Fluss, bevor Sie den Tag an der alten Fors Kirche ausklingen lassen.",
+        "hu": "Kezdje a napot a kolostortemplom spirituális csendjében. Délelőtt fedezze fel a Rademachersmedjorna történelmi kézműves negyedét és a Városi Múzeumot. Egy kellemes óvárosi ebéd után szentelje a délutánt a Művészeti Múzeumnak. Később pihenjen a zöldellő Rothoffsparkenben a folyóparton, mielőtt a napot az ősi Fors-templomnál zárná.",
+        "ro": "Începeți ziua cu liniștea spirituală a Bisericii Mănăstirii. În cursul dimineții, explorați cartierul istoric meșteșugăresc Rademachersmedjorna și Muzeul Orașului. După un prânz relaxant în Orașul Vechi, dedicați după-amiaza artei la Muzeul de Artă. Mai târziu, relaxați-vă în verdele parc Rothoff de lângă râu, înainte de a încheia ziua la vechea Biserică Fors.",
+        "en": "Start your day in the spiritual quiet of the Monastery Church. In the morning, explore the historic Rademachersmedjorna craft district and the City Museum. After a leisurely lunch in the Old Town, dedicate the afternoon to art at the Art Museum. Later, relax in the green Rothoff's Park by the river before ending your day at the ancient Fors Church."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Köttbullar (Fleischbällchen)",
+            "tip": "Probieren Sie die authentische Version in einem lokalen Gasthaus, serviert mit Preiselbeeren und Kartoffelpüree."
+          },
+          {
+            "name": "Smörgåstårta (Sandwich-Torte)",
+            "tip": "Eine schwedische Spezialität, die perfekt für ein leichtes Mittagessen ist. Suchen Sie nach einem Café, das sie frisch zubereitet."
+          },
+          {
+            "name": "Eskilstuna Ölkultur",
+            "tip": "Besuchen Sie die lokale Brauerei für eine Verkostung von Craft-Bieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Köttbullar (húsgolyók)",
+            "tip": "Kóstolja meg az autentikus változatot egy helyi vendéglőben, vörösáfonyával és krumplipürével tálalva."
+          },
+          {
+            "name": "Smörgåstårta (szendvicstorta)",
+            "tip": "Svéd különlegesség, tökéletes egy könnyű ebédhez. Keressen egy kávézót, ahol frissen készítik."
+          },
+          {
+            "name": "Eskilstuna Ölkultur",
+            "tip": "Látogasson el a helyi sörfőzdébe egy kézműves sörkóstolóra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Köttbullar (chiftele)",
+            "tip": "Încercați versiunea autentică la un han local, servită cu merișoare și piure de cartofi."
+          },
+          {
+            "name": "Smörgåstårta (tort de sandviș)",
+            "tip": "O specialitate suedeză perfectă pentru un prânz ușor. Căutați o cafenea care îl prepară proaspăt."
+          },
+          {
+            "name": "Eskilstuna Ölkultur",
+            "tip": "Vizitați fabrica de bere locală pentru o degustare de beri artizanale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Köttbullar (meatballs)",
+            "tip": "Try the authentic version at a local inn, served with lingonberries and mashed potatoes."
+          },
+          {
+            "name": "Smörgåstårta (sandwich cake)",
+            "tip": "A Swedish specialty that's perfect for a light lunch. Look for a café that makes it fresh."
+          },
+          {
+            "name": "Eskilstuna Ölkultur",
+            "tip": "Visit the local brewery for a tasting of craft beers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Eskilstunaån",
+            "tip": "Ein Spaziergang entlang des Flusses bietet viele ruhige Plätze zum Verweilen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rinmansparken",
+            "tip": "Ein kleinerer, zentraler Park, ideal für eine kurze Pause vom Sightseeing.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Klosterkirche Innenhof",
+            "tip": "Finden Sie einen Moment der Stille im historischen Herzen der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Eskilstunaån folyópart",
+            "tip": "Egy séta a folyó mentén számos csendes helyet kínál a megpihenésre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rinmansparken",
+            "tip": "Egy kisebb, központi park, ideális egy rövid szünetre a városnézés közben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A kolostortemplom udvara",
+            "tip": "Találjon egy csendes pillanatot a város történelmi szívében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Eskilstunaån",
+            "tip": "O plimbare de-a lungul râului oferă multe locuri liniștite pentru a vă opri.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Rinman",
+            "tip": "Un parc central mai mic, ideal pentru o scurtă pauză de la vizitarea obiectivelor turistice.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea Bisericii Mănăstirii",
+            "tip": "Găsiți un moment de liniște în inima istorică a orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Eskilstunaån River",
+            "tip": "A walk along the river offers many quiet spots to linger.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rinmansparken",
+            "tip": "A smaller, central park, ideal for a short break from sightseeing.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Monastery Church Courtyard",
+            "tip": "Find a moment of silence in the historic heart of the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handwerksläden in Rademachersmedjorna",
+            "tip": "Kaufen Sie einzigartiges, handgefertigtes Schmiedeeisen und andere Handwerksprodukte direkt vom Hersteller."
+          },
+          {
+            "name": "Lokale Delikatessen",
+            "tip": "Suchen Sie nach einem Geschäft, das lokalen Käse, Wurst oder Eingemachtes verkauft."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves boltok a Rademachersmedjornában",
+            "tip": "Vásároljon egyedi, kézzel készített kovácsoltvas tárgyakat és egyéb kézműves termékeket közvetlenül a készítőktől."
+          },
+          {
+            "name": "Helyi finomságok",
+            "tip": "Keressen egy boltot, amely helyi sajtokat, kolbászokat vagy befőtteket árul."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat în Rademachersmedjorna",
+            "tip": "Cumpărați obiecte unice din fier forjat și alte produse artizanale direct de la producători."
+          },
+          {
+            "name": "Delicatese locale",
+            "tip": "Căutați un magazin care vinde brânzeturi locale, cârnați sau conserve."
+          }
+        ],
+        "en": [
+          {
+            "name": "Craft shops in Rademachersmedjorna",
+            "tip": "Buy unique, handmade wrought iron and other craft products directly from the makers."
+          },
+          {
+            "name": "Local Delicacies",
+            "tip": "Look for a shop selling local cheeses, sausages, or preserves."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag auf Kopfsteinpflaster und Gehwegen unterwegs sein werden.",
+          "Die meisten Museen sind montags geschlossen, planen Sie entsprechend.",
+          "Eine wiederverwendbare Wasserflasche ist praktisch, es gibt mehrere Orte zum Auffüllen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap macskakövön és járdán fog sétálni.",
+          "A legtöbb múzeum hétfőn zárva tart, tervezzen ennek megfelelően.",
+          "Egy újrafelhasználható vizes palack praktikus, több helyen is újratöltheti."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge pe pavele și trotuare toată ziua.",
+          "Majoritatea muzeelor sunt închise lunea, planificați-vă în consecință.",
+          "O sticlă de apă reutilizabilă este la îndemână, există mai multe locuri pentru a o reumple."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be on cobblestones and pavement all day.",
+          "Most museums are closed on Mondays, so plan accordingly.",
+          "A reusable water bottle is handy; there are several places to refill it."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Sigurdsristningen (Sigurd-Ritzung)",
+            "hu": "Sigurd-ristning (Sigurd-faragás)",
+            "ro": "Gravura lui Sigurd (Sigurdsristningen)",
+            "en": "Sigurd Carving (Sigurdsristningen)"
+          },
+          "coords": [
+            16.425,
+            59.362
+          ],
+          "category": "historical",
+          "arrive_at": "09:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Lesen Sie die Sage von Sigurd, bevor Sie gehen, um die Details der Ritzung zu schätzen.",
+            "hu": "Olvassa el Sigurd mondáját, mielőtt odamegy, hogy értékelni tudja a faragás részleteit.",
+            "ro": "Citiți legenda lui Sigurd înainte de a merge pentru a aprecia detaliile gravurii.",
+            "en": "Read the saga of Sigurd before you go to appreciate the details of the carving."
+          }
+        },
+        {
+          "name": {
+            "de": "Munktell Museum",
+            "hu": "Munktell Múzeum",
+            "ro": "Muzeul Munktell",
+            "en": "Munktell Museum"
+          },
+          "coords": [
+            16.502,
+            59.375
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Ideal für Technikbegeisterte. Verpassen Sie nicht die Dampfmaschinen.",
+            "hu": "Ideális a technika rajongóinak. Ne hagyja ki a gőzgépeket!",
+            "ro": "Ideal pentru pasionații de tehnologie. Nu ratați motoarele cu aburi.",
+            "en": "Great for technology enthusiasts. Don't miss the steam engines."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Munktellstaden",
+            "hu": "Ebéd Munktellstadenben",
+            "ro": "Prânz în Munktellstaden",
+            "en": "Lunch in Munktellstaden"
+          },
+          "coords": [
+            16.503,
+            59.3745
+          ],
+          "category": "gastro",
+          "arrive_at": "12:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Dieses revitalisierte Industriegebiet bietet trendige Restaurants.",
+            "hu": "Ez a felújított ipari terület trendi éttermeket kínál.",
+            "ro": "Această zonă industrială revitalizată oferă restaurante la modă.",
+            "en": "This revitalized industrial area offers trendy dining options."
+          }
+        },
+        {
+          "name": {
+            "de": "Eskilstuna Konstmuseum",
+            "hu": "Eskilstuna Művészeti Múzeum",
+            "ro": "Muzeul de Artă Eskilstuna",
+            "en": "Eskilstuna Art Museum"
+          },
+          "coords": [
+            16.507,
+            59.3725
+          ],
+          "category": "museums",
+          "arrive_at": "14:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Eine großartige Ergänzung zum technischen Fokus des Munktell Museums.",
+            "hu": "Nagyszerű kiegészítése a Munktell Múzeum műszaki fókuszának.",
+            "ro": "O completare excelentă la focusul tehnic al Muzeului Munktell.",
+            "en": "A great complement to the technical focus of the Munktell Museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Rademachersmedjorna",
+            "hu": "Rademacher kovácsműhelyek",
+            "ro": "Fierăriile Rademacher",
+            "en": "Rademacher Forges"
+          },
+          "coords": [
+            16.5113,
+            59.3732
+          ],
+          "category": "museums",
+          "arrive_at": "15:25",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Rad durch die historischen Gassen, bevor Sie es abstellen.",
+            "hu": "Tekerjen végig a történelmi sikátorokon, mielőtt leparkolná a biciklit.",
+            "ro": "Plimbați-vă cu bicicleta pe aleile istorice înainte de a o parca.",
+            "en": "Cycle through the historic alleys before you park your bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Rothoffsparken",
+            "hu": "Rothoffsparken",
+            "ro": "Parcul Rothoff",
+            "en": "Rothoff's Park"
+          },
+          "coords": [
+            16.5118,
+            59.3683
+          ],
+          "category": "parks",
+          "arrive_at": "16:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und machen Sie einen Spaziergang am Fluss.",
+            "hu": "Zárja le a biciklijét és tegyen egy sétát a folyóparton.",
+            "ro": "Legați-vă bicicleta și faceți o plimbare de-a lungul râului.",
+            "en": "Lock up your bike and take a stroll by the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen am Fluss",
+            "hu": "Vacsora a folyóparton",
+            "ro": "Cină pe malul râului",
+            "en": "Dinner by the river"
+          },
+          "coords": [
+            16.509,
+            59.37
+          ],
+          "category": "gastro",
+          "arrive_at": "17:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht von einem der Restaurants mit Terrasse.",
+            "hu": "Élvezze a kilátást az egyik teraszos étteremből.",
+            "ro": "Bucurați-vă de priveliște de la unul dintre restaurantele cu terasă.",
+            "en": "Enjoy the view from one of the restaurants with a terrace."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt mit einer Reise in die Wikingerzeit bei der Sigurd-Ritzung. Am Vormittag tauchen Sie in die industrielle Vergangenheit im Munktell Museum ein, gefolgt von einem modernen Mittagessen. Der Nachmittag gehört der Kunst im Konstmuseum und dem Handwerk in Rademachersmedjorna. Schließlich radeln Sie zum entspannten Ausklang in den Rothoffsparken am Fluss, wo Sie den Tag mit einem Abendessen mit Aussicht beenden.",
+        "hu": "A kerékpártúra a viking korba tett utazással kezdődik a Sigurd-faragásnál. Délelőtt merüljön el az ipari múltban a Munktell Múzeumban, majd ebédeljen egy modern étteremben. A délután a Művészeti Múzeumé és a Rademachersmedjorna kézműves műhelyeié. Végül tekerjen el a pihentető Rothoffsparkenbe a folyóparton, ahol egy kilátással egybekötött vacsorával zárja a napot.",
+        "ro": "Turul cu bicicleta începe cu o călătorie în epoca vikingilor la Gravura lui Sigurd. În timpul dimineții, scufundați-vă în trecutul industrial la Muzeul Munktell, urmat de un prânz modern. După-amiaza este dedicată artei la Muzeul de Artă și meșteșugurilor la Fierăriile Rademacher. În cele din urmă, pedalați spre relaxantul Parc Rothoff de lângă râu, unde încheiați ziua cu o cină cu priveliște.",
+        "en": "Your bike tour starts with a journey to the Viking Age at the Sigurd Carving. In the morning, delve into the industrial past at the Munktell Museum, followed by a modern lunch. The afternoon is for art at the Art Museum and crafts at Rademacher Forges. Finally, cycle to the relaxing Rothoff's Park by the river, ending the day with dinner with a view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Räksmörgås (Garnelen-Sandwich)",
+            "tip": "Ein klassisches schwedisches Mittagessen, leicht und erfrischend nach einer Radtour."
+          },
+          {
+            "name": "Lokales Craft-Bier",
+            "tip": "Probieren Sie ein Bier von Eskilstuna Ölkultur, das perfekt zu einem herzhaften Essen passt."
+          },
+          {
+            "name": "Kanelbulle (Zimtschnecke)",
+            "tip": "Ein Muss für die 'Fika'-Pause am Nachmittag in einem gemütlichen Café."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Räksmörgås (garnélarákos szendvics)",
+            "tip": "Klasszikus svéd ebéd, könnyű és frissítő egy biciklitúra után."
+          },
+          {
+            "name": "Helyi kézműves sör",
+            "tip": "Kóstoljon meg egy sört az Eskilstuna Ölkulturtól, amely tökéletesen illik egy kiadós ételhez."
+          },
+          {
+            "name": "Kanelbulle (fahéjas csiga)",
+            "tip": "Kötelező a délutáni 'fika' szünethez egy hangulatos kávézóban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Räksmörgås (sandviș cu creveți)",
+            "tip": "Un prânz suedez clasic, ușor și răcoritor după o plimbare cu bicicleta."
+          },
+          {
+            "name": "Bere artizanală locală",
+            "tip": "Încercați o bere de la Eskilstuna Ölkultur, care se potrivește perfect cu o masă copioasă."
+          },
+          {
+            "name": "Kanelbulle (rulou cu scorțișoară)",
+            "tip": "O necesitate pentru pauza de 'fika' de după-amiază la o cafenea primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Räksmörgås (shrimp sandwich)",
+            "tip": "A classic Swedish lunch, light and refreshing after a bike ride."
+          },
+          {
+            "name": "Local Craft Beer",
+            "tip": "Try a beer from Eskilstuna Ölkultur, which pairs perfectly with a hearty meal."
+          },
+          {
+            "name": "Kanelbulle (cinnamon bun)",
+            "tip": "A must-have for the afternoon 'fika' break at a cozy café."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sigurdsristningen am frühen Morgen",
+            "tip": "Erleben Sie diesen mystischen Ort in der Stille des Morgens, bevor andere Besucher eintreffen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Fahrradweg entlang des Flusses",
+            "tip": "Der Weg bietet eine friedliche Fahrt abseits des Stadtverkehrs.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vilsta Naturreservat",
+            "tip": "Wenn Sie Zeit haben, ist eine kurze Radtour in dieses nahegelegene Reservat sehr lohnend.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sigurd-faragás kora reggel",
+            "tip": "Tapasztalja meg ezt a misztikus helyet a reggeli csendben, mielőtt a többi látogató megérkezik.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kerékpárút a folyó mentén",
+            "tip": "Az út békés tekerést kínál a városi forgalomtól távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vilsta természetvédelmi terület",
+            "tip": "Ha van ideje, egy rövid biciklitúra ebbe a közeli rezervátumba nagyon megéri.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gravura lui Sigurd dimineața devreme",
+            "tip": "Experimentați acest loc mistic în liniștea dimineții înainte de sosirea altor vizitatori.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pista de biciclete de-a lungul râului",
+            "tip": "Traseul oferă o plimbare liniștită, departe de traficul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rezervația Naturală Vilsta",
+            "tip": "Dacă aveți timp, o scurtă plimbare cu bicicleta în această rezervație din apropiere este foarte plină de satisfacții.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sigurd Carving early in the morning",
+            "tip": "Experience this mystical place in the quiet of the morning before other visitors arrive.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Bike path along the river",
+            "tip": "The path offers a peaceful ride away from the city traffic.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vilsta Nature Reserve",
+            "tip": "If you have time, a short bike ride to this nearby reserve is very rewarding.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsshop des Munktell Museums",
+            "tip": "Finden Sie einzigartige Geschenke und Bücher rund um das Thema Technik und Industrie."
+          },
+          {
+            "name": "Fahrradzubehör",
+            "tip": "In der Innenstadt gibt es mehrere Geschäfte für Fahrradliebhaber."
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Munktell Múzeum ajándékboltja",
+            "tip": "Találjon egyedi ajándékokat és könyveket a technológia és az ipar témakörében."
+          },
+          {
+            "name": "Kerékpár-kiegészítők",
+            "tip": "A belvárosban több bolt is található a kerékpározás szerelmeseinek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de suveniruri al Muzeului Munktell",
+            "tip": "Găsiți cadouri și cărți unice legate de tehnologie și industrie."
+          },
+          {
+            "name": "Accesorii pentru biciclete",
+            "tip": "Există mai multe magazine în centrul orașului pentru pasionații de ciclism."
+          }
+        ],
+        "en": [
+          {
+            "name": "Munktell Museum's gift shop",
+            "tip": "Find unique gifts and books related to technology and industry."
+          },
+          {
+            "name": "Bike accessories",
+            "tip": "There are several shops in the city center for cycling enthusiasts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad an einer der städtischen Stationen.",
+          "Prüfen Sie den Reifendruck und die Bremsen, bevor Sie losfahren.",
+          "Ein Helm wird dringend empfohlen.",
+          "Nutzen Sie die gut ausgebauten Radwege entlang des Flusses."
+        ],
+        "hu": [
+          "Béreljen kerékpárt a városi állomások egyikén.",
+          "Indulás előtt ellenőrizze a guminyomást és a fékeket.",
+          "Sisak használata erősen ajánlott.",
+          "Használja ki a folyó mentén húzódó, jól kiépített kerékpárutakat."
+        ],
+        "ro": [
+          "Închiriați o bicicletă de la una dintre stațiile orașului.",
+          "Verificați presiunea în anvelope și frânele înainte de a porni.",
+          "O cască este puternic recomandată.",
+          "Profitați de pistele de biciclete bine dezvoltate de-a lungul râului."
+        ],
+        "en": [
+          "Rent a bike from one of the city's stations.",
+          "Check your tire pressure and brakes before you set off.",
+          "A helmet is strongly recommended.",
+          "Take advantage of the well-developed bike paths along the river."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 15.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken Zoo (Cluster 1)",
+            "hu": "Parken Állatkert (1. klaszter)",
+            "ro": "Grădina Zoologică Parken (Cluster 1)",
+            "en": "Parken Zoo (Cluster 1)"
+          },
+          "coords": [
+            16.488,
+            59.378
+          ],
+          "category": "parks",
+          "arrive_at": "09:20",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Kommen Sie früh an, um die Tiere bei der Fütterung zu beobachten. Parken Sie hier für den Vormittag.",
+            "hu": "Érkezzen korán, hogy láthassa az állatok etetését. Parkoljon itt a délelőttre.",
+            "ro": "Ajungeți devreme pentru a observa hrănirea animalelor. Parcați aici pentru dimineață.",
+            "en": "Arrive early to watch the animal feedings. Park here for the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Zoos",
+            "hu": "Ebéd az állatkert közelében",
+            "ro": "Prânz lângă Grădina Zoologică",
+            "en": "Lunch near the Zoo"
+          },
+          "coords": [
+            16.489,
+            59.377
+          ],
+          "category": "gastro",
+          "arrive_at": "11:50",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Es gibt mehrere familienfreundliche Restaurants nur einen kurzen Spaziergang vom Zoo entfernt.",
+            "hu": "Több családbarát étterem is található egy rövid sétára az állatkerttől.",
+            "ro": "Există mai multe restaurante potrivite pentru familii la o scurtă plimbare de grădina zoologică.",
+            "en": "There are several family-friendly restaurants just a short walk from the zoo."
+          }
+        },
+        {
+          "name": {
+            "de": "Munktell Museum (Cluster 2)",
+            "hu": "Munktell Múzeum (2. klaszter)",
+            "ro": "Muzeul Munktell (Cluster 2)",
+            "en": "Munktell Museum (Cluster 2)"
+          },
+          "coords": [
+            16.502,
+            59.375
+          ],
+          "category": "museums",
+          "arrive_at": "13:15",
+          "stay_min": 100,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parken Sie auf dem großen Parkplatz und erkunden Sie das gesamte Munktellstaden-Gebiet zu Fuß.",
+            "hu": "Parkoljon a nagy parkolóban, és fedezze fel gyalog az egész Munktellstaden területét.",
+            "ro": "Parcați în parcarea mare și explorați întreaga zonă Munktellstaden pe jos.",
+            "en": "Park in the large lot and explore the entire Munktellstaden area on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Eskilstuna Konstmuseum",
+            "hu": "Eskilstuna Művészeti Múzeum",
+            "ro": "Muzeul de Artă Eskilstuna",
+            "en": "Eskilstuna Art Museum"
+          },
+          "coords": [
+            16.507,
+            59.3725
+          ],
+          "category": "museums",
+          "arrive_at": "15:00",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang über die Brücke vom Munktell-Gebiet.",
+            "hu": "Egy rövid séta a hídon át a Munktell területről.",
+            "ro": "O scurtă plimbare peste pod din zona Munktell.",
+            "en": "A short walk across the bridge from the Munktell area."
+          }
+        },
+        {
+          "name": {
+            "de": "Rademachersmedjorna (Cluster 3)",
+            "hu": "Rademacher kovácsműhelyek (3. klaszter)",
+            "ro": "Fierăriile Rademacher (Cluster 3)",
+            "en": "Rademacher Forges (Cluster 3)"
+          },
+          "coords": [
+            16.5113,
+            59.3732
+          ],
+          "category": "museums",
+          "arrive_at": "16:35",
+          "stay_min": 50,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Finden Sie einen Parkplatz in der Nähe und tauchen Sie in die Geschichte ein.",
+            "hu": "Találjon egy közeli parkolót, és merüljön el a történelemben.",
+            "ro": "Găsiți o parcare în apropiere și scufundați-vă în istorie.",
+            "en": "Find a nearby parking spot and immerse yourself in history."
+          }
+        },
+        {
+          "name": {
+            "de": "Eskilstuna Stadtmuseum",
+            "hu": "Eskilstuna Városi Múzeum",
+            "ro": "Muzeul Orașului Eskilstuna",
+            "en": "Eskilstuna City Museum"
+          },
+          "coords": [
+            16.5102,
+            59.3738
+          ],
+          "category": "museums",
+          "arrive_at": "17:30",
+          "stay_min": 0,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang, um das Äußere zu bewundern, da das Museum möglicherweise bereits schließt.",
+            "hu": "Egy rövid séta a külső megcsodálására, mivel a múzeum valószínűleg már bezár.",
+            "ro": "O scurtă plimbare pentru a admira exteriorul, deoarece muzeul s-ar putea să se închidă deja.",
+            "en": "A quick walk to admire the exterior as the museum may be closing."
+          }
+        },
+        {
+          "name": {
+            "de": "Sigurdsristningen (Optionaler Abstecher)",
+            "hu": "Sigurd-ristning (Opcionális kitérő)",
+            "ro": "Gravura lui Sigurd (Ocol opțional)",
+            "en": "Sigurd Carving (Optional Detour)"
+          },
+          "coords": [
+            16.425,
+            59.362
+          ],
+          "category": "historical",
+          "arrive_at": "18:00",
+          "stay_min": 30,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Planen Sie dies für das Ende des Tages ein, um den Sonnenuntergang an diesem historischen Ort zu erleben.",
+            "hu": "Tervezze ezt a nap végére, hogy megnézhesse a naplementét ezen a történelmi helyen.",
+            "ro": "Planificați acest lucru pentru sfârșitul zilei pentru a prinde apusul la acest sit istoric.",
+            "en": "Plan this for the end of the day to catch the sunset at this historic site."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen",
+            "hu": "Vacsora",
+            "ro": "Cină",
+            "en": "Dinner"
+          },
+          "coords": [
+            16.51,
+            59.371
+          ],
+          "category": "gastro",
+          "arrive_at": "18:30",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kehren Sie ins Stadtzentrum zurück, um eine größere Auswahl an Restaurants zu finden.",
+            "hu": "Térjen vissza a városközpontba a nagyobb étteremválasztékért.",
+            "ro": "Întoarceți-vă în centrul orașului pentru o selecție mai largă de restaurante.",
+            "en": "Return to the city center for a wider selection of restaurants."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Parken Zoo, dem ersten Cluster. Nach einem gemütlichen Mittagessen fahren Sie zum zweiten Cluster, dem modernen Munktellstaden, wo Sie das Munktell Museum und das Kunstmuseum zu Fuß erkunden. Am späten Nachmittag fahren Sie zum dritten Cluster, dem historischen Herzen der Stadt, um Rademachersmedjorna zu besichtigen. Optional können Sie den Tag mit einem Abstecher zur Sigurdsristningen beenden, um einen Hauch von Wikinger-Magie zu erleben.",
+        "hu": "Kezdje a napot a Parken Állatkertben, az első klaszterben. Egy kellemes ebéd után hajtson át a második klaszterbe, a modern Munktellstadenbe, ahol gyalog fedezheti fel a Munktell Múzeumot és a Művészeti Múzeumot. Késő délután vezessen a harmadik klaszterbe, a város történelmi szívébe, hogy meglátogassa a Rademachersmedjornát. Opcionálisan a napot egy kitérővel zárhatja a Sigurd-faragáshoz egy kis viking varázslatért.",
+        "ro": "Începeți ziua la Grădina Zoologică Parken, primul cluster. După un prânz relaxant, conduceți la al doilea cluster, modernul Munktellstaden, pentru a explora pe jos Muzeul Munktell și Muzeul de Artă. Spre sfârșitul după-amiezii, conduceți la al treilea cluster, inima istorică a orașului, pentru a vizita Fierăriile Rademacher. Opțional, încheiați ziua cu un ocol la Gravura lui Sigurd pentru o notă de magie vikingă.",
+        "en": "Start your day at Parken Zoo, the first cluster. After a leisurely lunch, drive to the second cluster, the modern Munktellstaden, to explore the Munktell Museum and the Art Museum on foot. In the late afternoon, drive to the third cluster, the city's historic heart, to visit Rademacher Forges. Optionally, end the day with a detour to the Sigurd Carving for a touch of Viking magic."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ärtsoppa och Pannkakor",
+            "tip": "Ein traditionelles schwedisches Gericht aus Erbsensuppe und Pfannkuchen, das oft donnerstags serviert wird."
+          },
+          {
+            "name": "Restaurant im Munktell-Viertel",
+            "tip": "Probieren Sie eines der modernen Bistros im umgebauten Industrieviertel."
+          },
+          {
+            "name": "Picknick im Parken Zoo",
+            "tip": "Sparen Sie Zeit und Geld, indem Sie Ihr eigenes Mittagessen mitbringen und es im Park genießen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ärtsoppa och Pannkakor",
+            "tip": "Hagyományos svéd étel, amely borsólevesből és palacsintából áll, gyakran csütörtökönként szolgálják fel."
+          },
+          {
+            "name": "Étterem a Munktell negyedben",
+            "tip": "Próbálja ki az átalakított ipari negyed modern bisztróinak egyikét."
+          },
+          {
+            "name": "Piknik a Parken Állatkertben",
+            "tip": "Takarítson meg időt és pénzt azzal, hogy saját ebédet hoz, és a parkban fogyasztja el."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ärtsoppa och Pannkakor",
+            "tip": "Un fel de mâncare tradițional suedez format din supă de mazăre și clătite, adesea servit joia."
+          },
+          {
+            "name": "Restaurant în cartierul Munktell",
+            "tip": "Încercați unul dintre bistrourile moderne din cartierul industrial reconvertit."
+          },
+          {
+            "name": "Picnic la Grădina Zoologică Parken",
+            "tip": "Economisiți timp și bani aducându-vă propriul prânz pentru a-l savura în parc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ärtsoppa och Pannkakor",
+            "tip": "A traditional Swedish dish of pea soup and pancakes, often served on Thursdays."
+          },
+          {
+            "name": "Restaurant in the Munktell district",
+            "tip": "Try one of the modern bistros in the converted industrial district."
+          },
+          {
+            "name": "Picnic at Parken Zoo",
+            "tip": "Save time and money by bringing your own lunch to enjoy in the park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vilsta Naturreservat",
+            "tip": "Nur eine kurze Autofahrt vom Zentrum entfernt, bietet dieses Reservat Wanderwege und Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Hjälmaren-Sees",
+            "tip": "Fahren Sie zum nahegelegenen See, um einen weiten Blick und eine friedliche Umgebung zu genießen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Die Stille der Fors Kirche",
+            "tip": "Eine der ältesten Kirchen der Gegend, ein Ort der Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vilsta természetvédelmi terület",
+            "tip": "Csak egy rövid autóútra a központtól, ez a rezervátum túraútvonalakat és csendet kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hjälmaren-tó partja",
+            "tip": "Hajtson el a közeli tóhoz a tágas kilátásért és a békés környezetért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Fors-templom csendje",
+            "tip": "A környék egyik legrégebbi temploma, az elmélyülés helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rezervația Naturală Vilsta",
+            "tip": "La doar o scurtă călătorie cu mașina de centru, această rezervație oferă trasee de drumeții și liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul lacului Hjälmaren",
+            "tip": "Conduceți până la lacul din apropiere pentru priveliști expansive și un cadru pașnic.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Liniștea Bisericii Fors",
+            "tip": "Una dintre cele mai vechi biserici din zonă, un loc de contemplare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vilsta Nature Reserve",
+            "tip": "Just a short drive from the center, this reserve offers hiking trails and tranquility.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Shores of Lake Hjälmaren",
+            "tip": "Take a drive to the nearby lake for expansive views and a peaceful setting.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "The quiet of Fors Church",
+            "tip": "One of the oldest churches in the area, a place for contemplation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Tuna Park Einkaufszentrum",
+            "tip": "Ein modernes Einkaufszentrum für alle Ihre Bedürfnisse, etwas außerhalb des Zentrums gelegen."
+          },
+          {
+            "name": "Hofläden auf dem Land",
+            "tip": "Wenn Sie außerhalb der Stadt unterwegs sind, halten Sie Ausschau nach Schildern für 'Gårdsbutik', um lokale Produkte zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tuna Park bevásárlóközpont",
+            "tip": "Modern bevásárlóközpont minden igényt kielégít, kissé a központon kívül található."
+          },
+          {
+            "name": "Tanyasi boltok vidéken",
+            "tip": "Ha a városon kívül jár, figyelje a 'Gårdsbutik' táblákat, hogy helyi termékeket vásárolhasson."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Tuna Park",
+            "tip": "Un centru comercial modern pentru toate nevoile dumneavoastră, situat puțin în afara centrului."
+          },
+          {
+            "name": "Magazine de fermă la țară",
+            "tip": "Dacă sunteți în afara orașului, căutați semnele pentru 'Gårdsbutik' pentru a cumpăra produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tuna Park Shopping Center",
+            "tip": "A modern shopping mall for all your needs, located slightly outside the center."
+          },
+          {
+            "name": "Farm shops in the countryside",
+            "tip": "If you're driving outside the city, look for signs for 'Gårdsbutik' to buy local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in der Innenstadt kann teuer sein; nutzen Sie die Parkplätze bei den Clustern.",
+          "Laden Sie eine Offline-Karte herunter, falls die Mobilfunkverbindung außerhalb der Stadt schlecht ist.",
+          "Achten Sie auf Geschwindigkeitsbegrenzungen, insbesondere in Wohngebieten.",
+          "Die meisten Parkautomaten akzeptieren nur Karten oder Apps."
+        ],
+        "hu": [
+          "A belvárosi parkolás drága lehet; használja a klasztereknél lévő parkolókat.",
+          "Töltsön le egy offline térképet, ha a mobilkapcsolat gyenge a városon kívül.",
+          "Ügyeljen a sebességkorlátozásokra, különösen a lakóövezetekben.",
+          "A legtöbb parkolóautomata csak kártyát vagy alkalmazást fogad el."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi costisitoare; utilizați parcările de la clustere.",
+          "Descărcați o hartă offline în caz că semnalul mobil este slab în afara orașului.",
+          "Fiți atenți la limitele de viteză, în special în zonele rezidențiale.",
+          "Majoritatea parcometrelor acceptă doar carduri sau aplicații."
+        ],
+        "en": [
+          "Parking in the city center can be expensive; use the parking lots at the clusters.",
+          "Download an offline map in case mobile service is poor outside the city.",
+          "Pay attention to speed limits, especially in residential areas.",
+          "Most parking meters accept only cards or apps."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 8.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptbahnhof (Cluster 1)",
+            "hu": "Főpályaudvar (1. klaszter)",
+            "ro": "Gara Centrală (Cluster 1)",
+            "en": "Central Station (Cluster 1)"
+          },
+          "coords": [
+            16.5126,
+            59.3714
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für den Bus, um sich unbegrenzt fortzubewegen.",
+            "hu": "Vásároljon napijegyet a buszra a korlátlan utazáshoz.",
+            "ro": "Cumpărați un bilet de o zi pentru autobuz pentru călătorii nelimitate.",
+            "en": "Buy a day pass for the bus for unlimited travel."
+          }
+        },
+        {
+          "name": {
+            "de": "Rademachersmedjorna",
+            "hu": "Rademacher kovácsműhelyek",
+            "ro": "Fierăriile Rademacher",
+            "en": "Rademacher Forges"
+          },
+          "coords": [
+            16.5113,
+            59.3732
+          ],
+          "category": "museums",
+          "arrive_at": "09:15",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom zentralen Busbahnhof Fristadstorget.",
+            "hu": "Rövid séta a Fristadstorget központi buszpályaudvartól.",
+            "ro": "O scurtă plimbare de la autogara centrală Fristadstorget.",
+            "en": "A short walk from the central bus station, Fristadstorget."
+          }
+        },
+        {
+          "name": {
+            "de": "Klosterkirche von Eskilstuna",
+            "hu": "Eskilstunai kolostortemplom",
+            "ro": "Biserica Mănăstirii din Eskilstuna",
+            "en": "Eskilstuna Klosterkyrka"
+          },
+          "coords": [
+            16.5165,
+            59.3705
+          ],
+          "category": "churches",
+          "arrive_at": "11:00",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie den Spaziergang durch die Innenstadt auf dem Weg hierher.",
+            "hu": "Élvezze a sétát a belvároson át idefelé.",
+            "ro": "Bucurați-vă de plimbarea prin centrul orașului în drum spre aici.",
+            "en": "Enjoy the walk through the city center on your way here."
+          }
+        },
+        {
+          "name": {
+            "de": "Munktell Museum (Cluster 2)",
+            "hu": "Munktell Múzeum (2. klaszter)",
+            "ro": "Muzeul Munktell (Cluster 2)",
+            "en": "Munktell Museum (Cluster 2)"
+          },
+          "coords": [
+            16.502,
+            59.375
+          ],
+          "category": "museums",
+          "arrive_at": "12:15",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Stadtzentrum. Die Fahrt dauert nur wenige Minuten.",
+            "hu": "Menjen busszal a városközpontból. Az út csak néhány percig tart.",
+            "ro": "Luați un autobuz din centrul orașului. Călătoria durează doar câteva minute.",
+            "en": "Take a bus from the city center. The ride is just a few minutes."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Kunst",
+            "hu": "Ebéd és művészet",
+            "ro": "Prânz și Artă",
+            "en": "Lunch and Art"
+          },
+          "coords": [
+            16.507,
+            59.3725
+          ],
+          "category": "gastro",
+          "arrive_at": "14:15",
+          "stay_min": 150,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Essen Sie in Munktellstaden zu Mittag und besuchen Sie dann das nahegelegene Kunstmuseum.",
+            "hu": "Ebédeljen Munktellstadenben, majd látogasson el a közeli Művészeti Múzeumba.",
+            "ro": "Luați prânzul în Munktellstaden, apoi vizitați Muzeul de Artă din apropiere.",
+            "en": "Have lunch in Munktellstaden, then visit the Art Museum nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Parken Zoo (Cluster 3)",
+            "hu": "Parken Állatkert (3. klaszter)",
+            "ro": "Grădina Zoologică Parken (Cluster 3)",
+            "en": "Parken Zoo (Cluster 3)"
+          },
+          "coords": [
+            16.488,
+            59.378
+          ],
+          "category": "parks",
+          "arrive_at": "17:05",
+          "stay_min": 30,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus für den letzten Teil des Tages. Überprüfen Sie die Schließzeiten des Zoos.",
+            "hu": "Menjen busszal a nap utolsó részére. Ellenőrizze az állatkert zárási idejét.",
+            "ro": "Luați un autobuz pentru ultima parte a zilei. Verificați orele de închidere ale grădinii zoologice.",
+            "en": "Take a bus for the last part of the day. Check the zoo's closing times."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im Herzen der Stadt, wo Sie das historische Zentrum mit Rademachersmedjorna und der Klosterkirche zu Fuß erkunden. Am Mittag nehmen Sie den Bus zum modernen Munktell-Viertel für eine Dosis Industrie- und Kunstgeschichte, kombiniert mit einem Mittagessen. Am späten Nachmittag bringt Sie ein weiterer Bus zum Parken Zoo für einen entspannten Abschluss des Tages, bevor Sie ins Zentrum zurückkehren.",
+        "hu": "A nap a város szívében kezdődik, ahol gyalogosan fedezi fel a történelmi központot a Rademachersmedjornával és a kolostortemplommal. Délben busszal utazik a modern Munktell negyedbe egy adag ipar- és művészettörténetért, ebéddel egybekötve. Késő délután egy másik busz viszi el a Parken Állatkertbe a nap pihentető lezárásaként, mielőtt visszatérne a központba.",
+        "ro": "Ziua începe în inima orașului, explorând pe jos centrul istoric cu Fierăriile Rademacher și Biserica Mănăstirii. La prânz, luați autobuzul spre cartierul modern Munktell pentru o doză de istorie industrială și artă, combinată cu prânzul. Spre sfârșitul după-amiezii, un alt autobuz vă va duce la Grădina Zoologică Parken pentru o încheiere relaxantă a zilei înainte de a vă întoarce în centru.",
+        "en": "Your day starts in the heart of the city, exploring the historic center on foot with Rademacher Forges and the Monastery Church. At noon, you'll take a bus to the modern Munktell district for a dose of industrial and art history, combined with lunch. In the late afternoon, another bus takes you to Parken Zoo for a relaxing end to the day before returning to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Café in der Altstadt",
+            "tip": "Machen Sie eine 'Fika'-Pause mit Kaffee und Gebäck in einem der charmanten Cafés in der Nähe von Rademachersmedjorna."
+          },
+          {
+            "name": "Mittagessen in Munktellstaden",
+            "tip": "Die umgebaute Fabrikhalle bietet eine coole Kulisse für ein zwangloses Mittagessen."
+          },
+          {
+            "name": "Supermarkt-Picknick",
+            "tip": "Kaufen Sie sich Sandwiches und Getränke für ein schnelles und günstiges Essen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kávézó az Óvárosban",
+            "tip": "Tartson egy 'fika' szünetet kávéval és süteménnyel a Rademachersmedjorna közelében található bájos kávézók egyikében."
+          },
+          {
+            "name": "Ebéd Munktellstadenben",
+            "tip": "Az átalakított gyárépület menő hátteret biztosít egy laza ebédhez."
+          },
+          {
+            "name": "Szupermarket piknik",
+            "tip": "Vásároljon szendvicseket és italokat egy gyors és olcsó étkezéshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenea în Orașul Vechi",
+            "tip": "Faceți o pauză 'fika' cu cafea și produse de patiserie la una dintre cafenelele fermecătoare de lângă Rademachersmedjorna."
+          },
+          {
+            "name": "Prânz în Munktellstaden",
+            "tip": "Hala fabricii reconvertite oferă un cadru cool pentru un prânz casual."
+          },
+          {
+            "name": "Picnic de la supermarket",
+            "tip": "Cumpărați sandvișuri și băuturi pentru o masă rapidă și ieftină."
+          }
+        ],
+        "en": [
+          {
+            "name": "Café in the Old Town",
+            "tip": "Take a 'fika' break with coffee and pastries at one of the charming cafés near Rademachersmedjorna."
+          },
+          {
+            "name": "Lunch in Munktellstaden",
+            "tip": "The converted factory hall provides a cool backdrop for a casual lunch."
+          },
+          {
+            "name": "Supermarket picnic",
+            "tip": "Grab sandwiches and drinks for a quick and budget-friendly meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rinmansparken",
+            "tip": "Ein zentraler, aber oft übersehener Park, perfekt für eine kurze Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang am Fluss",
+            "tip": "Der Weg zwischen den Bushaltestellen kann entlang des Flusses sehr friedlich sein.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eine Bank in Rothoffsparken",
+            "tip": "Steigen Sie eine Haltestelle früher aus und genießen Sie die Ruhe im Park.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rinmansparken",
+            "tip": "Központi, de gyakran figyelmen kívül hagyott park, tökéletes egy rövid szünetre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Séta a folyóparton",
+            "tip": "A buszmegállók közötti út nagyon békés lehet a folyó mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy pad a Rothoffsparkenben",
+            "tip": "Szálljon le egy megállóval korábban, és élvezze a park csendjét.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Rinman",
+            "tip": "Un parc central, dar adesea trecut cu vederea, perfect pentru o scurtă pauză.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare pe malul râului",
+            "tip": "Traseul dintre stațiile de autobuz poate fi foarte pașnic de-a lungul râului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O bancă în Parcul Rothoff",
+            "tip": "Coborâți cu o stație mai devreme și bucurați-vă de liniștea din parc.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rinmansparken",
+            "tip": "A central but often overlooked park, perfect for a short break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Walk by the river",
+            "tip": "The walk between bus stops can be very peaceful along the river.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A bench in Rothoff's Park",
+            "tip": "Get off one stop early and enjoy the quiet in the park.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Kungsgatan",
+            "tip": "Die Haupteinkaufsstraße der Stadt ist leicht zu Fuß vom zentralen Busbahnhof aus erreichbar."
+          },
+          {
+            "name": "Museumsshops",
+            "tip": "Die besten Souvenirs finden Sie oft in den Museumsshops, die Sie besuchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok a Kungsgatanon",
+            "tip": "A város fő bevásárlóutcája könnyen megközelíthető gyalog a központi buszpályaudvartól."
+          },
+          {
+            "name": "Múzeumi boltok",
+            "tip": "A legjobb szuveníreket gyakran a meglátogatott múzeumok boltjaiban találja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine pe Kungsgatan",
+            "tip": "Principala stradă comercială a orașului este ușor accesibilă pe jos de la autogara centrală."
+          },
+          {
+            "name": "Magazinele muzeelor",
+            "tip": "Cele mai bune suveniruri se găsesc adesea în magazinele muzeelor pe care le vizitați."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops on Kungsgatan",
+            "tip": "The city's main shopping street is easily walkable from the central bus station."
+          },
+          {
+            "name": "Museum shops",
+            "tip": "The best souvenirs are often found in the gift shops of the museums you visit."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Verwenden Sie eine ÖPNV-App, um Busfahrpläne in Echtzeit zu verfolgen.",
+          "Eine Tageskarte ist in der Regel günstiger als mehrere Einzelfahrten.",
+          "Achten Sie darauf, an der Haltestelle das Handzeichen zu geben, damit der Bus anhält.",
+          "Nicht alle Buslinien fahren am späten Abend noch häufig."
+        ],
+        "hu": [
+          "Használjon tömegközlekedési alkalmazást a valós idejű buszmenetrendek követéséhez.",
+          "A napijegy általában olcsóbb, mint több különálló jegy.",
+          "Ne felejtsen el jelezni a megállóban, hogy a busz megálljon.",
+          "Nem minden buszjárat közlekedik sűrűn késő este."
+        ],
+        "ro": [
+          "Utilizați o aplicație de transport public pentru a urmări orarele autobuzelor în timp real.",
+          "Un bilet de o zi este de obicei mai ieftin decât mai multe călătorii individuale.",
+          "Asigurați-vă că faceți semn la stație pentru ca autobuzul să oprească.",
+          "Nu toate rutele de autobuz circulă frecvent seara târziu."
+        ],
+        "en": [
+          "Use a public transport app to track bus schedules in real-time.",
+          "A day pass is usually cheaper than multiple single trips.",
+          "Be sure to signal at the stop for the bus to pull over.",
+          "Not all bus lines run frequently late in the evening."
+        ]
+      }
+    }
+  }
+}

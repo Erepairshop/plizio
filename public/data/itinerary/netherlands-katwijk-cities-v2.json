@@ -1,0 +1,1454 @@
+{
+  "city_id": "netherlands-katwijk-cities-v2",
+  "anchor": {
+    "name": "Katwijk",
+    "coords": [
+      4.414,
+      52.201
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Katwijk aan den Rijn (Historisches Zentrum)",
+            "hu": "Katwijk aan den Rijn (Történelmi központ)",
+            "ro": "Katwijk aan den Rijn (Centrul istoric)",
+            "en": "Katwijk aan den Rijn (Historic Center)"
+          },
+          "coords": [
+            4.421,
+            52.204
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie mit einem Spaziergang durch die alten Gassen, um die Atmosphäre aufzusaugen.",
+            "hu": "Kezdje a napot egy sétával a régi utcácskákban, hogy magába szívja a hangulatot.",
+            "ro": "Începeți cu o plimbare pe aleile vechi pentru a absorbi atmosfera.",
+            "en": "Start with a stroll through the old alleys to soak up the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Andreaskerk",
+            "hu": "András-templom",
+            "ro": "Biserica Sf. Andrei (Andreaskerk)",
+            "en": "Andreas Church (Andreaskerk)"
+          },
+          "coords": [
+            4.394,
+            52.203
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:34",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 34,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Beachten Sie die markante Architektur und die ruhige Umgebung.",
+            "hu": "Figyelje meg a jellegzetes építészetet és a csendes környezetet.",
+            "ro": "Observați arhitectura distinctivă și împrejurimile liniștite.",
+            "en": "Note the distinctive architecture and the quiet surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Spinozahuis",
+            "hu": "Spinoza-ház",
+            "ro": "Casa Spinoza",
+            "en": "Spinoza House"
+          },
+          "coords": [
+            4.418,
+            52.197
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:42",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Ein Muss für Philosophie-Interessierte; hier lebte und starb Spinoza.",
+            "hu": "A filozófia iránt érdeklődőknek kötelező; Spinoza itt élt és halt meg.",
+            "ro": "O vizită obligatorie pentru pasionații de filozofie; Spinoza a trăit și a murit aici.",
+            "en": "A must-visit for philosophy enthusiasts; Spinoza lived and died here."
+          }
+        },
+        {
+          "name": {
+            "de": "Katwijks Museum",
+            "hu": "Katwijki Múzeum",
+            "ro": "Muzeul Katwijks",
+            "en": "Katwijks Museum"
+          },
+          "coords": [
+            4.391,
+            52.205
+          ],
+          "category": "museums",
+          "arrive_at": "13:38",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 56,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Kombiniert Kunst und lokale Geschichte, perfekt für einen Einblick in das Leben am Meer.",
+            "hu": "Ötvözi a művészetet és a helytörténetet, tökéletes bepillantást nyújt a tengerparti életbe.",
+            "ro": "Combină arta și istoria locală, perfect pentru o incursiune în viața de la malul mării.",
+            "en": "Combines art and local history, perfect for an insight into life by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Vuurbaak (Leuchtturm)",
+            "hu": "Vuurbaak (Világítótorony)",
+            "ro": "Farul Vuurbaak",
+            "en": "Vuurbaak (Lighthouse)"
+          },
+          "coords": [
+            4.39,
+            52.207
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:20",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bietet eine großartige Aussicht, aber prüfen Sie die Öffnungszeiten für den Aufstieg.",
+            "hu": "Nagyszerű kilátást nyújt, de ellenőrizze a nyitvatartási időt, ha fel akar menni.",
+            "ro": "Oferă o priveliște minunată, dar verificați programul pentru a urca.",
+            "en": "Offers a great view, but check the opening hours for climbing."
+          }
+        },
+        {
+          "name": {
+            "de": "Boulevard und Strand",
+            "hu": "Sétány és strand",
+            "ro": "Bulevard și plajă",
+            "en": "Boulevard and Beach"
+          },
+          "coords": [
+            4.388,
+            52.21
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:51",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Tag bei einem langen Spaziergang am Meer ausklingen zu lassen.",
+            "hu": "Tökéletes hely a nap befejezéséhez egy hosszú tengerparti sétával.",
+            "ro": "Locul perfect pentru a încheia ziua cu o plimbare lungă pe malul mării.",
+            "en": "The perfect place to end the day with a long walk by the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Katwijk beginnt im historischen Herzen von Katwijk aan den Rijn, wo Sie durch charmante alte Straßen schlendern. Am Vormittag erkunden Sie das kulturelle Erbe der Stadt mit Besuchen der Andreaskerk und dem Spinozahuis, dem ehemaligen Wohnsitz des berühmten Philosophen. Der Nachmittag ist ganz dem Meer gewidmet. Nach einem faszinierenden Besuch im Katwijks Museum, das Kunst und Fischereigeschichte vereint, erklimmen Sie den Leuchtturm Vuurbaak für eine atemberaubende Aussicht. Der Abend gehört dem kilometerlangen Sandstrand. Schlendern Sie den Boulevard entlang, genießen Sie die frische Meeresbrise und beobachten Sie, wie die Sonne über der Nordsee untergeht, ein perfekter Abschluss für einen erfüllten Tag.",
+        "hu": "A katwijki napja Katwijk aan den Rijn történelmi szívében kezdődik, ahol bájos, régi utcákon sétálhat. A délelőtt folyamán felfedezheti a város kulturális örökségét, ellátogatva az András-templomhoz és a Spinoza-házhoz, a híres filozófus egykori lakhelyéhez. A délután teljes egészében a tengeré. A művészetet és a halászat történetét ötvöző Katwijki Múzeum lenyűgöző látogatása után megmássza a Vuurbaak világítótornyot a lélegzetelállító kilátásért. Az este a kilométereken át tartó homokos strandé. Sétáljon végig a sétányon, élvezze a friss tengeri szellőt, és nézze, ahogy a nap lenyugszik az Északi-tenger felett – tökéletes lezárása egy tartalmas napnak.",
+        "ro": "Ziua dvs. în Katwijk începe în inima istorică a Katwijk aan den Rijn, unde vă plimbați pe străzi vechi și fermecătoare. În cursul dimineții, explorați moștenirea culturală a orașului cu vizite la Biserica Sf. Andrei și Casa Spinoza, fosta reședință a celebrului filozof. După-amiaza este dedicată în întregime mării. După o vizită fascinantă la Muzeul Katwijks, care combină arta și istoria pescuitului, urcați în farul Vuurbaak pentru o priveliște uluitoare. Seara este rezervată pentru plaja cu nisip lungă de kilometri. Plimbați-vă pe bulevard, bucurați-vă de briza proaspătă a mării și priviți soarele apunând peste Marea Nordului, o încheiere perfectă pentru o zi împlinită.",
+        "en": "Your day in Katwijk begins in the historic heart of Katwijk aan den Rijn, where you'll stroll through charming old streets. In the morning, you'll explore the town's cultural heritage with visits to the Andreaskerk and the Spinoza House, the former residence of the famous philosopher. The afternoon is all about the sea. After a fascinating visit to the Katwijks Museum, which combines art and fishing history, you'll climb the Vuurbaak lighthouse for a breathtaking view. The evening belongs to the kilometer-long sandy beach. Stroll along the boulevard, enjoy the fresh sea breeze, and watch the sun set over the North Sea, a perfect end to a fulfilling day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Haring (Hering)",
+            "tip": "Probieren Sie ihn frisch von einem der vielen Fischstände am Boulevard."
+          },
+          {
+            "name": "Kibbeling",
+            "tip": "Frittierte Kabeljaustücke, ein klassischer niederländischer Snack am Meer."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Kleine, flauschige Pfannkuchen, oft mit Puderzucker und Butter serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Haring (Hering)",
+            "tip": "Kóstolja meg frissen a sétány egyik halasbódéjánál."
+          },
+          {
+            "name": "Kibbeling",
+            "tip": "Sült tőkehal darabok, klasszikus holland tengerparti snack."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Apró, puha palacsinták, gyakran porcukorral és vajjal tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Haring (Hering)",
+            "tip": "Încercați-l proaspăt de la una dintre numeroasele tarabe de pește de pe bulevard."
+          },
+          {
+            "name": "Kibbeling",
+            "tip": "Bucăți de cod prăjite, o gustare clasică olandeză la malul mării."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Clătite mici și pufoase, adesea servite cu zahăr pudră și unt."
+          }
+        ],
+        "en": [
+          {
+            "name": "Haring (Herring)",
+            "tip": "Try it fresh from one of the many fish stalls on the boulevard."
+          },
+          {
+            "name": "Kibbeling",
+            "tip": "Fried cod pieces, a classic Dutch seaside snack."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Small, fluffy pancakes, often served with powdered sugar and butter."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Dünen südlich des Boulevards",
+            "tip": "Ein ruhiger Spaziergang durch die Dünenlandschaft.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sonnenuntergang am Strand",
+            "tip": "Finden Sie einen ruhigen Platz und beobachten Sie das Farbenspiel am Himmel.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Panbos Waldgebiet",
+            "tip": "Obwohl etwas weiter entfernt, ideal für eine friedliche Flucht in die Natur.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dűnék a sétánytól délre",
+            "tip": "Egy csendes séta a dűnék között.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Naplemente a strandon",
+            "tip": "Keressen egy csendes helyet, és figyelje az égbolt színeit.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Panbos erdő",
+            "tip": "Bár kissé távolabb van, ideális egy békés kiruccanáshoz a természetbe.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dunele la sud de bulevard",
+            "tip": "O plimbare liniștită prin peisajul dunelor.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Apus de soare pe plajă",
+            "tip": "Găsiți un loc liniștit și priviți jocul de culori de pe cer.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pădurea Panbos",
+            "tip": "Deși puțin mai departe, este ideală pentru o evadare pașnică în natură.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dunes south of the boulevard",
+            "tip": "A quiet walk through the dune landscape.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sunset on the beach",
+            "tip": "Find a quiet spot and watch the play of colors in the sky.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Panbos Forest",
+            "tip": "Although a bit further away, ideal for a peaceful escape into nature.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Princestraat",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus Boutiquen und bekannten Marken."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Findet jeden Freitag statt und bietet lokale Produkte und Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Princestraat",
+            "tip": "A fő bevásárlóutca butikok és ismert márkák keverékével."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Minden pénteken tartják, helyi termékeket és különlegességeket kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Princestraat",
+            "tip": "Strada principală de cumpărături cu un amestec de buticuri și mărci cunoscute."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Are loc în fiecare vineri, oferind produse locale și specialități."
+          }
+        ],
+        "en": [
+          {
+            "name": "Princestraat",
+            "tip": "The main shopping street with a mix of boutiques and well-known brands."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "Takes place every Friday, offering local products and specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Eine winddichte Jacke ist auch im Sommer eine gute Idee.",
+          "Die meisten Sehenswürdigkeiten sind kompakt gelegen, aber der Spaziergang vom alten zum neuen Teil ist beträchtlich.",
+          "Nehmen Sie sich Zeit für eine Pause in einem der Strandpavillons."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "Egy szélálló dzseki nyáron is jó ötlet.",
+          "A legtöbb látnivaló közel van egymáshoz, de a régi és új rész közötti séta jelentős.",
+          "Szánjon időt egy pihenőre a strand egyik pavilonjában."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe jos.",
+          "O geacă rezistentă la vânt este o idee bună chiar și vara.",
+          "Majoritatea atracțiilor sunt compacte, dar plimbarea de la partea veche la cea nouă este considerabilă.",
+          "Acordați-vă timp pentru o pauză la unul dintre pavilioanele de pe plajă."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "A windproof jacket is a good idea, even in summer.",
+          "Most sights are compactly located, but the walk from the old to the new part is considerable.",
+          "Take time for a break at one of the beach pavilions."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 19.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Katwijk aan den Rijn",
+            "hu": "Katwijk aan den Rijn",
+            "ro": "Katwijk aan den Rijn",
+            "en": "Katwijk aan den Rijn"
+          },
+          "coords": [
+            4.421,
+            52.204
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Radtour im malerischen alten Dorfzentrum.",
+            "hu": "Indítsa a kerékpártúrát a festői régi faluközpontban.",
+            "ro": "Începeți turul cu bicicleta în pitorescul centru vechi al satului.",
+            "en": "Start your bike tour in the picturesque old village center."
+          }
+        },
+        {
+          "name": {
+            "de": "Vuurbaak (Leuchtturm)",
+            "hu": "Vuurbaak (Világítótorony)",
+            "ro": "Farul Vuurbaak",
+            "en": "Vuurbaak (Lighthouse)"
+          },
+          "coords": [
+            4.39,
+            52.207
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:00",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp für ein Foto des ikonischen Leuchtturms.",
+            "hu": "Egy rövid megálló egy fotóra az ikonikus világítótoronynál.",
+            "ro": "O oprire scurtă pentru o fotografie a farului iconic.",
+            "en": "A quick stop for a photo of the iconic lighthouse."
+          }
+        },
+        {
+          "name": {
+            "de": "Boulevard (Fahrt nach Norden)",
+            "hu": "Sétány (Északi irány)",
+            "ro": "Bulevard (spre nord)",
+            "en": "Boulevard (Ride North)"
+          },
+          "coords": [
+            4.385,
+            52.215
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:43",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Fahrt entlang des Meeres mit fantastischer Aussicht.",
+            "hu": "Élvezze a tengerparti utat fantasztikus kilátással.",
+            "ro": "Bucurați-vă de plimbarea pe malul mării cu priveliști fantastice.",
+            "en": "Enjoy the ride along the sea with fantastic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Panbos",
+            "hu": "Panbos",
+            "ro": "Pădurea Panbos",
+            "en": "Panbos"
+          },
+          "coords": [
+            4.372,
+            52.185
+          ],
+          "category": "natural features",
+          "arrive_at": "12:34",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Ein schönes Waldgebiet für eine Pause vom Strand, mit tollen Wegen.",
+            "hu": "Egy szép erdős terület a strandtól való pihenéshez, remek ösvényekkel.",
+            "ro": "O zonă forestieră frumoasă pentru o pauză de la plajă, cu poteci grozave.",
+            "en": "A beautiful forest area for a break from the beach, with great paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Katwijks Museum",
+            "hu": "Katwijki Múzeum",
+            "ro": "Muzeul Katwijks",
+            "en": "Katwijks Museum"
+          },
+          "coords": [
+            4.391,
+            52.205
+          ],
+          "category": "museums",
+          "arrive_at": "14:48",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 44,
+          "hop_from_prev_km": 7.2,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und tauchen Sie in die lokale Kunstszene ein.",
+            "hu": "Parkolja le a kerékpárt, és merüljön el a helyi művészeti életben.",
+            "ro": "Parcați bicicleta și scufundați-vă în scena artistică locală.",
+            "en": "Park your bike and dive into the local art scene."
+          }
+        },
+        {
+          "name": {
+            "de": "Andreaskerk",
+            "hu": "András-templom",
+            "ro": "Biserica Sf. Andrei (Andreaskerk)",
+            "en": "Andreas Church (Andreaskerk)"
+          },
+          "coords": [
+            4.394,
+            52.203
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:30",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein letzter kultureller Halt, bevor Sie den Abend ausklingen lassen.",
+            "hu": "Egy utolsó kulturális megálló, mielőtt lezárná az estét.",
+            "ro": "O ultimă oprire culturală înainte de a încheia seara.",
+            "en": "One last cultural stop before you wind down for the evening."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel und beginnen Sie Ihre Radtour im historischen Katwijk aan den Rijn. Von dort aus radeln Sie zur Küste, um den ikonischen Leuchtturm zu bewundern. Der Vormittag ist eine Ode an die Nordsee, während Sie den Boulevard entlangfahren und die Meeresbrise genießen. Ein Abstecher führt Sie ins grüne Herz der Region, den Panbos, ideal für eine naturverbundene Mittagspause. Am Nachmittag kehren Sie ins Zentrum zurück, um im Katwijks Museum in die lokale Kultur einzutauchen, gefolgt von einem besinnlichen Moment in der Andreaskerk. Zum Abschluss des Tages können Sie mit dem Rad zu einem Strandpavillon fahren und bei einem Getränk den Sonnenuntergang über dem Meer beobachten, ein unvergessliches Erlebnis.",
+        "hu": "Pattanjon nyeregbe, és kezdje kerékpártúráját a történelmi Katwijk aan den Rijnben. Onnan tekerjen a partra, hogy megcsodálja az ikonikus világítótornyot. A délelőtt egy óda az Északi-tengerhez, miközben végighalad a sétányon és élvezi a tengeri szellőt. Egy kitérő a régió zöld szívébe, a Panbosba vezet, amely ideális egy természetközeli ebédszünethez. Délután térjen vissza a központba, hogy elmerüljön a helyi kultúrában a Katwijki Múzeumban, majd egy elmélyült pillanatot töltsön az András-templomban. A nap végén kerékpárral eljuthat egy tengerparti pavilonhoz, ahol egy ital mellett nézheti a naplementét a tenger felett – egy felejthetetlen élmény.",
+        "ro": "Urcați-vă pe bicicletă și începeți turul în istoricul Katwijk aan den Rijn. De acolo, pedalați spre coastă pentru a admira farul iconic. Dimineața este o odă adusă Mării Nordului în timp ce parcurgeți bulevardul și vă bucurați de briza mării. Un ocol vă duce în inima verde a regiunii, Panbos, ideal pentru o pauză de prânz în natură. După-amiaza vă întoarceți în centru pentru a vă cufunda în cultura locală la Muzeul Katwijks, urmat de un moment de reflecție la Biserica Sf. Andrei. La sfârșitul zilei, puteți merge cu bicicleta la un pavilion de pe plajă și puteți urmări apusul peste mare cu o băutură, o experiență de neuitat.",
+        "en": "Get on your bike and start your tour in historic Katwijk aan den Rijn. From there, cycle to the coast to admire the iconic lighthouse. The morning is an ode to the North Sea as you ride along the boulevard and enjoy the sea breeze. A detour takes you to the green heart of the region, the Panbos, ideal for a nature-filled lunch break. In the afternoon, you'll return to the center to immerse yourself in local culture at the Katwijks Museum, followed by a contemplative moment at the Andreaskerk. At the end of the day, you can cycle to a beach pavilion and watch the sunset over the sea with a drink, an unforgettable experience."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Strandpavillon Zilt",
+            "tip": "Ideal für ein Mittagessen mit Meerblick nach Ihrer Radtour."
+          },
+          {
+            "name": "Fischereihafen",
+            "tip": "Holen Sie sich den frischesten Fisch direkt vom Kutter."
+          },
+          {
+            "name": "Pfannkuchenhaus De Beslagkom",
+            "tip": "Eine herzhafte Belohnung nach einem Tag im Sattel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Strandpavillon Zilt",
+            "tip": "Ideális egy tengerre néző ebédhez a kerékpártúra után."
+          },
+          {
+            "name": "Halászkikötő",
+            "tip": "Szerezze be a legfrissebb halat közvetlenül a hajókról."
+          },
+          {
+            "name": "De Beslagkom palacsintázó",
+            "tip": "Egy kiadós jutalom egy nyeregben töltött nap után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pavilionul de pe plajă Zilt",
+            "tip": "Ideal pentru un prânz cu vedere la mare după turul cu bicicleta."
+          },
+          {
+            "name": "Portul pescăresc",
+            "tip": "Luați cel mai proaspăt pește direct de la barcă."
+          },
+          {
+            "name": "Casa de clătite De Beslagkom",
+            "tip": "O recompensă copioasă după o zi în șa."
+          }
+        ],
+        "en": [
+          {
+            "name": "Beach Pavilion Zilt",
+            "tip": "Ideal for a lunch with a sea view after your bike tour."
+          },
+          {
+            "name": "Fishing Harbor",
+            "tip": "Get the freshest fish straight from the cutter."
+          },
+          {
+            "name": "Pancake House De Beslagkom",
+            "tip": "A hearty reward after a day in the saddle."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Coepelduynen",
+            "tip": "Ein ruhiges Dünengebiet zwischen Katwijk und Noordwijk, perfekt für eine Radpause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Oude Rijn Ufer",
+            "tip": "Folgen Sie dem Fluss landeinwärts für eine friedliche Fahrt.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Abendliche Strandfahrt",
+            "tip": "Wenn die meisten Tagesgäste weg sind, gehört der Strand fast Ihnen allein.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Coepelduynen",
+            "tip": "Egy csendes dűnevidék Katwijk és Noordwijk között, tökéletes egy kerékpáros pihenőhöz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Oude Rijn folyópart",
+            "tip": "Kövesse a folyót a szárazföld belseje felé egy békés utazáshoz.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Esti strandtúra",
+            "tip": "Amikor a legtöbb napozóvendég elment, a strand szinte csak az öné.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Coepelduynen",
+            "tip": "O zonă liniștită de dune între Katwijk și Noordwijk, perfectă pentru o pauză de ciclism.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul râului Oude Rijn",
+            "tip": "Urmați râul în interior pentru o plimbare liniștită.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Plimbare de seară pe plajă",
+            "tip": "Când majoritatea vizitatorilor de o zi au plecat, plaja este aproape numai a dvs.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Coepelduynen",
+            "tip": "A quiet dune area between Katwijk and Noordwijk, perfect for a cycling break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Oude Rijn Riverbank",
+            "tip": "Follow the river inland for a peaceful ride.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Evening beach ride",
+            "tip": "When most of the day-trippers are gone, the beach is almost all yours.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Finden Sie lokales Zubehör oder mieten Sie ein besseres Fahrrad."
+          },
+          {
+            "name": "Bauernläden in der Umgebung",
+            "tip": "Kaufen Sie Käse oder Tulpenzwiebeln direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Keressen helyi kiegészítőket, vagy béreljen egy jobb kerékpárt."
+          },
+          {
+            "name": "Környező termelői boltok",
+            "tip": "Vásároljon sajtot vagy tulipánhagymát közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Găsiți accesorii locale sau închiriați o bicicletă mai bună."
+          },
+          {
+            "name": "Magazine agricole din zonă",
+            "tip": "Cumpărați brânză sau bulbi de lalele direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bicycle Shops",
+            "tip": "Find local accessories or rent a better bike."
+          },
+          {
+            "name": "Farm shops in the area",
+            "tip": "Buy cheese or tulip bulbs directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Wind, bevor Sie losfahren; Gegenwind an der Küste kann anstrengend sein.",
+          "Nutzen Sie das ausgezeichnete Netz von Radwegen (fietspaden).",
+          "Schließen Sie Ihr Fahrrad immer gut ab, besonders an beliebten Orten.",
+          "Planen Sie Pausen ein, um die Aussicht zu genießen und zu hydrieren."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a szelet; a tengerparti ellenszél kimerítő lehet.",
+          "Használja ki a kiváló kerékpárút-hálózatot (fietspaden).",
+          "Mindig zárja le jól a kerékpárját, különösen a népszerű helyeken.",
+          "Tervezzen szüneteket a kilátás élvezetére és a hidratálásra."
+        ],
+        "ro": [
+          "Verificați vântul înainte de a porni; vântul din față pe coastă poate fi obositor.",
+          "Utilizați rețeaua excelentă de piste de biciclete (fietspaden).",
+          "Încuiati-vă întotdeauna bine bicicleta, mai ales în locurile populare.",
+          "Planificați pauze pentru a vă bucura de priveliște și pentru a vă hidrata."
+        ],
+        "en": [
+          "Check the wind before you set off; a headwind on the coast can be exhausting.",
+          "Use the excellent network of cycle paths (fietspaden).",
+          "Always lock your bike securely, especially in popular places.",
+          "Plan for breaks to enjoy the view and hydrate."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:28",
+      "total_km": 24.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Noordduinen & Spaziergang zum Panbos",
+            "hu": "Noordduinen parkoló és séta a Panboshoz",
+            "ro": "Parcarea Noordduinen și plimbare la Panbos",
+            "en": "Noordduinen Parking & Walk to Panbos"
+          },
+          "coords": [
+            4.38,
+            52.188
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie im Grünen. Parken Sie hier und machen Sie einen Morgenspaziergang im Wald und in den Dünen.",
+            "hu": "Kezdje a napot a zöldben. Parkoljon itt, és tegyen egy reggeli sétát az erdőben és a dűnékben.",
+            "ro": "Începeți în verdeață. Parcați aici și faceți o plimbare de dimineață în pădure și dune.",
+            "en": "Start in the green. Park here and take a morning walk in the woods and dunes."
+          }
+        },
+        {
+          "name": {
+            "de": "Space Expo (Noordwijk)",
+            "hu": "Space Expo (Noordwijk)",
+            "ro": "Space Expo (Noordwijk)",
+            "en": "Space Expo (Noordwijk)"
+          },
+          "coords": [
+            4.428,
+            52.221
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 9.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Ausflug nach Noordwijk zur offiziellen Besucherzentrum der ESA.",
+            "hu": "Egy rövid kirándulás Noordwijkba az ESA hivatalos látogatóközpontjába.",
+            "ro": "O scurtă excursie la Noordwijk la centrul oficial pentru vizitatori al ESA.",
+            "en": "A short trip to Noordwijk to the official visitor center of the ESA."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Zentrum & Spaziergang zum Katwijks Museum",
+            "hu": "Központi parkoló és séta a Katwijki Múzeumhoz",
+            "ro": "Parcare centrală și plimbare la Muzeul Katwijks",
+            "en": "Center Parking & Walk to Katwijks Museum"
+          },
+          "coords": [
+            4.392,
+            52.204
+          ],
+          "category": "museums",
+          "arrive_at": "13:28",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 13.0,
+          "tip_5lang": {
+            "de": "Parken Sie zentral und erkunden Sie den ersten Teil des Küstenclusters zu Fuß.",
+            "hu": "Parkoljon a központban, és fedezze fel gyalog a tengerparti klaszter első részét.",
+            "ro": "Parcați central și explorați prima parte a clusterului de coastă pe jos.",
+            "en": "Park centrally and explore the first part of the coastal cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Vuurbaak",
+            "hu": "Vuurbaak",
+            "ro": "Vuurbaak",
+            "en": "Vuurbaak"
+          },
+          "coords": [
+            4.39,
+            52.207
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:02",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum zum Leuchtturm.",
+            "hu": "Egy rövid séta a múzeumtól a világítótoronyig.",
+            "ro": "O scurtă plimbare de la muzeu la far.",
+            "en": "A short walk from the museum to the lighthouse."
+          }
+        },
+        {
+          "name": {
+            "de": "Boulevard",
+            "hu": "Sétány",
+            "ro": "Bulevard",
+            "en": "Boulevard"
+          },
+          "coords": [
+            4.388,
+            52.21
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:28",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die Meeresluft, bevor Sie zum nächsten Cluster fahren.",
+            "hu": "Élvezze a tengeri levegőt, mielőtt a következő klaszterhez hajtana.",
+            "ro": "Bucurați-vă de aerul mării înainte de a conduce la următorul cluster.",
+            "en": "Enjoy the sea air before driving to the next cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Katwijk aan den Rijn & Andreaskerk",
+            "hu": "Katwijk aan den Rijn és András-templom",
+            "ro": "Katwijk aan den Rijn & Biserica Sf. Andrei",
+            "en": "Katwijk aan den Rijn & Andreas Church"
+          },
+          "coords": [
+            4.419,
+            52.204
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:34",
+          "stay_min": 45,
+          "hop_mode": "car",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Parken Sie im alten Dorf und erkunden Sie die Kirche und die historischen Gassen.",
+            "hu": "Parkoljon az ófaluban, és fedezze fel a templomot és a történelmi utcákat.",
+            "ro": "Parcați în satul vechi și explorați biserica și aleile istorice.",
+            "en": "Park in the old village and explore the church and historic alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Spinozahuis",
+            "hu": "Spinoza-ház",
+            "ro": "Casa Spinoza",
+            "en": "Spinoza House"
+          },
+          "coords": [
+            4.418,
+            52.197
+          ],
+          "category": "famous residences",
+          "arrive_at": "17:28",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang zum Abschluss des kulturellen Teils des Tages.",
+            "hu": "Egy rövid séta a nap kulturális részének lezárásaként.",
+            "ro": "O scurtă plimbare pentru a încheia partea culturală a zilei.",
+            "en": "A short walk to conclude the cultural part of the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Katwijk beginnt mit Natur pur im Panbos. Nach einem erfrischenden Waldspaziergang fahren Sie nach Noordwijk zur Space Expo für ein interstellares Abenteuer am Vormittag. Mittags parken Sie im Zentrum von Katwijk aan Zee. Von hier aus erkunden Sie zu Fuß das Küstencluster: das Katwijks Museum, den Leuchtturm und den belebten Boulevard, wo Sie die Meeresbrise genießen. Am späten Nachmittag fahren Sie ins historische Herz der Stadt, nach Katwijk aan den Rijn. Ein kurzer Spaziergang führt Sie zur Andreaskerk und zum Spinozahuis. Der Tag endet mit der Flexibilität, in einem der vielen Restaurants zu Abend zu essen, sei es am Strand oder im alten Dorf.",
+        "hu": "Az autós napja Katwijkban tiszta természettel kezdődik a Panbosban. Egy frissítő erdei séta után Noordwijkba hajt, a Space Expo-ba egy csillagközi kalandra a délelőtt folyamán. Délben Katwijk aan Zee központjában parkol. Innen gyalog fedezi fel a tengerparti klasztert: a Katwijki Múzeumot, a világítótornyot és az élénk sétányt, ahol élvezheti a tengeri szellőt. Késő délután a város történelmi szívébe, Katwijk aan den Rijnbe hajt. Egy rövid séta elvezeti az András-templomhoz és a Spinoza-házhoz. A nap azzal a rugalmassággal zárul, hogy a számos étterem egyikében vacsorázhat, akár a tengerparton, akár az ófaluban.",
+        "ro": "Ziua dvs. cu mașina în Katwijk începe cu natura pură la Panbos. După o plimbare revigorantă prin pădure, conduceți la Noordwijk la Space Expo pentru o aventură interstelară de dimineață. La prânz, parcați în centrul Katwijk aan Zee. De aici, explorați pe jos clusterul de coastă: Muzeul Katwijks, farul și bulevardul animat, unde vă bucurați de briza mării. Spre sfârșitul după-amiezii, conduceți spre inima istorică a orașului, Katwijk aan den Rijn. O scurtă plimbare vă duce la Biserica Sf. Andrei și Casa Spinoza. Ziua se încheie cu flexibilitatea de a cina la unul dintre multele restaurante, fie pe plajă, fie în satul vechi.",
+        "en": "Your car day in Katwijk starts with pure nature in the Panbos. After a refreshing forest walk, you'll drive to Noordwijk's Space Expo for an interstellar morning adventure. At noon, you'll park in the center of Katwijk aan Zee. From here, you'll explore the coastal cluster on foot: the Katwijks Museum, the lighthouse, and the lively boulevard where you can enjoy the sea breeze. In the late afternoon, you'll drive to the historic heart of the town, Katwijk aan den Rijn. A short walk takes you to the Andreaskerk and the Spinoza House. The day ends with the flexibility to dine at one of the many restaurants, whether by the beach or in the old village."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant KW106",
+            "tip": "Bekannt für gehobene Fischgerichte direkt am Hafen."
+          },
+          {
+            "name": "Brasserie de Zwaan",
+            "tip": "Ein gemütliches Lokal im historischen Zentrum von Katwijk aan den Rijn."
+          },
+          {
+            "name": "Snackbar an der A44",
+            "tip": "Für den schnellen holländischen Snack auf dem Weg zur nächsten Attraktion."
+          }
+        ],
+        "hu": [
+          {
+            "name": "KW106 Étterem",
+            "tip": "Ismert a kikötőben található, minőségi halételeiről."
+          },
+          {
+            "name": "Brasserie de Zwaan",
+            "tip": "Egy hangulatos hely Katwijk aan den Rijn történelmi központjában."
+          },
+          {
+            "name": "Gyorsbüfé az A44-es úton",
+            "tip": "Egy gyors holland falatozásra úton a következő látnivaló felé."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant KW106",
+            "tip": "Renumit pentru preparatele rafinate din pește, direct în port."
+          },
+          {
+            "name": "Brasserie de Zwaan",
+            "tip": "Un local primitor în centrul istoric al Katwijk aan den Rijn."
+          },
+          {
+            "name": "Snackbar pe A44",
+            "tip": "Pentru o gustare rapidă olandeză în drum spre următoarea atracție."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant KW106",
+            "tip": "Known for upscale fish dishes right at the harbor."
+          },
+          {
+            "name": "Brasserie de Zwaan",
+            "tip": "A cozy spot in the historic center of Katwijk aan den Rijn."
+          },
+          {
+            "name": "Snackbar on the A44",
+            "tip": "For a quick Dutch snack on the way to the next attraction."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wassenaarse Slag",
+            "tip": "Ein ruhigerer Strandabschnitt, nur eine kurze Autofahrt südlich.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Valkenburgse Meer",
+            "tip": "Ein See in der Nähe, ideal für eine ruhige Pause vom Trubel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussicht von den Dünen",
+            "tip": "Parken Sie und steigen Sie auf eine hohe Düne für einen Panoramablick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wassenaarse Slag",
+            "tip": "Egy csendesebb strandszakasz, csak egy rövid autóútra délre."
+          },
+          {
+            "name": "Valkenburgi-tó",
+            "tip": "Egy közeli tó, ideális egy csendes pihenőre a nyüzsgéstől."
+          },
+          {
+            "name": "Kilátás a dűnékről",
+            "tip": "Parkoljon le, és másszon fel egy magas dűnére a panorámás kilátásért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Wassenaarse Slag",
+            "tip": "O secțiune de plajă mai liniștită, la o scurtă călătorie cu mașina spre sud."
+          },
+          {
+            "name": "Lacul Valkenburgse Meer",
+            "tip": "Un lac din apropiere, ideal pentru o pauză liniștită de agitație."
+          },
+          {
+            "name": "Vedere din dune",
+            "tip": "Parcați și urcați pe o dună înaltă pentru o vedere panoramică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Wassenaarse Slag",
+            "tip": "A quieter stretch of beach just a short drive south."
+          },
+          {
+            "name": "Valkenburgse Meer",
+            "tip": "A nearby lake, ideal for a quiet break from the hustle and bustle."
+          },
+          {
+            "name": "View from the dunes",
+            "tip": "Park and climb a high dune for a panoramic view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Möbel-Boulevard in der Nähe von Leiden",
+            "tip": "Wenn Sie Zeit haben, ein Paradies für Einrichtungsliebhaber."
+          },
+          {
+            "name": "Hofläden entlang der Landstraßen",
+            "tip": "Halten Sie Ausschau nach Schildern für frisches Gemüse und Obst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bútor körút Leiden közelében",
+            "tip": "Ha van ideje, a lakberendezés szerelmeseinek paradicsoma."
+          },
+          {
+            "name": "Tanyasi boltok az országutak mentén",
+            "tip": "Figyelje a friss zöldséget és gyümölcsöt hirdető táblákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bulevardul de mobilă lângă Leiden",
+            "tip": "Dacă aveți timp, un paradis pentru iubitorii de design interior."
+          },
+          {
+            "name": "Magazine de la ferme de-a lungul drumurilor de țară",
+            "tip": "Fiți atenți la indicatoarele pentru legume și fructe proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Furniture Boulevard near Leiden",
+            "tip": "If you have time, a paradise for interior design lovers."
+          },
+          {
+            "name": "Farm shops along the country roads",
+            "tip": "Look out for signs for fresh vegetables and fruit."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken ist in Strandnähe oft kostenpflichtig; suchen Sie nach Parkhäusern.",
+          "Planen Sie Ihre Fahrten außerhalb der Stoßzeiten, um Verkehr zu vermeiden.",
+          "Ein Navigationssystem ist unerlässlich, um die verschiedenen Cluster zu finden.",
+          "Die Cluster-Walking-Methode spart Parkgebühren und Stress."
+        ],
+        "hu": [
+          "A parkolás a strand közelében gyakran fizetős; keressen parkolóházakat.",
+          "Tervezze az utazásokat a csúcsidőn kívülre a forgalom elkerülése érdekében.",
+          "A navigációs rendszer elengedhetetlen a különböző klaszterek megtalálásához.",
+          "A klaszter-séta módszer parkolási díjat és stresszt takarít meg."
+        ],
+        "ro": [
+          "Parcarea este adesea cu plată în apropierea plajei; căutați parcări supraetajate.",
+          "Planificați-vă călătoriile în afara orelor de vârf pentru a evita traficul.",
+          "Un sistem de navigație este esențial pentru a găsi diferitele clustere.",
+          "Metoda de plimbare în cluster economisește taxe de parcare și stres."
+        ],
+        "en": [
+          "Parking is often paid near the beach; look for parking garages.",
+          "Plan your drives outside of peak hours to avoid traffic.",
+          "A navigation system is essential for finding the different clusters.",
+          "The cluster-walking method saves on parking fees and stress."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:42",
+      "total_km": 6.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bushaltestelle Zentrum & Gang zum Boulevard",
+            "hu": "Központi buszmegálló és séta a sétányhoz",
+            "ro": "Stația de autobuz Centru și plimbare la Bulevard",
+            "en": "Center Bus Stop & Walk to Boulevard"
+          },
+          "coords": [
+            4.394,
+            52.208
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einer Busfahrt ins Zentrum und einem Spaziergang zur Promenade.",
+            "hu": "Kezdje a napot egy buszozással a központba és egy sétával a sétányhoz.",
+            "ro": "Începeți ziua cu o călătorie cu autobuzul spre centru și o plimbare până la promenadă.",
+            "en": "Start your day with a bus ride to the center and a walk to the promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Vuurbaak",
+            "hu": "Vuurbaak",
+            "ro": "Vuurbaak",
+            "en": "Vuurbaak"
+          },
+          "coords": [
+            4.39,
+            52.207
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:14",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Vom Boulevard aus ist der Leuchtturm nur einen Steinwurf entfernt.",
+            "hu": "A sétányról a világítótorony csak egy kőhajításnyira van.",
+            "ro": "De la bulevard, farul este la o aruncătură de băț.",
+            "en": "From the boulevard, the lighthouse is just a stone's throw away."
+          }
+        },
+        {
+          "name": {
+            "de": "Katwijks Museum",
+            "hu": "Katwijki Múzeum",
+            "ro": "Muzeul Katwijks",
+            "en": "Katwijks Museum"
+          },
+          "coords": [
+            4.391,
+            52.205
+          ],
+          "category": "museums",
+          "arrive_at": "10:43",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein weiterer kurzer Spaziergang, um in die lokale Geschichte einzutauchen.",
+            "hu": "Még egy rövid séta, hogy elmerüljön a helytörténetben.",
+            "ro": "O altă plimbare scurtă pentru a vă cufunda în istoria locală.",
+            "en": "Another short walk to immerse yourself in local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt nach Katwijk aan den Rijn & Spaziergang zur Andreaskerk",
+            "hu": "Buszozás Katwijk aan den Rijnbe és séta az András-templomhoz",
+            "ro": "Călătorie cu autobuzul la Katwijk aan den Rijn & plimbare la Biserica Sf. Andrei",
+            "en": "Bus ride to Katwijk aan den Rijn & walk to Andreaskerk"
+          },
+          "coords": [
+            4.419,
+            52.204
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:13",
+          "stay_min": 40,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus ins alte Dorf und beginnen Sie dort Ihren zweiten Erkundungscluster.",
+            "hu": "Menjen busszal az ófaluba, és kezdje ott a második felfedező klasztert.",
+            "ro": "Luați autobuzul spre satul vechi și începeți al doilea cluster de explorare de acolo.",
+            "en": "Take the bus to the old village and start your second exploration cluster there."
+          }
+        },
+        {
+          "name": {
+            "de": "Katwijk aan den Rijn (Zentrum)",
+            "hu": "Katwijk aan den Rijn (Központ)",
+            "ro": "Katwijk aan den Rijn (Centru)",
+            "en": "Katwijk aan den Rijn (Center)"
+          },
+          "coords": [
+            4.421,
+            52.204
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:55",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Gassen und Plätze des historischen Herzens.",
+            "hu": "Fedezze fel a történelmi központ sikátorait és tereit.",
+            "ro": "Explorați aleile și piețele din inima istorică.",
+            "en": "Explore the alleys and squares of the historic heart."
+          }
+        },
+        {
+          "name": {
+            "de": "Spinozahuis",
+            "hu": "Spinoza-ház",
+            "ro": "Casa Spinoza",
+            "en": "Spinoza House"
+          },
+          "coords": [
+            4.418,
+            52.197
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:47",
+          "stay_min": 75,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 52,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Eine kurze Busfahrt bringt Sie zu diesem philosophischen Wahrzeichen.",
+            "hu": "Egy rövid buszozás elviszi ehhez a filozófiai nevezetességhez.",
+            "ro": "O scurtă călătorie cu autobuzul vă duce la acest punct de reper filozofic.",
+            "en": "A short bus ride takes you to this philosophical landmark."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Bus erkunden Sie Katwijk in zwei Clustern. Sie starten am Meer: Eine Busfahrt bringt Sie ins Zentrum, von wo aus Sie zum Boulevard, dem Leuchtturm und dem Katwijks Museum spazieren. Genießen Sie die maritime Atmosphäre und ein Mittagessen mit Aussicht. Am Nachmittag bringt Sie ein anderer Bus ins historische Katwijk aan den Rijn. Hier schlendern Sie durch alte Gassen, besuchen die ehrwürdige Andreaskerk und tauchen im Spinozahuis in die Welt der Philosophie ein. Der Tag endet entspannt, da Sie einfach den Bus zurück nehmen können, nachdem Sie die zwei Gesichter von Katwijk – das lebhafte Seebad und das ruhige alte Dorf – kennengelernt haben.",
+        "hu": "Busszal két klaszterben fedezi fel Katwijkot. A tengernél kezdi: egy busz elviszi a központba, ahonnan a sétányhoz, a világítótoronyhoz és a Katwijki Múzeumhoz sétálhat. Élvezze a tengeri hangulatot és egy ebédet kilátással. Délután egy másik busz elviszi a történelmi Katwijk aan den Rijnbe. Itt régi sikátorokban sétálhat, meglátogathatja a tiszteletreméltó András-templomot, és elmerülhet a filozófia világában a Spinoza-házban. A nap nyugodtan ér véget, hiszen egyszerűen visszamehet busszal, miután megismerte Katwijk két arcát – az élénk tengerparti üdülőhelyet és a csendes ófalut.",
+        "ro": "Cu autobuzul, explorați Katwijk în două clustere. Începeți la mare: o călătorie cu autobuzul vă duce în centru, de unde vă plimbați la bulevard, far și Muzeul Katwijks. Bucurați-vă de atmosfera maritimă și de un prânz cu priveliște. După-amiaza, un alt autobuz vă duce în istoricul Katwijk aan den Rijn. Aici vă plimbați pe alei vechi, vizitați venerabila Biserică Sf. Andrei și vă cufundați în lumea filozofiei la Casa Spinoza. Ziua se încheie relaxat, deoarece puteți lua pur și simplu autobuzul înapoi după ce ați cunoscut cele două fețe ale Katwijk – stațiunea vibrantă de la malul mării și satul vechi și liniștit.",
+        "en": "Using the bus, you'll explore Katwijk in two clusters. You start by the sea: a bus ride takes you to the center, from where you can walk to the boulevard, the lighthouse, and the Katwijks Museum. Enjoy the maritime atmosphere and lunch with a view. In the afternoon, another bus takes you to historic Katwijk aan den Rijn. Here, you'll stroll through old alleys, visit the venerable Andreaskerk, and delve into the world of philosophy at the Spinoza House. The day ends in a relaxed manner, as you can simply take the bus back after getting to know the two faces of Katwijk – the lively seaside resort and the quiet old village."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Vispaleis",
+            "tip": "Ein beliebter Ort für frittierten Fisch zum Mitnehmen, nahe der Bushaltestelle."
+          },
+          {
+            "name": "Eeterij de',) Klap",
+            "tip": "Traditionelle niederländische Gerichte im alten Dorf, gut erreichbar nach dem zweiten Cluster."
+          },
+          {
+            "name": "Bäckerei van der Mey",
+            "tip": "Holen Sie sich ein Gebäck für die Busfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vispaleis",
+            "tip": "Népszerű hely a sült hal elvitelre, közel a buszmegállóhoz."
+          },
+          {
+            "name": "Eeterij de',) Klap",
+            "tip": "Hagyományos holland ételek az ófaluban, könnyen elérhető a második klaszter után."
+          },
+          {
+            "name": "van der Mey pékség",
+            "tip": "Vegyen egy péksüteményt a buszútra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vispaleis",
+            "tip": "Un loc popular pentru pește prăjit la pachet, aproape de stația de autobuz."
+          },
+          {
+            "name": "Eeterij de',) Klap",
+            "tip": "Mâncăruri tradiționale olandeze în satul vechi, ușor accesibil după al doilea cluster."
+          },
+          {
+            "name": "Brutăria van der Mey",
+            "tip": "Luați un produs de patiserie pentru călătoria cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vispaleis",
+            "tip": "A popular spot for fried fish to-go, near the bus stop."
+          },
+          {
+            "name": "Eeterij de',) Klap",
+            "tip": "Traditional Dutch dishes in the old village, easily accessible after the second cluster."
+          },
+          {
+            "name": "Van der Mey Bakery",
+            "tip": "Grab a pastry for the bus ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof bei der Andreaskerk",
+            "tip": "Ein überraschend friedlicher und historischer Ort.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Ende des Boulevards (Süden)",
+            "tip": "Gehen Sie bis zum Ende, wo weniger Menschen sind.",
+            "emoji": "🚶‍♀️"
+          },
+          {
+            "name": "Leseecke im Museum",
+            "tip": "Machen Sie eine Pause vom Sightseeing und blättern Sie in einem Buch.",
+            "emoji": "📚"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Temető az András-templomnál",
+            "tip": "Meglepően békés és történelmi hely.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "A sétány vége (dél)",
+            "tip": "Menjen el a végéig, ahol kevesebb az ember.",
+            "emoji": "🚶‍♀️"
+          },
+          {
+            "name": "Olvasósarok a múzeumban",
+            "tip": "Tartson egy szünetet a városnézésben, és lapozzon bele egy könyvbe.",
+            "emoji": "📚"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul de lângă Biserica Sf. Andrei",
+            "tip": "Un loc surprinzător de pașnic și istoric.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Capătul bulevardului (sud)",
+            "tip": "Mergeți până la capăt, unde sunt mai puțini oameni.",
+            "emoji": "🚶‍♀️"
+          },
+          {
+            "name": "Colțul de lectură din muzeu",
+            "tip": "Faceți o pauză de la vizitarea obiectivelor turistice și răsfoiți o carte.",
+            "emoji": "📚"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cemetery at the Andreaskerk",
+            "tip": "A surprisingly peaceful and historic place.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "End of the Boulevard (South)",
+            "tip": "Walk to the very end, where there are fewer people.",
+            "emoji": "🚶‍♀️"
+          },
+          {
+            "name": "Reading corner in the museum",
+            "tip": "Take a break from sightseeing and browse a book.",
+            "emoji": "📚"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirladen im Katwijks Museum",
+            "tip": "Finden Sie einzigartige Geschenke mit Bezug zur lokalen Kunst."
+          },
+          {
+            "name": "Kleine Geschäfte in Katwijk aan den Rijn",
+            "tip": "Entdecken Sie versteckte Juwelen abseits der Hauptstraßen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándékbolt a Katwijki Múzeumban",
+            "tip": "Találjon egyedi ajándékokat a helyi művészethez kapcsolódóan."
+          },
+          {
+            "name": "Kis üzletek Katwijk aan den Rijnben",
+            "tip": "Fedezzen fel rejtett gyöngyszemeket a főutcáktól távol."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de suveniruri de la Muzeul Katwijks",
+            "tip": "Găsiți cadouri unice legate de arta locală."
+          },
+          {
+            "name": "Mici magazine în Katwijk aan den Rijn",
+            "tip": "Descoperiți bijuterii ascunse departe de străzile principale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir shop in the Katwijks Museum",
+            "tip": "Find unique gifts related to local art."
+          },
+          {
+            "name": "Small shops in Katwijk aan den Rijn",
+            "tip": "Discover hidden gems off the main streets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Prüfen Sie den Busfahrplan im Voraus, besonders für den Abend.",
+          "Die App 9292 ist Ihr bester Freund für die Planung von Fahrten mit öffentlichen Verkehrsmitteln in den Niederlanden.",
+          "Seien Sie bereit für kurze Spaziergänge von den Haltestellen zu den Sehenswürdigkeiten."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy pénzt takarítson meg.",
+          "Ellenőrizze előre a buszmenetrendet, különösen estére.",
+          "A 9292 alkalmazás a legjobb barátja a hollandiai tömegközlekedési utazások tervezéséhez.",
+          "Készüljön fel rövid sétákra a megállóktól a látnivalókig."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru a economisi bani.",
+          "Verificați programul autobuzelor în avans, mai ales pentru seară.",
+          "Aplicația 9292 este cel mai bun prieten al dvs. pentru planificarea călătoriilor cu transportul public în Olanda.",
+          "Fiți pregătiți pentru plimbări scurte de la stații la atracții."
+        ],
+        "en": [
+          "Buy a day ticket for the bus to save money.",
+          "Check the bus schedule in advance, especially for the evening.",
+          "The 9292 app is your best friend for planning public transport journeys in the Netherlands.",
+          "Be prepared for short walks from the bus stops to the sights."
+        ]
+      }
+    }
+  }
+}

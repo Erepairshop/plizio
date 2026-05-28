@@ -1,0 +1,1500 @@
+{
+  "city_id": "greece-mesolonghi-cities-v2",
+  "anchor": {
+    "name": "Messolongi",
+    "coords": [
+      21.4287,
+      38.3677
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 5.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Garten der Helden",
+            "hu": "Hősök kertje",
+            "ro": "Grădina Eroilor",
+            "en": "Garden of Heroes"
+          },
+          "coords": [
+            21.4275,
+            38.3711
+          ],
+          "category": "parks",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem ruhigen Spaziergang und zollen Sie der Geschichte Respekt.",
+            "hu": "Kezdje a napot egy csendes sétával és adózzon tisztelettel a történelemnek.",
+            "ro": "Începeți ziua cu o plimbare liniștită și aduceți un omagiu istoriei.",
+            "en": "Start the day with a quiet walk and pay respects to history."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Spyridon",
+            "hu": "Agios Spyridon templom",
+            "ro": "Biserica Agios Spyridon",
+            "en": "Church of Agios Spyridon"
+          },
+          "coords": [
+            21.429,
+            38.3685
+          ],
+          "category": "churches",
+          "arrive_at": "10:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Hier schwor Lord Byron den Eid für die Freiheit Griechenlands.",
+            "hu": "Lord Byron itt tette le esküjét Görögország szabadságáért.",
+            "ro": "Aici a depus Lord Byron jurământul pentru libertatea Greciei.",
+            "en": "This is where Lord Byron took the oath for the freedom of Greece."
+          }
+        },
+        {
+          "name": {
+            "de": "Lord Byron Statue",
+            "hu": "Lord Byron szobra",
+            "ro": "Statuia Lordului Byron",
+            "en": "Lord Byron Statue"
+          },
+          "coords": [
+            21.428,
+            38.3705
+          ],
+          "category": "monuments",
+          "arrive_at": "11:08",
+          "stay_min": 20,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein ikonischer Ort, um an den Philhellenen zu erinnern.",
+            "hu": "Ikonikus hely a philhellén emlékére.",
+            "ro": "Un loc iconic pentru a comemora filoelenul.",
+            "en": "An iconic spot to remember the philhellene."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Geschichte und Kunst",
+            "hu": "Történeti és Művészeti Múzeum",
+            "ro": "Muzeul de Istorie și Artă",
+            "en": "Museum of History and Art"
+          },
+          "coords": [
+            21.4295,
+            38.367
+          ],
+          "category": "museums",
+          "arrive_at": "11:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die reiche und dramatische Geschichte der Stadt.",
+            "hu": "Merüljön el a város gazdag és drámai történelmében.",
+            "ro": "Cufundați-vă în istoria bogată și dramatică a orașului.",
+            "en": "Immerse yourself in the rich and dramatic history of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus von Kostis Palamas",
+            "hu": "Kostis Palamas háza",
+            "ro": "Casa lui Kostis Palamas",
+            "en": "House of Kostis Palamas"
+          },
+          "coords": [
+            21.4305,
+            38.369
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Sehen Sie, wo der Dichter der olympischen Hymne lebte.",
+            "hu": "Nézze meg, hol élt az olimpiai himnusz költője.",
+            "ro": "Vedeți unde a trăit poetul imnului olimpic.",
+            "en": "See where the poet of the Olympic Anthem lived."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Diexodos",
+            "hu": "Diexodos Kulturális Központ",
+            "ro": "Centrul Cultural Diexodos",
+            "en": "Diexodos Cultural Centre"
+          },
+          "coords": [
+            21.426,
+            38.3675
+          ],
+          "category": "cultural centres",
+          "arrive_at": "14:38",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie lokale Kunst und kulturelle Veranstaltungen in diesem pulsierenden Zentrum.",
+            "hu": "Fedezze fel a helyi művészetet és kulturális eseményeket ebben a vibráló központban.",
+            "ro": "Descoperiți arta locală și evenimentele culturale în acest centru vibrant.",
+            "en": "Discover local art and cultural events at this vibrant hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Lagune von Messolongi",
+            "hu": "Messolongi-lagúna",
+            "ro": "Laguna Messolongi",
+            "en": "Messolongi Lagoon"
+          },
+          "coords": [
+            21.425,
+            38.35
+          ],
+          "category": "natural features",
+          "arrive_at": "16:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag bei Sonnenuntergang über der ruhigen Lagune.",
+            "hu": "Zárja a napot a csendes lagúna feletti naplementével.",
+            "ro": "Încheiați ziua cu apusul soarelui peste laguna liniștită.",
+            "en": "End your day watching the sunset over the tranquil lagoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Messolongi beginnt im Garten der Helden, einem Ort der Stille und des Gedenkens. Am Vormittag erkunden Sie das historische Herz der Stadt, einschließlich der Kirche, in der Lord Byron seinen Eid schwor, und des Museums, das die dramatische Belagerung dokumentiert. Nach einem Mittagessen mit lokalen Spezialitäten besuchen Sie die Häuser berühmter griechischer Persönlichkeiten, die hier lebten. Der Nachmittag gehört der lokalen Kultur und der atemberaubenden Natur. Sie schlendern zum Diexodos-Kulturzentrum und beenden Ihren Spaziergang am Rande der berühmten Lagune, wo Sie die einzigartige Landschaft und die Vogelwelt beobachten können, während die Sonne untergeht.",
+        "hu": "Messolongi-i napja a Hősök kertjében kezdődik, a csend és megemlékezés helyén. Délelőtt a város történelmi szívét fedezi fel, beleértve a templomot, ahol Lord Byron letette esküjét, és a múzeumot, amely a drámai ostromot dokumentálja. Egy helyi specialitásokból álló ebéd után meglátogatja az itt élt híres görög személyiségek házait. A délután a helyi kultúráé és a lélegzetelállító természeté. Átsétál a Diexodos Kulturális Központba, és a híres lagúna szélén fejezi be a sétát, ahol megfigyelheti az egyedülálló tájat és a madárvilágot, miközben a nap lenyugszik.",
+        "ro": "Ziua dvs. în Messolongi începe în Grădina Eroilor, un loc de liniște și comemorare. Dimineața explorați inima istorică a orașului, inclusiv biserica unde Lord Byron a depus jurământul și muzeul care documentează asediul dramatic. După un prânz cu specialități locale, vizitați casele unor personalități grecești celebre care au locuit aici. După-amiaza este dedicată culturii locale și naturii uimitoare. Vă plimbați la Centrul Cultural Diexodos și încheiați plimbarea la marginea faimoasei lagune, unde puteți observa peisajul unic și păsările în timp ce soarele apune.",
+        "en": "Your day in Messolongi begins in the Garden of Heroes, a place of tranquility and remembrance. In the morning, you'll explore the historical heart of the city, including the church where Lord Byron took his oath and the museum documenting the dramatic siege. After a lunch of local specialties, you'll visit the homes of famous Greek figures who lived here. The afternoon is for local culture and breathtaking nature. You'll stroll to the Diexodos Cultural Centre and end your walk at the edge of the famous lagoon, where you can watch the unique landscape and birdlife as the sun sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Avgotaracho (Bottarga)",
+            "tip": "Die lokale Delikatesse aus Meeräschenrogen, oft als 'griechischer Kaviar' bezeichnet."
+          },
+          {
+            "name": "Aal",
+            "tip": "Geräuchert oder gegrillt, ein Muss aus der Lagune."
+          },
+          {
+            "name": "Frische Meeresfrüchte",
+            "tip": "Genießen Sie den Fang des Tages in einer der Tavernen am Wasser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Avgotaracho (Bottarga)",
+            "tip": "Helyi finomság tengeri pér ikrájából, gyakran „görög kaviárnak” is nevezik."
+          },
+          {
+            "name": "Angolna",
+            "tip": "Füstölve vagy grillezve, kötelező a lagúnából."
+          },
+          {
+            "name": "Friss tenger gyümölcsei",
+            "tip": "Élvezze a napi fogást az egyik vízparti tavernában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Avgotaracho (Bottarga)",
+            "tip": "Delicatesa locală din icre de chefal, adesea numită 'caviarul grecesc'."
+          },
+          {
+            "name": "Anghilă",
+            "tip": "Afumată sau la grătar, o specialitate de neratat din lagună."
+          },
+          {
+            "name": "Fructe de mare proaspete",
+            "tip": "Savurați captura zilei la una dintre tavernele de pe malul apei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Avgotaracho (Bottarga)",
+            "tip": "The local delicacy of grey mullet roe, often called 'Greek caviar'."
+          },
+          {
+            "name": "Eel",
+            "tip": "Smoked or grilled, a must-try from the lagoon."
+          },
+          {
+            "name": "Fresh Seafood",
+            "tip": "Enjoy the catch of the day at one of the waterside tavernas."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenuntergang an der Lagune",
+            "tip": "Finden Sie einen ruhigen Platz und beobachten Sie, wie sich der Himmel verfärbt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Garten der Helden am frühen Morgen",
+            "tip": "Ein friedlicher Ort für Kontemplation, bevor die Menschenmassen kommen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ein Spaziergang entlang des Dammes nach Tourlida",
+            "tip": "Die Weite des Wassers und die Stille sind unglaublich beruhigend.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente a lagúnánál",
+            "tip": "Keressen egy csendes helyet, és nézze, ahogy az ég színei változnak.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hősök kertje kora reggel",
+            "tip": "Békés hely az elmélkedésre, mielőtt a tömeg megérkezik.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Séta a Tourlidába vezető gáton",
+            "tip": "A víz tágassága és a csend hihetetlenül megnyugtató.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apus de soare la lagună",
+            "tip": "Găsiți un loc liniștit și priviți cerul schimbându-și culorile.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina Eroilor dimineața devreme",
+            "tip": "Un loc pașnic pentru contemplare înainte de sosirea mulțimilor.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "O plimbare de-a lungul digului spre Tourlida",
+            "tip": "Întinderea apei și liniștea sunt incredibil de calmante.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunset at the Lagoon",
+            "tip": "Find a quiet spot and watch the sky change colours.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Garden of Heroes in the early morning",
+            "tip": "A peaceful place for contemplation before the crowds arrive.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A walk along the causeway to Tourlida",
+            "tip": "The expanse of water and the silence are incredibly calming.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Avgotaracho",
+            "tip": "Kaufen Sie diese einzigartige Delikatesse als kulinarisches Souvenir."
+          },
+          {
+            "name": "Lokales Salz",
+            "tip": "Die Salzpfannen von Messolongi produzieren hochwertiges Meersalz."
+          },
+          {
+            "name": "Handgefertigter Schmuck",
+            "tip": "Halten Sie Ausschau nach kleinen Geschäften mit lokal gefertigten Stücken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Avgotaracho",
+            "tip": "Vásárolja meg ezt az egyedülálló finomságot kulináris szuvenírként."
+          },
+          {
+            "name": "Helyi só",
+            "tip": "A Messolongi sólepárlók kiváló minőségű tengeri sót termelnek."
+          },
+          {
+            "name": "Kézműves ékszerek",
+            "tip": "Keresse a helyi kézműves darabokat kínáló kis üzleteket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Avgotaracho",
+            "tip": "Cumpărați această delicatesă unică sebagai un suvenir culinar."
+          },
+          {
+            "name": "Sare locală",
+            "tip": "Salinele din Messolongi produc sare de mare de înaltă calitate."
+          },
+          {
+            "name": "Bijuterii artizanale",
+            "tip": "Căutați magazine mici cu piese realizate local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Avgotaracho",
+            "tip": "Buy this unique delicacy as a culinary souvenir."
+          },
+          {
+            "name": "Local Salt",
+            "tip": "The salt pans of Messolongi produce high-quality sea salt."
+          },
+          {
+            "name": "Handmade Jewelry",
+            "tip": "Look for small shops with locally crafted pieces."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie Wasser mit, besonders an warmen Tagen.",
+          "Planen Sie genügend Zeit für das Museum ein, es ist sehr informativ.",
+          "Ein Insektenschutzmittel kann abends in der Nähe der Lagune nützlich sein."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "Vigyen magával vizet, különösen meleg napokon.",
+          "Szánjon elég időt a múzeumra, nagyon informatív.",
+          "Este a lagúna közelében hasznos lehet a rovarriasztó."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe jos.",
+          "Luați apă cu dvs., mai ales în zilele călduroase.",
+          "Planificați suficient timp pentru muzeu, este foarte informativ.",
+          "Un repelent pentru insecte poate fi util seara lângă lagună."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Bring water with you, especially on warm days.",
+          "Allow plenty of time for the museum; it's very informative.",
+          "An insect repellent can be useful in the evening near the lagoon."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Garten der Helden",
+            "hu": "Hősök kertje",
+            "ro": "Grădina Eroilor",
+            "en": "Garden of Heroes"
+          },
+          "coords": [
+            21.4275,
+            38.3711
+          ],
+          "category": "parks",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein perfekter, ruhiger Startpunkt für Ihre Radtour.",
+            "hu": "Tökéletes, csendes kiindulópont a biciklitúrához.",
+            "ro": "Un punct de plecare perfect și liniștit pentru turul cu bicicleta.",
+            "en": "A perfect, quiet starting point for your bike tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Geschichte und Kunst",
+            "hu": "Történeti és Művészeti Múzeum",
+            "ro": "Muzeul de Istorie și Artă",
+            "en": "Museum of History and Art"
+          },
+          "coords": [
+            21.4295,
+            38.367
+          ],
+          "category": "museums",
+          "arrive_at": "10:01",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab und tauchen Sie in die Geschichte ein.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és merüljön el a történelemben.",
+            "ro": "Parcați bicicleta în siguranță și scufundați-vă în istorie.",
+            "en": "Park your bike securely and dive into the history."
+          }
+        },
+        {
+          "name": {
+            "de": "Lagune von Messolongi",
+            "hu": "Messolongi-lagúna",
+            "ro": "Laguna Messolongi",
+            "en": "Messolongi Lagoon"
+          },
+          "coords": [
+            21.425,
+            38.35
+          ],
+          "category": "natural features",
+          "arrive_at": "11:43",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie entlang des Wassers und genießen Sie die Aussicht.",
+            "hu": "Kerékpározzon a víz mentén, és élvezze a kilátást.",
+            "ro": "Pedalați de-a lungul apei și bucurați-vă de priveliște.",
+            "en": "Cycle along the water and enjoy the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Insel Tourlida",
+            "hu": "Tourlida-sziget",
+            "ro": "Insula Tourlida",
+            "en": "Tourlida Island"
+          },
+          "coords": [
+            21.41,
+            38.32
+          ],
+          "category": "natural features",
+          "arrive_at": "13:13",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Radtour über den Damm ist ein einzigartiges Erlebnis. Zeit für ein Mittagessen hier.",
+            "hu": "A gáton átívelő kerékpártúra egyedülálló élmény. Ideje itt ebédelni.",
+            "ro": "Plimbarea cu bicicleta peste dig este o experiență unică. Timp pentru prânz aici.",
+            "en": "The bike ride across the causeway is a unique experience. Time for lunch here."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm von Tourlida",
+            "hu": "Tourlida világítótornya",
+            "ro": "Farul din Tourlida",
+            "en": "Lighthouse of Tourlida"
+          },
+          "coords": [
+            21.408,
+            38.315
+          ],
+          "category": "lighthouses",
+          "arrive_at": "15:22",
+          "stay_min": 30,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein großartiger Fotospot am Ende des Dammes.",
+            "hu": "Nagyszerű fotóhely a gát végén.",
+            "ro": "Un loc excelent pentru fotografii la capătul digului.",
+            "en": "A great photo spot at the end of the causeway."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Diexodos",
+            "hu": "Diexodos Kulturális Központ",
+            "ro": "Centrul Cultural Diexodos",
+            "en": "Diexodos Cultural Centre"
+          },
+          "coords": [
+            21.426,
+            38.3675
+          ],
+          "category": "cultural centres",
+          "arrive_at": "16:28",
+          "stay_min": 30,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem Hauch von lokaler Kultur.",
+            "hu": "Zárja a túrát egy csipetnyi helyi kultúrával.",
+            "ro": "Încheiați-vă turul cu o notă de cultură locală.",
+            "en": "End your tour with a touch of local culture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour durch Messolongi beginnt im ruhigen Garten der Helden. Von dort radeln Sie zum Museum für Geschichte, um in die Vergangenheit der Stadt einzutauchen. Der Hauptteil Ihrer Tour führt Sie entlang der atemberaubenden Lagune und über einen langen Damm zur Insel Tourlida. Hier machen Sie eine längere Pause, genießen ein Mittagessen in einer Taverne und radeln bis zum Leuchtturm am Ende der Insel. Auf dem Rückweg halten Sie am Kulturzentrum Diexodos, um einen Einblick in die lokale Kunstszene zu bekommen, bevor Sie Ihren Tag ausklingen lassen.",
+        "hu": "Messolongiban tett kerékpártúrája a csendes Hősök kertjében kezdődik. Onnan a Történeti Múzeumhoz teker, hogy elmerüljön a város múltjában. A túra fő része a lélegzetelállító lagúna mentén és egy hosszú gáton át vezet a Tourlida-szigetre. Itt hosszabb szünetet tart, megebédel egy tavernában, és elteker a sziget végén található világítótoronyhoz. Visszafelé megáll a Diexodos Kulturális Központnál, hogy bepillantást nyerjen a helyi művészeti életbe, mielőtt lezárja a napot.",
+        "ro": "Turul cu bicicleta prin Messolongi începe în liniștita Grădină a Eroilor. De acolo, pedalați spre Muzeul de Istorie pentru a vă cufunda în trecutul orașului. Partea principală a turului vă duce de-a lungul uimitoarei lagune și peste un dig lung până la Insula Tourlida. Aici faceți o pauză mai lungă, savurați prânzul la o tavernă și pedalați până la farul de la capătul insulei. Pe drumul de întoarcere, opriți la Centrul Cultural Diexodos pentru a arunca o privire asupra scenei artistice locale înainte de a încheia ziua.",
+        "en": "Your bike tour of Messolongi starts in the tranquil Garden of Heroes. From there, you'll cycle to the Museum of History to immerse yourself in the city's past. The main part of your tour takes you along the stunning lagoon and across a long causeway to Tourlida Island. Here, you'll take a longer break, enjoy lunch at a taverna, and cycle to the lighthouse at the end of the island. On your way back, you'll stop at the Diexodos Cultural Centre for a glimpse of the local art scene before winding down your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tavernen auf Tourlida",
+            "tip": "Probieren Sie superfrischen Fisch mit Blick auf die Lagune."
+          },
+          {
+            "name": "Avgotaracho",
+            "tip": "Die lokale Delikatesse aus Meeräschenrogen."
+          },
+          {
+            "name": "Gegrillter Aal",
+            "tip": "Ein einzigartiger Geschmack, den Sie nur hier finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tavernák Tourlidán",
+            "tip": "Kóstolja meg a szuperfriss halat a lagúnára néző kilátással."
+          },
+          {
+            "name": "Avgotaracho",
+            "tip": "Helyi finomság tengeri pér ikrájából."
+          },
+          {
+            "name": "Grillezett angolna",
+            "tip": "Egyedülálló íz, amelyet csak itt talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Taverne pe Tourlida",
+            "tip": "Încercați pește super proaspăt cu vedere la lagună."
+          },
+          {
+            "name": "Avgotaracho",
+            "tip": "Delicatesa locală din icre de chefal."
+          },
+          {
+            "name": "Anghilă la grătar",
+            "tip": "Un gust unic pe care îl veți găsi doar aici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tavernas on Tourlida",
+            "tip": "Try super fresh fish with a view of the lagoon."
+          },
+          {
+            "name": "Avgotaracho",
+            "tip": "The local delicacy of grey mullet roe."
+          },
+          {
+            "name": "Grilled Eel",
+            "tip": "A unique taste you'll only find here."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Damm nach Tourlida",
+            "tip": "Das Gefühl, mitten im Wasser zu radeln, ist sehr friedlich.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Salzpfannen",
+            "tip": "Beobachten Sie die Vögel und die schimmernden Salzkristalle in der Stille.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Sonnenuntergang von der Westseite der Lagune",
+            "tip": "Ein perfekter Abschluss für einen aktiven Tag.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gát Tourlidába",
+            "tip": "Nagyon békés érzés a víz közepén biciklizni.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sólepárlók",
+            "tip": "Figyelje a madarakat és a csillogó sókristályokat a csendben.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Naplemente a lagúna nyugati oldaláról",
+            "tip": "Tökéletes befejezése egy aktív napnak.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Digul spre Tourlida",
+            "tip": "Senzația de a pedala în mijlocul apei este foarte pașnică.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Salinele",
+            "tip": "Observați păsările și cristalele de sare sclipitoare în liniște.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Apus de soare din partea de vest a lagunei",
+            "tip": "Un final perfect pentru o zi activă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Causeway to Tourlida",
+            "tip": "The feeling of cycling in the middle of the water is very peaceful.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Salt Pans",
+            "tip": "Watch the birds and the shimmering salt crystals in the quiet.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Sunset from the west side of the lagoon",
+            "tip": "A perfect end to an active day.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Avgotaracho",
+            "tip": "Das perfekte Geschenk für Feinschmecker zu Hause."
+          },
+          {
+            "name": "Lokales Olivenöl",
+            "tip": "Die Region produziert ausgezeichnetes Olivenöl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Avgotaracho",
+            "tip": "Tökéletes ajándék az otthoni ínyenceknek."
+          },
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "A régió kiváló olívaolajat termel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Avgotaracho",
+            "tip": "Cadoul perfect pentru gurmanzii de acasă."
+          },
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Regiunea produce un ulei de măsline excelent."
+          }
+        ],
+        "en": [
+          {
+            "name": "Avgotaracho",
+            "tip": "The perfect gift for foodies back home."
+          },
+          {
+            "name": "Local Olive Oil",
+            "tip": "The region produces excellent olive oil."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad, bevor Sie losfahren, insbesondere die Bremsen und Reifen.",
+          "Nehmen Sie Sonnencreme und einen Hut mit, da es wenig Schatten gibt.",
+          "Einige Wege können uneben sein, fahren Sie also vorsichtig.",
+          "Schließen Sie Ihr Fahrrad immer ab, wenn Sie es abstellen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját, különösen a fékeket és a gumikat.",
+          "Vigyen magával naptejet és kalapot, mivel kevés az árnyék.",
+          "Néhány út egyenetlen lehet, ezért óvatosan vezessen.",
+          "Mindig zárja le a kerékpárt, ha leteszi."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni, în special frânele și anvelopele.",
+          "Luați cremă de soare și o pălărie, deoarece există puțină umbră.",
+          "Unele poteci pot fi denivelate, așa că mergeți cu prudență.",
+          "Încuietăți-vă întotdeauna bicicleta când o lăsați."
+        ],
+        "en": [
+          "Check your bike before you set off, especially the brakes and tires.",
+          "Bring sunscreen and a hat as there is little shade.",
+          "Some paths can be uneven, so ride with care.",
+          "Always lock your bike when you leave it."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:24",
+      "total_km": 21.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Garten der Helden",
+            "hu": "Hősök kertje",
+            "ro": "Grădina Eroilor",
+            "en": "Garden of Heroes"
+          },
+          "coords": [
+            21.4275,
+            38.3711
+          ],
+          "category": "parks",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und beginnen Sie Ihren Rundgang durch das historische Zentrum.",
+            "hu": "Parkoljon a közelben, és kezdje meg a történelmi központ bejárását.",
+            "ro": "Parcați în apropiere și începeți turul pe jos al centrului istoric.",
+            "en": "Park nearby and start your walking tour of the historic center."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Geschichte und Kunst",
+            "hu": "Történeti és Művészeti Múzeum",
+            "ro": "Muzeul de Istorie și Artă",
+            "en": "Museum of History and Art"
+          },
+          "coords": [
+            21.4295,
+            38.367
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Garten zum Eintauchen in die Vergangenheit.",
+            "hu": "Rövid séta a kertből a múltba való elmerüléshez.",
+            "ro": "O scurtă plimbare de la grădină pentru o imersiune în trecut.",
+            "en": "A short walk from the garden for an immersion into the past."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Spyridon",
+            "hu": "Agios Spyridon templom",
+            "ro": "Biserica Agios Spyridon",
+            "en": "Church of Agios Spyridon"
+          },
+          "coords": [
+            21.429,
+            38.3685
+          ],
+          "category": "churches",
+          "arrive_at": "11:41",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen historisch bedeutsamen Ort im Herzen der Stadt.",
+            "hu": "Látogasson el erre a történelmileg jelentős helyre a város szívében.",
+            "ro": "Vizitați acest loc important din punct de vedere istoric în inima orașului.",
+            "en": "Visit this historically significant site in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Insel Tourlida",
+            "hu": "Tourlida-sziget",
+            "ro": "Insula Tourlida",
+            "en": "Tourlida Island"
+          },
+          "coords": [
+            21.41,
+            38.32
+          ],
+          "category": "natural features",
+          "arrive_at": "12:34",
+          "stay_min": 130,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie über den Damm für ein Mittagessen mit spektakulärer Aussicht.",
+            "hu": "Hajtson át a gáton egy látványos kilátással kecsegtető ebédért.",
+            "ro": "Conduceți peste dig pentru un prânz cu o priveliște spectaculoasă.",
+            "en": "Drive across the causeway for lunch with a spectacular view."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm von Tourlida",
+            "hu": "Tourlida világítótornya",
+            "ro": "Farul din Tourlida",
+            "en": "Lighthouse of Tourlida"
+          },
+          "coords": [
+            21.408,
+            38.315
+          ],
+          "category": "lighthouses",
+          "arrive_at": "14:48",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie nach dem Mittagessen zum Leuchtturm für ein paar tolle Fotos.",
+            "hu": "Ebéd után sétáljon el a világítótoronyhoz néhány remek fotóért.",
+            "ro": "După prânz, faceți o plimbare până la far pentru niște fotografii grozave.",
+            "en": "After lunch, take a stroll to the lighthouse for some great photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Trikoupis-Museum",
+            "hu": "Trikoupis Múzeum",
+            "ro": "Muzeul Trikoupis",
+            "en": "Trikoupis Museum"
+          },
+          "coords": [
+            21.428,
+            38.3695
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:44",
+          "stay_min": 60,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zurück ins Stadtzentrum und besuchen Sie das Haus des ehemaligen Premierministers.",
+            "hu": "Hajtson vissza a városközpontba, és látogassa meg az egykori miniszterelnök házát.",
+            "ro": "Întoarceți-vă în centrul orașului și vizitați casa fostului prim-ministru.",
+            "en": "Drive back to the city center and visit the home of the former Prime Minister."
+          }
+        },
+        {
+          "name": {
+            "de": "Lagune von Messolongi",
+            "hu": "Messolongi-lagúna",
+            "ro": "Laguna Messolongi",
+            "en": "Messolongi Lagoon"
+          },
+          "coords": [
+            21.425,
+            38.35
+          ],
+          "category": "natural features",
+          "arrive_at": "17:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem kurzen Spaziergang zum Ufer, um den Sonnenuntergang zu genießen.",
+            "hu": "Zárja a napot egy rövid sétával a parthoz, hogy élvezze a naplementét.",
+            "ro": "Încheiați ziua cu o scurtă plimbare până la mal pentru a vă bucura de apus.",
+            "en": "End your day with a short walk to the shore to enjoy the sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt im Zentrum von Messolongi. Sie parken und erkunden den ersten Cluster zu Fuß: den Garten der Helden, das Museum und die Kirche. Diese Gegend ist reich an Geschichte. Nach diesem historischen Vormittag fahren Sie über den beeindruckenden Damm zur Insel Tourlida. Hier, im zweiten Cluster, genießen Sie ein entspanntes Mittagessen am Wasser und spazieren zum malerischen Leuchtturm. Am Nachmittag fahren Sie zurück in die Stadt, um das Trikoupis-Museum zu besuchen, bevor Sie den Tag mit einem Spaziergang zur Lagune beenden, um den Sonnenuntergang über dem stillen Wasser zu beobachten.",
+        "hu": "Autós napja Messolongi központjában kezdődik. Leparkol, és gyalog fedezi fel az első klasztert: a Hősök kertjét, a múzeumot és a templomot. Ez a terület gazdag történelemben. A történelmi délelőtt után a lenyűgöző gáton át a Tourlida-szigetre hajt. Itt, a második klaszterben egy nyugodt ebédet fogyaszt el a vízparton, és elsétál a festői világítótoronyhoz. Délután visszatér a városba, hogy meglátogassa a Trikoupis Múzeumot, mielőtt a lagúnához tett sétával zárja a napot, hogy megnézze a naplementét a csendes víz felett.",
+        "ro": "Ziua cu mașina începe în centrul orașului Messolongi. Parcați și explorați primul grup de obiective pe jos: Grădina Eroilor, muzeul și biserica. Această zonă este bogată în istorie. După această dimineață istorică, conduceți peste digul impresionant spre Insula Tourlida. Aici, în al doilea grup, vă bucurați de un prânz relaxant pe malul apei și faceți o plimbare până la farul pitoresc. După-amiaza, vă întoarceți în oraș pentru a vizita Muzeul Trikoupis, înainte de a încheia ziua cu o plimbare spre lagună pentru a privi apusul peste apa liniștită.",
+        "en": "Your car day starts in the center of Messolongi. You'll park and explore the first cluster on foot: the Garden of Heroes, the museum, and the church. This area is rich with history. After this historical morning, you'll drive across the impressive causeway to Tourlida Island. Here, in the second cluster, you'll enjoy a relaxed lunch by the water and stroll to the picturesque lighthouse. In the afternoon, you'll drive back into town to visit the Trikoupis Museum before ending the day with a walk to the lagoon to watch the sunset over the still water."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fischtavernen auf Tourlida",
+            "tip": "Der frischeste Fisch und Meeresfrüchte, direkt aus der Lagune."
+          },
+          {
+            "name": "Avgotaracho",
+            "tip": "Probieren Sie diese lokale Spezialität, bekannt als griechischer Kaviar."
+          },
+          {
+            "name": "Lokale Weine",
+            "tip": "Fragen Sie nach einem Wein aus der Region Aetolia-Acarnania."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hal tavernák Tourlidán",
+            "tip": "A legfrissebb hal és tenger gyümölcsei, egyenesen a lagúnából."
+          },
+          {
+            "name": "Avgotaracho",
+            "tip": "Kóstolja meg ezt a helyi specialitást, amelyet görög kaviárként ismernek."
+          },
+          {
+            "name": "Helyi borok",
+            "tip": "Kérjen egy bort az Aetolia-Acarnania régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Taverne de pește pe Tourlida",
+            "tip": "Cel mai proaspăt pește și fructe de mare, direct din lagună."
+          },
+          {
+            "name": "Avgotaracho",
+            "tip": "Încercați această specialitate locală, cunoscută sub numele de caviar grecesc."
+          },
+          {
+            "name": "Vinuri locale",
+            "tip": "Cereți un vin din regiunea Aetolia-Acarnania."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish Tavernas on Tourlida",
+            "tip": "The freshest fish and seafood, straight from the lagoon."
+          },
+          {
+            "name": "Avgotaracho",
+            "tip": "Try this local specialty known as Greek caviar."
+          },
+          {
+            "name": "Local Wines",
+            "tip": "Ask for a wine from the Aetolia-Acarnania region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt über den Damm",
+            "tip": "Eine ruhige Fahrt umgeben von Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Die Lagune bei Sonnenuntergang",
+            "tip": "Ein magischer Moment der Stille und Schönheit.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Versteckte Gassen im Stadtzentrum",
+            "tip": "Entfliehen Sie den Hauptstraßen und finden Sie ruhige Ecken.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Utazás a gáton",
+            "tip": "Csendes utazás vízzel körülvéve.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A lagúna naplementekor",
+            "tip": "A csend és a szépség varázslatos pillanata.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rejtett sikátorok a városközpontban",
+            "tip": "Meneküljön el a főutcákról, és találjon csendes zugokat.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătoria peste dig",
+            "tip": "O călătorie liniștită înconjurată de apă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Laguna la apus",
+            "tip": "Un moment magic de liniște și frumusețe.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Străduțe ascunse în centrul orașului",
+            "tip": "Evadați de pe străzile principale și găsiți colțuri liniștite.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Drive across the causeway",
+            "tip": "A peaceful drive surrounded by water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The Lagoon at Sunset",
+            "tip": "A magical moment of silence and beauty.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hidden alleys in the city center",
+            "tip": "Escape the main streets and find quiet corners.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ganze Avgotaracho-Wachs-Sticks",
+            "tip": "Ein beeindruckendes und authentisches Geschenk."
+          },
+          {
+            "name": "Gesalzenes Meeresgetier",
+            "tip": "Kaufen Sie lokal konservierten Fisch als Andenken an Ihren Besuch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egész Avgotaracho viaszrudak",
+            "tip": "Lenyűgöző és autentikus ajándék."
+          },
+          {
+            "name": "Sózott tengeri herkentyűk",
+            "tip": "Vásároljon helyben tartósított halat látogatása emlékéül."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Batoane întregi de ceară Avgotaracho",
+            "tip": "Un cadou impresionant și autentic."
+          },
+          {
+            "name": "Creaturi marine sărate",
+            "tip": "Cumpărați pește conservat local ca amintire a vizitei dumneavoastră."
+          }
+        ],
+        "en": [
+          {
+            "name": "Whole Avgotaracho wax sticks",
+            "tip": "An impressive and authentic gift."
+          },
+          {
+            "name": "Salted sea creatures",
+            "tip": "Buy locally preserved fish as a memento of your visit."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten im Voraus, besonders im Stadtzentrum.",
+          "Die Straße nach Tourlida ist eng, fahren Sie vorsichtig.",
+          "Ein GPS ist nützlich, um sich zwischen den Clustern zurechtzufinden.",
+          "Planen Sie etwas Pufferzeit für den Verkehr ein, obwohl die Stadt klein ist."
+        ],
+        "hu": [
+          "Előre ellenőrizze a parkolási lehetőségeket, különösen a városközpontban.",
+          "A Tourlidába vezető út keskeny, vezessen óvatosan.",
+          "A GPS hasznos a klaszterek közötti eligazodáshoz.",
+          "Szánjon némi pufferidőt a forgalomra, bár a város kicsi."
+        ],
+        "ro": [
+          "Verificați opțiunile de parcare în avans, în special în centrul orașului.",
+          "Drumul spre Tourlida este îngust, conduceți cu atenție.",
+          "Un GPS este util pentru a naviga între grupurile de obiective.",
+          "Planificați o perioadă tampon pentru trafic, deși orașul este mic."
+        ],
+        "en": [
+          "Check parking options in advance, especially in the city center.",
+          "The road to Tourlida is narrow, drive with care.",
+          "A GPS is useful for navigating between clusters.",
+          "Plan some buffer time for traffic, even though the town is small."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:39",
+      "total_km": 7.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Garten der Helden",
+            "hu": "Hősök kertje",
+            "ro": "Grădina Eroilor",
+            "en": "Garden of Heroes"
+          },
+          "coords": [
+            21.4275,
+            38.3711
+          ],
+          "category": "parks",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum zentralen Platz und beginnen Sie Ihren Tag hier.",
+            "hu": "Menjen busszal a központi térre, és kezdje itt a napot.",
+            "ro": "Luați un autobuz spre piața centrală și începeți ziua de aici.",
+            "en": "Take a bus to the central square and start your day here."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Geschichte und Kunst",
+            "hu": "Történeti és Művészeti Múzeum",
+            "ro": "Muzeul de Istorie și Artă",
+            "en": "Museum of History and Art"
+          },
+          "coords": [
+            21.4295,
+            38.367
+          ],
+          "category": "museums",
+          "arrive_at": "10:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Alles im Zentrum ist leicht zu Fuß erreichbar.",
+            "hu": "A központban minden könnyen elérhető gyalog.",
+            "ro": "Totul în centru este ușor accesibil pe jos.",
+            "en": "Everything in the center is easily walkable."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Spyridon",
+            "hu": "Agios Spyridon templom",
+            "ro": "Biserica Agios Spyridon",
+            "en": "Church of Agios Spyridon"
+          },
+          "coords": [
+            21.429,
+            38.3685
+          ],
+          "category": "churches",
+          "arrive_at": "12:06",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum zu diesem wichtigen Wahrzeichen.",
+            "hu": "Rövid séta a múzeumtól ehhez a fontos nevezetességhez.",
+            "ro": "O scurtă plimbare de la muzeu la acest reper important.",
+            "en": "A short walk from the museum to this important landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Lagune von Messolongi",
+            "hu": "Messolongi-lagúna",
+            "ro": "Laguna Messolongi",
+            "en": "Messolongi Lagoon"
+          },
+          "coords": [
+            21.425,
+            38.35
+          ],
+          "category": "natural features",
+          "arrive_at": "13:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus in Richtung Tourlida und steigen Sie in der Nähe der Lagune aus. Zeit für Mittagessen.",
+            "hu": "Menjen helyi busszal Tourlida irányába, és szálljon le a lagúna közelében. Ideje ebédelni.",
+            "ro": "Luați un autobuz local spre Tourlida și coborâți lângă lagună. Timp pentru prânz.",
+            "en": "Take a local bus towards Tourlida and get off near the lagoon. Time for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Lord Byron Statue",
+            "hu": "Lord Byron szobra",
+            "ro": "Statuia Lordului Byron",
+            "en": "Lord Byron Statue"
+          },
+          "coords": [
+            21.428,
+            38.3705
+          ],
+          "category": "monuments",
+          "arrive_at": "15:05",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie nach dem Mittagessen zu diesem Denkmal.",
+            "hu": "Ebéd után sétáljon el ehhez az emlékműhöz.",
+            "ro": "După prânz, faceți o plimbare până la acest monument.",
+            "en": "After lunch, take a walk to this monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Diexodos",
+            "hu": "Diexodos Kulturális Központ",
+            "ro": "Centrul Cultural Diexodos",
+            "en": "Diexodos Cultural Centre"
+          },
+          "coords": [
+            21.426,
+            38.3675
+          ],
+          "category": "cultural centres",
+          "arrive_at": "15:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein letzter kurzer Spaziergang, um den kulturellen Puls der Stadt zu spüren.",
+            "hu": "Egy utolsó rövid séta, hogy megérezze a város kulturális lüktetését.",
+            "ro": "O ultimă plimbare scurtă pentru a simți pulsul cultural al orașului.",
+            "en": "A final short walk to feel the cultural pulse of the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Erkundung mit öffentlichen Verkehrsmitteln beginnt im historischen Zentrum, das Sie nach einer kurzen Busfahrt erreichen. Der Vormittag ist ein Spaziergang durch den ersten Cluster: den Garten der Helden, das Museum und die Kirche. Nach diesem kulturellen Eintauchen nehmen Sie einen weiteren Bus, der Sie aus der Stadt hinaus in Richtung der Lagune bringt. In diesem zweiten Cluster verbringen Sie den Nachmittag mit einem Mittagessen am Wasser, einem Spaziergang zu Ehren Lord Byrons und einem Besuch des Diexodos-Kulturzentrums, bevor Sie mit dem Bus zurückfahren.",
+        "hu": "A tömegközlekedéssel való felfedezés a történelmi központban kezdődik, ahová egy rövid buszút után érkezik. A délelőtt egy séta az első klaszteren keresztül: a Hősök kertje, a múzeum és a templom. E kulturális elmélyülés után egy másik busszal indul ki a városból a lagúna felé. Ebben a második klaszterben tölti a délutánt egy vízparti ebéddel, egy sétával Lord Byron tiszteletére és a Diexodos Kulturális Központ meglátogatásával, mielőtt busszal visszatérne.",
+        "ro": "Explorarea cu transportul public începe în centrul istoric, unde ajungeți după o scurtă călătorie cu autobuzul. Dimineața este o plimbare prin primul grup: Grădina Eroilor, muzeul și biserica. După această imersiune culturală, luați un alt autobuz care vă duce în afara orașului spre lagună. În acest al doilea grup, vă petreceți după-amiaza cu un prânz pe malul apei, o plimbare în onoarea Lordului Byron și o vizită la Centrul Cultural Diexodos, înainte de a lua autobuzul înapoi.",
+        "en": "Your exploration by public transport begins in the historic center, reached after a short bus ride. The morning is a walking tour through the first cluster: the Garden of Heroes, the museum, and the church. After this cultural immersion, you take another bus that takes you out of town towards the lagoon. In this second cluster, you'll spend the afternoon with a waterside lunch, a walk in honor of Lord Byron, and a visit to the Diexodos Cultural Centre before taking the bus back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ouzeri im Stadtzentrum",
+            "tip": "Probieren Sie Mezedes (kleine Gerichte) mit einem Glas Ouzo."
+          },
+          {
+            "name": "Avgotaracho",
+            "tip": "Suchen Sie nach Geschäften, die diese lokale Spezialität verkaufen."
+          },
+          {
+            "name": "Geräucherter Aal",
+            "tip": "Eine Delikatesse, die Sie in den Restaurants am Wasser finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ouzeri a városközpontban",
+            "tip": "Kóstolja meg a mezedeket (kis ételeket) egy pohár ouzóval."
+          },
+          {
+            "name": "Avgotaracho",
+            "tip": "Keresse azokat az üzleteket, amelyek ezt a helyi specialitást árulják."
+          },
+          {
+            "name": "Füstölt angolna",
+            "tip": "Egy finomság, amelyet a vízparti éttermekben talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ouzeri în centrul orașului",
+            "tip": "Încercați mezedes (mici feluri de mâncare) cu un pahar de ouzo."
+          },
+          {
+            "name": "Avgotaracho",
+            "tip": "Căutați magazine care vând această specialitate locală."
+          },
+          {
+            "name": "Anghilă afumată",
+            "tip": "O delicatesă pe care o veți găsi în restaurantele de pe malul apei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ouzeri in the city center",
+            "tip": "Try mezedes (small dishes) with a glass of ouzo."
+          },
+          {
+            "name": "Avgotaracho",
+            "tip": "Look for shops that sell this local specialty."
+          },
+          {
+            "name": "Smoked Eel",
+            "tip": "A delicacy you'll find in the waterside restaurants."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Beobachtung der Pelikane in der Lagune",
+            "tip": "Eine friedliche Aktivität, um mit der Natur in Kontakt zu treten.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Eine Bank im Garten der Helden",
+            "tip": "Ein ruhiger Ort, um die Atmosphäre aufzusaugen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Abendstimmung am Hafen",
+            "tip": "Beobachten Sie, wie die Fischerboote bei Sonnenuntergang zurückkehren.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pelikánok megfigyelése a lagúnában",
+            "tip": "Békés tevékenység a természettel való kapcsolatteremtéshez.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Egy pad a Hősök kertjében",
+            "tip": "Csendes hely a hangulat magába szívásához.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Esti hangulat a kikötőben",
+            "tip": "Nézze, ahogy a halászhajók naplementekor visszatérnek.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Observarea pelicanilor în lagună",
+            "tip": "O activitate pașnică pentru a intra în contact cu natura.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "O bancă în Grădina Eroilor",
+            "tip": "Un loc liniștit pentru a absorbi atmosfera.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Atmosfera de seară în port",
+            "tip": "Priviți bărcile de pescuit întorcându-se la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Watching the pelicans in the lagoon",
+            "tip": "A peaceful activity to connect with nature.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "A bench in the Garden of Heroes",
+            "tip": "A quiet spot to soak in the atmosphere.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Evening atmosphere at the port",
+            "tip": "Watch the fishing boats return at sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerkskunst",
+            "tip": "Suchen Sie nach Keramik und Textilien in den kleinen Läden."
+          },
+          {
+            "name": "Meersalz aus Messolongi",
+            "tip": "Ein authentisches und nützliches Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen kerámiát és textíliákat a kis üzletekben."
+          },
+          {
+            "name": "Messolongi tengeri só",
+            "tip": "Autentikus és hasznos szuvenír."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați ceramică și textile în micile magazine."
+          },
+          {
+            "name": "Sare de mare din Messolongi",
+            "tip": "Un suvenir autentic și util."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local handicrafts",
+            "tip": "Look for ceramics and textiles in the small shops."
+          },
+          {
+            "name": "Messolongi Sea Salt",
+            "tip": "An authentic and useful souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich im Voraus über die Busfahrpläne.",
+          "Haben Sie etwas Kleingeld für Bustickets dabei.",
+          "Die Busse fahren möglicherweise nicht sehr häufig, planen Sie also entsprechend.",
+          "Fragen Sie Einheimische nach der richtigen Bushaltestelle, wenn Sie unsicher sind."
+        ],
+        "hu": [
+          "Előre tájékozódjon a buszmenetrendekről.",
+          "Legyen nálad aprópénz a buszjegyekhez.",
+          "A buszok nem biztos, hogy túl gyakran járnak, ezért tervezzen ennek megfelelően.",
+          "Kérdezze meg a helyieket a megfelelő buszmegállóról, ha bizonytalan."
+        ],
+        "ro": [
+          "Verificați din timp orarele autobuzelor.",
+          "Aveți la îndemână mărunțiș pentru biletele de autobuz.",
+          "Este posibil ca autobuzele să nu circule foarte frecvent, așa că planificați în consecință.",
+          "Întrebați localnicii care este stația de autobuz corectă dacă nu sunteți sigur."
+        ],
+        "en": [
+          "Check the bus schedules in advance.",
+          "Have some small change ready for bus tickets.",
+          "Buses may not run very frequently, so plan accordingly.",
+          "Ask locals for the correct bus stop if you are unsure."
+        ]
+      }
+    }
+  }
+}

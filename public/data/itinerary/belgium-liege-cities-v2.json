@@ -1,0 +1,1564 @@
+{
+  "city_id": "belgium-liege-cities-v2",
+  "anchor": {
+    "name": "Lüttich",
+    "coords": [
+      5.5797,
+      50.6326
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Place Saint-Lambert",
+            "hu": "Szent Lambert tér",
+            "ro": "Piața Saint-Lambert",
+            "en": "Saint Lambert Square"
+          },
+          "coords": [
+            5.5725,
+            50.6452
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier mit einem Kaffee und beobachten Sie das Treiben der Stadt.",
+            "hu": "Kezdje a napot egy kávéval, és figyelje a város ébredését.",
+            "ro": "Începeți ziua aici cu o cafea, privind agitația orașului.",
+            "en": "Start your day here with a coffee, watching the city come to life."
+          }
+        },
+        {
+          "name": {
+            "de": "Archéoforum",
+            "hu": "Archéoforum",
+            "ro": "Archéoforum",
+            "en": "Archéoforum"
+          },
+          "coords": [
+            5.5728,
+            50.6455
+          ],
+          "category": "museums",
+          "arrive_at": "09:42",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Fundamente der alten Kathedrale direkt unter dem Platz.",
+            "hu": "Fedezze fel a régi katedrális alapjait közvetlenül a tér alatt.",
+            "ro": "Descoperiți fundațiile vechii catedrale chiar sub piață.",
+            "en": "Discover the foundations of the old cathedral right under the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Palais des Princes-Évêques",
+            "hu": "Hercegérsekeki Palota",
+            "ro": "Palatul Prinților-Episcopi",
+            "en": "Palace of the Prince-Bishops"
+          },
+          "coords": [
+            5.5715,
+            50.6462
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:00",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie den Innenhof, der frei zugänglich ist.",
+            "hu": "Csodálja meg a szabadon látogatható belső udvart.",
+            "ro": "Admirați curtea interioară, care este deschisă publicului.",
+            "en": "Admire the inner courtyard, which is open to the public."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Perron",
+            "hu": "Le Perron",
+            "ro": "Le Perron",
+            "en": "Le Perron"
+          },
+          "coords": [
+            5.5752,
+            50.6458
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:53",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das Symbol der städtischen Freiheit ist ein beliebter Treffpunkt.",
+            "hu": "A városi szabadság szimbóluma egy népszerű találkozóhely.",
+            "ro": "Simbolul libertății orașului este un punct de întâlnire popular.",
+            "en": "The symbol of the city's freedom is a popular meeting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Cathédrale Saint-Paul",
+            "hu": "Szent Pál-katedrális",
+            "ro": "Catedrala Sfântul Paul",
+            "en": "Saint Paul's Cathedral"
+          },
+          "coords": [
+            5.571,
+            50.6405
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:23",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden Glasfenster und den Domschatz.",
+            "hu": "Figyelje meg a lenyűgöző üvegablakokat és a kincstárat.",
+            "ro": "Fiți atenți la vitraliile impresionante și la tezaurul catedralei.",
+            "en": "Pay attention to the impressive stained glass windows and the cathedral treasury."
+          }
+        },
+        {
+          "name": {
+            "de": "Collégiale Saint-Barthélemy",
+            "hu": "Szent Bertalan templom",
+            "ro": "Colegiata Sfântul Bartolomeu",
+            "en": "Collegiate Church of Saint Bartholomew"
+          },
+          "coords": [
+            5.5795,
+            50.6478
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:03",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Das Taufbecken aus Messing ist ein Meisterwerk der maasländischen Kunst.",
+            "hu": "A sárgaréz keresztelőmedence a Maas-vidéki művészet remekműve.",
+            "ro": "Cristelnița din alamă este o capodoperă a artei mosane.",
+            "en": "The brass baptismal font is a masterpiece of Mosan art."
+          }
+        },
+        {
+          "name": {
+            "de": "Montagne de Bueren",
+            "hu": "Montagne de Bueren",
+            "ro": "Montagne de Bueren",
+            "en": "Montagne de Bueren"
+          },
+          "coords": [
+            5.5765,
+            50.6495
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "14:53",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die 374 Stufen sind eine Herausforderung, aber die Aussicht belohnt die Mühe.",
+            "hu": "A 374 lépcső kihívást jelent, de a kilátás megéri a fáradságot.",
+            "ro": "Cele 374 de trepte sunt o provocare, dar priveliștea recompensează efortul.",
+            "en": "The 374 steps are a challenge, but the view rewards the effort."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de la Boverie",
+            "hu": "La Boverie Múzeum",
+            "ro": "Muzeul La Boverie",
+            "en": "La Boverie Museum"
+          },
+          "coords": [
+            5.578,
+            50.6285
+          ],
+          "category": "museums",
+          "arrive_at": "16:23",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit Kunst und einem Spaziergang im umliegenden Park.",
+            "hu": "Zárja a napot művészettel és egy sétával a környező parkban.",
+            "ro": "Încheiați ziua cu artă și o plimbare în parcul înconjurător.",
+            "en": "End your day with art and a stroll in the surrounding park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Lüttich beginnt auf dem historischen Place Saint-Lambert, wo Sie die Schichten der Geschichte im Archéoforum entdecken. Am Vormittag erkunden Sie das Machtzentrum der Stadt, den Palast der Fürstbischöfe. Nach dem Mittagessen in der Altstadt steigen Sie zur Kathedrale auf, bevor Sie die berühmte Treppe der Montagne de Bueren in Angriff nehmen. Der Nachmittag klingt mit moderner Kunst im Musée de la Boverie und einem entspannten Spaziergang entlang der Maas aus, gefolgt von einer wohlverdienten Lütticher Waffel.",
+        "hu": "A lüttichi nap a történelmi Place Saint-Lambert téren kezdődik, ahol az Archéoforumban felfedezheti a történelem rétegeit. Délelőtt a város hatalmi központját, a hercegérsekeki palotát fedezi fel. Az óvárosi ebéd után felsétál a katedrálishoz, majd megmássza a híres Montagne de Bueren lépcsőt. A délután a La Boverie múzeum modern művészetével és egy pihentető Maas-parti sétával zárul, amit egy jól megérdemelt lüttichi gofri követ.",
+        "ro": "Ziua dvs. în Liège începe în istorica Piață Saint-Lambert, unde descoperiți straturile de istorie la Archéoforum. Dimineața explorați centrul puterii orașului, Palatul Prinților-Episcopi. După prânzul în orașul vechi, urcați la catedrală înainte de a aborda faimoasele scări Montagne de Bueren. După-amiaza se încheie cu artă modernă la Muzeul La Boverie și o plimbare relaxantă pe malul Meusei, urmată de o binemeritată gofră de Liège.",
+        "en": "Your day in Liège starts at the historic Place Saint-Lambert, uncovering layers of history at the Archéoforum. The morning is for exploring the city's power center, the Palace of the Prince-Bishops. After lunch in the old town, you'll ascend to the cathedral before tackling the famous Montagne de Bueren staircase. The afternoon concludes with modern art at the Musée de la Boverie and a relaxing stroll along the Meuse, followed by a well-deserved Liège waffle."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Boulets à la Liégeoise",
+            "tip": "Probieren Sie die lokalen Fleischbällchen in einer süß-sauren Sirupsoße."
+          },
+          {
+            "name": "Gaufre de Liège",
+            "tip": "Eine dichte, karamellisierte Waffel, die man am besten warm auf der Straße isst."
+          },
+          {
+            "name": "Peket",
+            "tip": "Der lokale Genever, den es in vielen Geschmacksrichtungen gibt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boulets à la Liégeoise",
+            "tip": "Kóstolja meg a helyi húsgombócokat édes-savanyú szirupos szószban."
+          },
+          {
+            "name": "Gaufre de Liège",
+            "tip": "Sűrű, karamellizált gofri, amit a legjobb melegen, utcai árustól enni."
+          },
+          {
+            "name": "Peket",
+            "tip": "A helyi borókapálinka, számos ízben kapható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boulets à la Liégeoise",
+            "tip": "Încercați chiftelele locale într-un sos dulce-acrișor de sirop."
+          },
+          {
+            "name": "Gaufre de Liège",
+            "tip": "O gofră densă, caramelizată, cel mai bine savurată caldă, de la un vânzător ambulant."
+          },
+          {
+            "name": "Peket",
+            "tip": "Ginul local, disponibil în multe arome."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boulets à la Liégeoise",
+            "tip": "Try the local meatballs in a sweet and sour syrup sauce."
+          },
+          {
+            "name": "Gaufre de Liège",
+            "tip": "A dense, caramelized waffle, best eaten warm from a street vendor."
+          },
+          {
+            "name": "Peket",
+            "tip": "The local jenever (gin), available in many flavors."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc de la Boverie",
+            "tip": "Eine grüne Oase zwischen zwei Flussarmen, perfekt für eine Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Coteaux de la Citadelle",
+            "tip": "Wandern Sie durch die Hanggärten für eine ruhige Aussicht über die Stadt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ufer der Maas",
+            "tip": "Ein Spaziergang am Flussufer bei Sonnenuntergang.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Boverie park",
+            "tip": "Zöld oázis két folyóág között, tökéletes egy kis szünetre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Coteaux de la Citadelle",
+            "tip": "Sétáljon a hegyoldali kertekben a városra nyíló csendes kilátásért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Maas partja",
+            "tip": "Séta a folyóparton naplementekor.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul La Boverie",
+            "tip": "O oază de verdeață între două brațe ale râului, perfectă pentru o pauză.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Coteaux de la Citadelle",
+            "tip": "Plimbați-vă prin grădinile de pe versant pentru o priveliște liniștită asupra orașului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malurile Meusei",
+            "tip": "O plimbare pe malul râului la apus.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc de la Boverie",
+            "tip": "A green oasis between two river arms, perfect for a break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Coteaux de la Citadelle",
+            "tip": "Wander through the hillside gardens for a quiet view over the city.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Banks of the Meuse",
+            "tip": "A stroll along the riverbank at sunset.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Le Carré",
+            "tip": "Ein Viertel mit vielen Boutiquen und Fachgeschäften."
+          },
+          {
+            "name": "Sonntagsmarkt La Batte",
+            "tip": "Einer der größten und ältesten Märkte Europas, ein Fest für die Sinne."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Carré",
+            "tip": "Butikokkal és szaküzletekkel teli negyed."
+          },
+          {
+            "name": "La Batte vasárnapi piac",
+            "tip": "Európa egyik legnagyobb és legrégebbi piaca, az érzékek ünnepe."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Carré",
+            "tip": "Un cartier cu numeroase buticuri și magazine de specialitate."
+          },
+          {
+            "name": "Piața de duminică La Batte",
+            "tip": "Una dintre cele mai mari și mai vechi piețe din Europa, un festin pentru simțuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Carré",
+            "tip": "A district filled with boutiques and specialty shops."
+          },
+          {
+            "name": "La Batte Sunday Market",
+            "tip": "One of the largest and oldest markets in Europe, a feast for the senses."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum Kopfsteinpflaster hat und die Montagne de Bueren eine Herausforderung ist.",
+          "Viele Museen sind am ersten Sonntag des Monats kostenlos.",
+          "Probieren Sie eine Waffel von einem Straßenstand für das authentischste Erlebnis."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a belváros macskaköves, a Montagne de Bueren pedig kihívást jelent.",
+          "Sok múzeum ingyenes a hónap első vasárnapján.",
+          "Kóstoljon meg egy gofrit egy utcai árustól a leghitelesebb élményért."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul orașului este pavat și Montagne de Bueren este o provocare.",
+          "Multe muzee sunt gratuite în prima duminică a lunii.",
+          "Încercați o gofră de la un vânzător ambulant pentru cea mai autentică experiență."
+        ],
+        "en": [
+          "Wear comfortable shoes as the city center is cobbled and the Montagne de Bueren is a challenge.",
+          "Many museums are free on the first Sunday of the month.",
+          "Try a waffle from a street stand for the most authentic experience."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Gare de Liège-Guillemins",
+            "hu": "Liège-Guillemins pályaudvar",
+            "ro": "Gara Liège-Guillemins",
+            "en": "Liège-Guillemins Station"
+          },
+          "coords": [
+            5.5663,
+            50.6242
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die futuristische Architektur von Santiago Calatrava.",
+            "hu": "Csodálja meg Santiago Calatrava futurisztikus építészetét.",
+            "ro": "Admirați arhitectura futuristă a lui Santiago Calatrava.",
+            "en": "Admire the futuristic architecture by Santiago Calatrava."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de la Boverie",
+            "hu": "La Boverie Múzeum",
+            "ro": "Muzeul La Boverie",
+            "en": "La Boverie Museum"
+          },
+          "coords": [
+            5.578,
+            50.6285
+          ],
+          "category": "museums",
+          "arrive_at": "09:58",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Fahren Sie durch den Park und verbinden Sie Natur mit Kunst.",
+            "hu": "Tekerjen át a parkon, és kösse össze a természetet a művészettel.",
+            "ro": "Plimbați-vă cu bicicleta prin parc, combinând natura cu arta.",
+            "en": "Cycle through the park, combining nature with art."
+          }
+        },
+        {
+          "name": {
+            "de": "Cathédrale Saint-Paul",
+            "hu": "Szent Pál-katedrális",
+            "ro": "Catedrala Sfântul Paul",
+            "en": "Saint Paul's Cathedral"
+          },
+          "coords": [
+            5.571,
+            50.6405
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:53",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad in der Nähe ab und nehmen Sie sich Zeit für das Innere.",
+            "hu": "Parkolja le a biciklit a közelben, és szánjon időt a belső térre.",
+            "ro": "Parcați bicicleta în apropiere și acordați-vă timp pentru interior.",
+            "en": "Park your bike nearby and take your time to see the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Place Saint-Lambert",
+            "hu": "Szent Lambert tér",
+            "ro": "Piața Saint-Lambert",
+            "en": "Saint Lambert Square"
+          },
+          "coords": [
+            5.5725,
+            50.6452
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:00",
+          "stay_min": 70,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für eine Mittagspause mit Blick auf das historische Zentrum.",
+            "hu": "Ideális hely egy ebédszünetre, kilátással a történelmi központra.",
+            "ro": "Un loc ideal pentru o pauză de prânz cu vedere la centrul istoric.",
+            "en": "An ideal spot for a lunch break overlooking the historic center."
+          }
+        },
+        {
+          "name": {
+            "de": "Collégiale Saint-Barthélemy",
+            "hu": "Szent Bertalan templom",
+            "ro": "Colegiata Sfântul Bartolomeu",
+            "en": "Collegiate Church of Saint Bartholomew"
+          },
+          "coords": [
+            5.5795,
+            50.6478
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:16",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahren Sie entlang der Maas, um zu diesem romanischen Juwel zu gelangen.",
+            "hu": "Tekerjen a Maas mentén, hogy elérje ezt a román stílusú ékszerdobozt.",
+            "ro": "Mergeți cu bicicleta de-a lungul Meusei pentru a ajunge la această bijuterie romanică.",
+            "en": "Cycle along the Meuse to reach this Romanesque gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Montagne de Bueren",
+            "hu": "Montagne de Bueren",
+            "ro": "Montagne de Bueren",
+            "en": "Montagne de Bueren"
+          },
+          "coords": [
+            5.5765,
+            50.6495
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "15:01",
+          "stay_min": 50,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad unten ab, bevor Sie die Treppe erklimmen.",
+            "hu": "Zárja le a kerékpárt lent, mielőtt megmássza a lépcsőt.",
+            "ro": "Lăsați bicicleta jos înainte de a urca scările.",
+            "en": "Lock your bike at the bottom before climbing the stairs."
+          }
+        },
+        {
+          "name": {
+            "de": "Opéra Royal de Wallonie",
+            "hu": "Vallon Királyi Opera",
+            "ro": "Opera Regală din Valonia",
+            "en": "Royal Opera of Wallonia"
+          },
+          "coords": [
+            5.5723,
+            50.6428
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:18",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 4.7,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour vor diesem prächtigen Opernhaus.",
+            "hu": "Fejezze be a kerékpártúrát ennél a pompás operaháznál.",
+            "ro": "Încheiați turul cu bicicleta în fața acestei magnifice opere.",
+            "en": "End your bike tour in front of this magnificent opera house."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und starten Sie am futuristischen Bahnhof Guillemins. Folgen Sie dem Lauf der Maas zum Parc de la Boverie für eine Dosis Kunst am Morgen. Überqueren Sie den Fluss ins historische Herz der Stadt, wo die Kathedrale und der Place Saint-Lambert auf Sie warten. Stärken Sie sich mit einem Mittagessen, bevor Sie das romanische Wunder von Saint-Barthélemy und die sportliche Herausforderung der Montagne de Bueren annehmen. Die Tour endet mit einem Hauch von Kultur an der prächtigen Oper.",
+        "hu": "Pattanjon biciklire, és induljon a futurisztikus Guillemins pályaudvartól. Kövesse a Maas folyását a Boverie parkig egy reggeli művészeti adagért. Keljen át a folyón a város történelmi szívébe, ahol a katedrális és a Place Saint-Lambert várja. Ebédeljen meg, mielőtt nekivágna a Szent Bertalan-templom román stílusú csodájának és a Montagne de Bueren sportos kihívásának. A túra a csodálatos operaháznál ér véget egy kis kultúrával.",
+        "ro": "Urcați-vă pe bicicletă și porniți de la gara futuristă Guillemins. Urmați cursul Meusei până la Parcul Boverie pentru o doză de artă matinală. Traversați râul în inima istorică a orașului, unde vă așteaptă catedrala și Piața Saint-Lambert. Luați prânzul înainte de a aborda minunea romanică Saint-Barthélemy și provocarea sportivă Montagne de Bueren. Turul se încheie cu o notă culturală la magnifica operă.",
+        "en": "Hop on your bike and start at the futuristic Guillemins station. Follow the course of the Meuse to Parc de la Boverie for a morning dose of art. Cross the river into the historic heart of the city, where the cathedral and Place Saint-Lambert await. Refuel with lunch before tackling the Romanesque wonder of Saint-Barthélemy and the athletic challenge of Montagne de Bueren. The tour concludes with a touch of culture at the magnificent opera house."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Salade Liégeoise",
+            "tip": "Ein herzhafter Salat mit grünen Bohnen, Kartoffeln und Speck."
+          },
+          {
+            "name": "Gaufre de Liège",
+            "tip": "Die perfekte süße Belohnung nach einer Radtour."
+          },
+          {
+            "name": "Lokale Biere",
+            "tip": "Suchen Sie nach Brauereien wie der Brasserie C."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Salade Liégeoise",
+            "tip": "Kiadós saláta zöldbabbal, krumplival és szalonnával."
+          },
+          {
+            "name": "Gaufre de Liège",
+            "tip": "A tökéletes édes jutalom egy biciklitúra után."
+          },
+          {
+            "name": "Helyi sörök",
+            "tip": "Keressen olyan sörfőzdéket, mint a Brasserie C."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Salade Liégeoise",
+            "tip": "O salată consistentă cu fasole verde, cartofi și șuncă."
+          },
+          {
+            "name": "Gaufre de Liège",
+            "tip": "Recompensa dulce perfectă după un tur cu bicicleta."
+          },
+          {
+            "name": "Beri locale",
+            "tip": "Căutați berării precum Brasserie C."
+          }
+        ],
+        "en": [
+          {
+            "name": "Salade Liégeoise",
+            "tip": "A hearty salad with green beans, potatoes, and bacon."
+          },
+          {
+            "name": "Gaufre de Liège",
+            "tip": "The perfect sweet reward after a bike ride."
+          },
+          {
+            "name": "Local Beers",
+            "tip": "Look for breweries like Brasserie C."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Maas-Radweg",
+            "tip": "Eine ruhige Fahrt entlang des Flusses, weg vom Stadtverkehr.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Gipfel der Montagne de Bueren",
+            "tip": "Nach dem Aufstieg genießen Sie die Stille und die weite Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parc de la Boverie",
+            "tip": "Finden Sie eine ruhige Bank im Rosengarten des Parks.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maas kerékpárút",
+            "tip": "Csendes tekerés a folyó mentén, távol a városi forgalomtól.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Montagne de Bueren csúcsa",
+            "tip": "A mászás után élvezze a csendet és a széles kilátást.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "La Boverie park",
+            "tip": "Keressen egy csendes padot a park rózsakertjében.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de pe Meuse",
+            "tip": "O plimbare liniștită de-a lungul râului, departe de traficul orașului.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Vârful Montagne de Bueren",
+            "tip": "După urcare, bucurați-vă de liniște și de priveliștea panoramică.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul La Boverie",
+            "tip": "Găsiți o bancă liniștită în grădina de trandafiri a parcului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Meuse Cycle Path",
+            "tip": "A quiet ride along the river, away from city traffic.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Top of Montagne de Bueren",
+            "tip": "After the climb, enjoy the silence and the wide view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parc de la Boverie",
+            "tip": "Find a quiet bench in the park's rose garden.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue Neuvice",
+            "tip": "Eine der ältesten Straßen Lüttichs mit handwerklichen Geschäften."
+          },
+          {
+            "name": "Galerie Cathédrale",
+            "tip": "Ein modernes Einkaufszentrum für einen schnellen Einkauf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue Neuvice",
+            "tip": "Lüttich egyik legrégebbi utcája kézműves boltokkal."
+          },
+          {
+            "name": "Galerie Cathédrale",
+            "tip": "Modern bevásárlóközpont egy gyors vásárláshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue Neuvice",
+            "tip": "Una dintre cele mai vechi străzi din Liège, cu magazine de artizanat."
+          },
+          {
+            "name": "Galerie Cathédrale",
+            "tip": "Un centru comercial modern pentru cumpărături rapide."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue Neuvice",
+            "tip": "One of Liège's oldest streets, with artisan shops."
+          },
+          {
+            "name": "Galerie Cathédrale",
+            "tip": "A modern shopping center for a quick purchase."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Radwege entlang der Maas für eine sichere und malerische Fahrt.",
+          "Einige Innenstadtstraßen haben Kopfsteinpflaster, fahren Sie vorsichtig.",
+          "Ein gutes Schloss ist unerlässlich, wenn Sie Ihr Fahrrad abstellen, um Sehenswürdigkeiten zu besichtigen."
+        ],
+        "hu": [
+          "Használja a Maas menti kerékpárutakat a biztonságos és festői utazáshoz.",
+          "Néhány belvárosi utca macskaköves, vezessen óvatosan.",
+          "Egy jó lakat elengedhetetlen, ha leparkolja a kerékpárt a látnivalók megtekintéséhez."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete de-a lungul Meusei pentru o plimbare sigură și pitorească.",
+          "Unele străzi din centrul orașului sunt pavate, conduceți cu prudență.",
+          "Un lacăt bun este esențial atunci când lăsați bicicleta pentru a vizita obiectivele turistice."
+        ],
+        "en": [
+          "Use the cycle paths along the Meuse for a safe and scenic ride.",
+          "Some city center streets are cobbled, ride with care.",
+          "A good lock is essential when leaving your bike to visit sights."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 8.7,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Bahnhof Guillemins",
+            "hu": "Parkolás a Guillemins pályaudvarnál",
+            "ro": "Parcare la gara Guillemins",
+            "en": "Parking at Guillemins Station"
+          },
+          "coords": [
+            5.5663,
+            50.6242
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie am architektonischen Wunderwerk und parken Sie hier.",
+            "hu": "Kezdje a napot az építészeti csodánál, és parkoljon itt.",
+            "ro": "Începeți la minunea arhitecturală și parcați aici.",
+            "en": "Start at the architectural marvel and park here."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de la Boverie",
+            "hu": "La Boverie Múzeum",
+            "ro": "Muzeul La Boverie",
+            "en": "La Boverie Museum"
+          },
+          "coords": [
+            5.578,
+            50.6285
+          ],
+          "category": "museums",
+          "arrive_at": "09:43",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Bahnhof durch den Park.",
+            "hu": "Rövid séta a pályaudvartól a parkon keresztül.",
+            "ro": "O scurtă plimbare de la gară prin parc.",
+            "en": "A short walk from the station through the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkhaus Cité (Cluster Altstadt)",
+            "hu": "Cité parkolóház (Óváros klaszter)",
+            "ro": "Parcarea Cité (Clusterul Orașul Vechi)",
+            "en": "Cité Parking Garage (Old Town Cluster)"
+          },
+          "coords": [
+            5.574,
+            50.647
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:33",
+          "stay_min": 10,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Rest des Tages und erkunden Sie die Altstadt zu Fuß.",
+            "hu": "Parkoljon itt a nap hátralévő részére, és fedezze fel gyalog az óvárost.",
+            "ro": "Parcați aici pentru restul zilei și explorați orașul vechi pe jos.",
+            "en": "Park here for the rest of the day and explore the old town on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Place Saint-Lambert",
+            "hu": "Szent Lambert tér",
+            "ro": "Piața Saint-Lambert",
+            "en": "Saint Lambert Square"
+          },
+          "coords": [
+            5.5725,
+            50.6452
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:48",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der perfekte Ort für eine Mittagspause.",
+            "hu": "Tökéletes hely egy ebédszünethez.",
+            "ro": "Locul perfect pentru o pauză de prânz.",
+            "en": "The perfect spot for a lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Palais des Princes-Évêques",
+            "hu": "Hercegérsekeki Palota",
+            "ro": "Palatul Prinților-Episcopi",
+            "en": "Palace of the Prince-Bishops"
+          },
+          "coords": [
+            5.5715,
+            50.6462
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:20",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nur einen Steinwurf vom Platz entfernt.",
+            "hu": "Csak egy kőhajításnyira a tértől.",
+            "ro": "La doar o aruncătură de băț de piață.",
+            "en": "Just a stone's throw from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Cathédrale Saint-Paul",
+            "hu": "Szent Pál-katedrális",
+            "ro": "Catedrala Sfântul Paul",
+            "en": "Saint Paul's Cathedral"
+          },
+          "coords": [
+            5.571,
+            50.6405
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:00",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die Einkaufsstraßen führt Sie hierher.",
+            "hu": "Egy rövid séta a bevásárlóutcákon keresztül ide vezet.",
+            "ro": "O scurtă plimbare pe străzile comerciale vă va duce aici.",
+            "en": "A short walk through the shopping streets will lead you here."
+          }
+        },
+        {
+          "name": {
+            "de": "Collégiale Saint-Barthélemy",
+            "hu": "Szent Bertalan templom",
+            "ro": "Colegiata Sfântul Bartolomeu",
+            "en": "Collegiate Church of Saint Bartholomew"
+          },
+          "coords": [
+            5.5795,
+            50.6478
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:20",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Gehen Sie in Richtung Fluss, um dieses Juwel zu finden.",
+            "hu": "Menjen a folyó irányába, hogy megtalálja ezt az ékszerdobozt.",
+            "ro": "Mergeți spre râu pentru a găsi această bijuterie.",
+            "en": "Walk towards the river to find this gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Montagne de Bueren",
+            "hu": "Montagne de Bueren",
+            "ro": "Montagne de Bueren",
+            "en": "Montagne de Bueren"
+          },
+          "coords": [
+            5.5765,
+            50.6495
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "16:05",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der letzte Aufstieg des Tages, direkt hinter der Stiftskirche.",
+            "hu": "A nap utolsó emelkedője, közvetlenül a templom mögött.",
+            "ro": "Ultima urcare a zilei, chiar în spatele colegiatei.",
+            "en": "The final climb of the day, just behind the collegiate church."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto nutzen Sie Flexibilität, um Lüttich in Clustern zu erkunden. Beginnen Sie am Bahnhof Guillemins und spazieren Sie zum nahen Musée de la Boverie. Fahren Sie dann zum Parkhaus Cité, Ihrem Tor zur Altstadt. Hier verbringen Sie den Großteil des Tages zu Fuß: vom Place Saint-Lambert über den Palast, die Kathedrale und die Stiftskirche bis zur sportlichen Herausforderung der Montagne de Bueren. So kombinieren Sie den Komfort des Autos mit dem intensiven Erlebnis eines Stadtspaziergangs.",
+        "hu": "Autóval rugalmasan, klaszterekben fedezheti fel Lüttichet. Kezdjen a Guillemins pályaudvarnál, és sétáljon át a közeli La Boverie múzeumba. Ezután hajtson a Cité parkolóházhoz, amely az óváros kapuja. Itt tölti a nap nagy részét gyalog: a Place Saint-Lambert tértől a palotán, a katedrálison és a Szent Bertalan-templomon át a Montagne de Bueren sportos kihívásáig. Így ötvözi az autó kényelmét a városi séta intenzív élményével.",
+        "ro": "Cu mașina, folosiți flexibilitatea pentru a explora Liège în clustere. Începeți la gara Guillemins și plimbați-vă până la apropiatul Muzeu La Boverie. Apoi, conduceți la parcarea Cité, poarta dvs. de acces către orașul vechi. Aici veți petrece cea mai mare parte a zilei pe jos: de la Piața Saint-Lambert, prin palat, catedrală și colegiată, până la provocarea sportivă a Montagne de Bueren. Astfel, combinați confortul mașinii cu experiența intensă a unei plimbări prin oraș.",
+        "en": "By car, you use flexibility to explore Liège in clusters. Start at Guillemins station and stroll to the nearby Musée de la Boverie. Then, drive to the Cité parking garage, your gateway to the old town. Here you'll spend most of the day on foot: from Place Saint-Lambert, through the palace, cathedral, and collegiate church, to the athletic challenge of Montagne de Bueren. This way, you combine the comfort of the car with the intense experience of a city walk."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Boulets à la Liégeoise",
+            "tip": "Suchen Sie ein traditionelles Restaurant in der Altstadt."
+          },
+          {
+            "name": "Café Lequet",
+            "tip": "Bekannt für seine authentische Lütticher Küche am Quai sur Meuse."
+          },
+          {
+            "name": "Fromage de Herve",
+            "tip": "Ein kräftiger Käse aus der Region, für abenteuerlustige Gaumen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boulets à la Liégeoise",
+            "tip": "Keressen egy hagyományos éttermet az óvárosban."
+          },
+          {
+            "name": "Café Lequet",
+            "tip": "Híres az autentikus lüttichi konyhájáról a Quai sur Meuse-on."
+          },
+          {
+            "name": "Fromage de Herve",
+            "tip": "Erős sajt a régióból, a kalandvágyó ínyenceknek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boulets à la Liégeoise",
+            "tip": "Căutați un restaurant tradițional în orașul vechi."
+          },
+          {
+            "name": "Café Lequet",
+            "tip": "Renumit pentru bucătăria sa autentică din Liège, pe Quai sur Meuse."
+          },
+          {
+            "name": "Fromage de Herve",
+            "tip": "O brânză puternică din regiune, pentru gusturi aventuroase."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boulets à la Liégeoise",
+            "tip": "Look for a traditional restaurant in the old town."
+          },
+          {
+            "name": "Café Lequet",
+            "tip": "Famous for its authentic Liège cuisine on the Quai sur Meuse."
+          },
+          {
+            "name": "Fromage de Herve",
+            "tip": "A strong cheese from the region, for adventurous palates."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Coteaux de la Citadelle",
+            "tip": "Nach dem Erklimmen der Montagne de Bueren bieten die umliegenden Gärten Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parc de la Boverie",
+            "tip": "Ideal für eine Pause, bevor Sie wieder ins Auto steigen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussicht von der Zitadelle",
+            "tip": "Fahren Sie für einen Panoramablick bei Sonnenuntergang hinauf.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Coteaux de la Citadelle",
+            "tip": "A Montagne de Bueren megmászása után a környező kertek nyugalmat nyújtanak.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "La Boverie park",
+            "tip": "Ideális egy szünetre, mielőtt visszaül az autóba.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Citadelláról",
+            "tip": "Hajtson fel egy panorámás naplementéért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Coteaux de la Citadelle",
+            "tip": "După urcarea Montagne de Bueren, grădinile din jur oferă liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul La Boverie",
+            "tip": "Ideal pentru o pauză înainte de a vă întoarce la mașină.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de la Citadelă",
+            "tip": "Conduceți sus pentru o vedere panoramică la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Coteaux de la Citadelle",
+            "tip": "After climbing the Montagne de Bueren, the surrounding gardens offer tranquility.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parc de la Boverie",
+            "tip": "Ideal for a break before getting back in the car.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the Citadel",
+            "tip": "Drive up for a panoramic sunset view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Médiacité",
+            "tip": "Ein großes Einkaufszentrum in der Nähe des Bahnhofs für alle Bedürfnisse."
+          },
+          {
+            "name": "Rue Hors-Château",
+            "tip": "Eine historische Straße mit Antiquitätenläden und Kunstgalerien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Médiacité",
+            "tip": "Nagy bevásárlóközpont a pályaudvar közelében, minden igényt kielégít."
+          },
+          {
+            "name": "Rue Hors-Château",
+            "tip": "Történelmi utca antikváriumokkal és művészeti galériákkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Médiacité",
+            "tip": "Un centru comercial mare lângă gară pentru toate nevoile."
+          },
+          {
+            "name": "Rue Hors-Château",
+            "tip": "O stradă istorică cu magazine de antichități și galerii de artă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Médiacité",
+            "tip": "A large shopping center near the station for all your needs."
+          },
+          {
+            "name": "Rue Hors-Château",
+            "tip": "A historic street with antique shops and art galleries."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Wählen Sie ein zentrales Parkhaus, um Parkplatzsorgen zu vermeiden.",
+          "Der Verkehr in der Innenstadt kann dicht sein, planen Sie zusätzliche Zeit für Fahrten ein.",
+          "Beachten Sie die Umweltzonen (LEZ) in Lüttich."
+        ],
+        "hu": [
+          "Válasszon egy központi parkolóházat a parkolási gondok elkerülése érdekében.",
+          "A belvárosi forgalom sűrű lehet, tervezzen plusz időt az utazásokra.",
+          "Vegye figyelembe a lüttichi alacsony kibocsátású zónákat (LEZ)."
+        ],
+        "ro": [
+          "Alegeți o parcare centrală pentru a evita grijile legate de parcare.",
+          "Traficul în centrul orașului poate fi aglomerat, planificați timp suplimentar pentru călătorii.",
+          "Fiți atenți la zonele cu emisii scăzute (LEZ) din Liège."
+        ],
+        "en": [
+          "Choose a central parking garage to avoid parking worries.",
+          "Traffic in the city center can be heavy, plan extra time for drives.",
+          "Be aware of the Low Emission Zones (LEZ) in Liège."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 6.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Start: Place Saint-Lambert",
+            "hu": "Indulás: Szent Lambert tér",
+            "ro": "Start: Piața Saint-Lambert",
+            "en": "Start: Saint Lambert Square"
+          },
+          "coords": [
+            5.5725,
+            50.6452
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ihr Ausgangspunkt, ein wichtiger Knotenpunkt für Buslinien.",
+            "hu": "Kiindulópontja, a buszjáratok fontos csomópontja.",
+            "ro": "Punctul dvs. de plecare, un nod important pentru liniile de autobuz.",
+            "en": "Your starting point, a major hub for bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Palais des Princes-Évêques",
+            "hu": "Hercegérsekeki Palota",
+            "ro": "Palatul Prinților-Episcopi",
+            "en": "Palace of the Prince-Bishops"
+          },
+          "coords": [
+            5.5715,
+            50.6462
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:32",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz aus.",
+            "hu": "Rövid séta a térről.",
+            "ro": "O scurtă plimbare din piață.",
+            "en": "A short walk from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Cathédrale Saint-Paul",
+            "hu": "Szent Pál-katedrális",
+            "ro": "Catedrala Sfântul Paul",
+            "en": "Saint Paul's Cathedral"
+          },
+          "coords": [
+            5.571,
+            50.6405
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:27",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die Einkaufsstraßen, um hierher zu gelangen.",
+            "hu": "Sétáljon végig a bevásárlóutcákon, hogy ideérjen.",
+            "ro": "Plimbați-vă pe străzile comerciale pentru a ajunge aici.",
+            "en": "Stroll through the shopping streets to get here."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de la Boverie",
+            "hu": "La Boverie Múzeum",
+            "ro": "Muzeul La Boverie",
+            "en": "La Boverie Museum"
+          },
+          "coords": [
+            5.578,
+            50.6285
+          ],
+          "category": "museums",
+          "arrive_at": "11:52",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Stadtzentrum; die Fahrt ist kurz und malerisch.",
+            "hu": "Menjen busszal a városközpontból; az út rövid és festői.",
+            "ro": "Luați un autobuz din centrul orașului; călătoria este scurtă și pitorească.",
+            "en": "Take a bus from the city center; the ride is short and scenic."
+          }
+        },
+        {
+          "name": {
+            "de": "Gare de Liège-Guillemins",
+            "hu": "Liège-Guillemins pályaudvar",
+            "ro": "Gara Liège-Guillemins",
+            "en": "Liège-Guillemins Station"
+          },
+          "coords": [
+            5.5663,
+            50.6242
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:07",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Vom Museum aus leicht zu Fuß erreichbar.",
+            "hu": "A múzeumtól könnyen megközelíthető gyalog.",
+            "ro": "Ușor de ajuns pe jos de la muzeu.",
+            "en": "An easy walk from the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Montagne de Bueren",
+            "hu": "Montagne de Bueren",
+            "ro": "Montagne de Bueren",
+            "en": "Montagne de Bueren"
+          },
+          "coords": [
+            5.5765,
+            50.6495
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "15:22",
+          "stay_min": 60,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zurück ins Zentrum und gehen Sie das letzte Stück.",
+            "hu": "Menjen busszal vissza a központba, és tegye meg az utolsó szakaszt gyalog.",
+            "ro": "Luați un autobuz înapoi în centru și mergeți pe jos ultima parte.",
+            "en": "Take a bus back to the center and walk the final stretch."
+          }
+        },
+        {
+          "name": {
+            "de": "Collégiale Saint-Barthélemy",
+            "hu": "Szent Bertalan templom",
+            "ro": "Colegiata Sfântul Bartolomeu",
+            "en": "Collegiate Church of Saint Bartholomew"
+          },
+          "coords": [
+            5.5795,
+            50.6478
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:27",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein schöner Abschluss des Tages, nur einen kurzen Spaziergang entfernt.",
+            "hu": "A nap szép lezárása, csak egy rövid sétára.",
+            "ro": "O încheiere frumoasă a zilei, la o scurtă plimbare.",
+            "en": "A beautiful end to the day, just a short walk away."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Lüttich mit den öffentlichen Verkehrsmitteln, beginnend im Herzen der Stadt am Place Saint-Lambert. Der Vormittag gehört dem historischen Zentrum, das Sie zu Fuß erkunden. Ein Bus bringt Sie dann bequem zum Musée de la Boverie für eine ausgiebige Mittagspause mit Kunst. Ein kurzer Spaziergang führt Sie zum Bahnhof Guillemins, bevor ein weiterer Bus Sie in die Nähe der Montagne de Bueren bringt. Erklimmen Sie die Stufen und genießen Sie die Aussicht, bevor Sie den Tag in der romanischen Stiftskirche ausklingen lassen.",
+        "hu": "Fedezze fel Lüttichet tömegközlekedéssel, a város szívéből, a Place Saint-Lambert térről indulva. A délelőtt a történelmi központé, amelyet gyalogosan járhat be. Ezután egy busz kényelmesen elviszi a La Boverie múzeumhoz egy kiadós, művészettel egybekötött ebédszünetre. Egy rövid séta elvezeti a Guillemins pályaudvarhoz, majd egy másik busz a Montagne de Bueren közelébe visz. Mássza meg a lépcsőket, és élvezze a kilátást, mielőtt a román stílusú templomban zárja a napot.",
+        "ro": "Descoperiți Liège cu transportul public, pornind din inima orașului, Piața Saint-Lambert. Dimineața este dedicată centrului istoric, pe care îl explorați pe jos. Un autobuz vă duce apoi confortabil la Muzeul La Boverie pentru o pauză de prânz prelungită cu artă. O scurtă plimbare vă conduce la gara Guillemins, înainte ca un alt autobuz să vă apropie de Montagne de Bueren. Urcați treptele și bucurați-vă de priveliște înainte de a încheia ziua la colegiata romanică.",
+        "en": "Discover Liège by public transport, starting in the heart of the city at Place Saint-Lambert. The morning is for the historic center, which you explore on foot. A bus then takes you comfortably to the Musée de la Boverie for an extended lunch break with art. A short walk leads you to Guillemins station, before another bus takes you near Montagne de Bueren. Climb the steps and enjoy the view before ending the day at the Romanesque collegiate church."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Eine Tüte Fritten",
+            "tip": "An einer 'Friterie' in der Nähe einer Bushaltestelle für einen schnellen Snack."
+          },
+          {
+            "name": "Lac-quemant",
+            "tip": "Eine lokale Waffelspezialität, die Sie auf der Oktoberkirmes finden."
+          },
+          {
+            "name": "Gaufre de Liège",
+            "tip": "Perfekt für unterwegs zwischen zwei Busfahrten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy zacskó sült krumpli",
+            "tip": "Egy 'Friterie'-ben egy buszmegálló közelében egy gyors harapnivalóért."
+          },
+          {
+            "name": "Lacquemant",
+            "tip": "Helyi gofrispecialitás, amelyet az októberi vásáron találhat meg."
+          },
+          {
+            "name": "Gaufre de Liège",
+            "tip": "Tökéletes útközben két buszozás között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Un cornet de cartofi prăjiți",
+            "tip": "La o 'Friterie' lângă o stație de autobuz pentru o gustare rapidă."
+          },
+          {
+            "name": "Lacquemant",
+            "tip": "O specialitate locală de gofră, găsită la târgul din octombrie."
+          },
+          {
+            "name": "Gaufre de Liège",
+            "tip": "Perfect pentru a fi mâncat pe drum, între două călătorii cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "A cone of fries",
+            "tip": "At a 'Friterie' near a bus stop for a quick snack."
+          },
+          {
+            "name": "Lacquemant",
+            "tip": "A local waffle specialty found at the October Fair."
+          },
+          {
+            "name": "Gaufre de Liège",
+            "tip": "Perfect for on the go between two bus rides."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obere Etage eines Doppeldeckerbusses",
+            "tip": "Bietet eine überraschend ruhige Perspektive auf die Stadt.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Friedhof von Robermont",
+            "tip": "Ein historischer, friedlicher Ort, der mit dem Bus erreichbar ist.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer der Ourthe",
+            "tip": "Nehmen Sie einen Bus nach Süden für einen ruhigen Spaziergang am Nebenfluss.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy emeletes busz felső szintje",
+            "tip": "Meglepően csendes perspektívát kínál a városra.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Robermont-i temető",
+            "tip": "Történelmi, békés hely, busszal elérhető.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ourthe partja",
+            "tip": "Menjen busszal délre egy csendes sétáért a mellékfolyó partján.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etajul superior al unui autobuz supraetajat",
+            "tip": "Oferă o perspectivă surprinzător de liniștită asupra orașului.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Cimitirul Robermont",
+            "tip": "Un loc istoric, pașnic, accesibil cu autobuzul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malurile râului Ourthe",
+            "tip": "Luați un autobuz spre sud pentru o plimbare liniștită pe malul afluentului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Upper deck of a double-decker bus",
+            "tip": "Offers a surprisingly quiet perspective on the city.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Robermont Cemetery",
+            "tip": "A historic, peaceful place accessible by bus.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the Ourthe",
+            "tip": "Take a bus south for a quiet walk along the tributary river.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sonntagsmarkt La Batte",
+            "tip": "Leicht mit dem Bus zu erreichen, planen Sie aber Zeit für die Menschenmassen ein."
+          },
+          {
+            "name": "Marché de Noël",
+            "tip": "Im Winter verwandelt sich das Stadtzentrum in einen der größten Weihnachtsmärkte Belgiens."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Batte vasárnapi piac",
+            "tip": "Könnyen elérhető busszal, de tervezzen időt a tömegre."
+          },
+          {
+            "name": "Karácsonyi vásár",
+            "tip": "Télen a városközpont Belgium egyik legnagyobb karácsonyi vásárává változik."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de duminică La Batte",
+            "tip": "Ușor accesibilă cu autobuzul, dar planificați timp pentru aglomerație."
+          },
+          {
+            "name": "Târgul de Crăciun",
+            "tip": "Iarna, centrul orașului se transformă într-unul dintre cele mai mari târguri de Crăciun din Belgia."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Batte Sunday Market",
+            "tip": "Easily reached by bus, but plan time for the crowds."
+          },
+          {
+            "name": "Christmas Market",
+            "tip": "In winter, the city center transforms into one of Belgium's largest Christmas markets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Die App des Verkehrsverbunds (TEC) ist nützlich für Echtzeit-Fahrpläne.",
+          "Busse können zu Stoßzeiten voll sein, seien Sie also flexibel."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "A közlekedési vállalat (TEC) alkalmazása hasznos a valós idejű menetrendekhez.",
+          "A buszok csúcsidőben zsúfoltak lehetnek, legyen rugalmas."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Aplicația companiei de transport (TEC) este utilă pentru orare în timp real.",
+          "Autobuzele pot fi aglomerate la orele de vârf, așa că fiți flexibili."
+        ],
+        "en": [
+          "Buy a day pass for unlimited travel.",
+          "The transport authority's app (TEC) is useful for real-time schedules.",
+          "Buses can be crowded during peak hours, so be flexible."
+        ]
+      }
+    }
+  }
+}

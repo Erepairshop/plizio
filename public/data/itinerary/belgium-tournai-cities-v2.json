@@ -1,0 +1,1425 @@
+{
+  "city_id": "belgium-tournai-cities-v2",
+  "anchor": {
+    "name": "Grand Place, Tournai",
+    "coords": [
+      3.3872,
+      50.6057
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Grand-Place",
+            "hu": "Grand-Place (Fő tér)",
+            "ro": "Grand-Place (Piața Mare)",
+            "en": "Grand-Place (Main Square)"
+          },
+          "coords": [
+            3.3872,
+            50.6057
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie mit einem Kaffee in einem der Cafés und bewundern Sie die Giebelhäuser.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában, és csodálja meg a céhes házakat.",
+            "ro": "Începeți cu o cafea la una dintre terase și admirați casele breslelor.",
+            "en": "Start with a coffee at a terrace and admire the guild houses surrounding the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Belfried von Tournai",
+            "hu": "Tournai-i harangtorony",
+            "ro": "Beffroi-ul din Tournai",
+            "en": "Belfry of Tournai"
+          },
+          "coords": [
+            3.3878,
+            50.6052
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Steigen Sie die 257 Stufen für einen atemberaubenden Blick über die Stadt.",
+            "hu": "Mássza meg a 257 lépcsőt a városra nyíló lélegzetelállító kilátásért.",
+            "ro": "Urcați cele 257 de trepte pentru o priveliște uimitoare asupra orașului.",
+            "en": "Climb the 257 steps for a breathtaking view over the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Quentin",
+            "hu": "Szent Quentin-templom",
+            "ro": "Biserica Saint-Quentin",
+            "en": "Saint-Quentin Church"
+          },
+          "coords": [
+            3.386,
+            50.6045
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf den Übergang von romanischer zu gotischer Architektur.",
+            "hu": "Figyelje meg a román és a gótikus építészet közötti átmenetet.",
+            "ro": "Observați tranziția de la arhitectura romanică la cea gotică.",
+            "en": "Notice the transition from Romanesque to Gothic architectural styles."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Notre-Dame",
+            "hu": "Notre-Dame katedrális",
+            "ro": "Catedrala Notre-Dame",
+            "en": "Notre-Dame Cathedral"
+          },
+          "coords": [
+            3.3899,
+            50.6063
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Schatzkammer und die fünf imposanten Türme.",
+            "hu": "Ne hagyja ki a kincstárat és az öt impozáns tornyot.",
+            "ro": "Nu ratați tezaurul și cele cinci turnuri impunătoare. Este un sit UNESCO.",
+            "en": "Don't miss the treasury and the five imposing towers. It's a UNESCO site."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont des Trous",
+            "hu": "Pont des Trous (Lyukas híd)",
+            "ro": "Pont des Trous",
+            "en": "Pont des Trous (Bridge of Holes)"
+          },
+          "coords": [
+            3.3934,
+            50.6105
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für Fotos vom Fluss Schelde und der mittelalterlichen Militärarchitektur.",
+            "hu": "Nagyszerű fotóhelyszín a Schelde folyóval és a középkori katonai építészettel.",
+            "ro": "Un loc excelent pentru fotografii cu râul Schelde și arhitectura militară medievală.",
+            "en": "A great spot for photos of the Scheldt river and the medieval military architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "TAMAT - Museum für Teppichkunst",
+            "hu": "TAMAT - Textil- és Szőnyegművészeti Múzeum",
+            "ro": "TAMAT - Muzeul de Tapiserie",
+            "en": "TAMAT - Museum of Tapestry Arts"
+          },
+          "coords": [
+            3.3888,
+            50.6041
+          ],
+          "category": "museums",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte der Tournai-Tapisserien.",
+            "hu": "Ismerje meg a tournai-i faliszőnyegek gazdag történelmét.",
+            "ro": "Descoperiți istoria bogată a tapiseriilor din Tournai, renumite în toată Europa.",
+            "en": "Discover the rich history of Tournai tapestries, once famous across Europe."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Schönen Künste",
+            "hu": "Szépművészeti Múzeum",
+            "ro": "Muzeul de Arte Frumoase",
+            "en": "Museum of Fine Arts"
+          },
+          "coords": [
+            3.3813,
+            50.6027
+          ],
+          "category": "museums",
+          "arrive_at": "15:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Das einzige von Victor Horta entworfene Museum. Bewundern Sie Werke von Manet und Van Gogh.",
+            "hu": "Az egyetlen múzeum, amelyet Victor Horta tervezett. Csodálja meg Manet és Van Gogh műveit.",
+            "ro": "Singurul muzeu proiectat de Victor Horta. Admirați lucrări de Manet și Van Gogh.",
+            "en": "The only museum designed by Victor Horta. Admire works by Manet and Van Gogh."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Tournai, einer der ältesten Städte Belgiens, beginnt auf der pulsierenden Grand-Place. Von dort aus erklimmen Sie den zum UNESCO-Weltkulturerbe gehörenden Belfried für eine unvergleichliche Aussicht, bevor Sie die architektonischen Wunder der St.-Quentin-Kirche entdecken. Der Vormittag gipfelt in einem Besuch der majestätischen, fünf-türmigen Notre-Dame-Kathedrale, einem Meisterwerk der Baukunst.\nDer Nachmittag führt Sie über den Fluss Schelde zur ikonischen Pont des Trous, einem Zeugnis der mittelalterlichen Verteidigungsanlagen der Stadt. Danach tauchen Sie in das reiche künstlerische Erbe der Stadt ein, zuerst im TAMAT mit seinen weltberühmten Wandteppichen und anschließend im von Victor Horta entworfenen Museum der Schönen Künste, das beeindruckende Meisterwerke beherbergt.\nWenn der Nachmittag in den Abend übergeht, gönnen Sie sich eine Pause an den ruhigen Ufern der Schelde. Die ruhige Atmosphäre ist perfekt, um die Eindrücke des Tages zu reflektieren. Schlendern Sie zurück ins Stadtzentrum und genießen Sie die friedliche Stimmung der alten Straßen, die im warmen Licht der untergehenden Sonne erstrahlen.\nBeenden Sie Ihren Tag mit einem köstlichen belgischen Abendessen. Probieren Sie lokale Spezialitäten wie Carbonnade Flamande in einem traditionellen Restaurant in der Nähe der Grand-Place. Lassen Sie den Abend mit einem berühmten belgischen Bier ausklingen und stoßen Sie auf einen Tag voller Geschichte, Kunst und unvergesslicher Entdeckungen an.",
+        "hu": "Napja Tournai-ban, Belgium egyik legrégebbi városában, a nyüzsgő Grand-Place-on kezdődik. Innen megmássza az UNESCO világörökség részét képező harangtornyot a páratlan kilátásért, majd felfedezi a Szent Quentin-templom építészeti csodáit. A délelőtt a fenséges, öttornyú Notre-Dame-katedrális meglátogatásával csúcsosodik ki, amely az építőművészet remeke.\nA délután a Schelde folyón át az ikonikus Pont des Trous-hídhoz vezet, amely a város középkori erődítményeinek tanúja. Ezután elmerülhet a város gazdag művészeti örökségében, először a világhírű faliszőnyegeiről ismert TAMAT múzeumban, majd a Victor Horta által tervezett Szépművészeti Múzeumban, amely lenyűgöző mesterműveknek ad otthont.\nAhogy a délután estébe fordul, pihenjen meg a Schelde folyó csendes partján. A nyugodt légkör tökéletes a nap élményeinek átgondolására. Sétáljon vissza a városközpontba, élvezve a régi utcák békés hangulatát a lemenő nap meleg fényében.\nZárja a napot egy ízletes belga vacsorával. Kóstolja meg a helyi specialitásokat, mint a Carbonnade Flamande, egy hagyományos étteremben a Grand-Place közelében. Fejezze be az estét egy híres belga sörrel, koccintva egy történelemmel, művészettel és felejthetetlen felfedezésekkel teli napra.",
+        "ro": "Ziua dvs. în Tournai, unul dintre cele mai vechi orașe din Belgia, începe în vibranta Grand-Place. De acolo, urcați în Beffroi, inclus în patrimoniul UNESCO, pentru o priveliște de neegalat, înainte de a descoperi minunile arhitecturale ale Bisericii Saint-Quentin. Dimineața culminează cu o vizită la majestuoasa Catedrală Notre-Dame, cu cele cinci turnuri, o capodoperă a ingineriei structurale.\nDupă-amiaza vă duce peste râul Schelde la emblematicul Pont des Trous, o mărturie a apărării medievale a orașului. Apoi, vă veți cufunda în bogatul patrimoniu artistic al orașului, mai întâi la TAMAT, cu tapiseriile sale de renume mondial, și apoi la Muzeul de Arte Frumoase, proiectat de Victor Horta, care găzduiește capodopere impresionante.\nPe măsură ce după-amiaza se transformă în seară, faceți o pauză pe malurile liniștite ale râului Schelde. Atmosfera sa senină este perfectă pentru a reflecta asupra impresiilor zilei. Plimbați-vă înapoi spre centrul orașului, bucurându-vă de ambianța pașnică a străzilor vechi, scăldate în lumina caldă a soarelui la apus.\nÎncheiați ziua cu o cină belgiană delicioasă. Încercați specialități locale precum Carbonnade Flamande la un restaurant tradițional de lângă Grand-Place. Încheiați seara cu o renumită bere belgiană, închinând pentru o zi plină de istorie, artă și descoperiri memorabile.",
+        "en": "Your day in Tournai, one of Belgium's oldest cities, begins in the vibrant Grand-Place. From there, climb the UNESCO-listed Belfry for an unparalleled view before discovering the architectural wonders of Saint-Quentin Church. The morning culminates with a visit to the majestic, five-towered Notre-Dame Cathedral, a masterpiece of structural engineering.\nThe afternoon takes you across the River Scheldt to the iconic Pont des Trous, a testament to the city's medieval defenses. Afterwards, you'll delve into the city's rich artistic heritage, first at TAMAT with its world-renowned tapestries, and then at the Victor Horta-designed Museum of Fine Arts, which houses stunning masterpieces.\nAs the afternoon fades into evening, take a break along the tranquil banks of the Scheldt. Its serene atmosphere is perfect for reflecting on the day's experiences. Stroll back towards the city center, enjoying the peaceful ambiance of the old streets bathed in the warm light of the setting sun.\nConclude your day with a delicious Belgian dinner. Try local specialties like Carbonnade Flamande at a traditional restaurant near the Grand-Place. Finish the evening with a famous Belgian beer, toasting to a day filled with history, art, and memorable discoveries."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Carbonnade flamande",
+            "tip": "Ein herzhafter Rindfleisch- und Zwiebeleintopf, der in Bier gekocht wird. Ein Muss in der Region."
+          },
+          {
+            "name": "Lokales Tournay Bier",
+            "tip": "Probieren Sie die lokalen Biere der Brasserie de Cazeau, die eine lange Brautradition hat."
+          },
+          {
+            "name": "Gaufre de Liège",
+            "tip": "Eine dichte, süße Waffel mit Perlzucker, perfekt für einen süßen Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Carbonnade flamande",
+            "tip": "Kiadós marha- és hagymaragu sörben főzve. Kötelező a régióban."
+          },
+          {
+            "name": "Helyi Tournay sör",
+            "tip": "Kóstolja meg a Brasserie de Cazeau helyi söreit, amely hosszú sörfőző hagyományokkal rendelkezik."
+          },
+          {
+            "name": "Liège-i gofri",
+            "tip": "Sűrű, édes gofri gyöngycukorral, tökéletes édes snack."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Carbonnade flamande",
+            "tip": "O tocană consistentă de vită și ceapă, fiartă în bere. O specialitate obligatorie în regiune."
+          },
+          {
+            "name": "Berea locală Tournay",
+            "tip": "Încercați berile locale de la Brasserie de Cazeau, care are o lungă tradiție în fabricarea berii."
+          },
+          {
+            "name": "Gaufre de Liège",
+            "tip": "O vafă densă și dulce, cu zahăr perlat, perfectă pentru o gustare dulce."
+          }
+        ],
+        "en": [
+          {
+            "name": "Carbonnade flamande",
+            "tip": "A hearty beef and onion stew cooked in beer. A must-try in the region."
+          },
+          {
+            "name": "Local Tournay Beer",
+            "tip": "Sample the local beers from the Brasserie de Cazeau, which has a long brewing tradition."
+          },
+          {
+            "name": "Gaufre de Liège",
+            "tip": "A dense, sweet waffle with pearl sugar, perfect for a sweet snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Schelde",
+            "tip": "Finden Sie eine Bank am Quai Saint-Brice oder Quai des Salines für eine friedliche Pause am Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Garten des Museums der Schönen Künste",
+            "tip": "Der kleine Garten rund um das Museum ist ein verstecktes Juwel der Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang vom Belfried",
+            "tip": "Planen Sie Ihren Aufstieg für den späten Nachmittag, um die Stadt im goldenen Licht zu sehen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Schelde folyó partja",
+            "tip": "Keressen egy padot a Quai Saint-Brice vagy a Quai des Salines mentén egy békés pihenőhöz a víz mellett.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szépművészeti Múzeum kertje",
+            "tip": "A múzeum körüli kis kert a nyugalom rejtett gyöngyszeme.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a harangtoronyból",
+            "tip": "Tervezze a mászást késő délutánra, hogy arany fényben lássa a várost.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Schelde",
+            "tip": "Găsiți o bancă de-a lungul Quai Saint-Brice sau Quai des Salines pentru o pauză liniștită lângă apă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Muzeului de Arte Frumoase",
+            "tip": "Mica grădină din jurul muzeului este o bijuterie ascunsă de liniște.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus de soare de la Beffroi",
+            "tip": "Planificați-vă urcarea spre sfârșitul după-amiezii pentru a vedea orașul în lumina aurie.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Scheldt River",
+            "tip": "Find a bench along the Quai Saint-Brice or Quai des Salines for a peaceful break by the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Garden of the Fine Arts Museum",
+            "tip": "The small garden surrounding the museum is a hidden gem of tranquility.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset from the Belfry",
+            "tip": "Time your climb for the late afternoon to see the city cast in a golden light.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Tournai-Wandteppiche",
+            "tip": "Suchen Sie nach kleinen, modernen Reproduktionen oder von Wandteppichen inspirierten Artikeln im TAMAT-Shop."
+          },
+          {
+            "name": "Belgische Schokolade",
+            "tip": "Besuchen Sie einen lokalen Chocolatier für handgemachte Pralinen."
+          },
+          {
+            "name": "Comics (Bandes Dessinées)",
+            "tip": "Belgien ist berühmt für Comics. Finden Sie einen Buchladen und entdecken Sie Klassiker wie Tim und Struppi."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tournai faliszőnyegek",
+            "tip": "Keressen kis, modern reprodukciókat vagy faliszőnyeg ihlette tárgyakat a TAMAT boltjában."
+          },
+          {
+            "name": "Belga csokoládé",
+            "tip": "Látogasson el egy helyi csokoládékészítőhöz kézzel készített pralinékért."
+          },
+          {
+            "name": "Képregények (Bandes Dessinées)",
+            "tip": "Belgium híres a képregényeiről. Keressen egy könyvesboltot és fedezze fel a klasszikusokat, mint a Tintin."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tapiserii din Tournai",
+            "tip": "Căutați reproduceri mici, moderne sau articole inspirate de tapiserii în magazinul TAMAT."
+          },
+          {
+            "name": "Ciocolată belgiană",
+            "tip": "Vizitați un ciocolatier local pentru praline artizanale."
+          },
+          {
+            "name": "Benzi desenate (Bandes Dessinées)",
+            "tip": "Belgia este renumită pentru benzile desenate. Găsiți o librărie și descoperiți clasici precum Tintin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tournai Tapestries",
+            "tip": "Look for small, modern reproductions or tapestry-inspired items at the TAMAT shop."
+          },
+          {
+            "name": "Belgian Chocolate",
+            "tip": "Visit a local chocolatier for handmade pralines."
+          },
+          {
+            "name": "Comics (Bandes Dessinées)",
+            "tip": "Belgium is famous for its comics. Find a bookshop and discover classics like Tintin."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Überprüfen Sie die Öffnungszeiten der Museen, da diese variieren können.",
+          "Tournai ist sehr fußgängerfreundlich, alle wichtigen Sehenswürdigkeiten liegen nahe beieinander.",
+          "Genießen Sie die entspannte Atmosphäre der Stadt abseits der großen Touristenströme."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros macskakövei egyenetlenek lehetnek.",
+          "Ellenőrizze a múzeumok nyitvatartási idejét, mert az változó lehet.",
+          "Tournai nagyon gyalogosbarát, minden fő látnivaló közel van egymáshoz.",
+          "Élvezze a város nyugodt légkörét, távol a nagy turista tömegektől."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din centrul vechi poate fi denivelat.",
+          "Verificați orele de deschidere ale muzeelor, deoarece acestea pot varia.",
+          "Tournai este foarte prietenos cu pietonii, toate atracțiile principale fiind apropiate.",
+          "Bucurați-vă de atmosfera relaxată a orașului, departe de aglomerația turistică majoră."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Check the opening hours for museums as they can vary.",
+          "Tournai is very walkable, with all major sights located close to each other.",
+          "Enjoy the relaxed atmosphere of the city, away from the major tourist crowds."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Grand-Place",
+            "hu": "Grand-Place (Fő tér)",
+            "ro": "Grand-Place (Piața Mare)",
+            "en": "Grand-Place (Main Square)"
+          },
+          "coords": [
+            3.3872,
+            50.6057
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und genießen Sie die Atmosphäre, bevor die Menschenmassen kommen.",
+            "hu": "Zárja le a kerékpárját, és élvezze a hangulatot, mielőtt a tömeg megérkezik.",
+            "ro": "Legați-vă bicicleta și bucurați-vă de atmosferă înainte de sosirea mulțimilor.",
+            "en": "Lock up your bike and soak in the atmosphere before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Belfried von Tournai",
+            "hu": "Tournai-i harangtorony",
+            "ro": "Beffroi-ul din Tournai",
+            "en": "Belfry of Tournai"
+          },
+          "coords": [
+            3.3878,
+            50.6052
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:32",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Eine gute Aufwärmung vor der Radtour!",
+            "hu": "Jó bemelegítés a biciklitúra előtt!",
+            "ro": "O bună încălzire înainte de turul pe bicicletă!",
+            "en": "A good warm-up before the rest of your bike tour!"
+          }
+        },
+        {
+          "name": {
+            "de": "Pont des Trous",
+            "hu": "Pont des Trous (Lyukas híd)",
+            "ro": "Pont des Trous",
+            "en": "Pont des Trous (Bridge of Holes)"
+          },
+          "coords": [
+            3.3934,
+            50.6105
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:28",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahren Sie am Scheldeufer entlang, um die beste Aussicht auf die Brücke zu bekommen.",
+            "hu": "Tekerjen a Schelde partján a híd legjobb látványáért.",
+            "ro": "Pedalați de-a lungul malurilor râului Schelde pentru cele mai bune vederi ale podului.",
+            "en": "Cycle along the banks of the Scheldt for the best views of the bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Folkloremuseum",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul de Folclor",
+            "en": "Folklore Museum"
+          },
+          "coords": [
+            3.3888,
+            50.6083
+          ],
+          "category": "museums",
+          "arrive_at": "10:53",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über das Alltagsleben in Tournai im Laufe der Jahrhunderte.",
+            "hu": "Tudjon meg többet a tournai-i mindennapi életről az évszázadok során.",
+            "ro": "Aflați despre viața de zi cu zi din Tournai de-a lungul secolelor.",
+            "en": "Learn about the daily life in Tournai throughout the centuries."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Notre-Dame",
+            "hu": "Notre-Dame katedrális",
+            "ro": "Catedrala Notre-Dame",
+            "en": "Notre-Dame Cathedral"
+          },
+          "coords": [
+            3.3899,
+            50.6063
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad in der Nähe ab und nehmen Sie sich Zeit, die beeindruckende Größe zu bewundern.",
+            "hu": "Parkolja le a biciklijét a közelben, és szánjon időt a lenyűgöző méretek megcsodálására.",
+            "ro": "Parcați bicicleta în apropiere și acordați-vă timp pentru a admira scara sa impresionantă.",
+            "en": "Park your bike nearby and take your time to admire its impressive scale."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Schönen Künste",
+            "hu": "Szépművészeti Múzeum",
+            "ro": "Muzeul de Arte Frumoase",
+            "en": "Museum of Fine Arts"
+          },
+          "coords": [
+            3.3813,
+            50.6027
+          ],
+          "category": "museums",
+          "arrive_at": "13:31",
+          "stay_min": 120,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Eine angenehme Fahrt durch den Park führt zu diesem architektonischen Juwel.",
+            "hu": "Egy kellemes tekerés a parkon keresztül vezet ehhez az építészeti gyöngyszemhez.",
+            "ro": "O plimbare plăcută prin parc duce la această bijuterie arhitecturală.",
+            "en": "A pleasant ride through the park leads to this architectural gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Museums",
+            "hu": "Ebéd a múzeum közelében",
+            "ro": "Prânz lângă muzeu",
+            "en": "Lunch near the Museum"
+          },
+          "coords": [
+            3.382,
+            50.6035
+          ],
+          "category": "gastro",
+          "arrive_at": "15:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich nach der Kunst eine wohlverdiente Pause mit lokalen Köstlichkeiten.",
+            "hu": "A művészet után tartson egy megérdemelt szünetet helyi finomságokkal.",
+            "ro": "După atâta artă, luați o pauză binemeritată cu delicatese locale.",
+            "en": "After the art, take a well-deserved break with some local delicacies."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Fahrrad für eine dynamische Tour durch Tournai. Beginnen Sie am Grand-Place und erklimmen Sie den Belfried, bevor Sie eine malerische Fahrt entlang der Schelde zum historischen Pont des Trous unternehmen. Der Morgen bietet eine Mischung aus Panoramablicken und Einblicken in die lokale Geschichte im Folkloremuseum, gefolgt von der Ehrfurcht gebietenden Kathedrale.\nNach dem Mittagessen radeln Sie zum südlichen Teil des Zentrums zum von Horta entworfenen Museum der Schönen Künste. Die Fahrt selbst ist eine Freude und führt Sie durch ruhigere Straßen und Grünflächen. Verbringen Sie den Nachmittag damit, die Kunstsammlung zu erkunden, die Werke von den flämischen Primitiven bis zu den Impressionisten umfasst.\nAm späten Nachmittag radeln Sie gemütlich zurück zum Flussufer. Finden Sie einen ruhigen Ort, um den Sonnenuntergang über dem Wasser zu beobachten, eine perfekte Möglichkeit, sich nach einem aktiven Tag zu entspannen. Die Radwege entlang der Schelde bieten eine friedliche Flucht aus dem städtischen Trubel.\nFür das Abendessen parken Sie Ihr Fahrrad und erkunden die kulinarische Szene der Stadt zu Fuß. Wählen Sie ein Restaurant im historischen Zentrum, um ein authentisches belgisches Essen zu genießen. Lassen Sie den Abend mit einem erfrischenden regionalen Bier ausklingen und schwelgen Sie in den Erinnerungen an Ihre Radtour durch diese charmante Stadt.",
+        "hu": "Pattanjon biciklire egy dinamikus tournai-i túrához. Induljon a Grand-Place-ról, mássza meg a harangtornyot, majd tekerjen egy festői utat a Schelde mentén a történelmi Pont des Trous-hídhoz. A délelőtt panorámás kilátást és a helyi történelembe való betekintést kínál a Néprajzi Múzeumban, majd az áhítatot keltő katedrális következik.\nEbéd után tekerjen a központ déli részébe, a Horta által tervezett Szépművészeti Múzeumhoz. Maga az út is élvezet, csendesebb utcákon és zöld területeken vezet keresztül. Töltse a délutánt a művészeti gyűjtemény felfedezésével, amely a flamand primitívektől az impresszionistákig terjedő műveket tartalmaz.\nKéső délután tekerjen vissza a folyóparthoz. Keressen egy csendes helyet a naplemente megtekintéséhez a víz felett, ami tökéletes módja a pihenésnek egy aktív nap után. A Schelde menti kerékpárutak békés menekülést kínálnak a városi nyüzsgésből.\nVacsorához parkolja le a kerékpárt, és fedezze fel gyalog a város kulináris színterét. Válasszon egy éttermet a történelmi központban egy autentikus belga ételhez. Zárja az estét egy frissítő helyi sörrel, és idézze fel a bájos városon átvezető kerékpártúra emlékeit.",
+        "ro": "Urcați-vă pe bicicletă pentru un tur dinamic al orașului Tournai. Începeți din Grand-Place și urcați în Beffroi înainte de a face o plimbare pitorească de-a lungul râului Schelde până la istoricul Pont des Trous. Dimineața oferă un amestec de vederi panoramice și perspective asupra istoriei locale la Muzeul de Folclor, urmată de impunătoarea Catedrală.\nDupă prânz, pedalați spre partea de sud a centrului, la Muzeul de Arte Frumoase, proiectat de Horta. Drumul în sine este o încântare, ducându-vă prin străzi mai liniștite și spații verzi. Petreceți după-amiaza explorând colecția de artă, care include lucrări de la primitivii flamanzi la impresioniști.\nSpre seară, faceți o plimbare relaxantă cu bicicleta înapoi pe malul râului. Găsiți un loc liniștit pentru a privi apusul peste apă, o modalitate perfectă de a vă relaxa după o zi activă. Pistele de biciclete de-a lungul Schelde oferă o evadare pașnică din agitația urbană.\nPentru cină, parcați bicicleta și explorați scena culinară a orașului pe jos. Alegeți un restaurant în centrul istoric pentru a savura o masă belgiană autentică. Încheiați seara cu o bere locală răcoritoare, rememorând turul pe bicicletă prin acest oraș fermecător.",
+        "en": "Hop on your bike for a dynamic tour of Tournai. Start at the Grand-Place and climb the Belfry before taking a scenic ride along the Scheldt River to the historic Pont des Trous. The morning offers a mix of panoramic views and local history insights at the Folklore Museum, followed by the awe-inspiring Cathedral.\nAfter lunch, cycle to the southern part of the center to the Horta-designed Museum of Fine Arts. The ride itself is a delight, taking you through quieter streets and green spaces. Spend the afternoon exploring the art collection, which features works from the Flemish Primitives to the Impressionists.\nIn the late afternoon, take a leisurely cycle back to the riverbank. Find a quiet spot to watch the sunset over the water, a perfect way to unwind after an active day. The cycle paths along the Scheldt offer a peaceful escape from the urban hustle.\nFor dinner, park your bike and explore the city's culinary scene on foot. Choose a restaurant in the historic center to enjoy an authentic Belgian meal. End the evening with a refreshing local beer, reminiscing about your cycling adventure through this charming city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Moules-frites",
+            "tip": "Ein klassisches belgisches Gericht mit Muscheln und Pommes Frites, besonders gut in den Sommermonaten."
+          },
+          {
+            "name": "Lokales Tournay Bier",
+            "tip": "Probieren Sie die lokalen Biere der Brasserie de Cazeau, die eine lange Brautradition hat."
+          },
+          {
+            "name": "Tarte al d'jote",
+            "tip": "Eine herzhafte Torte aus der Region mit Mangold und Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Moules-frites",
+            "tip": "Klasszikus belga étel kagylóval és sült krumplival, különösen jó a nyári hónapokban."
+          },
+          {
+            "name": "Helyi Tournay sör",
+            "tip": "Kóstolja meg a Brasserie de Cazeau helyi söreit, amely hosszú sörfőző hagyományokkal rendelkezik."
+          },
+          {
+            "name": "Tarte al d'jote",
+            "tip": "A régió sós pitéje mángolddal és sajttal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Moules-frites",
+            "tip": "Un fel de mâncare clasic belgian cu midii și cartofi prăjiți, deosebit de bun în lunile de vară."
+          },
+          {
+            "name": "Berea locală Tournay",
+            "tip": "Încercați berile locale de la Brasserie de Cazeau, care are o lungă tradiție în fabricarea berii."
+          },
+          {
+            "name": "Tarte al d'jote",
+            "tip": "O tartă sărată din regiune, cu mangold și brânză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Moules-frites",
+            "tip": "A classic Belgian dish of mussels and fries, especially good during the summer months."
+          },
+          {
+            "name": "Local Tournay Beer",
+            "tip": "Sample the local beers from the Brasserie de Cazeau, which has a long brewing tradition."
+          },
+          {
+            "name": "Tarte al d'jote",
+            "tip": "A savoury tart from the region made with chard and cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg an der Schelde",
+            "tip": "Der Radweg bietet eine ruhige und malerische Strecke abseits des Stadtverkehrs.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parc de l'Hôtel de Ville",
+            "tip": "Ein kleiner, gepflegter Park, ideal für eine kurze Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Schelde menti kerékpárút",
+            "tip": "A kerékpárút csendes és festői útvonalat kínál a városi forgalomtól távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parc de l'Hôtel de Ville",
+            "tip": "Kicsi, gondozott park, ideális egy rövid pihenőre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de pe Schelde",
+            "tip": "Pista de biciclete oferă un traseu liniștit și pitoresc, departe de traficul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parc de l'Hôtel de Ville",
+            "tip": "Un parc mic, bine întreținut, perfect pentru o scurtă pauză.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Scheldt River Bike Path",
+            "tip": "The cycle path offers a quiet and scenic route away from the city traffic.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parc de l'Hôtel de Ville",
+            "tip": "A small, well-maintained park perfect for a quick break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradzubehör",
+            "tip": "Finden Sie lokale Fahrradgeschäfte für einzigartige Accessoires oder Souvenirs."
+          },
+          {
+            "name": "Lokale Produkte vom Markt",
+            "tip": "Am Wochenende gibt es oft Märkte auf der Grand-Place, wo Sie Käse und Wurstwaren finden können."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpár-kiegészítők",
+            "tip": "Keressen helyi kerékpárboltokat egyedi kiegészítőkért vagy szuvenírekért."
+          },
+          {
+            "name": "Helyi termékek a piacról",
+            "tip": "Hétvégén gyakran vannak piacok a Grand-Place-on, ahol sajtot és felvágottakat találhat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Accesorii pentru biciclete",
+            "tip": "Găsiți magazine locale de biciclete pentru accesorii unice sau suveniruri."
+          },
+          {
+            "name": "Produse locale de la piață",
+            "tip": "În weekend, există adesea piețe în Grand-Place unde puteți găsi brânzeturi și mezeluri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cycling Gear",
+            "tip": "Find a local bike shop for some unique accessories or souvenirs."
+          },
+          {
+            "name": "Local Market Goods",
+            "tip": "On weekends, there are often markets in the Grand-Place where you can find cheese and cured meats."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad am Bahnhof, wenn Sie nicht Ihr eigenes mitbringen.",
+          "Achten Sie auf das Kopfsteinpflaster im Stadtzentrum, fahren Sie langsam.",
+          "Nutzen Sie die Radwege entlang der Schelde für eine entspannte Fahrt.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, besonders an Touristenattraktionen."
+        ],
+        "hu": [
+          "Béreljen kerékpárt az állomáson, ha nem hozza a sajátját.",
+          "Vigyázzon a macskakőre a városközpontban, vezessen lassan.",
+          "Használja a Schelde menti kerékpárutakat egy pihentető tekeréshez.",
+          "Mindig zárja le jól a kerékpárját, különösen a turisztikai látványosságoknál."
+        ],
+        "ro": [
+          "Închiriați o bicicletă de la gară dacă nu o aduceți pe a dvs.",
+          "Fiți atenți la pavajul din centrul orașului, mergeți încet.",
+          "Folosiți pistele de biciclete de-a lungul râului Schelde pentru o plimbare relaxantă.",
+          "Încuietoarea bicicletei este esențială, mai ales în apropierea atracțiilor turistice."
+        ],
+        "en": [
+          "Rent a bike near the train station if you're not bringing your own.",
+          "Be cautious on the cobblestones in the city center; go slow.",
+          "Use the cycle paths along the Scheldt for a relaxing ride.",
+          "Always lock your bike securely, especially at tourist sights."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 1.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Esplanade de l'Europe",
+            "hu": "Esplanade de l'Europe parkoló",
+            "ro": "Parcarea Esplanade de l'Europe",
+            "en": "Esplanade de l'Europe Parking"
+          },
+          "coords": [
+            3.3825,
+            50.6116
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Tag. Es ist ein kurzer Spaziergang ins Zentrum.",
+            "hu": "Parkoljon le itt egész napra. Rövid séta a központba.",
+            "ro": "Parcați aici pentru întreaga zi. Este o plimbare scurtă până în centru.",
+            "en": "Park here for the day. It's a short walk to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 1: Historisches Zentrum",
+            "hu": "1. klaszter: Történelmi központ",
+            "ro": "Cluster 1: Centrul Istoric",
+            "en": "Cluster 1: Historic Centre"
+          },
+          "coords": [
+            3.3872,
+            50.6057
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ihr erster Halt zu Fuß ist die Grand-Place, das Herz der Stadt.",
+            "hu": "Az első gyalogos megálló a Grand-Place, a város szíve.",
+            "ro": "Prima oprire pe jos este Grand-Place, inima orașului.",
+            "en": "Your first stop on foot is the Grand-Place, the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Belfried & Kathedrale",
+            "hu": "Harangtorony és katedrális",
+            "ro": "Beffroi și Catedrala",
+            "en": "Belfry & Cathedral"
+          },
+          "coords": [
+            3.3888,
+            50.6058
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 135,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die beiden UNESCO-Stätten, die nur wenige Schritte voneinander entfernt sind.",
+            "hu": "Fedezze fel a két UNESCO helyszínt, amelyek csak pár lépésre vannak egymástól.",
+            "ro": "Explorați cele două situri UNESCO, la doar câțiva pași unul de celălalt.",
+            "en": "Explore the two UNESCO sites, located just a few steps from each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen & TAMAT",
+            "hu": "Ebéd és TAMAT Múzeum",
+            "ro": "Prânz și TAMAT",
+            "en": "Lunch & TAMAT"
+          },
+          "coords": [
+            3.3888,
+            50.6041
+          ],
+          "category": "museums",
+          "arrive_at": "12:15",
+          "stay_min": 150,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie ein Mittagessen und tauchen Sie dann in die Kunst der Tapisserie ein.",
+            "hu": "Ebédeljen egy jót, majd merüljön el a faliszőnyeg-művészetben.",
+            "ro": "Luați prânzul, apoi scufundați-vă în arta tapiseriei.",
+            "en": "Enjoy lunch and then immerse yourself in the art of tapestry."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Flussufer",
+            "hu": "Séta a folyóparton",
+            "ro": "Plimbare pe malul râului",
+            "en": "Riverbank Stroll"
+          },
+          "coords": [
+            3.3934,
+            50.6105
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Machen Sie einen Verdauungsspaziergang zur Pont des Trous.",
+            "hu": "Tegyen egy emésztést segítő sétát a Pont des Trous-hídhoz.",
+            "ro": "Faceți o plimbare digestivă până la Pont des Trous.",
+            "en": "Take a digestive walk over to the Pont des Trous."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr zum Auto",
+            "hu": "Vissza az autóhoz",
+            "ro": "Înapoi la mașină",
+            "en": "Return to Car"
+          },
+          "coords": [
+            3.3825,
+            50.6116
+          ],
+          "category": "transport",
+          "arrive_at": "15:55",
+          "stay_min": 35,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie zurück zum Parkplatz und genießen Sie die letzten Momente in der Stadt.",
+            "hu": "Sétáljon vissza a parkolóba, élvezve az utolsó pillanatokat a városban.",
+            "ro": "Plimbați-vă înapoi la parcare, savurând ultimele momente în oraș.",
+            "en": "Stroll back to the car park, enjoying the last moments in the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto nach Tournai zu reisen, bietet Flexibilität. Parken Sie Ihr Auto auf der Esplanade de l'Europe und erkunden Sie das kompakte historische Zentrum zu Fuß. Ihr Tag beginnt mit einem Spaziergang zur Grand-Place, gefolgt von der Erkundung der beiden UNESCO-Juwelen der Stadt: des Belfrieds und der beeindruckenden Kathedrale Notre-Dame. Diese bilden den ersten Cluster Ihres Besuchs.\nNachdem Sie in die Geschichte eingetaucht sind, genießen Sie ein Mittagessen in der Nähe der Kathedrale, bevor Sie das TAMAT-Museum besuchen, das der reichen Tradition der Wandteppiche der Stadt gewidmet ist. Dies schließt Ihren Haupt-Spaziergang durch den historischen Kern ab, der reich an Kunst, Architektur und kulinarischen Genüssen ist.\nAm Nachmittag unternehmen Sie einen entspannten Spaziergang entlang der Schelde zur berühmten Pont des Trous. Dieser malerische Spaziergang bietet eine andere Perspektive auf die Stadt und ihre mittelalterliche Vergangenheit. Es ist ein Moment der Ruhe, bevor Sie zu Ihrem Auto zurückkehren.\nSchlendern Sie am Ende Ihres Rundgangs langsam zurück zum Parkplatz. Die Bequemlichkeit, mit dem Auto zu reisen, ermöglicht es Ihnen, den Tag in Ihrem eigenen Tempo zu genießen, mit der Gewissheit, dass Ihr Fahrzeug für die nächste Etappe Ihrer Reise bereitsteht. Es ist die perfekte Mischung aus Zugänglichkeit und Erkundung zu Fuß.",
+        "hu": "Az autóval való utazás Tournai-ba rugalmasságot kínál. Parkolja le autóját az Esplanade de l'Europe-on, és fedezze fel gyalog a kompakt történelmi központot. Napja egy sétával kezdődik a Grand-Place-ra, majd a város két UNESCO gyöngyszemének, a harangtoronynak és a lenyűgöző Notre-Dame-katedrálisnak a felfedezésével folytatódik. Ezek alkotják látogatásának első klaszterét.\nMiután elmerült a történelemben, ebédeljen a katedrális közelében, mielőtt ellátogatna a TAMAT múzeumba, amely a város gazdag faliszőnyeg-hagyományainak van szentelve. Ezzel lezárul a történelmi magon átívelő fő séta, amely bővelkedik művészetben, építészetben és kulináris élvezetekben.\nDélután tegyen egy kellemes sétát a Schelde mentén a híres Pont des Trous-hídhoz. Ez a festői séta más perspektívát kínál a városra és középkori múltjára. Ez a nyugalom pillanata, mielőtt visszatérne az autójához.\nA séta végén lassan sétáljon vissza a parkolóba. Az autós utazás kényelme lehetővé teszi, hogy a saját tempójában élvezze a napot, azzal a tudattal, hogy járműve készen áll utazása következő szakaszára. Ez a hozzáférhetőség és a gyalogos felfedezés tökéletes keveréke.",
+        "ro": "Călătoria cu mașina la Tournai oferă flexibilitate. Parcați mașina pe Esplanade de l'Europe și explorați centrul istoric compact pe jos. Ziua începe cu o plimbare până la Grand-Place, urmată de explorarea celor două bijuterii UNESCO ale orașului: Beffroi-ul și impresionanta Catedrală Notre-Dame. Acestea formează primul cluster al vizitei dumneavoastră.\nDupă ce v-ați cufundat în istorie, bucurați-vă de un prânz lângă catedrală înainte de a vizita muzeul TAMAT, dedicat bogatei tradiții a tapiseriilor orașului. Aceasta încheie plimbarea principală prin nucleul istoric, bogat în artă, arhitectură și delicii culinare.\nDupă-amiaza, faceți o plimbare relaxantă de-a lungul râului Schelde până la faimosul Pont des Trous. Această plimbare pitorească oferă o perspectivă diferită asupra orașului și a trecutului său medieval. Este un moment de liniște înainte de a vă întoarce la mașină.\nLa finalul turului pietonal, plimbați-vă încet înapoi la parcare. Confortul călătoriei cu mașina vă permite să vă bucurați de zi în propriul ritm, cu siguranța că vehiculul dumneavoastră este pregătit pentru următoarea etapă a călătoriei. Este amestecul perfect de accesibilitate și explorare pe jos.",
+        "en": "Traveling to Tournai by car offers flexibility. Park your car at the Esplanade de l'Europe and explore the compact historic center on foot. Your day begins with a walk to the Grand-Place, followed by an exploration of the city's two UNESCO gems: the Belfry and the stunning Notre-Dame Cathedral. This forms the first cluster of your visit.\nAfter soaking in the history, enjoy lunch near the cathedral before visiting the TAMAT museum, dedicated to the city's rich tapestry tradition. This completes your main walking tour of the historic core, rich with art, architecture, and culinary delights.\nIn the afternoon, take a relaxing stroll along the Scheldt River to the famous Pont des Trous. This scenic walk offers a different perspective of the city and its medieval past. It's a moment of tranquility before you head back towards your car.\nAt the end of your walking circuit, wander slowly back to the car park. The convenience of traveling by car allows you to enjoy the day at your own pace, with the peace of mind that your vehicle is ready for the next leg of your journey. It's the perfect blend of accessibility and on-foot exploration."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Wasserzooi",
+            "tip": "Ein cremiger Eintopf mit Huhn oder Fisch und Gemüse. Sehr traditionell."
+          },
+          {
+            "name": "Belgische Pommes",
+            "tip": "Holen Sie sich eine Tüte von einer Friterie für den authentischen Geschmack."
+          },
+          {
+            "name": "La Salade de Tournai",
+            "tip": "Ein spezieller lokaler Salat, der oft Chicorée, Äpfel und Speck enthält."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Waterzooi",
+            "tip": "Krémes ragu csirkével vagy hallal és zöldségekkel. Nagyon hagyományos."
+          },
+          {
+            "name": "Belga sült krumpli",
+            "tip": "Vegyen egy adagot egy Friterie-ből az autentikus ízért."
+          },
+          {
+            "name": "La Salade de Tournai",
+            "tip": "Különleges helyi saláta, amely gyakran cikóriát, almát és szalonnát tartalmaz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Waterzooi",
+            "tip": "O tocană cremoasă cu pui sau pește și legume. Foarte tradițională."
+          },
+          {
+            "name": "Cartofi prăjiți belgieni",
+            "tip": "Luați un cornet de la o 'friterie' pentru un gust autentic."
+          },
+          {
+            "name": "La Salade de Tournai",
+            "tip": "O salată locală specială, care conține adesea andive, mere și șuncă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Waterzooi",
+            "tip": "A creamy stew with chicken or fish and vegetables. Very traditional."
+          },
+          {
+            "name": "Belgian Fries",
+            "tip": "Get a cone from a 'friterie' for the authentic taste."
+          },
+          {
+            "name": "La Salade de Tournai",
+            "tip": "A special local salad often featuring endives, apples, and bacon."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Schelde",
+            "tip": "Der Spaziergang entlang des Flusses ist friedlich und bietet schöne Ausblicke.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mont-Saint-Aubert",
+            "tip": "Wenn Sie Zeit haben, fahren Sie zu diesem nahe gelegenen Hügel für einen Panoramablick über die Landschaft.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Schelde folyó partja",
+            "tip": "A séta a folyó mentén békés és szép kilátást nyújt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mont-Saint-Aubert",
+            "tip": "Ha van ideje, vezessen el ehhez a közeli dombhoz, ahonnan panorámás kilátás nyílik a vidékre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Schelde",
+            "tip": "Plimbarea de-a lungul râului este liniștită și oferă priveliști frumoase.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mont-Saint-Aubert",
+            "tip": "Dacă aveți timp, conduceți până la acest deal din apropiere pentru o vedere panoramică asupra peisajului rural.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Scheldt River",
+            "tip": "The walk along the river is peaceful and offers lovely views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mont-Saint-Aubert",
+            "tip": "If you have time, drive to this nearby hill for a panoramic view of the countryside.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue de l'Yser",
+            "tip": "Eine der Haupteinkaufsstraßen für eine Mischung aus lokalen und bekannten Geschäften."
+          },
+          {
+            "name": "Lokale Biere",
+            "tip": "Kaufen Sie eine Auswahl an Tournay-Bieren zum Mitnehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue de l'Yser",
+            "tip": "Az egyik fő bevásárlóutca helyi és ismert üzletek keverékével."
+          },
+          {
+            "name": "Helyi sörök",
+            "tip": "Vásároljon egy válogatást Tournay sörökből elvitelre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue de l'Yser",
+            "tip": "Una dintre principalele străzi comerciale, cu un amestec de magazine locale și de renume."
+          },
+          {
+            "name": "Beri locale",
+            "tip": "Cumpărați o selecție de beri Tournay pentru acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue de l'Yser",
+            "tip": "One of the main shopping streets for a mix of local and well-known shops."
+          },
+          {
+            "name": "Local Beers",
+            "tip": "Buy a selection of Tournay beers to take home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie am Stadtrand, um den Verkehr im Zentrum zu vermeiden.",
+          "Das Zentrum ist sehr kompakt, alles ist leicht zu Fuß erreichbar, sobald Sie geparkt haben.",
+          "Die meisten Parkplätze sind kostenpflichtig, halten Sie Münzen oder eine Park-App bereit.",
+          "Tournai ist eine Umweltzone (LEZ), überprüfen Sie, ob Ihr Fahrzeug die Anforderungen erfüllt."
+        ],
+        "hu": [
+          "Parkoljon a város szélén, hogy elkerülje a központi forgalmat.",
+          "A központ nagyon kompakt, minden könnyen elérhető gyalog, miután leparkolt.",
+          "A legtöbb parkoló fizetős, készítsen elő érméket vagy egy parkolóalkalmazást.",
+          "Tournai alacsony kibocsátású zóna (LEZ), ellenőrizze, hogy járműve megfelel-e a követelményeknek."
+        ],
+        "ro": [
+          "Parcați la periferie pentru a evita traficul din centru.",
+          "Centrul este foarte compact, totul este ușor accesibil pe jos odată ce ați parcat.",
+          "Majoritatea parcărilor sunt cu plată, pregătiți monede sau o aplicație de parcare.",
+          "Tournai este o zonă cu emisii scăzute (LEZ), verificați dacă vehiculul dvs. îndeplinește cerințele."
+        ],
+        "en": [
+          "Park on the outskirts to avoid city center traffic.",
+          "The center is very compact, everything is easily walkable once you've parked.",
+          "Most parking is paid, have coins or a parking app ready.",
+          "Tournai is a Low Emission Zone (LEZ), check if your vehicle complies before entering."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof Tournai",
+            "hu": "Érkezés a Tournai vasútállomásra",
+            "ro": "Sosire la Gara Tournai",
+            "en": "Arrival at Tournai Station"
+          },
+          "coords": [
+            3.3768,
+            50.6071
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Bahnhof zur Grand-Place.",
+            "hu": "Szálljon buszra az állomásról a Grand-Place felé.",
+            "ro": "Luați un autobuz de la gară spre Grand-Place.",
+            "en": "Take a bus from the station to the Grand-Place."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 1: Grand-Place & Belfried",
+            "hu": "1. klaszter: Grand-Place és Harangtorony",
+            "ro": "Cluster 1: Grand-Place & Beffroi",
+            "en": "Cluster 1: Grand-Place & Belfry"
+          },
+          "coords": [
+            3.3872,
+            50.6057
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Erkundungstour zu Fuß auf dem Hauptplatz.",
+            "hu": "Kezdje a gyalogos felfedezést a fő téren.",
+            "ro": "Începeți explorarea pe jos în piața principală.",
+            "en": "Begin your on-foot exploration in the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Notre-Dame",
+            "hu": "Notre-Dame katedrális",
+            "ro": "Catedrala Notre-Dame",
+            "en": "Notre-Dame Cathedral"
+          },
+          "coords": [
+            3.3899,
+            50.6063
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Grand-Place zu diesem UNESCO-Meisterwerk.",
+            "hu": "Rövid séta a Grand-Place-ról ehhez az UNESCO remekműhöz.",
+            "ro": "O scurtă plimbare de la Grand-Place la această capodoperă UNESCO.",
+            "en": "A short walk from the Grand-Place to this UNESCO masterpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Spaziergang am Fluss",
+            "hu": "Ebéd és folyóparti séta",
+            "ro": "Prânz și plimbare pe râu",
+            "en": "Lunch and River Stroll"
+          },
+          "coords": [
+            3.3915,
+            50.608
+          ],
+          "category": "gastro",
+          "arrive_at": "12:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Finden Sie ein Restaurant in der Nähe des Flusses für eine Mahlzeit mit Aussicht.",
+            "hu": "Keressen egy éttermet a folyó közelében egy kilátással egybekötött étkezéshez.",
+            "ro": "Găsiți un restaurant lângă râu pentru o masă cu priveliște.",
+            "en": "Find a restaurant near the river for a meal with a view."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Schönen Künste",
+            "hu": "Szépművészeti Múzeum",
+            "ro": "Muzeul de Arte Frumoase",
+            "en": "Museum of Fine Arts"
+          },
+          "coords": [
+            3.3813,
+            50.6027
+          ],
+          "category": "museums",
+          "arrive_at": "14:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein angenehmer Spaziergang durch die Stadt führt Sie zu diesem Kunsttempel.",
+            "hu": "Egy kellemes séta a városon keresztül vezet a művészet e templomához.",
+            "ro": "O plimbare plăcută prin oraș vă duce la acest templu al artei.",
+            "en": "A pleasant walk across town takes you to this temple of art."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr zum Bahnhof",
+            "hu": "Vissza az állomásra",
+            "ro": "Întoarcere la gară",
+            "en": "Return to Station"
+          },
+          "coords": [
+            3.3768,
+            50.6071
+          ],
+          "category": "transport",
+          "arrive_at": "16:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie zurück zum Bahnhof oder nehmen Sie einen Bus von einer nahegelegenen Haltestelle.",
+            "hu": "Sétáljon vissza az állomásra, vagy szálljon buszra a közeli megállóból.",
+            "ro": "Mergeți pe jos înapoi la gară sau luați un autobuz de la o stație din apropiere.",
+            "en": "Walk back to the station or catch a bus from a nearby stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln ist Tournai leicht zu erreichen. Nehmen Sie vom Bahnhof aus einen Bus ins Zentrum, der Sie an der Grand-Place absetzt. Dies ist Ihr Ausgangspunkt für einen Tag der Erkundung zu Fuß. Beginnen Sie mit der Grand-Place selbst und dem benachbarten Belfried, bevor Sie zur prächtigen Kathedrale schlendern, die den Morgen dominiert.\nNach dem Besuch der Kathedrale ist es Zeit für ein Mittagessen. Wählen Sie ein Lokal am Flussufer für eine Mahlzeit mit malerischer Aussicht. Der Spaziergang dorthin ist kurz und angenehm und ermöglicht es Ihnen, die Atmosphäre der Stadt aufzusaugen. Der Nachmittag ist der Kunst gewidmet, mit einem gemütlichen Spaziergang zum Museum der Schönen Künste.\nVerbringen Sie einen Großteil des Nachmittags im Museum und bewundern Sie seine einzigartige Architektur und seine wertvolle Sammlung. Der Spaziergang vom belebten Zentrum zum ruhigeren Museumsviertel bietet einen schönen Kontrast und zeigt eine andere Seite von Tournai.\nWenn Ihr Tag zu Ende geht, spazieren Sie gemütlich zurück zum Bahnhof. Alternativ können Sie einen der häufigen Busse nehmen, um Zeit zu sparen. Diese Route mit öffentlichen Verkehrsmitteln maximiert Ihre Zeit im historischen Herzen der Stadt und macht sie zu einem effizienten und stressfreien Erlebnis.",
+        "hu": "Tournai tömegközlekedéssel könnyen megközelíthető. Az állomásról szálljon buszra a központba, amely a Grand-Place-on teszi le. Ez a kiindulópontja a gyalogos felfedezőnapnak. Kezdje magával a Grand-Place-szal és a szomszédos harangtoronnyal, mielőtt átsétálna a délelőttöt uraló csodálatos katedrálishoz.\nA katedrális után jöhet az ebéd. Válasszon egy folyóparti helyet egy festői kilátással egybekötött étkezéshez. Az odavezető séta rövid és kellemes, lehetővé téve, hogy magába szívja a város hangulatát. A délután a művészeté, egy kellemes sétával a Szépművészeti Múzeumhoz.\nTöltse a délután nagy részét a múzeumban, csodálja meg egyedi építészetét és értékes gyűjteményét. A nyüzsgő központból a csendesebb múzeumi negyedbe vezető séta szép kontrasztot kínál, és megmutatja Tournai egy másik oldalát.\nAhogy a nap a végéhez közeledik, sétáljon vissza kényelmesen az állomásra. Alternatívaként időt takaríthat meg, ha az egyik gyakori buszra száll. Ez a tömegközlekedési útvonal maximalizálja a történelmi belvárosban töltött időt, hatékony és stresszmentes élményt nyújtva.",
+        "ro": "Tournai este ușor de accesat cu transportul public. De la gară, luați un autobuz spre centru, care vă va lăsa în Grand-Place. Acesta este punctul de plecare pentru o zi de explorare pe jos. Începeți cu Grand-Place însăși și cu Beffroi-ul adiacent, înainte de a vă plimba spre magnifica Catedrală care domină dimineața.\nDupă vizitarea Catedralei, este timpul pentru prânz. Alegeți un local pe malul râului pentru o masă cu o priveliște pitorească. Plimbarea până acolo este scurtă și plăcută, permițându-vă să absorbiți atmosfera orașului. După-amiaza este dedicată artei, cu o plimbare relaxantă la Muzeul de Arte Frumoase.\nPetreceți o bună parte a după-amiezii la muzeu, admirându-i arhitectura unică și colecția prețioasă. Plimbarea de la centrul plin de viață la cartierul mai liniștit al muzeului oferă un contrast plăcut, arătând o altă față a orașului Tournai.\nPe măsură ce ziua se încheie, plimbați-vă încet înapoi la gară. Alternativ, pentru a economisi timp, puteți lua unul dintre autobuzele frecvente. Acest itinerar bazat pe transportul public vă maximizează timpul în inima istorică a orașului, făcându-l o experiență eficientă și fără stres.",
+        "en": "Tournai is easily accessible by public transport. From the train station, take a bus to the center, dropping you at the Grand-Place. This is your starting point for a day of on-foot exploration. Begin with the Grand-Place itself and the adjacent Belfry, before strolling to the magnificent Cathedral that dominates the morning.\nAfter the Cathedral, it's time for lunch. Choose a spot by the riverside for a meal with a scenic view. The walk there is short and pleasant, allowing you to soak up the city's atmosphere. The afternoon is dedicated to art, with a leisurely walk to the Museum of Fine Arts.\nSpend a good portion of the afternoon at the museum, admiring its unique architecture and its prized collection. The walk from the bustling center to the quieter museum district offers a nice contrast, showing another side of Tournai.\nAs your day draws to a close, walk leisurely back to the train station. Alternatively, to save time, you can hop on one of the frequent buses. This transit-based itinerary maximizes your time in the historic heart of the city, making for an efficient and stress-free experience."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Carbonnade flamande",
+            "tip": "Ein herzhafter Rindfleisch- und Zwiebeleintopf, der in Bier gekocht wird. Ein Muss in der Region."
+          },
+          {
+            "name": "Lokales Tournay Bier",
+            "tip": "Probieren Sie die lokalen Biere der Brasserie de Cazeau, die eine lange Brautradition hat."
+          },
+          {
+            "name": "Gaufre de Liège",
+            "tip": "Eine dichte, süße Waffel mit Perlzucker, perfekt für einen süßen Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Carbonnade flamande",
+            "tip": "Kiadós marha- és hagymaragu sörben főzve. Kötelező a régióban."
+          },
+          {
+            "name": "Helyi Tournay sör",
+            "tip": "Kóstolja meg a Brasserie de Cazeau helyi söreit, amely hosszú sörfőző hagyományokkal rendelkezik."
+          },
+          {
+            "name": "Liège-i gofri",
+            "tip": "Sűrű, édes gofri gyöngycukorral, tökéletes édes snack."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Carbonnade flamande",
+            "tip": "O tocană consistentă de vită și ceapă, fiartă în bere. O specialitate obligatorie în regiune."
+          },
+          {
+            "name": "Berea locală Tournay",
+            "tip": "Încercați berile locale de la Brasserie de Cazeau, care are o lungă tradiție în fabricarea berii."
+          },
+          {
+            "name": "Gaufre de Liège",
+            "tip": "O vafă densă și dulce, cu zahăr perlat, perfectă pentru o gustare dulce."
+          }
+        ],
+        "en": [
+          {
+            "name": "Carbonnade flamande",
+            "tip": "A hearty beef and onion stew cooked in beer. A must-try in the region."
+          },
+          {
+            "name": "Local Tournay Beer",
+            "tip": "Sample the local beers from the Brasserie de Cazeau, which has a long brewing tradition."
+          },
+          {
+            "name": "Gaufre de Liège",
+            "tip": "A dense, sweet waffle with pearl sugar, perfect for a sweet snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Schelde",
+            "tip": "Finden Sie eine Bank am Quai Saint-Brice oder Quai des Salines für eine friedliche Pause am Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Garten des Museums der Schönen Künste",
+            "tip": "Der kleine Garten rund um das Museum ist ein verstecktes Juwel der Ruhe.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Schelde folyó partja",
+            "tip": "Keressen egy padot a Quai Saint-Brice vagy a Quai des Salines mentén egy békés pihenőhöz a víz mellett.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szépművészeti Múzeum kertje",
+            "tip": "A múzeum körüli kis kert a nyugalom rejtett gyöngyszeme.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Schelde",
+            "tip": "Găsiți o bancă de-a lungul Quai Saint-Brice sau Quai des Salines pentru o pauză liniștită lângă apă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Muzeului de Arte Frumoase",
+            "tip": "Mica grădină din jurul muzeului este o bijuterie ascunsă de liniște.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Scheldt River",
+            "tip": "Find a bench along the Quai Saint-Brice or Quai des Salines for a peaceful break by the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Garden of the Fine Arts Museum",
+            "tip": "The small garden surrounding the museum is a hidden gem of tranquility.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Tournai-Wandteppiche",
+            "tip": "Suchen Sie nach kleinen, modernen Reproduktionen oder von Wandteppichen inspirierten Artikeln im TAMAT-Shop."
+          },
+          {
+            "name": "Belgische Schokolade",
+            "tip": "Besuchen Sie einen lokalen Chocolatier für handgemachte Pralinen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tournai faliszőnyegek",
+            "tip": "Keressen kis, modern reprodukciókat vagy faliszőnyeg ihlette tárgyakat a TAMAT boltjában."
+          },
+          {
+            "name": "Belga csokoládé",
+            "tip": "Látogasson el egy helyi csokoládékészítőhöz kézzel készített pralinékért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tapiserii din Tournai",
+            "tip": "Căutați reproduceri mici, moderne sau articole inspirate de tapiserii în magazinul TAMAT."
+          },
+          {
+            "name": "Ciocolată belgiană",
+            "tip": "Vizitați un ciocolatier local pentru praline artizanale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tournai Tapestries",
+            "tip": "Look for small, modern reproductions or tapestry-inspired items at the TAMAT shop."
+          },
+          {
+            "name": "Belgian Chocolate",
+            "tip": "Visit a local chocolatier for handmade pralines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus für unbegrenzte Fahrten.",
+          "Die Busse fahren regelmäßig vom Bahnhof ins Zentrum.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind zu Fuß erreichbar, sodass Sie den Bus nur für die An- und Abreise benötigen.",
+          "Überprüfen Sie den Busfahrplan für Ihre Rückfahrt im Voraus."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan buszozáshoz.",
+          "A buszok rendszeresen közlekednek az állomásról a központba.",
+          "A központ legtöbb látnivalója gyalog elérhető, így a buszra csak az érkezéshez és a távozáshoz lesz szüksége.",
+          "Ellenőrizze előre a busz menetrendjét a visszautazáshoz."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate cu autobuzul.",
+          "Autobuzele circulă regulat de la gară spre centru.",
+          "Majoritatea atracțiilor din centru sunt accesibile pe jos, deci veți avea nevoie de autobuz doar pentru a ajunge și a pleca.",
+          "Verificați din timp orarul autobuzului pentru călătoria de întoarcere."
+        ],
+        "en": [
+          "Buy a day pass for the bus for unlimited travel.",
+          "Buses run regularly from the station to the center.",
+          "Most sights in the center are walkable, so you'll only need the bus for getting to and from the station.",
+          "Check the bus schedule for your return trip in advance."
+        ]
+      }
+    }
+  }
+}

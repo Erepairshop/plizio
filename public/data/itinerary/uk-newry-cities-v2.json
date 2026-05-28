@@ -1,0 +1,1143 @@
+{
+  "city_id": "uk-newry-cities-v2",
+  "anchor": {
+    "name": "Newry",
+    "coords": [
+      -6.3402,
+      54.1751
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Newry Town Hall",
+            "hu": "Newry városháza",
+            "ro": "Primăria Newry",
+            "en": "Newry Town Hall"
+          },
+          "coords": [
+            -6.3385,
+            54.1755
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die einzigartige Architektur des Rathauses, das über dem Fluss Clanrye gebaut wurde.",
+            "hu": "Csodálja meg a városháza egyedi építészetét, amely a Clanrye folyó fölé épült.",
+            "ro": "Admirați arhitectura unică a primăriei, construită peste râul Clanrye.",
+            "en": "Admire the unique architecture of the Town Hall, built over the River Clanrye."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Patrick's Kirche",
+            "hu": "Szent Patrik-templom",
+            "ro": "Biserica Sf. Patrick",
+            "en": "St Patrick's Church"
+          },
+          "coords": [
+            -6.3398,
+            54.1781
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Suchen Sie nach der Gedenktafel, die an die erste protestantische Kirche Irlands erinnert.",
+            "hu": "Keresse meg az emléktáblát, amely Írország első protestáns templomára emlékezik.",
+            "ro": "Căutați placa ce comemorează prima biserică protestantă construită în Irlanda.",
+            "en": "Look for the plaque commemorating the first Protestant church built in Ireland."
+          }
+        },
+        {
+          "name": {
+            "de": "Newry Kathedrale",
+            "hu": "Newry-i székesegyház",
+            "ro": "Catedrala din Newry",
+            "en": "Newry Cathedral"
+          },
+          "coords": [
+            -6.3445,
+            54.179
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, die beeindruckenden Mosaiken und Glasfenster im Inneren zu betrachten.",
+            "hu": "Szánjon időt a lenyűgöző belső mozaikok és ólomüveg ablakok megcsodálására.",
+            "ro": "Acordați-vă timp pentru a aprecia mozaicurile și vitraliile impresionante din interior.",
+            "en": "Take time to appreciate the stunning mosaics and stained glass windows inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagenal's Castle",
+            "hu": "Bagenal-kastély",
+            "ro": "Castelul Bagenal",
+            "en": "Bagenal's Castle"
+          },
+          "coords": [
+            -6.3401,
+            54.1772
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Das Schloss beherbergt das Newry and Mourne Museum. Der Eintritt ist oft kostenlos.",
+            "hu": "A kastély ad otthont a Newry and Mourne Múzeumnak. A belépés gyakran ingyenes.",
+            "ro": "Castelul găzduiește Muzeul Newry și Mourne. Intrarea este adesea gratuită.",
+            "en": "The castle houses the Newry and Mourne Museum. Admission is often free."
+          }
+        },
+        {
+          "name": {
+            "de": "Newry Canal",
+            "hu": "Newry-csatorna",
+            "ro": "Canalul Newry",
+            "en": "Newry Canal"
+          },
+          "coords": [
+            -6.335,
+            54.173
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Machen Sie einen entspannten Spaziergang entlang des Treidelpfades und beobachten Sie die Schwäne.",
+            "hu": "Tegyen egy pihentető sétát a vontatóösvényen és figyelje a hattyúkat.",
+            "ro": "Faceți o plimbare relaxantă de-a lungul malului și priviți lebedele.",
+            "en": "Take a relaxing stroll along the towpath and watch the swans."
+          }
+        },
+        {
+          "name": {
+            "de": "Flagstaff Viewpoint",
+            "hu": "Flagstaff kilátó",
+            "ro": "Punctul de belvedere Flagstaff",
+            "en": "Flagstaff Viewpoint"
+          },
+          "coords": [
+            -6.305,
+            54.15
+          ],
+          "category": "natural features",
+          "arrive_at": "15:47",
+          "stay_min": 45,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Der beste Ort für einen Panoramablick auf Newry, Carlingford Lough und die Mourne Mountains.",
+            "hu": "A legjobb hely a Newryre, a Carlingford Lough-ra és a Mourne-hegységre nyíló panorámához.",
+            "ro": "Cel mai bun loc pentru o vedere panoramică asupra Newry, Carlingford Lough și Munților Mourne.",
+            "en": "The best spot for a panoramic view of Newry, Carlingford Lough, and the Mourne Mountains."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Newry beginnt im Herzen der Stadt, wo Sie die einzigartige Architektur des Rathauses und die historischen Kirchen erkunden. Am Vormittag tauchen Sie tiefer in die Geschichte ein mit einem Besuch des Bagenal's Castle und der prächtigen Kathedrale. Der Nachmittag steht im Zeichen der Natur und Entspannung. Ein Spaziergang entlang des historischen Newry Canal bietet eine ruhige Pause, bevor Sie den Aufstieg zum Flagstaff Viewpoint wagen. Beenden Sie den Tag mit dem atemberaubenden Panoramablick über die Stadt und die umliegende Landschaft, der die Mühen des Spaziergangs belohnt.",
+        "hu": "A newry-i nap a város szívében kezdődik, ahol felfedezheti a városháza egyedi építészetét és a történelmi templomokat. A délelőtt folyamán mélyebbre áshatja magát a történelemben a Bagenal-kastély és a csodálatos katedrális meglátogatásával. A délután a természeté és a pihenésé. Egy séta a történelmi Newry-csatorna mentén nyugodt kikapcsolódást nyújt, mielőtt megmássza a Flagstaff kilátót. A napot a városra és a környező tájra nyíló lélegzetelállító panorámával zárja, amely megéri a gyaloglás fáradalmait.",
+        "ro": "Ziua dvs. în Newry începe în inima orașului, explorând arhitectura unică a primăriei și bisericile istorice. Dimineața vă adânciți în istorie cu o vizită la Castelul Bagenal și la splendida catedrală. După-amiaza este dedicată naturii și relaxării. O plimbare de-a lungul Canalului Newry, un monument istoric, oferă o pauză liniștită înainte de a urca la punctul de belvedere Flagstaff. Încheiați ziua cu o priveliște panoramică uluitoare asupra orașului și a peisajului înconjurător, o recompensă binemeritată după plimbare.",
+        "en": "Your day in Newry begins in the heart of the city, exploring the unique Town Hall architecture and historic churches. In the morning, you'll delve deeper into history with a visit to Bagenal's Castle and the magnificent cathedral. The afternoon is for nature and relaxation. A stroll along the historic Newry Canal offers a tranquil break before you tackle the climb to Flagstaff Viewpoint. End the day with the stunning panoramic view over the city and the surrounding landscape, a rewarding finish to your walk."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ulster Fry",
+            "tip": "Probieren Sie dieses herzhafte lokale Frühstück in einem der vielen Cafés im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ulster Fry",
+            "tip": "Kóstolja meg ezt a kiadós helyi reggelit a belváros egyik kávézójában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulster Fry",
+            "tip": "Încercați acest mic dejun local consistent la una dintre numeroasele cafenele din centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ulster Fry",
+            "tip": "Try this hearty local breakfast at one of the many cafes in the city centre."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Newry Canal",
+            "tip": "Ein ruhiger Ort, um dem Trubel der Stadt zu entkommen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Flagstaff Viewpoint",
+            "tip": "Genießen Sie die Stille und die weite Aussicht bei Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Newry-csatorna partja",
+            "tip": "Csendes hely a város nyüzsgésétől távol.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Flagstaff kilátó",
+            "tip": "Élvezze a csendet és a naplementét.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile canalului Newry",
+            "tip": "Un loc liniștit pentru a scăpa de agitația orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Punctul de belvedere Flagstaff",
+            "tip": "Bucurați-vă de liniște și de priveliștea panoramică la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Newry Canal Towpath",
+            "tip": "A quiet spot to escape the city bustle.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Flagstaff Viewpoint",
+            "tip": "Enjoy the silence and the vast views at sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Buttercrane Shopping Centre",
+            "tip": "Eine Mischung aus lokalen Geschäften und bekannten Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buttercrane Bevásárlóközpont",
+            "tip": "Helyi boltok és ismert márkák keveréke."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Buttercrane",
+            "tip": "Un amestec de magazine locale și mărci cunoscute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Buttercrane Shopping Centre",
+            "tip": "A mix of local shops and well-known brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Innenstadt uneben sein kann.",
+          "Prüfen Sie die Öffnungszeiten des Museums im Bagenal's Castle im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, a belvárosi macskakövek egyenetlenek lehetnek.",
+          "Ellenőrizze előre a Bagenal-kastélyban lévő múzeum nyitvatartását."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din centrul orașului poate fi denivelat.",
+          "Verificați în avans programul muzeului din Castelul Bagenal."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the city centre can be uneven.",
+          "Check the opening hours for the museum in Bagenal's Castle in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Newry Canal",
+            "hu": "Newry-csatorna",
+            "ro": "Canalul Newry",
+            "en": "Newry Canal"
+          },
+          "coords": [
+            -6.335,
+            54.173
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einer leichten Radtour entlang des ältesten Kanals Irlands.",
+            "hu": "Kezdje a napot egy könnyű biciklitúrával Írország legrégebbi csatornája mentén.",
+            "ro": "Începeți ziua cu o plimbare ușoară cu bicicleta de-a lungul celui mai vechi canal din Irlanda.",
+            "en": "Start the day with a gentle cycle along Ireland's oldest canal."
+          }
+        },
+        {
+          "name": {
+            "de": "Newry Town Hall",
+            "hu": "Newry városháza",
+            "ro": "Primăria Newry",
+            "en": "Newry Town Hall"
+          },
+          "coords": [
+            -6.3385,
+            54.1755
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:16",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto von diesem einzigartigen Gebäude, das auf einer Brücke steht.",
+            "hu": "Fotózza le ezt az egyedi, hídra épült épületet.",
+            "ro": "Faceți o fotografie acestei clădiri unice care se întinde peste un pod.",
+            "en": "Snap a photo of this unique building that sits astride a bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagenal's Castle",
+            "hu": "Bagenal-kastély",
+            "ro": "Castelul Bagenal",
+            "en": "Bagenal's Castle"
+          },
+          "coords": [
+            -6.3401,
+            54.1772
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie das Museum im Inneren erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt felfedezi a múzeumot.",
+            "ro": "Asigurați-vă bicicleta înainte de a explora muzeul din interior.",
+            "en": "Lock your bike securely before exploring the museum inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Newry Kathedrale",
+            "hu": "Newry-i székesegyház",
+            "ro": "Catedrala din Newry",
+            "en": "Newry Cathedral"
+          },
+          "coords": [
+            -6.3445,
+            54.179
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Eine willkommene, ruhige Pause nach der Radtour durch die Stadt.",
+            "hu": "Kellemes, csendes pihenő a városi biciklizés után.",
+            "ro": "O pauză binevenită și liniștită după plimbarea cu bicicleta prin oraș.",
+            "en": "A welcome, quiet pause after cycling through the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Flagstaff Viewpoint",
+            "hu": "Flagstaff kilátó",
+            "ro": "Punctul de belvedere Flagstaff",
+            "en": "Flagstaff Viewpoint"
+          },
+          "coords": [
+            -6.305,
+            54.15
+          ],
+          "category": "natural features",
+          "arrive_at": "13:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Der Anstieg ist die Anstrengung wert. Die Aussicht ist spektakulär.",
+            "hu": "A hegyre való feljutás megéri a fáradságot. A kilátás látványos.",
+            "ro": "Urcușul merită efortul. Priveliștea este spectaculoasă.",
+            "en": "The climb is worth the effort. The view is spectacular."
+          }
+        },
+        {
+          "name": {
+            "de": "Narrow Water Castle",
+            "hu": "Narrow Water kastély",
+            "ro": "Castelul Narrow Water",
+            "en": "Narrow Water Castle"
+          },
+          "coords": [
+            -6.2443,
+            54.1235
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Ein malerischer Ort für das Ende Ihrer Radtour. Überprüfen Sie die Öffnungszeiten, da es privat ist.",
+            "hu": "Festői hely a kerékpártúra befejezéséhez. Ellenőrizze a nyitvatartást, mivel magántulajdonban van.",
+            "ro": "Un loc pitoresc pentru finalul turului cu bicicleta. Verificați programul, deoarece este proprietate privată.",
+            "en": "A scenic spot for the end of your bike tour. Check opening times as it's privately owned."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und beginnen Sie den Tag mit einer gemütlichen Fahrt entlang des historischen Newry Canal. Von dort aus radeln Sie ins Stadtzentrum, um das Rathaus und das Bagenal's Castle zu bewundern. Nach einer stillen Einkehr in der Kathedrale wartet die Herausforderung des Tages: der Anstieg zum Flagstaff Viewpoint, der mit einer grandiosen Aussicht belohnt wird. Die Tour endet mit einer längeren, aber lohnenden Fahrt zum malerischen Narrow Water Castle, einem perfekten Abschluss für einen aktiven Tag.",
+        "hu": "Pattanjon kerékpárra, és kezdje a napot egy kellemes tekeréssel a történelmi Newry-csatorna mentén. Innen a városközpontba kerekezik, hogy megcsodálja a városházát és a Bagenal-kastélyt. A katedrálisban tett csendes pihenő után jön a nap kihívása: a hegymászás a Flagstaff kilátóhoz, amit pazar kilátás jutalmaz. A túra a festői Narrow Water kastélyhoz vezető hosszabb, de megéri a fáradságot, tökéletes befejezése egy aktív napnak.",
+        "ro": "Urcați-vă pe bicicletă și începeți ziua cu o plimbare relaxantă de-a lungul Canalului Newry. De acolo, pedalați spre centrul orașului pentru a admira primăria și Castelul Bagenal. După o pauză liniștită la catedrală, urmează provocarea zilei: urcarea la punctul de belvedere Flagstaff, care vă recompensează cu o priveliște magnifică. Turul se încheie cu o plimbare mai lungă, dar meritată, până la pitorescul Castel Narrow Water, o încheiere perfectă pentru o zi activă.",
+        "en": "Hop on your bike and start the day with a leisurely ride along the historic Newry Canal. From there, cycle into the city centre to admire the Town Hall and Bagenal's Castle. After a quiet pause at the cathedral, the day's challenge awaits: the climb to Flagstaff Viewpoint, which rewards you with a magnificent view. The tour ends with a longer but rewarding ride to the picturesque Narrow Water Castle, a perfect end to an active day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Ein klassischer Genuss nach einer langen Radtour, erhältlich in vielen lokalen Imbissen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Klasszikus finomság egy hosszú biciklitúra után, számos helyi büfében kapható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Un deliciu clasic după o plimbare lungă cu bicicleta, disponibil la multe localuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish and Chips",
+            "tip": "A classic treat after a long bike ride, available at many local takeaways."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Derrymore House Gärten",
+            "tip": "Obwohl das Haus selbst vielleicht nicht zugänglich ist, sind die Gärten oft ein Ort der Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Carlingford Lough Greenway",
+            "tip": "Einige Abschnitte sind perfekt für eine ruhige Radtour.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Derrymore House kertjei",
+            "tip": "Bár maga a ház talán nem látogatható, a kertjei gyakran a nyugalom szigetei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Carlingford Lough Greenway",
+            "tip": "Néhány szakasza tökéletes egy csendes biciklitúrához.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Casei Derrymore",
+            "tip": "Chiar dacă clădirea nu este vizitabilă, grădinile sunt adesea un loc de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Carlingford Lough Greenway",
+            "tip": "Anumite secțiuni sunt perfecte pentru o plimbare liniștită cu bicicleta.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Derrymore House Gardens",
+            "tip": "Though the house itself may not be accessible, the gardens are often a place of peace.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Carlingford Lough Greenway",
+            "tip": "Some sections are perfect for a quiet cycle.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Kunsthandwerksläden",
+            "tip": "Suchen Sie nach einzigartigen Souvenirs, die von lokalen Künstlern hergestellt wurden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keressen egyedi ajándéktárgyakat, amelyeket helyi művészek készítettek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Căutați suveniruri unice realizate de artiști locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Craft Shops",
+            "tip": "Look for unique souvenirs made by local artists."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie eine gute Fahrradsperre mit.",
+          "Ein Helm wird dringend empfohlen, besonders für den Verkehr in der Stadt und die Landstraßen."
+        ],
+        "hu": [
+          "Vigyen magával egy jó kerékpárzárat.",
+          "Sisak viselése erősen ajánlott, különösen a városi forgalomban és az országutakon."
+        ],
+        "ro": [
+          "Luați cu dvs. un antifurt bun pentru bicicletă.",
+          "Casca este foarte recomandată, mai ales pentru traficul urban și drumurile rurale."
+        ],
+        "en": [
+          "Bring a good bike lock.",
+          "A helmet is strongly recommended, especially for city traffic and country roads."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 34.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Derrymore House",
+            "hu": "Derrymore-ház",
+            "ro": "Casa Derrymore",
+            "en": "Derrymore House"
+          },
+          "coords": [
+            -6.289,
+            54.195
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:25",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag in diesem eleganten strohgedeckten Haus aus dem 18. Jahrhundert. Prüfen Sie die Öffnungszeiten im Voraus.",
+            "hu": "Kezdje a napot ebben az elegáns, 18. századi nádfedeles házban. Előzetesen ellenőrizze a nyitvatartási időt.",
+            "ro": "Începeți ziua la această casă elegantă din secolul al XVIII-lea, cu acoperiș de paie. Verificați programul în avans.",
+            "en": "Start your day at this elegant 18th-century thatched house. Check opening times in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Flagstaff Viewpoint",
+            "hu": "Flagstaff kilátó",
+            "ro": "Punctul de belvedere Flagstaff",
+            "en": "Flagstaff Viewpoint"
+          },
+          "coords": [
+            -6.305,
+            54.15
+          ],
+          "category": "natural features",
+          "arrive_at": "10:40",
+          "stay_min": 25,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Ein kurzer Halt für eine atemberaubende Aussicht. Perfekt für ein Panoramafoto.",
+            "hu": "Egy rövid megálló a lélegzetelállító kilátásért. Tökéletes egy panorámaképhez.",
+            "ro": "O oprire scurtă pentru o priveliște uluitoare. Perfect pentru o fotografie panoramică.",
+            "en": "A quick stop for a breathtaking view. Perfect for a panoramic photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz im Stadtzentrum",
+            "hu": "Parkoló a központban",
+            "ro": "Parcare în centrul orașului",
+            "en": "City Centre Car Park"
+          },
+          "coords": [
+            -6.341,
+            54.1765
+          ],
+          "category": "transport",
+          "arrive_at": "11:20",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Rest des Vormittags und erkunden Sie die Innenstadt zu Fuß.",
+            "hu": "Parkoljon itt a délelőtt hátralévő részére, és fedezze fel a belvárost gyalog.",
+            "ro": "Parcați aici pentru restul dimineții și explorați centrul orașului pe jos.",
+            "en": "Park here for the rest of the morning and explore the city centre on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagenal's Castle",
+            "hu": "Bagenal-kastély",
+            "ro": "Castelul Bagenal",
+            "en": "Bagenal's Castle"
+          },
+          "coords": [
+            -6.3401,
+            54.1772
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:25",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das Museum im Inneren gibt einen großartigen Einblick in die lokale Geschichte.",
+            "hu": "A bent található múzeum remek betekintést nyújt a helyi történelembe.",
+            "ro": "Muzeul din interior oferă o perspectivă excelentă asupra istoriei locale.",
+            "en": "The museum inside provides great insight into local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Newry Kathedrale",
+            "hu": "Newry-i székesegyház",
+            "ro": "Catedrala din Newry",
+            "en": "Newry Cathedral"
+          },
+          "coords": [
+            -6.3445,
+            54.179
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:53",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Granitfassade und die ruhige Atmosphäre.",
+            "hu": "Csodálja meg a gránit homlokzatot és a békés légkört.",
+            "ro": "Admirați exteriorul din granit și atmosfera liniștită.",
+            "en": "Admire the granite exterior and the peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Innenstadt",
+            "hu": "Ebéd a belvárosban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the City Centre"
+          },
+          "coords": [
+            -6.3395,
+            54.176
+          ],
+          "category": "gastro",
+          "arrive_at": "13:59",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zeit, die lokale Küche zu probieren, bevor Sie zu Ihrem nächsten Ziel fahren.",
+            "hu": "Ideje megkóstolni a helyi konyhát, mielőtt a következő úti célhoz hajtana.",
+            "ro": "Este timpul să gustați bucătăria locală înainte de a vă îndrepta spre următoarea destinație.",
+            "en": "Time to sample some local cuisine before driving to your next destination."
+          }
+        },
+        {
+          "name": {
+            "de": "Narrow Water Castle",
+            "hu": "Narrow Water kastély",
+            "ro": "Castelul Narrow Water",
+            "en": "Narrow Water Castle"
+          },
+          "coords": [
+            -6.2443,
+            54.1235
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:40",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Ein beeindruckender Wohnturm am Ufer des Carlingford Lough. Ein perfekter Fotostopp.",
+            "hu": "Lenyűgöző toronyház a Carlingford Lough partján. Tökéletes fotómegálló.",
+            "ro": "Un turn impresionant pe malul lacului Carlingford Lough. O oprire perfectă pentru fotografii.",
+            "en": "An impressive tower house on the shores of Carlingford Lough. A perfect photo stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Roadtrip rund um Newry beginnt mit einem Hauch von Eleganz im Derrymore House, bevor Sie zum Flagstaff Viewpoint fahren, um einen Panoramablick zu genießen. Danach parken Sie im Stadtzentrum, um einen Cluster historischer Stätten zu erkunden. Der Vormittag ist dem Bagenal's Castle und der Kathedrale gewidmet, alles bequem zu Fuß erreichbar. Nach einem stärkenden Mittagessen fahren Sie am Nachmittag zum beeindruckenden Narrow Water Castle, das malerisch am Wasser liegt und den perfekten Abschluss für Ihren Erkundungstag bildet.",
+        "hu": "A Newry körüli autós kirándulás a Derrymore House eleganciájával kezdődik, mielőtt a Flagstaff kilátóhoz hajtana egy panorámás kilátásért. Ezután a városközpontban parkol, hogy felfedezzen egy történelmi helyszínekből álló klasztert. A délelőtt a Bagenal-kastélyé és a katedrálisé, mindkettő kényelmes sétatávolságra. Egy kiadós ebéd után délután a lenyűgöző Narrow Water kastélyhoz hajt, amely festői környezetben, a vízparton fekszik, és tökéletes befejezése a felfedező napnak.",
+        "ro": "Excursia dvs. cu mașina în jurul Newry începe cu o notă de eleganță la Casa Derrymore, înainte de a vă îndrepta spre punctul de belvedere Flagstaff pentru o priveliște panoramică. Apoi, parcați în centrul orașului pentru a explora un grup de situri istorice. Dimineața este dedicată Castelului Bagenal și catedralei, toate la mică distanță de mers pe jos. După un prânz copios, după-amiaza vă îndreptați spre impresionantul Castel Narrow Water, situat pitoresc pe malul apei, încheind perfect ziua de explorare.",
+        "en": "Your road trip around Newry begins with a touch of elegance at Derrymore House before driving to Flagstaff Viewpoint for a panoramic view. You'll then park in the city centre to explore a cluster of historic sites. The morning is dedicated to Bagenal's Castle and the cathedral, all within easy walking distance. After a hearty lunch, the afternoon sees you driving to the impressive Narrow Water Castle, scenically located on the water's edge, providing a perfect end to your day of exploration."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Irish Stew",
+            "tip": "Ein wärmender und traditioneller Eintopf, perfekt für nach einem Tag voller Erkundungen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ír pörkölt",
+            "tip": "Melegítő és hagyományos egytálétel, tökéletes egy felfedezéssel teli nap után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tocăniță irlandeză",
+            "tip": "O tocană caldă și tradițională, perfectă după o zi de explorare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Irish Stew",
+            "tip": "A warming and traditional stew, perfect for after a day of exploring."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Derrymore House Anwesen",
+            "tip": "Spazieren Sie durch die ruhigen Wälder und Parklandschaften.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Carlingford Lough bei Narrow Water",
+            "tip": "Ein friedlicher Ort, um die Boote zu beobachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Derrymore House birtok",
+            "tip": "Sétáljon a csendes erdőkben és parkokban.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Carlingford Lough partja a Narrow Water-nél",
+            "tip": "Békés hely a hajók figyeléséhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Domeniul Derrymore House",
+            "tip": "Plimbați-vă prin pădurile și parcurile liniștite.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul lacului Carlingford Lough lângă Narrow Water",
+            "tip": "Un loc pașnic pentru a privi bărcile.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Derrymore House Estate",
+            "tip": "Stroll through the quiet woodlands and parkland.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Shores of Carlingford Lough near Narrow Water",
+            "tip": "A peaceful spot to watch the boats.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden in der Umgebung",
+            "tip": "Halten Sie Ausschau nach Schildern für lokale Produkte wie Honig oder Marmeladen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Környékbeli farmboltok",
+            "tip": "Keresse a helyi termékeket, például mézet vagy lekvárt hirdető táblákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele fermelor din zonă",
+            "tip": "Fiți atenți la indicatoarele pentru produse locale, cum ar fi mierea sau gemurile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm Shops in the surrounding area",
+            "tip": "Keep an eye out for signs for local produce like honey or jams."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Viele Parkplätze in der Innenstadt sind gebührenpflichtig, halten Sie also Münzen bereit.",
+          "Die Straßen auf dem Land können eng sein, fahren Sie also vorsichtig."
+        ],
+        "hu": [
+          "A belvárosi parkolók nagy része fizetős, ezért tartson magánál érméket.",
+          "A vidéki utak szűkek lehetnek, ezért vezessen óvatosan."
+        ],
+        "ro": [
+          "Multe parcări din centrul orașului sunt cu plată, așa că aveți monede la îndemână.",
+          "Drumurile rurale pot fi înguste, așa că șofați cu prudență."
+        ],
+        "en": [
+          "Many car parks in the city centre are pay-and-display, so have coins ready.",
+          "Country roads can be narrow, so drive with care."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Busbahnhof Newry",
+            "hu": "Newry buszpályaudvar",
+            "ro": "Autogara Newry",
+            "en": "Newry Buscentre"
+          },
+          "coords": [
+            -6.336,
+            54.1735
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ihr Ausgangspunkt. Von hier aus ist der erste Cluster von Sehenswürdigkeiten zu Fuß erreichbar.",
+            "hu": "A kiindulópont. Innen az első látnivalócsoport gyalogosan is elérhető.",
+            "ro": "Punctul de plecare. Primul grup de atracții este la distanță de mers pe jos de aici.",
+            "en": "Your starting point. The first cluster of sights is within walking distance from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Newry Town Hall",
+            "hu": "Newry városháza",
+            "ro": "Primăria Newry",
+            "en": "Newry Town Hall"
+          },
+          "coords": [
+            -6.3385,
+            54.1755
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:15",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Busbahnhof zu diesem architektonischen Juwel.",
+            "hu": "Rövid séta a buszpályaudvartól ehhez az építészeti gyöngyszemhez.",
+            "ro": "O scurtă plimbare de la autogară la această bijuterie arhitecturală.",
+            "en": "A short walk from the bus station to this architectural gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagenal's Castle",
+            "hu": "Bagenal-kastély",
+            "ro": "Castelul Bagenal",
+            "en": "Bagenal's Castle"
+          },
+          "coords": [
+            -6.3401,
+            54.1772
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:45",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie das Museum und die Geschichte von Newry.",
+            "hu": "Fedezze fel Newry múzeumát és történelmét.",
+            "ro": "Explorați muzeul și istoria orașului Newry.",
+            "en": "Explore the museum and the history of Newry."
+          }
+        },
+        {
+          "name": {
+            "de": "Newry Kathedrale",
+            "hu": "Newry-i székesegyház",
+            "ro": "Catedrala din Newry",
+            "en": "Newry Cathedral"
+          },
+          "coords": [
+            -6.3445,
+            54.179
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:21",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein Ort der Ruhe und des Friedens, nur einen kurzen Spaziergang entfernt.",
+            "hu": "A nyugalom és a béke helye, csak egy rövid sétára.",
+            "ro": "Un loc de calm și pace, la o scurtă plimbare distanță.",
+            "en": "A place of calm and peace just a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle für Narrow Water",
+            "hu": "Buszmegálló a Narrow Water felé",
+            "ro": "Stație de autobuz spre Narrow Water",
+            "en": "Bus Stop for Narrow Water"
+          },
+          "coords": [
+            -6.3355,
+            54.173
+          ],
+          "category": "transport",
+          "arrive_at": "12:50",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in Richtung Warrenpoint, um zu Ihrem nächsten Ziel zu gelangen.",
+            "hu": "Menjen busszal Warrenpoint irányába, hogy elérje a következő célállomást.",
+            "ro": "Luați un autobuz spre Warrenpoint pentru a ajunge la următoarea destinație.",
+            "en": "Take a bus towards Warrenpoint to get to your next destination."
+          }
+        },
+        {
+          "name": {
+            "de": "Narrow Water Castle",
+            "hu": "Narrow Water kastély",
+            "ro": "Castelul Narrow Water",
+            "en": "Narrow Water Castle"
+          },
+          "coords": [
+            -6.2443,
+            54.1235
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht und machen Sie einen Spaziergang in der Umgebung, bevor Sie den Bus zurück nehmen.",
+            "hu": "Élvezze a kilátást és sétáljon a környéken, mielőtt visszamenne a buszra.",
+            "ro": "Bucurați-vă de priveliște și faceți o plimbare în zonă înainte de a lua autobuzul înapoi.",
+            "en": "Enjoy the views and have a walk around the area before taking the bus back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln erkunden Sie Newry in zwei Clustern. Der Vormittag gehört dem zu Fuß erreichbaren Stadtzentrum. Vom zentralen Busbahnhof aus spazieren Sie zum Rathaus, zum Bagenal's Castle und zur imposanten Kathedrale. Nach dem Mittagessen nutzen Sie das Busnetz für einen Ausflug zum zweiten Cluster. Eine Busfahrt bringt Sie zum malerischen Narrow Water Castle, wo Sie den Nachmittag mit der Erkundung des Geländes verbringen, bevor Sie bequem in die Stadt zurückkehren.",
+        "hu": "A tömegközlekedéssel Newry-t két klaszterben fedezheti fel. A délelőtt a gyalogosan bejárható városközponté. A központi buszpályaudvartól elsétál a városházához, a Bagenal-kastélyhoz és a lenyűgöző katedrálishoz. Ebéd után a buszhálózatot használja egy kiránduláshoz a második klaszterbe. Egy buszozás elviszi a festői Narrow Water kastélyhoz, ahol a délutánt a terület felfedezésével tölti, mielőtt kényelmesen visszatérne a városba.",
+        "ro": "Folosind transportul public, explorați Newry în două grupuri. Dimineața este dedicată centrului orașului, care poate fi explorat pe jos. De la autogara centrală, vă plimbați la primărie, la Castelul Bagenal și la impunătoarea catedrală. După prânz, folosiți rețeaua de autobuze pentru o excursie la al doilea grup de atracții. O călătorie cu autobuzul vă duce la pitorescul Castel Narrow Water, unde vă petreceți după-amiaza explorând zona înainte de a vă întoarce confortabil în oraș.",
+        "en": "Using public transport, you'll explore Newry in two clusters. The morning belongs to the walkable city centre. From the central bus station, you'll stroll to the Town Hall, Bagenal's Castle, and the imposing cathedral. After lunch, you'll use the bus network for a trip to the second cluster. A bus ride takes you to the scenic Narrow Water Castle, where you can spend the afternoon exploring the grounds before returning to the city with ease."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Scone mit Marmelade und Sahne",
+            "tip": "Ein leichter und leckerer Snack in einem der Cafés der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Scone lekvárral és tejszínnel",
+            "tip": "Könnyű és finom harapnivaló a város egyik kávézójában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Scone cu gem și frișcă",
+            "tip": "O gustare ușoară și delicioasă la una dintre cafenelele orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Scone with jam and cream",
+            "tip": "A light and delicious snack in one of the city's cafes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "St. Patrick's Friedhof",
+            "tip": "Ein historischer und ruhiger Ort zum Nachdenken.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang entlang des Clanrye River",
+            "tip": "Folgen Sie dem Fluss für eine friedliche Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Patrik temető",
+            "tip": "Történelmi és csendes hely az elmélkedésre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a Clanrye folyó mentén",
+            "tip": "Kövesse a folyót egy békés kikapcsolódásért.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul Sf. Patrick",
+            "tip": "Un loc istoric și liniștit pentru reflecție.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare de-a lungul râului Clanrye",
+            "tip": "Urmați râul pentru o pauză liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "St Patrick's Graveyard",
+            "tip": "A historic and quiet place for reflection.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk along the Clanrye River",
+            "tip": "Follow the river for a peaceful break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Newry Market",
+            "tip": "Prüfen Sie die Markttage für lokale Produkte und Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Newry piac",
+            "tip": "Ellenőrizze a piaci napokat a helyi termékekért és kézműves termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Newry",
+            "tip": "Verificați zilele de piață pentru produse și meșteșuguri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Newry Market",
+            "tip": "Check for market days for local produce and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für das beste Preis-Leistungs-Verhältnis.",
+          "Laden Sie die lokale Bus-App herunter, um Fahrpläne in Echtzeit zu erhalten."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a legjobb ár-érték arányért.",
+          "Töltse le a helyi buszos alkalmazást a valós idejű menetrendekért."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru cel mai bun raport calitate-preț.",
+          "Descărcați aplicația locală de autobuz pentru orare în timp real."
+        ],
+        "en": [
+          "Purchase a day-pass for the best value.",
+          "Download the local bus app for real-time schedules."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1417 @@
+{
+  "city_id": "finland-kauhava-cities-v2",
+  "anchor": {
+    "name": "Kauhava",
+    "coords": [
+      23.0553,
+      63.1008
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Denkmal des Messermachers",
+            "hu": "A Késkészítő Emlékműve",
+            "ro": "Monumentul Cuțitarului",
+            "en": "Monument of the Knifemaker"
+          },
+          "coords": [
+            23.056,
+            63.1012
+          ],
+          "category": "monuments",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Das perfekte Foto, um Ihren Tag in der „Stadt der Messer“ zu beginnen.",
+            "hu": "Tökéletes fotóhely a „kések városában” töltött nap indításához.",
+            "ro": "Fotografia perfectă pentru a începe ziua în „orașul cuțitelor”.",
+            "en": "The perfect photo to start your day in the 'city of knives'."
+          }
+        },
+        {
+          "name": {
+            "de": "Finnisches Messermuseum",
+            "hu": "Finn Késmúzeum",
+            "ro": "Muzeul Finlandez al Cuțitelor",
+            "en": "Finnish Knife Museum"
+          },
+          "coords": [
+            23.0545,
+            63.102
+          ],
+          "category": "museums",
+          "arrive_at": "09:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Handwerkskunst der traditionellen Puukko-Messer.",
+            "hu": "Csodálja meg a hagyományos Puukko kések kézműves kidolgozását.",
+            "ro": "Admirați măiestria cuțitelor tradiționale Puukko.",
+            "en": "Admire the craftsmanship of the traditional Puukko knives."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Kauhava",
+            "hu": "Kauhava temploma",
+            "ro": "Biserica din Kauhava",
+            "en": "Church of Kauhava"
+          },
+          "coords": [
+            23.058,
+            63.1035
+          ],
+          "category": "churches",
+          "arrive_at": "11:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beachten Sie die neugotische Architektur, die für die Region einzigartig ist.",
+            "hu": "Figyelje meg a régióra jellemző neogótikus építészetet.",
+            "ro": "Observați arhitectura neogotică, unică pentru regiune.",
+            "en": "Note the Neo-Gothic architecture, unique for the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einem lokalen Restaurant",
+            "hu": "Ebéd egy helyi étteremben",
+            "ro": "Prânz la un restaurant local",
+            "en": "Lunch at a local restaurant"
+          },
+          "coords": [
+            23.057,
+            63.101
+          ],
+          "category": "gastro",
+          "arrive_at": "12:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie eine herzhafte Lachssuppe, um sich für den Rest des Tages zu stärken.",
+            "hu": "Kóstoljon meg egy kiadós lazaclevest, hogy energiát gyűjtsön a nap hátralévő részére.",
+            "ro": "Încercați o supă copioasă de somon pentru a vă energiza pentru restul zilei.",
+            "en": "Try a hearty salmon soup to energize for the rest of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Jylhänkoski Stromschnellen",
+            "hu": "Jylhänkoski-zúgó",
+            "ro": "Cascadele Jylhänkoski",
+            "en": "Jylhänkoski Rapids"
+          },
+          "coords": [
+            23.03,
+            63.095
+          ],
+          "category": "natural features",
+          "arrive_at": "14:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 70,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang entlang des Flusses, um die Natur zu genießen.",
+            "hu": "Egy kellemes séta a folyó mentén a természet élvezetéért.",
+            "ro": "O plimbare frumoasă de-a lungul râului pentru a vă bucura de natură.",
+            "en": "A beautiful walk along the river to enjoy the nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Kauhava, der Stadt der Messer. Am Morgen erkunden Sie das Denkmal und das Museum, die dem berühmten Puukko gewidmet sind. Nach dem Mittagessen mit lokalen Spezialitäten führt Sie ein längerer Spaziergang zu den malerischen Stromschnellen von Jylhänkoski. Der Nachmittag ist der ruhigen Schönheit der finnischen Natur gewidmet. Schließen Sie den Tag mit einem Gefühl der Ruhe und einem tieferen Verständnis für das lokale Handwerk ab.",
+        "hu": "Kezdje a napot Kauhava szívében, a kések városában. A délelőttöt a híres Puukko késnek szentelt emlékmű és múzeum felfedezésével tölti. Egy helyi specialitásokat felvonultató ebéd után egy hosszabb séta vezet a festői Jylhänkoski-zúgóhoz. A délutánt a finn természet csendes szépségének szenteli. Zárja a napot a nyugalom érzésével és a helyi kézművesség mélyebb megértésével.",
+        "ro": "Începeți ziua în inima orașului Kauhava, orașul cuțitelor. Dimineața este dedicată explorării monumentului și muzeului dedicate faimosului Puukko. După un prânz cu specialități locale, o plimbare mai lungă vă va duce la pitoreștile cascade Jylhänkoski. După-amiaza este dedicată frumuseții liniștite a naturii finlandeze. Încheiați ziua cu un sentiment de pace și o înțelegere mai profundă a meșteșugului local.",
+        "en": "Start your day in the heart of Kauhava, the city of knives. The morning is for exploring the monument and museum dedicated to the famous Puukko. After a lunch of local specialities, a longer walk will take you to the scenic Jylhänkoski rapids. The afternoon is dedicated to the quiet beauty of Finnish nature. End the day with a sense of peace and a deeper appreciation for the local craft."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lohikeitto (Lachssuppe)",
+            "tip": "Eine cremige, herzhafte Suppe, perfekt für jedes Wetter."
+          },
+          {
+            "name": "Karjalanpiirakka (Karelische Piroggen)",
+            "tip": "Ein traditioneller finnischer Snack aus Roggenkruste mit Reisfüllung."
+          },
+          {
+            "name": "Leipäjuusto (Brotkäse)",
+            "tip": "Oft mit Moltebeermarmelade als Dessert serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lohikeitto (Lazacleves)",
+            "tip": "Krémes, kiadós leves, amely bármilyen időben tökéletes."
+          },
+          {
+            "name": "Karjalanpiirakka (Karéliai pirog)",
+            "tip": "Hagyományos finn snack rozskéreggel és rizstöltelékkel."
+          },
+          {
+            "name": "Leipäjuusto (Sajtkenyér)",
+            "tip": "Gyakran tőzegáfonya-lekvárral desszertként tálalják."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lohikeitto (Supă de somon)",
+            "tip": "O supă cremoasă și consistentă, perfectă pentru orice vreme."
+          },
+          {
+            "name": "Karjalanpiirakka (Plăcinte careliene)",
+            "tip": "O gustare tradițională finlandeză făcută din crustă de secară cu umplutură de orez."
+          },
+          {
+            "name": "Leipäjuusto (Brânză de pâine)",
+            "tip": "Adesea servită cu gem de mure ca desert."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lohikeitto (Salmon Soup)",
+            "tip": "A creamy, hearty soup perfect for any weather."
+          },
+          {
+            "name": "Karjalanpiirakka (Karelian Pies)",
+            "tip": "A traditional Finnish snack made from rye crust with a rice filling."
+          },
+          {
+            "name": "Leipäjuusto (Bread Cheese)",
+            "tip": "Often served with cloudberry jam as a dessert."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Lapuanjoki",
+            "tip": "Ein ruhiger Ort, um dem Rauschen des Wassers bei Jylhänkoski zuzuhören.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirchhof von Kauhava",
+            "tip": "Ein friedlicher Ort zum Nachdenken.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ein lokaler Waldweg",
+            "tip": "Atmen Sie die frische finnische Luft auf einem kurzen Spaziergang in den Wald.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lapuanjoki folyó partja",
+            "tip": "Csendes hely, ahol hallgathatja a víz csobogását a Jylhänkoski-zúgónál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kauhavai templomkert",
+            "tip": "Békés hely a elmélkedésre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Helyi erdei ösvény",
+            "tip": "Szívja be a friss finn levegőt egy rövid erdei séta során.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Lapuanjoki",
+            "tip": "Un loc liniștit pentru a asculta sunetul apei la cascadele Jylhänkoski.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea bisericii din Kauhava",
+            "tip": "Un loc pașnic pentru reflecție.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "O potecă locală prin pădure",
+            "tip": "Respirați aerul proaspăt finlandez într-o scurtă plimbare în pădure.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of Lapuanjoki River",
+            "tip": "A quiet spot to listen to the sound of the water at Jylhänkoski rapids.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kauhava churchyard",
+            "tip": "A peaceful place for reflection.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A local forest path",
+            "tip": "Breathe in the fresh Finnish air on a short walk into the woods.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kauhava Puukko",
+            "tip": "Kaufen Sie ein authentisches Messer direkt von der Quelle, ein wahres Symbol finnischer Handwerkskunst."
+          },
+          {
+            "name": "Lokale Handwerksprodukte",
+            "tip": "Suchen Sie nach Wollwaren oder Holzarbeiten in kleinen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kauhava Puukko",
+            "tip": "Vásároljon egy autentikus kést közvetlenül a forrásból, a finn kézművesség igazi szimbólumát."
+          },
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen gyapjúárut vagy fafaragásokat a kis üzletekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kauhava Puukko",
+            "tip": "Cumpărați un cuțit autentic direct de la sursă, un adevărat simbol al măiestriei finlandeze."
+          },
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați articole din lână sau sculpturi în lemn în magazinele mici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kauhava Puukko",
+            "tip": "Buy an authentic knife directly from the source, a true symbol of Finnish craftsmanship."
+          },
+          {
+            "name": "Local handicrafts",
+            "tip": "Look for woolen goods or wood carvings in small shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Wanderschuhe, besonders für den Spaziergang zu den Stromschnellen.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit.",
+          "Prüfen Sie die Öffnungszeiten des Messermuseums im Voraus.",
+          "Eine leichte Regenjacke ist in Finnland immer eine gute Idee, auch an sonnigen Tagen."
+        ],
+        "hu": [
+          "Viseljen kényelmes túracipőt, különösen a zúgókhoz vezető sétához.",
+          "Hozzon magával újratölthető vizes palackot.",
+          "Előre ellenőrizze a Késmúzeum nyitvatartási idejét.",
+          "Egy könnyű esőkabát mindig jó ötlet Finnországban, még napos napokon is."
+        ],
+        "ro": [
+          "Purtați pantofi de mers confortabili, mai ales pentru plimbarea până la cascade.",
+          "Aduceți o sticlă de apă reutilizabilă.",
+          "Verificați în avans programul de funcționare al Muzeului Cuțitelor.",
+          "O geacă de ploaie ușoară este întotdeauna o idee bună în Finlanda, chiar și în zilele însorite."
+        ],
+        "en": [
+          "Wear comfortable walking shoes, especially for the walk to the rapids.",
+          "Bring a reusable water bottle.",
+          "Check the opening hours of the Knife Museum in advance.",
+          "A light rain jacket is always a good idea in Finland, even on sunny days."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 15,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Denkmal des Messermachers",
+            "hu": "A Késkészítő Emlékműve",
+            "ro": "Monumentul Cuțitarului",
+            "en": "Monument of the Knifemaker"
+          },
+          "coords": [
+            23.056,
+            63.1012
+          ],
+          "category": "monuments",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein schneller Stopp, um die lokale Identität zu ehren, bevor Sie in die Pedale treten.",
+            "hu": "Egy gyors megálló a helyi identitás tiszteletére, mielőtt nyeregbe pattan.",
+            "ro": "O oprire rapidă pentru a onora identitatea locală înainte de a începe să pedalați.",
+            "en": "A quick stop to honor the local identity before you start pedaling."
+          }
+        },
+        {
+          "name": {
+            "de": "Finnisches Messermuseum",
+            "hu": "Finn Késmúzeum",
+            "ro": "Muzeul Finlandez al Cuțitelor",
+            "en": "Finnish Knife Museum"
+          },
+          "coords": [
+            23.0545,
+            63.102
+          ],
+          "category": "museums",
+          "arrive_at": "09:27",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad draußen und tauchen Sie ein in die Geschichte des Puukko.",
+            "hu": "Parkolja le a biciklit kint, és merüljön el a Puukko történetében.",
+            "ro": "Parcați bicicleta afară și scufundați-vă în istoria Puukko.",
+            "en": "Park your bike outside and dive into the history of the Puukko."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Kauhava",
+            "hu": "Kauhava temploma",
+            "ro": "Biserica din Kauhava",
+            "en": "Church of Kauhava"
+          },
+          "coords": [
+            23.058,
+            63.1035
+          ],
+          "category": "churches",
+          "arrive_at": "11:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die Holzkirche ist ein schöner Kontrast zur umliegenden Landschaft.",
+            "hu": "A fatemplom gyönyörű kontrasztot alkot a környező tájjal.",
+            "ro": "Biserica din lemn contrastează frumos cu peisajul înconjurător.",
+            "en": "The wooden church is a beautiful contrast to the surrounding landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Jugendvereinshaus von Kauhava",
+            "hu": "Kauhavai Ifjúsági Egyesület Háza",
+            "ro": "Casa Asociației de Tineret din Kauhava",
+            "en": "Youth Association House of Kauhava"
+          },
+          "coords": [
+            23.065,
+            63.108
+          ],
+          "category": "cultural centres",
+          "arrive_at": "11:36",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Schauen Sie, ob lokale Veranstaltungen stattfinden – ein Zentrum der Gemeinschaft.",
+            "hu": "Nézze meg, hátha tartanak valamilyen helyi eseményt – ez a közösség központja.",
+            "ro": "Verificați dacă au loc evenimente locale – un centru al comunității.",
+            "en": "Check if there are any local events happening – a hub of the community."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zu den Jylhänkoski Stromschnellen",
+            "hu": "Kerékpárút a Jylhänkoski-zúgóhoz",
+            "ro": "Plimbare cu bicicleta la Cascadele Jylhänkoski",
+            "en": "Ride to Jylhänkoski Rapids"
+          },
+          "coords": [
+            23.03,
+            63.095
+          ],
+          "category": "natural features",
+          "arrive_at": "12:51",
+          "stay_min": 90,
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 9.2,
+          "tip_5lang": {
+            "de": "Genießen Sie ein Picknick am Flussufer. Die Radtour dorthin ist erfrischend.",
+            "hu": "Piknikezzen a folyóparton. A bicikliút odáig felüdítő.",
+            "ro": "Bucurați-vă de un picnic pe malul râului. Plimbarea cu bicicleta până acolo este revigorantă.",
+            "en": "Enjoy a picnic by the riverbank. The bike ride there is refreshing."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt ins Zentrum & Kaffee",
+            "hu": "Vissza a központba és egy kávé",
+            "ro": "Înapoi în centru și o cafea",
+            "en": "Ride back to center & Coffee"
+          },
+          "coords": [
+            23.057,
+            63.101
+          ],
+          "category": "gastro",
+          "arrive_at": "15:26",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 4,
+          "tip_5lang": {
+            "de": "Belohnen Sie sich mit einem Kaffee und einem Stück Pullapitko (süßes Brot).",
+            "hu": "Jutalmazza meg magát egy kávéval és egy szelet Pullapitkóval (édes kenyér).",
+            "ro": "Recompensați-vă cu o cafea și o bucată de Pullapitko (pâine dulce).",
+            "en": "Reward yourself with a coffee and a piece of Pullapitko (sweet bread)."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Fahrrad für einen aktiven Tag in Kauhava. Der Morgen beginnt mit Kultur: dem Messermacher-Denkmal und dem Museum. Sie radeln weiter zur historischen Kirche und dem lebendigen Jugendzentrum. Am Mittag führt Sie eine längere, malerische Fahrt zu den Jylhänkoski-Stromschnellen, ideal für eine Mittagspause in der Natur. Der Nachmittag bringt Sie zurück ins Stadtzentrum für eine wohlverdiente Kaffeepause. Es ist ein Tag, der Kultur, Natur und leichte körperliche Betätigung perfekt kombiniert.",
+        "hu": "Pattanjon biciklire egy aktív kauhavai napért. A reggel kultúrával indul: a késkészítő emlékművel és a múzeummal. Tovább teker a történelmi templomhoz és az élénk ifjúsági házhoz. Délben egy hosszabb, festői út vezet a Jylhänkoski-zúgóhoz, amely ideális egy ebédszünethez a természetben. Délután visszatér a városközpontba egy jól megérdemelt kávészünetre. Ez a nap tökéletesen ötvözi a kultúrát, a természetet és a könnyed testmozgást.",
+        "ro": "Urcați-vă pe bicicletă pentru o zi activă în Kauhava. Dimineața începe cu cultură: monumentul cuțitarului și muzeul. Pedalați mai departe spre biserica istorică și vibranta casă de tineret. La prânz, o plimbare mai lungă și pitorească vă duce la cascadele Jylhänkoski, ideale pentru o pauză de masă în natură. După-amiaza vă aduce înapoi în centrul orașului pentru o pauză de cafea binemeritată. Este o zi care combină perfect cultura, natura și exercițiile fizice ușoare.",
+        "en": "Hop on your bike for an active day in Kauhava. The morning starts with culture: the knifemaker monument and the museum. You'll pedal onward to the historic church and the vibrant youth association house. At midday, a longer, scenic ride takes you to the Jylhänkoski rapids, ideal for a lunch break in nature. The afternoon brings you back to the town center for a well-deserved coffee break. It's a day that perfectly combines culture, nature, and light exercise."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lohikeitto (Lachssuppe)",
+            "tip": "Eine cremige, herzhafte Suppe, perfekt für jedes Wetter."
+          },
+          {
+            "name": "Karjalanpiirakka (Karelische Piroggen)",
+            "tip": "Ein traditioneller finnischer Snack aus Roggenkruste mit Reisfüllung."
+          },
+          {
+            "name": "Pullapitko",
+            "tip": "Ein süßes, geflochtenes Kardamom-Brot, köstlich zum Kaffee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lohikeitto (Lazacleves)",
+            "tip": "Krémes, kiadós leves, amely bármilyen időben tökéletes."
+          },
+          {
+            "name": "Karjalanpiirakka (Karéliai pirog)",
+            "tip": "Hagyományos finn snack rozskéreggel és rizstöltelékkel."
+          },
+          {
+            "name": "Pullapitko",
+            "tip": "Édes, fonott kardamomos kenyér, finom kávé mellé."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lohikeitto (Supă de somon)",
+            "tip": "O supă cremoasă și consistentă, perfectă pentru orice vreme."
+          },
+          {
+            "name": "Karjalanpiirakka (Plăcinte careliene)",
+            "tip": "O gustare tradițională finlandeză făcută din crustă de secară cu umplutură de orez."
+          },
+          {
+            "name": "Pullapitko",
+            "tip": "O pâine dulce, împletită, cu cardamom, delicioasă cu cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lohikeitto (Salmon Soup)",
+            "tip": "A creamy, hearty soup perfect for any weather."
+          },
+          {
+            "name": "Karjalanpiirakka (Karelian Pies)",
+            "tip": "A traditional Finnish snack made from rye crust with a rice filling."
+          },
+          {
+            "name": "Pullapitko",
+            "tip": "A sweet, braided cardamom bread, delicious with coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jylhänkoski Stromschnellen",
+            "tip": "Der perfekte Ort für eine ruhige Pause nach einer langen Radtour.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Radweg entlang des Flusses",
+            "tip": "Genießen Sie die Stille, während Sie am Wasser entlang radeln.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirchhof von Alahärmä",
+            "tip": "Ein Abstecher für einen Moment der Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jylhänkoski-zúgó",
+            "tip": "Tökéletes hely egy csendes pihenőre egy hosszú biciklizés után.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Folyó menti kerékpárút",
+            "tip": "Élvezze a csendet, miközben a víz mellett teker.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Alahärmäi templomkert",
+            "tip": "Egy kitérő egy pillanatnyi békéért.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cascadele Jylhänkoski",
+            "tip": "Locul perfect pentru o pauză liniștită după o plimbare lungă cu bicicleta.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pista de biciclete de-a lungul râului",
+            "tip": "Bucurați-vă de liniște în timp ce pedalați pe lângă apă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea bisericii din Alahärmä",
+            "tip": "Un ocol pentru un moment de pace.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jylhänkoski Rapids",
+            "tip": "The perfect spot for a quiet break after a long bike ride.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Riverside bike path",
+            "tip": "Enjoy the silence as you pedal alongside the water.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Alahärmä churchyard",
+            "tip": "A detour for a moment of peace.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kauhava Puukko",
+            "tip": "Kaufen Sie ein authentisches Messer direkt von der Quelle, ein wahres Symbol finnischer Handwerkskunst."
+          },
+          {
+            "name": "Lokale Lebensmittel",
+            "tip": "Besuchen Sie einen lokalen Markt für Beeren, Pilze oder geräucherten Fisch, je nach Saison."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kauhava Puukko",
+            "tip": "Vásároljon egy autentikus kést közvetlenül a forrásból, a finn kézművesség igazi szimbólumát."
+          },
+          {
+            "name": "Helyi élelmiszerek",
+            "tip": "Látogasson el egy helyi piacra bogyókért, gombákért vagy füstölt halért, szezontól függően."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kauhava Puukko",
+            "tip": "Cumpărați un cuțit autentic direct de la sursă, un adevărat simbol al măiestriei finlandeze."
+          },
+          {
+            "name": "Produse alimentare locale",
+            "tip": "Vizitați o piață locală pentru fructe de pădure, ciuperci sau pește afumat, în funcție de sezon."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kauhava Puukko",
+            "tip": "Buy an authentic knife directly from the source, a true symbol of Finnish craftsmanship."
+          },
+          {
+            "name": "Local foods",
+            "tip": "Visit a local market for berries, mushrooms or smoked fish, depending on the season."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Nehmen Sie einen Helm und ein Fahrradschloss mit.",
+          "Planen Sie zusätzliche Zeit für unvorhergesehene Stopps ein, um die Landschaft zu genießen.",
+          "Eine Fahrradkarte der Region kann nützlich sein, ist aber nicht unbedingt erforderlich."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket és a gumikat.",
+          "Hozzon magával sisakot és kerékpárzárat.",
+          "Tervezzen plusz időt a váratlan megállókra, hogy élvezhesse a tájat.",
+          "Egy kerékpáros térkép a régióról hasznos lehet, de nem elengedhetetlen."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele și anvelopele.",
+          "Aduceți o cască și un lacăt pentru bicicletă.",
+          "Planificați timp suplimentar pentru opriri neprevăzute pentru a vă bucura de peisaj.",
+          "O hartă a traseelor de ciclism din zonă poate fi utilă, dar nu esențială."
+        ],
+        "en": [
+          "Check your bike before you leave, especially brakes and tires.",
+          "Bring a helmet and a bike lock.",
+          "Plan for extra time for impromptu stops to enjoy the scenery.",
+          "A cycling map of the area can be useful, but is not essential."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 55.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kauhava Zentrum Cluster: Finnisches Messermuseum",
+            "hu": "Kauhava Központ Klaszter: Finn Késmúzeum",
+            "ro": "Cluster Centru Kauhava: Muzeul Finlandez al Cuțitelor",
+            "en": "Kauhava Center Cluster: Finnish Knife Museum"
+          },
+          "coords": [
+            23.0545,
+            63.102
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und beginnen Sie Ihren Rundgang durch das Zentrum von Kauhava.",
+            "hu": "Parkoljon itt, és kezdje meg a belvárosi sétát.",
+            "ro": "Parcați aici și începeți turul pe jos al centrului orașului Kauhava.",
+            "en": "Park here and start your walking tour of Kauhava's center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kauhava Zentrum Cluster: Denkmal des Messermachers",
+            "hu": "Kauhava Központ Klaszter: A Késkészítő Emlékműve",
+            "ro": "Cluster Centru Kauhava: Monumentul Cuțitarului",
+            "en": "Kauhava Center Cluster: Monument of the Knifemaker"
+          },
+          "coords": [
+            23.056,
+            63.1012
+          ],
+          "category": "monuments",
+          "arrive_at": "10:32",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum, um die lokale Handwerkskunst zu würdigen.",
+            "hu": "Rövid séta a múzeumtól a helyi kézművesség tiszteletére.",
+            "ro": "O scurtă plimbare de la muzeu pentru a aprecia meșteșugul local.",
+            "en": "A short walk from the museum to appreciate the local craft."
+          }
+        },
+        {
+          "name": {
+            "de": "Kauhava Zentrum Cluster: Kirche von Kauhava",
+            "hu": "Kauhava Központ Klaszter: Kauhava temploma",
+            "ro": "Cluster Centru Kauhava: Biserica din Kauhava",
+            "en": "Kauhava Center Cluster: Church of Kauhava"
+          },
+          "coords": [
+            23.058,
+            63.1035
+          ],
+          "category": "churches",
+          "arrive_at": "10:52",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der letzte Halt in diesem Cluster, bewundern Sie die Holzarbeiten im Inneren.",
+            "hu": "Az utolsó megálló ebben a klaszterben, csodálja meg a belső famunkákat.",
+            "ro": "Ultima oprire în acest cluster, admirați tâmplăria interioară.",
+            "en": "The final stop in this cluster, admire the woodwork inside."
+          }
+        },
+        {
+          "name": {
+            "de": "PowerPark Cluster: Ankunft und Mittagessen",
+            "hu": "PowerPark Klaszter: Érkezés és ebéd",
+            "ro": "Cluster PowerPark: Sosire și prânz",
+            "en": "PowerPark Cluster: Arrival and Lunch"
+          },
+          "coords": [
+            22.86,
+            63.225
+          ],
+          "category": "parks",
+          "arrive_at": "12:02",
+          "stay_min": 240,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 25,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Finnlands bester Freizeitpark! Nehmen Sie sich Zeit für die Fahrgeschäfte und die Atmosphäre.",
+            "hu": "Finnország legjobb vidámparkja! Szánjon időt a játékokra és a hangulatra.",
+            "ro": "Cel mai bun parc de distracții din Finlanda! Acordați-vă timp pentru atracții și atmosferă.",
+            "en": "Finland's best amusement park! Take your time for the rides and atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "PowerPark Cluster: Kirche von Alahärmä",
+            "hu": "PowerPark Klaszter: Alahärmä temploma",
+            "ro": "Cluster PowerPark: Biserica din Alahärmä",
+            "en": "PowerPark Cluster: Church of Alahärmä"
+          },
+          "coords": [
+            22.85,
+            63.24
+          ],
+          "category": "churches",
+          "arrive_at": "16:07",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Park für einen Moment der Ruhe und des Friedens.",
+            "hu": "Rövid séta a parkból egy csendes, békés pillanatért.",
+            "ro": "O scurtă plimbare de la parc pentru un moment de calm și pace.",
+            "en": "A short walk from the park for a moment of calm and peace."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Ylihärmä",
+            "hu": "Ylihärmä temploma",
+            "ro": "Biserica din Ylihärmä",
+            "en": "Church of Ylihärmä"
+          },
+          "coords": [
+            22.79,
+            63.14
+          ],
+          "category": "churches",
+          "arrive_at": "17:02",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 18,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Eine weitere wunderschöne Landkirche, die die Reise wert ist.",
+            "hu": "Egy másik gyönyörű vidéki templom, amely megéri az utat.",
+            "ro": "O altă biserică rurală frumoasă care merită călătoria.",
+            "en": "Another beautiful country church that's worth the drive."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in Kauhava",
+            "hu": "Vacsora Kauhavában",
+            "ro": "Cină în Kauhava",
+            "en": "Dinner in Kauhava"
+          },
+          "coords": [
+            23.057,
+            63.101
+          ],
+          "category": "gastro",
+          "arrive_at": "17:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 10,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag bei einem herzhaften finnischen Abendessen ausklingen.",
+            "hu": "Zárja a napot egy kiadós finn vacsorával.",
+            "ro": "Încheiați ziua cu o cină finlandeză copioasă.",
+            "en": "End the day with a hearty Finnish dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie die Vielfalt von Kauhava und Umgebung entdecken. Am Morgen erkunden Sie das kulturelle Herz von Kauhava zu Fuß: Museum, Denkmal und Kirche. Danach fahren Sie zum PowerPark, dem größten Vergnügungspark Finnlands, wo Sie den größten Teil des Tages verbringen. Ein kurzer Spaziergang führt Sie zur beeindruckenden Kirche von Alahärmä. Am späten Nachmittag machen Sie einen Abstecher zur Kirche von Ylihärmä, bevor Sie für ein wohlverdientes Abendessen ins Zentrum von Kauhava zurückkehren. Dieser Tag ist eine Mischung aus Kultur, Adrenalin und ländlichem Charme.",
+        "hu": "Az autó lehetővé teszi, hogy felfedezze Kauhava és környéke sokszínűségét. Délelőtt gyalogosan ismeri meg Kauhava kulturális szívét: múzeum, emlékmű és templom. Ezután Finnország legnagyobb vidámparkjába, a PowerParkba hajt, ahol a nap nagy részét tölti. Egy rövid séta elvezeti az impozáns Alahärmä-i templomhoz. Késő délután kitérőt tesz az Ylihärmä-i templomhoz, mielőtt visszatérne Kauhava központjába egy jól megérdemelt vacsorára. Ez a nap a kultúra, az adrenalin és a vidéki báj keveréke.",
+        "ro": "Mașina vă permite să descoperiți diversitatea din Kauhava și împrejurimile sale. Dimineața, explorați pe jos inima culturală a orașului Kauhava: muzeu, monument și biserică. Apoi, conduceți la PowerPark, cel mai mare parc de distracții din Finlanda, unde veți petrece cea mai mare parte a zilei. O scurtă plimbare vă va duce la impresionanta biserică din Alahärmä. Spre sfârșitul după-amiezii, faceți un ocol la biserica din Ylihärmä înainte de a vă întoarce în centrul orașului Kauhava pentru o cină binemeritată. Această zi este un amestec de cultură, adrenalină și farmec rural.",
+        "en": "The car allows you to discover the diversity of Kauhava and its surroundings. In the morning, explore Kauhava's cultural heart on foot: museum, monument, and church. Then, you'll drive to PowerPark, Finland's largest amusement park, where you'll spend most of the day. A short walk will take you to the impressive church of Alahärmä. In the late afternoon, you'll make a detour to the church of Ylihärmä before returning to Kauhava's center for a well-deserved dinner. This day is a mix of culture, adrenaline, and rural charm."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rentiergeschnetzeltes (Poronkäristys)",
+            "tip": "Ein traditionelles Gericht aus Lappland, oft mit Kartoffelpüree und Preiselbeeren serviert."
+          },
+          {
+            "name": "Gegrillter Lachs",
+            "tip": "Frisch und köstlich, ein Muss in Finnland."
+          },
+          {
+            "name": "Korvapuusti (Zimtschnecken)",
+            "tip": "Eine süße Leckerei, die perfekt zu einer Tasse Kaffee passt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rénszarvaspörkölt (Poronkäristys)",
+            "tip": "Hagyományos lappföldi étel, gyakran krumplipürével és vörösáfonyával tálalva."
+          },
+          {
+            "name": "Grillezett lazac",
+            "tip": "Friss és ízletes, kihagyhatatlan Finnországban."
+          },
+          {
+            "name": "Korvapuusti (Fahéjas csiga)",
+            "tip": "Édes finomság, amely tökéletesen illik egy csésze kávéhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tocăniță de ren (Poronkäristys)",
+            "tip": "Un fel de mâncare tradițional din Laponia, adesea servit cu piure de cartofi și merișoare."
+          },
+          {
+            "name": "Somon la grătar",
+            "tip": "Proaspăt și delicios, un preparat obligatoriu în Finlanda."
+          },
+          {
+            "name": "Korvapuusti (Rulouri cu scorțișoară)",
+            "tip": "Un deliciu dulce care se potrivește perfect cu o ceașcă de cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sautéed Reindeer (Poronkäristys)",
+            "tip": "A traditional dish from Lapland, often served with mashed potatoes and lingonberries."
+          },
+          {
+            "name": "Grilled Salmon",
+            "tip": "Fresh and delicious, a must-try in Finland."
+          },
+          {
+            "name": "Korvapuusti (Cinnamon Buns)",
+            "tip": "A sweet treat that goes perfectly with a cup of coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jylhänkoski Stromschnellen",
+            "tip": "Auch mit dem Auto erreichbar für einen friedlichen Moment in der Natur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Die Landschaft zwischen den Dörfern",
+            "tip": "Genießen Sie die ruhige Fahrt durch die finnische Landschaft.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang über einem Feld",
+            "tip": "Halten Sie an einem sicheren Ort an, um die Farben des finnischen Sonnenuntergangs zu beobachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jylhänkoski-zúgó",
+            "tip": "Autóval is megközelíthető egy békés természeti pillanatért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A falvak közötti táj",
+            "tip": "Élvezze a csendes autózást a finn vidéken.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente egy mező felett",
+            "tip": "Álljon meg egy biztonságos helyen, hogy megcsodálhassa a finn naplemente színeit.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cascadele Jylhänkoski",
+            "tip": "Accesibil și cu mașina pentru un moment de pace în natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Peisajul dintre sate",
+            "tip": "Bucurați-vă de condusul liniștit prin peisajul rural finlandez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus de soare peste un câmp",
+            "tip": "Opriți într-un loc sigur pentru a privi culorile apusului finlandez.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jylhänkoski Rapids",
+            "tip": "Also reachable by car for a peaceful moment in nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The countryside between villages",
+            "tip": "Enjoy the quiet drive through the Finnish rural landscape.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset over a field",
+            "tip": "Pull over in a safe spot to watch the colors of the Finnish sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "PowerPark Souvenirladen",
+            "tip": "Ein Andenken an einen aufregenden Tag."
+          },
+          {
+            "name": "Kauhava Puukko",
+            "tip": "Vergessen Sie nicht, das ultimative Souvenir aus Kauhava zu kaufen."
+          },
+          {
+            "name": "Hofläden",
+            "tip": "Halten Sie auf dem Land Ausschau nach Schildern, die frische Produkte verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "PowerPark ajándékbolt",
+            "tip": "Emlék egy izgalmas napról."
+          },
+          {
+            "name": "Kauhava Puukko",
+            "tip": "Ne felejtse el megvenni a tökéletes kauhavai szuvenírt."
+          },
+          {
+            "name": "Tanyasi boltok",
+            "tip": "Vidéken figyelje a friss termékeket árusító táblákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de suveniruri PowerPark",
+            "tip": "O amintire a unei zile pline de emoții."
+          },
+          {
+            "name": "Kauhava Puukko",
+            "tip": "Nu uitați să cumpărați suvenirul suprem din Kauhava."
+          },
+          {
+            "name": "Magazinele fermelor",
+            "tip": "Fiți atenți la indicatoarele care vând produse proaspete în mediul rural."
+          }
+        ],
+        "en": [
+          {
+            "name": "PowerPark Souvenir Shop",
+            "tip": "A memento from an exciting day."
+          },
+          {
+            "name": "Kauhava Puukko",
+            "tip": "Don't forget to buy the ultimate Kauhava souvenir."
+          },
+          {
+            "name": "Farm shops",
+            "tip": "Look for signs selling fresh produce in the countryside."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tanken Sie voll, bevor Sie losfahren, besonders wenn Sie planen, viel auf dem Land zu fahren.",
+          "Achten Sie auf Geschwindigkeitsbegrenzungen, die in Finnland streng durchgesetzt werden.",
+          "Parken Sie nur auf ausgewiesenen Flächen.",
+          "Eine Navigations-App ist unerlässlich, um sich zwischen den verschiedenen Standorten zurechtzufinden."
+        ],
+        "hu": [
+          "Indulás előtt tankoljon tele, különösen, ha sokat tervez vidéken autózni.",
+          "Tartsa be a sebességhatárokat, amelyeket Finnországban szigorúan betartatnak.",
+          "Csak a kijelölt helyeken parkoljon.",
+          "Egy navigációs alkalmazás elengedhetetlen a különböző helyszínek közötti tájékozódáshoz."
+        ],
+        "ro": [
+          "Alimentați rezervorul înainte de a porni, mai ales dacă intenționați să conduceți mult în mediul rural.",
+          "Respectați limitele de viteză, care sunt strict aplicate în Finlanda.",
+          "Parcați numai în zonele desemnate.",
+          "O aplicație de navigație este esențială pentru a vă deplasa între diferitele locații."
+        ],
+        "en": [
+          "Fill up your gas tank before you head out, especially if you plan on driving a lot in the countryside.",
+          "Be mindful of speed limits, which are strictly enforced in Finland.",
+          "Park only in designated areas.",
+          "A navigation app is essential to find your way between the different sites."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 30.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kauhava Zentrum Cluster: Ankunft und Denkmal",
+            "hu": "Kauhava Központ Klaszter: Érkezés és emlékmű",
+            "ro": "Cluster Centru Kauhava: Sosire și Monument",
+            "en": "Kauhava Center Cluster: Arrival & Monument"
+          },
+          "coords": [
+            23.056,
+            63.1012
+          ],
+          "category": "monuments",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie an der zentralen Bushaltestelle aus und beginnen Sie Ihre Erkundung.",
+            "hu": "Szálljon le a központi buszmegállónál, és kezdje meg a felfedezést.",
+            "ro": "Coborâți la stația centrală de autobuz și începeți explorarea.",
+            "en": "Get off at the central bus stop and begin your exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Kauhava Zentrum Cluster: Finnisches Messermuseum",
+            "hu": "Kauhava Központ Klaszter: Finn Késmúzeum",
+            "ro": "Cluster Centru Kauhava: Muzeul Finlandez al Cuțitelor",
+            "en": "Kauhava Center Cluster: Finnish Knife Museum"
+          },
+          "coords": [
+            23.0545,
+            63.102
+          ],
+          "category": "museums",
+          "arrive_at": "09:27",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss, um die lokale Geschichte zu verstehen.",
+            "hu": "Kötelező program a helyi történelem megértéséhez.",
+            "ro": "O vizită obligatorie pentru a înțelege istoria locală.",
+            "en": "A must-see to understand the local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Kauhava Zentrum Cluster: Kirche von Kauhava",
+            "hu": "Kauhava Központ Klaszter: Kauhava temploma",
+            "ro": "Cluster Centru Kauhava: Biserica din Kauhava",
+            "en": "Kauhava Center Cluster: Church of Kauhava"
+          },
+          "coords": [
+            23.058,
+            63.1035
+          ],
+          "category": "churches",
+          "arrive_at": "11:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihren Rundgang durch das Zentrum mit dieser schönen Kirche ab.",
+            "hu": "Zárja a központi sétát ezzel a gyönyörű templommal.",
+            "ro": "Încheiați turul centrului cu această biserică frumoasă.",
+            "en": "Conclude your tour of the center with this beautiful church."
+          }
+        },
+        {
+          "name": {
+            "de": "PowerPark Vergnügungspark",
+            "hu": "PowerPark vidámpark",
+            "ro": "Parcul de distracții PowerPark",
+            "en": "PowerPark Amusement Park"
+          },
+          "coords": [
+            22.86,
+            63.225
+          ],
+          "category": "parks",
+          "arrive_at": "12:50",
+          "stay_min": 240,
+          "hop_from_prev_min": 80,
+          "hop_from_prev_km": 28,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus nach Alahärmä. Der Park hat eine eigene Haltestelle. Verbringen Sie hier den Nachmittag.",
+            "hu": "Vegye az Alahärmä felé tartó buszt. A parknak saját megállója van. Töltse itt a délutánt.",
+            "ro": "Luați autobuzul spre Alahärmä. Parcul are propria stație. Petreceți după-amiaza aici.",
+            "en": "Take the bus to Alahärmä. The park has its own stop. Spend the afternoon here."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt ins Zentrum & Abendessen",
+            "hu": "Vissza a központba és vacsora",
+            "ro": "Întoarcere în centru și cină",
+            "en": "Return to Center & Dinner"
+          },
+          "coords": [
+            23.057,
+            63.101
+          ],
+          "category": "gastro",
+          "arrive_at": "17:10",
+          "stay_min": 70,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nach einem aufregenden Tag kehren Sie zum Abendessen nach Kauhava zurück.",
+            "hu": "Egy izgalmas nap után térjen vissza Kauhavába vacsorázni.",
+            "ro": "După o zi plină de emoții, întoarceți-vă în Kauhava pentru cină.",
+            "en": "After an exciting day, return to Kauhava for dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auch ohne Auto können Sie die Highlights von Kauhava erleben. Beginnen Sie Ihren Tag zu Fuß im Zentrum und erkunden Sie die Sehenswürdigkeiten rund um das Messererbe. Am Mittag bringt Sie ein lokaler Bus zum aufregenden PowerPark. Verbringen Sie einen langen Nachmittag mit den Attraktionen und der lebhaften Atmosphäre. Am Abend bringt Sie der Bus zurück ins Zentrum von Kauhava, wo Sie den Tag bei einem gemütlichen Abendessen ausklingen lassen können. Dieser Plan zeigt, wie man mit öffentlichen Verkehrsmitteln einen Tag voller Kultur und Spaß gestalten kann.",
+        "hu": "Autó nélkül is megtapasztalhatja Kauhava legjavát. Kezdje a napot gyalog a központban, felfedezve a késkészítő örökség körüli látnivalókat. Délben egy helyi busz elviszi az izgalmas PowerParkba. Töltsön egy hosszú délutánt a látnivalókkal és az élénk hangulattal. Este a busz visszaviszi Kauhava központjába, ahol egy kellemes vacsorával zárhatja a napot. Ez a terv bemutatja, hogyan lehet a tömegközlekedést kihasználva egy kultúrával és szórakozással teli napot eltölteni.",
+        "ro": "Chiar și fără mașină, puteți experimenta cele mai importante atracții din Kauhava. Începeți ziua pe jos în centru, explorând obiectivele turistice din jurul patrimoniului cuțitelor. La prânz, un autobuz local vă va duce la palpitantul PowerPark. Petreceți o după-amiază lungă bucurându-vă de atracții și de atmosfera vibrantă. Seara, autobuzul vă va aduce înapoi în centrul orașului Kauhava, unde puteți încheia ziua cu o cină relaxantă. Acest plan arată cum puteți folosi transportul public pentru o zi plină de cultură și distracție.",
+        "en": "Even without a car, you can experience the highlights of Kauhava. Start your day on foot in the center, exploring the sights around the knife-making heritage. At midday, a local bus will take you to the exciting PowerPark. Spend a long afternoon enjoying the rides and the vibrant atmosphere. In the evening, the bus will bring you back to the center of Kauhava, where you can end the day with a relaxing dinner. This plan shows how to use public transport for a day full of culture and fun."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lohikeitto (Lachssuppe)",
+            "tip": "Eine wärmende Mahlzeit nach einem langen Tag."
+          },
+          {
+            "name": "Makkara (Wurst)",
+            "tip": "Ein schneller und beliebter Snack, oft auf Märkten oder bei Veranstaltungen erhältlich."
+          },
+          {
+            "name": "Beerenkuchen",
+            "tip": "Genießen Sie einen Kuchen mit frisch gepflückten finnischen Beeren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lohikeitto (Lazacleves)",
+            "tip": "Melegítő étel egy hosszú nap után."
+          },
+          {
+            "name": "Makkara (Kolbász)",
+            "tip": "Gyors és népszerű snack, gyakran kapható piacokon vagy rendezvényeken."
+          },
+          {
+            "name": "Bogyós pite",
+            "tip": "Élvezzen egy pitét frissen szedett finn bogyókból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lohikeitto (Supă de somon)",
+            "tip": "O masă caldă după o zi lungă."
+          },
+          {
+            "name": "Makkara (Cârnat)",
+            "tip": "O gustare rapidă și populară, adesea disponibilă la piețe sau evenimente."
+          },
+          {
+            "name": "Tartă cu fructe de pădure",
+            "tip": "Bucurați-vă de o tartă făcută cu fructe de pădure finlandeze proaspăt culese."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lohikeitto (Salmon Soup)",
+            "tip": "A warming meal after a long day."
+          },
+          {
+            "name": "Makkara (Sausage)",
+            "tip": "A quick and popular snack, often available at markets or events."
+          },
+          {
+            "name": "Berry Pie",
+            "tip": "Enjoy a pie made with freshly picked Finnish berries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fensterplatz im Bus",
+            "tip": "Beobachten Sie die vorbeiziehende Landschaft auf dem Weg zum PowerPark.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirchhof von Kauhava",
+            "tip": "Ein ruhiger Ort, bevor der Trubel beginnt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Eine ruhige Ecke im PowerPark",
+            "tip": "Suchen Sie sich einen Platz am Rande des Parks, um dem Lärm für eine Weile zu entfliehen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ablakhely a buszon",
+            "tip": "Nézze az elsuhanó tájat a PowerPark felé vezető úton.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kauhavai templomkert",
+            "tip": "Csendes hely, mielőtt elkezdődik a nyüzsgés.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Egy csendes sarok a PowerParkban",
+            "tip": "Keressen egy helyet a park szélén, hogy egy időre elmeneküljön a zaj elől.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Loc la fereastră în autobuz",
+            "tip": "Priviți peisajul care trece în drum spre PowerPark.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea bisericii din Kauhava",
+            "tip": "Un loc liniștit înainte de a începe agitația.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Un colț liniștit în PowerPark",
+            "tip": "Găsiți un loc la marginea parcului pentru a scăpa de zgomot pentru o vreme.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Window seat on the bus",
+            "tip": "Watch the landscape go by on your way to PowerPark.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kauhava churchyard",
+            "tip": "A quiet place before the hustle and bustle begins.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A quiet corner in PowerPark",
+            "tip": "Find a spot on the edge of the park to escape the noise for a while.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kauhava Puukko",
+            "tip": "Das perfekte Souvenir, erhältlich in Geschäften im Stadtzentrum."
+          },
+          {
+            "name": "Lokales Handwerk",
+            "tip": "Halten Sie Ausschau nach kleinen Läden in der Nähe der Bushaltestelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kauhava Puukko",
+            "tip": "A tökéletes szuvenír, kapható a belvárosi üzletekben."
+          },
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen kis üzleteket a buszmegálló közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kauhava Puukko",
+            "tip": "Suvenirul perfect, disponibil în magazinele din centrul orașului."
+          },
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați magazine mici lângă stația de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kauhava Puukko",
+            "tip": "The perfect souvenir, available in shops in the city center."
+          },
+          {
+            "name": "Local crafts",
+            "tip": "Look for small shops near the bus stop."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich im Voraus über die Busfahrpläne, da die Verbindungen auf dem Land selten sein können.",
+          "Kaufen Sie eine Tageskarte, wenn diese günstiger ist als Einzelfahrscheine.",
+          "Haben Sie Kleingeld für den Busfahrer bereit, falls keine Kartenzahlung möglich ist.",
+          "Achten Sie auf die Zeit für den letzten Bus zurück ins Zentrum."
+        ],
+        "hu": [
+          "Előre tájékozódjon a buszmenetrendről, mivel a vidéki járatok ritkák lehetnek.",
+          "Vásároljon napijegyet, ha az olcsóbb, mint a vonaljegyek.",
+          "Készítsen elő aprópénzt a buszsofőrnek, ha a kártyás fizetés nem lehetséges.",
+          "Figyeljen az utolsó, központba tartó busz idejére."
+        ],
+        "ro": [
+          "Verificați programul autobuzelor în avans, deoarece serviciile rurale pot fi rare.",
+          "Cumpărați un bilet de o zi dacă este mai ieftin decât biletele individuale.",
+          "Aveți la îndemână mărunțiș pentru șoferul de autobuz în cazul în care plata cu cardul nu este posibilă.",
+          "Fiți atenți la ora ultimului autobuz înapoi spre centru."
+        ],
+        "en": [
+          "Check bus schedules in advance, as rural services can be infrequent.",
+          "Buy a day pass if it's cheaper than single tickets.",
+          "Have small change ready for the bus driver in case card payment is not possible.",
+          "Be mindful of the time for the last bus back to the center."
+        ]
+      }
+    }
+  }
+}

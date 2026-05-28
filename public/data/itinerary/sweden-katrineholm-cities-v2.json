@@ -1,0 +1,1252 @@
+{
+  "city_id": "sweden-katrineholm-cities-v2",
+  "anchor": {
+    "name": "Katrineholm",
+    "coords": [
+      16.2064,
+      58.9959
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Katrineholm",
+            "hu": "Katrineholmi vasútállomás",
+            "ro": "Gara Katrineholm",
+            "en": "Katrineholm Railway Station"
+          },
+          "coords": [
+            16.203,
+            58.9965
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie die klassische schwedische Bahnhofsarchitektur.",
+            "hu": "Figyelje meg a klasszikus svéd vasútállomás-építészetet!",
+            "ro": "Observați arhitectura clasică a gării suedeze.",
+            "en": "Note the classic Swedish station architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Lokstallarna",
+            "hu": "Lokstallarna (Régi Mozdonyszín)",
+            "ro": "Lokstallarna (Vechile Depouri)",
+            "en": "Lokstallarna (The Old Engine Sheds)"
+          },
+          "coords": [
+            16.2,
+            58.9975
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:38",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Heute ein Kulturzentrum, prüfen Sie das Veranstaltungsprogramm.",
+            "hu": "Ma kulturális központ, érdemes megnézni a programajánlatot.",
+            "ro": "Astăzi este un centru cultural; verificați programul evenimentelor.",
+            "en": "Now a cultural center, check for any ongoing events."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturhaus Safiren",
+            "hu": "Safiren Kultúrház",
+            "ro": "Casa de Cultură Safiren",
+            "en": "Safiren Culture House"
+          },
+          "coords": [
+            16.207,
+            58.997
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:37",
+          "stay_min": 60,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein lokaler Treffpunkt mit Kino und Bibliothek.",
+            "hu": "Helyi találkozóhely mozival és könyvtárral.",
+            "ro": "Un punct de întâlnire local cu cinema și bibliotecă.",
+            "en": "A local hub with a cinema and library."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Sankt Eskil",
+            "hu": "Szent Eskil-templom",
+            "ro": "Biserica Sfântul Eskil",
+            "en": "Saint Eskil's Church"
+          },
+          "coords": [
+            16.205,
+            58.992
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:49",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe in diesem modernen Kirchengebäude.",
+            "hu": "Élvezze a csendet ebben a modern templomépületben.",
+            "ro": "Bucurați-vă de liniștea din această clădire modernă a bisericii.",
+            "en": "Enjoy the tranquility inside this modern church building."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadsparken",
+            "hu": "Stadsparken (Városi Park)",
+            "ro": "Stadsparken (Parcul Orașului)",
+            "en": "Stadsparken (City Park)"
+          },
+          "coords": [
+            16.209,
+            58.994
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:39",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekt für ein Mittagspicknick oder eine Kaffeepause (Fika).",
+            "hu": "Tökéletes egy déli piknikhez vagy egy kávészünethez (fika).",
+            "ro": "Perfect pentru un picnic la prânz sau o pauză de cafea (fika).",
+            "en": "Perfect for a lunch picnic or a coffee break (fika)."
+          }
+        },
+        {
+          "name": {
+            "de": "Katrineholms Konsthall",
+            "hu": "Katrineholmi Művészeti Galéria",
+            "ro": "Galeria de Artă Katrineholm",
+            "en": "Katrineholm Art Gallery"
+          },
+          "coords": [
+            16.2085,
+            58.9955
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Fokus auf schwedische Gegenwartskunst.",
+            "hu": "A fókusz a kortárs svéd művészeten van.",
+            "ro": "Accent pe arta contemporană suedeză.",
+            "en": "Focuses on contemporary Swedish art."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am historischen Bahnhof, einem Symbol der industriellen Wurzeln der Stadt. Am Vormittag erkunden Sie die kulturellen Zentren Lokstallarna und Safiren. Nach dem Mittagessen tauchen Sie in die Stille der St. Eskil-Kirche ein, bevor Sie einen entspannten Nachmittag im weitläufigen Stadsparken verbringen. Der Tag endet mit einem Besuch in der Kunstgalerie, die einen Einblick in die moderne schwedische Kunstszene bietet.",
+        "hu": "Kezdje a napot a történelmi vasútállomásnál, a város ipari gyökereinek szimbólumánál. A délelőttöt a Lokstallarna és a Safiren kulturális központok felfedezésével töltse. Ebéd után merüljön el a Szent Eskil-templom csendjében, mielőtt egy pihentető délutánt tölt a tágas Stadsparkenben. A napot a művészeti galéria meglátogatásával zárja, amely betekintést nyújt a modern svéd művészeti életbe.",
+        "ro": "Începeți ziua la gara istorică, un simbol al rădăcinilor industriale ale orașului. Dimineața, explorați centrele culturale Lokstallarna și Safiren. După prânz, cufundați-vă în liniștea Bisericii Sf. Eskil înainte de a petrece o după-amiază relaxantă în vastul Stadsparken. Ziua se încheie cu o vizită la galeria de artă, oferind o perspectivă asupra scenei artistice suedeze moderne.",
+        "en": "Start your day at the historic railway station, a symbol of the city's industrial roots. In the morning, explore the cultural hubs of Lokstallarna and Safiren. After lunch, immerse yourself in the quiet of St. Eskil's Church before spending a relaxing afternoon in the expansive Stadsparken. The day concludes with a visit to the art gallery, offering a glimpse into the modern Swedish art scene."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Köttbullar med potatismos",
+            "tip": "Probieren Sie die schwedischen Fleischbällchen in einem lokalen Restaurant."
+          },
+          {
+            "name": "Kanelbulle",
+            "tip": "Eine Zimtschnecke zum Nachmittagskaffee (Fika)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Köttbullar potatismos-szal",
+            "tip": "Kóstolja meg a svéd húsgolyókat egy helyi étteremben."
+          },
+          {
+            "name": "Kanelbulle",
+            "tip": "Egy fahéjas csiga a délutáni kávéhoz (fika)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Köttbullar cu piure de cartofi",
+            "tip": "Încercați chiftelele suedeze la un restaurant local."
+          },
+          {
+            "name": "Kanelbulle",
+            "tip": "O ruladă cu scorțișoară pentru cafeaua de după-amiază (fika)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Köttbullar with mashed potatoes",
+            "tip": "Try the iconic Swedish meatballs at a local restaurant."
+          },
+          {
+            "name": "Kanelbulle",
+            "tip": "A cinnamon bun for the afternoon coffee break (fika)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadsparken am See",
+            "tip": "Finden Sie eine ruhige Bank am kleinen See im Park.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. Eskil's Church",
+            "tip": "Ein Moment der stillen Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stadsparken a tónál",
+            "tip": "Keressen egy csendes padot a park kis tavánál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent Eskil-templom",
+            "tip": "A csendes elmélkedés pillanata.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stadsparken lângă lac",
+            "tip": "Găsiți o bancă liniștită lângă micul lac din parc.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Biserica Sf. Eskil",
+            "tip": "Un moment de reflecție tăcută.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Stadsparken by the lake",
+            "tip": "Find a quiet bench by the small lake in the park.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. Eskil's Church",
+            "tip": "A moment of quiet reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerksläden",
+            "tip": "Suchen Sie nach handgefertigten schwedischen Souvenirs."
+          },
+          {
+            "name": "Stora torget",
+            "tip": "Der Hauptplatz hat oft Marktstände."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keressen kézzel készített svéd ajándéktárgyakat."
+          },
+          {
+            "name": "Stora torget",
+            "tip": "A főtéren gyakran vannak piaci standok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Căutați suveniruri suedeze lucrate manual."
+          },
+          {
+            "name": "Stora torget",
+            "tip": "Piața principală are adesea tarabe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local craft shops",
+            "tip": "Look for handmade Swedish souvenirs."
+          },
+          {
+            "name": "Stora torget",
+            "tip": "The main square often has market stalls."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag laufen werden.",
+          "Prüfen Sie die Öffnungszeiten der Kunstgalerie im Voraus.",
+          "Ein Regenschirm ist immer eine gute Idee in Schweden.",
+          "Genießen Sie eine traditionelle Fika am Nachmittag."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap gyalogolni fog.",
+          "Előre ellenőrizze a művészeti galéria nyitvatartási idejét.",
+          "Egy esernyő mindig jó ötlet Svédországban.",
+          "Élvezze a hagyományos délutáni fikát."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge pe jos toată ziua.",
+          "Verificați în avans orele de deschidere ale galeriei de artă.",
+          "O umbrelă este întotdeauna o idee bună în Suedia.",
+          "Bucurați-vă de o fika tradițională după-amiaza."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be walking all day.",
+          "Check the opening hours for the art gallery in advance.",
+          "An umbrella is always a good idea in Sweden.",
+          "Enjoy a traditional fika in the afternoon."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:10",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadsparken",
+            "hu": "Stadsparken (Városi Park)",
+            "ro": "Stadsparken (Parcul Orașului)",
+            "en": "Stadsparken (City Park)"
+          },
+          "coords": [
+            16.209,
+            58.994
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein guter Ausgangspunkt, um die Stadt zu erkunden.",
+            "hu": "Jó kiindulópont a város felfedezéséhez.",
+            "ro": "Un punct de plecare bun pentru a explora orașul.",
+            "en": "A good starting point to get a feel for the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Katrineholms Konsthall",
+            "hu": "Katrineholmi Művészeti Galéria",
+            "ro": "Galeria de Artă Katrineholm",
+            "en": "Katrineholm Art Gallery"
+          },
+          "coords": [
+            16.2085,
+            58.9955
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Entdecken Sie die Werke lokaler und nationaler Künstler.",
+            "hu": "Fedezze fel a helyi és nemzeti művészek alkotásait.",
+            "ro": "Descoperiți lucrările artiștilor locali și naționali.",
+            "en": "Discover the works of local and national artists."
+          }
+        },
+        {
+          "name": {
+            "de": "Stora Djulö Herrgård",
+            "hu": "Stora Djulö udvarház",
+            "ro": "Conacul Stora Djulö",
+            "en": "Stora Djulö Manor"
+          },
+          "coords": [
+            16.185,
+            58.975
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein wunderschönes Herrenhaus mit einem Café und Gärten.",
+            "hu": "Gyönyörű udvarház kávézóval és kertekkel.",
+            "ro": "Un conac frumos cu o cafenea și grădini.",
+            "en": "A beautiful manor house with a café and gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Djulö badplats",
+            "hu": "Djulö strand",
+            "ro": "Plaja Djulö",
+            "en": "Djulö bathing spot"
+          },
+          "coords": [
+            16.182,
+            58.973
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:46",
+          "stay_min": 150,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Nehmen Sie ein Bad im See oder entspannen Sie sich am Strand.",
+            "hu": "Mártózzon meg a tóban, vagy pihenjen a strandon.",
+            "ro": "Faceți o baie în lac sau relaxați-vă pe plajă.",
+            "en": "Take a dip in the lake or relax on the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Sankt Eskil",
+            "hu": "Szent Eskil-templom",
+            "ro": "Biserica Sfântul Eskil",
+            "en": "Saint Eskil's Church"
+          },
+          "coords": [
+            16.205,
+            58.992
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 3.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein Moment der Ruhe nach einem aktiven Tag.",
+            "hu": "Egy pillanatnyi csend egy aktív nap után.",
+            "ro": "Un moment de liniște după o zi activă.",
+            "en": "A moment of peace after an active day."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahnhofsviertel",
+            "hu": "Vasútállomás környéke",
+            "ro": "Cartierul Gării",
+            "en": "Railway Station Area"
+          },
+          "coords": [
+            16.203,
+            58.9965
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:38",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem Abendessen in einem der Restaurants hier.",
+            "hu": "Fejezze be a túrát egy vacsorával az itteni éttermek egyikében.",
+            "ro": "Încheiați turul cu o cină la unul dintre restaurantele de aici.",
+            "en": "End your tour with dinner at one of the restaurants here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour im Stadsparken und fahren Sie zur Kunstgalerie. Am späten Vormittag radeln Sie durch die malerische Landschaft zum Stora Djulö Herrgård. Verbringen Sie den Mittag am Djulö Badplats, genießen Sie die Natur und vielleicht ein erfrischendes Bad. Am Nachmittag fahren Sie zurück ins Stadtzentrum, um die St. Eskil-Kirche zu besuchen, bevor Sie den Tag im lebhaften Bahnhofsviertel ausklingen lassen.",
+        "hu": "Kezdje a kerékpártúrát a Stadsparkenben, majd tekerjen a művészeti galériához. Késő délelőtt a festői tájon át kerekezzen a Stora Djulö udvarházhoz. Töltse a délt a Djulö strandon, élvezze a természetet és talán egy frissítő fürdőt. Délután térjen vissza a városközpontba, hogy meglátogassa a Szent Eskil-templomot, mielőtt a napot a nyüzsgő vasútállomás környékén zárja.",
+        "ro": "Începeți turul cu bicicleta în Stadsparken și mergeți la galeria de artă. Spre sfârșitul dimineții, pedalați prin peisajul pitoresc până la Conacul Stora Djulö. Petreceți prânzul la Djulö Badplats, bucurându-vă de natură și poate de o baie răcoritoare. După-amiaza, reveniți în centrul orașului pentru a vizita Biserica Sf. Eskil înainte de a încheia ziua în animatul cartier al gării.",
+        "en": "Begin your bike tour in Stadsparken and cycle to the art gallery. In the late morning, pedal through the scenic landscape to Stora Djulö Manor. Spend midday at Djulö Badplats, enjoying nature and perhaps a refreshing swim. In the afternoon, head back to the city center to visit St. Eskil's Church before ending your day in the lively railway station area."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Räksmörgås",
+            "tip": "Ein offenes Garnelensandwich, perfekt für ein leichtes Mittagessen."
+          },
+          {
+            "name": "Blåbärspaj",
+            "tip": "Blaubeerkuchen, eine schwedische Spezialität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Räksmörgås",
+            "tip": "Egy nyitott garnélaszószos szendvics, tökéletes egy könnyű ebédhez."
+          },
+          {
+            "name": "Blåbärspaj",
+            "tip": "Áfonyás pite, egy svéd különlegesség."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Räksmörgås",
+            "tip": "Un sandviș deschis cu creveți, perfect pentru un prânz ușor."
+          },
+          {
+            "name": "Blåbärspaj",
+            "tip": "O plăcintă cu afine, o specialitate suedeză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Räksmörgås",
+            "tip": "An open shrimp sandwich, perfect for a light lunch."
+          },
+          {
+            "name": "Blåbärspaj",
+            "tip": "Blueberry pie, a Swedish specialty."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Djulö badplats",
+            "tip": "Entspannen Sie am Ufer des Sees.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gärten von Stora Djulö",
+            "tip": "Schlendern Sie durch die friedlichen Gärten des Herrenhauses.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Djulö strand",
+            "tip": "Pihenjen a tó partján.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Stora Djulö kertjei",
+            "tip": "Sétáljon végig az udvarház békés kertjein.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Djulö",
+            "tip": "Relaxați-vă pe malul lacului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile Stora Djulö",
+            "tip": "Plimbați-vă prin grădinile liniștite ale conacului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Djulö bathing spot",
+            "tip": "Relax by the shore of the lake.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gardens of Stora Djulö",
+            "tip": "Stroll through the peaceful manor gardens.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofladen Stora Djulö",
+            "tip": "Lokale Produkte und Souvenirs direkt vom Herrenhaus."
+          },
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Nützliches Zubehör für Ihre Tour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stora Djulö farmbolt",
+            "tip": "Helyi termékek és ajándéktárgyak közvetlenül az udvarházból."
+          },
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Hasznos kiegészítők a túrához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul fermei Stora Djulö",
+            "tip": "Produse locale și suveniruri direct de la conac."
+          },
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Accesorii utile pentru turul dvs."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stora Djulö farm shop",
+            "tip": "Local produce and souvenirs direct from the manor."
+          },
+          {
+            "name": "Bike shops",
+            "tip": "Useful accessories for your tour."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad mit guter Gangschaltung.",
+          "Tragen Sie einen Helm.",
+          "Nehmen Sie Wasser und Snacks für die Fahrt zum Djulö-See mit.",
+          "Prüfen Sie die Wettervorhersage, bevor Sie losfahren."
+        ],
+        "hu": [
+          "Béreljen jó sebességváltóval rendelkező kerékpárt.",
+          "Viseljen sisakot.",
+          "Vigyen magával vizet és harapnivalót a Djulö-tóhoz vezető útra.",
+          "Indulás előtt ellenőrizze az időjárás-előrejelzést."
+        ],
+        "ro": [
+          "Închiriați o bicicletă cu viteze bune.",
+          "Purtați cască.",
+          "Luați apă și gustări pentru drumul spre lacul Djulö.",
+          "Verificați prognoza meteo înainte de a pleca."
+        ],
+        "en": [
+          "Rent a bike with good gears.",
+          "Wear a helmet.",
+          "Bring water and snacks for the ride to Lake Djulö.",
+          "Check the weather forecast before you leave."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 10.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Stadtzentrum Katrineholm",
+            "hu": "1. klaszter: Katrineholm városközpont",
+            "ro": "Cluster 1: Centrul orașului Katrineholm",
+            "en": "Cluster 1: Katrineholm City Center"
+          },
+          "coords": [
+            16.2035,
+            58.997
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Bahnhofs für diesen Cluster.",
+            "hu": "Parkoljon a vasútállomás közelében ehhez a klaszterhez.",
+            "ro": "Parcați lângă gară pentru acest cluster.",
+            "en": "Park near the railway station for this cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Lokstallarna",
+            "hu": "Lokstallarna",
+            "ro": "Lokstallarna",
+            "en": "Lokstallarna"
+          },
+          "coords": [
+            16.2,
+            58.9975
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:36",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Bahnhof aus.",
+            "hu": "Rövid séta a vasútállomástól.",
+            "ro": "O scurtă plimbare de la gară.",
+            "en": "A short walk from the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Katrineholms Konsthall",
+            "hu": "Katrineholmi Művészeti Galéria",
+            "ro": "Galeria de Artă Katrineholm",
+            "en": "Katrineholm Art Gallery"
+          },
+          "coords": [
+            16.2085,
+            58.9955
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Durchqueren Sie den oberen Teil der Stadt zu Fuß.",
+            "hu": "Sétáljon át a város felső részén.",
+            "ro": "Traversați partea superioară a orașului pe jos.",
+            "en": "Walk across the upper part of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Erholungsgebiet Djulö",
+            "hu": "2. klaszter: Djulö rekreációs terület",
+            "ro": "Cluster 2: Zona de recreere Djulö",
+            "en": "Cluster 2: Djulö Recreation Area"
+          },
+          "coords": [
+            16.185,
+            58.975
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 8.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Herrenhaus und parken Sie dort für den Rest des Tages.",
+            "hu": "Vezessen az udvarházhoz, és parkoljon le a nap hátralévő részére.",
+            "ro": "Conduceți la conac și parcați acolo pentru restul zilei.",
+            "en": "Drive to the manor and park there for the rest of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Djulö badplats & Mittagessen",
+            "hu": "Djulö strand és ebéd",
+            "ro": "Plaja Djulö și prânz",
+            "en": "Djulö bathing spot & Lunch"
+          },
+          "coords": [
+            16.182,
+            58.973
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:01",
+          "stay_min": 150,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kombinieren Sie Entspannung am See mit einem Mittagessen im Café des Herrenhauses.",
+            "hu": "Kombinálja a tóparti pihenést egy ebéddel az udvarház kávézójában.",
+            "ro": "Combinați relaxarea pe malul lacului cu prânzul la cafeneaua conacului.",
+            "en": "Combine lakeside relaxation with lunch at the manor's café."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie im Stadtzentrum, wo Sie Ihr Auto parken und das industrielle Erbe und die Kunstszene zu Fuß erkunden. Am Vormittag besuchen Sie Lokstallarna und die Kunstgalerie. Mittags fahren Sie zum wunderschönen Djulö-Gebiet. Dort verbringen Sie den Rest des Tages mit der Erkundung des Stora Djulö Herrgård und entspannen am Seeufer, wo Sie auch ein gemütliches Mittagessen genießen können.",
+        "hu": "Kezdje a városközpontban, ahol leparkolhatja autóját, és gyalog felfedezheti az ipari örökséget és a művészeti negyedet. Délelőtt látogasson el a Lokstallarnába és a művészeti galériába. Délben autózzon el a gyönyörű Djulö területre. A nap hátralévő részét a Stora Djulö udvarház felfedezésével és a tóparton való pihenéssel töltse, ahol egy kellemes ebédet is elfogyaszthat.",
+        "ro": "Începeți în centrul orașului, unde parcați mașina și explorați moștenirea industrială și scena artistică pe jos. Dimineața, vizitați Lokstallarna și galeria de artă. La prânz, conduceți spre frumoasa zonă Djulö. Petreceți restul zilei explorând Conacul Stora Djulö și relaxându-vă pe malul lacului, unde puteți savura și un prânz pe îndelete.",
+        "en": "Start in the city center, parking your car to explore the industrial heritage and art scene on foot. In the morning, visit Lokstallarna and the art gallery. At midday, drive to the beautiful Djulö area. Spend the rest of the day exploring Stora Djulö Manor and relaxing by the lakeside, where you'll also enjoy a leisurely lunch."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Stora Djulö Värdshus",
+            "tip": "Das Restaurant des Herrenhauses bietet klassische schwedische Gerichte."
+          },
+          {
+            "name": "Smörgåstårta",
+            "tip": "Probieren Sie den schwedischen „Sandwichkuchen“, wenn Sie ihn finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stora Djulö Värdshus",
+            "tip": "Az udvarház étterme klasszikus svéd ételeket kínál."
+          },
+          {
+            "name": "Smörgåstårta",
+            "tip": "Kóstolja meg a svéd „szendvicstortát”, ha talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stora Djulö Värdshus",
+            "tip": "Restaurantul conacului servește mâncăruri suedeze clasice."
+          },
+          {
+            "name": "Smörgåstårta",
+            "tip": "Încercați „tortul sandviș” suedez dacă îl găsiți."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stora Djulö Värdshus",
+            "tip": "The manor's restaurant serves classic Swedish dishes."
+          },
+          {
+            "name": "Smörgåstårta",
+            "tip": "Try the Swedish 'sandwich cake' if you can find it."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Djulö-Halbinsel",
+            "tip": "Spazieren Sie auf den Wegen rund um den See.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten von Stora Djulö",
+            "tip": "Ein friedlicher Ort zum Entspannen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Djulö-félsziget",
+            "tip": "Sétáljon a tó körüli ösvényeken.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stora Djulö kertjei",
+            "tip": "Békés hely a pihenéshez.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Peninsula Djulö",
+            "tip": "Plimbați-vă pe potecile din jurul lacului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Stora Djulö",
+            "tip": "Un loc pașnic pentru relaxare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Djulö Peninsula",
+            "tip": "Walk the paths around the lake.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gardens of Stora Djulö",
+            "tip": "A peaceful spot to unwind.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gallerian Linden",
+            "tip": "Ein Einkaufszentrum im Stadtzentrum für allgemeine Bedürfnisse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gallerian Linden",
+            "tip": "Bevásárlóközpont a városközpontban általános szükségletekre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gallerian Linden",
+            "tip": "Un centru comercial în centrul orașului pentru nevoi generale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gallerian Linden",
+            "tip": "A shopping mall in the city center for general needs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Parkgebühren im Stadtzentrum.",
+          "Das Djulö-Gebiet ist groß, planen Sie genügend Zeit für Spaziergänge ein.",
+          "Das Café am Herrenhaus kann im Sommer sehr voll sein.",
+          "Beachten Sie die Geschwindigkeitsbegrenzungen auf dem Land."
+        ],
+        "hu": [
+          "Ellenőrizze a parkolási díjakat a városközpontban.",
+          "A Djulö terület nagy, tervezzen elegendő időt a sétákra.",
+          "Az udvarház kávézója nyáron zsúfolt lehet.",
+          "Vegye figyelembe a vidéki sebességkorlátozásokat."
+        ],
+        "ro": [
+          "Verificați taxele de parcare în centrul orașului.",
+          "Zona Djulö este mare, planificați suficient timp pentru plimbări.",
+          "Cafeneaua de la conac poate fi aglomerată vara.",
+          "Respectați limitele de viteză în zonele rurale."
+        ],
+        "en": [
+          "Check parking fees in the city center.",
+          "The Djulö area is large, so plan enough time for walks.",
+          "The café at the manor can be busy in summer.",
+          "Be mindful of speed limits in the countryside."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 9.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Hauptbahnhof & Kultur",
+            "hu": "1. klaszter: Főpályaudvar és kultúra",
+            "ro": "Cluster 1: Gara Centrală și Cultură",
+            "en": "Cluster 1: Central Station & Culture"
+          },
+          "coords": [
+            16.203,
+            58.9965
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Hauptbahnhof ist der zentrale Verkehrsknotenpunkt.",
+            "hu": "A főpályaudvar a központi közlekedési csomópont.",
+            "ro": "Gara Centrală este nodul principal de transport.",
+            "en": "The Central Station is the main transit hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturhaus Safiren",
+            "hu": "Safiren Kultúrház",
+            "ro": "Casa de Cultură Safiren",
+            "en": "Safiren Culture House"
+          },
+          "coords": [
+            16.207,
+            58.997
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:37",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Bahnhof aus.",
+            "hu": "Rövid séta a vasútállomástól.",
+            "ro": "O scurtă plimbare de la gară.",
+            "en": "A quick walk from the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadsparken",
+            "hu": "Stadsparken (Városi Park)",
+            "ro": "Stadsparken (Parcul Orașului)",
+            "en": "Stadsparken (City Park)"
+          },
+          "coords": [
+            16.209,
+            58.994
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:49",
+          "stay_min": 45,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Durchqueren Sie den Park auf dem Weg zur nächsten Haltestelle.",
+            "hu": "Sétáljon át a parkon a következő megálló felé.",
+            "ro": "Traversați parcul în drum spre următoarea stație.",
+            "en": "Cut through the park on your way to the next stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Djulö mit dem Bus",
+            "hu": "2. klaszter: Djulö busszal",
+            "ro": "Cluster 2: Djulö cu autobuzul",
+            "en": "Cluster 2: Djulö by Bus"
+          },
+          "coords": [
+            16.185,
+            58.975
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Stadtzentrum zum Djulö-Gebiet.",
+            "hu": "Vegyen buszt a városközpontból a Djulö területére.",
+            "ro": "Luați un autobuz din centrul orașului spre zona Djulö.",
+            "en": "Take a bus from the city center to the Djulö area."
+          }
+        },
+        {
+          "name": {
+            "de": "Djulö badplats",
+            "hu": "Djulö strand",
+            "ro": "Plaja Djulö",
+            "en": "Djulö bathing spot"
+          },
+          "coords": [
+            16.182,
+            58.973
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:32",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie sich nach der Busfahrt am See.",
+            "hu": "Pihenjen a tónál a buszozás után.",
+            "ro": "Relaxați-vă lângă lac după călătoria cu autobuzul.",
+            "en": "Relax by the lake after the bus journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum & Kirche St. Eskil",
+            "hu": "Vissza a központba és Szent Eskil-templom",
+            "ro": "Întoarcere în centru și Biserica Sf. Eskil",
+            "en": "Return to Center & St. Eskil's Church"
+          },
+          "coords": [
+            16.205,
+            58.992
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:04",
+          "stay_min": 45,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 3.6,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück und steigen Sie in der Nähe der Kirche aus.",
+            "hu": "Vegye vissza a buszt, és szálljon le a templom közelében.",
+            "ro": "Luați autobuzul înapoi și coborâți lângă biserică.",
+            "en": "Take the bus back and get off near the church."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das effiziente Busnetz von Katrineholm. Beginnen Sie Ihren Tag im Zentrum und erkunden Sie Safiren und den Stadsparken zu Fuß. Am Mittag nehmen Sie einen Bus zum malerischen Djulö-Gebiet. Dort erkunden Sie das Herrenhaus und verbringen eine lange Pause am See. Am späten Nachmittag bringt Sie ein Bus zurück ins Zentrum für einen ruhigen Besuch in der St. Eskil-Kirche, um den Tag abzuschließen.",
+        "hu": "Használja ki Katrineholm hatékony buszhálózatát. Kezdje a napot a központban, és fedezze fel gyalog a Safiren-t és a Stadsparken-t. Délben szálljon buszra a festői Djulö területre. Fedezze fel az udvarházat, és töltsön egy hosszú szünetet a tónál. Késő délután egy busz visszaviszi a központba, hogy egy csendes látogatással zárja a napot a Szent Eskil-templomban.",
+        "ro": "Folosiți rețeaua eficientă de autobuze din Katrineholm. Începeți ziua în centru, explorând Safiren și Stadsparken pe jos. La prânz, luați un autobuz spre pitoreasca zonă Djulö. Explorați conacul și petreceți o pauză lungă pe malul lacului. Spre sfârșitul după-amiezii, un autobuz vă va duce înapoi în centru pentru o vizită liniștită la Biserica Sf. Eskil pentru a încheia ziua.",
+        "en": "Make use of Katrineholm's efficient bus network. Start your day in the center, exploring Safiren and Stadsparken on foot. At midday, take a bus to the scenic Djulö area. Explore the manor and spend a long break by the lake. In the late afternoon, a bus will take you back to the center for a quiet visit to St. Eskil's Church to round off the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pyttipanna",
+            "tip": "Ein traditionelles schwedisches Gericht aus gewürfeltem Fleisch, Zwiebeln und Kartoffeln."
+          },
+          {
+            "name": "Café im Stadsparken",
+            "tip": "Ein schöner Ort für eine Fika."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pyttipanna",
+            "tip": "Hagyományos svéd étel kockára vágott húsból, hagymából és krumpliból."
+          },
+          {
+            "name": "Kávézó a Stadsparkenben",
+            "tip": "Szép hely egy fikára."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pyttipanna",
+            "tip": "Un fel de mâncare tradițional suedez din carne, ceapă și cartofi tăiați cubulețe."
+          },
+          {
+            "name": "Cafenea în Stadsparken",
+            "tip": "Un loc frumos pentru o fika."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pyttipanna",
+            "tip": "A traditional Swedish hash of diced meat, onion, and potato."
+          },
+          {
+            "name": "Café in Stadsparken",
+            "tip": "A lovely spot for a fika."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Busfahrt durch die Landschaft",
+            "tip": "Genießen Sie die Aussicht aus dem Fenster.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Ufer des Djulö-Sees",
+            "tip": "Finden Sie einen abgelegenen Platz am Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás a vidéken",
+            "tip": "Élvezze a kilátást az ablakból.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Djulö-tó partja",
+            "tip": "Keressen egy félreeső helyet a víz mellett.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O călătorie cu autobuzul prin peisajul rural",
+            "tip": "Bucurați-vă de priveliștea de la fereastră.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Malul lacului Djulö",
+            "tip": "Găsiți un loc retras lângă apă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bus ride through the countryside",
+            "tip": "Enjoy the views from the window.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Shore of Lake Djulö",
+            "tip": "Find a secluded spot by the water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosken am Busbahnhof",
+            "tip": "Kaufen Sie ein Reiseticket und ein paar Snacks."
+          },
+          {
+            "name": "Geschäfte in der Köpmangatan",
+            "tip": "Die Haupteinkaufsstraße der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok a buszpályaudvaron",
+            "tip": "Vásároljon menetjegyet és néhány harapnivalót."
+          },
+          {
+            "name": "Boltok a Köpmangatan-on",
+            "tip": "A város fő bevásárlóutcája."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri la autogară",
+            "tip": "Cumpărați un bilet de călătorie și câteva gustări."
+          },
+          {
+            "name": "Magazine pe Köpmangatan",
+            "tip": "Principala stradă comercială a orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks at the bus station",
+            "tip": "Buy a travel ticket and some snacks."
+          },
+          {
+            "name": "Shops on Köpmangatan",
+            "tip": "The city's main shopping street."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus.",
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere für die Rückfahrt von Djulö.",
+          "Halten Sie Kleingeld für Snacks bereit.",
+          "Die Busse sind pünktlich, seien Sie also rechtzeitig an der Haltestelle."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra.",
+          "Előre ellenőrizze a buszmenetrendet, különösen a Djulö-ból való visszautazáshoz.",
+          "Tartson aprópénzt a harapnivalókhoz.",
+          "A buszok pontosak, ezért legyen időben a megállóban."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz.",
+          "Verificați programul autobuzelor în avans, în special pentru călătoria de întoarcere de la Djulö.",
+          "Aveți la îndemână mărunțiș pentru gustări.",
+          "Autobuzele sunt punctuale, așa că fiți la stație la timp."
+        ],
+        "en": [
+          "Buy a day pass for the bus.",
+          "Check the bus schedule in advance, especially for the return trip from Djulö.",
+          "Keep some change handy for snacks.",
+          "Buses are punctual, so be at the stop on time."
+        ]
+      }
+    }
+  }
+}

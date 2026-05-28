@@ -1,0 +1,1580 @@
+{
+  "city_id": "greece-komotini-cities-v2",
+  "anchor": {
+    "name": "Komotini",
+    "coords": [
+      25.4053,
+      41.1189
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 3.1,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Platz des Friedens (Irini)",
+            "hu": "Béke tér (Irini)",
+            "ro": "Piața Păcii (Irini)",
+            "en": "Peace Square (Irini)"
+          },
+          "coords": [
+            25.4053,
+            41.1189
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem griechischen Kaffee in einem der vielen Cafés am Platz.",
+            "hu": "Indítsa a napot egy görög kávéval a tér egyik kávézójában.",
+            "ro": "Începeți ziua cu o cafea grecească la una dintre numeroasele cafenele din piață.",
+            "en": "Start your day with a Greek coffee at one of the many cafes lining the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Neue Moschee (Yeni Camii)",
+            "hu": "Új Mecset (Yeni Camii)",
+            "ro": "Moscheea Nouă (Yeni Camii)",
+            "en": "New Mosque (Yeni Camii)"
+          },
+          "coords": [
+            25.406,
+            41.1195
+          ],
+          "category": "historical",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckende Kalligrafie und die osmanische Architektur.",
+            "hu": "Figyelje meg a lenyűgöző kalligráfiát és az oszmán építészetet.",
+            "ro": "Observați caligrafia impresionantă și arhitectura otomană.",
+            "en": "Pay attention to the impressive calligraphy and Ottoman architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm von Komotini",
+            "hu": "Komotini Óratornya",
+            "ro": "Turnul cu Ceas din Komotini",
+            "en": "Clock Tower of Komotini"
+          },
+          "coords": [
+            25.405,
+            41.1198
+          ],
+          "category": "towers",
+          "arrive_at": "10:23",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der Turm ist ein toller Orientierungspunkt und ein beliebtes Fotomotiv.",
+            "hu": "A torony remek tájékozódási pont és népszerű fotótéma.",
+            "ro": "Turnul este un punct de reper excelent și un loc popular pentru fotografii.",
+            "en": "The tower serves as a great landmark and a popular photo spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Moschee (Eski Camii)",
+            "hu": "Régi Mecset (Eski Camii)",
+            "ro": "Moscheea Veche (Eski Camii)",
+            "en": "Old Mosque (Eski Camii)"
+          },
+          "coords": [
+            25.4035,
+            41.1205
+          ],
+          "category": "historical",
+          "arrive_at": "10:52",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Eine der ältesten osmanischen Bauten in der Region, erbaut um 1608.",
+            "hu": "A régió egyik legrégebbi oszmán építménye, 1608 körül épült.",
+            "ro": "Una dintre cele mai vechi clădiri otomane din regiune, construită în jurul anului 1608.",
+            "en": "One of the oldest Ottoman structures in the region, built around 1608."
+          }
+        },
+        {
+          "name": {
+            "de": "Imaret von Komotini",
+            "hu": "Komotini Imaret",
+            "ro": "Imaretul din Komotini",
+            "en": "Imaret of Komotini"
+          },
+          "coords": [
+            25.402,
+            41.1215
+          ],
+          "category": "historical",
+          "arrive_at": "11:37",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Heute ein Kirchenmuseum, einst eine Suppenküche für die Armen.",
+            "hu": "Ma egyházi múzeum, egykor szegénykonyha volt.",
+            "ro": "Astăzi un muzeu bisericesc, a fost cândva o cantină pentru săraci.",
+            "en": "Now an ecclesiastical museum, it was once a soup kitchen for the poor."
+          }
+        },
+        {
+          "name": {
+            "de": "Byzantinische Stadtmauer",
+            "hu": "Bizánci városfal",
+            "ro": "Zidul Cetății Bizantine",
+            "en": "Byzantine Fortress Wall"
+          },
+          "coords": [
+            25.401,
+            41.123
+          ],
+          "category": "fortress",
+          "arrive_at": "13:03",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bietet einen Einblick in die befestigte Vergangenheit der Stadt.",
+            "hu": "Betekintést nyújt a város erődített múltjába.",
+            "ro": "Oferă o privire asupra trecutului fortificat al orașului.",
+            "en": "Offers a glimpse into the city's fortified past."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            25.408,
+            41.122
+          ],
+          "category": "museums",
+          "arrive_at": "14:38",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie Artefakte von der Jungsteinzeit bis zur byzantinischen Zeit.",
+            "hu": "Fedezze fel a neolitikumtól a bizánci korig származó leleteket.",
+            "ro": "Descoperiți artefacte din perioada neolitică până în perioada bizantină.",
+            "en": "Discover artifacts from the Neolithic to the Byzantine period."
+          }
+        },
+        {
+          "name": {
+            "de": "Agia Paraskevi Park",
+            "hu": "Agia Paraskevi Park",
+            "ro": "Parcul Agia Paraskevi",
+            "en": "Agia Paraskevi Park"
+          },
+          "coords": [
+            25.412,
+            41.12
+          ],
+          "category": "parks",
+          "arrive_at": "16:27",
+          "stay_min": 62,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort zum Entspannen nach einem langen Spaziergang.",
+            "hu": "Tökéletes hely a pihenésre egy hosszú séta után.",
+            "ro": "Un loc perfect pentru a vă relaxa după o plimbare lungă.",
+            "en": "A perfect spot to relax after a long walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang durch Komotini beginnt am lebhaften Irini-Platz, dem Herzen der Stadt. Von dort aus tauchen Sie in die osmanische Geschichte ein und besuchen die Neue und Alte Moschee sowie den imposanten Uhrturm. Am Vormittag erkunden Sie das historische Imaret und die Überreste der byzantinischen Festung, die von der vielschichtigen Vergangenheit der Stadt zeugen. Nach dem Mittagessen widmen Sie sich den kulturellen Schätzen im Archäologischen Museum, das Artefakte aus Jahrtausenden beherbergt. Der Tag endet entspannt im grünen Agia-Paraskevi-Park, wo Sie die gesammelten Eindrücke Revue passieren lassen können.",
+        "hu": "Komotini-i sétája a nyüzsgő Irini téren, a város szívében kezdődik. Innen elmerülhet az oszmán történelemben, meglátogatva az Új és Régi Mecsetet, valamint a lenyűgöző Óratornyot. A délelőtt folyamán felfedezi a történelmi Imaretet és a bizánci erőd maradványait, amelyek a város sokrétű múltjáról tanúskodnak. Ebéd után a kulturális kincsek felé veszi az irányt a Régészeti Múzeumban, amely évezredek leleteit őrzi. A napot az zöld Agia Paraskevi Parkban zárja, ahol feldolgozhatja a gyűjtött élményeket.",
+        "ro": "Plimbarea dvs. prin Komotini începe în vibranta Piață Irini, inima orașului. De acolo, vă veți cufunda în istoria otomană vizitând Moscheea Nouă și Veche, precum și impresionantul Turn cu Ceas. În cursul dimineții, explorați Imaretul istoric și rămășițele fortăreței bizantine, care mărturisesc despre trecutul complex al orașului. După prânz, vă dedicați comorilor culturale la Muzeul de Arheologie, care adăpostește artefacte de milenii. Ziua se încheie relaxant în verdele Parc Agia Paraskevi, unde puteți reflecta asupra impresiilor adunate.",
+        "en": "Your walking tour of Komotini begins at the vibrant Irini Square, the heart of the city. From there, you'll dive into Ottoman history by visiting the New and Old Mosques and the imposing Clock Tower. In the morning, you'll explore the historic Imaret and the remnants of the Byzantine fortress, which testify to the city's layered past. After lunch, you'll turn to the cultural treasures at the Archaeological Museum, home to millennia of artifacts. The day concludes with a relaxing stroll in the green Agia Paraskevi Park, where you can reflect on your experiences."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Soutzoukakia",
+            "tip": "Würzige Hackfleischbällchen in Tomatensauce, ein Klassiker der Region."
+          },
+          {
+            "name": "Kavourmas",
+            "tip": "Eine lokale Spezialität aus konserviertem Fleisch, oft mit Eiern serviert."
+          },
+          {
+            "name": "Bougatsa",
+            "tip": "Ein Blätterteiggebäck, gefüllt mit Grießcreme oder Käse, perfekt zum Frühstück."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Soutzoukakia",
+            "tip": "Fűszeres húsgombócok paradicsomszószban, a régió klasszikusa."
+          },
+          {
+            "name": "Kavourmas",
+            "tip": "Helyi specialitás tartósított húsból, gyakran tojással tálalva."
+          },
+          {
+            "name": "Bougatsa",
+            "tip": "Leveles tészta búzadarával vagy sajttal töltve, tökéletes reggelire."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Soutzoukakia",
+            "tip": "Chiftele picante în sos de roșii, un clasic al regiunii."
+          },
+          {
+            "name": "Kavourmas",
+            "tip": "O specialitate locală din carne conservată, adesea servită cu ouă."
+          },
+          {
+            "name": "Bougatsa",
+            "tip": "O plăcintă din foietaj umplută cu cremă de griș sau brânză, perfectă pentru micul dejun."
+          }
+        ],
+        "en": [
+          {
+            "name": "Soutzoukakia",
+            "tip": "Spicy meatballs in tomato sauce, a regional classic."
+          },
+          {
+            "name": "Kavourmas",
+            "tip": "A local specialty of preserved meat, often served with eggs."
+          },
+          {
+            "name": "Bougatsa",
+            "tip": "A phyllo pastry filled with semolina cream or cheese, perfect for breakfast."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Agia Paraskevi Park",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die grüne Oase der Stadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hof der Alten Moschee",
+            "tip": "Ein friedlicher Ort, um dem Trubel der Stadt für einen Moment zu entkommen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Blick von der Stadtmauer",
+            "tip": "Ein ruhiger Moment mit Blick über die Dächer von Komotini.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Agia Paraskevi Park",
+            "tip": "Keressen egy csendes padot, és élvezze a város zöld oázisát.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Régi Mecset udvara",
+            "tip": "Békés hely, ahol egy pillanatra elmenekülhet a város nyüzsgésétől.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás a városfalról",
+            "tip": "Egy csendes pillanat Komotini háztetői fölött.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Agia Paraskevi",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de oaza verde a orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea Moscheii Vechi",
+            "tip": "Un loc pașnic pentru a scăpa de agitația orașului pentru un moment.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vedere de pe zidurile cetății",
+            "tip": "Un moment de liniște cu vedere peste acoperișurile din Komotini.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Agia Paraskevi Park",
+            "tip": "Find a quiet bench and enjoy the city's green oasis.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Courtyard of the Old Mosque",
+            "tip": "A peaceful spot to escape the city bustle for a moment.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from the Fortress Wall",
+            "tip": "A quiet moment overlooking the rooftops of Komotini.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Städtischer Markt",
+            "tip": "Kaufen Sie lokale Produkte wie Oliven, Käse und den berühmten Kavourmas."
+          },
+          {
+            "name": "Ermou Straße",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus lokalen und nationalen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi piac",
+            "tip": "Vásároljon helyi termékeket, például olajbogyót, sajtot és a híres Kavourmast."
+          },
+          {
+            "name": "Ermou utca",
+            "tip": "A fő bevásárlóutca helyi és országos üzletek keverékével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Municipală",
+            "tip": "Cumpărați produse locale precum măsline, brânză și faimosul Kavourmas."
+          },
+          {
+            "name": "Strada Ermou",
+            "tip": "Principala stradă comercială cu un amestec de magazine locale și naționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Municipal Market",
+            "tip": "Shop for local products like olives, cheese, and the famous Kavourmas."
+          },
+          {
+            "name": "Ermou Street",
+            "tip": "The main shopping street with a mix of local and national stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Nehmen Sie immer eine Flasche Wasser mit, besonders in den Sommermonaten.",
+          "Respektieren Sie die religiösen Stätten und kleiden Sie sich angemessen (Schultern und Knie bedeckt).",
+          "Probieren Sie unbedingt einen Frappé, den griechischen Eiskaffee, zur Erfrischung."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakövek egyenetlenek lehetnek az óvárosban.",
+          "Mindig vigyen magával egy üveg vizet, különösen a nyári hónapokban.",
+          "Tisztelje a vallási helyeket és öltözködjön megfelelően (vállak és térdek takarva).",
+          "Feltétlenül próbálja ki a frappét, a görög jegeskávét, egy kis felfrissülésért."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din centrul vechi poate fi denivelat.",
+          "Luați întotdeauna o sticlă de apă cu dvs., mai ales în lunile de vară.",
+          "Respectați lăcașurile de cult și îmbrăcați-vă corespunzător (umerii și genunchii acoperiți).",
+          "Nu uitați să încercați un frappé, cafeaua grecească cu gheață, pentru a vă răcori."
+        ],
+        "en": [
+          "Wear comfortable shoes, as the cobblestones in the old town can be uneven.",
+          "Always carry a bottle of water, especially during the summer months.",
+          "Respect the religious sites and dress appropriately (shoulders and knees covered).",
+          "Be sure to try a frappé, the Greek iced coffee, for refreshment."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:47",
+      "total_km": 5.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Platz des Friedens (Irini)",
+            "hu": "Béke tér (Irini)",
+            "ro": "Piața Păcii (Irini)",
+            "en": "Peace Square (Irini)"
+          },
+          "coords": [
+            25.4053,
+            41.1189
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein idealer Ausgangspunkt, um die Stadt mit dem Fahrrad zu erkunden.",
+            "hu": "Ideális kiindulópont a város kerékpáros felfedezéséhez.",
+            "ro": "Un punct de plecare ideal pentru a explora orașul cu bicicleta.",
+            "en": "An ideal starting point for exploring the city by bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Agia Paraskevi Park",
+            "hu": "Agia Paraskevi Park",
+            "ro": "Parcul Agia Paraskevi",
+            "en": "Agia Paraskevi Park"
+          },
+          "coords": [
+            25.412,
+            41.12
+          ],
+          "category": "parks",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Pause im Grünen, bevor Sie ins historische Zentrum radeln.",
+            "hu": "Tartson egy rövid szünetet a zöldben, mielőtt a történelmi központba teker.",
+            "ro": "Faceți o scurtă pauză în parc înainte de a pedala spre centrul istoric.",
+            "en": "Take a short break in the green space before cycling to the historic center."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum & Volkskundemuseum",
+            "hu": "Régészeti és Népművészeti Múzeum",
+            "ro": "Muzeul de Arheologie și Folclor",
+            "en": "Archaeological & Folklore Museum"
+          },
+          "coords": [
+            25.408,
+            41.122
+          ],
+          "category": "museums",
+          "arrive_at": "10:44",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Planen Sie genug Zeit für beide Museen ein, die sich nebeneinander befinden.",
+            "hu": "Tervezzen elég időt mindkét múzeumra, amelyek egymás mellett találhatók.",
+            "ro": "Planificați suficient timp pentru ambele muzee, care sunt situate unul lângă celălalt.",
+            "en": "Plan enough time for both museums, located next to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Byzantinische Stadtmauer",
+            "hu": "Bizánci városfal",
+            "ro": "Zidul Cetății Bizantine",
+            "en": "Byzantine Fortress Wall"
+          },
+          "coords": [
+            25.401,
+            41.123
+          ],
+          "category": "fortress",
+          "arrive_at": "12:30",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erklimmen Sie die alten Mauern für eine tolle Aussicht.",
+            "hu": "Tegye le a biciklit, és másszon fel a régi falakra a nagyszerű kilátásért.",
+            "ro": "Parcați bicicleta și urcați pe zidurile vechi pentru o priveliște minunată.",
+            "en": "Park your bike and climb the ancient walls for a great view."
+          }
+        },
+        {
+          "name": {
+            "de": "Imaret & Alte Moschee",
+            "hu": "Imaret és Régi Mecset",
+            "ro": "Imaretul și Moscheea Veche",
+            "en": "Imaret & Old Mosque"
+          },
+          "coords": [
+            25.4028,
+            41.121
+          ],
+          "category": "historical",
+          "arrive_at": "13:49",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Zwei wichtige historische Stätten, die die kulturelle Vielfalt der Stadt zeigen.",
+            "hu": "Két fontos történelmi helyszín, amely a város kulturális sokszínűségét mutatja be.",
+            "ro": "Două situri istorice importante care arată diversitatea culturală a orașului.",
+            "en": "Two important historical sites that showcase the city's cultural diversity."
+          }
+        },
+        {
+          "name": {
+            "de": "Neue Moschee & Uhrturm",
+            "hu": "Új Mecset és Óratorony",
+            "ro": "Moscheea Nouă și Turnul cu Ceas",
+            "en": "New Mosque & Clock Tower"
+          },
+          "coords": [
+            25.4055,
+            41.1197
+          ],
+          "category": "historical",
+          "arrive_at": "15:15",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Das Herz des osmanischen Komotinis, ideal für beeindruckende Fotos.",
+            "hu": "Komotini oszmán szívében ideális hely lenyűgöző fotók készítésére.",
+            "ro": "Inima otomană a Komotini, ideală pentru fotografii impresionante.",
+            "en": "The Ottoman heart of Komotini, ideal for impressive photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in einer Taverne",
+            "hu": "Vacsora egy tavernában",
+            "ro": "Cină la o tavernă",
+            "en": "Dinner at a Taverna"
+          },
+          "coords": [
+            25.404,
+            41.118
+          ],
+          "category": "gastro",
+          "arrive_at": "16:25",
+          "stay_min": -18,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit lokalen Spezialitäten in der Nähe des Irini-Platzes.",
+            "hu": "Zárja a napot helyi specialitásokkal az Irini tér közelében.",
+            "ro": "Încheiați ziua cu specialități locale lângă Piața Irini.",
+            "en": "End the day with local specialties near Irini Square."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Irini-Platz und machen Sie einen ersten Halt im Agia-Paraskevi-Park, um die grüne Lunge der Stadt zu genießen. Am Vormittag widmen Sie sich der reichen Geschichte in den archäologischen und volkskundlichen Museen. Nach einer Stärkung zur Mittagszeit erklimmen Sie die byzantinischen Mauern, von wo aus Sie einen weiten Blick über die Stadt haben. Der Nachmittag führt Sie durch das osmanische Erbe Komotinis, vorbei am Imaret, der Alten Moschee und schließlich zur Neuen Moschee mit ihrem markanten Uhrturm. Die Tour endet gemütlich in einer Taverne, wo Sie die thrakische Küche entdecken können.",
+        "hu": "Kezdje a kerékpártúrát az Irini téren, majd álljon meg az Agia Paraskevi Parkban, hogy élvezze a város zöld tüdejét. A délelőttöt szentelje a gazdag történelemnek a régészeti és néprajzi múzeumokban. Egy kiadós ebéd után másszon fel a bizánci falakra, ahonnan széles kilátás nyílik a városra. A délután Komotini oszmán örökségén keresztül vezet, elhaladva az Imaret, a Régi Mecset mellett, végül pedig az Új Mecsethez és jellegzetes Óratornyához ér. A túra egy hangulatos tavernában ér véget, ahol felfedezheti a trák konyhát.",
+        "ro": "Începeți turul cu bicicleta din Piața Irini și faceți o primă oprire în Parcul Agia Paraskevi pentru a vă bucura de plămânul verde al orașului. În cursul dimineții, dedicați-vă istoriei bogate la muzeele de arheologie și folclor. După un prânz revigorant, urcați pe zidurile bizantine, de unde aveți o vedere panoramică asupra orașului. După-amiaza vă poartă prin moștenirea otomană a Komotini, trecând pe la Imaret, Moscheea Veche și, în final, la Moscheea Nouă cu turnul său cu ceas distinctiv. Turul se încheie la o tavernă, unde puteți descoperi bucătăria tracică.",
+        "en": "Start your bike tour at Irini Square and make a first stop at Agia Paraskevi Park to enjoy the city's green lung. In the morning, dedicate yourself to the rich history at the archaeological and folklore museums. After a hearty lunch, climb the Byzantine walls for a wide view over the city. The afternoon takes you through Komotini's Ottoman heritage, passing the Imaret, the Old Mosque, and finally to the New Mosque with its distinctive clock tower. The tour ends comfortably at a taverna where you can discover Thracian cuisine."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Soutzoukakia",
+            "tip": "Würzige Hackfleischbällchen in Tomatensauce, ein Klassiker der Region."
+          },
+          {
+            "name": "Kavourmas",
+            "tip": "Eine lokale Spezialität aus konserviertem Fleisch, oft mit Eiern serviert."
+          },
+          {
+            "name": "Bougatsa",
+            "tip": "Ein Blätterteiggebäck, gefüllt mit Grießcreme oder Käse, perfekt zum Frühstück."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Soutzoukakia",
+            "tip": "Fűszeres húsgombócok paradicsomszószban, a régió klasszikusa."
+          },
+          {
+            "name": "Kavourmas",
+            "tip": "Helyi specialitás tartósított húsból, gyakran tojással tálalva."
+          },
+          {
+            "name": "Bougatsa",
+            "tip": "Leveles tészta búzadarával vagy sajttal töltve, tökéletes reggelire."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Soutzoukakia",
+            "tip": "Chiftele picante în sos de roșii, un clasic al regiunii."
+          },
+          {
+            "name": "Kavourmas",
+            "tip": "O specialitate locală din carne conservată, adesea servită cu ouă."
+          },
+          {
+            "name": "Bougatsa",
+            "tip": "O plăcintă din foietaj umplută cu cremă de griș sau brânză, perfectă pentru micul dejun."
+          }
+        ],
+        "en": [
+          {
+            "name": "Soutzoukakia",
+            "tip": "Spicy meatballs in tomato sauce, a regional classic."
+          },
+          {
+            "name": "Kavourmas",
+            "tip": "A local specialty of preserved meat, often served with eggs."
+          },
+          {
+            "name": "Bougatsa",
+            "tip": "A phyllo pastry filled with semolina cream or cheese, perfect for breakfast."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Agia Paraskevi Park",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die grüne Oase der Stadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hof der Alten Moschee",
+            "tip": "Ein friedlicher Ort, um dem Trubel der Stadt für einen Moment zu entkommen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Blick von der Stadtmauer",
+            "tip": "Ein ruhiger Moment mit Blick über die Dächer von Komotini.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Agia Paraskevi Park",
+            "tip": "Keressen egy csendes padot, és élvezze a város zöld oázisát.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Régi Mecset udvara",
+            "tip": "Békés hely, ahol egy pillanatra elmenekülhet a város nyüzsgésétől.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás a városfalról",
+            "tip": "Egy csendes pillanat Komotini háztetői fölött.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Agia Paraskevi",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de oaza verde a orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea Moscheii Vechi",
+            "tip": "Un loc pașnic pentru a scăpa de agitația orașului pentru un moment.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vedere de pe zidurile cetății",
+            "tip": "Un moment de liniște cu vedere peste acoperișurile din Komotini.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Agia Paraskevi Park",
+            "tip": "Find a quiet bench and enjoy the city's green oasis.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Courtyard of the Old Mosque",
+            "tip": "A peaceful spot to escape the city bustle for a moment.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from the Fortress Wall",
+            "tip": "A quiet moment overlooking the rooftops of Komotini.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Städtischer Markt",
+            "tip": "Kaufen Sie lokale Produkte wie Oliven, Käse und den berühmten Kavourmas."
+          },
+          {
+            "name": "Ermou Straße",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus lokalen und nationalen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi piac",
+            "tip": "Vásároljon helyi termékeket, például olajbogyót, sajtot és a híres Kavourmast."
+          },
+          {
+            "name": "Ermou utca",
+            "tip": "A fő bevásárlóutca helyi és országos üzletek keverékével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Municipală",
+            "tip": "Cumpărați produse locale precum măsline, brânză și faimosul Kavourmas."
+          },
+          {
+            "name": "Strada Ermou",
+            "tip": "Principala stradă comercială cu un amestec de magazine locale și naționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Municipal Market",
+            "tip": "Shop for local products like olives, cheese, and the famous Kavourmas."
+          },
+          {
+            "name": "Ermou Street",
+            "tip": "The main shopping street with a mix of local and national stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Schließen Sie Ihr Fahrrad immer gut ab, besonders in belebten Gegenden.",
+          "Die Innenstadt ist kompakt, aber ein Fahrrad ermöglicht es Ihnen, auch die äußeren Viertel zu erkunden.",
+          "Nutzen Sie die Radwege, wo verfügbar, um sicher zu fahren.",
+          "Einige Einbahnstraßen könnten für Radfahrer in beide Richtungen offen sein, achten Sie auf die Beschilderung."
+        ],
+        "hu": [
+          "Mindig zárja le jól a kerékpárját, különösen a forgalmas területeken.",
+          "A belváros kompakt, de a kerékpár lehetővé teszi a külső negyedek felfedezését is.",
+          "Használja a kerékpárutakat, ahol elérhetők, a biztonságos közlekedés érdekében.",
+          "Néhány egyirányú utca nyitva állhat a kerékpárosok számára mindkét irányban, figyeljen a táblákra."
+        ],
+        "ro": [
+          "Asigurați-vă întotdeauna bicicleta, mai ales în zonele aglomerate.",
+          "Centrul orașului este compact, dar o bicicletă vă permite să explorați și cartierele exterioare.",
+          "Folosiți pistele de biciclete acolo unde sunt disponibile pentru a călători în siguranță.",
+          "Unele străzi cu sens unic pot fi deschise pentru bicicliști în ambele sensuri, fiți atenți la semnalizare."
+        ],
+        "en": [
+          "Always lock your bike securely, especially in busy areas.",
+          "The city center is compact, but a bike allows you to explore the outer neighborhoods as well.",
+          "Use bike lanes where available for safe riding.",
+          "Some one-way streets might be open for cyclists in both directions, pay attention to the signs."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 6.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken am Archäologischen Museum",
+            "hu": "Parkolás a Régészeti Múzeumnál",
+            "ro": "Parcare la Muzeul de Arheologie",
+            "en": "Parking at the Archaeological Museum"
+          },
+          "coords": [
+            25.408,
+            41.122
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag in diesem Cluster. Hier gibt es oft Parkplätze.",
+            "hu": "Kezdje a napot ebben a negyedben. Gyakran található itt parkolóhely.",
+            "ro": "Începeți ziua în acest cluster. Există adesea locuri de parcare aici.",
+            "en": "Start your day in this cluster. Parking is often available here."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            25.4082,
+            41.1222
+          ],
+          "category": "museums",
+          "arrive_at": "09:12",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte Thrakiens, von prähistorischen bis zu römischen Zeiten.",
+            "hu": "Fedezze fel Trákia gazdag történelmét az őskortól a római korig.",
+            "ro": "Descoperiți istoria bogată a Traciei, din preistorie până în epoca romană.",
+            "en": "Discover the rich history of Thrace, from prehistoric to Roman times."
+          }
+        },
+        {
+          "name": {
+            "de": "Volkskundemuseum",
+            "hu": "Népművészeti Múzeum",
+            "ro": "Muzeul de Folclor",
+            "en": "Folklore Museum"
+          },
+          "coords": [
+            25.4085,
+            41.1225
+          ],
+          "category": "museums",
+          "arrive_at": "10:54",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erhalten Sie einen Einblick in das traditionelle Leben und die Kultur der Region.",
+            "hu": "Nyerjen betekintést a régió hagyományos életébe és kultúrájába.",
+            "ro": "Obțineți o perspectivă asupra vieții tradiționale și a culturii regiunii.",
+            "en": "Get an insight into the traditional life and culture of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt und Parken am Stadtzentrum",
+            "hu": "Utazás és parkolás a központban",
+            "ro": "Deplasare și parcare în centrul orașului",
+            "en": "Drive and Park in the City Center"
+          },
+          "coords": [
+            25.4045,
+            41.1185
+          ],
+          "category": "transport",
+          "arrive_at": "12:24",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Irini-Platzes, um das historische Herz zu erkunden.",
+            "hu": "Parkoljon az Irini tér közelében a történelmi központ felfedezéséhez.",
+            "ro": "Parcați lângă Piața Irini pentru a explora inima istorică.",
+            "en": "Park near Irini Square to explore the historic heart."
+          }
+        },
+        {
+          "name": {
+            "de": "Platz des Friedens & Mittagessen",
+            "hu": "Béke tér és ebéd",
+            "ro": "Piața Păcii și prânz",
+            "en": "Peace Square & Lunch"
+          },
+          "coords": [
+            25.4053,
+            41.1189
+          ],
+          "category": "gastro",
+          "arrive_at": "12:26",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie ein Mittagessen in einer der Tavernen rund um den Platz.",
+            "hu": "Ebédeljen a tér körüli egyik tavernában.",
+            "ro": "Bucurați-vă de prânz la una dintre tavernele din jurul pieței.",
+            "en": "Enjoy lunch at one of the tavernas around the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Neue Moschee & Uhrturm",
+            "hu": "Új Mecset és Óratorony",
+            "ro": "Moscheea Nouă și Turnul cu Ceas",
+            "en": "New Mosque & Clock Tower"
+          },
+          "coords": [
+            25.4055,
+            41.1197
+          ],
+          "category": "historical",
+          "arrive_at": "13:48",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang führt Sie zu diesen Wahrzeichen des osmanischen Erbes.",
+            "hu": "Egy rövid séta elvezeti Önt az oszmán örökség ezen nevezetességeihez.",
+            "ro": "O scurtă plimbare vă duce la aceste repere ale moștenirii otomane.",
+            "en": "A short walk takes you to these landmarks of Ottoman heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Agia Paraskevi Park",
+            "hu": "Utazás az Agia Paraskevi Parkba",
+            "ro": "Deplasare la Parcul Agia Paraskevi",
+            "en": "Drive to Agia Paraskevi Park"
+          },
+          "coords": [
+            25.412,
+            41.12
+          ],
+          "category": "parks",
+          "arrive_at": "14:38",
+          "stay_min": 75,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Stadtpark für eine entspannte Pause am Nachmittag.",
+            "hu": "Hajtson a városi parkba egy pihentető délutáni szünetre.",
+            "ro": "Conduceți spre parcul orașului pentru o pauză relaxantă de după-amiază.",
+            "en": "Drive to the city park for a relaxing afternoon break."
+          }
+        },
+        {
+          "name": {
+            "de": "Byzantinische Stadtmauer",
+            "hu": "Bizánci városfal",
+            "ro": "Zidul Cetății Bizantine",
+            "en": "Byzantine Fortress Wall"
+          },
+          "coords": [
+            25.401,
+            41.123
+          ],
+          "category": "fortress",
+          "arrive_at": "16:03",
+          "stay_min": 62,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Besuch der alten Festungsmauern.",
+            "hu": "Zárja a napot a régi erődítmény falainak meglátogatásával.",
+            "ro": "Încheiați ziua cu o vizită la zidurile vechii cetăți.",
+            "en": "End the day with a visit to the old fortress walls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Museumsviertel, wo Sie bequem parken können, um das Archäologische und das Volkskundemuseum zu Fuß zu erkunden. Am Vormittag tauchen Sie tief in die Geschichte und Kultur Thrakiens ein. Zur Mittagszeit fahren Sie ins Stadtzentrum, parken in der Nähe des Irini-Platzes und genießen ein authentisches griechisches Mittagessen. Der Nachmittag ist einem Spaziergang durch das osmanische Viertel gewidmet, mit Besuchen der Neuen Moschee und des Uhrturms. Später fahren Sie zum Agia-Paraskevi-Park für eine grüne Pause, bevor Sie den Tag mit einem Blick auf die byzantinischen Mauern abschließen.",
+        "hu": "Kezdje a napot a múzeumi negyedben, ahol kényelmesen parkolhat, hogy gyalog fedezze fel a Régészeti és Népművészeti Múzeumot. A délelőtt folyamán mélyen elmerülhet Trákia történelmében és kultúrájában. Délben autózzon be a városközpontba, parkoljon le az Irini tér közelében, és fogyasszon el egy autentikus görög ebédet. A délután az oszmán negyedben tett sétáról szól, meglátogatva az Új Mecsetet és az Óratornyot. Később hajtson el az Agia Paraskevi Parkba egy zöld szünetért, mielőtt a bizánci falak megtekintésével zárja a napot.",
+        "ro": "Începeți ziua în cartierul muzeelor, unde puteți parca convenabil pentru a explora pe jos Muzeul de Arheologie și cel de Folclor. Dimineața, vă veți adânci în istoria și cultura Traciei. La prânz, conduceți spre centrul orașului, parcați lângă Piața Irini și bucurați-vă de un prânz autentic grecesc. După-amiaza este dedicată unei plimbări prin cartierul otoman, vizitând Moscheea Nouă și Turnul cu Ceas. Mai târziu, mergeți cu mașina la Parcul Agia Paraskevi pentru o pauză verde, înainte de a încheia ziua cu o privire la zidurile bizantine.",
+        "en": "Start your day in the museum district, where you can park conveniently to explore the Archaeological and Folklore Museums on foot. In the morning, you'll delve deep into the history and culture of Thrace. At noon, drive to the city center, park near Irini Square, and enjoy an authentic Greek lunch. The afternoon is dedicated to a stroll through the Ottoman quarter, visiting the New Mosque and Clock Tower. Later, drive to Agia Paraskevi Park for a green break before ending the day with a view of the Byzantine walls."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Soutzoukakia",
+            "tip": "Würzige Hackfleischbällchen in Tomatensauce, ein Klassiker der Region."
+          },
+          {
+            "name": "Kavourmas",
+            "tip": "Eine lokale Spezialität aus konserviertem Fleisch, oft mit Eiern serviert."
+          },
+          {
+            "name": "Bougatsa",
+            "tip": "Ein Blätterteiggebäck, gefüllt mit Grießcreme oder Käse, perfekt zum Frühstück."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Soutzoukakia",
+            "tip": "Fűszeres húsgombócok paradicsomszószban, a régió klasszikusa."
+          },
+          {
+            "name": "Kavourmas",
+            "tip": "Helyi specialitás tartósított húsból, gyakran tojással tálalva."
+          },
+          {
+            "name": "Bougatsa",
+            "tip": "Leveles tészta búzadarával vagy sajttal töltve, tökéletes reggelire."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Soutzoukakia",
+            "tip": "Chiftele picante în sos de roșii, un clasic al regiunii."
+          },
+          {
+            "name": "Kavourmas",
+            "tip": "O specialitate locală din carne conservată, adesea servită cu ouă."
+          },
+          {
+            "name": "Bougatsa",
+            "tip": "O plăcintă din foietaj umplută cu cremă de griș sau brânză, perfectă pentru micul dejun."
+          }
+        ],
+        "en": [
+          {
+            "name": "Soutzoukakia",
+            "tip": "Spicy meatballs in tomato sauce, a regional classic."
+          },
+          {
+            "name": "Kavourmas",
+            "tip": "A local specialty of preserved meat, often served with eggs."
+          },
+          {
+            "name": "Bougatsa",
+            "tip": "A phyllo pastry filled with semolina cream or cheese, perfect for breakfast."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Agia Paraskevi Park",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die grüne Oase der Stadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hof der Alten Moschee",
+            "tip": "Ein friedlicher Ort, um dem Trubel der Stadt für einen Moment zu entkommen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Blick von der Stadtmauer",
+            "tip": "Ein ruhiger Moment mit Blick über die Dächer von Komotini.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Agia Paraskevi Park",
+            "tip": "Keressen egy csendes padot, és élvezze a város zöld oázisát.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Régi Mecset udvara",
+            "tip": "Békés hely, ahol egy pillanatra elmenekülhet a város nyüzsgésétől.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás a városfalról",
+            "tip": "Egy csendes pillanat Komotini háztetői fölött.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Agia Paraskevi",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de oaza verde a orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea Moscheii Vechi",
+            "tip": "Un loc pașnic pentru a scăpa de agitația orașului pentru un moment.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vedere de pe zidurile cetății",
+            "tip": "Un moment de liniște cu vedere peste acoperișurile din Komotini.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Agia Paraskevi Park",
+            "tip": "Find a quiet bench and enjoy the city's green oasis.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Courtyard of the Old Mosque",
+            "tip": "A peaceful spot to escape the city bustle for a moment.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from the Fortress Wall",
+            "tip": "A quiet moment overlooking the rooftops of Komotini.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Städtischer Markt",
+            "tip": "Kaufen Sie lokale Produkte wie Oliven, Käse und den berühmten Kavourmas."
+          },
+          {
+            "name": "Ermou Straße",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus lokalen und nationalen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi piac",
+            "tip": "Vásároljon helyi termékeket, például olajbogyót, sajtot és a híres Kavourmast."
+          },
+          {
+            "name": "Ermou utca",
+            "tip": "A fő bevásárlóutca helyi és országos üzletek keverékével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Municipală",
+            "tip": "Cumpărați produse locale precum măsline, brânză și faimosul Kavourmas."
+          },
+          {
+            "name": "Strada Ermou",
+            "tip": "Principala stradă comercială cu un amestec de magazine locale și naționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Municipal Market",
+            "tip": "Shop for local products like olives, cheese, and the famous Kavourmas."
+          },
+          {
+            "name": "Ermou Street",
+            "tip": "The main shopping street with a mix of local and national stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum kann schwierig sein; nutzen Sie ausgewiesene Parkplätze oder -häuser.",
+          "Planen Sie Ihre Route im Voraus, um Einbahnstraßen und verkehrsberuhigte Zonen zu vermeiden.",
+          "Lassen Sie keine Wertsachen sichtbar im Auto liegen.",
+          "Ein Auto gibt Ihnen die Flexibilität, auch Ziele außerhalb des Stadtzentrums zu besuchen."
+        ],
+        "hu": [
+          "A parkolás a városközpontban nehézkes lehet; használja a kijelölt parkolókat vagy parkolóházakat.",
+          "Tervezze meg előre az útvonalat, hogy elkerülje az egyirányú utcákat és a forgalomcsillapított övezeteket.",
+          "Ne hagyjon értéktárgyakat látható helyen az autóban.",
+          "Az autó rugalmasságot ad ahhoz, hogy a városközponton kívüli célpontokat is meglátogassa."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi dificilă; folosiți parcările desemnate sau garajele.",
+          "Planificați-vă traseul în avans pentru a evita străzile cu sens unic și zonele cu trafic restricționat.",
+          "Nu lăsați obiecte de valoare la vedere în mașină.",
+          "O mașină vă oferă flexibilitatea de a vizita și destinații din afara centrului orașului."
+        ],
+        "en": [
+          "Parking in the city center can be difficult; use designated parking lots or garages.",
+          "Plan your route in advance to avoid one-way streets and traffic-calmed zones.",
+          "Do not leave valuables visible in the car.",
+          "A car gives you the flexibility to visit destinations outside the city center as well."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 3.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Irini-Platz",
+            "hu": "Érkezés az Irini térre",
+            "ro": "Sosire în Piața Irini",
+            "en": "Arrival at Irini Square"
+          },
+          "coords": [
+            25.4053,
+            41.1189
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Viele Buslinien halten hier, ein perfekter Startpunkt.",
+            "hu": "Sok buszjárat megáll itt, tökéletes kiindulópont.",
+            "ro": "Multe linii de autobuz opresc aici, un punct de plecare perfect.",
+            "en": "Many bus lines stop here, making it a perfect starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Neue Moschee & Uhrturm",
+            "hu": "Új Mecset és Óratorony",
+            "ro": "Moscheea Nouă și Turnul cu Ceas",
+            "en": "New Mosque & Clock Tower"
+          },
+          "coords": [
+            25.4055,
+            41.1197
+          ],
+          "category": "historical",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang vom Platz entfernt.",
+            "hu": "Csak egy rövid sétára a tértől.",
+            "ro": "La doar o scurtă plimbare de piață.",
+            "en": "Just a short walk from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Moschee & Imaret",
+            "hu": "Régi Mecset és Imaret",
+            "ro": "Moscheea Veche și Imaretul",
+            "en": "Old Mosque & Imaret"
+          },
+          "coords": [
+            25.4028,
+            41.121
+          ],
+          "category": "historical",
+          "arrive_at": "10:21",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Setzen Sie Ihren Spaziergang durch das historische Viertel fort.",
+            "hu": "Folytassa sétáját a történelmi negyedben.",
+            "ro": "Continuați-vă plimbarea prin cartierul istoric.",
+            "en": "Continue your walk through the historical quarter."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Museumsviertel",
+            "hu": "Buszozás a múzeumi negyedbe",
+            "ro": "Călătorie cu autobuzul spre cartierul muzeelor",
+            "en": "Bus ride to the Museum District"
+          },
+          "coords": [
+            25.408,
+            41.122
+          ],
+          "category": "transport",
+          "arrive_at": "11:51",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus für die kurze Fahrt.",
+            "hu": "A rövid útra vegyen igénybe egy helyi buszt.",
+            "ro": "Luați un autobuz local pentru scurta călătorie.",
+            "en": "Take a local bus for the short ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum & Mittagessen",
+            "hu": "Régészeti Múzeum és ebéd",
+            "ro": "Muzeul de Arheologie și prânz",
+            "en": "Archaeological Museum & Lunch"
+          },
+          "coords": [
+            25.4082,
+            41.1222
+          ],
+          "category": "museums",
+          "arrive_at": "11:53",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Museumsbesuch mit einer Mittagspause in der Nähe.",
+            "hu": "Kombinálja a múzeumlátogatást egy közeli ebédszünettel.",
+            "ro": "Combinați vizita la muzeu cu o pauză de prânz în apropiere.",
+            "en": "Combine the museum visit with a lunch break nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Agia Paraskevi Park",
+            "hu": "Buszozás az Agia Paraskevi Parkba",
+            "ro": "Călătorie cu autobuzul la Parcul Agia Paraskevi",
+            "en": "Bus ride to Agia Paraskevi Park"
+          },
+          "coords": [
+            25.412,
+            41.12
+          ],
+          "category": "parks",
+          "arrive_at": "13:41",
+          "stay_min": 75,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Eine kurze Busfahrt bringt Sie zur grünen Oase der Stadt.",
+            "hu": "Egy rövid buszút elviszi a város zöld oázisába.",
+            "ro": "O scurtă călătorie cu autobuzul vă duce la oaza verde a orașului.",
+            "en": "A short bus ride takes you to the city's green oasis."
+          }
+        },
+        {
+          "name": {
+            "de": "Byzantinische Stadtmauer",
+            "hu": "Bizánci városfal",
+            "ro": "Zidul Cetății Bizantine",
+            "en": "Byzantine Fortress Wall"
+          },
+          "coords": [
+            25.401,
+            41.123
+          ],
+          "category": "fortress",
+          "arrive_at": "15:08",
+          "stay_min": 116,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein Spaziergang vom Park führt Sie zu den historischen Überresten.",
+            "hu": "A parkból egy séta vezet a történelmi maradványokhoz.",
+            "ro": "O plimbare de la parc vă duce la vestigiile istorice.",
+            "en": "A walk from the park leads you to the historical remains."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt am zentralen Irini-Platz. Von hier aus erkunden Sie das osmanische Viertel zu Fuß, einschließlich der Moscheen und des Uhrturms. Ein kurzer Spaziergang führt Sie weiter zum Imaret. Am Vormittag nehmen Sie einen Bus zum Museumsviertel, wo Sie nach dem Besuch des Archäologischen Museums zu Mittag essen. Eine weitere kurze Busfahrt bringt Sie am Nachmittag zum Agia-Paraskevi-Park, um sich zu entspannen. Der Tag endet mit einem Spaziergang vom Park zu den byzantinischen Mauern, die einen letzten Einblick in die reiche Geschichte Komotinis bieten.",
+        "hu": "Tömegközlekedéssel töltött napja a központi Irini téren kezdődik. Innen gyalogosan fedezi fel az oszmán negyedet, beleértve a mecseteket és az Óratornyot. Egy rövid séta vezet tovább az Imarethez. Délelőtt busszal utazik a múzeumi negyedbe, ahol a Régészeti Múzeum meglátogatása után ebédel. Egy másik rövid buszút viszi délután az Agia Paraskevi Parkba pihenni. A nap a parkból a bizánci falakhoz tett sétával ér véget, amely utolsó bepillantást nyújt Komotini gazdag történelmébe.",
+        "ro": "Ziua dvs. cu transportul public începe în Piața centrală Irini. De aici, explorați cartierul otoman pe jos, inclusiv moscheile și Turnul cu Ceas. O scurtă plimbare vă duce mai departe la Imaret. În cursul dimineții, luați un autobuz spre cartierul muzeelor, unde luați prânzul după vizitarea Muzeului de Arheologie. O altă călătorie scurtă cu autobuzul vă duce după-amiaza la Parcul Agia Paraskevi pentru relaxare. Ziua se încheie cu o plimbare de la parc la zidurile bizantine, oferind o ultimă privire asupra istoriei bogate a orașului Komotini.",
+        "en": "Your day using public transport begins at the central Irini Square. From here, you'll explore the Ottoman quarter on foot, including the mosques and the Clock Tower. A short walk takes you further to the Imaret. In the morning, you'll take a bus to the museum district, where you'll have lunch after visiting the Archaeological Museum. Another short bus ride takes you to Agia Paraskevi Park in the afternoon for relaxation. The day concludes with a walk from the park to the Byzantine walls, offering a final glimpse into Komotini's rich history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Soutzoukakia",
+            "tip": "Würzige Hackfleischbällchen in Tomatensauce, ein Klassiker der Region."
+          },
+          {
+            "name": "Kavourmas",
+            "tip": "Eine lokale Spezialität aus konserviertem Fleisch, oft mit Eiern serviert."
+          },
+          {
+            "name": "Bougatsa",
+            "tip": "Ein Blätterteiggebäck, gefüllt mit Grießcreme oder Käse, perfekt zum Frühstück."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Soutzoukakia",
+            "tip": "Fűszeres húsgombócok paradicsomszószban, a régió klasszikusa."
+          },
+          {
+            "name": "Kavourmas",
+            "tip": "Helyi specialitás tartósított húsból, gyakran tojással tálalva."
+          },
+          {
+            "name": "Bougatsa",
+            "tip": "Leveles tészta búzadarával vagy sajttal töltve, tökéletes reggelire."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Soutzoukakia",
+            "tip": "Chiftele picante în sos de roșii, un clasic al regiunii."
+          },
+          {
+            "name": "Kavourmas",
+            "tip": "O specialitate locală din carne conservată, adesea servită cu ouă."
+          },
+          {
+            "name": "Bougatsa",
+            "tip": "O plăcintă din foietaj umplută cu cremă de griș sau brânză, perfectă pentru micul dejun."
+          }
+        ],
+        "en": [
+          {
+            "name": "Soutzoukakia",
+            "tip": "Spicy meatballs in tomato sauce, a regional classic."
+          },
+          {
+            "name": "Kavourmas",
+            "tip": "A local specialty of preserved meat, often served with eggs."
+          },
+          {
+            "name": "Bougatsa",
+            "tip": "A phyllo pastry filled with semolina cream or cheese, perfect for breakfast."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Agia Paraskevi Park",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die grüne Oase der Stadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hof der Alten Moschee",
+            "tip": "Ein friedlicher Ort, um dem Trubel der Stadt für einen Moment zu entkommen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Blick von der Stadtmauer",
+            "tip": "Ein ruhiger Moment mit Blick über die Dächer von Komotini.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Agia Paraskevi Park",
+            "tip": "Keressen egy csendes padot, és élvezze a város zöld oázisát.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Régi Mecset udvara",
+            "tip": "Békés hely, ahol egy pillanatra elmenekülhet a város nyüzsgésétől.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás a városfalról",
+            "tip": "Egy csendes pillanat Komotini háztetői fölött.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Agia Paraskevi",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de oaza verde a orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea Moscheii Vechi",
+            "tip": "Un loc pașnic pentru a scăpa de agitația orașului pentru un moment.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vedere de pe zidurile cetății",
+            "tip": "Un moment de liniște cu vedere peste acoperișurile din Komotini.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Agia Paraskevi Park",
+            "tip": "Find a quiet bench and enjoy the city's green oasis.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Courtyard of the Old Mosque",
+            "tip": "A peaceful spot to escape the city bustle for a moment.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from the Fortress Wall",
+            "tip": "A quiet moment overlooking the rooftops of Komotini.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Städtischer Markt",
+            "tip": "Kaufen Sie lokale Produkte wie Oliven, Käse und den berühmten Kavourmas."
+          },
+          {
+            "name": "Ermou Straße",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus lokalen und nationalen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi piac",
+            "tip": "Vásároljon helyi termékeket, például olajbogyót, sajtot és a híres Kavourmast."
+          },
+          {
+            "name": "Ermou utca",
+            "tip": "A fő bevásárlóutca helyi és országos üzletek keverékével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Municipală",
+            "tip": "Cumpărați produse locale precum măsline, brânză și faimosul Kavourmas."
+          },
+          {
+            "name": "Strada Ermou",
+            "tip": "Principala stradă comercială cu un amestec de magazine locale și naționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Municipal Market",
+            "tip": "Shop for local products like olives, cheese, and the famous Kavourmas."
+          },
+          {
+            "name": "Ermou Street",
+            "tip": "The main shopping street with a mix of local and national stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, besonders an Wochenenden und Feiertagen.",
+          "Halten Sie Kleingeld für Bustickets bereit, die oft beim Fahrer gekauft werden.",
+          "Die meisten Sehenswürdigkeiten sind von den Bushaltestellen aus leicht zu Fuß erreichbar."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy pénzt takarítson meg.",
+          "Ellenőrizze előre a buszmenetrendet, különösen hétvégén és ünnepnapokon.",
+          "Készítsen elő aprópénzt a buszjegyekhez, amelyeket gyakran a sofőrnél lehet megvásárolni.",
+          "A legtöbb látnivaló könnyen megközelíthető gyalog a buszmegállóktól."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru a economisi bani.",
+          "Verificați orarele autobuzelor în avans, mai ales în weekend și de sărbători.",
+          "Pregătiți mărunțiș pentru biletele de autobuz, care sunt adesea cumpărate de la șofer.",
+          "Majoritatea atracțiilor sunt ușor accesibile pe jos de la stațiile de autobuz."
+        ],
+        "en": [
+          "Buy a daily bus pass to save money.",
+          "Check bus schedules in advance, especially on weekends and holidays.",
+          "Have small change ready for bus tickets, which are often purchased from the driver.",
+          "Most sights are within easy walking distance from the bus stops."
+        ]
+      }
+    }
+  }
+}

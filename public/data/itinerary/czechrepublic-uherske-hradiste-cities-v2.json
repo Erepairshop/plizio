@@ -1,0 +1,1477 @@
+{
+  "city_id": "czechrepublic-uherske-hradiste-cities-v2",
+  "anchor": {
+    "name": "Ungarisch Hradisch",
+    "coords": [
+      17.4597,
+      49.0683
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 2.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Masaryk-Platz",
+            "hu": "Masaryk tér",
+            "ro": "Piața Masaryk",
+            "en": "Masaryk Square"
+          },
+          "coords": [
+            17.4595,
+            49.0695
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee in einem der Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában!",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
+            "en": "Start your day with a coffee at one of the square's cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Rathaus",
+            "hu": "Régi Városháza",
+            "ro": "Vechea Primărie",
+            "en": "Old Town Hall"
+          },
+          "coords": [
+            17.4588,
+            49.0692
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:44",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf die astronomische Uhr am Turm.",
+            "hu": "Figyelje meg a torony csillagászati óráját!",
+            "ro": "Observați ceasul astronomic de pe turn.",
+            "en": "Look for the astronomical clock on the tower."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Franziskus-Xaverius-Kirche",
+            "hu": "Xavéri Szent Ferenc-templom",
+            "ro": "Biserica Sfântul Francisc Xavier",
+            "en": "St. Francis Xavier Church"
+          },
+          "coords": [
+            17.4601,
+            49.0701
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden Deckenfresken im Inneren.",
+            "hu": "Csodálja meg a lenyűgöző mennyezeti freskókat!",
+            "ro": "Admirați frescele impresionante de pe tavanul din interior.",
+            "en": "Admire the impressive ceiling frescoes inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Apotheke zum Goldenen Kranz",
+            "hu": "Arany Koszorú Gyógyszertár",
+            "ro": "Farmacia Coroana de Aur",
+            "en": "Golden Wreath Pharmacy"
+          },
+          "coords": [
+            17.4608,
+            49.0698
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:01",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Eine der ältesten Apotheken der Region mit einer wunderschönen Fassade.",
+            "hu": "A régió egyik legrégebbi gyógyszertára, gyönyörű homlokzattal.",
+            "ro": "Una dintre cele mai vechi farmacii din regiune, cu o fațadă frumoasă.",
+            "en": "One of the oldest pharmacies in the region with a beautiful facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Synagoge",
+            "hu": "Zsinagóga",
+            "ro": "Sinagoga",
+            "en": "Synagogue"
+          },
+          "coords": [
+            17.4625,
+            49.068
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:31",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Dient heute als Kulturzentrum und Bibliothek, schauen Sie nach Veranstaltungen.",
+            "hu": "Ma kulturális központként és könyvtárként működik, nézzen utána a programoknak.",
+            "ro": "Astăzi servește drept centru cultural și bibliotecă; verificați evenimentele.",
+            "en": "Today it serves as a cultural center and library; check for events."
+          }
+        },
+        {
+          "name": {
+            "de": "Mährisch-Slowakisches Museum",
+            "hu": "Morva-Szlovák Múzeum",
+            "ro": "Muzeul Slovaciei Moravene",
+            "en": "Museum of Moravian Slovakia"
+          },
+          "coords": [
+            17.465,
+            49.0665
+          ],
+          "category": "museums",
+          "arrive_at": "12:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Perfekt, um die reiche Folklore und die Traditionen der Region zu verstehen.",
+            "hu": "Tökéletes hely a régió gazdag folklórjának és hagyományainak megismerésére.",
+            "ro": "Perfect pentru a înțelege folclorul bogat și tradițiile regiunii.",
+            "en": "Perfect for understanding the region's rich folklore and traditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Franziskanerkloster",
+            "hu": "Ferences kolostor",
+            "ro": "Mănăstirea Franciscană",
+            "en": "Franciscan Monastery"
+          },
+          "coords": [
+            17.456,
+            49.067
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:11",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Ein Ort der Ruhe mit einem schönen Innenhof.",
+            "hu": "A nyugalom szigete egy gyönyörű belső udvarral.",
+            "ro": "Un loc de liniște, cu o curte interioară frumoasă.",
+            "en": "A place of peace with a beautiful courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Smetana-Park",
+            "hu": "Smetana park",
+            "ro": "Parcul Smetana",
+            "en": "Smetana Park"
+          },
+          "coords": [
+            17.4678,
+            49.063
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Ende des Tages am Ufer des Flusses Morava.",
+            "hu": "Pihenjen a nap végén a Morva folyó partján!",
+            "ro": "Relaxați-vă la sfârșitul zilei pe malul râului Morava.",
+            "en": "Relax at the end of the day on the banks of the Morava River."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang beginnt am lebhaften Masaryk-Platz, dem Herzen der Stadt. Am Vormittag erkunden Sie die architektonischen Juwelen des Zentrums, wie das Alte Rathaus und die prächtige St.-Franziskus-Xaverius-Kirche. Der Mittag führt Sie ins Mährisch-Slowakische Museum, wo Sie tief in die Kultur der Region eintauchen. Nachmittags schlendern Sie durch ruhigere Gassen zum Franziskanerkloster. Der Tag klingt entspannt im Smetana-Park aus, wo Sie die Eindrücke am Flussufer Revue passieren lassen.",
+        "hu": "Sétája a város szívében, a nyüzsgő Masaryk téren kezdődik. Délelőtt a központ építészeti gyöngyszemeit fedezi fel, mint a Régi Városházát és a pompás Xavéri Szent Ferenc-templomot. Délben a Morva-Szlovák Múzeumba látogat, ahol elmélyülhet a régió kultúrájában. Délután csendesebb utcákon sétál a Ferences kolostorhoz. A nap a Smetana parkban ér véget, ahol a folyóparton pihenve idézheti fel az élményeket.",
+        "ro": "Plimbarea dumneavoastră începe în vibranta Piață Masaryk, inima orașului. Dimineața explorați bijuteriile arhitecturale ale centrului, precum Vechea Primărie și splendida Biserică Sf. Francisc Xavier. La prânz, vizitați Muzeul Slovaciei Moravene pentru o imersiune în cultura locală. După-amiaza vă poartă pe alei mai liniștite către Mănăstirea Franciscană. Ziua se încheie relaxant în Parcul Smetana, pe malul râului, unde puteți reflecta la experiențele trăite.",
+        "en": "Your walk begins in the lively Masaryk Square, the heart of the city. In the morning, you'll explore the architectural gems of the center, like the Old Town Hall and the magnificent St. Francis Xavier Church. Midday takes you to the Museum of Moravian Slovakia for a deep dive into the region's culture. The afternoon leads you through quieter streets to the Franciscan Monastery. The day concludes with a relaxing time in Smetana Park, reflecting on your experiences by the river."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Ein klassisches tschechisches Gericht, Rinderlende in Sahnesoße mit Knödeln."
+          },
+          {
+            "name": "Mährischer Spatz (Moravský vrabec)",
+            "tip": "Gebratene Schweinefleischstücke, serviert mit Kraut und Knödeln."
+          },
+          {
+            "name": "Lokaler Weißwein",
+            "tip": "Probieren Sie einen Riesling oder Müller-Thurgau aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Klasszikus cseh étel, vadas marhaszelet tejszínes mártással és knédlivel."
+          },
+          {
+            "name": "Morva veréb (Moravský vrabec)",
+            "tip": "Sült sertéshús darabok káposztával és knédlivel tálalva."
+          },
+          {
+            "name": "Helyi fehérbor",
+            "tip": "Kóstoljon meg egy helyi rizlinget vagy Müller-Thurgaut."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Un fel de mâncare ceh clasic, mușchi de vită în sos de smântână cu găluște."
+          },
+          {
+            "name": "Moravský vrabec",
+            "tip": "Bucăți de carne de porc prăjită, servite cu varză și găluște."
+          },
+          {
+            "name": "Vin alb local",
+            "tip": "Încercați un Riesling sau Müller-Thurgau din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "A classic Czech dish, beef sirloin in a cream sauce with dumplings."
+          },
+          {
+            "name": "Moravian Sparrow (Moravský vrabec)",
+            "tip": "Roasted pork pieces served with cabbage and dumplings."
+          },
+          {
+            "name": "Local White Wine",
+            "tip": "Try a Riesling or Müller-Thurgau from the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Smetana-Park",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses Morava.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hof des Franziskanerklosters",
+            "tip": "Ein abgeschiedener Ort der Stille im Stadtzentrum.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Marienplatz",
+            "tip": "Ein kleinerer, oft übersehener Platz, ideal für eine kurze Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smetana park",
+            "tip": "Csendes séta a Morva folyó mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Ferences kolostor udvara",
+            "tip": "Egy eldugott, csendes hely a városközpontban.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Mária tér",
+            "tip": "Egy kisebb, gyakran figyelmen kívül hagyott tér, ideális egy rövid szünetre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Smetana",
+            "tip": "O plimbare liniștită de-a lungul râului Morava.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea Mănăstirii Franciscane",
+            "tip": "Un loc retras de liniște în centrul orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Piața Maria",
+            "tip": "O piață mai mică, adesea trecută cu vederea, ideală pentru o scurtă pauză.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Smetana Park",
+            "tip": "A quiet walk along the Morava River.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Courtyard of the Franciscan Monastery",
+            "tip": "A secluded spot of tranquility in the city center.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "St. Mary's Square (Marienplatz)",
+            "tip": "A smaller, often overlooked square, ideal for a short break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mährisch-Slowakische Handwerkskunst",
+            "tip": "Suchen Sie nach handbemalter Keramik oder traditionellen Trachtenpuppen."
+          },
+          {
+            "name": "Lokaler Markt",
+            "tip": "Probieren Sie hausgemachten Käse und Wurstwaren auf dem Bauernmarkt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Morva-szlovák kézműves termékek",
+            "tip": "Keressen kézzel festett kerámiát vagy hagyományos népviseleti babákat."
+          },
+          {
+            "name": "Helyi piac",
+            "tip": "Kóstoljon házi sajtot és kolbászt a termelői piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat din Slovacia Moravă",
+            "tip": "Căutați ceramică pictată manual sau păpuși în costume tradiționale."
+          },
+          {
+            "name": "Piața locală",
+            "tip": "Încercați brânzeturi și mezeluri de casă de la piața fermierilor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Moravian-Slovak Handicrafts",
+            "tip": "Look for hand-painted ceramics or traditional folk costume dolls."
+          },
+          {
+            "name": "Local Market",
+            "tip": "Try homemade cheeses and sausages at the farmers' market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum Kopfsteinpflaster hat.",
+          "Die meisten Sehenswürdigkeiten sind sehr nah beieinander, ein Spaziergang ist der beste Weg, die Stadt zu erleben.",
+          "Nehmen Sie sich Zeit für einen Kaffee und beobachten Sie das Leben auf dem Masaryk-Platz."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a belváros macskaköves.",
+          "A legtöbb látnivaló nagyon közel van egymáshoz, a séta a legjobb módja a város felfedezésének.",
+          "Szánjon időt egy kávéra, és figyelje az életet a Masaryk téren."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul orașului este pavat cu piatră cubică.",
+          "Majoritatea atracțiilor sunt foarte apropiate, plimbarea fiind cel mai bun mod de a experimenta orașul.",
+          "Luați-vă timp pentru o cafea și priviți viața din Piața Masaryk."
+        ],
+        "en": [
+          "Wear comfortable shoes, as the city center has cobblestones.",
+          "Most sights are very close to each other; walking is the best way to experience the city.",
+          "Take time for a coffee and watch the life in Masaryk Square."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 7.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Smetana-Park",
+            "hu": "Smetana park",
+            "ro": "Parcul Smetana",
+            "en": "Smetana Park"
+          },
+          "coords": [
+            17.4678,
+            49.063
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Mieten Sie ein Fahrrad in der Nähe und starten Sie Ihre Tour entlang des Flusses.",
+            "hu": "Béreljen kerékpárt a közelben, és kezdje a túrát a folyó mentén.",
+            "ro": "Închiriați o bicicletă din apropiere și începeți turul de-a lungul râului.",
+            "en": "Rent a bike nearby and start your tour along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Mährisch-Slowakisches Museum",
+            "hu": "Morva-Szlovák Múzeum",
+            "ro": "Muzeul Slovaciei Moravene",
+            "en": "Museum of Moravian Slovakia"
+          },
+          "coords": [
+            17.465,
+            49.0665
+          ],
+          "category": "museums",
+          "arrive_at": "10:03",
+          "stay_min": 90,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab, bevor Sie das Museum betreten.",
+            "hu": "Biztonságosan zárja le a kerékpárt, mielőtt belép a múzeumba.",
+            "ro": "Parcați bicicleta în siguranță înainte de a intra în muzeu.",
+            "en": "Securely park your bike before entering the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Synagoge",
+            "hu": "Zsinagóga",
+            "ro": "Sinagoga",
+            "en": "Synagogue"
+          },
+          "coords": [
+            17.4625,
+            49.068
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:37",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Heute ein Kulturzentrum, einst das Herz der jüdischen Gemeinde.",
+            "hu": "Ma kulturális központ, egykor a zsidó közösség szíve.",
+            "ro": "Astăzi centru cultural, odinioară inima comunității evreiești.",
+            "en": "Now a cultural center, once the heart of the Jewish community."
+          }
+        },
+        {
+          "name": {
+            "de": "Masaryk-Platz",
+            "hu": "Masaryk tér",
+            "ro": "Piața Masaryk",
+            "en": "Masaryk Square"
+          },
+          "coords": [
+            17.4595,
+            49.0695
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Idealer Ort für eine Mittagspause in einem der vielen Restaurants.",
+            "hu": "Ideális hely egy ebédszünetre a sok étterem egyikében.",
+            "ro": "Locul ideal pentru o pauză de prânz la unul dintre multele restaurante.",
+            "en": "The ideal place for a lunch break at one of the many restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Franziskus-Xaverius-Kirche",
+            "hu": "Xavéri Szent Ferenc-templom",
+            "ro": "Biserica Sfântul Francisc Xavier",
+            "en": "St. Francis Xavier Church"
+          },
+          "coords": [
+            17.4601,
+            49.0701
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein barockes Meisterwerk, das den Platz dominiert.",
+            "hu": "A teret uraló barokk mestermű.",
+            "ro": "O capodoperă barocă ce domină piața.",
+            "en": "A baroque masterpiece that dominates the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Franziskanerkloster",
+            "hu": "Ferences kolostor",
+            "ro": "Mănăstirea Franciscană",
+            "en": "Franciscan Monastery"
+          },
+          "coords": [
+            17.456,
+            49.067
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:30",
+          "stay_min": 35,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Eine ruhige Oase nach dem Trubel des Stadtzentrums.",
+            "hu": "A nyugalom oázisa a városközpont nyüzsgése után.",
+            "ro": "O oază de liniște după agitația din centrul orașului.",
+            "en": "An oasis of calm after the hustle and bustle of the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Marienplatz",
+            "hu": "Mária tér",
+            "ro": "Piața Maria",
+            "en": "St. Mary's Square"
+          },
+          "coords": [
+            17.459,
+            49.066
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:23",
+          "stay_min": 50,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einem Eis auf diesem charmanten kleinen Platz.",
+            "hu": "Fejezze be a kerékpártúrát egy fagyival ezen a bájos kis téren.",
+            "ro": "Încheiați turul cu bicicleta cu o înghețată în această piațetă fermecătoare.",
+            "en": "End your bike tour with an ice cream in this charming little square."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt im grünen Smetana-Park, ideal, um sich aufzuwärmen. Am Vormittag radeln Sie zum Mährisch-Slowakischen Museum und zur historischen Synagoge. Die Mittagszeit verbringen Sie auf dem belebten Masaryk-Platz, wo Sie die lokale Küche genießen und die St.-Franziskus-Xaverius-Kirche bewundern. Am Nachmittag führt Sie eine längere Fahrt zum ruhigen Franziskanerkloster. Die Tour endet am charmanten Marienplatz, wo Sie den Tag entspannt ausklingen lassen.",
+        "hu": "Kerékpártúrája a zöld Smetana parkban kezdődik, ami ideális bemelegítésre. Délelőtt a Morva-Szlovák Múzeumhoz és a történelmi zsinagógához teker. Az ebédet a nyüzsgő Masaryk téren tölti, ahol megkóstolhatja a helyi konyhát és megcsodálhatja a Xavéri Szent Ferenc-templomot. Délután egy hosszabb út vezet a csendes Ferences kolostorhoz. A túra a bájos Mária téren ér véget, ahol pihentetően zárhatja a napot.",
+        "ro": "Turul pe bicicletă începe în Parcul Smetana, ideal pentru o încălzire. Dimineața pedalați spre Muzeul Slovaciei Moravene și sinagoga istorică. La prânz, petreceți timp în Piața Masaryk, savurând bucătăria locală și admirând Biserica Sf. Francisc Xavier. După-amiaza, o plimbare mai lungă vă duce la liniștita Mănăstire Franciscană. Turul se încheie în fermecătoarea Piață Maria, unde puteți încheia ziua într-un mod relaxant.",
+        "en": "Your bike tour starts in the green Smetana Park, perfect for a warm-up. In the morning, you'll cycle to the Museum of Moravian Slovakia and the historic Synagogue. Lunchtime is spent in the bustling Masaryk Square, where you can enjoy local cuisine and admire St. Francis Xavier Church. In the afternoon, a longer ride takes you to the peaceful Franciscan Monastery. The tour ends in the charming St. Mary's Square, where you can relax and end your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smažený sýr",
+            "tip": "Gebratener Käse mit Pommes und Tatarensauce - ein tschechischer Favorit."
+          },
+          {
+            "name": "Zelná polévka",
+            "tip": "Eine herzhafte Krautsuppe, die oft mit Wurst zubereitet wird."
+          },
+          {
+            "name": "Slivovice",
+            "tip": "Ein starker Pflaumenschnaps, probieren Sie ihn vorsichtig!"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smažený sýr",
+            "tip": "Rántott sajt hasábburgonyával és tartármártással - egy cseh kedvenc."
+          },
+          {
+            "name": "Zelná polévka",
+            "tip": "Kiadós káposztaleves, gyakran kolbásszal készítve."
+          },
+          {
+            "name": "Slivovice",
+            "tip": "Erős szilvapálinka, csak óvatosan kóstolja!"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smažený sýr",
+            "tip": "Brânză prăjită cu cartofi prăjiți și sos tartar - un favorit ceh."
+          },
+          {
+            "name": "Zelná polévka",
+            "tip": "O ciorbă consistentă de varză, adesea preparată cu cârnați."
+          },
+          {
+            "name": "Slivovice",
+            "tip": "O țuică tare de prune, gustați cu prudență!"
+          }
+        ],
+        "en": [
+          {
+            "name": "Smažený sýr",
+            "tip": "Fried cheese with fries and tartar sauce - a Czech favorite."
+          },
+          {
+            "name": "Zelná polévka",
+            "tip": "A hearty cabbage soup, often made with sausage."
+          },
+          {
+            "name": "Slivovitz",
+            "tip": "A strong plum brandy, try it with caution!"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg an der Morava",
+            "tip": "Folgen Sie dem Fluss für eine friedliche Fahrt aus der Stadt hinaus.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten des Franziskanerklosters",
+            "tip": "Ein stiller Rückzugsort für eine kurze Pause.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sonnenuntergang von den Weinbergen",
+            "tip": "Wenn Sie Zeit haben, fahren Sie zu den nahen Weinbergen für eine tolle Aussicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Morva mentén",
+            "tip": "Kövesse a folyót egy békés útra a városból kifelé.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Ferences kolostor kertjei",
+            "tip": "Egy csendes menedék egy rövid szünetre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Naplemente a szőlőhegyekről",
+            "tip": "Ha van ideje, tekerjen ki a közeli szőlőhegyekhez a csodás kilátásért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de pe Morava",
+            "tip": "Urmați râul pentru o plimbare liniștită în afara orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Mănăstirii Franciscane",
+            "tip": "Un refugiu tăcut pentru o scurtă pauză.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Apus de soare de pe podgorii",
+            "tip": "Dacă aveți timp, mergeți cu bicicleta la podgoriile din apropiere pentru o priveliște minunată.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike path on the Morava",
+            "tip": "Follow the river for a peaceful ride out of the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gardens of the Franciscan Monastery",
+            "tip": "A quiet retreat for a short break.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sunset from the vineyards",
+            "tip": "If you have time, cycle to the nearby vineyards for a great view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Kaufen Sie lokale Radsport-Accessoires als praktisches Souvenir."
+          },
+          {
+            "name": "Wein aus der Region",
+            "tip": "Besuchen Sie eine Vinothek und nehmen Sie eine Flasche mährischen Wein mit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Vásároljon helyi kerékpáros kiegészítőket praktikus szuvenírként."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "Látogasson el egy vinotékába, és vigyen haza egy üveg morva bort."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Cumpărați accesorii locale pentru ciclism ca suvenir practic."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Vizitați o vinotecă și luați acasă o sticlă de vin morav."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "Buy local cycling accessories as a practical souvenir."
+          },
+          {
+            "name": "Local Wine",
+            "tip": "Visit a vinotéka and take home a bottle of Moravian wine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad vor der Abfahrt.",
+          "Achten Sie auf Fußgänger in den engen Gassen des Zentrums.",
+          "Einige Bereiche könnten für Fahrräder gesperrt sein, seien Sie bereit, abzusteigen und zu schieben."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt.",
+          "Vigyázzon a gyalogosokra a központ szűk utcáin.",
+          "Néhány terület le lehet zárva a kerékpárosok elől, legyen kész leszállni és tolni."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca.",
+          "Fiți atenți la pietoni pe străzile înguste din centru.",
+          "Unele zone pot fi interzise bicicletelor, fiți pregătit să coborâți și să împingeți."
+        ],
+        "en": [
+          "Check your bike before you leave.",
+          "Watch out for pedestrians on the narrow streets of the center.",
+          "Some areas may be closed to bikes, be prepared to dismount and walk."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 14.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz nahe Smetana-Park",
+            "hu": "Parkoló a Smetana park közelében",
+            "ro": "Parcare lângă Parcul Smetana",
+            "en": "Parking near Smetana Park"
+          },
+          "coords": [
+            17.4685,
+            49.0625
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Starten Sie hier, um den ersten Cluster zu Fuß zu erkunden.",
+            "hu": "Induljon innen, hogy gyalog fedezze fel az első látnivalócsoportot.",
+            "ro": "Începeți de aici pentru a explora primul grup de atracții pe jos.",
+            "en": "Start here to explore the first cluster of sights on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Mährisch-Slowakisches Museum",
+            "hu": "Morva-Szlovák Múzeum",
+            "ro": "Muzeul Slovaciei Moravene",
+            "en": "Museum of Moravian Slovakia"
+          },
+          "coords": [
+            17.465,
+            49.0665
+          ],
+          "category": "museums",
+          "arrive_at": "09:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss, um die lokale Kultur kennenzulernen.",
+            "hu": "Kötelező program a helyi kultúra megismeréséhez.",
+            "ro": "O vizită obligatorie pentru a cunoaște cultura locală.",
+            "en": "A must-visit to get to know the local culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz im Stadtzentrum",
+            "hu": "Parkoló a városközpontban",
+            "ro": "Parcare în centrul orașului",
+            "en": "City Center Parking"
+          },
+          "coords": [
+            17.458,
+            49.0705
+          ],
+          "category": "transport",
+          "arrive_at": "11:50",
+          "stay_min": 10,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den zweiten Cluster und die Mittagspause.",
+            "hu": "Parkoljon itt a második látnivalócsoporthoz és az ebédszünethez.",
+            "ro": "Parcați aici pentru al doilea grup de atracții și pauza de prânz.",
+            "en": "Park here for the second cluster and lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Masaryk-Platz & Mittagessen",
+            "hu": "Masaryk tér és ebéd",
+            "ro": "Piața Masaryk și prânz",
+            "en": "Masaryk Square & Lunch"
+          },
+          "coords": [
+            17.4595,
+            49.0695
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Atmosphäre und ein herzhaftes Mittagessen.",
+            "hu": "Élvezze a hangulatot és egy kiadós ebédet.",
+            "ro": "Bucurați-vă de atmosferă și de un prânz copios.",
+            "en": "Enjoy the atmosphere and a hearty lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Franziskus-Xaverius-Kirche",
+            "hu": "Xavéri Szent Ferenc-templom",
+            "ro": "Biserica Sfântul Francisc Xavier",
+            "en": "St. Francis Xavier Church"
+          },
+          "coords": [
+            17.4601,
+            49.0701
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzes Stück vom Platz entfernt, aber ein Muss.",
+            "hu": "Csak egy rövid séta a tértől, de kihagyhatatlan.",
+            "ro": "La o scurtă plimbare de piață, dar o vizită obligatorie.",
+            "en": "A short walk from the square, but a must-see."
+          }
+        },
+        {
+          "name": {
+            "de": "Franziskanerkloster",
+            "hu": "Ferences kolostor",
+            "ro": "Mănăstirea Franciscană",
+            "en": "Franciscan Monastery"
+          },
+          "coords": [
+            17.456,
+            49.067
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein letzter Halt an einem Ort der Ruhe, bevor Sie die Stadt verlassen.",
+            "hu": "Egy utolsó megálló a nyugalom helyén, mielőtt elhagyja a várost.",
+            "ro": "O ultimă oprire într-un loc de liniște înainte de a părăsi orașul.",
+            "en": "A final stop at a place of peace before leaving the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt mit dem Parken in der Nähe des Smetana-Parks, von wo aus Sie das Museum zu Fuß erreichen. Am Vormittag tauchen Sie in die Volkskunst ein. Zur Mittagszeit fahren Sie ins Zentrum, parken erneut und genießen die Atmosphäre des Masaryk-Platzes bei einem guten Essen. Nach dem Mittagessen erkunden Sie die barocke Pracht der St.-Franziskus-Xaverius-Kirche. Der letzte Halt des Tages ist eine kurze Fahrt zum ruhigen Franziskanerkloster, ein perfekter, besinnlicher Abschluss.",
+        "hu": "Autós napja a Smetana park melletti parkolással kezdődik, ahonnan gyalogosan éri el a múzeumot. Délelőtt elmerül a népművészetben. Ebédidőben a központba hajt, újra leparkol, és egy jó étel mellett élvezi a Masaryk tér hangulatát. Ebéd után felfedezi a Xavéri Szent Ferenc-templom barokk pompáját. A nap utolsó állomása egy rövid autóút a csendes Ferences kolostorhoz, ami tökéletes, elgondolkodtató befejezés.",
+        "ro": "Ziua cu mașina începe parcând lângă Parcul Smetana, de unde ajungeți pe jos la muzeu. Dimineața vă scufundați în arta populară. La prânz, conduceți spre centru, parcați din nou și vă bucurați de atmosfera din Piața Masaryk cu o masă bună. După prânz, explorați splendoarea barocă a Bisericii Sf. Francisc Xavier. Ultima oprire a zilei este o scurtă călătorie cu mașina la liniștita Mănăstire Franciscană, o încheiere perfectă și contemplativă.",
+        "en": "Your car day starts by parking near Smetana Park, from where you can walk to the museum. In the morning, you'll immerse yourself in folk art. At lunchtime, you drive to the center, park again, and enjoy the atmosphere of Masaryk Square with a good meal. After lunch, explore the baroque splendor of St. Francis Xavier Church. The day's final stop is a short drive to the peaceful Franciscan Monastery, a perfect, contemplative end."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurants außerhalb des Zentrums",
+            "tip": "Nutzen Sie das Auto, um ein traditionelles Restaurant in einem der Vororte zu finden."
+          },
+          {
+            "name": "Bäckereien",
+            "tip": "Halten Sie an einer Bäckerei für frische Kolatschen (koláče) für die Fahrt."
+          },
+          {
+            "name": "Weinprobe",
+            "tip": "Fahren Sie zu einem Weingut in der Umgebung für eine authentische mährische Weinprobe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központon kívüli éttermek",
+            "tip": "Használja ki az autót, és keressen egy hagyományos éttermet valamelyik külvárosban."
+          },
+          {
+            "name": "Pékségek",
+            "tip": "Álljon meg egy pékségnél friss kalácsért (koláče) az útra."
+          },
+          {
+            "name": "Borkóstolás",
+            "tip": "Vezessen el egy közeli borászathoz egy autentikus morva borkóstolóra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurante în afara centrului",
+            "tip": "Folosiți mașina pentru a găsi un restaurant tradițional într-una din suburbii."
+          },
+          {
+            "name": "Brutării",
+            "tip": "Opriți-vă la o brutărie pentru colaci (koláče) proaspeți pentru drum."
+          },
+          {
+            "name": "Degustare de vin",
+            "tip": "Conduceți la o cramă din apropiere pentru o degustare autentică de vin morav."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurants outside the center",
+            "tip": "Use the car to find a traditional restaurant in one of the suburbs."
+          },
+          {
+            "name": "Bakeries",
+            "tip": "Stop at a bakery for fresh kolache for the road."
+          },
+          {
+            "name": "Wine Tasting",
+            "tip": "Drive to a nearby winery for an authentic Moravian wine tasting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt durch die Weinberge",
+            "tip": "Nehmen Sie eine malerische Route durch die umliegenden Weinberge.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Burg Buchlov",
+            "tip": "Eine kurze Autofahrt entfernt liegt eine beeindruckende Burg mit Panoramablick.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Archäoskanzen Modrá",
+            "tip": "Ein Freilichtmuseum, das eine ruhige Flucht in die Geschichte bietet.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Autózás a szőlőhegyeken keresztül",
+            "tip": "Válasszon egy festői útvonalat a környező szőlőhegyeken át.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Buchlov vára",
+            "tip": "Egy rövid autóútra található egy lenyűgöző vár panorámás kilátással.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Modrá Régészeti Skanzen",
+            "tip": "Egy szabadtéri múzeum, amely csendes menekülést kínál a történelembe.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare cu mașina prin podgorii",
+            "tip": "Alegeți un traseu pitoresc prin podgoriile înconjurătoare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Castelul Buchlov",
+            "tip": "La o scurtă distanță cu mașina se află un castel impresionant cu vederi panoramice.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Situl arheologic Modrá",
+            "tip": "Un muzeu în aer liber care oferă o evadare liniștită în istorie.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Drive through the vineyards",
+            "tip": "Take a scenic route through the surrounding vineyards.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Buchlov Castle",
+            "tip": "A short drive away is an impressive castle with panoramic views.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Archaeological Open-Air Museum Modrá",
+            "tip": "An open-air museum that offers a quiet escape into history.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Halten Sie an Bauernhöfen, um lokale Produkte direkt vom Erzeuger zu kaufen."
+          },
+          {
+            "name": "Große Supermärkte am Stadtrand",
+            "tip": "Ideal, um sich mit tschechischen Snacks und Getränken einzudecken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői boltok",
+            "tip": "Álljon meg a gazdaságoknál, hogy helyi termékeket vásároljon közvetlenül a termelőtől."
+          },
+          {
+            "name": "Nagy szupermarketek a város szélén",
+            "tip": "Ideális cseh rágcsálnivalókkal és italokkal való feltöltéshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de la fermă",
+            "tip": "Opriți-vă la ferme pentru a cumpăra produse locale direct de la producător."
+          },
+          {
+            "name": "Supermarketuri mari la periferie",
+            "tip": "Ideal pentru a vă aproviziona cu gustări și băuturi cehe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops",
+            "tip": "Stop at farms to buy local products directly from the producer."
+          },
+          {
+            "name": "Large supermarkets on the outskirts",
+            "tip": "Ideal for stocking up on Czech snacks and drinks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich im Voraus über Parkmöglichkeiten und -gebühren.",
+          "Planen Sie zusätzliche Zeit für den Verkehr ein, besonders am Nachmittag.",
+          "Ein GPS ist unerlässlich, um sich in der Umgebung zurechtzufinden."
+        ],
+        "hu": [
+          "Előre tájékozódjon a parkolási lehetőségekről és díjakról.",
+          "Számoljon extra időt a forgalomra, különösen délután.",
+          "GPS elengedhetetlen a környéken való tájékozódáshoz."
+        ],
+        "ro": [
+          "Informați-vă în avans despre opțiunile și taxele de parcare.",
+          "Planificați timp suplimentar pentru trafic, în special după-amiaza.",
+          "Un GPS este esențial pentru a vă orienta în zonă."
+        ],
+        "en": [
+          "Find out about parking options and fees in advance.",
+          "Allow extra time for traffic, especially in the afternoon.",
+          "A GPS is essential for finding your way around the area."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof",
+            "hu": "Érkezés a buszpályaudvarra",
+            "ro": "Sosire la autogară",
+            "en": "Arrival at the bus station"
+          },
+          "coords": [
+            17.469,
+            49.06
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr.",
+            "hu": "Vásároljon napijegyet a tömegközlekedéshez.",
+            "ro": "Cumpărați un bilet de o zi pentru transportul public.",
+            "en": "Buy a day pass for public transport."
+          }
+        },
+        {
+          "name": {
+            "de": "Mährisch-Slowakisches Museum",
+            "hu": "Morva-Szlovák Múzeum",
+            "ro": "Muzeul Slovaciei Moravene",
+            "en": "Museum of Moravian Slovakia"
+          },
+          "coords": [
+            17.465,
+            49.0665
+          ],
+          "category": "museums",
+          "arrive_at": "09:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die erste Station ist nur eine kurze Busfahrt entfernt.",
+            "hu": "Az első megálló csak egy rövid buszútra van.",
+            "ro": "Prima oprire este la o scurtă călătorie cu autobuzul.",
+            "en": "The first stop is just a short bus ride away."
+          }
+        },
+        {
+          "name": {
+            "de": "Smetana-Park",
+            "hu": "Smetana park",
+            "ro": "Parcul Smetana",
+            "en": "Smetana Park"
+          },
+          "coords": [
+            17.4678,
+            49.063
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum zum Entspannen.",
+            "hu": "Egy rövid séta a múzeumtól a pihenéshez.",
+            "ro": "O scurtă plimbare de la muzeu pentru a vă relaxa.",
+            "en": "A short walk from the museum to relax."
+          }
+        },
+        {
+          "name": {
+            "de": "Masaryk-Platz",
+            "hu": "Masaryk tér",
+            "ro": "Piața Masaryk",
+            "en": "Masaryk Square"
+          },
+          "coords": [
+            17.4595,
+            49.0695
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus ins Zentrum für das Mittagessen.",
+            "hu": "Menjen busszal a központba ebédelni.",
+            "ro": "Luați autobuzul spre centru pentru prânz.",
+            "en": "Take the bus to the center for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Rathaus",
+            "hu": "Régi Városháza",
+            "ro": "Vechea Primărie",
+            "en": "Old Town Hall"
+          },
+          "coords": [
+            17.4588,
+            49.0692
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt am Platz, leicht zu Fuß zu erreichen.",
+            "hu": "Közvetlenül a téren, könnyen megközelíthető gyalog.",
+            "ro": "Chiar în piață, ușor accesibil pe jos.",
+            "en": "Right on the square, easy to reach on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Elisabeth-Kapelle",
+            "hu": "Szent Erzsébet-kápolna",
+            "ro": "Capela Sfânta Elisabeta",
+            "en": "St. Elisabeth Chapel"
+          },
+          "coords": [
+            17.455,
+            49.071
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein verstecktes Juwel, ein Stück vom Hauptplatz entfernt.",
+            "hu": "Egy rejtett gyöngyszem, kissé távolabb a főtértől.",
+            "ro": "O bijuterie ascunsă, la mică distanță de piața principală.",
+            "en": "A hidden gem, a short walk from the main square."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nach Ankunft am Busbahnhof beginnt Ihr Tag mit einer kurzen Fahrt zum Mährisch-Slowakischen Museum. Nach der Kultur spazieren Sie zum Smetana-Park. Zur Mittagszeit bringt Sie ein Bus ins Herz der Stadt, zum Masaryk-Platz. Hier haben Sie Zeit für ein Mittagessen und einen Spaziergang zum Alten Rathaus. Am Nachmittag entdecken Sie zu Fuß die ruhigere St.-Elisabeth-Kapelle, bevor Sie sich auf den Rückweg zum Bahnhof machen.",
+        "hu": "A buszpályaudvarra érkezés után a nap egy rövid úttal kezdődik a Morva-Szlovák Múzeumhoz. A kultúra után a Smetana parkba sétál. Ebédidőben egy busz viszi a város szívébe, a Masaryk térre. Itt van ideje ebédelni és elsétálni a Régi Városházához. Délután gyalogosan fedezi fel a csendesebb Szent Erzsébet-kápolnát, mielőtt visszaindulna az állomásra.",
+        "ro": "După sosirea la autogară, ziua începe cu o scurtă călătorie la Muzeul Slovaciei Moravene. După cultură, vă plimbați până în Parcul Smetana. La prânz, un autobuz vă duce în inima orașului, în Piața Masaryk. Aici aveți timp pentru prânz și o plimbare până la Vechea Primărie. După-amiaza, descoperiți pe jos mai liniștita Capelă Sf. Elisabeta înainte de a vă întoarce la gară.",
+        "en": "After arriving at the bus station, your day begins with a short trip to the Museum of Moravian Slovakia. After some culture, you'll walk to Smetana Park. At lunchtime, a bus takes you to the heart of the city, Masaryk Square. Here you have time for lunch and a walk to the Old Town Hall. In the afternoon, you'll discover the quieter St. Elisabeth Chapel on foot before heading back to the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro am Bahnhof",
+            "tip": "Schnappen Sie sich einen schnellen Snack, bevor Sie losfahren."
+          },
+          {
+            "name": "Restaurant am Masaryk-Platz",
+            "tip": "Eine große Auswahl für eine ausgiebige Mittagspause."
+          },
+          {
+            "name": "Trdelník-Stand",
+            "tip": "Probieren Sie diesen süßen Gebäck-Klassiker."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bisztró az állomáson",
+            "tip": "Kapjon be egy gyors falatot indulás előtt."
+          },
+          {
+            "name": "Étterem a Masaryk téren",
+            "tip": "Nagy választék egy kiadós ebédszünethez."
+          },
+          {
+            "name": "Kürtőskalács-stand",
+            "tip": "Kóstolja meg ezt az édes süteményklasszikust."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro la gară",
+            "tip": "Luați o gustare rapidă înainte de a pleca."
+          },
+          {
+            "name": "Restaurant în Piața Masaryk",
+            "tip": "O selecție largă pentru o pauză de prânz consistentă."
+          },
+          {
+            "name": "Stand de Trdelník",
+            "tip": "Încercați acest desert clasic de patiserie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro at the station",
+            "tip": "Grab a quick snack before you go."
+          },
+          {
+            "name": "Restaurant on Masaryk Square",
+            "tip": "A wide selection for a hearty lunch break."
+          },
+          {
+            "name": "Trdelník stand",
+            "tip": "Try this sweet pastry classic."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bank im Smetana-Park",
+            "tip": "Finden Sie eine ruhige Bank mit Blick auf den Fluss.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Seitengassen um den Marienplatz",
+            "tip": "Verlieren Sie sich in den ruhigen Gassen abseits der Hauptrouten.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Innenhof der Kirche",
+            "tip": "Viele Kirchen haben ruhige Innenhöfe, die für die Öffentlichkeit zugänglich sind.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pad a Smetana parkban",
+            "tip": "Keressen egy csendes padot, kilátással a folyóra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mellékutcák a Mária tér körül",
+            "tip": "Tévedjen el a fő útvonalaktól távol eső csendes sikátorokban.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Templomudvar",
+            "tip": "Sok templomnak van csendes, a nyilvánosság számára is nyitott belső udvara.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă în Parcul Smetana",
+            "tip": "Găsiți o bancă liniștită cu vedere la râu.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Străduțe lăturalnice în jurul Pieței Maria",
+            "tip": "Pierdeți-vă pe străduțele liniștite, departe de rutele principale.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea bisericii",
+            "tip": "Multe biserici au curți interioare liniștite, deschise publicului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bench in Smetana Park",
+            "tip": "Find a quiet bench overlooking the river.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Side streets around St. Mary's Square",
+            "tip": "Get lost in the quiet alleys off the main routes.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Church courtyard",
+            "tip": "Many churches have quiet courtyards open to the public.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Bahnhof",
+            "tip": "Kaufen Sie Zeitschriften oder Souvenirs für die Rückfahrt."
+          },
+          {
+            "name": "Geschäfte in der Hauptstraße",
+            "tip": "Stöbern Sie nach Mode oder lokalen Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk az állomáson",
+            "tip": "Vásároljon újságot vagy szuvenírt a visszaútra."
+          },
+          {
+            "name": "Boltok a főutcán",
+            "tip": "Böngésszen divatcikkek vagy helyi különlegességek között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la gară",
+            "tip": "Cumpărați reviste sau suveniruri pentru călătoria de întoarcere."
+          },
+          {
+            "name": "Magazine pe strada principală",
+            "tip": "Căutați articole de modă sau specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the station",
+            "tip": "Buy magazines or souvenirs for the return journey."
+          },
+          {
+            "name": "Shops on the main street",
+            "tip": "Browse for fashion or local specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus.",
+          "Eine Tageskarte ist oft günstiger als Einzeltickets.",
+          "Behalten Sie die Zeit im Auge, um den letzten Bus zurück nicht zu verpassen."
+        ],
+        "hu": [
+          "Előre ellenőrizze a buszmenetrendet.",
+          "A napijegy gyakran olcsóbb, mint a vonaljegyek.",
+          "Tartsa szemmel az időt, hogy ne késsen le az utolsó buszról visszafelé."
+        ],
+        "ro": [
+          "Verificați programul autobuzelor în avans.",
+          "Un bilet de o zi este adesea mai ieftin decât biletele individuale.",
+          "Fiți cu ochii pe ceas pentru a nu pierde ultimul autobuz înapoi."
+        ],
+        "en": [
+          "Check the bus schedule in advance.",
+          "A day pass is often cheaper than single tickets.",
+          "Keep an eye on the time so you don't miss the last bus back."
+        ]
+      }
+    }
+  }
+}

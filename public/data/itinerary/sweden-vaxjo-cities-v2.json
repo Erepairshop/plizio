@@ -1,0 +1,1060 @@
+{
+  "city_id": "sweden-vaxjo-cities-v2",
+  "anchor": {
+    "name": "Stortorget Växjö",
+    "coords": [
+      14.8091,
+      56.8777
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Stortorget Växjö",
+            "hu": "Växjö főtere",
+            "ro": "Piața Mare din Växjö",
+            "en": "Växjö Main Square"
+          },
+          "coords": [
+            14.8085,
+            56.8775
+          ],
+          "category": "squares",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Perfekter Startpunkt, oft finden hier Märkte statt. Probieren Sie lokale Produkte!",
+            "hu": "Tökéletes kiindulópont, gyakran tartanak itt piacokat. Kóstoljon helyi termékeket!",
+            "ro": "Punct de plecare perfect, adesea găzduiește piețe. Încercați produsele locale!",
+            "en": "Perfect starting point, often hosts markets. Try some local produce!"
+          }
+        },
+        {
+          "name": {
+            "de": "Växjö Domkirche",
+            "hu": "Växjöi székesegyház",
+            "ro": "Catedrala din Växjö",
+            "en": "Växjö Cathedral"
+          },
+          "coords": [
+            14.8055,
+            56.8781
+          ],
+          "category": "churches",
+          "arrive_at": "09:31",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden Glasmalereien und die zwei markanten Türme.",
+            "hu": "Figyelje meg a lenyűgöző üvegfestményeket és a két jellegzetes tornyot.",
+            "ro": "Observați vitraliile impresionante și cele două turnuri distinctive.",
+            "en": "Look for the impressive stained glass windows and the two distinctive towers."
+          }
+        },
+        {
+          "name": {
+            "de": "Linnéparken",
+            "hu": "Linné Park",
+            "ro": "Parcul Linné",
+            "en": "Linné Park"
+          },
+          "coords": [
+            14.8042,
+            56.877
+          ],
+          "category": "parks",
+          "arrive_at": "10:14",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein wunderschöner botanischer Garten hinter der Kathedrale. Ideal für eine kurze Pause.",
+            "hu": "Egy gyönyörű botanikus kert a székesegyház mögött. Ideális egy rövid szünetre.",
+            "ro": "O grădină botanică superbă în spatele catedralei. Ideală pentru o scurtă pauză.",
+            "en": "A beautiful botanical garden behind the cathedral. Ideal for a short break."
+          }
+        },
+        {
+          "name": {
+            "de": "Småland Museum & Schwedisches Glasmuseum",
+            "hu": "Småland Múzeum és Svéd Üvegmúzeum",
+            "ro": "Muzeul Småland și Muzeul Sticlei din Suedia",
+            "en": "Småland Museum & Swedish Glass Museum"
+          },
+          "coords": [
+            14.8122,
+            56.879
+          ],
+          "category": "museums",
+          "arrive_at": "11:29",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Zwei Museen in einem! Die Glasausstellung ist weltberühmt.",
+            "hu": "Két múzeum egyben! Az üvegkiállítás világhírű.",
+            "ro": "Două muzee într-unul! Expoziția de sticlă este de renume mondial.",
+            "en": "Two museums in one! The glass exhibition is world-famous."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus der Auswanderer",
+            "hu": "Kivándorlók Háza",
+            "ro": "Casa Emigranților",
+            "en": "House of Emigrants"
+          },
+          "coords": [
+            14.8135,
+            56.8795
+          ],
+          "category": "museums",
+          "arrive_at": "13:31",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die schwedische Auswanderung nach Amerika. Sehr bewegend.",
+            "hu": "Tudjon meg többet a svéd kivándorlásról Amerikába. Nagyon megható.",
+            "ro": "Aflați despre emigrația suedeză în America. Foarte emoționant.",
+            "en": "Learn about the Swedish emigration to America. Very moving."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am See Helgasjön",
+            "hu": "Séta a Helgasjön-tó partján",
+            "ro": "Plimbare pe malul lacului Helgasjön",
+            "en": "Walk by Lake Helgasjön"
+          },
+          "coords": [
+            14.81,
+            56.885
+          ],
+          "category": "natural features",
+          "arrive_at": "15:11",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die frische Luft und die schöne Aussicht auf den See.",
+            "hu": "Élvezze a friss levegőt és a tóra nyíló gyönyörű kilátást.",
+            "ro": "Bucurați-vă de aerul proaspăt și de priveliștea frumoasă a lacului.",
+            "en": "Enjoy the fresh air and the beautiful view of the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Teleborg",
+            "hu": "Teleborg kastély",
+            "ro": "Castelul Teleborg",
+            "en": "Teleborg Castle"
+          },
+          "coords": [
+            14.8021,
+            56.8446
+          ],
+          "category": "castles",
+          "arrive_at": "16:56",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein Märchenschloss am See. Perfekt für Fotos, besonders bei Sonnenuntergang.",
+            "hu": "Egy mesebeli kastély a tó partján. Tökéletes fotózáshoz, különösen naplementekor.",
+            "ro": "Un castel de basm pe malul lacului. Perfect pentru fotografii, mai ales la apus.",
+            "en": "A fairytale castle by the lake. Perfect for photos, especially at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem belebten Stortorget, dem Herzen von Växjö. Nach einem Besuch der majestätischen Domkirche führt Sie ein Spaziergang durch den ruhigen Linnéparken. Am Nachmittag tauchen Sie im Glas- und Auswanderermuseum in die reiche Geschichte der Region ein. Schließen Sie den Tag mit einem entspannenden Spaziergang entlang des Helgasjön-Sees ab und bewundern Sie das märchenhafte Schloss Teleborg, das sich im Wasser spiegelt.",
+        "hu": "Kezdje a napot Växjö szívében, a nyüzsgő Stortorget téren. A fenséges székesegyház megtekintése után sétáljon át a csendes Linné Parkon. Délután merüljön el a régió gazdag történelmében az Üveg- és a Kivándorlók Múzeumában. Zárja a napot egy pihentető sétával a Helgasjön-tó partján, megcsodálva a vízben tükröződő, meseszerű Teleborg kastélyt.",
+        "ro": "Începeți ziua în inima orașului Växjö, în vibranta Piață Mare (Stortorget). După o vizită la maiestuoasa catedrală, faceți o plimbare prin liniștitul Parc Linné. După-amiaza, pătrundeți în istoria bogată a regiunii la Muzeul Sticlei și la Casa Emigranților. Încheiați ziua cu o plimbare relaxantă pe malul lacului Helgasjön, admirând castelul de basm Teleborg reflectat în apă.",
+        "en": "Start your day in the heart of Växjö at the bustling Stortorget square. After visiting the majestic cathedral, take a stroll through the tranquil Linné Park. In the afternoon, delve into the region's rich history at the Glass Museum and the House of Emigrants. End your day with a relaxing walk along Lake Helgasjön, admiring the fairytale-like Teleborg Castle reflected in the water."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Småländska isterband",
+            "tip": "Eine lokale Wurstspezialität, oft mit Dillkartoffeln serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Småländska isterband",
+            "tip": "Helyi kolbászkülönlegesség, gyakran kapros burgonyával tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Småländska isterband",
+            "tip": "O specialitate locală de cârnați, adesea servită cu cartofi cu mărar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Småländska isterband",
+            "tip": "A local sausage specialty, often served with dill potatoes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Helgasjön",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die Stille des Wassers.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helgasjön partja",
+            "tip": "Keressen egy csendes padot, és élvezze a víz nyugalmát.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Helgasjön",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de calmul apei.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shores of Lake Helgasjön",
+            "tip": "Find a quiet bench and enjoy the tranquility of the water.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Glasriket (Königreich des Glases)",
+            "tip": "Kaufen Sie weltberühmte schwedische Glaskunst direkt von den Herstellern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Glasriket (Üvegkirályság)",
+            "tip": "Vásároljon világhírű svéd üvegművészeti alkotásokat közvetlenül a gyártóktól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Glasriket (Regatul de Sticlă)",
+            "tip": "Cumpărați artă din sticlă suedeză de renume mondial direct de la producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Glasriket (Kingdom of Crystal)",
+            "tip": "Buy world-famous Swedish glass art directly from the manufacturers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden. Nehmen Sie eine wiederverwendbare Wasserflasche mit. Viele Cafés bieten kostenloses Nachfüllen an."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni. Hozzon magával újratölthető vizes palackot. Sok kávézó ingyenes utántöltést kínál."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos. Luați o sticlă de apă reutilizabilă. Multe cafenele oferă umplere gratuită."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking. Bring a reusable water bottle. Many cafes offer free refills."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stortorget Växjö",
+            "hu": "Växjö főtere",
+            "ro": "Piața Mare din Växjö",
+            "en": "Växjö Main Square"
+          },
+          "coords": [
+            14.8085,
+            56.8775
+          ],
+          "category": "squares",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Mieten Sie Ihr Fahrrad in der Nähe und starten Sie Ihre Tour hier.",
+            "hu": "Béreljen kerékpárt a közelben, és indítsa innen a túrát.",
+            "ro": "Închiriați o bicicletă din apropiere și începeți turul de aici.",
+            "en": "Rent your bike nearby and start your tour here."
+          }
+        },
+        {
+          "name": {
+            "de": "Museumspark (Småland, Glas, Auswanderer)",
+            "hu": "Múzeumpark (Småland, Üveg, Kivándorlók)",
+            "ro": "Parcul Muzeelor (Småland, Sticlă, Emigranți)",
+            "en": "Museum Park (Småland, Glass, Emigrants)"
+          },
+          "coords": [
+            14.8122,
+            56.879
+          ],
+          "category": "museums",
+          "arrive_at": "09:25",
+          "stay_min": 150,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie alle drei Museen in diesem Kulturzentrum.",
+            "hu": "Zárja le a kerékpárt, és fedezze fel mindhárom múzeumot ebben a kulturális központban.",
+            "ro": "Parcați bicicleta și explorați toate cele trei muzee din acest centru cultural.",
+            "en": "Lock up your bike and explore all three museums in this cultural hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Radtour entlang des Sees Helgasjön",
+            "hu": "Kerékpártúra a Helgasjön-tó mentén",
+            "ro": "Tur cu bicicleta de-a lungul lacului Helgasjön",
+            "en": "Bike ride along Lake Helgasjön"
+          },
+          "coords": [
+            14.795,
+            56.91
+          ],
+          "category": "natural features",
+          "arrive_at": "12:15",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Es gibt einen wunderschönen Radweg mit toller Aussicht auf den See und die Natur.",
+            "hu": "Egy gyönyörű kerékpárút vezet itt, nagyszerű kilátással a tóra és a természetre.",
+            "ro": "Există o pistă de biciclete minunată cu vederi superbe la lac și natură.",
+            "en": "There's a beautiful bike path with great views of the lake and nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlossruine Kronoberg",
+            "hu": "Kronoberg várrom",
+            "ro": "Ruinele Castelului Kronoberg",
+            "en": "Kronoberg Castle Ruins"
+          },
+          "coords": [
+            14.7745,
+            56.9361
+          ],
+          "category": "castles",
+          "arrive_at": "13:18",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Eine historische Ruine auf einer Insel. Im Sommer gibt es eine kleine Fähre.",
+            "hu": "Történelmi rom egy szigeten. Nyáron egy kis komp is közlekedik.",
+            "ro": "O ruină istorică pe o insulă. Vara există un mic feribot.",
+            "en": "A historic ruin on an island. There's a small ferry in the summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Teleborg",
+            "hu": "Teleborg kastély",
+            "ro": "Castelul Teleborg",
+            "en": "Teleborg Castle"
+          },
+          "coords": [
+            14.8021,
+            56.8446
+          ],
+          "category": "castles",
+          "arrive_at": "15:00",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 42,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Radeln Sie zum Südufer des Sees Växjösjön für dieses beeindruckende Schloss.",
+            "hu": "Tekerjen el a Växjösjön-tó déli partjára ehhez a lenyűgöző kastélyhoz.",
+            "ro": "Pedalați spre malul de sud al lacului Växjösjön pentru acest castel impresionant.",
+            "en": "Cycle to the south shore of Lake Växjösjön for this impressive castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Växjö Domkirche & Linnéparken",
+            "hu": "Växjöi székesegyház és Linné Park",
+            "ro": "Catedrala din Växjö și Parcul Linné",
+            "en": "Växjö Cathedral & Linné Park"
+          },
+          "coords": [
+            14.8055,
+            56.8781
+          ],
+          "category": "churches",
+          "arrive_at": "16:27",
+          "stay_min": 70,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem Besuch der Kathedrale und einer entspannten Zeit im Park.",
+            "hu": "Fejezze be a túrát a katedrális meglátogatásával és egy pihentető időtöltéssel a parkban.",
+            "ro": "Încheiați turul cu o vizită la catedrală și un moment de relaxare în parc.",
+            "en": "End your tour with a visit to the cathedral and some relaxing time in the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und starten Sie am Stortorget. Der Vormittag gehört der Kultur im Museumsviertel. Später radeln Sie entlang des malerischen Helgasjön-Sees zur historischen Schlossruine Kronoberg. Am Nachmittag führt die Route Sie zum märchenhaften Schloss Teleborg im Süden. Beenden Sie den Tag im Herzen der Stadt, bei der Domkirche und im angrenzenden Linnéparken.",
+        "hu": "Pattanjon kerékpárra és induljon a Stortorget-ről. A délelőtt a kultúráé a múzeumi negyedben. Később tekerjen a festői Helgasjön-tó mentén a történelmi Kronoberg várromhoz. Délután az útvonal délre, a mesebeli Teleborg kastélyhoz vezet. Zárja a napot a város szívében, a székesegyháznál és a szomszédos Linné Parkban.",
+        "ro": "Urcați-vă pe bicicletă și porniți din Stortorget. Dimineața este dedicată culturii în cartierul muzeelor. Mai târziu, pedalați de-a lungul pitorescului lac Helgasjön până la ruinele istorice ale castelului Kronoberg. După-amiaza, traseul vă duce spre sud, la castelul de basm Teleborg. Încheiați ziua în inima orașului, la catedrală și în parcul adiacent Linné.",
+        "en": "Hop on your bike and start from Stortorget. The morning is dedicated to culture in the museum district. Later, cycle along the picturesque Lake Helgasjön to the historic Kronoberg Castle ruins. In the afternoon, the route takes you south to the fairytale-like Teleborg Castle. End the day in the heart of the city, at the cathedral and the adjacent Linné Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kroppkakor",
+            "tip": "Gefüllte Kartoffelklöße, eine herzhafte Spezialität aus Småland."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kroppkakor",
+            "tip": "Töltött burgonyagombóc, egy kiadós smålandi specialitás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kroppkakor",
+            "tip": "Găluște de cartofi umplute, o specialitate consistentă din Småland."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kroppkakor",
+            "tip": "Filled potato dumplings, a hearty specialty from Småland."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Biskopshagen",
+            "tip": "Ein ruhiger Naturpark in der Nähe von Schloss Teleborg, ideal zum Entspannen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Biskopshagen",
+            "tip": "Csendes természetvédelmi terület a Teleborg kastély közelében, ideális pihenésre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biskopshagen",
+            "tip": "O rezervație naturală liniștită lângă Castelul Teleborg, ideală pentru relaxare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Biskopshagen",
+            "tip": "A quiet nature reserve near Teleborg Castle, ideal for relaxation.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Hofläden",
+            "tip": "Rund um Växjö finden Sie Hofläden mit frischen Produkten und Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termelői boltok",
+            "tip": "Växjö környékén farmboltokat talál friss termékekkel és kézműves árukkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele fermelor locale",
+            "tip": "În jurul Växjö veți găsi magazine de la ferme cu produse proaspete și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local farm shops",
+            "tip": "Around Växjö, you'll find farm shops with fresh produce and handicrafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Växjö ist eine fahrradfreundliche Stadt mit vielen Radwegen. Schließen Sie Ihr Fahrrad immer gut ab. Ein Helm wird empfohlen."
+        ],
+        "hu": [
+          "Växjö egy kerékpárbarát város, sok kerékpárúttal. Mindig zárja le a kerékpárját. Sisak viselése ajánlott."
+        ],
+        "ro": [
+          "Växjö este un oraș prietenos cu bicicletele, cu multe piste. Încuiați-vă întotdeauna bicicleta. Se recomandă casca."
+        ],
+        "en": [
+          "Växjö is a bike-friendly city with many cycle paths. Always lock your bike securely. A helmet is recommended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 24.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Stadtzentrum",
+            "hu": "1. klaszter: Városközpont",
+            "ro": "Cluster 1: Centrul orașului",
+            "en": "Cluster 1: City Center"
+          },
+          "coords": [
+            14.8085,
+            56.8775
+          ],
+          "category": "squares",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Zentrum (z.B. Parkhaus) und erkunden Sie den ersten Cluster zu Fuß.",
+            "hu": "Parkoljon a központban (pl. parkolóházban), és fedezze fel az első klasztert gyalog.",
+            "ro": "Parcați în centru (de ex. parcare supraetajată) și explorați primul cluster pe jos.",
+            "en": "Park in the center (e.g., a parking garage) and explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Växjö Domkirche",
+            "hu": "Växjöi székesegyház",
+            "ro": "Catedrala din Växjö",
+            "en": "Växjö Cathedral"
+          },
+          "coords": [
+            14.8055,
+            56.8781
+          ],
+          "category": "churches",
+          "arrive_at": "09:31",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Stortorget. Die markanten Türme weisen Ihnen den Weg.",
+            "hu": "Rövid séta a Stortorget-ről. A jellegzetes tornyok mutatják az utat.",
+            "ro": "O scurtă plimbare de la Stortorget. Turnurile distinctive vă vor ghida.",
+            "en": "A short walk from Stortorget. The distinctive towers will guide you."
+          }
+        },
+        {
+          "name": {
+            "de": "Småland Museum & Schwedisches Glasmuseum",
+            "hu": "Småland Múzeum és Svéd Üvegmúzeum",
+            "ro": "Muzeul Småland și Muzeul Sticlei din Suedia",
+            "en": "Småland Museum & Swedish Glass Museum"
+          },
+          "coords": [
+            14.8122,
+            56.879
+          ],
+          "category": "museums",
+          "arrive_at": "10:21",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Das Kulturzentrum ist nur einen kurzen Spaziergang entfernt.",
+            "hu": "A kulturális központ csak egy rövid sétára található.",
+            "ro": "Centrul cultural este la doar o scurtă plimbare.",
+            "en": "The cultural center is just a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Schlossruine Kronoberg",
+            "hu": "2. klaszter: Kronoberg várrom",
+            "ro": "Cluster 2: Ruinele Castelului Kronoberg",
+            "en": "Cluster 2: Kronoberg Castle Ruins"
+          },
+          "coords": [
+            14.7745,
+            56.9361
+          ],
+          "category": "castles",
+          "arrive_at": "12:56",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 9.5,
+          "tip_5lang": {
+            "de": "Fahren Sie nach Norden zum Helgasjön-See. Es gibt Parkplätze in der Nähe der Ruine.",
+            "hu": "Vezessen észak felé a Helgasjön-tóhoz. A rom közelében van parkoló.",
+            "ro": "Conduceți spre nord, spre lacul Helgasjön. Există parcare lângă ruine.",
+            "en": "Drive north to Lake Helgasjön. There's parking near the ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am See Helgasjön",
+            "hu": "Séta a Helgasjön-tó partján",
+            "ro": "Plimbare pe malul lacului Helgasjön",
+            "en": "Walk by Lake Helgasjön"
+          },
+          "coords": [
+            14.778,
+            56.935
+          ],
+          "category": "natural features",
+          "arrive_at": "14:19",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nach dem Besuch der Ruine können Sie am Ufer spazieren gehen und die Aussicht genießen.",
+            "hu": "A rom megtekintése után sétáljon a parton és élvezze a kilátást.",
+            "ro": "După vizitarea ruinelor, faceți o plimbare pe mal pentru a vă bucura de priveliște.",
+            "en": "After visiting the ruins, take a walk along the shore to enjoy the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Schloss Teleborg",
+            "hu": "3. klaszter: Teleborg kastély",
+            "ro": "Cluster 3: Castelul Teleborg",
+            "en": "Cluster 3: Teleborg Castle"
+          },
+          "coords": [
+            14.8021,
+            56.8446
+          ],
+          "category": "castles",
+          "arrive_at": "15:37",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 13.8,
+          "tip_5lang": {
+            "de": "Die letzte Fahrt des Tages führt Sie in den Süden zum Märchenschloss.",
+            "hu": "A nap utolsó autózása délre, a mesebeli kastélyhoz vezet.",
+            "ro": "Ultima călătorie a zilei vă duce spre sud, la castelul de basm.",
+            "en": "The last drive of the day takes you south to the fairytale castle."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Växjö in Clustern. Parken Sie im Zentrum, um den Dom, den Hauptplatz und die Museen zu Fuß zu entdecken. Am Mittag fahren Sie nach Norden zur beeindruckenden Schlossruine Kronoberg am Helgasjön-See. Der Nachmittag gehört dem Süden: Eine Fahrt zum romantischen Schloss Teleborg bietet den perfekten Abschluss für einen Tag voller Kontraste zwischen Stadtkultur und Naturerlebnis.",
+        "hu": "Autóval klaszterekben fedezheti fel Växjöt. Parkoljon le a központban, hogy gyalog fedezze fel a dómot, a főteret és a múzeumokat. Délben hajtson északra a lenyűgöző Kronoberg várromhoz a Helgasjön-tónál. A délután a déli részé: egy utazás a romantikus Teleborg kastélyhoz tökéletes lezárása egy, a városi kultúra és a természeti élmények kontrasztjával teli napnak.",
+        "ro": "Cu mașina, explorați Växjö în clustere. Parcați în centru pentru a descoperi pe jos catedrala, piața principală și muzeele. La prânz, conduceți spre nord la impresionantele ruine ale castelului Kronoberg de pe malul lacului Helgasjön. După-amiaza este dedicată sudului: o călătorie la romanticul castel Teleborg oferă încheierea perfectă pentru o zi plină de contraste între cultura urbană și experiența naturii.",
+        "en": "Explore Växjö in clusters by car. Park in the center to discover the cathedral, the main square, and the museums on foot. At noon, drive north to the impressive Kronoberg Castle ruins on Lake Helgasjön. The afternoon belongs to the south: a trip to the romantic Teleborg Castle provides the perfect end to a day full of contrasts between urban culture and natural beauty."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ostkaka",
+            "tip": "Ein schwedischer Käsekuchen, der oft lauwarm mit Marmelade und Sahne serviert wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ostkaka",
+            "tip": "Svéd túrótorta, amelyet gyakran langyosan, lekvárral és tejszínhabbal tálalnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ostkaka",
+            "tip": "O prăjitură suedeză cu brânză, adesea servită călduță cu gem și frișcă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ostkaka",
+            "tip": "A Swedish cheesecake, often served lukewarm with jam and cream."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Umgebung der Schlossruine Kronoberg",
+            "tip": "Abseits des Hauptwegs finden Sie ruhige Plätze mit Blick auf den See.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kronoberg várrom környéke",
+            "tip": "A fő útvonaltól távolabb csendes helyeket talál, kilátással a tóra.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Împrejurimile ruinelor castelului Kronoberg",
+            "tip": "Departe de poteca principală, veți găsi locuri liniștite cu vedere la lac.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Around Kronoberg Castle Ruins",
+            "tip": "Away from the main path, you'll find quiet spots overlooking the lake.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Grand Samarkand",
+            "tip": "Ein großes Einkaufszentrum am Stadtrand für alle, die eine größere Auswahl suchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grand Samarkand",
+            "tip": "Nagy bevásárlóközpont a város szélén azoknak, akik nagyobb választékra vágynak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grand Samarkand",
+            "tip": "Un mare centru comercial la periferia orașului pentru cei care caută o selecție mai largă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grand Samarkand",
+            "tip": "A large shopping mall on the outskirts for those looking for a wider selection."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkgebühren können in der Innenstadt hoch sein. Achten Sie auf die Beschilderung. Planen Sie zusätzliche Zeit für den Verkehr ein, besonders am Nachmittag."
+        ],
+        "hu": [
+          "A parkolási díjak magasak lehetnek a belvárosban. Figyeljen a táblákra. Tervezzen plusz időt a forgalomra, különösen délután."
+        ],
+        "ro": [
+          "Taxele de parcare pot fi mari în centrul orașului. Fiți atenți la semnalizare. Planificați timp suplimentar pentru trafic, mai ales după-amiaza."
+        ],
+        "en": [
+          "Parking fees can be high in the city center. Pay attention to the signs. Plan for extra time for traffic, especially in the afternoon."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Stadtzentrum (Stortorget)",
+            "hu": "1. klaszter: Városközpont (Stortorget)",
+            "ro": "Cluster 1: Centrul orașului (Stortorget)",
+            "en": "Cluster 1: City Center (Stortorget)"
+          },
+          "coords": [
+            14.8085,
+            56.8775
+          ],
+          "category": "squares",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie am Hauptbusbahnhof, der nur wenige Gehminuten vom Stortorget entfernt ist.",
+            "hu": "Kezdje a központi buszpályaudvarnál, amely csak néhány perc sétára van a Stortorget-től.",
+            "ro": "Începeți de la autogara principală, la doar câteva minute de mers pe jos de Stortorget.",
+            "en": "Start at the main bus terminal, just a short walk from Stortorget."
+          }
+        },
+        {
+          "name": {
+            "de": "Växjö Domkirche & Linnéparken",
+            "hu": "Växjöi székesegyház és Linné Park",
+            "ro": "Catedrala din Växjö și Parcul Linné",
+            "en": "Växjö Cathedral & Linné Park"
+          },
+          "coords": [
+            14.8055,
+            56.8781
+          ],
+          "category": "churches",
+          "arrive_at": "09:31",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Diese beiden Attraktionen liegen direkt nebeneinander und sind leicht zu Fuß erreichbar.",
+            "hu": "Ez a két látnivaló közvetlenül egymás mellett található, és könnyen megközelíthető gyalog.",
+            "ro": "Aceste două atracții sunt chiar una lângă alta și ușor de explorat pe jos.",
+            "en": "These two attractions are right next to each other and easy to explore on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Museumsviertel (Småland, Auswanderer)",
+            "hu": "Múzeumi negyed (Småland, Kivándorlók)",
+            "ro": "Cartierul Muzeelor (Småland, Emigranți)",
+            "en": "Museum Quarter (Småland, Emigrants)"
+          },
+          "coords": [
+            14.8122,
+            56.879
+          ],
+          "category": "museums",
+          "arrive_at": "10:41",
+          "stay_min": 150,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein Spaziergang durch den Park führt Sie direkt zu den Museen.",
+            "hu": "Egy séta a parkon keresztül egyenesen a múzeumokhoz vezet.",
+            "ro": "O plimbare prin parc vă va duce direct la muzee.",
+            "en": "A walk through the park will lead you straight to the museums."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Schloss Teleborg",
+            "hu": "2. klaszter: Teleborg kastély",
+            "ro": "Cluster 2: Castelul Teleborg",
+            "en": "Cluster 2: Teleborg Castle"
+          },
+          "coords": [
+            14.8021,
+            56.8446
+          ],
+          "category": "castles",
+          "arrive_at": "13:46",
+          "stay_min": 75,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus nach Süden zum Campus der Linné-Universität, das Schloss ist in der Nähe.",
+            "hu": "Menjen busszal délre a Linné Egyetem kampuszához, a kastély a közelben van.",
+            "ro": "Luați un autobuz spre sud, spre campusul Universității Linné, castelul este în apropiere.",
+            "en": "Take a bus south towards the Linnaeus University campus; the castle is nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Biskopshagen Naturreservat",
+            "hu": "Biskopshagen Természetvédelmi Terület",
+            "ro": "Rezervația Naturală Biskopshagen",
+            "en": "Biskopshagen Nature Reserve"
+          },
+          "coords": [
+            14.81,
+            56.843
+          ],
+          "category": "natural features",
+          "arrive_at": "15:06",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Schloss führt Sie in dieses ruhige Naturschutzgebiet.",
+            "hu": "Rövid séta a kastélytól ebbe a csendes természetvédelmi területbe vezet.",
+            "ro": "O scurtă plimbare de la castel vă duce în această rezervație naturală liniștită.",
+            "en": "A short walk from the castle takes you into this quiet nature reserve."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: See Helgasjön & Evedal",
+            "hu": "3. klaszter: Helgasjön-tó és Evedal",
+            "ro": "Cluster 3: Lacul Helgasjön și Evedal",
+            "en": "Cluster 3: Lake Helgasjön & Evedal"
+          },
+          "coords": [
+            14.8455,
+            56.9155
+          ],
+          "category": "natural features",
+          "arrive_at": "16:51",
+          "stay_min": 65,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus nach Norden zum beliebten Bade- und Erholungsgebiet Evedal.",
+            "hu": "Menjen busszal északra a népszerű Evedal fürdő- és rekreációs területre.",
+            "ro": "Luați un autobuz spre nord spre populara zonă de înot și recreere Evedal.",
+            "en": "Take a bus north to the popular Evedal swimming and recreation area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln erkunden Sie Växjö bequem in Zonen. Beginnen Sie im Zentrum mit dem Dom und den Museen, alles zu Fuß erreichbar. Ein Bus bringt Sie am frühen Nachmittag zum südlich gelegenen Schloss Teleborg und dem angrenzenden Naturreservat. Den späten Nachmittag verbringen Sie im Norden am Helgasjön-See im Erholungsgebiet Evedal, bevor Sie mit dem Bus ins Zentrum zurückkehren.",
+        "hu": "Tömegközlekedéssel kényelmesen, zónákra bontva fedezheti fel Växjöt. Kezdje a központban a dómmal és a múzeumokkal, melyek mind gyalogosan elérhetők. Kora délután egy busz elviszi a délen fekvő Teleborg kastélyhoz és a szomszédos természetvédelmi területhez. A késő délutánt északon, a Helgasjön-tónál, az Evedal üdülőterületen tölti, mielőtt busszal visszatérne a központba.",
+        "ro": "Cu transportul public, explorați convenabil Växjö pe zone. Începeți în centru cu catedrala și muzeele, toate accesibile pe jos. Un autobuz vă va duce la începutul după-amiezii la Castelul Teleborg din sud și la rezervația naturală adiacentă. Petreceți sfârșitul după-amiezii în nord, la lacul Helgasjön, în zona de recreere Evedal, înainte de a vă întoarce în centru cu autobuzul.",
+        "en": "Using public transport, you can conveniently explore Växjö in zones. Start in the center with the cathedral and museums, all within walking distance. A bus will take you in the early afternoon to Teleborg Castle in the south and the adjacent nature reserve. Spend the late afternoon in the north at Lake Helgasjön in the Evedal recreation area before returning to the center by bus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fika",
+            "tip": "Die schwedische Kaffeepause mit Gebäck. Suchen Sie sich ein gemütliches Café!"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fika",
+            "tip": "A svéd kávészünet süteménnyel. Keressen egy hangulatos kávézót!"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fika",
+            "tip": "Pauza de cafea suedeză cu produse de patiserie. Găsiți o cafenea confortabilă!"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fika",
+            "tip": "The Swedish coffee break with pastries. Find a cozy café!"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Linnéparken",
+            "tip": "Ein botanischer Garten voller ruhiger Ecken und Bänke.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Linné Park",
+            "tip": "Egy botanikus kert tele csendes zugokkal és padokkal.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Linné",
+            "tip": "O grădină botanică plină de colțuri liniștite și bănci.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Linné Park",
+            "tip": "A botanical garden full of quiet corners and benches.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sandgärdsgatan",
+            "tip": "Die Haupteinkaufsstraße in Växjö mit einer Mischung aus schwedischen Ketten und lokalen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sandgärdsgatan",
+            "tip": "Växjö fő bevásárlóutcája svéd láncok és helyi üzletek keverékével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sandgärdsgatan",
+            "tip": "Principala stradă comercială din Växjö, cu un amestec de lanțuri suedeze și magazine locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sandgärdsgatan",
+            "tip": "The main shopping street in Växjö with a mix of Swedish chains and local shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um unbegrenzt fahren zu können. Laden Sie die Fahrplan-App herunter, um Ihre Fahrten in Echtzeit zu verfolgen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra a korlátlan utazáshoz. Töltse le a menetrend-alkalmazást, hogy valós időben követhesse az utazásait."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru călătorii nelimitate. Descărcați aplicația cu orare pentru a urmări călătoriile în timp real."
+        ],
+        "en": [
+          "Buy a day pass for the bus for unlimited travel. Download the timetable app to track your journeys in real-time."
+        ]
+      }
+    }
+  }
+}

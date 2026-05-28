@@ -1,0 +1,1277 @@
+{
+  "city_id": "czechrepublic-trutnov-cities-v2",
+  "anchor": {
+    "name": "Trautenau",
+    "coords": [
+      15.91,
+      50.56
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:56",
+      "total_km": 3.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Rübezahl-Platz",
+            "hu": "Rübezahl tér",
+            "ro": "Piața Rübezahl",
+            "en": "Rübezahl Square"
+          },
+          "coords": [
+            15.9115,
+            50.5606
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier mit einem Kaffee und beobachten Sie das Treiben der Stadt.",
+            "hu": "Kezdje a napot egy kávéval, és figyelje a város ébredését.",
+            "ro": "Începeți ziua aici cu o cafea și observați viața orașului.",
+            "en": "Start here with a coffee and watch the city come to life."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Rathaus",
+            "hu": "Régi Városháza",
+            "ro": "Primăria Veche",
+            "en": "Old Town Hall"
+          },
+          "coords": [
+            15.9122,
+            50.5609
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:39",
+          "stay_min": 20,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckende neugotische Fassade.",
+            "hu": "Figyelje meg a lenyűgöző neogótikus homlokzatot.",
+            "ro": "Admirați impresionanta fațadă neogotică.",
+            "en": "Take note of the impressive neo-Gothic facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Drache von Trutnov",
+            "hu": "Trutnovi sárkány",
+            "ro": "Dragonul din Trutnov",
+            "en": "Dragon of Trutnov"
+          },
+          "coords": [
+            15.9125,
+            50.5612
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:01",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein Wahrzeichen der Stadt – perfekt für ein schnelles Foto.",
+            "hu": "A város jelképe – tökéletes egy gyors fotóhoz.",
+            "ro": "Un simbol al orașului, perfect pentru o fotografie rapidă.",
+            "en": "A symbol of the city, perfect for a quick photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Geburt",
+            "hu": "Szűz Mária Születése templom",
+            "ro": "Biserica Nașterea Maicii Domnului",
+            "en": "Church of the Nativity of the Virgin Mary"
+          },
+          "coords": [
+            15.9098,
+            50.5621
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Finden Sie einen Moment der Ruhe in diesem barocken Juwel.",
+            "hu": "Keressen egy pillanatnyi nyugalmat ebben a barokk ékszerdobozban.",
+            "ro": "Găsiți un moment de liniște în această bijuterie barocă.",
+            "en": "Find a moment of peace inside this baroque gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum des Riesengebirgsvorlands",
+            "hu": "Az Óriás-hegység Elővidékének Múzeuma",
+            "ro": "Muzeul Subcarpaților Krkonoše",
+            "en": "Museum of the Krkonoše Foothills"
+          },
+          "coords": [
+            15.9155,
+            50.5595
+          ],
+          "category": "museums",
+          "arrive_at": "11:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Planen Sie genug Zeit für die historischen und ethnographischen Sammlungen ein.",
+            "hu": "Szánjon elég időt a történelmi és néprajzi gyűjteményekre.",
+            "ro": "Planificați suficient timp pentru colecțiile istorice și etnografice.",
+            "en": "Plan enough time for the historical and ethnographic collections."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Uffo",
+            "hu": "Uffo Kulturális Központ",
+            "ro": "Centrul Cultural Uffo",
+            "en": "Uffo Cultural Centre"
+          },
+          "coords": [
+            15.9067,
+            50.563
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:18",
+          "stay_min": 20,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Informieren Sie sich über das Abendprogramm, vielleicht gibt es eine interessante Vorstellung.",
+            "hu": "Nézze meg az esti programot, hátha van egy érdekes előadás.",
+            "ro": "Verificați programul de seară, s-ar putea să fie un spectacol interesant.",
+            "en": "Check the evening schedule, there might be an interesting performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Gablenz-Denkmal",
+            "hu": "Gablenz-emlékmű",
+            "ro": "Monumentul Gablenz",
+            "en": "Gablenz Memorial"
+          },
+          "coords": [
+            15.9221,
+            50.5681
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:04",
+          "stay_min": 25,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick über die Stadt von diesem Hügel aus.",
+            "hu": "Élvezze a panorámát a városra erről a dombról.",
+            "ro": "Bucurați-vă de vederea panoramică asupra orașului de pe acest deal.",
+            "en": "Enjoy the panoramic view over the city from this hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark",
+            "hu": "Városi park",
+            "ro": "Parcul Orașului",
+            "en": "City Park"
+          },
+          "coords": [
+            15.918,
+            50.5565
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für eine entspannte Pause am Nachmittag.",
+            "hu": "Ideális hely egy délutáni, pihentető szünetre.",
+            "ro": "Un loc ideal pentru o pauză relaxantă după-amiaza.",
+            "en": "An ideal spot for a relaxing afternoon break."
+          }
+        }
+      ],
+      "end_estimate_with_buffer": "17:56",
+      "narrative_4lang": {
+        "de": "Ihr Tag in Trutnov beginnt am belebten Rübezahl-Platz, dem Herzen der Stadt. Von hier aus erkunden Sie zu Fuß die historischen Schätze des Zentrums, wie das neugotische Rathaus und die Legende des Drachen. Die barocke Kirche Mariä Geburt bietet einen Moment der Stille, bevor Sie tiefer in die Geschichte der Region eintauchen. Am Nachmittag führt Sie ein Spaziergang zum Museum, das die Kultur des Riesengebirgsvorlandes beleuchtet. Ein Besuch im modernen Uffo-Kulturzentrum zeigt die zeitgenössische Seite der Stadt. Den Abschluss bilden ein kurzer Anstieg zum Gablenz-Denkmal mit seiner weiten Aussicht und eine wohlverdiente Pause im grünen Stadtpark, wo Sie die Eindrücke des Tages Revue passieren lassen können.",
+        "hu": "A nap Trutnovban a nyüzsgő Rübezahl téren, a város szívében kezdődik. Innen gyalogosan fedezi fel a központ történelmi kincseit, mint a neogótikus városházát és a sárkány legendáját. A barokk Szűz Mária Születése templom egy csendes pillanatot kínál, mielőtt mélyebbre merülne a régió történelmében. Délután egy séta a múzeumhoz vezet, amely bemutatja az Óriás-hegység elővidékének kultúráját. A modern Uffo Kulturális Központ meglátogatása a város kortárs oldalát tárja fel. A napot egy rövid emelkedő a Gablenz-emlékműhöz és a tágas kilátás, valamint egy jól megérdemelt pihenő a zöld városi parkban zárja, ahol feldolgozhatja a nap élményeit.",
+        "ro": "Ziua dumneavoastră în Trutnov începe în animata Piață Rübezahl, inima orașului. De aici, explorați pe jos comorile istorice ale centrului, precum primăria neogotică și legenda dragonului. Biserica barocă a Nașterii Maicii Domnului oferă un moment de liniște înainte de a vă adânci în istoria regiunii. După-amiaza, o plimbare vă duce la muzeu, care ilustrează cultura Subcarpaților Krkonoše. O vizită la modernul Centru Cultural Uffo dezvăluie latura contemporană a orașului. Ziua se încheie cu o scurtă urcare la Monumentul Gablenz, cu priveliștea sa panoramică, și o pauză binemeritată în parcul verde al orașului, unde puteți reflecta asupra impresiilor zilei.",
+        "en": "Your day in Trutnov begins at the bustling Rübezahl Square, the heart of the city. From here, you'll explore the historic treasures of the center on foot, like the neo-Gothic town hall and the legend of the dragon. The baroque Church of the Nativity of the Virgin Mary offers a moment of tranquility before you delve deeper into the region's history. In the afternoon, a walk takes you to the museum, which highlights the culture of the Krkonoše foothills. A visit to the modern Uffo Cultural Centre reveals the city's contemporary side. The day concludes with a short climb to the Gablenz Memorial for its wide views and a well-deserved break in the green City Park, where you can reflect on the day's experiences."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Rinderbraten in Sahnesauce mit Knödeln, ein tschechischer Klassiker. Probieren Sie es im Restaurant 'U Draka'."
+          },
+          {
+            "name": "Bramboráky",
+            "tip": "Knusprige Kartoffelpuffer, oft mit Sauerkraut serviert. Ein perfekter Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Vadasmarha tejszínes mártással, zsemlegombóccal – egy cseh klasszikus. Kóstolja meg az 'U Draka' étteremben."
+          },
+          {
+            "name": "Bramboráky",
+            "tip": "Ropogós tócsni, gyakran savanyú káposztával tálalva. Tökéletes harapnivaló."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Friptură de vită în sos de smântână cu găluște, un clasic ceh. Încercați-l la restaurantul 'U Draka'."
+          },
+          {
+            "name": "Bramboráky",
+            "tip": "Clătite de cartofi crocante, adesea servite cu varză murată. O gustare perfectă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Beef sirloin in cream sauce with dumplings, a Czech classic. Try it at 'U Draka' restaurant."
+          },
+          {
+            "name": "Bramboráky",
+            "tip": "Crispy potato pancakes, often served with sauerkraut. A perfect snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtpark",
+            "tip": "Finden Sie eine ruhige Bank am Teich und genießen Sie die Natur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hügel des Gablenz-Denkmals",
+            "tip": "Abseits des Trubels, mit bestem Blick auf die Stadt und die umliegenden Hügel.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi park",
+            "tip": "Keressen egy csendes padot a tó mellett, és élvezze a természetet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Gablenz-emlékmű dombja",
+            "tip": "Távol a nyüzsgéstől, a legjobb kilátással a városra és a környező dombokra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Orașului",
+            "tip": "Găsiți o bancă liniștită lângă iaz și bucurați-vă de natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dealul Monumentului Gablenz",
+            "tip": "Departe de agitație, cu cea mai bună priveliște asupra orașului și a dealurilor înconjurătoare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Park",
+            "tip": "Find a quiet bench by the pond and enjoy nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gablenz Memorial Hill",
+            "tip": "Away from the hustle and bustle, with the best view of the city and surrounding hills.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Märkte",
+            "tip": "Halten Sie Ausschau nach kleinen Märkten auf dem Hauptplatz für handgemachte Produkte und lokale Erzeugnisse."
+          },
+          {
+            "name": "Rübezahl-Souvenirs",
+            "tip": "Figuren und Andenken an den Berggeist des Riesengebirges sind ein beliebtes Mitbringsel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piacok",
+            "tip": "Keresse a főtéri kis piacokat, ahol kézműves termékeket és helyi árukat talál."
+          },
+          {
+            "name": "Rübezahl-szuvenírek",
+            "tip": "Az Óriás-hegység hegyi szellemének figurái és emléktárgyai népszerű ajándékok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe locale",
+            "tip": "Căutați piețele mici din piața principală pentru produse artizanale și locale."
+          },
+          {
+            "name": "Suveniruri Rübezahl",
+            "tip": "Figurinele și amintirile cu spiritul montan din Munții Karkonosze sunt un suvenir popular."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Markets",
+            "tip": "Look for small markets in the main square for handmade crafts and local produce."
+          },
+          {
+            "name": "Rübezahl Souvenirs",
+            "tip": "Figurines and memorabilia of the mountain spirit of the Giant Mountains are a popular souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum Kopfsteinpflaster hat.",
+          "Die meisten Sehenswürdigkeiten sind kompakt im Zentrum gelegen und leicht zu Fuß erreichbar.",
+          "Nehmen Sie sich Zeit für einen Kaffee in einem der Cafés am Hauptplatz."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a városközpont macskaköves.",
+          "A legtöbb látnivaló a központban található, és gyalogosan is könnyen megközelíthető.",
+          "Szánjon időt egy kávéra a főtéri kávézók egyikében."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul orașului este pavat cu piatră cubică.",
+          "Majoritatea atracțiilor sunt situate compact în centru și sunt ușor accesibile pe jos.",
+          "Luați-vă timp pentru o cafea la una dintre cafenelele din piața principală."
+        ],
+        "en": [
+          "Wear comfortable shoes as the city center has cobblestones.",
+          "Most sights are compactly located in the center and easily accessible on foot.",
+          "Take time for a coffee in one of the cafes on the main square."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:47",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rübezahl-Platz & Altes Rathaus",
+            "hu": "Rübezahl tér és Régi Városháza",
+            "ro": "Piața Rübezahl și Primăria Veche",
+            "en": "Rübezahl Square & Old Town Hall"
+          },
+          "coords": [
+            15.9115,
+            50.5606
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Rad an und erkunden Sie den Platz zu Fuß.",
+            "hu": "Zárja le a kerékpárt, és fedezze fel a teret gyalog.",
+            "ro": "Legați-vă bicicleta și explorați piața pe jos.",
+            "en": "Lock up your bike and explore the square on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Geburt",
+            "hu": "Szűz Mária Születése templom",
+            "ro": "Biserica Nașterea Maicii Domnului",
+            "en": "Church of the Nativity of the Virgin Mary"
+          },
+          "coords": [
+            15.9098,
+            50.5621
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:44",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein kurzer, aber lohnender Abstecher vom Hauptplatz.",
+            "hu": "Rövid, de megéri a kitérőt a főtérről.",
+            "ro": "Un ocol scurt, dar care merită, din piața principală.",
+            "en": "A short but worthwhile detour from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Uffo",
+            "hu": "Uffo Kulturális Központ",
+            "ro": "Centrul Cultural Uffo",
+            "en": "Uffo Cultural Centre"
+          },
+          "coords": [
+            15.9067,
+            50.563
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:17",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur im Kontrast zur Altstadt.",
+            "hu": "Csodálja meg a modern építészetet az óváros kontrasztjaként.",
+            "ro": "Admirați arhitectura modernă în contrast cu orașul vechi.",
+            "en": "Admire the modern architecture in contrast to the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark",
+            "hu": "Városi park",
+            "ro": "Parcul Orașului",
+            "en": "City Park"
+          },
+          "coords": [
+            15.918,
+            50.5565
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:44",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Perfekt für eine kleine Radtour durchs Grüne.",
+            "hu": "Tökéletes egy kis biciklitúrához a zöldben.",
+            "ro": "Perfect pentru o mică plimbare cu bicicleta prin parc.",
+            "en": "Perfect for a little bike ride through the greenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum des Riesengebirgsvorlands",
+            "hu": "Az Óriás-hegység Elővidékének Múzeuma",
+            "ro": "Muzeul Subcarpaților Krkonoše",
+            "en": "Museum of the Krkonoše Foothills"
+          },
+          "coords": [
+            15.9155,
+            50.5595
+          ],
+          "category": "museums",
+          "arrive_at": "11:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Rad sicher und nehmen Sie sich Zeit für die Ausstellung.",
+            "hu": "Parkolja le biztonságosan a kerékpárt, és szánjon időt a kiállításra.",
+            "ro": "Parcați bicicleta în siguranță și acordați-vă timp pentru expoziție.",
+            "en": "Park your bike safely and take your time for the exhibition."
+          }
+        },
+        {
+          "name": {
+            "de": "Gablenz-Denkmal",
+            "hu": "Gablenz-emlékmű",
+            "ro": "Monumentul Gablenz",
+            "en": "Gablenz Memorial"
+          },
+          "coords": [
+            15.9221,
+            50.5681
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:44",
+          "stay_min": 30,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Der Anstieg ist die Aussicht wert! Stellen Sie sich auf eine kleine Herausforderung ein.",
+            "hu": "Az emelkedő megéri a kilátást! Készüljön fel egy kis kihívásra.",
+            "ro": "Urcușul merită priveliștea! Pregătiți-vă pentru o mică provocare.",
+            "en": "The climb is worth the view! Prepare for a small challenge."
+          }
+        },
+        {
+          "name": {
+            "de": "Haas-Palast",
+            "hu": "Haas-palota",
+            "ro": "Palatul Haas",
+            "en": "Haas Palace"
+          },
+          "coords": [
+            15.925,
+            50.572
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:39",
+          "stay_min": 25,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Ein schöner Abschluss der Tour, bewundern Sie die Architektur von außen.",
+            "hu": "A túra szép befejezése, csodálja meg az építészetet kívülről.",
+            "ro": "Un final frumos al turului, admirați arhitectura din exterior.",
+            "en": "A beautiful end to the tour, admire the architecture from the outside."
+          }
+        }
+      ],
+      "end_estimate_with_buffer": "16:47",
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel und entdecken Sie Trutnov auf zwei Rädern. Ihre Tour beginnt im historischen Herzen, am Rübezahl-Platz. Von dort radeln Sie zu den nahegelegenen Juwelen wie der Marienkirche und dem modernen Uffo-Kulturzentrum. Eine längere, erfrischende Fahrt führt Sie in den Stadtpark, ideal für eine Pause im Grünen. Gestärkt geht es weiter zum Museum, wo Sie in die Regionalgeschichte eintauchen. Der sportliche Höhepunkt ist der Anstieg zum Gablenz-Denkmal, der mit einer atemberaubenden Aussicht belohnt wird, bevor Sie die Tour beim architektonisch interessanten Haas-Palast ausklingen lassen.",
+        "hu": "Pattanjon nyeregbe, és fedezze fel Trutnovot két keréken! A túra a történelmi szívben, a Rübezahl téren kezdődik. Innen a közeli ékkövekhez, például a Mária-templomhoz és a modern Uffo Kulturális Központhoz tekerhet. Egy hosszabb, frissítő út a Városi parkba vezet, amely ideális egy zöld pihenőhöz. Megerősödve halad tovább a múzeum felé, ahol elmerülhet a helytörténetben. A sportos csúcspont a Gablenz-emlékműhöz vezető emelkedő, amelyet lélegzetelállító kilátás jutalmaz, mielőtt a túrát az építészetileg érdekes Haas-palotánál fejezi be.",
+        "ro": "Urcați-vă pe bicicletă și descoperiți Trutnov pe două roți. Turul dumneavoastră începe în inima istorică, în Piața Rübezahl. De acolo, pedalați spre bijuteriile din apropiere, precum Biserica Sf. Maria și modernul Centru Cultural Uffo. O plimbare mai lungă și revigorantă vă duce în Parcul Orașului, ideal pentru o pauză în natură. Întărit, continuați spre muzeu, unde vă puteți cufunda în istoria regională. Punctul culminant sportiv este urcarea la Monumentul Gablenz, care vă răsplătește cu o priveliște uluitoare, înainte de a încheia turul la Palatul Haas, interesant din punct de vedere arhitectural.",
+        "en": "Get on your bike and discover Trutnov on two wheels. Your tour starts in the historic heart, at Rübezahl Square. From there, you'll cycle to nearby gems like St. Mary's Church and the modern Uffo Cultural Centre. A longer, refreshing ride takes you to the City Park, ideal for a green break. Refreshed, you'll continue to the museum to immerse yourself in regional history. The sporting highlight is the climb to the Gablenz Memorial, which rewards you with a breathtaking view before you round off the tour at the architecturally interesting Haas Palace."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pivo a Utopenec",
+            "tip": "Ein lokales Bier und eine eingelegte Wurst sind der perfekte Radler-Snack. Suchen Sie nach einer 'hospoda'."
+          },
+          {
+            "name": "Kofola",
+            "tip": "Probieren Sie die tschechische Alternative zu Cola, ein Kräuter-Softdrink."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pivo és Utopenec",
+            "tip": "Egy helyi sör és egy pácolt virsli a tökéletes kerékpáros harapnivaló. Keressen egy 'hospoda'-t."
+          },
+          {
+            "name": "Kofola",
+            "tip": "Kóstolja meg a kóla cseh alternatíváját, egy gyógynövényes üdítőt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pivo și Utopenec",
+            "tip": "O bere locală și un cârnat murat sunt gustarea perfectă pentru un ciclist. Căutați o 'hospoda'."
+          },
+          {
+            "name": "Kofola",
+            "tip": "Încercați alternativa cehă la Cola, o băutură răcoritoare din plante."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pivo and Utopenec",
+            "tip": "A local beer and a pickled sausage make the perfect cyclist's snack. Look for a 'hospoda'."
+          },
+          {
+            "name": "Kofola",
+            "tip": "Try the Czech alternative to Coke, a herbal soft drink."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Úpa-Flusses",
+            "tip": "Finden Sie einen ruhigen Radweg entlang des Flusses für eine entspannte Fahrt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussicht vom Gablenz-Denkmal",
+            "tip": "Nach dem Anstieg die Ruhe und die weite Aussicht genießen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az Úpa folyó partja",
+            "tip": "Keressen egy csendes kerékpárutat a folyó mentén egy pihentető tekeréshez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a Gablenz-emlékműtől",
+            "tip": "A kaptató után élvezze a csendet és a tágas kilátást.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Úpa",
+            "tip": "Găsiți o pistă de biciclete liniștită de-a lungul râului pentru o plimbare relaxantă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Priveliștea de la Monumentul Gablenz",
+            "tip": "După urcare, bucurați-vă de liniște și de priveliștea largă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Úpa River",
+            "tip": "Find a quiet cycle path along the river for a relaxing ride.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from the Gablenz Memorial",
+            "tip": "After the climb, enjoy the peace and the wide view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Lokale Fahrradläden bieten oft auch spezielle Ausrüstung oder Souvenirs für Radfahrer an."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "A helyi kerékpárboltok gyakran kínálnak speciális felszereléseket vagy szuveníreket kerékpárosoknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Magazinele locale de biciclete oferă adesea echipamente speciale sau suveniruri pentru cicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "Local bike shops often offer special gear or souvenirs for cyclists."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Luftdruck Ihrer Reifen vor der Abfahrt.",
+          "Einige Anstiege können anspruchsvoll sein, eine gute Gangschaltung ist von Vorteil.",
+          "Achten Sie auf Fußgänger in der Innenstadt."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Néhány emelkedő kihívást jelenthet, a jó sebességváltó előny.",
+          "Vigyázzon a gyalogosokra a belvárosban."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de a pleca.",
+          "Unele urcări pot fi solicitante, o transmisie bună este un avantaj.",
+          "Fiți atenți la pietoni în centrul orașului."
+        ],
+        "en": [
+          "Check your tire pressure before setting off.",
+          "Some climbs can be challenging, good gears are an advantage.",
+          "Watch out for pedestrians in the city center."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:51",
+      "total_km": 7.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Historisches Zentrum",
+            "hu": "1. klaszter: Történelmi központ",
+            "ro": "Cluster 1: Centrul Istoric",
+            "en": "Cluster 1: Historic Center"
+          },
+          "coords": [
+            15.9115,
+            50.5606
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Zentrums. Sie erkunden diesen Bereich zu Fuß.",
+            "hu": "Parkoljon a központ közelében. Ezt a területet gyalogosan fogja felfedezni.",
+            "ro": "Parcați lângă centru. Veți explora această zonă pe jos.",
+            "en": "Park near the center. You will explore this area on foot."
+          },
+          "hop_mode": "car"
+        },
+        {
+          "name": {
+            "de": "Rübezahl-Platz & Altes Rathaus",
+            "hu": "Rübezahl tér és Régi Városháza",
+            "ro": "Piața Rübezahl și Primăria Veche",
+            "en": "Rübezahl Square & Old Town Hall"
+          },
+          "coords": [
+            15.9122,
+            50.5609
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der Ausgangspunkt Ihrer Erkundung.",
+            "hu": "A felfedezés kiindulópontja.",
+            "ro": "Punctul de plecare al explorării dumneavoastră.",
+            "en": "The starting point of your exploration."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Geburt",
+            "hu": "Szűz Mária Születése templom",
+            "ro": "Biserica Nașterea Maicii Domnului",
+            "en": "Church of the Nativity of the Virgin Mary"
+          },
+          "coords": [
+            15.9098,
+            50.5621
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:04",
+          "stay_min": 35,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Platz entfernt.",
+            "hu": "Csak egy rövid séta a tértől.",
+            "ro": "La doar o scurtă plimbare de piață.",
+            "en": "Just a short walk from the square."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Kultur & Natur",
+            "hu": "2. klaszter: Kultúra és természet",
+            "ro": "Cluster 2: Cultură și Natură",
+            "en": "Cluster 2: Culture & Nature"
+          },
+          "coords": [
+            15.9155,
+            50.5595
+          ],
+          "category": "museums",
+          "arrive_at": "10:50",
+          "stay_min": 0,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Museum und parken Sie erneut.",
+            "hu": "Vezessen a múzeumhoz, és parkoljon le újra.",
+            "ro": "Conduceți la muzeu și parcați din nou.",
+            "en": "Drive to the museum and park again."
+          },
+          "hop_mode": "car"
+        },
+        {
+          "name": {
+            "de": "Museum des Riesengebirgsvorlands",
+            "hu": "Az Óriás-hegység Elővidékének Múzeuma",
+            "ro": "Muzeul Subcarpaților Krkonoše",
+            "en": "Museum of the Krkonoše Foothills"
+          },
+          "coords": [
+            15.9155,
+            50.5595
+          ],
+          "category": "museums",
+          "arrive_at": "10:52",
+          "stay_min": 120,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie tief in die regionale Geschichte ein.",
+            "hu": "Merüljön el mélyen a helytörténetben.",
+            "ro": "Scufundați-vă adânc în istoria regională.",
+            "en": "Dive deep into regional history."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Stadtpark",
+            "hu": "Városi park",
+            "ro": "Parcul Orașului",
+            "en": "City Park"
+          },
+          "coords": [
+            15.918,
+            50.5565
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein entspannender Spaziergang nach dem Museumsbesuch.",
+            "hu": "Egy pihentető séta a múzeumlátogatás után.",
+            "ro": "O plimbare relaxantă după vizita la muzeu.",
+            "en": "A relaxing walk after the museum visit."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Aussichtspunkt",
+            "hu": "3. klaszter: Kilátópont",
+            "ro": "Cluster 3: Punct de observare",
+            "en": "Cluster 3: Viewpoint"
+          },
+          "coords": [
+            15.9221,
+            50.5681
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:04",
+          "stay_min": 45,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Die kurze Fahrt zum Gablenz-Denkmal wird mit einer fantastischen Aussicht belohnt.",
+            "hu": "A rövid út a Gablenz-emlékműhöz fantasztikus kilátással jutalmaz.",
+            "ro": "Scurta călătorie cu mașina până la Monumentul Gablenz este răsplătită cu o priveliște fantastică.",
+            "en": "The short drive to the Gablenz Memorial is rewarded with a fantastic view."
+          },
+          "hop_mode": "car"
+        }
+      ],
+      "end_estimate_with_buffer": "16:51",
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Trutnov flexibel und bequem. Parken Sie im Zentrum und entdecken Sie den ersten Cluster zu Fuß: den Rübezahl-Platz und die Marienkirche. Zurück im Auto geht es zum zweiten Cluster, dem Museum des Riesengebirgsvorlandes, wo Sie tief in die Kultur eintauchen. Ein kurzer Spaziergang durch den angrenzenden Stadtpark bietet eine willkommene Erholung. Die letzte Etappe führt Sie auf den Hügel zum Gablenz-Denkmal. Hier genießen Sie nicht nur die Geschichte, sondern auch den besten Panoramablick über Trutnov, ein perfekter Abschluss für Ihren Tag.",
+        "hu": "Autóval rugalmasan és kényelmesen fedezheti fel Trutnovot. Parkoljon a központban, és fedezze fel gyalog az első klasztert: a Rübezahl teret és a Mária-templomot. Vissza az autóba, és irány a második klaszter, az Óriás-hegység Elővidékének Múzeuma, ahol elmerülhet a kultúrában. Egy rövid séta a szomszédos városi parkban kellemes kikapcsolódást nyújt. Az utolsó szakasz a Gablenz-emlékműhöz vezető dombra visz. Itt nemcsak a történelmet élvezheti, hanem a legjobb panorámát is Trutnovra, ami tökéletes befejezése a napnak.",
+        "ro": "Cu mașina, explorați Trutnov flexibil și confortabil. Parcați în centru și descoperiți primul cluster pe jos: Piața Rübezahl și Biserica Sf. Maria. Înapoi în mașină, mergeți la al doilea cluster, Muzeul Subcarpaților Krkonoše, unde vă veți cufunda în cultură. O scurtă plimbare prin parcul adiacent al orașului oferă o relaxare binevenită. Ultima etapă vă duce pe dealul spre Monumentul Gablenz. Aici vă veți bucura nu numai de istorie, ci și de cea mai bună priveliște panoramică asupra Trutnovului, un final perfect pentru ziua dumneavoastră.",
+        "en": "By car, you can explore Trutnov flexibly and comfortably. Park in the center and discover the first cluster on foot: Rübezahl Square and St. Mary's Church. Back in the car, head to the second cluster, the Museum of the Krkonoše Foothills, where you'll immerse yourself in the culture. A short walk through the adjacent city park offers a welcome respite. The final stage takes you up the hill to the Gablenz Memorial. Here you'll not only enjoy the history but also the best panoramic view over Trutnov, a perfect end to your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Na Kopečku",
+            "tip": "Etwas außerhalb des Zentrums gelegen, oft mit dem Auto leichter zu erreichen und bietet authentische tschechische Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Na Kopečku Étterem",
+            "tip": "Kicsit a központon kívül található, gyakran könnyebben megközelíthető autóval, és autentikus cseh konyhát kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul Na Kopečku",
+            "tip": "Situat puțin în afara centrului, adesea mai ușor accesibil cu mașina și oferă bucătărie cehă autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Na Kopečku Restaurant",
+            "tip": "Located a bit outside the center, often easier to reach by car and offers authentic Czech cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parkplatz am Gablenz-Denkmal",
+            "tip": "Genießen Sie die Ruhe und die Aussicht, bevor Sie wieder ins Auto steigen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parkoló a Gablenz-emlékműnél",
+            "tip": "Élvezze a csendet és a kilátást, mielőtt visszaül az autóba.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcarea de la Monumentul Gablenz",
+            "tip": "Bucurați-vă de liniște și de priveliște înainte de a vă urca din nou în mașină.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parking at the Gablenz Memorial",
+            "tip": "Enjoy the peace and the view before getting back in the car.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Großhandelszentren am Stadtrand",
+            "tip": "Mit dem Auto können Sie leicht größere Einkaufszentren am Rande der Stadt für umfassendere Einkäufe erreichen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nagykereskedelmi központok a város szélén",
+            "tip": "Autóval könnyen elérheti a város szélén található nagyobb bevásárlóközpontokat az átfogóbb vásárlásokhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centre comerciale la periferia orașului",
+            "tip": "Cu mașina puteți ajunge cu ușurință la centrele comerciale mai mari de la marginea orașului pentru cumpărături mai extinse."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shopping centers on the outskirts",
+            "tip": "By car, you can easily reach larger shopping centers on the outskirts of the city for more extensive shopping."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in der Innenstadt kann gebührenpflichtig sein. Halten Sie Münzen bereit.",
+          "Nutzen Sie Park-and-Ride-Möglichkeiten, falls verfügbar.",
+          "Planen Sie Ihre Route im Voraus, um Einbahnstraßen zu vermeiden."
+        ],
+        "hu": [
+          "A belvárosi parkolás díjköteles lehet. Készítsen elő érméket.",
+          "Használja a Park-and-Ride lehetőségeket, ha rendelkezésre állnak.",
+          "Tervezze meg előre az útvonalat az egyirányú utcák elkerülése érdekében."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi contra cost. Pregătiți monede.",
+          "Folosiți opțiunile Park-and-Ride, dacă sunt disponibile.",
+          "Planificați-vă traseul în avans pentru a evita străzile cu sens unic."
+        ],
+        "en": [
+          "Parking in the city center can be paid. Have coins ready.",
+          "Use Park-and-Ride options if available.",
+          "Plan your route in advance to avoid one-way streets."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft: Hauptplatz",
+            "hu": "Érkezés: Főtér",
+            "ro": "Sosire: Piața Principală",
+            "en": "Arrival: Main Square"
+          },
+          "coords": [
+            15.9115,
+            50.5606
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie im Zentrum, das Sie von der Hauptbushaltestelle aus erreichen.",
+            "hu": "Kezdje a központban, amelyet a fő buszmegállóból érhet el.",
+            "ro": "Începeți în centru, la care puteți ajunge de la stația principală de autobuz.",
+            "en": "Start in the center, accessible from the main bus station."
+          },
+          "hop_mode": "transit"
+        },
+        {
+          "name": {
+            "de": "Rübezahl-Platz & Drache",
+            "hu": "Rübezahl tér és a Sárkány",
+            "ro": "Piața Rübezahl și Dragonul",
+            "en": "Rübezahl Square & Dragon"
+          },
+          "coords": [
+            15.9125,
+            50.5612
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie den Platz und seine Denkmäler.",
+            "hu": "Fedezze fel a teret és emlékműveit.",
+            "ro": "Explorați piața și monumentele sale.",
+            "en": "Explore the square and its monuments."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Geburt",
+            "hu": "Szűz Mária Születése templom",
+            "ro": "Biserica Nașterea Maicii Domnului",
+            "en": "Church of the Nativity of the Virgin Mary"
+          },
+          "coords": [
+            15.9098,
+            50.5621
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:02",
+          "stay_min": 35,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Fußweg vom belebten Platz.",
+            "hu": "Egy rövid séta a nyüzsgő tértől.",
+            "ro": "O scurtă plimbare pe jos de la piața aglomerată.",
+            "en": "A short walk from the bustling square."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Kulturviertel",
+            "hu": "Utazás a kulturális negyedbe",
+            "ro": "Călătorie spre cartierul cultural",
+            "en": "Trip to the Cultural District"
+          },
+          "coords": [
+            15.9067,
+            50.563
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:53",
+          "stay_min": 0,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus zum Uffo-Zentrum.",
+            "hu": "Menjen helyi busszal az Uffo központhoz.",
+            "ro": "Luați un autobuz local spre Centrul Uffo.",
+            "en": "Take a local bus to the Uffo Centre."
+          },
+          "hop_mode": "transit"
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Uffo & Spaziergang zum Museum",
+            "hu": "Uffo Kulturális Központ és séta a múzeumhoz",
+            "ro": "Centrul Cultural Uffo și plimbare la muzeu",
+            "en": "Uffo Cultural Centre & Walk to Museum"
+          },
+          "coords": [
+            15.9155,
+            50.5595
+          ],
+          "category": "museums",
+          "arrive_at": "12:13",
+          "stay_min": 120,
+          "hop_from_prev_min": 80,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Nach Besichtigung des Uffo ist das Museum zu Fuß erreichbar.",
+            "hu": "Az Uffo megtekintése után a múzeum gyalogosan is elérhető.",
+            "ro": "După vizitarea Uffo, muzeul este la distanță de mers pe jos.",
+            "en": "After visiting Uffo, the museum is within walking distance."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Stadtpark",
+            "hu": "Utazás a Városligetbe",
+            "ro": "Călătorie spre Parcul Orașului",
+            "en": "Trip to the City Park"
+          },
+          "coords": [
+            15.918,
+            50.5565
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein letzter Bus bringt Sie in die Nähe des Parks für eine entspannte Zeit.",
+            "hu": "Egy utolsó busz visz a park közelébe egy kis pihenésre.",
+            "ro": "Un ultim autobuz vă va duce aproape de parc pentru o perioadă de relaxare.",
+            "en": "A final bus ride takes you near the park for some relaxation time."
+          },
+          "hop_mode": "transit"
+        }
+      ],
+      "end_estimate_with_buffer": "17:15",
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln entdecken Sie Trutnov wie ein Einheimischer. Beginnen Sie im Herzen der Stadt, dem Rübezahl-Platz, den Sie leicht von der Hauptbushaltestelle erreichen. Erkunden Sie das historische Zentrum zu Fuß. Ein kurzer Bus bringt Sie dann in das Viertel um das moderne Uffo-Kulturzentrum. Von dort ist es ein angenehmer Spaziergang zum Museum, wo Sie den Vormittag verbringen. Für den Nachmittag bringt Sie ein weiterer Bus in die Nähe des weitläufigen Stadtparks, der zu einem entspannten Spaziergang einlädt und den perfekten Abschluss eines abwechslungsreichen Tages bildet.",
+        "hu": "A tömegközlekedéssel úgy fedezheti fel Trutnovot, mint egy helyi. Kezdje a város szívében, a Rübezahl téren, amely könnyen megközelíthető a fő buszmegállóból. Fedezze fel gyalog a történelmi központot. Ezután egy rövid busz viszi a modern Uffo Kulturális Központ körüli negyedbe. Innen kellemes séta vezet a múzeumhoz, ahol a délelőttöt töltheti. Délután egy másik busz viszi a tágas városi park közelébe, amely egy pihentető sétára csábít, és tökéletes lezárása egy változatos napnak.",
+        "ro": "Cu transportul public, descoperiți Trutnov ca un localnic. Începeți în inima orașului, Piața Rübezahl, ușor accesibilă de la stația principală de autobuz. Explorați centrul istoric pe jos. Un autobuz scurt vă va duce apoi în cartierul din jurul modernului Centru Cultural Uffo. De acolo, este o plimbare plăcută până la muzeu, unde vă veți petrece dimineața. Pentru după-amiază, un alt autobuz vă va duce aproape de parcul întins al orașului, care vă invită la o plimbare relaxantă și reprezintă finalul perfect al unei zile variate.",
+        "en": "Using public transport, you can discover Trutnov like a local. Start in the heart of the city, Rübezahl Square, easily accessible from the main bus station. Explore the historic center on foot. A short bus ride will then take you to the district around the modern Uffo Cultural Centre. From there, it's a pleasant walk to the museum, where you'll spend the morning. For the afternoon, another bus will take you near the spacious city park, which invites you for a relaxing walk and is the perfect end to a varied day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Imbiss am Busbahnhof",
+            "tip": "Probieren Sie einen 'párek v rohlíku' (Hotdog im Brötchen) für einen schnellen, authentischen Snack."
+          },
+          {
+            "name": "Lokale Bäckerei ('Pekárna')",
+            "tip": "Holen Sie sich ein 'koláč' (süßes Gebäck) für die Busfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Büfé a buszpályaudvaron",
+            "tip": "Kóstoljon meg egy 'párek v rohlíku'-t (hot dog kifliben) egy gyors, autentikus harapnivalóért."
+          },
+          {
+            "name": "Helyi pékség ('Pekárna')",
+            "tip": "Vegyen egy 'koláč'-ot (édes sütemény) a buszútra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gustare la autogară",
+            "tip": "Încercați un 'párek v rohlíku' (hot dog în chiflă) pentru o gustare rapidă și autentică."
+          },
+          {
+            "name": "Brutărie locală ('Pekárna')",
+            "tip": "Luați un 'koláč' (produs de patiserie dulce) pentru călătoria cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Snack at the bus station",
+            "tip": "Try a 'párek v rohlíku' (hot dog in a roll) for a quick, authentic snack."
+          },
+          {
+            "name": "Local bakery ('Pekárna')",
+            "tip": "Get a 'koláč' (sweet pastry) for the bus ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obere Sitzreihe im Bus",
+            "tip": "Genießen Sie die Aussicht auf die Stadt während der Fahrt.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Eine Bank im hinteren Teil des Stadtparks",
+            "tip": "Fernab der Hauptwege finden Sie hier Ruhe.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Felső üléssor a buszon",
+            "tip": "Élvezze a városra nyíló kilátást utazás közben.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Egy pad a városi park hátsó részében",
+            "tip": "A fő utaktól távol itt nyugalmat talál.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rândul de sus în autobuz",
+            "tip": "Bucurați-vă de priveliștea orașului în timpul călătoriei.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "O bancă în spatele parcului orașului",
+            "tip": "Departe de căile principale, veți găsi liniște aici.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Top row on the bus",
+            "tip": "Enjoy the view of the city during the ride.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "A bench in the back of the city park",
+            "tip": "Away from the main paths, you will find peace here.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Hier finden Sie Zeitungen, Getränke und kleine Snacks für Ihre Reise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszpályaudvaron",
+            "tip": "Itt újságokat, italokat és apró harapnivalókat talál az utazáshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la autogară",
+            "tip": "Aici veți găsi ziare, băuturi și mici gustări pentru călătoria dumneavoastră."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus station",
+            "tip": "Here you will find newspapers, drinks and small snacks for your journey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel, das ist oft am günstigsten.",
+          "Informieren Sie sich im Voraus über die Buslinien und Fahrpläne.",
+          "Haben Sie Kleingeld für Tickets parat, wenn Sie direkt beim Fahrer kaufen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, gyakran ez a legolcsóbb.",
+          "Tájékozódjon előre a buszjáratokról és a menetrendekről.",
+          "Készítsen elő aprópénzt a jegyekhez, ha közvetlenül a sofőrnél vásárol."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public, este adesea cel mai ieftin.",
+          "Informați-vă în avans despre liniile de autobuz și orare.",
+          "Pregătiți mărunțiș pentru bilete dacă cumpărați direct de la șofer."
+        ],
+        "en": [
+          "Buy a day ticket for public transport, it's often the cheapest.",
+          "Find out about bus routes and timetables in advance.",
+          "Have small change ready for tickets if you buy directly from the driver."
+        ]
+      }
+    }
+  }
+}

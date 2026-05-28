@@ -1,0 +1,1327 @@
+{
+  "city_id": "balatonfured",
+  "anchor": {
+    "name": "Balatonfüred",
+    "coords": [
+      17.8833,
+      46.95
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rundkirche",
+            "hu": "Kerektemplom",
+            "ro": "Biserica Rotundă",
+            "en": "Round Church"
+          },
+          "coords": [
+            17.8884,
+            46.9591
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassizistische Einfachheit und die besondere Akustik im Inneren.",
+            "hu": "Csodáld meg a klasszicista egyszerűséget és a különleges belső akusztikát.",
+            "ro": "Admirați simplitatea clasicistă și acustica specială din interior.",
+            "en": "Admire the classicist simplicity and the special acoustics inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Jókai-Mór-Gedenkhaus",
+            "hu": "Jókai Mór Emlékház",
+            "ro": "Casa Memorială Jókai Mór",
+            "en": "Jókai Mór Memorial House"
+          },
+          "coords": [
+            17.8901,
+            46.9565
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erhalten Sie einen Einblick in das Leben des berühmten ungarischen Schriftstellers im 19. Jahrhundert.",
+            "hu": "Nyerj bepillantást a híres magyar író 19. századi életébe.",
+            "ro": "Descoperiți viața celebrului scriitor maghiar din secolul al XIX-lea.",
+            "en": "Get a glimpse into the life of the famous 19th-century Hungarian writer."
+          }
+        },
+        {
+          "name": {
+            "de": "Vaszary-Villa",
+            "hu": "Vaszary-villa",
+            "ro": "Vila Vaszary",
+            "en": "Vaszary Villa"
+          },
+          "coords": [
+            17.8895,
+            46.956
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Prüfen Sie das aktuelle Ausstellungsprogramm, es gibt oft hochwertige Kunst zu sehen.",
+            "hu": "Nézd meg az aktuális kiállítási programot, gyakran vannak itt színvonalas tárlatok.",
+            "ro": "Verificați programul actual de expoziții; adesea prezintă artă de înaltă calitate.",
+            "en": "Check the current exhibition schedule; they often feature high-quality art."
+          }
+        },
+        {
+          "name": {
+            "de": "Tagore-Promenade",
+            "hu": "Tagore-sétány",
+            "ro": "Promenada Tagore",
+            "en": "Tagore Promenade"
+          },
+          "coords": [
+            17.892,
+            46.953
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ideal für einen entspannten Spaziergang am Seeufer, besonders bei Sonnenuntergang.",
+            "hu": "Ideális egy pihentető tóparti sétához, különösen naplementekor.",
+            "ro": "Ideal pentru o plimbare relaxantă pe malul lacului, mai ales la apus.",
+            "en": "Perfect for a relaxing stroll along the lake shore, especially at sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "Bodorka Balaton Wasserwelt Besucherzentrum",
+            "hu": "Bodorka Balatoni Vízivilág Látogatóközpont",
+            "ro": "Centrul de Vizitare Lumea Acvatică Bodorka",
+            "en": "Bodorka Balaton Water World Visitor Centre"
+          },
+          "coords": [
+            17.8955,
+            46.9525
+          ],
+          "category": "museums",
+          "arrive_at": "14:43",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Unterwasserwelt des Plattensees in den Aquarien.",
+            "hu": "Fedezd fel a Balaton vízi élővilágát az akváriumokban.",
+            "ro": "Descoperiți lumea subacvatică a lacului Balaton în acvarii.",
+            "en": "Discover the underwater world of Lake Balaton in the aquariums."
+          }
+        },
+        {
+          "name": {
+            "de": "Vitorlázeum",
+            "hu": "Vitorlázeum",
+            "ro": "Vitorlázeum (Muzeul Navigației)",
+            "en": "Vitorlázeum (Sailing Museum)"
+          },
+          "coords": [
+            17.893,
+            46.9515
+          ],
+          "category": "museums",
+          "arrive_at": "15:53",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Interaktive Ausstellung über die Geschichte des Segelns auf dem Plattensee.",
+            "hu": "Interaktív kiállítás a balatoni vitorlázás történetéről. Próbáld ki a vihar-szimulátort!",
+            "ro": "Expoziție interactivă despre istoria navigației pe Lacul Balaton.",
+            "en": "Interactive exhibition on the history of sailing on Lake Balaton."
+          }
+        },
+        {
+          "name": {
+            "de": "Anna-Ball-Platz & Horváth-Haus",
+            "hu": "Anna-bál tér és Horváth-ház",
+            "ro": "Piața Balului Anna și Casa Horváth",
+            "en": "Anna Ball Square & Horváth House"
+          },
+          "coords": [
+            17.8899,
+            46.9555
+          ],
+          "category": "historical",
+          "arrive_at": "17:23",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Das Herz der Reformzeit; stellen Sie sich die eleganten Bälle vor, die hier stattfanden.",
+            "hu": "A reformkor szíve; képzeld el az itt tartott elegáns bálokat.",
+            "ro": "Inima Epocii Reformei; imaginați-vă balurile elegante care au avut loc aici.",
+            "en": "The heart of the Reform Era; imagine the elegant balls held here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit Kultur im Herzen von Füred, erkunden Sie die Villen der Reformzeit. Am Mittag schlendern Sie hinunter zur berühmten Tagore-Promenade für ein Mittagessen mit Seeblick. Der Nachmittag ist der reichen Geschichte des Segelns und der einzigartigen Wasserwelt des Balaton gewidmet. Beenden Sie Ihren Tag mit einem Glas Wein und beobachten Sie den Sonnenuntergang über dem See.",
+        "hu": "Kezdje a napot kultúrával Füred szívében, felfedezve a reformkori villákat. Délben sétáljon le a híres Tagore-sétányra egy tóparti ebédre. A délután a vitorlázás gazdag történelmének és a Balaton egyedülálló vízi világának van szentelve. Zárja a napot egy pohár borral a naplementét nézve a tó felett.",
+        "ro": "Începeți ziua cu cultură în inima orașului Füred, explorând vilele din Epoca Reformei. La prânz, plimbați-vă pe faimoasa promenadă Tagore pentru un prânz cu vedere la lac. După-amiaza este dedicată istoriei bogate a navigației și lumii acvatice unice a Balatonului. Încheiați ziua cu un pahar de vin, urmărind apusul peste lac.",
+        "en": "Start your day with culture in the heart of Füred, exploring the Reform Era villas. At noon, stroll down to the famous Tagore Promenade for a lakeside lunch. The afternoon is dedicated to the rich history of sailing and the unique water world of Lake Balaton. End your day with a glass of wine watching the sunset over the lake."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gebratener Zander",
+            "tip": "Ein Muss am Balaton, am besten in einem Restaurant am Ufer."
+          },
+          {
+            "name": "Baricska Csárda",
+            "tip": "Traditionelle ungarische Küche mit Panoramablick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fogassüllő",
+            "tip": "Kötelező balatoni fogás, a legjobb egy parti étteremben."
+          },
+          {
+            "name": "Baricska Csárda",
+            "tip": "Hagyományos magyar konyha, panorámás kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Șalău prăjit",
+            "tip": "O specialitate obligatorie la Balaton, cel mai bine servită la un restaurant de pe mal."
+          },
+          {
+            "name": "Baricska Csárda",
+            "tip": "Bucătărie tradițională maghiară cu o priveliște panoramică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fried pike-perch",
+            "tip": "A must-try dish at Balaton, best enjoyed at a shore-side restaurant."
+          },
+          {
+            "name": "Baricska Csárda",
+            "tip": "Traditional Hungarian cuisine with a panoramic view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tagore-Promenade am frühen Morgen",
+            "tip": "Erleben Sie die Ruhe des Sees, bevor die Menschenmassen kommen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Bänke im Szívkórház Park",
+            "tip": "Ein friedlicher Ort zum Lesen oder Entspannen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tagore-sétány kora reggel",
+            "tip": "Tapasztald meg a tó nyugalmát a tömeg érkezése előtt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Padok a Szívkórház parkjában",
+            "tip": "Békés hely egy kis olvasáshoz vagy pihenéshez.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada Tagore dimineața devreme",
+            "tip": "Experimentați liniștea lacului înainte de sosirea mulțimilor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Băncile din parcul Spitalului de Cardiologie",
+            "tip": "Un loc pașnic pentru a citi sau a vă relaxa.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tagore Promenade in the early morning",
+            "tip": "Experience the tranquility of the lake before the crowds arrive.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Benches in the Heart Hospital Park",
+            "tip": "A peaceful spot for reading or relaxing.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Füred-Markt",
+            "tip": "Lokale Produkte, Weine und handgefertigte Souvenirs."
+          },
+          {
+            "name": "Kunsthandwerksläden in der Blaha Lujza Straße",
+            "tip": "Einzigartige Geschenke und Kunstwerke von lokalen Künstlern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Füredi Piac",
+            "tip": "Helyi termékek, borok és kézműves ajándéktárgyak."
+          },
+          {
+            "name": "Kézműves boltok a Blaha Lujza utcában",
+            "tip": "Egyedi ajándékok és helyi művészek alkotásai."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața din Füred",
+            "tip": "Produse locale, vinuri și suveniruri artizanale."
+          },
+          {
+            "name": "Magazine de artizanat pe strada Blaha Lujza",
+            "tip": "Cadouri unice și opere de artă de la artiști locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Füred Market",
+            "tip": "Local produce, wines, and handcrafted souvenirs."
+          },
+          {
+            "name": "Artisan shops on Blaha Lujza Street",
+            "tip": "Unique gifts and artworks from local artists."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das meiste zu Fuß erkundet wird.",
+          "Eine Flasche Wasser ist an warmen Tagen unerlässlich.",
+          "Die meisten Museen sind montags geschlossen, planen Sie entsprechend.",
+          "Probieren Sie unbedingt ein 'lángos' an einem der Strandbuffets."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, mivel a felfedezés nagy része gyalog történik.",
+          "Egy üveg víz elengedhetetlen a meleg napokon.",
+          "A legtöbb múzeum hétfőn zárva tart, tervezz ennek megfelelően.",
+          "Feltétlenül kóstolj meg egy lángost az egyik strandbüfében."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece majoritatea explorării se face pe jos.",
+          "O sticlă de apă este esențială în zilele călduroase.",
+          "Majoritatea muzeelor sunt închise lunea, planificați în consecință.",
+          "Asigurați-vă că încercați un 'lángos' la unul dintre bufetele de pe plajă."
+        ],
+        "en": [
+          "Wear comfortable shoes as most of the exploring is on foot.",
+          "A bottle of water is essential on warm days.",
+          "Most museums are closed on Mondays, so plan accordingly.",
+          "Be sure to try a 'lángos' at one of the beach buffets."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:23",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradverleih am Hafen",
+            "hu": "Kerékpárkölcsönző a kikötőnél",
+            "ro": "Închiriere de biciclete în port",
+            "en": "Bike Rental at the Harbor"
+          },
+          "coords": [
+            17.894,
+            46.952
+          ],
+          "category": "service",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wählen Sie ein komfortables Fahrrad für die Tour entlang des Balaton-Radwegs.",
+            "hu": "Válassz egy kényelmes biciklit a Balatoni Bringakörúton való tekeréshez.",
+            "ro": "Alegeți o bicicletă confortabilă pentru turul de-a lungul pistei de biciclete Balaton.",
+            "en": "Choose a comfortable bike for the tour along the Balaton Cycle Route."
+          }
+        },
+        {
+          "name": {
+            "de": "Tagore-Promenade & Bodorka",
+            "hu": "Tagore-sétány és Bodorka",
+            "ro": "Promenada Tagore & Bodorka",
+            "en": "Tagore Promenade & Bodorka"
+          },
+          "coords": [
+            17.892,
+            46.953
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:33",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem gemütlichen Ritt entlang des Sees und einem Besuch der Unterwasserwelt.",
+            "hu": "Kezdd a napot egy kellemes tekeréssel a tóparton és a vízi világ felfedezésével.",
+            "ro": "Începeți ziua cu o plimbare pe malul lacului și o vizită la lumea acvatică.",
+            "en": "Start the day with a gentle ride along the lake and a visit to the water world."
+          }
+        },
+        {
+          "name": {
+            "de": "Villenviertel der Reformzeit",
+            "hu": "Reformkori villanegyed",
+            "ro": "Cartierul vilelor din Epoca Reformei",
+            "en": "Reform Era Villa District"
+          },
+          "coords": [
+            17.889,
+            46.957
+          ],
+          "category": "historical",
+          "arrive_at": "11:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie die Vaszary-Villa und das Jókai-Haus zu Fuß.",
+            "hu": "Tedd le a biciklit, és fedezd fel gyalog a Vaszary-villát és a Jókai-házat.",
+            "ro": "Parcați bicicleta și explorați Vila Vaszary și Casa Jókai pe jos.",
+            "en": "Park your bike and explore the Vaszary Villa and Jókai House on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Innenstadt",
+            "hu": "Ebéd a belvárosban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city center"
+          },
+          "coords": [
+            17.887,
+            46.958
+          ],
+          "category": "gastro",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Viele Restaurants rund um die Blaha Lujza Straße bieten Mittagsmenüs an.",
+            "hu": "Számos étterem kínál ebédmenüt a Blaha Lujza utca környékén.",
+            "ro": "Multe restaurante din jurul străzii Blaha Lujza oferă meniuri de prânz.",
+            "en": "Many restaurants around Blaha Lujza street offer lunch menus."
+          }
+        },
+        {
+          "name": {
+            "de": "Lóczy-Höhle",
+            "hu": "Lóczy-barlang",
+            "ro": "Peștera Lóczy",
+            "en": "Lóczy Cave"
+          },
+          "coords": [
+            17.875,
+            46.965
+          ],
+          "category": "natural features",
+          "arrive_at": "15:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Ein steiler Anstieg, aber die kühle Höhle ist eine willkommene Abwechslung an einem heißen Tag.",
+            "hu": "Meredek emelkedő, de a hűvös barlang kellemes felüdülés egy forró napon.",
+            "ro": "O urcare abruptă, dar peștera răcoroasă este o schimbare binevenită într-o zi fierbinte.",
+            "en": "A steep climb, but the cool cave is a welcome change on a hot day."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr zum Hafen",
+            "hu": "Vissza a kikötőbe",
+            "ro": "Întoarcere în port",
+            "en": "Return to the Harbor"
+          },
+          "coords": [
+            17.894,
+            46.952
+          ],
+          "category": "service",
+          "arrive_at": "16:40",
+          "stay_min": 43,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Geben Sie das Fahrrad zurück und genießen Sie einen letzten Drink mit Blick auf den See.",
+            "hu": "Add le a biciklit és igyál meg egy utolsó italt a tóra nézve.",
+            "ro": "Returnați bicicleta și bucurați-vă de o ultimă băutură cu vedere la lac.",
+            "en": "Return the bike and enjoy a final drink overlooking the lake."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine Radtour in Balatonfüred ist der beste Weg, um die Landschaft zu genießen. Beginnen Sie am Ufer, radeln Sie durch die Geschichte in der Oberstadt. Gönnen Sie sich ein herzhaftes Mittagessen, bevor Sie den Anstieg zur Lóczy-Höhle in Angriff nehmen. Die Abfahrt zurück zum See ist die perfekte Belohnung. Beenden Sie den Tag, wo er begann, am lebhaften Hafen.",
+        "hu": "A balatonfüredi biciklitúra a legjobb módja a táj élvezetének. Kezdj a parton, tekerj át a történelmen a felsővárosban. Engedélyezz magadnak egy kiadós ebédet, mielőtt nekivágsz a Lóczy-barlanghoz vezető emelkedőnek. A lejtő vissza a tóhoz tökéletes jutalom. Fejezd be a napot ott, ahol kezdődött, a nyüzsgő kikötőben.",
+        "ro": "Un tur cu bicicleta în Balatonfüred este cel mai bun mod de a vă bucura de peisaj. Începeți de pe malul apei, pedalați prin istorie în orașul de sus. Savurați un prânz consistent înainte de a aborda urcarea spre Peștera Lóczy. Coborârea înapoi la lac este recompensa perfectă. Încheiați ziua unde a început, în portul plin de viață.",
+        "en": "A bike tour in Balatonfüred is the best way to enjoy the scenery. Start at the waterfront, cycle through history in the upper town. Have a hearty lunch before tackling the climb to Lóczy Cave. The descent back to the lake is the perfect reward. End the day where it began, at the lively harbor."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lángos",
+            "tip": "Der perfekte Snack nach dem Radfahren, zu finden an Strandbuffets."
+          },
+          {
+            "name": "Figula Weinbar",
+            "tip": "Probieren Sie die hervorragenden lokalen Weine nach der Tour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lángos",
+            "tip": "Tökéletes harapnivaló bringázás után, strandbüfékben megtalálható."
+          },
+          {
+            "name": "Figula Borbár",
+            "tip": "Kóstold meg a kiváló helyi borokat a túra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lángos",
+            "tip": "Gustarea perfectă după ciclism, se găsește la bufetele de pe plajă."
+          },
+          {
+            "name": "Figula Wine Bar",
+            "tip": "Degustați vinurile locale excelente după tur."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lángos",
+            "tip": "The perfect snack after cycling, found at beach buffets."
+          },
+          {
+            "name": "Figula Wine Bar",
+            "tip": "Taste the excellent local wines after the tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Koloska-Tal",
+            "tip": "Ein schattiger Rastplatz, wenn Sie Ihre Radtour verlängern möchten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aranyhíd sétány",
+            "tip": "Ein ruhigerer Abschnitt des Ufers, ideal für eine Pause.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Koloska-völgy",
+            "tip": "Árnyékos pihenőhely, ha meghosszabbítanád a bringatúrát.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aranyhíd sétány",
+            "tip": "A part egy csendesebb szakasza, ideális egy kis pihenőre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Valea Koloska",
+            "tip": "Un loc de odihnă umbrit dacă doriți să extindeți turul cu bicicleta.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Promenada Aranyhíd",
+            "tip": "O secțiune mai liniștită a malului, ideală pentru o pauză.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Koloska Valley",
+            "tip": "A shady resting spot if you want to extend your bike tour.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aranyhíd promenade",
+            "tip": "A quieter section of the shore, ideal for a break.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Die umliegenden Akazienwälder produzieren köstlichen Honig."
+          },
+          {
+            "name": "Lavendelprodukte aus Tihany",
+            "tip": "Obwohl es nicht in Füred liegt, verkaufen viele Geschäfte Produkte aus dem nahe gelegenen Tihany."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "A környező akácosokból finom méz származik."
+          },
+          {
+            "name": "Tihanyi levendulás termékek",
+            "tip": "Bár nem Füreden van, sok bolt árul a közeli Tihanyból származó termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Pădurile de salcâm din jur produc miere delicioasă."
+          },
+          {
+            "name": "Produse cu lavandă din Tihany",
+            "tip": "Deși nu este în Füred, multe magazine vând produse din apropiatul Tihany."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local honey",
+            "tip": "The surrounding acacia forests produce delicious honey."
+          },
+          {
+            "name": "Lavender products from Tihany",
+            "tip": "Although not in Füred, many shops sell products from nearby Tihany."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Balaton-Radweg ist größtenteils flach, aber der Weg zur Höhle ist steil.",
+          "Schließen Sie Ihr Fahrrad immer ab, wenn Sie es abstellen.",
+          "Ein Helm wird dringend empfohlen.",
+          "Überprüfen Sie den Reifendruck, bevor Sie losfahren."
+        ],
+        "hu": [
+          "A Balatoni Bringakörút többnyire sík, de a barlanghoz vezető út meredek.",
+          "Mindig zárd le a biciklidet, amikor leteszed.",
+          "A sisak viselése erősen ajánlott.",
+          "Indulás előtt ellenőrizd a keréknyomást."
+        ],
+        "ro": [
+          "Pista de biciclete Balaton este în mare parte plată, dar drumul spre peșteră este abrupt.",
+          "Încuietoarea bicicletei este esențială de fiecare dată când o parcați.",
+          "Casca este puternic recomandată.",
+          "Verificați presiunea în anvelope înainte de a pleca."
+        ],
+        "en": [
+          "The Balaton Cycle Route is mostly flat, but the path to the cave is steep.",
+          "Always lock your bike when leaving it.",
+          "A helmet is strongly recommended.",
+          "Check your tire pressure before you start."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 8.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz bei der Lóczy-Höhle",
+            "hu": "Parkoló a Lóczy-barlangnál",
+            "ro": "Parcare la Peștera Lóczy",
+            "en": "Parking at Lóczy Cave"
+          },
+          "coords": [
+            17.8745,
+            46.9645
+          ],
+          "category": "service",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie am höchsten Punkt. Parken Sie hier und erkunden Sie den oberen Teil der Stadt zu Fuß.",
+            "hu": "Kezdj a legmagasabb ponton. Parkolj le itt, és fedezd fel a város felső részét gyalog.",
+            "ro": "Începeți de la cel mai înalt punct. Parcați aici și explorați partea superioară a orașului pe jos.",
+            "en": "Start at the highest point. Park here and explore the upper part of the town on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Lóczy-Höhle",
+            "hu": "Lóczy-barlang",
+            "ro": "Peștera Lóczy",
+            "en": "Lóczy Cave"
+          },
+          "coords": [
+            17.875,
+            46.965
+          ],
+          "category": "natural features",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eine kurze, aber faszinierende unterirdische Tour.",
+            "hu": "Rövid, de lenyűgöző föld alatti túra.",
+            "ro": "Un tur subteran scurt, dar fascinant.",
+            "en": "A short but fascinating underground tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Rundkirche",
+            "hu": "Kerektemplom",
+            "ro": "Biserica Rotundă",
+            "en": "Round Church"
+          },
+          "coords": [
+            17.8884,
+            46.9591
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang bergab von der Höhle.",
+            "hu": "Kellemes séta lefelé a barlangtól.",
+            "ro": "O plimbare plăcută la vale de la peșteră.",
+            "en": "A pleasant walk downhill from the cave."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Parkhaus am Hafen",
+            "hu": "Autóval a kikötői parkolóházba",
+            "ro": "Cu mașina la parcarea din port",
+            "en": "Drive to the Harbor Parking Garage"
+          },
+          "coords": [
+            17.894,
+            46.952
+          ],
+          "category": "service",
+          "arrive_at": "11:30",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zurück zum Auto und dann zum Seeufer. Parken Sie für den Rest des Tages hier.",
+            "hu": "Menj vissza az autóhoz, majd irány a tópart. Parkolj le itt a nap hátralévő részére.",
+            "ro": "Întoarceți-vă la mașină și conduceți spre malul lacului. Parcați aici pentru restul zilei.",
+            "en": "Go back to the car and drive to the lake shore. Park here for the rest of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Vitorlázeum & Mittagessen",
+            "hu": "Vitorlázeum és ebéd",
+            "ro": "Vitorlázeum și prânz",
+            "en": "Vitorlázeum & Lunch"
+          },
+          "coords": [
+            17.893,
+            46.9515
+          ],
+          "category": "museums",
+          "arrive_at": "11:35",
+          "stay_min": 150,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie das Segelmuseum und essen Sie dann in einem der vielen Restaurants am Hafen zu Mittag.",
+            "hu": "Fedezd fel a vitorlásmúzeumot, majd ebédelj a kikötő egyik éttermében.",
+            "ro": "Explorați muzeul navigației și apoi luați prânzul la unul dintre multele restaurante din port.",
+            "en": "Explore the sailing museum and then have lunch at one of the many harbor restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Tagore-Promenade & Bodorka",
+            "hu": "Tagore-sétány és Bodorka",
+            "ro": "Promenada Tagore & Bodorka",
+            "en": "Tagore Promenade & Bodorka"
+          },
+          "coords": [
+            17.892,
+            46.953
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannter Spaziergang entlang des Sees, um das Mittagessen zu verdauen.",
+            "hu": "Egy pihentető séta a tóparton az ebéd megemésztésére.",
+            "ro": "O plimbare relaxantă de-a lungul lacului pentru a digera prânzul.",
+            "en": "A relaxing walk along the lake to digest lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Vaszary-Villa & Jókai-Haus",
+            "hu": "Vaszary-villa és Jókai Emlékház",
+            "ro": "Vila Vaszary și Casa Memorială Jókai",
+            "en": "Vaszary Villa & Jókai House"
+          },
+          "coords": [
+            17.8901,
+            46.9565
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:50",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Kulturtag mit einem Spaziergang zurück in die Reformzeit.",
+            "hu": "Zárd a kulturális napot egy sétával vissza a reformkorba.",
+            "ro": "Încheiați ziua culturală cu o plimbare înapoi în Epoca Reformei.",
+            "en": "End the cultural day with a walk back to the Reform Era."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Ihr Auto strategisch. Beginnen Sie oben bei der Lóczy-Höhle, um den Anstieg zu vermeiden. Nach der Erkundung des oberen Stadtteils fahren Sie hinunter zum See, parken Ihr Auto und genießen den Rest des Tages zu Fuß. Dieser Plan kombiniert die Bequemlichkeit des Autos mit dem Vergnügen eines entspannten Spaziergangs am Wasser.",
+        "hu": "Használd stratégikusan az autódat. Kezdj fent a Lóczy-barlangnál, hogy elkerüld az emelkedőt. A felső városrész felfedezése után hajts le a tóhoz, parkolj le, és élvezd a nap hátralévő részét gyalog. Ez a terv ötvözi az autó kényelmét a vízparti pihentető séta örömével.",
+        "ro": "Folosiți-vă mașina strategic. Începeți de sus, de la Peștera Lóczy, pentru a evita urcarea. După ce explorați orașul de sus, coborâți la lac, parcați mașina și bucurați-vă de restul zilei pe jos. Acest plan combină confortul mașinii cu plăcerea unei plimbări relaxante pe malul apei.",
+        "en": "Use your car strategically. Start at the top with Lóczy Cave to avoid the climb. After exploring the upper town, drive down to the lake, park your car, and enjoy the rest of the day on foot. This plan combines the convenience of the car with the pleasure of a relaxed waterside stroll."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Borcsa Étterem",
+            "tip": "Direkt an der Promenade, perfekt für ein Mittagessen mit Aussicht."
+          },
+          {
+            "name": "Kredenc Weinbistro",
+            "tip": "Gemütlicher Ort für einen Wein am Abend, etwas abseits des Trubels."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borcsa Étterem",
+            "tip": "Közvetlenül a sétányon, tökéletes egy kilátással egybekötött ebédhez."
+          },
+          {
+            "name": "Kredenc Borbisztró",
+            "tip": "Hangulatos hely egy esti borozáshoz, kicsit távolabb a nyüzsgéstől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul Borcsa",
+            "tip": "Chiar pe promenadă, perfect pentru un prânz cu vedere."
+          },
+          {
+            "name": "Kredenc Weinbistro",
+            "tip": "Loc confortabil pentru un vin de seară, departe de agitație."
+          }
+        ],
+        "en": [
+          {
+            "name": "Borcsa Restaurant",
+            "tip": "Right on the promenade, perfect for a lunch with a view."
+          },
+          {
+            "name": "Kredenc Wine Bistro",
+            "tip": "Cozy place for an evening wine, away from the bustle."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jókai Aussichtsturm",
+            "tip": "Eine kurze Autofahrt entfernt, bietet einen Panoramablick über die gesamte Region.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Der Park der Vaszary-Villa",
+            "tip": "Eine Oase der Ruhe mitten in der Stadt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jókai-kilátó",
+            "tip": "Rövid autóútra található, panorámás kilátást nyújt az egész régióra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Vaszary-villa parkja",
+            "tip": "A nyugalom oázisa a város közepén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Turnul de observație Jókai",
+            "tip": "La o scurtă distanță cu mașina, oferă o vedere panoramică a întregii regiuni.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Vilei Vaszary",
+            "tip": "O oază de liniște în mijlocul orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jókai Lookout Tower",
+            "tip": "A short drive away, offers a panoramic view of the entire region.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "The park of the Vaszary Villa",
+            "tip": "An oasis of calm in the middle of the city.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weingüter der Region",
+            "tip": "Nutzen Sie das Auto, um einige der berühmten Weinkeller in der Umgebung zu besuchen."
+          },
+          {
+            "name": "Porzellanmanufaktur Herend",
+            "tip": "Eine längere Fahrt, aber ein Muss für Liebhaber feinen Porzellans."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Környékbeli borászatok",
+            "tip": "Használd ki az autót, és látogass el a környék híres pincészeteibe."
+          },
+          {
+            "name": "Herendi Porcelánmanufaktúra",
+            "tip": "Hosszabb autóút, de a finom porcelán kedvelőinek kötelező."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cramele din regiune",
+            "tip": "Folosiți mașina pentru a vizita unele dintre celebrele crame din zonă."
+          },
+          {
+            "name": "Manufactura de Porțelan Herend",
+            "tip": "O călătorie mai lungă, dar obligatorie pentru iubitorii de porțelan fin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wineries in the region",
+            "tip": "Use the car to visit some of the famous cellars in the area."
+          },
+          {
+            "name": "Herend Porcelain Manufactory",
+            "tip": "A longer drive, but a must for lovers of fine porcelain."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken kann im Sommer teuer und schwierig sein, nutzen Sie die ausgewiesenen Parkhäuser.",
+          "Planen Sie Ihre Route im Voraus, um Einbahnstraßen zu vermeiden.",
+          "Achten Sie auf Radfahrer auf den Straßen am See.",
+          "Ein GPS ist hilfreich, um die kleineren Straßen zu navigieren."
+        ],
+        "hu": [
+          "A parkolás nyáron drága és nehézkes lehet, használd a kijelölt parkolóházakat.",
+          "Tervezd meg előre az útvonalat az egyirányú utcák elkerülése érdekében.",
+          "Vigyázz a kerékpárosokra a tóparti utakon.",
+          "A GPS segít a kisebb utcákon való navigálásban."
+        ],
+        "ro": [
+          "Parcarea poate fi scumpă și dificilă vara, folosiți parcările desemnate.",
+          "Planificați-vă traseul în avans pentru a evita străzile cu sens unic.",
+          "Fiți atenți la bicicliști pe drumurile de pe malul lacului.",
+          "Un GPS este util pentru a naviga pe străzile mai mici."
+        ],
+        "en": [
+          "Parking can be expensive and difficult in summer, use the designated parking garages.",
+          "Plan your route in advance to avoid one-way streets.",
+          "Watch out for cyclists on the lakeside roads.",
+          "A GPS is helpful for navigating the smaller streets."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof",
+            "hu": "Érkezés a buszpályaudvarra",
+            "ro": "Sosire la autogară",
+            "en": "Arrival at the Bus Station"
+          },
+          "coords": [
+            17.884,
+            46.959
+          ],
+          "category": "service",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Busbahnhof liegt günstig im Zentrum, ein idealer Ausgangspunkt.",
+            "hu": "A buszpályaudvar kényelmesen a központban van, ideális kiindulópont.",
+            "ro": "Autogara este situată convenabil în centru, un punct de plecare ideal.",
+            "en": "The bus station is conveniently located in the center, an ideal starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Rundkirche & Oberstadt",
+            "hu": "Kerektemplom és felsőváros",
+            "ro": "Biserica Rotundă și Orașul de Sus",
+            "en": "Round Church & Upper Town"
+          },
+          "coords": [
+            17.8884,
+            46.9591
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Busbahnhof entfernt.",
+            "hu": "Csak egy rövid séta a buszpályaudvartól.",
+            "ro": "La doar o scurtă plimbare de autogară.",
+            "en": "Just a short walk from the bus station."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Hafen",
+            "hu": "Busszal a kikötőbe",
+            "ro": "Cu autobuzul spre port",
+            "en": "Bus to the Harbor"
+          },
+          "coords": [
+            17.894,
+            46.952
+          ],
+          "category": "service",
+          "arrive_at": "10:20",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus, um schnell zum Seeufer zu gelangen.",
+            "hu": "Menj helyi busszal, hogy gyorsan leérj a tópartra.",
+            "ro": "Luați un autobuz local pentru a ajunge rapid pe malul lacului.",
+            "en": "Take a local bus to get to the lake shore quickly."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang an der Tagore-Promenade",
+            "hu": "Séta a Tagore-sétányon",
+            "ro": "Plimbare pe Promenada Tagore",
+            "en": "Stroll on the Tagore Promenade"
+          },
+          "coords": [
+            17.892,
+            46.953
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Atmosphäre, essen Sie zu Mittag und besuchen Sie das Bodorka-Zentrum.",
+            "hu": "Élvezd a hangulatot, ebédelj meg, és látogass el a Bodorka központba.",
+            "ro": "Bucurați-vă de atmosferă, luați prânzul și vizitați centrul Bodorka.",
+            "en": "Enjoy the atmosphere, have lunch, and visit the Bodorka center."
+          }
+        },
+        {
+          "name": {
+            "de": "Villen der Reformzeit (Vaszary & Jókai)",
+            "hu": "Reformkori villák (Vaszary és Jókai)",
+            "ro": "Vilele din Epoca Reformei (Vaszary & Jókai)",
+            "en": "Reform Era Villas (Vaszary & Jókai)"
+          },
+          "coords": [
+            17.8901,
+            46.9565
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:35",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Spaziergang bergauf, der sich für die Kultur und Geschichte lohnt.",
+            "hu": "Egy séta felfelé, ami megéri a kultúráért és a történelemért.",
+            "ro": "O plimbare la deal care merită pentru cultură și istorie.",
+            "en": "An uphill walk that's worth it for the culture and history."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr zum Busbahnhof",
+            "hu": "Vissza a buszpályaudvarra",
+            "ro": "Înapoi la autogară",
+            "en": "Return to the Bus Station"
+          },
+          "coords": [
+            17.884,
+            46.959
+          ],
+          "category": "service",
+          "arrive_at": "16:05",
+          "stay_min": 70,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie gemütlich zurück, vielleicht mit einem letzten Eis auf dem Weg.",
+            "hu": "Sétálj vissza kényelmesen, útközben talán egy utolsó fagyival.",
+            "ro": "Întoarceți-vă pe jos agale, poate cu o ultimă înghețată pe drum.",
+            "en": "Walk back at a leisurely pace, perhaps with one last ice cream on the way."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln in Füred können Sie die wichtigsten Bereiche leicht erreichen. Starten Sie im Zentrum, nehmen Sie dann einen Bus zum lebhaften Ufer für einen ausgedehnten Aufenthalt. Der Spaziergang zurück durch die historischen Straßen bietet einen schönen Kontrast. Dieser Plan ist ideal für diejenigen, die ohne Auto reisen und die Stadt in einem entspannten Tempo erleben möchten.",
+        "hu": "Füred tömegközlekedésével könnyen elérheted a legfontosabb területeket. Kezdj a központban, majd busszal menj le a nyüzsgő partra egy hosszabb tartózkodásra. A történelmi utcákon keresztüli visszaséta szép kontrasztot kínál. Ez a terv ideális azok számára, akik autó nélkül utaznak és laza tempóban szeretnék megélni a várost.",
+        "ro": "Transportul public din Füred vă permite să ajungeți cu ușurință în zonele cheie. Începeți din centru, apoi luați un autobuz spre malul plin de viață pentru o ședere prelungită. Plimbarea înapoi prin străzile istorice oferă un contrast plăcut. Acest plan este ideal pentru cei care călătoresc fără mașină și doresc să experimenteze orașul într-un ritm relaxat.",
+        "en": "Public transit in Füred allows you to easily reach the key areas. Start in the center, then take a bus to the lively shore for an extended stay. The walk back through the historic streets provides a nice contrast. This plan is ideal for those traveling without a car who want to experience the city at a relaxed pace."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Karolina Kávéház és Koktélbár",
+            "tip": "Ein klassisches Kaffeehaus für Kuchen und Kaffee am Nachmittag."
+          },
+          {
+            "name": "Hatlépcsős",
+            "tip": "Ein beliebtes Restaurant mit einer guten Auswahl an ungarischen Gerichten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Karolina Kávéház és Koktélbár",
+            "tip": "Klasszikus kávéház egy délutáni süteményhez és kávéhoz."
+          },
+          {
+            "name": "Hatlépcsős",
+            "tip": "Népszerű étterem magyaros ételek jó választékával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Karolina Café and Cocktail Bar",
+            "tip": "O cafenea clasică pentru prăjituri și cafea după-amiaza."
+          },
+          {
+            "name": "Hatlépcsős",
+            "tip": "Un restaurant popular cu o selecție bună de mâncăruri maghiare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Karolina Café and Cocktail Bar",
+            "tip": "A classic coffee house for afternoon cake and coffee."
+          },
+          {
+            "name": "Hatlépcsős",
+            "tip": "A popular restaurant with a good selection of Hungarian dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Leseecke in der Vaszary-Villa",
+            "tip": "Finden Sie einen ruhigen Platz im Garten oder in der Galerie.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Die Mole am späten Abend",
+            "tip": "Nachdem die Ausflugsboote weg sind, ist es hier sehr friedlich.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olvasósarok a Vaszary-villában",
+            "tip": "Keress egy csendes helyet a kertben vagy a galérián.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A móló késő este",
+            "tip": "Miután a sétahajók elmentek, nagyon békés itt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Colț de lectură la Vila Vaszary",
+            "tip": "Găsiți un loc liniștit în grădină sau în galerie.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Digul seara târziu",
+            "tip": "După plecarea bărcilor de excursie, este foarte pașnic aici.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Reading corner in the Vaszary Villa",
+            "tip": "Find a quiet spot in the garden or the gallery.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "The pier late in the evening",
+            "tip": "After the cruise boats have left, it's very peaceful here.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vaszary Buchhandlung",
+            "tip": "Eine gute Auswahl an Büchern und hochwertigen Souvenirs."
+          },
+          {
+            "name": "Markthalle",
+            "tip": "Kaufen Sie Käse, Wurst und andere lokale Delikatessen für ein Picknick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vaszary Könyvesbolt",
+            "tip": "Jó könyvválaszték és minőségi ajándéktárgyak."
+          },
+          {
+            "name": "Vásárcsarnok",
+            "tip": "Vásárolj sajtot, kolbászt és más helyi finomságokat egy piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Librăria Vaszary",
+            "tip": "O selecție bună de cărți și suveniruri de calitate."
+          },
+          {
+            "name": "Hala Pieței",
+            "tip": "Cumpărați brânză, cârnați și alte delicatese locale pentru un picnic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vaszary Bookstore",
+            "tip": "A good selection of books and quality souvenirs."
+          },
+          {
+            "name": "Market Hall",
+            "tip": "Buy cheese, sausage, and other local delicacies for a picnic."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Die Busfahrpläne sind an den Haltestellen ausgehängt, aber eine App ist zuverlässiger.",
+          "Die Busse können im Sommer überfüllt sein.",
+          "Behalten Sie Ihre Sachen im Auge."
+        ],
+        "hu": [
+          "Vegyél napijegyet a buszra, ha több utazást tervezel.",
+          "A buszmenetrendek ki vannak függesztve a megállókban, de egy alkalmazás megbízhatóbb.",
+          "A buszok nyáron zsúfoltak lehetnek.",
+          "Tartsd szemmel az értékeidet."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă intenționați să faceți mai multe călătorii.",
+          "Orarele autobuzelor sunt afișate în stații, dar o aplicație este mai fiabilă.",
+          "Autobuzele pot fi aglomerate vara.",
+          "Fii cu ochii pe bunurile tale."
+        ],
+        "en": [
+          "Buy a day ticket for the bus if you plan on making multiple trips.",
+          "Bus schedules are posted at the stops, but an app is more reliable.",
+          "Buses can be crowded in the summer.",
+          "Keep an eye on your belongings."
+        ]
+      }
+    }
+  }
+}

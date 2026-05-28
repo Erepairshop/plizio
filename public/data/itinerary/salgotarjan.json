@@ -1,0 +1,1211 @@
+{
+  "city_id": "salgotarjan",
+  "anchor": {
+    "name": "Salgótarján",
+    "coords": [
+      19.8053,
+      48.0986
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Christ-König-Hauptkirche",
+            "hu": "Krisztus Király-főtemplom",
+            "ro": "Biserica principală Cristos Rege",
+            "en": "Christ the King Main Church"
+          },
+          "coords": [
+            19.794,
+            48.093
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beachten Sie die einzigartige moderne Architektur und die Glasfenster.",
+            "hu": "Figyelje meg az egyedi, modern építészetet és az üvegablakokat.",
+            "ro": "Observați arhitectura modernă unică și vitraliile.",
+            "en": "Note the unique modern architecture and the stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Dornyay-Béla-Museum",
+            "hu": "Dornyay Béla Múzeum",
+            "ro": "Muzeul Dornyay Béla",
+            "en": "Dornyay Béla Museum"
+          },
+          "coords": [
+            19.796,
+            48.0925
+          ],
+          "category": "museums",
+          "arrive_at": "09:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Ausstellungen zur lokalen Geschichte und zum Bergbau.",
+            "hu": "Fókuszáljon a helytörténeti és bányászati kiállításokra.",
+            "ro": "Concentrați-vă pe expozițiile de istorie locală și minerit.",
+            "en": "Focus on the local history and mining industry exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Untertage-Bergbaumuseum",
+            "hu": "Földalatti Bányamúzeum",
+            "ro": "Muzeul Minier Subteran",
+            "en": "Underground Mining Museum"
+          },
+          "coords": [
+            19.798,
+            48.087
+          ],
+          "category": "museums",
+          "arrive_at": "11:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Tragen Sie feste Schuhe für die unterirdische Tour.",
+            "hu": "Viseljen erős cipőt a földalatti túrához.",
+            "ro": "Purtați încălțăminte rezistentă pentru turul subteran.",
+            "en": "Wear sturdy shoes for the underground tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Innenstadt",
+            "hu": "Ebéd a belvárosban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city center"
+          },
+          "coords": [
+            19.795,
+            48.092
+          ],
+          "category": "gastro",
+          "arrive_at": "13:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie ein lokales Restaurant für Palóc-Spezialitäten.",
+            "hu": "Kóstoljon meg egy helyi éttermet a palóc specialitásokért.",
+            "ro": "Încercați un restaurant local pentru specialități Palóc.",
+            "en": "Try a local restaurant for Palóc specialities."
+          }
+        },
+        {
+          "name": {
+            "de": "Tó-strand am See",
+            "hu": "Tó-strand",
+            "ro": "Plaja lacului Tó",
+            "en": "Tó Lake Beach"
+          },
+          "coords": [
+            19.819,
+            48.093
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein entspannender Spaziergang um den See ist perfekt für den Nachmittag.",
+            "hu": "Egy pihentető séta a tó körül tökéletes délutáni program.",
+            "ro": "O plimbare relaxantă în jurul lacului este perfectă pentru după-amiază.",
+            "en": "A relaxing walk around the lake is perfect for the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Baglyaskő-Burg-Naturreservat",
+            "hu": "Baglyaskő-vár Természetvédelmi Terület",
+            "ro": "Rezervația Naturală Cetatea Baglyaskő",
+            "en": "Baglyaskő Castle Nature Reserve"
+          },
+          "coords": [
+            19.832,
+            48.106
+          ],
+          "category": "natural features",
+          "arrive_at": "17:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Bringen Sie eine Kamera für die Aussicht von den Felsen mit.",
+            "hu": "Hozzon fényképezőgépet a sziklákról nyíló kilátásért.",
+            "ro": "Aduceți o cameră pentru priveliștea de pe stânci.",
+            "en": "Bring a camera for the views from the rocks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einem spirituellen Moment in der Christ-König-Hauptkirche, gefolgt von einer tiefen Erkundung der lokalen Geschichte im Dornyay-Béla-Museum. Der Vormittag gipfelt in einem einzigartigen Erlebnis im Untertage-Bergbaumuseum. Nach einem herzhaften Mittagessen mit Palóc-Spezialitäten schlendern Sie am Nachmittag entspannt am Tó-Strand. Der Tag endet mit einem kurzen Aufstieg und einer herrlichen Aussicht im Naturreservat Baglyaskő, die Ihnen die industrielle Vergangenheit und natürliche Schönheit der Region zeigt.",
+        "hu": "A nap egy spirituális pillanattal kezdődik a Krisztus Király-főtemplomban, majd a helyi történelem mélyére ás a Dornyay Béla Múzeumban. A délelőtt egy egyedülálló élménnyel csúcsosodik ki a Földalatti Bányamúzeumban. Egy kiadós, palóc specialitásokból álló ebéd után a délutánt a Tó-strandon tölti pihenéssel. A nap egy rövid mászással és a Baglyaskő Természetvédelmi Terület csodálatos kilátásával zárul, amely bemutatja a régió ipari múltját és természeti szépségét.",
+        "ro": "Ziua începe cu un moment spiritual la Biserica principală Cristos Rege, urmat de o explorare a istoriei locale la Muzeul Dornyay Béla. Dimineața culminează cu o experiență unică la Muzeul Minier Subteran. După un prânz copios cu specialități Palóc, după-amiaza este petrecută relaxându-vă la plaja lacului Tó. Ziua se încheie cu o scurtă urcare și priveliști superbe la Rezervația Naturală Baglyaskő, prezentând trecutul industrial și frumusețea naturală a zonei.",
+        "en": "Your day starts with a spiritual moment at the Christ the King Main Church, followed by a deep dive into local history at the Dornyay Béla Museum. The morning culminates in a unique experience at the Underground Mining Museum. After a hearty lunch of Palóc specialties, the afternoon is spent relaxing by the Tó Lake Beach. The day concludes with a short climb and lovely views at the Baglyaskő Nature Reserve, showcasing the area's industrial past and natural beauty."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Palóc-Gulasch",
+            "tip": "Ein herzhafter, cremiger Gulasch, der typisch für die Region ist."
+          },
+          {
+            "name": "Tócsni",
+            "tip": "Ein Kartoffelpuffer, oft mit Sauerrahm und Käse serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palócleves",
+            "tip": "Kiadós, tejszínes leves, a régió jellegzetessége."
+          },
+          {
+            "name": "Tócsni",
+            "tip": "Krumplilángos, gyakran tejföllel és sajttal tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gulaș Palóc",
+            "tip": "Un gulaș consistent, cremos, specific regiunii."
+          },
+          {
+            "name": "Tócsni",
+            "tip": "O clătită de cartofi, adesea servită cu smântână și brânză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Palóc Goulash",
+            "tip": "A hearty, creamy goulash typical for the region."
+          },
+          {
+            "name": "Tócsni",
+            "tip": "A potato pancake, often served with sour cream and cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Tó-See",
+            "tip": "Finden Sie eine ruhige Bank am Seeufer, um die Natur zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Baglyaskő-Felsen",
+            "tip": "Abseits des Hauptwegs bietet der Ort ruhige Plätze mit toller Aussicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Tó-strandon",
+            "tip": "Keressen egy csendes padot a tóparton, és élvezze a természetet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Baglyaskő sziklái",
+            "tip": "A fő ösvénytől távolabb csendes helyeket talál remek kilátással.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul lacului Tó",
+            "tip": "Găsiți o bancă liniștită pe malul lacului pentru a vă bucura de natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stâncile Baglyaskő",
+            "tip": "Departe de poteca principală, locul oferă locuri liniștite cu priveliști grozave.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk at Tó Lake",
+            "tip": "Find a quiet bench by the lakeside to enjoy nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Baglyaskő Rocks",
+            "tip": "Away from the main path, the spot offers quiet places with great views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Produkten und handgefertigten Palóc-Waren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen helyi termékeket és kézzel készített palóc árukat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse locale și articole artizanale Palóc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for local produce and handcrafted Palóc goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da dieser Plan viel Gehen erfordert.",
+          "Die Museen können voll werden, also planen Sie entsprechend.",
+          "Überprüfen Sie die Öffnungszeiten des Bergbaumuseums im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel ez az útiterv sok gyaloglást tartalmaz.",
+          "A múzeumok zsúfoltak lehetnek, tervezzen ennek megfelelően.",
+          "Ellenőrizze előre a Bányamúzeum nyitvatartási idejét."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece acest itinerar implică mult mers pe jos.",
+          "Muzeele pot fi aglomerate, așa că planificați-vă în consecință.",
+          "Verificați în avans programul de funcționare al Muzeului Minier."
+        ],
+        "en": [
+          "Wear comfortable shoes as this itinerary involves a lot of walking.",
+          "The museums can get crowded, so plan accordingly.",
+          "Check the opening hours for the Mining Museum in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Baglyaskő-Burg-Naturreservat",
+            "hu": "Baglyaskő-vár Természetvédelmi Terület",
+            "ro": "Rezervația Naturală Cetatea Baglyaskő",
+            "en": "Baglyaskő Castle Nature Reserve"
+          },
+          "coords": [
+            19.832,
+            48.106
+          ],
+          "category": "natural features",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit frischer Luft und einer tollen Aussicht.",
+            "hu": "Kezdje a napot friss levegővel és remek kilátással.",
+            "ro": "Începeți-vă ziua cu aer curat și o priveliște minunată.",
+            "en": "Start your day with some fresh air and a great view."
+          }
+        },
+        {
+          "name": {
+            "de": "Tó-strand am See",
+            "hu": "Tó-strand",
+            "ro": "Plaja lacului Tó",
+            "en": "Tó Lake Beach"
+          },
+          "coords": [
+            19.819,
+            48.093
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Eine kurze Radtour um den See, bevor es in die Stadt geht.",
+            "hu": "Egy rövid biciklitúra a tó körül, mielőtt a városba menne.",
+            "ro": "O scurtă plimbare cu bicicleta în jurul lacului înainte de a merge în oraș.",
+            "en": "A quick cycle around the lake before heading into the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Christ-König-Hauptkirche",
+            "hu": "Krisztus Király-főtemplom",
+            "ro": "Biserica principală Cristos Rege",
+            "en": "Christ the King Main Church"
+          },
+          "coords": [
+            19.794,
+            48.093
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, während Sie die Kirche besichtigen.",
+            "hu": "Zárja le biztonságosan a kerékpárját, amíg a templomot nézi.",
+            "ro": "Încuiați-vă bicicleta în siguranță în timp ce vizitați biserica.",
+            "en": "Lock your bike securely while you visit the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Dornyay-Béla-Museum",
+            "hu": "Dornyay Béla Múzeum",
+            "ro": "Muzeul Dornyay Béla",
+            "en": "Dornyay Béla Museum"
+          },
+          "coords": [
+            19.796,
+            48.0925
+          ],
+          "category": "museums",
+          "arrive_at": "12:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort, um etwas über die reiche Geschichte der Region zu erfahren.",
+            "hu": "Nagyszerű hely a régió gazdag történelmének megismerésére.",
+            "ro": "Un loc minunat pentru a învăța despre istoria bogată a regiunii.",
+            "en": "A great place to learn about the region's rich history."
+          }
+        },
+        {
+          "name": {
+            "de": "Untertage-Bergbaumuseum",
+            "hu": "Földalatti Bányamúzeum",
+            "ro": "Muzeul Minier Subteran",
+            "en": "Underground Mining Museum"
+          },
+          "coords": [
+            19.798,
+            48.087
+          ],
+          "category": "museums",
+          "arrive_at": "13:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Ein Muss, um das Erbe des Bergbaus in Salgótarján zu verstehen.",
+            "hu": "Kötelező program Salgótarján bányászati örökségének megértéséhez.",
+            "ro": "O vizită obligatorie pentru a înțelege moștenirea minieră a Salgótarjánului.",
+            "en": "A must-see to understand the mining heritage of Salgótarján."
+          }
+        },
+        {
+          "name": {
+            "de": "Karancs-Aussichtsturm",
+            "hu": "Karancs-kilátó",
+            "ro": "Turnul de observație Karancs",
+            "en": "Karancs Lookout Tower"
+          },
+          "coords": [
+            19.792,
+            48.14
+          ],
+          "category": "natural features",
+          "arrive_at": "16:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 9,
+          "tip_5lang": {
+            "de": "Der Aufstieg ist die Aussicht wert. Seien Sie auf einen steilen Anstieg vorbereitet.",
+            "hu": "A kilátás megéri a mászást. Készüljön fel egy meredek emelkedőre.",
+            "ro": "Urcușul merită priveliștea. Fiți pregătiți pentru o urcare abruptă.",
+            "en": "The climb is worth the view. Be prepared for a steep ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radtag beginnt mit der Erkundung des Naturreservats Baglyaskő, gefolgt von einer erfrischenden Fahrt um den Tó-See. Am Vormittag radeln Sie ins Stadtzentrum, um die moderne Architektur der Christ-König-Hauptkirche und die reiche Geschichte im Dornyay-Béla-Museum zu bewundern. Am Nachmittag tauchen Sie im Untertage-Bergbaumuseum in die industrielle Vergangenheit der Stadt ein. Der Tag endet mit einer anspruchsvollen, aber lohnenden Radtour zum Karancs-Aussichtsturm, der einen Panoramablick auf die umliegende Landschaft bietet.",
+        "hu": "A bringás nap a Baglyaskő Természetvédelmi Terület felfedezésével kezdődik, majd egy frissítő tókerüléssel folytatódik a Tó-strandnál. Délelőtt a városközpontba teker, hogy megcsodálja a Krisztus Király-főtemplom modern építészetét és a Dornyay Béla Múzeum gazdag történelmét. Délután a Földalatti Bányamúzeumban merül el a város ipari múltjában. A nap egy kihívásokkal teli, de annál nagyobb jutalommal kecsegtető bringatúrával zárul a Karancs-kilátóhoz, ahonnan panorámás kilátás nyílik a környező tájra.",
+        "ro": "Ziua de ciclism începe cu explorarea Rezervației Naturale Baglyaskő, urmată de o plimbare revigorantă în jurul lacului Tó. Dimineața, pedalați spre centrul orașului pentru a admira arhitectura modernă a Bisericii Cristos Rege și istoria bogată de la Muzeul Dornyay Béla. După-amiaza, pătrundeți în trecutul industrial al orașului la Muzeul Minier Subteran. Ziua se încheie cu o plimbare provocatoare, dar plină de satisfacții, cu bicicleta până la Turnul de observație Karancs, pentru vederi panoramice ale peisajului înconjurător.",
+        "en": "Your biking day starts by exploring the Baglyaskő Nature Reserve, followed by a refreshing ride around Tó Lake. In the morning, you'll pedal to the city center to admire the modern architecture of the Christ the King Church and the rich history at the Dornyay Béla Museum. The afternoon is for delving into the city's industrial past at the Underground Mining Museum. The day concludes with a challenging but rewarding bike ride up to the Karancs Lookout Tower for panoramic views of the surrounding landscape."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Palóc-Gulasch",
+            "tip": "Ein herzhafter, cremiger Gulasch, der typisch für die Region ist."
+          },
+          {
+            "name": "Tócsni",
+            "tip": "Ein Kartoffelpuffer, oft mit Sauerrahm und Käse serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palócleves",
+            "tip": "Kiadós, tejszínes leves, a régió jellegzetessége."
+          },
+          {
+            "name": "Tócsni",
+            "tip": "Krumplilángos, gyakran tejföllel és sajttal tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gulaș Palóc",
+            "tip": "Un gulaș consistent, cremos, specific regiunii."
+          },
+          {
+            "name": "Tócsni",
+            "tip": "O clătită de cartofi, adesea servită cu smântână și brânză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Palóc Goulash",
+            "tip": "A hearty, creamy goulash typical for the region."
+          },
+          {
+            "name": "Tócsni",
+            "tip": "A potato pancake, often served with sour cream and cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Karancs-Gipfel",
+            "tip": "Nach dem Aufstieg finden Sie hier oben Ruhe und eine atemberaubende Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ufer des Tó-Sees",
+            "tip": "Perfekt für eine kurze Pause während Ihrer Radtour.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Karancs csúcsa",
+            "tip": "A mászás után csend és lélegzetelállító kilátás vár odafent.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Tó-part",
+            "tip": "Tökéletes egy rövid pihenőre a kerékpártúra során.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Karancs",
+            "tip": "După urcare, veți găsi pace și o priveliște uluitoare aici sus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malul lacului Tó",
+            "tip": "Perfect pentru o scurtă pauză în timpul turului cu bicicleta.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Karancs Peak",
+            "tip": "After the climb, you'll find peace and a breathtaking view up here.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Shore of Tó Lake",
+            "tip": "Perfect for a short break during your bike tour.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Produkten und handgefertigten Palóc-Waren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen helyi termékeket és kézzel készített palóc árukat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse locale și articole artizanale Palóc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for local produce and handcrafted Palóc goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bringen Sie viel Wasser mit, besonders für die Fahrt zum Karancs-Aussichtsturm.",
+          "Einige Wege können hügelig sein, stellen Sie sicher, dass Ihr Fahrrad in gutem Zustand ist.",
+          "Schließen Sie Ihr Fahrrad immer sicher ab."
+        ],
+        "hu": [
+          "Hozzon sok vizet, különösen a Karancs-kilátóhoz vezető útra.",
+          "Néhány út dimbes-dombos lehet, győződjön meg róla, hogy a kerékpárja jó állapotban van.",
+          "Mindig zárja le biztonságosan a kerékpárját."
+        ],
+        "ro": [
+          "Aduceți multă apă, mai ales pentru plimbarea până la Turnul de observație Karancs.",
+          "Unele trasee pot fi deluroase, asigurați-vă că bicicleta este în stare bună.",
+          "Încuiați-vă întotdeauna bicicleta în siguranță."
+        ],
+        "en": [
+          "Bring plenty of water, especially for the ride to the Karancs Lookout Tower.",
+          "Some routes can be hilly, make sure your bike is in good condition.",
+          "Always lock your bike securely."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 34.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Burg Somoskő",
+            "hu": "Somoskői vár",
+            "ro": "Cetatea Somoskő",
+            "en": "Somoskő Castle"
+          },
+          "coords": [
+            19.829,
+            48.159
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen und genießen Sie die Aussicht über die Grenze in die Slowakei.",
+            "hu": "Fedezze fel a romokat, és élvezze a kilátást a határon át Szlovákiába.",
+            "ro": "Explorați ruinele și bucurați-vă de priveliștea peste graniță, în Slovacia.",
+            "en": "Explore the ruins and enjoy the view across the border into Slovakia."
+          }
+        },
+        {
+          "name": {
+            "de": "Parken und Spaziergang im Cluster",
+            "hu": "Parkolás és séta a környéken",
+            "ro": "Parcare și plimbare în cluster",
+            "en": "Park and walk in the cluster"
+          },
+          "coords": [
+            19.828,
+            48.158
+          ],
+          "category": "transport",
+          "arrive_at": "10:20",
+          "stay_min": 0,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto hier und erkunden Sie die Umgebung zu Fuß.",
+            "hu": "Hagyja itt az autót, és fedezze fel a környéket gyalog.",
+            "ro": "Lăsați mașina aici și explorați zona pe jos.",
+            "en": "Leave the car here and explore the area on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Salgó",
+            "hu": "Salgói vár",
+            "ro": "Cetatea Salgó",
+            "en": "Salgó Castle"
+          },
+          "coords": [
+            19.85,
+            48.113
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8,
+          "tip_5lang": {
+            "de": "Der Aufstieg ist steil, aber die 360-Grad-Aussicht ist es wert.",
+            "hu": "Meredek a kaptató, de a 360 fokos panoráma megéri.",
+            "ro": "Urcușul este abrupt, dar priveliștea de 360 de grade merită.",
+            "en": "The climb is steep, but the 360-degree view is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Untertage-Bergbaumuseum",
+            "hu": "Földalatti Bányamúzeum",
+            "ro": "Muzeul Minier Subteran",
+            "en": "Underground Mining Museum"
+          },
+          "coords": [
+            19.798,
+            48.087
+          ],
+          "category": "museums",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 10,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und begeben Sie sich auf eine Zeitreise in die Bergbaugeschichte.",
+            "hu": "Parkoljon a közelben, és tegyen egy időutazást a bányászat múltjába.",
+            "ro": "Parcați în apropiere și faceți o călătorie înapoi în timp, în istoria minieră.",
+            "en": "Park nearby and take a trip back in time into mining history."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Spaziergang im Stadtzentrum",
+            "hu": "Ebéd és séta a városközpontban",
+            "ro": "Prânz și plimbare în centrul orașului",
+            "en": "Lunch and walk in the city center"
+          },
+          "coords": [
+            19.795,
+            48.092
+          ],
+          "category": "gastro",
+          "arrive_at": "14:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto und erkunden Sie das Stadtzentrum zu Fuß.",
+            "hu": "Parkolja le az autót és fedezze fel a központot gyalog.",
+            "ro": "Parcați mașina și explorați centrul orașului pe jos.",
+            "en": "Park your car and explore the city center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Dornyay-Béla-Museum",
+            "hu": "Dornyay Béla Múzeum",
+            "ro": "Muzeul Dornyay Béla",
+            "en": "Dornyay Béla Museum"
+          },
+          "coords": [
+            19.796,
+            48.0925
+          ],
+          "category": "museums",
+          "arrive_at": "15:30",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Mittagessen zu mehr lokaler Geschichte.",
+            "hu": "Egy rövid séta az ebédtől a helytörténeti ismeretekig.",
+            "ro": "O scurtă plimbare de la prânz la mai multă istorie locală.",
+            "en": "A short walk from lunch to more local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Karancs-Aussichtsturm",
+            "hu": "Karancs-kilátó",
+            "ro": "Turnul de observație Karancs",
+            "en": "Karancs Lookout Tower"
+          },
+          "coords": [
+            19.792,
+            48.14
+          ],
+          "category": "natural features",
+          "arrive_at": "17:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 15.5,
+          "tip_5lang": {
+            "de": "Der perfekte Abschluss des Tages mit einem Panoramablick bei Sonnenuntergang.",
+            "hu": "Tökéletes befejezése a napnak egy panorámás naplementével.",
+            "ro": "Finalul perfect al zilei, cu o priveliște panoramică la apus.",
+            "en": "The perfect end to the day with a panoramic sunset view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Roadtrip beginnt mit der Erkundung der Zwillingsburgen, die die Region bewachen: Somoskő und Salgó. Diese Cluster erfordern kurze Wanderungen, bieten aber atemberaubende Ausblicke. Am Mittag fahren Sie zurück in die Stadt, um im Untertage-Bergbaumuseum in die industrielle Seele von Salgótarján einzutauchen. Nach dem Parken im Stadtzentrum genießen Sie ein spätes Mittagessen, gefolgt von einem Spaziergang zum Dornyay-Béla-Museum. Der Tag endet mit einer Fahrt zum Karancs-Aussichtsturm, einem perfekten Ort, um den Sonnenuntergang über den Nógráder Hügeln zu beobachten.",
+        "hu": "Az autós túra a régiót őrző ikervárak, Somoskő és Salgó felfedezésével kezdődik. Ezek a helyszínek rövid sétát igényelnek, de lenyűgöző kilátást nyújtanak. Délben visszautazik a városba, hogy elmerüljön Salgótarján ipari lelkében a Földalatti Bányamúzeumban. Miután leparkolt a központban, elfogyaszt egy késői ebédet, majd átsétál a Dornyay Béla Múzeumba. A nap a Karancs-kilátóhoz vezető autózással zárul, amely tökéletes hely a naplemente megcsodálására a nógrádi dombok felett.",
+        "ro": "Excursia dvs. cu mașina începe cu explorarea cetăților gemene care păzesc regiunea: Somoskő și Salgó. Aceste grupuri necesită drumeții scurte, dar oferă priveliști uluitoare. La prânz, vă întoarceți în oraș pentru a pătrunde în sufletul industrial al Salgótarjánului la Muzeul Minier Subteran. După ce parcați în centru, savurați un prânz târziu, urmat de o plimbare până la Muzeul Dornyay Béla. Ziua se încheie cu o plimbare cu mașina până la Turnul de observație Karancs, un loc perfect pentru a privi apusul peste dealurile Nógrád.",
+        "en": "Your road trip begins by exploring the twin castles that guard the region: Somoskő and Salgó. These clusters require short hikes but offer breathtaking views. At midday, you'll drive back into the city to delve into Salgótarján's industrial soul at the Underground Mining Museum. After parking in the city center, you'll enjoy a late lunch followed by a walk to the Dornyay Béla Museum. The day concludes with a drive up to the Karancs Lookout Tower, a perfect spot to watch the sunset over the Nógrád hills."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Palóc-Gulasch",
+            "tip": "Ein herzhafter, cremiger Gulasch, der typisch für die Region ist."
+          },
+          {
+            "name": "Sztrapacska",
+            "tip": "Knödel mit Schafskäse und Speck, ein lokaler Favorit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palócleves",
+            "tip": "Kiadós, tejszínes leves, a régió jellegzetessége."
+          },
+          {
+            "name": "Sztrapacska",
+            "tip": "Juhtúrós galuska szalonnával, helyi kedvenc."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gulaș Palóc",
+            "tip": "Un gulaș consistent, cremos, specific regiunii."
+          },
+          {
+            "name": "Sztrapacska",
+            "tip": "Găluște cu brânză de oaie și slănină, un favorit local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Palóc Goulash",
+            "tip": "A hearty, creamy goulash typical for the region."
+          },
+          {
+            "name": "Sztrapacska",
+            "tip": "Dumplings with sheep's cheese and bacon, a local favorite."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfel der Burg Salgó",
+            "tip": "Ein ruhiger Ort am frühen Morgen, bevor die Menschenmassen eintreffen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Karancs-Aussichtsturm bei Sonnenuntergang",
+            "tip": "Die beste Zeit für einen ruhigen, besinnlichen Moment.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Salgói vár csúcsa",
+            "tip": "Csendes hely kora reggel, mielőtt a tömeg megérkezik.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Karancs-kilátó naplementekor",
+            "tip": "A legjobb idő egy csendes, elmélkedő pillanatra.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Cetății Salgó",
+            "tip": "Un loc liniștit dimineața devreme, înainte de sosirea mulțimilor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Turnul de observație Karancs la apus",
+            "tip": "Cel mai bun moment pentru un moment de liniște și reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Salgó Castle Peak",
+            "tip": "A quiet spot in the early morning before the crowds arrive.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Karancs Lookout at sunset",
+            "tip": "The best time for a quiet, reflective moment.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs an der Burg",
+            "tip": "Kleine Souvenirläden in der Nähe der Burgen verkaufen oft lokale Handwerkskunst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vár-ajándékok",
+            "tip": "A várak közelében lévő kis ajándékboltok gyakran árulnak helyi kézműves termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri de la cetate",
+            "tip": "Micile magazine de suveniruri de lângă cetăți vând adesea produse de artizanat local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Souvenirs",
+            "tip": "Small souvenir shops near the castles often sell local crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten in der Nähe der Burgen im Voraus.",
+          "Für die Wanderungen zu den Burgen sind gute Wanderschuhe erforderlich.",
+          "Tanken Sie, bevor Sie die Stadt verlassen, da die Tankstellen in den Hügeln rar sind."
+        ],
+        "hu": [
+          "Ellenőrizze előre a parkolási lehetőségeket a várak közelében.",
+          "A várakhoz vezető túrákhoz jó túracipő szükséges.",
+          "Tankoljon, mielőtt elhagyja a várost, mert a dombokon ritkák a benzinkutak."
+        ],
+        "ro": [
+          "Verificați în avans opțiunile de parcare în apropierea cetăților.",
+          "Pentru drumețiile la cetăți sunt necesari pantofi de drumeție buni.",
+          "Alimentați înainte de a părăsi orașul, deoarece benzinăriile sunt rare în dealuri."
+        ],
+        "en": [
+          "Check parking options near the castles in advance.",
+          "Good hiking shoes are required for the treks up to the castles.",
+          "Fill up on gas before leaving the city, as stations can be sparse in the hills."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 9.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft im Stadtzentrum",
+            "hu": "Érkezés a városközpontba",
+            "ro": "Sosire în centrul orașului",
+            "en": "Arrival in City Center"
+          },
+          "coords": [
+            19.7945,
+            48.0935
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag am Hauptbusbahnhof oder Bahnhof.",
+            "hu": "Kezdje a napot a fő busz- vagy vasútállomáson.",
+            "ro": "Începeți ziua la autogara principală sau la gară.",
+            "en": "Start your day at the main bus or train station."
+          }
+        },
+        {
+          "name": {
+            "de": "Christ-König-Hauptkirche",
+            "hu": "Krisztus Király-főtemplom",
+            "ro": "Biserica principală Cristos Rege",
+            "en": "Christ the King Main Church"
+          },
+          "coords": [
+            19.794,
+            48.093
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Haltestelle, um die moderne Architektur zu sehen.",
+            "hu": "Egy rövid séta a megállótól a modern építészeti alkotás megtekintéséhez.",
+            "ro": "O scurtă plimbare de la stație pentru a vedea arhitectura modernă.",
+            "en": "A short walk from the stop to see the modern architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Dornyay-Béla-Museum",
+            "hu": "Dornyay Béla Múzeum",
+            "ro": "Muzeul Dornyay Béla",
+            "en": "Dornyay Béla Museum"
+          },
+          "coords": [
+            19.796,
+            48.0925
+          ],
+          "category": "museums",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geschichte der Region, alles zu Fuß erreichbar.",
+            "hu": "Fedezze fel a régió történelmét, mindent gyalogos távolságra.",
+            "ro": "Descoperiți istoria regiunii, totul la câțiva pași.",
+            "en": "Discover the history of the region, all within walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Untertage-Bergbaumuseum",
+            "hu": "Földalatti Bányamúzeum",
+            "ro": "Muzeul Minier Subteran",
+            "en": "Underground Mining Museum"
+          },
+          "coords": [
+            19.798,
+            48.087
+          ],
+          "category": "museums",
+          "arrive_at": "11:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Ein Muss, um das Erbe des Bergbaus in Salgótarján zu verstehen.",
+            "hu": "Kötelező program Salgótarján bányászati örökségének megértéséhez.",
+            "ro": "O vizită obligatorie pentru a înțelege moștenirea minieră a Salgótarjánului.",
+            "en": "A must-see to understand the mining heritage of Salgótarján."
+          }
+        },
+        {
+          "name": {
+            "de": "Tó-strand am See",
+            "hu": "Tó-strand",
+            "ro": "Plaja lacului Tó",
+            "en": "Tó Lake Beach"
+          },
+          "coords": [
+            19.819,
+            48.093
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum See für eine entspannte Mittagspause und einen Spaziergang.",
+            "hu": "Menjen busszal a tóhoz egy pihentető ebédszünetre és sétára.",
+            "ro": "Luați un autobuz până la lac pentru o pauză de prânz relaxantă și o plimbare.",
+            "en": "Take a bus to the lake for a relaxing lunch break and walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Baglyaskő-Burg-Naturreservat",
+            "hu": "Baglyaskő-vár Természetvédelmi Terület",
+            "ro": "Rezervația Naturală Cetatea Baglyaskő",
+            "en": "Baglyaskő Castle Nature Reserve"
+          },
+          "coords": [
+            19.832,
+            48.106
+          ],
+          "category": "natural features",
+          "arrive_at": "16:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3,
+          "tip_5lang": {
+            "de": "Ein weiterer Bus bringt Sie zu diesem Naturjuwel am Rande der Stadt.",
+            "hu": "Egy másik busz elviszi ehhez a természeti gyöngyszemhez a város szélén.",
+            "ro": "Un alt autobuz vă va duce la această bijuterie naturală de la marginea orașului.",
+            "en": "Another bus ride will take you to this natural gem on the edge of town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt im Herzen von Salgótarján und erkundet zu Fuß die wichtigsten Sehenswürdigkeiten der Innenstadt: die Hauptkirche und die beiden faszinierenden Museen. Dies ist Ihr erster Cluster, der sich auf Kultur und Geschichte konzentriert. Am Nachmittag nehmen Sie einen Bus zum Tó-See, Ihrem zweiten Cluster, für eine landschaftlich reizvolle Pause und ein Mittagessen. Der Tag endet mit einer weiteren Busfahrt zu Ihrem dritten Cluster, dem Naturreservat Baglyaskő, das einen ruhigen Rückzugsort und eine herrliche Aussicht bietet, bevor Sie zurück ins Zentrum fahren.",
+        "hu": "Tömegközlekedéssel töltött napja Salgótarján szívében kezdődik, ahol gyalogosan fedezi fel a belváros főbb látnivalóit: a főtemplomot és a két lenyűgöző múzeumot. Ez az első állomás, amely a kultúrára és a történelemre összpontosít. Délután busszal utazik a Tó-strandhoz, a második állomáshoz, egy festői pihenőre és ebédre. A nap egy újabb buszúttal zárul a harmadik állomáshoz, a Baglyaskő Természetvédelmi Területhez, amely békés menedéket és csodálatos kilátást kínál, mielőtt visszatérne a központba.",
+        "ro": "Ziua dvs. cu transportul public începe în inima orașului Salgótarján, explorând pe jos principalele atracții din centru: biserica principală și cele două muzee fascinante. Acesta este primul dvs. cluster, axat pe cultură și istorie. După-amiaza, luați un autobuz spre lacul Tó, al doilea cluster, pentru o pauză pitorească și prânz. Ziua se încheie cu o altă călătorie cu autobuzul către al treilea cluster, Rezervația Naturală Baglyaskő, care oferă o evadare liniștită și priveliști minunate înainte de a vă întoarce în centru.",
+        "en": "Your day on public transport begins in the heart of Salgótarján, exploring the main downtown sights on foot: the main church and the two fascinating museums. This is your first cluster, focusing on culture and history. In the afternoon, you'll take a bus to Tó Lake, your second cluster, for a scenic break and lunch. The day concludes with another bus journey to your third cluster, the Baglyaskő Nature Reserve, offering a peaceful escape and lovely views before heading back to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Palóc-Gulasch",
+            "tip": "Ein herzhafter, cremiger Gulasch, der typisch für die Region ist."
+          },
+          {
+            "name": "Lángos",
+            "tip": "Frittierter Teig, oft mit Knoblauch, Sauerrahm und Käse belegt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palócleves",
+            "tip": "Kiadós, tejszínes leves, a régió jellegzetessége."
+          },
+          {
+            "name": "Lángos",
+            "tip": "Sült tészta, gyakran fokhagymával, tejföllel és sajttal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gulaș Palóc",
+            "tip": "Un gulaș consistent, cremos, specific regiunii."
+          },
+          {
+            "name": "Lángos",
+            "tip": "Aluat prăjit, adesea acoperit cu usturoi, smântână și brânză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Palóc Goulash",
+            "tip": "A hearty, creamy goulash typical for the region."
+          },
+          {
+            "name": "Lángos",
+            "tip": "Fried dough, often topped with garlic, sour cream, and cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Tó-See",
+            "tip": "Finden Sie eine ruhige Bank am Seeufer, um die Natur zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Baglyaskő-Felsen",
+            "tip": "Abseits des Hauptwegs bietet der Ort ruhige Plätze mit toller Aussicht.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Tó-strandon",
+            "tip": "Keressen egy csendes padot a tóparton, és élvezze a természetet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Baglyaskő sziklái",
+            "tip": "A fő ösvénytől távolabb csendes helyeket talál remek kilátással.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul lacului Tó",
+            "tip": "Găsiți o bancă liniștită pe malul lacului pentru a vă bucura de natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stâncile Baglyaskő",
+            "tip": "Departe de poteca principală, locul oferă locuri liniștite cu priveliști grozave.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk at Tó Lake",
+            "tip": "Find a quiet bench by the lakeside to enjoy nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Baglyaskő Rocks",
+            "tip": "Away from the main path, the spot offers quiet places with great views.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Produkten und handgefertigten Palóc-Waren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen helyi termékeket és kézzel készített palóc árukat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse locale și articole artizanale Palóc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for local produce and handcrafted Palóc goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, besonders an Wochenenden.",
+          "Haben Sie Kleingeld für Tickets dabei, falls Kartenzahlung nicht möglich ist."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy pénzt takarítson meg.",
+          "Ellenőrizze előre a buszmenetrendeket, különösen hétvégén.",
+          "Legyen Önnél aprópénz a jegyekhez, ha a kártyás fizetés nem lehetséges."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru autobuz pentru a economisi bani.",
+          "Verificați în avans orarele autobuzelor, mai ales în weekend.",
+          "Aveți la îndemână bani mărunți pentru bilete, în cazul în care plata cu cardul nu este disponibilă."
+        ],
+        "en": [
+          "Buy a day pass for the bus to save money.",
+          "Check bus schedules in advance, especially on weekends.",
+          "Have small change ready for tickets in case card payment isn't available."
+        ]
+      }
+    }
+  }
+}

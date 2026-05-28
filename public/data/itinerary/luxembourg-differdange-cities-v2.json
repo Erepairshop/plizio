@@ -1,0 +1,1356 @@
+{
+  "city_id": "luxembourg-differdange-cities-v2",
+  "anchor": {
+    "name": "Differdingen",
+    "coords": [
+      5.8914,
+      49.5217
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér",
+            "ro": "Piața Centrală",
+            "en": "Market Square"
+          },
+          "coords": [
+            5.8916,
+            49.522
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee in einem der Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában!",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
+            "en": "Start your day with a coffee at one of the cafés on the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Differdingen",
+            "hu": "Differdingen Városháza",
+            "ro": "Primăria din Differdange",
+            "en": "Differdange Town Hall"
+          },
+          "coords": [
+            5.891,
+            49.5225
+          ],
+          "category": "historical",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur und die Details der Fassade.",
+            "hu": "Csodálja meg az épület építészetét és a homlokzat részleteit!",
+            "ro": "Admirați arhitectura și detaliile fațadei.",
+            "en": "Admire the architecture and the details of the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Imier-Kirche",
+            "hu": "Szent Imier-templom",
+            "ro": "Biserica Saint-Imier",
+            "en": "Saint-Imier Church"
+          },
+          "coords": [
+            5.893,
+            49.5235
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:28",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden Buntglasfenster.",
+            "hu": "Figyelje meg a lenyűgöző ólomüveg ablakokat!",
+            "ro": "Fiți atenți la vitraliile impresionante.",
+            "en": "Pay attention to the impressive stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Creative Hub 1535°",
+            "hu": "1535° Kreatív Központ",
+            "ro": "Centrul Creativ 1535°",
+            "en": "Creative Hub 1535°"
+          },
+          "coords": [
+            5.8888,
+            49.5201
+          ],
+          "category": "theatres/cultural-centres",
+          "arrive_at": "11:28",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Prüfen Sie, ob es offene Ateliers oder Veranstaltungen gibt.",
+            "hu": "Nézze meg, vannak-e nyitott műtermek vagy események.",
+            "ro": "Verificați dacă există ateliere deschise sau evenimente.",
+            "en": "Check if there are any open studios or events."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Differdingen",
+            "hu": "Differdingen kastély",
+            "ro": "Castelul Differdange",
+            "en": "Differdange Castle"
+          },
+          "coords": [
+            5.8945,
+            49.5255
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:23",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Heute beherbergt es einen Campus der Miami University.",
+            "hu": "Ma a Miami Egyetem kampuszának ad otthont.",
+            "ro": "Astăzi găzduiește un campus al Universității Miami.",
+            "en": "Today it houses a campus of Miami University."
+          }
+        },
+        {
+          "name": {
+            "de": "Thillenberg-Stadion und Park",
+            "hu": "Thillenberg Stadion és Park",
+            "ro": "Stadionul și Parcul Thillenberg",
+            "en": "Thillenberg Stadium and Park"
+          },
+          "coords": [
+            5.885,
+            49.528
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:03",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein schöner Ort für einen entspannten Spaziergang am Nachmittag.",
+            "hu": "Remek hely egy délutáni, pihentető sétához.",
+            "ro": "Un loc frumos pentru o plimbare relaxantă după-amiaza.",
+            "en": "A lovely spot for a relaxing afternoon walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem lebhaften Marktplatz, bevor Sie die historische Architektur des Rathauses und die Ruhe der Saint-Imier-Kirche erkunden. Am Mittag tauchen Sie in die Kreativität des 1535° Hubs ein. Der Nachmittag ist dem imposanten Schloss Differdingen und einem entspannenden Spaziergang im Thillenberg-Park gewidmet. Ein Tag voller Kontraste zwischen Alt und Neu.",
+        "hu": "Kezdje a napot a nyüzsgő Piactéren, majd fedezze fel a Városháza történelmi építészetét és a Szent Imier-templom nyugalmát. Délben merüljön el az 1535° Kreatív Központ világában! A délután a lenyűgöző Differdingen kastélyé és egy pihentető sétáé a Thillenberg parkban. A régi és az új kontrasztjainak napja.",
+        "ro": "Începeți ziua în Piața Centrală plină de viață, înainte de a explora arhitectura istorică a Primăriei și liniștea Bisericii Saint-Imier. La prânz, scufundați-vă în creativitatea Centrului 1535°. După-amiaza este dedicată impunătorului Castel Differdange și unei plimbări relaxante în Parcul Thillenberg. O zi plină de contraste între vechi și nou.",
+        "en": "Start your day at the lively Market Square before exploring the historic architecture of the Town Hall and the tranquility of Saint-Imier Church. At midday, immerse yourself in the creativity of the 1535° Hub. The afternoon is dedicated to the imposing Differdange Castle and a relaxing walk in Thillenberg Park. A day full of contrasts between old and new."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Judd mat Gaardebounen",
+            "tip": "Ein herzhaftes Nationalgericht aus geräuchertem Schweinefleisch und Saubohnen."
+          },
+          {
+            "name": "Bouneschlupp",
+            "tip": "Eine traditionelle grüne Bohnensuppe, oft mit Kartoffeln und Speck."
+          },
+          {
+            "name": "Restaurant Woiwer",
+            "tip": "Bekannt für seine luxemburgische und französische Küche in einem gemütlichen Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Judd mat Gaardebounen",
+            "tip": "Ki̇adós nemzeti étel füstölt sertéshúsból és lóbabból."
+          },
+          {
+            "name": "Bouneschlupp",
+            "tip": "Hagyományos zöldbableves, gyakran krumplival és szalonnával."
+          },
+          {
+            "name": "Restaurant Woiwer",
+            "tip": "Hangulatos környezetben kínált luxemburgi és francia konyhájáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Judd mat Gaardebounen",
+            "tip": "Un fel de mâncare național consistent din carne de porc afumată și fasole fava."
+          },
+          {
+            "name": "Bouneschlupp",
+            "tip": "O supă tradițională de fasole verde, adesea cu cartofi și slănină."
+          },
+          {
+            "name": "Restaurant Woiwer",
+            "tip": "Renumit pentru bucătăria sa luxemburgheză și franceză într-un cadru primitor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Judd mat Gaardebounen",
+            "tip": "A hearty national dish of smoked pork collar and broad beans."
+          },
+          {
+            "name": "Bouneschlupp",
+            "tip": "A traditional green bean soup, often with potatoes and bacon."
+          },
+          {
+            "name": "Restaurant Woiwer",
+            "tip": "Known for its Luxembourgish and French cuisine in a cozy setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Giele-Botter-Naturschutzgebiet",
+            "tip": "Spazieren Sie durch dieses ehemalige Tagebaugebiet und genießen Sie die wiedereroberte Natur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer der Korn",
+            "tip": "Ein ruhiger Spaziergang entlang des kleinen Flusses, der durch die Stadt fließt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Giele-Botter Természetvédelmi Terület",
+            "tip": "Sétáljon át ezen a volt külszíni bányán, és élvezze a természet által visszahódított tájat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Korn partja",
+            "tip": "Egy csendes séta a városon átfolyó kis folyó mentén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rezervația Naturală Giele Botter",
+            "tip": "Plimbați-vă prin această fostă zonă minieră și bucurați-vă de natura recuperată.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malurile râului Korn",
+            "tip": "O plimbare liniștită de-a lungul micului râu care traversează orașul.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Giele Botter Nature Reserve",
+            "tip": "Stroll through this former open-cast mining area and enjoy the reclaimed nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the river Korn",
+            "tip": "A quiet walk along the small river that flows through the town.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Wenn Sie an einem Markttag hier sind, finden Sie lokale Produkte und Spezialitäten."
+          },
+          {
+            "name": "Opkorn Shopping Center",
+            "tip": "Ein modernes Einkaufszentrum am Rande der Stadt für eine größere Auswahl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Ha piacnapon érkezik, helyi termékeket és különlegességeket talál."
+          },
+          {
+            "name": "Opkorn Bevásárlóközpont",
+            "tip": "Modern bevásárlóközpont a város szélén, szélesebb választékkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Dacă sunteți aici într-o zi de piață, veți găsi produse locale și specialități."
+          },
+          {
+            "name": "Centrul Comercial Opkorn",
+            "tip": "Un centru comercial modern la marginea orașului pentru o selecție mai largă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "If you're here on a market day, you'll find local produce and specialties."
+          },
+          {
+            "name": "Opkorn Shopping Center",
+            "tip": "A modern shopping mall on the edge of town for a wider selection."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum hügelig sein kann.",
+          "Die meisten Sehenswürdigkeiten sind gut zu Fuß erreichbar.",
+          "Prüfen Sie die Öffnungszeiten des Schlosses, da es Teil einer Universität ist.",
+          "Halten Sie Ausschau nach den vielen Skulpturen, die in der Stadt verteilt sind."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a városközpont dombos lehet.",
+          "A legtöbb látnivaló gyalogosan is könnyen megközelíthető.",
+          "Ellenőrizze a kastély nyitvatartási idejét, mivel egy egyetem része.",
+          "Keresse a városban elszórtan található számos szobrot."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul orașului poate fi deluros.",
+          "Majoritatea atracțiilor sunt ușor accesibile pe jos.",
+          "Verificați programul de vizitare al castelului, deoarece face parte dintr-o universitate.",
+          "Fiți atenți la numeroasele sculpturi răspândite prin oraș."
+        ],
+        "en": [
+          "Wear comfortable shoes as the city center can be hilly.",
+          "Most attractions are within easy walking distance.",
+          "Check the castle's visiting hours as it's part of a university.",
+          "Look out for the many sculptures scattered around the city."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér",
+            "ro": "Piața Centrală",
+            "en": "Market Square"
+          },
+          "coords": [
+            5.8916,
+            49.522
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie hier und orientieren Sie sich, bevor es losgeht.",
+            "hu": "Induljon innen, és tájékozódjon, mielőtt útnak ered.",
+            "ro": "Începeți de aici și orientați-vă înainte de a porni la drum.",
+            "en": "Start here and get your bearings before setting off."
+          }
+        },
+        {
+          "name": {
+            "de": "Creative Hub 1535°",
+            "hu": "1535° Kreatív Központ",
+            "ro": "Centrul Creativ 1535°",
+            "en": "Creative Hub 1535°"
+          },
+          "coords": [
+            5.8888,
+            49.5201
+          ],
+          "category": "theatres/cultural-centres",
+          "arrive_at": "09:35",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein inspirierender Ort, der die industrielle Vergangenheit mit der kreativen Gegenwart verbindet.",
+            "hu": "Inspiráló hely, amely összeköti az ipari múltat a kreatív jelennel.",
+            "ro": "Un loc inspirațional care leagă trecutul industrial de prezentul creativ.",
+            "en": "An inspiring place that connects the industrial past with the creative present."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Differdingen",
+            "hu": "Differdingen kastély",
+            "ro": "Castelul Differdange",
+            "en": "Differdange Castle"
+          },
+          "coords": [
+            5.8945,
+            49.5255
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:43",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto von diesem historischen Gebäude, das heute Studenten beherbergt.",
+            "hu": "Készítsen egy fotót erről a történelmi épületről, amely ma diákoknak ad otthont.",
+            "ro": "Faceți o fotografie acestei clădiri istorice care astăzi găzduiește studenți.",
+            "en": "Take a photo of this historic building that now houses students."
+          }
+        },
+        {
+          "name": {
+            "de": "Fond-de-Gras",
+            "hu": "Fond-de-Gras",
+            "ro": "Fond-de-Gras",
+            "en": "Fond-de-Gras"
+          },
+          "coords": [
+            5.925,
+            49.505
+          ],
+          "category": "industrial-heritage",
+          "arrive_at": "12:08",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Ein Freilichtmuseum, das die industrielle Geschichte der Region lebendig werden lässt.",
+            "hu": "Egy szabadtéri múzeum, amely életre kelti a régió ipari történelmét.",
+            "ro": "Un muzeu în aer liber care aduce la viață istoria industrială a regiunii.",
+            "en": "An open-air museum that brings the industrial history of the region to life."
+          }
+        },
+        {
+          "name": {
+            "de": "Giele-Botter-Naturschutzgebiet",
+            "hu": "Giele-Botter Természetvédelmi Terület",
+            "ro": "Rezervația Naturală Giele Botter",
+            "en": "Giele Botter Nature Reserve"
+          },
+          "coords": [
+            5.918,
+            49.51
+          ],
+          "category": "natural-features",
+          "arrive_at": "14:23",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die einzigartige Landschaft auf den gut markierten Wegen.",
+            "hu": "Fedezze fel az egyedülálló tájat a jól jelzett ösvényeken!",
+            "ro": "Explorați peisajul unic pe traseele bine marcate.",
+            "en": "Explore the unique landscape on the well-marked trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Thillenberg-Stadion",
+            "hu": "Thillenberg Stadion",
+            "ro": "Stadionul Thillenberg",
+            "en": "Thillenberg Stadium"
+          },
+          "coords": [
+            5.885,
+            49.528
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:23",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einer entspannten Runde durch den Parkbereich.",
+            "hu": "Zárja a túrát egy pihentető körrel a parkban!",
+            "ro": "Încheiați turul cu o tură relaxantă prin zona parcului.",
+            "en": "End your tour with a relaxing lap through the park area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt im Herzen der Stadt am Marktplatz. Von dort aus radeln Sie zum kreativen Zentrum 1535° und weiter zum historischen Schloss. Am Mittag erwartet Sie eine längere Fahrt zum faszinierenden Industriepark Fond-de-Gras. Der Nachmittag steht ganz im Zeichen der Natur im Giele-Botter-Reservat, bevor Sie die Tour entspannt am Thillenberg ausklingen lassen.",
+        "hu": "Kerékpártúrája a város szívében, a Piactéren kezdődik. Innen tekerjen el a 1535° kreatív központba, majd tovább a történelmi kastélyhoz. Délben egy hosszabb út vár Önre a lenyűgöző Fond-de-Gras ipari parkba. A délután a természeté a Giele-Botter rezervátumban, mielőtt a Thillenberg-en fejezi be a túrát.",
+        "ro": "Turul pe bicicletă începe în inima orașului, în Piața Centrală. De acolo, pedalați spre centrul creativ 1535° și mai departe spre castelul istoric. La prânz, vă așteaptă o plimbare mai lungă către fascinantul parc industrial Fond-de-Gras. După-amiaza este dedicată naturii în rezervația Giele Botter, înainte de a încheia turul relaxat la Thillenberg.",
+        "en": "Your bike tour starts in the heart of the city at the Market Square. From there, you'll cycle to the creative hub 1535° and on to the historic castle. At midday, a longer ride awaits you to the fascinating Fond-de-Gras industrial park. The afternoon is dedicated to nature in the Giele Botter reserve, before you finish the tour in a relaxed manner at Thillenberg."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gromperekichelcher",
+            "tip": "Knusprige Kartoffelpuffer, ein beliebter lokaler Snack."
+          },
+          {
+            "name": "Kachkéis",
+            "tip": "Gekochter Käse, serviert mit Senf, ein Muss für Käseliebhaber."
+          },
+          {
+            "name": "Brasserie Bei der Gemeng",
+            "tip": "Ein guter Ort für ein schnelles Mittagessen mit lokalen Gerichten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gromperekichelcher",
+            "tip": "Ropogós burgonyalepény, népszerű helyi snack."
+          },
+          {
+            "name": "Kachkéis",
+            "tip": "Főtt sajt mustárral tálalva, kötelező a sajtkedvelőknek."
+          },
+          {
+            "name": "Brasserie Bei der Gemeng",
+            "tip": "Jó hely egy gyors ebédre helyi ételekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gromperekichelcher",
+            "tip": "Clătite de cartofi crocante, o gustare locală populară."
+          },
+          {
+            "name": "Kachkéis",
+            "tip": "Brânză gătită servită cu muștar, o necesitate pentru iubitorii de brânză."
+          },
+          {
+            "name": "Brasserie Bei der Gemeng",
+            "tip": "Un loc bun pentru un prânz rapid cu mâncăruri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gromperekichelcher",
+            "tip": "Crispy potato fritters, a popular local snack."
+          },
+          {
+            "name": "Kachkéis",
+            "tip": "Cooked cheese served with mustard, a must-try for cheese lovers."
+          },
+          {
+            "name": "Brasserie Bei der Gemeng",
+            "tip": "A good spot for a quick lunch with local dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt im Giele-Botter",
+            "tip": "Finden Sie einen hohen Punkt für einen Panoramablick über die rote Erde.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Waldwege um Fond-de-Gras",
+            "tip": "Die Wälder rund um den Park bieten ruhige Wege zum Entspannen.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópont a Giele-Botterben",
+            "tip": "Keressen egy magas pontot, ahonnan panorámás kilátás nyílik a vörös földre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Erdei ösvények Fond-de-Gras körül",
+            "tip": "A park körüli erdők csendes utakat kínálnak a pihenéshez.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere în Giele Botter",
+            "tip": "Găsiți un punct înalt pentru o vedere panoramică asupra pământului roșu.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Poteci forestiere în jurul Fond-de-Gras",
+            "tip": "Pădurile din jurul parcului oferă poteci liniștite pentru relaxare.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint in Giele Botter",
+            "tip": "Find a high spot for a panoramic view over the red earth.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Forest trails around Fond-de-Gras",
+            "tip": "The woods surrounding the park offer quiet trails for relaxation.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Probieren Sie das lokale Brot und Gebäck als Stärkung für die Tour."
+          },
+          {
+            "name": "Souvenirs im Fond-de-Gras",
+            "tip": "Der Museumsshop bietet Bücher und kleine Andenken zur Industriegeschichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékségek",
+            "tip": "Kóstolja meg a helyi kenyeret és süteményeket frissítőként a túrához."
+          },
+          {
+            "name": "Ajándéktárgyak Fond-de-Gras-ban",
+            "tip": "A múzeumi bolt könyveket és apró emléktárgyakat kínál az ipartörténetről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutării locale",
+            "tip": "Încercați pâinea și produsele de patiserie locale ca o gustare pentru tur."
+          },
+          {
+            "name": "Suveniruri la Fond-de-Gras",
+            "tip": "Magazinul muzeului oferă cărți și mici suveniruri despre istoria industrială."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local bakeries",
+            "tip": "Try the local bread and pastries as a snack for the tour."
+          },
+          {
+            "name": "Souvenirs at Fond-de-Gras",
+            "tip": "The museum shop offers books and small souvenirs about the industrial history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Route zum Fond-de-Gras hat einige Steigungen.",
+          "Nehmen Sie ausreichend Wasser mit, besonders für den Naturpark-Teil.",
+          "Schließen Sie Ihr Fahrrad an den Hauptsehenswürdigkeiten gut ab.",
+          "Ein Helm wird empfohlen."
+        ],
+        "hu": [
+          "A Fond-de-Gras felé vezető úton vannak emelkedők.",
+          "Vigyen magával elegendő vizet, különösen a natúrparki szakaszra.",
+          "Zárja le jól a kerékpárját a főbb látnivalóknál.",
+          "Sisak viselése ajánlott."
+        ],
+        "ro": [
+          "Traseul către Fond-de-Gras are câteva urcări.",
+          "Luați suficientă apă, în special pentru porțiunea din parcul natural.",
+          "Asigurați-vă bicicleta bine la principalele atracții.",
+          "Se recomandă purtarea căștii."
+        ],
+        "en": [
+          "The route to Fond-de-Gras has some inclines.",
+          "Take plenty of water, especially for the nature park section.",
+          "Lock your bike securely at the main attractions.",
+          "A helmet is recommended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum (Cluster A)",
+            "hu": "Központi Parkoló (A klaszter)",
+            "ro": "Parcare Centrală (Cluster A)",
+            "en": "Central Car Park (Cluster A)"
+          },
+          "coords": [
+            5.892,
+            49.5215
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier, um das Stadtzentrum zu Fuß zu erkunden.",
+            "hu": "Parkoljon itt, és fedezze fel gyalog a városközpontot.",
+            "ro": "Parcați aici pentru a explora centrul orașului pe jos.",
+            "en": "Park here to explore the city center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér",
+            "ro": "Piața Centrală",
+            "en": "Market Square"
+          },
+          "coords": [
+            5.8916,
+            49.522
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der belebte Treffpunkt der Stadt.",
+            "hu": "A város nyüzsgő találkozóhelye.",
+            "ro": "Punctul de întâlnire plin de viață al orașului.",
+            "en": "The city's bustling meeting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Saint-Imier-Kirche",
+            "hu": "Városháza és Szent Imier-templom",
+            "ro": "Primăria și Biserica Saint-Imier",
+            "en": "Town Hall & Saint-Imier Church"
+          },
+          "coords": [
+            5.8918,
+            49.523
+          ],
+          "category": "historical",
+          "arrive_at": "09:50",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Diese beiden wichtigen Wahrzeichen liegen nur wenige Schritte voneinander entfernt.",
+            "hu": "Ez a két fontos látnivaló csak pár lépésre van egymástól.",
+            "ro": "Aceste două repere importante sunt la doar câțiva pași unul de celălalt.",
+            "en": "These two important landmarks are just a few steps from each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Fond-de-Gras (Cluster B)",
+            "hu": "Fond-de-Gras (B klaszter)",
+            "ro": "Fond-de-Gras (Cluster B)",
+            "en": "Fond-de-Gras (Cluster B)"
+          },
+          "coords": [
+            5.925,
+            49.505
+          ],
+          "category": "industrial-heritage",
+          "arrive_at": "11:10",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem einzigartigen Park und tauchen Sie in die Vergangenheit ein.",
+            "hu": "Vezessen el ehhez az egyedülálló parkhoz, és merüljön el a múltban!",
+            "ro": "Conduceți spre acest parc unic și scufundați-vă în trecut.",
+            "en": "Drive to this unique park and immerse yourself in the past."
+          }
+        },
+        {
+          "name": {
+            "de": "Giele-Botter-Naturschutzgebiet",
+            "hu": "Giele-Botter Természetvédelmi Terület",
+            "ro": "Rezervația Naturală Giele Botter",
+            "en": "Giele Botter Nature Reserve"
+          },
+          "coords": [
+            5.918,
+            49.51
+          ],
+          "category": "natural-features",
+          "arrive_at": "13:15",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Fond-de-Gras bringt Sie in diese faszinierende Landschaft.",
+            "hu": "Egy rövid séta a Fond-de-Gras-tól elvezeti ehhez a lenyűgöző tájhoz.",
+            "ro": "O scurtă plimbare de la Fond-de-Gras vă va duce în acest peisaj fascinant.",
+            "en": "A short walk from Fond-de-Gras takes you to this fascinating landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Differdingen (Cluster C)",
+            "hu": "Differdingen kastély (C klaszter)",
+            "ro": "Castelul Differdange (Cluster C)",
+            "en": "Differdange Castle (Cluster C)"
+          },
+          "coords": [
+            5.8945,
+            49.5255
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:05",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und erkunden Sie das Schloss und die Umgebung.",
+            "hu": "Parkoljon a közelben, és fedezze fel a kastélyt és környékét!",
+            "ro": "Parcați în apropiere și explorați castelul și împrejurimile sale.",
+            "en": "Park nearby and explore the castle and its surroundings."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt im Zentrum von Differdingen, wo Sie nach dem Parken den Marktplatz und die historischen Gebäude zu Fuß erkunden. Am Vormittag fahren Sie zum Industrie- und Naturcluster Fond-de-Gras/Giele Botter für eine ausgiebige Erkundung. Der Nachmittag ist dem majestätischen Schloss Differdingen gewidmet. Dieser Plan kombiniert kurze Autofahrten mit intensiven Spaziergängen für ein umfassendes Erlebnis.",
+        "hu": "A nap Differdingen központjában kezdődik, ahol parkolás után gyalog fedezheti fel a Piacteret és a történelmi épületeket. Délelőtt autóval utazik a Fond-de-Gras/Giele Botter ipari és természeti klaszterhez egy alapos felfedezésre. A délutánt a fenséges Differdingen kastélynak szentelik. Ez a terv rövid autós utakat kombinál intenzív sétákkal az átfogó élményért.",
+        "ro": "Ziua începe în centrul orașului Differdange, unde, după parcare, explorați pe jos Piața și clădirile istorice. Dimineața, conduceți spre clusterul industrial și natural Fond-de-Gras/Giele Botter pentru o explorare amănunțită. După-amiaza este dedicată majestuosului Castel Differdange. Acest plan combină drumuri scurte cu mașina și plimbări intense pentru o experiență completă.",
+        "en": "The day starts in the center of Differdange, where you'll explore the Market Square and historic buildings on foot after parking. In the morning, you'll drive to the Fond-de-Gras/Giele Botter industrial and natural cluster for an extensive exploration. The afternoon is dedicated to the majestic Differdange Castle. This plan combines short car journeys with intensive walks for a comprehensive experience."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant am Fond-de-Gras",
+            "tip": "Genießen Sie eine Mahlzeit in historischer Umgebung."
+          },
+          {
+            "name": "Threeland Hotel Restaurant",
+            "tip": "Bietet eine gehobene Küche mit regionalen Produkten."
+          },
+          {
+            "name": "Quetschentaart",
+            "tip": "Ein Pflaumenkuchen, der besonders im Spätsommer beliebt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a Fond-de-Gras-ban",
+            "tip": "Fogyasszon el egy ételt történelmi környezetben."
+          },
+          {
+            "name": "Threeland Hotel Étterem",
+            "tip": "Kifinomult konyhát kínál regionális termékekkel."
+          },
+          {
+            "name": "Quetschentaart",
+            "tip": "Szilvás pite, amely különösen késő nyáron népszerű."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant la Fond-de-Gras",
+            "tip": "Savurați o masă într-un cadru istoric."
+          },
+          {
+            "name": "Restaurantul Hotelului Threeland",
+            "tip": "Oferă o bucătărie rafinată cu produse regionale."
+          },
+          {
+            "name": "Quetschentaart",
+            "tip": "O tartă cu prune, deosebit de populară la sfârșitul verii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant at Fond-de-Gras",
+            "tip": "Enjoy a meal in a historic setting."
+          },
+          {
+            "name": "Threeland Hotel Restaurant",
+            "tip": "Offers upscale cuisine with regional products."
+          },
+          {
+            "name": "Quetschentaart",
+            "tip": "A plum tart that is especially popular in late summer."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lasauvage",
+            "tip": "Ein malerisches Dorf in der Nähe von Fond-de-Gras, perfekt für einen ruhigen Moment.",
+            "emoji": "🏡"
+          },
+          {
+            "name": "Schlosspark",
+            "tip": "Der Bereich um das Schloss Differdingen lädt zu einem ruhigen Spaziergang ein.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lasauvage",
+            "tip": "Festői falu a Fond-de-Gras közelében, tökéletes egy csendes pillanatra.",
+            "emoji": "🏡"
+          },
+          {
+            "name": "Kastélypark",
+            "tip": "A Differdingen kastély körüli terület csendes sétára invitál.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lasauvage",
+            "tip": "Un sat pitoresc lângă Fond-de-Gras, perfect pentru un moment de liniște.",
+            "emoji": "🏡"
+          },
+          {
+            "name": "Parcul Castelului",
+            "tip": "Zona din jurul Castelului Differdange invită la o plimbare liniștită.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lasauvage",
+            "tip": "A picturesque village near Fond-de-Gras, perfect for a quiet moment.",
+            "emoji": "🏡"
+          },
+          {
+            "name": "Castle Park",
+            "tip": "The area around Differdange Castle invites you for a quiet walk.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Regionale Produkte",
+            "tip": "Suchen Sie nach lokalen Honig- oder Senfsorten als Mitbringsel."
+          },
+          {
+            "name": "Buchhandlungen",
+            "tip": "Finden Sie Bücher über die reiche Geschichte der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Regionális termékek",
+            "tip": "Keressen helyi mézet vagy mustárfajtákat ajándékba."
+          },
+          {
+            "name": "Könyvesboltok",
+            "tip": "Találjon könyveket a régió gazdag történelméről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse regionale",
+            "tip": "Căutați soiuri locale de miere sau muștar ca suvenir."
+          },
+          {
+            "name": "Librării",
+            "tip": "Găsiți cărți despre istoria bogată a regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Regional Products",
+            "tip": "Look for local honey or mustard varieties as a souvenir."
+          },
+          {
+            "name": "Bookstores",
+            "tip": "Find books about the region's rich history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Planen Sie genügend Zeit für den Fond-de-Gras Park ein, es gibt viel zu sehen.",
+          "Parkmöglichkeiten sind in der Regel gut ausgeschildert.",
+          "Beachten Sie, dass das Schloss Teil einer Universität ist und der Zugang eingeschränkt sein kann.",
+          "Die Straßen können eng sein, fahren Sie vorsichtig."
+        ],
+        "hu": [
+          "Tervezzen elegendő időt a Fond-de-Gras parkra, sok a látnivaló.",
+          "A parkolási lehetőségek általában jól ki vannak táblázva.",
+          "Ne feledje, hogy a kastély egy egyetem része, és a belépés korlátozott lehet.",
+          "Az utcák szűkek lehetnek, vezessen óvatosan."
+        ],
+        "ro": [
+          "Planificați suficient timp pentru parcul Fond-de-Gras, sunt multe de văzut.",
+          "Parcările sunt de obicei bine semnalizate.",
+          "Rețineți că castelul face parte dintr-o universitate și accesul poate fi restricționat.",
+          "Străzile pot fi înguste, conduceți cu prudență."
+        ],
+        "en": [
+          "Allow plenty of time for Fond-de-Gras park, there is a lot to see.",
+          "Parking facilities are usually well signposted.",
+          "Note that the castle is part of a university and access may be restricted.",
+          "The streets can be narrow, drive carefully."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 8.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Differdingen (Cluster A)",
+            "hu": "Differdingen pályaudvar (A klaszter)",
+            "ro": "Gara Differdange (Cluster A)",
+            "en": "Differdange Station (Cluster A)"
+          },
+          "coords": [
+            5.89,
+            49.52
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Der Startpunkt Ihrer Erkundung mit öffentlichen Verkehrsmitteln.",
+            "hu": "A tömegközlekedéssel történő felfedezés kiindulópontja.",
+            "ro": "Punctul de plecare al explorării dumneavoastră cu transportul public.",
+            "en": "The starting point of your exploration by public transport."
+          }
+        },
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér",
+            "ro": "Piața Centrală",
+            "en": "Market Square"
+          },
+          "coords": [
+            5.8916,
+            49.522
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Bahnhof zum Herzen der Stadt.",
+            "hu": "Rövid séta a pályaudvartól a város szívéig.",
+            "ro": "O scurtă plimbare de la gară până în inima orașului.",
+            "en": "A short walk from the station to the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Saint-Imier-Kirche",
+            "hu": "Városháza és Szent Imier-templom",
+            "ro": "Primăria și Biserica Saint-Imier",
+            "en": "Town Hall & Saint-Imier Church"
+          },
+          "coords": [
+            5.8918,
+            49.523
+          ],
+          "category": "historical",
+          "arrive_at": "09:55",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese beiden zentralen Sehenswürdigkeiten bequem zu Fuß.",
+            "hu": "Fedezze fel ezt a két központi látnivalót kényelmesen, gyalog!",
+            "ro": "Explorați aceste două atracții centrale confortabil pe jos.",
+            "en": "Explore these two central sights comfortably on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Creative Hub 1535°",
+            "hu": "1535° Kreatív Központ",
+            "ro": "Centrul Creativ 1535°",
+            "en": "Creative Hub 1535°"
+          },
+          "coords": [
+            5.8888,
+            49.5201
+          ],
+          "category": "theatres/cultural-centres",
+          "arrive_at": "11:05",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Auf dem Rückweg zum Bahnhof gelegen, ein perfekter Stopp.",
+            "hu": "A pályaudvar felé menet útba esik, tökéletes megálló.",
+            "ro": "Situat în drum spre gară, o oprire perfectă.",
+            "en": "Located on the way back to the station, a perfect stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Fond-de-Gras (Cluster B)",
+            "hu": "Fond-de-Gras (B klaszter)",
+            "ro": "Fond-de-Gras (Cluster B)",
+            "en": "Fond-de-Gras (Cluster B)"
+          },
+          "coords": [
+            5.925,
+            49.505
+          ],
+          "category": "industrial-heritage",
+          "arrive_at": "12:50",
+          "stay_min": 150,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus oder den historischen Zug 'Train 1900' hierher.",
+            "hu": "Jöjjön ide busszal vagy a 'Train 1900' történelmi vonattal!",
+            "ro": "Luați autobuzul sau trenul istoric 'Train 1900' până aici.",
+            "en": "Take the bus or the historic 'Train 1900' here."
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück zum Bahnhof Differdingen",
+            "hu": "Vissza Differdingen pályaudvarára",
+            "ro": "Înapoi la Gara Differdange",
+            "en": "Back to Differdange Station"
+          },
+          "coords": [
+            5.89,
+            49.52
+          ],
+          "category": "transport",
+          "arrive_at": "16:20",
+          "stay_min": 40,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für die Rückfahrt und einen letzten Blick auf die Stadt.",
+            "hu": "Szánjon időt a visszaútra és egy utolsó pillantásra a városra.",
+            "ro": "Acordați-vă timp pentru călătoria de întoarcere și o ultimă privire asupra orașului.",
+            "en": "Take your time for the return journey and a last look at the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Tour startet am Bahnhof von Differdingen. Ein Spaziergang führt Sie zu den wichtigsten Sehenswürdigkeiten im Stadtzentrum: Marktplatz, Rathaus und Kirche sowie der kreative Hub. Am Mittag nehmen Sie den Bus oder den historischen Zug zum Fond-de-Gras, um in die Industriegeschichte einzutauchen. Der späte Nachmittag bringt Sie zurück ins Zentrum und beendet einen erlebnisreichen Tag.",
+        "hu": "A túra Differdingen pályaudvarán kezdődik. Egy séta elvezeti Önt a városközpont főbb látnivalóihoz: a Piactérhez, a Városházához, a templomhoz és a kreatív központhoz. Délben busszal vagy történelmi vonattal utazik a Fond-de-Gras-ba, hogy elmerüljön az ipartörténetben. A késő délután visszaviszi a központba, lezárva egy eseménydús napot.",
+        "ro": "Turul dumneavoastră începe la gara din Differdange. O plimbare vă va duce la principalele atracții din centrul orașului: Piața, Primăria, Biserica și centrul creativ. La prânz, luați autobuzul sau trenul istoric spre Fond-de-Gras pentru a vă cufunda în istoria industrială. După-amiaza târziu vă aduce înapoi în centru, încheind o zi plină de evenimente.",
+        "en": "Your tour starts at Differdange station. A walk will take you to the main sights in the city center: Market Square, Town Hall, the church, and the creative hub. At noon, you take the bus or historic train to Fond-de-Gras to delve into industrial history. The late afternoon brings you back to the center, ending an eventful day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei am Bahnhof",
+            "tip": "Ein schneller Happen vor oder nach der Zugfahrt."
+          },
+          {
+            "name": "Café am Marktplatz",
+            "tip": "Ideal für eine Pause während des Stadtrundgangs."
+          },
+          {
+            "name": "Friture",
+            "tip": "Probieren Sie eine Portion Pommes Frites von einem lokalen Imbiss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség a pályaudvarnál",
+            "tip": "Egy gyors falat a vonatút előtt vagy után."
+          },
+          {
+            "name": "Kávézó a Piactéren",
+            "tip": "Ideális egy szünetre a városnézés közben."
+          },
+          {
+            "name": "Friture",
+            "tip": "Kóstoljon meg egy adag sült krumplit egy helyi büfében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie la gară",
+            "tip": "O gustare rapidă înainte sau după călătoria cu trenul."
+          },
+          {
+            "name": "Cafenea în Piață",
+            "tip": "Ideal pentru o pauză în timpul turului orașului."
+          },
+          {
+            "name": "Friture",
+            "tip": "Încercați o porție de cartofi prăjiți de la o gustare locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery at the station",
+            "tip": "A quick bite before or after the train journey."
+          },
+          {
+            "name": "Café on the Market Square",
+            "tip": "Ideal for a break during the city tour."
+          },
+          {
+            "name": "Friture",
+            "tip": "Try a portion of french fries from a local snack bar."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc Gerlache",
+            "tip": "Ein kleiner, zentraler Park für eine kurze Auszeit.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Die Fahrt mit dem Train 1900",
+            "tip": "Die langsame Fahrt durch die Landschaft ist an sich schon entspannend.",
+            "emoji": "🚂"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gerlache park",
+            "tip": "Kicsi, központi park egy rövid pihenőre.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Utazás a Train 1900-zal",
+            "tip": "A lassú utazás a tájon keresztül önmagában is pihentető.",
+            "emoji": "🚂"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Gerlache",
+            "tip": "Un parc mic, central, pentru o scurtă pauză.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Călătoria cu Trenul 1900",
+            "tip": "Călătoria lentă prin peisaj este relaxantă în sine.",
+            "emoji": "🚂"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gerlache Park",
+            "tip": "A small, central park for a short break.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "The ride on the Train 1900",
+            "tip": "The slow journey through the landscape is relaxing in itself.",
+            "emoji": "🚂"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bahnhofskiosk",
+            "tip": "Für Reisebedarf und Zeitschriften."
+          },
+          {
+            "name": "Geschäfte in der Fußgängerzone",
+            "tip": "Stöbern Sie in den kleinen Läden nahe dem Marktplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pályaudvari kioszk",
+            "tip": "Utazási kellékekhez és magazinokhoz."
+          },
+          {
+            "name": "Boltok a sétálóutcában",
+            "tip": "Böngésszen a Piactérhez közeli kis üzletekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcul din gară",
+            "tip": "Pentru necesități de călătorie și reviste."
+          },
+          {
+            "name": "Magazine pe strada pietonală",
+            "tip": "Răsfoiți magazinele mici de lângă Piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Station kiosk",
+            "tip": "For travel essentials and magazines."
+          },
+          {
+            "name": "Shops in the pedestrian zone",
+            "tip": "Browse the small shops near the Market Square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "In Luxemburg ist der öffentliche Nahverkehr kostenlos!",
+          "Prüfen Sie den Fahrplan für den 'Train 1900', da er nicht täglich fährt.",
+          "Kaufen Sie eine Tageskarte, falls Sie außerhalb Luxemburgs reisen.",
+          "Die Busse zum Fond-de-Gras fahren regelmäßig vom Stadtzentrum ab."
+        ],
+        "hu": [
+          "Luxemburgban a tömegközlekedés ingyenes!",
+          "Ellenőrizze a 'Train 1900' menetrendjét, mivel nem közlekedik minden nap.",
+          "Vásároljon napijegyet, ha Luxemburgon kívülre utazik.",
+          "A Fond-de-Gras-ba tartó buszok rendszeresen indulnak a városközpontból."
+        ],
+        "ro": [
+          "Transportul public este gratuit în Luxemburg!",
+          "Verificați orarul pentru 'Train 1900', deoarece nu circulă zilnic.",
+          "Cumpărați un bilet de o zi dacă călătoriți în afara Luxemburgului.",
+          "Autobuzele spre Fond-de-Gras pleacă regulat din centrul orașului."
+        ],
+        "en": [
+          "Public transport in Luxembourg is free!",
+          "Check the schedule for the 'Train 1900' as it does not run daily.",
+          "Buy a day ticket if you are traveling outside of Luxembourg.",
+          "Buses to Fond-de-Gras leave regularly from the city center."
+        ]
+      }
+    }
+  }
+}

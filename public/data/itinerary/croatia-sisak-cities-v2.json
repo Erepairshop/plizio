@@ -1,0 +1,1445 @@
+{
+  "city_id": "croatia-sisak-cities-v2",
+  "anchor": {
+    "name": "Sisak",
+    "coords": [
+      16.373,
+      45.485
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Mali Kaptol",
+            "hu": "Kis Káptalan",
+            "ro": "Micul Capitoliu",
+            "en": "Little Kaptol"
+          },
+          "coords": [
+            16.3735,
+            45.4855
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee und beobachten Sie das Stadtleben.",
+            "hu": "Kezdje a napot egy kávéval, és figyelje a város ébredését.",
+            "ro": "Începeți ziua aici cu o cafea, privind viața orașului.",
+            "en": "Start your day here with a coffee and watch the city life unfold."
+          }
+        },
+        {
+          "name": {
+            "de": "Veliki Kaptol",
+            "hu": "Nagy Káptalan",
+            "ro": "Marele Capitoliu",
+            "en": "Great Kaptol"
+          },
+          "coords": [
+            16.3745,
+            45.486
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:40",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Barockarchitektur dieses beeindruckenden Gebäudes.",
+            "hu": "Csodálja meg ennek a lenyűgöző épületnek a barokk építészetét.",
+            "ro": "Admirați arhitectura barocă a acestei clădiri impresionante.",
+            "en": "Admire the Baroque architecture of this impressive building."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale des Heiligen Kreuzes",
+            "hu": "Szent Kereszt Felmagasztalása székesegyház",
+            "ro": "Catedrala Înălțarea Sfintei Cruci",
+            "en": "Cathedral of the Exaltation of the Holy Cross"
+          },
+          "coords": [
+            16.372,
+            45.4875
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Treten Sie ein und finden Sie einen Moment der Ruhe im Herzen der Stadt.",
+            "hu": "Lépjen be, és találjon egy pillanatnyi békét a város szívében.",
+            "ro": "Intrați pentru un moment de liniște în inima orașului.",
+            "en": "Step inside to find a moment of peace in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Brücke",
+            "hu": "Öreg híd",
+            "ro": "Podul Vechi",
+            "en": "Old Bridge"
+          },
+          "coords": [
+            16.3705,
+            45.489
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:52",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der beste Ort für ein Foto vom Fluss Kupa und dem Stadtpanorama.",
+            "hu": "A legjobb hely egy fotóhoz a Kupa folyóról és a városi panorámáról.",
+            "ro": "Cel mai bun loc pentru o fotografie cu râul Kupa și panorama orașului.",
+            "en": "The best spot for a photo of the Kupa River and the city panorama."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Sisak",
+            "hu": "Sisaki Városi Múzeum",
+            "ro": "Muzeul Orașului Sisak",
+            "en": "Sisak City Museum"
+          },
+          "coords": [
+            16.376,
+            45.484
+          ],
+          "category": "museums",
+          "arrive_at": "11:22",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte der Stadt, von den Römern bis heute.",
+            "hu": "Fedezze fel a város gazdag történelmét a római kortól napjainkig.",
+            "ro": "Descoperiți istoria bogată a orașului, de la romani până în prezent.",
+            "en": "Discover the city's rich history, from Roman times to the present day."
+          }
+        },
+        {
+          "name": {
+            "de": "Holländisches Haus",
+            "hu": "Holland ház",
+            "ro": "Casa Olandeză",
+            "en": "Dutch House"
+          },
+          "coords": [
+            16.379,
+            45.482
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:08",
+          "stay_min": 45,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein faszinierendes Beispiel für das industrielle Erbe am Flussufer.",
+            "hu": "Az ipari örökség lenyűgöző példája a folyóparton.",
+            "ro": "Un exemplu fascinant de patrimoniu industrial pe malul râului.",
+            "en": "A fascinating example of industrial heritage on the riverfront."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Sisak",
+            "hu": "Sisaki vár",
+            "ro": "Cetatea Sisak",
+            "en": "Sisak Fortress"
+          },
+          "coords": [
+            16.4,
+            45.475
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Mauern für einen atemberaubenden Blick auf den Zusammenfluss von Kupa und Sava.",
+            "hu": "Másszon fel a falakra a Kupa és a Száva összefolyásának lélegzetelállító látványáért.",
+            "ro": "Urcați pe ziduri pentru o priveliște uluitoare a confluenței râurilor Kupa și Sava.",
+            "en": "Climb the walls for a breathtaking view of the Kupa and Sava river confluence."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang durch Sisak beginnt im historischen Herzen, rund um den Mali Kaptol. Am Vormittag erkunden Sie die barocken Fassaden und die beeindruckende Kathedrale, bevor Sie die Alte Brücke überqueren, um das Flusspanorama zu genießen. Nach dem Mittagessen führt Sie ein Spaziergang entlang des Kupa-Flusses, vorbei an Zeugnissen des industriellen Erbes, zur mächtigen Festung Sisak. Der Nachmittag ist der Erkundung dieser historischen Stätte gewidmet, wo die Geschichte in der Luft liegt. Der Abend klingt in einem traditionellen Restaurant aus, wo Sie die Aromen der Region bei einem Blick auf den ruhigen Fluss genießen.",
+        "hu": "Sétája Sisak történelmi szívében, a Kis Káptalan körül kezdődik. A délelőtt folyamán felfedezi a barokk homlokzatokat és a lenyűgöző székesegyházat, mielőtt átkelne az Öreg hídon, hogy megcsodálja a folyami panorámát. Ebéd után a Kupa folyó mentén sétálva, az ipari örökség emlékei mellett elhaladva jut el a hatalmas sisaki várhoz. A délután ennek a történelmi helyszínnek a felfedezésével telik, ahol a történelem szinte tapintható. Az estét egy hagyományos étteremben zárja, ahol a régió ízeit élvezheti a csendes folyóra nyíló kilátás mellett.",
+        "ro": "Plimbarea dvs. prin Sisak începe în inima istorică, în jurul Micului Capitoliu. Dimineața explorați fațadele baroce și catedrala impresionantă, înainte de a traversa Podul Vechi pentru a vă bucura de panorama râului. După prânz, o plimbare de-a lungul râului Kupa, trecând pe lângă mărturii ale patrimoniului industrial, vă va duce la impunătoarea Cetate Sisak. După-amiaza este dedicată explorării acestui sit istoric, unde istoria plutește în aer. Seara se încheie la un restaurant tradițional, savurând aromele regiunii cu o priveliște asupra râului liniștit.",
+        "en": "Your walk through Sisak begins in its historic heart, around Little Kaptol. In the morning, you'll explore the Baroque facades and the impressive cathedral before crossing the Old Bridge to enjoy the river panorama. After lunch, a walk along the Kupa River, past relics of industrial heritage, leads you to the mighty Sisak Fortress. The afternoon is dedicated to exploring this historic site where history is palpable. The evening concludes at a traditional restaurant, savoring the region's flavors with a view of the tranquil river."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fiš paprikaš",
+            "tip": "Probieren Sie diesen würzigen Fischeintopf, eine lokale Spezialität, im Restaurant 'Kod Starog mosta'."
+          },
+          {
+            "name": "Šaran na rašljama",
+            "tip": "Auf einer Gabel gegrillter Karpfen, am besten frisch am Flussufer genossen."
+          },
+          {
+            "name": "Lokal gebrautes Bier",
+            "tip": "Eine lokale Brauerei bietet erfrischende Craft-Biere."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fiš paprikaš (Halpaprikás)",
+            "tip": "Kóstolja meg ezt a fűszeres halászlét, egy helyi specialitást a 'Kod Starog mosta' étteremben."
+          },
+          {
+            "name": "Villás ponty (Šaran na rašljama)",
+            "tip": "Nyárson sült ponty, a legjobb frissen a folyóparton fogyasztva."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Egy helyi sörfőzde frissítő kézműves söröket kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fiș paprikaș",
+            "tip": "Încercați această tocană de pește picantă, o specialitate locală, la restaurantul 'Kod Starog mosta'."
+          },
+          {
+            "name": "Crap la proțap (Šaran na rašljama)",
+            "tip": "Crap la grătar pe furculiță, cel mai bine savurat proaspăt pe malul râului."
+          },
+          {
+            "name": "Bere artizanală locală",
+            "tip": "O berărie locală oferă beri artizanale răcoritoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fiš paprikaš (Fish Paprikash)",
+            "tip": "Try this spicy fish stew, a local specialty, at the 'Kod Starog mosta' restaurant."
+          },
+          {
+            "name": "Carp on a Fork (Šaran na rašljama)",
+            "tip": "Carp grilled on a fork, best enjoyed fresh on the riverbank."
+          },
+          {
+            "name": "Local Craft Beer",
+            "tip": "A local brewery offers refreshing craft beers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kupa-Flussufer",
+            "tip": "Finden Sie eine ruhige Bank am Fluss und beobachten Sie die vorbeiziehenden Boote.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Festungsmauern bei Sonnenuntergang",
+            "tip": "Der perfekte Ort, um die Ruhe am Ende des Tages zu genießen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Park neben der Kathedrale",
+            "tip": "Ein kleiner, friedlicher grüner Fleck im Stadtzentrum.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kupa folyó partja",
+            "tip": "Találjon egy csendes padot a folyóparton, és nézze a hajókat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A vár falai naplementekor",
+            "tip": "Tökéletes hely a nap végi csend élvezetére.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Park a székesegyház mellett",
+            "tip": "Egy kicsi, békés zöld terület a városközpontban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Kupa",
+            "tip": "Găsiți o bancă liniștită lângă râu și priviți bărcile trecând.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Zidurile cetății la apus",
+            "tip": "Locul perfect pentru a te bucura de liniștea de la sfârșitul zilei.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul de lângă catedrală",
+            "tip": "Un mic spațiu verde și pașnic în centrul orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kupa Riverbank",
+            "tip": "Find a quiet bench by the river and watch the boats go by.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fortress Walls at Sunset",
+            "tip": "The perfect spot to enjoy the tranquility at the end of the day.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Park next to the Cathedral",
+            "tip": "A small, peaceful green spot in the city center.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stadtmarkt",
+            "tip": "Kaufen Sie frische lokale Produkte, Honig und handgemachte Souvenirs."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Entdecken Sie einzigartige Keramik und Holzarbeiten von lokalen Künstlern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi piac",
+            "tip": "Vásároljon friss helyi termékeket, mézet és kézzel készített ajándéktárgyakat."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Fedezzen fel egyedi kerámiákat és fafaragásokat helyi művészektől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața orașului",
+            "tip": "Cumpărați produse locale proaspete, miere și suveniruri artizanale."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Descoperiți ceramică unică și obiecte din lemn de la artiști locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "City Market",
+            "tip": "Shop for fresh local produce, honey, and handmade souvenirs."
+          },
+          {
+            "name": "Craft Shops",
+            "tip": "Discover unique ceramics and woodwork from local artists."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Eine wiederverwendbare Wasserflasche ist eine gute Idee.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Planen Sie eine längere Pause am Flussufer ein, um die Atmosphäre zu genießen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog sétálni.",
+          "Egy újratölthető vizes palack jó ötlet.",
+          "A legtöbb központi látnivaló könnyen elérhető gyalog.",
+          "Tervezzen egy hosszabb pihenőt a folyóparton, hogy élvezze a hangulatot."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "O sticlă de apă reutilizabilă este o idee bună.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Planificați o pauză mai lungă pe malul râului pentru a vă bucura de atmosferă."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "A reusable water bottle is a great idea.",
+          "Most central sights are easily within walking distance.",
+          "Plan for a longer break on the riverbank to soak in the atmosphere."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 9.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Alte Brücke",
+            "hu": "Öreg híd",
+            "ro": "Podul Vechi",
+            "en": "Old Bridge"
+          },
+          "coords": [
+            16.3705,
+            45.489
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein idealer Ausgangspunkt, um die Stadt vom Fahrradsattel aus zu sehen.",
+            "hu": "Ideális kiindulópont a város kerékpárnyeregből való megtekintéséhez.",
+            "ro": "Un punct de plecare ideal pentru a vedea orașul de pe șaua bicicletei.",
+            "en": "An ideal starting point to see the city from the saddle of your bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Holländisches Haus",
+            "hu": "Holland ház",
+            "ro": "Casa Olandeză",
+            "en": "Dutch House"
+          },
+          "coords": [
+            16.379,
+            45.482
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Folgen Sie dem Radweg am Flussufer, um dieses einzigartige Gebäude zu erreichen.",
+            "hu": "Kövesse a folyóparti kerékpárutat, hogy elérje ezt az egyedi épületet.",
+            "ro": "Urmați pista de biciclete de pe malul râului pentru a ajunge la această clădire unică.",
+            "en": "Follow the riverside cycle path to reach this unique building."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Ruinen von Siscia",
+            "hu": "Siscia római romjai",
+            "ro": "Ruinele romane din Siscia",
+            "en": "Roman Ruins of Siscia"
+          },
+          "coords": [
+            16.385,
+            45.478
+          ],
+          "category": "historical",
+          "arrive_at": "10:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Stellen Sie sich vor, wie das Leben in der antiken römischen Stadt aussah.",
+            "hu": "Képzelje el, milyen volt az élet az ókori római városban.",
+            "ro": "Imaginați-vă cum era viața în orașul roman antic.",
+            "en": "Imagine what life was like in the ancient Roman city."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Sisak",
+            "hu": "Sisaki vár",
+            "ro": "Cetatea Sisak",
+            "en": "Sisak Fortress"
+          },
+          "coords": [
+            16.4,
+            45.475
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und nehmen Sie sich Zeit, die Festung zu erkunden.",
+            "hu": "Zárja le a kerékpárját, és szánjon időt a vár felfedezésére.",
+            "ro": "Legați-vă bicicleta și acordați-vă timp pentru a explora cetatea.",
+            "en": "Lock up your bike and take your time exploring the fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Fluss",
+            "hu": "Ebédszünet a folyóparton",
+            "ro": "Pauză de prânz la râu",
+            "en": "Lunch Break by the River"
+          },
+          "coords": [
+            16.388,
+            45.48
+          ],
+          "category": "gastro",
+          "arrive_at": "13:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Viele Restaurants hier bieten einen Platz, um Ihr Fahrrad sicher abzustellen.",
+            "hu": "Sok itteni étterem biztosít helyet a kerékpár biztonságos elhelyezésére.",
+            "ro": "Multe restaurante de aici oferă un loc sigur pentru a vă parca bicicleta.",
+            "en": "Many restaurants here offer a place to park your bike safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtzentrum & Kathedrale",
+            "hu": "Városközpont és székesegyház",
+            "ro": "Centrul orașului și Catedrala",
+            "en": "City Center & Cathedral"
+          },
+          "coords": [
+            16.372,
+            45.4875
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:47",
+          "stay_min": 60,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einer entspannten Fahrt durch die Hauptstraßen.",
+            "hu": "Fejezze be a túrát egy laza tekeréssel a főutcákon.",
+            "ro": "Încheiați turul cu o plimbare relaxată pe străzile principale.",
+            "en": "End your tour with a relaxed ride through the main streets."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auf zwei Rädern beginnt Ihr Tag an der Alten Brücke und führt Sie schnell am Kupa-Ufer entlang. Am Morgen radeln Sie vorbei an Industriedenkmälern zu den antiken römischen Ruinen, bevor Sie die beeindruckende Festung Sisak erreichen. Hier nehmen Sie sich Zeit für eine ausführliche Erkundung und ein Mittagessen mit Blick auf den Fluss. Am Nachmittag radeln Sie gemütlich zurück ins Stadtzentrum, um die Kathedrale und die belebten Straßen zu besichtigen. Die Fahrradtour bietet eine perfekte Mischung aus Kultur, Geschichte und Naturerlebnis.",
+        "hu": "Két keréken az Öreg hídnál indul a napja, és gyorsan a Kupa partja mentén halad. Reggel ipari műemlékek mellett teker el az ókori római romokhoz, mielőtt elérné a lenyűgöző sisaki várat. Itt szánjon időt egy alapos felfedezésre és egy folyóra néző ebédre. Délután kényelmesen visszateker a városközpontba, hogy megnézze a székesegyházat és a nyüzsgő utcákat. A kerékpártúra a kultúra, a történelem és a természet tökéletes keverékét kínálja.",
+        "ro": "Pe două roți, ziua dvs. începe la Podul Vechi și vă poartă rapid de-a lungul malului râului Kupa. Dimineața pedalați pe lângă monumente industriale spre ruinele romane antice, înainte de a ajunge la impresionanta Cetate Sisak. Aici, acordați-vă timp pentru o explorare amănunțită și un prânz cu vedere la râu. După-amiaza, pedalați înapoi în centrul orașului într-un ritm lejer pentru a vizita catedrala și străzile pline de viață. Turul cu bicicleta oferă un amestec perfect de cultură, istorie și experiență în natură.",
+        "en": "On two wheels, your day starts at the Old Bridge, quickly taking you along the Kupa riverbank. In the morning, you'll cycle past industrial monuments to the ancient Roman ruins before reaching the impressive Sisak Fortress. Here, you'll take your time for a thorough exploration and lunch with a river view. In the afternoon, you'll leisurely cycle back to the city center to visit the cathedral and the bustling streets. The bike tour offers a perfect mix of culture, history, and nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fiš paprikaš",
+            "tip": "Der perfekte stärkende Eintopf nach einer langen Radtour."
+          },
+          {
+            "name": "Lokale Sandwiches",
+            "tip": "Holen Sie sich ein schnelles und leckeres Mittagessen auf dem Stadtmarkt."
+          },
+          {
+            "name": "Frische Limonade",
+            "tip": "Viele Cafés bieten hausgemachte Limonade zur Erfrischung an."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fiš paprikaš (Halpaprikás)",
+            "tip": "Tökéletes, energiát adó egytálétel egy hosszú kerékpártúra után."
+          },
+          {
+            "name": "Helyi szendvicsek",
+            "tip": "Szerezzen be egy gyors és finom ebédet a városi piacon."
+          },
+          {
+            "name": "Friss limonádé",
+            "tip": "Sok kávézó kínál házi készítésű limonádét frissítőként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fiș paprikaș",
+            "tip": "Tocana perfectă și energizantă după o plimbare lungă cu bicicleta."
+          },
+          {
+            "name": "Sandvișuri locale",
+            "tip": "Luați un prânz rapid și delicios de la piața orașului."
+          },
+          {
+            "name": "Limonadă proaspătă",
+            "tip": "Multe cafenele oferă limonadă de casă pentru a vă răcori."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fiš paprikaš (Fish Paprikash)",
+            "tip": "The perfect energizing stew after a long bike ride."
+          },
+          {
+            "name": "Local Sandwiches",
+            "tip": "Grab a quick and delicious lunch from the city market."
+          },
+          {
+            "name": "Fresh Lemonade",
+            "tip": "Many cafes offer homemade lemonade to cool you down."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Kupa-Ufer",
+            "tip": "Eine friedliche Fahrt mit ständigem Blick auf den Fluss.",
+            "emoji": "🚴‍♀️"
+          },
+          {
+            "name": "Aussichtspunkt bei der Festung",
+            "tip": "Halten Sie an und genießen Sie die weite Aussicht auf die Landschaft.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Versteckte Gassen",
+            "tip": "Verlassen Sie die Hauptwege und entdecken Sie ruhige Ecken der Stadt.",
+            "emoji": "🤫"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Kupa partján",
+            "tip": "Békés tekerés, folyamatos kilátással a folyóra.",
+            "emoji": "🚴‍♀️"
+          },
+          {
+            "name": "Kilátópont a várnál",
+            "tip": "Álljon meg, és élvezze a tájra nyíló széles kilátást.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rejtett sikátorok",
+            "tip": "Hagyja el a fő utakat, és fedezze fel a város csendes zugait.",
+            "emoji": "🤫"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de pe malul Kupa",
+            "tip": "O plimbare liniștită cu o vedere constantă la râu.",
+            "emoji": "🚴‍♀️"
+          },
+          {
+            "name": "Punct de belvedere la cetate",
+            "tip": "Opriți-vă pentru a vă bucura de priveliștea largă a peisajului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Străduțe ascunse",
+            "tip": "Părăsiți cărările principale și descoperiți colțuri liniștite ale orașului.",
+            "emoji": "🤫"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kupa Riverside Cycle Path",
+            "tip": "A peaceful ride with constant river views.",
+            "emoji": "🚴‍♀️"
+          },
+          {
+            "name": "Viewpoint at the Fortress",
+            "tip": "Stop to enjoy the wide view of the landscape.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hidden Alleys",
+            "tip": "Get off the main paths and discover quiet corners of the city.",
+            "emoji": "🤫"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradladen",
+            "tip": "Für alle Notfälle oder um ein lokales Radsport-Souvenir zu kaufen."
+          },
+          {
+            "name": "Lokale Produkte",
+            "tip": "Kaufen Sie Energie für die Fahrt: Honig, Nüsse und Trockenfrüchte vom Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Bármilyen vészhelyzet esetére, vagy egy helyi kerékpáros ajándéktárgy megvásárlására."
+          },
+          {
+            "name": "Helyi termékek",
+            "tip": "Vásároljon energiát az útra: mézet, dióféléket és aszalt gyümölcsöket a piacról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Pentru orice urgență sau pentru a cumpăra un suvenir local de ciclism."
+          },
+          {
+            "name": "Produse locale",
+            "tip": "Cumpărați energie pentru plimbare: miere, nuci și fructe uscate de la piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "For any emergencies or to buy a local cycling souvenir."
+          },
+          {
+            "name": "Local produce",
+            "tip": "Buy energy for the ride: honey, nuts, and dried fruits from the market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck vor dem Start.",
+          "Nehmen Sie ein Schloss für Ihr Fahrrad mit.",
+          "Achten Sie auf Fußgänger auf den gemeinsamen Wegen.",
+          "Die meisten Wege sind flach, aber die Fahrt zur Festung kann eine leichte Steigung haben."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Vigyen magával lakatot a kerékpárhoz.",
+          "Figyeljen a gyalogosokra a közös utakon.",
+          "A legtöbb út sík, de a várhoz vezető út enyhén emelkedhet."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope înainte de a porni.",
+          "Luați un lacăt pentru bicicletă.",
+          "Fiți atenți la pietoni pe căile comune.",
+          "Majoritatea traseelor sunt plate, dar drumul spre cetate poate avea o pantă ușoară."
+        ],
+        "en": [
+          "Check your tire pressure before starting.",
+          "Bring a lock for your bike.",
+          "Be mindful of pedestrians on shared paths.",
+          "Most of the terrain is flat, but the ride to the fortress can have a slight incline."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 6.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Parkplatz im Stadtzentrum",
+            "hu": "A. Klaszter: Parkoló a városközpontban",
+            "ro": "Cluster A: Parcare în centrul orașului",
+            "en": "Cluster A: City Center Parking"
+          },
+          "coords": [
+            16.3725,
+            45.4845
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie den ersten Teil der Stadt zu Fuß.",
+            "hu": "Parkoljon itt, és fedezze fel a város első részét gyalog.",
+            "ro": "Parcați aici și explorați prima parte a orașului pe jos.",
+            "en": "Park here and explore the first part of the city on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Mali & Veliki Kaptol",
+            "hu": "Kis és Nagy Káptalan",
+            "ro": "Micul și Marele Capitoliu",
+            "en": "Little & Great Kaptol"
+          },
+          "coords": [
+            16.3735,
+            45.4855
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden historischen Plätze liegen nur wenige Schritte voneinander entfernt.",
+            "hu": "Ez a két történelmi tér csak pár lépésre van egymástól.",
+            "ro": "Aceste două piețe istorice sunt la doar câțiva pași una de cealaltă.",
+            "en": "These two historic squares are just a few steps apart."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale und Alte Brücke",
+            "hu": "Székesegyház és Öreg híd",
+            "ro": "Catedrala și Podul Vechi",
+            "en": "Cathedral and Old Bridge"
+          },
+          "coords": [
+            16.371,
+            45.488
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang bringt Sie von der heiligen Stätte zum malerischen Flussufer.",
+            "hu": "Egy rövid séta a szent helytől a festői folyópartig.",
+            "ro": "O scurtă plimbare vă duce de la lăcașul sfânt la malul pitoresc al râului.",
+            "en": "A short walk takes you from the sacred site to the picturesque riverbank."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Parkplatz bei der Festung",
+            "hu": "B. Klaszter: Parkoló a várnál",
+            "ro": "Cluster B: Parcare la Cetate",
+            "en": "Cluster B: Fortress Parking"
+          },
+          "coords": [
+            16.398,
+            45.4745
+          ],
+          "category": "transport",
+          "arrive_at": "11:20",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum nächsten Cluster und parken Sie für den Rest des Tages.",
+            "hu": "Vezessen a következő klaszterhez, és parkoljon le a nap hátralévő részére.",
+            "ro": "Conduceți la următorul cluster și parcați pentru restul zilei.",
+            "en": "Drive to the next cluster and park for the rest of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Sisak",
+            "hu": "Sisaki vár",
+            "ro": "Cetatea Sisak",
+            "en": "Sisak Fortress"
+          },
+          "coords": [
+            16.4,
+            45.475
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich viel Zeit, um die Mauern, Türme und die Ausstellung im Inneren zu erkunden.",
+            "hu": "Szánjon bőven időt a falak, tornyok és a belső kiállítás felfedezésére.",
+            "ro": "Acordați-vă timp suficient pentru a explora zidurile, turnurile și expoziția din interior.",
+            "en": "Take plenty of time to explore the walls, towers, and the exhibition inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Spaziergang am Zusammenfluss",
+            "hu": "Ebéd és séta az összefolyásnál",
+            "ro": "Prânz și plimbare la confluență",
+            "en": "Lunch and walk at the confluence"
+          },
+          "coords": [
+            16.4015,
+            45.473
+          ],
+          "category": "gastro",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie eine Mahlzeit mit Blick darauf, wie die Kupa in die Sava mündet.",
+            "hu": "Élvezze az ebédet, miközben azt nézi, ahogy a Kupa a Szávába ömlik.",
+            "ro": "Savurați o masă cu vedere la locul unde Kupa se varsă în Sava.",
+            "en": "Enjoy a meal with a view of where the Kupa flows into the Sava."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Sisak in zwei bequemen Clustern. Sie parken zunächst im Zentrum und entdecken am Vormittag zu Fuß die historischen Plätze und die Kathedrale. Ein kurzer Spaziergang führt Sie zur Alten Brücke für einen Fotostopp. Danach fahren Sie zur Festung Sisak, dem zweiten Cluster des Tages. Hier verbringen Sie den Nachmittag mit der Erkundung der imposanten Anlage und genießen ein spätes Mittagessen am Zusammenfluss der Flüsse Kupa und Sava. Diese Methode kombiniert die Flexibilität des Autos mit dem intensiven Erleben der Sehenswürdigkeiten zu Fuß.",
+        "hu": "Autóval két kényelmes klaszterben fedezheti fel Sisakot. Először a központban parkol, és délelőtt gyalogosan fedezi fel a történelmi tereket és a székesegyházat. Egy rövid séta elvezeti az Öreg hídhoz egy fotómegálló erejéig. Ezután a sisaki várhoz hajt, a nap második klaszteréhez. Itt tölti a délutánt a lenyűgöző komplexum felfedezésével, és egy késői ebédet fogyaszt a Kupa és a Száva folyók összefolyásánál. Ez a módszer ötvözi az autó rugalmasságát a látnivalók gyalogos, intenzív élményével.",
+        "ro": "Cu mașina, explorați Sisak în două clustere convenabile. Mai întâi parcați în centru și explorați piețele istorice și catedrala pe jos dimineața. O scurtă plimbare vă duce la Podul Vechi pentru o oprire foto. Apoi, conduceți la Cetatea Sisak, al doilea cluster al zilei. Aici petreceți după-amiaza explorând complexul impunător și savurând un prânz târziu la confluența râurilor Kupa și Sava. Această metodă combină flexibilitatea mașinii cu experiența intensă a vizitării obiectivelor turistice pe jos.",
+        "en": "By car, you'll explore Sisak in two convenient clusters. You'll first park in the center and discover the historic squares and cathedral on foot in the morning. A short walk takes you to the Old Bridge for a photo stop. Afterwards, you'll drive to Sisak Fortress, the second cluster of the day. Here you'll spend the afternoon exploring the imposing complex and enjoying a late lunch at the confluence of the Kupa and Sava rivers. This method combines the flexibility of the car with the immersive experience of sightseeing on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Grillteller",
+            "tip": "Einige Restaurants in der Nähe der Festung sind auf herzhafte Grillgerichte spezialisiert."
+          },
+          {
+            "name": "Kremšnita",
+            "tip": "Ein klassischer kroatischer Cremeschnitt als Dessert."
+          },
+          {
+            "name": "Lokaler Wein",
+            "tip": "Probieren Sie einen Wein aus der nahegelegenen Region Moslavina."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grilltál",
+            "tip": "A vár közelében néhány étterem kiadós grillételekre specializálódott."
+          },
+          {
+            "name": "Krémes (Kremšnita)",
+            "tip": "Klasszikus horvát krémes desszertként."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "Kóstoljon meg egy bort a közeli Moslavina régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platou la grătar",
+            "tip": "Unele restaurante de lângă cetate sunt specializate în preparate consistente la grătar."
+          },
+          {
+            "name": "Cremșnit (Kremšnita)",
+            "tip": "Un desert clasic croat cu cremă."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Încercați un vin din regiunea învecinată Moslavina."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mixed Grill Platter",
+            "tip": "Some restaurants near the fortress specialize in hearty grilled dishes."
+          },
+          {
+            "name": "Kremšnita",
+            "tip": "A classic Croatian cream slice for dessert."
+          },
+          {
+            "name": "Local Wine",
+            "tip": "Try a wine from the nearby Moslavina region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Zusammenfluss von Kupa und Sava",
+            "tip": "Ein mächtiger und doch friedlicher Ort, um die Natur zu beobachten.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Festungsgarten",
+            "tip": "Finden Sie einen ruhigen Platz innerhalb der Festungsmauern.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Früher Morgen am Fluss",
+            "tip": "Bevor die Stadt erwacht, ist das Ufer besonders ruhig.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Kupa és a Száva összefolyása",
+            "tip": "Hatalmas, mégis békés hely a természet megfigyelésére.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Várkert",
+            "tip": "Találjon egy csendes helyet a vár falain belül.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kora reggel a folyóparton",
+            "tip": "Mielőtt a város felébred, a part különösen csendes.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Confluența Kupa și Sava",
+            "tip": "Un loc puternic, dar pașnic, pentru a observa natura.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Grădina cetății",
+            "tip": "Găsiți un loc liniștit în interiorul zidurilor cetății.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Dimineața devreme pe râu",
+            "tip": "Înainte ca orașul să se trezească, malul este deosebit de liniștit.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Confluence of Kupa and Sava",
+            "tip": "A powerful yet peaceful place to observe nature.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Fortress Garden",
+            "tip": "Find a quiet spot within the fortress walls.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Early Morning on the River",
+            "tip": "Before the city wakes up, the riverbank is especially calm.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs an der Festung",
+            "tip": "Ein kleiner Laden verkauft thematische Andenken an die berühmte Schlacht."
+          },
+          {
+            "name": "Galerie im Stadtzentrum",
+            "tip": "Kaufen Sie ein Kunstwerk von einem lokalen Künstler."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándéktárgyak a várnál",
+            "tip": "Egy kis bolt a híres csatára emlékeztető tematikus ajándéktárgyakat árul."
+          },
+          {
+            "name": "Galéria a városközpontban",
+            "tip": "Vásároljon egy helyi művész alkotását."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri la cetate",
+            "tip": "Un mic magazin vinde suveniruri tematice legate de faimoasa bătălie."
+          },
+          {
+            "name": "Galerie în centrul orașului",
+            "tip": "Cumpărați o operă de artă de la un artist local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fortress Souvenirs",
+            "tip": "A small shop sells thematic souvenirs related to the famous battle."
+          },
+          {
+            "name": "Gallery in the City Center",
+            "tip": "Buy a piece of art from a local artist."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Parkgebühren im Voraus.",
+          "Lassen Sie keine Wertsachen im Auto.",
+          "Die Fahrt zwischen den Clustern ist kurz, aber planen Sie Zeit für den Verkehr ein.",
+          "Die Cluster-Walking-Methode ist ideal für Familien mit Kindern."
+        ],
+        "hu": [
+          "Előre tájékozódjon a parkolási díjakról.",
+          "Ne hagyjon értéktárgyakat az autóban.",
+          "A klaszterek közötti út rövid, de tervezzen időt a forgalomra.",
+          "A klaszter-séta módszer ideális gyermekes családok számára."
+        ],
+        "ro": [
+          "Verificați taxele de parcare în avans.",
+          "Nu lăsați obiecte de valoare în mașină.",
+          "Drumul între clustere este scurt, dar planificați timp pentru trafic.",
+          "Metoda de plimbare în clustere este ideală pentru familiile cu copii."
+        ],
+        "en": [
+          "Check parking fees in advance.",
+          "Do not leave valuables in the car.",
+          "The drive between clusters is short, but plan for traffic.",
+          "The cluster-walking method is ideal for families with children."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Ankunft im Zentrum",
+            "hu": "A. Klaszter: Érkezés a központba",
+            "ro": "Cluster A: Sosire în centru",
+            "en": "Cluster A: Arrival in the Center"
+          },
+          "coords": [
+            16.372,
+            45.4875
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an einer zentralen Bushaltestelle in der Nähe der Kathedrale.",
+            "hu": "Kezdje a napot egy központi buszmegállóban a székesegyház közelében.",
+            "ro": "Începeți ziua la o stație de autobuz centrală, lângă catedrală.",
+            "en": "Start your day at a central bus stop near the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale und Mali Kaptol",
+            "hu": "Székesegyház és Kis Káptalan",
+            "ro": "Catedrala și Micul Capitoliu",
+            "en": "Cathedral and Little Kaptol"
+          },
+          "coords": [
+            16.3735,
+            45.4855
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:16",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie das religiöse und soziale Herz der Stadt zu Fuß.",
+            "hu": "Fedezze fel gyalog a város vallási és társadalmi szívét.",
+            "ro": "Descoperiți pe jos inima religioasă și socială a orașului.",
+            "en": "Discover the religious and social heart of the city on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Sisak",
+            "hu": "Sisaki Városi Múzeum",
+            "ro": "Muzeul Orașului Sisak",
+            "en": "Sisak City Museum"
+          },
+          "coords": [
+            16.376,
+            45.484
+          ],
+          "category": "museums",
+          "arrive_at": "10:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die Innenstadt führt Sie zu diesem wichtigen Museum.",
+            "hu": "Egy rövid séta a belvároson keresztül elvezeti ehhez a fontos múzeumhoz.",
+            "ro": "O scurtă plimbare prin centrul orașului vă duce la acest muzeu important.",
+            "en": "A short walk through the city center takes you to this important museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Ankunft am Fluss",
+            "hu": "B. Klaszter: Érkezés a folyóparthoz",
+            "ro": "Cluster B: Sosire la râu",
+            "en": "Cluster B: Arrival at the River"
+          },
+          "coords": [
+            16.379,
+            45.482
+          ],
+          "category": "transport",
+          "arrive_at": "12:14",
+          "stay_min": 0,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Flussufer, um den zweiten Teil der Stadt zu erkunden.",
+            "hu": "Menjen busszal a folyóparthoz, hogy felfedezze a város második részét.",
+            "ro": "Luați un autobuz până pe malul râului pentru a explora a doua parte a orașului.",
+            "en": "Take a bus to the riverbank to explore the second part of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Holländisches Haus & Mittagessen",
+            "hu": "Holland ház és ebéd",
+            "ro": "Casa Olandeză și prânz",
+            "en": "Dutch House & Lunch"
+          },
+          "coords": [
+            16.38,
+            45.4815
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:18",
+          "stay_min": 120,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach der Besichtigung können Sie in einem der nahegelegenen Restaurants zu Mittag essen.",
+            "hu": "A látogatás után ebédeljen a közeli éttermek egyikében.",
+            "ro": "După vizită, puteți lua prânzul la unul dintre restaurantele din apropiere.",
+            "en": "After the visit, you can have lunch at one of the nearby restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zur Festung",
+            "hu": "Séta a várhoz",
+            "ro": "Plimbare la cetate",
+            "en": "Walk to the Fortress"
+          },
+          "coords": [
+            16.4,
+            45.475
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang am Flussufer entlang führt Sie direkt zur Festung.",
+            "hu": "Egy kellemes séta a folyóparton egyenesen a várhoz vezet.",
+            "ro": "O plimbare frumoasă de-a lungul malului râului vă duce direct la cetate.",
+            "en": "A beautiful walk along the riverbank leads you directly to the fortress."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln erleben Sie Sisak wie ein Einheimischer. Ihr Tag beginnt im Stadtzentrum, wo Sie die Kathedrale und die umliegenden Plätze zu Fuß erkunden. Am Vormittag besuchen Sie das Stadtmuseum, bevor Sie mit dem Bus zum Flussufer fahren. Nach dem Mittagessen in einem Restaurant am Wasser führt Sie ein entspannter Spaziergang entlang der Kupa zur historischen Festung. Diese Tour zeigt Ihnen, wie einfach es ist, die Hauptattraktionen der Stadt mit einer Kombination aus Bus und Spaziergang zu verbinden.",
+        "hu": "A tömegközlekedéssel úgy élheti át Sisakot, mint egy helyi. A nap a városközpontban kezdődik, ahol gyalogosan fedezi fel a székesegyházat és a környező tereket. Délelőtt ellátogat a városi múzeumba, mielőtt busszal a folyóparthoz utazna. Egy vízparti étteremben elköltött ebéd után egy laza séta a Kupa mentén a történelmi várhoz vezet. Ez a túra megmutatja, milyen egyszerű összekötni a város főbb látnivalóit busszal és sétával.",
+        "ro": "Cu transportul public, veți experimenta Sisak ca un localnic. Ziua dvs. începe în centrul orașului, unde explorați pe jos catedrala și piețele înconjurătoare. Dimineața vizitați muzeul orașului înainte de a lua un autobuz spre malul râului. După prânzul la un restaurant de pe malul apei, o plimbare relaxantă de-a lungul râului Kupa vă duce la cetatea istorică. Acest tur vă arată cât de ușor este să conectați principalele atracții ale orașului folosind o combinație de autobuz și mers pe jos.",
+        "en": "Using public transport, you'll experience Sisak like a local. Your day begins in the city center, where you'll explore the cathedral and surrounding squares on foot. In the morning, you'll visit the city museum before taking a bus to the riverbank. After lunch at a waterfront restaurant, a relaxing walk along the Kupa leads you to the historic fortress. This tour shows you how easy it is to connect the city's main attractions using a combination of bus and walking."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckereien",
+            "tip": "Probieren Sie 'Burek' oder andere lokale Gebäcke für einen schnellen Imbiss."
+          },
+          {
+            "name": "Eisdielen",
+            "tip": "Gönnen Sie sich an einem warmen Tag ein Eis am Flussufer."
+          },
+          {
+            "name": "Kaffee und Kuchen",
+            "tip": "Die Cafés im Zentrum sind perfekt für eine Pause am Nachmittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékségek",
+            "tip": "Kóstolja meg a 'Bureket' vagy más helyi péksüteményeket egy gyors harapnivalóért."
+          },
+          {
+            "name": "Fagylaltozók",
+            "tip": "Kényeztesse magát egy fagyival a folyóparton egy meleg napon."
+          },
+          {
+            "name": "Kávé és sütemény",
+            "tip": "A központi kávézók tökéletesek egy délutáni szünetre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Patiserii",
+            "tip": "Încercați 'Burek' sau alte produse de patiserie locale pentru o gustare rapidă."
+          },
+          {
+            "name": "Gelaterii",
+            "tip": "Răsfățați-vă cu o înghețată pe malul râului într-o zi caldă."
+          },
+          {
+            "name": "Cafea și prăjituri",
+            "tip": "Cafenelele din centru sunt perfecte pentru o pauză de după-amiază."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakeries",
+            "tip": "Try 'Burek' or other local pastries for a quick snack."
+          },
+          {
+            "name": "Ice Cream Parlors",
+            "tip": "Treat yourself to an ice cream on the riverbank on a warm day."
+          },
+          {
+            "name": "Coffee and Cake",
+            "tip": "The cafes in the center are perfect for an afternoon break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfenster-Aussicht",
+            "tip": "Beobachten Sie das Stadtleben aus einer anderen Perspektive.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Spazierweg am Fluss",
+            "tip": "Der Weg zur Festung ist ein friedlicher Abschnitt abseits des Verkehrs.",
+            "emoji": "🚶"
+          },
+          {
+            "name": "Kirchhof",
+            "tip": "Der Bereich um die Kathedrale ist oft eine Oase der Ruhe.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a busz ablakából",
+            "tip": "Figyelje a városi életet egy másik perspektívából.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Sétány a folyóparton",
+            "tip": "A várhoz vezető út egy békés szakasz, távol a forgalomtól.",
+            "emoji": "🚶"
+          },
+          {
+            "name": "Templomkert",
+            "tip": "A székesegyház körüli terület gyakran a béke oázisa.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la geamul autobuzului",
+            "tip": "Observați viața orașului dintr-o altă perspectivă.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Aleea de pe malul râului",
+            "tip": "Calea spre cetate este o porțiune pașnică, departe de trafic.",
+            "emoji": "🚶"
+          },
+          {
+            "name": "Curtea bisericii",
+            "tip": "Zona din jurul catedralei este adesea o oază de liniște.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus Window View",
+            "tip": "Observe the city life from a different perspective.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "River Walkway",
+            "tip": "The path to the fortress is a peaceful stretch away from traffic.",
+            "emoji": "🚶"
+          },
+          {
+            "name": "Churchyard",
+            "tip": "The area around the cathedral is often an oasis of calm.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk",
+            "tip": "Kaufen Sie Ihre Bustickets und vielleicht eine kroatische Zeitung."
+          },
+          {
+            "name": "Markt in der Nähe einer Haltestelle",
+            "tip": "Viele Märkte sind gut mit öffentlichen Verkehrsmitteln erreichbar."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk",
+            "tip": "Vásárolja meg a buszjegyét, és talán egy horvát újságot is."
+          },
+          {
+            "name": "Piac egy megálló közelében",
+            "tip": "Sok piac könnyen megközelíthető tömegközlekedéssel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc",
+            "tip": "Cumpărați biletele de autobuz și poate un ziar croat."
+          },
+          {
+            "name": "Piață lângă o stație",
+            "tip": "Multe piețe sunt ușor accesibile cu transportul public."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk",
+            "tip": "Buy your bus tickets and maybe a Croatian newspaper."
+          },
+          {
+            "name": "Market near a bus stop",
+            "tip": "Many markets are easily accessible by public transport."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Haben Sie etwas Kleingeld für Tickets dabei.",
+          "Die Busfahrpläne finden Sie online oder an den Haltestellen.",
+          "Seien Sie bereit, zwischen den Bushaltestellen und den Sehenswürdigkeiten ein Stück zu laufen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy pénzt takarítson meg.",
+          "Legyen Önnél aprópénz a jegyekhez.",
+          "A buszmenetrendeket online vagy a megállókban találja.",
+          "Készüljön fel arra, hogy a buszmegállók és a látnivalók között sétálnia kell."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru a economisi bani.",
+          "Aveți la îndemână mărunțiș pentru bilete.",
+          "Orarele autobuzelor pot fi găsite online sau în stații.",
+          "Fiți pregătiți să mergeți pe jos între stațiile de autobuz și obiectivele turistice."
+        ],
+        "en": [
+          "Buy a day ticket for the bus to save money.",
+          "Have some small change ready for tickets.",
+          "Bus schedules can be found online or at the stops.",
+          "Be prepared to walk a bit between bus stops and the sights."
+        ]
+      }
+    }
+  }
+}

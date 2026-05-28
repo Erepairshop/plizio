@@ -1,0 +1,1318 @@
+{
+  "city_id": "uk-inverness-cities-v2",
+  "anchor": {
+    "name": "Inverness",
+    "coords": [
+      -4.2247,
+      57.4778
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Inverness Castle",
+            "hu": "Inverness-i kastély",
+            "ro": "Castelul Inverness",
+            "en": "Inverness Castle"
+          },
+          "coords": [
+            -4.223,
+            57.476
+          ],
+          "category": "castles",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht auf den Fluss Ness vom Schlosshügel aus.",
+            "hu": "Élvezze a Ness folyóra nyíló kilátást a várdombról.",
+            "ro": "Admirați priveliștea râului Ness de pe dealul castelului.",
+            "en": "Enjoy the view over the River Ness from the castle hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Inverness Museum und Kunstgalerie",
+            "hu": "Inverness Múzeum és Művészeti Galéria",
+            "ro": "Muzeul și Galeria de Artă Inverness",
+            "en": "Inverness Museum and Art Gallery"
+          },
+          "coords": [
+            -4.225,
+            57.4765
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die piktische Geschichte und die jakobitischen Aufstände.",
+            "hu": "Ismerje meg a piktek történelmét és a jakobita felkeléseket.",
+            "ro": "Descoperiți istoria pictă și rebeliunile iacobite.",
+            "en": "Discover Pictish history and the Jacobite risings."
+          }
+        },
+        {
+          "name": {
+            "de": "Viktorianischer Markt",
+            "hu": "Viktoriánus piac",
+            "ro": "Piața Victoriană",
+            "en": "Victorian Market"
+          },
+          "coords": [
+            -4.226,
+            57.478
+          ],
+          "category": "historical",
+          "arrive_at": "12:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suchen Sie nach einzigartigen Souvenirs und lokalen Handwerksprodukten.",
+            "hu": "Keressen egyedi ajándéktárgyakat és helyi kézműves termékeket.",
+            "ro": "Căutați suveniruri unice și produse de artizanat local.",
+            "en": "Look for unique souvenirs and local crafts."
+          }
+        },
+        {
+          "name": {
+            "de": "Inverness Cathedral",
+            "hu": "Inverness-i székesegyház",
+            "ro": "Catedrala din Inverness",
+            "en": "Inverness Cathedral"
+          },
+          "coords": [
+            -4.232,
+            57.475
+          ],
+          "category": "cathedrals",
+          "arrive_at": "13:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Buntglasfenster und die beeindruckende Architektur.",
+            "hu": "Csodálja meg az ólomüveg ablakokat és a lenyűgöző építészetet.",
+            "ro": "Admirați vitraliile și arhitectura impresionantă.",
+            "en": "Admire the stained glass windows and the impressive architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Ness-Inseln",
+            "hu": "Ness-szigetek",
+            "ro": "Insulele Ness",
+            "en": "Ness Islands"
+          },
+          "coords": [
+            -4.239,
+            57.468
+          ],
+          "category": "natural features",
+          "arrive_at": "15:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für einen ruhigen Spaziergang inmitten der Natur.",
+            "hu": "Tökéletes hely egy csendes sétához a természet lágy ölén.",
+            "ro": "Un loc perfect pentru o plimbare liniștită în mijlocul naturii.",
+            "en": "A perfect spot for a peaceful walk surrounded by nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Fluss Ness",
+            "hu": "Séta a Ness folyó partján",
+            "ro": "Plimbare pe malul râului Ness",
+            "en": "River Ness Walk"
+          },
+          "coords": [
+            -4.228,
+            57.479
+          ],
+          "category": "natural features",
+          "arrive_at": "16:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem entspannenden Spaziergang entlang des Flusses.",
+            "hu": "Zárja a napot egy pihentető sétával a folyó mentén.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă de-a lungul râului.",
+            "en": "End your day with a relaxing stroll along the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am Inverness Castle und genießen Sie die Aussicht. Erkunden Sie anschließend die lokale Geschichte im Museum und stöbern Sie auf dem Viktorianischen Markt. Nach dem Mittagessen überqueren Sie den Fluss zur Kathedrale und entfliehen der Hektik auf den ruhigen Ness-Inseln. Beenden Sie Ihren Tag mit einem malerischen Spaziergang entlang des Flusses Ness bei Sonnenuntergang.",
+        "hu": "Kezdje a napot az Inverness-i kastélynál, gyönyörködve a kilátásban. Ezután fedezze fel a helyi történelmet a múzeumban és böngésszen a Viktoriánus piacon. Ebéd után keljen át a folyón a székesegyházhoz, majd meneküljön el a nyüzsgésből a békés Ness-szigetekre. Zárja a napot egy festői sétával a Ness folyó mentén naplementekor.",
+        "ro": "Începeți ziua la Castelul Inverness, admirând priveliștea. Apoi, explorați istoria locală la muzeu și răsfoiți Piața Victoriană. După prânz, traversați râul spre Catedrală și evadați din agitație pe liniștitele Insule Ness. Încheiați ziua cu o plimbare pitorească de-a lungul râului Ness la apus.",
+        "en": "Start your day at Inverness Castle, taking in the views. Then, explore local history at the museum and browse the Victorian Market. After lunch, cross the river to the Cathedral and escape the bustle on the peaceful Ness Islands. Finish your day with a scenic walk along the River Ness as the sun sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Haggis, Neeps and Tatties",
+            "tip": "Probieren Sie das schottische Nationalgericht in einem traditionellen Pub."
+          },
+          {
+            "name": "Cullen Skink",
+            "tip": "Eine cremige, geräucherte Schellfischsuppe, perfekt für einen kühlen Tag."
+          },
+          {
+            "name": "Frischer Lachs",
+            "tip": "Genießen Sie lokal gefangenen Lachs, gegrillt oder geräuchert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Haggis, neeps és tatties",
+            "tip": "Kóstolja meg a skót nemzeti ételt egy hagyományos pubban."
+          },
+          {
+            "name": "Cullen Skink",
+            "tip": "Krémes, füstölt tőkehal leves, tökéletes egy hűvös napra."
+          },
+          {
+            "name": "Friss lazac",
+            "tip": "Élvezze a helyben fogott, grillezett vagy füstölt lazacot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Haggis, Neeps and Tatties",
+            "tip": "Încercați mâncarea națională scoțiană într-un pub tradițional."
+          },
+          {
+            "name": "Cullen Skink",
+            "tip": "O supă cremoasă de eglefin afumat, perfectă pentru o zi răcoroasă."
+          },
+          {
+            "name": "Somon proaspăt",
+            "tip": "Savurați somon prins local, la grătar sau afumat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Haggis, Neeps and Tatties",
+            "tip": "Try the Scottish national dish in a traditional pub."
+          },
+          {
+            "name": "Cullen Skink",
+            "tip": "A creamy smoked haddock soup, perfect for a cool day."
+          },
+          {
+            "name": "Fresh Salmon",
+            "tip": "Enjoy locally caught salmon, grilled or smoked."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ness-Inseln",
+            "tip": "Überqueren Sie die viktorianischen Hängebrücken und finden Sie eine ruhige Bank.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spaziergang am Fluss Ness",
+            "tip": "Ein friedlicher Spaziergang zu jeder Tageszeit, besonders am frühen Morgen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Inverness Cathedral",
+            "tip": "Finden Sie einen Moment der Stille in diesem architektonischen Juwel.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ness-szigetek",
+            "tip": "Keljen át a viktoriánus függőhidakon és találjon egy csendes padot.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Séta a Ness folyó partján",
+            "tip": "Békés séta a nap bármely szakában, különösen kora reggel.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Inverness-i székesegyház",
+            "tip": "Találjon egy csendes pillanatot ebben az építészeti gyöngyszemben.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Insulele Ness",
+            "tip": "Traversați podurile suspendate victoriene și găsiți o bancă liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plimbare pe malul râului Ness",
+            "tip": "O plimbare pașnică în orice moment al zilei, mai ales dimineața devreme.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Catedrala din Inverness",
+            "tip": "Găsiți un moment de liniște în această bijuterie arhitecturală.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ness Islands",
+            "tip": "Cross the Victorian suspension bridges and find a quiet bench.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "River Ness Walk",
+            "tip": "A peaceful walk at any time of day, especially early morning.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Inverness Cathedral",
+            "tip": "Find a moment of quiet contemplation inside this architectural gem.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Viktorianischer Markt",
+            "tip": "Eine charmante Markthalle mit unabhängigen Geschäften."
+          },
+          {
+            "name": "Leakey's Bookshop",
+            "tip": "Ein riesiger Second-Hand-Buchladen in einer alten Kirche."
+          },
+          {
+            "name": "Kiltmacher",
+            "tip": "Investieren Sie in authentische schottische Kleidung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Viktoriánus piac",
+            "tip": "Bájos vásárcsarnok független boltokkal."
+          },
+          {
+            "name": "Leakey's könyvesbolt",
+            "tip": "Hatalmas használtkönyv-bolt egy régi templomban."
+          },
+          {
+            "name": "Kiltkészítők",
+            "tip": "Fektessen be egy autentikus skót viseletbe."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Victoriană",
+            "tip": "O hală de piață fermecătoare cu magazine independente."
+          },
+          {
+            "name": "Librăria Leakey's",
+            "tip": "Un anticariat imens într-o biserică veche."
+          },
+          {
+            "name": "Producători de kilturi",
+            "tip": "Investiți într-un articol de îmbrăcăminte scoțian autentic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Victorian Market",
+            "tip": "A charming indoor market with independent shops."
+          },
+          {
+            "name": "Leakey's Bookshop",
+            "tip": "A huge second-hand bookshop set in an old church."
+          },
+          {
+            "name": "Kiltmakers",
+            "tip": "Invest in some authentic Scottish attire."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Eine wasserdichte Jacke ist immer eine gute Idee in Schottland.",
+          "Buchen Sie Restaurants im Voraus, besonders an Wochenenden.",
+          "Halten Sie Ausschau nach Delfinen im Moray Firth, wenn Sie in der Nähe des Hafens sind."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog sétálni.",
+          "Egy vízálló dzseki mindig jó ötlet Skóciában.",
+          "Foglaljon éttermet előre, különösen hétvégén.",
+          "Figyelje a delfineket a Moray Firth-ben, ha a kikötő közelében jár."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "O geacă impermeabilă este întotdeauna o idee bună în Scoția.",
+          "Rezervați restaurantele în avans, mai ales în weekenduri.",
+          "Fiți atenți la delfini în estuarul Moray Firth dacă vă aflați în apropierea portului."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "A waterproof jacket is always a good idea in Scotland.",
+          "Book restaurants in advance, especially on weekends.",
+          "Look out for dolphins in the Moray Firth if you're near the harbour."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Radtour entlang des Flusses Ness",
+            "hu": "Kerékpártúra a Ness folyó mentén",
+            "ro": "Tur cu bicicleta de-a lungul râului Ness",
+            "en": "Cycle along the River Ness"
+          },
+          "coords": [
+            -4.232,
+            57.475
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einer erfrischenden Fahrt entlang des Flusses.",
+            "hu": "Kezdje a napot egy frissítő tekeréssel a folyó mentén.",
+            "ro": "Începeți ziua cu o plimbare revigorantă cu bicicleta de-a lungul râului.",
+            "en": "Start the day with a refreshing ride along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Ness-Inseln",
+            "hu": "Ness-szigetek",
+            "ro": "Insulele Ness",
+            "en": "Ness Islands"
+          },
+          "coords": [
+            -4.239,
+            57.468
+          ],
+          "category": "natural features",
+          "arrive_at": "09:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Rad über die Brücken und erkunden Sie die bewaldeten Pfade.",
+            "hu": "Kerékpározzon át a hidakon, és fedezze fel az erdős ösvényeket.",
+            "ro": "Traversați podurile cu bicicleta și explorați potecile împădurite.",
+            "en": "Cycle across the bridges and explore the wooded paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Whin Park",
+            "hu": "Whin Park",
+            "ro": "Parcul Whin",
+            "en": "Whin Park"
+          },
+          "coords": [
+            -4.245,
+            57.465
+          ],
+          "category": "parks",
+          "arrive_at": "11:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für eine Pause, mit einem Teich und einer Miniatureisenbahn.",
+            "hu": "Remek hely egy kis pihenésre, tóval és miniatűr vasúttal.",
+            "ro": "Un loc minunat pentru o pauză, cu un iaz și un tren în miniatură.",
+            "en": "A great place for a break, with a pond and a miniature railway."
+          }
+        },
+        {
+          "name": {
+            "de": "Inverness Cathedral",
+            "hu": "Inverness-i székesegyház",
+            "ro": "Catedrala din Inverness",
+            "en": "Inverness Cathedral"
+          },
+          "coords": [
+            -4.232,
+            57.475
+          ],
+          "category": "cathedrals",
+          "arrive_at": "12:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und bewundern Sie dieses architektonische Meisterwerk.",
+            "hu": "Tegye le a biciklit, és csodálja meg ezt az építészeti remekművet.",
+            "ro": "Parcați bicicleta și admirați această capodoperă arhitecturală.",
+            "en": "Park your bike and admire this architectural masterpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Inverness Castle",
+            "hu": "Inverness-i kastély",
+            "ro": "Castelul Inverness",
+            "en": "Inverness Castle"
+          },
+          "coords": [
+            -4.223,
+            57.476
+          ],
+          "category": "castles",
+          "arrive_at": "14:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie den Hügel hinauf für eine großartige Aussicht, es lohnt sich!",
+            "hu": "Tekerjen fel a dombra a nagyszerű kilátásért, megéri!",
+            "ro": "Urcați dealul cu bicicleta pentru o priveliște minunată, merită efortul!",
+            "en": "Cycle up the hill for a great view, it's worth the effort!"
+          }
+        },
+        {
+          "name": {
+            "de": "Viktorianischer Markt",
+            "hu": "Viktoriánus piac",
+            "ro": "Piața Victoriană",
+            "en": "Victorian Market"
+          },
+          "coords": [
+            -4.226,
+            57.478
+          ],
+          "arrive_at": "15:30",
+          "category": "shopping",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad draußen an und erkunden Sie die Geschäfte im Inneren.",
+            "hu": "Zárja le a kerékpárt kint, és fedezze fel a benti üzleteket.",
+            "ro": "Legați bicicleta afară și explorați magazinele din interior.",
+            "en": "Lock your bike outside and explore the shops within."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour entlang des Flusses Ness und erkunden Sie die grünen Ness-Inseln. Machen Sie eine Pause im Whin Park, bevor Sie ins Stadtzentrum zurückkehren. Besuchen Sie die beeindruckende Kathedrale und radeln Sie dann zum Inverness Castle hinauf. Beenden Sie Ihre Tour mit einem Einkaufsbummel auf dem historischen Viktorianischen Markt.",
+        "hu": "Indítsa a kerékpártúrát a Ness folyó mentén, felfedezve a zöldellő Ness-szigeteket. Tartson egy szünetet a Whin Parkban, mielőtt visszatér a városközpontba. Látogassa meg a lenyűgöző székesegyházat, majd tekerjen fel az Inverness-i kastélyhoz. Zárja a túrát egy kis vásárlással a történelmi Viktoriánus piacon.",
+        "ro": "Începeți turul cu bicicleta de-a lungul râului Ness, explorând înverzitele Insule Ness. Faceți o pauză în Parcul Whin înainte de a vă întoarce în centrul orașului. Vizitați impresionanta catedrală, apoi urcați cu bicicleta la Castelul Inverness. Încheiați turul cu o sesiune de cumpărături în istorica Piață Victoriană.",
+        "en": "Start your cycling tour along the River Ness, exploring the green Ness Islands. Take a break in Whin Park before heading back to the city centre. Visit the impressive cathedral, then cycle up to Inverness Castle. End your tour with some shopping at the historic Victorian Market."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Ein klassisches britisches Gericht, das man am Flussufer genießen kann."
+          },
+          {
+            "name": "Cranachan",
+            "tip": "Ein köstliches schottisches Dessert aus Hafer, Sahne, Whisky und Himbeeren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Klasszikus brit fogás, amelyet a folyóparton érdemes elfogyasztani."
+          },
+          {
+            "name": "Cranachan",
+            "tip": "Finom skót desszert zabból, tejszínből, whiskyből és málnából."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Un fel de mâncare britanic clasic, de savurat pe malul râului."
+          },
+          {
+            "name": "Cranachan",
+            "tip": "Un desert scoțian delicios făcut din ovăz, frișcă, whisky și zmeură."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish and Chips",
+            "tip": "A classic British takeaway to enjoy by the riverside."
+          },
+          {
+            "name": "Cranachan",
+            "tip": "A delicious Scottish dessert made with oats, cream, whisky and raspberries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Whin Park",
+            "tip": "Finden Sie einen ruhigen Platz am Teich.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Caledonian Canal",
+            "tip": "Machen Sie einen kleinen Abstecher, um die Schleusen in Aktion zu sehen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Whin Park",
+            "tip": "Találjon egy csendes helyet a tó partján.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kaledóniai-csatorna",
+            "tip": "Tegyen egy kis kitérőt, hogy megnézze a zsilipeket működés közben.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Whin",
+            "tip": "Găsiți un loc liniștit lângă iaz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Canalul Caledonian",
+            "tip": "Faceți un mic ocol pentru a vedea ecluzele în acțiune.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Whin Park",
+            "tip": "Find a quiet spot by the boating pond.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Caledonian Canal",
+            "tip": "Take a short detour to see the locks in action.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "In der Stadt gibt es mehrere Geschäfte für eventuelle Reparaturen oder Zubehör."
+          },
+          {
+            "name": "Outdoor-Bekleidung",
+            "tip": "Rüsten Sie sich für das schottische Wetter aus."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "A városban több bolt is található esetleges javításokhoz vagy kiegészítőkhöz."
+          },
+          {
+            "name": "Outdoor ruházat",
+            "tip": "Szerelkezzen fel a skót időjárásra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Există mai multe magazine în oraș pentru eventuale reparații sau accesorii."
+          },
+          {
+            "name": "Îmbrăcăminte outdoor",
+            "tip": "Echipați-vă pentru vremea scoțiană."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shops",
+            "tip": "There are several shops in town for any repairs or accessories."
+          },
+          {
+            "name": "Outdoor clothing",
+            "tip": "Get kitted out for the Scottish weather."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihre Reifen, bevor Sie losfahren.",
+          "Seien Sie auf Hügel vorbereitet, besonders in der Nähe des Schlosses.",
+          "Schließen Sie Ihr Fahrrad immer sicher ab.",
+          "Nutzen Sie die Radwege entlang des Flusses und des Kanals."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a gumikat.",
+          "Készüljön fel az emelkedőkre, különösen a kastély környékén.",
+          "Mindig zárja le biztonságosan a kerékpárját.",
+          "Használja a folyó és a csatorna menti kerékpárutakat."
+        ],
+        "ro": [
+          "Verificați-vă anvelopele înainte de a porni.",
+          "Fiți pregătit pentru dealuri, mai ales în apropierea castelului.",
+          "Legați-vă întotdeauna bicicleta în siguranță.",
+          "Folosiți pistele de biciclete de-a lungul râului și canalului."
+        ],
+        "en": [
+          "Check your tyres before you set off.",
+          "Be prepared for hills, especially around the castle area.",
+          "Always lock your bike securely.",
+          "Make use of the cycle paths along the river and canal."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 28.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schlachtfeld von Culloden",
+            "hu": "Cullodeni csatatér",
+            "ro": "Câmpul de luptă de la Culloden",
+            "en": "Culloden Battlefield"
+          },
+          "coords": [
+            -4.093,
+            57.478
+          ],
+          "category": "historical",
+          "arrive_at": "09:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil, um die tragische Geschichte zu verstehen.",
+            "hu": "Vegyen részt egy vezetett túrán, hogy megértse a tragikus történelmet.",
+            "ro": "Participați la un tur ghidat pentru a înțelege povestea tragică.",
+            "en": "Take a guided tour to fully understand the tragic history."
+          }
+        },
+        {
+          "name": {
+            "de": "Clava Cairns",
+            "hu": "Clava Cairns",
+            "ro": "Clava Cairns",
+            "en": "Clava Cairns"
+          },
+          "coords": [
+            -4.075,
+            57.473
+          ],
+          "category": "historical",
+          "arrive_at": "11:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie diese gut erhaltenen prähistorischen Grabstätten.",
+            "hu": "Fedezze fel ezeket a jól megőrzött, történelem előtti temetkezési helyeket.",
+            "ro": "Explorați aceste morminte preistorice bine conservate.",
+            "en": "Explore these well-preserved prehistoric burial cairns."
+          }
+        },
+        {
+          "name": {
+            "de": "Parken im Zentrum & Mittagessen",
+            "hu": "Parkolás és ebéd a központban",
+            "ro": "Parcare și prânz în centru",
+            "en": "Park in Centre & Lunch"
+          },
+          "coords": [
+            -4.228,
+            57.478
+          ],
+          "category": "gastro",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Rose Street Car Park und finden Sie ein nettes Restaurant.",
+            "hu": "Parkoljon a Rose Street parkolóházban, és keressen egy kellemes éttermet.",
+            "ro": "Parcați în parcarea Rose Street și găsiți un restaurant drăguț.",
+            "en": "Park at Rose Street Car Park and find a nice restaurant for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Inverness Castle",
+            "hu": "Inverness-i kastély",
+            "ro": "Castelul Inverness",
+            "en": "Inverness Castle"
+          },
+          "coords": [
+            -4.223,
+            57.476
+          ],
+          "category": "castles",
+          "arrive_at": "14:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht vom Schlosshügel.",
+            "hu": "Élvezze a kilátást a várdombról.",
+            "ro": "Admirați priveliștea de pe dealul castelului.",
+            "en": "Enjoy the view from the castle hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Inverness Cathedral",
+            "hu": "Inverness-i székesegyház",
+            "ro": "Catedrala din Inverness",
+            "en": "Inverness Cathedral"
+          },
+          "coords": [
+            -4.232,
+            57.475
+          ],
+          "category": "cathedrals",
+          "arrive_at": "15:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Schloss über die Brücke.",
+            "hu": "Rövid séta a kastélytól a hídon át.",
+            "ro": "O scurtă plimbare de la castel peste pod.",
+            "en": "A short walk from the castle across the bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Fluss Ness",
+            "hu": "Séta a Ness folyó partján",
+            "ro": "Plimbare pe malul râului Ness",
+            "en": "River Ness Walk"
+          },
+          "coords": [
+            -4.228,
+            57.479
+          ],
+          "category": "natural features",
+          "arrive_at": "16:55",
+          "stay_min": 55,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zu einem Parkplatz am Flussufer für einen letzten Spaziergang.",
+            "hu": "Hajtson le egy folyóparti parkolóba egy utolsó sétára.",
+            "ro": "Conduceți spre o parcare de pe malul râului pentru o plimbare finală.",
+            "en": "Drive to a riverside car park for a final stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer Fahrt zum historischen Schlachtfeld von Culloden. Spazieren Sie anschließend zu den nahegelegenen Clava Cairns. Fahren Sie zurück ins Stadtzentrum von Inverness, parken Sie Ihr Auto und essen Sie zu Mittag. Am Nachmittag erkunden Sie zu Fuß das Inverness Castle und die Kathedrale, bevor Sie für einen entspannenden Spaziergang am Fluss Ness wieder ins Auto steigen.",
+        "hu": "Kezdje a napot egy utazással a történelmi Culloden-i csatatérre. Sétáljon át a közeli Clava Cairns-hez. Hajtson vissza Inverness városközpontjába, parkoljon le és ebédeljen meg. Délután fedezze fel gyalog az Inverness-i kastélyt és a székesegyházat, mielőtt visszaül az autóba egy pihentető sétára a Ness folyó partján.",
+        "ro": "Începeți ziua cu o călătorie cu mașina spre istoricul câmp de luptă de la Culloden. Faceți o plimbare până la Clava Cairns din apropiere. Conduceți înapoi în centrul orașului Inverness, parcați mașina și luați prânzul. După-amiaza, explorați Castelul Inverness și Catedrala pe jos, înainte de a vă întoarce la mașină pentru o plimbare relaxantă pe malul râului Ness.",
+        "en": "Start your day with a drive to the historic Culloden Battlefield. Then take a walk to the nearby Clava Cairns. Drive back to Inverness city centre, park your car, and have lunch. In the afternoon, explore Inverness Castle and the Cathedral on foot, before getting back in the car for a relaxing stroll by the River Ness."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Mustard Seed",
+            "tip": "Ein beliebtes Restaurant in einer umgebauten Kirche am Flussufer."
+          },
+          {
+            "name": "Rocpool Restaurant",
+            "tip": "Moderne schottische Küche mit Blick auf den Fluss Ness."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Mustard Seed",
+            "tip": "Népszerű étterem egy átalakított templomban a folyóparton."
+          },
+          {
+            "name": "Rocpool Restaurant",
+            "tip": "Modern skót konyha, kilátással a Ness folyóra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Mustard Seed",
+            "tip": "Un restaurant popular într-o biserică transformată, pe malul râului."
+          },
+          {
+            "name": "Restaurantul Rocpool",
+            "tip": "Bucătărie scoțiană modernă cu vedere la râul Ness."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Mustard Seed",
+            "tip": "A popular restaurant in a converted church on the riverside."
+          },
+          {
+            "name": "Rocpool Restaurant",
+            "tip": "Modern Scottish cuisine overlooking the River Ness."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Loch Ness",
+            "tip": "Machen Sie einen Abstecher zum berühmten See, nur eine kurze Autofahrt entfernt.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Ord Hill Viewpoint",
+            "tip": "Eine kurze Fahrt für einen Panoramablick auf die Stadt und den Moray Firth.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Loch Ness",
+            "tip": "Tegyen egy kitérőt a híres tóhoz, csak egy rövid autóútra."
+          },
+          {
+            "name": "Ord Hill kilátó",
+            "tip": "Rövid autóút a városra és a Moray Firth-re nyíló panorámás kilátásért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Loch Ness",
+            "tip": "Faceți un ocol spre faimosul lac, la o scurtă distanță cu mașina.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Punctul de belvedere Ord Hill",
+            "tip": "O scurtă călătorie cu mașina pentru o vedere panoramică a orașului și a estuarului Moray Firth.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Loch Ness",
+            "tip": "Take a detour to the famous loch, just a short drive away.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Ord Hill Viewpoint",
+            "tip": "A short drive for a panoramic view of the city and the Moray Firth.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Brodie Countryfare",
+            "tip": "Ein großes Geschäft außerhalb der Stadt mit Kleidung, Geschenken und einem Foodhall."
+          },
+          {
+            "name": "The Singleton Distillery",
+            "tip": "Kaufen Sie eine Flasche Single Malt Whisky direkt von der Quelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brodie Countryfare",
+            "tip": "Nagy üzlet a városon kívül, ruhákkal, ajándékokkal és élelmiszerbolttal."
+          },
+          {
+            "name": "The Singleton lepárló",
+            "tip": "Vásároljon egy üveg single malt whiskyt közvetlenül a forrásból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brodie Countryfare",
+            "tip": "Un magazin mare în afara orașului cu haine, cadouri și o hală alimentară."
+          },
+          {
+            "name": "Distileria Singleton",
+            "tip": "Cumpărați o sticlă de whisky single malt direct de la sursă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brodie Countryfare",
+            "tip": "A large store outside the city with clothes, gifts, and a foodhall."
+          },
+          {
+            "name": "The Singleton Distillery",
+            "tip": "Buy a bottle of single malt whisky straight from the source."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "In der Innenstadt von Inverness kann das Parken teuer sein. Nutzen Sie Park-and-Ride-Optionen.",
+          "Beachten Sie die engen Landstraßen rund um Culloden.",
+          "Planen Sie zusätzliche Zeit für den Verkehr in der Stadt ein.",
+          "Das Fahren auf der linken Seite erfordert Konzentration."
+        ],
+        "hu": [
+          "A parkolás drága lehet Inverness belvárosában; vegye fontolóra a P+R lehetőségeket.",
+          "Legyen óvatos a szűk vidéki utakon Culloden környékén.",
+          "Tervezzen plusz időt a városi forgalomra.",
+          "A bal oldali vezetés koncentrációt igényel."
+        ],
+        "ro": [
+          "Parcarea poate fi scumpă în centrul orașului Inverness; luați în considerare opțiunile de park-and-ride.",
+          "Fiți atenți la drumurile de țară înguste din jurul Culloden.",
+          "Planificați timp suplimentar pentru traficul din oraș.",
+          "Conducerea pe partea stângă necesită concentrare."
+        ],
+        "en": [
+          "Parking can be expensive in Inverness city centre; consider park and ride options.",
+          "Be aware of narrow country lanes around Culloden.",
+          "Allow extra time for traffic in the city.",
+          "Driving on the left requires concentration."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bus ins Stadtzentrum",
+            "hu": "Buszozás a városközpontba",
+            "ro": "Autobuz spre centrul orașului",
+            "en": "Bus to City Centre"
+          },
+          "coords": [
+            -4.227,
+            57.477
+          ],
+          "category": "transit",
+          "arrive_at": "09:20",
+          "stay_min": 10,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen beliebigen Bus zur Busstation Farraline Park.",
+            "hu": "Szálljon fel bármelyik buszra a Farraline Park buszpályaudvar felé.",
+            "ro": "Luați orice autobuz spre autogara Farraline Park.",
+            "en": "Take any bus to Farraline Park Bus Station."
+          }
+        },
+        {
+          "name": {
+            "de": "Inverness Museum und Kunstgalerie",
+            "hu": "Inverness Múzeum és Művészeti Galéria",
+            "ro": "Muzeul și Galeria de Artă Inverness",
+            "en": "Inverness Museum and Art Gallery"
+          },
+          "coords": [
+            -4.225,
+            57.4765
+          ],
+          "category": "museums",
+          "arrive_at": "09:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einer Dosis Kultur.",
+            "hu": "Kezdje a napot egy adag kultúrával.",
+            "ro": "Începeți ziua cu o doză de cultură.",
+            "en": "Start your day with a dose of culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Inverness Castle",
+            "hu": "Inverness-i kastély",
+            "ro": "Castelul Inverness",
+            "en": "Inverness Castle"
+          },
+          "coords": [
+            -4.223,
+            57.476
+          ],
+          "category": "castles",
+          "arrive_at": "11:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang den Hügel hinauf vom Museum.",
+            "hu": "Rövid séta felfelé a dombon a múzeumtól.",
+            "ro": "O scurtă plimbare pe deal de la muzeu.",
+            "en": "A short walk up the hill from the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zu den Ness-Inseln",
+            "hu": "Busszal a Ness-szigetekre",
+            "ro": "Autobuz spre Insulele Ness",
+            "en": "Bus to Ness Islands"
+          },
+          "coords": [
+            -4.239,
+            57.468
+          ],
+          "category": "natural features",
+          "arrive_at": "13:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus der Linie 2 oder 3 und steigen Sie in der Nähe der Inseln aus.",
+            "hu": "Szálljon a 2-es vagy 3-as buszra, és szálljon le a szigetek közelében.",
+            "ro": "Luați un autobuz de pe linia 2 sau 3 și coborâți aproape de insule.",
+            "en": "Take a number 2 or 3 bus and get off near the islands."
+          }
+        },
+        {
+          "name": {
+            "de": "Inverness Cathedral",
+            "hu": "Inverness-i székesegyház",
+            "ro": "Catedrala din Inverness",
+            "en": "Inverness Cathedral"
+          },
+          "coords": [
+            -4.232,
+            57.475
+          ],
+          "category": "cathedrals",
+          "arrive_at": "15:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Auf dem Rückweg ins Zentrum können Sie hier einen Halt einlegen.",
+            "hu": "Útban vissza a központ felé, álljon meg itt.",
+            "ro": "Faceți o oprire aici în drum spre centru.",
+            "en": "Stop off here on your walk back towards the centre."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nehmen Sie einen Bus ins Stadtzentrum und beginnen Sie Ihre Erkundung im Museum. Spazieren Sie zum Inverness Castle und genießen Sie die Aussicht. Nehmen Sie nach dem Mittagessen einen weiteren Bus zu den ruhigen Ness-Inseln für einen Nachmittagsspaziergang. Auf dem Rückweg ins Zentrum besuchen Sie die beeindruckende Kathedrale von Inverness, bevor Sie den Bus zurück nehmen.",
+        "hu": "Buszozzon be a városközpontba, és kezdje a felfedezést a múzeumban. Sétáljon el az Inverness-i kastélyhoz a kilátásért. Ebéd után szálljon egy másik buszra a békés Ness-szigetek felé egy délutáni sétára. Visszafelé a központba látogassa meg a lenyűgöző Inverness-i székesegyházat, mielőtt visszaszáll a buszra.",
+        "ro": "Luați un autobuz spre centrul orașului și începeți explorarea la muzeu. Plimbați-vă până la Castelul Inverness pentru priveliște. După prânz, luați un alt autobuz spre liniștitele Insule Ness pentru o plimbare de după-amiază. Pe drumul de întoarcere spre centru, vizitați impresionanta Catedrală Inverness înainte de a lua autobuzul înapoi.",
+        "en": "Take a bus into the city centre and start your exploration at the museum. Walk up to Inverness Castle for the views. After lunch, catch another bus to the peaceful Ness Islands for an afternoon stroll. On your way back to the centre, visit the stunning Inverness Cathedral before catching the bus back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Black Isle Bar",
+            "tip": "Bekannt für Bio-Bier und Holzofenpizza."
+          },
+          {
+            "name": "The Filling Station",
+            "tip": "Ein amerikanisches Diner für einen schnellen und einfachen Happen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Black Isle Bar",
+            "tip": "Bio söréről és fatüzelésű pizzájáról ismert."
+          },
+          {
+            "name": "The Filling Station",
+            "tip": "Amerikai étkezde egy gyors és egyszerű falathoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Black Isle Bar",
+            "tip": "Renumit pentru berea organică și pizza la cuptor cu lemne."
+          },
+          {
+            "name": "The Filling Station",
+            "tip": "Un restaurant american pentru o masă rapidă și simplă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Black Isle Bar",
+            "tip": "Known for its organic beer and wood-fired pizza."
+          },
+          {
+            "name": "The Filling Station",
+            "tip": "An American-style diner for a quick and easy bite."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Inverness Botanic Gardens",
+            "tip": "Mit dem Bus erreichbar, ein tropisches Refugium.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Craig Phadrig",
+            "tip": "Für energiegeladene Wanderer, nehmen Sie einen Bus zum Fuß des Hügels für eine Wanderung zu einer alten Festung.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Inverness-i Botanikus Kert",
+            "tip": "Busszal elérhető, trópusi menedék.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Craig Phadrig",
+            "tip": "Energikus túrázóknak: buszozzon el a hegy lábához, és túrázzon fel egy ősi erődhöz.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Botanice Inverness",
+            "tip": "Accesibile cu autobuzul, un refugiu tropical.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Craig Phadrig",
+            "tip": "Pentru drumeții energici, luați un autobuz până la poalele dealului pentru o drumeție la o fortăreață antică.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Inverness Botanic Gardens",
+            "tip": "Reachable by bus, a tropical escape.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Craig Phadrig",
+            "tip": "For energetic walkers, take a bus to the base of the hill for a hike to an ancient fort.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Eastgate Shopping Centre",
+            "tip": "Das wichtigste Einkaufszentrum der Stadt, in der Nähe der Bushaltestelle."
+          },
+          {
+            "name": "The Scottish Kiltmaker Visitor Centre",
+            "tip": "Erfahren Sie mehr über die Herstellung von Kilts und kaufen Sie einen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Eastgate bevásárlóközpont",
+            "tip": "A város fő bevásárlóközpontja, a buszpályaudvar közelében."
+          },
+          {
+            "name": "A Skót Kiltkészítő Látogatóközpont",
+            "tip": "Tudjon meg többet a kiltkészítésről és vásároljon egyet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Eastgate",
+            "tip": "Principalul centru comercial al orașului, aproape de stația de autobuz."
+          },
+          {
+            "name": "Centrul de Vizitare al Producătorilor de Kilturi Scoțiene",
+            "tip": "Aflați despre fabricarea kilturilor și cumpărați unul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Eastgate Shopping Centre",
+            "tip": "The city's main shopping mall, close to the bus station."
+          },
+          {
+            "name": "The Scottish Kiltmaker Visitor Centre",
+            "tip": "Learn about how kilts are made and buy one."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Laden Sie die Stagecoach Bus App herunter, um Fahrpläne und Live-Tracking zu erhalten.",
+          "Busse akzeptieren kontaktlose Zahlungen.",
+          "Seien Sie an Haltestellen auf dem Land deutlich sichtbar, damit der Bus anhält."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Töltse le a Stagecoach Bus alkalmazást a menetrendekért és az élő követésért.",
+          "A buszok elfogadják az érintés nélküli fizetést.",
+          "A vidéki megállókban legyen jól látható, hogy a busz megálljon."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Descărcați aplicația Stagecoach Bus pentru orare și urmărire în direct.",
+          "Autobuzele acceptă plăți contactless.",
+          "La stațiile rurale, semnalizați clar șoferului să oprească."
+        ],
+        "en": [
+          "Buy a dayrider ticket for unlimited travel.",
+          "Download the Stagecoach Bus app for timetables and live tracking.",
+          "Buses accept contactless payments.",
+          "At rural stops, make sure you signal clearly for the bus to stop."
+        ]
+      }
+    }
+  }
+}

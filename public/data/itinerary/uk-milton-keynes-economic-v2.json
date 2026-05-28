@@ -1,0 +1,1197 @@
+{
+  "city_id": "uk-milton-keynes-economic-v2",
+  "anchor": {
+    "name": "Milton Keynes",
+    "coords": [
+      52.04,
+      -0.759
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "The Centre:MK",
+            "hu": "The Centre:MK",
+            "ro": "The Centre:MK",
+            "en": "The Centre:MK"
+          },
+          "coords": [
+            -0.76,
+            52.041
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einem Schaufensterbummel in einem der längsten Einkaufszentren Großbritanniens.",
+            "hu": "Kezdje a napot egy kis nézelődéssel az Egyesült Királyság egyik leghosszabb bevásárlóközpontjában.",
+            "ro": "Începeți ziua cu o sesiune de window shopping într-unul dintre cele mai lungi centre comerciale din Marea Britanie.",
+            "en": "Start your day with some window shopping in one of the UK's longest shopping malls."
+          }
+        },
+        {
+          "name": {
+            "de": "Campbell Park",
+            "hu": "Campbell Park",
+            "ro": "Parcul Campbell",
+            "en": "Campbell Park"
+          },
+          "coords": [
+            -0.751,
+            52.043
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Suchen Sie nach den öffentlichen Kunstwerken und Skulpturen, die im Park verstreut sind.",
+            "hu": "Keresse meg a parkban elszórtan található köztéri műalkotásokat és szobrokat.",
+            "ro": "Căutați operele de artă publică și sculpturile răspândite în parc.",
+            "en": "Look for the public art and sculptures scattered throughout the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Milton Keynes Museum",
+            "hu": "Milton Keynes Múzeum",
+            "ro": "Muzeul Milton Keynes",
+            "en": "Milton Keynes Museum"
+          },
+          "coords": [
+            -0.803,
+            52.062
+          ],
+          "category": "museums",
+          "arrive_at": "12:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie an den interaktiven Ausstellungen teil, insbesondere an der viktorianischen Schule.",
+            "hu": "Próbálja ki az interaktív kiállítási tárgyakat, különösen a viktoriánus iskolát.",
+            "ro": "Participați la expozițiile interactive, în special la școala victoriană.",
+            "en": "Engage with the interactive exhibits, especially the Victorian schoolroom."
+          }
+        },
+        {
+          "name": {
+            "de": "Bradwell Abbey",
+            "hu": "Bradwell apátság",
+            "ro": "Abația Bradwell",
+            "en": "Bradwell Abbey"
+          },
+          "coords": [
+            -0.798,
+            52.055
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Überprüfen Sie den Veranstaltungsplan für besondere Ereignisse oder offene Tage.",
+            "hu": "Nézze meg az eseménynaptárt, hátha van valamilyen különleges rendezvény vagy nyílt nap.",
+            "ro": "Verificați programul de evenimente pentru ocazii speciale sau zile deschise.",
+            "en": "Check the events schedule for any special events or open days."
+          }
+        },
+        {
+          "name": {
+            "de": "Peace Pagoda",
+            "hu": "Béke Pagoda",
+            "ro": "Pagoda Păcii",
+            "en": "Peace Pagoda"
+          },
+          "coords": [
+            -0.729,
+            52.04
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für ruhige Besinnung am Willen Lake.",
+            "hu": "Remek hely a csendes elmélkedésre a Willen-tó partján.",
+            "ro": "Un loc minunat pentru reflecție liniștită lângă Lacul Willen.",
+            "en": "A great spot for quiet reflection by Willen Lake."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Am Morgen erkunden Sie das belebte The Centre:MK. Nachmittags schlendern Sie durch den ruhigen Campbell Park und tauchen in die lokale Geschichte im Milton Keynes Museum ein. Sie beenden den Tag mit einem Besuch der historischen Bradwell Abbey und finden Ruhe an der Friedenspagode.",
+        "hu": "Reggel fedezze fel a nyüzsgő The Centre:MK-t. Délután sétáljon át a nyugodt Campbell Parkon, és merüljön el a helyi történelemben a Milton Keynes Múzeumban. A napot a történelmi Bradwell Apátság meglátogatásával és a Béke Pagodánál való elcsendesedéssel zárja.",
+        "ro": "Dimineața explorați agitația de la The Centre:MK. După-amiaza, plimbați-vă prin liniștitul Parc Campbell și aprofundați istoria locală la Muzeul Milton Keynes. Încheiați ziua cu o vizită la istorica Abație Bradwell și găsiți pacea la Pagoda Păcii.",
+        "en": "In the morning, explore the bustling The Centre:MK. In the afternoon, stroll through the serene Campbell Park and dive into local history at the Milton Keynes Museum. You end the day with a visit to the historic Bradwell Abbey and find peace at the Peace Pagoda."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Swan Inn",
+            "tip": "Ein klassischer Pub für ein herzhaftes britisches Mittagessen."
+          },
+          {
+            "name": "Akasaka",
+            "tip": "Authentische japanische Küche im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Swan Inn",
+            "tip": "Klasszikus pub egy kiadós brit ebédhez."
+          },
+          {
+            "name": "Akasaka",
+            "tip": "Autentikus japán konyha a városközpontban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Swan Inn",
+            "tip": "Un pub clasic pentru un prânz britanic copios."
+          },
+          {
+            "name": "Akasaka",
+            "tip": "Bucătărie japoneză autentică în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Swan Inn",
+            "tip": "A classic pub for a hearty British lunch."
+          },
+          {
+            "name": "Akasaka",
+            "tip": "Authentic Japanese cuisine in the city centre."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Peace Pagoda",
+            "tip": "Ein Ort der Ruhe und Besinnung.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Campbell Park",
+            "tip": "Finden Sie eine ruhige Ecke abseits der Hauptwege.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Béke Pagoda",
+            "tip": "A béke és a meditáció helye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Campbell Park",
+            "tip": "Keressen egy csendes zugot a fő ösvényektől távol.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pagoda Păcii",
+            "tip": "Un loc de pace și reflecție.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Campbell",
+            "tip": "Găsiți un colț liniștit departe de căile principale.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Peace Pagoda",
+            "tip": "A place for peace and reflection.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Campbell Park",
+            "tip": "Find a quiet corner away from the main paths.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "The Centre:MK",
+            "tip": "Eine große Auswahl an Geschäften, von High-Street bis zu Designermarken."
+          },
+          {
+            "name": "Milton Keynes Market",
+            "tip": "Stöbern Sie nach frischen Produkten und einzigartigen Fundstücken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Centre:MK",
+            "tip": "Széles üzletválaszték, a fast fashiontől a designer márkákig."
+          },
+          {
+            "name": "Milton Keynes Market",
+            "tip": "Böngésszen a friss termékek és egyedi leletek között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Centre:MK",
+            "tip": "O gamă largă de magazine, de la high-street la mărci de designer."
+          },
+          {
+            "name": "Piața Milton Keynes",
+            "tip": "Căutați produse proaspete și descoperiri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Centre:MK",
+            "tip": "A huge range of shops from high-street to designer brands."
+          },
+          {
+            "name": "Milton Keynes Market",
+            "tip": "Browse for fresh produce and unique finds."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da dieser Rundgang viel Gehen erfordert.",
+          "Prüfen Sie die Öffnungszeiten des Museums im Voraus.",
+          "Milton Keynes ist weitläufig, diese Tour konzentriert sich auf einen begehbaren Kern."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, ez a túra sokat gyalogol.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét.",
+          "Milton Keynes kiterjedt, ez a túra egy gyalogosan bejárható központi részre fókuszál."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece acest tur implică mult mers pe jos.",
+          "Verificați în avans orele de deschidere ale muzeului.",
+          "Milton Keynes este extins, acest tur se concentrează pe un nucleu pietonal."
+        ],
+        "en": [
+          "Wear comfortable shoes as this walking tour involves a lot of ground to cover.",
+          "Check museum opening times in advance.",
+          "Milton Keynes is widespread, this tour focuses on a walkable core."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "The Centre:MK",
+            "hu": "The Centre:MK",
+            "ro": "The Centre:MK",
+            "en": "The Centre:MK"
+          },
+          "coords": [
+            -0.76,
+            52.041
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Fahrradständer und erkunden Sie das Zentrum zu Fuß.",
+            "hu": "Használja a kerékpártárolókat, és fedezze fel gyalog a központot.",
+            "ro": "Folosiți suporturile pentru biciclete și explorați centrul pe jos.",
+            "en": "Use the bike racks and explore the centre on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Campbell Park",
+            "hu": "Campbell Park",
+            "ro": "Parcul Campbell",
+            "en": "Campbell Park"
+          },
+          "coords": [
+            -0.751,
+            52.043
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:16",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahren Sie auf den Wegen, aber nehmen Sie sich Zeit, die Aussicht zu genießen.",
+            "hu": "Kerékpározzon végig az ösvényeken, de szánjon időt a kilátás megcsodálására is.",
+            "ro": "Pedalați pe alei, dar luați-vă timp să admirați priveliștea.",
+            "en": "Cycle the pathways but take time to stop and enjoy the views."
+          }
+        },
+        {
+          "name": {
+            "de": "Peace Pagoda",
+            "hu": "Béke Pagoda",
+            "ro": "Pagoda Păcii",
+            "en": "Peace Pagoda"
+          },
+          "coords": [
+            -0.729,
+            52.04
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:28",
+          "stay_min": 20,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und spazieren Sie um dieses ruhige Monument.",
+            "hu": "Zárja le a kerékpárt, és sétáljon egyet a békés emlékmű körül.",
+            "ro": "Lăsați bicicleta și plimbați-vă în jurul acestui monument senin.",
+            "en": "Lock up your bike and take a walk around this serene monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Willen Lake",
+            "hu": "Willen-tó",
+            "ro": "Lacul Willen",
+            "en": "Willen Lake"
+          },
+          "coords": [
+            -0.713,
+            52.045
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:57",
+          "stay_min": 120,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für eine Mittagspause mit vielen Aktivitäten.",
+            "hu": "Remek hely egy ebédszünetre, rengeteg tevékenységgel.",
+            "ro": "Un loc excelent pentru o pauză de prânz, cu multe activități disponibile.",
+            "en": "A great spot for a lunch break with plenty of activities."
+          }
+        },
+        {
+          "name": {
+            "de": "Bradwell Abbey",
+            "hu": "Bradwell apátság",
+            "ro": "Abația Bradwell",
+            "en": "Bradwell Abbey"
+          },
+          "coords": [
+            -0.798,
+            52.055
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:33",
+          "stay_min": 50,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Eine angenehme Fahrt durch ruhigere Stadtteile, um dieses historische Juwel zu erreichen.",
+            "hu": "Kellemes út csendesebb városrészeken keresztül ehhez a történelmi gyöngyszemhez.",
+            "ro": "O plimbare plăcută prin părți mai liniștite ale orașului pentru a ajunge la această bijuterie istorică.",
+            "en": "A pleasant ride through quieter parts of town to reach this historic gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Snozone",
+            "hu": "Snozone",
+            "ro": "Snozone",
+            "en": "Snozone"
+          },
+          "coords": [
+            -0.778,
+            52.038
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:53",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit etwas Spaß auf echtem Schnee, egal bei welchem Wetter draußen.",
+            "hu": "Zárja a napot egy kis valódi havas mókával, függetlenül a kinti időjárástól.",
+            "ro": "Încheiați ziua cu distracție pe zăpadă adevărată, indiferent de vremea de afară.",
+            "en": "End your day with some real snow fun, whatever the weather outside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens vom Stadtzentrum zum ruhigen Campbell Park. Mittags umrunden Sie den Willen Lake und entdecken die Friedenspagode. Am Nachmittag fahren Sie nach Westen zur historischen Bradwell Abbey, bevor Sie im Snozone einen einzigartigen Abschluss finden.",
+        "hu": "Reggel tekerjen a városközpontból a békés Campbell Parkba. Délben kerülje meg a Willen-tavat és fedezze fel a Béke Pagodát. Délután induljon nyugat felé a történelmi Bradwell Apátsághoz, mielőtt egyedi befejezésként a Snozone-ba látogat.",
+        "ro": "Dimineața pedalați din centrul orașului spre liniștitul Parc Campbell. La prânz, înconjurați Lacul Willen și descoperiți Pagoda Păcii. După-amiaza, mergeți spre vest la istorica Abație Bradwell, înainte de o încheiere unică la Snozone.",
+        "en": "In the morning, cycle from the city centre to the peaceful Campbell Park. At midday, circle Willen Lake and discover the Peace Pagoda. In the afternoon, head west to the historic Bradwell Abbey before a unique finish at Snozone."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Lakeside",
+            "tip": "Café mit herrlicher Aussicht auf den Willen Lake."
+          },
+          {
+            "name": "The Old Beams",
+            "tip": "Ein charmantes, reetgedecktes Pub in der Nähe von Bradwell Abbey."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Lakeside",
+            "tip": "Kávézó, ahonnan remek kilátás nyílik a Willen-tóra."
+          },
+          {
+            "name": "The Old Beams",
+            "tip": "Bájos, nádfedeles pub a Bradwell Apátság közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Lakeside",
+            "tip": "O cafenea cu vederi minunate la Lacul Willen."
+          },
+          {
+            "name": "The Old Beams",
+            "tip": "Un pub fermecător cu acoperiș de paie, lângă Abația Bradwell."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Lakeside",
+            "tip": "A cafe with great views over Willen Lake."
+          },
+          {
+            "name": "The Old Beams",
+            "tip": "A charming thatched-roof pub near Bradwell Abbey."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Willen Lake Ufer",
+            "tip": "Finden Sie einen ruhigen Platz am Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bradwell Abbey Gärten",
+            "tip": "Ein friedlicher Ort mit viel Geschichte.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Willen-tó partja",
+            "tip": "Keressen egy csendes helyet a víz mellett.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bradwell Apátság kertje",
+            "tip": "Békés hely, gazdag történelemmel.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Willen",
+            "tip": "Găsiți un loc liniștit lângă apă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Abației Bradwell",
+            "tip": "Un loc pașnic, încărcat de istorie.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Willen Lake shore",
+            "tip": "Find a quiet spot by the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bradwell Abbey gardens",
+            "tip": "A peaceful space steeped in history.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Independents in Stony Stratford",
+            "tip": "Eine kurze Radtour zu charmanten, unabhängigen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Független boltok Stony Stratfordban",
+            "tip": "Egy rövid bicikliút a bájos, független boltokhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine independente în Stony Stratford",
+            "tip": "O scurtă plimbare cu bicicleta până la magazine independente fermecătoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Independents in Stony Stratford",
+            "tip": "A short cycle ride away for charming independent shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie das 'Redway'-System, ein Netz von fahrradfreundlichen Wegen.",
+          "Nehmen Sie ein gutes Fahrradschloss mit.",
+          "Planen Sie Ihre Route im Voraus, da die Stadt weitläufig ist.",
+          "Viele Parks und Seen haben Radwege."
+        ],
+        "hu": [
+          "Használja a 'Redway' rendszert, a kerékpárbarát utak hálózatát.",
+          "Vigyen magával egy jó kerékpárzárat.",
+          "Tervezze meg előre az útvonalat, mivel a város kiterjedt.",
+          "Sok parkban és tó körül van kerékpárút."
+        ],
+        "ro": [
+          "Utilizați sistemul 'Redway', o rețea de căi prietenoase cu bicicletele.",
+          "Luați cu voi un lacăt de bicicletă bun.",
+          "Planificați-vă traseul în avans, deoarece orașul este extins.",
+          "Multe parcuri și lacuri au piste pentru biciclete."
+        ],
+        "en": [
+          "Make use of the 'Redway' system, a network of cycle-friendly paths.",
+          "Bring a good bike lock.",
+          "Plan your route in advance as the city is spread out.",
+          "Many of the parks and lakes have cycle paths."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:21",
+      "total_km": 26.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bletchley Park",
+            "hu": "Bletchley Park",
+            "ro": "Parcul Bletchley",
+            "en": "Bletchley Park"
+          },
+          "coords": [
+            -0.744,
+            51.997
+          ],
+          "category": "museums",
+          "arrive_at": "09:25",
+          "stay_min": 180,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Planen Sie mindestens 3-4 Stunden ein; es gibt so viel zu sehen, vom Herrenhaus bis zu den Hütten.",
+            "hu": "Szánjon rá legalább 3-4 órát; rengeteg a látnivaló a kúriától a barakkokig.",
+            "ro": "Alocați cel puțin 3-4 ore; sunt atât de multe de văzut, de la conac la barăci.",
+            "en": "Allow at least 3-4 hours; there's so much to see, from the mansion to the huts."
+          }
+        },
+        {
+          "name": {
+            "de": "The Centre:MK",
+            "hu": "The Centre:MK",
+            "ro": "The Centre:MK",
+            "en": "The Centre:MK"
+          },
+          "coords": [
+            -0.76,
+            52.041
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 9.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier (es gibt viele Parkplätze) und nutzen Sie es als Ausgangspunkt für das Stadtzentrum.",
+            "hu": "Parkoljon itt (rengeteg parkolóhely van), és használja kiindulópontként a városközpont felfedezéséhez.",
+            "ro": "Parcați aici (există o mulțime de locuri) și folosiți-l ca bază pentru centrul orașului.",
+            "en": "Park here (plenty of spaces) and use it as your base for the city centre cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Campbell Park",
+            "hu": "Campbell Park",
+            "ro": "Parcul Campbell",
+            "en": "Campbell Park"
+          },
+          "coords": [
+            -0.751,
+            52.043
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Einkaufszentrum. Perfekt für eine Mittagspause im Freien.",
+            "hu": "Rövid séta a bevásárlóközponttól. Tökéletes egy szabadtéri ebédszünethez.",
+            "ro": "O scurtă plimbare de la centrul comercial. Perfect pentru o pauză de prânz în aer liber.",
+            "en": "A short walk from the shopping centre. Perfect for an open-air lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Willen Lake",
+            "hu": "Willen-tó",
+            "ro": "Lacul Willen",
+            "en": "Willen Lake"
+          },
+          "coords": [
+            -0.713,
+            52.045
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum See für einen entspannten Nachmittag. Parkplätze sind vorhanden.",
+            "hu": "Vezessen le a tóhoz egy pihentető délutánra. Parkolás biztosított.",
+            "ro": "Conduceți până la lac pentru o după-amiază relaxantă. Parcarea este disponibilă.",
+            "en": "Drive to the lake for a relaxing afternoon. Parking is available."
+          }
+        },
+        {
+          "name": {
+            "de": "Peace Pagoda",
+            "hu": "Béke Pagoda",
+            "ro": "Pagoda Păcii",
+            "en": "Peace Pagoda"
+          },
+          "coords": [
+            -0.729,
+            52.04
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:29",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein einfacher Spaziergang vom Hauptparkplatz des Willen Lake.",
+            "hu": "Könnyű séta a Willen-tó fő parkolójából.",
+            "ro": "O plimbare ușoară de la parcarea principală a Lacului Willen.",
+            "en": "An easy walk from the main Willen Lake car park."
+          }
+        },
+        {
+          "name": {
+            "de": "Milton Keynes Museum",
+            "hu": "Milton Keynes Múzeum",
+            "ro": "Muzeul Milton Keynes",
+            "en": "Milton Keynes Museum"
+          },
+          "coords": [
+            -0.803,
+            52.062
+          ],
+          "category": "museums",
+          "arrive_at": "17:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein letzter Halt, um die neuere Geschichte der Stadt zu entdecken, bevor Sie den Tag beenden.",
+            "hu": "Utolsó állomásként ismerje meg a város újabb kori történelmét a nap lezárása előtt.",
+            "ro": "O ultimă oprire pentru a descoperi istoria mai recentă a orașului înainte de a încheia ziua.",
+            "en": "A final stop to discover the town's more recent history before you finish for the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer tiefen historischen Erkundung im Bletchley Park. Fahren Sie mittags ins Zentrum von MK, parken Sie einmal und erkunden Sie das Einkaufszentrum und den Campbell Park zu Fuß. Am Nachmittag fahren Sie zum Willen Lake, um sich zu entspannen und die Friedenspagode zu sehen, und beenden den Tag mit einem Einblick in die lokale Kultur im Milton Keynes Museum.",
+        "hu": "Kezdje a napot mély történelmi merüléssel a Bletchley Parkban. Délben autózzon be MK központjába, parkoljon le, és fedezze fel gyalog a bevásárlóközpontot és a Campbell Parkot. Délután pihenjen a Willen-tónál, nézze meg a Béke Pagodát, majd zárja a napot a Milton Keynes Múzeumban, ahol bepillantást nyerhet a helyi kultúrába.",
+        "ro": "Începeți ziua cu o incursiune istorică profundă la Parcul Bletchley. La prânz, conduceți spre centrul MK, parcați o dată și explorați centrul comercial și Parcul Campbell pe jos. După-amiaza, mergeți la Lacul Willen pentru relaxare și pentru a vedea Pagoda Păcii, încheind cu o incursiune în cultura locală la Muzeul Milton Keynes.",
+        "en": "Start your day with a deep historical dive at Bletchley Park. For midday, drive to central MK, park once, and explore the shopping centre and Campbell Park on foot. In the afternoon, drive to Willen Lake for relaxation and to see the Peace Pagoda, finishing with a dose of local culture at the Milton Keynes Museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Hut 8 Cafe",
+            "tip": "Schnappen Sie sich einen Happen im Bletchley Park, um die Zeit optimal zu nutzen."
+          },
+          {
+            "name": "The Hub",
+            "tip": "Ein Bereich mit vielen Restaurants in der Nähe des Stadtzentrums, ideal für das Abendessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Hut 8 Cafe",
+            "tip": "Kapjon be egy falatot a Bletchley Parkban, hogy maximalizálja az idejét."
+          },
+          {
+            "name": "The Hub",
+            "tip": "Számos étterem a városközpont közelében, ideális vacsorához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafeneaua Hut 8",
+            "tip": "Luați o gustare în Parcul Bletchley pentru a maximiza timpul."
+          },
+          {
+            "name": "The Hub",
+            "tip": "O zonă cu multe restaurante lângă centrul orașului, perfectă pentru cină."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Hut 8 Cafe",
+            "tip": "Grab a bite within Bletchley Park to maximise your time."
+          },
+          {
+            "name": "The Hub",
+            "tip": "An area with many restaurants near the city centre, perfect for dinner."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bletchley Park Gärten",
+            "tip": "Spazieren Sie nach dem Museumsbesuch durch das ruhige Gelände.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang um den Willen Lake",
+            "tip": "Ein langer, friedlicher Spaziergang abseits des Trubels.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bletchley Park kertje",
+            "tip": "Sétáljon egyet a csendes parkban a múzeumlátogatás után.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Séta a Willen-tó körül",
+            "tip": "Hosszú, békés séta a nyüzsgéstől távol.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Parcului Bletchley",
+            "tip": "Plimbați-vă pe terenul liniștit după vizita la muzeu.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare în jurul Lacului Willen",
+            "tip": "O plimbare lungă și pașnică, departe de aglomerație.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bletchley Park grounds",
+            "tip": "Stroll the quiet grounds after the museum.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Willen Lake walk",
+            "tip": "A long, peaceful walk away from the bustle.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bletchley Park Gift Shop",
+            "tip": "Einzigartige Geschenke und Bücher zum Thema Codebrechen."
+          },
+          {
+            "name": "The Centre:MK",
+            "tip": "Ihre Hauptanlaufstelle für alle Shopping-Bedürfnisse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bletchley Park ajándékbolt",
+            "tip": "Egyedi, kódtöréssel kapcsolatos ajándékok és könyvek."
+          },
+          {
+            "name": "The Centre:MK",
+            "tip": "A fő bevásárlóhelyszín."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de cadouri Bletchley Park",
+            "tip": "Cadouri și cărți unice pe tema spargerii codurilor."
+          },
+          {
+            "name": "The Centre:MK",
+            "tip": "Destinația principală pentru toate nevoile de cumpărături."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bletchley Park Gift Shop",
+            "tip": "Unique codebreaking-themed gifts and books."
+          },
+          {
+            "name": "The Centre:MK",
+            "tip": "Your main destination for all shopping needs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Buchen Sie Bletchley Park Tickets im Voraus online.",
+          "In Milton Keynes wird viel nach dem 'Pay and Display'-System geparkt.",
+          "Beachten Sie, dass die Entfernungen zwischen den Sehenswürdigkeiten beträchtlich sein können.",
+          "Nutzen Sie eine Navigations-App, um sich auf den vielen Kreisverkehren zurechtzufinden."
+        ],
+        "hu": [
+          "Foglalja le online előre a Bletchley Park belépőjegyeket.",
+          "Milton Keynesben a parkolás többnyire 'Pay and Display' rendszerben működik.",
+          "Vegye figyelembe, hogy a látnivalók közötti távolságok jelentősek lehetnek.",
+          "Használjon navigációs alkalmazást a sok körforgalomban való tájékozódáshoz."
+        ],
+        "ro": [
+          "Rezervați biletele pentru Parcul Bletchley online în avans.",
+          "Parcarea în Milton Keynes este în mare parte pe bază de 'plătește și afișează'.",
+          "Fiți conștienți că distanțele dintre atracții pot fi considerabile.",
+          "Folosiți o aplicație de navigație pentru a vă orienta în numeroasele sensuri giratorii."
+        ],
+        "en": [
+          "Book Bletchley Park tickets online in advance.",
+          "Parking in Milton Keynes is largely 'pay and display'.",
+          "Be aware that distances between attractions can be significant.",
+          "Use a navigation app to handle the many roundabouts."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:35",
+      "total_km": 23.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bletchley Park",
+            "hu": "Bletchley Park",
+            "ro": "Parcul Bletchley",
+            "en": "Bletchley Park"
+          },
+          "coords": [
+            -0.744,
+            51.997
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 180,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Zug zum Bahnhof Bletchley, der direkt neben dem Park liegt.",
+            "hu": "Vonattal utazzon a Bletchley állomásra, amely közvetlenül a park mellett található.",
+            "ro": "Luați trenul până la stația Bletchley, care este chiar lângă parc.",
+            "en": "Take a train to Bletchley station, which is right next to the park."
+          }
+        },
+        {
+          "name": {
+            "de": "The Centre:MK",
+            "hu": "The Centre:MK",
+            "ro": "The Centre:MK",
+            "en": "The Centre:MK"
+          },
+          "coords": [
+            -0.76,
+            52.041
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 9.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Mehrere Buslinien halten direkt vor dem Einkaufszentrum.",
+            "hu": "Számos buszjárat megáll közvetlenül a bevásárlóközpontnál.",
+            "ro": "Mai multe rute de autobuz opresc chiar în fața centrului comercial.",
+            "en": "Multiple bus routes stop right outside the shopping centre."
+          }
+        },
+        {
+          "name": {
+            "de": "Campbell Park",
+            "hu": "Campbell Park",
+            "ro": "Parcul Campbell",
+            "en": "Campbell Park"
+          },
+          "coords": [
+            -0.751,
+            52.043
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein einfacher Spaziergang durch das Stadtzentrum vom The Centre:MK.",
+            "hu": "Könnyű séta a városközponton keresztül a The Centre:MK-tól.",
+            "ro": "O plimbare ușoară prin centrul orașului de la The Centre:MK.",
+            "en": "An easy walk across the city centre from The Centre:MK."
+          }
+        },
+        {
+          "name": {
+            "de": "Willen Lake",
+            "hu": "Willen-tó",
+            "ro": "Lacul Willen",
+            "en": "Willen Lake"
+          },
+          "coords": [
+            -0.713,
+            52.045
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Stadtzentrum; es ist eine kurze Fahrt.",
+            "hu": "Buszozzon a városközpontból; ez egy rövid út.",
+            "ro": "Luați un autobuz din centrul orașului; este o călătorie scurtă.",
+            "en": "Catch a bus from the city centre; it's a short ride away."
+          }
+        },
+        {
+          "name": {
+            "de": "Peace Pagoda",
+            "hu": "Béke Pagoda",
+            "ro": "Pagoda Păcii",
+            "en": "Peace Pagoda"
+          },
+          "coords": [
+            -0.729,
+            52.04
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "17:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie von der Bushaltestelle Willen Lake um den See herum, um dieses ruhige Monument zu finden.",
+            "hu": "Sétáljon a tókörül a Willen Lake buszmegállótól, hogy megtalálja ezt a békés emlékművet.",
+            "ro": "Plimbați-vă în jurul lacului de la stația de autobuz Willen Lake pentru a găsi acest monument senin.",
+            "en": "Walk around the lake from the Willen Lake bus stop to find this serene monument."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag mit einer Zugfahrt zum Bletchley Park. Am Mittag nehmen Sie einen Bus ins Zentrum von Milton Keynes, wo Sie zwischen dem Einkaufszentrum und dem Campbell Park spazieren. Ein weiterer kurzer Bus bringt Sie am Nachmittag zum Willen Lake, wo Sie am See entlang zur Friedenspagode schlendern, um den Tag ausklingen zu lassen.",
+        "hu": "Kezdje a napot egy vonatúttal a Bletchley Parkba. Délben buszozzon be Milton Keynes központjába, ahol sétáljon a bevásárlóközpont és a Campbell Park között. Egy másik rövid buszút viszi el délután a Willen-tóhoz, ahol a tó mentén elsétálhat a Béke Pagodához, és lezárhatja a napot.",
+        "ro": "Începeți ziua cu o călătorie cu trenul la Parcul Bletchley. La prânz, luați un autobuz spre centrul Milton Keynes pentru a vă plimba între centrul comercial și Parcul Campbell. O altă scurtă călătorie cu autobuzul vă duce după-amiaza la Lacul Willen, unde vă puteți plimba de-a lungul lacului până la Pagoda Păcii pentru a încheia ziua.",
+        "en": "Start the day with a train journey to Bletchle_y Park. At midday, take a bus to central Milton Keynes to walk between the shopping centre and Campbell Park. Another short bus ride takes you to Willen Lake in the afternoon, where you can stroll along the lake to the Peace Pagoda to end your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Namji",
+            "tip": "Preisgekröntes Punjabi-Restaurant in der Nähe des Bahnhofs Wolverton."
+          },
+          {
+            "name": "The Barge Inn",
+            "tip": "Traditionelles Pub am Grand Union Canal, ideal für eine Pause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Namji",
+            "tip": "Díjnyertes pandzsábi étterem a Wolverton állomás közelében."
+          },
+          {
+            "name": "The Barge Inn",
+            "tip": "Hagyományos pub a Grand Union csatornánál, ideális egy pihenőre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Namji",
+            "tip": "Restaurant punjabi premiat, aproape de gara Wolverton."
+          },
+          {
+            "name": "The Barge Inn",
+            "tip": "Un pub tradițional pe Grand Union Canal, excelent pentru o pauză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Namji",
+            "tip": "Award-winning Punjabi restaurant near Wolverton station."
+          },
+          {
+            "name": "The Barge Inn",
+            "tip": "Traditional pub on the Grand Union Canal, great for a break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Grand Union Canal Walk",
+            "tip": "Ein friedlicher Spaziergang entlang des Kanals, leicht mit dem Bus erreichbar.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Linford Wood",
+            "tip": "Ein alter Wald, der eine ruhige Flucht bietet.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Grand Union csatorna mentén",
+            "tip": "Békés séta a csatorna mentén, busszal könnyen megközelíthető.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Linford Wood",
+            "tip": "Ősi erdő, amely csendes menedéket nyújt.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe Canalul Grand Union",
+            "tip": "O plimbare pașnică de-a lungul canalului, ușor accesibilă cu autobuzul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pădurea Linford",
+            "tip": "O pădure veche care oferă o evadare liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Grand Union Canal Walk",
+            "tip": "A peaceful stroll along the canal, easily accessible by bus.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Linford Wood",
+            "tip": "An ancient woodland offering a quiet escape.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wolverton Town Centre",
+            "tip": "Hat einen traditionelleren, viktorianischen Charakter mit einigen unabhängigen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wolverton városközpont",
+            "tip": "Hagyományosabb, viktoriánus hangulatú, néhány független üzlettel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul orașului Wolverton",
+            "tip": "Are un aer mai tradițional, victorian, cu câteva magazine independente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wolverton Town Centre",
+            "tip": "Has a more traditional, Victorian feel with some independent shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für Busreisen, um Geld zu sparen.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, insbesondere am Wochenende.",
+          "Einige Busse akzeptieren möglicherweise nur kontaktlose Zahlungen.",
+          "Züge sind die schnellste Möglichkeit, um nach Bletchley zu gelangen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy pénzt takarítson meg.",
+          "Előre ellenőrizze a buszmenetrendet, különösen hétvégén.",
+          "Néhány busz csak érintés nélküli fizetést fogad el.",
+          "Vonattal a leggyorsabb eljutni Bletchley-be."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătoriile cu autobuzul pentru a economisi bani.",
+          "Verificați programul autobuzelor în avans, mai ales în weekend.",
+          "Unele autobuze pot accepta doar plăți contactless.",
+          "Trenurile sunt cea mai rapidă cale de a ajunge la Bletchley."
+        ],
+        "en": [
+          "Buy a day-rider bus ticket to save money on travel.",
+          "Check bus timetables in advance, especially on weekends.",
+          "Some buses may only accept contactless payments.",
+          "Trains are the quickest way to get to Bletchley."
+        ]
+      }
+    }
+  }
+}

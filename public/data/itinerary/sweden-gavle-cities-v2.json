@@ -1,0 +1,1460 @@
+{
+  "city_id": "sweden-gavle-cities-v2",
+  "anchor": {
+    "name": "Gävle",
+    "coords": [
+      17.1413,
+      60.6749
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Stortorget (Hauptplatz)",
+            "hu": "Stortorget (Főtér)",
+            "ro": "Stortorget (Piața Principală)",
+            "en": "Stortorget (Main Square)"
+          },
+          "coords": [
+            17.1415,
+            60.6745
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Kaffee in einem der Cafés am Platz.",
+            "hu": "Indítsa a napot egy kávéval a tér egyik kávézójában!",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
+            "en": "Start your day with a coffee at one of the square's cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Gamla Gefle (Altstadt)",
+            "hu": "Gamla Gefle (Óváros)",
+            "ro": "Gamla Gefle (Orașul Vechi)",
+            "en": "Gamla Gefle (Old Town)"
+          },
+          "coords": [
+            17.144,
+            60.6755
+          ],
+          "category": "squares",
+          "arrive_at": "09:41",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den engen Gassen mit bunten Holzhäusern.",
+            "hu": "Tévedjen el a színes faházakkal teli szűk utcácskákban!",
+            "ro": "Pierdeți-vă pe străduțele înguste cu case din lemn colorate.",
+            "en": "Get lost in the narrow alleys with colorful wooden houses."
+          }
+        },
+        {
+          "name": {
+            "de": "Joe Hill Museum",
+            "hu": "Joe Hill Múzeum",
+            "ro": "Muzeul Joe Hill",
+            "en": "Joe Hill Museum"
+          },
+          "coords": [
+            17.1445,
+            60.676
+          ],
+          "category": "museums",
+          "arrive_at": "10:43",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Geburtshaus des berühmten Arbeiterführers und Songwriters.",
+            "hu": "A híres munkásvezér és dalszerző szülőháza.",
+            "ro": "Casa natală a faimosului lider muncitor și compozitor.",
+            "en": "The birthplace of the famous labor activist and songwriter."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Heilige Dreifaltigkeit",
+            "hu": "Szentháromság-templom",
+            "ro": "Biserica Sfânta Treime",
+            "en": "Holy Trinity Church"
+          },
+          "coords": [
+            17.14,
+            60.673
+          ],
+          "category": "churches",
+          "arrive_at": "11:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur und die ruhige Atmosphäre.",
+            "hu": "Csodálja meg a lenyűgöző építészetet és a békés légkört.",
+            "ro": "Admirați arhitectura impresionantă și atmosfera liniștită.",
+            "en": "Admire the impressive architecture and the quiet atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Gävle",
+            "hu": "Gävle kastély",
+            "ro": "Castelul Gävle",
+            "en": "Gävle Castle"
+          },
+          "coords": [
+            17.148,
+            60.672
+          ],
+          "category": "castles",
+          "arrive_at": "12:31",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Machen Sie einen Spaziergang im Schlosspark am Fluss Gavleån.",
+            "hu": "Sétáljon egyet a kastélyparkban a Gavleån folyó partján!",
+            "ro": "Faceți o plimbare în parcul castelului de pe malul râului Gavleån.",
+            "en": "Take a walk in the castle park along the Gavleån river."
+          }
+        },
+        {
+          "name": {
+            "de": "Gävle-Bock Standort",
+            "hu": "Gävle-bak helye",
+            "ro": "Locația Caprei Gävle",
+            "en": "Gävle Goat Location"
+          },
+          "coords": [
+            17.1475,
+            60.6725
+          ],
+          "category": "monuments",
+          "arrive_at": "13:43",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besuchen Sie den berühmten Standort der Weihnachtstradition, auch außerhalb der Saison.",
+            "hu": "Látogassa meg a híres karácsonyi hagyomány helyszínét, akár szezonon kívül is!",
+            "ro": "Vizitați locația faimoasei tradiții de Crăciun, chiar și în afara sezonului.",
+            "en": "Visit the famous site of the Christmas tradition, even out of season."
+          }
+        },
+        {
+          "name": {
+            "de": "Boulognerskogen",
+            "hu": "Boulognerskogen park",
+            "ro": "Parcul Boulognerskogen",
+            "en": "Boulognerskogen Park"
+          },
+          "coords": [
+            17.135,
+            60.668
+          ],
+          "category": "parks",
+          "arrive_at": "14:38",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie in Gävles grüner Lunge, ideal für ein Picknick.",
+            "hu": "Pihenjen Gävle zöld tüdejében, ideális egy piknikhez.",
+            "ro": "Relaxați-vă în plămânul verde al orașului Gävle, ideal pentru un picnic.",
+            "en": "Relax in Gävle's green lung, ideal for a picnic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Gävle beginnt am Stortorget, dem pulsierenden Herzen der Stadt. Von dort aus schlendern Sie durch die malerischen Gassen von Gamla Gefle, wo Sie das Joe-Hill-Museum finden. Am Mittag bewundern Sie die architektonische Schönheit der Dreifaltigkeitskirche, bevor Sie das historische Schloss Gävle und den Standort des berühmten Gävle-Bocks erkunden. Der Nachmittag ist der Entspannung im weitläufigen Boulognerskogen gewidmet, Gävles zentralem Park. Der Abend klingt bei einem gemütlichen Spaziergang entlang des Flusses aus, während Sie die Eindrücke des Tages Revue passieren lassen.",
+        "hu": "Gävle-i napja a Stortorgeten, a város lüktető szívében kezdődik. Innen sétáljon végig a Gamla Gefle festői utcáin, ahol a Joe Hill Múzeumot is megtalálja. Délben csodálja meg a Szentháromság-templom építészeti szépségét, majd fedezze fel a történelmi Gävle kastélyt és a híres Gävle-bak helyszínét. A délutánt a tágas Boulognerskogenben, Gävle központi parkjában való pihenésnek szentelheti. Az este egy kellemes folyóparti sétával zárul, miközben felidézi a nap élményeit.",
+        "ro": "Ziua dvs. în Gävle începe la Stortorget, inima vibrantă a orașului. De acolo, vă plimbați pe străzile pitorești din Gamla Gefle, unde veți găsi Muzeul Joe Hill. La prânz, admirați frumusețea arhitecturală a Bisericii Sfânta Treime înainte de a explora istoricul Castel Gävle și locația faimoasei Capre Gävle. După-amiaza este dedicată relaxării în vastul Boulognerskogen, parcul central al orașului Gävle. Seara se încheie cu o plimbare plăcută de-a lungul râului, reamintindu-vă impresiile zilei.",
+        "en": "Your day in Gävle starts at Stortorget, the vibrant heart of the city. From there, stroll through the picturesque streets of Gamla Gefle, where you'll find the Joe Hill Museum. At midday, admire the architectural beauty of the Holy Trinity Church before exploring the historic Gävle Castle and the site of the famous Gävle Goat. The afternoon is dedicated to relaxation in the spacious Boulognerskogen, Gävle's central park. The evening concludes with a pleasant walk along the river, reflecting on the day's impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Köttbullar",
+            "tip": "Probieren Sie die klassischen schwedischen Fleischbällchen im Restaurant 'Matildas Krog'."
+          },
+          {
+            "name": "Gefle-Strömming",
+            "tip": "Eine lokale Spezialität aus mariniertem Hering, oft auf Knäckebrot serviert."
+          },
+          {
+            "name": "Prinsesstårta",
+            "tip": "Gönnen Sie sich ein Stück des berühmten schwedischen Kuchens in einem Café in Gamla Gefle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Köttbullar",
+            "tip": "Kóstolja meg a klasszikus svéd húsgombócokat a 'Matildas Krog' étteremben."
+          },
+          {
+            "name": "Gefle-Strömming",
+            "tip": "Helyi pácolt hering specialitás, gyakran ropogós kenyérrel tálalva."
+          },
+          {
+            "name": "Prinsesstårta",
+            "tip": "Kényeztesse magát egy szelet híres svéd hercegnő tortával egy Gamla Gefle-i kávézóban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Köttbullar",
+            "tip": "Încercați chiftelele suedeze clasice la restaurantul 'Matildas Krog'."
+          },
+          {
+            "name": "Gefle-Strömming",
+            "tip": "O specialitate locală de hering marinat, adesea servită pe pâine crocantă."
+          },
+          {
+            "name": "Prinsesstårta",
+            "tip": "Răsfățați-vă cu o felie din faimosul tort suedez la o cafenea din Gamla Gefle."
+          }
+        ],
+        "en": [
+          {
+            "name": "Köttbullar",
+            "tip": "Try the classic Swedish meatballs at 'Matildas Krog' restaurant."
+          },
+          {
+            "name": "Gefle-Strömming",
+            "tip": "A local specialty of marinated herring, often served on crispbread."
+          },
+          {
+            "name": "Prinsesstårta",
+            "tip": "Treat yourself to a slice of the famous Swedish princess cake in a Gamla Gefle café."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Gavleån",
+            "tip": "Ein friedlicher Spaziergang entlang des Flusses, der durch die Stadt fließt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Boulognerskogen",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die Natur mitten in der Stadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirchhof der Dreifaltigkeitskirche",
+            "tip": "Ein Ort der Stille und Besinnung im Herzen von Gävle.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gavleån folyó partja",
+            "tip": "Békés séta a városon átfolyó folyó mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Boulognerskogen",
+            "tip": "Keressen egy csendes padot, és élvezze a természetet a város közepén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szentháromság-templom kertje",
+            "tip": "A csend és elmélkedés helye Gävle szívében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Gavleån",
+            "tip": "O plimbare liniștită de-a lungul râului care traversează orașul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Boulognerskogen",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de natură în mijlocul orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea Bisericii Sfânta Treime",
+            "tip": "Un loc de liniște și contemplare în inima orașului Gävle.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Gavleån River",
+            "tip": "A peaceful walk along the river that flows through the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Boulognerskogen",
+            "tip": "Find a quiet bench and enjoy nature in the middle of the city.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Holy Trinity Churchyard",
+            "tip": "A place of silence and contemplation in the heart of Gävle.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handwerk in Gamla Gefle",
+            "tip": "Entdecken Sie kleine Boutiquen mit lokalem Kunsthandwerk und Souvenirs."
+          },
+          {
+            "name": "Drottninggatan",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus schwedischen Marken und internationalen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves termékek Gamla Gefle-ben",
+            "tip": "Fedezze fel a helyi kézműves termékeket és ajándéktárgyakat kínáló kis butikokat."
+          },
+          {
+            "name": "Drottninggatan",
+            "tip": "A fő bevásárlóutca svéd márkák és nemzetközi üzletek keverékével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat în Gamla Gefle",
+            "tip": "Descoperiți mici buticuri cu artizanat local și suveniruri."
+          },
+          {
+            "name": "Drottninggatan",
+            "tip": "Principala stradă comercială cu un amestec de mărci suedeze și magazine internaționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crafts in Gamla Gefle",
+            "tip": "Discover small boutiques with local handicrafts and souvenirs."
+          },
+          {
+            "name": "Drottninggatan",
+            "tip": "The main shopping street with a mix of Swedish brands and international stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den größten Teil des Tages zu Fuß unterwegs sein werden.",
+          "Viele Museen in Schweden haben montags geschlossen, überprüfen Sie die Öffnungszeiten.",
+          "Nutzen Sie die „Fika“-Tradition für eine Kaffeepause mit Gebäck am Nachmittag.",
+          "Das Leitungswasser ist von ausgezeichneter Qualität und trinkbar."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a nap nagy részében gyalogolni fog.",
+          "Sok svéd múzeum zárva tart hétfőnként, ellenőrizze a nyitvatartást.",
+          "Élvezze a „Fika” hagyományát egy délutáni kávészünetre süteménnyel.",
+          "A csapvíz kiváló minőségű és iható."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge pe jos cea mai mare parte a zilei.",
+          "Multe muzee din Suedia sunt închise lunea, verificați programul de funcționare.",
+          "Profitați de tradiția „Fika” pentru o pauză de cafea cu produse de patiserie după-amiaza.",
+          "Apa de la robinet este de o calitate excelentă și potabilă."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking for most of the day.",
+          "Many museums in Sweden are closed on Mondays, so check the opening hours.",
+          "Embrace the 'Fika' tradition for a coffee and pastry break in the afternoon.",
+          "The tap water is of excellent quality and is safe to drink."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stortorget & Gamla Gefle",
+            "hu": "Stortorget és Gamla Gefle",
+            "ro": "Stortorget & Gamla Gefle",
+            "en": "Stortorget & Gamla Gefle"
+          },
+          "coords": [
+            17.142,
+            60.675
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und erkunden Sie den Hauptplatz und die Altstadt zu Fuß.",
+            "hu": "Parkolja le a biciklit, és fedezze fel gyalog a főteret és az óvárost.",
+            "ro": "Parcați bicicleta și explorați piața principală și orașul vechi pe jos.",
+            "en": "Park your bike and explore the main square and the old town on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Gävle",
+            "hu": "Gävle kastély",
+            "ro": "Castelul Gävle",
+            "en": "Gävle Castle"
+          },
+          "coords": [
+            17.148,
+            60.672
+          ],
+          "category": "castles",
+          "arrive_at": "10:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht auf den Fluss vom Schlosspark aus.",
+            "hu": "Élvezze a folyóra nyíló kilátást a kastélyparkból.",
+            "ro": "Bucurați-vă de priveliștea asupra râului din parcul castelului.",
+            "en": "Enjoy the view of the river from the castle park."
+          }
+        },
+        {
+          "name": {
+            "de": "Boulognerskogen",
+            "hu": "Boulognerskogen park",
+            "ro": "Parcul Boulognerskogen",
+            "en": "Boulognerskogen Park"
+          },
+          "coords": [
+            17.135,
+            60.668
+          ],
+          "category": "parks",
+          "arrive_at": "11:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause. Es gibt Cafés und viel Platz für ein Picknick.",
+            "hu": "Tökéletes egy ebédszünetre. Vannak kávézók és bőven hely egy piknikhez.",
+            "ro": "Perfect pentru o pauză de prânz. Există cafenele și mult spațiu pentru un picnic.",
+            "en": "Perfect for a lunch break. There are cafes and plenty of space for a picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Gävle Konzerthaus",
+            "hu": "Gävle Koncertterem",
+            "ro": "Sala de Concerte Gävle",
+            "en": "Gävle Concert Hall"
+          },
+          "coords": [
+            17.138,
+            60.671
+          ],
+          "category": "cultural centres",
+          "arrive_at": "13:15",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur direkt am Rande des Parks.",
+            "hu": "Csodálja meg a modern építészetet közvetlenül a park szélén.",
+            "ro": "Admirați arhitectura modernă chiar la marginea parcului.",
+            "en": "Admire the modern architecture right on the edge of the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Schwedisches Eisenbahnmuseum",
+            "hu": "Svéd Vasúti Múzeum",
+            "ro": "Muzeul Căilor Ferate Suedeze",
+            "en": "Swedish Railway Museum"
+          },
+          "coords": [
+            17.165,
+            60.665
+          ],
+          "category": "museums",
+          "arrive_at": "13:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein Muss für Technikbegeisterte mit einer riesigen Sammlung von Zügen.",
+            "hu": "Technika-rajongóknak kötelező, hatalmas vonatgyűjteménnyel.",
+            "ro": "O necesitate pentru pasionații de tehnologie, cu o colecție uriașă de trenuri.",
+            "en": "A must-see for technology enthusiasts with a huge collection of trains."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum",
+            "hu": "Vissza a központba",
+            "ro": "Întoarcere în centru",
+            "en": "Return to the Center"
+          },
+          "coords": [
+            17.1415,
+            60.6745
+          ],
+          "category": "squares",
+          "arrive_at": "16:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Abendessen oder einem Drink in Gamla Gefle.",
+            "hu": "Zárja a napot egy vacsorával vagy egy itallal a Gamla Gefle-ben.",
+            "ro": "Încheiați ziua cu o cină sau o băutură în Gamla Gefle.",
+            "en": "End the day with dinner or a drink in Gamla Gefle."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag mit der Erkundung des Zentrums, von Stortorget bis Gamla Gefle. Weiter geht es zum Schloss Gävle für einen Hauch von Geschichte. Gegen Mittag radeln Sie zum riesigen Boulognerskogen-Park für eine wohlverdiente Pause und bewundern das nahegelegene Konzerthaus. Der Nachmittag ist dem faszinierenden Eisenbahnmuseum gewidmet, das nur eine kurze Radtour entfernt liegt. Am Abend kehren Sie ins Zentrum zurück und genießen die entspannte Atmosphäre der Stadt bei Sonnenuntergang.",
+        "hu": "Kezdje a biciklis napot a központ felfedezésével, a Stortorget-től a Gamla Gefle-ig. Tekerjen tovább a Gävle kastélyhoz egy kis történelmi ízelítőért. Dél körül irány a hatalmas Boulognerskogen park egy jól megérdemelt pihenőre, és csodálja meg a közeli koncerttermet. A délutánt a lenyűgöző Vasúti Múzeumnak szentelheti, amely csak egy rövid bicikliútra van. Este térjen vissza a központba, és élvezze a város nyugodt hangulatát naplementekor.",
+        "ro": "Începeți-vă ziua pe bicicletă explorând centrul, de la Stortorget la Gamla Gefle. Continuați spre Castelul Gävle pentru o doză de istorie. Spre prânz, pedalați spre imensul parc Boulognerskogen pentru o pauză binemeritată și admirați Sala de Concerte din apropiere. După-amiaza este dedicată fascinantului Muzeu al Căilor Ferate, la o scurtă plimbare cu bicicleta. Seara, întoarceți-vă în centru și bucurați-vă de atmosfera relaxată a orașului la apus.",
+        "en": "Start your cycling day by exploring the center, from Stortorget to Gamla Gefle. Continue to Gävle Castle for a touch of history. Around noon, pedal to the huge Boulognerskogen park for a well-deserved break and admire the nearby Concert Hall. The afternoon is dedicated to the fascinating Railway Museum, just a short bike ride away. In the evening, return to the center and enjoy the city's relaxed atmosphere at sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Våfflor",
+            "tip": "Probieren Sie schwedische Waffeln mit Marmelade und Sahne in einem Parkcafé."
+          },
+          {
+            "name": "Räksmörgås",
+            "tip": "Ein klassisches offenes Sandwich mit Garnelen, perfekt für ein leichtes Mittagessen."
+          },
+          {
+            "name": "Verkstan Restaurang",
+            "tip": "Ein beliebtes Restaurant mit moderner schwedischer Küche in der Nähe des Zentrums."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Våfflor",
+            "tip": "Kóstolja meg a svéd gofrit lekvárral és tejszínnel egy parki kávézóban."
+          },
+          {
+            "name": "Räksmörgås",
+            "tip": "Klasszikus nyitott szendvics garnélával, tökéletes egy könnyű ebédhez."
+          },
+          {
+            "name": "Verkstan Restaurang",
+            "tip": "Népszerű étterem modern svéd konyhával a központ közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Våfflor",
+            "tip": "Încercați vafele suedeze cu gem și smântână la o cafenea din parc."
+          },
+          {
+            "name": "Räksmörgås",
+            "tip": "Un sandviș deschis clasic cu creveți, perfect pentru un prânz ușor."
+          },
+          {
+            "name": "Verkstan Restaurang",
+            "tip": "Un restaurant popular cu bucătărie suedeză modernă, aproape de centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Våfflor",
+            "tip": "Try Swedish waffles with jam and cream at a park cafe."
+          },
+          {
+            "name": "Räksmörgås",
+            "tip": "A classic open-faced shrimp sandwich, perfect for a light lunch."
+          },
+          {
+            "name": "Verkstan Restaurang",
+            "tip": "A popular restaurant with modern Swedish cuisine near the center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Gavleån",
+            "tip": "Folgen Sie dem Radweg entlang des Flusses für eine ruhige und landschaftlich reizvolle Fahrt.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Botanischer Garten im Boulognerskogen",
+            "tip": "Ein verstecktes Juwel im Park, perfekt für eine ruhige Pause.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Aussicht vom Eisenbahnmuseum",
+            "tip": "Bietet einen unerwarteten Panoramablick über die Umgebung.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bicikliút a Gavleån mentén",
+            "tip": "Kövesse a folyó menti kerékpárutat egy csendes és festői útvonalért.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Botanikus kert a Boulognerskogenben",
+            "tip": "Rejtett gyöngyszem a parkban, tökéletes egy csendes pihenőhöz.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Kilátás a Vasúti Múzeumból",
+            "tip": "Váratlan panorámát kínál a környékre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de pe malul Gavleån",
+            "tip": "Urmați pista de biciclete de-a lungul râului pentru o plimbare liniștită și pitorească.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Grădina Botanică din Boulognerskogen",
+            "tip": "O bijuterie ascunsă în parc, perfectă pentru o pauză liniștită.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Vedere de la Muzeul Căilor Ferate",
+            "tip": "Oferă o panoramă neașteptată asupra zonei înconjurătoare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gavleån River Bike Path",
+            "tip": "Follow the bike path along the river for a quiet and scenic ride.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Botanical Garden in Boulognerskogen",
+            "tip": "A hidden gem within the park, perfect for a quiet break.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "View from the Railway Museum",
+            "tip": "Offers an unexpected panoramic view of the surrounding area.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "In Gävle gibt es mehrere gut sortierte Fahrradläden für Zubehör oder Reparaturen."
+          },
+          {
+            "name": "Markthalle (Saluhall)",
+            "tip": "Stellen Sie Ihr Fahrrad ab und entdecken Sie lokale Delikatessen und Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Gävle-ben több jól felszerelt kerékpárbolt is található kiegészítőkért vagy javításokért."
+          },
+          {
+            "name": "Vásárcsarnok (Saluhall)",
+            "tip": "Tegye le a biciklit, és fedezze fel a helyi finomságokat és termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Gävle are mai multe magazine de biciclete bine aprovizionate pentru accesorii sau reparații."
+          },
+          {
+            "name": "Piața acoperită (Saluhall)",
+            "tip": "Lăsați bicicleta și descoperiți delicatese și produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "Gävle has several well-stocked bike shops for accessories or repairs."
+          },
+          {
+            "name": "Market Hall (Saluhall)",
+            "tip": "Park your bike and discover local delicacies and produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad an einer der vielen Stationen in der Stadt.",
+          "Gävle ist sehr fahrradfreundlich mit vielen ausgewiesenen Radwegen.",
+          "Tragen Sie einen Helm und schließen Sie Ihr Fahrrad immer gut ab.",
+          "Achten Sie auf Fußgänger in den autofreien Zonen der Innenstadt."
+        ],
+        "hu": [
+          "Béreljen kerékpárt a város számos állomásának egyikén.",
+          "Gävle nagyon kerékpárbarát, számos kijelölt kerékpárúttal.",
+          "Viseljen sisakot, és mindig gondosan zárja le a kerékpárját.",
+          "Vigyázzon a gyalogosokra a belváros autómentes övezeteiben."
+        ],
+        "ro": [
+          "Închiriați o bicicletă de la una dintre numeroasele stații din oraș.",
+          "Gävle este foarte prietenos cu bicicletele, cu multe piste dedicate.",
+          "Purtați cască și asigurați-vă întotdeauna bicicleta corespunzător.",
+          "Fiți atenți la pietoni în zonele fără mașini din centrul orașului."
+        ],
+        "en": [
+          "Rent a bike from one of the many stations around the city.",
+          "Gävle is very bike-friendly with many dedicated cycle paths.",
+          "Wear a helmet and always lock your bike securely.",
+          "Be mindful of pedestrians in the car-free zones of the city center."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 42.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Altstadt Gävle",
+            "hu": "1. klaszter: Gävle óvárosa",
+            "ro": "Cluster 1: Orașul Vechi Gävle",
+            "en": "Cluster 1: Gävle Old Town"
+          },
+          "coords": [
+            17.142,
+            60.675
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus 'P-hus Flanör' und beginnen Sie Ihren Rundgang am Stortorget.",
+            "hu": "Parkoljon a 'P-hus Flanör' parkolóházban, és kezdje a sétát a Stortorget-en.",
+            "ro": "Parcați în parcarea 'P-hus Flanör' și începeți turul pietonal la Stortorget.",
+            "en": "Park in the 'P-hus Flanör' parking garage and start your walking tour at Stortorget."
+          }
+        },
+        {
+          "name": {
+            "de": "Gamla Gefle & Joe Hill Museum",
+            "hu": "Gamla Gefle és Joe Hill Múzeum",
+            "ro": "Gamla Gefle & Muzeul Joe Hill",
+            "en": "Gamla Gefle & Joe Hill Museum"
+          },
+          "coords": [
+            17.144,
+            60.6755
+          ],
+          "category": "museums",
+          "arrive_at": "09:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die Gassen und besuchen Sie das Museum im Herzen der Altstadt.",
+            "hu": "Sétáljon végig az utcákon, és látogasson el a múzeumba az óváros szívében.",
+            "ro": "Plimbați-vă pe alei și vizitați muzeul din inima orașului vechi.",
+            "en": "Stroll through the alleys and visit the museum in the heart of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Gävle & Kirche",
+            "hu": "Gävle kastély és templom",
+            "ro": "Castelul Gävle & Biserica",
+            "en": "Gävle Castle & Church"
+          },
+          "coords": [
+            17.148,
+            60.672
+          ],
+          "category": "castles",
+          "arrive_at": "11:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang führt Sie zum Schloss und zur nahegelegenen Dreifaltigkeitskirche.",
+            "hu": "Egy rövid séta elvezeti a kastélyhoz és a közeli Szentháromság-templomhoz.",
+            "ro": "O scurtă plimbare vă duce la castel și la Biserica Sfânta Treime din apropiere.",
+            "en": "A short walk takes you to the castle and the nearby Holy Trinity Church."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Schwedisches Eisenbahnmuseum",
+            "hu": "2. klaszter: Svéd Vasúti Múzeum",
+            "ro": "Cluster 2: Muzeul Căilor Ferate Suedeze",
+            "en": "Cluster 2: Swedish Railway Museum"
+          },
+          "coords": [
+            17.165,
+            60.665
+          ],
+          "category": "museums",
+          "arrive_at": "12:53",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Museum und planen Sie genügend Zeit ein, um die riesige Sammlung zu sehen.",
+            "hu": "Vezessen el a múzeumhoz, és szánjon elegendő időt a hatalmas gyűjtemény megtekintésére.",
+            "ro": "Conduceți la muzeu și alocați suficient timp pentru a vedea colecția uriașă.",
+            "en": "Drive to the museum and allow plenty of time to see the huge collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Furuviksparken",
+            "hu": "3. klaszter: Furuviksparken",
+            "ro": "Cluster 3: Parcul Furuvik",
+            "en": "Cluster 3: Furuviksparken Park"
+          },
+          "coords": [
+            17.35,
+            60.65
+          ],
+          "category": "parks",
+          "arrive_at": "15:58",
+          "stay_min": 210,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 19,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Der Höhepunkt des Tages: ein großer Vergnügungs- und Tierpark am Meer.",
+            "hu": "A nap fénypontja: egy nagy vidám- és állatpark a tenger mellett.",
+            "ro": "Punctul culminant al zilei: un mare parc de distracții și zoo lângă mare.",
+            "en": "The highlight of the day: a large amusement and animal park by the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt im Herzen von Gävle. Parken Sie zentral und erkunden Sie zu Fuß die Altstadt, das Joe-Hill-Museum, das Schloss und die Kirche. Dies ist Ihr erster Spaziergang-Cluster. Am frühen Nachmittag fahren Sie zum zweiten Cluster, dem beeindruckenden schwedischen Eisenbahnmuseum. Der Höhepunkt des Tages ist die Fahrt zum dritten Cluster, dem Furuviksparken, einem großen Vergnügungspark am Meer, wo Sie den Rest des Nachmittags und den frühen Abend verbringen. Die Rückfahrt ins Hotel beschließt einen erlebnisreichen Tag.",
+        "hu": "Autós napja Gävle szívében kezdődik. Parkoljon le a központban, és fedezze fel gyalog az óvárost, a Joe Hill Múzeumot, a kastélyt és a templomot. Ez az első gyalogos klaszter. Kora délután vezessen át a második klaszterhez, a lenyűgöző Svéd Vasúti Múzeumhoz. A nap fénypontja a harmadik klaszterhez, a tengerparti Furuviksparken vidámparkhoz való autózás, ahol a délután hátralévő részét és a kora estét tölti. A szállodába való visszatérés zárja az eseménydús napot.",
+        "ro": "Ziua cu mașina începe în inima orașului Gävle. Parcați central și explorați pe jos orașul vechi, Muzeul Joe Hill, castelul și biserica. Acesta este primul dvs. cluster de mers pe jos. La începutul după-amiezii, conduceți spre al doilea cluster, impresionantul Muzeu al Căilor Ferate Suedeze. Punctul culminant al zilei este călătoria cu mașina spre al treilea cluster, Furuviksparken, un mare parc de distracții pe malul mării, unde veți petrece restul după-amiezii și începutul serii. Întoarcerea la hotel încheie o zi plină de evenimente.",
+        "en": "Your car day starts in the heart of Gävle. Park centrally and explore the old town, the Joe Hill Museum, the castle, and the church on foot. This is your first walking cluster. In the early afternoon, drive to the second cluster, the impressive Swedish Railway Museum. The highlight of the day is the drive to the third cluster, Furuviksparken, a large seaside amusement park, where you'll spend the rest of the afternoon and early evening. The drive back to your hotel concludes an eventful day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fischrestaurant im Furuviksparken",
+            "tip": "Genießen Sie frischen Fisch mit Blick auf das Meer."
+          },
+          {
+            "name": "Picknick im Boulognerskogen",
+            "tip": "Kaufen Sie lokale Produkte und genießen Sie ein Mittagessen im Freien, bevor Sie weiterfahren."
+          },
+          {
+            "name": "Hantverksbageriet",
+            "tip": "Holen Sie sich morgens frisches Gebäck für die Fahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halétterem a Furuviksparkenben",
+            "tip": "Élvezze a friss halat tengerre néző kilátással."
+          },
+          {
+            "name": "Piknik a Boulognerskogenben",
+            "tip": "Vásároljon helyi termékeket, és ebédeljen a szabadban, mielőtt továbbhajt."
+          },
+          {
+            "name": "Hantverksbageriet",
+            "tip": "Szerezzen be reggel friss péksüteményt az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant cu pește în Furuviksparken",
+            "tip": "Bucurați-vă de pește proaspăt cu vedere la mare."
+          },
+          {
+            "name": "Picnic în Boulognerskogen",
+            "tip": "Cumpărați produse locale și bucurați-vă de un prânz în aer liber înainte de a merge mai departe."
+          },
+          {
+            "name": "Hantverksbageriet",
+            "tip": "Luați produse de patiserie proaspete dimineața pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish restaurant in Furuviksparken",
+            "tip": "Enjoy fresh fish with a view of the sea."
+          },
+          {
+            "name": "Picnic in Boulognerskogen",
+            "tip": "Buy local produce and enjoy lunch outdoors before you drive on."
+          },
+          {
+            "name": "Hantverksbageriet",
+            "tip": "Get fresh pastries in the morning for the road."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Küste bei Furuvik",
+            "tip": "Finden Sie einen ruhigen Ort an der Küste außerhalb des Parks.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Schlosspark Gävle",
+            "tip": "Ein letzter ruhiger Moment im Stadtzentrum vor der Abfahrt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Fahrt entlang der Küstenstraße",
+            "tip": "Die Straße zum Furuviksparken bietet einige schöne Ausblicke.",
+            "emoji": "🚗"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tengerpart Furuvik közelében",
+            "tip": "Keressen egy csendes helyet a tengerparton a parkon kívül.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gävle kastélypark",
+            "tip": "Egy utolsó csendes pillanat a városközpontban indulás előtt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Autózás a tengerparti úton",
+            "tip": "A Furuviksparkenbe vezető út néhány gyönyörű kilátást kínál.",
+            "emoji": "🚗"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Coasta de lângă Furuvik",
+            "tip": "Găsiți un loc liniștit pe coastă, în afara parcului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Castelului Gävle",
+            "tip": "Un ultim moment de liniște în centrul orașului înainte de plecare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Drumul de coastă",
+            "tip": "Drumul spre Furuviksparken oferă câteva priveliști frumoase.",
+            "emoji": "🚗"
+          }
+        ],
+        "en": [
+          {
+            "name": "Coast near Furuvik",
+            "tip": "Find a quiet spot on the coast outside the park.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gävle Castle Park",
+            "tip": "A final quiet moment in the city center before you leave.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Drive along the coastal road",
+            "tip": "The road to Furuviksparken offers some beautiful views.",
+            "emoji": "🚗"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Valbo Köpcentrum",
+            "tip": "Ein großes Einkaufszentrum außerhalb der Stadt, leicht mit dem Auto zu erreichen."
+          },
+          {
+            "name": "Hofläden auf dem Land",
+            "tip": "Halten Sie Ausschau nach Schildern für 'Gårdsbutik', um lokale Produkte direkt vom Bauernhof zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Valbo Köpcentrum",
+            "tip": "Nagy bevásárlóközpont a városon kívül, autóval könnyen megközelíthető."
+          },
+          {
+            "name": "Tanyasi boltok vidéken",
+            "tip": "Keresse a 'Gårdsbutik' táblákat, hogy helyi termékeket vásároljon közvetlenül a gazdaságból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Valbo Köpcentrum",
+            "tip": "Un centru comercial mare în afara orașului, ușor accesibil cu mașina."
+          },
+          {
+            "name": "Magazine la fermă",
+            "tip": "Fiți atenți la indicatoarele 'Gårdsbutik' pentru a cumpăra produse locale direct de la fermă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Valbo Köpcentrum",
+            "tip": "A large shopping center outside the city, easily accessible by car."
+          },
+          {
+            "name": "Farm shops in the countryside",
+            "tip": "Look out for 'Gårdsbutik' signs to buy local produce directly from the farm."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Parkgebühren und -zeiten, da das Parken im Zentrum teuer sein kann.",
+          "Planen Sie Ihre Route mit einem GPS, um sich in der Stadt und auf dem Land zurechtzufinden.",
+          "Kaufen Sie Tickets für Furuviksparken online im Voraus, um Warteschlangen zu vermeiden.",
+          "Tanken Sie, bevor Sie die Stadt verlassen, wenn Sie längere Strecken planen."
+        ],
+        "hu": [
+          "Ellenőrizze a parkolási díjakat és időket, mivel a központi parkolás drága lehet.",
+          "Tervezze meg az útvonalat GPS-szel a városban és vidéken való tájékozódáshoz.",
+          "Vásároljon jegyet a Furuviksparkenbe előre online, hogy elkerülje a sorban állást.",
+          "Tankoljon, mielőtt elhagyja a várost, ha hosszabb utakat tervez."
+        ],
+        "ro": [
+          "Verificați taxele și orele de parcare, deoarece parcarea în centru poate fi costisitoare.",
+          "Planificați-vă ruta cu un GPS pentru a naviga prin oraș și la țară.",
+          "Cumpărați bilete pentru Furuviksparken online în avans pentru a evita cozile.",
+          "Alimentați cu combustibil înainte de a părăsi orașul dacă planificați călătorii mai lungi."
+        ],
+        "en": [
+          "Check parking fees and times, as city center parking can be expensive.",
+          "Plan your route with a GPS to navigate the city and countryside.",
+          "Buy tickets for Furuviksparken online in advance to avoid queues.",
+          "Fill up with gas before leaving the city if you plan longer drives."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Ankunft am Stortorget",
+            "hu": "1. klaszter: Érkezés a Stortorget-re",
+            "ro": "Cluster 1: Sosire la Stortorget",
+            "en": "Cluster 1: Arrival at Stortorget"
+          },
+          "coords": [
+            17.1415,
+            60.6745
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zur Haltestelle 'Rådhuset' und beginnen Sie den Tag.",
+            "hu": "Menjen busszal a 'Rådhuset' megállóig, és kezdje a napot.",
+            "ro": "Luați un autobuz până la stația 'Rådhuset' și începeți ziua.",
+            "en": "Take a bus to the 'Rådhuset' stop and start your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Gamla Gefle",
+            "hu": "Gamla Gefle",
+            "ro": "Gamla Gefle",
+            "en": "Gamla Gefle"
+          },
+          "coords": [
+            17.144,
+            60.6755
+          ],
+          "category": "squares",
+          "arrive_at": "09:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Von Stortorget aus ist es nur ein kurzer Spaziergang in die Altstadt.",
+            "hu": "A Stortorget-től csak egy rövid séta az óváros.",
+            "ro": "Este doar o scurtă plimbare de la Stortorget la orașul vechi.",
+            "en": "It's just a short walk from Stortorget to the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Gävle",
+            "hu": "Gävle kastély",
+            "ro": "Castelul Gävle",
+            "en": "Gävle Castle"
+          },
+          "coords": [
+            17.148,
+            60.672
+          ],
+          "category": "castles",
+          "arrive_at": "10:36",
+          "stay_min": 50,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Überqueren Sie den Fluss, um zum Schloss und seinem Park zu gelangen.",
+            "hu": "Keresztezze a folyót, hogy eljusson a kastélyhoz és a parkjához.",
+            "ro": "Traversați râul pentru a ajunge la castel și parcul său.",
+            "en": "Cross the river to get to the castle and its park."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Boulognerskogen",
+            "hu": "2. klaszter: Boulognerskogen",
+            "ro": "Cluster 2: Boulognerskogen",
+            "en": "Cluster 2: Boulognerskogen"
+          },
+          "coords": [
+            17.135,
+            60.668
+          ],
+          "category": "parks",
+          "arrive_at": "11:42",
+          "stay_min": 90,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.7,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus von der 'Söderbron' Haltestelle zum Park.",
+            "hu": "Menjen busszal a 'Söderbron' megállótól a parkba.",
+            "ro": "Luați un autobuz de la stația 'Söderbron' până la parc.",
+            "en": "Take a bus from the 'Söderbron' stop to the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Gävle Konzerthaus",
+            "hu": "Gävle Koncertterem",
+            "ro": "Sala de Concerte Gävle",
+            "en": "Gävle Concert Hall"
+          },
+          "coords": [
+            17.138,
+            60.671
+          ],
+          "category": "cultural centres",
+          "arrive_at": "13:16",
+          "stay_min": 20,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Am nördlichen Ende des Parks gelegen, ein kurzer Spaziergang.",
+            "hu": "A park északi végén található, egy rövid sétára.",
+            "ro": "Situat la capătul nordic al parcului, la o scurtă plimbare.",
+            "en": "Located at the northern end of the park, a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Schwedisches Eisenbahnmuseum",
+            "hu": "3. klaszter: Svéd Vasúti Múzeum",
+            "ro": "Cluster 3: Muzeul Căilor Ferate Suedeze",
+            "en": "Cluster 3: Swedish Railway Museum"
+          },
+          "coords": [
+            17.165,
+            60.665
+          ],
+          "category": "museums",
+          "arrive_at": "14:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 3.6,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus der Linie 3 in Richtung 'Sörby Urfjäll'.",
+            "hu": "Menjen a 3-as busszal a 'Sörby Urfjäll' irányába.",
+            "ro": "Luați autobuzul linia 3 spre 'Sörby Urfjäll'.",
+            "en": "Take bus line 3 towards 'Sörby Urfjäll'."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum",
+            "hu": "Vissza a központba",
+            "ro": "Întoarcere în centru",
+            "en": "Return to the Center"
+          },
+          "coords": [
+            17.1415,
+            60.6745
+          ],
+          "category": "squares",
+          "arrive_at": "16:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück ins Zentrum für ein wohlverdientes Abendessen.",
+            "hu": "Menjen vissza busszal a központba egy jól megérdemelt vacsorára.",
+            "ro": "Luați autobuzul înapoi în centru pentru o cină binemeritată.",
+            "en": "Take the bus back to the center for a well-deserved dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt im Zentrum, wo Sie den ersten Cluster aus Altstadt und Schloss zu Fuß erkunden. Ein kurzer Bus-Hop bringt Sie dann zum zweiten Cluster, dem Boulognerskogen-Park und dem Konzerthaus, ideal für eine Mittagspause im Grünen. Am Nachmittag bringt Sie eine weitere Busfahrt zum dritten Cluster, dem faszinierenden Eisenbahnmuseum. Am Ende des Tages kehren Sie bequem mit dem Bus ins Stadtzentrum zurück, um den Abend in einem der vielen Restaurants ausklingen zu lassen.",
+        "hu": "Tömegközlekedéssel töltött napja a központban kezdődik, ahol gyalogosan fedezi fel az első klasztert, az óvárost és a kastélyt. Egy rövid buszozás után a második klaszterhez, a Boulognerskogen parkhoz és a koncertteremhez érkezik, amely ideális egy zöldben eltöltött ebédszünethez. Délután egy újabb buszút viszi a harmadik klaszterhez, a lenyűgöző Vasúti Múzeumhoz. A nap végén kényelmesen visszatérhet busszal a városközpontba, hogy az estét a számos étterem egyikében zárja.",
+        "ro": "Ziua dvs. cu transportul public începe în centru, unde explorați pe jos primul cluster format din orașul vechi și castel. O scurtă călătorie cu autobuzul vă duce apoi la al doilea cluster, parcul Boulognerskogen și Sala de Concerte, ideal pentru o pauză de prânz în natură. După-amiaza, o altă călătorie cu autobuzul vă duce la al treilea cluster, fascinantul Muzeu al Căilor Ferate. La sfârșitul zilei, vă întoarceți confortabil cu autobuzul în centrul orașului pentru a încheia seara la unul dintre multele restaurante.",
+        "en": "Your day on public transport begins in the center, where you'll explore the first cluster of the old town and castle on foot. A short bus hop then takes you to the second cluster, Boulognerskogen park and the Concert Hall, ideal for a lunch break in the green. In the afternoon, another bus ride takes you to the third cluster, the fascinating Railway Museum. At the end of the day, you'll comfortably return to the city center by bus to end the evening in one of the many restaurants."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gasklockorna Street Food",
+            "tip": "Prüfen Sie, ob in der Nähe des Eisenbahnmuseums Street-Food-Märkte stattfinden."
+          },
+          {
+            "name": "Café i Boulognerskogen",
+            "tip": "Ein charmantes Café im Park für eine Fika-Pause."
+          },
+          {
+            "name": "Brända Bocken",
+            "tip": "Ein bekanntes Restaurant am Stortorget, perfekt für das Abendessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gasklockorna Street Food",
+            "tip": "Ellenőrizze, hogy vannak-e street food piacok a Vasúti Múzeum közelében."
+          },
+          {
+            "name": "Café i Boulognerskogen",
+            "tip": "Bájos kávézó a parkban egy Fika szünetre."
+          },
+          {
+            "name": "Brända Bocken",
+            "tip": "Ismert étterem a Stortorget-en, tökéletes vacsorához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gasklockorna Street Food",
+            "tip": "Verificați dacă există piețe de street food lângă Muzeul Căilor Ferate."
+          },
+          {
+            "name": "Café i Boulognerskogen",
+            "tip": "O cafenea fermecătoare în parc pentru o pauză Fika."
+          },
+          {
+            "name": "Brända Bocken",
+            "tip": "Un restaurant renumit în Stortorget, perfect pentru cină."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gasklockorna Street Food",
+            "tip": "Check for street food markets near the Railway Museum."
+          },
+          {
+            "name": "Café i Boulognerskogen",
+            "tip": "A charming café in the park for a Fika break."
+          },
+          {
+            "name": "Brända Bocken",
+            "tip": "A well-known restaurant in Stortorget, perfect for dinner."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fensterplatz im Bus",
+            "tip": "Genießen Sie die Stadtansichten während der Fahrt zwischen den Clustern.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Leseecke in der Stadtbibliothek",
+            "tip": "In der Nähe des Konzerthauses, ein warmer Ort an kühlen Tagen.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Alte Friedhof (Gamla Kyrkogården)",
+            "tip": "Ein historischer und ruhiger Ort, nicht weit vom Zentrum entfernt.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ablak melletti ülés a buszon",
+            "tip": "Élvezze a város látképét a klaszterek közötti utazás során.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Olvasósarok a Városi Könyvtárban",
+            "tip": "A koncertterem közelében, meleg hely a hűvös napokon.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Régi temető (Gamla Kyrkogården)",
+            "tip": "Történelmi és csendes hely, nem messze a központtól.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Loc la fereastră în autobuz",
+            "tip": "Bucurați-vă de priveliștile orașului în timp ce călătoriți între clustere.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Colț de lectură la Biblioteca Municipală",
+            "tip": "Aproape de Sala de Concerte, un loc cald în zilele răcoroase.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Cimitirul Vechi (Gamla Kyrkogården)",
+            "tip": "Un loc istoric și liniștit, nu departe de centru.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Window seat on the bus",
+            "tip": "Enjoy the city views while travelling between clusters.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Reading corner in the City Library",
+            "tip": "Near the Concert Hall, a warm place on cool days.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Old Cemetery (Gamla Kyrkogården)",
+            "tip": "A historic and quiet place not far from the center.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsshop des Eisenbahnmuseums",
+            "tip": "Einzigartige Souvenirs und Geschenke für Zugliebhaber."
+          },
+          {
+            "name": "Söderbönor & Sån't",
+            "tip": "Ein Spezialitätengeschäft im Söder-Viertel, leicht mit dem Bus zu erreichen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vasúti Múzeum boltja",
+            "tip": "Egyedi ajándéktárgyak és ajándékok a vonatrajongók számára."
+          },
+          {
+            "name": "Söderbönor & Sån't",
+            "tip": "Különleges bolt a Söder negyedben, busszal könnyen megközelíthető."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Muzeului Căilor Ferate",
+            "tip": "Suveniruri și cadouri unice pentru pasionații de trenuri."
+          },
+          {
+            "name": "Söderbönor & Sån't",
+            "tip": "Un magazin de specialități în cartierul Söder, ușor accesibil cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Railway Museum Shop",
+            "tip": "Unique souvenirs and gifts for train lovers."
+          },
+          {
+            "name": "Söderbönor & Sån't",
+            "tip": "A specialty shop in the Söder district, easily reached by bus."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine 24-Stunden-Karte (Dygnsbiljett) für unbegrenzte Fahrten.",
+          "Laden Sie die X-trafik-App herunter, um Fahrpläne und Routen in Echtzeit zu sehen.",
+          "Die meisten Busse sind bargeldlos, also haben Sie eine Kreditkarte oder die App bereit.",
+          "Beachten Sie, dass Busse an Haltestellen nur anhalten, wenn Sie den Stopp-Knopf drücken."
+        ],
+        "hu": [
+          "Vásároljon 24 órás jegyet (Dygnsbiljett) a korlátlan utazáshoz.",
+          "Töltse le az X-trafik alkalmazást a valós idejű menetrendekhez és útvonalakhoz.",
+          "A legtöbb busz készpénzmentes, ezért legyen kéznél hitelkártya vagy az alkalmazás.",
+          "Ne feledje, hogy a buszok csak akkor állnak meg a megállókban, ha megnyomja a stop gombot."
+        ],
+        "ro": [
+          "Cumpărați un bilet de 24 de ore (Dygnsbiljett) pentru călătorii nelimitate.",
+          "Descărcați aplicația X-trafik pentru orare și rute în timp real.",
+          "Majoritatea autobuzelor nu acceptă numerar, așa că aveți la îndemână un card de credit sau aplicația.",
+          "Rețineți că autobuzele opresc în stații doar dacă apăsați butonul de oprire."
+        ],
+        "en": [
+          "Buy a 24-hour ticket (Dygnsbiljett) for unlimited travel.",
+          "Download the X-trafik app for real-time schedules and routes.",
+          "Most buses are cashless, so have a credit card or the app ready.",
+          "Note that buses only stop at bus stops if you press the stop button."
+        ]
+      }
+    }
+  }
+}

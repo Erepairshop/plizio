@@ -1,0 +1,1449 @@
+{
+  "city_id": "balatonfoldvar",
+  "anchor": {
+    "name": "Balatonföldvár",
+    "coords": [
+      17.8833,
+      46.85
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:35",
+      "total_km": 3.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Hl. Kreuz Kirche",
+          "coords": [
+            17.882,
+            46.847
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die farbenfrohen Glasfenster der Kirche.",
+            "hu": "Figyelje meg a templom színes üvegablakait.",
+            "ro": "Admirați vitraliile colorate ale bisericii.",
+            "en": "Look out for the colorful stained glass windows of the church."
+          }
+        },
+        {
+          "name": "Jubiläumspark",
+          "coords": [
+            17.883,
+            46.851
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekt für eine kleine Pause im Schatten alter Bäume.",
+            "hu": "Tökéletes helyszín egy kis pihenésre az öreg fák árnyékában.",
+            "ro": "Perfect pentru o scurtă pauză la umbra copacilor bătrâni.",
+            "en": "Perfect for a short break in the shade of old trees."
+          }
+        },
+        {
+          "name": "Kulipintyó",
+          "coords": [
+            17.878,
+            46.85
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie diese historische Residenz des berühmten Zsigmond Széchenyi.",
+            "hu": "Fedezze fel Széchenyi Zsigmond híres egykori villáját.",
+            "ro": "Explorați această fostă reședință a faimosului Zsigmond Széchenyi.",
+            "en": "Explore this historic former residence of the famous Zsigmond Széchenyi."
+          }
+        },
+        {
+          "name": "Besucherzentrum für Schifffahrtsgeschichte",
+          "coords": [
+            17.876,
+            46.848
+          ],
+          "category": "museums",
+          "arrive_at": "12:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein interaktives Museum zur Geschichte der Schifffahrt am Plattensee.",
+            "hu": "Interaktív múzeum a balatoni hajózás történetéről.",
+            "ro": "Un muzeu interactiv despre istoria navigației pe Lacul Balaton.",
+            "en": "An interactive museum about the history of shipping on Lake Balaton."
+          }
+        },
+        {
+          "name": "Sternwarten-Hügel (Hajózástörténeti Kilátó)",
+          "coords": [
+            17.876,
+            46.848
+          ],
+          "category": "natural features",
+          "arrive_at": "14:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Blick über den Plattensee von oben.",
+            "hu": "Élvezze a lenyűgöző panorámát a Balatonra a magasból.",
+            "ro": "Bucurați-vă de o panoramă largă a Lacului Balaton de sus.",
+            "en": "Enjoy the expansive view over Lake Balaton from the top."
+          }
+        },
+        {
+          "name": "Kvassay-Promenade",
+          "coords": [
+            17.88,
+            46.853
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang des von Platanen gesäumten Ufers.",
+            "hu": "Sétáljon egyet a gyönyörű platánsorral övezett parton.",
+            "ro": "Plimbați-vă de-a lungul malului mărginit de platani.",
+            "en": "Take a stroll along the shore lined with plane trees."
+          }
+        },
+        {
+          "name": "Yacht-Hafen",
+          "coords": [
+            17.882,
+            46.854
+          ],
+          "category": "port",
+          "arrive_at": "16:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beobachten Sie die einlaufenden Boote in der späten Nachmittagssonne.",
+            "hu": "Figyelje meg a kikötő hajókat a késő délutáni napsütésben.",
+            "ro": "Urmăriți bărcile care sosesc în lumina soarelui de după-amiază târziu.",
+            "en": "Watch the arriving boats in the late afternoon sun."
+          }
+        },
+        {
+          "name": "Galambsziget (Taubeninsel)",
+          "coords": [
+            17.885,
+            46.854
+          ],
+          "category": "island",
+          "arrive_at": "17:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein idyllischer Ort, um den Tag am Wasser ausklingen zu lassen.",
+            "hu": "Idilli helyszín a nap zárására közvetlenül a vízparton.",
+            "ro": "Un loc idilic pentru a încheia ziua direct la marginea apei.",
+            "en": "An idyllic spot to end your day right by the water's edge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Balatonföldvár beginnt ruhig bei der Heilig-Kreuz-Kirche, gefolgt von einem entspannten Spaziergang durch den Jubiläumspark. Gegen Mittag tauchen Sie in die Geschichte ein und erkunden das historische Kulipintyó. Der Nachmittag steht im Zeichen des Wassers: Nach dem Besuch des Schifffahrtsmuseums und dem fantastischen Blick vom Sternwarten-Hügel flanieren Sie über die bekannte Kvassay-Promenade. Der Tag endet maritim am malerischen Yacht-Hafen und auf der kleinen Taubeninsel mit Blick auf den See.",
+        "hu": "A balatonföldvári napja a Szent Kereszt templom nyugalmával indul, majd a Jubileumi park árnyas fái alatt folytatódik. Délben elmerülhet a múltban a történelmi Kulipintyó villa felfedezésével. A délután a Balatoné: a Hajózástörténeti Látogatóközpont és a Kilátó lenyűgöző panorámája után a híres Kvassay-sétányon andaloghat. A napot a hangulatos vitorláskikötőben és a Galambszigeten zárja, élvezve a tó lágy hullámzását.",
+        "ro": "Ziua dumneavoastră în Balatonföldvár începe liniștit la Biserica Sfânta Cruce, urmată de o plimbare relaxantă prin Parcul Jubiliar. La prânz, veți explora fosta vilă istorică Kulipintyó. După-amiaza este dedicată apei: după ce vizitați Muzeul Navigației și admirați priveliștea de la Observator, vă veți plimba pe faimoasa Promenadă Kvassay. Ziua se încheie în portul de iahturi și pe Insula Porumbeilor, cu vedere la lac.",
+        "en": "Your day in Balatonföldvár starts peacefully at the Holy Cross Church, followed by a relaxing stroll through the Jubilee Park. Around noon, you'll delve into history by exploring the historic Kulipintyó villa. The afternoon revolves around the lake: after visiting the Maritime Museum and enjoying the stunning view from the Lookout Tower, you'll walk along the famous Kvassay Promenade. The day ends nicely at the lively yacht harbor and the small Pigeon Island."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fogas (Zander)",
+            "tip": "Probieren Sie fangfrischen Zander aus dem Plattensee in den Restaurants nahe der Promenade."
+          },
+          {
+            "name": "Lángos",
+            "tip": "Ein klassischer ungarischer Lángos mit Knoblauch, Sauerrahm und Käse am Hafen."
+          },
+          {
+            "name": "Kürtőskalács",
+            "tip": "Süßer Baumstriezel als Snack während Ihres Spaziergangs am Ufer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Balatoni fogas",
+            "tip": "Kóstolja meg a frissen sült balatoni fogast a sétányhoz közeli éttermek egyikében."
+          },
+          {
+            "name": "Lángos",
+            "tip": "A klasszikus fokhagymás-sajtos-tejfölös lángos kihagyhatatlan a kikötő környékén."
+          },
+          {
+            "name": "Kürtőskalács",
+            "tip": "Tökéletes édes nassolnivaló a vízparti sétához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Șalău de Balaton (Fogas)",
+            "tip": "Încercați șalăul proaspăt prins în restaurantele din apropierea promenadei."
+          },
+          {
+            "name": "Lángos",
+            "tip": "Clasicul Lángos maghiar cu usturoi, smântână și brânză se găsește la port."
+          },
+          {
+            "name": "Kürtőskalács",
+            "tip": "Un deliciu dulce, colac secuiesc, perfect pentru o gustare în timpul plimbării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Balaton Zander (Fogas)",
+            "tip": "Taste freshly caught Zander fish from the lake in the restaurants near the promenade."
+          },
+          {
+            "name": "Lángos",
+            "tip": "Grab a classic Hungarian deep-fried dough with garlic, sour cream, and cheese at the harbor."
+          },
+          {
+            "name": "Kürtőskalács",
+            "tip": "A sweet chimney cake is the perfect treat while strolling along the waterfront."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Galambsziget am Abend",
+            "tip": "Genießen Sie die Stille auf der kleinen Insel kurz vor Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sternwarten-Hügel",
+            "tip": "Etwas abseits des Trubels bietet der Hügel eine wunderbare Aussicht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schattige Bänke im Jubiläumspark",
+            "tip": "Suchen Sie sich eine ruhige Bank unter den großen Bäumen zum Lesen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Galambsziget naplemente előtt",
+            "tip": "Élvezze a csendet a kis szigeten, ahogy a nap lassan a horizont alá bukik.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hajózástörténeti Kilátó környéke",
+            "tip": "A dombtetőn a nyüzsgéstől távolabb gyönyörködhet a kilátásban.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Árnyas padok a Jubileumi parkban",
+            "tip": "Keressen egy csendes padot a nagy fák alatt egy kis olvasáshoz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Insula Porumbeilor seara",
+            "tip": "Bucurați-vă de liniștea de pe mica insulă chiar înainte de apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Dealul Observatorului",
+            "tip": "Departe de agitație, dealul oferă o priveliște minunată într-o atmosferă liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bănci umbrite în Parcul Jubiliar",
+            "tip": "Găsiți o bancă liniștită sub copacii mari pentru a vă relaxa.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pigeon Island at dusk",
+            "tip": "Enjoy the peaceful atmosphere on the small island just before sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lookout Tower Hill",
+            "tip": "Away from the main crowds, this hill offers a beautiful and quiet vantage point.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Shady benches in Jubilee Park",
+            "tip": "Find a quiet bench under the large trees to read and relax.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Wein",
+            "tip": "Kaufen Sie eine Flasche regionalen Wein aus der Somogy-Region als Souvenir."
+          },
+          {
+            "name": "Lavendel-Produkte",
+            "tip": "In den kleinen Läden nahe dem Hafen finden Sie duftende Lavendelseifen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi borok",
+            "tip": "Vigyen haza egy üveg kiváló dél-balatoni bort a környékbeli pincészetekből."
+          },
+          {
+            "name": "Levendulás termékek",
+            "tip": "A kikötő környéki kis boltokban illatos levendulaszappanokat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin local",
+            "tip": "Cumpărați o sticlă de vin regional din regiunea Somogy ca suvenir."
+          },
+          {
+            "name": "Produse cu lavandă",
+            "tip": "Veți găsi săpunuri parfumate cu lavandă în micile magazine de lângă port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local wine",
+            "tip": "Buy a bottle of regional wine from the Somogy area as a perfect souvenir."
+          },
+          {
+            "name": "Lavender products",
+            "tip": "You can find fragrant lavender soaps in the small shops near the harbor."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Balatonföldvár lässt sich hervorragend zu Fuß erkunden, da die Entfernungen gering sind.",
+          "Tragen Sie bequeme Schuhe, besonders für den Aufstieg zum Sternwarten-Hügel.",
+          "Bringen Sie Badesachen mit, falls Sie spontan eine Erfrischung im See suchen.",
+          "Die Promenade spendet im Sommer durch die alten Platanen viel Schatten."
+        ],
+        "hu": [
+          "Balatonföldvár ideális a gyalogos felfedezésre, a távolságok rövidek.",
+          "Kényelmes cipőt viseljen, különösen a Kilátóhoz vezető séta során.",
+          "Hozzon magával fürdőruhát, hátha kedvet kap egy kis csobbanáshoz a tóban.",
+          "A platánsor a sétányon nyáron is kellemes árnyékot biztosít."
+        ],
+        "ro": [
+          "Balatonföldvár este perfect pentru a fi explorat pe jos, deoarece distanțele sunt scurte.",
+          "Purtați încălțăminte confortabilă, în special pentru urcarea către Dealul Observatorului.",
+          "Luați-vă costumul de baie în caz că doriți o scufundare spontană în lac.",
+          "Promenada oferă multă umbră vara datorită platanilor bătrâni."
+        ],
+        "en": [
+          "Balatonföldvár is great to explore on foot as all sights are close together.",
+          "Wear comfortable shoes, especially for the slight uphill walk to the Lookout Tower.",
+          "Bring your swimsuit in case you want a spontaneous dip in the lake.",
+          "The old plane trees along the promenade provide plenty of shade during summer."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 4.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Besucherzentrum für Schifffahrtsgeschichte",
+          "coords": [
+            17.876,
+            46.848
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahrradständer sind direkt vor dem Museum vorhanden.",
+            "hu": "A múzeum előtt talál kerékpártárolót.",
+            "ro": "Rafturile pentru biciclete sunt disponibile chiar în fața muzeului.",
+            "en": "Bike racks are available right in front of the museum."
+          }
+        },
+        {
+          "name": "Sternwarten-Hügel (Hajózástörténeti Kilátó)",
+          "coords": [
+            17.876,
+            46.848
+          ],
+          "category": "natural features",
+          "arrive_at": "10:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lassen Sie das Rad kurz stehen und genießen Sie den Ausblick.",
+            "hu": "Hagyja lenn a kerékpárt egy kis időre és gyönyörködjön a kilátásban.",
+            "ro": "Lăsați bicicleta pentru scurt timp și bucurați-vă de priveliște.",
+            "en": "Leave your bike for a moment and enjoy the view."
+          }
+        },
+        {
+          "name": "Kulipintyó",
+          "coords": [
+            17.878,
+            46.85
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein historischer Zwischenstopp auf Ihrer Radtour.",
+            "hu": "Történelmi megálló a kerékpártúra során.",
+            "ro": "O oprire istorică în timpul turului dumneavoastră cu bicicleta.",
+            "en": "A historic stop on your cycling tour."
+          }
+        },
+        {
+          "name": "Hl. Kreuz Kirche",
+          "coords": [
+            17.882,
+            46.847
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine ruhige Pause abseits der direkten Uferwege.",
+            "hu": "Csendes pihenő a nyüzsgő parti utakról letérve.",
+            "ro": "O pauză liniștită departe de cărările aglomerate de pe mal.",
+            "en": "A quiet break away from the direct shore paths."
+          }
+        },
+        {
+          "name": "Jubiläumspark",
+          "coords": [
+            17.883,
+            46.851
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie gemütlich durch die schattigen Alleen des Parks.",
+            "hu": "Tekerjen kényelmesen a park árnyas sétányain.",
+            "ro": "Ciclism pe îndelete pe aleile umbrite ale parcului.",
+            "en": "Cycle leisurely through the shaded avenues of the park."
+          }
+        },
+        {
+          "name": "Kvassay-Promenade",
+          "coords": [
+            17.88,
+            46.853
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Achten Sie hier besonders auf Fußgänger beim Radfahren.",
+            "hu": "Kérjük, itt különösen figyeljen a gyalogosokra a kerékpározás során.",
+            "ro": "Vă rugăm să acordați o atenție deosebită pietonilor aici când mergeți cu bicicleta.",
+            "en": "Please pay extra attention to pedestrians when cycling here."
+          }
+        },
+        {
+          "name": "Yacht-Hafen",
+          "coords": [
+            17.882,
+            46.854
+          ],
+          "category": "port",
+          "arrive_at": "16:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie den frischen Seewind am Hafen.",
+            "hu": "Élvezze a friss tavi szellőt a kikötőben.",
+            "ro": "Bucurați-vă de briza proaspătă a lacului la port.",
+            "en": "Enjoy the fresh lake breeze at the harbor."
+          }
+        },
+        {
+          "name": "Galambsziget (Taubeninsel)",
+          "coords": [
+            17.885,
+            46.854
+          ],
+          "category": "island",
+          "arrive_at": "16:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Das perfekte Ziel, um den Radausflug entspannt abzuschließen.",
+            "hu": "Tökéletes célpont a kerékpáros kirándulás lezárásához.",
+            "ro": "Destinația perfectă pentru a încheia excursia cu bicicleta relaxat.",
+            "en": "The perfect destination to end your cycling trip feeling relaxed."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour durch Balatonföldvár startet sportlich am Besucherzentrum für Schifffahrtsgeschichte. Nach der Aussicht vom Hügel radeln Sie zur historischen Villa Kulipintyó und weiter zur ruhigen Heilig-Kreuz-Kirche. Der Nachmittag wird entspannter: Durch den schattigen Jubiläumspark führt der Weg zur beliebten Kvassay-Promenade. Das sanfte Rollen am Ufer entlang bringt Sie schließlich zum Hafen und auf die idyllische Taubeninsel.",
+        "hu": "A balatonföldvári kerékpártúra a Hajózástörténeti Látogatóközpontnál indul. A kilátó panorámája után áttekerhet a Kulipintyó történelmi épületéhez, majd a csendes Szent Kereszt templomhoz. A délután már a parti suhanásé: a Jubileumi parkon át a híres Kvassay-sétányig gurulhat. A kellemes parti tekerés végül a jachtkikötőbe és a romantikus Galambszigetre vezet.",
+        "ro": "Turul dumneavoastră cu bicicleta prin Balatonföldvár începe sportiv la Centrul de Istorie a Navigației. După priveliștea de pe deal, pedalați spre vila istorică Kulipintyó și apoi la Biserica Sfânta Cruce. După-amiaza devine mai relaxată: prin Parcul Jubiliar umbrit drumul vă duce la populara Promenadă Kvassay. Plimbarea lină de-a lungul malului vă va aduce în final la port și pe Insula Porumbeilor.",
+        "en": "Your cycling tour through Balatonföldvár starts at the Maritime History Visitor Center. After taking in the view from the hill, you'll cycle to the historic Kulipintyó villa and then to the quiet Holy Cross Church. The afternoon is all about breezy lakeside riding: through the shaded Jubilee Park to the famous Kvassay Promenade. The gentle ride along the shore brings you finally to the yacht harbor and the idyllic Pigeon Island."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Halászlé (Fischsuppe)",
+            "tip": "Stärken Sie sich mit einer traditionellen ungarischen Fischsuppe nach der Radtour."
+          },
+          {
+            "name": "Palatschinken",
+            "tip": "Süße Pfannkuchen am Hafen sind der ideale Energiespender für Radfahrer."
+          },
+          {
+            "name": "Hausgemachtes Eis",
+            "tip": "Kühlen Sie sich an einem heißen Tag mit handwerklichem Eis ab."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Balatoni Halászlé",
+            "tip": "Töltődjön fel egy igazi magyaros halászlével a tekerés után."
+          },
+          {
+            "name": "Palacsinta",
+            "tip": "A kikötői édes palacsinta tökéletes energiapótlás a bringásoknak."
+          },
+          {
+            "name": "Kézműves fagylalt",
+            "tip": "Hűtse le magát egy forró napon egy finom gombóc fagyival."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supă de pește (Halászlé)",
+            "tip": "Revigorați-vă cu o supă tradițională maghiară de pește după plimbarea cu bicicleta."
+          },
+          {
+            "name": "Clătite (Palatschinken)",
+            "tip": "Clătitele dulci din port sunt perfecte pentru a vă reface energia."
+          },
+          {
+            "name": "Înghețată de casă",
+            "tip": "Răcoriți-vă într-o zi fierbinte cu înghețată artizanală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fisherman's Soup (Halászlé)",
+            "tip": "Recharge with a traditional Hungarian fish soup after cycling."
+          },
+          {
+            "name": "Pancakes (Palatschinken)",
+            "tip": "Sweet pancakes by the harbor are the perfect energy boost for cyclists."
+          },
+          {
+            "name": "Artisanal ice cream",
+            "tip": "Cool down on a hot day with some delicious handmade ice cream."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Südende der Promenade",
+            "tip": "Radeln Sie ein Stück weiter südlich, um dem größten Trubel zu entkommen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Rast am Seeufer",
+            "tip": "Nehmen Sie sich Zeit für eine kurze Pause auf einer Decke am Grasstrand.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Morgensonne am Hafen",
+            "tip": "Der Hafen ist besonders früh morgens wunderbar ruhig.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A sétány déli vége",
+            "tip": "Tekerjen kicsit tovább dél felé, ha szeretné elkerülni a legnagyobb tömeget.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pihenő a tóparton",
+            "tip": "Terítsen le egy pokrócot a füves parton, és élvezze a vizet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Reggeli napfény a kikötőben",
+            "tip": "A kikötő kora reggel a legcsendesebb és leghangulatosabb.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capătul sudic al promenadei",
+            "tip": "Pedalați puțin mai la sud pentru a scăpa de agitația principală.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Odihnă pe malul lacului",
+            "tip": "Luați-vă timp pentru o scurtă pauză pe o pătură pe plaja cu iarbă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Soarele dimineții în port",
+            "tip": "Portul este deosebit de liniștit și frumos la primele ore ale dimineții.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Southern end of the promenade",
+            "tip": "Cycle a bit further south to escape the main crowds.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Rest on the lakeshore",
+            "tip": "Take time for a short break on a blanket on the grassy beach.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Morning sun at the harbor",
+            "tip": "The harbor is particularly quiet and beautiful early in the morning.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Besorgen Sie sich ein Glas ungarischen Akazienhonig."
+          },
+          {
+            "name": "Keramik aus der Region",
+            "tip": "Handgemachte Keramik ist ein langlebiges Andenken an den See."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Vásároljon egy üveg finom magyar akácmézet."
+          },
+          {
+            "name": "Kézműves kerámia",
+            "tip": "A kézműves kerámia tartós emlék lehet a balatoni nyaralásról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Cumpărați un borcan de miere maghiară de salcâm."
+          },
+          {
+            "name": "Ceramică regională",
+            "tip": "Ceramica lucrată manual este un suvenir durabil de la lac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local honey",
+            "tip": "Get a jar of Hungarian acacia honey as a sweet memory."
+          },
+          {
+            "name": "Regional ceramics",
+            "tip": "Handmade ceramics make a durable and beautiful souvenir from the lake."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "In Ungarn gibt es rund um den Plattensee hervorragend ausgebaute Radwege.",
+          "Ein Fahrradschloss ist Pflicht, auch wenn die Gegend sicher ist.",
+          "Nehmen Sie ausreichend Wasser mit, besonders an heißen Sommertagen.",
+          "Die Uferpromenaden sind bei Fußgängern beliebt, passen Sie Ihr Tempo entsprechend an."
+        ],
+        "hu": [
+          "A Balaton körül kiváló minőségű kerékpárutak várják a túrázókat.",
+          "A kerékpárzár használata ajánlott, amikor bemegy a múzeumba vagy étterembe.",
+          "Gondoskodjon megfelelő folyadékpótlásról, különösen a forró nyári napokon.",
+          "A parti sétányokon sok a gyalogos, kérjük, igazítsa hozzá a sebességét."
+        ],
+        "ro": [
+          "Există piste de biciclete excelente dezvoltate în jurul Lacului Balaton.",
+          "Un antifurt pentru bicicletă este esențial când vizitați atracțiile.",
+          "Luați cu dumneavoastră suficientă apă, mai ales în zilele toride de vară.",
+          "Promenadele sunt populare printre pietoni, adaptați-vă viteza în consecință."
+        ],
+        "en": [
+          "There are excellently developed cycle paths all around Lake Balaton.",
+          "A bike lock is essential when you stop to visit the sights or grab a bite.",
+          "Bring plenty of water with you, especially on hot summer days.",
+          "The shore promenades are popular with pedestrians, so adjust your speed accordingly."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 5.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Besucherzentrum für Schifffahrtsgeschichte",
+          "coords": [
+            17.876,
+            46.848
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto in der Nähe des Besucherzentrums für den ersten Block.",
+            "hu": "Parkolja le autóját a Látogatóközpont közelében az első séta erejéig.",
+            "ro": "Parcați mașina lângă centrul de vizitare pentru prima parte a plimbării.",
+            "en": "Park your car near the visitor center for the first part of your day."
+          }
+        },
+        {
+          "name": "Sternwarten-Hügel (Hajózástörténeti Kilátó)",
+          "coords": [
+            17.876,
+            46.848
+          ],
+          "category": "natural features",
+          "arrive_at": "10:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Aussichtspunkt ist direkt neben dem Zentrum zu Fuß erreichbar.",
+            "hu": "A kilátó a központ mellett közvetlenül, gyalog is elérhető.",
+            "ro": "Punctul de belvedere este la câțiva pași chiar lângă centru.",
+            "en": "The viewpoint is just a short walk right next to the center."
+          }
+        },
+        {
+          "name": "Kulipintyó",
+          "coords": [
+            17.878,
+            46.85
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang bringt Sie zu dieser historischen Residenz.",
+            "hu": "Egy rövid sétával elérheti ezt a történelmi villát.",
+            "ro": "O scurtă plimbare vă va duce la această reședință istorică.",
+            "en": "A short walk will bring you to this historic residence."
+          }
+        },
+        {
+          "name": "Jubiläumspark",
+          "coords": [
+            17.883,
+            46.851
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie nun näher ans Wasser und parken Sie in der Nähe des Parks.",
+            "hu": "Most hajtson közelebb a vízparthoz, és parkoljon le a park környékén.",
+            "ro": "Acum conduceți mai aproape de apă și parcați lângă parcul central.",
+            "en": "Now drive closer to the water and park your car near the park."
+          }
+        },
+        {
+          "name": "Kvassay-Promenade",
+          "coords": [
+            17.88,
+            46.853
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Promenade erkunden Sie am besten gemütlich zu Fuß.",
+            "hu": "A sétányt a legjobb kényelmesen gyalog felfedezni.",
+            "ro": "Promenada se explorează cel mai bine la pas.",
+            "en": "The promenade is best explored at a leisurely pace on foot."
+          }
+        },
+        {
+          "name": "Yacht-Hafen",
+          "coords": [
+            17.882,
+            46.854
+          ],
+          "category": "port",
+          "arrive_at": "15:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein idealer Ort für tolle Urlaubsfotos mit Booten im Hintergrund.",
+            "hu": "Ideális helyszín remek nyaralási fotókhoz, hajókkal a háttérben.",
+            "ro": "Un loc ideal pentru fotografii grozave de vacanță cu bărci în fundal.",
+            "en": "An ideal spot for great holiday photos with boats in the background."
+          }
+        },
+        {
+          "name": "Galambsziget (Taubeninsel)",
+          "coords": [
+            17.885,
+            46.854
+          ],
+          "category": "island",
+          "arrive_at": "16:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto stehen und laufen Sie über die kleine Brücke zur Insel.",
+            "hu": "Hagyja lenn az autót, és sétáljon át a kis hídon a szigetre.",
+            "ro": "Lăsați mașina parcata și mergeți pe podul mic spre insulă.",
+            "en": "Leave your car parked and walk across the small bridge to the island."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Ausflug mit dem Auto nach Balatonföldvár lässt sich in zwei komfortable Cluster aufteilen. Zunächst parken Sie im oberen Teil der Stadt: Von hier aus besuchen Sie das interaktive Schifffahrtsmuseum, genießen den weiten Blick vom Sternwarten-Hügel und spazieren zum historischen Kulipintyó. Danach setzen Sie das Auto um in Richtung Ufer. Den restlichen Nachmittag verbringen Sie flanierend im Schatten des Jubiläumsparks, entlang der berühmten Kvassay-Promenade bis hin zum maritimen Yacht-Hafen und der idyllischen Taubeninsel.",
+        "hu": "Autós kirándulása Balatonföldváron két kényelmes blokkra osztható. Először a város felső részén parkol: innen felfedezi az interaktív Hajózástörténeti Látogatóközpontot, a lenyűgöző kilátót és a történelmi Kulipintyó villát. Ezután átgurul a tópart közelébe, ahol leparkolva gyalogosan folytatja. A délutánt a Jubileumi park árnyékában, a híres Kvassay-sétányon, majd a jachtkikötő és a romantikus Galambsziget felfedezésével tölti.",
+        "ro": "Excursia cu mașina la Balatonföldvár poate fi împărțită în două zone confortabile. În primul rând, parcați în partea superioară a orașului: de aici vizitați Muzeul interactiv al Navigației, vă bucurați de priveliștea de la Dealul Observatorului și mergeți la istorica vilă Kulipintyó. Apoi mutați mașina spre malul lacului. Vă petreceți restul după-amiezii plimbându-vă prin Parcul Jubiliar, de-a lungul Promenadei Kvassay până la portul de iahturi și Insula Porumbeilor.",
+        "en": "Your car trip to Balatonföldvár can be divided into two convenient clusters. First, park in the upper part of the town: from here you visit the interactive Maritime Museum, enjoy the expansive view from the Lookout Tower hill, and stroll to the historic Kulipintyó villa. Then, you move your car closer to the shore. You spend the rest of the afternoon walking through the Jubilee Park, along the famous Kvassay Promenade, and finishing up at the yacht harbor and Pigeon Island."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fogas (Zander)",
+            "tip": "Ein Muss für Fischliebhaber in den Restaurants am Ufer."
+          },
+          {
+            "name": "Ungarisches Gulasch",
+            "tip": "Ein herzhaftes Gulasch ist die perfekte Stärkung zur Mittagszeit."
+          },
+          {
+            "name": "Somlói Galuska",
+            "tip": "Probieren Sie dieses klassische ungarische Biskuitdessert mit Schokosoße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Balatoni fogas",
+            "tip": "A halételek kedvelőinek kötelező megkóstolni a parti éttermekben."
+          },
+          {
+            "name": "Magyaros gulyás",
+            "tip": "Egy kiadós gulyásleves tökéletes ebéd a városnézés közben."
+          },
+          {
+            "name": "Somlói galuska",
+            "tip": "Klasszikus magyar desszert csokoládéöntettel és tejszínhabbal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Șalău (Fogas)",
+            "tip": "O necesitate pentru iubitorii de pește în restaurantele de pe mal."
+          },
+          {
+            "name": "Gulaș maghiar",
+            "tip": "Un gulaș consistent este masa perfectă pentru prânz."
+          },
+          {
+            "name": "Somlói Galuska",
+            "tip": "Încercați acest desert clasic de pandișpan cu sos de ciocolată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Balaton Zander (Fogas)",
+            "tip": "A must-try for fish lovers in the restaurants along the shore."
+          },
+          {
+            "name": "Hungarian Goulash",
+            "tip": "A hearty bowl of goulash is the perfect lunchtime refreshment."
+          },
+          {
+            "name": "Somlói Galuska",
+            "tip": "Try this classic Hungarian sponge cake dessert topped with chocolate sauce."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussicht vom Sternwarten-Hügel",
+            "tip": "Am späten Vormittag ist die Aussicht hier besonders ungestört.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parkbänke am Jubiläumspark",
+            "tip": "Setzen Sie sich ins Gras oder auf eine Bank und lauschen Sie den Vögeln.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Galambsziget zum Sonnenuntergang",
+            "tip": "Der perfekte, ruhige Abschluss Ihres Ausflugs.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a dombról",
+            "tip": "Késő délelőtt a panoráma innen különösen zavartalan.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Padok a Jubileumi parkban",
+            "tip": "Üljön le a fűbe vagy egy padra, és hallgassa a madárcsicsergést.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Galambsziget naplementekor",
+            "tip": "A kirándulás tökéletes, nyugodt lezárása.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Priveliște de pe Dealul Observatorului",
+            "tip": "Dimineața târziu priveliștea de aici este deosebit de netulburată.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bănci în Parcul Jubiliar",
+            "tip": "Așezați-vă pe iarbă sau pe o bancă și ascultați păsările.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Insula Porumbeilor la apus",
+            "tip": "Sfârșitul perfect și liniștit al excursiei dumneavoastră.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the Lookout Tower",
+            "tip": "In the late morning, the view from up here is particularly undisturbed.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Benches in Jubilee Park",
+            "tip": "Sit in the grass or on a bench and listen to the birds singing.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pigeon Island at sunset",
+            "tip": "The perfect, peaceful end to your day trip.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Paprika-Pulver",
+            "tip": "Kaufen Sie edelsüßen ungarischen Paprika für die heimische Küche."
+          },
+          {
+            "name": "Regionales Handwerk",
+            "tip": "Kleine Boutiquen in der Nähe der Parks bieten hübsche Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Őrölt pirospaprika",
+            "tip": "Vigyen haza egy csomag kiváló minőségű magyar fűszerpaprikát."
+          },
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "A parkok környékén apró butikok kínálnak szép szuveníreket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boia de ardei",
+            "tip": "Cumpărați boia dulce maghiară pentru gătitul acasă."
+          },
+          {
+            "name": "Meșteșuguri regionale",
+            "tip": "Micile buticuri din apropierea parcurilor oferă suveniruri frumoase."
+          }
+        ],
+        "en": [
+          {
+            "name": "Paprika powder",
+            "tip": "Buy some sweet Hungarian paprika to upgrade your home cooking."
+          },
+          {
+            "name": "Regional crafts",
+            "tip": "Small boutiques near the parks offer pretty, locally made souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Balatonföldvár hat ein gut organisiertes Parksystem, achten Sie auf gebührenpflichtige Zonen am Ufer.",
+          "Indem Sie Ihr Auto nach dem Museumsbesuch umparken, sparen Sie sich am Nachmittag weite Fußwege.",
+          "Die Hauptsaison kann voll werden, kommen Sie rechtzeitig an, um gute Parkplätze zu finden.",
+          "Die Promenaden sind Fußgängerzonen, Fahren ist dort nicht gestattet."
+        ],
+        "hu": [
+          "Balatonföldvár jól kiépített parkolási rendszerrel rendelkezik, figyeljen a fizetős övezetekre a parton.",
+          "Ha a múzeumi séta után közelebb parkol a parthoz, sok gyaloglást megspórolhat délután.",
+          "A főszezonban érdemes korán érkezni, hogy biztosan találjon jó parkolóhelyet.",
+          "A parti sétányok gyalogos zónák, ott az autóforgalom tilos."
+        ],
+        "ro": [
+          "Balatonföldvár are un sistem de parcare bine organizat, atenție la zonele cu plată de pe mal.",
+          "Mutând mașina după vizitarea muzeului, vă veți scuti de mers mult pe jos după-amiaza.",
+          "În plin sezon poate fi aglomerat, ajungeți devreme pentru a găsi locuri bune de parcare.",
+          "Promenadele sunt zone pietonale, conducerea nu este permisă acolo."
+        ],
+        "en": [
+          "Balatonföldvár has a well-organized parking system, but pay attention to paid zones near the shore.",
+          "By moving your car after the museum visit, you save yourself long walks in the afternoon.",
+          "The peak summer season can get busy, so arrive early to find good parking spots.",
+          "The shore promenades are strictly pedestrian zones, driving is not permitted there."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 5.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Hl. Kreuz Kirche",
+          "coords": [
+            17.882,
+            46.847
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Vom Bahnhof aus leicht mit dem lokalen Bus oder einem kurzen Fußmarsch erreichbar.",
+            "hu": "A vasútállomásról könnyen megközelíthető helyi busszal vagy egy rövid sétával.",
+            "ro": "Ușor accesibil de la gară cu autobuzul local sau o scurtă plimbare.",
+            "en": "Easily accessible from the train station by local bus or a short walk."
+          }
+        },
+        {
+          "name": "Jubiläumspark",
+          "coords": [
+            17.883,
+            46.851
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein erholsamer Spaziergang durchs Grüne direkt nach der Kirche.",
+            "hu": "Kellemes séta a zöldben közvetlenül a templomlátogatás után.",
+            "ro": "O plimbare relaxantă prin verdeață imediat după vizitarea bisericii.",
+            "en": "A relaxing walk through the greenery right after the church."
+          }
+        },
+        {
+          "name": "Besucherzentrum für Schifffahrtsgeschichte",
+          "coords": [
+            17.876,
+            46.848
+          ],
+          "category": "museums",
+          "arrive_at": "11:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nutzen Sie den lokalen Bus, um den leichten Hügel zum Museum bequem zu überwinden.",
+            "hu": "Vegye igénybe a helyi buszt, hogy kényelmesen feljusson a múzeumhoz a dombra.",
+            "ro": "Folosiți autobuzul local pentru a urca confortabil dealul până la muzeu.",
+            "en": "Use the local bus to comfortably overcome the slight hill to the museum."
+          }
+        },
+        {
+          "name": "Sternwarten-Hügel (Hajózástörténeti Kilátó)",
+          "coords": [
+            17.876,
+            46.848
+          ],
+          "category": "natural features",
+          "arrive_at": "13:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dieser Aussichtspunkt liegt direkt beim Museum.",
+            "hu": "Ez a kilátópont közvetlenül a múzeum mellett található.",
+            "ro": "Acest punct de belvedere este chiar lângă muzeu.",
+            "en": "This viewpoint is located right next to the museum."
+          }
+        },
+        {
+          "name": "Kulipintyó",
+          "coords": [
+            17.878,
+            46.85
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie bergab zu dieser interessanten historischen Residenz.",
+            "hu": "Sétáljon lefelé a dombról, hogy megnézze ezt az érdekes történelmi épületet.",
+            "ro": "Plimbați-vă la vale pentru a vedea această reședință istorică interesantă.",
+            "en": "Walk downhill to visit this interesting historical residence."
+          }
+        },
+        {
+          "name": "Kvassay-Promenade",
+          "coords": [
+            17.88,
+            46.853
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Bus zurück ans Ufer zur berühmten Platanen-Allee.",
+            "hu": "Térjen vissza busszal a tópartra a híres platánfás sétányhoz.",
+            "ro": "Luați autobuzul înapoi la țărm, la faimoasa alee cu platani.",
+            "en": "Take the bus back to the shore to the famous plane tree avenue."
+          }
+        },
+        {
+          "name": "Yacht-Hafen",
+          "coords": [
+            17.882,
+            46.854
+          ],
+          "category": "port",
+          "arrive_at": "16:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Hafen liegt direkt im Anschluss an die Promenade.",
+            "hu": "A kikötő közvetlenül a sétány folytatásában fekszik.",
+            "ro": "Portul este situat chiar la capătul promenadei.",
+            "en": "The harbor is located right at the end of the promenade."
+          }
+        },
+        {
+          "name": "Galambsziget (Taubeninsel)",
+          "coords": [
+            17.885,
+            46.854
+          ],
+          "category": "island",
+          "arrive_at": "17:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lassen Sie hier den Tag ausklingen, bevor Sie zum nahegelegenen Bahnhof zurückkehren.",
+            "hu": "Zárja itt a napot, mielőtt visszatérne a közeli vasútállomásra.",
+            "ro": "Încheiați ziua aici înainte de a vă întoarce la gara din apropiere.",
+            "en": "End your day here before heading back to the nearby train station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wer Balatonföldvár ohne Auto bereist, nutzt am besten den Bahnhof als Ausgangspunkt. Ihr Tag startet an der schönen Heilig-Kreuz-Kirche und im Jubiläumspark. Danach hilft der lokale Bus (oder ein zügiger Fußmarsch), um den Hügel zum interaktiven Schifffahrtsmuseum und dem Aussichtspunkt zu meistern. Nach dem Abstecher zum historischen Kulipintyó bringt Sie der Bus entspannt zurück ans Seeufer. Der Nachmittag gehört der Flanierlust: Kvassay-Promenade, Yachthafen und die Taubeninsel bilden den perfekten Abschluss, nah an der Zugverbindung.",
+        "hu": "Ha autó nélkül érkezik Balatonföldvárra, a vasútállomás a legjobb kiindulópont. A napja a Szent Kereszt templomnál és a Jubileumi parkban kezdődik. Ezután helyi buszra pattanva kényelmesen feljuthat a Hajózástörténeti Látogatóközponthoz és a panorámát nyújtó kilátóhoz. A Kulipintyó érintése után busszal tér vissza a vízparthoz, ahol a délután a sétálásé: a Kvassay-sétány, a kikötő és a Galambsziget nyújt csodás befejezést, ahonnan az állomás már csak egy rövid séta.",
+        "ro": "Pentru cei care vizitează Balatonföldvár fără mașină, gara este cel mai bun punct de plecare. Ziua începe la Biserica Sfânta Cruce și în Parcul Jubiliar. Apoi, autobuzul local vă va duce confortabil sus pe deal la Muzeul Navigației și la punctul de belvedere. După ce treceți pe la istorica vilă Kulipintyó, autobuzul vă întoarce la malul lacului. După-amiaza este pentru plimbare: Promenada Kvassay, portul și Insula Porumbeilor formează finalul perfect, foarte aproape de gară.",
+        "en": "If you're visiting Balatonföldvár without a car, the train station is the perfect starting point. Your day kicks off at the Holy Cross Church and Jubilee Park. Next, a local bus ride helps you easily reach the interactive Maritime Museum and the Lookout Tower on the hill. After a downhill stop at the historic Kulipintyó, hop on the bus back to the lakeshore. The afternoon is meant for walking: the Kvassay Promenade, the marina, and Pigeon Island provide a wonderful finish, conveniently close to your train connection."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lángos am Bahnhof",
+            "tip": "Holen Sie sich einen schnellen ungarischen Lángos, bevor Sie den Ort erkunden."
+          },
+          {
+            "name": "Eis an der Promenade",
+            "tip": "Perfekt für den Spaziergang vom Yachthafen zurück zum Zug."
+          },
+          {
+            "name": "Zander-Filet",
+            "tip": "Gönnen Sie sich in den Restaurants nahe der Insel ein ausgiebiges Fischgericht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lángos az állomásnál",
+            "tip": "Kapjon be egy friss lángost, mielőtt belevág a városnézésbe."
+          },
+          {
+            "name": "Fagyi a sétányon",
+            "tip": "Tökéletes hűsítő a kikötőtől az állomás felé tartó sétához."
+          },
+          {
+            "name": "Fogasfilé",
+            "tip": "Jutalmazza meg magát egy remek halétellel a sziget környéki éttermek egyikében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lángos la gară",
+            "tip": "Luați un Lángos rapid maghiar înainte de a explora orașul."
+          },
+          {
+            "name": "Înghețată pe promenadă",
+            "tip": "Perfect pentru plimbarea de la port înapoi la gară."
+          },
+          {
+            "name": "File de șalău",
+            "tip": "Bucurați-vă de un preparat bogat din pește în restaurantele din apropierea insulei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lángos at the station",
+            "tip": "Grab a quick Hungarian fried bread snack before you start exploring."
+          },
+          {
+            "name": "Ice cream on the promenade",
+            "tip": "A perfect sweet treat for the walk from the marina back to the train."
+          },
+          {
+            "name": "Zander fillet",
+            "tip": "Treat yourself to a fantastic fish meal at the restaurants near the island."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schattige Wege im Jubiläumspark",
+            "tip": "Ein ruhiger Start in den Tag, bevor die Ausflügler kommen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Galambsziget am Abend",
+            "tip": "Der schönste Ort, um auf den Zug zu warten.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sternwarten-Hügel",
+            "tip": "Nutzen Sie den Ausblick für eine entspannte Pause fernab der Hauptstraße.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Árnyas utak a Jubileumi parkban",
+            "tip": "Nyugodt kezdése a napnak, mielőtt megérkeznek a nagyobb turistacsoportok.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Galambsziget az esti órákban",
+            "tip": "A legszebb helyszín, ahol megvárhatja a hazainduló vonatot.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hajózástörténeti Kilátó",
+            "tip": "Használja ki a panorámát egy pihenőre a főutaktól távolabb.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poteci umbrite în Parcul Jubiliar",
+            "tip": "Un început liniștit de zi, înainte de a sosi mulțimile.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Insula Porumbeilor seara",
+            "tip": "Cel mai frumos loc pentru a aștepta trenul de întoarcere.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Dealul Observatorului",
+            "tip": "Folosiți priveliștea pentru o pauză relaxantă departe de drumul principal.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shady paths in Jubilee Park",
+            "tip": "A peaceful start to the day before the main tourist crowds arrive.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pigeon Island in the evening",
+            "tip": "The most beautiful spot to hang out while waiting for your train.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lookout Tower Hill",
+            "tip": "Enjoy the view and take a relaxing break away from the main streets.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ungarische Weine",
+            "tip": "Einige kleine Läden in Bahnhofsnähe bieten gute regionale Weine an."
+          },
+          {
+            "name": "Postkarten vom Balaton",
+            "tip": "Klassische Andenken finden Sie in den Kiosken entlang der Promenade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Magyar borok",
+            "tip": "Az állomás környéki kis boltok is tartanak jó minőségű helyi borokat."
+          },
+          {
+            "name": "Balatoni képeslapok",
+            "tip": "A klasszikus emlékeket a sétány melletti pavilonokban szerezheti be."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinuri maghiare",
+            "tip": "Câteva magazine mici de lângă gară oferă vinuri regionale bune."
+          },
+          {
+            "name": "Cărți poștale cu Balaton",
+            "tip": "Veți găsi suveniruri clasice la chioșcurile de-a lungul promenadei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hungarian wines",
+            "tip": "A few small shops near the train station offer good regional wines."
+          },
+          {
+            "name": "Lake Balaton postcards",
+            "tip": "Pick up classic souvenirs at the kiosks scattered along the promenade."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Züge am Südufer des Plattensees verkehren im Sommer sehr regelmäßig.",
+          "Informieren Sie sich vorab über die Abfahrtszeiten der lokalen Busse, die den Hügel hinauffahren.",
+          "Die Promenade und die Taubeninsel liegen strategisch günstig nah am Bahnhof.",
+          "Sie benötigen kein Auto, da alle wichtigen Sehenswürdigkeiten gut fußläufig oder per kurzem Bustransfer erreichbar sind."
+        ],
+        "hu": [
+          "A Balaton déli partján nyáron nagyon sűrű és megbízható a vonatközlekedés.",
+          "Érdemes előre tájékozódni a dombra felmenő helyi buszok menetrendjéről.",
+          "A sétány és a Galambsziget stratégiailag nagyon közel van a vasútállomáshoz.",
+          "Egyáltalán nincs szükség autóra, minden fontos látnivaló gyalog vagy rövid buszozással elérhető."
+        ],
+        "ro": [
+          "Trenurile de pe malul sudic al Lacului Balaton circulă foarte regulat vara.",
+          "Verificați în prealabil orarul autobuzelor locale care urcă dealul.",
+          "Promenada și Insula Porumbeilor sunt situate strategic foarte aproape de gară.",
+          "Nu aveți nevoie de mașină, deoarece toate atracțiile sunt ușor accesibile pe jos sau cu un transfer scurt de autobuz."
+        ],
+        "en": [
+          "Trains along the southern shore of Lake Balaton run very frequently during the summer.",
+          "It's a good idea to check the timetable for the local buses heading up the hill in advance.",
+          "The promenade and Pigeon Island are strategically located very close to the train station.",
+          "You won't need a car at all, as every major sight is within walking distance or a short bus ride."
+        ]
+      }
+    }
+  }
+}

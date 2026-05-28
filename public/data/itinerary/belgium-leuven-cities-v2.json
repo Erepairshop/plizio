@@ -1,0 +1,1548 @@
+{
+  "city_id": "belgium-leuven-cities-v2",
+  "anchor": {
+    "name": "Löwen",
+    "coords": [
+      4.7005,
+      50.8798
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Oude Markt (Alter Markt)",
+            "hu": "Oude Markt (Régi Piac)",
+            "ro": "Oude Markt (Piața Veche)",
+            "en": "Oude Markt (Old Market)"
+          },
+          "coords": [
+            4.7009,
+            50.8787
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bekannt als die „längste Theke der Welt“. Kommen Sie abends für die Atmosphäre zurück.",
+            "hu": "A „világ leghosszabb pultjaként” ismerik. Térjen vissza este a hangulatért.",
+            "ro": "Cunoscut ca „cel mai lung bar din lume”. Reveniți seara pentru atmosferă.",
+            "en": "Known as 'the longest bar in the world'. Come back in the evening for the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadhuis (Rathaus)",
+            "hu": "Stadhuis (Városháza)",
+            "ro": "Stadhuis (Primăria)",
+            "en": "Stadhuis (Town Hall)"
+          },
+          "coords": [
+            4.7015,
+            50.8788
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:04",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die 236 Statuen an der Fassade. Eine Führung ist sehr zu empfehlen.",
+            "hu": "Csodálja meg a homlokzaton található 236 szobrot. A vezetett túra erősen ajánlott.",
+            "ro": "Admirați cele 236 de statui de pe fațadă. Un tur ghidat este foarte recomandat.",
+            "en": "Marvel at the 236 statues on the facade. A guided tour is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Sint-Pieterskerk (Sankt-Peters-Kirche)",
+            "hu": "Sint-Pieterskerk (Szent Péter-templom)",
+            "ro": "Sint-Pieterskerk (Biserica Sfântul Petru)",
+            "en": "Sint-Pieterskerk (Saint Peter's Church)"
+          },
+          "coords": [
+            4.7011,
+            50.8792
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:46",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht „Das letzte Abendmahl“ von Dieric Bouts, ein Meisterwerk der flämischen Primitiven.",
+            "hu": "Ne hagyja ki Dieric Bouts „Az utolsó vacsora” című művét, a flamand primitívek mesterművét.",
+            "ro": "Nu ratați „Cina cea de Taină” de Dieric Bouts, o capodoperă a Primitivilor Flamanzi.",
+            "en": "Don't miss 'The Last Supper' by Dieric Bouts, a masterpiece of the Flemish Primitives."
+          }
+        },
+        {
+          "name": {
+            "de": "M-Museum Leuven",
+            "hu": "M-Múzeum Leuven",
+            "ro": "M-Museum Leuven",
+            "en": "M-Museum Leuven"
+          },
+          "coords": [
+            4.7031,
+            50.8805
+          ],
+          "category": "museums",
+          "arrive_at": "12:00",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Die Dachterrasse bietet eine überraschend gute Aussicht auf die Stadt.",
+            "hu": "A tetőterasz meglepően jó kilátást nyújt a városra.",
+            "ro": "Terasa de pe acoperiș oferă o priveliște surprinzător de bună asupra orașului.",
+            "en": "The rooftop terrace offers a surprisingly good view of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Universitätsbibliothek & Turm",
+            "hu": "Egyetemi Könyvtár és Torony",
+            "ro": "Biblioteca Universității & Turnul",
+            "en": "University Library & Tower"
+          },
+          "coords": [
+            4.7058,
+            50.8767
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:18",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Besteigen Sie den Turm für die beste Panoramaaussicht auf Löwen. Der Aufstieg lohnt sich!",
+            "hu": "Másszon fel a toronyba a legjobb leuveni panorámáért. Megéri a fáradságot!",
+            "ro": "Urcați în turn pentru cea mai bună panoramă a Leuvenului. Urcușul merită!",
+            "en": "Climb the tower for the best panoramic view of Leuven. It's worth the climb!"
+          }
+        },
+        {
+          "name": {
+            "de": "Groot Begijnhof (Großer Beginenhof)",
+            "hu": "Groot Begijnhof (Nagy Beginaudvar)",
+            "ro": "Groot Begijnhof (Marea Beguinage)",
+            "en": "Groot Begijnhof (Great Beguinage)"
+          },
+          "coords": [
+            4.6975,
+            50.8722
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:59",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Eine Oase der Ruhe. Respektieren Sie die Stille, da hier Studenten und Professoren leben.",
+            "hu": "A nyugalom oázisa. Tartsa tiszteletben a csendet, mivel itt diákok és professzorok élnek.",
+            "ro": "O oază de liniște. Respectați tăcerea, deoarece aici locuiesc studenți și profesori.",
+            "en": "An oasis of tranquility. Respect the silence as students and professors live here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Löwen beginnt am Oude Markt, dem Herzen des gesellschaftlichen Lebens, bevor Sie die gotische Pracht des Rathauses und der Peterskirche bewundern. Am Vormittag tauchen Sie in die Kunst im M-Museum ein, das eine Brücke zwischen Alt und Neu schlägt. Der Nachmittag ist der Bildung und dem Frieden gewidmet, mit einem Aufstieg auf den Bibliotheksturm für eine atemberaubende Aussicht und einem friedlichen Spaziergang durch den historischen Groot Begijnhof. Der Abend klingt perfekt in einem der vielen gemütlichen Restaurants der Stadt aus, wo Sie die berühmte belgische Küche und das Bier genießen können.",
+        "hu": "A leuveni napja az Oude Markton, a társasági élet szívében kezdődik, mielőtt megcsodálná a Városháza és a Szent Péter-templom gótikus pompáját. A délelőttöt a művészetnek szenteli az M-Múzeumban, amely hidat képez a régi és az új között. A délután a tudásé és a békéé: megmássza a könyvtártornyot a lélegzetelállító kilátásért, majd békésen sétál a történelmi Nagy Beginaudvarban. Az estét tökéletesen zárhatja a város egyik hangulatos éttermében, élvezve a híres belga konyhát és sört.",
+        "ro": "Ziua dvs. în Leuven începe în Oude Markt, inima vieții sociale, înainte de a admira splendoarea gotică a Primăriei și a Bisericii Sf. Petru. Dimineața vă scufundați în artă la Muzeul M, care creează o punte între vechi și nou. După-amiaza este dedicată educației și păcii, cu o urcare în turnul bibliotecii pentru o priveliște uluitoare și o plimbare liniștită prin istoricul Groot Begijnhof. Seara se încheie perfect la unul dintre numeroasele restaurante primitoare ale orașului, savurând renumita bucătărie și bere belgiană.",
+        "en": "Your day in Leuven starts at the Oude Markt, the heart of social life, before admiring the Gothic splendor of the Town Hall and St. Peter's Church. The morning is for immersing yourself in art at the M-Museum, which bridges the old and the new. The afternoon is dedicated to education and peace, with a climb up the library tower for a breathtaking view and a peaceful stroll through the historic Groot Begijnhof. The evening ends perfectly at one of the city's many cozy restaurants, enjoying the famous Belgian cuisine and beer."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Domus",
+            "tip": "Probieren Sie das hauseigene Bier und den klassischen flämischen Eintopf (Stoofvlees)."
+          },
+          {
+            "name": "Frituur De Smidse",
+            "tip": "Für authentische belgische Pommes. Ein Muss!"
+          },
+          {
+            "name": "Notre Dame",
+            "tip": "Gute Auswahl an belgischen Bieren und herzhaften Gerichten in einer lebhaften Umgebung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Domus",
+            "tip": "Kóstolja meg a ház sörét és a klasszikus flamand pörköltet (Stoofvlees)."
+          },
+          {
+            "name": "Frituur De Smidse",
+            "tip": "Autentikus belga hasábburgonyáért. Kötelező!"
+          },
+          {
+            "name": "Notre Dame",
+            "tip": "Jó választék belga sörökből és kiadós ételekből, élénk környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Domus",
+            "tip": "Încercați berea casei și clasica tocană flamandă (Stoofvlees)."
+          },
+          {
+            "name": "Frituur De Smidse",
+            "tip": "Pentru cartofi prăjiți belgieni autentici. O necesitate!"
+          },
+          {
+            "name": "Notre Dame",
+            "tip": "Selecție bună de beri belgiene și mâncăruri consistente într-un cadru plin de viață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Domus",
+            "tip": "Try their home-brewed beer and the classic Flemish stew (Stoofvlees)."
+          },
+          {
+            "name": "Frituur De Smidse",
+            "tip": "For authentic Belgian fries. A must-try!"
+          },
+          {
+            "name": "Notre Dame",
+            "tip": "Good selection of Belgian beers and hearty dishes in a lively setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Groot Begijnhof",
+            "tip": "Finden Sie eine Bank an den Dijle-Kanälen und lauschen Sie dem Wasser.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kruidtuin (Botanischer Garten)",
+            "tip": "Der älteste botanische Garten Belgiens, perfekt für eine ruhige Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sint-Donatuspark",
+            "tip": "Ein schöner Stadtpark mit mittelalterlichen Turmruinen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Groot Begijnhof",
+            "tip": "Keressen egy padot a Dijle-csatornák mentén, és hallgassa a víz csobogását.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kruidtuin (Botanikus Kert)",
+            "tip": "Belgium legrégebbi botanikus kertje, tökéletes egy csendes pihenőhöz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sint-Donatuspark",
+            "tip": "Egy gyönyörű városi park középkori toronyromokkal.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Groot Begijnhof",
+            "tip": "Găsiți o bancă lângă canalele Dijle și ascultați apa.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kruidtuin (Grădina Botanică)",
+            "tip": "Cea mai veche grădină botanică din Belgia, perfectă pentru o pauză liniștită.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Sint-Donatus",
+            "tip": "Un parc frumos al orașului cu ruine de turn medieval.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Groot Begijnhof",
+            "tip": "Find a bench by the Dijle canals and listen to the water.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kruidtuin (Botanical Garden)",
+            "tip": "Belgium's oldest botanical garden, perfect for a quiet break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sint-Donatuspark",
+            "tip": "A lovely city park with medieval tower ruins.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Diestsestraat & Bondgenotenlaan",
+            "tip": "Die wichtigsten Einkaufsstraßen mit bekannten Marken und lokalen Boutiquen."
+          },
+          {
+            "name": "Leonidas",
+            "tip": "Kaufen Sie weltberühmte belgische Pralinen als süßes Souvenir."
+          },
+          {
+            "name": "Wochenmarkt (Freitag)",
+            "tip": "Wenn Sie an einem Freitag hier sind, besuchen Sie den Markt für lokale Produkte und Snacks."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Diestsestraat & Bondgenotenlaan",
+            "tip": "A fő bevásárlóutcák ismert márkákkal és helyi butikokkal."
+          },
+          {
+            "name": "Leonidas",
+            "tip": "Vásároljon világhírű belga csokoládét édes szuvenírként."
+          },
+          {
+            "name": "Heti piac (péntek)",
+            "tip": "Ha pénteken jár itt, látogasson el a piacra helyi termékekért és harapnivalókért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Diestsestraat & Bondgenotenlaan",
+            "tip": "Principalele străzi comerciale cu mărci cunoscute și buticuri locale."
+          },
+          {
+            "name": "Leonidas",
+            "tip": "Cumpărați ciocolată belgiană de renume mondial ca suvenir dulce."
+          },
+          {
+            "name": "Piața săptămânală (vineri)",
+            "tip": "Dacă sunteți aici într-o vineri, vizitați piața pentru produse locale și gustări."
+          }
+        ],
+        "en": [
+          {
+            "name": "Diestsestraat & Bondgenotenlaan",
+            "tip": "The main shopping streets with well-known brands and local boutiques."
+          },
+          {
+            "name": "Leonidas",
+            "tip": "Buy world-famous Belgian chocolates for a sweet souvenir."
+          },
+          {
+            "name": "Weekly Market (Friday)",
+            "tip": "If you're here on a Friday, visit the market for local produce and snacks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster uneben sein kann.",
+          "Löwen ist eine Studentenstadt, also erwarten Sie eine lebhafte und jugendliche Atmosphäre.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind leicht zu Fuß erreichbar.",
+          "Nehmen Sie sich Zeit, um sich in den kleinen Gassen zu verirren, besonders rund um den Groot Begijnhof."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakő egyenetlen lehet.",
+          "Leuven egyetemi város, így élénk és fiatalos hangulatra számíthat.",
+          "A legtöbb belvárosi látnivaló könnyen megközelíthető gyalog.",
+          "Szánjon időt arra, hogy eltévedjen a kis sikátorokban, különösen a Groot Begijnhof környékén."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece pavelele pot fi denivelate.",
+          "Leuven este un oraș universitar, așa că așteptați-vă la o atmosferă plină de viață și tinerească.",
+          "Majoritatea atracțiilor din centrul orașului sunt ușor accesibile pe jos.",
+          "Luați-vă timp să vă pierdeți pe aleile mici, în special în jurul Groot Begijnhof."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones can be uneven.",
+          "Leuven is a university town, so expect a lively and youthful atmosphere.",
+          "Most city center attractions are within easy walking distance.",
+          "Take time to get lost in the small alleys, especially around the Groot Begijnhof."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Oude Markt (Alter Markt)",
+            "hu": "Oude Markt (Régi Piac)",
+            "ro": "Oude Markt (Piața Veche)",
+            "en": "Oude Markt (Old Market)"
+          },
+          "coords": [
+            4.7009,
+            50.8787
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Kaffee in einem der vielen Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában.",
+            "ro": "Începeți ziua cu o cafea la una dintre numeroasele cafenele din piață.",
+            "en": "Start the day with a coffee at one of the many cafes on the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadhuis & Sint-Pieterskerk",
+            "hu": "Városháza és Szent Péter-templom",
+            "ro": "Primăria și Biserica Sf. Petru",
+            "en": "Town Hall & St. Peter's Church"
+          },
+          "coords": [
+            4.7015,
+            50.8788
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:42",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und erkunden Sie diese beiden Wahrzeichen zu Fuß. Sie liegen direkt nebeneinander.",
+            "hu": "Zárja le a biciklit, és fedezze fel ezt a két nevezetességet gyalog. Közvetlenül egymás mellett vannak.",
+            "ro": "Încuiați-vă bicicleta și explorați aceste două repere pe jos. Sunt chiar unul lângă altul.",
+            "en": "Lock your bike and explore these two landmarks on foot. They are right next to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Kruidtuin (Botanischer Garten)",
+            "hu": "Kruidtuin (Botanikus Kert)",
+            "ro": "Kruidtuin (Grădina Botanică)",
+            "en": "Kruidtuin (Botanical Garden)"
+          },
+          "coords": [
+            4.7095,
+            50.8833
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:03",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein schöner, friedlicher Ort für eine kurze Radpause. Parken Sie Ihr Fahrrad am Eingang.",
+            "hu": "Egy szép, békés hely egy rövid biciklis szünetre. Parkolja le a kerékpárt a bejáratnál.",
+            "ro": "Un loc frumos și liniștit pentru o scurtă pauză de bicicletă. Parcați bicicleta la intrare.",
+            "en": "A lovely, peaceful spot for a short bike break. Park your bike at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Groot Begijnhof",
+            "hu": "Groot Begijnhof",
+            "ro": "Groot Begijnhof",
+            "en": "Groot Begijnhof"
+          },
+          "coords": [
+            4.6975,
+            50.8722
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:15",
+          "stay_min": 70,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Fahren Sie langsam und respektvoll durch die Gassen oder gehen Sie zu Fuß, um die Atmosphäre aufzusaugen.",
+            "hu": "Tekerjen lassan és tisztelettudóan a sikátorokban, vagy sétáljon, hogy magába szívja a hangulatot.",
+            "ro": "Pedalați încet și respectuos pe alei sau plimbați-vă pentru a absorbi atmosfera.",
+            "en": "Cycle slowly and respectfully through the alleys, or walk to soak in the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Abdij van Park (Parkabtei)",
+            "hu": "Abdij van Park (Parkapátság)",
+            "ro": "Abdij van Park (Abația Parcului)",
+            "en": "Abdij van Park (Park Abbey)"
+          },
+          "coords": [
+            4.7175,
+            50.8655
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:39",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Eine wunderschön restaurierte Abtei. Genießen Sie die Ruhe und die Teiche rundherum.",
+            "hu": "Egy gyönyörűen felújított apátság. Élvezze a csendet és a környező tavakat.",
+            "ro": "O abație frumos restaurată. Bucurați-vă de liniște și de iazurile din jur.",
+            "en": "A beautifully restored abbey. Enjoy the tranquility and the surrounding ponds."
+          }
+        },
+        {
+          "name": {
+            "de": "Kasteel van Arenberg (Schloss Arenberg)",
+            "hu": "Kasteel van Arenberg (Arenberg kastély)",
+            "ro": "Kasteel van Arenberg (Castelul Arenberg)",
+            "en": "Kasteel van Arenberg (Arenberg Castle)"
+          },
+          "coords": [
+            4.6755,
+            50.8643
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:28",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Das Schloss ist Teil des Universitätscampus. Erkunden Sie das Gelände und genießen Sie die beeindruckende Architektur.",
+            "hu": "A kastély az egyetemi kampusz része. Fedezze fel a területet és élvezze a lenyűgöző építészetet.",
+            "ro": "Castelul face parte din campusul universitar. Explorați terenul și bucurați-vă de arhitectura impresionantă.",
+            "en": "The castle is part of the university campus. Explore the grounds and enjoy the impressive architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Stella Artois Brouwerij (Brauerei)",
+            "hu": "Stella Artois Brouwerij (Sörfőzde)",
+            "ro": "Stella Artois Brouwerij (Berărie)",
+            "en": "Stella Artois Brouwerij (Brewery)"
+          },
+          "coords": [
+            4.7212,
+            50.8878
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "17:01",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Buchen Sie eine Tour im Voraus, um zu sehen, wo das weltberühmte Bier hergestellt wird. Die Verkostung ist inklusive!",
+            "hu": "Foglaljon túrát előre, hogy megnézze, hol készül a világhírű sör. A kóstoló benne van az árban!",
+            "ro": "Rezervați un tur în avans pentru a vedea unde se face berea de renume mondial. Degustarea este inclusă!",
+            "en": "Book a tour in advance to see where the world-famous beer is made. Tasting is included!"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auf zwei Rädern erkunden Sie Löwen wie ein Einheimischer. Der Morgen beginnt im historischen Herzen, bevor Sie eine grüne Pause im Botanischen Garten einlegen. Weiter geht es zum UNESCO-gelisteten Groot Begijnhof, einem Dorf in der Stadt. Der Nachmittag führt Sie weiter hinaus zur ruhigen Parkabtei und zum beeindruckenden Schloss Arenberg, das tief in die Universitätskultur eingebettet ist. Die Tour endet passenderweise in der Stella Artois Brauerei, um auf einen erlebnisreichen Tag anzustoßen.",
+        "hu": "Két keréken úgy fedezheti fel Leuvent, mint egy helyi. A reggel a történelmi szívben kezdődik, mielőtt egy zöld szünetet tartana a Botanikus Kertben. Tovább halad az UNESCO listán szereplő Groot Begijnhofhoz, egy falu a városban. A délután messzebbre visz a csendes Parkapátsághoz és a lenyűgöző Arenberg kastélyhoz, amely mélyen beágyazódott az egyetemi kultúrába. A túra stílszerűen a Stella Artois Sörfőzdében ér véget, hogy egy élményekkel teli napra koccintson.",
+        "ro": "Pe două roți, explorați Leuven ca un localnic. Dimineața începe în inima istorică, înainte de o pauză verde în Grădina Botanică. Continuați spre Groot Begijnhof, inclus în patrimoniul UNESCO, un sat în oraș. După-amiaza vă duce mai departe la liniștita Abație a Parcului și la impresionantul Castel Arenberg, adânc înrădăcinat în cultura universitară. Turul se încheie în mod corespunzător la Berăria Stella Artois, pentru a închina pentru o zi plină de evenimente.",
+        "en": "On two wheels, you'll explore Leuven like a local. The morning starts in the historic heart before a green break at the Botanical Garden. Continue to the UNESCO-listed Groot Begijnhof, a village within the city. The afternoon takes you further afield to the serene Park Abbey and the impressive Arenberg Castle, deeply embedded in university culture. The tour appropriately ends at the Stella Artois Brewery to toast an eventful day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "De Werf",
+            "tip": "Sehr beliebt bei Studenten. Günstige und leckere Mahlzeiten in einer entspannten Atmosphäre."
+          },
+          {
+            "name": "Baracca",
+            "tip": "Moderne italienische Küche, ideal für ein schönes Abendessen nach einer langen Radtour."
+          },
+          {
+            "name": "Het Moorinneken",
+            "tip": "Ein historisches Café am Grote Markt, perfekt für ein belgisches Bier und Leute beobachten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "De Werf",
+            "tip": "Nagyon népszerű a diákok körében. Olcsó és finom ételek laza hangulatban."
+          },
+          {
+            "name": "Baracca",
+            "tip": "Modern olasz konyha, ideális egy kellemes vacsorához egy hosszú biciklitúra után."
+          },
+          {
+            "name": "Het Moorinneken",
+            "tip": "Történelmi kávézó a Grote Markton, tökéletes egy belga sörhöz és emberek nézegetéséhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "De Werf",
+            "tip": "Foarte popular printre studenți. Mese ieftine și gustoase într-o atmosferă relaxată."
+          },
+          {
+            "name": "Baracca",
+            "tip": "Bucătărie italiană modernă, ideală pentru o cină plăcută după o plimbare lungă cu bicicleta."
+          },
+          {
+            "name": "Het Moorinneken",
+            "tip": "O cafenea istorică în Grote Markt, perfectă pentru o bere belgiană și pentru a privi oamenii."
+          }
+        ],
+        "en": [
+          {
+            "name": "De Werf",
+            "tip": "Very popular with students. Inexpensive and tasty meals in a relaxed atmosphere."
+          },
+          {
+            "name": "Baracca",
+            "tip": "Modern Italian food, great for a nice dinner after a long bike ride."
+          },
+          {
+            "name": "Het Moorinneken",
+            "tip": "A historic café on the Grote Markt, perfect for a Belgian beer and people-watching."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Abdij van Park",
+            "tip": "Spazieren Sie um die Teiche, ein perfekter Ort der Stille und Besinnung.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kasteel van Arenberg Park",
+            "tip": "Der weitläufige Park rund um das Schloss ist ideal für einen ruhigen Spaziergang.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dijlepad",
+            "tip": "Folgen Sie dem Pfad entlang des Flusses Dijle für eine friedliche Flucht aus der Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Abdij van Park",
+            "tip": "Sétáljon a tavak körül, a csend és az elmélkedés tökéletes helye.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kasteel van Arenberg Park",
+            "tip": "A kastély körüli tágas park ideális egy csendes sétához.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dijlepad",
+            "tip": "Kövesse a Dijle folyó menti ösvényt egy békés meneküléshez a városból.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Abdij van Park",
+            "tip": "Plimbați-vă în jurul iazurilor, un loc perfect de liniște și reflecție.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Castelului Arenberg",
+            "tip": "Parcul întins din jurul castelului este ideal pentru o plimbare liniștită.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dijlepad",
+            "tip": "Urmați cărarea de-a lungul râului Dijle pentru o evadare pașnică din oraș.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Abdij van Park",
+            "tip": "Walk around the ponds, a perfect spot for silence and reflection.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kasteel van Arenberg Park",
+            "tip": "The vast park surrounding the castle is ideal for a quiet stroll.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dijlepad",
+            "tip": "Follow the path along the river Dijle for a peaceful escape from the city.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Parijsstraat",
+            "tip": "Eine charmante Straße mit einzigartigen, unabhängigen Geschäften und Boutiquen."
+          },
+          {
+            "name": "Dom",
+            "tip": "Ein Concept Store mit einer kuratierten Auswahl an Design, Mode und Geschenken."
+          },
+          {
+            "name": "Fietspunt Leuven",
+            "tip": "Mieten Sie hier Ihr Fahrrad oder kaufen Sie einzigartiges Fahrradzubehör."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parijsstraat",
+            "tip": "Bájos utca egyedi, független üzletekkel és butikokkal."
+          },
+          {
+            "name": "Dom",
+            "tip": "Koncepcióüzlet, válogatott design, divat és ajándéktárgyakkal."
+          },
+          {
+            "name": "Fietspunt Leuven",
+            "tip": "Bérelje itt a kerékpárját, vagy vásároljon egyedi kerékpáros kiegészítőket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parijsstraat",
+            "tip": "O stradă fermecătoare cu magazine și buticuri unice, independente."
+          },
+          {
+            "name": "Dom",
+            "tip": "Un concept store cu o selecție curatoriată de design, modă și cadouri."
+          },
+          {
+            "name": "Fietspunt Leuven",
+            "tip": "Închiriați-vă bicicleta de aici sau cumpărați accesorii unice pentru biciclete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Parijsstraat",
+            "tip": "A charming street with unique, independent shops and boutiques."
+          },
+          {
+            "name": "Dom",
+            "tip": "A concept store with a curated selection of design, fashion, and gifts."
+          },
+          {
+            "name": "Fietspunt Leuven",
+            "tip": "Rent your bike here or buy unique cycling accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Löwen ist sehr fahrradfreundlich mit vielen Radwegen.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, besonders an belebten Orten.",
+          "Achten Sie auf Einbahnstraßen für Autos, die oft für Fahrräder in beide Richtungen offen sind (ausgeschildert).",
+          "Eine Fahrradklingel ist nützlich, um Fußgänger in geteilten Zonen zu warnen."
+        ],
+        "hu": [
+          "Leuven nagyon biciklibarát, sok kerékpárúttal.",
+          "Mindig zárja le jól a kerékpárját, különösen forgalmas helyeken.",
+          "Figyeljen az autók számára egyirányú utcákra, amelyek gyakran mindkét irányban nyitottak a kerékpárosok számára (táblával jelezve).",
+          "A kerékpárcsengő hasznos a gyalogosok figyelmeztetésére a megosztott zónákban."
+        ],
+        "ro": [
+          "Leuven este foarte prietenos cu bicicletele, cu multe piste de biciclete.",
+          "Încuiați-vă întotdeauna bine bicicleta, mai ales în locurile aglomerate.",
+          "Fiți atenți la străzile cu sens unic pentru mașini, care sunt adesea deschise pentru biciclete în ambele sensuri (semnalizate).",
+          "Un clopoțel de bicicletă este util pentru a avertiza pietonii în zonele comune."
+        ],
+        "en": [
+          "Leuven is very bike-friendly with many cycle paths.",
+          "Always lock your bike securely, especially in busy areas.",
+          "Be aware of one-way streets for cars, which are often open for bikes in both directions (indicated by signs).",
+          "A bike bell is useful for alerting pedestrians in shared zones."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 8.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Parken im Zentrum (z.B. Parking Ladeuze)",
+            "hu": "1. klaszter: Parkolás a központban (pl. Parking Ladeuze)",
+            "ro": "Cluster 1: Parcare în centru (ex. Parking Ladeuze)",
+            "en": "Cluster 1: Park in City Center (e.g., Parking Ladeuze)"
+          },
+          "coords": [
+            4.7063,
+            50.8778
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto für den Vormittag. Von hier aus ist das historische Zentrum leicht zu Fuß erreichbar.",
+            "hu": "Parkolja le az autót a délelőttre. Innen a történelmi központ könnyen elérhető gyalog.",
+            "ro": "Parcați mașina pentru dimineață. De aici, centrul istoric este ușor accesibil pe jos.",
+            "en": "Park your car for the morning. The historic center is easily walkable from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Universitätsbibliothek & Oude Markt",
+            "hu": "Egyetemi Könyvtár és Oude Markt",
+            "ro": "Biblioteca Universității și Oude Markt",
+            "en": "University Library & Oude Markt"
+          },
+          "coords": [
+            4.7058,
+            50.8767
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:25",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besteigen Sie den Turm und schlendern Sie dann zum Alten Markt, um die Atmosphäre aufzusaugen.",
+            "hu": "Másszon fel a toronyba, majd sétáljon át a Régi Piacra, hogy magába szívja a hangulatot.",
+            "ro": "Urcați în turn, apoi plimbați-vă spre Piața Veche pentru a absorbi atmosfera.",
+            "en": "Climb the tower, then stroll over to the Old Market to soak in the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadhuis & Sint-Pieterskerk",
+            "hu": "Városháza és Szent Péter-templom",
+            "ro": "Primăria și Biserica Sf. Petru",
+            "en": "Town Hall & St. Peter's Church"
+          },
+          "coords": [
+            4.7015,
+            50.8788
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:03",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotische Architektur dieser beiden benachbarten Wahrzeichen.",
+            "hu": "Csodálja meg e két szomszédos nevezetesség gótikus építészetét.",
+            "ro": "Admirați arhitectura gotică a acestor două repere învecinate.",
+            "en": "Admire the Gothic architecture of these two adjacent landmarks."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Fahrt zur Abdij van Park",
+            "hu": "2. klaszter: Utazás a Parkapátsághoz",
+            "ro": "Cluster 2: Conduceți la Abația Parcului",
+            "en": "Cluster 2: Drive to Park Abbey"
+          },
+          "coords": [
+            4.7175,
+            50.8655
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:30",
+          "stay_min": 100,
+          "hop_mode": "car",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Fahren Sie zur Abtei und parken Sie dort. Genießen Sie die Ruhe und essen Sie in der Nähe zu Mittag.",
+            "hu": "Vezessen az apátsághoz és parkoljon le. Élvezze a nyugalmat és ebédeljen a közelben.",
+            "ro": "Conduceți la abație și parcați. Bucurați-vă de liniște și luați prânzul în apropiere.",
+            "en": "Drive to the abbey and park. Enjoy the tranquility and have lunch nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang um die Teiche der Abtei",
+            "hu": "Séta az apátság tavai körül",
+            "ro": "Plimbare în jurul iazurilor abației",
+            "en": "Walk around the abbey's ponds"
+          },
+          "coords": [
+            4.718,
+            50.864
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein erfrischender Spaziergang nach dem Mittagessen in einer malerischen Umgebung.",
+            "hu": "Egy frissítő séta ebéd után, festői környezetben.",
+            "ro": "O plimbare revigorantă după prânz într-un cadru pitoresc.",
+            "en": "A refreshing walk after lunch in a picturesque setting."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Fahrt zum Kasteel van Arenberg",
+            "hu": "3. klaszter: Utazás az Arenberg kastélyhoz",
+            "ro": "Cluster 3: Conduceți la Castelul Arenberg",
+            "en": "Cluster 3: Drive to Arenberg Castle"
+          },
+          "coords": [
+            4.6755,
+            50.8643
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:10",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.3,
+          "tip_5lang": {
+            "de": "Parken Sie auf dem Universitätscampus und erkunden Sie das Schloss und seine beeindruckende Umgebung.",
+            "hu": "Parkoljon az egyetemi kampuszon, és fedezze fel a kastélyt és annak lenyűgöző környezetét.",
+            "ro": "Parcați în campusul universitar și explorați castelul și împrejurimile sale impresionante.",
+            "en": "Park on the university campus and explore the castle and its impressive grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Groot Begijnhof",
+            "hu": "Groot Begijnhof",
+            "ro": "Groot Begijnhof",
+            "en": "Groot Begijnhof"
+          },
+          "coords": [
+            4.6975,
+            50.8722
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:45",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Schloss entfernt. Beenden Sie den Tag in dieser UNESCO-geschützten Oase der Ruhe.",
+            "hu": "Egy rövid sétára a kastélytól. Fejezze be a napot ebben az UNESCO által védett békeoázisban.",
+            "ro": "La o scurtă plimbare de castel. Încheiați ziua în această oază de liniște protejată de UNESCO.",
+            "en": "A short walk from the castle. End your day in this UNESCO-protected oasis of peace."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erleben Sie Löwen in Clustern. Sie parken im Zentrum, um die Highlights wie die Bibliothek und den Grote Markt zu Fuß zu erkunden. Danach fahren Sie zur ruhigen Parkabtei für eine spirituelle und kulinarische Pause. Der Nachmittag gehört dem akademischen Erbe mit einem Besuch des prächtigen Arenberg-Schlosses und einem abschließenden Spaziergang durch den friedlichen Groot Begijnhof. Diese Methode kombiniert den Komfort des Autos mit der Intimität des Gehens.",
+        "hu": "Autóval klaszterekben éli át Leuvent. A központban parkol, hogy gyalog fedezze fel az olyan nevezetességeket, mint a könyvtár és a Grote Markt. Ezután a csendes Parkapátsághoz hajt egy spirituális és kulináris szünetre. A délután az akadémiai örökségé, a csodálatos Arenberg-kastély meglátogatásával és egy záró sétával a békés Groot Begijnhofban. Ez a módszer ötvözi az autó kényelmét a gyaloglás intimitásával.",
+        "ro": "Cu mașina, experimentați Leuven în clustere. Parcați în centru pentru a explora pe jos atracțiile principale, cum ar fi biblioteca și Grote Markt. Apoi, conduceți la liniștita Abație a Parcului pentru o pauză spirituală și culinară. După-amiaza este dedicată moștenirii academice, cu o vizită la magnificul Castel Arenberg și o plimbare finală prin pașnicul Groot Begijnhof. Această metodă combină confortul mașinii cu intimitatea mersului pe jos.",
+        "en": "By car, you'll experience Leuven in clusters. You park in the center to explore the highlights like the library and Grote Markt on foot. Then, you drive to the tranquil Park Abbey for a spiritual and culinary break. The afternoon is for academic heritage with a visit to the magnificent Arenberg Castle and a final stroll through the peaceful Groot Begijnhof. This method combines the convenience of the car with the intimacy of walking."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brasserie De Abdijmolen",
+            "tip": "In der Nähe der Parkabtei gelegen, ideal für ein Mittagessen mit Aussicht."
+          },
+          {
+            "name": "The Faculty Club",
+            "tip": "Ein gehobenes Restaurant im Groot Begijnhof für ein besonderes Abendessen."
+          },
+          {
+            "name": "Muntstraat",
+            "tip": "Eine ganze Straße voller Restaurants für jeden Geschmack und Geldbeutel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brasserie De Abdijmolen",
+            "tip": "A Parkapátság közelében található, ideális egy ebédhez kilátással."
+          },
+          {
+            "name": "The Faculty Club",
+            "tip": "Elegáns étterem a Groot Begijnhofban egy különleges vacsorához."
+          },
+          {
+            "name": "Muntstraat",
+            "tip": "Egy egész utca tele éttermekkel minden ízlésnek és pénztárcának."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brasserie De Abdijmolen",
+            "tip": "Situată lângă Abația Parcului, ideală pentru un prânz cu priveliște."
+          },
+          {
+            "name": "The Faculty Club",
+            "tip": "Un restaurant de lux în Groot Begijnhof pentru o cină specială."
+          },
+          {
+            "name": "Muntstraat",
+            "tip": "O stradă întreagă plină de restaurante pentru toate gusturile și buzunarele."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brasserie De Abdijmolen",
+            "tip": "Located near Park Abbey, ideal for lunch with a view."
+          },
+          {
+            "name": "The Faculty Club",
+            "tip": "An upscale restaurant in the Groot Begijnhof for a special dinner."
+          },
+          {
+            "name": "Muntstraat",
+            "tip": "An entire street full of restaurants for every taste and budget."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park der Abtei",
+            "tip": "Die Teiche und Wege bieten eine perfekte Flucht aus dem städtischen Trubel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gelände des Schlosses Arenberg",
+            "tip": "Weitläufig und grün, ideal für einen entspannten Spaziergang.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Groot Begijnhof am späten Nachmittag",
+            "tip": "Wenn die meisten Touristen weg sind, ist die Stille magisch.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Apátsági park",
+            "tip": "A tavak és ösvények tökéletes menekülést kínálnak a városi nyüzsgésből.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Arenberg kastély területe",
+            "tip": "Tágas és zöld, ideális egy pihentető sétához.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Groot Begijnhof késő délután",
+            "tip": "Amikor a legtöbb turista már elment, a csend varázslatos.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Abației",
+            "tip": "Iazurile și potecile oferă o evadare perfectă din agitația urbană.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Terenul Castelului Arenberg",
+            "tip": "Vast și verde, ideal pentru o plimbare relaxantă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Groot Begijnhof după-amiaza târziu",
+            "tip": "Când majoritatea turiștilor au plecat, liniștea este magică.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Park of the Abbey",
+            "tip": "The ponds and paths offer a perfect escape from the urban hustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Arenberg Castle Grounds",
+            "tip": "Spacious and green, ideal for a relaxing walk.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Groot Begijnhof in the late afternoon",
+            "tip": "When most tourists are gone, the silence is magical.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mechelsestraat",
+            "tip": "Bekannt für ihre unabhängigen Boutiquen und Feinkostläden."
+          },
+          {
+            "name": "Abdijwinkel",
+            "tip": "Kaufen Sie Käse und Bier, das von der Abtei hergestellt wird."
+          },
+          {
+            "name": "Antoine",
+            "tip": "Ein berühmter Chocolatier für hochwertige belgische Pralinen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mechelsestraat",
+            "tip": "Ismert független butikjairól és csemegeboltjairól."
+          },
+          {
+            "name": "Abdijwinkel (Apátsági bolt)",
+            "tip": "Vásároljon az apátság által készített sajtot és sört."
+          },
+          {
+            "name": "Antoine",
+            "tip": "Híres csokoládékészítő a minőségi belga pralinékért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mechelsestraat",
+            "tip": "Cunoscută pentru buticurile sale independente și delicatese."
+          },
+          {
+            "name": "Abdijwinkel (Magazinul Abației)",
+            "tip": "Cumpărați brânză și bere produse de abație."
+          },
+          {
+            "name": "Antoine",
+            "tip": "Un ciocolatier renumit pentru praline belgiene de înaltă calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mechelsestraat",
+            "tip": "Known for its independent boutiques and delicatessens."
+          },
+          {
+            "name": "Abdijwinkel (Abbey Shop)",
+            "tip": "Buy cheese and beer made by the abbey."
+          },
+          {
+            "name": "Antoine",
+            "tip": "A famous chocolatier for high-quality Belgian chocolates."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkgebühren im Voraus; das Parken im Stadtzentrum kann teuer sein.",
+          "Achten Sie auf die Umweltzone (LEZ) in Löwen, falls Ihr Fahrzeug betroffen ist.",
+          "Planen Sie Ihre Fahrten zwischen den Clustern außerhalb der Hauptverkehrszeiten.",
+          "Lassen Sie keine Wertsachen im Auto sichtbar liegen."
+        ],
+        "hu": [
+          "Ellenőrizze előre a parkolási díjakat; a belvárosi parkolás drága lehet.",
+          "Vegye figyelembe a leuveni alacsony kibocsátású zónát (LEZ), ha járműve érintett.",
+          "Tervezze az utazásokat a klaszterek között a csúcsforgalmon kívüli időpontokra.",
+          "Ne hagyjon értékeket látható helyen az autóban."
+        ],
+        "ro": [
+          "Verificați taxele de parcare în avans; parcarea în centrul orașului poate fi scumpă.",
+          "Fiți conștienți de Zona cu Emisii Scăzute (LEZ) din Leuven dacă vehiculul dvs. este afectat.",
+          "Planificați-vă deplasările între clustere în afara orelor de vârf.",
+          "Nu lăsați obiecte de valoare la vedere în mașină."
+        ],
+        "en": [
+          "Check parking fees in advance; city center parking can be expensive.",
+          "Be aware of the Low Emission Zone (LEZ) in Leuven if your vehicle is affected.",
+          "Plan your drives between clusters outside of peak traffic hours.",
+          "Do not leave valuables visible in the car."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 6.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Ankunft im Zentrum (Oude Markt)",
+            "hu": "1. klaszter: Érkezés a központba (Oude Markt)",
+            "ro": "Cluster 1: Sosire în centru (Oude Markt)",
+            "en": "Cluster 1: Arrive in Center (Oude Markt)"
+          },
+          "coords": [
+            4.7009,
+            50.8787
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag im Herzen von Löwen. Die meisten Buslinien halten in der Nähe.",
+            "hu": "Kezdje a napot Leuven szívében. A legtöbb buszjárat a közelben áll meg.",
+            "ro": "Începeți ziua în inima orașului Leuven. Majoritatea liniilor de autobuz opresc în apropiere.",
+            "en": "Start your day in the heart of Leuven. Most bus lines stop nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadhuis & Sint-Pieterskerk",
+            "hu": "Városháza és Szent Péter-templom",
+            "ro": "Primăria și Biserica Sf. Petru",
+            "en": "Town Hall & St. Peter's Church"
+          },
+          "coords": [
+            4.7015,
+            50.8788
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:52",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Oude Markt zu diesen beiden architektonischen Juwelen.",
+            "hu": "Rövid séta az Oude Markttól ehhez a két építészeti gyöngyszemhez.",
+            "ro": "O scurtă plimbare de la Oude Markt la aceste două bijuterii arhitecturale.",
+            "en": "A short walk from the Oude Markt to these two architectural gems."
+          }
+        },
+        {
+          "name": {
+            "de": "M-Museum Leuven",
+            "hu": "M-Múzeum Leuven",
+            "ro": "M-Museum Leuven",
+            "en": "M-Museum Leuven"
+          },
+          "coords": [
+            4.7031,
+            50.8805
+          ],
+          "category": "museums",
+          "arrive_at": "11:11",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine Mischung aus klassischer und zeitgenössischer Kunst in diesem modernen Museum.",
+            "hu": "Fedezze fel a klasszikus és kortárs művészet keverékét ebben a modern múzeumban.",
+            "ro": "Descoperiți un amestec de artă clasică și contemporană în acest muzeu modern.",
+            "en": "Discover a mix of classic and contemporary art in this modern museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Bus zum Groot Begijnhof",
+            "hu": "2. klaszter: Busz a Groot Begijnhofhoz",
+            "ro": "Cluster 2: Autobuz spre Groot Begijnhof",
+            "en": "Cluster 2: Bus to Groot Begijnhof"
+          },
+          "coords": [
+            4.6975,
+            50.8722
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:08",
+          "stay_min": 75,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen kurzen Bus (z.B. Linie 2), um diese UNESCO-Welterbestätte zu erreichen.",
+            "hu": "Menjen egy rövid buszúttal (pl. 2-es vonal) ehhez az UNESCO világörökségi helyszínhez.",
+            "ro": "Luați un autobuz pe o distanță scurtă (de ex. linia 2) pentru a ajunge la acest sit al Patrimoniului Mondial UNESCO.",
+            "en": "Take a short bus ride (e.g., line 2) to reach this UNESCO World Heritage site."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Bus zur Stella Artois Brauerei",
+            "hu": "3. klaszter: Busz a Stella Artois Sörfőzdéhez",
+            "ro": "Cluster 3: Autobuz spre Berăria Stella Artois",
+            "en": "Cluster 3: Bus to Stella Artois Brewery"
+          },
+          "coords": [
+            4.7212,
+            50.8878
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:48",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Eine weitere Busfahrt bringt Sie zur Heimat des berühmten Bieres. Buchen Sie die Tour im Voraus!",
+            "hu": "Egy újabb buszút visz a híres sör otthonába. Foglalja le a túrát előre!",
+            "ro": "O altă călătorie cu autobuzul vă duce la casa celebrei beri. Rezervați turul în avans!",
+            "en": "Another bus ride takes you to the home of the famous beer. Book the tour in advance!"
+          }
+        },
+        {
+          "name": {
+            "de": "Kruidtuin (Botanischer Garten)",
+            "hu": "Kruidtuin (Botanikus Kert)",
+            "ro": "Kruidtuin (Grădina Botanică)",
+            "en": "Kruidtuin (Botanical Garden)"
+          },
+          "coords": [
+            4.7095,
+            50.8833
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:22",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Brauerei entfernt. Ein perfekter, ruhiger Abschluss für Ihren Tag.",
+            "hu": "Rövid séta a sörfőzdétől. Tökéletes, csendes befejezése a napnak.",
+            "ro": "O scurtă plimbare de la berărie. O încheiere perfectă și liniștită a zilei.",
+            "en": "A short walk from the brewery. A perfect, quiet end to your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln navigieren Sie Löwen effizient. Der Vormittag konzentriert sich auf den fußläufigen historischen Kern, einschließlich des Grote Markts und des M-Museums. Eine kurze Busfahrt bringt Sie am frühen Nachmittag zum friedlichen Groot Begijnhof. Eine weitere Fahrt führt Sie zur weltberühmten Stella Artois Brauerei für einen Einblick in die Braukunst, bevor Sie den Tag im ruhigen Botanischen Garten ausklingen lassen. Diese Route maximiert Ihre Zeit und minimiert den Fußweg zwischen weiter entfernten Sehenswürdigkeiten.",
+        "hu": "A tömegközlekedéssel hatékonyan navigálhat Leuvenben. A délelőtt a gyalogosan bejárható történelmi magra összpontosít, beleértve a Grote Marktot és az M-Múzeumot. Egy rövid buszút visz a kora délutáni órákban a békés Groot Begijnhofhoz. Egy másik utazás a világhírű Stella Artois Sörfőzdébe vezet, ahol bepillantást nyerhet a sörfőzés művészetébe, mielőtt a napot a csendes Botanikus Kertben zárná. Ez az útvonal maximalizálja az idejét és minimalizálja a gyaloglást a távolabbi látnivalók között.",
+        "ro": "Navigați eficient prin Leuven folosind transportul public. Dimineața se concentrează pe nucleul istoric pietonal, incluzând Grote Markt și Muzeul M. O scurtă călătorie cu autobuzul vă duce la pașnicul Groot Begijnhof la începutul după-amiezii. O altă călătorie vă conduce la faimoasa Berărie Stella Artois pentru o incursiune în arta berii, înainte de a încheia ziua în liniștita Grădină Botanică. Acest traseu maximizează timpul și minimizează mersul pe jos între atracțiile mai îndepărtate.",
+        "en": "Navigate Leuven efficiently using public transport. The morning focuses on the walkable historic core, including the Grote Markt and M-Museum. A short bus ride takes you to the peaceful Groot Begijnhof in the early afternoon. Another ride leads you to the world-famous Stella Artois Brewery for a glimpse into brewing art, before ending the day at the tranquil Botanical Garden. This route maximizes your time and minimizes walking between more distant sights."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Würst",
+            "tip": "Gourmet-Hotdogs, gegründet von einem TV-Koch. Schnell, lecker und zentral."
+          },
+          {
+            "name": "Otomat",
+            "tip": "Himmlische Pizza mit einzigartigen belgischen Toppings und Bier-Paarungen."
+          },
+          {
+            "name": "De Oude Munt",
+            "tip": "Ein traditionelles 'braunes Café' für ein authentisches belgisches Biererlebnis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Würst",
+            "tip": "Gourmet hot dog egy tévés séftől. Gyors, finom és központi."
+          },
+          {
+            "name": "Otomat",
+            "tip": "Mennyei pizza egyedi belga feltétekkel és sörpárosításokkal."
+          },
+          {
+            "name": "De Oude Munt",
+            "tip": "Hagyományos 'barna kávézó' egy autentikus belga sörélményért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Würst",
+            "tip": "Hot-dogi gourmet, fondat de un bucătar TV. Rapid, delicios și central."
+          },
+          {
+            "name": "Otomat",
+            "tip": "Pizza divină cu toppinguri belgiene unice și asocieri cu bere."
+          },
+          {
+            "name": "De Oude Munt",
+            "tip": "O 'cafenea maro' tradițională pentru o experiență autentică a berii belgiene."
+          }
+        ],
+        "en": [
+          {
+            "name": "Würst",
+            "tip": "Gourmet hot dogs founded by a TV chef. Quick, delicious, and central."
+          },
+          {
+            "name": "Otomat",
+            "tip": "Heavenly pizza with unique Belgian toppings and beer pairings."
+          },
+          {
+            "name": "De Oude Munt",
+            "tip": "A traditional 'brown cafe' for an authentic Belgian beer experience."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kruidtuin",
+            "tip": "Finden Sie eine ruhige Ecke in den Gewächshäusern oder im Freien.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Groot Begijnhof",
+            "tip": "Die Kopfsteinpflastergassen sind morgens oder am späten Nachmittag am ruhigsten.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sint-Michielskerk",
+            "tip": "Eine weniger überlaufene Kirche mit beeindruckendem barocken Interieur.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kruidtuin",
+            "tip": "Keressen egy csendes sarkot az üvegházakban vagy a szabadban.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Groot Begijnhof",
+            "tip": "A macskaköves sikátorok reggel vagy késő délután a legcsendesebbek.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sint-Michielskerk",
+            "tip": "Egy kevésbé zsúfolt templom lenyűgöző barokk belsővel.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kruidtuin",
+            "tip": "Găsiți un colț liniștit în sere sau în aer liber.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Groot Begijnhof",
+            "tip": "Aleile pietruite sunt cele mai liniștite dimineața sau după-amiaza târziu.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sint-Michielskerk",
+            "tip": "O biserică mai puțin aglomerată, cu un interior baroc impresionant.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kruidtuin",
+            "tip": "Find a quiet corner in the greenhouses or outdoors.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Groot Begijnhof",
+            "tip": "The cobblestone alleys are quietest in the morning or late afternoon.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sint-Michielskerk",
+            "tip": "A less crowded church with an impressive baroque interior.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vismarkt",
+            "tip": "Ein kleiner Platz mit netten Geschäften und oft einem kleinen Markt."
+          },
+          {
+            "name": "Think Twice",
+            "tip": "Ein beliebter Second-Hand-Laden für einzigartige Modefunde."
+          },
+          {
+            "name": "Leuven Leisure",
+            "tip": "Für lokale Souvenirs, Stadtpläne und Geschenke mit Löwen-Thema."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vismarkt (Halpiac)",
+            "tip": "Kis tér szép üzletekkel és gyakran egy kis piaccal."
+          },
+          {
+            "name": "Think Twice",
+            "tip": "Népszerű használtruha-bolt egyedi divatleletekért."
+          },
+          {
+            "name": "Leuven Leisure",
+            "tip": "Helyi szuvenírekért, várostérképekért és Leuven témájú ajándékokért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vismarkt (Piața de Pește)",
+            "tip": "O piață mică cu magazine drăguțe și adesea o mică piață."
+          },
+          {
+            "name": "Think Twice",
+            "tip": "Un magazin second-hand popular pentru descoperiri unice de modă."
+          },
+          {
+            "name": "Leuven Leisure",
+            "tip": "Pentru suveniruri locale, hărți ale orașului și cadouri tematice Leuven."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vismarkt (Fish Market)",
+            "tip": "A small square with nice shops and often a small market."
+          },
+          {
+            "name": "Think Twice",
+            "tip": "A popular second-hand store for unique fashion finds."
+          },
+          {
+            "name": "Leuven Leisure",
+            "tip": "For local souvenirs, city maps, and Leuven-themed gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte (dagpas) für unbegrenzte Fahrten mit den De Lijn Bussen.",
+          "Verwenden Sie die De Lijn App, um Routen und Echtzeit-Buszeiten zu planen.",
+          "Die meisten Busse sind bargeldlos; kaufen Sie Ihr Ticket im Voraus per App, an einem Automaten oder in einem Lijnwinkel.",
+          "Validieren Sie Ihr Ticket bei jedem Einstieg in den Bus."
+        ],
+        "hu": [
+          "Vásároljon napijegyet (dagpas) a De Lijn buszokon való korlátlan utazáshoz.",
+          "Használja a De Lijn alkalmazást az útvonalak és a valós idejű buszmenetrendek tervezéséhez.",
+          "A legtöbb busz készpénzmentes; vásárolja meg jegyét előre az alkalmazáson, automatán vagy egy Lijnwinkelben.",
+          "Érvényesítse a jegyét minden felszálláskor."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi (dagpas) pentru călătorii nelimitate cu autobuzele De Lijn.",
+          "Utilizați aplicația De Lijn pentru a planifica rutele și a vedea orele de sosire în timp real.",
+          "Majoritatea autobuzelor nu acceptă numerar; cumpărați biletul în avans prin aplicație, de la un automat sau dintr-un Lijnwinkel.",
+          "Validați biletul de fiecare dată când urcați în autobuz."
+        ],
+        "en": [
+          "Buy a day pass (dagpas) for unlimited travel on De Lijn buses.",
+          "Use the De Lijn app to plan routes and see real-time bus schedules.",
+          "Most buses are cashless; buy your ticket in advance via the app, a machine, or a Lijnwinkel.",
+          "Validate your ticket every time you board the bus."
+        ]
+      }
+    }
+  }
+}

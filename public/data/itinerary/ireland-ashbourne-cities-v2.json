@@ -1,0 +1,1436 @@
+{
+  "city_id": "ireland-ashbourne-cities-v2",
+  "anchor": {
+    "name": "Ashbourne",
+    "coords": [
+      -6.3934,
+      53.5135
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Killegland-Platz",
+            "hu": "Killegland tér",
+            "ro": "Piața Killegland",
+            "en": "Killegland Square"
+          },
+          "coords": [
+            -6.3988,
+            53.5142
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Kaffee in einem der örtlichen Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér valamelyik helyi kávézójában.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele locale din piață.",
+            "en": "Start your day with a coffee from one of the local cafés around the square."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Declan's Kirche",
+            "hu": "Szent Declan-templom",
+            "ro": "Biserica Sf. Declan",
+            "en": "St. Declan's Church"
+          },
+          "coords": [
+            -6.4021,
+            53.5129
+          ],
+          "category": "churches",
+          "arrive_at": "09:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die moderne Architektur und die farbenfrohen Glasfenster.",
+            "hu": "Figyelje meg a modern építészetet és a színes ólomüveg ablakokat.",
+            "ro": "Observați arhitectura modernă și vitraliile colorate.",
+            "en": "Take note of the modern architecture and the colourful stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Ashbourne Bibliothek",
+            "hu": "Ashbourne Könyvtár",
+            "ro": "Biblioteca Ashbourne",
+            "en": "Ashbourne Library"
+          },
+          "coords": [
+            -6.3995,
+            53.5121
+          ],
+          "category": "theatres",
+          "arrive_at": "10:29",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie, ob lokale Kunstausstellungen oder Veranstaltungen stattfinden.",
+            "hu": "Nézze meg, hogy van-e helyi művészeti kiállítás vagy esemény.",
+            "ro": "Verificați dacă există expoziții de artă sau evenimente locale.",
+            "en": "Check for any local art exhibitions or community events being held inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Broadmeadow River",
+            "hu": "Séta a Broadmeadow folyó mentén",
+            "ro": "Promenada râului Broadmeadow",
+            "en": "Broadmeadow River Walk"
+          },
+          "coords": [
+            -6.3951,
+            53.5186
+          ],
+          "category": "promenades",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein idealer Ort für ein ruhiges Picknick. Bänke sind entlang des Weges verfügbar.",
+            "hu": "Ideális hely egy csendes piknikhez. Padok rendelkezésre állnak az ösvény mentén.",
+            "ro": "Un loc ideal pentru un picnic liniștit. Bănci sunt disponibile de-a lungul cărării.",
+            "en": "An ideal spot for a quiet picnic. Benches are available along the path."
+          }
+        },
+        {
+          "name": {
+            "de": "Rath-Kreuz-Denkmal",
+            "hu": "Rath Kereszt Emlékmű",
+            "ro": "Monumentul Crucea Rath",
+            "en": "Rath Cross Monument"
+          },
+          "coords": [
+            -6.4089,
+            53.5075
+          ],
+          "category": "monuments",
+          "arrive_at": "13:02",
+          "stay_min": 15,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 1.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lesen Sie die Inschrift, um mehr über die lokale Geschichte des 15. Jahrhunderts zu erfahren.",
+            "hu": "Olvassa el a feliratot, hogy többet tudjon meg a 15. századi helyi történelemről.",
+            "ro": "Citiți inscripția pentru a afla despre istoria locală din secolul al XV-lea.",
+            "en": "Read the inscription to learn about the local 15th-century history it commemorates."
+          }
+        },
+        {
+          "name": {
+            "de": "Donaghmore Kirchenruinen",
+            "hu": "Donaghmore templomromjai",
+            "ro": "Ruinele Bisericii Donaghmore",
+            "en": "Donaghmore Church Ruins"
+          },
+          "coords": [
+            -6.4188,
+            53.5042
+          ],
+          "category": "historical",
+          "arrive_at": "13:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bringen Sie festes Schuhwerk mit, um den runden Turm und den alten Friedhof zu erkunden.",
+            "hu": "Hozzon erős cipőt a kerek torony és a régi temető felfedezéséhez.",
+            "ro": "Aduceți încălțăminte rezistentă pentru a explora turnul rotund și cimitirul vechi.",
+            "en": "Bring sturdy footwear to explore around the round tower and ancient graveyard."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Ashbourne am Killegland Square und genießen Sie die moderne Stadtatmosphäre. Ein kurzer Spaziergang führt Sie zur architektonisch interessanten St. Declan's Church, bevor Sie in der örtlichen Bibliothek einen Einblick in die Gemeinschaft bekommen. Am Mittag entfliehen Sie dem Trubel bei einem entspannenden Spaziergang entlang des Broadmeadow River, ein perfekter Ort, um die Natur zu genießen und durchzuatmen. Am Nachmittag tauchen Sie in die Geschichte ein und besuchen das alte Rath Cross Monument, ein Zeugnis der Vergangenheit der Region. Der Tag endet an den stimmungsvollen Ruinen der Donaghmore Church, wo ein alter runder Turm und Grabsteine von vergangenen Jahrhunderten erzählen.",
+        "hu": "Kezdje a napot Ashbourne szívében, a Killegland téren, és szívja magába a modern városi hangulatot. Egy rövid séta elvezeti az építészetileg érdekes Szent Declan-templomhoz, mielőtt a helyi könyvtárban bepillantást nyerhet a közösségi életbe. Délben szakadjon ki a nyüzsgésből egy pihentető sétával a Broadmeadow folyó mentén, amely tökéletes hely a természet élvezetére. Délután merüljön el a történelemben a régi Rath Kereszt Emlékműnél, amely a régió múltjának tanúja. A nap a hangulatos Donaghmore templomromoknál ér véget, ahol egy ősi kerek torony és sírkövek mesélnek az elmúlt századokról.",
+        "ro": "Începeți ziua în inima orașului Ashbourne, în Piața Killegland, absorbind atmosfera urbană modernă. O scurtă plimbare vă duce la Biserica Sf. Declan, interesantă din punct de vedere arhitectural, înainte de a arunca o privire în viața comunității la biblioteca locală. La prânz, evadați din agitație cu o plimbare relaxantă de-a lungul râului Broadmeadow, un loc perfect pentru a vă bucura de natură. După-amiaza, scufundați-vă în istorie la vechiul Monument al Crucii Rath, o mărturie a trecutului regiunii. Ziua se încheie la ruinele atmosferice ale Bisericii Donaghmore, unde un turn rotund antic și pietre funerare povestesc despre secolele trecute.",
+        "en": "Begin your day in the heart of Ashbourne at Killegland Square, soaking up the modern town vibe. A short stroll takes you to the architecturally interesting St. Declan's Church before getting a glimpse of the community at the local library. At midday, escape the bustle with a relaxing walk along the Broadmeadow River, a perfect spot to enjoy nature and take a breath. In the afternoon, delve into history by visiting the ancient Rath Cross Monument, a testament to the area's past. The day concludes at the atmospheric Donaghmore Church ruins, where an ancient round tower and gravestones tell tales of centuries gone by."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Irish Stew",
+            "tip": "Ein herzhafter Eintopf, perfekt nach einem langen Spaziergang. Suchen Sie nach Pubs, die 'Tagesgerichte' anbieten."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "Ein Klassiker. Am besten schmeckt er in einem der traditionellen 'Chipper'."
+          },
+          {
+            "name": "Coddle",
+            "tip": "Ein traditionelles Dubliner Gericht, das manchmal auch in den umliegenden Gebieten zu finden ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ír pörkölt (Irish Stew)",
+            "tip": "Kiadós egytálétel, tökéletes egy hosszú séta után. Keresse a 'napi ajánlatot' kínáló pubokat."
+          },
+          {
+            "name": "Sült hal krumplival (Fish and Chips)",
+            "tip": "Klasszikus fogás. A legjobb a hagyományos 'chipper'-ekben."
+          },
+          {
+            "name": "Coddle",
+            "tip": "Hagyományos dublini étel, amely néha a környező területeken is megtalálható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tocăniță irlandeză",
+            "tip": "O tocană consistentă, perfectă după o plimbare lungă. Căutați pub-uri care oferă 'specialitatea zilei'."
+          },
+          {
+            "name": "Pește cu cartofi prăjiți",
+            "tip": "Un clasic. Cel mai bun este servit la 'chipper'-urile tradiționale."
+          },
+          {
+            "name": "Coddle",
+            "tip": "Un fel de mâncare tradițional din Dublin, găsit uneori și în zonele învecinate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Irish Stew",
+            "tip": "A hearty stew, perfect after a long walk. Look for pubs offering a 'special of the day'."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "A classic staple. Best enjoyed from one of the traditional 'chippers'."
+          },
+          {
+            "name": "Coddle",
+            "tip": "A traditional Dublin dish, sometimes found in the surrounding areas."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Broadmeadow River Walk",
+            "tip": "Finden Sie eine Bank am Flussufer und beobachten Sie das Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhof von Donaghmore",
+            "tip": "Ein Ort der Stille und der Geschichte unter dem wachsamen Auge des Turms.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ein ruhiger Winkel im St. Stephen's Green",
+            "tip": "Obwohl es in Dublin liegt, ist es eine kurze Fahrt entfernt und bietet absolute Ruhe.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Broadmeadow folyó mentén",
+            "tip": "Keressen egy padot a folyóparton, és nézze a vizet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Donaghmore temetője",
+            "tip": "A csend és a történelem helye a torony őrző szemei alatt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Egy csendes zug a St. Stephen's Green-ben",
+            "tip": "Bár Dublinban van, egy rövid autóútra található, és teljes nyugalmat kínál.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada râului Broadmeadow",
+            "tip": "Găsiți o bancă pe malul râului și priviți apa.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul Donaghmore",
+            "tip": "Un loc de liniște și istorie sub privirea atentă a turnului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Un colț liniștit în St. Stephen's Green",
+            "tip": "Deși în Dublin, este la o scurtă călătorie cu mașina și oferă o liniște completă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Broadmeadow River Walk",
+            "tip": "Find a bench by the riverside and watch the water flow by.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Donaghmore Graveyard",
+            "tip": "A place of silence and history under the watchful eye of the tower.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A quiet corner in St. Stephen's Green",
+            "tip": "Although in Dublin, it's a short drive away for complete tranquility.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ashbourne Town Centre",
+            "tip": "Eine Mischung aus bekannten Marken und lokalen Geschäften."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Halten Sie Ausschau nach lokalen Märkten für frische Produkte und Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ashbourne városközpont",
+            "tip": "Ismert márkák és helyi üzletek keveréke."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Keresse a helyi piacokat friss termékekért és kézműves árukért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul orașului Ashbourne",
+            "tip": "Un amestec de mărci cunoscute și magazine locale."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Căutați piețele locale pentru produse proaspete și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ashbourne Town Centre",
+            "tip": "A mix of high-street brands and local independent shops."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "Keep an eye out for local markets for fresh produce and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag auf den Beinen sein werden.",
+          "Prüfen Sie die Öffnungszeiten der Bibliothek und der Kirche im Voraus.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit, um hydriert zu bleiben.",
+          "Ein leichter Regenmantel ist in Irland immer eine gute Idee, auch an sonnigen Tagen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap talpon lesz.",
+          "Előre ellenőrizze a könyvtár és a templom nyitvatartási idejét.",
+          "Hozzon magával egy újratölthető vizes palackot.",
+          "Egy könnyű esőkabát mindig jó ötlet Írországban, még napos napokon is."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți fi pe picioare toată ziua.",
+          "Verificați în prealabil orele de deschidere ale bibliotecii și ale bisericii.",
+          "Luați o sticlă de apă reutilizabilă pentru a vă menține hidratat.",
+          "O haină de ploaie ușoară este întotdeauna o idee bună în Irlanda, chiar și în zilele însorite."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be on your feet all day.",
+          "Check opening times for the library and church in advance.",
+          "Bring a reusable water bottle to stay hydrated.",
+          "A light raincoat is always a good idea in Ireland, even on a sunny day."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Killegland-Platz",
+            "hu": "Killegland tér",
+            "ro": "Piața Killegland",
+            "en": "Killegland Square"
+          },
+          "coords": [
+            -6.3988,
+            53.5142
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie einen Kaffee trinken gehen.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt kávézni megy.",
+            "ro": "Asigurați-vă bicicleta înainte de a merge la o cafea.",
+            "en": "Lock your bike securely before grabbing a coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Declan's Kirche",
+            "hu": "Szent Declan-templom",
+            "ro": "Biserica Sf. Declan",
+            "en": "St. Declan's Church"
+          },
+          "coords": [
+            -6.4021,
+            53.5129
+          ],
+          "category": "churches",
+          "arrive_at": "09:33",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad in der Nähe und bewundern Sie die moderne Architektur.",
+            "hu": "Parkolja le a kerékpárt a közelben, és csodálja meg a modern építészetet.",
+            "ro": "Parcați bicicleta în apropiere și admirați arhitectura modernă.",
+            "en": "Park your bike nearby and admire the modern architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Rath-Kreuz-Denkmal",
+            "hu": "Rath Kereszt Emlékmű",
+            "ro": "Monumentul Crucea Rath",
+            "en": "Rath Cross Monument"
+          },
+          "coords": [
+            -6.4089,
+            53.5075
+          ],
+          "category": "monuments",
+          "arrive_at": "10:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um ein Stück lokaler Geschichte zu würdigen.",
+            "hu": "Egy gyors megálló, hogy tisztelegjünk a helyi történelem egy darabja előtt.",
+            "ro": "O oprire scurtă pentru a aprecia o bucată de istorie locală.",
+            "en": "A quick stop to appreciate a piece of local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Donaghmore Kirchenruinen und Turm",
+            "hu": "Donaghmore templomromjai és tornya",
+            "ro": "Ruinele și Turnul Bisericii Donaghmore",
+            "en": "Donaghmore Church Ruins & Tower"
+          },
+          "coords": [
+            -6.4188,
+            53.5042
+          ],
+          "category": "historical",
+          "arrive_at": "10:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, um den beeindruckenden runden Turm aus dem 10. Jahrhundert zu erkunden.",
+            "hu": "Szánjon időt a lenyűgöző 10. századi kerek torony felfedezésére.",
+            "ro": "Luați-vă timp pentru a explora impresionantul turn rotund din secolul al X-lea.",
+            "en": "Take your time to explore the impressive 10th-century round tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Broadmeadow River",
+            "hu": "Séta a Broadmeadow folyó mentén",
+            "ro": "Promenada râului Broadmeadow",
+            "en": "Broadmeadow River Walk"
+          },
+          "coords": [
+            -6.3951,
+            53.5186
+          ],
+          "category": "promenades",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 4.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause. Einige Abschnitte des Weges sind fahrradfreundlich.",
+            "hu": "Tökéletes egy ebédszünethez. Az ösvény egyes szakaszai kerékpárbarátok.",
+            "ro": "Perfect pentru o pauză de prânz. Unele secțiuni ale cărării sunt potrivite pentru biciclete.",
+            "en": "Perfect for a lunch break. Some sections of the path are bike-friendly."
+          }
+        },
+        {
+          "name": {
+            "de": "Killegland Towers",
+            "hu": "Killegland-tornyok",
+            "ro": "Turnurile Killegland",
+            "en": "Killegland Towers"
+          },
+          "coords": [
+            -6.3972,
+            53.5155
+          ],
+          "category": "landmark",
+          "arrive_at": "13:36",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Diese modernen Wohntürme sind ein markantes Merkmal der Skyline von Ashbourne.",
+            "hu": "Ezek a modern lakótornyok Ashbourne látképének jellegzetes elemei.",
+            "ro": "Aceste turnuri rezidențiale moderne sunt o caracteristică proeminentă a orizontului din Ashbourne.",
+            "en": "These modern residential towers are a prominent feature of Ashbourne's skyline."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour durch Ashbourne beginnt am lebhaften Killegland Square. Von dort aus radeln Sie zur St. Declan's Church und weiter zu den historischen Stätten der Stadt, dem Rath Cross Monument und den beeindruckenden Ruinen von Donaghmore mit ihrem alten Turm. Am Mittag genießen Sie eine wohlverdiente Pause am Broadmeadow River. Der Weg ist ideal für eine entspannte Fahrt und ein Picknick. Am Nachmittag kehren Sie ins Stadtzentrum zurück und werfen einen Blick auf die Killegland Towers, die einen modernen Kontrast zur reichen Geschichte der Stadt bilden, bevor Sie Ihre Tour beenden.",
+        "hu": "Ashbourne-i kerékpártúrája a nyüzsgő Killegland téren kezdődik. Innen tekerjen el a Szent Declan-templomhoz, majd tovább a város történelmi helyszíneihez, a Rath Kereszt Emlékműhöz és a lenyűgöző Donaghmore romjaihoz az ősi toronnyal. Délben élvezze a jól megérdemelt pihenőt a Broadmeadow folyónál, amelynek ösvénye ideális egy pihentető tekeréshez és piknikhez. Délután térjen vissza a városközpontba, és vessen egy pillantást a Killegland-tornyokra, amelyek modern kontrasztot alkotnak a város gazdag történelmével, mielőtt befejezi a túrát.",
+        "ro": "Turul cu bicicleta prin Ashbourne începe în vibranta Piață Killegland. De acolo, pedalați spre Biserica Sf. Declan și apoi spre siturile istorice ale orașului, Monumentul Crucii Rath și impresionantele ruine Donaghmore cu turnul său antic. La prânz, bucurați-vă de o pauză binemeritată la râul Broadmeadow, a cărui potecă este ideală pentru o plimbare relaxantă și un picnic. După-amiaza, reveniți în centrul orașului pentru a admira Turnurile Killegland, un contrast modern cu istoria bogată a orașului, înainte de a încheia turul.",
+        "en": "Your cycling tour of Ashbourne starts at the vibrant Killegland Square. From there, pedal towards St. Declan's Church and onwards to the town's historic sites, the Rath Cross Monument and the impressive Donaghmore ruins with its ancient tower. At midday, enjoy a well-deserved break at the Broadmeadow River, its path ideal for a relaxing ride and a picnic. In the afternoon, return to the town centre to view the Killegland Towers, a modern contrast to the town's rich history, before concluding your tour."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Scones mit Marmelade und Sahne",
+            "tip": "Eine klassische irische Leckerei, perfekt zu einer Tasse Tee am Nachmittag."
+          },
+          {
+            "name": "Lokales Craft Beer",
+            "tip": "Fragen Sie in den Pubs nach Bieren von Brauereien aus Meath."
+          },
+          {
+            "name": "Boxty",
+            "tip": "Ein traditioneller irischer Kartoffelpfannkuchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Scones lekvárral és tejszínnel",
+            "tip": "Klasszikus ír finomság, tökéletes egy délutáni csésze teához."
+          },
+          {
+            "name": "Helyi kézműves sör",
+            "tip": "Kérdezzen a pubokban a Meath megyei sörfőzdék söreiről."
+          },
+          {
+            "name": "Boxty",
+            "tip": "Hagyományos ír burgonyalepény."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Scones cu gem și frișcă",
+            "tip": "Un deliciu irlandez clasic, perfect cu o ceașcă de ceai după-amiaza."
+          },
+          {
+            "name": "Bere artizanală locală",
+            "tip": "Întrebați în pub-uri despre berile de la fabricile de bere din Meath."
+          },
+          {
+            "name": "Boxty",
+            "tip": "O clătită tradițională irlandeză din cartofi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Scones with jam and cream",
+            "tip": "A classic Irish treat, perfect with a cup of tea in the afternoon."
+          },
+          {
+            "name": "Local Craft Beer",
+            "tip": "Ask in the pubs for beers from Meath-based breweries."
+          },
+          {
+            "name": "Boxty",
+            "tip": "A traditional Irish potato pancake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Broadmeadow River",
+            "tip": "Ein ruhiger Ort, um dem Stadtverkehr zu entfliehen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhof von Donaghmore",
+            "tip": "Spüren Sie die Geschichte an diesem ruhigen und alten Ort.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Hinter der St. Declan's Kirche",
+            "tip": "Ein kleiner, friedlicher Bereich abseits der Hauptstraße.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Broadmeadow folyó partja",
+            "tip": "Csendes hely a városi forgalom elől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Donaghmore temetője",
+            "tip": "Érezze a történelmet ezen a csendes, ősi helyen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A Szent Declan-templom mögött",
+            "tip": "Egy kis, békés terület a főúttól távol.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Broadmeadow",
+            "tip": "Un loc liniștit pentru a scăpa de traficul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul Donaghmore",
+            "tip": "Simțiți istoria în acest loc liniștit și vechi.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "În spatele Bisericii Sf. Declan",
+            "tip": "O zonă mică și pașnică, departe de drumul principal.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Broadmeadow River",
+            "tip": "A quiet spot to escape the town traffic.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Donaghmore Graveyard",
+            "tip": "Feel the history in this quiet and ancient place.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Behind St. Declan's Church",
+            "tip": "A small, peaceful area away from the main road.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Für alle Last-Minute-Reparaturen oder Zubehörteile."
+          },
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Holen Sie sich frisches Brot oder Gebäck für ein Picknick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Bármilyen utolsó pillanatban szükséges javításhoz vagy kiegészítőhöz."
+          },
+          {
+            "name": "Helyi pékség",
+            "tip": "Szerezzen be friss kenyeret vagy péksüteményt egy piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Pentru orice reparații de ultim moment sau accesorii."
+          },
+          {
+            "name": "Brutărie locală",
+            "tip": "Luați pâine proaspătă sau produse de patiserie pentru un picnic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bike Shop",
+            "tip": "For any last-minute repairs or accessories."
+          },
+          {
+            "name": "Local Bakery",
+            "tip": "Pick up some fresh bread or pastries for a picnic."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie einen Helm und verwenden Sie Lichter, besonders auf den Landstraßen.",
+          "Schließen Sie Ihr Fahrrad an ausgewiesenen Plätzen ab.",
+          "Nehmen Sie ein kleines Reparaturset für den Fall einer Reifenpanne mit.",
+          "Planen Sie Ihre Route im Voraus, da einige Straßen stark befahren sein können."
+        ],
+        "hu": [
+          "Viseljen sisakot és használjon lámpákat, különösen a vidéki utakon.",
+          "Zárja le a kerékpárt a kijelölt helyeken.",
+          "Vigyen magával egy kis javítókészletet defekt esetére.",
+          "Tervezze meg előre az útvonalat, mivel egyes utak forgalmasak lehetnek."
+        ],
+        "ro": [
+          "Purtați cască și folosiți lumini, mai ales pe drumurile de țară.",
+          "Asigurați-vă bicicleta în locurile desemnate.",
+          "Luați un mic kit de reparații în caz de pană.",
+          "Planificați-vă traseul în avans, deoarece unele drumuri pot fi aglomerate."
+        ],
+        "en": [
+          "Wear a helmet and use lights, especially on country roads.",
+          "Lock your bike in designated spots.",
+          "Carry a small repair kit in case of a flat tire.",
+          "Plan your route in advance as some roads can be busy."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 16.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Donaghmore Kirchenruinen",
+            "hu": "A klaszter: Donaghmore templomromjai",
+            "ro": "Cluster A: Ruinele Bisericii Donaghmore",
+            "en": "Cluster A: Donaghmore Church Ruins"
+          },
+          "coords": [
+            -6.4188,
+            53.5042
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier. Dies ist der erste Halt Ihres historischen Clusters.",
+            "hu": "Parkoljon itt. Ez a történelmi klaszter első megállója.",
+            "ro": "Parcați aici. Aceasta este prima oprire a clusterului istoric.",
+            "en": "Park your car here. This is the first stop in your historical cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Rath-Kreuz-Denkmal",
+            "hu": "Rath Kereszt Emlékmű",
+            "ro": "Monumentul Crucea Rath",
+            "en": "Rath Cross Monument"
+          },
+          "coords": [
+            -6.4089,
+            53.5075
+          ],
+          "category": "monuments",
+          "arrive_at": "10:20",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von den Ruinen entfernt, entdecken Sie dieses alte Kreuz.",
+            "hu": "Egy rövid sétára a romoktól, fedezze fel ezt az ősi keresztet.",
+            "ro": "La o scurtă plimbare de ruine, descoperiți această cruce veche.",
+            "en": "A short walk from the ruins, discover this ancient cross."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Killegland-Platz",
+            "hu": "B klaszter: Killegland tér",
+            "ro": "Cluster B: Piața Killegland",
+            "en": "Cluster B: Killegland Square"
+          },
+          "coords": [
+            -6.3988,
+            53.5142
+          ],
+          "category": "squares",
+          "arrive_at": "10:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie ins Zentrum und parken Sie. Zeit für einen Kaffee.",
+            "hu": "Vezessen a központba és parkoljon le. Ideje egy kávénak.",
+            "ro": "Conduceți în centru și parcați. E timpul pentru o cafea.",
+            "en": "Drive to the town centre and park. Time for a coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Declan's Kirche",
+            "hu": "Szent Declan-templom",
+            "ro": "Biserica Sf. Declan",
+            "en": "St. Declan's Church"
+          },
+          "coords": [
+            -6.4021,
+            53.5129
+          ],
+          "category": "churches",
+          "arrive_at": "11:21",
+          "stay_min": 35,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie vom Platz zur Kirche, um die moderne Architektur zu sehen.",
+            "hu": "Sétáljon a térről a templomhoz, hogy megnézze a modern építészetet.",
+            "ro": "Plimbați-vă din piață până la biserică pentru a vedea arhitectura modernă.",
+            "en": "Walk from the square to the church to see the modern architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Broadmeadow River",
+            "hu": "Séta a Broadmeadow folyó mentén",
+            "ro": "Promenada râului Broadmeadow",
+            "en": "Broadmeadow River Walk"
+          },
+          "coords": [
+            -6.3951,
+            53.5186
+          ],
+          "category": "promenades",
+          "arrive_at": "12:09",
+          "stay_min": 60,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Spaziergang zum Fluss ist eine gute Möglichkeit, sich vor dem Mittagessen die Beine zu vertreten.",
+            "hu": "A folyóhoz való séta remek módja annak, hogy ebéd előtt megmozgassa a lábait.",
+            "ro": "Plimbarea până la râu este o modalitate bună de a vă dezmorți picioarele înainte de prânz.",
+            "en": "The walk to the river is a great way to stretch your legs before lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Emerald Park",
+            "hu": "C klaszter: Emerald Park",
+            "ro": "Cluster C: Parcul Emerald",
+            "en": "Cluster C: Emerald Park"
+          },
+          "coords": [
+            -6.4805,
+            53.5492
+          ],
+          "category": "parks",
+          "arrive_at": "13:37",
+          "stay_min": 180,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 13.6,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Der größte Freizeitpark Irlands. Planen Sie genügend Zeit für die Fahrgeschäfte und den Zoo ein.",
+            "hu": "Írország legnagyobb vidámparkja. Tervezzen elég időt a hullámvasutakra és az állatkertre.",
+            "ro": "Cel mai mare parc tematic din Irlanda. Planificați suficient timp pentru atracții și grădina zoologică.",
+            "en": "Ireland's largest theme park. Plan enough time for the rides and the zoo."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen im Stadtzentrum",
+            "hu": "Vacsora a városközpontban",
+            "ro": "Cină în centrul orașului",
+            "en": "Dinner in the Town Centre"
+          },
+          "coords": [
+            -6.399,
+            53.513
+          ],
+          "category": "gastro",
+          "arrive_at": "17:07",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kehren Sie nach einem aufregenden Nachmittag für ein entspanntes Abendessen nach Ashbourne zurück.",
+            "hu": "Térjen vissza Ashbourne-ba egy pihentető vacsorára egy izgalmas délután után.",
+            "ro": "Întoarceți-vă în Ashbourne pentru o cină relaxantă după o după-amiază plină de emoții.",
+            "en": "Return to Ashbourne for a relaxing dinner after an exciting afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt mit einem Sprung in die Vergangenheit. Parken Sie bei den Donaghmore-Ruinen und spazieren Sie zum nahegelegenen Rath Cross Monument. Am Vormittag fahren Sie ins Zentrum von Ashbourne. Parken Sie Ihr Auto und erkunden Sie den Killegland Square, die St. Declan's Church und den Broadmeadow River zu Fuß. Dies ist der perfekte Ort für eine Mittagspause. Der gesamte Nachmittag ist für den Nervenkitzel im Emerald Park reserviert, Irlands größtem Freizeitpark, nur eine kurze Autofahrt entfernt. Kehren Sie am Abend nach Ashbourne zurück, um den Tag mit einem herzhaften irischen Abendessen ausklingen zu lassen.",
+        "hu": "Autós napja egy ugrással kezdődik a múltba. Parkoljon a Donaghmore romoknál, és sétáljon el a közeli Rath Kereszt Emlékműhöz. Délelőtt vezessen be Ashbourne központjába. Parkolja le az autót, és fedezze fel gyalog a Killegland teret, a Szent Declan-templomot és a Broadmeadow folyót. Ez a tökéletes hely egy ebédszünethez. Az egész délutánt az Emerald Park izgalmaira szánjuk, Írország legnagyobb vidámparkjára, amely csak egy rövid autóútra található. Este térjen vissza Ashbourne-ba, hogy egy kiadós ír vacsorával zárja a napot.",
+        "ro": "Ziua cu mașina începe cu o incursiune în trecut. Parcați la ruinele Donaghmore și plimbați-vă până la Monumentul Crucii Rath din apropiere. Dimineața, conduceți în centrul orașului Ashbourne. Parcați mașina și explorați pe jos Piața Killegland, Biserica Sf. Declan și râul Broadmeadow. Acesta este locul perfect pentru o pauză de prânz. Întreaga după-amiază este dedicată senzațiilor tari de la Emerald Park, cel mai mare parc tematic din Irlanda, la o scurtă distanță cu mașina. Seara, întoarceți-vă în Ashbourne pentru a încheia ziua cu o cină irlandeză consistentă.",
+        "en": "Your car day begins with a jump into the past. Park at the Donaghmore ruins and walk to the nearby Rath Cross Monument. In the morning, drive into the centre of Ashbourne. Park your car and explore Killegland Square, St. Declan's Church, and the Broadmeadow River on foot. This is the perfect cluster for a lunch break. The entire afternoon is dedicated to the thrills at Emerald Park, Ireland's largest theme park, just a short drive away. Return to Ashbourne in the evening to round off the day with a hearty Irish dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Carvery Lunch",
+            "tip": "Ein Sonntagsfavorit in vielen Pubs. Wählen Sie Ihr Fleisch und Beilagen."
+          },
+          {
+            "name": "Seafood Chowder",
+            "tip": "Eine cremige Suppe mit frischem Fisch, oft mit Sodabrot serviert."
+          },
+          {
+            "name": "Apple Crumble",
+            "tip": "Ein wärmendes Dessert, das in fast jedem Restaurant zu finden ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sült húsos ebéd (Carvery Lunch)",
+            "tip": "Vasárnapi kedvenc sok pubban. Válassza ki a húst és a köreteket."
+          },
+          {
+            "name": "Tenger gyümölcsei leves (Seafood Chowder)",
+            "tip": "Krémes leves friss hallal, gyakran szódás kenyérrel tálalva."
+          },
+          {
+            "name": "Almás morzsa (Apple Crumble)",
+            "tip": "Melegítő desszert, amely szinte minden étteremben megtalálható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Prânz Carvery",
+            "tip": "Un favorit de duminică în multe pub-uri. Alegeți-vă carnea și garniturile."
+          },
+          {
+            "name": "Ciorbă de fructe de mare",
+            "tip": "O supă cremoasă cu pește proaspăt, adesea servită cu pâine cu bicarbonat."
+          },
+          {
+            "name": "Prăjitură cu mere sfărâmată",
+            "tip": "Un desert cald găsit în aproape orice restaurant."
+          }
+        ],
+        "en": [
+          {
+            "name": "Carvery Lunch",
+            "tip": "A Sunday favourite in many pubs. Choose your meat and help yourself to the trimmings."
+          },
+          {
+            "name": "Seafood Chowder",
+            "tip": "A creamy soup with fresh fish, often served with soda bread."
+          },
+          {
+            "name": "Apple Crumble",
+            "tip": "A warming dessert found in almost every restaurant."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Donaghmore Ruinen",
+            "tip": "Früh am Morgen ist es hier besonders friedlich.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ein Spaziergang durch den Zoo im Emerald Park",
+            "tip": "Eine ruhigere Alternative zu den lauten Fahrgeschäften.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Blick vom Rath Cross",
+            "tip": "Genießen Sie die Aussicht auf die umliegende Landschaft von Meath.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Donaghmore romjai",
+            "tip": "Kora reggel különösen békés itt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta az állatkertben az Emerald Parkban",
+            "tip": "Csendesebb alternatíva a hangos hullámvasutak helyett.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a Rath kereszttől",
+            "tip": "Élvezze a kilátást a környező Meath vidékére.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ruinele Donaghmore",
+            "tip": "Este deosebit de pașnic aici dimineața devreme.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "O plimbare prin grădina zoologică de la Emerald Park",
+            "tip": "O alternativă mai liniștită la atracțiile zgomotoase.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere de la Crucea Rath",
+            "tip": "Bucurați-vă de priveliștea peisajului rural din Meath.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Donaghmore Ruins",
+            "tip": "It's especially peaceful here early in the morning.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A walk through the zoo at Emerald Park",
+            "tip": "A calmer alternative to the noisy rides.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from Rath Cross",
+            "tip": "Enjoy the view of the surrounding Meath countryside.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Emerald Park Gift Shop",
+            "tip": "Finden Sie Souvenirs und Merchandise von Ihrem Besuch."
+          },
+          {
+            "name": "Avoca (in der Nähe)",
+            "tip": "Eine berühmte irische Marke mit Kleidung, Haushaltswaren und einem Café."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Emerald Park ajándékbolt",
+            "tip": "Találjon szuveníreket és emléktárgyakat a látogatásáról."
+          },
+          {
+            "name": "Avoca (a közelben)",
+            "tip": "Híres ír márka ruházattal, háztartási cikkekkel és kávézóval."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de cadouri Emerald Park",
+            "tip": "Găsiți suveniruri și mărfuri de la vizita dvs."
+          },
+          {
+            "name": "Avoca (în apropiere)",
+            "tip": "Un brand irlandez renumit cu haine, articole de uz casnic și o cafenea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Emerald Park Gift Shop",
+            "tip": "Find souvenirs and merchandise from your visit."
+          },
+          {
+            "name": "Avoca (nearby)",
+            "tip": "A famous Irish brand with clothing, homewares, and a café."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Öffnungszeiten und buchen Sie Tickets für den Emerald Park online, um Warteschlangen zu vermeiden.",
+          "Parkgebühren können anfallen, halten Sie also etwas Kleingeld bereit.",
+          "Nutzen Sie eine Navigations-App, um die besten Routen zwischen den Clustern zu finden.",
+          "Irland hat Linksverkehr. Fahren Sie vorsichtig, wenn Sie das nicht gewohnt sind."
+        ],
+        "hu": [
+          "Ellenőrizze a nyitvatartási időt és foglaljon jegyet online az Emerald Parkba a sorban állás elkerülése érdekében.",
+          "Parkolási díjak merülhetnek fel, ezért tartson magánál némi aprópénzt.",
+          "Használjon navigációs alkalmazást a klaszterek közötti legjobb útvonalak megtalálásához.",
+          "Írországban baloldali közlekedés van. Vezessen óvatosan, ha nem szokott hozzá."
+        ],
+        "ro": [
+          "Verificați orele de deschidere și rezervați bilete online pentru Emerald Park pentru a evita cozile.",
+          "Se pot aplica taxe de parcare, așa că aveți la îndemână niște mărunțiș.",
+          "Folosiți o aplicație de navigare pentru a găsi cele mai bune rute între clustere.",
+          "Irlanda are trafic pe stânga. Conduceți cu prudență dacă nu sunteți obișnuit."
+        ],
+        "en": [
+          "Check opening times and book tickets for Emerald Park online to avoid queues.",
+          "Parking fees may apply, so have some change ready.",
+          "Use a navigation app to find the best routes between clusters.",
+          "Ireland drives on the left. Drive carefully if you're not used to it."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 5.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Killegland-Platz",
+            "hu": "A klaszter: Killegland tér",
+            "ro": "Cluster A: Piața Killegland",
+            "en": "Cluster A: Killegland Square"
+          },
+          "coords": [
+            -6.3988,
+            53.5142
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie am zentralen Busknotenpunkt von Ashbourne.",
+            "hu": "Kezdje Ashbourne központi buszcsomópontjánál.",
+            "ro": "Începeți de la nodul central de autobuze din Ashbourne.",
+            "en": "Start at Ashbourne's central bus hub."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Declan's Kirche",
+            "hu": "Szent Declan-templom",
+            "ro": "Biserica Sf. Declan",
+            "en": "St. Declan's Church"
+          },
+          "coords": [
+            -6.4021,
+            53.5129
+          ],
+          "category": "churches",
+          "arrive_at": "09:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz aus.",
+            "hu": "Egy rövid séta a térről.",
+            "ro": "O scurtă plimbare din piață.",
+            "en": "A short walk from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Donaghmore Kirchenruinen",
+            "hu": "B klaszter: Donaghmore templomromjai",
+            "ro": "Cluster B: Ruinele Bisericii Donaghmore",
+            "en": "Cluster B: Donaghmore Church Ruins"
+          },
+          "coords": [
+            -6.4188,
+            53.5042
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 2.8,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus in Richtung Süden und steigen Sie in der Nähe der Ruinen aus.",
+            "hu": "Menjen egy helyi busszal dél felé, és szálljon le a romok közelében.",
+            "ro": "Luați un autobuz local spre sud și coborâți lângă ruine.",
+            "en": "Take a local bus heading south and get off near the ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Rath-Kreuz-Denkmal",
+            "hu": "Rath Kereszt Emlékmű",
+            "ro": "Monumentul Crucea Rath",
+            "en": "Rath Cross Monument"
+          },
+          "coords": [
+            -6.4089,
+            53.5075
+          ],
+          "category": "monuments",
+          "arrive_at": "12:25",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie vom Friedhof zurück zu diesem wichtigen historischen Denkmal.",
+            "hu": "Sétáljon vissza a temetőtől ehhez a fontos történelmi emlékműhöz.",
+            "ro": "Plimbați-vă înapoi de la cimitir la acest important monument istoric.",
+            "en": "Walk back from the graveyard to this important historical monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Broadmeadow River Walk",
+            "hu": "C klaszter: Séta a Broadmeadow folyó mentén",
+            "ro": "Cluster C: Promenada râului Broadmeadow",
+            "en": "Cluster C: Broadmeadow River Walk"
+          },
+          "coords": [
+            -6.3951,
+            53.5186
+          ],
+          "category": "promenades",
+          "arrive_at": "13:13",
+          "stay_min": 90,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zurück ins Zentrum und steigen Sie in der Nähe des Flusses für einen Mittagsspaziergang aus.",
+            "hu": "Menjen busszal vissza a központba, és szálljon le a folyó közelében egy déli sétára.",
+            "ro": "Luați un autobuz înapoi spre centru și coborâți lângă râu pentru o plimbare la prânz.",
+            "en": "Take a bus back towards the centre and get off near the river for a midday walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt am Killegland Square, dem Zentrum von Ashbourne. Nach einem Spaziergang zur St. Declan's Church nehmen Sie einen Bus nach Süden, um das historische Herz der Gegend zu erkunden: die Donaghmore-Ruinen und das Rath Cross Monument. Hier können Sie die alte Atmosphäre auf sich wirken lassen. Am frühen Nachmittag bringt Sie ein Bus zurück ins Zentrum, wo Sie am Broadmeadow River aussteigen. Ein langer, entspannender Spaziergang entlang des Flusses ist die perfekte Art, den Nachmittag zu verbringen und den Tag in Ashbourne ausklingen zu lassen.",
+        "hu": "Tömegközlekedéssel töltött napja a Killegland téren, Ashbourne központjában kezdődik. A Szent Declan-templomhoz tett séta után szálljon buszra dél felé, hogy felfedezze a környék történelmi szívét: a Donaghmore romokat és a Rath Kereszt Emlékművet. Itt magába szívhatja az ősi hangulatot. Kora délután egy busz visszaviszi a központba, ahol a Broadmeadow folyónál száll le. Egy hosszú, pihentető séta a folyó mentén tökéletes módja a délután eltöltésének és az ashbourne-i nap lezárásának.",
+        "ro": "Ziua dvs. cu transportul public începe în Piața Killegland, centrul orașului Ashbourne. După o plimbare la Biserica Sf. Declan, luați un autobuz spre sud pentru a explora inima istorică a zonei: ruinele Donaghmore și Monumentul Crucii Rath. Aici puteți absorbi atmosfera antică. La începutul după-amiezii, un autobuz vă duce înapoi în centru, coborând lângă râul Broadmeadow. O plimbare lungă și relaxantă de-a lungul râului este modul perfect de a vă petrece după-amiaza și de a încheia ziua în Ashbourne.",
+        "en": "Your day using public transport starts in Killegland Square, the hub of Ashbourne. After a walk to St. Declan's Church, you'll catch a bus south to explore the historic heart of the area: the Donaghmore ruins and the Rath Cross Monument. Here you can soak up the ancient atmosphere. In the early afternoon, a bus will take you back towards the centre, alighting near the Broadmeadow River. A long, relaxing walk along its banks is the perfect way to spend the afternoon and conclude your day in Ashbourne."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frühstücksbrötchen",
+            "tip": "Ein mit Speck, Wurst und Ei gefülltes Brötchen, erhältlich in den meisten Feinkostläden."
+          },
+          {
+            "name": "Tasse Tee und ein Stück Kuchen",
+            "tip": "Der perfekte Muntermacher am Nachmittag in jedem Café."
+          },
+          {
+            "name": "Suppe des Tages",
+            "tip": "Wärmend, sättigend und preiswert. Wird oft mit irischem Sodabrot serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Reggeli zsemle (Breakfast Roll)",
+            "tip": "Szalonnával, kolbásszal és tojással töltött zsemle, a legtöbb csemegeboltban kapható."
+          },
+          {
+            "name": "Egy csésze tea és egy szelet sütemény",
+            "tip": "A tökéletes délutáni feltöltődés minden kávézóban."
+          },
+          {
+            "name": "A nap levese",
+            "tip": "Melegítő, laktató és megfizethető. Gyakran ír szódás kenyérrel tálalják."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chiflă pentru micul dejun",
+            "tip": "O chiflă umplută cu slănină, cârnați și ou, disponibilă la majoritatea delicateselor."
+          },
+          {
+            "name": "O ceașcă de ceai și o felie de tort",
+            "tip": "Recompensa perfectă de după-amiază în orice cafenea."
+          },
+          {
+            "name": "Supa zilei",
+            "tip": "Caldă, sățioasă și ieftină. Adesea servită cu pâine irlandeză cu bicarbonat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Breakfast Roll",
+            "tip": "A roll filled with bacon, sausage, and egg, available from most delis."
+          },
+          {
+            "name": "Cup of tea and a slice of cake",
+            "tip": "The perfect afternoon pick-me-up from any café."
+          },
+          {
+            "name": "Soup of the Day",
+            "tip": "Warming, filling and inexpensive. Often served with Irish soda bread."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Oberdeck des Busses",
+            "tip": "Genießen Sie die Aussicht auf die Landschaft auf dem Weg zu den Ruinen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eine Bank am Broadmeadow River",
+            "tip": "Ein friedlicher Ort, um Leute zu beobachten oder ein Buch zu lesen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Donaghmore Friedhof",
+            "tip": "Ein ruhiger Ort, um über die lange Geschichte der Gegend nachzudenken.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A busz emelete",
+            "tip": "Élvezze a táj látványát a romok felé vezető úton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy pad a Broadmeadow folyónál",
+            "tip": "Békés hely emberek nézésére vagy olvasásra.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Donaghmore temető",
+            "tip": "Csendes hely, ahol elgondolkodhat a környék hosszú történelmén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Puntea superioară a autobuzului",
+            "tip": "Bucurați-vă de priveliștile peisajului rural în drum spre ruine.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O bancă lângă râul Broadmeadow",
+            "tip": "Un loc pașnic pentru a privi oamenii sau a citi o carte.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Cimitirul Donaghmore",
+            "tip": "Un loc liniștit pentru a reflecta asupra istoriei îndelungate a zonei.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Top deck of the bus",
+            "tip": "Enjoy the countryside views on the way to the ruins.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A bench by the Broadmeadow River",
+            "tip": "A peaceful spot for people-watching or reading a book.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Donaghmore Graveyard",
+            "tip": "A quiet place to reflect on the area's long history.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Supermarkt",
+            "tip": "Kaufen Sie ein paar Snacks und Getränke für Ihre Busfahrten."
+          },
+          {
+            "name": "Charity Shops",
+            "tip": "Stöbern Sie nach einzigartigen Second-Hand-Funden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi szupermarket",
+            "tip": "Vásároljon néhány snacket és italt a buszutakra."
+          },
+          {
+            "name": "Adományboltok",
+            "tip": "Böngésszen egyedi, használt kincsek után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarket local",
+            "tip": "Luați niște gustări și băuturi pentru călătoriile cu autobuzul."
+          },
+          {
+            "name": "Magazine de caritate",
+            "tip": "Căutați chilipiruri unice la mâna a doua."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Supermarket",
+            "tip": "Pick up some snacks and drinks for your bus journeys."
+          },
+          {
+            "name": "Charity Shops",
+            "tip": "Browse for unique second-hand finds."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Leap Card für günstigere Tarife im öffentlichen Nahverkehr in der Region Dublin.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, insbesondere für Routen außerhalb des Stadtzentrums.",
+          "Geben Sie dem Fahrer ein Zeichen, wenn Ihr Bus naht.",
+          "Sagen Sie beim Aussteigen 'Danke' zum Fahrer – das ist in Irland üblich."
+        ],
+        "hu": [
+          "Vásároljon Leap Cardot a kedvezőbb tömegközlekedési díjakért a dublini régióban.",
+          "Előre ellenőrizze a buszmenetrendeket, különösen a városközponton kívüli útvonalak esetében.",
+          "Jelezzen a sofőrnek, amikor közeledik a busza.",
+          "Mondjon köszönetet a sofőrnek, amikor leszáll – ez szokás Írországban."
+        ],
+        "ro": [
+          "Cumpărați un card Leap pentru tarife mai ieftine în transportul public din zona Dublin.",
+          "Verificați orarele autobuzelor în avans, în special pentru rutele din afara centrului orașului.",
+          "Faceți semn șoferului când se apropie autobuzul.",
+          "Spuneți 'mulțumesc' șoferului când coborâți - este un obicei în Irlanda."
+        ],
+        "en": [
+          "Get a Leap Card for cheaper public transport fares in the Dublin area.",
+          "Check bus timetables in advance, especially for routes outside the town centre.",
+          "Signal for the driver as your bus approaches.",
+          "Say 'thank you' to the driver when you get off - it's a custom in Ireland."
+        ]
+      }
+    }
+  }
+}

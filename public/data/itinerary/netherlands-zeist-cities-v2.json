@@ -1,0 +1,1398 @@
+{
+  "city_id": "netherlands-zeist-cities-v2",
+  "anchor": {
+    "name": "Zeist",
+    "coords": [
+      52.088,
+      5.242
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Evangelische Broedergemeente & Slotlaan",
+            "hu": "Evangélikus Testvérközösség és Slotlaan",
+            "ro": "Comunitatea Evanghelică a Fraților și Slotlaan",
+            "en": "Evangelical Brethren Community & Slotlaan"
+          },
+          "coords": [
+            5.2401,
+            52.0875
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie am malerischen Platz und bewundern Sie die symmetrische Architektur.",
+            "hu": "Kezdje a festői téren, és csodálja meg a szimmetrikus építészetet.",
+            "ro": "Începeți în piața pitorească și admirați arhitectura simetrică.",
+            "en": "Start at the picturesque square and admire the symmetrical architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Zeist",
+            "hu": "Zeist kastély",
+            "ro": "Castelul Zeist",
+            "en": "Zeist Castle (Slot Zeist)"
+          },
+          "coords": [
+            5.2355,
+            52.0851
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil, um die opulenten Innenräume zu sehen.",
+            "hu": "Vegyen részt egy vezetett túrán, hogy megnézze a pazar belső tereket.",
+            "ro": "Participați la un tur ghidat pentru a vedea interioarele opulente.",
+            "en": "Join a guided tour to see the opulent interiors."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlosspark",
+            "hu": "Kastélypark (Slotpark)",
+            "ro": "Parcul Castelului (Slotpark)",
+            "en": "Castle Park (Slotpark)"
+          },
+          "coords": [
+            5.2341,
+            52.0842
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Perfekt für ein Mittagspicknick mit Blick auf das Schloss.",
+            "hu": "Tökéletes egy ebédpiknikhez a kastélyra néző kilátással.",
+            "ro": "Perfect pentru un picnic la prânz cu vedere la castel.",
+            "en": "Perfect for a lunch picnic with a view of the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Walkartpark",
+            "hu": "Walkartpark",
+            "ro": "Parcul Walkart",
+            "en": "Walkartpark"
+          },
+          "coords": [
+            5.2438,
+            52.0899
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Ein schöner Park im englischen Landschaftsstil mit Teichen und Skulpturen.",
+            "hu": "Egy gyönyörű angol tájképi stílusú park tavakkal és szobrokkal.",
+            "ro": "Un parc frumos în stil peisagistic englezesc, cu iazuri și sculpturi.",
+            "en": "A beautiful English landscape-style park with ponds and sculptures."
+          }
+        },
+        {
+          "name": {
+            "de": "Figi Theater & Hotel",
+            "hu": "Figi Színház és Hotel",
+            "ro": "Teatrul și Hotelul Figi",
+            "en": "Figi Theatre & Hotel"
+          },
+          "coords": [
+            5.2415,
+            52.0869
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:55",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Informieren Sie sich über das Programm oder genießen Sie einen Kaffee im Foyer.",
+            "hu": "Nézze meg a programot, vagy igyon egy kávét az előcsarnokban.",
+            "ro": "Verificați programul sau savurați o cafea în foaier.",
+            "en": "Check the schedule or enjoy a coffee in the foyer."
+          }
+        },
+        {
+          "name": {
+            "de": "Zeisterbos",
+            "hu": "Zeisterbos (Zeisti-erdő)",
+            "ro": "Pădurea Zeisterbos",
+            "en": "Zeisterbos (Zeist Forest)"
+          },
+          "coords": [
+            5.265,
+            52.081
+          ],
+          "category": "natural features",
+          "arrive_at": "14:55",
+          "stay_min": 110,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Folgen Sie einem der markierten Wanderwege für einen erfrischenden Spaziergang.",
+            "hu": "Kövesse az egyik jelzett turistaútvonalat egy frissítő sétához.",
+            "ro": "Urmați una dintre potecile marcate pentru o plimbare revigorantă.",
+            "en": "Follow one of the marked trails for a refreshing walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Zeist beginnt im historischen Herzen, wo die symmetrische Architektur der Broedergemeente beeindruckt. Ein kurzer Spaziergang führt Sie zum prächtigen Schloss Zeist, dem Juwel der Stadt. Nach der Erkundung der opulenten Säle und des englischen Landschaftsparks bietet der ruhige Walkartpark eine Pause. Am Nachmittag tauchen Sie in die Natur des Zeisterbos ein, ein weitläufiger Wald, der perfekt für einen langen, erfrischenden Spaziergang ist, bevor Sie den Tag ausklingen lassen.",
+        "hu": "A zeisti nap a történelmi szívben kezdődik, ahol a Testvérközösség szimmetrikus építészete lenyűgöző. Egy rövid séta elvezet a csodálatos Zeist kastélyhoz, a város ékkövéhez. A pazar termek és az angol tájképi park felfedezése után a csendes Walkartpark kínál pihenést. Délután elmerülhet a Zeisterbos természetében, egy tágas erdőben, amely tökéletes egy hosszú, frissítő sétára, mielőtt lezárná a napot.",
+        "ro": "Ziua dvs. în Zeist începe în inima istorică, unde arhitectura simetrică a Comunității Fraților impresionează. O scurtă plimbare vă duce la magnificul Castel Zeist, bijuteria orașului. După explorarea sălilor opulente și a parcului peisagistic englezesc, liniștitul Walkartpark oferă o pauză. După-amiaza, vă veți cufunda în natura din Zeisterbos, o pădure întinsă perfectă pentru o plimbare lungă și revigorantă înainte de a încheia ziua.",
+        "en": "Your day in Zeist begins in the historic heart, where the symmetrical architecture of the Brethren Community impresses. A short walk takes you to the magnificent Zeist Castle, the town's jewel. After exploring the opulent halls and the English landscape park, the tranquil Walkartpark offers a rest. In the afternoon, immerse yourself in the nature of the Zeisterbos, a vast forest perfect for a long, refreshing walk before concluding the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pandour",
+            "tip": "Klassische französisch-niederländische Küche in einem eleganten Ambiente in der Nähe des Schlosses."
+          },
+          {
+            "name": "Het Wapen van Zeist",
+            "tip": "Ein gemütliches Grand Café für ein traditionelles 'Uitsmijter'-Mittagessen."
+          },
+          {
+            "name": "Bell's",
+            "tip": "Genießen Sie einen High Tea im historischen Figi-Komplex."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pandour",
+            "tip": "Klasszikus francia-holland konyha elegáns környezetben a kastély közelében."
+          },
+          {
+            "name": "Het Wapen van Zeist",
+            "tip": "Egy hangulatos Grand Café egy hagyományos 'Uitsmijter' ebédhez."
+          },
+          {
+            "name": "Bell's",
+            "tip": "Élvezze a délutáni teát a történelmi Figi komplexumban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pandour",
+            "tip": "Bucătărie clasică franco-olandeză într-un cadru elegant, lângă castel."
+          },
+          {
+            "name": "Het Wapen van Zeist",
+            "tip": "Un Grand Café primitor pentru un prânz tradițional 'Uitsmijter'."
+          },
+          {
+            "name": "Bell's",
+            "tip": "Bucurați-vă de un ceai high tea în complexul istoric Figi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pandour",
+            "tip": "Classic French-Dutch cuisine in an elegant setting near the castle."
+          },
+          {
+            "name": "Het Wapen van Zeist",
+            "tip": "A cozy Grand Café for a traditional 'Uitsmijter' lunch."
+          },
+          {
+            "name": "Bell's",
+            "tip": "Enjoy a high tea in the historic Figi complex."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Zeisterbos",
+            "tip": "Finden Sie eine ruhige Bank tief im Wald, um dem Trubel zu entfliehen.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Slotpark",
+            "tip": "Spazieren Sie um den Teich hinter dem Schloss für einen Moment der Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Walkartpark",
+            "tip": "Ein weniger überlaufener Park, ideal zum Lesen eines Buches.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zeisterbos",
+            "tip": "Találjon egy csendes padot mélyen az erdőben, hogy elmeneküljön a nyüzsgés elől.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Slotpark",
+            "tip": "Sétáljon a kastély mögötti tó körül egy pillanatnyi békéért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Walkartpark",
+            "tip": "Egy kevésbé forgalmas park, ideális egy könyv olvasásához.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zeisterbos",
+            "tip": "Găsiți o bancă liniștită adânc în pădure pentru a scăpa de agitație.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Slotpark",
+            "tip": "Plimbați-vă în jurul iazului din spatele castelului pentru un moment de pace.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Walkartpark",
+            "tip": "Un parc mai puțin aglomerat, ideal pentru a citi o carte.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Zeisterbos",
+            "tip": "Find a quiet bench deep in the forest to escape the bustle.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Slotpark",
+            "tip": "Stroll around the pond behind the castle for a moment of peace.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Walkartpark",
+            "tip": "A less crowded park, ideal for reading a book.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Slotlaan",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus Boutiquen und bekannten Marken."
+          },
+          {
+            "name": "Markt in Zeist",
+            "tip": "Überprüfen Sie die Markttage für frische Produkte, Käse und lokale Leckereien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Slotlaan",
+            "tip": "A fő bevásárlóutca butikok és ismert márkák keverékével."
+          },
+          {
+            "name": "Piac Zeistben",
+            "tip": "Ellenőrizze a piaci napokat a friss termékekért, sajtokért és helyi finomságokért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Slotlaan",
+            "tip": "Strada principală de cumpărături cu un amestec de buticuri și mărci cunoscute."
+          },
+          {
+            "name": "Piața din Zeist",
+            "tip": "Verificați zilele de piață pentru produse proaspete, brânză și delicatese locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Slotlaan",
+            "tip": "The main shopping street with a mix of boutiques and well-known brands."
+          },
+          {
+            "name": "Market in Zeist",
+            "tip": "Check for market days for fresh produce, cheese, and local treats."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Packen Sie Wasser und Snacks für den Spaziergang im Zeisterbos ein.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Prüfen Sie die Öffnungszeiten von Schloss Zeist im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog sétálni.",
+          "Csomagoljon vizet és rágcsálnivalót a Zeisterbosban tett sétához.",
+          "A központi látnivalók többsége könnyen megközelíthető gyalog.",
+          "Előre ellenőrizze a Zeist kastély nyitvatartási idejét."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Luați apă și gustări pentru plimbarea prin Zeisterbos.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Verificați în avans orele de deschidere ale Castelului Zeist."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "Pack water and snacks for the walk in Zeisterbos.",
+          "Most central sights are within easy walking distance.",
+          "Check the opening hours for Zeist Castle in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Start: Fahrradverleih & Slotlaan",
+            "hu": "Indulás: Kerékpárkölcsönző és Slotlaan",
+            "ro": "Start: Închiriere biciclete și Slotlaan",
+            "en": "Start: Bike Rental & Slotlaan"
+          },
+          "coords": [
+            5.242,
+            52.088
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Holen Sie sich Ihr Fahrrad und machen Sie eine kurze Runde durch die Haupteinkaufsstraße.",
+            "hu": "Vegye át a kerékpárját, és tegyen egy rövid kört a fő bevásárlóutcán.",
+            "ro": "Luați-vă bicicleta și faceți o scurtă plimbare pe strada principală de cumpărături.",
+            "en": "Pick up your bike and do a quick loop of the main shopping street."
+          }
+        },
+        {
+          "name": {
+            "de": "Zeisterbos",
+            "hu": "Zeisterbos (Zeisti-erdő)",
+            "ro": "Pădurea Zeisterbos",
+            "en": "Zeisterbos (Zeist Forest)"
+          },
+          "coords": [
+            5.265,
+            52.081
+          ],
+          "category": "natural features",
+          "arrive_at": "10:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Die Radwege sind ausgezeichnet. Genießen Sie die Fahrt durch den dichten Wald.",
+            "hu": "A kerékpárutak kiválóak. Élvezze a tekerést a sűrű erdőben.",
+            "ro": "Pistele de biciclete sunt excelente. Bucurați-vă de plimbarea prin pădurea deasă.",
+            "en": "The bike paths are excellent. Enjoy the ride through the dense woods."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserturm",
+            "hu": "Víztorony",
+            "ro": "Turnul de apă (Watertoren)",
+            "en": "Water Tower (Watertoren)"
+          },
+          "coords": [
+            5.2595,
+            52.0951
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:30",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein beeindruckendes Industriedenkmal. Ein kurzer Fotostopp lohnt sich.",
+            "hu": "Lenyűgöző ipari műemlék. Megér egy rövid fotómegállót.",
+            "ro": "Un monument industrial impresionant. Merită o scurtă oprire pentru fotografii.",
+            "en": "An impressive industrial monument. Worth a quick photo stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Zeist & Park",
+            "hu": "Zeist kastély és parkja",
+            "ro": "Castelul Zeist și Parcul",
+            "en": "Zeist Castle & Park"
+          },
+          "coords": [
+            5.2355,
+            52.0851
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie das Schloss und den Park zu Fuß. Zeit fürs Mittagessen!",
+            "hu": "Parkolja le a kerékpárt, és fedezze fel a kastélyt és a parkot gyalog. Ebédidő!",
+            "ro": "Parcați bicicleta și explorați castelul și parcul pe jos. Timp pentru prânz!",
+            "en": "Park your bike and explore the castle and grounds on foot. Time for lunch!"
+          }
+        },
+        {
+          "name": {
+            "de": "Evangelische Broedergemeente",
+            "hu": "Evangélikus Testvérközösség",
+            "ro": "Comunitatea Evanghelică a Fraților",
+            "en": "Evangelical Brethren Community"
+          },
+          "coords": [
+            5.2401,
+            52.0875
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahren Sie durch die ruhigen, symmetrischen Straßen dieses einzigartigen Viertels.",
+            "hu": "Tekerjen végig ennek az egyedülálló negyednek a csendes, szimmetrikus utcáin.",
+            "ro": "Plimbați-vă cu bicicleta pe străzile liniștite și simetrice ale acestui cartier unic.",
+            "en": "Cycle through the quiet, symmetrical streets of this unique district."
+          }
+        },
+        {
+          "name": {
+            "de": "Walkartpark",
+            "hu": "Walkartpark",
+            "ro": "Parcul Walkart",
+            "en": "Walkartpark"
+          },
+          "coords": [
+            5.2438,
+            52.0899
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:05",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Eine letzte Pause im Grünen, bevor Sie das Fahrrad zurückgeben.",
+            "hu": "Egy utolsó pihenő a zöldben, mielőtt visszaadná a kerékpárt.",
+            "ro": "O ultimă pauză în parc înainte de a returna bicicleta.",
+            "en": "A final break in the green before returning the bike."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und starten Sie Ihre Tour in Zeist. Die erste Etappe führt Sie in den schattigen Zeisterbos, wo Sie die Natur auf gut ausgebauten Wegen genießen. Auf dem Rückweg machen Sie einen Abstecher zum industriellen Erbe des Wasserturms. Das Mittagshighlight ist Schloss Zeist: Nehmen Sie sich Zeit für das prachtvolle Gebäude und ein Picknick im Park. Am Nachmittag erkunden Sie das einzigartige Viertel der Broedergemeente und entspannen im Walkartpark, bevor die Tour endet.",
+        "hu": "Pattanjon biciklire, és kezdje meg zeisti túráját. Az első szakasz az árnyas Zeisterbosba vezet, ahol jól kiépített utakon élvezheti a természetet. Visszafelé tegyen egy kitérőt a víztorony ipari örökségéhez. Az ebéd fénypontja a Zeist kastély: szánjon időt a csodálatos épületre és egy piknikre a parkban. Délután fedezze fel a Testvérközösség egyedülálló negyedét, és pihenjen a Walkartparkban, mielőtt a túra véget ér.",
+        "ro": "Urcați-vă pe bicicletă și începeți turul în Zeist. Prima etapă vă duce în umbrosul Zeisterbos, unde vă puteți bucura de natură pe poteci bine întreținute. Pe drumul de întoarcere, faceți un ocol la moștenirea industrială a Turnului de Apă. Punctul culminant al prânzului este Castelul Zeist: acordați-vă timp pentru clădirea magnifică și un picnic în parc. După-amiaza, explorați cartierul unic al Comunității Fraților și relaxați-vă în Walkartpark înainte de încheierea turului.",
+        "en": "Hop on your bike and start your tour of Zeist. The first leg takes you into the shady Zeisterbos, where you can enjoy nature on well-maintained paths. On the way back, make a detour to the industrial heritage of the Water Tower. The lunch highlight is Zeist Castle: take your time for the magnificent building and a picnic in the park. In the afternoon, explore the unique Brethren Community district and relax in Walkartpark before the tour concludes."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pannenkoekenhuis Princenhof",
+            "tip": "Ein klassisches niederländisches Pfannkuchenhaus am Rande des Waldes."
+          },
+          {
+            "name": "Brasserie de laan",
+            "tip": "Ideal für ein leichtes Mittagessen oder einen Kaffee an der Slotlaan."
+          },
+          {
+            "name": "IJssalon San Marco",
+            "tip": "Belohnen Sie sich nach der Radtour mit dem besten Eis der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pannenkoekenhuis Princenhof",
+            "tip": "Klasszikus holland palacsintázó az erdő szélén."
+          },
+          {
+            "name": "Brasserie de laan",
+            "tip": "Ideális egy könnyű ebédhez vagy egy kávéhoz a Slotlaanon."
+          },
+          {
+            "name": "IJssalon San Marco",
+            "tip": "Jutalmazza meg magát a város legjobb fagyijával a biciklitúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pannenkoekenhuis Princenhof",
+            "tip": "O casă de clătite olandeză clasică la marginea pădurii."
+          },
+          {
+            "name": "Brasserie de laan",
+            "tip": "Ideal pentru un prânz ușor sau o cafea pe Slotlaan."
+          },
+          {
+            "name": "IJssalon San Marco",
+            "tip": "Recompensați-vă cu cea mai bună înghețată din oraș după turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pannenkoekenhuis Princenhof",
+            "tip": "A classic Dutch pancake house on the edge of the forest."
+          },
+          {
+            "name": "Brasserie de laan",
+            "tip": "Great for a light lunch or coffee on Slotlaan."
+          },
+          {
+            "name": "IJssalon San Marco",
+            "tip": "Reward yourself with the best ice cream in town after the bike tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Zeisterbos",
+            "tip": "Fahren Sie abseits der Hauptwege, um die Stille des Waldes zu finden.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Gärten von Schloss Zeist",
+            "tip": "Die formalen Gärten sind ein friedlicher Ort zum Verweilen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Teiches im Walkartpark",
+            "tip": "Ein ruhiger Ort, um die Enten zu beobachten.",
+            "emoji": "🦆"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zeisterbos",
+            "tip": "Térjen le a fő utakról, hogy megtalálja az erdő csendjét.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "A Zeist kastély kertjei",
+            "tip": "A formális kertek békés helyet biztosítanak a pihenéshez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Walkartpark tavának partja",
+            "tip": "Csendes hely a kacsák megfigyelésére.",
+            "emoji": "🦆"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zeisterbos",
+            "tip": "Abateți-vă de la potecile principale pentru a găsi liniștea pădurii.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Grădinile Castelului Zeist",
+            "tip": "Grădinile formale sunt un loc pașnic pentru a zăbovi.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul iazului din Walkartpark",
+            "tip": "Un loc liniștit pentru a privi rațele.",
+            "emoji": "🦆"
+          }
+        ],
+        "en": [
+          {
+            "name": "Zeisterbos",
+            "tip": "Go off the main paths to find the silence of the forest.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Gardens of Zeist Castle",
+            "tip": "The formal gardens are a peaceful place to linger.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pond's edge in Walkartpark",
+            "tip": "A quiet spot to watch the ducks.",
+            "emoji": "🦆"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Slotlaan",
+            "tip": "Perfekt für eine kurze Einkaufspause zwischen den Radtouren."
+          },
+          {
+            "name": "Lokale Feinkostläden",
+            "tip": "Suchen Sie nach Geschäften, die lokalen Utrechter Käse und andere Spezialitäten verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Slotlaan",
+            "tip": "Tökéletes egy rövid vásárlási szünetre a biciklitúrák között."
+          },
+          {
+            "name": "Helyi delikáteszboltok",
+            "tip": "Keressen olyan boltokat, amelyek helyi utrechti sajtot és más különlegességeket árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Slotlaan",
+            "tip": "Perfect pentru o scurtă pauză de cumpărături între plimbările cu bicicleta."
+          },
+          {
+            "name": "Delicatese locale",
+            "tip": "Căutați magazine care vând brânză locală din Utrecht și alte specialități."
+          }
+        ],
+        "en": [
+          {
+            "name": "Slotlaan",
+            "tip": "Perfect for a quick shopping break between bike rides."
+          },
+          {
+            "name": "Local Delicatessens",
+            "tip": "Look for shops selling local Utrecht cheese and other specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad, bevor Sie losfahren.",
+          "Die Niederlande sind flach, aber eine Gangschaltung ist im Wald nützlich.",
+          "Schließen Sie Ihr Fahrrad immer ab, auch für kurze Stopps.",
+          "Achten Sie auf andere Radfahrer und Fußgänger auf den Wegen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt.",
+          "Hollandia sík, de a sebességváltó hasznos az erdőben.",
+          "Mindig zárja le a kerékpárját, még rövid megállók esetén is.",
+          "Figyeljen a többi kerékpárosra és gyalogosra az utakon."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni la drum.",
+          "Olanda este plată, dar un schimbător de viteze este util în pădure.",
+          "Încuiați-vă întotdeauna bicicleta, chiar și pentru opriri scurte.",
+          "Fiți atenți la ceilalți bicicliști și pietoni de pe poteci."
+        ],
+        "en": [
+          "Check your bike before you set off.",
+          "The Netherlands is flat, but gears are useful in the forest.",
+          "Always lock your bike, even for short stops.",
+          "Be mindful of other cyclists and pedestrians on the paths."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 8.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Parken am Zeisterbos",
+            "hu": "1. klaszter: Parkolás a Zeisterbosnál",
+            "ro": "Cluster 1: Parcare la Zeisterbos",
+            "en": "Cluster 1: Parking at Zeisterbos"
+          },
+          "coords": [
+            5.265,
+            52.081
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto und beginnen Sie den Tag mit einem erfrischenden Waldspaziergang.",
+            "hu": "Parkolja le az autót, és kezdje a napot egy frissítő erdei sétával.",
+            "ro": "Parcați mașina și începeți ziua cu o plimbare revigorantă prin pădure.",
+            "en": "Park your car and start the day with a refreshing forest walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserturm (zu Fuß)",
+            "hu": "Víztorony (gyalog)",
+            "ro": "Turnul de apă (pe jos)",
+            "en": "Water Tower (on foot)"
+          },
+          "coords": [
+            5.2595,
+            52.0951
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:40",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Waldrand aus zu diesem Industriedenkmal.",
+            "hu": "Egy rövid séta az erdő széléről ehhez az ipari műemlékhez.",
+            "ro": "O scurtă plimbare de la marginea pădurii la acest monument industrial.",
+            "en": "A short walk from the edge of the forest to this industrial monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Fahrt zum Zentrum, Parken bei Schloss Zeist",
+            "hu": "2. klaszter: Autóval a központba, parkolás a Zeist kastélynál",
+            "ro": "Cluster 2: Conduceți spre centru, parcați la Castelul Zeist",
+            "en": "Cluster 2: Drive to Center, Park at Zeist Castle"
+          },
+          "coords": [
+            5.2355,
+            52.0851
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:25",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Finden Sie einen Parkplatz für den Rest des Tages und erkunden Sie das Schloss.",
+            "hu": "Keressen egy parkolóhelyet a nap hátralévő részére, és fedezze fel a kastélyt.",
+            "ro": "Găsiți un loc de parcare pentru restul zilei și explorați castelul.",
+            "en": "Find a parking spot for the rest of the day and explore the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Slotpark & Mittagessen (zu Fuß)",
+            "hu": "Slotpark és ebéd (gyalog)",
+            "ro": "Slotpark și prânz (pe jos)",
+            "en": "Slotpark & Lunch (on foot)"
+          },
+          "coords": [
+            5.2341,
+            52.0842
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nach dem Schlossbesuch ist ein Spaziergang im Park und eine Mittagspause ideal.",
+            "hu": "A kastélylátogatás után ideális egy séta a parkban és egy ebédszünet.",
+            "ro": "După vizitarea castelului, o plimbare în parc și o pauză de prânz sunt ideale.",
+            "en": "After the castle visit, a walk in the park and a lunch break are ideal."
+          }
+        },
+        {
+          "name": {
+            "de": "Slotlaan & Evangelische Broedergemeente (zu Fuß)",
+            "hu": "Slotlaan és Evangélikus Testvérközösség (gyalog)",
+            "ro": "Slotlaan și Comunitatea Evanghelică a Fraților (pe jos)",
+            "en": "Slotlaan & Evangelical Brethren Community (on foot)"
+          },
+          "coords": [
+            5.2401,
+            52.0875
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:30",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Schlendern Sie die Hauptstraße entlang zum einzigartigen historischen Viertel.",
+            "hu": "Sétáljon végig a főutcán az egyedülálló történelmi negyedig.",
+            "ro": "Plimbați-vă pe strada principală până la cartierul istoric unic.",
+            "en": "Stroll down the main street to the unique historic quarter."
+          }
+        },
+        {
+          "name": {
+            "de": "Walkartpark (zu Fuß)",
+            "hu": "Walkartpark (gyalog)",
+            "ro": "Parcul Walkart (pe jos)",
+            "en": "Walkartpark (on foot)"
+          },
+          "coords": [
+            5.2438,
+            52.0899
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:35",
+          "stay_min": 55,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein letzter entspannter Spaziergang, bevor Sie zum Auto zurückkehren.",
+            "hu": "Egy utolsó, pihentető séta, mielőtt visszatérne az autóhoz.",
+            "ro": "O ultimă plimbare relaxantă înainte de a vă întoarce la mașină.",
+            "en": "A final relaxing walk before heading back to the car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto genießen Sie Flexibilität. Starten Sie im grünen Zeisterbos für einen Morgenspaziergang und einen Blick auf den Wasserturm. Danach fahren Sie ins Zentrum und parken beim Schloss Zeist. Hier beginnt Ihr zweiter Teil des Tages zu Fuß: Erkunden Sie das Schloss, essen Sie im Park zu Mittag und schlendern Sie dann durch die Slotlaan zum historischen Viertel der Broedergemeente. Ein ruhiger Spaziergang im Walkartpark rundet Ihren Tag ab, bevor Sie bequem nach Hause fahren.",
+        "hu": "Autóval rugalmasan élvezheti a napot. Kezdjen a zöld Zeisterbosban egy reggeli sétával és egy pillantással a víztoronyra. Ezután hajtson be a központba, és parkoljon a Zeist kastélynál. Itt kezdődik a nap második, gyalogos része: fedezze fel a kastélyt, ebédeljen a parkban, majd sétáljon végig a Slotlaanon a Testvérközösség történelmi negyedéig. Egy csendes séta a Walkartparkban zárja a napot, mielőtt kényelmesen hazautazna.",
+        "ro": "Cu mașina, vă bucurați de flexibilitate. Începeți în verdele Zeisterbos pentru o plimbare de dimineață și o privire la Turnul de Apă. Apoi, conduceți spre centru și parcați la Castelul Zeist. Aici începe a doua parte a zilei, pe jos: explorați castelul, luați prânzul în parc și apoi plimbați-vă pe Slotlaan până la cartierul istoric al Comunității Fraților. O plimbare liniștită în Walkartpark încheie ziua înainte de a vă întoarce acasă confortabil.",
+        "en": "With a car, you enjoy flexibility. Start in the green Zeisterbos for a morning walk and a look at the Water Tower. Then, drive to the center and park at Zeist Castle. This is where the second part of your day begins on foot: explore the castle, have lunch in the park, and then stroll down Slotlaan to the historic Brethren Community quarter. A quiet walk in Walkartpark rounds off your day before you comfortably drive home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Hermitage",
+            "tip": "Gehobene Küche in einem wunderschönen Landhaus am Waldrand."
+          },
+          {
+            "name": "De Jonckheer",
+            "tip": "Ein stilvolles Brasserie-Restaurant mit einer großartigen Terrasse im Zentrum."
+          },
+          {
+            "name": "Eethuisje Voorheen de Heren van Zeist",
+            "tip": "Gemütlich und informell für ein leckeres Sandwich oder einen Salat."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant Hermitage",
+            "tip": "Kiváló konyha egy gyönyörű vidéki házban az erdő szélén."
+          },
+          {
+            "name": "De Jonckheer",
+            "tip": "Stílusos brasserie-étterem nagyszerű terasszal a központban."
+          },
+          {
+            "name": "Eethuisje Voorheen de Heren van Zeist",
+            "tip": "Hangulatos és informális egy finom szendvicshez vagy salátához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Hermitage",
+            "tip": "Bucătărie rafinată într-o casă de țară frumoasă la marginea pădurii."
+          },
+          {
+            "name": "De Jonckheer",
+            "tip": "Un restaurant-braserie elegant, cu o terasă superbă în centru."
+          },
+          {
+            "name": "Eethuisje Voorheen de Heren van Zeist",
+            "tip": "Primitor și informal pentru un sandviș delicios sau o salată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Hermitage",
+            "tip": "Fine dining in a beautiful country house on the edge of the forest."
+          },
+          {
+            "name": "De Jonckheer",
+            "tip": "A stylish brasserie-restaurant with a great terrace in the center."
+          },
+          {
+            "name": "Eethuisje Voorheen de Heren van Zeist",
+            "tip": "Cozy and informal for a delicious sandwich or salad."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Heideveldjes im Zeisterbos",
+            "tip": "Suchen Sie die kleinen Heideflächen für einen weiten Blick.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rückseite des Schlossparks",
+            "tip": "Der Bereich am weitesten vom Eingang entfernt ist oft am ruhigsten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhof der Broedergemeente",
+            "tip": "Ein Ort von historischer Stille und Symmetrie.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hangamezők a Zeisterbosban",
+            "tip": "Keresse meg a kis hangamezőket a tágas kilátásért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A kastélypark hátsó része",
+            "tip": "A bejárattól legtávolabbi terület gyakran a legcsendesebb.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Testvérközösség temetője",
+            "tip": "A történelmi csend és szimmetria helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poienile cu iarbă neagră din Zeisterbos",
+            "tip": "Căutați micile poieni cu iarbă neagră pentru o priveliște vastă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spatele parcului castelului",
+            "tip": "Zona cea mai îndepărtată de intrare este adesea cea mai liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul Comunității Fraților",
+            "tip": "Un loc de liniște și simetrie istorică.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Heathlands in Zeisterbos",
+            "tip": "Look for the small heath fields for a wide view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Back of the Castle Park",
+            "tip": "The area furthest from the entrance is often the quietest.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cemetery of the Brethren Community",
+            "tip": "A place of historical silence and symmetry.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte auf der Slotlaan",
+            "tip": "Nutzen Sie die Gelegenheit zum Einkaufen, während Sie im Zentrum geparkt sind."
+          },
+          {
+            "name": "Hofläden in der Umgebung",
+            "tip": "Halten Sie Ausschau nach Schildern für 'Boerenkaas' (Bauernkäse) auf dem Land."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok a Slotlaanon",
+            "tip": "Használja ki a vásárlási lehetőséget, amíg a központban parkol."
+          },
+          {
+            "name": "Tanyasi boltok a környéken",
+            "tip": "Vidéken figyelje a 'Boerenkaas' (parasztsajt) táblákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele de pe Slotlaan",
+            "tip": "Profitați de ocazia de a face cumpărături în timp ce sunteți parcat în centru."
+          },
+          {
+            "name": "Magazine de fermă în zonă",
+            "tip": "Fiți atenți la indicatoarele pentru 'Boerenkaas' (brânză de fermă) la țară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops on Slotlaan",
+            "tip": "Take the opportunity for shopping while you're parked in the center."
+          },
+          {
+            "name": "Farm shops in the area",
+            "tip": "Look out for signs for 'Boerenkaas' (farmer's cheese) in the countryside."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie Park-and-Walk-Cluster, um Parkgebühren und Stress zu sparen.",
+          "Die meisten Parkplätze im Zentrum von Zeist sind kostenpflichtig.",
+          "Planen Sie Ihre Route im Voraus, um Einbahnstraßen zu vermeiden.",
+          "Ein Auto gibt Ihnen die Freiheit, auch nahegelegene Sehenswürdigkeiten wie die Pyramide von Austerlitz zu besuchen (nicht in diesem Plan enthalten)."
+        ],
+        "hu": [
+          "Használjon 'parkolj és sétálj' klasztereket a parkolási díjak és a stressz csökkentése érdekében.",
+          "A legtöbb parkoló Zeist központjában fizetős.",
+          "Tervezze meg előre az útvonalat az egyirányú utcák elkerülése érdekében.",
+          "Az autó szabadságot ad, hogy meglátogasson közeli látnivalókat is, mint például az Austerlitz-i piramist (ez a terv nem tartalmazza)."
+        ],
+        "ro": [
+          "Folosiți clustere de tip 'parchează și mergi' pentru a economisi taxe de parcare și stres.",
+          "Majoritatea parcărilor din centrul Zeistului sunt cu plată.",
+          "Planificați-vă ruta în avans pentru a evita străzile cu sens unic.",
+          "O mașină vă oferă libertatea de a vizita și atracții din apropiere, cum ar fi Piramida din Austerlitz (neinclusă în acest plan)."
+        ],
+        "en": [
+          "Use park-and-walk clusters to save on parking fees and stress.",
+          "Most parking in the center of Zeist is paid.",
+          "Plan your route in advance to avoid one-way streets.",
+          "A car gives you the freedom to also visit nearby sights like the Pyramid of Austerlitz (not included in this plan)."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 7.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Bus zum Schloss Zeist",
+            "hu": "1. klaszter: Busszal a Zeist kastélyhoz",
+            "ro": "Cluster 1: Autobuz spre Castelul Zeist",
+            "en": "Cluster 1: Bus to Zeist Castle"
+          },
+          "coords": [
+            5.2355,
+            52.0851
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Steigen Sie an der Haltestelle 'Slot Zeist' aus und beginnen Sie mit dem Highlight.",
+            "hu": "Szálljon le a 'Slot Zeist' megállónál, és kezdje a fényponttal.",
+            "ro": "Coborâți la stația 'Slot Zeist' și începeți cu atracția principală.",
+            "en": "Get off at the 'Slot Zeist' stop and start with the highlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Slotpark & Slotlaan (zu Fuß)",
+            "hu": "Slotpark és Slotlaan (gyalog)",
+            "ro": "Slotpark și Slotlaan (pe jos)",
+            "en": "Slotpark & Slotlaan (on foot)"
+          },
+          "coords": [
+            5.239,
+            52.0865
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:05",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Spaziergang durch den Park führt Sie direkt zur Haupteinkaufsstraße.",
+            "hu": "Egy séta a parkon keresztül egyenesen a fő bevásárlóutcára vezet.",
+            "ro": "O plimbare prin parc vă duce direct la strada principală de cumpărături.",
+            "en": "A walk through the park takes you directly to the main shopping street."
+          }
+        },
+        {
+          "name": {
+            "de": "Evangelische Broedergemeente (zu Fuß)",
+            "hu": "Evangélikus Testvérközösség (gyalog)",
+            "ro": "Comunitatea Evanghelică a Fraților (pe jos)",
+            "en": "Evangelical Brethren Community (on foot)"
+          },
+          "coords": [
+            5.2401,
+            52.0875
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:20",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die einzigartige Architektur und die friedliche Atmosphäre zu Fuß.",
+            "hu": "Fedezze fel gyalog az egyedülálló építészetet és a békés légkört.",
+            "ro": "Explorați pe jos arhitectura unică și atmosfera pașnică.",
+            "en": "Explore the unique architecture and peaceful atmosphere on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Bus zum Zeisterbos",
+            "hu": "2. klaszter: Busszal a Zeisterboshoz",
+            "ro": "Cluster 2: Autobuz spre Zeisterbos",
+            "en": "Cluster 2: Bus to Zeisterbos"
+          },
+          "coords": [
+            5.265,
+            52.081
+          ],
+          "category": "natural features",
+          "arrive_at": "13:50",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in Richtung Woudenberg/Amersfoort und steigen Sie am Waldrand aus.",
+            "hu": "Vegyen egy buszt Woudenberg/Amersfoort irányába, és szálljon le az erdő szélén.",
+            "ro": "Luați un autobuz spre Woudenberg/Amersfoort și coborâți la marginea pădurii.",
+            "en": "Take a bus towards Woudenberg/Amersfoort and get off at the edge of the forest."
+          }
+        },
+        {
+          "name": {
+            "de": "Walkartpark (letzter Halt)",
+            "hu": "Walkartpark (utolsó megálló)",
+            "ro": "Parcul Walkart (ultima oprire)",
+            "en": "Walkartpark (final stop)"
+          },
+          "coords": [
+            5.2438,
+            52.0899
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:20",
+          "stay_min": 45,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zurück ins Zentrum für einen letzten Spaziergang im Park.",
+            "hu": "Menjen vissza busszal a központba egy utolsó sétára a parkban.",
+            "ro": "Luați un autobuz înapoi spre centru pentru o ultimă plimbare în parc.",
+            "en": "Take a bus back to the center for a final stroll in the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Zeist ist mit öffentlichen Verkehrsmitteln gut zu erkunden. Starten Sie mit dem Bus direkt zum Schloss Zeist, dem Höhepunkt des Tages. Von dort aus erkunden Sie den ersten Cluster zu Fuß: den Schlosspark, die Slotlaan und das historische Viertel der Broedergemeente. Nach dem Mittagessen bringt Sie ein weiterer Bus zum zweiten Cluster: dem weitläufigen Zeisterbos. Genießen Sie einen langen Spaziergang in der Natur, bevor Sie für einen letzten, ruhigen Moment im Walkartpark ins Zentrum zurückkehren.",
+        "hu": "Zeist könnyen felfedezhető tömegközlekedéssel. Kezdje a napot busszal közvetlenül a Zeist kastélyhoz, a nap fénypontjához. Onnan gyalog fedezze fel az első klasztert: a kastélyparkot, a Slotlaant és a Testvérközösség történelmi negyedét. Ebéd után egy másik busz elviszi a második klaszterhez: a tágas Zeisterboshoz. Élvezzen egy hosszú sétát a természetben, mielőtt visszatérne a központba egy utolsó, csendes pillanatra a Walkartparkban.",
+        "ro": "Zeist este ușor de explorat cu transportul public. Începeți cu autobuzul direct la Castelul Zeist, punctul culminant al zilei. De acolo, explorați primul cluster pe jos: parcul castelului, Slotlaan și cartierul istoric al Comunității Fraților. După prânz, un alt autobuz vă duce la al doilea cluster: vastul Zeisterbos. Bucurați-vă de o plimbare lungă în natură înainte de a vă întoarce în centru pentru un ultim moment de liniște în Walkartpark.",
+        "en": "Zeist is easy to explore by public transport. Start by taking a bus directly to Zeist Castle, the highlight of the day. From there, explore the first cluster on foot: the castle park, Slotlaan, and the historic Brethren Community quarter. After lunch, another bus will take you to the second cluster: the vast Zeisterbos. Enjoy a long walk in nature before returning to the center for a final, quiet moment in Walkartpark."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Grand Café Hotel Figi",
+            "tip": "Zentral gelegen und leicht mit dem Bus zu erreichen, ideal für eine Pause."
+          },
+          {
+            "name": "Cafés an der Slotlaan",
+            "tip": "Viele Möglichkeiten für einen schnellen Kaffee oder ein Mittagessen während Ihres Spaziergangs."
+          },
+          {
+            "name": "Takeaway-Optionen",
+            "tip": "Holen Sie sich ein Sandwich und genießen Sie es im Slotpark."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grand Café Hotel Figi",
+            "tip": "Központi fekvésű és busszal könnyen megközelíthető, ideális egy szünetre."
+          },
+          {
+            "name": "Kávézók a Slotlaanon",
+            "tip": "Számos lehetőség egy gyors kávéra vagy ebédre a séta során."
+          },
+          {
+            "name": "Elviteles lehetőségek",
+            "tip": "Vegyen egy szendvicset, és élvezze a Slotparkban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grand Café Hotel Figi",
+            "tip": "Situat central și ușor accesibil cu autobuzul, perfect pentru o pauză."
+          },
+          {
+            "name": "Cafenele pe Slotlaan",
+            "tip": "Multe opțiuni pentru o cafea rapidă sau un prânz în timpul plimbării."
+          },
+          {
+            "name": "Opțiuni la pachet",
+            "tip": "Luați un sandviș și savurați-l în Slotpark."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grand Café Hotel Figi",
+            "tip": "Centrally located and easy to reach by bus, perfect for a break."
+          },
+          {
+            "name": "Cafes on Slotlaan",
+            "tip": "Plenty of options for a quick coffee or lunch during your walk."
+          },
+          {
+            "name": "Takeaway options",
+            "tip": "Grab a sandwich and enjoy it in Slotpark."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Bank im Zeisterbos",
+            "tip": "Entfliehen Sie allem auf einer abgelegenen Bank.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Der englische Garten im Slotpark",
+            "tip": "Ein wunderschön gestalteter, ruhiger Bereich.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Walkartpark am späten Nachmittag",
+            "tip": "Wenn die meisten Tagesausflügler weg sind, ist es besonders friedlich.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy pad a Zeisterbosban",
+            "tip": "Meneküljön el minden elől egy félreeső padon.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Az angolkert a Slotparkban",
+            "tip": "Egy gyönyörűen kialakított, csendes terület.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Walkartpark késő délután",
+            "tip": "Amikor a legtöbb napos kiránduló elment, különösen békés.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă în Zeisterbos",
+            "tip": "Evadați de tot pe o bancă retrasă.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Grădina engleză din Slotpark",
+            "tip": "O zonă frumos amenajată și liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Walkartpark după-amiaza târziu",
+            "tip": "Este deosebit de pașnic atunci când majoritatea excursioniștilor de o zi au plecat.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench in Zeisterbos",
+            "tip": "Escape it all on a secluded bench.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "The English garden in Slotpark",
+            "tip": "A beautifully designed, quiet area.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Walkartpark in the late afternoon",
+            "tip": "It's especially peaceful when most day-trippers have left.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Slotlaan & 1e Hogeweg",
+            "tip": "Die wichtigsten Einkaufsstraßen sind Teil Ihres Spaziergangs im Zentrum."
+          },
+          {
+            "name": "Buchhandlungen",
+            "tip": "Zeist hat einige schöne Buchhandlungen, ideal zum Stöbern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Slotlaan és 1e Hogeweg",
+            "tip": "A fő bevásárlóutcák a központi sétájának részét képezik."
+          },
+          {
+            "name": "Könyvesboltok",
+            "tip": "Zeistben van néhány szép könyvesbolt, ideális a böngészéshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Slotlaan & 1e Hogeweg",
+            "tip": "Principalele străzi comerciale fac parte din plimbarea dvs. prin centru."
+          },
+          {
+            "name": "Librării",
+            "tip": "Zeist are câteva librării frumoase, perfecte pentru a răsfoi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Slotlaan & 1e Hogeweg",
+            "tip": "The main shopping streets are part of your walk in the center."
+          },
+          {
+            "name": "Bookstores",
+            "tip": "Zeist has some nice bookstores, perfect for browsing."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte oder nutzen Sie eine OV-chipkaart für die günstigsten Tarife.",
+          "Planen Sie Ihre Busfahrten mit einer App wie 9292, um die Wartezeiten zu minimieren.",
+          "Überprüfen Sie die Abfahrtszeiten des letzten Busses, besonders wenn Sie am späten Nachmittag im Wald sind.",
+          "Die Bushaltestellen sind deutlich gekennzeichnet."
+        ],
+        "hu": [
+          "Vásároljon napijegyet, vagy használjon OV-chipkaartot a legolcsóbb díjakért.",
+          "Tervezze meg a buszútjait egy olyan alkalmazással, mint a 9292, hogy minimalizálja a várakozási időt.",
+          "Ellenőrizze az utolsó busz indulási idejét, különösen, ha késő délután az erdőben van.",
+          "A buszmegállók jól láthatóan vannak jelölve."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi sau folosiți un OV-chipkaart pentru cele mai ieftine tarife.",
+          "Planificați-vă călătoriile cu autobuzul cu o aplicație precum 9292 pentru a minimiza timpii de așteptare.",
+          "Verificați orele de plecare ale ultimului autobuz, mai ales dacă sunteți în pădure după-amiaza târziu.",
+          "Stațiile de autobuz sunt clar marcate."
+        ],
+        "en": [
+          "Buy a day ticket or use an OV-chipkaart for the cheapest fares.",
+          "Plan your bus journeys with an app like 9292 to minimize waiting times.",
+          "Check the last bus departure times, especially if you're in the forest late in the afternoon.",
+          "Bus stops are clearly marked."
+        ]
+      }
+    }
+  }
+}

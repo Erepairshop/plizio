@@ -1,0 +1,1331 @@
+{
+  "city_id": "denizli-cities-v2",
+  "anchor": {
+    "name": "Denizli",
+    "coords": [
+      29.0886,
+      37.7765
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 4.1,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": {
+            "de": "Hahn-Statue",
+            "hu": "Kakas-szobor",
+            "ro": "Statuia Cocoșului",
+            "en": "Rooster Statue"
+          },
+          "coords": [
+            29.0871,
+            37.7752
+          ],
+          "category": "monuments",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der perfekte Startpunkt und ein ikonisches Fotomotiv, das den berühmten Denizli-Hahn darstellt.",
+            "hu": "Tökéletes kiindulópont és egy ikonikus fotóhelyszín, amely a híres Denizli kakast ábrázolja.",
+            "ro": "Punctul de plecare perfect și un loc iconic pentru fotografii, reprezentând faimosul cocoș din Denizli.",
+            "en": "The perfect starting point and an iconic photo spot, representing the famous Denizli rooster."
+          }
+        },
+        {
+          "name": {
+            "de": "Atatürk-Haus und Ethnographisches Museum",
+            "hu": "Atatürk Ház és Néprajzi Múzeum",
+            "ro": "Casa Atatürk și Muzeul Etnografic",
+            "en": "Atatürk House and Ethnography Museum"
+          },
+          "coords": [
+            29.0925,
+            37.778
+          ],
+          "category": "museums",
+          "arrive_at": "09:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die lokale Geschichte und das Leben Atatürks während seines Besuchs in Denizli ein.",
+            "hu": "Merüljön el a helyi történelemben és Atatürk életében, amikor Denizliben járt.",
+            "ro": "Cufundați-vă în istoria locală și în viața lui Atatürk în timpul vizitei sale la Denizli.",
+            "en": "Immerse yourself in local history and Atatürk's life during his visit to Denizli."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen mit Denizli Kebabı",
+            "hu": "Ebéd Denizli Kebabıval",
+            "ro": "Prânz cu Denizli Kebabı",
+            "en": "Lunch with Denizli Kebabı"
+          },
+          "coords": [
+            29.09,
+            37.776
+          ],
+          "category": "gastro",
+          "arrive_at": "11:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Probieren Sie diesen langsam im Tandoor-Ofen gegarten Lammkebab, eine lokale Delikatesse.",
+            "hu": "Kóstolja meg ezt a lassan, tandúr kemencében sült báránykebabot, egy helyi különlegességet.",
+            "ro": "Încercați acest kebab de miel gătit lent în cuptor tandoor, o delicatesă locală.",
+            "en": "Try this slow-cooked lamb kebab in a tandoor oven, a local delicacy."
+          }
+        },
+        {
+          "name": {
+            "de": "Çamlık-Park",
+            "hu": "Çamlık Park",
+            "ro": "Parcul Çamlık",
+            "en": "Çamlık Park"
+          },
+          "coords": [
+            29.0955,
+            37.7601
+          ],
+          "category": "parks",
+          "arrive_at": "13:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Ein entspannender Spaziergang in diesem Pinienwald-Park ist der perfekte Abschluss des Nachmittags.",
+            "hu": "Egy pihentető séta ebben a fenyőerdős parkban tökéletes lezárása a délutánnak.",
+            "ro": "O plimbare relaxantă în acest parc cu pădure de pini este finalul perfect pentru după-amiază.",
+            "en": "A relaxing walk in this pine forest park is the perfect end to the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Denizli an der berühmten Hahn-Statue, einem Symbol der Stadt. Von dort aus führt Sie ein kurzer Spaziergang zum Atatürk-Haus, wo Sie in die Geschichte der Region eintauchen. Nach den kulturellen Eindrücken ist es Zeit für ein authentisches Mittagessen. Probieren Sie unbedingt den Denizli Kebabı, eine lokale Spezialität, die langsam im Ofen gegart wird und auf der Zunge zergeht. Den Nachmittag verbringen Sie entspannt im Çamlık-Park. Genießen Sie die frische Luft bei einem Spaziergang durch die Pinienwälder und lassen Sie den Tag in der Natur ausklingen, bevor Sie sich auf den Rückweg machen.",
+        "hu": "Kezdje a napot Denizli szívében, a híres Kakas-szobornál, a város jelképénél. Innen egy rövid séta vezet az Atatürk-házhoz, ahol elmerülhet a régió történelmében. A kulturális élmények után ideje egy autentikus ebédnek. Feltétlenül kóstolja meg a Denizli Kebabıt, egy helyi specialitást, amelyet lassan sütnek kemencében, és szinte elolvad a szájban. A délutánt pihenéssel töltse a Çamlık Parkban. Élvezze a friss levegőt egy sétával a fenyőerdőkben, és zárja a napot a természetben, mielőtt visszaindulna.",
+        "ro": "Începeți-vă ziua în inima orașului Denizli, la faimoasa Statuie a Cocoșului, un simbol al orașului. De acolo, o scurtă plimbare vă va duce la Casa Atatürk, unde vă veți cufunda în istoria regiunii. După impresiile culturale, este timpul pentru un prânz autentic. Asigurați-vă că încercați Denizli Kebabı, o specialitate locală gătită lent la cuptor, care se topește în gură. Petreceți după-amiaza relaxându-vă în Parcul Çamlık. Bucurați-vă de aerul proaspăt cu o plimbare prin pădurile de pini și încheiați ziua în natură înainte de a vă întoarce.",
+        "en": "Start your day in the heart of Denizli at the famous Rooster Statue, a symbol of the city. From there, a short walk will take you to the Atatürk House, where you can immerse yourself in the region's history. After the cultural impressions, it's time for an authentic lunch. Be sure to try the Denizli Kebabı, a local specialty slow-cooked in an oven that melts in your mouth. Spend the afternoon relaxing in Çamlık Park. Enjoy the fresh air with a walk through the pine forests and end the day in nature before heading back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Denizli Kebabı",
+            "tip": "Serviert in Kebapçı Enver oder Kocabaylar Kebap Salonu, eine Institution."
+          },
+          {
+            "name": "Zafer Gazozu",
+            "tip": "Ein lokales kohlensäurehaltiges Getränk, das man probieren muss."
+          },
+          {
+            "name": "Yanık Yoğurt",
+            "tip": "Ein einzigartiger 'verbrannter' Joghurt mit rauchigem Geschmack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Denizli Kebabı",
+            "tip": "A Kebapçı Enver vagy a Kocabaylar Kebap Salonu éttermekben szolgálják fel, igazi intézmények."
+          },
+          {
+            "name": "Zafer Gazozu",
+            "tip": "Helyi szénsavas üdítőital, amit meg kell kóstolni."
+          },
+          {
+            "name": "Yanık Yoğurt",
+            "tip": "Egyedi 'égett' joghurt füstös ízzel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Denizli Kebabı",
+            "tip": "Servit la Kebapçı Enver sau Kocabaylar Kebap Salonu, o instituție."
+          },
+          {
+            "name": "Zafer Gazozu",
+            "tip": "O băutură carbogazoasă locală care trebuie încercată."
+          },
+          {
+            "name": "Yanık Yoğurt",
+            "tip": "Un iaurt 'ars' unic, cu o aromă afumată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Denizli Kebabı",
+            "tip": "Served at Kebapçı Enver or Kocabaylar Kebap Salonu, an institution."
+          },
+          {
+            "name": "Zafer Gazozu",
+            "tip": "A local fizzy drink that is a must-try."
+          },
+          {
+            "name": "Yanık Yoğurt",
+            "tip": "A unique 'burnt' yogurt with a smoky flavor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Çamlık Park Kiefernwälder",
+            "tip": "Finden Sie eine ruhige Bank und lauschen Sie dem Wind in den Bäumen.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Garten des Atatürk-Hauses",
+            "tip": "Ein kleiner, friedlicher Ort, um dem Trubel der Stadt zu entfliehen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ein lokales Teehaus (Çay Bahçesi)",
+            "tip": "Genießen Sie einen türkischen Tee und beobachten Sie das Leben.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Çamlık Park fenyőerdői",
+            "tip": "Keressen egy csendes padot, és hallgassa a szél susogását a fák között.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Az Atatürk-ház kertje",
+            "tip": "Egy kicsi, békés hely a város zajától távol.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Egy helyi teaház (Çay Bahçesi)",
+            "tip": "Fogyasszon el egy török teát és figyelje az életet.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurile de pini din Parcul Çamlık",
+            "tip": "Găsiți o bancă liniștită și ascultați vântul printre copaci.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Grădina Casei Atatürk",
+            "tip": "Un loc mic și pașnic pentru a scăpa de agitația orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "O ceainărie locală (Çay Bahçesi)",
+            "tip": "Savurați un ceai turcesc și priviți viața cum trece.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Çamlık Park Pine Forests",
+            "tip": "Find a quiet bench and listen to the wind in the trees.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Atatürk House Garden",
+            "tip": "A small, peaceful spot to escape the city bustle.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A local tea house (Çay Bahçesi)",
+            "tip": "Enjoy a Turkish tea and watch the world go by.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kale İçi Çarşısı",
+            "tip": "Ein historischer Basar mit Textilien, Lederwaren und lokalem Handwerk."
+          },
+          {
+            "name": "Babadağlılar İşhanı",
+            "tip": "Bekannt für seine hochwertigen Handtücher und Bademäntel, für die Denizli berühmt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kale İçi Çarşısı",
+            "tip": "Történelmi bazár textilekkel, bőráruval és helyi kézműves termékekkel."
+          },
+          {
+            "name": "Babadağlılar İşhanı",
+            "tip": "Híres a minőségi törölközőiről és fürdőköpenyeiről, amelyekről Denizli ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kale İçi Çarşısı",
+            "tip": "Un bazar istoric cu textile, articole din piele și meșteșuguri locale."
+          },
+          {
+            "name": "Babadağlılar İşhanı",
+            "tip": "Renumit pentru prosoapele și halatele de baie de înaltă calitate pentru care este faimos Denizli."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kale İçi Çarşısı",
+            "tip": "A historical bazaar with textiles, leather goods, and local crafts."
+          },
+          {
+            "name": "Babadağlılar İşhanı",
+            "tip": "Known for its high-quality towels and bathrobes, which Denizli is famous for."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie einige Kilometer zurücklegen werden.",
+          "Beginnen Sie früh, um der Mittagshitze zu entgehen.",
+          "Haben Sie immer eine Flasche Wasser dabei, besonders im Sommer.",
+          "Die meisten Museen und Geschäfte akzeptieren Kreditkarten, aber für kleinere Einkäufe ist Bargeld nützlich."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel több kilométert fog gyalogolni.",
+          "Kezdje korán, hogy elkerülje a déli hőséget.",
+          "Mindig legyen Önnél egy üveg víz, különösen nyáron.",
+          "A legtöbb múzeum és üzlet elfogad bankkártyát, de kisebb vásárlásokhoz hasznos a készpénz."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți parcurge câțiva kilometri.",
+          "Începeți devreme pentru a evita căldura de la amiază.",
+          "Aveți întotdeauna la dumneavoastră o sticlă de apă, mai ales vara.",
+          "Majoritatea muzeelor și magazinelor acceptă carduri de credit, dar numerarul este util pentru cumpărături mai mici."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be covering a few kilometers.",
+          "Start early to avoid the midday heat.",
+          "Always carry a bottle of water, especially in the summer.",
+          "Most museums and shops accept credit cards, but cash is useful for smaller purchases."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 15.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Hahn-Statue",
+            "hu": "Kakas-szobor",
+            "ro": "Statuia Cocoșului",
+            "en": "Rooster Statue"
+          },
+          "coords": [
+            29.0871,
+            37.7752
+          ],
+          "category": "monuments",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad in der Nähe ab und machen Sie das obligatorische Foto.",
+            "hu": "Zárja le a kerékpárját a közelben, és készítse el a kötelező fotót.",
+            "ro": "Încuietoarea bicicletei în apropiere și faceți fotografia obligatorie.",
+            "en": "Lock up your bike nearby and take the mandatory photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Atatürk-Haus und Ethnographisches Museum",
+            "hu": "Atatürk Ház és Néprajzi Múzeum",
+            "ro": "Casa Atatürk și Muzeul Etnografic",
+            "en": "Atatürk House and Ethnography Museum"
+          },
+          "coords": [
+            29.0925,
+            37.778
+          ],
+          "category": "museums",
+          "arrive_at": "09:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad sicher, um das Museum in Ruhe zu erkunden.",
+            "hu": "Parkolja le biztonságosan a kerékpárját, hogy nyugodtan felfedezhesse a múzeumot.",
+            "ro": "Parcați-vă bicicleta în siguranță pentru a explora muzeul în liniște.",
+            "en": "Park your bike securely to explore the museum at your leisure."
+          }
+        },
+        {
+          "name": {
+            "de": "Çamlık-Park",
+            "hu": "Çamlık Park",
+            "ro": "Parcul Çamlık",
+            "en": "Çamlık Park"
+          },
+          "coords": [
+            29.0955,
+            37.7601
+          ],
+          "category": "parks",
+          "arrive_at": "11:23",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ideal für eine kurze Radtour durch die Natur, bevor Sie zu Mittag essen.",
+            "hu": "Ideális egy rövid kerékpártúrához a természetben ebéd előtt.",
+            "ro": "Ideal pentru o scurtă plimbare cu bicicleta prin natură înainte de prânz.",
+            "en": "Ideal for a short bike ride through nature before having lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Parks",
+            "hu": "Ebéd a park közelében",
+            "ro": "Prânz lângă parc",
+            "en": "Lunch near the park"
+          },
+          "coords": [
+            29.093,
+            37.763
+          ],
+          "category": "gastro",
+          "arrive_at": "12:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Stärken Sie sich in einem der vielen Restaurants mit Blick auf den Park.",
+            "hu": "Erősödjön meg a parkra néző számos étterem egyikében.",
+            "ro": "Întăriți-vă într-unul dintre numeroasele restaurante cu vedere la parc.",
+            "en": "Recharge at one of the many restaurants overlooking the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Bağbaşı-Seilbahn (Talstation)",
+            "hu": "Bağbaşı libegő (alsó állomás)",
+            "ro": "Telecabina Bağbaşı (stația de jos)",
+            "en": "Bağbaşı Cable Car (lower station)"
+          },
+          "coords": [
+            29.04,
+            37.74
+          ],
+          "category": "viewpoints",
+          "arrive_at": "14:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 66,
+          "hop_from_prev_km": 11.5,
+          "tip_5lang": {
+            "de": "Die Fahrt hinauf zum Bağbaşı-Plateau bietet eine atemberaubende Aussicht. Lassen Sie das Fahrrad sicher an der Talstation.",
+            "hu": "A Bağbaşı-fennsíkra való feljutás lélegzetelállító kilátást nyújt. Hagyja a kerékpárt biztonságban az alsó állomáson.",
+            "ro": "Urcarea spre platoul Bağbaşı oferă o priveliște uluitoare. Lăsați bicicleta în siguranță la stația de jos.",
+            "en": "The ride up to the Bağbaşı Plateau offers breathtaking views. Leave your bike securely at the lower station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Rad und starten Sie am Hahn-Statue in ein urbanes Abenteuer. Die Route führt Sie zunächst durch das historische Zentrum zum Atatürk-Museum. Anschließend radeln Sie in Richtung Süden zum grünen Çamlık-Park für eine erfrischende Pause. Nach einem stärkenden Mittagessen in der Nähe des Parks steht die größte Etappe an: die Fahrt zur Talstation der Bağbaşı-Seilbahn. Stellen Sie Ihr Fahrrad ab und schweben Sie auf das Plateau. Oben erwarten Sie eine fantastische Aussicht über Denizli und kühle Bergluft. Nach diesem Höhepunkt kehren Sie entspannt in die Stadt zurück.",
+        "hu": "Pattanjon kerékpárra, és induljon városi kalandra a Kakas-szobortól. Az útvonal először a történelmi központon keresztül az Atatürk Múzeumhoz vezet. Ezután dél felé tekerjen a zöld Çamlık Parkba egy frissítő szünetre. A park közelében elköltött ebéd után következik a legnagyobb szakasz: az út a Bağbaşı libegő alsó állomásához. Tegye le a kerékpárt, és libegjen fel a fennsíkra. Fent fantasztikus kilátás nyílik Denizlire és hűvös hegyi levegő várja. E csúcspont után pihenten térhet vissza a városba.",
+        "ro": "Urcați-vă pe bicicletă și porniți într-o aventură urbană de la Statuia Cocoșului. Traseul vă duce mai întâi prin centrul istoric la Muzeul Atatürk. Apoi pedalați spre sud, spre verdele Parc Çamlık, pentru o pauză revigorantă. După un prânz consistent lângă parc, urmează cea mai mare etapă: drumul spre stația de jos a telecabinei Bağbaşı. Lăsați bicicleta și plutiți spre platou. Sus vă așteaptă o priveliște fantastică asupra Denizli și aer curat de munte. După acest punct culminant, vă puteți întoarce relaxat în oraș.",
+        "en": "Hop on your bike and start an urban adventure from the Rooster Statue. The route first takes you through the historic center to the Atatürk Museum. Then, cycle south to the green Çamlık Park for a refreshing break. After a hearty lunch near the park, the longest leg is next: the ride to the lower station of the Bağbaşı Cable Car. Park your bike and soar up to the plateau. A fantastic view of Denizli and cool mountain air await you at the top. After this highlight, you can return to the city relaxed."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gözleme",
+            "tip": "Ein dünnes, gefülltes Fladenbrot, perfekt für einen schnellen Bissen. Oft in Cafés in der Nähe von Parks zu finden."
+          },
+          {
+            "name": "Denizli Kebabı",
+            "tip": "Wenn Sie Zeit für ein richtiges Mittagessen haben, ist dies immer noch die beste Wahl."
+          },
+          {
+            "name": "Frisch gepresster Saft",
+            "tip": "Viele Stände verkaufen erfrischende Granatapfel- oder Orangensäfte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gözleme",
+            "tip": "Vékony, töltött lepénykenyér, tökéletes egy gyors harapnivalóhoz. Gyakran megtalálható a parkok melletti kávézókban."
+          },
+          {
+            "name": "Denizli Kebabı",
+            "tip": "Ha van ideje egy rendes ebédre, ez még mindig a legjobb választás."
+          },
+          {
+            "name": "Frissen facsart gyümölcslé",
+            "tip": "Sok stand árul frissítő gránátalma- vagy narancslevet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gözleme",
+            "tip": "O lipie subțire, umplută, perfectă pentru o gustare rapidă. Adesea găsită în cafenelele de lângă parcuri."
+          },
+          {
+            "name": "Denizli Kebabı",
+            "tip": "Dacă aveți timp pentru un prânz adevărat, aceasta este în continuare cea mai bună alegere."
+          },
+          {
+            "name": "Suc proaspăt stors",
+            "tip": "Multe tarabe vând sucuri răcoritoare de rodie sau portocale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gözleme",
+            "tip": "A thin, filled flatbread, perfect for a quick bite. Often found in cafes near parks."
+          },
+          {
+            "name": "Denizli Kebabı",
+            "tip": "If you have time for a proper lunch, this is still the best choice."
+          },
+          {
+            "name": "Freshly squeezed juice",
+            "tip": "Many stalls sell refreshing pomegranate or orange juices."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bağbaşı-Plateau",
+            "tip": "Die ultimative Flucht mit Panoramablick und ruhigen Wanderwegen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Çamlık Park",
+            "tip": "Finden Sie einen abgelegenen Pfad abseits der Hauptwege.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Blick von oben",
+            "tip": "Genießen Sie die stille Fahrt mit der Seilbahn und die Aussicht.",
+            "emoji": "🚠"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bağbaşı-fennsík",
+            "tip": "A tökéletes menekülés panorámás kilátással és csendes túraútvonalakkal.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Çamlık Park",
+            "tip": "Keressen egy félreeső ösvényt a fő utaktól távol.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Kilátás fentről",
+            "tip": "Élvezze a csendes libegőzést és a kilátást.",
+            "emoji": "🚠"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platoul Bağbaşı",
+            "tip": "Evadarea supremă cu vederi panoramice și poteci de drumeție liniștite.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Çamlık",
+            "tip": "Găsiți o potecă retrasă departe de cărările principale.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Vedere de sus",
+            "tip": "Bucurați-vă de călătoria liniștită cu telecabina și de priveliște.",
+            "emoji": "🚠"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bağbaşı Plateau",
+            "tip": "The ultimate escape with panoramic views and quiet hiking trails.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Çamlık Park",
+            "tip": "Find a secluded path away from the main trails.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "View from above",
+            "tip": "Enjoy the quiet cable car ride and the view.",
+            "emoji": "🚠"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Fahrradgeschäfte",
+            "tip": "Für eventuell benötigtes Zubehör oder schnelle Reparaturen."
+          },
+          {
+            "name": "Snacks für unterwegs",
+            "tip": "Kaufen Sie Nüsse und Trockenfrüchte auf einem lokalen Markt für Energie."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerékpárboltok",
+            "tip": "Minden szükséges kiegészítőhöz vagy gyors javításhoz."
+          },
+          {
+            "name": "Útravaló rágcsálnivalók",
+            "tip": "Vásároljon dióféléket és aszalt gyümölcsöket a helyi piacon energiáért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine locale de biciclete",
+            "tip": "Pentru orice accesorii de care ați putea avea nevoie sau reparații rapide."
+          },
+          {
+            "name": "Gustări pentru drum",
+            "tip": "Cumpărați nuci și fructe uscate de la o piață locală pentru energie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local bike shops",
+            "tip": "For any accessories you might need or quick repairs."
+          },
+          {
+            "name": "Snacks for the road",
+            "tip": "Buy nuts and dried fruits from a local market for energy."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Der Verkehr in der Stadt kann hektisch sein, fahren Sie defensiv.",
+          "Nehmen Sie ein gutes Schloss mit, um Ihr Fahrrad an den Haltestellen sicher abzustellen.",
+          "Die Fahrt zur Seilbahn hat einige Steigungen, seien Sie vorbereitet."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját, különösen a fékeket és a gumikat.",
+          "A városi forgalom hektikus lehet, vezessen védekezően.",
+          "Hozzon magával egy jó lakatot, hogy biztonságosan lezárhassa a kerékpárt a megállóknál.",
+          "A libegőhöz vezető úton vannak emelkedők, készüljön fel."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele și anvelopele.",
+          "Traficul în oraș poate fi agitat, conduceți defensiv.",
+          "Luați un lacăt bun pentru a vă asigura bicicleta la opriri.",
+          "Drumul spre telecabină are câteva pante, fiți pregătiți."
+        ],
+        "en": [
+          "Check your bike before leaving, especially the brakes and tires.",
+          "City traffic can be hectic, ride defensively.",
+          "Bring a good lock to secure your bike at the stops.",
+          "The ride to the cable car has some inclines, be prepared."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 37.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Laodikeia Antike Stadt",
+            "hu": "Laodikeia ősi városa",
+            "ro": "Orașul antic Laodiceea",
+            "en": "Laodicea Ancient City"
+          },
+          "coords": [
+            29.1083,
+            37.8359
+          ],
+          "category": "historical",
+          "arrive_at": "09:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 9.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Kommen Sie früh an, um die beeindruckenden Ruinen in der Morgenkühle zu erkunden. Der Parkplatz ist groß.",
+            "hu": "Érkezzen korán, hogy a reggeli hűvösben fedezze fel a lenyűgöző romokat. A parkoló nagy.",
+            "ro": "Ajungeți devreme pentru a explora ruinele impresionante în răcoarea dimineții. Parcarea este mare.",
+            "en": "Arrive early to explore the impressive ruins in the morning cool. The parking lot is large."
+          }
+        },
+        {
+          "name": {
+            "de": "Pamukkale Travertin-Terrassen",
+            "hu": "Pamukkale travertínó teraszok",
+            "ro": "Terasele de travertin din Pamukkale",
+            "en": "Pamukkale Travertine Terraces"
+          },
+          "coords": [
+            29.123,
+            37.915
+          ],
+          "category": "natural features",
+          "arrive_at": "11:55",
+          "stay_min": 150,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 16.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Südtor und gehen Sie barfuß durch die Thermalwasserbecken nach oben.",
+            "hu": "Parkoljon a déli kapunál, és sétáljon mezítláb a termálvizes medencéken keresztül felfelé.",
+            "ro": "Parcați la poarta de sud și mergeți desculț prin piscinele cu apă termală până sus.",
+            "en": "Park at the south gate and walk barefoot up through the thermal water pools."
+          }
+        },
+        {
+          "name": {
+            "de": "Hierapolis Antikes Theater",
+            "hu": "Hierapoliszi antik színház",
+            "ro": "Teatrul Antic Hierapolis",
+            "en": "Hierapolis Ancient Theatre"
+          },
+          "coords": [
+            29.127,
+            37.927
+          ],
+          "category": "historical",
+          "arrive_at": "14:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von den Travertinen. Die Akustik und die Aussicht sind unglaublich.",
+            "hu": "Rövid séta a travertínóktól. Az akusztika és a kilátás hihetetlen.",
+            "ro": "O scurtă plimbare de la travertine. Acustica și priveliștea sunt incredibile.",
+            "en": "A short walk from the travertines. The acoustics and the view are incredible."
+          }
+        },
+        {
+          "name": {
+            "de": "Kleopatras Becken",
+            "hu": "Kleopátra medencéje",
+            "ro": "Piscina Cleopatrei",
+            "en": "Cleopatra's Pool"
+          },
+          "coords": [
+            29.128,
+            37.925
+          ],
+          "category": "historical",
+          "arrive_at": "15:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Baden Sie im mineralreichen Thermalwasser zwischen antiken römischen Säulen. Ein einzigartiges Erlebnis.",
+            "hu": "Ússzon az ásványi anyagokban gazdag termálvízben az ókori római oszlopok között. Egyedi élmény.",
+            "ro": "Înotați în apa termală bogată în minerale printre coloanele romane antice. O experiență unică.",
+            "en": "Bathe in the mineral-rich thermal water among ancient Roman columns. A unique experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Hahn-Statue",
+            "hu": "Kakas-szobor",
+            "ro": "Statuia Cocoșului",
+            "en": "Rooster Statue"
+          },
+          "coords": [
+            29.0871,
+            37.7752
+          ],
+          "category": "monuments",
+          "arrive_at": "17:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 11.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Zurück in der Stadt, ein kurzer Halt für ein Foto mit dem Wahrzeichen.",
+            "hu": "Vissza a városba, egy rövid megálló egy fotóra a város jelképével.",
+            "ro": "Înapoi în oraș, o scurtă oprire pentru o fotografie cu simbolul orașului.",
+            "en": "Back in the city, a quick stop for a photo with the landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in Denizli",
+            "hu": "Vacsora Denizliben",
+            "ro": "Cină în Denizli",
+            "en": "Dinner in Denizli"
+          },
+          "coords": [
+            29.09,
+            37.776
+          ],
+          "category": "gastro",
+          "arrive_at": "17:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag mit einem wohlverdienten Denizli Kebabı ausklingen.",
+            "hu": "Zárja a napot egy jól megérdemelt Denizli Kebabıval.",
+            "ro": "Încheiați ziua cu un binemeritat Denizli Kebabı.",
+            "en": "End the day with a well-deserved Denizli Kebabı."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tagesausflug beginnt mit einer kurzen Fahrt zur antiken Stadt Laodikeia, wo Sie in die biblische Geschichte eintauchen. Anschließend fahren Sie zum weltberühmten Pamukkale. Parken Sie Ihr Auto und erkunden Sie die schneeweißen Kalksteinterrassen zu Fuß. Der Weg führt Sie hinauf zur antiken Stadt Hierapolis. Schlendern Sie durch die Ruinen, bewundern Sie das beeindruckende Theater und gönnen Sie sich ein Bad im legendären Kleopatra-Becken, umgeben von versunkenen Säulen. Am späten Nachmittag kehren Sie nach Denizli zurück. Ein kurzer Fotostopp an der Hahn-Statue rundet die Sightseeing-Tour ab, bevor Sie den Abend bei einem köstlichen lokalen Abendessen ausklingen lassen.",
+        "hu": "Az egynapos kirándulás egy rövid autóúttal kezdődik Laodikeia ókori városába, ahol elmerülhet a bibliai történelemben. Ezután a világhírű Pamukkale felé veszi az irányt. Parkolja le az autóját, és fedezze fel gyalog a hófehér mészkőteraszokat. Az út felvezet Hierapolis ókori városába. Sétáljon a romok között, csodálja meg a lenyűgöző színházat, és kényeztesse magát egy fürdővel a legendás Kleopátra-medencében, elsüllyedt oszlopokkal körülvéve. Késő délután visszatér Denizlibe. Egy rövid fotómegálló a Kakas-szobornál zárja a városnézést, mielőtt egy finom helyi vacsorával fejezné be az estét.",
+        "ro": "Excursia dvs. de o zi începe cu o scurtă călătorie cu mașina spre orașul antic Laodiceea, unde vă veți cufunda în istoria biblică. Apoi vă veți îndrepta spre faimosul Pamukkale. Parcați mașina și explorați pe jos terasele de calcar de un alb imaculat. Calea vă va duce sus, spre orașul antic Hierapolis. Plimbați-vă printre ruine, admirați teatrul impresionant și răsfățați-vă cu o baie în legendara Piscină a Cleopatrei, înconjurată de coloane scufundate. Spre sfârșitul după-amiezii, vă veți întoarce în Denizli. O scurtă oprire pentru fotografii la Statuia Cocoșului completează turul, înainte de a încheia seara cu o cină locală delicioasă.",
+        "en": "Your day trip begins with a short drive to the ancient city of Laodicea, where you'll delve into biblical history. Afterward, you'll head to the world-famous Pamukkale. Park your car and explore the snow-white limestone terraces on foot. The path will lead you up to the ancient city of Hierapolis. Stroll through the ruins, admire the impressive theater, and treat yourself to a dip in the legendary Cleopatra's Pool, surrounded by sunken columns. In the late afternoon, you'll return to Denizli. A quick photo stop at the Rooster Statue rounds off the sightseeing before you end the evening with a delicious local dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant in Pamukkale Town",
+            "tip": "Viele Restaurants bieten Menüs mit Blick auf die Travertine an."
+          },
+          {
+            "name": "Denizli Kebabı",
+            "tip": "Das perfekte Abendessen nach einem langen Tag voller Entdeckungen."
+          },
+          {
+            "name": "Ayran",
+            "tip": "Ein erfrischendes Joghurtgetränk, das hervorragend zum Kebab passt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem Pamukkale városában",
+            "tip": "Sok étterem kínál menüt a travertínókra néző kilátással."
+          },
+          {
+            "name": "Denizli Kebabı",
+            "tip": "A tökéletes vacsora egy hosszú, felfedezéssel töltött nap után."
+          },
+          {
+            "name": "Ayran",
+            "tip": "Frissítő joghurtital, amely kiválóan illik a kebabhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant în orașul Pamukkale",
+            "tip": "Multe restaurante oferă meniuri cu vedere la travertine."
+          },
+          {
+            "name": "Denizli Kebabı",
+            "tip": "Cina perfectă după o zi lungă de explorare."
+          },
+          {
+            "name": "Ayran",
+            "tip": "O băutură răcoritoare din iaurt care se potrivește perfect cu kebab."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant in Pamukkale Town",
+            "tip": "Many restaurants offer set menus with a view of the travertines."
+          },
+          {
+            "name": "Denizli Kebabı",
+            "tip": "The perfect dinner after a long day of exploring."
+          },
+          {
+            "name": "Ayran",
+            "tip": "A refreshing yogurt drink that pairs perfectly with kebab."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenuntergang über Pamukkale",
+            "tip": "Das Licht auf den weißen Terrassen ist magisch.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Obere Ebenen von Hierapolis",
+            "tip": "Weniger überlaufen und mit weitem Blick über die Ebene.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ruhige Ecke in Laodikeia",
+            "tip": "Finden Sie einen ruhigen Platz zwischen den alten Steinen und stellen Sie sich die Vergangenheit vor.",
+            "emoji": "🏛️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente Pamukkale felett",
+            "tip": "A fény a fehér teraszokon varázslatos.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hierapolis felső szintjei",
+            "tip": "Kevésbé zsúfolt, és széles kilátást nyújt a síkságra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Csendes sarok Laodikeiában",
+            "tip": "Keressen egy csendes helyet az ősi kövek között, és képzelje el a múltat.",
+            "emoji": "🏛️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apus de soare peste Pamukkale",
+            "tip": "Lumina de pe terasele albe este magică.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Nivelurile superioare ale Hierapolisului",
+            "tip": "Mai puțin aglomerat și cu vederi ample asupra câmpiei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Colț liniștit în Laodiceea",
+            "tip": "Găsiți un loc liniștit printre pietrele antice și imaginați-vă trecutul.",
+            "emoji": "🏛️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunset over Pamukkale",
+            "tip": "The light on the white terraces is magical.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Upper levels of Hierapolis",
+            "tip": "Less crowded and with expansive views over the plain.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Quiet corner in Laodicea",
+            "tip": "Find a quiet spot among the ancient stones and imagine the past.",
+            "emoji": "🏛️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Pamukkale Souvenirs",
+            "tip": "Kleine Onyx-Figuren und Miniaturen der Travertine sind beliebt."
+          },
+          {
+            "name": "Buldan-Stoff",
+            "tip": "Halten Sie in den Dörfern um Denizli Ausschau nach diesem berühmten lokalen Textil."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pamukkale ajándéktárgyak",
+            "tip": "Népszerűek a kis ónix figurák és a travertínók miniatűrjei."
+          },
+          {
+            "name": "Buldan szövet",
+            "tip": "Keresse ezt a híres helyi textíliát a Denizli körüli falvakban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri din Pamukkale",
+            "tip": "Mici figurine de onix și miniaturi ale travertinelor sunt populare."
+          },
+          {
+            "name": "Țesătura Buldan",
+            "tip": "Căutați acest faimos textil local în satele din jurul Denizli."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pamukkale Souvenirs",
+            "tip": "Small onyx figures and miniatures of the travertines are popular."
+          },
+          {
+            "name": "Buldan cloth",
+            "tip": "Look for this famous local textile in the villages around Denizli."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Auto mit Klimaanlage, besonders im Sommer.",
+          "Die Straßen sind im Allgemeinen gut, aber achten Sie auf den lokalen Fahrstil.",
+          "Parkgebühren an Touristenorten sind üblich. Halten Sie etwas Bargeld bereit.",
+          "Nehmen Sie Badekleidung und ein Handtuch für Pamukkale und das Kleopatra-Becken mit."
+        ],
+        "hu": [
+          "Béreljen autót légkondicionálóval, különösen nyáron.",
+          "Az utak általában jók, de figyeljen a helyi vezetési stílusra.",
+          "A turisztikai helyeken a parkolási díjak gyakoriak. Tartson magánál némi készpénzt.",
+          "Hozzon magával fürdőruhát és törölközőt Pamukkale és a Kleopátra-medence számára."
+        ],
+        "ro": [
+          "Închiriați o mașină cu aer condiționat, mai ales vara.",
+          "Drumurile sunt în general bune, dar fiți atenți la stilul local de condus.",
+          "Taxele de parcare la obiectivele turistice sunt obișnuite. Pregătiți niște numerar.",
+          "Luați un costum de baie și un prosop pentru Pamukkale și Piscina Cleopatrei."
+        ],
+        "en": [
+          "Rent a car with air conditioning, especially in the summer.",
+          "The roads are generally good, but be mindful of the local driving style.",
+          "Parking fees at tourist sites are common. Have some cash ready.",
+          "Bring a swimsuit and towel for Pamukkale and Cleopatra's Pool."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 39.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Denizli Busbahnhof (Otogar)",
+            "hu": "Denizli buszpályaudvar (Otogar)",
+            "ro": "Autogara Denizli (Otogar)",
+            "en": "Denizli Bus Terminal (Otogar)"
+          },
+          "coords": [
+            29.084,
+            37.784
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Hier nehmen Sie den Dolmuş (Minibus) nach Pamukkale. Sie fahren häufig ab.",
+            "hu": "Itt szálljon fel a Pamukkale felé tartó dolmuşra (minibusz). Gyakran indulnak.",
+            "ro": "De aici luați un dolmuș (microbuz) spre Pamukkale. Pleacă frecvent.",
+            "en": "This is where you'll take the dolmuş (minibus) to Pamukkale. They leave frequently."
+          }
+        },
+        {
+          "name": {
+            "de": "Pamukkale Travertin-Terrassen",
+            "hu": "Pamukkale travertínó teraszok",
+            "ro": "Terasele de travertin din Pamukkale",
+            "en": "Pamukkale Travertine Terraces"
+          },
+          "coords": [
+            29.123,
+            37.915
+          ],
+          "category": "natural features",
+          "arrive_at": "10:40",
+          "stay_min": 150,
+          "hop_from_prev_min": 75,
+          "hop_from_prev_km": 18.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Dolmuş hält in der Nähe des Dorfeingangs. Von dort ist es ein kurzer Spaziergang zum Südtor.",
+            "hu": "A dolmuş a falu bejáratának közelében áll meg. Onnan rövid séta a déli kapu.",
+            "ro": "Dolmușul oprește lângă intrarea în sat. De acolo este o scurtă plimbare până la poarta de sud.",
+            "en": "The dolmuş stops near the town entrance. It's a short walk to the south gate from there."
+          }
+        },
+        {
+          "name": {
+            "de": "Hierapolis Antike Stadt",
+            "hu": "Hierapoliszi antik város",
+            "ro": "Orașul Antic Hierapolis",
+            "en": "Hierapolis Ancient City"
+          },
+          "coords": [
+            29.127,
+            37.927
+          ],
+          "category": "historical",
+          "arrive_at": "13:12",
+          "stay_min": 120,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie das Theater, die Nekropole und die römischen Bäder zu Fuß. Tragen Sie gute Schuhe!",
+            "hu": "Fedezze fel gyalog a színházat, a nekropoliszt és a római fürdőket. Viseljen jó cipőt!",
+            "ro": "Explorați teatrul, necropola și băile romane pe jos. Purtați încălțăminte bună!",
+            "en": "Explore the theatre, necropolis, and Roman baths on foot. Wear good shoes!"
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt nach Denizli",
+            "hu": "Visszaút Denizlibe",
+            "ro": "Întoarcere la Denizli",
+            "en": "Return to Denizli"
+          },
+          "coords": [
+            29.12,
+            37.913
+          ],
+          "category": "transit",
+          "arrive_at": "16:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie zurück zur Dolmuş-Haltestelle. Planen Sie genügend Zeit ein, da die Busse am Nachmittag voller sein können.",
+            "hu": "Sétáljon vissza a dolmuş megállóhoz. Tervezzen elég időt, mivel a buszok délután zsúfoltabbak lehetnek.",
+            "ro": "Mergeți înapoi la stația de dolmuș. Planificați suficient timp, deoarece autobuzele pot fi mai aglomerate după-amiaza.",
+            "en": "Walk back to the dolmuş stop. Allow plenty of time as buses can be fuller in the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in der Nähe des Busbahnhofs",
+            "hu": "Vacsora a buszpályaudvar közelében",
+            "ro": "Cină lângă autogară",
+            "en": "Dinner near the Bus Terminal"
+          },
+          "coords": [
+            29.086,
+            37.781
+          ],
+          "category": "gastro",
+          "arrive_at": "17:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Es gibt viele gute, preiswerte Lokale rund um den Otogar, die authentische türkische Küche servieren.",
+            "hu": "Az Otogar környékén számos jó, olcsó hely található, ahol autentikus török ételeket szolgálnak fel.",
+            "ro": "Există multe localuri bune și ieftine în jurul Otogarului care servesc mâncare turcească autentică.",
+            "en": "There are many good, inexpensive local eateries around the Otogar serving authentic Turkish food."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Abenteuer beginnt am zentralen Busbahnhof von Denizli, dem Otogar. Nehmen Sie einen der häufig verkehrenden Minibusse (Dolmuş) für eine malerische Fahrt nach Pamukkale. Dort angekommen, bildet der Aufstieg über die weißen Travertin-Terrassen den ersten Höhepunkt des Tages. Oben erwartet Sie die antike Stadt Hierapolis. Nehmen Sie sich Zeit, um das weitläufige Gelände mit seinem Theater und der Nekropole zu erkunden. Nachdem Sie die antike Atmosphäre aufgesogen haben, machen Sie sich auf den Weg zurück zur Dolmuş-Haltestelle. Die Rückfahrt bringt Sie wieder zum Otogar in Denizli, wo Sie den erlebnisreichen Tag in einem der nahegelegenen Restaurants bei einem authentischen türkischen Abendessen ausklingen lassen können.",
+        "hu": "A kaland Denizli központi buszpályaudvarán, az Otogaron kezdődik. Szálljon fel az egyik gyakran közlekedő minibuszra (dolmuş) egy festői útra Pamukkale felé. Miután megérkezett, a fehér travertin teraszokon való felmászás a nap első fénypontja. Fent várja Önt Hierapolis ókori városa. Szánjon időt a hatalmas terület felfedezésére a színházával és a nekropoliszával. Miután magába szívta az ókori hangulatot, induljon vissza a dolmuş megállóhoz. A visszaút visszaviszi Önt Denizli Otogarba, ahol a közeli éttermek egyikében egy autentikus török vacsorával zárhatja az eseménydús napot.",
+        "ro": "Aventura dvs. începe la autogara centrală din Denizli, Otogar. Luați unul dintre microbuzele frecvente (dolmuș) pentru o călătorie pitorească spre Pamukkale. Odată ajunși, urcarea pe terasele albe de travertin este primul punct culminant al zilei. Sus vă așteaptă orașul antic Hierapolis. Acordați-vă timp pentru a explora situl extins, cu teatrul și necropola sa. După ce ați absorbit atmosfera antică, îndreptați-vă înapoi spre stația de dolmuș. Călătoria de întoarcere vă va aduce înapoi la Otogar în Denizli, unde puteți încheia ziua plină de evenimente cu o cină turcească autentică la unul dintre restaurantele din apropiere.",
+        "en": "Your adventure begins at Denizli's central bus terminal, the Otogar. Take one of the frequent minibuses (dolmuş) for a scenic ride to Pamukkale. Once there, the climb up the white travertine terraces is the first highlight of the day. At the top, the ancient city of Hierapolis awaits you. Take your time to explore the vast site with its theatre and necropolis. After soaking up the ancient atmosphere, make your way back to the dolmuş stop. The return journey will bring you back to the Otogar in Denizli, where you can end the eventful day with an authentic Turkish dinner at one of the nearby restaurants."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokanta in der Nähe des Otogar",
+            "tip": "Diese einfachen Restaurants servieren köstliche und preiswerte Hausmannskost."
+          },
+          {
+            "name": "Pide",
+            "tip": "Die türkische Antwort auf Pizza, eine tolle Option für ein schnelles Abendessen."
+          },
+          {
+            "name": "Simit",
+            "tip": "Kaufen Sie einen Sesamring von einem Straßenverkäufer als Snack für die Busfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lokanta az Otogar közelében",
+            "tip": "Ezek az egyszerű éttermek finom és olcsó házias ételeket szolgálnak fel."
+          },
+          {
+            "name": "Pide",
+            "tip": "A pizza török megfelelője, remek lehetőség egy gyors vacsorához."
+          },
+          {
+            "name": "Simit",
+            "tip": "Vásároljon egy szezámmagos perecet egy utcai árustól a buszútra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lokanta lângă Otogar",
+            "tip": "Aceste restaurante simple servesc mâncare de casă delicioasă și ieftină."
+          },
+          {
+            "name": "Pide",
+            "tip": "Răspunsul turcesc la pizza, o opțiune excelentă pentru o cină rapidă."
+          },
+          {
+            "name": "Simit",
+            "tip": "Cumpărați un covrig cu susan de la un vânzător ambulant ca gustare pentru călătoria cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lokanta near the Otogar",
+            "tip": "These simple restaurants serve delicious and inexpensive home-style food."
+          },
+          {
+            "name": "Pide",
+            "tip": "The Turkish answer to pizza, a great option for a quick dinner."
+          },
+          {
+            "name": "Simit",
+            "tip": "Buy a sesame ring from a street vendor for a snack on the bus ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blick aus dem Dolmuş-Fenster",
+            "tip": "Beobachten Sie, wie die Landschaft von städtisch zu ländlich wechselt.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Hierapolis-Nekropole",
+            "tip": "Ein weitläufiger und oft ruhiger Bereich zum Nachdenken.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spaziergang durch Pamukkale-Dorf",
+            "tip": "Abseits der Haupttouristenpfade ist das Dorf recht friedlich.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a dolmuş ablakából",
+            "tip": "Figyelje, ahogy a táj városiból vidékivé változik.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Hierapoliszi nekropolisz",
+            "tip": "Hatalmas és gyakran csendes terület az elmélkedésre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Séta Pamukkale faluban",
+            "tip": "A fő turistaútvonalaktól távol a falu meglehetősen békés.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la fereastra dolmușului",
+            "tip": "Priviți peisajul cum se schimbă de la urban la rural.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Necropola din Hierapolis",
+            "tip": "O zonă vastă și adesea liniștită pentru contemplare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plimbare prin satul Pamukkale",
+            "tip": "Departe de principalele trasee turistice, satul este destul de pașnic.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the dolmuş window",
+            "tip": "Watch the landscape change from urban to rural.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Hierapolis Necropolis",
+            "tip": "A vast and often quiet area for contemplation.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Walk through Pamukkale village",
+            "tip": "Away from the main tourist paths, the village is quite peaceful.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Textilien aus Pamukkale",
+            "tip": "Viele Geschäfte verkaufen die berühmten Handtücher und Bademäntel der Region."
+          },
+          {
+            "name": "Getrocknete Feigen und Kräuter",
+            "tip": "Kaufen Sie lokale Produkte in den Geschäften in Denizli."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pamukkale textíliák",
+            "tip": "Sok üzlet árulja a régió híres törölközőit és fürdőköpenyeit."
+          },
+          {
+            "name": "Szárított füge és fűszernövények",
+            "tip": "Vásároljon helyi termékeket a denizli üzletekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Textile din Pamukkale",
+            "tip": "Multe magazine vând faimoasele prosoape și halate de baie din regiune."
+          },
+          {
+            "name": "Smochine uscate și ierburi aromatice",
+            "tip": "Cumpărați produse locale din magazinele din Denizli."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pamukkale textiles",
+            "tip": "Many shops sell the region's famous towels and bathrobes."
+          },
+          {
+            "name": "Dried figs and herbs",
+            "tip": "Buy local produce from the shops in Denizli."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fragen Sie den Fahrer nach der letzten Rückfahrt von Pamukkale, um nicht stecken zu bleiben.",
+          "Dolmuş-Preise sind festgelegt, aber es ist gut, den Preis vor dem Einsteigen zu bestätigen.",
+          "Halten Sie Kleingeld für die Fahrt bereit.",
+          "Nehmen Sie Wasser und Snacks für den Tag mit, da die Preise in Pamukkale höher sind."
+        ],
+        "hu": [
+          "Kérdezze meg a sofőrt az utolsó visszajáratról Pamukkaleból, hogy ne ragadjon ott.",
+          "A dolmuş árak fixek, de jó megerősíteni az árat beszállás előtt.",
+          "Tartson magánál aprópénzt az útra.",
+          "Hozzon magával vizet és rágcsálnivalót a napra, mivel Pamukkaleban magasabbak az árak."
+        ],
+        "ro": [
+          "Întrebați șoferul despre ultima cursă de întoarcere din Pamukkale pentru a nu rămâne blocat.",
+          "Tarifele la dolmuș sunt fixe, dar este bine să confirmați prețul înainte de a urca.",
+          "Pregătiți bani mărunți pentru călătorie.",
+          "Luați apă și gustări pentru o zi, deoarece prețurile în Pamukkale sunt mai mari."
+        ],
+        "en": [
+          "Ask the driver for the last return time from Pamukkale to avoid getting stranded.",
+          "Dolmuş fares are fixed, but it's good to confirm the price before boarding.",
+          "Have small change ready for the fare.",
+          "Bring water and snacks for the day, as prices are higher in Pamukkale."
+        ]
+      }
+    }
+  }
+}

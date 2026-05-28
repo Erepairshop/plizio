@@ -1,0 +1,1447 @@
+{
+  "city_id": "spain-jaen-cities-v2",
+  "anchor": {
+    "name": "Jaén",
+    "coords": [
+      -3.7903,
+      37.7692
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Beginnen Sie am Barrio de la Magdalena",
+            "hu": "Kezdje a Barrio de la Magdalena negyedben",
+            "ro": "Începeți în Barrio de la Magdalena",
+            "en": "Start at the Barrio de la Magdalena"
+          },
+          "coords": [
+            -3.794,
+            37.772
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den engen Gassen, um das wahre Wesen der Altstadt zu entdecken.",
+            "hu": "Tévedjen el a szűk utcácskákban, hogy felfedezze az óváros igazi hangulatát.",
+            "ro": "Pierdeți-vă pe străduțele înguste pentru a descoperi adevărata esență a orașului vechi.",
+            "en": "Get lost in the narrow alleyways to discover the true essence of the old town."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Arco de San Lorenzo",
+            "hu": "Arco de San Lorenzo",
+            "ro": "Arco de San Lorenzo",
+            "en": "Arco de San Lorenzo"
+          },
+          "coords": [
+            -3.7925,
+            37.771
+          ],
+          "category": "historical",
+          "arrive_at": "09:55",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf die feinen Kachelarbeiten im Inneren, ein verstecktes Juwel.",
+            "hu": "Figyelje meg a belső tér finom csempedíszítését, egy rejtett gyöngyszem.",
+            "ro": "Observați detaliile fine ale azulejourilor din interior, o bijuterie ascunsă.",
+            "en": "Look for the fine tilework inside, a hidden gem."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Arabische Bäder & Palacio de Villardompardo",
+            "hu": "Arab fürdők és Villardompardo-palota",
+            "ro": "Băile Arabe & Palatul Villardompardo",
+            "en": "Arab Baths & Villardompardo Palace"
+          },
+          "coords": [
+            -3.7935,
+            37.7715
+          ],
+          "category": "historical",
+          "arrive_at": "10:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die Bäder sind im Keller des Palastes. Nehmen Sie sich Zeit für das Naive Kunstmuseum im Obergeschoss.",
+            "hu": "A fürdők a palota alagsorában találhatók. Szánjon időt az emeleten lévő Naiv Művészeti Múzeumra is.",
+            "ro": "Băile sunt la subsolul palatului. Luați-vă timp și pentru Muzeul de Artă Naivă de la etaj.",
+            "en": "The baths are in the basement of the palace. Also take time for the Naive Art Museum upstairs."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Kathedrale von Jaén",
+            "hu": "Jaéni katedrális",
+            "ro": "Catedrala din Jaén",
+            "en": "Jaén Cathedral"
+          },
+          "coords": [
+            -3.79,
+            37.7695
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besteigen Sie das Dach für eine unglaubliche Aussicht auf die Stadt und die Olivenhaine.",
+            "hu": "Menjen fel a tetőre a városra és az olajfaligetekre nyíló hihetetlen kilátásért.",
+            "ro": "Urcați pe acoperiș pentru o priveliște incredibilă asupra orașului și a plantațiilor de măslini.",
+            "en": "Climb to the rooftop for an incredible view of the city and the olive groves."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Provinzialmuseum von Jaén",
+            "hu": "Jaén Tartományi Múzeum",
+            "ro": "Muzeul Provincial din Jaén",
+            "en": "Provincial Museum of Jaén"
+          },
+          "coords": [
+            -3.7875,
+            37.769
+          ],
+          "category": "museums",
+          "arrive_at": "13:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die iberische Sammlung, sie ist eine der besten in Spanien.",
+            "hu": "Koncentráljon az ibériai gyűjteményre, az egyik legjobb Spanyolországban.",
+            "ro": "Concentrați-vă pe colecția iberică, este una dintre cele mai bune din Spania.",
+            "en": "Focus on the Iberian collection; it's one of the best in Spain."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Basílica de San Ildefonso",
+            "hu": "San Ildefonso-bazilika",
+            "ro": "Bazilica San Ildefonso",
+            "en": "Basílica de San Ildefonso"
+          },
+          "coords": [
+            -3.788,
+            37.7665
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Suchen Sie nach dem Bild der Virgen de la Capilla, der Schutzpatronin der Stadt.",
+            "hu": "Keresse meg a Virgen de la Capilla képét, a város védőszentjét.",
+            "ro": "Căutați icoana Fecioarei de la Capilla, patroana spirituală a orașului.",
+            "en": "Look for the image of the Virgen de la Capilla, the city's patron saint."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Castillo de Santa Catalina",
+            "hu": "Santa Catalina-vár",
+            "ro": "Castelul Santa Catalina",
+            "en": "Castillo de Santa Catalina"
+          },
+          "coords": [
+            -3.801,
+            37.766
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Der Aufstieg ist steil, aber der Sonnenuntergang von hier oben ist die Mühe wert. Tragen Sie gute Schuhe.",
+            "hu": "Az út meredek, de a naplemente innen fentről megéri a fáradságot. Viseljen kényelmes cipőt.",
+            "ro": "Urcușul este abrupt, dar apusul de soare de aici merită efortul. Purtați încălțăminte adecvată.",
+            "en": "The walk up is steep, but the sunset from here is worth the effort. Wear good shoes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im historischen Herzen von Jaén, dem Viertel Magdalena, wo Sie durch enge Gassen schlendern. Am Vormittag tauchen Sie in die maurische Vergangenheit ein und besuchen die Arabischen Bäder, bevor Sie sich von der Pracht der Renaissance-Kathedrale beeindrucken lassen. Nach einem kulturellen Nachmittag in den Museen und Kirchen der Stadt führt Sie ein Spaziergang bergauf zum Castillo de Santa Catalina. Der Abend belohnt Sie mit einem atemberaubenden Panoramablick auf die Stadt, die in das goldene Licht der untergehenden Sonne getaucht ist, ein perfekter Abschluss für Ihren Erkundungstag.",
+        "hu": "A nap Jaén történelmi szívében, a Magdalena negyedben indul, szűk utcákon sétálva. A délelőtt a mór múltba kalauzol, meglátogatja az Arab fürdőket, majd a reneszánsz katedrális pompája nyűgözi le. Egy kulturális délután után a város múzeumaiban és templomaiban egy felfelé vezető séta visz a Santa Catalina várhoz. Az este lélegzetelállító panorámával jutalmazza a városra, amely a lemenő nap arany fényében úszik, tökéletes befejezése a felfedezőútnak.",
+        "ro": "Ziua dvs. începe în inima istorică a orașului Jaén, cartierul Magdalena, plimbându-vă pe străduțe înguste. Dimineața vă scufundă în trecutul maur cu o vizită la Băile Arabe, înainte de a fi uimit de splendoarea Catedralei renascentiste. După o după-amiază culturală la muzeele și bisericile orașului, o plimbare în urcare vă duce la Castelul Santa Catalina. Seara vă recompensează cu o panoramă uluitoare a orașului scăldat în lumina aurie a apusului, un final perfect pentru ziua de explorare.",
+        "en": "Your day begins in the historic heart of Jaén, the Magdalena quarter, wandering through narrow streets. The morning delves into the Moorish past with a visit to the Arab Baths before being awed by the grandeur of the Renaissance Cathedral. After a cultural afternoon at the city's museums and churches, an uphill walk takes you to the Castillo de Santa Catalina. The evening rewards you with a breathtaking panoramic view of the city bathed in the golden light of sunset, a perfect end to your day of exploration."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pipirrana",
+            "tip": "Probieren Sie diesen erfrischenden Tomaten-Paprika-Salat, perfekt für einen heißen Tag."
+          },
+          {
+            "name": "Olivenöl aus Jaén",
+            "tip": "Besuchen Sie ein lokales Geschäft und probieren Sie das weltberühmte Olivenöl. Es ist ein Muss!"
+          },
+          {
+            "name": "Migas",
+            "tip": "Ein herzhaftes Gericht aus gebratenen Brotkrumen, oft mit Chorizo und Paprika serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pipirrana",
+            "tip": "Kóstolja meg ezt a frissítő paradicsom-paprika salátát, tökéletes egy forró napon."
+          },
+          {
+            "name": "Jaéni olívaolaj",
+            "tip": "Látogasson el egy helyi boltba, és kóstolja meg a világhírű olívaolajat. Ezt nem szabad kihagyni!"
+          },
+          {
+            "name": "Migas",
+            "tip": "Kiadós étel sült kenyérmorzsából, gyakran chorizóval és paprikával tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pipirrana",
+            "tip": "Încercați această salată răcoritoare de roșii și ardei, perfectă pentru o zi fierbinte."
+          },
+          {
+            "name": "Ulei de măsline din Jaén",
+            "tip": "Vizitați un magazin local și degustați faimosul ulei de măsline. Este obligatoriu!"
+          },
+          {
+            "name": "Migas",
+            "tip": "Un fel de mâncare consistent din firimituri de pâine prăjită, adesea servit cu chorizo și ardei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pipirrana",
+            "tip": "Try this refreshing tomato and pepper salad, perfect for a hot day."
+          },
+          {
+            "name": "Jaén Olive Oil",
+            "tip": "Visit a local shop and taste the world-famous olive oil. It's a must!"
+          },
+          {
+            "name": "Migas",
+            "tip": "A hearty dish made from fried breadcrumbs, often served with chorizo and peppers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ausblick vom Castillo de Santa Catalina",
+            "tip": "Der beste Ort für Ruhe und einen Panoramablick über das Meer von Olivenbäumen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gärten der Kathedrale",
+            "tip": "Ein kleiner, friedlicher Ort, um dem Trubel der Stadt zu entfliehen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang am Fluss Guadalbullón",
+            "tip": "Etwas außerhalb des Zentrums, ein ruhiger Weg für einen entspannten Spaziergang.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a Santa Catalina várból",
+            "tip": "A legjobb hely a csendért és az olajfák tengerére nyíló panorámáért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A katedrális kertjei",
+            "tip": "Egy kis, békés hely a város nyüzsgésétől távol.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Séta a Guadalbullón folyó mentén",
+            "tip": "Kicsit a központon kívül, egy csendes út egy pihentető sétához.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la Castelul Santa Catalina",
+            "tip": "Cel mai bun loc pentru liniște și o vedere panoramică asupra mării de măslini.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile Catedralei",
+            "tip": "Un loc mic și pașnic pentru a scăpa de agitația orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare pe malul râului Guadalbullón",
+            "tip": "Puțin în afara centrului, o potecă liniștită pentru o plimbare relaxantă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from Castillo de Santa Catalina",
+            "tip": "The best spot for quiet and a panoramic view over the sea of olive trees.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cathedral Gardens",
+            "tip": "A small, peaceful spot to escape the city bustle.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Walk along the Guadalbullón River",
+            "tip": "Slightly out of the center, a quiet path for a relaxing stroll.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Olivenöl-Kooperativen",
+            "tip": "Kaufen Sie preisgekröntes natives Olivenöl extra direkt von den Erzeugern."
+          },
+          {
+            "name": "Keramik aus Jaén",
+            "tip": "Suchen Sie nach handbemalter Keramik mit traditionellen grünen und violetten Motiven."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olívaolaj-szövetkezetek",
+            "tip": "Vásároljon díjnyertes extra szűz olívaolajat közvetlenül a termelőktől."
+          },
+          {
+            "name": "Jaéni kerámia",
+            "tip": "Keressen kézzel festett kerámiákat hagyományos zöld és lila motívumokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cooperative de ulei de măsline",
+            "tip": "Cumpărați ulei de măsline extravirgin premiat direct de la producători."
+          },
+          {
+            "name": "Ceramică din Jaén",
+            "tip": "Căutați ceramică pictată manual cu motive tradiționale verzi și violet."
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive Oil Cooperatives",
+            "tip": "Buy award-winning extra virgin olive oil directly from the producers."
+          },
+          {
+            "name": "Jaén Pottery",
+            "tip": "Look for hand-painted ceramics with traditional green and purple motifs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Straßen oft steil und gepflastert sind.",
+          "Die meisten Sehenswürdigkeiten befinden sich in unmittelbarer Nähe zueinander.",
+          "Der Aufstieg zum Castillo de Santa Catalina ist anspruchsvoll, aber die Aussicht ist es wert.",
+          "Probieren Sie die lokalen Tapas-Bars rund um die Kathedrale für ein authentisches Erlebnis."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az utcák gyakran meredekek és macskakövesek.",
+          "A legtöbb látnivaló sétatávolságra van egymástól.",
+          "A Santa Catalina várhoz való feljutás kihívást jelent, de a kilátás megéri.",
+          "Próbálja ki a helyi tapas bárokat a katedrális környékén az autentikus élményért."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece străzile sunt adesea abrupte și pavate.",
+          "Majoritatea atracțiilor turistice sunt la distanță mică una de cealaltă.",
+          "Urcarea la Castelul Santa Catalina este solicitantă, dar priveliștea merită.",
+          "Încercați barurile de tapas locale din jurul catedralei pentru o experiență autentică."
+        ],
+        "en": [
+          "Wear comfortable shoes as the streets are often steep and cobbled.",
+          "Most sights are within easy walking distance of each other.",
+          "The walk up to Castillo de Santa Catalina is challenging but the view is worth it.",
+          "Try the local tapas bars around the cathedral for an authentic experience."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Start an der Plaza de la Constitución",
+            "hu": "Indulás a Plaza de la Constitución-ról",
+            "ro": "Începeți la Plaza de la Constitución",
+            "en": "Start at Plaza de la Constitución"
+          },
+          "coords": [
+            -3.7905,
+            37.768
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Kaffee in einem der Cafés und beobachten Sie das Treiben.",
+            "hu": "Igyon egy kávét az egyik kávézóban, és figyelje a városi életet.",
+            "ro": "Savurați o cafea la una dintre cafenele și priviți agitația orașului.",
+            "en": "Enjoy a coffee at one of the cafes and watch the city life."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Kathedrale von Jaén",
+            "hu": "Jaéni katedrális",
+            "ro": "Catedrala din Jaén",
+            "en": "Jaén Cathedral"
+          },
+          "coords": [
+            -3.79,
+            37.7695
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie die prächtige Innenausstattung erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt felfedezné a pazar belső teret.",
+            "ro": "Asigurați-vă bicicleta înainte de a explora interiorul magnific.",
+            "en": "Lock your bike securely before exploring the magnificent interior."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Arabische Bäder & Palacio de Villardompardo",
+            "hu": "Arab fürdők és Villardompardo-palota",
+            "ro": "Băile Arabe & Palatul Villardompardo",
+            "en": "Arab Baths & Villardompardo Palace"
+          },
+          "coords": [
+            -3.7935,
+            37.7715
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Eine faszinierende Zeitreise. Der Fahrradweg dorthin führt durch charmante Straßen.",
+            "hu": "Lenyűgöző utazás az időben. A kerékpárút odáig bájos utcákon vezet.",
+            "ro": "O călătorie fascinantă în timp. Pista de biciclete până acolo trece prin străzi fermecătoare.",
+            "en": "A fascinating journey back in time. The bike ride there is through charming streets."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Provinzialmuseum von Jaén",
+            "hu": "Jaén Tartományi Múzeum",
+            "ro": "Muzeul Provincial din Jaén",
+            "en": "Provincial Museum of Jaén"
+          },
+          "coords": [
+            -3.7875,
+            37.769
+          ],
+          "category": "museums",
+          "arrive_at": "12:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Eine gute Möglichkeit, sich während der Mittagshitze abzukühlen und etwas über die reiche Geschichte der Region zu lernen.",
+            "hu": "Jó lehetőség lehűlni a déli hőségben, és tanulni a régió gazdag történelméről.",
+            "ro": "O modalitate bună de a vă răcori în timpul căldurii de la amiază și de a învăța despre istoria bogată a regiunii.",
+            "en": "A good way to cool down during the midday heat and learn about the region's rich history."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Parque de la Concordia",
+            "hu": "Concordia Park",
+            "ro": "Parcul Concordia",
+            "en": "Parque de la Concordia"
+          },
+          "coords": [
+            -3.785,
+            37.772
+          ],
+          "category": "park",
+          "arrive_at": "14:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause im Schatten und genießen Sie die grüne Oase der Stadt.",
+            "hu": "Tartson egy szünetet az árnyékban, és élvezze a város zöld oázisát.",
+            "ro": "Faceți o pauză la umbră și bucurați-vă de oaza de verdeață a orașului.",
+            "en": "Take a break in the shade and enjoy the city's green oasis."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Fahrt zum Castillo de Santa Catalina Aussichtspunkt",
+            "hu": "Kerékpárral a Santa Catalina-vár kilátópontjához",
+            "ro": "Urcare la punctul de belvedere al Castelului Santa Catalina",
+            "en": "Ride to Castillo de Santa Catalina Viewpoint"
+          },
+          "coords": [
+            -3.801,
+            37.766
+          ],
+          "category": "viewpoint",
+          "arrive_at": "15:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Der Anstieg ist anspruchsvoll, aber die Aussicht ist die Belohnung. E-Bike empfohlen!",
+            "hu": "Az emelkedő kihívást jelent, de a kilátás a jutalom. E-bike ajánlott!",
+            "ro": "Urcarea este solicitantă, dar priveliștea este recompensa. Se recomandă o bicicletă electrică!",
+            "en": "The climb is challenging, but the view is the reward. E-bike recommended!"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auf zwei Rädern erkunden Sie Jaén, beginnend im Herzen der Stadt. Der Morgen führt Sie von der lebhaften Plaza zur majestätischen Kathedrale und dann zurück in die Zeit zu den Arabischen Bädern. Nach einer ausgiebigen Kulturpause im Provinzialmuseum am Mittag entspannen Sie im grünen Parque de la Concordia. Der Höhepunkt des Nachmittags ist die sportliche Herausforderung, den Hügel zum Castillo de Santa Catalina zu erklimmen. Oben angekommen, werden Sie mit einer unvergesslichen Aussicht über die endlosen Olivenhaine belohnt, die sich im warmen Abendlicht sonnen.",
+        "hu": "Két keréken fedezi fel Jaént, a város szívéből indulva. A reggel az élénk térről a fenséges katedrálishoz vezet, majd vissza az időben az Arab fürdőkhöz. A déli órákban a Tartományi Múzeumban tett kiadós kulturális szünet után a zöld Concordia parkban pihenhet. A délután csúcspontja a sportos kihívás, a Santa Catalina-várhoz vezető domb megmászása. Fent egy felejthetetlen kilátás jutalmazza a meleg esti fényben fürdőző végtelen olajfaligetekre.",
+        "ro": "Explorați Jaén pe două roți, pornind din inima orașului. Dimineața vă poartă de la piața plină de viață la catedrala maiestuoasă, apoi înapoi în timp, la Băile Arabe. După o pauză culturală extinsă la Muzeul Provincial la prânz, vă relaxați în verdele Parc Concordia. Punctul culminant al după-amiezii este provocarea sportivă de a urca dealul spre Castelul Santa Catalina. Odată ajunși sus, veți fi răsplătiți cu o priveliște de neuitat asupra plantațiilor nesfârșite de măslini, scăldate în lumina caldă a serii.",
+        "en": "You'll explore Jaén on two wheels, starting from the heart of the city. The morning takes you from the lively plaza to the majestic cathedral, and then back in time to the Arab Baths. After an extensive cultural break at the Provincial Museum at noon, you relax in the green Parque de la Concordia. The highlight of the afternoon is the athletic challenge of climbing the hill to Castillo de Santa Catalina. Once at the top, you'll be rewarded with an unforgettable view over the endless olive groves basking in the warm evening light."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bocadillo con aceite y tomate",
+            "tip": "Ein einfaches, aber köstliches Sandwich mit dem lokalen Olivenöl und frischen Tomaten."
+          },
+          {
+            "name": "Restaurante Bagá",
+            "tip": "Für ein gehobenes Erlebnis, ein mit einem Michelin-Stern ausgezeichnetes Restaurant, das lokale Zutaten neu interpretiert."
+          },
+          {
+            "name": "Salmorejo",
+            "tip": "Eine dickere, cremigere Version von Gazpacho, oft mit Schinken und Ei garniert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bocadillo con aceite y tomate",
+            "tip": "Egyszerű, de finom szendvics helyi olívaolajjal és friss paradicsommal."
+          },
+          {
+            "name": "Restaurante Bagá",
+            "tip": "Különleges élményért egy Michelin-csillagos étterem, amely újraértelmezi a helyi alapanyagokat."
+          },
+          {
+            "name": "Salmorejo",
+            "tip": "A gazpacho sűrűbb, krémesebb változata, gyakran sonkával és tojással díszítve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bocadillo con aceite y tomate",
+            "tip": "Un sandviș simplu, dar delicios, cu ulei de măsline local și roșii proaspete."
+          },
+          {
+            "name": "Restaurante Bagá",
+            "tip": "Pentru o experiență de lux, un restaurant cu stele Michelin care reinterpretează ingredientele locale."
+          },
+          {
+            "name": "Salmorejo",
+            "tip": "O versiune mai groasă și mai cremoasă de gazpacho, adesea garnisită cu șuncă și ou."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bocadillo con aceite y tomate",
+            "tip": "A simple but delicious sandwich with local olive oil and fresh tomatoes."
+          },
+          {
+            "name": "Restaurante Bagá",
+            "tip": "For an upscale experience, a Michelin-starred restaurant that reinterprets local ingredients."
+          },
+          {
+            "name": "Salmorejo",
+            "tip": "A thicker, creamier version of gazpacho, often garnished with ham and egg."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Via Verde del Aceite",
+            "tip": "Ein Radweg, der auf einer alten Eisenbahnlinie durch Olivenhaine führt, perfekt für eine lange, ruhige Fahrt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hügel am Parador",
+            "tip": "Neben dem Schloss bietet der Hügel viele ruhige Plätze zum Nachdenken.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sonnenuntergang am Cruz del Castillo",
+            "tip": "Das Kreuz über dem Schloss ist der ultimative Ort, um den Sonnenuntergang in Ruhe zu beobachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via Verde del Aceite",
+            "tip": "Egy régi vasútvonalon olajfaligeteken átvezető kerékpárút, tökéletes egy hosszú, csendes tekeréshez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Domb a Paradornál",
+            "tip": "A vár mellett a domb számos csendes helyet kínál az elmélyülésre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Naplemente a Cruz del Castillónál",
+            "tip": "A vár feletti kereszt a legjobb hely a naplemente csendes megfigyelésére.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via Verde del Aceite",
+            "tip": "O pistă de biciclete pe o veche linie de cale ferată prin plantații de măslini, perfectă pentru o plimbare lungă și liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dealul de lângă Parador",
+            "tip": "Lângă castel, dealul oferă multe locuri liniștite pentru contemplare.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Apus de soare la Cruz del Castillo",
+            "tip": "Crucea de deasupra castelului este locul suprem pentru a privi apusul în tăcere.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Via Verde del Aceite",
+            "tip": "A greenway for cycling along an old railway line through olive groves, perfect for a long, quiet ride.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hill by the Parador",
+            "tip": "Next to the castle, the hill offers many quiet spots for contemplation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sunset at Cruz del Castillo",
+            "tip": "The cross above the castle is the ultimate spot to watch the sunset in peace.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado de San Francisco",
+            "tip": "Ein lokaler Markt, auf dem Sie frische Produkte und lokale Spezialitäten finden."
+          },
+          {
+            "name": "Calle Bernabé Soriano",
+            "tip": "Die Haupteinkaufsstraße der Stadt mit einer Mischung aus nationalen Marken und lokalen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado de San Francisco",
+            "tip": "Helyi piac, ahol friss termékeket és helyi specialitásokat talál."
+          },
+          {
+            "name": "Calle Bernabé Soriano",
+            "tip": "A város fő bevásárlóutcája, ahol nemzeti márkák és helyi üzletek keverednek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado de San Francisco",
+            "tip": "O piață locală unde puteți găsi produse proaspete și specialități locale."
+          },
+          {
+            "name": "Calle Bernabé Soriano",
+            "tip": "Principala stradă comercială a orașului, cu un amestec de mărci naționale și magazine locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado de San Francisco",
+            "tip": "A local market where you can find fresh produce and local specialties."
+          },
+          {
+            "name": "Calle Bernabé Soriano",
+            "tip": "The city's main shopping street, with a mix of national brands and local shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Jaén ist hügelig; ein E-Bike könnte eine gute Idee sein, besonders für den Aufstieg zum Schloss.",
+          "Achten Sie auf Einbahnstraßen in der Altstadt.",
+          "Schließen Sie Ihr Fahrrad immer an einem festen Gegenstand ab.",
+          "Nutzen Sie die „Vías Verdes“ für längere, sicherere Fahrten außerhalb des Stadtzentrums."
+        ],
+        "hu": [
+          "Jaén dombos; egy e-bike jó ötlet lehet, különösen a várhoz való feljutáshoz.",
+          "Vigyázzon az egyirányú utcákra az óvárosban.",
+          "Mindig zárja le a kerékpárját egy szilárd tárgyhoz.",
+          "Használja a „Vías Verdes”-t hosszabb, biztonságosabb túrákhoz a városközponton kívül."
+        ],
+        "ro": [
+          "Jaén este un oraș deluros; o bicicletă electrică ar putea fi o idee bună, mai ales pentru urcarea la castel.",
+          "Fiți atenți la străzile cu sens unic din orașul vechi.",
+          "Legați-vă întotdeauna bicicleta de un obiect fix.",
+          "Folosiți „Vías Verdes” pentru plimbări mai lungi și mai sigure în afara centrului orașului."
+        ],
+        "en": [
+          "Jaén is hilly; an e-bike might be a good idea, especially for the climb to the castle.",
+          "Be mindful of one-way streets in the old town.",
+          "Always lock your bike to a fixed object.",
+          "Use the 'Vías Verdes' for longer, safer rides outside the city center."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Fahrt zum Castillo de Santa Catalina und Parken",
+            "hu": "Utazás a Santa Catalina-várhoz és parkolás",
+            "ro": "Conduceți la Castelul Santa Catalina și parcați",
+            "en": "Drive to Castillo de Santa Catalina and Park"
+          },
+          "coords": [
+            -3.801,
+            37.766
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Starten Sie am höchsten Punkt. Parken Sie hier und genießen Sie zuerst die Morgenstimmung und die Aussicht.",
+            "hu": "Kezdje a legmagasabb ponton. Parkoljon le itt, és először élvezze a reggeli hangulatot és a kilátást.",
+            "ro": "Începeți de la cel mai înalt punct. Parcați aici și bucurați-vă mai întâi de atmosfera de dimineață și de priveliște.",
+            "en": "Start at the highest point. Park here and enjoy the morning atmosphere and the view first."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Fahrt zum Parkhaus 'Parking La Carrera' und Erkundung des Zentrums",
+            "hu": "Utazás a 'Parking La Carrera' parkolóházba és a központ felfedezése",
+            "ro": "Conduceți la parcarea 'Parking La Carrera' și explorați centrul",
+            "en": "Drive to 'Parking La Carrera' and explore the center"
+          },
+          "coords": [
+            -3.791,
+            37.765
+          ],
+          "category": "parking",
+          "arrive_at": "11:05",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto hier für den Rest des Tages stehen. Das Zentrum lässt sich am besten zu Fuß erkunden.",
+            "hu": "Hagyja itt az autót a nap hátralévő részére. A központot a legjobb gyalog felfedezni.",
+            "ro": "Lăsați mașina aici pentru restul zilei. Centrul se explorează cel mai bine pe jos.",
+            "en": "Leave the car here for the rest of the day. The center is best explored on foot."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Basílica de San Ildefonso",
+            "hu": "San Ildefonso-bazilika",
+            "ro": "Bazilica San Ildefonso",
+            "en": "Basílica de San Ildefonso"
+          },
+          "coords": [
+            -3.788,
+            37.7665
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz zur zweitwichtigsten Kirche der Stadt.",
+            "hu": "Rövid séta a parkolótól a város második legfontosabb templomához.",
+            "ro": "O scurtă plimbare de la parcare până la a doua cea mai importantă biserică din oraș.",
+            "en": "A short walk from the parking lot to the city's second most important church."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Kathedrale von Jaén",
+            "hu": "Jaéni katedrális",
+            "ro": "Catedrala din Jaén",
+            "en": "Jaén Cathedral"
+          },
+          "coords": [
+            -3.79,
+            37.7695
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das unbestrittene Herzstück der Stadt. Planen Sie genügend Zeit für den Innenraum und die Aussicht vom Dach ein.",
+            "hu": "A város vitathatatlan központja. Szánjon elegendő időt a belső térre és a tetőről nyíló kilátásra.",
+            "ro": "Inima incontestabilă a orașului. Planificați suficient timp pentru interior și pentru priveliștea de pe acoperiș.",
+            "en": "The undisputed heart of the city. Plan enough time for the interior and the view from the roof."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Arabische Bäder & Palacio de Villardompardo",
+            "hu": "Arab fürdők és Villardompardo-palota",
+            "ro": "Băile Arabe & Palatul Villardompardo",
+            "en": "Arab Baths & Villardompardo Palace"
+          },
+          "coords": [
+            -3.7935,
+            37.7715
+          ],
+          "category": "historical",
+          "arrive_at": "13:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort, um die heißesten Stunden des Tages zu verbringen. Hier gibt es viel zu sehen, inklusive Mittagessen.",
+            "hu": "Tökéletes hely a nap legforróbb óráinak eltöltésére. Sok látnivaló van itt, beleértve az ebédet is.",
+            "ro": "Un loc perfect pentru a petrece cele mai fierbinți ore ale zilei. Sunt multe de văzut aici, inclusiv prânzul.",
+            "en": "A perfect place to spend the hottest hours of the day. There is a lot to see here, including lunch."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Barrio de la Magdalena",
+            "hu": "Barrio de la Magdalena",
+            "ro": "Barrio de la Magdalena",
+            "en": "Barrio de la Magdalena"
+          },
+          "coords": [
+            -3.794,
+            37.772
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang mit einem Kaffee in dem Viertel, in dem die Stadt geboren wurde.",
+            "hu": "Fejezze be a sétát egy kávéval abban a negyedben, ahol a város született.",
+            "ro": "Încheiați plimbarea cu o cafea în cartierul în care s-a născut orașul.",
+            "en": "End your walk with a coffee in the quarter where the city was born."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Jaén beginnt strategisch: Fahren Sie direkt zum höchsten Punkt, dem Castillo de Santa Catalina, um die Morgenbrise und die beste Aussicht zu genießen. Nachdem Sie die Burg erkundet haben, fahren Sie hinunter ins Zentrum, parken Ihr Auto für den Rest des Tages und beginnen Ihren Stadtrundgang. Sie erkunden die heiligen Stätten, von der Basilika San Ildefonso bis zur beeindruckenden Kathedrale. Der Nachmittag ist der reichen Geschichte gewidmet, mit einem langen Besuch der Arabischen Bäder und des Palastes, bevor Sie sich in den alten Gassen des Magdalena-Viertels verlieren, dem Geburtsort der Stadt.",
+        "hu": "Autós napja Jaénban stratégiailag indul: vezessen közvetlenül a legmagasabb pontra, a Santa Catalina-várhoz, hogy élvezze a reggeli szellőt és a legjobb kilátást. A vár felfedezése után hajtson le a központba, parkolja le autóját a nap hátralévő részére, és kezdje meg a városnéző sétát. Felfedezi a szent helyeket, a San Ildefonso-bazilikától a lenyűgöző katedrálisig. A délután a gazdag történelemé, egy hosszú látogatással az Arab fürdőknél és a palotánál, mielőtt elveszne a város szülőhelyének, a Magdalena negyed régi utcáin.",
+        "ro": "Ziua dvs. cu mașina în Jaén începe strategic: conduceți direct la cel mai înalt punct, Castelul Santa Catalina, pentru a vă bucura de briza dimineții și de cea mai bună priveliște. După ce ați explorat castelul, coborâți în centru, parcați mașina pentru restul zilei și începeți turul pietonal. Explorați locurile sacre, de la Bazilica San Ildefonso la impresionanta Catedrală. După-amiaza este dedicată istoriei bogate, cu o vizită lungă la Băile Arabe și palat, înainte de a vă pierde pe străzile vechi ale cartierului Magdalena, locul de naștere al orașului.",
+        "en": "Your car day in Jaén starts strategically: drive directly to the highest point, the Castillo de Santa Catalina, to enjoy the morning breeze and the best view. After exploring the castle, you drive down to the center, park your car for the rest of the day, and begin your city walk. You'll explore the sacred sites, from the Basilica of San Ildefonso to the impressive Cathedral. The afternoon is dedicated to rich history, with a long visit to the Arab Baths and palace, before getting lost in the ancient streets of the Magdalena quarter, the city's birthplace."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Vestida",
+            "tip": "Eine beliebte Tapas-Bar in der Nähe der Kathedrale mit einer modernen Variante traditioneller Gerichte."
+          },
+          {
+            "name": "Espárragos con salsa de almendras",
+            "tip": "Spargel in Mandelsauce, eine köstliche lokale Spezialität."
+          },
+          {
+            "name": "Churros con chocolate",
+            "tip": "Der perfekte Nachmittagssnack, den man in einer der vielen Churrerías der Stadt findet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Vestida",
+            "tip": "Népszerű tapas bár a katedrális közelében, modern csavarral a hagyományos ételeken."
+          },
+          {
+            "name": "Espárragos con salsa de almendras",
+            "tip": "Spárga mandulaszósszal, egy finom helyi specialitás."
+          },
+          {
+            "name": "Churros con chocolate",
+            "tip": "A tökéletes délutáni snack, amelyet a város számos churreríájában megtalál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Vestida",
+            "tip": "Un bar de tapas popular lângă catedrală, cu o interpretare modernă a mâncărurilor tradiționale."
+          },
+          {
+            "name": "Espárragos con salsa de almendras",
+            "tip": "Saranghel în sos de migdale, o specialitate locală delicioasă."
+          },
+          {
+            "name": "Churros con chocolate",
+            "tip": "Gustarea perfectă de după-amiază, găsită la una dintre numeroasele churrerías din oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Vestida",
+            "tip": "A popular tapas bar near the cathedral with a modern twist on traditional dishes."
+          },
+          {
+            "name": "Espárragos con salsa de almendras",
+            "tip": "Asparagus in almond sauce, a delicious local specialty."
+          },
+          {
+            "name": "Churros con chocolate",
+            "tip": "The perfect afternoon snack, found at one of the city's many churrerías."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blick vom Kreuz am Castillo",
+            "tip": "Ein kurzer Spaziergang vom Hauptschloss entfernt, bietet dieser Ort noch mehr Ruhe und eine ikonische Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Innenhof des Palacio de Villardompardo",
+            "tip": "Ein ruhiger, kühler Ort, um nach der Erkundung der Bäder eine Pause einzulegen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirche San Juan",
+            "tip": "Eine weniger besuchte Kirche mit einer ruhigen und besinnlichen Atmosphäre.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a vár keresztjétől",
+            "tip": "Rövid sétára a fő vártól ez a hely még több nyugalmat és ikonikus kilátást kínál.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Villardompardo-palota belső udvara",
+            "tip": "Csendes, hűvös hely egy szünetre a fürdők felfedezése után.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "San Juan templom",
+            "tip": "Egy kevésbé látogatott templom, csendes és elmélkedő légkörrel.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la Crucea de la Castel",
+            "tip": "La o scurtă plimbare de castelul principal, acest loc oferă și mai multă liniște și o priveliște iconică.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curtea interioară a Palatului Villardompardo",
+            "tip": "Un loc liniștit și răcoros pentru a lua o pauză după explorarea băilor.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Biserica San Juan",
+            "tip": "O biserică mai puțin vizitată, cu o atmosferă liniștită și contemplativă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the Cross at the Castle",
+            "tip": "A short walk from the main castle, this spot offers even more tranquility and an iconic view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Courtyard of Palacio de Villardompardo",
+            "tip": "A quiet, cool place to take a break after exploring the baths.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Church of San Juan",
+            "tip": "A less-visited church with a quiet and contemplative atmosphere.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "La Casa del Aceite",
+            "tip": "Ein Fachgeschäft, das sich dem Olivenöl widmet und Verkostungen und eine große Auswahl bietet."
+          },
+          {
+            "name": "Handwerksläden im jüdischen Viertel",
+            "tip": "Entdecken Sie kleine Werkstätten, die einzigartigen Schmuck und Lederwaren verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Casa del Aceite",
+            "tip": "Olívaolajra szakosodott üzlet, kóstolókkal és széles választékkal."
+          },
+          {
+            "name": "Kézműves üzletek a zsidónegyedben",
+            "tip": "Fedezze fel az egyedi ékszereket és bőrárukat árusító kis műhelyeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Casa del Aceite",
+            "tip": "Un magazin specializat dedicat uleiului de măsline, care oferă degustări și o selecție largă."
+          },
+          {
+            "name": "Magazine de artizanat în cartierul evreiesc",
+            "tip": "Descoperiți mici ateliere care vând bijuterii unice și articole din piele."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Casa del Aceite",
+            "tip": "A specialized shop dedicated to olive oil, offering tastings and a wide selection."
+          },
+          {
+            "name": "Artisan shops in the Jewish quarter",
+            "tip": "Discover small workshops selling unique jewelry and leather goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Cluster-Walking-Strategie: Parken Sie einmal und erkunden Sie einen ganzen Bereich zu Fuß.",
+          "Parken in der Innenstadt kann schwierig sein. Nutzen Sie die ausgewiesenen Tiefgaragen.",
+          "Die Straßen in der Altstadt sind extrem eng; vermeiden Sie es, dort hineinzufahren.",
+          "Prüfen Sie die Öffnungszeiten der Sehenswürdigkeiten im Voraus, insbesondere während der Siesta."
+        ],
+        "hu": [
+          "Használja a klaszter-séta stratégiát: parkoljon egyszer, és fedezzen fel egy egész területet gyalog.",
+          "A belvárosi parkolás nehézkes lehet. Használja a kijelölt mélygarázsokat.",
+          "Az óváros utcái rendkívül szűkek; kerülje a behajtást.",
+          "Ellenőrizze előre a látnivalók nyitvatartási idejét, különösen a szieszta alatt."
+        ],
+        "ro": [
+          "Folosiți strategia de plimbare în cluster: parcați o dată și explorați o întreagă zonă pe jos.",
+          "Parcarea în centrul orașului poate fi dificilă. Folosiți parcările subterane desemnate.",
+          "Străzile din orașul vechi sunt extrem de înguste; evitați să intrați cu mașina acolo.",
+          "Verificați în avans orele de deschidere ale atracțiilor, în special în timpul siestei."
+        ],
+        "en": [
+          "Use the cluster-walking strategy: park once and explore an entire area on foot.",
+          "Parking in the city center can be difficult. Use the designated underground car parks.",
+          "The streets in the old town are extremely narrow; avoid driving into them.",
+          "Check the opening hours of the attractions in advance, especially during siesta."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Fahrt zum 'Plaza de la Constitución' (Cluster A)",
+            "hu": "Utazás a 'Plaza de la Constitución'-hoz (A klaszter)",
+            "ro": "Călătorie la 'Plaza de la Constitución' (Cluster A)",
+            "en": "Trip to 'Plaza de la Constitución' (Cluster A)"
+          },
+          "coords": [
+            -3.7905,
+            37.768
+          ],
+          "category": "transit_hub",
+          "arrive_at": "09:15",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie am Hauptverkehrsknotenpunkt. Die meisten Buslinien halten hier.",
+            "hu": "Kezdje a fő közlekedési csomópontnál. A legtöbb buszjárat itt áll meg.",
+            "ro": "Începeți de la nodul principal de transport. Majoritatea liniilor de autobuz opresc aici.",
+            "en": "Start at the main transport hub. Most bus lines stop here."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Kathedrale von Jaén",
+            "hu": "Jaéni katedrális",
+            "ro": "Catedrala din Jaén",
+            "en": "Jaén Cathedral"
+          },
+          "coords": [
+            -3.79,
+            37.7695
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen Steinwurf von der Bushaltestelle entfernt, ist dies Ihr erster beeindruckender Anblick.",
+            "hu": "Csak egy kőhajításnyira a buszmegállótól, ez az első lenyűgöző látnivaló.",
+            "ro": "La o aruncătură de băț de stația de autobuz, aceasta este prima dvs. priveliște impresionantă.",
+            "en": "Just a stone's throw from the bus stop, this is your first impressive sight."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Provinzialmuseum von Jaén",
+            "hu": "Jaén Tartományi Múzeum",
+            "ro": "Muzeul Provincial din Jaén",
+            "en": "Provincial Museum of Jaén"
+          },
+          "coords": [
+            -3.7875,
+            37.769
+          ],
+          "category": "museums",
+          "arrive_at": "10:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die Plaza de Santa María, um das Museum zu erreichen.",
+            "hu": "Rövid séta a Plaza de Santa Maríán keresztül a múzeum eléréséhez.",
+            "ro": "O scurtă plimbare prin Plaza de Santa María pentru a ajunge la muzeu.",
+            "en": "A short walk through Plaza de Santa María to reach the museum."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Bus zum 'Plaza de la Magdalena' (Cluster B)",
+            "hu": "Busszal a 'Plaza de la Magdalena'-hoz (B klaszter)",
+            "ro": "Autobuz spre 'Plaza de la Magdalena' (Cluster B)",
+            "en": "Bus to 'Plaza de la Magdalena' (Cluster B)"
+          },
+          "coords": [
+            -3.794,
+            37.772
+          ],
+          "category": "transit_hub",
+          "arrive_at": "12:40",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus, um den Hügel zu überwinden und in die Altstadt zu gelangen.",
+            "hu": "Menjen busszal, hogy leküzdje a dombot és bejusson az óvárosba.",
+            "ro": "Luați un autobuz pentru a urca dealul și a ajunge în orașul vechi.",
+            "en": "Take a bus to get over the hill and into the old town."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Arabische Bäder & Palacio de Villardompardo",
+            "hu": "Arab fürdők és Villardompardo-palota",
+            "ro": "Băile Arabe & Palatul Villardompardo",
+            "en": "Arab Baths & Villardompardo Palace"
+          },
+          "coords": [
+            -3.7935,
+            37.7715
+          ],
+          "category": "historical",
+          "arrive_at": "12:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses riesige Kulturzentrum. Ein guter Ort für eine Mittagspause.",
+            "hu": "Fedezze fel ezt a hatalmas kulturális központot. Jó hely egy ebédszünetre.",
+            "ro": "Descoperiți acest centru cultural imens. Un loc bun pentru o pauză de prânz.",
+            "en": "Explore this huge cultural center. A good spot for a lunch break."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Bus zum 'Castillo' (Cluster C)",
+            "hu": "Busszal a 'Castillo'-hoz (C klaszter)",
+            "ro": "Autobuz spre 'Castillo' (Cluster C)",
+            "en": "Bus to 'Castillo' (Cluster C)"
+          },
+          "coords": [
+            -3.801,
+            37.766
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.8,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der letzte Aufstieg des Tages. Überprüfen Sie den Busfahrplan für die Rückfahrt, da die Busse seltener fahren.",
+            "hu": "A nap utolsó emelkedője. Ellenőrizze a buszmenetrendet a visszaútra, mivel a járatok ritkábban közlekednek.",
+            "ro": "Ultima urcare a zilei. Verificați orarul autobuzului pentru întoarcere, deoarece cursele sunt mai rare.",
+            "en": "The last climb of the day. Check the bus schedule for the return trip as services are less frequent."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Tour durch Jaén mit öffentlichen Verkehrsmitteln beginnt an der zentralen Plaza de la Constitución. Von hier aus erkunden Sie zu Fuß den ersten Cluster mit der prächtigen Kathedrale und dem Museum. Ein kurzer Bus-Hop bringt Sie dann in das alte Magdalena-Viertel für ein tiefes Eintauchen in die Geschichte in den Arabischen Bädern um die Mittagszeit. Der Nachmittag ist für den Höhepunkt reserviert: eine Busfahrt den Hügel hinauf zum Castillo de Santa Catalina. Dort genießen Sie den Rest des Tages mit spektakulären Ausblicken, bevor Sie den Bus zurück ins Stadtzentrum nehmen.",
+        "hu": "Tömegközlekedési túrája Jaénban a központi Plaza de la Constitución téren kezdődik. Innen gyalogosan fedezi fel az első klasztert, a csodálatos katedrálissal és a múzeummal. Egy rövid buszozás után a régi Magdalena negyedbe érkezik, ahol délidőben mélyen elmerülhet a történelemben az Arab fürdőkben. A délután a csúcspontra van fenntartva: egy buszút a dombra a Santa Catalina-várhoz. Itt élvezi a nap hátralévő részét a látványos kilátással, mielőtt visszatérne busszal a városközpontba.",
+        "ro": "Turul dvs. cu transportul public prin Jaén începe în centrala Plaza de la Constitución. De aici, explorați pe jos primul cluster, care include magnifica catedrală și muzeul. O scurtă călătorie cu autobuzul vă duce apoi în vechiul cartier Magdalena pentru o imersiune profundă în istorie la Băile Arabe în jurul prânzului. După-amiaza este rezervată pentru punctul culminant: o călătorie cu autobuzul pe deal până la Castelul Santa Catalina. Acolo vă bucurați de restul zilei cu priveliști spectaculoase înainte de a lua autobuzul înapoi spre centrul orașului.",
+        "en": "Your public transport tour of Jaén begins at the central Plaza de la Constitución. From here, you'll explore the first cluster on foot, featuring the magnificent cathedral and museum. A short bus hop then takes you to the old Magdalena quarter for a deep dive into history at the Arab Baths around noon. The afternoon is reserved for the grand finale: a bus ride up the hill to Castillo de Santa Catalina. You'll enjoy the rest of the day there with spectacular views before taking the bus back to the city center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ajoatao",
+            "tip": "Ein cremiger Knoblauch-Kartoffel-Dip, der oft als Tapa serviert wird. Sehr lokal!"
+          },
+          {
+            "name": "Mercado de Abastos de San Francisco",
+            "tip": "Besuchen Sie den Markt für frische Produkte und kleine Bars, die lokale Gerichte servieren."
+          },
+          {
+            "name": "Vino de la Tierra de Jaén",
+            "tip": "Probieren Sie einen lokalen Wein, der perfekt zu den herzhaften Gerichten der Region passt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajoatao",
+            "tip": "Krémes fokhagymás-burgonyás mártogatós, gyakran tapasként tálalva. Nagyon helyi!"
+          },
+          {
+            "name": "Mercado de Abastos de San Francisco",
+            "tip": "Látogasson el a piacra friss termékekért és kis bárokért, amelyek helyi ételeket szolgálnak fel."
+          },
+          {
+            "name": "Vino de la Tierra de Jaén",
+            "tip": "Kóstoljon meg egy helyi bort, amely tökéletesen illik a régió kiadós ételeihez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ajoatao",
+            "tip": "Un sos cremos de usturoi și cartofi, adesea servit ca tapa. Foarte local!"
+          },
+          {
+            "name": "Mercado de Abastos de San Francisco",
+            "tip": "Vizitați piața pentru produse proaspete și baruri mici care servesc mâncăruri locale."
+          },
+          {
+            "name": "Vino de la Tierra de Jaén",
+            "tip": "Încercați un vin local, perfect pentru a acompania mâncărurile consistente ale regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ajoatao",
+            "tip": "A creamy garlic and potato dip, often served as a tapa. Very local!"
+          },
+          {
+            "name": "Mercado de Abastos de San Francisco",
+            "tip": "Visit the market for fresh produce and small bars serving local dishes."
+          },
+          {
+            "name": "Vino de la Tierra de Jaén",
+            "tip": "Try a local wine, a perfect match for the region's hearty cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof San Eufrasio",
+            "tip": "Ein historischer und ruhiger Ort für einen nachdenklichen Spaziergang, erreichbar mit dem Bus.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parque del Seminario",
+            "tip": "Ein weiterer schöner Park, ideal für eine Pause zwischen den Busfahrten.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Abendstimmung in der Magdalena",
+            "tip": "Kehren Sie am Ende des Tages in die Altstadt zurück, wenn die Menschenmassen verschwunden sind.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Eufrasio temető",
+            "tip": "Történelmi és csendes hely egy elgondolkodtató sétához, busszal megközelíthető.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parque del Seminario",
+            "tip": "Egy másik szép park, ideális egy szünetre a buszutak között.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Esti hangulat a Magdalenában",
+            "tip": "Térjen vissza a nap végén az óvárosba, amikor a tömeg már eloszlott.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul San Eufrasio",
+            "tip": "Un loc istoric și liniștit pentru o plimbare contemplativă, accesibil cu autobuzul.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parque del Seminario",
+            "tip": "Un alt parc frumos, ideal pentru o pauză între călătoriile cu autobuzul.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Atmosfera de seară în Magdalena",
+            "tip": "Întoarceți-vă în orașul vechi la sfârșitul zilei, când mulțimile au dispărut.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "San Eufrasio Cemetery",
+            "tip": "A historical and quiet place for a contemplative walk, reachable by bus.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parque del Seminario",
+            "tip": "Another lovely park, great for a break between bus rides.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Evening atmosphere in Magdalena",
+            "tip": "Return to the old town at the end of the day when the crowds have thinned.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Paseo de la Estación",
+            "tip": "Eine breite Allee mit vielen Geschäften, die leicht mit dem Bus zu erreichen ist."
+          },
+          {
+            "name": "Süßigkeiten von Nonnen",
+            "tip": "Suchen Sie nach Klöstern (wie Las Bernardas), die traditionelle Süßigkeiten verkaufen, ein einzigartiges Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paseo de la Estación",
+            "tip": "Széles sugárút számos üzlettel, könnyen megközelíthető busszal."
+          },
+          {
+            "name": "Apácák által készített édességek",
+            "tip": "Keressen kolostorokat (mint a Las Bernardas), amelyek hagyományos édességeket árulnak, egyedi szuvenír."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paseo de la Estación",
+            "tip": "Un bulevard larg cu multe magazine, ușor accesibil cu autobuzul."
+          },
+          {
+            "name": "Dulciuri de la călugărițe",
+            "tip": "Căutați mănăstiri (cum ar fi Las Bernardas) care vând dulciuri tradiționale, un suvenir unic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Paseo de la Estación",
+            "tip": "A wide avenue with many shops, easily reachable by bus."
+          },
+          {
+            "name": "Sweets from Nuns",
+            "tip": "Look for convents (like Las Bernardas) that sell traditional sweets, a unique souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine wiederaufladbare Buskarte (bonobús) für günstigere Tarife.",
+          "Die Buslinien zum Schloss verkehren seltener, planen Sie Ihre Rückfahrt im Voraus.",
+          "Die Google Maps App bietet in Jaén Echtzeit-Businformationen.",
+          "Validieren Sie Ihr Ticket jedes Mal, wenn Sie in einen Bus einsteigen."
+        ],
+        "hu": [
+          "Vásároljon újratölthető buszkártyát (bonobús) a kedvezőbb díjakért.",
+          "A várhoz közlekedő buszjáratok ritkábban járnak, tervezze meg előre a visszaútját.",
+          "A Google Maps alkalmazás valós idejű buszinformációkat nyújt Jaénban.",
+          "Érvényesítse jegyét minden alkalommal, amikor felszáll egy buszra."
+        ],
+        "ro": [
+          "Cumpărați o cartelă de autobuz reîncărcabilă (bonobús) pentru tarife mai ieftine.",
+          "Liniile de autobuz către castel au o frecvență mai redusă, planificați-vă călătoria de întoarcere în avans.",
+          "Aplicația Google Maps oferă informații în timp real despre autobuze în Jaén.",
+          "Validați-vă biletul de fiecare dată când urcați într-un autobuz."
+        ],
+        "en": [
+          "Buy a rechargeable bus card (bonobús) for cheaper fares.",
+          "Bus services to the castle are less frequent, so plan your return trip in advance.",
+          "The Google Maps app provides real-time bus information in Jaén.",
+          "Validate your ticket every time you board a bus."
+        ]
+      }
+    }
+  }
+}

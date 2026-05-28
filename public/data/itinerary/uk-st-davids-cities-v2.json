@@ -1,0 +1,1427 @@
+{
+  "city_id": "uk-st-davids-cities-v2",
+  "anchor": {
+    "name": "St Davids",
+    "coords": [
+      -5.266,
+      51.8812
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Oriel y Parc Galerie und Besucherzentrum",
+            "hu": "Oriel y Parc Galéria és Látogatóközpont",
+            "ro": "Galeria și Centrul pentru Vizitatori Oriel y Parc",
+            "en": "Oriel y Parc Gallery and Visitor Centre"
+          },
+          "coords": [
+            -5.2615,
+            51.8825
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, um Karten zu erhalten und sich einen Überblick über die Gegend zu verschaffen.",
+            "hu": "Kezdje itt a napot, szerezzen be térképeket és tájékozódjon a környékről.",
+            "ro": "Începeți de aici pentru a obține hărți și o imagine de ansamblu a zonei.",
+            "en": "Start here to pick up maps and get an overview of the area."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von St Davids",
+            "hu": "St Davids-székesegyház",
+            "ro": "Catedrala St Davids",
+            "en": "St Davids Cathedral"
+          },
+          "coords": [
+            -5.2678,
+            51.8819
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil, um die verborgenen Geschichten des Chorgestühls zu entdecken.",
+            "hu": "Vegyen részt egy vezetett túrán, hogy megismerje a kórusülések rejtett történeteit.",
+            "ro": "Participați la un tur ghidat pentru a descoperi poveștile ascunse ale stranele corului.",
+            "en": "Join a guided tour to discover the hidden stories of the choir stalls."
+          }
+        },
+        {
+          "name": {
+            "de": "Bischofspalast",
+            "hu": "Püspöki palota",
+            "ro": "Palatul Episcopal",
+            "en": "Bishop's Palace"
+          },
+          "coords": [
+            -5.2685,
+            51.8814
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Klettern Sie auf die Mauern, um eine tolle Aussicht auf die Kathedrale zu genießen.",
+            "hu": "Másszon fel a falakra, ahonnan remekül rálátni a katedrálisra.",
+            "ro": "Urcați pe ziduri pentru o priveliște excelentă asupra catedralei.",
+            "en": "Climb the walls for a great photo opportunity of the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Porthclais",
+            "hu": "Porthclais kikötője",
+            "ro": "Portul Porthclais",
+            "en": "Porthclais Harbour"
+          },
+          "coords": [
+            -5.2801,
+            51.8736
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:36",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein idealer Ort für ein Picknick. Beobachten Sie die Boote, die ein- und auslaufen.",
+            "hu": "Tökéletes hely egy piknikhez. Figyelje a ki- és beúszó hajókat.",
+            "ro": "Un loc ideal pentru un picnic. Priviți bărcile cum vin și pleacă.",
+            "en": "An ideal spot for a picnic lunch. Watch the boats coming and going."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle von St Non",
+            "hu": "Szent Non-kápolna",
+            "ro": "Capela Sf. Non",
+            "en": "St Non's Chapel"
+          },
+          "coords": [
+            -5.2683,
+            51.8719
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suchen Sie die heilige Quelle, der heilende Kräfte nachgesagt werden.",
+            "hu": "Keresse meg a szent kutat, amelynek a legenda szerint gyógyító ereje van.",
+            "ro": "Căutați fântâna sfântă, despre care se spune că are puteri vindecătoare.",
+            "en": "Look for the holy well, reputed to have healing powers."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Oriel y Parc, um ein Gefühl für Pembrokeshire zu bekommen. Am Vormittag erkunden Sie das heilige Tal mit der prächtigen Kathedrale und den romantischen Ruinen des Bischofspalastes. Nach dem Mittagessen führt Sie ein Spaziergang entlang des Küstenpfades zum historischen Hafen von Porthclais, wo Sie die salzige Luft genießen können. Der Nachmittag endet mit einem besinnlichen Moment an der St. Non's Chapel, dem Geburtsort des Heiligen David, mit atemberaubendem Blick auf das Meer.",
+        "hu": "Kezdje a napot az Oriel y Parcban, hogy ráhangolódjon Pembrokeshire-re. Délelőtt fedezze fel a szent völgyet a csodálatos katedrálissal és a püspöki palota romantikus romjaival. Ebéd után a parti ösvényen sétálva eljut a történelmi Porthclais kikötőbe, ahol élvezheti a sós tengeri levegőt. A délutánt a Szent Non-kápolnánál zárja, Szent Dávid szülőhelyén, ahonnan lenyűgöző kilátás nyílik a tengerre.",
+        "ro": "Începeți ziua la Oriel y Parc pentru a simți atmosfera din Pembrokeshire. În cursul dimineții, explorați valea sacră cu catedrala sa magnifică și ruinele romantice ale Palatului Episcopal. După prânz, o plimbare pe calea de coastă vă duce la portul istoric Porthclais pentru a vă bucura de aerul sărat. După-amiaza se încheie cu un moment de reflecție la Capela Sf. Non, locul de naștere al Sfântului David, cu vederi uimitoare la mare.",
+        "en": "Start your day at Oriel y Parc to get a feel for Pembrokeshire. Your morning is spent exploring the sacred valley with its magnificent cathedral and the romantic ruins of the Bishop's Palace. After lunch, a coastal path walk takes you to the historic Porthclais Harbour to enjoy the salty air. The afternoon concludes with a reflective moment at St Non's Chapel, the birthplace of St David, with stunning sea views."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cawl",
+            "tip": "Ein herzhafter walisischer Eintopf, perfekt nach einem Spaziergang."
+          },
+          {
+            "name": "Welsh Rarebit",
+            "tip": "Eine schmackhafte Käsesauce auf Toast, eine lokale Delikatesse."
+          },
+          {
+            "name": "Bara Brith",
+            "tip": "Ein traditioneller walisischer Früchtekuchen, ideal zum Tee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cawl",
+            "tip": "Egy kiadós walesi egytálétel, tökéletes egy séta után."
+          },
+          {
+            "name": "Welsh Rarebit",
+            "tip": "Ízletes sajtos szósz pirítóson, helyi finomság."
+          },
+          {
+            "name": "Bara Brith",
+            "tip": "Hagyományos walesi gyümölcskenyér, ideális teához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cawl",
+            "tip": "O tocană galeză consistentă, perfectă după o plimbare."
+          },
+          {
+            "name": "Welsh Rarebit",
+            "tip": "Un sos savuros de brânză pe pâine prăjită, o delicatesă locală."
+          },
+          {
+            "name": "Bara Brith",
+            "tip": "O pâine dulce tradițională galeză cu fructe, ideală cu ceai."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cawl",
+            "tip": "A hearty Welsh stew, perfect after a walk."
+          },
+          {
+            "name": "Welsh Rarebit",
+            "tip": "A savoury cheese sauce on toast, a local delicacy."
+          },
+          {
+            "name": "Bara Brith",
+            "tip": "A traditional Welsh fruit loaf, great with tea."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "St Non's Chapel Klippen",
+            "tip": "Sitzen Sie auf einer Bank und blicken Sie auf das Meer.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Porthclais Harbour bei Ebbe",
+            "tip": "Ein friedlicher Ort, um die Gezeiten zu beobachten.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kathedralen-Gärten",
+            "tip": "Ein ruhiger, abgeschiedener Ort im geschäftigen Tal.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Non-kápolna sziklái",
+            "tip": "Üljön le egy padra és nézze a tengert.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Porthclais kikötő apálykor",
+            "tip": "Békés hely az árapály figyelésére.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A katedrális kertjei",
+            "tip": "Csendes, eldugott hely a nyüzsgő völgyben.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stâncile de la Capela Sf. Non",
+            "tip": "Stați pe o bancă și priviți marea.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Portul Porthclais la reflux",
+            "tip": "Un loc pașnic pentru a privi mareele.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile Catedralei",
+            "tip": "Un loc liniștit și izolat în valea aglomerată.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "St Non's Chapel cliffs",
+            "tip": "Sit on a bench and gaze out at the sea.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Porthclais Harbour at low tide",
+            "tip": "A peaceful spot to watch the tides.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cathedral gardens",
+            "tip": "A quiet, secluded spot within the busy valley.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Oriel y Parc Shop",
+            "tip": "Qualitativ hochwertiges walisisches Kunsthandwerk und Bücher."
+          },
+          {
+            "name": "Lokale Kunstgalerien",
+            "tip": "Kaufen Sie ein einzigartiges Gemälde oder eine Keramik."
+          },
+          {
+            "name": "The Pebbles",
+            "tip": "Ein kleiner Laden für charmante Geschenke und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az Oriel y Parc boltja",
+            "tip": "Minőségi walesi kézműves termékek és könyvek."
+          },
+          {
+            "name": "Helyi művészeti galériák",
+            "tip": "Vásároljon egyedi festményt vagy kerámiát."
+          },
+          {
+            "name": "The Pebbles",
+            "tip": "Kis üzlet bájos ajándékokkal és szuvenírekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Oriel y Parc",
+            "tip": "Artizanat și cărți galeze de calitate."
+          },
+          {
+            "name": "Galerii de artă locale",
+            "tip": "Cumpărați o pictură sau o ceramică unică."
+          },
+          {
+            "name": "The Pebbles",
+            "tip": "Un mic magazin pentru cadouri și suveniruri fermecătoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Oriel y Parc Shop",
+            "tip": "Quality Welsh crafts and books."
+          },
+          {
+            "name": "Local Art Galleries",
+            "tip": "Buy a unique painting or piece of pottery."
+          },
+          {
+            "name": "The Pebbles",
+            "tip": "A small shop for charming gifts and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie festes Schuhwerk, da die Küstenpfade uneben sein können.",
+          "Prüfen Sie die Öffnungszeiten der Kathedrale, da diese aufgrund von Gottesdiensten variieren können.",
+          "Nehmen Sie Wasser und Snacks mit, besonders für die Küstenwanderung.",
+          "Das Wetter kann sich schnell ändern, also kleiden Sie sich am besten in Schichten."
+        ],
+        "hu": [
+          "Viseljen erős cipőt, mivel a parti ösvények egyenetlenek lehetnek.",
+          "Ellenőrizze a katedrális nyitvatartási idejét, mert az istentiszteletek miatt változhat.",
+          "Vigyen magával vizet és harapnivalót, különösen a parti sétához.",
+          "Az időjárás gyorsan változhat, ezért öltözzön rétegesen."
+        ],
+        "ro": [
+          "Purtați încălțăminte rezistentă, deoarece potecile de coastă pot fi denivelate.",
+          "Verificați orele de deschidere ale catedralei, deoarece pot varia din cauza slujbelor.",
+          "Luați apă și gustări, mai ales pentru plimbarea pe coastă.",
+          "Vremea se poate schimba rapid, așa că îmbrăcați-vă în straturi."
+        ],
+        "en": [
+          "Wear sturdy footwear as the coastal paths can be uneven.",
+          "Check cathedral opening times as they can vary due to services.",
+          "Bring water and snacks, especially for the coastal walk.",
+          "The weather can change quickly, so it's best to dress in layers."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Oriel y Parc",
+            "hu": "Oriel y Parc",
+            "ro": "Oriel y Parc",
+            "en": "Oriel y Parc"
+          },
+          "coords": [
+            -5.2615,
+            51.8825
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Mieten Sie hier Ihr Fahrrad, falls Sie keins haben.",
+            "hu": "Béreljen itt kerékpárt, ha nincs sajátja.",
+            "ro": "Închiriați-vă bicicleta de aici dacă nu ați adus una.",
+            "en": "Rent your bike from here if you haven't brought one."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale und Bischofspalast",
+            "hu": "Székesegyház és Püspöki Palota",
+            "ro": "Catedrala și Palatul Episcopal",
+            "en": "Cathedral & Bishop's Palace"
+          },
+          "coords": [
+            -5.2678,
+            51.8819
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:04",
+          "stay_min": 120,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und erkunden Sie beide historischen Stätten in Ruhe.",
+            "hu": "Zárja le a kerékpárt, és fedezze fel mindkét történelmi helyszínt.",
+            "ro": "Legați-vă bicicleta și explorați ambele situri istorice pe îndelete.",
+            "en": "Lock up your bike and explore both historic sites at leisure."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Porthclais",
+            "hu": "Porthclais kikötője",
+            "ro": "Portul Porthclais",
+            "en": "Porthclais Harbour"
+          },
+          "coords": [
+            -5.2801,
+            51.8736
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:12",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein schöner Ort für eine Mittagspause. Kaufen Sie ein Eis im Kiosk.",
+            "hu": "Szép hely egy ebédszünetre. Vegyen egy fagyit a kioszkban.",
+            "ro": "Un loc minunat pentru o pauză de prânz. Cumpărați o înghețată de la chioșc.",
+            "en": "A lovely spot for a lunch break. Buy an ice cream from the kiosk."
+          }
+        },
+        {
+          "name": {
+            "de": "Whitesands Bay",
+            "hu": "Whitesands-öböl",
+            "ro": "Golful Whitesands",
+            "en": "Whitesands Bay"
+          },
+          "coords": [
+            -5.305,
+            51.897
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:22",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein atemberaubender Strand. Perfekt zum Schwimmen, Surfen oder einfach nur zum Entspannen.",
+            "hu": "Lenyűgöző strand. Tökéletes úszáshoz, szörfözéshez vagy csak pihenéshez.",
+            "ro": "O plajă uimitoare. Perfectă pentru înot, surfing sau pur și simplu relaxare.",
+            "en": "A stunning beach. Perfect for a swim, a surf, or just relaxing."
+          }
+        },
+        {
+          "name": {
+            "de": "St Justinian's",
+            "hu": "St Justinian's",
+            "ro": "St Justinian's",
+            "en": "St Justinian's"
+          },
+          "coords": [
+            -5.313,
+            51.889
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "16:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schauen Sie hinüber nach Ramsey Island und beobachten Sie die Boote, die durch die Strömung navigieren.",
+            "hu": "Nézzen át Ramsey-szigetre, és figyelje a hajókat, amint az áramlatokban navigálnak.",
+            "ro": "Priviți spre Insula Ramsey și urmăriți bărcile navigând prin curenți.",
+            "en": "Gaze across to Ramsey Island and watch the boats navigating the currents."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag in der Stadt, erkunden Sie die Kathedrale und den Palast. Mittags radeln Sie zum malerischen Hafen von Porthclais für eine kurze Pause, bevor Sie die Hügel zum berühmten Whitesands Bay in Angriff nehmen. Verbringen Sie einen langen Nachmittag am Strand, schwimmen oder sonnen Sie sich. Die Tour endet mit einer kurzen Fahrt nach St. Justinian's, um den Sonnenuntergang über Ramsey Island zu beobachten, bevor Sie zurück in die Stadt fahren.",
+        "hu": "Kezdje a biciklis napot a városban, fedezze fel a katedrálist és a palotát. Délben tekerjen el a festői Porthclais kikötőbe egy rövid pihenőre, mielőtt nekivág a domboknak a híres Whitesands-öböl felé. Töltsön egy hosszú délutánt a strandon úszással vagy napozással. A túra egy rövid tekeréssel zárul St Justinian's-be, hogy megnézze a naplementét Ramsey-sziget felett, mielőtt visszatérne a városba.",
+        "ro": "Începeți-vă ziua de ciclism în oraș, explorând catedrala și palatul. La prânz, pedalați spre portul pitoresc Porthclais pentru o scurtă pauză înainte de a aborda dealurile spre faimosul golf Whitesands. Petreceți o după-amiază lungă pe plajă, înotând sau stând la soare. Turul se încheie cu o scurtă plimbare cu bicicleta la St Justinian's pentru a privi apusul peste Insula Ramsey înainte de a vă întoarce în oraș.",
+        "en": "Start your cycling day in the city, exploring the cathedral and palace. At midday, pedal to the scenic Porthclais Harbour for a quick break before tackling the hills to the famous Whitesands Bay. Spend a long afternoon on the beach, swimming or sunbathing. The tour concludes with a short ride to St Justinian's to watch the sunset over Ramsey Island before heading back to town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fish and Chips in Whitesands",
+            "tip": "Ein klassisches britisches Gericht mit Meerblick."
+          },
+          {
+            "name": "Walisischer Käse",
+            "tip": "Kaufen Sie etwas lokalen Käse für ein Picknick."
+          },
+          {
+            "name": "Eis in Porthclais",
+            "tip": "Eine erfrischende Belohnung nach der Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fish and chips a Whitesands-öbölben",
+            "tip": "Klasszikus brit tengerparti étel, kilátással."
+          },
+          {
+            "name": "Walesi sajtok",
+            "tip": "Vegyél egy kis helyi sajtot piknikre."
+          },
+          {
+            "name": "Fagylalt Porthclais-ben",
+            "tip": "Frissítő jutalom a biciklizés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fish and chips la Whitesands",
+            "tip": "Un preparat clasic britanic la malul mării, cu priveliște."
+          },
+          {
+            "name": "Brânzeturi galeze",
+            "tip": "Cumpărați niște brânză locală pentru un picnic."
+          },
+          {
+            "name": "Înghețată la Porthclais",
+            "tip": "O recompensă răcoritoare după plimbarea cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish and Chips at Whitesands",
+            "tip": "A classic British seaside meal with a view."
+          },
+          {
+            "name": "Welsh Cheeses",
+            "tip": "Pick up some local cheese for a picnic."
+          },
+          {
+            "name": "Ice Cream at Porthclais",
+            "tip": "A refreshing reward after your cycle."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenuntergang in St. Justinian's",
+            "tip": "Beobachten Sie, wie die Sonne hinter Ramsey Island untergeht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Der Küstenpfad zwischen Porthclais und St Non's",
+            "tip": "Ein ruhiger Abschnitt abseits der Menschenmassen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Nördliches Ende von Whitesands Bay",
+            "tip": "Gehen Sie zum ruhigeren Ende des Strandes.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente St Justinian's-ben",
+            "tip": "Nézze, ahogy a nap lenyugszik Ramsey-sziget mögött.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A parti ösvény Porthclais és St Non's között",
+            "tip": "Csendes szakasz a tömegtől távol."
+          },
+          {
+            "name": "A Whitesands-öböl északi vége",
+            "tip": "Sétáljon el a strand csendesebb végébe.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apus la St Justinian's",
+            "tip": "Priviți soarele apunând în spatele Insulei Ramsey.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Poteca de coastă între Porthclais și St Non's",
+            "tip": "O secțiune liniștită, departe de mulțime.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Capătul nordic al Golfului Whitesands",
+            "tip": "Mergeți la capătul mai liniștit al plajei.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunset at St Justinian's",
+            "tip": "Watch the sun set behind Ramsey Island.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "The coastal path between Porthclais and St Non's",
+            "tip": "A quiet section away from the crowds.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "North end of Whitesands Bay",
+            "tip": "Walk to the quieter end of the beach.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "TYF Adventure Shop",
+            "tip": "Ausrüstung und Kleidung für Outdoor-Aktivitäten."
+          },
+          {
+            "name": "Strandshop in Whitesands",
+            "tip": "Vergessene Sonnencreme oder ein Souvenir."
+          },
+          {
+            "name": "The Catherdral Shop",
+            "tip": "Religiöse Andenken und Bücher."
+          }
+        ],
+        "hu": [
+          {
+            "name": "TYF Kalandbolt",
+            "tip": "Kültéri felszerelések és ruházat."
+          },
+          {
+            "name": "A Whitesands-i strandbolt",
+            "tip": "Elfelejtett naptej vagy egy szuvenír."
+          },
+          {
+            "name": "A katedrális boltja",
+            "tip": "Vallási emléktárgyak és könyvek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul TYF Adventure",
+            "tip": "Echipament și îmbrăcăminte pentru activități în aer liber."
+          },
+          {
+            "name": "Magazinul de pe plaja Whitesands",
+            "tip": "Cremă de protecție solară uitată sau un suvenir."
+          },
+          {
+            "name": "Magazinul Catedralei",
+            "tip": "Amintiri și cărți religioase."
+          }
+        ],
+        "en": [
+          {
+            "name": "TYF Adventure shop",
+            "tip": "Outdoor gear and clothing."
+          },
+          {
+            "name": "Whitesands beach shop",
+            "tip": "Forgotten sunscreen or a souvenir."
+          },
+          {
+            "name": "The Cathedral Shop",
+            "tip": "Religious keepsakes and books."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen können eng und hügelig sein, seien Sie also auf ein gutes Training vorbereitet.",
+          "Nehmen Sie viel Wasser mit.",
+          "Schließen Sie Ihr Fahrrad an den dafür vorgesehenen Stellen ab.",
+          "Prüfen Sie den Gezeitenplan für Whitesands, bevor Sie losfahren."
+        ],
+        "hu": [
+          "Az utak szűkek és dombosak lehetnek, készüljön fel egy jó edzésre.",
+          "Vigyen magával sok vizet.",
+          "Zárja le a kerékpárt a kijelölt helyeken.",
+          "Indulás előtt ellenőrizze a Whitesands árapály-menetrendjét."
+        ],
+        "ro": [
+          "Drumurile pot fi înguste și deluroase, așa că fiți pregătiți pentru un antrenament bun.",
+          "Luați multă apă.",
+          "Legați-vă bicicleta în zonele desemnate.",
+          "Verificați programul mareelor pentru Whitesands înainte de a pleca."
+        ],
+        "en": [
+          "The roads can be narrow and hilly, so be prepared for a workout.",
+          "Carry plenty of water.",
+          "Lock your bike in designated areas.",
+          "Check the tide times for Whitesands before you go."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 11.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Oriel y Parc",
+            "hu": "Oriel y Parc",
+            "ro": "Oriel y Parc",
+            "en": "Oriel y Parc"
+          },
+          "coords": [
+            -5.2615,
+            51.8825
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto auf dem großen Parkplatz und beginnen Sie Ihren Tag hier.",
+            "hu": "Parkolja le az autót a nagy parkolóban, és kezdje itt a napot.",
+            "ro": "Parcați mașina în parcarea mare și începeți ziua de aici.",
+            "en": "Park your car in the main car park and start your day here."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von St Davids",
+            "hu": "St Davids-székesegyház",
+            "ro": "Catedrala St Davids",
+            "en": "St Davids Cathedral"
+          },
+          "coords": [
+            -5.2678,
+            51.8819
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz hinunter ins Tal.",
+            "hu": "Rövid séta a parkolóból le a völgybe.",
+            "ro": "O scurtă plimbare la vale din parcare.",
+            "en": "A short walk down into the valley from the car park."
+          }
+        },
+        {
+          "name": {
+            "de": "Bischofspalast",
+            "hu": "Püspöki palota",
+            "ro": "Palatul Episcopal",
+            "en": "Bishop's Palace"
+          },
+          "coords": [
+            -5.2685,
+            51.8814
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt neben der Kathedrale, erkunden Sie die beeindruckenden Ruinen.",
+            "hu": "Közvetlenül a katedrális mellett, fedezze fel a lenyűgöző romokat.",
+            "ro": "Chiar lângă catedrală, explorați ruinele impresionante.",
+            "en": "Right next to the cathedral, explore the impressive ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Porthclais",
+            "hu": "Porthclais kikötője",
+            "ro": "Portul Porthclais",
+            "en": "Porthclais Harbour"
+          },
+          "coords": [
+            -5.2801,
+            51.8736
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Hafen für Ihr Mittagessen. Es gibt einen Bezahlparkplatz.",
+            "hu": "Vezessen le a kikötőbe ebédelni. Fizetős parkoló áll rendelkezésre.",
+            "ro": "Conduceți până la port pentru prânz. Există o parcare cu plată.",
+            "en": "Drive down to the harbour for your lunch. There is a pay and display car park."
+          }
+        },
+        {
+          "name": {
+            "de": "Whitesands Bay",
+            "hu": "Whitesands-öböl",
+            "ro": "Golful Whitesands",
+            "en": "Whitesands Bay"
+          },
+          "coords": [
+            -5.305,
+            51.897
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:02",
+          "stay_min": 120,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Der Hauptparkplatz füllt sich schnell, aber der Strand ist die Mühe wert.",
+            "hu": "A fő parkoló gyorsan megtelik, de a strand megéri a fáradságot.",
+            "ro": "Parcarea principală se umple repede, dar plaja merită efortul.",
+            "en": "The main car park fills up quickly, but the beach is worth the effort."
+          }
+        },
+        {
+          "name": {
+            "de": "St Justinian's Lebensrettungsbootstation",
+            "hu": "St Justinian's mentőcsónak-állomás",
+            "ro": "Stația de bărci de salvare St Justinian's",
+            "en": "St Justinian's Lifeboat Station"
+          },
+          "coords": [
+            -5.313,
+            51.889
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "16:08",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.4,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Der Endpunkt. Genießen Sie die Aussicht, bevor Sie den Tag beenden.",
+            "hu": "Az út vége. Élvezze a kilátást, mielőtt befejezi a napot.",
+            "ro": "Capătul drumului. Bucurați-vă de priveliști înainte de a încheia ziua.",
+            "en": "The end of the road. Enjoy the views before you end your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Parken Sie im Hauptparkplatz von St Davids und erkunden Sie morgens zu Fuß das historische Zentrum: die Galerie, die Kathedrale und den Palast. Nach dem Mittagessen steigen Sie wieder ins Auto und fahren die kurze Strecke zum Porthclais Harbour für einen Tapetenwechsel. Am Nachmittag fahren Sie die Küstenstraße entlang zum weitläufigen Whitesands Bay, um am Strand spazieren zu gehen oder zu surfen. Der Tag endet an der zerklüfteten Landzunge von St. Justinian's, von wo aus Sie einen Blick auf Ramsey Island werfen, bevor Sie zurückkehren.",
+        "hu": "Parkoljon St Davids fő parkolójában, és délelőtt gyalogosan fedezze fel a történelmi központot: a galériát, a katedrálist és a palotát. Ebéd után üljön vissza az autóba, és tegyen egy rövid utat Porthclais kikötőjébe a tájváltásért. Délután vezessen végig a tengerparti úton a hatalmas Whitesands-öbölbe egy tengerparti sétára vagy szörfözésre. A nap a zord St. Justinian's-foknál ér véget, ahonnan megpillanthatja Ramsey-szigetet, mielőtt visszaindulna.",
+        "ro": "Parcați în parcarea principală din St Davids și explorați centrul istoric pe jos dimineața: galeria, catedrala și palatul. După prânz, urcați-vă înapoi în mașină pentru o scurtă călătorie spre portul Porthclais pentru o schimbare de peisaj. După-amiaza, conduceți pe drumul de coastă spre vastul golf Whitesands pentru o plimbare pe plajă sau surf. Ziua se încheie la promontoriul accidentat St. Justinian's, zărind Insula Ramsey înainte de a vă întoarce.",
+        "en": "Park in St Davids' main car park and explore the historic centre on foot in the morning: the gallery, cathedral and palace. After lunch, get back in the car for the short drive to Porthclais Harbour for a change of scenery. Your afternoon is spent driving the coastal road to the expansive Whitesands Bay for a beach walk or surf. The day finishes at the rugged headland of St Justinian's, catching a view of Ramsey Island before you return."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Farmers Arms",
+            "tip": "Ein traditioneller Pub im Herzen von St Davids für ein herzhaftes Mittagessen."
+          },
+          {
+            "name": "Whitesands Beach House",
+            "tip": "Kaffee und Kuchen mit fantastischer Aussicht."
+          },
+          {
+            "name": "Lokale Meeresfrüchte",
+            "tip": "Halten Sie Ausschau nach frischem Hummer oder Krabben auf den Speisekarten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Farmers Arms",
+            "tip": "Hagyományos pub St Davids szívében egy kiadós ebédhez."
+          },
+          {
+            "name": "Whitesands Beach House",
+            "tip": "Kávé és sütemény fantasztikus kilátással."
+          },
+          {
+            "name": "Helyi tengeri ételek",
+            "tip": "Keresse a friss homárt vagy rákot az étlapokon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Farmers Arms",
+            "tip": "Un pub tradițional în inima St Davids pentru un prânz copios."
+          },
+          {
+            "name": "Whitesands Beach House",
+            "tip": "Cafea și prăjitură cu o priveliște fantastică."
+          },
+          {
+            "name": "Fructe de mare locale",
+            "tip": "Căutați homar proaspăt sau crab în meniuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Farmers Arms",
+            "tip": "A traditional pub in the heart of St Davids for a hearty lunch."
+          },
+          {
+            "name": "Whitesands Beach House",
+            "tip": "Coffee and cake with a fantastic view."
+          },
+          {
+            "name": "Local Seafood",
+            "tip": "Look out for fresh lobster or crab on the menus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "St Non's Bay",
+            "tip": "Ein kurzer Abstecher mit dem Auto für eine ruhige Aussicht.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ramsey Island Sound",
+            "tip": "Beobachten Sie die starken Strömungen von der Sicherheit des Festlandes aus.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Garn Isaf",
+            "tip": "Ein alter Grabhügel in der Nähe von Whitesands mit Panoramablick.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Non-öböl",
+            "tip": "Rövid autós kitérő egy csendes kilátásért.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ramsey-szigeti szoros",
+            "tip": "Figyelje az erős áramlatokat a szárazföld biztonságából.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Garn Isaf",
+            "tip": "Ősi sírdomb a Whitesands közelében, panorámás kilátással.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golful St Non",
+            "tip": "Un scurt ocol cu mașina pentru o priveliște liniștită.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Strâmtoarea Insulei Ramsey",
+            "tip": "Priviți curenții puternici din siguranța uscatului.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Garn Isaf",
+            "tip": "O movilă funerară antică lângă Whitesands, cu vederi panoramice.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "St Non's Bay",
+            "tip": "A short detour by car for a quiet view.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ramsey Island Sound",
+            "tip": "Watch the powerful currents from the safety of the mainland.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Garn Isaf",
+            "tip": "An ancient burial mound near Whitesands with panoramic views.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Solva Woollen Mill",
+            "tip": "Eine kurze Autofahrt für schöne walisische Textilien."
+          },
+          {
+            "name": "St Davids Food and Wine",
+            "tip": "Kaufen Sie lokale Produkte für ein Picknick."
+          },
+          {
+            "name": "Window on Wales",
+            "tip": "Ein Geschäft mit einer großen Auswahl an walisischen Geschenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Solva Gyapjúmalom",
+            "tip": "Rövid autóút a gyönyörű walesi textíliákért."
+          },
+          {
+            "name": "St Davids Élelmiszer és Bor",
+            "tip": "Vásároljon helyi termékeket egy piknikhez."
+          },
+          {
+            "name": "Window on Wales",
+            "tip": "Egy bolt, ahol walesi ajándékok széles választékát találja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Moara de lână Solva",
+            "tip": "O scurtă călătorie cu mașina pentru textile galeze frumoase."
+          },
+          {
+            "name": "St Davids Food and Wine",
+            "tip": "Aprovizionați-vă cu produse locale pentru un picnic."
+          },
+          {
+            "name": "Window on Wales",
+            "tip": "Un magazin cu o selecție largă de cadouri galeze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Solva Woollen Mill",
+            "tip": "A short drive away for beautiful Welsh textiles."
+          },
+          {
+            "name": "St Davids Food and Wine",
+            "tip": "Stock up on local produce for a picnic."
+          },
+          {
+            "name": "Window on Wales",
+            "tip": "A shop with a wide range of Welsh gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Parkgebühren können sich summieren, haben Sie also Kleingeld dabei.",
+          "Die Straßen sind sehr eng, fahren Sie also vorsichtig.",
+          "Im Sommer kann es sehr voll werden, planen Sie also im Voraus.",
+          "Laden Sie Offline-Karten herunter, da der Handyempfang lückenhaft sein kann."
+        ],
+        "hu": [
+          "A parkolási díjak összeadódhatnak, legyen nálad aprópénz.",
+          "Az utak nagyon szűkek, vezessen óvatosan.",
+          "Nyáron nagyon zsúfolt lehet, tervezzen előre.",
+          "Töltsön le offline térképeket, mert a mobiljel gyenge lehet."
+        ],
+        "ro": [
+          "Taxele de parcare se pot aduna, așa că aveți la îndemână monede.",
+          "Drumurile sunt foarte înguste, conduceți cu grijă.",
+          "Poate fi foarte aglomerat vara, așa că planificați din timp.",
+          "Descărcați hărți offline, deoarece semnalul de telefonie mobilă poate fi slab."
+        ],
+        "en": [
+          "Parking charges can add up, so have change ready.",
+          "Roads are very narrow, drive with care.",
+          "It can get very busy in the summer, so plan ahead.",
+          "Download offline maps as phone signal can be patchy."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:41",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "St Davids, The Square",
+            "hu": "St Davids, The Square",
+            "ro": "St Davids, The Square",
+            "en": "St Davids, The Square"
+          },
+          "coords": [
+            -5.2638,
+            51.8821
+          ],
+          "category": "landmarks",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kommen Sie mit dem Bus an und orientieren Sie sich auf dem zentralen Platz.",
+            "hu": "Érkezzen busszal, és tájékozódjon a központi téren.",
+            "ro": "Sosiți cu autobuzul și orientați-vă în piața centrală.",
+            "en": "Arrive by bus and orient yourself in the central square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale und Bischofspalast",
+            "hu": "Székesegyház és Püspöki Palota",
+            "ro": "Catedrala și Palatul Episcopal",
+            "en": "Cathedral & Bishop's Palace"
+          },
+          "coords": [
+            -5.2678,
+            51.8819
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:33",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verbringen Sie den Morgen damit, diese Zwillingsattraktionen zu erkunden.",
+            "hu": "Töltse a délelőttöt e két egymás melletti látnivaló felfedezésével.",
+            "ro": "Petreceți dimineața explorând aceste atracții gemene.",
+            "en": "Spend the morning exploring these twin attractions."
+          }
+        },
+        {
+          "name": {
+            "de": "Whitesands Bay (mit dem Bus)",
+            "hu": "Whitesands-öböl (busszal)",
+            "ro": "Golful Whitesands (cu autobuzul)",
+            "en": "Whitesands Bay (by bus)"
+          },
+          "coords": [
+            -5.305,
+            51.897
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:03",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.8,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Celtic Coaster Bus für eine malerische Fahrt zum Strand.",
+            "hu": "Utazzon a Celtic Coaster busszal a festői tengerpartra.",
+            "ro": "Luați autobuzul Celtic Coaster pentru o călătorie pitorească spre plajă.",
+            "en": "Take the Celtic Coaster bus for a scenic ride to the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Porthclais (mit dem Bus)",
+            "hu": "Porthclais kikötője (busszal)",
+            "ro": "Portul Porthclais (cu autobuzul)",
+            "en": "Porthclais Harbour (by bus)"
+          },
+          "coords": [
+            -5.2801,
+            51.8736
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:03",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie in den Bus und fahren Sie die Küste entlang zum historischen Hafen.",
+            "hu": "Szálljon fel a buszra a tengerpart mentén a történelmi kikötőig.",
+            "ro": "Urcați-vă în autobuz de-a lungul coastei până la portul istoric.",
+            "en": "Hop on the bus along the coast to the historic harbour."
+          }
+        },
+        {
+          "name": {
+            "de": "St Non's Chapel",
+            "hu": "Szent Non-kápolna",
+            "ro": "Capela Sf. Non",
+            "en": "St Non's Chapel"
+          },
+          "coords": [
+            -5.2683,
+            51.8719
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hafen zu diesem heiligen Ort.",
+            "hu": "Egy rövid séta a kikötőből ehhez a szent helyhez.",
+            "ro": "O scurtă plimbare de la port la acest loc sacru.",
+            "en": "A short walk from the harbour to this sacred spot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit der Ankunft auf dem Platz von St. Davids. Verbringen Sie den Morgen im Tal der Kathedrale und des Palastes. Zu Mittag nehmen Sie den Küstenbus nach Whitesands Bay, um am Meer zu Mittag zu essen und den Strand zu genießen. Am Nachmittag bringt Sie der Bus weiter zum Hafen von Porthclais, von wo aus Sie einen kurzen Spaziergang zur St. Non's Chapel machen können, um den Tag mit einer ruhigen Betrachtung ausklingen zu lassen, bevor Sie den Bus zurück nehmen.",
+        "hu": "A nap St. Davids főterére érkezéssel kezdődik. Töltse a délelőttöt a katedrális és a palota völgyében. Ebédidőben szálljon fel a parti buszra a Whitesands-öbölbe, ahol megebédelhet és élvezheti a tengerpartot. Délután a busz továbbviszi Porthclais kikötőjébe, ahonnan egy rövid sétával elérheti a Szent Non-kápolnát, hogy egy csendes elmélkedéssel zárja a napot, mielőtt visszaszállna a buszra.",
+        "ro": "Ziua dvs. începe sosind în Piața St. Davids. Petreceți dimineața în valea catedralei și a palatului. La prânz, luați autobuzul de coastă spre Golful Whitesands pentru prânz la malul mării și timp pe plajă. După-amiaza, autobuzul vă duce mai departe spre portul Porthclais, de unde puteți face o scurtă plimbare până la Capela Sf. Non pentru o încheiere reflectivă a zilei înainte de a lua autobuzul înapoi.",
+        "en": "Your day begins arriving in St Davids' square. Spend the morning in the valley of the cathedral and palace. At lunchtime, catch the coastal bus to Whitesands Bay for lunch by the sea and beach time. In the afternoon, the bus takes you further to Porthclais Harbour, from where you can take a short walk to St Non's Chapel for a reflective end to the day before catching the bus back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Bishops Pub",
+            "tip": "Ein guter Ort für ein Pub-Mittagessen, bevor Sie den Bus nehmen."
+          },
+          {
+            "name": "Pebbles Espresso Bar",
+            "tip": "Schnappen Sie sich einen Kaffee, während Sie auf Ihren Bus warten."
+          },
+          {
+            "name": "Pack-Picknick",
+            "tip": "Kaufen Sie Vorräte in der Stadt für ein Mittagessen am Strand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Bishops Pub",
+            "tip": "Jó hely egy pub-ebédre, mielőtt felszáll a buszra."
+          },
+          {
+            "name": "Pebbles Espresso Bár",
+            "tip": "Igyon egy kávét, amíg a buszra vár."
+          },
+          {
+            "name": "Csomagolt piknik",
+            "tip": "Vásároljon a városban a tengerparti ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Bishops Pub",
+            "tip": "Un loc bun pentru un prânz la pub înainte de a lua autobuzul."
+          },
+          {
+            "name": "Pebbles Espresso Bar",
+            "tip": "Luați o cafea în timp ce așteptați autobuzul."
+          },
+          {
+            "name": "Pachet de picnic",
+            "tip": "Cumpărați provizii din oraș pentru un prânz pe plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Bishops pub",
+            "tip": "A good spot for a pub lunch before you catch the bus."
+          },
+          {
+            "name": "Pebbles Espresso Bar",
+            "tip": "Grab a coffee while waiting for your bus."
+          },
+          {
+            "name": "Packed Picnic",
+            "tip": "Buy supplies in town for a beach lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obere Etage des Busses",
+            "tip": "Sichern Sie sich einen Fensterplatz für die besten Aussichten auf der Küstenroute.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "St. Patrick's Kapelle, Whitesands",
+            "tip": "Eine ruhige Ruine am Rande des Strandes.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Der Weg nach St. Non's",
+            "tip": "Genießen Sie die Ruhe, bevor Sie ankommen.",
+            "emoji": "🚶"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A busz emelete",
+            "tip": "Foglaljon ablak melletti helyet a legjobb kilátásért a parti útvonalon.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Szent Patrik-kápolna, Whitesands",
+            "tip": "Csendes rom a strand szélén.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Az út Szent Nonhoz",
+            "tip": "Élvezze a csendet megérkezés előtt.",
+            "emoji": "🚶"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etajul superior al autobuzului",
+            "tip": "Luați un loc la geam pentru cele mai bune priveliști de pe ruta de coastă.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Capela Sf. Patrick, Whitesands",
+            "tip": "O ruină liniștită la marginea plajei.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Poteca spre St. Non's",
+            "tip": "Bucurați-vă de liniște înainte de a ajunge.",
+            "emoji": "🚶"
+          }
+        ],
+        "en": [
+          {
+            "name": "Top deck of the bus",
+            "tip": "Grab a window seat for the best views on the coastal route.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "St Patrick's Chapel, Whitesands",
+            "tip": "A quiet ruin on the edge of the beach.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "The path to St Non's",
+            "tip": "Enjoy the peace and quiet before you arrive.",
+            "emoji": "🚶"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "The Really Wild Emporium",
+            "tip": "Einzigartige, aus der Region bezogene Lebensmittel und Geschenke."
+          },
+          {
+            "name": "St Davids Bookshop",
+            "tip": "Eine charmante unabhängige Buchhandlung."
+          },
+          {
+            "name": "Basalt & Co.",
+            "tip": "Stilvolle Haushaltswaren und Geschenke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Really Wild Emporium",
+            "tip": "Egyedi, helyi forrásból származó élelmiszerek és ajándékok."
+          },
+          {
+            "name": "St Davids Könyvesbolt",
+            "tip": "Bájos, független könyvesbolt."
+          },
+          {
+            "name": "Basalt & Co.",
+            "tip": "Stílusos háztartási cikkek és ajándékok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Really Wild Emporium",
+            "tip": "Alimente și cadouri unice, de proveniență locală."
+          },
+          {
+            "name": "Librăria St Davids",
+            "tip": "O librărie independentă fermecătoare."
+          },
+          {
+            "name": "Basalt & Co.",
+            "tip": "Articole de uz casnic și cadouri elegante."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Really Wild Emporium",
+            "tip": "Unique locally-sourced food and gifts."
+          },
+          {
+            "name": "St Davids Bookshop",
+            "tip": "A charming independent bookstore."
+          },
+          {
+            "name": "Basalt & Co.",
+            "tip": "Stylish homewares and gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan des 'Celtic Coaster' online, da er saisonal ist.",
+          "Kaufen Sie ein Tagesticket für das beste Preis-Leistungs-Verhältnis.",
+          "Die Busse können in der Hochsaison voll sein, kommen Sie also früh zur Haltestelle.",
+          "Geben Sie dem Fahrer ein Zeichen, damit er anhält."
+        ],
+        "hu": [
+          "Ellenőrizze a 'Celtic Coaster' busz menetrendjét online, mivel szezonális.",
+          "Vásároljon napijegyet a legjobb ár-érték arány érdekében.",
+          "A buszok főszezonban zsúfoltak lehetnek, ezért érkezzen korán a megállóba.",
+          "Intsen a sofőrnek, hogy megálljon."
+        ],
+        "ro": [
+          "Verificați online orarul autobuzului 'Celtic Coaster', deoarece este sezonier.",
+          "Cumpărați un bilet de o zi pentru cel mai bun raport calitate-preț.",
+          "Autobuzele pot fi aglomerate în sezonul de vârf, așa că ajungeți devreme la stație.",
+          "Faceți semn șoferului să oprească."
+        ],
+        "en": [
+          "Check the 'Celtic Coaster' bus timetable online as it's seasonal.",
+          "Buy a day rover ticket for the best value.",
+          "Buses can be crowded in peak season, so get to the stop early.",
+          "Signal clearly for the driver to stop."
+        ]
+      }
+    }
+  }
+}

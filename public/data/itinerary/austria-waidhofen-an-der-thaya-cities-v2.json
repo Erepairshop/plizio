@@ -1,0 +1,1104 @@
+{
+  "city_id": "austria-waidhofen-an-der-thaya-cities-v2",
+  "anchor": {
+    "name": "Waidhofen an der Thaya",
+    "coords": [
+      15.2811,
+      48.8189
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus und Mariensäule",
+            "hu": "Városháza és Mária-oszlop",
+            "ro": "Primăria și Coloana Mariană",
+            "en": "Town Hall and Marian Column"
+          },
+          "coords": [
+            15.281,
+            48.8188
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die barocke Fassade des Rathauses, dem Zentrum des Stadtlebens.",
+            "hu": "Csodálja meg a városháza barokk homlokzatát, a városi élet központját.",
+            "ro": "Admirați fațada barocă a primăriei, centrul vieții orașului.",
+            "en": "Admire the baroque facade of the Town Hall, the center of town life."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche Maria Himmelfahrt",
+            "hu": "Mária Mennybemenetele plébániatemplom",
+            "ro": "Biserica parohială Adormirea Maicii Domnului",
+            "en": "Parish Church of the Assumption"
+          },
+          "coords": [
+            15.2821,
+            48.8192
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf das beeindruckende gotische Gewölbe im Inneren.",
+            "hu": "Figyelje meg a lenyűgöző gótikus boltozatot a templom belsejében.",
+            "ro": "Observați impresionanta boltă gotică din interior.",
+            "en": "Look for the impressive Gothic vaulting inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Waidhofen",
+            "hu": "Waidhofeni kastély",
+            "ro": "Castelul Waidhofen",
+            "en": "Waidhofen Castle"
+          },
+          "coords": [
+            15.2805,
+            48.8205
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:25",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Schloss beherbergt oft Kunstausstellungen. Prüfen Sie den aktuellen Spielplan.",
+            "hu": "A kastély gyakran ad otthont művészeti kiállításoknak. Ellenőrizze az aktuális programot.",
+            "ro": "Castelul găzduiește adesea expoziții de artă. Verificați programul actual.",
+            "en": "The castle often hosts art exhibitions. Check the current schedule."
+          }
+        },
+        {
+          "name": {
+            "de": "Abschnitt der Stadtmauer",
+            "hu": "Városfal egy szakasza",
+            "ro": "Secțiune a zidului orașului",
+            "en": "Section of the Town Wall"
+          },
+          "coords": [
+            15.279,
+            48.8195
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:40",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang entlang der erhaltenen Mauern gibt ein Gefühl für die mittelalterliche Stadt.",
+            "hu": "Egy rövid séta a megmaradt falak mentén érzékelteti a középkori város hangulatát.",
+            "ro": "O scurtă plimbare de-a lungul zidurilor păstrate vă dă o idee despre orașul medieval.",
+            "en": "A short walk along the preserved walls gives a feel for the medieval town."
+          }
+        },
+        {
+          "name": {
+            "de": "Bürgerspitalskirche",
+            "hu": "Polgári kórháztemplom",
+            "ro": "Biserica spitalului civic",
+            "en": "Civic Hospital Church"
+          },
+          "coords": [
+            15.2835,
+            48.8175
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eine kleinere, aber sehr charmante Kirche mit einer ruhigen Atmosphäre.",
+            "hu": "Kisebb, de nagyon bájos templom, csendes légkörrel.",
+            "ro": "O biserică mai mică, dar foarte fermecătoare, cu o atmosferă liniștită.",
+            "en": "A smaller but very charming church with a quiet atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Thayapark",
+            "hu": "Thaya park",
+            "ro": "Parcul Thaya",
+            "en": "Thaya Park"
+          },
+          "coords": [
+            15.29,
+            48.822
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ideal für eine Mittagspause. Bringen Sie ein Picknick mit oder besuchen Sie ein lokales Café in der Nähe.",
+            "hu": "Ideális egy ebédszünetre. Hozzon magával piknikkosarat, vagy látogasson el egy közeli kávézóba.",
+            "ro": "Ideal pentru o pauză de prânz. Aduceți un picnic sau vizitați o cafenea locală din apropiere.",
+            "en": "Ideal for a lunch break. Bring a picnic or visit a local cafe nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Waldrapp-Voliere",
+            "hu": "Tarvarjú-röpde",
+            "ro": "Voliera Ibisului Calv",
+            "en": "Northern Bald Ibis Aviary"
+          },
+          "coords": [
+            15.2915,
+            48.823
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eine einzigartige Gelegenheit, diese seltenen Vögel aus der Nähe zu sehen. Fernglas mitbringen!",
+            "hu": "Egyedülálló lehetőség, hogy közelről láthassa ezeket a ritka madarakat. Hozzon távcsövet!",
+            "ro": "O oportunitate unică de a vedea aceste păsări rare de aproape. Aduceți binoclu!",
+            "en": "A unique opportunity to see these rare birds up close. Bring binoculars!"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am belebten Hauptplatz, wo Sie das Rathaus und die Mariensäule bewundern. Am Vormittag erkunden Sie das geistliche und historische Herz der Stadt, von der großen Stadtpfarrkirche bis zum imposanten Schloss Waidhofen. Der Mittag führt Sie entlang der alten Stadtmauern zur ruhigeren Bürgerspitalskirche. Am Nachmittag entfliehen Sie in die Natur, genießen einen ausgedehnten Spaziergang zum Thayapark für eine Mittagspause und beobachten anschließend die faszinierenden Waldrappe in ihrer Voliere. Der Abend klingt in einem traditionellen Heurigen aus.",
+        "hu": "A nap a nyüzsgő főtéren kezdődik, ahol megcsodálhatja a Városházát és a Mária-oszlopot. Délelőtt a város spirituális és történelmi szívét fedezi fel, a nagy plébániatemplomtól a lenyűgöző Waidhofeni kastélyig. Délben a régi városfalak mentén a csendesebb Polgári kórháztemplomhoz sétál. Délután a természetbe menekül, egy kiadós sétát tesz a Thaya parkba egy ebédszünetre, majd megfigyeli a lenyűgöző tarvarjakat a röpdéjükben. Az estét egy hagyományos heurigerben zárja.",
+        "ro": "Ziua începe în piața principală plină de viață, admirând Primăria și Coloana Mariană. Dimineața explorați inima spirituală și istorică a orașului, de la marea Biserică Parohială la impunătorul Castel Waidhofen. La prânz, vă plimbați de-a lungul zidurilor vechi ale orașului spre mai liniștita Biserică a Spitalului Civic. După-amiaza evadați în natură, bucurându-vă de o plimbare extinsă spre Parcul Thaya pentru o pauză de prânz, urmată de observarea fascinanților ibiși cheli în voliera lor. Seara se încheie la o tavernă tradițională Heuriger.",
+        "en": "Your day starts in the bustling main square, admiring the Town Hall and Marian Column. The morning is for exploring the town's spiritual and historical heart, from the grand Parish Church to the imposing Waidhofen Castle. Midday takes you along the old town walls to the quieter Civic Hospital Church. In the afternoon, you escape into nature, enjoying an extended walk to Thaya Park for a lunch break, followed by observing the fascinating Northern Bald Ibises in their aviary. The evening concludes at a traditional Heuriger wine tavern."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Waldviertler Karpfen",
+            "tip": "Probieren Sie den lokalen Karpfen, eine Spezialität der Region, in einem der Gasthäuser."
+          },
+          {
+            "name": "Mohnzelten",
+            "tip": "Ein süßes Gebäck mit Mohnfüllung, perfekt für eine Kaffeepause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Waldvierteli ponty",
+            "tip": "Kóstolja meg a helyi pontyot, a régió specialitását, az egyik vendéglőben."
+          },
+          {
+            "name": "Mohnzelten (mákos sütemény)",
+            "tip": "Édes sütemény máktöltelékkel, tökéletes egy kávészünethez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crap de Waldviertel",
+            "tip": "Încercați crapul local, o specialitate a regiunii, la unul dintre hanuri."
+          },
+          {
+            "name": "Mohnzelten",
+            "tip": "O prăjitură dulce cu umplutură de mac, perfectă pentru o pauză de cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Waldviertel Carp",
+            "tip": "Try the local carp, a specialty of the region, in one of the inns."
+          },
+          {
+            "name": "Mohnzelten",
+            "tip": "A sweet pastry with a poppy seed filling, perfect for a coffee break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Thaya",
+            "tip": "Finden Sie eine ruhige Bank am Flussufer im Thayapark.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bürgerspitalskirche",
+            "tip": "Ein Moment der Stille in dieser weniger besuchten Kirche.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Thaya folyó partja",
+            "tip": "Keressen egy csendes padot a folyóparton a Thaya parkban.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Polgári kórháztemplom",
+            "tip": "Egy csendes pillanat ebben a kevésbé látogatott templomban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Thaya",
+            "tip": "Găsiți o bancă liniștită pe malul râului în Parcul Thaya.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Biserica spitalului civic",
+            "tip": "Un moment de liniște în această biserică mai puțin vizitată.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Thaya River",
+            "tip": "Find a quiet bench on the riverbank in Thaya Park.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Civic Hospital Church",
+            "tip": "A moment of quiet in this less-visited church.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerksprodukte",
+            "tip": "Suchen Sie nach handgefertigten Waren aus dem Waldviertel in kleinen Geschäften rund um den Hauptplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen Waldviertelből származó kézműves termékeket a főtér körüli kis üzletekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse artizanale locale",
+            "tip": "Căutați produse artizanale din Waldviertel în magazinele mici din jurul pieței principale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Crafts",
+            "tip": "Look for handmade goods from the Waldviertel region in small shops around the main square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Planen Sie genügend Zeit für den Thayapark ein; es ist ein schöner Ort zum Entspannen.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind leicht zu Fuß erreichbar."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros macskakövei egyenetlenek lehetnek.",
+          "Szánjon elegendő időt a Thaya parkra; ez egy gyönyörű hely a pihenésre.",
+          "A városközpont legtöbb látnivalója könnyen megközelíthető gyalog."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din orașul vechi poate fi denivelat.",
+          "Alocați suficient timp pentru Parcul Thaya; este un loc minunat pentru relaxare.",
+          "Majoritatea atracțiilor din centrul orașului sunt ușor accesibile pe jos."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Allow plenty of time for Thaya Park; it's a beautiful spot to relax.",
+          "Most sights in the town center are within easy walking distance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:22",
+      "total_km": 10.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus und Hauptplatz",
+            "hu": "Városháza és főtér",
+            "ro": "Primăria și Piața Principală",
+            "en": "Town Hall and Main Square"
+          },
+          "coords": [
+            15.281,
+            48.8188
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und erkunden Sie den Platz zu Fuß.",
+            "hu": "Zárja le a kerékpárját, és fedezze fel a teret gyalog.",
+            "ro": "Încuiați-vă bicicleta și explorați piața pe jos.",
+            "en": "Lock up your bike and explore the square on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Waidhofen",
+            "hu": "Waidhofeni kastély",
+            "ro": "Castelul Waidhofen",
+            "en": "Waidhofen Castle"
+          },
+          "coords": [
+            15.2805,
+            48.8205
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:34",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der kurze Anstieg zum Schloss ist die Aussicht wert.",
+            "hu": "A kastélyhoz vezető rövid emelkedő megéri a kilátásért.",
+            "ro": "Scurta urcare la castel merită priveliștea.",
+            "en": "The short climb up to the castle is worth the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Thayapark",
+            "hu": "Thaya park",
+            "ro": "Parcul Thaya",
+            "en": "Thaya Park"
+          },
+          "coords": [
+            15.29,
+            48.822
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekt für eine Radpause am Flussufer.",
+            "hu": "Tökéletes egy kerékpáros pihenőre a folyóparton.",
+            "ro": "Perfect pentru o pauză de ciclism pe malul râului.",
+            "en": "Perfect for a cycling break by the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Waldrapp-Voliere",
+            "hu": "Tarvarjú-röpde",
+            "ro": "Voliera Ibisului Calv",
+            "en": "Northern Bald Ibis Aviary"
+          },
+          "coords": [
+            15.2915,
+            48.823
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radfahren Sie langsam an der Voliere vorbei, um die Vögel nicht zu stören.",
+            "hu": "Lassan kerékpározzon el a röpde mellett, hogy ne zavarja a madarakat.",
+            "ro": "Pedalați încet pe lângă volieră pentru a nu deranja păsările.",
+            "en": "Cycle slowly past the aviary so as not to disturb the birds."
+          }
+        },
+        {
+          "name": {
+            "de": "Entlang des Thayaradwegs",
+            "hu": "A Thaya kerékpárút mentén",
+            "ro": "De-a lungul pistei de biciclete Thaya",
+            "en": "Along the Thaya Cycle Path"
+          },
+          "coords": [
+            15.26,
+            48.815
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie eine malerische Fahrt aus der Stadt heraus und wieder zurück.",
+            "hu": "Élvezze a festői utat a városból ki és vissza.",
+            "ro": "Bucurați-vă de o plimbare pitorească în afara orașului și înapoi.",
+            "en": "Enjoy a scenic ride out of town and back."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche und Altstadt",
+            "hu": "Plébániatemplom és óváros",
+            "ro": "Biserica Parohială și Centrul Vechi",
+            "en": "Parish Church and Old Town"
+          },
+          "coords": [
+            15.2821,
+            48.8192
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:18",
+          "stay_min": 34,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem letzten Blick auf das gotische Meisterwerk der Stadt.",
+            "hu": "Fejezze be a túrát egy utolsó pillantással a város gótikus remekművére.",
+            "ro": "Încheiați-vă turul cu o ultimă privire la capodopera gotică a orașului.",
+            "en": "End your tour with a final look at the town's Gothic masterpiece."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Hauptplatz, bevor Sie zum Schloss Waidhofen hinaufstrampeln. Am Vormittag folgen Sie dem Fluss zum weitläufigen Thayapark und besuchen die einzigartige Waldrapp-Voliere, ein Muss für Naturliebhaber. Nach dem Mittagessen unternehmen Sie eine längere Fahrt auf dem malerischen Thayaradweg, um die ländliche Umgebung zu genießen. Am späten Nachmittag kehren Sie ins Stadtzentrum zurück, um die beeindruckende Stadtpfarrkirche zu besichtigen und den Tag ausklingen zu lassen.",
+        "hu": "Kezdje a kerékpártúrát a főtérről, mielőtt feltekerne a Waidhofeni kastélyhoz. Délelőtt kövesse a folyót a tágas Thaya parkig, és látogassa meg az egyedülálló Tarvarjú-röpdét, amely a természetkedvelők számára kötelező. Ebéd után tegyen egy hosszabb utat a festői Thaya kerékpárúton, hogy élvezze a vidéki környezetet. Késő délután térjen vissza a városközpontba, hogy megnézze a lenyűgöző plébániatemplomot, és lezárja a napot.",
+        "ro": "Începeți turul cu bicicleta din piața principală înainte de a urca la Castelul Waidhofen. Dimineața, urmați râul spre vastul Parc Thaya și vizitați unica Volieră a Ibisului Calv, o necesitate pentru iubitorii de natură. După prânz, faceți o plimbare mai lungă pe pitoreasca pistă de biciclete Thaya pentru a vă bucura de peisajul rural. Spre seară, reveniți în centrul orașului pentru a admira impresionanta Biserică Parohială și a încheia ziua.",
+        "en": "Start your bike tour from the main square before pedaling up to Waidhofen Castle. In the morning, follow the river to the expansive Thaya Park and visit the unique Northern Bald Ibis Aviary, a must for nature lovers. After lunch, take a longer ride on the scenic Thaya Cycle Path to enjoy the rural surroundings. In the late afternoon, return to the town center to admire the impressive Parish Church and round off your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Heuriger",
+            "tip": "Einige Heurige außerhalb der Stadt sind gut mit dem Fahrrad erreichbar und bieten lokale Weine und Speisen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heuriger (borozó)",
+            "tip": "Néhány városon kívüli heuriger jól megközelíthető kerékpárral, és helyi borokat és ételeket kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Heuriger",
+            "tip": "Unele taverne de vin din afara orașului sunt ușor accesibile cu bicicleta și oferă vinuri și mâncăruri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Heuriger (Wine Tavern)",
+            "tip": "Some wine taverns outside the town are easily reachable by bike and offer local wines and food."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Thayaradweg",
+            "tip": "Die Abschnitte des Radwegs außerhalb der Stadt sind sehr friedlich.",
+            "emoji": "🚲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Thaya kerékpárút",
+            "tip": "A kerékpárút városon kívüli szakaszai nagyon békések.",
+            "emoji": "🚲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete Thaya",
+            "tip": "Secțiunile pistei de biciclete din afara orașului sunt foarte pașnice.",
+            "emoji": "🚲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Thaya Cycle Path",
+            "tip": "The sections of the cycle path outside of town are very peaceful.",
+            "emoji": "🚲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bauernmarkt",
+            "tip": "Wenn Sie an einem Markttag dort sind, können Sie lokale Produkte für ein Picknick kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői piac",
+            "tip": "Ha piacnapon van ott, vásárolhat helyi termékeket egy piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața fermierilor",
+            "tip": "Dacă sunteți acolo într-o zi de piață, puteți cumpăra produse locale pentru un picnic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farmers' Market",
+            "tip": "If you are there on a market day, you can buy local produce for a picnic."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Zustand Ihres Fahrrads, bevor Sie losfahren, insbesondere für längere Strecken auf dem Thayaradweg.",
+          "Einige Teile der Altstadt haben Kopfsteinpflaster, fahren Sie dort vorsichtig.",
+          "Nehmen Sie ausreichend Wasser mit, besonders für die Fahrt am Nachmittag."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze kerékpárja állapotát, különösen a Thaya kerékpárúton tett hosszabb utak előtt.",
+          "Az óváros egyes részein macskakő van, ott óvatosan közlekedjen.",
+          "Vigyen magával elegendő vizet, különösen a délutáni útra."
+        ],
+        "ro": [
+          "Verificați starea bicicletei înainte de a porni, mai ales pentru porțiunile mai lungi de pe pista de biciclete Thaya.",
+          "Unele părți ale orașului vechi au pavaj, conduceți cu atenție acolo.",
+          "Luați suficientă apă, mai ales pentru plimbarea de după-amiază."
+        ],
+        "en": [
+          "Check your bike's condition before you set off, especially for the longer stretches on the Thaya Cycle Path.",
+          "Some parts of the old town have cobblestones, ride carefully there.",
+          "Bring plenty of water, especially for the afternoon ride."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum",
+            "hu": "Parkoló a központban",
+            "ro": "Parcare centrală",
+            "en": "Central Parking"
+          },
+          "coords": [
+            15.284,
+            48.818
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie den historischen Kern zu Fuß.",
+            "hu": "Parkoljon itt, és fedezze fel a történelmi központot gyalog.",
+            "ro": "Parcați aici și explorați centrul istoric pe jos.",
+            "en": "Park here and explore the historic core on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Stadtpfarrkirche",
+            "hu": "Városháza és plébániatemplom",
+            "ro": "Primăria și Biserica Parohială",
+            "en": "Town Hall & Parish Church"
+          },
+          "coords": [
+            15.2815,
+            48.819
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden Hauptsehenswürdigkeiten liegen direkt nebeneinander.",
+            "hu": "Ez a két fő látnivaló közvetlenül egymás mellett található.",
+            "ro": "Aceste două atracții principale sunt situate chiar una lângă alta.",
+            "en": "These two main sights are located right next to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Waidhofen",
+            "hu": "Waidhofeni kastély",
+            "ro": "Castelul Waidhofen",
+            "en": "Waidhofen Castle"
+          },
+          "coords": [
+            15.2805,
+            48.8205
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:25",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz zum Schloss.",
+            "hu": "Rövid séta a főtértől a kastélyig.",
+            "ro": "O scurtă plimbare de la piața principală la castel.",
+            "en": "A short walk from the main square to the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauer & Bürgerspitalskirche",
+            "hu": "Városfal és Polgári kórháztemplom",
+            "ro": "Zidul orașului și Biserica spitalului",
+            "en": "Town Wall & Civic Hospital Church"
+          },
+          "coords": [
+            15.283,
+            48.818
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die Reste der Befestigungsanlagen auf dem Rückweg zu Ihrem Auto.",
+            "hu": "Fedezze fel az erődítmények maradványait a visszaúton az autójához.",
+            "ro": "Explorați rămășițele fortificațiilor în drumul înapoi la mașină.",
+            "en": "Explore the remnants of the fortifications on your way back to your car."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Thayapark",
+            "hu": "Thayapark parkoló",
+            "ro": "Parcare Parc Thaya",
+            "en": "Thayapark Parking"
+          },
+          "coords": [
+            15.289,
+            48.8215
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Park und genießen Sie eine ausgedehnte Mittagspause im Grünen.",
+            "hu": "Vezessen a parkba, és élvezze a hosszú ebédszünetet a zöldben.",
+            "ro": "Conduceți până la parc și bucurați-vă de o pauză de prânz prelungită în natură.",
+            "en": "Drive to the park and enjoy an extended lunch break in the greenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Waldrapp-Voliere",
+            "hu": "Tarvarjú-röpde",
+            "ro": "Voliera Ibisului Calv",
+            "en": "Northern Bald Ibis Aviary"
+          },
+          "coords": [
+            15.2915,
+            48.823
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:25",
+          "stay_min": 85,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum nahe gelegenen Parkplatz der Voliere, um diese seltenen Vögel zu sehen.",
+            "hu": "Vezessen a röpde közeli parkolójába, hogy megnézze ezeket a ritka madarakat.",
+            "ro": "Conduceți până la parcarea din apropierea volierei pentru a vedea aceste păsări rare.",
+            "en": "Drive to the nearby parking for the aviary to see these rare birds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt, indem Sie Ihr Auto im Zentrum parken. Der gesamte Vormittag ist der fußläufigen Erkundung des historischen Kerns gewidmet: Vom Hauptplatz mit Rathaus und Kirche über das majestätische Schloss bis hin zu den alten Stadtmauern. Gegen Mittag holen Sie Ihr Auto für eine kurze Fahrt zum Thayapark. Dort verbringen Sie eine entspannte Mittagspause. Am Nachmittag fahren Sie weiter zur nahegelegenen Waldrapp-Voliere, um diese einzigartigen Vögel zu beobachten, bevor Sie Ihre Erkundung von Waidhofen abschließen.",
+        "hu": "A nap azzal kezdődik, hogy leparkolja az autóját a központban. Az egész délelőttöt a történelmi központ gyalogos felfedezésének szenteli: a főtértől a városházával és a templommal, a fenséges kastélyon át a régi városfalakig. Dél körül autóba ül, és egy rövid útra a Thaya parkba hajt. Ott egy pihentető ebédszünetet tölt. Délután továbbhajt a közeli Tarvarjú-röpdéhez, hogy megfigyelje ezeket az egyedülálló madarakat, mielőtt befejezné Waidhofen felfedezését.",
+        "ro": "Ziua începe prin parcarea mașinii în centru. Întreaga dimineață este dedicată explorării pe jos a nucleului istoric: de la piața principală cu primăria și biserica, la castelul maiestuos și zidurile vechi ale orașului. În jurul prânzului, luați mașina pentru o scurtă călătorie spre Parcul Thaya. Acolo petreceți o pauză de prânz relaxantă. După-amiaza, continuați spre voliera din apropiere pentru a observa aceste păsări unice, înainte de a încheia explorarea Waidhofen.",
+        "en": "Your day begins by parking your car in the center. The entire morning is dedicated to exploring the historic core on foot: from the main square with its town hall and church, to the majestic castle and the old town walls. Around noon, you'll retrieve your car for a short drive to Thaya Park. There, you'll spend a relaxing lunch break. In the afternoon, you drive on to the nearby Northern Bald Ibis Aviary to observe these unique birds before concluding your exploration of Waidhofen."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gasthof zum Goldenen Lamm",
+            "tip": "Ein traditionelles Restaurant im Zentrum, das für seine gute Waldviertler Küche bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gasthof zum Goldenen Lamm",
+            "tip": "Hagyományos étterem a központban, amely a jó Waldvierteli konyhájáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gasthof zum Goldenen Lamm",
+            "tip": "Un restaurant tradițional în centru, cunoscut pentru bucătăria sa bună din Waldviertel."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gasthof zum Goldenen Lamm",
+            "tip": "A traditional restaurant in the center known for its good Waldviertel cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Fluss",
+            "tip": "Nach dem Parken am Thayapark ist ein Spaziergang entlang des Flusses eine friedliche Aktivität.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a folyóparton",
+            "tip": "Miután leparkolt a Thaya parknál, egy séta a folyó mentén békés tevékenység.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe râu",
+            "tip": "După parcarea la Parcul Thaya, o plimbare de-a lungul râului este o activitate pașnică.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "River Walk",
+            "tip": "After parking at Thaya Park, a walk along the river is a peaceful activity.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mohn-Shop",
+            "tip": "Suchen Sie nach einem Geschäft, das Mohnprodukte verkauft, eine lokale Spezialität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mákbolt",
+            "tip": "Keressen egy boltot, amely máktermékeket, egy helyi specialitást árul."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de mac",
+            "tip": "Căutați un magazin care vinde produse din mac, o specialitate locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Poppy Seed Shop",
+            "tip": "Look for a shop selling poppy seed products, a local specialty."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkgebühren und -zeiten, um Strafzettel zu vermeiden.",
+          "Das Auto ist nützlich, um zwischen dem Stadtzentrum und den weiter entfernten Naturattraktionen zu wechseln.",
+          "Waidhofen ist klein, sodass die Fahrzeiten kurz sind."
+        ],
+        "hu": [
+          "Ellenőrizze a parkolási díjakat és időket a bírságok elkerülése érdekében.",
+          "Az autó hasznos a városközpont és a távolabbi természeti látnivalók közötti közlekedéshez.",
+          "Waidhofen kicsi, így a vezetési idők rövidek."
+        ],
+        "ro": [
+          "Verificați taxele și orele de parcare pentru a evita amenzile.",
+          "Mașina este utilă pentru a comuta între centrul orașului și atracțiile naturale mai îndepărtate.",
+          "Waidhofen este mic, așa că timpii de condus sunt scurți."
+        ],
+        "en": [
+          "Check parking fees and times to avoid tickets.",
+          "The car is useful for switching between the town center and the more distant nature attractions.",
+          "Waidhofen is small, so driving times are short."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof Zentrum",
+            "hu": "Érkezés a központi buszmegállóba",
+            "ro": "Sosire la stația de autobuz din centru",
+            "en": "Arrival at Central Bus Stop"
+          },
+          "coords": [
+            15.283,
+            48.818
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Erkundung von dieser zentralen Haltestelle aus.",
+            "hu": "Kezdje a felfedezést ettől a központi megállótól.",
+            "ro": "Începeți explorarea de la această stație centrală.",
+            "en": "Start your exploration from this central stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus, Stadtpfarrkirche & Schloss",
+            "hu": "Városháza, plébániatemplom és kastély",
+            "ro": "Primăria, Biserica Parohială și Castelul",
+            "en": "Town Hall, Parish Church & Castle"
+          },
+          "coords": [
+            15.281,
+            48.8195
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:21",
+          "stay_min": 150,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses Cluster der wichtigsten historischen Stätten der Stadt zu Fuß.",
+            "hu": "Fedezze fel gyalog a város legfontosabb történelmi helyszíneinek ezt a csoportját.",
+            "ro": "Explorați pe jos acest grup de cele mai importante situri istorice ale orașului.",
+            "en": "Explore this cluster of the town's main historic sites on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Thayapark",
+            "hu": "Buszozás a Thaya parkba",
+            "ro": "Călătorie cu autobuzul spre Parcul Thaya",
+            "en": "Bus Ride to Thaya Park"
+          },
+          "coords": [
+            15.289,
+            48.8215
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus für die kurze Fahrt zum Park.",
+            "hu": "Vegyen egy helyi buszt a rövid útra a parkba.",
+            "ro": "Luați un autobuz local pentru scurta călătorie spre parc.",
+            "en": "Take a local bus for the short trip to the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Waldrapp-Voliere",
+            "hu": "Tarvarjú-röpde",
+            "ro": "Voliera Ibisului Calv",
+            "en": "Northern Bald Ibis Aviary"
+          },
+          "coords": [
+            15.2915,
+            48.823
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:56",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Park zur Voliere.",
+            "hu": "Rövid séta a parktól a röpdéig.",
+            "ro": "O scurtă plimbare de la parc la volieră.",
+            "en": "A short walk from the park to the aviary."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt ins Zentrum",
+            "hu": "Vissza a központba",
+            "ro": "Întoarcere în centru",
+            "en": "Return to the Center"
+          },
+          "coords": [
+            15.283,
+            48.818
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:44",
+          "stay_min": 30,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück, um den Rest des Nachmittags im Stadtzentrum zu verbringen.",
+            "hu": "Menjen vissza busszal, hogy a délután hátralévő részét a városközpontban töltse.",
+            "ro": "Luați autobuzul înapoi pentru a petrece restul după-amiezii în centrul orașului.",
+            "en": "Take the bus back to spend the rest of the afternoon in the town center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt an einer zentralen Bushaltestelle. Von hier aus erkunden Sie am Vormittag das historische Herz von Waidhofen zu Fuß, einschließlich Rathaus, Kirche und Schloss. Gegen Mittag bringt Sie ein lokaler Bus in den grünen Thayapark, wo Sie eine Pause einlegen. Ein kurzer Spaziergang führt Sie weiter zur Waldrapp-Voliere. Am Nachmittag fahren Sie mit dem Bus zurück ins Zentrum, um vielleicht noch ein Café zu besuchen oder durch die Geschäfte zu bummeln, bevor Sie Ihre Reise beenden.",
+        "hu": "A nap egy központi buszmegállóban kezdődik. Innen délelőtt gyalog fedezi fel Waidhofen történelmi szívét, beleértve a városházát, a templomot és a kastélyt. Dél körül egy helyi busz elviszi a zöld Thaya parkba, ahol szünetet tart. Egy rövid séta elvezeti a Tarvarjú-röpdéhez. Délután busszal tér vissza a központba, hogy esetleg meglátogasson egy kávézót vagy böngésszen az üzletekben, mielőtt befejezné az utazást.",
+        "ro": "Ziua începe la o stație centrală de autobuz. De aici, explorați dimineața pe jos inima istorică a Waidhofen, incluzând primăria, biserica și castelul. În jurul prânzului, un autobuz local vă duce în Parcul Thaya, unde faceți o pauză. O scurtă plimbare vă duce mai departe la Voliera Ibisului Calv. După-amiaza, luați autobuzul înapoi în centru pentru a vizita poate o cafenea sau pentru a răsfoi magazinele înainte de a vă încheia călătoria.",
+        "en": "Your day starts at a central bus stop. From here, you'll spend the morning exploring Waidhofen's historic heart on foot, including the town hall, church, and castle. Around midday, a local bus takes you to the green Thaya Park for a break. A short walk leads you further to the Northern Bald Ibis Aviary. In the afternoon, you'll take the bus back to the center, perhaps to visit a café or browse the shops before ending your trip."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konditorei",
+            "tip": "Besuchen Sie eine der Konditoreien im Zentrum für Kaffee und Kuchen nach Ihrer Rückkehr aus dem Park."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cukrászda",
+            "tip": "Látogasson el az egyik cukrászdába a központban egy kávéra és süteményre, miután visszatért a parkból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cofetărie",
+            "tip": "Vizitați una dintre cofetăriile din centru pentru o cafea și o prăjitură după întoarcerea din parc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pastry Shop (Konditorei)",
+            "tip": "Visit one of the pastry shops in the center for coffee and cake after returning from the park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ein Platz in der Kirche",
+            "tip": "Die Stadtpfarrkirche bietet einen ruhigen Rückzugsort vom Trubel des Hauptplatzes.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy hely a templomban",
+            "tip": "A plébániatemplom csendes menedéket nyújt a főtér nyüzsgésétől.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Un loc în biserică",
+            "tip": "Biserica parohială oferă un refugiu liniștit de agitația din piața principală.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "A Seat in the Church",
+            "tip": "The parish church offers a quiet retreat from the bustle of the main square.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Buchhandlung",
+            "tip": "Stöbern Sie in einer lokalen Buchhandlung nach Büchern über die Region Waldviertel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Könyvesbolt",
+            "tip": "Böngésszen egy helyi könyvesboltban a Waldviertel régióról szóló könyvek között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Librărie",
+            "tip": "Răsfoiți într-o librărie locală cărți despre regiunea Waldviertel."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bookstore",
+            "tip": "Browse a local bookstore for books about the Waldviertel region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich im Voraus über den Busfahrplan, da die Busse in kleineren Städten möglicherweise nicht so häufig fahren.",
+          "Ein Tagesticket ist wahrscheinlich die kostengünstigste Option.",
+          "Behalten Sie die Zeit im Auge, um den letzten Bus zurück ins Zentrum nicht zu verpassen."
+        ],
+        "hu": [
+          "Tájékozódjon előre a buszmenetrendről, mivel a kisebb városokban a buszok ritkábban közlekedhetnek.",
+          "Egy napijegy valószínűleg a legköltséghatékonyabb megoldás.",
+          "Tartsa szemmel az időt, hogy ne késsen le az utolsó buszról vissza a központba."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor în avans, deoarece autobuzele din orașele mai mici pot circula mai rar.",
+          "Un bilet de o zi este probabil cea mai rentabilă opțiune.",
+          "Fiți atenți la timp pentru a nu pierde ultimul autobuz înapoi spre centru."
+        ],
+        "en": [
+          "Check the bus schedule in advance, as buses in smaller towns may run infrequently.",
+          "A day ticket is likely the most cost-effective option.",
+          "Keep an eye on the time to not miss the last bus back to the center."
+        ]
+      }
+    }
+  }
+}

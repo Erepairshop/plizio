@@ -1,0 +1,1435 @@
+{
+  "city_id": "denmark-lemvig-cities-v2",
+  "anchor": {
+    "name": "Lemvig",
+    "coords": [
+      8.31,
+      56.54
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche von Lemvig",
+            "hu": "Lemvigi templom",
+            "ro": "Biserica din Lemvig",
+            "en": "Lemvig Church"
+          },
+          "coords": [
+            8.309,
+            56.548
+          ],
+          "category": "churches",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Achten Sie auf das detailreiche Votivschiff, das von der Decke hängt.",
+            "hu": "Figyeld meg a mennyezetről lógó, részletesen kidolgozott fogadalmi hajómodellt.",
+            "ro": "Observați nava votivă detaliată care atârnă de tavan.",
+            "en": "Look for the detailed votive ship hanging from the ceiling."
+          }
+        },
+        {
+          "name": {
+            "de": "Lemvig Museum",
+            "hu": "Lemvig Múzeum",
+            "ro": "Muzeul Lemvig",
+            "en": "Lemvig Museum"
+          },
+          "coords": [
+            8.311,
+            56.549
+          ],
+          "category": "museums",
+          "arrive_at": "09:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die Ausstellung über den Dichter Thøger Larsen ist besonders aufschlussreich.",
+            "hu": "A Thøger Larsen költőről szóló kiállítás különösen informatív.",
+            "ro": "Expoziția despre poetul Thøger Larsen este deosebit de edificatoare.",
+            "en": "The exhibition on the poet Thøger Larsen is particularly insightful."
+          }
+        },
+        {
+          "name": {
+            "de": "Skulpturstien",
+            "hu": "Szoborösvény",
+            "ro": "Potecă cu sculpturi",
+            "en": "The Sculpture Path"
+          },
+          "coords": [
+            8.312,
+            56.545
+          ],
+          "category": "monuments",
+          "arrive_at": "11:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein entspannter Spaziergang, der Kunst und die Natur des Fjords verbindet.",
+            "hu": "Egy pihentető séta, amely összeköti a művészetet a fjord természetével.",
+            "ro": "O plimbare relaxantă care combină arta cu natura fiordului.",
+            "en": "A relaxing walk combining art with the nature of the fjord."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Hafen",
+            "hu": "Ebédszünet a kikötőben",
+            "ro": "Pauză de prânz în port",
+            "en": "Lunch Break at the Harbour"
+          },
+          "coords": [
+            8.314,
+            56.55
+          ],
+          "category": "gastro",
+          "arrive_at": "12:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie frischen Fisch in einem der Restaurants mit Blick auf die Boote.",
+            "hu": "Kóstolj friss halat az egyik étteremben, kilátással a hajókra.",
+            "ro": "Încercați pește proaspăt la unul dintre restaurantele cu vedere la bărci.",
+            "en": "Try some fresh fish at one of the restaurants overlooking the boats."
+          }
+        },
+        {
+          "name": {
+            "de": "Museet for Religiøs Kunst",
+            "hu": "Egyházművészeti Múzeum",
+            "ro": "Muzeul de Artă Religioasă",
+            "en": "Museum of Religious Art"
+          },
+          "coords": [
+            8.315,
+            56.551
+          ],
+          "category": "museums",
+          "arrive_at": "13:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die moderne Architektur des Museums ist genauso beeindruckend wie die Kunst darin.",
+            "hu": "A múzeum modern építészete ugyanolyan lenyűgöző, mint a benne lévő műalkotások.",
+            "ro": "Arhitectura modernă a muzeului este la fel de impresionantă ca și arta din interior.",
+            "en": "The museum's modern architecture is as impressive as the art inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Planetstien (Start)",
+            "hu": "Bolygóösvény (Kezdete)",
+            "ro": "Poteca Planetelor (Început)",
+            "en": "The Planet Path (Start)"
+          },
+          "coords": [
+            8.286,
+            56.553
+          ],
+          "category": "parks",
+          "arrive_at": "16:21",
+          "stay_min": 55,
+          "hop_from_prev_min": 48,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Gehen Sie bis zum Merkur und genießen Sie die Aussicht zurück auf die Stadt.",
+            "hu": "Sétálj el a Merkúrig, és élvezd a városra nyíló kilátást.",
+            "ro": "Mergeți până la planeta Mercur și bucurați-vă de priveliștea spre oraș.",
+            "en": "Walk as far as Mercury and enjoy the view back towards the town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Herzen von Lemvig mit einem Besuch der alten Kirche und des Stadtmuseums. Spüren Sie die Geschichte, während Sie durch die charmanten Straßen schlendern. Der Mittag bringt Sie zum lebhaften Hafen, wo frische Meeresfrüchte und der Blick auf den Fjord auf Sie warten. Es ist der perfekte Ort, um neue Energie zu tanken. Am Nachmittag tauchen Sie in die Kunst ein, sowohl in der modernen Galerie für religiöse Kunst als auch unter freiem Himmel auf dem Skulpturen- und Planetenpfad. Der Abend dämmert mit einem ruhigen Spaziergang am Wasser, bei dem Sie die friedliche dänische Küstenatmosphäre in sich aufnehmen und über die Entdeckungen des Tages nachdenken können.",
+        "hu": "Kezdje a napot Lemvig történelmi szívében, látogasson el a régi templomba és a városi múzeumba. Érezze a történelem lüktetését a bájos utcákon sétálva. A dél a nyüzsgő kikötőbe vezeti, ahol friss tengeri ételek és a fjordra nyíló kilátás várja. Tökéletes hely a feltöltődésre. Délután merüljön el a művészetben az Egyházművészeti Múzeum modern galériájában és a szabadban, a Szobor- és Bolygóösvényen. Az este egy csendes vízparti sétával köszönt be, ahol magába szívhatja a békés dán tengerparti hangulatot, és elmerenghet a nap felfedezésein.",
+        "ro": "Începeți ziua în inima istorică a orașului Lemvig cu o vizită la biserica veche și la muzeul orașului. Simțiți istoria în timp ce vă plimbați pe străzile fermecătoare. Amiaza vă aduce în portul plin de viață, unde vă așteaptă fructe de mare proaspete și priveliștea fiordului. Este locul perfect pentru a vă reîncărca bateriile. După-amiaza, scufundați-vă în artă, atât la galeria modernă de artă religioasă, cât și în aer liber, pe Poteca Sculpturilor și Poteca Planetelor. Seara se lasă cu o plimbare liniștită pe malul apei, absorbind atmosfera pașnică a coastei daneze și reflectând asupra descoperirilor zilei.",
+        "en": "Start your day in the historic heart of Lemvig with a visit to the old church and the town museum. Feel the history as you wander the charming streets. Midday brings you to the lively harbour, where fresh seafood and fjord views await. It's the perfect spot to recharge. In the afternoon, immerse yourself in art, both at the modern Museum of Religious Art and outdoors on the Sculpture and Planet Paths. The evening descends with a quiet walk along the waterfront, soaking in the peaceful Danish coastal atmosphere and reflecting on the day's discoveries."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frischer Limfjord-Fisch",
+            "tip": "Probieren Sie Scholle oder Hering im Restaurant Luna am Hafen."
+          },
+          {
+            "name": "Stjerneskud",
+            "tip": "Ein klassisches dänisches 'Shooting Star'-Sandwich mit Fischfilets und Garnelen."
+          },
+          {
+            "name": "Smørrebrød",
+            "tip": "Suchen Sie eine Bäckerei für ein authentisches dänisches Mittagessen zum Mitnehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Friss Limfjord-halkülönlegességek",
+            "tip": "Kóstold meg a lepényhalat vagy a heringet a kikötői Luna étteremben."
+          },
+          {
+            "name": "Stjerneskud",
+            "tip": "Klasszikus dán 'hullócsillag' szendvics, halfilével és garnélával."
+          },
+          {
+            "name": "Smørrebrød",
+            "tip": "Keress egy pékséget egy autentikus dán ebédért, amit magaddal vihetsz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește proaspăt din Limfjord",
+            "tip": "Încercați cambula sau heringul la Restaurant Luna, lângă port."
+          },
+          {
+            "name": "Stjerneskud",
+            "tip": "Un sandviș clasic danez 'stea căzătoare' cu file de pește și creveți."
+          },
+          {
+            "name": "Smørrebrød",
+            "tip": "Căutați o brutărie pentru un prânz danez autentic la pachet."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fresh Limfjord Fish",
+            "tip": "Try the plaice or herring at Restaurant Luna by the harbour."
+          },
+          {
+            "name": "Stjerneskud",
+            "tip": "A classic Danish 'shooting star' sandwich with fish fillets and shrimp."
+          },
+          {
+            "name": "Smørrebrød",
+            "tip": "Find a local bakery for an authentic Danish takeaway lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bank am Ende des Skulpturstien",
+            "tip": "Ein ruhiger Ort, um auf den Fjord zu blicken.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Museet for Religiøs Kunst",
+            "tip": "Die minimalistische Kapelle im Inneren ist ein Ort der Stille.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Abendspaziergang am Hafen",
+            "tip": "Beobachten Sie, wie die Lichter der Stadt im Wasser tanzen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pad a Szoborösvény végén",
+            "tip": "Csendes hely, ahonnan a fjordra lehet nézni.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Egyházművészeti Múzeum",
+            "tip": "A múzeum belsejében található minimalista kápolna a csend helye.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Esti séta a kikötőben",
+            "tip": "Nézd, ahogy a város fényei táncolnak a vízen.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Banca de la capătul Potecii Sculpturilor",
+            "tip": "Un loc liniștit pentru a privi spre fiord.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Muzeul de Artă Religioasă",
+            "tip": "Capela minimalistă din interior este un loc de reculegere.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare de seară în port",
+            "tip": "Priviți luminile orașului dansând pe apă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bench at the end of the Sculpture Path",
+            "tip": "A quiet spot to gaze out over the fjord.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Museum of Religious Art",
+            "tip": "The minimalist chapel inside is a place of silence.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Evening walk at the harbour",
+            "tip": "Watch the town's lights dance on the water.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Keramik",
+            "tip": "Halten Sie Ausschau nach kleinen Kunsthandwerksläden in den Seitenstraßen."
+          },
+          {
+            "name": "Dänische Delikatessen",
+            "tip": "Kaufen Sie Lakritze oder lokale Marmeladen in einem Supermarkt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerámiák",
+            "tip": "Keress kézműves boltokat a mellékutcákban."
+          },
+          {
+            "name": "Dán finomságok",
+            "tip": "Vásárolj medvecukrot vagy helyi lekvárokat egy szupermarketben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică locală",
+            "tip": "Căutați mici magazine de artizanat pe străzile lăturalnice."
+          },
+          {
+            "name": "Delicatese daneze",
+            "tip": "Cumpărați lemn dulce sau gemuri locale dintr-un supermarket."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Ceramics",
+            "tip": "Look for small artisan shops in the side streets."
+          },
+          {
+            "name": "Danish Delicacies",
+            "tip": "Pick up some licorice or local jams from a supermarket."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum hügelig ist.",
+          "Das Wetter kann sich schnell ändern, eine winddichte Jacke ist immer eine gute Idee.",
+          "Die meisten Geschäfte schließen früh, planen Sie also Einkäufe für den Nachmittag ein.",
+          "Prüfen Sie die Öffnungszeiten der Museen, da diese saisonal variieren können."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, mivel a városközpont dombos.",
+          "Az időjárás gyorsan változhat, egy szélálló dzseki mindig jó ötlet.",
+          "A legtöbb üzlet korán bezár, ezért a vásárlást a délutánra időzítsd.",
+          "Ellenőrizd a múzeumok nyitvatartási idejét, mert az szezonálisan változhat."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul orașului este deluros.",
+          "Vremea se poate schimba rapid, o geacă rezistentă la vânt este întotdeauna o idee bună.",
+          "Majoritatea magazinelor închid devreme, așa că planificați cumpărăturile pentru după-amiază.",
+          "Verificați orele de deschidere ale muzeelor, deoarece acestea pot varia în funcție de sezon."
+        ],
+        "en": [
+          "Wear comfortable shoes as the town center is hilly.",
+          "The weather can change quickly, a windproof jacket is always a good idea.",
+          "Most shops close early, so plan any shopping for the afternoon.",
+          "Check museum opening hours as they can vary seasonally."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:41",
+      "total_km": 15.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Start am Hafen",
+            "hu": "Indulás a kikötőből",
+            "ro": "Pornire din port",
+            "en": "Start at the Harbour"
+          },
+          "coords": [
+            8.314,
+            56.55
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Mieten Sie ein Fahrrad und genießen Sie die Morgenbrise am Fjord.",
+            "hu": "Bérelj biciklit, és élvezd a reggeli szellőt a fjord partján.",
+            "ro": "Închiriați o bicicletă și bucurați-vă de briza dimineții lângă fiord.",
+            "en": "Rent a bike and enjoy the morning breeze by the fjord."
+          }
+        },
+        {
+          "name": {
+            "de": "Museet for Religiøs Kunst",
+            "hu": "Egyházművészeti Múzeum",
+            "ro": "Muzeul de Artă Religioasă",
+            "en": "Museum of Religious Art"
+          },
+          "coords": [
+            8.315,
+            56.551
+          ],
+          "category": "museums",
+          "arrive_at": "09:37",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein Muss für Kunst- und Architekturliebhaber, direkt am Wasser gelegen.",
+            "hu": "Kötelező darab a művészet és építészet szerelmeseinek, közvetlenül a vízparton.",
+            "ro": "O vizită obligatorie pentru iubitorii de artă și arhitectură, situat chiar pe malul apei.",
+            "en": "A must-see for art and architecture lovers, located right on the waterfront."
+          }
+        },
+        {
+          "name": {
+            "de": "Gjellerodde Strand",
+            "hu": "Gjellerodde strand",
+            "ro": "Plaja Gjellerodde",
+            "en": "Gjellerodde Beach"
+          },
+          "coords": [
+            8.3,
+            56.57
+          ],
+          "category": "beaches",
+          "arrive_at": "11:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein schöner flacher Strand, ideal für ein Picknick-Mittagessen und einen Spaziergang.",
+            "hu": "Szép, lassan mélyülő strand, ideális egy piknik ebédhez és egy sétához.",
+            "ro": "O plajă frumoasă, cu apă mică, perfectă pentru un prânz la picnic și o plimbare.",
+            "en": "A lovely shallow beach, perfect for a picnic lunch and a walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Planetstien (entlang der Küste)",
+            "hu": "Bolygóösvény (a part mentén)",
+            "ro": "Poteca Planetelor (de-a lungul coastei)",
+            "en": "The Planet Path (along the coast)"
+          },
+          "coords": [
+            8.286,
+            56.553
+          ],
+          "category": "parks",
+          "arrive_at": "13:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Folgen Sie dem Pfad zurück in Richtung Stadt. Wie viele Planeten können Sie entdecken?",
+            "hu": "Kövesd az ösvényt vissza a város felé. Hány bolygót találsz meg?",
+            "ro": "Urmați poteca înapoi spre oraș. Câte planete puteți observa?",
+            "en": "Follow the path back towards the town. How many planets can you spot?"
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Lemvig",
+            "hu": "Lemvigi templom",
+            "ro": "Biserica din Lemvig",
+            "en": "Lemvig Church"
+          },
+          "coords": [
+            8.309,
+            56.548
+          ],
+          "category": "churches",
+          "arrive_at": "15:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie das historische Zentrum der Stadt, um Ihre Radtour abzuschließen.",
+            "hu": "Látogass el a város történelmi központjába, hogy lezárd a biciklitúrát.",
+            "ro": "Vizitați centrul istoric al orașului pentru a încheia turul cu bicicleta.",
+            "en": "Visit the town's historic center to conclude your bike tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaffee und Kuchen",
+            "hu": "Kávé és sütemény",
+            "ro": "Cafea și prăjitură",
+            "en": "Coffee and Cake"
+          },
+          "coords": [
+            8.31,
+            56.547
+          ],
+          "category": "gastro",
+          "arrive_at": "16:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Belohnen Sie sich in einer der örtlichen Bäckereien mit einem wohlverdienten Leckerbissen.",
+            "hu": "Jutalmazd meg magad egy jól megérdemelt finomsággal az egyik helyi pékségben.",
+            "ro": "Recompensați-vă cu un deliciu binemeritat la una dintre brutăriile locale.",
+            "en": "Reward yourself with a well-deserved treat at one of the local bakeries."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich am Hafen von Lemvig aufs Rad und beginnen Sie den Tag mit einer frischen Fjordbrise. Die erste Etappe führt Sie zum eleganten Museum für Religiöse Kunst, ein Highlight direkt am Wasser. Danach geht es nach Norden zum weiten Gjellerodde Strand. Hier haben Sie Zeit für ein ausgiebiges Mittagessen am Strand und können die entspannte Küstenatmosphäre genießen. Am Nachmittag radeln Sie auf dem einzigartigen Planetenpfad zurück in Richtung Stadt und entdecken dabei das Sonnensystem im Kleinformat. Beenden Sie Ihre Tour im historischen Zentrum, wo die alte Kirche und eine wohlverdiente Kaffeepause auf Sie warten.",
+        "hu": "Pattanj biciklire Lemvig kikötőjében, és kezdd a napot a fjord friss szellőjével. Az első szakasz az elegáns Egyházművészeti Múzeumhoz vezet, amely egy vízparti fénypont. Ezután észak felé veszed az irányt a tágas Gjellerodde strandra. Itt bőven lesz időd egy kiadós tengerparti ebédre és a pihentető tengerparti hangulat élvezetére. Délután az egyedülálló Bolygóösvényen tekersz vissza a város felé, felfedezve a Naprendszert kicsiben. Fejezd be a túrát a történelmi központban, ahol a régi templom és egy jól megérdemelt kávészünet vár.",
+        "ro": "Urcați-vă pe bicicletă în portul Lemvig și începeți ziua cu o briză proaspătă de fiord. Prima etapă vă duce la elegantul Muzeu de Artă Religioasă, un punct de atracție chiar pe malul apei. Apoi, vă îndreptați spre nord, către întinsa plajă Gjellerodde. Aici aveți timp pentru un prânz relaxat pe plajă și pentru a vă bucura de atmosfera relaxantă de coastă. După-amiaza, pedalați înapoi spre oraș pe unica Potecă a Planetelor, descoperind sistemul solar în miniatură. Încheiați turul în centrul istoric, unde vă așteaptă biserica veche și o pauză de cafea binemeritată.",
+        "en": "Hop on your bike at Lemvig harbour and start the day with a fresh fjord breeze. The first leg takes you to the elegant Museum of Religious Art, a waterside highlight. Afterwards, you'll head north to the expansive Gjellerodde Beach. Here you'll have time for a leisurely beachside lunch and to enjoy the relaxed coastal atmosphere. In the afternoon, you'll cycle back towards town along the unique Planet Path, discovering the solar system in miniature. Finish your tour in the historic centre, where the old church and a well-deserved coffee break await."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fiskefrikadeller",
+            "tip": "Dänische Fischfrikadellen, perfekt für ein Picknick am Strand."
+          },
+          {
+            "name": "Røget sild",
+            "tip": "Geräucherter Hering, eine lokale Spezialität. Suchen Sie nach einem 'Røgeri' (Räucherei)."
+          },
+          {
+            "name": "Wienerbrød",
+            "tip": "Das berühmte dänische Gebäck, ideal für eine Kaffeepause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fiskefrikadeller",
+            "tip": "Dán halfasírt, tökéletes egy tengerparti piknikhez."
+          },
+          {
+            "name": "Røget sild",
+            "tip": "Füstölt hering, helyi specialitás. Keress egy 'Røgeri'-t (füstölőt)."
+          },
+          {
+            "name": "Wienerbrød",
+            "tip": "A híres dán péksütemény, ideális egy kávészünethez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fiskefrikadeller",
+            "tip": "Chiftele de pește daneze, perfecte pentru un picnic pe plajă."
+          },
+          {
+            "name": "Røget sild",
+            "tip": "Hering afumat, o specialitate locală. Căutați un 'Røgeri' (afumătorie)."
+          },
+          {
+            "name": "Wienerbrød",
+            "tip": "Celebrul produs de patiserie danez, ideal pentru o pauză de cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fiskefrikadeller",
+            "tip": "Danish fish cakes, perfect for a picnic on the beach."
+          },
+          {
+            "name": "Røget sild",
+            "tip": "Smoked herring, a local specialty. Look for a 'Røgeri' (smokehouse)."
+          },
+          {
+            "name": "Wienerbrød",
+            "tip": "The famous Danish pastry, ideal for a coffee break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gjellerodde Strand",
+            "tip": "Gehen Sie abseits der Hauptbadebereiche für etwas Ruhe und Frieden.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussicht vom Planetstien",
+            "tip": "Halten Sie an und genießen Sie den weiten Blick über den Limfjord.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hügel hinter der Kirche",
+            "tip": "Ein ruhiger, erhöhter Aussichtspunkt über die Dächer der Stadt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gjellerodde strand",
+            "tip": "A csend és nyugalom érdekében menj távolabb a fő fürdőhelyektől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a Bolygóösvényről",
+            "tip": "Állj meg, és élvezd a Limfjordra nyíló széles kilátást.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Domb a templom mögött",
+            "tip": "Csendes, emelt kilátópont a város háztetői felett.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Gjellerodde",
+            "tip": "Îndepărtați-vă de zonele principale de înot pentru liniște și pace.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Priveliștea de pe Poteca Planetelor",
+            "tip": "Opriți-vă și admirați priveliștea panoramică asupra Limfjordului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Dealul din spatele bisericii",
+            "tip": "Un punct de belvedere liniștit, ridicat, deasupra acoperișurilor orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gjellerodde Beach",
+            "tip": "Walk away from the main swimming areas for some peace and quiet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from the Planet Path",
+            "tip": "Stop and take in the wide views over the Limfjord.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hill behind the church",
+            "tip": "A quiet, elevated viewpoint over the town's rooftops.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradzubehör",
+            "tip": "Die örtlichen Fahrradläden haben oft einzigartige dänische Marken."
+          },
+          {
+            "name": "Bernstein",
+            "tip": "Halten Sie an der Küste Ausschau nach Bernstein ('das Gold des Nordens')."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpár-kiegészítők",
+            "tip": "A helyi kerékpárboltok gyakran tartanak egyedi dán márkákat."
+          },
+          {
+            "name": "Borostyán",
+            "tip": "A tengerparton keresd a borostyánt ('az észak aranyát')."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Accesorii pentru biciclete",
+            "tip": "Magazinele locale de biciclete au adesea mărci daneze unice."
+          },
+          {
+            "name": "Chihlimbar",
+            "tip": "Pe coastă, căutați chihlimbar ('aurul nordului')."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike accessories",
+            "tip": "The local bike shops often have unique Danish brands."
+          },
+          {
+            "name": "Amber",
+            "tip": "Keep an eye out for amber ('the gold of the north') on the coastline."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Wind, bevor Sie losfahren; Gegenwind am Fjord kann anstrengend sein.",
+          "Nehmen Sie Wasser und Snacks mit, besonders für die Fahrt zum Strand.",
+          "Ein Helm wird empfohlen, ist aber in Dänemark für Erwachsene nicht gesetzlich vorgeschrieben.",
+          "Schließen Sie Ihr Fahrrad immer ab, auch für kurze Stopps."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizd a szelet; a szembeszél a fjord mentén kimerítő lehet.",
+          "Vigyél magaddal vizet és rágcsálnivalót, különösen a strandra vezető útra.",
+          "A sisak ajánlott, de Dániában felnőttek számára nem kötelező.",
+          "Mindig zárd le a biciklidet, még rövid megállókra is."
+        ],
+        "ro": [
+          "Verificați vântul înainte de a porni; vântul frontal de-a lungul fiordului poate fi obositor.",
+          "Luați apă și gustări, mai ales pentru drumul spre plajă.",
+          "Casca este recomandată, dar nu este obligatorie prin lege pentru adulți în Danemarca.",
+          "Încuietăți întotdeauna bicicleta, chiar și pentru opriri scurte."
+        ],
+        "en": [
+          "Check the wind before you set off; a headwind along the fjord can be tough.",
+          "Bring water and snacks, especially for the ride to the beach.",
+          "A helmet is recommended but not legally required for adults in Denmark.",
+          "Always lock your bike, even for short stops."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:28",
+      "total_km": 42.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bovbjerg Fyr",
+            "hu": "Bovbjerg világítótorony",
+            "ro": "Farul Bovbjerg",
+            "en": "Bovbjerg Lighthouse"
+          },
+          "coords": [
+            8.12,
+            56.51
+          ],
+          "category": "lighthouses",
+          "arrive_at": "09:43",
+          "stay_min": 60,
+          "hop_from_prev_min": 43,
+          "hop_from_prev_km": 20.0,
+          "tip_5lang": {
+            "de": "Steigen Sie auf den roten Leuchtturm und genießen Sie die atemberaubende Aussicht auf die Nordsee.",
+            "hu": "Mássz fel a piros világítótoronyba, és élvezd a lélegzetelállító kilátást az Északi-tengerre.",
+            "ro": "Urcați în farul roșu pentru priveliști uimitoare ale Mării Nordului.",
+            "en": "Climb the red lighthouse for stunning views of the North Sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang Klippenrand bei Tørringhuse",
+            "hu": "Sziklaszéli séta Tørringhuse-nál",
+            "ro": "Plimbare pe faleza de lângă Tørringhuse",
+            "en": "Cliff Edge Walk near Tørringhuse"
+          },
+          "coords": [
+            8.15,
+            56.5
+          ],
+          "category": "historical",
+          "arrive_at": "10:48",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Leuchtturm entfernt. Sehen Sie die Überreste der alten Befestigungsanlagen.",
+            "hu": "Egy rövid séta a világítótoronytól. Nézd meg a régi erődítmények maradványait.",
+            "ro": "O scurtă plimbare de la far. Vedeți rămășițele vechilor fortificații.",
+            "en": "A short walk from the lighthouse. See the remains of old fortifications."
+          }
+        },
+        {
+          "name": {
+            "de": "Gjellerodde Strand",
+            "hu": "Gjellerodde strand",
+            "ro": "Plaja Gjellerodde",
+            "en": "Gjellerodde Beach"
+          },
+          "coords": [
+            8.3,
+            56.57
+          ],
+          "category": "beaches",
+          "arrive_at": "12:13",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 18.0,
+          "tip_5lang": {
+            "de": "Zeit für ein Mittagessen am Fjord. Das Restaurant Gjellerodde hat eine tolle Aussicht.",
+            "hu": "Itt az ebédidő a fjord partján. A Gjellerodde étteremből remek a kilátás.",
+            "ro": "Timpul pentru prânz pe malul fiordului. Restaurantul Gjellerodde are o priveliște minunată.",
+            "en": "Time for lunch by the fjord. The restaurant at Gjellerodde has great views."
+          }
+        },
+        {
+          "name": {
+            "de": "Ankunft in Lemvig Zentrum",
+            "hu": "Érkezés Lemvig központjába",
+            "ro": "Sosire în centrul Lemvig",
+            "en": "Arrive in Lemvig Center"
+          },
+          "coords": [
+            8.308,
+            56.548
+          ],
+          "category": "landmark",
+          "arrive_at": "14:22",
+          "stay_min": 15,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto in der Nähe der Kirche und erkunden Sie den Rest der Stadt zu Fuß.",
+            "hu": "Parkolj le a templom közelében, és fedezd fel a város többi részét gyalog.",
+            "ro": "Parcați mașina lângă biserică și explorați restul orașului pe jos.",
+            "en": "Park your car near the church and explore the rest of town on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Lemvig",
+            "hu": "Lemvigi templom",
+            "ro": "Biserica din Lemvig",
+            "en": "Lemvig Church"
+          },
+          "coords": [
+            8.309,
+            56.548
+          ],
+          "category": "churches",
+          "arrive_at": "14:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das Herz der Stadt, ein schönes Beispiel dänischer Kirchenarchitektur.",
+            "hu": "A város szíve, a dán egyházi építészet szép példája.",
+            "ro": "Inima orașului, un exemplu frumos de arhitectură bisericească daneză.",
+            "en": "The heart of the town, a fine example of Danish church architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Lemvig Museum",
+            "hu": "Lemvig Múzeum",
+            "ro": "Muzeul Lemvig",
+            "en": "Lemvig Museum"
+          },
+          "coords": [
+            8.311,
+            56.549
+          ],
+          "category": "museums",
+          "arrive_at": "15:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die lokale Geschichte, die eng mit dem Meer verbunden ist.",
+            "hu": "Tudj meg többet a helyi történelemről, amely szorosan kötődik a tengerhez.",
+            "ro": "Aflați mai multe despre istoria locală, strâns legată de mare.",
+            "en": "Learn about the local history, which is deeply connected to the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen am Hafen",
+            "hu": "Vacsora a kikötőben",
+            "ro": "Cină în port",
+            "en": "Dinner at the Harbour"
+          },
+          "coords": [
+            8.314,
+            56.55
+          ],
+          "category": "gastro",
+          "arrive_at": "16:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem köstlichen Essen und Blick auf den Fjord.",
+            "hu": "Zárd a napot egy finom vacsorával, kilátással a fjordra.",
+            "ro": "Încheiați ziua cu o masă delicioasă cu vedere la fiord.",
+            "en": "End the day with a delicious meal overlooking the fjord."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt dramatisch an der Nordseeküste beim leuchtend roten Bovbjerg Fyr. Nach dem Aufstieg und einem Spaziergang entlang der Klippen fahren Sie landeinwärts. Zur Mittagszeit erreichen Sie den ruhigeren Limfjord am Gjellerodde Strand. Genießen Sie ein Mittagessen mit Aussicht, bevor Sie die kurze Strecke ins Zentrum von Lemvig fahren. Am Nachmittag erkunden Sie zu Fuß das historische Herz der Stadt. Sie parken Ihr Auto und entdecken die alte Kirche und das Stadtmuseum, die nur wenige Schritte voneinander entfernt sind. Der Tag endet dort, wo das Land auf den Fjord trifft – mit einem entspannten Abendessen in einem der Hafenrestaurants, während Sie die Erlebnisse zwischen der rauen Nordsee und dem sanften Fjord Revue passieren lassen.",
+        "hu": "Autós napja drámaian kezdődik az Északi-tenger partján, a ragyogó piros Bovbjerg Fyr-nél. A csúcs megmászása és egy sziklaszirten tett séta után a szárazföld belseje felé veszi az irányt. Ebédidőben éri el a nyugodtabb Limfjordot a Gjellerodde strandnál. Élvezzen egy ebédet a kilátással, mielőtt a rövid úton Lemvig központjába hajt. Délután gyalogosan fedezi fel a város történelmi szívét. Leállítja az autót, és felfedezi a régi templomot és a városi múzeumot, amelyek csak néhány lépésre vannak egymástól. A nap ott ér véget, ahol a szárazföld és a fjord találkozik – egy pihentető vacsorával az egyik kikötői étteremben, miközben felidézi az élményeket a zord Északi-tenger és a szelíd fjord között.",
+        "ro": "Ziua dumneavoastră cu mașina începe dramatic pe coasta Mării Nordului, la farul roșu aprins Bovbjerg Fyr. După urcare și o plimbare pe faleză, vă îndreptați spre interior. La prânz, ajungeți la mai liniștitul Limfjord, la plaja Gjellerodde. Savurați un prânz cu priveliște înainte de a parcurge scurta distanță până în centrul orașului Lemvig. După-amiaza, explorați pe jos inima istorică a orașului. Parcați mașina și descoperiți biserica veche și muzeul orașului, la doar câțiva pași unul de celălalt. Ziua se încheie acolo unde uscatul întâlnește fiordul - cu o cină relaxantă la unul dintre restaurantele din port, rememorând experiențele dintre aspra Mare a Nordului și blândul fiord.",
+        "en": "Your car day begins dramatically on the North Sea coast at the bright red Bovbjerg Lighthouse. After climbing the tower and taking a walk along the cliffs, you drive inland. At midday, you reach the calmer Limfjord at Gjellerodde Beach. Enjoy lunch with a view before making the short drive to the center of Lemvig. In the afternoon, you explore the historic heart of the town on foot. Park your car and discover the old church and the town museum, just a few steps apart. The day concludes where the land meets the fjord—with a relaxing dinner at one of the harbour restaurants, reflecting on the experiences between the rugged North Sea and the gentle fjord."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Limfjord-Austern",
+            "tip": "Wenn die Saison ist, eine wahre Delikatesse. Fragen Sie in den Restaurants danach."
+          },
+          {
+            "name": "Fiskebord",
+            "tip": "Ein 'Fischtisch' oder Buffet mit verschiedenen Arten von Fisch und Meeresfrüchten."
+          },
+          {
+            "name": "Æblekage",
+            "tip": "Traditioneller dänischer Apfelkuchen, oft mit Schlagsahne serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Limfjord-osztriga",
+            "tip": "Ha szezonja van, igazi csemege. Kérdezd az éttermekben."
+          },
+          {
+            "name": "Fiskebord",
+            "tip": "'Hal-asztal' vagy svédasztal különféle halakkal és tenger gyümölcseivel."
+          },
+          {
+            "name": "Æblekage",
+            "tip": "Hagyományos dán almás sütemény, gyakran tejszínhabbal tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stridii din Limfjord",
+            "tip": "Dacă este sezon, o adevărată delicatesă. Întrebați la restaurante."
+          },
+          {
+            "name": "Fiskebord",
+            "tip": "O 'masă de pește' sau un bufet cu diverse tipuri de pește și fructe de mare."
+          },
+          {
+            "name": "Æblekage",
+            "tip": "Prăjitură tradițională daneză cu mere, adesea servită cu frișcă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Limfjord Oysters",
+            "tip": "If in season, a true delicacy. Ask for them at the restaurants."
+          },
+          {
+            "name": "Fiskebord",
+            "tip": "A 'fish table' or buffet with various types of fish and seafood."
+          },
+          {
+            "name": "Æblekage",
+            "tip": "Traditional Danish apple cake, often served with whipped cream."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spitze des Bovbjerg Fyr",
+            "tip": "An einem klaren Tag können Sie meilenweit sehen und nur den Wind hören.",
+            "emoji": "🌬️"
+          },
+          {
+            "name": "Tørringhuse Bunker",
+            "tip": "Ein nachdenklich stimmender Ort mit Blick auf die Geschichte und das Meer.",
+            "emoji": "🤔"
+          },
+          {
+            "name": "Sonnenuntergang am Gjellerodde Strand",
+            "tip": "Ein perfekter, ruhiger Abschluss für den Küstenteil Ihres Tages.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Bovbjerg világítótorony teteje",
+            "tip": "Tiszta napon mérföldekre elláthatsz, és csak a szelet hallod.",
+            "emoji": "🌬️"
+          },
+          {
+            "name": "Tørringhuse bunker",
+            "tip": "Elgondolkodtató hely, kilátással a történelemre és a tengerre.",
+            "emoji": "🤔"
+          },
+          {
+            "name": "Naplemente a Gjellerodde strandon",
+            "tip": "Tökéletes, csendes lezárása a nap tengerparti részének.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful farului Bovbjerg",
+            "tip": "Într-o zi senină, poți vedea pe kilometri întregi și auzi doar vântul.",
+            "emoji": "🌬️"
+          },
+          {
+            "name": "Buncărul Tørringhuse",
+            "tip": "Un loc de reflecție, cu vedere la istorie și la mare.",
+            "emoji": "🤔"
+          },
+          {
+            "name": "Apus de soare la plaja Gjellerodde",
+            "tip": "Un final perfect și liniștit pentru partea de coastă a zilei.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Top of Bovbjerg Lighthouse",
+            "tip": "On a clear day, you can see for miles and hear only the wind.",
+            "emoji": "🌬️"
+          },
+          {
+            "name": "Tørringhuse Bunkers",
+            "tip": "A thought-provoking spot overlooking history and the sea.",
+            "emoji": "🤔"
+          },
+          {
+            "name": "Sunset at Gjellerodde Beach",
+            "tip": "A perfect, quiet end to the coastal part of your day.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Leuchtturm-Souvenirs",
+            "tip": "Der kleine Laden am Bovbjerg Fyr verkauft einzigartige Andenken."
+          },
+          {
+            "name": "Hofläden",
+            "tip": "Halten Sie auf dem Land Ausschau nach 'Gårdbutik'-Schildern für frische Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Világítótorony-szuvenírek",
+            "tip": "A Bovbjerg Fyr kis boltjában egyedi emléktárgyakat árulnak."
+          },
+          {
+            "name": "Tanyasi boltok",
+            "tip": "Vidéken figyeld a 'Gårdbutik' táblákat, ha friss terméket keresel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri de la far",
+            "tip": "Micul magazin de la Farul Bovbjerg vinde suveniruri unice."
+          },
+          {
+            "name": "Magazine la fermă",
+            "tip": "În mediul rural, căutați semnele 'Gårdbutik' pentru produse proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lighthouse souvenirs",
+            "tip": "The small shop at Bovbjerg Lighthouse sells unique keepsakes."
+          },
+          {
+            "name": "Farm shops",
+            "tip": "In the countryside, look for 'Gårdbutik' signs for fresh produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tanken Sie, bevor Sie die Küste erkunden, da Tankstellen dort rar sind.",
+          "Parkgebühren können an Touristenattraktionen wie dem Leuchtturm anfallen.",
+          "Planen Sie zusätzliche Zeit für unvorhergesehene Stopps an malerischen Aussichtspunkten ein.",
+          "Achten Sie auf Radfahrer auf den Landstraßen."
+        ],
+        "hu": [
+          "Tankolj, mielőtt felfedeznéd a partvidéket, mivel ott kevés a benzinkút.",
+          "Parkolási díjak merülhetnek fel a turisztikai látványosságoknál, mint például a világítótoronynál.",
+          "Tervezz plusz időt a festői kilátópontoknál történő váratlan megállásokra.",
+          "Vigyázz a kerékpárosokra a vidéki utakon."
+        ],
+        "ro": [
+          "Alimentați înainte de a explora coasta, deoarece benzinăriile sunt rare acolo.",
+          "Se pot aplica taxe de parcare la atracțiile turistice precum farul.",
+          "Planificați timp suplimentar pentru opriri neprevăzute la puncte de belvedere pitorești.",
+          "Fiți atenți la bicicliști pe drumurile de țară."
+        ],
+        "en": [
+          "Get gas before exploring the coast, as gas stations are scarce there.",
+          "Parking fees may apply at tourist spots like the lighthouse.",
+          "Allow extra time for unplanned stops at scenic viewpoints.",
+          "Be mindful of cyclists on the country roads."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof Lemvig",
+            "hu": "Érkezés a Lemvig vasútállomásra",
+            "ro": "Sosire la Gara Lemvig",
+            "en": "Arrival at Lemvig Station"
+          },
+          "coords": [
+            8.306,
+            56.546
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Orientieren Sie sich und besorgen Sie sich einen Fahrplan für die lokalen Busse.",
+            "hu": "Tájékozódj és szerezz be egy helyi buszmenetrendet.",
+            "ro": "Orientați-vă și obțineți un orar pentru autobuzele locale.",
+            "en": "Get your bearings and grab a timetable for the local buses."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Hafen",
+            "hu": "Buszozás a kikötőbe",
+            "ro": "Călătorie cu autobuzul spre port",
+            "en": "Bus ride to the Harbour"
+          },
+          "coords": [
+            8.314,
+            56.55
+          ],
+          "category": "transit",
+          "arrive_at": "09:37",
+          "stay_min": 10,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Die erste Fahrt des Tages bringt Sie direkt ans Wasser.",
+            "hu": "A nap első útja közvetlenül a vízpartra visz.",
+            "ro": "Prima călătorie a zilei vă duce direct la malul apei.",
+            "en": "The first ride of the day takes you right to the waterfront."
+          }
+        },
+        {
+          "name": {
+            "de": "Museet for Religiøs Kunst",
+            "hu": "Egyházművészeti Múzeum",
+            "ro": "Muzeul de Artă Religioasă",
+            "en": "Museum of Religious Art"
+          },
+          "coords": [
+            8.315,
+            56.551
+          ],
+          "category": "museums",
+          "arrive_at": "09:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Erkundung mit diesem architektonischen Juwel.",
+            "hu": "Kezdje a felfedezést ezzel az építészeti gyöngyszemmel.",
+            "ro": "Începeți explorarea cu această bijuterie arhitecturală.",
+            "en": "Start your exploration with this architectural gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Spaziergang am Hafen",
+            "hu": "Ebéd és séta a kikötőben",
+            "ro": "Prânz și plimbare în port",
+            "en": "Lunch and Walk at the Harbour"
+          },
+          "coords": [
+            8.313,
+            56.549
+          ],
+          "category": "gastro",
+          "arrive_at": "11:34",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die Atmosphäre und ein gutes Essen, bevor Sie ins Stadtzentrum gehen.",
+            "hu": "Élvezd a hangulatot és egy jó ebédet, mielőtt a központba mennél.",
+            "ro": "Bucurați-vă de atmosferă și de o masă bună înainte de a merge în centrul orașului.",
+            "en": "Enjoy the atmosphere and a good meal before walking to the town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Lemvig & Lemvig Museum",
+            "hu": "Lemvigi templom és Lemvig Múzeum",
+            "ro": "Biserica Lemvig și Muzeul Lemvig",
+            "en": "Lemvig Church & Lemvig Museum"
+          },
+          "coords": [
+            8.309,
+            56.548
+          ],
+          "category": "historical",
+          "arrive_at": "13:16",
+          "stay_min": 120,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die beiden Hauptsehenswürdigkeiten des Zentrums in Ihrem eigenen Tempo.",
+            "hu": "Fedezd fel a központ két fő látnivalóját a saját tempódban.",
+            "ro": "Explorați cele două atracții principale din centru în ritmul dumneavoastră.",
+            "en": "Explore the two main sights of the center at your own pace."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zurück zum Bahnhof",
+            "hu": "Buszozás vissza az állomásra",
+            "ro": "Călătorie cu autobuzul înapoi la gară",
+            "en": "Bus ride back to the station"
+          },
+          "coords": [
+            8.306,
+            56.546
+          ],
+          "category": "transit",
+          "arrive_at": "16:04",
+          "stay_min": 20,
+          "hop_from_prev_min": 48,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus von einer Haltestelle in der Nähe des Zentrums für Ihre Rückfahrt.",
+            "hu": "A visszautazáshoz szállj fel a buszra a központhoz közeli megállóban.",
+            "ro": "Luați autobuzul de la o stație din apropierea centrului pentru călătoria de întoarcere.",
+            "en": "Catch the bus from a stop near the center for your return journey."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt entspannt am Bahnhof von Lemvig. Ein kurzer Bus-Hop bringt Sie direkt zum Hafen, dem perfekten Ausgangspunkt. Von dort aus ist es nur ein kurzer Spaziergang zum beeindruckenden Museum für Religiöse Kunst. Der Vormittag gehört der modernen Kunst und Architektur. Zur Mittagszeit kehren Sie zum Hafen zurück, um die maritime Atmosphäre und ein leckeres Essen zu genießen. Nach dem Mittagessen schlendern Sie zu Fuß ins historische Zentrum. Hier widmen Sie den Nachmittag der Erkundung der alten Kirche und des benachbarten Lemvig Museums. Am späten Nachmittag bringt Sie ein Bus bequem zurück zum Bahnhof, voller Eindrücke von einem Tag, der Kunst, Geschichte und Fjord-Flair mühelos miteinander verbunden hat.",
+        "hu": "Tömegközlekedéssel töltött napja nyugodtan kezdődik a Lemvig vasútállomáson. Egy rövid buszozás egyenesen a kikötőbe visz, ami tökéletes kiindulópont. Innen csak egy rövid séta a lenyűgöző Egyházművészeti Múzeum. A délelőtt a modern művészeté és építészeté. Ebédidőben visszatér a kikötőbe, hogy élvezze a tengeri hangulatot és egy finom ebédet. Ebéd után besétál a történelmi központba. Itt a délutánt a régi templom és a szomszédos Lemvig Múzeum felfedezésének szenteli. Késő délután egy busz kényelmesen visszavisz az állomásra, tele élményekkel egy olyan nap után, amely könnyedén ötvözte a művészetet, a történelmet és a fjord hangulatát.",
+        "ro": "Ziua dumneavoastră cu transportul public începe relaxat la gara din Lemvig. O scurtă călătorie cu autobuzul vă duce direct în port, punctul de plecare perfect. De acolo, este doar o scurtă plimbare până la impresionantul Muzeu de Artă Religioasă. Dimineața este dedicată artei și arhitecturii moderne. La prânz, vă întoarceți în port pentru a vă bucura de atmosfera maritimă și de o masă gustoasă. După prânz, vă plimbați pe jos până în centrul istoric. Aici vă dedicați după-amiaza explorării bisericii vechi și a Muzeului Lemvig adiacent. Spre seară, un autobuz vă duce confortabil înapoi la gară, plin de impresiile unei zile care a combinat fără efort arta, istoria și farmecul fiordului.",
+        "en": "Your day on public transport begins relaxed at Lemvig station. A short bus hop takes you straight to the harbour, the perfect starting point. From there, it's a brief walk to the impressive Museum of Religious Art. The morning is dedicated to modern art and architecture. At lunchtime, you return to the harbour to enjoy the maritime atmosphere and a tasty meal. After lunch, you stroll into the historic centre on foot. Here, you dedicate the afternoon to exploring the old church and the neighbouring Lemvig Museum. In the late afternoon, a bus comfortably takes you back to the station, full of impressions from a day that effortlessly combined art, history, and fjord flair."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frikadeller Sandwich",
+            "tip": "Ein herzhaftes Sandwich mit dänischen Fleischbällchen, ideal für unterwegs."
+          },
+          {
+            "name": "Softeis",
+            "tip": "Ein klassischer dänischer Genuss, besonders an einem sonnigen Tag am Hafen."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Fragen Sie in den Bars nach Bieren von Kleinbrauereien aus der Region Midtjylland."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Frikadeller szendvics",
+            "tip": "Kiadós szendvics dán húsgombóccal, ideális útközben."
+          },
+          {
+            "name": "Lágyfagylalt",
+            "tip": "Klasszikus dán finomság, különösen egy napsütéses napon a kikötőben."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Kérj a bárokban Midtjylland régió kisüzemi söreit."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sandviș cu Frikadeller",
+            "tip": "Un sandviș consistent cu chiftele daneze, ideal pentru a fi consumat pe drum."
+          },
+          {
+            "name": "Înghețată soft",
+            "tip": "Un deliciu clasic danez, mai ales într-o zi însorită în port."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "Întrebați în baruri despre berile de la microberăriile din regiunea Midtjylland."
+          }
+        ],
+        "en": [
+          {
+            "name": "Frikadeller Sandwich",
+            "tip": "A hearty sandwich with Danish meatballs, great for a meal on the go."
+          },
+          {
+            "name": "Soft-ice",
+            "tip": "A classic Danish treat, especially on a sunny day by the harbour."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Ask for beers from microbreweries in the Midtjylland region at the local bars."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirchhof",
+            "tip": "Der Friedhof um die Lemvig Kirche ist ein friedlicher, grüner Ort.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick vom Busfenster",
+            "tip": "Genießen Sie die vorbeiziehende Landschaft auf dem Weg zum und vom Zentrum.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eine Bank mit Blick auf den Fjord",
+            "tip": "Finden Sie eine ruhige Bank am Hafen, abseits der Restaurants.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Templomkert",
+            "tip": "A Lemvig-templom körüli temető egy békés, zöld terület.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a busz ablakából",
+            "tip": "Élvezd az elsuhanó tájat a központba menet és onnan jövet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy pad, kilátással a fjordra",
+            "tip": "Keress egy csendes padot a kikötőben, távol az éttermektől.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea bisericii",
+            "tip": "Cimitirul din jurul Bisericii Lemvig este un spațiu verde și pașnic.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Priveliștea de la fereastra autobuzului",
+            "tip": "Bucurați-vă de peisajul în mișcare în drum spre și dinspre centru.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O bancă cu vedere la fiord",
+            "tip": "Găsiți o bancă liniștită în port, departe de restaurante.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Churchyard",
+            "tip": "The graveyard around Lemvig Church is a peaceful, green space.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the bus window",
+            "tip": "Enjoy the passing scenery on the way to and from the center.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A bench overlooking the fjord",
+            "tip": "Find a quiet bench in the harbour area, away from the restaurants.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Buchhandlung",
+            "tip": "Kaufen Sie ein Buch des lokalen Dichters Thøger Larsen."
+          },
+          {
+            "name": "Supermarkt-Souvenirs",
+            "tip": "Dänische Schokolade und Kekse sind tolle, erschwingliche Mitbringsel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Könyvesbolt",
+            "tip": "Vásárolj egy könyvet a helyi költőtől, Thøger Larsentől."
+          },
+          {
+            "name": "Szuvenírek a szupermarketből",
+            "tip": "A dán csokoládé és kekszek nagyszerű, megfizethető ajándékok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Librărie",
+            "tip": "Cumpărați o carte a poetului local Thøger Larsen."
+          },
+          {
+            "name": "Suveniruri de la supermarket",
+            "tip": "Ciocolata și biscuiții danezi sunt suveniruri grozave și accesibile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bookstore",
+            "tip": "Buy a book by local poet Thøger Larsen."
+          },
+          {
+            "name": "Supermarket souvenirs",
+            "tip": "Danish chocolate and biscuits make great, affordable souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte, wenn Sie mehrere Busfahrten planen.",
+          "Die Busse fahren auf dem Land möglicherweise nicht sehr häufig, planen Sie also im Voraus.",
+          "Laden Sie eine lokale ÖPNV-App herunter, um Fahrpläne in Echtzeit zu erhalten.",
+          "Winken Sie dem Busfahrer zu, damit er weiß, dass Sie einsteigen möchten."
+        ],
+        "hu": [
+          "Vegyél napijegyet, ha több buszozást tervezel.",
+          "Vidéken a buszok ritkábban járhatnak, ezért tervezz előre.",
+          "Tölts le egy helyi tömegközlekedési alkalmazást a valós idejű menetrendekért.",
+          "Ints a buszsofőrnek, hogy tudja, fel akarsz szállni."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi dacă plănuiți mai multe călătorii cu autobuzul.",
+          "Autobuzele din mediul rural s-ar putea să nu circule foarte des, așa că planificați din timp.",
+          "Descărcați o aplicație locală de transport public pentru orare în timp real.",
+          "Faceți semn șoferului de autobuz pentru a-l anunța că doriți să urcați."
+        ],
+        "en": [
+          "Buy a day ticket if you plan on making multiple bus journeys.",
+          "Buses in the countryside may not be very frequent, so plan ahead.",
+          "Download a local public transport app for real-time schedules.",
+          "Wave at the bus driver to let them know you want to board."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1556 @@
+{
+  "city_id": "uk-exeter-cities-v2",
+  "anchor": {
+    "name": "Exeter",
+    "coords": [
+      -3.5339,
+      50.7184
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.1,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Parliament Street",
+            "hu": "Parliament Street",
+            "ro": "Strada Parliament",
+            "en": "Parliament Street"
+          },
+          "coords": [
+            -3.5306,
+            50.7247
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Finden Sie die engste Straße Großbritanniens – halten Sie die Arme an der Seite!",
+            "hu": "Találja meg Britannia legszűkebb utcáját – karokat behúzni!",
+            "ro": "Găsiți cea mai îngustă stradă din Marea Britanie – țineți brațele pe lângă corp!",
+            "en": "Find Britain's narrowest street – keep your arms by your side!"
+          }
+        },
+        {
+          "name": {
+            "de": "Exeter Guildhall",
+            "hu": "Exeteri céhház",
+            "ro": "Guildhall din Exeter",
+            "en": "Exeter Guildhall"
+          },
+          "coords": [
+            -3.5315,
+            50.7244
+          ],
+          "category": "landmark",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Eines der ältesten städtischen Gebäude Englands, das noch in Gebrauch ist.",
+            "hu": "Anglia egyik legrégebbi, ma is használatban lévő önkormányzati épülete.",
+            "ro": "Una dintre cele mai vechi clădiri municipale din Anglia încă în uz.",
+            "en": "One of England's oldest municipal buildings still in use."
+          }
+        },
+        {
+          "name": {
+            "de": "Exeter Cathedral",
+            "hu": "Exeteri katedrális",
+            "ro": "Catedrala din Exeter",
+            "en": "Exeter Cathedral"
+          },
+          "coords": [
+            -3.5301,
+            50.7226
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:21",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die längste ununterbrochene gotische Gewölbedecke der Welt.",
+            "hu": "Csodálja meg a világ leghosszabb, megszakítás nélküli gótikus boltozatát.",
+            "ro": "Admirați cel mai lung tavan boltit gotic neîntrerupt din lume.",
+            "en": "Marvel at the longest uninterrupted Gothic vaulted ceiling in the world."
+          }
+        },
+        {
+          "name": {
+            "de": "Underground Passages",
+            "hu": "Föld alatti járatok",
+            "ro": "Pasajele subterane",
+            "en": "Underground Passages"
+          },
+          "coords": [
+            -3.529,
+            50.725
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "11:42",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Buchen Sie im Voraus, die Touren sind wegen der engen Gänge schnell ausgebucht.",
+            "hu": "Foglaljon előre, a túrák gyorsan betelnek a szűk járatok miatt.",
+            "ro": "Rezervați în avans, tururile se umplu rapid din cauza pasajelor înguste.",
+            "en": "Book in advance, tours fill up quickly due to the narrow passages."
+          }
+        },
+        {
+          "name": {
+            "de": "Rougemont Castle",
+            "hu": "Rougemont-kastély",
+            "ro": "Castelul Rougemont",
+            "en": "Rougemont Castle"
+          },
+          "coords": [
+            -3.5273,
+            50.7258
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:46",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der normannischen Mauern für einen Panoramablick über die Stadt.",
+            "hu": "Sétáljon végig a normann falakon a városra nyíló panorámáért.",
+            "ro": "Plimbați-vă de-a lungul zidurilor normande pentru vederi panoramice ale orașului.",
+            "en": "Walk along the Norman walls for panoramic city views."
+          }
+        },
+        {
+          "name": {
+            "de": "Royal Albert Memorial Museum",
+            "hu": "Royal Albert Emlékmúzeum",
+            "ro": "Muzeul Memorial Royal Albert",
+            "en": "Royal Albert Memorial Museum"
+          },
+          "coords": [
+            -3.5323,
+            50.7265
+          ],
+          "category": "museums",
+          "arrive_at": "13:46",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der Eintritt ist frei! Verpassen Sie nicht die lokale Geschichtsgalerie.",
+            "hu": "A belépés ingyenes! Ne hagyja ki a helytörténeti galériát.",
+            "ro": "Intrarea este gratuită! Nu ratați galeria de istorie locală.",
+            "en": "Entry is free! Don't miss the local history gallery."
+          }
+        },
+        {
+          "name": {
+            "de": "Northernhay Gardens",
+            "hu": "Northernhay kertek",
+            "ro": "Grădinile Northernhay",
+            "en": "Northernhay Gardens"
+          },
+          "coords": [
+            -3.528,
+            50.7268
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:34",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Englands ältester öffentlicher Freiraum, perfekt für eine kurze Pause.",
+            "hu": "Anglia legrégebbi nyilvános parkja, tökéletes egy rövid pihenőre.",
+            "ro": "Cel mai vechi spațiu public deschis din Anglia, perfect pentru o scurtă pauză.",
+            "en": "England's oldest public open space, perfect for a short break."
+          }
+        },
+        {
+          "name": {
+            "de": "Exeter Quayside",
+            "hu": "Exeter rakpart",
+            "ro": "Cheiul din Exeter",
+            "en": "Exeter Quayside"
+          },
+          "coords": [
+            -3.5276,
+            50.7161
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:10",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Mieten Sie ein Kajak oder genießen Sie einfach ein Getränk am Wasser.",
+            "hu": "Béreljen kajakot, vagy csak igyon meg egy italt a vízparton.",
+            "ro": "Închiriați un caiac sau pur și simplu savurați o băutură lângă apă.",
+            "en": "Rent a kayak or just enjoy a drink by the waterside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen der Geschichte von Exeter in der winzigen Parliament Street und der alten Guildhall. Am Vormittag erkunden Sie die Pracht der Kathedrale und entdecken die geheimnisvollen unterirdischen Gänge. Am Nachmittag spazieren Sie durch die Zeit in der Burg Rougemont und dem Royal Albert Museum, gefolgt von einer entspannenden Pause in den Northernhay Gardens. Schließen Sie Ihren Tag mit der lebhaften Atmosphäre am historischen Quayside ab, wo alte Lagerhäuser jetzt voller Leben sind.",
+        "hu": "Kezdje a napot Exeter történelmének szívében, a parányi Parliament Streeten és az ősi céhháznál. A délelőtt folyamán fedezze fel a katedrális pompáját és a titokzatos föld alatti járatokat. Délután sétáljon át az időn a Rougemont-kastélyban és a Royal Albert Múzeumban, majd tartson egy pihentető szünetet a Northernhay kertekben. Zárja a napot a történelmi rakpart nyüzsgő hangulatával, ahol a régi raktárak ma élettel teliek.",
+        "ro": "Începeți ziua în inima istoriei din Exeter, pe minuscula stradă Parliament și la vechea Guildhall. La amiază, explorați splendoarea Catedralei și descoperiți misterioasele pasaje subterane. După-amiaza, faceți o plimbare prin timp la Castelul Rougemont și la Muzeul Royal Albert, urmată de o pauză relaxantă în Grădinile Northernhay. Încheiați ziua cu atmosfera vibrantă de pe cheiul istoric, unde vechile depozite sunt acum pline de viață.",
+        "en": "Start your day in the heart of Exeter's history at the tiny Parliament Street and the ancient Guildhall. Mid-morning, explore the splendour of the Cathedral and discover the mysterious Underground Passages. In the afternoon, take a walk through time at Rougemont Castle and the Royal Albert Museum, followed by a relaxing break in Northernhay Gardens. Conclude your day with the vibrant atmosphere at the historic Quayside, where old warehouses are now buzzing with life."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Devon Cream Tea",
+            "tip": "Ein Muss! Genießen Sie es in einem der vielen Cafés am Quayside."
+          },
+          {
+            "name": "The Hourglass Inn",
+            "tip": "Ein historischer Pub mit exzellentem Essen und lokalen Ales."
+          },
+          {
+            "name": "Herbies",
+            "tip": "Ein fantastisches vegetarisches Restaurant mit langer Tradition in der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Devoni tejes tea",
+            "tip": "Ezt muszáj megkóstolni! Élvezze a rakpart egyik kávézójában."
+          },
+          {
+            "name": "The Hourglass Inn",
+            "tip": "Történelmi pub kiváló ételekkel és helyi sörökkel."
+          },
+          {
+            "name": "Herbies",
+            "tip": "Fantasztikus vegetáriánus étterem, amely régóta működik a városban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceai cu frișcă Devon",
+            "tip": "O încercare obligatorie! Savurați-l la una dintre numeroasele cafenele de pe Chei."
+          },
+          {
+            "name": "The Hourglass Inn",
+            "tip": "Un pub istoric cu mâncare excelentă și beri locale."
+          },
+          {
+            "name": "Herbies",
+            "tip": "Un restaurant vegetarian fantastic, cu o prezență îndelungată în oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Devon Cream Tea",
+            "tip": "A must-try! Enjoy it at one of the many cafes on the Quayside."
+          },
+          {
+            "name": "The Hourglass Inn",
+            "tip": "A historic pub with excellent food and local ales."
+          },
+          {
+            "name": "Herbies",
+            "tip": "A fantastic vegetarian restaurant with a long-standing presence in the city."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Northernhay Gardens",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die älteste öffentliche Grünanlage Englands.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kathedralen-Close",
+            "tip": "Abseits der Menschenmassen bietet die Umgebung der Kathedrale ruhige Ecken.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang am Fluss Exe",
+            "tip": "Gehen Sie vom Quayside aus flussaufwärts für einen friedlichen Spaziergang am Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Northernhay kertek",
+            "tip": "Keressen egy csendes padot, és élvezze Anglia legrégebbi nyilvános parkját.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A katedrális környéke",
+            "tip": "A tömegtől távol, a katedrális környéke csendes zugokat kínál.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta az Exe folyó mentén",
+            "tip": "Sétáljon a rakparttól felfelé a folyón egy békés vízparti sétáért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Northernhay",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de cel mai vechi spațiu verde public din Anglia.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Incinta Catedralei",
+            "tip": "Departe de mulțime, zona din jurul catedralei oferă colțuri liniștite.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare pe râul Exe",
+            "tip": "Mergeți în amonte de Chei pentru o plimbare liniștită pe malul apei.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Northernhay Gardens",
+            "tip": "Find a quiet bench and enjoy England's oldest public green space.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cathedral Close",
+            "tip": "Away from the crowds, the area around the cathedral has quiet corners.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "River Exe Walk",
+            "tip": "Head upstream from the Quayside for a peaceful waterside stroll.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gandy Street",
+            "tip": "Bekannt für ihre unabhängigen Boutiquen und einzigartigen Geschäfte."
+          },
+          {
+            "name": "Exeter Farmers Market",
+            "tip": "Wenn Sie an einem Donnerstag dort sind, finden Sie hier fantastische lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gandy Street",
+            "tip": "Független butikjairól és egyedi üzleteiről ismert."
+          },
+          {
+            "name": "Exeteri termelői piac",
+            "tip": "Ha csütörtökön van ott, fantasztikus helyi termékeket talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Gandy",
+            "tip": "Renumită pentru buticurile sale independente și magazinele unice."
+          },
+          {
+            "name": "Piața fermierilor din Exeter",
+            "tip": "Dacă sunteți acolo într-o joi, veți găsi produse locale fantastice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gandy Street",
+            "tip": "Known for its independent boutiques and unique shops."
+          },
+          {
+            "name": "Exeter Farmers Market",
+            "tip": "If you're there on a Thursday, find fantastic local produce here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum kompakt und sehr gut zu Fuß zu erkunden ist.",
+          "Die meisten Hauptattraktionen liegen nahe beieinander, was einen gemütlichen Spaziergang ermöglicht.",
+          "Der Weg hinunter zum Quayside ist steil, aber die Mühe wert.",
+          "Buchen Sie Tickets für die Underground Passages im Voraus online, um Enttäuschungen zu vermeiden."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt; a városközpont kompakt és nagyon jól bejárható.",
+          "A legtöbb fő látnivaló közel van egymáshoz, ami kényelmes sétát tesz lehetővé.",
+          "A rakparthoz vezető út meredek, de megéri a fáradságot.",
+          "Foglaljon jegyet a föld alatti járatokba online előre, hogy elkerülje a csalódást."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă; centrul orașului este compact și foarte ușor de parcurs pe jos.",
+          "Majoritatea atracțiilor principale sunt apropiate una de cealaltă, permițând o plimbare lejeră.",
+          "Coborârea spre Chei este abruptă, dar merită efortul.",
+          "Rezervați online biletele pentru Pasajele Subterane pentru a evita dezamăgirile."
+        ],
+        "en": [
+          "Wear comfortable shoes; the city centre is compact and very walkable.",
+          "Most main attractions are close to each other, making for a leisurely stroll.",
+          "The walk down to the Quayside is steep, but well worth the effort.",
+          "Book tickets for the Underground Passages online in advance to avoid disappointment."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Exeter Quayside",
+            "hu": "Exeter rakpart",
+            "ro": "Cheiul din Exeter",
+            "en": "Exeter Quayside"
+          },
+          "coords": [
+            -3.5276,
+            50.7161
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier mit dem Fahrradverleih, um den flachen Radweg am Fluss zu genießen.",
+            "hu": "Kezdje itt egy kerékpárkölcsönzéssel, hogy élvezze a sík folyóparti kerékpárutat.",
+            "ro": "Începeți de aici cu închirierea unei biciclete pentru a vă bucura de pista de biciclete plată de pe malul râului.",
+            "en": "Start here with a bike rental to enjoy the flat, riverside cycle path."
+          }
+        },
+        {
+          "name": {
+            "de": "Exeter Cathedral",
+            "hu": "Exeteri katedrális",
+            "ro": "Catedrala din Exeter",
+            "en": "Exeter Cathedral"
+          },
+          "coords": [
+            -3.5301,
+            50.7226
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:10",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad in der Nähe ab und nehmen Sie sich Zeit für das Innere.",
+            "hu": "Zárja le a kerékpárt a közelben, és szánjon időt a belső térre.",
+            "ro": "Parcați bicicleta în apropiere și acordați-vă timp pentru a explora interiorul.",
+            "en": "Lock your bike up nearby and take your time exploring the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Exeter Guildhall",
+            "hu": "Exeteri céhház",
+            "ro": "Guildhall din Exeter",
+            "en": "Exeter Guildhall"
+          },
+          "coords": [
+            -3.5315,
+            50.7244
+          ],
+          "category": "landmark",
+          "arrive_at": "11:30",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein kurzer Halt, um die beeindruckende Fassade zu bewundern.",
+            "hu": "Egy gyors megálló, hogy megcsodálja a lenyűgöző homlokzatot.",
+            "ro": "O oprire rapidă pentru a admira fațada impresionantă.",
+            "en": "A quick stop to admire the impressive facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Rougemont Castle",
+            "hu": "Rougemont-kastély",
+            "ro": "Castelul Rougemont",
+            "en": "Rougemont Castle"
+          },
+          "coords": [
+            -3.5273,
+            50.7258
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:04",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Radfahren Sie zum Burgeingang; der Spaziergang auf den Mauern ist die Anstrengung wert.",
+            "hu": "Tekerjen fel a vár bejáratához; a falakon való séta megéri a fáradságot.",
+            "ro": "Pedalați până la intrarea în castel; plimbarea pe ziduri merită efortul.",
+            "en": "Cycle up to the castle entrance; the walk on the walls is worth the effort."
+          }
+        },
+        {
+          "name": {
+            "de": "Royal Albert Memorial Museum",
+            "hu": "Royal Albert Emlékmúzeum",
+            "ro": "Muzeul Memorial Royal Albert",
+            "en": "Royal Albert Memorial Museum"
+          },
+          "coords": [
+            -3.5323,
+            50.7265
+          ],
+          "category": "museums",
+          "arrive_at": "12:57",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort, um sich abzukühlen und etwas über die Welt zu lernen.",
+            "hu": "Nagyszerű hely a lehűlésre és a világ megismerésére.",
+            "ro": "Un loc minunat pentru a vă răcori și a învăța despre lume.",
+            "en": "A great place to cool down and learn about the world."
+          }
+        },
+        {
+          "name": {
+            "de": "Northernhay Gardens",
+            "hu": "Northernhay kertek",
+            "ro": "Grădinile Northernhay",
+            "en": "Northernhay Gardens"
+          },
+          "coords": [
+            -3.528,
+            50.7268
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:43",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schieben Sie Ihr Fahrrad durch den Park und genießen Sie die Ruhe.",
+            "hu": "Tolja át a kerékpárt a parkon, és élvezze a nyugalmat.",
+            "ro": "Plimbați-vă cu bicicleta prin parc și bucurați-vă de liniște.",
+            "en": "Walk your bike through the park and enjoy the tranquility."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr zum Quayside",
+            "hu": "Vissza a rakpartra",
+            "ro": "Întoarcere la Chei",
+            "en": "Return to Quayside"
+          },
+          "coords": [
+            -3.5276,
+            50.7161
+          ],
+          "category": "gastro",
+          "arrive_at": "15:46",
+          "stay_min": 89,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Geben Sie Ihr Fahrrad zurück und belohnen Sie sich mit einem wohlverdienten Abendessen am Wasser.",
+            "hu": "Adja le a kerékpárt, és jutalmazza meg magát egy jól megérdemelt vacsorával a vízparton.",
+            "ro": "Returnați bicicleta și răsplătiți-vă cu o cină binemeritată lângă apă.",
+            "en": "Return your bike and reward yourself with a well-deserved dinner by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag am Exeter Quayside, dem perfekten Ausgangspunkt. Am Morgen radeln Sie ins historische Zentrum, um die Kathedrale und die Guildhall zu sehen. Gegen Mittag erklimmen Sie den Hügel zum Rougemont Castle für eine tolle Aussicht, bevor Sie sich im Royal Albert Memorial Museum abkühlen. Am Nachmittag entspannen Sie in den Northernhay Gardens und rollen dann den Hügel hinunter für eine letzte Fahrt zurück zum Quayside, bereit für ein entspanntes Abendessen.",
+        "hu": "Kezdje a kerékpáros napot az Exeter rakparton, a tökéletes kiindulóponton. Délelőtt tekerjen be a történelmi központba, hogy megnézze a katedrálist és a céhházat. Dél körül mássza meg a dombot a Rougemont-kastélyhoz a nagyszerű kilátásért, mielőtt lehűlne a Royal Albert Múzeumban. Délután pihenjen a Northernhay kertekben, majd guruljon le a dombról egy utolsó körre vissza a rakpartra, készen egy pihentető vacsorára.",
+        "ro": "Începeți ziua de ciclism la Cheiul Exeter, punctul de plecare perfect. Dimineața, pedalați spre centrul istoric pentru a vedea Catedrala și Guildhall. La prânz, urcați dealul până la Castelul Rougemont pentru priveliști minunate, înainte de a vă răcori la Muzeul Memorial Royal Albert. După-amiaza, relaxați-vă în Grădinile Northernhay, apoi coborâți dealul pentru o ultimă plimbare înapoi la Chei, gata pentru o cină relaxantă.",
+        "en": "Start your cycling day at Exeter Quayside, the perfect launching point. In the morning, pedal into the historic centre to see the Cathedral and Guildhall. At midday, climb the hill to Rougemont Castle for great views before cooling off in the Royal Albert Memorial Museum. In the afternoon, relax in Northernhay Gardens, then cruise back down the hill for a final ride back to the Quayside, ready for a relaxing dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Prospect Inn",
+            "tip": "Ein klassischer Pub am Quayside, perfekt für ein Getränk nach der Fahrt."
+          },
+          {
+            "name": "On the Waterfront",
+            "tip": "Berühmt für seine riesigen Pizzen und die tolle Lage am Fluss."
+          },
+          {
+            "name": "Saddles & Paddles",
+            "tip": "Kombinieren Sie Ihren Fahrradverleih mit einem Kaffee oder Eis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Prospect Inn",
+            "tip": "Klasszikus pub a rakparton, tökéletes egy italra a tekerés után."
+          },
+          {
+            "name": "On the Waterfront",
+            "tip": "Hatalmas pizzáiról és nagyszerű folyóparti elhelyezkedéséről híres."
+          },
+          {
+            "name": "Saddles & Paddles",
+            "tip": "Kösse össze a kerékpárkölcsönzést egy kávéval vagy fagyival."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Prospect Inn",
+            "tip": "Un pub clasic pe Chei, perfect pentru o băutură după plimbare."
+          },
+          {
+            "name": "On the Waterfront",
+            "tip": "Renumit pentru pizzele sale uriașe și locația excelentă pe malul râului."
+          },
+          {
+            "name": "Saddles & Paddles",
+            "tip": "Combinați închirierea de biciclete cu o cafea sau o înghețată."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Prospect Inn",
+            "tip": "A classic pub on the Quayside, perfect for a post-ride drink."
+          },
+          {
+            "name": "On the Waterfront",
+            "tip": "Famous for its giant pizzas and great riverside location."
+          },
+          {
+            "name": "Saddles & Paddles",
+            "tip": "Combine your bike hire with a coffee or an ice cream."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Exe-Fluss-Weg",
+            "tip": "Radfahren Sie vom Quayside weg für eine ruhige Fahrt entlang des Flusses und der Kanalwege.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rougemont Gardens",
+            "tip": "Ein ruhigerer Abschnitt neben der Burg, ideal für eine kurze Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick von der Burgmauer",
+            "tip": "Erhaschen Sie einen Moment der Ruhe mit Blick auf die Stadt, bevor Sie weiterziehen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Exe folyó ösvény",
+            "tip": "Tekerjen el a rakparttól egy csendes útért a folyó és a csatorna mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rougemont kertek",
+            "tip": "A vár melletti csendesebb rész, ideális egy rövid pihenőre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a várfalról",
+            "tip": "Kapjon el egy csendes pillanatot a városra nézve, mielőtt tovább indul.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poteca râului Exe",
+            "tip": "Pedalați departe de Chei pentru o plimbare liniștită de-a lungul râului și a potecilor canalului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Rougemont",
+            "tip": "O secțiune mai liniștită lângă castel, perfectă pentru o pauză rapidă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de pe zidurile castelului",
+            "tip": "Prindeți un moment de liniște cu vedere la oraș înainte de a merge mai departe.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Exe River Path",
+            "tip": "Cycle away from the Quayside for a quiet ride along the river and canal paths.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rougemont Gardens",
+            "tip": "A quieter section next to the castle, perfect for a quick rest.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from Castle Walls",
+            "tip": "Catch a quiet moment overlooking the city before moving on.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "The Quay Climbing Centre Shop",
+            "tip": "Für Outdoor- und Kletterausrüstung."
+          },
+          {
+            "name": "Kunsthandwerksläden am Quayside",
+            "tip": "Stöbern Sie in einzigartigem, von lokalen Künstlern hergestelltem Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Quay Climbing Centre boltja",
+            "tip": "Kültéri és hegymászó felszerelésekért."
+          },
+          {
+            "name": "Kézműves üzletek a rakparton",
+            "tip": "Böngésszen a helyi művészek által készített egyedi kézműves termékek között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Centrului de Escaladă Quay",
+            "tip": "Pentru echipament de exterior și de cățărat."
+          },
+          {
+            "name": "Magazine de artizanat de pe Chei",
+            "tip": "Răsfoiți meșteșuguri unice realizate de artiști locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Quay Climbing Centre Shop",
+            "tip": "For outdoor and climbing gear."
+          },
+          {
+            "name": "Quayside Craft Shops",
+            "tip": "Browse unique crafts made by local artists."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie Fahrräder am Quayside für den einfachsten Zugang.",
+          "Seien Sie auf einige steile Hügel vorbereitet, wenn Sie sich vom Fluss entfernen.",
+          "Schließen Sie Ihr Fahrrad immer sicher ab, wenn Sie Sehenswürdigkeiten besuchen.",
+          "Der Radweg entlang des Flusses Exe ist flach und für alle Niveaus geeignet."
+        ],
+        "hu": [
+          "Béreljen kerékpárt a rakparton a legkönnyebb hozzáférés érdekében.",
+          "Készüljön fel néhány meredek emelkedőre, ahogy eltávolodik a folyótól.",
+          "Mindig zárja le biztonságosan a kerékpárt, amikor látnivalókat néz.",
+          "Az Exe folyó menti kerékpárút sík és minden edzettségi szintnek megfelelő."
+        ],
+        "ro": [
+          "Închiriați biciclete de la Chei pentru cel mai ușor acces.",
+          "Fiți pregătiți pentru câteva dealuri abrupte pe măsură ce vă îndepărtați de râu.",
+          "Încuiati întotdeauna bicicleta în siguranță atunci când vizitați atracțiile.",
+          "Pista de biciclete de-a lungul râului Exe este plată și potrivită pentru toate nivelurile."
+        ],
+        "en": [
+          "Hire bikes from the Quayside for the easiest access.",
+          "Be prepared for some steep hills as you move away from the river.",
+          "Always lock your bike securely when visiting attractions.",
+          "The cycle path along the River Exe is flat and suitable for all abilities."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 5.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkhaus Kathedrale & Kai",
+            "hu": "Cathedral & Quay parkolóház",
+            "ro": "Parcare auto Cathedral & Quay",
+            "en": "Cathedral & Quay Car Park"
+          },
+          "coords": [
+            -3.528,
+            50.7203
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier, um das historische Zentrum zu erkunden. Dies ist Ihr erster Cluster.",
+            "hu": "Parkoljon itt a történelmi központ felfedezéséhez. Ez az első állomás.",
+            "ro": "Parcați aici pentru a explora centrul istoric. Acesta este primul dvs. cluster.",
+            "en": "Park here to explore the historic centre. This is your first cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Exeter Cathedral",
+            "hu": "Exeteri katedrális",
+            "ro": "Catedrala din Exeter",
+            "en": "Exeter Cathedral"
+          },
+          "coords": [
+            -3.5301,
+            50.7226
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:18",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz aus führt Sie zu diesem architektonischen Wunderwerk.",
+            "hu": "Egy rövid séta a parkolótól ehhez az építészeti csodához.",
+            "ro": "O scurtă plimbare de la parcare vă va duce la această minune arhitecturală.",
+            "en": "A short walk from the car park will take you to this architectural marvel."
+          }
+        },
+        {
+          "name": {
+            "de": "Underground Passages",
+            "hu": "Föld alatti járatok",
+            "ro": "Pasajele subterane",
+            "en": "Underground Passages"
+          },
+          "coords": [
+            -3.529,
+            50.725
+          ],
+          "category": "landmark",
+          "arrive_at": "10:39",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die mittelalterlichen Gänge unter den Straßen der Stadt.",
+            "hu": "Fedezze fel a középkori járatokat a város utcái alatt.",
+            "ro": "Explorați pasajele medievale de sub străzile orașului.",
+            "en": "Explore the medieval passages beneath the city streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Rougemont Gardens Parkplatz",
+            "hu": "Rougemont Gardens parkoló",
+            "ro": "Parcare Rougemont Gardens",
+            "en": "Rougemont Gardens Car Park"
+          },
+          "coords": [
+            -3.5273,
+            50.727
+          ],
+          "category": "transport",
+          "arrive_at": "11:54",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum zweiten Cluster. Parken Sie für das Schloss und das Museum.",
+            "hu": "Vezessen a második állomáshoz. Parkoljon a kastélyhoz és a múzeumhoz.",
+            "ro": "Conduceți spre al doilea cluster. Parcați pentru castel și muzeu.",
+            "en": "Drive to the second cluster. Park for the castle and the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Rougemont Castle & Northernhay Gardens",
+            "hu": "Rougemont-kastély és Northernhay kertek",
+            "ro": "Castelul Rougemont și Grădinile Northernhay",
+            "en": "Rougemont Castle & Northernhay Gardens"
+          },
+          "coords": [
+            -3.5273,
+            50.7258
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:57",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick von den Mauern und entspannen Sie sich dann in den Gärten.",
+            "hu": "Élvezze a kilátást a falakról, majd pihenjen a kertekben.",
+            "ro": "Bucurați-vă de priveliștea de pe ziduri, apoi relaxați-vă în grădini.",
+            "en": "Enjoy the views from the walls then relax in the gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Royal Albert Memorial Museum",
+            "hu": "Royal Albert Emlékmúzeum",
+            "ro": "Muzeul Memorial Royal Albert",
+            "en": "Royal Albert Memorial Museum"
+          },
+          "coords": [
+            -3.5323,
+            50.7265
+          ],
+          "category": "museums",
+          "arrive_at": "13:20",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Schloss entfernt, perfekt für den Nachmittag.",
+            "hu": "Egy rövid sétára a kastélytól, tökéletes délutáni program.",
+            "ro": "La o scurtă plimbare de castel, perfect pentru o după-amiază.",
+            "en": "A short walk from the castle, perfect for the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Exeter Quayside",
+            "hu": "Exeter rakpart",
+            "ro": "Cheiul din Exeter",
+            "en": "Exeter Quayside"
+          },
+          "coords": [
+            -3.5276,
+            50.7161
+          ],
+          "category": "gastro",
+          "arrive_at": "15:20",
+          "stay_min": 125,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum letzten Cluster für das Abendessen. Es gibt mehrere Parkplätze in der Nähe.",
+            "hu": "Vezessen az utolsó állomáshoz vacsorázni. Több parkoló is található a közelben.",
+            "ro": "Conduceți spre ultimul cluster pentru cină. Există mai multe parcări în apropiere.",
+            "en": "Drive to the final cluster for dinner. There are several car parks nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Auto, indem Sie im Zentrum parken, um den Kathedralen-Cluster zu erkunden, einschließlich eines Spaziergangs durch die unterirdischen Gänge. Am Mittag fahren Sie zum Rougemont-Cluster für einen Spaziergang durch die Geschichte im Schloss und Museum. Am Nachmittag fahren Sie zum Quayside hinunter, dem perfekten Ort, um am Wasser zu entspannen, spazieren zu gehen und ein köstliches Abendessen in einem der umgebauten Lagerhäuser zu genießen. Dieser Plan minimiert das Fahren und maximiert das Erleben zu Fuß.",
+        "hu": "Kezdje autós napját a központban parkolva, hogy felfedezze a katedrális környékét, beleértve egy sétát a föld alatti járatokban. Délben vezessen át a Rougemont-negyedbe, ahol a kastélyban és a múzeumban tehet egy történelmi sétát. Délután hajtson le a rakpartra, amely tökéletes hely a vízparti pihenésre, sétára és egy finom vacsorára az egyik átalakított raktárépületben. Ez a terv minimalizálja a vezetést és maximalizálja a gyalogos felfedezést.",
+        "ro": "Începeți ziua cu mașina parcând în centru pentru a explora clusterul Catedralei, inclusiv o plimbare prin pasajele subterane. La prânz, conduceți spre clusterul Rougemont pentru o incursiune în istorie la castel și muzeu. După-amiaza, coborâți cu mașina la Chei, locul perfect pentru a vă relaxa lângă apă, a vă plimba și a savura o cină delicioasă într-unul dintre depozitele reconvertite. Acest plan minimizează condusul și maximizează explorarea pe jos.",
+        "en": "Start your car-based day by parking in the centre to explore the Cathedral cluster, including a walk through the Underground Passages. At midday, drive to the Rougemont cluster for a walk through history at the castle and museum. In the afternoon, drive down to the Quayside, the perfect place to relax by the water, stroll, and enjoy a delicious dinner in one of the converted warehouses. This plan minimises driving and maximises exploring on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Doctor Ink's Curiosities",
+            "tip": "Ein einzigartiges Cocktail-Erlebnis am Quayside, um den Tag ausklingen zu lassen."
+          },
+          {
+            "name": "The Old Firehouse",
+            "tip": "Etwas weiter vom Zentrum entfernt, aber berühmt für seine riesigen Pizzen und Apfelwein."
+          },
+          {
+            "name": "The Topsham Tap",
+            "tip": "Eine kurze Fahrt außerhalb, in Topsham, für Craft-Bier-Liebhaber."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Doctor Ink's Curiosities",
+            "tip": "Egyedi koktélélmény a rakparton a nap lezárásaként."
+          },
+          {
+            "name": "The Old Firehouse",
+            "tip": "Kicsit távolabb a központtól, de híres hatalmas pizzáiról és almaboráról."
+          },
+          {
+            "name": "The Topsham Tap",
+            "tip": "Rövid autóútra, Topshamben, a kézműves sörök kedvelőinek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Doctor Ink's Curiosities",
+            "tip": "O experiență unică de cocktailuri pe Chei pentru a încheia ziua."
+          },
+          {
+            "name": "The Old Firehouse",
+            "tip": "Puțin mai departe de centru, dar renumit pentru pizzele sale uriașe și cidru."
+          },
+          {
+            "name": "The Topsham Tap",
+            "tip": "La o scurtă distanță cu mașina, în Topsham, pentru iubitorii de bere artizanală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Doctor Ink's Curiosities",
+            "tip": "A unique cocktail experience on the Quayside to end the day."
+          },
+          {
+            "name": "The Old Firehouse",
+            "tip": "A bit further from the centre but famous for its giant pizzas and cider."
+          },
+          {
+            "name": "The Topsham Tap",
+            "tip": "A short drive out in Topsham for craft beer lovers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Topsham",
+            "tip": "Machen Sie eine kurze Fahrt in dieses malerische Mündungsdorf für eine ruhigere Atmosphäre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "University of Exeter Sculpture Trail",
+            "tip": "Parken Sie auf dem Campus und genießen Sie einen ruhigen Spaziergang zwischen Kunst und Grün.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Haldon Forest Park",
+            "tip": "Eine kurze Fahrt von der Stadt entfernt für Waldspaziergänge und atemberaubende Ausblicke.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Topsham",
+            "tip": "Tegyen egy rövid autóutat ebbe a festői torkolati faluba a csendesebb hangulatért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Exeteri Egyetem szoborösvénye",
+            "tip": "Parkoljon az egyetemen, és élvezze a csendes sétát a művészet és a zöldterület között.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Haldon Forest Park",
+            "tip": "Rövid autóútra a várostól erdei sétákért és lélegzetelállító kilátásért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Topsham",
+            "tip": "Faceți o scurtă plimbare cu mașina până la acest sat pitoresc de la estuar pentru o atmosferă mai liniștită.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Traseul de sculptură al Universității din Exeter",
+            "tip": "Parcați în campus și bucurați-vă de o plimbare liniștită printre artă și verdeață.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Forestier Haldon",
+            "tip": "La o scurtă distanță cu mașina de oraș pentru plimbări prin pădure și vederi uimitoare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Topsham",
+            "tip": "Take a short drive to this picturesque estuary village for a quieter atmosphere.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "University of Exeter Sculpture Trail",
+            "tip": "Park on campus and enjoy a quiet walk amongst art and greenery.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Haldon Forest Park",
+            "tip": "A short drive out of town for forest walks and stunning views.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Darts Farm",
+            "tip": "Eine kurze Fahrt entfernt, ausgezeichnet für lokale Lebensmittel, Geschenke und Delikatessen."
+          },
+          {
+            "name": "Magdalen Road",
+            "tip": "Bekannt als Exeters 'Dorf im Dorf', mit unabhängigen Lebensmittelgeschäften und Cafés."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Darts Farm",
+            "tip": "Rövid autóútra, kiváló helyi élelmiszerek, ajándékok és finomságok vásárlására."
+          },
+          {
+            "name": "Magdalen Road",
+            "tip": "Exeter 'falujaként a városban' ismert, független élelmiszerboltokkal és kávézókkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ferma Darts",
+            "tip": "La o scurtă distanță cu mașina, excelentă pentru alimente locale, cadouri și delicatese."
+          },
+          {
+            "name": "Strada Magdalen",
+            "tip": "Cunoscută ca 'satul din oraș' al Exeterului, cu magazine alimentare independente și cafenele."
+          }
+        ],
+        "en": [
+          {
+            "name": "Darts Farm",
+            "tip": "A short drive away, excellent for local food, gifts, and delicatessen."
+          },
+          {
+            "name": "Magdalen Road",
+            "tip": "Known as Exeter's 'village in the city', with independent food shops and cafes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Park & Ride-Dienste der Stadt, um den Verkehr im Zentrum zu vermeiden.",
+          "Parken kann teuer sein; die Cluster-Strategie hilft, Kosten und Aufwand zu reduzieren.",
+          "Prüfen Sie die Öffnungszeiten und buchen Sie im Voraus für Attraktionen wie die Underground Passages.",
+          "Planen Sie zusätzliche Zeit für den Verkehr während der Stoßzeiten ein."
+        ],
+        "hu": [
+          "Használja a város Park & Ride szolgáltatásait a belvárosi forgalom elkerülése érdekében.",
+          "A parkolás drága lehet; az állomáscsoport-stratégia segít csökkenteni a költségeket és a fáradságot.",
+          "Ellenőrizze a nyitvatartási időket és foglaljon előre olyan látnivalókhoz, mint a Föld alatti járatok.",
+          "Tervezzen plusz időt a forgalomra csúcsidőben."
+        ],
+        "ro": [
+          "Folosiți serviciile Park & Ride ale orașului pentru a evita traficul din centru.",
+          "Parcarea poate fi costisitoare; strategia de clustere ajută la reducerea costurilor și a bătăilor de cap.",
+          "Verificați orele de deschidere și rezervați în avans pentru atracții precum Pasajele Subterane.",
+          "Planificați timp suplimentar pentru trafic în orele de vârf."
+        ],
+        "en": [
+          "Use the city's Park & Ride services to avoid central traffic.",
+          "Parking can be expensive; the cluster strategy helps reduce costs and hassle.",
+          "Check opening times and book ahead for attractions like the Underground Passages.",
+          "Allow extra time for traffic during peak hours."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bushaltestelle High Street",
+            "hu": "High Street buszmegálló",
+            "ro": "Stația de autobuz High Street",
+            "en": "High Street Bus Stop"
+          },
+          "coords": [
+            -3.5318,
+            50.7249
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie im Zentrum. Die meisten Buslinien halten hier.",
+            "hu": "Kezdje a központban. A legtöbb buszjárat itt áll meg.",
+            "ro": "Începeți din centru. Majoritatea rutelor de autobuz opresc aici.",
+            "en": "Start in the centre. Most bus routes stop here."
+          }
+        },
+        {
+          "name": {
+            "de": "Exeter Guildhall",
+            "hu": "Exeteri céhház",
+            "ro": "Guildhall din Exeter",
+            "en": "Exeter Guildhall"
+          },
+          "coords": [
+            -3.5315,
+            50.7244
+          ],
+          "category": "landmark",
+          "arrive_at": "09:12",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ihr erster Halt ist nur wenige Schritte von der Bushaltestelle entfernt.",
+            "hu": "Az első megálló csak pár lépésre van a buszmegállótól.",
+            "ro": "Prima oprire este la doar câțiva pași de stația de autobuz.",
+            "en": "Your first stop is just steps from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Exeter Cathedral",
+            "hu": "Exeteri katedrális",
+            "ro": "Catedrala din Exeter",
+            "en": "Exeter Cathedral"
+          },
+          "coords": [
+            -3.5301,
+            50.7226
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:48",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein angenehmer Spaziergang durch die Fußgängerzone der Innenstadt.",
+            "hu": "Kellemes séta a belváros sétálóövezetén keresztül.",
+            "ro": "O plimbare plăcută prin zona pietonală a centrului orașului.",
+            "en": "A pleasant stroll through the pedestrianised city centre."
+          }
+        },
+        {
+          "name": {
+            "de": "Royal Albert Memorial Museum",
+            "hu": "Royal Albert Emlékmúzeum",
+            "ro": "Muzeul Memorial Royal Albert",
+            "en": "Royal Albert Memorial Museum"
+          },
+          "coords": [
+            -3.5323,
+            50.7265
+          ],
+          "category": "museums",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Gehen Sie zum zweiten Cluster zu Fuß; es ist ein kurzer und interessanter Weg.",
+            "hu": "Sétáljon át a második állomáshoz; rövid és érdekes út.",
+            "ro": "Mergeți pe jos la al doilea cluster; este o plimbare scurtă și interesantă.",
+            "en": "Walk to the second cluster; it's a short and interesting walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Rougemont Castle & Northernhay Gardens",
+            "hu": "Rougemont-kastély és Northernhay kertek",
+            "ro": "Castelul Rougemont și Grădinile Northernhay",
+            "en": "Rougemont Castle & Northernhay Gardens"
+          },
+          "coords": [
+            -3.5273,
+            50.7258
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:03",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie das Schlossgelände und entspannen Sie sich in den Gärten.",
+            "hu": "Fedezze fel a vár területét és pihenjen a kertekben.",
+            "ro": "Explorați terenurile castelului și relaxați-vă în grădini.",
+            "en": "Explore the castle grounds and relax in the gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Quayside",
+            "hu": "Busz a rakpartra",
+            "ro": "Autobuz spre Chei",
+            "en": "Bus to the Quayside"
+          },
+          "coords": [
+            -3.528,
+            50.724
+          ],
+          "category": "transport",
+          "arrive_at": "14:28",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus von der High Street zum letzten Cluster des Tages.",
+            "hu": "Szálljon buszra a High Streetről a nap utolsó állomásához.",
+            "ro": "Luați un autobuz de pe High Street către ultimul cluster al zilei.",
+            "en": "Take a bus from High Street for the final cluster of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Exeter Quayside",
+            "hu": "Exeter rakpart",
+            "ro": "Cheiul din Exeter",
+            "en": "Exeter Quayside"
+          },
+          "coords": [
+            -3.5276,
+            50.7161
+          ],
+          "category": "gastro",
+          "arrive_at": "14:38",
+          "stay_min": 177,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Rest des Nachmittags und Ihr Abendessen in dieser lebhaften Gegend.",
+            "hu": "Élvezze a délután hátralévő részét és a vacsorát ezen a nyüzsgő környéken.",
+            "ro": "Bucurați-vă de restul după-amiezii și de cină în această zonă vibrantă.",
+            "en": "Enjoy the rest of your afternoon and your dinner in this vibrant area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag, indem Sie mit dem Bus ins Herz von Exeter fahren. Der Morgen ist dem historischen Zentrum gewidmet, mit einem Spaziergang von der Guildhall zur Kathedrale. Am Mittag erkunden Sie zu Fuß das Museum und die Schlossgärten. Am Nachmittag bringt Sie eine kurze Busfahrt zum lebhaften Quayside, wo Sie den Rest des Tages mit Erkunden, Entspannen und Essen an den Ufern des Flusses Exe verbringen können.",
+        "hu": "Kezdje a napot egy buszúttal Exeter szívébe. A délelőtt a történelmi központé, egy sétával a céhháztól a katedrálisig. Délben gyalog fedezze fel a múzeumot és a várkerteket. Délután egy rövid buszút elviszi a nyüzsgő rakpartra, ahol a nap hátralévő részét felfedezéssel, pihenéssel és evéssel töltheti az Exe folyó partján.",
+        "ro": "Începeți ziua luând un autobuz spre inima orașului Exeter. Dimineața este dedicată centrului istoric, cu o plimbare de la Guildhall la Catedrală. La prânz, explorați pe jos muzeul și grădinile castelului. După-amiaza, o scurtă călătorie cu autobuzul vă va duce la vibrantul Chei, unde vă puteți petrece restul zilei explorând, relaxându-vă și luând masa pe malurile râului Exe.",
+        "en": "Start your day by taking a bus into the heart of Exeter. The morning is for the historic centre, with a walk from the Guildhall to the Cathedral. At midday, explore the museum and castle gardens on foot. In the afternoon, a short bus ride takes you to the vibrant Quayside, where you can spend the rest of your day exploring, relaxing, and dining by the banks of the River Exe."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Exploding Bakery",
+            "tip": "In der Nähe des Hauptbahnhofs, ideal für Kaffee und Kuchen vor oder nach Ihrer Reise."
+          },
+          {
+            "name": "The Flat",
+            "tip": "Ein bei Einheimischen beliebtes vegetarisches und veganes Pizzalokal."
+          },
+          {
+            "name": "Puerto Lounge",
+            "tip": "Ein entspannter Ort für ganztägiges Essen und Getränke mit Blick auf den Quayside."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Exploding Bakery",
+            "tip": "A központi pályaudvar közelében, ideális kávéra és süteményre az utazás előtt vagy után."
+          },
+          {
+            "name": "The Flat",
+            "tip": "A helyiek körében népszerű vegetáriánus és vegán pizzázó."
+          },
+          {
+            "name": "Puerto Lounge",
+            "tip": "Laza hely egész napos étkezéshez és italozáshoz, kilátással a rakpartra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Exploding Bakery",
+            "tip": "Aproape de gara centrală, excelent pentru cafea și prăjituri înainte sau după călătorie."
+          },
+          {
+            "name": "The Flat",
+            "tip": "Un local de pizza vegetariană și vegană, popular printre localnici."
+          },
+          {
+            "name": "Puerto Lounge",
+            "tip": "Un loc relaxat pentru mese pe tot parcursul zilei și băuturi cu vedere la Chei."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Exploding Bakery",
+            "tip": "Near the central station, great for coffee and cake before or after your journey."
+          },
+          {
+            "name": "The Flat",
+            "tip": "A popular vegetarian and vegan pizza place loved by locals."
+          },
+          {
+            "name": "Puerto Lounge",
+            "tip": "A relaxed spot for all-day dining and drinks overlooking the Quayside."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bury Meadow Park",
+            "tip": "Ein schöner Park hinter dem Museum für eine Pause vom Sightseeing.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "St. Nicholas Priory",
+            "tip": "Ein verborgenes Juwel und das älteste erhaltene Gebäude der Stadt, sehr friedlich.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang entlang des Kanals",
+            "tip": "Gehen Sie vom Quayside aus und folgen Sie dem Schiffskanal für eine flache, ruhige Wanderung.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bury Meadow Park",
+            "tip": "Egy szép park a múzeum mögött, pihenésre a városnézés közben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szent Miklós-priorátus",
+            "tip": "Rejtett kincs és a város legrégebbi fennmaradt épülete, nagyon békés.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a csatorna mentén",
+            "tip": "Sétáljon el a rakparttól, és kövesse a hajócsatornát egy sík, csendes sétáért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Bury Meadow",
+            "tip": "Un parc minunat în spatele muzeului pentru o pauză de la vizitarea obiectivelor turistice.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Prioratul Sf. Nicolae",
+            "tip": "O bijuterie ascunsă și cea mai veche clădire supraviețuitoare din oraș, foarte pașnică.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare pe canal",
+            "tip": "Porniți de la Chei și urmați canalul de navigație pentru o plimbare plată și liniștită.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bury Meadow Park",
+            "tip": "A lovely park behind the museum for a break from sightseeing.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "St Nicholas Priory",
+            "tip": "A hidden gem and the oldest surviving building in the city, very peaceful.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Canal-side Walk",
+            "tip": "Head from the Quayside and follow the ship canal for a flat, quiet walk.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fore Street",
+            "tip": "Bekannt für seine alternativen Geschäfte, Vintage-Kleidung und Plattenläden."
+          },
+          {
+            "name": "Princesshay",
+            "tip": "Das wichtigste Einkaufszentrum für bekannte Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fore Street",
+            "tip": "Alternatív üzleteiről, vintage ruháiról és lemezboltjairól ismert."
+          },
+          {
+            "name": "Princesshay",
+            "tip": "A fő bevásárlóközpont a nagynevű márkák számára."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Fore",
+            "tip": "Cunoscută pentru magazinele sale alternative, îmbrăcămintea vintage și magazinele de discuri."
+          },
+          {
+            "name": "Princesshay",
+            "tip": "Principalul centru comercial pentru mărcile de renume."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fore Street",
+            "tip": "Known for its alternative shops, vintage clothing, and record stores."
+          },
+          {
+            "name": "Princesshay",
+            "tip": "The main shopping centre for high-street brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten mit den meisten Busdiensten.",
+          "Die Stagecoach-Bus-App ist nützlich für Live-Zeiten und Routenplanung.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar, sodass Sie Busse für längere Strecken wie zum Quayside sparen können.",
+          "Die Busse können während der Hauptverkehrszeiten und an Spieltagen überfüllt sein."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz a legtöbb buszjáraton.",
+          "A Stagecoach buszalkalmazás hasznos az élő menetrendekhez és az útvonaltervezéshez.",
+          "A legtöbb központi látnivaló gyalogosan is könnyen elérhető, így a buszokat hosszabb távolságokra, például a rakpartra érdemes tartogatni.",
+          "A buszok zsúfoltak lehetnek csúcsidőben és meccsnapokon."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate cu majoritatea serviciilor de autobuz.",
+          "Aplicația Stagecoach bus este utilă pentru orele live și planificarea rutelor.",
+          "Majoritatea atracțiilor centrale sunt ușor accesibile pe jos, așa că păstrați autobuzele pentru distanțe mai lungi, cum ar fi spre Chei.",
+          "Autobuzele pot fi aglomerate în timpul orelor de vârf și în zilele de meci."
+        ],
+        "en": [
+          "Buy a DayRider ticket for unlimited travel on most bus services.",
+          "The Stagecoach bus app is useful for live timings and route planning.",
+          "Most central attractions are easily walkable, so save buses for longer hops like to the Quayside.",
+          "Buses can be crowded during peak hours and on match days."
+        ]
+      }
+    }
+  }
+}

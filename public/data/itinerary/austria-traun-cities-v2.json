@@ -1,0 +1,1100 @@
+{
+  "city_id": "austria-traun-cities-v2",
+  "anchor": {
+    "name": "Traun",
+    "coords": [
+      14.2386,
+      48.2217
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathausplatz",
+            "hu": "Városháza tér",
+            "ro": "Piața Primăriei",
+            "en": "Town Hall Square"
+          },
+          "coords": [
+            14.2386,
+            48.2217
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie mit einem Kaffee in einem der Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában!",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
+            "en": "Start your day with a coffee at one of the square's cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche Traun",
+            "hu": "Trauni városi plébániatemplom",
+            "ro": "Biserica Parohială din Traun",
+            "en": "Traun Parish Church"
+          },
+          "coords": [
+            14.2395,
+            48.2214
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die modernen Glasfenster, die einen Kontrast zur traditionellen Architektur bilden.",
+            "hu": "Figyelje meg a modern üvegablakokat, melyek kontrasztot alkotnak a hagyományos építészettel.",
+            "ro": "Observați vitraliile moderne care contrastează cu arhitectura tradițională.",
+            "en": "Look for the modern stained glass windows, which contrast with the traditional architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Galerie der Stadt Traun",
+            "hu": "Traun Városi Galéria",
+            "ro": "Galeria Orașului Traun",
+            "en": "Gallery of the City of Traun"
+          },
+          "coords": [
+            14.238,
+            48.2225
+          ],
+          "category": "museums",
+          "arrive_at": "10:29",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Informieren Sie sich über aktuelle Ausstellungen lokaler und regionaler Künstler.",
+            "hu": "Nézzen utána a helyi és regionális művészek aktuális kiállításainak.",
+            "ro": "Verificați expozițiile curente ale artiștilor locali și regionali.",
+            "en": "Check for current exhibitions of local and regional artists."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Traun",
+            "hu": "Trauni kastély",
+            "ro": "Castelul Traun",
+            "en": "Traun Castle"
+          },
+          "coords": [
+            14.2442,
+            48.2255
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:45",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der Schlosshof ist oft Schauplatz von Kulturveranstaltungen – prüfen Sie den Kalender.",
+            "hu": "A kastély udvara gyakran ad otthont kulturális eseményeknek – ellenőrizze a naptárt!",
+            "ro": "Curtea castelului găzduiește adesea evenimente culturale - verificați calendarul.",
+            "en": "The castle courtyard often hosts cultural events – check the calendar."
+          }
+        },
+        {
+          "name": {
+            "de": "Traunauen",
+            "hu": "Traun-ártér",
+            "ro": "Lunca râului Traun",
+            "en": "Traun Floodplains"
+          },
+          "coords": [
+            14.248,
+            48.2301
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:25",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause. Bringen Sie ein Picknick mit oder entspannen Sie am Flussufer.",
+            "hu": "Tökéletes hely egy ebédszünetre. Hozzon magával piknikkosarat, vagy pihenjen a folyóparton.",
+            "ro": "Perfect pentru o pauză de prânz. Aduceți un picnic sau relaxați-vă pe malul râului.",
+            "en": "Perfect for a lunch break. Bring a picnic or relax by the riverbank."
+          }
+        },
+        {
+          "name": {
+            "de": "Oedter See",
+            "hu": "Oedter-tó",
+            "ro": "Lacul Oedter",
+            "en": "Oedter See"
+          },
+          "coords": [
+            14.2259,
+            48.2132
+          ],
+          "category": "natural features",
+          "arrive_at": "15:06",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Ein erfrischendes Bad an einem warmen Tag oder ein Spaziergang um den See.",
+            "hu": "Egy frissítő úszás egy meleg napon, vagy egy séta a tó körül.",
+            "ro": "O baie răcoritoare într-o zi caldă sau o plimbare în jurul lacului.",
+            "en": "A refreshing swim on a warm day or a walk around the lake."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Tag zu Fuß durch Traun beginnt am belebten Rathausplatz und führt Sie zur spirituellen Ruhe der Stadtpfarrkirche. Am Vormittag entdecken Sie in der städtischen Galerie lokale Kunstschätze. Der Nachmittag gehört ganz der Geschichte im majestätischen Schloss Traun, gefolgt von einer entspannenden Pause in den grünen Traunauen. Der Spaziergang endet mit der natürlichen Schönheit des Oedter Sees, wo Sie die Eindrücke des Tages in aller Ruhe Revue passieren lassen können.",
+        "hu": "A gyalogos nap Traunban a nyüzsgő Városháza téren kezdődik, majd a városi plébániatemplom spirituális csendjébe vezet. Délelőtt a városi galériában helyi művészeti kincseket fedezhet fel. A délután a fenséges trauni kastély történelméé, amit egy pihentető szünet követ a zöldellő Traun-ártéren. A séta az Oedter-tó természeti szépségével zárul, ahol nyugodtan átgondolhatja a nap élményeit.",
+        "ro": "O zi pe jos prin Traun începe în vibranta Piața Primăriei și vă duce la liniștea spirituală a Bisericii Parohiale. În cursul dimineții, descoperiți comori de artă locală la Galeria Orașului. După-amiaza este dedicată istoriei la majestuosul Castel Traun, urmată de o pauză relaxantă în luncile verzi ale râului Traun. Plimbarea se încheie cu frumusețea naturală a lacului Oedter, unde puteți reflecta în tihnă la impresiile zilei.",
+        "en": "A day on foot through Traun begins at the lively Town Hall Square and leads you to the spiritual tranquility of the Parish Church. In the morning, you'll discover local art treasures at the city gallery. The afternoon is dedicated to history at the majestic Traun Castle, followed by a relaxing break in the green Traun floodplains. The walk concludes with the natural beauty of Oedter See, where you can peacefully reflect on the day's experiences."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gasthof 'Zum Grünen Baum'",
+            "tip": "Probieren Sie das klassische Wiener Schnitzel in diesem traditionellen Gasthof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gasthof 'Zum Grünen Baum'",
+            "tip": "Kóstolja meg a klasszikus bécsi szeletet ebben a hagyományos fogadóban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gasthof 'Zum Grünen Baum'",
+            "tip": "Încercați clasicul Wiener Schnitzel la acest han tradițional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gasthof 'Zum Grünen Baum'",
+            "tip": "Try the classic Wiener Schnitzel at this traditional inn."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Traunauen",
+            "tip": "Ein ruhiger Platz am Flussufer, um die Natur zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bank am Oedter See",
+            "tip": "Finden Sie eine Parkbank mit Blick auf den See für einen Moment der Stille.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Traun-ártér partja",
+            "tip": "Egy csendes hely a folyóparton, ahol élvezheti a természetet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pad az Oedter-tónál",
+            "tip": "Keressen egy padot, ahonnan a tóra nézve elcsendesedhet egy pillanatra.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul luncii Traun",
+            "tip": "Un loc liniștit pe malul râului pentru a vă bucura de natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O bancă pe malul lacului Oedter",
+            "tip": "Găsiți o bancă cu vedere la lac pentru un moment de liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Traun Floodplains",
+            "tip": "A quiet spot on the riverbank to enjoy nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bench at Oedter See",
+            "tip": "Find a park bench overlooking the lake for a moment of silence.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt Traun",
+            "tip": "Frische, lokale Produkte und handgemachte Waren finden Sie auf dem Wochenmarkt (Termine prüfen)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trauni heti piac",
+            "tip": "Friss, helyi termékeket és kézműves árukat talál a heti piacon (ellenőrizze a napokat)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală din Traun",
+            "tip": "Găsiți produse locale proaspete și articole de artizanat la piața săptămânală (verificați programul)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Traun Weekly Market",
+            "tip": "Find fresh, local produce and handmade goods at the weekly market (check for dates)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag unterwegs sein werden.",
+          "Eine wiederverwendbare Wasserflasche ist nützlich, besonders an warmen Tagen.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap talpon lesz.",
+          "Egy újratölthető vizes palack hasznos, különösen meleg napokon.",
+          "A legtöbb belvárosi látnivaló könnyen elérhető gyalog."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți fi pe drum toată ziua.",
+          "O sticlă de apă reutilizabilă este utilă, mai ales în zilele călduroase.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos."
+        ],
+        "en": [
+          "Wear comfortable shoes, as you'll be on your feet all day.",
+          "A reusable water bottle is useful, especially on warm days.",
+          "Most sights in the center are within easy walking distance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:47",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathausplatz & Start",
+            "hu": "Városháza tér és Indulás",
+            "ro": "Piața Primăriei & Start",
+            "en": "Town Hall Square & Start"
+          },
+          "coords": [
+            14.2386,
+            48.2217
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab und erkunden Sie den Platz.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és fedezze fel a teret.",
+            "ro": "Asigurați-vă bicicleta și explorați piața.",
+            "en": "Securely park your bike and explore the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Traun",
+            "hu": "Trauni kastély",
+            "ro": "Castelul Traun",
+            "en": "Traun Castle"
+          },
+          "coords": [
+            14.2442,
+            48.2255
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:36",
+          "stay_min": 70,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Fahrradständer am Eingang des Schlossparks.",
+            "hu": "Használja a kastélypark bejáratánál található kerékpártárolókat.",
+            "ro": "Folosiți suporturile pentru biciclete de la intrarea în parcul castelului.",
+            "en": "Use the bike racks at the entrance to the castle park."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Spinnerei",
+            "hu": "Spinnerei Kulturális Központ",
+            "ro": "Centrul Cultural Spinnerei",
+            "en": "Spinnerei Cultural Centre"
+          },
+          "coords": [
+            14.255,
+            48.224
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:00",
+          "stay_min": 50,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Ein interessanter Stopp, um die industrielle Vergangenheit und kreative Gegenwart der Stadt zu sehen.",
+            "hu": "Érdekes megálló, hogy megismerje a város ipari múltját és kreatív jelenét.",
+            "ro": "O oprire interesantă pentru a vedea trecutul industrial și prezentul creativ al orașului.",
+            "en": "An interesting stop to see the city's industrial past and creative present."
+          }
+        },
+        {
+          "name": {
+            "de": "Traunauen",
+            "hu": "Traun-ártér",
+            "ro": "Lunca râului Traun",
+            "en": "Traun Floodplains"
+          },
+          "coords": [
+            14.248,
+            48.2301
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:08",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Der Radweg entlang der Traun ist ideal für eine entspannte Fahrt und ein Picknick.",
+            "hu": "A Traun menti kerékpárút ideális egy kellemes tekeréshez és piknikezéshez.",
+            "ro": "Pista de biciclete de-a lungul râului Traun este ideală pentru o plimbare relaxantă și un picnic.",
+            "en": "The cycle path along the Traun river is ideal for a relaxed ride and a picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Oedter See",
+            "hu": "Oedter-tó",
+            "ro": "Lacul Oedter",
+            "en": "Oedter See"
+          },
+          "coords": [
+            14.2259,
+            48.2132
+          ],
+          "category": "natural features",
+          "arrive_at": "14:14",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 6.2,
+          "tip_5lang": {
+            "de": "Umfahren Sie den See mit dem Rad, bevor Sie sich am Ufer für eine längere Pause niederlassen.",
+            "hu": "Tekerje körbe a tavat, mielőtt letelepedne a parton egy hosszabb pihenőre.",
+            "ro": "Înconjurați lacul cu bicicleta înainte de a vă stabili pe mal pentru o pauză mai lungă.",
+            "en": "Cycle around the lake before settling on the shore for a longer break."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie Traun auf eine aktive Weise. Vom Rathausplatz aus radeln Sie zum historischen Schloss Traun. Die Tour führt Sie weiter zum Kulturzentrum Spinnerei, einem Zeugnis der industriellen Geschichte. Am Mittag genießen Sie die Natur entlang der Traunauen, ideal für eine ausgedehnte Pause. Der Höhepunkt des Nachmittags ist die Fahrt zum Oedter See, wo Sie schwimmen oder einfach nur die Seele baumeln lassen können.",
+        "hu": "Kerékpárral aktívan fedezheti fel Traunt. A Városháza térről a történelmi trauni kastélyhoz teker. Az út a Spinnerei Kulturális Központhoz vezet tovább, amely az ipari történelem tanúja. Délben élvezze a természetet a Traun-ártér mentén, ami ideális egy hosszabb szünetre. A délután csúcspontja az Oedter-tóhoz vezető út, ahol úszhat vagy egyszerűen csak lazíthat.",
+        "ro": "Explorați Traun într-un mod activ cu bicicleta. De la Piața Primăriei, pedalați spre istoricul Castel Traun. Turul vă duce mai departe la Centrul Cultural Spinnerei, o mărturie a istoriei industriale. La prânz, bucurați-vă de natură de-a lungul luncilor râului Traun, ideale pentru o pauză prelungită. Punctul culminant al după-amiezii este plimbarea cu bicicleta până la lacul Oedter, unde puteți înota sau pur și simplu vă puteți relaxa.",
+        "en": "Explore Traun in an active way by bike. From the Town Hall Square, you'll cycle to the historic Traun Castle. The tour continues to the Spinnerei Cultural Centre, a testament to industrial history. At noon, enjoy nature along the Traun floodplains, ideal for an extended break. The highlight of the afternoon is the ride to Oedter See, where you can swim or simply relax and unwind."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Seerestaurant Oedtersee",
+            "tip": "Genießen Sie frischen Fisch mit Blick auf den See."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Seerestaurant Oedtersee",
+            "tip": "Élvezze a friss halat a tóra néző kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Seerestaurant Oedtersee",
+            "tip": "Savurați pește proaspăt cu vedere la lac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Seerestaurant Oedtersee",
+            "tip": "Enjoy fresh fish with a view of the lake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg an den Traunauen",
+            "tip": "Halten Sie an einer beliebigen Stelle an und lauschen Sie dem Rauschen des Flusses.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Abgelegene Bucht am Oedter See",
+            "tip": "Suchen Sie sich ein ruhiges Plätzchen abseits des Hauptstrandes.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Traun-ártéren",
+            "tip": "Álljon meg bárhol, és hallgassa a folyó zúgását.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Elhagyatott öböl az Oedter-tónál",
+            "tip": "Keressen egy csendes helyet a fő strandtól távol.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul luncilor Traun",
+            "tip": "Opriți-vă oriunde doriți și ascultați susurul apei.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Un golf retras la lacul Oedter",
+            "tip": "Găsiți un loc liniștit, departe de plaja principală.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cycle path on the Traun floodplains",
+            "tip": "Stop anywhere you like and listen to the sound of the river.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Secluded bay at Oedter See",
+            "tip": "Find a quiet spot away from the main beach.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft im Zentrum",
+            "tip": "Falls Sie Zubehör oder eine schnelle Reparatur benötigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt a központban",
+            "tip": "Ha kiegészítőkre vagy gyors javításra van szüksége."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete în centru",
+            "tip": "În caz că aveți nevoie de accesorii sau de o reparație rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shop in the center",
+            "tip": "In case you need accessories or a quick repair."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck, bevor Sie losfahren.",
+          "Ein Helm wird dringend empfohlen.",
+          "Nutzen Sie die gut ausgebauten Radwege entlang der Traun."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Sisak viselése erősen ajánlott.",
+          "Használja a jól kiépített kerékpárutakat a Traun mentén."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de a porni.",
+          "Casca este puternic recomandată.",
+          "Folosiți pistele de biciclete bine dezvoltate de-a lungul râului Traun."
+        ],
+        "en": [
+          "Check your tire pressure before you start.",
+          "A helmet is highly recommended.",
+          "Use the well-developed cycle paths along the Traun river."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Zentrum - Parken & Rathausplatz",
+            "hu": "1. klaszter: Központ - Parkolás és Városháza tér",
+            "ro": "Cluster 1: Centru - Parcare & Piața Primăriei",
+            "en": "Cluster 1: Center - Parking & Town Hall Square"
+          },
+          "coords": [
+            14.2386,
+            48.2217
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie in einer der Tiefgaragen im Zentrum für den ersten Teil des Tages.",
+            "hu": "Parkoljon a belváros egyik mélygarázsában a nap első felére.",
+            "ro": "Parcați într-una dintre parcările subterane din centru pentru prima parte a zilei.",
+            "en": "Park in one of the underground garages in the center for the first part of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche Traun",
+            "hu": "Trauni városi plébániatemplom",
+            "ro": "Biserica Parohială din Traun",
+            "en": "Traun Parish Church"
+          },
+          "coords": [
+            14.2395,
+            48.2214
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:34",
+          "stay_min": 35,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Rathausplatz entfernt.",
+            "hu": "Csak egy rövid séta a Városháza tértől.",
+            "ro": "La doar o scurtă plimbare de Piața Primăriei.",
+            "en": "Just a short walk from the Town Hall Square."
+          }
+        },
+        {
+          "name": {
+            "de": "Galerie der Stadt Traun",
+            "hu": "Traun Városi Galéria",
+            "ro": "Galeria Orașului Traun",
+            "en": "Gallery of the City of Traun"
+          },
+          "coords": [
+            14.238,
+            48.2225
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kehren Sie zum Rathausplatz zurück und überqueren Sie ihn, um die Galerie zu finden.",
+            "hu": "Térjen vissza a Városháza térre, és menjen át rajta, hogy megtalálja a galériát.",
+            "ro": "Întoarceți-vă la Piața Primăriei și traversați-o pentru a găsi galeria.",
+            "en": "Return to the Town Hall Square and cross it to find the gallery."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Natur & Erholung - Oedter See",
+            "hu": "2. klaszter: Természet és pihenés - Oedter-tó",
+            "ro": "Cluster 2: Natură și relaxare - Lacul Oedter",
+            "en": "Cluster 2: Nature & Recreation - Oedter See"
+          },
+          "coords": [
+            14.2259,
+            48.2132
+          ],
+          "category": "natural features",
+          "arrive_at": "11:20",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum großen Parkplatz am See. Ideal für die Mittagspause und einen Spaziergang.",
+            "hu": "Hajtson a tónál lévő nagy parkolóba. Ideális ebédszünethez és sétához.",
+            "ro": "Conduceți până la parcarea mare de lângă lac. Ideal pentru pauza de prânz și o plimbare.",
+            "en": "Drive to the large parking lot by the lake. Ideal for a lunch break and a walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Geschichte & Industrie - Schloss Traun",
+            "hu": "3. klaszter: Történelem és ipar - Trauni kastély",
+            "ro": "Cluster 3: Istorie și industrie - Castelul Traun",
+            "en": "Cluster 3: History & Industry - Traun Castle"
+          },
+          "coords": [
+            14.2442,
+            48.2255
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:38",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 7.2,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Parkmöglichkeiten direkt am Schloss.",
+            "hu": "Használja a kastélynál található parkolási lehetőségeket.",
+            "ro": "Utilizați facilitățile de parcare direct la castel.",
+            "en": "Use the parking facilities directly at the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Kraftwerk Traun-Pucking",
+            "hu": "Traun-Pucking vízerőmű",
+            "ro": "Hidrocentrala Traun-Pucking",
+            "en": "Traun-Pucking Power Plant"
+          },
+          "coords": [
+            14.2381,
+            48.2015
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:02",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Schloss, um einen Blick auf dieses beeindruckende Bauwerk zu werfen.",
+            "hu": "Egy rövid séta a kastélytól, hogy megtekinthesse ezt a lenyűgöző építményt.",
+            "ro": "O scurtă plimbare de la castel pentru a arunca o privire la această structură impresionantă.",
+            "en": "A short walk from the castle to get a look at this impressive structure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Traun in bequemen Etappen. Beginnen Sie im Zentrum, wo Sie parken und zu Fuß den Rathausplatz und die Stadtpfarrkirche entdecken. Nach diesem Stadtspaziergang fahren Sie zum Oedter See für eine ausgedehnte Mittagspause in der Natur. Der Nachmittag steht im Zeichen von Geschichte und Technik: Sie fahren zum Schloss Traun und besichtigen anschließend das nahegelegene Kraftwerk, ein faszinierendes Beispiel für Industriearchitektur, bevor Sie Ihren Tag ausklingen lassen.",
+        "hu": "Autóval kényelmes szakaszokban fedezheti fel Traunt. Kezdje a központban, ahol leparkolhat, és gyalog fedezheti fel a Városháza teret és a plébániatemplomot. E városi séta után hajtson az Oedter-tóhoz egy kiadós ebédszünetre a természetben. A délután a történelem és a technika jegyében telik: elautózik a trauni kastélyhoz, majd megtekinti a közeli erőművet, az ipari építészet lenyűgöző példáját, mielőtt lezárná a napot.",
+        "ro": "Cu mașina, explorați Traun în etape convenabile. Începeți în centru, unde parcați și explorați pe jos Piața Primăriei și Biserica Parohială. După această plimbare urbană, conduceți spre lacul Oedter pentru o pauză de prânz prelungită în natură. După-amiaza este dedicată istoriei și tehnologiei: conduceți la Castelul Traun și apoi vizitați hidrocentrala din apropiere, un exemplu fascinant de arhitectură industrială, înainte de a încheia ziua.",
+        "en": "By car, you can explore Traun in convenient stages. Start in the center, where you can park and explore the Town Hall Square and the Parish Church on foot. After this city walk, drive to Oedter See for an extended lunch break in nature. The afternoon is dedicated to history and technology: drive to Traun Castle and then visit the nearby power plant, a fascinating example of industrial architecture, before ending your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schlosstaverne Traun",
+            "tip": "Speisen Sie in historischem Ambiente direkt neben dem Schloss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Schlosstaverne Traun",
+            "tip": "Étkezzen történelmi környezetben, közvetlenül a kastély mellett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Schlosstaverne Traun",
+            "tip": "Luați masa într-o ambianță istorică, chiar lângă castel."
+          }
+        ],
+        "en": [
+          {
+            "name": "Schlosstaverne Traun",
+            "tip": "Dine in a historic ambiance right next to the castle."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlosspark Traun",
+            "tip": "Nach der Besichtigung des Schlosses lädt der Park zum Verweilen ein.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spazierweg am Kraftwerk",
+            "tip": "Beobachten Sie die Kraft des Wassers von einem ruhigen Beobachtungspunkt aus.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trauni kastélypark",
+            "tip": "A kastély megtekintése után a park hívogat egy kis pihenésre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sétaút az erőműnél",
+            "tip": "Figyelje a víz erejét egy csendes megfigyelőpontról.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului Traun",
+            "tip": "După vizitarea castelului, parcul vă invită la relaxare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aleea de lângă hidrocentrală",
+            "tip": "Priviți forța apei dintr-un punct de observație liniștit.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Traun Castle Park",
+            "tip": "After visiting the castle, the park invites you to linger.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Walkway at the power plant",
+            "tip": "Watch the power of the water from a quiet observation point.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofladen in der Umgebung",
+            "tip": "Halten Sie Ausschau nach Hofläden für regionale Spezialitäten, wenn Sie aus der Stadt fahren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői bolt a környéken",
+            "tip": "A városból kifelé tartva keresse a helyi specialitásokat árusító termelői boltokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de fermă în zonă",
+            "tip": "Căutați magazinele de fermă pentru specialități regionale în timp ce ieșiți din oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shop in the area",
+            "tip": "Look out for farm shops for regional specialties as you drive out of town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie eine Park-App, um die Parkgebühren einfach zu bezahlen.",
+          "Planen Sie Ihre Route zwischen den Clustern im Voraus.",
+          "Ein Auto gibt Ihnen die Flexibilität, auch etwas außerhalb gelegene Ziele zu erreichen."
+        ],
+        "hu": [
+          "Használjon parkolási alkalmazást a parkolási díjak egyszerű fizetéséhez.",
+          "Tervezze meg előre az útvonalat a klaszterek között.",
+          "Az autó rugalmasságot biztosít a kissé távolabbi célpontok eléréséhez is."
+        ],
+        "ro": [
+          "Folosiți o aplicație de parcare pentru a plăti cu ușurință taxele.",
+          "Planificați-vă traseul între clustere în avans.",
+          "O mașină vă oferă flexibilitatea de a ajunge la destinații puțin mai îndepărtate."
+        ],
+        "en": [
+          "Use a parking app to easily pay parking fees.",
+          "Plan your route between clusters in advance.",
+          "A car gives you the flexibility to reach destinations that are a bit further out."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 7.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Zentrum - Rathausplatz",
+            "hu": "1. klaszter: Központ - Városháza tér",
+            "ro": "Cluster 1: Centru - Piața Primăriei",
+            "en": "Cluster 1: Center - Town Hall Square"
+          },
+          "coords": [
+            14.2386,
+            48.2217
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Der Hauptplatz ist der zentrale Knotenpunkt für viele Buslinien.",
+            "hu": "A főtér számos buszjárat központi csomópontja.",
+            "ro": "Piața principală este nodul central pentru multe linii de autobuz.",
+            "en": "The main square is the central hub for many bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche Traun",
+            "hu": "Trauni városi plébániatemplom",
+            "ro": "Biserica Parohială din Traun",
+            "en": "Traun Parish Church"
+          },
+          "coords": [
+            14.2395,
+            48.2214
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:39",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Fußweg vom zentralen Busbahnhof.",
+            "hu": "Rövid séta a központi buszpályaudvartól.",
+            "ro": "O scurtă plimbare de la autogara centrală.",
+            "en": "A short walk from the central bus station."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Kultur & Geschichte - Schloss Traun",
+            "hu": "2. klaszter: Kultúra és történelem - Trauni kastély",
+            "ro": "Cluster 2: Cultură și istorie - Castelul Traun",
+            "en": "Cluster 2: Culture & History - Traun Castle"
+          },
+          "coords": [
+            14.2442,
+            48.2255
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:43",
+          "stay_min": 80,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in Richtung Schloss. Die Haltestelle ist nur wenige Gehminuten entfernt.",
+            "hu": "Menjen busszal a kastély irányába. A megálló csak néhány perc sétára van.",
+            "ro": "Luați un autobuz spre castel. Stația este la doar câteva minute de mers pe jos.",
+            "en": "Take a bus towards the castle. The stop is just a few minutes' walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Spinnerei",
+            "hu": "Spinnerei Kulturális Központ",
+            "ro": "Centrul Cultural Spinnerei",
+            "en": "Spinnerei Cultural Centre"
+          },
+          "coords": [
+            14.255,
+            48.224
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:11",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein Spaziergang durch den Schlosspark führt Sie fast bis zur Spinnerei.",
+            "hu": "A kastélyparkon keresztül sétálva szinte eljut a Spinnerei-ig.",
+            "ro": "O plimbare prin parcul castelului vă va duce aproape de Spinnerei.",
+            "en": "A walk through the castle park will take you almost to the Spinnerei."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Freizeit - Oedter See",
+            "hu": "3. klaszter: Szabadidő - Oedter-tó",
+            "ro": "Cluster 3: Agrement - Lacul Oedter",
+            "en": "Cluster 3: Leisure - Oedter See"
+          },
+          "coords": [
+            14.2259,
+            48.2132
+          ],
+          "category": "natural features",
+          "arrive_at": "13:30",
+          "stay_min": 150,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Eine direkte Buslinie bringt Sie von der Nähe der Spinnerei zum See.",
+            "hu": "Egy közvetlen buszjárat visz a Spinnerei közeléből a tóhoz.",
+            "ro": "O linie directă de autobuz vă duce de lângă Spinnerei la lac.",
+            "en": "A direct bus line takes you from near the Spinnerei to the lake."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln lässt sich Traun stressfrei erkunden. Starten Sie im Zentrum und spazieren Sie zur Kirche. Nehmen Sie dann den Bus zum Schloss Traun und entdecken Sie das nahegelegene Kulturzentrum zu Fuß. Am Nachmittag bringt Sie ein weiterer Bus direkt zum Oedter See, wo Sie den Rest des Tages mit Schwimmen, Spazierengehen oder einfach nur Entspannen in der Natur verbringen können. Diese Tour kombiniert Kultur und Erholung perfekt.",
+        "hu": "A tömegközlekedéssel stresszmentesen fedezheti fel Traunt. Kezdje a központban, és sétáljon el a templomhoz. Ezután szálljon buszra a trauni kastélyhoz, és fedezze fel gyalog a közeli kulturális központot. Délután egy másik busz közvetlenül az Oedter-tóhoz viszi, ahol a nap hátralévő részét úszással, sétával vagy egyszerűen a természetben való pihenéssel töltheti. Ez a túra tökéletesen ötvözi a kultúrát és a pihenést.",
+        "ro": "Cu transportul public, puteți explora Traun fără stres. Începeți în centru și faceți o plimbare până la biserică. Apoi, luați autobuzul spre Castelul Traun și explorați pe jos centrul cultural din apropiere. După-amiaza, un alt autobuz vă duce direct la lacul Oedter, unde puteți petrece restul zilei înotând, plimbându-vă sau pur și simplu relaxându-vă în natură. Acest tur combină perfect cultura și recreerea.",
+        "en": "With public transport, you can explore Traun stress-free. Start in the center and take a walk to the church. Then, take the bus to Traun Castle and explore the nearby cultural center on foot. In the afternoon, another bus takes you directly to Oedter See, where you can spend the rest of the day swimming, walking, or simply relaxing in nature. This tour perfectly combines culture and recreation."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Imbiss am Oedter See",
+            "tip": "Für einen schnellen Snack oder ein Eis direkt am Wasser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Büfé az Oedter-tónál",
+            "tip": "Egy gyors harapnivalóért vagy egy fagylaltért közvetlenül a vízparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gustare la lacul Oedter",
+            "tip": "Pentru o gustare rapidă sau o înghețată chiar lângă apă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Snack bar at Oedter See",
+            "tip": "For a quick snack or an ice cream right by the water."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirchplatz am späten Nachmittag",
+            "tip": "Nachdem die meisten Besucher gegangen sind, finden Sie hier eine Oase der Ruhe.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Das Ufer gegenüber dem Hauptstrand am Oedter See",
+            "tip": "Weniger überlaufen und ideal zum Entspannen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A templomtér késő délután",
+            "tip": "Miután a legtöbb látogató elment, a nyugalom oázisára lel itt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A fő stranddal szembeni part az Oedter-tónál",
+            "tip": "Kevésbé zsúfolt és ideális a pihenésre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața bisericii după-amiaza târziu",
+            "tip": "După plecarea majorității vizitatorilor, veți găsi aici o oază de liniște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malul opus plajei principale de la lacul Oedter",
+            "tip": "Mai puțin aglomerat și ideal pentru relaxare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "The church square in the late afternoon",
+            "tip": "After most visitors have left, you will find an oasis of calm here.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "The shore opposite the main beach at Oedter See",
+            "tip": "Less crowded and ideal for relaxing.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Besorgen Sie sich Zeitschriften oder Snacks für die Fahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszpályaudvaron",
+            "tip": "Szerezzen be magazinokat vagy rágcsálnivalót az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la autogară",
+            "tip": "Cumpărați reviste sau gustări pentru călătorie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus station",
+            "tip": "Get magazines or snacks for the ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel, um Geld zu sparen.",
+          "Laden Sie die Fahrplan-App herunter, um die Abfahrtszeiten in Echtzeit zu sehen.",
+          "Achten Sie auf die letzte Busverbindung zurück ins Zentrum."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
+          "Töltse le a menetrendi alkalmazást a valós idejű indulási idők megtekintéséhez.",
+          "Figyeljen az utolsó, belvárosba tartó buszjáratra."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru a economisi bani.",
+          "Descărcați aplicația cu orare pentru a vedea orele de plecare în timp real.",
+          "Fiți atenți la ultima legătură de autobuz înapoi spre centru."
+        ],
+        "en": [
+          "Buy a day ticket for public transport to save money.",
+          "Download the timetable app to see real-time departure times.",
+          "Pay attention to the last bus connection back to the center."
+        ]
+      }
+    }
+  }
+}

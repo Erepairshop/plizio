@@ -1,0 +1,1460 @@
+{
+  "city_id": "iceland-gardabaer-cities-v2",
+  "anchor": {
+    "name": "Garðabær",
+    "coords": [
+      -21.9214,
+      64.0886
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Historischer Park Hofstaðir",
+            "hu": "Hofstaðir Történelmi Park",
+            "ro": "Parcul Istoric Hofstaðir",
+            "en": "Hofstaðir Historical Park"
+          },
+          "coords": [
+            -21.9333,
+            64.0861
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die Überreste eines Langhauses aus der Wikingerzeit.",
+            "hu": "Fedezze fel egy viking kori hosszúház maradványait.",
+            "ro": "Explorați vestigiile unei case lungi din epoca vikingilor.",
+            "en": "Explore the remnants of a Viking-age longhouse."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Design und Angewandte Kunst",
+            "hu": "Dizájn és Iparművészeti Múzeum",
+            "ro": "Muzeul de Design și Artă Aplicată",
+            "en": "Museum of Design and Applied Art"
+          },
+          "coords": [
+            -21.9221,
+            64.0905
+          ],
+          "category": "museums",
+          "arrive_at": "10:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekt, um isländisches Design vom 20. Jahrhundert bis heute zu sehen.",
+            "hu": "Tökéletes hely a 20. századi és kortárs izlandi dizájn megismerésére.",
+            "ro": "Perfect pentru a vedea designul islandez din secolul XX până în prezent.",
+            "en": "Perfect for seeing Icelandic design from the 20th century to today."
+          }
+        },
+        {
+          "name": {
+            "de": "Garðakirkja",
+            "hu": "Garðakirkja",
+            "ro": "Biserica Garðakirkja",
+            "en": "Garðakirkja Church"
+          },
+          "coords": [
+            -21.9258,
+            64.0899
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur und die friedliche Atmosphäre.",
+            "hu": "Csodálja meg a modern építészetet és a békés légkört.",
+            "ro": "Admirați arhitectura modernă și atmosfera pașnică.",
+            "en": "Admire the modern architecture and the peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the center"
+          },
+          "coords": [
+            -21.923,
+            64.091
+          ],
+          "category": "gastro",
+          "arrive_at": "13:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie ein lokales Café für eine herzhafte isländische Suppe.",
+            "hu": "Próbáljon ki egy helyi kávézót egy kiadós izlandi levesért.",
+            "ro": "Încercați o cafenea locală pentru o supă islandeză consistentă.",
+            "en": "Try a local cafe for a hearty Icelandic soup."
+          }
+        },
+        {
+          "name": {
+            "de": "Gálgahraun Lavafeld",
+            "hu": "Gálgahraun lávamező",
+            "ro": "Câmpul de lavă Gálgahraun",
+            "en": "Gálgahraun lava field"
+          },
+          "coords": [
+            -21.961,
+            64.083
+          ],
+          "category": "natural features",
+          "arrive_at": "15:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 80,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Wandern Sie durch das moosbedeckte Lavafeld, das als Elfenheim gilt.",
+            "hu": "Sétáljon át a mohával borított lávamezőn, amelyet a tündérek otthonának tartanak.",
+            "ro": "Plimbați-vă prin câmpul de lavă acoperit de mușchi, considerat casa elfilor.",
+            "en": "Walk through the moss-covered lava field, believed to be home to elves."
+          }
+        },
+        {
+          "name": {
+            "de": "Bessastaðir",
+            "hu": "Bessastaðir",
+            "ro": "Bessastaðir",
+            "en": "Bessastaðir"
+          },
+          "coords": [
+            -21.996,
+            64.105
+          ],
+          "category": "famous residences",
+          "arrive_at": "17:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 42,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Sehen Sie die offizielle Residenz des Präsidenten von Island von außen.",
+            "hu": "Tekintse meg kívülről Izland elnökének hivatalos rezidenciáját.",
+            "ro": "Vedeți reședința oficială a Președintelui Islandei din exterior.",
+            "en": "See the official residence of the President of Iceland from the outside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Garðabær beginnt mit einer Reise in die Wikingerzeit im Hofstaðir Park. Am Vormittag erkunden Sie das Beste des isländischen Designs im Designmuseum. Nach dem Mittagessen führt Sie ein Spaziergang durch das mystische Gálgahraun-Lavafeld, ein Ort voller Folklore. Der Nachmittag endet mit einem Blick auf Bessastaðir, die Residenz des Präsidenten, die die moderne isländische Identität symbolisiert.",
+        "hu": "A nap Garðabærben egy utazással kezdődik a viking korba a Hofstaðir Parkban. Délelőtt az izlandi dizájn legjavát fedezi fel a Dizájn Múzeumban. Ebéd után egy séta következik a misztikus Gálgahraun lávamezőn, amely tele van néphagyományokkal. A délután Bessastaðir, az elnöki rezidencia megtekintésével zárul, amely a modern izlandi identitást szimbolizálja.",
+        "ro": "Ziua dvs. în Garðabær începe cu o călătorie înapoi în epoca vikingilor la Parcul Hofstaðir. Dimineața explorați ce este mai bun din designul islandez la Muzeul de Design. După prânz, o plimbare vă duce prin câmpul mistic de lavă Gálgahraun, un loc plin de folclor. După-amiaza se încheie cu o privire la Bessastaðir, reședința prezidențială, simbolizând identitatea modernă a Islandei.",
+        "en": "Your day in Garðabær begins with a journey back to the Viking age at Hofstaðir Park. The morning is for exploring the best of Icelandic design at the Design Museum. After lunch, a walk takes you through the mystical Gálgahraun lava field, a place steeped in folklore. The afternoon concludes with a view of Bessastaðir, the presidential residence, symbolizing modern Icelandic identity."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kjötsúpa (Fleischsuppe)",
+            "tip": "Eine traditionelle isländische Lamm- und Gemüsesuppe, perfekt zum Aufwärmen."
+          },
+          {
+            "name": "Skyr",
+            "tip": "Probieren Sie den dicken, cremigen isländischen Joghurt mit Beeren."
+          },
+          {
+            "name": "Plokkfiskur",
+            "tip": "Ein herzhafter Fischeintopf, der oft mit Roggenbrot serviert wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kjötsúpa (húsleves)",
+            "tip": "Hagyományos izlandi bárány- és zöldségleves, tökéletes a felmelegedéshez."
+          },
+          {
+            "name": "Skyr",
+            "tip": "Kóstolja meg a sűrű, krémes izlandi joghurtot bogyós gyümölcsökkel."
+          },
+          {
+            "name": "Plokkfiskur",
+            "tip": "Kiadós halpörkölt, amelyet gyakran rozskenyérrel tálalnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kjötsúpa (Supă de carne)",
+            "tip": "O supă tradițională islandeză de miel și legume, perfectă pentru a vă încălzi."
+          },
+          {
+            "name": "Skyr",
+            "tip": "Încercați iaurtul islandez gros și cremos cu fructe de pădure."
+          },
+          {
+            "name": "Plokkfiskur",
+            "tip": "O tocană consistentă de pește, adesea servită cu pâine de secară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kjötsúpa (Meat Soup)",
+            "tip": "A traditional Icelandic lamb and vegetable soup, perfect for warming up."
+          },
+          {
+            "name": "Skyr",
+            "tip": "Try the thick, creamy Icelandic yogurt with berries."
+          },
+          {
+            "name": "Plokkfiskur",
+            "tip": "A hearty fish stew, often served with rye bread."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Vífilsstaðavatn",
+            "tip": "Ein ruhiger Ort zur Vogelbeobachtung.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gálgahraun Lavafeld",
+            "tip": "Finden Sie einen moosigen Felsen und genießen Sie die Stille.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Garðakirkja Gelände",
+            "tip": "Ein friedlicher Ort für Kontemplation.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vífilsstaðavatn tópart",
+            "tip": "Csendes hely a madármegfigyeléshez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gálgahraun lávamező",
+            "tip": "Keressen egy mohás sziklát, és élvezze a csendet.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Garðakirkja környéke",
+            "tip": "Békés hely az elmélkedésre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile lacului Vífilsstaðavatn",
+            "tip": "Un loc liniștit pentru observarea păsărilor.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Câmpul de lavă Gálgahraun",
+            "tip": "Găsiți o stâncă acoperită de mușchi și bucurați-vă de liniște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Terenul bisericii Garðakirkja",
+            "tip": "Un loc pașnic pentru contemplare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shores of Vífilsstaðavatn",
+            "tip": "A quiet spot for birdwatching.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gálgahraun Lava Field",
+            "tip": "Find a mossy rock and enjoy the silence.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Garðakirkja grounds",
+            "tip": "A peaceful area for contemplation.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerkskunst",
+            "tip": "Suchen Sie nach Wollpullovern (Lopapeysa) und Keramik in örtlichen Geschäften."
+          },
+          {
+            "name": "Isländisches Design",
+            "tip": "Der Museumsshop bietet einzigartige Stücke von isländischen Designern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen gyapjúpulóvereket (Lopapeysa) és kerámiákat a helyi boltokban."
+          },
+          {
+            "name": "Izlandi dizájn",
+            "tip": "A múzeumi bolt egyedi darabokat kínál izlandi tervezőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați pulovere de lână (Lopapeysa) și ceramică în magazinele locale."
+          },
+          {
+            "name": "Design islandez",
+            "tip": "Magazinul muzeului oferă piese unice de la designeri islandezi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local handicrafts",
+            "tip": "Look for woolen sweaters (Lopapeysa) and ceramics in local shops."
+          },
+          {
+            "name": "Icelandic Design",
+            "tip": "The museum shop offers unique pieces by Icelandic designers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie feste, bequeme Schuhe, da Sie viel laufen werden.",
+          "Das Wetter in Island kann sich schnell ändern; kleiden Sie sich in Schichten.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit; das Leitungswasser ist köstlich.",
+          "Der Spaziergang zum Gálgahraun ist lang, aber die unwirkliche Landschaft ist es wert."
+        ],
+        "hu": [
+          "Viseljen erős, kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Az időjárás Izlandon gyorsan változhat; öltözzön rétegesen.",
+          "Hozzon magával újratölthető vizes palackot; a csapvíz finom.",
+          "A séta a Gálgahraunhoz hosszú, de a földöntúli táj megéri."
+        ],
+        "ro": [
+          "Purtați pantofi rezistenți și confortabili, deoarece veți merge mult pe jos.",
+          "Vremea în Islanda se poate schimba rapid; îmbrăcați-vă în straturi.",
+          "Luați o sticlă de apă reutilizabilă; apa de la robinet este delicioasă.",
+          "Plimbarea până la Gálgahraun este lungă, dar peisajul ireal merită."
+        ],
+        "en": [
+          "Wear sturdy, comfortable shoes as you will be doing a lot of walking.",
+          "The weather in Iceland can change quickly; dress in layers.",
+          "Bring a reusable water bottle; the tap water is delicious.",
+          "The walk to Gálgahraun is long but the otherworldly landscape is worth it."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 18.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Vífilsstaðavatn See",
+            "hu": "Vífilsstaðavatn-tó",
+            "ro": "Lacul Vífilsstaðavatn",
+            "en": "Lake Vífilsstaðavatn"
+          },
+          "coords": [
+            -21.879,
+            64.075
+          ],
+          "category": "natural features",
+          "arrive_at": "09:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für eine morgendliche Radtour und Vogelbeobachtung.",
+            "hu": "Remek hely egy reggeli biciklizéshez és madármegfigyeléshez.",
+            "ro": "Un loc minunat pentru o plimbare cu bicicleta dimineața și observarea păsărilor.",
+            "en": "A great spot for a morning bike ride and birdwatching."
+          }
+        },
+        {
+          "name": {
+            "de": "Historischer Park Hofstaðir",
+            "hu": "Hofstaðir Történelmi Park",
+            "ro": "Parcul Istoric Hofstaðir",
+            "en": "Hofstaðir Historical Park"
+          },
+          "coords": [
+            -21.9333,
+            64.0861
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und tauchen Sie in die Geschichte der Wikinger ein.",
+            "hu": "Tedd le a biciklit, és merülj el a viking történelemben.",
+            "ro": "Parcați-vă bicicleta și scufundați-vă în istoria vikingilor.",
+            "en": "Park your bike and immerse yourself in Viking history."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Design",
+            "hu": "Dizájn Múzeum",
+            "ro": "Muzeul de Design",
+            "en": "Museum of Design"
+          },
+          "coords": [
+            -21.9221,
+            64.0905
+          ],
+          "category": "museums",
+          "arrive_at": "12:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Entdecken Sie die Kreativität, die Island ausmacht.",
+            "hu": "Fedezze fel a kreativitást, amely Izlandot meghatározza.",
+            "ro": "Descoperiți creativitatea care definește Islanda.",
+            "en": "Discover the creativity that defines Iceland."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            -21.923,
+            64.091
+          ],
+          "category": "gastro",
+          "arrive_at": "13:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tanken Sie Energie mit lokalen Spezialitäten.",
+            "hu": "Töltődjön fel helyi specialitásokkal.",
+            "ro": "Realimentați-vă cu specialități locale.",
+            "en": "Refuel with some local specialties."
+          }
+        },
+        {
+          "name": {
+            "de": "Gálgahraun Lavafeld",
+            "hu": "Gálgahraun lávamező",
+            "ro": "Câmpul de lavă Gálgahraun",
+            "en": "Gálgahraun lava field"
+          },
+          "coords": [
+            -21.961,
+            64.083
+          ],
+          "category": "natural features",
+          "arrive_at": "15:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Radwege bieten eine einzigartige Perspektive auf das moosige Gelände.",
+            "hu": "A kerékpárutak egyedi perspektívát kínálnak a mohás tájra.",
+            "ro": "Pistele de biciclete oferă o perspectivă unică asupra terenului acoperit de mușchi.",
+            "en": "The bike paths provide a unique perspective on the mossy terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Bessastaðir",
+            "hu": "Bessastaðir",
+            "ro": "Bessastaðir",
+            "en": "Bessastaðir"
+          },
+          "coords": [
+            -21.996,
+            64.105
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:40",
+          "stay_min": 20,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein malerischer Abstecher zur offiziellen Residenz des Präsidenten.",
+            "hu": "Festői kitérő az elnök hivatalos rezidenciájához.",
+            "ro": "Un ocol pitoresc către reședința oficială a președintelui.",
+            "en": "A scenic detour to the official residence of the President."
+          }
+        },
+        {
+          "name": {
+            "de": "Bessastaðakirkja",
+            "hu": "Bessastaðakirkja",
+            "ro": "Biserica Bessastaðakirkja",
+            "en": "Bessastaðakirkja Church"
+          },
+          "coords": [
+            -21.994,
+            64.106
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine der ältesten Steinkirchen Islands, direkt neben der Residenz.",
+            "hu": "Izland egyik legrégebbi kőtemploma, közvetlenül a rezidencia mellett.",
+            "ro": "Una dintre cele mai vechi biserici de piatră din Islanda, chiar lângă reședință.",
+            "en": "One of Iceland's oldest stone churches, right next to the residence."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Radtag mit einer erfrischenden Fahrt zum Vífilsstaðavatn-See. Am Vormittag reisen Sie in die Vergangenheit im Hofstaðir Park, gefolgt von einer Dosis moderner Kreativität im Designmuseum. Nach einem stärkenden Mittagessen radeln Sie durch das beeindruckende Gálgahraun-Lavafeld. Der Tag endet auf der Halbinsel Álftanes, wo Sie die historische Bessastaðakirkja und die Präsidentenresidenz Bessastaðir besichtigen.",
+        "hu": "Kezdje a biciklis napot egy frissítő tekeréssel a Vífilsstaðavatn-tóhoz. Délelőtt utazzon vissza az időben a Hofstaðir Parkban, majd kapjon egy adag modern kreativitást a Dizájn Múzeumban. Egy kiadós ebéd után tekerjen át a lenyűgöző Gálgahraun lávamezőn. A nap az Álftanes-félszigeten zárul, ahol megtekintheti a történelmi Bessastaðakirkját és a Bessastaðir elnöki rezidenciát.",
+        "ro": "Începeți-vă ziua pe bicicletă cu o plimbare revigorantă la Lacul Vífilsstaðavatn. Dimineața, călătoriți înapoi în timp la Parcul Hofstaðir, urmată de o doză de creativitate modernă la Muzeul de Design. După un prânz consistent, pedalați prin impresionantul câmp de lavă Gálgahraun. Ziua se încheie în peninsula Álftanes, vizitând istorica biserică Bessastaðakirkja și reședința prezidențială Bessastaðir.",
+        "en": "Start your cycling day with a refreshing ride to Lake Vífilsstaðavatn. In the morning, travel back in time at Hofstaðir Park, followed by a dose of modern creativity at the Design Museum. After a hearty lunch, you'll pedal through the impressive Gálgahraun lava field. The day concludes on the Álftanes peninsula, visiting the historic Bessastaðakirkja church and the presidential residence of Bessastaðir."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hardfiskur",
+            "tip": "Getrockneter Fisch mit Butter, ein proteinreicher Snack für Radfahrer."
+          },
+          {
+            "name": "Isländische Hot Dogs",
+            "tip": "Bekannt als 'Pylsur', probieren Sie einen 'eina með öllu' (einen mit allem)."
+          },
+          {
+            "name": "Kleina",
+            "tip": "Ein verdrehtes isländisches Gebäck, perfekt für einen Energieschub."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hardfiskur",
+            "tip": "Szárított hal vajjal, egy fehérjében gazdag snack kerékpárosoknak."
+          },
+          {
+            "name": "Izlandi hot dog",
+            "tip": "'Pylsur' néven ismert, próbáljon ki egy 'eina með öllu'-t (egyet mindennel)."
+          },
+          {
+            "name": "Kleina",
+            "tip": "Csavart izlandi sütemény, tökéletes energiafröccs."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hardfiskur",
+            "tip": "Pește uscat cu unt, o gustare bogată în proteine pentru bicicliști."
+          },
+          {
+            "name": "Hot dogi islandezi",
+            "tip": "Cunoscuți sub numele de 'Pylsur', încercați unul 'eina með öllu' (unul cu de toate)."
+          },
+          {
+            "name": "Kleina",
+            "tip": "Un produs de patiserie islandez răsucit, perfect pentru un plus de energie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hardfiskur",
+            "tip": "Dried fish with butter, a protein-rich snack for cyclists."
+          },
+          {
+            "name": "Icelandic Hot Dogs",
+            "tip": "Known as 'Pylsur', try one 'eina með öllu' (one with everything)."
+          },
+          {
+            "name": "Kleina",
+            "tip": "A twisted Icelandic pastry, perfect for an energy boost."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Heiðmörk Naturreservat",
+            "tip": "Verlieren Sie sich auf den Wegen dieses riesigen städtischen Parks.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Küstenweg bei Gálgahraun",
+            "tip": "Genießen Sie die Meeresbrise und die Aussicht auf die Bucht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Vífilsstaðavatn See",
+            "tip": "Finden Sie eine Bank und beobachten Sie die Enten und Schwäne.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heiðmörk természetvédelmi terület",
+            "tip": "Vesszen el ennek a hatalmas városi parknak az ösvényein.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parti ösvény a Gálgahraun közelében",
+            "tip": "Élvezze a tengeri szellőt és az öbölre nyíló kilátást.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Vífilsstaðavatn-tó",
+            "tip": "Keressen egy padot, és nézze a kacsákat és hattyúkat.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rezervația Naturală Heiðmörk",
+            "tip": "Pierdeți-vă pe potecile acestui vast parc urban.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Potecă de coastă lângă Gálgahraun",
+            "tip": "Bucurați-vă de briza mării și de priveliștea golfului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lacul Vífilsstaðavatn",
+            "tip": "Găsiți o bancă și priviți rațele și lebedele.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Heiðmörk Nature Reserve",
+            "tip": "Get lost on the trails of this vast urban park.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Coastal path near Gálgahraun",
+            "tip": "Enjoy the sea breeze and the views of the bay.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lake Vífilsstaðavatn",
+            "tip": "Find a bench and watch the ducks and swans.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradzubehör",
+            "tip": "Lokale Sportgeschäfte haben oft spezielle Ausrüstung für isländische Bedingungen."
+          },
+          {
+            "name": "Außenpostkarten",
+            "tip": "Kaufen Sie Postkarten mit dramatischen Landschaftsfotos, die Sie inspiriert haben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpáros kiegészítők",
+            "tip": "A helyi sportboltokban gyakran található speciális felszerelés izlandi körülményekhez."
+          },
+          {
+            "name": "Kültéri képeslapok",
+            "tip": "Vásároljon képeslapokat drámai tájképekkel, amelyek inspirálták Önt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Accesorii pentru biciclete",
+            "tip": "Magazinele locale de sport au adesea echipamente specifice pentru condițiile islandeze."
+          },
+          {
+            "name": "Vederi în aer liber",
+            "tip": "Cumpărați vederi cu fotografii dramatice de peisaj care v-au inspirat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike accessories",
+            "tip": "Local sports shops often have specific gear for Icelandic conditions."
+          },
+          {
+            "name": "Outdoor postcards",
+            "tip": "Buy postcards featuring dramatic landscape photos that inspired you."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad, das für Schotterwege geeignet ist.",
+          "Tragen Sie einen Helm und helle Kleidung.",
+          "Überprüfen Sie die Windrichtung vor der Abfahrt; Gegenwind kann anstrengend sein.",
+          "Viele Gebiete haben eigene Radwege, die sicherer und angenehmer sind als die Straße."
+        ],
+        "hu": [
+          "Béreljen olyan kerékpárt, amely alkalmas murvás utakra.",
+          "Viseljen sisakot és élénk színű ruházatot.",
+          "Indulás előtt ellenőrizze a szélirányt; a szembeszél fárasztó lehet.",
+          "Sok területen vannak külön kerékpárutak, amelyek biztonságosabbak és élvezetesebbek, mint az út."
+        ],
+        "ro": [
+          "Închiriați o bicicletă potrivită pentru drumuri cu pietriș.",
+          "Purtați cască și haine de culori deschise.",
+          "Verificați direcția vântului înainte de a pleca; vântul din față poate fi obositor.",
+          "Multe zone au piste de biciclete dedicate, care sunt mai sigure și mai plăcute decât drumul."
+        ],
+        "en": [
+          "Rent a bike that is suitable for gravel paths.",
+          "Wear a helmet and bright clothing.",
+          "Check the wind direction before you leave; a headwind can be exhausting.",
+          "Many areas have dedicated bike paths, which are safer and more enjoyable than the road."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 36.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Heiðmörk Naturreservat",
+            "hu": "A Klaszter: Heiðmörk Természetvédelmi Terület",
+            "ro": "Cluster A: Rezervația Naturală Heiðmörk",
+            "en": "Cluster A: Heiðmörk Nature Reserve"
+          },
+          "coords": [
+            -21.82,
+            64.07
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie und machen Sie einen kurzen Spaziergang zu den 'Roten Hügeln' (Rauðhólar).",
+            "hu": "Parkoljon le, és tegyen egy rövid sétát a 'Vörös dombokhoz' (Rauðhólar).",
+            "ro": "Parcați și faceți o scurtă plimbare până la 'Dealurile Roșii' (Rauðhólar).",
+            "en": "Park your car and take a short walk to the 'Red Hills' (Rauðhólar)."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster A: Vífilsstaðavatn See",
+            "hu": "A Klaszter: Vífilsstaðavatn-tó",
+            "ro": "Cluster A: Lacul Vífilsstaðavatn",
+            "en": "Cluster A: Lake Vífilsstaðavatn"
+          },
+          "coords": [
+            -21.879,
+            64.075
+          ],
+          "category": "natural features",
+          "arrive_at": "11:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein kurzer Halt für eine friedliche Aussicht auf den See vom nahegelegenen Parkplatz.",
+            "hu": "Rövid megálló a tó békés látványáért a közeli parkolóból.",
+            "ro": "O oprire scurtă pentru o priveliște pașnică a lacului de la parcarea din apropiere.",
+            "en": "A quick stop for a peaceful view of the lake from the nearby parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Hofstaðir & Museum",
+            "hu": "B Klaszter: Hofstaðir és Múzeum",
+            "ro": "Cluster B: Hofstaðir & Muzeu",
+            "en": "Cluster B: Hofstaðir & Museum"
+          },
+          "coords": [
+            -21.93,
+            64.088
+          ],
+          "category": "historical",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie zwischen dem Park und dem Museum und erkunden Sie beides zu Fuß.",
+            "hu": "Parkoljon a park és a múzeum között, és fedezze fel mindkettőt gyalog.",
+            "ro": "Parcați între parc și muzeu și explorați ambele pe jos.",
+            "en": "Park between the park and museum and explore both on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Mittagessen & Garðakirkja",
+            "hu": "B Klaszter: Ebéd és Garðakirkja",
+            "ro": "Cluster B: Prânz & Garðakirkja",
+            "en": "Cluster B: Lunch & Garðakirkja"
+          },
+          "coords": [
+            -21.9258,
+            64.0899
+          ],
+          "category": "gastro",
+          "arrive_at": "13:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum zur Kirche und dann zum Mittagessen.",
+            "hu": "Rövid séta a múzeumtól a templomig, majd ebéd.",
+            "ro": "O scurtă plimbare de la muzeu la biserică și apoi la prânz.",
+            "en": "A short walk from the museum to the church, and then to lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Gálgahraun Lavafeld",
+            "hu": "C Klaszter: Gálgahraun lávamező",
+            "ro": "Cluster C: Câmpul de lavă Gálgahraun",
+            "en": "Cluster C: Gálgahraun lava field"
+          },
+          "coords": [
+            -21.961,
+            64.083
+          ],
+          "category": "natural features",
+          "arrive_at": "15:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum ausgewiesenen Parkplatz und folgen Sie den markierten Wegen.",
+            "hu": "Hajtson a kijelölt parkolóhoz, és kövesse a jelzett ösvényeket.",
+            "ro": "Conduceți la parcarea desemnată și urmați potecile marcate.",
+            "en": "Drive to the designated parking area and follow the marked trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Bessastaðir",
+            "hu": "C Klaszter: Bessastaðir",
+            "ro": "Cluster C: Bessastaðir",
+            "en": "Cluster C: Bessastaðir"
+          },
+          "coords": [
+            -21.996,
+            64.105
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und spazieren Sie zum Aussichtspunkt der Residenz.",
+            "hu": "Parkoljon a közelben, és sétáljon el a rezidencia kilátópontjához.",
+            "ro": "Parcați în apropiere și plimbați-vă până la punctul de belvedere al reședinței.",
+            "en": "Park nearby and walk to the viewing point of the residence."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Bessastaðakirkja",
+            "hu": "C Klaszter: Bessastaðakirkja",
+            "ro": "Cluster C: Biserica Bessastaðakirkja",
+            "en": "Cluster C: Bessastaðakirkja Church"
+          },
+          "coords": [
+            -21.994,
+            64.106
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von Bessastaðir zu dieser historischen Kirche.",
+            "hu": "Rövid séta Bessastaðirből ehhez a történelmi templomhoz.",
+            "ro": "O scurtă plimbare de la Bessastaðir la această biserică istorică.",
+            "en": "A short walk from Bessastaðir to this historic church."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt im weiten Heiðmörk-Reservat. Am Vormittag fahren Sie zum zentralen Cluster von Garðabær, parken einmal und erkunden zu Fuß den Hofstaðir Park und das Designmuseum. Nach dem Mittagessen führt Sie eine kurze Fahrt zum geheimnisvollen Gálgahraun-Lavafeld. Der Tag endet auf der Álftanes-Halbinsel, wo Sie die Präsidentenresidenz Bessastaðir und ihre benachbarte alte Kirche sehen, alles nur wenige Gehminuten voneinander entfernt.",
+        "hu": "Az autós nap a tágas Heiðmörk rezervátumban kezdődik. Délelőtt Garðabær központi klaszterébe hajt, egyszer leparkol, és gyalog fedezi fel a Hofstaðir Parkot és a Dizájn Múzeumot. Ebéd után egy rövid autóút a titokzatos Gálgahraun lávamezőhöz vezet. A nap az Álftanes-félszigeten zárul, ahol megtekintheti a Bessastaðir elnöki rezidenciát és a szomszédos régi templomot, mindössze egy rövid sétára egymástól.",
+        "ro": "Ziua dvs. cu mașina începe în vasta rezervație Heiðmörk. Dimineața, conduceți către clusterul central din Garðabær, parcați o dată și explorați pe jos Parcul Hofstaðir și Muzeul de Design. După prânz, o scurtă călătorie cu mașina vă duce la misteriosul câmp de lavă Gálgahraun. Ziua se încheie în peninsula Álftanes, unde veți vedea reședința prezidențială Bessastaðir și vechea sa biserică adiacentă, toate la o scurtă plimbare distanță.",
+        "en": "Your car day begins in the vast Heiðmörk reserve. In the morning, you'll drive to Garðabær's central cluster, park once, and explore Hofstaðir Park and the Design Museum on foot. After lunch, a short drive takes you to the mysterious Gálgahraun lava field. The day concludes on the Álftanes peninsula, seeing the presidential residence Bessastaðir and its adjacent old church, all within a short walking cluster."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tankstellen-Hotdogs",
+            "tip": "Überraschend lecker und ein isländischer Klassiker für unterwegs."
+          },
+          {
+            "name": "Bäckereien in der Stadt",
+            "tip": "Holen Sie sich Gebäck wie 'Kleina' oder 'Snúður' für die Fahrt."
+          },
+          {
+            "name": "Suppen-Cafés",
+            "tip": "Ein schnelles und wärmendes Mittagessen, bevor Sie weiterfahren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Benzinkutas hot dogok",
+            "tip": "Meglepően finomak és egy izlandi klasszikus útközben."
+          },
+          {
+            "name": "Városi pékségek",
+            "tip": "Szerezzen be süteményeket, mint a 'Kleina' vagy a 'Snúður' az útra."
+          },
+          {
+            "name": "Levesező kávézók",
+            "tip": "Gyors és melegítő ebéd, mielőtt továbbhajtana."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hot dogi de la benzinărie",
+            "tip": "Surprinzător de delicioși și un clasic islandez pentru drum."
+          },
+          {
+            "name": "Brutării din oraș",
+            "tip": "Luați produse de patiserie precum 'Kleina' sau 'Snúður' pentru drum."
+          },
+          {
+            "name": "Cafenele cu supe",
+            "tip": "Un prânz rapid și încălzitor înainte de a porni mai departe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gas station hot dogs",
+            "tip": "Surprisingly delicious and an Icelandic on-the-road classic."
+          },
+          {
+            "name": "Town bakeries",
+            "tip": "Pick up pastries like 'Kleina' or 'Snúður' for the drive."
+          },
+          {
+            "name": "Soup cafes",
+            "tip": "A quick and warming lunch before you drive on."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Heiðmörk",
+            "tip": "Fahren Sie tiefer in das Reservat hinein für absolute Einsamkeit.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Küstenstraße nach Bessastaðir",
+            "tip": "Halten Sie an einem Ausweichplatz für einen weiten Blick über die Bucht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Vífilsstaðir",
+            "tip": "Eine ruhige Pause abseits der Haupttouristenpfade.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heiðmörk",
+            "tip": "Hajtson mélyebbre a rezervátumba a teljes magányért.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Parti út Bessastaðir felé",
+            "tip": "Álljon meg egy félreeső helyen, hogy gyönyörködjön az öbölre nyíló kilátásban.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Vífilsstaðir",
+            "tip": "Csendes pihenő a fő turistaútvonalaktól távol.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Heiðmörk",
+            "tip": "Conduceți mai adânc în rezervație pentru o singurătate absolută.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Drumul de coastă spre Bessastaðir",
+            "tip": "Opriți într-un refugiu pentru o priveliște panoramică asupra golfului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Vífilsstaðir",
+            "tip": "O pauză liniștită departe de principalele trasee turistice.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Heiðmörk",
+            "tip": "Drive deeper into the reserve for absolute solitude.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Coastal road to Bessastaðir",
+            "tip": "Pull over at a lay-by for a wide view of the bay.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Vífilsstaðir",
+            "tip": "A quiet break away from the main tourist trail.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wollwaren",
+            "tip": "Halten Sie in den Vororten von Reykjavík nach Fabrikläden für bessere Preise Ausschau."
+          },
+          {
+            "name": "Keramik",
+            "tip": "Lokale Künstler haben oft Studios in der Nähe, die für Besucher geöffnet sind."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyapjúáruk",
+            "tip": "Keressen gyári boltokat Reykjavík külvárosában a jobb árakért."
+          },
+          {
+            "name": "Kerámia",
+            "tip": "A helyi művészeknek gyakran vannak a közelben látogatható stúdióik."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Articole din lână",
+            "tip": "Căutați magazine de fabrică în suburbiile Reykjavíkului pentru prețuri mai bune."
+          },
+          {
+            "name": "Ceramică",
+            "tip": "Artiștii locali au adesea ateliere în apropiere, deschise vizitatorilor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Woolen goods",
+            "tip": "Look for factory outlets in the suburbs of Reykjavík for better prices."
+          },
+          {
+            "name": "Ceramics",
+            "tip": "Local artists often have studios nearby that are open to visitors."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkvorschriften an jedem Ort.",
+          "Ein GPS ist unerlässlich.",
+          "Achten Sie auf Geschwindigkeitsbegrenzungen, die sich häufig ändern können.",
+          "Das Auto gibt Ihnen die Flexibilität, an spontanen Fotostopps anzuhalten."
+        ],
+        "hu": [
+          "Ellenőrizze a parkolási szabályokat minden helyen.",
+          "A GPS elengedhetetlen.",
+          "Figyeljen a sebességkorlátozásokra, amelyek gyakran változhatnak.",
+          "Az autó rugalmasságot ad a spontán fotómegállókhoz."
+        ],
+        "ro": [
+          "Verificați regulile de parcare în fiecare locație.",
+          "Un GPS este esențial.",
+          "Fiți atenți la limitele de viteză, care se pot schimba frecvent.",
+          "Mașina vă oferă flexibilitatea de a opri pentru fotografii spontane."
+        ],
+        "en": [
+          "Check parking regulations at each location.",
+          "A GPS is essential.",
+          "Be aware of speed limits, which can change frequently.",
+          "The car gives you the flexibility to stop for spontaneous photo opportunities."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 15.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Hofstaðir & Designmuseum",
+            "hu": "A Klaszter: Hofstaðir és Dizájn Múzeum",
+            "ro": "Cluster A: Hofstaðir & Muzeul de Design",
+            "en": "Cluster A: Hofstaðir & Design Museum"
+          },
+          "coords": [
+            -21.928,
+            64.088
+          ],
+          "category": "historical",
+          "arrive_at": "09:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in die Nähe von Garðatorg und gehen Sie zum Park.",
+            "hu": "Menjen busszal Garðatorg közelébe, és sétáljon el a parkba.",
+            "ro": "Luați un autobuz până aproape de Garðatorg și mergeți pe jos până la parc.",
+            "en": "Take a bus to near Garðatorg and walk to the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster A: Garðakirkja & Mittagessen",
+            "hu": "A Klaszter: Garðakirkja és ebéd",
+            "ro": "Cluster A: Garðakirkja & Prânz",
+            "en": "Cluster A: Garðakirkja & Lunch"
+          },
+          "coords": [
+            -21.9258,
+            64.0899
+          ],
+          "category": "gastro",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie vom Museum zur Kirche und suchen Sie sich einen Ort zum Mittagessen.",
+            "hu": "Sétáljon a múzeumtól a templomig, majd keressen egy ebédlőhelyet.",
+            "ro": "Plimbați-vă de la muzeu la biserică și găsiți un loc pentru prânz.",
+            "en": "Walk from the museum to the church, then find a place for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Gálgahraun Lavafeld",
+            "hu": "B Klaszter: Gálgahraun lávamező",
+            "ro": "Cluster B: Câmpul de lavă Gálgahraun",
+            "en": "Cluster B: Gálgahraun lava field"
+          },
+          "coords": [
+            -21.961,
+            64.083
+          ],
+          "category": "natural features",
+          "arrive_at": "13:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein Bus bringt Sie in die Nähe des Lavafelds; seien Sie auf einen Spaziergang vorbereitet.",
+            "hu": "Egy busz elvisz a lávamező közelébe; készüljön fel egy sétára.",
+            "ro": "Un autobuz vă va duce aproape de câmpul de lavă; fiți pregătiți pentru o plimbare.",
+            "en": "A bus will get you close to the lava field; be prepared for a walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Bessastaðir",
+            "hu": "C Klaszter: Bessastaðir",
+            "ro": "Cluster C: Bessastaðir",
+            "en": "Cluster C: Bessastaðir"
+          },
+          "coords": [
+            -21.996,
+            64.105
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus nach Álftanes und genießen Sie die Aussicht.",
+            "hu": "Menjen busszal Álftanesbe, és élvezze a kilátást.",
+            "ro": "Luați un autobuz spre Álftanes și bucurați-vă de priveliște.",
+            "en": "Take a bus to Álftanes and enjoy the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Bessastaðakirkja",
+            "hu": "C Klaszter: Bessastaðakirkja",
+            "ro": "Cluster C: Biserica Bessastaðakirkja",
+            "en": "Cluster C: Bessastaðakirkja Church"
+          },
+          "coords": [
+            -21.994,
+            64.106
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein sehr kurzer Spaziergang von der Bushaltestelle bei Bessastaðir.",
+            "hu": "Nagyon rövid séta a Bessastaðir melletti buszmegállótól.",
+            "ro": "O plimbare foarte scurtă de la stația de autobuz de lângă Bessastaðir.",
+            "en": "A very short walk from the bus stop near Bessastaðir."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt im Zentrum von Garðabær, wo Sie Hofstaðir, das Designmuseum und Garðakirkja zu Fuß erkunden. Nach dem Mittagessen bringt Sie ein Bus zum geheimnisvollen Gálgahraun-Lavafeld für einen Nachmittagsspaziergang. Eine weitere Busfahrt führt Sie zur Álftanes-Halbinsel, wo der Tag mit einem ruhigen Spaziergang zwischen der Präsidentenresidenz und der historischen Kirche Bessastaðakirkja ausklingt.",
+        "hu": "A tömegközlekedéssel töltött nap Garðabær központjában kezdődik, ahol gyalog fedezi fel a Hofstaðirt, a Dizájn Múzeumot és a Garðakirkját. Ebéd után egy busz elvisz a titokzatos Gálgahraun lávamezőhöz egy délutáni sétára. Egy másik buszút az Álftanes-félszigetre vezet, ahol a nap egy csendes sétával zárul az elnöki rezidencia és a történelmi Bessastaðakirkja templom között.",
+        "ro": "Ziua dvs. cu transportul public începe în clusterul central din Garðabær, explorând pe jos Hofstaðir, Muzeul de Design și Garðakirkja. După prânz, un autobuz vă duce la misteriosul câmp de lavă Gálgahraun pentru o plimbare de după-amiază. O altă călătorie cu autobuzul vă duce în peninsula Álftanes, unde ziua se încheie cu o plimbare liniștită între reședința prezidențială și biserica istorică Bessastaðakirkja.",
+        "en": "Your public transit day starts in Garðabær's central cluster, exploring Hofstaðir, the Design Museum, and Garðakirkja on foot. After lunch, a bus takes you to the mysterious Gálgahraun lava field for an afternoon walk. Another bus ride transports you to the Álftanes peninsula, where the day concludes with a quiet stroll between the presidential residence and the historic Bessastaðakirkja church."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Cafés",
+            "tip": "Ideal für ein schnelles Mittagessen zwischen zwei Busfahrten."
+          },
+          {
+            "name": "Supermarkt-Snacks",
+            "tip": "Kaufen Sie Skyr und Obst für eine günstige und einfache Mahlzeit."
+          },
+          {
+            "name": "Isländische Schokolade",
+            "tip": "Suchen Sie nach Marken wie Omnom oder Nói Síríus für einen süßen Genuss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kávézók",
+            "tip": "Ideális egy gyors ebédhez két buszút között."
+          },
+          {
+            "name": "Szupermarket snackek",
+            "tip": "Vásároljon Skyrt és gyümölcsöt egy olcsó és egyszerű étkezéshez."
+          },
+          {
+            "name": "Izlandi csokoládé",
+            "tip": "Keressen olyan márkákat, mint az Omnom vagy a Nói Síríus egy édes csemegéért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenele locale",
+            "tip": "Ideal pentru un prânz rapid între călătoriile cu autobuzul."
+          },
+          {
+            "name": "Gustări de la supermarket",
+            "tip": "Cumpărați Skyr și fructe pentru o masă ieftină și ușoară."
+          },
+          {
+            "name": "Ciocolată islandeză",
+            "tip": "Căutați mărci precum Omnom sau Nói Síríus pentru un deliciu dulce."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local cafes",
+            "tip": "Ideal for a quick lunch between bus rides."
+          },
+          {
+            "name": "Supermarket snacks",
+            "tip": "Grab some Skyr and fruit for a cheap and easy meal."
+          },
+          {
+            "name": "Icelandic Chocolate",
+            "tip": "Look for brands like Omnom or Nói Síríus for a sweet treat."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang um Bessastaðir",
+            "tip": "Die Küstenlinie ist oft ruhig und bietet eine tolle Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Eine Bank im Park",
+            "tip": "Ruhen Sie sich aus, während Sie auf Ihren nächsten Bus warten.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Obere Etage des Busses",
+            "tip": "Beobachten Sie die Landschaft, die an Ihnen vorbeizieht.",
+            "emoji": "🚌"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta Bessastaðir körül",
+            "tip": "A partvonal gyakran csendes és nagyszerű kilátást nyújt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Egy pad a parkban",
+            "tip": "Pihenjen, amíg a következő buszra vár.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A busz emelete",
+            "tip": "Nézze a tájat, ahogy elhalad mellette.",
+            "emoji": "🚌"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare în jurul Bessastaðir",
+            "tip": "Coasta este adesea liniștită și oferă priveliști minunate.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "O bancă în parc",
+            "tip": "Odihniți-vă în timp ce așteptați următorul autobuz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Etajul superior al autobuzului",
+            "tip": "Priviți peisajul care trece.",
+            "emoji": "🚌"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk around Bessastaðir",
+            "tip": "The coastline is often quiet and offers great views.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A park bench",
+            "tip": "Rest while you wait for your next bus.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Upper deck of the bus",
+            "tip": "Watch the landscape go by.",
+            "emoji": "🚌"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Buchhandlung",
+            "tip": "Kaufen Sie ein Buch über isländische Sagas, um es im Bus zu lesen."
+          },
+          {
+            "name": "Souvenirs",
+            "tip": "Kleine Geschäfte in der Nähe von Bushaltestellen verkaufen oft Postkarten und Magnete."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Könyvesbolt",
+            "tip": "Vegyél egy könyvet az izlandi sagákról, hogy olvasd a buszon."
+          },
+          {
+            "name": "Szuvenírek",
+            "tip": "A buszmegállók közelében lévő kis boltok gyakran árulnak képeslapokat és mágneseket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Librărie",
+            "tip": "Cumpărați o carte despre saga islandeze pentru a o citi în autobuz."
+          },
+          {
+            "name": "Suveniruri",
+            "tip": "Micile magazine de lângă stațiile de autobuz vând adesea cărți poștale și magneți."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bookstore",
+            "tip": "Buy a book on Icelandic sagas to read on the bus."
+          },
+          {
+            "name": "Souvenirs",
+            "tip": "Small shops near bus stops often sell postcards and magnets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus für das beste Preis-Leistungs-Verhältnis.",
+          "Verwenden Sie die 'Strætó'-App für Busfahrpläne in Echtzeit.",
+          "Planen Sie zusätzliche Zeit für mögliche Busverspätungen ein.",
+          "Die Bushaltestellen sind nicht immer direkt an den Sehenswürdigkeiten, seien Sie also auf kurze Spaziergänge vorbereitet."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra a legjobb ár-érték arányért.",
+          "Használja a 'Strætó' alkalmazást a valós idejű buszmenetrendekhez.",
+          "Tervezzen plusz időt az esetleges buszkésésekre.",
+          "A buszmegállók nem mindig vannak közvetlenül a látnivalóknál, ezért készüljön fel rövid sétákra."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru autobuz pentru cel mai bun raport calitate-preț.",
+          "Utilizați aplicația 'Strætó' pentru orarele autobuzelor în timp real.",
+          "Planificați timp suplimentar pentru posibilele întârzieri ale autobuzelor.",
+          "Stațiile de autobuz nu sunt întotdeauna direct la atracții, așa că fiți pregătiți pentru plimbări scurte."
+        ],
+        "en": [
+          "Buy a day pass for the bus for the best value.",
+          "Use the 'Strætó' app for real-time bus schedules.",
+          "Plan for extra time for potential bus delays.",
+          "Bus stops are not always directly at the attractions, so be prepared for short walks."
+        ]
+      }
+    }
+  }
+}

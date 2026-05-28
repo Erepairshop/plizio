@@ -1,0 +1,1377 @@
+{
+  "city_id": "lithuania-mazeikiai-cities-v2",
+  "anchor": {
+    "name": "Mažeikiai",
+    "coords": [
+      22.3333,
+      56.3167
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Denkmal für die Unabhängigkeit",
+            "hu": "Függetlenségi emlékmű",
+            "ro": "Monumentul Independenței",
+            "en": "Independence Monument"
+          },
+          "coords": [
+            22.335,
+            56.3165
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort, um die Geschichte Litauens auf sich wirken zu lassen und den Tag zu beginnen.",
+            "hu": "Remek hely a nap kezdéséhez és Litvánia történelmének megismeréséhez.",
+            "ro": "Un loc minunat pentru a absorbi istoria Lituaniei și pentru a începe ziua.",
+            "en": "A great spot to absorb Lithuania's history and start your day."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Franziskus-von-Assisi-Kirche",
+            "hu": "Assisi Szent Ferenc-templom",
+            "ro": "Biserica Sfântul Francisc de Assisi",
+            "en": "St. Francis of Assisi Church"
+          },
+          "coords": [
+            22.334,
+            56.317
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Achten Sie auf die schlichte, aber elegante moderne Architektur der Kirche.",
+            "hu": "Figyelje meg a templom egyszerű, mégis elegáns modern építészetét.",
+            "ro": "Observați arhitectura modernă, simplă, dar elegantă, a bisericii.",
+            "en": "Take note of the church's simple yet elegant modern architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Mažeikiai-Museum",
+            "hu": "Mažeikiai Múzeum",
+            "ro": "Muzeul Mažeikiai",
+            "en": "Mažeikiai Museum"
+          },
+          "coords": [
+            22.3365,
+            56.3175
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein, um die archäologischen Funde der Region zu erkunden.",
+            "hu": "Szánjon elég időt a régió régészeti leleteinek felfedezésére.",
+            "ro": "Planificați-vă suficient timp pentru a explora descoperirile arheologice ale regiunii.",
+            "en": "Plan enough time to explore the archaeological finds from the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Jugendpark",
+            "hu": "Ifjúsági Park",
+            "ro": "Parcul Tineretului",
+            "en": "Youth Park"
+          },
+          "coords": [
+            22.338,
+            56.315
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für ein Picknick zur Mittagszeit. Holen Sie sich lokale Snacks in einem nahegelegenen Geschäft.",
+            "hu": "Ideális hely egy déli piknikhez. Szerezzen be helyi harapnivalókat egy közeli boltban.",
+            "ro": "Un loc ideal pentru un picnic la prânz. Luați gustări locale de la un magazin din apropiere.",
+            "en": "An ideal spot for a midday picnic. Grab some local snacks from a nearby shop."
+          }
+        },
+        {
+          "name": {
+            "de": "Herz-Jesu-Kirche",
+            "hu": "Jézus Szíve-templom",
+            "ro": "Biserica Inima lui Iisus",
+            "en": "Sacred Heart Church"
+          },
+          "coords": [
+            22.329,
+            56.319
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Vergleichen Sie den traditionelleren Stil dieser Kirche mit dem der St.-Franziskus-Kirche.",
+            "hu": "Hasonlítsa össze ennek a templomnak a hagyományosabb stílusát a Szent Ferenc-temploméval.",
+            "ro": "Comparați stilul mai tradițional al acestei biserici cu cel al Bisericii Sf. Francisc.",
+            "en": "Compare the more traditional style of this church to the St. Francis Church."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Mažeikiai",
+            "hu": "Mažeikiai Kulturális Központ",
+            "ro": "Centrul Cultural Mažeikiai",
+            "en": "Mažeikiai Cultural Centre"
+          },
+          "coords": [
+            22.332,
+            56.314
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:44",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Spielplan für Abendveranstaltungen, wenn Sie über Nacht bleiben.",
+            "hu": "Nézze meg az esti programokat, ha éjszakára is marad.",
+            "ro": "Verificați programul pentru evenimente de seară dacă stați peste noapte.",
+            "en": "Check the schedule for evening events if you're staying overnight."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Mažeikiai am Unabhängigkeitsdenkmal, einem Symbol des litauischen Geistes. Schlendern Sie zur modernen St.-Franziskus-Kirche, bevor Sie tief in die Regionalgeschichte im Mažeikiai-Museum eintauchen. Am Mittag können Sie im Jugendpark entspannen und die grüne Atmosphäre der Stadt genießen. Der Nachmittag ist der Erkundung weiterer spiritueller und kultureller Sehenswürdigkeiten gewidmet, darunter die Herz-Jesu-Kirche mit ihrer traditionelleren Architektur. Beenden Sie Ihre Tour im Kulturzentrum, dem pulsierenden Herzen der lokalen Kunstszene.",
+        "hu": "Kezdje a napot Mažeikiai szívében a Függetlenségi emlékműnél, a litván szellem szimbólumánál. Sétáljon el a modern Assisi Szent Ferenc-templomhoz, mielőtt elmélyülne a helyi történelemben a Mažeikiai Múzeumban. Délben pihenjen az Ifjúsági Parkban, élvezve a város zöld légkörét. A délután további spirituális és kulturális helyszínek felfedezésével telik, beleértve a hagyományosabb építészetű Jézus Szíve-templomot. Zárja a túrát a Kulturális Központban, a helyi művészeti élet lüktető szívében.",
+        "ro": "Începeți ziua în inima orașului Mažeikiai la Monumentul Independenței, un simbol al spiritului lituanian. Plimbați-vă până la moderna Biserică Sf. Francisc înainte de a vă cufunda în istoria regională la Muzeul Mažeikiai. La prânz, relaxați-vă în Parcul Tineretului, bucurându-vă de atmosfera verde a orașului. După-amiaza este dedicată explorării altor situri spirituale și culturale, inclusiv Biserica Inima lui Iisus, cu arhitectura sa mai tradițională. Încheiați turul la Centrul Cultural, inima vibrantă a scenei artistice locale.",
+        "en": "Start your day in the heart of Mažeikiai at the Independence Monument, a symbol of the Lithuanian spirit. Stroll to the modern St. Francis Church before diving deep into regional history at the Mažeikiai Museum. At midday, relax in the Youth Park, enjoying the city's green atmosphere. The afternoon is for exploring more spiritual and cultural sites, including the Sacred Heart Church with its more traditional architecture. End your tour at the Cultural Centre, the vibrant heart of the local arts scene."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cepelinai (Zeppeline)",
+            "tip": "Probieren Sie diese herzhaften Kartoffelklöße, gefüllt mit Fleisch oder Käse, in einem lokalen Restaurant."
+          },
+          {
+            "name": "Šaltibarščiai (Kalte Rote-Bete-Suppe)",
+            "tip": "Eine erfrischende Wahl für einen warmen Tag, serviert mit heißen Kartoffeln."
+          },
+          {
+            "name": "Gira",
+            "tip": "Ein traditionelles fermentiertes Getränk aus Roggenbrot. Ungewöhnlich, aber lecker."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cepelinai (Zeppelinek)",
+            "tip": "Kóstolja meg ezeket a kiadós, hússal vagy sajttal töltött burgonyagombócokat egy helyi étteremben."
+          },
+          {
+            "name": "Šaltibarščiai (Hideg céklaleves)",
+            "tip": "Frissítő választás egy meleg napra, forró burgonyával tálalva."
+          },
+          {
+            "name": "Gira",
+            "tip": "Hagyományos, erjesztett ital rozskenyérből. Szokatlan, de finom."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cepelinai (Zeppeline)",
+            "tip": "Încercați aceste găluște de cartofi consistente, umplute cu carne sau brânză, la un restaurant local."
+          },
+          {
+            "name": "Šaltibarščiai (Supă rece de sfeclă)",
+            "tip": "O alegere răcoritoare pentru o zi caldă, servită cu cartofi fierbinți."
+          },
+          {
+            "name": "Gira",
+            "tip": "O băutură tradițională fermentată din pâine de secară. Neobișnuită, dar gustoasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cepelinai (Zeppelins)",
+            "tip": "Try these hearty potato dumplings, filled with meat or cheese, at a local restaurant."
+          },
+          {
+            "name": "Šaltibarščiai (Cold Beetroot Soup)",
+            "tip": "A refreshing choice for a warm day, served with hot potatoes."
+          },
+          {
+            "name": "Gira",
+            "tip": "A traditional fermented beverage made from rye bread. Unusual but tasty."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Venta-Flusses",
+            "tip": "Ein kurzer Spaziergang vom Zentrum entfernt finden Sie ruhige Plätze am Fluss.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Alter Friedhof",
+            "tip": "Ein historischer und friedlicher Ort für einen besinnlichen Spaziergang.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Eine Bank im Jugendpark",
+            "tip": "Suchen Sie sich eine abgelegene Bank und beobachten Sie das Leben.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Venta folyó partja",
+            "tip": "Egy rövid sétára a központtól csendes helyeket talál a folyó mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Régi temető",
+            "tip": "Történelmi és békés hely egy elgondolkodtató sétához.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Egy pad az Ifjúsági Parkban",
+            "tip": "Keressen egy félreeső padot, és figyelje a helyi életet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Venta",
+            "tip": "La o scurtă plimbare de centru, găsiți locuri liniștite lângă râu.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul Vechi",
+            "tip": "Un loc istoric și pașnic pentru o plimbare contemplativă.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "O bancă în Parcul Tineretului",
+            "tip": "Găsiți o bancă retrasă și priviți viața locală.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Venta River",
+            "tip": "A short walk from the center, find quiet spots by the river.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Old Cemetery",
+            "tip": "A historic and peaceful place for a contemplative walk.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A bench in Youth Park",
+            "tip": "Find a secluded bench and watch the local life go by.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Märkten für frische Produkte und handgemachte Waren."
+          },
+          {
+            "name": "Bernsteinschmuck",
+            "tip": "Litauen ist berühmt für Bernstein. Halten Sie Ausschau nach einzigartigen Stücken in Juweliergeschäften."
+          },
+          {
+            "name": "Leinenprodukte",
+            "tip": "Hochwertige litauische Leinentischdecken, Handtücher oder Kleidung sind ein tolles Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen helyi piacokat friss termékekért és kézműves árukért."
+          },
+          {
+            "name": "Borostyán ékszerek",
+            "tip": "Litvánia híres a borostyánról. Keressen egyedi darabokat az ékszerboltokban."
+          },
+          {
+            "name": "Vászontárgyak",
+            "tip": "A minőségi litván vászon abroszok, törölközők vagy ruhák remek ajándéktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați piețele locale pentru produse proaspete și articole de artizanat."
+          },
+          {
+            "name": "Bijuterii din chihlimbar",
+            "tip": "Lituania este renumită pentru chihlimbar. Căutați piese unice în magazinele de bijuterii."
+          },
+          {
+            "name": "Produse din in",
+            "tip": "Fețele de masă, prosoapele sau hainele din in lituanian de înaltă calitate sunt un suvenir excelent."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for local markets for fresh produce and handmade goods."
+          },
+          {
+            "name": "Amber Jewelry",
+            "tip": "Lithuania is famous for amber. Look for unique pieces in jewelry shops."
+          },
+          {
+            "name": "Linen Products",
+            "tip": "High-quality Lithuanian linen tablecloths, towels, or clothing make a great souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Eine wiederverwendbare Wasserflasche ist eine gute Idee, um hydriert zu bleiben.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind leicht zu Fuß erreichbar.",
+          "Beginnen Sie früh, um den Menschenmassen zu entgehen und das Beste aus Ihrem Tag zu machen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Egy újrafelhasználható vizes palack jó ötlet, hogy hidratált maradjon.",
+          "A legtöbb belvárosi látnivaló könnyen elérhető gyalog.",
+          "Kezdje korán, hogy elkerülje a tömeget és a legtöbbet hozza ki a napból."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge mult pe jos.",
+          "O sticlă de apă reutilizabilă este o idee bună pentru a vă menține hidratat.",
+          "Majoritatea atracțiilor din centrul orașului sunt ușor accesibile pe jos.",
+          "Începeți devreme pentru a evita aglomerația și a profita la maximum de zi."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "A reusable water bottle is a good idea to stay hydrated.",
+          "Most sights in the city center are within easy walking distance.",
+          "Start early to avoid crowds and make the most of your day."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 11.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Jugendpark",
+            "hu": "Ifjúsági Park",
+            "ro": "Parcul Tineretului",
+            "en": "Youth Park"
+          },
+          "coords": [
+            22.338,
+            56.315
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einer entspannten Radtour durch diesen zentralen Park.",
+            "hu": "Kezdje a napot egy laza biciklizéssel ebben a központi parkban.",
+            "ro": "Începeți ziua cu o plimbare relaxantă cu bicicleta prin acest parc central.",
+            "en": "Start your day with a relaxed cycle through this central park."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für die Unabhängigkeit",
+            "hu": "Függetlenségi emlékmű",
+            "ro": "Monumentul Independenței",
+            "en": "Independence Monument"
+          },
+          "coords": [
+            22.335,
+            56.3165
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:58",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um das Schlüsselsymbol der Stadt zu würdigen.",
+            "hu": "Egy gyors megálló, hogy tisztelegjünk a város kulcsfontosságú szimbóluma előtt.",
+            "ro": "O oprire scurtă pentru a aprecia simbolul cheie al orașului.",
+            "en": "A quick stop to appreciate the city's key symbol."
+          }
+        },
+        {
+          "name": {
+            "de": "Mažeikiai-Museum",
+            "hu": "Mažeikiai Múzeum",
+            "ro": "Muzeul Mažeikiai",
+            "en": "Mažeikiai Museum"
+          },
+          "coords": [
+            22.3365,
+            56.3175
+          ],
+          "category": "museums",
+          "arrive_at": "10:19",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab und tauchen Sie ein in die lokale Geschichte.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és merüljön el a helyi történelemben.",
+            "ro": "Parcați-vă bicicleta în siguranță și scufundați-vă în istoria locală.",
+            "en": "Park your bike securely and dive into the local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Venta-Regionalpark",
+            "hu": "Venta Regionális Park",
+            "ro": "Parcul Regional Venta",
+            "en": "Venta Regional Park"
+          },
+          "coords": [
+            22.38,
+            56.34
+          ],
+          "category": "natural features",
+          "arrive_at": "12:33",
+          "stay_min": 150,
+          "hop_from_prev_min": 44,
+          "hop_from_prev_km": 7.3,
+          "tip_5lang": {
+            "de": "Die Hauptattraktion des Tages. Erkunden Sie die Pfade und genießen Sie die Natur. Perfekt für ein Picknick.",
+            "hu": "A nap fő attrakciója. Fedezze fel az ösvényeket és élvezze a természetet. Tökéletes piknikezéshez.",
+            "ro": "Atracția principală a zilei. Explorați traseele și bucurați-vă de natură. Perfect pentru un picnic.",
+            "en": "The main attraction of the day. Explore the trails and enjoy nature. Perfect for a picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Friedhof von Mažeikiai",
+            "hu": "Régi Mažeikiai temető",
+            "ro": "Cimitirul vechi din Mažeikiai",
+            "en": "Old Mažeikiai Cemetery"
+          },
+          "coords": [
+            22.345,
+            56.321
+          ],
+          "category": "historical",
+          "arrive_at": "15:20",
+          "stay_min": 105,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Ein nachdenklicher Abschluss des Tages, der die Geschichte der Stadt aus einer anderen Perspektive zeigt.",
+            "hu": "A nap elgondolkodtató lezárása, amely más szemszögből mutatja be a város történelmét.",
+            "ro": "O încheiere contemplativă a zilei, arătând istoria orașului dintr-o altă perspectivă.",
+            "en": "A reflective end to the day, showing the city's history from another perspective."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour in Mažeikiai beginnt im grünen Jugendpark. Nach einer kurzen Fahrt durch das Zentrum halten Sie am Unabhängigkeitsdenkmal und besuchen das Mažeikiai-Museum, um mehr über die Vergangenheit zu erfahren. Am Mittag beginnt das eigentliche Abenteuer: eine längere Radtour zum wunderschönen Venta-Regionalpark. Verbringen Sie den Nachmittag damit, die Naturpfade zu erkunden und am Flussufer zu entspannen. Auf dem Rückweg in die Stadt bietet ein Besuch des Alten Friedhofs einen ruhigen und historischen Abschluss Ihrer Erkundung.",
+        "hu": "A mažeikiai kerékpártúra a zöldellő Ifjúsági Parkban kezdődik. Egy rövid központi tekerés után megáll a Függetlenségi emlékműnél, majd a Mažeikiai Múzeumban ismerkedik a múlttal. Délben kezdődik az igazi kaland: egy hosszabb biciklizés a gyönyörű Venta Regionális Parkba. Töltse a délutánt a természetjáró ösvények felfedezésével és a folyóparti pihenéssel. A városba visszatérve a Régi temető meglátogatása békés és történelmi lezárást ad a napnak.",
+        "ro": "Turul cu bicicleta în Mažeikiai începe în Parcul Tineretului. După o scurtă plimbare prin centru, opriți-vă la Monumentul Independenței și vizitați Muzeul Mažeikiai pentru o doză de trecut. La prânz, începe adevărata aventură: o plimbare mai lungă cu bicicleta până la frumosul Parc Regional Venta. Petreceți după-amiaza explorând potecile naturale și relaxându-vă pe malul râului. Pe drumul de întoarcere spre oraș, o vizită la Cimitirul Vechi oferă o încheiere liniștită și istorică a explorării dumneavoastră.",
+        "en": "Your cycling tour in Mažeikiai starts in the leafy Youth Park. After a short ride through the center, you'll stop at the Independence Monument and visit the Mažeikiai Museum for a dose of the past. At midday, the real adventure begins: a longer cycle out to the beautiful Venta Regional Park. Spend the afternoon exploring its nature trails and relaxing by the river. On the way back to town, a visit to the Old Cemetery provides a quiet and historic end to your exploration."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kibinai",
+            "tip": "Herzhafte Teigtaschen, oft mit Lammfleisch gefüllt, perfekt als Snack für Radfahrer."
+          },
+          {
+            "name": "Grybukai (Pilz-Kekse)",
+            "tip": "Süße, pilzförmige Kekse, die Sie in Bäckereien für einen Energieschub finden."
+          },
+          {
+            "name": "Lokales Craft-Bier",
+            "tip": "Belohnen Sie sich nach Ihrer Radtour mit einem litauischen Craft-Bier."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kibinai",
+            "tip": "Kiadós, gyakran bárányhússal töltött tésztabatyu, tökéletes harapnivaló a kerékpárosoknak."
+          },
+          {
+            "name": "Grybukai (Gomba-keksz)",
+            "tip": "Édes, gomba alakú sütemény, amelyet a pékségekben találhat egy kis energiáért."
+          },
+          {
+            "name": "Helyi kézműves sör",
+            "tip": "Jutalmazza meg magát egy litván kézműves sörrel a túra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kibinai",
+            "tip": "Plăcinte sărate, adesea umplute cu carne de miel, perfecte ca gustare pentru bicicliști."
+          },
+          {
+            "name": "Grybukai (Biscuiți-ciuperci)",
+            "tip": "Biscuiți dulci, în formă de ciupercă, pe care îi găsiți în brutării pentru un plus de energie."
+          },
+          {
+            "name": "Bere artizanală locală",
+            "tip": "Recompensați-vă cu o bere artizanală lituaniană după turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kibinai",
+            "tip": "Savory pastries, often filled with mutton, perfect as a snack for cyclists."
+          },
+          {
+            "name": "Grybukai (Mushroom Cookies)",
+            "tip": "Sweet, mushroom-shaped cookies you can find in bakeries for an energy boost."
+          },
+          {
+            "name": "Local Craft Beer",
+            "tip": "Reward yourself with a Lithuanian craft beer after your ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Versteckte Pfade im Venta-Regionalpark",
+            "tip": "Weichen Sie vom Hauptweg ab, um Ihren eigenen friedlichen Ort zu finden.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sonnenuntergang am Fluss",
+            "tip": "Finden Sie einen Ort am Venta-Fluss, um den Sonnenuntergang zu beobachten.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Herz-Jesu-Kirche",
+            "tip": "Die Kirche bietet einen Moment der stillen Einkehr.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rejtett ösvények a Venta Regionális Parkban",
+            "tip": "Térjen le a fő útról, hogy megtalálja saját békés helyét.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Naplemente a folyónál",
+            "tip": "Keressen egy helyet a Venta folyó mentén a naplemente megtekintéséhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jézus Szíve-templom",
+            "tip": "A templom egy csendes elmélyülés pillanatát kínálja.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poteci ascunse în Parcul Regional Venta",
+            "tip": "Abateți-vă de la poteca principală pentru a vă găsi propriul loc liniștit.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Apus de soare pe râu",
+            "tip": "Găsiți un loc pe malul râului Venta pentru a privi apusul.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Biserica Inima lui Iisus",
+            "tip": "Biserica oferă un moment de reflecție liniștită.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hidden trails in Venta Regional Park",
+            "tip": "Venture off the main path to find your own peaceful spot.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sunset by the river",
+            "tip": "Find a spot along the Venta river to watch the sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sacred Heart Church",
+            "tip": "The church offers a moment of quiet contemplation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Suchen Sie nach lokalen Fahrradgeschäften für Zubehör oder Souvenirs mit Fahrradmotiv."
+          },
+          {
+            "name": "Handgemachte Wollwaren",
+            "tip": "Litauische Wollsocken oder -handschuhe sind perfekt für kühleres Wetter."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Keressen helyi kerékpárboltokat kiegészítőkért vagy kerékpáros témájú ajándéktárgyakért."
+          },
+          {
+            "name": "Kézzel készített gyapjúáruk",
+            "tip": "A litván gyapjúzoknik vagy kesztyűk tökéletesek a hűvösebb időre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Căutați magazine locale de biciclete pentru accesorii sau suveniruri tematice."
+          },
+          {
+            "name": "Articole din lână lucrate manual",
+            "tip": "Șosetele sau mănușile lituaniene din lână sunt perfecte pentru vremea mai rece."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "Check out local bike shops for accessories or cycling-themed souvenirs."
+          },
+          {
+            "name": "Handmade Woolens",
+            "tip": "Lithuanian wool socks or mittens are perfect for cooler weather."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad, bevor Sie losfahren, insbesondere die Bremsen und Reifen.",
+          "Nehmen Sie eine Karte oder ein GPS-Gerät mit, besonders für den Regionalpark.",
+          "Ein Fahrradschloss ist unerlässlich, um Ihr Fahrrad bei Stopps zu sichern.",
+          "Fahren Sie auf Radwegen, wo immer es möglich ist."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket és a gumikat.",
+          "Vigyen magával térképet vagy GPS-t, különösen a regionális parkhoz.",
+          "A kerékpárzár elengedhetetlen a megállók során.",
+          "Ahol csak lehetséges, használja a kerékpárutakat."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni, în special frânele și anvelopele.",
+          "Luați o hartă sau un dispozitiv GPS, mai ales pentru parcul regional.",
+          "Un lacăt pentru bicicletă este esențial pentru a o securiza în timpul opririlor.",
+          "Folosiți pistele de biciclete ori de câte ori este posibil."
+        ],
+        "en": [
+          "Check your bike before you set off, especially brakes and tires.",
+          "Bring a map or GPS, especially for the regional park.",
+          "A bike lock is essential for securing your ride during stops.",
+          "Use bike lanes wherever available."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:03",
+      "total_km": 16.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Venta-Regionalpark",
+            "hu": "Venta Regionális Park",
+            "ro": "Parcul Regional Venta",
+            "en": "Venta Regional Park"
+          },
+          "coords": [
+            22.38,
+            56.34
+          ],
+          "category": "natural features",
+          "arrive_at": "09:26",
+          "stay_min": 120,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 7.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einer Fahrt in die Natur. Parken Sie das Auto und erkunden Sie die Wanderwege.",
+            "hu": "Kezdje a napot egy kirándulással a természetbe. Parkolja le az autót és fedezze fel a túraösvényeket.",
+            "ro": "Începeți ziua cu o excursie în natură. Parcați mașina și explorați traseele de drumeție.",
+            "en": "Start your day by driving out into nature. Park the car and explore the hiking trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Friedhof von Mažeikiai",
+            "hu": "Régi Mažeikiai temető",
+            "ro": "Cimitirul vechi din Mažeikiai",
+            "en": "Old Mažeikiai Cemetery"
+          },
+          "coords": [
+            22.345,
+            56.321
+          ],
+          "category": "historical",
+          "arrive_at": "11:34",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein kurzer Halt auf dem Weg zurück in die Stadt, um diesen historischen Ort zu sehen.",
+            "hu": "Egy gyors megálló visszafelé a városba, hogy megnézze ezt a történelmi helyet.",
+            "ro": "O oprire scurtă în drum spre oraș pentru a vedea acest loc istoric.",
+            "en": "A brief stop on your way back into the city to see this historic site."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Franziskus-von-Assisi-Kirche",
+            "hu": "Assisi Szent Ferenc-templom",
+            "ro": "Biserica Sfântul Francisc de Assisi",
+            "en": "St. Francis of Assisi Church"
+          },
+          "coords": [
+            22.334,
+            56.317
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.9,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier im Zentrum und beginnen Sie Ihren Stadtrundgang.",
+            "hu": "Parkoljon le itt a központban, és kezdje meg a városnéző sétát.",
+            "ro": "Parcați aici, în centru, și începeți turul pietonal al orașului.",
+            "en": "Park here in the center and begin your city walking cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Mažeikiai-Museum",
+            "hu": "Mažeikiai Múzeum",
+            "ro": "Muzeul Mažeikiai",
+            "en": "Mažeikiai Museum"
+          },
+          "coords": [
+            22.3365,
+            56.3175
+          ],
+          "category": "museums",
+          "arrive_at": "13:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang von der Kirche entfernt. Ideal für eine Mittagspause.",
+            "hu": "Csak egy rövid séta a templomtól. Ideális egy ebédszünetre.",
+            "ro": "La o scurtă plimbare de biserică. Ideal pentru o pauză de prânz.",
+            "en": "Just a short walk from the church. Ideal for a midday cultural break."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für die Unabhängigkeit",
+            "hu": "Függetlenségi emlékmű",
+            "ro": "Monumentul Independenței",
+            "en": "Independence Monument"
+          },
+          "coords": [
+            22.335,
+            56.3165
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:01",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang im Stadtzentrum an diesem wichtigen Denkmal.",
+            "hu": "Fejezze be a belvárosi sétát ennél a fontos emlékműnél.",
+            "ro": "Încheiați-vă plimbarea prin centrul orașului la acest monument important.",
+            "en": "End your walk through the city center at this important monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Jugendpark",
+            "hu": "Ifjúsági Park",
+            "ro": "Parcul Tineretului",
+            "en": "Youth Park"
+          },
+          "coords": [
+            22.338,
+            56.315
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:24",
+          "stay_min": 99,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kehren Sie zu Ihrem Auto zurück und fahren Sie zum Park, um sich am Ende des Tages zu entspannen.",
+            "hu": "Menjen vissza az autójához, és vezessen el a parkba, hogy pihenjen a nap végén.",
+            "ro": "Întoarceți-vă la mașină și conduceți până la parc pentru a vă relaxa la sfârșitul zilei.",
+            "en": "A final stop to relax and unwind before leaving the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die Flexibilität des Autos und fahren Sie morgens direkt zum Venta-Regionalpark. Nach einem belebenden Spaziergang fahren Sie zurück in Richtung Stadt und machen einen kurzen Halt am Alten Friedhof. Parken Sie Ihr Auto im Stadtzentrum und erkunden Sie den ersten Cluster zu Fuß: die St.-Franziskus-Kirche und das nahegelegene Mažeikiai-Museum. Am Nachmittag spazieren Sie zum Unabhängigkeitsdenkmal. Zum Abschluss des Tages fahren Sie zum Jugendpark, um sich zu entspannen, bevor Sie Ihre Heimreise antreten.",
+        "hu": "Használja ki az autó adta rugalmasságot, és reggel vezessen egyenesen a Venta Regionális Parkba. Egy frissítő séta után induljon vissza a város felé, útközben megállva a Régi temetőnél. Parkoljon le a központban, és fedezze fel az első gyalogos klasztert: az Assisi Szent Ferenc-templomot és a közeli Mažeikiai Múzeumot. Délután sétáljon el a Függetlenségi emlékműhöz. A nap végén vezessen el az Ifjúsági Parkba, hogy pihenjen egyet, mielőtt hazaindul.",
+        "ro": "Folosiți flexibilitatea mașinii pentru a merge direct la Parcul Regional Venta dimineața. După o plimbare revigorantă, conduceți înapoi spre oraș, cu o scurtă oprire la Cimitirul Vechi. Parcați mașina în centru și explorați primul grup de atracții pe jos: Biserica Sf. Francisc și Muzeul Mažeikiai din apropiere. După-amiaza, plimbați-vă până la Monumentul Independenței. Încheiați ziua conducând spre Parcul Tineretului pentru a vă relaxa înainte de a pleca.",
+        "en": "Use the car's flexibility to drive straight to Venta Regional Park in the morning. After an invigorating walk, head back towards the city with a brief stop at the Old Cemetery. Park your car in the city center and explore the first cluster on foot: St. Francis Church and the nearby Mažeikiai Museum. In the afternoon, stroll over to the Independence Monument. End your day by driving to the Youth Park for some final relaxation before you depart."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Šašlykas (Schaschlik)",
+            "tip": "Gegrillte Fleischspieße, ein herzhaftes Mittagessen, das man oft in ländlichen Gasthäusern in der Nähe von Parks findet."
+          },
+          {
+            "name": "Balandėliai (Kohlrouladen)",
+            "tip": "Mit Fleisch und Reis gefüllte Kohlblätter, ein Klassiker der Hausmannskost."
+          },
+          {
+            "name": "Duona (Dunkles Roggenbrot)",
+            "tip": "Probieren Sie das berühmte litauische Schwarzbrot, das zu fast jeder Mahlzeit passt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Šašlykas (Saslik)",
+            "tip": "Grillezett húsnyárs, egy kiadós ebéd, amelyet gyakran találni a parkok közelében lévő vidéki fogadókban."
+          },
+          {
+            "name": "Balandėliai (Töltött káposzta)",
+            "tip": "Hússal és rizzsel töltött káposztalevelek, egy igazi házias klasszikus."
+          },
+          {
+            "name": "Duona (Sötét rozskenyér)",
+            "tip": "Kóstolja meg a híres litván fekete kenyeret, amely szinte minden ételhez illik."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Šašlik (Frigărui)",
+            "tip": "Frigărui de carne la grătar, un prânz consistent adesea găsit la hanurile rurale de lângă parcuri."
+          },
+          {
+            "name": "Balandėliai (Sarmale)",
+            "tip": "Frunze de varză umplute cu carne și orez, un fel de mâncare clasic, ca la mama acasă."
+          },
+          {
+            "name": "Duona (Pâine neagră de secară)",
+            "tip": "Încercați faimoasa pâine neagră lituaniană, care se potrivește cu aproape orice masă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Šašlykas (Shashlik)",
+            "tip": "Grilled meat skewers, a hearty lunch often found at rural inns near parks."
+          },
+          {
+            "name": "Balandėliai (Cabbage Rolls)",
+            "tip": "Cabbage leaves stuffed with meat and rice, a home-style classic."
+          },
+          {
+            "name": "Duona (Dark Rye Bread)",
+            "tip": "Be sure to try the famous Lithuanian black bread that accompanies almost every meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt im Venta-Park",
+            "tip": "Suchen Sie den höchsten Punkt im Park für eine weite Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spaziergang am Flussufer",
+            "tip": "Nach dem Parken können Sie am Flussufer entlang spazieren.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópont a Venta Parkban",
+            "tip": "Keresse meg a park legmagasabb pontját a panorámáért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Séta a folyóparton",
+            "tip": "A parkolás után sétáljon egyet a folyóparton.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere în Parcul Venta",
+            "tip": "Găsiți cel mai înalt punct din parc pentru o priveliște panoramică.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plimbare pe malul râului",
+            "tip": "După ce parcați, faceți o plimbare de-a lungul malului râului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint in Venta Park",
+            "tip": "Find the highest point in the park for an expansive view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Riverside Stroll",
+            "tip": "After parking, take a walk along the river bank.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Halten Sie auf dem Land Ausschau nach Hofläden, die Honig oder hausgemachte Marmeladen verkaufen."
+          },
+          {
+            "name": "Holzschnitzereien",
+            "tip": "Traditionelle litauische Holzschnitzereien sind ein authentisches Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői boltok",
+            "tip": "Vidéken keressen mézet vagy házi lekvárt árusító termelői boltokat."
+          },
+          {
+            "name": "Fafaragások",
+            "tip": "A hagyományos litván fafaragások autentikus ajándéktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de la fermă",
+            "tip": "Fiți atenți la magazinele de la ferme din mediul rural, care vând miere sau gemuri de casă."
+          },
+          {
+            "name": "Sculpturi în lemn",
+            "tip": "Sculpturile tradiționale lituaniene în lemn sunt un suvenir autentic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm Shops",
+            "tip": "In the countryside, look for farm shops selling honey or homemade jams."
+          },
+          {
+            "name": "Wood Carvings",
+            "tip": "Traditional Lithuanian wood carvings make for an authentic souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Parkmöglichkeiten und -gebühren im Voraus.",
+          "Ein GPS ist hilfreich, um sich zwischen der Stadt und dem Regionalpark zurechtzufinden.",
+          "Planen Sie zusätzliche Zeit für den Verkehr ein, besonders am Nachmittag.",
+          "Beachten Sie die Geschwindigkeitsbegrenzungen, die auf dem Land niedriger sein können."
+        ],
+        "hu": [
+          "Előre tájékozódjon a parkolási lehetőségekről és díjakról.",
+          "A GPS segít a város és a regionális park közötti navigációban.",
+          "Tervezzen be plusz időt a forgalomra, különösen délután.",
+          "Vegye figyelembe a sebességkorlátozásokat, amelyek vidéken alacsonyabbak lehetnek."
+        ],
+        "ro": [
+          "Verificați din timp opțiunile de parcare și taxele.",
+          "Un GPS este util pentru a naviga între oraș și parcul regional.",
+          "Planificați timp suplimentar pentru trafic, mai ales după-amiaza.",
+          "Respectați limitele de viteză, care pot fi mai mici în zonele rurale."
+        ],
+        "en": [
+          "Check parking options and fees in advance.",
+          "A GPS is helpful for navigating between the city and the regional park.",
+          "Plan for extra time for traffic, especially in the afternoon.",
+          "Be mindful of speed limits, which can be lower in the countryside."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 10.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kulturzentrum Mažeikiai",
+            "hu": "Mažeikiai Kulturális Központ",
+            "ro": "Centrul Cultural Mažeikiai",
+            "en": "Mažeikiai Cultural Centre"
+          },
+          "coords": [
+            22.332,
+            56.314
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie im kulturellen Herzen der Stadt, leicht erreichbar mit dem Bus.",
+            "hu": "Kezdje a város kulturális szívében, amely busszal könnyen megközelíthető.",
+            "ro": "Începeți în inima culturală a orașului, ușor accesibilă cu autobuzul.",
+            "en": "Start at the city's cultural heart, easily reachable by bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für die Unabhängigkeit",
+            "hu": "Függetlenségi emlékmű",
+            "ro": "Monumentul Independenței",
+            "en": "Independence Monument"
+          },
+          "coords": [
+            22.335,
+            56.3165
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:16",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang, um das erste Cluster zu beginnen.",
+            "hu": "Egy rövid séta az első klaszter megkezdéséhez.",
+            "ro": "O scurtă plimbare pentru a începe primul grup de atracții.",
+            "en": "A short walk to begin your first cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Franziskus-von-Assisi-Kirche",
+            "hu": "Assisi Szent Ferenc-templom",
+            "ro": "Biserica Sfântul Francisc de Assisi",
+            "en": "St. Francis of Assisi Church"
+          },
+          "coords": [
+            22.334,
+            56.317
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Setzen Sie Ihren Spaziergang zur nächsten Sehenswürdigkeit im Zentrum fort.",
+            "hu": "Folytassa sétáját a következő központi látnivalóhoz.",
+            "ro": "Continuați-vă plimbarea către următoarea atracție din centru.",
+            "en": "Continue your stroll to the next sight in the central cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Venta-Regionalpark",
+            "hu": "Venta Regionális Park",
+            "ro": "Parcul Regional Venta",
+            "en": "Venta Regional Park"
+          },
+          "coords": [
+            22.38,
+            56.34
+          ],
+          "category": "natural features",
+          "arrive_at": "12:05",
+          "stay_min": 150,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 7.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zum Park. Erkundigen Sie sich nach dem Fahrplan für die Rückfahrt.",
+            "hu": "Menjen busszal a parkba. Érdeklődjön a visszaúti menetrendről.",
+            "ro": "Luați autobuzul spre parc. Verificați orarul pentru călătoria de întoarcere.",
+            "en": "Take a bus out to the park. Check the return schedule in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Mažeikiai-Museum",
+            "hu": "Mažeikiai Múzeum",
+            "ro": "Muzeul Mažeikiai",
+            "en": "Mažeikiai Museum"
+          },
+          "coords": [
+            22.3365,
+            56.3175
+          ],
+          "category": "museums",
+          "arrive_at": "15:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück ins Zentrum für Ihren letzten kulturellen Halt.",
+            "hu": "Menjen busszal vissza a központba az utolsó kulturális megállóhoz.",
+            "ro": "Luați autobuzul înapoi în centru pentru ultima oprire culturală.",
+            "en": "Take the bus back to the center for your last cultural stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Jugendpark",
+            "hu": "Ifjúsági Park",
+            "ro": "Parcul Tineretului",
+            "en": "Youth Park"
+          },
+          "coords": [
+            22.338,
+            56.315
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:34",
+          "stay_min": 41,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": "0.2",
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannender Spaziergang, um den Tag ausklingen zu lassen, bevor Sie den Bus nach Hause nehmen.",
+            "hu": "Egy pihentető séta a nap végén, mielőtt hazabuszozna.",
+            "ro": "O plimbare relaxantă pentru a încheia ziua înainte de a lua autobuzul spre casă.",
+            "en": "A relaxing walk to end the day before catching your bus home."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt am Kulturzentrum. Von dort aus erkunden Sie zu Fuß ein Cluster von Sehenswürdigkeiten im Stadtzentrum, darunter das Unabhängigkeitsdenkmal und die St.-Franziskus-Kirche. Zur Mittagszeit nehmen Sie einen Bus zum weitläufigen Venta-Regionalpark für einen langen Naturaufenthalt. Am Nachmittag bringt Sie ein Bus zurück ins Zentrum zum Mažeikiai-Museum. Ein letzter kurzer Spaziergang zum Jugendpark rundet Ihren Tag ab, bevor Sie Ihren Rückweg antreten.",
+        "hu": "A tömegközlekedéssel töltött napja a Kulturális Központnál kezdődik. Innen gyalogosan fedezi fel a belvárosi látnivalók egy csoportját, köztük a Függetlenségi emlékművet és az Assisi Szent Ferenc-templomot. Délben busszal utazik a tágas Venta Regionális Parkba egy hosszabb természeti kikapcsolódásra. Délután egy busz viszi vissza a központba a Mažeikiai Múzeumba. Egy utolsó rövid séta az Ifjúsági Parkba zárja a napot, mielőtt hazaindul.",
+        "ro": "Ziua dumneavoastră cu transportul public începe la Centrul Cultural. De acolo, explorați un grup de atracții din centrul orașului pe jos, inclusiv Monumentul Independenței și Biserica Sf. Francisc. La prânz, luați un autobuz către vastul Parc Regional Venta pentru o escapadă prelungită în natură. După-amiaza, un autobuz vă duce înapoi în centru la Muzeul Mažeikiai. O ultimă plimbare scurtă până la Parcul Tineretului încheie ziua înainte de a vă întoarce.",
+        "en": "Your day on public transport starts at the Cultural Centre. From there, explore a cluster of city-center sights on foot, including the Independence Monument and St. Francis Church. At midday, you'll catch a bus to the expansive Venta Regional Park for a long nature escape. In the afternoon, a bus takes you back downtown to the Mažeikiai Museum. A final short walk to the Youth Park rounds off your day before you head home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kepta Duona",
+            "tip": "Gebratenes Knoblauchbrot, ein beliebter Snack in Bars, den Sie bei der Rückkehr in die Stadt genießen können."
+          },
+          {
+            "name": "Spurgos (Donuts)",
+            "tip": "Litauische Donuts, ein schneller und süßer Leckerbissen von einem Straßenverkäufer."
+          },
+          {
+            "name": "Kava (Kaffee)",
+            "tip": "Wärmen Sie sich mit einem starken Kaffee in einem Café auf, während Sie auf Ihren Bus warten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kepta Duona",
+            "tip": "Sült fokhagymás kenyér, népszerű sörkorcsolya, amelyet a városba visszatérve élvezhet."
+          },
+          {
+            "name": "Spurgos (Fánk)",
+            "tip": "Litván fánk, egy gyors és édes csemege egy utcai árustól."
+          },
+          {
+            "name": "Kava (Kávé)",
+            "tip": "Melegedjen fel egy erős kávéval egy kávézóban, miközben a buszra vár."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kepta Duona",
+            "tip": "Pâine prăjită cu usturoi, o gustare populară în baruri, de savurat la întoarcerea în oraș."
+          },
+          {
+            "name": "Spurgos (Gogoși)",
+            "tip": "Gogoși lituaniene, o gustare rapidă și dulce de la un vânzător ambulant."
+          },
+          {
+            "name": "Kava (Cafea)",
+            "tip": "Încălziți-vă cu o cafea tare la o cafenea în timp ce așteptați autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kepta Duona",
+            "tip": "Fried garlic bread, a popular bar snack to enjoy when you get back to town."
+          },
+          {
+            "name": "Spurgos (Doughnuts)",
+            "tip": "Lithuanian doughnuts, a quick and sweet treat from a street vendor."
+          },
+          {
+            "name": "Kava (Coffee)",
+            "tip": "Warm up with a strong coffee at a café while waiting for your bus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt aufs Land",
+            "tip": "Genießen Sie die Aussicht auf die Landschaft während der Fahrt zum Park.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eine ruhige Ecke im Museum",
+            "tip": "Finden Sie eine weniger besuchte Ausstellung für einen Moment der Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás a vidékre",
+            "tip": "Élvezze a tájat a park felé tartó buszúton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Csendes sarok a múzeumban",
+            "tip": "Keressen egy kevésbé látogatott kiállítást egy csendes pillanatért.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătoria cu autobuzul spre zona rurală",
+            "tip": "Bucurați-vă de peisajul rural în timpul călătoriei cu autobuzul spre parc.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Un colț liniștit în muzeu",
+            "tip": "Găsiți o expoziție mai puțin aglomerată pentru un moment de liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride to the countryside",
+            "tip": "Enjoy the views of the landscape during the bus ride to the park.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A quiet corner in the museum",
+            "tip": "Find a less crowded exhibit for a moment of peace.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Kaufen Sie Zeitschriften oder Snacks für Ihre Reise."
+          },
+          {
+            "name": "Lokale Töpferwaren",
+            "tip": "Halten Sie Ausschau nach handgemachter Keramik in Souvenirläden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszpályaudvaron",
+            "tip": "Vásároljon magazinokat vagy rágcsálnivalókat az útra."
+          },
+          {
+            "name": "Helyi kerámiák",
+            "tip": "Keressen kézzel készített kerámiákat az ajándékboltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la autogară",
+            "tip": "Cumpărați reviste sau gustări pentru călătorie."
+          },
+          {
+            "name": "Ceramică locală",
+            "tip": "Căutați ceramică lucrată manual în magazinele de suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus station kiosk",
+            "tip": "Pick up magazines or snacks for your journey."
+          },
+          {
+            "name": "Local pottery",
+            "tip": "Look for handmade ceramics in souvenir shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus für unbegrenzte Fahrten.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, insbesondere für die letzte Fahrt des Tages.",
+          "Haben Sie Kleingeld für die Tickets dabei, falls Sie im Bus bezahlen.",
+          "Beachten Sie, dass die Busse am Wochenende seltener fahren könnten."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Előre ellenőrizze a buszmenetrendet, különösen az utolsó járatot.",
+          "Készítsen elő aprópénzt a jegyekhez, ha a buszon fizet.",
+          "Vegye figyelembe, hogy a buszok hétvégén ritkábban közlekedhetnek."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru călătorii nelimitate cu autobuzul.",
+          "Verificați din timp orarele autobuzelor, în special pentru ultima cursă a zilei.",
+          "Aveți la îndemână bani mărunți pentru bilete dacă plătiți în autobuz.",
+          "Rețineți că autobuzele pot circula mai rar în weekend."
+        ],
+        "en": [
+          "Purchase a day pass for the bus for unlimited travel.",
+          "Check bus schedules in advance, especially for the last service of the day.",
+          "Have small change ready for tickets if paying on the bus.",
+          "Be aware that bus services might be less frequent on weekends."
+        ]
+      }
+    }
+  }
+}

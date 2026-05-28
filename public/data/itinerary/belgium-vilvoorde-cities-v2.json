@@ -1,0 +1,1238 @@
+{
+  "city_id": "belgium-vilvoorde-cities-v2",
+  "anchor": {
+    "name": "Vilvoorde",
+    "coords": [
+      4.4283,
+      50.9281
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Het Brabants Trekpaard",
+            "hu": "A brabanti igásló szobra",
+            "ro": "Calul de tracțiune brabantin",
+            "en": "The Brabant Draught Horse"
+          },
+          "coords": [
+            4.4275,
+            50.9285
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein toller Fotopunkt, um den Tag zu beginnen und die lokale Geschichte zu ehren.",
+            "hu": "Remek fotópont a nap indításához és a helyi történelem tiszteletére.",
+            "ro": "Un loc excelent pentru fotografii pentru a începe ziua și a onora istoria locală.",
+            "en": "A great photo spot to start the day and honor local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Onze-Lieve-Vrouwekerk",
+            "hu": "Miasszonyunk-templom",
+            "ro": "Biserica Maicii Domnului",
+            "en": "Church of Our Lady"
+          },
+          "coords": [
+            4.4288,
+            50.9291
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beachten Sie die beeindruckenden gotischen Elemente und die ruhige Atmosphäre im Inneren.",
+            "hu": "Figyelje meg a lenyűgöző gótikus elemeket és a belső csendes légkört.",
+            "ro": "Observați elementele gotice impresionante și atmosfera liniștită din interior.",
+            "en": "Notice the impressive Gothic elements and the quiet atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Hanssenspark",
+            "hu": "Hanssenspark",
+            "ro": "Parcul Hanssens",
+            "en": "Hanssenspark"
+          },
+          "coords": [
+            4.4311,
+            50.9275
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für eine kleine Pause auf einer der vielen Bänke.",
+            "hu": "Tökéletes hely egy rövid pihenőre a sok pad egyikén.",
+            "ro": "Un loc perfect pentru o scurtă pauză pe una dintre numeroasele bănci.",
+            "en": "A perfect spot for a short break on one of the many benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Cultuurcentrum Het Bolwerk",
+            "hu": "Het Bolwerk Kulturális Központ",
+            "ro": "Centrul Cultural Het Bolwerk",
+            "en": "Cultural Centre Het Bolwerk"
+          },
+          "coords": [
+            4.4255,
+            50.9263
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Prüfen Sie das Programm im Voraus, vielleicht gibt es eine interessante Ausstellung oder Veranstaltung.",
+            "hu": "Ellenőrizze előre a programot, hátha van egy érdekes kiállítás vagy esemény.",
+            "ro": "Verificați programul în avans, poate este o expoziție sau un eveniment interesant.",
+            "en": "Check the schedule in advance, there might be an interesting exhibition or event."
+          }
+        },
+        {
+          "name": {
+            "de": "De Kruitfabriek",
+            "hu": "De Kruitfabriek (A Lőporgyár)",
+            "ro": "De Kruitfabriek (Fabrica de praf de pușcă)",
+            "en": "De Kruitfabriek (The Gunpowder Factory)"
+          },
+          "coords": [
+            4.4172,
+            50.9321
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein kreativer Hotspot. Genießen Sie die industrielle Atmosphäre bei einem Drink im Café.",
+            "hu": "Egy kreatív központ. Élvezze az ipari hangulatot egy ital mellett a kávézóban.",
+            "ro": "Un hotspot creativ. Bucurați-vă de atmosfera industrială cu o băutură la cafenea.",
+            "en": "A creative hotspot. Enjoy the industrial vibe with a drink at the café."
+          }
+        },
+        {
+          "name": {
+            "de": "Kijk aan de Gracht",
+            "hu": "Kilátás a csatornára",
+            "ro": "Privire la canal",
+            "en": "View at the Canal"
+          },
+          "coords": [
+            4.4265,
+            50.9299
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der beste Ort, um den Tag ausklingen zu lassen und das Wasser zu beobachten.",
+            "hu": "A legjobb hely a nap lezárására és a víz figyelésére.",
+            "ro": "Cel mai bun loc pentru a încheia ziua și a privi apa.",
+            "en": "The best place to wind down the day and watch the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang durch Vilvoorde am Denkmal des Brabanter Kaltbluts, einem Symbol der Region. Schlendern Sie zur gotischen Liebfrauenkirche, bevor Sie im grünen Hanssenspark entspannen. Am Nachmittag tauchen Sie in die lokale Kultur im Het Bolwerk ein. Später entdecken Sie das kreative Zentrum De Kruitfabriek in einer ehemaligen Fabrik. Beenden Sie Ihren Tag mit einem friedlichen Spaziergang entlang des Kanals bei Kijk aan de Gracht und genießen Sie die ruhige Atmosphäre am Wasser.",
+        "hu": "Kezdje a vilvoorde-i sétát a brabanti igásló emlékművénél, a régió szimbólumánál. Sétáljon el a gótikus Miasszonyunk-templomhoz, mielőtt a zöld Hanssensparkban pihenne. Délután merüljön el a helyi kultúrában a Het Bolwerk központban. Később fedezze fel a De Kruitfabriek kreatív központot egy egykori gyárban. Zárja a napot egy békés sétával a csatorna mentén a Kijk aan de Grachtnál, élvezve a nyugodt vízparti hangulatot.",
+        "ro": "Începeți turul pietonal al orașului Vilvoorde la monumentul calului brabantin, un simbol al regiunii. Plimbați-vă până la Biserica gotică a Maicii Domnului înainte de a vă relaxa în Parcul verde Hanssens. După-amiaza, imersați-vă în cultura locală la centrul Het Bolwerk. Mai târziu, explorați centrul creativ De Kruitfabriek într-o fostă fabrică. Încheiați ziua cu o plimbare liniștită de-a lungul canalului la Kijk aan de Gracht, bucurându-vă de atmosfera calmă de pe malul apei.",
+        "en": "Start your walking tour of Vilvoorde at the Brabant Draught Horse monument, a symbol of the region. Stroll to the Gothic Church of Our Lady before relaxing in the green Hanssenspark. In the afternoon, immerse yourself in local culture at the Het Bolwerk centre. Later, explore the creative hub of De Kruitfabriek in a former factory. End your day with a peaceful walk along the canal at Kijk aan de Gracht, enjoying the calm waterside atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Stoemp met worst",
+            "tip": "Ein herzhaftes lokales Gericht aus Kartoffelpüree mit Gemüse, serviert mit Wurst. Probieren Sie es im 't Wit Paard.'"
+          },
+          {
+            "name": "Belgische Frieten",
+            "tip": "Probieren Sie die weltberühmten belgischen Pommes von einer lokalen Frituur."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stoemp kolbásszal",
+            "tip": "Kiadós helyi étel, zöldséges krumplipüré kolbásszal tálalva. Kóstolja meg a 't Wit Paard étteremben."
+          },
+          {
+            "name": "Belga sültkrumpli",
+            "tip": "Kóstolja meg a világhírű belga sültkrumplit egy helyi 'frituur'-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stoemp cu cârnați",
+            "tip": "Un fel de mâncare local consistent din piure de cartofi cu legume, servit cu cârnați. Încercați-l la 't Wit Paard.'"
+          },
+          {
+            "name": "Cartofi prăjiți belgieni",
+            "tip": "Gustați faimoșii cartofi prăjiți belgieni de la o 'frituur' locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stoemp with sausage",
+            "tip": "A hearty local dish of mashed potatoes with vegetables, served with sausage. Try it at 't Wit Paard.'"
+          },
+          {
+            "name": "Belgian Fries",
+            "tip": "Taste the world-famous Belgian fries from a local 'frituur'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hanssenspark",
+            "tip": "Finden Sie eine ruhige Ecke, um ein Buch zu lesen oder die Natur zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Kanals",
+            "tip": "Ein Spaziergang am Abend entlang des Wassers ist sehr beruhigend.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hanssenspark",
+            "tip": "Keressen egy csendes sarkot egy könyv olvasásához vagy a természet élvezetéhez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Csatornapart",
+            "tip": "Egy esti séta a víz mentén nagyon megnyugtató.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Hanssens",
+            "tip": "Găsiți un colț liniștit pentru a citi o carte sau a vă bucura de natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul canalului",
+            "tip": "O plimbare de seară de-a lungul apei este foarte liniștitoare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hanssenspark",
+            "tip": "Find a quiet corner to read a book or enjoy nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Canal banks",
+            "tip": "An evening walk along the water is very calming.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Besuchen Sie den Markt am Mittwoch oder Samstag für lokale Produkte und eine lebhafte Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Látogasson el a szerdai vagy szombati piacra helyi termékekért és élénk hangulatért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Vizitați piața de miercuri sau sâmbătă pentru produse locale și o atmosferă plină de viață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Visit the market on Wednesday or Saturday for local produce and a lively atmosphere."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Halten Sie eine wiederverwendbare Wasserflasche bereit.",
+          "Prüfen Sie die Öffnungszeiten der Kirche, da diese variieren können.",
+          "Einige Cafés am Kanal bieten eine schöne Aussicht."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "Tartson magánál egy újratölthető vizes palackot.",
+          "Ellenőrizze a templom nyitvatartási idejét, mert az változhat.",
+          "Néhány kávézó a csatorna mentén szép kilátást nyújt."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Păstrați la îndemână o sticlă de apă reutilizabilă.",
+          "Verificați programul de deschidere al bisericii, deoarece acesta poate varia.",
+          "Unele cafenele de pe malul canalului oferă priveliști frumoase."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Keep a reusable water bottle handy.",
+          "Check the opening times of the church as they can vary.",
+          "Some cafes along the canal offer nice views."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "De Kruitfabriek",
+            "hu": "De Kruitfabriek",
+            "ro": "De Kruitfabriek",
+            "en": "De Kruitfabriek"
+          },
+          "coords": [
+            4.4172,
+            50.9321
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier mit einem Kaffee, um Energie für die Radtour zu tanken.",
+            "hu": "Kezdje itt egy kávéval, hogy energiát gyűjtsön a kerékpártúrához.",
+            "ro": "Începeți aici cu o cafea pentru a vă energiza pentru turul cu bicicleta.",
+            "en": "Start here with a coffee to get energized for the bike tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Het Brabants Trekpaard",
+            "hu": "A brabanti igásló szobra",
+            "ro": "Calul de tracțiune brabantin",
+            "en": "The Brabant Draught Horse"
+          },
+          "coords": [
+            4.4275,
+            50.9285
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:20",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um das berühmte Pferd zu bewundern, bevor Sie ins Zentrum radeln.",
+            "hu": "Egy gyors megálló, hogy megcsodálja a híres lovat, mielőtt a központba teker.",
+            "ro": "O oprire scurtă pentru a admira faimosul cal înainte de a pedala spre centru.",
+            "en": "A quick stop to admire the famous horse before cycling into the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Onze-Lieve-Vrouwekerk",
+            "hu": "Miasszonyunk-templom",
+            "ro": "Biserica Maicii Domnului",
+            "en": "Church of Our Lady"
+          },
+          "coords": [
+            4.4288,
+            50.9291
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab und genießen Sie die Stille der Kirche.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és élvezze a templom csendjét.",
+            "ro": "Legați-vă bicicleta în siguranță și bucurați-vă de liniștea bisericii.",
+            "en": "Lock your bike securely and enjoy the tranquility of the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Hanssenspark",
+            "hu": "Hanssenspark",
+            "ro": "Parcul Hanssens",
+            "en": "Hanssenspark"
+          },
+          "coords": [
+            4.4311,
+            50.9275
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Radtour durch den Park und genießen Sie das Grün.",
+            "hu": "Tegyen egy rövid biciklitúrát a parkon keresztül, és élvezze a zöld környezetet.",
+            "ro": "Faceți un tur scurt cu bicicleta prin parc și bucurați-vă de verdeață.",
+            "en": "Take a short bike ride through the park and enjoy the greenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Kasteel van Drie Fonteinen",
+            "hu": "Drie Fonteinen kastély",
+            "ro": "Castelul Drie Fonteinen",
+            "en": "Castle of Drie Fonteinen"
+          },
+          "coords": [
+            4.405,
+            50.913
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Schlossanlage und die umliegenden Gärten.",
+            "hu": "Fedezze fel a kastély területét és a környező kerteket.",
+            "ro": "Explorați domeniul castelului și grădinile înconjurătoare.",
+            "en": "Explore the castle grounds and the surrounding gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Provinciedomein Drie Fonteinen",
+            "hu": "Drie Fonteinen tartományi birtok",
+            "ro": "Domeniul Provincial Drie Fonteinen",
+            "en": "Provincial Domain Drie Fonteinen"
+          },
+          "coords": [
+            4.408,
+            50.9155
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:20",
+          "stay_min": 130,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Verbringen Sie den Nachmittag damit, durch diesen riesigen Park zu radeln. Es gibt viel zu entdecken.",
+            "hu": "Töltse a délutánt ebben a hatalmas parkban biciklizve. Sok a felfedeznivaló.",
+            "ro": "Petreceți după-amiaza pedalând prin acest parc vast. Sunt multe de descoperit.",
+            "en": "Spend the afternoon cycling through this vast park. There's a lot to discover."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour bei De Kruitfabriek mit einem morgendlichen Kaffee. Radeln Sie ins Zentrum, um das Denkmal des Brabanter Kaltbluts und die Liebfrauenkirche zu besichtigen. Machen Sie eine kurze Pause im Hanssenspark, bevor Sie die längere Fahrt zum beeindruckenden Schloss Drie Fonteinen antreten. Der Rest des Nachmittags ist der Erkundung des weitläufigen Provinciedomein Drie Fonteinen gewidmet, einem Paradies für Radfahrer. Genießen Sie die Natur und die schönen Wege, die sich durch den Park schlängeln.",
+        "hu": "Kezdje a biciklitúrát a De Kruitfabrieknél egy reggeli kávéval. Tekerjen be a központba, hogy megnézze a brabanti igásló emlékművét és a Miasszonyunk-templomot. Tartson egy rövid szünetet a Hanssensparkban, mielőtt nekivág a hosszabb útnak a lenyűgöző Drie Fonteinen kastélyhoz. A délután hátralévő részét a tágas Provinciedomein Drie Fonteinen felfedezésének szentelheti, amely a kerékpárosok paradicsoma. Élvezze a természetet és a parkon át kanyargó gyönyörű utakat.",
+        "ro": "Începeți turul cu bicicleta la De Kruitfabriek cu o cafea de dimineață. Pedalați spre centru pentru a vedea monumentul calului brabantin și Biserica Maicii Domnului. Luați o scurtă pauză în Parcul Hanssens înainte de a porni pe traseul mai lung către impresionantul Castel Drie Fonteinen. Restul după-amiezii este dedicat explorării vastului Domeniu Provincial Drie Fonteinen, un paradis pentru bicicliști. Bucurați-vă de natură și de cărările frumoase care șerpuiesc prin parc.",
+        "en": "Start your bike tour at De Kruitfabriek with a morning coffee. Cycle to the center to see the Brabant Draught Horse monument and the Church of Our Lady. Take a short break in Hanssenspark before heading on the longer ride to the impressive Drie Fonteinen Castle. The rest of the afternoon is dedicated to exploring the vast Provincial Domain Drie Fonteinen, a cyclist's paradise. Enjoy the nature and beautiful paths winding through the park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Waterzooi",
+            "tip": "Ein cremiger flämischer Eintopf, traditionell mit Huhn oder Fisch zubereitet. Perfekt nach einer Radtour."
+          },
+          {
+            "name": "Vilvoordse paardenworsten",
+            "tip": "Eine lokale Spezialität, Pferdewürste, die oft in Restaurants in der Umgebung serviert werden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Waterzooi",
+            "tip": "Krémes flamand egytálétel, hagyományosan csirkével vagy hallal készítve. Tökéletes egy biciklitúra után."
+          },
+          {
+            "name": "Vilvoorde-i lókolbász",
+            "tip": "Helyi specialitás, a lókolbász, amelyet gyakran szolgálnak fel a környékbeli éttermekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Waterzooi",
+            "tip": "O tocană cremoasă flamandă, preparată tradițional cu pui sau pește. Perfectă după o plimbare cu bicicleta."
+          },
+          {
+            "name": "Cârnați de cal din Vilvoorde",
+            "tip": "O specialitate locală, cârnați de cal, adesea serviți în restaurantele din zonă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Waterzooi",
+            "tip": "A creamy Flemish stew, traditionally made with chicken or fish. Perfect after a bike ride."
+          },
+          {
+            "name": "Vilvoorde horse sausages",
+            "tip": "A local specialty, horse sausages, often served in area restaurants."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Provinciedomein Drie Fonteinen",
+            "tip": "Finden Sie einen abgelegenen Pfad und genießen Sie die Stille des Waldes.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Französischer Garten im Domein",
+            "tip": "Ein wunderschön gepflegter, ruhiger Garten, ideal für eine Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Provinciedomein Drie Fonteinen",
+            "tip": "Keressen egy eldugott ösvényt, és élvezze az erdő csendjét.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Franciakert a birtokon",
+            "tip": "Egy gyönyörűen gondozott, csendes kert, ideális egy szünetre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Domeniul Provincial Drie Fonteinen",
+            "tip": "Găsiți o potecă retrasă și bucurați-vă de liniștea pădurii.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Grădina franceză de pe domeniu",
+            "tip": "O grădină superbă, îngrijită și liniștită, ideală pentru o pauză.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Provincial Domain Drie Fonteinen",
+            "tip": "Find a secluded path and enjoy the silence of the woods.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "French Garden in the Domain",
+            "tip": "A beautifully maintained, quiet garden ideal for a break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Kaufen Sie frisches Brot oder Gebäck als Stärkung für Ihre Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékségek",
+            "tip": "Vásároljon friss kenyeret vagy péksüteményt a biciklitúrához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutării locale",
+            "tip": "Cumpărați pâine proaspătă sau produse de patiserie pentru a vă energiza în timpul plimbării cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bakeries",
+            "tip": "Buy some fresh bread or pastries for fuel on your bike ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad an den Haltestellen sicher abzustellen.",
+          "Die Wege im Provinciedomein sind gut ausgeschildert.",
+          "Planen Sie genügend Zeit für die Erkundung des großen Parks ein."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját.",
+          "Vigyen magával lakatot, hogy biztonságosan lezárhassa a kerékpárt a megállóknál.",
+          "A Provinciedomein ösvényei jól ki vannak táblázva.",
+          "Tervezzen elegendő időt a nagy park felfedezésére."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca.",
+          "Luați un lacăt pentru a vă asigura bicicleta la opriri.",
+          "Cărările din Domeniul Provincial sunt bine semnalizate.",
+          "Planificați suficient timp pentru a explora parcul mare."
+        ],
+        "en": [
+          "Check your bike before you leave.",
+          "Bring a lock to secure your bike at stops.",
+          "The paths in the Provincial Domain are well-marked.",
+          "Plan enough time to explore the large park."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Provinciedomein Drie Fonteinen",
+            "hu": "Parkoló a Provinciedomein Drie Fonteinen-nél",
+            "ro": "Parcare la Domeniul Provincial Drie Fonteinen",
+            "en": "Parking at Provincial Domain Drie Fonteinen"
+          },
+          "coords": [
+            4.4045,
+            50.9125
+          ],
+          "category": "transport",
+          "arrive_at": "09:25",
+          "stay_min": 0,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier, um den ersten Teil des Tages zu Fuß zu erkunden.",
+            "hu": "Parkoljon itt, hogy a nap első részét gyalog fedezze fel.",
+            "ro": "Parcați aici pentru a explora prima parte a zilei pe jos.",
+            "en": "Park here to explore the first part of the day on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kasteel van Drie Fonteinen",
+            "hu": "Drie Fonteinen kastély",
+            "ro": "Castelul Drie Fonteinen",
+            "en": "Castle of Drie Fonteinen"
+          },
+          "coords": [
+            4.405,
+            50.913
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz zum beeindruckenden Schloss.",
+            "hu": "Egy rövid séta a parkolótól a lenyűgöző kastélyig.",
+            "ro": "O scurtă plimbare de la parcare la impresionantul castel.",
+            "en": "A short walk from the parking lot to the impressive castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Provinciedomein Drie Fonteinen",
+            "hu": "Drie Fonteinen tartományi birtok",
+            "ro": "Domeniul Provincial Drie Fonteinen",
+            "en": "Provincial Domain Drie Fonteinen"
+          },
+          "coords": [
+            4.408,
+            50.9155
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die Gärten und Wege zu Fuß, nachdem Sie das Schloss besichtigt haben.",
+            "hu": "Fedezze fel a kerteket és ösvényeket gyalog a kastély megtekintése után.",
+            "ro": "Explorați grădinile și potecile pe jos după ce ați vizitat castelul.",
+            "en": "Explore the gardens and paths on foot after visiting the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz im Stadtzentrum",
+            "hu": "Parkoló a városközpontban",
+            "ro": "Parcare în centrul orașului",
+            "en": "City Center Parking"
+          },
+          "coords": [
+            4.426,
+            50.927
+          ],
+          "category": "transport",
+          "arrive_at": "12:45",
+          "stay_min": 0,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Stellen Sie das Auto hier für den Rest des Tages ab und erkunden Sie das Zentrum zu Fuß.",
+            "hu": "Hagyja itt az autót a nap hátralévő részére, és fedezze fel a központot gyalog.",
+            "ro": "Lăsați mașina aici pentru restul zilei și explorați centrul pe jos.",
+            "en": "Leave the car here for the rest of the day and explore the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Onze-Lieve-Vrouwekerk",
+            "hu": "Miasszonyunk-templom",
+            "ro": "Biserica Maicii Domnului",
+            "en": "Church of Our Lady"
+          },
+          "coords": [
+            4.4288,
+            50.9291
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ihr erster Halt im Zentrum, ein architektonisches Juwel.",
+            "hu": "Az első megálló a központban, egy építészeti gyöngyszem.",
+            "ro": "Prima oprire în centru, o bijuterie arhitecturală.",
+            "en": "Your first stop in the center, an architectural gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Het Brabants Trekpaard",
+            "hu": "A brabanti igásló szobra",
+            "ro": "Calul de tracțiune brabantin",
+            "en": "The Brabant Draught Horse"
+          },
+          "coords": [
+            4.4275,
+            50.9285
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:20",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen Steinwurf von der Kirche entfernt.",
+            "hu": "Csak egy kőhajításnyira a templomtól.",
+            "ro": "La o aruncătură de băț de biserică.",
+            "en": "Just a stone's throw from the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Hanssenspark",
+            "hu": "Hanssenspark",
+            "ro": "Parcul Hanssens",
+            "en": "Hanssenspark"
+          },
+          "coords": [
+            4.4311,
+            50.9275
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:50",
+          "stay_min": 130,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Nachmittag entspannt ausklingen zu lassen.",
+            "hu": "Tökéletes hely a délutáni pihenésre.",
+            "ro": "Locul perfect pentru a încheia după-amiaza într-un mod relaxat.",
+            "en": "The perfect place to spend a relaxing end to the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens direkt zum Provinciedomein Drie Fonteinen. Parken Sie Ihr Auto und erkunden Sie das Schloss und die weitläufigen Gärten zu Fuß. Dieser Bereich bildet Ihren ersten \"Wander-Cluster\". Am Mittag fahren Sie ins Zentrum von Vilvoorde, parken erneut und beginnen Ihren zweiten Cluster. Nach dem Mittagessen besuchen Sie die Onze-Lieve-Vrouwekerk und das nahegelegene Denkmal des Brabanter Kaltbluts. Den Rest des Nachmittags verbringen Sie im Hanssenspark, bevor Sie zu Ihrem Auto zurückkehren.",
+        "hu": "Reggel vezessen közvetlenül a Provinciedomein Drie Fonteinen-hez. Parkolja le az autóját, és fedezze fel gyalog a kastélyt és a tágas kerteket. Ez a terület alkotja az első „séta-klasztert”. Délben vezessen Vilvoorde központjába, parkoljon le újra, és kezdje meg a második klasztert. Ebéd után látogassa meg az Onze-Lieve-Vrouwekerk-et és a közeli brabanti igásló emlékművét. A délután hátralévő részét a Hanssensparkban töltse, mielőtt visszatérne az autójához.",
+        "ro": "Dimineața, conduceți direct la Domeniul Provincial Drie Fonteinen. Parcați mașina și explorați castelul și grădinile întinse pe jos. Această zonă formează primul dvs. „cluster de plimbare”. La prânz, conduceți în centrul orașului Vilvoorde, parcați din nou și începeți al doilea cluster. După prânz, vizitați Biserica Maicii Domnului și monumentul Calului de tracțiune brabantin din apropiere. Petreceți restul după-amiezii în Parcul Hanssens înainte de a vă întoarce la mașină.",
+        "en": "In the morning, drive directly to the Provincial Domain Drie Fonteinen. Park your car and explore the castle and the vast gardens on foot. This area forms your first 'walking cluster'. At midday, drive into the center of Vilvoorde, park again, and begin your second cluster. After lunch, visit the Church of Our Lady and the nearby Brabant Draught Horse monument. Spend the rest of the afternoon relaxing in Hanssenspark before returning to your car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Steak-Frites",
+            "tip": "Ein belgischer Klassiker, der in vielen Brasserien im Stadtzentrum zu finden ist."
+          },
+          {
+            "name": "Garnaalkroketten",
+            "tip": "Handgemachte Garnelenkroketten sind eine Delikatesse, die man probieren sollte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Steak sült krumplival",
+            "tip": "Belga klasszikus, amelyet a városközpont számos brasserie-jében megtalálhat."
+          },
+          {
+            "name": "Garnélarák-krokett",
+            "tip": "A kézzel készített garnélarák-krokett egy ínyencség, amit érdemes megkóstolni."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Steak cu cartofi prăjiți",
+            "tip": "Un clasic belgian găsit în multe braserii din centrul orașului."
+          },
+          {
+            "name": "Crochete de creveți",
+            "tip": "Crochetele de creveți făcute manual sunt o delicatesă ce trebuie încercată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Steak-Frites",
+            "tip": "A Belgian classic found in many brasseries in the city center."
+          },
+          {
+            "name": "Shrimp croquettes",
+            "tip": "Handmade shrimp croquettes are a delicacy worth trying."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Englischer Garten im Domein Drie Fonteinen",
+            "tip": "Ein ruhiger, landschaftlich gestalteter Bereich, der sich perfekt für einen besinnlichen Spaziergang eignet.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Eine Bank am Kanal",
+            "tip": "Finden Sie einen ruhigen Platz, um die vorbeifahrenden Boote zu beobachten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Angolkert a Drie Fonteinen birtokon",
+            "tip": "Egy csendes, tájképi terület, tökéletes egy elgondolkodtató sétához.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Egy pad a csatorna mellett",
+            "tip": "Keressen egy csendes helyet a csatornán elhaladó hajók nézésére.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina engleză de pe Domeniul Drie Fonteinen",
+            "tip": "O zonă liniștită, amenajată, perfectă pentru o plimbare contemplativă.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "O bancă pe malul canalului",
+            "tip": "Găsiți un loc liniștit pentru a privi bărcile care trec.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "English Garden at Drie Fonteinen Domain",
+            "tip": "A quiet, landscaped area perfect for a contemplative walk.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "A bench by the canal",
+            "tip": "Find a quiet spot to watch the boats go by.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Schokoladengeschäfte",
+            "tip": "Kaufen Sie authentische belgische Schokolade als süßes Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csokoládéboltok",
+            "tip": "Vásároljon eredeti belga csokoládét édes szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de ciocolată",
+            "tip": "Cumpărați ciocolată belgiană autentică ca suvenir dulce."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chocolate Shops",
+            "tip": "Buy some authentic Belgian chocolate as a sweet souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die großen Parkplätze am Rande der Cluster.",
+          "Beachten Sie die Parkgebühren im Stadtzentrum.",
+          "Planen Sie Zeit für den Verkehr zwischen den beiden Hauptstandorten ein.",
+          "Die Cluster-Strategie spart Zeit bei der Parkplatzsuche."
+        ],
+        "hu": [
+          "Használja a klaszterek szélén található nagy parkolókat.",
+          "Vegye figyelembe a parkolási díjakat a városközpontban.",
+          "Tervezzen időt a két fő helyszín közötti forgalomra.",
+          "A klaszter-stratégia időt takarít meg a parkolóhely-keresésnél."
+        ],
+        "ro": [
+          "Utilizați parcările mari de la marginea clusterelor.",
+          "Fiți atenți la taxele de parcare din centrul orașului.",
+          "Planificați timp pentru trafic între cele două locații principale.",
+          "Strategia clusterelor economisește timp la căutarea unui loc de parcare."
+        ],
+        "en": [
+          "Use the large parking lots on the edge of the clusters.",
+          "Be aware of parking fees in the city center.",
+          "Plan for traffic time between the two main locations.",
+          "The cluster strategy saves time searching for parking."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 8.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Busbahnhof Vilvoorde",
+            "hu": "Vilvoorde központi buszpályaudvar",
+            "ro": "Autogara centrală Vilvoorde",
+            "en": "Vilvoorde Central Bus Station"
+          },
+          "coords": [
+            4.4258,
+            50.9278
+          ],
+          "category": "transport",
+          "arrive_at": "09:20",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier, im Herzen des öffentlichen Verkehrsnetzes der Stadt.",
+            "hu": "Kezdje a napot itt, a város tömegközlekedési hálózatának szívében.",
+            "ro": "Începeți ziua aici, în inima rețelei de transport public a orașului.",
+            "en": "Start your day here, at the heart of the city's public transport network."
+          }
+        },
+        {
+          "name": {
+            "de": "Het Brabants Trekpaard",
+            "hu": "A brabanti igásló szobra",
+            "ro": "Calul de tracțiune brabantin",
+            "en": "The Brabant Draught Horse"
+          },
+          "coords": [
+            4.4275,
+            50.9285
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:25",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Bushaltestelle, um Ihren ersten Sightseeing-Stopp zu erreichen.",
+            "hu": "Egy rövid séta a buszmegállótól az első látnivaló eléréséhez.",
+            "ro": "O scurtă plimbare de la stația de autobuz pentru a ajunge la prima oprire turistică.",
+            "en": "A short walk from the bus stop to reach your first sightseeing stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Onze-Lieve-Vrouwekerk",
+            "hu": "Miasszonyunk-templom",
+            "ro": "Biserica Maicii Domnului",
+            "en": "Church of Our Lady"
+          },
+          "coords": [
+            4.4288,
+            50.9291
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die Kirche, bevor Sie zu Mittag essen.",
+            "hu": "Fedezze fel a templomot ebéd előtt.",
+            "ro": "Explorați biserica înainte de a lua prânzul.",
+            "en": "Explore the church before heading for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Hanssenspark",
+            "hu": "Hanssenspark",
+            "ro": "Parcul Hanssens",
+            "en": "Hanssenspark"
+          },
+          "coords": [
+            4.4311,
+            50.9275
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannender Spaziergang nach dem Kirchenbesuch.",
+            "hu": "Egy pihentető séta a templomlátogatás után.",
+            "ro": "O plimbare relaxantă după vizita la biserică.",
+            "en": "A relaxing walk after the church visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle Domein Drie Fonteinen",
+            "hu": "Domein Drie Fonteinen buszmegálló",
+            "ro": "Stația de autobuz Domeniul Drie Fonteinen",
+            "en": "Drie Fonteinen Domain Bus Stop"
+          },
+          "coords": [
+            4.4095,
+            50.9165
+          ],
+          "category": "transport",
+          "arrive_at": "12:15",
+          "stay_min": 0,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zu Ihrem zweiten Cluster des Tages.",
+            "hu": "Vegye igénybe a buszt a nap második klaszteréhez.",
+            "ro": "Luați autobuzul către al doilea cluster al zilei.",
+            "en": "Take the bus to your second cluster of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Provinciedomein Drie Fonteinen",
+            "hu": "Drie Fonteinen tartományi birtok",
+            "ro": "Domeniul Provincial Drie Fonteinen",
+            "en": "Provincial Domain Drie Fonteinen"
+          },
+          "coords": [
+            4.408,
+            50.9155
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:20",
+          "stay_min": 180,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verbringen Sie hier einen langen Nachmittag, erkunden Sie die Gärten und das Schloss (Kasteel van Drie Fonteinen).",
+            "hu": "Töltsön itt egy hosszú délutánt, felfedezve a kerteket és a kastélyt (Kasteel van Drie Fonteinen).",
+            "ro": "Petreceți o după-amiază lungă aici, explorând grădinile și castelul (Kasteel van Drie Fonteinen).",
+            "en": "Spend a long afternoon here, exploring the gardens and the castle (Kasteel van Drie Fonteinen)."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Tour beginnt am zentralen Busbahnhof, von wo aus Sie bequem die Sehenswürdigkeiten im Stadtzentrum erreichen. Dieser erste Cluster umfasst das Brabanter Kaltblut-Denkmal, die Liebfrauenkirche und den Hanssenspark, die alle leicht zu Fuß erreichbar sind. Nach der Erkundung des Zentrums nehmen Sie einen Bus zum Provinciedomein Drie Fonteinen. In diesem zweiten, weitläufigen Cluster können Sie den Rest des Tages verbringen, die Natur genießen, das Schloss besichtigen und durch die Gärten schlendern, bevor Sie den Bus zurück ins Zentrum nehmen.",
+        "hu": "A túra a központi buszpályaudvarról indul, ahonnan könnyedén elérheti a városközpont látnivalóit. Ez az első klaszter magában foglalja a brabanti igásló emlékművét, a Miasszonyunk-templomot és a Hanssensparkot, melyek mind könnyen megközelíthetők gyalog. A központ felfedezése után szálljon buszra a Provinciedomein Drie Fonteinen felé. Ebben a második, tágas klaszterben töltheti a nap hátralévő részét, élvezve a természetet, meglátogatva a kastélyt és sétálva a kertekben, mielőtt visszabuszozna a központba.",
+        "ro": "Turul dumneavoastră începe la autogara centrală, de unde puteți ajunge cu ușurință la atracțiile din centrul orașului. Acest prim cluster include monumentul Calului de tracțiune brabantin, Biserica Maicii Domnului și Parcul Hanssens, toate accesibile pe jos. După explorarea centrului, luați un autobuz către Domeniul Provincial Drie Fonteinen. Puteți petrece restul zilei în acest al doilea cluster extins, bucurându-vă de natură, vizitând castelul și plimbându-vă prin grădini înainte de a lua autobuzul înapoi spre centru.",
+        "en": "Your tour starts at the central bus station, where you can easily reach the city center attractions. This first cluster includes the Brabant Draught Horse monument, the Church of Our Lady, and Hanssenspark, all within easy walking distance. After exploring the center, you'll take a bus to the Provincial Domain Drie Fonteinen. You can spend the rest of the day in this second, expansive cluster, enjoying nature, visiting the castle, and strolling through the gardens before taking the bus back to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Belgische Waffeln",
+            "tip": "Probieren Sie eine Brüsseler Waffel mit Ihren Lieblingstoppings in einem Café im Zentrum."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Vilvoorde liegt in der Nähe der Senne-Region, die für ihre Lambic- und Geuze-Biere bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belga gofri",
+            "tip": "Kóstoljon meg egy brüsszeli gofrit a kedvenc feltéteivel egy belvárosi kávézóban."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Vilvoorde a Senne-régió közelében fekszik, amely a Lambic és Geuze söreiről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gofre belgiene",
+            "tip": "Încercați o gofră de Bruxelles cu toppingurile preferate la o cafenea din centru."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "Vilvoorde se află aproape de regiunea Senne, renumită pentru berile sale Lambic și Geuze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Belgian Waffles",
+            "tip": "Try a Brussels waffle with your favorite toppings at a cafe in the center."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Vilvoorde is close to the Senne region, famous for its Lambic and Geuze beers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine ruhige Ecke im Provinciedomein",
+            "tip": "Der Park ist groß genug, um einen friedlichen Ort abseits der Menschenmassen zu finden.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Inneres der Onze-Lieve-Vrouwekerk",
+            "tip": "Eine Oase der Ruhe und Besinnung.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy csendes sarok a Provinciedomein-ben",
+            "tip": "A park elég nagy ahhoz, hogy békés helyet találjon a tömegtől távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Az Onze-Lieve-Vrouwekerk belseje",
+            "tip": "A nyugalom és az elmélkedés oázisa.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Un colț liniștit în Domeniul Provincial",
+            "tip": "Parcul este suficient de mare pentru a găsi un loc pașnic departe de mulțime.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Interiorul Bisericii Maicii Domnului",
+            "tip": "O oază de calm și contemplare.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "A quiet corner in the Provincial Domain",
+            "tip": "The park is large enough to find a peaceful spot away from any crowds.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Inside the Church of Our Lady",
+            "tip": "An oasis of calm and contemplation.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Grote Markt",
+            "tip": "Rund um den Hauptplatz finden Sie verschiedene Geschäfte für Souvenirs oder lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grote Markt (Fő tér)",
+            "tip": "A főtér körül különféle üzleteket talál szuvenírek vagy helyi termékek vásárlásához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grote Markt",
+            "tip": "În jurul pieței principale veți găsi diverse magazine pentru suveniruri sau produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grote Markt",
+            "tip": "Around the main square, you will find various shops for souvenirs or local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere für die Rückfahrt vom Park.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind vom Busbahnhof aus leicht zu Fuß erreichbar.",
+          "Beachten Sie, dass Busse am Wochenende möglicherweise seltener fahren."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy pénzt takarítson meg.",
+          "Ellenőrizze előre a buszmenetrendet, különösen a parkból való visszautazáshoz.",
+          "A központ legtöbb látnivalója könnyen megközelíthető gyalog a buszpályaudvarról.",
+          "Vegye figyelembe, hogy a buszok hétvégén ritkábban közlekedhetnek."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru a economisi bani.",
+          "Verificați programul autobuzelor în avans, în special pentru călătoria de întoarcere din parc.",
+          "Majoritatea atracțiilor din centru sunt la distanță de mers pe jos de autogară.",
+          "Rețineți că autobuzele pot circula mai rar în weekend."
+        ],
+        "en": [
+          "Buy a day pass for the bus to save money.",
+          "Check the bus schedule in advance, especially for the return trip from the park.",
+          "Most central attractions are within easy walking distance from the bus station.",
+          "Be aware that buses may run less frequently on weekends."
+        ]
+      }
+    }
+  }
+}

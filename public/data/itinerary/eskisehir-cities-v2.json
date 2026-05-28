@@ -1,0 +1,1227 @@
+{
+  "city_id": "eskisehir-cities-v2",
+  "anchor": {
+    "name": "Eskişehir",
+    "coords": [
+      30.5256,
+      39.7767
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Odunpazarı Historische Häuser",
+            "hu": "Odunpazarı történelmi házai",
+            "ro": "Casele istorice din Odunpazarı",
+            "en": "Odunpazarı Historical Houses"
+          },
+          "coords": [
+            30.5298,
+            39.7645
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den engen Gassen und bewundern Sie die farbenfrohen osmanischen Häuser.",
+            "hu": "Tévedjen el a szűk utcácskákban, és csodálja meg a színes oszmán kori házakat.",
+            "ro": "Pierdeți-vă pe străduțele înguste și admirați casele otomane viu colorate.",
+            "en": "Get lost in the narrow streets and admire the colorful Ottoman-era houses."
+          }
+        },
+        {
+          "name": {
+            "de": "Kurşunlu-Komplex",
+            "hu": "Kurşunlu Komplexum",
+            "ro": "Complexul Kurșunlu",
+            "en": "Kurşunlu Complex"
+          },
+          "coords": [
+            30.5311,
+            39.7658
+          ],
+          "category": "historical",
+          "arrive_at": "10:38",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Meerschaummuseum im Inneren des Komplexes.",
+            "hu": "Látogasson el a komplexumon belüli Tajtékpipa Múzeumba.",
+            "ro": "Vizitați Muzeul de Spumă de Mare din interiorul complexului.",
+            "en": "Visit the Meerschaum Museum located inside the complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Atlıhan-Basar",
+            "hu": "Atlıhan Bazár",
+            "ro": "Bazarul Atlıhan",
+            "en": "Atlıhan Bazaar"
+          },
+          "coords": [
+            30.5295,
+            39.7662
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:42",
+          "stay_min": 50,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ideal, um authentische Meerschaum-Souvenirs zu kaufen.",
+            "hu": "Ideális hely autentikus tajtékpipa ajándéktárgyak vásárlására.",
+            "ro": "Ideal pentru a cumpăra suveniruri autentice din spumă de mare.",
+            "en": "Ideal for buying authentic meerschaum souvenirs."
+          }
+        },
+        {
+          "name": {
+            "de": "Yılmaz Büyükerşen Wachsmuseum",
+            "hu": "Yılmaz Büyükerşen Viaszmúzeum",
+            "ro": "Muzeul de Ceară Yılmaz Büyükerşen",
+            "en": "Yılmaz Büyükerşen Wax Museum"
+          },
+          "coords": [
+            30.5288,
+            39.7651
+          ],
+          "category": "museums",
+          "arrive_at": "12:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Machen Sie Fotos mit türkischen und internationalen Berühmtheiten.",
+            "hu": "Készítsen fotókat török és nemzetközi hírességekkel.",
+            "ro": "Faceți fotografii cu celebrități turcești și internaționale.",
+            "en": "Take photos with Turkish and international celebrities."
+          }
+        },
+        {
+          "name": {
+            "de": "Porsuk-Fluss (Adalar-Region)",
+            "hu": "Porsuk-folyó (Adalar régió)",
+            "ro": "Râul Porsuk (Regiunea Adalar)",
+            "en": "Porsuk River (Adalar Region)"
+          },
+          "coords": [
+            30.5208,
+            39.7745
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Machen Sie eine Gondelfahrt für ein 'Venedig'-Erlebnis in Anatolien.",
+            "hu": "Tegyen egy gondolás utat egy anatóliai „Velence” élményért.",
+            "ro": "Faceți o plimbare cu gondola pentru o experiență 'venețiană' în Anatolia.",
+            "en": "Take a gondola ride for a 'Venice' experience in Anatolia."
+          }
+        },
+        {
+          "name": {
+            "de": "Tülomsaş-Revolutionsauto-Museum",
+            "hu": "Tülomsaş Devrim Autó Múzeum",
+            "ro": "Muzeul mașinii revoluționare Tülomsaș",
+            "en": "Tülomsaş Revolution Car Museum"
+          },
+          "coords": [
+            30.5115,
+            39.7786
+          ],
+          "category": "museums",
+          "arrive_at": "16:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Sehen Sie sich das erste in der Türkei entworfene und gebaute Auto an, den Devrim.",
+            "hu": "Tekintse meg a Devrimet, az első Törökországban tervezett és épített autót.",
+            "ro": "Vedeți prima mașină proiectată și construită în Turcia, Devrim.",
+            "en": "See the first car designed and built in Turkey, the Devrim."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Herzen von Eskişehir, dem Odunpazarı-Viertel. Die Gassen sind voller Charakter und beherbergen Museen und Basare. Am Nachmittag erleben Sie die jugendliche Atmosphäre der Stadt bei einer entspannten Gondelfahrt auf dem Porsuk-Fluss. Beenden Sie Ihren Tag mit der Erkundung der industriellen Vergangenheit der Türkei im Tülomsaş-Museum, bevor Sie die lokale Küche genießen.",
+        "hu": "Kezdje a napot Eskişehir történelmi szívében, az Odunpazarı negyedben. Az utcák tele vannak karakterrel, múzeumokkal és bazárokkal. Délután tapasztalja meg a város fiatalos hangulatát egy pihentető gondolázással a Porsuk-folyón. Zárja a napot Törökország ipari múltjának felfedezésével a Tülomsaş Múzeumban, mielőtt megkóstolná a helyi konyhát.",
+        "ro": "Începeți ziua în inima istorică a Eskişehirului, cartierul Odunpazarı. Străduțele sunt pline de caracter, găzduind muzee și bazaruri. După-amiaza, experimentați atmosfera tinerească a orașului cu o plimbare relaxantă cu gondola pe râul Porsuk. Încheiați ziua explorând trecutul industrial al Turciei la Muzeul Tülomsaș înainte de a savura bucătăria locală.",
+        "en": "Start your day in the historical heart of Eskişehir, the Odunpazarı district. The streets are full of character, hosting museums and bazaars. In the afternoon, experience the city's youthful vibe with a relaxing gondola ride on the Porsuk River. End your day exploring Turkey's industrial past at the Tülomsaş Museum before enjoying the local cuisine."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Çiğbörek",
+            "tip": "Eine frittierte Teigtasche mit Hackfleisch, ein Muss in Eskişehir. Probieren Sie es im 'Papağan Çiğ Börek Salonu'."
+          },
+          {
+            "name": "Balaban Kebab",
+            "tip": "Ein lokaler Kebab, serviert auf Pide-Brot mit Joghurt und Tomatensauce."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Çiğbörek",
+            "tip": "Egy sült tészta darált hússal, kihagyhatatlan Eskişehirben. Kóstolja meg a 'Papağan Çiğ Börek Salonu'-ban."
+          },
+          {
+            "name": "Balaban Kebab",
+            "tip": "Helyi kebab, pitén tálalva joghurttal és paradicsomszósszal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Çiğbörek",
+            "tip": "O plăcintă prăjită umplută cu carne tocată, o specialitate de neratat în Eskişehir. Încercați-o la 'Papağan Çiğ Börek Salonu'."
+          },
+          {
+            "name": "Balaban Kebab",
+            "tip": "Un kebab local servit pe pâine pide cu iaurt și sos de roșii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Çiğbörek",
+            "tip": "A fried pastry filled with minced meat, a must-try in Eskişehir. Try it at 'Papağan Çiğ Börek Salonu'."
+          },
+          {
+            "name": "Balaban Kebab",
+            "tip": "A local kebab served on pide bread with yogurt and tomato sauce."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Porsuk-Fluss bei Sonnenuntergang",
+            "tip": "Die Lichter der Stadt spiegeln sich wunderschön im Wasser.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Garten des Kurşunlu-Komplexes",
+            "tip": "Ein friedlicher Ort, um dem Stadttrubel zu entkommen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Porsuk-folyó mentén naplementekor",
+            "tip": "A város fényei gyönyörűen tükröződnek a vízen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Kurşunlu Komplexum kertje",
+            "tip": "Békés hely a város nyüzsgésétől távol.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului Porsuk la apus",
+            "tip": "Luminile orașului se reflectă frumos în apă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina Complexului Kurșunlu",
+            "tip": "Un loc pașnic pentru a evada din agitația orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along Porsuk River at sunset",
+            "tip": "The city lights reflect beautifully on the water.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kurşunlu Complex Garden",
+            "tip": "A peaceful spot to escape the city bustle.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Atlıhan El Sanatları Çarşısı",
+            "tip": "Der beste Ort für Meerschaumprodukte (Lületaşı), von Pfeifen bis Schmuck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Atlıhan El Sanatları Çarşısı",
+            "tip": "A legjobb hely tajtékpipa termékek (lületaşı) beszerzésére, a pipáktól az ékszerekig."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Atlıhan El Sanatları Çarşısı",
+            "tip": "Cel mai bun loc pentru produse din spumă de mare (Lületaşı), de la pipe la bijuterii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Atlıhan El Sanatları Çarşısı",
+            "tip": "The best place for meerschaum (Lületaşı) products, from pipes to jewelry."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in Odunpazarı uneben sein kann.",
+          "Die Gondelfahrten sind am Wochenende sehr beliebt; planen Sie also Wartezeit ein oder fahren Sie an einem Wochentag.",
+          "Die meisten Museen sind montags geschlossen.",
+          "Halten Sie Ausschau nach kleinen Cafés in Odunpazarı für eine traditionelle türkische Kaffeepause."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az Odunpazarı macskakövei egyenetlenek lehetnek.",
+          "A gondolázás hétvégén nagyon népszerű, számítson várakozási időre, vagy menjen hétköznap.",
+          "A legtöbb múzeum hétfőn zárva tart.",
+          "Keressen kis kávézókat Odunpazariban egy hagyományos török kávészünethez."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din Odunpazarı poate fi denivelat.",
+          "Plimbările cu gondola sunt foarte populare în weekend; așteptați-vă la coadă sau mergeți într-o zi de lucru.",
+          "Majoritatea muzeelor sunt închise lunea.",
+          "Căutați cafenele mici în Odunpazarı pentru o pauză tradițională de cafea turcească."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in Odunpazarı can be uneven.",
+          "Gondola rides are very popular on weekends; expect a queue or go on a weekday.",
+          "Most museums are closed on Mondays.",
+          "Look for small cafes in Odunpazarı for a traditional Turkish coffee break."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 14.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Odunpazarı Historische Häuser",
+            "hu": "Odunpazarı történelmi házai",
+            "ro": "Casele istorice din Odunpazarı",
+            "en": "Odunpazarı Historical Houses"
+          },
+          "coords": [
+            30.5298,
+            39.7645
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Eingang des Viertels ab und erkunden Sie die engen Gassen zu Fuß.",
+            "hu": "Zárja le a biciklit a negyed bejáratánál, és fedezze fel a szűk utcákat gyalog.",
+            "ro": "Lăsați bicicleta la intrarea în cartier și explorați străduțele înguste pe jos.",
+            "en": "Lock your bike at the entrance of the district and explore the narrow streets on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kurşunlu-Komplex",
+            "hu": "Kurşunlu Komplexum",
+            "ro": "Complexul Kurșunlu",
+            "en": "Kurşunlu Complex"
+          },
+          "coords": [
+            30.5311,
+            39.7658
+          ],
+          "category": "historical",
+          "arrive_at": "10:13",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von den Odunpazarı-Häusern entfernt, ein friedlicher Ort.",
+            "hu": "Rövid sétára az Odunpazarı házaktól, egy békés hely.",
+            "ro": "La o scurtă plimbare de casele Odunpazarı, un loc pașnic.",
+            "en": "A short walk from the Odunpazarı houses, a peaceful spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Porsuk-Fluss (Adalar-Region)",
+            "hu": "Porsuk-folyó (Adalar régió)",
+            "ro": "Râul Porsuk (Regiunea Adalar)",
+            "en": "Porsuk River (Adalar Region)"
+          },
+          "coords": [
+            30.5208,
+            39.7745
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Der Radweg entlang des Flusses ist perfekt für eine entspannte Fahrt.",
+            "hu": "A folyó menti kerékpárút tökéletes egy laza tekeréshez.",
+            "ro": "Pista de biciclete de-a lungul râului este perfectă pentru o plimbare relaxantă.",
+            "en": "The bike path along the river is perfect for a relaxed ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Kent-Park",
+            "hu": "Kent Park",
+            "ro": "Parcul Kent",
+            "en": "Kent Park"
+          },
+          "coords": [
+            30.4855,
+            39.7801
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:08",
+          "stay_min": 120,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Hier gibt es einen künstlichen Strand! Perfekt für eine Pause an einem heißen Tag.",
+            "hu": "Van itt egy mesterséges strand! Tökéletes egy szünetre a forró napon.",
+            "ro": "Există o plajă artificială aici! Perfectă pentru o pauză într-o zi fierbinte.",
+            "en": "There's an artificial beach here! Perfect for a break on a hot day."
+          }
+        },
+        {
+          "name": {
+            "de": "Sazova-Park (Wissenschafts-, Kunst- und Kulturpark)",
+            "hu": "Sazova Park (Tudományos, Művészeti és Kulturális Park)",
+            "ro": "Parcul Sazova (Parcul Științei, Artei și Culturii)",
+            "en": "Sazova Park (Science, Art and Culture Park)"
+          },
+          "coords": [
+            30.4879,
+            39.7963
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:26",
+          "stay_min": 150,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Dieser Park ist riesig. Planen Sie genügend Zeit ein, um das Märchenschloss und das Piratenschiff zu sehen.",
+            "hu": "Ez a park hatalmas. Tervezzen elég időt a Mesekastély és a Kalózhajó megtekintésére.",
+            "ro": "Acest parc este uriaș. Planificați-vă suficient timp pentru a vedea Castelul de Povești și Nava Piraților.",
+            "en": "This park is huge. Plan enough time to see the Fairytale Castle and the Pirate Ship."
+          }
+        },
+        {
+          "name": {
+            "de": "Atlıhan-Basar",
+            "hu": "Atlıhan Bazár",
+            "ro": "Bazarul Atlıhan",
+            "en": "Atlıhan Bazaar"
+          },
+          "coords": [
+            30.5295,
+            39.7662
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "17:19",
+          "stay_min": 30,
+          "hop_from_prev_min": 33,
+          "hop_from_prev_km": 6.2,
+          "tip_5lang": {
+            "de": "Kaufen Sie Last-Minute-Souvenirs, bevor Sie den Tag beenden.",
+            "hu": "Vásároljon utolsó pillanatos ajándéktárgyakat a nap lezárása előtt.",
+            "ro": "Cumpărați suveniruri de ultim moment înainte de a încheia ziua.",
+            "en": "Buy some last-minute souvenirs before ending the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine Radtour durch Eskişehir verbindet Geschichte mit Natur. Beginnen Sie im charmanten Odunpazarı und fahren Sie dann zum Porsuk-Fluss für eine malerische Fahrt. Verbringen Sie den Mittag damit, die Weite des Kent-Parks und seines einzigartigen Strandes zu genießen. Der Nachmittag ist dem fantastischen Sazova-Park gewidmet, einem Ort der Wunder. Beenden Sie Ihre Tour mit einem Einkaufsbummel auf dem Atlıhan-Basar.",
+        "hu": "Egy biciklitúra Eskişehirben összeköti a történelmet a természettel. Kezdjen a bájos Odunpazariban, majd tekerjen a Porsuk-folyóhoz egy festői útért. Töltse a délt a Kent Park tágasságának és egyedi strandjának élvezetével. A délután a fantasztikus Sazova Parké, a csodák helyéé. Zárja a túrát egy kis vásárlással az Atlıhan Bazárban.",
+        "ro": "Un tur cu bicicleta prin Eskişehir combină istoria cu natura. Începeți în fermecătorul Odunpazarı, apoi mergeți spre râul Porsuk pentru o plimbare pitorească. Petreceți amiaza bucurându-vă de vastitatea Parcului Kent și de plaja sa unică. După-amiaza este dedicată fantasticului Parc Sazova, un loc al minunilor. Încheiați turul cu o sesiune de cumpărături la Bazarul Atlıhan.",
+        "en": "A bike tour in Eskişehir combines history with nature. Start in the charming Odunpazarı, then head to the Porsuk River for a scenic ride. Spend midday enjoying the vastness of Kent Park and its unique beach. The afternoon is dedicated to the fantastical Sazova Park, a place of wonders. Finish your tour with some shopping at the Atlıhan Bazaar."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Met Helvası",
+            "tip": "Eine lokale Süßigkeit aus Mehl, Zucker und Öl. Suchen Sie danach in den Geschäften in der Innenstadt."
+          },
+          {
+            "name": "Gözleme",
+            "tip": "Dünnes, gefülltes Fladenbrot, perfekt für einen schnellen Bissen. Viele Cafés am Porsuk-Fluss servieren es."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Met Helvası",
+            "tip": "Helyi édesség lisztből, cukorból és olajból. Keresse a belvárosi boltokban."
+          },
+          {
+            "name": "Gözleme",
+            "tip": "Vékony, töltött lepénykenyér, tökéletes egy gyors harapnivalóhoz. Sok kávézó kínálja a Porsuk folyó mentén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Met Helvası",
+            "tip": "O dulceață locală făcută din făină, zahăr și ulei. Căutați-o în magazinele din centrul orașului."
+          },
+          {
+            "name": "Gözleme",
+            "tip": "O pâine plată subțire și umplută, perfectă pentru o gustare rapidă. Multe cafenele de pe malul râului Porsuk o servesc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Met Helvası",
+            "tip": "A local sweet made from flour, sugar, and oil. Look for it in downtown shops."
+          },
+          {
+            "name": "Gözleme",
+            "tip": "Thin stuffed flatbread, perfect for a quick bite. Many cafes along the Porsuk River serve it."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Japanischer Garten im Sazova-Park",
+            "tip": "Ein unglaublich ruhiger und gut gepflegter Bereich im Park.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kent-Park See",
+            "tip": "Setzen Sie sich ans Wasser und beobachten Sie die Schwäne.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Japánkert a Sazova Parkban",
+            "tip": "Hihetetlenül csendes és jól karbantartott rész a parkban.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kent Park tava",
+            "tip": "Üljön le a vízpartra és nézze a hattyúkat.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Japoneză din Parcul Sazova",
+            "tip": "O zonă incredibil de liniștită și bine întreținută în parc.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Lacul din Parcul Kent",
+            "tip": "Stați lângă apă și priviți lebedele.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Japanese Garden in Sazova Park",
+            "tip": "An incredibly quiet and well-maintained area within the park.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kent Park Lake",
+            "tip": "Sit by the water and watch the swans.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Espark AVM",
+            "tip": "Wenn Sie moderne Einkaufszentren bevorzugen, ist dies der richtige Ort. Es liegt in der Nähe des Stadtzentrums."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Espark AVM",
+            "tip": "Ha a modern bevásárlóközpontokat részesíti előnyben, ez a megfelelő hely. Közel van a városközponthoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Espark AVM",
+            "tip": "Dacă preferați centrele comerciale moderne, acesta este locul potrivit. Este aproape de centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Espark AVM",
+            "tip": "If you prefer modern shopping malls, this is the place to go. It's close to the city center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Eskişehir ist relativ flach, was das Radfahren erleichtert.",
+          "Achten Sie auf die Straßenbahnschienen, besonders bei Nässe.",
+          "Es gibt Fahrradverleihstationen in der Stadt (Esbike).",
+          "Die Parks sind groß, ein Fahrrad ist ideal, um mehr Fläche in kürzerer Zeit zu erkunden."
+        ],
+        "hu": [
+          "Eskişehir viszonylag sík, ami megkönnyíti a kerékpározást.",
+          "Vigyázzon a villamossínekre, különösen nedves időben.",
+          "A városban vannak kerékpárkölcsönző állomások (Esbike).",
+          "A parkok nagyok, a bicikli ideális a nagyobb területek rövidebb idő alatti bejárásához."
+        ],
+        "ro": [
+          "Eskişehir este relativ plat, ceea ce face ciclismul ușor.",
+          "Fiți atenți la șinele de tramvai, mai ales când sunt ude.",
+          "Există stații de închiriere de biciclete în oraș (Esbike).",
+          "Parcurile sunt mari, o bicicletă este ideală pentru a acoperi mai mult teren în mai puțin timp."
+        ],
+        "en": [
+          "Eskişehir is relatively flat, which makes cycling easy.",
+          "Be careful of the tram tracks, especially when wet.",
+          "There are bike rental stations in the city (Esbike).",
+          "The parks are large, a bike is ideal for covering more ground in less time."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:02",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Sazova-Park",
+            "hu": "Sazova Park",
+            "ro": "Parcul Sazova",
+            "en": "Sazova Park"
+          },
+          "coords": [
+            30.4879,
+            39.7963
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 150,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier und verbringen Sie den Morgen damit, die vielen Attraktionen zu erkunden. Der Park ist riesig.",
+            "hu": "Parkoljon le itt, és töltse a délelőttöt a számos látnivaló felfedezésével. A park hatalmas.",
+            "ro": "Parcați aici și petreceți dimineața explorând numeroasele atracții. Parcul este imens.",
+            "en": "Park here and spend the morning exploring the many attractions. The park is huge."
+          }
+        },
+        {
+          "name": {
+            "de": "Kent-Park",
+            "hu": "Kent Park",
+            "ro": "Parcul Kent",
+            "en": "Kent Park"
+          },
+          "coords": [
+            30.4855,
+            39.7801
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum nächsten großen Park für eine andere Atmosphäre, einschließlich des künstlichen Strandes.",
+            "hu": "Vezessen át a következő nagy parkba egy másfajta hangulatért, beleértve a mesterséges strandot.",
+            "ro": "Conduceți până la următorul parc mare pentru o atmosferă diferită, inclusiv plaja artificială.",
+            "en": "Drive to the next big park for a different atmosphere, including the artificial beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Odunpazarı-Viertel (Startpunkt)",
+            "hu": "Odunpazarı negyed (Kezdőpont)",
+            "ro": "Cartierul Odunpazarı (Punct de plecare)",
+            "en": "Odunpazarı District (Starting Point)"
+          },
+          "coords": [
+            30.5298,
+            39.7645
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Finden Sie einen Parkplatz für den Nachmittag. Hier beginnt Ihr Rundgang durch die Altstadt.",
+            "hu": "Keressen egy parkolóhelyet a délutánra. Innen indul a séta az óvárosban.",
+            "ro": "Găsiți un loc de parcare pentru după-amiază. Turul dumneavoastră pietonal prin orașul vechi începe aici.",
+            "en": "Find a parking spot for the afternoon. Your walking tour of the old town starts here."
+          }
+        },
+        {
+          "name": {
+            "de": "Kurşunlu-Komplex",
+            "hu": "Kurşunlu Komplexum",
+            "ro": "Complexul Kurșunlu",
+            "en": "Kurşunlu Complex"
+          },
+          "coords": [
+            30.5311,
+            39.7658
+          ],
+          "category": "historical",
+          "arrive_at": "14:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz Odunpazarı. Der Innenhof ist eine Oase der Ruhe.",
+            "hu": "Rövid séta az Odunpazarı főterétől. Az udvara a nyugalom oázisa.",
+            "ro": "La o scurtă plimbare de piața principală din Odunpazarı. Curtea este o oază de liniște.",
+            "en": "A short walk from the main Odunpazarı square. The courtyard is an oasis of calm."
+          }
+        },
+        {
+          "name": {
+            "de": "Yılmaz Büyükerşen Wachsmuseum",
+            "hu": "Yılmaz Büyükerşen Viaszmúzeum",
+            "ro": "Muzeul de Ceară Yılmaz Büyükerşen",
+            "en": "Yılmaz Büyükerşen Wax Museum"
+          },
+          "coords": [
+            30.5288,
+            39.7651
+          ],
+          "category": "museums",
+          "arrive_at": "15:01",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Direkt neben dem Hauptplatz, ein unterhaltsamer Stopp für alle Altersgruppen.",
+            "hu": "Közvetlenül a főtér mellett, szórakoztató megálló minden korosztály számára.",
+            "ro": "Chiar lângă piața principală, o oprire distractivă pentru toate vârstele.",
+            "en": "Right next to the main square, a fun stop for all ages."
+          }
+        },
+        {
+          "name": {
+            "de": "Atlıhan-Basar",
+            "hu": "Atlıhan Bazár",
+            "ro": "Bazarul Atlıhan",
+            "en": "Atlıhan Bazaar"
+          },
+          "coords": [
+            30.5295,
+            39.7662
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Rundgang mit einem Souvenireinkauf in diesem historischen Basar.",
+            "hu": "Fejezze be a sétát ajándékvásárlással ebben a történelmi bazárban.",
+            "ro": "Încheiați-vă turul pietonal cu cumpărături de suveniruri la acest bazar istoric.",
+            "en": "Finish your walking tour with some souvenir shopping at this historic bazaar."
+          }
+        },
+        {
+          "name": {
+            "de": "Adalar (Porsuk-Fluss)",
+            "hu": "Adalar (Porsuk-folyó)",
+            "ro": "Adalar (Râul Porsuk)",
+            "en": "Adalar (Porsuk River)"
+          },
+          "coords": [
+            30.5208,
+            39.7745
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:15",
+          "stay_min": 47,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Gehen Sie zurück zu Ihrem Auto und fahren Sie zum Flussufer, um den Abend ausklingen zu lassen.",
+            "hu": "Sétáljon vissza az autójához, és vezessen a folyóparthoz az esti levezetéshez.",
+            "ro": "Mergeți înapoi la mașină și conduceți spre malul râului pentru a vă relaxa seara.",
+            "en": "Walk back to your car and drive to the riverfront for an evening wind down."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie die weitläufigen Parks von Eskişehir erkunden. Beginnen Sie im riesigen Sazova-Park und fahren Sie dann zum Kent-Park. Am Nachmittag parken Sie im Odunpazarı-Viertel und tauchen in die osmanische Geschichte ein, während Sie zu Fuß den Kurşunlu-Komplex, Museen und Basare erkunden. Beenden Sie den Tag mit einer kurzen Fahrt zum Porsuk-Fluss, um die lebhafte Abendatmosphäre der Stadt aufzusaugen.",
+        "hu": "Az autóval felfedezheti Eskişehir kiterjedt parkjait. Kezdjen a hatalmas Sazova Parkban, majd vezessen át a Kent Parkba. Délután parkoljon le az Odunpazarı negyedben, és merüljön el az oszmán történelemben, miközben gyalog fedezi fel a Kurşunlu Komplexumot, a múzeumokat és a bazárokat. Zárja a napot egy rövid autózással a Porsuk-folyóhoz, hogy magába szívja a város élénk esti hangulatát.",
+        "ro": "Cu mașina, puteți explora parcurile întinse din Eskişehir. Începeți la vastul Parc Sazova, apoi conduceți la Parcul Kent. După-amiaza, parcați în cartierul Odunpazarı și scufundați-vă în istoria otomană, explorând pe jos Complexul Kurșunlu, muzeele și bazarurile. Încheiați ziua cu o scurtă călătorie cu mașina până la râul Porsuk pentru a absorbi atmosfera vibrantă de seară a orașului.",
+        "en": "With a car, you can explore Eskişehir's expansive parks. Start at the vast Sazova Park, then drive to Kent Park. In the afternoon, park in the Odunpazarı district and immerse yourself in Ottoman history, exploring the Kurşunlu Complex, museums, and bazaars on foot. End the day with a short drive to the Porsuk River to soak up the city's vibrant evening atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Abdüsselam Balaban Kebap",
+            "tip": "Ein historisches Restaurant, das für seinen Balaban-Kebab bekannt ist."
+          },
+          {
+            "name": "Karakedi Bozacısı",
+            "tip": "Probieren Sie Boza, ein traditionelles fermentiertes Getränk, besonders im Winter."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Abdüsselam Balaban Kebap",
+            "tip": "Történelmi étterem, amely a Balaban kebabjáról híres."
+          },
+          {
+            "name": "Karakedi Bozacısı",
+            "tip": "Kóstolja meg a bozát, egy hagyományos erjesztett italt, különösen télen."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Abdüsselam Balaban Kebap",
+            "tip": "Un restaurant istoric renumit pentru kebabul său Balaban."
+          },
+          {
+            "name": "Karakedi Bozacısı",
+            "tip": "Încercați Boza, o băutură tradițională fermentată, mai ales iarna."
+          }
+        ],
+        "en": [
+          {
+            "name": "Abdüsselam Balaban Kebap",
+            "tip": "A historic restaurant famous for its Balaban kebab."
+          },
+          {
+            "name": "Karakedi Bozacısı",
+            "tip": "Try Boza, a traditional fermented drink, especially in winter."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Şelale Park",
+            "tip": "Ein kurzer Abstecher mit dem Auto bietet einen Panoramablick auf die Stadt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Früher Morgen im Sazova-Park",
+            "tip": "Seien Sie vor den Menschenmassen da, um die Ruhe zu genießen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Şelale Park",
+            "tip": "Rövid autós kitérő, ahonnan panorámás kilátás nyílik a városra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kora reggel a Sazova Parkban",
+            "tip": "Érkezzen a tömeg előtt, hogy élvezhesse a nyugalmat.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Șelale",
+            "tip": "Un scurt ocol cu mașina oferă o vedere panoramică asupra orașului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Dimineața devreme în Parcul Sazova",
+            "tip": "Ajungeți înaintea mulțimii pentru a vă bucura de liniște.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Şelale Park",
+            "tip": "A short car detour offers a panoramic view of the city.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Early morning at Sazova Park",
+            "tip": "Be there before the crowds to enjoy the tranquility.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in Odunpazarı",
+            "tip": "Neben dem Basar gibt es viele kleine Läden, die Glas- und Holzarbeiten verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok Odunpazariban",
+            "tip": "A bazár mellett sok kis bolt árul üveg- és fatermékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele din Odunpazarı",
+            "tip": "Pe lângă bazar, multe magazine mici vând obiecte din sticlă și lemn."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops in Odunpazarı",
+            "tip": "Besides the bazaar, many small shops sell glass and wood crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken kann in Odunpazarı eine Herausforderung sein; suchen Sie nach ausgewiesenen Parkplätzen.",
+          "Sazova und Kent Park haben große Parkplätze.",
+          "Der Verkehr kann während der Stoßzeiten zunehmen, planen Sie Ihre Fahrten zwischen den Clustern entsprechend.",
+          "Das Auto gibt Ihnen die Flexibilität, auch Attraktionen etwas außerhalb des Stadtzentrums zu besuchen."
+        ],
+        "hu": [
+          "A parkolás kihívást jelenthet Odunpazariban; keressen kijelölt parkolókat.",
+          "A Sazova és a Kent Park nagy parkolókkal rendelkezik.",
+          "A forgalom csúcsidőben megnőhet, tervezze meg az utazásokat a klaszterek között.",
+          "Az autó rugalmasságot ad, hogy a városközponttól kissé távolabb eső látnivalókat is meglátogassa."
+        ],
+        "ro": [
+          "Parcarea poate fi o provocare în Odunpazarı; căutați parcări desemnate.",
+          "Parcurile Sazova și Kent au parcări mari.",
+          "Traficul poate fi aglomerat în orele de vârf, planificați-vă călătoriile între clustere în consecință.",
+          "Mașina vă oferă flexibilitatea de a vizita atracții puțin în afara centrului orașului."
+        ],
+        "en": [
+          "Parking can be challenging in Odunpazarı; look for designated car parks.",
+          "Sazova and Kent Parks have large parking lots.",
+          "Traffic can get busy during rush hours, plan your drives between clusters accordingly.",
+          "The car gives you the flexibility to visit attractions slightly outside the city center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:41",
+      "total_km": 10.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Odunpazarı (Straßenbahnhaltestelle Atatürk Lisesi)",
+            "hu": "Odunpazarı (Atatürk Lisesi villamosmegálló)",
+            "ro": "Odunpazarı (Stația de tramvai Atatürk Lisesi)",
+            "en": "Odunpazarı (Atatürk Lisesi Tram Stop)"
+          },
+          "coords": [
+            30.5284,
+            39.7681
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag, indem Sie die Straßenbahn zu diesem zentralen Punkt nehmen.",
+            "hu": "Kezdje a napot azzal, hogy villamossal utazik ehhez a központi ponthoz.",
+            "ro": "Începeți ziua luând tramvaiul până la acest punct central.",
+            "en": "Start your day by taking the tram to this central point."
+          }
+        },
+        {
+          "name": {
+            "de": "Odunpazarı Historische Häuser",
+            "hu": "Odunpazarı történelmi házai",
+            "ro": "Casele istorice din Odunpazarı",
+            "en": "Odunpazarı Historical Houses"
+          },
+          "coords": [
+            30.5298,
+            39.7645
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Von der Haltestelle aus ist es ein kurzer Spaziergang bergauf in das historische Viertel.",
+            "hu": "A megállótól rövid séta vezet felfelé a történelmi negyedbe.",
+            "ro": "O scurtă plimbare la deal de la stație vă duce în cartierul istoric.",
+            "en": "A short uphill walk from the stop takes you into the historic district."
+          }
+        },
+        {
+          "name": {
+            "de": "Kurşunlu-Komplex",
+            "hu": "Kurşunlu Komplexum",
+            "ro": "Complexul Kurșunlu",
+            "en": "Kurşunlu Complex"
+          },
+          "coords": [
+            30.5311,
+            39.7658
+          ],
+          "category": "historical",
+          "arrive_at": "10:49",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Moschee, die Karawanserei und die Kunsthandwerksläden in diesem Cluster.",
+            "hu": "Fedezze fel a mecsetet, a karavánszerájt és a kézműves boltokat ebben a klaszterben.",
+            "ro": "Explorați moscheea, caravanseraiul și magazinele de artizanat din acest cluster.",
+            "en": "Explore the mosque, caravanserai, and artisan shops in this cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Porsuk-Fluss (Straßenbahnhaltestelle Çarşı)",
+            "hu": "Porsuk-folyó (Çarşı villamosmegálló)",
+            "ro": "Râul Porsuk (Stația de tramvai Çarşı)",
+            "en": "Porsuk River (Çarşı Tram Stop)"
+          },
+          "coords": [
+            30.5218,
+            39.7725
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Nehmen Sie die Straßenbahn zurück ins Zentrum und genießen Sie die Atmosphäre am Fluss. Ein großartiger Ort für das Mittagessen.",
+            "hu": "Menjen vissza villamossal a központba, és élvezze a folyóparti hangulatot. Nagyszerű hely ebédre.",
+            "ro": "Luați tramvaiul înapoi în centru și bucurați-vă de atmosfera de pe malul râului. Un loc minunat pentru prânz.",
+            "en": "Take the tram back to the center and enjoy the riverside vibe. A great spot for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Sazova-Park",
+            "hu": "Sazova Park",
+            "ro": "Parcul Sazova",
+            "en": "Sazova Park"
+          },
+          "coords": [
+            30.4879,
+            39.7963
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:33",
+          "stay_min": 150,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus (z.B. Linie 11) vom Zentrum zu diesem riesigen Themenpark.",
+            "hu": "Menjen busszal (pl. 11-es) a központból ehhez a hatalmas témaparkhoz.",
+            "ro": "Luați un autobuz (de ex. linia 11) din centru spre acest parc tematic uriaș.",
+            "en": "Take a bus (e.g. line 11) from the center to this huge theme park."
+          }
+        },
+        {
+          "name": {
+            "de": "Tülomsaş-Museum",
+            "hu": "Tülomsaş Múzeum",
+            "ro": "Muzeul Tülomsaș",
+            "en": "Tülomsaş Museum"
+          },
+          "coords": [
+            30.5115,
+            39.7786
+          ],
+          "category": "museums",
+          "arrive_at": "17:11",
+          "stay_min": 30,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Auf dem Rückweg ins Zentrum können Sie einen kurzen Zwischenstopp an diesem Museum in der Nähe des Bahnhofs einlegen.",
+            "hu": "Visszafelé a központba tehet egy rövid kitérőt ebben a vasútállomás közeli múzeumban.",
+            "ro": "În drum spre centru, faceți o oprire rapidă la acest muzeu de lângă gară.",
+            "en": "On your way back to the center, make a quick stop at this museum near the train station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eskişehirs modernes Verkehrssystem macht die Erkundung einfach. Beginnen Sie im historischen Odunpazarı, einem zu Fuß erreichbaren Cluster von Sehenswürdigkeiten. Am Mittag fahren Sie mit der Straßenbahn zum Porsuk-Fluss für eine lebhafte Pause. Am Nachmittag bringt Sie ein Bus zum weitläufigen Sazova-Park, wo Sie in eine Welt der Fantasie eintauchen. Schließen Sie den Tag mit einem Blick auf das industrielle Erbe der Türkei im Tülomsaş-Museum ab.",
+        "hu": "Eskişehir modern közlekedési rendszere megkönnyíti a felfedezést. Kezdjen a történelmi Odunpazariban, a látnivalók egy gyalogosan bejárható klaszterében. Délben villamossal utazzon a Porsuk-folyóhoz egy élénk szünetért. Délután egy busz elviszi a kiterjedt Sazova Parkba, hogy elmerüljön a fantázia világában. Zárja a napot egy bepillantással Törökország ipari örökségébe a Tülomsaş Múzeumban.",
+        "ro": "Sistemul modern de transport public din Eskişehir face explorarea ușoară. Începeți în istoricul Odunpazarı, un cluster de atracții pietonale. La prânz, luați tramvaiul spre râul Porsuk pentru o pauză vibrantă. După-amiaza, un autobuz vă va duce la vastul Parc Sazova pentru o imersiune în lumea fanteziei. Încheiați ziua cu o privire asupra moștenirii industriale a Turciei la Muzeul Tülomsaș.",
+        "en": "Eskişehir's modern transit system makes exploring easy. Start in historic Odunpazarı, a walkable cluster of sights. At midday, take the tram to the Porsuk River for a vibrant break. In the afternoon, a bus will take you to the expansive Sazova Park for an immersion in a world of fantasy. End your day with a peek into Turkey's industrial heritage at the Tülomsaş Museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Çiğbörek",
+            "tip": "Eine frittierte Teigtasche mit Hackfleisch, ein Muss in Eskişehir. Probieren Sie es im 'Papağan Çiğ Börek Salonu'."
+          },
+          {
+            "name": "Balaban Kebab",
+            "tip": "Ein lokaler Kebab, serviert auf Pide-Brot mit Joghurt und Tomatensauce."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Çiğbörek",
+            "tip": "Egy sült tészta darált hússal, kihagyhatatlan Eskişehirben. Kóstolja meg a 'Papağan Çiğ Börek Salonu'-ban."
+          },
+          {
+            "name": "Balaban Kebab",
+            "tip": "Helyi kebab, pitén tálalva joghurttal és paradicsomszósszal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Çiğbörek",
+            "tip": "O plăcintă prăjită umplută cu carne tocată, o specialitate de neratat în Eskişehir. Încercați-o la 'Papağan Çiğ Börek Salonu'."
+          },
+          {
+            "name": "Balaban Kebab",
+            "tip": "Un kebab local servit pe pâine pide cu iaurt și sos de roșii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Çiğbörek",
+            "tip": "A fried pastry filled with minced meat, a must-try in Eskişehir. Try it at 'Papağan Çiğ Börek Salonu'."
+          },
+          {
+            "name": "Balaban Kebab",
+            "tip": "A local kebab served on pide bread with yogurt and tomato sauce."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Porsuk-Fluss bei Sonnenuntergang",
+            "tip": "Die Lichter der Stadt spiegeln sich wunderschön im Wasser.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Garten des Kurşunlu-Komplexes",
+            "tip": "Ein friedlicher Ort, um dem Stadttrubel zu entkommen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Porsuk-folyó mentén naplementekor",
+            "tip": "A város fényei gyönyörűen tükröződnek a vízen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Kurşunlu Komplexum kertje",
+            "tip": "Békés hely a város nyüzsgésétől távol.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului Porsuk la apus",
+            "tip": "Luminile orașului se reflectă frumos în apă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina Complexului Kurșunlu",
+            "tip": "Un loc pașnic pentru a evada din agitația orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along Porsuk River at sunset",
+            "tip": "The city lights reflect beautifully on the water.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kurşunlu Complex Garden",
+            "tip": "A peaceful spot to escape the city bustle.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Atlıhan El Sanatları Çarşısı",
+            "tip": "Der beste Ort für Meerschaumprodukte (Lületaşı), von Pfeifen bis Schmuck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Atlıhan El Sanatları Çarşısı",
+            "tip": "A legjobb hely tajtékpipa termékek (lületaşı) beszerzésére, a pipáktól az ékszerekig."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Atlıhan El Sanatları Çarşısı",
+            "tip": "Cel mai bun loc pentru produse din spumă de mare (Lületaşı), de la pipe la bijuterii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Atlıhan El Sanatları Çarşısı",
+            "tip": "The best place for meerschaum (Lületaşı) products, from pipes to jewelry."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine 'Eskart' für eine einfache Nutzung der öffentlichen Verkehrsmittel.",
+          "Die Straßenbahnen können zu Stoßzeiten voll sein.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, besonders für die Rückfahrt vom Sazova-Park.",
+          "Die meisten Hauptattraktionen sind gut an das Straßenbahnnetz angebunden."
+        ],
+        "hu": [
+          "Vásároljon egy 'Eskart'-ot a tömegközlekedés egyszerű használatához.",
+          "A villamosok csúcsidőben zsúfoltak lehetnek.",
+          "Ellenőrizze előre a buszmenetrendet, különösen a Sazova Parkból való visszautazáshoz.",
+          "A legtöbb fő látnivaló jól kapcsolódik a villamoshálózathoz."
+        ],
+        "ro": [
+          "Cumpărați un 'Eskart' pentru a utiliza ușor transportul public.",
+          "Tramvaiele pot fi aglomerate la orele de vârf.",
+          "Verificați din timp orarele autobuzelor, în special pentru călătoria de întoarcere de la Parcul Sazova.",
+          "Majoritatea atracțiilor principale sunt bine conectate la rețeaua de tramvai."
+        ],
+        "en": [
+          "Buy an 'Eskart' for easy use of public transport.",
+          "Trams can be crowded during peak hours.",
+          "Check bus schedules in advance, especially for the return trip from Sazova Park.",
+          "Most main attractions are well-connected by the tram network."
+        ]
+      }
+    }
+  }
+}

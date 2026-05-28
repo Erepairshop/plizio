@@ -1,0 +1,1423 @@
+{
+  "city_id": "estonia-saue-cities-v2",
+  "anchor": {
+    "name": "Saue",
+    "coords": [
+      24.5575,
+      59.3244
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Saue",
+            "hu": "Saue-i Városháza",
+            "ro": "Primăria din Saue",
+            "en": "Saue Town Hall"
+          },
+          "coords": [
+            24.558,
+            59.324
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur, ein Kontrast zum historischen Herrenhaus.",
+            "hu": "Csodálja meg a modern építészetet, amely kontrasztot alkot a történelmi kúriával.",
+            "ro": "Admirați arhitectura modernă, un contrast cu conacul istoric.",
+            "en": "Admire the modern architecture, a contrast to the historic manor."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentralpark Saue",
+            "hu": "Saue-i Központi Park",
+            "ro": "Parcul Central din Saue",
+            "en": "Saue Central Park"
+          },
+          "coords": [
+            24.56,
+            59.3255
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für eine kurze Pause und um die lokale Atmosphäre zu genießen.",
+            "hu": "Ideális hely egy rövid pihenőre és a helyi hangulat élvezetére.",
+            "ro": "Un loc ideal pentru o scurtă pauză și pentru a vă bucura de atmosfera locală.",
+            "en": "An ideal spot for a short break and to enjoy the local atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Herrenhaus Saue",
+            "hu": "Saue-i Kúria",
+            "ro": "Conacul Saue",
+            "en": "Saue Manor"
+          },
+          "coords": [
+            24.5668,
+            59.3225
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil, um die opulenten Innenräume zu sehen.",
+            "hu": "Vegyen részt egy vezetett túrán, hogy megtekinthesse a pazar belső tereket.",
+            "ro": "Participați la un tur ghidat pentru a vedea interioarele opulente.",
+            "en": "Join a guided tour to see the opulent interiors."
+          }
+        },
+        {
+          "name": {
+            "de": "Eichenhain Saue",
+            "hu": "Saue-i Tölgyes",
+            "ro": "Dumbrava de stejari din Saue",
+            "en": "Saue Oak Grove"
+          },
+          "coords": [
+            24.568,
+            59.321
+          ],
+          "category": "natural features",
+          "arrive_at": "12:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Perfekt für einen friedlichen Spaziergang nach dem Besuch des Herrenhauses.",
+            "hu": "Tökéletes egy békés sétához a kúria meglátogatása után.",
+            "ro": "Perfect pentru o plimbare liniștită după vizitarea conacului.",
+            "en": "Perfect for a peaceful walk after visiting the manor."
+          }
+        },
+        {
+          "name": {
+            "de": "Fluss Pääsküla",
+            "hu": "Pääsküla-folyó",
+            "ro": "Râul Pääsküla",
+            "en": "Pääsküla River"
+          },
+          "coords": [
+            24.575,
+            59.33
+          ],
+          "category": "natural features",
+          "arrive_at": "13:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein schöner Ort zum Entspannen am Nachmittag. Suchen Sie nach kleinen Holzbrücken.",
+            "hu": "Egy szép hely a délutáni kikapcsolódáshoz. Keressen kis hidakat.",
+            "ro": "Un loc frumos pentru relaxare după-amiaza. Căutați mici poduri de lemn.",
+            "en": "A lovely spot for afternoon relaxation. Look for small wooden bridges."
+          }
+        },
+        {
+          "name": {
+            "de": "Sarapiku Gesundheitspfad",
+            "hu": "Sarapiku Egészségösvény",
+            "ro": "Poteca de sănătate Sarapiku",
+            "en": "Sarapiku Health Track"
+          },
+          "coords": [
+            24.58,
+            59.335
+          ],
+          "category": "natural features",
+          "arrive_at": "15:23",
+          "stay_min": 50,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Auch wenn Sie nicht joggen, ist der Pfad ideal für einen erfrischenden Waldspaziergang.",
+            "hu": "Még ha nem is kocog, az ösvény ideális egy frissítő erdei sétához.",
+            "ro": "Chiar dacă nu faceți jogging, poteca este ideală pentru o plimbare revigorantă prin pădure.",
+            "en": "Even if you're not jogging, the path is ideal for a refreshing forest walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Saue beginnt im Herzen der Stadt, wo moderne und historische Architektur aufeinandertreffen. Am Vormittag erkunden Sie das prächtige Herrenhaus Saue und seinen ruhigen Eichenhain, ein Zeugnis der reichen baltisch-deutschen Geschichte. Der Nachmittag führt Sie in die Natur. Sie folgen dem Lauf des Flusses Pääsküla, bevor Sie auf dem Sarapiku Gesundheitspfad frische Luft schnappen. Der Abend klingt entspannt aus, erfüllt von den Eindrücken einer Stadt, die Natur und Kultur harmonisch verbindet.",
+        "hu": "A nap Saue szívében indul, ahol a modern és a történelmi építészet találkozik. A délelőtt folyamán felfedezi a csodálatos Saue-i Kúriát és a békés Tölgyest, a gazdag balti-német történelem tanúit. A délután a természetbe csábít: a Pääsküla-folyó mentén sétál, majd friss levegőt szív a Sarapiku Egészségösvényen. Az este pihentetően zárul, tele egy olyan város benyomásaival, amely harmonikusan ötvözi a természetet és a kultúrát.",
+        "ro": "Ziua dvs. în Saue începe în inima orașului, unde arhitectura modernă și cea istorică se întâlnesc. În timpul dimineții, explorați magnificul Conac Saue și dumbrava sa liniștită de stejari, o mărturie a bogatei istorii balto-germane. După-amiaza vă duce în natură. Urmați cursul râului Pääsküla înainte de a lua o gură de aer proaspăt pe poteca de sănătate Sarapiku. Seara se încheie relaxat, plină de impresiile unui oraș ce îmbină armonios natura și cultura.",
+        "en": "Your day in Saue begins in the heart of the town, where modern and historic architecture meet. In the morning, you'll explore the magnificent Saue Manor and its peaceful Oak Grove, a testament to rich Baltic-German history. The afternoon leads you into nature. You'll follow the course of the Pääsküla River before getting some fresh air on the Sarapiku Health Track. The evening concludes in a relaxed manner, filled with the impressions of a town that harmoniously blends nature and culture."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mulgipuder",
+            "tip": "Ein traditioneller estnischer Brei aus Gerste und Kartoffeln, oft mit Speck serviert."
+          },
+          {
+            "name": "Schwarzbrot (Leib)",
+            "tip": "Probieren Sie das dichte und leicht süßliche estnische Roggenbrot, eine lokale Spezialität."
+          },
+          {
+            "name": "Restaurant im Herrenhaus Saue",
+            "tip": "Speisen Sie in historischem Ambiente, oft mit einem modernen Touch bei estnischen Gerichten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mulgipuder",
+            "tip": "Hagyományos észt kása árpából és burgonyából, gyakran szalonnával tálalva."
+          },
+          {
+            "name": "Fekete kenyér (Leib)",
+            "tip": "Kóstolja meg a sűrű és enyhén édeskés észt rozskenyeret, egy helyi különlegességet."
+          },
+          {
+            "name": "Étterem a Saue-i Kúriában",
+            "tip": "Étkezzen történelmi környezetben, ahol az észt ételeket gyakran modern csavarral készítik el."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mulgipuder",
+            "tip": "Un terci tradițional estonian din orz și cartofi, adesea servit cu șuncă."
+          },
+          {
+            "name": "Pâine neagră (Leib)",
+            "tip": "Încercați pâinea de secară estoniană, densă și ușor dulceagă, o specialitate locală."
+          },
+          {
+            "name": "Restaurantul Conacului Saue",
+            "tip": "Luați masa într-un cadru istoric, adesea cu o interpretare modernă a bucătăriei estoniene."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mulgipuder",
+            "tip": "A traditional Estonian porridge made from barley and potatoes, often served with bacon."
+          },
+          {
+            "name": "Black Bread (Leib)",
+            "tip": "Try the dense and slightly sweet Estonian rye bread, a local staple."
+          },
+          {
+            "name": "Saue Manor Restaurant",
+            "tip": "Dine in a historic ambiance, often with a modern twist on Estonian dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eichenhain Saue",
+            "tip": "Die alten Bäume schaffen eine Atmosphäre tiefer Ruhe.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Ufer des Pääsküla-Flusses",
+            "tip": "Finden Sie eine Bank und lauschen Sie dem Plätschern des Wassers.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sarapiku Gesundheitspfad",
+            "tip": "Tief im Wald finden Sie absolute Stille.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saue-i Tölgyes",
+            "tip": "Az idős fák mély nyugalmat árasztanak.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Pääsküla-folyó partja",
+            "tip": "Keressen egy padot és hallgassa a víz csobogását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sarapiku Egészségösvény",
+            "tip": "Mélyen az erdőben teljes csendet talál.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dumbrava de stejari din Saue",
+            "tip": "Copacii bătrâni creează o atmosferă de liniște profundă.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Malul râului Pääsküla",
+            "tip": "Găsiți o bancă și ascultați susurul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Poteca de sănătate Sarapiku",
+            "tip": "Adânc în pădure veți găsi liniște absolută.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Saue Oak Grove",
+            "tip": "The ancient trees create an atmosphere of deep tranquility.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Banks of Pääsküla River",
+            "tip": "Find a bench and listen to the gentle sound of the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sarapiku Health Track",
+            "tip": "Deep in the forest, you'll find absolute silence.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Märkten für handgemachte Waren und frische Produkte."
+          },
+          {
+            "name": "Andenken im Herrenhaus",
+            "tip": "Der Geschenkeladen des Herrenhauses bietet oft einzigartige, geschichtsinspirierte Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen helyi piacokat kézműves termékekért és friss árukért."
+          },
+          {
+            "name": "Emléktárgyak a kúriában",
+            "tip": "A kúria ajándékboltja gyakran kínál egyedi, történelem ihlette szuveníreket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați piețele locale pentru produse artizanale și produse proaspete."
+          },
+          {
+            "name": "Suveniruri la Conac",
+            "tip": "Magazinul de cadouri al conacului oferă adesea suveniruri unice, inspirate de istorie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for local markets for handmade goods and fresh produce."
+          },
+          {
+            "name": "Manor Souvenirs",
+            "tip": "The manor's gift shop often has unique, history-inspired souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel zu Fuß unterwegs sein werden.",
+          "Ein Insektenschutzmittel kann in der Nähe des Flusses und im Wald nützlich sein.",
+          "Überprüfen Sie die Öffnungszeiten des Herrenhauses Saue im Voraus, da diese variieren können.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit, um sie im Park aufzufüllen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "A folyó közelében és az erdőben hasznos lehet a rovarriasztó.",
+          "Előre ellenőrizze a Saue-i Kúria nyitvatartási idejét, mivel az változhat.",
+          "Hozzon magával újratölthető vizes palackot, amelyet a parkban feltölthet."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Un repelent pentru insecte poate fi util în apropierea râului și în pădure.",
+          "Verificați în avans programul de funcționare al Conacului Saue, deoarece acesta poate varia.",
+          "Luați o sticlă de apă reutilizabilă pentru a o umple în parc."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "An insect repellent can be useful near the river and in the forest.",
+          "Check the opening hours for Saue Manor in advance, as they can vary.",
+          "Bring a reusable water bottle to refill in the park."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Saue",
+            "hu": "Saue-i Városháza",
+            "ro": "Primăria din Saue",
+            "en": "Saue Town Hall"
+          },
+          "coords": [
+            24.558,
+            59.324
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt Ihrer Radtour, ein modernes Wahrzeichen der Stadt.",
+            "hu": "A kerékpártúra kiindulópontja, a város modern jelképe.",
+            "ro": "Punctul de plecare al turului dvs. cu bicicleta, un reper modern al orașului.",
+            "en": "The starting point of your bike tour, a modern landmark of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Herrenhaus Saue & Eichenhain",
+            "hu": "Saue-i Kúria és Tölgyes",
+            "ro": "Conacul Saue și Dumbrava de stejari",
+            "en": "Saue Manor & Oak Grove"
+          },
+          "coords": [
+            24.5668,
+            59.3225
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:28",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab und nehmen Sie sich Zeit für das Herrenhaus und den Park.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és szánjon időt a kúriára és a parkra.",
+            "ro": "Legați-vă bicicleta în siguranță și acordați-vă timp pentru conac și parc.",
+            "en": "Lock your bike securely and take your time for the manor and the grove."
+          }
+        },
+        {
+          "name": {
+            "de": "Saue Gymnasium",
+            "hu": "Saue-i Gimnázium",
+            "ro": "Gimnaziul din Saue",
+            "en": "Saue Gymnasium"
+          },
+          "coords": [
+            24.555,
+            59.328
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:08",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Ein Beispiel für die moderne Entwicklung der Stadt, sehenswert von außen.",
+            "hu": "A város modern fejlődésének egy példája, kívülről érdemes megnézni.",
+            "ro": "Un exemplu al dezvoltării moderne a orașului, merită văzut din exterior.",
+            "en": "An example of the town's modern development, worth seeing from the outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Fluss Pääsküla",
+            "hu": "Pääsküla-folyó",
+            "ro": "Râul Pääsküla",
+            "en": "Pääsküla River"
+          },
+          "coords": [
+            24.575,
+            59.33
+          ],
+          "category": "natural features",
+          "arrive_at": "11:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Folgen Sie dem Radweg entlang des Flusses für eine malerische Fahrt.",
+            "hu": "Kövesse a folyó menti kerékpárutat egy festői szakaszért.",
+            "ro": "Urmați pista de biciclete de-a lungul râului pentru o plimbare pitorească.",
+            "en": "Follow the bike path along the river for a scenic ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Sarapiku Gesundheitspfad",
+            "hu": "Sarapiku Egészségösvény",
+            "ro": "Poteca de sănătate Sarapiku",
+            "en": "Sarapiku Health Track"
+          },
+          "coords": [
+            24.58,
+            59.335
+          ],
+          "category": "natural features",
+          "arrive_at": "12:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Ideal für eine Mittagspause im Grünen. Die Wege sind auch für Fahrräder geeignet.",
+            "hu": "Ideális egy ebédszünethez a természetben. Az ösvények kerékpárral is járhatók.",
+            "ro": "Ideal pentru o pauză de prânz în natură. Căile sunt potrivite și pentru biciclete.",
+            "en": "Ideal for a lunch break amidst nature. The paths are suitable for bikes too."
+          }
+        },
+        {
+          "name": {
+            "de": "Freilichtzentrum Vanamõisa",
+            "hu": "Vanamõisa Szabadtéri Központ",
+            "ro": "Centrul în aer liber Vanamõisa",
+            "en": "Vanamõisa Open Air Centre"
+          },
+          "coords": [
+            24.588,
+            59.315
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4,
+          "tip_5lang": {
+            "de": "Prüfen Sie, ob Veranstaltungen oder Märkte stattfinden. Ein Zentrum estnischer Kultur.",
+            "hu": "Ellenőrizze, hogy vannak-e rendezvények vagy piacok. Az észt kultúra egyik központja.",
+            "ro": "Verificați dacă au loc evenimente sau târguri. Un centru al culturii estoniene.",
+            "en": "Check if there are any events or markets taking place. A hub of Estonian culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentralpark Saue",
+            "hu": "Saue-i Központi Park",
+            "ro": "Parcul Central din Saue",
+            "en": "Saue Central Park"
+          },
+          "coords": [
+            24.56,
+            59.3255
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um Ihre Radtour ausklingen zu lassen und sich zu entspannen.",
+            "hu": "Tökéletes hely a kerékpártúra befejezéséhez és a pihenéshez.",
+            "ro": "Locul perfect pentru a încheia turul cu bicicleta și a vă relaxa.",
+            "en": "The perfect place to end your bike tour and relax."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und entdecken Sie Saue! Der Morgen beginnt mit einer Kultur-Etappe vom modernen Rathaus zum historischen Herrenhaus. Mittagspause machen Sie im Grünen am Pääsküla-Fluss und auf dem Gesundheitspfad. Der Nachmittag steht im Zeichen estnischer Traditionen im Freilichtzentrum Vanamõisa, einem kulturellen Höhepunkt. Die Tour endet entspannt im Zentralpark, wo Sie die Erlebnisse des Tages Revue passieren lassen.",
+        "hu": "Pattanjon kerékpárra és fedezze fel Sauét! A reggel egy kulturális szakasszal indul a modern Városházától a történelmi Kúriáig. Az ebédszünetet a természetben, a Pääsküla-folyó mellett és az Egészségösvényen tartja. A délután az észt hagyományok jegyében telik a Vanamõisa Szabadtéri Központban, egy kulturális fénypontban. A túra a Központi Parkban ér véget, ahol felidézheti a nap élményeit.",
+        "ro": "Urcați-vă pe bicicletă și descoperiți Saue! Dimineața începe cu o etapă culturală de la primăria modernă la conacul istoric. Pauza de prânz o veți petrece în natură, lângă râul Pääsküla și pe poteca de sănătate. După-amiaza este dedicată tradițiilor estoniene la Centrul în aer liber Vanamõisa, un punct culminant cultural. Turul se încheie relaxant în Parcul Central, unde puteți rememora experiențele zilei.",
+        "en": "Get on your bike and discover Saue! The morning starts with a cultural leg from the modern Town Hall to the historic Manor. You'll take a lunch break in nature by the Pääsküla River and on the health track. The afternoon is dedicated to Estonian traditions at the Vanamõisa Open Air Centre, a cultural highlight. The tour ends with relaxation in the Central Park, where you can reflect on the day's experiences."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kama",
+            "tip": "Ein nahrhaftes estnisches Dessert aus geröstetem Getreidemehl, oft mit Kefir oder Joghurt gemischt."
+          },
+          {
+            "name": "Pirukad",
+            "tip": "Herzhafte oder süße Gebäcktaschen, perfekt als schneller Snack für unterwegs."
+          },
+          {
+            "name": "Café im Freilichtzentrum",
+            "tip": "Oft gibt es hier einfache, aber authentische estnische Gerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kama",
+            "tip": "Tápanyagokban gazdag észt desszert pörkölt gabonalisztből, gyakran kefirrel vagy joghurttal keverve."
+          },
+          {
+            "name": "Pirukad",
+            "tip": "Sós vagy édes péksütemények, tökéletes gyors harapnivaló útközben."
+          },
+          {
+            "name": "Kávézó a Szabadtéri Központban",
+            "tip": "Gyakran kínálnak itt egyszerű, de autentikus észt ételeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kama",
+            "tip": "Un desert estonian hrănitor din făină de cereale prăjită, adesea amestecat cu chefir sau iaurt."
+          },
+          {
+            "name": "Pirukad",
+            "tip": "Plăcinte sărate sau dulci, perfecte ca gustare rapidă pentru drum."
+          },
+          {
+            "name": "Cafenea la Centrul în aer liber",
+            "tip": "Adesea servesc aici mâncăruri estoniene simple, dar autentice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kama",
+            "tip": "A nutritious Estonian dessert made of roasted grain flour, often mixed with kefir or yogurt."
+          },
+          {
+            "name": "Pirukad",
+            "tip": "Savory or sweet pastries, perfect as a quick snack on the go."
+          },
+          {
+            "name": "Open Air Centre Café",
+            "tip": "They often serve simple but authentic Estonian dishes here."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sarapiku Gesundheitspfad",
+            "tip": "Die dichten Wälder bieten eine Oase der Ruhe.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Entlegene Abschnitte des Pääsküla-Flusses",
+            "tip": "Radfahren Sie etwas weiter, um ungestörte Plätze zu finden.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Der alte Park des Herrenhauses",
+            "tip": "Abseits der Hauptwege finden Sie ruhige Ecken.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sarapiku Egészségösvény",
+            "tip": "A sűrű erdők a nyugalom oázisát kínálják.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "A Pääsküla-folyó távoli szakaszai",
+            "tip": "Tekerjen kicsit távolabb, hogy zavartalan helyeket találjon.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A kúria régi parkja",
+            "tip": "A fő utaktól távol csendes zugokat talál.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poteca de sănătate Sarapiku",
+            "tip": "Pădurile dese oferă o oază de liniște.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Secțiuni îndepărtate ale râului Pääsküla",
+            "tip": "Mergeți cu bicicleta puțin mai departe pentru a găsi locuri netulburate.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul vechi al conacului",
+            "tip": "Departe de căile principale, veți găsi colțuri liniștite.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sarapiku Health Track",
+            "tip": "The dense forests offer an oasis of calm.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Remote sections of Pääsküla River",
+            "tip": "Cycle a bit further to find undisturbed spots.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The manor's old park",
+            "tip": "Away from the main paths, you will find quiet corners.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handwerk im Freilichtzentrum",
+            "tip": "Hier finden Sie oft authentisches estnisches Handwerk, von Holzarbeiten bis zu Textilien."
+          },
+          {
+            "name": "Lokale Hofläden",
+            "tip": "Halten Sie Ausschau nach Schildern für 'Taluturg' (Bauernmarkt) für Honig oder Marmeladen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves termékek a Szabadtéri Központban",
+            "tip": "Itt gyakran találhatók autentikus észt kézműves termékek, a fafaragásoktól a textilekig."
+          },
+          {
+            "name": "Helyi termelői boltok",
+            "tip": "Keresse a 'Taluturg' (termelői piac) táblákat mézért vagy lekvárokért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat la Centrul în aer liber",
+            "tip": "Aici veți găsi adesea meșteșuguri estoniene autentice, de la obiecte din lemn la textile."
+          },
+          {
+            "name": "Magazine agricole locale",
+            "tip": "Fiți atenți la semnele pentru 'Taluturg' (piața fermierilor) pentru miere sau gemuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crafts at the Open Air Centre",
+            "tip": "You can often find authentic Estonian crafts here, from woodwork to textiles."
+          },
+          {
+            "name": "Local farm shops",
+            "tip": "Look for signs for 'Taluturg' (farmer's market) for honey or jams."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Luftdruck Ihrer Reifen vor der Abfahrt.",
+          "Ein Helm wird für Ihre Sicherheit dringend empfohlen.",
+          "Einige Wege können unbefestigt sein, ein Mountainbike oder Trekkingrad ist von Vorteil.",
+          "Planen Sie zusätzliche Zeit für Fotostopps ein, besonders entlang des Flusses."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "A biztonsága érdekében erősen ajánlott a sisak viselése.",
+          "Néhány út murvás lehet, előnyös egy mountain bike vagy trekking kerékpár.",
+          "Tervezzen plusz időt a fotómegállókra, különösen a folyó mentén."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de a pleca.",
+          "O cască este puternic recomandată pentru siguranța dumneavoastră.",
+          "Unele poteci pot fi neasfaltate, o bicicletă de munte sau de trekking este un avantaj.",
+          "Planificați timp suplimentar pentru opriri foto, în special de-a lungul râului."
+        ],
+        "en": [
+          "Check your tire pressure before setting off.",
+          "A helmet is strongly recommended for your safety.",
+          "Some paths may be unpaved, a mountain or trekking bike is an advantage.",
+          "Plan for extra time for photo stops, especially along the river."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 9.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Freilichtzentrum Vanamõisa",
+            "hu": "Parkoló a Vanamõisa Szabadtéri Központnál",
+            "ro": "Parcare la Centrul în aer liber Vanamõisa",
+            "en": "Parking at Vanamõisa Open Air Centre"
+          },
+          "coords": [
+            24.588,
+            59.315
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier, es gibt normalerweise genügend Parkplätze.",
+            "hu": "Kezdje itt a napot, általában van elég parkolóhely.",
+            "ro": "Începeți ziua aici, de obicei există suficient spațiu de parcare.",
+            "en": "Start your day here, there's usually ample parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Freilichtzentrum Vanamõisa",
+            "hu": "Vanamõisa Szabadtéri Központ",
+            "ro": "Centrul în aer liber Vanamõisa",
+            "en": "Vanamõisa Open Air Centre"
+          },
+          "coords": [
+            24.5885,
+            59.3155
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die estnische Kultur und Geschichte. Prüfen Sie den Veranstaltungskalender.",
+            "hu": "Merüljön el az észt kultúrában és történelemben. Ellenőrizze az eseménynaptárt.",
+            "ro": "Cufundați-vă în cultura și istoria estoniană. Verificați calendarul evenimentelor.",
+            "en": "Immerse yourself in Estonian culture and history. Check the event calendar."
+          }
+        },
+        {
+          "name": {
+            "de": "Sarapiku Gesundheitspfad",
+            "hu": "Sarapiku Egészségösvény",
+            "ro": "Poteca de sănătate Sarapiku",
+            "en": "Sarapiku Health Track"
+          },
+          "coords": [
+            24.581,
+            59.334
+          ],
+          "category": "natural features",
+          "arrive_at": "11:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Freilichtzentrum, um die Natur zu genießen.",
+            "hu": "Egy rövid séta a Szabadtéri Központtól a természet élvezetéért.",
+            "ro": "O scurtă plimbare de la Centrul în aer liber pentru a vă bucura de natură.",
+            "en": "A short walk from the Open Air Centre to enjoy nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz am Herrenhaus Saue",
+            "hu": "Parkoló a Saue-i Kúriánál",
+            "ro": "Parcare la Conacul Saue",
+            "en": "Parking at Saue Manor"
+          },
+          "coords": [
+            24.567,
+            59.323
+          ],
+          "category": "transport",
+          "arrive_at": "12:35",
+          "stay_min": 10,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den zweiten Teil Ihres Tages. Von hier aus ist alles zu Fuß erreichbar.",
+            "hu": "Parkoljon itt a nap második felére. Innen minden gyalogosan elérhető.",
+            "ro": "Parcați aici pentru a doua parte a zilei. Totul este la distanță de mers pe jos de aici.",
+            "en": "Park here for the second cluster of your day. Everything is within walking distance from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Herrenhaus Saue & Eichenhain",
+            "hu": "Saue-i Kúria és Tölgyes",
+            "ro": "Conacul Saue și Dumbrava de stejari",
+            "en": "Saue Manor & Oak Grove"
+          },
+          "coords": [
+            24.5668,
+            59.3225
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit für eine Führung und einen Spaziergang durch den Eichenhain ein.",
+            "hu": "Tervezzen elegendő időt a vezetett túrára és a Tölgyesben tett sétára.",
+            "ro": "Planificați suficient timp pentru un tur ghidat și o plimbare prin dumbrava de stejari.",
+            "en": "Plan enough time for a guided tour and a walk through the oak grove."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentralpark Saue",
+            "hu": "Saue-i Központi Park",
+            "ro": "Parcul Central din Saue",
+            "en": "Saue Central Park"
+          },
+          "coords": [
+            24.56,
+            59.3255
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannter Abschluss Ihres Tages in Saue, nur einen kurzen Spaziergang vom Herrenhaus entfernt.",
+            "hu": "A nap pihentető befejezése Sauéban, csak egy rövid sétára a kúriától.",
+            "ro": "O încheiere relaxantă a zilei în Saue, la o scurtă plimbare de conac.",
+            "en": "A relaxing end to your day in Saue, just a short walk from the manor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Saue in zwei bequemen Etappen. Der Vormittag ist der Kultur und Natur im Osten gewidmet: Sie parken am Freilichtzentrum Vanamõisa und spazieren zum Gesundheitspfad. Nach einer kurzen Fahrt parken Sie erneut, diesmal im Herzen der Stadt. Der Nachmittag gehört ganz dem prächtigen Herrenhaus Saue und seinem historischen Park, bevor Sie den Tag im nahegelegenen Zentralpark ausklingen lassen. Diese Tour kombiniert die Flexibilität des Autos mit entspannten Spaziergängen.",
+        "hu": "Autóval két kényelmes szakaszban fedezheti fel Sauét. A délelőtt a keleti részen a kultúráé és a természeté: a Vanamõisa Szabadtéri Központnál parkol, és átsétál az Egészségösvényhez. Egy rövid autózás után újra parkol, ezúttal a város szívében. A délután teljes egészében a csodálatos Saue-i Kúriáé és történelmi parkjáé, mielőtt a napot a közeli Központi Parkban zárná. Ez a túra ötvözi az autó rugalmasságát a pihentető sétákkal.",
+        "ro": "Cu mașina, explorați Saue în două etape convenabile. Dimineața este dedicată culturii și naturii în partea de est: parcați la Centrul în aer liber Vanamõisa și vă plimbați până la poteca de sănătate. După o scurtă călătorie cu mașina, parcați din nou, de data aceasta în inima orașului. După-amiaza este dedicată în întregime magnificului Conac Saue și parcului său istoric, înainte de a încheia ziua în Parcul Central din apropiere. Acest tur combină flexibilitatea mașinii cu plimbări relaxante.",
+        "en": "By car, you'll explore Saue in two convenient clusters. The morning is dedicated to culture and nature in the east: you park at the Vanamõisa Open Air Centre and walk to the health track. After a short drive, you park again, this time in the heart of town. The afternoon is all about the magnificent Saue Manor and its historic park, before ending the day in the nearby Central Park. This tour combines the flexibility of a car with relaxing walks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Verivorst",
+            "tip": "Estnische Blutwurst, besonders im Winter beliebt, oft mit Preiselbeermarmelade serviert."
+          },
+          {
+            "name": "Sült",
+            "tip": "Eine Art Sülze, oft aus Schweinefleisch, die kalt mit Senf und Schwarzbrot gegessen wird."
+          },
+          {
+            "name": "Restaurant im Herrenhaus Saue",
+            "tip": "Ein idealer Ort für ein gehobenes Mittagessen zwischen den beiden Erkundungsclustern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Verivorst",
+            "tip": "Észt véres hurka, különösen télen népszerű, gyakran vörösáfonya lekvárral tálalva."
+          },
+          {
+            "name": "Sült",
+            "tip": "Egyfajta kocsonya, gyakran sertéshúsból, hidegen mustárral és fekete kenyérrel fogyasztva."
+          },
+          {
+            "name": "Étterem a Saue-i Kúriában",
+            "tip": "Ideális hely egy elegánsabb ebédhez a két felfedező klaszter között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Verivorst",
+            "tip": "Cârnat de sânge estonian, popular mai ales iarna, adesea servit cu dulceață de merișoare."
+          },
+          {
+            "name": "Sült",
+            "tip": "Un fel de piftie, adesea din carne de porc, consumată rece cu muștar și pâine neagră."
+          },
+          {
+            "name": "Restaurantul Conacului Saue",
+            "tip": "Un loc ideal pentru un prânz rafinat între cele două grupuri de explorare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Verivorst",
+            "tip": "Estonian blood sausage, especially popular in winter, often served with lingonberry jam."
+          },
+          {
+            "name": "Sült",
+            "tip": "A type of head cheese, often made from pork, eaten cold with mustard and black bread."
+          },
+          {
+            "name": "Saue Manor Restaurant",
+            "tip": "An ideal place for an upscale lunch between the two exploration clusters."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eichenhain Saue",
+            "tip": "Finden Sie eine ruhige Bank unter den majestätischen, alten Eichen.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Waldwege am Gesundheitspfad",
+            "tip": "Gehen Sie ein Stück abseits des Hauptweges, um absolute Stille zu erleben.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Gärten des Herrenhauses",
+            "tip": "Die formalen Gärten hinter dem Herrenhaus sind oft sehr friedlich.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saue-i Tölgyes",
+            "tip": "Keressen egy csendes padot a fenséges, idős tölgyek alatt.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Erdei ösvények az Egészségösvénynél",
+            "tip": "Térjen le egy kicsit a fő ösvényről, hogy teljes csendet élvezhessen.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "A kúria kertjei",
+            "tip": "A kúria mögötti formális kertek gyakran nagyon békések.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dumbrava de stejari din Saue",
+            "tip": "Găsiți o bancă liniștită sub stejarii vechi și maiestuoși.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Căile forestiere de la poteca de sănătate",
+            "tip": "Abateți-vă puțin de la calea principală pentru a experimenta liniștea absolută.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Grădinile conacului",
+            "tip": "Grădinile formale din spatele conacului sunt adesea foarte pașnice.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Saue Oak Grove",
+            "tip": "Find a quiet bench under the majestic, old oaks.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Forest paths at the Health Track",
+            "tip": "Go a little off the main path to experience complete silence.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Manor Gardens",
+            "tip": "The formal gardens behind the manor are often very peaceful.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markt im Freilichtzentrum",
+            "tip": "Wenn ein Markt stattfindet, ist dies der beste Ort für lokale Produkte und Handwerk."
+          },
+          {
+            "name": "Geschenkeladen des Herrenhauses",
+            "tip": "Exklusive Souvenirs und Bücher zur Geschichte der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piac a Szabadtéri Központban",
+            "tip": "Ha van piac, ez a legjobb hely a helyi termékek és kézműves áruk beszerzésére."
+          },
+          {
+            "name": "A kúria ajándékboltja",
+            "tip": "Exkluzív ajándéktárgyak és könyvek a régió történelméről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de la Centrul în aer liber",
+            "tip": "Dacă se organizează o piață, acesta este cel mai bun loc pentru produse locale și artizanat."
+          },
+          {
+            "name": "Magazinul de cadouri al conacului",
+            "tip": "Suveniruri exclusive și cărți despre istoria regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market at the Open Air Centre",
+            "tip": "If a market is on, this is the best place for local produce and crafts."
+          },
+          {
+            "name": "Manor Gift Shop",
+            "tip": "Exclusive souvenirs and books about the region's history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie Navigations-Apps, um die Parkplätze leicht zu finden.",
+          "Lassen Sie keine Wertsachen sichtbar im Auto liegen.",
+          "Die Parkgebühren können variieren, halten Sie etwas Kleingeld bereit.",
+          "Kombinieren Sie die Fahrt mit einem Besuch in der nahegelegenen Hauptstadt Tallinn."
+        ],
+        "hu": [
+          "Használjon navigációs alkalmazásokat a parkolók könnyű megtalálásához.",
+          "Ne hagyjon értékeket látható helyen az autóban.",
+          "A parkolási díjak változhatnak, tartson magánál némi aprópénzt.",
+          "Kösse össze az utazást a közeli főváros, Tallinn meglátogatásával."
+        ],
+        "ro": [
+          "Folosiți aplicații de navigație pentru a găsi cu ușurință parcările.",
+          "Nu lăsați obiecte de valoare la vedere în mașină.",
+          "Taxele de parcare pot varia, pregătiți niște mărunțiș.",
+          "Combinați călătoria cu o vizită în capitala din apropiere, Tallinn."
+        ],
+        "en": [
+          "Use navigation apps to find the parking areas easily.",
+          "Do not leave valuables visible in the car.",
+          "Parking fees may vary, have some change ready.",
+          "Combine the trip with a visit to the nearby capital, Tallinn."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 7.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bushaltestelle Saue Keskus",
+            "hu": "Saue Keskus buszmegálló",
+            "ro": "Stația de autobuz Saue Keskus",
+            "en": "Saue Keskus bus stop"
+          },
+          "coords": [
+            24.559,
+            59.325
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der zentrale Knotenpunkt, von dem aus Sie Ihren Spaziergang durch das Stadtzentrum beginnen.",
+            "hu": "A központi csomópont, ahonnan a városközponti séta indul.",
+            "ro": "Nodul central de unde începeți plimbarea prin centrul orașului.",
+            "en": "The central hub from where you'll start your walk through the town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Herrenhaus Saue & Eichenhain",
+            "hu": "Saue-i Kúria és Tölgyes",
+            "ro": "Conacul Saue și Dumbrava de stejari",
+            "en": "Saue Manor & Oak Grove"
+          },
+          "coords": [
+            24.5668,
+            59.3225
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Hauptanziehungspunkt von Saue, nehmen Sie sich Zeit für die Besichtigung.",
+            "hu": "Saue fő vonzereje, szánjon időt a megtekintésére.",
+            "ro": "Atracția principală din Saue, acordați-vă timp pentru a o vizita.",
+            "en": "The main attraction of Saue, take your time to visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentralpark Saue",
+            "hu": "Saue-i Központi Park",
+            "ro": "Parcul Central din Saue",
+            "en": "Saue Central Park"
+          },
+          "coords": [
+            24.56,
+            59.3255
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Ort für eine Mittagspause, bevor Sie den Bus zum nächsten Ziel nehmen.",
+            "hu": "Szép hely egy ebédszünetre, mielőtt busszal a következő célponthoz utazna.",
+            "ro": "Un loc frumos pentru o pauză de prânz înainte de a lua autobuzul spre următoarea destinație.",
+            "en": "A nice place for a lunch break before taking the bus to the next destination."
+          }
+        },
+        {
+          "name": {
+            "de": "Freilichtzentrum Vanamõisa",
+            "hu": "Vanamõisa Szabadtéri Központ",
+            "ro": "Centrul în aer liber Vanamõisa",
+            "en": "Vanamõisa Open Air Centre"
+          },
+          "coords": [
+            24.588,
+            59.315
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:20",
+          "stay_min": 150,
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Planen Sie für die Busfahrt und einen längeren Aufenthalt hier. Es gibt viel zu sehen.",
+            "hu": "Tervezzen a buszúttal és egy hosszabb itteni tartózkodással. Sok a látnivaló.",
+            "ro": "Planificați călătoria cu autobuzul și o ședere mai lungă aici. Sunt multe de văzut.",
+            "en": "Plan for the bus ride and a longer stay here. There's a lot to see."
+          }
+        },
+        {
+          "name": {
+            "de": "Ufer des Pääsküla-Flusses",
+            "hu": "Pääsküla-folyó partja",
+            "ro": "Malul râului Pääsküla",
+            "en": "Banks of Pääsküla River"
+          },
+          "coords": [
+            24.575,
+            59.33
+          ],
+          "category": "natural features",
+          "arrive_at": "16:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Vanamõisa-Gebiet, um den Tag in der Natur ausklingen zu lassen.",
+            "hu": "Egy rövid séta a Vanamõisa területről, hogy a természetben zárja a napot.",
+            "ro": "O scurtă plimbare din zona Vanamõisa pentru a încheia ziua în natură.",
+            "en": "A short walk from the Vanamõisa area to end the day in nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Saue entspannt mit öffentlichen Verkehrsmitteln. Der Tag beginnt mit einem Spaziergang vom zentralen Busbahnhof zum berühmten Herrenhaus Saue. Nach einer ausgiebigen Besichtigung und einer Pause im Zentralpark bringt Sie ein Bus zum kulturellen Herzen der Region, dem Freilichtzentrum Vanamõisa. Dort verbringen Sie den Großteil des Nachmittags, bevor Sie mit einem kurzen Spaziergang zum Fluss Pääsküla den Tag abschließen und den Bus zurück nehmen.",
+        "hu": "Fedezze fel Sauét kényelmesen tömegközlekedéssel. A nap a központi buszállomástól a híres Saue-i Kúriáig tartó sétával kezdődik. Egy alapos látogatás és a Központi Parkban tartott szünet után egy busz elviszi Önt a régió kulturális szívébe, a Vanamõisa Szabadtéri Központba. Itt tölti a délután nagy részét, mielőtt egy rövid sétával a Pääsküla-folyóhoz érve befejezi a napot, és visszautazik a busszal.",
+        "ro": "Descoperiți Saue într-un mod relaxat cu transportul public. Ziua începe cu o plimbare de la autogara centrală la faimosul Conac Saue. După o vizită amănunțită și o pauză în Parcul Central, un autobuz vă va duce la inima culturală a regiunii, Centrul în aer liber Vanamõisa. Veți petrece cea mai mare parte a după-amiezii acolo, înainte de a încheia ziua cu o scurtă plimbare la râul Pääsküla și de a lua autobuzul înapoi.",
+        "en": "Discover Saue in a relaxed way using public transport. The day begins with a walk from the central bus station to the famous Saue Manor. After a thorough visit and a break in the Central Park, a bus will take you to the cultural heart of the region, the Vanamõisa Open Air Centre. You'll spend most of the afternoon there before ending the day with a short walk to the Pääsküla River and taking the bus back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kiluvõileib",
+            "tip": "Ein offenes Sandwich mit würzigen Sprotten, Eiern und Zwiebeln auf Schwarzbrot."
+          },
+          {
+            "name": "Kohuke",
+            "tip": "Ein mit Schokolade überzogener Quark-Snack, ein beliebter estnischer Leckerbissen."
+          },
+          {
+            "name": "Lokale Cafés im Zentrum",
+            "tip": "Ideal für eine schnelle Mahlzeit oder einen Kaffee, während Sie auf den Bus warten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kiluvõileib",
+            "tip": "Nyitott szendvics fűszeres sprotnival, tojással és hagymával fekete kenyéren."
+          },
+          {
+            "name": "Kohuke",
+            "tip": "Csokoládéval bevont túrós snack, egy népszerű észt finomság."
+          },
+          {
+            "name": "Helyi kávézók a központban",
+            "tip": "Ideális egy gyors étkezéshez vagy kávéhoz, amíg a buszra vár."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kiluvõileib",
+            "tip": "Un sandviș deschis cu șprot picant, ouă și ceapă pe pâine neagră."
+          },
+          {
+            "name": "Kohuke",
+            "tip": "O gustare din brânză de vaci glazurată cu ciocolată, o delicatesă populară estoniană."
+          },
+          {
+            "name": "Cafenele locale în centru",
+            "tip": "Ideal pentru o masă rapidă sau o cafea în timp ce așteptați autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiluvõileib",
+            "tip": "An open-faced sandwich with spiced sprat, egg, and onion on black bread."
+          },
+          {
+            "name": "Kohuke",
+            "tip": "A chocolate-coated curd snack, a beloved Estonian treat."
+          },
+          {
+            "name": "Local cafés in the center",
+            "tip": "Ideal for a quick meal or coffee while waiting for the bus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eichenhain Saue",
+            "tip": "Ein ruhiger Zufluchtsort, nur einen kurzen Spaziergang vom belebten Zentrum entfernt.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Gelände des Freilichtzentrums",
+            "tip": "Abseits der Hauptgebäude finden Sie ruhige Ecken mit traditionellen Bauten.",
+            "emoji": "🏡"
+          },
+          {
+            "name": "Spaziergang entlang des Pääsküla-Flusses",
+            "tip": "Das sanfte Rauschen des Wassers ist sehr beruhigend.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saue-i Tölgyes",
+            "tip": "Csendes menedékhely, csak egy rövid sétára a nyüzsgő központtól.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "A Szabadtéri Központ területe",
+            "tip": "A főépületektől távolabb csendes sarkokat talál hagyományos épületekkel.",
+            "emoji": "🏡"
+          },
+          {
+            "name": "Séta a Pääsküla-folyó mentén",
+            "tip": "A víz halk csobogása nagyon megnyugtató.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dumbrava de stejari din Saue",
+            "tip": "Un refugiu liniștit la o scurtă plimbare de centrul aglomerat.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Terenul Centrului în aer liber",
+            "tip": "Departe de clădirile principale, veți găsi colțuri liniștite cu clădiri tradiționale.",
+            "emoji": "🏡"
+          },
+          {
+            "name": "Plimbare de-a lungul râului Pääsküla",
+            "tip": "Sunetul blând al apei este foarte calmant.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Saue Oak Grove",
+            "tip": "A quiet retreat just a short walk from the bustling center.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Grounds of the Open Air Centre",
+            "tip": "Away from the main buildings, you'll find quiet corners with traditional structures.",
+            "emoji": "🏡"
+          },
+          {
+            "name": "Walk along the Pääsküla River",
+            "tip": "The gentle sound of the water is very soothing.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handwerksläden im Freilichtzentrum",
+            "tip": "Eine ausgezeichnete Gelegenheit, authentische estnische Souvenirs zu kaufen."
+          },
+          {
+            "name": "Geschäfte in der Nähe des Busbahnhofs",
+            "tip": "Kleine Geschäfte bieten oft lokale Snacks und Getränke für Ihre Reise an."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves boltok a Szabadtéri Központban",
+            "tip": "Kiváló lehetőség autentikus észt ajándéktárgyak vásárlására."
+          },
+          {
+            "name": "Boltok a buszpályaudvar közelében",
+            "tip": "A kis boltok gyakran kínálnak helyi harapnivalókat és italokat az utazáshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat la Centrul în aer liber",
+            "tip": "O oportunitate excelentă de a cumpăra suveniruri estoniene autentice."
+          },
+          {
+            "name": "Magazine lângă autogară",
+            "tip": "Micile magazine oferă adesea gustări și băuturi locale pentru călătoria dvs."
+          }
+        ],
+        "en": [
+          {
+            "name": "Craft shops at the Open Air Centre",
+            "tip": "An excellent opportunity to buy authentic Estonian souvenirs."
+          },
+          {
+            "name": "Shops near the bus station",
+            "tip": "Small shops often offer local snacks and drinks for your journey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte oder nutzen Sie kontaktloses Bezahlen für die Busse.",
+          "Überprüfen Sie den Busfahrplan im Voraus, besonders für die Rückfahrt am späten Nachmittag.",
+          "Laden Sie die Fahrpläne offline herunter, falls die Internetverbindung schlecht ist.",
+          "Fragen Sie den Busfahrer, wenn Sie unsicher sind, an welcher Haltestelle Sie aussteigen müssen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet, vagy használjon érintésmentes fizetést a buszokon.",
+          "Előre ellenőrizze a buszmenetrendet, különösen a késő délutáni visszaútra.",
+          "Töltse le a menetrendeket offline, ha rossz az internetkapcsolat.",
+          "Kérdezze meg a buszsofőrt, ha nem biztos benne, melyik megállónál kell leszállnia."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi sau folosiți plata contactless pentru autobuze.",
+          "Verificați programul autobuzelor în avans, în special pentru călătoria de întoarcere după-amiaza târziu.",
+          "Descărcați orarele offline în caz că conexiunea la internet este slabă.",
+          "Întrebați șoferul de autobuz dacă nu sunteți sigur la ce stație să coborâți."
+        ],
+        "en": [
+          "Buy a day ticket or use contactless payment for the buses.",
+          "Check the bus schedule in advance, especially for the return trip in the late afternoon.",
+          "Download schedules offline in case the internet connection is poor.",
+          "Ask the bus driver if you are unsure which stop to get off at."
+        ]
+      }
+    }
+  }
+}

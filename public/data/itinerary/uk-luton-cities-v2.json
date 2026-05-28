@@ -1,0 +1,1457 @@
+{
+  "city_id": "uk-luton-cities-v2",
+  "anchor": {
+    "name": "Luton Town Hall",
+    "coords": [
+      -0.42,
+      51.8787
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Luton Town Hall",
+            "hu": "Lutoni Városháza",
+            "ro": "Primăria din Luton",
+            "en": "Luton Town Hall"
+          },
+          "coords": [
+            -0.419,
+            51.879
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur aus dem Jahr 1936 und das Glockenspiel.",
+            "hu": "Csodálja meg az 1936-ban épült lenyűgöző építészetet és a harangjátékot.",
+            "ro": "Admirați arhitectura impresionantă din 1936 și carilonul.",
+            "en": "Admire the impressive 1936 architecture and the carillon."
+          }
+        },
+        {
+          "name": {
+            "de": "The Hat District",
+            "hu": "The Hat District (A Kalapnegyed)",
+            "ro": "Cartierul Pălăriilor (The Hat District)",
+            "en": "The Hat District"
+          },
+          "coords": [
+            -0.418,
+            51.88
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:39",
+          "stay_min": 50,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die kreativen Industrien, die in den ehemaligen Hutfabriken untergebracht sind.",
+            "hu": "Fedezze fel az egykori kalapgyárakban helyet kapó kreatív iparágakat.",
+            "ro": "Explorați industriile creative găzduite în fostele fabrici de pălării.",
+            "en": "Explore the creative industries housed in the former hat factories."
+          }
+        },
+        {
+          "name": {
+            "de": "St Mary's Church",
+            "hu": "Szent Mária-templom",
+            "ro": "Biserica St Mary's",
+            "en": "St Mary's Church"
+          },
+          "coords": [
+            -0.415,
+            51.877
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Suchen Sie nach dem einzigartigen steinernen Taufbecken aus dem 14. Jahrhundert.",
+            "hu": "Keresse meg az egyedülálló 14. századi kő keresztelőkutat.",
+            "ro": "Căutați baptisteriul unic din piatră din secolul al XIV-lea.",
+            "en": "Look for the unique 14th-century stone font screen."
+          }
+        },
+        {
+          "name": {
+            "de": "Wardown Park",
+            "hu": "Wardown Park",
+            "ro": "Parcul Wardown",
+            "en": "Wardown Park"
+          },
+          "coords": [
+            -0.42,
+            51.888
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Machen Sie einen Spaziergang um den See und beobachten Sie die Schwäne.",
+            "hu": "Sétáljon egyet a tó körül, és figyelje a hattyúkat.",
+            "ro": "Faceți o plimbare în jurul lacului și priviți lebedele.",
+            "en": "Take a stroll around the lake and watch the swans."
+          }
+        },
+        {
+          "name": {
+            "de": "Wardown House, Museum and Gallery",
+            "hu": "Wardown Ház, Múzeum és Galéria",
+            "ro": "Casa, Muzeul și Galeria Wardown",
+            "en": "Wardown House, Museum and Gallery"
+          },
+          "coords": [
+            -0.422,
+            51.89
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Luton Life Ausstellung, die die Geschichte der Stadt erzählt.",
+            "hu": "Ne hagyja ki a Luton Life kiállítást, amely a város történetét mutatja be.",
+            "ro": "Nu ratați expoziția Luton Life care spune povestea orașului.",
+            "en": "Don't miss the Luton Life display telling the history of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Stockwood Discovery Centre",
+            "hu": "Stockwood Felfedező Központ",
+            "ro": "Centrul de Descoperiri Stockwood",
+            "en": "Stockwood Discovery Centre"
+          },
+          "coords": [
+            -0.435,
+            51.865
+          ],
+          "category": "museums",
+          "arrive_at": "15:16",
+          "stay_min": 130,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Mossman Collection von Pferdekutschen, eine der größten in Großbritannien.",
+            "hu": "Csodálja meg a Mossman Gyűjteményt, amely az Egyesült Királyság egyik legnagyobb lovaskocsi gyűjteménye.",
+            "ro": "Admirați Colecția Mossman de trăsuri trase de cai, una dintre cele mai mari din Marea Britanie.",
+            "en": "Admire the Mossman Collection of horse-drawn vehicles, one of the largest in the UK."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Rundgang durch Luton beginnt am prächtigen Rathaus. Am Morgen erkunden Sie das kreative Herz der Stadt im Hat District und die historische St. Mary's Church. Am Mittag machen Sie einen entspannten Spaziergang zum Wardown Park, genießen die Natur und besuchen das faszinierende Wardown House Museum. Am Nachmittag führt Sie ein längerer Spaziergang zum Stockwood Discovery Centre, wo Sie in die Verkehrs- und Sozialgeschichte eintauchen. Zum Abendessen kehren Sie ins Stadtzentrum zurück, um die vielfältigen kulinarischen Angebote zu genießen.",
+        "hu": "Lutoni sétája a csodálatos Városházánál kezdődik. Délelőtt fedezze fel a város kreatív szívét a Kalapnegyedben és a történelmi Szent Mária-templomot. Délben tegyen egy pihentető sétát a Wardown Parkba, élvezze a természetet, és látogasson el a lenyűgöző Wardown Ház Múzeumba. Délután egy hosszabb séta vezet a Stockwood Felfedező Központba, ahol elmerülhet a közlekedés és a társadalomtörténetben. Este térjen vissza a városközpontba, hogy élvezze a változatos kulináris kínálatot.",
+        "ro": "Turul pietonal al orașului Luton începe la impunătoarea Primărie. Dimineața, explorați inima creativă a orașului în Cartierul Pălăriilor și istorica Biserică St Mary's. La prânz, faceți o plimbare relaxantă spre Parcul Wardown, bucurându-vă de natură și vizitând fascinantul Muzeu Wardown House. După-amiaza, o plimbare mai lungă vă duce la Centrul de Descoperiri Stockwood, pentru o incursiune în istoria transportului și socială. Seara, reveniți în centrul orașului pentru a vă bucura de diversele oferte culinare.",
+        "en": "Your walking tour of Luton starts at the magnificent Town Hall. In the morning, you'll explore the creative heart of the city in The Hat District and the historic St Mary's Church. At midday, take a relaxing walk to Wardown Park, enjoying nature and visiting the fascinating Wardown House Museum. The afternoon involves a longer stroll to Stockwood Discovery Centre for an immersion into transport and social history. For the evening, you'll head back to the town centre to enjoy the diverse culinary offerings."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bedfordshire Clanger",
+            "tip": "Ein traditionelles Gebäck mit einer herzhaften Füllung an einem Ende und einer süßen am anderen."
+          },
+          {
+            "name": "Pub Lunch im The Brewery Tap",
+            "tip": "Ein klassisches britisches Pub-Erlebnis mit traditionellen Gerichten."
+          },
+          {
+            "name": "Luton Market",
+            "tip": "Probieren Sie globale Küche von den vielen Essensständen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bedfordshire Clanger",
+            "tip": "Hagyományos péksütemény, amelynek egyik vége sós, a másik édes töltelékkel van töltve."
+          },
+          {
+            "name": "Kocsmai ebéd a The Brewery Tap-ben",
+            "tip": "Klasszikus brit kocsmai élmény hagyományos ételekkel."
+          },
+          {
+            "name": "Lutoni piac",
+            "tip": "Kóstolja meg a világ konyháit a számos ételstandnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bedfordshire Clanger",
+            "tip": "Un produs de patiserie tradițional cu o umplutură sărată la un capăt și dulce la celălalt."
+          },
+          {
+            "name": "Prânz la pub The Brewery Tap",
+            "tip": "O experiență clasică de pub britanic, cu mâncăruri tradiționale."
+          },
+          {
+            "name": "Piața Luton",
+            "tip": "Încercați preparate din bucătăria internațională de la numeroasele standuri cu mâncare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bedfordshire Clanger",
+            "tip": "A traditional pastry with a savoury filling at one end and a sweet one at the other."
+          },
+          {
+            "name": "Pub Lunch at The Brewery Tap",
+            "tip": "A classic British pub experience with traditional fare."
+          },
+          {
+            "name": "Luton Market",
+            "tip": "Sample global cuisine from the many food stalls."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wardown Park Lakeside",
+            "tip": "Finden Sie eine ruhige Bank am See, um die Wasservögel zu beobachten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St Mary's Church Interior",
+            "tip": "Nehmen Sie sich einen Moment Zeit für ruhige Besinnung in diesem alten Gotteshaus.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Stockwood Discovery Centre Gardens",
+            "tip": "Spazieren Sie durch die ruhigen und wunderschön gepflegten Gärten.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wardown Park tópart",
+            "tip": "Keressen egy csendes padot a tónál, és figyelje a vízimadarakat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent Mária-templom belseje",
+            "tip": "Szánjon egy percet a csendes elmélkedésre ebben az ősi imaházban.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Stockwood Felfedező Központ kertjei",
+            "tip": "Sétáljon a csendes és gyönyörűen gondozott kertekben.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului din Parcul Wardown",
+            "tip": "Găsiți o bancă liniștită lângă lac pentru a privi păsările de apă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Interiorul Bisericii St Mary's",
+            "tip": "Luați-vă un moment pentru o reflecție liniștită în acest lăcaș de cult vechi.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădinile Centrului de Descoperiri Stockwood",
+            "tip": "Plimbați-vă prin grădinile liniștite și frumos întreținute.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Wardown Park Lakeside",
+            "tip": "Find a quiet bench by the lake to watch the water birds.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St Mary's Church Interior",
+            "tip": "Take a moment for quiet reflection inside this ancient place of worship.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Stockwood Discovery Centre Gardens",
+            "tip": "Wander through the tranquil and beautifully maintained gardens.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "The Hat District",
+            "tip": "Suchen Sie nach einzigartigen Kreationen von lokalen Künstlern und Designern."
+          },
+          {
+            "name": "The Mall Luton",
+            "tip": "Ein großes Einkaufszentrum mit vielen bekannten Marken."
+          },
+          {
+            "name": "Luton Market",
+            "tip": "Ein traditioneller Markt mit einer Vielzahl von Waren, von Kleidung bis zu frischen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Hat District (A Kalapnegyed)",
+            "tip": "Keressen egyedi alkotásokat helyi művészektől és tervezőktől."
+          },
+          {
+            "name": "The Mall Luton",
+            "tip": "Nagy bevásárlóközpont számos ismert márkával."
+          },
+          {
+            "name": "Lutoni piac",
+            "tip": "Hagyományos piac sokféle áruval, a ruháktól a friss termékekig."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cartierul Pălăriilor (The Hat District)",
+            "tip": "Căutați creații unice de la artiști și designeri locali."
+          },
+          {
+            "name": "The Mall Luton",
+            "tip": "Un centru comercial mare, cu multe mărci de renume."
+          },
+          {
+            "name": "Piața Luton",
+            "tip": "O piață tradițională cu o varietate de bunuri, de la haine la produse proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Hat District",
+            "tip": "Look for unique creations from local artists and designers."
+          },
+          {
+            "name": "The Mall Luton",
+            "tip": "A large shopping centre with many high-street brands."
+          },
+          {
+            "name": "Luton Market",
+            "tip": "A traditional market with a variety of goods, from clothing to fresh produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Die Wege durch den Wardown Park sind gut gepflegt und für alle zugänglich.",
+          "Der Spaziergang zum Stockwood Discovery Centre ist der längste Teil, planen Sie entsprechend.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus, da diese variieren können.",
+          "Das Stadtzentrum ist kompakt und leicht zu Fuß zu erkunden."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "A Wardown Park ösvényei jól karbantartottak és mindenki számára hozzáférhetők.",
+          "A séta a Stockwood Felfedező Központba a leghosszabb szakasz, tervezzen ennek megfelelően.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét, mivel az változhat.",
+          "A városközpont kompakt és könnyen bejárható gyalog."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Căile din Parcul Wardown sunt bine întreținute și accesibile tuturor.",
+          "Plimbarea până la Centrul de Descoperiri Stockwood este cea mai lungă parte a traseului, planificați-vă în consecință.",
+          "Verificați în avans orele de deschidere ale muzeelor, deoarece acestea pot varia.",
+          "Centrul orașului este compact și ușor de explorat pe jos."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "The paths through Wardown Park are well-maintained and accessible for all.",
+          "The walk to Stockwood Discovery Centre is the longest leg, plan accordingly.",
+          "Check museum opening times in advance as they can vary.",
+          "The town centre is compact and easy to navigate on foot."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:47",
+      "total_km": 9.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "The Hat District",
+            "hu": "The Hat District (A Kalapnegyed)",
+            "ro": "Cartierul Pălăriilor (The Hat District)",
+            "en": "The Hat District"
+          },
+          "coords": [
+            -0.418,
+            51.88
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, während Sie die kreativen Bereiche erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárját, amíg felfedezi a kreatív tereket.",
+            "ro": "Asigurați-vă bicicleta în timp ce explorați spațiile creative.",
+            "en": "Lock your bike securely while exploring the creative spaces."
+          }
+        },
+        {
+          "name": {
+            "de": "Wardown Park",
+            "hu": "Wardown Park",
+            "ro": "Parcul Wardown",
+            "en": "Wardown Park"
+          },
+          "coords": [
+            -0.42,
+            51.888
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:59",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die Radwege, die sich durch den Park schlängeln.",
+            "hu": "Élvezze a parkon át kanyargó kerékpárutakat.",
+            "ro": "Bucurați-vă de pistele de biciclete care șerpuiesc prin parc.",
+            "en": "Enjoy the cycle paths that wind through the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Kenilworth Road Stadium",
+            "hu": "Kenilworth Road Stadion",
+            "ro": "Stadionul Kenilworth Road",
+            "en": "Kenilworth Road Stadium"
+          },
+          "coords": [
+            -0.432,
+            51.873
+          ],
+          "category": "landmark",
+          "arrive_at": "11:17",
+          "stay_min": 20,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein Muss für Fußballfans, um die Heimat des Luton Town FC zu sehen.",
+            "hu": "A futballrajongóknak kötelező látnivaló a Luton Town FC otthona.",
+            "ro": "O vizită obligatorie pentru fanii fotbalului pentru a vedea sediul Luton Town FC.",
+            "en": "A must-see for football fans to see the home of Luton Town FC."
+          }
+        },
+        {
+          "name": {
+            "de": "Stockwood Discovery Centre",
+            "hu": "Stockwood Felfedező Központ",
+            "ro": "Centrul de Descoperiri Stockwood",
+            "en": "Stockwood Discovery Centre"
+          },
+          "coords": [
+            -0.435,
+            51.865
+          ],
+          "category": "museums",
+          "arrive_at": "11:51",
+          "stay_min": 120,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Es gibt viele Fahrradständer, sodass Sie die Ausstellungen unbesorgt genießen können.",
+            "hu": "Rengeteg kerékpártároló áll rendelkezésre, így gondtalanul élvezheti a kiállításokat.",
+            "ro": "Există o mulțime de suporturi pentru biciclete, astfel încât vă puteți bucura de expoziții fără griji.",
+            "en": "Plenty of bike racks are available, so you can enjoy the exhibitions without worry."
+          }
+        },
+        {
+          "name": {
+            "de": "St Mary's Church",
+            "hu": "Szent Mária-templom",
+            "ro": "Biserica St Mary's",
+            "en": "St Mary's Church"
+          },
+          "coords": [
+            -0.415,
+            51.877
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:14",
+          "stay_min": 63,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Ein Ort der Ruhe und des Friedens nach einer langen Radtour.",
+            "hu": "A béke és a nyugalom helye egy hosszú kerékpártúra után.",
+            "ro": "Un loc de pace și liniște după o plimbare lungă cu bicicleta.",
+            "en": "A place of peace and tranquility after a long bike ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag im kreativen Hat District. Am Vormittag radeln Sie nach Norden zum weitläufigen Wardown Park, um die Natur zu genießen. Anschließend geht es quer durch die Stadt zum berühmten Kenilworth Road Stadium, der Heimat des Luton Town FC. Zu Mittag erreichen Sie das Stockwood Discovery Centre, wo Sie eine lange Pause einlegen, um die Gärten und Museen zu erkunden. Am Nachmittag radeln Sie zurück ins Zentrum, um den Tag mit einem Besuch der ehrwürdigen St. Mary's Church zu beschließen. Der Abend steht Ihnen zur freien Verfügung, um sich von der Radtour zu erholen.",
+        "hu": "Kezdje a kerékpáros napot a kreatív Kalapnegyedben. Délelőtt tekerjen észak felé a tágas Wardown Parkba, hogy élvezze a természetet, majd vágjon át a városon a híres Kenilworth Road Stadionhoz, a Luton Town FC otthonához. Délre érkezik a Stockwood Felfedező Központba, ahol hosszabb pihenőt tart a kertek és múzeumok felfedezésére. Délután tekerjen vissza a központba, hogy a napot a tiszteletreméltó Szent Mária-templom meglátogatásával zárja. Az este szabadon áll rendelkezésére, hogy kipihenje a kerékpártúrát.",
+        "ro": "Începeți ziua pe bicicletă în creativul Cartier al Pălăriilor. Dimineața, pedalați spre nord, spre întinsul Parc Wardown, pentru o doză de natură, apoi traversați orașul spre faimosul stadion Kenilworth Road, casa echipei Luton Town FC. La prânz, ajungeți la Centrul de Descoperiri Stockwood pentru o pauză lungă de explorare a grădinilor și muzeelor. După-amiaza, pedalați înapoi spre centru pentru a încheia ziua cu o vizită la venerabila Biserică St Mary's. Seara este la dispoziția dumneavoastră pentru a vă reface după turul pe bicicletă.",
+        "en": "Start your cycling day in the creative Hat District. In the morning, you'll pedal north to the expansive Wardown Park for a dose of nature, then cut across town to the iconic Kenilworth Road Stadium, home of Luton Town FC. By midday, you arrive at Stockwood Discovery Centre for a long break exploring its gardens and museums. The afternoon sees you cycling back towards the centre to conclude the day with a visit to the venerable St Mary's Church. The evening is yours to recover from the ride."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Engine",
+            "tip": "Ein fahrradfreundliches Café in der Nähe des Parks für einen schnellen Kaffee und Kuchen."
+          },
+          {
+            "name": "Nakorn Thai Restaurant",
+            "tip": "Tanken Sie nach der Fahrt mit einem würzigen thailändischen Curry neue Energie."
+          },
+          {
+            "name": "Smoothie-Bar im The Mall",
+            "tip": "Ein schneller und gesunder Energieschub für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Engine",
+            "tip": "Kerékpárbarát kávézó a park közelében egy gyors kávéra és süteményre."
+          },
+          {
+            "name": "Nakorn Thai Étterem",
+            "tip": "Töltődjön fel egy fűszeres thai curryvel a tekerés után."
+          },
+          {
+            "name": "Smoothie bár a The Mall-ban",
+            "tip": "Gyors és egészséges energia-utánpótlás útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Engine",
+            "tip": "O cafenea prietenoasă cu bicicliștii, lângă parc, pentru o cafea rapidă și o prăjitură."
+          },
+          {
+            "name": "Restaurantul thailandez Nakorn",
+            "tip": "Refaceți-vă plinul de energie cu un curry thailandez picant după plimbare."
+          },
+          {
+            "name": "Bar de smoothie-uri în The Mall",
+            "tip": "Un impuls de energie rapid și sănătos din mers."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Engine",
+            "tip": "A bike-friendly cafe near the park for a quick coffee and cake."
+          },
+          {
+            "name": "Nakorn Thai Restaurant",
+            "tip": "Refuel with a spicy Thai curry after your ride."
+          },
+          {
+            "name": "Smoothie bar in The Mall",
+            "tip": "A quick and healthy energy boost on the go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Lea im Wardown Park",
+            "tip": "Ein friedlicher Ort, um dem Stadtlärm zu entfliehen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Period Gardens im Stockwood Discovery Centre",
+            "tip": "Jeder Garten repräsentiert eine andere Ära, perfekt für eine ruhige Erkundung.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick von der Spitze des Putteridge Bury",
+            "tip": "Etwas außerhalb, aber die Radtour wert für einen Panoramablick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lea folyó partja a Wardown Parkban",
+            "tip": "Békés hely a város zajától való elszakadásra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Korhű kertek a Stockwood Felfedező Központban",
+            "tip": "Minden kert egy másik korszakot képvisel, tökéletes a csendes felfedezéshez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Putteridge Bury tetejéről",
+            "tip": "Kicsit kiesik, de megéri a kerékpártúrát a panorámás kilátásért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Lea în Parcul Wardown",
+            "tip": "Un loc pașnic pentru a evada din zgomotul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile de epocă de la Centrul de Descoperiri Stockwood",
+            "tip": "Fiecare grădină reprezintă o eră diferită, perfectă pentru o explorare liniștită.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere din vârful Putteridge Bury",
+            "tip": "Puțin în afara orașului, dar merită o plimbare cu bicicleta pentru vederi panoramice.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the River Lea in Wardown Park",
+            "tip": "A peaceful spot to escape the city noise.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Period Gardens at Stockwood Discovery Centre",
+            "tip": "Each garden represents a different era, perfect for quiet exploration.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the top of Putteridge Bury",
+            "tip": "A bit out of the way, but worth the cycle for panoramic views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Luton Town FC Club Shop",
+            "tip": "Holen Sie sich ein Souvenir im Kenilworth Road Stadion."
+          },
+          {
+            "name": "Fahrradgeschäfte in der Innenstadt",
+            "tip": "Besorgen Sie sich Zubehör oder ein schnelles Tuning."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Luton Town FC klubbolt",
+            "tip": "Szerezzen be egy emléktárgyat a Kenilworth Road Stadionban."
+          },
+          {
+            "name": "Kerékpárboltok a belvárosban",
+            "tip": "Szerezzen be kiegészítőket vagy egy gyors beállítást."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul clubului Luton Town FC",
+            "tip": "Luați un suvenir de la stadionul Kenilworth Road."
+          },
+          {
+            "name": "Magazine de biciclete din centrul orașului",
+            "tip": "Luați-vă accesorii sau faceți o revizie rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Luton Town FC Club Shop",
+            "tip": "Pick up a souvenir at the Kenilworth Road stadium."
+          },
+          {
+            "name": "Cycle shops in the town centre",
+            "tip": "Grab any accessories or a quick tune-up."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Luton hat einige Hügel, seien Sie also auf Steigungen vorbereitet.",
+          "Verwenden Sie eine Fahrrad-Navigations-App, um die besten Routen zu finden.",
+          "Viele Hauptstraßen haben Radwege, aber seien Sie im Verkehr vorsichtig.",
+          "Schließen Sie Ihr Fahrrad immer an einem sicheren Ort ab.",
+          "Nehmen Sie Wasser und Snacks mit, besonders für die längeren Strecken."
+        ],
+        "hu": [
+          "Lutonban vannak dombok, ezért készüljön fel az emelkedőkre.",
+          "Használjon kerékpáros navigációs alkalmazást a legjobb útvonalak megtalálásához.",
+          "Sok főúton van kerékpárút, de legyen óvatos a forgalomban.",
+          "Mindig zárja le a kerékpárját biztonságos helyen.",
+          "Vigyen magával vizet és rágcsálnivalót, különösen a hosszabb szakaszokra."
+        ],
+        "ro": [
+          "Luton are câteva dealuri, așa că fiți pregătit pentru urcări.",
+          "Folosiți o aplicație de navigație pentru biciclete pentru a găsi cele mai bune rute.",
+          "Multe drumuri principale au piste pentru biciclete, dar fiți prudenți în trafic.",
+          "Legați-vă întotdeauna bicicleta într-un loc sigur.",
+          "Luați cu voi apă și gustări, mai ales pentru porțiunile mai lungi."
+        ],
+        "en": [
+          "Luton has some hills, so be prepared for inclines.",
+          "Use a cycle navigation app to find the best routes.",
+          "Many main roads have cycle lanes, but be cautious in traffic.",
+          "Always lock your bike in a secure location.",
+          "Carry water and snacks, especially for the longer legs of the journey."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Luton Hoo Estate",
+            "hu": "Luton Hoo birtok",
+            "ro": "Domeniul Luton Hoo",
+            "en": "Luton Hoo Estate"
+          },
+          "coords": [
+            -0.38,
+            51.845
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Hauptparkplatz. Die Gärten sind weitläufig, perfekt für einen Spaziergang nach der Fahrt.",
+            "hu": "Parkoljon a fő parkolóban. A kertek tágasak, tökéletesek egy sétára az autózás után.",
+            "ro": "Conduceți spre parcarea principală. Grădinile sunt vaste, perfecte pentru o plimbare după drum.",
+            "en": "Drive to the main car park. The gardens are expansive, perfect for a post-drive walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Stockwood Discovery Centre",
+            "hu": "Stockwood Felfedező Központ",
+            "ro": "Centrul de Descoperiri Stockwood",
+            "en": "Stockwood Discovery Centre"
+          },
+          "coords": [
+            -0.435,
+            51.865
+          ],
+          "category": "museums",
+          "arrive_at": "10:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie die Gärten und Ausstellungen zu Fuß.",
+            "hu": "Parkoljon itt, és fedezze fel gyalog a kerteket és a kiállításokat.",
+            "ro": "Parcați aici și explorați grădinile și exponatele pe jos.",
+            "en": "Park here and explore the gardens and exhibits on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kenilworth Road Stadium",
+            "hu": "Kenilworth Road Stadion",
+            "ro": "Stadionul Kenilworth Road",
+            "en": "Kenilworth Road Stadium"
+          },
+          "coords": [
+            -0.432,
+            51.873
+          ],
+          "category": "landmark",
+          "arrive_at": "12:28",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Discovery Centre, um das berühmte Stadion zu sehen.",
+            "hu": "Rövid séta a Felfedező Központtól a híres stadion megtekintéséhez.",
+            "ro": "O scurtă plimbare de la Centrul de Descoperiri pentru a vedea stadionul iconic.",
+            "en": "A short walk from the Discovery Centre to see the iconic stadium."
+          }
+        },
+        {
+          "name": {
+            "de": "Wardown Park",
+            "hu": "Wardown Park",
+            "ro": "Parcul Wardown",
+            "en": "Wardown Park"
+          },
+          "coords": [
+            -0.42,
+            51.888
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Park und genießen Sie einen Mittagsspaziergang.",
+            "hu": "Parkoljon a parknál, és élvezze a déli sétát.",
+            "ro": "Parcați lângă parc și bucurați-vă de o plimbare la prânz.",
+            "en": "Park by the park and enjoy a midday stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Wardown House, Museum and Gallery",
+            "hu": "Wardown Ház, Múzeum és Galéria",
+            "ro": "Casa, Muzeul și Galeria Wardown",
+            "en": "Wardown House, Museum and Gallery"
+          },
+          "coords": [
+            -0.422,
+            51.89
+          ],
+          "category": "museums",
+          "arrive_at": "14:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum befindet sich im Park und ist nur einen kurzen Spaziergang entfernt.",
+            "hu": "A múzeum a parkban található, egy rövid sétaútra.",
+            "ro": "Muzeul se află în interiorul parcului, la o scurtă plimbare.",
+            "en": "The museum is located within the park, just a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Luton Town Hall",
+            "hu": "Lutoni Városháza",
+            "ro": "Primăria din Luton",
+            "en": "Luton Town Hall"
+          },
+          "coords": [
+            -0.419,
+            51.879
+          ],
+          "category": "landmark",
+          "arrive_at": "15:52",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Stadtzentrum und beginnen Sie Ihren Spaziergang.",
+            "hu": "Parkoljon a városközpontban, és induljon sétára.",
+            "ro": "Parcați în centrul orașului pentru a începe clusterul pietonal.",
+            "en": "Park in the town centre to begin your walking cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "St Mary's Church",
+            "hu": "Szent Mária-templom",
+            "ro": "Biserica St Mary's",
+            "en": "St Mary's Church"
+          },
+          "coords": [
+            -0.415,
+            51.877
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Rathaus aus ein kurzer, angenehmer Spaziergang.",
+            "hu": "A Városházától egy rövid, kellemes séta.",
+            "ro": "O plimbare scurtă și plăcută de la Primărie.",
+            "en": "A short, pleasant walk from the Town Hall."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit dem Auto beginnt auf dem prächtigen Anwesen Luton Hoo. Am Vormittag fahren Sie zum Stockwood Discovery Centre, wo Sie parken, um das Museum und das nahegelegene Kenilworth Road Stadium zu Fuß zu erkunden. Zur Mittagszeit fahren Sie in den Norden zum Wardown Park. Hier können Sie Ihr Auto abstellen, um den Park zu genießen und das Wardown House Museum zu besuchen. Am Nachmittag fahren Sie ins Stadtzentrum von Luton. Parken Sie dort und erkunden Sie den letzten Cluster zu Fuß, beginnend mit dem Rathaus und endend mit der ruhigen St. Mary's Church.",
+        "hu": "Autós napja a csodálatos Luton Hoo birtokon kezdődik. Délelőtt a Stockwood Felfedező Központhoz hajt, ahol leparkol, hogy gyalog fedezze fel a múzeumot és a közeli Kenilworth Road Stadiont. Délben északra, a Wardown Parkba indul. Itt leteheti az autót, hogy élvezze a parkot és meglátogassa a Wardown Ház Múzeumot. Délután Luton központjába hajt. Parkoljon le, és fedezze fel gyalog az utolsó klasztert, kezdve a Városházával és a békés Szent Mária-templommal zárva.",
+        "ro": "Ziua dumneavoastră cu mașina începe la magnificul domeniu Luton Hoo. Dimineața, conduceți spre Centrul de Descoperiri Stockwood, unde parcați pentru a explora pe jos muzeul și stadionul Kenilworth Road din apropiere. La prânz, vă îndreptați spre nord, spre Parcul Wardown. Aici, lăsați mașina pentru a vă bucura de parc și a vizita Muzeul Wardown House. După-amiaza, conduceți spre centrul orașului Luton. Parcați și explorați ultimul cluster pe jos, începând cu Primăria și încheind cu liniștita Biserică St Mary's.",
+        "en": "Your day by car begins at the magnificent Luton Hoo estate. In the morning, you'll drive to Stockwood Discovery Centre, parking up to explore the museum and the nearby Kenilworth Road Stadium on foot. For midday, you'll head north to Wardown Park. Here, you can leave the car to enjoy the park and visit Wardown House Museum. The afternoon sees you driving into Luton's town centre. Park up and explore the final cluster on foot, starting with the Town Hall and finishing at the serene St Mary's Church."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Afternoon Tea im Luton Hoo Hotel",
+            "tip": "Ein luxuriöser Genuss in einem historischen Ambiente."
+          },
+          {
+            "name": "The Garden Cafe im Stockwood",
+            "tip": "Ideal für ein leichtes Mittagessen zwischen den Ausstellungen."
+          },
+          {
+            "name": "The Wigmore",
+            "tip": "Ein traditioneller Pub mit Parkplatz, ideal für ein herzhaftes Abendessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Délutáni tea a Luton Hoo Hotelben",
+            "tip": "Luxus élvezet történelmi környezetben."
+          },
+          {
+            "name": "The Garden Cafe a Stockwoodban",
+            "tip": "Ideális egy könnyű ebédhez a kiállítások között."
+          },
+          {
+            "name": "The Wigmore",
+            "tip": "Hagyományos pub parkolóval, ideális egy kiadós vacsorához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceaiul de după-amiază la Hotelul Luton Hoo",
+            "tip": "Un răsfăț de lux într-un cadru istoric."
+          },
+          {
+            "name": "The Garden Cafe la Stockwood",
+            "tip": "Ideal pentru un prânz ușor între expoziții."
+          },
+          {
+            "name": "The Wigmore",
+            "tip": "Un pub tradițional cu parcare, perfect pentru o cină copioasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Afternoon Tea at Luton Hoo Hotel",
+            "tip": "A luxurious treat in a historic setting."
+          },
+          {
+            "name": "The Garden Cafe at Stockwood",
+            "tip": "Ideal for a light lunch between exhibits."
+          },
+          {
+            "name": "The Wigmore",
+            "tip": "A traditional pub with a car park, great for a hearty dinner."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten von Luton Hoo",
+            "tip": "Finden Sie einen abgelegenen Platz in den weitläufigen Gärten von Capability Brown.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Skulpturengarten im Stockwood",
+            "tip": "Ein ruhiger Spaziergang inmitten von Kunst und Natur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Barton Hills National Nature Reserve",
+            "tip": "Eine kurze Autofahrt von Luton entfernt, für atemberaubende Ausblicke und Ruhe.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Luton Hoo kertjei",
+            "tip": "Keressen egy félreeső helyet Capability Brown tágas kertjeiben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szoborkert a Stockwoodban",
+            "tip": "Békés séta a művészet és a természet között.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Barton Hills Nemzeti Természetvédelmi Terület",
+            "tip": "Rövid autóútra Lutontól, lenyűgöző kilátásért és nyugalomért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Luton Hoo",
+            "tip": "Găsiți un loc retras în grădinile întinse ale lui Capability Brown.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grădina de sculpturi de la Stockwood",
+            "tip": "O plimbare liniștită printre artă și natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rezervația Naturală Națională Barton Hills",
+            "tip": "La o scurtă distanță cu mașina de Luton pentru priveliști uimitoare și liniște.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Luton Hoo Gardens",
+            "tip": "Find a secluded spot within the expansive Capability Brown gardens.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sculpture Garden at Stockwood",
+            "tip": "A peaceful walk amongst art and nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Barton Hills National Nature Reserve",
+            "tip": "A short drive from Luton for stunning views and tranquility.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschenkeladen im Luton Hoo",
+            "tip": "Exklusive Geschenke und Souvenirs."
+          },
+          {
+            "name": "Museumsladen im Stockwood Discovery Centre",
+            "tip": "Bücher, Spielzeug und Geschenke rund um die lokale Geschichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándékbolt a Luton Hoo-ban",
+            "tip": "Exkluzív ajándékok és emléktárgyak."
+          },
+          {
+            "name": "Múzeumi bolt a Stockwood Felfedező Központban",
+            "tip": "Könyvek, játékok és ajándékok a helytörténethez kapcsolódóan."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de cadouri de la Luton Hoo",
+            "tip": "Cadouri și suveniruri exclusive."
+          },
+          {
+            "name": "Magazinul muzeului de la Centrul de Descoperiri Stockwood",
+            "tip": "Cărți, jucării și cadouri legate de istoria locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Luton Hoo Gift Shop",
+            "tip": "Exclusive gifts and souvenirs."
+          },
+          {
+            "name": "Museum Shop at Stockwood Discovery Centre",
+            "tip": "Books, toys and gifts related to local history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten und -gebühren im Voraus, insbesondere im Stadtzentrum.",
+          "Die Straßen in Luton können zu Spitzenzeiten verkehrsreich sein, planen Sie Ihre Fahrten außerhalb dieser Zeiten.",
+          "Verwenden Sie eine Navigations-App, um Staus zu vermeiden.",
+          "Die Cluster-Walking-Philosophie hilft, Parkprobleme zu minimieren.",
+          "Beachten Sie die Geschwindigkeitsbegrenzungen, insbesondere in der Nähe von Schulen und in Wohngebieten."
+        ],
+        "hu": [
+          "Előre ellenőrizze a parkolási lehetőségeket és díjakat, különösen a városközpontban.",
+          "Luton útjai csúcsidőben forgalmasak lehetnek, utazásait ezeken az időkön kívülre tervezze.",
+          "Használjon navigációs alkalmazást a forgalmi dugók elkerülése érdekében.",
+          "A klaszter-séta filozófia segít minimalizálni a parkolási gondokat.",
+          "Vegye figyelembe a sebességkorlátozásokat, különösen az iskolák közelében és a lakóövezetekben."
+        ],
+        "ro": [
+          "Verificați în avans opțiunile de parcare și taxele, în special în centrul orașului.",
+          "Drumurile din Luton pot fi aglomerate la orele de vârf, planificați-vă călătoriile în afara acestor ore.",
+          "Folosiți o aplicație de navigație pentru a evita blocajele în trafic.",
+          "Filosofia plimbării în clustere ajută la minimizarea problemelor de parcare.",
+          "Respectați limitele de viteză, în special în apropierea școlilor și în zonele rezidențiale."
+        ],
+        "en": [
+          "Check parking options and fees in advance, especially in the town centre.",
+          "Luton's roads can be busy during peak hours, plan your drives outside of these times.",
+          "Use a navigation app to help avoid traffic congestion.",
+          "The cluster-walking philosophy helps minimise parking hassles.",
+          "Be mindful of speed limits, especially around schools and residential areas."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:09",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Luton Town Hall",
+            "hu": "Lutoni Városháza",
+            "ro": "Primăria din Luton",
+            "en": "Luton Town Hall"
+          },
+          "coords": [
+            -0.419,
+            51.879
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie am zentralen Busbahnhof, der nur einen kurzen Spaziergang entfernt ist.",
+            "hu": "Kezdje a központi buszpályaudvarnál, amely csak egy rövid sétára van.",
+            "ro": "Începeți de la autogara centrală, care se află la o scurtă plimbare.",
+            "en": "Start from the central bus station, which is a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "The Hat District",
+            "hu": "The Hat District (A Kalapnegyed)",
+            "ro": "Cartierul Pălăriilor (The Hat District)",
+            "en": "The Hat District"
+          },
+          "coords": [
+            -0.418,
+            51.88
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Leicht zu Fuß vom Rathaus aus erreichbar.",
+            "hu": "Könnyen megközelíthető gyalog a Városházától.",
+            "ro": "Ușor de accesat pe jos de la Primărie.",
+            "en": "Easily walkable from the Town Hall."
+          }
+        },
+        {
+          "name": {
+            "de": "St Mary's Church",
+            "hu": "Szent Mária-templom",
+            "ro": "Biserica St Mary's",
+            "en": "St Mary's Church"
+          },
+          "coords": [
+            -0.415,
+            51.877
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihren Spaziergang durch das Stadtzentrum hier ab.",
+            "hu": "Fejezze be itt a belvárosi sétát.",
+            "ro": "Încheiați aici plimbarea prin centrul orașului.",
+            "en": "Conclude your town centre walking cluster here."
+          }
+        },
+        {
+          "name": {
+            "de": "Wardown Park & Museum",
+            "hu": "Wardown Park és Múzeum",
+            "ro": "Parcul și Muzeul Wardown",
+            "en": "Wardown Park & Museum"
+          },
+          "coords": [
+            -0.42,
+            51.888
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Stadtzentrum; mehrere Linien halten in der Nähe.",
+            "hu": "Vegyen egy buszt a városközpontból; több járat is megáll a közelben.",
+            "ro": "Luați un autobuz din centrul orașului; mai multe rute opresc în apropiere.",
+            "en": "Take a bus from the town centre; several routes stop nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Stockwood Discovery Centre",
+            "hu": "Stockwood Felfedező Központ",
+            "ro": "Centrul de Descoperiri Stockwood",
+            "en": "Stockwood Discovery Centre"
+          },
+          "coords": [
+            -0.435,
+            51.865
+          ],
+          "category": "museums",
+          "arrive_at": "13:47",
+          "stay_min": 120,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 5.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine direkte Busverbindung verbindet Wardown und Stockwood.",
+            "hu": "Közvetlen buszjárat köti össze Wardownt és Stockwoodot.",
+            "ro": "O rută de autobuz directă leagă Wardown de Stockwood.",
+            "en": "A direct bus route connects the Wardown area to Stockwood."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen im Stadtzentrum",
+            "hu": "Vacsora a városközpontban",
+            "ro": "Cină în centrul orașului",
+            "en": "Dinner in Town Centre"
+          },
+          "coords": [
+            -0.418,
+            51.878
+          ],
+          "category": "gastro",
+          "arrive_at": "16:19",
+          "stay_min": 50,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zurück ins Zentrum, um Ihren Tag ausklingen zu lassen.",
+            "hu": "Vegyen egy buszt vissza a központba, hogy lezárja a napot.",
+            "ro": "Luați un autobuz înapoi în centru pentru a încheia ziua.",
+            "en": "Take a bus back to the centre to finish your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt im Herzen von Luton. Der Morgen ist einem Rundgang durch das Stadtzentrum gewidmet: Rathaus, Hat District und St. Mary's Church. Anschließend nehmen Sie einen Bus nach Norden zum Wardown Park, wo Sie den Mittag verbringen und das Museum und die Grünflächen erkunden. Am Nachmittag bringt Sie ein weiterer Bus nach Süden zum Stockwood Discovery Centre, wo Sie in die Geschichte eintauchen. Zum Abschluss des Tages fahren Sie mit dem Bus zurück ins Stadtzentrum, um zu Abend zu essen und die Atmosphäre aufzusaugen.",
+        "hu": "Tömegközlekedési napja Luton szívében kezdődik. A délelőttöt a városközpont gyalogos felfedezésének szenteli: Városháza, Kalapnegyed és Szent Mária-templom. Ezután busszal északra, a Wardown Parkba utazik, ahol a déli órákat a múzeum és a zöldterületek felfedezésével tölti. Délután egy másik busz viszi délre a Stockwood Felfedező Központba egy történelmi elmélyülésre. A nap lezárásaként busszal tér vissza a városközpontba vacsorázni és élvezni a hangulatot.",
+        "ro": "Ziua dumneavoastră cu transportul public începe în inima orașului Luton. Dimineața este dedicată unui cluster pietonal în centrul orașului: Primăria, Cartierul Pălăriilor și Biserica St Mary's. Apoi, luați un autobuz spre nord, spre Parcul Wardown, petrecând prânzul explorând muzeul și spațiile verzi. După-amiaza, un alt autobuz vă duce spre sud, la Centrul de Descoperiri Stockwood, pentru o incursiune în istorie. Pentru a încheia, luați un autobuz înapoi în centrul orașului pentru cină și pentru a absorbi atmosfera.",
+        "en": "Your day by public transport starts in the heart of Luton. The morning is dedicated to a walking cluster of the town centre: the Town Hall, the Hat District, and St Mary's Church. You'll then take a bus north to Wardown Park, spending midday exploring the museum and green space. In the afternoon, another bus takes you south to Stockwood Discovery Centre for an immersion in history. To finish, you'll bus back to the town centre for dinner and to soak up the atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chicken George",
+            "tip": "Ein lokaler Favorit für gebratenes Hähnchen, schnell und einfach für unterwegs."
+          },
+          {
+            "name": "Papa J's",
+            "tip": "Ein beliebtes indisches Restaurant im Stadtzentrum, ideal nach einem Tag voller Erkundungen."
+          },
+          {
+            "name": "Cafés in der Nähe der Bushaltestellen",
+            "tip": "Holen Sie sich einen Kaffee, während Sie auf Ihre nächste Fahrt warten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chicken George",
+            "tip": "Helyi kedvenc sült csirkéért, gyors és könnyű útközben."
+          },
+          {
+            "name": "Papa J's",
+            "tip": "Népszerű indiai étterem a városközpontban, tökéletes egy felfedezéssel töltött nap után."
+          },
+          {
+            "name": "Kávézók a buszmegállók közelében",
+            "tip": "Igyon egy kávét, amíg a következő járatra vár."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chicken George",
+            "tip": "Un favorit local pentru pui prăjit, rapid și ușor pentru călători."
+          },
+          {
+            "name": "Papa J's",
+            "tip": "Un restaurant indian popular în centrul orașului, perfect după o zi de explorare."
+          },
+          {
+            "name": "Cafenele lângă stațiile de autobuz",
+            "tip": "Luați o cafea în timp ce așteptați următoarea cursă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chicken George",
+            "tip": "A local favourite for fried chicken, quick and easy for a day on the move."
+          },
+          {
+            "name": "Papa J's",
+            "tip": "A popular Indian restaurant in the town centre, perfect after a day of exploring."
+          },
+          {
+            "name": "Cafes near bus stops",
+            "tip": "Grab a coffee while you wait for your next ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obere Etage eines Doppeldeckerbusses",
+            "tip": "Beobachten Sie die Stadt aus einer anderen Perspektive.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Viktorianischer Garten im Wardown Park",
+            "tip": "Ein ruhiger, abgeschlossener Bereich, um dem Trubel zu entfliehen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Lese-Ecke in der Luton Central Library",
+            "tip": "In der Nähe des Busbahnhofs, ein perfekter Ort, um eine Pause einzulegen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy emeletes busz felső szintje",
+            "tip": "Nézze a várost egy másik perspektívából.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Viktoriánus kert a Wardown Parkban",
+            "tip": "Csendes, zárt terület, ahol elmenekülhet a nyüzsgés elől.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Olvasósarok a Lutoni Központi Könyvtárban",
+            "tip": "A buszpályaudvar közelében, tökéletes hely a pihenésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etajul superior al unui autobuz supraetajat",
+            "tip": "Priviți orașul dintr-o altă perspectivă.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Grădina victoriană din Parcul Wardown",
+            "tip": "O zonă liniștită și închisă pentru a scăpa de agitație.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Colțul de lectură de la Biblioteca Centrală Luton",
+            "tip": "Aproape de autogară, un loc perfect pentru a lua o pauză.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Top deck of a double-decker bus",
+            "tip": "Watch the town go by from a different perspective.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Victorian Garden in Wardown Park",
+            "tip": "A quiet, enclosed area to escape the bustle.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Reading corner in Luton Central Library",
+            "tip": "Near the bus station, a perfect place to take a break.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "The Mall Luton",
+            "tip": "Direkt neben dem Busbahnhof gelegen, praktisch für einen schnellen Einkauf."
+          },
+          {
+            "name": "Luton Market",
+            "tip": "Erleben Sie die lokale Atmosphäre und finden Sie einzigartige Artikel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Mall Luton",
+            "tip": "Közvetlenül a buszpályaudvar mellett található, kényelmes egy gyors vásárláshoz."
+          },
+          {
+            "name": "Lutoni piac",
+            "tip": "Tapasztalja meg a helyi hangulatot és találjon egyedi termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Mall Luton",
+            "tip": "Situat chiar lângă autogară, convenabil pentru cumpărături rapide."
+          },
+          {
+            "name": "Piața Luton",
+            "tip": "Experimentați atmosfera locală și găsiți articole unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Mall Luton",
+            "tip": "Located right next to the bus station, convenient for a quick shop."
+          },
+          {
+            "name": "Luton Market",
+            "tip": "Experience the local atmosphere and find unique items."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Verwenden Sie eine ÖPNV-App, um Buszeiten und -routen in Echtzeit zu verfolgen.",
+          "Die Busse können zu Spitzenzeiten voll sein, planen Sie also etwas mehr Zeit ein.",
+          "Beachten Sie die letzte Busverbindung zurück ins Zentrum, besonders von den weiter entfernten Attraktionen.",
+          "Haben Sie Bargeld oder eine kontaktlose Karte für die Fahrpreise bereit."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Használjon tömegközlekedési alkalmazást a buszmenetrendek és útvonalak valós idejű követéséhez.",
+          "A buszok csúcsidőben zsúfoltak lehetnek, ezért szánjon rá egy kis extra időt.",
+          "Vegye figyelembe az utolsó buszjáratot vissza a központba, különösen a távolabbi látnivalóktól.",
+          "Készítsen elő készpénzt vagy érintés nélküli kártyát a viteldíjakhoz."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Utilizați o aplicație de transport public pentru a urmări în timp real orarele și rutele autobuzelor.",
+          "Autobuzele pot fi aglomerate la orele de vârf, așa că acordați-vă timp suplimentar.",
+          "Fiți conștienți de ultimul autobuz înapoi spre centru, mai ales de la atracțiile mai îndepărtate.",
+          "Aveți la îndemână numerar sau un card contactless pentru bilete."
+        ],
+        "en": [
+          "Buy a day rider ticket for unlimited travel.",
+          "Use a public transport app to track bus times and routes in real-time.",
+          "Buses can be crowded during peak hours, so allow for extra time.",
+          "Be aware of the last bus back to the centre, especially from the further attractions.",
+          "Have cash or a contactless card ready for fares."
+        ]
+      }
+    }
+  }
+}

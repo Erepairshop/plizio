@@ -1,0 +1,1513 @@
+{
+  "city_id": "iceland-hafnarfjordur-cities-v2",
+  "anchor": {
+    "name": "Hafnarfjörður",
+    "coords": [
+      64.0667,
+      -21.95
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafenviertel (Sjávargata)",
+            "hu": "Kikötőnegyed (Sjávargata)",
+            "ro": "Zona portuară (Sjávargata)",
+            "en": "Harbour Area (Sjávargata)"
+          },
+          "coords": [
+            -21.96,
+            64.07
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Spaziergang am Wasser und beobachten Sie die Fischerboote.",
+            "hu": "Kezdje a napot egy sétával a vízparton, és figyelje a halászhajókat.",
+            "ro": "Începeți ziua cu o plimbare pe malul apei, urmărind bărcile pescărești.",
+            "en": "Start your day with a walk by the water, watching the fishing boats."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafnarfjörður Museum",
+            "hu": "Hafnarfjörðuri Múzeum",
+            "ro": "Muzeul Hafnarfjörður",
+            "en": "Hafnarfjörður Museum"
+          },
+          "coords": [
+            -21.956,
+            64.067
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das Museum besteht aus mehreren Häusern, die Einblicke in die lokale Geschichte geben.",
+            "hu": "A múzeum több házból áll, betekintést nyújtva a helyi történelembe.",
+            "ro": "Muzeul este format din mai multe case care oferă o perspectivă asupra istoriei locale.",
+            "en": "The museum consists of several houses offering insights into the local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafnarborg - Kulturzentrum",
+            "hu": "Hafnarborg - Kulturális Központ",
+            "ro": "Hafnarborg - Centrul Cultural",
+            "en": "Hafnarborg - The Cultural Centre"
+          },
+          "coords": [
+            -21.955,
+            64.068
+          ],
+          "category": "museums",
+          "arrive_at": "11:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Prüfen Sie den aktuellen Ausstellungsplan; es gibt oft moderne isländische Kunst zu sehen.",
+            "hu": "Ellenőrizze az aktuális kiállítási programot; gyakran látható itt modern izlandi művészet.",
+            "ro": "Verificați programul expozițional; adesea prezintă artă islandeză modernă.",
+            "en": "Check the current exhibition schedule; they often feature modern Icelandic art."
+          }
+        },
+        {
+          "name": {
+            "de": "Fríkirkjan í Hafnarfirði",
+            "hu": "Hafnarfjörðuri Szabadtemplom",
+            "ro": "Biserica Liberă din Hafnarfjörður",
+            "en": "The Free Church in Hafnarfjörður"
+          },
+          "coords": [
+            -21.953,
+            64.065
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Eine kleine, aber architektonisch interessante Kirche im Herzen der Stadt.",
+            "hu": "Egy kicsi, de építészetileg érdekes templom a város szívében.",
+            "ro": "O biserică mică, dar interesantă din punct de vedere arhitectural, în inima orașului.",
+            "en": "A small but architecturally interesting church in the heart of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Fjörukráin - Wikinger-Restaurant",
+            "hu": "Fjörukráin - Viking Étterem",
+            "ro": "Fjörukráin - Restaurantul Vikingilor",
+            "en": "Fjörukráin - The Viking Restaurant"
+          },
+          "coords": [
+            -21.958,
+            64.069
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ideal für ein thematisches Mittagessen. Auch wenn Sie nicht essen, ist das Gebäude sehenswert.",
+            "hu": "Ideális egy tematikus ebédhez. Még ha nem is eszik, az épületet érdemes megnézni.",
+            "ro": "Ideal pentru un prânz tematic. Chiar dacă nu mâncați, clădirea merită văzută.",
+            "en": "Ideal for a themed lunch. Even if you don't eat, the building is worth seeing."
+          }
+        },
+        {
+          "name": {
+            "de": "Hellisgerði Park",
+            "hu": "Hellisgerði park",
+            "ro": "Parcul Hellisgerði",
+            "en": "Hellisgerði Park"
+          },
+          "coords": [
+            -21.945,
+            64.064
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Dieser Park ist für seine moosbewachsenen Lavaformationen bekannt und gilt als Heimat von Elfen.",
+            "hu": "Ez a park a mohával borított lávaformációiról ismert, és a tündérek otthonának tartják.",
+            "ro": "Acest parc este cunoscut pentru formațiunile sale de lavă acoperite cu mușchi și se crede că este casa elfilor.",
+            "en": "This park is known for its moss-covered lava formations and is believed to be home to elves."
+          }
+        },
+        {
+          "name": {
+            "de": "Der alte Leuchtturm",
+            "hu": "A régi világítótorony",
+            "ro": "Vechiul Far",
+            "en": "The Old Lighthouse"
+          },
+          "coords": [
+            -21.97,
+            64.075
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "16:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort, um den Tag ausklingen zu lassen und die Aussicht auf das Meer zu genießen.",
+            "hu": "Tökéletes hely a nap lezárásához és a tengeri kilátás élvezetéhez.",
+            "ro": "Un loc perfect pentru a încheia ziua și a vă bucura de vederea la mare.",
+            "en": "A perfect spot to end the day and enjoy the view of the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Hafnarfjörður beginnt am lebhaften Hafen, wo die salzige Meeresluft Sie begrüßt. Sie schlendern durch die Straßen, entdecken die reiche Geschichte in den Museen der Stadt und bewundern die schlichte Eleganz der örtlichen Kirche. Am Mittag tauchen Sie in die Welt der Wikinger ein und genießen ein herzhaftes Mahl im Fjörukráin. Der Nachmittag gehört der Natur und der isländischen Folklore, während Sie durch den mystischen Hellisgerði-Park spazieren, ein Ort, an dem sich Elfen und Menschen nahe sein sollen. Der Spaziergang führt Sie schließlich zum alten Leuchtturm, wo Sie bei einem atemberaubenden Blick auf den Atlantik den Tag Revue passieren lassen und die Ruhe des Ozeans auf sich wirken lassen.",
+        "hu": "A nap Hafnarfjörðurban a nyüzsgő kikötőben kezdődik, ahol a sós tengeri levegő köszönti. Végigsétál az utcákon, felfedezi a város gazdag történelmét a múzeumokban, és megcsodálja a helyi templom egyszerű eleganciáját. Délben elmerül a vikingek világában, és egy kiadós ebédet fogyaszt a Fjörukráinban. A délután a természeté és az izlandi folklóré, miközben a misztikus Hellisgerði parkban sétál, egy helyen, ahol állítólag tündérek és emberek találkoznak. A séta végül a régi világítótoronyhoz vezet, ahol az Atlanti-óceánra nyíló lélegzetelállító kilátás mellett tekinthet vissza a napra, és élvezheti az óceán nyugalmát.",
+        "ro": "Ziua dvs. în Hafnarfjörður începe în portul plin de viață, unde aerul sărat al mării vă întâmpină. Vă plimbați pe străzi, descoperind istoria bogată în muzeele orașului și admirând eleganța simplă a bisericii locale. La prânz, vă scufundați în lumea vikingilor pentru o masă copioasă la Fjörukráin. După-amiaza este dedicată naturii și folclorului islandez în timp ce vă plimbați prin parcul mistic Hellisgerði, un loc unde se spune că elfii și oamenii sunt aproape. Plimbarea vă duce în cele din urmă la vechiul far, unde puteți reflecta asupra zilei cu o vedere uluitoare la Atlantic și puteți absorbi liniștea oceanului.",
+        "en": "Your day in Hafnarfjörður begins at the lively harbor, where the salty sea air greets you. You'll stroll through the streets, discovering the rich history in the town's museums and admiring the simple elegance of the local church. At noon, you'll dive into the world of Vikings for a hearty meal at Fjörukráin. The afternoon is dedicated to nature and Icelandic folklore as you wander through the mystical Hellisgerði park, a place where elves and humans are said to be close. The walk finally takes you to the old lighthouse, where you can reflect on the day with a breathtaking view of the Atlantic and soak in the tranquility of the ocean."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kjötsúpa (Lammfleischsuppe)",
+            "tip": "Ein wärmender isländischer Klassiker, perfekt nach einem Spaziergang am Hafen."
+          },
+          {
+            "name": "Frischer Fisch",
+            "tip": "Probieren Sie den Fang des Tages in einem der Restaurants am Hafen."
+          },
+          {
+            "name": "Skyr",
+            "tip": "Ein proteinreicher, joghurtähnlicher Snack, oft mit Beeren serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kjötsúpa (Bárányhúsleves)",
+            "tip": "Egy melengető izlandi klasszikus, tökéletes egy kikötői séta után."
+          },
+          {
+            "name": "Friss hal",
+            "tip": "Kóstolja meg a nap fogását az egyik kikötői étteremben."
+          },
+          {
+            "name": "Skyr",
+            "tip": "Fehérjében gazdag, joghurthoz hasonló snack, gyakran bogyós gyümölcsökkel tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kjötsúpa (Supă de miel)",
+            "tip": "Un preparat islandez clasic și încălzitor, perfect după o plimbare în port."
+          },
+          {
+            "name": "Pește proaspăt",
+            "tip": "Încercați captura zilei la unul dintre restaurantele din port."
+          },
+          {
+            "name": "Skyr",
+            "tip": "O gustare bogată în proteine, asemănătoare iaurtului, adesea servită cu fructe de pădure."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kjötsúpa (Lamb soup)",
+            "tip": "A warming Icelandic classic, perfect after a walk by the harbor."
+          },
+          {
+            "name": "Fresh Fish",
+            "tip": "Try the catch of the day in one of the harbor-side restaurants."
+          },
+          {
+            "name": "Skyr",
+            "tip": "A high-protein, yogurt-like snack, often served with berries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hellisgerði Park",
+            "tip": "Finden Sie eine ruhige Ecke zwischen den Lavafelsen und genießen Sie die Stille.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Küste bei Sjávargata",
+            "tip": "Setzen Sie sich auf eine Bank und schauen Sie den Wellen zu.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Víðistaðatún Park",
+            "tip": "Ein weitläufiger Park, ideal für einen entspannten Spaziergang.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hellisgerði park",
+            "tip": "Keressen egy csendes zugot a lávasziklák között, és élvezze a csendet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Part a Sjávargata közelében",
+            "tip": "Üljön le egy padra, és nézze a hullámokat.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Víðistaðatún park",
+            "tip": "Egy tágas park, ideális egy pihentető sétához.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Hellisgerði",
+            "tip": "Găsiți un colț liniștit printre stâncile de lavă și bucurați-vă de tăcere.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Coasta lângă Sjávargata",
+            "tip": "Așezați-vă pe o bancă și priviți valurile.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Víðistaðatún",
+            "tip": "Un parc vast, ideal pentru o plimbare relaxantă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hellisgerði Park",
+            "tip": "Find a quiet corner among the lava rocks and enjoy the silence.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Coastline by Sjávargata",
+            "tip": "Sit on a bench and watch the waves.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Víðistaðatún Park",
+            "tip": "A spacious park, ideal for a relaxing walk.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Isländischer Wollpullover (Lopapeysa)",
+            "tip": "Ein authentisches und warmes Souvenir. Suchen Sie nach handgestrickten Stücken."
+          },
+          {
+            "name": "Lava-Schmuck",
+            "tip": "Einzigartiger Schmuck aus poliertem Vulkangestein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Izlandi gyapjúpulóver (Lopapeysa)",
+            "tip": "Autentikus és meleg szuvenír. Keressen kézzel kötött darabokat."
+          },
+          {
+            "name": "Láva ékszerek",
+            "tip": "Egyedi ékszerek csiszolt vulkáni kőzetből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pulover de lână islandez (Lopapeysa)",
+            "tip": "Un suvenir autentic și călduros. Căutați piese tricotate manual."
+          },
+          {
+            "name": "Bijuterii din lavă",
+            "tip": "Bijuterii unice realizate din rocă vulcanică lustruită."
+          }
+        ],
+        "en": [
+          {
+            "name": "Icelandic Wool Sweater (Lopapeysa)",
+            "tip": "An authentic and warm souvenir. Look for hand-knitted pieces."
+          },
+          {
+            "name": "Lava Jewelry",
+            "tip": "Unique jewelry made from polished volcanic rock."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme und wasserdichte Schuhe, das Wetter kann sich schnell ändern.",
+          "Eine wiederverwendbare Wasserflasche ist nützlich; das isländische Leitungswasser ist von ausgezeichneter Qualität.",
+          "Halten Sie Ausschau nach kleinen Schildern, die auf die Wohnorte der 'Huldufólk' (verstecktes Volk) hinweisen."
+        ],
+        "hu": [
+          "Viseljen kényelmes és vízálló cipőt, az időjárás gyorsan változhat.",
+          "Egy újrafelhasználható vizes palack hasznos; az izlandi csapvíz kiváló minőségű.",
+          "Figyeljen a kis táblákra, amelyek a 'Huldufólk' (rejtett nép) lakóhelyeit jelzik."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă și impermeabilă, vremea se poate schimba rapid.",
+          "O sticlă de apă reutilizabilă este utilă; apa de la robinet din Islanda este de o calitate excelentă.",
+          "Fiți atenți la micile semne care indică locuințele 'Huldufólk' (oamenii ascunși)."
+        ],
+        "en": [
+          "Wear comfortable and waterproof shoes, the weather can change quickly.",
+          "A reusable water bottle is useful; Icelandic tap water is of excellent quality.",
+          "Look out for small signs indicating the homes of the 'Huldufólk' (hidden people)."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 8.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Víðistaðatún Skulpturenpark",
+            "hu": "Víðistaðatún Szoborpark",
+            "ro": "Parcul de Sculpturi Víðistaðatún",
+            "en": "Víðistaðatún Sculpture Park"
+          },
+          "coords": [
+            -21.93,
+            64.069
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einer künstlerischen Radtour durch diesen weitläufigen Park.",
+            "hu": "Kezdje a napot egy művészi kerékpártúrával ebben a tágas parkban.",
+            "ro": "Începeți ziua cu o plimbare artistică cu bicicleta prin acest parc spațios.",
+            "en": "Start your day with an artistic bike ride through this spacious park."
+          }
+        },
+        {
+          "name": {
+            "de": "Hellisgerði Park",
+            "hu": "Hellisgerði park",
+            "ro": "Parcul Hellisgerði",
+            "en": "Hellisgerði Park"
+          },
+          "coords": [
+            -21.945,
+            64.064
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:16",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie die mystischen Lavafelder zu Fuß.",
+            "hu": "Tegye le a biciklit, és fedezze fel gyalog a misztikus lávamezőket.",
+            "ro": "Lăsați bicicleta și explorați câmpurile de lavă mistice pe jos.",
+            "en": "Park your bike and explore the mystical lava fields on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Fríkirkjan í Hafnarfirði",
+            "hu": "Hafnarfjörðuri Szabadtemplom",
+            "ro": "Biserica Liberă din Hafnarfjörður",
+            "en": "The Free Church in Hafnarfjörður"
+          },
+          "coords": [
+            -21.953,
+            64.065
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:21",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Halt, um die moderne Architektur dieser Kirche zu bewundern.",
+            "hu": "Egy rövid megálló, hogy megcsodálja ennek a templomnak a modern építészetét.",
+            "ro": "O oprire scurtă pentru a admira arhitectura modernă a acestei biserici.",
+            "en": "A quick stop to admire the modern architecture of this church."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafnarborg - Kulturzentrum",
+            "hu": "Hafnarborg - Kulturális Központ",
+            "ro": "Hafnarborg - Centrul Cultural",
+            "en": "Hafnarborg - The Cultural Centre"
+          },
+          "coords": [
+            -21.955,
+            64.068
+          ],
+          "category": "museums",
+          "arrive_at": "11:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Eine Dosis moderner Kunst, bevor es zum Mittagessen geht.",
+            "hu": "Egy adag modern művészet ebéd előtt.",
+            "ro": "O doză de artă modernă înainte de prânz.",
+            "en": "A dose of modern art before heading to lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Hafen",
+            "hu": "Ebéd a kikötőben",
+            "ro": "Prânz în port",
+            "en": "Lunch at the Harbour"
+          },
+          "coords": [
+            -21.96,
+            64.07
+          ],
+          "category": "gastro",
+          "arrive_at": "12:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Wählen Sie ein Restaurant mit Blick auf das Wasser für ein authentisches Erlebnis.",
+            "hu": "Válasszon egy vízre néző éttermet az autentikus élményért.",
+            "ro": "Alegeți un restaurant cu vedere la apă pentru o experiență autentică.",
+            "en": "Choose a restaurant with a view of the water for an authentic experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafnarfjörður Museum",
+            "hu": "Hafnarfjörðuri Múzeum",
+            "ro": "Muzeul Hafnarfjörður",
+            "en": "Hafnarfjörður Museum"
+          },
+          "coords": [
+            -21.956,
+            64.067
+          ],
+          "category": "museums",
+          "arrive_at": "14:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Nach dem Mittagessen tauchen Sie in die faszinierende Vergangenheit der Stadt ein.",
+            "hu": "Ebéd után merüljön el a város lenyűgöző múltjában.",
+            "ro": "După prânz, scufundați-vă în trecutul fascinant al orașului.",
+            "en": "After lunch, dive into the town's fascinating past."
+          }
+        },
+        {
+          "name": {
+            "de": "Fjörukráin",
+            "hu": "Fjörukráin",
+            "ro": "Fjörukráin",
+            "en": "Fjörukráin"
+          },
+          "coords": [
+            -21.958,
+            64.069
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:37",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Fotostopp bei diesem einzigartigen Wikinger-Gebäude.",
+            "hu": "Tartson egy rövid fotómegállót ennél az egyedülálló viking épületnél.",
+            "ro": "Faceți o scurtă oprire pentru fotografii la această clădire unică a vikingilor.",
+            "en": "Make a quick photo stop at this unique Viking building."
+          }
+        },
+        {
+          "name": {
+            "de": "Der alte Leuchtturm",
+            "hu": "A régi világítótorony",
+            "ro": "Vechiul Far",
+            "en": "The Old Lighthouse"
+          },
+          "coords": [
+            -21.97,
+            64.075
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "16:22",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Die letzte Etappe Ihrer Radtour führt Sie zur Küste für einen spektakulären Ausblick.",
+            "hu": "A kerékpártúra utolsó szakasza a parthoz vezet, ahonnan látványos a kilátás.",
+            "ro": "Ultima etapă a turului cu bicicleta vă duce la coastă pentru o priveliște spectaculoasă.",
+            "en": "The final leg of your bike tour takes you to the coast for a spectacular view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und beginnen Sie den Tag im weitläufigen Skulpturenpark Víðistaðatún. Die Route führt Sie durch den geheimnisvollen Hellisgerði-Park, bevor Sie das Stadtzentrum mit seiner Kirche und dem Kulturzentrum Hafnarborg erreichen. Nach einer Dosis Kunst und Kultur stärken Sie sich bei einem Mittagessen am Hafen mit Blick auf die Schiffe. Am Nachmittag erkunden Sie die lokale Geschichte im Hafnarfjörður Museum und werfen einen Blick auf das berühmte Wikingerdorf Fjörukráin. Die Tour endet mit einer belebenden Fahrt entlang der Küste zum alten Leuchtturm, wo die Weite des Ozeans einen unvergesslichen Abschluss des Tages bildet.",
+        "hu": "Pattanjon biciklire, és kezdje a napot a tágas Víðistaðatún szoborparkban. Az útvonal a titokzatos Hellisgerði parkon keresztül vezet, mielőtt elérné a városközpontot a templommal és a Hafnarborg kulturális központtal. Egy adag művészet és kultúra után a kikötőben ebédel, kilátással a hajókra. Délután a Hafnarfjörður Múzeumban fedezi fel a helyi történelmet, és vet egy pillantást a híres Fjörukráin viking falura. A túra egy élénkítő tekeréssel zárul a part mentén a régi világítótoronyig, ahol az óceán végtelensége felejthetetlen lezárást ad a napnak.",
+        "ro": "Urcați-vă pe bicicletă și începeți ziua în vastul parc de sculpturi Víðistaðatún. Traseul vă duce prin misteriosul parc Hellisgerði înainte de a ajunge în centrul orașului cu biserica sa și centrul cultural Hafnarborg. După o doză de artă și cultură, vă reîncărcați cu un prânz în port, cu vedere la nave. După-amiaza, explorați istoria locală la Muzeul Hafnarfjörður și aruncați o privire la faimosul sat viking Fjörukráin. Turul se încheie cu o plimbare revigorantă de-a lungul coastei până la vechiul far, unde întinderea oceanului oferă un final de neuitat al zilei.",
+        "en": "Hop on your bike and start the day in the spacious Víðistaðatún Sculpture Park. The route takes you through the mysterious Hellisgerði Park before reaching the city center with its church and the Hafnarborg cultural center. After a dose of art and culture, refuel with lunch at the harbor overlooking the ships. In the afternoon, explore local history at the Hafnarfjörður Museum and take a look at the famous Viking village Fjörukráin. The tour ends with an invigorating ride along the coast to the old lighthouse, where the vastness of the ocean provides an unforgettable end to the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Plokkfiskur",
+            "tip": "Ein traditionelles isländisches Fischgericht, cremig und sättigend."
+          },
+          {
+            "name": "Rugbrauð",
+            "tip": "Dunkles, süßliches Roggenbrot, das oft in geothermischer Hitze gebacken wird."
+          },
+          {
+            "name": "Brennivín",
+            "tip": "Der isländische 'Schwarze Tod', ein Kümmelschnaps, den man probiert haben sollte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plokkfiskur",
+            "tip": "Hagyományos izlandi halétel, krémes és laktató."
+          },
+          {
+            "name": "Rugbrauð",
+            "tip": "Sötét, édeskés rozskenyér, amelyet gyakran geotermikus hővel sütnek."
+          },
+          {
+            "name": "Brennivín",
+            "tip": "Az izlandi 'Fekete Halál', egy köménypálinka, amit érdemes megkóstolni."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plokkfiskur",
+            "tip": "Un fel de mâncare tradițional islandez cu pește, cremos și sățios."
+          },
+          {
+            "name": "Rugbrauð",
+            "tip": "Pâine de secară închisă la culoare, dulceagă, adesea coaptă în căldură geotermală."
+          },
+          {
+            "name": "Brennivín",
+            "tip": "„Moartea Neagră” islandeză, un rachiu de chimen care trebuie încercat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Plokkfiskur",
+            "tip": "A traditional Icelandic fish stew, creamy and filling."
+          },
+          {
+            "name": "Rugbrauð",
+            "tip": "Dark, sweet rye bread, often baked using geothermal heat."
+          },
+          {
+            "name": "Brennivín",
+            "tip": "The Icelandic 'Black Death', a caraway-flavored schnapps worth trying."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Uferweg",
+            "tip": "Die Radstrecke entlang der Küste bietet viele ruhige Momente.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Víðistaðatún Park",
+            "tip": "Abseits der Skulpturen gibt es viele friedliche Wiesen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick vom Leuchtturm",
+            "tip": "Ein Ort der Ruhe mit endlosem Blick auf den Horizont.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parti út",
+            "tip": "A tengerpart menti kerékpárút sok csendes pillanatot kínál.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Víðistaðatún park",
+            "tip": "A szobroktól távol számos békés rét található.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a világítótoronytól",
+            "tip": "A nyugalom helye, végtelen kilátással a horizontra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de coastă",
+            "tip": "Traseul de ciclism de-a lungul coastei oferă multe momente liniștite.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Parcul Víðistaðatún",
+            "tip": "Departe de sculpturi, există multe pajiști liniștite.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de la far",
+            "tip": "Un loc de liniște cu o priveliște nesfârșită spre orizont.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Coastal Path",
+            "tip": "The cycling route along the coast offers many quiet moments.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Víðistaðatún Park",
+            "tip": "Away from the sculptures, there are many peaceful meadows.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the Lighthouse",
+            "tip": "A place of tranquility with an endless view of the horizon.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handgefertigte Keramik",
+            "tip": "Lokale Künstler bieten oft einzigartige Stücke an, die von der isländischen Natur inspiriert sind."
+          },
+          {
+            "name": "Bücher über Elfen und Sagen",
+            "tip": "Hafnarfjörður ist bekannt als Elfenstadt, ein perfektes Mitbringsel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézzel készített kerámia",
+            "tip": "A helyi művészek gyakran kínálnak egyedi, az izlandi természet által ihletett darabokat."
+          },
+          {
+            "name": "Könyvek tündérekről és mondákról",
+            "tip": "Hafnarfjörður tündérvárosként ismert, tökéletes szuvenír."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică artizanală",
+            "tip": "Artiștii locali oferă adesea piese unice inspirate de natura islandeză."
+          },
+          {
+            "name": "Cărți despre elfi și legende",
+            "tip": "Hafnarfjörður este cunoscut ca orașul elfilor, un suvenir perfect."
+          }
+        ],
+        "en": [
+          {
+            "name": "Handmade Ceramics",
+            "tip": "Local artists often offer unique pieces inspired by Icelandic nature."
+          },
+          {
+            "name": "Books on Elves and Sagas",
+            "tip": "Hafnarfjörður is known as the town of elves, a perfect souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck und die Bremsen vor der Abfahrt.",
+          "Ein Helm wird dringend empfohlen.",
+          "Nutzen Sie die ausgewiesenen Radwege, wo immer es möglich ist, besonders entlang der Küste.",
+          "Nehmen Sie Snacks und Wasser mit, da die Strecken zwischen den Stopps länger sind."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást és a fékeket.",
+          "Sisak viselése erősen ajánlott.",
+          "Használja a kijelölt kerékpárutakat, ahol csak lehetséges, különösen a part mentén.",
+          "Vigyen magával harapnivalót és vizet, mivel a megállók közötti távolságok hosszabbak."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor și frânele înainte de a pleca.",
+          "Purtarea căștii este foarte recomandată.",
+          "Folosiți pistele de biciclete desemnate ori de câte ori este posibil, în special de-a lungul coastei.",
+          "Luați gustări și apă, deoarece distanțele dintre opriri sunt mai lungi."
+        ],
+        "en": [
+          "Check your tire pressure and brakes before you set off.",
+          "A helmet is highly recommended.",
+          "Use designated bike paths wherever possible, especially along the coast.",
+          "Bring snacks and water, as the distances between stops are longer."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Víðistaðatún & Hellisgerði",
+            "hu": "1. Klaszter: Víðistaðatún & Hellisgerði",
+            "ro": "Cluster 1: Víðistaðatún & Hellisgerði",
+            "en": "Cluster 1: Víðistaðatún & Hellisgerði"
+          },
+          "coords": [
+            -21.93,
+            64.069
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie beide Parks zu Fuß.",
+            "hu": "Parkoljon itt, és fedezze fel mindkét parkot gyalog.",
+            "ro": "Parcați aici și explorați ambele parcuri pe jos.",
+            "en": "Park here and explore both parks on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Hellisgerði Park",
+            "hu": "Hellisgerði park",
+            "ro": "Parcul Hellisgerði",
+            "en": "Hellisgerði Park"
+          },
+          "coords": [
+            -21.945,
+            64.064
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Spaziergang von Víðistaðatún hierher ist angenehm und führt durch Wohngebiete.",
+            "hu": "A séta Víðistaðatúnból idáig kellemes, és lakónegyedeken vezet keresztül.",
+            "ro": "Plimbarea de la Víðistaðatún până aici este plăcută și trece prin zone rezidențiale.",
+            "en": "The walk from Víðistaðatún to here is pleasant, passing through residential areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Zentrum & Hafen",
+            "hu": "2. Klaszter: Központ és Kikötő",
+            "ro": "Cluster 2: Centru și Port",
+            "en": "Cluster 2: Center & Harbour"
+          },
+          "coords": [
+            -21.956,
+            64.067
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Finden Sie einen Parkplatz im Zentrum und erkunden Sie den Rest des Tages zu Fuß.",
+            "hu": "Keressen egy parkolót a központban, és a nap hátralévő részét gyalog fedezze fel.",
+            "ro": "Găsiți un loc de parcare în centru și explorați restul zilei pe jos.",
+            "en": "Find a parking spot in the center and explore for the rest of the day on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafnarborg & Hafnarfjörður Museum",
+            "hu": "Hafnarborg és Hafnarfjörður Múzeum",
+            "ro": "Hafnarborg & Muzeul Hafnarfjörður",
+            "en": "Hafnarborg & Hafnarfjörður Museum"
+          },
+          "coords": [
+            -21.955,
+            64.068
+          ],
+          "category": "museums",
+          "arrive_at": "13:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden liegen nebeneinander, ideal für einen kombinierten Kulturbesuch.",
+            "hu": "Ez a kettő egymás mellett található, ideális egy kombinált kulturális látogatáshoz.",
+            "ro": "Acestea două sunt una lângă alta, ideale pentru o vizită culturală combinată.",
+            "en": "These two are next to each other, ideal for a combined cultural visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen (z.B. Fjörukráin)",
+            "hu": "Ebéd (pl. Fjörukráin)",
+            "ro": "Prânz (de ex. Fjörukráin)",
+            "en": "Lunch (e.g., Fjörukráin)"
+          },
+          "coords": [
+            -21.958,
+            64.069
+          ],
+          "category": "gastro",
+          "arrive_at": "14:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Wikinger-Restaurant ist nur einen kurzen Spaziergang vom Museumsviertel entfernt.",
+            "hu": "A viking étterem csak egy rövid sétára van a múzeumi negyedtől.",
+            "ro": "Restaurantul vikingilor este la o scurtă plimbare de cartierul muzeelor.",
+            "en": "The Viking restaurant is just a short walk from the museum district."
+          }
+        },
+        {
+          "name": {
+            "de": "Sjávargata & Hafen",
+            "hu": "Sjávargata és Kikötő",
+            "ro": "Sjávargata și Portul",
+            "en": "Sjávargata & Harbour"
+          },
+          "coords": [
+            -21.96,
+            64.07
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein verdauungsfördernder Spaziergang entlang der Küste.",
+            "hu": "Egy emésztést segítő séta a part mentén.",
+            "ro": "O plimbare digestivă de-a lungul coastei.",
+            "en": "A digestive stroll along the coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Der alte Leuchtturm",
+            "hu": "3. Klaszter: A régi világítótorony",
+            "ro": "Cluster 3: Vechiul Far",
+            "en": "Cluster 3: The Old Lighthouse"
+          },
+          "coords": [
+            -21.97,
+            64.075
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "16:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Abschluss des Tages zum Leuchtturm für einen weiten Blick.",
+            "hu": "A nap végén vezessen el a világítótoronyhoz a széles kilátásért.",
+            "ro": "La sfârșitul zilei, conduceți la far pentru o priveliște panoramică.",
+            "en": "Drive to the lighthouse at the end of the day for a wide view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit dem Auto folgt einer 'Park & Walk'-Philosophie. Sie beginnen in den grünen Lungen der Stadt, parken Ihr Auto und erkunden zu Fuß den Skulpturenpark Víðistaðatún und den benachbarten, mystischen Hellisgerði-Park. Anschließend fahren Sie ins Zentrum, wo Sie für den Rest des Tages parken. Ein Spaziergang führt Sie zum Kulturcluster mit Hafnarborg und dem Stadtmuseum. Nach einem thematischen Wikinger-Mittagessen schlendern Sie am Hafen entlang. Die letzte Autofahrt des Tages bringt Sie zum alten Leuchtturm, ein perfekter Ort, um den Sonnenuntergang über dem Atlantik zu beobachten und die Erlebnisse des Tages zu verarbeiten.",
+        "hu": "Az autós napja a 'Parkolj és Sétálj' filozófiát követi. A város zöld területein kezdi, leparkolja az autót, és gyalog fedezi fel a Víðistaðatún szoborparkot és a szomszédos, misztikus Hellisgerði parkot. Ezután a központba hajt, ahol a nap hátralévő részére parkol. Egy séta elvezeti a kulturális klaszterhez a Hafnaborggal és a városi múzeummal. Egy tematikus viking ebéd után a kikötőben sétál. A nap utolsó autózása a régi világítótoronyhoz viszi, amely tökéletes hely az Atlanti-óceán feletti naplemente megfigyelésére és a napi élmények feldolgozására.",
+        "ro": "Ziua dvs. cu mașina urmează o filozofie „parchează și mergi”. Începeți în plămânii verzi ai orașului, parcați mașina și explorați pe jos parcul de sculpturi Víðistaðatún și parcul mistic adiacent, Hellisgerði. Apoi, conduceți în centru, unde parcați pentru restul zilei. O plimbare vă duce la clusterul cultural cu Hafnarborg și muzeul orașului. După un prânz tematic viking, vă plimbați de-a lungul portului. Ultima călătorie cu mașina a zilei vă duce la vechiul far, un loc perfect pentru a privi apusul peste Atlantic și a procesa experiențele zilei.",
+        "en": "Your day by car follows a 'park and walk' philosophy. You start in the town's green lungs, parking your car and exploring the Víðistaðatún sculpture park and the adjacent, mystical Hellisgerði park on foot. You then drive to the center, where you'll park for the rest of the day. A walk takes you to the cultural cluster with Hafnarborg and the town museum. After a themed Viking lunch, you'll stroll along the harbor. The last car ride of the day takes you to the old lighthouse, a perfect spot to watch the sunset over the Atlantic and process the day's experiences."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hardfiskur",
+            "tip": "Getrockneter Fisch mit Butter, ein proteinreicher isländischer Snack für unterwegs."
+          },
+          {
+            "name": "Isländisches Craft Beer",
+            "tip": "Probieren Sie Biere von lokalen Brauereien, die es oft in Bars und Restaurants gibt."
+          },
+          {
+            "name": "Fisch des Tages",
+            "tip": "In Hafnarfjörður ist der Fisch immer frisch. Fragen Sie nach der Empfehlung des Küchenchefs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hardfiskur",
+            "tip": "Szárított hal vajjal, egy fehérjében gazdag izlandi snack útközben."
+          },
+          {
+            "name": "Izlandi kézműves sör",
+            "tip": "Kóstolja meg a helyi sörfőzdék söreit, amelyeket gyakran kínálnak bárokban és éttermekben."
+          },
+          {
+            "name": "A nap hala",
+            "tip": "Hafnarfjörðurban a hal mindig friss. Kérdezze meg a séf ajánlatát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hardfiskur",
+            "tip": "Pește uscat cu unt, o gustare islandeză bogată în proteine pentru drum."
+          },
+          {
+            "name": "Berea artizanală islandeză",
+            "tip": "Încercați beri de la berăriile locale, adesea disponibile în baruri și restaurante."
+          },
+          {
+            "name": "Peștele zilei",
+            "tip": "În Hafnarfjörður, peștele este întotdeauna proaspăt. Întrebați de recomandarea bucătarului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hardfiskur",
+            "tip": "Dried fish with butter, a high-protein Icelandic snack for the road."
+          },
+          {
+            "name": "Icelandic Craft Beer",
+            "tip": "Try beers from local breweries, often available in bars and restaurants."
+          },
+          {
+            "name": "Fish of the Day",
+            "tip": "In Hafnarfjörður, the fish is always fresh. Ask for the chef's recommendation."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt bei Víðistaðatún",
+            "tip": "Ein ruhiger Ort am Rande des Parks mit Blick über die Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Die Felsenküste",
+            "tip": "Nehmen Sie sich Zeit für einen Halt auf dem Weg zum Leuchtturm und lauschen Sie den Wellen.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Friedhof bei der Fríkirkjan",
+            "tip": "Ein Ort der Stille und Besinnung im Herzen der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátó a Víðistaðatúnnál",
+            "tip": "Egy csendes hely a park szélén, kilátással a városra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A sziklás part",
+            "tip": "Szánjon időt egy megállóra a világítótorony felé vezető úton, és hallgassa a hullámokat.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Temető a Fríkirkjan mellett",
+            "tip": "A csend és az elmélkedés helye a város szívében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere la Víðistaðatún",
+            "tip": "Un loc liniștit la marginea parcului cu vedere spre oraș.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Coasta stâncoasă",
+            "tip": "Luați-vă timp pentru o oprire în drum spre far și ascultați valurile.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Cimitirul de lângă Fríkirkjan",
+            "tip": "Un loc de liniște și contemplare în inima orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint at Víðistaðatún",
+            "tip": "A quiet spot on the edge of the park with a view over the town.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The rocky coast",
+            "tip": "Take time for a stop on the way to the lighthouse and listen to the waves.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Cemetery by the Fríkirkjan",
+            "tip": "A place of silence and contemplation in the heart of the town.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wikingerschmuck",
+            "tip": "Passend zum Fjörukráin-Erlebnis finden Sie hier Repliken von Wikingerschmuck."
+          },
+          {
+            "name": "Isländisches Salz",
+            "tip": "Ein Gourmet-Souvenir, oft mit arktischen Kräutern oder Lavasalz verfeinert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Viking ékszerek",
+            "tip": "A Fjörukráin-élményhez illően itt viking ékszerek másolatait találja."
+          },
+          {
+            "name": "Izlandi só",
+            "tip": "Gourmet szuvenír, gyakran sarkvidéki gyógynövényekkel vagy lávasóval finomítva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bijuterii vikinge",
+            "tip": "Potrivite cu experiența Fjörukráin, aici puteți găsi replici ale bijuteriilor vikinge."
+          },
+          {
+            "name": "Sare islandeză",
+            "tip": "Un suvenir gourmet, adesea rafinat cu ierburi arctice sau sare de lavă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Viking jewelry",
+            "tip": "Matching the Fjörukráin experience, you can find replicas of Viking jewelry here."
+          },
+          {
+            "name": "Icelandic Salt",
+            "tip": "A gourmet souvenir, often refined with arctic herbs or lava salt."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich über die Parkregelungen und -gebühren im Stadtzentrum.",
+          "Achten Sie auf Geschwindigkeitsbegrenzungen, die in Wohngebieten oft niedrig sind.",
+          "Ein GPS oder eine Navigations-App ist hilfreich, um die verschiedenen Cluster zu finden.",
+          "Behalten Sie das Wetter im Auge; auch bei einer Autotour werden Sie viel Zeit im Freien verbringen."
+        ],
+        "hu": [
+          "Tájékozódjon a parkolási szabályokról és díjakról a városközpontban.",
+          "Ügyeljen a sebességkorlátozásokra, amelyek a lakóövezetekben gyakran alacsonyak.",
+          "GPS vagy navigációs alkalmazás segít a különböző klaszterek megtalálásában.",
+          "Tartsa szemmel az időjárást; még egy autós túra során is sok időt fog a szabadban tölteni."
+        ],
+        "ro": [
+          "Informați-vă despre regulile și taxele de parcare în centrul orașului.",
+          "Fiți atenți la limitele de viteză, care sunt adesea scăzute în zonele rezidențiale.",
+          "Un GPS sau o aplicație de navigație este utilă pentru a găsi diferitele clustere.",
+          "Fiți cu ochii pe vreme; chiar și într-un tur cu mașina, veți petrece mult timp în aer liber."
+        ],
+        "en": [
+          "Find out about parking regulations and fees in the city center.",
+          "Pay attention to speed limits, which are often low in residential areas.",
+          "A GPS or navigation app is helpful for finding the different clusters.",
+          "Keep an eye on the weather; even on a car tour, you'll be spending a lot of time outdoors."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 5.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Hafen & Zentrum",
+            "hu": "1. Klaszter: Kikötő és Központ",
+            "ro": "Cluster 1: Port și Centru",
+            "en": "Cluster 1: Harbour & Centre"
+          },
+          "coords": [
+            -21.96,
+            64.07
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Starten Sie am Hafen, der gut mit dem Bus erreichbar ist.",
+            "hu": "Kezdje a kikötőben, amely busszal könnyen megközelíthető.",
+            "ro": "Începeți din port, care este ușor accesibil cu autobuzul.",
+            "en": "Start at the harbor, which is easily accessible by bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafnarborg & Museen",
+            "hu": "Hafnarborg és Múzeumok",
+            "ro": "Hafnarborg și Muzee",
+            "en": "Hafnarborg & Museums"
+          },
+          "coords": [
+            -21.956,
+            64.067
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Hafen aus ist es ein kurzer Spaziergang zum Museumskomplex.",
+            "hu": "A kikötőtől rövid séta vezet a múzeumkomplexumhoz.",
+            "ro": "De la port, este o scurtă plimbare până la complexul muzeal.",
+            "en": "From the harbor, it's a short walk to the museum complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagspause im Zentrum",
+            "hu": "Ebédszünet a központban",
+            "ro": "Pauză de prânz în centru",
+            "en": "Lunch break in the center"
+          },
+          "coords": [
+            -21.954,
+            64.066
+          ],
+          "category": "gastro",
+          "arrive_at": "12:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Es gibt viele Cafés und Restaurants rund um die Kirche.",
+            "hu": "A templom körül számos kávézó és étterem található.",
+            "ro": "Există multe cafenele și restaurante în jurul bisericii.",
+            "en": "There are many cafes and restaurants around the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Parks",
+            "hu": "2. Klaszter: Parkok",
+            "ro": "Cluster 2: Parcuri",
+            "en": "Cluster 2: Parks"
+          },
+          "coords": [
+            -21.945,
+            64.064
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Zentrum zum Hellisgerði-Park.",
+            "hu": "Menjen busszal a központból a Hellisgerði parkba.",
+            "ro": "Luați un autobuz din centru spre Parcul Hellisgerði.",
+            "en": "Take a bus from the center to Hellisgerði Park."
+          }
+        },
+        {
+          "name": {
+            "de": "Víðistaðatún Skulpturenpark",
+            "hu": "Víðistaðatún Szoborpark",
+            "ro": "Parcul de Sculpturi Víðistaðatún",
+            "en": "Víðistaðatún Sculpture Park"
+          },
+          "coords": [
+            -21.93,
+            64.069
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang verbindet die beiden großen Parks der Stadt.",
+            "hu": "Egy szép séta köti össze a város két nagy parkját.",
+            "ro": "O plimbare frumoasă leagă cele două parcuri mari ale orașului.",
+            "en": "A beautiful walk connects the two large parks of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr zum Hafen",
+            "hu": "Visszatérés a kikötőbe",
+            "ro": "Întoarcere în port",
+            "en": "Return to the Harbour"
+          },
+          "coords": [
+            -21.96,
+            64.07
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zurück zum Hafen, um den Tag am Wasser ausklingen zu lassen.",
+            "hu": "Menjen busszal vissza a kikötőbe, hogy a napot a vízparton fejezze be.",
+            "ro": "Luați un autobuz înapoi în port pentru a încheia ziua pe malul apei.",
+            "en": "Take a bus back to the harbor to end the day by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem öffentlichen Nahverkehr erkunden Sie Hafnarfjörður in zwei großen Etappen. Sie beginnen im Herzen der Stadt, dem Hafenviertel, das Sie bequem mit dem Bus erreichen. Von dort aus erkunden Sie das kulturelle Zentrum mit seinen Museen zu Fuß. Nach einer stärkenden Mittagspause bringt Sie ein Bus zum zweiten Cluster, den weitläufigen Parkanlagen. Sie spazieren vom geheimnisvollen Hellisgerði zum künstlerischen Víðistaðatún-Park. Am späten Nachmittag nehmen Sie den Bus zurück zum Ausgangspunkt am Hafen, wo Sie die maritime Atmosphäre genießen und den Tag in Ruhe ausklingen lassen können.",
+        "hu": "A tömegközlekedéssel két nagy szakaszban fedezi fel Hafnarfjörðurt. A város szívében, a kikötőnegyedben kezd, amelyet kényelmesen elér busszal. Innen gyalogosan fedezi fel a kulturális központot a múzeumokkal. Egy kiadós ebédszünet után egy busz viszi a második klaszterhez, a tágas parkokhoz. A titokzatos Hellisgerðitől a művészi Víðistaðatún parkig sétál. Késő délután busszal tér vissza a kiindulási ponthoz, a kikötőhöz, ahol élvezheti a tengeri hangulatot, és békében zárhatja a napot.",
+        "ro": "Cu transportul public, explorați Hafnarfjörður în două etape majore. Începeți în inima orașului, cartierul portuar, la care ajungeți confortabil cu autobuzul. De acolo, explorați centrul cultural cu muzeele sale pe jos. După o pauză de prânz revigorantă, un autobuz vă duce la al doilea cluster, parcurile extinse. Vă plimbați de la misteriosul Hellisgerði la parcul artistic Víðistaðatún. La sfârșitul după-amiezii, luați autobuzul înapoi la punctul de plecare din port, unde vă puteți bucura de atmosfera maritimă și puteți încheia ziua în liniște.",
+        "en": "Using public transport, you'll explore Hafnarfjörður in two major stages. You start in the heart of the town, the harbor district, which you can comfortably reach by bus. From there, you explore the cultural center with its museums on foot. After a refreshing lunch break, a bus takes you to the second cluster, the spacious parks. You'll walk from the mysterious Hellisgerði to the artistic Víðistaðatún park. In the late afternoon, you take the bus back to the starting point at the harbor, where you can enjoy the maritime atmosphere and end the day in peace."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pylsur (Hotdog)",
+            "tip": "Ein schneller und beliebter isländischer Snack, den man an vielen Ständen findet."
+          },
+          {
+            "name": "Kleina",
+            "tip": "Ein frittiertes, leicht gesüßtes Gebäck, ideal für einen Energieschub am Nachmittag."
+          },
+          {
+            "name": "Kaffee und Kuchen",
+            "tip": "Besuchen Sie eines der gemütlichen Cafés im Zentrum für eine Pause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pylsur (Hot dog)",
+            "tip": "Gyors és népszerű izlandi snack, amelyet sok standnál megtalál."
+          },
+          {
+            "name": "Kleina",
+            "tip": "Sült, enyhén édesített sütemény, ideális délutáni energiafröccsnek."
+          },
+          {
+            "name": "Kávé és sütemény",
+            "tip": "Látogasson el az egyik hangulatos kávézóba a központban egy szünetre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pylsur (Hot dog)",
+            "tip": "O gustare islandeză rapidă și populară, găsită la multe standuri."
+          },
+          {
+            "name": "Kleina",
+            "tip": "O gogoașă prăjită, ușor îndulcită, ideală pentru un plus de energie după-amiaza."
+          },
+          {
+            "name": "Cafea și prăjitură",
+            "tip": "Vizitați una dintre cafenelele primitoare din centru pentru o pauză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pylsur (Hot dog)",
+            "tip": "A quick and popular Icelandic snack, found at many stands."
+          },
+          {
+            "name": "Kleina",
+            "tip": "A fried, lightly sweetened pastry, ideal for an afternoon energy boost."
+          },
+          {
+            "name": "Coffee and Cake",
+            "tip": "Visit one of the cozy cafes in the center for a break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Bank im Hellisgerði-Park",
+            "tip": "Lauschen Sie dem Wind in den Bäumen und zwischen den Lavafelsen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Obere Etage eines Busses",
+            "tip": "Beobachten Sie die Stadt aus einer anderen Perspektive.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Am Ende eines Piers im Hafen",
+            "tip": "Ein ruhiger Ort, um aufs Meer hinauszuschauen.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy pad a Hellisgerði parkban",
+            "tip": "Hallgassa a szél susogását a fák között és a lávasziklák között.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Egy busz emeletén",
+            "tip": "Figyelje a várost egy másik perspektívából.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "A kikötő egyik mólójának végén",
+            "tip": "Csendes hely, ahonnan a tengerre lehet nézni.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă în Parcul Hellisgerði",
+            "tip": "Ascultați vântul printre copaci și printre stâncile de lavă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "La etajul unui autobuz",
+            "tip": "Observați orașul dintr-o altă perspectivă.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "La capătul unui debarcader din port",
+            "tip": "Un loc liniștit pentru a privi marea.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench in Hellisgerði Park",
+            "tip": "Listen to the wind in the trees and among the lava rocks.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Upper deck of a bus",
+            "tip": "Watch the town from a different perspective.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "The end of a pier in the harbour",
+            "tip": "A quiet place to look out to sea.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Kunsthandwerksmärkte",
+            "tip": "Halten Sie Ausschau nach kleinen Märkten oder Pop-up-Läden mit lokalen Produkten."
+          },
+          {
+            "name": "Postkarten",
+            "tip": "Senden Sie Grüße aus der 'Elfenstadt' an Ihre Lieben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves piacok",
+            "tip": "Keresse a kis piacokat vagy pop-up boltokat helyi termékekkel."
+          },
+          {
+            "name": "Képeslapok",
+            "tip": "Küldjön üdvözletet a 'Tündérvárosból' szeretteinek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe locale de artizanat",
+            "tip": "Fiți atenți la piețele mici sau la magazinele pop-up cu produse locale."
+          },
+          {
+            "name": "Cărți poștale",
+            "tip": "Trimiteți felicitări din „Orașul Elfilor” celor dragi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local handicraft markets",
+            "tip": "Look out for small markets or pop-up shops with local products."
+          },
+          {
+            "name": "Postcards",
+            "tip": "Send greetings from the 'Town of Elves' to your loved ones."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte oder nutzen Sie eine App für den öffentlichen Nahverkehr, um Geld zu sparen.",
+          "Prüfen Sie den Busfahrplan im Voraus, besonders an Wochenenden und Feiertagen.",
+          "Seien Sie an der Haltestelle rechtzeitig, die Busse sind in Island oft pünktlich.",
+          "Geben Sie dem Fahrer ein Zeichen, wenn Sie möchten, dass der Bus anhält."
+        ],
+        "hu": [
+          "Vásároljon napijegyet vagy használjon tömegközlekedési alkalmazást a pénzmegtakarítás érdekében.",
+          "Ellenőrizze előre a buszmenetrendet, különösen hétvégén és ünnepnapokon.",
+          "Érkezzen időben a megállóba, a buszok Izlandon gyakran pontosak.",
+          "Jelezzen a sofőrnek, ha azt szeretné, hogy a busz megálljon."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi sau folosiți o aplicație de transport public pentru a economisi bani.",
+          "Verificați programul autobuzelor în avans, în special în weekenduri și de sărbători.",
+          "Fiți la stație la timp, autobuzele din Islanda sunt adesea punctuale.",
+          "Faceți un semn șoferului dacă doriți ca autobuzul să oprească."
+        ],
+        "en": [
+          "Buy a day pass or use a public transport app to save money.",
+          "Check the bus schedule in advance, especially on weekends and holidays.",
+          "Be at the bus stop on time, buses in Iceland are often punctual.",
+          "Signal the driver if you want the bus to stop."
+        ]
+      }
+    }
+  }
+}

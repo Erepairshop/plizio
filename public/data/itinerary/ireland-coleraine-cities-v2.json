@@ -1,0 +1,1204 @@
+{
+  "city_id": "ireland-coleraine-cities-v2",
+  "anchor": {
+    "name": "Coleraine",
+    "coords": [
+      -6.666,
+      55.132
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "15:50",
+      "total_km": 4.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "The Diamond",
+            "hu": "The Diamond tér",
+            "ro": "Piața The Diamond",
+            "en": "The Diamond"
+          },
+          "coords": [
+            -6.6664,
+            55.1325
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Starten Sie hier mit einem Kaffee in einem der örtlichen Cafés, um die Atmosphäre aufzusaugen.",
+            "hu": "Kezdje a napot egy kávéval az egyik helyi kávézóban, hogy magába szívja a hangulatot.",
+            "ro": "Începeți ziua aici cu o cafea la una dintre cafenelele locale pentru a absorbi atmosfera.",
+            "en": "Start here with a coffee from a local café to soak in the morning atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Patrick's Kirche",
+            "hu": "Szent Patrik-templom",
+            "ro": "Biserica Sf. Patriciu",
+            "en": "St. Patrick's Church"
+          },
+          "coords": [
+            -6.6638,
+            55.1332
+          ],
+          "category": "churches",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden Glasfenster und die ruhige Atmosphäre im Inneren.",
+            "hu": "Figyelje meg a lenyűgöző ólomüveg ablakokat és a békés belső atmoszférát.",
+            "ro": "Observați vitraliile impresionante și atmosfera liniștită din interior.",
+            "en": "Pay attention to the impressive stained-glass windows and the serene atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Riverside Theatre",
+            "hu": "Riverside Színház",
+            "ro": "Teatrul Riverside",
+            "en": "Riverside Theatre"
+          },
+          "coords": [
+            -6.6783,
+            55.1381
+          ],
+          "category": "theatres",
+          "arrive_at": "10:45",
+          "stay_min": 20,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie den Spielplan, vielleicht gibt es eine interessante Nachmittagsvorstellung.",
+            "hu": "Nézze meg a programot, hátha van egy érdekes délutáni előadás.",
+            "ro": "Verificați programul; poate prindeți un spectacol interesant de după-amiază.",
+            "en": "Check the schedule; you might catch an interesting afternoon performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Mountsandel Fort",
+            "hu": "Mountsandel erőd",
+            "ro": "Fortul Mountsandel",
+            "en": "Mountsandel Fort"
+          },
+          "coords": [
+            -6.6612,
+            55.1165
+          ],
+          "category": "historical",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tragen Sie festes Schuhwerk, da der Weg zum ältesten bekannten Siedlungsplatz Irlands uneben sein kann.",
+            "hu": "Viseljen erős cipőt, mert az út Írország legrégebbi ismert településéhez egyenetlen lehet.",
+            "ro": "Purtați încălțăminte solidă, deoarece poteca spre cel mai vechi sit arheologic din Irlanda poate fi denivelată.",
+            "en": "Wear sturdy shoes, as the path to Ireland's oldest known settlement site can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Stadt",
+            "hu": "Ebéd a városban",
+            "ro": "Prânz în oraș",
+            "en": "Lunch in Town"
+          },
+          "coords": [
+            -6.6655,
+            55.1319
+          ],
+          "category": "gastro",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie ein lokales Pub für ein herzhaftes Mittagessen und ein Pint.",
+            "hu": "Próbáljon ki egy helyi pubot egy kiadós ebédre és egy korsó sörre.",
+            "ro": "Încercați un pub local pentru un prânz consistent și o halbă de bere.",
+            "en": "Try a local pub for a hearty lunch and a pint."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang durch Coleraine beginnt auf dem belebten The Diamond, dem Herzen der Stadt. Am Vormittag erkunden Sie die spirituelle Ruhe der St. Patrick's Kirche, bevor Sie am Flussufer entlang zum modernen Riverside Theatre schlendern. Der Nachmittag ist einer Zeitreise gewidmet: Sie wandern zum Mountsandel Fort, dem Ort der ersten irischen Siedler, und spüren die tiefen historischen Wurzeln. Nach so viel Geschichte kehren Sie ins Zentrum zurück, um bei einem späten Mittagessen in einem traditionellen Pub die lokalen Aromen zu genießen und den Tag ausklingen zu lassen.",
+        "hu": "Sétája Coleraine-ben a nyüzsgő The Diamond téren, a város szívében kezdődik. A délelőtt folyamán felfedezi a Szent Patrik-templom spirituális nyugalmát, mielőtt a folyóparton a modern Riverside Színházhoz sétálna. A délután egy időutazásé: ellátogat a Mountsandel erődítményhez, az első ír telepesek helyszínére, ahol megérezheti a mély történelmi gyökereket. A sok történelem után térjen vissza a központba egy késői ebédre egy hagyományos pubban, hogy megkóstolja a helyi ízeket és lezárja a napot.",
+        "ro": "Plimbarea dvs. prin Coleraine începe în Piața The Diamond, inima orașului. Dimineața explorați liniștea spirituală a Bisericii Sf. Patriciu, înainte de a vă plimba pe malul râului spre modernul Teatru Riverside. După-amiaza este dedicată unei călătorii în timp: mergeți la Fortul Mountsandel, locul primilor coloniști irlandezi, simțind rădăcinile istorice adânci. După atâta istorie, vă întoarceți în centru pentru un prânz târziu la un pub tradițional, savurând aromele locale pentru a încheia ziua.",
+        "en": "Your walking tour of Coleraine begins in the bustling Diamond, the heart of the town. In the morning, you'll explore the spiritual tranquility of St. Patrick's Church before strolling along the riverside to the modern Riverside Theatre. The afternoon is dedicated to a journey back in time as you hike to Mountsandel Fort, the site of Ireland's first settlers, feeling the deep historical roots. After so much history, return to the center for a late lunch at a traditional pub, savoring local flavors to round off the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ulster Fry",
+            "tip": "Ein Muss für ein herzhaftes Frühstück oder Mittagessen, oft in Cafés rund um The Diamond serviert."
+          },
+          {
+            "name": "Seafood Chowder",
+            "tip": "Obwohl im Landesinneren, bieten viele Pubs exzellente Fischsuppen mit lokalem Brot an."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ulster Fry",
+            "tip": "Kihagyhatatlan, bőséges reggeli vagy ebéd, gyakran kapható a The Diamond környéki kávézókban."
+          },
+          {
+            "name": "Tengeri herkentyű leves (Chowder)",
+            "tip": "Bár a szárazföldön van, sok pub kínál kiváló tengeri levest helyi kenyérrel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulster Fry",
+            "tip": "O necesitate pentru un mic dejun sau prânz copios, adesea servit în cafenelele din jurul The Diamond."
+          },
+          {
+            "name": "Ciorbă de fructe de mare",
+            "tip": "Deși în interiorul uscatului, multe pub-uri oferă ciorbe excelente cu pâine locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ulster Fry",
+            "tip": "A must-try for a hearty breakfast or lunch, often served in cafes around The Diamond."
+          },
+          {
+            "name": "Seafood Chowder",
+            "tip": "Though inland, many pubs offer excellent chowder served with local brown bread."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am River Bann",
+            "tip": "Ein ruhiger Weg abseits des Stadtzentrums, perfekt für eine nachdenkliche Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mountsandel Forest",
+            "tip": "Die Wälder rund um das Fort bieten eine friedliche Flucht.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Bann folyó partján",
+            "tip": "Csendes útvonal a városközponton kívül, tökéletes egy elgondolkodtató szünetre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mountsandel erdő",
+            "tip": "Az erőd körüli erdők békés menedéket nyújtanak.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului Bann",
+            "tip": "O potecă liniștită departe de centrul orașului, perfectă pentru o pauză de reflecție.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pădurea Mountsandel",
+            "tip": "Pădurile din jurul fortului oferă o evadare pașnică.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "River Bann Walk",
+            "tip": "A quiet path away from the town centre, perfect for a thoughtful break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mountsandel Forest",
+            "tip": "The woodlands surrounding the fort offer a peaceful escape.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "The Diamond Boutiquen",
+            "tip": "Entdecken Sie unabhängige Geschäfte mit lokalen Handwerksprodukten und Geschenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Butikok a The Diamond körül",
+            "tip": "Fedezze fel a független boltokat, ahol helyi kézműves termékeket és ajándékokat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Buticurile din The Diamond",
+            "tip": "Explorați magazinele independente pentru meșteșuguri locale și cadouri."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Diamond Boutiques",
+            "tip": "Explore the independent shops for local crafts and gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Coleraine ist kompakt und sehr gut zu Fuß zu erkunden.",
+          "Tragen Sie bequeme Schuhe, besonders für den Spaziergang zum Mountsandel Fort.",
+          "Das Wetter kann sich schnell ändern, eine Regenjacke ist immer eine gute Idee.",
+          "Viele Geschäfte schließen am frühen Abend, also planen Sie Einkäufe für den Nachmittag ein."
+        ],
+        "hu": [
+          "Coleraine kompakt és nagyon jól bejárható gyalog.",
+          "Viseljen kényelmes cipőt, különösen a Mountsandel erődhöz vezető sétához.",
+          "Az időjárás gyorsan változhat, egy esőkabát mindig jó ötlet.",
+          "Sok üzlet kora este bezár, ezért a vásárlást tervezze délutánra."
+        ],
+        "ro": [
+          "Coleraine este compact și foarte ușor de parcurs pe jos.",
+          "Purtați încălțăminte confortabilă, mai ales pentru plimbarea la Fortul Mountsandel.",
+          "Vremea se poate schimba rapid, o jachetă de ploaie este întotdeauna o idee bună.",
+          "Multe magazine se închid devreme seara, așa că planificați cumpărăturile pentru după-amiază."
+        ],
+        "en": [
+          "Coleraine is compact and very walkable.",
+          "Wear comfortable shoes, especially for the walk out to Mountsandel Fort.",
+          "The weather can change quickly, so a rain jacket is always a good idea.",
+          "Many shops close in the early evening, so plan any shopping for the afternoon."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 15.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "The Diamond",
+            "hu": "The Diamond tér",
+            "ro": "Piața The Diamond",
+            "en": "The Diamond"
+          },
+          "coords": [
+            -6.6664,
+            55.1325
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Sichern Sie Ihr Fahrrad gut, während Sie die Geschäfte und Cafés erkunden.",
+            "hu": "Zárja le jól a kerékpárját, amíg felfedezi az üzleteket és kávézókat.",
+            "ro": "Asigurați-vă bine bicicleta în timp ce explorați magazinele și cafenelele.",
+            "en": "Secure your bike well while you explore the shops and cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Patrick's Kirche",
+            "hu": "Szent Patrik-templom",
+            "ro": "Biserica Sf. Patriciu",
+            "en": "St. Patrick's Church"
+          },
+          "coords": [
+            -6.6638,
+            55.1332
+          ],
+          "category": "churches",
+          "arrive_at": "09:32",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer Halt, um die friedliche Atmosphäre zu genießen, bevor Sie weiterradeln.",
+            "hu": "Egy rövid megálló, hogy élvezze a békés hangulatot, mielőtt tovább teker.",
+            "ro": "O oprire scurtă pentru a vă bucura de atmosfera pașnică înainte de a continua pedalarea.",
+            "en": "A brief stop to enjoy the peaceful atmosphere before you cycle on."
+          }
+        },
+        {
+          "name": {
+            "de": "Riverside Theatre",
+            "hu": "Riverside Színház",
+            "ro": "Teatrul Riverside",
+            "en": "Riverside Theatre"
+          },
+          "coords": [
+            -6.6783,
+            55.1381
+          ],
+          "category": "theatres",
+          "arrive_at": "10:11",
+          "stay_min": 15,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie am Flussufer entlang, um eine malerische Route zum Theater zu nehmen.",
+            "hu": "Tekerjen a folyópart mentén a színházhoz vezető festői úton.",
+            "ro": "Pedalați de-a lungul malului râului pentru un traseu pitoresc spre teatru.",
+            "en": "Cycle along the riverbank for a scenic route to the theatre."
+          }
+        },
+        {
+          "name": {
+            "de": "Mountsandel Fort",
+            "hu": "Mountsandel erőd",
+            "ro": "Fortul Mountsandel",
+            "en": "Mountsandel Fort"
+          },
+          "coords": [
+            -6.6612,
+            55.1165
+          ],
+          "category": "historical",
+          "arrive_at": "10:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Eingang an und erkunden Sie das historische Gelände zu Fuß.",
+            "hu": "Zárja le a kerékpárt a bejáratnál, és fedezze fel a történelmi területet gyalog.",
+            "ro": "Legați-vă bicicleta la intrare și explorați situl istoric pe jos.",
+            "en": "Lock your bike at the entrance and explore the historic grounds on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Pause am Fluss",
+            "hu": "Ebéd és pihenő a folyónál",
+            "ro": "Prânz și pauză la râu",
+            "en": "Lunch and a break by the river"
+          },
+          "coords": [
+            -6.673,
+            55.135
+          ],
+          "category": "gastro",
+          "arrive_at": "12:17",
+          "stay_min": 90,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 2.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Suchen Sie sich ein schönes Plätzchen am Ufer des Bann für ein Picknick.",
+            "hu": "Keressen egy szép helyet a Bann folyó partján egy piknikhez.",
+            "ro": "Găsiți un loc frumos pe malul râului Bann pentru un picnic.",
+            "en": "Find a nice spot on the banks of the River Bann for a picnic lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt entlang des Radweges",
+            "hu": "Visszaút a kerékpárúton",
+            "ro": "Întoarcere pe pista de biciclete",
+            "en": "Cycle back along the path"
+          },
+          "coords": [
+            -6.67,
+            55.13
+          ],
+          "category": "landmark",
+          "arrive_at": "15:05",
+          "stay_min": 150,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie die langsame Fahrt zurück und halten Sie an, um die Aussicht zu genießen.",
+            "hu": "Élvezze a lassú visszaútat, és álljon meg gyönyörködni a kilátásban.",
+            "ro": "Bucurați-vă de plimbarea lentă înapoi, oprindu-vă pentru a admira priveliștile.",
+            "en": "Enjoy the slow ride back, stopping to take in the views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich in den Sattel für eine Radtour durch Coleraine und seine grüne Umgebung. Sie starten am The Diamond und machen kurze Stopps bei der St. Patrick's Kirche und dem Riverside Theatre. Der Hauptteil Ihrer Vormittagstour führt Sie auf einer malerischen Route zum alten Mountsandel Fort. Nach der Erkundung dieser historischen Stätte genießen Sie ein entspanntes Picknick-Mittagessen am Ufer des Flusses Bann. Der Nachmittag steht ganz im Zeichen einer gemütlichen Rückfahrt entlang der Radwege, bei der Sie die Landschaft in Ihrem eigenen Tempo aufsaugen können.",
+        "hu": "Pattanjon nyeregbe egy kerékpártúrára Coleraine-ben és zöld környezetében. A The Diamond tértől indulva rövid megállókat tesz a Szent Patrik-templomnál és a Riverside Színháznál. A délelőtti túra fő része egy festői útvonalon vezet az ősi Mountsandel erődhöz. A történelmi helyszín felfedezése után egy pihentető piknikebédet fogyaszthat a Bann folyó partján. A délután a kerékpárutakon való kényelmes visszatekerésről szól, ahol saját tempójában élvezheti a tájat.",
+        "ro": "Urcați-vă pe bicicletă pentru un tur prin Coleraine și împrejurimile sale verzi. Începeți din The Diamond, cu opriri scurte la Biserica Sf. Patriciu și Teatrul Riverside. Partea principală a turului de dimineață vă duce pe un traseu pitoresc la vechiul Fort Mountsandel. După ce explorați acest sit istoric, savurați un prânz relaxant la picnic pe malurile râului Bann. După-amiaza este dedicată unei plimbări lejere înapoi pe pistele de biciclete, permițându-vă să absorbiți peisajul în ritmul propriu.",
+        "en": "Hop on your bike for a cycling tour of Coleraine and its green surroundings. You'll start at The Diamond, making brief stops at St. Patrick's Church and the Riverside Theatre. The main part of your morning ride takes you on a scenic route to the ancient Mountsandel Fort. After exploring this historic site, enjoy a relaxing picnic lunch on the banks of the River Bann. The afternoon is all about a leisurely ride back along the cycle paths, letting you soak up the scenery at your own pace."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte auf einem lokalen Markt für Ihr Picknick am Fluss."
+          },
+          {
+            "name": "Fifteens",
+            "tip": "Eine nordirische Süßigkeit aus Marshmallows, Kirschen und Kokosnuss – perfekt für einen Energieschub."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket a helyi piacon a folyóparti piknikhez."
+          },
+          {
+            "name": "Fifteens",
+            "tip": "Észak-ír édesség mályvacukorból, cseresznyéből és kókuszból – tökéletes energiafröccs."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse proaspete de la o piață locală pentru picnicul de pe malul râului."
+          },
+          {
+            "name": "Fifteens",
+            "tip": "Un dulce nord-irlandez făcut cu bezele, cireșe și nucă de cocos – perfect pentru un plus de energie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Pick up fresh produce from a local market for your riverside picnic."
+          },
+          {
+            "name": "Fifteens",
+            "tip": "A Northern Irish traybake with marshmallows, cherries, and coconut—perfect for an energy boost."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Christie Park",
+            "tip": "Ein kleiner, ruhiger Park in der Nähe des Flusses, ideal für eine kurze Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Radweg nach Castlerock",
+            "tip": "Für Ambitionierte: Dieser Weg bietet atemberaubende Ausblicke auf die Küste.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Christie Park",
+            "tip": "Egy kicsi, csendes park a folyó közelében, ideális egy rövid szünetre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kerékpárút Castlerock felé",
+            "tip": "Ambiciózusaknak: ez az út lélegzetelállító kilátást nyújt a partvidékre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Christie",
+            "tip": "Un parc mic și liniștit lângă râu, ideal pentru o scurtă pauză.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pista de biciclete spre Castlerock",
+            "tip": "Pentru cei ambițioși, această pistă oferă priveliști uimitoare ale coastei.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Christie Park",
+            "tip": "A small, quiet park near the river, ideal for a short break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cycle Path to Castlerock",
+            "tip": "For the ambitious, this path offers stunning coastal views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Falls Sie Zubehör oder eine schnelle Reparatur benötigen, gibt es mehrere Geschäfte in der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Ha kiegészítőre vagy gyors javításra van szüksége, több üzlet is található a városban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "În caz că aveți nevoie de accesorii sau de o reparație rapidă, există mai multe magazine în oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "In case you need any accessories or a quick repair, there are several shops in town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Es gibt ausgewiesene Radwege, aber seien Sie im Stadtzentrum auf den Verkehr vorbereitet.",
+          "Ein Helm wird dringend empfohlen.",
+          "Nehmen Sie Wasser und Snacks mit, besonders für die längere Fahrt zum Fort.",
+          "Prüfen Sie den Reifendruck, bevor Sie losfahren."
+        ],
+        "hu": [
+          "Vannak kijelölt kerékpárutak, de a városközpontban készüljön fel a forgalomra.",
+          "A sisak viselése erősen ajánlott.",
+          "Vigyen magával vizet és harapnivalót, különösen az erődhöz vezető hosszabb útra.",
+          "Indulás előtt ellenőrizze a keréknyomást."
+        ],
+        "ro": [
+          "Există piste de biciclete desemnate, dar fiți pregătiți pentru trafic în centrul orașului.",
+          "Casca este foarte recomandată.",
+          "Luați apă și gustări, mai ales pentru drumul mai lung spre fort.",
+          "Verificați presiunea anvelopelor înainte de a porni."
+        ],
+        "en": [
+          "There are designated cycle paths, but be prepared for traffic in the town centre.",
+          "A helmet is highly recommended.",
+          "Bring water and snacks, especially for the longer ride to the fort.",
+          "Check your tire pressure before you set off."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:41",
+      "total_km": 31.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Coleraine Zentrum - The Diamond",
+            "hu": "1. klaszter: Coleraine központ - The Diamond",
+            "ro": "Cluster 1: Centrul Coleraine - The Diamond",
+            "en": "Cluster 1: Coleraine Centre - The Diamond"
+          },
+          "coords": [
+            -6.6664,
+            55.1325
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in einem der zentralen Parkhäuser für den Vormittag.",
+            "hu": "Parkoljon a délelőttre az egyik központi parkolóházban.",
+            "ro": "Parcați într-una dintre parcările centrale pentru dimineață.",
+            "en": "Park in one of the central car parks for the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Patrick's Kirche",
+            "hu": "Szent Patrik-templom",
+            "ro": "Biserica Sf. Patriciu",
+            "en": "St. Patrick's Church"
+          },
+          "coords": [
+            -6.6638,
+            55.1332
+          ],
+          "category": "churches",
+          "arrive_at": "09:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom The Diamond durch die Stadt.",
+            "hu": "Egy rövid séta a The Diamond tértől a városon keresztül.",
+            "ro": "O scurtă plimbare de la The Diamond prin oraș.",
+            "en": "A short walk from The Diamond through the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Mountsandel Fort",
+            "hu": "Mountsandel erőd",
+            "ro": "Fortul Mountsandel",
+            "en": "Mountsandel Fort"
+          },
+          "coords": [
+            -6.6612,
+            55.1165
+          ],
+          "category": "historical",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Folgen Sie dem Fußweg vom Zentrum zum Fort für einen belebenden Spaziergang.",
+            "hu": "Kövesse a gyalogutat a központtól az erődig egy élénkítő sétáért.",
+            "ro": "Urmați poteca de la centru la fort pentru o plimbare revigorantă.",
+            "en": "Follow the footpath from the centre to the fort for an invigorating walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Küstenfahrt - Mussenden Temple & Downhill House",
+            "hu": "2. klaszter: Parti út - Mussenden-templom és Downhill-ház",
+            "ro": "Cluster 2: Drumul de coastă - Templul Mussenden & Casa Downhill",
+            "en": "Cluster 2: Coastal Drive - Mussenden Temple & Downhill House"
+          },
+          "coords": [
+            -6.8125,
+            55.1685
+          ],
+          "category": "landmark",
+          "arrive_at": "11:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Der Parkplatz des National Trust ist der beste Ausgangspunkt. Die Aussicht ist atemberaubend.",
+            "hu": "A National Trust parkolója a legjobb kiindulópont. A kilátás lélegzetelállító.",
+            "ro": "Parcarea National Trust este cel mai bun punct de plecare. Priveliștea este uluitoare.",
+            "en": "The National Trust car park is the best starting point. The views are breathtaking."
+          }
+        },
+        {
+          "name": {
+            "de": "Castlerock Beach zum Mittagessen",
+            "hu": "Castlerock strand ebédre",
+            "ro": "Plaja Castlerock pentru prânz",
+            "en": "Castlerock Beach for Lunch"
+          },
+          "coords": [
+            -6.795,
+            55.168
+          ],
+          "category": "parks",
+          "arrive_at": "13:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Machen Sie einen Spaziergang am Strand entlang und kehren Sie in einem Café in Castlerock ein.",
+            "hu": "Sétáljon a tengerparton, majd térjen be egy castlerocki kávézóba.",
+            "ro": "Faceți o plimbare de-a lungul plajei și opriți-vă la o cafenea din Castlerock.",
+            "en": "Take a stroll along the beach and pop into a café in Castlerock for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Panorama - Gortmore Viewpoint",
+            "hu": "3. klaszter: Panoráma - Gortmore kilátó",
+            "ro": "Cluster 3: Panoramă - Punctul de belvedere Gortmore",
+            "en": "Cluster 3: Panorama - Gortmore Viewpoint"
+          },
+          "coords": [
+            -6.8788,
+            55.1584
+          ],
+          "category": "natural features",
+          "arrive_at": "15:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 15.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein ikonischer Punkt an der Causeway Coastal Route. Halten Sie Ihre Kamera bereit.",
+            "hu": "A Causeway tengerparti út egyik ikonikus pontja. Készítse elő a fényképezőgépét.",
+            "ro": "Un punct iconic pe Causeway Coastal Route. Pregătiți-vă aparatul foto.",
+            "en": "An iconic spot on the Causeway Coastal Route. Have your camera ready."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr nach Coleraine",
+            "hu": "Visszatérés Coleraine-be",
+            "ro": "Întoarcere în Coleraine",
+            "en": "Return to Coleraine"
+          },
+          "coords": [
+            -6.666,
+            55.132
+          ],
+          "category": "gastro",
+          "arrive_at": "16:15",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Abendessen in einem der ausgezeichneten Restaurants der Stadt.",
+            "hu": "Zárja a napot egy vacsorával a város egyik kiváló éttermében.",
+            "ro": "Încheiați ziua cu o cină la unul dintre restaurantele excelente ale orașului.",
+            "en": "End the day with dinner at one of the town's excellent restaurants."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt im Herzen von Coleraine, wo Sie die zentralen Sehenswürdigkeiten zu Fuß erkunden. Am Vormittag fahren Sie dann zur dramatischen Nordküste. Der zweite Stopp ist ein Cluster aus Geschichte und Natur: der Mussenden Temple thront auf den Klippen, gefolgt von einem entspannten Mittagessen am Castlerock Beach. Am Nachmittag führt Sie eine kurze Fahrt zum Gortmore Viewpoint, einem der spektakulärsten Aussichtspunkte der Causeway Coastal Route. Von dort kehren Sie nach Coleraine zurück, reich an Eindrücken, und lassen den Abend in der Stadt ausklingen.",
+        "hu": "Autós napja Coleraine szívében kezdődik, ahol gyalog fedezi fel a központi látnivalókat. A délelőtt folyamán azután az északi part drámai vidékére hajt. A második megálló a történelem és a természet egyvelege: a sziklákon trónoló Mussenden-templom, majd egy pihentető ebéd a Castlerock strandon. Délután egy rövid autózás vezet a Gortmore kilátóponthoz, a Causeway tengerparti út egyik leglátványosabb pontjához. Innen tér vissza Coleraine-be, élményekkel gazdagon, hogy a városban fejezze be az estét.",
+        "ro": "Ziua cu mașina începe în inima orașului Coleraine, explorând la pas atracțiile centrale. Apoi, dimineața, conduceți spre dramatica coastă de nord. A doua oprire este un cluster de istorie și natură: Templul Mussenden, cocoțat pe stânci, urmat de un prânz relaxant pe plaja Castlerock. După-amiaza, o scurtă călătorie cu mașina vă duce la Punctul de belvedere Gortmore, unul dintre cele mai spectaculoase puncte de pe Causeway Coastal Route. De acolo, vă întoarceți în Coleraine, plini de impresii, pentru a încheia seara în oraș.",
+        "en": "Your car journey begins in the heart of Coleraine, exploring the central sights on foot. In the morning, you'll drive to the dramatic north coast. The second stop is a cluster of history and nature: Mussenden Temple perched on the cliffs, followed by a relaxing lunch at Castlerock Beach. In the afternoon, a short drive takes you to Gortmore Viewpoint, one of the most spectacular spots on the Causeway Coastal Route. From there, you'll return to Coleraine, rich with impressions, to finish the evening in town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Harry's Shack",
+            "tip": "Ein berühmtes Strandrestaurant in Portstewart (kurze Fahrt), bekannt für frische Meeresfrüchte."
+          },
+          {
+            "name": "Crusoes Coffee Shop",
+            "tip": "Ein gemütlicher Ort in Castlerock für Kaffee, Kuchen und ein leichtes Mittagessen mit Blick aufs Meer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Harry's Shack",
+            "tip": "Híres tengerparti étterem Portstewartban (rövid autóút), friss tengeri herkentyűiről ismert."
+          },
+          {
+            "name": "Crusoes Coffee Shop",
+            "tip": "Hangulatos hely Castlerockban kávéra, süteményre és könnyű ebédre, kilátással a tengerre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Harry's Shack",
+            "tip": "Un renumit restaurant pe plajă în Portstewart (o scurtă călătorie cu mașina), cunoscut pentru fructe de mare proaspete."
+          },
+          {
+            "name": "Crusoes Coffee Shop",
+            "tip": "Un loc primitor în Castlerock pentru cafea, prăjituri și un prânz ușor cu vedere la mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Harry's Shack",
+            "tip": "A famous beachside restaurant in Portstewart (a short drive away), known for fresh seafood."
+          },
+          {
+            "name": "Crusoes Coffee Shop",
+            "tip": "A cozy spot in Castlerock for coffee, cake, and a light lunch with sea views."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Downhill Demesne",
+            "tip": "Die Gärten und Ruinen um den Mussenden Temple sind weitläufig und friedlich.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gortmore Viewpoint",
+            "tip": "Abgesehen vom Fotomotiv ist es ein Ort der Stille mit weitem Blick über den Atlantik.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Downhill Demesne",
+            "tip": "A Mussenden-templom körüli kertek és romok tágasak és békések.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gortmore kilátó",
+            "tip": "A fotózási lehetőségen túl ez a csend helye, ahonnan messzire ellátni az Atlanti-óceán felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Domeniul Downhill",
+            "tip": "Grădinile și ruinele din jurul Templului Mussenden sunt vaste și pașnice.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Punctul de belvedere Gortmore",
+            "tip": "Dincolo de oportunitatea foto, este un loc de liniște cu vederi ample asupra Atlanticului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Downhill Demesne",
+            "tip": "The gardens and ruins around Mussenden Temple are expansive and peaceful.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gortmore Viewpoint",
+            "tip": "Beyond the photo op, it's a place of quiet contemplation overlooking the Atlantic.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "The Designerie",
+            "tip": "Eine Handwerkergenossenschaft in Bushmills (in der Nähe) mit einzigartigen, lokal hergestellten Waren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Designerie",
+            "tip": "Kézműves szövetkezet Bushmillsben (a közelben), egyedi, helyben készült termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Designerie",
+            "tip": "O cooperativă de artizani în Bushmills (în apropiere) cu produse unice, fabricate local."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Designerie",
+            "tip": "An artisan cooperative in nearby Bushmills with unique, locally made goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Causeway Coastal Route ist schmal, fahren Sie vorsichtig.",
+          "Parkgebühren fallen an den meisten touristischen Orten an (National Trust-Mitgliedschaft kann sich lohnen).",
+          "Das Benzin ist in ländlichen Gebieten teurer, tanken Sie in Coleraine.",
+          "Planen Sie zusätzliche Zeit für Fotostopps ein – die Landschaft ist unwiderstehlich."
+        ],
+        "hu": [
+          "A Causeway tengerparti út keskeny, vezessen óvatosan.",
+          "A legtöbb turisztikai helyen parkolási díjat kell fizetni (a National Trust tagság megérheti).",
+          "A benzin drágább a vidéki területeken, tankoljon Coleraine-ben.",
+          "Tervezzen plusz időt a fotómegállókra – a táj ellenállhatatlan."
+        ],
+        "ro": [
+          "Causeway Coastal Route este îngustă, conduceți cu prudență.",
+          "Taxele de parcare se aplică în majoritatea locurilor turistice (calitatea de membru National Trust poate fi avantajoasă).",
+          "Benzina este mai scumpă în zonele rurale, alimentați în Coleraine.",
+          "Planificați timp suplimentar pentru opriri foto – peisajul este irezistibil."
+        ],
+        "en": [
+          "The Causeway Coastal Route is narrow, so drive with care.",
+          "Parking fees apply at most tourist spots (National Trust membership can be worthwhile).",
+          "Fuel is more expensive in rural areas, so fill up in Coleraine.",
+          "Allow extra time for photo stops – the scenery is irresistible."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 28.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Coleraine Zentrum zu Fuß",
+            "hu": "1. klaszter: Coleraine központ gyalog",
+            "ro": "Cluster 1: Centrul Coleraine pe jos",
+            "en": "Cluster 1: Coleraine Centre on Foot"
+          },
+          "coords": [
+            -6.6664,
+            55.1325
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Erkunden Sie das Zentrum, bevor Sie den Zug oder Bus an die Küste nehmen.",
+            "hu": "Fedezze fel a központot, mielőtt vonatra vagy buszra szállna a part felé.",
+            "ro": "Explorați centrul înainte de a lua trenul sau autobuzul spre coastă.",
+            "en": "Explore the centre before catching the train or bus to the coast."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Patrick's Kirche",
+            "hu": "Szent Patrik-templom",
+            "ro": "Biserica Sf. Patriciu",
+            "en": "St. Patrick's Church"
+          },
+          "coords": [
+            -6.6638,
+            55.1332
+          ],
+          "category": "churches",
+          "arrive_at": "09:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Bahnhof entfernt.",
+            "hu": "Csak egy rövid sétára a vasútállomástól.",
+            "ro": "La doar o scurtă plimbare de gară.",
+            "en": "Just a short stroll from the train station."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt nach Castlerock",
+            "hu": "Utazás Castlerockba",
+            "ro": "Călătorie spre Castlerock",
+            "en": "Transit to Castlerock"
+          },
+          "coords": [
+            -6.793,
+            55.166
+          ],
+          "category": "transit",
+          "arrive_at": "10:55",
+          "stay_min": 0,
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Zug bietet eine schnelle und malerische Verbindung zur Küste.",
+            "hu": "A vonat gyors és festői összeköttetést biztosít a parttal.",
+            "ro": "Trenul oferă o legătură rapidă și pitorească cu coasta.",
+            "en": "The train offers a quick and scenic link to the coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Castlerock & Mussenden zu Fuß",
+            "hu": "2. klaszter: Castlerock és Mussenden gyalog",
+            "ro": "Cluster 2: Castlerock & Mussenden pe jos",
+            "en": "Cluster 2: Castlerock & Mussenden on Foot"
+          },
+          "coords": [
+            -6.795,
+            55.168
+          ],
+          "category": "parks",
+          "arrive_at": "10:55",
+          "stay_min": 180,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Bahnhof Castlerock aus können Sie zum Strand und dann zum Mussenden Temple wandern. Planen Sie Zeit für den Aufstieg ein.",
+            "hu": "A castlerocki állomástól elsétálhat a partra, majd a Mussenden-templomhoz. Tervezzen időt a hegymászásra.",
+            "ro": "De la gara din Castlerock puteți merge pe jos la plajă și apoi la Templul Mussenden. Planificați timp pentru urcare.",
+            "en": "From Castlerock station, you can walk to the beach and then hike up to Mussenden Temple. Allow time for the climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt nach Coleraine & Abendessen",
+            "hu": "Visszaút Coleraine-be és vacsora",
+            "ro": "Întoarcere la Coleraine & Cină",
+            "en": "Return to Coleraine & Dinner"
+          },
+          "coords": [
+            -6.666,
+            55.132
+          ],
+          "category": "gastro",
+          "arrive_at": "15:15",
+          "stay_min": 170,
+          "hop_from_prev_min": 80,
+          "hop_from_prev_km": 15.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Prüfen Sie den Zugfahrplan für die Rückfahrt und genießen Sie ein wohlverdientes Abendessen.",
+            "hu": "Ellenőrizze a vonat menetrendjét a visszaúthoz, és élvezzen egy jól megérdemelt vacsorát.",
+            "ro": "Verificați orarul trenului pentru întoarcere și bucurați-vă de o cină binemeritată.",
+            "en": "Check the train schedule for your return and enjoy a well-deserved dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Reise mit öffentlichen Verkehrsmitteln beginnt mit einer Erkundung des Zentrums von Coleraine zu Fuß. Nachdem Sie die Atmosphäre aufgesogen haben, nehmen Sie den Zug für eine kurze, malerische Fahrt an die Küste nach Castlerock. Dort angekommen, bildet der zweite Teil Ihres Tages einen ausgedehnten Spaziergang-Cluster. Sie wandern vom Bahnhof zum Sandstrand und dann die Klippen hinauf zum ikonischen Mussenden Temple, wo Sie mit spektakulären Ausblicken belohnt werden. Am späten Nachmittag nehmen Sie den Zug zurück nach Coleraine und beenden diesen aktiven Tag mit einem entspannten Abendessen in der Stadt.",
+        "hu": "Tömegközlekedési utazása Coleraine központjának gyalogos felfedezésével kezdődik. Miután magába szívta a hangulatot, vonatra száll egy rövid, festői útra a part menti Castlerockba. Odaérve a nap második része egy kiterjedt séta-klasztert alkot. Az állomástól a homokos tengerpartra sétál, majd fel a sziklákra az ikonikus Mussenden-templomhoz, ahol látványos kilátás jutalmazza. Késő délután vonattal tér vissza Coleraine-be, és ezt az aktív napot egy pihentető vacsorával zárja a városban.",
+        "ro": "Călătoria cu transportul public începe cu o explorare pe jos a centrului orașului Coleraine. După ce ați absorbit atmosfera, luați trenul pentru o călătorie scurtă și pitorească spre coastă, la Castlerock. Odată ajunși, a doua parte a zilei formează un cluster extins de plimbare. Mergeți de la gară la plaja cu nisip, apoi urcați pe stânci până la emblematicul Templu Mussenden, unde veți fi răsplătiți cu priveliști spectaculoase. Spre seară, luați trenul înapoi spre Coleraine, încheind această zi activă cu o cină relaxantă în oraș.",
+        "en": "Your public transport journey starts by exploring Coleraine's centre on foot. After soaking up the atmosphere, you'll take the train for a short, scenic ride to the coast at Castlerock. Once there, the second part of your day forms an extensive walking cluster. You'll hike from the station to the sandy beach and then up the cliffs to the iconic Mussenden Temple, where you are rewarded with spectacular views. In the late afternoon, you catch the train back to Coleraine, finishing this active day with a relaxing dinner in town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Picknick am Strand",
+            "tip": "Kaufen Sie Vorräte in Coleraine, bevor Sie losfahren, für ein unkompliziertes Mittagessen in Castlerock."
+          },
+          {
+            "name": "The Point Bar",
+            "tip": "Ein traditionelles Pub in Magilligan (erfordert einen Bus von Castlerock), berühmt für seine Lage."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piknik a tengerparton",
+            "tip": "Vásároljon elemózsiát Coleraine-ben indulás előtt egy egyszerű ebédhez Castlerockban."
+          },
+          {
+            "name": "The Point Bar",
+            "tip": "Hagyományos pub Magilliganben (busz szükséges Castlerockból), híres a fekvéséről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Picnic pe plajă",
+            "tip": "Cumpărați provizii din Coleraine înainte de a pleca pentru un prânz simplu în Castlerock."
+          },
+          {
+            "name": "The Point Bar",
+            "tip": "Un pub tradițional în Magilligan (necesită un autobuz din Castlerock), faimos pentru locația sa."
+          }
+        ],
+        "en": [
+          {
+            "name": "Picnic on the beach",
+            "tip": "Buy supplies in Coleraine before you leave for an easy lunch in Castlerock."
+          },
+          {
+            "name": "The Point Bar",
+            "tip": "A traditional pub in Magilligan (requires a bus from Castlerock), famous for its location."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Zugfenster",
+            "tip": "Die Fahrt selbst ist eine ruhige Erfahrung mit wechselnden Landschaften.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Klippenpfad bei Mussenden",
+            "tip": "Finden Sie einen ruhigen Platz abseits des Tempels, um einfach nur aufs Meer zu schauen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vonatablak",
+            "tip": "Maga az utazás is egy csendes élmény a változó tájakkal.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sziklaösvény Mussenden közelében",
+            "tip": "Keressen egy csendes helyet a templomtól távol, hogy csak a tengert nézze.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fereastra trenului",
+            "tip": "Călătoria în sine este o experiență liniștită, cu peisaje schimbătoare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Potecă de pe stâncă lângă Mussenden",
+            "tip": "Găsiți un loc liniștit departe de templu pentru a privi pur și simplu marea.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Train Window",
+            "tip": "The journey itself is a quiet experience with changing landscapes.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cliff path at Mussenden",
+            "tip": "Find a quiet spot away from the temple to just watch the sea.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Läden in Coleraine",
+            "tip": "Erledigen Sie Ihre Einkäufe, bevor Sie die Stadt verlassen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi boltok Coleraine-ben",
+            "tip": "Intézze a bevásárlást, mielőtt elhagyja a várost."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine locale din Coleraine",
+            "tip": "Faceți-vă cumpărăturile înainte de a părăsi orașul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local shops in Coleraine",
+            "tip": "Do your shopping before you leave town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für Züge und Busse, um Geld zu sparen.",
+          "Überprüfen Sie die Fahrpläne im Voraus, besonders für die letzte Rückfahrt.",
+          "Die Wanderung zum Mussenden Temple ist steil; tragen Sie gutes Schuhwerk.",
+          "Nehmen Sie Snacks und Wasser mit, da die Verpflegungsmöglichkeiten auf den Klippen begrenzt sind."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a vonatokra és buszokra, hogy pénzt takarítson meg.",
+          "Ellenőrizze előre a menetrendeket, különösen az utolsó visszautat.",
+          "A Mussenden-templomhoz vezető túra meredek; viseljen jó cipőt.",
+          "Vigyen magával harapnivalót és vizet, mivel a sziklákon korlátozottak az étkezési lehetőségek."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru trenuri și autobuze pentru a economisi bani.",
+          "Verificați orarele în avans, în special pentru ultima călătorie de întoarcere.",
+          "Drumeția spre Templul Mussenden este abruptă; purtați încălțăminte adecvată.",
+          "Luați gustări și apă, deoarece opțiunile de mâncare pe stânci sunt limitate."
+        ],
+        "en": [
+          "Buy a day-tripper ticket for trains and buses to save money.",
+          "Check timetables in advance, especially for the last return journey.",
+          "The hike to Mussenden Temple is steep; wear good footwear.",
+          "Bring snacks and water, as food options on the cliffs are limited."
+        ]
+      }
+    }
+  }
+}

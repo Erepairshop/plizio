@@ -1,0 +1,1275 @@
+{
+  "city_id": "netherlands-hengelo-cities-v2",
+  "anchor": {
+    "name": "Hengelo",
+    "coords": [
+      52.2652,
+      6.7932
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "St.-Lambertus-Basilika",
+            "hu": "Szent Lambert-bazilika",
+            "ro": "Bazilica Sf. Lambertus",
+            "en": "St. Lambertus Basilica"
+          },
+          "coords": [
+            6.7925,
+            52.2661
+          ],
+          "category": "churches",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beachten Sie die neugotischen Details und die beeindruckenden Glasfenster.",
+            "hu": "Figyelje meg a neogótikus részleteket és a lenyűgöző ólomüveg ablakokat.",
+            "ro": "Observați detaliile neogotice și vitraliile impresionante.",
+            "en": "Pay attention to the neo-gothic details and the impressive stained-glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadhuistoren",
+            "hu": "Városháza-torony",
+            "ro": "Turnul Primăriei",
+            "en": "City Hall Tower"
+          },
+          "coords": [
+            6.7918,
+            52.2655
+          ],
+          "category": "historical",
+          "arrive_at": "09:56",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der Turm ist ein Symbol des Wiederaufbaus nach dem Krieg. Die Aussicht von oben ist die Mühe wert.",
+            "hu": "A torony a háború utáni újjáépítés szimbóluma. A kilátás fentről megéri a fáradságot.",
+            "ro": "Turnul este un simbol al reconstrucției postbelice. Priveliștea de sus merită efortul.",
+            "en": "The tower is a symbol of post-war reconstruction. The view from the top is worth the effort."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Hengelo",
+            "hu": "Hengelo Múzeum",
+            "ro": "Muzeul Hengelo",
+            "en": "Museum Hengelo"
+          },
+          "coords": [
+            6.795,
+            52.267
+          ],
+          "category": "museums",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Industriegeschichte von Hengelo, insbesondere die Rolle von Stork und Hazemeijer.",
+            "hu": "Ismerje meg Hengelo ipari történetét, különösen a Stork és a Hazemeijer szerepét.",
+            "ro": "Descoperiți istoria industrială a orașului Hengelo, în special rolul jucat de Stork și Hazemeijer.",
+            "en": "Discover the industrial history of Hengelo, especially the role of Stork and Hazemeijer."
+          }
+        },
+        {
+          "name": {
+            "de": "Oyfo Techniekmuseum",
+            "hu": "Oyfo Műszaki Múzeum",
+            "ro": "Muzeul Tehnic Oyfo",
+            "en": "Oyfo Technics Museum"
+          },
+          "coords": [
+            6.8012,
+            52.2685
+          ],
+          "category": "museums",
+          "arrive_at": "12:07",
+          "stay_min": 100,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein interaktives Museum, ideal für Familien. Probieren Sie die alten Maschinen selbst aus!",
+            "hu": "Interaktív múzeum, ideális családok számára. Próbálja ki Ön is a régi gépeket!",
+            "ro": "Un muzeu interactiv, ideal pentru familii. Încercați singuri mașinăriile vechi!",
+            "en": "An interactive museum, ideal for families. Try out the old machines for yourself!"
+          }
+        },
+        {
+          "name": {
+            "de": "Kasbah-Wohnungen",
+            "hu": "Kasbah-lakások",
+            "ro": "Locuințele Kasbah",
+            "en": "Kasbah housing"
+          },
+          "coords": [
+            6.7785,
+            52.2591
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 34,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Einzigartige Architektur von Piet Blom. Spazieren Sie durch die erhöhten Straßen und Innenhöfe.",
+            "hu": "Piet Blom egyedi építészete. Sétáljon végig az emeleti utcákon és udvarokon.",
+            "ro": "Arhitectură unică de Piet Blom. Plimbați-vă pe străzile suspendate și prin curțile interioare.",
+            "en": "Unique architecture by Piet Blom. Walk through the elevated streets and courtyards."
+          }
+        },
+        {
+          "name": {
+            "de": "Prins Bernhardplantsoen",
+            "hu": "Prins Bernhard park",
+            "ro": "Parcul Prins Bernhardplantsoen",
+            "en": "Prins Bernhardplantsoen Park"
+          },
+          "coords": [
+            6.7845,
+            52.2692
+          ],
+          "category": "parks",
+          "arrive_at": "15:23",
+          "stay_min": 60,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für eine Pause. Suchen Sie nach dem Denkmal für die Opfer des Zweiten Weltkriegs.",
+            "hu": "Tökéletes hely egy kis szünetre. Keresse meg a második világháborús áldozatok emlékművét.",
+            "ro": "Un loc perfect pentru o pauză. Căutați monumentul dedicat victimelor celui de-al Doilea Război Mondial.",
+            "en": "A perfect spot for a break. Look for the monument to the victims of World War II."
+          }
+        },
+        {
+          "name": {
+            "de": "Tuindorp 't Lansink",
+            "hu": "Tuindorp 't Lansink kertváros",
+            "ro": "Cartierul-grădină Tuindorp 't Lansink",
+            "en": "Tuindorp 't Lansink garden village"
+          },
+          "coords": [
+            6.78,
+            52.252
+          ],
+          "category": "historical",
+          "arrive_at": "16:53",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch dieses charmante Gartendorf, das für Fabrikarbeiter gebaut wurde.",
+            "hu": "Sétáljon ebben a bájos kertvárosban, amelyet gyári munkások számára építettek.",
+            "ro": "Plimbați-vă prin acest fermecător sat-grădină, construit pentru muncitorii din fabrici.",
+            "en": "Wander through this charming garden village built for factory workers."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Hengelo beginnt mit der geistlichen Ruhe der St.-Lambertus-Basilika und dem historischen Stadhuistoren. Am Vormittag tauchen Sie in die industrielle Vergangenheit der Stadt im Museum Hengelo ein. Der Nachmittag wird technisch und architektonisch: zuerst das interaktive Oyfo Techniekmuseum, dann die einzigartigen Kasbah-Wohnungen. Später entspannen Sie im grünen Prins Bernhardplantsoen. Der Abend klingt im malerischen Gartendorf 't Lansink aus, ein Zeugnis der sozialen Geschichte Hengelos.",
+        "hu": "A hengelói nap a Szent Lambert-bazilika spirituális nyugalmával és a történelmi Városháza-toronnyal kezdődik. Délelőtt a Hengelo Múzeumban elmerül a város ipari múltjában. A délután technikailag és építészetileg is izgalmas lesz: először az interaktív Oyfo Műszaki Múzeum, majd az egyedi Kasbah-lakások következnek. Később a zöld Prins Bernhard parkban pihenhet. Az estét a festői 't Lansink kertvárosban zárja, amely Hengelo társadalomtörténetének tanúja.",
+        "ro": "Ziua dvs. în Hengelo începe cu liniștea spirituală a Bazilicii Sf. Lambertus și cu istoricul Turn al Primăriei. Dimineața vă scufundați în trecutul industrial al orașului la Muzeul Hengelo. După-amiaza devine tehnică și arhitecturală: mai întâi muzeul interactiv Oyfo Technics, apoi locuințele unice Kasbah. Mai târziu, vă relaxați în verdele parc Prins Bernhardplantsoen. Seara se încheie în pitorescul sat-grădină 't Lansink, o mărturie a istoriei sociale a orașului Hengelo.",
+        "en": "Your day in Hengelo starts with the spiritual tranquility of St. Lambertus Basilica and the historic City Hall Tower. In the morning, you'll delve into the city's industrial past at Museum Hengelo. The afternoon gets technical and architectural: first the interactive Oyfo Technics Museum, then the unique Kasbah housing. Later, relax in the green Prins Bernhardplantsoen. The evening concludes in the picturesque 't Lansink garden village, a testament to Hengelo's social history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Twentse Krentenwegge",
+            "tip": "Ein süßes Rosinenbrot, das oft zur Geburt eines Kindes gegessen wird. Probieren Sie es in einer lokalen Bäckerei."
+          },
+          {
+            "name": "Restaurant De Buurman",
+            "tip": "Bekannt für seine moderne niederländische Küche und die Verwendung lokaler Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Twentse Krentenwegge",
+            "tip": "Édes mazsolás kenyér, amelyet gyakran egy gyermek születésekor fogyasztanak. Kóstolja meg egy helyi pékségben."
+          },
+          {
+            "name": "De Buurman étterem",
+            "tip": "Modern holland konyhájáról és helyi termékek használatáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Twentse Krentenwegge",
+            "tip": "O pâine dulce cu stafide, consumată adesea la nașterea unui copil. Încercați-o la o brutărie locală."
+          },
+          {
+            "name": "Restaurant De Buurman",
+            "tip": "Cunoscut pentru bucătăria olandeză modernă și utilizarea produselor locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Twentse Krentenwegge",
+            "tip": "A sweet raisin bread, often eaten to celebrate the birth of a child. Try it at a local bakery."
+          },
+          {
+            "name": "Restaurant De Buurman",
+            "tip": "Known for its modern Dutch cuisine and use of local products."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Prins Bernhardplantsoen",
+            "tip": "Finden Sie eine ruhige Bank am Teich und beobachten Sie die Vögel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Innenhof von Tuindorp 't Lansink",
+            "tip": "Die abgeschlossenen Gärten bieten eine friedliche Flucht aus der Stadt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Prins Bernhard park",
+            "tip": "Keressen egy csendes padot a tó mellett, és figyelje a madarakat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Tuindorp 't Lansink belső udvara",
+            "tip": "A zárt kertek békés menedéket nyújtanak a városból.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Prins Bernhardplantsoen",
+            "tip": "Găsiți o bancă liniștită lângă iaz și priviți păsările.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea interioară din Tuindorp 't Lansink",
+            "tip": "Grădinile izolate oferă o evadare pașnică din oraș.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Prins Bernhardplantsoen Park",
+            "tip": "Find a quiet bench by the pond and watch the birds.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Courtyard of Tuindorp 't Lansink",
+            "tip": "The enclosed gardens offer a peaceful escape from the city.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Besuchen Sie den Markt am Mittwoch oder Samstag für lokale Produkte und Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Látogasson el a szerdai vagy szombati piacra helyi termékekért és sajtokért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Vizitați piața de miercuri sau sâmbătă pentru produse locale și brânzeturi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Visit the market on Wednesday or Saturday for local produce and cheese."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Hengelo ist recht flach, was das Gehen angenehm macht.",
+          "Einige Museen bieten Kombitickets an."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "Hengelo meglehetősen sík, ami kellemessé teszi a sétát.",
+          "Néhány múzeum kombinált jegyeket kínál."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge mult pe jos.",
+          "Hengelo este destul de plat, ceea ce face mersul pe jos plăcut.",
+          "Unele muzee oferă bilete combinate."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "Hengelo is quite flat, which makes walking pleasant.",
+          "Some museums offer combined tickets."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 11.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Tuindorp 't Lansink",
+            "hu": "Tuindorp 't Lansink kertváros",
+            "ro": "Cartierul-grădină Tuindorp 't Lansink",
+            "en": "Tuindorp 't Lansink garden village"
+          },
+          "coords": [
+            6.78,
+            52.252
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die einheitliche, aber charmante Architektur.",
+            "hu": "Csodálja meg az egységes, mégis bájos építészetet.",
+            "ro": "Admirați arhitectura uniformă, dar fermecătoare.",
+            "en": "Admire the uniform yet charming architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Kasbah-Wohnungen",
+            "hu": "Kasbah-lakások",
+            "ro": "Locuințele Kasbah",
+            "en": "Kasbah housing"
+          },
+          "coords": [
+            6.7785,
+            52.2591
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Fahren Sie vorsichtig auf den Wegen rund um dieses architektonische Experiment.",
+            "hu": "Óvatosan közlekedjen az építészeti kísérlet körüli utakon.",
+            "ro": "Mergeți cu grijă pe aleile din jurul acestui experiment arhitectural.",
+            "en": "Cycle carefully on the paths around this architectural experiment."
+          }
+        },
+        {
+          "name": {
+            "de": "Prins Bernhardplantsoen",
+            "hu": "Prins Bernhard park",
+            "ro": "Parcul Prins Bernhardplantsoen",
+            "en": "Prins Bernhardplantsoen Park"
+          },
+          "coords": [
+            6.7845,
+            52.2692
+          ],
+          "category": "parks",
+          "arrive_at": "11:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für ein Picknick, bevor Sie ins Stadtzentrum fahren.",
+            "hu": "Ideális hely egy piknikre, mielőtt a városközpontba indulna.",
+            "ro": "Un loc ideal pentru un picnic înainte de a vă îndrepta spre centrul orașului.",
+            "en": "An ideal spot for a picnic before heading into the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Lambertus-Basilika",
+            "hu": "Szent Lambert-bazilika",
+            "ro": "Bazilica Sf. Lambertus",
+            "en": "St. Lambertus Basilica"
+          },
+          "coords": [
+            6.7925,
+            52.2661
+          ],
+          "category": "churches",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad gut ab; der Bereich kann belebt sein.",
+            "hu": "Jól zárja le a kerékpárját; a környék forgalmas lehet.",
+            "ro": "Asigurați-vă bine bicicleta; zona poate fi aglomerată.",
+            "en": "Lock your bike securely; the area can be busy."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadhuistoren",
+            "hu": "Városháza-torony",
+            "ro": "Turnul Primăriei",
+            "en": "City Hall Tower"
+          },
+          "coords": [
+            6.7918,
+            52.2655
+          ],
+          "category": "historical",
+          "arrive_at": "12:43",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp für ein Foto dieses Wahrzeichens.",
+            "hu": "Egy gyors megálló egy fotóra erről a nevezetességről.",
+            "ro": "O oprire scurtă pentru o fotografie cu acest punct de reper.",
+            "en": "A quick stop for a photo of this landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Hengelo",
+            "hu": "Hengelo Múzeum",
+            "ro": "Muzeul Hengelo",
+            "en": "Museum Hengelo"
+          },
+          "coords": [
+            6.795,
+            52.267
+          ],
+          "category": "museums",
+          "arrive_at": "13:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Das Museum hat oft spezielle Ausstellungen zur lokalen Kultur.",
+            "hu": "A múzeumban gyakran vannak különleges kiállítások a helyi kultúráról.",
+            "ro": "Muzeul are adesea expoziții speciale despre cultura locală.",
+            "en": "The museum often has special exhibitions on local culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Oyfo Techniekmuseum",
+            "hu": "Oyfo Műszaki Múzeum",
+            "ro": "Muzeul Tehnic Oyfo",
+            "en": "Oyfo Technics Museum"
+          },
+          "coords": [
+            6.8012,
+            52.2685
+          ],
+          "category": "museums",
+          "arrive_at": "14:46",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein, die interaktiven Stationen sind sehr fesselnd.",
+            "hu": "Tervezzen elég időt, az interaktív állomások nagyon lebilincselőek.",
+            "ro": "Planificați suficient timp, stațiile interactive sunt foarte captivante.",
+            "en": "Plan enough time, the interactive stations are very engaging."
+          }
+        },
+        {
+          "name": {
+            "de": "Metropool",
+            "hu": "Metropool",
+            "ro": "Metropool",
+            "en": "Metropool"
+          },
+          "coords": [
+            6.797,
+            52.264
+          ],
+          "category": "cultural centres",
+          "arrive_at": "16:41",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Prüfen Sie das Abendprogramm. Vielleicht gibt es ein Konzert, das Sie interessiert.",
+            "hu": "Nézze meg az esti programot. Lehet, hogy van egy koncert, ami érdekli.",
+            "ro": "Verificați programul de seară. Poate este un concert care vă interesează.",
+            "en": "Check the evening schedule. There might be a concert that interests you."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet im historischen Gartendorf 't Lansink und führt Sie zum architektonischen Wunder der Kasbah. Am Vormittag entspannen Sie im Prins Bernhardplantsoen, bevor Sie ins Herz der Stadt radeln, um die St.-Lambertus-Basilika und den Stadhuistoren zu besichtigen. Der Nachmittag ist der Kultur und Technik gewidmet, mit Besuchen im Museum Hengelo und dem interaktiven Oyfo Techniekmuseum. Ihr Tag endet mit einem Blick auf das Kulturzentrum Metropool, dem pulsierenden Herzen der Musikszene.",
+        "hu": "A kerékpártúra a történelmi Tuindorp 't Lansink kertvárosban kezdődik, majd a Kasbah építészeti csodájához vezet. Délelőtt a Prins Bernhard parkban pihenhet, mielőtt a város szívébe teker, hogy megnézze a Szent Lambert-bazilikát és a Városháza-tornyot. A délután a kultúrának és a technikának szentelődik, a Hengelo Múzeum és az interaktív Oyfo Műszaki Múzeum meglátogatásával. A napot a Metropool kulturális központ megtekintésével zárja, amely a zenei élet lüktető szíve.",
+        "ro": "Turul pe bicicletă începe în istoricul sat-grădină 't Lansink și vă duce la minunea arhitecturală Kasbah. Dimineața vă relaxați în Parcul Prins Bernhardplantsoen înainte de a pedala spre inima orașului pentru a vizita Bazilica Sf. Lambertus și Turnul Primăriei. După-amiaza este dedicată culturii și tehnologiei, cu vizite la Muzeul Hengelo și la interactivul Muzeu Tehnic Oyfo. Ziua se încheie cu o privire la centrul cultural Metropool, inima vibrantă a scenei muzicale.",
+        "en": "Your bike tour starts in the historic 't Lansink garden village and takes you to the architectural wonder of the Kasbah. In the morning, you'll relax in the Prins Bernhardplantsoen before cycling to the heart of the city to see St. Lambertus Basilica and the City Hall Tower. The afternoon is dedicated to culture and technology, with visits to Museum Hengelo and the interactive Oyfo Technics Museum. Your day ends with a look at the Metropool cultural center, the vibrant heart of the music scene."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Stroopwafels",
+            "tip": "Frisch auf dem Markt zubereitet sind sie am besten."
+          },
+          {
+            "name": "Eetcafé De Appel",
+            "tip": "Ein gemütliches Café für ein herzhaftes Mittagessen oder ein lokales Bier."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stroopwafel",
+            "tip": "Frissen a piacon készítve a legfinomabbak."
+          },
+          {
+            "name": "Eetcafé De Appel",
+            "tip": "Hangulatos kávézó egy kiadós ebédhez vagy egy helyi sörhöz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stroopwafels",
+            "tip": "Cele mai bune sunt cele proaspăt făcute la piață."
+          },
+          {
+            "name": "Eetcafé De Appel",
+            "tip": "O cafenea primitoare pentru un prânz consistent sau o bere locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stroopwafels",
+            "tip": "They are best when freshly made at the market."
+          },
+          {
+            "name": "Eetcafé De Appel",
+            "tip": "A cozy café for a hearty lunch or a local beer."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Watertorenpark",
+            "tip": "Ein ruhiger Ort etwas außerhalb des Zentrums, ideal für eine Radpause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten von 't Lansink",
+            "tip": "Die sorgfältig gepflegten Gärten sind eine Oase der Ruhe.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Watertorenpark partja",
+            "tip": "Csendes hely a központtól kicsit távolabb, ideális egy kerékpáros pihenőre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "'t Lansink kertjei",
+            "tip": "A gondosan ápolt kertek a béke oázisai.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile parcului Watertorenpark",
+            "tip": "Un loc liniștit chiar în afara centrului, ideal pentru o pauză de la pedalat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile din 't Lansink",
+            "tip": "Grădinile îngrijite cu atenție sunt o oază de liniște.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Watertorenpark",
+            "tip": "A quiet spot just outside the center, ideal for a cycling break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gardens of 't Lansink",
+            "tip": "The carefully maintained gardens are an oasis of tranquility.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "De Smudde",
+            "tip": "Ein lokaler Käseladen mit einer großen Auswahl an niederländischen Käsesorten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "De Smudde",
+            "tip": "Helyi sajtbolt holland sajtok nagy választékával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "De Smudde",
+            "tip": "Un magazin local de brânzeturi cu o selecție largă de brânzeturi olandeze."
+          }
+        ],
+        "en": [
+          {
+            "name": "De Smudde",
+            "tip": "A local cheese shop with a wide selection of Dutch cheeses."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die gut ausgebauten Radwege.",
+          "Achten Sie auf die Vorfahrtsregeln für Radfahrer, die in den Niederlanden oft Vorrang haben.",
+          "Ein Fahrradschloss ist unerlässlich."
+        ],
+        "hu": [
+          "Használja a jól kiépített kerékpárutakat.",
+          "Figyeljen a kerékpárosok elsőbbségi szabályaira, amelyek Hollandiában gyakran elsőbbséget élveznek.",
+          "A kerékpárzár elengedhetetlen."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete bine dezvoltate.",
+          "Fiți atenți la regulile de prioritate pentru bicicliști, care au adesea prioritate în Olanda.",
+          "O încuietoare pentru bicicletă este esențială."
+        ],
+        "en": [
+          "Use the well-developed cycle paths.",
+          "Pay attention to the priority rules for cyclists, who often have right-of-way in the Netherlands.",
+          "A bike lock is essential."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Start: Tuindorp 't Lansink",
+            "hu": "Klaszter kezdete: Tuindorp 't Lansink",
+            "ro": "Început cluster: Tuindorp 't Lansink",
+            "en": "Cluster Start: Tuindorp 't Lansink"
+          },
+          "coords": [
+            6.78,
+            52.252
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie das historische Dorf zu Fuß.",
+            "hu": "Parkoljon itt, és fedezze fel a történelmi falut gyalog.",
+            "ro": "Parcați aici și explorați satul istoric pe jos.",
+            "en": "Park here and explore the historic village on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kasbah-Wohnungen",
+            "hu": "Kasbah-lakások",
+            "ro": "Locuințele Kasbah",
+            "en": "Kasbah housing"
+          },
+          "coords": [
+            6.7785,
+            52.2591
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptbereich des Tuindorps.",
+            "hu": "Rövid séta a Tuindorp fő részétől.",
+            "ro": "O scurtă plimbare de la zona principală a Tuindorp.",
+            "en": "A short walk from the main area of Tuindorp."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Start: Stadtzentrum",
+            "hu": "Klaszter kezdete: Városközpont",
+            "ro": "Început cluster: Centrul orașului",
+            "en": "Cluster Start: City Center"
+          },
+          "coords": [
+            6.7925,
+            52.2661
+          ],
+          "category": "churches",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Parken Sie in einem der Parkhäuser im Zentrum, z.B. De Brink.",
+            "hu": "Parkoljon az egyik belvárosi parkolóházban, pl. a De Brinkben.",
+            "ro": "Parcați într-una dintre parcările din centru, de ex. De Brink.",
+            "en": "Park in one of the city center parking garages, e.g., De Brink."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadhuistoren",
+            "hu": "Városháza-torony",
+            "ro": "Turnul Primăriei",
+            "en": "City Hall Tower"
+          },
+          "coords": [
+            6.7918,
+            52.2655
+          ],
+          "category": "historical",
+          "arrive_at": "12:18",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Vom Kirchplatz aus leicht zu Fuß erreichbar.",
+            "hu": "A templomtérről könnyen megközelíthető gyalog.",
+            "ro": "Ușor de ajuns pe jos din piața bisericii.",
+            "en": "Easily reachable on foot from the church square."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Hengelo",
+            "hu": "Hengelo Múzeum",
+            "ro": "Muzeul Hengelo",
+            "en": "Museum Hengelo"
+          },
+          "coords": [
+            6.795,
+            52.267
+          ],
+          "category": "museums",
+          "arrive_at": "12:48",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein Muss, um die Seele der 'Metallstadt' zu verstehen.",
+            "hu": "Kötelező program a „fémváros” lelkének megértéséhez.",
+            "ro": "O vizită obligatorie pentru a înțelege sufletul 'orașului metalurgic'.",
+            "en": "A must-visit to understand the soul of the 'metal city'."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Start: Technologiedistrikt",
+            "hu": "Klaszter kezdete: Technológiai negyed",
+            "ro": "Început cluster: Districtul Tehnologic",
+            "en": "Cluster Start: Technology District"
+          },
+          "coords": [
+            6.8012,
+            52.2685
+          ],
+          "category": "museums",
+          "arrive_at": "14:26",
+          "stay_min": 100,
+          "hop_mode": "car",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 5.2,
+          "tip_5lang": {
+            "de": "Parkmöglichkeiten gibt es direkt am Museum.",
+            "hu": "Parkolási lehetőség közvetlenül a múzeumnál található.",
+            "ro": "Există parcare disponibilă chiar la muzeu.",
+            "en": "Parking is available right at the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Prins Bernhardplantsoen",
+            "hu": "Prins Bernhard park",
+            "ro": "Parcul Prins Bernhardplantsoen",
+            "en": "Prins Bernhardplantsoen Park"
+          },
+          "coords": [
+            6.7845,
+            52.2692
+          ],
+          "category": "parks",
+          "arrive_at": "16:14",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein entspannter Spaziergang zum Abschluss des Tages.",
+            "hu": "Egy pihentető séta a nap lezárásaként.",
+            "ro": "O plimbare relaxantă pentru a încheia ziua.",
+            "en": "A relaxing walk to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt im charmanten Cluster von Tuindorp 't Lansink und den Kasbah-Wohnungen. Nach einem kurzen Spaziergang fahren Sie ins Stadtzentrum. Dort parken Sie und erkunden zu Fuß das religiöse und bürgerliche Herz der Stadt: die Basilika und den Stadhuistoren, gefolgt vom Museum Hengelo. Am Nachmittag fahren Sie zum Technik-Cluster, um das Oyfo Techniekmuseum zu erleben. Ein kurzer Spaziergang zum Prins Bernhardplantsoen bietet einen friedlichen Abschluss, bevor Sie zurück zu Ihrem Auto gehen.",
+        "hu": "Az autós nap a bájos Tuindorp 't Lansink és a Kasbah-lakások alkotta klaszterben kezdődik. Egy rövid séta után a városközpontba hajt. Itt leparkol, és gyalog fedezi fel a város vallási és polgári szívét: a bazilikát és a Városháza-tornyot, majd a Hengelo Múzeumot. Délután a technológiai klaszterbe hajt, hogy megtapasztalja az Oyfo Műszaki Múzeumot. Egy rövid séta a Prins Bernhard parkba békés lezárást kínál, mielőtt visszatérne az autójához.",
+        "ro": "Ziua cu mașina începe în clusterul fermecător format din Tuindorp 't Lansink și locuințele Kasbah. După o scurtă plimbare, conduceți spre centrul orașului. Acolo parcați și explorați pe jos inima religioasă și civică a orașului: bazilica și Turnul Primăriei, urmate de Muzeul Hengelo. După-amiaza, conduceți spre clusterul tehnologic pentru a experimenta Muzeul Tehnic Oyfo. O scurtă plimbare până la Parcul Prins Bernhardplantsoen oferă o încheiere pașnică înainte de a vă întoarce la mașină.",
+        "en": "Your car day starts in the charming cluster of Tuindorp 't Lansink and the Kasbah housing. After a short walk, you'll drive to the city center. There, you'll park and explore the city's religious and civic heart on foot: the basilica and the City Hall Tower, followed by Museum Hengelo. In the afternoon, you drive to the technology cluster to experience the Oyfo Technics Museum. A short walk to the Prins Bernhardplantsoen offers a peaceful conclusion before heading back to your car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Poffertjes",
+            "tip": "Kleine Pfannkuchen, die auf Märkten oder in Cafés serviert werden, oft mit Butter und Puderzucker."
+          },
+          {
+            "name": "Landgoed Hotel & Restaurant Carelshaven",
+            "tip": "Etwas außerhalb, aber die kurze Fahrt wert für ein gehobenes kulinarisches Erlebnis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Poffertjes",
+            "tip": "Kis palacsinták, amelyeket piacokon vagy kávézókban szolgálnak fel, gyakran vajjal és porcukorral."
+          },
+          {
+            "name": "Landgoed Hotel & Restaurant Carelshaven",
+            "tip": "Kicsit kijjebb esik, de megéri a rövid utat egy elegáns kulináris élményért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poffertjes",
+            "tip": "Mici clătite servite la piețe sau cafenele, adesea cu unt și zahăr pudră."
+          },
+          {
+            "name": "Landgoed Hotel & Restaurant Carelshaven",
+            "tip": "Puțin în afara orașului, dar merită drumul scurt pentru o experiență culinară de lux."
+          }
+        ],
+        "en": [
+          {
+            "name": "Poffertjes",
+            "tip": "Small pancakes served at markets or cafes, often with butter and powdered sugar."
+          },
+          {
+            "name": "Landgoed Hotel & Restaurant Carelshaven",
+            "tip": "A bit outside the city, but worth the short drive for an upscale dining experience."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lonnekermeer",
+            "tip": "Ein Naturschutzgebiet nur eine kurze Autofahrt entfernt, ideal für einen ruhigen Spaziergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Die Gärten des Tuindorp",
+            "tip": "Selbst mit anderen Besuchern findet man hier leicht eine ruhige Ecke.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lonnekermeer",
+            "tip": "Természetvédelmi terület csak egy rövid autóútra, ideális egy csendes sétához.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Tuindorp kertjei",
+            "tip": "Még más látogatókkal is könnyen talál itt egy csendes sarkot.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lonnekermeer",
+            "tip": "O rezervație naturală la o scurtă distanță cu mașina, ideală pentru o plimbare liniștită.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile din Tuindorp",
+            "tip": "Chiar și cu alți vizitatori, este ușor să găsești un colț liniștit aici.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lonnekermeer",
+            "tip": "A nature reserve just a short drive away, ideal for a quiet walk.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "The gardens of the Tuindorp",
+            "tip": "Even with other visitors, it's easy to find a quiet corner here.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Winkelcentrum 't Esrein",
+            "tip": "Ein lokales Einkaufszentrum für den täglichen Bedarf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "'t Esrein bevásárlóközpont",
+            "tip": "Helyi bevásárlóközpont a mindennapi szükségletekre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul comercial 't Esrein",
+            "tip": "Un centru comercial local pentru nevoile zilnice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shopping center 't Esrein",
+            "tip": "A local shopping center for daily needs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken im Zentrum ist kostenpflichtig. Nutzen Sie Park-Apps, um die Zahlung zu erleichtern.",
+          "Planen Sie Ihre Routen zwischen den Clustern außerhalb der Stoßzeiten.",
+          "Achten Sie auf Radfahrer, sie sind überall."
+        ],
+        "hu": [
+          "A központban a parkolás fizetős. Használjon parkolási alkalmazásokat a fizetés megkönnyítésére.",
+          "Tervezze meg az útvonalakat a klaszterek között a csúcsidőn kívül.",
+          "Vigyázzon a kerékpárosokra, mindenhol ott vannak."
+        ],
+        "ro": [
+          "Parcarea în centru este cu plată. Folosiți aplicații de parcare pentru a facilita plata.",
+          "Planificați-vă rutele între clustere în afara orelor de vârf.",
+          "Fiți atenți la bicicliști, sunt peste tot."
+        ],
+        "en": [
+          "Parking in the center is paid. Use parking apps to make payment easier.",
+          "Plan your routes between clusters outside of rush hours.",
+          "Watch out for cyclists, they are everywhere."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:33",
+      "total_km": 7.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Distrikt Start: Hauptbahnhof",
+            "hu": "Negyed kezdete: Főpályaudvar",
+            "ro": "Început district: Gara Centrală",
+            "en": "District Start: Central Station"
+          },
+          "coords": [
+            6.79,
+            52.263
+          ],
+          "category": "churches",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Zentrum, Haltestelle 'De Brink'.",
+            "hu": "Menjen busszal a központba, a 'De Brink' megállóig.",
+            "ro": "Luați un autobuz spre centru, stația 'De Brink'.",
+            "en": "Take a bus to the center, 'De Brink' stop."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Lambertus-Basilika",
+            "hu": "Szent Lambert-bazilika",
+            "ro": "Bazilica Sf. Lambertus",
+            "en": "St. Lambertus Basilica"
+          },
+          "coords": [
+            6.7925,
+            52.2661
+          ],
+          "category": "churches",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Stadhuistoren",
+            "hu": "Városháza-torony",
+            "ro": "Turnul Primăriei",
+            "en": "City Hall Tower"
+          },
+          "coords": [
+            6.7918,
+            52.2655
+          ],
+          "category": "historical",
+          "arrive_at": "10:38",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Distrikt Start: Museumsviertel",
+            "hu": "Negyed kezdete: Múzeumi negyed",
+            "ro": "Început district: Cartierul Muzeelor",
+            "en": "District Start: Museum Quarter"
+          },
+          "coords": [
+            6.8012,
+            52.2685
+          ],
+          "category": "museums",
+          "arrive_at": "11:23",
+          "stay_min": 100,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Mehrere Buslinien fahren vom Zentrum in Richtung Oyfo.",
+            "hu": "Több buszjárat is közlekedik a központból az Oyfo irányába.",
+            "ro": "Mai multe linii de autobuz circulă din centru spre Oyfo.",
+            "en": "Several bus lines run from the center towards Oyfo."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Hengelo",
+            "hu": "Hengelo Múzeum",
+            "ro": "Muzeul Hengelo",
+            "en": "Museum Hengelo"
+          },
+          "coords": [
+            6.795,
+            52.267
+          ],
+          "category": "museums",
+          "arrive_at": "13:07",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Distrikt Start: Tuindorp",
+            "hu": "Negyed kezdete: Tuindorp",
+            "ro": "Început district: Tuindorp",
+            "en": "District Start: Tuindorp"
+          },
+          "coords": [
+            6.78,
+            52.252
+          ],
+          "category": "historical",
+          "arrive_at": "15:02",
+          "stay_min": 151,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in Richtung Südwesten, um dieses einzigartige Viertel zu erreichen.",
+            "hu": "Menjen busszal délnyugati irányba, hogy elérje ezt az egyedülálló negyedet.",
+            "ro": "Luați un autobuz spre sud-vest pentru a ajunge în acest cartier unic.",
+            "en": "Take a bus towards the southwest to reach this unique neighborhood."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt im Herzen von Hengelo, wo Sie die Basilika und den Stadhuistoren zu Fuß erkunden. Ein kurzer Bus-Hop bringt Sie zum Museumsviertel. Hier tauchen Sie tief in die Technik- und Industriegeschichte im Oyfo und im Museum Hengelo ein, die nur einen kurzen Spaziergang voneinander entfernt sind. Am Nachmittag bringt Sie ein weiterer Bus zum ruhigen und historischen Tuindorp. Dort haben Sie genügend Zeit, die einzigartige Atmosphäre auf sich wirken zu lassen, bevor Sie Ihre Rückreise antreten.",
+        "hu": "A tömegközlekedéssel töltött nap Hengelo szívében kezdődik, ahol gyalog fedezi fel a bazilikát és a Városháza-tornyot. Egy rövid buszozás elviszi a múzeumi negyedbe. Itt mélyen elmerül a technika és az ipar történetében az Oyfóban és a Hengelo Múzeumban, amelyek csak egy rövid sétára vannak egymástól. Délután egy másik busz viszi a csendes és történelmi Tuindorpba. Itt bőven van ideje magába szívni az egyedi hangulatot, mielőtt visszaindulna.",
+        "ro": "Ziua cu transportul public începe în inima orașului Hengelo, unde explorați pe jos bazilica și Turnul Primăriei. Un scurt drum cu autobuzul vă duce în Cartierul Muzeelor. Aici, vă adânciți în istoria tehnologică și industrială la Oyfo și la Muzeul Hengelo, la o scurtă plimbare unul de celălalt. După-amiaza, un alt autobuz vă duce în liniștitul și istoricul Tuindorp. Acolo aveți suficient timp să absorbiți atmosfera unică înainte de a vă întoarce.",
+        "en": "Your day on public transport begins in the heart of Hengelo, exploring the basilica and City Hall Tower on foot. A short bus hop takes you to the Museum Quarter. Here, you'll dive deep into technology and industrial history at Oyfo and Museum Hengelo, a short walk from each other. In the afternoon, another bus takes you to the quiet and historic Tuindorp. There you'll have ample time to soak in the unique atmosphere before heading back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Haring",
+            "tip": "Wenn Sie zur richtigen Jahreszeit hier sind (Mai-Juli), probieren Sie rohen Hering von einem Fischstand auf dem Markt."
+          },
+          {
+            "name": "Stravinsky",
+            "tip": "Ein beliebtes Grand Café im Zentrum, ideal für einen Kaffee oder ein Mittagessen zwischen den Busfahrten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hering",
+            "tip": "Ha a megfelelő évszakban (május-július) jár itt, kóstolja meg a nyers heringet egy piaci halárusnál."
+          },
+          {
+            "name": "Stravinsky",
+            "tip": "Népszerű grand café a központban, ideális egy kávéra vagy ebédre a buszozások között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hering",
+            "tip": "Dacă sunteți aici în sezonul potrivit (mai-iulie), încercați hering crud de la o tarabă de pește din piață."
+          },
+          {
+            "name": "Stravinsky",
+            "tip": "O Grand Café populară în centru, ideală pentru o cafea sau un prânz între călătoriile cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Herring",
+            "tip": "If you're here in the right season (May-July), try raw herring from a fish stall at the market."
+          },
+          {
+            "name": "Stravinsky",
+            "tip": "A popular grand café in the center, ideal for a coffee or lunch between bus rides."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof am alten Friedhofsweg",
+            "tip": "Ein überraschend friedlicher und historischer Ort für einen Moment der Stille.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang entlang des Berflowegs",
+            "tip": "Ein grüner Pfad, der vom Zentrum wegführt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Temető az Oude Begraafplaats úton",
+            "tip": "Meglepően békés és történelmi hely egy csendes pillanatra.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a Berfloweg mentén",
+            "tip": "Zöld ösvény, amely kivezet a központból.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul de pe Oude Begraafplaats",
+            "tip": "Un loc surprinzător de pașnic și istoric pentru un moment de liniște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare de-a lungul Berfloweg",
+            "tip": "O potecă verde care duce în afara centrului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cemetery on the Oude Begraafplaats",
+            "tip": "A surprisingly peaceful and historic place for a quiet moment.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk along the Berfloweg",
+            "tip": "A green path leading away from the center.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Boekhandel Broekhuis",
+            "tip": "Eine große Buchhandlung mit einer guten Auswahl an lokalen Geschichtsbüchern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Broekhuis könyvesbolt",
+            "tip": "Nagy könyvesbolt, jó választékkal a helyi történelemről szóló könyvekből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Librăria Broekhuis",
+            "tip": "O librărie mare cu o selecție bună de cărți de istorie locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Broekhuis Bookstore",
+            "tip": "A large bookstore with a good selection of local history books."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Verwenden Sie eine ÖPNV-App wie 9292, um Ihre Fahrten in Echtzeit zu planen.",
+          "Beachten Sie, dass Busse abends seltener fahren."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy pénzt takarítson meg.",
+          "Használjon egy tömegközlekedési alkalmazást, mint a 9292, hogy valós időben tervezze meg utazásait.",
+          "Vegye figyelembe, hogy a buszok este ritkábban járnak."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru autobuz pentru a economisi bani.",
+          "Folosiți o aplicație de transport public precum 9292 pentru a vă planifica călătoriile în timp real.",
+          "Rețineți că autobuzele circulă mai rar seara."
+        ],
+        "en": [
+          "Buy a day pass for the bus to save money.",
+          "Use a public transport app like 9292 to plan your trips in real time.",
+          "Be aware that buses may run less frequently in the evening."
+        ]
+      }
+    }
+  }
+}

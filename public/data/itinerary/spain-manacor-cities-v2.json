@@ -1,0 +1,1272 @@
+{
+  "city_id": "spain-manacor-cities-v2",
+  "anchor": {
+    "name": "Manacor",
+    "coords": [
+      3.2096,
+      39.5694
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaça de sa Bassa",
+            "hu": "Plaça de sa Bassa",
+            "ro": "Plaça de sa Bassa",
+            "en": "Plaça de sa Bassa"
+          },
+          "coords": [
+            3.209,
+            39.569
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Starten Sie mit einem Kaffee in einem der Cafés und beobachten Sie das morgendliche Treiben.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában, és figyelje a reggeli nyüzsgést.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață și observați agitația de dimineață.",
+            "en": "Start with a coffee at one of the square's cafes and watch the morning bustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mare de Déu dels Dolors",
+            "hu": "Mare de Déu dels Dolors-templom",
+            "ro": "Biserica Mare de Déu dels Dolors",
+            "en": "Church of Mare de Déu dels Dolors"
+          },
+          "coords": [
+            3.208,
+            39.57
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf den neugotischen Glockenturm, der die Skyline der Stadt dominiert.",
+            "hu": "Keresse a neogótikus harangtornyot, amely uralja a város látképét.",
+            "ro": "Fiți atenți la clopotnița neogotică ce domină orizontul orașului.",
+            "en": "Look for the neo-Gothic bell tower that dominates the town's skyline."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de Ses Puntes",
+            "hu": "Torre de Ses Puntes",
+            "ro": "Torre de Ses Puntes",
+            "en": "Torre de Ses Puntes"
+          },
+          "coords": [
+            3.211,
+            39.571
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie die Öffnungszeiten; der Turm beherbergt oft interessante Kunstausstellungen.",
+            "hu": "Ellenőrizze a nyitvatartási időt; a toronyban gyakran érdekes művészeti kiállításokat tartanak.",
+            "ro": "Verificați programul; turnul găzduiește adesea expoziții de artă interesante.",
+            "en": "Check opening times; the tower often hosts interesting art exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Geschichtsmuseum Manacor",
+            "hu": "Manacor Történeti Múzeum",
+            "ro": "Muzeul de Istorie din Manacor",
+            "en": "History Museum of Manacor"
+          },
+          "coords": [
+            3.207,
+            39.568
+          ],
+          "category": "museums",
+          "arrive_at": "11:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum befindet sich in einem alten Herrenhaus und bietet Einblicke in die römische und talayotische Vergangenheit.",
+            "hu": "A múzeum egy régi udvarházban található, és betekintést nyújt a római és talayotikus múltba.",
+            "ro": "Muzeul este găzduit într-un vechi conac și oferă o perspectivă asupra trecutului roman și talaiotic.",
+            "en": "The museum is housed in an old manor and offers insights into the Roman and Talayotic past."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Sant Vicenç Ferrer",
+            "hu": "Sant Vicenç Ferrer kolostor",
+            "ro": "Mănăstirea Sant Vicenç Ferrer",
+            "en": "Convent of Sant Vicenç Ferrer"
+          },
+          "coords": [
+            3.206,
+            39.572
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe im barocken Kreuzgang, eine Oase der Stille im Stadtzentrum.",
+            "hu": "Élvezze a barokk kerengő nyugalmát, a csend oázisát a városközpontban.",
+            "ro": "Bucurați-vă de liniștea din claustrul baroc, o oază de pace în centrul orașului.",
+            "en": "Enjoy the tranquility in the baroque cloister, an oasis of peace in the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Majorica Perlenfabrik",
+            "hu": "Majorica gyöngygyár",
+            "ro": "Fabrica de Perle Majorica",
+            "en": "Majorica Pearl Factory"
+          },
+          "coords": [
+            3.218,
+            39.565
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:15",
+          "stay_min": 110,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil, um den Herstellungsprozess der weltberühmten Perlen zu sehen.",
+            "hu": "Vegyen részt egy vezetett túrán, hogy megnézze a világhírű gyöngyök készítési folyamatát.",
+            "ro": "Participați la un tur ghidat pentru a vedea procesul de fabricație al perlelor de renume mondial.",
+            "en": "Join a guided tour to see the manufacturing process of the world-famous pearls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Spaziergang durch Manacor beginnt am belebten Plaça de sa Bassa und führt zur imposanten neugotischen Kirche. Am Vormittag erkunden Sie historische Türme und tauchen im Geschichtsmuseum in die Vergangenheit der Region ein. Nach dem Mittagessen bietet der ruhige Kreuzgang des Klosters Sant Vicenç Ferrer eine friedliche Pause. Der Nachmittag ist dem glänzenden Erbe der Stadt in der Majorica Perlenfabrik gewidmet, wo Sie die Kunst der Perlenherstellung entdecken. Der Tag endet mit einem entspannten Bummel zurück durch die charmanten Straßen der Stadt.",
+        "hu": "A manacori séta a nyüzsgő Plaça de sa Bassán kezdődik, majd az impozáns neogótikus templomhoz vezet. Délelőtt fedezze fel a történelmi tornyokat, és merüljön el a régió múltjában a Történeti Múzeumban. Ebéd után a Sant Vicenç Ferrer kolostor csendes kerengője kínál békés pihenést. A délután a város csillogó örökségéről szól a Majorica gyöngygyárban, ahol megismerheti a gyöngykészítés művészetét. A nap egy kellemes sétával zárul vissza a város bájos utcáin.",
+        "ro": "O plimbare prin Manacor începe în animata Plaça de sa Bassa și continuă spre impunătoarea biserică neogotică. Dimineața, explorați turnuri istorice și scufundați-vă în trecutul regiunii la Muzeul de Istorie. După prânz, claustrul liniștit al mănăstirii Sant Vicenç Ferrer oferă o pauză pașnică. După-amiaza este dedicată moștenirii strălucitoare a orașului la Fabrica de Perle Majorica, unde descoperiți arta fabricării perlelor. Ziua se încheie cu o plimbare relaxată înapoi pe străzile fermecătoare ale orașului.",
+        "en": "A walk through Manacor starts at the bustling Plaça de sa Bassa, leading to the imposing neo-Gothic church. In the morning, explore historic towers and delve into the region's past at the History Museum. After lunch, the quiet cloister of the Convent of Sant Vicenç Ferrer offers a peaceful break. The afternoon is dedicated to the city's gleaming heritage at the Majorica Pearl Factory, where you discover the art of pearl making. The day concludes with a leisurely stroll back through the town's charming streets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sobrassada",
+            "tip": "Probieren Sie diese streichfähige Paprikawurst auf lokalem Brot."
+          },
+          {
+            "name": "Tumbet",
+            "tip": "Ein vegetarisches Gericht aus Auberginen, Kartoffeln und Paprika in Tomatensauce."
+          },
+          {
+            "name": "Ensaimada",
+            "tip": "Ein spiralförmiges Gebäck, perfekt zum Frühstück oder als süßer Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sobrassada",
+            "tip": "Kóstolja meg ezt a kenhető paprikás kolbászt helyi kenyérrel."
+          },
+          {
+            "name": "Tumbet",
+            "tip": "Vegetáriánus egytálétel padlizsánból, burgonyából és paprikából, paradicsomszószban."
+          },
+          {
+            "name": "Ensaimada",
+            "tip": "Spirál alakú péksütemény, tökéletes reggelire vagy édes uzsonnára."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sobrassada",
+            "tip": "Încercați acest cârnat tartinabil cu boia pe pâine locală."
+          },
+          {
+            "name": "Tumbet",
+            "tip": "Un fel de mâncare vegetarian din vinete, cartofi și ardei în sos de roșii."
+          },
+          {
+            "name": "Ensaimada",
+            "tip": "Un produs de patiserie în formă de spirală, perfect pentru micul dejun sau o gustare dulce."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sobrassada",
+            "tip": "Try this spreadable paprika sausage on local bread."
+          },
+          {
+            "name": "Tumbet",
+            "tip": "A vegetarian dish of eggplant, potatoes, and peppers in tomato sauce."
+          },
+          {
+            "name": "Ensaimada",
+            "tip": "A spiral-shaped pastry, perfect for breakfast or a sweet snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kreuzgang des Klosters Sant Vicenç Ferrer",
+            "tip": "Ein ruhiger, von der Außenwelt abgeschirmter Ort.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Gassen der Altstadt",
+            "tip": "Verlieren Sie sich in den engen Gassen abseits der Hauptplätze.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sant Vicenç Ferrer kolostor kerengője",
+            "tip": "Csendes hely, elzárva a külvilágtól.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Óvárosi sikátorok",
+            "tip": "Vesszen el a főterektől távol eső szűk utcácskákban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Claustrul Mănăstirii Sant Vicenç Ferrer",
+            "tip": "Un loc liniștit, ferit de lumea exterioară.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Străduțele din centrul vechi",
+            "tip": "Pierdeți-vă pe aleile înguste, departe de piețele principale.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cloister of the Convent of Sant Vicenç Ferrer",
+            "tip": "A quiet spot shielded from the outside world.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Old Town Alleyways",
+            "tip": "Get lost in the narrow lanes away from the main squares.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Majorica Perlen",
+            "tip": "Kaufen Sie das ikonische Souvenir der Stadt direkt an der Quelle."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Findet montags statt und bietet lokale Produkte und Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Majorica gyöngyök",
+            "tip": "Vásárolja meg a város ikonikus szuvenírjét közvetlenül a forrásnál."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Hétfőnként tartják, helyi termékeket és kézműves árukat kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Perle Majorica",
+            "tip": "Cumpărați suvenirul iconic al orașului direct de la sursă."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Are loc lunea și oferă produse locale și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Majorica Pearls",
+            "tip": "Buy the town's iconic souvenir directly from the source."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "Held on Mondays, offering local produce and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Zentrum von Manacor am besten zu Fuß erkundet wird.",
+          "Die meisten Geschäfte halten eine Siesta, planen Sie Ihren Einkaufsbummel also für den Vormittag oder späten Nachmittag.",
+          "Achten Sie auf den Wochenmarkt am Montag, der die Straßen mit Leben füllt."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel Manacor központját a legjobb gyalog felfedezni.",
+          "A legtöbb üzlet sziesztát tart, ezért a vásárlást délelőttre vagy késő délutánra tervezze.",
+          "Vegye figyelembe a hétfői hetipiacot, amely élettel tölti meg az utcákat."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece centrul orașului Manacor este cel mai bine explorat pe jos.",
+          "Majoritatea magazinelor respectă siesta, așa că planificați-vă cumpărăturile pentru dimineață sau după-amiaza târziu.",
+          "Fiți atenți la piața săptămânală de luni, care umple străzile de viață."
+        ],
+        "en": [
+          "Wear comfortable shoes as the center of Manacor is best explored on foot.",
+          "Most shops observe a siesta, so plan your shopping for the morning or late afternoon.",
+          "Look out for the weekly market on Monday, which fills the streets with life."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaça de sa Bassa",
+            "hu": "Plaça de sa Bassa",
+            "ro": "Plaça de sa Bassa",
+            "en": "Plaça de sa Bassa"
+          },
+          "coords": [
+            3.209,
+            39.569
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und genießen Sie einen Kaffee, bevor Sie losfahren.",
+            "hu": "Parkolja le a kerékpárt, és igyon egy kávét, mielőtt elindul.",
+            "ro": "Parcați bicicleta și savurați o cafea înainte de a porni la drum.",
+            "en": "Park your bike and enjoy a coffee before heading out."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mare de Déu dels Dolors",
+            "hu": "Mare de Déu dels Dolors-templom",
+            "ro": "Biserica Mare de Déu dels Dolors",
+            "en": "Church of Mare de Déu dels Dolors"
+          },
+          "coords": [
+            3.208,
+            39.57
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:33",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad in der Nähe ab und bewundern Sie die beeindruckende Fassade.",
+            "hu": "Hagyja a közelben a kerékpárt, és csodálja meg a lenyűgöző homlokzatot.",
+            "ro": "Lăsați bicicleta în apropiere și admirați fațada impresionantă.",
+            "en": "Leave your bike nearby and admire the impressive facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de Ses Puntes",
+            "hu": "Torre de Ses Puntes",
+            "ro": "Torre de Ses Puntes",
+            "en": "Torre de Ses Puntes"
+          },
+          "coords": [
+            3.211,
+            39.571
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:09",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Von hier aus hat man einen guten Blick auf die Dächer der Stadt.",
+            "hu": "Innen jó kilátás nyílik a város háztetőire.",
+            "ro": "De aici se poate admira o priveliște frumoasă asupra acoperișurilor orașului.",
+            "en": "You get a good view of the city's rooftops from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Rafael Nadal Museum",
+            "hu": "Rafael Nadal Múzeum",
+            "ro": "Muzeul Rafael Nadal",
+            "en": "Rafael Nadal Museum"
+          },
+          "coords": [
+            3.223,
+            39.563
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein Muss für Sportfans. Planen Sie genügend Zeit für die interaktiven Exponate ein.",
+            "hu": "Sportrajongóknak kötelező. Tervezzen elég időt az interaktív kiállításokra.",
+            "ro": "O vizită obligatorie pentru fanii sportului. Planificați suficient timp pentru exponatele interactive.",
+            "en": "A must-visit for sports fans. Plan enough time for the interactive exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Majorica Perlenfabrik",
+            "hu": "Majorica gyöngygyár",
+            "ro": "Fabrica de Perle Majorica",
+            "en": "Majorica Pearl Factory"
+          },
+          "coords": [
+            3.218,
+            39.565
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Nach dem Museum ist es nur eine kurze Fahrt zur Perlenfabrik für etwas Glanz und Glamour.",
+            "hu": "A múzeum után csak egy rövid út a gyöngygyárig egy kis csillogásért és ragyogásért.",
+            "ro": "După muzeu, este doar o scurtă plimbare cu bicicleta până la fabrica de perle pentru puțină strălucire și farmec.",
+            "en": "After the museum, it's a short ride to the pearl factory for some sparkle and glamour."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Sant Vicenç Ferrer",
+            "hu": "Sant Vicenç Ferrer kolostor",
+            "ro": "Mănăstirea Sant Vicenç Ferrer",
+            "en": "Convent of Sant Vicenç Ferrer"
+          },
+          "coords": [
+            3.206,
+            39.572
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie den Tag mit einem Moment der Ruhe im wunderschönen Kreuzgang ab.",
+            "hu": "Zárja a napot egy csendes pillanattal a gyönyörű kerengőben.",
+            "ro": "Încheiați ziua cu un moment de liniște în frumosul claustru.",
+            "en": "End the day with a moment of peace in the beautiful cloister."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auf zwei Rädern durch Manacor: Beginnen Sie am Plaça de sa Bassa und radeln Sie zur Kirche und zum Torre de Ses Puntes für einen Überblick. Eine längere Fahrt führt Sie am Vormittag zum Rafael Nadal Museum, einem modernen Highlight. Nach dem sportlichen Vormittag geht es weiter zur Majorica Perlenfabrik. Der Nachmittag wird mit einem Besuch des ruhigen Klosters Sant Vicenç Ferrer abgerundet, bevor Sie zurück ins Zentrum radeln. Diese Tour verbindet Kultur mit den sportlichen und handwerklichen Aushängeschildern der Stadt.",
+        "hu": "Két keréken Manacorban: Induljon a Plaça de sa Bassáról, majd tekerjen el a templomhoz és a Torre de Ses Puntes-hez egy kis körképért. Egy hosszabb út vezet a Rafael Nadal Múzeumhoz, egy modern látványossághoz. A sportos délelőtt után irány a Majorica gyöngygyár. A délutánt a csendes Sant Vicenç Ferrer kolostor meglátogatásával zárja, mielőtt visszatekerne a központba. Ez a túra ötvözi a kultúrát a város sportos és kézműves büszkeségeivel.",
+        "ro": "Pe două roți prin Manacor: Începeți din Plaça de sa Bassa și pedalați spre biserică și Torre de Ses Puntes pentru o privire de ansamblu. O plimbare mai lungă vă duce la Muzeul Rafael Nadal, un punct de atracție modern. După dimineața sportivă, continuați spre Fabrica de Perle Majorica. După-amiaza se încheie cu o vizită la liniștita Mănăstire Sant Vicenç Ferrer, înainte de a pedala înapoi în centru. Acest tur combină cultura cu emblemele sportive și artizanale ale orașului.",
+        "en": "On two wheels through Manacor: Start at Plaça de sa Bassa and cycle to the church and the Torre de Ses Puntes for an overview. A longer ride takes you to the Rafael Nadal Museum, a modern highlight. After the sporty morning, continue to the Majorica Pearl Factory. The afternoon is rounded off with a visit to the peaceful Convent of Sant Vicenç Ferrer before cycling back to the center. This tour combines culture with the city's sporting and artisanal flagships."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pa amb oli",
+            "tip": "Geröstetes Brot mit Tomate und Olivenöl, oft mit Käse oder Schinken serviert. Ein perfekter Biker-Snack."
+          },
+          {
+            "name": "Frische Fruchtsäfte",
+            "tip": "Suchen Sie nach einer Bar, die frisch gepresste Säfte anbietet, um sich zu erfrischen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pa amb oli",
+            "tip": "Pirított kenyér paradicsommal és olívaolajjal, gyakran sajttal vagy sonkával tálalva. Tökéletes kerékpáros uzsonna."
+          },
+          {
+            "name": "Friss gyümölcslevek",
+            "tip": "Keressen egy bárt, ahol frissen facsart gyümölcsleveket kínálnak a felüdüléshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pa amb oli",
+            "tip": "Pâine prăjită cu roșii și ulei de măsline, adesea servită cu brânză sau șuncă. O gustare perfectă pentru bicicliști."
+          },
+          {
+            "name": "Sucuri proaspete de fructe",
+            "tip": "Căutați un bar care oferă sucuri proaspăt stoarse pentru a vă reîmprospăta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pa amb oli",
+            "tip": "Toasted bread with tomato and olive oil, often served with cheese or ham. A perfect biker snack."
+          },
+          {
+            "name": "Fresh fruit juices",
+            "tip": "Look for a bar that offers freshly squeezed juices to refresh yourself."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Weg zur Rafa Nadal Academy",
+            "tip": "Die ruhigeren Straßen außerhalb des Zentrums bieten eine entspannte Fahrt.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Gärten des Klosters",
+            "tip": "Ein friedlicher Ort, um nach der Radtour durchzuatmen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Út a Rafa Nadal Akadémiához",
+            "tip": "A központon kívüli csendesebb utcák nyugodt tekerést kínálnak.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "A kolostor kertjei",
+            "tip": "Békés hely a kerékpártúra utáni pihenéshez.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumul spre Academia Rafa Nadal",
+            "tip": "Străzile mai liniștite din afara centrului oferă o plimbare relaxantă.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Grădinile mănăstirii",
+            "tip": "Un loc pașnic pentru a respira adânc după turul cu bicicleta.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Path to the Rafa Nadal Academy",
+            "tip": "The quieter streets outside the center offer a relaxed ride.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Gardens of the Convent",
+            "tip": "A peaceful place to take a breath after the bike ride.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Keramik",
+            "tip": "Halten Sie Ausschau nach kleinen Werkstätten, die traditionelle mallorquinische Keramik verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerámiák",
+            "tip": "Keressen kis műhelyeket, ahol hagyományos mallorcai kerámiákat árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică locală",
+            "tip": "Căutați ateliere mici care vând ceramică tradițională mallorcană."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local pottery",
+            "tip": "Look out for small workshops selling traditional Mallorcan ceramics."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Zustand Ihres Leihfahrrads, bevor Sie losfahren.",
+          "Manacor ist relativ flach, aber einige Straßen können eng sein, fahren Sie also vorsichtig.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, besonders an Touristenattraktionen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a bérelt kerékpár állapotát.",
+          "Manacor viszonylag sík, de néhány utca szűk lehet, ezért óvatosan közlekedjen.",
+          "Mindig gondosan zárja le a kerékpárt, különösen a turisztikai látványosságoknál."
+        ],
+        "ro": [
+          "Verificați starea bicicletei închiriate înainte de a porni la drum.",
+          "Manacor este relativ plat, dar unele străzi pot fi înguste, așa că mergeți cu prudență.",
+          "Legați-vă întotdeauna bine bicicleta, mai ales la atracțiile turistice."
+        ],
+        "en": [
+          "Check the condition of your rental bike before you set off.",
+          "Manacor is relatively flat, but some streets can be narrow, so ride carefully.",
+          "Always lock your bike securely, especially at tourist attractions."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 28.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum & Plaça de sa Bassa",
+            "hu": "Parkoló a központban és Plaça de sa Bassa",
+            "ro": "Parcare centrală & Plaça de sa Bassa",
+            "en": "Central Parking & Plaça de sa Bassa"
+          },
+          "coords": [
+            3.209,
+            39.569
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto für den Vormittag und erkunden Sie den ersten Cluster zu Fuß.",
+            "hu": "Parkolja le az autót délelőttre, és fedezze fel az első látnivalócsoportot gyalog.",
+            "ro": "Parcați mașina pentru dimineață și explorați primul grup de atracții pe jos.",
+            "en": "Park your car for the morning and explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mare de Déu dels Dolors",
+            "hu": "Mare de Déu dels Dolors-templom",
+            "ro": "Biserica Mare de Déu dels Dolors",
+            "en": "Church of Mare de Déu dels Dolors"
+          },
+          "coords": [
+            3.208,
+            39.57
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz aus.",
+            "hu": "Csak egy rövid séta a tértől.",
+            "ro": "La o scurtă plimbare de piață.",
+            "en": "Just a short walk from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Geschichtsmuseum Manacor",
+            "hu": "Manacor Történeti Múzeum",
+            "ro": "Muzeul de Istorie din Manacor",
+            "en": "History Museum of Manacor"
+          },
+          "coords": [
+            3.207,
+            39.568
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vervollständigen Sie Ihren Rundgang durch die Altstadt mit einem Besuch im Museum.",
+            "hu": "Tegye teljessé óvárosi sétáját a múzeum meglátogatásával.",
+            "ro": "Completați-vă turul centrului vechi cu o vizită la muzeu.",
+            "en": "Complete your tour of the old town with a visit to the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Rafael Nadal Museum",
+            "hu": "Rafael Nadal Múzeum",
+            "ro": "Muzeul Rafael Nadal",
+            "en": "Rafael Nadal Museum"
+          },
+          "coords": [
+            3.223,
+            39.563
+          ],
+          "category": "museums",
+          "arrive_at": "11:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum nächsten Cluster. Es gibt ausreichend Parkplätze an der Akademie.",
+            "hu": "Vezessen a következő látnivalócsoporthoz. Az akadémiánál bőséges parkolóhely áll rendelkezésre.",
+            "ro": "Conduceți spre următorul grup de atracții. Există o parcare amplă la academie.",
+            "en": "Drive to the next cluster. There is ample parking at the academy."
+          }
+        },
+        {
+          "name": {
+            "de": "Majorica Perlenfabrik",
+            "hu": "Majorica gyöngygyár",
+            "ro": "Fabrica de Perle Majorica",
+            "en": "Majorica Pearl Factory"
+          },
+          "coords": [
+            3.218,
+            39.565
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt zurück in Richtung Stadtzentrum zum berühmten Ausstellungsraum und der Fabrik.",
+            "hu": "Egy rövid autóút vissza a városközpont felé a híres bemutatóteremhez és gyárhoz.",
+            "ro": "O scurtă călătorie cu mașina înapoi spre centrul orașului, la faimosul showroom și fabrică.",
+            "en": "A short drive back towards the city center to the famous showroom and factory."
+          }
+        },
+        {
+          "name": {
+            "de": "Coves del Drac (Drachenhöhlen)",
+            "hu": "Coves del Drac (Sárkánybarlangok)",
+            "ro": "Coves del Drac (Peșterile Dragonului)",
+            "en": "Coves del Drac (Dragon Caves)"
+          },
+          "coords": [
+            3.333,
+            39.536
+          ],
+          "category": "natural features",
+          "arrive_at": "15:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Der Hauptausflug des Tages. Buchen Sie Tickets im Voraus, um lange Warteschlangen zu vermeiden.",
+            "hu": "A nap fő kirándulása. Foglaljon jegyet előre, hogy elkerülje a hosszú sorokat.",
+            "ro": "Excursia principală a zilei. Rezervați biletele în avans pentru a evita cozile lungi.",
+            "en": "The main excursion of the day. Book tickets in advance to avoid long queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Porto Cristo",
+            "hu": "Porto Cristo kilátó",
+            "ro": "Punct de belvedere Porto Cristo",
+            "en": "Porto Cristo Viewpoint"
+          },
+          "coords": [
+            3.339,
+            39.54
+          ],
+          "category": "viewpoint",
+          "arrive_at": "17:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Blick auf den Hafen von Porto Cristo bei Sonnenuntergang.",
+            "hu": "Zárja a napot a Porto Cristo kikötőjére nyíló kilátással naplementekor.",
+            "ro": "Încheiați ziua cu o priveliște a portului Porto Cristo la apus.",
+            "en": "End the day with a view of the Porto Cristo harbor at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Autotag um Manacor beginnt mit dem Parken im Zentrum, um die Altstadt zu Fuß zu erkunden. Am Vormittag fahren Sie zum Rafael Nadal Museum für eine Dosis Sportgeschichte. Nach dem Mittagessen führt eine kurze Fahrt zur Majorica Perlenfabrik. Der Höhepunkt des Nachmittags ist die Fahrt zu den beeindruckenden Drachenhöhlen in Porto Cristo. Der Tag endet mit einem Panoramablick auf den Hafen, der die perfekte Kulisse für den Sonnenuntergang bietet. Diese Route kombiniert das städtische Herz Manacors mit seinen weltberühmten Attraktionen in der Umgebung.",
+        "hu": "Egy autós nap Manacor környékén a központban való parkolással kezdődik, hogy gyalog fedezhessük fel az óvárost. Délelőtt a Rafael Nadal Múzeum felé vesszük az irányt egy adag sporttörténelemért. Ebéd után egy rövid út vezet a Majorica gyöngygyárhoz. A délután csúcspontja az utazás a lenyűgöző Sárkánybarlangokhoz Porto Cristóban. A nap egy panorámás kilátással zárul a kikötőre, amely tökéletes hátteret biztosít a naplementéhez. Ez az útvonal ötvözi Manacor városi szívét a környező világhírű látnivalókkal.",
+        "ro": "O zi cu mașina în jurul Manacorului începe cu parcarea în centru pentru a explora orașul vechi pe jos. Dimineața, conduceți la Muzeul Rafael Nadal pentru o doză de istorie sportivă. După prânz, o scurtă călătorie cu mașina duce la Fabrica de Perle Majorica. Punctul culminant al după-amiezii este excursia la impresionantele Peșteri ale Dragonului din Porto Cristo. Ziua se încheie cu o vedere panoramică a portului, oferind fundalul perfect pentru apus. Acest traseu combină inima urbană a Manacorului cu atracțiile sale de renume mondial din jur.",
+        "en": "A car day around Manacor begins with parking in the center to explore the old town on foot. In the morning, drive to the Rafael Nadal Museum for a dose of sports history. After lunch, a short drive leads to the Majorica Pearl Factory. The highlight of the afternoon is the trip to the impressive Dragon Caves in Porto Cristo. The day concludes with a panoramic view of the harbor, providing the perfect sunset backdrop. This route combines the urban heart of Manacor with its world-famous surrounding attractions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurante in Porto Cristo",
+            "tip": "Genießen Sie frischen Fisch und Meeresfrüchte mit Blick auf den Hafen."
+          },
+          {
+            "name": "Frito Mallorquín",
+            "tip": "Ein herzhaftes Gericht aus Lamm- oder Schweinefleischinnereien und Gemüse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem Porto Cristóban",
+            "tip": "Élvezze a friss halat és tenger gyümölcseit a kikötőre néző kilátással."
+          },
+          {
+            "name": "Frito Mallorquín",
+            "tip": "Kiadós étel bárány- vagy sertésbelsőségekből és zöldségekből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant în Porto Cristo",
+            "tip": "Bucurați-vă de pește proaspăt și fructe de mare cu vedere la port."
+          },
+          {
+            "name": "Frito Mallorquín",
+            "tip": "Un fel de mâncare consistent din măruntaie de miel sau porc și legume."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant in Porto Cristo",
+            "tip": "Enjoy fresh fish and seafood with a view of the harbor."
+          },
+          {
+            "name": "Frito Mallorquín",
+            "tip": "A hearty dish of lamb or pork offal and vegetables."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Martelsee in den Coves del Drac",
+            "tip": "Erleben Sie die magische Stille während des Konzerts auf dem unterirdischen See.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fahrt durch die Landschaft",
+            "tip": "Die Straßen zwischen Manacor und Porto Cristo führen durch ruhige ländliche Gebiete.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Martel-tó a Coves del Drac-ban",
+            "tip": "Élje át a varázslatos csendet a föld alatti tavon tartott koncert alatt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Autózás a vidéken",
+            "tip": "A Manacor és Porto Cristo közötti utak csendes vidéki területeken vezetnek keresztül.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Martel din Coves del Drac",
+            "tip": "Experimentați liniștea magică în timpul concertului de pe lacul subteran.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Drum prin peisajul rural",
+            "tip": "Drumurile dintre Manacor și Porto Cristo trec prin zone rurale liniștite.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lake Martel in Coves del Drac",
+            "tip": "Experience the magical silence during the concert on the underground lake.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Drive through the countryside",
+            "tip": "The roads between Manacor and Porto Cristo pass through quiet rural areas.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Olivenholzprodukte",
+            "tip": "Manacor ist bekannt für seine hochwertigen Möbel und Souvenirs aus Olivenholz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olajfa termékek",
+            "tip": "Manacor híres a minőségi olajfa bútorairól és ajándéktárgyairól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse din lemn de măslin",
+            "tip": "Manacor este renumit pentru mobilierul său de înaltă calitate și suvenirurile din lemn de măslin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive wood products",
+            "tip": "Manacor is known for its high-quality olive wood furniture and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Buchen Sie Tickets für die Coves del Drac online, um die besten Zeitfenster zu erhalten.",
+          "Parken im Zentrum von Manacor kann schwierig sein, nutzen Sie die ausgewiesenen Parkhäuser.",
+          "Tanken Sie vor längeren Fahrten, obwohl die Entfernungen nicht riesig sind."
+        ],
+        "hu": [
+          "Foglaljon online jegyet a Coves del Drac-ba, hogy a legjobb időpontokat kapja.",
+          "A parkolás Manacor központjában nehézkes lehet, használja a kijelölt parkolóházakat.",
+          "Tankoljon a hosszabb utak előtt, bár a távolságok nem óriásiak."
+        ],
+        "ro": [
+          "Rezervați biletele pentru Coves del Drac online pentru a obține cele mai bune intervale orare.",
+          "Parcarea în centrul Manacorului poate fi dificilă, folosiți parcările desemnate.",
+          "Alimentați cu combustibil înainte de călătoriile mai lungi, deși distanțele nu sunt uriașe."
+        ],
+        "en": [
+          "Book tickets for Coves del Drac online to get the best time slots.",
+          "Parking in the center of Manacor can be difficult, use the designated car parks.",
+          "Fuel up before longer drives, although distances are not huge."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "19:00",
+      "total_km": 25.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Busbahnhof & Plaça de sa Bassa",
+            "hu": "Központi buszpályaudvar és Plaça de sa Bassa",
+            "ro": "Autogară centrală & Plaça de sa Bassa",
+            "en": "Central Bus Station & Plaça de sa Bassa"
+          },
+          "coords": [
+            3.209,
+            39.569
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einem Spaziergang vom Busbahnhof zum Hauptplatz.",
+            "hu": "Kezdje a napot egy sétával a buszpályaudvartól a főtérig.",
+            "ro": "Începeți ziua cu o plimbare de la autogară la piața principală.",
+            "en": "Start your day with a walk from the bus station to the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mare de Déu dels Dolors",
+            "hu": "Mare de Déu dels Dolors-templom",
+            "ro": "Biserica Mare de Déu dels Dolors",
+            "en": "Church of Mare de Déu dels Dolors"
+          },
+          "coords": [
+            3.208,
+            39.57
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dieser erste Cluster im Stadtzentrum ist leicht zu Fuß zu bewältigen.",
+            "hu": "Ez az első látnivalócsoport a városközpontban könnyen bejárható gyalog.",
+            "ro": "Acest prim grup de atracții din centrul orașului este ușor de parcurs pe jos.",
+            "en": "This first cluster in the city center is easily managed on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Geschichtsmuseum Manacor",
+            "hu": "Manacor Történeti Múzeum",
+            "ro": "Muzeul de Istorie din Manacor",
+            "en": "History Museum of Manacor"
+          },
+          "coords": [
+            3.207,
+            39.568
+          ],
+          "category": "museums",
+          "arrive_at": "10:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die Geschichte der Stadt, bevor Sie den Bus zum nächsten Ziel nehmen.",
+            "hu": "Fedezze fel a város történelmét, mielőtt buszra szállna a következő célponthoz.",
+            "ro": "Explorați istoria orașului înainte de a lua autobuzul spre următoarea destinație.",
+            "en": "Explore the city's history before taking the bus to the next destination."
+          }
+        },
+        {
+          "name": {
+            "de": "Rafael Nadal Museum",
+            "hu": "Rafael Nadal Múzeum",
+            "ro": "Muzeul Rafael Nadal",
+            "en": "Rafael Nadal Museum"
+          },
+          "coords": [
+            3.223,
+            39.563
+          ],
+          "category": "museums",
+          "arrive_at": "11:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.8,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus zur Rafa Nadal Academy. Prüfen Sie die Buslinien TIB 412 oder 416.",
+            "hu": "Vegyen egy helyi buszt a Rafa Nadal Akadémiához. Ellenőrizze a TIB 412-es vagy 416-os buszjáratokat.",
+            "ro": "Luați un autobuz local spre Academia Rafa Nadal. Verificați liniile de autobuz TIB 412 sau 416.",
+            "en": "Take a local bus to the Rafa Nadal Academy. Check bus lines TIB 412 or 416."
+          }
+        },
+        {
+          "name": {
+            "de": "Coves del Drac (Drachenhöhlen)",
+            "hu": "Coves del Drac (Sárkánybarlangok)",
+            "ro": "Coves del Drac (Peșterile Dragonului)",
+            "en": "Coves del Drac (Dragon Caves)"
+          },
+          "coords": [
+            3.333,
+            39.536
+          ],
+          "category": "natural features",
+          "arrive_at": "14:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus TIB 401 von Manacor nach Porto Cristo. Die Fahrt dauert etwa 30-40 Minuten.",
+            "hu": "Vegye a TIB 401-es buszt Manacorból Porto Cristo felé. Az út körülbelül 30-40 percig tart.",
+            "ro": "Luați autobuzul TIB 401 de la Manacor la Porto Cristo. Călătoria durează aproximativ 30-40 de minute.",
+            "en": "Take the TIB 401 bus from Manacor to Porto Cristo. The journey takes about 30-40 minutes."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Porto Cristo",
+            "hu": "Porto Cristo kikötője",
+            "ro": "Portul Porto Cristo",
+            "en": "Porto Cristo Harbour"
+          },
+          "coords": [
+            3.337,
+            39.541
+          ],
+          "category": "port",
+          "arrive_at": "16:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nach den Höhlen ist es ein kurzer Spaziergang oder eine Busfahrt zum Hafen für einen entspannten Ausklang.",
+            "hu": "A barlangok után egy rövid séta vagy buszozás a kikötőig egy pihentető befejezéshez.",
+            "ro": "După peșteri, este o scurtă plimbare pe jos sau cu autobuzul până la port pentru o încheiere relaxantă a zilei.",
+            "en": "After the caves, it's a short walk or bus ride to the harbor for a relaxing end."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Manacor mit öffentlichen Verkehrsmitteln zu entdecken, ist einfach. Starten Sie im Zentrum und erkunden Sie die Altstadt zu Fuß. Nehmen Sie dann einen Bus zum Rafael Nadal Museum. Nach dem sportlichen Vormittag bringt Sie ein anderer Bus nach Porto Cristo zu den weltberühmten Drachenhöhlen. Beenden Sie Ihren Tag mit einem Spaziergang am Hafen von Porto Cristo, bevor Sie den Bus zurück nach Manacor nehmen. Dieser Plan zeigt, wie gut die Hauptattraktionen auch ohne Auto erreichbar sind.",
+        "hu": "Manacor tömegközlekedéssel való felfedezése egyszerű. Kezdje a központban, és fedezze fel az óvárost gyalog. Ezután szálljon buszra a Rafael Nadal Múzeumhoz. A sportos délelőtt után egy másik busz elviszi Önt Porto Cristo-ba a világhírű Sárkánybarlangokhoz. Zárja a napot egy sétával Porto Cristo kikötőjében, mielőtt visszautazna Manacorba busszal. Ez a terv megmutatja, hogy a főbb látnivalók autó nélkül is milyen jól megközelíthetőek.",
+        "ro": "Descoperirea Manacorului cu transportul public este ușoară. Începeți în centru și explorați orașul vechi pe jos. Apoi, luați un autobuz către Muzeul Rafael Nadal. După dimineața sportivă, un alt autobuz vă va duce la Porto Cristo, la faimoasele Peșteri ale Dragonului. Încheiați ziua cu o plimbare în portul Porto Cristo înainte de a lua autobuzul înapoi spre Manacor. Acest plan demonstrează cât de accesibile sunt atracțiile principale chiar și fără mașină.",
+        "en": "Discovering Manacor by public transport is easy. Start in the center and explore the old town on foot. Then take a bus to the Rafael Nadal Museum. After the sporty morning, another bus will take you to Porto Cristo to the world-famous Dragon Caves. End your day with a walk in the harbor of Porto Cristo before taking the bus back to Manacor. This plan shows how accessible the main attractions are even without a car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bocadillos",
+            "tip": "Belegte Brötchen sind ein schneller und günstiger Mittagssnack für unterwegs."
+          },
+          {
+            "name": "Menú del día in Manacor",
+            "tip": "Suchen Sie nach einem Mittagsmenü in einem der Restaurants in der Nähe des Bahnhofs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bocadillos",
+            "tip": "A szendvicsek gyors és olcsó ebéd útközben."
+          },
+          {
+            "name": "Napi menü Manacorban",
+            "tip": "Keressen egy ebédmenüt az állomás közelében lévő éttermek egyikében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bocadillos",
+            "tip": "Sandvișurile sunt o gustare rapidă și ieftină pentru prânz, din mers."
+          },
+          {
+            "name": "Meniul zilei în Manacor",
+            "tip": "Căutați un meniu de prânz la unul dintre restaurantele din apropierea gării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bocadillos",
+            "tip": "Sandwiches are a quick and cheap lunch snack on the go."
+          },
+          {
+            "name": "Menú del día in Manacor",
+            "tip": "Look for a set lunch menu at one of the restaurants near the station."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt durch die Landschaft",
+            "tip": "Schauen Sie aus dem Fenster und genießen Sie die vorbeiziehende Landschaft Mallorcas.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick aufs Meer in Porto Cristo",
+            "tip": "Finden Sie eine Bank am Hafen und beobachten Sie die Boote.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás a vidéken",
+            "tip": "Nézzen ki az ablakon, és élvezze Mallorca elhaladó táját.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Tengerparti kilátás Porto Cristóban",
+            "tip": "Keressen egy padot a kikötőben, és nézze a hajókat.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătoria cu autobuzul prin peisajul rural",
+            "tip": "Priviți pe fereastră și bucurați-vă de peisajul mallorcan care defilează.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere la mare în Porto Cristo",
+            "tip": "Găsiți o bancă în port și priviți bărcile.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride through the countryside",
+            "tip": "Look out the window and enjoy the passing Mallorcan landscape.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sea view in Porto Cristo",
+            "tip": "Find a bench in the harbor and watch the boats.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs in Porto Cristo",
+            "tip": "Die Geschäfte in der Nähe der Höhlen und des Hafens sind auf Touristen ausgerichtet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvenírek Porto Cristóban",
+            "tip": "A barlangok és a kikötő közelében lévő üzletek a turistákra specializálódtak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri în Porto Cristo",
+            "tip": "Magazinele din apropierea peșterilor și a portului sunt orientate spre turiști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenirs in Porto Cristo",
+            "tip": "The shops near the caves and the harbor are geared towards tourists."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine TIB-Karte für günstigere Tarife im Busnetz.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, besonders für die letzte Rückfahrt.",
+          "Planen Sie Pufferzeiten für Wartezeiten an den Haltestellen ein.",
+          "Einige Busse, besonders zu den Höhlen, können in der Hochsaison voll sein."
+        ],
+        "hu": [
+          "Vásároljon TIB-kártyát a kedvezményesebb buszjegyárakért.",
+          "Ellenőrizze előre a buszmenetrendet, különösen az utolsó járatot.",
+          "Tervezzen pufferidőt a megállókban való várakozásra.",
+          "Néhány busz, különösen a barlangokhoz, zsúfolt lehet a főszezonban."
+        ],
+        "ro": [
+          "Cumpărați un card TIB pentru tarife mai ieftine în rețeaua de autobuze.",
+          "Verificați din timp orarele autobuzelor, în special pentru ultima călătorie de întoarcere.",
+          "Planificați timp suplimentar pentru așteptare în stații.",
+          "Unele autobuze, în special cele spre peșteri, pot fi aglomerate în sezonul de vârf."
+        ],
+        "en": [
+          "Buy a TIB card for cheaper fares on the bus network.",
+          "Check the bus timetables in advance, especially for the last return journey.",
+          "Allow buffer time for waiting at the stops.",
+          "Some buses, especially to the caves, can be crowded in high season."
+        ]
+      }
+    }
+  }
+}

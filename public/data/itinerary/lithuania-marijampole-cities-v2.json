@@ -1,0 +1,1442 @@
+{
+  "city_id": "lithuania-marijampole-cities-v2",
+  "anchor": {
+    "name": "Marijampolė",
+    "coords": [
+      23.35,
+      54.5667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:58",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Poesiepark",
+            "hu": "Költészet Park",
+            "ro": "Parcul Poeziei",
+            "en": "Poetry Park"
+          },
+          "coords": [
+            23.348,
+            54.568
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem ruhigen Spaziergang entlang der Skulpturen.",
+            "hu": "Kezdje a napot egy csendes sétával a szobrok között.",
+            "ro": "Începeți ziua cu o plimbare liniștită printre sculpturi.",
+            "en": "Start your day with a quiet stroll among the sculptures."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika St. Michael der Erzengel",
+            "hu": "Szent Mihály Arkangyal Bazilika",
+            "ro": "Bazilica Sfântul Arhanghel Mihail",
+            "en": "Basilica of St. Michael the Archangel"
+          },
+          "coords": [
+            23.351,
+            54.566
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende neobarocke Architektur und die ruhige Atmosphäre.",
+            "hu": "Csodálja meg a lenyűgöző neobarokk építészetet és a békés légkört.",
+            "ro": "Admirați arhitectura neo-barocă impresionantă și atmosfera liniștită.",
+            "en": "Admire the impressive neo-baroque architecture and the serene atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Marijampolė",
+            "hu": "Marijampolė Kulturális Központ",
+            "ro": "Centrul Cultural Marijampolė",
+            "en": "Marijampolė Cultural Centre"
+          },
+          "coords": [
+            23.353,
+            54.565
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:37",
+          "stay_min": 50,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Spielplan für lokale Aufführungen oder Ausstellungen.",
+            "hu": "Nézze meg a helyi előadások vagy kiállítások műsorát.",
+            "ro": "Verificați programul pentru spectacole sau expoziții locale.",
+            "en": "Check the schedule for any local performances or exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Bulotų-Haus",
+            "hu": "Bulotų-ház",
+            "ro": "Casa Bulotų",
+            "en": "Bulotų House"
+          },
+          "coords": [
+            23.35,
+            54.563
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für ein Mittagessen in einem der nahegelegenen Cafés.",
+            "hu": "Ideális hely egy ebédre a közeli kávézók egyikében.",
+            "ro": "Un loc ideal pentru prânz la una dintre cafenelele din apropiere.",
+            "en": "An ideal spot to have lunch at one of the nearby cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Vytautas-Magnus-Park",
+            "hu": "Vytautas Magnus Park",
+            "ro": "Parcul Vytautas cel Mare",
+            "en": "Vytautas the Great Park"
+          },
+          "coords": [
+            23.355,
+            54.571
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Nachmittag im größten Park der Stadt.",
+            "hu": "Pihenjen délután a város legnagyobb parkjában.",
+            "ro": "Relaxați-vă după-amiaza în cel mai mare parc din oraș.",
+            "en": "Relax in the afternoon in the city's largest park."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Vinzenz von Paul Kirche",
+            "hu": "Szent Vince-templom",
+            "ro": "Biserica Sfântul Vincențiu de Paul",
+            "en": "Church of St. Vincent de Paul"
+          },
+          "coords": [
+            23.36,
+            54.561
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein verstecktes Juwel, perfekt für einen Moment der stillen Besinnung.",
+            "hu": "Egy rejtett gyöngyszem, tökéletes a csendes elmélkedés pillanatához.",
+            "ro": "O bijuterie ascunsă, perfectă pentru un moment de reflecție liniștită.",
+            "en": "A hidden gem, perfect for a moment of quiet reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahnhof Marijampolė",
+            "hu": "Marijampolė vasútállomás",
+            "ro": "Gara Marijampolė",
+            "en": "Marijampolė Railway Station"
+          },
+          "coords": [
+            23.338,
+            54.559
+          ],
+          "category": "historical",
+          "arrive_at": "16:52",
+          "stay_min": 36,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem Blick auf das historische Bahnhofsgebäude.",
+            "hu": "Fejezze be a túrát a történelmi állomásépület megtekintésével.",
+            "ro": "Încheiați turul admirând clădirea istorică a gării.",
+            "en": "End your tour by admiring the historic station building."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang durch Marijampolė beginnt im grünen Poesiepark, gefolgt von der spirituellen Ruhe der St.-Michael-Basilika. Mittags tauchen Sie in die lokale Kultur im Kulturzentrum ein und genießen die historische Atmosphäre am Bulotų-Haus. Der Nachmittag ist der Entspannung im weitläufigen Vytautas-Magnus-Park und einem Moment der Stille in der St.-Vinzenz-Kirche gewidmet. Sie beenden den Tag am historischen Bahnhof und nehmen die Eindrücke dieser charmanten litauischen Stadt mit.",
+        "hu": "Sétája Marijampolėban a zöldellő Költészet Parkban kezdődik, majd a Szent Mihály Bazilika spirituális nyugalmában merül el. Délben a Kulturális Központban ismerkedik a helyi kultúrával, és élvezi a Bulotų-ház történelmi hangulatát. A délután a tágas Vytautas Magnus Parkban való pihenésről és a Szent Vince-templomban töltött csendes pillanatokról szól. A napot a történelmi vasútállomásnál zárja, magával víve ennek a bájos litván városnak a benyomásait.",
+        "ro": "Plimbarea dvs. prin Marijampolė începe în Parcul Poeziei, plin de verdeață, urmată de liniștea spirituală a Bazilicii Sf. Mihail. La prânz, vă scufundați în cultura locală la Centrul Cultural și vă bucurați de atmosfera istorică de la Casa Bulotų. După-amiaza este dedicată relaxării în vastul Parc Vytautas cel Mare și unui moment de reculegere la Biserica Sf. Vincențiu. Încheiați ziua la gara istorică, purtând cu dvs. impresiile acestui oraș lituanian fermecător.",
+        "en": "Your walk through Marijampolė begins in the green Poetry Park, followed by the spiritual tranquility of St. Michael's Basilica. At noon, you'll dive into local culture at the Cultural Centre and enjoy the historical atmosphere at Bulotų House. The afternoon is dedicated to relaxation in the spacious Vytautas the Great Park and a moment of quiet at St. Vincent's Church. You'll end the day at the historic railway station, taking with you the impressions of this charming Lithuanian city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cepelinai",
+            "tip": "Probieren Sie die berühmten litauischen Kartoffelklöße, meist gefüllt mit Fleisch oder Quark."
+          },
+          {
+            "name": "Šaltibarščiai",
+            "tip": "Eine erfrischende kalte Rote-Bete-Suppe, perfekt für einen warmen Tag."
+          },
+          {
+            "name": "Kugelis",
+            "tip": "Ein herzhafter Kartoffelauflauf, oft mit Speck serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cepelinai",
+            "tip": "Kóstolja meg a híres litván burgonyagombócot, amelyet általában hússal vagy túróval töltenek."
+          },
+          {
+            "name": "Šaltibarščiai",
+            "tip": "Egy frissítő hideg céklaleves, tökéletes egy meleg napra."
+          },
+          {
+            "name": "Kugelis",
+            "tip": "Egy kiadós burgonyafelfújt, gyakran szalonnával tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cepelinai",
+            "tip": "Încercați faimoasele găluște lituaniene din cartofi, de obicei umplute cu carne sau brânză de vaci."
+          },
+          {
+            "name": "Šaltibarščiai",
+            "tip": "O supă rece răcoritoare de sfeclă roșie, perfectă pentru o zi călduroasă."
+          },
+          {
+            "name": "Kugelis",
+            "tip": "O budincă consistentă de cartofi, adesea servită cu bacon."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cepelinai",
+            "tip": "Try the famous Lithuanian potato dumplings, usually filled with meat or curd cheese."
+          },
+          {
+            "name": "Šaltibarščiai",
+            "tip": "A refreshing cold beetroot soup, perfect for a warm day."
+          },
+          {
+            "name": "Kugelis",
+            "tip": "A hearty potato pudding, often served with bacon."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Šešupė",
+            "tip": "Finden Sie eine ruhige Bank am Flussufer für einen Moment der Entspannung.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vytautas-Magnus-Park",
+            "tip": "Die abgelegeneren Wege des Parks bieten viel Ruhe und Frieden.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Garten der Basilika",
+            "tip": "Der kleine Garten neben der Basilika ist ein friedlicher Rückzugsort.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Šešupė folyó partja",
+            "tip": "Keressen egy csendes padot a folyóparton egy pihentető pillanatra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vytautas Magnus Park",
+            "tip": "A park eldugottabb ösvényei csendet és nyugalmat kínálnak.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bazilika kertje",
+            "tip": "A bazilika melletti kis kert békés menedéket nyújt.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Šešupė",
+            "tip": "Găsiți o bancă liniștită pe malul râului pentru un moment de relaxare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Vytautas cel Mare",
+            "tip": "Cărările mai retrase ale parcului oferă multă liniște și pace.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grădina Bazilicii",
+            "tip": "Mica grădină de lângă bazilică este un refugiu pașnic.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Šešupė River",
+            "tip": "Find a quiet bench on the riverbank for a moment of relaxation.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vytautas the Great Park",
+            "tip": "The more remote paths of the park offer plenty of peace and quiet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Basilica's Garden",
+            "tip": "The small garden next to the basilica is a peaceful retreat.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Märkte",
+            "tip": "Suchen Sie nach handgefertigten Leinenprodukten und Bernsteinschmuck."
+          },
+          {
+            "name": "Bäckereien",
+            "tip": "Kaufen Sie ein Laib traditionelles litauisches dunkles Roggenbrot (ruginė duona)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piacok",
+            "tip": "Keressen kézzel készített lenvászon termékeket és borostyán ékszereket."
+          },
+          {
+            "name": "Pékségek",
+            "tip": "Vásároljon egy vekni hagyományos litván sötét rozskenyeret (ruginė duona)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe locale",
+            "tip": "Căutați produse artizanale din in și bijuterii din chihlimbar."
+          },
+          {
+            "name": "Brutării",
+            "tip": "Cumpărați o pâine tradițională lituaniană de secară neagră (ruginė duona)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Markets",
+            "tip": "Look for handmade linen products and amber jewelry."
+          },
+          {
+            "name": "Bakeries",
+            "tip": "Buy a loaf of traditional Lithuanian dark rye bread (ruginė duona)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind leicht zu Fuß erreichbar.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit; es gibt öffentliche Brunnen.",
+          "Planen Sie zusätzliche Zeit für spontane Entdeckungen in den charmanten Gassen ein."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "A városközpont legtöbb látnivalója könnyen elérhető gyalog.",
+          "Hozzon magával újratölthető vizes palackot; vannak nyilvános ivókutak.",
+          "Tervezzen plusz időt a bájos sikátorokban való spontán felfedezésekre."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Majoritatea atracțiilor din centrul orașului sunt ușor accesibile pe jos.",
+          "Luați cu dvs. o sticlă de apă reutilizabilă; există fântâni publice.",
+          "Planificați timp suplimentar pentru descoperiri spontane pe aleile fermecătoare."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Most sights in the city center are within easy walking distance.",
+          "Bring a reusable water bottle; there are public fountains available.",
+          "Allow extra time for spontaneous discoveries in the charming alleyways."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:47",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Marijampolė",
+            "hu": "Marijampolė vasútállomás",
+            "ro": "Gara Marijampolė",
+            "en": "Marijampolė Railway Station"
+          },
+          "coords": [
+            23.338,
+            54.559
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Radtour am historischen Verkehrsknotenpunkt der Stadt.",
+            "hu": "Kezdje a kerékpártúrát a város történelmi közlekedési csomópontjánál.",
+            "ro": "Începeți turul cu bicicleta de la nodul istoric de transport al orașului.",
+            "en": "Start your bike tour at the city's historic transportation hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Zuckerfabrik Marijampolė",
+            "hu": "Marijampolė Cukorgyár",
+            "ro": "Fabrica de zahăr Marijampolė",
+            "en": "Marijampolė Sugar Factory"
+          },
+          "coords": [
+            23.335,
+            54.555
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um einen Blick auf das Industrieerbe der Region zu werfen.",
+            "hu": "Egy rövid megálló, hogy bepillantást nyerjen a régió ipari örökségébe.",
+            "ro": "O oprire scurtă pentru a arunca o privire asupra patrimoniului industrial al regiunii.",
+            "en": "A quick stop to glimpse the region's industrial heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Poesiepark",
+            "hu": "Költészet Park",
+            "ro": "Parcul Poeziei",
+            "en": "Poetry Park"
+          },
+          "coords": [
+            23.348,
+            54.568
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und genießen Sie die Kunst unter freiem Himmel.",
+            "hu": "Zárja le a kerékpárját, és élvezze a szabadtéri művészetet.",
+            "ro": "Parcați bicicleta și bucurați-vă de arta în aer liber.",
+            "en": "Park your bike and enjoy the open-air art."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika St. Michael der Erzengel",
+            "hu": "Szent Mihály Arkangyal Bazilika",
+            "ro": "Bazilica Sfântul Arhanghel Mihail",
+            "en": "Basilica of St. Michael the Archangel"
+          },
+          "coords": [
+            23.351,
+            54.566
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für das spirituelle Herz der Stadt.",
+            "hu": "Szánjon időt a város spirituális szívére.",
+            "ro": "Acordați-vă timp pentru inima spirituală a orașului.",
+            "en": "Take your time for the spiritual heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Marijampolė",
+            "hu": "Marijampolė Kulturális Központ",
+            "ro": "Centrul Cultural Marijampolė",
+            "en": "Marijampolė Cultural Centre"
+          },
+          "coords": [
+            23.353,
+            54.565
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein guter Ort für eine Mittagspause und um lokale Kunst zu sehen.",
+            "hu": "Jó hely egy ebédszünetre és a helyi művészet megtekintésére.",
+            "ro": "Un loc bun pentru o pauză de prânz și pentru a vedea artă locală.",
+            "en": "A good place for a lunch break and to see some local art."
+          }
+        },
+        {
+          "name": {
+            "de": "Vytautas-Magnus-Park",
+            "hu": "Vytautas Magnus Park",
+            "ro": "Parcul Vytautas cel Mare",
+            "en": "Vytautas the Great Park"
+          },
+          "coords": [
+            23.355,
+            54.571
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Radeln Sie durch den größten Park und genießen Sie die Natur.",
+            "hu": "Kerékpározzon át a legnagyobb parkon, és élvezze a természetet.",
+            "ro": "Pedalați prin cel mai mare parc și bucurați-vă de natură.",
+            "en": "Cycle through the largest park and enjoy the nature."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Vinzenz von Paul Kirche",
+            "hu": "Szent Vince-templom",
+            "ro": "Biserica Sfântul Vincențiu de Paul",
+            "en": "Church of St. Vincent de Paul"
+          },
+          "coords": [
+            23.36,
+            54.561
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:48",
+          "stay_min": 29,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einem Besuch dieser ruhigen Kirche.",
+            "hu": "Fejezze be a kerékpártúrát ennek a csendes templomnak a meglátogatásával.",
+            "ro": "Încheiați turul cu bicicleta cu o vizită la această biserică liniștită.",
+            "en": "Finish your bike tour with a visit to this quiet church."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet am historischen Bahnhof und führt Sie zunächst zum industriellen Erbe der Zuckerfabrik. Anschließend radeln Sie ins Zentrum zum Poesiepark und zur prächtigen Basilika. Nach einer Mittagspause nahe dem Kulturzentrum erkunden Sie den weitläufigen Vytautas-Magnus-Park. Die Tour endet mit einem friedlichen Moment in der St.-Vinzenz-von-Paul-Kirche, nachdem Sie die Stadt auf zwei Rädern durchquert haben.",
+        "hu": "Kerékpártúrája a történelmi vasútállomásról indul, és először a cukorgyár ipari örökségéhez vezet. Ezután a központba teker, a Költészet Parkba és a csodálatos bazilikához. A Kulturális Központ közelében tartott ebédszünet után felfedezi a tágas Vytautas Magnus Parkot. A túra a Szent Vince-templomban töltött békés pillanattal zárul, miután két keréken átszelte a várost.",
+        "ro": "Turul dvs. cu bicicleta începe la gara istorică și vă duce mai întâi la patrimoniul industrial al fabricii de zahăr. Apoi pedalați spre centru, la Parcul Poeziei și la magnifica bazilică. După o pauză de prânz lângă Centrul Cultural, explorați vastul Parc Vytautas cel Mare. Turul se încheie cu un moment de pace la Biserica Sf. Vincențiu de Paul, după ce ați traversat orașul pe două roți.",
+        "en": "Your bike tour starts at the historic train station and first takes you to the industrial heritage of the sugar factory. You'll then cycle to the center, to the Poetry Park and the magnificent basilica. After a lunch break near the Cultural Centre, you'll explore the vast Vytautas the Great Park. The tour concludes with a peaceful moment at St. Vincent de Paul Church after crossing the city on two wheels."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cepelinai",
+            "tip": "Ein herzhaftes Gericht, das perfekt ist, um nach einer Radtour wieder zu Kräften zu kommen."
+          },
+          {
+            "name": "Kibinai",
+            "tip": "Teigtaschen, oft mit Fleisch gefüllt, ein schneller und leckerer Snack."
+          },
+          {
+            "name": "Gira",
+            "tip": "Ein traditionelles fermentiertes Getränk aus Roggenbrot, sehr erfrischend."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cepelinai",
+            "tip": "Kiadós étel, tökéletes az energiapótláshoz egy kerékpártúra után."
+          },
+          {
+            "name": "Kibinai",
+            "tip": "Tésztatáskák, gyakran hússal töltve, gyors és finom harapnivaló."
+          },
+          {
+            "name": "Gira",
+            "tip": "Hagyományos, erjesztett ital rozskenyérből, nagyon frissítő."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cepelinai",
+            "tip": "Un fel de mâncare consistent, perfect pentru a vă reface energia după un tur cu bicicleta."
+          },
+          {
+            "name": "Kibinai",
+            "tip": "Plăcinte umplute, adesea cu carne, o gustare rapidă și delicioasă."
+          },
+          {
+            "name": "Gira",
+            "tip": "O băutură tradițională fermentată din pâine de secară, foarte răcoritoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cepelinai",
+            "tip": "A hearty dish, perfect for refueling after a bike ride."
+          },
+          {
+            "name": "Kibinai",
+            "tip": "Pastries often filled with meat, a quick and delicious snack."
+          },
+          {
+            "name": "Gira",
+            "tip": "A traditional fermented beverage made from rye bread, very refreshing."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Šešupė",
+            "tip": "Ein Radweg führt am Fluss entlang, ideal für eine entspannte Fahrt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vytautas-Magnus-Park",
+            "tip": "Verlassen Sie die Hauptwege für eine ruhige Radtour im Grünen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Šešupė folyó partja",
+            "tip": "A folyó mentén kerékpárút vezet, ideális egy pihentető tekeréshez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vytautas Magnus Park",
+            "tip": "Hagyja el a fő utakat egy csendes kerékpártúráért a zöldben.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Šešupė",
+            "tip": "O pistă de biciclete de-a lungul râului, ideală pentru o plimbare relaxantă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Vytautas cel Mare",
+            "tip": "Părăsiți potecile principale pentru o plimbare liniștită cu bicicleta în natură.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Šešupė River",
+            "tip": "A bike path runs along the river, ideal for a relaxing ride.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vytautas the Great Park",
+            "tip": "Leave the main paths for a quiet ride in the green.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Nützlich für eventuelle schnelle Reparaturen oder Zubehör."
+          },
+          {
+            "name": "Lokale Märkte",
+            "tip": "Kaufen Sie lokale Snacks für Ihre Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Hasznos lehet egy gyors javításhoz vagy kiegészítőkhöz."
+          },
+          {
+            "name": "Helyi piacok",
+            "tip": "Vásároljon helyi harapnivalókat a kerékpártúrához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Util pentru orice reparații rapide sau accesorii."
+          },
+          {
+            "name": "Piețe locale",
+            "tip": "Cumpărați gustări locale pentru turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "Useful for any quick repairs or accessories."
+          },
+          {
+            "name": "Local Markets",
+            "tip": "Pick up some local snacks for your bike ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt.",
+          "Tragen Sie einen Helm und seien Sie im Stadtverkehr vorsichtig.",
+          "Nutzen Sie die vorhandenen Radwege, besonders entlang des Flusses.",
+          "Schließen Sie Ihr Fahrrad an sicheren Orten ab, wenn Sie Sehenswürdigkeiten besuchen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját.",
+          "Viseljen sisakot, és legyen óvatos a városi forgalomban.",
+          "Használja a meglévő kerékpárutakat, különösen a folyó mentén.",
+          "Zárja le a kerékpárját biztonságos helyen, amikor látnivalókat néz."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni.",
+          "Purtați cască și fiți atenți în traficul urban.",
+          "Folosiți pistele de biciclete existente, în special de-a lungul râului.",
+          "Asigurați-vă bicicleta în locuri sigure atunci când vizitați obiectivele turistice."
+        ],
+        "en": [
+          "Check your bike before you set off.",
+          "Wear a helmet and be cautious in city traffic.",
+          "Use the existing bike paths, especially along the river.",
+          "Lock your bike in secure locations when visiting sights."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:39",
+      "total_km": 7.3,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Marijampolė",
+            "hu": "Marijampolė vasútállomás",
+            "ro": "Gara Marijampolė",
+            "en": "Marijampolė Railway Station"
+          },
+          "coords": [
+            23.338,
+            54.559
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und beginnen Sie Ihren Tag mit einem industriellen Touch.",
+            "hu": "Parkoljon itt, és kezdje a napot egy ipari jellegű látnivalóval.",
+            "ro": "Parcați aici și începeți ziua cu o notă industrială.",
+            "en": "Park here and start your day with an industrial touch."
+          }
+        },
+        {
+          "name": {
+            "de": "Zuckerfabrik Marijampolė",
+            "hu": "Marijampolė Cukorgyár",
+            "ro": "Fabrica de zahăr Marijampolė",
+            "en": "Marijampolė Sugar Factory"
+          },
+          "coords": [
+            23.335,
+            54.555
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Bahnhof zum Industriedenkmal.",
+            "hu": "Egy rövid séta az állomástól az ipari műemlékig.",
+            "ro": "O scurtă plimbare de la gară la monumentul industrial.",
+            "en": "A short walk from the station to the industrial monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Poesiepark",
+            "hu": "Költészet Park",
+            "ro": "Parcul Poeziei",
+            "en": "Poetry Park"
+          },
+          "coords": [
+            23.348,
+            54.568
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:26",
+          "stay_min": 45,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie ins Zentrum, parken Sie und beginnen Sie den Spaziergang.",
+            "hu": "Vezessen a központba, parkoljon le, és kezdje meg a sétát.",
+            "ro": "Conduceți în centru, parcați și începeți plimbarea.",
+            "en": "Drive to the center, park, and begin the walking cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika St. Michael der Erzengel",
+            "hu": "Szent Mihály Arkangyal Bazilika",
+            "ro": "Bazilica Sfântul Arhanghel Mihail",
+            "en": "Basilica of St. Michael the Archangel"
+          },
+          "coords": [
+            23.351,
+            54.566
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Park zum spirituellen Zentrum der Stadt.",
+            "hu": "Rövid séta a parktól a város spirituális központjáig.",
+            "ro": "O scurtă plimbare de la parc la centrul spiritual al orașului.",
+            "en": "A short walk from the park to the city's spiritual heart."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Marijampolė",
+            "hu": "Marijampolė Kulturális Központ",
+            "ro": "Centrul Cultural Marijampolė",
+            "en": "Marijampolė Cultural Centre"
+          },
+          "coords": [
+            23.353,
+            54.565
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:36",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Ort für eine ausgedehnte Mittagspause und Kulturgenuss.",
+            "hu": "Tökéletes hely egy hosszabb ebédszünetre és kulturális élményekre.",
+            "ro": "Locul perfect pentru o pauză de prânz prelungită și bucurie culturală.",
+            "en": "The perfect spot for an extended lunch break and cultural enjoyment."
+          }
+        },
+        {
+          "name": {
+            "de": "Bulotų-Haus",
+            "hu": "Bulotų-ház",
+            "ro": "Casa Bulotų",
+            "en": "Bulotų House"
+          },
+          "coords": [
+            23.35,
+            54.563
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:12",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Setzen Sie Ihren Spaziergang zu diesem historischen Wohnhaus fort.",
+            "hu": "Folytassa sétáját ehhez a történelmi lakóházhoz.",
+            "ro": "Continuați plimbarea până la această reședință istorică.",
+            "en": "Continue your stroll to this historic residence."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Vinzenz von Paul Kirche",
+            "hu": "Szent Vince-templom",
+            "ro": "Biserica Sfântul Vincențiu de Paul",
+            "en": "Church of St. Vincent de Paul"
+          },
+          "coords": [
+            23.36,
+            54.561
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum nächsten Cluster für einen Moment der Ruhe.",
+            "hu": "Vezessen a következő csoporthoz egy csendes pillanatért.",
+            "ro": "Conduceți la următorul grup pentru un moment de liniște.",
+            "en": "Drive to the next cluster for a moment of peace."
+          }
+        },
+        {
+          "name": {
+            "de": "Vytautas-Magnus-Park",
+            "hu": "Vytautas Magnus Park",
+            "ro": "Parcul Vytautas cel Mare",
+            "en": "Vytautas the Great Park"
+          },
+          "coords": [
+            23.355,
+            54.571
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:04",
+          "stay_min": 65,
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einer entspannten Fahrt zum größten Park der Stadt.",
+            "hu": "Zárja a napot egy pihentető autózással a város legnagyobb parkjába.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă cu mașina până la cel mai mare parc din oraș.",
+            "en": "End your day with a relaxing drive to the city's largest park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit dem Auto im Industriegebiet am Bahnhof und der Zuckerfabrik. Dann fahren Sie ins Zentrum, wo Sie Ihr Auto abstellen und einen Spaziergang machen: vom Poesiepark zur Basilika, weiter zum Kulturzentrum für eine Mittagspause und zum historischen Bulotų-Haus. Am Nachmittag fahren Sie zur ruhigen St.-Vinzenz-Kirche und beenden den Tag entspannt im Vytautas-Magnus-Park, wobei Sie die Flexibilität des Autos optimal nutzen.",
+        "hu": "A napja autóval indul az ipari negyedben, a vasútállomásnál és a cukorgyárnál. Ezután a központba hajt, ahol leparkol, és sétára indul: a Költészet Parktól a bazilikáig, tovább a Kulturális Központig egy ebédszünetre, és a történelmi Bulotų-házig. Délután a csendes Szent Vince-templomhoz autózik, a napot pedig a Vytautas Magnus Parkban zárja, kihasználva az autó rugalmasságát.",
+        "ro": "Ziua dvs. începe cu mașina în zona industrială, la gară și la fabrica de zahăr. Apoi conduceți spre centru, unde parcați mașina și faceți o plimbare: de la Parcul Poeziei la Bazilică, apoi la Centrul Cultural pentru o pauză de prânz și la istorica Casă Bulotų. După-amiaza, conduceți la liniștita Biserică Sf. Vincențiu și încheiați ziua relaxându-vă în Parcul Vytautas cel Mare, profitând din plin de flexibilitatea mașinii.",
+        "en": "Your day starts by car in the industrial area at the train station and the sugar factory. Then you drive to the center, where you park your car and take a walk: from the Poetry Park to the Basilica, on to the Cultural Centre for a lunch break, and to the historic Bulotų House. In the afternoon, you'll drive to the quiet St. Vincent's Church and end the day relaxing in Vytautas the Great Park, making the most of the car's flexibility."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurants mit Parkplatz",
+            "tip": "Suchen Sie nach Restaurants etwas außerhalb des Zentrums mit eigenen Parkplätzen."
+          },
+          {
+            "name": "Cepelinai",
+            "tip": "Nach einem Vormittag voller Erkundungen ist dies die perfekte Stärkung."
+          },
+          {
+            "name": "Kava ir pyragas (Kaffee und Kuchen)",
+            "tip": "Halten Sie in einem Café für eine traditionelle litauische Kaffeepause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étteremek parkolóval",
+            "tip": "Keressen éttermeket a központon kissé kívül, saját parkolóval."
+          },
+          {
+            "name": "Cepelinai",
+            "tip": "Egy felfedezéssel teli délelőtt után ez a tökéletes feltöltődés."
+          },
+          {
+            "name": "Kava ir pyragas (Kávé és sütemény)",
+            "tip": "Álljon meg egy kávézóban egy hagyományos litván kávészünetre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurante cu parcare",
+            "tip": "Căutați restaurante puțin în afara centrului cu parcare proprie."
+          },
+          {
+            "name": "Cepelinai",
+            "tip": "După o dimineață de explorare, aceasta este refacerea perfectă."
+          },
+          {
+            "name": "Kava ir pyragas (Cafea și prăjitură)",
+            "tip": "Opriți-vă la o cafenea pentru o pauză de cafea tradițională lituaniană."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurants with parking",
+            "tip": "Look for restaurants slightly outside the center with their own parking."
+          },
+          {
+            "name": "Cepelinai",
+            "tip": "After a morning of exploring, this is the perfect refuel."
+          },
+          {
+            "name": "Kava ir pyragas (Coffee and cake)",
+            "tip": "Stop at a café for a traditional Lithuanian coffee break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vytautas-Magnus-Park",
+            "tip": "Leicht mit dem Auto erreichbar, bietet dieser Park viel Platz für Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. Vinzenz von Paul Kirche",
+            "tip": "Ein ruhiger Ort, der etwas abseits der Haupttouristenrouten liegt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vytautas Magnus Park",
+            "tip": "Könnyen megközelíthető autóval, ez a park bőséges helyet kínál a csendhez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent Vince-templom",
+            "tip": "Egy csendes hely, kissé távolabb a fő turistaútvonalaktól.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Vytautas cel Mare",
+            "tip": "Ușor accesibil cu mașina, acest parc oferă mult spațiu pentru liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Biserica Sfântul Vincențiu de Paul",
+            "tip": "Un loc liniștit, situat puțin mai departe de rutele turistice principale.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vytautas the Great Park",
+            "tip": "Easily accessible by car, this park offers plenty of space for tranquility.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Church of St. Vincent de Paul",
+            "tip": "A quiet place, located a bit off the main tourist routes.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden außerhalb der Stadt",
+            "tip": "Nutzen Sie das Auto, um lokale Produkte direkt von den Erzeugern zu kaufen."
+          },
+          {
+            "name": "Große Supermärkte",
+            "tip": "Am Stadtrand gelegen und mit dem Auto leicht erreichbar für Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok a városon kívül",
+            "tip": "Használja az autót, hogy helyi termékeket vásároljon közvetlenül a termelőktől."
+          },
+          {
+            "name": "Nagy szupermarketek",
+            "tip": "A város szélén találhatók, autóval könnyen elérhetők ajándéktárgyakért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine agricole în afara orașului",
+            "tip": "Folosiți mașina pentru a cumpăra produse locale direct de la producători."
+          },
+          {
+            "name": "Supermarketuri mari",
+            "tip": "Situate la marginea orașului și ușor accesibile cu mașina pentru suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops outside the city",
+            "tip": "Use the car to buy local produce directly from the producers."
+          },
+          {
+            "name": "Large supermarkets",
+            "tip": "Located on the outskirts and easily accessible by car for souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich über Parkmöglichkeiten im Stadtzentrum; einige Zonen sind kostenpflichtig.",
+          "Ein GPS oder eine Navigations-App ist hilfreich.",
+          "Planen Sie Ihre Route so, dass Sie den Verkehr zur Stoßzeit vermeiden.",
+          "Die Cluster-Walking-Philosophie spart Zeit bei der Parkplatzsuche und ist umweltfreundlicher."
+        ],
+        "hu": [
+          "Tájékozódjon a parkolási lehetőségekről a városközpontban; néhány zóna fizetős.",
+          "Hasznos egy GPS vagy egy navigációs alkalmazás.",
+          "Tervezze meg az útvonalat úgy, hogy elkerülje a csúcsforgalmat.",
+          "A „cluster-walking” filozófia időt takarít meg a parkolóhely-keresésnél és környezetbarátabb."
+        ],
+        "ro": [
+          "Informați-vă despre opțiunile de parcare în centrul orașului; unele zone sunt cu plată.",
+          "Un GPS sau o aplicație de navigație este utilă.",
+          "Planificați-vă ruta pentru a evita traficul de la orele de vârf.",
+          "Filozofia „cluster-walking” economisește timp la căutarea parcării și este mai ecologică."
+        ],
+        "en": [
+          "Check parking options in the city center; some zones are paid.",
+          "A GPS or navigation app is helpful.",
+          "Plan your route to avoid rush hour traffic.",
+          "The cluster-walking philosophy saves time searching for parking and is more environmentally friendly."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Marijampolė",
+            "hu": "Marijampolė vasútállomás",
+            "ro": "Gara Marijampolė",
+            "en": "Marijampolė Railway Station"
+          },
+          "coords": [
+            23.338,
+            54.559
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem wichtigen Verkehrsknotenpunkt.",
+            "hu": "Kezdje a napot ennél a fontos közlekedési csomópontnál.",
+            "ro": "Începeți ziua la acest important nod de transport.",
+            "en": "Start your day at this major transport hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika St. Michael der Erzengel",
+            "hu": "Szent Mihály Arkangyal Bazilika",
+            "ro": "Bazilica Sfântul Arhanghel Mihail",
+            "en": "Basilica of St. Michael the Archangel"
+          },
+          "coords": [
+            23.351,
+            54.566
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus ins Zentrum und steigen Sie in der Nähe der Basilika aus.",
+            "hu": "Menjen busszal a központba, és szálljon le a bazilika közelében.",
+            "ro": "Luați un autobuz spre centru și coborâți lângă bazilică.",
+            "en": "Take a bus to the center and get off near the Basilica."
+          }
+        },
+        {
+          "name": {
+            "de": "Poesiepark",
+            "hu": "Költészet Park",
+            "ro": "Parcul Poeziei",
+            "en": "Poetry Park"
+          },
+          "coords": [
+            23.348,
+            54.568
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:18",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Basilika zum Park.",
+            "hu": "Egy rövid séta a bazilikától a parkig.",
+            "ro": "O scurtă plimbare de la bazilică la parc.",
+            "en": "A short walk from the Basilica to the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Marijampolė",
+            "hu": "Marijampolė Kulturális Központ",
+            "ro": "Centrul Cultural Marijampolė",
+            "en": "Marijampolė Cultural Centre"
+          },
+          "coords": [
+            23.353,
+            54.565
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:28",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ideal für die Mittagspause, da es zentral im selben Cluster liegt.",
+            "hu": "Ideális ebédszünetre, mivel központilag ugyanabban a csoportban található.",
+            "ro": "Ideal pentru pauza de prânz, fiind situat central în același grup.",
+            "en": "Ideal for a lunch break as it's centrally located in the same cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Vytautas-Magnus-Park",
+            "hu": "Vytautas Magnus Park",
+            "ro": "Parcul Vytautas cel Mare",
+            "en": "Vytautas the Great Park"
+          },
+          "coords": [
+            23.355,
+            54.571
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 1,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum größten Park der Stadt für einen entspannten Nachmittag.",
+            "hu": "Menjen busszal a város legnagyobb parkjába egy pihentető délutánért.",
+            "ro": "Luați un autobuz până la cel mai mare parc din oraș pentru o după-amiază relaxantă.",
+            "en": "Take a bus to the city's largest park for a relaxing afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Vinzenz von Paul Kirche",
+            "hu": "Szent Vince-templom",
+            "ro": "Biserica Sfântul Vincențiu de Paul",
+            "en": "Church of St. Vincent de Paul"
+          },
+          "coords": [
+            23.36,
+            54.561
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:51",
+          "stay_min": 54,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein letzter Spaziergang zu einer ruhigen Kirche, um den Tag ausklingen zu lassen.",
+            "hu": "Egy utolsó séta egy csendes templomhoz a nap lezárásaként.",
+            "ro": "O ultimă plimbare la o biserică liniștită pentru a încheia ziua.",
+            "en": "A final walk to a quiet church to round off the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt am Bahnhof. Von dort nehmen Sie einen Bus ins Stadtzentrum, wo Sie die Basilika, den Poesiepark und das Kulturzentrum zu Fuß erkunden. Nach dem Mittagessen bringt Sie ein weiterer Bus zum weitläufigen Vytautas-Magnus-Park. Ein letzter Spaziergang führt Sie zur St.-Vinzenz-Kirche, bevor Sie Ihre Tour beenden. Diese Route kombiniert effiziente Busfahrten zwischen Clustern mit angenehmen Spaziergängen innerhalb der Zonen.",
+        "hu": "Tömegközlekedéssel töltött napja a vasútállomáson kezdődik. Innen busszal jut el a városközpontba, ahol gyalog fedezi fel a bazilikát, a Költészet Parkot és a Kulturális Központot. Ebéd után egy másik busz viszi el a tágas Vytautas Magnus Parkba. Egy utolsó séta vezet a Szent Vince-templomhoz, mielőtt befejezné a túrát. Ez az útvonal hatékony buszutakat kombinál a klaszterek között kellemes sétákkal a zónákon belül.",
+        "ro": "Ziua dvs. cu transportul public începe la gară. De acolo, luați un autobuz spre centrul orașului, unde explorați pe jos Bazilica, Parcul Poeziei și Centrul Cultural. După prânz, un alt autobuz vă duce la vastul Parc Vytautas cel Mare. O ultimă plimbare vă conduce la Biserica Sf. Vincențiu înainte de a încheia turul. Acest traseu combină călătorii eficiente cu autobuzul între grupuri cu plimbări plăcute în interiorul zonelor.",
+        "en": "Your day using public transport starts at the train station. From there, you take a bus to the city center, where you explore the Basilica, Poetry Park, and Cultural Centre on foot. After lunch, another bus takes you to the spacious Vytautas the Great Park. A final walk leads you to St. Vincent's Church before you conclude your tour. This route combines efficient bus rides between clusters with pleasant walks within the zones."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistros in der Nähe von Bushaltestellen",
+            "tip": "Perfekt für einen schnellen Happen, während Sie auf den nächsten Bus warten."
+          },
+          {
+            "name": "Šaltibarščiai",
+            "tip": "Eine leichte und erfrischende Suppe, die Sie nicht müde macht für den Rest des Tages."
+          },
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Holen Sie sich Gebäck für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bisztrók a buszmegállók közelében",
+            "tip": "Tökéletes egy gyors falatra, amíg a következő buszra vár."
+          },
+          {
+            "name": "Šaltibarščiai",
+            "tip": "Könnyű és frissítő leves, amely nem fárasztja le a nap hátralévő részére."
+          },
+          {
+            "name": "Helyi pékségek",
+            "tip": "Vegyen péksüteményt útközbenre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistrouri lângă stațiile de autobuz",
+            "tip": "Perfect pentru o gustare rapidă în timp ce așteptați următorul autobuz."
+          },
+          {
+            "name": "Šaltibarščiai",
+            "tip": "O supă ușoară și răcoritoare care nu vă va obosi pentru restul zilei."
+          },
+          {
+            "name": "Brutării locale",
+            "tip": "Luați produse de patiserie pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistros near bus stops",
+            "tip": "Perfect for a quick bite while waiting for the next bus."
+          },
+          {
+            "name": "Šaltibarščiai",
+            "tip": "A light and refreshing soup that won't make you tired for the rest of the day."
+          },
+          {
+            "name": "Local bakeries",
+            "tip": "Grab some pastries for the road."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Oberdeck eines Busses",
+            "tip": "Wenn verfügbar, bietet das Oberdeck eine ruhige Perspektive auf die Stadt.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Parkbänke",
+            "tip": "Sowohl der Poesiepark als auch der Vytautas-Magnus-Park haben viele ruhige Ecken.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy busz emelete",
+            "tip": "Ha van, az emelet csendes perspektívát kínál a városra.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Parki padok",
+            "tip": "Mind a Költészet Parkban, mind a Vytautas Magnus Parkban sok csendes sarok található.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etajul superior al unui autobuz",
+            "tip": "Dacă este disponibil, etajul superior oferă o perspectivă liniștită asupra orașului.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Băncile din parc",
+            "tip": "Atât Parcul Poeziei, cât și Parcul Vytautas cel Mare au multe colțuri liniștite.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Upper deck of a bus",
+            "tip": "If available, the upper deck offers a quiet perspective on the city.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Park benches",
+            "tip": "Both Poetry Park and Vytautas the Great Park have many quiet corners.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Nähe von Verkehrsknotenpunkten",
+            "tip": "Leicht zugänglich für den Kauf von Souvenirs, bevor Sie die Stadt verlassen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Üzletek a közlekedési csomópontok közelében",
+            "tip": "Könnyen megközelíthető ajándéktárgyak vásárlásához, mielőtt elhagyná a várost."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine lângă nodurile de transport",
+            "tip": "Ușor accesibile pentru a cumpăra suveniruri înainte de a părăsi orașul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops near transport hubs",
+            "tip": "Easily accessible for buying souvenirs before leaving the city."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel für unbegrenzte Fahrten.",
+          "Laden Sie die lokale Fahrplan-App herunter oder überprüfen Sie die Fahrpläne an den Haltestellen.",
+          "Beachten Sie, dass Busse am Abend und am Wochenende seltener fahren könnten.",
+          "Die Kombination aus Busfahrten und Spaziergängen ist eine kostengünstige und effiziente Art, die Stadt zu sehen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez a korlátlan utazásért.",
+          "Töltse le a helyi menetrend-alkalmazást, vagy ellenőrizze a menetrendeket a megállókban.",
+          "Vegye figyelembe, hogy a buszok este és hétvégén ritkábban közlekedhetnek.",
+          "A buszozás és a séta kombinációja költséghatékony és hatékony módja a városnézésnek."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru călătorii nelimitate.",
+          "Descărcați aplicația locală de orare sau verificați orarele la stații.",
+          "Rețineți că autobuzele pot circula mai rar seara și în weekend.",
+          "Combinarea călătoriilor cu autobuzul și a plimbărilor este o modalitate rentabilă și eficientă de a vedea orașul."
+        ],
+        "en": [
+          "Buy a day ticket for public transport for unlimited travel.",
+          "Download the local transport app or check timetables at the stops.",
+          "Be aware that buses may run less frequently in the evenings and on weekends.",
+          "Combining bus rides and walking is a cost-effective and efficient way to see the city."
+        ]
+      }
+    }
+  }
+}

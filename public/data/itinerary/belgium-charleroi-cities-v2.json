@@ -1,0 +1,1292 @@
+{
+  "city_id": "belgium-charleroi-cities-v2",
+  "anchor": {
+    "name": "Charleroi",
+    "coords": [
+      4.4446,
+      50.4108
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place Charles II",
+            "hu": "II. Károly tér",
+            "ro": "Piața Carol al II-lea",
+            "en": "Charles II Square"
+          },
+          "coords": [
+            4.4435,
+            50.4118
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Mischung aus klassischen und modernen Gebäuden.",
+            "hu": "Csodálja meg a klasszikus és modern épületek keverékét.",
+            "ro": "Admirați amestecul de clădiri clasice și moderne.",
+            "en": "Admire the mix of classic and modern buildings."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel de Ville (Rathaus)",
+            "hu": "Városháza (Hôtel de Ville)",
+            "ro": "Primăria (Hôtel de Ville)",
+            "en": "City Hall (Hôtel de Ville)"
+          },
+          "coords": [
+            4.444,
+            50.4125
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf den Belfried, der zum UNESCO-Weltkulturerbe gehört.",
+            "hu": "Keresse a harangtornyot, amely az UNESCO Világörökség része.",
+            "ro": "Căutați clopotnița, un sit al Patrimoniului Mondial UNESCO.",
+            "en": "Look for the belfry, a UNESCO World Heritage site."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Christophe",
+            "hu": "Szent Kristóf-templom",
+            "ro": "Biserica Sfântul Cristofor",
+            "en": "Saint Christopher's Church"
+          },
+          "coords": [
+            4.4448,
+            50.4122
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das riesige Goldmosaik im Inneren ist atemberaubend.",
+            "hu": "A templomban található hatalmas arany mozaik lélegzetelállító.",
+            "ro": "Mozaicul uriaș de aur din interior este uluitor.",
+            "en": "The giant gold mosaic inside is breathtaking."
+          }
+        },
+        {
+          "name": {
+            "de": "BPS22 Kunstmuseum",
+            "hu": "BPS22 Művészeti Múzeum",
+            "ro": "Muzeul de Artă BPS22",
+            "en": "BPS22 Art Museum"
+          },
+          "coords": [
+            4.4485,
+            50.4165
+          ],
+          "category": "museums",
+          "arrive_at": "11:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Konzentriert sich auf zeitgenössische Kunst und soziale Themen.",
+            "hu": "A múzeum a kortárs művészetre és a társadalmi kérdésekre fókuszál.",
+            "ro": "Se concentrează pe arta contemporană și problemele sociale.",
+            "en": "Focuses on contemporary art and social issues."
+          }
+        },
+        {
+          "name": {
+            "de": "Sambre-Ufer",
+            "hu": "Sambre folyó partja",
+            "ro": "Malurile râului Sambre",
+            "en": "Banks of the Sambre River"
+          },
+          "coords": [
+            4.4401,
+            50.41
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die urbanen Kunstwerke entlang der neu gestalteten Kais.",
+            "hu": "Élvezze a városi műalkotásokat az újonnan kialakított rakpartokon.",
+            "ro": "Bucurați-vă de arta urbană de-a lungul cheiurilor renovate.",
+            "en": "Enjoy the urban artworks along the redesigned quays."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Reine Astrid",
+            "hu": "Astrid Királynő Park",
+            "ro": "Parcul Regina Astrid",
+            "en": "Queen Astrid Park"
+          },
+          "coords": [
+            4.449,
+            50.4105
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort, um nach einem langen Spaziergang zu entspannen.",
+            "hu": "Tökéletes hely a pihenésre egy hosszú séta után.",
+            "ro": "Un loc perfect pentru a vă relaxa după o plimbare lungă.",
+            "en": "A perfect spot to relax after a long walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Charleroi am Place Charles II, umgeben von architektonischer Vielfalt. Schlendern Sie durch das Stadtzentrum und entdecken Sie die Schätze des Rathauses und der Kirche St. Christoph. Am Nachmittag tauchen Sie im BPS22 in die zeitgenössische Kunst ein, bevor Sie an den Ufern der Sambre entspannen. Beenden Sie Ihren Tag mit einem ruhigen Spaziergang im Parc Reine Astrid, einer grünen Oase inmitten der Stadt.",
+        "hu": "Kezdje a napot Charleroi szívében, a Place Charles II téren, ahol az építészeti sokszínűség fogadja. Sétáljon végig a városközponton, fedezze fel a Városháza és a Szent Kristóf-templom kincseit. Délután merüljön el a kortárs művészetben a BPS22-ben, majd pihenjen a Sambre folyó partján. A napot egy csendes sétával zárja a Parc Reine Astrid parkban, a város zöld oázisában.",
+        "ro": "Începeți ziua în inima orașului Charleroi, în Piața Carol al II-lea, înconjurat de diversitate arhitecturală. Plimbați-vă prin centrul orașului, descoperind comorile Primăriei și ale Bisericii Sf. Cristofor. După-amiaza, scufundați-vă în arta contemporană la BPS22, înainte de a vă relaxa pe malurile râului Sambre. Încheiați ziua cu o plimbare liniștită în Parcul Regina Astrid, o oază de verdeață urbană.",
+        "en": "Start your day in the heart of Charleroi at Place Charles II, surrounded by architectural diversity. Stroll through the city center, discovering the treasures of the City Hall and Saint Christopher's Church. In the afternoon, dive into contemporary art at BPS22 before relaxing on the banks of the Sambre river. End your day with a peaceful walk in Queen Astrid Park, an urban green oasis."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mitraillette",
+            "tip": "Das ultimative Sandwich aus Charleroi, eine lokale Legende."
+          },
+          {
+            "name": "La Manufacture Urbaine",
+            "tip": "Brauerei und Restaurant am Sambre-Ufer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mitraillette",
+            "tip": "A tökéletes charleroi-i szendvics, egy helyi legenda."
+          },
+          {
+            "name": "La Manufacture Urbaine",
+            "tip": "Sörfőzde és étterem a Sambre partján."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mitraillette",
+            "tip": "Sandvișul suprem din Charleroi, o legendă locală."
+          },
+          {
+            "name": "La Manufacture Urbaine",
+            "tip": "Berărie și restaurant pe malul râului Sambre."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mitraillette",
+            "tip": "The ultimate Charleroi sandwich, a local legend."
+          },
+          {
+            "name": "La Manufacture Urbaine",
+            "tip": "Brewery and restaurant on the banks of the Sambre."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc Reine Astrid",
+            "tip": "Eine friedliche Grünfläche zum Entspannen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sambre-Ufer",
+            "tip": "Beobachten Sie, wie die Lastkähne vorbeiziehen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Astrid Királynő Park",
+            "tip": "Békés zöldterület a pihenéshez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sambre partja",
+            "tip": "Nézze a folyón elhaladó uszályokat.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Regina Astrid",
+            "tip": "Un spațiu verde liniștit pentru relaxare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malurile râului Sambre",
+            "tip": "Priviți barjele trecând.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Queen Astrid Park",
+            "tip": "A peaceful green space to relax.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the Sambre",
+            "tip": "Watch the barges go by.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rive Gauche",
+            "tip": "Modernes Einkaufszentrum im Stadtzentrum."
+          },
+          {
+            "name": "Marché Dominical",
+            "tip": "Der Sonntagsmarkt für lokale Produkte und Schnäppchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rive Gauche",
+            "tip": "Modern bevásárlóközpont a városközpontban."
+          },
+          {
+            "name": "Marché Dominical",
+            "tip": "A vasárnapi piac helyi termékekért és alkalmi vételekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rive Gauche",
+            "tip": "Centru comercial modern în centrul orașului."
+          },
+          {
+            "name": "Marché Dominical",
+            "tip": "Piața de duminică pentru produse locale și chilipiruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rive Gauche",
+            "tip": "Modern shopping center in the city center."
+          },
+          {
+            "name": "Marché Dominical",
+            "tip": "The Sunday market for local products and bargains."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, das Stadtzentrum ist hügelig.",
+          "Charleroi hat ein raues Image, aber das Zentrum ist sicher und wird modernisiert.",
+          "Viele Street-Art-Werke sind in den Seitenstraßen versteckt.",
+          "Achten Sie auf die Comic-Wandbilder in der ganzen Stadt."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, a városközpont dombos.",
+          "Charleroi-nak kemény híre van, de a központ biztonságos és modernizálódik.",
+          "Sok street art alkotás rejtőzik a mellékutcákban.",
+          "Keresse a képregény falfestményeket a városban."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, centrul orașului este deluros.",
+          "Charleroi are o reputație dură, dar centrul este sigur și în curs de modernizare.",
+          "Multe opere de artă stradală sunt ascunse pe străzile lăturalnice.",
+          "Fiți atenți la picturile murale cu benzi desenate din oraș."
+        ],
+        "en": [
+          "Wear comfortable shoes, the city center is hilly.",
+          "Charleroi has a gritty reputation, but the center is safe and undergoing modernization.",
+          "Lots of street art is hidden in the side streets.",
+          "Look out for the comic strip murals around the city."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 15.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Place Charles II",
+            "hu": "II. Károly tér",
+            "ro": "Piața Carol al II-lea",
+            "en": "Charles II Square"
+          },
+          "coords": [
+            4.4435,
+            50.4118
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie hier Ihre Radtour durch die Stadt.",
+            "hu": "Indítsa innen a városi kerékpártúrát.",
+            "ro": "Începeți turul cu bicicleta al orașului de aici.",
+            "en": "Start your city bike tour from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Entlang der Sambre",
+            "hu": "A Sambre mentén",
+            "ro": "De-a lungul râului Sambre",
+            "en": "Along the Sambre"
+          },
+          "coords": [
+            4.425,
+            50.408
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Radweg am Flussufer bietet eine andere Perspektive auf die Stadt.",
+            "hu": "A folyóparti kerékpárút más szemszögből mutatja be a várost.",
+            "ro": "Pista de biciclete de pe malul râului oferă o perspectivă diferită asupra orașului.",
+            "en": "The riverside cycle path offers a different perspective of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de la Photographie",
+            "hu": "Fényképészeti Múzeum",
+            "ro": "Muzeul Fotografiei",
+            "en": "Museum of Photography"
+          },
+          "coords": [
+            4.4089,
+            50.3934
+          ],
+          "category": "museums",
+          "arrive_at": "10:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eines der größten und wichtigsten Fotomuseen Europas.",
+            "hu": "Európa egyik legnagyobb és legfontosabb fotómúzeuma.",
+            "ro": "Unul dintre cele mai mari și mai importante muzee de fotografie din Europa.",
+            "en": "One of the largest and most important photography museums in Europe."
+          }
+        },
+        {
+          "name": {
+            "de": "BPS22 Kunstmuseum",
+            "hu": "BPS22 Művészeti Múzeum",
+            "ro": "Muzeul de Artă BPS22",
+            "en": "BPS22 Art Museum"
+          },
+          "coords": [
+            4.4485,
+            50.4165
+          ],
+          "category": "museums",
+          "arrive_at": "13:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 7.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Kontrastieren Sie die Fotografie mit moderner Kunst.",
+            "hu": "Állítsa kontrasztba a fotográfiát a modern művészettel.",
+            "ro": "Contrastați fotografia cu arta modernă.",
+            "en": "Contrast the photography with modern art."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Reine Astrid",
+            "hu": "Astrid Királynő Park",
+            "ro": "Parcul Regina Astrid",
+            "en": "Queen Astrid Park"
+          },
+          "coords": [
+            4.449,
+            50.4105
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:20",
+          "stay_min": 95,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihre Radtour mit einer wohlverdienten Pause im Park ab.",
+            "hu": "Zárja a kerékpártúrát egy jól megérdemelt pihenővel a parkban.",
+            "ro": "Încheiați turul cu bicicleta cu o pauză binemeritată în parc.",
+            "en": "Finish your bike tour with a well-deserved break in the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine Radtour durch Charleroi offenbart seine Kontraste. Beginnen Sie im Zentrum und folgen Sie dann dem Sambre-Radweg nach Westen. Machen Sie eine lange Pause im renommierten Musée de la Photographie. Am Nachmittag radeln Sie zurück ins Zentrum, um die zeitgenössische Kunst im BPS22 zu sehen, bevor Sie sich im Parc Reine Astrid entspannen. Diese Tour verbindet Kultur mit aktiver Erkundung.",
+        "hu": "Egy charleroi-i kerékpártúra felfedi a város ellentéteit. Induljon a központból, majd kövesse a Sambre menti kerékpárutat nyugat felé. Tartson egy hosszabb szünetet a híres Fényképészeti Múzeumban. Délután tekerjen vissza a központba, hogy megnézze a BPS22 kortárs művészeti kiállítását, mielőtt pihenne a Parc Reine Astrid parkban. Ez a túra ötvözi a kultúrát az aktív felfedezéssel.",
+        "ro": "Un tur cu bicicleta prin Charleroi dezvăluie contrastele sale. Începeți din centru, apoi urmați pista de biciclete de-a lungul râului Sambre spre vest. Faceți o pauză lungă la renumitul Muzeu al Fotografiei. După-amiaza, pedalați înapoi în centru pentru arta contemporană de la BPS22 înainte de a vă relaxa în Parcul Regina Astrid. Acest tur combină cultura cu explorarea activă.",
+        "en": "A bike tour through Charleroi reveals its contrasts. Start in the center, then follow the Sambre cycle path west. Take a long break at the renowned Museum of Photography. In the afternoon, cycle back to the center for the contemporary art at BPS22 before relaxing in Queen Astrid Park. This tour combines culture with active exploration."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Escargots de Warnant",
+            "tip": "Probieren Sie die lokalen Schnecken, eine wallonische Spezialität."
+          },
+          {
+            "name": "Le Chimay",
+            "tip": "Ein Café, in dem Sie das berühmte Trappistenbier probieren können."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Escargots de Warnant",
+            "tip": "Kóstolja meg a helyi csigákat, egy vallon specialitást."
+          },
+          {
+            "name": "Le Chimay",
+            "tip": "Egy kávézó, ahol megkóstolhatja a híres trappista sört."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Escargots de Warnant",
+            "tip": "Încercați melcii locali, o specialitate valonă."
+          },
+          {
+            "name": "Le Chimay",
+            "tip": "O cafenea unde puteți gusta celebra bere trapistă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Escargots de Warnant",
+            "tip": "Try the local snails, a Wallonian specialty."
+          },
+          {
+            "name": "Le Chimay",
+            "tip": "A café where you can taste the famous Trappist beer."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bois du Cazier",
+            "tip": "Obwohl ein Industrieerbe, bietet das Gelände ruhige Orte zum Nachdenken.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Terril des Piges",
+            "tip": "Besteigen Sie eine der Schlackenhalden für eine einzigartige Aussicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bois du Cazier",
+            "tip": "Bár ipari örökség, a terület csendes helyeket kínál az elmélkedésre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Terril des Piges",
+            "tip": "Másszon fel az egyik meddőhányóra egy egyedülálló kilátásért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bois du Cazier",
+            "tip": "Deși este un sit industrial, zona oferă locuri liniștite pentru reflecție.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Terril des Piges",
+            "tip": "Urcați pe una dintre haldele de steril pentru o priveliște unică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bois du Cazier",
+            "tip": "Though an industrial heritage site, the grounds offer quiet spots for reflection.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Terril des Piges",
+            "tip": "Climb one of the slag heaps for a unique view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Boulevard Tirou",
+            "tip": "Eine der Haupteinkaufsstraßen der Stadt."
+          },
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Probieren Sie ein 'Gâteau de Charleroi', einen lokalen Mandelkuchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boulevard Tirou",
+            "tip": "A város egyik fő bevásárlóutcája."
+          },
+          {
+            "name": "Helyi pékségek",
+            "tip": "Kóstolja meg a 'Gâteau de Charleroi'-t, egy helyi mandulás süteményt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bulevardul Tirou",
+            "tip": "Una dintre principalele străzi comerciale ale orașului."
+          },
+          {
+            "name": "Brutării locale",
+            "tip": "Încercați un 'Gâteau de Charleroi', o prăjitură locală cu migdale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boulevard Tirou",
+            "tip": "One of the city's main shopping streets."
+          },
+          {
+            "name": "Local Bakeries",
+            "tip": "Try a 'Gâteau de Charleroi', a local almond cake."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Einige Radwege sind von schlechter Qualität; seien Sie vorsichtig.",
+          "Schließen Sie Ihr Fahrrad immer gut ab.",
+          "Die Stadt ist hügeliger als sie aussieht.",
+          "Nutzen Sie die RAVeL-Wege für längere, sicherere Fahrten."
+        ],
+        "hu": [
+          "Néhány kerékpárút rossz minőségű; legyen óvatos.",
+          "Mindig zárja le jól a kerékpárját.",
+          "A város dombosabb, mint amilyennek látszik.",
+          "Használja a RAVeL útvonalakat hosszabb, biztonságosabb túrákhoz."
+        ],
+        "ro": [
+          "Unele piste de biciclete sunt de proastă calitate; fiți precauți.",
+          "Legați-vă întotdeauna bicicleta bine.",
+          "Orașul este mai deluros decât pare.",
+          "Folosiți rutele RAVeL pentru plimbări mai lungi și mai sigure."
+        ],
+        "en": [
+          "Some cycle paths are of poor quality; be cautious.",
+          "Always lock your bike securely.",
+          "The city is hillier than it looks.",
+          "Use the RAVeL network for longer, safer rides."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:10",
+      "total_km": 19.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken im Zentrum & Place Charles II",
+            "hu": "Parkolás a központban és II. Károly tér",
+            "ro": "Parcare în centru și Piața Carol al II-lea",
+            "en": "Park in Center & Charles II Square"
+          },
+          "coords": [
+            4.4435,
+            50.4118
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in einer Tiefgarage und beginnen Sie die Erkundung zu Fuß.",
+            "hu": "Parkoljon egy mélygarázsban, és kezdje a felfedezést gyalog.",
+            "ro": "Parcați într-o parcare subterană și începeți explorarea pe jos.",
+            "en": "Park in an underground garage and start exploring on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel de Ville & Belfried",
+            "hu": "Városháza és harangtorony",
+            "ro": "Primăria și Clopotnița",
+            "en": "City Hall & Belfry"
+          },
+          "coords": [
+            4.444,
+            50.4125
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz aus, Teil des ersten Clusters.",
+            "hu": "Rövid séta a térről, az első gyalogos klaszter része.",
+            "ro": "O scurtă plimbare din piață, parte a primului cluster pietonal.",
+            "en": "A short walk from the square, part of the first walking cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "BPS22 Kunstmuseum",
+            "hu": "BPS22 Művészeti Múzeum",
+            "ro": "Muzeul de Artă BPS22",
+            "en": "BPS22 Art Museum"
+          },
+          "coords": [
+            4.4485,
+            50.4165
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum ist Teil des Stadtzentrum-Clusters.",
+            "hu": "A múzeum a belvárosi klaszter része.",
+            "ro": "Muzeul face parte din clusterul central al orașului.",
+            "en": "The museum is part of the city center cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de la Photographie",
+            "hu": "Fényképészeti Múzeum",
+            "ro": "Muzeul Fotografiei",
+            "en": "Museum of Photography"
+          },
+          "coords": [
+            4.4089,
+            50.3934
+          ],
+          "category": "museums",
+          "arrive_at": "12:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum zweiten Cluster, dem Fotomuseum.",
+            "hu": "Vezessen át a második klaszterhez, a Fotómúzeumhoz.",
+            "ro": "Conduceți spre al doilea cluster, Muzeul Fotografiei.",
+            "en": "Drive to the second cluster, the photography museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Bois du Cazier",
+            "hu": "Bois du Cazier",
+            "ro": "Bois du Cazier",
+            "en": "Bois du Cazier"
+          },
+          "coords": [
+            4.4371,
+            50.3831
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem UNESCO-gelisteten ehemaligen Kohlebergwerk.",
+            "hu": "Vezessen el ehhez az UNESCO listán szereplő egykori szénbányához.",
+            "ro": "Conduceți spre acest sit al fostei mine de cărbuni, inclus în patrimoniul UNESCO.",
+            "en": "Drive to this UNESCO-listed former coal mine."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée du Verre",
+            "hu": "Üvegmúzeum",
+            "ro": "Muzeul Sticlei",
+            "en": "Glass Museum"
+          },
+          "coords": [
+            4.4365,
+            50.3835
+          ],
+          "category": "museums",
+          "arrive_at": "17:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Befindet sich auf dem Gelände des Bois du Cazier.",
+            "hu": "A Bois du Cazier területén található.",
+            "ro": "Situat în incinta Bois du Cazier.",
+            "en": "Located on the site of Bois du Cazier."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Reine Astrid",
+            "hu": "Astrid Királynő Park",
+            "ro": "Parcul Regina Astrid",
+            "en": "Queen Astrid Park"
+          },
+          "coords": [
+            4.449,
+            50.4105
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag im Park, nachdem Sie in die Nähe zurückgekehrt sind.",
+            "hu": "A napot a parkban fejezze be, miután visszatért a környékre.",
+            "ro": "Încheiați ziua în parc după ce v-ați întors în zonă.",
+            "en": "End the day in the park after driving back nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie die verschiedenen Facetten von Charleroi erkunden. Beginnen Sie im Stadtzentrum mit einem Rundgang zu Fuß. Fahren Sie dann nach Süden zum renommierten Musée de la Photographie. Am Nachmittag tauchen Sie im Bois du Cazier, einem UNESCO-Weltkulturerbe, tief in die Industriegeschichte der Region ein und besuchen das angeschlossene Glasmuseum. Beenden Sie Ihren Tag mit einer Rückkehr ins Zentrum und einem entspannenden Moment im Parc Reine Astrid.",
+        "hu": "Az autóval Charleroi különböző arcait fedezheti fel. Kezdje a belvárosban egy gyalogos klaszterrel. Ezután vezessen délre a híres Fényképészeti Múzeumhoz. Délután merüljön el a régió ipari történelmében a Bois du Cazier UNESCO helyszínén, és látogassa meg a hozzá tartozó Üvegmúzeumot. A nap végén térjen vissza a központba, és pihenjen egyet a Parc Reine Astrid parkban.",
+        "ro": "Cu mașina, puteți explora diversele fațete ale orașului Charleroi. Începeți în centrul orașului cu un cluster pietonal. Apoi, conduceți spre sud la renumitul Muzeu al Fotografiei. După-amiaza, pătrundeți în istoria industrială a regiunii la Bois du Cazier, un sit al Patrimoniului Mondial UNESCO, și vizitați Muzeul Sticlei adiacent. Încheiați ziua întorcându-vă în centru pentru un moment de relaxare în Parcul Regina Astrid.",
+        "en": "By car, you can explore the diverse facets of Charleroi. Start in the city center with a walking cluster. Then, drive south to the renowned Museum of Photography. In the afternoon, delve into the region's industrial history at Bois du Cazier, a UNESCO World Heritage site, and visit its attached Glass Museum. End your day by returning to the center for a relaxing moment in Queen Astrid Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Carbonade flamande",
+            "tip": "Ein reichhaltiger Rindfleisch- und Zwiebeleintopf, der in Bier gekocht wird."
+          },
+          {
+            "name": "L'Impératif",
+            "tip": "Ein gehobenes Restaurant in der Nähe des Museums BPS22."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Carbonade flamande",
+            "tip": "Gazdag marha- és hagymaragu sörben főzve."
+          },
+          {
+            "name": "L'Impératif",
+            "tip": "Egy elegáns étterem a BPS22 múzeum közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Carbonade flamande",
+            "tip": "O tocană bogată de vită și ceapă gătită în bere."
+          },
+          {
+            "name": "L'Impératif",
+            "tip": "Un restaurant de lux lângă muzeul BPS22."
+          }
+        ],
+        "en": [
+          {
+            "name": "Carbonade flamande",
+            "tip": "A rich beef and onion stew cooked in beer."
+          },
+          {
+            "name": "L'Impératif",
+            "tip": "An upscale restaurant near the BPS22 museum."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Die Gärten des Musée de la Photographie",
+            "tip": "Ein ruhiger Ort nach dem Museumsbesuch.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Die Spitze eines Terril",
+            "tip": "Eine einzigartige wallonische Erfahrung für einen Panoramablick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Fényképészeti Múzeum kertje",
+            "tip": "Csendes hely a múzeumlátogatás után.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Egy meddőhányó teteje",
+            "tip": "Egyedülálló vallon élmény a panorámás kilátásért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Muzeului Fotografiei",
+            "tip": "Un loc liniștit după vizitarea muzeului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vârful unei halde de steril",
+            "tip": "O experiență valonă unică pentru o priveliște panoramică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "The gardens of the Museum of Photography",
+            "tip": "A quiet spot after visiting the museum.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "The top of a Terril (slag heap)",
+            "tip": "A unique Wallonian experience for a panoramic view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ville 2",
+            "tip": "Ein großes Einkaufszentrum am Stadtrand."
+          },
+          {
+            "name": "Lokale Chocolatiers",
+            "tip": "Belgische Schokolade ist immer eine gute Idee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ville 2",
+            "tip": "Nagy bevásárlóközpont a város szélén."
+          },
+          {
+            "name": "Helyi csokoládékészítők",
+            "tip": "A belga csokoládé mindig jó ötlet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ville 2",
+            "tip": "Un centru comercial mare la periferia orașului."
+          },
+          {
+            "name": "Ciocolaterii locale",
+            "tip": "Ciocolata belgiană este întotdeauna o idee bună."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ville 2",
+            "tip": "A large shopping mall on the outskirts."
+          },
+          {
+            "name": "Local Chocolatiers",
+            "tip": "Belgian chocolate is always a good idea."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum kann teuer sein.",
+          "Der Verkehr in und um Charleroi kann zu Stoßzeiten stark sein.",
+          "GPS ist unerlässlich, da die Straßenführung verwirrend sein kann.",
+          "Planen Sie zusätzliche Zeit für die Fahrt zwischen den Standorten ein."
+        ],
+        "hu": [
+          "A belvárosi parkolás drága lehet.",
+          "A forgalom Charleroi-ban és környékén csúcsidőben sűrű lehet.",
+          "A GPS elengedhetetlen, mivel az úthálózat zavaros lehet.",
+          "Tervezzen plusz időt a helyszínek közötti utazásra."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi scumpă.",
+          "Traficul în și în jurul orașului Charleroi poate fi aglomerat la orele de vârf.",
+          "GPS-ul este esențial, deoarece configurația drumurilor poate fi confuză.",
+          "Planificați timp suplimentar pentru a călători între locații."
+        ],
+        "en": [
+          "Parking in the city center can be expensive.",
+          "Traffic in and around Charleroi can be heavy during peak hours.",
+          "GPS is essential as the road layout can be confusing.",
+          "Plan for extra time to travel between sites."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 15.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Gare de Charleroi-Central & Place Charles II",
+            "hu": "Charleroi-Central pályaudvar és II. Károly tér",
+            "ro": "Gara Charleroi-Central și Piața Carol al II-lea",
+            "en": "Charleroi-Central Station & Charles II Square"
+          },
+          "coords": [
+            4.438,
+            50.4072
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie am Hauptbahnhof und gehen Sie zum nahegelegenen Platz.",
+            "hu": "Kezdje a központi pályaudvaron, és sétáljon a közeli térre.",
+            "ro": "Începeți la gara principală și mergeți pe jos până în piața din apropiere.",
+            "en": "Start at the main station and walk to the nearby square."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel de Ville",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "City Hall"
+          },
+          "coords": [
+            4.444,
+            50.4125
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den ersten Cluster zu Fuß.",
+            "hu": "Fedezze fel az első klasztert gyalog.",
+            "ro": "Explorați primul cluster pe jos.",
+            "en": "Explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de la Photographie",
+            "hu": "Fényképészeti Múzeum",
+            "ro": "Muzeul Fotografiei",
+            "en": "Museum of Photography"
+          },
+          "coords": [
+            4.4089,
+            50.3934
+          ],
+          "category": "museums",
+          "arrive_at": "11:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus der Linie 71 oder M1ab zum Museum.",
+            "hu": "A 71-es vagy M1ab busszal juthat el a múzeumhoz.",
+            "ro": "Luați un autobuz (linia 71 sau M1ab) până la muzeu.",
+            "en": "Take a bus (line 71 or M1ab) to the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Bois du Cazier",
+            "hu": "Bois du Cazier",
+            "ro": "Bois du Cazier",
+            "en": "Bois du Cazier"
+          },
+          "coords": [
+            4.4371,
+            50.3831
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Möglicherweise müssen Sie umsteigen, um diesen wichtigen Standort zu erreichen.",
+            "hu": "Lehet, hogy át kell szállnia, hogy elérje ezt a fontos helyszínt.",
+            "ro": "S-ar putea să fie nevoie să schimbați autobuzul pentru a ajunge la acest sit important.",
+            "en": "You may need to transfer buses to reach this important site."
+          }
+        },
+        {
+          "name": {
+            "de": "BPS22 Kunstmuseum",
+            "hu": "BPS22 Művészeti Múzeum",
+            "ro": "Muzeul de Artă BPS22",
+            "en": "BPS22 Art Museum"
+          },
+          "coords": [
+            4.4485,
+            50.4165
+          ],
+          "category": "museums",
+          "arrive_at": "17:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Bus zurück ins Stadtzentrum.",
+            "hu": "Menjen busszal vissza a városközpontba.",
+            "ro": "Luați autobuzul înapoi în centrul orașului.",
+            "en": "Take the bus back to the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Sambre-Ufer",
+            "hu": "Sambre folyó partja",
+            "ro": "Malurile râului Sambre",
+            "en": "Banks of the Sambre River"
+          },
+          "coords": [
+            4.4401,
+            50.41
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "18:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Spaziergang entlang des Flusses.",
+            "hu": "Zárja a napot egy sétával a folyó mentén.",
+            "ro": "Încheiați ziua cu o plimbare de-a lungul râului.",
+            "en": "End your day with a walk along the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Nutzung öffentlicher Verkehrsmittel in Charleroi ist eine gute Möglichkeit, die Industrielandschaft zu erleben. Beginnen Sie am Bahnhof und erkunden Sie das Zentrum zu Fuß. Nehmen Sie dann einen Bus zum Musée de la Photographie. Am Nachmittag bringt Sie eine weitere Busfahrt zum historischen Bois du Cazier. Kehren Sie am Abend ins Zentrum zurück, um das BPS22 zu besuchen, bevor Sie den Tag an den Ufern der Sambre ausklingen lassen.",
+        "hu": "A tömegközlekedés használata Charleroi-ban remek módja az ipari táj megtapasztalásának. Kezdje a pályaudvarnál, és fedezze fel a központot gyalog. Ezután buszozzon el a Fényképészeti Múzeumhoz. Délután egy másik buszjárattal eljuthat a történelmi Bois du Cazier-hez. Este térjen vissza a központba, hogy meglátogassa a BPS22-t, mielőtt a napot a Sambre partján fejezné be.",
+        "ro": "Utilizarea transportului public în Charleroi este o modalitate excelentă de a experimenta peisajul industrial. Începeți de la gară și explorați centrul pe jos. Apoi, luați un autobuz spre Muzeul Fotografiei. După-amiaza, o altă călătorie cu autobuzul vă va duce la istoricul Bois du Cazier. Seara, reveniți în centru pentru a vizita BPS22 înainte de a încheia ziua pe malurile râului Sambre.",
+        "en": "Using public transport in Charleroi is a great way to experience its industrial landscape. Start from the station and explore the center on foot. Then, take a bus to the Museum of Photography. In the afternoon, another bus ride will take you to the historic Bois du Cazier. In the evening, return to the center to visit BPS22 before ending the day on the banks of the Sambre."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frites",
+            "tip": "Belgische Pommes von einer 'Friterie' sind ein Muss."
+          },
+          {
+            "name": "Vaudrée 7",
+            "tip": "Ein Restaurant mit einer riesigen Auswahl an belgischen Bieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Frites",
+            "tip": "A belga sült krumpli egy 'friterie'-ből kötelező."
+          },
+          {
+            "name": "Vaudrée 7",
+            "tip": "Egy étterem, ahol hatalmas a belga sörválaszték."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Frites",
+            "tip": "Cartofii prăjiți belgieni de la o 'friterie' sunt obligatorii."
+          },
+          {
+            "name": "Vaudrée 7",
+            "tip": "Un restaurant cu o selecție uriașă de beri belgiene."
+          }
+        ],
+        "en": [
+          {
+            "name": "Frites",
+            "tip": "Belgian fries from a 'friterie' are a must-try."
+          },
+          {
+            "name": "Vaudrée 7",
+            "tip": "A restaurant with a huge selection of Belgian beers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Arboretum de Monceau-sur-Sambre",
+            "tip": "Ein verstecktes Juwel für Naturliebhaber.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Innerhalb der Kirche Saint-Christophe",
+            "tip": "Finden Sie einen Moment der Stille unter dem Goldmosaik.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arboretum de Monceau-sur-Sambre",
+            "tip": "Rejtett gyöngyszem a természet szerelmeseinek.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "A Szent Kristóf-templom belsejében",
+            "tip": "Találjon egy csendes pillanatot az arany mozaik alatt.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arboretum de Monceau-sur-Sambre",
+            "tip": "O bijuterie ascunsă pentru iubitorii de natură.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "În interiorul Bisericii Sf. Cristofor",
+            "tip": "Găsiți un moment de liniște sub mozaicul de aur.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Arboretum de Monceau-sur-Sambre",
+            "tip": "A hidden gem for nature lovers.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Inside Saint Christopher's Church",
+            "tip": "Find a moment of quiet under the gold mosaic.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Buchhandlungen in der Passage de la Bourse",
+            "tip": "Finden Sie französische Comics und lokale Literatur."
+          },
+          {
+            "name": "TEC-Shop",
+            "tip": "Kaufen Sie ein einzigartiges Souvenir, wie z.B. ein Modell eines alten Busses."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Könyvesboltok a Passage de la Bourse-ban",
+            "tip": "Találjon francia képregényeket és helyi irodalmat."
+          },
+          {
+            "name": "TEC bolt",
+            "tip": "Vásároljon egyedi szuvenírt, például egy régi busz modelljét."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Librăriile din Passage de la Bourse",
+            "tip": "Găsiți benzi desenate franceze și literatură locală."
+          },
+          {
+            "name": "Magazinul TEC",
+            "tip": "Cumpărați un suvenir unic, cum ar fi un model de autobuz vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bookshops in Passage de la Bourse",
+            "tip": "Find French comics and local literature."
+          },
+          {
+            "name": "TEC Shop",
+            "tip": "Buy a unique souvenir, like a model of an old bus."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Die Busfahrpläne können am Wochenende und abends seltener sein.",
+          "Validieren Sie Ihr Ticket bei jeder Fahrt.",
+          "Die App des TEC (Transport En Commun) ist nützlich für die Routenplanung."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "A buszmenetrend hétvégén és este ritkább lehet.",
+          "Minden utazásnál érvényesítse a jegyét.",
+          "A TEC (Transport En Commun) alkalmazás hasznos az útvonaltervezéshez."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Orarele autobuzelor pot fi mai puțin frecvente în weekend și seara.",
+          "Validați biletul la fiecare călătorie.",
+          "Aplicația TEC (Transport En Commun) este utilă pentru planificarea rutelor."
+        ],
+        "en": [
+          "Buy a day pass for unlimited travel.",
+          "Bus schedules can be less frequent on weekends and evenings.",
+          "Validate your ticket each time you ride.",
+          "The TEC (Transport En Commun) app is useful for route planning."
+        ]
+      }
+    }
+  }
+}

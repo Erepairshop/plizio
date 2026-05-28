@@ -1,0 +1,1541 @@
+{
+  "city_id": "spain-cadiz-cities-v2",
+  "anchor": {
+    "name": "Cádiz",
+    "coords": [
+      -6.2886,
+      36.5271
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 3.9,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de las Flores",
+            "hu": "Virágok tere",
+            "ro": "Piața Florilor (Plaza de las Flores)",
+            "en": "Square of Flowers (Plaza de las Flores)"
+          },
+          "coords": [
+            -6.297,
+            36.5305
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Kaffee in einem der Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában!",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
+            "en": "Start your day with a coffee at one of the square's cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Theater",
+            "hu": "Római színház",
+            "ro": "Teatrul Roman",
+            "en": "Roman Theatre"
+          },
+          "coords": [
+            -6.293,
+            36.528
+          ],
+          "category": "historical",
+          "arrive_at": "09:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der Eintritt ist frei, aber überprüfen Sie die Öffnungszeiten.",
+            "hu": "A belépés ingyenes, de ellenőrizze a nyitvatartási időt.",
+            "ro": "Intrarea este gratuită, dar verificați programul de vizitare.",
+            "en": "Admission is free, but check the opening hours beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Cádiz",
+            "hu": "Cádizi katedrális",
+            "ro": "Catedrala din Cádiz",
+            "en": "Cádiz Cathedral"
+          },
+          "coords": [
+            -6.295,
+            36.529
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besteigen Sie den Poniente-Turm für eine fantastische Aussicht.",
+            "hu": "Másszon fel a Poniente-toronyba a fantasztikus kilátásért!",
+            "ro": "Urcați în Turnul Poniente pentru o priveliște fantastică.",
+            "en": "Climb the Poniente Tower for a fantastic view."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Tavira",
+            "hu": "Tavira-torony",
+            "ro": "Turnul Tavira",
+            "en": "Tavira Tower"
+          },
+          "coords": [
+            -6.298,
+            36.532
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:36",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erleben Sie die Camera Obscura, die Live-Bilder der Stadt projiziert.",
+            "hu": "Próbálja ki a Camera Obscurát, amely élő képeket vetít a városról!",
+            "ro": "Experimentați Camera Obscura care proiectează imagini live ale orașului.",
+            "en": "Experience the Camera Obscura which projects live images of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo de Santa Catalina",
+            "hu": "Szent Katalin-vár",
+            "ro": "Castelul Santa Catalina",
+            "en": "Santa Catalina Castle"
+          },
+          "coords": [
+            -6.305,
+            36.532
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die kostenlosen Kunstausstellungen und den Meerblick.",
+            "hu": "Élvezze az ingyenes művészeti kiállításokat és a tengeri panorámát!",
+            "ro": "Bucurați-vă de expozițiile de artă gratuite și de vederea la mare.",
+            "en": "Enjoy the free art exhibitions and the sea views."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Genovés",
+            "hu": "Genovés park",
+            "ro": "Parcul Genovés",
+            "en": "Genovés Park"
+          },
+          "coords": [
+            -6.303,
+            36.535
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Suchen Sie die Grotte mit dem Wasserfall für einen ruhigen Moment.",
+            "hu": "Keresse meg a vízeséses barlangot egy csendes pillanatért!",
+            "ro": "Căutați grota cu cascada pentru un moment de liniște.",
+            "en": "Look for the grotto with the waterfall for a quiet moment."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de la Caleta",
+            "hu": "La Caleta strand",
+            "ro": "Plaja La Caleta",
+            "en": "La Caleta Beach"
+          },
+          "coords": [
+            -6.304,
+            36.529
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:08",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Sonnenuntergang zwischen den beiden Burgen zu beobachten.",
+            "hu": "Tökéletes hely a naplemente megtekintéséhez a két vár között.",
+            "ro": "Locul perfect pentru a privi apusul între cele două castele.",
+            "en": "The perfect spot to watch the sunset between the two castles."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo de San Sebastián",
+            "hu": "Szent Sebestyén-vár",
+            "ro": "Castelul San Sebastián",
+            "en": "San Sebastián Castle"
+          },
+          "coords": [
+            -6.307,
+            36.528
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "17:18",
+          "stay_min": 67,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der Spaziergang auf dem Damm zur Burg ist bei Sonnenuntergang magisch.",
+            "hu": "A sétányon végigmenni a várhoz naplementekor varázslatos.",
+            "ro": "Plimbarea pe dig spre castel este magică la apus.",
+            "en": "The walk on the causeway to the castle is magical at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang auf der lebhaften Plaza de las Flores. Tauchen Sie vormittags in die antike Geschichte im Römischen Theater ein und bewundern Sie die goldene Kuppel der Kathedrale von Cádiz. Am Nachmittag erklimmen Sie den Torre Tavira für einen Panoramablick, bevor Sie die Meeresbrise an der Festung Santa Catalina spüren. Gegen Abend schlendern Sie durch den botanischen Parque Genovés und beenden den Tag mit einem unvergesslichen Sonnenuntergang am Strand La Caleta, eingerahmt von den beiden alten Festungen.",
+        "hu": "Kezdje a sétát a nyüzsgő Virágok terén. Délelőtt merüljön el az ókori történelemben a Római színháznál, majd csodálja meg a cádizi katedrális aranykupoláját. Délután másszon fel a Tavira-toronyba a panorámáért, mielőtt megérzi a tengeri szellőt a Santa Catalina-várnál. Estefelé sétáljon át a botanikus Genovés parkon, és zárja a napot egy felejthetetlen naplementével a La Caleta strandon, a két ősi erőd között.",
+        "ro": "Începeți plimbarea în vibranta Plaza de las Flores. Dimineața, scufundați-vă în istoria antică la Teatrul Roman și admirați cupola aurie a Catedralei din Cádiz. După-amiaza, urcați în Turnul Tavira pentru vederi panoramice înainte de a simți briza mării la Castelul Santa Catalina. Spre seară, plimbați-vă prin grădina botanică Parcul Genovés și încheiați ziua cu un apus de neuitat la Plaja La Caleta, încadrată de cele două fortărețe antice.",
+        "en": "Start your walk in the vibrant Plaza de las Flores. In the morning, delve into ancient history at the Roman Theatre and admire the golden dome of Cádiz Cathedral. In the afternoon, climb the Tavira Tower for panoramic views before feeling the sea breeze at Santa Catalina Castle. Towards the evening, wander through the botanical Genovés Park and end your day with an unforgettable sunset at La Caleta Beach, framed by the two ancient fortresses."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tortillitas de Camarones",
+            "tip": "Probieren Sie diese knusprigen Garnelen-Fritters in der Freiduría Las Flores."
+          },
+          {
+            "name": "Pescaíto Frito",
+            "tip": "Eine Auswahl an frittiertem Fisch, ein lokaler Favorit."
+          },
+          {
+            "name": "Erizos de mar",
+            "tip": "Seeigel, eine Delikatesse, die man am besten frisch auf dem Zentralmarkt probiert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tortillitas de Camarones",
+            "tip": "Kóstolja meg ezeket a ropogós garnélarák-lepényeket a Freiduría Las Flores-ben!"
+          },
+          {
+            "name": "Pescaíto Frito",
+            "tip": "Sült halak válogatása, a helyiek kedvence."
+          },
+          {
+            "name": "Erizos de mar",
+            "tip": "Tengeri sün, egy csemege, amelyet a legjobb frissen a központi piacon megkóstolni."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tortillitas de Camarones",
+            "tip": "Încercați aceste clătite crocante cu creveți la Freiduría Las Flores."
+          },
+          {
+            "name": "Pescaíto Frito",
+            "tip": "Un sortiment de pește prăjit, un favorit local."
+          },
+          {
+            "name": "Erizos de mar",
+            "tip": "Arici de mare, o delicatesă cel mai bine savurată proaspăt la Piața Centrală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tortillitas de Camarones",
+            "tip": "Try these crispy shrimp fritters at Freiduría Las Flores."
+          },
+          {
+            "name": "Pescaíto Frito",
+            "tip": "An assortment of fried fish, a local favorite."
+          },
+          {
+            "name": "Erizos de mar",
+            "tip": "Sea urchins, a delicacy best enjoyed fresh at the Central Market."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque Genovés",
+            "tip": "Finden Sie eine ruhige Bank zwischen den exotischen Bäumen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Playa de la Caleta bei Sonnenuntergang",
+            "tip": "Beobachten Sie, wie die Fischerboote mit dem farbenprächtigen Himmel im Hintergrund zurückkehren.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Blick vom Castillo de Santa Catalina",
+            "tip": "Ein friedlicher Ort, um auf den Atlantik hinauszuschauen.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Genovés park",
+            "tip": "Találjon egy csendes padot az egzotikus fák között.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "La Caleta strand naplementekor",
+            "tip": "Nézze, ahogy a halászhajók visszatérnek a színes égbolt hátterével.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kilátás a Santa Catalina-várból",
+            "tip": "Békés hely az Atlanti-óceánra való kitekintéshez.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Genovés",
+            "tip": "Găsiți o bancă liniștită printre copacii exotici.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plaja La Caleta la apus",
+            "tip": "Priviți bărcile pescărești întorcându-se cu cerul colorat pe fundal.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Vedere de la Castelul Santa Catalina",
+            "tip": "Un loc pașnic pentru a privi peste Oceanul Atlantic.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Genovés Park",
+            "tip": "Find a quiet bench among the exotic trees.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "La Caleta Beach at sunset",
+            "tip": "Watch the fishing boats return with the colorful sky as a backdrop.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "View from Santa Catalina Castle",
+            "tip": "A peaceful spot to gaze out at the Atlantic.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado Central",
+            "tip": "Kaufen Sie frische lokale Produkte, Meeresfrüchte und probieren Sie Tapas."
+          },
+          {
+            "name": "Calle Columela",
+            "tip": "Die Haupteinkaufsstraße mit bekannten Marken und lokalen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado Central (Központi piac)",
+            "tip": "Vásároljon friss helyi termékeket, tenger gyümölcseit és kóstoljon tapasokat!"
+          },
+          {
+            "name": "Calle Columela",
+            "tip": "A fő bevásárlóutca ismert márkákkal és helyi üzletekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado Central",
+            "tip": "Cumpărați produse locale proaspete, fructe de mare și gustați tapas."
+          },
+          {
+            "name": "Calle Columela",
+            "tip": "Principala stradă comercială cu mărci cunoscute și magazine locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado Central (Central Market)",
+            "tip": "Shop for fresh local produce, seafood, and sample tapas."
+          },
+          {
+            "name": "Calle Columela",
+            "tip": "The main shopping street with well-known brands and local shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie sehr bequeme Schuhe, da das Kopfsteinpflaster uneben sein kann.",
+          "Die Altstadt ist ein Labyrinth; eine Offline-Karte ist nützlich.",
+          "Nehmen Sie viel Wasser mit, besonders im Sommer.",
+          "Die meisten Sehenswürdigkeiten sind zu Fuß erreichbar, also planen Sie keine anderen Verkehrsmittel ein."
+        ],
+        "hu": [
+          "Viseljen nagyon kényelmes cipőt, mivel a macskakövek egyenetlenek lehetnek.",
+          "Az óváros egy labirintus; egy offline térkép hasznos lehet.",
+          "Vigyen magával sok vizet, különösen nyáron.",
+          "A legtöbb látnivaló sétatávolságra van, ne tervezzen más közlekedési eszközt."
+        ],
+        "ro": [
+          "Purtați încălțăminte foarte confortabilă, deoarece pavelele pot fi denivelate.",
+          "Centrul vechi este un labirint; o hartă offline este utilă.",
+          "Luați multă apă, mai ales vara.",
+          "Majoritatea atracțiilor sunt la distanță de mers pe jos, așa că nu planificați alte mijloace de transport."
+        ],
+        "en": [
+          "Wear very comfortable shoes as the cobblestones can be uneven.",
+          "The old town is a labyrinth; having an offline map is useful.",
+          "Bring plenty of water, especially in summer.",
+          "Most sights are within easy walking distance, so don't plan for other transport."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de las Flores",
+            "hu": "Virágok tere",
+            "ro": "Piața Florilor",
+            "en": "Square of Flowers"
+          },
+          "coords": [
+            -6.297,
+            36.5305
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Mieten Sie Ihr Fahrrad in der Nähe und beginnen Sie hier Ihre Tour.",
+            "hu": "Béreljen kerékpárt a közelben, és kezdje itt a túrát!",
+            "ro": "Închiriați bicicleta din apropiere și începeți turul de aici.",
+            "en": "Rent your bike nearby and start your tour here."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Theater",
+            "hu": "Római színház",
+            "ro": "Teatrul Roman",
+            "en": "Roman Theatre"
+          },
+          "coords": [
+            -6.293,
+            36.528
+          ],
+          "category": "historical",
+          "arrive_at": "09:38",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie das Theater erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt felfedezi a színházat!",
+            "ro": "Legați-vă bine bicicleta înainte de a explora teatrul.",
+            "en": "Lock your bike securely before exploring the theatre."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Cádiz",
+            "hu": "Cádizi katedrális",
+            "ro": "Catedrala din Cádiz",
+            "en": "Cádiz Cathedral"
+          },
+          "coords": [
+            -6.295,
+            36.529
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der Platz vor der Kathedrale ist ein großartiger Ort für eine kurze Pause.",
+            "hu": "A katedrális előtti tér remek hely egy rövid pihenőre.",
+            "ro": "Piața din fața catedralei este un loc minunat pentru o scurtă pauză.",
+            "en": "The square in front of the cathedral is a great spot for a short break."
+          }
+        },
+        {
+          "name": {
+            "de": "Radtour entlang der Küste",
+            "hu": "Kerékpártúra a part mentén",
+            "ro": "Tur cu bicicleta de-a lungul coastei",
+            "en": "Bike ride along the coast"
+          },
+          "coords": [
+            -6.3,
+            36.538
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Fahrt auf dem Radweg mit Blick auf den Atlantik.",
+            "hu": "Élvezze a bicikliutat az Atlanti-óceánra néző kerékpárúton!",
+            "ro": "Bucurați-vă de plimbarea pe pista de biciclete cu vedere la Atlantic.",
+            "en": "Enjoy the ride on the bike path overlooking the Atlantic."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Genovés",
+            "hu": "Genovés park",
+            "ro": "Parcul Genovés",
+            "en": "Genovés Park"
+          },
+          "coords": [
+            -6.303,
+            36.535
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:54",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad am Eingang ab und spazieren Sie durch den Park.",
+            "hu": "Hagyja a kerékpárt a bejáratnál, és sétáljon egyet a parkban!",
+            "ro": "Parcați bicicleta la intrare și faceți o plimbare prin parc.",
+            "en": "Park your bike at the entrance and take a stroll through the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo de Santa Catalina",
+            "hu": "Szent Katalin-vár",
+            "ro": "Castelul Santa Catalina",
+            "en": "Santa Catalina Castle"
+          },
+          "coords": [
+            -6.305,
+            36.532
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:57",
+          "stay_min": 50,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Abstecher für einen tollen Blick auf den Strand La Caleta.",
+            "hu": "Rövid kitérő a La Caleta strandra nyíló nagyszerű kilátásért.",
+            "ro": "Un scurt ocol pentru o priveliște superbă asupra plajei La Caleta.",
+            "en": "A quick detour for a great view over La Caleta beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de la Caleta",
+            "hu": "La Caleta strand",
+            "ro": "Plaja La Caleta",
+            "en": "La Caleta Beach"
+          },
+          "coords": [
+            -6.304,
+            36.529
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:59",
+          "stay_min": 131,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Strand, bevor Sie Ihre Fahrräder zurückgeben.",
+            "hu": "Pihenjen a strandon, mielőtt visszavinné a kerékpárokat!",
+            "ro": "Relaxați-vă pe plajă înainte de a returna bicicletele.",
+            "en": "Relax on the beach before returning your bikes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Rad und starten Sie an der Plaza de las Flores. Vormittags radeln Sie durch die Geschichte am Römischen Theater und machen Halt an der beeindruckenden Kathedrale. Mittags genießen Sie eine erfrischende Fahrt entlang der Küstenpromenade. Am Nachmittag erkunden Sie die Gärten des Parque Genovés und genießen die Aussicht vom Castillo de Santa Catalina, bevor Sie Ihren Tag an der goldenen Playa de la Caleta ausklingen lassen.",
+        "hu": "Pattanjon kerékpárra, és induljon a Virágok teréről! Délelőtt tekerjen át a történelmen a Római színháznál, és álljon meg a lenyűgöző katedrálisnál. Délben élvezze a frissítő utat a tengerparti sétányon! Délután fedezze fel a Genovés park kertjeit és a kilátást a Santa Catalina-várból, mielőtt az aranyhomokos La Caleta strandon fejezné be a napot.",
+        "ro": "Urcați-vă pe bicicletă și porniți din Plaza de las Flores. Dimineața, pedalați prin istorie la Teatrul Roman și opriți-vă la impresionanta Catedrală. La prânz, bucurați-vă de o plimbare revigorantă de-a lungul promenadei de pe coastă. După-amiaza, explorați grădinile din Parcul Genovés și admirați vederea de la Castelul Santa Catalina înainte de a încheia ziua pe plaja aurie La Caleta.",
+        "en": "Hop on your bike and start from Plaza de las Flores. In the morning, cycle through history at the Roman Theatre and stop at the impressive Cathedral. At noon, enjoy a refreshing ride along the coastal promenade. In the afternoon, explore the gardens of Genovés Park and take in the views from Santa Catalina Castle, before ending your day at the golden La Caleta Beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bocadillo de calamares",
+            "tip": "Ein schnelles und leckeres Tintenfisch-Sandwich, perfekt für unterwegs."
+          },
+          {
+            "name": "Helado artesanal",
+            "tip": "Gönnen Sie sich ein handwerklich hergestelltes Eis bei 'Bajo Cero' in der Nähe der Kathedrale."
+          },
+          {
+            "name": "Agua de Valencia",
+            "tip": "Ein erfrischender Cocktail, um sich nach der Radtour abzukühlen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bocadillo de calamares",
+            "tip": "Gyors és finom tintahalas szendvics, tökéletes útközben."
+          },
+          {
+            "name": "Kézműves fagylalt",
+            "tip": "Kényeztesse magát egy kézműves fagyival a 'Bajo Cero'-ban, a katedrális közelében!"
+          },
+          {
+            "name": "Agua de Valencia",
+            "tip": "Frissítő koktél a kerékpártúra utáni lehűléshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bocadillo de calamares",
+            "tip": "Un sandviș rapid și gustos cu calamari, perfect pentru drum."
+          },
+          {
+            "name": "Înghețată artizanală",
+            "tip": "Răsfățați-vă cu o înghețată artizanală la 'Bajo Cero' lângă catedrală."
+          },
+          {
+            "name": "Agua de Valencia",
+            "tip": "Un cocktail răcoritor pentru a vă răcori după turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bocadillo de calamares",
+            "tip": "A quick and tasty squid sandwich, perfect for on the go."
+          },
+          {
+            "name": "Artisanal ice cream",
+            "tip": "Treat yourself to an artisanal ice cream at 'Bajo Cero' near the cathedral."
+          },
+          {
+            "name": "Agua de Valencia",
+            "tip": "A refreshing cocktail to cool down after the bike tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Alameda Apodaca",
+            "tip": "Ein wunderschöner Spazierweg am Meer, ideal für eine Radpause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Blick vom Baluarte de la Candelaria",
+            "tip": "Ein ruhiger Ort, um die Meeresbrise zu genießen.",
+            "emoji": "🌬️"
+          },
+          {
+            "name": "Sonnenuntergang am Campo del Sur",
+            "tip": "Radeln Sie entlang der Mauer und beobachten Sie, wie die Sonne untergeht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alameda Apodaca",
+            "tip": "Gyönyörű tengerparti sétány, ideális egy kerékpáros pihenőhöz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a Baluarte de la Candelaria bástyáról",
+            "tip": "Csendes hely a tengeri szellő élvezetére.",
+            "emoji": "🌬️"
+          },
+          {
+            "name": "Naplemente a Campo del Sur-on",
+            "tip": "Tekerjen végig a fal mentén, és nézze a naplementét!",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Alameda Apodaca",
+            "tip": "O promenadă frumoasă pe malul mării, ideală pentru o pauză de la bicicletă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere de la Baluarte de la Candelaria",
+            "tip": "Un loc liniștit pentru a vă bucura de briza mării.",
+            "emoji": "🌬️"
+          },
+          {
+            "name": "Apus de soare la Campo del Sur",
+            "tip": "Pedalați de-a lungul zidului și priviți soarele apunând.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Alameda Apodaca",
+            "tip": "A beautiful seaside promenade, ideal for a biking break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from Baluarte de la Candelaria",
+            "tip": "A quiet spot to enjoy the sea breeze.",
+            "emoji": "🌬️"
+          },
+          {
+            "name": "Sunset at Campo del Sur",
+            "tip": "Cycle along the wall and watch the sun go down.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradverleih & Zubehör",
+            "tip": "Finden Sie Souvenirs zum Thema Fahrrad in den örtlichen Geschäften."
+          },
+          {
+            "name": "Lokale Keramik",
+            "tip": "Suchen Sie in den Gassen der Altstadt nach handbemalter Keramik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárkölcsönző és kiegészítők",
+            "tip": "Keressen kerékpáros témájú szuveníreket a helyi boltokban!"
+          },
+          {
+            "name": "Helyi kerámia",
+            "tip": "Keressen kézzel festett kerámiákat az óváros sikátoraiban!"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Închirieri biciclete & accesorii",
+            "tip": "Găsiți suveniruri cu tematică ciclistă în magazinele locale."
+          },
+          {
+            "name": "Ceramică locală",
+            "tip": "Căutați ceramică pictată manual pe aleile din centrul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Rentals & Accessories",
+            "tip": "Find cycling-themed souvenirs at local shops."
+          },
+          {
+            "name": "Local ceramics",
+            "tip": "Look for hand-painted ceramics in the old town's alleyways."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Sichern Sie Ihr Fahrrad immer gut, auch bei kurzen Stopps.",
+          "Die Küstenpromenade ist ideal zum Radfahren, aber in der Altstadt müssen Sie eventuell absteigen und schieben.",
+          "Achten Sie auf Fußgänger in den engen Gassen.",
+          "Ein Helm wird empfohlen."
+        ],
+        "hu": [
+          "Mindig zárja le jól a kerékpárját, még rövid megállók esetén is.",
+          "A tengerparti sétány ideális a kerékpározáshoz, de az óvárosban lehet, hogy le kell szállnia és tolnia kell.",
+          "Vigyázzon a gyalogosokra a szűk utcákban!",
+          "Sisak viselése ajánlott."
+        ],
+        "ro": [
+          "Asigurați-vă întotdeauna bine bicicleta, chiar și pentru opriri scurte.",
+          "Promenada de pe coastă este ideală pentru ciclism, dar în centrul vechi s-ar putea să trebuiască să descălecați și să împingeți.",
+          "Fiți atenți la pietoni pe străzile înguste.",
+          "Se recomandă purtarea căștii."
+        ],
+        "en": [
+          "Always lock your bike securely, even for short stops.",
+          "The coastal promenade is great for cycling, but you may need to dismount and walk in the old town.",
+          "Be mindful of pedestrians in the narrow streets.",
+          "A helmet is recommended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:41",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken am Campo del Sur",
+            "hu": "Parkolás a Campo del Sur-nál",
+            "ro": "Parcare la Campo del Sur",
+            "en": "Parking at Campo del Sur"
+          },
+          "coords": [
+            -6.292,
+            36.526
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie den ersten Teil der Stadt zu Fuß.",
+            "hu": "Parkoljon le itt, és fedezze fel a város első részét gyalog!",
+            "ro": "Parcați aici și explorați prima parte a orașului pe jos.",
+            "en": "Park here and explore the first part of the city on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Theater",
+            "hu": "Római színház",
+            "ro": "Teatrul Roman",
+            "en": "Roman Theatre"
+          },
+          "coords": [
+            -6.293,
+            36.528
+          ],
+          "category": "historical",
+          "arrive_at": "09:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Parkplatz entfernt.",
+            "hu": "Csak egy rövid séta a parkolótól.",
+            "ro": "La doar o scurtă plimbare de la parcare.",
+            "en": "Just a short walk from the parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Cádiz",
+            "hu": "Cádizi katedrális",
+            "ro": "Catedrala din Cádiz",
+            "en": "Cádiz Cathedral"
+          },
+          "coords": [
+            -6.295,
+            36.529
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lassen Sie sich von der Größe und der goldenen Kuppel beeindrucken.",
+            "hu": "Hagyja, hogy lenyűgözze a mérete és az arany kupolája!",
+            "ro": "Lăsați-vă impresionați de măreția și cupola sa aurie.",
+            "en": "Be impressed by its scale and golden dome."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Tavira",
+            "hu": "Tavira-torony",
+            "ro": "Turnul Tavira",
+            "en": "Tavira Tower"
+          },
+          "coords": [
+            -6.298,
+            36.532
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:18",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der höchste Punkt der Altstadt, ein Muss für Fotografen.",
+            "hu": "Az óváros legmagasabb pontja, kötelező a fotósoknak.",
+            "ro": "Cel mai înalt punct din orașul vechi, un must pentru fotografi.",
+            "en": "The highest point in the old town, a must for photographers."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Parque Genovés",
+            "hu": "Autóút a Genovés parkhoz",
+            "ro": "Mers cu mașina la Parcul Genovés",
+            "en": "Drive to Genovés Park"
+          },
+          "coords": [
+            -6.303,
+            36.535
+          ],
+          "category": "transport",
+          "arrive_at": "13:14",
+          "stay_min": 15,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum zweiten Cluster. Suchen Sie einen Parkplatz in der Nähe des Parks.",
+            "hu": "Vezessen a második fürthöz. Keressen parkolót a park közelében.",
+            "ro": "Conduceți spre al doilea cluster. Căutați parcare lângă parc.",
+            "en": "Drive to the second cluster. Look for parking near the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Genovés & Castillo de Santa Catalina",
+            "hu": "Genovés park és Szent Katalin-vár",
+            "ro": "Parcul Genovés & Castelul Santa Catalina",
+            "en": "Genovés Park & Santa Catalina Castle"
+          },
+          "coords": [
+            -6.305,
+            36.532
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:33",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den Park und gehen Sie dann zum Schloss für die Aussicht.",
+            "hu": "Fedezze fel a parkot, majd sétáljon át a várhoz a kilátásért!",
+            "ro": "Explorați parcul și apoi mergeți la castel pentru priveliște.",
+            "en": "Explore the park and then walk over to the castle for the views."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de la Caleta",
+            "hu": "La Caleta strand",
+            "ro": "Plaja La Caleta",
+            "en": "La Caleta Beach"
+          },
+          "coords": [
+            -6.304,
+            36.529
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:09",
+          "stay_min": 152,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag entspannt am berühmtesten Strand der Stadt.",
+            "hu": "Zárja a napot pihenéssel a város leghíresebb strandján!",
+            "ro": "Încheiați ziua relaxându-vă pe cea mai faimoasă plajă a orașului.",
+            "en": "End the day relaxing on the city's most famous beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie in die Stadt und parken Sie in der Nähe des Campo del Sur. Ihr erster Spaziergang führt Sie zum Römischen Theater und zur prächtigen Kathedrale. Am Vormittag erklimmen Sie den Torre Tavira. Am Nachmittag fahren Sie zu Ihrem zweiten Stopp, dem Parque Genovés. Von dort aus spazieren Sie zur Festung Santa Catalina und beenden den Tag mit einem langen, entspannten Aufenthalt am berühmten Strand La Caleta.",
+        "hu": "Vezessen be a városba, és parkoljon a Campo del Sur közelében. Az első séta a Római színházhoz és a csodálatos katedrálishoz vezet. Délelőtt másszon fel a Tavira-toronyba. Délután vezessen a második megállóhoz, a Genovés parkhoz. Innen sétáljon el a Santa Catalina-várhoz, és fejezze be a napot egy hosszú, pihentető tartózkodással a híres La Caleta strandon.",
+        "ro": "Conduceți în oraș și parcați lângă Campo del Sur. Prima plimbare vă duce la Teatrul Roman și la magnifica Catedrală. Dimineața, urcați în Turnul Tavira. După-amiaza, conduceți spre a doua oprire, Parcul Genovés. De acolo, mergeți pe jos la Castelul Santa Catalina și încheiați ziua cu o ședere lungă și relaxantă pe faimoasa plajă La Caleta.",
+        "en": "Drive into the city and park near Campo del Sur. Your first walking cluster takes you to the Roman Theatre and the magnificent Cathedral. In the morning, ascend the Tavira Tower. In the afternoon, drive to your second cluster, Genovés Park. From there, stroll to Santa Catalina Castle and finish with a long, relaxing stay at the famous La Caleta beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurante El Faro de Cádiz",
+            "tip": "Ein klassisches Restaurant für gehobene andalusische Küche und Meeresfrüchte."
+          },
+          {
+            "name": "Casa Manteca",
+            "tip": "Eine authentische alte Taverne für Tapas und Sherry."
+          },
+          {
+            "name": "Churros con Chocolate",
+            "tip": "Ein Muss für einen süßen Snack am Nachmittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurante El Faro de Cádiz",
+            "tip": "Klasszikus étterem a finom andalúz konyha és a tenger gyümölcsei kedvelőinek."
+          },
+          {
+            "name": "Casa Manteca",
+            "tip": "Autentikus, régi taverna tapasokhoz és sherryhez."
+          },
+          {
+            "name": "Churros csokoládéval",
+            "tip": "Kötelező édes uzsonna délutánra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurante El Faro de Cádiz",
+            "tip": "Un restaurant clasic pentru bucătărie andaluză rafinată și fructe de mare."
+          },
+          {
+            "name": "Casa Manteca",
+            "tip": "O tavernă veche autentică pentru tapas și sherry."
+          },
+          {
+            "name": "Churros cu ciocolată",
+            "tip": "O gustare dulce obligatorie pentru după-amiază."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurante El Faro de Cádiz",
+            "tip": "A classic restaurant for fine Andalusian cuisine and seafood."
+          },
+          {
+            "name": "Casa Manteca",
+            "tip": "An authentic old tavern for tapas and sherry."
+          },
+          {
+            "name": "Churros con Chocolate",
+            "tip": "A must-try sweet snack for the afternoon."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mirador de la Pérgola",
+            "tip": "Ein Pavillon am Meer im Parque Genovés, perfekt für ruhige Momente.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Paseo Fernando Quiñones",
+            "tip": "Der Damm, der zum Castillo de San Sebastián führt, bietet Ruhe und weite Ausblicke.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Jardín Botánico",
+            "tip": "Entdecken Sie die ruhigeren Ecken des Botanischen Gartens im Parque Genovés.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mirador de la Pérgola",
+            "tip": "Tengerparti pavilon a Genovés parkban, tökéletes a csendes pillanatokhoz.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Paseo Fernando Quiñones",
+            "tip": "A Szent Sebestyén-várhoz vezető gát csendet és tágas kilátást kínál.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Botanikus kert",
+            "tip": "Fedezze fel a Genovés park botanikus kertjének csendesebb zugait!",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mirador de la Pérgola",
+            "tip": "Un foișor pe malul mării în Parcul Genovés, perfect pentru momente de liniște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Paseo Fernando Quiñones",
+            "tip": "Digul care duce la Castelul San Sebastián, oferind liniște și vederi ample.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Grădina Botanică",
+            "tip": "Descoperiți colțurile mai liniștite ale grădinii botanice din Parcul Genovés.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mirador de la Pérgola",
+            "tip": "A seaside gazebo in Genovés Park, perfect for quiet moments.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Paseo Fernando Quiñones",
+            "tip": "The causeway leading to San Sebastián Castle, offering tranquility and wide views.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Botanical Garden",
+            "tip": "Discover the quieter corners of the botanical garden within Genovés Park.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Produkte aus der Provinz Cádiz",
+            "tip": "Suchen Sie nach lokalem Wein (Sherry), Olivenöl und Käse."
+          },
+          {
+            "name": "Abanicos (Fächer)",
+            "tip": "Ein klassisches und nützliches spanisches Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termékek Cádiz tartományból",
+            "tip": "Keressen helyi bort (sherry), olívaolajat és sajtot!"
+          },
+          {
+            "name": "Abanicos (legyezők)",
+            "tip": "Klasszikus és hasznos spanyol szuvenír."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse din provincia Cádiz",
+            "tip": "Căutați vin local (Sherry), ulei de măsline și brânză."
+          },
+          {
+            "name": "Abanicos (evantaie)",
+            "tip": "Un suvenir spaniol clasic și util."
+          }
+        ],
+        "en": [
+          {
+            "name": "Products from Cádiz Province",
+            "tip": "Look for local wine (Sherry), olive oil, and cheese."
+          },
+          {
+            "name": "Abanicos (Fans)",
+            "tip": "A classic and useful Spanish souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in der Altstadt ist extrem schwierig und teuer. Nutzen Sie die ausgewiesenen Tiefgaragen.",
+          "Planen Sie Ihre Route im Voraus, da GPS in den engen Gassen unzuverlässig sein kann.",
+          "Lassen Sie keine Wertsachen im Auto.",
+          "Respektieren Sie die 'Zonas de Bajas Emisiones' (Niedrigemissionszonen)."
+        ],
+        "hu": [
+          "A parkolás az óvárosban rendkívül nehéz és drága. Használja a kijelölt mélygarázsokat!",
+          "Tervezze meg előre az útvonalat, mert a GPS megbízhatatlan lehet a szűk utcákban.",
+          "Ne hagyjon értékeket az autóban!",
+          "Tartsa tiszteletben az alacsony kibocsátású zónákat ('Zonas de Bajas Emisiones')."
+        ],
+        "ro": [
+          "Parcarea în centrul vechi este extrem de dificilă și scumpă. Folosiți parcările subterane desemnate.",
+          "Planificați-vă traseul în avans, deoarece GPS-ul poate fi nesigur pe străzile înguste.",
+          "Nu lăsați obiecte de valoare în mașină.",
+          "Respectați 'Zonas de Bajas Emisiones' (zonele cu emisii scăzute)."
+        ],
+        "en": [
+          "Parking in the old town is extremely difficult and expensive. Use the designated underground car parks.",
+          "Plan your route in advance, as GPS can be unreliable in the narrow streets.",
+          "Do not leave valuables in the car.",
+          "Respect the 'Zonas de Bajas Emisiones' (Low Emission Zones)."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof",
+            "hu": "Érkezés a buszpályaudvarra",
+            "ro": "Sosire la stația de autobuz",
+            "en": "Arrival at Bus Station"
+          },
+          "coords": [
+            -6.289,
+            36.524
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine wiederaufladbare Buskarte für günstigere Fahrten.",
+            "hu": "Vásároljon feltölthető buszkártyát az olcsóbb utazásért!",
+            "ro": "Cumpărați un card de autobuz reîncărcabil pentru călătorii mai ieftine.",
+            "en": "Buy a rechargeable bus card for cheaper fares."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Theater & Kathedrale",
+            "hu": "Római színház és katedrális",
+            "ro": "Teatrul Roman & Catedrală",
+            "en": "Roman Theatre & Cathedral"
+          },
+          "coords": [
+            -6.293,
+            36.528
+          ],
+          "category": "historical",
+          "arrive_at": "09:31",
+          "stay_min": 140,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Erkundung mit diesen beiden Highlights, die nahe beieinander liegen.",
+            "hu": "Kezdje a felfedezést ezzel a két, egymáshoz közeli látványossággal!",
+            "ro": "Începeți explorarea cu aceste două atracții principale, apropiate una de cealaltă.",
+            "en": "Start your exploration with these two highlights, located close together."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de las Flores",
+            "hu": "Virágok tere",
+            "ro": "Piața Florilor",
+            "en": "Square of Flowers"
+          },
+          "coords": [
+            -6.297,
+            36.5305
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:57",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Ort für eine Kaffeepause.",
+            "hu": "Szép hely egy kávészünetre.",
+            "ro": "Un loc frumos pentru o pauză de cafea.",
+            "en": "A lovely spot for a coffee break."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Tavira",
+            "hu": "Tavira-torony",
+            "ro": "Turnul Tavira",
+            "en": "Tavira Tower"
+          },
+          "coords": [
+            -6.298,
+            36.532
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:31",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie Ihren Besuch um die Vorführungszeiten der Camera Obscura.",
+            "hu": "Tervezze a látogatást a Camera Obscura bemutatóinak időpontjához!",
+            "ro": "Planificați-vă vizita în funcție de orele de spectacol ale Camerei Obscura.",
+            "en": "Plan your visit around the Camera Obscura show times."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Parque Genovés",
+            "hu": "Buszozás a Genovés parkhoz",
+            "ro": "Călătorie cu autobuzul la Parcul Genovés",
+            "en": "Bus ride to Genovés Park"
+          },
+          "coords": [
+            -6.303,
+            36.535
+          ],
+          "category": "transport",
+          "arrive_at": "13:28",
+          "stay_min": 10,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie die Linie 7 für eine schnelle Fahrt entlang der Küste.",
+            "hu": "A 7-es busszal gyorsan eljuthat a part mentén.",
+            "ro": "Luați linia 7 pentru o călătorie rapidă de-a lungul coastei.",
+            "en": "Take bus line 7 for a quick ride along the coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Genovés & Castillo de Santa Catalina",
+            "hu": "Genovés park és Szent Katalin-vár",
+            "ro": "Parcul Genovés & Castelul Santa Catalina",
+            "en": "Genovés Park & Santa Catalina Castle"
+          },
+          "coords": [
+            -6.305,
+            36.532
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:42",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang vom Park zum Schloss.",
+            "hu": "Kellemes séta a parktól a várig.",
+            "ro": "O plimbare plăcută de la parc la castel.",
+            "en": "A lovely walk from the park to the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de la Caleta",
+            "hu": "La Caleta strand",
+            "ro": "Plaja La Caleta",
+            "en": "La Caleta Beach"
+          },
+          "coords": [
+            -6.304,
+            36.529
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:18",
+          "stay_min": 136,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie sich, bevor Sie den Bus zurück ins Zentrum nehmen.",
+            "hu": "Pihenjen, mielőtt visszamenne busszal a központba!",
+            "ro": "Relaxați-vă înainte de a lua autobuzul înapoi spre centru.",
+            "en": "Relax before taking the bus back to the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nehmen Sie einen Bus ins Herz der Altstadt, um Ihren Tag am Römischen Theater zu beginnen. Nach der Erkundung der Kathedrale schlendern Sie zur Plaza de las Flores und zum Torre Tavira. Am Nachmittag bringt Sie eine kurze Busfahrt zum zweiten Erkundungsgebiet. Hier spazieren Sie durch den üppigen Parque Genovés und zum Castillo de Santa Catalina, bevor Sie einen entspannten Abend am berühmten Strand La Caleta verbringen.",
+        "hu": "Buszozzon be az óváros szívébe, hogy a Római színháznál kezdje a napot. A katedrális felfedezése után sétáljon el a Virágok terére és a Tavira-toronyhoz. Délután egy rövid buszút visz a második felfedező területre. Itt sétáljon át a buja Genovés parkon és a Santa Catalina-várhoz, mielőtt egy pihentető estét tölt a híres La Caleta strandon.",
+        "ro": "Luați un autobuz în inima orașului vechi pentru a începe ziua la Teatrul Roman. După ce explorați Catedrala, plimbați-vă până la Plaza de las Flores și Turnul Tavira. După-amiaza, o scurtă călătorie cu autobuzul vă duce la a doua zonă de explorare. Aici, plimbați-vă prin luxuriantul Parc Genovés și la Castelul Santa Catalina, înainte de a vă bucura de o seară relaxantă pe faimoasa plajă La Caleta.",
+        "en": "Take a bus into the heart of the old town to start your day at the Roman Theatre. After exploring the Cathedral, wander over to Plaza de las Flores and Tavira Tower. In the afternoon, a short bus ride takes you to the second cluster of exploration. Here, stroll through the lush Genovés Park and to Santa Catalina Castle, before enjoying a relaxing evening at the famous La Caleta beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mercado Central Food Stalls",
+            "tip": "Probieren Sie eine Vielzahl von Tapas und frischen Meeresfrüchten an den Ständen im Markt."
+          },
+          {
+            "name": "Taberna Casa Manteca",
+            "tip": "Eine Institution in Cádiz für Sherry und Wurstwaren."
+          },
+          {
+            "name": "Freiduría Las Flores",
+            "tip": "Ideal für einen schnellen, günstigen und köstlichen frittierten Fisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "A központi piac (Mercado Central) ételstandjai",
+            "tip": "Kóstoljon meg különféle tapasokat és friss tenger gyümölcseit a piaci standoknál!"
+          },
+          {
+            "name": "Taberna Casa Manteca",
+            "tip": "Cádiz egyik intézménye a sherry és a felvágottak terén."
+          },
+          {
+            "name": "Freiduría Las Flores",
+            "tip": "Ideális egy gyors, olcsó és finom sült halhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Standurile alimentare din Mercado Central",
+            "tip": "Încercați o varietate de tapas și fructe de mare proaspete la standurile din piață."
+          },
+          {
+            "name": "Taberna Casa Manteca",
+            "tip": "O instituție în Cádiz pentru sherry și mezeluri."
+          },
+          {
+            "name": "Freiduría Las Flores",
+            "tip": "Ideal pentru un pește prăjit rapid, ieftin și delicios."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado Central Food Stalls",
+            "tip": "Try a variety of tapas and fresh seafood at the stalls inside the market."
+          },
+          {
+            "name": "Taberna Casa Manteca",
+            "tip": "A Cádiz institution for sherry and cured meats."
+          },
+          {
+            "name": "Freiduría Las Flores",
+            "tip": "Great for a quick, cheap, and delicious fried fish fix."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Alameda Apodaca",
+            "tip": "Ein ruhiger Spaziergang am Meer entlang mit schönen gekachelten Bänken.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plaza de Mina",
+            "tip": "Ein schattiger Platz mit Bänken, um dem Trubel zu entfliehen.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Blick von den Mauern",
+            "tip": "Finden Sie einen ruhigen Abschnitt der alten Stadtmauern und blicken Sie auf das Meer.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alameda Apodaca",
+            "tip": "Csendes séta a tenger mentén, gyönyörű csempézett padokkal.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plaza de Mina",
+            "tip": "Árnyas tér padokkal, ahol elmenekülhet a nyüzsgés elől.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kilátás a falakról",
+            "tip": "Keressen egy csendes szakaszt a régi városfalakon, és nézzen ki a tengerre!",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Alameda Apodaca",
+            "tip": "O plimbare liniștită pe malul mării, cu bănci frumoase acoperite cu faianță.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plaza de Mina",
+            "tip": "O piață umbroasă cu bănci pentru a scăpa de agitație.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Vedere de pe ziduri",
+            "tip": "Găsiți o secțiune liniștită a vechilor ziduri ale orașului și priviți spre mare.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Alameda Apodaca",
+            "tip": "A quiet walk along the seafront with beautiful tiled benches.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plaza de Mina",
+            "tip": "A shady square with benches to escape the hustle and bustle.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "View from the city walls",
+            "tip": "Find a quiet section of the old city walls and gaze out at the sea.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle Ancha",
+            "tip": "Eine weitere beliebte Einkaufsstraße mit einer Mischung aus Geschäften."
+          },
+          {
+            "name": "Handwerksläden im Viertel El Pópulo",
+            "tip": "Stöbern Sie nach einzigartigen, handgefertigten Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle Ancha",
+            "tip": "Egy másik népszerű bevásárlóutca, vegyes üzletekkel."
+          },
+          {
+            "name": "Kézműves boltok az El Pópulo negyedben",
+            "tip": "Böngésszen egyedi, kézzel készített szuvenírek között!"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle Ancha",
+            "tip": "O altă stradă comercială populară, cu un amestec de magazine."
+          },
+          {
+            "name": "Magazine de artizanat în cartierul El Pópulo",
+            "tip": "Căutați suveniruri unice, lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle Ancha",
+            "tip": "Another popular shopping street with a mix of stores."
+          },
+          {
+            "name": "Artisan shops in the El Pópulo neighborhood",
+            "tip": "Browse for unique, handmade souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die lokale Bus-App herunter, um Fahrpläne und Routen in Echtzeit zu sehen.",
+          "Busse können im Sommer überfüllt sein, planen Sie also etwas mehr Zeit ein.",
+          "Behalten Sie Ihre Fahrkarte oder Karte bis zum Ende Ihrer Fahrt.",
+          "Die meisten Fahrer sprechen nur Spanisch, halten Sie also Ihr Ziel bereit."
+        ],
+        "hu": [
+          "Töltse le a helyi buszos alkalmazást a valós idejű menetrendekért és útvonalakért!",
+          "A buszok nyáron zsúfoltak lehetnek, ezért tervezzen egy kis extra időt!",
+          "Tartsa meg a jegyét vagy a kártyáját az utazás végéig!",
+          "A legtöbb sofőr csak spanyolul beszél, így legyen kéznél az úti célja!"
+        ],
+        "ro": [
+          "Descărcați aplicația locală de autobuz pentru orare și rute în timp real.",
+          "Autobuzele pot fi aglomerate vara, așa că alocați timp suplimentar.",
+          "Păstrați biletul sau cardul până la sfârșitul călătoriei.",
+          "Majoritatea șoferilor vorbesc doar spaniolă, așa că aveți destinația pregătită."
+        ],
+        "en": [
+          "Download the local bus app for real-time schedules and routes.",
+          "Buses can be crowded in the summer, so allow for extra time.",
+          "Keep your ticket or card until the end of your journey.",
+          "Most drivers speak only Spanish, so have your destination ready."
+        ]
+      }
+    }
+  }
+}

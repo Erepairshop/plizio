@@ -1,0 +1,1179 @@
+{
+  "city_id": "greece-trikala-cities-v2",
+  "anchor": {
+    "name": "Trikala",
+    "coords": [
+      21.7679,
+      39.5557
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:17",
+      "total_km": 2.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Zentralbrücke",
+          "coords": [
+            21.7675,
+            39.555
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekter Ort für ein morgendliches Foto mit dem Lithaios-Fluss.",
+            "hu": "Tökéletes helyszín egy reggeli fotóhoz a Lithaios-folyó felett.",
+            "ro": "Locul perfect pentru o fotografie matinală cu râul Lithaios.",
+            "en": "Perfect spot for a morning photo over the Lithaios river."
+          }
+        },
+        {
+          "name": "Viertel Varousi",
+          "coords": [
+            21.766,
+            39.557
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die traditionelle thessalische Architektur der Herrenhäuser.",
+            "hu": "Figyelje meg a hagyományos thesszáliai építészetet a régi kúriákon.",
+            "ro": "Observați arhitectura tradițională tesaliană a conacelor vechi.",
+            "en": "Notice the traditional Thessalian architecture of the old mansions."
+          }
+        },
+        {
+          "name": "Byzantinische Festung",
+          "coords": [
+            21.765,
+            39.5585
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für den Blick über die Stadt und Ebene.",
+            "hu": "A mászás megéri a városra és a síkságra nyíló pazar kilátásért.",
+            "ro": "Urcușul merită pentru priveliștea asupra orașului și a câmpiei.",
+            "en": "The climb is worth it for the views over the city and plains."
+          }
+        },
+        {
+          "name": "Uhrturm von Trikala",
+          "coords": [
+            21.7653,
+            39.5583
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:51",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Stufen im Turm für einen 360-Grad-Blick.",
+            "hu": "Mássza meg a torony lépcsőit egy 360 fokos panorámáért.",
+            "ro": "Urcați treptele turnului pentru o panoramă de 360 de grade.",
+            "en": "Climb the steps inside the tower for a 360-degree panorama."
+          }
+        },
+        {
+          "name": "Kliafa Museum",
+          "coords": [
+            21.7725,
+            39.5545
+          ],
+          "category": "museums",
+          "arrive_at": "12:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ehemalige Limonadenfabrik, jetzt ein tolles lokales Geschichtsmuseum.",
+            "hu": "Egykori üdítőgyár, amely ma kiváló helytörténeti múzeum.",
+            "ro": "Fostă fabrică de sucuri, acum un excelent muzeu de istorie locală.",
+            "en": "Former soft drink factory, now an excellent local history museum."
+          }
+        },
+        {
+          "name": "Lithaios-Flussbrücken",
+          "coords": [
+            21.7665,
+            39.554
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang entlang der üppigen Uferpromenade.",
+            "hu": "Élvezze a kényelmes sétát a buja folyóparti sétányon.",
+            "ro": "Bucurați-vă de o plimbare de-a lungul promenadei râului.",
+            "en": "Enjoy a leisurely stroll along the lush riverfront promenade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am malerischen Lithaios-Fluss an der Zentralbrücke und genießen Sie die morgendliche Atmosphäre. Spazieren Sie durch die engen Gassen des historischen Varousi-Viertels mit seinen traditionellen Häusern. Erklimmen Sie gegen Mittag die byzantinische Festung und den markanten Uhrturm, um das Panorama der thessalischen Ebene zu bewundern. Beenden Sie den Tag im Kliafa-Museum und entspannen Sie sich auf den Flussbrücken, bevor Sie in einer der Tavernen einkehren.",
+        "hu": "Kezdje a napot a Lithaios-folyó partján, a Központi híd körüli pezsgő reggeli hangulatban. Sétáljon át a történelmi Varousi óváros szűk, macskaköves utcáin, csodálva a régi kúriákat. Dél körül másszon fel a bizánci erődhöz és a jellegzetes Óratoronyhoz a thesszáliai síkságra nyíló panorámáért. Zárja a napot a Kliafa múzeum interaktív tárlatán, majd pihenjen meg a folyóparti árnyékos sétányokon.",
+        "ro": "Începeți ziua pe malurile râului Lithaios, la Podul Central, absorbind atmosfera matinală. Plimbați-vă pe străzile înguste și pietruite ale cartierului istoric Varousi, admirând conacele tradiționale. La prânz, urcați la Cetatea Bizantină și la Turnul cu Ceas pentru o panoramă deschisă asupra câmpiei Tesaliei. Încheiați ziua explorând Muzeul Kliafa și relaxați-vă pe podurile umbrite ale râului.",
+        "en": "Start by the picturesque Lithaios river at the Central Bridge, enjoying the morning vibe. Stroll through the narrow, cobbled streets of the historic Varousi neighborhood, admiring the old mansions. Around midday, climb up to the Byzantine Fortress and the iconic Clock Tower for sweeping views of the Thessalian plain. End the day at the Kliafa Museum of local history, before unwinding on the shaded riverfront bridges."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokaler Tsipouro",
+            "tip": "Probieren Sie den starken Tresterbrand in den lokalen Tsipouradika."
+          },
+          {
+            "name": "Trikala Würstchen",
+            "tip": "Würzige Schweinewürste (Loukaniko), traditionell mit Lauch zubereitet."
+          },
+          {
+            "name": "Kasseri Käse",
+            "tip": "Ein halbharter lokaler Käse, ideal als Vorspeise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi Tsipouro",
+            "tip": "Kóstolja meg az erős törkölypárlatot a helyi tsipouradika tavernákban."
+          },
+          {
+            "name": "Trikalai kolbász",
+            "tip": "Fűszeres sertéskolbász (Loukaniko), amelyet hagyományosan póréhagymával készítenek."
+          },
+          {
+            "name": "Kasseri sajt",
+            "tip": "Félkemény helyi sajt, amely kiváló előételnek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tsipouro local",
+            "tip": "Gustați puternicul distilat în tavernele tsipouradika locale."
+          },
+          {
+            "name": "Cârnați de Trikala",
+            "tip": "Cârnați picanți de porc (Loukaniko), pregătiți tradițional cu praz."
+          },
+          {
+            "name": "Brânză Kasseri",
+            "tip": "O brânză locală semidură, ideală ca aperitiv."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Tsipouro",
+            "tip": "Taste the strong pomace brandy at the local tsipouradika taverns."
+          },
+          {
+            "name": "Trikala Sausage",
+            "tip": "Spicy pork sausage (Loukaniko), traditionally made with leeks."
+          },
+          {
+            "name": "Kasseri Cheese",
+            "tip": "A semi-hard local cheese, perfect as a starter meze."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Festungspark",
+            "tip": "Ruhiger Kiefernwald rund um die Burgruine.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Lithaios Ufer",
+            "tip": "Entspannen Sie unter den Trauerweiden am Wasser.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Erődpark",
+            "tip": "Csendes fenyőerdő a várrom környékén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Lithaios partja",
+            "tip": "Pihenjen meg a szomorúfüzek árnyékában a víz mellett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Cetății",
+            "tip": "O pădure liniștită de pini în jurul ruinelor castelului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malurile Lithaios",
+            "tip": "Relaxați-vă sub sălciile plângătoare de lângă apă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fortress Park",
+            "tip": "A quiet pine grove surrounding the castle ruins.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Lithaios Banks",
+            "tip": "Relax under the weeping willows right by the water.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zentralmarkt",
+            "tip": "Kaufen Sie frisches Obst, Feta und Gewürze."
+          },
+          {
+            "name": "Halva-Süßigkeiten",
+            "tip": "Traditionelles thessalisches Konfekt als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi piac",
+            "tip": "Vásároljon friss gyümölcsöt, feta sajtot és fűszereket."
+          },
+          {
+            "name": "Halva édességek",
+            "tip": "Hagyományos thesszáliai édesség, tökéletes szuvenír."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Centrală",
+            "tip": "Cumpărați fructe proaspete, brânză feta și condimente."
+          },
+          {
+            "name": "Dulciuri Halva",
+            "tip": "Confecții tradiționale tesaliene, perfecte ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Market",
+            "tip": "Buy fresh fruits, local feta, and herbs."
+          },
+          {
+            "name": "Halva Sweets",
+            "tip": "Traditional Thessalian confection, perfect as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Trikala ist flach und sehr fußgängerfreundlich.",
+          "Die Altstadt hat viele Kopfsteinpflaster, tragen Sie bequeme Schuhe.",
+          "Im Sommer wird es heiß; nutzen Sie den Morgen für den Burgaufstieg.",
+          "Folgen Sie einfach dem Flussufer, um sich in der Stadt zu orientieren."
+        ],
+        "hu": [
+          "Trikala nagyon sík, kiválóan alkalmas gyalogos felfedezésre.",
+          "Az óváros macskaköves, viseljen kényelmes cipőt.",
+          "Nyáron nagyon meleg lehet, a várlátogatást időzítse délelőttre.",
+          "A tájékozódáshoz a legegyszerűbb mindig a folyópartot követni."
+        ],
+        "ro": [
+          "Trikala este un oraș plat, foarte prietenos cu pietonii.",
+          "Centrul vechi are străzi pietruite, purtați încălțăminte comodă.",
+          "Vara este foarte cald; vizitați cetatea dimineața devreme.",
+          "Urmați pur și simplu cursul râului pentru a vă orienta ușor."
+        ],
+        "en": [
+          "Trikala is very flat, making it exceptionally pedestrian-friendly.",
+          "The old town features cobblestones, so wear comfortable shoes.",
+          "Summers get very hot; time your castle climb for the morning.",
+          "Simply follow the riverbanks to easily orient yourself in the city."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "13:35",
+      "total_km": 5.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Matsopoulos Mühle",
+          "coords": [
+            21.7535,
+            39.55
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Großer Industriepark, ideal um die Radtour zu starten.",
+            "hu": "Hatalmas ipari park, ideális kiindulópont a biciklitúrához.",
+            "ro": "Mare parc industrial, ideal pentru a începe turul cu bicicleta.",
+            "en": "Vast industrial park, ideal starting point for your bike tour."
+          }
+        },
+        {
+          "name": "Kursum Moschee",
+          "coords": [
+            21.773,
+            39.5505
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Imposantes Gebäude des berühmten Architekten Sinan.",
+            "hu": "A híres Szinán építész lenyűgöző alkotása.",
+            "ro": "Clădire impunătoare creată de celebrul arhitect Sinan.",
+            "en": "Imposing building designed by the famous architect Sinan."
+          }
+        },
+        {
+          "name": "Zentralbrücke",
+          "coords": [
+            21.7675,
+            39.555
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:11",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie den fantastischen Radweg entlang des Flusses hierher.",
+            "hu": "Tekerjen végig a kiváló folyóparti kerékpárúton idáig.",
+            "ro": "Mergeți pe fantastica pistă de biciclete de-a lungul râului până aici.",
+            "en": "Ride along the fantastic riverside bike path to get here."
+          }
+        },
+        {
+          "name": "Viertel Varousi",
+          "coords": [
+            21.766,
+            39.557
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schieben Sie das Rad teilweise, da die Gassen sehr eng sind.",
+            "hu": "Néhol érdemes tolni a kerékpárt a szűk utcák miatt.",
+            "ro": "Împingeți bicicleta uneori, deoarece străzile sunt foarte înguste.",
+            "en": "You may need to walk your bike in some narrow alleys."
+          }
+        },
+        {
+          "name": "Byzantinische Festung",
+          "coords": [
+            21.765,
+            39.5585
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Stellen Sie das Rad unten ab und laufen Sie die letzten Meter hoch.",
+            "hu": "Zárja le a biciklit lent, és tegye meg az utolsó métereket gyalog.",
+            "ro": "Lăsați bicicleta jos și parcurgeți ultimii metri pe jos.",
+            "en": "Lock your bike below and walk up the final stretch."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Trikala gilt als die fahrradfreundlichste Stadt Griechenlands! Starten Sie an der historischen Matsopoulos Mühle im Westen und fahren Sie entspannt auf den ausgebauten Wegen. Erreichen Sie am Vormittag die imposante Kursum-Moschee und folgen Sie dann dem malerischen Radweg entlang des Lithaios-Flusses zur Zentralbrücke. Erkunden Sie mittags das Altstadtviertel Varousi. Stellen Sie das Fahrrad schließlich ab, um zu Fuß die byzantinische Festung zu erklimmen.",
+        "hu": "Trikala Görögország leginkább kerékpárosbarát városa! Kezdje a túrát a történelmi Matsopoulos malomnál a nyugati részen, majd tekerjen kényelmesen a kiépített utakon. Délelőtt érje el a lenyűgöző Kursum mecsetet, majd kövesse a festői folyóparti kerékpárutat a Központi hídig. Délben guruljon végig a Varousi óváros szélén, majd parkolja le a biciklit, hogy gyalog fedezze fel a bizánci erődöt.",
+        "ro": "Trikala este considerat cel mai prietenos oraș pentru bicicliști din Grecia! Începeți la Moara Matsopoulos din vest și pedalați relaxat pe pistele amenajate. Ajungeți dimineața la impunătoarea Moschee Kursum, apoi urmați pista pitorească de pe malul râului Lithaios spre Podul Central. La prânz, explorați cartierul istoric Varousi. În cele din urmă, lăsați bicicleta pentru a urca pe jos la Cetatea Bizantină.",
+        "en": "Trikala is widely known as Greece's most bike-friendly city! Start your ride at the historic Matsopoulos Mill in the west, utilizing the safe cycling paths. By mid-morning, reach the impressive Kursum Mosque, then follow the scenic riverside bike lane to the Central Bridge. Around noon, skirt the edges of the Varousi old town before parking your bike to hike up to the Byzantine Fortress on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokaler Tsipouro",
+            "tip": "Probieren Sie den starken Tresterbrand in den lokalen Tsipouradika."
+          },
+          {
+            "name": "Trikala Würstchen",
+            "tip": "Würzige Schweinewürste (Loukaniko), traditionell mit Lauch zubereitet."
+          },
+          {
+            "name": "Kasseri Käse",
+            "tip": "Ein halbharter lokaler Käse, ideal als Vorspeise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi Tsipouro",
+            "tip": "Kóstolja meg az erős törkölypárlatot a helyi tsipouradika tavernákban."
+          },
+          {
+            "name": "Trikalai kolbász",
+            "tip": "Fűszeres sertéskolbász (Loukaniko), amelyet hagyományosan póréhagymával készítenek."
+          },
+          {
+            "name": "Kasseri sajt",
+            "tip": "Félkemény helyi sajt, amely kiváló előételnek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tsipouro local",
+            "tip": "Gustați puternicul distilat în tavernele tsipouradika locale."
+          },
+          {
+            "name": "Cârnați de Trikala",
+            "tip": "Cârnați picanți de porc (Loukaniko), pregătiți tradițional cu praz."
+          },
+          {
+            "name": "Brânză Kasseri",
+            "tip": "O brânză locală semidură, ideală ca aperitiv."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Tsipouro",
+            "tip": "Taste the strong pomace brandy at the local tsipouradika taverns."
+          },
+          {
+            "name": "Trikala Sausage",
+            "tip": "Spicy pork sausage (Loukaniko), traditionally made with leeks."
+          },
+          {
+            "name": "Kasseri Cheese",
+            "tip": "A semi-hard local cheese, perfect as a starter meze."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Matsopoulos Park",
+            "tip": "Viel Grünfläche und alte Industrieromantik.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Lithaios Ufer",
+            "tip": "Entspannen Sie unter den Trauerweiden am Wasser.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Matsopoulos park",
+            "tip": "Hatalmas zöldterület és régi ipari romantika.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Lithaios partja",
+            "tip": "Pihenjen meg a szomorúfüzek árnyékában a víz mellett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Matsopoulos",
+            "tip": "Spații verzi extinse și romantism industrial vechi.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malurile Lithaios",
+            "tip": "Relaxați-vă sub sălciile plângătoare de lângă apă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Matsopoulos Park",
+            "tip": "Plenty of green space and old industrial romance.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Lithaios Banks",
+            "tip": "Relax under the weeping willows right by the water.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zentralmarkt",
+            "tip": "Kaufen Sie frisches Obst, Feta und Gewürze."
+          },
+          {
+            "name": "Halva-Süßigkeiten",
+            "tip": "Traditionelles thessalisches Konfekt als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi piac",
+            "tip": "Vásároljon friss gyümölcsöt, feta sajtot és fűszereket."
+          },
+          {
+            "name": "Halva édességek",
+            "tip": "Hagyományos thesszáliai édesség, tökéletes szuvenír."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Centrală",
+            "tip": "Cumpărați fructe proaspete, brânză feta și condimente."
+          },
+          {
+            "name": "Dulciuri Halva",
+            "tip": "Confecții tradiționale tesaliene, perfecte ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Market",
+            "tip": "Buy fresh fruits, local feta, and herbs."
+          },
+          {
+            "name": "Halva Sweets",
+            "tip": "Traditional Thessalian confection, perfect as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Trikala verfügt über eines der besten Radwegnetze in Griechenland.",
+          "In der Innenstadt gibt es zahlreiche öffentliche Fahrradständer.",
+          "Vorsicht in der Altstadt: Das Kopfsteinpflaster kann für Räder ungemütlich sein.",
+          "Der Radweg entlang des Lithaios bietet viel Schatten an heißen Tagen."
+        ],
+        "hu": [
+          "Trikala rendelkezik Görögország egyik legjobb kerékpárút-hálózatával.",
+          "A belvárosban rengeteg nyilvános kerékpártároló található.",
+          "Vigyázat az óvárosban: a macskakő rázós lehet a kerékpárosoknak.",
+          "A Lithaios menti kerékpárút sok árnyékot ad a forró napokon."
+        ],
+        "ro": [
+          "Trikala are una dintre cele mai bune rețele de piste de biciclete din Grecia.",
+          "Există numeroase parcări publice pentru biciclete în centrul orașului.",
+          "Atenție în orașul vechi: pavajul cu piatră cubică poate fi inconfortabil.",
+          "Pista de biciclete de-a lungul râului Lithaios oferă multă umbră."
+        ],
+        "en": [
+          "Trikala boasts one of the best cycling networks in all of Greece.",
+          "There are plenty of public bike racks scattered throughout the city center.",
+          "Be careful in the old town: cobblestones can make for a bumpy ride.",
+          "The bike path along the Lithaios river provides great shade on hot days."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:38",
+      "total_km": 6.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Viertel Varousi",
+          "coords": [
+            21.766,
+            39.557
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie außerhalb des Zentrums und laufen Sie in die Gassen.",
+            "hu": "Parkoljon a központon kívül, és sétáljon be az utcákba.",
+            "ro": "Parcați în afara centrului și plimbați-vă pe străduțe.",
+            "en": "Park outside the main center and walk into the alleys."
+          }
+        },
+        {
+          "name": "Byzantinische Festung",
+          "coords": [
+            21.765,
+            39.5585
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kurzer, steiler Fußweg vom Altstadtviertel.",
+            "hu": "Rövid, meredek gyalogút az óvárosból.",
+            "ro": "O scurtă și abruptă plimbare de la cartierul vechi.",
+            "en": "A short, steep walk up from the old town district."
+          }
+        },
+        {
+          "name": "Uhrturm von Trikala",
+          "coords": [
+            21.7653,
+            39.5583
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Wahrzeichen befindet sich auf dem Gelände der Burg.",
+            "hu": "A jellegzetes torony az erőd területén található.",
+            "ro": "Simbolul orașului se află chiar pe domeniul castelului.",
+            "en": "This iconic landmark is located right inside the castle grounds."
+          }
+        },
+        {
+          "name": "Kursum Moschee",
+          "coords": [
+            21.773,
+            39.5505
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie hierher und nutzen Sie die Parkplätze in der Nähe.",
+            "hu": "Vezessen át ide, a környéken könnyebb parkolni.",
+            "ro": "Conduceți până aici; există locuri de parcare în apropiere.",
+            "en": "Drive down here and utilize the nearby parking spots."
+          }
+        },
+        {
+          "name": "Matsopoulos Mühle",
+          "coords": [
+            21.7535,
+            39.55
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:48",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Großer eigener Parkplatz; perfekt für das Ende der Tour.",
+            "hu": "Saját nagy parkolója van; tökéletes a túra végpontjának.",
+            "ro": "Parcare mare proprie; perfect pentru încheierea turului.",
+            "en": "Large dedicated parking; perfect spot to end your tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Auto strategisch, um die verschiedenen Bereiche Trikalas zu verbinden. Parken Sie morgens in der Nähe des historischen Zentrums und erkunden Sie Varousi, die Festung und den Uhrturm zu Fuß – ein kompaktes Areal. Steigen Sie mittags wieder ins Auto und fahren Sie zur eindrucksvollen Kursum-Moschee im südlichen Teil. Am Nachmittag bringt Sie eine kurze Fahrt zur weitläufigen Matsopoulos Mühle im Westen, wo Sie ausreichend Parkplätze und ein riesiges Areal für einen entspannten Abschluss finden.",
+        "hu": "Használja stratégiailag az autót Trikala különböző pontjainak összekötésére. Reggel parkoljon le a történelmi központ közelében, és fedezze fel a Varousi negyedet, az erődöt és az Óratornyot gyalogosan – ez a terület nagyon kompakt. Dél körül pattanjon ismét autóba, és vezessen el a déli részen álló lenyűgöző Kursum mecsethez. Délután egy rövid út visz a nyugati Matsopoulos malomhoz, ahol tágas parkoló és hatalmas park várja a nap lezárásaként.",
+        "ro": "Folosiți mașina strategic pentru a conecta diversele zone din Trikala. Parcați dimineața lângă centrul istoric și explorați cartierul Varousi, Cetatea și Turnul cu Ceas pe jos, fiind o zonă compactă. La prânz, urcați din nou în mașină și conduceți spre impresionanta Moschee Kursum în sud. După-amiaza, un scurt drum vă duce la Moara Matsopoulos din vest, unde găsiți parcare amplă și un spațiu vast pentru a încheia ziua relaxat.",
+        "en": "Use your car strategically to hop between Trikala's distinct clusters. Park near the historic center in the morning to explore the Varousi neighborhood, the Fortress, and the Clock Tower on foot, as they are tightly clustered. Around midday, drive to the impressive Kursum Mosque in the southern part of the city. In the afternoon, take a short drive west to the expansive Matsopoulos Mill, which offers plenty of parking and a large park to peacefully conclude your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokaler Tsipouro",
+            "tip": "Probieren Sie den starken Tresterbrand in den lokalen Tsipouradika."
+          },
+          {
+            "name": "Trikala Würstchen",
+            "tip": "Würzige Schweinewürste (Loukaniko), traditionell mit Lauch zubereitet."
+          },
+          {
+            "name": "Kasseri Käse",
+            "tip": "Ein halbharter lokaler Käse, ideal als Vorspeise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi Tsipouro",
+            "tip": "Kóstolja meg az erős törkölypárlatot a helyi tsipouradika tavernákban."
+          },
+          {
+            "name": "Trikalai kolbász",
+            "tip": "Fűszeres sertéskolbász (Loukaniko), amelyet hagyományosan póréhagymával készítenek."
+          },
+          {
+            "name": "Kasseri sajt",
+            "tip": "Félkemény helyi sajt, amely kiváló előételnek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tsipouro local",
+            "tip": "Gustați puternicul distilat în tavernele tsipouradika locale."
+          },
+          {
+            "name": "Cârnați de Trikala",
+            "tip": "Cârnați picanți de porc (Loukaniko), pregătiți tradițional cu praz."
+          },
+          {
+            "name": "Brânză Kasseri",
+            "tip": "O brânză locală semidură, ideală ca aperitiv."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Tsipouro",
+            "tip": "Taste the strong pomace brandy at the local tsipouradika taverns."
+          },
+          {
+            "name": "Trikala Sausage",
+            "tip": "Spicy pork sausage (Loukaniko), traditionally made with leeks."
+          },
+          {
+            "name": "Kasseri Cheese",
+            "tip": "A semi-hard local cheese, perfect as a starter meze."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Matsopoulos Park",
+            "tip": "Viel Grünfläche und alte Industrieromantik.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Festungspark",
+            "tip": "Ruhiger Kiefernwald rund um die Burgruine.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Matsopoulos park",
+            "tip": "Hatalmas zöldterület és régi ipari romantika.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Erődpark",
+            "tip": "Csendes fenyőerdő a várrom környékén.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Matsopoulos",
+            "tip": "Spații verzi extinse și romantism industrial vechi.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Cetății",
+            "tip": "O pădure liniștită de pini în jurul ruinelor castelului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Matsopoulos Park",
+            "tip": "Plenty of green space and old industrial romance.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Fortress Park",
+            "tip": "A quiet pine grove surrounding the castle ruins.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zentralmarkt",
+            "tip": "Kaufen Sie frisches Obst, Feta und Gewürze."
+          },
+          {
+            "name": "Halva-Süßigkeiten",
+            "tip": "Traditionelles thessalisches Konfekt als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi piac",
+            "tip": "Vásároljon friss gyümölcsöt, feta sajtot és fűszereket."
+          },
+          {
+            "name": "Halva édességek",
+            "tip": "Hagyományos thesszáliai édesség, tökéletes szuvenír."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Centrală",
+            "tip": "Cumpărați fructe proaspete, brânză feta și condimente."
+          },
+          {
+            "name": "Dulciuri Halva",
+            "tip": "Confecții tradiționale tesaliene, perfecte ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Market",
+            "tip": "Buy fresh fruits, local feta, and herbs."
+          },
+          {
+            "name": "Halva Sweets",
+            "tip": "Traditional Thessalian confection, perfect as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahren Sie nicht mit dem Auto ins direkte Altstadtzentrum (Varousi).",
+          "Nutzen Sie die kostenlosen großen Parkplätze an der Matsopoulos Mühle.",
+          "Die Fahrwege zwischen den Clustern dauern nur wenige Minuten.",
+          "Trikala ist flach, parken Sie also zentral und laufen Sie das restliche Viertel."
+        ],
+        "hu": [
+          "Ne kíséreljen meg behajtani az óváros (Varousi) szűk utcáiba.",
+          "Használja a Matsopoulos malom melletti nagy ingyenes parkolót.",
+          "Az egyes zónák közötti autózás csupán néhány percet vesz igénybe.",
+          "A város sík, ezért elég zónánként egyszer parkolni és onnan sétálni."
+        ],
+        "ro": [
+          "Nu încercați să conduceți direct în centrul istoric îngust (Varousi).",
+          "Folosiți parcările mari și gratuite de lângă Moara Matsopoulos.",
+          "Drumurile între diferitele clustere durează doar câteva minute.",
+          "Trikala este un oraș plat, deci parcați central și parcurgeți zona pe jos."
+        ],
+        "en": [
+          "Do not attempt to drive directly into the narrow streets of the Varousi old town.",
+          "Take advantage of the large, free parking areas at the Matsopoulos Mill.",
+          "Driving between these specific clusters only takes a few minutes.",
+          "Trikala is completely flat, so park once per cluster and walk the rest."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:10",
+      "total_km": 6.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Zentralbrücke",
+          "coords": [
+            21.7675,
+            39.555
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Starten Sie im Herzen der Stadt, leicht mit dem Bus erreichbar.",
+            "hu": "Kezdje a város szívében, ide sok helyi busz közlekedik.",
+            "ro": "Începeți în inima orașului, ușor accesibil cu autobuzul.",
+            "en": "Start right in the heart of the city, easily reachable by local bus."
+          }
+        },
+        {
+          "name": "Viertel Varousi",
+          "coords": [
+            21.766,
+            39.557
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zu Fuß erreichbar; Busse fahren nicht durch diese engen Gassen.",
+            "hu": "Gyalogosan elérhető; a buszok nem férnek el a szűk utcákban.",
+            "ro": "Accesibil pe jos; autobuzele nu circulă pe aceste străzi înguste.",
+            "en": "Reached on foot; buses cannot navigate these narrow alleys."
+          }
+        },
+        {
+          "name": "Byzantinische Festung",
+          "coords": [
+            21.765,
+            39.5585
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Folgen Sie den Schildern bergauf von Varousi aus.",
+            "hu": "Kövesse a táblákat felfelé a Varousi negyedből.",
+            "ro": "Urmați indicatoarele în sus din cartierul Varousi.",
+            "en": "Follow the signs uphill from the Varousi neighborhood."
+          }
+        },
+        {
+          "name": "Kursum Moschee",
+          "coords": [
+            21.773,
+            39.5505
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Zentrum Richtung Süden.",
+            "hu": "Szálljon fel egy dél felé tartó buszra a központból.",
+            "ro": "Luați un autobuz din centru spre sud.",
+            "en": "Catch a southbound bus from the central area."
+          }
+        },
+        {
+          "name": "Matsopoulos Mühle",
+          "coords": [
+            21.7535,
+            39.55
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine direkte Buslinie verbindet das Zentrum mit diesem Park.",
+            "hu": "Egy közvetlen buszjárat köti össze a központot ezzel a parkkal.",
+            "ro": "O linie directă de autobuz leagă centrul de acest parc.",
+            "en": "A direct local bus line connects the center to this large park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Nahverkehrssystem in Trikala ist effizient. Beginnen Sie Ihren Tag im Herzen der Stadt an der Zentralbrücke und erkunden Sie das Varousi-Viertel und die darüber liegende Festung bequem zu Fuß, da Busse hier nicht verkehren. Gegen Mittag steigen Sie an der zentralen Station in einen Bus, der Sie zügig zur Kursum-Moschee bringt. Danach nutzen Sie erneut den Bus, um zur weitläufigen Matsopoulos Mühle am Stadtrand zu gelangen, ideal für einen entspannten Nachmittag im Park.",
+        "hu": "Trikala tömegközlekedése praktikus és kényelmes. Kezdje a napot a város szívében, a Központi hídnál, majd fedezze fel a Varousi negyedet és az erődöt gyalog – a buszok ezen a történelmi, szűk részen amúgy sem járnak. Délben a központi megállóból egy rövid buszúttal érje el a déli Kursum mecsetet. Később szálljon ismét buszra, ami kényelmesen kiviszi a város szélén álló Matsopoulos malomhoz egy délutáni parki pihenésre.",
+        "ro": "Sistemul de transport local din Trikala este practic. Începeți în inima orașului, la Podul Central, și explorați cartierul Varousi și Cetatea pe jos, unde autobuzele nu au acces. La prânz, luați un autobuz din stația centrală care vă va lăsa rapid la Moscheea Kursum din sud. Apoi, folosiți din nou transportul public pentru a ajunge la extinsa Moară Matsopoulos de la marginea orașului, ideală pentru o după-amiază relaxantă.",
+        "en": "Trikala's local transit is highly practical. Start your day in the city center at the Central Bridge, exploring the Varousi neighborhood and the Fortress entirely on foot, as buses do not navigate those tight alleys. Around midday, catch a local bus from the central hub down to the impressive Kursum Mosque. Later, take another bus out to the city's edge to visit the expansive Matsopoulos Mill, enjoying a relaxed afternoon in its surrounding park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokaler Tsipouro",
+            "tip": "Probieren Sie den starken Tresterbrand in den lokalen Tsipouradika."
+          },
+          {
+            "name": "Trikala Würstchen",
+            "tip": "Würzige Schweinewürste (Loukaniko), traditionell mit Lauch zubereitet."
+          },
+          {
+            "name": "Kasseri Käse",
+            "tip": "Ein halbharter lokaler Käse, ideal als Vorspeise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi Tsipouro",
+            "tip": "Kóstolja meg az erős törkölypárlatot a helyi tsipouradika tavernákban."
+          },
+          {
+            "name": "Trikalai kolbász",
+            "tip": "Fűszeres sertéskolbász (Loukaniko), amelyet hagyományosan póréhagymával készítenek."
+          },
+          {
+            "name": "Kasseri sajt",
+            "tip": "Félkemény helyi sajt, amely kiváló előételnek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tsipouro local",
+            "tip": "Gustați puternicul distilat în tavernele tsipouradika locale."
+          },
+          {
+            "name": "Cârnați de Trikala",
+            "tip": "Cârnați picanți de porc (Loukaniko), pregătiți tradițional cu praz."
+          },
+          {
+            "name": "Brânză Kasseri",
+            "tip": "O brânză locală semidură, ideală ca aperitiv."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Tsipouro",
+            "tip": "Taste the strong pomace brandy at the local tsipouradika taverns."
+          },
+          {
+            "name": "Trikala Sausage",
+            "tip": "Spicy pork sausage (Loukaniko), traditionally made with leeks."
+          },
+          {
+            "name": "Kasseri Cheese",
+            "tip": "A semi-hard local cheese, perfect as a starter meze."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Matsopoulos Park",
+            "tip": "Viel Grünfläche und alte Industrieromantik.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Lithaios Ufer",
+            "tip": "Entspannen Sie unter den Trauerweiden am Wasser.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Matsopoulos park",
+            "tip": "Hatalmas zöldterület és régi ipari romantika.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Lithaios partja",
+            "tip": "Pihenjen meg a szomorúfüzek árnyékában a víz mellett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Matsopoulos",
+            "tip": "Spații verzi extinse și romantism industrial vechi.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malurile Lithaios",
+            "tip": "Relaxați-vă sub sălciile plângătoare de lângă apă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Matsopoulos Park",
+            "tip": "Plenty of green space and old industrial romance.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Lithaios Banks",
+            "tip": "Relax under the weeping willows right by the water.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zentralmarkt",
+            "tip": "Kaufen Sie frisches Obst, Feta und Gewürze."
+          },
+          {
+            "name": "Halva-Süßigkeiten",
+            "tip": "Traditionelles thessalisches Konfekt als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi piac",
+            "tip": "Vásároljon friss gyümölcsöt, feta sajtot és fűszereket."
+          },
+          {
+            "name": "Halva édességek",
+            "tip": "Hagyományos thesszáliai édesség, tökéletes szuvenír."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Centrală",
+            "tip": "Cumpărați fructe proaspete, brânză feta și condimente."
+          },
+          {
+            "name": "Dulciuri Halva",
+            "tip": "Confecții tradiționale tesaliene, perfecte ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Market",
+            "tip": "Buy fresh fruits, local feta, and herbs."
+          },
+          {
+            "name": "Halva Sweets",
+            "tip": "Traditional Thessalian confection, perfect as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Busse in Trikala sind zuverlässig, aber die Stadt ist klein genug für kurze Fahrten.",
+          "Kaufen Sie Tickets idealerweise vorab am Kiosk oder Busbahnhof.",
+          "Für den Aufstieg zur Burg gibt es keinen Bus; bequeme Schuhe sind Pflicht.",
+          "Der Hauptbusbahnhof liegt sehr zentral in der Nähe des Flusses."
+        ],
+        "hu": [
+          "A buszok megbízhatóak, bár a város amúgy is kicsi, így az utak rövidek.",
+          "A jegyeket érdemes előre, a kioszkokban vagy a buszállomáson megvenni.",
+          "A várhoz nem megy fel busz, így kényelmes cipőben induljon neki a sétának.",
+          "A fő buszpályaudvar nagyon központi helyen, a folyó közelében van."
+        ],
+        "ro": [
+          "Autobuzele sunt de încredere, deși orașul este mic și drumurile sunt scurte.",
+          "Cumpărați biletele în avans de la chioșcuri sau de la autogară.",
+          "Nu există autobuz care să urce la cetate; încălțămintea comodă este obligatorie.",
+          "Autogara principală este situată central, aproape de râu."
+        ],
+        "en": [
+          "Local buses are reliable, though the city is small so rides are quite brief.",
+          "It is best to buy your tickets in advance at a kiosk or the main bus station.",
+          "There is no bus line up to the fortress, so comfortable walking shoes are a must.",
+          "The main transit hub is very centrally located near the river."
+        ]
+      }
+    }
+  }
+}

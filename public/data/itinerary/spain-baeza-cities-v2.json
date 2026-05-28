@@ -1,0 +1,1484 @@
+{
+  "city_id": "spain-baeza-cities-v2",
+  "anchor": {
+    "name": "Baeza",
+    "coords": [
+      -3.468,
+      37.9942
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 2.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza del Pópulo (Löwenplatz)",
+            "hu": "Plaza del Pópulo (Oroszlánok tere)",
+            "ro": "Plaza del Pópulo (Piața Leilor)",
+            "en": "Plaza del Pópulo (Lions' Square)"
+          },
+          "coords": [
+            -3.4665,
+            37.9925
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den Löwenbrunnen und die alte Metzgerei, ein perfekter Ausgangspunkt.",
+            "hu": "Csodálja meg az Oroszlános kutat és a régi mészárszéket; tökéletes kiindulópont.",
+            "ro": "Admirați Fântâna Leilor și vechea măcelărie, un punct de plecare perfect.",
+            "en": "Admire the Lions' Fountain and the old butcher's house, a perfect starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Fuente de Santa María",
+            "hu": "Santa María-kút",
+            "ro": "Fântâna Santa María",
+            "en": "Fuente de Santa María"
+          },
+          "coords": [
+            -3.4688,
+            37.9945
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:41",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein Triumphbogen, der in einen Brunnen integriert ist. Ein einzigartiges Fotomotiv.",
+            "hu": "Egy diadalív, amely egy szökőkút részét képezi. Egyedi fotótéma.",
+            "ro": "Un arc de triumf integrat într-o fântână. Un loc unic pentru fotografii.",
+            "en": "A triumphal arch integrated into a fountain. A unique photo opportunity."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Baeza",
+            "hu": "Baezai katedrális",
+            "ro": "Catedrala din Baeza",
+            "en": "Baeza Cathedral"
+          },
+          "coords": [
+            -3.4682,
+            37.9946
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Steigen Sie auf den Turm und genießen Sie den atemberaubenden Blick über die Olivenhaine.",
+            "hu": "Menjen fel a toronyba a lélegzetelállító kilátásért az olajfaligetekre.",
+            "ro": "Urcați în turn pentru o priveliște uluitoare asupra plantațiilor de măslini.",
+            "en": "Climb the tower for a breathtaking view over the olive groves."
+          }
+        },
+        {
+          "name": {
+            "de": "Jabalquinto-Palast",
+            "hu": "Jabalquinto-palota",
+            "ro": "Palatul Jabalquinto",
+            "en": "Palacio de Jabalquinto"
+          },
+          "coords": [
+            -3.4695,
+            37.9941
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:21",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die Fassade ist ein Meisterwerk des isabellinischen Gotikstils. Verpassen Sie nicht den Renaissance-Innenhof.",
+            "hu": "A homlokzat az izabellini gótika mesterműve. Ne hagyja ki a reneszánsz udvart.",
+            "ro": "Fațada este o capodoperă a stilului gotic isabelin. Nu ratați curtea renascentistă.",
+            "en": "The facade is a masterpiece of Isabelline Gothic style. Don't miss the Renaissance courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Antike Universität",
+            "hu": "Régi Egyetem",
+            "ro": "Vechea Universitate",
+            "en": "Antigua Universidad"
+          },
+          "coords": [
+            -3.469,
+            37.9938
+          ],
+          "category": "museums",
+          "arrive_at": "12:43",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Auditorium, in dem Antonio Machado unterrichtete. Die Atmosphäre ist inspirierend.",
+            "hu": "Látogasson el az előadóterembe, ahol Antonio Machado tanított. A hangulat inspiráló.",
+            "ro": "Vizitați auditoriumul unde a predat Antonio Machado. Atmosfera este inspirațională.",
+            "en": "Visit the auditorium where Antonio Machado taught. The atmosphere is inspiring."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de los Aliatares",
+            "hu": "Torre de los Aliatares",
+            "ro": "Turnul Aliatares",
+            "en": "Torre de los Aliatares"
+          },
+          "coords": [
+            -3.4655,
+            37.9915
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:13",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein robuster Turm, der einst Teil der Stadtmauer war. Stellen Sie sich die mittelalterlichen Wachen vor.",
+            "hu": "Egy robusztus torony, amely egykor a városfal része volt. Képzelje el a középkori őröket.",
+            "ro": "Un turn robust care făcea parte din zidurile orașului. Imaginați-vă gărzile medievale.",
+            "en": "A robust tower that was once part of the city walls. Imagine the medieval guards."
+          }
+        },
+        {
+          "name": {
+            "de": "Puerta de Úbeda",
+            "hu": "Úbedai kapu",
+            "ro": "Poarta Úbeda",
+            "en": "Puerta de Úbeda"
+          },
+          "coords": [
+            -3.463,
+            37.993
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:07",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Gehen Sie durch dieses historische Tor und fühlen Sie sich, als würden Sie in die Vergangenheit reisen.",
+            "hu": "Sétáljon át ezen a történelmi kapun, és érezze úgy, mintha visszautazna az időben.",
+            "ro": "Treceți prin această poartă istorică și simțiți-vă ca și cum ați călători înapoi în timp.",
+            "en": "Walk through this historic gate and feel like you're traveling back in time."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf der Plaza del Pópulo, dem lebhaften Herzen von Baeza. Erkunden Sie die engen Gassen, die zur majestätischen Kathedrale führen, und bewundern Sie die Renaissance-Architektur. Am Vormittag besuchen Sie den Palacio de Jabalquinto und die alte Universität, Zeugen der goldenen Ära der Stadt. Am Nachmittag schlendern Sie entlang der alten Stadtmauern, entdecken den Torre de los Aliatares und gehen durch die Puerta de Úbeda. Beenden Sie Ihren Tag mit Tapas und einem Glas Wein und genießen Sie die ruhige andalusische Atmosphäre.",
+        "hu": "Kezdje a napot a Plaza del Pópulo téren, Baeza nyüzsgő szívében. Fedezze fel a fenséges katedrálishoz vezető szűk utcákat, és csodálja meg a reneszánsz építészetet. Délelőtt látogasson el a Jabalquinto-palotába és a régi egyetemre, a város aranykorának tanúira. Délután sétáljon végig a régi városfalak mentén, fedezze fel a Torre de los Aliatares-t és keljen át a Puerta de Úbeda kapun. Zárja a napot tapasszal és egy pohár borral, élvezve a nyugodt andalúz hangulatot.",
+        "ro": "Începeți ziua în Plaza del Pópulo, inima vibrantă a orașului Baeza. Explorați străduțele înguste care duc la catedrala maiestuoasă și admirați arhitectura renascentistă. La amiază, vizitați Palatul Jabalquinto și vechea universitate, martori ai epocii de aur a orașului. După-amiaza, plimbați-vă de-a lungul vechilor ziduri ale orașului, descoperind Turnul Aliatares și trecând prin Poarta Úbeda. Încheiați ziua cu tapas și un pahar de vin, savurând atmosfera andaluză liniștită.",
+        "en": "Start your day at Plaza del Pópulo, the vibrant heart of Baeza. Explore the narrow streets leading to the majestic Cathedral and admire the Renaissance architecture. Mid-morning, visit the Palacio de Jabalquinto and the old University, witnesses to the city's golden era. In the afternoon, stroll along the old city walls, discovering the Torre de los Aliatares and passing through the Puerta de Úbeda. End your day with tapas and a glass of wine, soaking in the serene Andalusian atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lomo de Orza",
+            "tip": "In Olivenöl konservierte Schweinelende, eine lokale Spezialität."
+          },
+          {
+            "name": "Ochavo",
+            "tip": "Probieren Sie moderne Tapas in einer historischen Umgebung."
+          },
+          {
+            "name": "Taberna Casa Andrés",
+            "tip": "Bekannt für seine traditionelle andalusische Küche und sein Olivenöl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lomo de Orza",
+            "tip": "Olívaolajban tartósított sertéskaraj, helyi különlegesség."
+          },
+          {
+            "name": "Ochavo",
+            "tip": "Kóstoljon modern tapasokat történelmi környezetben."
+          },
+          {
+            "name": "Taberna Casa Andrés",
+            "tip": "Híres a hagyományos andalúz konyhájáról és olívaolajáról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lomo de Orza",
+            "tip": "Mușchi de porc conservat în ulei de măsline, o specialitate locală."
+          },
+          {
+            "name": "Ochavo",
+            "tip": "Încercați tapas moderne într-un cadru istoric."
+          },
+          {
+            "name": "Taberna Casa Andrés",
+            "tip": "Renumită pentru bucătăria sa tradițională andaluză și uleiul de măsline."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lomo de Orza",
+            "tip": "Pork loin preserved in olive oil, a local delicacy."
+          },
+          {
+            "name": "Ochavo",
+            "tip": "Try modern tapas in a historic setting."
+          },
+          {
+            "name": "Taberna Casa Andrés",
+            "tip": "Known for its traditional Andalusian cuisine and olive oil."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Paseo de las Murallas",
+            "tip": "Ein Spaziergang mit Blick auf das Meer von Olivenbäumen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Innenhof des Palacio de Jabalquinto",
+            "tip": "Eine Oase der Ruhe inmitten von Renaissance-Pracht.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Die Stille der Kirche Santa Cruz",
+            "tip": "Finden Sie einen Moment der Besinnung in dieser alten romanischen Kirche.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paseo de las Murallas",
+            "tip": "Séta, kilátással az olajfák tengerére.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jabalquinto-palota udvara",
+            "tip": "A nyugalom oázisa a reneszánsz pompa közepette.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Santa Cruz-templom csendje",
+            "tip": "Találjon egy pillanatnyi elmélkedést ebben a régi román stílusú templomban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paseo de las Murallas",
+            "tip": "O plimbare cu vedere la marea de măslini.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curtea Palatului Jabalquinto",
+            "tip": "O oază de liniște în mijlocul splendorii renascentiste.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Liniștea Bisericii Santa Cruz",
+            "tip": "Găsiți un moment de reflecție în această veche biserică romanică.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Paseo de las Murallas",
+            "tip": "A walk with views over the sea of olive trees.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Courtyard of Palacio de Jabalquinto",
+            "tip": "An oasis of tranquility amidst Renaissance splendor.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "The silence of Santa Cruz Church",
+            "tip": "Find a moment of reflection in this old Romanesque church.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Keramik aus Baeza",
+            "tip": "Suchen Sie nach handbemalten Stücken mit traditionellen grünen und blauen Mustern."
+          },
+          {
+            "name": "Natives Olivenöl Extra",
+            "tip": "Kaufen Sie das flüssige Gold der Region direkt von lokalen Produzenten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Baezai kerámia",
+            "tip": "Keressen kézzel festett darabokat hagyományos zöld és kék mintákkal."
+          },
+          {
+            "name": "Extra szűz olívaolaj",
+            "tip": "Vásárolja meg a régió folyékony aranyát közvetlenül a helyi termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică din Baeza",
+            "tip": "Căutați piese pictate manual cu modele tradiționale verzi și albastre."
+          },
+          {
+            "name": "Ulei de măsline extravirgin",
+            "tip": "Cumpărați aurul lichid al regiunii direct de la producătorii locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Baeza Ceramics",
+            "tip": "Look for hand-painted pieces with traditional green and blue designs."
+          },
+          {
+            "name": "Extra Virgin Olive Oil",
+            "tip": "Buy the region's liquid gold directly from local producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Baeza ist kompakt und lässt sich am besten zu Fuß erkunden. Tragen Sie bequeme Schuhe.",
+          "Die meisten Monumente befinden sich im Umkreis von wenigen hundert Metern.",
+          "Verlieren Sie sich in den Seitenstraßen; jede Ecke birgt eine Überraschung.",
+          "Viele Orte schließen für eine Siesta am Nachmittag, planen Sie entsprechend."
+        ],
+        "hu": [
+          "Baeza kompakt és a legjobban gyalog fedezhető fel. Viseljen kényelmes cipőt.",
+          "A legtöbb műemlék néhány száz méteres körzetben található.",
+          "Vesszen el a mellékutcákban; minden sarok egy meglepetést rejt.",
+          "Sok hely bezár egy délutáni szieszta idejére, tervezzen ennek megfelelően."
+        ],
+        "ro": [
+          "Baeza este compact și cel mai bine explorat pe jos. Purtați pantofi confortabili.",
+          "Majoritatea monumentelor se află pe o rază de câteva sute de metri.",
+          "Pătrundeți pe străduțele laterale; fiecare colț ascunde o surpriză.",
+          "Multe locuri se închid pentru siesta de după-amiază, planificați-vă în consecință."
+        ],
+        "en": [
+          "Baeza is compact and best explored on foot. Wear comfortable shoes.",
+          "Most monuments are within a few hundred meters of each other.",
+          "Get lost in the side streets; every corner holds a surprise.",
+          "Many places close for a siesta in the afternoon, plan accordingly."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 2.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza del Pópulo (Löwenplatz)",
+            "hu": "Plaza del Pópulo (Oroszlánok tere)",
+            "ro": "Plaza del Pópulo (Piața Leilor)",
+            "en": "Plaza del Pópulo (Lions' Square)"
+          },
+          "coords": [
+            -3.4665,
+            37.9925
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad hier ab und genießen Sie die Atmosphäre, bevor Sie Ihre Tour beginnen.",
+            "hu": "Parkolja le a kerékpárját és élvezze a hangulatot, mielőtt elkezdi a túrát.",
+            "ro": "Parcați-vă bicicleta aici și bucurați-vă de atmosferă înainte de a începe turul.",
+            "en": "Park your bike and soak in the atmosphere before starting your tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Fuente de Santa María",
+            "hu": "Santa María-kút",
+            "ro": "Fântâna Santa María",
+            "en": "Fuente de Santa María"
+          },
+          "coords": [
+            -3.4688,
+            37.9945
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:37",
+          "stay_min": 15,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt bergauf zu diesem ikonischen Brunnen.",
+            "hu": "Egy rövid, emelkedős út ehhez az ikonikus szökőkúthoz.",
+            "ro": "O scurtă pedalare la deal până la această fântână emblematică.",
+            "en": "A short uphill ride to this iconic fountain."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Baeza",
+            "hu": "Baezai katedrális",
+            "ro": "Catedrala din Baeza",
+            "en": "Baeza Cathedral"
+          },
+          "coords": [
+            -3.4682,
+            37.9946
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:53",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und nehmen Sie sich Zeit, das Innere zu erkunden.",
+            "hu": "Zárja le a kerékpárját, és szánjon időt a belső tér felfedezésére.",
+            "ro": "Legați-vă bicicleta și acordați-vă timp pentru a explora interiorul.",
+            "en": "Lock up your bike and take your time to explore the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Jabalquinto-Palast",
+            "hu": "Jabalquinto-palota",
+            "ro": "Palatul Jabalquinto",
+            "en": "Palacio de Jabalquinto"
+          },
+          "coords": [
+            -3.4695,
+            37.9941
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:10",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nur einen Steinwurf von der Kathedrale entfernt, eine einfache Fahrt.",
+            "hu": "Csak egy kőhajításnyira a katedrálistól, könnyű tekerés.",
+            "ro": "La o aruncătură de băț de catedrală, o plimbare ușoară cu bicicleta.",
+            "en": "Just a stone's throw from the cathedral, an easy ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Antike Universität",
+            "hu": "Régi Egyetem",
+            "ro": "Vechea Universitate",
+            "en": "Antigua Universidad"
+          },
+          "coords": [
+            -3.469,
+            37.9938
+          ],
+          "category": "museums",
+          "arrive_at": "12:31",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Direkt neben dem Palast, perfekt für eine kombinierte Besichtigung.",
+            "hu": "Közvetlenül a palota mellett, tökéletes egy közös látogatáshoz.",
+            "ro": "Chiar lângă palat, perfect pentru o vizită combinată.",
+            "en": "Right next to the palace, perfect for a combined visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de los Aliatares",
+            "hu": "Torre de los Aliatares",
+            "ro": "Turnul Aliatares",
+            "en": "Torre de los Aliatares"
+          },
+          "coords": [
+            -3.4655,
+            37.9915
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:14",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Rollen Sie bergab zum Turm und genießen Sie die kühle Brise.",
+            "hu": "Guruljon le a toronyhoz, és élvezze a hűs szellőt.",
+            "ro": "Coborâți cu bicicleta până la turn, bucurându-vă de briza răcoroasă.",
+            "en": "Coast downhill to the tower, enjoying the cool breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Puerta de Úbeda",
+            "hu": "Úbedai kapu",
+            "ro": "Poarta Úbeda",
+            "en": "Puerta de Úbeda"
+          },
+          "coords": [
+            -3.463,
+            37.993
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:58",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Das letzte Ziel Ihrer Tour, ein großartiger Ort, um über die Geschichte der Stadt nachzudenken.",
+            "hu": "A túra utolsó állomása, nagyszerű hely a város történelmén való elmélkedésre.",
+            "ro": "Destinația finală a turului, un loc minunat pentru a reflecta asupra istoriei orașului.",
+            "en": "The final destination of your tour, a great spot to reflect on the city's history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Fahrrad und beginnen Sie Ihre Tour auf der Plaza del Pópulo. Radeln Sie durch die Renaissance-Straßen zur Kathedrale und zum Palacio de Jabalquinto. Am Vormittag rollen Sie zur alten Universität und genießen die Freiheit, die Ihnen zwei Räder bieten. Am Nachmittag fahren Sie zu den Rändern der Altstadt, zum Torre de los Aliatares und zur Puerta de Úbeda, und spüren die Geschichte unter Ihren Reifen. Beenden Sie den Tag entspannt bei lokalen Köstlichkeiten und bewundern Sie die goldenen Steine im Abendlicht.",
+        "hu": "Pattanjon biciklire és kezdje a túrát a Plaza del Pópulo téren. Tekerjen végig a reneszánsz utcákon a katedrálishoz és a Jabalquinto-palotához. Délelőtt guruljon el a régi egyetemhez, élvezve a két kerék adta szabadságot. Délután irány a történelmi városrész széle, a Torre de los Aliatares és a Puerta de Úbeda, érezve a történelmet a kerekek alatt. Zárja a napot pihenéssel, helyi finomságokkal, csodálva az aranyló köveket az esti fényben.",
+        "ro": "Urcați-vă pe bicicletă și începeți turul în Plaza del Pópulo. Pedalați pe străzile renascentiste până la Catedrală și Palatul Jabalquinto. La amiază, mergeți la vechea universitate, bucurându-vă de libertatea pe care o oferă două roți. După-amiaza, îndreptați-vă spre marginile orașului vechi, la Turnul Aliatares și Poarta Úbeda, simțind istoria sub roți. Încheiați ziua relaxându-vă cu delicatese locale, admirând pietrele aurii în lumina serii.",
+        "en": "Hop on your bike and start your tour at Plaza del Pópulo. Pedal through the Renaissance streets to the Cathedral and Palacio de Jabalquinto. Mid-morning, cruise over to the old University, enjoying the freedom that two wheels provide. In the afternoon, head to the edges of the old town, to the Torre de los Aliatares and Puerta de Úbeda, feeling the history beneath your tires. End the day with a relaxed meal of local delicacies, admiring the golden stones in the evening light."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Espinacas con garbanzos",
+            "tip": "Ein herzhafter Eintopf aus Spinat und Kichererbsen, perfekt zur Stärkung."
+          },
+          {
+            "name": "La Viña",
+            "tip": "Ein zwangloses Restaurant, das bei Einheimischen für seine Tapas beliebt ist."
+          },
+          {
+            "name": "Panaceite",
+            "tip": "Ein Geschäft und eine Bar, die sich auf hochwertiges Olivenöl spezialisiert haben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Espinacas con garbanzos",
+            "tip": "Kiadós spenótos-csicseriborsós egytálétel, tökéletes energiapótlásra."
+          },
+          {
+            "name": "La Viña",
+            "tip": "Laza étterem, amelyet a helyiek kedvelnek a tapasai miatt."
+          },
+          {
+            "name": "Panaceite",
+            "tip": "Egy bolt és bár, amely a minőségi olívaolajra specializálódott."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Espinacas con garbanzos",
+            "tip": "O tocană copioasă de spanac și năut, perfectă pentru a vă reîncărca."
+          },
+          {
+            "name": "La Viña",
+            "tip": "Un restaurant informal, popular printre localnici pentru tapas-urile sale."
+          },
+          {
+            "name": "Panaceite",
+            "tip": "Un magazin și bar specializat în ulei de măsline de înaltă calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Espinacas con garbanzos",
+            "tip": "A hearty spinach and chickpea stew, perfect for refueling."
+          },
+          {
+            "name": "La Viña",
+            "tip": "A casual restaurant popular with locals for its tapas."
+          },
+          {
+            "name": "Panaceite",
+            "tip": "A shop and bar specializing in high-quality olive oil."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Paseo de Antonio Machado",
+            "tip": "Ein ruhiger Weg, benannt nach dem Dichter, mit inspirierenden Ausblicken.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Gärten der Kathedrale",
+            "tip": "Ein kleiner, friedlicher Ort neben der beeindruckenden Kathedrale.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtspunkt Mirador de las Murallas",
+            "tip": "Radeln Sie hierher für einen Panoramablick auf die Landschaft von Jaén.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paseo de Antonio Machado",
+            "tip": "A költőről elnevezett csendes sétány, inspiráló kilátással.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Katedrális kertjei",
+            "tip": "Egy kicsi, békés hely a lenyűgöző katedrális mellett.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mirador de las Murallas kilátó",
+            "tip": "Tekerjen ide a Jaén vidékére nyíló panorámás kilátásért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paseo de Antonio Machado",
+            "tip": "O alee liniștită, numită după poet, cu priveliști inspiratoare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grădinile Catedralei",
+            "tip": "Un mic loc pașnic lângă catedrala impunătoare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Punctul de belvedere Mirador de las Murallas",
+            "tip": "Pedalați până aici pentru o vedere panoramică asupra peisajului din Jaén.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Paseo de Antonio Machado",
+            "tip": "A quiet path named after the poet, with inspiring views.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cathedral Gardens",
+            "tip": "A small, peaceful spot next to the imposing cathedral.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mirador de las Murallas Viewpoint",
+            "tip": "Cycle here for a panoramic view of the Jaén countryside.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Backwaren",
+            "tip": "Suchen Sie nach 'Ochíos', einem mit Anis gewürzten Brot, das typisch für die Region ist."
+          },
+          {
+            "name": "Lederwaren",
+            "tip": "Kleine Werkstätten bieten handgefertigte Gürtel, Taschen und Sandalen an."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékáruk",
+            "tip": "Keresse az 'Ochíos'-t, egy ánizzsal ízesített kenyeret, amely a régióra jellemző."
+          },
+          {
+            "name": "Bőráruk",
+            "tip": "Kis műhelyek kézzel készített öveket, táskákat és szandálokat kínálnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse de patiserie locale",
+            "tip": "Căutați 'Ochíos', o pâine aromată cu anason, tipică regiunii."
+          },
+          {
+            "name": "Articole din piele",
+            "tip": "Mici ateliere oferă curele, genți și sandale lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Pastries",
+            "tip": "Look for 'Ochíos', an anise-flavored bread typical of the area."
+          },
+          {
+            "name": "Leather Goods",
+            "tip": "Small workshops offer handmade belts, bags, and sandals."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein Fahrrad ist ideal, um schnell zwischen den Sehenswürdigkeiten zu wechseln, aber die meisten müssen Sie zu Fuß erkunden.",
+          "Das Kopfsteinpflaster kann holprig sein, ein Mountainbike ist besser als ein Rennrad.",
+          "Schließen Sie Ihr Fahrrad immer an, auch für kurze Stopps.",
+          "Nutzen Sie die Abfahrten, um sich abzukühlen, aber seien Sie bei den Anstiegen auf Anstrengung vorbereitet."
+        ],
+        "hu": [
+          "A kerékpár ideális a látnivalók közötti gyors váltáshoz, de a legtöbbet gyalog kell felfedeznie.",
+          "A macskakövek rázósak lehetnek, egy hegyikerékpár jobb, mint egy versenybicikli.",
+          "Mindig zárja le a kerékpárját, még rövid megállókra is.",
+          "Használja ki a lejtőket a lehűlésre, de készüljön fel az emelkedőkre."
+        ],
+        "ro": [
+          "O bicicletă este ideală pentru a vă deplasa rapid între situri, dar va trebui să explorați majoritatea pe jos.",
+          "Pietrele cubice pot fi denivelate, o bicicletă de munte este mai bună decât una de curse.",
+          "Legați-vă întotdeauna bicicleta, chiar și pentru opriri scurte.",
+          "Folosiți coborâșurile pentru a vă răcori, dar fiți pregătiți pentru efort la urcări."
+        ],
+        "en": [
+          "A bike is ideal for moving quickly between sites, but you'll need to explore most on foot.",
+          "The cobblestones can be bumpy; a mountain bike is better than a road bike.",
+          "Always lock your bike, even for short stops.",
+          "Use the downhills to cool off, but be prepared for effort on the climbs."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 1.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken in der Nähe der Plaza del Pópulo",
+            "hu": "Parkolás a Plaza del Pópulo közelében",
+            "ro": "Parcare lângă Plaza del Pópulo",
+            "en": "Parking near Plaza del Pópulo"
+          },
+          "coords": [
+            -3.465,
+            37.991
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier Ihr Auto für den Tag. Die Altstadt lässt sich am besten zu Fuß erkunden.",
+            "hu": "Parkolja le itt az autóját a napra. Az óváros a legjobban gyalog fedezhető fel.",
+            "ro": "Parcați mașina aici pentru întreaga zi. Centrul vechi este cel mai bine explorat pe jos.",
+            "en": "Park your car here for the day. The old town is best explored on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza del Pópulo & Torre de los Aliatares",
+            "hu": "Plaza del Pópulo és Torre de los Aliatares",
+            "ro": "Plaza del Pópulo și Turnul Aliatares",
+            "en": "Plaza del Pópulo & Torre de los Aliatares"
+          },
+          "coords": [
+            -3.4665,
+            37.9925
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:24",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Erkundungstour in diesem ersten Cluster von Sehenswürdigkeiten.",
+            "hu": "Kezdje a felfedezést a látnivalók első csoportjával.",
+            "ro": "Începeți explorarea cu acest prim grup de atracții.",
+            "en": "Start your exploration at this first cluster of sights."
+          }
+        },
+        {
+          "name": {
+            "de": "Fuente de Santa María & Kathedrale",
+            "hu": "Santa María-kút és katedrális",
+            "ro": "Fântâna Santa María și Catedrala",
+            "en": "Fuente de Santa María & Cathedral"
+          },
+          "coords": [
+            -3.4688,
+            37.9945
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:12",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang bergauf führt Sie zum religiösen Herzen der Stadt.",
+            "hu": "Egy rövid séta felfelé elvezeti a város vallási szívébe.",
+            "ro": "O scurtă plimbare la deal vă va duce la inima religioasă a orașului.",
+            "en": "A short walk uphill takes you to the religious heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Jabalquinto-Palast",
+            "hu": "Jabalquinto-palota",
+            "ro": "Palatul Jabalquinto",
+            "en": "Palacio de Jabalquinto"
+          },
+          "coords": [
+            -3.4695,
+            37.9941
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:48",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Gleich um die Ecke der Kathedrale, ein Muss für Architekturliebhaber.",
+            "hu": "A katedrális sarkánál, kötelező az építészet szerelmeseinek.",
+            "ro": "Chiar după colț de la catedrală, o vizită obligatorie pentru iubitorii de arhitectură.",
+            "en": "Just around the corner from the cathedral, a must-see for architecture lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "Antike Universität & Mittagessen",
+            "hu": "Régi Egyetem és ebéd",
+            "ro": "Vechea Universitate și Prânz",
+            "en": "Antigua Universidad & Lunch"
+          },
+          "coords": [
+            -3.469,
+            37.9938
+          ],
+          "category": "museums",
+          "arrive_at": "13:10",
+          "stay_min": 150,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die Universität und genießen Sie anschließend ein gemütliches Mittagessen in einem der nahegelegenen Restaurants.",
+            "hu": "Látogassa meg az egyetemet, majd ebédeljen egy jót a közeli éttermek egyikében.",
+            "ro": "Vizitați universitatea și apoi bucurați-vă de un prânz relaxat la unul dintre restaurantele din apropiere.",
+            "en": "Visit the university and then enjoy a leisurely lunch at one of the nearby restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Puerta de Úbeda & Paseo",
+            "hu": "Úbedai kapu és séta",
+            "ro": "Poarta Úbeda și plimbare",
+            "en": "Puerta de Úbeda & Stroll"
+          },
+          "coords": [
+            -3.463,
+            37.993
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:28",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Rundgang an diesem historischen Tor, bevor Sie zu Ihrem Auto zurückkehren.",
+            "hu": "Fejezze be a gyalogtúrát ennél a történelmi kapunál, mielőtt visszatérne az autójához.",
+            "ro": "Încheiați-vă turul pietonal la această poartă istorică înainte de a vă întoarce la mașină.",
+            "en": "End your walking tour at this historic gate before returning to your car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie nach Baeza und parken Sie Ihr Auto am Rande der Altstadt. Der heutige Tag dreht sich um einen einzigen, großen Spaziergang. Beginnen Sie auf der Plaza del Pópulo und arbeiten Sie sich durch die historischen Straßen zum Domplatz vor. Am Vormittag tauchen Sie in die Pracht des Jabalquinto-Palastes und die akademische Geschichte der alten Universität ein. Nach einem ausgiebigen Mittagessen erkunden Sie am Nachmittag die alten Befestigungsanlagen und Tore. Die Cluster-Walking-Philosophie wird hier zur Perfektion getrieben: ein Parkplatz, ein unvergesslicher Spaziergang.",
+        "hu": "Vezessen Baezába, és parkolja le autóját a történelmi központ szélén. A mai nap egyetlen nagy sétáról szól. Kezdje a Plaza del Pópulo téren, és haladjon végig a történelmi utcákon a katedrális térig. Délelőtt merüljön el a Jabalquinto-palota pompájában és a régi egyetem akadémiai történelmében. Egy kiadós ebéd után délután fedezze fel a régi erődítményeket és kapukat. A csoportos séta filozófiája itt tökélyre van fejlesztve: egy parkoló, egy felejthetetlen séta.",
+        "ro": "Conduceți spre Baeza și parcați mașina la marginea centrului istoric. Ziua de astăzi este despre o singură plimbare lungă. Începeți din Plaza del Pópulo și avansați pe străzile istorice spre piața catedralei. La amiază, cufundați-vă în splendoarea Palatului Jabalquinto și în istoria academică a vechii universități. După un prânz copios, explorați vechile fortificații și porți după-amiaza. Filozofia plimbării în grup este dusă la perfecțiune aici: o parcare, o plimbare de neuitat.",
+        "en": "Drive to Baeza and park your car on the edge of the historic center. Today is all about one single, grand walking tour. Start at Plaza del Pópulo and work your way up through the historic streets to the cathedral square. Mid-morning, immerse yourself in the splendor of the Palacio de Jabalquinto and the academic history of the old University. After a leisurely lunch, spend the afternoon exploring the old fortifications and gates. The cluster-walking philosophy is taken to its perfection here: one park, one unforgettable walk."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pipirrana",
+            "tip": "Ein erfrischender Salat aus Tomaten, Paprika und Gurken, oft mit Thunfisch."
+          },
+          {
+            "name": "Restaurante Vandelvira",
+            "tip": "Gehobene Küche in einem Kloster aus dem 16. Jahrhundert."
+          },
+          {
+            "name": "Aceite de Oliva",
+            "tip": "Fragen Sie nach einer Verkostung des lokalen Olivenöls zu Ihrem Brot."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pipirrana",
+            "tip": "Frissítő saláta paradicsomból, paprikából és uborkából, gyakran tonhallal."
+          },
+          {
+            "name": "Restaurante Vandelvira",
+            "tip": "Kifinomult konyha egy 16. századi kolostorban."
+          },
+          {
+            "name": "Aceite de Oliva",
+            "tip": "Kérjen kóstolót a helyi olívaolajból a kenyeréhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pipirrana",
+            "tip": "O salată răcoritoare de roșii, ardei și castraveți, adesea cu ton."
+          },
+          {
+            "name": "Restaurante Vandelvira",
+            "tip": "Bucătărie rafinată într-o mănăstire din secolul al XVI-lea."
+          },
+          {
+            "name": "Aceite de Oliva",
+            "tip": "Cereți o degustare de ulei de măsline local cu pâinea dumneavoastră."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pipirrana",
+            "tip": "A refreshing tomato, pepper, and cucumber salad, often with tuna."
+          },
+          {
+            "name": "Restaurante Vandelvira",
+            "tip": "Fine dining in a 16th-century convent."
+          },
+          {
+            "name": "Aceite de Oliva",
+            "tip": "Ask for a tasting of the local olive oil with your bread."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mirador del Guadalquivir",
+            "tip": "Ein kurzer Spaziergang vom Zentrum entfernt bietet dieser Aussichtspunkt Ruhe und Weitblick.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Innenhof der Alten Universität",
+            "tip": "Ein akademischer und ruhiger Ort zum Nachdenken.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Blick von der Puerta de Úbeda",
+            "tip": "Schauen Sie zurück auf die Stadt, die Sie gerade erkundet haben.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mirador del Guadalquivir",
+            "tip": "Egy rövid sétára a központtól, ez a kilátó nyugalmat és panorámát kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Régi Egyetem udvara",
+            "tip": "Tudományos és csendes hely az elmélkedéshez.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás a Puerta de Úbedától",
+            "tip": "Tekintsen vissza a városra, amelyet éppen felfedezett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mirador del Guadalquivir",
+            "tip": "O scurtă plimbare din centru, acest punct de belvedere oferă liniște și priveliști.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea Vechei Universități",
+            "tip": "Un spațiu academic și liniștit pentru reflecție.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vedere de la Poarta Úbeda",
+            "tip": "Priviți înapoi la orașul pe care tocmai l-ați explorat.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mirador del Guadalquivir",
+            "tip": "A short walk from the center, this viewpoint offers tranquility and views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Courtyard of the Old University",
+            "tip": "An academic and quiet space for reflection.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from Puerta de Úbeda",
+            "tip": "Look back at the city you've just explored.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Virolos",
+            "tip": "Ein lokales Gebäck aus Eigelb und Zucker, eine süße Erinnerung an Baeza."
+          },
+          {
+            "name": "Kunsthandwerk aus Olivenholz",
+            "tip": "Schalen, Schneidebretter und Utensilien aus dem Holz der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Virolos",
+            "tip": "Helyi édesség tojássárgájából és cukorból, édes emlék Baezából."
+          },
+          {
+            "name": "Olajfa kézműves termékek",
+            "tip": "Tálak, vágódeszkák és eszközök a régió fájából."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Virolos",
+            "tip": "O prăjitură locală din gălbenuș de ou și zahăr, o amintire dulce din Baeza."
+          },
+          {
+            "name": "Artizanat din lemn de măslin",
+            "tip": "Boluri, tocătoare și ustensile realizate din lemnul regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Virolos",
+            "tip": "A local pastry made from egg yolk and sugar, a sweet memory of Baeza."
+          },
+          {
+            "name": "Olive Wood Crafts",
+            "tip": "Bowls, cutting boards, and utensils made from the region's wood."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die größte Herausforderung ist, einen guten Parkplatz zu finden. Kommen Sie früh.",
+          "Sobald Sie geparkt haben, vergessen Sie Ihr Auto. Baeza ist ein Fußgängerparadies.",
+          "Überprüfen Sie die Öffnungszeiten der Monumente, um Ihren Spaziergang zu optimieren.",
+          "Lassen Sie Wertsachen nicht sichtbar im Auto zurück."
+        ],
+        "hu": [
+          "A legnagyobb kihívás egy jó parkolóhelyet találni. Érkezzen korán.",
+          "Miután leparkolt, felejtse el az autót. Baeza egy gyalogos paradicsom.",
+          "Ellenőrizze a műemlékek nyitvatartási idejét a séta optimalizálásához.",
+          "Ne hagyjon értékeket látható helyen az autóban."
+        ],
+        "ro": [
+          "Cea mai mare provocare este găsirea unui loc de parcare bun. Veniți devreme.",
+          "Odată parcat, uitați de mașină. Baeza este un paradis pentru pietoni.",
+          "Verificați orele de deschidere ale monumentelor pentru a vă optimiza plimbarea.",
+          "Nu lăsați obiecte de valoare la vedere în mașină."
+        ],
+        "en": [
+          "The biggest challenge is finding a good parking spot. Arrive early.",
+          "Once parked, forget about your car. Baeza is a pedestrian's paradise.",
+          "Check the opening hours of monuments to optimize your walk.",
+          "Do not leave valuables visible in the car."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 1.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft an der Haltestelle Plaza del Pópulo",
+            "hu": "Érkezés a Plaza del Pópulo megállóhoz",
+            "ro": "Sosire la stația Plaza del Pópulo",
+            "en": "Arrival at Plaza del Pópulo stop"
+          },
+          "coords": [
+            -3.4665,
+            37.9925
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier, nachdem Sie mit dem örtlichen Bus angekommen sind.",
+            "hu": "Kezdje a napot itt, miután megérkezett a helyi busszal.",
+            "ro": "Începeți ziua de aici după ce ajungeți cu autobuzul local.",
+            "en": "Start your day here after arriving by local bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza del Pópulo & Torre de los Aliatares",
+            "hu": "Plaza del Pópulo és Torre de los Aliatares",
+            "ro": "Plaza del Pópulo și Turnul Aliatares",
+            "en": "Plaza del Pópulo & Torre de los Aliatares"
+          },
+          "coords": [
+            -3.4655,
+            37.9915
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:24",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der erste Spaziergang des Tages führt Sie zu diesen Wahrzeichen.",
+            "hu": "A nap első sétája ezekhez a nevezetességekhez vezet.",
+            "ro": "Prima plimbare a zilei vă duce la aceste repere.",
+            "en": "The first walk of the day takes you to these landmarks."
+          }
+        },
+        {
+          "name": {
+            "de": "Fuente de Santa María & Kathedrale",
+            "hu": "Santa María-kút és katedrális",
+            "ro": "Fântâna Santa María și Catedrala",
+            "en": "Fuente de Santa María & Cathedral"
+          },
+          "coords": [
+            -3.4688,
+            37.9945
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:12",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie zum höchsten Punkt der Altstadt und genießen Sie die Aussicht.",
+            "hu": "Sétáljon fel az óváros legmagasabb pontjára, és élvezze a kilátást.",
+            "ro": "Plimbați-vă până la cel mai înalt punct al orașului vechi pentru a admira priveliștea.",
+            "en": "Walk up to the highest point of the old town to enjoy the views."
+          }
+        },
+        {
+          "name": {
+            "de": "Jabalquinto-Palast",
+            "hu": "Jabalquinto-palota",
+            "ro": "Palatul Jabalquinto",
+            "en": "Palacio de Jabalquinto"
+          },
+          "coords": [
+            -3.4695,
+            37.9941
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:48",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die exquisite Fassade und den ruhigen Innenhof.",
+            "hu": "Fedezze fel a gyönyörű homlokzatot és a csendes belső udvart.",
+            "ro": "Descoperiți fațada rafinată și curtea liniștită.",
+            "en": "Discover the exquisite facade and the quiet courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Antike Universität & Mittagessen",
+            "hu": "Régi Egyetem és ebéd",
+            "ro": "Vechea Universitate și Prânz",
+            "en": "Antigua Universidad & Lunch"
+          },
+          "coords": [
+            -3.469,
+            37.9938
+          ],
+          "category": "museums",
+          "arrive_at": "13:10",
+          "stay_min": 150,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Tanken Sie Kultur und danach Energie mit einem lokalen Mahl.",
+            "hu": "Töltődjön fel kultúrával, majd energiával egy helyi étellel.",
+            "ro": "Încărcați-vă cu cultură și apoi cu energie la o masă locală.",
+            "en": "Soak up some culture, then refuel with a local meal."
+          }
+        },
+        {
+          "name": {
+            "de": "Puerta de Úbeda & Paseo",
+            "hu": "Úbedai kapu és séta",
+            "ro": "Poarta Úbeda și plimbare",
+            "en": "Puerta de Úbeda & Stroll"
+          },
+          "coords": [
+            -3.463,
+            37.993
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:28",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ihr letzter Spaziergang führt Sie zu diesem Tor, einem Symbol der Verbindung zur Schwesterstadt Úbeda.",
+            "hu": "Utolsó sétája ehhez a kapuhoz vezet, amely a testvérváros, Úbeda felé vezető kapcsolat szimbóluma.",
+            "ro": "Ultima dvs. plimbare vă duce la această poartă, un simbol al legăturii cu orașul soră Úbeda.",
+            "en": "Your last stroll takes you to this gate, a symbol of the connection to sister city Úbeda."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den lokalen Bus, um bequem das Herz von Baeza zu erreichen. Steigen Sie an der Plaza del Pópulo aus und beginnen Sie Ihr Fußabenteuer. Der einzige 'Transit'-Teil Ihres Tages ist die An- und Abreise. Erkunden Sie am Vormittag das zentrale Cluster aus Kathedrale, Palast und Universität. Verbringen Sie den Nachmittag damit, zu den alten Mauern zu schlendern. Diese Methode ist perfekt für diejenigen, die ohne Auto reisen und den Tag wie ein Einheimischer erleben möchten, der für einen Tagesausflug in die Stadt kommt.",
+        "hu": "Használja a helyi buszt, hogy kényelmesen eljusson Baeza szívébe. Szálljon le a Plaza del Pópulo téren, és kezdje el a gyalogos kalandot. A nap egyetlen 'tömegközlekedési' része az érkezés és a távozás. Délelőtt fedezze fel a katedrális, a palota és az egyetem központi csoportját. Töltse a délutánt a régi falakhoz sétálva. Ez a módszer tökéletes azok számára, akik autó nélkül utaznak, és úgy szeretnék átélni a napot, mint egy helyi, aki egy napra a városba látogat.",
+        "ro": "Folosiți autobuzul local pentru a ajunge convenabil în inima orașului Baeza. Coborâți la Plaza del Pópulo și începeți aventura pietonală. Singura parte de 'tranzit' a zilei este sosirea și plecarea. Explorați grupul central de catedrală, palat și universitate dimineața. Petreceți după-amiaza plimbându-vă spre zidurile vechi. Această metodă este perfectă pentru cei care călătoresc fără mașină și doresc să experimenteze ziua ca un localnic care vine în oraș pentru o excursie de o zi.",
+        "en": "Use the local bus to conveniently reach the heart of Baeza. Hop off at Plaza del Pópulo and begin your walking adventure. The only 'transit' part of your day is the arrival and departure. Explore the central cluster of the cathedral, palace, and university in the morning. Spend the afternoon wandering to the old walls. This method is perfect for those traveling without a car and wanting to experience the day like a local coming into town for a day trip."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Andrajos",
+            "tip": "Ein traditioneller Eintopf, der an kalten Tagen wärmt."
+          },
+          {
+            "name": "Bar Paco's",
+            "tip": "Eine einfache, authentische Bar für schnelle und leckere Tapas."
+          },
+          {
+            "name": "Süßigkeiten von Nonnen",
+            "tip": "Suchen Sie nach Klöstern, die hausgemachte 'Dulces' verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Andrajos",
+            "tip": "Hagyományos egytálétel, amely felmelegít a hideg napokon."
+          },
+          {
+            "name": "Bar Paco's",
+            "tip": "Egyszerű, autentikus bár a gyors és ízletes tapasokhoz."
+          },
+          {
+            "name": "Apácák édességei",
+            "tip": "Keressen kolostorokat, amelyek házi készítésű 'dulces'-t árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Andrajos",
+            "tip": "O tocană tradițională care vă încălzește în zilele reci."
+          },
+          {
+            "name": "Bar Paco's",
+            "tip": "Un bar simplu, autentic, pentru tapas rapide și gustoase."
+          },
+          {
+            "name": "Dulciuri de la călugărițe",
+            "tip": "Căutați mănăstiri care vând 'dulces' de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Andrajos",
+            "tip": "A traditional stew that's warming on a cold day."
+          },
+          {
+            "name": "Bar Paco's",
+            "tip": "A simple, authentic bar for quick and tasty tapas."
+          },
+          {
+            "name": "Sweets from Nuns",
+            "tip": "Look for convents that sell homemade 'dulces'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirche Santa Cruz",
+            "tip": "Eine der ältesten Kirchen, oft übersehen und daher sehr ruhig.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Eine Bank auf der Plaza de Santa María",
+            "tip": "Setzen Sie sich und beobachten Sie das Leben vor der Kulisse der Kathedrale.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang bei Sonnenuntergang",
+            "tip": "Gehen Sie den Paseo de las Murallas entlang, wenn die Sonne untergeht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Santa Cruz-templom",
+            "tip": "Az egyik legrégebbi templom, gyakran figyelmen kívül hagyják, ezért nagyon csendes.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Egy pad a Plaza de Santa María téren",
+            "tip": "Üljön le és figyelje az életet a katedrális hátterével.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplementés séta",
+            "tip": "Sétáljon végig a Paseo de las Murallas sétányon, miközben lenyugszik a nap.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica Santa Cruz",
+            "tip": "Una dintre cele mai vechi biserici, adesea trecută cu vederea și, prin urmare, foarte liniștită.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "O bancă în Plaza de Santa María",
+            "tip": "Așezați-vă și priviți viața desfășurându-se cu catedrala pe fundal.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare la apus",
+            "tip": "Plimbați-vă de-a lungul Paseo de las Murallas în timp ce soarele apune.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Santa Cruz Church",
+            "tip": "One of the oldest churches, often overlooked and therefore very quiet.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A bench in Plaza de Santa María",
+            "tip": "Sit and watch life go by with the cathedral as a backdrop.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset Stroll",
+            "tip": "Walk along the Paseo de las Murallas as the sun goes down.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Postkarten und Bücher",
+            "tip": "Kaufen Sie ein Buch über die Renaissance-Geschichte der Stadt."
+          },
+          {
+            "name": "Lokaler Wein",
+            "tip": "Probieren Sie einen Wein aus der Region Jaén als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Képeslapok és könyvek",
+            "tip": "Vásároljon egy könyvet a város reneszánsz történelméről."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "Kóstoljon meg egy bort Jaén régiójából emlékként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cărți poștale și cărți",
+            "tip": "Cumpărați o carte despre istoria renascentistă a orașului."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Încercați un vin din regiunea Jaén ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Postcards and Books",
+            "tip": "Buy a book about the city's Renaissance history."
+          },
+          {
+            "name": "Local Wine",
+            "tip": "Try a wine from the Jaén region as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich vorab über den Busfahrplan, insbesondere über die letzte Rückfahrt.",
+          "Ein Tagesticket könnte günstiger sein, wenn Sie mehrere Fahrten planen.",
+          "Haben Sie Kleingeld für den Busfahrer bereit.",
+          "Die Bushaltestellen sind nicht immer klar gekennzeichnet, fragen Sie im Zweifelsfall einen Einheimischen."
+        ],
+        "hu": [
+          "Előre tájékozódjon a buszmenetrendről, különösen az utolsó visszajáratról.",
+          "Egy napijegy olcsóbb lehet, ha több utat tervez.",
+          "Készítsen elő aprópénzt a buszsofőrnek.",
+          "A buszmegállók nem mindig vannak egyértelműen jelezve, kétség esetén kérdezzen meg egy helyit."
+        ],
+        "ro": [
+          "Verificați programul autobuzelor în avans, în special pentru ultima călătorie de întoarcere.",
+          "Un bilet de o zi ar putea fi mai ieftin dacă plănuiți mai multe călătorii.",
+          "Aveți la îndemână mărunțiș pentru șoferul de autobuz.",
+          "Stațiile de autobuz nu sunt întotdeauna marcate clar, întrebați un localnic dacă aveți dubii."
+        ],
+        "en": [
+          "Check the bus schedule in advance, especially for the last return trip.",
+          "A day ticket might be cheaper if you plan multiple journeys.",
+          "Have small change ready for the bus driver.",
+          "Bus stops are not always clearly marked; ask a local if in doubt."
+        ]
+      }
+    }
+  }
+}

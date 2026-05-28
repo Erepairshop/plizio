@@ -1,0 +1,1364 @@
+{
+  "city_id": "bulgaria-gabrovo-cities-v2",
+  "anchor": {
+    "name": "Gabrowo",
+    "coords": [
+      42.8742,
+      25.3242
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Aprilow-Gymnasium",
+            "hu": "Aprilov Gimnázium",
+            "ro": "Gimnaziul Național Aprilov",
+            "en": "Aprilov National High School"
+          },
+          "coords": [
+            25.322,
+            42.8755
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Fassade und denken Sie an die Bildungsgeschichte Bulgariens.",
+            "hu": "Csodálja meg a lenyűgöző homlokzatot, és gondoljon Bulgária oktatástörténetére.",
+            "ro": "Admirați fațada impresionantă și reflectați la istoria educației din Bulgaria.",
+            "en": "Admire the impressive facade and reflect on Bulgaria's educational history."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm von Gabrowo",
+            "hu": "Gabrovói óratorony",
+            "ro": "Turnul cu ceas din Gabrovo",
+            "en": "Gabrovo Clock Tower"
+          },
+          "coords": [
+            25.325,
+            42.874
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:03",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Hören Sie um die Mittagszeit dem Glockenspiel zu. Ein klassisches Foto-Motiv!",
+            "hu": "Hallgassa meg a harangjátékot dél körül. Klasszikus fotótéma!",
+            "ro": "Ascultați clopotele la amiază. Un subiect foto clasic!",
+            "en": "Listen to the chimes around noon. A classic photo opportunity!"
+          }
+        },
+        {
+          "name": {
+            "de": "Baew-Brücke",
+            "hu": "Baev-híd",
+            "ro": "Podul Baev",
+            "en": "Baev Bridge"
+          },
+          "coords": [
+            25.326,
+            42.8735
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:32",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Perfekter Ort für einen Blick auf den Fluss Jantra und die umliegenden Gebäude.",
+            "hu": "Tökéletes hely a Jantra folyóra és a környező épületekre nyíló kilátáshoz.",
+            "ro": "Locul perfect pentru o priveliște asupra râului Yantra și a clădirilor din jur.",
+            "en": "Perfect spot for a view over the Yantra River and the surrounding buildings."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum",
+            "hu": "Történeti Múzeum",
+            "ro": "Muzeul Regional de Istorie",
+            "en": "Regional Historical Museum"
+          },
+          "coords": [
+            25.328,
+            42.872
+          ],
+          "category": "museums",
+          "arrive_at": "10:58",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Exponate zur industriellen Revolution in Gabrowo.",
+            "hu": "Koncentráljon a gabrovói ipari forradalomról szóló kiállítási tárgyakra.",
+            "ro": "Concentrați-vă pe exponatele despre revoluția industrială din Gabrovo.",
+            "en": "Focus on the exhibits about Gabrovo's industrial revolution."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Innenstadt",
+            "hu": "Ebéd a belvárosban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city center"
+          },
+          "coords": [
+            25.3265,
+            42.875
+          ],
+          "category": "gastro",
+          "arrive_at": "12:38",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Probieren Sie „Kebapche“ in einem der traditionellen Restaurants.",
+            "hu": "Kóstolja meg a „Kebapche”-t egy hagyományos étteremben.",
+            "ro": "Încercați „Kebapche” la unul dintre restaurantele tradiționale.",
+            "en": "Try 'Kebapche' at one of the traditional restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus des Humors und der Satire",
+            "hu": "Humor és Szatíra Háza",
+            "ro": "Casa Umorului și Satirei",
+            "en": "House of Humour and Satire"
+          },
+          "coords": [
+            25.32,
+            42.879
+          ],
+          "category": "museums",
+          "arrive_at": "14:13",
+          "stay_min": 150,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Planen Sie genug Zeit ein, es gibt mehr zu sehen, als man denkt. Ein Muss!",
+            "hu": "Tervezzen elég időt, több a látnivaló, mint gondolná. Kötelező!",
+            "ro": "Planificați-vă suficient timp, este mai mult de văzut decât credeți. O vizită obligatorie!",
+            "en": "Plan enough time, there's more to see than you think. A must-visit!"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einem Spaziergang zum historischen Aprilow-Gymnasium, einem Symbol bulgarischer Bildung. Schlendern Sie weiter zum Uhrturm und über die Baew-Brücke, um das Herz von Gabrowo zu spüren. Das nahegelegene Historische Museum bietet Einblicke in die reiche industrielle Vergangenheit der Stadt. Nach einem stärkenden Mittagessen mit lokalen Spezialitäten erwartet Sie das weltberühmte Haus des Humors und der Satire. Lassen Sie sich von der einzigartigen Sammlung internationaler Kunst und den humorvollen Ausstellungen begeistern. Beenden Sie den Tag mit einem Lächeln und unvergesslichen Eindrücken.",
+        "hu": "Kezdje a napot egy sétával a történelmi Aprilov Gimnáziumhoz, a bolgár oktatás szimbólumához. Sétáljon tovább az Óratoronyhoz és a Baev-hídon át, hogy átérezze Gabrovo szívét. A közeli Történeti Múzeum bepillantást nyújt a város gazdag ipari múltjába. Egy helyi specialitásokból álló, feltöltő ebéd után a világhírű Humor és Szatíra Háza várja. Hagyja, hogy lenyűgözze az egyedülálló nemzetközi művészeti gyűjtemény és a humoros kiállítások. Zárja a napot egy mosollyal és felejthetetlen benyomásokkal.",
+        "ro": "Începeți ziua cu o plimbare la istoricul Gimnaziu Aprilov, un simbol al educației bulgare. Continuați spre Turnul cu Ceas și peste Podul Baev pentru a simți inima orașului Gabrovo. Muzeul de Istorie din apropiere oferă o perspectivă asupra bogatului trecut industrial al orașului. După un prânz revigorant cu specialități locale, vă așteaptă faimoasa Casă a Umorului și Satirei. Lăsați-vă captivat de colecția unică de artă internațională și de expozițiile pline de umor. Încheiați ziua cu un zâmbet și impresii de neuitat.",
+        "en": "Start your day with a walk to the historic Aprilov High School, a symbol of Bulgarian education. Stroll on to the Clock Tower and across the Baev Bridge to feel the heart of Gabrovo. The nearby Historical Museum offers insights into the city's rich industrial past. After a replenishing lunch with local specialties, the world-famous House of Humour and Satire awaits. Be captivated by the unique collection of international art and the humorous exhibitions. End the day with a smile and unforgettable impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kebapche",
+            "tip": "Gegrillte Hackfleischröllchen, oft mit Pommes und Ljuteniza serviert."
+          },
+          {
+            "name": "Shopska-Salat",
+            "tip": "Ein frischer Salat aus Tomaten, Gurken, Paprika und geriebenem Sirene-Käse."
+          },
+          {
+            "name": "Tarator",
+            "tip": "Eine kalte Gurken-Joghurt-Suppe, perfekt für warme Tage."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kebapcse",
+            "tip": "Grillezett darált hús rudacskák, gyakran sült krumplival és ljutenicával tálalva."
+          },
+          {
+            "name": "Sopszka saláta",
+            "tip": "Friss saláta paradicsomból, uborkából, paprikából és reszelt szirene sajtból."
+          },
+          {
+            "name": "Tarator",
+            "tip": "Hideg uborkás-joghurtos leves, tökéletes meleg napokra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kebapche",
+            "tip": "Rulouri de carne tocată la grătar, adesea servite cu cartofi prăjiți și lyutenitsa."
+          },
+          {
+            "name": "Salată Shopska",
+            "tip": "O salată proaspătă din roșii, castraveți, ardei și brânză Sirene rasă."
+          },
+          {
+            "name": "Tarator",
+            "tip": "O supă rece de castraveți cu iaurt, perfectă pentru zilele calde."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kebapche",
+            "tip": "Grilled minced meat rolls, often served with fries and lyutenitsa."
+          },
+          {
+            "name": "Shopska Salad",
+            "tip": "A fresh salad of tomatoes, cucumbers, peppers, and grated Sirene cheese."
+          },
+          {
+            "name": "Tarator",
+            "tip": "A cold cucumber and yogurt soup, perfect for warm days."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Jantra-Flusses",
+            "tip": "Finden Sie eine ruhige Bank entlang des Flusses, abseits der Hauptbrücken.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park hinter dem Haus des Humors",
+            "tip": "Ein kleiner, oft übersehener Park, ideal für eine kurze Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jantra folyó partja",
+            "tip": "Keressen egy csendes padot a folyó mentén, távol a fő hidaktól.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park a Humor Háza mögött",
+            "tip": "Egy kicsi, gyakran figyelmen kívül hagyott park, ideális egy rövid szünetre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Yantra",
+            "tip": "Găsiți o bancă liniștită de-a lungul râului, departe de podurile principale.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul din spatele Casei Umorului",
+            "tip": "Un parc mic, adesea trecut cu vederea, ideal pentru o scurtă pauză.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Yantra River",
+            "tip": "Find a quiet bench along the river, away from the main bridges.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park behind the House of Humour",
+            "tip": "A small, often overlooked park, ideal for a short break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handwerkerläden",
+            "tip": "Suchen Sie nach Keramik und Holzschnitzereien, die von lokalen Handwerkern gefertigt wurden."
+          },
+          {
+            "name": "Humor-Souvenirs",
+            "tip": "Der Museumsshop im Haus des Humors bietet einzigartige und witzige Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keressen helyi kézművesek által készített kerámiákat és fafaragásokat."
+          },
+          {
+            "name": "Humoros szuvenírek",
+            "tip": "A Humor Háza múzeumi boltja egyedi és vicces ajándéktárgyakat kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Căutați ceramică și sculpturi în lemn realizate de artizani locali."
+          },
+          {
+            "name": "Suveniruri umoristice",
+            "tip": "Magazinul muzeului de la Casa Umorului oferă suveniruri unice și amuzante."
+          }
+        ],
+        "en": [
+          {
+            "name": "Artisan Shops",
+            "tip": "Look for ceramics and wood carvings made by local craftsmen."
+          },
+          {
+            "name": "Humour Souvenirs",
+            "tip": "The museum shop at the House of Humour offers unique and witty mementos."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, das Zentrum ist hügelig.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Nehmen Sie sich Zeit für die Seitenstraßen, um den Charme der alten Architektur zu entdecken."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, a központ dombos.",
+          "A legtöbb központi látnivaló könnyen elérhető gyalog.",
+          "Szánjon időt a mellékutcákra, hogy felfedezze a régi építészet varázsát."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, centrul este deluros.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Acordați-vă timp pentru a explora străzile lăturalnice și a descoperi farmecul arhitecturii vechi."
+        ],
+        "en": [
+          "Wear comfortable shoes, the center is hilly.",
+          "Most central sights are within easy walking distance.",
+          "Take time for the side streets to discover the charm of the old architecture."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 6.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Haus des Humors und der Satire",
+            "hu": "Humor és Szatíra Háza",
+            "ro": "Casa Umorului și Satirei",
+            "en": "House of Humour and Satire"
+          },
+          "coords": [
+            25.32,
+            42.879
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, da Sie hier einige Zeit verbringen werden.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mert itt több időt fog tölteni.",
+            "ro": "Asigurați-vă bicicleta, deoarece veți petrece ceva timp aici.",
+            "en": "Lock your bike securely as you'll be spending some time here."
+          }
+        },
+        {
+          "name": {
+            "de": "Aprilow-Gymnasium",
+            "hu": "Aprilov Gimnázium",
+            "ro": "Gimnaziul Național Aprilov",
+            "en": "Aprilov National High School"
+          },
+          "coords": [
+            25.322,
+            42.8755
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:15",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um die Architektur zu bewundern, bevor es weiter ins Zentrum geht.",
+            "hu": "Egy rövid megálló, hogy megcsodálja az építészetet, mielőtt továbbhaladna a központ felé.",
+            "ro": "O scurtă oprire pentru a admira arhitectura înainte de a continua spre centru.",
+            "en": "A quick stop to admire the architecture before heading into the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm von Gabrowo",
+            "hu": "Gabrovói óratorony",
+            "ro": "Turnul cu ceas din Gabrovo",
+            "en": "Gabrovo Clock Tower"
+          },
+          "coords": [
+            25.325,
+            42.874
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:50",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad in der Nähe ab und machen Sie das obligatorische Foto.",
+            "hu": "Parkolja le a kerékpárt a közelben, és készítse el a kötelező fotót.",
+            "ro": "Parcați bicicleta în apropiere și faceți fotografia obligatorie.",
+            "en": "Park your bike nearby and take the obligatory photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            25.3265,
+            42.875
+          ],
+          "category": "gastro",
+          "arrive_at": "12:10",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wählen Sie ein Restaurant mit Sitzgelegenheiten im Freien, um Ihr Fahrrad im Auge zu behalten.",
+            "hu": "Válasszon egy szabadtéri ülőhellyel rendelkező éttermet, hogy szemmel tarthassa a kerékpárját.",
+            "ro": "Alegeți un restaurant cu terasă pentru a vă putea supraveghea bicicleta.",
+            "en": "Choose a restaurant with outdoor seating to keep an eye on your bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum",
+            "hu": "Történeti Múzeum",
+            "ro": "Muzeul Regional de Istorie",
+            "en": "Regional Historical Museum"
+          },
+          "coords": [
+            25.328,
+            42.872
+          ],
+          "category": "museums",
+          "arrive_at": "13:35",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Das Museum befindet sich am Rande des Zentrums, eine leichte Radtour.",
+            "hu": "A múzeum a központ szélén található, egy könnyű kerékpártúra.",
+            "ro": "Muzeul este situat la marginea centrului, o plimbare ușoară cu bicicleta.",
+            "en": "The museum is located on the edge of the center, an easy bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Dechkowa-Haus",
+            "hu": "Decskov-ház",
+            "ro": "Casa Dechkov",
+            "en": "Dechkov House"
+          },
+          "coords": [
+            25.327,
+            42.8725
+          ],
+          "category": "museums",
+          "arrive_at": "15:08",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein schönes Beispiel für die Architektur der bulgarischen Wiedergeburt.",
+            "hu": "A bolgár nemzeti újjászületés építészetének szép példája.",
+            "ro": "Un exemplu frumos de arhitectură renascentistă bulgară.",
+            "en": "A beautiful example of Bulgarian National Revival architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt entlang des Flusses Jantra",
+            "hu": "Kerékpározás a Jantra folyó mentén",
+            "ro": "Plimbare pe malul râului Yantra",
+            "en": "Ride along the Yantra River"
+          },
+          "coords": [
+            25.335,
+            42.87
+          ],
+          "category": "park",
+          "arrive_at": "16:13",
+          "stay_min": 50,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Genießen Sie eine entspannte Fahrt am Flussufer zum Abschluss des Tages.",
+            "hu": "Élvezze a pihentető kerékpározást a folyóparton a nap lezárásaként.",
+            "ro": "Bucurați-vă de o plimbare relaxantă pe malul râului pentru a încheia ziua.",
+            "en": "Enjoy a relaxing ride along the riverbank to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Haus des Humors, wo Sie Ihr Fahrrad sicher abstellen können. Nach einer Dosis Lachen radeln Sie zum Aprilow-Gymnasium und weiter zum Herzen der Stadt, dem Uhrturm. Nach einem Mittagessen erkunden Sie die industrielle Geschichte im Historischen Museum und bewundern das Dechkowa-Haus. Beenden Sie Ihren Tag mit einer gemütlichen Fahrt entlang des Jantra-Flusses, die Ihnen eine andere Perspektive auf Gabrowo bietet. Diese Route kombiniert Kultur mit aktiver Erholung.",
+        "hu": "Kezdje a kerékpártúrát a Humor Házánál, ahol biztonságosan lezárhatja kerékpárját. Egy adag nevetés után tekerjen el az Aprilov Gimnáziumhoz, majd tovább a város szívébe, az Óratoronyhoz. Ebéd után fedezze fel az ipari történelmet a Történeti Múzeumban, és csodálja meg a Decskov-házat. A napot egy kellemes tekeréssel zárja a Jantra folyó mentén, amely más szemszögből mutatja be Gabrovót. Ez az útvonal a kultúrát az aktív pihenéssel ötvözi.",
+        "ro": "Începeți turul cu bicicleta de la Casa Umorului, unde vă puteți lăsa bicicleta în siguranță. După o doză de râs, pedalați spre Gimnaziul Aprilov și apoi spre inima orașului, Turnul cu Ceas. După prânz, explorați istoria industrială la Muzeul de Istorie și admirați Casa Dechkov. Încheiați ziua cu o plimbare relaxantă de-a lungul râului Yantra, care vă va oferi o altă perspectivă asupra orașului Gabrovo. Acest traseu combină cultura cu recreerea activă.",
+        "en": "Start your bike tour at the House of Humour, where you can securely park your bike. After a dose of laughter, pedal to the Aprilov High School and on to the heart of the city, the Clock Tower. After lunch, explore the industrial history at the Historical Museum and admire the Dechkov House. End your day with a leisurely ride along the Yantra River, offering a different perspective of Gabrovo. This route combines culture with active recreation."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Banitsa",
+            "tip": "Ein herzhaftes Gebäck mit Käse, ideal für einen schnellen Energieschub."
+          },
+          {
+            "name": "Ayran",
+            "tip": "Ein erfrischendes Joghurtgetränk, das perfekt zu herzhaften Speisen passt."
+          },
+          {
+            "name": "Gevrek",
+            "tip": "Ein mit Sesam bestreuter Brotring, der oft auf der Straße verkauft wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Banica",
+            "tip": "Sós, sajtos péksütemény, ideális egy gyors energiafröccshöz."
+          },
+          {
+            "name": "Ajrán",
+            "tip": "Frissítő joghurtital, amely tökéletesen illik a sós ételekhez."
+          },
+          {
+            "name": "Gevrek",
+            "tip": "Szezámmagos perec, amelyet gyakran az utcán árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Banitsa",
+            "tip": "O plăcintă sărată cu brânză, ideală pentru o explozie rapidă de energie."
+          },
+          {
+            "name": "Ayran",
+            "tip": "O băutură răcoritoare din iaurt, care se potrivește perfect cu mâncărurile sărate."
+          },
+          {
+            "name": "Gevrek",
+            "tip": "Un inel de pâine presărat cu susan, vândut adesea pe stradă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Banitsa",
+            "tip": "A savory pastry with cheese, ideal for a quick energy boost."
+          },
+          {
+            "name": "Ayran",
+            "tip": "A refreshing yogurt drink that pairs perfectly with savory food."
+          },
+          {
+            "name": "Gevrek",
+            "tip": "A sesame-sprinkled bread ring, often sold on the street."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg entlang des Flusses",
+            "tip": "Der Weg führt aus der Stadt heraus und wird schnell ruhiger.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gradishte-Hügel",
+            "tip": "Eine anspruchsvollere Radtour, die mit einer tollen Aussicht belohnt wird.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Folyó menti kerékpárút",
+            "tip": "Az út kivezet a városból és gyorsan csendesebbé válik.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gradiste-hegy",
+            "tip": "Egy nagyobb kihívást jelentő kerékpártúra, amely remek kilátással jutalmaz.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul râului",
+            "tip": "Traseul iese din oraș și devine rapid mai liniștit.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dealul Gradishte",
+            "tip": "O plimbare cu bicicleta mai solicitantă, care vă recompensează cu o priveliște superbă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Riverside cycle path",
+            "tip": "The path leads out of the city and quickly becomes quieter.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gradishte Hill",
+            "tip": "A more challenging bike ride that rewards you with a great view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frisches Obst für einen Snack unterwegs."
+          },
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Falls Sie Ersatzteile oder Zubehör benötigen, gibt es einige Geschäfte im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss gyümölcsöt útközbeni harapnivalónak."
+          },
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Ha alkatrészekre vagy kiegészítőkre van szüksége, a központban talál néhány üzletet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați fructe proaspete pentru o gustare pe drum."
+          },
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Dacă aveți nevoie de piese de schimb sau accesorii, există câteva magazine în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Buy fresh fruit for a snack on the go."
+          },
+          {
+            "name": "Bike Shops",
+            "tip": "If you need any spare parts or accessories, there are a few shops in the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Gabrowo ist hügelig, seien Sie auf einige Anstiege vorbereitet.",
+          "Achten Sie auf den Verkehr in der Innenstadt.",
+          "Einige Straßen haben Kopfsteinpflaster, fahren Sie vorsichtig."
+        ],
+        "hu": [
+          "Gabrovo dombos, készüljön fel néhány emelkedőre.",
+          "Vigyázzon a belvárosi forgalomra.",
+          "Néhány utca macskaköves, vezessen óvatosan."
+        ],
+        "ro": [
+          "Gabrovo este un oraș deluros, fiți pregătiți pentru câteva urcări.",
+          "Atenție la trafic în centrul orașului.",
+          "Unele străzi sunt pavate cu piatră cubică, conduceți cu prudență."
+        ],
+        "en": [
+          "Gabrovo is hilly, be prepared for some climbs.",
+          "Watch out for traffic in the city center.",
+          "Some streets have cobblestones, ride carefully."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 19.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Freilichtmuseum Etar",
+            "hu": "Etar Szabadtéri Néprajzi Múzeum",
+            "ro": "Complexul Etnografic în aer liber Etar",
+            "en": "Etar Architectural-Ethnographic Complex"
+          },
+          "coords": [
+            25.348,
+            42.815
+          ],
+          "category": "museums",
+          "arrive_at": "09:25",
+          "stay_min": 180,
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 9.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich mindestens drei Stunden Zeit, um die Werkstätten und Häuser wirklich zu erleben.",
+            "hu": "Szánjon rá legalább három órát, hogy igazán megtapasztalja a műhelyeket és a házakat.",
+            "ro": "Acordați-vă cel puțin trei ore pentru a experimenta cu adevărat atelierele și casele.",
+            "en": "Allow at least three hours to truly experience the workshops and houses."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe von Etar",
+            "hu": "Ebéd az Etar közelében",
+            "ro": "Prânz lângă Etar",
+            "en": "Lunch near Etar"
+          },
+          "coords": [
+            25.347,
+            42.816
+          ],
+          "category": "gastro",
+          "arrive_at": "12:25",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Viele Restaurants hier servieren traditionelle Gerichte in authentischer Atmosphäre.",
+            "hu": "Sok itteni étterem hagyományos ételeket szolgál fel autentikus légkörben.",
+            "ro": "Multe restaurante de aici servesc mâncăruri tradiționale într-o atmosferă autentică.",
+            "en": "Many restaurants here serve traditional dishes in an authentic atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt ins Zentrum & Parken",
+            "hu": "Autózás a központba és parkolás",
+            "ro": "Conduceți spre centru și parcați",
+            "en": "Drive to the center & Park"
+          },
+          "coords": [
+            25.321,
+            42.878
+          ],
+          "category": "transport",
+          "arrive_at": "13:55",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 9.5,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Hauses des Humors, von dort aus ist das Zentrum zu Fuß erreichbar.",
+            "hu": "Parkoljon a Humor Háza közelében, onnan a központ gyalog is elérhető.",
+            "ro": "Parcați lângă Casa Umorului, de unde centrul este accesibil pe jos.",
+            "en": "Park near the House of Humour, the center is within walking distance from there."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus des Humors und der Satire",
+            "hu": "Humor és Szatíra Háza",
+            "ro": "Casa Umorului și Satirei",
+            "en": "House of Humour and Satire"
+          },
+          "coords": [
+            25.32,
+            42.879
+          ],
+          "category": "museums",
+          "arrive_at": "13:55",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein absolutes Highlight von Gabrowo. Lassen Sie sich auf den einzigartigen Humor ein.",
+            "hu": "Gabrovo abszolút fénypontja. Engedje át magát az egyedi humornak.",
+            "ro": "Un punct culminant absolut al orașului Gabrovo. Lăsați-vă purtat de umorul unic.",
+            "en": "An absolute highlight of Gabrovo. Embrace the unique humour."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zum Uhrturm",
+            "hu": "Séta az Óratoronyhoz",
+            "ro": "Plimbare la Turnul cu Ceas",
+            "en": "Walk to the Clock Tower"
+          },
+          "coords": [
+            25.325,
+            42.874
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:03",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie auf dem Weg die kleinen Geschäfte und Cafés.",
+            "hu": "Útközben fedezze fel a kis üzleteket és kávézókat.",
+            "ro": "Explorați micile magazine și cafenele pe drum.",
+            "en": "Explore the small shops and cafes on your way."
+          }
+        },
+        {
+          "name": {
+            "de": "Aprilow-Gymnasium & Baew-Brücke",
+            "hu": "Aprilov Gimnázium és Baev-híd",
+            "ro": "Gimnaziul Aprilov și Podul Baev",
+            "en": "Aprilov High School & Baev Bridge"
+          },
+          "coords": [
+            25.322,
+            42.8755
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:43",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang mit diesen beiden Wahrzeichen, bevor Sie zum Auto zurückkehren.",
+            "hu": "Fejezze be a sétát ezzel a két nevezetességgel, mielőtt visszatérne az autóhoz.",
+            "ro": "Încheiați-vă plimbarea cu aceste două repere înainte de a vă întoarce la mașină.",
+            "en": "Finish your walk with these two landmarks before heading back to the car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag mit einer kurzen Fahrt zum Freilichtmuseum Etar, einem lebendigen Dorf aus dem 19. Jahrhundert. Verbringen Sie den Vormittag damit, Handwerkern bei der Arbeit zuzusehen. Nach einem traditionellen Mittagessen in Etar fahren Sie zurück ins Zentrum von Gabrowo. Parken Sie Ihr Auto und tauchen Sie ein in die Welt des Lachens im Haus des Humors und der Satire. Schließen Sie den Tag mit einem Spaziergang durch das historische Zentrum ab, vorbei am Uhrturm, der Baew-Brücke und dem beeindruckenden Aprilow-Gymnasium. Dieser Plan kombiniert ländliche Geschichte mit städtischem Witz.",
+        "hu": "Kezdje a napot egy rövid autóúttal az Etar Szabadtéri Néprajzi Múzeumba, egy élő 19. századi faluba. Töltse a délelőttöt a mesteremberek munkájának megfigyelésével. Egy hagyományos etari ebéd után térjen vissza Gabrovo központjába. Parkolja le autóját, és merüljön el a nevetés világában a Humor és Szatíra Házában. Zárja a napot egy sétával a történelmi központban, elhaladva az Óratorony, a Baev-híd és a lenyűgöző Aprilov Gimnázium mellett. Ez a program a vidéki történelmet a városi szellemességgel ötvözi.",
+        "ro": "Începeți ziua cu o scurtă călătorie cu mașina la Complexul Etnografic în aer liber Etar, un sat viu din secolul al XIX-lea. Petreceți dimineața urmărind meșteșugarii la lucru. După un prânz tradițional la Etar, conduceți înapoi în centrul orașului Gabrovo. Parcați mașina și scufundați-vă în lumea râsului la Casa Umorului și Satirei. Încheiați ziua cu o plimbare prin centrul istoric, trecând pe lângă Turnul cu Ceas, Podul Baev și impresionantul Gimnaziu Aprilov. Acest plan combină istoria rurală cu spiritul urban.",
+        "en": "Start the day with a short drive to the Etar Open Air Museum, a living 19th-century village. Spend the morning watching craftsmen at work. After a traditional lunch in Etar, drive back to the center of Gabrovo. Park your car and immerse yourself in the world of laughter at the House of Humour and Satire. End the day with a walk through the historic center, passing the Clock Tower, Baev Bridge, and the impressive Aprilov High School. This plan combines rural history with urban wit."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Katino Meze",
+            "tip": "Ein Gericht aus Schweinefleisch und Gemüse, langsam in einem Tontopf gekocht."
+          },
+          {
+            "name": "Parlenka",
+            "tip": "Ein dünnes, gegrilltes Fladenbrot, oft mit Knoblauch oder Käse."
+          },
+          {
+            "name": "Patatnik",
+            "tip": "Ein herzhafter Kartoffelkuchen aus den nahegelegenen Rhodopen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Katino Meze",
+            "tip": "Sertéshúsból és zöldségekből készült étel, lassan agyagedényben főzve."
+          },
+          {
+            "name": "Parlenka",
+            "tip": "Vékony, grillezett lepénykenyér, gyakran fokhagymával vagy sajttal."
+          },
+          {
+            "name": "Patatnik",
+            "tip": "A közeli Rodope-hegységből származó kiadós burgonyapite."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Katino Meze",
+            "tip": "Un fel de mâncare din carne de porc și legume, gătit lent într-un vas de lut."
+          },
+          {
+            "name": "Parlenka",
+            "tip": "O lipie subțire, la grătar, adesea cu usturoi sau brânză."
+          },
+          {
+            "name": "Patatnik",
+            "tip": "O plăcintă consistentă de cartofi din Munții Rodopi din apropiere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Katino Meze",
+            "tip": "A dish of pork and vegetables, slow-cooked in a clay pot."
+          },
+          {
+            "name": "Parlenka",
+            "tip": "A thin, grilled flatbread, often with garlic or cheese."
+          },
+          {
+            "name": "Patatnik",
+            "tip": "A hearty potato pie from the nearby Rhodope Mountains."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Freilichtmuseum Etar am frühen Morgen",
+            "tip": "Seien Sie einer der ersten Besucher und genießen Sie die Ruhe des erwachenden Dorfes.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtspunkt in den Bergen",
+            "tip": "Machen Sie auf dem Weg von oder nach Etar einen kurzen Halt an einem Aussichtspunkt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Etar Szabadtéri Néprajzi Múzeum kora reggel",
+            "tip": "Legyen az elsők között, és élvezze az ébredező falu csendjét.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátó a hegyekben",
+            "tip": "Az Etarba vezető úton vagy onnan visszafelé álljon meg egy rövid időre egy kilátónál.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Complexul Etar dimineața devreme",
+            "tip": "Fiți printre primii vizitatori și bucurați-vă de liniștea satului care se trezește.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Punct de belvedere în munți",
+            "tip": "Faceți o scurtă oprire la un punct de belvedere în drum spre sau dinspre Etar.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Etar Open Air Museum early in the morning",
+            "tip": "Be among the first visitors and enjoy the tranquility of the awakening village.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Viewpoint in the mountains",
+            "tip": "Make a quick stop at a viewpoint on your way to or from Etar.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handwerk aus Etar",
+            "tip": "Kaufen Sie authentische, handgefertigte Produkte direkt von den Handwerkern."
+          },
+          {
+            "name": "Rosenölprodukte",
+            "tip": "Bulgarien ist berühmt für sein Rosenöl. Suchen Sie nach Kosmetika oder Marmelade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves termékek Etarból",
+            "tip": "Vásároljon autentikus, kézzel készített termékeket közvetlenül a mesteremberektől."
+          },
+          {
+            "name": "Rózsaolaj termékek",
+            "tip": "Bulgária híres a rózsaolajáról. Keressen kozmetikumokat vagy lekvárt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat de la Etar",
+            "tip": "Cumpărați produse autentice, realizate manual, direct de la meșteșugari."
+          },
+          {
+            "name": "Produse cu ulei de trandafiri",
+            "tip": "Bulgaria este renumită pentru uleiul său de trandafiri. Căutați produse cosmetice sau gem."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crafts from Etar",
+            "tip": "Buy authentic, handmade products directly from the craftsmen."
+          },
+          {
+            "name": "Rose oil products",
+            "tip": "Bulgaria is famous for its rose oil. Look for cosmetics or jam."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Öffnungszeiten von Etar, da diese saisonal variieren können.",
+          "Parken im Zentrum von Gabrowo kann an Wochentagen eine Herausforderung sein.",
+          "Die Straße nach Etar ist kurvenreich, fahren Sie vorsichtig."
+        ],
+        "hu": [
+          "Ellenőrizze az Etar nyitvatartási idejét, mivel az szezonálisan változhat.",
+          "A parkolás Gabrovo központjában hétköznap kihívást jelenthet.",
+          "Az Etarba vezető út kanyargós, vezessen óvatosan."
+        ],
+        "ro": [
+          "Verificați programul de funcționare al complexului Etar, deoarece acesta poate varia în funcție de sezon.",
+          "Parcarea în centrul orașului Gabrovo poate fi o provocare în timpul săptămânii.",
+          "Drumul spre Etar este sinuos, conduceți cu atenție."
+        ],
+        "en": [
+          "Check the opening hours of Etar as they can vary seasonally.",
+          "Parking in the center of Gabrovo can be challenging on weekdays.",
+          "The road to Etar is winding, drive carefully."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 19.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Busfahrt zum Freilichtmuseum Etar",
+            "hu": "Buszozás az Etar Szabadtéri Múzeumba",
+            "ro": "Călătorie cu autobuzul la Complexul Etar",
+            "en": "Bus ride to the Etar Open Air Museum"
+          },
+          "coords": [
+            25.348,
+            42.815
+          ],
+          "category": "transport",
+          "arrive_at": "09:40",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 9.0,
+          "tip_5lang": {
+            "de": "Erkundigen Sie sich am Busbahnhof nach den genauen Abfahrtszeiten.",
+            "hu": "Érdeklődjön a buszpályaudvaron a pontos indulási időkről.",
+            "ro": "Verificați la autogară orele exacte de plecare.",
+            "en": "Check at the bus station for the exact departure times."
+          }
+        },
+        {
+          "name": {
+            "de": "Freilichtmuseum Etar erkunden",
+            "hu": "Az Etar Múzeum felfedezése",
+            "ro": "Explorarea Complexului Etar",
+            "en": "Exploring the Etar Museum"
+          },
+          "coords": [
+            25.348,
+            42.815
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 150,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Zeit, um den Bus zurück nicht zu verpassen.",
+            "hu": "Figyeljen az időre, hogy ne késse le a visszafelé tartó buszt.",
+            "ro": "Fiți atenți la timp pentru a nu pierde autobuzul de întoarcere.",
+            "en": "Keep an eye on the time so you don't miss the bus back."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt ins Zentrum",
+            "hu": "Visszaút a központba",
+            "ro": "Întoarcere în centru",
+            "en": "Return to the center"
+          },
+          "coords": [
+            25.321,
+            42.878
+          ],
+          "category": "transport",
+          "arrive_at": "12:50",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 9.5,
+          "tip_5lang": {
+            "de": "Steigen Sie in der Nähe des Hauses des Humors aus.",
+            "hu": "Szálljon le a Humor Háza közelében.",
+            "ro": "Coborâți lângă Casa Umorului.",
+            "en": "Get off near the House of Humour."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Haus des Humors",
+            "hu": "Ebéd és a Humor Háza",
+            "ro": "Prânz și Casa Umorului",
+            "en": "Lunch and House of Humour"
+          },
+          "coords": [
+            25.32,
+            42.879
+          ],
+          "category": "gastro",
+          "arrive_at": "12:50",
+          "stay_min": 180,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Kombinieren Sie Ihr Mittagessen mit dem Besuch des berühmtesten Museums der Stadt.",
+            "hu": "Kombinálja az ebédet a város leghíresebb múzeumának meglátogatásával.",
+            "ro": "Combinați prânzul cu o vizită la cel mai faimos muzeu din oraș.",
+            "en": "Combine your lunch with a visit to the city's most famous museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang durch das Zentrum",
+            "hu": "Séta a központban",
+            "ro": "Plimbare prin centru",
+            "en": "Walk through the center"
+          },
+          "coords": [
+            25.325,
+            42.874
+          ],
+          "category": "landmark",
+          "arrive_at": "16:00",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein gemütlicher Spaziergang führt Sie am Uhrturm und der Baew-Brücke vorbei.",
+            "hu": "Egy kellemes séta elvezeti az Óratorony és a Baev-híd mellett.",
+            "ro": "O plimbare relaxantă vă va purta pe lângă Turnul cu Ceas și Podul Baev.",
+            "en": "A leisurely stroll will take you past the Clock Tower and Baev Bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Besuch des Aprilow-Gymnasiums",
+            "hu": "Látogatás az Aprilov Gimnáziumban",
+            "ro": "Vizită la Gimnaziul Aprilov",
+            "en": "Visit to Aprilov High School"
+          },
+          "coords": [
+            25.322,
+            42.8755
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "17:10",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Blick auf dieses beeindruckende Gebäude, bevor Sie zum Busbahnhof zurückkehren.",
+            "hu": "Zárja a napot egy pillantással erre a lenyűgöző épületre, mielőtt visszatérne a buszpályaudvarra.",
+            "ro": "Încheiați ziua admirând această clădire impresionantă înainte de a vă întoarce la autogară.",
+            "en": "End the day with a look at this impressive building before heading back to the bus station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den öffentlichen Bus für einen Ausflug zum Freilichtmuseum Etar. Nach der Erkundung des historischen Dorfes bringt Sie der Bus zurück ins Herz von Gabrowo. Stärken Sie sich bei einem Mittagessen und besuchen Sie anschließend das Haus des Humors. Der Rest des Tages ist ein entspannter Spaziergang durch das Stadtzentrum, bei dem Sie die wichtigsten Sehenswürdigkeiten wie den Uhrturm und das Aprilow-Gymnasium entdecken. Dieser Plan ist ideal für Reisende, die auf ein Auto verzichten und die lokale Infrastruktur nutzen möchten.",
+        "hu": "Használja a helyi buszjáratot egy kiránduláshoz az Etar Szabadtéri Néprajzi Múzeumba. A történelmi falu felfedezése után a busz visszaviszi Önt Gabrovo szívébe. Ebédeljen meg, majd látogasson el a Humor Házába. A nap hátralévő része egy pihentető séta a városközpontban, felfedezve a főbb látnivalókat, mint az Óratorony és az Aprilov Gimnázium. Ez a terv ideális azoknak az utazóknak, akik lemondanak az autóról, és a helyi infrastruktúrát szeretnék használni.",
+        "ro": "Folosiți autobuzul public pentru o excursie la Complexul Etnografic în aer liber Etar. După explorarea satului istoric, autobuzul vă va aduce înapoi în inima orașului Gabrovo. Luați prânzul și apoi vizitați Casa Umorului. Restul zilei este o plimbare relaxantă prin centrul orașului, descoperind principalele atracții, cum ar fi Turnul cu Ceas și Gimnaziul Aprilov. Acest plan este ideal pentru călătorii care preferă să nu folosească mașina și să utilizeze infrastructura locală.",
+        "en": "Use the public bus for a trip to the Etar Open Air Museum. After exploring the historic village, the bus will take you back to the heart of Gabrovo. Have lunch and then visit the House of Humour. The rest of the day is a relaxed walk through the city center, discovering the main sights like the Clock Tower and the Aprilov High School. This plan is ideal for travelers who want to skip the car and use the local infrastructure."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mekitsi",
+            "tip": "Frittierte Teigfladen, oft mit Puderzucker oder Käse zum Frühstück gegessen."
+          },
+          {
+            "name": "Boza",
+            "tip": "Ein leicht fermentiertes Malzgetränk, ein traditioneller bulgarischer Durstlöscher."
+          },
+          {
+            "name": "Ljuteniza",
+            "tip": "Ein würziger Aufstrich aus Paprika und Tomaten, der zu fast allem passt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mekici",
+            "tip": "Sült tésztakorongok, gyakran porcukorral vagy sajttal reggelire fogyasztva."
+          },
+          {
+            "name": "Boza",
+            "tip": "Enyhén erjesztett malátaital, hagyományos bolgár szomjoltó."
+          },
+          {
+            "name": "Ljutenica",
+            "tip": "Fűszeres paprika- és paradicsomkrém, amely szinte mindenhez illik."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mekitsi",
+            "tip": "Turte de aluat prăjit, adesea consumate la micul dejun cu zahăr pudră sau brânză."
+          },
+          {
+            "name": "Boza",
+            "tip": "O băutură din malț ușor fermentată, o băutură tradițională bulgară pentru potolirea setei."
+          },
+          {
+            "name": "Lyutenitsa",
+            "tip": "O pastă picantă din ardei și roșii, care se potrivește cu aproape orice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mekitsi",
+            "tip": "Fried dough fritters, often eaten for breakfast with powdered sugar or cheese."
+          },
+          {
+            "name": "Boza",
+            "tip": "A slightly fermented malt drink, a traditional Bulgarian thirst quencher."
+          },
+          {
+            "name": "Lyutenitsa",
+            "tip": "A savory spread of peppers and tomatoes that goes with almost everything."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirche im Zentrum",
+            "tip": "Suchen Sie eine der kleineren orthodoxen Kirchen für einen Moment der Stille.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Stadtpark",
+            "tip": "Der Hauptpark der Stadt bietet schattige Plätze zum Ausruhen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Templom a központban",
+            "tip": "Keressen egyet a kisebb ortodox templomok közül egy csendes pillanatra.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Városi park",
+            "tip": "A város fő parkja árnyékos helyeket kínál a pihenéshez.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica din centru",
+            "tip": "Găsiți una dintre bisericile ortodoxe mai mici pentru un moment de liniște.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Parcul orașului",
+            "tip": "Parcul principal al orașului oferă locuri umbrite pentru odihnă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Church in the center",
+            "tip": "Find one of the smaller Orthodox churches for a moment of silence.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "City Park",
+            "tip": "The city's main park offers shady spots to rest.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske am Busbahnhof",
+            "tip": "Hier finden Sie Snacks und Getränke für die Busfahrt."
+          },
+          {
+            "name": "Fußgängerzone",
+            "tip": "Die Hauptfußgängerzone bietet eine Mischung aus lokalen und nationalen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok a buszpályaudvaron",
+            "tip": "Itt harapnivalókat és italokat talál a buszútra."
+          },
+          {
+            "name": "Sétálóutca",
+            "tip": "A fő sétálóutca helyi és országos üzletek keverékét kínálja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri la autogară",
+            "tip": "Aici puteți găsi gustări și băuturi pentru călătoria cu autobuzul."
+          },
+          {
+            "name": "Zona pietonală",
+            "tip": "Principala zonă pietonală oferă un amestec de magazine locale și naționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks at the bus station",
+            "tip": "You can find snacks and drinks for the bus ride here."
+          },
+          {
+            "name": "Pedestrian street",
+            "tip": "The main pedestrian street offers a mix of local and national shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn dies günstiger ist.",
+          "Fotografieren Sie den Busfahrplan, um die Rückfahrt nicht zu verpassen.",
+          "Haben Sie Kleingeld für die Bustickets dabei."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha az olcsóbb.",
+          "Fényképezze le a buszmenetrendet, hogy ne késse le a visszaútat.",
+          "Legyen Önnél aprópénz a buszjegyekhez."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru autobuz dacă este mai ieftin.",
+          "Fotografiați orarul autobuzului pentru a nu rata călătoria de întoarcere.",
+          "Aveți la dumneavoastră mărunțiș pentru biletele de autobuz."
+        ],
+        "en": [
+          "Buy a day pass for the bus if it's cheaper.",
+          "Take a photo of the bus schedule so you don't miss the return trip.",
+          "Have small change ready for bus tickets."
+        ]
+      }
+    }
+  }
+}

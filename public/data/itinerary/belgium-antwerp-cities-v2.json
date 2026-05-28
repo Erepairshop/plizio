@@ -1,0 +1,1470 @@
+{
+  "city_id": "belgium-antwerp-cities-v2",
+  "anchor": {
+    "name": "Antwerpen",
+    "coords": [
+      4.4025,
+      51.2194
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Grote Markt",
+            "hu": "Grote Markt (Fő tér)",
+            "ro": "Grote Markt (Piața Mare)",
+            "en": "Grote Markt (Main Square)"
+          },
+          "coords": [
+            4.4013,
+            51.2211
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das Rathaus und die Brabo-Statue, das Herz der Stadt.",
+            "hu": "Csodálja meg a Városházát és a Brabo-szökőkutat, a város szívét.",
+            "ro": "Admirați primăria și statuia lui Brabo, inima orașului.",
+            "en": "Admire the City Hall and the Brabo statue, the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Liebfrauenkathedrale",
+            "hu": "Miasszonyunk-katedrális",
+            "ro": "Catedrala Maicii Domnului (Onze-Lieve-Vrouwekathedraal)",
+            "en": "Cathedral of Our Lady"
+          },
+          "coords": [
+            4.4018,
+            51.2203
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Meisterwerke von Rubens im Inneren.",
+            "hu": "Ne hagyja ki Rubens mesterműveit a katedrális belsejében.",
+            "ro": "Nu ratați capodoperele lui Rubens din interior.",
+            "en": "Don't miss the masterpieces by Rubens inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Het Steen",
+            "hu": "Het Steen (A Kő vár)",
+            "ro": "Het Steen (Castelul de Piatră)",
+            "en": "Het Steen (The Stone castle)"
+          },
+          "coords": [
+            4.3976,
+            51.2224
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:09",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie von der Dachterrasse den Panoramablick auf die Schelde.",
+            "hu": "Élvezze a panorámás kilátást a Scheldt folyóra a tetőteraszról.",
+            "ro": "Bucurați-vă de vederea panoramică a râului Scheldt de pe acoperiș.",
+            "en": "Enjoy the panoramic view of the Scheldt river from the rooftop terrace."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Plantin-Moretus",
+            "hu": "Plantin-Moretus Múzeum",
+            "ro": "Muzeul Plantin-Moretus",
+            "en": "Museum Plantin-Moretus"
+          },
+          "coords": [
+            4.3983,
+            51.2182
+          ],
+          "category": "museums",
+          "arrive_at": "12:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Die einzige Druckerei der Welt, die zum UNESCO-Weltkulturerbe gehört.",
+            "hu": "A világ egyetlen nyomdája, amely az UNESCO Világörökség része.",
+            "ro": "Singura tipografie din lume înscrisă în Patrimoniul Mondial UNESCO.",
+            "en": "The only printing press in the world that is a UNESCO World Heritage site."
+          }
+        },
+        {
+          "name": {
+            "de": "Rubenshaus",
+            "hu": "Rubens-ház",
+            "ro": "Casa Rubens (Rubenshuis)",
+            "en": "Rubens House"
+          },
+          "coords": [
+            4.4087,
+            51.2163
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Treten Sie ein in das Zuhause und Atelier des berühmten Malers.",
+            "hu": "Lépjen be a híres festő otthonába és műtermébe.",
+            "ro": "Intrați în casa și atelierul faimosului pictor.",
+            "en": "Step into the home and studio of the famous painter."
+          }
+        },
+        {
+          "name": {
+            "de": "Antwerpen Centraal Station",
+            "hu": "Antwerpeni központi pályaudvar",
+            "ro": "Gara Centrală din Anvers",
+            "en": "Antwerp Central Station"
+          },
+          "coords": [
+            4.4214,
+            51.2173
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Wird oft als schönster Bahnhof der Welt bezeichnet. Schauen Sie nach oben!",
+            "hu": "Gyakran a világ legszebb pályaudvarának nevezik. Nézzen fel!",
+            "ro": "Adesea considerată cea mai frumoasă gară din lume. Priviți în sus!",
+            "en": "Often called the most beautiful train station in the world. Look up!"
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo Antwerpen",
+            "hu": "Antwerpeni Állatkert",
+            "ro": "Grădina Zoologică din Anvers",
+            "en": "Antwerp Zoo"
+          },
+          "coords": [
+            4.421,
+            51.2185
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Einer der ältesten Zoos der Welt, direkt neben dem Hauptbahnhof.",
+            "hu": "A világ egyik legrégebbi állatkertje, közvetlenül a főpályaudvar mellett.",
+            "ro": "Una dintre cele mai vechi grădini zoologice din lume, chiar lângă gară.",
+            "en": "One of the oldest zoos in the world, right next to the central station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem historischen Grote Markt, dem pulsierenden Herzen Antwerpens. Am Vormittag tauchen Sie in die Kunst ein, indem Sie die Kathedrale mit Rubens' Werken und anschließend die mittelalterliche Festung Het Steen am Flussufer erkunden. Nach dem Mittagessen entdecken Sie die Geschichte des Buchdrucks im Museum Plantin-Moretus und besuchen das prachtvolle Haus des Meisters Peter Paul Rubens. Am späten Nachmittag bewundern Sie die architektonische Pracht des Hauptbahnhofs, der als „Eisenbahnkathedrale“ bekannt ist, bevor Sie den Tag mit einem entspannten Spaziergang durch den historischen Zoo ausklingen lassen.",
+        "hu": "Kezdje a napot a történelmi Grote Markton, Antwerpen lüktető szívében. Délelőtt merüljön el a művészetben a Rubens műveit rejtő katedrálisban, majd fedezze fel a folyóparti középkori Het Steen erődöt. Ebéd után ismerje meg a nyomdászat történetét a Plantin-Moretus Múzeumban, és látogasson el a mester, Peter Paul Rubens pazar otthonába. Késő délután csodálja meg a központi pályaudvar építészeti pompáját, melyet „vasúti katedrálisnak” is neveznek, mielőtt egy pihentető sétával zárja a napot a történelmi állatkertben.",
+        "ro": "Începeți ziua în istorica Grote Markt, inima vibrantă a Anversului. Dimineața, scufundați-vă în artă la catedrala care adăpostește operele lui Rubens, apoi explorați fortăreața medievală Het Steen de pe malul râului. După prânz, descoperiți istoria tiparului la Muzeul Plantin-Moretus și vizitați casa opulentă a maestrului Peter Paul Rubens. Spre sfârșitul după-amiezii, admirați splendoarea arhitecturală a Gării Centrale, cunoscută drept „catedrala feroviară”, înainte de a încheia ziua cu o plimbare relaxantă prin grădina zoologică istorică.",
+        "en": "Start your day in the historic Grote Markt, the vibrant heart of Antwerp. In the morning, immerse yourself in art at the cathedral housing Rubens' works, then explore the medieval Het Steen fortress on the riverbank. After lunch, discover the history of printing at the Plantin-Moretus Museum and visit the opulent home of master Peter Paul Rubens. In the late afternoon, admire the architectural splendor of the Central Station, known as the 'railway cathedral,' before ending the day with a relaxing stroll through the historic zoo."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Belgische Pommes Frites",
+            "tip": "Probieren Sie sie bei Frituur n°1 in der Nähe des Grote Markt."
+          },
+          {
+            "name": "Belgische Waffeln",
+            "tip": "Süß oder herzhaft, ein Muss. Suchen Sie nach kleinen Straßenständen."
+          },
+          {
+            "name": "Stoofvlees (Rindereintopf)",
+            "tip": "Ein herzhaftes, mit Bier zubereitetes Gericht. De Bomma ist dafür bekannt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belga sültkrumpli",
+            "tip": "Kóstolja meg a Frituur n°1-ben a Grote Markt közelében."
+          },
+          {
+            "name": "Belga gofri",
+            "tip": "Édesen vagy sósan, ezt ki kell próbálni. Keressen kis utcai árusokat."
+          },
+          {
+            "name": "Stoofvlees (marharagu)",
+            "tip": "Sörrel készült, kiadós étel. A De Bomma étterem híres róla."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cartofi prăjiți belgieni",
+            "tip": "Încercați-i la Frituur n°1, lângă Grote Markt."
+          },
+          {
+            "name": "Vafe belgiene",
+            "tip": "Dulci sau sărate, o necesitate. Căutați standuri stradale mici."
+          },
+          {
+            "name": "Stoofvlees (tocăniță de vită)",
+            "tip": "Un fel de mâncare consistent, gătit cu bere. De Bomma este renumit pentru el."
+          }
+        ],
+        "en": [
+          {
+            "name": "Belgian Fries",
+            "tip": "Try them at Frituur n°1 near the Grote Markt."
+          },
+          {
+            "name": "Belgian Waffles",
+            "tip": "Sweet or savory, a must-try. Look for small street vendors."
+          },
+          {
+            "name": "Stoofvlees (Beef Stew)",
+            "tip": "A hearty dish made with beer. De Bomma is known for it."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Botanischer Garten (Den Botaniek)",
+            "tip": "Eine grüne Oase der Ruhe mitten in der Stadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sankt-Pauls-Kirche",
+            "tip": "Etwas abseits der Touristenpfade, mit einem beeindruckenden Kalvarienberg-Garten.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Scheldeufer bei Sonnenuntergang",
+            "tip": "Finden Sie eine Bank in der Nähe von Het Steen für eine tolle Aussicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Botanikus kert (Den Botaniek)",
+            "tip": "A nyugalom zöld oázisa a város közepén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szent Pál-templom",
+            "tip": "Kissé távolabb a turistaútvonalaktól, lenyűgöző kálváriakerttel.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A Scheldt partja naplementekor",
+            "tip": "Keressen egy padot a Het Steen közelében a nagyszerű kilátásért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică (Den Botaniek)",
+            "tip": "O oază verde de liniște în mijlocul orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Biserica Sf. Paul",
+            "tip": "Puțin în afara traseelor turistice, cu o grădină impresionantă a Calvarului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malul râului Scheldt la apus",
+            "tip": "Găsiți o bancă lângă Het Steen pentru o priveliște minunată.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Botanical Garden (Den Botaniek)",
+            "tip": "A green oasis of calm in the middle of the city.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "St. Paul's Church",
+            "tip": "Slightly off the beaten path, with an impressive Calvary garden.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Scheldt Riverbank at Sunset",
+            "tip": "Find a bench near Het Steen for a great view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Meir",
+            "tip": "Die Haupteinkaufsstraße mit internationalen Marken und beeindruckender Architektur."
+          },
+          {
+            "name": "Wilde Zee",
+            "tip": "Ein charmantes Viertel mit unabhängigen Boutiquen und Feinkostläden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Meir",
+            "tip": "A fő bevásárlóutca nemzetközi márkákkal és lenyűgöző építészettel."
+          },
+          {
+            "name": "Wilde Zee",
+            "tip": "Bájos negyed független butikokkal és csemegeüzletekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Meir",
+            "tip": "Principala stradă comercială cu mărci internaționale și arhitectură impresionantă."
+          },
+          {
+            "name": "Wilde Zee",
+            "tip": "Un cartier fermecător cu buticuri independente și delicatese."
+          }
+        ],
+        "en": [
+          {
+            "name": "Meir",
+            "tip": "The main shopping street with international brands and impressive architecture."
+          },
+          {
+            "name": "Wilde Zee",
+            "tip": "A charming neighborhood with independent boutiques and delicatessens."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster anstrengend sein kann.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind leicht zu Fuß erreichbar.",
+          "Nehmen Sie sich Zeit, um in den kleinen Gassen rund um die Kathedrale umherzuwandern.",
+          "Eine wiederverwendbare Wasserflasche ist praktisch, es gibt mehrere öffentliche Brunnen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, a macskakő fárasztó lehet.",
+          "A legtöbb belvárosi látnivaló könnyen elérhető gyalog.",
+          "Szánjon időt a katedrális körüli kis sikátorokban való bolyongásra.",
+          "Egy újratölthető vizes palack praktikus, több nyilvános kút is van."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece piatra cubică poate fi obositoare.",
+          "Majoritatea atracțiilor din centrul orașului sunt ușor accesibile pe jos.",
+          "Luați-vă timp să vă plimbați pe aleile mici din jurul catedralei.",
+          "O sticlă de apă reutilizabilă este la îndemână, există mai multe fântâni publice."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones can be tiring.",
+          "Most sights in the city center are within easy walking distance.",
+          "Take time to wander the small alleys around the cathedral.",
+          "A reusable water bottle is handy; there are several public fountains."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Antwerpen Centraal Station",
+            "hu": "Antwerpeni központi pályaudvar",
+            "ro": "Gara Centrală din Anvers",
+            "en": "Antwerp Central Station"
+          },
+          "coords": [
+            4.4214,
+            51.2173
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie am 'Velo Antwerpen'-Stand hier. Bewundern Sie die Architektur.",
+            "hu": "Induljon innen a 'Velo Antwerpen' állomástól. Csodálja meg az építészetet.",
+            "ro": "Începeți de la stația 'Velo Antwerpen' de aici. Admirați arhitectura.",
+            "en": "Start at the 'Velo Antwerpen' stand here. Admire the architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Cogels-Osylei",
+            "hu": "Cogels-Osylei",
+            "ro": "Cogels-Osylei",
+            "en": "Cogels-Osylei"
+          },
+          "coords": [
+            4.427,
+            51.206
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:47",
+          "stay_min": 45,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Radeln Sie durch diese Straße und bewundern Sie die Belle-Époque-Architektur.",
+            "hu": "Biciklizzen végig ezen az utcán, és csodálja meg a Belle Époque építészetet.",
+            "ro": "Plimbați-vă cu bicicleta pe această stradă pentru a admira arhitectura Belle Époque.",
+            "en": "Cycle down this street to admire the Belle Époque architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Rubenshaus",
+            "hu": "Rubens-ház",
+            "ro": "Casa Rubens (Rubenshuis)",
+            "en": "Rubens House"
+          },
+          "coords": [
+            4.4087,
+            51.2163
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und tauchen Sie ein in die Welt von Rubens.",
+            "hu": "Parkolja le a biciklit, és merüljön el Rubens világában.",
+            "ro": "Parcați bicicleta și scufundați-vă în lumea lui Rubens.",
+            "en": "Park your bike and dive into the world of Rubens."
+          }
+        },
+        {
+          "name": {
+            "de": "Grote Markt",
+            "hu": "Grote Markt (Fő tér)",
+            "ro": "Grote Markt (Piața Mare)",
+            "en": "Grote Markt (Main Square)"
+          },
+          "coords": [
+            4.4013,
+            51.2211
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Der perfekte Ort für eine Mittagspause. Viele Cafés und Restaurants.",
+            "hu": "Tökéletes hely egy ebédszünetre. Rengeteg kávézó és étterem.",
+            "ro": "Locul perfect pentru o pauză de prânz. Multe cafenele și restaurante.",
+            "en": "The perfect spot for a lunch break. Lots of cafes and restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Liebfrauenkathedrale",
+            "hu": "Miasszonyunk-katedrális",
+            "ro": "Catedrala Maicii Domnului",
+            "en": "Cathedral of Our Lady"
+          },
+          "coords": [
+            4.4018,
+            51.2203
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:27",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Grote Markt, ein Muss für Kunstliebhaber.",
+            "hu": "Rövid séta a Grote Markttól, kötelező a művészetkedvelőknek.",
+            "ro": "O scurtă plimbare de la Grote Markt, o necesitate pentru iubitorii de artă.",
+            "en": "A short walk from Grote Markt, a must-see for art lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum aan de Stroom (MAS)",
+            "hu": "Museum aan de Stroom (MAS)",
+            "ro": "Museum aan de Stroom (MAS)",
+            "en": "Museum aan de Stroom (MAS)"
+          },
+          "coords": [
+            4.4052,
+            51.2289
+          ],
+          "category": "museums",
+          "arrive_at": "14:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Fahren Sie mit der Rolltreppe gratis auf das Dach für eine tolle Aussicht.",
+            "hu": "Menjen fel ingyenesen a mozgólépcsőn a tetőre a nagyszerű kilátásért.",
+            "ro": "Urcați cu scara rulantă gratuit pe acoperiș pentru o priveliște superbă.",
+            "en": "Take the escalator to the roof for free for a great view."
+          }
+        },
+        {
+          "name": {
+            "de": "Het Steen",
+            "hu": "Het Steen",
+            "ro": "Het Steen",
+            "en": "Het Steen"
+          },
+          "coords": [
+            4.3976,
+            51.2224
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:42",
+          "stay_min": 45,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour hier und genießen Sie den Sonnenuntergang über dem Fluss.",
+            "hu": "Fejezze be itt a kerékpártúrát, és élvezze a naplementét a folyó felett.",
+            "ro": "Încheiați-vă turul cu bicicleta aici și bucurați-vă de apusul peste râu.",
+            "en": "End your bike tour here and enjoy the sunset over the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Tag auf zwei Rädern am prächtigen Hauptbahnhof und radeln Sie zur Cogels-Osylei, um die atemberaubende Architektur der Belle Époque zu bewundern. Am Vormittag tauchen Sie im Rubenshaus in die Welt des Barockmeisters ein, bevor Sie zum Grote Markt für eine wohlverdiente Mittagspause weiterradeln. Nach dem Mittagessen besuchen Sie die beeindruckende Kathedrale. Am Nachmittag radeln Sie zum Hafenviertel, um das moderne MAS zu erkunden und die Aussicht von seinem Dach zu genießen. Beenden Sie den Tag an der historischen Festung Het Steen und beobachten Sie den Sonnenuntergang über der Schelde.",
+        "hu": "Kezdje a napot két keréken a pompás központi pályaudvartól, és tekerjen el a Cogels-Osylei-re, hogy megcsodálja a lenyűgöző Belle Époque építészetet. Délelőtt merüljön el a barokk mester világában a Rubens-házban, mielőtt a Grote Marktra teker a jól megérdemelt ebédszünetre. Ebéd után látogasson el a lenyűgöző katedrálisba. Délután tekerjen a kikötőnegyedbe, hogy felfedezze a modern MAS múzeumot és élvezze a kilátást a tetejéről. Zárja a napot a történelmi Het Steen erődnél, figyelve a naplementét a Scheldt folyó felett.",
+        "ro": "Începeți ziua pe două roți de la magnifica Gară Centrală și pedalați spre Cogels-Osylei pentru a admira arhitectura uluitoare Belle Époque. Dimineața, scufundați-vă în lumea maestrului baroc la Casa Rubens înainte de a pedala spre Grote Markt pentru o pauză de prânz binemeritată. După prânz, vizitați impunătoarea catedrală. După-amiaza, pedalați spre zona portuară pentru a explora modernul MAS și a vă bucura de priveliștea de pe acoperiș. Încheiați ziua la fortăreața istorică Het Steen, urmărind apusul peste râul Scheldt.",
+        "en": "Start your day on two wheels from the magnificent Central Station and cycle to Cogels-Osylei to admire the stunning Belle Époque architecture. In the morning, delve into the world of the Baroque master at the Rubens House before cycling to the Grote Markt for a well-deserved lunch break. After lunch, visit the impressive cathedral. In the afternoon, cycle to the port district to explore the modern MAS and enjoy the view from its roof. End the day at the historic Het Steen fortress, watching the sunset over the Scheldt river."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "De Koninck Bier",
+            "tip": "Besuchen Sie die De Koninck Brauerei für eine Tour und Verkostung des lokalen 'Bolleke'."
+          },
+          {
+            "name": "Paling in 't Groen",
+            "tip": "Aal in grüner Soße, eine lokale Delikatesse. Probieren Sie es im 'Het Pomphuis'."
+          },
+          {
+            "name": "Antwerpse Handjes",
+            "tip": "Kekse oder Pralinen in Form einer Hand, das Symbol der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "De Koninck sör",
+            "tip": "Látogasson el a De Koninck sörfőzdébe egy túrára és a helyi 'Bolleke' kóstolására."
+          },
+          {
+            "name": "Paling in 't Groen",
+            "tip": "Angolna zöld szószban, egy helyi különlegesség. Kóstolja meg a 'Het Pomphuis'-ban."
+          },
+          {
+            "name": "Antwerpse Handjes",
+            "tip": "Kéz alakú kekszek vagy csokoládék, a város szimbóluma."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Berea De Koninck",
+            "tip": "Vizitați fabrica de bere De Koninck pentru un tur și o degustare a berii locale 'Bolleke'."
+          },
+          {
+            "name": "Paling in 't Groen",
+            "tip": "Anghilă în sos verde, o delicatesă locală. Încercați-o la 'Het Pomphuis'."
+          },
+          {
+            "name": "Antwerpse Handjes",
+            "tip": "Biscuiți sau ciocolată în formă de mână, simbolul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "De Koninck Beer",
+            "tip": "Visit the De Koninck brewery for a tour and tasting of the local 'Bolleke'."
+          },
+          {
+            "name": "Paling in 't Groen",
+            "tip": "Eel in green sauce, a local delicacy. Try it at 'Het Pomphuis'."
+          },
+          {
+            "name": "Antwerpse Handjes",
+            "tip": "Biscuits or chocolates in the shape of a hand, the city's symbol."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sint-Annatunnel",
+            "tip": "Gehen oder radeln Sie unter dem Fluss hindurch für eine einzigartige Perspektive und Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Begijnhof",
+            "tip": "Ein friedlicher, historischer Innenhof, versteckt im Universitätsviertel.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Park Spoor Noord",
+            "tip": "Ein weitläufiger Park auf einem ehemaligen Bahngelände, ideal zum Entspannen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sint-Annatunnel",
+            "tip": "Sétáljon vagy biciklizzen át a folyó alatt egy egyedi perspektíváért és csendért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Beginaudvar (Begijnhof)",
+            "tip": "Békés, történelmi udvar, elrejtve az egyetemi negyedben.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Park Spoor Noord",
+            "tip": "Tágas park egy egykori vasúti területen, ideális a pihenésre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tunelul Sf. Ana",
+            "tip": "Mergeți pe jos sau cu bicicleta pe sub râu pentru o perspectivă unică și liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Begijnhof",
+            "tip": "O curte istorică pașnică, ascunsă în cartierul universitar.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Spoor Noord",
+            "tip": "Un parc vast pe un fost teren feroviar, perfect pentru relaxare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Anna's Tunnel",
+            "tip": "Walk or cycle under the river for a unique perspective and quiet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Begijnhof",
+            "tip": "A peaceful historic courtyard hidden in the university quarter.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Park Spoor Noord",
+            "tip": "A vast park on a former railway site, perfect for relaxing.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Nationalestraat",
+            "tip": "Das Herz des Modeviertels mit den Flagship-Stores der Antwerpener Sechs."
+          },
+          {
+            "name": "Kloosterstraat",
+            "tip": "Bekannt für ihre Antiquitäten-, Vintage- und Designläden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nationalestraat",
+            "tip": "A divatnegyed szíve, az Antwerpeni Hatok zászlóshajó üzleteivel."
+          },
+          {
+            "name": "Kloosterstraat",
+            "tip": "Antik-, vintage- és dizájnboltjairól ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Nationalestraat",
+            "tip": "Inima cartierului modei, cu magazinele emblematice ale celor Șase din Anvers."
+          },
+          {
+            "name": "Kloosterstraat",
+            "tip": "Renumită pentru magazinele sale de antichități, vintage și design."
+          }
+        ],
+        "en": [
+          {
+            "name": "Nationalestraat",
+            "tip": "The heart of the fashion district, with the flagship stores of the Antwerp Six."
+          },
+          {
+            "name": "Kloosterstraat",
+            "tip": "Known for its antique, vintage, and design shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie das 'Velo Antwerpen' Fahrradverleihsystem, es ist günstig und praktisch.",
+          "Achten Sie auf Straßenbahnschienen, besonders bei Nässe.",
+          "Viele Straßen im Zentrum sind fahrradfreundlich.",
+          "Ein Helm wird empfohlen, ist aber nicht obligatorisch."
+        ],
+        "hu": [
+          "Használja a 'Velo Antwerpen' kerékpárkölcsönző rendszert, olcsó és praktikus.",
+          "Vigyázzon a villamossínekre, különösen nedves időben.",
+          "Sok belvárosi utca kerékpárbarát.",
+          "Sisak ajánlott, de nem kötelező."
+        ],
+        "ro": [
+          "Folosiți sistemul de închiriere de biciclete 'Velo Antwerpen', este ieftin și convenabil.",
+          "Fiți atenți la șinele de tramvai, mai ales pe carosabil umed.",
+          "Multe străzi din centru sunt prietenoase cu bicicliștii.",
+          "Casca este recomandată, dar nu obligatorie."
+        ],
+        "en": [
+          "Use the 'Velo Antwerpen' bike-sharing system; it's cheap and convenient.",
+          "Watch out for tram tracks, especially when wet.",
+          "Many streets in the center are bike-friendly.",
+          "A helmet is recommended but not mandatory."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:42",
+      "total_km": 8.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken am Bahnhof Berchem & Cogels-Osylei",
+            "hu": "Parkolás Berchem pályaudvarnál és Cogels-Osylei",
+            "ro": "Parcare la gara Berchem și Cogels-Osylei",
+            "en": "Parking at Berchem Station & Cogels-Osylei"
+          },
+          "coords": [
+            4.4285,
+            51.205
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und spazieren Sie durch die schönste Straße Antwerpens.",
+            "hu": "Parkoljon itt, és sétáljon végig Antwerpen legszebb utcáján.",
+            "ro": "Parcați aici și plimbați-vă pe cea mai frumoasă stradă din Anvers.",
+            "en": "Park here and take a walk down Antwerp's most beautiful street."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Parkhaus Grote Markt & Erkundung",
+            "hu": "Autózás a Grote Markt parkolóházhoz és felfedezés",
+            "ro": "Conduceți la parcarea Grote Markt și explorați",
+            "en": "Drive to Grote Markt parking & Exploration"
+          },
+          "coords": [
+            4.4005,
+            51.2208
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Zentrum und beginnen Sie Ihren Rundgang auf dem Hauptplatz.",
+            "hu": "Parkoljon a központban, és kezdje a sétát a főtéren.",
+            "ro": "Parcați în centru și începeți turul pietonal din piața principală.",
+            "en": "Park in the center and start your walking tour from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Liebfrauenkathedrale",
+            "hu": "Miasszonyunk-katedrális",
+            "ro": "Catedrala Maicii Domnului",
+            "en": "Cathedral of Our Lady"
+          },
+          "coords": [
+            4.4018,
+            51.2203
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz, um Rubens' Meisterwerke zu sehen.",
+            "hu": "Rövid séta a parkolótól Rubens mesterműveinek megtekintéséhez.",
+            "ro": "O scurtă plimbare de la parcare pentru a vedea capodoperele lui Rubens.",
+            "en": "A short walk from the parking garage to see Rubens' masterpieces."
+          }
+        },
+        {
+          "name": {
+            "de": "Het Steen",
+            "hu": "Het Steen",
+            "ro": "Het Steen",
+            "en": "Het Steen"
+          },
+          "coords": [
+            4.3976,
+            51.2224
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie am Flussufer entlang zur alten Burg für einen tollen Ausblick.",
+            "hu": "Sétáljon a folyóparton a régi várhoz a nagyszerű kilátásért.",
+            "ro": "Plimbați-vă pe malul râului până la vechiul castel pentru o priveliște minunată.",
+            "en": "Stroll along the riverbank to the old castle for a great view."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Museumsviertel & Rubenshaus",
+            "hu": "Autózás a múzeumi negyedbe és Rubens-ház",
+            "ro": "Conduceți spre Cartierul Muzeelor & Casa Rubens",
+            "en": "Drive to Museum Quarter & Rubens House"
+          },
+          "coords": [
+            4.4087,
+            51.2163
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Finden Sie einen Parkplatz in der Nähe und besuchen Sie das Haus des Malers.",
+            "hu": "Keressen parkolót a közelben, és látogasson el a festő házába.",
+            "ro": "Găsiți o parcare în apropiere și vizitați casa pictorului.",
+            "en": "Find parking nearby and visit the painter's house."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Plantin-Moretus",
+            "hu": "Plantin-Moretus Múzeum",
+            "ro": "Muzeul Plantin-Moretus",
+            "en": "Museum Plantin-Moretus"
+          },
+          "coords": [
+            4.3983,
+            51.2182
+          ],
+          "category": "museums",
+          "arrive_at": "15:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang zu diesem UNESCO-Juwel der Druckgeschichte.",
+            "hu": "Rövid séta a nyomdászat történetének ezen UNESCO gyöngyszeméhez.",
+            "ro": "O scurtă plimbare până la această bijuterie UNESCO a istoriei tiparului.",
+            "en": "A short walk to this UNESCO gem of printing history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autoreise im Stadtteil Zurenborg, parken Sie in der Nähe des Bahnhofs Berchem und spazieren Sie durch die prächtige Cogels-Osylei. Fahren Sie dann ins Stadtzentrum, parken Sie in der Nähe des Grote Markt und erkunden Sie den Platz, die Kathedrale und die Burg Het Steen zu Fuß. Dieser erste Cluster bietet Ihnen das historische Herz Antwerpens. Nach dem Mittagessen fahren Sie zum Museumsviertel. Parken Sie erneut und widmen Sie den Nachmittag dem Besuch des Rubenshauses und des nahegelegenen Plantin-Moretus-Museums, einem zweiten Cluster voller Kunst und Geschichte.",
+        "hu": "Kezdje autós utazását Zurenborg negyedben, parkoljon a Berchem pályaudvar közelében, és sétáljon végig a pazar Cogels-Osylei-n. Ezután hajtson be a városközpontba, parkoljon a Grote Markt közelében, és fedezze fel gyalog a teret, a katedrálist és a Het Steen várat. Ez az első klaszter Antwerpen történelmi szívét nyújtja. Ebéd után hajtson a múzeumi negyedbe. Parkoljon le ismét, és szentelje a délutánt a Rubens-ház és a közeli Plantin-Moretus Múzeum meglátogatásának, egy második, művészettel és történelemmel teli klaszternek.",
+        "ro": "Începeți călătoria cu mașina în districtul Zurenborg, parcați lângă gara Berchem și plimbați-vă pe magnificul Cogels-Osylei. Apoi, conduceți spre centrul orașului, parcați lângă Grote Markt și explorați piața, catedrala și castelul Het Steen pe jos. Acest prim grup vă oferă inima istorică a Anversului. După prânz, conduceți spre Cartierul Muzeelor. Parcați din nou și dedicați după-amiaza vizitării Casei Rubens și a Muzeului Plantin-Moretus din apropiere, un al doilea grup plin de artă și istorie.",
+        "en": "Start your car journey in the Zurenborg district, parking near Berchem station to walk along the magnificent Cogels-Osylei. Then, drive to the city center, park near the Grote Markt, and explore the square, the cathedral, and Het Steen castle on foot. This first cluster gives you the historic heart of Antwerp. After lunch, drive to the Museum Quarter. Park again and dedicate the afternoon to visiting the Rubens House and the nearby Plantin-Moretus Museum, a second cluster full of art and history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Jane",
+            "tip": "Für ein kulinarisches Erlebnis der Spitzenklasse, weit im Voraus buchen."
+          },
+          {
+            "name": "Frites Atelier",
+            "tip": "Gourmet-Pommes vom Sternekoch Sergio Herman."
+          },
+          {
+            "name": "RAS (Restaurant Aan de Stroom)",
+            "tip": "Speisen mit Panoramablick auf den Fluss, ideal für ein besonderes Abendessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Jane",
+            "tip": "Csúcskategóriás kulináris élményért foglaljon jóval előre."
+          },
+          {
+            "name": "Frites Atelier",
+            "tip": "Gourmet sültkrumpli Sergio Herman sztárséftől."
+          },
+          {
+            "name": "RAS (Restaurant Aan de Stroom)",
+            "tip": "Étkezés panorámás kilátással a folyóra, ideális egy különleges vacsorához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Jane",
+            "tip": "Pentru o experiență culinară de top, rezervați cu mult timp în avans."
+          },
+          {
+            "name": "Frites Atelier",
+            "tip": "Cartofi prăjiți gourmet de la bucătarul cu stele Michelin Sergio Herman."
+          },
+          {
+            "name": "RAS (Restaurant Aan de Stroom)",
+            "tip": "Luați masa cu o vedere panoramică asupra râului, ideal pentru o cină specială."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Jane",
+            "tip": "For a high-end fine dining experience, book far in advance."
+          },
+          {
+            "name": "Frites Atelier",
+            "tip": "Gourmet fries by star chef Sergio Herman."
+          },
+          {
+            "name": "RAS (Restaurant Aan de Stroom)",
+            "tip": "Dine with a panoramic river view, ideal for a special dinner."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Middelheimmuseum",
+            "tip": "Ein Skulpturenpark etwas außerhalb des Zentrums, leicht mit dem Auto erreichbar.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rivierenhof",
+            "tip": "Ein großer Provinzpark, perfekt für einen langen Spaziergang abseits des Trubels.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Linkeroever (Linkes Ufer)",
+            "tip": "Fahren Sie durch den Tunnel für die beste Skyline-Aussicht auf Antwerpen.",
+            "emoji": "🏙️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Middelheim Múzeum",
+            "tip": "Szoborpark kicsit a központon kívül, autóval könnyen megközelíthető.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rivierenhof",
+            "tip": "Nagy tartományi park, tökéletes egy hosszú sétához a nyüzsgéstől távol.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Linkeroever (Bal part)",
+            "tip": "Hajtson át az alagúton Antwerpen legjobb sziluettjének látványáért.",
+            "emoji": "🏙️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Muzeul Middelheim",
+            "tip": "Un parc de sculpturi chiar în afara centrului, ușor accesibil cu mașina.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rivierenhof",
+            "tip": "Un parc provincial mare, perfect pentru o plimbare lungă departe de agitație.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Linkeroever (Malul Stâng)",
+            "tip": "Conduceți prin tunel pentru cea mai bună priveliște a orizontului Anversului.",
+            "emoji": "🏙️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Middelheim Museum",
+            "tip": "A sculpture park just outside the center, easily reachable by car.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rivierenhof",
+            "tip": "A large provincial park, perfect for a long walk away from the hustle and bustle.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Linkeroever (Left Bank)",
+            "tip": "Drive through the tunnel for the best skyline view of Antwerp.",
+            "emoji": "🏙️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Schuttershofstraat",
+            "tip": "Die Straße für Luxusmarken und High-End-Designer."
+          },
+          {
+            "name": "Stadsfeestzaal",
+            "tip": "Ein restaurierter Festsaal, der in ein einzigartiges Einkaufszentrum umgewandelt wurde."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Schuttershofstraat",
+            "tip": "A luxusmárkák és csúcskategóriás tervezők utcája."
+          },
+          {
+            "name": "Stadsfeestzaal",
+            "tip": "Felújított díszterem, amelyet egyedülálló bevásárlóközponttá alakítottak át."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Schuttershofstraat",
+            "tip": "Strada pentru mărci de lux și designeri de top."
+          },
+          {
+            "name": "Stadsfeestzaal",
+            "tip": "O sală de festivități restaurată, transformată într-un centru comercial unic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Schuttershofstraat",
+            "tip": "The street for luxury brands and high-end designers."
+          },
+          {
+            "name": "Stadsfeestzaal",
+            "tip": "A restored festival hall converted into a unique shopping center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in Antwerpens Zentrum ist teuer; nutzen Sie P+R (Park and Ride) am Stadtrand.",
+          "Achten Sie auf die Umweltzone (LEZ); registrieren Sie Ihr Fahrzeug online, um Bußgelder zu vermeiden.",
+          "Der Verkehr kann stark sein, planen Sie zusätzliche Zeit für Fahrten ein.",
+          "Die meisten Parkhäuser sind sicher, aber lassen Sie keine Wertsachen sichtbar im Auto liegen."
+        ],
+        "hu": [
+          "A parkolás Antwerpen központjában drága; használja a P+R (Park and Ride) lehetőségeket a város szélén.",
+          "Figyeljen a környezetvédelmi zónára (LEZ); regisztrálja járművét online a bírságok elkerülése érdekében.",
+          "A forgalom sűrű lehet, tervezzen plusz időt az utazásokra.",
+          "A legtöbb parkolóház biztonságos, de ne hagyjon értékeket látható helyen az autóban."
+        ],
+        "ro": [
+          "Parcarea în centrul Anversului este scumpă; folosiți P+R (Park and Ride) la periferia orașului.",
+          "Atenție la Zona cu Emisii Scăzute (LEZ); înregistrați-vă vehiculul online pentru a evita amenzile.",
+          "Traficul poate fi aglomerat, planificați timp suplimentar pentru călătorii.",
+          "Majoritatea parcărilor sunt sigure, dar nu lăsați obiecte de valoare la vedere în mașină."
+        ],
+        "en": [
+          "Parking in Antwerp's center is expensive; use P+R (Park and Ride) on the city's outskirts.",
+          "Be aware of the Low Emission Zone (LEZ); register your vehicle online to avoid fines.",
+          "Traffic can be heavy, so plan extra time for drives.",
+          "Most parking garages are secure, but don't leave valuables visible in your car."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 7.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Hauptbahnhof & Zoo",
+            "hu": "Érkezés a főpályaudvarhoz és Állatkert",
+            "ro": "Sosire la Gara Centrală & Grădina Zoologică",
+            "en": "Arrival at Central Station & Zoo"
+          },
+          "coords": [
+            4.4214,
+            51.2173
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie am Bahnhof. Der Zoo ist direkt nebenan für einen morgendlichen Besuch.",
+            "hu": "Kezdje a pályaudvarnál. Az állatkert rögtön mellette van egy reggeli látogatáshoz.",
+            "ro": "Începeți la gară. Grădina zoologică este chiar alături pentru o vizită de dimineață.",
+            "en": "Start at the station. The Zoo is right next door for a morning visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Straßenbahn zum Museumsviertel & Rubenshaus",
+            "hu": "Villamossal a múzeumi negyedbe és Rubens-ház",
+            "ro": "Tramvai spre Cartierul Muzeelor & Casa Rubens",
+            "en": "Tram to Museum Quarter & Rubens House"
+          },
+          "coords": [
+            4.4087,
+            51.2163
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie die Straßenbahn (Linie 8 oder 10) bis zur Haltestelle Oper, dann ein kurzer Spaziergang.",
+            "hu": "Menjen a 8-as vagy 10-es villamossal az Opera megállóig, majd egy rövid séta.",
+            "ro": "Luați tramvaiul (linia 8 sau 10) până la stația Operă, apoi o scurtă plimbare.",
+            "en": "Take the tram (line 8 or 10) to the Opera stop, then a short walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Carolus-Borromeus-Kirche",
+            "hu": "Szent Károly Borromeus templom",
+            "ro": "Biserica Carolus Borromeus",
+            "en": "Carolus Borromeus Church"
+          },
+          "coords": [
+            4.403,
+            51.22
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eine beeindruckende Barockkirche, die oft übersehen wird. Ein kurzer Spaziergang vom Rubenshaus.",
+            "hu": "Lenyűgöző barokk templom, amelyet gyakran figyelmen kívül hagynak. Rövid séta a Rubens-háztól.",
+            "ro": "O biserică barocă impresionantă, adesea trecută cu vederea. O scurtă plimbare de la Casa Rubens.",
+            "en": "An impressive Baroque church often overlooked. A short walk from Rubens House."
+          }
+        },
+        {
+          "name": {
+            "de": "Grote Markt & Mittagessen",
+            "hu": "Grote Markt és ebéd",
+            "ro": "Grote Markt & Prânz",
+            "en": "Grote Markt & Lunch"
+          },
+          "coords": [
+            4.4013,
+            51.2211
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie Ihr Mittagessen mit Blick auf die historischen Zunfthäuser.",
+            "hu": "Ebédeljen a történelmi céhházakra néző kilátással.",
+            "ro": "Savurați prânzul cu vedere la casele istorice ale breslelor.",
+            "en": "Enjoy your lunch with a view of the historic guild houses."
+          }
+        },
+        {
+          "name": {
+            "de": "Straßenbahn zum Eilandje & MAS",
+            "hu": "Villamossal Eilandje-be és a MAS-ba",
+            "ro": "Tramvai spre Eilandje & MAS",
+            "en": "Tram to Eilandje & MAS"
+          },
+          "coords": [
+            4.4052,
+            51.2289
+          ],
+          "category": "museums",
+          "arrive_at": "14:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie die Straßenbahnlinie 7 zum MAS. Erkunden Sie das Museum und die Dachterrasse.",
+            "hu": "Menjen a 7-es villamossal a MAS-hoz. Fedezze fel a múzeumot és a tetőteraszt.",
+            "ro": "Luați tramvaiul 7 spre MAS. Explorați muzeul și acoperișul-terasă.",
+            "en": "Take tram line 7 to MAS. Explore the museum and rooftop terrace."
+          }
+        },
+        {
+          "name": {
+            "de": "Het Steen",
+            "hu": "Het Steen",
+            "ro": "Het Steen",
+            "en": "Het Steen"
+          },
+          "coords": [
+            4.3976,
+            51.2224
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang vom MAS entlang des Jachthafens, um den Tag ausklingen zu lassen.",
+            "hu": "Kellemes séta a MAS-tól a kikötő mentén a nap lezárásaként.",
+            "ro": "O plimbare plăcută de la MAS de-a lungul portului de iahturi pentru a încheia ziua.",
+            "en": "A lovely walk from MAS along the marina to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die Effizienz der öffentlichen Verkehrsmittel in Antwerpen. Beginnen Sie Ihren Tag am Hauptbahnhof und im benachbarten Zoo. Nehmen Sie dann eine Straßenbahn ins Zentrum, um das Rubenshaus und die ruhige Carolus-Borromeus-Kirche zu erkunden. Essen Sie auf dem Grote Markt zu Mittag. Am Nachmittag bringt Sie eine weitere Straßenbahn in das trendige Viertel Eilandje, wo Sie das MAS-Museum von unten bis oben erkunden können. Ein kurzer Spaziergang am Wasser entlang führt Sie schließlich zur Burg Het Steen, wo Sie den Tag ausklingen lassen können.",
+        "hu": "Használja ki Antwerpen tömegközlekedésének hatékonyságát. Kezdje a napot a főpályaudvarnál és a szomszédos állatkertben. Ezután villamossal utazzon be a központba, hogy felfedezze a Rubens-házat és a csendes Szent Károly Borromeus templomot. Ebédeljen a Grote Markton. Délután egy másik villamos elviszi Önt a divatos Eilandje negyedbe, ahol alulról felfelé fedezheti fel a MAS múzeumot. Végül egy rövid vízparti séta elvezeti a Het Steen várhoz, ahol lezárhatja a napot.",
+        "ro": "Profitați de eficiența transportului public din Anvers. Începeți ziua la Gara Centrală și la grădina zoologică adiacentă. Apoi, luați un tramvai spre centru pentru a explora Casa Rubens și liniștita Biserică Carolus Borromeus. Luați prânzul în Grote Markt. După-amiaza, un alt tramvai vă va duce în cartierul la modă Eilandje, unde puteți explora muzeul MAS de jos până sus. În cele din urmă, o scurtă plimbare pe malul apei vă va duce la castelul Het Steen pentru a încheia ziua.",
+        "en": "Take advantage of Antwerp's efficient public transport. Start your day at the Central Station and the adjacent zoo. Then, take a tram to the center to explore the Rubens House and the quiet Carolus Borromeus Church. Have lunch in the Grote Markt. In the afternoon, another tram will take you to the trendy Eilandje district, where you can explore the MAS museum from bottom to top. Finally, a short walk along the waterfront will lead you to Het Steen castle to end the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Elfde Gebod",
+            "tip": "Essen Sie umgeben von Hunderten von Heiligenstatuen in der Nähe der Kathedrale."
+          },
+          {
+            "name": "Native",
+            "tip": "Bio-Bistro mit Schwerpunkt auf lokalen und saisonalen Zutaten."
+          },
+          {
+            "name": "Fiskebar",
+            "tip": "Fantastische Meeresfrüchte in einer entspannten Atmosphäre, leicht mit der Straßenbahn erreichbar."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Elfde Gebod",
+            "tip": "Étkezzen több száz szent szobrával körülvéve a katedrális közelében."
+          },
+          {
+            "name": "Native",
+            "tip": "Bio bisztró, amely a helyi és szezonális alapanyagokra összpontosít."
+          },
+          {
+            "name": "Fiskebar",
+            "tip": "Fantasztikus tengeri ételek laza légkörben, villamossal könnyen megközelíthető."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Elfde Gebod",
+            "tip": "Luați masa înconjurat de sute de statui de sfinți lângă catedrală."
+          },
+          {
+            "name": "Native",
+            "tip": "Bistro organic axat pe ingrediente locale și de sezon."
+          },
+          {
+            "name": "Fiskebar",
+            "tip": "Fructe de mare fantastice într-o atmosferă relaxată, ușor accesibil cu tramvaiul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Elfde Gebod",
+            "tip": "Dine surrounded by hundreds of religious statues near the cathedral."
+          },
+          {
+            "name": "Native",
+            "tip": "Organic bistro with a focus on local and seasonal ingredients."
+          },
+          {
+            "name": "Fiskebar",
+            "tip": "Fantastic seafood in a relaxed atmosphere, easily reachable by tram."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vlaeykensgang",
+            "tip": "Eine geheime Gasse aus dem 16. Jahrhundert, eine Zeitreise abseits des Trubels.",
+            "emoji": "🤫"
+          },
+          {
+            "name": "Friedhof Schoonselhof",
+            "tip": "Antwerpens 'Père Lachaise', ein wunderschöner, parkähnlicher Friedhof.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Stadspark",
+            "tip": "Ein dreieckiger Park in der Nähe des Diamantenviertels, ideal für eine kurze Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vlaeykensgang",
+            "tip": "Egy titkos, 16. századi sikátor, időutazás a nyüzsgéstől távol.",
+            "emoji": "🤫"
+          },
+          {
+            "name": "Schoonselhof temető",
+            "tip": "Antwerpen 'Père Lachaise'-e, egy gyönyörű, parkszerű temető.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Stadspark",
+            "tip": "Háromszög alakú park a gyémántnegyed közelében, ideális egy rövid szünetre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vlaeykensgang",
+            "tip": "O alee secretă din secolul al XVI-lea, o călătorie în timp departe de agitație.",
+            "emoji": "🤫"
+          },
+          {
+            "name": "Cimitirul Schoonselhof",
+            "tip": "'Père Lachaise' al Anversului, un cimitir frumos, asemănător unui parc.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Stadspark",
+            "tip": "Un parc triunghiular lângă cartierul diamantelor, perfect pentru o scurtă pauză.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vlaeykensgang",
+            "tip": "A secret 16th-century alley, a trip back in time away from the crowds.",
+            "emoji": "🤫"
+          },
+          {
+            "name": "Schoonselhof Cemetery",
+            "tip": "Antwerp's 'Père Lachaise', a beautiful park-like cemetery.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Stadspark",
+            "tip": "A triangular park near the diamond district, perfect for a short break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Grand Bazar Shopping Center",
+            "tip": "Bequem über der U-Bahn-Station Groenplaats gelegen."
+          },
+          {
+            "name": "De Markten (Märkte)",
+            "tip": "Besuchen Sie den 'Vogelenmarkt' (Sonntag) oder den 'Exotische Markt' (Samstag) für ein lokales Erlebnis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grand Bazar bevásárlóközpont",
+            "tip": "Kényelmesen a Groenplaats metróállomás felett található."
+          },
+          {
+            "name": "De Markten (Piacok)",
+            "tip": "Látogasson el a 'Vogelenmarkt'-ra (vasárnap) vagy az 'Exotische Markt'-ra (szombat) egy helyi élményért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Grand Bazar",
+            "tip": "Situat convenabil deasupra stației de metrou Groenplaats."
+          },
+          {
+            "name": "De Markten (Piețe)",
+            "tip": "Vizitați 'Vogelenmarkt' (duminica) sau 'Piața Exotică' (sâmbăta) pentru o experiență locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grand Bazar Shopping Center",
+            "tip": "Conveniently located above the Groenplaats metro station."
+          },
+          {
+            "name": "De Markten (Markets)",
+            "tip": "Visit the 'Vogelenmarkt' (Sunday) or 'Exotic Market' (Saturday) for a local experience."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte oder eine 10-Fahrten-Karte (Lijnkaart) für das beste Preis-Leistungs-Verhältnis.",
+          "Die App 'De Lijn' ist nützlich für die Routenplanung in Echtzeit.",
+          "Validieren Sie Ihr Ticket bei jedem Einsteigen in eine Straßenbahn oder einen Bus.",
+          "Beachten Sie, dass die unterirdischen Straßenbahnen (Premetro) wie eine U-Bahn funktionieren."
+        ],
+        "hu": [
+          "Vásároljon napijegyet vagy 10 utazásos kártyát (Lijnkaart) a legjobb ár-érték arányért.",
+          "A 'De Lijn' alkalmazás hasznos a valós idejű útvonaltervezéshez.",
+          "Érvényesítse jegyét minden alkalommal, amikor felszáll egy villamosra vagy buszra.",
+          "Vegye figyelembe, hogy a földalatti villamosok (Premetro) metróként működnek."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi sau un card de 10 călătorii (Lijnkaart) pentru cel mai bun raport calitate-preț.",
+          "Aplicația 'De Lijn' este utilă pentru planificarea rutelor în timp real.",
+          "Validați-vă biletul de fiecare dată când urcați într-un tramvai sau autobuz.",
+          "Rețineți că tramvaiele subterane (Premetro) funcționează ca un metrou."
+        ],
+        "en": [
+          "Buy a day pass or a 10-journey card (Lijnkaart) for the best value.",
+          "The 'De Lijn' app is useful for real-time route planning.",
+          "Validate your ticket each time you board a tram or bus.",
+          "Be aware that the underground trams (Premetro) function like a metro system."
+        ]
+      }
+    }
+  }
+}

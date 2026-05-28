@@ -1,0 +1,1436 @@
+{
+  "city_id": "portugal-oia-cities-v2",
+  "anchor": {
+    "name": "Oia",
+    "coords": [
+      -8.6277,
+      40.7335
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 2.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kulturhaus von Oiã",
+            "hu": "Oiã Kultúrház",
+            "ro": "Casa de Cultură din Oiã",
+            "en": "House of Culture of Oiã"
+          },
+          "coords": [
+            -8.628,
+            40.7338
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie den lokalen Veranstaltungsplan, vielleicht gibt es eine Ausstellung.",
+            "hu": "Nézd meg a helyi programnaptárt, hátha van valamilyen kiállítás.",
+            "ro": "Verificați programul de evenimente locale, s-ar putea să prindeți o expoziție.",
+            "en": "Check the local event schedule, you might catch an exhibition."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptkirche von Oiã",
+            "hu": "Oiã Főtemploma",
+            "ro": "Biserica Matrice din Oiã",
+            "en": "Main Church of Oiã"
+          },
+          "coords": [
+            -8.6275,
+            40.7345
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:16",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie die kunstvollen Kachelarbeiten im Inneren.",
+            "hu": "Figyeld meg a belső tér művészi csempéit.",
+            "ro": "Observați lucrările elaborate de faianță din interior.",
+            "en": "Notice the ornate tile work inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Kreuz von Oiã",
+            "hu": "Oiã Keresztje",
+            "ro": "Crucea din Oiã",
+            "en": "Cross of Oiã"
+          },
+          "coords": [
+            -8.627,
+            40.7348
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:03",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für ein schnelles Foto und um die Steinmetzarbeit zu bewundern.",
+            "hu": "Remek hely egy gyors fotóhoz és a kőfaragás megcsodálásához.",
+            "ro": "Un loc excelent pentru o fotografie rapidă și pentru a admira sculptura în piatră.",
+            "en": "A great spot for a quick photo and to admire the stonework."
+          }
+        },
+        {
+          "name": {
+            "de": "Park am Rio Levira",
+            "hu": "Rio Levira Park",
+            "ro": "Parcul Râului Levira",
+            "en": "Levira River Park"
+          },
+          "coords": [
+            -8.6215,
+            40.736
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:34",
+          "stay_min": 120,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ideal für ein Picknick-Mittagessen. Es gibt schattige Plätze am Flussufer.",
+            "hu": "Ideális egy piknik ebédhez. Vannak árnyékos helyek a folyóparton.",
+            "ro": "Ideal pentru un prânz la picnic. Există locuri umbrite lângă malul râului.",
+            "en": "Perfect for a picnic lunch. There are shaded spots by the riverbank."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für den Auswanderer",
+            "hu": "Kivándorlók Emlékműve",
+            "ro": "Monumentul Emigrantului",
+            "en": "Monument to the Emigrant"
+          },
+          "coords": [
+            -8.625,
+            40.732
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:50",
+          "stay_min": 20,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein ergreifendes Denkmal, das der portugiesischen Diaspora gewidmet ist.",
+            "hu": "Megrendítő emlékmű a portugál diaszpóra tiszteletére.",
+            "ro": "Un monument emoționant dedicat diasporei portugheze.",
+            "en": "A poignant monument dedicated to the Portuguese diaspora."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle des Heiligen Antonius",
+            "hu": "Szent Antal-kápolna",
+            "ro": "Capela Sfântului Antoniu",
+            "en": "Chapel of Saint Anthony"
+          },
+          "coords": [
+            -8.626,
+            40.7315
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eine kleine, ruhige Kapelle, perfekt für einen Moment der Besinnung.",
+            "hu": "Kicsi, békés kápolna, tökéletes egy pillanatnyi elmélkedésre.",
+            "ro": "O capelă mică și liniștită, perfectă pentru un moment de reflecție.",
+            "en": "A small, peaceful chapel, perfect for a moment of reflection."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang durch Oiã beginnt im kulturellen Herzen der Stadt und führt Sie zur spirituellen Ruhe der Hauptkirche. Am Vormittag entdecken Sie die feinen Details lokaler Denkmäler. Der Mittag ist einem entspannten Picknick im Park am Rio Levira gewidmet, umgeben von Natur. Am Nachmittag tauchen Sie tiefer in die lokale Geschichte ein, mit Besuchen von Denkmälern, die von der Vergangenheit der Gemeinde zeugen. Der Tag endet mit einem ruhigen Moment in einer der charmanten Kapellen von Oiã.",
+        "hu": "Oiã-i sétája a város kulturális szívében kezdődik, majd a főtemplom spirituális nyugalmához vezet. Délelőtt felfedezi a helyi emlékművek finom részleteit. Az ebédidőt egy pihentető pikniknek szenteli a Rio Levira parkjában, a természet lágy ölén. Délután mélyebbre merül a helyi történelemben, meglátogatva a közösség múltjáról tanúskodó emlékműveket. A nap Oiã egyik bájos kápolnájában, csendes elmélkedéssel zárul.",
+        "ro": "Plimbarea dvs. prin Oiã începe în inima culturală a orașului, ducându-vă spre liniștea spirituală a Bisericii Matrice. Dimineața este petrecută descoperind detaliile fine ale monumentelor locale. Prânzul este dedicat unui picnic relaxant în Parcul Râului Levira, înconjurat de natură. După-amiaza vă adâncește în istoria locală, cu vizite la monumente care vorbesc despre trecutul comunității. Ziua se încheie cu un moment de liniște într-una dintre capelele fermecătoare din Oiã.",
+        "en": "Your walking tour of Oiã begins in the town's cultural heart, leading to the spiritual calm of the Main Church. The morning is spent discovering the fine details of local monuments. Midday is dedicated to a relaxing picnic in the Levira River Park, surrounded by nature. In the afternoon, you'll delve deeper into local history with visits to monuments that speak of the community's past. The day concludes with a quiet moment in one of Oiã's charming chapels."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Leitão à Bairrada",
+            "tip": "Probieren Sie das berühmte Spanferkel der Region in einem der lokalen Restaurants."
+          },
+          {
+            "name": "Rojões",
+            "tip": "Ein traditionelles Gericht aus mariniertem und gebratenem Schweinefleisch, oft mit Kartoffeln serviert."
+          },
+          {
+            "name": "Bacalhau à Lagareiro",
+            "tip": "Gebackener Kabeljau mit Olivenöl, Knoblauch und Kartoffeln – ein portugiesischer Klassiker."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Leitão à Bairrada",
+            "tip": "Kóstolja meg a régió híres szopós malacát a helyi éttermek egyikében."
+          },
+          {
+            "name": "Rojões",
+            "tip": "Hagyományos pácolt, sült sertéshúsétel, gyakran krumplival tálalva."
+          },
+          {
+            "name": "Bacalhau à Lagareiro",
+            "tip": "Sült tőkehal olívaolajjal, fokhagymával és burgonyával – egy portugál klasszikus."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Leitão à Bairrada",
+            "tip": "Încercați renumitul purcel de lapte al regiunii la unul dintre restaurantele locale."
+          },
+          {
+            "name": "Rojões",
+            "tip": "Un fel de mâncare tradițional din carne de porc marinată și prăjită, adesea servit cu cartofi."
+          },
+          {
+            "name": "Bacalhau à Lagareiro",
+            "tip": "Cod copt cu ulei de măsline, usturoi și cartofi - un clasic portughez."
+          }
+        ],
+        "en": [
+          {
+            "name": "Leitão à Bairrada",
+            "tip": "Try the region's famous suckling pig at one of the local restaurants."
+          },
+          {
+            "name": "Rojões",
+            "tip": "A traditional dish of marinated and fried pork, often served with potatoes."
+          },
+          {
+            "name": "Bacalhau à Lagareiro",
+            "tip": "Baked cod with olive oil, garlic, and potatoes - a Portuguese classic."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Rio Levira",
+            "tip": "Finden Sie einen ruhigen Platz am Fluss für einen friedlichen Nachmittag.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kapelle des Heiligen Rochus",
+            "tip": "Eine kleine, oft übersehene Kapelle, die Ruhe und Frieden bietet.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang am späten Nachmittag",
+            "tip": "Schlendern Sie durch die ruhigeren Seitenstraßen abseits des Zentrums.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rio Levira partja",
+            "tip": "Keressen egy csendes helyet a folyónál egy békés délutánhoz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent Rókus-kápolna",
+            "tip": "Egy apró, gyakran figyelmen kívül hagyott kápolna, amely csendet és nyugalmat kínál.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Késő délutáni séta",
+            "tip": "Sétáljon végig a központtól távolabb eső, csendesebb mellékutcákon.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Levira",
+            "tip": "Găsiți un loc liniștit lângă râu pentru o după-amiază pașnică.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Capela Sfântului Rochus",
+            "tip": "O capelă mică, adesea trecută cu vederea, care oferă liniște și pace.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare de după-amiază târzie",
+            "tip": "Plimbați-vă pe străzile laterale mai liniștite, departe de centru.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Levira River",
+            "tip": "Find a quiet spot by the river for a peaceful afternoon.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Chapel of São Roque",
+            "tip": "A small, often overlooked chapel offering peace and quiet.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Late afternoon stroll",
+            "tip": "Wander through the quieter side streets away from the center.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Märkten für frische Produkte und handwerkliche Erzeugnisse."
+          },
+          {
+            "name": "Regionale Weine",
+            "tip": "Die Region Bairrada ist für ihre Weine bekannt; besuchen Sie ein lokales Geschäft für eine Flasche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen helyi piacokat friss termékekért és kézműves árukért."
+          },
+          {
+            "name": "Regionális borok",
+            "tip": "A Bairrada régió híres borairól; látogasson el egy helyi boltba egy üvegért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați piețele locale pentru produse proaspete și produse artizanale."
+          },
+          {
+            "name": "Vinuri regionale",
+            "tip": "Regiunea Bairrada este cunoscută pentru vinurile sale; vizitați un magazin local pentru o sticlă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for local markets for fresh produce and artisan goods."
+          },
+          {
+            "name": "Regional Wines",
+            "tip": "The Bairrada region is known for its wines; visit a local shop for a bottle."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den größten Teil des Tages auf Kopfsteinpflasterstraßen verbringen werden.",
+          "Nehmen Sie Wasser mit, besonders in den wärmeren Monaten.",
+          "Die meisten Sehenswürdigkeiten liegen nahe beieinander, was einen gemütlichen Spaziergang ermöglicht.",
+          "Planen Sie ein traditionelles portugiesisches Mittagessen in einem der lokalen Restaurants ein."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a nap nagy részét macskaköves utcákon fogja tölteni.",
+          "Vigyen magával vizet, különösen a melegebb hónapokban.",
+          "A legtöbb látnivaló közel van egymáshoz, ami kellemes sétát tesz lehetővé.",
+          "Tervezzen be egy hagyományos portugál ebédet a helyi éttermek egyikében."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți petrece cea mai mare parte a zilei pe străzi pietruite.",
+          "Luați apă cu dvs., mai ales în lunile mai calde.",
+          "Majoritatea atracțiilor sunt apropiate una de cealaltă, permițând o plimbare pe îndelete.",
+          "Planificați un prânz tradițional portughez la unul dintre restaurantele locale."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be spending most of the day on cobblestone streets.",
+          "Bring water with you, especially during the warmer months.",
+          "Most attractions are close to each other, allowing for a leisurely pace.",
+          "Plan for a traditional Portuguese lunch at one of the local eateries."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof von Oiã",
+            "hu": "Oiã vasútállomás",
+            "ro": "Gara din Oiã",
+            "en": "Oiã Train Station"
+          },
+          "coords": [
+            -8.635,
+            40.73
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle Architektur des Bahnhofs, bevor Sie Ihre Tour beginnen.",
+            "hu": "Csodálja meg az állomás hagyományos építészetét, mielőtt elindulna a túrára.",
+            "ro": "Admirați arhitectura tradițională a gării înainte de a începe turul.",
+            "en": "Admire the traditional architecture of the station before starting your tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für den Auswanderer",
+            "hu": "Kivándorlók Emlékműve",
+            "ro": "Monumentul Emigrantului",
+            "en": "Monument to the Emigrant"
+          },
+          "coords": [
+            -8.625,
+            40.732
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:41",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer Halt, um über die Geschichten der portugiesischen Emigration nachzudenken.",
+            "hu": "Egy rövid megálló, hogy elgondolkodjunk a portugál kivándorlás történetein.",
+            "ro": "O oprire scurtă pentru a reflecta asupra poveștilor emigrației portugheze.",
+            "en": "A brief stop to reflect on the stories of Portuguese emigration."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturhaus von Oiã",
+            "hu": "Oiã Kultúrház",
+            "ro": "Casa de Cultură din Oiã",
+            "en": "House of Culture of Oiã"
+          },
+          "coords": [
+            -8.628,
+            40.7338
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:04",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie die aktuellen Ausstellungen.",
+            "hu": "Zárja le a biciklit, és fedezze fel az aktuális kiállításokat.",
+            "ro": "Parcați bicicleta și explorați expozițiile curente.",
+            "en": "Park your bike and explore any current exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptkirche von Oiã",
+            "hu": "Oiã Főtemploma",
+            "ro": "Biserica Matrice din Oiã",
+            "en": "Main Church of Oiã"
+          },
+          "coords": [
+            -8.6275,
+            40.7345
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine beeindruckende Kirche im Herzen der Stadt.",
+            "hu": "Lenyűgöző templom a város szívében.",
+            "ro": "O biserică impresionantă în inima orașului.",
+            "en": "An impressive church in the heart of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Park am Rio Levira",
+            "hu": "Rio Levira Park",
+            "ro": "Parcul Râului Levira",
+            "en": "Levira River Park"
+          },
+          "coords": [
+            -8.6215,
+            40.736
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:36",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für eine Mittagspause. Genießen Sie die Naturpfade.",
+            "hu": "Tökéletes hely egy ebédszünetre. Élvezze a természet ösvényeit.",
+            "ro": "Un loc perfect pentru o pauză de prânz. Bucurați-vă de potecile naturale.",
+            "en": "A perfect spot for a lunch break. Enjoy the nature trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle des Heiligen Rochus",
+            "hu": "Szent Rókus-kápolna",
+            "ro": "Capela Sfântului Rochus",
+            "en": "Chapel of São Roque"
+          },
+          "coords": [
+            -8.629,
+            40.738
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:12",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine ruhige, kleine Kapelle, die einen kurzen Besuch wert ist.",
+            "hu": "Egy csendes, kis kápolna, ami megér egy rövid látogatást.",
+            "ro": "O capelă liniștită și mică, care merită o vizită scurtă.",
+            "en": "A quiet, small chapel worth a quick visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle des Heiligen Antonius",
+            "hu": "Szent Antal-kápolna",
+            "ro": "Capela Sfântului Antoniu",
+            "en": "Chapel of Saint Anthony"
+          },
+          "coords": [
+            -8.626,
+            40.7315
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:48",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem Besuch dieser schönen Kapelle.",
+            "hu": "Zárja a túrát ennek a szép kápolnának a meglátogatásával.",
+            "ro": "Încheiați turul cu o vizită la această capelă frumoasă.",
+            "en": "End your tour with a visit to this lovely chapel."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt am historischen Bahnhof von Oiã und führt Sie schnell zu bedeutenden lokalen Denkmälern. Der Vormittag ist der Erkundung des kulturellen und spirituellen Zentrums der Stadt gewidmet. Für das Mittagessen machen Sie eine längere Pause im grünen Park am Rio Levira, einem idealen Ort zum Entspannen. Der Nachmittag führt Sie zu den ruhigeren, abgelegeneren Kapellen der Stadt, die jeweils eine friedliche Atmosphäre bieten. Die Route ist so konzipiert, dass sie kurze, angenehme Fahrten zwischen den Sehenswürdigkeiten bietet.",
+        "hu": "Kerékpártúrája Oiã történelmi vasútállomásánál kezdődik, ahonnan gyorsan eljut a fontos helyi emlékművekhez. A délelőtt a város kulturális és spirituális központjának felfedezésével telik. Ebédre hosszabb pihenőt tart a zöldellő Rio Levira Parkban, amely ideális hely a kikapcsolódásra. A délután a város csendesebb, félreesőbb kápolnáihoz vezet, melyek mindegyike békés légkört kínál. Az útvonalat úgy alakították ki, hogy rövid, élvezetes szakaszokat biztosítson a látnivalók között.",
+        "ro": "Turul pe bicicletă începe la gara istorică din Oiã, ducându-vă rapid la monumentele locale semnificative. Dimineața este dedicată explorării centrului cultural și spiritual al orașului. Pentru prânz, veți face o pauză mai lungă în Parcul verde al Râului Levira, un loc ideal pentru relaxare. După-amiaza vă poartă spre capelele mai liniștite și mai retrase ale orașului, fiecare oferind o atmosferă pașnică. Traseul este conceput pentru a oferi plimbări scurte și plăcute între punctele de atracție.",
+        "en": "Your bike tour starts at Oiã's historic train station, quickly leading you to significant local monuments. The morning is dedicated to exploring the town's cultural and spiritual center. For lunch, you'll take a longer break at the leafy Levira River Park, an ideal spot to relax. The afternoon takes you to the town's quieter, more secluded chapels, each offering a peaceful atmosphere. The route is designed to offer short, enjoyable rides between points of interest."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chanfana",
+            "tip": "Ein herzhafter Eintopf aus Ziegenfleisch, langsam in Rotwein gekocht, perfekt nach einer Radtour."
+          },
+          {
+            "name": "Süßigkeiten aus Ovos Moles",
+            "tip": "Probieren Sie die lokalen Süßigkeiten aus Eigelb und Zucker, eine Spezialität aus der Nähe von Aveiro."
+          },
+          {
+            "name": "Caldo Verde",
+            "tip": "Eine leichte und erfrischende Suppe, ideal für eine schnelle Stärkung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chanfana",
+            "tip": "Kecskehúsból készült, vörösborban lassan főtt, kiadós pörkölt, tökéletes egy kerékpártúra után."
+          },
+          {
+            "name": "Ovos Moles édességek",
+            "tip": "Kóstolja meg a helyi, tojássárgájából és cukorból készült édességeket, Aveiro környékének specialitását."
+          },
+          {
+            "name": "Caldo Verde",
+            "tip": "Könnyű és frissítő leves, ideális egy gyors feltöltődéshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chanfana",
+            "tip": "O tocană consistentă de capră gătită lent în vin roșu, perfectă după o plimbare cu bicicleta."
+          },
+          {
+            "name": "Dulciuri Ovos Moles",
+            "tip": "Încercați dulciurile locale făcute din gălbenuș de ou și zahăr, o specialitate din apropiere de Aveiro."
+          },
+          {
+            "name": "Caldo Verde",
+            "tip": "O supă ușoară și răcoritoare, ideală pentru o refacere rapidă a energiei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chanfana",
+            "tip": "A hearty goat stew slow-cooked in red wine, perfect after a bike ride."
+          },
+          {
+            "name": "Ovos Moles sweets",
+            "tip": "Try the local sweets made from egg yolks and sugar, a specialty from nearby Aveiro."
+          },
+          {
+            "name": "Caldo Verde",
+            "tip": "A light and refreshing soup, ideal for a quick energy boost."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrradweg am Fluss",
+            "tip": "Genießen Sie eine ruhige Fahrt entlang des Rio Levira.",
+            "emoji": "🚴"
+          },
+          {
+            "name": "Kapelle des Heiligen Antonius",
+            "tip": "Ein friedlicher Ort am Rande der Stadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang vom Cruzeiro",
+            "tip": "Finden Sie einen guten Aussichtspunkt in der Nähe des Kreuzes, um den Tag ausklingen zu lassen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Folyóparti kerékpárút",
+            "tip": "Élvezze a csendes tekerést a Rio Levira mentén.",
+            "emoji": "🚴"
+          },
+          {
+            "name": "Szent Antal-kápolna",
+            "tip": "Békés hely a város szélén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a Kereszttől",
+            "tip": "Keressen egy jó kilátópontot a kereszt közelében, hogy lezárja a napot.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de pe malul râului",
+            "tip": "Bucurați-vă de o plimbare liniștită de-a lungul râului Levira.",
+            "emoji": "🚴"
+          },
+          {
+            "name": "Capela Sfântului Antoniu",
+            "tip": "Un loc pașnic la marginea orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus de soare de la Cruce",
+            "tip": "Găsiți un punct de belvedere bun lângă cruce pentru a încheia ziua.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Riverside bike path",
+            "tip": "Enjoy a quiet ride along the Levira River.",
+            "emoji": "🚴"
+          },
+          {
+            "name": "Chapel of Saint Anthony",
+            "tip": "A peaceful spot on the edge of town.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset from the Cross",
+            "tip": "Find a good vantage point near the cross to end the day.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Halten Sie für traditionelles Brot und Gebäck an, um Energie für Ihre Fahrt zu tanken."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Suchen Sie nach kleinen Läden, die lokale Keramik oder Textilien verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékség",
+            "tip": "Álljon meg egy hagyományos kenyérért és péksüteményért, hogy energiát gyűjtsön a tekeréshez."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keressen kis boltokat, amelyek helyi kerámiát vagy textíliákat árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie locală",
+            "tip": "Opriți-vă pentru pâine și produse de patiserie tradiționale pentru a vă alimenta plimbarea."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Căutați magazine mici care vând ceramică sau textile locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bakery",
+            "tip": "Stop for some traditional bread and pastries to fuel your ride."
+          },
+          {
+            "name": "Artisan Shops",
+            "tip": "Look for small shops selling local pottery or textiles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad, bevor Sie losfahren, insbesondere die Bremsen und Reifen.",
+          "Einige Straßen können schmal sein, also fahren Sie vorsichtig.",
+          "Schließen Sie Ihr Fahrrad an sicheren Orten ab, wenn Sie Sehenswürdigkeiten besuchen.",
+          "Die Route ist relativ flach und für die meisten Fitnesslevel geeignet."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját, különösen a fékeket és a gumikat.",
+          "Néhány utca szűk lehet, ezért óvatosan közlekedjen.",
+          "A látnivalók megtekintése közben zárja le a kerékpárt biztonságos helyen.",
+          "Az útvonal viszonylag sík, és a legtöbb edzettségi szintnek megfelel."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni, în special frânele și anvelopele.",
+          "Unele străzi pot fi înguste, așa că mergeți cu prudență.",
+          "Legați-vă bicicleta în locuri sigure atunci când vizitați obiectivele turistice.",
+          "Traseul este relativ plat și potrivit pentru majoritatea nivelurilor de fitness."
+        ],
+        "en": [
+          "Check your bike before you start, especially the brakes and tires.",
+          "Some streets can be narrow, so ride with caution.",
+          "Lock your bike in secure places when visiting attractions.",
+          "The route is relatively flat and suitable for most fitness levels."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Zentrum: Hauptkirche von Oiã",
+            "hu": "Központi Klaszter: Oiã Főtemploma",
+            "ro": "Cluster Centru: Biserica Matrice din Oiã",
+            "en": "Center Cluster: Main Church of Oiã"
+          },
+          "coords": [
+            -8.6275,
+            40.7345
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und beginnen Sie Ihren Rundgang durch das Zentrum.",
+            "hu": "Parkoljon a közelben, és kezdje a központi sétát.",
+            "ro": "Parcați în apropiere și începeți turul pe jos al centrului.",
+            "en": "Park nearby and begin your walking tour of the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Zentrum: Kulturhaus von Oiã",
+            "hu": "Központi Klaszter: Oiã Kultúrház",
+            "ro": "Cluster Centru: Casa de Cultură din Oiã",
+            "en": "Center Cluster: House of Culture of Oiã"
+          },
+          "coords": [
+            -8.628,
+            40.7338
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Kirche entfernt, entdecken Sie die lokale Kunstszene.",
+            "hu": "Egy rövid séta a templomtól, fedezze fel a helyi művészeti életet.",
+            "ro": "La o scurtă plimbare de biserică, descoperiți scena artistică locală.",
+            "en": "A short walk from the church, discover the local arts scene."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Flussufer: Park am Rio Levira",
+            "hu": "Folyóparti Klaszter: Rio Levira Park",
+            "ro": "Cluster Malul Râului: Parcul Râului Levira",
+            "en": "Riverbank Cluster: Levira River Park"
+          },
+          "coords": [
+            -8.6215,
+            40.736
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:08",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Park für eine ausgedehnte Mittagspause und einen Spaziergang.",
+            "hu": "Vezessen a parkhoz egy hosszabb ebédszünetre és sétára.",
+            "ro": "Conduceți la parc pentru o pauză de prânz extinsă și o plimbare.",
+            "en": "Drive to the park for an extended lunch break and a walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Bahnhof: Bahnhof von Oiã",
+            "hu": "Vasútállomás Klaszter: Oiã vasútállomás",
+            "ro": "Cluster Gară: Gara din Oiã",
+            "en": "Train Station Cluster: Oiã Train Station"
+          },
+          "coords": [
+            -8.635,
+            40.73
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:13",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein kurzer Abstecher, um das historische Bahnhofsgebäude zu sehen.",
+            "hu": "Egy gyors kitérő a történelmi állomásépület megtekintéséhez.",
+            "ro": "Un scurt ocol pentru a vedea clădirea istorică a gării.",
+            "en": "A quick detour to see the historic station building."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Bahnhof: Denkmal für den Auswanderer",
+            "hu": "Vasútállomás Klaszter: Kivándorlók Emlékműve",
+            "ro": "Cluster Gară: Monumentul Emigrantului",
+            "en": "Train Station Cluster: Monument to the Emigrant"
+          },
+          "coords": [
+            -8.625,
+            40.732
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:49",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Bahnhof aus leicht zu Fuß erreichbar.",
+            "hu": "Könnyen megközelíthető gyalog az állomásról.",
+            "ro": "Ușor de accesat pe jos de la gară.",
+            "en": "Easily accessible on foot from the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Bahnhof: Kapelle des Heiligen Antonius",
+            "hu": "Vasútállomás Klaszter: Szent Antal-kápolna",
+            "ro": "Cluster Gară: Capela Sfântului Antoniu",
+            "en": "Train Station Cluster: Chapel of Saint Anthony"
+          },
+          "coords": [
+            -8.626,
+            40.7315
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:11",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein friedlicher Abschluss Ihrer Erkundungstour durch die Stadt.",
+            "hu": "A város felfedezésének békés lezárása.",
+            "ro": "O încheiere pașnică a explorării orașului.",
+            "en": "A peaceful end to your exploration of the town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie Oiã in Clustern erkunden. Beginnen Sie im Zentrum, wo Sie Ihr Auto parken und die Hauptkirche und das Kulturhaus zu Fuß erkunden. Am Vormittag genießen Sie die zentrale Atmosphäre. Fahren Sie mittags zum Rio Levira Park für ein entspanntes Mittagessen in der Natur. Der Nachmittag ist einem anderen Teil der Stadt gewidmet; parken Sie in der Nähe des Bahnhofs und entdecken Sie das industrielle Erbe sowie nahegelegene Denkmäler und Kapellen. Diese Methode kombiniert den Komfort des Autofahrens mit angenehmen Spaziergängen.",
+        "hu": "Autóval klaszterekben fedezheti fel Oiã-t. Kezdje a központban, ahol leparkolhatja az autóját, és gyalog felfedezheti a főtemplomot és a kultúrházat. Délelőtt élvezze a központi légkört. Ebédidőben vezessen a Rio Levira Parkba egy pihentető, természetközeli ebédért. A délután a város egy másik részének szól; parkoljon a vasútállomás közelében, és fedezze fel az ipari örökséget, valamint a közeli emlékműveket és kápolnákat. Ez a módszer ötvözi az autóvezetés kényelmét a kellemes sétákkal.",
+        "ro": "Cu mașina, puteți explora Oiã în clustere. Începeți în centru, unde parcați mașina și explorați Biserica Matrice și Casa de Cultură pe jos. Dimineața vă bucurați de atmosfera centrală. La prânz, conduceți la Parcul Râului Levira pentru un prânz relaxant în natură. După-amiaza este dedicată unei alte zone a orașului; parcați lângă gară și descoperiți patrimoniul industrial și monumentele și capelele din apropiere. Această metodă combină confortul mașinii cu plimbări plăcute.",
+        "en": "With a car, you can explore Oiã in clusters. Start in the center, where you'll park and explore the Main Church and House of Culture on foot. The morning is for soaking up the central atmosphere. For midday, drive to the Levira River Park for a relaxing lunch surrounded by nature. The afternoon is dedicated to another area of town; park near the train station to discover industrial heritage and nearby monuments and chapels. This method mixes the convenience of driving with pleasant walks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale 'Tasca'",
+            "tip": "Suchen Sie eine kleine, familiengeführte Taverne für authentische Tagesgerichte."
+          },
+          {
+            "name": "Frischer Fisch",
+            "tip": "Obwohl es im Landesinneren liegt, bringen viele Restaurants täglich frischen Fisch von der nahen Küste."
+          },
+          {
+            "name": "Vinho da Bairrada",
+            "tip": "Kombinieren Sie Ihr Essen mit einem Rot- oder Schaumwein aus der Region Bairrada."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi 'Tasca'",
+            "tip": "Keressen egy kis, családi tulajdonban lévő vendéglőt autentikus napi menükért."
+          },
+          {
+            "name": "Friss hal",
+            "tip": "Bár a szárazföldön van, sok étterem naponta hoz friss halat a közeli partról."
+          },
+          {
+            "name": "Vinho da Bairrada",
+            "tip": "Párosítsa ételét egy helyi Bairrada vörös- vagy habzóborral."
+          }
+        ],
+        "ro": [
+          {
+            "name": "'Tasca' locală",
+            "tip": "Căutați o mică tavernă de familie pentru mâncăruri autentice ale zilei."
+          },
+          {
+            "name": "Pește proaspăt",
+            "tip": "Deși este în interior, multe restaurante aduc zilnic pește proaspăt de pe coasta din apropiere."
+          },
+          {
+            "name": "Vinho da Bairrada",
+            "tip": "Asortați mâncarea cu un vin roșu sau spumant local din regiunea Bairrada."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local 'Tasca'",
+            "tip": "Find a small, family-run tavern for authentic daily specials."
+          },
+          {
+            "name": "Fresh Fish",
+            "tip": "Despite being inland, many restaurants bring in fresh fish daily from the nearby coast."
+          },
+          {
+            "name": "Vinho da Bairrada",
+            "tip": "Pair your meal with a local red or sparkling wine from the Bairrada region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt über Land",
+            "tip": "Nehmen Sie sich Zeit für eine Fahrt durch die ländliche Umgebung von Oiã.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Versteckte Kapellen",
+            "tip": "Suchen Sie nach den kleineren, weniger besuchten Kapellen für einen Moment der Stille.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Park am frühen Morgen",
+            "tip": "Besuchen Sie den Rio Levira Park, bevor die Menschenmassen eintreffen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vidéki autózás",
+            "tip": "Szánjon időt egy autózásra Oiã vidéki környezetében.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Rejtett kápolnák",
+            "tip": "Keressen kisebb, kevésbé látogatott kápolnákat egy csendes pillanatért.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kora reggeli park",
+            "tip": "Látogasson el a Rio Levira Parkba, mielőtt a tömeg megérkezik.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare cu mașina prin mediul rural",
+            "tip": "Luați-vă timp pentru o plimbare cu mașina prin peisajul rural din jurul Oiã.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Capele ascunse",
+            "tip": "Căutați capelele mai mici și mai puțin vizitate pentru un moment de liniște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parc dimineața devreme",
+            "tip": "Vizitați Parcul Râului Levira înainte de a se aglomera.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Countryside Drive",
+            "tip": "Take some time to drive through the rural scenery surrounding Oiã.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Hidden Chapels",
+            "tip": "Seek out the smaller, less-visited chapels for a moment of silence.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Early Morning Park",
+            "tip": "Visit the Levira River Park before the crowds arrive.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Straßenstände",
+            "tip": "Halten Sie Ausschau nach Ständen, die lokale Produkte wie Honig oder Olivenöl verkaufen."
+          },
+          {
+            "name": "Weingüter der Bairrada",
+            "tip": "Wenn Sie Zeit haben, besuchen Sie ein lokales Weingut für eine Verkostung und zum Kauf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Útszéli árusok",
+            "tip": "Figyeljen az út menti standokra, ahol helyi termékeket, például mézet vagy olívaolajat árulnak."
+          },
+          {
+            "name": "Bairrada borászatok",
+            "tip": "Ha van ideje, látogasson el egy helyi pincészetbe kóstolóra és vásárlásra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Standuri de pe marginea drumului",
+            "tip": "Fiți atenți la standurile care vând produse locale, cum ar fi miere sau ulei de măsline."
+          },
+          {
+            "name": "Crame din Bairrada",
+            "tip": "Dacă aveți timp, vizitați o cramă locală pentru o degustare și pentru a cumpăra."
+          }
+        ],
+        "en": [
+          {
+            "name": "Roadside Stalls",
+            "tip": "Keep an eye out for stalls selling local produce like honey or olive oil."
+          },
+          {
+            "name": "Bairrada Wineries",
+            "tip": "If you have time, visit a local winery for a tasting and to purchase."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum kann begrenzt sein, seien Sie also geduldig.",
+          "Ein GPS ist nützlich, um zwischen den Clustern zu navigieren.",
+          "Kombinieren Sie kurze Fahrten mit gemütlichen Spaziergängen für das beste Erlebnis.",
+          "Planen Sie Ihre Route im Voraus, um die Fahrzeit zu minimieren."
+        ],
+        "hu": [
+          "A parkolás a városközpontban korlátozott lehet, ezért legyen türelmes.",
+          "A GPS hasznos a klaszterek közötti navigáláshoz.",
+          "A legjobb élmény érdekében kombinálja a rövid autóutakat a kellemes sétákkal.",
+          "Tervezze meg előre az útvonalát, hogy minimalizálja a vezetési időt."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi limitată, așa că aveți răbdare.",
+          "Un GPS este util pentru a naviga între clustere.",
+          "Combinați drumurile scurte cu plimbări pe îndelete pentru cea mai bună experiență.",
+          "Planificați-vă traseul în avans pentru a minimiza timpul petrecut la volan."
+        ],
+        "en": [
+          "Parking in the town center can be limited, so be patient.",
+          "A GPS is useful for navigating between the clusters.",
+          "Combine short drives with leisurely walks for the best experience.",
+          "Plan your route in advance to minimize driving time."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft: Bahnhof von Oiã",
+            "hu": "Érkezés: Oiã vasútállomás",
+            "ro": "Sosire: Gara din Oiã",
+            "en": "Arrival: Oiã Train Station"
+          },
+          "coords": [
+            -8.635,
+            40.73
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier, wo Züge und Busse die Stadt verbinden.",
+            "hu": "Kezdje a napot itt, ahol a vonatok és buszok összekötik a várost.",
+            "ro": "Începeți ziua aici, unde trenurile și autobuzele conectează orașul.",
+            "en": "Start your day here, where trains and buses connect the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Zentrum: Hauptkirche von Oiã",
+            "hu": "Központi Klaszter: Oiã Főtemploma",
+            "ro": "Cluster Centru: Biserica Matrice din Oiã",
+            "en": "Center Cluster: Main Church of Oiã"
+          },
+          "coords": [
+            -8.6275,
+            40.7345
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:43",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus vom Bahnhof ins Zentrum von Oiã.",
+            "hu": "Menjen helyi busszal az állomásról Oiã központjába.",
+            "ro": "Luați un autobuz local de la gară spre centrul orașului Oiã.",
+            "en": "Take a local bus from the station to the center of Oiã."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Zentrum: Kulturhaus von Oiã",
+            "hu": "Központi Klaszter: Oiã Kultúrház",
+            "ro": "Cluster Centru: Casa de Cultură din Oiã",
+            "en": "Center Cluster: House of Culture of Oiã"
+          },
+          "coords": [
+            -8.628,
+            40.7338
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:38",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen kulturellen Ort, der nur einen kurzen Spaziergang entfernt ist.",
+            "hu": "Fedezze fel ezt a kulturális helyszínt egy rövid sétára.",
+            "ro": "Explorați acest loc cultural la o scurtă plimbare distanță.",
+            "en": "Explore this cultural spot, just a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Zentrum: Park am Rio Levira",
+            "hu": "Központi Klaszter: Rio Levira Park",
+            "ro": "Cluster Centru: Parcul Râului Levira",
+            "en": "Center Cluster: Levira River Park"
+          },
+          "coords": [
+            -8.6215,
+            40.736
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:58",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Machen Sie einen längeren Spaziergang zum Park für Ihre Mittagspause.",
+            "hu": "Tegyen egy hosszabb sétát a parkba az ebédszünetre.",
+            "ro": "Faceți o plimbare mai lungă până la parc pentru pauza de prânz.",
+            "en": "Take a longer walk to the park for your lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück zum Bahnhof",
+            "hu": "Vissza a vasútállomásra",
+            "ro": "Înapoi la gară",
+            "en": "Return to Train Station"
+          },
+          "coords": [
+            -8.635,
+            40.73
+          ],
+          "category": "transport",
+          "arrive_at": "14:06",
+          "stay_min": 30,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zurück zum Bahnhof für Ihre Abreise.",
+            "hu": "Menjen busszal vissza az állomásra az induláshoz.",
+            "ro": "Luați un autobuz înapoi la gară pentru plecare.",
+            "en": "Take a bus back to the station for your departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Reise mit öffentlichen Verkehrsmitteln beginnt am Bahnhof von Oiã. Ein kurzer Bus-Hop bringt Sie ins Herz der Stadt, wo Sie den Vormittag damit verbringen, die Hauptkirche und das Kulturhaus zu Fuß zu erkunden. Ein Spaziergang führt Sie mittags zum Park am Rio Levira für eine wohlverdiente Pause. Der Nachmittag beinhaltet die Rückfahrt mit dem Bus zum Bahnhofscluster, wo Sie die letzten Momente damit verbringen, die industrielle Vergangenheit der Stadt zu betrachten. Dieser Plan ist ideal für diejenigen, die die wichtigsten Sehenswürdigkeiten ohne Auto erleben möchten.",
+        "hu": "Tömegközlekedési utazása az oiã-i vasútállomáson kezdődik. Egy rövid buszozás a város szívébe viszi, ahol a délelőttöt a Főtemplom és a Kultúrház gyalogos felfedezésével tölti. Ebédidőben egy séta vezet a Rio Levira parkba egy jól megérdemelt pihenőre. A délután magában foglalja a buszos visszautat az állomás környékére, ahol az utolsó pillanatokat a város ipari múltjának szemlélésével töltheti. Ez a terv ideális azok számára, akik autó nélkül szeretnék megtapasztalni a főbb látnivalókat.",
+        "ro": "Călătoria dvs. cu transportul public începe la gara din Oiã. Un scurt drum cu autobuzul vă duce în inima orașului, unde vă veți petrece dimineața explorând Biserica Matrice și Casa de Cultură pe jos. O plimbare vă duce la Parcul Râului Levira la prânz pentru o pauză binemeritată. După-amiaza implică luarea unui autobuz înapoi în zona gării, unde vă veți petrece ultimele momente contemplând trecutul industrial al orașului. Acest plan este ideal pentru cei care doresc să experimenteze principalele atracții fără mașină.",
+        "en": "Your journey by public transit begins at Oiã's train station. A short bus hop takes you to the heart of town, where you'll spend the morning exploring the Main Church and House of Culture on foot. A walk leads you to the Levira River Park for a well-deserved break at midday. The afternoon involves taking a bus back to the station cluster, where you'll spend the final moments contemplating the town's industrial past. This plan is ideal for those wanting to experience the main sights without a car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bifana",
+            "tip": "Ein klassisches portugiesisches Sandwich mit mariniertem Schweinefleisch, perfekt für ein schnelles Mittagessen."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Auch wenn es nicht von hier stammt, finden Sie diese berühmte Puddingtorte in jeder Bäckerei."
+          },
+          {
+            "name": "Lokales Café",
+            "tip": "Genießen Sie einen starken portugiesischen Kaffee (bica) und beobachten Sie das Treiben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bifana",
+            "tip": "Klasszikus portugál szendvics pácolt sertéshússal, tökéletes egy gyors ebédhez."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Bár nem innen származik, ezt a híres pudingos tortát minden pékségben megtalálja."
+          },
+          {
+            "name": "Helyi kávézó",
+            "tip": "Élvezzen egy erős portugál kávét (bica), és figyelje a helyi életet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bifana",
+            "tip": "Un sandviș clasic portughez cu carne de porc marinată, perfect pentru un prânz rapid."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Chiar dacă nu este originară de aici, veți găsi această faimoasă tartă cu cremă la orice patiserie."
+          },
+          {
+            "name": "Cafenea locală",
+            "tip": "Bucurați-vă de o cafea portugheză tare (bica) și priviți lumea cum trece."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bifana",
+            "tip": "A classic Portuguese sandwich with marinated pork, perfect for a quick lunch."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Even if not its origin, you'll find this famous custard tart in any bakery."
+          },
+          {
+            "name": "Local Café",
+            "tip": "Enjoy a strong Portuguese coffee (a bica) and watch the world go by."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Zugfahrt",
+            "tip": "Genießen Sie die Aussicht auf die Landschaft von Ihrem Zugfenster aus.",
+            "emoji": "🚆"
+          },
+          {
+            "name": "Kirchenbänke",
+            "tip": "Nehmen Sie sich einen Moment Zeit in der Stille einer der Kirchen oder Kapellen.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Parkbank",
+            "tip": "Finden Sie eine Bank im Park und hören Sie den Geräuschen der Natur zu.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vonatozás",
+            "tip": "Élvezze a táj látványát a vonat ablakából.",
+            "emoji": "🚆"
+          },
+          {
+            "name": "Templomi padok",
+            "tip": "Szánjon egy percet a csendre az egyik templomban vagy kápolnában.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Pad a parkban",
+            "tip": "Keressen egy padot a parkban, és hallgassa a természet hangjait.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătorie cu trenul",
+            "tip": "Bucurați-vă de peisajul rural de la fereastra trenului.",
+            "emoji": "🚆"
+          },
+          {
+            "name": "Băncile bisericii",
+            "tip": "Luați un moment de liniște într-una dintre biserici sau capele.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Bancă în parc",
+            "tip": "Găsiți o bancă în parc și ascultați sunetele naturii.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Train Ride",
+            "tip": "Enjoy the countryside views from your train window.",
+            "emoji": "🚆"
+          },
+          {
+            "name": "Church Pews",
+            "tip": "Take a moment of silence inside one of the churches or chapels.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Park Bench",
+            "tip": "Find a bench in the park and listen to the sounds of nature.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Bahnhof",
+            "tip": "Kaufen Sie eine Zeitung oder ein Magazin für Ihre Reise."
+          },
+          {
+            "name": "Lokale Lebensmittel",
+            "tip": "Suchen Sie ein kleines Geschäft in der Nähe des Zentrums, um lokale Snacks zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bódé a vasútállomáson",
+            "tip": "Vásároljon újságot vagy magazint az utazáshoz."
+          },
+          {
+            "name": "Helyi élelmiszerek",
+            "tip": "Keressen egy kis boltot a központ közelében, ahol helyi harapnivalókat vásárolhat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc de la gară",
+            "tip": "Cumpărați un ziar sau o revistă pentru călătoria dvs."
+          },
+          {
+            "name": "Băcănie locală",
+            "tip": "Găsiți un mic magazin lângă centru pentru a cumpăra gustări locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Kiosk",
+            "tip": "Buy a newspaper or a magazine for your journey."
+          },
+          {
+            "name": "Local Grocer",
+            "tip": "Find a small shop near the center to buy some local snacks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Bus- und Zugfahrpläne im Voraus.",
+          "Kaufen Sie eine Tageskarte, wenn sie für Ihre Route kostengünstiger ist.",
+          "Beachten Sie, dass die Busse am Wochenende möglicherweise seltener fahren.",
+          "Haben Sie Kleingeld für Bustickets dabei, die Sie an Bord kaufen."
+        ],
+        "hu": [
+          "Ellenőrizze előre a busz- és vonatmenetrendeket.",
+          "Vásároljon napijegyet, ha az költséghatékonyabb az útvonalához.",
+          "Vegye figyelembe, hogy a buszok hétvégén ritkábban közlekedhetnek.",
+          "Tartson magánál aprópénzt a buszon vásárolt jegyekhez."
+        ],
+        "ro": [
+          "Verificați din timp orarele autobuzelor și trenurilor.",
+          "Cumpărați un bilet de o zi dacă este mai rentabil pentru traseul dvs.",
+          "Fiți conștienți de faptul că autobuzele pot circula mai rar în weekend.",
+          "Aveți la îndemână bani mărunți pentru biletele de autobuz cumpărate la bord."
+        ],
+        "en": [
+          "Check bus and train schedules in advance.",
+          "Purchase a day pass if it's more cost-effective for your route.",
+          "Be aware that bus services might be less frequent on weekends.",
+          "Have small change ready for bus tickets bought on board."
+        ]
+      }
+    }
+  }
+}

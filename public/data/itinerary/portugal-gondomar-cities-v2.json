@@ -1,0 +1,1188 @@
+{
+  "city_id": "portugal-gondomar-cities-v2",
+  "anchor": {
+    "name": "Gondomar",
+    "coords": [
+      -8.5361,
+      41.1444
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 3.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche von São Cosme",
+            "hu": "São Cosme-templom",
+            "ro": "Biserica São Cosme",
+            "en": "Church of São Cosme"
+          },
+          "coords": [
+            -8.5358,
+            41.1446
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beachten Sie die barocken Details und die vergoldeten Holzarbeiten im Inneren.",
+            "hu": "Figyelje meg a barokk részleteket és a belső aranyozott fafaragásokat.",
+            "ro": "Observați detaliile baroce și lemnăria aurită din interior.",
+            "en": "Notice the baroque details and the gilded woodwork inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum von Gondomar",
+            "hu": "Gondomari Városi Múzeum",
+            "ro": "Muzeul Municipal din Gondomar",
+            "en": "Gondomar Municipal Museum"
+          },
+          "coords": [
+            -8.5375,
+            41.1451
+          ],
+          "category": "museums",
+          "arrive_at": "10:02",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Das Museum befindet sich in einem alten Schulgebäude. Die Ausstellungen sind sehr lokal.",
+            "hu": "A múzeum egy régi iskolaépületben található. A kiállítások nagyon helyi jellegűek.",
+            "ro": "Muzeul este găzduit într-o veche clădire școlară. Expozițiile sunt foarte locale.",
+            "en": "The museum is housed in an old school building. The exhibitions are very local."
+          }
+        },
+        {
+          "name": {
+            "de": "Filigran-Route",
+            "hu": "Filigrán Útvonal",
+            "ro": "Ruta Filigranului",
+            "en": "Filigree Route"
+          },
+          "coords": [
+            -8.539,
+            41.1438
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:52",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie eine der Werkstätten, um die Handwerker bei der Arbeit zu sehen.",
+            "hu": "Látogasson el egy műhelybe, hogy megnézze a kézműveseket munka közben.",
+            "ro": "Vizitați unul dintre ateliere pentru a vedea artizanii la lucru.",
+            "en": "Visit one of the workshops to see the artisans at work."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Branca de Gramido",
+            "hu": "Casa Branca de Gramido",
+            "ro": "Casa Branca de Gramido",
+            "en": "Casa Branca de Gramido"
+          },
+          "coords": [
+            -8.5511,
+            41.1278
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:16",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Hier wurde 1847 ein wichtiges Friedensabkommen unterzeichnet. Der Blick auf den Douro ist fantastisch.",
+            "hu": "Itt írtak alá egy fontos békeszerződést 1847-ben. A Douro-folyóra nyíló kilátás fantasztikus.",
+            "ro": "Un tratat de pace important a fost semnat aici în 1847. Priveliștea spre Douro este fantastică.",
+            "en": "An important peace treaty was signed here in 1847. The view of the Douro is fantastic."
+          }
+        },
+        {
+          "name": {
+            "de": "Promenade am Rio Douro",
+            "hu": "Douro-folyó sétány",
+            "ro": "Promenada Rio Douro",
+            "en": "Rio Douro Promenade"
+          },
+          "coords": [
+            -8.5525,
+            41.127
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:42",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ideal für einen entspannten Spaziergang am Nachmittag. Halten Sie für einen Kaffee an.",
+            "hu": "Ideális egy pihentető délutáni sétához. Álljon meg egy kávéra.",
+            "ro": "Ideal pentru o plimbare relaxantă de după-amiază. Opriți-vă pentru o cafea.",
+            "en": "Ideal for a relaxing afternoon walk. Stop for a coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Monte do Crasto",
+            "hu": "Monte do Crasto",
+            "ro": "Monte do Crasto",
+            "en": "Monte do Crasto"
+          },
+          "coords": [
+            -8.525,
+            41.14
+          ],
+          "category": "natural features",
+          "arrive_at": "16:13",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der beste Ort für einen Panoramablick über Gondomar und den Fluss.",
+            "hu": "A legjobb hely a panorámás kilátáshoz Gondomarra és a folyóra.",
+            "ro": "Cel mai bun loc pentru o vedere panoramică asupra Gondomarului și a râului.",
+            "en": "The best spot for a panoramic view over Gondomar and the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Gondomar beginnt im historischen Herzen mit der Kirche São Cosme. Am Vormittag tauchen Sie im Stadtmuseum und in den Filigranwerkstätten in die lokale Kultur ein. Nach dem Mittagessen führt Sie ein Spaziergang zum Flussufer, wo die Casa Branca de Gramido und die Douro-Promenade auf Sie warten. Der Tag endet mit einem atemberaubenden Panoramablick vom Monte do Crasto.",
+        "hu": "Gondomari napja a történelmi szívben, a São Cosme-templomnál kezdődik. A délelőtt a helyi kultúrába való elmerüléssel telik a Városi Múzeumban és a filigrán műhelyekben. Ebéd után a séta a folyóparthoz vezet, ahol a Casa Branca de Gramido és a Douro sétány várja. A nap a Monte do Crasto lélegzetelállító panorámájával zárul.",
+        "ro": "Ziua dvs. în Gondomar începe în inima istorică la Biserica São Cosme. Dimineața este dedicată imersiunii în cultura locală la Muzeul Municipal și atelierele de filigran. După prânz, o plimbare vă duce pe malul râului, unde vă așteaptă Casa Branca de Gramido și promenada Douro. Ziua se încheie cu o vedere panoramică uluitoare de pe Monte do Crasto.",
+        "en": "Your day in Gondomar begins in the historic heart at the Church of São Cosme. The morning is for immersing in local culture at the Municipal Museum and the filigree workshops. After lunch, a walk takes you to the riverfront, where the Casa Branca de Gramido and the Douro promenade await. The day concludes with a breathtaking panoramic view from Monte do Crasto."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lampreia à Bordalesa",
+            "tip": "Ein traditionelles Neunaugen-Gericht, ein Muss für abenteuerlustige Esser im Frühling."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "Der lokale junge, spritzige Wein passt perfekt zu Fischgerichten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lampreia à Bordalesa",
+            "tip": "Hagyományos ingolaétel, kötelező a kalandvágyóknak tavasszal."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "A helyi, fiatal, friss bor tökéletesen illik a halételekhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lampreia à Bordalesa",
+            "tip": "Un fel de mâncare tradițional cu lamprey, de încercat pentru cei aventuroși primăvara."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "Vinul local tânăr și proaspăt se potrivește perfect cu preparatele din pește."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lampreia à Bordalesa",
+            "tip": "A traditional lamprey dish, a must-try for adventurous eaters in spring."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "The local young, crisp wine pairs perfectly with fish dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rio Douro Promenade",
+            "tip": "Finden Sie eine Bank und beobachten Sie die Boote auf dem Fluss.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parque de Lazer de Gondomar",
+            "tip": "Ein ruhiger Ort für eine Pause im Grünen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Douro-folyó sétány",
+            "tip": "Keressen egy padot, és nézze a hajókat a folyón.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gondomari Szabadidőpark",
+            "tip": "Csendes hely egy kis zöldövezeti pihenőre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada Rio Douro",
+            "tip": "Găsiți o bancă și priviți bărcile de pe râu.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul de Agrement Gondomar",
+            "tip": "Un loc liniștit pentru o pauză în natură.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rio Douro Promenade",
+            "tip": "Find a bench and watch the boats on the river.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gondomar Leisure Park",
+            "tip": "A quiet spot for a break surrounded by green.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Filigran-Schmuck",
+            "tip": "Kaufen Sie direkt in einer der Werkstätten ein authentisches, handgefertigtes Stück."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Filigrán ékszerek",
+            "tip": "Vásároljon egyenesen egy műhelyből egy autentikus, kézzel készített darabot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bijuterii din filigran",
+            "tip": "Cumpărați o piesă autentică, lucrată manual, direct de la unul dintre ateliere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Filigree Jewelry",
+            "tip": "Buy an authentic, handcrafted piece directly from one of the workshops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum einige Hügel hat.",
+          "Die meisten Geschäfte schließen zur Mittagszeit, planen Sie also entsprechend.",
+          "Halten Sie Ausschau nach kleinen Cafés ('pastelarias') für einen schnellen Kaffee und Gebäck."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a városközpontban vannak emelkedők.",
+          "A legtöbb üzlet bezár ebédidőben, ezért tervezzen ennek megfelelően.",
+          "Keresse a kis kávézókat ('pastelarias') egy gyors kávéra és süteményre."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul orașului are câteva dealuri.",
+          "Majoritatea magazinelor se închid la prânz, așa că planificați-vă în consecință.",
+          "Căutați micile cafenele ('pastelarias') pentru o cafea rapidă și un produs de patiserie."
+        ],
+        "en": [
+          "Wear comfortable shoes as the city center has some hills.",
+          "Most shops close for lunch, so plan accordingly.",
+          "Look for small cafes ('pastelarias') for a quick coffee and pastry."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:36",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtzentrum Gondomar",
+            "hu": "Gondomar városközpont",
+            "ro": "Centrul orașului Gondomar",
+            "en": "Gondomar Town Center"
+          },
+          "coords": [
+            -8.5361,
+            41.1444
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einem Kaffee auf dem Hauptplatz.",
+            "hu": "Kezdje a napot egy kávéval a főtéren.",
+            "ro": "Începeți ziua cu o cafea în piața principală.",
+            "en": "Start your day with a coffee in the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Filigran-Route",
+            "hu": "Filigrán Útvonal",
+            "ro": "Ruta Filigranului",
+            "en": "Filigree Route"
+          },
+          "coords": [
+            -8.539,
+            41.1438
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:50",
+          "stay_min": 50,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Einige Werkstätten liegen verstreut, perfekt für eine Erkundung mit dem Fahrrad.",
+            "hu": "Néhány műhely szétszórva található, tökéletes a biciklis felfedezéshez.",
+            "ro": "Unele ateliere sunt dispersate, perfecte pentru a fi explorate cu bicicleta.",
+            "en": "Some workshops are scattered, perfect for exploring by bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Branca de Gramido",
+            "hu": "Casa Branca de Gramido",
+            "ro": "Casa Branca de Gramido",
+            "en": "Casa Branca de Gramido"
+          },
+          "coords": [
+            -8.5511,
+            41.1278
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Eine schöne Fahrt bergab zum Fluss. Sichern Sie Ihr Fahrrad gut, während Sie es besichtigen.",
+            "hu": "Szép út lefelé a folyóhoz. Jól zárja le a biciklijét a látogatás alatt.",
+            "ro": "O coborâre frumoasă spre râu. Asigurați-vă bine bicicleta în timp ce vizitați.",
+            "en": "A nice ride downhill to the river. Lock your bike securely while you visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Promenade am Rio Douro",
+            "hu": "Douro-folyó sétány",
+            "ro": "Promenada Rio Douro",
+            "en": "Rio Douro Promenade"
+          },
+          "coords": [
+            -8.57,
+            41.125
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:25",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Perfekt für eine lange, flache Radtour. Viele Cafés für eine Mittagspause.",
+            "hu": "Tökéletes egy hosszú, sík biciklitúrához. Számos kávézó egy ebédszünethez.",
+            "ro": "Perfect pentru o plimbare lungă și plată cu bicicleta. Multe cafenele pentru o pauză de prânz.",
+            "en": "Perfect for a long, flat ride. Plenty of cafes for a lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Monte do Crasto",
+            "hu": "Monte do Crasto",
+            "ro": "Monte do Crasto",
+            "en": "Monte do Crasto"
+          },
+          "coords": [
+            -8.525,
+            41.14
+          ],
+          "category": "viewpoint",
+          "arrive_at": "15:01",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Der letzte Anstieg ist eine Herausforderung, aber die Aussicht ist es wert!",
+            "hu": "Az utolsó emelkedő kihívást jelent, de a kilátás megéri!",
+            "ro": "Urcarea finală este o provocare, dar priveliștea merită!",
+            "en": "The final climb is a challenge, but the view is worth it!"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour im Zentrum von Gondomar und radeln Sie dann entlang der Filigran-Route, um das Handwerk der Stadt zu entdecken. Eine malerische Abfahrt bringt Sie zur Casa Branca de Gramido, bevor Sie einen langen, entspannten Nachmittag entlang der Douro-Promenade verbringen. Der Tag endet mit einem sportlichen Anstieg zum Monte do Crasto für eine unvergessliche Aussicht.",
+        "hu": "Kezdje a biciklitúrát Gondomar központjában, majd tekerjen végig a Filigrán Útvonalon, hogy felfedezze a város kézművességét. Egy festői lejtő visz a Casa Branca de Gramidohoz, mielőtt egy hosszú, pihentető délutánt töltene a Douro sétány mentén. A nap egy sportos emelkedővel zárul a Monte do Crasto-ra a felejthetetlen kilátásért.",
+        "ro": "Începeți turul cu bicicleta în centrul Gondomarului, apoi pedalați de-a lungul Rutei Filigranului pentru a descoperi meșteșugurile orașului. O coborâre pitorească vă duce la Casa Branca de Gramido înainte de o după-amiază lungă și relaxantă de-a lungul promenadei Douro. Ziua se încheie cu o urcare sportivă pe Monte do Crasto pentru o priveliște de neuitat.",
+        "en": "Start your bike tour in the center of Gondomar, then pedal along the Filigree Route to discover the city's craft. A scenic descent takes you to Casa Branca de Gramido before a long, relaxing afternoon along the Douro promenade. The day concludes with a challenging climb up Monte do Crasto for an unforgettable view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bifana",
+            "tip": "Ein einfaches, aber leckeres Schweinefleisch-Sandwich, perfekt für einen schnellen Biker-Snack."
+          },
+          {
+            "name": "Frisch gepresster Orangensaft",
+            "tip": "Überall erhältlich und erfrischend nach einer Fahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bifana",
+            "tip": "Egyszerű, de finom sertéshúsos szendvics, tökéletes egy gyors biciklis harapnivalónak."
+          },
+          {
+            "name": "Frissen facsart narancslé",
+            "tip": "Mindenhol kapható és frissítő egy tekerés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bifana",
+            "tip": "Un sandviș simplu, dar delicios, cu carne de porc, perfect pentru o gustare rapidă de biciclist."
+          },
+          {
+            "name": "Suc proaspăt de portocale",
+            "tip": "Disponibil peste tot și revigorant după o plimbare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bifana",
+            "tip": "A simple but delicious pork sandwich, perfect for a quick biker's snack."
+          },
+          {
+            "name": "Freshly squeezed orange juice",
+            "tip": "Available everywhere and refreshing after a ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Quinta de Villar d'Allen",
+            "tip": "Machen Sie einen Abstecher zu diesen ruhigen Gärten für eine Pause vom Radfahren.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ufer des Douro",
+            "tip": "Suchen Sie sich ein ruhiges Plätzchen abseits der Hauptpromenade.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Quinta de Villar d'Allen",
+            "tip": "Tegyen egy kitérőt ezekbe a csendes kertekbe egy biciklis pihenőre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Douro partja",
+            "tip": "Keressen egy csendes helyet a fő sétánytól távolabb.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Quinta de Villar d'Allen",
+            "tip": "Faceți un ocol prin aceste grădini liniștite pentru o pauză de la pedalat.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malurile râului Douro",
+            "tip": "Găsiți un loc liniștit departe de promenada principală.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Quinta de Villar d'Allen",
+            "tip": "Take a detour to these quiet gardens for a break from cycling.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Banks of the Douro",
+            "tip": "Find a quiet spot away from the main promenade.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Halten Sie Ausschau nach lokalen Produkten und handwerklichem Käse, die Sie in Ihren Rucksack packen können."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keresse a helyi termékeket és a kézműves sajtokat, amiket a hátizsákjába csomagolhat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse locale și brânzeturi artizanale pe care să le puneți în rucsac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for local produce and artisan cheese to pack in your pannier."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie viel Wasser mit, besonders für den Anstieg zum Monte do Crasto.",
+          "Einige Straßen können Kopfsteinpflaster haben, seien Sie also vorsichtig.",
+          "Ein Fahrrad mit Gängen wird dringend empfohlen."
+        ],
+        "hu": [
+          "Vigyen magával sok vizet, különösen a Monte do Crasto emelkedőjére.",
+          "Néhány utca macskaköves lehet, ezért legyen óvatos.",
+          "Erősen ajánlott a sebességváltós kerékpár."
+        ],
+        "ro": [
+          "Luați multă apă, mai ales pentru urcarea pe Monte do Crasto.",
+          "Unele străzi pot avea pavele, așa că fiți precauți.",
+          "O bicicletă cu viteze este foarte recomandată."
+        ],
+        "en": [
+          "Bring plenty of water, especially for the climb to Monte do Crasto.",
+          "Some streets can be cobblestoned, so be careful.",
+          "A bike with gears is highly recommended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:54",
+      "total_km": 24.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Monte do Crasto",
+            "hu": "Monte do Crasto",
+            "ro": "Monte do Crasto",
+            "en": "Monte do Crasto"
+          },
+          "coords": [
+            -8.525,
+            41.14
+          ],
+          "category": "natural features",
+          "arrive_at": "09:18",
+          "stay_min": 25,
+          "hop_mode": "car",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einer tollen Aussicht. Parken ist hier oben einfach.",
+            "hu": "Kezdje a napot egy remek kilátással. A parkolás itt fent egyszerű.",
+            "ro": "Începeți ziua cu o priveliște minunată. Parcarea este ușoară aici sus.",
+            "en": "Start the day with a great view. Parking is easy up here."
+          }
+        },
+        {
+          "name": {
+            "de": "Quinta de Villar d'Allen",
+            "hu": "Quinta de Villar d'Allen",
+            "ro": "Quinta de Villar d'Allen",
+            "en": "Quinta de Villar d'Allen"
+          },
+          "coords": [
+            -8.583,
+            41.149
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:01",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Ein verstecktes Juwel. Rufen Sie am besten vorher an, um die Öffnungszeiten zu bestätigen.",
+            "hu": "Rejtett gyöngyszem. Érdemes előre telefonálni a nyitvatartásról.",
+            "ro": "O bijuterie ascunsă. Cel mai bine este să sunați în avans pentru a confirma programul.",
+            "en": "A hidden gem. It's best to call ahead to confirm opening hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster: Historisches Zentrum",
+            "hu": "Klaszter: Történelmi központ",
+            "ro": "Cluster: Centrul Istoric",
+            "en": "Cluster: Historic Center"
+          },
+          "coords": [
+            -8.536,
+            41.1445
+          ],
+          "category": "parking",
+          "arrive_at": "11:39",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe der Kirche São Cosme und erkunden Sie zu Fuß.",
+            "hu": "Parkoljon a São Cosme-templom közelében, és fedezze fel gyalog a környéket.",
+            "ro": "Parcați lângă Biserica São Cosme și explorați pe jos.",
+            "en": "Park near the Church of São Cosme and explore on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von São Cosme",
+            "hu": "São Cosme-templom",
+            "ro": "Biserica São Cosme",
+            "en": "Church of São Cosme"
+          },
+          "coords": [
+            -8.5358,
+            41.1446
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:45",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "O scurtă plimbare de la parcare.",
+            "en": "A short walk from where you parked."
+          }
+        },
+        {
+          "name": {
+            "de": "Filigran-Werkstätten",
+            "hu": "Filigrán műhelyek",
+            "ro": "Ateliere de filigran",
+            "en": "Filigree Workshops"
+          },
+          "coords": [
+            -8.539,
+            41.1438
+          ],
+          "category": "shopping",
+          "arrive_at": "12:35",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für ein Mittagessen und einen Einkaufsbummel in diesem Viertel.",
+            "hu": "Szánjon időt az ebédre és a vásárlásra ebben a negyedben.",
+            "ro": "Luați-vă timp pentru prânz și cumpărături în acest cartier.",
+            "en": "Take time for lunch and shopping in this district."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster: Flussufer Gramido",
+            "hu": "Klaszter: Gramido folyópart",
+            "ro": "Cluster: Malul râului Gramido",
+            "en": "Cluster: Gramido Riverfront"
+          },
+          "coords": [
+            -8.5515,
+            41.1279
+          ],
+          "category": "parking",
+          "arrive_at": "14:20",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.8,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Flussufer und parken Sie in der Nähe der Casa Branca.",
+            "hu": "Vezessen le a folyóparthoz, és parkoljon a Casa Branca közelében.",
+            "ro": "Conduceți spre malul râului și parcați lângă Casa Branca.",
+            "en": "Drive down to the riverfront and park near Casa Branca."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Branca de Gramido & Promenade",
+            "hu": "Casa Branca de Gramido és sétány",
+            "ro": "Casa Branca de Gramido și Promenada",
+            "en": "Casa Branca de Gramido & Promenade"
+          },
+          "coords": [
+            -8.5511,
+            41.1278
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:24",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kombinieren Sie den historischen Besuch mit einem langen, entspannten Spaziergang am Douro.",
+            "hu": "Kombinálja a történelmi látogatást egy hosszú, pihentető sétával a Douro mentén.",
+            "ro": "Combinați vizita istorică cu o plimbare lungă și relaxantă de-a lungul râului Douro.",
+            "en": "Combine the historic visit with a long, relaxing walk along the Douro."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie die Highlights von Gondomar flexibel. Beginnen Sie mit den Panoramablicken vom Monte do Crasto und besuchen Sie dann die eleganten Gärten der Quinta de Villar d'Allen. Parken Sie im Zentrum, um die Kirche und die Filigran-Werkstätten zu Fuß zu erkunden. Der Nachmittag ist für die entspannte Atmosphäre am Douro-Flussufer bei Gramido reserviert, wo Geschichte und Natur aufeinandertreffen.",
+        "hu": "Autóval rugalmasan fedezheti fel Gondomar nevezetességeit. Kezdje a Monte do Crasto panorámájával, majd látogasson el a Quinta de Villar d'Allen elegáns kertjeibe. Parkoljon a központban, hogy gyalogosan fedezze fel a templomot és a filigrán műhelyeket. A délután a Douro folyópart nyugodt légköréé Gramidóban, ahol a történelem és a természet találkozik.",
+        "ro": "Cu mașina, explorați în mod flexibil punctele de atracție din Gondomar. Începeți cu vederile panoramice de pe Monte do Crasto, apoi vizitați grădinile elegante de la Quinta de Villar d'Allen. Parcați în centru pentru a explora pe jos biserica și atelierele de filigran. După-amiaza este rezervată atmosferei relaxate de pe malul râului Douro la Gramido, unde istoria întâlnește natura.",
+        "en": "By car, you can flexibly explore Gondomar's highlights. Start with the panoramic views from Monte do Crasto, then visit the elegant gardens of Quinta de Villar d'Allen. Park in the center to explore the church and filigree workshops on foot. The afternoon is reserved for the relaxed atmosphere on the Douro riverfront at Gramido, where history meets nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurante am Fluss",
+            "tip": "Genießen Sie frischen Fisch mit Blick auf den Douro."
+          },
+          {
+            "name": "Sopa de peixe",
+            "tip": "Eine herzhafte Fischsuppe, besonders gut in den kühleren Monaten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Folyóparti étterem",
+            "tip": "Élvezze a friss halat a Douro-ra néző kilátással."
+          },
+          {
+            "name": "Sopa de peixe",
+            "tip": "Kiadós halleves, különösen jó a hűvösebb hónapokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant pe malul râului",
+            "tip": "Bucurați-vă de pește proaspăt cu vedere la Douro."
+          },
+          {
+            "name": "Sopa de peixe",
+            "tip": "O supă consistentă de pește, deosebit de bună în lunile mai reci."
+          }
+        ],
+        "en": [
+          {
+            "name": "Riverfront Restaurant",
+            "tip": "Enjoy fresh fish with a view of the Douro."
+          },
+          {
+            "name": "Sopa de peixe",
+            "tip": "A hearty fish soup, especially good in the cooler months."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Quinta de Villar d'Allen",
+            "tip": "Die Gärten sind eine Oase der Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Monte do Crasto",
+            "tip": "Fahren Sie am späten Nachmittag für den Sonnenuntergang hierher.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Quinta de Villar d'Allen",
+            "tip": "A kertek a béke oázisai.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Monte do Crasto",
+            "tip": "Jöjjön fel ide késő délután a naplementéért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Quinta de Villar d'Allen",
+            "tip": "Grădinile sunt o oază de liniște.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Monte do Crasto",
+            "tip": "Urcați aici după-amiaza târziu pentru apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Quinta de Villar d'Allen",
+            "tip": "The gardens are an oasis of tranquility.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Monte do Crasto",
+            "tip": "Drive up in the late afternoon for the sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Filigran-Gold",
+            "tip": "Gondomar ist berühmt für sein Filigran-Gold, ein besonderes Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arany filigrán",
+            "tip": "Gondomar híres az arany filigránjáról, ami egy különleges szuvenír."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Aur filigranat",
+            "tip": "Gondomar este renumit pentru aurul său filigranat, un suvenir special."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gold Filigree",
+            "tip": "Gondomar is famous for its gold filigree, a special souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplätze im Stadtzentrum können knapp sein, besonders mittags.",
+          "Achten Sie auf Einbahnstraßen in den älteren Teilen der Stadt.",
+          "Mit einem Auto können Sie auch leicht die nahe gelegenen Strände oder Weinkellereien erreichen."
+        ],
+        "hu": [
+          "A parkolóhelyek szűkösek lehetnek a városközpontban, különösen délben.",
+          "Vigyázzon az egyirányú utcákra a város régebbi részein.",
+          "Autóval könnyen elérheti a közeli strandokat vagy borpincéket is."
+        ],
+        "ro": [
+          "Locurile de parcare pot fi rare în centrul orașului, mai ales la prânz.",
+          "Fiți atenți la străzile cu sens unic din părțile mai vechi ale orașului.",
+          "Cu o mașină puteți ajunge cu ușurință și la plajele sau cramele din apropiere."
+        ],
+        "en": [
+          "Parking in the city center can be scarce, especially at noon.",
+          "Watch out for one-way streets in the older parts of town.",
+          "A car allows you to easily reach nearby beaches or wineries as well."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster: Historisches Zentrum",
+            "hu": "Klaszter: Történelmi központ",
+            "ro": "Cluster: Centrul Istoric",
+            "en": "Cluster: Historic Center"
+          },
+          "coords": [
+            -8.5361,
+            41.1444
+          ],
+          "category": "transit_stop",
+          "arrive_at": "09:15",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Hauptplatz von Gondomar.",
+            "hu": "Menjen busszal Gondomar főterére.",
+            "ro": "Luați un autobuz spre piața principală din Gondomar.",
+            "en": "Take a bus to Gondomar's main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von São Cosme",
+            "hu": "São Cosme-templom",
+            "ro": "Biserica São Cosme",
+            "en": "Church of São Cosme"
+          },
+          "coords": [
+            -8.5358,
+            41.1446
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:20",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Direkt an der Bushaltestelle gelegen.",
+            "hu": "Közvetlenül a buszmegállónál található.",
+            "ro": "Situată chiar lângă stația de autobuz.",
+            "en": "Located right by the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum & Filigran-Route",
+            "hu": "Városi Múzeum és Filigrán Útvonal",
+            "ro": "Muzeul Municipal și Ruta Filigranului",
+            "en": "Municipal Museum & Filigree Route"
+          },
+          "coords": [
+            -8.5375,
+            41.1451
+          ],
+          "category": "museums",
+          "arrive_at": "10:08",
+          "stay_min": 150,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie beides zu Fuß, sie liegen nahe beieinander. Planen Sie Zeit für ein Mittagessen hier ein.",
+            "hu": "Fedezze fel mindkettőt gyalog, közel vannak egymáshoz. Tervezzen itt ebédszünetet.",
+            "ro": "Explorați ambele pe jos, sunt aproape una de alta. Planificați timp pentru prânz aici.",
+            "en": "Explore both on foot, they are close to each other. Plan for lunch time here."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster: Flussufer Gramido",
+            "hu": "Klaszter: Gramido folyópart",
+            "ro": "Cluster: Malul râului Gramido",
+            "en": "Cluster: Gramido Riverfront"
+          },
+          "coords": [
+            -8.5515,
+            41.1279
+          ],
+          "category": "transit_stop",
+          "arrive_at": "13:02",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus, der entlang des Flusses nach Gramido fährt.",
+            "hu": "Menjen egy busszal, amely a folyó mentén közlekedik Gramido felé.",
+            "ro": "Luați un autobuz care merge de-a lungul râului spre Gramido.",
+            "en": "Take a bus that goes along the river towards Gramido."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Branca & Promenade",
+            "hu": "Casa Branca és sétány",
+            "ro": "Casa Branca și Promenada",
+            "en": "Casa Branca & Promenade"
+          },
+          "coords": [
+            -8.5511,
+            41.1278
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:10",
+          "stay_min": 150,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Verbringen Sie den Nachmittag mit Erkundungen und Entspannung am Wasser.",
+            "hu": "Töltse a délutánt a vízparti felfedezéssel és pihenéssel.",
+            "ro": "Petreceți după-amiaza explorând și relaxându-vă lângă apă.",
+            "en": "Spend the afternoon exploring and relaxing by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erkunden Sie Gondomar in zwei Clustern. Der Vormittag ist dem historischen Zentrum gewidmet, mit der Kirche, dem Museum und den Filigran-Werkstätten, die alle leicht zu Fuß erreichbar sind. Nach dem Mittagessen bringt Sie ein Bus zum malerischen Flussufer von Gramido, wo Sie einen entspannten Nachmittag mit einem Spaziergang entlang der Douro-Promenade und einem Besuch der historischen Casa Branca verbringen.",
+        "hu": "Tömegközlekedéssel két klaszterben fedezi fel Gondomart. A délelőtt a történelmi központé, a templommal, a múzeummal és a filigrán műhelyekkel, mind könnyen megközelíthető gyalog. Ebéd után egy busz viszi a festői Gramido folyópartra, ahol egy pihentető délutánt tölthet a Douro sétányon sétálva és a történelmi Casa Branca meglátogatásával.",
+        "ro": "Folosind transportul public, explorați Gondomar în două clustere. Dimineața este dedicată centrului istoric, cu biserica, muzeul și atelierele de filigran, toate ușor accesibile pe jos. După prânz, un autobuz vă duce pe malul pitoresc al râului la Gramido, unde petreceți o după-amiază relaxantă plimbându-vă pe promenada Douro și vizitând istorica Casa Branca.",
+        "en": "Using public transport, you'll explore Gondomar in two clusters. The morning is dedicated to the historic center, with the church, museum, and filigree workshops all easily walkable. After lunch, a bus takes you to the scenic riverfront at Gramido, where you'll spend a relaxed afternoon strolling the Douro promenade and visiting the historic Casa Branca."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Francesinha",
+            "tip": "Obwohl es aus Porto stammt, finden Sie auch in Gondomar gute Versionen dieses deftigen Sandwiches."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Der perfekte süße Snack für zwischendurch an einer Bushaltestelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Francesinha",
+            "tip": "Bár Portóból származik, Gondomarban is talál jó változatokat ebből a kiadós szendvicsből."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "A tökéletes édes falat egy buszmegállóban várakozva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Francesinha",
+            "tip": "Deși originar din Porto, veți găsi versiuni bune ale acestui sandviș consistent și în Gondomar."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Gustarea dulce perfectă în timp ce așteptați în stația de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Francesinha",
+            "tip": "Though from Porto, you'll find good versions of this hearty sandwich in Gondomar too."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "The perfect sweet snack while waiting at a bus stop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque de Lazer de Gondomar",
+            "tip": "Wenn Sie Zeit haben, nehmen Sie einen Bus hierher für etwas Ruhe und Frieden.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Eine Bank am Douro",
+            "tip": "Einfach, aber effektiv für eine ruhige Minute.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gondomari Szabadidőpark",
+            "tip": "Ha van ideje, menjen el ide busszal egy kis csendért és békéért.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Egy pad a Douro-nál",
+            "tip": "Egyszerű, de hatásos egy csendes percre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul de Agrement Gondomar",
+            "tip": "Dacă aveți timp, luați un autobuz până aici pentru puțină liniște și pace.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "O bancă pe malul râului Douro",
+            "tip": "Simplu, dar eficient pentru un moment de liniște.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gondomar Leisure Park",
+            "tip": "If you have time, take a bus here for some peace and quiet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A bench by the Douro",
+            "tip": "Simple but effective for a quiet minute.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Keramik",
+            "tip": "Halten Sie Ausschau nach handbemalter Keramik, einem weiteren regionalen Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerámia",
+            "tip": "Keresse a kézzel festett kerámiákat, egy másik regionális kézműves terméket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică locală",
+            "tip": "Căutați ceramică pictată manual, un alt meșteșug regional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Ceramics",
+            "tip": "Look out for hand-painted ceramics, another regional craft."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, besonders am Wochenende.",
+          "Die Google Maps App ist zuverlässig für die Routenplanung mit öffentlichen Verkehrsmitteln."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha több utazást tervez.",
+          "Ellenőrizze előre a buszmenetrendet, különösen hétvégén.",
+          "A Google Maps alkalmazás megbízható a tömegközlekedési útvonaltervezéshez."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă plănuiți mai multe călătorii.",
+          "Verificați orarele autobuzelor în avans, mai ales în weekend.",
+          "Aplicația Google Maps este fiabilă pentru planificarea rutelor cu transportul public."
+        ],
+        "en": [
+          "Buy a day pass for the bus if you plan on making multiple trips.",
+          "Check bus schedules in advance, especially on weekends.",
+          "Google Maps app is reliable for transit routing."
+        ]
+      }
+    }
+  }
+}

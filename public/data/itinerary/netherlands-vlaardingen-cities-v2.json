@@ -1,0 +1,1492 @@
+{
+  "city_id": "netherlands-vlaardingen-cities-v2",
+  "anchor": {
+    "name": "Vlaardingen",
+    "coords": [
+      51.9122,
+      4.3412
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Beginnen an der historischen Visbank (Fischmarkt)",
+            "hu": "Kezdés a történelmi Visbanknál (halpiac)",
+            "ro": "Începeți de la istoricul Visbank (Piața de pește)",
+            "en": "Start at the historic Visbank (Fish Market)"
+          },
+          "coords": [
+            4.3468,
+            51.9101
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die alten Auktionsuhren und stellen Sie sich den Handel vergangener Zeiten vor.",
+            "hu": "Figyelje meg a régi aukciós órákat, és képzelje el a régi idők kereskedelmét.",
+            "ro": "Priviți ceasurile vechi de licitație și imaginați-vă comerțul de altădată.",
+            "en": "Observe the old auction clocks and imagine the trade of bygone eras."
+          }
+        },
+        {
+          "name": {
+            "de": "Westhavenkade",
+            "hu": "Westhavenkade",
+            "ro": "Westhavenkade",
+            "en": "Westhavenkade"
+          },
+          "coords": [
+            4.3445,
+            51.9095
+          ],
+          "category": "promenades",
+          "arrive_at": "09:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht auf die historischen Schiffe und die charmanten Kaimauern.",
+            "hu": "Élvezze a történelmi hajók és a bájos rakpartok látványát.",
+            "ro": "Bucurați-vă de vederea navelor istorice și a cheiurilor fermecătoare.",
+            "en": "Enjoy the view of the historic ships and charming quay walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Vlaardingen",
+            "hu": "Vlaardingen Múzeum",
+            "ro": "Muzeul Vlaardingen",
+            "en": "Museum Vlaardingen"
+          },
+          "coords": [
+            4.3481,
+            51.9098
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die Ausstellung über die Heringsfischerei ist ein Muss, um die Seele der Stadt zu verstehen.",
+            "hu": "A heringhalászatról szóló kiállítás kötelező a város lelkének megértéséhez.",
+            "ro": "Expoziția despre pescuitul de hering este esențială pentru a înțelege sufletul orașului.",
+            "en": "The exhibition on herring fishing is a must-see to understand the city's soul."
+          }
+        },
+        {
+          "name": {
+            "de": "Grote Kerk (Große Kirche)",
+            "hu": "Grote Kerk (Nagy Templom)",
+            "ro": "Grote Kerk (Biserica Mare)",
+            "en": "Grote Kerk (Great Church)"
+          },
+          "coords": [
+            4.3452,
+            51.9125
+          ],
+          "category": "churches",
+          "arrive_at": "12:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Achten Sie auf das beeindruckende Buntglasfenster, das die Stadtgeschichte darstellt.",
+            "hu": "Keresse a város történetét ábrázoló lenyűgöző ólomüveg ablakot.",
+            "ro": "Căutați vitraliul impresionant care descrie istoria orașului.",
+            "en": "Look for the impressive stained-glass window depicting the city's history."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadhuis Vlaardingen (Rathaus)",
+            "hu": "Városháza (Stadhuis)",
+            "ro": "Primăria Vlaardingen (Stadhuis)",
+            "en": "Stadhuis Vlaardingen (City Hall)"
+          },
+          "coords": [
+            4.3458,
+            51.9129
+          ],
+          "category": "historical",
+          "arrive_at": "13:01",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für ein Foto, besonders wenn der Markt stattfindet.",
+            "hu": "Tökéletes fotóhelyszín, különösen, ha piac van.",
+            "ro": "Un loc perfect pentru fotografii, mai ales când are loc piața.",
+            "en": "A perfect spot for a photo, especially when the market is on."
+          }
+        },
+        {
+          "name": {
+            "de": "Watertoren Vlaardingen (Wasserturm)",
+            "hu": "Víztorony",
+            "ro": "Turnul de apă din Vlaardingen",
+            "en": "Watertoren Vlaardingen (Water Tower)"
+          },
+          "coords": [
+            4.3551,
+            51.9165
+          ],
+          "category": "historical",
+          "arrive_at": "13:41",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Auch wenn man nicht reingehen kann, ist die Architektur aus der Nähe beeindruckend.",
+            "hu": "Bár nem lehet bemenni, az építészete közelről is lenyűgöző.",
+            "ro": "Chiar dacă nu puteți intra, arhitectura este impresionantă de aproape.",
+            "en": "Even if you can't go inside, the architecture is impressive up close."
+          }
+        },
+        {
+          "name": {
+            "de": "Oranjepark",
+            "hu": "Oranjepark",
+            "ro": "Oranjepark",
+            "en": "Oranjepark"
+          },
+          "coords": [
+            4.3599,
+            51.9142
+          ],
+          "category": "parks",
+          "arrive_at": "15:01",
+          "stay_min": 99,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein schöner Ort für eine Pause am Nachmittag, besonders am Teich.",
+            "hu": "Szép hely egy délutáni pihenőre, különösen a tó partján.",
+            "ro": "Un loc minunat pentru o pauză de după-amiază, în special lângă iaz.",
+            "en": "A lovely spot for an afternoon break, especially by the pond."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Vlaardingen beginnt im historischen Hafenviertel, wo die reiche Fischereigeschichte lebendig ist. Am Mittag erkunden Sie das Stadtzentrum mit seiner beeindruckenden Kirche und dem Rathaus, bevor Sie ein Museum besuchen, das der Vergangenheit der Stadt gewidmet ist. Der Nachmittag ist für einen entspannten Spaziergang durch einen grünen Park reserviert, der einen ruhigen Ausklang für Ihre Erkundungstour bietet. Am Abend genießen Sie die lokale Küche in einem der gemütlichen Restaurants am Hafen.",
+        "hu": "A nap Vlaardingenben a történelmi kikötőnegyedben kezdődik, ahol a gazdag halászati múlt életre kel. Délben felfedezheti a városközpontot a lenyűgöző templommal és városházával, majd ellátogat a város múltját bemutató múzeumba. A délután egy zöld parkban tett pihentető sétára van fenntartva, amely békés lezárása a felfedezésnek. Este a helyi konyhát élvezheti a kikötő egyik hangulatos éttermében.",
+        "ro": "Ziua dvs. în Vlaardingen începe în cartierul istoric al portului, unde istoria bogată a pescuitului prinde viață. La prânz, explorați centrul orașului cu biserica și primăria sa impresionantă, înainte de a vizita un muzeu dedicat trecutului orașului. După-amiaza este rezervată unei plimbări relaxante printr-un parc verde, oferind o încheiere liniștită explorării dvs. Seara, bucurați-vă de bucătăria locală la unul dintre restaurantele primitoare de lângă port.",
+        "en": "Your day in Vlaardingen begins in the historic harbor district, where the rich fishing history comes alive. At midday, you'll explore the city center with its impressive church and city hall before visiting a museum dedicated to the city's past. The afternoon is reserved for a relaxing walk through a green park, providing a peaceful end to your exploration. In the evening, enjoy the local cuisine in one of the cozy restaurants by the harbor."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Holländischer Hering",
+            "tip": "Probieren Sie ihn frisch von einem der Stände in der Nähe des Hafens."
+          },
+          {
+            "name": "Stroopwafels",
+            "tip": "Auf dem lokalen Markt finden Sie oft frisch zubereitete Stroopwafels."
+          },
+          {
+            "name": "Restaurant De Schelp",
+            "tip": "Bekannt für seine exzellenten Fischgerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Holland hering",
+            "tip": "Kóstolja meg frissen a kikötő közelében lévő standok egyikénél."
+          },
+          {
+            "name": "Stroopwafel",
+            "tip": "A helyi piacon gyakran talál frissen készültet."
+          },
+          {
+            "name": "De Schelp étterem",
+            "tip": "Kiváló halételeiről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hering olandez",
+            "tip": "Încercați-l proaspăt de la una dintre tarabele de lângă port."
+          },
+          {
+            "name": "Stroopwafels",
+            "tip": "Găsiți adesea unele proaspăt făcute la piața locală."
+          },
+          {
+            "name": "Restaurant De Schelp",
+            "tip": "Renumit pentru preparatele sale excelente din pește."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dutch Herring",
+            "tip": "Try it fresh from one of the stalls near the harbor."
+          },
+          {
+            "name": "Stroopwafels",
+            "tip": "You can often find freshly made ones at the local market."
+          },
+          {
+            "name": "Restaurant De Schelp",
+            "tip": "Known for its excellent fish dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Nieuwe Maas",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses bietet eine andere Perspektive.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Oranjepark",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die Natur.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Früher Morgen am Westhavenkade",
+            "tip": "Erleben Sie die Stille des Hafens, bevor die Stadt erwacht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Nieuwe Maas folyó partja",
+            "tip": "Egy csendes séta a folyó mentén más perspektívát kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Oranjepark",
+            "tip": "Keressen egy csendes padot, és élvezze a természetet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kora reggel a Westhavenkade-n",
+            "tip": "Tapasztalja meg a kikötő csendjét, mielőtt a város felébred.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Nieuwe Maas",
+            "tip": "O plimbare liniștită de-a lungul râului oferă o perspectivă diferită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Oranjepark",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de natură.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dimineața devreme la Westhavenkade",
+            "tip": "Experimentați liniștea portului înainte ca orașul să se trezească.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Nieuwe Maas river",
+            "tip": "A quiet walk along the river offers a different perspective.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Oranjepark",
+            "tip": "Find a quiet bench and enjoy nature.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Early morning at Westhavenkade",
+            "tip": "Experience the silence of the harbor before the city awakens.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Findet mittwochs und samstags statt und bietet lokale Produkte und Spezialitäten."
+          },
+          {
+            "name": "Liesveld",
+            "tip": "Das Haupteinkaufszentrum für eine größere Auswahl an Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Szerdán és szombaton tartják, helyi termékeket és különlegességeket kínálva."
+          },
+          {
+            "name": "Liesveld",
+            "tip": "A fő bevásárlóközpont, ahol szélesebb üzletválaszték található."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Are loc miercurea și sâmbăta, oferind produse și specialități locale."
+          },
+          {
+            "name": "Liesveld",
+            "tip": "Principalul centru comercial pentru o varietate mai mare de magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Held on Wednesdays and Saturdays, offering local produce and specialties."
+          },
+          {
+            "name": "Liesveld",
+            "tip": "The main shopping center for a wider variety of shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in den alten Straßen uneben sein kann.",
+          "Prüfen Sie die Öffnungszeiten des Museums im Voraus.",
+          "Ein Spaziergang am Abend entlang des Hafens ist besonders stimmungsvoll.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a régi utcák macskakövei egyenetlenek lehetnek.",
+          "Előre ellenőrizze a múzeum nyitvatartási idejét.",
+          "Egy esti séta a kikötő mentén különösen hangulatos.",
+          "A központ legtöbb látnivalója könnyen megközelíthető gyalog."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece pavelele de pe străzile vechi pot fi denivelate.",
+          "Verificați în avans programul de funcționare al muzeului.",
+          "O plimbare de seară de-a lungul portului este deosebit de atmosferică.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old streets can be uneven.",
+          "Check the museum's opening hours in advance.",
+          "An evening walk along the harbor is particularly atmospheric.",
+          "Most sights in the center are within easy walking distance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:48",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Start am Stadhuis (Rathaus)",
+            "hu": "Indulás a Városházától (Stadhuis)",
+            "ro": "Pornire de la Stadhuis (Primărie)",
+            "en": "Start at the Stadhuis (City Hall)"
+          },
+          "coords": [
+            4.3458,
+            51.9129
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein idealer, zentraler Ausgangspunkt, um die Stadt zu erkunden.",
+            "hu": "Ideális, központi kiindulópont a város felfedezéséhez.",
+            "ro": "Un punct de plecare ideal și central pentru a explora orașul.",
+            "en": "An ideal, central starting point to explore the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Grote Kerk",
+            "hu": "Grote Kerk",
+            "ro": "Grote Kerk",
+            "en": "Grote Kerk"
+          },
+          "coords": [
+            4.3452,
+            51.9125
+          ],
+          "category": "churches",
+          "arrive_at": "09:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab und nehmen Sie sich Zeit für das Innere.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és szánjon időt a belső térre.",
+            "ro": "Încuiați-vă bicicleta în siguranță și acordați-vă timp pentru a explora interiorul.",
+            "en": "Lock your bike securely and take time to explore the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Westhavenkade & Visbank",
+            "hu": "Westhavenkade & Visbank",
+            "ro": "Westhavenkade & Visbank",
+            "en": "Westhavenkade & Visbank"
+          },
+          "coords": [
+            4.3468,
+            51.9101
+          ],
+          "category": "promenades",
+          "arrive_at": "10:17",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und schlendern Sie entlang des Kais.",
+            "hu": "Parkolja le a kerékpárt, és sétáljon végig a rakparton.",
+            "ro": "Parcați bicicleta și plimbați-vă de-a lungul cheiului.",
+            "en": "Park your bike and stroll along the quay."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Vlaardingen",
+            "hu": "Vlaardingen Múzeum",
+            "ro": "Muzeul Vlaardingen",
+            "en": "Museum Vlaardingen"
+          },
+          "coords": [
+            4.3481,
+            51.9098
+          ],
+          "category": "museums",
+          "arrive_at": "11:09",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein, die Ausstellungen sind sehr informativ.",
+            "hu": "Tervezzen elegendő időt, a kiállítások nagyon informatívak.",
+            "ro": "Planificați suficient timp, expozițiile sunt foarte informative.",
+            "en": "Plan enough time; the exhibitions are very informative."
+          }
+        },
+        {
+          "name": {
+            "de": "Oranjepark",
+            "hu": "Oranjepark",
+            "ro": "Oranjepark",
+            "en": "Oranjepark"
+          },
+          "coords": [
+            4.3599,
+            51.9142
+          ],
+          "category": "parks",
+          "arrive_at": "12:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ideal für ein Mittagspicknick, wenn Sie Ihr eigenes Essen mitbringen.",
+            "hu": "Ideális egy ebédpiknikhez, ha saját ételt hoz.",
+            "ro": "Ideal pentru un picnic la prânz dacă vă aduceți propria mâncare.",
+            "en": "Ideal for a lunch picnic if you bring your own food."
+          }
+        },
+        {
+          "name": {
+            "de": "Watertoren Vlaardingen",
+            "hu": "Víztorony",
+            "ro": "Turnul de apă",
+            "en": "Watertoren Vlaardingen"
+          },
+          "coords": [
+            4.3551,
+            51.9165
+          ],
+          "category": "historical",
+          "arrive_at": "14:18",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um dieses industrielle Wahrzeichen zu bewundern.",
+            "hu": "Egy rövid megálló, hogy megcsodálja ezt az ipari műemléket.",
+            "ro": "O oprire scurtă pentru a admira acest monument industrial.",
+            "en": "A quick stop to admire this industrial landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Broekpolder",
+            "hu": "Broekpolder",
+            "ro": "Broekpolder",
+            "en": "Broekpolder"
+          },
+          "coords": [
+            4.3215,
+            51.9288
+          ],
+          "category": "natural features",
+          "arrive_at": "14:59",
+          "stay_min": 79,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 7.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Radwege durch dieses riesige Natur- und Erholungsgebiet.",
+            "hu": "Fedezze fel a kerékpárutakat ezen a hatalmas természet- és rekreációs területen.",
+            "ro": "Explorați pistele de biciclete prin această zonă naturală și de agrement vastă.",
+            "en": "Explore the bike paths through this vast nature and recreation area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag im Herzen von Vlaardingen und erkunden Sie die zentralen Plätze und Kirchen. Am Mittag radeln Sie zum historischen Hafen, um im Museum in die maritime Vergangenheit einzutauchen. Der Nachmittag führt Sie aus dem Stadtzentrum hinaus in die grünen Weiten des Oranjeparks und des riesigen Broekpolder-Gebiets, perfekt für eine ausgedehnte Radtour. Schließen Sie den Tag mit einer entspannten Rückfahrt ins Zentrum ab.",
+        "hu": "Kezdje a kerékpáros napot Vlaardingen szívében, felfedezve a központi tereket és templomokat. Délben tekerjen a történelmi kikötőbe, hogy a múzeumban elmerüljön a tengeri múltban. A délután a városközpontból az Oranjepark zöld területeire és a hatalmas Broekpolder területére vezet, amely tökéletes egy hosszabb biciklitúrához. Zárja a napot egy pihentető visszautazással a központba.",
+        "ro": "Începeți ziua pe bicicletă în inima orașului Vlaardingen, explorând piețele și bisericile centrale. La prânz, pedalați spre portul istoric pentru a vă cufunda în trecutul maritim la muzeu. După-amiaza vă scoate din centrul orașului în întinderile verzi ale Parcului Oranjepark și în vasta zonă Broekpolder, perfectă pentru o plimbare extinsă cu bicicleta. Încheiați ziua cu o întoarcere relaxantă în centru.",
+        "en": "Start your cycling day in the heart of Vlaardingen, exploring the central squares and churches. At midday, pedal to the historic harbor to delve into the maritime past at the museum. The afternoon takes you out of the city center to the green expanses of Oranjepark and the vast Broekpolder area, perfect for an extended bike ride. Conclude the day with a relaxing ride back to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Vispaleis",
+            "tip": "Ein großartiger Ort für einen schnellen und leckeren Fisch-Snack."
+          },
+          {
+            "name": "Pannenkoekenhuis 't Hof",
+            "tip": "Probieren Sie herzhafte oder süße niederländische Pfannkuchen."
+          },
+          {
+            "name": "Koffie & Toost",
+            "tip": "Perfekt für eine Kaffeepause mit hausgemachtem Kuchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vispaleis",
+            "tip": "Kiváló hely egy gyors és finom halas harapnivalóhoz."
+          },
+          {
+            "name": "'t Hof palacsintázó",
+            "tip": "Kóstolja meg a sós vagy édes holland palacsintákat."
+          },
+          {
+            "name": "Koffie & Toost",
+            "tip": "Tökéletes egy kávészünetre házi süteménnyel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vispaleis",
+            "tip": "Un loc excelent pentru o gustare rapidă și delicioasă de pește."
+          },
+          {
+            "name": "Pannenkoekenhuis 't Hof",
+            "tip": "Încercați clătite olandeze sărate sau dulci."
+          },
+          {
+            "name": "Koffie & Toost",
+            "tip": "Perfect pentru o pauză de cafea cu prăjituri de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vispaleis",
+            "tip": "A great spot for a quick and delicious fish snack."
+          },
+          {
+            "name": "Pannenkoekenhuis 't Hof",
+            "tip": "Try savory or sweet Dutch pancakes."
+          },
+          {
+            "name": "Koffie & Toost",
+            "tip": "Perfect for a coffee break with homemade cake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Broekpolder",
+            "tip": "Weitläufige Wege bieten viel Ruhe und Frieden.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Uferweg am Oranjepark",
+            "tip": "Ein ruhiger Abschnitt für eine kurze Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang über der Nieuwe Maas",
+            "tip": "Finden Sie einen Platz mit Blick auf den Fluss für einen malerischen Abend.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Broekpolder",
+            "tip": "A kiterjedt utak sok békét és csendet kínálnak.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Tóparti út az Oranjeparkban",
+            "tip": "Egy csendes szakasz egy rövid szünetre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a Nieuwe Maas felett",
+            "tip": "Keressen egy helyet, ahonnan kilátás nyílik a folyóra egy festői estéhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Broekpolder",
+            "tip": "Potecile extinse oferă multă liniște și pace.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aleea de pe malul lacului din Oranjepark",
+            "tip": "O secțiune liniștită pentru o pauză scurtă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus de soare peste Nieuwe Maas",
+            "tip": "Găsiți un loc cu vedere la râu pentru o seară pitorească.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Broekpolder",
+            "tip": "Expansive paths offer plenty of peace and quiet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Lakeside path in Oranjepark",
+            "tip": "A quiet section for a short break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset over the Nieuwe Maas",
+            "tip": "Find a spot overlooking the river for a scenic evening.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Vlaardingen hat mehrere Geschäfte für Zubehör oder schnelle Reparaturen."
+          },
+          {
+            "name": "De Groene Luiken",
+            "tip": "Ein charmanter Laden für Geschenke und lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Vlaardingenben több üzlet is található kiegészítőkért vagy gyors javításokért."
+          },
+          {
+            "name": "De Groene Luiken",
+            "tip": "Bájos üzlet ajándékokért és helyi termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Vlaardingen are mai multe magazine pentru accesorii sau reparații rapide."
+          },
+          {
+            "name": "De Groene Luiken",
+            "tip": "Un magazin fermecător pentru cadouri și produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "Vlaardingen has several shops for accessories or quick repairs."
+          },
+          {
+            "name": "De Groene Luiken",
+            "tip": "A charming shop for gifts and local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad in einem der lokalen Geschäfte, falls Sie keins haben.",
+          "Achten Sie auf die ausgewiesenen Radwege und die örtlichen Verkehrsregeln.",
+          "Nehmen Sie eine Wasserflasche und Snacks mit, besonders für die Fahrt zum Broekpolder.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, auch bei kurzen Stopps."
+        ],
+        "hu": [
+          "Béreljen kerékpárt az egyik helyi üzletben, ha nincs sajátja.",
+          "Figyeljen a kijelölt kerékpárutakra és a helyi közlekedési szabályokra.",
+          "Vigyen magával vizet és harapnivalót, különösen a Broekpolderbe vezető útra.",
+          "Mindig zárja le jól a kerékpárját, még rövid megállók esetén is."
+        ],
+        "ro": [
+          "Închiriați o bicicletă de la unul dintre magazinele locale dacă nu aveți una.",
+          "Fiți atenți la pistele de biciclete desemnate și la regulile de circulație locale.",
+          "Luați o sticlă de apă și gustări, mai ales pentru plimbarea spre Broekpolder.",
+          "Încuiati-vă întotdeauna bicicleta, chiar și pentru opriri scurte."
+        ],
+        "en": [
+          "Rent a bike from a local shop if you don't have one.",
+          "Pay attention to the designated bike paths and local traffic rules.",
+          "Bring a water bottle and snacks, especially for the trip to Broekpolder.",
+          "Always lock your bike securely, even for short stops."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:54",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Parken & Erkundung des Broekpolder",
+            "hu": "1. klaszter: Parkolás és a Broekpolder felfedezése",
+            "ro": "Cluster 1: Parcare și explorare Broekpolder",
+            "en": "Cluster 1: Park & Explore Broekpolder"
+          },
+          "coords": [
+            4.3215,
+            51.9288
+          ],
+          "category": "natural features",
+          "arrive_at": "09:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Parken Sie am Rande des Gebiets und machen Sie einen belebenden Morgenspaziergang.",
+            "hu": "Parkoljon a terület szélén, és tegyen egy élénkítő reggeli sétát.",
+            "ro": "Parcați la marginea zonei și faceți o plimbare matinală înviorătoare.",
+            "en": "Park on the edge of the area and take an invigorating morning walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Fahrt zum Zentrum, Parken am Oranjepark",
+            "hu": "2. klaszter: Irány a központ, parkolás az Oranjeparknál",
+            "ro": "Cluster 2: Conduceți spre centru, parcați la Oranjepark",
+            "en": "Cluster 2: Drive to Center, Park at Oranjepark"
+          },
+          "coords": [
+            4.3599,
+            51.9142
+          ],
+          "category": "parks",
+          "arrive_at": "11:00",
+          "stay_min": 30,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein guter, zentraler Parkplatz, von dem aus man das Stadtzentrum zu Fuß erkunden kann.",
+            "hu": "Jó, központi parkolóhely, ahonnan gyalogosan felfedezhető a városközpont.",
+            "ro": "O parcare bună și centrală de unde puteți explora centrul orașului pe jos.",
+            "en": "A good, central parking spot from which to explore the city center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Watertoren Vlaardingen",
+            "hu": "Víztorony",
+            "ro": "Turnul de apă",
+            "en": "Watertoren Vlaardingen"
+          },
+          "coords": [
+            4.3551,
+            51.9165
+          ],
+          "category": "historical",
+          "arrive_at": "11:35",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Park zum Turm.",
+            "hu": "Rövid séta a parkból a toronyhoz.",
+            "ro": "O scurtă plimbare de la parc la turn.",
+            "en": "A short walk from the park to the tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadhuis & Grote Kerk",
+            "hu": "Városháza és Nagytemplom",
+            "ro": "Primăria și Biserica Mare",
+            "en": "City Hall & Great Church"
+          },
+          "coords": [
+            4.3458,
+            51.9129
+          ],
+          "category": "historical",
+          "arrive_at": "12:00",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Diese beiden Wahrzeichen liegen direkt nebeneinander im Herzen der Stadt.",
+            "hu": "Ez a két nevezetesség egymás mellett található a város szívében.",
+            "ro": "Aceste două repere sunt situate chiar unul lângă celălalt, în inima orașului.",
+            "en": "These two landmarks are located right next to each other in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Vlaardingen",
+            "hu": "Vlaardingen Múzeum",
+            "ro": "Muzeul Vlaardingen",
+            "en": "Museum Vlaardingen"
+          },
+          "coords": [
+            4.3481,
+            51.9098
+          ],
+          "category": "museums",
+          "arrive_at": "13:10",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Planen Sie hier Ihre Mittagspause, das Museumscafé ist sehr zu empfehlen.",
+            "hu": "Tervezze ide az ebédszünetet, a múzeumi kávézó nagyon ajánlott.",
+            "ro": "Planificați-vă pauza de prânz aici, cafeneaua muzeului este foarte recomandată.",
+            "en": "Plan your lunch break here; the museum cafe is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Westhavenkade",
+            "hu": "Westhavenkade",
+            "ro": "Westhavenkade",
+            "en": "Westhavenkade"
+          },
+          "coords": [
+            4.3445,
+            51.9095
+          ],
+          "category": "promenades",
+          "arrive_at": "15:00",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang entlang des Wassers, um die Eindrücke des Museums zu verarbeiten.",
+            "hu": "Egy kellemes séta a víz mentén, hogy feldolgozza a múzeumi élményeket.",
+            "ro": "O plimbare plăcută de-a lungul apei pentru a procesa impresiile de la muzeu.",
+            "en": "A pleasant walk along the water to process the impressions from the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Visbank",
+            "hu": "Visbank",
+            "ro": "Visbank",
+            "en": "Visbank"
+          },
+          "coords": [
+            4.3468,
+            51.9101
+          ],
+          "category": "historical",
+          "arrive_at": "15:55",
+          "stay_min": 89,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Der letzte Halt des Rundgangs, bevor Sie zum Auto zurückkehren.",
+            "hu": "A körséta utolsó állomása, mielőtt visszatérne az autóhoz.",
+            "ro": "Ultima oprire a turului pietonal înainte de a vă întoarce la mașină.",
+            "en": "The last stop of the walking tour before heading back to the car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt mit einem Naturerlebnis im weitläufigen Broekpolder. Nach einem Morgenspaziergang fahren Sie ins Zentrum und parken in der Nähe des Oranjeparks. Von dort aus erkunden Sie zu Fuß den historischen Kern von Vlaardingen: den Wasserturm, das Rathaus, die Kirche und das Museum. Den Nachmittag verbringen Sie mit einem gemütlichen Spaziergang entlang des Hafens, bevor Sie zu Ihrem Auto zurückkehren.",
+        "hu": "Az autós nap egy természeti élménnyel kezdődik a tágas Broekpolderben. Egy reggeli séta után a központba hajt, és az Oranjepark közelében parkol. Innen gyalogosan fedezi fel Vlaardingen történelmi magját: a víztornyot, a városházát, a templomot és a múzeumot. A délutánt egy kellemes sétával tölti a kikötő mentén, mielőtt visszatérne az autójához.",
+        "ro": "Ziua cu mașina începe cu o experiență în natură în vastul Broekpolder. După o plimbare de dimineață, conduceți spre centru și parcați lângă Oranjepark. De acolo, explorați pe jos nucleul istoric al orașului Vlaardingen: turnul de apă, primăria, biserica și muzeul. Petreceți după-amiaza cu o plimbare agale de-a lungul portului înainte de a vă întoarce la mașină.",
+        "en": "Your car day begins with a nature experience in the spacious Broekpolder. After a morning walk, you drive to the center and park near Oranjepark. From there, you explore Vlaardingen's historic core on foot: the water tower, city hall, church, and museum. You'll spend the afternoon with a leisurely stroll along the harbor before returning to your car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant 't Oogh van Vlaardingen",
+            "tip": "Etwas außerhalb gelegen, aber die Fahrt für ein gehobenes Abendessen wert."
+          },
+          {
+            "name": "Verse Haring",
+            "tip": "Halten Sie an einem Imbisswagen für den authentischsten Geschmack."
+          },
+          {
+            "name": "Delta Hotel",
+            "tip": "Bietet eine großartige Aussicht zum Mittag- oder Abendessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "'t Oogh van Vlaardingen étterem",
+            "tip": "Kicsit kiesik, de megéri az utat egy elegáns vacsoráért."
+          },
+          {
+            "name": "Friss hering",
+            "tip": "Álljon meg egy büfékocsinál a legautentikusabb ízért."
+          },
+          {
+            "name": "Delta Hotel",
+            "tip": "Nagyszerű kilátást kínál ebédhez vagy vacsorához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant 't Oogh van Vlaardingen",
+            "tip": "Situat puțin în afara orașului, dar merită drumul pentru o cină rafinată."
+          },
+          {
+            "name": "Hering proaspăt",
+            "tip": "Opriți-vă la o rulotă cu mâncare pentru cel mai autentic gust."
+          },
+          {
+            "name": "Hotel Delta",
+            "tip": "Oferă o priveliște minunată pentru prânz sau cină."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant 't Oogh van Vlaardingen",
+            "tip": "Located a bit outside, but worth the drive for an upscale dinner."
+          },
+          {
+            "name": "Fresh Herring",
+            "tip": "Stop by a food truck for the most authentic taste."
+          },
+          {
+            "name": "Delta Hotel",
+            "tip": "Offers a great view for lunch or dinner."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtsplattform im Broekpolder",
+            "tip": "Bietet einen weiten Blick über die Landschaft.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eine Bank im Oranjepark",
+            "tip": "Ein Moment der Ruhe vor dem Stadtbummel.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Später Nachmittag am Westhavenkade",
+            "tip": "Wenn die Menschenmassen nachlassen, ist es hier besonders friedlich.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátó a Broekpolderben",
+            "tip": "Széles kilátást nyújt a tájra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy pad az Oranjeparkban",
+            "tip": "Egy pillanatnyi csend a városi séta előtt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Késő délután a Westhavenkade-n",
+            "tip": "Amikor a tömeg alábbhagy, különösen békés.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platforma de observare din Broekpolder",
+            "tip": "Oferă o vedere panoramică asupra peisajului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O bancă în Oranjepark",
+            "tip": "Un moment de liniște înainte de plimbarea prin oraș.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "După-amiaza târziu la Westhavenkade",
+            "tip": "Este deosebit de liniștit când mulțimile se răresc.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewing platform in Broekpolder",
+            "tip": "Offers a wide view over the landscape.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A bench in Oranjepark",
+            "tip": "A moment of peace before the city walk.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Late afternoon at Westhavenkade",
+            "tip": "It's especially peaceful when the crowds thin out.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hof van Vlaardingen",
+            "tip": "Ein kleines Einkaufszentrum mit einer Mischung aus lokalen und nationalen Geschäften."
+          },
+          {
+            "name": "Souvenirs im Museum Vlaardingen",
+            "tip": "Kaufen Sie ein maritimes Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hof van Vlaardingen",
+            "tip": "Kis bevásárlóközpont helyi és országos üzletek keverékével."
+          },
+          {
+            "name": "Szuvenírek a Vlaardingen Múzeumban",
+            "tip": "Vásároljon egy tengeri emléket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hof van Vlaardingen",
+            "tip": "Un mic centru comercial cu un amestec de magazine locale și naționale."
+          },
+          {
+            "name": "Suveniruri la Muzeul Vlaardingen",
+            "tip": "Cumpărați un suvenir maritim."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hof van Vlaardingen",
+            "tip": "A small shopping center with a mix of local and national stores."
+          },
+          {
+            "name": "Souvenirs at Museum Vlaardingen",
+            "tip": "Buy a maritime-themed souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkgebühren können im Stadtzentrum anfallen. Eine Tageskarte ist oft günstiger.",
+          "Planen Sie Ihre Route im Voraus, um Verkehr zu vermeiden.",
+          "Das Auto ist am besten, um die weiter entfernten Naturgebiete wie den Broekpolder zu erreichen.",
+          "Lassen Sie keine Wertsachen im Auto sichtbar liegen."
+        ],
+        "hu": [
+          "A városközpontban parkolási díjak merülhetnek fel. A napijegy gyakran olcsóbb.",
+          "Tervezze meg előre az útvonalat a forgalom elkerülése érdekében.",
+          "Az autó a legjobb a távolabbi természeti területek, például a Broekpolder eléréséhez.",
+          "Ne hagyjon értékeket látható helyen az autóban."
+        ],
+        "ro": [
+          "Se pot aplica taxe de parcare în centrul orașului. Un bilet de o zi este adesea mai ieftin.",
+          "Planificați-vă ruta în avans pentru a evita traficul.",
+          "Mașina este cea mai bună opțiune pentru a ajunge în zonele naturale mai îndepărtate, cum ar fi Broekpolder.",
+          "Nu lăsați obiecte de valoare la vedere în mașină."
+        ],
+        "en": [
+          "Parking fees may apply in the city center. A day pass is often cheaper.",
+          "Plan your route in advance to avoid traffic.",
+          "The car is best for reaching the more distant nature areas like Broekpolder.",
+          "Do not leave valuables visible in the car."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 5.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Ankunft am Bahnhof Vlaardingen Centrum",
+            "hu": "1. klaszter: Érkezés a Vlaardingen Centrum állomásra",
+            "ro": "Cluster 1: Sosire la stația Vlaardingen Centrum",
+            "en": "Cluster 1: Arrive at Vlaardingen Centrum station"
+          },
+          "coords": [
+            4.351,
+            51.912
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Von hier aus ist das Zentrum leicht zu Fuß zu erreichen.",
+            "hu": "Innen a központ könnyen elérhető gyalog.",
+            "ro": "De aici, centrul este ușor accesibil pe jos.",
+            "en": "From here, the center is easily accessible on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Grote Kerk & Stadhuis",
+            "hu": "Grote Kerk és Városháza",
+            "ro": "Grote Kerk și Primăria",
+            "en": "Grote Kerk & City Hall"
+          },
+          "coords": [
+            4.3455,
+            51.9127
+          ],
+          "category": "historical",
+          "arrive_at": "09:18",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Rundgang bei diesen zentralen Wahrzeichen.",
+            "hu": "Kezdje a sétát ezeknél a központi nevezetességeknél.",
+            "ro": "Începeți turul pietonal de la aceste repere centrale.",
+            "en": "Start your walking tour at these central landmarks."
+          }
+        },
+        {
+          "name": {
+            "de": "Visbank & Westhavenkade",
+            "hu": "Visbank és Westhavenkade",
+            "ro": "Visbank și Westhavenkade",
+            "en": "Visbank & Westhavenkade"
+          },
+          "coords": [
+            4.3468,
+            51.9101
+          ],
+          "category": "promenades",
+          "arrive_at": "10:24",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spüren Sie die maritime Atmosphäre dieses historischen Hafenviertels.",
+            "hu": "Érezze át ennek a történelmi kikötőnegyednek a tengeri hangulatát.",
+            "ro": "Simțiți atmosfera maritimă a acestui cartier portuar istoric.",
+            "en": "Feel the maritime atmosphere of this historic harbor district."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Vlaardingen",
+            "hu": "Vlaardingen Múzeum",
+            "ro": "Muzeul Vlaardingen",
+            "en": "Museum Vlaardingen"
+          },
+          "coords": [
+            4.3481,
+            51.9098
+          ],
+          "category": "museums",
+          "arrive_at": "11:13",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein Muss, um die lokale Geschichte zu verstehen. Gut zu Fuß erreichbar.",
+            "hu": "Kötelező a helyi történelem megértéséhez. Könnyen elérhető gyalog.",
+            "ro": "O vizită obligatorie pentru a înțelege istoria locală. Ușor accesibil pe jos.",
+            "en": "A must-visit to understand local history. Easily reachable on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Bus zum Oranjepark",
+            "hu": "2. klaszter: Busszal az Oranjeparkba",
+            "ro": "Cluster 2: Autobuz spre Oranjepark",
+            "en": "Cluster 2: Bus to Oranjepark"
+          },
+          "coords": [
+            4.3599,
+            51.9142
+          ],
+          "category": "parks",
+          "arrive_at": "13:13",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus für eine kurze Fahrt zum Park für eine entspannte Mittagspause.",
+            "hu": "Menjen busszal egy rövid útra a parkba egy pihentető ebédszünetért.",
+            "ro": "Luați un autobuz pentru o călătorie scurtă până la parc pentru o pauză de prânz relaxantă.",
+            "en": "Take a bus for a short ride to the park for a relaxing lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum & Abschluss",
+            "hu": "Visszatérés a központba és lezárás",
+            "ro": "Întoarcere în centru și încheiere",
+            "en": "Return to Center & Wrap-up"
+          },
+          "coords": [
+            4.3458,
+            51.9129
+          ],
+          "category": "transit",
+          "arrive_at": "15:08",
+          "stay_min": 143,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie noch einmal durchs Zentrum, bevor Sie den Zug nehmen.",
+            "hu": "Sétáljon még egyet a központban, mielőtt vonatra száll.",
+            "ro": "Mai faceți o plimbare prin centru înainte de a lua trenul.",
+            "en": "Take one last stroll through the center before catching your train."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit der Ankunft am Bahnhof Vlaardingen Centrum. Von dort aus erkunden Sie das historische Herz der Stadt bequem zu Fuß und besuchen die Kirche, das Rathaus und das Hafenviertel. Nach dem Mittagessen im Museum nehmen Sie einen Bus zum Oranjepark für einen entspannten Nachmittag im Grünen. Ein weiterer Bus bringt Sie zurück ins Zentrum, wo Sie noch Zeit für einen letzten Spaziergang haben, bevor Sie die Heimreise antreten.",
+        "hu": "A nap a Vlaardingen Centrum állomásra érkezéssel kezdődik. Innen kényelmesen, gyalogosan fedezheti fel a város történelmi szívét, meglátogatva a templomot, a városházát és a kikötőnegyedet. A múzeumban elköltött ebéd után busszal megy az Oranjeparkba egy pihentető délutánra a zöldben. Egy másik busz visszaviszi a központba, ahol még van ideje egy utolsó sétára, mielőtt hazaindul.",
+        "ro": "Ziua începe cu sosirea la stația Vlaardingen Centrum. De acolo, explorați inima istorică a orașului confortabil pe jos, vizitând biserica, primăria și cartierul portuar. După prânzul la muzeu, luați un autobuz spre Oranjepark pentru o după-amiază relaxantă în natură. Un alt autobuz vă duce înapoi în centru, unde aveți timp pentru o ultimă plimbare înainte de a pleca spre casă.",
+        "en": "Your day starts with arrival at Vlaardingen Centrum station. From there, you comfortably explore the historic heart of the city on foot, visiting the church, city hall, and harbor district. After lunch at the museum, you take a bus to Oranjepark for a relaxing afternoon in the green. Another bus takes you back to the center, where you have time for one last stroll before heading home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Snackbar bei der Haltestelle",
+            "tip": "Schnappen Sie sich eine Portion 'Patat' (Pommes) für unterwegs."
+          },
+          {
+            "name": "Café de Oude Stoep",
+            "tip": "Ein klassischer niederländischer 'brauner Pub' für ein lokales Bier."
+          },
+          {
+            "name": "Bakkertje",
+            "tip": "Ein Bäckerladen für ein leckeres belegtes Brötchen (Broodje)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Büfé a megállónál",
+            "tip": "Kapjon be egy adag 'patat'-ot (sült krumpli) útközben."
+          },
+          {
+            "name": "Café de Oude Stoep",
+            "tip": "Klasszikus holland 'barna kocsma' egy helyi sörért."
+          },
+          {
+            "name": "Bakkertje",
+            "tip": "Egy pékség egy finom szendvicsért (broodje)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Snackbar la stație",
+            "tip": "Luați o porție de 'patat' (cartofi prăjiți) la pachet."
+          },
+          {
+            "name": "Café de Oude Stoep",
+            "tip": "Un 'pub maro' olandez clasic pentru o bere locală."
+          },
+          {
+            "name": "Bakkertje",
+            "tip": "O brutărie pentru un sandviș delicios (broodje)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Snackbar at the stop",
+            "tip": "Grab a portion of 'patat' (fries) to go."
+          },
+          {
+            "name": "Café de Oude Stoep",
+            "tip": "A classic Dutch 'brown pub' for a local beer."
+          },
+          {
+            "name": "Bakkertje",
+            "tip": "A bakery for a delicious sandwich (broodje)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Während der Busfahrt",
+            "tip": "Beobachten Sie das Stadtleben, das an Ihnen vorbeizieht.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ein ruhiger Platz im Oranjepark",
+            "tip": "Entfliehen Sie dem Trubel der Stadt für eine Weile.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Am Ufer in der Nähe des Museums",
+            "tip": "Ein schöner Ort, um auf den Bus zu warten.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A buszozás alatt",
+            "tip": "Figyelje a városi életet, ahogy elhalad mellette.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Egy csendes hely az Oranjeparkban",
+            "tip": "Meneküljön el egy időre a város nyüzsgésétől.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A parton a múzeum közelében",
+            "tip": "Szép hely a buszra való várakozáshoz.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "În timpul călătoriei cu autobuzul",
+            "tip": "Priviți viața orașului derulându-se pe lângă dvs.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Un loc liniștit în Oranjepark",
+            "tip": "Evadați din agitația orașului pentru o vreme.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pe mal, lângă muzeu",
+            "tip": "Un loc frumos pentru a aștepta autobuzul.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "During the bus ride",
+            "tip": "Watch the city life go by.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A quiet spot in Oranjepark",
+            "tip": "Escape the city bustle for a while.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "On the waterfront near the museum",
+            "tip": "A nice place to wait for the bus.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte rund um den Bahnhof",
+            "tip": "Praktisch für Last-Minute-Einkäufe."
+          },
+          {
+            "name": "Markt am Veerplein",
+            "tip": "Wenn Sie an einem Markttag dort sind, schauen Sie sich die lokalen Angebote an."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok az állomás körül",
+            "tip": "Praktikus az utolsó pillanatos vásárlásokhoz."
+          },
+          {
+            "name": "Piac a Veerpleinen",
+            "tip": "Ha piacnapon van ott, nézze meg a helyi kínálatot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine în jurul stației",
+            "tip": "Convenabil pentru cumpărături de ultim moment."
+          },
+          {
+            "name": "Piața de la Veerplein",
+            "tip": "Dacă sunteți acolo într-o zi de piață, aruncați o privire la ofertele locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops around the station",
+            "tip": "Convenient for last-minute shopping."
+          },
+          {
+            "name": "Market at Veerplein",
+            "tip": "If you're there on a market day, check out the local offerings."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine OV-chipkaart oder eine Tageskarte für eine einfache Nutzung der öffentlichen Verkehrsmittel.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, besonders an Wochenenden.",
+          "Halten Sie Kleingeld für Bustickets bereit, falls Sie nicht im Voraus kaufen.",
+          "Die meisten Busse haben Bildschirme, die die nächsten Haltestellen anzeigen."
+        ],
+        "hu": [
+          "Vásároljon OV-chipkaartot vagy napijegyet a tömegközlekedés egyszerű használatához.",
+          "Előre ellenőrizze a buszmenetrendeket, különösen hétvégén.",
+          "Tartson aprópénzt a buszjegyekhez, ha nem vásárol előre.",
+          "A legtöbb buszon vannak képernyők, amelyek a következő megállókat mutatják."
+        ],
+        "ro": [
+          "Cumpărați un OV-chipkaart sau un bilet de o zi pentru a utiliza cu ușurință transportul public.",
+          "Verificați în avans orarele autobuzelor, în special în weekend.",
+          "Păstrați mărunțiș pentru biletele de autobuz dacă nu le cumpărați în avans.",
+          "Majoritatea autobuzelor au ecrane care afișează următoarele stații."
+        ],
+        "en": [
+          "Buy an OV-chipkaart or a day pass for easy use of public transport.",
+          "Check bus schedules in advance, especially on weekends.",
+          "Keep small change ready for bus tickets if not buying in advance.",
+          "Most buses have screens showing the next stops."
+        ]
+      }
+    }
+  }
+}

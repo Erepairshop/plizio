@@ -1,0 +1,1354 @@
+{
+  "city_id": "serbia-prokuplje-industry-economic-v2",
+  "anchor": {
+    "name": "Industriezentrum Prokuplje",
+    "coords": [
+      43.2389,
+      21.5833
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Nationalmuseum Toplica",
+            "hu": "Toplica Nemzeti Múzeum",
+            "ro": "Muzeul Național Toplica",
+            "en": "National Museum of Toplica"
+          },
+          "coords": [
+            21.586,
+            43.2355
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Fokus auf die reiche Geschichte der Region, besonders den Toplica-Aufstand.",
+            "hu": "Koncentráljon a régió gazdag történelmére, különösen a Toplica-felkelésre.",
+            "ro": "Concentrați-vă pe istoria bogată a regiunii, în special pe Răscoala din Toplica.",
+            "en": "Focus on the region's rich history, especially the Toplica Uprising."
+          }
+        },
+        {
+          "name": {
+            "de": "Park am Museum",
+            "hu": "Múzeumpark",
+            "ro": "Parcul de lângă Muzeu",
+            "en": "Park by the Museum"
+          },
+          "coords": [
+            21.5855,
+            43.2358
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:52",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein kurzer, entspannender Spaziergang nach dem Museumsbesuch.",
+            "hu": "Egy rövid, pihentető séta a múzeumlátogatás után.",
+            "ro": "O scurtă plimbare relaxantă după vizita la muzeu.",
+            "en": "A short, relaxing walk after the museum visit."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Prokopius-Kirche",
+            "hu": "Szent Prokopiosz-templom",
+            "ro": "Biserica Sfântul Procopie",
+            "en": "Church of St. Procopius"
+          },
+          "coords": [
+            21.5888,
+            43.234
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Dem Schutzpatron der Stadt gewidmet, ein wichtiger spiritueller Ort.",
+            "hu": "A város védőszentjének szentelték, fontos spirituális hely.",
+            "ro": "Dedicată sfântului patron al orașului, un loc spiritual important.",
+            "en": "Dedicated to the city's patron saint, an important spiritual site."
+          }
+        },
+        {
+          "name": {
+            "de": "Jug-Bogdan-Turm",
+            "hu": "Jug Bogdan-torony",
+            "ro": "Turnul lui Jug Bogdan",
+            "en": "Jug Bogdan's Tower"
+          },
+          "coords": [
+            21.5895,
+            43.2342
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:11",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der einzige erhaltene Teil der mittelalterlichen Festung.",
+            "hu": "A középkori erőd egyetlen megmaradt része.",
+            "ro": "Singura parte supraviețuitoare a cetății medievale.",
+            "en": "The only surviving part of the medieval fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Hisar Hügel",
+            "hu": "Hisar-domb",
+            "ro": "Dealul Hisar",
+            "en": "Hisar Hill"
+          },
+          "coords": [
+            21.5833,
+            43.2389
+          ],
+          "category": "natural-features",
+          "arrive_at": "13:06",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht und finden Sie die Überreste der Lateinischen Kirche.",
+            "hu": "Élvezze a kilátást, és keresse meg a Latin-templom maradványait.",
+            "ro": "Bucurați-vă de priveliște și găsiți ruinele Bisericii Latine.",
+            "en": "Enjoy the view and find the remains of the Latin Church."
+          }
+        },
+        {
+          "name": {
+            "de": "Toplica-Aufstand Denkmal",
+            "hu": "Toplica-felkelés emlékműve",
+            "ro": "Monumentul Răscoalei din Toplica",
+            "en": "Toplica Uprising Monument"
+          },
+          "coords": [
+            21.582,
+            43.237
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:21",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein starkes Symbol des Widerstands aus dem Ersten Weltkrieg.",
+            "hu": "Az első világháborús ellenállás erőteljes szimbóluma.",
+            "ro": "Un simbol puternic al rezistenței din Primul Război Mondial.",
+            "en": "A powerful symbol of resistance from World War I."
+          }
+        },
+        {
+          "name": {
+            "de": "Hamam Ruinen",
+            "hu": "Hamam romjai",
+            "ro": "Ruinele hamamului",
+            "en": "Hamam Ruins"
+          },
+          "coords": [
+            21.588,
+            43.2335
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:01",
+          "stay_min": 20,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Zeugnis der osmanischen Vergangenheit der Stadt.",
+            "hu": "A város oszmán múltjának tanúja.",
+            "ro": "Mărturie a trecutului otoman al orașului.",
+            "en": "A testament to the city's Ottoman past."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Prokuplje am Nationalmuseum, um in die lokale Geschichte einzutauchen. Der Vormittag führt Sie zu den spirituellen Zentren der Stadt, der St.-Prokopius-Kirche und dem historischen Jug-Bogdan-Turm. Nach dem Mittagessen erklimmen Sie den Hisar-Hügel, genießen die Panoramaaussicht und entdecken verborgene Ruinen. Der späte Nachmittag ist dem Gedenken am Toplica-Aufstand-Denkmal gewidmet, bevor Sie den Tag inmitten der osmanischen Hamam-Ruinen ausklingen lassen und über die vielfältigen Epochen der Stadt nachdenken.",
+        "hu": "Kezdje a napot Prokuplje szívében, a Nemzeti Múzeumnál, hogy elmerüljön a helyi történelemben. A délelőtt a város spirituális központjaihoz, a Szent Prokopiosz-templomhoz és a történelmi Jug Bogdan-toronyhoz vezet. Ebéd után mássza meg a Hisar-dombot, élvezze a panorámát és fedezze fel a rejtett romokat. A késő délután a Toplica-felkelés emlékművénél való megemlékezésé, mielőtt a napot az oszmán hamam romjai között zárná, elgondolkodva a város sokszínű korszakain.",
+        "ro": "Începeți ziua în inima orașului Prokuplje, la Muzeul Național, pentru a vă cufunda în istoria locală. Dimineața vă duce la centrele spirituale ale orașului, Biserica Sf. Procopie și istoricul Turn al lui Jug Bogdan. După prânz, urcați pe Dealul Hisar, bucurați-vă de priveliștea panoramică și descoperiți ruine ascunse. După-amiaza târziu este dedicată comemorării la Monumentul Răscoalei din Toplica, înainte de a încheia ziua printre ruinele hamamului otoman, reflectând asupra epocilor diverse ale orașului.",
+        "en": "Start your day in the heart of Prokuplje at the National Museum to immerse yourself in local history. The morning takes you to the city's spiritual centers, the Church of St. Procopius and the historic Jug Bogdan's Tower. After lunch, climb Hisar Hill, enjoy the panoramic views, and discover hidden ruins. The late afternoon is for remembrance at the Toplica Uprising Monument, before ending the day amidst the Ottoman Hamam ruins, reflecting on the city's diverse eras."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pljeskavica",
+            "tip": "Probieren Sie das serbische Nationalgericht, ein gewürztes Fleisch-Patty, in einem lokalen Grillrestaurant."
+          },
+          {
+            "name": "Prokupac Wein",
+            "tip": "Verkosten Sie den lokalen Rotwein, der nach der Region benannt ist."
+          },
+          {
+            "name": "Komplet lepinja",
+            "tip": "Ein herzhaftes Frühstück oder Mittagessen: Fladenbrot gefüllt mit Sahne und einem Ei."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pljeskavica",
+            "tip": "Kóstolja meg a szerb nemzeti ételt, egy fűszeres húspogácsát, egy helyi grillétteremben."
+          },
+          {
+            "name": "Prokupac bor",
+            "tip": "Kóstolja meg a régióról elnevezett helyi vörösbort."
+          },
+          {
+            "name": "Komplet lepinja",
+            "tip": "Kiadós reggeli vagy ebéd: lepény, tejszínnel és tojással töltve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pljeskavica",
+            "tip": "Încercați mâncarea națională sârbă, o chiftea de carne condimentată, la un restaurant local cu grătar."
+          },
+          {
+            "name": "Vin Prokupac",
+            "tip": "Degustați vinul roșu local, numit după regiune."
+          },
+          {
+            "name": "Komplet lepinja",
+            "tip": "Un mic dejun sau prânz copios: pâine plată umplută cu smântână și un ou."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pljeskavica",
+            "tip": "Try the Serbian national dish, a spiced meat patty, at a local grill restaurant."
+          },
+          {
+            "name": "Prokupac Wine",
+            "tip": "Taste the local red wine, named after the region."
+          },
+          {
+            "name": "Komplet lepinja",
+            "tip": "A hearty breakfast or lunch: flatbread filled with cream and an egg."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hisar Hügel",
+            "tip": "Der beste Ort für Panoramablicke und eine ruhige Flucht aus der Stadt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Park am Museum",
+            "tip": "Eine kleine grüne Oase im Stadtzentrum.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Flusses Toplica",
+            "tip": "Ein Spaziergang entlang des Flusses kann sehr beruhigend sein.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hisar-domb",
+            "tip": "A legjobb hely a panorámás kilátáshoz és a csendes meneküléshez a városból.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Múzeumpark",
+            "tip": "Egy kis zöld oázis a városközpontban.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Toplica folyó partja",
+            "tip": "Egy séta a folyó mentén nagyon megnyugtató lehet.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Hisar",
+            "tip": "Cel mai bun loc pentru vederi panoramice și o evadare liniștită din oraș.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul de lângă Muzeu",
+            "tip": "O mică oază de verdeață în centrul orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malurile râului Toplica",
+            "tip": "O plimbare de-a lungul râului poate fi foarte liniștitoare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hisar Hill",
+            "tip": "The best spot for panoramic views and a quiet escape from the city.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Park by the Museum",
+            "tip": "A small green oasis in the city center.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the Toplica River",
+            "tip": "A walk along the river can be very calming.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte und lokale Spezialitäten auf dem Bauernmarkt."
+          },
+          {
+            "name": "Souvenirs",
+            "tip": "Suchen Sie nach Handwerkskunst, die mit der Geschichte der Region zusammenhängt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket és helyi különlegességeket a termelői piacon."
+          },
+          {
+            "name": "Szuvenírek",
+            "tip": "Keressen a régió történelméhez kapcsolódó kézműves termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse proaspete și specialități locale de la piața fermierilor."
+          },
+          {
+            "name": "Suveniruri",
+            "tip": "Căutați obiecte de artizanat legate de istoria regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for fresh produce and local specialties at the farmers' market."
+          },
+          {
+            "name": "Souvenirs",
+            "tip": "Look for crafts related to the region's history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden, insbesondere beim Aufstieg auf den Hisar-Hügel.",
+          "Nehmen Sie Wasser mit, besonders für den Weg zum Hügel.",
+          "Überprüfen Sie die Öffnungszeiten des Museums im Voraus.",
+          "Seien Sie respektvoll beim Besuch religiöser Stätten."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni, különösen a Hisar-dombra való feljutáskor.",
+          "Vigyen magával vizet, főleg a dombra vezető útra.",
+          "Ellenőrizze előre a múzeum nyitvatartási idejét.",
+          "Legyen tisztelettudó a vallási helyszínek látogatásakor."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos, mai ales la urcarea pe Dealul Hisar.",
+          "Luați apă cu dumneavoastră, în special pentru drumul spre deal.",
+          "Verificați în prealabil orele de funcționare ale muzeului.",
+          "Fiți respectuos când vizitați lăcașurile de cult."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking, especially climbing Hisar Hill.",
+          "Bring water, especially for the hike up the hill.",
+          "Check the museum's opening hours in advance.",
+          "Be respectful when visiting religious sites."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 5.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Nationalmuseum Toplica",
+            "hu": "Toplica Nemzeti Múzeum",
+            "ro": "Muzeul Național Toplica",
+            "en": "National Museum of Toplica"
+          },
+          "coords": [
+            21.586,
+            43.2355
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, um den historischen Kontext der Stadt zu verstehen.",
+            "hu": "Kezdje itt, hogy megértse a város történelmi kontextusát.",
+            "ro": "Începeți de aici pentru a înțelege contextul istoric al orașului.",
+            "en": "Start here to understand the historical context of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Prokopius-Kirche",
+            "hu": "Szent Prokopiosz-templom",
+            "ro": "Biserica Sfântul Procopie",
+            "en": "Church of St. Procopius"
+          },
+          "coords": [
+            21.5888,
+            43.234
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp an diesem wichtigen religiösen Ort.",
+            "hu": "Egy rövid megálló ezen a fontos vallási helyszínen.",
+            "ro": "O oprire scurtă la acest important lăcaș de cult.",
+            "en": "A quick stop at this important religious site."
+          }
+        },
+        {
+          "name": {
+            "de": "Jug-Bogdan-Turm",
+            "hu": "Jug Bogdan-torony",
+            "ro": "Turnul lui Jug Bogdan",
+            "en": "Jug Bogdan's Tower"
+          },
+          "coords": [
+            21.5895,
+            43.2342
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:27",
+          "stay_min": 20,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Fahren Sie nah heran, um die mittelalterliche Architektur zu bewundern.",
+            "hu": "Tekerjen közel, hogy megcsodálhassa a középkori építészetet.",
+            "ro": "Apropiați-vă cu bicicleta pentru a admira arhitectura medievală.",
+            "en": "Bike close to admire the medieval architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Hamam Ruinen",
+            "hu": "Hamam romjai",
+            "ro": "Ruinele hamamului",
+            "en": "Hamam Ruins"
+          },
+          "coords": [
+            21.588,
+            43.2335
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:51",
+          "stay_min": 20,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein schneller Blick in die osmanische Vergangenheit.",
+            "hu": "Egy gyors bepillantás az oszmán múltba.",
+            "ro": "O privire rapidă în trecutul otoman.",
+            "en": "A quick glimpse into the Ottoman past."
+          }
+        },
+        {
+          "name": {
+            "de": "Toplica-Aufstand Denkmal",
+            "hu": "Toplica-felkelés emlékműve",
+            "ro": "Monumentul Răscoalei din Toplica",
+            "en": "Toplica Uprising Monument"
+          },
+          "coords": [
+            21.582,
+            43.237
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:23",
+          "stay_min": 20,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Halten Sie inne und zollen Sie diesem wichtigen Denkmal Respekt.",
+            "hu": "Álljon meg és rója le tiszteletét ennél a fontos emlékműnél.",
+            "ro": "Opriți-vă pentru a aduce un omagiu acestui monument important.",
+            "en": "Pause to pay respects at this important monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Hisar Hügel & Lateinische Kirche",
+            "hu": "Hisar-domb és Latin-templom",
+            "ro": "Dealul Hisar și Biserica Latină",
+            "en": "Hisar Hill & Latin Church"
+          },
+          "coords": [
+            21.5833,
+            43.2389
+          ],
+          "category": "natural-features",
+          "arrive_at": "12:51",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Rad ab und erkunden Sie den Hügel zu Fuß. Mittagspause hier.",
+            "hu": "Zárja le a biciklit és fedezze fel a dombot gyalog. Ebédidő itt.",
+            "ro": "Încuiați bicicleta și explorați dealul pe jos. Pauză de prânz aici.",
+            "en": "Lock up your bike and explore the hill on foot. Lunch break here."
+          }
+        },
+        {
+          "name": {
+            "de": "Park am Museum",
+            "hu": "Múzeumpark",
+            "ro": "Parcul de lângă Muzeu",
+            "en": "Park by the Museum"
+          },
+          "coords": [
+            21.5855,
+            43.2358
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im Park, bevor Sie den Tag beenden.",
+            "hu": "Pihenjen a parkban, mielőtt befejezi a napot.",
+            "ro": "Relaxați-vă în parc înainte de a încheia ziua.",
+            "en": "Relax in the park before finishing your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Rad und beginnen Sie den Tag mit einer Dosis Kultur im Nationalmuseum. Radeln Sie durch die Geschichte zu den alten Kirchen und dem Jug-Bogdan-Turm. Nach einer kurzen Pause bei den Hamam-Ruinen führt Sie der Weg zum Denkmal des Toplica-Aufstands. Die größte Herausforderung und Belohnung des Tages ist der Aufstieg zum Hisar-Hügel, wo Sie zu Mittag essen und die Aussicht genießen. Schließen Sie Ihre Tour mit einer entspannten Fahrt zurück zum Stadtpark ab.",
+        "hu": "Pattanjon biciklire, és kezdje a napot egy adag kultúrával a Nemzeti Múzeumban. Tekerjen át a történelmen a régi templomokhoz és a Jug Bogdan-toronyhoz. Egy rövid pihenő után a hamam romjainál az út a Toplica-felkelés emlékművéhez vezet. A nap legnagyobb kihívása és jutalma a Hisar-dombra való feljutás, ahol megebédelhet és élvezheti a kilátást. Zárja a túrát egy laza tekeréssel vissza a városi parkba.",
+        "ro": "Urcați-vă pe bicicletă și începeți ziua cu o doză de cultură la Muzeul Național. Pedalați prin istorie spre bisericile vechi și Turnul lui Jug Bogdan. După o scurtă pauză la ruinele hamamului, traseul vă duce la Monumentul Răscoalei din Toplica. Cea mai mare provocare și recompensă a zilei este urcarea pe Dealul Hisar, unde veți lua prânzul și veți admira priveliștea. Încheiați turul cu o plimbare relaxantă înapoi în parcul orașului.",
+        "en": "Hop on your bike and start the day with a dose of culture at the National Museum. Cycle through history to the old churches and Jug Bogdan's Tower. After a short break at the Hamam ruins, the route takes you to the Toplica Uprising Monument. The day's biggest challenge and reward is the climb up Hisar Hill, where you'll have lunch and enjoy the view. Finish your tour with a relaxed ride back to the city park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ćevapi",
+            "tip": "Perfekt für eine schnelle und sättigende Mahlzeit während Ihrer Radtour."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Erfrischen Sie sich nach der Fahrt mit einem kühlen serbischen Bier."
+          },
+          {
+            "name": "Burek",
+            "tip": "Ein energiereiches Gebäck, ideal für einen Snack zwischendurch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ćevapi",
+            "tip": "Tökéletes egy gyors és laktató étkezéshez a biciklitúra során."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Frissüljön fel a tekerés után egy hideg szerb sörrel."
+          },
+          {
+            "name": "Burek",
+            "tip": "Energiadús péksütemény, ideális harapnivaló útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ćevapi",
+            "tip": "Perfect pentru o masă rapidă și sățioasă în timpul turului cu bicicleta."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "Răcoriți-vă cu o bere sârbească rece după plimbare."
+          },
+          {
+            "name": "Burek",
+            "tip": "Un produs de patiserie energizant, ideal pentru o gustare pe drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ćevapi",
+            "tip": "Perfect for a quick and filling meal during your bike tour."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Refresh yourself with a cold Serbian beer after the ride."
+          },
+          {
+            "name": "Burek",
+            "tip": "An energy-rich pastry, ideal for a snack on the go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfel des Hisar Hügels",
+            "tip": "Die Anstrengung lohnt sich für die ungestörte Aussicht und die Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Versteckte Pfade am Hügel",
+            "tip": "Suchen Sie nach weniger begangenen Wegen für einen Moment der Stille.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hisar-domb csúcsa",
+            "tip": "Megéri a fáradságot a zavartalan kilátásért és a csendért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rejtett ösvények a dombon",
+            "tip": "Keressen kevésbé járt utakat egy csendes pillanatért.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Dealului Hisar",
+            "tip": "Efortul merită pentru priveliștea neîntreruptă și liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cărări ascunse pe deal",
+            "tip": "Căutați poteci mai puțin umblate pentru un moment de liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Summit of Hisar Hill",
+            "tip": "The effort is worth it for the undisturbed view and tranquility.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hidden paths on the hill",
+            "tip": "Look for less-traveled paths for a moment of silence.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradzubehör",
+            "tip": "Lokale Geschäfte könnten grundlegende Ersatzteile haben, falls nötig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpár-kiegészítők",
+            "tip": "A helyi boltokban lehetnek alapvető alkatrészek, ha szükséges."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Accesorii pentru biciclete",
+            "tip": "Magazinele locale ar putea avea piese de schimb de bază, dacă este necesar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike accessories",
+            "tip": "Local shops might have basic spare parts if needed."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad, bevor Sie losfahren, insbesondere die Bremsen für die Abfahrt vom Hügel.",
+          "Ein Schloss ist unerlässlich, um Ihr Fahrrad während der Besichtigungen zu sichern.",
+          "Die Straßen können uneben sein, seien Sie also vorsichtig.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit und füllen Sie sie auf, wann immer Sie können."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket a dombról való leereszkedéshez.",
+          "A lakat elengedhetetlen a kerékpár biztonságba helyezéséhez a látogatások során.",
+          "Az utak egyenetlenek lehetnek, legyen óvatos.",
+          "Vigyen magával újratölthető vizes palackot, és töltse fel, amikor csak tudja."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni, în special frânele pentru coborârea de pe deal.",
+          "Un lacăt este esențial pentru a vă asigura bicicleta în timpul vizitelor.",
+          "Drumurile pot fi denivelate, așa că fiți prudenți.",
+          "Luați o sticlă de apă reutilizabilă și umpleți-o ori de câte ori aveți ocazia."
+        ],
+        "en": [
+          "Check your bike before you start, especially the brakes for the descent from the hill.",
+          "A lock is essential to secure your bike during visits.",
+          "The roads can be uneven, so be careful.",
+          "Bring a reusable water bottle and refill it whenever you can."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:13",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Zentrum - Parkplatz",
+            "hu": "1. klaszter: Központ - Parkoló",
+            "ro": "Cluster 1: Centru - Parcare",
+            "en": "Cluster 1: Center - Parking"
+          },
+          "coords": [
+            21.5865,
+            43.236
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie das historische Zentrum zu Fuß.",
+            "hu": "Parkoljon itt, és fedezze fel a történelmi központot gyalog.",
+            "ro": "Parcați aici și explorați centrul istoric pe jos.",
+            "en": "Park here and explore the historic center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalmuseum Toplica",
+            "hu": "Toplica Nemzeti Múzeum",
+            "ro": "Muzeul Național Toplica",
+            "en": "National Museum of Toplica"
+          },
+          "coords": [
+            21.586,
+            43.2355
+          ],
+          "category": "museums",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tauchen Sie tief in die lokale Geschichte und Archäologie ein.",
+            "hu": "Merüljön el a helyi történelemben és régészetben.",
+            "ro": "Cufundați-vă în istoria și arheologia locală.",
+            "en": "Dive deep into the local history and archaeology."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Prokopius-Kirche & Jug-Bogdan-Turm",
+            "hu": "Szent Prokopiosz-templom és Jug Bogdan-torony",
+            "ro": "Biserica Sf. Procopie & Turnul lui Jug Bogdan",
+            "en": "St. Procopius Church & Jug Bogdan's Tower"
+          },
+          "coords": [
+            21.5888,
+            43.234
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:03",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden historischen Stätten liegen nahe beieinander.",
+            "hu": "Ez a két történelmi helyszín közel van egymáshoz.",
+            "ro": "Aceste două situri istorice sunt situate aproape una de cealaltă.",
+            "en": "These two historic sites are located close to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Hamam Ruinen",
+            "hu": "Hamam romjai",
+            "ro": "Ruinele hamamului",
+            "en": "Hamam Ruins"
+          },
+          "coords": [
+            21.588,
+            43.2335
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:08",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schneller Stopp, um die osmanischen Überreste zu sehen.",
+            "hu": "Egy gyors megálló az oszmán maradványok megtekintésére.",
+            "ro": "O oprire rapidă pentru a vedea vestigiile otomane.",
+            "en": "A quick stop to see the Ottoman remains."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Hisar Hügel - Parkplatz",
+            "hu": "2. klaszter: Hisar-domb - Parkoló",
+            "ro": "Cluster 2: Dealul Hisar - Parcare",
+            "en": "Cluster 2: Hisar Hill - Parking"
+          },
+          "coords": [
+            21.581,
+            43.2375
+          ],
+          "category": "transport",
+          "arrive_at": "12:43",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie hierher für den zweiten Teil des Tages. Zeit für das Mittagessen.",
+            "hu": "Vezessen ide a nap második részére. Itt az ebédidő.",
+            "ro": "Conduceți aici pentru a doua parte a zilei. Timp pentru prânz.",
+            "en": "Drive here for the second part of the day. Time for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Toplica-Aufstand Denkmal",
+            "hu": "Toplica-felkelés emlékműve",
+            "ro": "Monumentul Răscoalei din Toplica",
+            "en": "Toplica Uprising Monument"
+          },
+          "coords": [
+            21.582,
+            43.237
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:48",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein monumentales Denkmal, direkt am Fuße des Hügels.",
+            "hu": "Egy monumentális emlékmű, közvetlenül a domb lábánál.",
+            "ro": "Un monument impunător, chiar la poalele dealului.",
+            "en": "An imposing monument, right at the foot of the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Hisar Hügel & Lateinische Kirche",
+            "hu": "Hisar-domb és Latin-templom",
+            "ro": "Dealul Hisar și Biserica Latină",
+            "en": "Hisar Hill & Latin Church"
+          },
+          "coords": [
+            21.5833,
+            43.2389
+          ],
+          "category": "natural-features",
+          "arrive_at": "13:30",
+          "stay_min": 150,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erklimmen Sie den Hügel, genießen Sie die Aussicht und erkunden Sie die alten Ruinen.",
+            "hu": "Mássza meg a dombot, élvezze a kilátást, és fedezze fel az ősi romokat.",
+            "ro": "Urcați dealul, bucurați-vă de priveliște și explorați ruinele antice.",
+            "en": "Climb the hill, enjoy the view, and explore the ancient ruins."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einer bequemen Fahrt zum ersten Cluster im Stadtzentrum. Sie parken und erkunden zu Fuß das Nationalmuseum, Kirchen und Ruinen. Am Mittag fahren Sie zum zweiten Cluster am Hisar-Hügel. Nach dem Mittagessen und einem Besuch des beeindruckenden Denkmals widmen Sie den Nachmittag dem Erklimmen des Hügels, genießen die weite Aussicht und entdecken die verborgenen Überreste der Lateinischen Kirche. Der Tag endet mit einer ruhigen Reflexion auf dem Gipfel, bevor Sie zu Ihrem Auto zurückkehren.",
+        "hu": "A napja egy kényelmes autózással kezdődik az első klaszterhez a városközpontban. Parkolás után gyalog fedezi fel a Nemzeti Múzeumot, a templomokat és a romokat. Délben áthajt a második klaszterhez a Hisar-dombnál. Ebéd és a lenyűgöző emlékmű megtekintése után a délutánt a domb megmászásának szenteli, élvezve a messzire nyúló kilátást és felfedezve a Latin-templom rejtett maradványait. A nap a csúcson való csendes elmélkedéssel zárul, mielőtt visszatérne az autójához.",
+        "ro": "Ziua începe cu o călătorie confortabilă cu mașina spre primul cluster din centrul orașului. Parcați și explorați pe jos Muzeul Național, bisericile și ruinele. La prânz, conduceți spre al doilea cluster de pe Dealul Hisar. După prânz și o vizită la monumentul impunător, dedicați după-amiaza urcării dealului, bucurându-vă de priveliștile ample și descoperind rămășițele ascunse ale Bisericii Latine. Ziua se încheie cu o reflecție liniștită pe vârf înainte de a vă întoarce la mașină.",
+        "en": "Your day starts with a convenient drive to the first cluster in the city center. You'll park and explore the National Museum, churches, and ruins on foot. At midday, you drive to the second cluster at Hisar Hill. After lunch and a visit to the imposing monument, you'll dedicate the afternoon to climbing the hill, enjoying the wide views, and discovering the hidden remains of the Latin Church. The day ends with a quiet reflection on the summit before returning to your car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant in der Nähe von Hisar",
+            "tip": "Suchen Sie nach einem Restaurant mit Terrasse, um nach der Wanderung die lokale Küche zu genießen."
+          },
+          {
+            "name": "Šljivovica",
+            "tip": "Probieren Sie den berühmten serbischen Pflaumenschnaps als Digestif."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a Hisar közelében",
+            "tip": "Keressen egy teraszos éttermet, hogy a túra után élvezhesse a helyi konyhát."
+          },
+          {
+            "name": "Šljivovica (szilvapálinka)",
+            "tip": "Kóstolja meg a híres szerb szilvapálinkát emésztéssegítőként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant lângă Hisar",
+            "tip": "Căutați un restaurant cu terasă pentru a savura bucătăria locală după drumeție."
+          },
+          {
+            "name": "Șliboviță",
+            "tip": "Încercați faimoasa țuică de prune sârbească ca digestiv."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant near Hisar",
+            "tip": "Find a restaurant with a terrace to enjoy the local cuisine after your hike."
+          },
+          {
+            "name": "Šljivovica",
+            "tip": "Try the famous Serbian plum brandy as a digestif."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt auf dem Hisar Hügel",
+            "tip": "Der perfekte Ort, um dem Trubel zu entkommen und die Landschaft zu überblicken.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ruinen der Lateinischen Kirche",
+            "tip": "Ein Ort der Stille und Geschichte, abseits der Hauptwege.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópont a Hisar-dombon",
+            "tip": "Tökéletes hely a nyüzsgés elől való menekülésre és a táj áttekintésére.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Latin-templom romjai",
+            "tip": "A csend és a történelem helye, távol a fő utaktól.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere pe Dealul Hisar",
+            "tip": "Locul perfect pentru a evada din agitație și a admira peisajul.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ruinele Bisericii Latine",
+            "tip": "Un loc de liniște și istorie, departe de cărările principale.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint on Hisar Hill",
+            "tip": "The perfect place to escape the hustle and overlook the landscape.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ruins of the Latin Church",
+            "tip": "A place of silence and history, away from the main paths.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weingüter der Region",
+            "tip": "Machen Sie einen Abstecher zu einem Weingut, um Prokupac-Wein direkt vom Erzeuger zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "A régió borászatai",
+            "tip": "Tegyen egy kitérőt egy borászathoz, hogy Prokupac bort vásároljon közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cramele din regiune",
+            "tip": "Faceți un ocol la o cramă pentru a cumpăra vin Prokupac direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wineries in the region",
+            "tip": "Make a detour to a winery to buy Prokupac wine directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten und -gebühren im Voraus.",
+          "Lassen Sie keine Wertsachen sichtbar im Auto liegen.",
+          "Planen Sie genügend Zeit für den Verkehr zwischen den Clustern ein, auch wenn die Entfernungen kurz sind.",
+          "Gutes Schuhwerk ist auch bei der Autotour unerlässlich, da Sie in den Clustern zu Fuß unterwegs sind."
+        ],
+        "hu": [
+          "Ellenőrizze előre a parkolási lehetőségeket és díjakat.",
+          "Ne hagyjon értéktárgyakat látható helyen az autóban.",
+          "Tervezzen elegendő időt a klaszterek közötti forgalomra, még ha a távolságok rövidek is.",
+          "A jó cipő elengedhetetlen az autós túrán is, mivel a klasztereken belül gyalogol."
+        ],
+        "ro": [
+          "Verificați opțiunile de parcare și taxele în avans.",
+          "Nu lăsați obiecte de valoare la vedere în mașină.",
+          "Planificați suficient timp pentru traficul între clustere, chiar dacă distanțele sunt scurte.",
+          "Încălțămintea bună este esențială și pentru turul cu mașina, deoarece veți merge pe jos în interiorul clusterelor."
+        ],
+        "en": [
+          "Check parking options and fees in advance.",
+          "Do not leave valuables visible in the car.",
+          "Allow enough time for traffic between clusters, even if the distances are short.",
+          "Good footwear is essential even on the car tour, as you will be walking within the clusters."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Zentrum",
+            "hu": "1. klaszter: Központ",
+            "ro": "Cluster 1: Centru",
+            "en": "Cluster 1: Center"
+          },
+          "coords": [
+            21.586,
+            43.2355
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Museum, dem Startpunkt Ihres Rundgangs.",
+            "hu": "Vegyen egy buszt a múzeumhoz, a séta kiindulópontjához.",
+            "ro": "Luați un autobuz până la muzeu, punctul de plecare al turului dumneavoastră pietonal.",
+            "en": "Take a bus to the museum, the starting point of your walking tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalmuseum Toplica",
+            "hu": "Toplica Nemzeti Múzeum",
+            "ro": "Muzeul Național Toplica",
+            "en": "National Museum of Toplica"
+          },
+          "coords": [
+            21.586,
+            43.2355
+          ],
+          "category": "museums",
+          "arrive_at": "09:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Start, um die Stadt kennenzulernen.",
+            "hu": "Tökéletes kezdet a város megismeréséhez.",
+            "ro": "Începutul perfect pentru a cunoaște orașul.",
+            "en": "The perfect start to get to know the city."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Prokopius-Kirche & Jug-Bogdan-Turm",
+            "hu": "Szent Prokopiosz-templom és Jug Bogdan-torony",
+            "ro": "Biserica Sf. Procopie & Turnul lui Jug Bogdan",
+            "en": "St. Procopius Church & Jug Bogdan's Tower"
+          },
+          "coords": [
+            21.5888,
+            43.234
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie diese beiden eng beieinander liegenden Wahrzeichen.",
+            "hu": "Fedezze fel ezt a két, egymáshoz közeli nevezetességet.",
+            "ro": "Explorați aceste două repere apropiate.",
+            "en": "Explore these two closely located landmarks."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Hisar Hügel",
+            "hu": "2. klaszter: Hisar-domb",
+            "ro": "Cluster 2: Dealul Hisar",
+            "en": "Cluster 2: Hisar Hill"
+          },
+          "coords": [
+            21.582,
+            43.237
+          ],
+          "category": "transport",
+          "arrive_at": "12:20",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zur Haltestelle am Fuße des Hisar-Hügels.",
+            "hu": "Vegyen egy buszt a Hisar-domb lábánál lévő megállóhoz.",
+            "ro": "Luați un autobuz până la stația de la poalele Dealului Hisar.",
+            "en": "Take a bus to the stop at the foot of Hisar Hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Toplica-Aufstand Denkmal",
+            "hu": "Toplica-felkelés emlékműve",
+            "ro": "Monumentul Răscoalei din Toplica",
+            "en": "Toplica Uprising Monument"
+          },
+          "coords": [
+            21.582,
+            43.237
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ihr erster Halt in diesem Gebiet, ein mächtiges Denkmal.",
+            "hu": "Az első megálló ezen a területen, egy hatalmas emlékmű.",
+            "ro": "Prima oprire în această zonă, un monument puternic.",
+            "en": "Your first stop in this area, a powerful monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Hisar Hügel",
+            "hu": "Hisar-domb",
+            "ro": "Dealul Hisar",
+            "en": "Hisar Hill"
+          },
+          "coords": [
+            21.5833,
+            43.2389
+          ],
+          "category": "natural-features",
+          "arrive_at": "13:05",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zeit für den Aufstieg, das Mittagessen und die Erkundung der Spitze des Hügels.",
+            "hu": "Ideje felmászni, megebédelni és felfedezni a domb tetejét.",
+            "ro": "Timpul pentru urcare, prânz și explorarea vârfului dealului.",
+            "en": "Time for the climb, lunch, and exploring the top of the hill."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die lokalen Busse, um Prokuplje zu erkunden. Der Morgen beginnt mit einer Fahrt zum Museum, gefolgt von einem Spaziergang zu den historischen Kirchen im Stadtzentrum. Gegen Mittag bringt Sie ein weiterer Bus zum Fuße des Hisar-Hügels. Der Nachmittag steht ganz im Zeichen des Aufstiegs: Nach einem Besuch des Denkmals erklimmen Sie den Hügel, um die Aussicht zu genießen und zu Mittag zu essen. Ein letzter Spaziergang führt Sie zur Bushaltestelle für die Rückfahrt.",
+        "hu": "Használja a helyi buszokat Prokuplje felfedezéséhez. A reggel egy buszúttal kezdődik a múzeumhoz, amit egy séta követ a történelmi templomokhoz a városközpontban. Dél körül egy másik busz viszi a Hisar-domb lábához. A délután a mászásról szól: az emlékmű megtekintése után megmássza a dombot, hogy élvezze a kilátást és megebédeljen. Egy utolsó séta vezet a buszmegállóhoz a visszaútra.",
+        "ro": "Folosiți autobuzele locale pentru a explora Prokuplje. Dimineața începe cu o călătorie cu autobuzul la muzeu, urmată de o plimbare la bisericile istorice din centrul orașului. În jurul prânzului, un alt autobuz vă duce la poalele Dealului Hisar. După-amiaza este dedicată urcării: după o vizită la monument, urcați pe deal pentru a vă bucura de priveliște și a lua prânzul. O ultimă plimbare vă duce la stația de autobuz pentru călătoria de întoarcere.",
+        "en": "Use the local buses to explore Prokuplje. The morning starts with a bus ride to the museum, followed by a walk to the historic churches in the city center. Around noon, another bus takes you to the foot of Hisar Hill. The afternoon is all about the climb: after visiting the monument, you'll ascend the hill to enjoy the view and have lunch. A final walk takes you to the bus stop for the return journey."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pekara (Bäckerei)",
+            "tip": "Holen Sie sich ein frisches Gebäck für die Busfahrt oder als Snack auf dem Hügel."
+          },
+          {
+            "name": "Kafana",
+            "tip": "Erleben Sie ein traditionelles serbisches Restaurant für Ihr Mittag- oder Abendessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pekara (pékség)",
+            "tip": "Vegyen egy friss péksüteményt a buszútra vagy harapnivalónak a dombon."
+          },
+          {
+            "name": "Kafana",
+            "tip": "Tapasztalja meg a hagyományos szerb éttermet ebédre vagy vacsorára."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pekara (Brutărie)",
+            "tip": "Luați un produs de patiserie proaspăt pentru călătoria cu autobuzul sau ca gustare pe deal."
+          },
+          {
+            "name": "Kafana",
+            "tip": "Experimentați un restaurant tradițional sârbesc pentru prânz sau cină."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pekara (Bakery)",
+            "tip": "Grab a fresh pastry for the bus ride or as a snack on the hill."
+          },
+          {
+            "name": "Kafana",
+            "tip": "Experience a traditional Serbian restaurant for your lunch or dinner."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Warten auf den Bus",
+            "tip": "Nutzen Sie die kurzen Wartezeiten, um die Umgebung zu beobachten und durchzuatmen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Blick aus dem Busfenster",
+            "tip": "Sehen Sie die Stadt aus einer anderen Perspektive, während Sie fahren.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Várakozás a buszra",
+            "tip": "Használja ki a rövid várakozási időt a környezet megfigyelésére és egy mély lélegzetvételre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Pillantás a busz ablakából",
+            "tip": "Lássa a várost egy másik perspektívából utazás közben.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Așteptând autobuzul",
+            "tip": "Folosiți scurtele perioade de așteptare pentru a observa împrejurimile și a respira.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Privind pe geamul autobuzului",
+            "tip": "Vedeți orașul dintr-o altă perspectivă în timp ce călătoriți.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Waiting for the bus",
+            "tip": "Use the short waiting times to observe the surroundings and take a breath.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from the bus window",
+            "tip": "See the city from a different perspective as you travel.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk",
+            "tip": "Kaufen Sie Ihr Busticket und vielleicht eine Flasche Wasser an einem lokalen Kiosk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk",
+            "tip": "Vásárolja meg a buszjegyét és esetleg egy üveg vizet egy helyi kioszkban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc",
+            "tip": "Cumpărați-vă biletul de autobuz și poate o sticlă de apă de la un chioșc local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk",
+            "tip": "Buy your bus ticket and maybe a bottle of water at a local kiosk."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich im Voraus über die Buslinien und Fahrpläne.",
+          "Haben Sie Kleingeld für Bustickets bereit.",
+          "Planen Sie Pufferzeiten für eventuelle Verspätungen ein.",
+          "Validieren Sie Ihr Ticket beim Einsteigen, um Strafen zu vermeiden."
+        ],
+        "hu": [
+          "Tájékozódjon előre a buszjáratokról és a menetrendekről.",
+          "Készítsen elő aprópénzt a buszjegyekhez.",
+          "Tervezzen pufferidőt az esetleges késésekre.",
+          "Érvényesítse a jegyét felszálláskor, hogy elkerülje a bírságot."
+        ],
+        "ro": [
+          "Informați-vă în avans despre rutele și orarele autobuzelor.",
+          "Pregătiți mărunțiș pentru biletele de autobuz.",
+          "Planificați timp suplimentar pentru eventuale întârzieri.",
+          "Validați-vă biletul la urcare pentru a evita amenzile."
+        ],
+        "en": [
+          "Find out about bus routes and schedules in advance.",
+          "Have small change ready for bus tickets.",
+          "Plan for buffer times for any delays.",
+          "Validate your ticket upon boarding to avoid fines."
+        ]
+      }
+    }
+  }
+}

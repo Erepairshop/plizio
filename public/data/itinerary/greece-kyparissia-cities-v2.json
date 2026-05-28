@@ -1,0 +1,1433 @@
+{
+  "city_id": "greece-kyparissia-cities-v2",
+  "anchor": {
+    "name": "Kyparissia",
+    "coords": [
+      37.25,
+      21.6833
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt (Ano Poli)",
+            "hu": "Óváros (Ano Poli)",
+            "ro": "Orașul Vechi (Ano Poli)",
+            "en": "Old Town (Ano Poli)"
+          },
+          "coords": [
+            21.674,
+            37.251
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den engen Gassen und genießen Sie die Atmosphäre.",
+            "hu": "Tévedjen el a szűk sikátorokban, és élvezze a hangulatot.",
+            "ro": "Pierdeți-vă pe străduțele înguste și bucurați-vă de atmosferă.",
+            "en": "Get lost in the narrow alleys and soak up the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Kyparissia",
+            "hu": "Kyparissia vára",
+            "ro": "Castelul din Kyparissia",
+            "en": "Castle of Kyparissia"
+          },
+          "coords": [
+            21.673,
+            37.2525
+          ],
+          "category": "castles",
+          "arrive_at": "10:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für den Panoramablick über die Bucht.",
+            "hu": "Megéri a kaptatót a panorámás kilátásért az öbölre.",
+            "ro": "Urcușul merită pentru vederea panoramică asupra golfului.",
+            "en": "The climb is worth it for the panoramic view over the bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agia Triada",
+            "hu": "Agia Triada templom",
+            "ro": "Biserica Agia Triada",
+            "en": "Agia Triada Church"
+          },
+          "coords": [
+            21.6735,
+            37.2505
+          ],
+          "category": "churches",
+          "arrive_at": "11:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Ort der Ruhe im Herzen der Altstadt.",
+            "hu": "A nyugalom helye az óváros szívében.",
+            "ro": "Un loc de liniște în inima orașului vechi.",
+            "en": "A place of peace in the heart of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologische Sammlung",
+            "hu": "Régészeti Gyűjtemény",
+            "ro": "Colecția Arheologică",
+            "en": "Archaeological Collection"
+          },
+          "coords": [
+            21.671,
+            37.249
+          ],
+          "category": "museums",
+          "arrive_at": "12:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kleine aber feine Sammlung lokaler Funde. Perfekt für eine Mittagspause von der Sonne.",
+            "hu": "Kicsi, de finom gyűjtemény a helyi leletekből. Tökéletes egy déli pihenőhöz a nap elől.",
+            "ro": "O colecție mică, dar rafinată, de artefacte locale. Perfectă pentru o pauză de prânz la umbră.",
+            "en": "A small but fine collection of local finds. Perfect for a midday break from the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Kyparissia",
+            "hu": "Kyparissia kikötője",
+            "ro": "Portul din Kyparissia",
+            "en": "Port of Kyparissia"
+          },
+          "coords": [
+            21.668,
+            37.251
+          ],
+          "category": "port",
+          "arrive_at": "14:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beobachten Sie die Fischerboote und genießen Sie eine Meeresbrise.",
+            "hu": "Nézze a halászhajókat és élvezze a tengeri szellőt.",
+            "ro": "Priviți bărcile pescărești și bucurați-vă de briza mării.",
+            "en": "Watch the fishing boats and enjoy a sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Drachenbrunnen",
+            "hu": "Sárkány-kút",
+            "ro": "Fântâna Dragonului",
+            "en": "Dragon Fountain"
+          },
+          "coords": [
+            21.67,
+            37.25
+          ],
+          "category": "monuments",
+          "arrive_at": "15:20",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein beliebter Treffpunkt und ein schönes Fotomotiv.",
+            "hu": "Népszerű találkozóhely és szép fotótéma.",
+            "ro": "Un punct de întâlnire popular și un loc bun pentru fotografii.",
+            "en": "A popular meeting point and a great photo opportunity."
+          }
+        },
+        {
+          "name": {
+            "de": "Sani Strand",
+            "hu": "Sani strand",
+            "ro": "Plaja Sani",
+            "en": "Sani Beach"
+          },
+          "coords": [
+            21.665,
+            37.255
+          ],
+          "category": "parks",
+          "arrive_at": "15:55",
+          "stay_min": 140,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am Sandstrand oder nehmen Sie ein Bad im Meer.",
+            "hu": "Pihenjen a homokos parton, vagy ússzon egyet a tengerben.",
+            "ro": "Relaxați-vă pe plaja cu nisip sau faceți o baie în mare.",
+            "en": "Relax on the sandy beach or take a dip in the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt in der bezaubernden Ano Poli, der Altstadt, wo Sie durch Kopfsteinpflastergassen schlendern und zur imposanten Burg aufsteigen. Die Vormittagssonne wirft ein magisches Licht auf die alten Steine und die Aussicht auf das Ionische Meer ist atemberaubend. Im Herzen der Altstadt entdecken Sie die stille Schönheit der Agia Triada Kirche. Mittags tauchen Sie in die lokale Geschichte in der archäologischen Sammlung ein, bevor Sie langsam zum lebhaften Hafen hinabsteigen. Hier mischt sich der Duft von Salzwasser mit dem der nahen Tavernen, die zum Mittagessen einladen. Der Nachmittag gehört der Entspannung. Sie schlendern am Hafen entlang, vorbei am Drachenbrunnen, bis Sie den goldenen Sani Strand erreichen. Spüren Sie den warmen Sand unter Ihren Füßen und nehmen Sie ein erfrischendes Bad im kristallklaren Wasser. Am Abend, wenn die Sonne langsam untergeht, suchen Sie sich eine gemütliche Taverne am Meer, um den Tag bei frischem Fisch und einem Glas Wein ausklingen zu lassen. Der Sonnenuntergang über dem Meer taucht den Himmel in leuchtende Farben – ein perfekter Abschluss.",
+        "hu": "A nap a varázslatos Ano Poliban, az óvárosban kezdődik, ahol macskaköves sikátorokon sétálhat, és felkapaszkodhat a lenyűgöző várhoz. A délelőtti napfény varázslatos fényt vet az ősi kövekre, és a Jón-tengerre nyíló kilátás lélegzetelállító. Az óváros szívében felfedezheti az Agia Triada templom csendes szépségét. Délben elmerülhet a helyi történelemben a régészeti gyűjteményben, mielőtt lassan leereszkedne a nyüzsgő kikötőbe. Itt a sós víz illata keveredik a közeli tavernák illatával, amelyek ebédre csábítanak. A délután a pihenésé. A kikötő mentén sétálva, a Sárkány-kút mellett elhaladva éri el az aranyhomokos Sani strandot. Érezze a meleg homokot a lába alatt, és mártózzon meg a kristálytiszta vízben. Este, ahogy a nap lassan lenyugszik, keressen egy hangulatos tengerparti tavernát, hogy friss hallal és egy pohár borral zárja a napot. A tenger feletti naplemente ragyogó színekbe borítja az eget – egy tökéletes befejezés.",
+        "ro": "Ziua dumneavoastră începe în fermecătorul Ano Poli, Orașul Vechi, unde vă plimbați pe străduțe pietruite și urcați la castelul impunător. Soarele dimineții aruncă o lumină magică pe pietrele vechi, iar priveliștea asupra Mării Ionice este uluitoare. În inima Orașului Vechi, descoperiți frumusețea liniștită a Bisericii Agia Triada. La prânz, vă scufundați în istoria locală la colecția arheologică, înainte de a coborî încet spre portul plin de viață. Aici, mirosul de apă sărată se amestecă cu cel al tavernelor din apropiere, care vă invită la prânz. După-amiaza este dedicată relaxării. Vă plimbați de-a lungul portului, trecând pe lângă Fântâna Dragonului, până ajungeți la plaja aurie Sani. Simțiți nisipul cald sub picioare și faceți o baie răcoritoare în apa cristalină. Seara, pe măsură ce soarele apune, căutați o tavernă confortabilă pe malul mării pentru a încheia ziua cu pește proaspăt și un pahar de vin. Apusul peste mare pictează cerul în culori vibrante – un final perfect.",
+        "en": "Your day begins in the charming Ano Poli, the Old Town, where you wander through cobblestone alleys and climb up to the imposing castle. The morning sun casts a magical light on the ancient stones, and the view of the Ionian Sea is breathtaking. In the heart of the Old Town, you discover the quiet beauty of the Agia Triada Church. At midday, you delve into local history at the archaeological collection before slowly descending to the lively port. Here, the scent of salt water mixes with that of the nearby tavernas, inviting you for lunch. The afternoon is for relaxation. You stroll along the harbor, past the Dragon Fountain, until you reach the golden Sani Beach. Feel the warm sand beneath your feet and take a refreshing dip in the crystal-clear water. In the evening, as the sun slowly sets, find a cozy seaside taverna to end the day with fresh fish and a glass of wine. The sunset over the sea paints the sky in vibrant colors – a perfect ending."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frischer Fisch in einer Hafentaverne",
+            "tip": "Probieren Sie den Fang des Tages, oft gegrillt mit Olivenöl und Zitrone."
+          },
+          {
+            "name": "Lalagia",
+            "tip": "Knusprige, seilartige frittierte Teigstreifen, ein lokaler Snack."
+          },
+          {
+            "name": "Griechischer Salat (Choriatiki)",
+            "tip": "Immer eine gute Wahl mit lokalen Tomaten, Gurken und Feta."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Friss hal egy kikötői tavernában",
+            "tip": "Kóstolja meg a nap fogását, amelyet gyakran olívaolajjal és citrommal grilleznek."
+          },
+          {
+            "name": "Lalagia",
+            "tip": "Ropogós, kötél-szerű sült tésztacsíkok, egy helyi snack."
+          },
+          {
+            "name": "Görög saláta (Choriatiki)",
+            "tip": "Mindig jó választás helyi paradicsommal, uborkával és fetával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește proaspăt la o tavernă din port",
+            "tip": "Încercați captura zilei, adesea la grătar cu ulei de măsline și lămâie."
+          },
+          {
+            "name": "Lalagia",
+            "tip": "Fâșii de aluat prăjit crocante, asemănătoare unor frânghii, o gustare locală."
+          },
+          {
+            "name": "Salată grecească (Choriatiki)",
+            "tip": "Întotdeauna o alegere bună cu roșii locale, castraveți și brânză feta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fresh fish at a harbor taverna",
+            "tip": "Try the catch of the day, often grilled with olive oil and lemon."
+          },
+          {
+            "name": "Lalagia",
+            "tip": "Crispy, rope-like fried dough strips, a local snack."
+          },
+          {
+            "name": "Greek Salad (Choriatiki)",
+            "tip": "Always a good choice with local tomatoes, cucumbers, and feta."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenuntergang von der Burg",
+            "tip": "Der beste Ort, um zu sehen, wie die Sonne im Meer versinkt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ein ruhiger Platz am Sani Strand",
+            "tip": "Gehen Sie ein Stück weiter am Hauptbereich vorbei, um mehr Abgeschiedenheit zu finden.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Garten der Agia Triada",
+            "tip": "Ein kleiner, friedlicher Innenhof, perfekt für eine kurze Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente a várból",
+            "tip": "A legjobb hely, ahonnan megnézheti, ahogy a nap a tengerbe merül.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Egy csendes hely a Sani strandon",
+            "tip": "Menjen kicsit távolabb a fő résztől, hogy több magányt találjon.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Az Agia Triada kertje",
+            "tip": "Egy kicsi, békés belső udvar, tökéletes egy rövid szünetre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apus de soare de la castel",
+            "tip": "Cel mai bun loc pentru a privi soarele scufundându-se în mare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Un loc liniștit pe plaja Sani",
+            "tip": "Mergeți puțin mai departe de zona principală pentru mai multă intimitate.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădina bisericii Agia Triada",
+            "tip": "O curte mică și pașnică, perfectă pentru o scurtă pauză.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunset from the castle",
+            "tip": "The best spot to watch the sun sink into the sea.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A quiet spot on Sani Beach",
+            "tip": "Walk a bit further past the main area to find more seclusion.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Agia Triada garden",
+            "tip": "A small, peaceful courtyard perfect for a quick rest.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Olivenöl",
+            "tip": "Die Region ist berühmt für ihr hochwertiges Olivenöl. Suchen Sie nach 'extra virgin'."
+          },
+          {
+            "name": "Keramik",
+            "tip": "Handgefertigte Töpferwaren sind ein schönes und authentisches Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "A régió híres a kiváló minőségű olívaolajáról. Keresse az „extra szűz” feliratot."
+          },
+          {
+            "name": "Kerámia",
+            "tip": "A kézzel készített kerámiák szépek és autentikus ajándéktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Regiunea este renumită pentru uleiul de măsline de înaltă calitate. Căutați 'extra virgin'."
+          },
+          {
+            "name": "Ceramică",
+            "tip": "Obiectele de ceramică lucrate manual sunt un suvenir frumos și autentic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Olive Oil",
+            "tip": "The region is famous for its high-quality olive oil. Look for 'extra virgin'."
+          },
+          {
+            "name": "Ceramics",
+            "tip": "Handmade pottery makes for a beautiful and authentic souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Straßen in der Altstadt steil und uneben sein können.",
+          "Nehmen Sie viel Wasser mit, besonders im Sommer.",
+          "Eine Kopfbedeckung und Sonnencreme sind unerlässlich.",
+          "Die besten Fotomotive der Burg hat man am späten Nachmittag."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros utcái meredekek és egyenetlenek lehetnek.",
+          "Vigyen magával sok vizet, különösen nyáron.",
+          "A fejfedő és a naptej elengedhetetlen.",
+          "A legjobb fotókat a várról késő délután lehet készíteni."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece străzile din Orașul Vechi pot fi abrupte și denivelate.",
+          "Luați cu voi multă apă, mai ales în timpul verii.",
+          "O pălărie și cremă de protecție solară sunt esențiale.",
+          "Cele mai bune fotografii ale castelului se fac după-amiaza târziu."
+        ],
+        "en": [
+          "Wear comfortable shoes as the streets in the Old Town can be steep and uneven.",
+          "Bring plenty of water, especially during the summer.",
+          "A hat and sunscreen are essential.",
+          "The best photo opportunities of the castle are in the late afternoon."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:54",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Historischer Bahnhof",
+            "hu": "Történelmi vasútállomás",
+            "ro": "Gara istorică",
+            "en": "Historical Railway Station"
+          },
+          "coords": [
+            21.678,
+            37.245
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Tour mit einem Hauch von Nostalgie aus dem Eisenbahnzeitalter.",
+            "hu": "Kezdje a túrát egy kis nosztalgiával a vasút korából.",
+            "ro": "Începeți turul cu o notă de nostalgie din epoca feroviară.",
+            "en": "Start your tour with a touch of nostalgia from the railway era."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt (Ano Poli)",
+            "hu": "Óváros (Ano Poli)",
+            "ro": "Orașul Vechi (Ano Poli)",
+            "en": "Old Town (Ano Poli)"
+          },
+          "coords": [
+            21.674,
+            37.251
+          ],
+          "category": "squares",
+          "arrive_at": "09:52",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie die Gassen zu Fuß.",
+            "hu": "Tegye le a biciklit, és fedezze fel a sikátorokat gyalog.",
+            "ro": "Lăsați bicicleta și explorați străduțele pe jos.",
+            "en": "Park your bike and explore the alleys on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Kyparissia",
+            "hu": "Kyparissia vára",
+            "ro": "Castelul din Kyparissia",
+            "en": "Castle of Kyparissia"
+          },
+          "coords": [
+            21.673,
+            37.2525
+          ],
+          "category": "castles",
+          "arrive_at": "10:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer, steiler Spaziergang vom Hauptplatz der Altstadt.",
+            "hu": "Rövid, meredek séta az óváros főterétől.",
+            "ro": "O plimbare scurtă și abruptă din piața principală a Orașului Vechi.",
+            "en": "A short, steep walk up from the main square of the Old Town."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Kyparissia",
+            "hu": "Kyparissia kikötője",
+            "ro": "Portul din Kyparissia",
+            "en": "Port of Kyparissia"
+          },
+          "coords": [
+            21.668,
+            37.251
+          ],
+          "category": "port",
+          "arrive_at": "12:24",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause mit frischem Fisch und Meerblick.",
+            "hu": "Tökéletes egy ebédszünetre friss hallal és tengeri kilátással.",
+            "ro": "Perfect pentru o pauză de prânz cu pește proaspăt și vedere la mare.",
+            "en": "Perfect for a lunch break with fresh fish and a sea view."
+          }
+        },
+        {
+          "name": {
+            "de": "Sani Strand",
+            "hu": "Sani strand",
+            "ro": "Plaja Sani",
+            "en": "Sani Beach"
+          },
+          "coords": [
+            21.665,
+            37.255
+          ],
+          "category": "parks",
+          "arrive_at": "14:00",
+          "stay_min": 180,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und genießen Sie einen langen Nachmittag am Strand.",
+            "hu": "Zárja le a biciklit, és élvezze a hosszú délutánt a strandon.",
+            "ro": "Legați-vă bicicleta și bucurați-vă de o după-amiază lungă la plajă.",
+            "en": "Lock up your bike and enjoy a long afternoon on the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt entlang der Küste zum Sonnenuntergang",
+            "hu": "Part menti tekerés a naplementébe",
+            "ro": "Plimbare pe coastă la apus",
+            "en": "Coastal ride for sunset"
+          },
+          "coords": [
+            21.66,
+            37.265
+          ],
+          "category": "viewpoint",
+          "arrive_at": "17:34",
+          "stay_min": 50,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie nach Norden entlang der Küste, um die besten Sonnenuntergangspunkte zu finden.",
+            "hu": "Tekerjen észak felé a part mentén, hogy megtalálja a legjobb naplementés helyeket.",
+            "ro": "Mergeți spre nord de-a lungul coastei pentru a găsi cele mai bune locuri de apus.",
+            "en": "Ride north along the coast to find the best sunset spots."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radtag beginnt mit einem nostalgischen Blick auf den historischen Bahnhof, bevor Sie sich den anspruchsvollen Anstieg zur Ano Poli vornehmen. Die Mühe wird mit dem Charme der Altstadt und dem Panoramablick von der Burg belohnt. Oben angekommen, stellen Sie Ihr Rad ab und erkunden die Gassen zu Fuß. Gegen Mittag rollen Sie entspannt hinunter zum lebhaften Hafen. Suchen Sie sich eine Taverne für ein ausgiebiges Mittagessen mit frischem Fisch und Blick auf die Fischerboote. Dies ist die perfekte Stärkung für den nächsten Teil Ihrer Tour. Der Nachmittag ist ganz der Sonne und dem Meer gewidmet. Eine kurze Fahrt bringt Sie zum Sani Strand, wo Sie für ein paar Stunden entspannen, schwimmen und die Seele baumeln lassen können. Es ist der ideale Ort, um Energie zu tanken. Zum krönenden Abschluss des Tages radeln Sie am späten Nachmittag die Küste entlang nach Norden. Suchen Sie sich einen perfekten Platz, um den spektakulären Sonnenuntergang über dem Ionischen Meer zu beobachten, der den Himmel in warme Farben taucht.",
+        "hu": "A kerékpáros nap egy nosztalgikus pillantással kezdődik a történelmi vasútállomásra, mielőtt nekivágna az Ano Polihoz vezető kihívást jelentő emelkedőnek. Az erőfeszítést az óváros varázsa és a várból nyíló panoráma jutalmazza. Fent hagyja a kerékpárt, és gyalog fedezi fel a sikátorokat. Dél körül kényelmesen legurul a nyüzsgő kikötőbe. Keressen egy tavernát egy kiadós ebédhez friss hallal, kilátással a halászhajókra. Ez a tökéletes feltöltődés a túra következő szakaszához. A délután teljes egészében a napé és a tengeré. Egy rövid út a Sani strandra vezet, ahol pihenhet, úszhat és lazíthat néhány órát. Ez az ideális hely az energiagyűjtésre. A nap megkoronázásaként késő délután észak felé biciklizik a part mentén. Keressen egy tökéletes helyet, hogy megnézze a látványos naplementét a Jón-tenger felett, amely meleg színekbe borítja az eget.",
+        "ro": "Ziua pe bicicletă începe cu o privire nostalgică la gara istorică, înainte de a aborda urcușul provocator spre Ano Poli. Efortul este răsplătit de farmecul Orașului Vechi și de panorama de la castel. Odată ajuns sus, parcați bicicleta și explorați aleile pe jos. În jurul prânzului, coborâți relaxat spre portul plin de viață. Alegeți o tavernă pentru un prânz copios cu pește proaspăt și vedere la bărcile pescărești. Acesta este combustibilul perfect pentru următoarea parte a turului. După-amiaza este dedicată soarelui și mării. O scurtă plimbare cu bicicleta vă duce la Plaja Sani, unde vă puteți relaxa, înota și lenevi pentru câteva ore. Este locul ideal pentru a vă reîncărca bateriile. Pentru a încheia ziua în stil, pedalați spre nord de-a lungul coastei după-amiaza târziu. Găsiți un loc perfect pentru a privi apusul spectaculos peste Marea Ionică, care pictează cerul în culori calde.",
+        "en": "Your cycling day starts with a nostalgic look at the historic train station before tackling the challenging climb to Ano Poli. The effort is rewarded with the charm of the Old Town and the panoramic view from the castle. Once at the top, you park your bike and explore the alleys on foot. Around noon, you roll leisurely down to the lively harbor. Find a taverna for a hearty lunch with fresh fish overlooking the fishing boats. This is the perfect fuel for the next part of your tour. The afternoon is all about sun and sea. A short ride takes you to Sani Beach, where you can relax, swim, and unwind for a few hours. It is the ideal place to recharge your batteries. To top off the day, you cycle north along the coast in the late afternoon. Find a perfect spot to watch the spectacular sunset over the Ionian Sea, which paints the sky in warm colors."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Oktopus am Spieß",
+            "tip": "Gegrillter Oktopus ist eine köstliche Spezialität am Meer."
+          },
+          {
+            "name": "Frappé am Strand",
+            "tip": "Der klassische griechische Eiskaffee für eine erfrischende Pause."
+          },
+          {
+            "name": "Lokaler Wein",
+            "tip": "Probieren Sie einen trockenen Weißwein aus der Region Messenien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Polip nyárson",
+            "tip": "A grillezett polip egy finom tengerparti specialitás."
+          },
+          {
+            "name": "Frappé a strandon",
+            "tip": "A klasszikus görög jeges kávé egy frissítő szünethez."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "Kóstoljon meg egy száraz fehérbort a Messinia régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caracatiță la proțap",
+            "tip": "Caracatița la grătar este o delicatesă delicioasă de la malul mării."
+          },
+          {
+            "name": "Frappé pe plajă",
+            "tip": "Clasica cafea cu gheață grecească pentru o pauză răcoritoare."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Încercați un vin alb sec din regiunea Messinia."
+          }
+        ],
+        "en": [
+          {
+            "name": "Octopus on a spit",
+            "tip": "Grilled octopus is a delicious seaside specialty."
+          },
+          {
+            "name": "Frappé on the beach",
+            "tip": "The classic Greek iced coffee for a refreshing break."
+          },
+          {
+            "name": "Local Wine",
+            "tip": "Try a dry white wine from the Messinia region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Nördlicher Küstenabschnitt",
+            "tip": "Weniger überlaufen als die Stadtstrände, ideal für ruhige Momente.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Olivenhain außerhalb der Stadt",
+            "tip": "Machen Sie eine kurze Fahrt ins Landesinnere für absolute Stille zwischen den alten Bäumen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Früher Morgen am Hafen",
+            "tip": "Bevor die Touristen kommen, ist der Hafen ein Ort der Ruhe.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Északi parti szakasz",
+            "tip": "Kevésbé zsúfolt, mint a városi strandok, ideális a csendes pillanatokhoz."
+          },
+          {
+            "name": "Olajfaliget a városon kívül",
+            "tip": "Tegyen egy rövid utat a szárazföld belseje felé az abszolút csendért az öreg fák között."
+          },
+          {
+            "name": "Kora reggel a kikötőben",
+            "tip": "Mielőtt megérkeznek a turisták, a kikötő a nyugalom helye."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Secțiunea de coastă de nord",
+            "tip": "Mai puțin aglomerată decât plajele orașului, ideală pentru momente de liniște."
+          },
+          {
+            "name": "Livada de măslini de la marginea orașului",
+            "tip": "Faceți o scurtă plimbare spre interior pentru liniște absolută printre copacii bătrâni."
+          },
+          {
+            "name": "Dimineața devreme în port",
+            "tip": "Înainte de sosirea turiștilor, portul este un loc de pace."
+          }
+        ],
+        "en": [
+          {
+            "name": "Northern coastal stretch",
+            "tip": "Less crowded than the city beaches, ideal for quiet moments."
+          },
+          {
+            "name": "Olive grove outside the town",
+            "tip": "Take a short ride inland for absolute silence among the ancient trees."
+          },
+          {
+            "name": "Early morning at the harbor",
+            "tip": "Before the tourists arrive, the harbor is a place of peace."
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrrad-Reparaturset",
+            "tip": "Es gibt kleine Läden, die grundlegende Fahrradartikel für alle Fälle verkaufen."
+          },
+          {
+            "name": "Lokaler Honig",
+            "tip": "Ein süßes, energiereiches Souvenir von den Hügeln Messeniens."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpár-javító készlet",
+            "tip": "Vannak kis boltok, amelyek alapvető kerékpáros cikkeket árulnak minden eshetőségre."
+          },
+          {
+            "name": "Helyi méz",
+            "tip": "Édes, energiadús ajándéktárgy Messinia dombjairól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kit de reparații pentru biciclete",
+            "tip": "Există mici magazine care vând articole de bază pentru biciclete, pentru orice eventualitate."
+          },
+          {
+            "name": "Miere locală",
+            "tip": "Un suvenir dulce, plin de energie, de pe dealurile Messiniei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike repair kit",
+            "tip": "There are small shops that sell basic cycling items just in case."
+          },
+          {
+            "name": "Local honey",
+            "tip": "A sweet, high-energy souvenir from the hills of Messinia."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Aufstieg zur Altstadt ist steil. Schalten Sie in einen niedrigen Gang oder schieben Sie das Rad.",
+          "Sichern Sie Ihr Fahrrad immer gut, besonders an belebten Orten.",
+          "Nehmen Sie eine Flasche Wasser in einem Flaschenhalter mit.",
+          "Eine kleine Fahrradtasche ist nützlich für Handtuch und Snacks."
+        ],
+        "hu": [
+          "Az óvárosba vezető emelkedő meredek. Váltson alacsony sebességfokozatba, vagy tolja a kerékpárt.",
+          "Mindig jól zárja le a kerékpárt, különösen forgalmas helyeken.",
+          "Vigyen magával egy palack vizet egy kulacstartóban.",
+          "Egy kis kerékpáros táska hasznos a törölköző és a rágcsálnivalók számára."
+        ],
+        "ro": [
+          "Urcușul spre Orașul Vechi este abrupt. Treceți într-o viteză inferioară sau împingeți bicicleta.",
+          "Asigurați-vă întotdeauna bine bicicleta, mai ales în locurile aglomerate.",
+          "Luați o sticlă de apă într-un suport de sticlă.",
+          "O geantă mică pentru bicicletă este utilă pentru prosop și gustări."
+        ],
+        "en": [
+          "The climb to the Old Town is steep. Switch to a low gear or push the bike.",
+          "Always lock your bike securely, especially in busy places.",
+          "Bring a bottle of water in a bottle cage.",
+          "A small bike bag is useful for a towel and snacks."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:28",
+      "total_km": 26.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz an der Burg",
+            "hu": "Parkoló a várnál",
+            "ro": "Parcare la castel",
+            "en": "Parking at the Castle"
+          },
+          "coords": [
+            21.6745,
+            37.253
+          ],
+          "category": "castles",
+          "arrive_at": "09:25",
+          "stay_min": 10,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie direkt zum Cluster Ano Poli und parken Sie hier für den Vormittag.",
+            "hu": "Vezessen közvetlenül az Ano Poli negyedbe, és parkoljon itt délelőttre.",
+            "ro": "Conduceți direct la clusterul Ano Poli și parcați aici pentru dimineață.",
+            "en": "Drive directly to the Ano Poli cluster and park here for the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Kyparissia",
+            "hu": "Kyparissia vára",
+            "ro": "Castelul din Kyparissia",
+            "en": "Castle of Kyparissia"
+          },
+          "coords": [
+            21.673,
+            37.2525
+          ],
+          "category": "castles",
+          "arrive_at": "09:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die Festung und genießen Sie die atemberaubende Aussicht.",
+            "hu": "Fedezze fel az erődöt és élvezze a lélegzetelállító kilátást.",
+            "ro": "Explorați cetatea și bucurați-vă de priveliștea uluitoare.",
+            "en": "Explore the fortress and enjoy the breathtaking view."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt (Ano Poli)",
+            "hu": "Óváros (Ano Poli)",
+            "ro": "Orașul Vechi (Ano Poli)",
+            "en": "Old Town (Ano Poli)"
+          },
+          "coords": [
+            21.674,
+            37.251
+          ],
+          "category": "squares",
+          "arrive_at": "11:05",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die Gassen und finden Sie ein nettes Café.",
+            "hu": "Sétáljon a sikátorokban, és keressen egy kedves kávézót.",
+            "ro": "Plimbați-vă pe alei și găsiți o cafenea drăguță.",
+            "en": "Stroll through the alleys and find a nice café."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz am Sani Strand",
+            "hu": "Parkoló a Sani strandnál",
+            "ro": "Parcare la plaja Sani",
+            "en": "Parking at Sani Beach"
+          },
+          "coords": [
+            21.666,
+            37.256
+          ],
+          "category": "port",
+          "arrive_at": "12:35",
+          "stay_min": 10,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 18.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Zeit für einen Cluster-Wechsel. Fahren Sie zur Küste für den Nachmittag.",
+            "hu": "Ideje klasztert váltani. Vezessen a partra délutánra.",
+            "ro": "E timpul pentru o schimbare de cluster. Conduceți spre coastă pentru după-amiază.",
+            "en": "Time for a cluster change. Drive down to the coast for the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Hafen",
+            "hu": "Ebéd a kikötőben",
+            "ro": "Prânz în port",
+            "en": "Lunch at the Harbor"
+          },
+          "coords": [
+            21.668,
+            37.251
+          ],
+          "category": "gastro",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Strandparkplatz zu den Tavernen.",
+            "hu": "Rövid séta a strand parkolójától a tavernákig.",
+            "ro": "O scurtă plimbare de la parcarea de pe plajă la taverne.",
+            "en": "A short walk from the beach parking to the tavernas."
+          }
+        },
+        {
+          "name": {
+            "de": "Entspannung am Sani Strand",
+            "hu": "Pihenés a Sani strandon",
+            "ro": "Relaxare pe plaja Sani",
+            "en": "Relaxation at Sani Beach"
+          },
+          "coords": [
+            21.665,
+            37.255
+          ],
+          "category": "parks",
+          "arrive_at": "14:25",
+          "stay_min": 210,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie den Sand, die Sonne und das Meer für den Rest des Nachmittags.",
+            "hu": "Élvezze a homokot, a napot és a tengert a délután hátralévő részében.",
+            "ro": "Bucurați-vă de nisip, soare și mare pentru restul după-amiezii.",
+            "en": "Enjoy the sand, sun, and sea for the rest of the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einer Fahrt direkt in das Herz der Geschichte, dem Parkplatz bei der Burg in Ano Poli. Von diesem ersten Cluster aus erkunden Sie die imposante Festung und schlendern durch die malerischen Gassen der Altstadt. Genießen Sie einen Kaffee, während Sie die Atmosphäre aufsaugen, bevor Sie wieder ins Auto steigen. Gegen Mittag wechseln Sie die Szenerie und fahren hinunter zum Meer, dem zweiten Cluster des Tages. Parken Sie in der Nähe des Sani Strandes und machen Sie einen kurzen Spaziergang zum Hafen, wo eine der vielen Tavernen auf Sie wartet, um Sie mit frischen Meeresfrüchten zu verwöhnen. Der gesamte Nachmittag ist der puren Entspannung gewidmet. Kehren Sie zum Sani Strand zurück, breiten Sie Ihr Handtuch aus und lassen Sie die griechische Sonne ihre Magie entfalten. Schwimmen, lesen oder einfach nur dem Rauschen der Wellen lauschen. Zum Abschluss des Tages, wenn die Sonne tiefer steht, können Sie noch einen Abstecher zu einer nahegelegenen Strandbar machen oder einfach den Sonnenuntergang vom Strand aus bewundern, bevor Sie die Heimreise antreten.",
+        "hu": "A nap egyenesen a történelem szívébe vezető úttal kezdődik, az Ano Poli-i vár melletti parkolóba. Ebből az első klaszterből fedezi fel a lenyűgöző erődöt, és sétál végig az óváros festői sikátorain. Igyon egy kávét, miközben magába szívja a hangulatot, mielőtt visszaül az autóba. Dél körül helyszínt vált, és leautózik a tengerhez, a nap második klaszteréhez. Parkoljon a Sani strand közelében, és tegyen egy rövid sétát a kikötőbe, ahol a sok taverna egyike friss tengeri herkentyűkkel várja. Az egész délután a tiszta kikapcsolódásé. Térjen vissza a Sani strandra, terítse le a törölközőjét, és hagyja, hogy a görög nap varázsoljon. Ússzon, olvasson, vagy csak hallgassa a hullámok morajlását. A nap lezárásaként, amikor a nap már alacsonyan jár, tehet egy kitérőt egy közeli strandbárba, vagy egyszerűen megcsodálhatja a naplementét a strandról, mielőtt hazaindulna.",
+        "ro": "Ziua dvs. începe cu o călătorie direct în inima istoriei, la parcarea de lângă castelul din Ano Poli. Din acest prim cluster, explorați fortăreața impunătoare și vă plimbați pe aleile pitorești ale Orașului Vechi. Savurați o cafea în timp ce absorbiți atmosfera înainte de a vă urca din nou în mașină. În jurul prânzului, schimbați peisajul și coborâți cu mașina la mare, al doilea cluster al zilei. Parcați lângă Plaja Sani și faceți o scurtă plimbare până în port, unde una dintre multele taverne vă așteaptă să vă delecteze cu fructe de mare proaspete. Întreaga după-amiază este dedicată relaxării pure. Întoarceți-vă la Plaja Sani, întindeți-vă prosopul și lăsați soarele grecesc să-și facă magia. Înotați, citiți sau pur și simplu ascultați sunetul valurilor. La sfârșitul zilei, când soarele este mai jos, puteți face o vizită la un bar de pe plajă din apropiere sau pur și simplu să admirați apusul de pe plajă înainte de a porni spre casă.",
+        "en": "Your day begins with a drive straight into the heart of history, the car park at the castle in Ano Poli. From this first cluster, you explore the imposing fortress and wander through the picturesque alleys of the Old Town. Enjoy a coffee while soaking up the atmosphere before getting back in the car. Around noon, you change scenery and drive down to the sea, the second cluster of the day. Park near Sani Beach and take a short walk to the harbor, where one of the many tavernas awaits to treat you to fresh seafood. The entire afternoon is dedicated to pure relaxation. Return to Sani Beach, spread out your towel, and let the Greek sun work its magic. Swim, read, or simply listen to the sound of the waves. At the end of the day, when the sun is lower, you can make a detour to a nearby beach bar or simply admire the sunset from the beach before heading home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Taverna 'To Kastro'",
+            "tip": "Ein Restaurant in der Altstadt mit authentischer Küche und tollem Blick."
+          },
+          {
+            "name": "Gegrillte Sardinen",
+            "tip": "Eine einfache, aber unglaublich schmackhafte Spezialität am Hafen."
+          },
+          {
+            "name": "Wassermelone",
+            "tip": "Kaufen Sie eine gekühlte Wassermelone für den perfekten Strand-Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "'To Kastro' Taverna",
+            "tip": "Egy étterem az óvárosban, autentikus konyhával és nagyszerű kilátással."
+          },
+          {
+            "name": "Grillezett szardínia",
+            "tip": "Egyszerű, de hihetetlenül ízletes specialitás a kikötőben."
+          },
+          {
+            "name": "Görögdinnye",
+            "tip": "Vásároljon egy behűtött görögdinnyét a tökéletes strand-snackhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Taverna 'To Kastro'",
+            "tip": "Un restaurant în Orașul Vechi cu bucătărie autentică și o priveliște minunată."
+          },
+          {
+            "name": "Sardine la grătar",
+            "tip": "O specialitate simplă, dar incredibil de gustoasă, în port."
+          },
+          {
+            "name": "Pepene verde",
+            "tip": "Cumpărați un pepene verde rece pentru gustarea perfectă pe plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Taverna 'To Kastro'",
+            "tip": "A restaurant in the Old Town with authentic cuisine and a great view."
+          },
+          {
+            "name": "Grilled Sardines",
+            "tip": "A simple but incredibly tasty specialty at the harbor."
+          },
+          {
+            "name": "Watermelon",
+            "tip": "Buy a chilled watermelon for the perfect beach snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Neda-Wasserfälle",
+            "tip": "Eine längere Fahrt (ca. 1h), aber ein magischer Ort mit Wasserfällen und Teichen zum Schwimmen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Blick von der Burg bei Dämmerung",
+            "tip": "Wenn die Tagesbesucher weg sind, hat man die Aussicht fast für sich allein.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Fahrt durch die Olivenhaine",
+            "tip": "Nehmen Sie eine Landstraße ins Innere und genießen Sie die Stille der Landschaft.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Neda-vízesés",
+            "tip": "Hosszabb út (kb. 1 óra), de egy varázslatos hely vízesésekkel és fürdésre alkalmas tavakkal."
+          },
+          {
+            "name": "Kilátás a várból alkonyatkor",
+            "tip": "Amikor a nappali látogatók elmennek, a kilátás szinte teljesen a tiéd."
+          },
+          {
+            "name": "Autózás az olajfaligeteken keresztül",
+            "tip": "Válasszon egy vidéki utat a szárazföld belseje felé, és élvezze a táj csendjét."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cascadele Neda",
+            "tip": "O călătorie mai lungă (aprox. 1h), dar un loc magic cu cascade și iazuri pentru înot."
+          },
+          {
+            "name": "Vedere de la castel la amurg",
+            "tip": "Când vizitatorii de zi pleacă, aveți priveliștea aproape numai pentru voi."
+          },
+          {
+            "name": "Plimbare cu mașina prin livezile de măslini",
+            "tip": "Luați un drum de țară spre interior și bucurați-vă de liniștea peisajului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Neda Waterfalls",
+            "tip": "A longer drive (approx. 1h), but a magical place with waterfalls and pools for swimming."
+          },
+          {
+            "name": "View from the castle at dusk",
+            "tip": "When the day visitors are gone, you have the view almost to yourself."
+          },
+          {
+            "name": "Drive through the olive groves",
+            "tip": "Take a country road inland and enjoy the silence of the landscape."
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kanister mit Olivenöl",
+            "tip": "Kaufen Sie direkt bei einer lokalen Mühle, wenn Sie die Möglichkeit haben."
+          },
+          {
+            "name": "Getrocknete Kräuter",
+            "tip": "Oregano, Thymian und Rosmarin als duftendes Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olívaolajos kanna",
+            "tip": "Vásároljon közvetlenül egy helyi malomból, ha lehetősége van rá."
+          },
+          {
+            "name": "Szárított fűszernövények",
+            "tip": "Oregánó, kakukkfű és rozmaring illatos emlékként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bidon de ulei de măsline",
+            "tip": "Cumpărați direct de la o moară locală, dacă aveți ocazia."
+          },
+          {
+            "name": "Ierburi uscate",
+            "tip": "Oregano, cimbru și rozmarin ca amintire parfumată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Canister of Olive Oil",
+            "tip": "Buy directly from a local mill if you have the chance."
+          },
+          {
+            "name": "Dried Herbs",
+            "tip": "Oregano, thyme, and rosemary as a fragrant souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in der Altstadt kann schwierig sein. Nutzen Sie die ausgewiesenen Parkplätze.",
+          "Lassen Sie keine Wertsachen sichtbar im Auto liegen.",
+          "Die Küstenstraßen bieten tolle Ausblicke, seien Sie aber auf enge Kurven vorbereitet.",
+          "Ein Auto gibt Ihnen die Flexibilität, auch abgelegenere Strände zu entdecken."
+        ],
+        "hu": [
+          "A parkolás az óvárosban nehézkes lehet. Használja a kijelölt parkolókat.",
+          "Ne hagyjon értékeket látható helyen az autóban.",
+          "A parti utak nagyszerű kilátást nyújtanak, de készüljön fel a szűk kanyarokra.",
+          "Az autó rugalmasságot ad ahhoz, hogy eldugottabb strandokat is felfedezzen."
+        ],
+        "ro": [
+          "Parcarea în Orașul Vechi poate fi dificilă. Folosiți parcările desemnate.",
+          "Nu lăsați obiecte de valoare la vedere în mașină.",
+          "Drumurile de coastă oferă priveliști minunate, dar fiți pregătiți pentru curbe strânse.",
+          "O mașină vă oferă flexibilitatea de a descoperi și plaje mai izolate."
+        ],
+        "en": [
+          "Parking in the Old Town can be difficult. Use the designated parking areas.",
+          "Do not leave valuables visible in the car.",
+          "The coastal roads offer great views, but be prepared for tight corners.",
+          "A car gives you the flexibility to discover more remote beaches."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:41",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bushaltestelle Ano Poli",
+            "hu": "Ano Poli buszmegálló",
+            "ro": "Stația de autobuz Ano Poli",
+            "en": "Ano Poli Bus Stop"
+          },
+          "coords": [
+            21.675,
+            37.25
+          ],
+          "category": "squares",
+          "arrive_at": "09:20",
+          "stay_min": 5,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus vom Stadtzentrum nach oben, um den Aufstieg zu sparen.",
+            "hu": "Menjen busszal a városközpontból felfelé, hogy megspórolja a kaptatót.",
+            "ro": "Luați autobuzul din centrul orașului pentru a evita urcarea.",
+            "en": "Take the bus up from the town center to save the climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt (Ano Poli)",
+            "hu": "Óváros (Ano Poli)",
+            "ro": "Orașul Vechi (Ano Poli)",
+            "en": "Old Town (Ano Poli)"
+          },
+          "coords": [
+            21.674,
+            37.251
+          ],
+          "category": "squares",
+          "arrive_at": "09:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den ersten Cluster des Tages zu Fuß.",
+            "hu": "Fedezze fel a nap első klaszterét gyalog.",
+            "ro": "Explorați primul cluster al zilei pe jos.",
+            "en": "Explore the first cluster of the day on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Kyparissia",
+            "hu": "Kyparissia vára",
+            "ro": "Castelul din Kyparissia",
+            "en": "Castle of Kyparissia"
+          },
+          "coords": [
+            21.673,
+            37.2525
+          ],
+          "category": "castles",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Höhepunkt der Altstadt mit einer grandiosen Aussicht.",
+            "hu": "Az óváros csúcspontja, nagyszerű kilátással.",
+            "ro": "Punctul culminant al Orașului Vechi, cu o priveliște magnifică.",
+            "en": "The highlight of the Old Town with a magnificent view."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle am Hafen",
+            "hu": "Kikötői buszmegálló",
+            "ro": "Stația de autobuz din port",
+            "en": "Harbor Bus Stop"
+          },
+          "coords": [
+            21.67,
+            37.248
+          ],
+          "category": "port",
+          "arrive_at": "12:15",
+          "stay_min": 5,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Bus hinunter zum zweiten Cluster am Meer.",
+            "hu": "Menjen le busszal a második, tengerparti klaszterhez.",
+            "ro": "Coborâți cu autobuzul la al doilea cluster, lângă mare.",
+            "en": "Take the bus down to the second cluster by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen & Mittagessen",
+            "hu": "Kikötő és ebéd",
+            "ro": "Port și prânz",
+            "en": "Harbor & Lunch"
+          },
+          "coords": [
+            21.668,
+            37.251
+          ],
+          "category": "gastro",
+          "arrive_at": "12:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie zum Hafen und suchen Sie sich eine einladende Taverne.",
+            "hu": "Sétáljon le a kikötőbe, és keressen egy hívogató tavernát.",
+            "ro": "Plimbați-vă spre port și găsiți o tavernă primitoare.",
+            "en": "Stroll down to the harbor and find an inviting taverna."
+          }
+        },
+        {
+          "name": {
+            "de": "Sani Strand",
+            "hu": "Sani strand",
+            "ro": "Plaja Sani",
+            "en": "Sani Beach"
+          },
+          "coords": [
+            21.665,
+            37.255
+          ],
+          "category": "parks",
+          "arrive_at": "14:05",
+          "stay_min": 210,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Rest des Nachmittags zu verbringen.",
+            "hu": "A tökéletes hely a délután hátralévő részének eltöltésére.",
+            "ro": "Locul perfect pentru a petrece restul după-amiezii.",
+            "en": "The perfect place to spend the rest of the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr autofreier Tag beginnt entspannt, indem Sie den lokalen Bus vom Stadtzentrum hinauf in die Ano Poli nehmen. Dieser erste Cluster, die Altstadt, empfängt Sie mit historischen Gassen. Sie erkunden die Gegend zu Fuß, erklimmen die Burg für eine spektakuläre Aussicht und genießen die ruhige Atmosphäre. Nachdem Sie den Charme der Oberstadt aufgesogen haben, bringt Sie eine weitere kurze Busfahrt hinunter zum Meer, dem zweiten Cluster des Tages. Der Kontrast zwischen der alten Hügelstadt und dem lebhaften Küstenbereich ist faszinierend. Sie spazieren vom Bus zum Hafen, um ein köstliches Mittagessen mit Blick auf das Wasser zu genießen. Der Nachmittag gehört ganz dem Strandleben. Ein kurzer Spaziergang bringt Sie zum Sani Strand, wo Sie sich sonnen, schwimmen und entspannen können, bis die Sonne tiefer sinkt. Am späten Nachmittag nehmen Sie den Bus zurück ins Zentrum und blicken auf einen Tag voller Kontraste zurück – von der historischen Höhe bis zur entspannten Küste, alles leicht erreichbar mit öffentlichen Verkehrsmitteln.",
+        "hu": "Az autómentes napja nyugodtan kezdődik, a helyi busszal a városközpontból fel az Ano Poliba. Ez az első klaszter, az óváros, történelmi sikátorokkal fogadja. Gyalogosan fedezi fel a környéket, megmássza a várat a látványos kilátásért, és élvezi a csendes légkört. Miután magába szívta a felsőváros varázsát, egy újabb rövid buszozás viszi le a tengerhez, a nap második klaszteréhez. A régi dombtetőn lévő város és a nyüzsgő part menti terület kontrasztja lenyűgöző. A busztól a kikötőbe sétál, hogy egy finom ebédet fogyasszon el a vízre néző kilátással. A délután teljes egészében a strandéleté. Egy rövid séta a Sani strandra visz, ahol napozhat, úszhat és pihenhet, amíg a nap lejjebb nem száll. Késő délután busszal tér vissza a központba, és visszatekint egy kontrasztokkal teli napra – a történelmi magasságtól a nyugodt partig, mindezt könnyen elérhetően a tömegközlekedéssel.",
+        "ro": "Ziua dvs. fără mașină începe relaxat, luând autobuzul local din centrul orașului până în Ano Poli. Acest prim cluster, Orașul Vechi, vă întâmpină cu alei istorice. Explorați zona pe jos, urcați la castel pentru o priveliște spectaculoasă și bucurați-vă de atmosfera liniștită. După ce ați absorbit farmecul orașului de sus, o altă scurtă călătorie cu autobuzul vă duce la mare, al doilea cluster al zilei. Contrastul dintre vechiul oraș de pe deal și zona de coastă plină de viață este fascinant. Vă plimbați de la autobuz la port pentru a savura un prânz delicios cu vedere la apă. După-amiaza este dedicată vieții de plajă. O scurtă plimbare vă duce la Plaja Sani, unde puteți face plajă, înota și vă puteți relaxa până când soarele coboară. Spre sfârșitul după-amiezii, luați autobuzul înapoi în centru, reflectând la o zi plină de contraste – de la înălțimile istorice la coasta relaxantă, totul ușor accesibil cu transportul public.",
+        "en": "Your car-free day begins relaxed by taking the local bus from the city center up to Ano Poli. This first cluster, the Old Town, welcomes you with historic alleys. You explore the area on foot, climb the castle for a spectacular view, and enjoy the quiet atmosphere. After soaking up the charm of the upper town, another short bus ride takes you down to the sea, the second cluster of the day. The contrast between the old hilltop town and the lively coastal area is fascinating. You walk from the bus to the harbor to enjoy a delicious lunch overlooking the water. The afternoon is all about beach life. A short walk takes you to Sani Beach, where you can sunbathe, swim, and relax until the sun gets lower. In the late afternoon, you take the bus back to the center, reflecting on a day full of contrasts – from the historic heights to the relaxed coast, all easily accessible by public transport."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Souvlaki Pita",
+            "tip": "Ein schneller, günstiger und leckerer Snack für zwischendurch."
+          },
+          {
+            "name": "Griechischer Joghurt mit Honig",
+            "tip": "Ein einfaches, aber göttliches Dessert oder Frühstück."
+          },
+          {
+            "name": "Meze-Platte",
+            "tip": "Teilen Sie sich eine Auswahl kleiner Gerichte, um mehr zu probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvlaki pitta",
+            "tip": "Gyors, olcsó és finom snack útközben."
+          },
+          {
+            "name": "Görög joghurt mézzel",
+            "tip": "Egyszerű, de isteni desszert vagy reggeli."
+          },
+          {
+            "name": "Meze tál",
+            "tip": "Osszon meg egy válogatást a kis ételekből, hogy többet kóstolhasson."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Souvlaki Pita",
+            "tip": "O gustare rapidă, ieftină și delicioasă pentru drum."
+          },
+          {
+            "name": "Iaurt grecesc cu miere",
+            "tip": "Un desert sau mic dejun simplu, dar divin."
+          },
+          {
+            "name": "Platou Meze",
+            "tip": "Împărțiți o selecție de mici feluri de mâncare pentru a gusta mai mult."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvlaki Pita",
+            "tip": "A quick, cheap, and delicious snack on the go."
+          },
+          {
+            "name": "Greek yogurt with honey",
+            "tip": "A simple but divine dessert or breakfast."
+          },
+          {
+            "name": "Meze Platter",
+            "tip": "Share a selection of small dishes to taste more."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirche Agia Triada",
+            "tip": "Ein friedlicher Rückzugsort im belebten Ano Poli.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ende des Sani-Strandes",
+            "tip": "Gehen Sie bis zum Ende des Strandes für mehr Ruhe und weniger Menschen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Blick aus dem Busfenster",
+            "tip": "Genießen Sie die wechselnde Landschaft auf der Fahrt zwischen den Clustern.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Agia Triada templom",
+            "tip": "Békés menedék a nyüzsgő Ano Poliban."
+          },
+          {
+            "name": "A Sani strand vége",
+            "tip": "Sétáljon el a strand végéig a nagyobb nyugalomért és kevesebb emberért."
+          },
+          {
+            "name": "Kilátás a busz ablakából",
+            "tip": "Élvezze a változó tájat a klaszterek közötti utazás során."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica Agia Triada",
+            "tip": "Un refugiu pașnic în aglomeratul Ano Poli."
+          },
+          {
+            "name": "Capătul plajei Sani",
+            "tip": "Mergeți până la capătul plajei pentru mai multă liniște și mai puțini oameni."
+          },
+          {
+            "name": "Privind pe geamul autobuzului",
+            "tip": "Bucurați-vă de peisajul în schimbare în timpul călătoriei între clustere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Agia Triada Church",
+            "tip": "A peaceful retreat in bustling Ano Poli."
+          },
+          {
+            "name": "End of Sani Beach",
+            "tip": "Walk to the far end of the beach for more quiet and fewer people."
+          },
+          {
+            "name": "View from the bus window",
+            "tip": "Enjoy the changing scenery on the ride between clusters."
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kleine Läden in Ano Poli",
+            "tip": "Hier finden Sie oft handgefertigte Souvenirs und Kunsthandwerk."
+          },
+          {
+            "name": "Postkarten",
+            "tip": "Senden Sie Grüße aus dem sonnigen Griechenland nach Hause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kis boltok Ano Poliban",
+            "tip": "Itt gyakran talál kézzel készített ajándéktárgyakat és kézműves termékeket."
+          },
+          {
+            "name": "Képeslapok",
+            "tip": "Küldjön üdvözletet a napos Görögországból haza."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mici magazine în Ano Poli",
+            "tip": "Aici veți găsi adesea suveniruri și obiecte de artizanat lucrate manual."
+          },
+          {
+            "name": "Cărți poștale",
+            "tip": "Trimiteți felicitări acasă din însorita Grecie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Small shops in Ano Poli",
+            "tip": "You can often find handmade souvenirs and crafts here."
+          },
+          {
+            "name": "Postcards",
+            "tip": "Send greetings home from sunny Greece."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich im Voraus über den Busfahrplan, da die Busse möglicherweise nicht sehr häufig fahren.",
+          "Haben Sie Kleingeld für die Bustickets bereit.",
+          "Eine Tageskarte kann sich lohnen, wenn Sie mehrere Fahrten planen.",
+          "Beachten Sie die letzte Busverbindung zurück, besonders am Abend."
+        ],
+        "hu": [
+          "Előre tájékozódjon a buszmenetrendről, mivel a buszok nem biztos, hogy nagyon gyakran járnak.",
+          "Készítsen elő aprópénzt a buszjegyekhez.",
+          "Érdemes lehet napijegyet venni, ha több utat tervez.",
+          "Figyeljen az utolsó visszajáratra, különösen este."
+        ],
+        "ro": [
+          "Verificați programul autobuzelor în avans, deoarece s-ar putea să nu circule foarte des.",
+          "Pregătiți mărunțiș pentru biletele de autobuz.",
+          "Un bilet de o zi poate fi rentabil dacă planificați mai multe călătorii.",
+          "Fiți atenți la ultimul autobuz de întoarcere, mai ales seara."
+        ],
+        "en": [
+          "Check the bus schedule in advance, as buses may not run very frequently.",
+          "Have small change ready for the bus tickets.",
+          "A day ticket might be worthwhile if you plan multiple trips.",
+          "Be aware of the last bus back, especially in the evening."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1384 @@
+{
+  "city_id": "norway-steinkjer-cities-v2",
+  "anchor": {
+    "name": "Steinkjer",
+    "coords": [
+      11.49,
+      64.01
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 4.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Steinkjer Kirche",
+            "hu": "Steinkjeri templom",
+            "ro": "Biserica din Steinkjer",
+            "en": "Steinkjer Church"
+          },
+          "coords": [
+            11.4915,
+            64.0145
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beachten Sie die einzigartige Architektur und die Buntglasfenster, die eine besondere Geschichte erzählen.",
+            "hu": "Figyelje meg az egyedi építészetet és a különleges történetet elmesélő ólomüveg ablakokat.",
+            "ro": "Observați arhitectura unică și vitraliile care spun o poveste specială.",
+            "en": "Note the unique architecture and the stained-glass windows that tell a special story."
+          }
+        },
+        {
+          "name": {
+            "de": "Dampsaga Kulturhaus",
+            "hu": "Dampsaga Kultúrház",
+            "ro": "Centrul Cultural Dampsaga",
+            "en": "Dampsaga Culture House"
+          },
+          "coords": [
+            11.488,
+            64.011
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Prüfen Sie das Programm auf lokale Konzerte oder Ausstellungen. Das Café ist ein großartiger Ort für eine Pause.",
+            "hu": "Nézze meg a programot helyi koncertek vagy kiállítások után. A kávézó remek hely egy szünetre.",
+            "ro": "Verificați programul pentru concerte sau expoziții locale. Cafeneaua este un loc minunat pentru o pauză.",
+            "en": "Check the schedule for local concerts or exhibitions. The café is a great spot for a break."
+          }
+        },
+        {
+          "name": {
+            "de": "Steinkjer Marina",
+            "hu": "Steinkjeri kikötő",
+            "ro": "Portul de agrement Steinkjer",
+            "en": "Steinkjer Marina"
+          },
+          "coords": [
+            11.48,
+            64.015
+          ],
+          "category": "port",
+          "arrive_at": "11:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie die frische Meeresbrise und beobachten Sie die Boote. Ein guter Ort für ein Mittagessen am Wasser.",
+            "hu": "Élvezze a friss tengeri szellőt és nézze a hajókat. Jó hely egy ebédre a vízparton.",
+            "ro": "Bucurați-vă de briza proaspătă a mării și priviți bărcile. Un loc bun pentru prânz pe malul apei.",
+            "en": "Enjoy the fresh sea breeze and watch the boats. A good spot for lunch by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Egge Museum",
+            "hu": "Egge Múzeum",
+            "ro": "Muzeul Egge",
+            "en": "Egge Museum"
+          },
+          "coords": [
+            11.5,
+            64.03
+          ],
+          "category": "museums",
+          "arrive_at": "12:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Ein lebendiges Museum, ideal für Familien. Planen Sie genug Zeit für die historischen Gebäude und die Tiere ein.",
+            "hu": "Élő múzeum, ideális családoknak. Szánjon elég időt a történelmi épületekre és az állatokra.",
+            "ro": "Un muzeu viu, ideal pentru familii. Planificați suficient timp pentru clădirile istorice și animale.",
+            "en": "A living museum, great for families. Allow plenty of time for the historic buildings and animals."
+          }
+        },
+        {
+          "name": {
+            "de": "Oftenåsen",
+            "hu": "Oftenåsen",
+            "ro": "Oftenåsen",
+            "en": "Oftenåsen"
+          },
+          "coords": [
+            11.52,
+            64.005
+          ],
+          "category": "natural features",
+          "arrive_at": "14:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für die Panoramaaussicht. Bringen Sie Wasser und eine Kamera mit.",
+            "hu": "A panorámáért megéri a mászást. Hozzon vizet és fényképezőgépet.",
+            "ro": "Urcușul merită pentru vederea panoramică. Aduceți apă și un aparat foto.",
+            "en": "The climb is worth it for the panoramic view. Bring water and a camera."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Steinkjer beginnt mit der modernen Architektur der Steinkjer Kirche. Nach einem kulturellen Vormittag im Dampsaga Kulturhaus und einem Spaziergang an der Marina, wo Sie zu Mittag essen, entdecken Sie die lebendige Geschichte im Freilichtmuseum Egge. Der Nachmittag ist für den Aufstieg auf den Oftenåsen reserviert, der Sie mit einer atemberaubenden Aussicht über die Stadt und den Fjord belohnt. Der Abend klingt in einem gemütlichen Restaurant in der Innenstadt aus, wo Sie lokale Spezialitäten genießen.",
+        "hu": "A nap Steinkjerben a modern Steinkjer-templom megtekintésével kezdődik. Egy kulturális délelőtt után a Dampsaga Kultúrházban és egy séta után a kikötőben, ahol ebédel, felfedezi az Egge Szabadtéri Múzeum élő történelmét. A délutánt az Oftenåsen megmászására szánja, ahonnan lélegzetelállító kilátás nyílik a városra és a fjordra. Az estét egy hangulatos belvárosi étteremben zárja, helyi specialitásokat kóstolva.",
+        "ro": "Ziua dumneavoastră în Steinkjer începe cu arhitectura modernă a Bisericii Steinkjer. După o dimineață culturală la Casa de Cultură Dampsaga și o plimbare în port, unde luați prânzul, descoperiți istoria vie la Muzeul în aer liber Egge. După-amiaza este rezervată urcării pe Oftenåsen, care vă recompensează cu o priveliște uluitoare asupra orașului și fiordului. Seara se încheie la un restaurant confortabil din centrul orașului, savurând specialități locale.",
+        "en": "Your day in Steinkjer begins with the modern architecture of Steinkjer Church. After a cultural morning at the Dampsaga Culture House and a stroll at the marina where you'll have lunch, you'll discover the living history at the Egge Open-Air Museum. The afternoon is reserved for the climb up Oftenåsen, rewarding you with a breathtaking view over the city and the fjord. The evening concludes at a cozy downtown restaurant, enjoying local specialties."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sodd",
+            "tip": "Ein traditioneller norwegischer Fleisch- und Gemüseeintopf, ein Muss in dieser Region."
+          },
+          {
+            "name": "Lachs (Laks)",
+            "tip": "Frisch aus dem Fjord, oft geräuchert oder gegrillt serviert."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Probieren Sie ein Bier aus einer der lokalen Brauereien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sodd",
+            "tip": "Hagyományos norvég hús- és zöldségleves, kötelező ebben a régióban."
+          },
+          {
+            "name": "Lazac (Laks)",
+            "tip": "Frissen a fjordból, gyakran füstölve vagy grillezve tálalják."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Kóstoljon meg egy sört a helyi sörfőzdék egyikéből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sodd",
+            "tip": "O tocană tradițională norvegiană de carne și legume, obligatorie în această regiune."
+          },
+          {
+            "name": "Somon (Laks)",
+            "tip": "Proaspăt din fiord, adesea servit afumat sau la grătar."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "Încercați o bere de la una dintre berăriile locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sodd",
+            "tip": "A traditional Norwegian meat and vegetable stew, a must-try in this region."
+          },
+          {
+            "name": "Salmon (Laks)",
+            "tip": "Fresh from the fjord, often served smoked or grilled."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Try a beer from one of the local breweries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfel des Oftenåsen",
+            "tip": "Der ruhigste Ort mit der besten Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Uferweg am Fjord",
+            "tip": "Ein friedlicher Spaziergang entlang des Wassers.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bänke in der Nähe der Mære Kirche",
+            "tip": "Ein Ort der Besinnung und Ruhe außerhalb der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Oftenåsen csúcsa",
+            "tip": "A legcsendesebb hely a legjobb kilátással.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sétány a fjord partján",
+            "tip": "Békés séta a víz mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Padok a Mære-templom közelében",
+            "tip": "Elmélkedés és béke helye a városon kívül.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Oftenåsen",
+            "tip": "Cel mai liniștit loc cu cea mai bună priveliște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Promenada de pe malul fiordului",
+            "tip": "O plimbare pașnică de-a lungul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bănci lângă Biserica Mære",
+            "tip": "Un loc de contemplare și liniște în afara orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Summit of Oftenåsen",
+            "tip": "The quietest spot with the best view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Fjord-side path",
+            "tip": "A peaceful walk along the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Benches near Mære Church",
+            "tip": "A place for contemplation and peace outside the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Husfliden Steinkjer",
+            "tip": "Kaufen Sie authentisches norwegisches Handwerk und Wollwaren."
+          },
+          {
+            "name": "Museumsshop im Egge Museum",
+            "tip": "Finden Sie einzigartige Souvenirs und Bücher über die lokale Geschichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Husfliden Steinkjer",
+            "tip": "Vásároljon autentikus norvég kézműves termékeket és gyapjúárut."
+          },
+          {
+            "name": "Múzeumi bolt az Egge Múzeumban",
+            "tip": "Találjon egyedi szuveníreket és könyveket a helyi történelemről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Husfliden Steinkjer",
+            "tip": "Cumpărați artizanat norvegian autentic și produse din lână."
+          },
+          {
+            "name": "Magazinul muzeului Egge",
+            "tip": "Găsiți suveniruri unice și cărți despre istoria locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Husfliden Steinkjer",
+            "tip": "Shop for authentic Norwegian handicrafts and woolen goods."
+          },
+          {
+            "name": "Egge Museum Shop",
+            "tip": "Find unique souvenirs and books about local history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Das Wetter kann sich schnell ändern, nehmen Sie eine Regenjacke mit.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "Az időjárás gyorsan változhat, vigyen magával esőkabátot.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe jos.",
+          "Vremea se poate schimba rapid, luați o geacă de ploaie.",
+          "Verificați în avans programul de funcționare al muzeelor."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking a lot.",
+          "The weather can change quickly, so bring a rain jacket.",
+          "Check the opening hours of the museums in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 14.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Steinkjer Marina",
+            "hu": "Steinkjeri kikötő",
+            "ro": "Portul de agrement Steinkjer",
+            "en": "Steinkjer Marina"
+          },
+          "coords": [
+            11.48,
+            64.015
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit der frischen Fjordluft. Perfekt, um das Fahrrad vorzubereiten.",
+            "hu": "Kezdje a napot a friss fjordlevegővel. Tökéletes a kerékpár felkészítésére.",
+            "ro": "Începeți ziua cu aerul proaspăt al fiordului. Perfect pentru a pregăti bicicleta.",
+            "en": "Start the day with the fresh fjord air. Perfect for getting your bike ready."
+          }
+        },
+        {
+          "name": {
+            "de": "Steinkjer Kirche",
+            "hu": "Steinkjeri templom",
+            "ro": "Biserica din Steinkjer",
+            "en": "Steinkjer Church"
+          },
+          "coords": [
+            11.4915,
+            64.0145
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um die moderne Architektur zu bewundern, bevor die Radtour richtig losgeht.",
+            "hu": "Egy rövid megálló, hogy megcsodálja a modern építészetet, mielőtt igazán elkezdődik a biciklitúra.",
+            "ro": "O oprire scurtă pentru a admira arhitectura modernă înainte de a începe cu adevărat turul cu bicicleta.",
+            "en": "A quick stop to admire the modern architecture before the bike tour really gets going."
+          }
+        },
+        {
+          "name": {
+            "de": "Egge Museum",
+            "hu": "Egge Múzeum",
+            "ro": "Muzeul Egge",
+            "en": "Egge Museum"
+          },
+          "coords": [
+            11.5,
+            64.03
+          ],
+          "category": "museums",
+          "arrive_at": "10:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab und tauchen Sie in die Geschichte der Region ein.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és merüljön el a régió történelmében.",
+            "ro": "Parcați bicicleta în siguranță și scufundați-vă în istoria regiunii.",
+            "en": "Park your bike securely and immerse yourself in the region's history."
+          }
+        },
+        {
+          "name": {
+            "de": "Bolareinen",
+            "hu": "Bolareinen",
+            "ro": "Bolareinen",
+            "en": "Bolareinen"
+          },
+          "coords": [
+            11.54,
+            64.035
+          ],
+          "category": "historical",
+          "arrive_at": "12:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Radfahren zu diesem Wikinger-Standort fühlt sich wie eine Zeitreise an. Die Grabhügel sind beeindruckend.",
+            "hu": "Ehhez a viking kori helyszínhez kerékpározni olyan, mint egy időutazás. A sírhalmok lenyűgözőek.",
+            "ro": "Mersul cu bicicleta la acest sit viking este ca o călătorie în timp. Movilele funerare sunt impresionante.",
+            "en": "Biking to this Viking site feels like a journey back in time. The burial mounds are impressive."
+          }
+        },
+        {
+          "name": {
+            "de": "Oftenåsen",
+            "hu": "Oftenåsen",
+            "ro": "Oftenåsen",
+            "en": "Oftenåsen"
+          },
+          "coords": [
+            11.52,
+            64.005
+          ],
+          "category": "natural features",
+          "arrive_at": "14:48",
+          "stay_min": 115,
+          "hop_from_prev_min": 47,
+          "hop_from_prev_km": 7.7,
+          "tip_5lang": {
+            "de": "Der letzte Anstieg des Tages. Lassen Sie Ihr Fahrrad am Fuß des Hügels und genießen Sie den Spaziergang nach oben.",
+            "hu": "A nap utolsó emelkedője. Hagyja a kerékpárt a hegy lábánál, és élvezze a sétát a csúcsra.",
+            "ro": "Ultima urcare a zilei. Lăsați bicicleta la poalele dealului și bucurați-vă de plimbarea până în vârf.",
+            "en": "The last climb of the day. Leave your bike at the base of the hill and enjoy the walk to the top."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und starten Sie an der Steinkjer Marina. Die Tour führt Sie durch das Herz der Stadt zur Kirche, bevor Sie nach Norden zum Egge Museum fahren. Nach einer Reise in die Wikingerzeit bei Bolareinen, radeln Sie zurück in Richtung Süden. Der Tag gipfelt in der Herausforderung, den Oftenåsen zu erklimmen. Die Belohnung ist eine unvergessliche Aussicht, bevor Sie für ein wohlverdientes Abendessen ins Zentrum zurückkehren.",
+        "hu": "Pattanjon biciklire, és induljon a Steinkjer Marinából. A túra a város szívén keresztül a templomhoz vezet, mielőtt észak felé venné az irányt az Egge Múzeumhoz. A viking korba tett utazás után Bolareinennél, dél felé teker vissza. A nap csúcspontja az Oftenåsen megmászása. A jutalom egy felejthetetlen kilátás, mielőtt visszatérne a központba egy jól megérdemelt vacsorára.",
+        "ro": "Urcați-vă pe bicicletă și porniți din portul Steinkjer. Turul vă duce prin inima orașului la biserică înainte de a vă îndrepta spre nord, la Muzeul Egge. După o călătorie în epoca vikingă la Bolareinen, pedalați înapoi spre sud. Ziua culminează cu provocarea de a urca pe Oftenåsen. Recompensa este o priveliște de neuitat înainte de a vă întoarce în centru pentru o cină binemeritată.",
+        "en": "Get on your bike and start at Steinkjer Marina. The tour takes you through the heart of the city to the church before heading north to the Egge Museum. After a journey into the Viking Age at Bolareinen, you'll cycle back south. The day culminates in the challenge of climbing Oftenåsen. The reward is an unforgettable view before returning to the center for a well-deserved dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fischsuppe (Fiskesuppe)",
+            "tip": "Eine cremige, herzhafte Suppe, perfekt nach einer Radtour."
+          },
+          {
+            "name": "Waffeln (Vafler)",
+            "tip": "Norwegische Waffeln mit Sauerrahm und Marmelade sind ein klassischer Nachmittagssnack."
+          },
+          {
+            "name": "Elchburger",
+            "tip": "Für die Abenteuerlustigen, ein Burger mit lokalem Wildfleisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halleves (Fiskesuppe)",
+            "tip": "Krémes, laktató leves, tökéletes egy biciklitúra után."
+          },
+          {
+            "name": "Gofri (Vafler)",
+            "tip": "A norvég gofri tejföllel és lekvárral klasszikus délutáni snack."
+          },
+          {
+            "name": "Jávorszarvas burger",
+            "tip": "A kalandvágyóknak egy burger helyi vadhúsból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supă de pește (Fiskesuppe)",
+            "tip": "O supă cremoasă și consistentă, perfectă după o plimbare cu bicicleta."
+          },
+          {
+            "name": "Vafe (Vafler)",
+            "tip": "Vafele norvegiene cu smântână și gem sunt o gustare clasică de după-amiază."
+          },
+          {
+            "name": "Burger de elan",
+            "tip": "Pentru cei aventuroși, un burger cu carne de vânat locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish soup (Fiskesuppe)",
+            "tip": "A creamy, hearty soup, perfect after a bike ride."
+          },
+          {
+            "name": "Waffles (Vafler)",
+            "tip": "Norwegian waffles with sour cream and jam are a classic afternoon snack."
+          },
+          {
+            "name": "Moose burger",
+            "tip": "For the adventurous, a burger made with local game meat."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pfad entlang des Flusses Bya",
+            "tip": "Ein ruhiger Radweg abseits der Hauptstraßen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Die Stille bei den Bardal Felsritzungen",
+            "tip": "Auch wenn nicht auf der Route, ein Abstecher lohnt sich für die Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Abendstimmung an der Marina",
+            "tip": "Nach der Tour die Ruhe am Wasser genießen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ösvény a Bya folyó mentén",
+            "tip": "Csendes kerékpárút a főutaktól távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Csend a Bardal sziklarajzoknál",
+            "tip": "Bár nincs az útvonalon, a csendért érdemes egy kitérőt tenni.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Esti hangulat a kikötőben",
+            "tip": "A túra után élvezze a csendet a vízparton.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Potecă de-a lungul râului Bya",
+            "tip": "O pistă de biciclete liniștită, departe de drumurile principale.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Liniștea de la gravurile rupestre Bardal",
+            "tip": "Chiar dacă nu este pe traseu, o ocolire merită pentru liniște.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Atmosfera de seară în port",
+            "tip": "După tur, bucurați-vă de liniștea de pe malul apei.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Path along the River Bya",
+            "tip": "A quiet cycle path away from the main roads.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The silence at Bardal rock carvings",
+            "tip": "Although not on the route, a detour is worth it for the tranquility.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Evening atmosphere at the marina",
+            "tip": "Enjoy the peace by the water after the tour.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sportgeschäfte in Steinkjer",
+            "tip": "Für Outdoor-Ausrüstung und Fahrradzubehör."
+          },
+          {
+            "name": "Lokale Hofläden",
+            "tip": "Achten Sie auf Schilder, die lokale Produkte wie Käse oder Marmelade verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sportboltok Steinkjerben",
+            "tip": "Outdoor felszerelésekhez és kerékpár-kiegészítőkhöz."
+          },
+          {
+            "name": "Helyi termelői boltok",
+            "tip": "Figyelje a táblákat, amelyek helyi termékeket, például sajtot vagy lekvárt árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine sportive din Steinkjer",
+            "tip": "Pentru echipament outdoor și accesorii pentru biciclete."
+          },
+          {
+            "name": "Magazine de la fermă locale",
+            "tip": "Fiți atenți la indicatoarele care vând produse locale, cum ar fi brânză sau gem."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sports shops in Steinkjer",
+            "tip": "For outdoor gear and cycling accessories."
+          },
+          {
+            "name": "Local farm shops",
+            "tip": "Look out for signs selling local produce like cheese or jam."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie ein Fahrradschloss mit.",
+          "Einige Strecken können hügelig sein, seien Sie vorbereitet.",
+          "Eine Powerbank für Ihr Telefon zur Navigation ist nützlich."
+        ],
+        "hu": [
+          "Hozzon magával kerékpárzárat.",
+          "Néhány szakasz dombos lehet, készüljön fel.",
+          "Hasznos lehet egy powerbank a telefonjához a navigációhoz."
+        ],
+        "ro": [
+          "Luați cu dumneavoastră un lacăt de bicicletă.",
+          "Unele secțiuni pot fi deluroase, fiți pregătit.",
+          "O baterie externă pentru telefonul dumneavoastră pentru navigație este utilă."
+        ],
+        "en": [
+          "Bring a bike lock.",
+          "Some sections can be hilly, be prepared.",
+          "A power bank for your phone for navigation is useful."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 30.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Mære Kirche",
+            "hu": "Mærei templom",
+            "ro": "Biserica Mære",
+            "en": "Mære Church"
+          },
+          "coords": [
+            11.43,
+            63.95
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Ein historischer Ort mit einer reichen Vergangenheit. Nehmen Sie an einer Führung teil, falls verfügbar.",
+            "hu": "Történelmi hely, gazdag múlttal. Ha van rá lehetőség, vegyen részt egy vezetett túrán.",
+            "ro": "Un sit istoric cu un trecut bogat. Participați la un tur ghidat, dacă este disponibil.",
+            "en": "A historic site with a rich past. Take a guided tour if available."
+          }
+        },
+        {
+          "name": {
+            "de": "Bardal Felsritzungen",
+            "hu": "Bardal sziklarajzok",
+            "ro": "Gravurile rupestre de la Bardal",
+            "en": "Bardal Rock Carvings"
+          },
+          "coords": [
+            11.35,
+            64.05
+          ],
+          "category": "historical",
+          "arrive_at": "11:06",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Tragen Sie festes Schuhwerk. Die Pfade zu den Felsritzungen können uneben sein.",
+            "hu": "Viseljen erős cipőt. A sziklarajzokhoz vezető ösvények egyenetlenek lehetnek.",
+            "ro": "Purtați încălțăminte rezistentă. Căile către gravuri pot fi denivelate.",
+            "en": "Wear sturdy footwear. The paths to the rock carvings can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Zentrum Steinkjer",
+            "hu": "Parkoló, Steinkjer központ",
+            "ro": "Parcare Centru Steinkjer",
+            "en": "Steinkjer Center Parking"
+          },
+          "coords": [
+            11.489,
+            64.012
+          ],
+          "category": "port",
+          "arrive_at": "12:42",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Hier parken Sie für den Rest des Nachmittags und erkunden das Stadtzentrum zu Fuß.",
+            "hu": "Parkoljon itt a délután hátralévő részére, és fedezze fel gyalog a városközpontot.",
+            "ro": "Parcați aici pentru restul după-amiezii și explorați centrul orașului pe jos.",
+            "en": "Park here for the rest of the afternoon and explore the city center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Innenstadt",
+            "hu": "Ebéd a belvárosban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in Downtown"
+          },
+          "coords": [
+            11.49,
+            64.013
+          ],
+          "category": "gastro",
+          "arrive_at": "12:47",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Wählen Sie ein Restaurant mit Blick auf den Fjord für eine malerische Mahlzeit.",
+            "hu": "Válasszon egy éttermet, ahonnan kilátás nyílik a fjordra egy festői ebédhez.",
+            "ro": "Alegeți un restaurant cu vedere la fiord pentru o masă pitorească.",
+            "en": "Choose a restaurant with a view of the fjord for a scenic meal."
+          }
+        },
+        {
+          "name": {
+            "de": "Steinkjer Kirche",
+            "hu": "Steinkjeri templom",
+            "ro": "Biserica din Steinkjer",
+            "en": "Steinkjer Church"
+          },
+          "coords": [
+            11.4915,
+            64.0145
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:11",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Mittagessen entfernt, bewundern Sie die moderne Architektur.",
+            "hu": "Egy rövid sétára az ebédtől, csodálja meg a modern építészetet.",
+            "ro": "O scurtă plimbare de la prânz, admirați arhitectura modernă.",
+            "en": "A short walk from lunch, admire the modern architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Dampsaga Kulturhaus",
+            "hu": "Dampsaga Kultúrház",
+            "ro": "Centrul Cultural Dampsaga",
+            "en": "Dampsaga Culture House"
+          },
+          "coords": [
+            11.488,
+            64.011
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:55",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Schauen Sie sich eine Kunstausstellung an oder genießen Sie einen Kaffee am Flussufer.",
+            "hu": "Nézzen meg egy művészeti kiállítást, vagy igyon egy kávét a folyóparton.",
+            "ro": "Vedeți o expoziție de artă sau savurați o cafea pe malul râului.",
+            "en": "Check out an art exhibition or enjoy a coffee by the riverside."
+          }
+        },
+        {
+          "name": {
+            "de": "Oftenåsen",
+            "hu": "Oftenåsen",
+            "ro": "Oftenåsen",
+            "en": "Oftenåsen"
+          },
+          "coords": [
+            11.52,
+            64.005
+          ],
+          "category": "natural features",
+          "arrive_at": "16:11",
+          "stay_min": 104,
+          "hop_mode": "car",
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz am Fuße des Hügels und machen Sie den letzten Spaziergang des Tages nach oben.",
+            "hu": "Vezessen a hegy lábánál lévő parkolóhoz, és tegye meg a nap utolsó sétáját a csúcsra.",
+            "ro": "Conduceți până la parcarea de la baza dealului și faceți ultima plimbare a zilei până în vârf.",
+            "en": "Drive to the car park at the base of the hill and take the last walk of the day to the top."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie zunächst die ländliche Umgebung von Steinkjer und besuchen die historische Mære Kirche und die alten Bardal Felsritzungen. Nach dieser Reise in die Vergangenheit fahren Sie ins Zentrum von Steinkjer, parken Ihr Auto und genießen ein Mittagessen. Der Nachmittag gehört dem Stadtkern mit seiner markanten Kirche und dem lebhaften Kulturhaus. Zum Abschluss fahren Sie zum Oftenåsen, um den Tag mit einem spektakulären Sonnenuntergang über dem Fjord ausklingen zu lassen.",
+        "hu": "Autóval először Steinkjer vidéki környékét fedezi fel, meglátogatja a történelmi Mære-templomot és az ősi Bardal sziklarajzokat. E múltbeli utazás után Steinkjer központjába hajt, leparkol és ebédel. A délután a városközponté, a jellegzetes templommal és az élénk kultúrházzal. Végül felhajt az Oftenåsenre, hogy a napot egy látványos naplementével zárja a fjord felett.",
+        "ro": "Cu mașina, explorați mai întâi împrejurimile rurale ale orașului Steinkjer, vizitând biserica istorică Mære și vechile gravuri rupestre de la Bardal. După această călătorie în trecut, conduceți în centrul orașului Steinkjer, parcați mașina și bucurați-vă de prânz. După-amiaza este dedicată centrului orașului, cu biserica sa distinctivă și casa de cultură plină de viață. În cele din urmă, conduceți până la Oftenåsen pentru a încheia ziua cu un apus spectaculos peste fiord.",
+        "en": "By car, you'll first explore the rural surroundings of Steinkjer, visiting the historic Mære Church and the ancient Bardal rock carvings. After this journey into the past, you'll drive to the center of Steinkjer, park your car, and enjoy lunch. The afternoon is dedicated to the city center, with its distinctive church and lively culture house. Finally, you'll drive to Oftenåsen to end the day with a spectacular sunset over the fjord."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Raspeballer/Komle",
+            "tip": "Norwegische Kartoffelknödel, oft mit gesalzenem Fleisch serviert. Herzhaft und traditionell."
+          },
+          {
+            "name": "Rømmegrøt",
+            "tip": "Ein Sauerrahmbrei, der oft zu festlichen Anlässen gegessen wird."
+          },
+          {
+            "name": "Kaffee und Kuchen",
+            "tip": "Viele Cafés bieten ausgezeichneten Kaffee und hausgemachte Kuchen an."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Raspeballer/Komle",
+            "tip": "Norvég krumpligombóc, gyakran sózott hússal tálalva. Laktató és hagyományos."
+          },
+          {
+            "name": "Rømmegrøt",
+            "tip": "Tejfölös kása, amelyet gyakran ünnepi alkalmakkor esznek."
+          },
+          {
+            "name": "Kávé és sütemény",
+            "tip": "Számos kávézó kínál kiváló kávét és házi süteményeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Raspeballer/Komle",
+            "tip": "Găluște norvegiene de cartofi, adesea servite cu carne sărată. Consistent și tradițional."
+          },
+          {
+            "name": "Rømmegrøt",
+            "tip": "Un terci de smântână consumat adesea la ocazii festive."
+          },
+          {
+            "name": "Cafea și prăjituri",
+            "tip": "Multe cafenele oferă cafea excelentă și prăjituri de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Raspeballer/Komle",
+            "tip": "Norwegian potato dumplings, often served with salted meat. Hearty and traditional."
+          },
+          {
+            "name": "Rømmegrøt",
+            "tip": "A sour cream porridge often eaten on festive occasions."
+          },
+          {
+            "name": "Coffee and cake",
+            "tip": "Many cafes offer excellent coffee and homemade cakes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Die Umgebung der Mære Kirche",
+            "tip": "Ein Ort der Stille und Geschichte.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Die Felsritzungen von Bardal",
+            "tip": "Verbinden Sie sich mit der alten Vergangenheit in ruhiger Umgebung.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang auf dem Oftenåsen",
+            "tip": "Der perfekte Abschluss eines ereignisreichen Tages.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Mære-templom környéke",
+            "tip": "A csend és a történelem helye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A Bardal sziklarajzok",
+            "tip": "Kapcsolódjon az ősi múlthoz csendes környezetben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente az Oftenåsenen",
+            "tip": "Egy eseménydús nap tökéletes befejezése.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Împrejurimile Bisericii Mære",
+            "tip": "Un loc de liniște și istorie.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Gravurile rupestre de la Bardal",
+            "tip": "Conectați-vă cu trecutul antic într-un mediu liniștit.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus de soare pe Oftenåsen",
+            "tip": "Finalul perfect pentru o zi plină de evenimente.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "The surroundings of Mære Church",
+            "tip": "A place of silence and history.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "The Bardal Rock Carvings",
+            "tip": "Connect with the ancient past in a quiet setting.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset on Oftenåsen",
+            "tip": "The perfect end to an eventful day.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Amfi Steinkjer",
+            "tip": "Ein Einkaufszentrum für alles, was Sie brauchen, von Kleidung bis Elektronik."
+          },
+          {
+            "name": "Gårdsbutikk (Hofladen)",
+            "tip": "Suchen Sie nach Schildern auf dem Land für lokale Delikatessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Amfi Steinkjer",
+            "tip": "Bevásárlóközpont, ahol mindent megtalál, a ruháktól az elektronikáig."
+          },
+          {
+            "name": "Gårdsbutikk (Termelői bolt)",
+            "tip": "Keresse a táblákat vidéken a helyi finomságokért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Amfi Steinkjer",
+            "tip": "Un centru comercial pentru tot ce aveți nevoie, de la haine la electronice."
+          },
+          {
+            "name": "Gårdsbutikk (Magazin de fermă)",
+            "tip": "Căutați indicatoare în mediul rural pentru delicatese locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Amfi Steinkjer",
+            "tip": "A shopping center for everything you need, from clothing to electronics."
+          },
+          {
+            "name": "Gårdsbutikk (Farm shop)",
+            "tip": "Look for signs in the countryside for local delicacies."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkgebühren im Stadtzentrum können anfallen.",
+          "Tanken Sie außerhalb der Stadt, wo der Kraftstoff möglicherweise günstiger ist.",
+          "Nutzen Sie eine Navigations-App, um die abgelegenen historischen Stätten zu finden."
+        ],
+        "hu": [
+          "A városközpontban parkolási díjak merülhetnek fel.",
+          "Tankoljon a városon kívül, ahol az üzemanyag olcsóbb lehet.",
+          "Használjon navigációs alkalmazást a távoli történelmi helyszínek megtalálásához."
+        ],
+        "ro": [
+          "Se pot aplica taxe de parcare în centrul orașului.",
+          "Alimentați în afara orașului, unde combustibilul poate fi mai ieftin.",
+          "Utilizați o aplicație de navigație pentru a găsi siturile istorice îndepărtate."
+        ],
+        "en": [
+          "Parking fees may apply in the city center.",
+          "Refuel outside the city where fuel may be cheaper.",
+          "Use a navigation app to find the remote historical sites."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 19.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof Steinkjer",
+            "hu": "Érkezés a Steinkjer vasútállomásra",
+            "ro": "Sosire la Gara Steinkjer",
+            "en": "Arrival at Steinkjer Station"
+          },
+          "coords": [
+            11.495,
+            64.01
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für den Bus, um flexibel zu bleiben.",
+            "hu": "Vásároljon napijegyet a buszra, hogy rugalmas maradjon.",
+            "ro": "Cumpărați un bilet de o zi pentru autobuz pentru a rămâne flexibil.",
+            "en": "Buy a day pass for the bus to stay flexible."
+          }
+        },
+        {
+          "name": {
+            "de": "Steinkjer Kirche",
+            "hu": "Steinkjeri templom",
+            "ro": "Biserica din Steinkjer",
+            "en": "Steinkjer Church"
+          },
+          "coords": [
+            11.4915,
+            64.0145
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:18",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Bahnhof, ein perfekter erster Halt.",
+            "hu": "Rövid séta az állomástól, tökéletes első megálló.",
+            "ro": "O scurtă plimbare de la gară, o primă oprire perfectă.",
+            "en": "A short walk from the station, a perfect first stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Mære Kirche",
+            "hu": "Mærei templom",
+            "ro": "Biserica Mære",
+            "en": "Mære Church"
+          },
+          "coords": [
+            11.43,
+            63.95
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:30",
+          "stay_min": 75,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus Richtung Süden. Die Haltestelle ist nur einen kurzen Spaziergang von der Kirche entfernt.",
+            "hu": "Menjen busszal dél felé. A megálló csak egy rövid sétára van a templomtól.",
+            "ro": "Luați autobuzul spre sud. Stația este la o scurtă plimbare de biserică.",
+            "en": "Take the bus south. The stop is just a short walk from the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Bolareinen",
+            "hu": "Bolareinen",
+            "ro": "Bolareinen",
+            "en": "Bolareinen"
+          },
+          "coords": [
+            11.54,
+            64.035
+          ],
+          "category": "historical",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein Spaziergang von der Mære Kirche durch die ländliche Landschaft.",
+            "hu": "Séta a Mære-templomtól a vidéki tájon keresztül.",
+            "ro": "O plimbare de la Biserica Mære prin peisajul rural.",
+            "en": "A walk from Mære Church through the rural landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Egge Museum",
+            "hu": "Egge Múzeum",
+            "ro": "Muzeul Egge",
+            "en": "Egge Museum"
+          },
+          "coords": [
+            11.5,
+            64.03
+          ],
+          "category": "museums",
+          "arrive_at": "13:55",
+          "stay_min": 100,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 9.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück in die Stadt und steigen Sie in der Nähe des Museums aus.",
+            "hu": "Menjen vissza busszal a városba, és szálljon le a múzeum közelében.",
+            "ro": "Luați autobuzul înapoi în oraș și coborâți lângă muzeu.",
+            "en": "Take the bus back to the city and get off near the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Oftenåsen",
+            "hu": "Oftenåsen",
+            "ro": "Oftenåsen",
+            "en": "Oftenåsen"
+          },
+          "coords": [
+            11.52,
+            64.005
+          ],
+          "category": "natural features",
+          "arrive_at": "16:00",
+          "stay_min": 95,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein belebender Spaziergang zum Abschluss des Tages mit einer fantastischen Aussicht.",
+            "hu": "Élénkítő séta a nap végén, fantasztikus kilátással.",
+            "ro": "O plimbare revigorantă pentru a încheia ziua cu o priveliște fantastică.",
+            "en": "An invigorating walk to end the day with a fantastic view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am Bahnhof von Steinkjer. Nach einem kurzen Spaziergang zur Kirche nehmen Sie den Bus nach Süden, um in die Geschichte der Mære Kirche und des Wikingergebiets Bolareinen einzutauchen. Mit dem Bus geht es zurück in den Norden der Stadt zum lebendigen Egge Museum. Den Abschluss des Tages bildet ein Spaziergang auf den Oftenåsen, von wo aus Sie eine herrliche Aussicht genießen, bevor Sie mit dem Bus zurück ins Zentrum fahren, um zu Abend zu essen.",
+        "hu": "A nap a steinkjeri vasútállomáson kezdődik. A templomhoz tett rövid séta után busszal délre utazik, hogy elmerüljön a Mære-templom és a viking kori Bolareinen történelmében. Busszal tér vissza a város északi részébe, az élettel teli Egge Múzeumba. A napot egy séta zárja az Oftenåsenen, ahonnan csodálatos kilátás nyílik, mielőtt busszal visszatérne a központba vacsorázni.",
+        "ro": "Ziua începe la gara din Steinkjer. După o scurtă plimbare la biserică, luați autobuzul spre sud pentru a vă cufunda în istoria Bisericii Mære și a sitului viking Bolareinen. Autobuzul vă duce înapoi în nordul orașului, la animatul Muzeu Egge. Ziua se încheie cu o plimbare pe Oftenåsen, de unde vă bucurați de o priveliște magnifică înainte de a lua autobuzul înapoi în centru pentru cină.",
+        "en": "Your day starts at Steinkjer train station. After a short walk to the church, you take the bus south to delve into the history of Mære Church and the Viking site of Bolareinen. The bus takes you back to the north of the city to the lively Egge Museum. The day concludes with a walk up Oftenåsen, where you can enjoy a magnificent view before taking the bus back to the center for dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pølse i lompe",
+            "tip": "Ein schneller und typisch norwegischer Snack: eine Wurst in einem dünnen Kartoffelfladenbrot."
+          },
+          {
+            "name": "Skillingsbolle",
+            "tip": "Eine Zimtschnecke, perfekt für eine Kaffeepause."
+          },
+          {
+            "name": "Lokale Meeresfrüchte",
+            "tip": "Fragen Sie nach dem 'Fang des Tages' in Restaurants am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pølse i lompe",
+            "tip": "Gyors és tipikus norvég snack: virsli vékony burgonyalepényben."
+          },
+          {
+            "name": "Skillingsbolle",
+            "tip": "Fahéjas csiga, tökéletes egy kávészünethez."
+          },
+          {
+            "name": "Helyi tenger gyümölcsei",
+            "tip": "Kérdezze a 'nap fogását' a kikötői éttermekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pølse i lompe",
+            "tip": "O gustare rapidă și tipic norvegiană: un cârnat într-o lipie subțire de cartofi."
+          },
+          {
+            "name": "Skillingsbolle",
+            "tip": "Un melc cu scorțișoară, perfect pentru o pauză de cafea."
+          },
+          {
+            "name": "Fructe de mare locale",
+            "tip": "Întrebați de 'captura zilei' în restaurantele din port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pølse i lompe",
+            "tip": "A quick and typically Norwegian snack: a sausage in a thin potato flatbread."
+          },
+          {
+            "name": "Skillingsbolle",
+            "tip": "A cinnamon bun, perfect for a coffee break."
+          },
+          {
+            "name": "Local seafood",
+            "tip": "Ask for the 'catch of the day' in harborside restaurants."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Bank im Park des Egge Museums",
+            "tip": "Ein ruhiger Moment zwischen den historischen Gebäuden.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Die Busfahrt durch die Landschaft",
+            "tip": "Genießen Sie die Aussicht aus dem Fenster.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Der Gipfel des Oftenåsen am späten Nachmittag",
+            "tip": "Weniger Menschen und weiches Licht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy pad az Egge Múzeum parkjában",
+            "tip": "Csendes pillanat a történelmi épületek között.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Buszozás a tájon keresztül",
+            "tip": "Élvezze a kilátást az ablakból.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Az Oftenåsen csúcsa késő délután",
+            "tip": "Kevesebb ember és lágy fények.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă în parcul Muzeului Egge",
+            "tip": "Un moment de liniște printre clădirile istorice.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Călătoria cu autobuzul prin peisaj",
+            "tip": "Bucurați-vă de priveliștea de la fereastră.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vârful Oftenåsen după-amiaza târziu",
+            "tip": "Mai puțini oameni și lumină blândă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench in the park of the Egge Museum",
+            "tip": "A quiet moment among the historic buildings.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The bus ride through the landscape",
+            "tip": "Enjoy the view from the window.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "The summit of Oftenåsen in the late afternoon",
+            "tip": "Fewer people and soft light.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs am Bahnhofskiosk",
+            "tip": "Für Last-Minute-Mitbringsel."
+          },
+          {
+            "name": "Lokaler Supermarkt",
+            "tip": "Kaufen Sie norwegische Schokolade und Snacks für die Heimreise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvenírek az állomási kioszkban",
+            "tip": "Utolsó pillanatos ajándékokhoz."
+          },
+          {
+            "name": "Helyi szupermarket",
+            "tip": "Vásároljon norvég csokoládét és rágcsálnivalót a hazaútra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri la chioșcul din gară",
+            "tip": "Pentru suveniruri de ultim moment."
+          },
+          {
+            "name": "Supermarket local",
+            "tip": "Cumpărați ciocolată și gustări norvegiene pentru călătoria spre casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenirs at the station kiosk",
+            "tip": "For last-minute souvenirs."
+          },
+          {
+            "name": "Local supermarket",
+            "tip": "Buy Norwegian chocolate and snacks for the journey home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die lokale ÖPNV-App herunter, um Fahrpläne und Tickets zu verwalten.",
+          "Seien Sie pünktlich an der Bushaltestelle, besonders auf dem Land.",
+          "Planen Sie Pufferzeiten für eventuelle Verspätungen ein."
+        ],
+        "hu": [
+          "Töltse le a helyi tömegközlekedési alkalmazást a menetrendek és jegyek kezeléséhez.",
+          "Legyen időben a buszmegállóban, különösen vidéken.",
+          "Tervezzen pufferidőt az esetleges késésekre."
+        ],
+        "ro": [
+          "Descărcați aplicația locală de transport public pentru a gestiona orarele și biletele.",
+          "Fiți la timp la stația de autobuz, mai ales în mediul rural.",
+          "Planificați timp tampon pentru eventualele întârzieri."
+        ],
+        "en": [
+          "Download the local public transport app to manage schedules and tickets.",
+          "Be on time at the bus stop, especially in the countryside.",
+          "Plan for buffer time for any potential delays."
+        ]
+      }
+    }
+  }
+}

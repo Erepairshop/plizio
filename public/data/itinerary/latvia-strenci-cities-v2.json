@@ -1,0 +1,1470 @@
+{
+  "city_id": "latvia-strenci-cities-v2",
+  "anchor": {
+    "name": "Strenči",
+    "coords": [
+      25.6806,
+      57.6256
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kulturhaus Strenči",
+            "hu": "Strenči Kultúrház",
+            "ro": "Casa de Cultură Strenči",
+            "en": "Strenči Culture House"
+          },
+          "coords": [
+            25.6815,
+            57.6262
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Prüfen Sie den lokalen Veranstaltungsplan, vielleicht findet etwas Interessantes statt.",
+            "hu": "Nézze meg a helyi programtervet, hátha éppen zajlik valami érdekes.",
+            "ro": "Verificați programul local de evenimente, s-ar putea să prindeți ceva interesant.",
+            "en": "Check the local event schedule, you might catch something interesting."
+          }
+        },
+        {
+          "name": {
+            "de": "Lutherische Kirche Strenči",
+            "hu": "Strenči evangélikus templom",
+            "ro": "Biserica Luterană Strenči",
+            "en": "Strenči Lutheran Church"
+          },
+          "coords": [
+            25.6833,
+            57.6275
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Achten Sie auf die schlichte, aber elegante baltische Architektur.",
+            "hu": "Figyelje meg az egyszerű, mégis elegáns balti építészetet.",
+            "ro": "Observați arhitectura baltică simplă, dar elegantă.",
+            "en": "Take note of the simple yet elegant Baltic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Flößerdenkmal",
+            "hu": "Tutajos emlékmű",
+            "ro": "Monumentul Plutașului",
+            "en": "Raftsman's Monument"
+          },
+          "coords": [
+            25.685,
+            57.6288
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:38",
+          "stay_min": 20,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein Symbol der reichen Flößereigeschichte der Stadt auf dem Fluss Gauja.",
+            "hu": "A város gazdag tutajos múltjának szimbóluma a Gauja folyón.",
+            "ro": "Un simbol al istoriei bogate a plutăritului din oraș pe râul Gauja.",
+            "en": "A symbol of the town's rich history of logging and rafting on the Gauja river."
+          }
+        },
+        {
+          "name": {
+            "de": "Gauja-Brücke",
+            "hu": "Gauja-híd",
+            "ro": "Podul Gauja",
+            "en": "Gauja Bridge"
+          },
+          "coords": [
+            25.6894,
+            57.6301
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein großartiger Fotopunkt mit Blick auf den Fluss.",
+            "hu": "Nagyszerű fotóhely, kilátással a folyóra.",
+            "ro": "Un loc excelent pentru fotografii cu vedere la râu.",
+            "en": "A great photo spot overlooking the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Gauja-Stromschnellen & Naturpark",
+            "hu": "Gauja-zúgók és Natúrpark",
+            "ro": "Cascadele Gauja și Parcul Natural",
+            "en": "Gauja Rapids & Nature Park"
+          },
+          "coords": [
+            25.6988,
+            57.6385
+          ],
+          "category": "natural features",
+          "arrive_at": "12:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für ein Picknick am Mittag. Hören Sie dem Rauschen des Wassers zu.",
+            "hu": "Ideális hely egy déli piknikhez. Hallgassa a víz csobogását.",
+            "ro": "Un loc ideal pentru un picnic la prânz. Ascultați sunetul apei.",
+            "en": "An ideal spot for a midday picnic. Listen to the rush of the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Kiefernpfad",
+            "hu": "Fenyőösvény",
+            "ro": "Poteca Pinilor",
+            "en": "Pine Path"
+          },
+          "coords": [
+            25.694,
+            57.645
+          ],
+          "category": "natural features",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die frische, nach Kiefern duftende Luft auf diesem friedlichen Weg.",
+            "hu": "Élvezze a friss, fenyőillatú levegőt ezen a békés ösvényen.",
+            "ro": "Bucurați-vă de aerul proaspăt, parfumat cu pin, pe această potecă liniștită.",
+            "en": "Enjoy the fresh, pine-scented air on this peaceful trail."
+          }
+        },
+        {
+          "name": {
+            "de": "Psychiatrische Klinik Strenči (Außenansicht)",
+            "hu": "Strenči Pszichiátriai Klinika (külső nézet)",
+            "ro": "Clinica de Psihiatrie Strenči (exterior)",
+            "en": "Strenči Psychiatric Clinic (exterior view)"
+          },
+          "coords": [
+            25.678,
+            57.625
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:11",
+          "stay_min": 34,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Beobachten Sie die historische Architektur und die ruhige Umgebung des berühmten Krankenhauses.",
+            "hu": "Figyelje meg a híres kórház történelmi építészetét és csendes környezetét.",
+            "ro": "Observați arhitectura istorică și împrejurimile liniștite ale faimosului spital.",
+            "en": "Observe the historic architecture and serene grounds of the famous hospital."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im kulturellen Herzen von Strenči, bevor Sie die spirituelle Ruhe der lutherischen Kirche erleben. Am Vormittag würdigen Sie die Geschichte der Stadt am Flößerdenkmal. Nach dem Mittagessen tauchen Sie in die Natur ein, folgen dem Rauschen der Gauja-Stromschnellen und wandern auf dem duftenden Kiefernpfad. Beenden Sie Ihren Tag mit einem nachdenklichen Blick auf das historisch bedeutsame Psychiatrische Krankenhaus, ein Zeugnis der einzigartigen Vergangenheit von Strenči.",
+        "hu": "Kezdje a napot Strenči kulturális szívében, mielőtt megtapasztalná az evangélikus templom spirituális nyugalmát. Délelőtt tisztelegjen a város történelme előtt a Tutajos emlékműnél. Ebéd után merüljön el a természetben, kövesse a Gauja-zúgók morajlását és sétáljon az illatos Fenyőösvényen. Zárja a napot egy elgondolkodtató pillantással a történelmi jelentőségű Pszichiátriai Klinikára, amely Strenči egyedülálló múltjának tanúja.",
+        "ro": "Începeți ziua în inima culturală a orașului Strenči înainte de a experimenta liniștea spirituală a Bisericii Luterane. Dimineața, onorați istoria orașului la Monumentul Plutașului. După prânz, scufundați-vă în natură, urmând vuietul cascadelor Gauja și plimbându-vă pe Poteca Pinilor parfumată. Încheiați ziua cu o privire contemplativă asupra Clinicii de Psihiatrie, importantă din punct de vedere istoric, o mărturie a trecutului unic al orașului Strenči.",
+        "en": "Start your day in the cultural heart of Strenči before experiencing the spiritual calm of the Lutheran Church. In the morning, honor the town's history at the Raftsman's Monument. After lunch, immerse yourself in nature, following the rush of the Gauja rapids and walking the fragrant Pine Path. End your day with a contemplative look at the historically significant Psychiatric Clinic, a testament to Strenči's unique past."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rupjmaize",
+            "tip": "Probieren Sie das traditionelle lettische dunkle Roggenbrot, ein Grundnahrungsmittel der lokalen Küche."
+          },
+          {
+            "name": "Gauja Flussfisch",
+            "tip": "Genießen Sie frisch gefangenen und geräucherten Fisch aus dem Fluss."
+          },
+          {
+            "name": "Sklandrausis",
+            "tip": "Ein süßer lettischer Kuchen aus Roggenteig, gefüllt mit Kartoffeln und Karotten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rupjmaize",
+            "tip": "Kóstolja meg a hagyományos lett sötét rozskenyeret, a helyi konyha alapját."
+          },
+          {
+            "name": "Gauja folyami hal",
+            "tip": "Élvezze a folyóból frissen fogott és füstölt halat."
+          },
+          {
+            "name": "Sklandrausis",
+            "tip": "Édes lett pite rozstésztából, burgonya- és sárgarépatöltelékkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rupjmaize",
+            "tip": "Încercați pâinea tradițională letonă de secară neagră, un aliment de bază în bucătăria locală."
+          },
+          {
+            "name": "Pește din râul Gauja",
+            "tip": "Savurați pește proaspăt prins și afumat din râu."
+          },
+          {
+            "name": "Sklandrausis",
+            "tip": "O plăcintă dulce letonă făcută din aluat de secară, umplută cu cartofi și morcovi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rupjmaize",
+            "tip": "Try the traditional Latvian dark rye bread, a staple of the local cuisine."
+          },
+          {
+            "name": "Gauja River Fish",
+            "tip": "Enjoy freshly caught and smoked fish from the river."
+          },
+          {
+            "name": "Sklandrausis",
+            "tip": "A sweet Latvian pie made from rye dough, filled with potatoes and carrots."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Gauja-Flusses",
+            "tip": "Finden Sie einen ruhigen Platz am Fluss, um die Natur zu beobachten und zu entspannen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kiefernpfad",
+            "tip": "Ein stiller Spaziergang unter den Kiefern, weit weg vom Trubel.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Sonnenuntergang an der Brücke",
+            "tip": "Beobachten Sie, wie die Sonne über dem Gauja-Fluss untergeht, ein friedlicher Anblick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gauja folyó partja",
+            "tip": "Keressen egy csendes helyet a folyóparton, hogy figyelje a természetet és pihenjen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fenyőösvény",
+            "tip": "Csendes séta a fenyők alatt, távol a nyüzsgéstől.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Naplemente a hídnál",
+            "tip": "Nézze meg a naplementét a Gauja folyó felett, egy békés látvány.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Gauja",
+            "tip": "Găsiți un loc liniștit lângă râu pentru a privi natura și a vă relaxa.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Poteca Pinilor",
+            "tip": "O plimbare tăcută sub pini, departe de agitație.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Apus de soare la pod",
+            "tip": "Priviți soarele apunând peste râul Gauja, o priveliște pașnică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gauja River Bank",
+            "tip": "Find a quiet spot by the river to watch nature and relax.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pine Path",
+            "tip": "A silent walk among the pines, far from any hustle and bustle.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Sunset at the Bridge",
+            "tip": "Watch the sun set over the Gauja river, a peaceful sight.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Produkten wie Honig, Beeren und handgefertigtem Kunsthandwerk."
+          },
+          {
+            "name": "Leinenprodukte",
+            "tip": "Lettland ist bekannt für sein hochwertiges Leinen; suchen Sie nach Handtüchern oder Kleidung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen helyi termékeket, mint a méz, bogyós gyümölcsök és kézműves termékek."
+          },
+          {
+            "name": "Vászon termékek",
+            "tip": "Lettország híres a minőségi vászonról; keressen törölközőket vagy ruhákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse locale precum miere, fructe de pădure și obiecte de artizanat."
+          },
+          {
+            "name": "Produse din in",
+            "tip": "Letonia este renumită pentru inul de înaltă calitate; căutați prosoape sau haine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for local produce like honey, berries, and handcrafted goods."
+          },
+          {
+            "name": "Linen Products",
+            "tip": "Latvia is known for its high-quality linen; look for towels or clothing."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie Mückenschutz mit, besonders in der Nähe des Flusses und im Wald.",
+          "Packen Sie Wasser und Snacks für die Wanderung im Naturpark ein.",
+          "Überprüfen Sie die Wettervorhersage; das Wetter in Lettland kann sich schnell ändern."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Hozzon magával szúnyogriasztót, különösen a folyó közelében és az erdőben.",
+          "Csomagoljon vizet és rágcsálnivalót a natúrparki túrához.",
+          "Ellenőrizze az időjárás-előrejelzést; a lettországi időjárás gyorsan változhat."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge mult pe jos.",
+          "Luați cu dumneavoastră repelent pentru țânțari, mai ales lângă râu și în pădure.",
+          "Împachetați apă și gustări pentru drumeția în parcul natural.",
+          "Verificați prognoza meteo; vremea în Letonia se poate schimba rapid."
+        ],
+        "en": [
+          "Wear comfortable shoes as this itinerary involves a lot of walking.",
+          "Bring mosquito repellent, especially near the river and in the forest.",
+          "Pack water and snacks for the nature park hike.",
+          "Check the weather forecast; Latvian weather can be unpredictable."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Flößerdenkmal",
+            "hu": "Tutajos emlékmű",
+            "ro": "Monumentul Plutașului",
+            "en": "Raftsman's Monument"
+          },
+          "coords": [
+            25.685,
+            57.6288
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein guter Ausgangspunkt, um die Geschichte der Stadt zu würdigen.",
+            "hu": "Jó kiindulópont a város történelmének megismeréséhez.",
+            "ro": "Un bun punct de plecare pentru a aprecia istoria orașului.",
+            "en": "A good starting point to appreciate the town's history."
+          }
+        },
+        {
+          "name": {
+            "de": "Gauja-Brücke",
+            "hu": "Gauja-híd",
+            "ro": "Podul Gauja",
+            "en": "Gauja Bridge"
+          },
+          "coords": [
+            25.6894,
+            57.6301
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:28",
+          "stay_min": 20,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Halten Sie für einen schnellen Fotostopp an, bevor Sie den Fluss überqueren.",
+            "hu": "Álljon meg egy gyors fotóra, mielőtt átkel a folyón.",
+            "ro": "Opriți-vă pentru o fotografie rapidă înainte de a traversa râul.",
+            "en": "Stop for a quick photo op before heading across the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Gauja-Stromschnellen",
+            "hu": "Gauja-zúgók",
+            "ro": "Cascadele Gauja",
+            "en": "Gauja Rapids"
+          },
+          "coords": [
+            25.6988,
+            57.6385
+          ],
+          "category": "natural features",
+          "arrive_at": "10:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und machen Sie einen kurzen Spaziergang entlang der Stromschnellen.",
+            "hu": "Zárja le a kerékpárt és tegyen egy rövid sétát a zúgók mentén.",
+            "ro": "Legați-vă bicicleta și faceți o scurtă plimbare de-a lungul cascadelor.",
+            "en": "Lock up your bike and take a short walk along the rapids."
+          }
+        },
+        {
+          "name": {
+            "de": "Kiefernpfad & Naturpark Strenči",
+            "hu": "Fenyőösvény és Strenči Natúrpark",
+            "ro": "Poteca Pinilor și Parcul Natural Strenči",
+            "en": "Pine Path & Strenči Nature Park"
+          },
+          "coords": [
+            25.71,
+            57.642
+          ],
+          "category": "natural features",
+          "arrive_at": "11:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Perfekt für eine ausgedehnte Radtour, mit vielen Wegen zum Erkunden. Ideal für ein Mittagspicknick.",
+            "hu": "Tökéletes egy hosszabb kerékpártúrához, sok felfedeznivaló ösvénnyel. Ideális egy ebédpiknikhez.",
+            "ro": "Perfect pentru o plimbare lungă cu bicicleta, cu multe poteci de explorat. Ideal pentru un picnic la prânz.",
+            "en": "Perfect for an extended ride, with plenty of trails to explore. Ideal for a lunch picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Lutherische Kirche Strenči",
+            "hu": "Strenči evangélikus templom",
+            "ro": "Biserica Luterană Strenči",
+            "en": "Strenči Lutheran Church"
+          },
+          "coords": [
+            25.6833,
+            57.6275
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Eine friedliche Pause nach der aktiven Radtour am Vormittag.",
+            "hu": "Békés pihenő az aktív délelőtti kerékpározás után.",
+            "ro": "O pauză liniștită după plimbarea activă cu bicicleta de dimineață.",
+            "en": "A peaceful rest stop after the active morning ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturhaus Strenči",
+            "hu": "Strenči Kultúrház",
+            "ro": "Casa de Cultură Strenči",
+            "en": "Strenči Culture House"
+          },
+          "coords": [
+            25.6815,
+            57.6262
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Sehen Sie sich die Architektur an und spüren Sie den Puls der lokalen Gemeinschaft.",
+            "hu": "Nézze meg az építészetet és érezze a helyi közösség lüktetését.",
+            "ro": "Vedeți arhitectura și simțiți pulsul comunității locale.",
+            "en": "See the architecture and feel the pulse of the local community."
+          }
+        },
+        {
+          "name": {
+            "de": "Psychiatrische Klinik Strenči (Außenansicht)",
+            "hu": "Strenči Pszichiátriai Klinika (külső nézet)",
+            "ro": "Clinica de Psihiatrie Strenči (exterior)",
+            "en": "Strenči Psychiatric Clinic (exterior view)"
+          },
+          "coords": [
+            25.678,
+            57.625
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Radfahren Sie um das Gelände, um ein Gefühl für die Weitläufigkeit und Geschichte des Ortes zu bekommen.",
+            "hu": "Kerékpározzon körbe a területen, hogy átérezze a hely tágasságát és történelmét.",
+            "ro": "Plimbați-vă cu bicicleta în jurul terenului pentru a vă face o idee despre vastitatea și istoria locului.",
+            "en": "Cycle around the grounds to get a sense of the scale and history of the place."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt mit einer Hommage an die Geschichte am Flößerdenkmal, bevor Sie über die Gauja-Brücke in die Natur fahren. Der Vormittag ist dem Rauschen der Stromschnellen und der Erkundung des weitläufigen Kiefernpfads gewidmet, perfekt für ein Picknick. Am Nachmittag kehren Sie ins Stadtzentrum zurück, um die ruhige Atmosphäre der lutherischen Kirche und das lebhafte Kulturhaus zu genießen. Beenden Sie Ihre Tour mit einer nachdenklichen Runde um das historische Gelände der Psychiatrischen Klinik.",
+        "hu": "A kerékpártúra a Tutajos emlékműnél tett történelmi tisztelgéssel kezdődik, mielőtt a Gauja-hídon át a természetbe indulna. A délelőtt a zúgók morajlásának és a tágas Fenyőösvény felfedezésének szentelt, tökéletes egy piknikhez. Délután visszatér a városközpontba, hogy élvezze az evangélikus templom békés hangulatát és a nyüzsgő kultúrházat. A túrát egy elgondolkodtató körrel zárja a Pszichiátriai Klinika történelmi területén.",
+        "ro": "Turul cu bicicleta începe cu un omagiu adus istoriei la Monumentul Plutașului, înainte de a vă îndrepta spre natură peste Podul Gauja. Dimineața este dedicată vuietului cascadelor și explorării vastei Poteci a Pinilor, perfectă pentru un picnic. După-amiaza, vă întoarceți în centrul orașului pentru a vă bucura de atmosfera pașnică a bisericii luterane și de animata Casă de Cultură. Încheiați turul cu o plimbare contemplativă în jurul terenului istoric al Clinicii de Psihiatrie.",
+        "en": "Your bike tour starts with a nod to history at the Raftsman's Monument before heading into nature across the Gauja Bridge. The morning is for the rush of the rapids and exploring the expansive Pine Path, perfect for a picnic. In the afternoon, circle back to the town center for the peaceful atmosphere of the Lutheran church and the vibrant Culture House. End your tour with a contemplative cycle around the historic grounds of the Psychiatric Clinic."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rupjmaize",
+            "tip": "Probieren Sie das traditionelle lettische dunkle Roggenbrot, ein Grundnahrungsmittel der lokalen Küche."
+          },
+          {
+            "name": "Gauja Flussfisch",
+            "tip": "Genießen Sie frisch gefangenen und geräucherten Fisch aus dem Fluss."
+          },
+          {
+            "name": "Sklandrausis",
+            "tip": "Ein süßer lettischer Kuchen aus Roggenteig, gefüllt mit Kartoffeln und Karotten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rupjmaize",
+            "tip": "Kóstolja meg a hagyományos lett sötét rozskenyeret, a helyi konyha alapját."
+          },
+          {
+            "name": "Gauja folyami hal",
+            "tip": "Élvezze a folyóból frissen fogott és füstölt halat."
+          },
+          {
+            "name": "Sklandrausis",
+            "tip": "Édes lett pite rozstésztából, burgonya- és sárgarépatöltelékkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rupjmaize",
+            "tip": "Încercați pâinea tradițională letonă de secară neagră, un aliment de bază în bucătăria locală."
+          },
+          {
+            "name": "Pește din râul Gauja",
+            "tip": "Savurați pește proaspăt prins și afumat din râu."
+          },
+          {
+            "name": "Sklandrausis",
+            "tip": "O plăcintă dulce letonă făcută din aluat de secară, umplută cu cartofi și morcovi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rupjmaize",
+            "tip": "Try the traditional Latvian dark rye bread, a staple of the local cuisine."
+          },
+          {
+            "name": "Gauja River Fish",
+            "tip": "Enjoy freshly caught and smoked fish from the river."
+          },
+          {
+            "name": "Sklandrausis",
+            "tip": "A sweet Latvian pie made from rye dough, filled with potatoes and carrots."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Gauja-Flusses",
+            "tip": "Finden Sie einen ruhigen Platz am Fluss, um die Natur zu beobachten und zu entspannen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kiefernpfad",
+            "tip": "Ein stiller Spaziergang unter den Kiefern, weit weg vom Trubel.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Sonnenuntergang an der Brücke",
+            "tip": "Beobachten Sie, wie die Sonne über dem Gauja-Fluss untergeht, ein friedlicher Anblick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gauja folyó partja",
+            "tip": "Keressen egy csendes helyet a folyóparton, hogy figyelje a természetet és pihenjen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fenyőösvény",
+            "tip": "Csendes séta a fenyők alatt, távol a nyüzsgéstől.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Naplemente a hídnál",
+            "tip": "Nézze meg a naplementét a Gauja folyó felett, egy békés látvány.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Gauja",
+            "tip": "Găsiți un loc liniștit lângă râu pentru a privi natura și a vă relaxa.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Poteca Pinilor",
+            "tip": "O plimbare tăcută sub pini, departe de agitație.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Apus de soare la pod",
+            "tip": "Priviți soarele apunând peste râul Gauja, o priveliște pașnică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gauja River Bank",
+            "tip": "Find a quiet spot by the river to watch nature and relax.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pine Path",
+            "tip": "A silent walk among the pines, far from any hustle and bustle.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Sunset at the Bridge",
+            "tip": "Watch the sun set over the Gauja river, a peaceful sight.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Produkten wie Honig, Beeren und handgefertigtem Kunsthandwerk."
+          },
+          {
+            "name": "Leinenprodukte",
+            "tip": "Lettland ist bekannt für sein hochwertiges Leinen; suchen Sie nach Handtüchern oder Kleidung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen helyi termékeket, mint a méz, bogyós gyümölcsök és kézműves termékek."
+          },
+          {
+            "name": "Vászon termékek",
+            "tip": "Lettország híres a minőségi vászonról; keressen törölközőket vagy ruhákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse locale precum miere, fructe de pădure și obiecte de artizanat."
+          },
+          {
+            "name": "Produse din in",
+            "tip": "Letonia este renumită pentru inul de înaltă calitate; căutați prosoape sau haine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for local produce like honey, berries, and handcrafted goods."
+          },
+          {
+            "name": "Linen Products",
+            "tip": "Latvia is known for its high-quality linen; look for towels or clothing."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie einen Helm und schließen Sie Ihr Fahrrad immer ab.",
+          "Die Wege im Naturpark können uneben sein, seien Sie also vorsichtig.",
+          "Nehmen Sie viel Wasser mit, besonders an einem warmen Tag.",
+          "Einige kleinere Wege sind möglicherweise nicht für alle Fahrradtypen geeignet."
+        ],
+        "hu": [
+          "Viseljen sisakot és mindig zárja le a kerékpárt.",
+          "A natúrpark ösvényei egyenetlenek lehetnek, legyen óvatos.",
+          "Hozzon magával sok vizet, különösen meleg napokon.",
+          "Néhány kisebb ösvény nem biztos, hogy minden kerékpártípushoz megfelelő."
+        ],
+        "ro": [
+          "Purtați cască și legați-vă întotdeauna bicicleta.",
+          "Potecile din parcul natural pot fi denivelate, așa că fiți prudenți.",
+          "Luați multă apă cu voi, mai ales într-o zi călduroasă.",
+          "Unele poteci mai mici s-ar putea să nu fie potrivite pentru toate tipurile de biciclete."
+        ],
+        "en": [
+          "Wear a helmet and always lock your bike.",
+          "The paths in the nature park can be uneven, so be careful.",
+          "Bring plenty of water, especially on a warm day.",
+          "Some smaller trails may not be suitable for all types of bikes."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:55",
+      "total_km": 4.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Lutherische Kirche Strenči",
+            "hu": "Strenči evangélikus templom",
+            "ro": "Biserica Luterană Strenči",
+            "en": "Strenči Lutheran Church"
+          },
+          "coords": [
+            25.6833,
+            57.6275
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und beginnen Sie Ihren Tag mit einem Moment der Ruhe.",
+            "hu": "Parkoljon a közelben, és kezdje a napot egy pillanatnyi csenddel.",
+            "ro": "Parcați în apropiere și începeți ziua cu un moment de liniște.",
+            "en": "Park nearby and start your day with a moment of peace."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturhaus Strenči",
+            "hu": "Strenči Kultúrház",
+            "ro": "Casa de Cultură Strenči",
+            "en": "Strenči Culture House"
+          },
+          "coords": [
+            25.6815,
+            57.6262
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:44",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Kirche zum kulturellen Zentrum der Stadt.",
+            "hu": "Rövid séta a templomtól a város kulturális központjáig.",
+            "ro": "O scurtă plimbare de la biserică la centrul cultural al orașului.",
+            "en": "A short walk from the church to the town's cultural hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Flößerdenkmal",
+            "hu": "Tutajos emlékmű",
+            "ro": "Monumentul Plutașului",
+            "en": "Raftsman's Monument"
+          },
+          "coords": [
+            25.685,
+            57.6288
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:20",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vervollständigen Sie Ihren Spaziergang durch das Stadtzentrum an diesem historischen Wahrzeichen.",
+            "hu": "Fejezze be a városközponti sétát ennél a történelmi emlékműnél.",
+            "ro": "Completați-vă plimbarea prin centrul orașului la acest monument istoric.",
+            "en": "Complete your walk of the town center at this historic landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Gauja-Brücke und Stromschnellen",
+            "hu": "Gauja-híd és zúgók",
+            "ro": "Podul și cascadele Gauja",
+            "en": "Gauja Bridge and Rapids"
+          },
+          "coords": [
+            25.6988,
+            57.6385
+          ],
+          "category": "natural features",
+          "arrive_at": "11:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz in der Nähe des Flusses. Erkunden Sie die Brücke und die Stromschnellen zu Fuß.",
+            "hu": "Hajtson a folyó melletti parkolóba. Fedezze fel a hidat és a zúgókat gyalog.",
+            "ro": "Conduceți până la parcarea de lângă râu. Explorați podul și cascadele pe jos.",
+            "en": "Drive to the parking area near the river. Explore the bridge and the rapids on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kiefernpfad",
+            "hu": "Fenyőösvény",
+            "ro": "Poteca Pinilor",
+            "en": "Pine Path"
+          },
+          "coords": [
+            25.694,
+            57.645
+          ],
+          "category": "natural features",
+          "arrive_at": "12:34",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Parkplatz an den Stromschnellen aus ist dieser Weg leicht zu erreichen.",
+            "hu": "Könnyen elérhető a zúgók melletti parkolóból.",
+            "ro": "Ușor accesibil din parcarea de la cascade.",
+            "en": "Easily accessible from the rapids parking area."
+          }
+        },
+        {
+          "name": {
+            "de": "Psychiatrische Klinik Strenči (Gelände)",
+            "hu": "Strenči Pszichiátriai Klinika (terület)",
+            "ro": "Clinica de Psihiatrie Strenči (teren)",
+            "en": "Strenči Psychiatric Clinic (Grounds)"
+          },
+          "coords": [
+            25.678,
+            57.625
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:13",
+          "stay_min": 72,
+          "hop_from_prev_min": 39,
+          "hop_from_prev_km": 1.9,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum letzten Halt des Tages. Parken Sie und spazieren Sie um das beeindruckende historische Gelände.",
+            "hu": "Hajtson a nap utolsó állomásához. Parkoljon le, és sétáljon egyet a lenyűgöző történelmi területen.",
+            "ro": "Conduceți la ultima oprire a zilei. Parcați și plimbați-vă în jurul impresionantului teren istoric.",
+            "en": "Drive to the final stop of the day. Park and walk around the impressive historic grounds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Auto im Herzen von Strenči. Parken Sie einmal und erkunden Sie die Kirche, das Kulturhaus und das Denkmal zu Fuß. Mittags fahren Sie zum Fluss Gauja, wo Sie die beeindruckenden Stromschnellen und den ruhigen Kiefernpfad entdecken. Nach einem erfrischenden Spaziergang in der Natur fahren Sie zum letzten Halt, dem weitläufigen Gelände der historischen Psychiatrischen Klinik, und tauchen in die einzigartige Atmosphäre des Ortes ein.",
+        "hu": "Kezdje a napot autóval Strenči szívében. Parkoljon le egyszer, és fedezze fel gyalog a templomot, a kultúrházat és az emlékművet. Délben hajtson a Gauja folyóhoz, hogy felfedezze a lenyűgöző zúgókat és a békés Fenyőösvényt. Egy frissítő erdei séta után utazzon az utolsó állomáshoz, a történelmi Pszichiátriai Klinika tágas területére, és merüljön el a hely egyedülálló hangulatában.",
+        "ro": "Începeți ziua cu mașina în inima orașului Strenči. Parcați o dată și explorați pe jos biserica, casa de cultură și monumentul. La prânz, conduceți la râul Gauja pentru a descoperi cascadele impresionante și liniștita Potecă a Pinilor. După o plimbare revigorantă în natură, călătoriți spre oprirea finală, terenul întins al istoricei Clinici de Psihiatrie, și absorbiți atmosfera unică a locului.",
+        "en": "Start your day by car in the heart of Strenči. Park once to explore the church, culture house, and monument on foot. At midday, drive to the Gauja river to discover the impressive rapids and the serene Pine Path. After a refreshing walk in nature, journey to the final stop, the expansive grounds of the historic Psychiatric Clinic, and soak in the unique atmosphere of the place."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rupjmaize",
+            "tip": "Probieren Sie das traditionelle lettische dunkle Roggenbrot, ein Grundnahrungsmittel der lokalen Küche."
+          },
+          {
+            "name": "Gauja Flussfisch",
+            "tip": "Genießen Sie frisch gefangenen und geräucherten Fisch aus dem Fluss."
+          },
+          {
+            "name": "Sklandrausis",
+            "tip": "Ein süßer lettischer Kuchen aus Roggenteig, gefüllt mit Kartoffeln und Karotten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rupjmaize",
+            "tip": "Kóstolja meg a hagyományos lett sötét rozskenyeret, a helyi konyha alapját."
+          },
+          {
+            "name": "Gauja folyami hal",
+            "tip": "Élvezze a folyóból frissen fogott és füstölt halat."
+          },
+          {
+            "name": "Sklandrausis",
+            "tip": "Édes lett pite rozstésztából, burgonya- és sárgarépatöltelékkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rupjmaize",
+            "tip": "Încercați pâinea tradițională letonă de secară neagră, un aliment de bază în bucătăria locală."
+          },
+          {
+            "name": "Pește din râul Gauja",
+            "tip": "Savurați pește proaspăt prins și afumat din râu."
+          },
+          {
+            "name": "Sklandrausis",
+            "tip": "O plăcintă dulce letonă făcută din aluat de secară, umplută cu cartofi și morcovi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rupjmaize",
+            "tip": "Try the traditional Latvian dark rye bread, a staple of the local cuisine."
+          },
+          {
+            "name": "Gauja River Fish",
+            "tip": "Enjoy freshly caught and smoked fish from the river."
+          },
+          {
+            "name": "Sklandrausis",
+            "tip": "A sweet Latvian pie made from rye dough, filled with potatoes and carrots."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Gauja-Flusses",
+            "tip": "Finden Sie einen ruhigen Platz am Fluss, um die Natur zu beobachten und zu entspannen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kiefernpfad",
+            "tip": "Ein stiller Spaziergang unter den Kiefern, weit weg vom Trubel.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Sonnenuntergang an der Brücke",
+            "tip": "Beobachten Sie, wie die Sonne über dem Gauja-Fluss untergeht, ein friedlicher Anblick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gauja folyó partja",
+            "tip": "Keressen egy csendes helyet a folyóparton, hogy figyelje a természetet és pihenjen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fenyőösvény",
+            "tip": "Csendes séta a fenyők alatt, távol a nyüzsgéstől.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Naplemente a hídnál",
+            "tip": "Nézze meg a naplementét a Gauja folyó felett, egy békés látvány.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Gauja",
+            "tip": "Găsiți un loc liniștit lângă râu pentru a privi natura și a vă relaxa.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Poteca Pinilor",
+            "tip": "O plimbare tăcută sub pini, departe de agitație.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Apus de soare la pod",
+            "tip": "Priviți soarele apunând peste râul Gauja, o priveliște pașnică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gauja River Bank",
+            "tip": "Find a quiet spot by the river to watch nature and relax.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pine Path",
+            "tip": "A silent walk among the pines, far from any hustle and bustle.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Sunset at the Bridge",
+            "tip": "Watch the sun set over the Gauja river, a peaceful sight.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Produkten wie Honig, Beeren und handgefertigtem Kunsthandwerk."
+          },
+          {
+            "name": "Leinenprodukte",
+            "tip": "Lettland ist bekannt für sein hochwertiges Leinen; suchen Sie nach Handtüchern oder Kleidung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen helyi termékeket, mint a méz, bogyós gyümölcsök és kézműves termékek."
+          },
+          {
+            "name": "Vászon termékek",
+            "tip": "Lettország híres a minőségi vászonról; keressen törölközőket vagy ruhákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse locale precum miere, fructe de pădure și obiecte de artizanat."
+          },
+          {
+            "name": "Produse din in",
+            "tip": "Letonia este renumită pentru inul de înaltă calitate; căutați prosoape sau haine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for local produce like honey, berries, and handcrafted goods."
+          },
+          {
+            "name": "Linen Products",
+            "tip": "Latvia is known for its high-quality linen; look for towels or clothing."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Auto ist nützlich, um zwischen den Hauptbereichen zu wechseln, aber die beste Erfahrung macht man zu Fuß.",
+          "Überprüfen Sie die Parkmöglichkeiten und -beschränkungen im Voraus.",
+          "Ein Auto ermöglicht es Ihnen, einen Picknickkorb für Ihr Mittagessen am Fluss mitzubringen.",
+          "Achten Sie auf Wildtiere, wenn Sie in der Nähe von Naturgebieten fahren."
+        ],
+        "hu": [
+          "Az autó hasznos a fő területek közötti váltáshoz, de a legjobb élményt gyalog szerezheti.",
+          "Előzetesen ellenőrizze a parkolási lehetőségeket és korlátozásokat.",
+          "Az autó lehetővé teszi, hogy piknikkosarat vigyen a folyóparti ebédhez.",
+          "Vigyázzon a vadon élő állatokra, amikor természetes területek közelében vezet."
+        ],
+        "ro": [
+          "Mașina este utilă pentru a comuta între zonele principale, dar cea mai bună experiență este pe jos.",
+          "Verificați dinainte opțiunile și restricțiile de parcare.",
+          "O mașină vă permite să aduceți un coș de picnic pentru prânzul la râu.",
+          "Fiți atenți la animalele sălbatice când conduceți în apropierea zonelor naturale."
+        ],
+        "en": [
+          "The car is useful for switching between the main areas, but the best experience is on foot.",
+          "Check parking options and restrictions in advance.",
+          "A car allows you to bring a picnic basket for your lunch by the river.",
+          "Be aware of wildlife when driving near natural areas."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kulturhaus Strenči (Zentrum)",
+            "hu": "Strenči Kultúrház (Központ)",
+            "ro": "Casa de Cultură Strenči (Centru)",
+            "en": "Strenči Culture House (Center)"
+          },
+          "coords": [
+            25.6815,
+            57.6262
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie an der zentralen Bushaltestelle der Stadt.",
+            "hu": "Kezdje a város központi buszmegállójánál.",
+            "ro": "Începeți de la stația centrală de autobuz a orașului.",
+            "en": "Start at the town's central bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Lutherische Kirche Strenči",
+            "hu": "Strenči evangélikus templom",
+            "ro": "Biserica Luterană Strenči",
+            "en": "Strenči Lutheran Church"
+          },
+          "coords": [
+            25.6833,
+            57.6275
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Kulturhaus.",
+            "hu": "Rövid séta a kultúrháztól.",
+            "ro": "O scurtă plimbare de la casa de cultură.",
+            "en": "A short walk from the culture house."
+          }
+        },
+        {
+          "name": {
+            "de": "Flößerdenkmal",
+            "hu": "Tutajos emlékmű",
+            "ro": "Monumentul Plutașului",
+            "en": "Raftsman's Monument"
+          },
+          "coords": [
+            25.685,
+            57.6288
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:32",
+          "stay_min": 20,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den zentralen Kern von Strenči zu Fuß.",
+            "hu": "Fedezze fel Strenči központi magját gyalog.",
+            "ro": "Explorați nucleul central al orașului Strenči pe jos.",
+            "en": "Explore the central core of Strenči on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Gauja-Brücke Haltestelle",
+            "hu": "Gauja-híd megálló",
+            "ro": "Stația Podul Gauja",
+            "en": "Gauja Bridge Stop"
+          },
+          "coords": [
+            25.6988,
+            57.6385
+          ],
+          "category": "natural features",
+          "arrive_at": "11:17",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zum Fluss. Von hier aus sind die Stromschnellen und Wege zu Fuß erreichbar.",
+            "hu": "Menjen busszal a folyóhoz. Innen a zúgók és ösvények gyalogosan elérhetők.",
+            "ro": "Luați autobuzul până la râu. De aici, cascadele și potecile sunt accesibile pe jos.",
+            "en": "Take the bus to the river. From here, the rapids and paths are walkable."
+          }
+        },
+        {
+          "name": {
+            "de": "Kiefernpfad",
+            "hu": "Fenyőösvény",
+            "ro": "Poteca Pinilor",
+            "en": "Pine Path"
+          },
+          "coords": [
+            25.694,
+            57.645
+          ],
+          "category": "natural features",
+          "arrive_at": "12:57",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie vom Flussufer zum duftenden Kiefernwald.",
+            "hu": "Sétáljon a folyópartról az illatos fenyőerdőbe.",
+            "ro": "Plimbați-vă de la malul râului la pădurea parfumată de pini.",
+            "en": "Stroll from the riverbank into the fragrant pine forest."
+          }
+        },
+        {
+          "name": {
+            "de": "Psychiatrische Klinik Strenči",
+            "hu": "Strenči Pszichiátriai Klinika",
+            "ro": "Clinica de Psihiatrie Strenči",
+            "en": "Strenči Psychiatric Clinic"
+          },
+          "coords": [
+            25.678,
+            57.625
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:41",
+          "stay_min": 94,
+          "hop_from_prev_min": 44,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zurück in die Nähe des Zentrums, um den letzten Halt des Tages zu erreichen.",
+            "hu": "Menjen busszal vissza a központ közelébe, hogy elérje a nap utolsó állomását.",
+            "ro": "Luați un autobuz înapoi spre centru pentru a ajunge la ultima oprire a zilei.",
+            "en": "Take a bus back towards the center for the last stop of the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im Zentrum von Strenči, wo Sie die kulturellen und historischen Stätten bequem zu Fuß erkunden. Am Vormittag bringt Sie ein kurzer Bus zum Gauja-Fluss, dem Tor zu den Naturwundern der Region, einschließlich der Stromschnellen und des Kiefernpfads. Verbringen Sie den Nachmittag mit Erkundungen, bevor ein weiterer Bus Sie zurückbringt, um den Tag mit einem Besuch des historisch bedeutenden Geländes der Psychiatrischen Klinik abzuschließen.",
+        "hu": "A nap Strenči központjában kezdődik, ahol gyalogosan kényelmesen felfedezheti a kulturális és történelmi helyszíneket. Délelőtt egy rövid buszút elviszi a Gauja folyóhoz, amely a régió természeti csodáinak kapuja, beleértve a zúgókat és a Fenyőösvényt. Töltse a délutánt felfedezéssel, mielőtt egy másik busz visszaviszi, hogy a napot a történelmi jelentőségű Pszichiátriai Klinika területének meglátogatásával zárja.",
+        "ro": "Ziua dvs. începe în centrul orașului Strenči, explorând convenabil pe jos siturile culturale și istorice. Dimineața, o scurtă călătorie cu autobuzul vă duce la râul Gauja, poarta de acces către minunile naturale ale zonei, inclusiv cascadele și Poteca Pinilor. Petreceți după-amiaza explorând, înainte ca un alt autobuz să vă aducă înapoi pentru a încheia ziua cu o vizită la terenul istoric al Clinicii de Psihiatrie.",
+        "en": "Your day begins in the center of Strenči, exploring the cultural and historical sites conveniently on foot. In the morning, a short bus ride takes you to the Gauja River, the gateway to the area's natural wonders, including the rapids and the Pine Path. Spend the afternoon exploring before another bus brings you back to finish the day with a visit to the historically significant grounds of the Psychiatric Clinic."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rupjmaize",
+            "tip": "Probieren Sie das traditionelle lettische dunkle Roggenbrot, ein Grundnahrungsmittel der lokalen Küche."
+          },
+          {
+            "name": "Gauja Flussfisch",
+            "tip": "Genießen Sie frisch gefangenen und geräucherten Fisch aus dem Fluss."
+          },
+          {
+            "name": "Sklandrausis",
+            "tip": "Ein süßer lettischer Kuchen aus Roggenteig, gefüllt mit Kartoffeln und Karotten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rupjmaize",
+            "tip": "Kóstolja meg a hagyományos lett sötét rozskenyeret, a helyi konyha alapját."
+          },
+          {
+            "name": "Gauja folyami hal",
+            "tip": "Élvezze a folyóból frissen fogott és füstölt halat."
+          },
+          {
+            "name": "Sklandrausis",
+            "tip": "Édes lett pite rozstésztából, burgonya- és sárgarépatöltelékkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rupjmaize",
+            "tip": "Încercați pâinea tradițională letonă de secară neagră, un aliment de bază în bucătăria locală."
+          },
+          {
+            "name": "Pește din râul Gauja",
+            "tip": "Savurați pește proaspăt prins și afumat din râu."
+          },
+          {
+            "name": "Sklandrausis",
+            "tip": "O plăcintă dulce letonă făcută din aluat de secară, umplută cu cartofi și morcovi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rupjmaize",
+            "tip": "Try the traditional Latvian dark rye bread, a staple of the local cuisine."
+          },
+          {
+            "name": "Gauja River Fish",
+            "tip": "Enjoy freshly caught and smoked fish from the river."
+          },
+          {
+            "name": "Sklandrausis",
+            "tip": "A sweet Latvian pie made from rye dough, filled with potatoes and carrots."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Gauja-Flusses",
+            "tip": "Finden Sie einen ruhigen Platz am Fluss, um die Natur zu beobachten und zu entspannen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kiefernpfad",
+            "tip": "Ein stiller Spaziergang unter den Kiefern, weit weg vom Trubel.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Sonnenuntergang an der Brücke",
+            "tip": "Beobachten Sie, wie die Sonne über dem Gauja-Fluss untergeht, ein friedlicher Anblick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gauja folyó partja",
+            "tip": "Keressen egy csendes helyet a folyóparton, hogy figyelje a természetet és pihenjen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fenyőösvény",
+            "tip": "Csendes séta a fenyők alatt, távol a nyüzsgéstől.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Naplemente a hídnál",
+            "tip": "Nézze meg a naplementét a Gauja folyó felett, egy békés látvány.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Gauja",
+            "tip": "Găsiți un loc liniștit lângă râu pentru a privi natura și a vă relaxa.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Poteca Pinilor",
+            "tip": "O plimbare tăcută sub pini, departe de agitație.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Apus de soare la pod",
+            "tip": "Priviți soarele apunând peste râul Gauja, o priveliște pașnică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gauja River Bank",
+            "tip": "Find a quiet spot by the river to watch nature and relax.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pine Path",
+            "tip": "A silent walk among the pines, far from any hustle and bustle.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Sunset at the Bridge",
+            "tip": "Watch the sun set over the Gauja river, a peaceful sight.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Produkten wie Honig, Beeren und handgefertigtem Kunsthandwerk."
+          },
+          {
+            "name": "Leinenprodukte",
+            "tip": "Lettland ist bekannt für sein hochwertiges Leinen; suchen Sie nach Handtüchern oder Kleidung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen helyi termékeket, mint a méz, bogyós gyümölcsök és kézműves termékek."
+          },
+          {
+            "name": "Vászon termékek",
+            "tip": "Lettország híres a minőségi vászonról; keressen törölközőket vagy ruhákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse locale precum miere, fructe de pădure și obiecte de artizanat."
+          },
+          {
+            "name": "Produse din in",
+            "tip": "Letonia este renumită pentru inul de înaltă calitate; căutați prosoape sau haine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for local produce like honey, berries, and handcrafted goods."
+          },
+          {
+            "name": "Linen Products",
+            "tip": "Latvia is known for its high-quality linen; look for towels or clothing."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, da der Service in einer kleinen Stadt möglicherweise selten ist.",
+          "Haben Sie Kleingeld für Bustickets bereit.",
+          "Achten Sie auf die Zeiten der letzten Busse, um nicht stecken zu bleiben.",
+          "Der Transitmodus ist gut, um die Hauptbereiche zu verbinden, aber erwarten Sie, dazwischen viel zu laufen."
+        ],
+        "hu": [
+          "Előzetesen ellenőrizze a buszmenetrendet, mivel egy kisvárosban a szolgáltatás ritka lehet.",
+          "Készítsen aprópénzt a buszjegyekhez.",
+          "Figyeljen az utolsó buszok idejére, hogy ne ragadjon ott.",
+          "A tömegközlekedés jó a fő területek összekötésére, de számítson rá, hogy sokat kell gyalogolnia közöttük."
+        ],
+        "ro": [
+          "Verificați dinainte programul autobuzelor, deoarece serviciul poate fi rar într-un oraș mic.",
+          "Aveți la îndemână mărunțiș pentru biletele de autobuz.",
+          "Fiți atenți la orele ultimelor autobuze pentru a nu rămâne blocat.",
+          "Modul de tranzit este bun pentru a conecta zonele principale, dar așteptați-vă să mergeți mult pe jos între ele."
+        ],
+        "en": [
+          "Check the bus schedule in advance, as service may be infrequent in a small town.",
+          "Have small change ready for bus tickets.",
+          "Be mindful of the last bus times to avoid getting stranded.",
+          "Transit mode is good for connecting the main areas, but expect to do plenty of walking in between."
+        ]
+      }
+    }
+  }
+}

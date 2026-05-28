@@ -1,0 +1,1388 @@
+{
+  "city_id": "bulgaria-targovishte-cities-v2",
+  "anchor": {
+    "name": "Targowischte",
+    "coords": [
+      43.25,
+      26.5667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt Varosha",
+            "hu": "Varosa óváros",
+            "ro": "Orașul vechi Varosha",
+            "en": "Old Town Varosha"
+          },
+          "coords": [
+            26.575,
+            43.255
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee in einem der kleinen Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik kis kávézójában!",
+            "ro": "Începeți ziua cu o cafea la una dintre micile cafenele din piață.",
+            "en": "Start your day with a coffee at one of the small cafes on the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus von Hadschi Angel",
+            "hu": "Hadzsi Angel háza",
+            "ro": "Casa lui Hadji Angel",
+            "en": "House of Hadji Angel"
+          },
+          "coords": [
+            26.5758,
+            43.2545
+          ],
+          "category": "museums",
+          "arrive_at": "10:14",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Holzschnitzereien und die traditionelle Architektur.",
+            "hu": "Csodálja meg a fafaragásokat és a hagyományos építészetet!",
+            "ro": "Admirați sculpturile în lemn și arhitectura tradițională.",
+            "en": "Admire the woodcarvings and traditional architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum & Schatzhaus Borowo",
+            "hu": "Történeti Múzeum és Borovói Kincs",
+            "ro": "Muzeul de Istorie și Tezaurul Borovo",
+            "en": "History Museum & Borovo Treasure"
+          },
+          "coords": [
+            26.5768,
+            43.2562
+          ],
+          "category": "museums",
+          "arrive_at": "11:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der thrakische Schatz ist der Höhepunkt – nehmen Sie sich Zeit dafür.",
+            "hu": "A trák kincs a fénypont – szánjon rá időt!",
+            "ro": "Tezaurul trac este piesa de rezistență - acordați-i timp.",
+            "en": "The Thracian treasure is the highlight – take your time for it."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the Center"
+          },
+          "coords": [
+            26.576,
+            43.257
+          ],
+          "category": "gastro",
+          "arrive_at": "12:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie ein lokales Restaurant für traditionelle bulgarische Küche.",
+            "hu": "Próbáljon ki egy helyi éttermet a hagyományos bolgár konyháért.",
+            "ro": "Încercați un restaurant local pentru bucătăria tradițională bulgară.",
+            "en": "Try a local restaurant for traditional Bulgarian cuisine."
+          }
+        },
+        {
+          "name": {
+            "de": "Nikola-Simow-Denkmal",
+            "hu": "Nikola Simov emlékmű",
+            "ro": "Monumentul Nikola Simov",
+            "en": "Nikola Simov Monument"
+          },
+          "coords": [
+            26.578,
+            43.257
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:01",
+          "stay_min": 20,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein wichtiger Ort, um der bulgarischen Geschichte zu gedenken.",
+            "hu": "Fontos hely a bolgár történelemre való emlékezéshez.",
+            "ro": "Un loc important pentru a comemora istoria bulgară.",
+            "en": "An important place to commemorate Bulgarian history."
+          }
+        },
+        {
+          "name": {
+            "de": "Drama-Theater",
+            "hu": "Színház",
+            "ro": "Teatrul Dramatic",
+            "en": "Drama Theater"
+          },
+          "coords": [
+            26.573,
+            43.258
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:31",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Überprüfen Sie den Spielplan, vielleicht gibt es eine Abendvorstellung.",
+            "hu": "Nézze meg a műsort, hátha van esti előadás.",
+            "ro": "Verificați programul, poate prindeți un spectacol de seară.",
+            "en": "Check the schedule, you might catch an evening performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark Targowischte",
+            "hu": "Targoviste városi park",
+            "ro": "Parcul orașului Târgoviște",
+            "en": "Targovishte City Park"
+          },
+          "coords": [
+            26.585,
+            43.251
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort, um den Tag entspannt ausklingen zu lassen.",
+            "hu": "Tökéletes hely a nap pihentető befejezéséhez.",
+            "ro": "Un loc perfect pentru a încheia ziua într-un mod relaxant.",
+            "en": "A perfect place to end the day in a relaxed way."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang im historischen Herzen von Targowischte, dem Varosha-Viertel. Am Vormittag erkunden Sie die traditionelle Architektur und die reiche Geschichte im Museum. Nach einem authentischen bulgarischen Mittagessen ehren Sie die lokalen Helden am Nikola-Simow-Denkmal. Der Nachmittag ist der Kultur im Dramatheater gewidmet, bevor Sie im ruhigen Stadtpark entspannen und die Eindrücke des Tages Revue passieren lassen.",
+        "hu": "Sétáját Targoviste történelmi szívében, a Varosa negyedben kezdje. Délelőtt fedezze fel a hagyományos építészetet és a gazdag történelmet a múzeumban. Egy autentikus bolgár ebéd után tisztelegjen a helyi hősök előtt a Nikola Simov emlékműnél. A délután a kultúráé a színházban, mielőtt a csendes városi parkban pihenne, és átgondolná a nap élményeit.",
+        "ro": "Începeți turul pietonal în inima istorică a Târgoviștei, cartierul Varosha. Dimineața explorați arhitectura tradițională și istoria bogată la muzeu. După un prânz bulgăresc autentic, onorați eroii locali la Monumentul Nikola Simov. După-amiaza este dedicată culturii la Teatrul Dramatic, înainte de a vă relaxa în liniștitul parc al orașului, reflectând la impresiile zilei.",
+        "en": "Start your walking tour in the historical heart of Targovishte, the Varosha quarter. In the morning, explore the traditional architecture and the rich history in the museum. After an authentic Bulgarian lunch, honor the local heroes at the Nikola Simov Monument. The afternoon is dedicated to culture at the Drama Theater before you relax in the quiet city park, reflecting on the day's impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Shopska Salat",
+            "tip": "Ein Muss in Bulgarien, frisch und köstlich."
+          },
+          {
+            "name": "Banitsa",
+            "tip": "Ein Blätterteiggebäck mit Käse, perfekt für einen Snack."
+          },
+          {
+            "name": "Mehana Targovishte",
+            "tip": "Traditionelles Restaurant mit gemütlicher Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sopszka saláta",
+            "tip": "Kötelező Bulgáriában, friss és finom."
+          },
+          {
+            "name": "Banica",
+            "tip": "Sajtos leveles tészta, tökéletes uzsonnára."
+          },
+          {
+            "name": "Mehana Targoviste",
+            "tip": "Hagyományos étterem hangulatos légkörrel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Salată Shopska",
+            "tip": "O necesitate în Bulgaria, proaspătă și delicioasă."
+          },
+          {
+            "name": "Banitsa",
+            "tip": "O plăcintă cu brânză, perfectă pentru o gustare."
+          },
+          {
+            "name": "Mehana Târgoviște",
+            "tip": "Restaurant tradițional cu o atmosferă primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shopska Salad",
+            "tip": "A must-try in Bulgaria, fresh and delicious."
+          },
+          {
+            "name": "Banitsa",
+            "tip": "A cheese-filled pastry, perfect for a snack."
+          },
+          {
+            "name": "Mehana Targovishte",
+            "tip": "Traditional restaurant with a cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtpark Targowischte",
+            "tip": "Finden Sie eine ruhige Bank am Teich.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Flusses Vrana",
+            "tip": "Ein friedlicher Spaziergang etwas außerhalb des Zentrums.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Targoviste városi park",
+            "tip": "Keressen egy csendes padot a tónál.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vrana folyó partja",
+            "tip": "Békés séta a központtól kicsit távolabb.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul orașului Târgoviște",
+            "tip": "Găsiți o bancă liniștită lângă iaz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malurile râului Vrana",
+            "tip": "O plimbare liniștită chiar în afara centrului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Targovishte City Park",
+            "tip": "Find a quiet bench by the pond.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the Vrana River",
+            "tip": "A peaceful walk just outside the center.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zentraler Markt",
+            "tip": "Kaufen Sie lokale Produkte, Honig und traditionelle Keramik."
+          },
+          {
+            "name": "Souvenirläden in Varosha",
+            "tip": "Finden Sie handgefertigte Andenken und Rosenölprodukte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi piac",
+            "tip": "Vásároljon helyi termékeket, mézet és hagyományos kerámiát."
+          },
+          {
+            "name": "Szuvenírboltok Varosában",
+            "tip": "Találjon kézzel készített ajándéktárgyakat és rózsaolaj termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Centrală",
+            "tip": "Cumpărați produse locale, miere și ceramică tradițională."
+          },
+          {
+            "name": "Magazine de suveniruri în Varosha",
+            "tip": "Găsiți suveniruri artizanale și produse cu ulei de trandafiri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Market",
+            "tip": "Buy local produce, honey, and traditional pottery."
+          },
+          {
+            "name": "Souvenir shops in Varosha",
+            "tip": "Find handmade souvenirs and rose oil products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Halten Sie Bargeld für kleine Einkäufe und Cafés bereit.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Tartson magánál készpénzt a kisebb vásárlásokhoz és kávézókhoz.",
+          "A központi látnivalók többsége könnyen elérhető gyalog."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Aveți numerar la îndemână pentru cumpărături mici și cafenele.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Keep some cash handy for small purchases and cafes.",
+          "Most central sights are within easy walking distance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Festung Missionis",
+            "hu": "Missionis erőd",
+            "ro": "Cetatea Missionis",
+            "en": "Missionis Fortress"
+          },
+          "coords": [
+            26.54,
+            43.23
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Fahrt zur Festung ist ein gutes Aufwärmen. Genießen Sie die Aussicht!",
+            "hu": "Az erődhöz vezető út jó bemelegítés. Élvezze a kilátást!",
+            "ro": "Drumul spre cetate este o bună încălzire. Bucurați-vă de priveliște!",
+            "en": "The ride to the fortress is a good warm-up. Enjoy the view!"
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt Varosha",
+            "hu": "Varosa óváros",
+            "ro": "Orașul vechi Varosha",
+            "en": "Old Town Varosha"
+          },
+          "coords": [
+            26.575,
+            43.255
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:04",
+          "stay_min": 45,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie die engen Gassen zu Fuß.",
+            "hu": "Zárja le a biciklit és fedezze fel a szűk utcákat gyalog.",
+            "ro": "Parcați bicicleta și explorați străduțele înguste pe jos.",
+            "en": "Park your bike and explore the narrow streets on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum",
+            "hu": "Történeti Múzeum",
+            "ro": "Muzeul de Istorie",
+            "en": "History Museum"
+          },
+          "coords": [
+            26.5768,
+            43.2562
+          ],
+          "category": "museums",
+          "arrive_at": "11:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein großartiger Ort, um sich über die reiche Geschichte der Region zu informieren.",
+            "hu": "Nagyszerű hely a régió gazdag történelmének megismerésére.",
+            "ro": "Un loc minunat pentru a învăța despre istoria bogată a regiunii.",
+            "en": "A great place to learn about the region's rich history."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Varosha-Viertel",
+            "hu": "Ebéd a Varosa negyedben",
+            "ro": "Prânz în cartierul Varosha",
+            "en": "Lunch in Varosha Quarter"
+          },
+          "coords": [
+            26.5755,
+            43.2555
+          ],
+          "category": "gastro",
+          "arrive_at": "13:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Viele Restaurants hier haben Fahrradständer in der Nähe.",
+            "hu": "Sok itteni étterem közelében van kerékpártároló.",
+            "ro": "Multe restaurante de aici au suporturi pentru biciclete în apropiere.",
+            "en": "Many restaurants here have bike racks nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark Targowischte",
+            "hu": "Targoviste városi park",
+            "ro": "Parcul orașului Târgoviște",
+            "en": "Targovishte City Park"
+          },
+          "coords": [
+            26.585,
+            43.251
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:41",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie auf den Wegen durch den Park und genießen Sie die Natur.",
+            "hu": "Kerékpározzon végig az ösvényeken a parkban és élvezze a természetet.",
+            "ro": "Plimbați-vă cu bicicleta pe aleile din parc și bucurați-vă de natură.",
+            "en": "Cycle along the paths in the park and enjoy nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück zum Zentrum",
+            "hu": "Vissza a központba",
+            "ro": "Înapoi în centru",
+            "en": "Return to the Center"
+          },
+          "coords": [
+            26.575,
+            43.255
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:17",
+          "stay_min": 10,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einem erfrischenden Getränk in der Altstadt.",
+            "hu": "Zárja a kerékpártúrát egy frissítő itallal az óvárosban.",
+            "ro": "Încheiați turul cu bicicleta cu o băutură răcoritoare în orașul vechi.",
+            "en": "End your bike tour with a refreshing drink in the old town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Fahrrad für eine Tour, die Geschichte und Natur verbindet. Der Morgen beginnt mit einer energiegeladenen Fahrt zur Festung Missionis, gefolgt von einer Erkundung der charmanten Altstadt Varosha. Nach einem Besuch im Historischen Museum und einem stärkenden Mittagessen führt Sie die Route am Nachmittag in den grünen Stadtpark. Schließen Sie den Tag mit einer gemütlichen Rückfahrt ins Zentrum ab und genießen Sie die Atmosphäre der Stadt.",
+        "hu": "Pattanjon biciklire egy olyan túrára, amely ötvözi a történelmet és a természetet. A reggel egy energikus tekeréssel kezdődik a Missionis erődhöz, majd a bájos Varosa óváros felfedezése következik. A Történeti Múzeum meglátogatása és egy kiadós ebéd után az útvonal délután a zöld városi parkba vezet. Zárja a napot egy kellemes visszatekeréssel a központba, és élvezze a város hangulatát.",
+        "ro": "Urcați-vă pe bicicletă pentru un tur care combină istoria și natura. Dimineața începe cu o plimbare energică spre Cetatea Missionis, urmată de explorarea fermecătorului oraș vechi Varosha. După o vizită la Muzeul de Istorie și un prânz copios, traseul vă duce după-amiaza în parcul verde al orașului. Încheiați ziua cu o plimbare relaxantă înapoi în centru și bucurați-vă de atmosfera orașului.",
+        "en": "Get on your bike for a tour that combines history and nature. The morning starts with an energetic ride to the Missionis Fortress, followed by an exploration of the charming Old Town Varosha. After a visit to the History Museum and a hearty lunch, the route takes you to the green city park in the afternoon. End the day with a leisurely ride back to the center and enjoy the city's atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gegrilltes Fleisch (Skara)",
+            "tip": "Perfekt zur Stärkung nach einer Radtour."
+          },
+          {
+            "name": "Tarator",
+            "tip": "Eine kalte Gurken-Joghurt-Suppe, sehr erfrischend im Sommer."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Belohnen Sie sich nach der Tour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett húsok (Skara)",
+            "tip": "Tökéletes feltöltődés egy biciklitúra után."
+          },
+          {
+            "name": "Tarator",
+            "tip": "Hideg uborkás-joghurtos leves, nagyon frissítő nyáron."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Jutalmazza meg magát a túra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Carne la grătar (Skara)",
+            "tip": "Perfect pentru a vă reîncărca după un tur cu bicicleta."
+          },
+          {
+            "name": "Tarator",
+            "tip": "O supă rece de castraveți și iaurt, foarte răcoritoare vara."
+          },
+          {
+            "name": "Bere locală",
+            "tip": "Recompensați-vă după tur."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled meat (Skara)",
+            "tip": "Perfect for refueling after a bike ride."
+          },
+          {
+            "name": "Tarator",
+            "tip": "A cold cucumber and yogurt soup, very refreshing in summer."
+          },
+          {
+            "name": "Local beer",
+            "tip": "Reward yourself after the tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hügel bei der Festung Missionis",
+            "tip": "Genießen Sie die weite Aussicht über die Landschaft.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Stadtpark Targowischte",
+            "tip": "Ideal für eine Pause im Schatten der Bäume.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Domb a Missionis erődnél",
+            "tip": "Élvezze a tájra nyíló széles kilátást.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Targoviste városi park",
+            "tip": "Ideális egy szünetre a fák árnyékában.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul de lângă Cetatea Missionis",
+            "tip": "Bucurați-vă de priveliștea panoramică asupra peisajului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul orașului Târgoviște",
+            "tip": "Ideal pentru o pauză la umbra copacilor.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hill near Missionis Fortress",
+            "tip": "Enjoy the wide view over the landscape.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Targovishte City Park",
+            "tip": "Ideal for a break in the shade of the trees.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Für eventuell benötigtes Zubehör oder Reparaturen."
+          },
+          {
+            "name": "Lokale Märkte",
+            "tip": "Kaufen Sie energiereiche Snacks wie Nüsse und Trockenfrüchte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Szükséges kiegészítőkért vagy javításokért."
+          },
+          {
+            "name": "Helyi piacok",
+            "tip": "Vásároljon energiadús rágcsálnivalókat, például diót és aszalt gyümölcsöt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Pentru orice accesorii sau reparații necesare."
+          },
+          {
+            "name": "Piețe locale",
+            "tip": "Cumpărați gustări energizante precum nuci și fructe uscate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shops",
+            "tip": "For any needed accessories or repairs."
+          },
+          {
+            "name": "Local markets",
+            "tip": "Buy energy-rich snacks like nuts and dried fruits."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt.",
+          "Nehmen Sie ausreichend Wasser mit, besonders für die Fahrt zur Festung.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, wenn Sie es abstellen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját.",
+          "Vigyen magával elegendő vizet, különösen az erődhöz vezető útra.",
+          "Mindig zárja le jól a kerékpárját, amikor leteszi."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca.",
+          "Luați suficientă apă, mai ales pentru drumul spre cetate.",
+          "Asigurați-vă întotdeauna bicicleta corespunzător când o parcați."
+        ],
+        "en": [
+          "Check your bike before you leave.",
+          "Take plenty of water, especially for the ride to the fortress.",
+          "Always lock your bike securely when you park it."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:17",
+      "total_km": 15.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Festung Missionis",
+            "hu": "Missionis erőd",
+            "ro": "Cetatea Missionis",
+            "en": "Missionis Fortress"
+          },
+          "coords": [
+            26.54,
+            43.23
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie morgens hin, um die Menschenmassen zu vermeiden. Es gibt einen Parkplatz.",
+            "hu": "Menjen reggel, hogy elkerülje a tömeget. Van parkoló.",
+            "ro": "Mergeți dimineața pentru a evita aglomerația. Există o parcare.",
+            "en": "Go in the morning to avoid the crowds. There is a parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Ankunft im Cluster Altstadt (Parken)",
+            "hu": "Érkezés az Óvárosba (parkolás)",
+            "ro": "Sosire în clusterul Orașul Vechi (parcare)",
+            "en": "Arrival at Old Town Cluster (Parking)"
+          },
+          "coords": [
+            26.5745,
+            43.254
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:08",
+          "stay_min": 25,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Rest des Vormittags und erkunden Sie zu Fuß.",
+            "hu": "Parkoljon le itt a délelőtt hátralévő részére és fedezze fel a környéket gyalog.",
+            "ro": "Parcați aici pentru restul dimineții și explorați pe jos.",
+            "en": "Park here for the rest of the morning and explore on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum & Schatzhaus Borowo",
+            "hu": "Történeti Múzeum és Borovói Kincs",
+            "ro": "Muzeul de Istorie și Tezaurul Borovo",
+            "en": "History Museum & Borovo Treasure"
+          },
+          "coords": [
+            26.5768,
+            43.2562
+          ],
+          "category": "museums",
+          "arrive_at": "11:37",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Parkplatz aus ist es nur ein kurzer Spaziergang.",
+            "hu": "A parkolótól csak egy rövid séta.",
+            "ro": "Este la o scurtă plimbare de parcare.",
+            "en": "It's just a short walk from the parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt Varosha",
+            "hu": "Ebéd Varosa óvárosában",
+            "ro": "Prânz în orașul vechi Varosha",
+            "en": "Lunch in Old Town Varosha"
+          },
+          "coords": [
+            26.5755,
+            43.2555
+          ],
+          "category": "gastro",
+          "arrive_at": "13:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Atmosphäre des historischen Viertels während des Essens.",
+            "hu": "Élvezze a történelmi negyed hangulatát ebéd közben.",
+            "ro": "Bucurați-vă de atmosfera cartierului istoric în timpul mesei.",
+            "en": "Enjoy the atmosphere of the historic quarter while you eat."
+          }
+        },
+        {
+          "name": {
+            "de": "Nikola-Simow-Denkmal",
+            "hu": "Nikola Simov emlékmű",
+            "ro": "Monumentul Nikola Simov",
+            "en": "Nikola Simov Monument"
+          },
+          "coords": [
+            26.578,
+            43.257
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:33",
+          "stay_min": 20,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Restaurant zum Denkmal.",
+            "hu": "Rövid séta az étteremtől az emlékműhöz.",
+            "ro": "O scurtă plimbare de la restaurant la monument.",
+            "en": "A short walk from the restaurant to the monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Stadtpark",
+            "hu": "Autózás a Városligetbe",
+            "ro": "Cu mașina la Parcul Orașului",
+            "en": "Drive to the City Park"
+          },
+          "coords": [
+            26.585,
+            43.251
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Nehmen Sie das Auto für diesen längeren Wechsel. Es gibt Parkmöglichkeiten.",
+            "hu": "Használja az autót ehhez a hosszabb váltáshoz. Vannak parkolási lehetőségek.",
+            "ro": "Luați mașina pentru această schimbare mai lungă. Există locuri de parcare.",
+            "en": "Take the car for this longer transfer. Parking is available."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang im Park",
+            "hu": "Séta a parkban",
+            "ro": "Plimbare în parc",
+            "en": "Walk in the Park"
+          },
+          "coords": [
+            26.586,
+            43.25
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:43",
+          "stay_min": 2,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie sich nach einem langen Tag bei einem gemütlichen Spaziergang.",
+            "hu": "Pihenjen egy kellemes sétával egy hosszú nap után.",
+            "ro": "Relaxați-vă cu o plimbare plăcută după o zi lungă.",
+            "en": "Relax with a pleasant stroll after a long day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die Flexibilität des Autos, um Targowischtes Highlights zu entdecken. Beginnen Sie den Tag außerhalb der Stadt bei der beeindruckenden Festung Missionis. Fahren Sie dann ins Zentrum, parken Sie Ihr Auto und erkunden Sie den historischen Kern – das Varosha-Viertel und seine Museen – zu Fuß. Nach dem Mittagessen fahren Sie in den Stadtpark, um den Nachmittag in der Natur zu verbringen und den Tag entspannt ausklingen zu lassen.",
+        "hu": "Használja ki az autó rugalmasságát Targoviste nevezetességeinek felfedezéséhez. Kezdje a napot a városon kívül, a lenyűgöző Missionis erődnél. Ezután hajtson be a központba, parkolja le az autót, és fedezze fel gyalog a történelmi magot – a Varosa negyedet és múzeumait. Ebéd után autózzon el a városi parkba, hogy a délutánt a természetben töltse, és pihentetően zárja a napot.",
+        "ro": "Profitați de flexibilitatea mașinii pentru a descoperi atracțiile din Târgoviște. Începeți ziua în afara orașului, la impresionanta Cetate Missionis. Apoi, conduceți spre centru, parcați mașina și explorați nucleul istoric - cartierul Varosha și muzeele sale - pe jos. După prânz, mergeți cu mașina la Parcul Orașului pentru a petrece după-amiaza în natură și a încheia ziua într-un mod relaxant.",
+        "en": "Use the flexibility of the car to discover Targovishte's highlights. Start the day outside the city at the impressive Missionis Fortress. Then drive to the center, park your car, and explore the historical core - the Varosha quarter and its museums - on foot. After lunch, drive to the City Park to spend the afternoon in nature and end the day in a relaxed way."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kavarma",
+            "tip": "Ein langsam gegarter Eintopf, ideal für ein herzhaftes Mittagessen."
+          },
+          {
+            "name": "Restaurants mit Parkplätzen",
+            "tip": "Suchen Sie nach Orten etwas außerhalb des Fußgängerbereichs."
+          },
+          {
+            "name": "Cafés im Stadtpark",
+            "tip": "Für einen Kaffee und Kuchen am Nachmittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kavarma",
+            "tip": "Lassan főzött egytálétel, ideális egy kiadós ebédhez."
+          },
+          {
+            "name": "Étterem parkolóval",
+            "tip": "Keressen helyeket a sétálóövezeten kívül."
+          },
+          {
+            "name": "Kávézók a városi parkban",
+            "tip": "Egy délutáni kávéra és süteményre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kavarma",
+            "tip": "O tocană gătită lent, ideală pentru un prânz copios."
+          },
+          {
+            "name": "Restaurante cu parcare",
+            "tip": "Căutați locuri chiar în afara zonei pietonale."
+          },
+          {
+            "name": "Cafenele în Parcul Orașului",
+            "tip": "Pentru o cafea și o prăjitură după-amiaza."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kavarma",
+            "tip": "A slow-cooked stew, ideal for a hearty lunch."
+          },
+          {
+            "name": "Restaurants with parking",
+            "tip": "Look for places just outside the pedestrian area."
+          },
+          {
+            "name": "Cafes in the City Park",
+            "tip": "For an afternoon coffee and cake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Festung Missionis am frühen Morgen",
+            "tip": "Erleben Sie die Stille und die weite Aussicht.",
+            "emoji": "🌄"
+          },
+          {
+            "name": "Abgelegene Wege im Stadtpark",
+            "tip": "Entfliehen Sie dem Trubel der Stadt.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Missionis erőd kora reggel",
+            "tip": "Tapasztalja meg a csendet és a széles kilátást.",
+            "emoji": "🌄"
+          },
+          {
+            "name": "Elhagyatott ösvények a városi parkban",
+            "tip": "Meneküljön el a város nyüzsgésétől.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cetatea Missionis dimineața devreme",
+            "tip": "Experimentați liniștea și priveliștea panoramică.",
+            "emoji": "🌄"
+          },
+          {
+            "name": "Cărări izolate în Parcul Orașului",
+            "tip": "Evadați din agitația orașului.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Missionis Fortress in the early morning",
+            "tip": "Experience the silence and the wide view.",
+            "emoji": "🌄"
+          },
+          {
+            "name": "Secluded paths in the City Park",
+            "tip": "Escape the hustle and bustle of the city.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Größere Supermärkte am Stadtrand",
+            "tip": "Ideal, um sich mit Reiseproviant einzudecken."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Oft mit dem Auto leichter zu erreichen als in der reinen Fußgängerzone."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nagyobb szupermarketek a város szélén",
+            "tip": "Ideális úti elemózsia beszerzésére."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Gyakran könnyebben elérhetők autóval, mint a sétálóövezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarketuri mai mari la periferie",
+            "tip": "Ideal pentru a vă aproviziona cu provizii de călătorie."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Adesea mai ușor de ajuns cu mașina decât în zona exclusiv pietonală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Larger supermarkets on the outskirts",
+            "tip": "Ideal for stocking up on travel supplies."
+          },
+          {
+            "name": "Craft shops",
+            "tip": "Often easier to reach by car than in the purely pedestrian zone."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie eine Navigations-App, um Parkplätze in der Nähe der Cluster zu finden.",
+          "Achten Sie auf Parkbeschränkungen im Stadtzentrum.",
+          "Das Auto gibt Ihnen die Freiheit, auch Orte etwas außerhalb zu erkunden."
+        ],
+        "hu": [
+          "Használjon navigációs alkalmazást a klaszterek közelében lévő parkolók megtalálásához.",
+          "Figyeljen a parkolási korlátozásokra a városközpontban.",
+          "Az autó szabadságot ad, hogy a kissé távolabbi helyeket is felfedezze."
+        ],
+        "ro": [
+          "Utilizați o aplicație de navigare pentru a găsi parcări în apropierea clusterelor.",
+          "Fiți atenți la restricțiile de parcare din centrul orașului.",
+          "Mașina vă oferă libertatea de a explora și locuri puțin mai îndepărtate."
+        ],
+        "en": [
+          "Use a navigation app to find parking near the clusters.",
+          "Pay attention to parking restrictions in the city center.",
+          "The car gives you the freedom to also explore places a bit further out."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:31",
+      "total_km": 7.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft im Zentrum (Haltestelle)",
+            "hu": "Érkezés a központba (buszmegálló)",
+            "ro": "Sosire în centru (stație de autobuz)",
+            "en": "Arrival in the Center (Bus Stop)"
+          },
+          "coords": [
+            26.574,
+            43.2575
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier Ihren Tag, die meisten Buslinien halten in der Nähe.",
+            "hu": "Kezdje itt a napját, a legtöbb buszjárat a közelben áll meg.",
+            "ro": "Începeți ziua de aici, majoritatea liniilor de autobuz opresc în apropiere.",
+            "en": "Start your day here, most bus lines stop nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt Varosha",
+            "hu": "Varosa óváros",
+            "ro": "Orașul vechi Varosha",
+            "en": "Old Town Varosha"
+          },
+          "coords": [
+            26.575,
+            43.255
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:24",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Bushaltestelle zum historischen Viertel.",
+            "hu": "Rövid séta a buszmegállótól a történelmi negyedig.",
+            "ro": "O scurtă plimbare de la stația de autobuz la cartierul istoric.",
+            "en": "A short walk from the bus stop to the historic quarter."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum & Schatzhaus Borowo",
+            "hu": "Történeti Múzeum és Borovói Kincs",
+            "ro": "Muzeul de Istorie și Tezaurul Borovo",
+            "en": "History Museum & Borovo Treasure"
+          },
+          "coords": [
+            26.5768,
+            43.2562
+          ],
+          "category": "museums",
+          "arrive_at": "10:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die Vergangenheit der Region.",
+            "hu": "Merüljön el a régió múltjában.",
+            "ro": "Cufundați-vă în trecutul regiunii.",
+            "en": "Immerse yourself in the region's past."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            26.576,
+            43.257
+          ],
+          "category": "gastro",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Stärken Sie sich, bevor Sie mit dem Bus zum nächsten Ziel fahren.",
+            "hu": "Erősítse meg magát, mielőtt busszal a következő célponthoz utazik.",
+            "ro": "Luați o masă copioasă înainte de a lua autobuzul spre următoarea destinație.",
+            "en": "Refuel before taking the bus to the next destination."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Stadtpark",
+            "hu": "Buszozás a Városligetbe",
+            "ro": "Cu autobuzul la Parcul Orașului",
+            "en": "Bus ride to the City Park"
+          },
+          "coords": [
+            26.585,
+            43.251
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:43",
+          "stay_min": 120,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in Richtung Osten der Stadt.",
+            "hu": "Menjen egy busszal a város keleti része felé.",
+            "ro": "Luați un autobuz spre partea de est a orașului.",
+            "en": "Take a bus towards the eastern part of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück zum Zentrum",
+            "hu": "Vissza a központba",
+            "ro": "Înapoi în centru",
+            "en": "Back to the Center"
+          },
+          "coords": [
+            26.574,
+            43.2575
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:21",
+          "stay_min": 30,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 2.7,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag, wo Sie ihn begonnen haben, bereit für den Abend.",
+            "hu": "Fejezze be a napot ott, ahol elkezdte, készen az estére.",
+            "ro": "Încheiați ziua acolo unde ați început-o, pregătiți pentru seară.",
+            "en": "End the day where you started it, ready for the evening."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Targowischte bequem mit öffentlichen Verkehrsmitteln. Starten Sie im Zentrum und spazieren Sie durch das historische Varosha-Viertel und das Museum. Nach dem Mittagessen bringt Sie ein Bus bequem in den weitläufigen Stadtpark im Osten der Stadt. Verbringen Sie den Nachmittag im Grünen, bevor Sie mit dem Bus ins Zentrum zurückkehren, um den Tag ausklingen zu lassen.",
+        "hu": "Fedezze fel Targovistét kényelmesen a tömegközlekedéssel. Induljon a központból, és sétáljon végig a történelmi Varosa negyeden és a múzeumon. Ebéd után egy busz kényelmesen elviszi a város keleti részén található tágas városi parkba. Töltse a délutánt a zöldben, mielőtt visszatérne a központba busszal, hogy lezárja a napot.",
+        "ro": "Explorați Târgoviște convenabil cu transportul public. Porniți din centru și plimbați-vă prin cartierul istoric Varosha și muzeu. După prânz, un autobuz vă va duce confortabil în parcul spațios al orașului, în partea de est a acestuia. Petreceți după-amiaza în natură înainte de a vă întoarce în centru cu autobuzul pentru a încheia ziua.",
+        "en": "Explore Targovishte conveniently by public transport. Start in the center and stroll through the historic Varosha quarter and the museum. After lunch, a bus will take you comfortably to the spacious city park in the east of the city. Spend the afternoon in the green before returning to the center by bus to end the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Imbissstände in der Nähe von Bushaltestellen",
+            "tip": "Für einen schnellen und günstigen Snack."
+          },
+          {
+            "name": "Gibanitsa",
+            "tip": "Eine andere leckere Variante des Käsegebäcks."
+          },
+          {
+            "name": "Ayran",
+            "tip": "Ein erfrischendes Joghurtgetränk, das gut zum Essen passt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Büfék a buszmegállók közelében",
+            "tip": "Gyors és olcsó harapnivalóért."
+          },
+          {
+            "name": "Gibanica",
+            "tip": "A sajtos péksütemény egy másik finom változata."
+          },
+          {
+            "name": "Ayran",
+            "tip": "Frissítő joghurtital, amely jól illik az ételekhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri de mâncare lângă stațiile de autobuz",
+            "tip": "Pentru o gustare rapidă și ieftină."
+          },
+          {
+            "name": "Gibanitsa",
+            "tip": "O altă variantă delicioasă de patiserie cu brânză."
+          },
+          {
+            "name": "Ayran",
+            "tip": "O băutură răcoritoare de iaurt care se potrivește bine cu mâncarea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Food stalls near bus stops",
+            "tip": "For a quick and cheap snack."
+          },
+          {
+            "name": "Gibanitsa",
+            "tip": "Another delicious version of the cheese pastry."
+          },
+          {
+            "name": "Ayran",
+            "tip": "A refreshing yogurt drink that goes well with food."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obere Etage eines Doppeldeckerbusses",
+            "tip": "Beobachten Sie die Stadt aus einer anderen Perspektive.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Eine Bank im Stadtpark, weit weg vom Eingang",
+            "tip": "Finden Sie Ruhe und Frieden.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Emeletes busz felső szintje",
+            "tip": "Nézze a várost más szemszögből.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Egy pad a városi parkban, távol a bejárattól",
+            "tip": "Találjon csendet és békét.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etajul superior al unui autobuz supraetajat",
+            "tip": "Observați orașul dintr-o altă perspectivă.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "O bancă în parcul orașului, departe de intrare",
+            "tip": "Găsiți liniște și pace.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Upper deck of a double-decker bus",
+            "tip": "Watch the city from a different perspective.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "A bench in the city park, far from the entrance",
+            "tip": "Find peace and quiet.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske an Bushaltestellen",
+            "tip": "Für Fahrkarten, Zeitungen und Getränke."
+          },
+          {
+            "name": "Geschäfte entlang der Hauptstraßen",
+            "tip": "Leicht erreichbar zwischen den Busfahrten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok a buszmegállókban",
+            "tip": "Jegyekért, újságokért és italokért."
+          },
+          {
+            "name": "Üzletek a főutcák mentén",
+            "tip": "Könnyen elérhető a buszutak között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri la stațiile de autobuz",
+            "tip": "Pentru bilete, ziare și băuturi."
+          },
+          {
+            "name": "Magazine de-a lungul străzilor principale",
+            "tip": "Ușor accesibile între călătoriile cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks at bus stops",
+            "tip": "For tickets, newspapers, and drinks."
+          },
+          {
+            "name": "Shops along the main streets",
+            "tip": "Easily accessible between bus rides."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Informieren Sie sich über die Buslinien und Fahrpläne im Voraus.",
+          "Halten Sie Kleingeld für Fahrkarten bereit, wenn Sie sie im Bus kaufen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Tájékozódjon előre a buszjáratokról és a menetrendekről.",
+          "Tartson magánál aprópénzt a jegyvásárláshoz, ha a buszon veszi meg."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru călătorii nelimitate.",
+          "Informați-vă în avans despre liniile de autobuz și orare.",
+          "Aveți la îndemână mărunțiș pentru bilete dacă le cumpărați din autobuz."
+        ],
+        "en": [
+          "Buy a day pass for unlimited travel.",
+          "Check the bus routes and schedules in advance.",
+          "Keep small change ready for tickets if you buy them on the bus."
+        ]
+      }
+    }
+  }
+}

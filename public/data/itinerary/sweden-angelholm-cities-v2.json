@@ -1,0 +1,1364 @@
+{
+  "city_id": "sweden-angelholm-cities-v2",
+  "anchor": {
+    "name": "Ängelholm",
+    "coords": [
+      12.8622,
+      56.2428
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 3.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Tingstorget",
+            "hu": "Tingstorget tér",
+            "ro": "Piața Tingstorget",
+            "en": "Tingstorget Square"
+          },
+          "coords": [
+            12.8625,
+            56.2425
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schnappen Sie sich einen Kaffee und beobachten Sie das morgendliche Treiben.",
+            "hu": "Igyon meg egy kávét, és figyelje a reggeli nyüzsgést.",
+            "ro": "Luați o cafea și priviți agitația de dimineață.",
+            "en": "Grab a coffee and watch the morning bustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Storgatan",
+            "hu": "Storgatan utca",
+            "ro": "Strada Storgatan",
+            "en": "Storgatan Street"
+          },
+          "coords": [
+            12.8644,
+            56.2433
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:39",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Perfekt für einen Schaufensterbummel und um kleine, lokale Geschäfte zu entdecken.",
+            "hu": "Tökéletes kirakatnézegetéshez és a kis helyi boltok felfedezéséhez.",
+            "ro": "Perfect pentru a privi vitrinele și a descoperi mici magazine locale.",
+            "en": "Perfect for window shopping and discovering small local shops."
+          }
+        },
+        {
+          "name": {
+            "de": "Rönne å",
+            "hu": "Rönne folyó",
+            "ro": "Râul Rönne å",
+            "en": "Rönne River"
+          },
+          "coords": [
+            12.858,
+            56.244
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "10:41",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause auf einer der Bänke und genießen Sie die friedliche Atmosphäre.",
+            "hu": "Pihenjen meg az egyik padon, és élvezze a békés hangulatot.",
+            "ro": "Faceți o pauză pe una dintre bănci și bucurați-vă de atmosfera pașnică.",
+            "en": "Take a break on one of the benches and enjoy the peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Järnvägens Museum",
+            "hu": "Vasúti Múzeum",
+            "ro": "Muzeul Căilor Ferate",
+            "en": "Railway Museum"
+          },
+          "coords": [
+            12.8665,
+            56.2455
+          ],
+          "category": "museums",
+          "arrive_at": "11:42",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ideal für Familien! Viele interaktive Ausstellungen für Kinder.",
+            "hu": "Családoknak ideális! Sok interaktív kiállítás gyerekeknek.",
+            "ro": "Ideal pentru familii! Multe expoziții interactive pentru copii.",
+            "en": "Great for families! Lots of interactive exhibits for children."
+          }
+        },
+        {
+          "name": {
+            "de": "Hembygdsparken",
+            "hu": "Hembygdsparken",
+            "ro": "Parcul Hembygdsparken",
+            "en": "Hembygdsparken Park"
+          },
+          "coords": [
+            12.861,
+            56.238
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:52",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bringen Sie ein Picknick mit oder besuchen Sie das Park-Café für eine Fika.",
+            "hu": "Hozzon magával piknikkosarat, vagy látogasson el a park kávézójába egy fikára.",
+            "ro": "Aduceți un picnic sau vizitați cafeneaua din parc pentru o fika.",
+            "en": "Bring a picnic or visit the park's café for a fika."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Ängelholm am Tingstorget und schlendern Sie durch die charmante Storgatan. Mittags genießen Sie die Ruhe am malerischen Fluss Rönne å, bevor Sie in die Welt der Eisenbahnen im Järnvägens Museum eintauchen. Den Nachmittag verbringen Sie entspannt im weitläufigen Hembygdsparken, wo Tiere, Spielplätze und historische Gebäude auf Sie warten. Ein perfekter Abschluss für einen gemütlichen Spaziergang durch die Stadt.",
+        "hu": "Kezdje a napot Ängelholm szívében, a Tingstorget téren, majd sétáljon végig a hangulatos Storgatan utcán. Délben élvezze a festői Rönne folyó nyugalmát, mielőtt elmerülne a vasutak világában a Järnvägens Múzeumban. A délutánt töltse pihenéssel a tágas Hembygdsparkenben, ahol állatok, játszóterek és történelmi épületek várják. Tökéletes lezárása egy kellemes városi sétának.",
+        "ro": "Începeți ziua în inima orașului Ängelholm, în Piața Tingstorget, și plimbați-vă pe fermecătoarea stradă Storgatan. La prânz, bucurați-vă de liniștea de pe malul pitorescului râu Rönne å, înainte de a vă cufunda în lumea căilor ferate la Muzeul Järnvägens. Petreceți după-amiaza relaxându-vă în vastul parc Hembygdsparken, unde vă așteaptă animale, locuri de joacă și clădiri istorice. O încheiere perfectă pentru o plimbare agale prin oraș.",
+        "en": "Start your day in the heart of Ängelholm at Tingstorget square, then stroll along the charming Storgatan. At midday, enjoy the tranquility of the picturesque Rönne å river before diving into the world of railways at the Järnvägens Museum. Spend the afternoon relaxing in the spacious Hembygdsparken, where animals, playgrounds, and historic buildings await. A perfect end to a leisurely walk through the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rökeriet i Åhus",
+            "tip": "Probieren Sie den geräucherten Lachs, eine lokale Spezialität."
+          },
+          {
+            "name": "Klitterhus",
+            "tip": "Genießen Sie ein Abendessen mit Meerblick."
+          },
+          {
+            "name": "Ängelholms Köttbullar",
+            "tip": "Suchen Sie nach einem lokalen Restaurant, das authentische schwedische Frikadellen serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rökeriet i Åhus",
+            "tip": "Kóstolja meg a füstölt lazacot, egy helyi specialitást."
+          },
+          {
+            "name": "Klitterhus",
+            "tip": "Élvezze a vacsorát tengerre néző kilátással."
+          },
+          {
+            "name": "Ängelholmi húsgolyók",
+            "tip": "Keressen egy helyi éttermet, ahol autentikus svéd húsgolyókat szolgálnak fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rökeriet i Åhus",
+            "tip": "Încercați somonul afumat, o specialitate locală."
+          },
+          {
+            "name": "Klitterhus",
+            "tip": "Savurați o cină cu vedere la mare."
+          },
+          {
+            "name": "Chiftele suedeze din Ängelholm",
+            "tip": "Căutați un restaurant local care servește chiftele suedeze autentice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rökeriet i Åhus",
+            "tip": "Try the smoked salmon, a local specialty."
+          },
+          {
+            "name": "Klitterhus",
+            "tip": "Enjoy dinner with a sea view."
+          },
+          {
+            "name": "Ängelholm's Meatballs",
+            "tip": "Look for a local restaurant serving authentic Swedish meatballs."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Flussufer des Rönne å",
+            "tip": "Ein friedlicher Ort, um die Natur mitten in der Stadt zu genießen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Strandskogen",
+            "tip": "Ein Spaziergang durch den Wald zum Meer ist sehr beruhigend.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hembygdsparken am späten Nachmittag",
+            "tip": "Wenn die meisten Familien gegangen sind, wird der Park zu einer Oase der Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rönne folyó partja",
+            "tip": "Békés hely a természet élvezetére a város közepén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Strandskogen",
+            "tip": "Egy séta az erdőn keresztül a tengerhez nagyon megnyugtató.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hembygdsparken késő délután",
+            "tip": "Amikor a legtöbb család már hazament, a park a béke oázisává válik.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Rönne",
+            "tip": "Un loc pașnic pentru a te bucura de natură în mijlocul orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pădurea Strandskogen",
+            "tip": "O plimbare prin pădure până la mare este foarte liniștitoare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Hembygdsparken după-amiaza târziu",
+            "tip": "Când majoritatea familiilor au plecat, parcul devine o oază de liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rönne Riverbank",
+            "tip": "A peaceful spot to enjoy nature in the middle of the city.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Strandskogen Forest",
+            "tip": "A walk through the forest to the sea is very calming.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hembygdsparken in the late afternoon",
+            "tip": "When most families have left, the park becomes an oasis of calm.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Storgatan",
+            "tip": "Die Hauptstraße mit einer Mischung aus schwedischen Ketten und unabhängigen Boutiquen."
+          },
+          {
+            "name": "Lokale Hofläden (Gårdsbutiker)",
+            "tip": "Halten Sie Ausschau nach Schildern für Hofläden außerhalb der Stadt, um lokale Produkte zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Storgatan",
+            "tip": "A főutca svéd láncok és független butikok keverékével."
+          },
+          {
+            "name": "Helyi termelői boltok (Gårdsbutiker)",
+            "tip": "Keresse a város szélén a termelői boltok tábláit, ahol helyi termékeket vásárolhat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Storgatan",
+            "tip": "Strada principală cu un amestec de lanțuri suedeze și buticuri independente."
+          },
+          {
+            "name": "Magazinele fermelor locale (Gårdsbutiker)",
+            "tip": "Fiți atenți la indicatoarele pentru magazinele fermelor din afara orașului pentru a cumpăra produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Storgatan",
+            "tip": "The main street with a mix of Swedish chains and independent boutiques."
+          },
+          {
+            "name": "Local Farm Shops (Gårdsbutiker)",
+            "tip": "Look for signs for farm shops outside the city to buy local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag auf den Beinen sein werden.",
+          "Die meisten Cafés bieten 'Fika'-Angebote an, eine Kaffeepause mit Gebäck.",
+          "Überprüfen Sie die Öffnungszeiten des Museums im Voraus.",
+          "Ängelholm ist sehr fußgängerfreundlich, also genießen Sie es, sich zu verirren."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap talpon lesz.",
+          "A legtöbb kávézó kínál 'Fika' ajánlatokat, ami egy kávészünet süteménnyel.",
+          "Előre ellenőrizze a múzeum nyitvatartási idejét.",
+          "Ängelholm nagyon gyalogosbarát, így élvezze a céltalan bolyongást."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți fi pe picioare toată ziua.",
+          "Majoritatea cafenelelor oferă oferte 'Fika', o pauză de cafea cu produse de patiserie.",
+          "Verificați din timp programul de funcționare al muzeului.",
+          "Ängelholm este foarte prietenos cu pietonii, așa că bucurați-vă de a vă rătăci."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be on your feet all day.",
+          "Most cafes offer 'Fika' deals, a coffee break with pastry.",
+          "Check the museum's opening hours in advance.",
+          "Ängelholm is very pedestrian-friendly, so enjoy getting lost."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:29",
+      "total_km": 11.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Tingstorget",
+            "hu": "Tingstorget tér",
+            "ro": "Piața Tingstorget",
+            "en": "Tingstorget Square"
+          },
+          "coords": [
+            12.8625,
+            56.2425
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und genießen Sie die Atmosphäre des Hauptplatzes.",
+            "hu": "Tegye le a biciklit, és élvezze a főtér hangulatát.",
+            "ro": "Parcați bicicleta și bucurați-vă de atmosfera pieței principale.",
+            "en": "Park your bike and soak in the atmosphere of the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Järnvägens Museum",
+            "hu": "Vasúti Múzeum",
+            "ro": "Muzeul Căilor Ferate",
+            "en": "Railway Museum"
+          },
+          "coords": [
+            12.8665,
+            56.2455
+          ],
+          "category": "museums",
+          "arrive_at": "09:36",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Es gibt Fahrradständer direkt vor dem Eingang.",
+            "hu": "Közvetlenül a bejárat előtt vannak kerékpártárolók.",
+            "ro": "Există suporturi pentru biciclete chiar în fața intrării.",
+            "en": "There are bike racks right outside the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Rönne å Radweg",
+            "hu": "Rönne folyó menti kerékpárút",
+            "ro": "Pista de biciclete Rönne å",
+            "en": "Rönne River Bike Path"
+          },
+          "coords": [
+            12.855,
+            56.246
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "11:15",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Folgen Sie dem Fluss in Richtung Küste, eine schöne und flache Fahrt.",
+            "hu": "Kövesse a folyót a part felé, egy gyönyörű és sík út.",
+            "ro": "Urmați râul spre coastă, o plimbare frumoasă și plată.",
+            "en": "Follow the river towards the coast, it's a beautiful and flat ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Strandskogen",
+            "hu": "Strandskogen (Tengerparti erdő)",
+            "ro": "Pădurea Strandskogen",
+            "en": "Strandskogen (Beach Forest)"
+          },
+          "coords": [
+            12.815,
+            56.249
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:10",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für ein Picknick nach Ihrer Radtour.",
+            "hu": "Nagyszerű hely egy piknikhez a kerékpártúra után.",
+            "ro": "Un loc minunat pentru un picnic după plimbarea cu bicicleta.",
+            "en": "A great spot for a picnic after your bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Klitterhus",
+            "hu": "Klitterhus",
+            "ro": "Klitterhus",
+            "en": "Klitterhus"
+          },
+          "coords": [
+            12.81,
+            56.249
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:58",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Belohnen Sie sich mit einem Kaffee oder einem späten Mittagessen mit Blick auf das Meer.",
+            "hu": "Jutalmazza meg magát egy kávéval vagy egy késői ebéddel, kilátással a tengerre.",
+            "ro": "Recompensați-vă cu o cafea sau un prânz târziu cu vedere la mare.",
+            "en": "Reward yourself with a coffee or a late lunch overlooking the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und starten Sie am Tingstorget. Nach einem kurzen Stopp im Eisenbahnmuseum folgen Sie dem idyllischen Radweg entlang des Rönne å. Die Route führt Sie direkt zum Strandskogen, einem wunderschönen Küstenwald, der perfekt für eine Mittagspause ist. Zum Abschluss Ihrer Tour erreichen Sie das historische Klitterhus, wo Sie sich bei einem fantastischen Meerblick entspannen können.",
+        "hu": "Pattanjon biciklire, és induljon a Tingstorget térről. A Vasúti Múzeumban tett rövid megálló után kövesse az idilli kerékpárutat a Rönne folyó mentén. Az útvonal egyenesen a Strandskogenhez, egy gyönyörű tengerparti erdőhöz vezet, amely tökéletes egy ebédszünethez. A túra végén érje el a történelmi Klitterhust, ahol egy fantasztikus tengeri kilátás mellett pihenhet.",
+        "ro": "Urcați-vă pe bicicletă și porniți din Piața Tingstorget. După o scurtă oprire la Muzeul Căilor Ferate, urmați idilica pistă de biciclete de-a lungul râului Rönne å. Traseul vă duce direct la Strandskogen, o frumoasă pădure de coastă perfectă pentru o pauză de prânz. La finalul turului, ajungeți la istoricul Klitterhus, unde vă puteți relaxa cu o priveliște fantastică la mare.",
+        "en": "Hop on your bike and start at Tingstorget square. After a quick stop at the Railway Museum, follow the idyllic bike path along the Rönne å river. The route takes you directly to Strandskogen, a beautiful coastal forest perfect for a lunch break. At the end of your tour, you'll reach the historic Klitterhus, where you can relax with a fantastic sea view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Klitterhus Havsbadshotell",
+            "tip": "Das Restaurant ist bekannt für seine Fisch- und Meeresfrüchtegerichte."
+          },
+          {
+            "name": "Hembygdsparkens Waffelstuga",
+            "tip": "Perfekt für eine süße Leckerei nach einer langen Radtour."
+          },
+          {
+            "name": "Lokale Pizzeria",
+            "tip": "Eine schnelle und einfache Mahlzeit, um sich für die nächste Etappe zu stärken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Klitterhus Havsbadshotell",
+            "tip": "Az étterem hal- és tenger gyümölcsei ételeiről ismert."
+          },
+          {
+            "name": "Hembygdsparkens Waffelstuga",
+            "tip": "Tökéletes édes csemege egy hosszú kerékpártúra után."
+          },
+          {
+            "name": "Helyi pizzéria",
+            "tip": "Gyors és egyszerű étkezés, hogy feltöltődjön a következő szakaszra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Klitterhus Havsbadshotell",
+            "tip": "Restaurantul este renumit pentru preparatele sale din pește și fructe de mare."
+          },
+          {
+            "name": "Hembygdsparkens Waffelstuga",
+            "tip": "Perfect pentru un răsfăț dulce după o plimbare lungă cu bicicleta."
+          },
+          {
+            "name": "Pizzerie locală",
+            "tip": "O masă rapidă și ușoară pentru a vă alimenta pentru următoarea etapă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Klitterhus Havsbadshotell",
+            "tip": "The restaurant is known for its fish and seafood dishes."
+          },
+          {
+            "name": "Hembygdsparkens Waffelstuga",
+            "tip": "Perfect for a sweet treat after a long bike ride."
+          },
+          {
+            "name": "Local Pizzeria",
+            "tip": "A quick and easy meal to fuel up for the next leg."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenuntergang am Strand von Ängelholm",
+            "tip": "Fahren Sie am Abend zum Strand, um die spektakulären Farben zu sehen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Die ruhigen Pfade im Strandskogen",
+            "tip": "Abseits des Hauptweges finden Sie absolute Stille.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Früher Morgen am Rönne å",
+            "tip": "Bevor die Stadt erwacht, ist der Fluss ein Ort der Meditation.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente az ängelholmi strandon",
+            "tip": "Menjen le a partra este, hogy lássa a látványos színeket.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Strandskogen csendes ösvényei",
+            "tip": "A főúttól távolabb teljes csendet talál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kora reggel a Rönne folyónál",
+            "tip": "Mielőtt a város felébred, a folyó a meditáció helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apus de soare la plaja din Ängelholm",
+            "tip": "Mergeți la plajă seara pentru a vedea culorile spectaculoase.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cărările liniștite din Strandskogen",
+            "tip": "Departe de poteca principală, veți găsi o liniște absolută.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dimineața devreme la râul Rönne",
+            "tip": "Înainte ca orașul să se trezească, râul este un loc de meditație.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunset at Ängelholm beach",
+            "tip": "Ride down to the beach in the evening to see the spectacular colors.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "The quiet paths in Strandskogen",
+            "tip": "You'll find absolute silence away from the main trail.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Early morning at Rönne river",
+            "tip": "Before the city wakes up, the river is a place of meditation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "In Ängelholm gibt es mehrere gute Fahrradgeschäfte für Zubehör oder schnelle Reparaturen."
+          },
+          {
+            "name": "Storgatan",
+            "tip": "Parken Sie Ihr Fahrrad und erkunden Sie die Geschäfte zu Fuß."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Ängelholmban több jó kerékpárbolt is található kiegészítőkért vagy gyors javításokért."
+          },
+          {
+            "name": "Storgatan",
+            "tip": "Parkolja le a kerékpárt, és fedezze fel gyalog az üzleteket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Ängelholm are mai multe magazine bune de biciclete pentru accesorii sau reparații rapide."
+          },
+          {
+            "name": "Storgatan",
+            "tip": "Parcați bicicleta și explorați magazinele pe jos."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "Ängelholm has several good bike shops for accessories or quick repairs."
+          },
+          {
+            "name": "Storgatan",
+            "tip": "Park your bike and explore the shops on foot."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ängelholm ist sehr fahrradfreundlich mit vielen Radwegen.",
+          "Tragen Sie einen Helm und schließen Sie Ihr Fahrrad immer ab.",
+          "Eine Wasserflasche ist an einem aktiven Tag unerlässlich.",
+          "Kombinieren Sie Ihre Radtour mit einer Zugfahrt, um die weitere Umgebung zu erkunden."
+        ],
+        "hu": [
+          "Ängelholm nagyon kerékpárbarát, sok kerékpárúttal.",
+          "Viseljen sisakot, és mindig zárja le a kerékpárját.",
+          "Egy vizes palack elengedhetetlen egy aktív napon.",
+          "Kombinálja a kerékpártúrát egy vonatozással, hogy felfedezze a tágabb környéket."
+        ],
+        "ro": [
+          "Ängelholm este foarte prietenos cu bicicletele, cu multe piste de biciclete.",
+          "Purtați o cască și încuiați-vă întotdeauna bicicleta.",
+          "O sticlă de apă este esențială într-o zi activă.",
+          "Combinați turul cu bicicleta cu o călătorie cu trenul pentru a explora zona mai largă."
+        ],
+        "en": [
+          "Ängelholm is very bike-friendly with many cycle paths.",
+          "Wear a helmet and always lock your bike.",
+          "A water bottle is essential on an active day.",
+          "Combine your bike tour with a train ride to explore the wider area."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 19.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Stadtzentrum - Tingstorget",
+            "hu": "1. klaszter: Városközpont - Tingstorget",
+            "ro": "Cluster 1: Centrul orașului - Piața Tingstorget",
+            "en": "Cluster 1: City Center - Tingstorget"
+          },
+          "coords": [
+            12.8625,
+            56.2425
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und beginnen Sie Ihren Rundgang hier.",
+            "hu": "Parkoljon a közelben, és innen kezdje a sétát.",
+            "ro": "Parcați în apropiere și începeți turul pietonal de aici.",
+            "en": "Park nearby and start your walking tour here."
+          }
+        },
+        {
+          "name": {
+            "de": "Storgatan",
+            "hu": "Storgatan utca",
+            "ro": "Strada Storgatan",
+            "en": "Storgatan Street"
+          },
+          "coords": [
+            12.8644,
+            56.2433
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:24",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Tingstorget entfernt.",
+            "hu": "Rövid séta a Tingstorget tértől.",
+            "ro": "O scurtă plimbare de la Piața Tingstorget.",
+            "en": "A short walk from Tingstorget."
+          }
+        },
+        {
+          "name": {
+            "de": "Hembygdsparken",
+            "hu": "Hembygdsparken",
+            "ro": "Parcul Hembygdsparken",
+            "en": "Hembygdsparken Park"
+          },
+          "coords": [
+            12.861,
+            56.238
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:20",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein angenehmer Spaziergang durch die Stadt vom Zentrum aus.",
+            "hu": "Kellemes séta a városon keresztül a központból.",
+            "ro": "O plimbare plăcută prin oraș de la centru.",
+            "en": "A pleasant walk through the town from the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Küste - Strandskogen",
+            "hu": "2. klaszter: Tengerpart - Strandskogen",
+            "ro": "Cluster 2: Coasta - Pădurea Strandskogen",
+            "en": "Cluster 2: Coast - Strandskogen"
+          },
+          "coords": [
+            12.815,
+            56.249
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:53",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Küstenparkplatz und erkunden Sie den Wald zu Fuß.",
+            "hu": "Vezessen a tengerparti parkolóba, és fedezze fel gyalog az erdőt.",
+            "ro": "Conduceți până la parcarea de pe coastă și explorați pădurea pe jos.",
+            "en": "Drive to the coastal parking and explore the forest on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Klitterhus",
+            "hu": "Klitterhus",
+            "ro": "Klitterhus",
+            "en": "Klitterhus"
+          },
+          "coords": [
+            12.81,
+            56.249
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:00",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Perfekt für ein Mittagessen nach dem Spaziergang am Strand.",
+            "hu": "Tökéletes egy ebédhez a tengerparti séta után.",
+            "ro": "Perfect pentru prânz după plimbarea pe plajă.",
+            "en": "Perfect for lunch after your walk on the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Luftfahrt - Flygmuseum",
+            "hu": "3. klaszter: Repülés - Flygmuseum",
+            "ro": "Cluster 3: Aviație - Muzeul Aviației",
+            "en": "Cluster 3: Aviation - Flygmuseum"
+          },
+          "coords": [
+            12.85,
+            56.29
+          ],
+          "category": "museums",
+          "arrive_at": "14:55",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Ein Muss für Technik- und Geschichtsfans, etwas außerhalb der Stadt.",
+            "hu": "A technika és a történelem rajongóinak kötelező, kicsit a városon kívül.",
+            "ro": "O vizită obligatorie pentru pasionații de tehnologie și istorie, chiar în afara orașului.",
+            "en": "A must-see for technology and history buffs, just outside the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie mit dem Auto im Zentrum von Ängelholm und erkunden Sie den Tingstorget und die Storgatan zu Fuß. Nach einem Spaziergang zum Hembygdsparken fahren Sie weiter zum zweiten Cluster an der Küste. Dort genießen Sie den Strandskogen und ein Mittagessen im Klitterhus. Der Nachmittag ist dem Flygmuseum gewidmet, einem spannenden Ausflugsziel etwas außerhalb. Diese Tour kombiniert Stadt, Natur und Technik perfekt.",
+        "hu": "Kezdje autóval Ängelholm központjában, és fedezze fel gyalog a Tingstorgetet és a Storgatant. A Hembygdsparkenbe tett séta után vezessen tovább a második klaszterhez a tengerparton. Ott élvezze a Strandskogent és egy ebédet a Klitterhusban. A délutánt a Flygmuseumnak szenteljük, egy izgalmas kirándulóhelynek kicsit távolabb. Ez a túra tökéletesen ötvözi a várost, a természetet és a technikát.",
+        "ro": "Începeți cu mașina în centrul orașului Ängelholm și explorați pe jos Piața Tingstorget și strada Storgatan. După o plimbare la Hembygdsparken, conduceți mai departe spre al doilea cluster de pe coastă. Acolo, bucurați-vă de Strandskogen și de un prânz la Klitterhus. După-amiaza este dedicată Muzeului Aviației, o destinație interesantă chiar în afara orașului. Acest tur combină perfect orașul, natura și tehnologia.",
+        "en": "Start by car in the center of Ängelholm and explore Tingstorget and Storgatan on foot. After a walk to Hembygdsparken, drive on to the second cluster on the coast. There, enjoy Strandskogen and lunch at Klitterhus. The afternoon is dedicated to the Flygmuseum, an exciting destination just outside the city. This tour perfectly combines city, nature, and technology."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurang på Flygmuseum",
+            "tip": "Ein einfaches Café, um sich nach dem Museumsbesuch zu stärken."
+          },
+          {
+            "name": "Klitterhus",
+            "tip": "Eine gehobene Wahl für ein unvergessliches Mittagessen am Meer."
+          },
+          {
+            "name": "Ein Café in der Storgatan",
+            "tip": "Ideal für eine schnelle 'Fika' zwischen den Spaziergängen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a Flygmuseumban",
+            "tip": "Egy egyszerű kávézó, ahol felfrissülhet a múzeumlátogatás után."
+          },
+          {
+            "name": "Klitterhus",
+            "tip": "Egy elegáns választás egy emlékezetes tengerparti ebédhez."
+          },
+          {
+            "name": "Egy kávézó a Storgatanon",
+            "tip": "Ideális egy gyors 'fikára' a séták között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant la Muzeul Aviației",
+            "tip": "O cafenea simplă pentru a vă reîncărca după vizita la muzeu."
+          },
+          {
+            "name": "Klitterhus",
+            "tip": "O alegere de lux pentru un prânz memorabil pe malul mării."
+          },
+          {
+            "name": "O cafenea pe Storgatan",
+            "tip": "Ideal pentru o 'fika' rapidă între plimbări."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant at the Flygmuseum",
+            "tip": "A simple cafe to refuel after the museum visit."
+          },
+          {
+            "name": "Klitterhus",
+            "tip": "An upscale choice for a memorable lunch by the sea."
+          },
+          {
+            "name": "A café on Storgatan",
+            "tip": "Ideal for a quick 'fika' between walks."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Die Aussicht vom Flygmuseum",
+            "tip": "Beobachten Sie die startenden und landenden Flugzeuge in der Ferne.",
+            "emoji": "✈️"
+          },
+          {
+            "name": "Eine Bank im Hembygdsparken",
+            "tip": "Finden Sie einen ruhigen Platz abseits der Spielplätze.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Der Strand an einem Wochentag",
+            "tip": "Außerhalb der Saison haben Sie den Strand fast für sich allein.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a Flygmuseumból",
+            "tip": "Nézze a távolban fel- és leszálló repülőgépeket.",
+            "emoji": "✈️"
+          },
+          {
+            "name": "Egy pad a Hembygdsparkenben",
+            "tip": "Keressen egy csendes helyet a játszóterektől távol.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A tengerpart egy hétköznap",
+            "tip": "Szezonon kívül szinte egyedül lehet a parton.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Priveliștea de la Muzeul Aviației",
+            "tip": "Urmăriți avioanele decolând și aterizând în depărtare.",
+            "emoji": "✈️"
+          },
+          {
+            "name": "O bancă în Parcul Hembygdsparken",
+            "tip": "Găsiți un loc liniștit departe de locurile de joacă.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plaja într-o zi de săptămână",
+            "tip": "În afara sezonului, veți avea plaja aproape numai pentru dumneavoastră.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "The view from the Flygmuseum",
+            "tip": "Watch the planes take off and land in the distance.",
+            "emoji": "✈️"
+          },
+          {
+            "name": "A bench in Hembygdsparken",
+            "tip": "Find a quiet spot away from the playgrounds.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "The beach on a weekday",
+            "tip": "Outside of the peak season, you'll have the beach almost to yourself.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsshop des Flygmuseums",
+            "tip": "Einzigartige Souvenirs für Luftfahrt-Enthusiasten."
+          },
+          {
+            "name": "Kunsthandwerk in der Innenstadt",
+            "tip": "Halten Sie Ausschau nach kleinen Galerien und Kunsthandwerksläden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Flygmuseum múzeumi boltja",
+            "tip": "Egyedi szuvenírek a repülés szerelmeseinek."
+          },
+          {
+            "name": "Kézműves termékek a belvárosban",
+            "tip": "Keresse a kis galériákat és kézműves boltokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de suveniruri al Muzeului Aviației",
+            "tip": "Suveniruri unice pentru pasionații de aviație."
+          },
+          {
+            "name": "Artizanat în centrul orașului",
+            "tip": "Fiți atenți la micile galerii și magazine de artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Flygmuseum's gift shop",
+            "tip": "Unique souvenirs for aviation enthusiasts."
+          },
+          {
+            "name": "Crafts in the city center",
+            "tip": "Look for small galleries and craft shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Parkmöglichkeiten und -gebühren im Voraus.",
+          "Ein GPS ist nützlich, um zwischen den Clustern zu navigieren.",
+          "Planen Sie zusätzliche Zeit für den Verkehr ein, besonders im Sommer.",
+          "Beachten Sie, dass die Museen möglicherweise unterschiedliche Öffnungszeiten haben."
+        ],
+        "hu": [
+          "Előre ellenőrizze a parkolási lehetőségeket és díjakat.",
+          "A GPS hasznos a klaszterek közötti navigáláshoz.",
+          "Tervezzen plusz időt a forgalomra, különösen nyáron.",
+          "Vegye figyelembe, hogy a múzeumoknak eltérő nyitvatartási idejük lehet."
+        ],
+        "ro": [
+          "Verificați din timp opțiunile de parcare și taxele.",
+          "Un GPS este util pentru a naviga între clustere.",
+          "Planificați timp suplimentar pentru trafic, în special vara.",
+          "Rețineți că muzeele pot avea ore de deschidere diferite."
+        ],
+        "en": [
+          "Check parking options and fees in advance.",
+          "A GPS is useful for navigating between the clusters.",
+          "Plan for extra time for traffic, especially in summer.",
+          "Note that the museums may have different opening hours."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Stadtzentrum - Tingstorget",
+            "hu": "1. klaszter: Városközpont - Tingstorget",
+            "ro": "Cluster 1: Centrul orașului - Piața Tingstorget",
+            "en": "Cluster 1: City Center - Tingstorget"
+          },
+          "coords": [
+            12.8625,
+            56.2425
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Die zentrale Bushaltestelle ist nur wenige Schritte entfernt.",
+            "hu": "A központi buszmegálló csak néhány lépésre van.",
+            "ro": "Stația centrală de autobuz este la doar câțiva pași.",
+            "en": "The central bus stop is just a few steps away."
+          }
+        },
+        {
+          "name": {
+            "de": "Storgatan",
+            "hu": "Storgatan utca",
+            "ro": "Strada Storgatan",
+            "en": "Storgatan Street"
+          },
+          "coords": [
+            12.8644,
+            56.2433
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:24",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Haupteinkaufsstraße zu Fuß.",
+            "hu": "Fedezze fel gyalog a fő bevásárlóutcát.",
+            "ro": "Explorați strada comercială principală pe jos.",
+            "en": "Explore the main shopping street on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Museen & Fluss - Järnvägens Museum",
+            "hu": "2. klaszter: Múzeumok és folyó - Vasúti Múzeum",
+            "ro": "Cluster 2: Muzee și râu - Muzeul Căilor Ferate",
+            "en": "Cluster 2: Museums & River - Railway Museum"
+          },
+          "coords": [
+            12.8665,
+            56.2455
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Zentrum hierher.",
+            "hu": "Menjen busszal a központból ide.",
+            "ro": "Luați un autobuz din centru până aici.",
+            "en": "Take a bus from the center to get here."
+          }
+        },
+        {
+          "name": {
+            "de": "Rönne å",
+            "hu": "Rönne folyó",
+            "ro": "Râul Rönne å",
+            "en": "Rönne River"
+          },
+          "coords": [
+            12.858,
+            56.244
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "12:20",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum zum Flussufer.",
+            "hu": "Rövid séta a múzeumtól a folyópartig.",
+            "ro": "O scurtă plimbare de la muzeu la malul râului.",
+            "en": "A short walk from the museum to the riverbank."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Park - Hembygdsparken",
+            "hu": "3. klaszter: Park - Hembygdsparken",
+            "ro": "Cluster 3: Parc - Parcul Hembygdsparken",
+            "en": "Cluster 3: Park - Hembygdsparken"
+          },
+          "coords": [
+            12.861,
+            56.238
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:28",
+          "stay_min": 140,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Eine weitere kurze Busfahrt bringt Sie zu diesem riesigen Park.",
+            "hu": "Egy újabb rövid buszút visz el ehhez a hatalmas parkhoz.",
+            "ro": "O altă călătorie scurtă cu autobuzul vă va duce la acest parc imens.",
+            "en": "Another short bus ride takes you to this huge park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die öffentlichen Verkehrsmittel, um Ängelholm zu erkunden. Beginnen Sie im Zentrum und spazieren Sie durch die Storgatan. Ein Bus bringt Sie dann zum Eisenbahnmuseum und zum nahegelegenen Flussufer. Der Nachmittag gehört dem Hembygdsparken, einem weitläufigen Erholungsgebiet, das ebenfalls leicht mit dem Bus zu erreichen ist. Diese Tour ist ideal, um die wichtigsten Sehenswürdigkeiten ohne eigenes Auto zu erleben.",
+        "hu": "Használja a tömegközlekedést Ängelholm felfedezéséhez. Kezdje a központban, és sétáljon végig a Storgatanon. Ezután egy busz elviszi a Vasúti Múzeumhoz és a közeli folyóparthoz. A délután a Hembygdsparkené, egy tágas rekreációs területé, amely szintén könnyen megközelíthető busszal. Ez a túra ideális a főbb látnivalók megtekintéséhez saját autó nélkül.",
+        "ro": "Folosiți transportul public pentru a explora Ängelholm. Începeți în centru și plimbați-vă pe Storgatan. Un autobuz vă va duce apoi la Muzeul Căilor Ferate și la malul râului din apropiere. După-amiaza este pentru Hembygdsparken, o zonă de agrement vastă, de asemenea, ușor accesibilă cu autobuzul. Acest tur este ideal pentru a experimenta principalele atracții fără mașină proprie.",
+        "en": "Use public transport to explore Ängelholm. Start in the center and stroll down Storgatan. A bus will then take you to the Railway Museum and the nearby riverbank. The afternoon is for Hembygdsparken, a spacious recreational area also easily accessible by bus. This tour is ideal for experiencing the main sights without your own car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Café im Hembygdsparken",
+            "tip": "Ein schöner Ort für eine Pause nach der Ankunft im Park."
+          },
+          {
+            "name": "Korv-Kiosk (Hotdog-Stand)",
+            "tip": "Ein schneller, typisch schwedischer Snack in der Nähe von Bushaltestellen."
+          },
+          {
+            "name": "Bäckerei in der Storgatan",
+            "tip": "Probieren Sie ein 'Kanelbulle' (Zimtschnecke)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kávézó a Hembygdsparkenben",
+            "tip": "Szép hely egy szünetre a parkba érkezés után."
+          },
+          {
+            "name": "Korv-Kiosk (hot dog stand)",
+            "tip": "Gyors, tipikus svéd snack a buszmegállók közelében."
+          },
+          {
+            "name": "Pékség a Storgatanon",
+            "tip": "Kóstoljon meg egy 'Kanelbulle'-t (fahéjas csiga)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenea în Parcul Hembygdsparken",
+            "tip": "Un loc frumos pentru o pauză după sosirea în parc."
+          },
+          {
+            "name": "Chioșc Korv (stand de hotdog)",
+            "tip": "O gustare rapidă, tipic suedeză, lângă stațiile de autobuz."
+          },
+          {
+            "name": "Brutărie pe Storgatan",
+            "tip": "Încercați un 'Kanelbulle' (rulou cu scorțișoară)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Café in Hembygdsparken",
+            "tip": "A nice place for a break after arriving at the park."
+          },
+          {
+            "name": "Korv-Kiosk (hot dog stand)",
+            "tip": "A quick, typically Swedish snack near bus stops."
+          },
+          {
+            "name": "Bakery on Storgatan",
+            "tip": "Try a 'Kanelbulle' (cinnamon bun)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Die Fahrt aus der Stadt heraus",
+            "tip": "Schauen Sie aus dem Fenster und beobachten Sie, wie sich die Landschaft verändert.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Der alte Friedhof in Hembygdsparken",
+            "tip": "Ein unerwartet ruhiger und historischer Teil des Parks.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Eine ruhige Seitenstraße",
+            "tip": "Biegen Sie von der Storgatan ab, um dem Trubel zu entkommen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az út a városból kifelé",
+            "tip": "Nézzen ki az ablakon, és figyelje, hogyan változik a táj.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "A régi temető a Hembygdsparkenben",
+            "tip": "A park egy váratlanul csendes és történelmi része.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Egy csendes mellékutca",
+            "tip": "Térjen le a Storgatanról, hogy elkerülje a nyüzsgést.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătoria în afara orașului",
+            "tip": "Priviți pe fereastră și urmăriți cum se schimbă peisajul.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Vechiul cimitir din Parcul Hembygdsparken",
+            "tip": "O parte neașteptat de liniștită și istorică a parcului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "O stradă laterală liniștită",
+            "tip": "Ieșiți de pe Storgatan pentru a scăpa de agitație.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "The ride out of the city",
+            "tip": "Look out the window and watch the landscape change.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "The old cemetery in Hembygdsparken",
+            "tip": "An unexpectedly quiet and historic part of the park.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A quiet side street",
+            "tip": "Turn off Storgatan to escape the hustle and bustle.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs am Bahnhof",
+            "tip": "Kaufen Sie Last-Minute-Geschenke, bevor Sie den Zug oder Bus nehmen."
+          },
+          {
+            "name": "Storgatan",
+            "tip": "Alle wichtigen Geschäfte sind vom zentralen Busbahnhof aus leicht zu erreichen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvenírek a vasútállomáson",
+            "tip": "Vásároljon utolsó pillanatban ajándékokat, mielőtt vonatra vagy buszra szállna."
+          },
+          {
+            "name": "Storgatan",
+            "tip": "Minden fontos üzlet könnyen elérhető a központi buszpályaudvarról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri la gară",
+            "tip": "Cumpărați cadouri de ultim moment înainte de a lua trenul sau autobuzul."
+          },
+          {
+            "name": "Storgatan",
+            "tip": "Toate magazinele importante sunt ușor accesibile de la autogara centrală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenirs at the train station",
+            "tip": "Buy last-minute gifts before taking the train or bus."
+          },
+          {
+            "name": "Storgatan",
+            "tip": "All major shops are within easy reach of the central bus station."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Laden Sie die lokale ÖPNV-App herunter, um Fahrpläne in Echtzeit zu sehen.",
+          "Die Busse sind in der Regel pünktlich, planen Sie also entsprechend.",
+          "Fragen Sie den Busfahrer, wenn Sie sich bei einer Haltestelle unsicher sind; sie sind normalerweise hilfsbereit."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Töltse le a helyi tömegközlekedési alkalmazást a valós idejű menetrendekért.",
+          "A buszok általában pontosak, ezért tervezzen ennek megfelelően.",
+          "Kérdezze meg a buszsofőrt, ha bizonytalan egy megállóval kapcsolatban; általában segítőkészek."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Descărcați aplicația locală de transport public pentru orare în timp real.",
+          "Autobuzele sunt de obicei punctuale, așa că planificați-vă în consecință.",
+          "Întrebați șoferul de autobuz dacă nu sunteți sigur de o stație; de obicei sunt de ajutor."
+        ],
+        "en": [
+          "Buy a day pass for unlimited travel.",
+          "Download the local public transport app for real-time schedules.",
+          "Buses are usually on time, so plan accordingly.",
+          "Ask the bus driver if you're unsure about a stop; they are usually helpful."
+        ]
+      }
+    }
+  }
+}

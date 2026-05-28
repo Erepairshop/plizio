@@ -1,0 +1,1084 @@
+{
+  "city_id": "sweden-varberg-cities-v2",
+  "anchor": {
+    "name": "Varberg",
+    "coords": [
+      12.2521,
+      57.1071
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:27",
+      "total_km": 1.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Varbergs Stadskyrka",
+          "coords": [
+            12.2501,
+            57.1055
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie die klassizistische Architektur im Inneren.",
+            "hu": "Nézze meg a klasszicista belső teret.",
+            "ro": "Admirați arhitectura neoclasică din interior.",
+            "en": "Notice the neoclassical architecture inside."
+          }
+        },
+        {
+          "name": "Kallbadhuset Varberg",
+          "coords": [
+            12.241,
+            57.1085
+          ],
+          "category": "historical",
+          "arrive_at": "10:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein historisches Badehaus mit Sauna am Meer.",
+            "hu": "Történelmi fürdőház és szauna a tengeren.",
+            "ro": "O baie istorică cu saună pe mare.",
+            "en": "A historic bathhouse with a seaside sauna."
+          }
+        },
+        {
+          "name": "Festung Varberg",
+          "coords": [
+            12.2405,
+            57.1062
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick von den Festungsmauern.",
+            "hu": "Élvezze a panorámát az erőd falairól.",
+            "ro": "Bucurați-vă de vederea panoramică de pe zidurile fortăreței.",
+            "en": "Enjoy the panoramic views from the fortress walls."
+          }
+        },
+        {
+          "name": "Bockstensmannen",
+          "coords": [
+            12.2403,
+            57.106
+          ],
+          "category": "museums",
+          "arrive_at": "12:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die berühmte Moorleiche im Halland Museum.",
+            "hu": "A híres középkori lápi múmia a múzeumban.",
+            "ro": "Faimoasa mumie de mlaștină din muzeul Halland.",
+            "en": "The famous bog body inside the Halland Museum."
+          }
+        },
+        {
+          "name": "Strandpromenaden Varberg",
+          "coords": [
+            12.2385,
+            57.1045
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein wunderschöner Spazierweg entlang der rauen Küste.",
+            "hu": "Gyönyörű parti sétány a sziklás part mentén.",
+            "ro": "O promenadă frumoasă de-a lungul coastei stâncoase.",
+            "en": "A beautiful seaside walkway along the rugged coast."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt an der zentralen Stadtkirche, bevor Sie das historische Kallbadhuset am Wasser bewundern. Mittags erkunden Sie die imposante Festung Varberg und die mittelalterliche Mumie. Am Nachmittag schlendern Sie entspannt an der Strandpromenade entlang. Ein perfekter Tag an der schwedischen Westküste.",
+        "hu": "A reggel a központi templomnál indul, majd a tengerre épült, történelmi Kallbadhuset felé vesszük az irányt. Délben bejárjuk a varbergi erődöt és annak híres múzeumát. Délután pedig egy pihentető séta vár ránk a sziklás tengerparti sétányon. Egy klasszikus parti nap.",
+        "ro": "Dimineața începe la biserica centrală, înainte de a vizita istoricul Kallbadhuset de pe apă. La prânz explorăm impunătoarea fortăreață Varberg și faimoasa ei mumie. După-amiaza vă așteaptă o plimbare relaxantă pe promenada de la malul mării. O zi perfectă pe coastă.",
+        "en": "The morning starts at the central church before visiting the historic Kallbadhuset over the water. Midday is spent exploring the mighty Varberg Fortress and its famous bog body. In the afternoon, enjoy a relaxing stroll along the beautiful seaside promenade. A perfect coastal day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Räksmörgås (Krabbenbrot)",
+            "tip": "Probieren Sie in einem Café am Hafen."
+          },
+          {
+            "name": "Frischer Lachs",
+            "tip": "In den Restaurants nahe der Festung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Räksmörgås (Garnélás szendvics)",
+            "tip": "Kóstolja meg a kikötői kávézókban."
+          },
+          {
+            "name": "Friss lazac",
+            "tip": "Az erőd környéki éttermekben kiváló."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Räksmörgås (Sandviș cu creveți)",
+            "tip": "Încercați-l într-o cafenea din port."
+          },
+          {
+            "name": "Somon proaspăt",
+            "tip": "În restaurantele din apropierea fortăreței."
+          }
+        ],
+        "en": [
+          {
+            "name": "Räksmörgås (Shrimp sandwich)",
+            "tip": "Try it at a café by the harbor."
+          },
+          {
+            "name": "Fresh Salmon",
+            "tip": "Great in the restaurants near the fortress."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klippen am Kallbadhuset",
+            "tip": "Perfekt für den Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Festungspark",
+            "tip": "Ruhige Ecken unter Bäumen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sziklák a Kallbadhusetnél",
+            "tip": "Tökéletes naplemente nézőhely.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Az erőd parkja",
+            "tip": "Csendes pihenés a fák alatt.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stâncile de la Kallbadhuset",
+            "tip": "Perfect pentru apusul soarelui.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul fortăreței",
+            "tip": "Colțuri liniștite sub copaci.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cliffs by Kallbadhuset",
+            "tip": "Perfect spot for sunset watching.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Fortress Park",
+            "tip": "Quiet corners under the trees.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Varberg Torget",
+            "tip": "Mittwoch und Samstag ist Markt auf dem Hauptplatz."
+          },
+          {
+            "name": "Lokale Keramik",
+            "tip": "Halland ist bekannt für seine Handwerkskunst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Varberg Torget",
+            "tip": "Szerdán és szombaton piac a főtéren."
+          },
+          {
+            "name": "Helyi kerámia",
+            "tip": "Halland megye híres a kézművességéről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Varberg Torget",
+            "tip": "Piață miercuri și sâmbătă în piața centrală."
+          },
+          {
+            "name": "Ceramică locală",
+            "tip": "Regiunea Halland este renumită pentru artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Varberg Torget",
+            "tip": "Market days on Wednesday and Saturday."
+          },
+          {
+            "name": "Local Ceramics",
+            "tip": "Halland is well known for its craftsmanship."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die Kopfsteinpflaster rund um die Festung.",
+          "Bringen Sie eine Windjacke mit, an der Küste kann es windig sein.",
+          "Das Kallbadhuset hat getrennte Damen- und Herrenbereiche ohne Badebekleidung.",
+          "Die Strandpromenade ist barrierefrei zugänglich."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt az erőd körüli macskaköves utakon.",
+          "Hozzon széldzsekit, a parton gyakran fúj a tengeri szél.",
+          "A Kallbadhuset fürdőjében külön női és férfi részleg van, fürdőruha nélkül.",
+          "A tengerparti sétány teljesen akadálymentesített."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru piatra cubică din jurul fortăreței.",
+          "Aduceți o jachetă de vânt, pe coastă poate fi destul de răcoros.",
+          "Kallbadhuset are secțiuni separate pentru femei și bărbați (fără costume de baie).",
+          "Promenada de pe plajă este accesibilă pentru cărucioare."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestones around the fortress.",
+          "Bring a windbreaker, the coastline can get breezy.",
+          "Kallbadhuset has separate sections for men and women, bathed nude.",
+          "The seaside promenade is fully wheelchair accessible."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Kallbadhuset Varberg",
+          "coords": [
+            12.241,
+            57.1085
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Morgendliche Erfrischung vor der Radtour.",
+            "hu": "Reggeli frissülés a kerékpártúra előtt.",
+            "ro": "O înviorare de dimineață înainte de turul cu bicicleta.",
+            "en": "Morning refreshment before the bike ride."
+          }
+        },
+        {
+          "name": "Festung Varberg",
+          "coords": [
+            12.2405,
+            57.1062
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahrrad abstellen und die Mauern erkunden.",
+            "hu": "Hagyja lenn a biciklit és fedezze fel a falakat.",
+            "ro": "Lăsați bicicleta și explorați zidurile.",
+            "en": "Park the bike and explore the ramparts."
+          }
+        },
+        {
+          "name": "Getterön Naturschutzgebiet",
+          "coords": [
+            12.2205,
+            57.125
+          ],
+          "category": "natural features",
+          "arrive_at": "12:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eines der besten Vogelbeobachtungsgebiete Europas.",
+            "hu": "Európa egyik legjobb madármegfigyelő helye.",
+            "ro": "Una dintre cele mai bune zone de observare a păsărilor.",
+            "en": "One of Europe's top birdwatching spots."
+          }
+        },
+        {
+          "name": "Strandpromenaden Varberg",
+          "coords": [
+            12.2385,
+            57.1045
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radweg verläuft direkt neben dem Fußgängerbereich.",
+            "hu": "A kerékpárút közvetlenül a gyalogos rész mellett fut.",
+            "ro": "Pista de biciclete merge chiar pe lângă promenadă.",
+            "en": "Bike path runs right next to the pedestrian area."
+          }
+        },
+        {
+          "name": "Varberg Kurort",
+          "coords": [
+            12.2355,
+            57.0855
+          ],
+          "category": "historical",
+          "arrive_at": "15:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Elegantes Kurhotel, perfekt für eine nachmittägliche Kaffeepause.",
+            "hu": "Elegáns szálloda, tökéletes egy délutáni kávéra.",
+            "ro": "Hotel elegant, perfect pentru o cafea după-amiaza.",
+            "en": "Elegant spa hotel, perfect for an afternoon coffee break."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir starten am berühmten Kallbadhuset und radeln kurz zur nahen Festung. Mittags führt die Tour in die Natur hinaus zum wunderschönen Vogelreservat Getterön. Danach geht es zurück an die Küste, wo wir entlang der Strandpromenade bis zum eleganten historischen Varberg Kurort radeln.",
+        "hu": "A híres Kallbadhusetnél kezdünk, majd áttekerünk a közeli erődhöz. Délben kimegyünk a természetbe, a csodás Getterön madárrezervátumba. Ezután visszatérünk a partra, és a tengerparti sétányon tekerünk le egészen az elegáns történelmi Varberg Kurortig.",
+        "ro": "Începem la faimosul Kallbadhuset și pedalăm scurt spre fortăreața din apropiere. La prânz, traseul ne duce în natură, la superba rezervație de păsări Getterön. Apoi ne întoarcem pe coastă și pedalăm pe promenada plajei până la elegantul Varberg Kurort istoric.",
+        "en": "We start at the famous Kallbadhuset and bike briefly to the nearby fortress. Midday takes the tour out into nature to the beautiful Getterön bird reserve. We then head back to the coast, cycling along the seaside promenade down to the elegant historic Varberg Kurort."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fika (Schwedische Kaffeepause)",
+            "tip": "Zimtgebäck im Kurort Café."
+          },
+          {
+            "name": "Fischsuppe",
+            "tip": "Klassiker in den Küstenrestaurants."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fika (Svéd kávészünet)",
+            "tip": "Fahéjas tekercs a Kurort kávézójában."
+          },
+          {
+            "name": "Halászlé",
+            "tip": "Klasszikus tengerparti fogás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fika (Pauză de cafea suedeză)",
+            "tip": "Rulouri cu scorțișoară la cafeneaua Kurort."
+          },
+          {
+            "name": "Supă de pește",
+            "tip": "Un clasic în restaurantele de pe coastă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fika (Swedish coffee break)",
+            "tip": "Cinnamon buns at the Kurort café."
+          },
+          {
+            "name": "Fish soup",
+            "tip": "A classic in the coastal restaurants."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Getterön Aussichtsturm",
+            "tip": "Weitblick über die Bucht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kurpark",
+            "tip": "Entspannen im historischen Garten.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Getterön kilátó",
+            "tip": "Panoráma az öbölre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Kurort parkja",
+            "tip": "Pihenés a történelmi kertben.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Turnul de observație Getterön",
+            "tip": "Vedere panoramică asupra golfului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Kurort",
+            "tip": "Relaxare în grădina istorică.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Getterön observation tower",
+            "tip": "Panoramic view of the bay.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kurort Park",
+            "tip": "Relax in the historical garden.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs an der Festung",
+            "tip": "Mittelalterliche Andenken und Bücher."
+          },
+          {
+            "name": "Surfshops",
+            "tip": "Varberg ist ein Surf-Hotspot."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Erőd szuvenírboltja",
+            "tip": "Középkori emléktárgyak és könyvek."
+          },
+          {
+            "name": "Szörfboltok",
+            "tip": "Varberg népszerű szörfös központ."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri la fortăreață",
+            "tip": "Amintiri și cărți medievale."
+          },
+          {
+            "name": "Magazine de surf",
+            "tip": "Varberg este un hotspot pentru surf."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fortress souvenirs",
+            "tip": "Medieval keepsakes and books."
+          },
+          {
+            "name": "Surf shops",
+            "tip": "Varberg is a surfing hotspot."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Es gibt hervorragende, asphaltierte Radwege in Varberg.",
+          "Achten Sie auf Fußgänger, wenn Sie sich der Festung und der Promenade nähern.",
+          "Ein Fahrradschloss ist empfehlenswert, wenn Sie die Naturgebiete betreten."
+        ],
+        "hu": [
+          "Kiváló, aszfaltozott kerékpárutak vannak Varbergben.",
+          "Vigyázzon a gyalogosokra az erőd és a sétány közelében.",
+          "Kerékpárzár ajánlott, amikor bemegy a természetvédelmi területekre."
+        ],
+        "ro": [
+          "Există piste de biciclete asfaltate excelente în Varberg.",
+          "Aveți grijă la pietoni când vă apropiați de fortăreață și de promenadă.",
+          "Se recomandă un lacăt pentru bicicletă atunci când intrați în zonele naturale."
+        ],
+        "en": [
+          "There are excellent paved bike paths in Varberg.",
+          "Watch out for pedestrians when approaching the fortress and promenade.",
+          "A bike lock is recommended when you step into the nature reserves."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:27",
+      "total_km": 18.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Kallbadhuset Varberg",
+          "coords": [
+            12.241,
+            57.1085
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier zentral für die Erkundung der Innenstadt.",
+            "hu": "Parkoljon le itt a központ és az erőd felfedezéséhez.",
+            "ro": "Parcați aici central pentru a explora centrul orașului.",
+            "en": "Park centrally here to explore the downtown area."
+          }
+        },
+        {
+          "name": "Festung Varberg",
+          "coords": [
+            12.2405,
+            57.1062
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Parkplatz zum Burggelände.",
+            "hu": "Rövid séta a parkolótól az erőd területére.",
+            "ro": "Scurtă plimbare de la parcare la curtea castelului.",
+            "en": "Short walk from the parking lot to the castle grounds."
+          }
+        },
+        {
+          "name": "Bockstensmannen",
+          "coords": [
+            12.2403,
+            57.106
+          ],
+          "category": "museums",
+          "arrive_at": "12:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt im Museum innerhalb der Festung gelegen.",
+            "hu": "Közvetlenül az erődön belüli múzeumban található.",
+            "ro": "Situat direct în muzeul din interiorul fortăreței.",
+            "en": "Located directly in the museum inside the fortress."
+          }
+        },
+        {
+          "name": "Getterön Naturschutzgebiet",
+          "coords": [
+            12.2205,
+            57.125
+          ],
+          "category": "natural features",
+          "arrive_at": "13:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie aus der Stadt hinaus in dieses Vogelparadies.",
+            "hu": "Vezessen ki a városból ebbe a madárparadicsomba.",
+            "ro": "Conduceți în afara orașului către acest paradis al păsărilor.",
+            "en": "Drive out of the city to this bird paradise."
+          }
+        },
+        {
+          "name": "Grimeton Radiostation",
+          "coords": [
+            12.3965,
+            57.114
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 14.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahrt ins Landesinnere zum UNESCO-Welterbe.",
+            "hu": "Utazás a szárazföld belseje felé az UNESCO világörökséghez.",
+            "ro": "Conduceți spre interiorul țării către situl UNESCO.",
+            "en": "Drive inland to the UNESCO World Heritage site."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir parken das Auto morgens im Zentrum und erkunden das historische Kallbadhuset sowie die Festung Varberg samt Museum bequem zu Fuß. Nach dem Mittagessen fahren wir zum Naturreservat Getterön, um die Küstenvögel zu beobachten. Den Nachmittag krönt ein Ausflug ins Landesinnere zur faszinierenden Grimeton Radiostation, einem echten UNESCO-Highlight.",
+        "hu": "Reggel a központban parkolunk le, majd gyalog fedezzük fel a történelmi Kallbadhusetet és a varbergi erődöt a múzeumával együtt. Ebéd után kocsival a Getterön természetvédelmi területre megyünk madarakat figyelni. A délutánt egy belföldi kitérő koronázza meg a lenyűgöző Grimeton rádióállomáshoz, ami UNESCO világörökség.",
+        "ro": "Parcăm mașina dimineața în centru și explorăm istoricul Kallbadhuset și fortăreața Varberg cu muzeul ei pe jos. După prânz, conducem către rezervația naturală Getterön pentru a observa păsările de coastă. După-amiaza este încoronată de o excursie spre interiorul țării, la fascinanta stație radio Grimeton, un sit UNESCO.",
+        "en": "We park the car in the center in the morning and explore the historic Kallbadhuset and Varberg Fortress with its museum on foot. After lunch, we drive to the Getterön nature reserve to watch the coastal birds. The afternoon is crowned by an inland trip to the fascinating Grimeton Radio Station, a UNESCO World Heritage site."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hering (Sill)",
+            "tip": "In den Restaurants am Hafen von Varberg."
+          },
+          {
+            "name": "Café bei Grimeton",
+            "tip": "Ideal für Kaffee nach der Tour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hering (Sill)",
+            "tip": "A varbergi kikötő éttermeiben."
+          },
+          {
+            "name": "Kávézó Grimetonban",
+            "tip": "Ideális egy kávéra a túra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hering (Sill)",
+            "tip": "În restaurantele din portul Varberg."
+          },
+          {
+            "name": "Cafenea la Grimeton",
+            "tip": "Ideală pentru o cafea după tur."
+          }
+        ],
+        "en": [
+          {
+            "name": "Herring (Sill)",
+            "tip": "In the restaurants by the Varberg harbor."
+          },
+          {
+            "name": "Café at Grimeton",
+            "tip": "Ideal for coffee after the tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Naturreservat Getterön",
+            "tip": "Beobachtungshütten am Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Antennenfeld Grimeton",
+            "tip": "Beeindruckend und extrem ruhig.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Getterön természetvédelmi terület",
+            "tip": "Megfigyelőkunyhók a víznél.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grimeton antennamező",
+            "tip": "Lenyűgöző és rendkívül csendes.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rezervația naturală Getterön",
+            "tip": "Colibe de observație la apă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Câmpul de antene Grimeton",
+            "tip": "Impresionant și extrem de liniștit.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Getterön Nature Reserve",
+            "tip": "Observation huts by the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grimeton Antenna Field",
+            "tip": "Impressive and extremely quiet.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Besucherzentrum Grimeton",
+            "tip": "Bücher über Technik und Geschichte."
+          },
+          {
+            "name": "Hofläden im Umland",
+            "tip": "Regionale Spezialitäten auf dem Weg."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grimeton Látogatóközpont",
+            "tip": "Könyvek a technikáról és történelemről."
+          },
+          {
+            "name": "Tanyasi boltok a környéken",
+            "tip": "Regionális finomságok útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul de vizitatori Grimeton",
+            "tip": "Cărți despre tehnologie și istorie."
+          },
+          {
+            "name": "Magazine de fermă din zonă",
+            "tip": "Specialități regionale pe drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grimeton Visitor Center",
+            "tip": "Books on technology and history."
+          },
+          {
+            "name": "Farm shops in the area",
+            "tip": "Regional specialties along the way."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "In Varberg gibt es im Sommer oft Staus in Strandnähe, planen Sie Puffer ein.",
+          "Parken Sie im Zentrum und laufen Sie – das ist entspannter.",
+          "Die Grimeton Radiostation bietet geführte Touren an, vorab buchen!"
+        ],
+        "hu": [
+          "Varbergben nyáron gyakori a dugó a part közelében, hagyjon rá időt.",
+          "Parkoljon a központban és sétáljon – sokkal nyugodtabb.",
+          "A Grimeton rádióállomás vezetett túrákat indít, érdemes előre foglalni!"
+        ],
+        "ro": [
+          "În Varberg, vara sunt adesea blocaje de trafic lângă plajă, planificați-vă timp.",
+          "Parcați în centru și mergeți pe jos – este mult mai relaxant.",
+          "Stația radio Grimeton oferă tururi ghidate, rezervați din timp!"
+        ],
+        "en": [
+          "In Varberg, there are often traffic jams near the beach in summer, plan some buffer.",
+          "Park in the center and walk – it is much more relaxing.",
+          "Grimeton Radio Station offers guided tours, book in advance!"
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:32",
+      "total_km": 5.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Varbergs Stadskyrka",
+          "coords": [
+            12.2501,
+            57.1055
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Guter Startpunkt im Zentrum, leicht mit Bussen erreichbar.",
+            "hu": "Jó kezdőpont a központban, busszal könnyen elérhető.",
+            "ro": "Punct bun de plecare în centru, ușor accesibil cu autobuzul.",
+            "en": "Good starting point in the center, easily reachable by bus."
+          }
+        },
+        {
+          "name": "Festung Varberg",
+          "coords": [
+            12.2405,
+            57.1062
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das dominante Wahrzeichen der Stadt.",
+            "hu": "A város meghatározó jelképe.",
+            "ro": "Punctul de reper dominant al orașului.",
+            "en": "The dominant landmark of the city."
+          }
+        },
+        {
+          "name": "Kallbadhuset Varberg",
+          "coords": [
+            12.241,
+            57.1085
+          ],
+          "category": "historical",
+          "arrive_at": "11:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Herrlicher Ort, um das Meer nach der Burg zu erleben.",
+            "hu": "Remek hely a tenger élvezetére az erőd után.",
+            "ro": "Loc minunat pentru a experimenta marea după castel.",
+            "en": "Wonderful place to experience the sea after the castle."
+          }
+        },
+        {
+          "name": "Strandpromenaden Varberg",
+          "coords": [
+            12.2385,
+            57.1045
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schöner Spaziergang mit tollen Fotomotiven.",
+            "hu": "Szép séta remek fotótémákkal.",
+            "ro": "Plimbare frumoasă cu motive foto excelente.",
+            "en": "Beautiful walk with great photo opportunities."
+          }
+        },
+        {
+          "name": "Varberg Kurort",
+          "coords": [
+            12.2355,
+            57.0855
+          ],
+          "category": "historical",
+          "arrive_at": "14:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kurze Busfahrt in den Süden zum historischen Spa-Hotel.",
+            "hu": "Rövid buszút délre a történelmi wellness szállodához.",
+            "ro": "Scurtă plimbare cu autobuzul spre sud, la hotelul istoric spa.",
+            "en": "Short bus ride south to the historic spa hotel."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag startet mit öffentlichen Verkehrsmitteln ins Zentrum zur alten Stadtkirche. Wir laufen dann durch das Zentrum und verbringen den Vormittag an der Festung und am einzigartigen Kallbadhuset. Nach einem Spaziergang auf der Strandpromenade bringt uns am Nachmittag der Lokalbus bequem Richtung Süden zum altehrwürdigen Varberg Kurort.",
+        "hu": "A napot tömegközlekedéssel kezdjük a központi régi templomnál. Ezután átsétálunk a belvároson, és a délelőttöt az erődnél, valamint a különleges Kallbadhusetnél töltjük. A tengerparti sétányon tett séta után délután a helyi busszal utazunk délre, a patinás Varberg Kurort épületéhez.",
+        "ro": "Ziua începe cu transportul public în centru la vechea biserică a orașului. Ne plimbăm apoi prin centru și petrecem dimineața la fortăreață și la unicul Kallbadhuset. După o plimbare pe promenada plajei, după-amiaza autobuzul local ne duce confortabil spre sud, la venerabilul Varberg Kurort.",
+        "en": "The day starts with public transport to the center at the old city church. We then walk through the center and spend the morning at the fortress and the unique Kallbadhuset. After a stroll on the beach promenade, the local bus takes us comfortably south in the afternoon to the venerable Varberg Kurort."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bageri",
+            "tip": "Holen Sie sich frisches Brot im Zentrum."
+          },
+          {
+            "name": "Meeresfrüchte",
+            "tip": "Perfekt für das Mittagessen am Meer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bageri (Pékség)",
+            "tip": "Vegyél friss pékárut a központban."
+          },
+          {
+            "name": "Tenger gyümölcsei",
+            "tip": "Tökéletes tengerparti ebéd."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bageri (Brutărie)",
+            "tip": "Luați pâine proaspătă în centru."
+          },
+          {
+            "name": "Fructe de mare",
+            "tip": "Perfect pentru prânzul la malul mării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bageri (Bakery)",
+            "tip": "Get fresh bread in the center."
+          },
+          {
+            "name": "Seafood",
+            "tip": "Perfect for lunch by the sea."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Strandpromenade",
+            "tip": "Eine Bank am Meer suchen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kurort Garten",
+            "tip": "Etwas außerhalb des Trubels.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tengerparti sétány",
+            "tip": "Keresni egy padot a tenger mellett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kurort kert",
+            "tip": "Kicsit kijjebb a forgatagtól.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada plajei",
+            "tip": "Găsiți o bancă lângă mare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina Kurort",
+            "tip": "Puțin în afara agitației.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Beach Promenade",
+            "tip": "Find a bench by the sea.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kurort Garden",
+            "tip": "A bit outside the hustle and bustle.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zentrum Boutiquen",
+            "tip": "Schwedische Mode rund um die Kirche."
+          },
+          {
+            "name": "Marktplatz",
+            "tip": "Frische Produkte und Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi butikok",
+            "tip": "Svéd divat a templom környékén."
+          },
+          {
+            "name": "Piactér",
+            "tip": "Friss termékek és kézműves áruk."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boutique-uri din centru",
+            "tip": "Modă suedeză în jurul bisericii."
+          },
+          {
+            "name": "Piața centrală",
+            "tip": "Produse proaspete și meșteșuguri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Center Boutiques",
+            "tip": "Swedish fashion around the church."
+          },
+          {
+            "name": "Market Square",
+            "tip": "Fresh produce and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die lokale Hallandstrafiken-App für Bustickets herunter.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind nah beieinander, Busse braucht man nur für äußere Ziele.",
+          "Bargeldlos bezahlen ist in Schweden der Standard, auch im Bus."
+        ],
+        "hu": [
+          "Töltse le a helyi Hallandstrafiken alkalmazást a buszjegyekhez.",
+          "A legtöbb központi látványosság közel van egymáshoz, busz csak a külső célokhoz kell.",
+          "A készpénzmentes fizetés a szabvány Svédországban, a buszon is."
+        ],
+        "ro": [
+          "Descărcați aplicația locală Hallandstrafiken pentru bilete de autobuz.",
+          "Majoritatea obiectivelor din centru sunt apropiate, ai nevoie de autobuz doar pentru destinații exterioare.",
+          "Plata fără numerar este standardul în Suedia, chiar și în autobuz."
+        ],
+        "en": [
+          "Download the local Hallandstrafiken app for bus tickets.",
+          "Most sights in the center are close to each other, buses are only needed for outer destinations.",
+          "Cashless payment is the standard in Sweden, even on the bus."
+        ]
+      }
+    }
+  }
+}

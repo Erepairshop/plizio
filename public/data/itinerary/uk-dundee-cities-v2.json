@@ -1,0 +1,1364 @@
+{
+  "city_id": "uk-dundee-cities-v2",
+  "anchor": {
+    "name": "Dundee",
+    "coords": [
+      -2.9707,
+      56.462
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "V&A Dundee",
+            "hu": "V&A Dundee",
+            "ro": "V&A Dundee",
+            "en": "V&A Dundee"
+          },
+          "coords": [
+            -2.9669,
+            56.458
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Buchen Sie Tickets im Voraus, um die Warteschlangen an diesem architektonischen Meisterwerk zu umgehen.",
+            "hu": "Foglalj jegyet előre, hogy elkerüld a sorban állást ebben az építészeti remekműben.",
+            "ro": "Rezervați biletele în avans pentru a evita cozile la această capodoperă arhitecturală.",
+            "en": "Book tickets in advance to skip the queues at this architectural masterpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "RRS Discovery",
+            "hu": "RRS Discovery",
+            "ro": "RRS Discovery",
+            "en": "RRS Discovery"
+          },
+          "coords": [
+            -2.9698,
+            56.4575
+          ],
+          "category": "museums",
+          "arrive_at": "11:18",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tragen Sie festes Schuhwerk, um die Decks des Antarktis-Forschungsschiffes sicher zu erkunden.",
+            "hu": "Viselj kényelmes cipőt, hogy biztonságosan felfedezhesd az antarktiszi kutatóhajó fedélzetét.",
+            "ro": "Purtați încălțăminte comodă pentru a explora în siguranță punțile navei de explorare antarctică.",
+            "en": "Wear sturdy shoes to safely explore the decks of the Antarctic exploration vessel."
+          }
+        },
+        {
+          "name": {
+            "de": "Caird Hall",
+            "hu": "Caird Hall",
+            "ro": "Caird Hall",
+            "en": "Caird Hall"
+          },
+          "coords": [
+            -2.969,
+            56.4608
+          ],
+          "category": "theatres",
+          "arrive_at": "13:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie den Zeitplan für kostenlose Mittags-Orgelkonzerte.",
+            "hu": "Nézd meg a programot, hátha van ingyenes déli orgonakoncert.",
+            "ro": "Verificați programul pentru concerte de orgă gratuite la prânz.",
+            "en": "Check the schedule for any free lunchtime organ recitals."
+          }
+        },
+        {
+          "name": {
+            "de": "The McManus: Dundees Kunstgalerie & Museum",
+            "hu": "The McManus: Dundee Művészeti Galériája és Múzeuma",
+            "ro": "The McManus: Galeria de Artă și Muzeul din Dundee",
+            "en": "The McManus: Dundee's Art Gallery & Museum"
+          },
+          "coords": [
+            -2.9745,
+            56.463
+          ],
+          "category": "museums",
+          "arrive_at": "13:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Dundee-Ausstellung, um die Geschichte der Stadt kennenzulernen.",
+            "hu": "Ne hagyd ki a Dundee-történeti kiállítást, hogy megismerd a város múltját.",
+            "ro": "Nu ratați expoziția despre Dundee pentru a învăța despre istoria orașului.",
+            "en": "Don't miss the Dundee history exhibit to learn about the city's past."
+          }
+        },
+        {
+          "name": {
+            "de": "Verdant Works",
+            "hu": "Verdant Works",
+            "ro": "Verdant Works",
+            "en": "Verdant Works"
+          },
+          "coords": [
+            -2.985,
+            56.46
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil, um die riesigen Maschinen in Aktion zu sehen.",
+            "hu": "Vegyél részt egy vezetett túrán, hogy működés közben lásd a hatalmas gépeket.",
+            "ro": "Participați la un tur ghidat pentru a vedea mașinăriile uriașe în acțiune.",
+            "en": "Join a guided tour to see the vast machinery in action."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am beeindruckenden V&A Dundee an der Uferpromenade. Nach der Erkundung des Designs tauchen Sie in die Polargeschichte auf der RRS Discovery ein. Genießen Sie ein Mittagessen in der Nähe, bevor Sie das Stadtzentrum erkunden, beginnend mit der Pracht der Caird Hall. Am Nachmittag erwarten Sie die reiche Geschichte und Kunst im McManus, gefolgt von einem faszinierenden Einblick in Dundees industrielles Erbe in den Verdant Works. Beenden Sie den Tag mit einem entspannten Abendessen und reflektieren Sie über die vielfältigen Erlebnisse.",
+        "hu": "Kezdje a napot a lenyűgöző V&A Dundee-nál a vízparton. A dizájn felfedezése után merüljön el a sarkkutatás történetében az RRS Discovery fedélzetén. Ebédeljen a közelben, mielőtt felfedezné a városközpontot, kezdve a Caird Hall pompájával. Délután a McManus gazdag történelme és művészete várja, majd egy lenyűgöző bepillantás Dundee ipari örökségébe a Verdant Works-ben. Zárja a napot egy kellemes vacsorával, elmélkedve a nap sokszínű élményein.",
+        "ro": "Începeți ziua la impresionantul V&A Dundee pe malul apei. După ce explorați designul, scufundați-vă în istoria polară la bordul RRS Discovery. Savurați prânzul în apropiere înainte de a explora centrul orașului, începând cu grandoarea Caird Hall. După-amiaza vă așteaptă istoria și arta bogată de la The McManus, urmată de o incursiune fascinantă în patrimoniul industrial al lui Dundee la Verdant Works. Încheiați ziua cu o cină relaxantă, reflectând asupra experiențelor diverse.",
+        "en": "Start your day at the stunning V&A Dundee on the waterfront. After exploring design, immerse yourself in polar history aboard the RRS Discovery. Enjoy lunch nearby before exploring the city centre, starting with the grandeur of Caird Hall. The afternoon brings the rich history and art at The McManus, followed by a fascinating look into Dundee's industrial heritage at Verdant Works. End your day with a relaxed dinner, reflecting on the day's diverse experiences."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Dundee Cake",
+            "tip": "Ein traditioneller, reichhaltiger Obstkuchen, der in der ganzen Stadt in Cafés erhältlich ist."
+          },
+          {
+            "name": "Arbroath Smokie",
+            "tip": "Probieren Sie diesen lokal geräucherten Schellfisch in einem Restaurant am Wasser."
+          },
+          {
+            "name": "Dundee Marmalade",
+            "tip": "Kaufen Sie ein Glas der berühmten Marmelade als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dundee torta",
+            "tip": "Hagyományos, gazdag gyümölcskenyér, kapható a város kávézóiban."
+          },
+          {
+            "name": "Arbroath Smokie",
+            "tip": "Kóstold meg ezt a helyben füstölt tőkehalat egy vízparti étteremben."
+          },
+          {
+            "name": "Dundee lekvár",
+            "tip": "Vegyél egy üveggel a híres lekvárból szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Prăjitura Dundee",
+            "tip": "O prăjitură tradițională bogată în fructe, disponibilă în cafenelele din tot orașul."
+          },
+          {
+            "name": "Arbroath Smokie",
+            "tip": "Încercați acest eglefin afumat local la un restaurant de pe malul apei."
+          },
+          {
+            "name": "Marmelada Dundee",
+            "tip": "Cumpărați un borcan din faimoasa marmeladă ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dundee Cake",
+            "tip": "A traditional rich fruitcake available in cafes across the city."
+          },
+          {
+            "name": "Arbroath Smokie",
+            "tip": "Try this locally smoked haddock at a waterfront restaurant."
+          },
+          {
+            "name": "Dundee Marmalade",
+            "tip": "Pick up a jar of the famous marmalade as a souvenir."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Dundee Law",
+            "tip": "Auch wenn es eine Wanderung ist, ist die Aussicht vom Gipfel die friedlichste der Stadt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Magdalen Green",
+            "tip": "Ein weitläufiger Park westlich des Zentrums, perfekt für einen ruhigen Spaziergang.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Uferpromenade",
+            "tip": "Ein Spaziergang entlang des Tay in den ruhigeren Stunden am frühen Morgen oder späten Abend.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dundee Law",
+            "tip": "Bár séta kell hozzá, a csúcsról nyíló kilátás a legbékésebb a városban.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Magdalen Green",
+            "tip": "Egy tágas park a központtól nyugatra, tökéletes egy csendes sétához.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vízpart",
+            "tip": "Séta a Tay folyó mentén a kora reggeli vagy késő esti csendesebb órákban.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dundee Law",
+            "tip": "Chiar dacă este o drumeție, priveliștea de sus este cea mai liniștită din oraș.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Magdalen Green",
+            "tip": "Un parc vast la vest de centru, perfect pentru o plimbare liniștită.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Promenada de pe malul apei",
+            "tip": "O plimbare de-a lungul râului Tay în orele mai liniștite ale dimineții devreme sau serii târzii.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dundee Law",
+            "tip": "Although a walk, the view from the top is the most peaceful in the city.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Magdalen Green",
+            "tip": "An expansive park west of the centre, perfect for a quiet stroll.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Waterfront walkway",
+            "tip": "A walk along the Tay during the quieter hours of early morning or late evening.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Overgate Shopping Centre",
+            "tip": "Für bekannte Marken und Kaufhäuser."
+          },
+          {
+            "name": "West End",
+            "tip": "Entdecken Sie unabhängige Boutiquen und Kunsthandwerksläden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Overgate bevásárlóközpont",
+            "tip": "A legismertebb márkákért és áruházakért."
+          },
+          {
+            "name": "West End",
+            "tip": "Fedezd fel a független butikokat és kézműves boltokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Overgate",
+            "tip": "Pentru mărci cunoscute și magazine universale."
+          },
+          {
+            "name": "West End",
+            "tip": "Explorați buticuri independente și magazine de artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Overgate Shopping Centre",
+            "tip": "For high-street brands and department stores."
+          },
+          {
+            "name": "The West End",
+            "tip": "Explore independent boutiques and artisan craft shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Die meisten Museen haben einen kostenlosen Eintritt, aber für Sonderausstellungen kann eine Gebühr anfallen.",
+          "Prüfen Sie die Öffnungszeiten der Attraktionen, da sie saisonal variieren können.",
+          "Dundee kann windig sein, also ist eine leichte Jacke auch an einem sonnigen Tag eine gute Idee."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, sokat fogsz gyalogolni.",
+          "A legtöbb múzeum ingyenes, de a különleges kiállításokért fizetni kell.",
+          "Ellenőrizd a látnivalók nyitvatartási idejét, mert szezonálisan változhat.",
+          "Dundee szeles lehet, így egy könnyű dzseki még egy napos napon is jó ötlet."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, veți merge mult pe jos.",
+          "Majoritatea muzeelor au intrare gratuită, dar se pot percepe taxe pentru expozițiile speciale.",
+          "Verificați orele de deschidere ale atracțiilor, deoarece acestea pot varia sezonier.",
+          "În Dundee poate fi vânt, așa că o jachetă ușoară este o idee bună chiar și într-o zi însorită."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Most museums have free entry, but special exhibitions may have a charge.",
+          "Check the opening times of attractions as they can vary seasonally.",
+          "Dundee can be windy, so a light jacket is a good idea even on a sunny day."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "The McManus: Dundees Kunstgalerie & Museum",
+            "hu": "The McManus: Dundee Művészeti Galériája és Múzeuma",
+            "ro": "The McManus: Galeria de Artă și Muzeul din Dundee",
+            "en": "The McManus: Dundee's Art Gallery & Museum"
+          },
+          "coords": [
+            -2.9745,
+            56.463
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einer Dosis Kultur, bevor die Menschenmassen eintreffen.",
+            "hu": "Kezd a napot egy adag kultúrával, mielőtt megérkezik a tömeg.",
+            "ro": "Începeți-vă ziua cu o doză de cultură înainte de a se aglomera.",
+            "en": "Start your day with a dose of culture before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Dundee Law",
+            "hu": "Dundee Law",
+            "ro": "Dundee Law",
+            "en": "Dundee Law"
+          },
+          "coords": [
+            -2.99,
+            56.47
+          ],
+          "category": "viewpoints",
+          "arrive_at": "10:52",
+          "stay_min": 30,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Anstieg ist die Mühe wert. Der 360-Grad-Blick ist unschlagbar.",
+            "hu": "A kaptató megéri a fáradságot. A 360 fokos panoráma verhetetlen.",
+            "ro": "Urcușul merită efortul. Priveliștea de 360 de grade este imbatabilă.",
+            "en": "The climb is worth the effort. The 360-degree view is unbeatable."
+          }
+        },
+        {
+          "name": {
+            "de": "V&A Dundee",
+            "hu": "V&A Dundee",
+            "ro": "V&A Dundee",
+            "en": "V&A Dundee"
+          },
+          "coords": [
+            -2.9669,
+            56.458
+          ],
+          "category": "museums",
+          "arrive_at": "11:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab und genießen Sie dieses Design-Wunderland.",
+            "hu": "Zárd le biztonságosan a kerékpárodat, és élvezd ezt a dizájncsodát.",
+            "ro": "Asigurați-vă bicicleta și bucurați-vă de această minune a designului.",
+            "en": "Lock your bike securely and enjoy this design wonderland."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussicht auf die Tay Rail Bridge",
+            "hu": "Kilátás a Tay vasúti hídra",
+            "ro": "Punct de belvedere la Podul Feroviar Tay",
+            "en": "Tay Rail Bridge Viewpoint"
+          },
+          "coords": [
+            -2.978,
+            56.45
+          ],
+          "category": "bridges",
+          "arrive_at": "13:49",
+          "stay_min": 20,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für Fotos, besonders bei Sonnenuntergang.",
+            "hu": "Nagyszerű fotóhelyszín, különösen naplementekor.",
+            "ro": "Un loc excelent pentru fotografii, mai ales la apus.",
+            "en": "A great spot for photos, especially around sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "Broughty Castle Museum",
+            "hu": "Broughty kastélymúzeum",
+            "ro": "Muzeul Castelului Broughty",
+            "en": "Broughty Castle Museum"
+          },
+          "coords": [
+            -2.865,
+            56.464
+          ],
+          "category": "castles",
+          "arrive_at": "14:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 7.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Fahrt entlang der Küste zum Schloss ist landschaftlich sehr reizvoll.",
+            "hu": "A kastélyhoz vezető tengerparti út nagyon festői.",
+            "ro": "Plimbarea de-a lungul coastei până la castel este foarte pitorească.",
+            "en": "The ride along the coast to the castle is very scenic."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Broughty Ferry",
+            "hu": "Broughty Ferry strandja",
+            "ro": "Plaja Broughty Ferry",
+            "en": "Broughty Ferry Beach"
+          },
+          "coords": [
+            -2.86,
+            56.465
+          ],
+          "category": "beach",
+          "arrive_at": "16:19",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Belohnen Sie sich mit einem Eis und einem Spaziergang am Sandstrand.",
+            "hu": "Jutalmazd meg magad egy fagyival és egy sétával a homokos parton.",
+            "ro": "Recompensați-vă cu o înghețată și o plimbare pe plaja de nisip.",
+            "en": "Reward yourself with an ice cream and a stroll on the sandy beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour mit Kultur im McManus. Dann geht es bergauf zum Dundee Law, wo Sie mit einer atemberaubenden Aussicht belohnt werden. Rollen Sie hinunter zur Uferpromenade und tauchen Sie in die Welt des Designs im V&A ein, bevor Sie am Tay entlang radeln, um die beeindruckende Eisenbahnbrücke zu bewundern. Die Nachmittagsfahrt führt Sie zum historischen Broughty Castle. Beenden Sie den Tag entspannt am nahegelegenen Strand und genießen Sie die Meeresbrise.",
+        "hu": "Kezdje a kerékpártúrát a McManus kulturális feltöltődésével. Ezután tekerjen fel a Dundee Law-ra, ahol lélegzetelállító kilátás jutalmazza. Guruljon le a vízpartra, és merüljön el a dizájn világában a V&A-ban, mielőtt a Tay mentén kerékpározva megcsodálja a lenyűgöző vasúti hidat. A délutáni tekerés a történelmi Broughty-kastélyhoz vezet. Zárja a napot a közeli tengerparton pihenve, élvezve a tengeri szellőt.",
+        "ro": "Începeți turul cu bicicleta cu o doză de cultură la The McManus. Apoi, urcați pe Dundee Law pentru o priveliște uluitoare. Coborâți spre malul apei pentru a vă cufunda în design la V&A, înainte de a pedala de-a lungul râului Tay pentru a admira impresionantul pod feroviar. Plimbarea de după-amiază vă duce la istoricul Castel Broughty. Încheiați ziua relaxându-vă pe plaja din apropiere, bucurându-vă de briza mării.",
+        "en": "Kick off your bike tour with culture at The McManus. Then, tackle the uphill ride to Dundee Law for a rewarding panoramic view. Roll down to the waterfront to immerse in design at the V&A, before cycling along the Tay to admire the impressive rail bridge. The afternoon's ride takes you to the historic Broughty Castle. Finish your day relaxing on the nearby beach, enjoying the sea air."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fisch & Chips in Broughty Ferry",
+            "tip": "Der perfekte Genuss nach einer langen Radtour."
+          },
+          {
+            "name": "Lokale Brauerei",
+            "tip": "Probieren Sie ein Craft-Bier von einer der Brauereien in Dundee."
+          },
+          {
+            "name": "Café am Wasser",
+            "tip": "Tanken Sie neue Energie mit Kaffee und Kuchen mit Blick auf den Fluss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fish & Chips Broughty Ferryben",
+            "tip": "A tökéletes jutalom egy hosszú kerékpártúra után."
+          },
+          {
+            "name": "Helyi sörfőzde",
+            "tip": "Kóstolj meg egy kézműves sört Dundee egyik sörfőzdéjéből."
+          },
+          {
+            "name": "Vízparti kávézó",
+            "tip": "Töltődj fel kávéval és süteménnyel a folyóra néző kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fish & Chips la Broughty Ferry",
+            "tip": "Răsfățul perfect după o plimbare lungă cu bicicleta."
+          },
+          {
+            "name": "Berărie locală",
+            "tip": "Încercați o bere artizanală de la una dintre berăriile din Dundee."
+          },
+          {
+            "name": "Cafenea pe malul apei",
+            "tip": "Realimentați-vă cu cafea și prăjituri cu vedere la râu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish & Chips in Broughty Ferry",
+            "tip": "The perfect treat after a long cycle."
+          },
+          {
+            "name": "Local Brewery",
+            "tip": "Try a craft beer from one of Dundee's breweries."
+          },
+          {
+            "name": "Waterfront Cafe",
+            "tip": "Refuel with coffee and cake with a view of the river."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg entlang des Tay",
+            "tip": "Genießen Sie die Ruhe des Flusses auf dem Weg nach Osten.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Spitze des Dundee Law",
+            "tip": "Entfliehen Sie dem Lärm der Stadt und genießen Sie die Aussicht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Broughty Ferry Strand",
+            "tip": "Hören Sie dem Rauschen der Wellen zu, um sich zu entspannen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Tay mentén",
+            "tip": "Élvezd a folyó nyugalmát, miközben kelet felé haladsz.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Dundee Law csúcsa",
+            "tip": "Menekülj el a város zajától, és élvezd a kilátást.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Broughty Ferry strand",
+            "tip": "Hallgasd a hullámok hangját a kikapcsolódáshoz.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul râului Tay",
+            "tip": "Bucurați-vă de liniștea râului în timp ce vă îndreptați spre est.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Vârful Dundee Law",
+            "tip": "Evadați din zgomotul orașului și admirați priveliștea.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plaja Broughty Ferry",
+            "tip": "Ascultați sunetul valurilor pentru a vă relaxa.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cycle path along the Tay",
+            "tip": "Enjoy the tranquility of the river as you head east.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Top of Dundee Law",
+            "tip": "Escape the city noise and take in the view.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Broughty Ferry Beach",
+            "tip": "Listen to the sound of the waves to unwind.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Besorgen Sie sich Zubehör oder ein Souvenir-Trikot."
+          },
+          {
+            "name": "Boutiquen in Broughty Ferry",
+            "tip": "Stöbern Sie nach dem Strandbesuch in den örtlichen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Szerezz be kiegészítőket vagy egy szuvenír mezt."
+          },
+          {
+            "name": "Butikok Broughty Ferryben",
+            "tip": "Nézelődj a helyi boltokban a strandolás után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Luați niște accesorii sau un tricou suvenir."
+          },
+          {
+            "name": "Buticuri din Broughty Ferry",
+            "tip": "Răsfoiți magazinele locale după vizita la plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "Pick up some accessories or a souvenir jersey."
+          },
+          {
+            "name": "Broughty Ferry Boutiques",
+            "tip": "Browse the local shops after your visit to the beach."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Leihen Sie ein Fahrrad mit Gängen, der Anstieg zum Dundee Law ist steil.",
+          "Tragen Sie einen Helm und verwenden Sie Lichter, wenn Sie am Abend fahren.",
+          "Dundee hat spezielle Radwege, nutzen Sie diese für eine sicherere Fahrt.",
+          "Nehmen Sie eine Wasserflasche und Snacks für Ihre Fahrt mit."
+        ],
+        "hu": [
+          "Bérelj váltós kerékpárt, a Dundee Law meredek.",
+          "Viselj sisakot és használj lámpákat, ha este tekersz.",
+          "Dundee-ban vannak kijelölt kerékpárutak, használd őket a biztonságosabb utazásért.",
+          "Vigyél magaddal vizet és rágcsálnivalót az útra."
+        ],
+        "ro": [
+          "Închiriați o bicicletă cu viteze; urcarea pe Dundee Law este abruptă.",
+          "Purtați o cască și folosiți lumini dacă pedalați seara.",
+          "Dundee are piste de biciclete dedicate, folosiți-le pentru o plimbare mai sigură.",
+          "Luați o sticlă de apă și gustări pentru plimbare."
+        ],
+        "en": [
+          "Rent a bike with gears; the climb up Dundee Law is steep.",
+          "Wear a helmet and use lights if you'll be cycling in the evening.",
+          "Dundee has dedicated cycle paths, use them for a safer ride.",
+          "Bring a water bottle and snacks for your journey."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 11.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster an der Uferpromenade: V&A und Discovery",
+            "hu": "Vízparti klaszter: V&A és Discovery",
+            "ro": "Cluster pe malul apei: V&A și Discovery",
+            "en": "Waterfront Cluster: V&A and Discovery"
+          },
+          "coords": [
+            -2.9669,
+            56.458
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie auf einem der Parkplätze an der Uferpromenade und besuchen Sie beide Museen zu Fuß.",
+            "hu": "Parkolj le a vízparti parkolók egyikében, és sétálj át mindkét múzeumba.",
+            "ro": "Parcați într-una dintre parcările de pe malul apei și vizitați ambele muzee pe jos.",
+            "en": "Park in one of the waterfront car parks and visit both museums on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "RRS Discovery",
+            "hu": "RRS Discovery",
+            "ro": "RRS Discovery",
+            "en": "RRS Discovery"
+          },
+          "coords": [
+            -2.9698,
+            56.4575
+          ],
+          "category": "museums",
+          "arrive_at": "11:14",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der kurze Spaziergang vom V&A bietet eine großartige Aussicht auf das Schiff.",
+            "hu": "A V&A-tól való rövid séta remek kilátást nyújt a hajóra.",
+            "ro": "Scurta plimbare de la V&A oferă o priveliște minunată a navei.",
+            "en": "The short walk from the V&A gives you a great perspective of the ship."
+          }
+        },
+        {
+          "name": {
+            "de": "Dundee Law",
+            "hu": "Dundee Law",
+            "ro": "Dundee Law",
+            "en": "Dundee Law"
+          },
+          "coords": [
+            -2.99,
+            56.47
+          ],
+          "category": "viewpoints",
+          "arrive_at": "13:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Gipfel für eine schnelle und lohnende Panoramaaussicht auf die Stadt.",
+            "hu": "Hajts fel a csúcsra egy gyors és hálás városi panorámáért.",
+            "ro": "Conduceți până în vârf pentru o vedere panoramică rapidă și plină de satisfacții asupra orașului.",
+            "en": "Drive to the top for a quick and rewarding panoramic view of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Broughty Castle Museum",
+            "hu": "Broughty kastélymúzeum",
+            "ro": "Muzeul Castelului Broughty",
+            "en": "Broughty Castle Museum"
+          },
+          "coords": [
+            -2.865,
+            56.464
+          ],
+          "category": "castles",
+          "arrive_at": "14:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Das Parken kann in der Nähe schwierig sein, seien Sie also geduldig. Die Aussicht auf den Tay ist es wert.",
+            "hu": "A parkolás a közelben nehézkes lehet, légy türelmes. A Tay-re nyíló kilátás megéri.",
+            "ro": "Parcarea poate fi dificilă în apropiere, așa că aveți răbdare. Priveliștea estuarului Tay merită.",
+            "en": "Parking can be tricky nearby, so be patient. The views of the Tay estuary are worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Strand von Broughty Ferry",
+            "hu": "Séta a Broughty Ferry strandon",
+            "ro": "Plimbare pe plaja Broughty Ferry",
+            "en": "Broughty Ferry Beach Stroll"
+          },
+          "coords": [
+            -2.86,
+            56.465
+          ],
+          "category": "beach",
+          "arrive_at": "16:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Parken Sie das Auto und genießen Sie die frische Seeluft bei einem Spaziergang.",
+            "hu": "Hagyd az autót, és élvezd a friss tengeri levegőt egy séta közben.",
+            "ro": "Lăsați mașina și bucurați-vă de aerul proaspăt al mării cu o plimbare.",
+            "en": "Leave the car and enjoy the fresh sea air with a walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Design- und Schifffahrts-Cluster an der Uferpromenade von Dundee und parken Sie einmal, um das V&A und die RRS Discovery zu erkunden. Am Mittag fahren Sie zum Dundee Law, um eine atemberaubende Aussicht zu genießen. Am Nachmittag fahren Sie nach Osten zum charmanten Broughty Ferry. Erkunden Sie das historische Schloss und beenden Sie Ihren Tag mit einem erholsamen Spaziergang am Sandstrand, bevor Sie zurück ins Zentrum fahren.",
+        "hu": "Kezdje a napot Dundee vízparti dizájn- és tengerészeti negyedében, ahol egy parkolással felfedezheti a V&A-t és az RRS Discovery-t. Délben autózzon fel a Dundee Law-ra a lélegzetelállító kilátásért. Délután irány kelet, a bájos Broughty Ferry. Fedezze fel a történelmi kastélyt, majd zárja a napot egy pihentető sétával a homokos tengerparton, mielőtt visszaindulna a központba.",
+        "ro": "Începeți ziua în clusterul de design și maritim de pe malul apei din Dundee, parcând o singură dată pentru a explora V&A și RRS Discovery. La prânz, conduceți până la Dundee Law pentru vederi panoramice uimitoare. După-amiaza, mergeți spre est, spre fermecătorul Broughty Ferry. Explorați castelul său istoric și încheiați ziua cu o plimbare relaxantă pe plaja de nisip înainte de a vă întoarce în centru.",
+        "en": "Begin your day at Dundee's waterfront design and maritime cluster, parking once to explore the V&A and RRS Discovery. At midday, drive up Dundee Law for stunning panoramic views. In the afternoon, journey east to the charming Broughty Ferry. Explore its historic castle and finish your day with a relaxing stroll along the sandy beach before heading back to the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Tayberry Restaurant, Broughty Ferry",
+            "tip": "Für ein gehobenes Abendessen mit Blick auf den Fluss."
+          },
+          {
+            "name": "Dundee Marmalade Gin",
+            "tip": "Probieren Sie einen lokal destillierten Gin mit dem berühmten Geschmack der Stadt."
+          },
+          {
+            "name": "Bauernmarkt",
+            "tip": "Suchen Sie nach lokalen Produkten, wenn Ihr Besuch auf einen Markttag fällt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Tayberry étterem, Broughty Ferry",
+            "tip": "Egy fine dining élményért, kilátással a folyóra."
+          },
+          {
+            "name": "Dundee lekváros gin",
+            "tip": "Kóstolj meg egy helyben desztillált gint a város híres ízével."
+          },
+          {
+            "name": "Termelői piac",
+            "tip": "Keress helyi termékeket, ha a látogatásod egybe esik a piacnappal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul Tayberry, Broughty Ferry",
+            "tip": "Pentru o experiență culinară rafinată cu vedere la râu."
+          },
+          {
+            "name": "Gin cu marmeladă Dundee",
+            "tip": "Încercați un gin distilat local, infuzat cu aroma celebră a orașului."
+          },
+          {
+            "name": "Piața fermierilor",
+            "tip": "Căutați produse locale dacă vizita dvs. coincide cu o zi de piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Tayberry Restaurant, Broughty Ferry",
+            "tip": "For a fine dining experience with river views."
+          },
+          {
+            "name": "Dundee Marmalade Gin",
+            "tip": "Try a locally distilled gin infused with the city's famous flavour."
+          },
+          {
+            "name": "Farmers' Market",
+            "tip": "Look for local produce if your visit coincides with a market day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Dundee Law Gipfel",
+            "tip": "Ein Moment der Ruhe über der Hektik der Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Broughty Ferry Strand bei Ebbe",
+            "tip": "Weite Flächen für einen friedlichen Spaziergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Mills Observatory",
+            "tip": "Fahren Sie nach Westen für einen ruhigen Abend unter den Sternen (saisonale Öffnungszeiten).",
+            "emoji": "🔭"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dundee Law csúcsa",
+            "tip": "Egy pillanatnyi csend a város nyüzsgése felett.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Broughty Ferry strand apálykor",
+            "tip": "Hatalmas terek egy békés sétához.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Mills Obszervatórium",
+            "tip": "Vezess nyugat felé egy csendes estéért a csillagok alatt (szezonális nyitvatartás).",
+            "emoji": "🔭"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Dundee Law",
+            "tip": "Un moment de liniște deasupra agitației orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plaja Broughty Ferry la reflux",
+            "tip": "Spații vaste pentru o plimbare pașnică.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Observatorul Mills",
+            "tip": "Conduceți spre vest pentru o seară liniștită sub stele (program sezonier).",
+            "emoji": "🔭"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dundee Law Summit",
+            "tip": "A moment of quiet above the hustle of the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Broughty Ferry Beach at low tide",
+            "tip": "Vast open spaces for a peaceful walk.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Mills Observatory",
+            "tip": "Drive west for a quiet evening of stargazing (seasonal opening).",
+            "emoji": "🔭"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschenkeladen im V&A",
+            "tip": "Für einzigartige, designorientierte Souvenirs."
+          },
+          {
+            "name": "Kunsthandwerksläden in Broughty Ferry",
+            "tip": "Stöbern Sie in einzigartigen lokalen Kreationen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "V&A ajándékbolt",
+            "tip": "Egyedi, dizájn-központú szuvenírekért."
+          },
+          {
+            "name": "Kézműves boltok Broughty Ferryben",
+            "tip": "Böngéssz egyedi helyi alkotások között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de cadouri V&A",
+            "tip": "Pentru suveniruri unice, axate pe design."
+          },
+          {
+            "name": "Magazine de artizanat în Broughty Ferry",
+            "tip": "Răsfoiți creații locale unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "V&A Gift Shop",
+            "tip": "For unique, design-led souvenirs."
+          },
+          {
+            "name": "Craft Shops in Broughty Ferry",
+            "tip": "Browse for unique local creations."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie eine Park-App für Dundee herunter, um das Bezahlen zu erleichtern.",
+          "Planen Sie Ihre Fahrten außerhalb der Stoßzeiten, um Verkehr zu vermeiden.",
+          "Beachten Sie, dass das Parken im Stadtzentrum teuer sein kann.",
+          "Die Straßen in der Umgebung von Dundee sind landschaftlich reizvoll, also genießen Sie die Fahrt!"
+        ],
+        "hu": [
+          "Tölts le egy Dundee-i parkolóalkalmazást a könnyebb fizetés érdekében.",
+          "Tervezd az utazásaidat a csúcsidőn kívülre a forgalom elkerülése érdekében.",
+          "Ne feledd, a parkolás a városközpontban drága lehet.",
+          "A Dundee körüli utak festőiek, élvezd az utazást!"
+        ],
+        "ro": [
+          "Descărcați o aplicație de parcare pentru Dundee pentru a plăti mai ușor.",
+          "Planificați-vă călătoriile în afara orelor de vârf pentru a evita traficul.",
+          "Rețineți că parcarea în centrul orașului poate fi costisitoare.",
+          "Drumurile din jurul orașului Dundee sunt pitorești, așa că bucurați-vă de călătorie!"
+        ],
+        "en": [
+          "Download a parking app for Dundee to make payment easier.",
+          "Plan your drives outside of peak hours to avoid traffic.",
+          "Be aware that city centre parking can be expensive.",
+          "The roads around Dundee are scenic, so enjoy the drive!"
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 10.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster im Stadtzentrum: McManus & St. Mary's",
+            "hu": "Városközponti klaszter: McManus és St. Mary's",
+            "ro": "Cluster Centrul Orașului: McManus și St. Mary's",
+            "en": "City Centre Cluster: McManus & St. Mary's"
+          },
+          "coords": [
+            -2.9745,
+            56.463
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie im Herzen der Stadt, das mit dem Bus leicht zu erreichen ist.",
+            "hu": "Kezdj a város szívében, amely busszal könnyen megközelíthető.",
+            "ro": "Începeți în inima orașului, ușor accesibilă cu autobuzul.",
+            "en": "Start in the heart of the city, easily reachable by bus."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Mary's Tower",
+            "hu": "Szent Mária-torony",
+            "ro": "Turnul St. Mary's",
+            "en": "St. Mary's Tower"
+          },
+          "coords": [
+            -2.978,
+            56.4615
+          ],
+          "category": "towers",
+          "arrive_at": "10:58",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der älteste erhaltene Teil von Dundee. Erklimmen Sie ihn für eine historische Perspektive.",
+            "hu": "Dundee legrégebbi fennmaradt része. Mássz fel a történelmi perspektíváért.",
+            "ro": "Cea mai veche parte supraviețuitoare a orașului Dundee. Urcați pentru o perspectivă istorică.",
+            "en": "The oldest surviving part of Dundee. Climb it for a historic perspective."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster an der Uferpromenade: V&A und Discovery",
+            "hu": "Vízparti klaszter: V&A és Discovery",
+            "ro": "Cluster pe malul apei: V&A și Discovery",
+            "en": "Waterfront Cluster: V&A and Discovery"
+          },
+          "coords": [
+            -2.9669,
+            56.458
+          ],
+          "category": "museums",
+          "arrive_at": "12:01",
+          "stay_min": 180,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen kurzen Bus oder gehen Sie zu Fuß hinunter zum Fluss. Planen Sie hier viel Zeit ein.",
+            "hu": "Menj egy rövid buszúttal vagy sétálj le a folyóhoz. Tervezz itt sok időt.",
+            "ro": "Luați un autobuz scurt sau mergeți pe jos până la râu. Alocați mult timp aici.",
+            "en": "Take a short bus or walk down to the river. Allow plenty of time here."
+          }
+        },
+        {
+          "name": {
+            "de": "Dundee Law",
+            "hu": "Dundee Law",
+            "ro": "Dundee Law",
+            "en": "Dundee Law"
+          },
+          "coords": [
+            -2.99,
+            56.47
+          ],
+          "category": "viewpoints",
+          "arrive_at": "15:23",
+          "stay_min": 45,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 3.1,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein Bus bringt Sie in die Nähe, aber der letzte Teil ist ein steiler Spaziergang. Die Aussicht ist es wert!",
+            "hu": "Egy busz elvisz a közelébe, de az utolsó rész egy meredek séta. A kilátás megéri!",
+            "ro": "Un autobuz vă va duce aproape, dar ultima parte este o plimbare abruptă. Priveliștea merită!",
+            "en": "A bus will get you close, but the final part is a steep walk. The view is worth it!"
+          }
+        },
+        {
+          "name": {
+            "de": "Verdant Works",
+            "hu": "Verdant Works",
+            "ro": "Verdant Works",
+            "en": "Verdant Works"
+          },
+          "coords": [
+            -2.985,
+            56.46
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:28",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit der industriellen Vergangenheit der Stadt, die mit dem Bus leicht zu erreichen ist.",
+            "hu": "Zárja a túrát a város ipari múltjával, amely busszal könnyen elérhető.",
+            "ro": "Încheiați-vă turul cu trecutul industrial al orașului, ușor accesibil cu autobuzul.",
+            "en": "End your tour with the city's industrial past, easily reached by bus."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Bus im kulturellen Zentrum von Dundee und erkunden Sie das McManus und den St. Mary's Tower. Fahren Sie dann hinunter zum Ufer, um in das Design- und Polargeschichte-Cluster einzutauchen. Nach dem Mittagessen nehmen Sie einen Bus in Richtung Dundee Law für die beste Aussicht auf die Stadt. Beenden Sie den Tag im Verdant Works, einem Zeugnis der Jute-Industrie von Dundee, bevor Sie für den Abend in einen Bus zurück ins Zentrum steigen.",
+        "hu": "Kezdje a napot busszal Dundee kulturális központjában, felfedezve a McManus-t és a Szent Mária-tornyot. Ezután utazzon le a vízpartra, hogy elmerüljön a dizájn és a sarkkutatás történetének világában. Ebéd után szálljon buszra a Dundee Law felé a város legjobb kilátásáért. Zárja a napot a Verdant Works-ben, Dundee jutaiparának emlékművénél, mielőtt visszabuszozna a központba estére.",
+        "ro": "Începeți-vă ziua cu autobuzul în centrul cultural al orașului Dundee, explorând The McManus și Turnul St. Mary's. Apoi, călătoriți spre malul apei pentru a vă cufunda în clusterul de design și istorie polară. După prânz, luați un autobuz spre Dundee Law pentru cele mai bune vederi ale orașului. Încheiați ziua la Verdant Works, un testament al industriei de iută din Dundee, înainte de a lua un autobuz înapoi în centru pentru seară.",
+        "en": "Start your day by bus in Dundee's cultural heart, exploring The McManus and St. Mary's Tower. Then, travel down to the waterfront to immerse yourself in the design and polar history cluster. After lunch, take a bus towards Dundee Law for the best views in the city. End your day at Verdant Works, a testament to Dundee's jute industry, before catching a bus back to the centre for the evening."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Aberdeen Angus Steak",
+            "tip": "Die Region ist berühmt für ihr Rindfleisch. Suchen Sie nach einem Pub oder Restaurant, das es serviert."
+          },
+          {
+            "name": "Cullen Skink",
+            "tip": "Eine cremige, geräucherte Schellfischsuppe, perfekt für einen kühlen Tag."
+          },
+          {
+            "name": "Tablet",
+            "tip": "Eine sehr süße schottische Süßigkeit, die man in Süßwarenläden findet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aberdeen Angus steak",
+            "tip": "A régió híres a marhahúsáról. Keress egy pubot vagy éttermet, ahol felszolgálják."
+          },
+          {
+            "name": "Cullen Skink",
+            "tip": "Krémes, füstölt tőkehal leves, tökéletes egy hűvös napra."
+          },
+          {
+            "name": "Tablet",
+            "tip": "Nagyon édes skót édesség, édességboltokban megtalálható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Friptură Aberdeen Angus",
+            "tip": "Regiunea este renumită pentru carnea sa de vită; căutați un pub sau un restaurant care o servește."
+          },
+          {
+            "name": "Cullen Skink",
+            "tip": "O supă cremoasă de eglefin afumat, perfectă pentru o zi răcoroasă."
+          },
+          {
+            "name": "Tablet",
+            "tip": "Un dulce scoțian foarte dulce, găsit în magazinele de dulciuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Aberdeen Angus Steak",
+            "tip": "The region is famous for its beef; look for a pub or restaurant serving it."
+          },
+          {
+            "name": "Cullen Skink",
+            "tip": "A creamy smoked haddock soup, perfect for a chilly day."
+          },
+          {
+            "name": "Tablet",
+            "tip": "A very sweet Scottish confectionery found in sweet shops."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Botanic Garden der Universität Dundee",
+            "tip": "Mit dem Bus erreichbar, eine friedliche Oase außerhalb des Zentrums.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Die Aussicht vom oberen Deck eines Busses",
+            "tip": "Sitzen Sie vorne und beobachten Sie die Stadt in Ruhe.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "St. Paul's Cathedral",
+            "tip": "Treten Sie ein für einen Moment der stillen Besinnung.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dundee-i Egyetem Botanikus Kertje",
+            "tip": "Busszal elérhető, egy békés oázis a központon kívül.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Kilátás a busz emeletéről",
+            "tip": "Ülj előre, és nézd a várost békében.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Szent Pál-székesegyház",
+            "tip": "Lépj be egy csendes elmélkedés pillanatáért.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică a Universității din Dundee",
+            "tip": "Accesibilă cu autobuzul, o oază de liniște în afara centrului.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Priveliștea de pe puntea superioară a unui autobuz",
+            "tip": "Stați în față și priviți orașul trecând în pace.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Catedrala Sf. Paul",
+            "tip": "Intrați pentru un moment de reflecție liniștită.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "University of Dundee Botanic Garden",
+            "tip": "Accessible by bus, a peaceful oasis out of the centre.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "The view from the top deck of a bus",
+            "tip": "Sit at the front and watch the city go by in peace.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "St Paul's Cathedral",
+            "tip": "Step inside for a moment of quiet reflection.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Keiller Centre",
+            "tip": "Für ein alternatives Einkaufserlebnis mit unabhängigen Händlern."
+          },
+          {
+            "name": "Wellgate Shopping Centre",
+            "tip": "Ein weiteres zentrales Zentrum für den Einzelhandel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Keiller Centre",
+            "tip": "Egy alternatív vásárlási élményért független kereskedőkkel."
+          },
+          {
+            "name": "Wellgate bevásárlóközpont",
+            "tip": "Egy másik központi kereskedelmi központ."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Keiller",
+            "tip": "Pentru o experiență de cumpărături alternativă cu comercianți independenți."
+          },
+          {
+            "name": "Centrul Comercial Wellgate",
+            "tip": "Un alt centru central pentru cumpărături."
+          }
+        ],
+        "en": [
+          {
+            "name": "Keiller Centre",
+            "tip": "For an alternative shopping experience with independent traders."
+          },
+          {
+            "name": "Wellgate Shopping Centre",
+            "tip": "Another central hub for high street retail."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Laden Sie die Bus-App von Xplore Dundee herunter, um Fahrpläne und Routen in Echtzeit zu erhalten.",
+          "Die meisten Busse akzeptieren kontaktlose Zahlungen.",
+          "Geben Sie dem Fahrer ein Zeichen, wenn Sie möchten, dass der Bus anhält."
+        ],
+        "hu": [
+          "Vásárolj napijegyet a korlátlan utazáshoz.",
+          "Töltsd le az Xplore Dundee buszalkalmazást a valós idejű menetrendekért és útvonalakért.",
+          "A legtöbb busz elfogadja az érintésmentes fizetést.",
+          "Jeĺezz a sofőrnek, ha szeretnéd, hogy a busz megálljon."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Descărcați aplicația de autobuz Xplore Dundee pentru orare și rute în timp real.",
+          "Majoritatea autobuzelor acceptă plăți contactless.",
+          "Faceți semn șoferului când doriți ca autobuzul să oprească."
+        ],
+        "en": [
+          "Buy a DaySaver ticket for unlimited travel.",
+          "Download the Xplore Dundee bus app for real-time timetables and routes.",
+          "Most buses accept contactless payments.",
+          "Signal to the driver when you want the bus to stop."
+        ]
+      }
+    }
+  }
+}

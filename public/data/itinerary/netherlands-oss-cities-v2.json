@@ -1,0 +1,1240 @@
+{
+  "city_id": "netherlands-oss-cities-v2",
+  "anchor": {
+    "name": "Oss",
+    "coords": [
+      5.5182,
+      51.7652
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:11",
+      "total_km": 1.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "De Os",
+          "coords": [
+            5.5185,
+            51.766
+          ],
+          "category": "monuments",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schönes Fotomotiv direkt im Zentrum, das Wahrzeichen der Stadt.",
+            "hu": "Remek fotótéma a központban, a város egyik szimbóluma.",
+            "ro": "Un loc excelent pentru fotografii în centru, simbolul orașului.",
+            "en": "A great photo spot right in the center, the symbol of the city."
+          }
+        },
+        {
+          "name": "Grote Kerk (Willibrorduskerk)",
+          "coords": [
+            5.517,
+            51.765
+          ],
+          "category": "churches",
+          "arrive_at": "09:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden Buntglasfenster dieser neugotischen Kirche.",
+            "hu": "Csodálja meg a neogótikus templom lenyűgöző ólomüveg ablakait.",
+            "ro": "Admirați vitraliile impresionante ale acestei biserici neogotice.",
+            "en": "Admire the impressive stained glass windows of this neo-Gothic church."
+          }
+        },
+        {
+          "name": "Museum Jan Cunen",
+          "coords": [
+            5.519,
+            51.7645
+          ],
+          "category": "museums",
+          "arrive_at": "10:46",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kunst und regionale Geschichte in einer prachtvollen Villa aus dem 19. Jahrhundert.",
+            "hu": "Művészet és helytörténet egy pompás 19. századi villában.",
+            "ro": "Artă și istorie regională într-o vilă superbă din secolul al XIX-lea.",
+            "en": "Art and regional history housed in a magnificent 19th-century villa."
+          }
+        },
+        {
+          "name": "Stadtbibliothek Oss",
+          "coords": [
+            5.52,
+            51.7635
+          ],
+          "category": "cultural centres",
+          "arrive_at": "12:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Architektonisch reizvoll, bietet ein gemütliches Café zum Entspannen.",
+            "hu": "Építészetileg érdekes, hangulatos kávézóval a pihenéshez.",
+            "ro": "Interesantă din punct de vedere arhitectural, are o cafenea confortabilă.",
+            "en": "Architecturally appealing, offering a cozy cafe for a relaxing break."
+          }
+        },
+        {
+          "name": "Golfbad Oss",
+          "coords": [
+            5.54,
+            51.765
+          ],
+          "category": "parks",
+          "arrive_at": "13:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekt für einen entspannten Spaziergang durch die umliegenden Grünanlagen.",
+            "hu": "Tökéletes egy pihentető sétára a környező zöldterületeken.",
+            "ro": "Perfect pentru o plimbare relaxantă prin zonele verzi din jur.",
+            "en": "Perfect for a relaxing stroll through the surrounding green areas."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im Herzen von Oss an der ikonischen De-Os-Statue und bewundern Sie dann die neugotische Grote Kerk. Der Mittag ist perfekt, um Kunst und Geschichte im beeindruckenden Museum Jan Cunen zu entdecken. Nachmittags spazieren Sie entspannt zur modernen Stadtbibliothek auf einen Kaffee. Lassen Sie den Tag in den ruhigen Parks nahe dem Golfbad Oss gemütlich ausklingen.",
+        "hu": "Kezdje a reggelt Oss szívében az ikonikus De Os szobornál, majd csodálja meg a neogótikus Grote Kerk templomot. A dél tökéletes a Museum Jan Cunen művészeti és helytörténeti kiállításainak felfedezésére. Délután sétáljon egyet a modern Stadtbibliothek felé, és igyon egy kávét. A napot a Golfbad Oss környéki parkokban pihenve zárhatja.",
+        "ro": "Începeți dimineața în inima orașului Oss la emblematica statuie De Os, apoi admirați biserica neogotică Grote Kerk. Amiaza este perfectă pentru a explora arta și istoria la Muzeul Jan Cunen. După-amiaza, bucurați-vă de o plimbare relaxantă spre Stadtbibliothek și savurați o cafea. Încheiați ziua relaxându-vă în parcurile liniștite de lângă Golfbad Oss.",
+        "en": "Start your morning in the heart of Oss at the iconic De Os statue, then admire the neo-Gothic Grote Kerk. Midday is perfect for exploring the art and regional history at Museum Jan Cunen. In the afternoon, enjoy a relaxing stroll towards the modern Stadtbibliothek and grab a coffee. Conclude your day unwinding in the peaceful parks near Golfbad Oss."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brabantsche Worstenbroodjes",
+            "tip": "Probieren Sie diese herzhaften Wurstbrötchen in einer lokalen Bäckerei im Zentrum."
+          },
+          {
+            "name": "De Nieuwe Wereld",
+            "tip": "Beliebtes Restaurant mit internationalen Gerichten in der Nähe des Museums."
+          },
+          {
+            "name": "Pannenkoeken",
+            "tip": "Traditionelle holländische Pfannkuchen in einem der charmanten Cafés."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brabantsche Worstenbroodjes",
+            "tip": "Kóstolja meg ezeket a sós kolbászos tekercseket egy helyi pékségben."
+          },
+          {
+            "name": "De Nieuwe Wereld",
+            "tip": "Népszerű étterem nemzetközi fogásokkal a múzeum közelében."
+          },
+          {
+            "name": "Pannenkoeken",
+            "tip": "Hagyományos holland palacsinta az egyik hangulatos kávézóban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brabantsche Worstenbroodjes",
+            "tip": "Încercați aceste rulouri sărate cu cârnați la o brutărie locală din centru."
+          },
+          {
+            "name": "De Nieuwe Wereld",
+            "tip": "Restaurant popular cu preparate internaționale, aproape de muzeu."
+          },
+          {
+            "name": "Pannenkoeken",
+            "tip": "Clătite olandeze tradiționale într-una dintre cafenelele fermecătoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brabantsche Worstenbroodjes",
+            "tip": "Try these savory sausage rolls at a local bakery in the city center."
+          },
+          {
+            "name": "De Nieuwe Wereld",
+            "tip": "Popular restaurant offering international dishes near the museum."
+          },
+          {
+            "name": "Pannenkoeken",
+            "tip": "Traditional Dutch pancakes in one of the charming local cafes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Museumspark",
+            "tip": "Ein ruhiger Ort direkt hinter der Villa, um die Gedanken schweifen zu lassen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Heschepad",
+            "tip": "Versteckter, grüner Fußweg ideal für einen abendlichen Spaziergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Golfbad Grünanlagen",
+            "tip": "Perfekt für eine kleine Pause vom Trubel der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Museumspark",
+            "tip": "Csendes hely közvetlenül a villa mögött a gondolatok elrendezésére.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Heschepad",
+            "tip": "Rejtett zöld sétány, amely ideális egy esti sétához.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Golfbad zöldövezete",
+            "tip": "Tökéletes egy kis pihenésre a város zajától távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Museumspark",
+            "tip": "Un loc liniștit chiar în spatele vilei, perfect pentru a vă relaxa.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Heschepad",
+            "tip": "O alee verde ascunsă, ideală pentru o plimbare de seară.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcurile Golfbad",
+            "tip": "Perfecte pentru o scurtă pauză de la agitația orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Museumspark",
+            "tip": "A quiet spot right behind the villa to let your thoughts drift.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Heschepad",
+            "tip": "Hidden green walkway ideal for a peaceful evening stroll.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Golfbad Parks",
+            "tip": "Perfect for a short break away from the bustle of the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Heuvelgalerie",
+            "tip": "Das Einkaufsherz von Oss mit einer guten Mischung aus Boutiquen."
+          },
+          {
+            "name": "Wochenmarkt Oss",
+            "tip": "Frischer Käse und lokale Spezialitäten, meist am Wochenende."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heuvelgalerie",
+            "tip": "Oss bevásárló központja butikok jó keverékével."
+          },
+          {
+            "name": "Ossi Heti Piac",
+            "tip": "Friss sajtok és helyi finomságok, általában hétvégén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Heuvelgalerie",
+            "tip": "Inima comercială a orașului Oss, cu un mix bun de buticuri."
+          },
+          {
+            "name": "Piața săptămânală Oss",
+            "tip": "Brânză proaspătă și specialități locale, de obicei în weekend."
+          }
+        ],
+        "en": [
+          {
+            "name": "Heuvelgalerie",
+            "tip": "The shopping heart of Oss with a good mix of boutiques."
+          },
+          {
+            "name": "Oss Weekly Market",
+            "tip": "Fresh cheese and local specialties, usually on weekends."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Innenstadt von Oss lässt sich wunderbar zu Fuß erkunden.",
+          "Die Distanzen zwischen den wichtigsten Sehenswürdigkeiten sind sehr kurz.",
+          "Achten Sie auf die Radwege beim Überqueren der Straßen.",
+          "Die meisten Geschäfte im Zentrum sind am Sonntagnachmittag geöffnet."
+        ],
+        "hu": [
+          "Oss belvárosa kiválóan felfedezhető gyalogosan.",
+          "A legfontosabb látnivalók közötti távolságok nagyon rövidek.",
+          "Az utcák keresztezésekor mindig figyeljen a kerékpárutakra.",
+          "A központ legtöbb üzlete vasárnap délután is nyitva tart."
+        ],
+        "ro": [
+          "Centrul orașului Oss este minunat pentru a fi explorat pe jos.",
+          "Distanțele dintre principalele atracții sunt foarte scurte.",
+          "Fiți atenți la pistele de biciclete când traversați străzile.",
+          "Majoritatea magazinelor din centru sunt deschise duminica după-amiaza."
+        ],
+        "en": [
+          "The city center of Oss is wonderful to explore on foot.",
+          "Distances between the main sights are very short and manageable.",
+          "Always watch out for bicycle lanes when crossing streets.",
+          "Most shops in the center are open on Sunday afternoons."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:37",
+      "total_km": 9.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "De Os",
+          "coords": [
+            5.5185,
+            51.766
+          ],
+          "category": "monuments",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Radtour direkt am Wahrzeichen im Stadtzentrum.",
+            "hu": "Kezdje a kerékpártúrát a város jelképénél a központban.",
+            "ro": "Începeți turul cu bicicleta direct la simbolul din centrul orașului.",
+            "en": "Start your cycling tour right at the symbol in the city center."
+          }
+        },
+        {
+          "name": "Museum Jan Cunen",
+          "coords": [
+            5.519,
+            51.7645
+          ],
+          "category": "museums",
+          "arrive_at": "09:28",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Rad ab und tauchen Sie ein in die lokale Geschichte.",
+            "hu": "Tegye le a kerékpárt, és merüljön el a helyi történelemben.",
+            "ro": "Parcați bicicleta și pătrundeți în istoria locală.",
+            "en": "Park your bike and immerse yourself in the local history."
+          }
+        },
+        {
+          "name": "Vorstengraf",
+          "coords": [
+            5.535,
+            51.74
+          ],
+          "category": "historical",
+          "arrive_at": "11:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radeln Sie in den Süden zum faszinierenden Grab des Königs von Oss.",
+            "hu": "Tekerjen délre a lenyűgöző ossi királysír felé.",
+            "ro": "Pedalați spre sud către fascinantul mormânt al prințului din Oss.",
+            "en": "Cycle south to the fascinating Prince's Grave of Oss."
+          }
+        },
+        {
+          "name": "De Maashorst",
+          "coords": [
+            5.58,
+            51.72
+          ],
+          "category": "natural features",
+          "arrive_at": "12:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein traumhaftes Naturschutzgebiet, perfekt für ausgedehnte Radwege.",
+            "hu": "Gyönyörű természetvédelmi terület, tökéletes kerékpárutakkal.",
+            "ro": "O rezervație naturală de vis, perfectă pentru trasee de ciclism.",
+            "en": "A beautiful nature reserve, perfect for extensive cycling paths."
+          }
+        },
+        {
+          "name": "Golfbad Oss",
+          "coords": [
+            5.54,
+            51.765
+          ],
+          "category": "parks",
+          "arrive_at": "14:32",
+          "stay_min": 35,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein erfrischender Abschluss nach einer langen Radtour.",
+            "hu": "Frissítő befejezés egy hosszú kerékpártúra után.",
+            "ro": "O încheiere revigorantă după un tur lung cu bicicleta.",
+            "en": "A refreshing finish after a long cycling tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an der De-Os-Statue im Zentrum und besuchen Sie das faszinierende Museum Jan Cunen. Schwingen Sie sich danach aufs Rad und fahren Sie Richtung Süden zum historischen Vorstengraf, einer beeindruckenden Ausgrabungsstätte. Am Nachmittag radeln Sie weiter ins wunderschöne Naturschutzgebiet De Maashorst, ein Paradies für Radfahrer. Der Tag endet entspannt am Golfbad Oss.",
+        "hu": "Kezdje a napot a központban a De Os szobornál, és látogassa meg a Museum Jan Cunen-t. Ezután pattanjon kerékpárra, és tekerjen délre a történelmi Vorstengraf lenyűgöző ásatási helyszínéhez. Délután folytassa útját a gyönyörű De Maashorst természetvédelmi területre, amely a kerékpárosok paradicsoma. A nap lazán zárul a Golfbad Oss közelében.",
+        "ro": "Începeți ziua la statuia De Os în centru și vizitați fascinantul Muzeu Jan Cunen. Apoi urcați pe bicicletă și mergeți spre sud spre istoricul Vorstengraf, un sit arheologic impresionant. După-amiaza, pedalați mai departe în frumoasa rezervație naturală De Maashorst, un paradis al bicicliștilor. Ziua se încheie relaxant lângă Golfbad Oss.",
+        "en": "Start your day at the De Os statue in the center and visit the fascinating Museum Jan Cunen. Then hop on your bike and ride south to the historical Vorstengraf, an impressive excavation site. In the afternoon, cycle further into the beautiful De Maashorst nature reserve, a paradise for cyclists. The day ends nicely near Golfbad Oss."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Boshuys De Maashorst",
+            "tip": "Perfekter Ort für ein Mittagessen mitten im Naturschutzgebiet."
+          },
+          {
+            "name": "Appeltaart",
+            "tip": "Holländischer Apfelkuchen zur Stärkung während der Radtour."
+          },
+          {
+            "name": "Brabantsche Worstenbroodjes",
+            "tip": "Ein herzhafter Snack für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boshuys De Maashorst",
+            "tip": "Tökéletes hely egy ebédre a természetvédelmi terület közepén."
+          },
+          {
+            "name": "Appeltaart",
+            "tip": "Holland almás pite energiapótlásra a kerékpártúra során."
+          },
+          {
+            "name": "Brabantsche Worstenbroodjes",
+            "tip": "Sós snack az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boshuys De Maashorst",
+            "tip": "Locul perfect pentru prânz în mijlocul rezervației naturale."
+          },
+          {
+            "name": "Appeltaart",
+            "tip": "Plăcintă olandeză cu mere pentru energie în timpul turului."
+          },
+          {
+            "name": "Brabantsche Worstenbroodjes",
+            "tip": "O gustare sărată pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boshuys De Maashorst",
+            "tip": "Perfect spot for lunch right in the middle of the nature reserve."
+          },
+          {
+            "name": "Appeltaart",
+            "tip": "Dutch apple pie to refuel during your cycling tour."
+          },
+          {
+            "name": "Brabantsche Worstenbroodjes",
+            "tip": "A savory snack for the road."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wälder in De Maashorst",
+            "tip": "Herrlich ruhig, ideal zum Beobachten von Wildtieren.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vorstengraf Hügel",
+            "tip": "Ein stiller historischer Ort etwas außerhalb.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "See bei De Maashorst",
+            "tip": "Ein schöner Ort, um abends die Natur zu genießen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "De Maashorst erdői",
+            "tip": "Csodálatosan csendes, ideális vadlesre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vorstengraf halmok",
+            "tip": "Csendes történelmi helyszín a városon kívül.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Tó a De Maashorst-ban",
+            "tip": "Szép hely a természet esti élvezetére.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurile din De Maashorst",
+            "tip": "Minunat de liniștit, ideal pentru a observa fauna sălbatică.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Movilele Vorstengraf",
+            "tip": "Un loc istoric tăcut, la periferie.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Lacul de la De Maashorst",
+            "tip": "Un loc frumos pentru a vă bucura de natura seara.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Forests of De Maashorst",
+            "tip": "Wonderfully quiet, ideal for observing wildlife.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vorstengraf Mounds",
+            "tip": "A silent historical site just outside the city.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Lake at De Maashorst",
+            "tip": "A nice spot to enjoy nature in the evening.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zentrum Oss",
+            "tip": "Kaufen Sie vor der Tour Proviant in den lokalen Geschäften."
+          },
+          {
+            "name": "Bauernläden",
+            "tip": "Regionale Produkte auf dem Weg nach De Maashorst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Oss Központ",
+            "tip": "Vásároljon elemózsiát a helyi üzletekben a túra előtt."
+          },
+          {
+            "name": "Termelői boltok",
+            "tip": "Helyi termékek a De Maashorst felé vezető úton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Oss",
+            "tip": "Cumpărați provizii de la magazinele locale înainte de tur."
+          },
+          {
+            "name": "Magazine agricole",
+            "tip": "Produse regionale pe drumul spre De Maashorst."
+          }
+        ],
+        "en": [
+          {
+            "name": "Oss Center",
+            "tip": "Buy provisions from local shops before starting the tour."
+          },
+          {
+            "name": "Farm Shops",
+            "tip": "Regional products on the way to De Maashorst."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Niederlande haben eines der besten Radwegenetze der Welt.",
+          "De Maashorst bietet oft getrennte, sichere Wege für Fahrräder.",
+          "Nehmen Sie ausreichend Wasser mit, wenn Sie in das Naturschutzgebiet fahren.",
+          "Schließen Sie Ihr Fahrrad im Zentrum von Oss immer gut ab."
+        ],
+        "hu": [
+          "Hollandia rendelkezik a világ egyik legjobb kerékpárút-hálózatával.",
+          "A De Maashorst gyakran különálló, biztonságos utakat kínál a kerékpárosoknak.",
+          "Vigyen magával elegendő vizet, ha a természetvédelmi területre megy.",
+          "Mindig zárja le jól a kerékpárját Oss központjában."
+        ],
+        "ro": [
+          "Olanda are una dintre cele mai bune rețele de piste pentru biciclete din lume.",
+          "De Maashorst oferă adesea trasee separate și sigure pentru biciclete.",
+          "Luați suficientă apă cu dumneavoastră când mergeți în rezervația naturală.",
+          "Asigurați-vă întotdeauna bine bicicleta în centrul orașului Oss."
+        ],
+        "en": [
+          "The Netherlands has one of the best cycling path networks in the world.",
+          "De Maashorst often offers separate, safe paths for bicycles.",
+          "Take plenty of water with you when heading into the nature reserve.",
+          "Always lock your bike securely when in the center of Oss."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:49",
+      "total_km": 5.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "De Os",
+          "coords": [
+            5.5185,
+            51.766
+          ],
+          "category": "monuments",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier im Zentrum für den ersten Cluster an Sehenswürdigkeiten.",
+            "hu": "Parkoljon le itt a központban az első látnivaló-csoporthoz.",
+            "ro": "Parcați aici în centru pentru primul cluster de obiective turistice.",
+            "en": "Park here in the center for the first cluster of sights."
+          }
+        },
+        {
+          "name": "Grote Kerk (Willibrorduskerk)",
+          "coords": [
+            5.517,
+            51.765
+          ],
+          "category": "churches",
+          "arrive_at": "09:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Fußweg vom Parkplatz entfernt.",
+            "hu": "Csak egy rövid sétára a parkolótól.",
+            "ro": "La doar o scurtă plimbare de parcare.",
+            "en": "Just a short walk from the parking area."
+          }
+        },
+        {
+          "name": "Museum Jan Cunen",
+          "coords": [
+            5.519,
+            51.7645
+          ],
+          "category": "museums",
+          "arrive_at": "10:46",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der letzte Stopp im Zentrum, bevor Sie zum Auto zurückkehren.",
+            "hu": "Az utolsó megálló a központban, mielőtt visszatérne az autóhoz.",
+            "ro": "Ultima oprire în centru înainte de a vă întoarce la mașină.",
+            "en": "The final stop in the center before returning to your car."
+          }
+        },
+        {
+          "name": "Vorstengraf",
+          "coords": [
+            5.535,
+            51.74
+          ],
+          "category": "historical",
+          "arrive_at": "12:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahrt zum zweiten Cluster. Es gibt gute Parkmöglichkeiten am Waldrand.",
+            "hu": "Utazás a második csoborthoz. Jó parkolási lehetőségek az erdő szélén.",
+            "ro": "Conduceți către al doilea cluster. Există parcări bune la marginea pădurii.",
+            "en": "Drive to the second cluster. Good parking options at the forest edge."
+          }
+        },
+        {
+          "name": "De Maashorst",
+          "coords": [
+            5.58,
+            51.72
+          ],
+          "category": "natural features",
+          "arrive_at": "14:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein erholsamer Spaziergang in der Natur als Abschluss des Tages.",
+            "hu": "Pihentető séta a természetben a nap zárásaként.",
+            "ro": "O plimbare relaxantă în natură pentru a încheia ziua.",
+            "en": "A relaxing walk in nature to conclude the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie bequem mit dem Auto ins Stadtzentrum von Oss, parken Sie bei der De-Os-Statue und erkunden Sie die Grote Kerk sowie das Museum Jan Cunen zu Fuß. Mittags fahren Sie in den Süden zum historischen Vorstengraf, einer bedeutenden archäologischen Stätte. Den Nachmittag verbringen Sie mit einem ausgedehnten Spaziergang durch das herrliche Naturschutzgebiet De Maashorst direkt nebenan, bevor es entspannt zurückgeht.",
+        "hu": "Induljon kényelmesen autóval Oss központjába, parkoljon le a De Os szobornál, és fedezze fel gyalog a Grote Kerk templomot és a Museum Jan Cunen-t. Délben hajtson délre a történelmi Vorstengrafhoz, egy fontos régészeti lelőhelyhez. A délutánt egy hosszú sétával töltheti a közvetlenül mellette fekvő gyönyörű De Maashorst természetvédelmi területen, mielőtt lazán visszatérne.",
+        "ro": "Începeți confortabil cu mașina spre centrul orașului Oss, parcați la statuia De Os și explorați pe jos Grote Kerk și Muzeul Jan Cunen. La prânz, conduceți spre sud spre istoricul Vorstengraf, un sit arheologic important. Petreceți după-amiaza cu o plimbare lungă prin superba rezervație naturală De Maashorst chiar alături, înainte de o întoarcere relaxantă.",
+        "en": "Start comfortably by car into the city center of Oss, park near the De Os statue, and explore the Grote Kerk and Museum Jan Cunen on foot. At noon, drive south to the historical Vorstengraf, an important archaeological site. Spend the afternoon taking a long walk through the magnificent De Maashorst nature reserve right next door before heading back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brabantsche Worstenbroodjes",
+            "tip": "Holen Sie sich diesen Snack in der Stadt für Ihr Picknick später."
+          },
+          {
+            "name": "Boshuys De Maashorst",
+            "tip": "Ideal für ein spätes Mittagessen mit großartigem Parkplatz."
+          },
+          {
+            "name": "Bossche Bol",
+            "tip": "Ein Schokoladengebäck als süßer Abschluss des Ausflugs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brabantsche Worstenbroodjes",
+            "tip": "Vegye meg ezt a snacket a városban a későbbi piknikhez."
+          },
+          {
+            "name": "Boshuys De Maashorst",
+            "tip": "Ideális egy késői ebédhez, nagyszerű parkolóval."
+          },
+          {
+            "name": "Bossche Bol",
+            "tip": "Csokoládés sütemény a kirándulás édes lezárásaként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brabantsche Worstenbroodjes",
+            "tip": "Luați această gustare din oraș pentru picnicul de mai târziu."
+          },
+          {
+            "name": "Boshuys De Maashorst",
+            "tip": "Ideal pentru un prânz târziu, cu parcare excelentă."
+          },
+          {
+            "name": "Bossche Bol",
+            "tip": "Un produs de patiserie cu ciocolată ca final dulce al excursiei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brabantsche Worstenbroodjes",
+            "tip": "Grab this snack in the city for your picnic later."
+          },
+          {
+            "name": "Boshuys De Maashorst",
+            "tip": "Ideal for a late lunch with great parking."
+          },
+          {
+            "name": "Bossche Bol",
+            "tip": "A chocolate pastry as a sweet end to the trip."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ränder von De Maashorst",
+            "tip": "Leicht mit dem Auto erreichbar, herrliche Stille.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussichtspunkt Vorstengraf",
+            "tip": "Ein ruhiger Ort, um die Landschaft zu überblicken.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kirchenvorplatz",
+            "tip": "Morgens sehr friedlich für einen Moment der Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "De Maashorst pereme",
+            "tip": "Autóval könnyen megközelíthető, csodálatos csend.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vorstengraf kilátópont",
+            "tip": "Csendes hely a táj megfigyelésére.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A templom előtti tér",
+            "tip": "Reggelente nagyon békés egy kis pihenésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marginile De Maashorst",
+            "tip": "Ușor accesibil cu mașina, liniște minunată.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Punctul de belvedere Vorstengraf",
+            "tip": "Un loc liniștit pentru a privi peisajul.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Piața din fața bisericii",
+            "tip": "Foarte liniștit dimineața pentru un moment de tihnă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Edges of De Maashorst",
+            "tip": "Easily accessible by car, wonderful silence.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vorstengraf Viewpoint",
+            "tip": "A quiet spot to overlook the landscape.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Church front square",
+            "tip": "Very peaceful in the morning for a moment of rest.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Innenstadt Oss",
+            "tip": "Nutzen Sie das Parkhaus im Zentrum für eine entspannte Shoppingrunde."
+          },
+          {
+            "name": "Hofläden im Umland",
+            "tip": "Perfekt erreichbar mit dem Auto für frische lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Oss belvárosa",
+            "tip": "Használja a központi parkolóházat egy laza bevásárláshoz."
+          },
+          {
+            "name": "Környékbeli termelői boltok",
+            "tip": "Autóval tökéletesen megközelíthetők friss helyi termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul orașului Oss",
+            "tip": "Folosiți parcarea din centru pentru o sesiune de cumpărături relaxată."
+          },
+          {
+            "name": "Magazinele de fermă din împrejurimi",
+            "tip": "Perfect accesibile cu mașina pentru produse locale proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Oss City Center",
+            "tip": "Use the parking garage in the center for a relaxed shopping round."
+          },
+          {
+            "name": "Farm shops in the area",
+            "tip": "Perfectly accessible by car for fresh local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Parkhäuser im Zentrum von Oss sind modern und gut ausgeschildert.",
+          "Parken Sie Ihr Auto in Clustern und erkunden Sie die Bereiche zu Fuß.",
+          "De Maashorst hat ausgewiesene, kostenfreie Parkplätze am Rand.",
+          "Vermeiden Sie das Fahren in den schmalsten Gassen der Altstadt."
+        ],
+        "hu": [
+          "Oss központjában a parkolóházak modernek és jól ki vannak táblázva.",
+          "Parkolja le autóját klaszterekben, és fedezze fel a területeket gyalogosan.",
+          "A De Maashorst szélén kijelölt, ingyenes parkolóhelyek találhatók.",
+          "Kerülje a vezetést az óváros legszűkebb utcáiban."
+        ],
+        "ro": [
+          "Parcările din centrul orașului Oss sunt moderne și bine semnalizate.",
+          "Parcați mașina în clustere și explorați zonele pe jos.",
+          "De Maashorst are parcări amenajate, gratuite la margine.",
+          "Evitați condusul pe cele mai înguste alei din orașul vechi."
+        ],
+        "en": [
+          "The parking garages in the center of Oss are modern and well-signposted.",
+          "Park your car in clusters and explore the areas on foot.",
+          "De Maashorst has designated, free parking lots on the edge.",
+          "Avoid driving in the narrowest alleys of the old town."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:11",
+      "total_km": 2.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "De Os",
+          "coords": [
+            5.5185,
+            51.766
+          ],
+          "category": "monuments",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Vom Hauptbahnhof aus leicht zu Fuß erreichbar.",
+            "hu": "A főpályaudvarról könnyen megközelíthető gyalog.",
+            "ro": "Ușor accesibil pe jos de la gara principală.",
+            "en": "Easily accessible on foot from the main train station."
+          }
+        },
+        {
+          "name": "Grote Kerk (Willibrorduskerk)",
+          "coords": [
+            5.517,
+            51.765
+          ],
+          "category": "churches",
+          "arrive_at": "09:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie gemütlich durch die Fußgängerzone hierher.",
+            "hu": "Sétáljon kényelmesen a sétálóutcán idáig.",
+            "ro": "Plimbați-vă confortabil prin zona pietonală până aici.",
+            "en": "Stroll comfortably through the pedestrian zone to get here."
+          }
+        },
+        {
+          "name": "Museum Jan Cunen",
+          "coords": [
+            5.519,
+            51.7645
+          ],
+          "category": "museums",
+          "arrive_at": "10:46",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt neben dem Bahnhof gelegen, perfekt für die Abreise in einen anderen Stadtteil.",
+            "hu": "Közvetlenül az állomás mellett, tökéletes a továbbutazáshoz egy másik városrészbe.",
+            "ro": "Situat chiar lângă gară, perfect pentru a pleca spre o altă parte a orașului.",
+            "en": "Located right next to the station, perfect for departing to another part of town."
+          }
+        },
+        {
+          "name": "Elzenburg",
+          "coords": [
+            5.53,
+            51.76
+          ],
+          "category": "cultural centres",
+          "arrive_at": "12:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nutzen Sie den lokalen Bus, um in diesen östlichen Stadtteil zu gelangen.",
+            "hu": "Használja a helyi buszt, hogy eljusson ebbe a keleti városrészbe.",
+            "ro": "Folosiți autobuzul local pentru a ajunge în această zonă de est.",
+            "en": "Use the local bus to reach this eastern district."
+          }
+        },
+        {
+          "name": "Golfbad Oss",
+          "coords": [
+            5.54,
+            51.765
+          ],
+          "category": "parks",
+          "arrive_at": "13:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie hier, bevor Sie den Bus zurück ins Zentrum nehmen.",
+            "hu": "Pihenjen itt, mielőtt visszabuszozna a központba.",
+            "ro": "Relaxați-vă aici înainte de a lua autobuzul înapoi în centru.",
+            "en": "Relax here before taking the bus back to the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vom Bahnhof Oss aus starten Sie perfekt zu Fuß zum De-Os-Denkmal und der Grote Kerk. Verbringen Sie den späten Vormittag im nahegelegenen Museum Jan Cunen, das direkt am Transit-Knotenpunkt liegt. Nehmen Sie mittags einen lokalen Bus in Richtung Osten zum Kulturzentrum Elzenburg für einen Einblick in die lokale Szene. Den Nachmittag lassen Sie bei einem Spaziergang um die Grünanlagen am Golfbad Oss ausklingen, bevor Sie bequem mit dem Bus zurückfahren.",
+        "hu": "Az ossi vasútállomásról gyalogosan tökéletesen indulhat a De Os emlékműhöz és a Grote Kerk templomhoz. A késő délelőttöt a közeli Museum Jan Cunenben töltheti, amely közvetlenül a tranzitközpontnál található. Délben szálljon fel egy helyi buszra kelet felé az Elzenburg kulturális központhoz. A délutánt a Golfbad Oss körüli zöldterületeken tett sétával zárja, mielőtt busszal kényelmesen visszatérne.",
+        "ro": "De la gara Oss, începeți perfect pe jos către monumentul De Os și Grote Kerk. Petreceți dimineața târzie la Muzeul Jan Cunen din apropiere, situat chiar la nodul de tranzit. La prânz, luați un autobuz local spre est spre centrul cultural Elzenburg. Încheiați după-amiaza cu o plimbare în jurul zonelor verzi de la Golfbad Oss, înainte de a vă întoarce confortabil cu autobuzul.",
+        "en": "From the Oss train station, you can perfectly start on foot to the De Os monument and the Grote Kerk. Spend the late morning at the nearby Museum Jan Cunen, located right at the transit hub. At noon, take a local bus eastward to the Elzenburg cultural center. End the afternoon with a walk around the green areas by Golfbad Oss before taking a comfortable bus ride back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brabantsche Worstenbroodjes",
+            "tip": "Holen Sie sich diesen Snack in der Nähe des Bahnhofs."
+          },
+          {
+            "name": "Station Café",
+            "tip": "Gut für einen schnellen Kaffee beim Warten auf den Bus."
+          },
+          {
+            "name": "Pannenkoeken",
+            "tip": "Probieren Sie holländische Pfannkuchen in der Innenstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brabantsche Worstenbroodjes",
+            "tip": "Vegye meg ezt a snacket az állomás közelében."
+          },
+          {
+            "name": "Állomási Kávézó",
+            "tip": "Jó egy gyors kávéra a buszra várva."
+          },
+          {
+            "name": "Pannenkoeken",
+            "tip": "Kóstolja meg a holland palacsintát a belvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brabantsche Worstenbroodjes",
+            "tip": "Luați această gustare din apropierea gării."
+          },
+          {
+            "name": "Cafeneaua Gării",
+            "tip": "Bun pentru o cafea rapidă în timp ce așteptați autobuzul."
+          },
+          {
+            "name": "Pannenkoeken",
+            "tip": "Încercați clătitele olandeze în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brabantsche Worstenbroodjes",
+            "tip": "Grab this snack near the train station."
+          },
+          {
+            "name": "Station Cafe",
+            "tip": "Good for a quick coffee while waiting for the bus."
+          },
+          {
+            "name": "Pannenkoeken",
+            "tip": "Try Dutch pancakes in the city center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Museumspark",
+            "tip": "Direkt am Bahnhof, sehr idyllisch.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Park beim Elzenburg",
+            "tip": "Ein schöner Ort, abseits der Touristenströme.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Golfbad Grünanlagen",
+            "tip": "Ein ruhiger Ort für den späten Nachmittag.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Museumspark",
+            "tip": "Közvetlenül az állomásnál, nagyon idilli.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Elzenburg melletti park",
+            "tip": "Szép hely, távol a turisták hadától.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Golfbad zöldövezete",
+            "tip": "Csendes hely késő délutánra.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Museumspark",
+            "tip": "Chiar la gară, foarte idilic.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul de la Elzenburg",
+            "tip": "Un loc frumos, departe de mulțimile de turiști.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcurile Golfbad",
+            "tip": "Un loc liniștit pentru sfârșitul după-amiezii.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Museumspark",
+            "tip": "Right at the station, very idyllic.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Park by Elzenburg",
+            "tip": "A beautiful place away from the tourist crowds.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Golfbad Parks",
+            "tip": "A quiet place for the late afternoon.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zentrum am Bahnhof",
+            "tip": "Viele Geschäfte direkt beim Aussteigen verfügbar."
+          },
+          {
+            "name": "Kleine Boutiquen",
+            "tip": "Rund um die Fußgängerzone nahe der Grote Kerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Állomás környéki központ",
+            "tip": "Sok üzlet elérhető közvetlenül a leszálláskor."
+          },
+          {
+            "name": "Kis butikok",
+            "tip": "A sétálóutca környékén a Grote Kerk közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul de la gară",
+            "tip": "Multe magazine disponibile imediat ce coborâți."
+          },
+          {
+            "name": "Buticuri mici",
+            "tip": "În jurul zonei pietonale din apropierea Grote Kerk."
+          }
+        ],
+        "en": [
+          {
+            "name": "Center at the station",
+            "tip": "Many shops available right as you get off."
+          },
+          {
+            "name": "Small boutiques",
+            "tip": "Around the pedestrian zone near the Grote Kerk."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie Ihre OV-Chipkaart oder nutzen Sie kontaktloses Bezahlen im Bus.",
+          "Die Bushaltestellen in Oss sind mit digitalen Anzeigen ausgestattet.",
+          "Planen Sie in Clustern: Fahren Sie in ein Viertel und gehen Sie dort zu Fuß.",
+          "Der Bahnhof Oss ist ein hervorragender zentraler Knotenpunkt."
+        ],
+        "hu": [
+          "Töltse fel az OV-Chipkaartját, vagy használjon érintésmentes fizetést a buszon.",
+          "Az ossi buszmegállók digitális kijelzőkkel vannak felszerelve.",
+          "Tervezzen klaszterekben: utazzon el egy negyedbe, és ott sétáljon gyalog.",
+          "Az ossi vasútállomás kiváló központi csomópont."
+        ],
+        "ro": [
+          "Încărcați cardul OV-Chipkaart sau folosiți plata contactless în autobuz.",
+          "Stațiile de autobuz din Oss sunt echipate cu afișaje digitale.",
+          "Planificați în clustere: mergeți într-un cartier și plimbați-vă pe jos acolo.",
+          "Gara Oss este un nod central excelent."
+        ],
+        "en": [
+          "Load your OV-Chipkaart or use contactless payment on the bus.",
+          "The bus stops in Oss are equipped with digital displays.",
+          "Plan in clusters: travel to a district and walk around there.",
+          "The Oss train station is an excellent central hub."
+        ]
+      }
+    }
+  }
+}

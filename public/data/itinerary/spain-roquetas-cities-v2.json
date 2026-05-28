@@ -1,0 +1,1353 @@
+{
+  "city_id": "spain-roquetas-cities-v2",
+  "anchor": {
+    "name": "Roquetas de Mar",
+    "coords": [
+      -2.6148,
+      36.7642
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Leuchtturm von Roquetas",
+            "hu": "Roquetas-i világítótorony",
+            "ro": "Farul din Roquetas",
+            "en": "Lighthouse of Roquetas"
+          },
+          "coords": [
+            -2.6085,
+            36.7601
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Perfekter Ort für Morgenfotos, das Licht ist weich und der Hafen erwacht.",
+            "hu": "Tökéletes hely a reggeli fotózáshoz, a fények lágyak, és a kikötő ébredezik.",
+            "ro": "Locul perfect pentru fotografii de dimineață, lumina este blândă și portul se trezește la viață.",
+            "en": "Perfect spot for morning photos, the light is soft and the port is waking up."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Santa Ana",
+            "hu": "Santa Ana kastély",
+            "ro": "Castelul Santa Ana",
+            "en": "Castle of Santa Ana"
+          },
+          "coords": [
+            -2.6095,
+            36.7608
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Überprüfen Sie die Öffnungszeiten für Kunstausstellungen im Inneren.",
+            "hu": "Nézze meg a bent tartott művészeti kiállítások nyitvatartási idejét.",
+            "ro": "Verificați programul expozițiilor de artă din interior.",
+            "en": "Check the schedule for art exhibitions held inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Stierkampfarena von Roquetas",
+            "hu": "Roquetas-i bikaviadal-aréna",
+            "ro": "Arena de coride din Roquetas",
+            "en": "Bullring of Roquetas"
+          },
+          "coords": [
+            -2.6198,
+            36.7751
+          ],
+          "arrive_at": "11:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Auch wenn keine Kämpfe stattfinden, ist die Architektur beeindruckend.",
+            "hu": "Még ha nincsenek is viadalok, az építészete akkor is lenyűgöző.",
+            "ro": "Chiar dacă nu sunt lupte, arhitectura este impresionantă.",
+            "en": "Even if there are no fights, the architecture is impressive."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquarium Roquetas de Mar",
+            "hu": "Roquetas de Mar Akvárium",
+            "ro": "Acvariul Roquetas de Mar",
+            "en": "Aquarium Roquetas de Mar"
+          },
+          "coords": [
+            -2.634,
+            36.7505
+          ],
+          "category": "natural features",
+          "arrive_at": "13:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ideal für die Mittagshitze. Das Amazonas-Becken ist ein Highlight.",
+            "hu": "Ideális a déli hőség elől. Az amazóniai medence a fénypont.",
+            "ro": "Ideal pentru căldura de la amiază. Bazinul amazonian este un punct culminant.",
+            "en": "Ideal for escaping the midday heat. The Amazon basin is a highlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Serena",
+            "hu": "Serena strand",
+            "ro": "Plaja Serena",
+            "en": "Serena Beach"
+          },
+          "coords": [
+            -2.645,
+            36.741
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:15",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Tag ausklingen zu lassen und den Sonnenuntergang zu beobachten.",
+            "hu": "A tökéletes hely a nap lezárására és a naplemente megtekintésére.",
+            "ro": "Locul perfect pentru a încheia ziua și a privi apusul.",
+            "en": "The perfect place to end the day and watch the sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am historischen Hafen mit dem Leuchtturm und der Burg Santa Ana, die über das Meer wachen. Spüren Sie die Geschichte, während Sie durch die alten Mauern schlendern. Am Vormittag führt Sie ein Spaziergang ins Herz der Stadt zur beeindruckenden Stierkampfarena, einem Symbol andalusischer Kultur. Der frühe Nachmittag bietet eine willkommene Abkühlung im Aquarium, wo Sie die Unterwasserwelt des Mittelmeers und tropischer Flüsse entdecken. Sie beenden den Tag am weitläufigen Strand Serena, wo der Sand und die Wellen zur vollkommenen Entspannung einladen, während die Sonne langsam untergeht.",
+        "hu": "A nap a történelmi kikötőnél kezdődik, a tenger felett őrködő világítótoronnyal és a Santa Ana kastéllyal. Érezze a történelmet a régi falak között sétálva. Délelőtt egy séta a város szívébe, a lenyűgöző bikaviadal-arénához vezet, amely az andalúz kultúra szimbóluma. A kora délután kellemes felüdülést kínál az akváriumban, ahol felfedezheti a Földközi-tenger és a trópusi folyók víz alatti világát. A napot a tágas Serena strandon fejezi be, ahol a homok és a hullámok tökéletes kikapcsolódást nyújtanak, miközben a nap lassan lenyugszik.",
+        "ro": "Ziua începe în portul istoric, cu farul și castelul Santa Ana veghind asupra mării. Simțiți istoria plimbându-vă printre zidurile vechi. Dimineața, o plimbare vă duce în inima orașului, la impresionanta arenă de coride, un simbol al culturii andaluze. După-amiaza devreme oferă o pauză răcoroasă la acvariu, unde descoperiți lumea subacvatică a Mediteranei și a râurilor tropicale. Încheiați ziua pe întinsa plajă Serena, unde nisipul și valurile invită la relaxare totală, în timp ce soarele apune lent.",
+        "en": "Your day begins at the historic port with the lighthouse and Santa Ana Castle watching over the sea. Feel the history as you wander through the ancient walls. In the morning, a walk takes you to the heart of the city, to the impressive bullring, a symbol of Andalusian culture. The early afternoon offers a welcome cool-down at the aquarium, where you'll discover the underwater world of the Mediterranean and tropical rivers. You'll end the day at the expansive Serena Beach, where the sand and waves invite total relaxation as the sun slowly sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Espetos de Sardinas",
+            "tip": "Probieren Sie gegrillte Sardinen an einem Strand-Chiringuito."
+          },
+          {
+            "name": "Gambas al Pil Pil",
+            "tip": "Garnelen in Knoblauch und Chili-Öl, ein lokaler Favorit."
+          },
+          {
+            "name": "Pulpo a la Gallega",
+            "tip": "Gekochter Oktopus mit Paprika, oft in Tapas-Bars serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Espetos de Sardinas",
+            "tip": "Kóstolja meg a grillezett szardíniát egy tengerparti chiringuitóban."
+          },
+          {
+            "name": "Gambas al Pil Pil",
+            "tip": "Garnéla fokhagymás-chilis olajban, helyi kedvenc."
+          },
+          {
+            "name": "Pulpo a la Gallega",
+            "tip": "Főtt polip paprikával, gyakran szolgálják fel tapas bárokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Espetos de Sardinas",
+            "tip": "Încercați sardine la grătar la un chiringuito pe plajă."
+          },
+          {
+            "name": "Gambas al Pil Pil",
+            "tip": "Creveți în usturoi și ulei de ardei iute, un favorit local."
+          },
+          {
+            "name": "Pulpo a la Gallega",
+            "tip": "Caracatiță fiartă cu boia, servită adesea în barurile de tapas."
+          }
+        ],
+        "en": [
+          {
+            "name": "Espetos de Sardinas",
+            "tip": "Try grilled sardines at a beachside chiringuito."
+          },
+          {
+            "name": "Gambas al Pil Pil",
+            "tip": "Prawns in garlic and chili oil, a local favorite."
+          },
+          {
+            "name": "Pulpo a la Gallega",
+            "tip": "Boiled octopus with paprika, often served in tapas bars."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Punta Entinas-Sabinar",
+            "tip": "Ein Spaziergang am Rande des Naturparks bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Strand Serena am frühen Morgen",
+            "tip": "Genießen Sie die Ruhe, bevor die Menschenmassen ankommen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Hafenmolen",
+            "tip": "Beobachten Sie die Fischerboote, die ein- und auslaufen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Punta Entinas-Sabinar",
+            "tip": "Séta a természetvédelmi park szélén naplementekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Serena strand kora reggel",
+            "tip": "Élvezze a csendet, mielőtt a tömeg megérkezik.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kikötői mólók",
+            "tip": "Nézze a ki- és befutó halászhajókat.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punta Entinas-Sabinar",
+            "tip": "O plimbare la marginea parcului natural la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plaja Serena dimineața devreme",
+            "tip": "Bucurați-vă de liniște înainte de sosirea mulțimilor.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Digurile portului",
+            "tip": "Priviți bărcile pescărești intrând și ieșind.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Punta Entinas-Sabinar",
+            "tip": "A walk at the edge of the natural park at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Serena Beach in the early morning",
+            "tip": "Enjoy the quiet before the crowds arrive.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Harbor jetties",
+            "tip": "Watch the fishing boats coming in and out.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frisches Obst und lokales Handwerk auf dem Wochenmarkt."
+          },
+          {
+            "name": "Avenida de Roquetas",
+            "tip": "Haupt-Einkaufsstraße mit einer Mischung aus Boutiquen und Souvenirläden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss gyümölcsöt és helyi kézműves termékeket a heti piacon."
+          },
+          {
+            "name": "Avenida de Roquetas",
+            "tip": "Fő bevásárlóutca butikok és szuvenírboltok keverékével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați fructe proaspete și produse de artizanat locale de la piața săptămânală."
+          },
+          {
+            "name": "Avenida de Roquetas",
+            "tip": "Stradă comercială principală cu un amestec de buticuri și magazine de suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Buy fresh fruit and local crafts at the weekly market."
+          },
+          {
+            "name": "Avenida de Roquetas",
+            "tip": "Main shopping street with a mix of boutiques and souvenir shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie viel Wasser mit, besonders in den Sommermonaten.",
+          "Ein Hut und Sonnencreme sind unerlässlich.",
+          "Planen Sie ein Mittagessen in einer Tapas-Bar ein, um die lokale Küche zu probieren."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "Hozzon magával sok vizet, különösen a nyári hónapokban.",
+          "A kalap és a naptej elengedhetetlen.",
+          "Tervezzen ebédet egy tapas bárban, hogy megkóstolja a helyi konyhát."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe jos.",
+          "Luați multă apă, mai ales în lunile de vară.",
+          "O pălărie și cremă de protecție solară sunt esențiale.",
+          "Planificați prânzul la un bar de tapas pentru a gusta bucătăria locală."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Bring plenty of water, especially during the summer months.",
+          "A hat and sunscreen are essential.",
+          "Plan for lunch at a tapas bar to sample the local cuisine."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 15.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Strand Serena",
+            "hu": "Serena strand",
+            "ro": "Plaja Serena",
+            "en": "Serena Beach"
+          },
+          "coords": [
+            -2.645,
+            36.741
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einer leichten Radtour entlang der Promenade.",
+            "hu": "Kezdje a napot egy könnyű kerékpártúrával a sétányon.",
+            "ro": "Începeți ziua cu o plimbare ușoară cu bicicleta de-a lungul promenadei.",
+            "en": "Start the day with a light bike ride along the promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquarium Roquetas de Mar",
+            "hu": "Roquetas de Mar Akvárium",
+            "ro": "Acvariul Roquetas de Mar",
+            "en": "Aquarium Roquetas de Mar"
+          },
+          "coords": [
+            -2.634,
+            36.7505
+          ],
+          "category": "natural features",
+          "arrive_at": "10:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Sichere Fahrradständer befinden sich in der Nähe des Eingangs.",
+            "hu": "Biztonságos kerékpártárolók találhatók a bejárat közelében.",
+            "ro": "Rastele securizate pentru biciclete sunt disponibile lângă intrare.",
+            "en": "Secure bike racks are available near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm und Burg",
+            "hu": "Világítótorony és kastély",
+            "ro": "Farul și Castelul",
+            "en": "Lighthouse and Castle"
+          },
+          "coords": [
+            -2.6085,
+            36.7601
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3,
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht auf das Meer, bevor Sie im Hafen zu Mittag essen.",
+            "hu": "Élvezze a tengerre nyíló kilátást, mielőtt megebédel a kikötőben.",
+            "ro": "Bucurați-vă de priveliștea mării înainte de a lua prânzul în port.",
+            "en": "Enjoy the sea views before having lunch in the port."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturpark Punta Entinas-Sabinar (Aussichtspunkt)",
+            "hu": "Punta Entinas-Sabinar Natúrpark (kilátó)",
+            "ro": "Parcul Natural Punta Entinas-Sabinar (punct de belvedere)",
+            "en": "Punta Entinas-Sabinar Natural Park (viewpoint)"
+          },
+          "coords": [
+            -2.7,
+            36.73
+          ],
+          "category": "natural features",
+          "arrive_at": "14:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 10,
+          "tip_5lang": {
+            "de": "Der Weg ist größtenteils flach, aber nehmen Sie Wasser mit. Halten Sie Ausschau nach Flamingos.",
+            "hu": "Az út többnyire sík, de vigyen magával vizet. Keresse a flamingókat.",
+            "ro": "Traseul este în mare parte plat, dar luați apă. Fiți cu ochii pe flamingo.",
+            "en": "The path is mostly flat, but bring water. Look out for flamingos."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Salinen",
+            "hu": "Sólepárlók",
+            "ro": "Salinele",
+            "en": "The Salt Pans"
+          },
+          "coords": [
+            -2.685,
+            36.735
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Ein faszinierender Einblick in die traditionelle Salzgewinnung der Region.",
+            "hu": "Lenyűgöző bepillantás a régió hagyományos sókitermelésébe.",
+            "ro": "O privire fascinantă asupra extracției tradiționale de sare din regiune.",
+            "en": "A fascinating glimpse into the region's traditional salt extraction."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet am belebten Strand Serena und führt Sie entlang der Küste. Am Morgen erreichen Sie das Aquarium, eine Oase der Ruhe und Kühle. Nach der Erkundung der Unterwasserwelt radeln Sie weiter zum historischen Herzen von Roquetas, dem Leuchtturm und der Burg, wo Sie zu Mittag essen. Der Nachmittag ist einem Abenteuer im Naturpark Punta Entinas-Sabinar gewidmet. Eine längere Fahrt bringt Sie zu den Salinen und unberührten Landschaften. Der Tag endet mit dem Gefühl der Freiheit, das nur eine Radtour entlang des Mittelmeers bieten kann.",
+        "hu": "A kerékpártúra a nyüzsgő Serena strandról indul, és a part mentén vezet. Reggel eléri az akváriumot, a béke és a hűvösség oázisát. A víz alatti világ felfedezése után továbbteker Roquetas történelmi szívébe, a világítótoronyhoz és a kastélyhoz, ahol megebédel. A délutánt a Punta Entinas-Sabinar Natúrparkban való kalandozásnak szenteli. Egy hosszabb út vezet a sólepárlókhoz és az érintetlen tájakhoz. A nap a szabadság érzésével zárul, amelyet csak egy földközi-tengeri kerékpártúra nyújthat.",
+        "ro": "Turul cu bicicleta începe de pe animata plajă Serena și vă poartă de-a lungul coastei. Dimineața ajungeți la acvariu, o oază de pace și răcoare. După explorarea lumii subacvatice, pedalați spre inima istorică a Roquetas, farul și castelul, unde luați prânzul. După-amiaza este dedicată unei aventuri în Parcul Natural Punta Entinas-Sabinar. O plimbare mai lungă vă duce la saline și peisaje virgine. Ziua se încheie cu sentimentul de libertate pe care numai o plimbare cu bicicleta de-a lungul Mediteranei îl poate oferi.",
+        "en": "Your bike tour starts at the lively Serena Beach and takes you along the coast. In the morning, you'll reach the aquarium, an oasis of peace and coolness. After exploring the underwater world, you'll pedal on to the historic heart of Roquetas, the lighthouse and castle, where you'll have lunch. The afternoon is dedicated to an adventure in the Punta Entinas-Sabinar Natural Park. A longer ride takes you to the salt pans and untouched landscapes. The day ends with the feeling of freedom that only a bike ride along the Mediterranean can offer."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bocadillo con Calamares",
+            "tip": "Ein herzhaftes Sandwich für unterwegs."
+          },
+          {
+            "name": "Tinto de Verano",
+            "tip": "Erfrischender Rotwein mit Limonade, perfekt nach einer Radtour."
+          },
+          {
+            "name": "Paella",
+            "tip": "Teilen Sie sich eine Meeresfrüchte-Paella in einem Restaurant am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bocadillo con Calamares",
+            "tip": "Egy kiadós szendvics útközben."
+          },
+          {
+            "name": "Tinto de Verano",
+            "tip": "Frissítő vörösbor limonádéval, tökéletes egy kerékpártúra után."
+          },
+          {
+            "name": "Paella",
+            "tip": "Osszon meg egy tenger gyümölcsei paellát egy kikötői étteremben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bocadillo con Calamares",
+            "tip": "Un sandviș consistent pentru drum."
+          },
+          {
+            "name": "Tinto de Verano",
+            "tip": "Vin roșu răcoritor cu limonadă, perfect după o tură cu bicicleta."
+          },
+          {
+            "name": "Paella",
+            "tip": "Împărțiți o paella cu fructe de mare la un restaurant din port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bocadillo con Calamares",
+            "tip": "A hearty sandwich for on the go."
+          },
+          {
+            "name": "Tinto de Verano",
+            "tip": "Refreshing red wine with lemonade, perfect after a bike ride."
+          },
+          {
+            "name": "Paella",
+            "tip": "Share a seafood paella at a restaurant in the port."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Punta Entinas-Sabinar",
+            "tip": "Die Stille der Feuchtgebiete ist einzigartig.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Versteckte Buchten",
+            "tip": "Suchen Sie nach kleinen, ruhigen Buchten abseits der Hauptstrände.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussicht vom Leuchtturm",
+            "tip": "Ein ruhiger Moment mit Blick auf das endlose Meer.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Punta Entinas-Sabinar",
+            "tip": "A vizes élőhelyek csendje egyedülálló.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Rejtett öblök",
+            "tip": "Keressen kis, csendes öblöket a fő strandoktól távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a világítótoronytól",
+            "tip": "Egy csendes pillanat a végtelen tengerre nézve.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punta Entinas-Sabinar",
+            "tip": "Liniștea zonelor umede este unică.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Golfuri ascunse",
+            "tip": "Căutați golfuri mici și liniștite, departe de plajele principale.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere de la far",
+            "tip": "Un moment de liniște cu vedere la marea nesfârșită.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Punta Entinas-Sabinar",
+            "tip": "The silence of the wetlands is unique.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hidden Coves",
+            "tip": "Look for small, quiet coves away from the main beaches.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from the Lighthouse",
+            "tip": "A quiet moment overlooking the endless sea.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradverleih-Shops",
+            "tip": "Viele bieten auch Zubehör und lokale Radkarten an."
+          },
+          {
+            "name": "Kunsthandwerk aus Almería",
+            "tip": "Suchen Sie nach Indalo-Symbolen, einem lokalen Glücksbringer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárkölcsönzők",
+            "tip": "Sokan kiegészítőket és helyi kerékpáros térképeket is kínálnak."
+          },
+          {
+            "name": "Almeríai kézművesség",
+            "tip": "Keresse az Indalo szimbólumokat, egy helyi szerencsehozót."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de închirieri biciclete",
+            "tip": "Multe oferă și accesorii și hărți locale pentru ciclism."
+          },
+          {
+            "name": "Artizanat din Almería",
+            "tip": "Căutați simboluri Indalo, un talisman norocos local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Rental Shops",
+            "tip": "Many also offer accessories and local cycling maps."
+          },
+          {
+            "name": "Crafts from Almería",
+            "tip": "Look for Indalo symbols, a local good luck charm."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad mit Gangschaltung für mehr Komfort.",
+          "Tragen Sie einen Helm und verwenden Sie Lichter, wenn Sie in der Dämmerung fahren.",
+          "Die Strandpromenade ist ideal für eine entspannte Fahrt.",
+          "Planen Sie Ihre Route im Voraus, besonders für den Ausflug in den Naturpark."
+        ],
+        "hu": [
+          "Béreljen váltós kerékpárt a nagyobb kényelem érdekében.",
+          "Viseljen sisakot, és használjon lámpát, ha szürkületben teker.",
+          "A tengerparti sétány ideális egy laza tekeréshez.",
+          "Tervezze meg előre az útvonalat, különösen a natúrparki kiránduláshoz."
+        ],
+        "ro": [
+          "Închiriați o bicicletă cu viteze pentru mai mult confort.",
+          "Purtați cască și folosiți lumini dacă pedalați la amurg.",
+          "Promenada de pe malul mării este ideală pentru o plimbare relaxată.",
+          "Planificați-vă traseul în avans, în special pentru excursia în parcul natural."
+        ],
+        "en": [
+          "Rent a bike with gears for more comfort.",
+          "Wear a helmet and use lights if riding at dusk.",
+          "The seaside promenade is ideal for a relaxed ride.",
+          "Plan your route in advance, especially for the trip to the natural park."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 24.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Naturpark Punta Entinas-Sabinar",
+            "hu": "Punta Entinas-Sabinar Natúrpark",
+            "ro": "Parcul Natural Punta Entinas-Sabinar",
+            "en": "Punta Entinas-Sabinar Natural Park"
+          },
+          "coords": [
+            -2.7,
+            36.73
+          ],
+          "category": "natural features",
+          "arrive_at": "09:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 10,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Eingang und machen Sie einen Spaziergang zu den Vogelbeobachtungshütten.",
+            "hu": "Parkoljon a bejáratnál, és sétáljon el a madármegfigyelő kunyhókhoz.",
+            "ro": "Parcați la intrare și faceți o plimbare până la observatoarele de păsări.",
+            "en": "Park at the entrance and take a walk to the bird-watching huts."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Salinen",
+            "hu": "Sólepárlók",
+            "ro": "Salinele",
+            "en": "The Salt Pans"
+          },
+          "coords": [
+            -2.685,
+            36.735
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz des Parks bietet eine großartige Aussicht.",
+            "hu": "Egy rövid séta a park parkolójából nagyszerű kilátást nyújt.",
+            "ro": "O scurtă plimbare de la parcarea parcului oferă vederi minunate.",
+            "en": "A short walk from the park's parking area offers great views."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquarium und Mario Park Bereich",
+            "hu": "Akvárium és Mario Park környéke",
+            "ro": "Zona Acvariului și a Parcului Mario",
+            "en": "Aquarium and Mario Park Area"
+          },
+          "coords": [
+            -2.634,
+            36.7505
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und besuchen Sie das Aquarium. Mario Park ist eher etwas für einen ganzen Tag.",
+            "hu": "Parkoljon le itt és látogassa meg az Akváriumot. A Mario Park inkább egész napos program.",
+            "ro": "Parcați aici și vizitați Acvariul. Parcul Mario este mai potrivit pentru o zi întreagă.",
+            "en": "Park here and visit the Aquarium. Mario Park is more for a full day trip."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Serena zum Mittagessen",
+            "hu": "Ebéd a Serena strandon",
+            "ro": "Prânz la Plaja Serena",
+            "en": "Lunch at Serena Beach"
+          },
+          "coords": [
+            -2.645,
+            36.741
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Viele Chiringuitos bieten frischen Fisch und Meerblick.",
+            "hu": "Számos chiringuito kínál friss halat és tengerre néző kilátást.",
+            "ro": "Multe chiringuitos oferă pește proaspăt și vedere la mare.",
+            "en": "Plenty of chiringuitos offer fresh fish and sea views."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Santa Ana",
+            "hu": "Santa Ana kastély",
+            "ro": "Castelul Santa Ana",
+            "en": "Castle of Santa Ana"
+          },
+          "coords": [
+            -2.6095,
+            36.7608
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Hafen und erkunden Sie den historischen Kern zu Fuß.",
+            "hu": "Parkoljon a kikötőben, és fedezze fel gyalog a történelmi központot.",
+            "ro": "Parcați în port și explorați centrul istoric pe jos.",
+            "en": "Park at the port and explore the historic core on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm und Hafen",
+            "hu": "Világítótorony és kikötő",
+            "ro": "Farul și Portul",
+            "en": "Lighthouse and Port"
+          },
+          "coords": [
+            -2.6085,
+            36.7601
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "17:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Tag mit einem Spaziergang am Pier ausklingen zu lassen.",
+            "hu": "Tökéletes hely a nap befejezéséhez egy sétával a mólón.",
+            "ro": "Locul perfect pentru a încheia ziua cu o plimbare pe dig.",
+            "en": "The perfect place to end the day with a stroll on the pier."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie die Vielfalt von Roquetas. Der Morgen beginnt mit der ruhigen Natur des Punta Entinas-Sabinar Parks, ein Kontrast zum lebhaften Stadtzentrum. Nach einem Spaziergang durch die Salinen fahren Sie zum Freizeitcluster, wo das Aquarium eine faszinierende Unterwasserwelt enthüllt und der Strand zum Mittagessen ruft. Am Nachmittag parken Sie im historischen Zentrum. Ein Spaziergang führt Sie zur majestätischen Burg Santa Ana und dem malerischen Leuchtturm. Der Tag endet im alten Hafen, wo die Fischerboote sanft im Abendlicht schaukeln.",
+        "hu": "Autóval felfedezheti Roquetas sokszínűségét. A reggel a Punta Entinas-Sabinar park csendes természetével kezdődik, amely kontrasztot alkot a nyüzsgő városközponttal. A sólepárlók közötti séta után az üdülőközponthoz hajt, ahol az akvárium lenyűgöző víz alatti világot tár fel, és a strand ebédre hív. Délután a történelmi központban parkol. Egy séta elvezeti a fenséges Santa Ana kastélyhoz és a festői világítótoronyhoz. A nap a régi kikötőben ér véget, ahol a halászhajók lágyan ringatóznak az esti fényben.",
+        "ro": "Cu mașina, explorați diversitatea din Roquetas. Dimineața începe cu natura liniștită a Parcului Punta Entinas-Sabinar, un contrast cu centrul vibrant al orașului. După o plimbare prin saline, conduceți spre clusterul de agrement, unde acvariul dezvăluie o lume subacvatică fascinantă, iar plaja vă cheamă la prânz. După-amiaza, parcați în centrul istoric. O plimbare vă duce la maiestuosul Castel Santa Ana și la farul pitoresc. Ziua se încheie în portul vechi, unde bărcile de pescuit se leagănă ușor în lumina serii.",
+        "en": "By car, you explore the diversity of Roquetas. The morning begins with the tranquil nature of Punta Entinas-Sabinar Park, a contrast to the lively city center. After a walk through the salt pans, you drive to the leisure cluster, where the aquarium reveals a fascinating underwater world and the beach calls for lunch. In the afternoon, you park in the historic center. A walk takes you to the majestic Santa Ana Castle and the picturesque lighthouse. The day ends in the old port, where fishing boats gently rock in the evening light."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Arroz Negro",
+            "tip": "Schwarzer Reis mit Tintenfisch, eine Spezialität der Küste."
+          },
+          {
+            "name": "Fritura Malagueña",
+            "tip": "Eine Platte mit verschiedenen frittierten Fischen und Meeresfrüchten."
+          },
+          {
+            "name": "Migas",
+            "tip": "Ein traditionelles Gericht aus Brotkrumen, oft mit Fisch oder Chorizo serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arroz Negro",
+            "tip": "Fekete rizs tintahallal, tengerparti specialitás."
+          },
+          {
+            "name": "Fritura Malagueña",
+            "tip": "Tányér vegyes sült halakkal és tenger gyümölcseivel."
+          },
+          {
+            "name": "Migas",
+            "tip": "Hagyományos étel zsemlemorzsából, gyakran hallal vagy chorizoval tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arroz Negro",
+            "tip": "Orez negru cu calamar, o specialitate de pe coastă."
+          },
+          {
+            "name": "Fritura Malagueña",
+            "tip": "Un platou cu diverse specii de pește prăjit și fructe de mare."
+          },
+          {
+            "name": "Migas",
+            "tip": "Un fel de mâncare tradițional din pesmet, adesea servit cu pește sau chorizo."
+          }
+        ],
+        "en": [
+          {
+            "name": "Arroz Negro",
+            "tip": "Black rice with squid, a coastal specialty."
+          },
+          {
+            "name": "Fritura Malagueña",
+            "tip": "A platter of mixed fried fish and seafood."
+          },
+          {
+            "name": "Migas",
+            "tip": "A traditional dish of breadcrumbs, often served with fish or chorizo."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt im Naturpark",
+            "tip": "Genießen Sie die Stille und den Panoramablick.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sonnenuntergang am Strand von Cerrillos",
+            "tip": "Ein abgelegenerer Strand im Naturpark.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gärten um die Burg",
+            "tip": "Ein ruhiger Ort für eine kurze Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátó a natúrparkban",
+            "tip": "Élvezze a csendet és a panorámás kilátást.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Naplemente a Cerrillos strandon",
+            "tip": "Egy eldugottabb strand a natúrparkban.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kertek a kastély körül",
+            "tip": "Egy csendes hely egy rövid szünetre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere în parcul natural",
+            "tip": "Bucurați-vă de liniște și de vederea panoramică.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Apus de soare pe plaja Cerrillos",
+            "tip": "O plajă mai retrasă în parcul natural.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile din jurul castelului",
+            "tip": "Un loc liniștit pentru o scurtă pauză.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint in the Natural Park",
+            "tip": "Enjoy the silence and the panoramic view.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sunset at Cerrillos Beach",
+            "tip": "A more secluded beach within the natural park.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gardens around the Castle",
+            "tip": "A quiet spot for a short break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gran Plaza Einkaufszentrum",
+            "tip": "Für eine größere Auswahl an Geschäften, etwas außerhalb des Zentrums."
+          },
+          {
+            "name": "Olivenöl aus Almería",
+            "tip": "Suchen Sie nach lokal produziertem nativem Olivenöl extra."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gran Plaza bevásárlóközpont",
+            "tip": "Nagyobb üzletválasztékért, kissé a központon kívül."
+          },
+          {
+            "name": "Almeríai olívaolaj",
+            "tip": "Keressen helyben termelt extra szűz olívaolajat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Gran Plaza",
+            "tip": "Pentru o selecție mai largă de magazine, puțin în afara centrului."
+          },
+          {
+            "name": "Ulei de măsline din Almería",
+            "tip": "Căutați ulei de măsline extravirgin produs local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gran Plaza Shopping Centre",
+            "tip": "For a wider selection of shops, slightly outside the center."
+          },
+          {
+            "name": "Olive Oil from Almería",
+            "tip": "Look for locally produced extra virgin olive oil."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken kann im Sommer eine Herausforderung sein; nutzen Sie ausgewiesene Parkplätze.",
+          "Beachten Sie die Geschwindigkeitsbegrenzungen, besonders in Wohngebieten.",
+          "Ein GPS ist hilfreich, um die verschiedenen Bereiche der Stadt zu finden.",
+          "Kombinieren Sie Autofahrten mit Spaziergängen, um das Beste aus Ihrem Besuch zu machen."
+        ],
+        "hu": [
+          "A parkolás nyáron kihívást jelenthet; használja a kijelölt parkolókat.",
+          "Tartsa be a sebességkorlátozásokat, különösen lakóövezetekben.",
+          "GPS hasznos a város különböző területeinek megtalálásához.",
+          "Kombinálja az autózást sétákkal, hogy a legtöbbet hozza ki a látogatásból."
+        ],
+        "ro": [
+          "Parcarea poate fi o provocare în timpul verii; folosiți parcările desemnate.",
+          "Respectați limitele de viteză, în special în zonele rezidențiale.",
+          "Un GPS este util pentru a găsi diferitele zone ale orașului.",
+          "Combinați condusul cu plimbările pentru a profita la maximum de vizită."
+        ],
+        "en": [
+          "Parking can be a challenge in summer; use designated car parks.",
+          "Respect the speed limits, especially in residential areas.",
+          "A GPS is helpful for finding the different areas of the city.",
+          "Combine driving with walking to make the most of your visit."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 8.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Stierkampfarena von Roquetas",
+            "hu": "Roquetas-i bikaviadal-aréna",
+            "ro": "Arena de coride din Roquetas",
+            "en": "Bullring of Roquetas"
+          },
+          "coords": [
+            -2.6198,
+            36.7751
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus ins Stadtzentrum, die Arena ist ein guter Ausgangspunkt.",
+            "hu": "Menjen busszal a városközpontba, az aréna jó kiindulópont.",
+            "ro": "Luați un autobuz spre centrul orașului, arena este un bun punct de plecare.",
+            "en": "Take a bus to the city center, the arena is a good starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Santa Ana",
+            "hu": "Santa Ana kastély",
+            "ro": "Castelul Santa Ana",
+            "en": "Castle of Santa Ana"
+          },
+          "coords": [
+            -2.6095,
+            36.7608
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein angenehmer Spaziergang von der Arena durch die Straßen der Stadt.",
+            "hu": "Kellemes séta az arénától a város utcáin keresztül.",
+            "ro": "O plimbare plăcută de la arenă pe străzile orașului.",
+            "en": "A pleasant walk from the arena through the city streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm und Hafen zum Mittagessen",
+            "hu": "Ebéd a világítótoronynál és a kikötőben",
+            "ro": "Prânz la far și în port",
+            "en": "Lunch at the Lighthouse and Port"
+          },
+          "coords": [
+            -2.6085,
+            36.7601
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Viele Restaurants im Hafen bieten Tagesmenüs (Menú del Día) an.",
+            "hu": "Sok kikötői étterem kínál napi menüt (Menú del Día).",
+            "ro": "Multe restaurante din port oferă meniuri ale zilei (Menú del Día).",
+            "en": "Many restaurants in the port offer a daily menu (Menú del Día)."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquarium Roquetas de Mar",
+            "hu": "Roquetas de Mar Akvárium",
+            "ro": "Acvariul Roquetas de Mar",
+            "en": "Aquarium Roquetas de Mar"
+          },
+          "coords": [
+            -2.634,
+            36.7505
+          ],
+          "category": "natural features",
+          "arrive_at": "13:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in Richtung Urbanización Playa Serena.",
+            "hu": "Menjen busszal az Urbanización Playa Serena irányába.",
+            "ro": "Luați un autobuz spre Urbanización Playa Serena.",
+            "en": "Take a bus towards Urbanización Playa Serena."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Serena",
+            "hu": "Serena strand",
+            "ro": "Plaja Serena",
+            "en": "Serena Beach"
+          },
+          "coords": [
+            -2.645,
+            36.741
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:45",
+          "stay_min": 160,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie sich nach dem Aquarium-Besuch am breiten Sandstrand.",
+            "hu": "Pihenjen az akvárium látogatása után a széles homokos strandon.",
+            "ro": "Relaxați-vă pe plaja largă de nisip după vizita la acvariu.",
+            "en": "Relax on the wide sandy beach after the aquarium visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln erkunden Sie Roquetas in zwei Clustern. Sie beginnen im Stadtzentrum bei der Stierkampfarena und spazieren dann zum historischen Hafencluster, wo die Burg und der Leuchtturm warten. Nach einem Mittagessen am Meer bringt Sie ein Bus in die Hotelzone. Dort tauchen Sie im Aquarium in die Unterwasserwelt ein. Der Rest des Nachmittags gehört dem Strand Serena, wo Sie sich entspannen, sonnen und das mediterrane Leben genießen, bevor Sie den Bus zurücknehmen.",
+        "hu": "Tömegközlekedéssel két klaszterben fedezi fel Roquetas-t. A városközpontban, a bikaviadal-arénánál kezdi, majd átsétál a történelmi kikötői klaszterbe, ahol a vár és a világítótorony várja. A tengerparti ebéd után busz viszi a szállodai zónába. Ott elmerül az akvárium víz alatti világában. A délután hátralévő része a Serena strandé, ahol pihenhet, napozhat és élvezheti a mediterrán életet, mielőtt visszaindulna a busszal.",
+        "ro": "Cu transportul public, explorați Roquetas în două clustere. Începeți în centrul orașului la arena de coride, apoi vă plimbați spre clusterul portului istoric, unde vă așteaptă castelul și farul. După un prânz pe malul mării, un autobuz vă duce în zona hotelieră. Acolo, vă scufundați în lumea subacvatică la acvariu. Restul după-amiezii este pentru plaja Serena, unde vă relaxați, faceți plajă și vă bucurați de viața mediteraneană înainte de a lua autobuzul înapoi.",
+        "en": "Using public transport, you'll explore Roquetas in two clusters. You start in the city center at the bullring, then walk to the historic port cluster where the castle and lighthouse await. After lunch by the sea, a bus takes you to the hotel zone. There, you'll dive into the underwater world at the aquarium. The rest of the afternoon is for Serena Beach, where you can relax, sunbathe, and enjoy the Mediterranean life before taking the bus back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tapas-Hopping",
+            "tip": "Probieren Sie verschiedene kleine Gerichte in den Bars nahe der Bushaltestellen."
+          },
+          {
+            "name": "Helado Artesanal",
+            "tip": "Gönnen Sie sich ein handgemachtes Eis an der Strandpromenade."
+          },
+          {
+            "name": "Menú del Día",
+            "tip": "Ein günstiges 3-Gänge-Mittagsmenü, das in vielen Restaurants angeboten wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tapas-túrázás",
+            "tip": "Kóstoljon meg különböző kis ételeket a buszmegállók közelében lévő bárokban."
+          },
+          {
+            "name": "Kézműves fagylalt",
+            "tip": "Kényeztesse magát egy kézműves fagylalttal a tengerparti sétányon."
+          },
+          {
+            "name": "Napi menü (Menú del Día)",
+            "tip": "Olcsó, 3 fogásos ebédmenü, amelyet sok étterem kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Turas de tapas",
+            "tip": "Încercați diverse feluri de mâncare mici în barurile de lângă stațiile de autobuz."
+          },
+          {
+            "name": "Înghețată artizanală",
+            "tip": "Răsfățați-vă cu o înghețată artizanală pe promenada de pe plajă."
+          },
+          {
+            "name": "Meniul zilei (Menú del Día)",
+            "tip": "Un meniu de prânz ieftin, cu 3 feluri, oferit de multe restaurante."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tapas Hopping",
+            "tip": "Try different small dishes in the bars near the bus stops."
+          },
+          {
+            "name": "Artisanal Ice Cream",
+            "tip": "Treat yourself to a handmade ice cream on the beach promenade."
+          },
+          {
+            "name": "Menú del Día",
+            "tip": "An affordable 3-course lunch menu offered by many restaurants."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Am Ende der Hafenmole sitzen",
+            "tip": "Beobachten Sie das Meer und die fernen Berge.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ein Spaziergang durch die Nebenstraßen",
+            "tip": "Entdecken Sie das authentische Leben abseits der Touristenpfade.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Playa de las Salinas",
+            "tip": "Ein ruhigerer Strandabschnitt, mit dem Bus erreichbar.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Üldögélés a kikötői móló végén",
+            "tip": "Nézze a tengert és a távoli hegyeket.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Séta a mellékutcákban",
+            "tip": "Fedezze fel az autentikus életet a turistaösvényeken kívül.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Playa de las Salinas",
+            "tip": "Egy csendesebb strandszakasz, busszal elérhető.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stând la capătul digului portului",
+            "tip": "Priviți marea și munții îndepărtați.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "O plimbare pe străzile lăturalnice",
+            "tip": "Descoperiți viața autentică departe de cărările turistice.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plaja de las Salinas",
+            "tip": "O secțiune de plajă mai liniștită, accesibilă cu autobuzul.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sitting at the end of the port jetty",
+            "tip": "Watch the sea and the distant mountains.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A walk through the side streets",
+            "tip": "Discover authentic life away from the tourist trails.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Playa de las Salinas",
+            "tip": "A quieter stretch of beach, accessible by bus.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirläden im Hafen",
+            "tip": "Finden Sie maritime Andenken und Postkarten."
+          },
+          {
+            "name": "Wochenmarkt (Jueves)",
+            "tip": "Donnerstags findet ein großer Markt statt, der mit dem Bus leicht zu erreichen ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvenírboltok a kikötőben",
+            "tip": "Találjon tengeri emléktárgyakat és képeslapokat."
+          },
+          {
+            "name": "Heti piac (csütörtök)",
+            "tip": "Csütörtökönként nagy piac van, amely busszal könnyen megközelíthető."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de suveniruri în port",
+            "tip": "Găsiți suveniruri maritime și cărți poștale."
+          },
+          {
+            "name": "Piața săptămânală (Jueves)",
+            "tip": "Joia are loc o piață mare, ușor accesibilă cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir shops in the port",
+            "tip": "Find maritime souvenirs and postcards."
+          },
+          {
+            "name": "Weekly Market (Jueves)",
+            "tip": "A large market is held on Thursdays, easily accessible by bus."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine wiederaufladbare Buskarte (bonobús) für günstigere Tarife.",
+          "Überprüfen Sie den Busfahrplan im Voraus, besonders für die letzte Rückfahrt.",
+          "Die meisten Busse sind klimatisiert, was im Sommer eine Erleichterung ist.",
+          "Halten Sie Kleingeld für Tickets bereit, falls Sie direkt beim Fahrer kaufen."
+        ],
+        "hu": [
+          "Vásároljon feltölthető buszkártyát (bonobús) az olcsóbb viteldíjakért.",
+          "Ellenőrizze előre a buszmenetrendet, különösen az utolsó visszautat.",
+          "A legtöbb busz légkondicionált, ami nyáron megkönnyebbülés.",
+          "Tartson aprópénzt a jegyekhez, ha közvetlenül a sofőrnél vásárol."
+        ],
+        "ro": [
+          "Cumpărați o cartelă de autobuz reîncărcabilă (bonobús) pentru tarife mai ieftine.",
+          "Verificați programul autobuzelor în avans, în special pentru ultima călătorie de întoarcere.",
+          "Majoritatea autobuzelor au aer condiționat, ceea ce este o ușurare vara.",
+          "Păstrați mărunțiș pentru bilete dacă cumpărați direct de la șofer."
+        ],
+        "en": [
+          "Buy a rechargeable bus card (bonobús) for cheaper fares.",
+          "Check the bus schedule in advance, especially for the last return trip.",
+          "Most buses are air-conditioned, which is a relief in summer.",
+          "Keep small change ready for tickets if you buy directly from the driver."
+        ]
+      }
+    }
+  }
+}

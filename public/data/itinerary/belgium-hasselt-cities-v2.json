@@ -1,0 +1,1284 @@
+{
+  "city_id": "belgium-hasselt-cities-v2",
+  "anchor": {
+    "name": "Hasselt",
+    "coords": [
+      5.3325,
+      50.9307
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Grote Markt",
+            "hu": "Fő tér (Grote Markt)",
+            "ro": "Grote Markt (Piața Mare)",
+            "en": "Grote Markt (Main Square)"
+          },
+          "coords": [
+            5.3375,
+            50.9312
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee in einem der vielen Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik hangulatos kávézójában.",
+            "ro": "Începeți ziua cu o cafea la una dintre numeroasele cafenele din piață.",
+            "en": "Start your day with a coffee at one of the many cafés lining the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt-Quintinus-Kathedrale",
+            "hu": "Szent Kventin-katedrális",
+            "ro": "Catedrala Sfântul Quintinus",
+            "en": "Saint Quentin's Cathedral"
+          },
+          "coords": [
+            5.3362,
+            50.9305
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besteigen Sie den Turm für eine großartige Aussicht über die Stadt.",
+            "hu": "Másszon fel a toronyba a városra nyíló nagyszerű kilátásért.",
+            "ro": "Urcați în turn pentru o priveliște minunată asupra orașului.",
+            "en": "Climb the tower for a great view over the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Modemuseum Hasselt",
+            "hu": "Hasselti Divatmúzeum",
+            "ro": "Muzeul Modei din Hasselt",
+            "en": "Modemuseum Hasselt (Fashion Museum)"
+          },
+          "coords": [
+            5.3381,
+            50.9295
+          ],
+          "category": "museums",
+          "arrive_at": "11:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Überprüfen Sie die aktuellen Ausstellungen online, sie sind oft außergewöhnlich.",
+            "hu": "Nézze meg online az aktuális kiállításokat, gyakran rendkívüliek.",
+            "ro": "Verificați online expozițiile curente, sunt adesea excepționale.",
+            "en": "Check the current exhibitions online, they are often exceptional."
+          }
+        },
+        {
+          "name": {
+            "de": "Jenevermuseum",
+            "hu": "Jenever Múzeum",
+            "ro": "Muzeul Jeneverului",
+            "en": "Jenever Museum"
+          },
+          "coords": [
+            5.333,
+            50.9328
+          ],
+          "category": "museums",
+          "arrive_at": "13:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Verkostung teil, um den lokalen Geist zu probieren.",
+            "hu": "Vegyen részt egy kóstolón, hogy megízlelje a helyi párlatot.",
+            "ro": "Participați la o degustare pentru a încerca băutura locală.",
+            "en": "Participate in a tasting session to sample the local spirit."
+          }
+        },
+        {
+          "name": {
+            "de": "Virga Jesse Basilika",
+            "hu": "Virga Jesse-bazilika",
+            "ro": "Bazilica Virga Jesse",
+            "en": "Virga Jesse Basilica"
+          },
+          "coords": [
+            5.339,
+            50.93
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die prächtigen Buntglasfenster und die ruhige Atmosphäre.",
+            "hu": "Figyelje meg a csodálatos ólomüveg ablakokat és a csendes légkört.",
+            "ro": "Admirați vitraliile magnifice și atmosfera liniștită.",
+            "en": "Pay attention to the magnificent stained-glass windows and the serene atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Hasselt beginnt am belebten Grote Markt, dem Herzen der Stadt. Am Vormittag erkunden Sie die geistliche Pracht der Sankt-Quintinus-Kathedrale. Der Nachmittag ist der Kultur gewidmet, mit Besuchen im Modemuseum und im Jenevermuseum, wo Sie in die Modegeschichte und die Welt des belgischen Gins eintauchen. Sie beenden Ihren Spaziergang mit einem Moment der Besinnung in der wunderschönen Virga-Jesse-Basilika.",
+        "hu": "A hasselti nap a nyüzsgő Grote Markton, a város szívében kezdődik. A délelőttöt a Szent Kventin-katedrális spirituális pompájának felfedezésével tölti. A délután a kultúráé, a Divatmúzeum és a Jenever Múzeum meglátogatásával, elmerülve a divattörténetben és a belga gin világában. Sétáját egy csendes elmélkedéssel zárja a gyönyörű Virga Jesse-bazilikában.",
+        "ro": "Ziua dvs. în Hasselt începe în animata Grote Markt, inima orașului. Dimineața explorați splendoarea spirituală a Catedralei Sfântul Quintinus. După-amiaza este dedicată culturii, cu vizite la Muzeul Modei și Muzeul Jeneverului, aprofundând istoria modei și lumea ginului belgian. Încheiați plimbarea cu un moment de reflecție la frumoasa Bazilică Virga Jesse.",
+        "en": "Your day in Hasselt begins at the bustling Grote Markt, the heart of the city. In the morning, you'll explore the spiritual grandeur of Saint Quentin's Cathedral. The afternoon is dedicated to culture with visits to the Fashion Museum and the Jenever Museum, delving into fashion history and the world of Belgian gin. You'll end your walk with a moment of reflection at the beautiful Virga Jesse Basilica."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hasseltse speculaas",
+            "tip": "Probieren Sie diesen einzigartigen, dicken und würzigen Keks, eine lokale Spezialität."
+          },
+          {
+            "name": "Jenever",
+            "tip": "Ein Muss in Hasselt; probieren Sie verschiedene Geschmacksrichtungen im Jenevermuseum."
+          },
+          {
+            "name": "De Kwizien",
+            "tip": "Ein hoch bewertetes Restaurant für ein feines belgisches Speiseerlebnis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hasselti speculaas",
+            "tip": "Kóstolja meg ezt az egyedi, vastag és fűszeres kekszet, ami helyi specialitás."
+          },
+          {
+            "name": "Jenever",
+            "tip": "Kötelező Hasseltben; kóstoljon meg különböző ízeket a Jenever Múzeumban."
+          },
+          {
+            "name": "De Kwizien",
+            "tip": "Magasra értékelt étterem egy finom belga gasztronómiai élményért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Speculaas de Hasselt",
+            "tip": "Încercați acest biscuit unic, gros și condimentat, o specialitate locală."
+          },
+          {
+            "name": "Jenever",
+            "tip": "O necesitate în Hasselt; încercați diferite arome la Muzeul Jeneverului."
+          },
+          {
+            "name": "De Kwizien",
+            "tip": "Un restaurant foarte apreciat pentru o experiență culinară belgiană rafinată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hasseltse speculaas",
+            "tip": "Try this unique, thick, and chewy spiced biscuit, a local specialty."
+          },
+          {
+            "name": "Jenever",
+            "tip": "A must-try in Hasselt; sample different flavors at the Jenever Museum."
+          },
+          {
+            "name": "De Kwizien",
+            "tip": "A highly-rated restaurant for a fine Belgian dining experience."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Begijnhof",
+            "tip": "Ein ruhiger, historischer Innenhof, perfekt für einen friedlichen Spaziergang.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Stadspark",
+            "tip": "Entspannen Sie sich auf einer Bank und genießen Sie die grüne Oase im Stadtzentrum.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Beginaudvar (Begijnhof)",
+            "tip": "Egy csendes, történelmi udvar, tökéletes egy békés sétához.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Városi park (Stadspark)",
+            "tip": "Pihenjen meg egy padon, és élvezze a zöld oázist a városközpontban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Begijnhof",
+            "tip": "O curte istorică liniștită, perfectă pentru o plimbare pașnică.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Stadspark",
+            "tip": "Relaxați-vă pe o bancă și bucurați-vă de oaza de verdeață din centrul orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Begijnhof (Beguinage)",
+            "tip": "A quiet, historic courtyard perfect for a peaceful stroll.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Stadspark (City Park)",
+            "tip": "Relax on a bench and enjoy the green oasis in the city center.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Demerstraat & Koning Albertstraat",
+            "tip": "Die Haupteinkaufsstraßen mit einer Mischung aus bekannten Marken und lokalen Geschäften."
+          },
+          {
+            "name": "Hasseltse speculaas",
+            "tip": "Kaufen Sie eine Schachtel dieser berühmten Kekse als köstliches Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Demerstraat & Koning Albertstraat",
+            "tip": "A fő bevásárlóutcák ismert márkák és helyi üzletek keverékével."
+          },
+          {
+            "name": "Hasselti speculaas",
+            "tip": "Vásároljon egy dobozzal ezekből a híres kekszekből finom szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Demerstraat & Koning Albertstraat",
+            "tip": "Principalele străzi comerciale cu un amestec de mărci cunoscute și magazine locale."
+          },
+          {
+            "name": "Speculaas de Hasselt",
+            "tip": "Cumpărați o cutie din acești biscuiți faimoși ca un suvenir delicios."
+          }
+        ],
+        "en": [
+          {
+            "name": "Demerstraat & Koning Albertstraat",
+            "tip": "The main shopping streets with a mix of well-known brands and local shops."
+          },
+          {
+            "name": "Hasseltse speculaas",
+            "tip": "Buy a box of these famous biscuits as a delicious souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den größten Teil des Tages auf Kopfsteinpflaster laufen werden.",
+          "Die meisten Museen sind montags geschlossen, planen Sie entsprechend.",
+          "Hasselt ist bekannt als die 'Hauptstadt des Geschmacks', also lassen Sie Platz für kulinarische Genüsse.",
+          "Ein Stadtplan vom Tourismusbüro am Grote Markt kann sehr nützlich sein."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a nap nagy részében macskaköves utakon fog sétálni.",
+          "A legtöbb múzeum hétfőn zárva tart, tervezzen ennek megfelelően.",
+          "Hasseltet az 'Ízek fővárosaként' ismerik, ezért hagyjon helyet a kulináris élvezeteknek.",
+          "A Grote Markton található turisztikai irodából beszerzett várostérkép nagyon hasznos lehet."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge pe străzi pavate în cea mai mare parte a zilei.",
+          "Majoritatea muzeelor sunt închise lunea, planificați-vă în consecință.",
+          "Hasselt este cunoscut drept 'Capitala Gustului', așa că lăsați loc pentru delicii culinare.",
+          "O hartă a orașului de la biroul de turism din Grote Markt poate fi foarte utilă."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be walking on cobblestone streets for most of the day.",
+          "Most museums are closed on Mondays, so plan accordingly.",
+          "Hasselt is known as the 'Capital of Taste', so leave some room for culinary treats.",
+          "A city map from the tourist office on Grote Markt can be very helpful."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 9.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Grote Markt",
+            "hu": "Fő tér (Grote Markt)",
+            "ro": "Grote Markt (Piața Mare)",
+            "en": "Grote Markt (Main Square)"
+          },
+          "coords": [
+            5.3375,
+            50.9312
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab und genießen Sie die Atmosphäre des Platzes.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és élvezze a tér hangulatát.",
+            "ro": "Asigurați-vă bicicleta și bucurați-vă de atmosfera pieței.",
+            "en": "Lock your bike securely and enjoy the atmosphere of the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Jenevermuseum",
+            "hu": "Jenever Múzeum",
+            "ro": "Muzeul Jeneverului",
+            "en": "Jenever Museum"
+          },
+          "coords": [
+            5.333,
+            50.9328
+          ],
+          "category": "museums",
+          "arrive_at": "09:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Planen Sie Ihren Besuch so, dass Sie nach der Verkostung nicht sofort wieder radeln müssen.",
+            "hu": "Tervezze úgy a látogatást, hogy a kóstoló után ne kelljen azonnal bicikliznie.",
+            "ro": "Planificați-vă vizita astfel încât să nu trebuiască să pedalați imediat după degustare.",
+            "en": "Plan your visit so you don't have to cycle again immediately after the tasting."
+          }
+        },
+        {
+          "name": {
+            "de": "Modemuseum Hasselt",
+            "hu": "Hasselti Divatmúzeum",
+            "ro": "Muzeul Modei din Hasselt",
+            "en": "Modemuseum Hasselt (Fashion Museum)"
+          },
+          "coords": [
+            5.3381,
+            50.9295
+          ],
+          "category": "museums",
+          "arrive_at": "11:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein Muss für Mode- und Designliebhaber.",
+            "hu": "A divat és a design szerelmeseinek kötelező.",
+            "ro": "O vizită obligatorie pentru iubitorii de modă și design.",
+            "en": "A must-visit for fashion and design enthusiasts."
+          }
+        },
+        {
+          "name": {
+            "de": "Japanischer Garten",
+            "hu": "Japánkert",
+            "ro": "Grădina Japoneză",
+            "en": "Japanese Garden"
+          },
+          "coords": [
+            5.366,
+            50.936
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der perfekte Ort für ein Mittagspicknick und eine Pause vom Stadtzentrum.",
+            "hu": "Tökéletes hely egy ebédpiknikhez és egy kis pihenéshez a városközponttól távol.",
+            "ro": "Locul perfect pentru un picnic la prânz și o pauză de la centrul orașului.",
+            "en": "The perfect spot for a lunch picnic and a break from the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt-Quintinus-Kathedrale",
+            "hu": "Szent Kventin-katedrális",
+            "ro": "Catedrala Sfântul Quintinus",
+            "en": "Saint Quentin's Cathedral"
+          },
+          "coords": [
+            5.3362,
+            50.9305
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einem Besuch dieses Wahrzeichens im Herzen der Stadt.",
+            "hu": "Fejezze be a kerékpártúrát a város szívében található nevezetesség meglátogatásával.",
+            "ro": "Încheiați-vă turul cu bicicleta cu o vizită la acest punct de reper din inima orașului.",
+            "en": "End your bike tour with a visit to this landmark in the heart of the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour durch Hasselt beginnt am Grote Markt, bevor Sie zu den kulturellen Höhepunkten der Stadt radeln: dem Jenevermuseum und dem Modemuseum. Am Mittag fahren Sie zum ruhigen Japanischen Garten, einer Oase der Ruhe außerhalb des Zentrums. Am Nachmittag kehren Sie ins Herz der Stadt zurück, um die beeindruckende Sankt-Quintinus-Kathedrale zu bewundern. Diese Route kombiniert städtisches Flair mit entspannender Natur.",
+        "hu": "A hasselti kerékpártúra a Grote Marktról indul, mielőtt a város kulturális fénypontjaihoz, a Jenever Múzeumhoz és a Divatmúzeumhoz teker. Délben a nyugodt Japánkert felé veszi az irányt, amely a békesség oázisa a központon kívül. Délután visszatér a város szívébe, hogy megcsodálja a lenyűgöző Szent Kventin-katedrálist. Ez az útvonal a városi hangulatot a pihentető természettel ötvözi.",
+        "ro": "Turul cu bicicleta prin Hasselt începe la Grote Markt înainte de a pedala spre atracțiile culturale ale orașului: Muzeul Jeneverului și Muzeul Modei. La prânz, vă îndreptați spre senina Grădină Japoneză, o oază de liniște în afara centrului. După-amiaza, vă întoarceți în inima orașului pentru a admira impunătoarea Catedrală Sfântul Quintinus. Acest traseu combină atmosfera urbană cu natura relaxantă.",
+        "en": "Your cycling tour of Hasselt kicks off at the Grote Markt before you pedal to the city's cultural highlights: the Jenever Museum and the Fashion Museum. At midday, you'll head to the serene Japanese Garden, an oasis of tranquility outside the center. In the afternoon, you return to the heart of the city to admire the impressive Saint Quentin's Cathedral. This route combines urban flair with relaxing nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Boulebaar",
+            "tip": "Ein trendiger Ort für ein gesundes Mittagessen oder einen Kaffee in der Nähe des Stadtzentrums."
+          },
+          {
+            "name": "Limburgse vlaai",
+            "tip": "Auch wenn es eine Spezialität aus der gesamten Provinz ist, finden Sie in Hasselt ausgezeichnete Bäckereien dafür."
+          },
+          {
+            "name": "Ogst",
+            "tip": "Ein mit einem Michelin-Stern ausgezeichnetes Restaurant für ein unvergessliches Abendessen nach der Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boulebaar",
+            "tip": "Trendi hely egy egészséges ebédre vagy kávéra a városközpont közelében."
+          },
+          {
+            "name": "Limburgi vlaai",
+            "tip": "Bár ez az egész tartomány specialitása, Hasseltben kiváló pékségeket talál hozzá."
+          },
+          {
+            "name": "Ogst",
+            "tip": "Michelin-csillagos étterem egy emlékezetes vacsorához a kerékpártúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boulebaar",
+            "tip": "Un loc la modă pentru un prânz sănătos sau o cafea aproape de centrul orașului."
+          },
+          {
+            "name": "Limburgse vlaai",
+            "tip": "Deși este o specialitate din întreaga provincie, veți găsi brutării excelente pentru ea în Hasselt."
+          },
+          {
+            "name": "Ogst",
+            "tip": "Un restaurant cu stea Michelin pentru o cină memorabilă după turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boulebaar",
+            "tip": "A trendy spot for a healthy lunch or coffee near the city center."
+          },
+          {
+            "name": "Limburgse vlaai",
+            "tip": "Although a specialty from the whole province, you'll find excellent bakeries for it in Hasselt."
+          },
+          {
+            "name": "Ogst",
+            "tip": "A Michelin-starred restaurant for a memorable dinner after your bike tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Japanischer Garten",
+            "tip": "Der Inbegriff der Ruhe. Verbringen Sie Zeit am Koi-Teich.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kanalufer",
+            "tip": "Eine Radtour entlang des Albertkanals bietet eine friedliche Flucht aus der Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Japánkert",
+            "tip": "A nyugalom megtestesítője. Töltsön időt a koi-tónál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Csatornapart",
+            "tip": "Az Albert-csatorna mentén tett kerékpártúra békés kikapcsolódást nyújt a városból.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Japoneză",
+            "tip": "Întruchiparea liniștii. Petreceți timp lângă iazul cu crapi koi.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul canalului",
+            "tip": "O plimbare cu bicicleta de-a lungul Canalului Albert oferă o evadare pașnică din oraș.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Japanese Garden",
+            "tip": "The epitome of tranquility. Spend time by the koi pond.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Canal bank",
+            "tip": "A cycle along the Albert Canal offers a peaceful escape from the city.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fietsen-Geschäfte",
+            "tip": "Hasselt hat mehrere gute Fahrradläden für Zubehör oder sogar ein neues Fahrrad."
+          },
+          {
+            "name": "Lokale Märkte",
+            "tip": "Schauen Sie nach Wochenmärkten für frische Produkte, die Sie in Ihren Fahrradkorb packen können."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Hasseltben több jó kerékpárbolt is található kiegészítőkért vagy akár egy új kerékpárért."
+          },
+          {
+            "name": "Helyi piacok",
+            "tip": "Nézzen szét a heti piacokon friss termékekért, amiket a kerékpárkosárba tehet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Hasselt are mai multe magazine bune de biciclete pentru accesorii sau chiar o bicicletă nouă."
+          },
+          {
+            "name": "Piețe locale",
+            "tip": "Căutați piețele săptămânale pentru produse proaspete pe care să le puneți în coșul bicicletei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shops",
+            "tip": "Hasselt has several good bike shops for accessories or even a new bike."
+          },
+          {
+            "name": "Local markets",
+            "tip": "Check for weekly markets for fresh produce to pack in your bike basket."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Hasselt ist eine fahrradfreundliche Stadt, aber achten Sie im Zentrum auf Fußgänger.",
+          "Nutzen Sie das Knotenpunktsystem (knooppunten) für einfache Navigation auf den Radwegen.",
+          "Ein gutes Schloss ist unerlässlich, besonders wenn Sie Ihr Fahrrad für längere Zeit abstellen.",
+          "Prüfen Sie den Reifendruck, bevor Sie losfahren."
+        ],
+        "hu": [
+          "Hasselt kerékpárbarát város, de a központban figyeljen a gyalogosokra.",
+          "Használja a csomópontrendszert (knooppunten) a kerékpárutakon való egyszerű navigációhoz.",
+          "Egy jó lakat elengedhetetlen, különösen, ha hosszabb időre hagyja ott a kerékpárját.",
+          "Indulás előtt ellenőrizze a guminyomást."
+        ],
+        "ro": [
+          "Hasselt este un oraș prietenos cu bicicletele, dar fiți atenți la pietoni în centru.",
+          "Utilizați sistemul de noduri (knooppunten) pentru o navigație ușoară pe pistele de biciclete.",
+          "Un lacăt bun este esențial, mai ales când lăsați bicicleta nesupravegheată pentru perioade mai lungi.",
+          "Verificați presiunea în anvelope înainte de a porni la drum."
+        ],
+        "en": [
+          "Hasselt is a bike-friendly city, but be mindful of pedestrians in the center.",
+          "Use the junction network system (knooppunten) for easy navigation on the cycle paths.",
+          "A good lock is essential, especially when leaving your bike unattended for longer periods.",
+          "Check your tire pressure before you set off."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 19.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Abtei Herkenrode",
+            "hu": "Herkenrode-i apátság",
+            "ro": "Abația Herkenrode",
+            "en": "Herkenrode Abbey"
+          },
+          "coords": [
+            5.3086,
+            50.963
+          ],
+          "category": "historical",
+          "arrive_at": "09:25",
+          "stay_min": 150,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, die weitläufigen Anlagen und das Erlebnismuseum zu erkunden.",
+            "hu": "Szánjon időt a tágas terület és az élménymúzeum felfedezésére.",
+            "ro": "Luați-vă timp pentru a explora terenurile extinse și muzeul experiențial.",
+            "en": "Take your time to explore the extensive grounds and the experience museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Grote Markt (Cluster)",
+            "hu": "Fő tér (Klaszter)",
+            "ro": "Grote Markt (Cluster)",
+            "en": "Grote Markt (Cluster)"
+          },
+          "coords": [
+            5.3375,
+            50.9312
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in einer der Tiefgaragen und beginnen Sie Ihren Stadtrundgang hier.",
+            "hu": "Parkoljon az egyik mélygarázsban, és innen induljon a városnéző sétára.",
+            "ro": "Parcați într-una dintre parcările subterane și începeți turul pietonal de aici.",
+            "en": "Park in one of the underground car parks and start your city walk from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt-Quintinus-Kathedrale",
+            "hu": "Szent Kventin-katedrális",
+            "ro": "Catedrala Sfântul Quintinus",
+            "en": "Saint Quentin's Cathedral"
+          },
+          "coords": [
+            5.3362,
+            50.9305
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Grote Markt. Ideal für einen Besuch vor dem Mittagessen.",
+            "hu": "Rövid séta a Fő tértől. Ideális ebéd előtti látogatáshoz.",
+            "ro": "La o scurtă plimbare de Grote Markt. Ideal pentru o vizită înainte de prânz.",
+            "en": "A short walk from the Grote Markt. Ideal for a pre-lunch visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebéd a városközpontban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the City Center"
+          },
+          "coords": [
+            5.338,
+            50.9315
+          ],
+          "category": "gastro",
+          "arrive_at": "13:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Wählen Sie eines der vielen Restaurants rund um den Grote Markt.",
+            "hu": "Válasszon a Grote Markt körüli számos étterem közül.",
+            "ro": "Alegeți unul dintre numeroasele restaurante din jurul Grote Markt.",
+            "en": "Choose one of the many restaurants around the Grote Markt."
+          }
+        },
+        {
+          "name": {
+            "de": "Japanischer Garten",
+            "hu": "Japánkert",
+            "ro": "Grădina Japoneză",
+            "en": "Japanese Garden"
+          },
+          "coords": [
+            5.366,
+            50.936
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Nachmittag in Ruhe ausklingen zu lassen.",
+            "hu": "Tökéletes hely a délután békés lezárásához.",
+            "ro": "Locul perfect pentru a încheia după-amiaza în liniște.",
+            "en": "The perfect place to wind down the afternoon in peace."
+          }
+        },
+        {
+          "name": {
+            "de": "Plopsa Indoor Hasselt",
+            "hu": "Plopsa Indoor Hasselt",
+            "ro": "Plopsa Indoor Hasselt",
+            "en": "Plopsa Indoor Hasselt"
+          },
+          "coords": [
+            5.372,
+            50.934
+          ],
+          "category": "kid-landmark",
+          "arrive_at": "17:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Japanischen Garten, ideal wenn Sie mit Kindern reisen.",
+            "hu": "Rövid séta a Japánkerttől, ideális, ha gyerekekkel utazik.",
+            "ro": "O scurtă plimbare de la Grădina Japoneză, ideal dacă călătoriți cu copii.",
+            "en": "A short walk from the Japanese Garden, ideal if you are traveling with children."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Auto an der historischen Abtei Herkenrode, etwas außerhalb der Stadt. Nach der Erkundung dieses weitläufigen Geländes fahren Sie ins Zentrum von Hasselt, parken Ihr Auto und erkunden zu Fuß den Grote Markt und die Kathedrale. Nach dem Mittagessen fahren Sie zum östlichen Teil der Stadt, um in die Ruhe des Japanischen Gartens einzutauchen. Wenn Sie mit Kindern unterwegs sind, ist das nahe gelegene Plopsa Indoor ein perfekter Abschluss des Tages.",
+        "hu": "Kezdje a napot autóval a városon kívül található történelmi Herkenrode-i apátságnál. A tágas terület felfedezése után hajtson be Hasselt központjába, parkolja le az autót, és fedezze fel gyalog a Fő teret és a katedrálist. Ebéd után irány a város keleti része, hogy elmerüljön a Japánkert nyugalmában. Ha gyerekekkel utazik, a közeli Plopsa Indoor tökéletes lezárása a napnak.",
+        "ro": "Începeți ziua cu mașina la istorica Abație Herkenrode, chiar în afara orașului. După ce explorați acest sit extins, conduceți spre centrul Hasselt, parcați mașina și explorați pe jos Grote Markt și catedrala. După prânz, mergeți în partea de est a orașului pentru a vă cufunda în liniștea Grădinii Japoneze. Dacă sunteți cu copii, Plopsa Indoor din apropiere este o modalitate perfectă de a încheia ziua.",
+        "en": "Start your day by car at the historic Herkenrode Abbey, just outside the city. After exploring this vast site, drive to the center of Hasselt, park your car, and explore the Grote Markt and the cathedral on foot. After lunch, drive to the eastern part of the city to immerse yourself in the tranquility of the Japanese Garden. If you're with children, the nearby Plopsa Indoor is a perfect way to end the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "De Vleminck",
+            "tip": "Bekannt für seine exzellenten Steaks, eine gute Wahl für das Abendessen."
+          },
+          {
+            "name": "Tarte Tatin",
+            "tip": "Ein gemütliches Café für einen Kaffee und ein Stück Kuchen nach dem Spaziergang in der Innenstadt."
+          },
+          {
+            "name": "Kasteel van Ordingen",
+            "tip": "Für ein luxuriöses Erlebnis fahren Sie zu diesem Schlossrestaurant in der Nähe von Sint-Truiden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "De Vleminck",
+            "tip": "Kiváló steakjeiről ismert, jó választás vacsorára."
+          },
+          {
+            "name": "Tarte Tatin",
+            "tip": "Hangulatos kávézó egy kávéra és egy szelet süteményre a belvárosi séta után."
+          },
+          {
+            "name": "Kasteel van Ordingen",
+            "tip": "Egy luxus élményért vezessen el ehhez a kastélyétteremhez Sint-Truiden közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "De Vleminck",
+            "tip": "Renumit pentru fripturile sale excelente, o alegere excelentă pentru cină."
+          },
+          {
+            "name": "Tarte Tatin",
+            "tip": "O cafenea primitoare pentru o cafea și o felie de tort după plimbarea în centrul orașului."
+          },
+          {
+            "name": "Kasteel van Ordingen",
+            "tip": "Pentru o experiență de lux, conduceți la acest restaurant-castel de lângă Sint-Truiden."
+          }
+        ],
+        "en": [
+          {
+            "name": "De Vleminck",
+            "tip": "Known for its excellent steaks, a great choice for dinner."
+          },
+          {
+            "name": "Tarte Tatin",
+            "tip": "A cozy café for a coffee and a slice of cake after your downtown walk."
+          },
+          {
+            "name": "Kasteel van Ordingen",
+            "tip": "For a luxury experience, drive to this castle restaurant near Sint-Truiden."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Abtei Herkenrode",
+            "tip": "Die Gärten und die Landschaft rund um die Abtei sind sehr friedlich.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Natuurgebied Kiewit",
+            "tip": "Ein Naturschutzgebiet in der Nähe, ideal für einen ruhigen Spaziergang oder eine Wanderung.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Herkenrode-i apátság",
+            "tip": "Az apátság körüli kertek és táj nagyon békés.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Natuurgebied Kiewit",
+            "tip": "Egy közeli természetvédelmi terület, ideális egy csendes sétához vagy túrához.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Abația Herkenrode",
+            "tip": "Grădinile și peisajul din jurul abației sunt foarte pașnice.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Natuurgebied Kiewit",
+            "tip": "O rezervație naturală în apropiere, ideală pentru o plimbare sau o drumeție liniștită.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Herkenrode Abbey",
+            "tip": "The gardens and landscape surrounding the abbey are very peaceful.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Natuurgebied Kiewit",
+            "tip": "A nearby nature reserve, ideal for a quiet walk or hike.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Quartier Bleu",
+            "tip": "Ein modernes Einkaufszentrum am Wasser mit einer Vielzahl von Geschäften und Restaurants."
+          },
+          {
+            "name": "Abdijwinkel Herkenrode",
+            "tip": "Kaufen Sie im Laden der Abtei lokale Produkte, einschließlich Bier und Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Quartier Bleu",
+            "tip": "Modern, vízparti bevásárlóközpont üzletek és éttermek széles választékával."
+          },
+          {
+            "name": "Abdijwinkel Herkenrode",
+            "tip": "Vásároljon helyi termékeket, köztük sört és sajtot az apátság boltjában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Quartier Bleu",
+            "tip": "Un centru comercial modern pe malul apei, cu o varietate de magazine și restaurante."
+          },
+          {
+            "name": "Abdijwinkel Herkenrode",
+            "tip": "Cumpărați produse locale, inclusiv bere și brânză, de la magazinul abației."
+          }
+        ],
+        "en": [
+          {
+            "name": "Quartier Bleu",
+            "tip": "A modern waterfront shopping center with a variety of shops and restaurants."
+          },
+          {
+            "name": "Abdijwinkel Herkenrode",
+            "tip": "Shop for local products, including beer and cheese, at the abbey's store."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum kann teuer sein; prüfen Sie die Tarife der Tiefgaragen im Voraus.",
+          "Planen Sie zusätzliche Zeit für den Verkehr ein, besonders während der Stoßzeiten.",
+          "Das Auto gibt Ihnen die Flexibilität, auch Attraktionen außerhalb von Hasselt zu besuchen.",
+          "Stellen Sie sicher, dass Sie eine Parkscheibe für blaue Zonen haben, falls erforderlich."
+        ],
+        "hu": [
+          "A belvárosi parkolás drága lehet; előre ellenőrizze a mélygarázsok díjait.",
+          "Számítson plusz időt a forgalomra, különösen csúcsidőben.",
+          "Az autó rugalmasságot biztosít a Hasseltön kívüli látnivalók meglátogatásához is.",
+          "Győződjön meg róla, hogy van parkolótárcsája a kék zónákhoz, ha szükséges."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi scumpă; verificați în avans tarifele parcărilor subterane.",
+          "Planificați timp suplimentar pentru trafic, în special în orele de vârf.",
+          "Mașina vă oferă flexibilitatea de a vizita și atracții din afara Hasselt.",
+          "Asigurați-vă că aveți un disc de parcare pentru zonele albastre, dacă este necesar."
+        ],
+        "en": [
+          "Parking in the city center can be expensive; check the rates of underground car parks in advance.",
+          "Allow extra time for traffic, especially during peak hours.",
+          "The car gives you the flexibility to visit attractions outside Hasselt as well.",
+          "Make sure you have a parking disc for blue zones if required."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 9.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Grote Markt (Cluster)",
+            "hu": "Fő tér (Klaszter)",
+            "ro": "Grote Markt (Cluster)",
+            "en": "Grote Markt (Cluster)"
+          },
+          "coords": [
+            5.3375,
+            50.9312
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Bahnhof ist nur einen kurzen Spaziergang oder eine kurze Busfahrt vom Zentrum entfernt.",
+            "hu": "A vasútállomás csak egy rövid séta vagy buszút a központtól.",
+            "ro": "Gara este la o scurtă plimbare pe jos sau cu autobuzul de centru.",
+            "en": "The train station is a short walk or bus ride from the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Jenevermuseum",
+            "hu": "Jenever Múzeum",
+            "ro": "Muzeul Jeneverului",
+            "en": "Jenever Museum"
+          },
+          "coords": [
+            5.333,
+            50.9328
+          ],
+          "category": "museums",
+          "arrive_at": "09:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Grote Markt aus leicht zu Fuß erreichbar.",
+            "hu": "Könnyen megközelíthető gyalog a Fő térről.",
+            "ro": "Ușor de accesat pe jos din Grote Markt.",
+            "en": "Easily accessible on foot from the Grote Markt."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt-Quintinus-Kathedrale",
+            "hu": "Szent Kventin-katedrális",
+            "ro": "Catedrala Sfântul Quintinus",
+            "en": "Saint Quentin's Cathedral"
+          },
+          "coords": [
+            5.3362,
+            50.9305
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach dem Jenever-Museum ist dies ein schöner, kurzer Spaziergang.",
+            "hu": "A Jenever Múzeum után ez egy kellemes, rövid séta.",
+            "ro": "După Muzeul Jeneverului, aceasta este o plimbare scurtă și plăcută.",
+            "en": "After the Jenever Museum, this is a nice, short walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Japanischer Garten",
+            "hu": "Japánkert",
+            "ro": "Grădina Japoneză",
+            "en": "Japanese Garden"
+          },
+          "coords": [
+            5.366,
+            50.936
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus vom Stadtzentrum. Die Fahrt bietet einen Einblick in die Wohnviertel.",
+            "hu": "Menjen busszal a városközpontból. Az út bepillantást enged a lakónegyedekbe.",
+            "ro": "Luați autobuzul din centrul orașului. Călătoria oferă o imagine a cartierelor rezidențiale.",
+            "en": "Take the bus from the city center. The ride offers a glimpse of the residential areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Abtei Herkenrode",
+            "hu": "Herkenrode-i apátság",
+            "ro": "Abația Herkenrode",
+            "en": "Herkenrode Abbey"
+          },
+          "coords": [
+            5.3086,
+            50.963
+          ],
+          "category": "historical",
+          "arrive_at": "15:30",
+          "stay_min": 140,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Es gibt eine direkte Busverbindung, die Sie in die Nähe der Abtei bringt.",
+            "hu": "Van egy közvetlen buszjárat, amely az apátság közelébe visz.",
+            "ro": "Există o linie de autobuz directă care vă va duce aproape de abație.",
+            "en": "There is a direct bus service that will take you close to the abbey."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einer Busfahrt ins Zentrum von Hasselt, wo Sie den Grote Markt, das Jenevermuseum und die Kathedrale zu Fuß erkunden. Am Mittag nehmen Sie einen weiteren Bus zum friedlichen Japanischen Garten für eine entspannte Pause. Der Nachmittag führt Sie mit dem Bus zur historischen Abtei Herkenrode, wo Sie in die reiche Geschichte der Region eintauchen können. Diese Route zeigt, wie einfach es ist, die Hauptattraktionen von Hasselt mit öffentlichen Verkehrsmitteln zu erreichen.",
+        "hu": "A nap Hasselt központjába tartó buszúttal kezdődik, ahol gyalog fedezi fel a Fő teret, a Jenever Múzeumot és a katedrálist. Délben egy másik buszra száll a békés Japánkerthez egy pihentető szünetre. A délután a történelmi Herkenrode-i apátsághoz vezet busszal, ahol elmerülhet a régió gazdag történelmében. Ez az útvonal bemutatja, milyen egyszerűen elérhetők Hasselt fő látnivalói tömegközlekedéssel.",
+        "ro": "Ziua dvs. începe cu o călătorie cu autobuzul spre centrul orașului Hasselt, unde explorați pe jos Grote Markt, Muzeul Jeneverului și catedrala. La prânz, luați un alt autobuz spre liniștita Grădină Japoneză pentru o pauză relaxantă. După-amiaza vă duce cu autobuzul la istorica Abație Herkenrode, unde puteți aprofunda istoria bogată a regiunii. Acest traseu arată cât de ușor este să ajungeți la principalele atracții din Hasselt folosind transportul public.",
+        "en": "Your day begins with a bus ride to the center of Hasselt, where you explore the Grote Markt, Jenever Museum, and cathedral on foot. At midday, you take another bus to the peaceful Japanese Garden for a relaxing break. The afternoon takes you by bus to the historic Herkenrode Abbey, where you can delve into the region's rich history. This route shows how easy it is to reach Hasselt's main attractions using public transport."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Het Smaaksalon",
+            "tip": "Ein stilvolles Restaurant im ehemaligen Gerichtsgebäude, das lokale Gerichte serviert."
+          },
+          {
+            "name": "Frituur",
+            "tip": "Kein Besuch in Belgien ist komplett ohne Pommes von einer lokalen 'Frituur'."
+          },
+          {
+            "name": "Café de la Gare",
+            "tip": "Ein praktischer Ort für einen schnellen Happen oder ein Getränk in der Nähe des Bahnhofs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Het Smaaksalon",
+            "tip": "Stílusos étterem az egykori bíróság épületében, helyi ételeket szolgálnak fel."
+          },
+          {
+            "name": "Frituur",
+            "tip": "Egyetlen belgiumi látogatás sem teljes sült krumpli nélkül egy helyi 'frituur'-ból."
+          },
+          {
+            "name": "Café de la Gare",
+            "tip": "Kényelmes hely egy gyors falatra vagy italra a vasútállomás közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Het Smaaksalon",
+            "tip": "Un restaurant elegant în fosta clădire a tribunalului, care servește mâncăruri locale."
+          },
+          {
+            "name": "Frituur",
+            "tip": "Nicio vizită în Belgia nu este completă fără cartofi prăjiți de la un 'frituur' local."
+          },
+          {
+            "name": "Café de la Gare",
+            "tip": "Un loc convenabil pentru o gustare rapidă sau o băutură lângă gară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Het Smaaksalon",
+            "tip": "A stylish restaurant in the former courthouse, serving local dishes."
+          },
+          {
+            "name": "Frituur",
+            "tip": "No visit to Belgium is complete without fries from a local 'frituur'."
+          },
+          {
+            "name": "Café de la Gare",
+            "tip": "A convenient spot for a quick bite or a drink near the train station."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kapermolenpark",
+            "tip": "Ein großer Park in der Nähe des Stadtzentrums, erreichbar mit einem kurzen Spaziergang oder Bus.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sint-Catharinakerk (Begijnhof)",
+            "tip": "Eine ruhige Kirche in einer noch ruhigeren historischen Umgebung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kapermolenpark",
+            "tip": "Nagy park a városközpont közelében, rövid sétával vagy busszal elérhető.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sint-Catharinakerk (Beginaudvar)",
+            "tip": "Csendes templom egy még csendesebb történelmi környezetben.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kapermolenpark",
+            "tip": "Un parc mare lângă centrul orașului, accesibil cu o scurtă plimbare pe jos sau cu autobuzul.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sint-Catharinakerk (Begijnhof)",
+            "tip": "O biserică liniștită într-un cadru istoric și mai liniștit.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kapermolenpark",
+            "tip": "A large park near the city center, accessible by a short walk or bus ride.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sint-Catharinakerk (Beguinage)",
+            "tip": "A quiet church in an even quieter historic setting.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "De Serre",
+            "tip": "Ein Indoor-Lebensmittelmarkt mit lokalen und internationalen Köstlichkeiten."
+          },
+          {
+            "name": "Bahnhofsgeschäfte",
+            "tip": "Praktisch für Last-Minute-Souvenirs oder Snacks vor der Abfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "De Serre",
+            "tip": "Fedett élelmiszerpiac helyi és nemzetközi finomságokkal."
+          },
+          {
+            "name": "Vasútállomási üzletek",
+            "tip": "Kényelmes az utolsó pillanatban beszerzett szuvenírekhez vagy rágcsálnivalókhoz indulás előtt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "De Serre",
+            "tip": "O piață alimentară interioară cu delicatese locale și internaționale."
+          },
+          {
+            "name": "Magazinele din gară",
+            "tip": "Convenabil pentru suveniruri de ultim moment sau gustări înainte de plecare."
+          }
+        ],
+        "en": [
+          {
+            "name": "De Serre",
+            "tip": "An indoor food market with local and international delicacies."
+          },
+          {
+            "name": "Station shops",
+            "tip": "Convenient for last-minute souvenirs or snacks before you depart."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten mit dem De Lijn-Busnetz.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, insbesondere für die Rückfahrt von der Abtei Herkenrode.",
+          "Die Google Maps App bietet in der Regel genaue Informationen zu den öffentlichen Verkehrsmitteln in Echtzeit.",
+          "Seien Sie sich der letzten Busse am Abend bewusst, um nicht stecken zu bleiben."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a De Lijn buszhálózaton való korlátlan utazáshoz.",
+          "Előre ellenőrizze a buszmenetrendet, különösen a Herkenrode-i apátságból való visszautazáshoz.",
+          "A Google Maps alkalmazás általában pontos, valós idejű tömegközlekedési információkat nyújt.",
+          "Legyen tisztában az esti utolsó buszokkal, nehogy ott ragadjon."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate în rețeaua de autobuze De Lijn.",
+          "Verificați în avans orarele autobuzelor, în special pentru călătoria de întoarcere de la Abația Herkenrode.",
+          "Aplicația Google Maps oferă de obicei informații precise în timp real despre transportul public.",
+          "Fiți conștienți de ultimele autobuze de seară pentru a nu rămâne blocat."
+        ],
+        "en": [
+          "Purchase a day pass for unlimited travel on the De Lijn bus network.",
+          "Check bus schedules in advance, especially for the return trip from Herkenrode Abbey.",
+          "The Google Maps app usually provides accurate real-time public transport information.",
+          "Be aware of the last buses in the evening to avoid getting stranded."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1188 @@
+{
+  "city_id": "slovakia-martin-cities-v2",
+  "anchor": {
+    "name": "Martin",
+    "coords": [
+      18.9222,
+      49.0665
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche des Heiligen Martin",
+            "hu": "Szent Márton-templom",
+            "ro": "Biserica Sfântul Martin",
+            "en": "Church of Saint Martin"
+          },
+          "coords": [
+            18.923,
+            49.0658
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotischen Fresken und die ruhige Atmosphäre im Inneren.",
+            "hu": "Csodálja meg a gótikus freskókat és a templom csendes atmoszféráját.",
+            "ro": "Admirați frescele gotice și atmosfera liniștită din interior.",
+            "en": "Admire the Gothic frescoes and the quiet atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalfriedhof",
+            "hu": "Nemzeti Temető",
+            "ro": "Cimitirul Național",
+            "en": "National Cemetery"
+          },
+          "coords": [
+            18.9205,
+            49.0675
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:55",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein Spaziergang hier ist wie eine Lektion in slowakischer Geschichte.",
+            "hu": "Egy séta itt felér egy szlovák történelemórával.",
+            "ro": "O plimbare aici este ca o lecție de istorie slovacă.",
+            "en": "A walk here is like a lesson in Slovak history."
+          }
+        },
+        {
+          "name": {
+            "de": "Matica slovenská",
+            "hu": "Matica slovenská",
+            "ro": "Matica slovenská",
+            "en": "Matica slovenská"
+          },
+          "coords": [
+            18.918,
+            49.068
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:50",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Gebäude ist ein Symbol der nationalen Wiedergeburt. Prüfen Sie, ob es Ausstellungen gibt.",
+            "hu": "Az épület a nemzeti újjászületés szimbóluma. Nézze meg, vannak-e aktuális kiállítások.",
+            "ro": "Clădirea este un simbol al renașterii naționale. Verificați dacă există expoziții.",
+            "en": "The building is a symbol of the national revival. Check for any ongoing exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Slowakisches Nationales Literaturmuseum",
+            "hu": "Szlovák Nemzeti Irodalmi Múzeum",
+            "ro": "Muzeul Național de Literatură Slovacă",
+            "en": "Slovak National Literary Museum"
+          },
+          "coords": [
+            18.9175,
+            49.0678
+          ],
+          "category": "museums",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Muss für Buchliebhaber, um in die slowakische Literatur einzutauchen.",
+            "hu": "A könyvek szerelmeseinek kötelező, hogy elmerüljenek a szlovák irodalomban.",
+            "ro": "O necesitate pentru iubitorii de cărți, pentru a se cufunda în literatura slovacă.",
+            "en": "A must-visit for book lovers to dive into Slovak literature."
+          }
+        },
+        {
+          "name": {
+            "de": "Turiec-Galerie",
+            "hu": "Turiec Galéria",
+            "ro": "Galeria Turiec",
+            "en": "Turiec Gallery"
+          },
+          "coords": [
+            18.925,
+            49.069
+          ],
+          "category": "museums",
+          "arrive_at": "13:30",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Konzentriert sich auf slowakische Kunst des 20. Jahrhunderts. Eine angenehme visuelle Pause.",
+            "hu": "A 20. századi szlovák művészetre összpontosít. Kellemes vizuális szünet.",
+            "ro": "Se concentrează pe arta slovacă din secolul XX. O pauză vizuală plăcută.",
+            "en": "Focuses on 20th-century Slovak art. A pleasant visual break."
+          }
+        },
+        {
+          "name": {
+            "de": "SNP-Theater",
+            "hu": "SNP Színház",
+            "ro": "Teatrul SNP",
+            "en": "SNP Theatre"
+          },
+          "coords": [
+            18.9275,
+            49.0695
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:45",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schauen Sie sich das Programm an, vielleicht gibt es eine Abendvorstellung.",
+            "hu": "Nézze meg a műsort, hátha van esti előadás.",
+            "ro": "Verificați programul, poate prindeți un spectacol de seară.",
+            "en": "Check the schedule, you might catch an evening performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum des slowakischen Dorfes",
+            "hu": "A Szlovák Falu Múzeuma",
+            "ro": "Muzeul Satului Slovac",
+            "en": "Museum of the Slovak Village"
+          },
+          "coords": [
+            18.905,
+            49.055
+          ],
+          "category": "museums",
+          "arrive_at": "15:40",
+          "stay_min": 95,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Das größte Freilichtmuseum der Slowakei. Planen Sie genug Zeit ein.",
+            "hu": "Szlovákia legnagyobb szabadtéri múzeuma. Tervezzen elég időt a bejárására.",
+            "ro": "Cel mai mare muzeu în aer liber din Slovacia. Planificați-vă suficient timp.",
+            "en": "The largest open-air museum in Slovakia. Plan enough time to explore."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Herzen von Martin, dem Zentrum der slowakischen Kultur. Der Vormittag ist dem Erbe gewidmet, von der gotischen Kirche des Heiligen Martin bis zum Nationalfriedhof, wo die Großen der Nation ruhen. Spüren Sie den Geist der nationalen Wiedergeburt bei der Matica slovenská. Nach einem literarischen Mittagessen im Literaturmuseum spazieren Sie zur Turiec-Galerie, um die moderne slowakische Kunst zu entdecken. Der Nachmittag führt Sie aus dem Zentrum heraus zum weitläufigen Museum des slowakischen Dorfes, einem faszinierenden Freilichtmuseum, das das ländliche Leben der Vergangenheit zeigt. Schließen Sie den Tag mit einem Gefühl des tiefen Eintauchens in die slowakische Seele ab, bereit für ein herzhaftes Abendessen.",
+        "hu": "Kezdje a napot Turócszentmárton történelmi szívében, a szlovák kultúra központjában. A délelőtt az örökségé, a gótikus Szent Márton-templomtól a Nemzeti Temetőig, ahol a nemzet nagyjai nyugszanak. Érezze a nemzeti ébredés szellemét a Matica slovenská épületénél. Egy irodalmi elmélyülés után az Irodalmi Múzeumban sétáljon át a Turiec Galériába, hogy felfedezze a modern szlovák művészetet. A délután a központból a tágas Szlovák Falu Múzeumába vezet, egy lenyűgöző szabadtéri múzeumba, amely a múlt vidéki életét mutatja be. Zárja a napot a szlovák lélekben való mély elmerülés érzésével, készen egy kiadós vacsorára.",
+        "ro": "Începeți ziua în inima istorică a orașului Martin, centrul culturii slovace. Dimineața este dedicată patrimoniului, de la gotica Biserică a Sfântului Martin la Cimitirul Național, unde se odihnesc marii națiunii. Simțiți spiritul renașterii naționale la Matica slovenská. După o incursiune literară la Muzeul Literaturii, plimbați-vă la Galeria Turiec pentru a descoperi arta slovacă modernă. După-amiaza vă poartă în afara centrului, la vastul Muzeu al Satului Slovac, un muzeu fascinant în aer liber care prezintă viața rurală de altădată. Încheiați ziua cu un sentiment de imersiune profundă în sufletul slovac, gata pentru o cină copioasă.",
+        "en": "Start your day in the historical heart of Martin, the center of Slovak culture. The morning is dedicated to heritage, from the Gothic Church of Saint Martin to the National Cemetery, where the nation's greats rest. Feel the spirit of the national revival at Matica slovenská. After a literary immersion at the Literary Museum, stroll to the Turiec Gallery to discover modern Slovak art. The afternoon takes you out of the center to the expansive Museum of the Slovak Village, a fascinating open-air museum showcasing rural life of the past. End the day with a feeling of deep immersion in the Slovak soul, ready for a hearty dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Slowakische Nocken mit Schafskäse und Speck. Probieren Sie sie im Restaurant Česká hospoda."
+          },
+          {
+            "name": "Kapustnica",
+            "tip": "Eine reichhaltige Sauerkrautsuppe, oft mit Wurst. Perfekt für einen kühleren Tag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bryndzové halušky (Juhtúrós sztrapacska)",
+            "tip": "Szlovák specialitás juhtúróval és szalonnával. Kóstolja meg a Česká hospoda étteremben."
+          },
+          {
+            "name": "Kapustnica (Káposztaleves)",
+            "tip": "Gazdag savanyúkáposzta-leves, gyakran kolbásszal. Tökéletes egy hűvösebb napra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Găluște slovace cu brânză de oaie și slănină. Încercați-le la restaurantul Česká hospoda."
+          },
+          {
+            "name": "Kapustnica",
+            "tip": "O supă bogată de varză murată, adesea cu cârnați. Perfectă pentru o zi mai răcoroasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Slovak potato dumplings with sheep cheese and bacon. Try them at Česká hospoda restaurant."
+          },
+          {
+            "name": "Kapustnica",
+            "tip": "A rich sauerkraut soup, often with sausage. Perfect for a cooler day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Fluss Turiec",
+            "tip": "Ein ruhiger Weg entlang des Flusses, ideal um dem Trubel der Stadt zu entkommen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bänke im Nationalfriedhof",
+            "tip": "Ein Ort der Besinnung und Ruhe inmitten historischer Gräber.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Turiec folyó partján",
+            "tip": "Csendes ösvény a folyó mentén, ideális a városi nyüzsgés elől való elvonulásra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Padok a Nemzeti Temetőben",
+            "tip": "Az elmélkedés és a béke helye a történelmi sírok között.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului Turiec",
+            "tip": "O potecă liniștită de-a lungul râului, ideală pentru a evada din agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Băncile din Cimitirul Național",
+            "tip": "Un loc de contemplare și pace printre morminte istorice.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along the Turiec River",
+            "tip": "A quiet path along the river, ideal for escaping the city buzz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Benches in the National Cemetery",
+            "tip": "A place of contemplation and peace amidst historical graves.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Kunsthandwerk",
+            "tip": "Suchen Sie in den Museumsshops nach traditionellen slowakischen Souvenirs wie Holzschnitzereien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen hagyományos szlovák ajándéktárgyakat, például fafaragásokat a múzeumi boltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați suveniruri tradiționale slovace, cum ar fi sculpturi în lemn, în magazinele muzeelor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Crafts",
+            "tip": "Look for traditional Slovak souvenirs like wood carvings in the museum shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Das Museum des slowakischen Dorfes ist ziemlich groß, nehmen Sie sich mindestens 2 Stunden Zeit."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "A központi látnivalók többsége könnyen elérhető gyalog.",
+          "A Szlovák Falu Múzeuma elég nagy, szánjon rá legalább 2 órát."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe jos.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Muzeul Satului Slovac este destul de mare, acordați-i cel puțin 2 ore."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "Most central sights are within easy walking distance.",
+          "The Museum of the Slovak Village is quite large, allow at least 2 hours for it."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche des Heiligen Martin",
+            "hu": "Szent Márton-templom",
+            "ro": "Biserica Sfântul Martin",
+            "en": "Church of Saint Martin"
+          },
+          "coords": [
+            18.923,
+            49.0658
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad in der Nähe ab und genießen Sie die Ruhe.",
+            "hu": "Zárja le a kerékpárt a közelben, és élvezze a csendet.",
+            "ro": "Legați-vă bicicleta în apropiere și bucurați-vă de liniște.",
+            "en": "Lock your bike nearby and enjoy the tranquility."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalfriedhof & Matica slovenská",
+            "hu": "Nemzeti Temető és Matica slovenská",
+            "ro": "Cimitirul Național & Matica slovenská",
+            "en": "National Cemetery & Matica slovenská"
+          },
+          "coords": [
+            18.919,
+            49.0678
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:45",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Diese beiden wichtigen nationalen Stätten liegen nahe beieinander.",
+            "hu": "Ez a két fontos nemzeti helyszín közel van egymáshoz.",
+            "ro": "Aceste două situri naționale importante sunt aproape una de cealaltă.",
+            "en": "These two important national sites are close to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Slowakisches Nationales Literaturmuseum",
+            "hu": "Szlovák Nemzeti Irodalmi Múzeum",
+            "ro": "Muzeul Național de Literatură Slovacă",
+            "en": "Slovak National Literary Museum"
+          },
+          "coords": [
+            18.9175,
+            49.0678
+          ],
+          "category": "museums",
+          "arrive_at": "11:10",
+          "stay_min": 70,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab, bevor Sie in die Welt der Bücher eintauchen.",
+            "hu": "Biztonságosan tegye le a kerékpárt, mielőtt elmerül a könyvek világában.",
+            "ro": "Parcați bicicleta în siguranță înainte de a vă cufunda în lumea cărților.",
+            "en": "Park your bike safely before immersing yourself in the world of books."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Innenstadt",
+            "hu": "Ebéd a belvárosban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city center"
+          },
+          "coords": [
+            18.924,
+            49.068
+          ],
+          "category": "gastro",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Finden Sie ein lokales Restaurant, um Bryndzové halušky zu probieren.",
+            "hu": "Keressen egy helyi éttermet, és kóstolja meg a juhtúrós sztrapacskát.",
+            "ro": "Găsiți un restaurant local pentru a încerca Bryndzové halušky.",
+            "en": "Find a local restaurant to try Bryndzové halušky."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum des slowakischen Dorfes",
+            "hu": "A Szlovák Falu Múzeuma",
+            "ro": "Muzeul Satului Slovac",
+            "en": "Museum of the Slovak Village"
+          },
+          "coords": [
+            18.905,
+            49.055
+          ],
+          "category": "museums",
+          "arrive_at": "14:10",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Der Weg dorthin ist eine angenehme Radtour. Das Museumsgelände ist groß.",
+            "hu": "Kellemes kerékpárút vezet oda. A múzeum területe nagy.",
+            "ro": "Traseul până acolo este o plimbare plăcută cu bicicleta. Zona muzeului este mare.",
+            "en": "The ride there is a pleasant cycle. The museum grounds are large."
+          }
+        },
+        {
+          "name": {
+            "de": "Radweg am Fluss Turiec",
+            "hu": "Kerékpárút a Turiec folyó mentén",
+            "ro": "Pista de biciclete de-a lungul râului Turiec",
+            "en": "Turiec River Bike Path"
+          },
+          "coords": [
+            18.915,
+            49.06
+          ],
+          "category": "park",
+          "arrive_at": "16:25",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Ein entspannter Ausklang des Tages mit einer Fahrt entlang des Flusses zurück ins Zentrum.",
+            "hu": "A nap pihentető lezárása egy folyóparti tekeréssel vissza a központba.",
+            "ro": "O încheiere relaxantă a zilei cu o plimbare cu bicicleta de-a lungul râului înapoi spre centru.",
+            "en": "A relaxing end to the day with a ride along the river back towards the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel für eine kulturelle Radtour durch Martin. Starten Sie bei der ehrwürdigen Kirche des Heiligen Martin und radeln Sie dann zu den nationalen Symbolen, dem Friedhof und der Matica slovenská. Am Vormittag tauchen Sie im Literaturmuseum in die Welt der Buchstaben ein. Nach einem stärkenden Mittagessen in der Innenstadt führt Sie die Hauptetappe zum Museum des slowakischen Dorfes. Die Radtour dorthin ist bereits ein Erlebnis. Verbringen Sie einen ausgiebigen Nachmittag in diesem riesigen Freilichtmuseum, bevor Sie den Tag mit einer gemütlichen Fahrt entlang des Turiec-Flusses ausklingen lassen.",
+        "hu": "Pattanjon nyeregbe egy kulturális kerékpártúrára Turócszentmártonban. Indítson a tiszteletreméltó Szent Márton-templomnál, majd tekerjen el a nemzeti szimbólumokhoz, a temetőhöz és a Matica slovenská-hoz. Délelőtt merüljön el a betűk világában az Irodalmi Múzeumban. Egy belvárosi, energiát adó ebéd után a fő szakasz a Szlovák Falu Múzeumához vezet. Már az odavezető út is egy élmény. Töltsön egy tartalmas délutánt ebben a hatalmas szabadtéri múzeumban, mielőtt a napot egy kellemes tekeréssel zárja a Turóc folyó mentén.",
+        "ro": "Urcați-vă în șa pentru un tur cultural cu bicicleta prin Martin. Începeți de la venerabila Biserică a Sfântului Martin, apoi pedalați spre simbolurile naționale, cimitirul și Matica slovenská. În cursul dimineții, scufundați-vă în lumea literelor la Muzeul Literaturii. După un prânz revigorant în centrul orașului, etapa principală vă duce la Muzeul Satului Slovac. Plimbarea cu bicicleta până acolo este deja o experiență în sine. Petreceți o după-amiază plină în acest imens muzeu în aer liber, înainte de a încheia ziua cu o plimbare relaxantă de-a lungul râului Turiec.",
+        "en": "Get on your bike for a cultural cycling tour through Martin. Start at the venerable Church of Saint Martin, then pedal to the national symbols, the cemetery and the Matica slovenská. In the morning, immerse yourself in the world of letters at the Literary Museum. After a revitalizing lunch in the city center, the main stage takes you to the Museum of the Slovak Village. The bike ride there is an experience in itself. Spend a full afternoon in this huge open-air museum before ending the day with a leisurely ride along the Turiec River."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Slowakische Nocken mit Schafskäse und Speck. Probieren Sie sie im Restaurant Česká hospoda."
+          },
+          {
+            "name": "Kapustnica",
+            "tip": "Eine reichhaltige Sauerkrautsuppe, oft mit Wurst. Perfekt für einen kühleren Tag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bryndzové halušky (Juhtúrós sztrapacska)",
+            "tip": "Szlovák specialitás juhtúróval és szalonnával. Kóstolja meg a Česká hospoda étteremben."
+          },
+          {
+            "name": "Kapustnica (Káposztaleves)",
+            "tip": "Gazdag savanyúkáposzta-leves, gyakran kolbásszal. Tökéletes egy hűvösebb napra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Găluște slovace cu brânză de oaie și slănină. Încercați-le la restaurantul Česká hospoda."
+          },
+          {
+            "name": "Kapustnica",
+            "tip": "O supă bogată de varză murată, adesea cu cârnați. Perfectă pentru o zi mai răcoroasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Slovak potato dumplings with sheep cheese and bacon. Try them at Česká hospoda restaurant."
+          },
+          {
+            "name": "Kapustnica",
+            "tip": "A rich sauerkraut soup, often with sausage. Perfect for a cooler day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Fluss Turiec",
+            "tip": "Ein ruhiger Weg entlang des Flusses, ideal um dem Trubel der Stadt zu entkommen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bänke im Nationalfriedhof",
+            "tip": "Ein Ort der Besinnung und Ruhe inmitten historischer Gräber.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Turiec folyó partján",
+            "tip": "Csendes ösvény a folyó mentén, ideális a városi nyüzsgés elől való elvonulásra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Padok a Nemzeti Temetőben",
+            "tip": "Az elmélkedés és a béke helye a történelmi sírok között.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului Turiec",
+            "tip": "O potecă liniștită de-a lungul râului, ideală pentru a evada din agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Băncile din Cimitirul Național",
+            "tip": "Un loc de contemplare și pace printre morminte istorice.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along the Turiec River",
+            "tip": "A quiet path along the river, ideal for escaping the city buzz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Benches in the National Cemetery",
+            "tip": "A place of contemplation and peace amidst historical graves.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Kunsthandwerk",
+            "tip": "Suchen Sie in den Museumsshops nach traditionellen slowakischen Souvenirs wie Holzschnitzereien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen hagyományos szlovák ajándéktárgyakat, például fafaragásokat a múzeumi boltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați suveniruri tradiționale slovace, cum ar fi sculpturi în lemn, în magazinele muzeelor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Crafts",
+            "tip": "Look for traditional Slovak souvenirs like wood carvings in the museum shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Martin ist relativ flach, aber eine Gangschaltung ist für die Fahrt zum Dorf-Museum nützlich.",
+          "Schließen Sie Ihr Fahrrad immer gut ab.",
+          "Prüfen Sie den Reifendruck, bevor Sie losfahren."
+        ],
+        "hu": [
+          "Turócszentmárton viszonylag sík, de a Falumúzeumhoz vezető úton hasznos lehet a sebességváltó.",
+          "Mindig gondosan zárja le a kerékpárt.",
+          "Indulás előtt ellenőrizze a guminyomást."
+        ],
+        "ro": [
+          "Martin este relativ plat, dar o bicicletă cu viteze este utilă pentru drumul spre Muzeul Satului.",
+          "Asigurați-vă întotdeauna bicicleta cu un lacăt bun.",
+          "Verificați presiunea în anvelope înainte de a porni."
+        ],
+        "en": [
+          "Martin is relatively flat, but gears are useful for the ride to the Village Museum.",
+          "Always lock your bike securely.",
+          "Check your tire pressure before you set off."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 6.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken im Stadtzentrum & Kaffee",
+            "hu": "Parkolás a központban és kávé",
+            "ro": "Parcare în centru și o cafea",
+            "en": "Parking in the City Center & Coffee"
+          },
+          "coords": [
+            18.926,
+            49.068
+          ],
+          "category": "gastro",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Suchen Sie einen Parkplatz in der Nähe des Divadelné námestie. Starten Sie mit einem Kaffee.",
+            "hu": "Keressen parkolót a Divadelné námestie (Színház tér) közelében. Kezdjen egy kávéval.",
+            "ro": "Căutați o parcare lângă Divadelné námestie. Începeți cu o cafea.",
+            "en": "Find a parking spot near Divadelné námestie. Start with a coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Martin & Nationalfriedhof",
+            "hu": "Szent Márton-templom és Nemzeti Temető",
+            "ro": "Biserica Sfântul Martin și Cimitirul Național",
+            "en": "Church of St. Martin & National Cemetery"
+          },
+          "coords": [
+            18.921,
+            49.066
+          ],
+          "category": "cluster",
+          "arrive_at": "09:55",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein Spaziergang zwischen diesen beiden Orten ist ein Muss, um die Seele von Martin zu verstehen.",
+            "hu": "A két hely közötti séta kötelező, hogy megértsük Turócszentmárton lelkét.",
+            "ro": "O plimbare între aceste două locuri este esențială pentru a înțelege sufletul orașului Martin.",
+            "en": "A walk between these two sites is a must to understand the soul of Martin."
+          }
+        },
+        {
+          "name": {
+            "de": "Matica slovenská & Literaturmuseum",
+            "hu": "Matica slovenská és Irodalmi Múzeum",
+            "ro": "Matica slovenská & Muzeul Literaturii",
+            "en": "Matica slovenská & Literary Museum"
+          },
+          "coords": [
+            18.918,
+            49.068
+          ],
+          "category": "cluster",
+          "arrive_at": "11:30",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie das Herz der slowakischen Schriftsprache und Kultur in diesem Komplex.",
+            "hu": "Fedezze fel a szlovák írott nyelv és kultúra szívét ebben a komplexumban.",
+            "ro": "Descoperiți inima limbii și culturii scrise slovace în acest complex.",
+            "en": "Discover the heart of Slovak written language and culture in this complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Rückkehr zum Auto",
+            "hu": "Ebéd és visszatérés az autóhoz",
+            "ro": "Prânz și întoarcere la mașină",
+            "en": "Lunch and return to the car"
+          },
+          "coords": [
+            18.925,
+            49.0685
+          ],
+          "category": "gastro",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie ein lokales Gericht, bevor Sie zum nächsten Ziel aufbrechen.",
+            "hu": "Élvezzen egy helyi fogást, mielőtt a következő célponthoz indul.",
+            "ro": "Savurați un fel de mâncare local înainte de a porni spre următoarea destinație.",
+            "en": "Enjoy a local dish before heading to the next destination."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum des slowakischen Dorfes",
+            "hu": "A Szlovák Falu Múzeuma",
+            "ro": "Muzeul Satului Slovac",
+            "en": "Museum of the Slovak Village"
+          },
+          "coords": [
+            18.905,
+            49.055
+          ],
+          "category": "museums",
+          "arrive_at": "14:40",
+          "stay_min": 140,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier und verbringen Sie den ganzen Nachmittag damit, die traditionelle Architektur zu erkunden.",
+            "hu": "Parkoljon le itt, és töltse az egész délutánt a hagyományos építészet felfedezésével.",
+            "ro": "Parcați aici și petreceți întreaga după-amiază explorând arhitectura tradițională.",
+            "en": "Park here and spend the whole afternoon exploring the traditional architecture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Ihr Auto für maximale Effizienz. Parken Sie im Zentrum und erkunden Sie den ersten Cluster zu Fuß: Beginnen Sie mit der historischen Kirche und dem Nationalfriedhof. Am späten Vormittag widmen Sie sich dem kulturellen Herzen der Slowakei bei der Matica slovenská und dem angrenzenden Literaturmuseum. Nach einem gemütlichen Mittagessen in der Innenstadt fahren Sie zum zweiten Cluster. Der gesamte Nachmittag gehört dem beeindruckenden Museum des slowakischen Dorfes. Hier können Sie in die Vergangenheit eintauchen und den Tag in einer ruhigen, ländlichen Umgebung ausklingen lassen.",
+        "hu": "Használja ki az autót a maximális hatékonyság érdekében. Parkoljon a központban, és fedezze fel gyalog az első látnivalócsoportot: kezdje a történelmi templommal és a Nemzeti Temetővel. A délelőtt folyamán szentelje idejét Szlovákia kulturális szívének, a Matica slovenskának és a szomszédos Irodalmi Múzeumnak. Egy kellemes belvárosi ebéd után autózzon át a második csoporthoz. Az egész délutánt a lenyűgöző Szlovák Falu Múzeuma tölti ki. Itt elmerülhet a múltban, és a napot egy csendes, vidéki környezetben zárhatja.",
+        "ro": "Folosiți mașina pentru eficiență maximă. Parcați în centru și explorați primul cluster pe jos: începeți cu biserica istorică și Cimitirul Național. Spre sfârșitul dimineții, dedicați-vă inimii culturale a Slovaciei la Matica slovenskă și la Muzeul Literaturii adiacent. După un prânz relaxant în centrul orașului, conduceți spre al doilea cluster. Întreaga după-amiază este rezervată impresionantului Muzeu al Satului Slovac. Aici vă puteți cufunda în trecut și încheia ziua într-un cadru rural liniștit.",
+        "en": "Use your car for maximum efficiency. Park in the center and explore the first cluster on foot: start with the historic church and the National Cemetery. In the late morning, dedicate yourself to the cultural heart of Slovakia at the Matica slovenská and the adjacent Literary Museum. After a leisurely lunch downtown, drive to the second cluster. The entire afternoon belongs to the impressive Museum of the Slovak Village. Here you can immerse yourself in the past and end the day in a quiet, rural setting."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Slowakische Nocken mit Schafskäse und Speck. Probieren Sie sie im Restaurant Česká hospoda."
+          },
+          {
+            "name": "Kapustnica",
+            "tip": "Eine reichhaltige Sauerkrautsuppe, oft mit Wurst. Perfekt für einen kühleren Tag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bryndzové halušky (Juhtúrós sztrapacska)",
+            "tip": "Szlovák specialitás juhtúróval és szalonnával. Kóstolja meg a Česká hospoda étteremben."
+          },
+          {
+            "name": "Kapustnica (Káposztaleves)",
+            "tip": "Gazdag savanyúkáposzta-leves, gyakran kolbásszal. Tökéletes egy hűvösebb napra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Găluște slovace cu brânză de oaie și slănină. Încercați-le la restaurantul Česká hospoda."
+          },
+          {
+            "name": "Kapustnica",
+            "tip": "O supă bogată de varză murată, adesea cu cârnați. Perfectă pentru o zi mai răcoroasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Slovak potato dumplings with sheep cheese and bacon. Try them at Česká hospoda restaurant."
+          },
+          {
+            "name": "Kapustnica",
+            "tip": "A rich sauerkraut soup, often with sausage. Perfect for a cooler day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Fluss Turiec",
+            "tip": "Ein ruhiger Weg entlang des Flusses, ideal um dem Trubel der Stadt zu entkommen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bänke im Nationalfriedhof",
+            "tip": "Ein Ort der Besinnung und Ruhe inmitten historischer Gräber.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Turiec folyó partján",
+            "tip": "Csendes ösvény a folyó mentén, ideális a városi nyüzsgés elől való elvonulásra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Padok a Nemzeti Temetőben",
+            "tip": "Az elmélkedés és a béke helye a történelmi sírok között.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului Turiec",
+            "tip": "O potecă liniștită de-a lungul râului, ideală pentru a evada din agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Băncile din Cimitirul Național",
+            "tip": "Un loc de contemplare și pace printre morminte istorice.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along the Turiec River",
+            "tip": "A quiet path along the river, ideal for escaping the city buzz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Benches in the National Cemetery",
+            "tip": "A place of contemplation and peace amidst historical graves.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Kunsthandwerk",
+            "tip": "Suchen Sie in den Museumsshops nach traditionellen slowakischen Souvenirs wie Holzschnitzereien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen hagyományos szlovák ajándéktárgyakat, például fafaragásokat a múzeumi boltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați suveniruri tradiționale slovace, cum ar fi sculpturi în lemn, în magazinele muzeelor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Crafts",
+            "tip": "Look for traditional Slovak souvenirs like wood carvings in the museum shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum kann gebührenpflichtig sein.",
+          "Planen Sie die Route zwischen den Clustern, um Zeit zu sparen.",
+          "Das Museum des slowakischen Dorfes hat einen großen Parkplatz."
+        ],
+        "hu": [
+          "A belvárosi parkolás díjköteles lehet.",
+          "Tervezze meg az útvonalat a látnivaló-csoportok között, hogy időt takarítson meg.",
+          "A Szlovák Falu Múzeumának nagy parkolója van."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi contra cost.",
+          "Planificați traseul între clustere pentru a economisi timp.",
+          "Muzeul Satului Slovac are o parcare mare."
+        ],
+        "en": [
+          "Parking in the city center may be paid.",
+          "Plan your route between clusters to save time.",
+          "The Museum of the Slovak Village has a large parking lot."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft im Zentrum & Kirche des Heiligen Martin",
+            "hu": "Érkezés a központba és Szent Márton-templom",
+            "ro": "Sosire în centru și Biserica Sfântul Martin",
+            "en": "Arrival in Center & Church of Saint Martin"
+          },
+          "coords": [
+            18.923,
+            49.0658
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an der zentralen Bushaltestelle und gehen Sie zur Kirche.",
+            "hu": "Kezdje a napot a központi buszmegállónál, és sétáljon el a templomhoz.",
+            "ro": "Începeți ziua la stația centrală de autobuz și mergeți la biserică.",
+            "en": "Start your day at the central bus stop and walk to the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalfriedhof",
+            "hu": "Nemzeti Temető",
+            "ro": "Cimitirul Național",
+            "en": "National Cemetery"
+          },
+          "coords": [
+            18.9205,
+            49.0675
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Kirche entfernt. Nehmen Sie sich Zeit zum Nachdenken.",
+            "hu": "Rövid sétára a templomtól. Szánjon időt az elmélkedésre.",
+            "ro": "La o scurtă plimbare de biserică. Acordați-vă timp pentru reflecție.",
+            "en": "A short walk from the church. Take time to reflect."
+          }
+        },
+        {
+          "name": {
+            "de": "SNM - Ethnographisches Museum",
+            "hu": "SNM - Néprajzi Múzeum",
+            "ro": "SNM - Muzeul Etnografic",
+            "en": "SNM - Ethnographic Museum"
+          },
+          "coords": [
+            18.928,
+            49.07
+          ],
+          "category": "museums",
+          "arrive_at": "11:10",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Gibt einen tollen Einblick in die slowakische Volkskultur, bevor Sie das Dorf-Museum besuchen.",
+            "hu": "Nagyszerű betekintést nyújt a szlovák népi kultúrába, mielőtt meglátogatná a Falumúzeumot.",
+            "ro": "Oferă o perspectivă excelentă asupra culturii populare slovace înainte de a vizita Muzeul Satului.",
+            "en": "Provides great insight into Slovak folk culture before visiting the Village Museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Busfahrt",
+            "hu": "Ebéd és buszozás",
+            "ro": "Prânz și călătorie cu autobuzul",
+            "en": "Lunch and Bus Ride"
+          },
+          "coords": [
+            18.926,
+            49.068
+          ],
+          "category": "gastro",
+          "arrive_at": "12:45",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Essen Sie in der Nähe einer Bushaltestelle, die zum Museum des slowakischen Dorfes fährt.",
+            "hu": "Egyen egy buszmegálló közelében, ahonnan a Szlovák Falu Múzeumához indul busz.",
+            "ro": "Luați masa lângă o stație de autobuz care merge spre Muzeul Satului Slovac.",
+            "en": "Eat near a bus stop that goes to the Museum of the Slovak Village."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum des slowakischen Dorfes",
+            "hu": "A Szlovák Falu Múzeuma",
+            "ro": "Muzeul Satului Slovac",
+            "en": "Museum of the Slovak Village"
+          },
+          "coords": [
+            18.905,
+            49.055
+          ],
+          "category": "museums",
+          "arrive_at": "14:20",
+          "stay_min": 175,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.8,
+          "tip_5lang": {
+            "de": "Der Höhepunkt des Tages. Überprüfen Sie die Busfahrpläne für die Rückfahrt im Voraus.",
+            "hu": "A nap fénypontja. Előre ellenőrizze a visszautazáshoz szükséges buszmenetrendet.",
+            "ro": "Punctul culminant al zilei. Verificați în avans orarul autobuzelor pentru întoarcere.",
+            "en": "The highlight of the day. Check bus schedules for the return trip in advance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Martin mit öffentlichen Verkehrsmitteln. Der Vormittag gehört dem historischen Zentrum, das Sie bequem zu Fuß erkunden können – von der Kirche des Heiligen Martin über den Nationalfriedhof bis zum Ethnographischen Museum. Nach einem stärkenden Mittagessen in der Stadt nehmen Sie den Bus zum weitläufigen Museum des slowakischen Dorfes. Verbringen Sie den gesamten Nachmittag in dieser beeindruckenden Freilichtanlage, die Sie in die Vergangenheit der Slowakei entführt. Planen Sie Ihre Rückfahrt mit dem Bus sorgfältig, um einen entspannten Abschluss dieses kulturreichen Tages zu gewährleisten.",
+        "hu": "Fedezze fel Turócszentmárton-t tömegközlekedéssel. A délelőtt a történelmi központé, amelyet kényelmesen bejárhat gyalog – a Szent Márton-templomtól a Nemzeti Temetőn át a Néprajzi Múzeumig. Egy városi ebéd után szálljon buszra a tágas Szlovák Falu Múzeumához. Töltse az egész délutánt ebben a lenyűgöző szabadtéri létesítményben, amely visszarepíti Önt Szlovákia múltjába. Tervezze meg gondosan a buszos visszautat, hogy nyugodtan zárhassa ezt a kultúrában gazdag napot.",
+        "ro": "Descoperiți Martin cu transportul public. Dimineața este dedicată centrului istoric, pe care îl puteți explora confortabil pe jos - de la Biserica Sf. Martin, la Cimitirul Național și la Muzeul Etnografic. După un prânz în oraș, luați autobuzul spre vastul Muzeu al Satului Slovac. Petreceți întreaga după-amiază în acest impresionant complex în aer liber, care vă va transporta în trecutul Slovaciei. Planificați-vă cu atenție călătoria cu autobuzul de întoarcere pentru a asigura o încheiere relaxantă a acestei zile bogate cultural.",
+        "en": "Discover Martin using public transport. The morning belongs to the historical center, which you can comfortably explore on foot - from St. Martin's Church to the National Cemetery and the Ethnographic Museum. After lunch in the city, take the bus to the expansive Museum of the Slovak Village. Spend the entire afternoon in this impressive open-air facility that will transport you to Slovakia's past. Plan your return bus trip carefully to ensure a relaxed end to this culturally rich day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Slowakische Nocken mit Schafskäse und Speck. Probieren Sie sie im Restaurant Česká hospoda."
+          },
+          {
+            "name": "Kapustnica",
+            "tip": "Eine reichhaltige Sauerkrautsuppe, oft mit Wurst. Perfekt für einen kühleren Tag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bryndzové halušky (Juhtúrós sztrapacska)",
+            "tip": "Szlovák specialitás juhtúróval és szalonnával. Kóstolja meg a Česká hospoda étteremben."
+          },
+          {
+            "name": "Kapustnica (Káposztaleves)",
+            "tip": "Gazdag savanyúkáposzta-leves, gyakran kolbásszal. Tökéletes egy hűvösebb napra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Găluște slovace cu brânză de oaie și slănină. Încercați-le la restaurantul Česká hospoda."
+          },
+          {
+            "name": "Kapustnica",
+            "tip": "O supă bogată de varză murată, adesea cu cârnați. Perfectă pentru o zi mai răcoroasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Slovak potato dumplings with sheep cheese and bacon. Try them at Česká hospoda restaurant."
+          },
+          {
+            "name": "Kapustnica",
+            "tip": "A rich sauerkraut soup, often with sausage. Perfect for a cooler day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Fluss Turiec",
+            "tip": "Ein ruhiger Weg entlang des Flusses, ideal um dem Trubel der Stadt zu entkommen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bänke im Nationalfriedhof",
+            "tip": "Ein Ort der Besinnung und Ruhe inmitten historischer Gräber.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Turiec folyó partján",
+            "tip": "Csendes ösvény a folyó mentén, ideális a városi nyüzsgés elől való elvonulásra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Padok a Nemzeti Temetőben",
+            "tip": "Az elmélkedés és a béke helye a történelmi sírok között.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului Turiec",
+            "tip": "O potecă liniștită de-a lungul râului, ideală pentru a evada din agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Băncile din Cimitirul Național",
+            "tip": "Un loc de contemplare și pace printre morminte istorice.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along the Turiec River",
+            "tip": "A quiet path along the river, ideal for escaping the city buzz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Benches in the National Cemetery",
+            "tip": "A place of contemplation and peace amidst historical graves.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Kunsthandwerk",
+            "tip": "Suchen Sie in den Museumsshops nach traditionellen slowakischen Souvenirs wie Holzschnitzereien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen hagyományos szlovák ajándéktárgyakat, például fafaragásokat a múzeumi boltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați suveniruri tradiționale slovace, cum ar fi sculpturi în lemn, în magazinele muzeelor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Crafts",
+            "tip": "Look for traditional Slovak souvenirs like wood carvings in the museum shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Informieren Sie sich im Voraus über die Buslinien und Fahrpläne.",
+          "Haben Sie etwas Kleingeld für Tickets parat."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy pénzt takarítson meg.",
+          "Tájékozódjon előre a buszjáratokról és a menetrendről.",
+          "Legyen Önnél aprópénz a jegyekhez."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru a economisi bani.",
+          "Verificați în avans rutele și orarele autobuzelor.",
+          "Aveți la îndemână mărunțiș pentru bilete."
+        ],
+        "en": [
+          "Buy a day pass for the bus to save money.",
+          "Check bus routes and schedules in advance.",
+          "Have some small change ready for tickets."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1391 @@
+{
+  "city_id": "greece-edessa-cities-v2",
+  "anchor": {
+    "name": "Edessa",
+    "coords": [
+      22.0469,
+      40.8016
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 4.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Varosi-Viertel",
+            "hu": "Varosi negyed",
+            "ro": "Cartierul Varosi",
+            "en": "Varosi District"
+          },
+          "coords": [
+            22.0511,
+            40.8035
+          ],
+          "category": "old-town",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den engen Gassen und bewundern Sie die traditionelle mazedonische Architektur.",
+            "hu": "Tévedjen el a szűk sikátorokban, és csodálja meg a hagyományos macedón építészetet.",
+            "ro": "Pierdeți-vă pe străduțele înguste și admirați arhitectura tradițională macedoneană.",
+            "en": "Get lost in the narrow alleys and admire the traditional Macedonian architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Byzantinische Brücke",
+            "hu": "Bizánci híd",
+            "ro": "Podul Bizantin",
+            "en": "Byzantine Bridge"
+          },
+          "coords": [
+            22.052,
+            40.8042
+          ],
+          "category": "bridges",
+          "arrive_at": "10:35",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für Fotos, der über den Fluss Edessaios führt, der die Stadt teilt.",
+            "hu": "Nagyszerű fotóhelyszín az Edesszaiosz folyó felett, amely kettészeli a várost.",
+            "ro": "Un loc excelent pentru fotografii, traversând râul Edessaios care împarte orașul.",
+            "en": "A great spot for photos, crossing the Edessaios river that divides the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Yeni-Moschee",
+            "hu": "Yeni-mecset",
+            "ro": "Moscheea Yeni",
+            "en": "Yeni Mosque"
+          },
+          "coords": [
+            22.0495,
+            40.8031
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Eines der wenigen erhaltenen osmanischen Denkmäler in der Stadt, heute als Museum genutzt.",
+            "hu": "A város kevés megmaradt oszmán emlékeinek egyike, ma múzeumként működik.",
+            "ro": "Unul dintre puținele monumente otomane rămase în oraș, acum folosit ca muzeu.",
+            "en": "One of the few remaining Ottoman monuments in the city, now used as a museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm von Edessa",
+            "hu": "Edesszai óratorony",
+            "ro": "Turnul cu Ceas din Edessa",
+            "en": "Edessa Clock Tower"
+          },
+          "coords": [
+            22.048,
+            40.802
+          ],
+          "category": "towers",
+          "arrive_at": "11:35",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein zentraler Orientierungspunkt, der das historische Zentrum der Stadt markiert.",
+            "hu": "Központi tájékozódási pont, amely a város történelmi központját jelöli.",
+            "ro": "Un punct de reper central care marchează centrul istoric al orașului.",
+            "en": "A central landmark marking the historic center of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Park der Wasserfälle",
+            "hu": "Vízesések parkja",
+            "ro": "Parcul Cascadei",
+            "en": "Waterfalls Park"
+          },
+          "coords": [
+            22.045,
+            40.801
+          ],
+          "category": "parks",
+          "arrive_at": "12:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für einen entspannten Spaziergang und genießen Sie die üppige Vegetation.",
+            "hu": "Szánjon időt egy pihentető sétára, és élvezze a buja növényzetet.",
+            "ro": "Luați-vă timp pentru o plimbare relaxantă și bucurați-vă de vegetația luxuriantă.",
+            "en": "Take your time for a relaxing stroll and enjoy the lush greenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserfälle von Edessa",
+            "hu": "Edesszai vízesések",
+            "ro": "Cascadele din Edessa",
+            "en": "Edessa Waterfalls"
+          },
+          "coords": [
+            22.044,
+            40.8005
+          ],
+          "category": "natural features",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Gehen Sie hinter den größten Wasserfall, Karanos, für eine einzigartige Perspektive.",
+            "hu": "Menjen be a legnagyobb vízesés, a Karanos mögé egy egyedülálló perspektíváért.",
+            "ro": "Mergeți în spatele celei mai mari cascade, Karanos, pentru o perspectivă unică.",
+            "en": "Walk behind the largest waterfall, Karanos, for a unique perspective."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasser-Freilichtmuseum",
+            "hu": "Szabadtéri Vízi Múzeum",
+            "ro": "Muzeul Apei în Aer Liber",
+            "en": "Open-Air Water Museum"
+          },
+          "coords": [
+            22.0435,
+            40.799
+          ],
+          "category": "museums",
+          "arrive_at": "15:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erfahren Sie, wie die Wasserkraft die industrielle Entwicklung von Edessa geprägt hat.",
+            "hu": "Ismerje meg, hogyan formálta a vízenergia Edessza ipari fejlődését.",
+            "ro": "Aflați cum puterea apei a modelat dezvoltarea industrială a Edessei.",
+            "en": "Learn how water power shaped the industrial development of Edessa."
+          }
+        },
+        {
+          "name": {
+            "de": "Hanf-Fabrik",
+            "hu": "Kendergyár",
+            "ro": "Fabrica de Cânepă",
+            "en": "Hemp Factory"
+          },
+          "coords": [
+            22.0442,
+            40.7985
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "17:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein faszinierender Einblick in die industrielle Vergangenheit der Stadt, oft gibt es Kunstausstellungen.",
+            "hu": "Lenyűgöző betekintés a város ipari múltjába, gyakran tartanak itt művészeti kiállításokat.",
+            "ro": "O privire fascinantă în trecutul industrial al orașului, adesea găzduiește expoziții de artă.",
+            "en": "A fascinating look into the city's industrial past, often hosts art exhibitions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Varosi-Viertel und wandern Sie durch die osmanische und byzantinische Geschichte. Am Mittag erreichen Sie das Herz der Stadt, die berühmten Wasserfälle, wo das Rauschen des Wassers die Luft erfüllt. Verbringen Sie den Nachmittag damit, die Kraft des Wassers im Freilichtmuseum und in der alten Hanffabrik zu erkunden. Beenden Sie den Tag mit einem entspannten Abendessen in einer Taverne mit Blick auf die beleuchteten Wasserfälle.",
+        "hu": "Kezdje a napot a történelmi Varosi negyedben, barangolva az oszmán és bizánci történelemben. Délben érje el a város szívét, a híres vízeséseket, ahol a víz zúgása tölti be a levegőt. Töltse a délutánt a víz erejének felfedezésével a Szabadtéri Vízi Múzeumban és a régi Kendergyárban. Zárja a napot egy pihentető vacsorával egy tavernában, kilátással a kivilágított vízesésekre.",
+        "ro": "Începeți ziua în cartierul istoric Varosi, plimbându-vă prin istoria otomană și bizantină. La prânz, ajungeți în inima orașului, faimoasele cascade, unde vuietul apei umple aerul. Petreceți după-amiaza explorând puterea apei la Muzeul în Aer Liber și la vechea Fabrică de Cânepă. Încheiați ziua cu o cină relaxantă la o tavernă cu vedere la cascadele iluminate.",
+        "en": "Start your day in the historic Varosi district, wandering through Ottoman and Byzantine history. By midday, reach the heart of the city, the famous waterfalls, where the roar of the water fills the air. Spend the afternoon exploring the power of water at the Open-Air Museum and the old Hemp Factory. End your day with a relaxing dinner at a tavern overlooking the illuminated waterfalls."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Katarraktes Restaurant",
+            "tip": "Genießen Sie lokale mazedonische Gerichte mit einem unschlagbaren Blick auf die Wasserfälle."
+          },
+          {
+            "name": "To Varosi",
+            "tip": "Traditionelle Taverne im alten Viertel, bekannt für gegrilltes Fleisch und hausgemachte Vorspeisen."
+          },
+          {
+            "name": "Boutaris Winery (in der Nähe)",
+            "tip": "Probieren Sie den lokalen Xinomavro-Wein, eine Spezialität der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Katarraktes Étterem",
+            "tip": "Élvezze a helyi macedón ételeket a vízesésekre nyíló verhetetlen kilátással."
+          },
+          {
+            "name": "To Varosi",
+            "tip": "Hagyományos taverna az óvárosban, híres grillezett húsairól és házi előételeiről."
+          },
+          {
+            "name": "Boutaris Pincészet (közeli)",
+            "tip": "Kóstolja meg a helyi Xinomavro bort, a régió specialitását."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul Katarraktes",
+            "tip": "Savurați preparate locale macedonene cu o priveliște imbatabilă asupra cascadelor."
+          },
+          {
+            "name": "To Varosi",
+            "tip": "Tavernă tradițională în cartierul vechi, renumită pentru carnea la grătar și aperitivele de casă."
+          },
+          {
+            "name": "Crama Boutaris (în apropiere)",
+            "tip": "Degustați vinul local Xinomavro, o specialitate a regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Katarraktes Restaurant",
+            "tip": "Enjoy local Macedonian dishes with an unbeatable view of the waterfalls."
+          },
+          {
+            "name": "To Varosi",
+            "tip": "Traditional taverna in the old district, famous for its grilled meats and homemade appetizers."
+          },
+          {
+            "name": "Boutaris Winery (nearby)",
+            "tip": "Taste the local Xinomavro wine, a specialty of the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang hinter dem Karanos-Wasserfall",
+            "tip": "Ein kühler, nebliger Ort, um dem Trubel zu entkommen und die Kraft der Natur zu spüren.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park der kleinen Wasserfälle",
+            "tip": "Weniger überlaufen als die Hauptfälle, mit charmanten kleinen Brücken und Bänken.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bänke im Varosi-Viertel",
+            "tip": "Finden Sie eine ruhige Ecke in den alten Straßen, um die Atmosphäre aufzusaugen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Karanos-vízesés mögött",
+            "tip": "Hűvös, párás hely, ahol elmenekülhet a tömeg elől és érezheti a természet erejét.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kis vízesések parkja",
+            "tip": "Kevésbé zsúfolt, mint a fő vízesések, bájos kis hidakkal és padokkal.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Padok a Varosi negyedben",
+            "tip": "Találjon egy csendes sarkot a régi utcákon, hogy magába szívja a hangulatot.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare în spatele cascadei Karanos",
+            "tip": "Un loc răcoros, cețos, pentru a scăpa de agitație și a simți puterea naturii.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul cascadelor mici",
+            "tip": "Mai puțin aglomerat decât cascadele principale, cu poduri și bănci fermecătoare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bănci în cartierul Varosi",
+            "tip": "Găsiți un colț liniștit pe străzile vechi pentru a absorbi atmosfera.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk behind the Karanos Waterfall",
+            "tip": "A cool, misty spot to escape the crowds and feel the power of nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park of the Small Waterfalls",
+            "tip": "Less crowded than the main falls, with charming little bridges and benches.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Benches in Varosi District",
+            "tip": "Find a quiet corner in the old streets to soak in the atmosphere.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Märkte",
+            "tip": "Kaufen Sie lokale Produkte wie Kirschen (in der Saison), Honig und den berühmten roten Pfeffer."
+          },
+          {
+            "name": "Souvenirläden am Wasserfall",
+            "tip": "Hier finden Sie handgefertigte Waren und Souvenirs, die mit dem Wasser in Verbindung stehen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piacok",
+            "tip": "Vásároljon helyi termékeket, például cseresznyét (szezonban), mézet és a híres pirospaprikát."
+          },
+          {
+            "name": "Ajándékboltok a vízesésnél",
+            "tip": "Keressen kézműves termékeket és a vízzel kapcsolatos szuveníreket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe locale",
+            "tip": "Cumpărați produse locale precum cireșe (în sezon), miere și faimosul ardei roșu."
+          },
+          {
+            "name": "Magazine de suveniruri la cascadă",
+            "tip": "Găsiți produse artizanale și suveniruri legate de apă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Markets",
+            "tip": "Shop for local produce like cherries (in season), honey, and the famous red pepper."
+          },
+          {
+            "name": "Souvenir shops at the waterfalls",
+            "tip": "Find handcrafted goods and water-related souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in Varosi uneben sein kann.",
+          "Nehmen Sie eine wasserdichte Jacke oder einen Poncho für den Bereich hinter dem Wasserfall mit, Sie werden nass!",
+          "Viele Cafés bieten einen atemberaubenden Blick auf die Ebene von Pella.",
+          "Die beste Zeit für einen Besuch ist im Frühling, wenn der Wasserfluss am stärksten ist und die Natur blüht."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a Varosi negyed macskakövei egyenetlenek lehetnek.",
+          "Vigyen magával vízálló dzsekit vagy poncsót a vízesés mögötti részre, vizes lesz!",
+          "Sok kávézó kínál lenyűgöző kilátást a Pella-síkságra.",
+          "A legjobb idő a látogatásra tavasszal van, amikor a vízhozam a legerősebb és a természet virágzik."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din Varosi poate fi denivelat.",
+          "Luați o jachetă impermeabilă sau o pelerină pentru zona din spatele cascadei, vă veți uda!",
+          "Multe cafenele oferă vederi uimitoare ale câmpiei Pella.",
+          "Cel mai bun moment pentru a vizita este primăvara, când debitul apei este cel mai puternic și natura este înflorită."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in Varosi can be uneven.",
+          "Bring a waterproof jacket or a poncho for the area behind the waterfall, you will get wet!",
+          "Many cafes offer stunning views of the Pella plain.",
+          "The best time to visit is in spring when the water flow is strongest and nature is in bloom."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Uhrturm von Edessa",
+            "hu": "Edesszai óratorony",
+            "ro": "Turnul cu Ceas din Edessa",
+            "en": "Edessa Clock Tower"
+          },
+          "coords": [
+            22.048,
+            40.802
+          ],
+          "category": "towers",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein perfekter Ausgangspunkt, um sich zu orientieren, bevor Sie in die Pedale treten.",
+            "hu": "Tökéletes kiindulópont a tájékozódáshoz, mielőtt nyeregbe pattan.",
+            "ro": "Un punct de plecare perfect pentru a vă orienta înainte de a începe să pedalați.",
+            "en": "A perfect starting point to get your bearings before you start pedaling."
+          }
+        },
+        {
+          "name": {
+            "de": "Varosi-Viertel",
+            "hu": "Varosi negyed",
+            "ro": "Cartierul Varosi",
+            "en": "Varosi District"
+          },
+          "coords": [
+            22.0511,
+            40.8035
+          ],
+          "category": "old-town",
+          "arrive_at": "09:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schieben Sie Ihr Fahrrad durch die engsten Gassen, um die empfindlichen Steine nicht zu beschädigen.",
+            "hu": "Tolja a kerékpárt a legszűkebb sikátorokban, hogy ne sértse meg az érzékeny köveket.",
+            "ro": "Împingeți bicicleta pe cele mai înguste alei pentru a nu deteriora pietrele delicate.",
+            "en": "Push your bike through the narrowest alleys to avoid damaging the delicate stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Byzantinische Brücke",
+            "hu": "Bizánci híd",
+            "ro": "Podul Bizantin",
+            "en": "Byzantine Bridge"
+          },
+          "coords": [
+            22.052,
+            40.8042
+          ],
+          "category": "bridges",
+          "arrive_at": "10:33",
+          "stay_min": 20,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Halten Sie für eine kurze Pause an und genießen Sie die Aussicht von dieser alten Brücke.",
+            "hu": "Álljon meg egy rövid pihenőre, és élvezze a kilátást erről az ősi hídról.",
+            "ro": "Opriți-vă pentru o scurtă pauză și bucurați-vă de priveliștea de pe acest pod antic.",
+            "en": "Stop for a quick break and enjoy the view from this ancient bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Park der Wasserfälle",
+            "hu": "Vízesések parkja",
+            "ro": "Parcul Cascadei",
+            "en": "Waterfalls Park"
+          },
+          "coords": [
+            22.045,
+            40.801
+          ],
+          "category": "parks",
+          "arrive_at": "11:08",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und erkunden Sie die vielen Wege, die zu den Wasserfällen führen.",
+            "hu": "Zárja le a kerékpárt, és fedezze fel a vízesésekhez vezető számos ösvényt.",
+            "ro": "Legați-vă bicicleta și explorați numeroasele cărări care duc la cascade.",
+            "en": "Lock up your bike and explore the many paths leading to the falls."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserfälle von Edessa",
+            "hu": "Edesszai vízesések",
+            "ro": "Cascadele din Edessa",
+            "en": "Edessa Waterfalls"
+          },
+          "coords": [
+            22.044,
+            40.8005
+          ],
+          "category": "natural features",
+          "arrive_at": "11:56",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der Sprühnebel der Wasserfälle ist eine willkommene Abkühlung an einem warmen Tag.",
+            "hu": "A vízesések permete kellemes hűsítést nyújt egy meleg napon.",
+            "ro": "Stropii de la cascade sunt o răcorire binevenită într-o zi călduroasă.",
+            "en": "The spray from the waterfalls is a welcome refreshment on a warm day."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasser-Freilichtmuseum",
+            "hu": "Szabadtéri Vízi Múzeum",
+            "ro": "Muzeul Apei în Aer Liber",
+            "en": "Open-Air Water Museum"
+          },
+          "coords": [
+            22.0435,
+            40.799
+          ],
+          "category": "museums",
+          "arrive_at": "13:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Eine einfache Radtour vom Hauptpark entfernt, es gibt spezielle Fahrradständer.",
+            "hu": "Könnyű kerékpártúra a fő parktól, külön kerékpártárolók állnak rendelkezésre.",
+            "ro": "O plimbare ușoară cu bicicleta de la parcul principal, există suporturi speciale pentru biciclete.",
+            "en": "An easy bike ride from the main park, there are dedicated bike racks."
+          }
+        },
+        {
+          "name": {
+            "de": "Hanf-Fabrik",
+            "hu": "Kendergyár",
+            "ro": "Fabrica de Cânepă",
+            "en": "Hemp Factory"
+          },
+          "coords": [
+            22.0485,
+            40.795
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Die Fahrt dorthin führt durch ein weniger touristisches Gebiet von Edessa.",
+            "hu": "Az odavezető út Edessza egy kevésbé turista által látogatott részén vezet keresztül.",
+            "ro": "Drumul până acolo vă duce printr-o zonă mai puțin turistică a Edessei.",
+            "en": "The ride there takes you through a less touristy area of Edessa."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am Uhrturm und radeln Sie in die Geschichte im Varosi-Viertel. Eine kurze Fahrt bringt Sie zu den rauschenden Wasserfällen, dem perfekten Ort für eine Mittagspause. Am Nachmittag radeln Sie entlang der Wasserwege zum Freilichtmuseum und zur Hanffabrik und folgen der industriellen Geschichte der Stadt. Beenden Sie Ihre Tour mit einer Rückfahrt ins Zentrum und einem wohlverdienten Abendessen.",
+        "hu": "Induljon az Óratoronytól, és tekerjen bele a történelembe a Varosi negyedben. Egy rövid út elvezeti a zubogó vízesésekhez, amely tökéletes hely egy déli pihenőre. Délután tekerjen a vízfolyások mentén a Szabadtéri Múzeumhoz és a Kendergyárhoz, követve a város ipari történelmét. Zárja a túrát a központba való visszatéréssel és egy jól megérdemelt vacsorával.",
+        "ro": "Începeți de la Turnul cu Ceas și pedalați în istorie în cartierul Varosi. O scurtă plimbare vă duce la cascadele zgomotoase, locul perfect pentru o pauză de prânz. După-amiaza, pedalați de-a lungul canalelor de apă până la Muzeul în Aer Liber și Fabrica de Cânepă, urmărind istoria industrială a orașului. Încheiați turul cu o plimbare înapoi în centru pentru o cină binemeritată.",
+        "en": "Start at the Clock Tower and cycle into history in the Varosi district. A short ride takes you to the roaring waterfalls, the perfect spot for a midday break. In the afternoon, cycle along the waterways to the Open-Air Museum and the Hemp Factory, tracing the city's industrial history. End your tour with a ride back to the center for a well-deserved dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Psilo Dendro",
+            "tip": "Ein entspanntes Café in der Nähe der kleinen Wasserfälle, ideal für einen Kaffee und einen Snack."
+          },
+          {
+            "name": "Taverna Filaraki",
+            "tip": "Etwas abseits der Touristenpfade, bietet authentische, hausgemachte griechische Küche."
+          },
+          {
+            "name": "Früchtemarkt",
+            "tip": "Holen Sie sich frische Kirschen oder Pfirsiche für einen Energieschub während der Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Psilo Dendro",
+            "tip": "Egy nyugodt kávézó a kis vízesések közelében, ideális egy kávéra és egy harapnivalóra."
+          },
+          {
+            "name": "Taverna Filaraki",
+            "tip": "Kicsit távolabb a turistaútvonalaktól, autentikus, házias görög ételeket kínál."
+          },
+          {
+            "name": "Gyümölcspiac",
+            "tip": "Szerezzen be friss cseresznyét vagy őszibarackot egy energiabomba erejéig a kerékpártúra során."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Psilo Dendro",
+            "tip": "O cafenea relaxată lângă cascadele mici, perfectă pentru o cafea și o gustare."
+          },
+          {
+            "name": "Taverna Filaraki",
+            "tip": "Puțin în afara traseelor turistice, oferă bucătărie grecească autentică, de casă."
+          },
+          {
+            "name": "Piața de fructe",
+            "tip": "Luați cireșe sau piersici proaspete pentru un plus de energie în timpul turului cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Psilo Dendro",
+            "tip": "A relaxed cafe near the small waterfalls, perfect for a coffee and a snack."
+          },
+          {
+            "name": "Taverna Filaraki",
+            "tip": "A bit off the beaten path, offering authentic, home-cooked Greek food."
+          },
+          {
+            "name": "Fruit Market",
+            "tip": "Grab some fresh cherries or peaches for an energy boost during your bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Flussufer des Edessaios",
+            "tip": "Finden Sie einen ruhigen Platz am Flussufer, abseits der Haupttouristenströme.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kathedrale Agia Skepi (innen)",
+            "tip": "Ein Moment der Stille und Besinnung in dieser wichtigen orthodoxen Kirche.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Aussichtspunkt Psilos Vrachos",
+            "tip": "Eine kurze, aber steile Fahrt zu einem Panoramablick über die gesamte Region.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Edesszaiosz folyó partja",
+            "tip": "Találjon egy csendes helyet a folyóparton, távol a fő turistaáramlattól.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Agia Skepi katedrális (belül)",
+            "tip": "A csend és az elmélkedés pillanata ebben a fontos ortodox templomban.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Psilos Vrachos kilátó",
+            "tip": "Rövid, de meredek út egy panorámás kilátóponthoz az egész régióra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Edessaios",
+            "tip": "Găsiți un loc liniștit pe malul râului, departe de fluxurile turistice principale.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Catedrala Agia Skepi (interior)",
+            "tip": "Un moment de liniște și contemplare în această importantă biserică ortodoxă.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Punctul de belvedere Psilos Vrachos",
+            "tip": "O plimbare scurtă, dar abruptă, către o vedere panoramică asupra întregii regiuni.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Edessaios Riverbank",
+            "tip": "Find a quiet spot along the riverbank, away from the main tourist flows.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Agia Skepi Cathedral (inside)",
+            "tip": "A moment of silence and contemplation in this important Orthodox church.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Psilos Vrachos Viewpoint",
+            "tip": "A short but steep ride to a panoramic viewpoint over the entire region.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad, insbesondere die Bremsen, bevor Sie die Hügel von Edessa in Angriff nehmen.",
+          "Einige Straßen in Varosi sind zu eng zum Radfahren; seien Sie bereit, abzusteigen und zu schieben.",
+          "Nehmen Sie viel Wasser mit, besonders im Sommer.",
+          "Ein Fahrradschloss ist unerlässlich, um Ihr Fahrrad sicher abzustellen, während Sie die Sehenswürdigkeiten erkunden."
+        ],
+        "hu": [
+          "Ellenőrizze a kerékpárt, különösen a fékeket, mielőtt nekivág Edessza dombjainak.",
+          "Néhány utca a Varosi negyedben túl szűk a kerékpározáshoz; legyen kész leszállni és tolni.",
+          "Vigyen magával sok vizet, különösen nyáron.",
+          "A kerékpárzár elengedhetetlen a kerékpár biztonságos lezárásához, amíg a látnivalókat fedezi fel."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta, în special frânele, înainte de a aborda dealurile din Edessa.",
+          "Unele străzi din Varosi sunt prea înguste pentru ciclism; fiți pregătiți să coborâți și să împingeți.",
+          "Luați multă apă, mai ales vara.",
+          "Un lacăt pentru bicicletă este esențial pentru a vă lăsa bicicleta în siguranță în timp ce explorați obiectivele turistice."
+        ],
+        "en": [
+          "Check your bike, especially the brakes, before tackling the hills of Edessa.",
+          "Some streets in Varosi are too narrow for cycling; be prepared to dismount and push.",
+          "Carry plenty of water, especially in the summer.",
+          "A bike lock is essential to leave your bike securely while you explore the sights."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:54",
+      "total_km": 11.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Varosi-Viertel",
+            "hu": "Parkoló a Varosi negyednél",
+            "ro": "Parcare Cartierul Varosi",
+            "en": "Varosi District Parking"
+          },
+          "coords": [
+            22.0525,
+            40.8045
+          ],
+          "category": "parking",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie den ersten Cluster zu Fuß.",
+            "hu": "Parkoljon itt, és fedezze fel az első látnivaló-csoportot gyalog.",
+            "ro": "Parcați aici și explorați primul grup de atracții pe jos.",
+            "en": "Park here and explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Varosi-Viertel",
+            "hu": "Varosi negyed",
+            "ro": "Cartierul Varosi",
+            "en": "Varosi District"
+          },
+          "coords": [
+            22.0511,
+            40.8035
+          ],
+          "category": "old-town",
+          "arrive_at": "09:20",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die autofreie Atmosphäre dieses gut erhaltenen historischen Viertels.",
+            "hu": "Élvezze ennek a jól megőrzött történelmi negyednek az autómentes hangulatát.",
+            "ro": "Bucurați-vă de atmosfera fără mașini a acestui cartier istoric bine conservat.",
+            "en": "Enjoy the car-free atmosphere of this well-preserved historic district."
+          }
+        },
+        {
+          "name": {
+            "de": "Byzantinische Brücke",
+            "hu": "Bizánci híd",
+            "ro": "Podul Bizantin",
+            "en": "Byzantine Bridge"
+          },
+          "coords": [
+            22.052,
+            40.8042
+          ],
+          "category": "bridges",
+          "arrive_at": "10:35",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Herzen von Varosi entfernt, auf dem Rückweg zum Auto.",
+            "hu": "Rövid séta Varosi szívétől, visszafelé az autóhoz.",
+            "ro": "O scurtă plimbare de la inima Varosi, în drum spre mașină.",
+            "en": "A short walk from the heart of Varosi, on your way back to the car."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Wasserfälle",
+            "hu": "Parkoló a vízeséseknél",
+            "ro": "Parcare Cascade",
+            "en": "Waterfalls Parking"
+          },
+          "coords": [
+            22.0455,
+            40.8015
+          ],
+          "category": "parking",
+          "arrive_at": "11:20",
+          "stay_min": 5,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Der Hauptparkplatz für den zweiten Cluster. Von hier aus ist alles zu Fuß erreichbar.",
+            "hu": "A második látnivaló-csoport fő parkolója. Innen minden gyalog elérhető.",
+            "ro": "Parcarea principală pentru al doilea grup de atracții. Totul este la distanță de mers pe jos de aici.",
+            "en": "The main parking area for the second cluster. Everything is within walking distance from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Park der Wasserfälle & Wasserfälle",
+            "hu": "Vízesések parkja és vízesések",
+            "ro": "Parcul Cascadei & Cascadele",
+            "en": "Waterfalls Park & Waterfalls"
+          },
+          "coords": [
+            22.044,
+            40.8005
+          ],
+          "category": "natural features",
+          "arrive_at": "11:30",
+          "stay_min": 150,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie hier Ihre Mittagspause in einem der vielen Restaurants mit Aussicht.",
+            "hu": "Tervezze ide az ebédszünetet a számos, kilátással rendelkező étterem egyikében.",
+            "ro": "Planificați-vă pauza de prânz aici, la unul dintre multele restaurante cu vedere.",
+            "en": "Plan your lunch break here at one of the many restaurants with a view."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasser-Freilichtmuseum",
+            "hu": "Szabadtéri Vízi Múzeum",
+            "ro": "Muzeul Apei în Aer Liber",
+            "en": "Open-Air Water Museum"
+          },
+          "coords": [
+            22.0435,
+            40.799
+          ],
+          "category": "museums",
+          "arrive_at": "14:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein angenehmer Spaziergang bergab vom Hauptwasserfall durch den Park.",
+            "hu": "Kellemes séta lefelé a fő vízeséstől a parkon keresztül.",
+            "ro": "O plimbare plăcută la vale de la cascada principală prin parc.",
+            "en": "A pleasant downhill walk from the main waterfall through the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt außerhalb der Stadt",
+            "hu": "Városon kívüli kilátópont",
+            "ro": "Punct de belvedere în afara orașului",
+            "en": "Viewpoint Outside the City"
+          },
+          "coords": [
+            22.03,
+            40.81
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.6,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt für einen Panoramablick auf Edessa und die darunter liegende Ebene.",
+            "hu": "Rövid autózás egy panorámás kilátásért Edesszára és az alatta elterülő síkságra.",
+            "ro": "O scurtă călătorie cu mașina pentru o vedere panoramică a Edessei și a câmpiei de dedesubt.",
+            "en": "A short drive for a panoramic view of Edessa and the plain below."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Parken Sie Ihr Auto und beginnen Sie den Tag mit einem Spaziergang durch das historische Varosi-Viertel. Fahren Sie dann zum Hauptparkplatz der Wasserfälle für den zweiten Teil Ihres Tages. Verbringen Sie Stunden damit, die Wasserfälle und Museen zu Fuß zu erkunden. Beenden Sie Ihr Abenteuer mit einer kurzen Fahrt zu einem Aussichtspunkt, um die Stadt bei Sonnenuntergang zu bewundern.",
+        "hu": "Parkolja le az autót, és kezdje a napot egy sétával a történelmi Varosi negyedben. Ezután hajtson a vízesések fő parkolójába a nap második feléhez. Töltsön órákat a vízesések és múzeumok gyalogos felfedezésével. Zárja a kalandot egy rövid autózással egy kilátóponthoz, hogy naplementekor megcsodálhassa a várost.",
+        "ro": "Parcați mașina și începeți ziua cu o plimbare prin cartierul istoric Varosi. Apoi, conduceți la parcarea principală a cascadelor pentru a doua parte a zilei. Petreceți ore întregi explorând cascadele și muzeele pe jos. Încheiați aventura cu o scurtă călătorie cu mașina la un punct de belvedere pentru a admira orașul la apus.",
+        "en": "Park your car and start the day with a walking tour of the historic Varosi district. Then, drive to the main waterfalls parking for the second cluster of your day. Spend hours exploring the falls and museums on foot. Finish your adventure with a short drive to a viewpoint to admire the city at sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ousies",
+            "tip": "Moderne griechische Küche im Stadtzentrum, eine kurze Fahrt von den Wasserfällen entfernt."
+          },
+          {
+            "name": "Taverna 'To Steki'",
+            "tip": "Bekannt für seine Grillspezialitäten und herzhafte lokale Gerichte, bei Einheimischen beliebt."
+          },
+          {
+            "name": "Kirschen-Stände am Straßenrand (saisonal)",
+            "tip": "Edessa ist berühmt für seine Kirschen. Halten Sie an und kaufen Sie direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ousies",
+            "tip": "Modern görög konyha a városközpontban, rövid autóútra a vízesésektől."
+          },
+          {
+            "name": "Taverna 'To Steki'",
+            "tip": "Grillspecialitásairól és kiadós helyi ételeiről ismert, a helyiek körében népszerű."
+          },
+          {
+            "name": "Útszéli cseresznyeárusok (szezonális)",
+            "tip": "Edessza híres a cseresznyéjéről. Álljon meg és vásároljon közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ousies",
+            "tip": "Bucătărie grecească modernă în centrul orașului, la o scurtă distanță cu mașina de cascade."
+          },
+          {
+            "name": "Taverna 'To Steki'",
+            "tip": "Renumită pentru grătarele sale și mâncărurile locale consistente, populară printre localnici."
+          },
+          {
+            "name": "Tarabe cu cireșe pe marginea drumului (sezonier)",
+            "tip": "Edessa este renumită pentru cireșele sale. Opriți-vă și cumpărați direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ousies",
+            "tip": "Modern Greek cuisine in the city center, a short drive from the waterfalls."
+          },
+          {
+            "name": "Taverna 'To Steki'",
+            "tip": "Known for its grilled meats and hearty local dishes, a favorite among locals."
+          },
+          {
+            "name": "Roadside Cherry Stands (seasonal)",
+            "tip": "Edessa is famous for its cherries. Stop and buy directly from the farmer."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Agios Athanasios (in der Nähe)",
+            "tip": "Fahren Sie zum traditionellen Dorf Palaios Agios Athanasios für eine ruhige Bergatmosphäre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vegoritida-See (in der Nähe)",
+            "tip": "Ein ruhiger Ort für einen Nachmittagsausflug, etwa 30 Autominuten entfernt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kloster Agia Triada",
+            "tip": "Ein friedliches Kloster etwas außerhalb der Stadt, ideal für einen Moment der Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Agios Athanasios (közeli)",
+            "tip": "Vezessen el Palaios Agios Athanasios hagyományos falujába egy csendes hegyi hangulatért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vegoritida-tó (közeli)",
+            "tip": "Csendes hely egy délutáni kiránduláshoz, körülbelül 30 percnyi autóútra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Agia Triada kolostor",
+            "tip": "Békés kolostor a városon kívül, ideális egy csendes pillanathoz.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Agios Athanasios (în apropiere)",
+            "tip": "Conduceți până la satul tradițional Palaios Agios Athanasios pentru o atmosferă montană liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Lacul Vegoritida (în apropiere)",
+            "tip": "Un loc liniștit pentru o excursie de după-amiază, la aproximativ 30 de minute de mers cu mașina.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Mănăstirea Agia Triada",
+            "tip": "O mănăstire pașnică chiar în afara orașului, perfectă pentru un moment de liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Agios Athanasios (nearby)",
+            "tip": "Drive to the traditional village of Palaios Agios Athanasios for a quiet mountain atmosphere.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Lake Vegoritida (nearby)",
+            "tip": "A serene spot for an afternoon trip, about a 30-minute drive away.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Monastery of Agia Triada",
+            "tip": "A peaceful monastery just outside the city, perfect for a moment of tranquility.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken kann im Stadtzentrum schwierig sein; nutzen Sie die ausgewiesenen Parkplätze.",
+          "Die Straßen um Edessa sind kurvenreich, fahren Sie vorsichtig.",
+          "Kombinieren Sie Ihren Besuch mit einem Ausflug zum nahegelegenen Loutra Pozar (Thermalbäder).",
+          "Beachten Sie die Parkgebühren, insbesondere in der Nähe der Wasserfälle."
+        ],
+        "hu": [
+          "A parkolás nehézkes lehet a városközpontban; használja a kijelölt parkolókat.",
+          "Az Edessza körüli utak kanyargósak, vezessen óvatosan.",
+          "Kombinálja a látogatást egy kirándulással a közeli Loutra Pozarba (termálfürdők).",
+          "Vegye figyelembe a parkolási díjakat, különösen a vízesések közelében."
+        ],
+        "ro": [
+          "Parcarea poate fi dificilă în centrul orașului; folosiți parcările desemnate.",
+          "Drumurile din jurul Edessei sunt sinuoase, conduceți cu prudență.",
+          "Combinați vizita cu o excursie la Loutra Pozar (băile termale) din apropiere.",
+          "Fiți atenți la taxele de parcare, mai ales în apropierea cascadelor."
+        ],
+        "en": [
+          "Parking can be difficult in the city center; use the designated parking areas.",
+          "The roads around Edessa are winding, drive carefully.",
+          "Combine your visit with a trip to nearby Loutra Pozar (thermal baths).",
+          "Be aware of parking fees, especially near the waterfalls."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:03",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Busbahnhof",
+            "hu": "Központi buszpályaudvar",
+            "ro": "Autogara Centrală",
+            "en": "Central Bus Station"
+          },
+          "coords": [
+            22.047,
+            40.801
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten im Stadtgebiet.",
+            "hu": "Vásároljon napijegyet a korlátlan utazáshoz a városi területen.",
+            "ro": "Cumpărați un bilet de o zi pentru călătorii nelimitate în zona urbană.",
+            "en": "Purchase a day pass for unlimited travel within the city area."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle Varosi",
+            "hu": "Varosi megálló",
+            "ro": "Stația Varosi",
+            "en": "Varosi Stop"
+          },
+          "coords": [
+            22.0515,
+            40.803
+          ],
+          "category": "old-town",
+          "arrive_at": "09:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie hier aus und erkunden Sie das alte Viertel und die nahe gelegenen historischen Stätten zu Fuß.",
+            "hu": "Szálljon le itt, és fedezze fel gyalog az óvárost és a közeli történelmi helyszíneket.",
+            "ro": "Coborâți aici și explorați cartierul vechi și siturile istorice din apropiere pe jos.",
+            "en": "Get off here and explore the old district and nearby historic sites on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Yeni-Moschee",
+            "hu": "Yeni-mecset",
+            "ro": "Moscheea Yeni",
+            "en": "Yeni Mosque"
+          },
+          "coords": [
+            22.0495,
+            40.8031
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die malerischen Straßen von der Bushaltestelle aus.",
+            "hu": "Rövid séta a festői utcákon a buszmegállótól.",
+            "ro": "O scurtă plimbare pe străzile pitorești de la stația de autobuz.",
+            "en": "A short walk through the picturesque streets from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle Wasserfälle",
+            "hu": "Vízesések megálló",
+            "ro": "Stația Cascade",
+            "en": "Waterfalls Stop"
+          },
+          "coords": [
+            22.045,
+            40.8018
+          ],
+          "category": "natural features",
+          "arrive_at": "11:45",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Hauptknotenpunkt für den Park, die Wasserfälle und die Museen. Verbringen Sie hier den Großteil des Nachmittags.",
+            "hu": "A park, a vízesések és a múzeumok fő csomópontja. Töltse itt a délután nagy részét.",
+            "ro": "Nodul principal pentru parc, cascade și muzee. Petreceți cea mai mare parte a după-amiezii aici.",
+            "en": "The main hub for the park, waterfalls, and museums. Spend most of your afternoon here."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasser-Freilichtmuseum",
+            "hu": "Szabadtéri Vízi Múzeum",
+            "ro": "Muzeul Apei în Aer Liber",
+            "en": "Open-Air Water Museum"
+          },
+          "coords": [
+            22.0435,
+            40.799
+          ],
+          "category": "museums",
+          "arrive_at": "14:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Folgen Sie einfach den Schildern und dem Rauschen des Wassers von der Hauptkaskade aus.",
+            "hu": "Csak kövesse a táblákat és a víz hangját a fő vízeséstől.",
+            "ro": "Urmați indicatoarele și sunetul apei de la cascada principală.",
+            "en": "Just follow the signs and the sound of water from the main cascade."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Agia Skepi",
+            "hu": "Agia Skepi katedrális",
+            "ro": "Catedrala Agia Skepi",
+            "en": "Agia Skepi Cathedral"
+          },
+          "coords": [
+            22.0465,
+            40.803
+          ],
+          "category": "churches",
+          "arrive_at": "16:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zurück ins Zentrum für einen letzten Halt an dieser beeindruckenden modernen Kirche.",
+            "hu": "Menjen busszal vissza a központba egy utolsó megállóhoz ennél a lenyűgöző modern templomnál.",
+            "ro": "Luați un autobuz înapoi în centru pentru o ultimă oprire la această impresionantă biserică modernă.",
+            "en": "Take a bus back to the center for a final stop at this impressive modern church."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den lokalen Bus, um zum historischen Varosi-Viertel zu gelangen, wo Ihr Rundgang beginnt. Nach der Erkundung der alten Gassen bringt Sie ein weiterer Bus zu den spektakulären Wasserfällen. Verbringen Sie hier den größten Teil des Tages, wandern Sie zwischen den Wasserfällen und dem Wassermuseum. Am späten Nachmittag bringt Sie ein Bus zurück ins Stadtzentrum für einen Besuch der Hauptkathedrale.",
+        "hu": "Használja a helyi buszt, hogy eljusson a történelmi Varosi negyedbe, ahol a gyalogtúra kezdődik. A régi sikátorok felfedezése után egy másik busz elviszi a látványos vízesésekhez. Töltse itt a nap nagy részét, sétálva a vízesések és a vízi múzeum között. Késő délután egy busz visszaviszi a városközpontba a főszékesegyház meglátogatásához.",
+        "ro": "Folosiți autobuzul local pentru a ajunge în cartierul istoric Varosi, unde începe turul pietonal. După ce explorați străduțele vechi, un alt autobuz vă va duce la cascadele spectaculoase. Petreceți cea mai mare parte a zilei aici, plimbându-vă între cascade și muzeul apei. Spre seară, un autobuz vă va duce înapoi în centrul orașului pentru o vizită la catedrala principală.",
+        "en": "Use the local bus to get to the historic Varosi district, where your walking tour begins. After exploring the old alleys, another bus will take you to the spectacular waterfalls. Spend the bulk of your day here, walking between the falls and the water museum. In the late afternoon, a bus will take you back to the city center for a visit to the main cathedral."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gyros-Läden im Zentrum",
+            "tip": "Ein schnelles, günstiges und leckeres Mittagessen, das Sie leicht finden, wenn Sie mit dem Bus unterwegs sind."
+          },
+          {
+            "name": "Kafeneio (Traditionelles Café)",
+            "tip": "Probieren Sie einen griechischen Kaffee und beobachten Sie das lokale Leben in der Nähe einer Bushaltestelle."
+          },
+          {
+            "name": "Bäckerei 'O Fournos'",
+            "tip": "Holen Sie sich einen Spanakopita (Spinatkuchen) für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyrososok a központban",
+            "tip": "Gyors, olcsó és finom ebéd, amelyet könnyű találni buszozás közben."
+          },
+          {
+            "name": "Kafeneio (Hagyományos kávézó)",
+            "tip": "Kóstoljon meg egy görög kávét, és figyelje a helyi életet egy buszmegálló közelében."
+          },
+          {
+            "name": " 'O Fournos' pékség",
+            "tip": "Vegyen egy Spanakopitát (spenótos pitét) útközbenre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gyros în centru",
+            "tip": "Un prânz rapid, ieftin și delicios, ușor de găsit când călătoriți cu autobuzul."
+          },
+          {
+            "name": "Kafeneio (Cafenea tradițională)",
+            "tip": "Încercați o cafea grecească și urmăriți viața locală lângă o stație de autobuz."
+          },
+          {
+            "name": "Brutăria 'O Fournos'",
+            "tip": "Luați o spanakopita (plăcintă cu spanac) pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gyros shops in the center",
+            "tip": "A quick, cheap, and delicious lunch, easy to find when traveling by bus."
+          },
+          {
+            "name": "Kafeneio (Traditional Cafe)",
+            "tip": "Try a Greek coffee and watch the local life near a bus stop."
+          },
+          {
+            "name": "Bakery 'O Fournos'",
+            "tip": "Grab a spanakopita (spinach pie) for the road."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Oberer Teil des Wasserfallparks",
+            "tip": "Die meisten Touristen bleiben unten. Gehen Sie nach oben für ruhigere Wege und Aussichten.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kleine Kirchen in Varosi",
+            "tip": "Entdecken Sie winzige, stille Kapellen, die in den Gassen versteckt sind.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Fahrt aus der Stadt hinaus",
+            "tip": "Nehmen Sie einen beliebigen Bus, der aus der Stadt hinausfährt, für einen Blick auf die umliegende Landschaft.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vízeséspark felső része",
+            "tip": "A legtöbb turista lent marad. Menjen feljebb a csendesebb ösvényekért és kilátásért.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kis templomok Varosiban",
+            "tip": "Fedezzen fel apró, csendes kápolnákat a sikátorokban elrejtve.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Utazás a városon kívülre",
+            "tip": "Szálljon fel bármelyik, a városból kifelé tartó buszra, hogy bepillantást nyerjen a környező tájba.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Partea superioară a Parcului Cascadei",
+            "tip": "Majoritatea turiștilor stau jos. Urcați pentru poteci și vederi mai liniștite.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Biserici mici din Varosi",
+            "tip": "Descoperiți capele minuscule și tăcute, ascunse pe alei.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Călătorie în afara orașului",
+            "tip": "Luați orice autobuz care iese din oraș pentru o priveliște a peisajului înconjurător.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Upper part of the Waterfall Park",
+            "tip": "Most tourists stay at the bottom. Head uphill for quieter paths and views.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Small churches in Varosi",
+            "tip": "Discover tiny, silent chapels hidden in the alleys.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ride out of town",
+            "tip": "Take any bus heading out of the city for a glimpse of the surrounding countryside.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere an Wochenenden und Feiertagen.",
+          "Halten Sie Kleingeld für die Bustickets bereit, wenn Sie keine Tageskarte haben.",
+          "Die Bushaltestellen sind nicht immer deutlich gekennzeichnet; fragen Sie im Zweifelsfall Einheimische.",
+          "Die Busse können in der Hochsaison überfüllt sein, seien Sie geduldig."
+        ],
+        "hu": [
+          "Ellenőrizze előre a buszmenetrendet, különösen hétvégén és ünnepnapokon.",
+          "Készítsen aprópénzt a buszjegyekhez, ha nincs napijegye.",
+          "A buszmegállók nem mindig vannak egyértelműen megjelölve; ha kétségei vannak, kérdezze meg a helyieket.",
+          "A buszok főszezonban zsúfoltak lehetnek, legyen türelmes."
+        ],
+        "ro": [
+          "Verificați programul autobuzelor în avans, în special în weekenduri și de sărbători.",
+          "Aveți la îndemână mărunțiș pentru biletele de autobuz dacă nu aveți un abonament de o zi.",
+          "Stațiile de autobuz nu sunt întotdeauna marcate clar; întrebați localnicii dacă aveți dubii.",
+          "Autobuzele pot fi aglomerate în sezonul de vârf, aveți răbdare."
+        ],
+        "en": [
+          "Check the bus schedule in advance, especially on weekends and holidays.",
+          "Have small change ready for bus tickets if you don't have a day pass.",
+          "Bus stops are not always clearly marked; ask a local if in doubt.",
+          "Buses can be crowded during peak season, be patient."
+        ]
+      }
+    }
+  }
+}

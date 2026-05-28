@@ -1,0 +1,1256 @@
+{
+  "city_id": "bulgaria-montana-cities-v2",
+  "anchor": {
+    "name": "Montana",
+    "coords": [
+      23.2333,
+      43.4167
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Scherawiza-Platz",
+            "hu": "Zseravica tér",
+            "ro": "Piața Jeravița",
+            "en": "Zheravitsa Square"
+          },
+          "coords": [
+            23.2325,
+            43.416
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Startpunkt. Holen Sie sich einen Kaffee und beobachten Sie das städtische Leben.",
+            "hu": "Tökéletes kiindulópont. Igyon meg egy kávét és figyelje a városi életet.",
+            "ro": "Punctul perfect de plecare. Luați o cafea și observați viața orașului.",
+            "en": "The perfect starting point. Grab a coffee and watch the city life unfold."
+          }
+        },
+        {
+          "name": {
+            "de": "Mihailov-Haus",
+            "hu": "Mihajlov-ház",
+            "ro": "Casa Mihailov",
+            "en": "Mihailov House"
+          },
+          "coords": [
+            23.2305,
+            43.4171
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:43",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schönes Beispiel für die Architektur der bulgarischen Wiedergeburt.",
+            "hu": "A bolgár nemzeti újjászületés építészetének gyönyörű példája.",
+            "ro": "Un exemplu frumos al arhitecturii Renașterii Naționale Bulgare.",
+            "en": "A beautiful example of Bulgarian National Revival architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Heiligen Kyrill und Methodius",
+            "hu": "Szent Cirill és Metód templom",
+            "ro": "Biserica Sfinții Chiril și Metodiu",
+            "en": "Church of Saints Cyril and Methodius"
+          },
+          "coords": [
+            23.233,
+            43.4182
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Ikonen und die friedliche Atmosphäre im Inneren.",
+            "hu": "Csodálja meg az ikonokat és a békés belső atmoszférát.",
+            "ro": "Admirați icoanele și atmosfera pașnică din interior.",
+            "en": "Admire the icons and the peaceful atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Regionalmuseum für Geschichte & Lapidarium",
+            "hu": "Regionális Történeti Múzeum és Lapidárium",
+            "ro": "Muzeul Regional de Istorie & Lapidarium",
+            "en": "Regional Historical Museum & Lapidarium"
+          },
+          "coords": [
+            23.228,
+            43.415
+          ],
+          "category": "museums",
+          "arrive_at": "11:34",
+          "stay_min": 120,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie genug Zeit ein, die römischen Artefakte sind besonders interessant.",
+            "hu": "Szánjon rá elég időt, a római kori leletek különösen érdekesek.",
+            "ro": "Planificați suficient timp, artefactele romane sunt deosebit de interesante.",
+            "en": "Plan enough time, the Roman artifacts are particularly interesting."
+          }
+        },
+        {
+          "name": {
+            "de": "Castra ad Montanesium",
+            "hu": "Castra ad Montanesium",
+            "ro": "Castra ad Montanesium",
+            "en": "Castra ad Montanesium"
+          },
+          "coords": [
+            23.221,
+            43.413
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für die Aussicht und die historische Bedeutung.",
+            "hu": "Megéri a kaptatót a kilátásért és a történelmi jelentőségért.",
+            "ro": "Urcușul merită pentru priveliște și importanța istorică.",
+            "en": "The climb is worth it for the view and the historical significance."
+          }
+        },
+        {
+          "name": {
+            "de": "Ogosta-Park",
+            "hu": "Ogoszta Park",
+            "ro": "Parcul Ogosta",
+            "en": "Ogosta Park"
+          },
+          "coords": [
+            23.238,
+            43.421
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:28",
+          "stay_min": 107,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannender Spaziergang entlang des Flusses, um den Tag ausklingen zu lassen.",
+            "hu": "Egy pihentető séta a folyó mentén a nap lezárásaként.",
+            "ro": "O plimbare relaxantă de-a lungul râului pentru a încheia ziua.",
+            "en": "A relaxing walk along the river to end your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem lebhaften Scherawiza-Platz. Tauchen Sie in die Geschichte ein, indem Sie das Mihailov-Haus besuchen und die spirituelle Ruhe in der Kirche der Heiligen Kyrill und Methodius finden. Am Nachmittag reisen Sie in die römische Vergangenheit im Regionalmuseum und auf der Festung Castra ad Montanesium. Beenden Sie Ihren Tag mit einem friedlichen Spaziergang durch den Ogosta-Park, der die perfekte Kulisse für Entspannung bietet.",
+        "hu": "Kezdje a napot a nyüzsgő Zseravica téren. Merüljön el a történelemben a Mihajlov-ház meglátogatásával, majd találjon lelki békét a Szent Cirill és Metód templomban. Délután utazzon vissza a római múltba a Regionális Történeti Múzeumban és a Castra ad Montanesium erődben. Zárja a napot egy békés sétával az Ogoszta Parkban, amely tökéletes hely a kikapcsolódásra.",
+        "ro": "Începeți ziua în vibranta Piață Jeravița. Scufundați-vă în istorie vizitând Casa Mihailov și găsiți liniștea spirituală la Biserica Sfinții Chiril și Metodiu. După-amiaza, călătoriți în trecutul roman la Muzeul Regional de Istorie și la cetatea Castra ad Montanesium. Încheiați ziua cu o plimbare liniștită prin Parcul Ogosta, fundalul perfect pentru relaxare.",
+        "en": "Start your day in the vibrant Zheravitsa Square. Delve into history by visiting the Mihailov House and find spiritual calm at the Church of Saints Cyril and Methodius. In the afternoon, journey into the Roman past at the Regional Historical Museum and the Castra ad Montanesium fortress. End your day with a peaceful walk through Ogosta Park, the perfect backdrop for relaxation."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Shopska-Salat",
+            "tip": "Ein erfrischender bulgarischer Salat, perfekt für ein leichtes Mittagessen."
+          },
+          {
+            "name": "Kebapche",
+            "tip": "Gegrillte Hackfleischröllchen, ein Muss für Fleischliebhaber."
+          },
+          {
+            "name": "Banitsa",
+            "tip": "Ein traditionelles Gebäck mit Käse, ideal für einen schnellen Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sopszka saláta",
+            "tip": "Egy frissítő bolgár saláta, tökéletes egy könnyű ebédhez."
+          },
+          {
+            "name": "Kebapcse",
+            "tip": "Grillezett darált hús rudacskák, kötelező a hús kedvelőinek."
+          },
+          {
+            "name": "Banica",
+            "tip": "Hagyományos sajtos péksütemény, ideális egy gyors harapnivalóhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Salată Shopska",
+            "tip": "O salată bulgărească răcoritoare, perfectă pentru un prânz ușor."
+          },
+          {
+            "name": "Kebapche",
+            "tip": "Rulouri de carne tocată la grătar, un deliciu pentru iubitorii de carne."
+          },
+          {
+            "name": "Banitsa",
+            "tip": "O plăcintă tradițională cu brânză, ideală pentru o gustare rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shopska Salad",
+            "tip": "A refreshing Bulgarian salad, perfect for a light lunch."
+          },
+          {
+            "name": "Kebapche",
+            "tip": "Grilled minced meat rolls, a must-try for meat lovers."
+          },
+          {
+            "name": "Banitsa",
+            "tip": "A traditional pastry with cheese, great for a quick snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ogosta-Park",
+            "tip": "Finden Sie eine ruhige Bank am Fluss und genießen Sie die Natur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hügel der Festung",
+            "tip": "Die Aussicht von der Spitze der Castra ad Montanesium ist friedlich und weit.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ogoszta Park",
+            "tip": "Keressen egy csendes padot a folyóparton és élvezze a természetet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Erőd dombja",
+            "tip": "A Castra ad Montanesium tetejéről nyíló kilátás békés és tágas.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Ogosta",
+            "tip": "Găsiți o bancă liniștită lângă râu și bucurați-vă de natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dealul Cetății",
+            "tip": "Priveliștea din vârful Castra ad Montanesium este pașnică și vastă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ogosta Park",
+            "tip": "Find a quiet bench by the river and enjoy nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fortress Hill",
+            "tip": "The view from the top of Castra ad Montanesium is peaceful and expansive.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach handgefertigter Keramik und bulgarischem Rosenöl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen kézzel készített kerámiákat és bolgár rózsaolajat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Locală",
+            "tip": "Căutați ceramică artizanală și ulei de trandafir bulgăresc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for handmade pottery and Bulgarian rose oil."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit, um hydriert zu bleiben.",
+          "Die meisten zentralen Orte sind leicht zu Fuß erreichbar.",
+          "Planen Sie Ihr Mittagessen in der Nähe des Museums, um Zeit zu sparen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Hozzon magával újratölthető vizes palackot, hogy hidratált maradjon.",
+          "A legtöbb központi helyszín könnyen elérhető gyalog.",
+          "Tervezze az ebédjét a múzeum közelében, hogy időt takarítson meg."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Luați o sticlă de apă reutilizabilă pentru a vă menține hidratat.",
+          "Majoritatea locurilor centrale sunt ușor accesibile pe jos.",
+          "Planificați-vă prânzul în apropierea muzeului pentru a economisi timp."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "Bring a reusable water bottle to stay hydrated.",
+          "Most central locations are easily reachable on foot.",
+          "Plan your lunch near the museum area to save time."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 7.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Scherawiza-Platz",
+            "hu": "Zseravica tér",
+            "ro": "Piața Jeravița",
+            "en": "Zheravitsa Square"
+          },
+          "coords": [
+            23.2325,
+            43.416
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab und genießen Sie einen Kaffee in einem der Cafés.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és igyon egy kávét az egyik kávézóban.",
+            "ro": "Asigurați-vă bicicleta și savurați o cafea la una dintre cafenele.",
+            "en": "Lock your bike securely and enjoy a coffee at one of the cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Mihailov-Haus",
+            "hu": "Mihajlov-ház",
+            "ro": "Casa Mihailov",
+            "en": "Mihailov House"
+          },
+          "coords": [
+            23.2305,
+            43.4171
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um die traditionelle Architektur zu bewundern.",
+            "hu": "Egy rövid megálló, hogy megcsodálja a hagyományos építészetet.",
+            "ro": "O oprire scurtă pentru a admira arhitectura tradițională.",
+            "en": "A quick stop to admire the traditional architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Heiligen Kyrill und Methodius",
+            "hu": "Szent Cirill és Metód templom",
+            "ro": "Biserica Sfinții Chiril și Metodiu",
+            "en": "Church of Saints Cyril and Methodius"
+          },
+          "coords": [
+            23.233,
+            43.4182
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:16",
+          "stay_min": 35,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine friedliche Pause vom Radfahren. Denken Sie an respektvolle Kleidung.",
+            "hu": "Békés szünet a biciklizésben. Ne feledkezzen meg a tisztelettudó öltözetről.",
+            "ro": "O pauză liniștită de la ciclism. Amintiți-vă de îmbrăcămintea respectuoasă.",
+            "en": "A peaceful break from cycling. Remember to dress respectfully."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstgalerie Kiril Petrow",
+            "hu": "Kiril Petrov Művészeti Galéria",
+            "ro": "Galeria de Artă Kiril Petrov",
+            "en": "Kiril Petrov Art Gallery"
+          },
+          "coords": [
+            23.229,
+            43.4145
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:57",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Entdecken Sie lokale und nationale bulgarische Künstler.",
+            "hu": "Fedezze fel a helyi és országos bolgár művészeket.",
+            "ro": "Descoperiți artiști bulgari locali și naționali.",
+            "en": "Discover local and national Bulgarian artists."
+          }
+        },
+        {
+          "name": {
+            "de": "Regionalmuseum für Geschichte",
+            "hu": "Regionális Történeti Múzeum",
+            "ro": "Muzeul Regional de Istorie",
+            "en": "Regional Historical Museum"
+          },
+          "coords": [
+            23.228,
+            43.415
+          ],
+          "category": "museums",
+          "arrive_at": "11:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Das Herz der Geschichte Montanas. Hier können Sie Ihr Fahrrad sicher abstellen.",
+            "hu": "Montana történelmének szíve. Itt biztonságban leparkolhatja a kerékpárját.",
+            "ro": "Inima istoriei Montanei. Vă puteți lăsa bicicleta în siguranță aici.",
+            "en": "The heart of Montana's history. You can park your bike safely here."
+          }
+        },
+        {
+          "name": {
+            "de": "Castra ad Montanesium",
+            "hu": "Castra ad Montanesium",
+            "ro": "Castra ad Montanesium",
+            "en": "Castra ad Montanesium"
+          },
+          "coords": [
+            23.221,
+            43.413
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine anspruchsvolle, aber lohnende Fahrt bergauf zur Festung.",
+            "hu": "Kihívást jelentő, de hálás út felfelé az erődhöz.",
+            "ro": "O urcare provocatoare, dar plină de satisfacții, spre cetate.",
+            "en": "A challenging but rewarding uphill ride to the fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Ogosta-Park",
+            "hu": "Ogoszta Park",
+            "ro": "Parcul Ogosta",
+            "en": "Ogosta Park"
+          },
+          "coords": [
+            23.238,
+            43.421
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekt für eine entspannte Radtour am Nachmittag entlang des Flusses.",
+            "hu": "Tökéletes egy pihentető délutáni biciklizéshez a folyó mentén.",
+            "ro": "Perfect pentru o plimbare relaxantă cu bicicleta după-amiaza de-a lungul râului.",
+            "en": "Perfect for a relaxing afternoon ride along the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel und beginnen Sie am Scherawiza-Platz. Radeln Sie durch die Geschichte zum Mihailov-Haus und zur Hauptkirche. Am Mittag können Sie in der Kunstgalerie und im Geschichtsmuseum in die Kultur eintauchen. Stellen Sie sich der Herausforderung, zur Festung Castra ad Montanesium hinaufzufahren, und belohnen Sie sich mit einer entspannten Fahrt durch den Ogosta-Park, um den Tag ausklingen zu lassen.",
+        "hu": "Pattanjon nyeregbe és induljon a Zseravica térről. Tekerjen át a történelmen a Mihajlov-házhoz és a főtemplomhoz. Délben merüljön el a kultúrában a művészeti galériában és a történelmi múzeumban. Vállalja a kihívást, és tekerjen fel a Castra ad Montanesium erődhöz, majd jutalmazza meg magát egy pihentető tekeréssel az Ogoszta Parkban a nap végén.",
+        "ro": "Urcați-vă pe bicicletă și porniți din Piața Jeravița. Pedalați prin istorie până la Casa Mihailov și biserica principală. La prânz, absorbiți cultura la galeria de artă și muzeul de istorie. Acceptați provocarea de a urca la cetatea Castra ad Montanesium și recompensați-vă cu o plimbare relaxantă prin Parcul Ogosta pentru a încheia ziua.",
+        "en": "Hop on your bike and start from Zheravitsa Square. Cycle through history to the Mihailov House and the main church. At midday, soak up some culture at the art gallery and history museum. Take on the challenge of riding up to the Castra ad Montanesium fortress, and reward yourself with a relaxing ride through Ogosta Park to finish the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bulgarischer Joghurt mit Honig und Walnüssen",
+            "tip": "Ein gesunder und energiegeladener Snack, ideal für Radfahrer."
+          },
+          {
+            "name": "Gyuveche",
+            "tip": "Ein herzhafter Tontopf-Eintopf, der nach einer langen Fahrt Energie gibt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bolgár joghurt mézzel és dióval",
+            "tip": "Egészséges és energiadús snack, ideális kerékpárosoknak."
+          },
+          {
+            "name": "Gjuvecs",
+            "tip": "Kiadós agyagedényes egytálétel, ami energiát ad egy hosszú tekerés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Iaurt bulgăresc cu miere și nuci",
+            "tip": "O gustare sănătoasă și energizantă, ideală pentru bicicliști."
+          },
+          {
+            "name": "Ghiveci",
+            "tip": "O tocană consistentă la vas de lut, care reface energia după o plimbare lungă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bulgarian Yogurt with Honey and Walnuts",
+            "tip": "A healthy and energizing snack, ideal for cyclists."
+          },
+          {
+            "name": "Gyuveche",
+            "tip": "A hearty clay pot stew that will refuel you after a long ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Flussufer im Ogosta-Park",
+            "tip": "Ein friedlicher Ort, um dem Stadtlärm zu entfliehen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Lapidarium im Freien",
+            "tip": "Ein ruhiger Ort, um zwischen alten Steinen nachzudenken.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Folyópart az Ogoszta Parkban",
+            "tip": "Békés hely a város zajától távol.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szabadtéri Lapidárium",
+            "tip": "Csendes hely az elmélkedésre az ősi kövek között.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului în Parcul Ogosta",
+            "tip": "Un loc pașnic pentru a evada de zgomotul orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Lapidarium în aer liber",
+            "tip": "Un loc liniștit pentru a reflecta printre pietrele antice.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Riverbank in Ogosta Park",
+            "tip": "A peaceful spot to escape the city noise.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Outdoor Lapidarium",
+            "tip": "A quiet place to reflect among ancient stones.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Suchen Sie nach lokalen Accessoires oder Souvenirs für Radsportbegeisterte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Keressen helyi kiegészítőket vagy szuveníreket a kerékpározás szerelmeseinek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Căutați accesorii locale sau suveniruri pentru pasionații de ciclism."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "Look for local accessories or souvenirs for cycling enthusiasts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad, bevor Sie losfahren, insbesondere die Bremsen.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad an den Haltestellen zu sichern.",
+          "Montana ist hügelig; seien Sie auf einige Anstiege vorbereitet.",
+          "Nutzen Sie die Radwege im Ogosta-Park für eine sichere Fahrt."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját, különösen a fékeket.",
+          "Hozzon magával lakatot, hogy lezárhassa a biciklit a megállóknál.",
+          "Montana dombos; készüljön fel néhány emelkedőre.",
+          "Használja az Ogoszta Park kerékpárútjait a biztonságos tekeréshez."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni, în special frânele.",
+          "Luați un lacăt pentru a vă asigura bicicleta la opriri.",
+          "Montana este deluroasă; fiți pregătit pentru câteva urcări.",
+          "Folosiți pistele de biciclete din Parcul Ogosta pentru o plimbare sigură."
+        ],
+        "en": [
+          "Check your bike before you start, especially the brakes.",
+          "Bring a lock to secure your bike at stops.",
+          "Montana is hilly; be prepared for some climbs.",
+          "Use the bike paths in Ogosta Park for a safe ride."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster-Start: Scherawiza-Platz",
+            "hu": "Klaszter-indítás: Zseravica tér",
+            "ro": "Start Cluster: Piața Jeravița",
+            "en": "Cluster Start: Zheravitsa Square"
+          },
+          "coords": [
+            23.2325,
+            43.416
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und beginnen Sie hier Ihren Stadtrundgang.",
+            "hu": "Parkoljon a közelben, és innen induljon a városi sétára.",
+            "ro": "Parcați în apropiere și începeți turul pietonal de aici.",
+            "en": "Park nearby and start your city walking tour from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Mihailov-Haus",
+            "hu": "Mihajlov-ház",
+            "ro": "Casa Mihailov",
+            "en": "Mihailov House"
+          },
+          "coords": [
+            23.2305,
+            43.4171
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz aus, um dieses architektonische Juwel zu sehen.",
+            "hu": "Rövid séta a térről ehhez az építészeti gyöngyszemhez.",
+            "ro": "O scurtă plimbare din piață pentru a vedea această bijuterie arhitecturală.",
+            "en": "A short walk from the square to see this architectural gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Heiligen Kyrill und Methodius",
+            "hu": "Szent Cirill és Metód templom",
+            "ro": "Biserica Sfinții Chiril și Metodiu",
+            "en": "Church of Saints Cyril and Methodius"
+          },
+          "coords": [
+            23.233,
+            43.4182
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:28",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Hauptkirche der Stadt, nur wenige Gehminuten entfernt.",
+            "hu": "A város fő temploma, csak néhány perc sétára.",
+            "ro": "Biserica principală a orașului, la doar câteva minute de mers pe jos.",
+            "en": "The city's main church, just a few minutes' walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Kultur-Cluster: Regionalmuseum für Geschichte",
+            "hu": "Kulturális Klaszter: Regionális Történeti Múzeum",
+            "ro": "Cluster Cultural: Muzeul Regional de Istorie",
+            "en": "Cultural Cluster: Regional Historical Museum"
+          },
+          "coords": [
+            23.228,
+            43.415
+          ],
+          "category": "museums",
+          "arrive_at": "11:12",
+          "stay_min": 90,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Museumsviertel und parken Sie. Hier beginnt der zweite Teil Ihres Tages.",
+            "hu": "Vezessen a múzeumi negyedbe és parkoljon le. Itt kezdődik a nap második része.",
+            "ro": "Conduceți spre cartierul muzeelor și parcați. A doua parte a zilei începe aici.",
+            "en": "Drive to the museum district and park. The second part of your day starts here."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstgalerie Kiril Petrow & Lapidarium",
+            "hu": "Kiril Petrov Művészeti Galéria és Lapidárium",
+            "ro": "Galeria de Artă Kiril Petrov & Lapidarium",
+            "en": "Kiril Petrov Art Gallery & Lapidarium"
+          },
+          "coords": [
+            23.229,
+            43.4145
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:46",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Galerie und das Lapidarium liegen direkt nebeneinander.",
+            "hu": "A galéria és a lapidárium közvetlenül egymás mellett található.",
+            "ro": "Galeria și lapidariul sunt chiar una lângă cealaltă.",
+            "en": "The gallery and the lapidarium are right next to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Festungs-Cluster: Castra ad Montanesium",
+            "hu": "Erőd-klaszter: Castra ad Montanesium",
+            "ro": "Cluster Cetate: Castra ad Montanesium",
+            "en": "Fortress Cluster: Castra ad Montanesium"
+          },
+          "coords": [
+            23.221,
+            43.413
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zur Festung für einen Panoramablick und eine Geschichtsstunde.",
+            "hu": "Vezessen fel az erődhöz a panorámáért és egy történelemleckeért.",
+            "ro": "Conduceți până la cetate pentru vederi panoramice și o lecție de istorie.",
+            "en": "Drive up to the fortress for panoramic views and a history lesson."
+          }
+        },
+        {
+          "name": {
+            "de": "Ogosta-Park",
+            "hu": "Ogoszta Park",
+            "ro": "Parcul Ogosta",
+            "en": "Ogosta Park"
+          },
+          "coords": [
+            23.238,
+            43.421
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:43",
+          "stay_min": 102,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 6.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein letzter kurzer Trip zum Park für einen entspannten Abschluss des Tages.",
+            "hu": "Egy utolsó rövid út a parkba a nap pihentető lezárásához.",
+            "ro": "O ultimă scurtă călătorie cu mașina până la parc pentru o încheiere relaxantă a zilei.",
+            "en": "A final short drive to the park for a relaxing end to the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am Scherawiza-Platz, wo Sie Ihr Auto abstellen und das historische Zentrum zu Fuß erkunden. Besuchen Sie das Mihailov-Haus und die Kirche. Fahren Sie mittags zum Kultur-Cluster, um das Geschichtsmuseum und die Kunstgalerie zu entdecken. Am Nachmittag führt Sie eine kurze Fahrt zur beeindruckenden Festung Castra ad Montanesium. Beenden Sie Ihren Tag mit einer entspannten Zeit im Ogosta-Park, wohin Sie ebenfalls fahren.",
+        "hu": "Induljon a Zseravica térről, ahol leparkolhatja autóját és gyalog felfedezheti a történelmi központot, a Mihajlov-házat és a templomot. Délben vezessen át a kulturális klaszterbe, hogy felfedezze a történelmi múzeumot és a művészeti galériát. Délután egy rövid autóút visz a lenyűgöző Castra ad Montanesium erődhöz. Zárja a napot pihenéssel az Ogoszta Parkban, ahová szintén autóval juthat el.",
+        "ro": "Începeți de la Piața Jeravița, unde parcați mașina și explorați centrul istoric, inclusiv Casa Mihailov și biserica, pe jos. La prânz, conduceți spre clusterul cultural pentru a descoperi muzeul de istorie și galeria de artă. După-amiaza, o scurtă călătorie cu mașina vă duce la impresionanta cetate Castra ad Montanesium. Încheiați ziua relaxându-vă în Parcul Ogosta, la care ajungeți tot cu mașina.",
+        "en": "Start at Zheravitsa Square, where you park your car and explore the historic center, including the Mihailov House and the church, on foot. For lunch, drive to the cultural cluster to discover the history museum and art gallery. In the afternoon, a short drive takes you to the impressive Castra ad Montanesium fortress. End your day relaxing in Ogosta Park, a final drive away."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant im Stadtzentrum",
+            "tip": "Probieren Sie nach dem morgendlichen Spaziergang ein traditionelles bulgarisches Restaurant."
+          },
+          {
+            "name": "Café in der Nähe des Museums",
+            "tip": "Ein guter Ort für eine Pause zwischen den Museumsbesuchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a városközpontban",
+            "tip": "Próbáljon ki egy hagyományos bolgár éttermet a reggeli séta után."
+          },
+          {
+            "name": "Kávézó a múzeum közelében",
+            "tip": "Jó hely egy szünetre a múzeumlátogatások között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant în centrul orașului",
+            "tip": "Încercați un restaurant tradițional bulgăresc după plimbarea de dimineață."
+          },
+          {
+            "name": "Cafenea lângă muzeu",
+            "tip": "Un loc bun pentru o pauză între vizitele la muzee."
+          }
+        ],
+        "en": [
+          {
+            "name": "City Center Restaurant",
+            "tip": "Try a traditional Bulgarian restaurant after your morning walk."
+          },
+          {
+            "name": "Cafe near the museum",
+            "tip": "A good place for a break between museum visits."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Castra ad Montanesium",
+            "tip": "Genießen Sie die Stille und den weiten Blick über die Region.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Abgelegene Ecke im Ogosta-Park",
+            "tip": "Ideal für eine ruhige Pause am Ende des Tages.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Castra ad Montanesium kilátópont",
+            "tip": "Élvezze a csendet és a régióra nyíló széles kilátást.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Elhagyatott zug az Ogoszta Parkban",
+            "tip": "Ideális egy csendes szünetre a nap végén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Castra ad Montanesium",
+            "tip": "Bucurați-vă de liniște și de priveliștea panoramică asupra regiunii.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Colț retras în Parcul Ogosta",
+            "tip": "Ideal pentru o pauză liniștită la sfârșitul zilei.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castra ad Montanesium Viewpoint",
+            "tip": "Enjoy the silence and the wide view over the region.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Secluded corner in Ogosta Park",
+            "tip": "Ideal for a quiet break at the end of the day.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirladen bei der Festung",
+            "tip": "Kaufen Sie eine Replik einer römischen Münze als Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándékbolt az erődnél",
+            "tip": "Vásároljon egy római érme másolatot emlékbe."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri la cetate",
+            "tip": "Cumpărați o replică a unei monede romane ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir shop at the fortress",
+            "tip": "Buy a replica of a Roman coin as a memento."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum kann schwierig sein, suchen Sie nach ausgewiesenen Parkplätzen.",
+          "Planen Sie Ihre Fahrten zwischen den Clustern außerhalb der Hauptverkehrszeiten.",
+          "Die Cluster-Walking-Methode spart Parkgebühren und Stress.",
+          "Lassen Sie keine Wertsachen im Auto sichtbar liegen."
+        ],
+        "hu": [
+          "A parkolás a városközpontban nehézkes lehet, keressen kijelölt parkolóhelyeket.",
+          "Tervezze az utazásokat a klaszterek között a csúcsforgalmon kívüli időszakra.",
+          "A klaszter-séta módszer parkolási díjakat és stresszt takarít meg.",
+          "Ne hagyjon értékeket látható helyen az autóban."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi dificilă, căutați parcări amenajate.",
+          "Planificați-vă deplasările între clustere în afara orelor de vârf.",
+          "Metoda de plimbare în clustere economisește taxe de parcare și stres.",
+          "Nu lăsați obiecte de valoare la vedere în mașină."
+        ],
+        "en": [
+          "Parking in the city center can be tricky; look for designated parking areas.",
+          "Plan your drives between clusters outside of peak traffic hours.",
+          "The cluster-walking method saves on parking fees and stress.",
+          "Don't leave valuables visible in the car."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 8.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Bezirk: Scherawiza-Platz",
+            "hu": "Központi negyed: Zseravica tér",
+            "ro": "Districtul Central: Piața Jeravița",
+            "en": "Central District: Zheravitsa Square"
+          },
+          "coords": [
+            23.2325,
+            43.416
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ihr Ausgangspunkt. Die meisten Buslinien halten in der Nähe.",
+            "hu": "Az Ön kiindulópontja. A legtöbb buszjárat a közelben áll meg.",
+            "ro": "Punctul dvs. de plecare. Majoritatea liniilor de autobuz opresc în apropiere.",
+            "en": "Your starting point. Most bus lines stop nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Mihailov-Haus",
+            "hu": "Mihajlov-ház",
+            "ro": "Casa Mihailov",
+            "en": "Mihailov House"
+          },
+          "coords": [
+            23.2305,
+            43.4171
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz aus, um dieses architektonische Juwel zu sehen.",
+            "hu": "Rövid séta a térről ehhez az építészeti gyöngyszemhez.",
+            "ro": "O scurtă plimbare din piață pentru a vedea această bijuterie arhitecturală.",
+            "en": "A short walk from the square to see this architectural gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Museumsbezirk: Regionalmuseum für Geschichte",
+            "hu": "Múzeumi negyed: Regionális Történeti Múzeum",
+            "ro": "Districtul Muzeelor: Muzeul Regional de Istorie",
+            "en": "Museum District: Regional Historical Museum"
+          },
+          "coords": [
+            23.228,
+            43.415
+          ],
+          "category": "museums",
+          "arrive_at": "10:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Museumsviertel. Steigen Sie aus und erkunden Sie zu Fuß.",
+            "hu": "Vegyen buszt a múzeumi negyedbe. Szálljon le és fedezze fel gyalog.",
+            "ro": "Luați un autobuz spre cartierul muzeelor. Coborâți și explorați pe jos.",
+            "en": "Take a bus to the museum district. Get off and explore on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstgalerie Kiril Petrow",
+            "hu": "Kiril Petrov Művészeti Galéria",
+            "ro": "Galeria de Artă Kiril Petrov",
+            "en": "Kiril Petrov Art Gallery"
+          },
+          "coords": [
+            23.229,
+            43.4145
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:27",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt neben dem Museum, ein einfacher Spaziergang.",
+            "hu": "Közvetlenül a múzeum mellett, könnyű séta.",
+            "ro": "Chiar lângă muzeu, o plimbare ușoară.",
+            "en": "Right next to the museum, an easy walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Festungsbezirk: Castra ad Montanesium",
+            "hu": "Erőd negyed: Castra ad Montanesium",
+            "ro": "Districtul Cetății: Castra ad Montanesium",
+            "en": "Fortress District: Castra ad Montanesium"
+          },
+          "coords": [
+            23.221,
+            43.413
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine weitere Busfahrt bringt Sie in die Nähe der Festung.",
+            "hu": "Egy másik buszjárat visz az erőd közelébe.",
+            "ro": "O altă călătorie cu autobuzul vă va duce aproape de cetate.",
+            "en": "Another bus ride will get you close to the fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Ogosta-Park",
+            "hu": "Ogoszta Park",
+            "ro": "Parcul Ogosta",
+            "en": "Ogosta Park"
+          },
+          "coords": [
+            23.238,
+            43.421
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:23",
+          "stay_min": 102,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.6,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einer Busfahrt zum Park für einen entspannten Spaziergang.",
+            "hu": "Zárja a napot egy buszozással a parkba egy pihentető sétáért.",
+            "ro": "Încheiați ziua cu o călătorie cu autobuzul până la parc pentru o plimbare relaxantă.",
+            "en": "End the day with a bus ride to the park for a relaxing walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die öffentlichen Verkehrsmittel, um Montana zu erkunden. Beginnen Sie im zentralen Bezirk, bevor Sie einen Bus zum Museumsbezirk nehmen. Nach dem Eintauchen in die Kultur bringt Sie ein weiterer Bus zur historischen Festung Castra ad Montanesium. Die letzte Fahrt des Tages führt Sie in den ruhigen Ogosta-Park, wo Sie Ihren erlebnisreichen Tag ausklingen lassen können.",
+        "hu": "Használja a tömegközlekedést Montana felfedezéséhez. Kezdjen a központi negyedben, mielőtt buszra szállna a múzeumi negyedbe. Miután elmerült a kultúrában, egy másik busz elviszi a történelmi Castra ad Montanesium erődhöz. A nap utolsó utazása a csendes Ogoszta Parkba vezet, ahol lezárhatja eseménydús napját.",
+        "ro": "Folosiți transportul public pentru a explora Montana. Începeți în districtul central înainte de a lua un autobuz spre districtul muzeelor. După o baie de cultură, un alt autobuz vă duce la cetatea istorică Castra ad Montanesium. Ultima călătorie a zilei vă duce în liniștitul Parc Ogosta pentru a încheia o zi plină.",
+        "en": "Use public transport to explore Montana. Start in the central district before taking a bus to the museum district. After soaking up the culture, another bus will take you to the historic Castra ad Montanesium fortress. The last trip of the day takes you to the peaceful Ogosta Park to round off your eventful day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei in der Nähe einer Bushaltestelle",
+            "tip": "Schnappen Sie sich eine Banitsa, während Sie auf Ihren Bus warten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség egy buszmegálló közelében",
+            "tip": "Kapjon be egy banicát, amíg a buszra vár."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie lângă o stație de autobuz",
+            "tip": "Luați o banitsa în timp ce așteptați autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery near a bus stop",
+            "tip": "Grab a banitsa while waiting for your bus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt durch die Vororte",
+            "tip": "Beobachten Sie das lokale Leben aus dem Fenster, eine ruhige Form der Erkundung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás a külvárosban",
+            "tip": "Figyelje a helyi életet az ablakból, a felfedezés egy csendes formája.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătorie cu autobuzul prin suburbii",
+            "tip": "Priviți viața locală pe fereastră, o formă liniștită de explorare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride through the suburbs",
+            "tip": "Watch local life from the window, a quiet form of exploration.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Kaufen Sie eine Zeitung oder ein Magazin für Ihre Fahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszpályaudvaron",
+            "tip": "Vásároljon egy újságot vagy magazint az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la autogară",
+            "tip": "Cumpărați un ziar sau o revistă pentru călătorie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus station",
+            "tip": "Buy a newspaper or magazine for your ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Überprüfen Sie den Busfahrplan im Voraus, besonders am Wochenende.",
+          "Haben Sie Kleingeld für Tickets parat, wenn Sie an Bord kaufen.",
+          "Seien Sie sich der letzten Busabfahrten bewusst, um nicht stecken zu bleiben."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Ellenőrizze előre a buszmenetrendet, különösen hétvégén.",
+          "Legyen Önnél aprópénz a jegyekhez, ha a fedélzeten vásárol.",
+          "Legyen tisztában az utolsó buszok indulásával, nehogy ott ragadjon."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru călătorii nelimitate.",
+          "Verificați programul autobuzelor în avans, mai ales în weekend.",
+          "Aveți la îndemână bani mărunți pentru bilete dacă le cumpărați la bord.",
+          "Fiți conștienți de orele de plecare ale ultimelor autobuze pentru a nu rămâne blocat."
+        ],
+        "en": [
+          "Buy a day pass for unlimited travel.",
+          "Check the bus schedule in advance, especially on weekends.",
+          "Have small change ready for tickets if buying on board.",
+          "Be aware of the last bus departure times to avoid getting stranded."
+        ]
+      }
+    }
+  }
+}

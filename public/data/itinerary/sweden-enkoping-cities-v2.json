@@ -1,0 +1,1403 @@
+{
+  "city_id": "sweden-enkoping-cities-v2",
+  "anchor": {
+    "name": "Enköping",
+    "coords": [
+      59.636,
+      17.0777
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Vårfrukyrkan",
+            "hu": "Vårfrukyrkan (Miasszonyunk-templom)",
+            "ro": "Biserica Vårfrukyrkan",
+            "en": "Vårfrukyrkan (Our Lady's Church)"
+          },
+          "coords": [
+            59.6365,
+            17.0792
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beachten Sie die mittelalterlichen Fresken und die beeindruckende Akustik.",
+            "hu": "Figyelje meg a középkori freskókat és a lenyűgöző akusztikát.",
+            "ro": "Observați frescele medievale și acustica impresionantă.",
+            "en": "Note the medieval frescoes and the impressive acoustics."
+          }
+        },
+        {
+          "name": {
+            "de": "Westerlundska gården",
+            "hu": "Westerlundska Ház",
+            "ro": "Westerlundska gården",
+            "en": "Westerlundska House"
+          },
+          "coords": [
+            59.6372,
+            17.0785
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über das Leben von Doktor Ernst Westerlund, dem Wunderdoktor von Enköping.",
+            "hu": "Ismerje meg Dr. Ernst Westerlund, Enköping csodadoktorának életét.",
+            "ro": "Aflați despre viața doctorului Ernst Westerlund, doctorul minune din Enköping.",
+            "en": "Learn about the life of Doctor Ernst Westerlund, the miracle doctor of Enköping."
+          }
+        },
+        {
+          "name": {
+            "de": "Enköpings Museum",
+            "hu": "Enköpingi Múzeum",
+            "ro": "Muzeul Enköping",
+            "en": "Enköping Museum"
+          },
+          "coords": [
+            59.6378,
+            17.0801
+          ],
+          "category": "museums",
+          "arrive_at": "11:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Die Ausstellung über die Stadtgeschichte ist besonders aufschlussreich.",
+            "hu": "A város történetéről szóló kiállítás különösen informatív.",
+            "ro": "Expoziția despre istoria orașului este deosebit de edificatoare.",
+            "en": "The exhibition on the town's history is particularly insightful."
+          }
+        },
+        {
+          "name": {
+            "de": "Åpromenaden",
+            "hu": "Åpromenaden (Folyóparti sétány)",
+            "ro": "Promenada Åpromenaden",
+            "en": "Åpromenaden (River Promenade)"
+          },
+          "coords": [
+            59.634,
+            17.082
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Perfekt für einen Mittagsspaziergang. Viele Bänke mit Blick auf den Fluss.",
+            "hu": "Tökéletes egy ebéd utáni sétához. Sok pad néz a folyóra.",
+            "ro": "Perfect pentru o plimbare de prânz. Multe bănci cu vedere la râu.",
+            "en": "Perfect for a midday stroll. Many benches overlook the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadsparken",
+            "hu": "Stadsparken (Városi Park)",
+            "ro": "Parcul Stadsparken",
+            "en": "Stadsparken (City Park)"
+          },
+          "coords": [
+            59.6325,
+            17.0855
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Suchen Sie nach den verschiedenen Skulpturen, die im Park verteilt sind.",
+            "hu": "Keresse meg a parkban elszórtan található különböző szobrokat.",
+            "ro": "Căutați diversele sculpturi răspândite în parc.",
+            "en": "Look for the various sculptures dotted around the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Drömparken",
+            "hu": "Drömparken (Álom Park)",
+            "ro": "Parcul Drömparken",
+            "en": "Drömparken (The Dream Park)"
+          },
+          "coords": [
+            59.631,
+            17.089
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Dieser Park wurde vom berühmten Designer Piet Oudolf entworfen, ein Muss für Gartenliebhaber.",
+            "hu": "Ezt a parkot a híres tervező, Piet Oudolf tervezte, kötelező a kertbarátoknak.",
+            "ro": "Acest parc a fost proiectat de renumitul designer Piet Oudolf, un punct de atracție pentru iubitorii de grădini.",
+            "en": "This park was designed by famous designer Piet Oudolf, a must-see for garden lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "Afzeliusparken",
+            "hu": "Afzelius Park",
+            "ro": "Parcul Afzelius",
+            "en": "Afzelius Park"
+          },
+          "coords": [
+            59.635,
+            17.075
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:18",
+          "stay_min": 27,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kleiner, ruhiger Ort, um den Tag ausklingen zu lassen, bevor man nach Hause geht.",
+            "hu": "Egy kicsi, csendes hely a nap befejezéséhez, mielőtt hazaindulna.",
+            "ro": "Un loc mic și liniștit pentru a încheia ziua înainte de a pleca spre casă.",
+            "en": "A small, quiet spot to reflect on the day before heading home."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Herzen von Enköping mit einem Besuch der mittelalterlichen Vårfrukyrkan und der nahegelegenen historischen Häuser. Am Mittag schlendern Sie entlang des Flusses Enköpingsån auf der malerischen Åpromenaden, einem perfekten Ort für eine Pause. Der Nachmittag ist den berühmten Parks der Stadt gewidmet. Erkunden Sie die üppigen Anlagen des Stadsparken und lassen Sie sich von Piet Oudolfs Meisterwerk, dem Drömparken, verzaubern. Schließen Sie Ihren Tag mit einem Moment der Ruhe im kleineren Afzeliusparken ab, während die Sonne untergeht.",
+        "hu": "Kezdje a napot Enköping történelmi szívében, látogasson el a középkori Vårfrukyrkan templomba és a közeli történelmi házakhoz. Délben sétáljon végig az Enköpingsån folyó mentén a festői Åpromenaden sétányon, amely tökéletes hely egy pihenőre. A délutánt a város híres parkjainak szenteljük. Fedezze fel a Stadsparken buja tájait, és hagyja, hogy elvarázsolja Piet Oudolf mesterműve, a Drömparken. Zárja a napot egy csendes pillanattal a kisebb Afzeliusparkenben, miközben a nap lenyugszik.",
+        "ro": "Începeți ziua în inima istorică a Enköping, vizitând biserica medievală Vårfrukyrkan și casele istorice din apropiere. La prânz, plimbați-vă de-a lungul râului Enköpingsån pe pitoreasca promenadă Åpromenaden, un loc perfect pentru o pauză. După-amiaza este dedicată faimoaselor parcuri ale orașului. Explorați peisajele luxuriante din Stadsparken și lăsați-vă fermecați de capodopera lui Piet Oudolf, Drömparken. Încheiați ziua cu un moment de liniște în mai micul parc Afzeliusparken, în timp ce soarele apune.",
+        "en": "Start your day in the historical heart of Enköping, visiting the medieval Vårfrukyrkan and nearby historical houses. At midday, stroll along the Enköpingsån river on the scenic Åpromenaden, a perfect spot for a break. The afternoon is dedicated to the city's famous parks. Explore the lush landscapes of Stadsparken and be enchanted by Piet Oudolf's masterpiece, Drömparken. Conclude your day with a quiet moment in the smaller Afzeliusparken as the sun sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kal-pudding",
+            "tip": "Ein klassisches schwedisches Gericht, eine Art Fleischpudding, oft mit Preiselbeeren serviert."
+          },
+          {
+            "name": "Restaurang Bryggan",
+            "tip": "Bietet eine schöne Aussicht auf den Fluss und serviert traditionelle schwedische Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kal-pudding",
+            "tip": "Klasszikus svéd étel, egyfajta húspuding, gyakran vörösáfonyával tálalva."
+          },
+          {
+            "name": "Restaurang Bryggan",
+            "tip": "Szép kilátást nyújt a folyóra, és hagyományos svéd ételeket szolgál fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kal-pudding",
+            "tip": "Un fel de mâncare suedez clasic, un fel de budincă de carne, adesea servită cu merișoare."
+          },
+          {
+            "name": "Restaurang Bryggan",
+            "tip": "Oferă o priveliște frumoasă asupra râului și servește mâncăruri tradiționale suedeze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kal-pudding",
+            "tip": "A classic Swedish dish, a type of meat pudding, often served with lingonberries."
+          },
+          {
+            "name": "Restaurang Bryggan",
+            "tip": "Offers a beautiful view of the river and serves traditional Swedish cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Åpromenaden",
+            "tip": "Finden Sie eine ruhige Bank am Flussufer.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Drömparken",
+            "tip": "Verlieren Sie sich zwischen den hohen Gräsern und Stauden.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bredsand",
+            "tip": "Ein Spaziergang am Ufer des Mälaren bei Sonnenuntergang ist unschlagbar.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Åpromenaden",
+            "tip": "Találjon egy csendes padot a folyóparton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Drömparken",
+            "tip": "Vesszen el a magas fűfélék és évelők között.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bredsand",
+            "tip": "Egy séta a Mälaren-tó partján naplementekor verhetetlen.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Åpromenaden",
+            "tip": "Găsiți o bancă liniștită pe malul râului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Drömparken",
+            "tip": "Pierdeți-vă printre ierburile înalte și plantele perene.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bredsand",
+            "tip": "O plimbare pe malul lacului Mälaren la apus este imbatabilă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Åpromenaden",
+            "tip": "Find a quiet bench by the riverside.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Drömparken",
+            "tip": "Get lost among the tall grasses and perennials.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bredsand",
+            "tip": "A walk along the shore of Lake Mälaren at sunset is unbeatable.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stora Torget",
+            "tip": "Der Hauptplatz hat oft Markttage mit lokalen Produkten und Handwerk."
+          },
+          {
+            "name": "Lokale Hofläden",
+            "tip": "Suchen Sie nach 'gårdsbutik'-Schildern außerhalb der Stadt für frische Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stora Torget",
+            "tip": "A főtéren gyakran tartanak piacot helyi termékekkel és kézműves árukkal."
+          },
+          {
+            "name": "Helyi farmboltok",
+            "tip": "Keressen 'gårdsbutik' táblákat a városon kívül friss termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stora Torget",
+            "tip": "Piața principală are adesea zile de piață cu produse locale și artizanat."
+          },
+          {
+            "name": "Magazinele fermelor locale",
+            "tip": "Căutați semne 'gårdsbutik' în afara orașului pentru produse proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stora Torget",
+            "tip": "The main square often has market days with local produce and crafts."
+          },
+          {
+            "name": "Local Farm Shops",
+            "tip": "Look for 'gårdsbutik' signs outside the city for fresh produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Enköping ist bekannt als die 'Stadt der Parks', also nehmen Sie sich Zeit, sie wirklich zu genießen.",
+          "Einige kleinere Cafés entlang der Promenade sind ideal für eine Fika-Pause."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "Enköpinget a 'Parkok Városaként' ismerik, ezért szánjon időt arra, hogy valóban élvezze őket.",
+          "A sétány mentén található kisebb kávézók ideálisak egy fika-szünetre."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge mult pe jos.",
+          "Enköping este cunoscut ca 'Orașul Parcurilor', așa că acordați-vă timp să le savurați cu adevărat.",
+          "Câteva cafenele mai mici de-a lungul promenadei sunt ideale pentru o pauză de fika."
+        ],
+        "en": [
+          "Wear comfortable shoes, as you'll be doing a lot of walking.",
+          "Enköping is known as the 'City of Parks', so take your time to truly enjoy them.",
+          "Some smaller cafes along the promenade are perfect for a fika break."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtzentrum",
+            "hu": "Városközpont",
+            "ro": "Centrul orașului",
+            "en": "City Center"
+          },
+          "coords": [
+            59.6368,
+            17.078
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Radtour hier, um ein Gefühl für die Stadt zu bekommen.",
+            "hu": "Kezdje a kerékpártúrát itt, hogy ráhangolódjon a városra.",
+            "ro": "Începeți turul cu bicicleta de aici pentru a simți atmosfera orașului.",
+            "en": "Start your bike tour here to get a feel for the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Åpromenaden",
+            "hu": "Åpromenaden (Folyóparti sétány)",
+            "ro": "Promenada Åpromenaden",
+            "en": "Åpromenaden (River Promenade)"
+          },
+          "coords": [
+            59.634,
+            17.082
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:42",
+          "stay_min": 45,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Der Radweg entlang des Flusses ist flach und sehr angenehm.",
+            "hu": "A folyó menti kerékpárút sík és nagyon kellemes.",
+            "ro": "Pista de biciclete de-a lungul râului este plată și foarte plăcută.",
+            "en": "The cycle path along the river is flat and very pleasant."
+          }
+        },
+        {
+          "name": {
+            "de": "Drömparken & Stadsparken",
+            "hu": "Drömparken és Stadsparken",
+            "ro": "Parcurile Drömparken și Stadsparken",
+            "en": "Drömparken & Stadsparken"
+          },
+          "coords": [
+            59.6318,
+            17.087
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:33",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und erkunden Sie diese beiden benachbarten Parks zu Fuß.",
+            "hu": "Zárja le a kerékpárt, és fedezze fel ezt a két szomszédos parkot gyalog.",
+            "ro": "Lăsați bicicleta și explorați aceste două parcuri adiacente pe jos.",
+            "en": "Lock up your bike and explore these two adjacent parks on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Bredsand",
+            "hu": "Bredsand strand",
+            "ro": "Plaja Bredsand",
+            "en": "Bredsand Beach"
+          },
+          "coords": [
+            59.61,
+            17.135
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:39",
+          "stay_min": 180,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Ein schöner Sandstrand am Mälarensee. Perfekt für ein Picknick und ein Bad im Sommer.",
+            "hu": "Egy gyönyörű homokos strand a Mälaren-tónál. Tökéletes piknikezésre és nyári fürdőzésre.",
+            "ro": "O plajă frumoasă cu nisip pe lacul Mälaren. Perfectă pentru un picnic și o baie de vară.",
+            "en": "A beautiful sandy beach on Lake Mälaren. Perfect for a picnic and a swim in summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Westerlundska gården",
+            "hu": "Westerlundska Ház",
+            "ro": "Westerlundska gården",
+            "en": "Westerlundska House"
+          },
+          "coords": [
+            59.6372,
+            17.0785
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:27",
+          "stay_min": 60,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 6.3,
+          "tip_5lang": {
+            "de": "Nach Ihrer Rückkehr ins Zentrum tauchen Sie in die lokale Geschichte ein.",
+            "hu": "Miután visszatért a központba, merüljön el a helyi történelemben.",
+            "ro": "După întoarcerea în centru, scufundați-vă în istoria locală.",
+            "en": "After returning to the center, dive into some local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Vårfrukyrkan",
+            "hu": "Vårfrukyrkan",
+            "ro": "Biserica Vårfrukyrkan",
+            "en": "Vårfrukyrkan"
+          },
+          "coords": [
+            59.6365,
+            17.0792
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:29",
+          "stay_min": 56,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem Moment der Besinnung in der Hauptkirche der Stadt.",
+            "hu": "Fejezze be a túrát egy elmélkedő pillanattal a város főtemplomában.",
+            "ro": "Încheiați turul cu un moment de reflecție în biserica principală a orașului.",
+            "en": "End your tour with a moment of reflection in the town's main church."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine Radtour durch Enköping ist ideal, um die Stadt und ihre Natur zu verbinden. Beginnen Sie im Zentrum und radeln Sie gemütlich entlang des Flusses zur berühmten Parklandschaft. Am Mittag nehmen Sie den Weg zum Bredsand-Strand am Mälarensee, einem perfekten Ort für eine lange Pause, ein Picknick und vielleicht sogar ein Bad. Der Rückweg führt Sie zurück ins historische Zentrum, wo Sie den Tag mit einem Besuch der Westerlundska gården und der imposanten Vårfrukyrkan ausklingen lassen können.",
+        "hu": "Egy enköpingi kerékpártúra ideális a város és a természet összekapcsolására. Induljon a központból, és tekerjen kényelmesen a folyó mentén a híres parkvidék felé. Délben vegye az irányt a Mälaren-tó melletti Bredsand strand felé, amely tökéletes hely egy hosszú pihenőre, piknikezésre és talán még fürdésre is. A visszaút a történelmi központba vezet, ahol a napot a Westerlundska Ház és az impozáns Vårfrukyrkan meglátogatásával zárhatja.",
+        "ro": "Un tur cu bicicleta prin Enköping este ideal pentru a combina orașul și natura sa. Începeți din centru și pedalați pe îndelete de-a lungul râului spre faimoasele parcuri. La prânz, mergeți spre plaja Bredsand de pe lacul Mälaren, un loc perfect pentru o pauză lungă, un picnic și poate chiar o baie. Traseul de întoarcere vă duce înapoi în centrul istoric, unde puteți încheia ziua cu o vizită la Westerlundska gården și impunătoarea Vårfrukyrkan.",
+        "en": "A bike tour through Enköping is ideal for combining the city and its nature. Start in the center and cycle leisurely along the river to the famous parklands. At midday, make your way to Bredsand beach on Lake Mälaren, a perfect spot for a long break, a picnic, and maybe even a swim. The return journey takes you back to the historic center, where you can end the day with a visit to Westerlundska gården and the imposing Vårfrukyrkan."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Räksmörgås",
+            "tip": "Ein offenes Sandwich mit Garnelen, ein schwedischer Klassiker."
+          },
+          {
+            "name": "Pjåsk",
+            "tip": "Ein gemütliches Café im Zentrum, perfekt für eine 'fika'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Räksmörgås",
+            "tip": "Nyitott szendvics garnélával, egy svéd klasszikus."
+          },
+          {
+            "name": "Pjåsk",
+            "tip": "Egy hangulatos kávézó a központban, tökéletes egy 'fikára'."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Räksmörgås",
+            "tip": "Un sandviș deschis cu creveți, un clasic suedez."
+          },
+          {
+            "name": "Pjåsk",
+            "tip": "O cafenea primitoare în centru, perfectă pentru o 'fika'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Räksmörgås",
+            "tip": "An open-faced shrimp sandwich, a Swedish classic."
+          },
+          {
+            "name": "Pjåsk",
+            "tip": "A cozy café in the center, perfect for a 'fika'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Fluss",
+            "tip": "Radeln Sie in Ihrem eigenen Tempo und genießen Sie die Ruhe.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Bredsand Ufer",
+            "tip": "Abseits des Hauptstrandes finden Sie ruhige Plätze.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Afzeliusparken",
+            "tip": "Ein verstecktes Juwel für eine ruhige Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Folyóparti kerékpárút",
+            "tip": "Tekerjen a saját tempójában és élvezze a csendet.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Bredsand partja",
+            "tip": "A fő strandtól távolabb csendes helyeket talál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Afzeliusparken",
+            "tip": "Egy rejtett gyöngyszem egy csendes pihenőhöz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de pe malul râului",
+            "tip": "Pedalați în ritmul propriu și bucurați-vă de liniște.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Malul Bredsand",
+            "tip": "Veți găsi locuri liniștite departe de plaja principală.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Afzelius",
+            "tip": "O bijuterie ascunsă pentru o pauză liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Riverside bike path",
+            "tip": "Cycle at your own pace and enjoy the quiet.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Bredsand shore",
+            "tip": "You'll find quiet spots away from the main beach area.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Afzeliusparken",
+            "tip": "A hidden gem for a quiet break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Lokale Geschäfte könnten Zubehör oder Souvenirs mit Fahrradmotiven haben."
+          },
+          {
+            "name": "Stora Torget",
+            "tip": "Packen Sie ein paar lokale Snacks vom Markt für Ihre Radtour ein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "A helyi boltokban lehetnek kerékpáros kiegészítők vagy ajándéktárgyak."
+          },
+          {
+            "name": "Stora Torget",
+            "tip": "Csomagoljon néhány helyi finomságot a piacról a kerékpártúrához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Magazinele locale ar putea avea accesorii sau suveniruri cu tematică de ciclism."
+          },
+          {
+            "name": "Stora Torget",
+            "tip": "Luați câteva gustări locale de la piață pentru turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shops",
+            "tip": "Local shops might have cycling-themed accessories or souvenirs."
+          },
+          {
+            "name": "Stora Torget",
+            "tip": "Pack some local snacks from the market for your bike ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck, bevor Sie losfahren.",
+          "Ein Helm wird dringend empfohlen.",
+          "Nehmen Sie Wasser und Snacks mit, besonders für die Fahrt zum Bredsand.",
+          "Die meisten Wege sind flach, aber bereiten Sie sich auf eine lange Strecke vor."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Sisak viselése erősen ajánlott.",
+          "Vigyen magával vizet és harapnivalót, különösen a Bredsandba vezető útra.",
+          "A legtöbb út sík, de készüljön fel egy hosszú távra."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope înainte de a porni.",
+          "Casca este foarte recomandată.",
+          "Luați apă și gustări, în special pentru drumul spre Bredsand.",
+          "Majoritatea traseelor sunt plate, dar fiți pregătit pentru o distanță lungă."
+        ],
+        "en": [
+          "Check your tire pressure before you start.",
+          "A helmet is highly recommended.",
+          "Bring water and snacks, especially for the ride to Bredsand.",
+          "Most paths are flat, but be prepared for a long distance."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 15.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Zentrum: Vårfrukyrkan",
+            "hu": "Központi Klaszter: Vårfrukyrkan",
+            "ro": "Cluster Centru: Vårfrukyrkan",
+            "en": "Center Cluster: Vårfrukyrkan"
+          },
+          "coords": [
+            59.6365,
+            17.0792
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und beginnen Sie Ihren Rundgang hier.",
+            "hu": "Parkoljon a közelben, és kezdje itt a sétát.",
+            "ro": "Parcați în apropiere și începeți turul pietonal de aici.",
+            "en": "Park nearby and start your walking tour here."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Zentrum: Westerlundska gården",
+            "hu": "Központi Klaszter: Westerlundska Ház",
+            "ro": "Cluster Centru: Westerlundska gården",
+            "en": "Center Cluster: Westerlundska House"
+          },
+          "coords": [
+            59.6372,
+            17.0785
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:53",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang von der Kirche entfernt.",
+            "hu": "Csak egy rövid séta a templomtól.",
+            "ro": "La doar o scurtă plimbare de biserică.",
+            "en": "Just a short walk from the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Zentrum: Enköpings Museum",
+            "hu": "Központi Klaszter: Enköpingi Múzeum",
+            "ro": "Cluster Centru: Muzeul Enköping",
+            "en": "Center Cluster: Enköping Museum"
+          },
+          "coords": [
+            59.6378,
+            17.0801
+          ],
+          "category": "museums",
+          "arrive_at": "10:47",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Vervollständigen Sie Ihren historischen Rundgang, bevor Sie weiterfahren.",
+            "hu": "Fejezze be a történelmi sétát, mielőtt továbbhajtana.",
+            "ro": "Completați-vă turul istoric înainte de a merge mai departe.",
+            "en": "Complete your historical tour before driving to the next cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Parks: Åpromenaden",
+            "hu": "Park Klaszter: Åpromenaden",
+            "ro": "Cluster Parcuri: Åpromenaden",
+            "en": "Parks Cluster: Åpromenaden"
+          },
+          "coords": [
+            59.634,
+            17.082
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:06",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz bei den Parks und beginnen Sie hier Ihren Spaziergang am Fluss.",
+            "hu": "Hajtson a parkok melletti parkolóba, és kezdje itt a folyóparti sétát.",
+            "ro": "Conduceți până la parcarea de lângă parcuri și începeți plimbarea pe malul râului de aici.",
+            "en": "Drive to the parking near the parks and start your river walk here."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Parks: Drömparken",
+            "hu": "Park Klaszter: Drömparken",
+            "ro": "Cluster Parcuri: Drömparken",
+            "en": "Parks Cluster: Drömparken"
+          },
+          "coords": [
+            59.631,
+            17.089
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:12",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang führt Sie zu diesem weltberühmten Garten.",
+            "hu": "Egy rövid séta elvezeti ehhez a világhírű kerthez.",
+            "ro": "O scurtă plimbare vă va duce la această grădină de renume mondial.",
+            "en": "A short walk will take you to this world-renowned garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Strand: Bredsand",
+            "hu": "Strand Klaszter: Bredsand",
+            "ro": "Cluster Plajă: Bredsand",
+            "en": "Beach Cluster: Bredsand"
+          },
+          "coords": [
+            59.61,
+            17.135
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:54",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 11.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Strand für einen entspannten Nachmittag am See.",
+            "hu": "Hajtson le a strandra egy pihentető délutánért a tónál.",
+            "ro": "Conduceți spre plajă pentru o după-amiază relaxantă la lac.",
+            "en": "Drive down to the beach for a relaxing afternoon by the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Abschiedsessen",
+            "hu": "Búcsúvacsora",
+            "ro": "Cină de rămas bun",
+            "en": "Farewell Dinner"
+          },
+          "coords": [
+            59.6355,
+            17.076
+          ],
+          "category": "gastro",
+          "arrive_at": "17:02",
+          "stay_min": 38,
+          "hop_mode": "car",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zurück ins Zentrum für ein Abendessen in einem Restaurant Ihrer Wahl.",
+            "hu": "Hajtson vissza a központba egy vacsorára egy tetszőleges étteremben.",
+            "ro": "Conduceți înapoi în centru pentru cină la un restaurant la alegere.",
+            "en": "Drive back to the center for dinner at a restaurant of your choice."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie Enköping in thematischen Clustern erkunden. Beginnen Sie den Morgen im historischen Zentrum, parken Sie einmal und spazieren Sie zwischen Kirche, Museum und dem Westerlundska-Haus. Am Mittag fahren Sie zum Parkcluster, wo Sie Ihr Auto erneut abstellen, um die berühmten Gärten und die Flusspromenade zu Fuß zu erkunden. Der Höhepunkt des Nachmittags ist eine Fahrt zum Bredsand-Strand am Mälarensee, ideal für eine ausgedehnte Pause. Schließen Sie den Tag mit einer kurzen Fahrt zurück in die Stadt für ein gemütliches Abendessen ab.",
+        "hu": "Autóval tematikus klaszterekben fedezheti fel Enköpinget. Kezdje a reggelt a történelmi központban, parkoljon le egyszer, és sétáljon a templom, a múzeum és a Westerlundska-ház között. Délben hajtson a park-klaszterhez, ahol ismét leteszi az autót, hogy gyalog fedezze fel a híres kerteket és a folyóparti sétányt. A délután fénypontja egy utazás a Mälaren-tó melletti Bredsand strandra, amely ideális egy hosszabb pihenőre. Zárja a napot egy rövid autóúttal vissza a városba egy hangulatos vacsorára.",
+        "ro": "Cu mașina, puteți explora Enköping în clustere tematice. Începeți dimineața în centrul istoric, parcați o dată și plimbați-vă între biserică, muzeu și casa Westerlundska. La prânz, conduceți spre clusterul de parcuri, unde lăsați din nou mașina pentru a explora pe jos faimoasele grădini și promenada de pe malul râului. Punctul culminant al după-amiezii este o excursie la plaja Bredsand de pe lacul Mälaren, ideală pentru o pauză prelungită. Încheiați ziua cu o scurtă călătorie cu mașina înapoi în oraș pentru o cină relaxantă.",
+        "en": "By car, you can explore Enköping in thematic clusters. Start the morning in the historic center, park once, and walk between the church, museum, and Westerlundska house. At midday, drive to the park cluster, leaving your car again to explore the famous gardens and river promenade on foot. The afternoon's highlight is a drive to Bredsand beach on Lake Mälaren, perfect for an extended break. Conclude the day with a short drive back into town for a leisurely dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ärtsoppa och pannkakor",
+            "tip": "Ein traditionelles schwedisches Donnerstagsessen: Erbsensuppe und Pfannkuchen."
+          },
+          {
+            "name": "Enköpings Musteri",
+            "tip": "Probieren Sie lokalen Apfelsaft, wenn Sie an einem Hofladen vorbeikommen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ärtsoppa och pannkakor",
+            "tip": "Hagyományos svéd csütörtöki ebéd: sárgaborsóleves és palacsinta."
+          },
+          {
+            "name": "Enköpings Musteri",
+            "tip": "Kóstolja meg a helyi almalevet, ha egy farmbolt mellett halad el."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ärtsoppa och pannkakor",
+            "tip": "O masă tradițională suedeză de joi: supă de mazăre și clătite."
+          },
+          {
+            "name": "Enköpings Musteri",
+            "tip": "Încercați sucul local de mere dacă treceți pe lângă un magazin de fermă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ärtsoppa och pannkakor",
+            "tip": "A traditional Swedish Thursday meal: pea soup and pancakes."
+          },
+          {
+            "name": "Enköpings Musteri",
+            "tip": "Try some local apple cider if you pass a farm shop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenuntergang am Bredsand",
+            "tip": "Der weite Blick über den Mälarensee ist spektakulär.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parkbänke",
+            "tip": "In allen Parks finden Sie ruhige Ecken zum Entspannen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Am Fluss",
+            "tip": "Das sanfte Plätschern des Wassers ist sehr beruhigend.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente Bredsandban",
+            "tip": "A Mälaren-tóra nyíló széles kilátás lenyűgöző.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Padok a parkban",
+            "tip": "Minden parkban talál csendes zugokat a pihenésre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A folyó mellett",
+            "tip": "A víz halk csobogása nagyon megnyugtató.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apus la Bredsand",
+            "tip": "Priveliștea largă asupra lacului Mälaren este spectaculoasă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Băncile din parc",
+            "tip": "Veți găsi colțuri liniștite pentru relaxare în toate parcurile.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Lângă râu",
+            "tip": "Murmurul blând al apei este foarte liniștitor.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunset at Bredsand",
+            "tip": "The wide view over Lake Mälaren is spectacular.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Park benches",
+            "tip": "You'll find quiet corners for relaxation in all the parks.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "By the river",
+            "tip": "The gentle sound of the water is very calming.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Antiquitätenläden",
+            "tip": "Halten Sie Ausschau nach 'Loppis'-Schildern für Second-Hand-Funde."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Suchen Sie nach einzigartigen, handgefertigten Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Antikváriumok",
+            "tip": "Keresse a 'Loppis' táblákat használt kincsekért."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keressen egyedi, kézzel készített ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de antichități",
+            "tip": "Fiți atenți la semnele 'Loppis' pentru descoperiri la mâna a doua."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Căutați suveniruri unice, lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Antique shops",
+            "tip": "Look out for 'Loppis' signs for second-hand finds."
+          },
+          {
+            "name": "Craft shops",
+            "tip": "Look for unique, handmade souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkgebühren und -zeiten im Voraus.",
+          "Planen Sie genügend Zeit für den Verkehr zwischen den Clustern ein.",
+          "Ein GPS ist unerlässlich.",
+          "Das Auto gibt Ihnen die Flexibilität, auch nahegelegene ländliche Gebiete zu erkunden."
+        ],
+        "hu": [
+          "Előre tájékozódjon a parkolási díjakról és időkről.",
+          "Tervezzen elegendő időt a klaszterek közötti forgalomra.",
+          "GPS elengedhetetlen.",
+          "Az autó rugalmasságot ad a közeli vidéki területek felfedezéséhez is."
+        ],
+        "ro": [
+          "Verificați în avans taxele și orele de parcare.",
+          "Alocați suficient timp pentru trafic între clustere.",
+          "Un GPS este esențial.",
+          "Mașina vă oferă flexibilitatea de a explora și zonele rurale din apropiere."
+        ],
+        "en": [
+          "Check parking fees and times in advance.",
+          "Allow enough time for traffic between clusters.",
+          "A GPS is essential.",
+          "The car gives you the flexibility to also explore nearby rural areas."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Zentrum: Ankunft & Vårfrukyrkan",
+            "hu": "Központi Klaszter: Érkezés és Vårfrukyrkan",
+            "ro": "Cluster Centru: Sosire & Vårfrukyrkan",
+            "en": "Center Cluster: Arrival & Vårfrukyrkan"
+          },
+          "coords": [
+            59.6365,
+            17.0792
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Hauptplatz und beginnen Sie Ihren Tag hier.",
+            "hu": "Buszozzon a főtérre, és kezdje itt a napot.",
+            "ro": "Luați un autobuz până în piața principală și începeți ziua de aici.",
+            "en": "Take a bus to the main square and start your day here."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Zentrum: Enköpings Museum",
+            "hu": "Központi Klaszter: Enköpingi Múzeum",
+            "ro": "Cluster Centru: Muzeul Enköping",
+            "en": "Center Cluster: Enköping Museum"
+          },
+          "coords": [
+            59.6378,
+            17.0801
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang bringt Sie zum städtischen Museum.",
+            "hu": "Egy rövid séta elviszi a városi múzeumba.",
+            "ro": "O scurtă plimbare vă duce la muzeul orașului.",
+            "en": "A short walk takes you to the city museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Parks: Åpromenaden",
+            "hu": "Park Klaszter: Åpromenaden",
+            "ro": "Cluster Parcuri: Åpromenaden",
+            "en": "Parks Cluster: Åpromenaden"
+          },
+          "coords": [
+            59.634,
+            17.082
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:38",
+          "stay_min": 60,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in Richtung Süden zu den Parks.",
+            "hu": "Buszozzon dél felé a parkokhoz.",
+            "ro": "Luați un autobuz spre sud, spre parcuri.",
+            "en": "Take a bus south towards the parks."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Parks: Drömparken",
+            "hu": "Park Klaszter: Drömparken",
+            "ro": "Cluster Parcuri: Drömparken",
+            "en": "Parks Cluster: Drömparken"
+          },
+          "coords": [
+            59.631,
+            17.089
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:44",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie von der Promenade zu diesem botanischen Meisterwerk.",
+            "hu": "Sétáljon a sétánytól ehhez a botanikai mesterműhöz.",
+            "ro": "Plimbați-vă de la promenadă la această capodoperă botanică.",
+            "en": "Stroll from the promenade to this botanical masterpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Strand: Bredsand",
+            "hu": "Strand Klaszter: Bredsand",
+            "ro": "Cluster Plajă: Bredsand",
+            "en": "Beach Cluster: Bredsand"
+          },
+          "coords": [
+            59.61,
+            17.135
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:31",
+          "stay_min": 150,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Eine längere Busfahrt bringt Sie zum Seeufer für den Nachmittag.",
+            "hu": "Egy hosszabb buszút elviszi a tóparthoz a délutánra.",
+            "ro": "O călătorie mai lungă cu autobuzul vă va duce pe malul lacului pentru după-amiază.",
+            "en": "A longer bus ride will take you to the lakeside for the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum",
+            "hu": "Visszatérés a központba",
+            "ro": "Întoarcere în centru",
+            "en": "Return to Center"
+          },
+          "coords": [
+            59.636,
+            17.0777
+          ],
+          "category": "historical",
+          "arrive_at": "17:23",
+          "stay_min": 47,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück ins Zentrum, um Ihren Tag zu beenden.",
+            "hu": "Buszozzon vissza a központba a nap befejezéséhez.",
+            "ro": "Luați autobuzul înapoi în centru pentru a vă încheia ziua.",
+            "en": "Take the bus back to the center to finish your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Enköping mühelos mit öffentlichen Verkehrsmitteln. Beginnen Sie Ihren Tag im historischen Zentrum, das leicht mit dem Bus zu erreichen ist. Nach der Erkundung der Sehenswürdigkeiten zu Fuß nehmen Sie einen weiteren Bus zum berühmten Parkcluster. Verbringen Sie den Mittag mit Spaziergängen entlang des Flusses und durch die Gärten. Eine längere Busfahrt am Nachmittag bringt Sie zum wunderschönen Bredsand-Strand am Mälarensee. Am Abend bringt Sie eine letzte Busfahrt bequem zurück ins Stadtzentrum.",
+        "hu": "Fedezze fel Enköpinget könnyedén a tömegközlekedéssel. Kezdje a napot a történelmi központban, amely busszal könnyen megközelíthető. Miután gyalog felfedezte a látnivalókat, szálljon fel egy másik buszra a híres park-klaszterhez. Töltse a délt a folyó menti sétákkal és a kertekben. Egy hosszabb délutáni buszozás elviszi a gyönyörű Bredsand strandra a Mälaren-tónál. Este egy utolsó buszozás kényelmesen visszaviszi a városközpontba.",
+        "ro": "Explorați Enköping fără efort folosind transportul public. Începeți ziua în centrul istoric, ușor accesibil cu autobuzul. După ce ați explorat atracțiile pe jos, luați un alt autobuz spre faimosul cluster de parcuri. Petreceți amiaza plimbându-vă de-a lungul râului și prin grădini. O călătorie mai lungă cu autobuzul după-amiaza vă va duce la frumoasa plajă Bredsand de pe lacul Mälaren. Seara, o ultimă călătorie cu autobuzul vă va duce convenabil înapoi în centrul orașului.",
+        "en": "Explore Enköping effortlessly using public transport. Start your day in the historic center, easily reached by bus. After exploring the sights on foot, take another bus to the famous park cluster. Spend midday strolling along the river and through the gardens. A longer bus ride in the afternoon will take you to the beautiful Bredsand beach on Lake Mälaren. In the evening, a final bus ride will conveniently take you back to the city center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kanelbulle",
+            "tip": "Eine Zimtschnecke ist die perfekte Ergänzung für eine 'fika' an einer Bushaltestelle."
+          },
+          {
+            "name": "Gatukök (Imbissbude)",
+            "tip": "Probieren Sie einen 'tunnbrödsrulle' für ein schnelles und authentisches schwedisches Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kanelbulle",
+            "tip": "Egy fahéjas csiga tökéletes kiegészítője egy 'fikának' egy buszmegállóban."
+          },
+          {
+            "name": "Gatukök (Utcai étkezde)",
+            "tip": "Kóstoljon meg egy 'tunnbrödsrullét' egy gyors és autentikus svéd ebédért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kanelbulle",
+            "tip": "Un rulou cu scorțișoară este acompaniamentul perfect pentru o 'fika' în stația de autobuz."
+          },
+          {
+            "name": "Gatukök (Chioșc de mâncare)",
+            "tip": "Încercați un 'tunnbrödsrulle' pentru un prânz suedez rapid și autentic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kanelbulle",
+            "tip": "A cinnamon bun is the perfect accompaniment to a 'fika' while waiting for a bus."
+          },
+          {
+            "name": "Gatukök (Food kiosk)",
+            "tip": "Try a 'tunnbrödsrulle' for a quick and authentic Swedish lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blick aus dem Busfenster",
+            "tip": "Beobachten Sie, wie die Landschaft vorbeizieht.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Eine Bank im Afzeliusparken",
+            "tip": "Ein kleiner, oft übersehener Park in der Nähe des Zentrums.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Abend am Bredsand",
+            "tip": "Bleiben Sie für den Sonnenuntergang, bevor Sie den letzten Bus nehmen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a busz ablakából",
+            "tip": "Nézze, ahogy elsuhan a táj.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Egy pad az Afzeliusparkenben",
+            "tip": "Egy kicsi, gyakran figyelmen kívül hagyott park a központ közelében.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Este Bredsandban",
+            "tip": "Maradjon naplementéig, mielőtt felszáll az utolsó buszra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Priveliștea de la geamul autobuzului",
+            "tip": "Priviți peisajul cum trece.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "O bancă în Parcul Afzelius",
+            "tip": "Un parc mic, adesea trecut cu vederea, aproape de centru.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Seara la Bredsand",
+            "tip": "Rămâneți pentru apus înainte de a lua ultimul autobuz.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the bus window",
+            "tip": "Watch the landscape go by.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "A bench in Afzeliusparken",
+            "tip": "A small, often-overlooked park near the center.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Evening at Bredsand",
+            "tip": "Stay for the sunset before catching the last bus.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Pressbyrån",
+            "tip": "Kaufen Sie Ihr Busticket und ein paar schwedische Süßigkeiten an diesen Kiosken."
+          },
+          {
+            "name": "Souvenirs",
+            "tip": "Das Enköpings Museum hat einen kleinen Laden mit lokalen Geschenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pressbyrån",
+            "tip": "Vásárolja meg a buszjegyét és néhány svéd édességet ezekben a kioszkokban."
+          },
+          {
+            "name": "Ajándéktárgyak",
+            "tip": "Az Enköpingi Múzeumnak van egy kis boltja helyi ajándékokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pressbyrån",
+            "tip": "Cumpărați biletul de autobuz și niște dulciuri suedeze de la aceste chioșcuri."
+          },
+          {
+            "name": "Suveniruri",
+            "tip": "Muzeul Enköping are un mic magazin cu cadouri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pressbyrån",
+            "tip": "Buy your bus ticket and some Swedish candy at these kiosks."
+          },
+          {
+            "name": "Souvenirs",
+            "tip": "The Enköping Museum has a small shop with local gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Laden Sie die lokale ÖPNV-App für Fahrpläne in Echtzeit herunter.",
+          "Planen Sie Pufferzeiten für Wartezeiten an den Haltestellen ein.",
+          "Beachten Sie die Betriebszeiten, besonders für den letzten Bus zurück vom Strand."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Töltse le a helyi tömegközlekedési alkalmazást a valós idejű menetrendekért.",
+          "Tervezzen pufferidőt a megállókban való várakozásra.",
+          "Vegye figyelembe a működési időket, különösen az utolsó busz esetében a strandról visszafelé."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Descărcați aplicația locală de transport public pentru orare în timp real.",
+          "Alocați timp suplimentar pentru așteptare în stații.",
+          "Fiți atenți la orele de funcționare, în special pentru ultimul autobuz de la plajă."
+        ],
+        "en": [
+          "Buy a day pass for unlimited travel.",
+          "Download the local public transport app for real-time schedules.",
+          "Allow buffer time for waiting at stops.",
+          "Be aware of operating hours, especially for the last bus back from the beach."
+        ]
+      }
+    }
+  }
+}

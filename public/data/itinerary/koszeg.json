@@ -1,0 +1,1104 @@
+{
+  "city_id": "koszeg",
+  "anchor": {
+    "name": "Güns",
+    "coords": [
+      16.5406,
+      47.3892
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 2.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Jurisics-Platz",
+            "hu": "Jurisics tér",
+            "ro": "Piața Jurisics",
+            "en": "Jurisics Square"
+          },
+          "coords": [
+            16.5406,
+            47.3892
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee und genießen Sie die Atmosphäre.",
+            "hu": "Indítsa a napot egy kávéval, és élvezze a tér hangulatát.",
+            "ro": "Începeți ziua aici cu o cafea și bucurați-vă de atmosferă.",
+            "en": "Start your day here with a coffee and soak in the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Heldenpforte",
+            "hu": "Hősök kapuja",
+            "ro": "Poarta Eroilor",
+            "en": "Heroes' Gate"
+          },
+          "coords": [
+            16.541,
+            47.3888
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:37",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Tor ist ein Symbol des Widerstands der Stadt gegen die Osmanen.",
+            "hu": "A kapu a város oszmánok elleni ellenállásának jelképe.",
+            "ro": "Poarta este un simbol al rezistenței orașului împotriva otomanilor.",
+            "en": "The gate is a symbol of the town's resistance against the Ottomans."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Jurisics",
+            "hu": "Jurisics-vár",
+            "ro": "Castelul Jurisics",
+            "en": "Jurisics Castle"
+          },
+          "coords": [
+            16.54,
+            47.3895
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Mauern für einen tollen Blick auf die Altstadt.",
+            "hu": "Másszon fel a falakra a nagyszerű kilátásért az óvárosra.",
+            "ro": "Urcați pe ziduri pentru o priveliște minunată a orașului vechi.",
+            "en": "Climb the walls for a great view of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Herz-Jesu-Kirche",
+            "hu": "Herz-Jesu-Kirche",
+            "ro": "Biserica Inima lui Iisus",
+            "en": "Sacred Heart Church"
+          },
+          "coords": [
+            16.5415,
+            47.3875
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die neugotische Architektur und die bunten Glasfenster.",
+            "hu": "Csodálja meg a neogótikus építészetet és a színes üvegablakokat.",
+            "ro": "Admirați arhitectura neogotică și vitraliile colorate.",
+            "en": "Admire the neo-Gothic architecture and the colorful stained-glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Haus Aussichtsturm (Óház)",
+            "hu": "Óház-kilátó",
+            "ro": "Turnul de observație Óház",
+            "en": "Óház Lookout Tower"
+          },
+          "coords": [
+            16.533,
+            47.395
+          ],
+          "category": "natural features",
+          "arrive_at": "12:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Spaziergang bergauf lohnt sich für die Panoramasicht.",
+            "hu": "A panorámáért megéri felsétálni a hegyre.",
+            "ro": "Plimbarea la deal merită pentru vederea panoramică.",
+            "en": "The uphill walk is worth it for the panoramic view."
+          }
+        },
+        {
+          "name": {
+            "de": "Siebenbrunnen (Hétforrás)",
+            "hu": "Hétforrás",
+            "ro": "Șapte Izvoare",
+            "en": "Seven Springs"
+          },
+          "coords": [
+            16.531,
+            47.394
+          ],
+          "category": "natural features",
+          "arrive_at": "14:01",
+          "stay_min": 180,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für ein Picknick und zum Entspannen in der Natur.",
+            "hu": "Tökéletes hely egy piknikhez és a természetben való pihenéshez.",
+            "ro": "Un loc perfect pentru un picnic și relaxare în natură.",
+            "en": "A perfect spot for a picnic and relaxing in nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Kőszeg beginnt auf dem historischen Jurisics-Platz, wo die Vergangenheit auf Schritt und Tritt lebendig wird. Nach der Erkundung der mächtigen Burg und der stillen Schönheit der Herz-Jesu-Kirche führt Sie ein belebender Spaziergang am Mittag aus der Stadt heraus. Der Weg führt Sie zum Óház-Aussichtsturm, der Sie mit einem atemberaubenden Blick auf die Stadt und die umliegende Landschaft belohnt. Der Nachmittag ist der puren Entspannung in der Natur gewidmet. Sie verbringen Zeit am ruhigen Siebenbrunnen, einem idealen Ort, um die Seele baumeln zu lassen, bevor Sie am Abend in die charmante Altstadt zurückkehren, erfüllt von den Eindrücken des Tages.",
+        "hu": "A nap Kőszegen a történelmi Jurisics téren indul, ahol lépten-nyomon megelevenedik a múlt. A hatalmas vár és a Jézus Szíve templom csendes szépségének felfedezése után délben egy élénkítő séta vezet ki a városból. Az út az Óház-kilátóhoz visz, ami lenyűgöző panorámával ajándékozza meg a városra és a környező tájra. A délután a természetben való tiszta kikapcsolódásé. Időt tölt a békés Hétforrásnál, amely ideális hely a feltöltődésre, mielőtt este visszatérne a bájos óvárosba, tele a nap élményeivel.",
+        "ro": "Ziua dumneavoastră în Kőszeg începe în istorica Piață Jurisics, unde trecutul prinde viață la fiecare pas. După explorarea impunătorului castel și a frumuseții liniștite a Bisericii Inima lui Iisus, o plimbare revigorantă la amiază vă scoate din oraș. Calea vă duce la Turnul de Observație Óház, care vă recompensează cu o priveliște uluitoare asupra orașului și a peisajului înconjurător. După-amiaza este dedicată relaxării pure în natură. Petreceți timp la liniștitul Șapte Izvoare, un loc ideal pentru a vă relaxa sufletul înainte de a vă întoarce seara în fermecătorul oraș vechi, plini de impresiile zilei.",
+        "en": "Your day in Kőszeg begins in the historic Jurisics Square, where the past comes alive at every turn. After exploring the mighty castle and the quiet beauty of the Sacred Heart Church, an invigorating walk at noon takes you out of the town. The path leads you to the Óház Lookout Tower, rewarding you with a breathtaking view of the town and the surrounding landscape. The afternoon is dedicated to pure relaxation in nature. You'll spend time at the peaceful Seven Springs, an ideal place to unwind before returning to the charming old town in the evening, filled with the day's impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ibrahim Kávézó",
+            "tip": "Probieren Sie den traditionellen Krapfen, eine lokale Spezialität."
+          },
+          {
+            "name": "Bechtold István Természetvédelmi Látogatóközpont Étterem",
+            "tip": "Regionale Gerichte in einer wunderschönen natürlichen Umgebung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ibrahim Kávézó",
+            "tip": "Kóstolja meg a hagyományos fánkot, ami helyi specialitás."
+          },
+          {
+            "name": "Bechtold István Természetvédelmi Látogatóközpont Étterem",
+            "tip": "Helyi ételek gyönyörű természeti környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafeneaua Ibrahim",
+            "tip": "Încercați gogoașa tradițională, o specialitate locală."
+          },
+          {
+            "name": "Restaurantul Centrului de Vizitare Bechtold István",
+            "tip": "Mâncăruri regionale într-un cadru natural frumos."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ibrahim Café",
+            "tip": "Try the traditional doughnut, a local specialty."
+          },
+          {
+            "name": "Bechtold István Nature Conservation Visitor Center Restaurant",
+            "tip": "Regional dishes in a beautiful natural setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kálvária-hegy",
+            "tip": "Ein stiller Ort mit einer Kapelle und einem schönen Blick auf die Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Siebenbrunnen",
+            "tip": "Das Plätschern des Wassers und der Schatten der Bäume schaffen eine friedliche Atmosphäre.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kálvária-hegy",
+            "tip": "Csendes hely egy kápolnával és szép kilátással a városra.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Hétforrás",
+            "tip": "A víz csobogása és a fák árnyéka békés hangulatot teremt.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Calvaria",
+            "tip": "Un loc liniștit cu o capelă și o priveliște frumoasă asupra orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Șapte Izvoare",
+            "tip": "Murmurul apei și umbra copacilor creează o atmosferă pașnică.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Calvary Hill",
+            "tip": "A quiet place with a chapel and a nice view of the town.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Seven Springs",
+            "tip": "The murmur of the water and the shade of the trees create a peaceful atmosphere.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie handgemachte Produkte und lokale Erzeugnisse auf dem Hauptplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon kézműves termékeket és helyi árukat a főtéren."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse artizanale și produse locale din piața principală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Buy handcrafted products and local produce in the main square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit und füllen Sie sie am Siebenbrunnen auf.",
+          "Die Wanderung zum Óház-Turm ist teilweise steil, aber die Aussicht ist es wert."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros macskakövei egyenetlenek lehetnek.",
+          "Hozzon magával újratölthető vizes palackot, és töltse fel a Hétforrásnál.",
+          "Az Óház-kilátóhoz vezető út helyenként meredek, de a kilátás megéri."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din orașul vechi poate fi denivelat.",
+          "Luați o sticlă de apă reutilizabilă și umpleți-o la Șapte Izvoare.",
+          "Drumeția spre Turnul Óház este abruptă pe alocuri, dar priveliștea merită."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Bring a reusable water bottle and fill it up at the Seven Springs.",
+          "The hike to the Óház Tower is steep in parts, but the view is worth it."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Jurisics-Platz",
+            "hu": "Jurisics tér",
+            "ro": "Piața Jurisics",
+            "en": "Jurisics Square"
+          },
+          "coords": [
+            16.5406,
+            47.3892
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Mieten Sie Ihr Fahrrad in der Nähe und starten Sie Ihre Tour von diesem zentralen Punkt aus.",
+            "hu": "Béreljen kerékpárt a közelben, és induljon a túrára erről a központi helyről.",
+            "ro": "Închiriați bicicleta din apropiere și porniți turul din acest punct central.",
+            "en": "Rent your bike nearby and start your tour from this central point."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Jurisics",
+            "hu": "Jurisics-vár",
+            "ro": "Castelul Jurisics",
+            "en": "Jurisics Castle"
+          },
+          "coords": [
+            16.54,
+            47.3895
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:32",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad draußen an und erkunden Sie den Innenhof und die Ausstellungen.",
+            "hu": "Zárja le a kerékpárt kint, és fedezze fel az udvart és a kiállításokat.",
+            "ro": "Lăsați bicicleta afară și explorați curtea și expozițiile.",
+            "en": "Lock your bike outside and explore the courtyard and exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Herz-Jesu-Kirche",
+            "hu": "Herz-Jesu-Kirche",
+            "ro": "Biserica Inima lui Iisus",
+            "en": "Sacred Heart Church"
+          },
+          "coords": [
+            16.5415,
+            47.3875
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um die beeindruckende neugotische Fassade zu fotografieren.",
+            "hu": "Rövid megálló, hogy lefényképezze a lenyűgöző neogótikus homlokzatot.",
+            "ro": "O oprire scurtă pentru a fotografia impresionanta fațadă neogotică.",
+            "en": "A quick stop to photograph the impressive neo-Gothic facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Siebenbrunnen (Hétforrás)",
+            "hu": "Hétforrás",
+            "ro": "Șapte Izvoare",
+            "en": "Seven Springs"
+          },
+          "coords": [
+            16.512,
+            47.388
+          ],
+          "category": "natural features",
+          "arrive_at": "11:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Füllen Sie Ihre Wasserflasche mit frischem Quellwasser auf.",
+            "hu": "Töltse fel a vizespalackját friss forrásvízzel.",
+            "ro": "Umpleți-vă sticla de apă cu apă proaspătă de izvor.",
+            "en": "Refill your water bottle with fresh spring water."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Haus Aussichtsturm (Óház)",
+            "hu": "Óház-kilátó",
+            "ro": "Turnul de observație Óház",
+            "en": "Óház Lookout Tower"
+          },
+          "coords": [
+            16.533,
+            47.395
+          ],
+          "category": "natural features",
+          "arrive_at": "12:27",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die letzte Steigung ist anspruchsvoll, aber die Aussicht ist die Belohnung.",
+            "hu": "Az utolsó emelkedő kihívást jelent, de a kilátás a jutalom.",
+            "ro": "Ultima urcare este provocatoare, dar priveliștea este recompensa.",
+            "en": "The final climb is challenging, but the view is the reward."
+          }
+        },
+        {
+          "name": {
+            "de": "Írott-kő (Geschriebenstein)",
+            "hu": "Írott-kő",
+            "ro": "Piatra Scrisă",
+            "en": "Geschriebenstein"
+          },
+          "coords": [
+            16.4358,
+            47.3544
+          ],
+          "category": "mountain",
+          "arrive_at": "14:27",
+          "stay_min": 90,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 10,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Sie stehen auf dem höchsten Punkt des Burgenlandes und Westungarns!",
+            "hu": "Burgenland és Nyugat-Magyarország legmagasabb pontján áll!",
+            "ro": "Vă aflați pe cel mai înalt punct din Burgenland și vestul Ungariei!",
+            "en": "You are standing on the highest point of Burgenland and Western Hungary!"
+          }
+        },
+        {
+          "name": {
+            "de": "Apothekenmuseum Goldener Einhorn",
+            "hu": "Arany Egyszarvú Patikamúzeum",
+            "ro": "Muzeul Farmaciei Unicornul de Aur",
+            "en": "Golden Unicorn Pharmacy Museum"
+          },
+          "coords": [
+            16.5402,
+            47.3885
+          ],
+          "category": "museums",
+          "arrive_at": "16:29",
+          "stay_min": 45,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein faszinierender Einblick in die Pharmaziegeschichte.",
+            "hu": "Lenyűgöző betekintés a gyógyszerészet történetébe.",
+            "ro": "O incursiune fascinantă în istoria farmaciei.",
+            "en": "A fascinating insight into the history of pharmacy."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich am Morgen in Kőszeg auf Ihr Rad und starten Sie am historischen Jurisics-Platz. Nachdem Sie die nahegelegene Burg und die Kirche besichtigt haben, führt Sie Ihre Route aus der Stadt hinaus in die erfrischende Natur. Am Mittag erreichen Sie den Siebenbrunnen, perfekt für eine kurze Rast, bevor Sie den Anstieg zum Óház-Turm in Angriff nehmen. Der Nachmittag wird zum Abenteuer: Sie radeln weiter zur Grenze, um den Gipfel des Írott-kő zu erobern, den höchsten Punkt der Region. Die Rückfahrt in die Stadt belohnt Sie mit einer sanften Abfahrt und einem letzten kulturellen Halt im charmanten Apothekenmuseum, bevor Ihr Radtag zu Ende geht.",
+        "hu": "Pattanjon kerékpárra reggel Kőszegen, és induljon a történelmi Jurisics térről. A közeli vár és templom megtekintése után az útvonal kivezet a városból a frissítő természetbe. Délben eléri a Hétforrást, ami tökéletes egy rövid pihenőre, mielőtt nekivág az Óház-kilátóhoz vezető emelkedőnek. A délután kalanddá válik: tovább teker a határ felé, hogy meghódítsa az Írott-kő csúcsát, a régió legmagasabb pontját. A visszaút a városba egy kellemes lejtővel és egy utolsó kulturális megállóval ajándékozza meg a bájos Patikamúzeumban, mielőtt a kerékpáros napja véget ér.",
+        "ro": "Urcați-vă pe bicicletă dimineața în Kőszeg și porniți din istorica Piață Jurisics. După ce vizitați castelul și biserica din apropiere, traseul vă scoate din oraș în natura înviorătoare. La prânz ajungeți la Șapte Izvoare, perfect pentru o scurtă pauză înainte de a aborda urcarea spre Turnul Óház. După-amiaza devine o aventură: pedalați mai departe spre graniță pentru a cuceri vârful Írott-kő, cel mai înalt punct din regiune. Drumul de întoarcere în oraș vă recompensează cu o coborâre lină și o ultimă oprire culturală la fermecătorul Muzeu al Farmaciei, înainte ca ziua pe bicicletă să se încheie.",
+        "en": "Hop on your bike in Kőszeg in the morning, starting from the historic Jurisics Square. After visiting the nearby castle and church, your route takes you out of the city into the refreshing nature. At noon, you'll reach the Seven Springs, perfect for a short break before tackling the climb to the Óház Tower. The afternoon becomes an adventure: you'll cycle further towards the border to conquer the summit of Írott-kő, the highest point in the region. The return trip to the city rewards you with a gentle descent and a final cultural stop at the charming Pharmacy Museum before your cycling day comes to an end."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Buschenschank am Geschriebenstein",
+            "tip": "Stärken Sie sich mit einer Brettljause nach dem Aufstieg."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi buschenschank az Írott-kőnél",
+            "tip": "Erősítse meg magát egy hidegtállal a mászás után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Heuriger la Geschriebenstein",
+            "tip": "Revigorați-vă cu un platou rece după urcare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Buschenschank at Geschriebenstein",
+            "tip": "Recharge with a traditional cold platter after the climb."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Waldwege um den Geschriebenstein",
+            "tip": "Genießen Sie die Stille des Waldes auf Ihrer Radtour.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Erdei utak az Írott-kő körül",
+            "tip": "Élvezze az erdő csendjét a kerékpártúra során.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poteci forestiere în jurul Geschriebenstein",
+            "tip": "Bucurați-vă de liniștea pădurii în timpul turului cu bicicleta.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Forest paths around Geschriebenstein",
+            "tip": "Enjoy the silence of the forest during your bike tour.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wein aus der Region",
+            "tip": "Kaufen Sie eine Flasche Blaufränkisch als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi bor",
+            "tip": "Vásároljon egy üveg Kékfrankost szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin local",
+            "tip": "Cumpărați o sticlă de Blaufränkisch ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Wine",
+            "tip": "Buy a bottle of Blaufränkisch as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Zustand Ihres Fahrrads, insbesondere die Bremsen, vor der Tour zum Geschriebenstein.",
+          "Ein Helm wird dringend empfohlen.",
+          "Nehmen Sie ausreichend Wasser und Snacks für die längere Tour mit."
+        ],
+        "hu": [
+          "Ellenőrizze a kerékpár állapotát, különösen a fékeket, az Írott-kőre vezető túra előtt.",
+          "Sisak használata erősen ajánlott.",
+          "Vigyen elegendő vizet és harapnivalót a hosszabb túrára."
+        ],
+        "ro": [
+          "Verificați starea bicicletei, în special frânele, înainte de turul la Geschriebenstein.",
+          "Casca este foarte recomandată.",
+          "Luați suficientă apă și gustări pentru turul mai lung."
+        ],
+        "en": [
+          "Check the condition of your bike, especially the brakes, before the tour to Geschriebenstein.",
+          "A helmet is highly recommended.",
+          "Bring enough water and snacks for the longer tour."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 25.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz in der Nähe des Zentrums",
+            "hu": "Parkoló a központ közelében",
+            "ro": "Parcare lângă centru",
+            "en": "Parking near the center"
+          },
+          "coords": [
+            16.543,
+            47.387
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie die Altstadt zu Fuß.",
+            "hu": "Parkoljon le itt, és fedezze fel az óvárost gyalog.",
+            "ro": "Parcați aici și explorați orașul vechi pe jos.",
+            "en": "Park here and explore the old town on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Jurisics-Platz & Heldenpforte",
+            "hu": "Jurisics tér & Hősök kapuja",
+            "ro": "Piața Jurisics & Poarta Eroilor",
+            "en": "Jurisics Sq. & Heroes' Gate"
+          },
+          "coords": [
+            16.5406,
+            47.3892
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erleben Sie das Herz der Stadt, bevor die Menschenmassen kommen.",
+            "hu": "Tapasztalja meg a város szívét, mielőtt jön a tömeg.",
+            "ro": "Experimentați inima orașului înainte de a veni mulțimile.",
+            "en": "Experience the heart of the city before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Jurisics",
+            "hu": "Jurisics-vár",
+            "ro": "Castelul Jurisics",
+            "en": "Jurisics Castle"
+          },
+          "coords": [
+            16.54,
+            47.3895
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit für das Museum und den Turm ein.",
+            "hu": "Szánjon elegendő időt a múzeumra és a toronyra.",
+            "ro": "Planificați suficient timp pentru muzeu și turn.",
+            "en": "Allow plenty of time for the museum and the tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Siebenbrunnen (Hétforrás)",
+            "hu": "Hétforrás",
+            "ro": "Șapte Izvoare",
+            "en": "Seven Springs"
+          },
+          "coords": [
+            16.512,
+            47.388
+          ],
+          "category": "natural features",
+          "arrive_at": "11:38",
+          "stay_min": 30,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein kurzer, erfrischender Halt, bevor es weiter den Berg hinaufgeht.",
+            "hu": "Rövid, frissítő megálló, mielőtt továbbmegy a hegyre.",
+            "ro": "O oprire scurtă și răcoritoare înainte de a continua urcarea pe munte.",
+            "en": "A short, refreshing stop before heading further up the mountain."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Haus Aussichtsturm (Óház)",
+            "hu": "Óház-kilátó",
+            "ro": "Turnul de observație Óház",
+            "en": "Óház Lookout Tower"
+          },
+          "coords": [
+            16.533,
+            47.395
+          ],
+          "category": "natural features",
+          "arrive_at": "12:12",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Parkplatz aus ist es nur ein kurzer Spaziergang zum Turm.",
+            "hu": "A parkolóból csak egy rövid séta a torony.",
+            "ro": "De la parcare este doar o scurtă plimbare până la turn.",
+            "en": "It's just a short walk from the parking lot to the tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Írott-kő (Geschriebenstein)",
+            "hu": "Írott-kő",
+            "ro": "Piatra Scrisă",
+            "en": "Geschriebenstein"
+          },
+          "coords": [
+            16.4358,
+            47.3544
+          ],
+          "category": "mountain",
+          "arrive_at": "13:42",
+          "stay_min": 210,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 21,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Genießen Sie die Fahrt durch die Hügel und die Aussicht von der österreichisch-ungarischen Grenze.",
+            "hu": "Élvezze az autózást a dombokon át és a kilátást az osztrák-magyar határról.",
+            "ro": "Bucurați-vă de drumul prin dealuri și de priveliștea de la granița austro-ungară.",
+            "en": "Enjoy the drive through the hills and the view from the Austrian-Hungarian border."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt mit dem Parken am Rande der Altstadt von Kőszeg, um den historischen Kern zu Fuß zu erkunden. Der Morgen ist der reichen Geschichte gewidmet, vom belebten Jurisics-Platz bis zur imposanten Burg. Am Mittag steigen Sie wieder ins Auto und fahren in die Hügel. Ein erster Halt am Siebenbrunnen bietet eine Erfrischung, gefolgt von einem kurzen Spaziergang zum Óház-Turm für eine spektakuläre Aussicht. Der Höhepunkt des Nachmittags ist die malerische Fahrt zum Írott-kő, dem höchsten Gipfel der Region, wo Sie an der Grenze zwischen Österreich und Ungarn stehen und die weite Landschaft genießen. Nach einem langen Aufenthalt in der Natur kehren Sie am späten Nachmittag nach Kőszeg zurück.",
+        "hu": "Az autós nap Kőszeg óvárosának szélén parkolással kezdődik, hogy gyalog fedezze fel a történelmi központot. A délelőtt a gazdag történelemé, a nyüzsgő Jurisics tértől az impozáns várig. Délben visszaül az autóba, hogy a dombok felé vegye az irányt. Az első megálló a Hétforrásnál frissülést kínál, majd egy rövid séta következik az Óház-kilátóhoz a látványos panorámáért. A délután csúcspontja a festői autózás az Írott-kőhöz, a régió legmagasabb csúcsához, ahol Ausztria és Magyarország határán állva élvezheti a végtelen tájat. A természetben töltött hosszú idő után késő délután tér vissza Kőszegre.",
+        "ro": "Ziua cu mașina începe parcând la marginea orașului vechi Kőszeg pentru a explora nucleul istoric pe jos. Dimineața este dedicată istoriei bogate, de la animata Piață Jurisics la impunătorul castel. La prânz, vă urcați din nou în mașină și vă îndreptați spre dealuri. O primă oprire la Șapte Izvoare oferă o înviorare, urmată de o scurtă plimbare până la Turnul Óház pentru o priveliște spectaculoasă. Punctul culminant al după-amiezii este drumul pitoresc către Írott-kő, cel mai înalt vârf din regiune, unde stați la granița dintre Austria și Ungaria, bucurându-vă de peisajul vast. După o ședere îndelungată în natură, vă întoarceți în Kőszeg după-amiaza târziu.",
+        "en": "Your car day begins by parking on the edge of Kőszeg's old town to explore the historic core on foot. The morning is dedicated to rich history, from the bustling Jurisics Square to the imposing castle. At noon, you get back in the car and head for the hills. A first stop at the Seven Springs offers refreshment, followed by a short walk to the Óház Tower for a spectacular view. The highlight of the afternoon is the scenic drive to Írott-kő, the region's highest peak, where you stand on the border of Austria and Hungary, enjoying the vast landscape. After a long stay in nature, you return to Kőszeg in the late afternoon."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gasthof am Geschriebenstein",
+            "tip": "Traditionelle österreichische und ungarische Küche mit Panoramablick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vendéglő az Írott-kőnél",
+            "tip": "Hagyományos osztrák és magyar konyha panorámás kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hanul de la Geschriebenstein",
+            "tip": "Bucătărie tradițională austriacă și maghiară cu vedere panoramică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Inn at Geschriebenstein",
+            "tip": "Traditional Austrian and Hungarian cuisine with a panoramic view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtsturm auf dem Írott-kő",
+            "tip": "An einem klaren Tag können Sie bis zum Plattensee sehen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátó az Írott-kőn",
+            "tip": "Tiszta napon akár a Balatonig is ellátni.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Turnul de observație de pe Írott-kő",
+            "tip": "Într-o zi senină, puteți vedea până la Lacul Balaton.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lookout tower on Írott-kő",
+            "tip": "On a clear day, you can see as far as Lake Balaton.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden in der Umgebung",
+            "tip": "Halten Sie Ausschau nach Schildern für Wein, Honig oder Kürbiskernöl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői boltok a környéken",
+            "tip": "Keresse a bort, mézet vagy tökmagolajat hirdető táblákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de fermă din zonă",
+            "tip": "Fiți atenți la indicatoarele pentru vin, miere sau ulei de dovleac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops in the area",
+            "tip": "Look out for signs for wine, honey, or pumpkin seed oil."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Öffnungszeiten des Turms auf dem Írott-kő, da diese saisonal variieren können.",
+          "Einige Straßen in den Hügeln können eng sein, fahren Sie vorsichtig.",
+          "Parkgebühren können im Stadtzentrum anfallen."
+        ],
+        "hu": [
+          "Ellenőrizze az Írott-kői kilátó nyitvatartási idejét, mivel az szezonálisan változhat.",
+          "Néhány út a hegyekben szűk lehet, vezessen óvatosan.",
+          "A városközpontban parkolási díjat számíthatnak fel."
+        ],
+        "ro": [
+          "Verificați programul de funcționare al turnului de pe Írott-kő, deoarece acesta poate varia în funcție de sezon.",
+          "Unele drumuri de pe dealuri pot fi înguste, conduceți cu prudență.",
+          "Se pot aplica taxe de parcare în centrul orașului."
+        ],
+        "en": [
+          "Check the opening hours of the tower on Írott-kő as they can vary seasonally.",
+          "Some roads in the hills can be narrow, drive carefully.",
+          "Parking fees may apply in the city center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Jurisics-Platz",
+            "hu": "Jurisics tér",
+            "ro": "Piața Jurisics",
+            "en": "Jurisics Square"
+          },
+          "coords": [
+            16.5406,
+            47.3892
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Zentrum ist Ihr erster Cluster, alles ist zu Fuß erreichbar.",
+            "hu": "A központ az első klaszter, minden gyalogosan elérhető.",
+            "ro": "Centrul este primul dvs. cluster, totul este accesibil pe jos.",
+            "en": "The center is your first cluster, everything is within walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Jurisics",
+            "hu": "Jurisics-vár",
+            "ro": "Castelul Jurisics",
+            "en": "Jurisics Castle"
+          },
+          "coords": [
+            16.54,
+            47.3895
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:42",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Hauptattraktion der Stadt, die man nicht verpassen sollte.",
+            "hu": "A város kihagyhatatlan fő látványossága.",
+            "ro": "Atracția principală a orașului, de neratat.",
+            "en": "The city's main attraction, not to be missed."
+          }
+        },
+        {
+          "name": {
+            "de": "Apothekenmuseum Goldener Einhorn",
+            "hu": "Arany Egyszarvú Patikamúzeum",
+            "ro": "Muzeul Farmaciei Unicornul de Aur",
+            "en": "Golden Unicorn Pharmacy Museum"
+          },
+          "coords": [
+            16.5402,
+            47.3885
+          ],
+          "category": "museums",
+          "arrive_at": "11:14",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kleines, aber feines Museum direkt am Hauptplatz.",
+            "hu": "Kicsi, de remek múzeum közvetlenül a főtéren.",
+            "ro": "Un muzeu mic, dar rafinat, chiar în piața principală.",
+            "en": "A small but fine museum right on the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus nach Kálvária-hegy",
+            "hu": "Busz a Kálvária-hegyhez",
+            "ro": "Autobuz spre Dealul Calvaria",
+            "en": "Bus to Calvary Hill"
+          },
+          "coords": [
+            16.525,
+            47.39
+          ],
+          "category": "transport",
+          "arrive_at": "12:20",
+          "stay_min": 0,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 4,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus, um zum nächsten Cluster zu gelangen.",
+            "hu": "Vegyen egy helyi buszt a következő klaszterhez való eljutáshoz.",
+            "ro": "Luați un autobuz local pentru a ajunge la următorul cluster.",
+            "en": "Take a local bus to get to the next cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Haus Aussichtsturm (Óház)",
+            "hu": "Óház-kilátó",
+            "ro": "Turnul de observație Óház",
+            "en": "Óház Lookout Tower"
+          },
+          "coords": [
+            16.533,
+            47.395
+          ],
+          "category": "natural features",
+          "arrive_at": "12:30",
+          "stay_min": 240,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht und machen Sie einen Spaziergang in der Umgebung, bevor Sie den Bus zurück nehmen.",
+            "hu": "Élvezze a kilátást és sétáljon a környéken, mielőtt visszamegy a buszhoz.",
+            "ro": "Bucurați-vă de priveliște și faceți o plimbare în zonă înainte de a lua autobuzul înapoi.",
+            "en": "Enjoy the view and take a walk in the area before taking the bus back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Kőszeg beginnt im Herzen der Altstadt, einem fußgängerfreundlichen Cluster, in dem Sie den Jurisics-Platz, die Burg und Museen erkunden. Sie verbringen den gesamten Vormittag damit, in die Geschichte einzutauchen. Am Mittag steigen Sie in einen lokalen Bus, der Sie aus dem Zentrum heraus und in die sanften Hügel bringt, die die Stadt umgeben. Das Ziel ist Ihr zweiter Cluster: der Óház-Aussichtsturm. Hier verbringen Sie einen langen, entspannten Nachmittag. Sie genießen die Panoramasicht, machen vielleicht ein Picknick und spazieren durch die nahegelegenen Wälder, bevor Sie am späten Nachmittag den Bus zurück ins Stadtzentrum nehmen.",
+        "hu": "A nap Kőszegen az óváros szívében kezdődik, egy gyalogosbarát klaszterben, ahol felfedezheti a Jurisics teret, a várat és a múzeumokat. Az egész délelőttöt a történelemben való elmélyüléssel tölti. Délben felszáll egy helyi buszra, amely kiviszi a központból a várost körülvevő lankás dombok közé. A cél a második klaszter: az Óház-kilátó. Itt egy hosszú, pihentető délutánt tölt. Élvezi a panorámát, esetleg piknikezik egyet, és sétál a közeli erdőkben, mielőtt késő délután visszabuszozik a városközpontba.",
+        "ro": "Ziua dumneavoastră în Kőszeg începe în inima orașului vechi, un cluster prietenos cu pietonii unde explorați Piața Jurisics, castelul și muzeele. Petreceți întreaga dimineață cufundându-vă în istorie. La prânz, urcați într-un autobuz local care vă scoate din centru și vă duce pe dealurile line care înconjoară orașul. Destinația este al doilea cluster: Turnul de Observație Óház. Aici petreceți o după-amiază lungă și relaxantă. Vă bucurați de priveliștea panoramică, poate faceți un picnic și vă plimbați prin pădurile din apropiere, înainte de a lua autobuzul înapoi în centrul orașului după-amiaza târziu.",
+        "en": "Your day in Kőszeg starts in the heart of the old town, a pedestrian-friendly cluster where you'll explore Jurisics Square, the castle, and museums. You'll spend the entire morning immersing yourself in history. At noon, you'll board a local bus that takes you out of the center and into the gentle hills surrounding the town. The destination is your second cluster: the Óház Lookout Tower. Here you will spend a long, relaxing afternoon. You'll enjoy the panoramic view, perhaps have a picnic, and stroll through the nearby woods before taking the bus back to the city center in the late afternoon."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Konditorei",
+            "tip": "Probieren Sie ein Stück Esterházy-Torte, eine ungarische Spezialität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi cukrászda",
+            "tip": "Kóstoljon meg egy szelet Eszterházy-tortát, ami magyar specialitás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cofetărie locală",
+            "tip": "Încercați o felie de tort Esterházy, o specialitate maghiară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local patisserie",
+            "tip": "Try a slice of Esterházy cake, a Hungarian specialty."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtpark",
+            "tip": "Ein ruhiger Ort, um auf einer Bank zu sitzen und ein Buch zu lesen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városliget",
+            "tip": "Csendes hely, ahol leülhet egy padra és olvashat egy könyvet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul orașului",
+            "tip": "Un loc liniștit pentru a sta pe o bancă și a citi o carte.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Park",
+            "tip": "A quiet place to sit on a bench and read a book.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Antiquitätenläden",
+            "tip": "Stöbern Sie nach einzigartigen Souvenirs in den Gassen der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Antikváriumok",
+            "tip": "Böngésszen egyedi szuvenírek után az óváros sikátoraiban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de antichități",
+            "tip": "Căutați suveniruri unice pe aleile orașului vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Antique shops",
+            "tip": "Browse for unique souvenirs in the old town alleys."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Informieren Sie sich im Voraus über den Busfahrplan, da die Busse möglicherweise nicht häufig fahren.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha több utat tervez.",
+          "Tájékozódjon előre a buszmenetrendről, mivel a járatok ritkán közlekedhetnek.",
+          "A legtöbb látnivaló a központban könnyen elérhető gyalog."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă plănuiți mai multe călătorii.",
+          "Verificați programul autobuzelor în avans, deoarece este posibil ca acestea să nu circule frecvent.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos."
+        ],
+        "en": [
+          "Buy a day ticket for the bus if you plan to make multiple trips.",
+          "Check the bus schedule in advance, as services may not be frequent.",
+          "Most attractions in the center are easily reachable on foot."
+        ]
+      }
+    }
+  }
+}

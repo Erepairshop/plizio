@@ -1,0 +1,1460 @@
+{
+  "city_id": "norway-stjordal-cities-v2",
+  "anchor": {
+    "name": "Stjørdal",
+    "coords": [
+      10.92,
+      63.46
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kimen Kulturhaus",
+            "hu": "Kimen Kultúrház",
+            "ro": "Centrul Cultural Kimen",
+            "en": "Kimen Culture House"
+          },
+          "coords": [
+            10.9165,
+            63.4695
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Spielplan für Abendveranstaltungen oder lokale Kunstausstellungen.",
+            "hu": "Nézd meg az esti programokat vagy a helyi művészeti kiállításokat.",
+            "ro": "Verificați programul pentru evenimente de seară sau expoziții de artă locală.",
+            "en": "Check the schedule for evening events or local art exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Værnes Kirche",
+            "hu": "Værnes-templom",
+            "ro": "Biserica Værnes",
+            "en": "Værnes Church"
+          },
+          "coords": [
+            10.9168,
+            63.4561
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:28",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die mittelalterliche Architektur, eine der ältesten Steinkirchen Norwegens.",
+            "hu": "Csodáld meg a középkori építészetet, Norvégia egyik legrégebbi kőtemplomát.",
+            "ro": "Admirați arhitectura medievală; este una dintre cele mai vechi biserici de piatră din Norvegia.",
+            "en": "Admire the medieval architecture, one of the oldest stone churches in Norway."
+          }
+        },
+        {
+          "name": {
+            "de": "Stjørdal Museum Værnes",
+            "hu": "Stjørdal Múzeum Værnes",
+            "ro": "Muzeul Stjørdal Værnes",
+            "en": "Stjørdal Museum Værnes"
+          },
+          "coords": [
+            10.917,
+            63.4555
+          ],
+          "category": "museums",
+          "arrive_at": "11:10",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das Museum befindet sich direkt neben der Kirche und bietet Einblicke in die lokale Geschichte.",
+            "hu": "A múzeum közvetlenül a templom mellett található, és bepillantást nyújt a helyi történelembe.",
+            "ro": "Muzeul este chiar lângă biserică și oferă o perspectivă asupra istoriei locale.",
+            "en": "The museum is right next to the church, offering insights into local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebéd a városközpontban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the City Center"
+          },
+          "coords": [
+            10.915,
+            63.468
+          ],
+          "category": "gastro",
+          "arrive_at": "13:16",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Probieren Sie ein lokales Café für ein traditionelles norwegisches Mittagessen.",
+            "hu": "Próbálj ki egy helyi kávézót egy hagyományos norvég ebédre.",
+            "ro": "Încercați o cafenea locală pentru un prânz tradițional norvegian.",
+            "en": "Try a local cafe for a traditional Norwegian lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Sandskogan",
+            "hu": "Sandskogan",
+            "ro": "Sandskogan",
+            "en": "Sandskogan"
+          },
+          "coords": [
+            10.8921,
+            63.472
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:16",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang entlang des Fjords, ideal für eine entspannte Pause am Nachmittag.",
+            "hu": "Egy kellemes séta a fjord mentén, tökéletes egy pihentető délutáni szünethez.",
+            "ro": "O plimbare plăcută de-a lungul fiordului, perfectă pentru o pauză relaxantă de după-amiază.",
+            "en": "A beautiful walk along the fjord, perfect for a relaxing afternoon break."
+          }
+        },
+        {
+          "name": {
+            "de": "Einkaufen im Zentrum",
+            "hu": "Vásárlás a központban",
+            "ro": "Cumpărături în centru",
+            "en": "Shopping in the Center"
+          },
+          "coords": [
+            10.9155,
+            63.4685
+          ],
+          "category": "shopping",
+          "arrive_at": "16:31",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Suchen Sie nach lokalen Handwerksprodukten oder norwegischen Souvenirs.",
+            "hu": "Keress helyi kézműves termékeket vagy norvég szuveníreket.",
+            "ro": "Căutați produse artizanale locale sau suveniruri norvegiene.",
+            "en": "Look for local handicrafts or Norwegian souvenirs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Stjørdal beginnt mit Kultur im modernen Kimen Kulturhaus. Am Vormittag erkunden Sie die historische Værnes Kirche und das benachbarte Museum, die tief in die Vergangenheit der Region blicken lassen. Nach einem gemütlichen Mittagessen im Zentrum führt Sie Ihr Weg am Nachmittag nach Sandskogan, wo Sie die frische Fjordluft bei einem Spaziergang am Strand genießen. Der Tag klingt mit einem entspannten Einkaufsbummel im Herzen von Stjørdal aus, wo Sie nach einzigartigen Erinnerungen suchen können.",
+        "hu": "A stjørdali nap a modern Kimen Kultúrházban kezdődik. Délelőtt felfedezheti a történelmi Værnes-templomot és a szomszédos múzeumot, amelyek mély betekintést nyújtanak a régió múltjába. Egy kellemes belvárosi ebéd után délután a Sandskogan felé veszi az irányt, ahol a fjord friss levegőjét élvezheti egy tengerparti séta során. A nap egy laza vásárlással zárul Stjørdal szívében, ahol egyedi emléktárgyakat kereshet.",
+        "ro": "Ziua dvs. în Stjørdal începe cu o doză de cultură la modernul Centru Cultural Kimen. Dimineața, explorați istorica Biserică Værnes și muzeul adiacent, care oferă o privire profundă în trecutul regiunii. După un prânz liniștit în centru, după-amiaza vă duce la Sandskogan pentru o plimbare pe plajă și aer curat de fiord. Ziua se încheie cu o sesiune de cumpărături relaxată în inima orașului Stjørdal, în căutarea unor suveniruri unice.",
+        "en": "Your day in Stjørdal begins with culture at the modern Kimen Culture House. In the morning, you'll explore the historic Værnes Church and the adjacent museum, offering a deep dive into the region's past. After a leisurely lunch in the center, your afternoon takes you to Sandskogan for a walk along the beach and fresh fjord air. The day concludes with some relaxed shopping in the heart of Stjørdal, browsing for unique souvenirs."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lachs (Laks)",
+            "tip": "Probieren Sie geräucherten oder gegrillten norwegischen Lachs."
+          },
+          {
+            "name": "Brunost",
+            "tip": "Ein süßer, karamellartiger Ziegenkäse, oft auf Waffeln serviert."
+          },
+          {
+            "name": "Skoleboller",
+            "tip": "Ein süßes Gebäck mit Pudding und Kokosnuss, perfekt für eine Kaffeepause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lazac (Laks)",
+            "tip": "Kóstold meg a füstölt vagy grillezett norvég lazacot."
+          },
+          {
+            "name": "Brunost",
+            "tip": "Édes, karamellás ízű barna sajt, gyakran gofrin tálalva."
+          },
+          {
+            "name": "Skoleboller",
+            "tip": "Édes péksütemény pudinggal és kókusszal, tökéletes egy kávészünethez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Somon (Laks)",
+            "tip": "Încercați somonul norvegian afumat sau la grătar."
+          },
+          {
+            "name": "Brunost",
+            "tip": "O brânză maro dulce, asemănătoare caramelului, adesea servită pe vafe."
+          },
+          {
+            "name": "Skoleboller",
+            "tip": "Un produs de patiserie dulce cu cremă de vanilie și cocos, perfect pentru o pauză de cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Salmon (Laks)",
+            "tip": "Try smoked or grilled Norwegian salmon."
+          },
+          {
+            "name": "Brunost",
+            "tip": "A sweet, caramel-like brown cheese, often served on waffles."
+          },
+          {
+            "name": "Skoleboller",
+            "tip": "A sweet bun with custard and coconut, perfect for a coffee break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sandskogan Strand",
+            "tip": "Ein ruhiger Spaziergang entlang des Wassers mit Blick auf den Fjord.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Stjørdalselva",
+            "tip": "Finden Sie eine ruhige Stelle am Flussufer zum Entspannen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kirchhof von Værnes",
+            "tip": "Der historische Friedhof bietet eine friedliche Atmosphäre.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sandskogan part",
+            "tip": "Egy csendes séta a víz mentén, kilátással a fjordra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stjørdalselva folyópart",
+            "tip": "Keress egy csendes helyet a folyóparton a pihenéshez.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Værnes-i templomkert",
+            "tip": "A történelmi temető békés hangulatot áraszt.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Sandskogan",
+            "tip": "O plimbare liniștită de-a lungul apei, cu vedere la fiord.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul râului Stjørdalselva",
+            "tip": "Găsiți un loc liniștit pe malul râului pentru a vă relaxa.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Cimitirul Bisericii Værnes",
+            "tip": "Cimitirul istoric oferă o atmosferă pașnică.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sandskogan Beach",
+            "tip": "A quiet walk along the water with views of the fjord.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of Stjørdalselva River",
+            "tip": "Find a quiet spot along the riverbank to relax.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Værnes Churchyard",
+            "tip": "The historic churchyard offers a peaceful atmosphere.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Torgkvartalet Einkaufszentrum",
+            "tip": "Das wichtigste Einkaufszentrum der Stadt für eine Vielzahl von Geschäften."
+          },
+          {
+            "name": "Lokale Kunsthandwerksläden",
+            "tip": "Suchen Sie nach kleinen, unabhängigen Geschäften mit norwegischen Designs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Torgkvartalet bevásárlóközpont",
+            "tip": "A város fő bevásárlóközpontja, ahol sokféle üzlet található."
+          },
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keress kis, független boltokat norvég dizájnnal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Torgkvartalet",
+            "tip": "Principalul centru comercial al orașului pentru o varietate de magazine."
+          },
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Căutați magazine mici, independente, cu design norvegian."
+          }
+        ],
+        "en": [
+          {
+            "name": "Torgkvartalet Shopping Centre",
+            "tip": "The main shopping center in town for a variety of stores."
+          },
+          {
+            "name": "Local Craft Shops",
+            "tip": "Look for small, independent shops featuring Norwegian designs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Prüfen Sie die Öffnungszeiten des Museums und der Kirche im Voraus.",
+          "Eine wiederverwendbare Wasserflasche ist nützlich, da norwegisches Leitungswasser von ausgezeichneter Qualität ist.",
+          "Das Wetter kann sich schnell ändern, packen Sie also eine leichte Regenjacke ein."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, mert sokat fogsz gyalogolni.",
+          "Előre ellenőrizd a múzeum és a templom nyitvatartási idejét.",
+          "Egy újratölthető vizes palack hasznos, mivel a norvég csapvíz kiváló minőségű.",
+          "Az időjárás gyorsan változhat, ezért csomagolj egy könnyű esőkabátot."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge mult pe jos.",
+          "Verificați în avans orele de funcționare ale muzeului și bisericii.",
+          "O sticlă de apă reutilizabilă este utilă, deoarece apa de la robinet din Norvegia este de o calitate excelentă.",
+          "Vremea se poate schimba rapid, așa că împachetați o geacă de ploaie ușoară."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Check the opening hours for the museum and church in advance.",
+          "A reusable water bottle is useful as Norwegian tap water is of excellent quality.",
+          "The weather can change quickly, so pack a light rain jacket."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 21.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kimen Kulturhaus",
+            "hu": "Kimen Kultúrház",
+            "ro": "Centrul Cultural Kimen",
+            "en": "Kimen Culture House"
+          },
+          "coords": [
+            10.9165,
+            63.4695
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Holen Sie sich Ihr Fahrrad und starten Sie Ihre kulturelle Erkundung von hier aus.",
+            "hu": "Vedd át a biciklidet és innen indulj a kulturális felfedezőútra.",
+            "ro": "Luați-vă bicicleta și începeți explorarea culturală de aici.",
+            "en": "Pick up your bike and start your cultural exploration from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Værnes Kirche & Museum",
+            "hu": "Værnes-templom és Múzeum",
+            "ro": "Biserica și Muzeul Værnes",
+            "en": "Værnes Church & Museum"
+          },
+          "coords": [
+            10.917,
+            63.4555
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und erkunden Sie beide historischen Stätten zusammen.",
+            "hu": "Parkold le a biciklidet és fedezd fel mindkét történelmi helyszínt együtt.",
+            "ro": "Parcați-vă bicicleta și explorați ambele situri istorice împreună.",
+            "en": "Park your bike and explore both historic sites together."
+          }
+        },
+        {
+          "name": {
+            "de": "Hell Bahnhof",
+            "hu": "Hell vasútállomás",
+            "ro": "Gara Hell",
+            "en": "Hell Station"
+          },
+          "coords": [
+            10.9048,
+            63.445
+          ],
+          "category": "historical",
+          "arrive_at": "11:50",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Das berühmte Schild „Hell – Gods expedition“ ist ein Muss für ein Foto.",
+            "hu": "A híres „Hell – Gods expedition” tábla kötelező fotótéma.",
+            "ro": "Faimosul indicator „Hell – Gods expedition” este un must-have pentru o fotografie.",
+            "en": "The famous 'Hell – Gods expedition' sign is a must-have photo opportunity."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Hell",
+            "hu": "Ebéd Hellben",
+            "ro": "Prânz în Hell",
+            "en": "Lunch in Hell"
+          },
+          "coords": [
+            10.9055,
+            63.4455
+          ],
+          "category": "gastro",
+          "arrive_at": "12:18",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie eine Mahlzeit in der Nähe des Bahnhofs, bevor Sie zurück nach Stjørdal fahren.",
+            "hu": "Fogyassz el egy ebédet az állomás közelében, mielőtt visszatekersz Stjørdalba.",
+            "ro": "Bucurați-vă de o masă lângă gară înainte de a vă întoarce cu bicicleta la Stjørdal.",
+            "en": "Enjoy a meal near the station before biking back towards Stjørdal."
+          }
+        },
+        {
+          "name": {
+            "de": "Sandskogan",
+            "hu": "Sandskogan",
+            "ro": "Sandskogan",
+            "en": "Sandskogan"
+          },
+          "coords": [
+            10.8921,
+            63.472
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:40",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 42,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Eine erfrischende Fahrt entlang der Küste führt Sie zu diesem malerischen Park.",
+            "hu": "Egy frissítő tekerés a part mentén vezet ehhez a festői parkhoz.",
+            "ro": "O plimbare revigorantă cu bicicleta de-a lungul coastei vă duce la acest parc pitoresc.",
+            "en": "A refreshing ride along the coast leads you to this scenic park."
+          }
+        },
+        {
+          "name": {
+            "de": "Felsritzungen von Leirfall",
+            "hu": "Leirfalli sziklarajzok",
+            "ro": "Gravurile rupestre de la Leirfall",
+            "en": "Rock Carvings at Leirfall"
+          },
+          "coords": [
+            11.055,
+            63.475
+          ],
+          "category": "historical",
+          "arrive_at": "16:36",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 41,
+          "hop_from_prev_km": 6.8,
+          "tip_5lang": {
+            "de": "Diese alte Felskunst ist die Radtour wert, aber seien Sie auf einige Hügel vorbereitet.",
+            "hu": "Ez az ősi sziklaművészet megéri a biciklitúrát, de készülj fel néhány emelkedőre.",
+            "ro": "Această artă rupestră antică merită plimbarea cu bicicleta, dar fiți pregătiți pentru câteva dealuri.",
+            "en": "This ancient rock art is worth the bike ride, but be prepared for some hills."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich in Stjørdal aufs Rad und beginnen Sie den Tag mit Kultur im Kimen Kulturhaus. Eine kurze Fahrt bringt Sie zur historischen Værnes Kirche und dem Museum. Mittags radeln Sie nach Hell, um das berühmte Bahnhofsschild zu fotografieren, gefolgt von einem stärkenden Mittagessen. Am Nachmittag genießen Sie eine malerische Küstenfahrt nach Sandskogan. Die Tour endet mit einer anspruchsvolleren Fahrt zu den faszinierenden Felsritzungen von Leirfall, einem Sprung in die ferne Vergangenheit.",
+        "hu": "Pattanj biciklire Stjørdalban, és kezdd a napot kultúrával a Kimen Kultúrházban. Egy rövid út a történelmi Værnes-templomhoz és múzeumhoz vezet. Délben tekerj el Hellbe, hogy lefotózd a híres állomástáblát, majd ebédelj egy jót. Délután élvezd a festői tengerparti utat Sandskogan felé. A túra egy nagyobb kihívást jelentő szakasszal zárul a lenyűgöző leirfalli sziklarajzokhoz, egy ugrással a távoli múltba.",
+        "ro": "Urcați-vă pe bicicletă în Stjørdal și începeți ziua cu cultură la Centrul Cultural Kimen. O scurtă plimbare vă duce la istorica Biserică Værnes și la muzeu. La prânz, pedalați spre Hell pentru o fotografie cu faimosul indicator al gării, urmată de un prânz copios. După-amiaza, bucurați-vă de o plimbare pitorească de-a lungul coastei spre Sandskogan. Turul se încheie cu o porțiune mai solicitantă către fascinantele gravuri rupestre de la Leirfall, o incursiune în trecutul îndepărtat.",
+        "en": "Hop on your bike in Stjørdal and start the day with culture at the Kimen Culture House. A short ride takes you to the historic Værnes Church and Museum. At noon, cycle to Hell for a photo of the famous station sign, followed by a hearty lunch. In the afternoon, enjoy a scenic coastal ride to Sandskogan. The tour concludes with a more challenging leg to the fascinating rock carvings at Leirfall, a leap into the distant past."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fischsuppe (Fiskesuppe)",
+            "tip": "Eine cremige, herzhafte Suppe, perfekt zur Stärkung nach einer Radtour."
+          },
+          {
+            "name": "Waffeln (Vafler)",
+            "tip": "Norwegische Herzwaffeln mit Marmelade und Sauerrahm oder Brunost."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Probieren Sie ein Bier aus einer der regionalen Mikrobrauereien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halászlé (Fiskesuppe)",
+            "tip": "Krémes, kiadós leves, tökéletes feltöltődés egy kerékpártúra után."
+          },
+          {
+            "name": "Gofri (Vafler)",
+            "tip": "Norvég szív alakú gofri lekvárral és tejföllel vagy barna sajttal."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Kóstolj meg egy sört a regionális mikrosörfőzdék egyikéből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supă de pește (Fiskesuppe)",
+            "tip": "O supă cremoasă și consistentă, perfectă pentru a vă reface energia după o tură cu bicicleta."
+          },
+          {
+            "name": "Vafe (Vafler)",
+            "tip": "Vafe norvegiene în formă de inimă cu gem și smântână sau brânză brună."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "Încercați o bere de la una dintre microberăriile regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish Soup (Fiskesuppe)",
+            "tip": "A creamy, hearty soup, perfect for refueling after a bike ride."
+          },
+          {
+            "name": "Waffles (Vafler)",
+            "tip": "Norwegian heart-shaped waffles with jam and sour cream or brown cheese."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Try a beer from one of the regional microbreweries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Küstenradweg",
+            "tip": "Die Strecke zwischen Hell und Sandskogan bietet ruhige Momente und tolle Ausblicke.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Leirfall-Gebiet",
+            "tip": "Abseits der Hauptstraßen finden Sie hier eine ländliche, friedliche Atmosphäre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussichtspunkt bei Steinvikholm",
+            "tip": "Auch wenn es eine längere Tour ist, die Aussicht ist die Mühe wert.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parti kerékpárút",
+            "tip": "A Hell és Sandskogan közötti szakasz csendes pillanatokat és nagyszerű kilátást kínál.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Leirfall környéke",
+            "tip": "A főutaktól távol, itt vidéki, békés hangulatot találsz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátó Steinvikholmnál",
+            "tip": "Bár hosszabb túra, a kilátás megéri a fáradságot.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de coastă",
+            "tip": "Traseul dintre Hell și Sandskogan oferă momente liniștite și priveliști minunate.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Zona Leirfall",
+            "tip": "Departe de drumurile principale, veți găsi aici o atmosferă rurală și pașnică.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Punct de belvedere lângă Steinvikholm",
+            "tip": "Chiar dacă este un tur mai lung, priveliștea merită efortul.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Coastal Bike Path",
+            "tip": "The route between Hell and Sandskogan offers quiet moments and great views.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Leirfall Area",
+            "tip": "Away from the main roads, you'll find a rural, peaceful atmosphere here.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Viewpoint near Steinvikholm",
+            "tip": "Even if it's a longer tour, the view is worth the effort.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "„Gods expedition“-Souvenirs",
+            "tip": "Am Bahnhof Hell finden Sie einzigartige Andenken."
+          },
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Für Zubehör oder falls Sie eine schnelle Reparatur benötigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "„Gods expedition” szuvenírek",
+            "tip": "A helli állomáson egyedi emléktárgyakat találhatsz."
+          },
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Kiegészítőkért, vagy ha gyors javításra van szükséged."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri „Gods expedition”",
+            "tip": "Veți găsi suveniruri unice la gara din Hell."
+          },
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Pentru accesorii sau în caz că aveți nevoie de o reparație rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "'Gods expedition' Souvenirs",
+            "tip": "You'll find unique mementos at Hell station."
+          },
+          {
+            "name": "Bike Shops",
+            "tip": "For accessories or in case you need a quick repair."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad mit guter Gangschaltung für die Hügel.",
+          "Tragen Sie einen Helm und helle Kleidung, um gut sichtbar zu sein.",
+          "Nehmen Sie Snacks und Wasser mit, besonders für die Fahrt nach Leirfall.",
+          "Überprüfen Sie den Wetterbericht; die Küstenwinde können stark sein."
+        ],
+        "hu": [
+          "Bérelj jó váltóval rendelkező kerékpárt a dombok miatt.",
+          "Viselj sisakot és világos ruhát a jó láthatóság érdekében.",
+          "Vigyél magaddal rágcsálnivalót és vizet, különösen a Leirfallba vezető útra.",
+          "Ellenőrizd az időjárás-előrejelzést; a parti szél erős lehet."
+        ],
+        "ro": [
+          "Închiriați o bicicletă cu viteze bune pentru dealuri.",
+          "Purtați cască și haine deschise la culoare pentru a fi vizibil.",
+          "Luați gustări și apă, mai ales pentru drumul spre Leirfall.",
+          "Verificați prognoza meteo; vânturile de coastă pot fi puternice."
+        ],
+        "en": [
+          "Rent a bike with good gears for the hills.",
+          "Wear a helmet and bright clothing to be visible.",
+          "Bring snacks and water, especially for the ride to Leirfall.",
+          "Check the weather forecast; coastal winds can be strong."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:58",
+      "total_km": 49.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hegra Festung",
+            "hu": "Hegra erőd",
+            "ro": "Fortăreața Hegra",
+            "en": "Hegra Fortress"
+          },
+          "coords": [
+            11.1098,
+            63.4686
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:41",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 41,
+          "hop_from_prev_km": 19.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese beeindruckende Festung aus dem frühen 20. Jahrhundert. Parken Sie hier für den ersten Cluster.",
+            "hu": "Fedezd fel ezt a lenyűgöző 20. század eleji erődöt. Parkolj le itt az első látnivalócsoporthoz.",
+            "ro": "Explorați această fortăreață impresionantă de la începutul secolului XX. Parcați aici pentru primul grup de obiective.",
+            "en": "Explore this impressive early 20th-century fortress. Park here for the first cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Felsritzungen von Leirfall",
+            "hu": "Leirfalli sziklarajzok",
+            "ro": "Gravurile rupestre de la Leirfall",
+            "en": "Rock Carvings at Leirfall"
+          },
+          "coords": [
+            11.055,
+            63.475
+          ],
+          "category": "historical",
+          "arrive_at": "11:09",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Festung zu diesen tausende Jahre alten Kunstwerken.",
+            "hu": "Egy rövid séta az erődtől ezekhez a több ezer éves műalkotásokhoz.",
+            "ro": "O scurtă plimbare de la fortăreață la aceste opere de artă vechi de mii de ani.",
+            "en": "A short walk from the fortress to see this millennia-old art."
+          }
+        },
+        {
+          "name": {
+            "de": "Steinvikholm Schloss",
+            "hu": "Steinvikholm kastély",
+            "ro": "Castelul Steinvikholm",
+            "en": "Steinvikholm Castle"
+          },
+          "coords": [
+            10.8225,
+            63.5412
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:35",
+          "stay_min": 70,
+          "hop_mode": "car",
+          "hop_from_prev_min": 41,
+          "hop_from_prev_km": 19.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum nächsten Cluster. Diese Inselburg hat eine reiche Geschichte. Tolle Fotomöglichkeiten.",
+            "hu": "Vezess át a következő látnivalócsoporthoz. Ez a szigeti vár gazdag történelemmel bír. Remek fotózási lehetőségek.",
+            "ro": "Conduceți spre următorul grup de obiective. Acest castel insular are o istorie bogată. Oportunități foto grozave.",
+            "en": "Drive to the next cluster. This island castle has a rich history. Great photo opportunities."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Stjørdal",
+            "hu": "Ebéd Stjørdalban",
+            "ro": "Prânz în Stjørdal",
+            "en": "Lunch in Stjørdal"
+          },
+          "coords": [
+            10.915,
+            63.468
+          ],
+          "category": "gastro",
+          "arrive_at": "14:09",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 11.2,
+          "tip_5lang": {
+            "de": "Fahren Sie zurück ins Zentrum für eine Mahlzeit. Parken Sie in der Nähe der Værnes Kirche für den nächsten Cluster.",
+            "hu": "Vezess vissza a központba egy ebédre. Parkolj a Værnes-templom közelében a következő látnivalócsoporthoz.",
+            "ro": "Conduceți înapoi în centru pentru o masă. Parcați lângă Biserica Værnes pentru următorul grup.",
+            "en": "Drive back to the center for a meal. Park near Værnes Church for the next cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Værnes Kirche",
+            "hu": "Værnes-templom",
+            "ro": "Biserica Værnes",
+            "en": "Værnes Church"
+          },
+          "coords": [
+            10.9168,
+            63.4561
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:31",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz zu dieser historischen Steinkirche.",
+            "hu": "Egy rövid séta a parkolótól ehhez a történelmi kőtemplomhoz.",
+            "ro": "O scurtă plimbare de la parcare la această biserică istorică de piatră.",
+            "en": "A short walk from your parking spot to this historic stone church."
+          }
+        },
+        {
+          "name": {
+            "de": "Stjørdal Museum Værnes",
+            "hu": "Stjørdal Múzeum Værnes",
+            "ro": "Muzeul Stjørdal Værnes",
+            "en": "Stjørdal Museum Værnes"
+          },
+          "coords": [
+            10.917,
+            63.4555
+          ],
+          "category": "museums",
+          "arrive_at": "16:13",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Direkt nebenan tauchen Sie in die lokale Kultur und Geschichte ein.",
+            "hu": "Rögtön mellette merülj el a helyi kultúrában és történelemben.",
+            "ro": "Chiar alături, pătrundeți în cultura și istoria locală.",
+            "en": "Right next door, immerse yourself in local culture and history."
+          }
+        },
+        {
+          "name": {
+            "de": "Hell Bahnhof",
+            "hu": "Hell vasútállomás",
+            "ro": "Gara Hell",
+            "en": "Hell Station"
+          },
+          "coords": [
+            10.9048,
+            63.445
+          ],
+          "category": "historical",
+          "arrive_at": "17:34",
+          "stay_min": 24,
+          "hop_mode": "car",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt für das berühmte Foto-Op, bevor der Tag zu Ende geht.",
+            "hu": "Egy rövid út a híres fotólehetőségért, mielőtt a nap véget ér.",
+            "ro": "O scurtă călătorie cu mașina pentru faimoasa oportunitate foto înainte de a încheia ziua.",
+            "en": "A short drive for the famous photo op before ending the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt mit einer Fahrt zur imposanten Hegra Festung, wo Sie parken und zu Fuß die nahen Felsritzungen von Leirfall erkunden. Am Vormittag fahren Sie weiter zum malerischen Steinvikholm Schloss auf seiner Insel. Zur Mittagszeit kehren Sie ins Zentrum von Stjørdal zurück, parken für den nächsten Cluster und genießen eine Mahlzeit. Am Nachmittag erkunden Sie zu Fuß die Værnes Kirche und das Museum. Der Tag endet mit einer kurzen Fahrt nach Hell, um das ikonische Bahnhofsschild zu fotografieren.",
+        "hu": "Az autós napot a lenyűgöző Hegra erődhöz való utazással kezdi, ahol leparkolva gyalogosan fedezheti fel a közeli leirfalli sziklarajzokat. Délelőtt továbbutazik a festői Steinvikholm kastélyhoz a szigetén. Délben visszatér Stjørdal központjába, leparkol a következő látnivalócsoporthoz, és elfogyaszt egy ebédet. Délután gyalogosan fedezi fel a Værnes-templomot és a múzeumot. A nap egy rövid autózással zárul Hellbe, hogy lefényképezze az ikonikus állomástáblát.",
+        "ro": "Ziua dvs. cu mașina începe cu o călătorie la impunătoarea Fortăreață Hegra, unde parcați pentru a explora pe jos gravurile rupestre din apropiere de la Leirfall. Dimineața, continuați spre pitorescul Castel Steinvikholm de pe insula sa. La prânz, vă întoarceți în centrul Stjørdal, parcați pentru următorul grup de obiective și savurați o masă. După-amiaza, explorați pe jos Biserica Værnes și muzeul. Ziua se încheie cu o scurtă călătorie cu mașina până la Hell pentru o fotografie cu indicatorul iconic al gării.",
+        "en": "Your car day starts with a drive to the imposing Hegra Fortress, where you'll park to explore the nearby Leirfall rock carvings on foot. In the morning, you'll continue to the picturesque Steinvikholm Castle on its island. At lunchtime, return to Stjørdal's center, park for the next cluster, and enjoy a meal. In the afternoon, explore Værnes Church and museum on foot. The day concludes with a short drive to Hell for a photo of its iconic station sign."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rentier-Steak (Reinsdyrbiff)",
+            "tip": "Ein einzigartiges norwegisches Gericht, das man in traditionellen Restaurants findet."
+          },
+          {
+            "name": "Kjøttkaker",
+            "tip": "Norwegische Fleischbällchen, oft mit Kartoffeln und Soße serviert."
+          },
+          {
+            "name": "Cloudberry-Marmelade (Multekrem)",
+            "tip": "Eine arktische Delikatesse, oft als Dessert mit Sahne."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rénszarvas-szelet (Reinsdyrbiff)",
+            "tip": "Egyedi norvég étel, amelyet a hagyományos éttermekben találhat meg."
+          },
+          {
+            "name": "Kjøttkaker",
+            "tip": "Norvég húsgombócok, gyakran burgonyával és szósszal tálalva."
+          },
+          {
+            "name": "Tőzegáfonya-lekvár (Multekrem)",
+            "tip": "Sarkvidéki finomság, gyakran tejszínhabbal desszertként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Friptură de ren (Reinsdyrbiff)",
+            "tip": "Un fel de mâncare norvegian unic, găsit în restaurantele tradiționale."
+          },
+          {
+            "name": "Kjøttkaker",
+            "tip": "Chiftele norvegiene, adesea servite cu cartofi și sos."
+          },
+          {
+            "name": "Cremă de mure galbene (Multekrem)",
+            "tip": "O delicatesă arctică, adesea ca desert cu frișcă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Reindeer Steak (Reinsdyrbiff)",
+            "tip": "A unique Norwegian dish found in traditional restaurants."
+          },
+          {
+            "name": "Kjøttkaker",
+            "tip": "Norwegian meatballs, often served with potatoes and gravy."
+          },
+          {
+            "name": "Cloudberry Cream (Multekrem)",
+            "tip": "An arctic delicacy, often as a dessert with cream."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer bei Steinvikholm",
+            "tip": "Genießen Sie die Ruhe am Wasser rund um die Burg.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hegra Festung Gelände",
+            "tip": "Abseits der Hauptpfade bietet das weite Gelände viel Platz für ruhige Momente.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang am Fjord",
+            "tip": "Fahren Sie am Abend zu einem Aussichtspunkt entlang des Fjords.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Steinvikholm körüli part",
+            "tip": "Élvezd a csendet a vízparton a vár körül.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hegra erőd területe",
+            "tip": "A fő ösvényektől távol a tágas terület sok helyet kínál a csendes pillanatokhoz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a fjordnál",
+            "tip": "Este vezess el egy kilátóponthoz a fjord mentén.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul apei la Steinvikholm",
+            "tip": "Bucurați-vă de liniștea de lângă apă în jurul castelului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Terenul Fortăreței Hegra",
+            "tip": "Departe de cărările principale, terenul vast oferă mult spațiu pentru momente liniștite.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus de soare la fiord",
+            "tip": "Seara, conduceți la un punct de belvedere de-a lungul fiordului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shoreline at Steinvikholm",
+            "tip": "Enjoy the tranquility by the water around the castle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hegra Fortress Grounds",
+            "tip": "Away from the main paths, the vast grounds offer plenty of space for quiet moments.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset by the Fjord",
+            "tip": "In the evening, drive to a viewpoint along the fjord.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Suchen Sie nach Bauernhöfen in der Umgebung, die lokale Produkte wie Käse oder Marmelade verkaufen."
+          },
+          {
+            "name": "Museumsshop Værnes",
+            "tip": "Bietet Bücher und Souvenirs zur lokalen Geschichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok",
+            "tip": "Keress a környéken olyan gazdaságokat, amelyek helyi termékeket, például sajtot vagy lekvárt árulnak."
+          },
+          {
+            "name": "Værnes Múzeumbolt",
+            "tip": "Könyveket és szuveníreket kínál a helyi történelemről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de fermă",
+            "tip": "Căutați ferme în zonă care vând produse locale, cum ar fi brânză sau gem."
+          },
+          {
+            "name": "Magazinul muzeului Værnes",
+            "tip": "Oferă cărți și suveniruri legate de istoria locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm Shops",
+            "tip": "Look for farms in the surrounding area selling local produce like cheese or jam."
+          },
+          {
+            "name": "Værnes Museum Shop",
+            "tip": "Offers books and souvenirs related to local history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Planen Sie Ihre Route mit einem GPS, da einige Orte ländlich sind.",
+          "Beachten Sie, dass für einige Festungen und Museen möglicherweise Eintrittsgebühren anfallen.",
+          "Das „Cluster-Walking“-Prinzip ist der Schlüssel: Parken Sie einmal pro Bereich und erkunden Sie zu Fuß.",
+          "Tanken Sie vorab, da Tankstellen in ländlichen Gebieten seltener sind."
+        ],
+        "hu": [
+          "Tervezd meg az útvonalat GPS-szel, mivel néhány hely vidéken van.",
+          "Ne feledd, hogy néhány erődbe és múzeumba belépődíjat kell fizetni.",
+          "A „látnivalócsoportos gyaloglás” elve a kulcs: parkolj le területenként egyszer, és fedezd fel gyalog.",
+          "Tankolj előre, mivel a benzinkutak ritkábbak a vidéki területeken."
+        ],
+        "ro": [
+          "Planificați-vă ruta folosind un GPS, deoarece unele locații sunt rurale.",
+          "Rețineți că unele fortărețe și muzee pot avea taxe de intrare.",
+          "Principiul „plimbării în grup” este cheia: parcați o dată pe zonă și explorați pe jos.",
+          "Alimentați în prealabil, deoarece benzinăriile sunt mai rare în zonele rurale."
+        ],
+        "en": [
+          "Plan your route with a GPS, as some locations are rural.",
+          "Note that some fortresses and museums may have entrance fees.",
+          "The 'cluster-walking' principle is key: park once per area and explore on foot.",
+          "Fuel up beforehand, as gas stations can be less frequent in rural areas."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:16",
+      "total_km": 11.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stjørdal Bahnhof (Start)",
+            "hu": "Stjørdal vasútállomás (Indulás)",
+            "ro": "Gara Stjørdal (Start)",
+            "en": "Stjørdal Station (Start)"
+          },
+          "coords": [
+            10.916,
+            63.465
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel für die beste Flexibilität.",
+            "hu": "Vásárolj napijegyet a tömegközlekedésre a legjobb rugalmasság érdekében.",
+            "ro": "Cumpărați un bilet de o zi pentru transportul public pentru cea mai bună flexibilitate.",
+            "en": "Buy a day pass for public transport for the best flexibility."
+          }
+        },
+        {
+          "name": {
+            "de": "Værnes Kirche",
+            "hu": "Værnes-templom",
+            "ro": "Biserica Værnes",
+            "en": "Værnes Church"
+          },
+          "coords": [
+            10.9168,
+            63.4561
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus Richtung Flughafen und steigen Sie hier aus. Dies ist Ihr erster Cluster.",
+            "hu": "Szállj fel egy reptéri buszra, és itt szállj le. Ez az első látnivalócsoportod.",
+            "ro": "Luați un autobuz spre aeroport și coborâți aici. Acesta este primul dvs. grup de obiective.",
+            "en": "Take a bus towards the airport and get off here. This is your first cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Stjørdal Museum Værnes",
+            "hu": "Stjørdal Múzeum Værnes",
+            "ro": "Muzeul Stjørdal Værnes",
+            "en": "Stjørdal Museum Værnes"
+          },
+          "coords": [
+            10.917,
+            63.4555
+          ],
+          "category": "museums",
+          "arrive_at": "10:23",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Kirche, um die lokale Geschichte zu entdecken.",
+            "hu": "Egy rövid séta a templomtól a helyi történelem felfedezéséhez.",
+            "ro": "O scurtă plimbare de la biserică pentru a descoperi istoria locală.",
+            "en": "A short walk from the church to discover local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Hell Bahnhof",
+            "hu": "Hell vasútállomás",
+            "ro": "Gara Hell",
+            "en": "Hell Station"
+          },
+          "coords": [
+            10.9048,
+            63.445
+          ],
+          "category": "historical",
+          "arrive_at": "12:13",
+          "stay_min": 45,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Zug oder Bus zum nächsten Cluster. Zeit für das berühmte Foto!",
+            "hu": "Szállj vonatra vagy buszra a következő látnivalócsoporthoz. Itt az idő a híres fotóhoz!",
+            "ro": "Luați trenul sau autobuzul spre următorul grup. Timp pentru faimoasa fotografie!",
+            "en": "Take the train or bus to the next cluster. Time for the famous photo!"
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Spaziergang in Hell",
+            "hu": "Ebéd és séta Hellben",
+            "ro": "Prânz și plimbare în Hell",
+            "en": "Lunch and Walk in Hell"
+          },
+          "coords": [
+            10.9055,
+            63.4455
+          ],
+          "category": "gastro",
+          "arrive_at": "13:02",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Umgebung des Bahnhofs und genießen Sie eine Mahlzeit.",
+            "hu": "Fedezd fel az állomás környékét és ebédelj egy jót.",
+            "ro": "Explorați zona din jurul gării și bucurați-vă de o masă.",
+            "en": "Explore the area around the station and enjoy a meal."
+          }
+        },
+        {
+          "name": {
+            "de": "Kimen Kulturhaus & Zentrum",
+            "hu": "Kimen Kultúrház és központ",
+            "ro": "Centrul Cultural Kimen și Centru",
+            "en": "Kimen Culture House & Center"
+          },
+          "coords": [
+            10.9165,
+            63.4695
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:00",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zurück ins Zentrum, um den Nachmittag im kulturellen Herzen der Stadt zu verbringen.",
+            "hu": "Utazz vissza a központba, hogy a délutánt a város kulturális szívében töltsd.",
+            "ro": "Întoarceți-vă în centru pentru a petrece după-amiaza în inima culturală a orașului.",
+            "en": "Travel back to the center to spend the afternoon in the cultural heart of the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt am Bahnhof Stjørdal. Von dort bringt Sie ein Bus zum Cluster Værnes, wo Sie die mittelalterliche Kirche und das Museum zu Fuß erkunden. Am Mittag fahren Sie mit Zug oder Bus nach Hell, um das berühmte Bahnhofsschild zu sehen und dort zu Mittag zu essen. Der Nachmittag führt Sie zurück ins Zentrum von Stjørdal, wo Sie das Kimen Kulturhaus besuchen und durch die Geschäfte bummeln, bevor Ihr Tag endet.",
+        "hu": "A tömegközlekedéssel töltött nap a Stjørdal vasútállomáson kezdődik. Onnan egy busz elviszi a Værnes látnivalócsoporthoz, ahol gyalogosan fedezi fel a középkori templomot és a múzeumot. Délben vonattal vagy busszal utazik Hellbe, hogy megnézze a híres állomástáblát és ott ebédeljen. A délután visszavisz Stjørdal központjába, ahol meglátogatja a Kimen Kultúrházat és sétál az üzletekben, mielőtt a nap véget ér.",
+        "ro": "Ziua dvs. cu transportul public începe la Gara Stjørdal. De acolo, un autobuz vă duce la grupul Værnes, unde explorați pe jos biserica medievală și muzeul. La prânz, călătoriți cu trenul sau autobuzul spre Hell pentru a vedea faimosul indicator al gării și pentru a lua masa. După-amiaza vă aduce înapoi în centrul orașului Stjørdal pentru a vizita Centrul Cultural Kimen și a vă plimba prin magazine înainte de a încheia ziua.",
+        "en": "Your day on public transport begins at Stjørdal Station. From there, a bus takes you to the Værnes cluster, where you'll explore the medieval church and museum on foot. At noon, travel by train or bus to Hell to see the famous station sign and have lunch. The afternoon brings you back to Stjørdal's center to visit the Kimen Culture House and browse the shops before your day concludes."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pølse med lompe",
+            "tip": "Ein klassischer norwegischer Hotdog in einem Kartoffelfladen, ideal für unterwegs."
+          },
+          {
+            "name": "Fiskekaker",
+            "tip": "Fischfrikadellen, ein beliebter und schneller Imbiss."
+          },
+          {
+            "name": "Kaffee und Gebäck",
+            "tip": "Norweger lieben ihre Kaffeepausen (kaffepause). Gönnen Sie sich eine in einem lokalen Café."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pølse med lompe",
+            "tip": "Klasszikus norvég hot dog burgonyás lepényben, ideális útközben."
+          },
+          {
+            "name": "Fiskekaker",
+            "tip": "Halpogácsa, népszerű és gyors harapnivaló."
+          },
+          {
+            "name": "Kávé és sütemény",
+            "tip": "A norvégok imádják a kávészünetet (kaffepause). Kényeztesd magad egy helyi kávézóban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pølse med lompe",
+            "tip": "Un hotdog norvegian clasic într-o lipie de cartofi, ideal pentru o gustare rapidă."
+          },
+          {
+            "name": "Fiskekaker",
+            "tip": "Chiftele de pește, o gustare populară și rapidă."
+          },
+          {
+            "name": "Cafea și produse de patiserie",
+            "tip": "Norvegienii își iubesc pauzele de cafea (kaffepause). Bucurați-vă de una la o cafenea locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pølse med lompe",
+            "tip": "A classic Norwegian hot dog in a potato flatbread, great for a snack on the go."
+          },
+          {
+            "name": "Fiskekaker",
+            "tip": "Fish cakes, a popular and quick snack."
+          },
+          {
+            "name": "Coffee and Pastry",
+            "tip": "Norwegians love their coffee breaks (kaffepause). Treat yourself at a local café."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Bank im Kimen Park",
+            "tip": "Ein schöner Ort, um das städtische Treiben zu beobachten.",
+            "emoji": "🏙️"
+          },
+          {
+            "name": "Zugfahrt nach Hell",
+            "tip": "Genießen Sie die Aussicht auf die Landschaft aus dem Fenster.",
+            "emoji": "🚂"
+          },
+          {
+            "name": "Kirchhof von Værnes",
+            "tip": "Nachdem die Busgruppe weg ist, ist dies ein sehr friedlicher Ort.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy pad a Kimen parkban",
+            "tip": "Szép hely a városi nyüzsgés megfigyelésére.",
+            "emoji": "🏙️"
+          },
+          {
+            "name": "Vonatút Hellbe",
+            "tip": "Élvezd a táj látványát az ablakból.",
+            "emoji": "🚂"
+          },
+          {
+            "name": "Værnes-i templomkert",
+            "tip": "Miután a buszcsoport elment, ez egy nagyon békés hely.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă în Parcul Kimen",
+            "tip": "Un loc frumos pentru a privi agitația orașului.",
+            "emoji": "🏙️"
+          },
+          {
+            "name": "Călătoria cu trenul spre Hell",
+            "tip": "Bucurați-vă de peisajul rural de la fereastră.",
+            "emoji": "🚂"
+          },
+          {
+            "name": "Cimitirul Bisericii Værnes",
+            "tip": "După ce pleacă grupul de turiști, acesta este un loc foarte pașnic.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench in Kimen Park",
+            "tip": "A nice spot to watch the city life go by.",
+            "emoji": "🏙️"
+          },
+          {
+            "name": "Train ride to Hell",
+            "tip": "Enjoy the countryside views from the window.",
+            "emoji": "🚂"
+          },
+          {
+            "name": "Værnes Churchyard",
+            "tip": "After the bus group leaves, this is a very peaceful spot.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs am Bahnhof Hell",
+            "tip": "Der beste Ort für einzigartige Andenken an Ihren Besuch in der „Hölle“."
+          },
+          {
+            "name": "Geschäfte im Stadtzentrum",
+            "tip": "Erkunden Sie die Geschäfte rund um das Kimen Kulturhaus."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvenírek a helli állomáson",
+            "tip": "A legjobb hely egyedi emléktárgyak vásárlására a „pokolbeli” látogatásról."
+          },
+          {
+            "name": "Belvárosi üzletek",
+            "tip": "Fedezd fel a Kimen Kultúrház körüli üzleteket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri la Gara Hell",
+            "tip": "Cel mai bun loc pentru amintiri unice din vizita dvs. în „Iad”."
+          },
+          {
+            "name": "Magazine din centrul orașului",
+            "tip": "Explorați magazinele din jurul Centrului Cultural Kimen."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenirs at Hell Station",
+            "tip": "The best place for unique mementos of your visit to 'Hell'."
+          },
+          {
+            "name": "City Center Shops",
+            "tip": "Explore the stores around the Kimen Culture House."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die lokale ÖPNV-App herunter, um Fahrpläne und Tickets in Echtzeit zu erhalten.",
+          "Züge sind oft schneller als Busse zwischen Stjørdal und Hell.",
+          "Seien Sie sich der Busfahrpläne bewusst, besonders am Abend, da die Frequenzen abnehmen können.",
+          "Denken Sie daran, dass Sie innerhalb der Cluster zu Fuß gehen, also tragen Sie trotzdem bequeme Schuhe."
+        ],
+        "hu": [
+          "Töltsd le a helyi tömegközlekedési alkalmazást a valós idejű menetrendekért és jegyekért.",
+          "A vonatok gyakran gyorsabbak, mint a buszok Stjørdal és Hell között.",
+          "Legyél tisztában a buszmenetrendekkel, különösen este, mert a járatok ritkulhatnak.",
+          "Ne feledd, hogy a látnivalócsoportokon belül gyalogolni fogsz, ezért viselj kényelmes cipőt."
+        ],
+        "ro": [
+          "Descărcați aplicația locală de transport public pentru orare și bilete în timp real.",
+          "Trenurile sunt adesea mai rapide decât autobuzele între Stjørdal și Hell.",
+          "Fiți conștienți de programul autobuzelor, mai ales seara, deoarece frecvența poate scădea.",
+          "Amintiți-vă că veți merge pe jos în cadrul grupurilor, așa că purtați totuși pantofi confortabili."
+        ],
+        "en": [
+          "Download the local public transport app for real-time schedules and tickets.",
+          "Trains are often faster than buses between Stjørdal and Hell.",
+          "Be aware of bus schedules, especially in the evening as frequencies may decrease.",
+          "Remember you'll be walking within the clusters, so still wear comfortable shoes."
+        ]
+      }
+    }
+  }
+}

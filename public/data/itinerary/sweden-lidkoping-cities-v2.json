@@ -1,0 +1,1012 @@
+{
+  "city_id": "sweden-lidkoping-cities-v2",
+  "anchor": {
+    "name": "Lidköping",
+    "coords": [
+      13.1578,
+      58.5032
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Limtorget & Altes Rathaus",
+            "hu": "Limtorget és a Régi Városháza",
+            "ro": "Limtorget și Vechea Primărie",
+            "en": "Limtorget & The Old Town Hall"
+          },
+          "coords": [
+            13.1588,
+            58.5038
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie mit einem Kaffee in einem der Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában!",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
+            "en": "Start your day with a coffee at one of the square's cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt Nicolai kyrka",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "St. Nicolai Church"
+          },
+          "coords": [
+            13.1605,
+            58.5045
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckende Deckenmalerei im Inneren.",
+            "hu": "Figyelje meg a lenyűgöző mennyezeti festményeket odabent!",
+            "ro": "Observați picturile impresionante de pe tavanul din interior.",
+            "en": "Pay attention to the impressive ceiling paintings inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Rörstrand Museum",
+            "hu": "Rörstrand Múzeum",
+            "ro": "Muzeul Rörstrand",
+            "en": "Rörstrand Museum"
+          },
+          "coords": [
+            13.155,
+            58.508
+          ],
+          "category": "museums",
+          "arrive_at": "10:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die 'Perlen der Manufaktur'-Ausstellung.",
+            "hu": "Ne hagyja ki a 'Gyár gyöngyszemei' kiállítást!",
+            "ro": "Nu ratați expoziția 'Perlele Fabricii'.",
+            "en": "Don't miss the 'Gems of the Factory' exhibition."
+          }
+        },
+        {
+          "name": {
+            "de": "Vänermuseet",
+            "hu": "Vänermuseet (Vänern-tó Múzeuma)",
+            "ro": "Vänermuseet (Muzeul Lacului Vänern)",
+            "en": "Vänermuseet (Museum of Lake Vänern)"
+          },
+          "coords": [
+            13.153,
+            58.5095
+          ],
+          "category": "museums",
+          "arrive_at": "12:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Aquarium zeigt die Fischvielfalt des Vänernsees.",
+            "hu": "Az akvárium bemutatja a Vänern-tó halfajait.",
+            "ro": "Acvariul prezintă diversitatea de pești din Lacul Vänern.",
+            "en": "The aquarium showcases the fish diversity of Lake Vänern."
+          }
+        },
+        {
+          "name": {
+            "de": "Spikens Fiskehamn",
+            "hu": "Spikens halászkikötő",
+            "ro": "Portul pescăresc Spiken",
+            "en": "Spiken Fishing Harbor"
+          },
+          "coords": [
+            13.178,
+            58.515
+          ],
+          "category": "port",
+          "arrive_at": "14:27",
+          "stay_min": 90,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 1.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie frisch geräucherten Fisch direkt vom Fischer.",
+            "hu": "Kóstoljon frissen füstölt halat közvetlenül a halászoktól!",
+            "ro": "Încercați pește proaspăt afumat direct de la pescari.",
+            "en": "Try fresh smoked fish directly from the fishermen."
+          }
+        },
+        {
+          "name": {
+            "de": "Lidköpings Stadsträdgård",
+            "hu": "Lidköpingi Városkert",
+            "ro": "Grădina Orașului Lidköping",
+            "en": "Lidköping City Garden"
+          },
+          "coords": [
+            13.165,
+            58.502
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:27",
+          "stay_min": 58,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für eine letzte Pause vor dem Abendessen.",
+            "hu": "Tökéletes hely egy utolsó pihenőre vacsora előtt.",
+            "ro": "Un loc perfect pentru o ultimă pauză înainte de cină.",
+            "en": "A perfect spot for a final break before dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Lidköping am Limtorget, wo das alte Rathaus steht. Nach dem Besuch der nahegelegenen St.-Nicolai-Kirche führt Sie ein Spaziergang zum Ufer des Vänernsees, um in die Welt des berühmten Rörstrand-Porzellans einzutauchen. Am Mittag entdecken Sie im Vänermuseet die Geheimnisse des größten Sees Schwedens. Ein längerer Spaziergang führt Sie zum charmanten Fischerhafen Spiken, wo Sie die lokale Atmosphäre genießen können. Schließen Sie den Tag mit einem entspannenden Spaziergang durch den Stadtgarten ab, einem grünen Juwel mitten in der Stadt.",
+        "hu": "Kezdje a napot Lidköping szívében, a Limtorget téren, ahol a régi városháza is áll. A közeli Szent Miklós-templom megtekintése után sétáljon el a Vänern-tó partjára, hogy elmerüljön a híres Rörstrand porcelán világában. Délben a Vänermuseetben fedezze fel Svédország legnagyobb tavának titkait. Egy hosszabb séta vezet a bájos Spiken halászkikötőbe, ahol élvezheti a helyi hangulatot. Zárja a napot egy pihentető sétával a városi parkban, amely egy zöld ékszer a város közepén.",
+        "ro": "Începeți ziua în inima orașului Lidköping la Limtorget, unde se află vechea primărie. După ce vizitați Biserica Sf. Nicolae din apropiere, o plimbare vă duce pe malul lacului Vänern pentru a vă cufunda în lumea celebrului porțelan Rörstrand. La prânz, descoperiți secretele celui mai mare lac din Suedia la Vänermuseet. O plimbare mai lungă vă va duce la fermecătorul port pescăresc Spiken, unde vă puteți bucura de atmosfera locală. Încheiați ziua cu o plimbare relaxantă prin grădina orașului, o bijuterie verde în mijlocul orașului.",
+        "en": "Start your day in the heart of Lidköping at Limtorget, where the old town hall stands. After visiting the nearby St. Nicolai Church, a walk takes you to the shores of Lake Vänern to immerse yourself in the world of famous Rörstrand porcelain. At midday, discover the secrets of Sweden's largest lake at Vänermuseet. A longer walk will lead you to the charming Spiken fishing harbor, where you can enjoy the local atmosphere. Conclude the day with a relaxing stroll through the city garden, a green gem in the middle of the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Vänernlöjrom",
+            "tip": "Probieren Sie den lokalen Kaviar, eine Delikatesse aus dem Vänernsee. Oft serviert mit Crème fraîche und Zwiebeln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vänernlöjrom",
+            "tip": "Kóstolja meg a helyi kaviárt, a Vänern-tóból származó finomságot. Gyakran crème fraîche-sel és hagymával tálalják."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vänernlöjrom",
+            "tip": "Încercați icrele locale, o delicatesă din Lacul Vänern. Adesea servite cu smântână și ceapă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vänernlöjrom",
+            "tip": "Try the local roe, a delicacy from Lake Vänern. Often served with crème fraîche and onions."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Vänernsees",
+            "tip": "Finden Sie eine ruhige Bank am Seeufer, um die Weite des Wassers zu genießen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vänern-tó partja",
+            "tip": "Keressen egy csendes padot a tóparton, és élvezze a víz tágasságát.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Vänern",
+            "tip": "Găsiți o bancă liniștită pe malul lacului pentru a vă bucura de întinderea apei.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shore of Lake Vänern",
+            "tip": "Find a quiet bench on the lake shore to enjoy the vastness of the water.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rörstrand Outlet",
+            "tip": "Kaufen Sie Porzellan zweiter Wahl zu reduzierten Preisen direkt im Museumsshop."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rörstrand Outlet",
+            "tip": "Vásároljon másodosztályú porcelánt kedvezményes áron közvetlenül a múzeumi boltban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Outlet Rörstrand",
+            "tip": "Cumpărați porțelan la mâna a doua la prețuri reduse direct de la magazinul muzeului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rörstrand Outlet",
+            "tip": "Buy second-grade porcelain at reduced prices directly from the museum shop."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Strecke zwischen den Sehenswürdigkeiten beträchtlich ist. Planen Sie eine längere Mittagspause im Fischerhafen Spiken ein, um die frischen Meeresfrüchte zu genießen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert a látnivalók közötti távolság jelentős. Tervezzen egy hosszabb ebédszünetet a Spiken halászkikötőben, hogy megkóstolja a friss tengeri herkentyűket."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece distanța dintre obiective este considerabilă. Planificați o pauză de prânz mai lungă în portul pescăresc Spiken pentru a savura fructele de mare proaspete."
+        ],
+        "en": [
+          "Wear comfortable shoes as the distance between sights is considerable. Plan a longer lunch break at Spiken fishing harbor to enjoy the fresh seafood."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:36",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Limtorget & Altes Rathaus",
+            "hu": "Limtorget és a Régi Városháza",
+            "ro": "Limtorget și Vechea Primărie",
+            "en": "Limtorget & The Old Town Hall"
+          },
+          "coords": [
+            13.1588,
+            58.5038
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, während Sie den Platz erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárját, amíg felfedezi a teret.",
+            "ro": "Asigurați-vă bicicleta în timp ce explorați piața.",
+            "en": "Lock your bike securely while exploring the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt Nicolai kyrka",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "St. Nicolai Church"
+          },
+          "coords": [
+            13.1605,
+            58.5045
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe, bevor Sie weiterradeln.",
+            "hu": "Élvezze a csendet, mielőtt továbbteker.",
+            "ro": "Bucurați-vă de liniște înainte de a continua pedalarea.",
+            "en": "Enjoy the tranquility before you cycle on."
+          }
+        },
+        {
+          "name": {
+            "de": "Lidköpings Stadsträdgård",
+            "hu": "Lidköpingi Városkert",
+            "ro": "Grădina Orașului Lidköping",
+            "en": "Lidköping City Garden"
+          },
+          "coords": [
+            13.165,
+            58.502
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:17",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Machen Sie ein Picknick auf einer der Wiesen.",
+            "hu": "Piknikezzen egyet a park egyik rétjén!",
+            "ro": "Faceți un picnic pe una dintre pajiștile parcului.",
+            "en": "Have a picnic on one of the park's meadows."
+          }
+        },
+        {
+          "name": {
+            "de": "Rörstrand Museum",
+            "hu": "Rörstrand Múzeum",
+            "ro": "Muzeul Rörstrand",
+            "en": "Rörstrand Museum"
+          },
+          "coords": [
+            13.155,
+            58.508
+          ],
+          "category": "museums",
+          "arrive_at": "11:09",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Fahrradweg führt fast direkt bis zum Eingang.",
+            "hu": "A kerékpárút szinte közvetlenül a bejáratig vezet.",
+            "ro": "Pista de biciclete duce aproape direct la intrare.",
+            "en": "The bike path leads almost directly to the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Spikens Fiskehamn",
+            "hu": "Spikens halászkikötő",
+            "ro": "Portul pescăresc Spiken",
+            "en": "Spiken Fishing Harbor"
+          },
+          "coords": [
+            13.178,
+            58.565
+          ],
+          "category": "port",
+          "arrive_at": "13:31",
+          "stay_min": 90,
+          "hop_from_prev_min": 42,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Radweg entlang des Sees nach Spiken ist wunderschön.",
+            "hu": "A tó menti kerékpárút Spiken felé gyönyörű.",
+            "ro": "Pista de biciclete de-a lungul lacului spre Spiken este superbă.",
+            "en": "The cycle path along the lake to Spiken is beautiful."
+          }
+        },
+        {
+          "name": {
+            "de": "Vänermuseet",
+            "hu": "Vänermuseet",
+            "ro": "Vänermuseet",
+            "en": "Vänermuseet"
+          },
+          "coords": [
+            13.153,
+            58.5095
+          ],
+          "category": "museums",
+          "arrive_at": "15:36",
+          "stay_min": 90,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein informativer Abschluss des Tages am See.",
+            "hu": "Egy informatív lezárása a tónál töltött napnak.",
+            "ro": "O încheiere informativă a zilei la lac.",
+            "en": "An informative end to the day at the lake."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am Limtorget und erkunden Sie die Altstadt, bevor Sie zur St.-Nicolai-Kirche radeln. Eine kurze Fahrt bringt Sie in den Stadtgarten für eine grüne Pause. Am späten Vormittag erreichen Sie das Rörstrand-Museum, ein Muss für Designliebhaber. Nach dem Mittagessen unternehmen Sie eine längere, malerische Radtour entlang des Vänernsees zum Fischerhafen Spiken. Genießen Sie dort die maritime Atmosphäre und den frischen Fisch. Auf dem Rückweg halten Sie am Vänermuseet, um Ihren Tag mit Einblicken in die Ökologie des Sees abzurunden.",
+        "hu": "Induljon a Limtorgetről, fedezze fel az óvárost, majd tekerjen el a Szent Miklós-templomhoz. Egy rövid út után a városi parkban tarthat egy zöld szünetet. A délelőtt folyamán érkezik a Rörstrand Múzeumba, amely a design szerelmeseinek kötelező. Ebéd után tegyen egy hosszabb, festői kerékpártúrát a Vänern-tó mentén a Spiken halászkikötőbe. Élvezze a tengeri hangulatot és a friss halat. Visszafelé álljon meg a Vänermuseetnél, hogy a tó ökológiájába nyert betekintéssel zárja a napot.",
+        "ro": "Începeți de la Limtorget și explorați orașul vechi înainte de a pedala spre Biserica Sf. Nicolae. O scurtă plimbare vă duce în grădina orașului pentru o pauză verde. Spre sfârșitul dimineții ajungeți la Muzeul Rörstrand, o necesitate pentru iubitorii de design. După prânz, faceți o plimbare mai lungă și pitorească cu bicicleta de-a lungul lacului Vänern până la portul pescăresc Spiken. Bucurați-vă de atmosfera maritimă și de peștele proaspăt. La întoarcere, opriți-vă la Vänermuseet pentru a încheia ziua cu informații despre ecologia lacului.",
+        "en": "Start at Limtorget and explore the old town before cycling to St. Nicolai Church. A short ride takes you to the city garden for a green break. In the late morning, you'll reach the Rörstrand Museum, a must for design lovers. After lunch, take a longer, scenic bike ride along Lake Vänern to Spiken fishing harbor. Enjoy the maritime atmosphere and fresh fish there. On the way back, stop at Vänermuseet to round off your day with insights into the lake's ecology."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Geräucherter Vänern-Lachs",
+            "tip": "In Spikens Fiskehamn gibt es mehrere kleine Räuchereien, die ausgezeichneten Lachs verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Füstölt Vänern-lazac",
+            "tip": "A Spikens Fiskehamnban több kis füstölő is található, ahol kiváló lazacot árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Somon afumat de Vänern",
+            "tip": "În Spikens Fiskehamn există mai multe mici afumători care vând somon excelent."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smoked Vänern Salmon",
+            "tip": "In Spikens Fiskehamn there are several small smokehouses that sell excellent salmon."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg Kållandsö",
+            "tip": "Der Weg nach Spiken führt über die Insel Kållandsö und bietet viele ruhige Plätze am Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kållandsö kerékpárút",
+            "tip": "A Spikenbe vezető út a Kållandsö szigeten keresztül vezet, és számos csendes helyet kínál a vízparton.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete Kållandsö",
+            "tip": "Drumul spre Spiken trece prin insula Kållandsö și oferă multe locuri liniștite pe malul apei.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kållandsö cycle path",
+            "tip": "The path to Spiken leads across Kållandsö island and offers many quiet spots by the water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden auf Kållandsö",
+            "tip": "Entlang des Radweges finden Sie kleine Hofläden, die lokale Produkte und Kunsthandwerk verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paraszti boltok Kållandsön",
+            "tip": "A kerékpárút mentén kis paraszti boltokat talál, ahol helyi termékeket és kézműves árukat árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine agricole pe Kållandsö",
+            "tip": "De-a lungul pistei de biciclete veți găsi mici magazine agricole care vând produse locale și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops on Kållandsö",
+            "tip": "Along the cycle path you will find small farm shops selling local products and handicrafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Wetterbericht, besonders für die Fahrt nach Spiken. Ein Fahrrad mit Gängen ist für die leichten Steigungen empfehlenswert. Nehmen Sie Wasser und Snacks mit."
+        ],
+        "hu": [
+          "Ellenőrizze az időjárás-előrejelzést, különösen a Spikenbe vezető útra. Váltós kerékpár ajánlott az enyhe emelkedőkhöz. Vigyen magával vizet és harapnivalót."
+        ],
+        "ro": [
+          "Verificați prognoza meteo, în special pentru drumul spre Spiken. O bicicletă cu viteze este recomandată pentru pantele ușoare. Luați apă și gustări cu dumneavoastră."
+        ],
+        "en": [
+          "Check the weather forecast, especially for the ride to Spiken. A bike with gears is recommended for the slight inclines. Bring water and snacks."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:39",
+      "total_km": 54.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Läckö Slott",
+            "hu": "Läckö kastély",
+            "ro": "Castelul Läckö",
+            "en": "Läckö Castle"
+          },
+          "coords": [
+            13.22,
+            58.675
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit für den Schlossgarten ein, er ist spektakulär.",
+            "hu": "Szánjon elég időt a kastély kertjére is, lenyűgöző!",
+            "ro": "Planificați suficient timp pentru grădina castelului, este spectaculoasă.",
+            "en": "Plan enough time for the castle garden, it is spectacular."
+          }
+        },
+        {
+          "name": {
+            "de": "Spikens Fiskehamn",
+            "hu": "Spikens halászkikötő",
+            "ro": "Portul pescăresc Spiken",
+            "en": "Spiken Fishing Harbor"
+          },
+          "coords": [
+            13.178,
+            58.565
+          ],
+          "category": "port",
+          "arrive_at": "11:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 11.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Der perfekte Ort für ein Mittagessen mit frischem Fisch.",
+            "hu": "Tökéletes hely egy friss halból készült ebédhez.",
+            "ro": "Locul perfect pentru un prânz cu pește proaspăt.",
+            "en": "The perfect place for a lunch with fresh fish."
+          }
+        },
+        {
+          "name": {
+            "de": "Rörstrand Museum",
+            "hu": "Rörstrand Múzeum",
+            "ro": "Muzeul Rörstrand",
+            "en": "Rörstrand Museum"
+          },
+          "coords": [
+            13.155,
+            58.508
+          ],
+          "category": "museums",
+          "arrive_at": "13:08",
+          "stay_min": 90,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 10.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie die Innenstadt zu Fuß.",
+            "hu": "Parkoljon le itt, és fedezze fel a belvárost gyalog.",
+            "ro": "Parcați aici și explorați centrul orașului pe jos.",
+            "en": "Park here and explore the city center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Limtorget & Altes Rathaus",
+            "hu": "Limtorget és a Régi Városháza",
+            "ro": "Limtorget și Vechea Primărie",
+            "en": "Limtorget & The Old Town Hall"
+          },
+          "coords": [
+            13.1588,
+            58.5038
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das hölzerne Rathaus ist ein großartiges Fotomotiv.",
+            "hu": "A fából készült városháza remek fotótéma.",
+            "ro": "Primăria din lemn este un subiect excelent pentru fotografii.",
+            "en": "The wooden town hall is a great photo opportunity."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt Nicolai kyrka",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "St. Nicolai Church"
+          },
+          "coords": [
+            13.1605,
+            58.5045
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur aus verschiedenen Epochen.",
+            "hu": "Csodálja meg a különböző korokból származó építészeti stílusokat.",
+            "ro": "Admirați arhitectura din diferite epoci.",
+            "en": "Admire the architecture from different eras."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Hindens Rev",
+            "hu": "Hindens Rev kilátópont",
+            "ro": "Punctul de belvedere Hindens Rev",
+            "en": "Hindens Rev Viewpoint"
+          },
+          "coords": [
+            13.065,
+            58.46
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:59",
+          "stay_min": 70,
+          "hop_from_prev_min": 48,
+          "hop_from_prev_km": 31.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein magischer Ort für den Sonnenuntergang über dem Vänernsee.",
+            "hu": "Varázslatos hely a naplemente megtekintéséhez a Vänern-tó felett.",
+            "ro": "Un loc magic pentru apusul soarelui peste Lacul Vänern.",
+            "en": "A magical place for sunset over Lake Vänern."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer Fahrt zum prächtigen Schloss Läckö, dem Juwel der Region. Erkunden Sie das Barockschloss und seine Gärten. Anschließend fahren Sie zum Fischerhafen Spiken für ein authentisches Mittagessen. Am Nachmittag fahren Sie zurück nach Lidköping, parken in der Nähe des Rörstrand-Museums und beginnen Ihren Stadtrundgang. Entdecken Sie das berühmte Porzellan, bevor Sie zum historischen Limtorget und der St.-Nicolai-Kirche spazieren. Beenden Sie den Tag mit einer kurzen Fahrt zum Hindens Rev, einem einzigartigen eiszeitlichen Damm, um einen atemberaubenden Sonnenuntergang zu erleben.",
+        "hu": "Kezdje a napot egy utazással a csodálatos Läckö kastélyhoz, a régió ékkövéhez. Fedezze fel a barokk kastélyt és kertjeit. Ezután hajtson el a Spiken halászkikötőbe egy autentikus ebédre. Délután térjen vissza Lidköpingbe, parkoljon le a Rörstrand Múzeum közelében, és kezdje meg a városnéző sétát. Fedezze fel a híres porcelánt, mielőtt elsétál a történelmi Limtorgethez és a Szent Miklós-templomhoz. Zárja a napot egy rövid autózással a Hindens Rev-hez, egy egyedülálló jégkorszaki gáthoz, hogy átélje a lélegzetelállító naplementét.",
+        "ro": "Începeți ziua cu o excursie la magnificul Castel Läckö, bijuteria regiunii. Explorați castelul baroc și grădinile sale. Apoi, conduceți spre portul pescăresc Spiken pentru un prânz autentic. După-amiaza, întoarceți-vă în Lidköping, parcați lângă Muzeul Rörstrand și începeți plimbarea prin oraș. Descoperiți faimosul porțelan înainte de a vă plimba spre istorica Limtorget și Biserica Sf. Nicolae. Încheiați ziua cu o scurtă călătorie cu mașina spre Hindens Rev, un baraj glaciar unic, pentru a experimenta un apus de soare uluitor.",
+        "en": "Start your day with a drive to the magnificent Läckö Castle, the jewel of the region. Explore the baroque castle and its gardens. Then, drive to the Spiken fishing harbor for an authentic lunch. In the afternoon, return to Lidköping, park near the Rörstrand Museum, and begin your city walk. Discover the famous porcelain before strolling to the historic Limtorget and St. Nicolai Church. End the day with a short drive to Hindens Rev, a unique glacial ridge, to experience a breathtaking sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fischsuppentopf in Spiken",
+            "tip": "Mehrere Restaurants in Spiken servieren eine reichhaltige und schmackhafte Fischsuppe, perfekt für das Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Haleves Spikenben",
+            "tip": "Spikenben több étterem is kínál gazdag és ízletes halevest, amely tökéletes ebédre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciorbă de pește în Spiken",
+            "tip": "Mai multe restaurante din Spiken servesc o ciorbă de pește bogată și gustoasă, perfectă pentru prânz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish soup in Spiken",
+            "tip": "Several restaurants in Spiken serve a rich and tasty fish soup, perfect for lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hindens Rev",
+            "tip": "Gehen Sie bis zur Spitze der Landzunge. Es ist ein sehr friedlicher Ort mit weitem Blick über den See.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hindens Rev",
+            "tip": "Sétáljon el a földnyelv csúcsáig. Nagyon békés hely, ahonnan messzire ellátni a tó felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hindens Rev",
+            "tip": "Mergeți până la vârful promontoriului. Este un loc foarte liniștit, cu o vedere largă asupra lacului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hindens Rev",
+            "tip": "Walk to the tip of the spit. It's a very peaceful place with a wide view over the lake.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Naturum Vänerskärgården – Victoriahuset",
+            "tip": "In der Nähe von Läckö Slott gelegen, bietet es Souvenirs und Bücher über die lokale Natur."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naturum Vänerskärgården – Victoriahuset",
+            "tip": "A Läckö kastély közelében található, szuveníreket és könyveket kínál a helyi természetről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Naturum Vänerskärgården – Victoriahuset",
+            "tip": "Situat lângă Castelul Läckö, oferă suveniruri și cărți despre natura locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Naturum Vänerskärgården – Victoriahuset",
+            "tip": "Located near Läckö Castle, it offers souvenirs and books about the local nature."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Kombiticket für Schloss Läckö und das Vänermuseum, falls verfügbar. Die Parkplätze in der Innenstadt von Lidköping sind gebührenpflichtig. Starten Sie früh, um den Tag voll auszunutzen."
+        ],
+        "hu": [
+          "Ha elérhető, vásároljon kombinált jegyet a Läckö kastélyba és a Vänermuseumba. Lidköping belvárosában a parkolás díjköteles. Induljon korán, hogy teljes mértékben kihasználja a napot."
+        ],
+        "ro": [
+          "Cumpărați un bilet combinat pentru Castelul Läckö și Vänermuseet, dacă este disponibil. Parcarea în centrul orașului Lidköping este contra cost. Începeți devreme pentru a profita la maximum de zi."
+        ],
+        "en": [
+          "Buy a combination ticket for Läckö Castle and Vänermuseet if available. Parking in Lidköping city center is paid. Start early to make the most of the day."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Limtorget & Altes Rathaus",
+            "hu": "Limtorget és a Régi Városháza",
+            "ro": "Limtorget și Vechea Primărie",
+            "en": "Limtorget & The Old Town Hall"
+          },
+          "coords": [
+            13.1588,
+            58.5038
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Das Zentrum ist der beste Ausgangspunkt für den Tag.",
+            "hu": "A központ a legjobb kiindulópont a naphoz.",
+            "ro": "Centrul este cel mai bun punct de plecare pentru o zi.",
+            "en": "The center is the best starting point for the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt Nicolai kyrka",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "St. Nicolai Church"
+          },
+          "coords": [
+            13.1605,
+            58.5045
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Hauptplatz entfernt.",
+            "hu": "Csak egy rövid séta a főtértől.",
+            "ro": "La doar o scurtă plimbare de piața principală.",
+            "en": "Just a short walk from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Rörstrand Center (Museum & Outlet)",
+            "hu": "Rörstrand Központ (Múzeum és Outlet)",
+            "ro": "Centrul Rörstrand (Muzeu și Outlet)",
+            "en": "Rörstrand Center (Museum & Outlet)"
+          },
+          "coords": [
+            13.155,
+            58.508
+          ],
+          "category": "museums",
+          "arrive_at": "10:33",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Zentrum. Die Haltestelle ist direkt davor.",
+            "hu": "Menjen busszal a központból. A megálló közvetlenül előtte van.",
+            "ro": "Luați un autobuz din centru. Stația este chiar în față.",
+            "en": "Take a bus from the center. The stop is right in front."
+          }
+        },
+        {
+          "name": {
+            "de": "Vänermuseet",
+            "hu": "Vänermuseet",
+            "ro": "Vänermuseet",
+            "en": "Vänermuseet"
+          },
+          "coords": [
+            13.153,
+            58.5095
+          ],
+          "category": "museums",
+          "arrive_at": "12:41",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang vom Rörstrand Center am Wasser entlang.",
+            "hu": "Szép séta a Rörstrand Központtól a víz mentén.",
+            "ro": "O plimbare frumoasă de la Centrul Rörstrand de-a lungul apei.",
+            "en": "A nice walk from the Rörstrand Center along the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Lidköpings Stadsträdgård",
+            "hu": "Lidköpingi Városkert",
+            "ro": "Grădina Orașului Lidköping",
+            "en": "Lidköping City Garden"
+          },
+          "coords": [
+            13.165,
+            58.502
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:00",
+          "stay_min": 101,
+          "hop_from_prev_min": 49,
+          "hop_from_prev_km": 2.3,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück ins Zentrum und entspannen Sie im Park.",
+            "hu": "Menjen vissza busszal a központba, és pihenjen a parkban.",
+            "ro": "Luați autobuzul înapoi în centru și relaxați-vă în parc.",
+            "en": "Take the bus back to the center and relax in the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im Herzen von Lidköping, dem Limtorget, das leicht mit dem Bus zu erreichen ist. Nach einem kurzen Spaziergang zur St.-Nicolai-Kirche nehmen Sie einen Bus zum Rörstrand Center. Verbringen Sie den Vormittag damit, das berühmte Porzellan zu bewundern. Am Mittag spazieren Sie am Seeufer entlang zum Vänermuseet. Nachdem Sie alles über den See erfahren haben, bringt Sie ein Bus zurück in die Nähe des Zentrums, wo Sie den Tag im ruhigen Stadtgarten ausklingen lassen können.",
+        "hu": "A nap Lidköping szívében, a busszal könnyen megközelíthető Limtorgeten kezdődik. A Szent Miklós-templomhoz tett rövid séta után busszal juthat el a Rörstrand Központba. Töltse a délelőttöt a híres porcelán csodálásával. Délben sétáljon a tóparton a Vänermuseetig. Miután mindent megtudott a tóról, egy busz visszaviszi a központ közelébe, ahol a csendes városi kertben fejezheti be a napot.",
+        "ro": "Ziua dvs. începe în inima orașului Lidköping, Limtorget, ușor accesibil cu autobuzul. După o scurtă plimbare până la Biserica Sf. Nicolae, luați un autobuz spre Centrul Rörstrand. Petreceți dimineața admirând celebrul porțelan. La prânz, plimbați-vă pe malul lacului până la Vänermuseet. După ce ați aflat totul despre lac, un autobuz vă va duce înapoi lângă centru, unde puteți încheia ziua în liniștita grădină a orașului.",
+        "en": "Your day starts in the heart of Lidköping, Limtorget, easily accessible by bus. After a short walk to St. Nicolai Church, you take a bus to the Rörstrand Center. Spend the morning admiring the famous porcelain. At midday, stroll along the lake shore to Vänermuseet. After learning all about the lake, a bus will take you back near the center, where you can end the day in the peaceful city garden."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kanelbulle",
+            "tip": "Genießen Sie eine traditionelle schwedische Zimtschnecke in einem Café am Limtorget."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kanelbulle",
+            "tip": "Élvezzen egy hagyományos svéd fahéjas csigát a Limtorget egyik kávézójában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kanelbulle",
+            "tip": "Savurați o ruladă tradițională suedeză cu scorțișoară la o cafenea din Limtorget."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kanelbulle",
+            "tip": "Enjoy a traditional Swedish cinnamon bun at a café in Limtorget."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bibliothek von Lidköping",
+            "tip": "In der Nähe des Stadtgartens, ein moderner und ruhiger Ort zum Ausruhen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lidköpingi Könyvtár",
+            "tip": "A városi park közelében, egy modern és csendes hely a pihenésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biblioteca Lidköping",
+            "tip": "Aproape de grădina orașului, un loc modern și liniștit pentru a vă odihni.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lidköping Library",
+            "tip": "Near the city garden, a modern and quiet place to rest.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Nya Stadens torg",
+            "tip": "Der 'neue' Stadtplatz bietet eine Vielzahl von Geschäften für einen Einkaufsbummel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok a Nya Stadens torgon",
+            "tip": "Az 'új' városi tér számos üzletet kínál a vásárláshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine în Nya Stadens torg",
+            "tip": "'Piața nouă' a orașului oferă o varietate de magazine pentru cumpărături."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops in Nya Stadens torg",
+            "tip": "The 'new' city square offers a variety of shops for a shopping spree."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um flexibel zu bleiben. Die meisten Busse in Schweden sind bargeldlos, also verwenden Sie eine App oder eine Kreditkarte. Überprüfen Sie die Busfahrpläne im Voraus."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy rugalmas maradjon. A legtöbb svéd buszon nem lehet készpénzzel fizetni, ezért használjon alkalmazást vagy hitelkártyát. Ellenőrizze előre a buszmenetrendet."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru a rămâne flexibil. Majoritatea autobuzelor din Suedia sunt fără numerar, așa că folosiți o aplicație sau un card de credit. Verificați în prealabil orarele autobuzelor."
+        ],
+        "en": [
+          "Buy a day ticket for the bus to stay flexible. Most buses in Sweden are cashless, so use an app or credit card. Check the bus schedules in advance."
+        ]
+      }
+    }
+  }
+}

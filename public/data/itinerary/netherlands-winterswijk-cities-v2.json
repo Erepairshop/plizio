@@ -1,0 +1,1390 @@
+{
+  "city_id": "netherlands-winterswijk-cities-v2",
+  "anchor": {
+    "name": "Winterswijk",
+    "coords": [
+      6.716,
+      51.97
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Lappenbrink",
+            "hu": "Lappenbrink tér",
+            "ro": "Piața Lappenbrink",
+            "en": "Lappenbrink Square"
+          },
+          "coords": [
+            6.718,
+            51.972
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einem Kaffee in einem der charmanten Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik hangulatos kávézójában.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele fermecătoare din piață.",
+            "en": "Start your day with a coffee at one of the charming cafes on the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Jacobskerk",
+            "hu": "Szent Jakab-templom",
+            "ro": "Biserica Sfântul Iacob",
+            "en": "St. Jacob's Church"
+          },
+          "coords": [
+            6.717,
+            51.973
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden Buntglasfenster und die ruhige Atmosphäre.",
+            "hu": "Csodálja meg a lenyűgöző ólomüveg ablakokat és a csendes légkört.",
+            "ro": "Admirați vitraliile impresionante și atmosfera liniștită.",
+            "en": "Admire the impressive stained-glass windows and the quiet atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Villa Mondriaan",
+            "hu": "Villa Mondriaan Múzeum",
+            "ro": "Muzeul Vila Mondriaan",
+            "en": "Museum Villa Mondriaan"
+          },
+          "coords": [
+            6.72,
+            51.975
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die frühen Jahre des berühmten Künstlers Piet Mondrian.",
+            "hu": "Fedezze fel a híres művész, Piet Mondrian korai éveit.",
+            "ro": "Descoperiți anii de început ai celebrului artist Piet Mondrian.",
+            "en": "Discover the early years of the famous artist Piet Mondrian."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the Center"
+          },
+          "coords": [
+            6.719,
+            51.972
+          ],
+          "category": "gastro",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie ein 'Uitsmijter' in einem lokalen Restaurant für ein authentisches niederländisches Mittagessen.",
+            "hu": "Kóstoljon meg egy 'Uitsmijter'-t egy helyi étteremben egy autentikus holland ebédért.",
+            "ro": "Încercați un 'Uitsmijter' la un restaurant local pentru un prânz olandez autentic.",
+            "en": "Try an 'Uitsmijter' at a local restaurant for an authentic Dutch lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Strandbad Winterswijk",
+            "hu": "Winterswijki strandfürdő",
+            "ro": "Ștrandul Winterswijk",
+            "en": "Strandbad Winterswijk"
+          },
+          "coords": [
+            6.705,
+            51.968
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:40",
+          "stay_min": 110,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang, um den Tag entspannt ausklingen zu lassen, auch außerhalb der Badesaison.",
+            "hu": "Egy kellemes séta a nap pihentető befejezéséhez, még a fürdési szezonon kívül is.",
+            "ro": "O plimbare plăcută pentru a încheia ziua într-un mod relaxant, chiar și în afara sezonului de înot.",
+            "en": "A lovely walk to end the day in a relaxed way, even outside the swimming season."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang am Lappenbrink, dem lebhaften Herzen von Winterswijk. Am Morgen erkunden Sie das historische Zentrum mit der imposanten Jacobskerk und dem Museum Villa Mondriaan, das dem jungen Piet Mondrian gewidmet ist. Mittags genießen Sie lokale Spezialitäten in einem der vielen gemütlichen Restaurants im Stadtzentrum. Der Nachmittag führt Sie auf einem entspannten Spaziergang zum Strandbad Winterswijk, einem wunderschönen Ort, um die Natur zu genießen und den Tag ausklingen zu lassen. Dieser Spaziergang bietet eine perfekte Mischung aus Kultur, Geschichte und Erholung.",
+        "hu": "Kezdje a gyalogtúrát a Lappenbrinken, Winterswijk nyüzsgő szívében. Délelőtt fedezze fel a történelmi központot a lenyűgöző Jacobskerk-kel és a fiatal Piet Mondriannak szentelt Villa Mondriaan Múzeummal. Délben élvezze a helyi specialitásokat a városközpont egyik hangulatos éttermében. A délután egy pihentető sétával a Strandbad Winterswijkhez vezet, egy gyönyörű hely a természet élvezetére és a nap befejezésére. Ez a séta tökéletes keveréke a kultúrának, a történelemnek és a pihenésnek.",
+        "ro": "Începeți turul pietonal la Lappenbrink, inima vibrantă a Winterswijk. Dimineața explorați centrul istoric cu impunătoarea Jacobskerk și Muzeul Vila Mondriaan, dedicat tânărului Piet Mondrian. La prânz, savurați specialități locale într-unul dintre multele restaurante primitoare din centrul orașului. După-amiaza vă poartă într-o plimbare relaxantă spre Strandbad Winterswijk, un loc frumos pentru a vă bucura de natură și a încheia ziua. Această plimbare oferă un amestec perfect de cultură, istorie și relaxare.",
+        "en": "Start your walking tour at Lappenbrink, the vibrant heart of Winterswijk. In the morning, explore the historic center with the imposing Jacobskerk and the Museum Villa Mondriaan, dedicated to the young Piet Mondrian. At noon, enjoy local specialties in one of the many cozy restaurants in the city center. The afternoon takes you on a relaxing walk to Strandbad Winterswijk, a beautiful place to enjoy nature and end the day. This walk offers a perfect blend of culture, history, and relaxation."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Stamppot",
+            "tip": "Ein herzhaftes traditionelles Gericht, perfekt nach einem langen Spaziergang."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Kleine, flauschige Pfannkuchen, die oft mit Puderzucker serviert werden."
+          },
+          {
+            "name": "Haring",
+            "tip": "Roher Hering mit Zwiebeln, ein Muss für Abenteuerlustige."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stamppot",
+            "tip": "Egy kiadós, hagyományos étel, tökéletes egy hosszú séta után."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Apró, puha palacsinták, gyakran porcukorral tálalva."
+          },
+          {
+            "name": "Haring",
+            "tip": "Nyers hering hagymával, kötelező a kalandvágyóknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stamppot",
+            "tip": "Un fel de mâncare tradițional consistent, perfect după o plimbare lungă."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Clătite mici și pufoase, adesea servite cu zahăr pudră."
+          },
+          {
+            "name": "Haring",
+            "tip": "Hering crud cu ceapă, o necesitate pentru cei aventuroși."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stamppot",
+            "tip": "A hearty traditional dish, perfect after a long walk."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Small, fluffy pancakes, often served with powdered sugar."
+          },
+          {
+            "name": "Haring",
+            "tip": "Raw herring with onions, a must-try for the adventurous."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bekendelle",
+            "tip": "Ein ruhiger Spaziergang durch diesen alten Wald entlang des Baches.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Hilgelo-Sees",
+            "tip": "Finden Sie eine ruhige Bank, um die Vögel und das Wasser zu beobachten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Garten der Villa Mondriaan",
+            "tip": "Ein friedlicher Ort der Reflexion im Museumsgelände.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bekendelle",
+            "tip": "Egy csendes séta ebben az ősi erdőben a patak mentén."
+          },
+          {
+            "name": "Hilgelo-tó partja",
+            "tip": "Keressen egy csendes padot a madarak és a víz figyeléséhez."
+          },
+          {
+            "name": "Villa Mondriaan kertje",
+            "tip": "Egy békés hely az elmélkedésre a múzeum területén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bekendelle",
+            "tip": "O plimbare liniștită prin această pădure veche de-a lungul pârâului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malul lacului Hilgelo",
+            "tip": "Găsiți o bancă liniștită pentru a privi păsările și apa.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Vilei Mondriaan",
+            "tip": "Un loc pașnic pentru reflecție în incinta muzeului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bekendelle",
+            "tip": "A quiet walk through this ancient forest along the stream.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Shore of Lake Hilgelo",
+            "tip": "Find a quiet bench to watch the birds and the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Garden of Villa Mondriaan",
+            "tip": "A peaceful spot for reflection within the museum grounds.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Kaufen Sie Käse, frische Produkte und lokale Handwerksprodukte auf dem Markt am Samstag."
+          },
+          {
+            "name": "Lokale Boutiquen",
+            "tip": "Entdecken Sie einzigartige Kleidung und Geschenke in den kleinen Geschäften rund um das Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Vásároljon sajtot, friss termékeket és helyi kézműves termékeket a szombati piacon."
+          },
+          {
+            "name": "Helyi butikok",
+            "tip": "Fedezzen fel egyedi ruhákat és ajándékokat a központ körüli kis üzletekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Cumpărați brânză, produse proaspete și artizanat local de la piața de sâmbătă."
+          },
+          {
+            "name": "Buticuri locale",
+            "tip": "Descoperiți haine și cadouri unice în micile magazine din jurul centrului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Shop for cheese, fresh produce, and local crafts at the Saturday market."
+          },
+          {
+            "name": "Local Boutiques",
+            "tip": "Discover unique clothing and gifts in the small shops around the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster im Zentrum uneben sein kann.",
+          "Die meisten Geschäfte schließen gegen 18:00 Uhr, also planen Sie Ihren Einkaufsbummel entsprechend.",
+          "Ein Regenschirm ist immer eine gute Idee in den Niederlanden, auch an sonnigen Tagen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakövek a központban egyenetlenek lehetnek.",
+          "A legtöbb üzlet 18:00 óra körül bezár, ezért tervezze meg a vásárlást ennek megfelelően.",
+          "Egy esernyő mindig jó ötlet Hollandiában, még napos napokon is."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din centru poate fi denivelat.",
+          "Majoritatea magazinelor se închid în jurul orei 18:00, așa că planificați-vă cumpărăturile în consecință.",
+          "O umbrelă este întotdeauna o idee bună în Olanda, chiar și în zilele însorite."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the center can be uneven.",
+          "Most shops close around 6 PM, so plan your shopping accordingly.",
+          "An umbrella is always a good idea in the Netherlands, even on sunny days."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 18.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Lappenbrink & Jacobskerk",
+            "hu": "Lappenbrink & Szent Jakab-templom",
+            "ro": "Lappenbrink & Biserica Sf. Iacob",
+            "en": "Lappenbrink & St. Jacob's Church"
+          },
+          "coords": [
+            6.718,
+            51.972
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und erkunden Sie den zentralen Platz und die Kirche zu Fuß.",
+            "hu": "Parkolja le a kerékpárt, és fedezze fel a központi teret és a templomot gyalog.",
+            "ro": "Parcați bicicleta și explorați piața centrală și biserica pe jos.",
+            "en": "Park your bike and explore the central square and the church on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Villa Mondriaan",
+            "hu": "Villa Mondriaan Múzeum",
+            "ro": "Muzeul Vila Mondriaan",
+            "en": "Museum Villa Mondriaan"
+          },
+          "coords": [
+            6.72,
+            51.975
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Das Museum, in dem Mondrian seine Kindheit verbrachte. Es gibt Fahrradständer in der Nähe.",
+            "hu": "A múzeum, ahol Mondrian a gyermekkorát töltötte. A közelben kerékpártárolók találhatók.",
+            "ro": "Muzeul unde Mondrian și-a petrecut copilăria. Există suporturi pentru biciclete în apropiere.",
+            "en": "The museum where Mondrian spent his childhood. There are bike racks nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Sevink Molen",
+            "hu": "Sevink-malom",
+            "ro": "Moara Sevink",
+            "en": "Sevink Mill"
+          },
+          "coords": [
+            6.745,
+            51.963
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine funktionierende Mühle, in der man oft Pfannkuchen aus dem eigenen Mehl essen kann.",
+            "hu": "Egy működő malom, ahol gyakran lehet enni a saját lisztjükből készült palacsintát.",
+            "ro": "O moară funcțională unde puteți mânca adesea clătite făcute din făina lor.",
+            "en": "A working mill where you can often eat pancakes made from their own flour."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen bei der Mühle",
+            "hu": "Ebéd a malomnál",
+            "ro": "Prânz la moară",
+            "en": "Lunch at the Mill"
+          },
+          "coords": [
+            6.746,
+            51.963
+          ],
+          "category": "gastro",
+          "arrive_at": "12:40",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Pfannkuchen oder ein Sandwich mit Blick auf die Mühle.",
+            "hu": "Élvezze a palacsintát vagy egy szendvicset a malomra néző kilátással.",
+            "ro": "Bucurați-vă de clătite sau de un sandviș cu vedere la moară.",
+            "en": "Enjoy the pancakes or a sandwich with a view of the mill."
+          }
+        },
+        {
+          "name": {
+            "de": "Hilgelo",
+            "hu": "Hilgelo",
+            "ro": "Hilgelo",
+            "en": "Hilgelo"
+          },
+          "coords": [
+            6.68,
+            51.978
+          ],
+          "category": "natural features",
+          "arrive_at": "14:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein Erholungsgebiet mit einem See. Perfekt für eine Pause und einen Spaziergang.",
+            "hu": "Egy tóval rendelkező üdülőterület. Tökéletes egy kis szünetre és sétára.",
+            "ro": "O zonă de agrement cu un lac. Perfect pentru o pauză și o plimbare.",
+            "en": "A recreational area with a lake. Perfect for a break and a stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Bekendelle",
+            "hu": "Bekendelle",
+            "ro": "Bekendelle",
+            "en": "Bekendelle"
+          },
+          "coords": [
+            6.73,
+            51.945
+          ],
+          "category": "natural features",
+          "arrive_at": "16:25",
+          "stay_min": 65,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radeln Sie durch diesen schönen Wald für eine letzte Dosis Natur, bevor Sie in die Stadt zurückkehren.",
+            "hu": "Tekerjen át ezen a gyönyörű erdőn egy utolsó adag természetért, mielőtt visszatérne a városba.",
+            "ro": "Pedalați prin această pădure frumoasă pentru o ultimă doză de natură înainte de a vă întoarce în oraș.",
+            "en": "Cycle through this beautiful forest for a final dose of nature before returning to town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Winterswijk und seine Umgebung sind perfekt für eine Fahrradtour. Starten Sie im Zentrum, um die Atmosphäre am Lappenbrink aufzusaugen und das Mondrian-Museum zu besuchen. Am Vormittag radeln Sie zur historischen Sevink-Mühle, wo Sie zu Mittag essen können. Am Nachmittag führt Sie die Tour durch die malerische Landschaft zum Erholungsgebiet Hilgelo und durch den alten Wald von Bekendelle. Diese Route kombiniert kulturelle Highlights mit dem Besten der niederländischen Natur und Landschaft.",
+        "hu": "Winterswijk és környéke tökéletes egy kerékpártúrához. Induljon a központból, hogy magába szívja a Lappenbrink hangulatát és meglátogassa a Mondrian Múzeumot. Délelőtt tekerjen el a történelmi Sevink-malomhoz, ahol ebédelhet is. Délután a túra a festői tájon keresztül a Hilgelo üdülőterülethez és a Bekendelle ősi erdején át vezet. Ez az útvonal a kulturális nevezetességeket a holland természet és táj legjavával ötvözi.",
+        "ro": "Winterswijk și împrejurimile sale sunt perfecte pentru un tur cu bicicleta. Porniți din centru pentru a absorbi atmosfera din Lappenbrink și pentru a vizita Muzeul Mondrian. Dimineața pedalați spre istorica Moară Sevink, unde puteți lua și prânzul. După-amiaza, turul vă duce prin peisajul pitoresc la zona de agrement Hilgelo și prin pădurea veche din Bekendelle. Acest traseu combină atracțiile culturale cu cele mai bune aspecte ale naturii și peisajului olandez.",
+        "en": "Winterswijk and its surroundings are perfect for a bike tour. Start in the center to soak up the atmosphere at Lappenbrink and visit the Mondrian Museum. In the morning, cycle to the historic Sevink Mill, where you can also have lunch. In the afternoon, the tour takes you through the picturesque landscape to the Hilgelo recreational area and through the ancient forest of Bekendelle. This route combines cultural highlights with the best of Dutch nature and scenery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pfannkuchen bei der Mühle",
+            "tip": "Ein Muss, wenn Sie bei der Sevink Molen sind."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Fragen Sie nach einem Bier aus einer regionalen Brauerei, um Ihren Durst zu stillen."
+          },
+          {
+            "name": "Appeltaart",
+            "tip": "Holländischer Apfelkuchen mit Schlagsahne ist der perfekte Muntermacher am Nachmittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palacsinta a malomnál",
+            "tip": "Kötelező, ha a Sevink Molennél jár."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Kérjen egy sört egy regionális sörfőzdéből a szomjúság oltására."
+          },
+          {
+            "name": "Appeltaart",
+            "tip": "A holland almatorta tejszínhabbal tökéletes délutáni feltöltődés."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Clătite la moară",
+            "tip": "O necesitate când sunteți la Sevink Molen."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "Cereți o bere de la o fabrică de bere regională pentru a vă potoli setea."
+          },
+          {
+            "name": "Appeltaart",
+            "tip": "Plăcinta de mere olandeză cu frișcă este energizantul perfect pentru după-amiază."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pancakes at the mill",
+            "tip": "A must-try when you are at the Sevink Molen."
+          },
+          {
+            "name": "Local beer",
+            "tip": "Ask for a beer from a regional brewery to quench your thirst."
+          },
+          {
+            "name": "Appeltaart",
+            "tip": "Dutch apple pie with whipped cream is the perfect afternoon pick-me-up."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bekendelle Waldweg",
+            "tip": "Eine ruhige Fahrt unter einem Blätterdach.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hilgelo See",
+            "tip": "Halten Sie an und genießen Sie die Stille des Wassers.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Feldwege",
+            "tip": "Die Landschaft um Winterswijk ist durchzogen von ruhigen Wegen, die sich perfekt zum Radfahren eignen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bekendelle erdei ösvény",
+            "tip": "Csendes tekerés a fák lombkoronája alatt."
+          },
+          {
+            "name": "Hilgelo-tó",
+            "tip": "Álljon meg és élvezze a víz csendjét."
+          },
+          {
+            "name": "Mezei utak",
+            "tip": "Winterswijk környékét csendes utak hálózzák be, amelyek tökéletesek a kerékpározáshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Potecă forestieră Bekendelle",
+            "tip": "O plimbare liniștită sub un baldachin de frunze.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Lacul Hilgelo",
+            "tip": "Opriți-vă și bucurați-vă de liniștea apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Drumuri de țară",
+            "tip": "Peisajul rural din jurul Winterswijk este brăzdat de poteci liniștite, perfecte pentru ciclism.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bekendelle forest path",
+            "tip": "A quiet ride under a canopy of leaves.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Lake Hilgelo",
+            "tip": "Stop and enjoy the tranquility of the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Country lanes",
+            "tip": "The countryside around Winterswijk is crisscrossed with quiet lanes perfect for cycling.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Halten Sie Ausschau nach Schildern für 'te koop' (zu verkaufen) auf Bauernhöfen, wo Sie Eier, Marmelade oder Honig kaufen können."
+          },
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Besorgen Sie sich eine gute Karte der lokalen 'knooppunten' (Knotenpunkte) Radwege."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok",
+            "tip": "Figyelje a 'te koop' (eladó) táblákat a gazdaságoknál, ahol tojást, lekvárt vagy mézet vásárolhat."
+          },
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Szerezzen be egy jó térképet a helyi 'knooppunten' (csomópontok) kerékpárutakról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de fermă",
+            "tip": "Fiți atenți la semnele 'te koop' (de vânzare) la ferme, de unde puteți cumpăra ouă, gem sau miere."
+          },
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Obțineți o hartă bună a traseelor de ciclism locale 'knooppunten' (noduri)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops",
+            "tip": "Look out for 'te koop' (for sale) signs at farms where you can buy eggs, jam or honey."
+          },
+          {
+            "name": "Bike shop",
+            "tip": "Get a good map of the local 'knooppunten' (junctions) cycle routes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad mit Gängen, da einige Teile der Landschaft hügelig sein können.",
+          "Folgen Sie dem 'knooppunten'-System für eine einfache Navigation.",
+          "Nehmen Sie Wasser und Snacks mit, da die Geschäfte außerhalb des Zentrums rar sind.",
+          "Prüfen Sie den Wetterbericht; das Wetter kann sich schnell ändern."
+        ],
+        "hu": [
+          "Béreljen sebességváltós kerékpárt, mivel a táj egyes részei dombosak lehetnek.",
+          "Kövesse a 'knooppunten' rendszert az egyszerű navigáció érdekében.",
+          "Vigyen magával vizet és harapnivalókat, mivel a központon kívül kevés az üzlet.",
+          "Ellenőrizze az időjárás-előrejelzést; az időjárás gyorsan változhat."
+        ],
+        "ro": [
+          "Închiriați o bicicletă cu viteze, deoarece unele părți ale peisajului pot fi deluroase.",
+          "Urmați sistemul 'knooppunten' pentru o navigare ușoară.",
+          "Luați apă și gustări, deoarece magazinele sunt rare în afara centrului.",
+          "Verificați prognoza meteo; vremea se poate schimba rapid."
+        ],
+        "en": [
+          "Rent a bike with gears as some parts of the landscape can be hilly.",
+          "Follow the 'knooppunten' system for easy navigation.",
+          "Bring water and snacks, as shops are scarce outside the center.",
+          "Check the weather forecast; the weather can change quickly."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 25.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken und Start im Zentrum",
+            "hu": "Parkolás és indulás a központban",
+            "ro": "Parcare și start în centru",
+            "en": "Park and Start in the Center"
+          },
+          "coords": [
+            6.715,
+            51.971
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto in der Nähe des Zentrums. Der erste Cluster wird zu Fuß erkundet.",
+            "hu": "Parkolja le autóját a központ közelében. Az első klasztert gyalog fedezzük fel.",
+            "ro": "Parcați mașina lângă centru. Primul cluster va fi explorat pe jos.",
+            "en": "Park your car near the center. The first cluster will be explored on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Lappenbrink & Jacobskerk",
+            "hu": "Lappenbrink & Szent Jakab-templom",
+            "ro": "Lappenbrink & Biserica Sf. Iacob",
+            "en": "Lappenbrink & St. Jacob's Church"
+          },
+          "coords": [
+            6.718,
+            51.972
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie über den Platz und besuchen Sie die Kirche, das Herz der Stadt.",
+            "hu": "Sétáljon át a téren és látogassa meg a templomot, a város szívét.",
+            "ro": "Plimbați-vă prin piață și vizitați biserica, inima orașului.",
+            "en": "Stroll across the square and visit the church, the heart of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Villa Mondriaan",
+            "hu": "Villa Mondriaan Múzeum",
+            "ro": "Muzeul Vila Mondriaan",
+            "en": "Museum Villa Mondriaan"
+          },
+          "coords": [
+            6.72,
+            51.975
+          ],
+          "category": "museums",
+          "arrive_at": "10:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz entfernt, entdecken Sie die Wurzeln des De Stijl.",
+            "hu": "Egy rövid sétára a tértől, fedezze fel a De Stijl gyökereit.",
+            "ro": "La o scurtă plimbare de piață, descoperiți rădăcinile De Stijl.",
+            "en": "A short walk from the square, discover the roots of De Stijl."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und zurück zum Auto",
+            "hu": "Ebéd és vissza az autóhoz",
+            "ro": "Prânz și înapoi la mașină",
+            "en": "Lunch and back to the car"
+          },
+          "coords": [
+            6.716,
+            51.972
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie ein Mittagessen, bevor Sie zum nächsten Cluster fahren.",
+            "hu": "Ebédeljen egyet, mielőtt a következő klaszterhez hajtana.",
+            "ro": "Luați prânzul înainte de a conduce la următorul cluster.",
+            "en": "Enjoy lunch before you drive to the next cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Steengroeve Winterswijk",
+            "hu": "Winterswijki kőbánya",
+            "ro": "Cariera Winterswijk",
+            "en": "Winterswijk Quarry"
+          },
+          "coords": [
+            6.75,
+            51.98
+          ],
+          "category": "natural features",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein einzigartiges geologisches Denkmal. Überprüfen Sie die Öffnungszeiten und Zugangsregeln.",
+            "hu": "Egyedülálló geológiai emlék. Ellenőrizze a nyitvatartási időt és a belépési szabályokat.",
+            "ro": "Un monument geologic unic. Verificați programul și regulile de acces.",
+            "en": "A unique geological monument. Check opening times and access rules."
+          }
+        },
+        {
+          "name": {
+            "de": "Hilgelo",
+            "hu": "Hilgelo",
+            "ro": "Hilgelo",
+            "en": "Hilgelo"
+          },
+          "coords": [
+            6.68,
+            51.978
+          ],
+          "category": "natural features",
+          "arrive_at": "15:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 14.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie und machen Sie einen Spaziergang um den See, um frische Luft zu schnappen.",
+            "hu": "Parkoljon le, és sétáljon egyet a tó körül, hogy friss levegőt szívjon.",
+            "ro": "Parcați și faceți o plimbare în jurul lacului pentru o gură de aer proaspăt.",
+            "en": "Park up and take a walk around the lake for some fresh air."
+          }
+        },
+        {
+          "name": {
+            "de": "Sevink Molen",
+            "hu": "Sevink-malom",
+            "ro": "Moara Sevink",
+            "en": "Sevink Mill"
+          },
+          "coords": [
+            6.745,
+            51.963
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp für ein Foto und vielleicht einen schnellen Pfannkuchen vor der Abreise.",
+            "hu": "Egy rövid megálló egy fotóra és talán egy gyors palacsintára indulás előtt.",
+            "ro": "O oprire scurtă pentru o fotografie și poate o clătită rapidă înainte de plecare.",
+            "en": "A quick stop for a photo and maybe a quick pancake before leaving."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie die Vielfalt von Winterswijk und Umgebung entdecken. Am Morgen parken Sie im Zentrum und erkunden zu Fuß den historischen Kern mit dem Lappenbrink und dem Mondrian-Museum (Cluster 1). Nach dem Mittagessen fahren Sie zur beeindruckenden Steengroeve (Cluster 2), einem geologischen Highlight. Der Nachmittag steht im Zeichen der Naturerholung: Fahren Sie zum Hilgelo-See für einen Spaziergang und beenden Sie den Tag mit einem kurzen Besuch der Sevink-Mühle (Cluster 3). Diese Tour verbindet Stadtkultur mit einzigartigen Natur- und Industriedenkmälern der Region.",
+        "hu": "Autóval felfedezheti Winterswijk és környékének sokszínűségét. Reggel parkoljon le a központban, és fedezze fel gyalog a történelmi magot a Lappenbrinkkel és a Mondrian Múzeummal (1. klaszter). Ebéd után hajtson el a lenyűgöző Steengroevéhez (2. klaszter), egy geológiai nevezetességhez. A délután a természeti kikapcsolódásé: autózzon el a Hilgelo-tóhoz egy sétára, és fejezze be a napot egy rövid látogatással a Sevink-malomnál (3. klaszter). Ez a túra ötvözi a városi kultúrát a régió egyedi természeti és ipari emlékeivel.",
+        "ro": "Cu mașina puteți descoperi diversitatea din Winterswijk și împrejurimile sale. Dimineața, parcați în centru și explorați pe jos nucleul istoric cu Lappenbrink și Muzeul Mondrian (Cluster 1). După prânz, conduceți spre impresionanta Steengroeve (Cluster 2), un punct de atracție geologic. După-amiaza este dedicată recreerii în natură: mergeți la lacul Hilgelo pentru o plimbare și încheiați ziua cu o scurtă vizită la Moara Sevink (Cluster 3). Acest tur combină cultura urbană cu monumente naturale și industriale unice din regiune.",
+        "en": "By car, you can discover the diversity of Winterswijk and its surroundings. In the morning, park in the center and explore the historic core on foot with Lappenbrink and the Mondrian Museum (Cluster 1). After lunch, drive to the impressive Steengroeve (Cluster 2), a geological highlight. The afternoon is for nature recreation: drive to Lake Hilgelo for a walk and end the day with a brief visit to the Sevink Mill (Cluster 3). This tour combines urban culture with the region's unique natural and industrial monuments."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Wildgerichte",
+            "tip": "In der Saison (Herbst) bieten viele Restaurants in der Region köstliche Wildgerichte an."
+          },
+          {
+            "name": "Regionale Käsesorten",
+            "tip": "Besuchen Sie einen Bauernhofladen, um handwerklich hergestellten Käse zu kaufen."
+          },
+          {
+            "name": "Korenwijn",
+            "tip": "Ein traditioneller niederländischer Getreidebrand, der in der Region genossen wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vadhúsételek",
+            "tip": "A szezonban (ősz) a régió számos étterme kínál ízletes vadhúsételeket."
+          },
+          {
+            "name": "Regionális sajtok",
+            "tip": "Látogasson el egy tanyasi boltba, hogy kézműves sajtot vásároljon."
+          },
+          {
+            "name": "Korenwijn",
+            "tip": "Hagyományos holland gabonapárlat, amelyet a régióban fogyasztanak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mâncăruri de vânat",
+            "tip": "În sezon (toamna), multe restaurante din regiune oferă mâncăruri delicioase de vânat."
+          },
+          {
+            "name": "Brânzeturi regionale",
+            "tip": "Vizitați un magazin de fermă pentru a cumpăra brânză artizanală."
+          },
+          {
+            "name": "Korenwijn",
+            "tip": "O băutură spirtoasă tradițională olandeză din cereale, savurată în regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Game dishes",
+            "tip": "In season (autumn), many restaurants in the region offer delicious game dishes."
+          },
+          {
+            "name": "Regional cheeses",
+            "tip": "Visit a farm shop to buy artisanal cheese."
+          },
+          {
+            "name": "Korenwijn",
+            "tip": "A traditional Dutch grain spirit enjoyed in the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Steengroeve",
+            "tip": "Genießen Sie den weiten Blick über die einzigartige Landschaft des Steinbruchs.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spaziergang um den Hilgelo-See",
+            "tip": "Ein einfacher, flacher Weg, der sich perfekt für eine ruhige Pause eignet.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Fahrt durch die Landschaft",
+            "tip": "Die ruhigen Landstraßen zwischen den Sehenswürdigkeiten sind eine Attraktion für sich.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Steengroeve kilátópont",
+            "tip": "Élvezze a kőbánya egyedülálló tájára nyíló széles kilátást."
+          },
+          {
+            "name": "Séta a Hilgelo-tó körül",
+            "tip": "Egy könnyű, sík ösvény, amely tökéletes egy csendes pihenőhöz."
+          },
+          {
+            "name": "Autózás a tájon",
+            "tip": "A látnivalók közötti csendes vidéki utak önmagukban is vonzerőt jelentenek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Steengroeve",
+            "tip": "Bucurați-vă de vederea panoramică asupra peisajului unic al carierei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plimbare în jurul lacului Hilgelo",
+            "tip": "O potecă ușoară și plată, perfectă pentru o pauză liniștită."
+          },
+          {
+            "name": "Condus prin peisaj",
+            "tip": "Drumurile de țară liniștite dintre obiective sunt o atracție în sine.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Steengroeve viewpoint",
+            "tip": "Enjoy the wide view over the unique landscape of the quarry.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Walk around Lake Hilgelo",
+            "tip": "An easy, flat path perfect for a quiet break."
+          },
+          {
+            "name": "Driving through the countryside",
+            "tip": "The quiet country roads between the sights are an attraction in themselves.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Halten Sie Ausschau nach Hofläden, die alles von Eiern bis zu lokalem Fleisch verkaufen."
+          },
+          {
+            "name": "Antiquitätenläden",
+            "tip": "Die Region Achterhoek ist bekannt für ihre 'Brocante'- und Antiquitätenläden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok",
+            "tip": "Keresse a tanyasi boltokat, ahol a tojástól a helyi húsig mindent árulnak."
+          },
+          {
+            "name": "Antikváriumok",
+            "tip": "Az Achterhoek régió ismert a 'Brocante' és antikváriumairól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de fermă",
+            "tip": "Căutați magazine de fermă care vând de la ouă la carne locală."
+          },
+          {
+            "name": "Magazine de antichități",
+            "tip": "Regiunea Achterhoek este cunoscută pentru magazinele sale 'Brocante' și de antichități."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops",
+            "tip": "Look out for farm shops selling everything from eggs to local meat."
+          },
+          {
+            "name": "Antique stores",
+            "tip": "The Achterhoek region is known for its 'Brocante' and antique stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken im Zentrum ist kostenpflichtig. Eine 'blauwe schijf' (blaue Parkscheibe) kann für Kurzzeitparken erforderlich sein.",
+          "Die Steengroeve hat eingeschränkte Öffnungszeiten; überprüfen Sie diese unbedingt im Voraus.",
+          "Tankstellen können in ländlichen Gebieten selten sein, also planen Sie voraus."
+        ],
+        "hu": [
+          "A parkolás a központban fizetős. Rövid távú parkoláshoz 'blauwe schijf' (kék parkolótárcsa) lehet szükséges.",
+          "A Steengroeve korlátozott nyitvatartással rendelkezik; ezt mindenképpen ellenőrizze előre.",
+          "A benzinkutak ritkák lehetnek a vidéki területeken, ezért tervezzen előre."
+        ],
+        "ro": [
+          "Parcarea în centru este contra cost. Un 'blauwe schijf' (disc de parcare albastru) poate fi necesar pentru parcarea pe termen scurt.",
+          "Steengroeve are program de funcționare limitat; asigurați-vă că îl verificați în avans.",
+          "Benzinăriile pot fi rare în zonele rurale, așa că planificați din timp."
+        ],
+        "en": [
+          "Parking in the center is paid. A 'blauwe schijf' (blue parking disc) may be required for short-term parking.",
+          "The Steengroeve has limited opening hours; be sure to check in advance.",
+          "Gas stations can be scarce in rural areas, so plan ahead."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof und Spaziergang ins Zentrum",
+            "hu": "Érkezés az állomásra és séta a központba",
+            "ro": "Sosire la gară și plimbare spre centru",
+            "en": "Arrival at the station and walk to the center"
+          },
+          "coords": [
+            6.719,
+            51.97
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einem kurzen Spaziergang vom Bahnhof zum Lappenbrink.",
+            "hu": "Kezdje a napot egy rövid sétával az állomástól a Lappenbrinkig.",
+            "ro": "Începeți ziua cu o scurtă plimbare de la gară la Lappenbrink.",
+            "en": "Start your day with a short walk from the station to Lappenbrink."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentrum Cluster: Lappenbrink & Museum Mondriaan",
+            "hu": "Központ Klaszter: Lappenbrink & Mondriaan Múzeum",
+            "ro": "Cluster Centru: Lappenbrink & Muzeul Mondriaan",
+            "en": "Center Cluster: Lappenbrink & Mondriaan Museum"
+          },
+          "coords": [
+            6.718,
+            51.974
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den Marktplatz, die Kirche und das Museum zu Fuß.",
+            "hu": "Fedezze fel a piacteret, a templomot és a múzeumot gyalog.",
+            "ro": "Explorați piața, biserica și muzeul pe jos.",
+            "en": "Explore the market square, the church, and the museum on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Busfahrt",
+            "hu": "Ebéd és buszozás",
+            "ro": "Prânz și călătorie cu autobuzul",
+            "en": "Lunch and Bus Ride"
+          },
+          "coords": [
+            6.717,
+            51.972
+          ],
+          "category": "gastro",
+          "arrive_at": "11:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Essen Sie im Zentrum zu Mittag, bevor Sie den Bus zum nächsten Ziel nehmen.",
+            "hu": "Ebédeljen a központban, mielőtt busszal indulna a következő úti célhoz.",
+            "ro": "Luați prânzul în centru înainte de a lua autobuzul spre următoarea destinație.",
+            "en": "Have lunch in the center before taking the bus to the next destination."
+          }
+        },
+        {
+          "name": {
+            "de": "Hilgelo",
+            "hu": "Hilgelo",
+            "ro": "Hilgelo",
+            "en": "Hilgelo"
+          },
+          "coords": [
+            6.68,
+            51.978
+          ],
+          "category": "natural features",
+          "arrive_at": "13:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in Richtung Hilgelo und genießen Sie einen langen Spaziergang am See.",
+            "hu": "Menjen busszal a Hilgelo felé, és tegyen egy hosszú sétát a tónál.",
+            "ro": "Luați un autobuz spre Hilgelo și bucurați-vă de o plimbare lungă pe malul lacului.",
+            "en": "Take a bus towards Hilgelo and enjoy a long walk by the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum und Abreise",
+            "hu": "Visszatérés a központba és indulás",
+            "ro": "Întoarcere în centru și plecare",
+            "en": "Return to center and departure"
+          },
+          "coords": [
+            6.719,
+            51.97
+          ],
+          "category": "transport",
+          "arrive_at": "15:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück ins Zentrum für einen letzten Kaffee, bevor Sie abreisen.",
+            "hu": "Menjen vissza busszal a központba egy utolsó kávéra indulás előtt.",
+            "ro": "Luați autobuzul înapoi în centru pentru o ultimă cafea înainte de a pleca.",
+            "en": "Take the bus back to the center for a final coffee before you depart."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auch mit öffentlichen Verkehrsmitteln lässt sich Winterswijk gut erkunden. Beginnen Sie am Bahnhof und spazieren Sie ins Zentrum, um den Vormittag im historischen Kern mit dem Mondrian-Museum zu verbringen (Cluster 1). Nach dem Mittagessen nehmen Sie einen lokalen Bus, der Sie in die Nähe des Erholungsgebiets Hilgelo bringt (Cluster 2). Verbringen Sie den Nachmittag mit einem Spaziergang um den See und genießen Sie die Natur. Anschließend fahren Sie mit dem Bus zurück ins Zentrum, wo Sie den Tag ausklingen lassen können, bevor Sie Ihre Rückreise antreten. Dies ist eine entspannte Art, Stadt und Land zu kombinieren.",
+        "hu": "Winterswijk tömegközlekedéssel is jól felfedezhető. Kezdje az állomáson, és sétáljon be a központba, hogy a délelőttöt a történelmi magban, a Mondrian Múzeumban töltse (1. klaszter). Ebéd után szálljon fel egy helyi buszra, amely a Hilgelo üdülőterület közelébe viszi (2. klaszter). Töltse a délutánt egy tóparti sétával és élvezze a természetet. Ezután busszal térjen vissza a központba, ahol befejezheti a napot, mielőtt hazaindulna. Ez egy pihentető módja a város és a vidék ötvözésének.",
+        "ro": "Winterswijk poate fi explorat și cu transportul public. Începeți de la gară și mergeți pe jos până în centru pentru a petrece dimineața în nucleul istoric cu Muzeul Mondrian (Cluster 1). După prânz, luați un autobuz local care vă va duce în apropierea zonei de agrement Hilgelo (Cluster 2). Petreceți după-amiaza cu o plimbare în jurul lacului, bucurându-vă de natură. Apoi, luați autobuzul înapoi în centru, unde puteți încheia ziua înainte de a pleca. Acesta este un mod relaxant de a combina orașul și natura.",
+        "en": "Winterswijk is also easy to explore by public transport. Start at the station and walk into the center to spend the morning in the historic core with the Mondrian Museum (Cluster 1). After lunch, take a local bus that will take you near the Hilgelo recreational area (Cluster 2). Spend the afternoon with a walk around the lake, enjoying nature. Afterwards, take the bus back to the center, where you can end the day before you depart. This is a relaxed way to combine city and country."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Broodje",
+            "tip": "Ein belegtes Brötchen ist ein schnelles und leckeres Mittagessen, das Sie in jeder Bäckerei finden."
+          },
+          {
+            "name": "Vlaai",
+            "tip": "Probieren Sie ein Stück dieses Limburger Obstkuchens, der in der ganzen Niederlande beliebt ist."
+          },
+          {
+            "name": "Koffie verkeerd",
+            "tip": "Wörtlich 'falscher Kaffee', ist im Grunde ein Latte Macchiato und sehr beliebt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Broodje",
+            "tip": "Egy szendvics gyors és finom ebéd, amelyet minden pékségben megtalál."
+          },
+          {
+            "name": "Vlaai",
+            "tip": "Kóstolja meg ezt a limburgi gyümölcskenyeret, amely egész Hollandiában népszerű."
+          },
+          {
+            "name": "Koffie verkeerd",
+            "tip": "Szó szerint 'rossz kávé', alapvetően egy latte macchiato és nagyon népszerű."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Broodje",
+            "tip": "Un sandviș este un prânz rapid și delicios pe care îl puteți găsi la orice brutărie."
+          },
+          {
+            "name": "Vlaai",
+            "tip": "Încercați o felie din această plăcintă cu fructe din Limburg, populară în toată Olanda."
+          },
+          {
+            "name": "Koffie verkeerd",
+            "tip": "Literal 'cafea greșită', este practic un latte macchiato și foarte popular."
+          }
+        ],
+        "en": [
+          {
+            "name": "Broodje",
+            "tip": "A sandwich is a quick and delicious lunch that you can find in any bakery."
+          },
+          {
+            "name": "Vlaai",
+            "tip": "Try a slice of this Limburg fruit pie, popular throughout the Netherlands."
+          },
+          {
+            "name": "Koffie verkeerd",
+            "tip": "Literally 'wrong coffee', is basically a latte macchiato and very popular."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof neben der Jacobskerk",
+            "tip": "Ein überraschend ruhiger und historischer Ort im Herzen der Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Eine Bank am Hilgelo-See",
+            "tip": "Perfekt, um zu sitzen und die Ruhe nach der Busfahrt zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ein ruhiges Café",
+            "tip": "Suchen Sie sich ein Café in einer Seitenstraße für eine Pause vom Trubel.",
+            "emoji": "☕"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Jacobskerk melletti temető",
+            "tip": "Meglepően csendes és történelmi hely a város szívében."
+          },
+          {
+            "name": "Egy pad a Hilgelo-tónál",
+            "tip": "Tökéletes hely a leüléshez és a csend élvezetéhez a buszozás után."
+          },
+          {
+            "name": "Egy csendes kávézó",
+            "tip": "Keressen egy kávézót egy mellékutcában, hogy kipihenje a nyüzsgést."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul de lângă Jacobskerk",
+            "tip": "Un loc surprinzător de liniștit și istoric în inima orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "O bancă lângă lacul Hilgelo",
+            "tip": "Perfect pentru a sta și a te bucura de liniște după călătoria cu autobuzul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O cafenea liniștită",
+            "tip": "Găsiți o cafenea pe o stradă lăturalnică pentru o pauză de la agitație.",
+            "emoji": "☕"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cemetery next to the Jacobskerk",
+            "tip": "A surprisingly quiet and historic place in the heart of the city.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A bench at Lake Hilgelo",
+            "tip": "Perfect to sit and enjoy the quiet after the bus ride.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A quiet café",
+            "tip": "Find a café on a side street for a break from the hustle and bustle.",
+            "emoji": "☕"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bahnhofsladen",
+            "tip": "Kaufen Sie eine Zeitschrift oder einen Snack für Ihre Reise im 'AKO' oder 'Bruna' am Bahnhof."
+          },
+          {
+            "name": "Markt am Lappenbrink",
+            "tip": "Wenn Sie an einem Markttag dort sind, ist dies der beste Ort für Souvenirs und lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Állomási bolt",
+            "tip": "Vásároljon egy magazint vagy harapnivalót az utazáshoz az állomáson található 'AKO' vagy 'Bruna' üzletben."
+          },
+          {
+            "name": "Piac a Lappenbrinken",
+            "tip": "Ha piacnapon van ott, ez a legjobb hely ajándéktárgyak és helyi termékek vásárlására."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul din gară",
+            "tip": "Cumpărați o revistă sau o gustare pentru călătoria dvs. de la 'AKO' sau 'Bruna' din gară."
+          },
+          {
+            "name": "Piața din Lappenbrink",
+            "tip": "Dacă sunteți acolo într-o zi de piață, este cel mai bun loc pentru suveniruri și produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Station shop",
+            "tip": "Buy a magazine or a snack for your journey at the 'AKO' or 'Bruna' at the station."
+          },
+          {
+            "name": "Market on Lappenbrink",
+            "tip": "If you are there on a market day, this is the best place for souvenirs and local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, besonders an Wochenenden und Feiertagen.",
+          "Laden Sie die '9292' App für Echtzeit-Informationen zum öffentlichen Verkehr in den Niederlanden herunter.",
+          "Seien Sie an der Bushaltestelle deutlich sichtbar und geben Sie dem Fahrer ein Zeichen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha több utazást tervez.",
+          "Ellenőrizze előre a buszmenetrendet, különösen hétvégén és ünnepnapokon.",
+          "Töltse le a '9292' alkalmazást a valós idejű tömegközlekedési információkért Hollandiában.",
+          "Legyen jól látható a buszmegállóban, és jelezzen a sofőrnek."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă plănuiți mai multe călătorii.",
+          "Verificați programul autobuzului în avans, în special în weekenduri și de sărbători.",
+          "Descărcați aplicația '9292' pentru informații în timp real despre transportul public din Olanda.",
+          "Fiți vizibil la stația de autobuz și faceți semn șoferului."
+        ],
+        "en": [
+          "Buy a day ticket for the bus if you plan multiple trips.",
+          "Check the bus schedule in advance, especially on weekends and holidays.",
+          "Download the '9292' app for real-time public transport information in the Netherlands.",
+          "Be clearly visible at the bus stop and signal the driver."
+        ]
+      }
+    }
+  }
+}

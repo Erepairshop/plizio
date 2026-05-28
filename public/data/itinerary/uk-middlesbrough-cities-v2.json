@@ -1,0 +1,1210 @@
+{
+  "city_id": "uk-middlesbrough-cities-v2",
+  "anchor": {
+    "name": "Middlesbrough",
+    "coords": [
+      -1.2348,
+      54.5762
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 4.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Middlesbrough",
+            "hu": "Middlesbrough-i Városháza",
+            "ro": "Primăria Middlesbrough",
+            "en": "Middlesbrough Town Hall"
+          },
+          "coords": [
+            -1.234,
+            54.575
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Überprüfen Sie den Veranstaltungskalender für Konzerte oder Führungen.",
+            "hu": "Nézze meg az eseménynaptárat koncertekért vagy vezetett túrákért.",
+            "ro": "Verificați calendarul de evenimente pentru concerte sau tururi ghidate.",
+            "en": "Check the event schedule for any concerts or guided tours."
+          }
+        },
+        {
+          "name": {
+            "de": "MIMA (Middlesbrough Institute of Modern Art)",
+            "hu": "MIMA (Middlesbrough Modern Művészeti Intézet)",
+            "ro": "MIMA (Institutul de Artă Modernă Middlesbrough)",
+            "en": "MIMA (Middlesbrough Institute of Modern Art)"
+          },
+          "coords": [
+            -1.237,
+            54.574
+          ],
+          "category": "museums",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der Eintritt ist oft frei, und es gibt eine schöne Dachterrasse.",
+            "hu": "A belépés gyakran ingyenes, és van egy szép tetőterasza.",
+            "ro": "Intrarea este adesea gratuită și există o terasă frumoasă pe acoperiș.",
+            "en": "Entry is often free, and there's a nice roof terrace cafe."
+          }
+        },
+        {
+          "name": {
+            "de": "Middlesbrough Transporter Bridge",
+            "hu": "Middlesbrough-i függőhíd",
+            "ro": "Podul Transbordor Middlesbrough",
+            "en": "Middlesbrough Transporter Bridge"
+          },
+          "coords": [
+            -1.228,
+            54.582
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Für eine kleine Gebühr können Sie mit der Gondel über den Fluss fahren.",
+            "hu": "Kis díj ellenében átkelhet a folyón a gondolával.",
+            "ro": "Pentru o taxă mică, puteți traversa râul cu gondola.",
+            "en": "For a small fee, you can take a ride across the river on the gondola."
+          }
+        },
+        {
+          "name": {
+            "de": "Temenos Skulptur",
+            "hu": "Temenos szobor",
+            "ro": "Sculptura Temenos",
+            "en": "Temenos Sculpture"
+          },
+          "coords": [
+            -1.222,
+            54.579
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für Fotos, besonders bei Sonnenuntergang.",
+            "hu": "Nagyszerű fotóhelyszín, különösen naplementekor.",
+            "ro": "Un loc excelent pentru fotografii, în special la apus.",
+            "en": "A great spot for some impressive photos, especially at sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "Riverside Stadium",
+            "hu": "Riverside Stadion",
+            "ro": "Stadionul Riverside",
+            "en": "Riverside Stadium"
+          },
+          "coords": [
+            -1.219,
+            54.578
+          ],
+          "category": "landmark",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Buchen Sie eine Stadiontour, wenn Sie ein Fußballfan sind.",
+            "hu": "Foglaljon stadiontúrát, ha futballrajongó.",
+            "ro": "Rezervați un tur al stadionului dacă sunteți fan fotbal.",
+            "en": "Book a stadium tour in advance if you're a football fan."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen der Stadt am Rathaus, einem beeindruckenden viktorianischen Gebäude. Spazieren Sie anschließend zum MIMA, um moderne Kunst zu entdecken, bevor Sie zu Mittag essen. Am Nachmittag erleben Sie das industrielle Erbe der Stadt an der Transporter Bridge. Beenden Sie Ihren Tag mit einem Spaziergang entlang des Flusses, vorbei an der Temenos-Skulptur zum berühmten Riverside Stadium.",
+        "hu": "Kezdje a napot a város szívében, a lenyűgöző viktoriánus városházánál. Sétáljon át a MIMA-ba, hogy felfedezze a modern művészetet ebéd előtt. Délután tapasztalja meg a város ipari örökségét a függőhídnál. Zárja a napot egy folyóparti sétával a Temenos szobor mellett a híres Riverside Stadionig.",
+        "ro": "Începeți ziua în inima orașului la Primărie, o clădire victoriană impresionantă. Apoi, plimbați-vă la MIMA pentru a descoperi arta modernă înainte de prânz. După-amiaza, experimentați patrimoniul industrial al orașului la Podul Transbordor. Încheiați ziua cu o plimbare de-a lungul râului, pe lângă sculptura Temenos, până la faimosul Stadion Riverside.",
+        "en": "Start your day in the heart of the city at the Town Hall, a stunning Victorian building. Afterwards, stroll over to MIMA to discover modern art before lunch. In the afternoon, experience the city's industrial heritage at the Transporter Bridge. End your day with a walk along the river, past the Temenos sculpture to the famous Riverside Stadium."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Parmo",
+            "tip": "Das lokale Gericht, das man probieren muss! Ein paniertes Hähnchen- oder Schweineschnitzel, belegt mit Bechamelsauce und Käse."
+          },
+          {
+            "name": "The Zetland",
+            "tip": "Ein traditioneller Pub in der Nähe des Bahnhofs, perfekt für ein Pint und klassisches Pub-Essen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parmo",
+            "tip": "A helyi étel, amit muszáj megkóstolni! Rántott csirke vagy sertés, bechamellel és sajttal bevonva."
+          },
+          {
+            "name": "The Zetland",
+            "tip": "Hagyományos pub a pályaudvar közelében, tökéletes egy korsó sörre és klasszikus pub-ételekre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parmo",
+            "tip": "Mâncarea locală obligatorie! Un șnițel de pui sau porc pane, acoperit cu sos bechamel și brânză."
+          },
+          {
+            "name": "The Zetland",
+            "tip": "Un pub tradițional lângă gară, perfect pentru o halbă și mâncare clasică de pub."
+          }
+        ],
+        "en": [
+          {
+            "name": "Parmo",
+            "tip": "The must-try local dish! A breaded cutlet of chicken or pork topped with bechamel sauce and cheese."
+          },
+          {
+            "name": "The Zetland",
+            "tip": "A traditional pub near the station, perfect for a pint and classic pub food."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Fluss Tees",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses bietet eine Pause vom städtischen Trubel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Albert Park",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die friedliche Atmosphäre.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Tees folyó partján",
+            "tip": "Egy csendes séta a folyó mentén kikapcsolódást nyújt a városi nyüzsgésből.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Albert Park",
+            "tip": "Keressen egy csendes padot, és élvezze a békés légkört.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului Tees",
+            "tip": "O plimbare liniștită de-a lungul râului oferă o pauză de la agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Albert",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de atmosfera pașnică.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "River Tees Walk",
+            "tip": "A quiet walk along the river provides a break from the urban hustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Albert Park",
+            "tip": "Find a quiet bench and enjoy the peaceful atmosphere.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cleveland Centre",
+            "tip": "Das Haupteinkaufszentrum der Stadt mit einer Vielzahl von bekannten Marken."
+          },
+          {
+            "name": "Baker Street & Bedford Street",
+            "tip": "Bekannt für ihre unabhängigen Boutiquen, Vintage-Läden und Kunsthandwerksläden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cleveland Centre",
+            "tip": "A város fő bevásárlóközpontja, számos ismert márkával."
+          },
+          {
+            "name": "Baker Street és Bedford Street",
+            "tip": "Független butikjaikról, vintage üzleteikről és kézműves boltjaikról ismertek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Cleveland",
+            "tip": "Principalul centru comercial al orașului, cu o varietate de mărci cunoscute."
+          },
+          {
+            "name": "Strada Baker & Strada Bedford",
+            "tip": "Cunoscute pentru buticurile independente, magazinele vintage și magazinele de artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cleveland Centre",
+            "tip": "The main shopping centre in the city with a variety of high-street brands."
+          },
+          {
+            "name": "Baker Street & Bedford Street",
+            "tip": "Known for their independent boutiques, vintage shops, and artisan stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Das Wetter kann unvorhersehbar sein, packen Sie also einen Regenschirm ein.",
+          "Viele Museen und Galerien haben freien Eintritt.",
+          "Probieren Sie unbedingt das lokale Gericht Parmo!"
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "Az időjárás kiszámíthatatlan lehet, csomagoljon esernyőt.",
+          "Sok múzeum és galéria ingyenesen látogatható.",
+          "Feltétlenül kóstolja meg a helyi Parmo-t!"
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe jos.",
+          "Vremea poate fi imprevizibilă, așa că luați o umbrelă.",
+          "Multe muzee și galerii au intrare gratuită.",
+          "Nu uitați să încercați mâncarea locală, Parmo!"
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "The weather can be unpredictable, so pack an umbrella.",
+          "Many of the museums and galleries have free admission.",
+          "Make sure to try the local dish, Parmo!"
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 15.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Albert Park",
+            "hu": "Albert Park",
+            "ro": "Parcul Albert",
+            "en": "Albert Park"
+          },
+          "coords": [
+            -1.23,
+            54.565
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Mieten Sie ein Tretboot auf dem See für eine entspannte Aktivität.",
+            "hu": "Béreljen vízibiciklit a tavon egy pihentető tevékenységhez.",
+            "ro": "Închiriați o barcă cu pedale pe lac pentru o activitate relaxantă.",
+            "en": "Rent a paddleboat on the lake for a relaxing activity."
+          }
+        },
+        {
+          "name": {
+            "de": "Captain Cook Birthplace Museum",
+            "hu": "Cook kapitány szülőhelye múzeum",
+            "ro": "Muzeul Locului Nașterii Căpitanului Cook",
+            "en": "Captain Cook Birthplace Museum"
+          },
+          "coords": [
+            -1.201,
+            54.545
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Das Museum befindet sich im Stewart Park, nehmen Sie sich also Zeit, den Park zu erkunden.",
+            "hu": "A múzeum a Stewart Parkban található, szánjon időt a park felfedezésére is.",
+            "ro": "Muzeul este situat în Parcul Stewart, așa că alocați-vă timp pentru a explora și parcul.",
+            "en": "The museum is located within Stewart Park, so take time to explore the park too."
+          }
+        },
+        {
+          "name": {
+            "de": "Riverside Stadium",
+            "hu": "Riverside Stadion",
+            "ro": "Stadionul Riverside",
+            "en": "Riverside Stadium"
+          },
+          "coords": [
+            -1.219,
+            54.578
+          ],
+          "category": "landmark",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto mit der Borobrick-Road vor dem Stadion.",
+            "hu": "Készítsen egy képet a stadion előtti Borobrick úttal.",
+            "ro": "Faceți o fotografie cu drumul Borobrick din fața stadionului.",
+            "en": "Get a picture with the Borobrick road in front of the stadium."
+          }
+        },
+        {
+          "name": {
+            "de": "Middlesbrough Transporter Bridge",
+            "hu": "Middlesbrough-i függőhíd",
+            "ro": "Podul Transbordor Middlesbrough",
+            "en": "Middlesbrough Transporter Bridge"
+          },
+          "coords": [
+            -1.228,
+            54.582
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Die Brücke ist nachts wunderschön beleuchtet.",
+            "hu": "A híd éjjel gyönyörűen ki van világítva.",
+            "ro": "Podul este frumos iluminat noaptea.",
+            "en": "The bridge is beautifully illuminated at night."
+          }
+        },
+        {
+          "name": {
+            "de": "MIMA (Middlesbrough Institute of Modern Art)",
+            "hu": "MIMA (Middlesbrough Modern Művészeti Intézet)",
+            "ro": "MIMA (Institutul de Artă Modernă Middlesbrough)",
+            "en": "MIMA (Middlesbrough Institute of Modern Art)"
+          },
+          "coords": [
+            -1.237,
+            54.574
+          ],
+          "category": "museums",
+          "arrive_at": "15:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im Café auf der Dachterrasse mit Blick auf die Stadt.",
+            "hu": "Pihenjen a tetőteraszon található kávézóban, ahonnan kilátás nyílik a városra.",
+            "ro": "Relaxați-vă la cafeneaua de pe acoperiș cu vedere la oraș.",
+            "en": "Relax at the rooftop cafe with views over the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine Radtour, die Sie durch die grünen Lungen und zu den kulturellen Höhepunkten von Middlesbrough führt. Beginnen Sie im ruhigen Albert Park, radeln Sie dann zum Stewart Park, um das Captain Cook Birthplace Museum zu besuchen. Am Nachmittag geht es zum sportlichen Herzen der Stadt, dem Riverside Stadium, und weiter zum industriellen Wahrzeichen, der Transporter Bridge. Beenden Sie Ihre Tour mit moderner Kunst im MIMA.",
+        "hu": "Egy kerékpártúra, amely Middlesbrough zöldterületein és kulturális nevezetességein vezet keresztül. Kezdje a békés Albert Parkban, majd tekerjen el a Stewart Parkba a Cook kapitány szülőhelye múzeumhoz. Délután irány a város sportos szíve, a Riverside Stadion, majd tovább az ipari szimbólumhoz, a függőhídhoz. Zárja a túrát modern művészettel a MIMA-ban.",
+        "ro": "Un tur cu bicicleta care vă poartă prin spațiile verzi și punctele de atracție culturală din Middlesbrough. Începeți în liniștitul Parc Albert, apoi pedalați spre Parcul Stewart pentru a vizita Muzeul Locului Nașterii Căpitanului Cook. După-amiaza, mergeți la inima sportivă a orașului, Stadionul Riverside, și continuați spre emblema industrială, Podul Transbordor. Încheiați turul cu artă modernă la MIMA.",
+        "en": "A bike tour that takes you through the green lungs and cultural highlights of Middlesbrough. Start in the peaceful Albert Park, then cycle to Stewart Park to visit the Captain Cook Birthplace Museum. In the afternoon, head to the city's sporting heart, the Riverside Stadium, and continue to the industrial icon, the Transporter Bridge. End your tour with modern art at MIMA."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Parmo",
+            "tip": "Das lokale Gericht, das man probieren muss! Ein paniertes Hähnchen- oder Schweineschnitzel, belegt mit Bechamelsauce und Käse."
+          },
+          {
+            "name": "The Zetland",
+            "tip": "Ein traditioneller Pub in der Nähe des Bahnhofs, perfekt für ein Pint und klassisches Pub-Essen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parmo",
+            "tip": "A helyi étel, amit muszáj megkóstolni! Rántott csirke vagy sertés, bechamellel és sajttal bevonva."
+          },
+          {
+            "name": "The Zetland",
+            "tip": "Hagyományos pub a pályaudvar közelében, tökéletes egy korsó sörre és klasszikus pub-ételekre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parmo",
+            "tip": "Mâncarea locală obligatorie! Un șnițel de pui sau porc pane, acoperit cu sos bechamel și brânză."
+          },
+          {
+            "name": "The Zetland",
+            "tip": "Un pub tradițional lângă gară, perfect pentru o halbă și mâncare clasică de pub."
+          }
+        ],
+        "en": [
+          {
+            "name": "Parmo",
+            "tip": "The must-try local dish! A breaded cutlet of chicken or pork topped with bechamel sauce and cheese."
+          },
+          {
+            "name": "The Zetland",
+            "tip": "A traditional pub near the station, perfect for a pint and classic pub food."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Fluss Tees",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses bietet eine Pause vom städtischen Trubel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Albert Park",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die friedliche Atmosphäre.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Tees folyó partján",
+            "tip": "Egy csendes séta a folyó mentén kikapcsolódást nyújt a városi nyüzsgésből.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Albert Park",
+            "tip": "Keressen egy csendes padot, és élvezze a békés légkört.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului Tees",
+            "tip": "O plimbare liniștită de-a lungul râului oferă o pauză de la agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Albert",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de atmosfera pașnică.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "River Tees Walk",
+            "tip": "A quiet walk along the river provides a break from the urban hustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Albert Park",
+            "tip": "Find a quiet bench and enjoy the peaceful atmosphere.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cleveland Centre",
+            "tip": "Das Haupteinkaufszentrum der Stadt mit einer Vielzahl von bekannten Marken."
+          },
+          {
+            "name": "Baker Street & Bedford Street",
+            "tip": "Bekannt für ihre unabhängigen Boutiquen, Vintage-Läden und Kunsthandwerksläden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cleveland Centre",
+            "tip": "A város fő bevásárlóközpontja, számos ismert márkával."
+          },
+          {
+            "name": "Baker Street és Bedford Street",
+            "tip": "Független butikjaikról, vintage üzleteikről és kézműves boltjaikról ismertek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Cleveland",
+            "tip": "Principalul centru comercial al orașului, cu o varietate de mărci cunoscute."
+          },
+          {
+            "name": "Strada Baker & Strada Bedford",
+            "tip": "Cunoscute pentru buticurile independente, magazinele vintage și magazinele de artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cleveland Centre",
+            "tip": "The main shopping centre in the city with a variety of high-street brands."
+          },
+          {
+            "name": "Baker Street & Bedford Street",
+            "tip": "Known for their independent boutiques, vintage shops, and artisan stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt.",
+          "Nutzen Sie die Radwege entlang des Flusses für eine landschaftlich reizvolle Fahrt.",
+          "Schließen Sie Ihr Fahrrad an den Haltestellen sicher ab.",
+          "Nehmen Sie Wasser und Snacks für unterwegs mit."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját.",
+          "Használja a folyó menti kerékpárutakat a festői útvonalért.",
+          "A megállóknál biztonságosan zárja le a kerékpárját.",
+          "Vigyen magával vizet és harapnivalót az útra."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni.",
+          "Folosiți pistele de biciclete de-a lungul râului pentru o plimbare pitorească.",
+          "Asigurați-vă bicicleta la opriri.",
+          "Luați cu voi apă și gustări pentru drum."
+        ],
+        "en": [
+          "Check your bike before you set off.",
+          "Use the cycle paths along the river for a scenic ride.",
+          "Lock your bike securely at stops.",
+          "Take water and snacks with you for the journey."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 11.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stewart Park",
+            "hu": "Stewart Park",
+            "ro": "Parcul Stewart",
+            "en": "Stewart Park"
+          },
+          "coords": [
+            -1.202,
+            54.546
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und beginnen Sie Ihren Tag mit einem Spaziergang.",
+            "hu": "Parkoljon itt, és kezdje a napot egy sétával.",
+            "ro": "Parcați aici și începeți ziua cu o plimbare.",
+            "en": "Park here and start your day with a walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Captain Cook Birthplace Museum",
+            "hu": "Cook kapitány szülőhelye múzeum",
+            "ro": "Muzeul Locului Nașterii Căpitanului Cook",
+            "en": "Captain Cook Birthplace Museum"
+          },
+          "coords": [
+            -1.201,
+            54.545
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss für Geschichtsliebhaber. Das Museum ist sehr informativ.",
+            "hu": "A történelem szerelmeseinek kötelező. A múzeum nagyon informatív.",
+            "ro": "O vizită obligatorie pentru pasionații de istorie. Muzeul este foarte informativ.",
+            "en": "A must-visit for history enthusiasts. The museum is very informative."
+          }
+        },
+        {
+          "name": {
+            "de": "Middlesbrough Transporter Bridge",
+            "hu": "Middlesbrough-i függőhíd",
+            "ro": "Podul Transbordor Middlesbrough",
+            "en": "Middlesbrough Transporter Bridge"
+          },
+          "coords": [
+            -1.228,
+            54.582
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Prüfen Sie die Öffnungszeiten, da sie wetterabhängig sein können.",
+            "hu": "Ellenőrizze a nyitvatartási időt, mivel az időjárástól függhet.",
+            "ro": "Verificați programul de funcționare, deoarece poate depinde de vreme.",
+            "en": "Check the operating hours as they can be weather dependent."
+          }
+        },
+        {
+          "name": {
+            "de": "Riverside Stadium",
+            "hu": "Riverside Stadion",
+            "ro": "Stadionul Riverside",
+            "en": "Riverside Stadium"
+          },
+          "coords": [
+            -1.219,
+            54.578
+          ],
+          "category": "landmark",
+          "arrive_at": "13:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suchen Sie nach Parkplätzen in der Nähe, um das Stadion und die Umgebung zu Fuß zu erkunden.",
+            "hu": "Keressen a közelben parkolót, hogy gyalog fedezze fel a stadiont és környékét.",
+            "ro": "Căutați parcare în apropiere pentru a explora stadionul și zona înconjurătoare pe jos.",
+            "en": "Look for nearby parking to explore the stadium and its surroundings on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Middlesbrough",
+            "hu": "Middlesbrough-i Városháza",
+            "ro": "Primăria Middlesbrough",
+            "en": "Middlesbrough Town Hall"
+          },
+          "coords": [
+            -1.234,
+            54.575
+          ],
+          "category": "landmark",
+          "arrive_at": "15:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein beeindruckendes Beispiel viktorianischer Architektur im Stadtzentrum.",
+            "hu": "A viktoriánus építészet lenyűgöző példája a városközpontban.",
+            "ro": "Un exemplu impresionant de arhitectură victoriană în centrul orașului.",
+            "en": "An impressive example of Victorian architecture in the city centre."
+          }
+        },
+        {
+          "name": {
+            "de": "MIMA (Middlesbrough Institute of Modern Art)",
+            "hu": "MIMA (Middlesbrough Modern Művészeti Intézet)",
+            "ro": "MIMA (Institutul de Artă Modernă Middlesbrough)",
+            "en": "MIMA (Middlesbrough Institute of Modern Art)"
+          },
+          "coords": [
+            -1.237,
+            54.574
+          ],
+          "category": "museums",
+          "arrive_at": "16:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Parken Sie im Zentrum und beenden Sie den Tag hier.",
+            "hu": "Parkoljon a központban, és fejezze be itt a napot.",
+            "ro": "Parcați în centru și încheiați ziua aici.",
+            "en": "Park in the centre and finish your day here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Ihr Auto, um die weiter entfernten Sehenswürdigkeiten von Middlesbrough zu erkunden. Beginnen Sie im Stewart Park und besuchen Sie das Captain Cook Museum. Fahren Sie dann zum Flussufer, um die industrielle Ikone, die Transporter Bridge, und das Riverside Stadium zu sehen. Parken Sie am Nachmittag im Stadtzentrum, um die viktorianische Pracht des Rathauses und die moderne Kunst im MIMA zu bewundern.",
+        "hu": "Használja autóját Middlesbrough távolabbi látnivalóinak felfedezéséhez. Kezdje a Stewart Parkban és látogasson el a Cook kapitány Múzeumba. Ezután hajtson a folyóparthoz, hogy megnézze az ipari ikont, a függőhidat, és a Riverside Stadiont. Délután parkoljon le a városközpontban, hogy megcsodálhassa a városháza viktoriánus pompáját és a MIMA modern művészetét.",
+        "ro": "Folosiți mașina pentru a explora atracțiile mai îndepărtate din Middlesbrough. Începeți la Parcul Stewart și vizitați Muzeul Cook. Apoi, conduceți spre malul râului pentru a vedea iconul industrial, Podul Transbordor, și Stadionul Riverside. După-amiaza, parcați în centrul orașului pentru a admira splendoarea victoriană a Primăriei și arta modernă de la MIMA.",
+        "en": "Use your car to explore Middlesbrough's more distant attractions. Start at Stewart Park and visit the Captain Cook Museum. Then, drive to the riverside to see the industrial icon, the Transporter Bridge, and the Riverside Stadium. In the afternoon, park in the city centre to admire the Victorian splendour of the Town Hall and the modern art at MIMA."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Parmo",
+            "tip": "Das lokale Gericht, das man probieren muss! Ein paniertes Hähnchen- oder Schweineschnitzel, belegt mit Bechamelsauce und Käse."
+          },
+          {
+            "name": "The Zetland",
+            "tip": "Ein traditioneller Pub in der Nähe des Bahnhofs, perfekt für ein Pint und klassisches Pub-Essen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parmo",
+            "tip": "A helyi étel, amit muszáj megkóstolni! Rántott csirke vagy sertés, bechamellel és sajttal bevonva."
+          },
+          {
+            "name": "The Zetland",
+            "tip": "Hagyományos pub a pályaudvar közelében, tökéletes egy korsó sörre és klasszikus pub-ételekre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parmo",
+            "tip": "Mâncarea locală obligatorie! Un șnițel de pui sau porc pane, acoperit cu sos bechamel și brânză."
+          },
+          {
+            "name": "The Zetland",
+            "tip": "Un pub tradițional lângă gară, perfect pentru o halbă și mâncare clasică de pub."
+          }
+        ],
+        "en": [
+          {
+            "name": "Parmo",
+            "tip": "The must-try local dish! A breaded cutlet of chicken or pork topped with bechamel sauce and cheese."
+          },
+          {
+            "name": "The Zetland",
+            "tip": "A traditional pub near the station, perfect for a pint and classic pub food."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Fluss Tees",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses bietet eine Pause vom städtischen Trubel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Albert Park",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die friedliche Atmosphäre.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Tees folyó partján",
+            "tip": "Egy csendes séta a folyó mentén kikapcsolódást nyújt a városi nyüzsgésből.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Albert Park",
+            "tip": "Keressen egy csendes padot, és élvezze a békés légkört.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului Tees",
+            "tip": "O plimbare liniștită de-a lungul râului oferă o pauză de la agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Albert",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de atmosfera pașnică.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "River Tees Walk",
+            "tip": "A quiet walk along the river provides a break from the urban hustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Albert Park",
+            "tip": "Find a quiet bench and enjoy the peaceful atmosphere.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cleveland Centre",
+            "tip": "Das Haupteinkaufszentrum der Stadt mit einer Vielzahl von bekannten Marken."
+          },
+          {
+            "name": "Baker Street & Bedford Street",
+            "tip": "Bekannt für ihre unabhängigen Boutiquen, Vintage-Läden und Kunsthandwerksläden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cleveland Centre",
+            "tip": "A város fő bevásárlóközpontja, számos ismert márkával."
+          },
+          {
+            "name": "Baker Street és Bedford Street",
+            "tip": "Független butikjaikról, vintage üzleteikről és kézműves boltjaikról ismertek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Cleveland",
+            "tip": "Principalul centru comercial al orașului, cu o varietate de mărci cunoscute."
+          },
+          {
+            "name": "Strada Baker & Strada Bedford",
+            "tip": "Cunoscute pentru buticurile independente, magazinele vintage și magazinele de artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cleveland Centre",
+            "tip": "The main shopping centre in the city with a variety of high-street brands."
+          },
+          {
+            "name": "Baker Street & Bedford Street",
+            "tip": "Known for their independent boutiques, vintage shops, and artisan stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Planen Sie Ihre Parkmöglichkeiten im Voraus, besonders im Stadtzentrum.",
+          "Achten Sie auf die Hauptverkehrszeiten, um Staus zu vermeiden.",
+          "Kombinieren Sie Fahren mit kurzen Spaziergängen, um das Beste aus Ihrem Besuch zu machen.",
+          "Ein Navigationsgerät oder eine Karten-App ist unerlässlich."
+        ],
+        "hu": [
+          "Tervezze meg előre a parkolást, különösen a városközpontban.",
+          "Vegye figyelembe a csúcsforgalmi időszakokat a dugók elkerülése érdekében.",
+          "Kombinálja a vezetést rövid sétákkal, hogy a legtöbbet hozza ki a látogatásból.",
+          "Egy navigációs eszköz vagy térképalkalmazás elengedhetetlen."
+        ],
+        "ro": [
+          "Planificați-vă parcarea în avans, în special în centrul orașului.",
+          "Fiți atenți la orele de vârf pentru a evita blocajele în trafic.",
+          "Combinați condusul cu plimbări scurte pentru a profita la maximum de vizită.",
+          "Un dispozitiv de navigație sau o aplicație cu hărți este esențială."
+        ],
+        "en": [
+          "Plan your parking in advance, especially in the city centre.",
+          "Be aware of peak traffic times to avoid congestion.",
+          "Combine driving with short walks to get the most out of your visit.",
+          "A GPS or map application is essential."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 9.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Middlesbrough",
+            "hu": "Middlesbrough-i Városháza",
+            "ro": "Primăria Middlesbrough",
+            "en": "Middlesbrough Town Hall"
+          },
+          "coords": [
+            -1.234,
+            54.575
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie am Busbahnhof, der nur einen kurzen Spaziergang entfernt ist.",
+            "hu": "Kezdje a buszpályaudvaron, amely csak egy rövid sétára van.",
+            "ro": "Începeți de la autogară, care este la o scurtă plimbare.",
+            "en": "Start from the bus station, which is just a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "MIMA (Middlesbrough Institute of Modern Art)",
+            "hu": "MIMA (Middlesbrough Modern Művészeti Intézet)",
+            "ro": "MIMA (Institutul de Artă Modernă Middlesbrough)",
+            "en": "MIMA (Middlesbrough Institute of Modern Art)"
+          },
+          "coords": [
+            -1.237,
+            54.574
+          ],
+          "category": "museums",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Rathaus aus ist es ein einfacher Spaziergang.",
+            "hu": "Könnyű séta a Városházától.",
+            "ro": "O plimbare ușoară de la Primărie.",
+            "en": "An easy walk from the Town Hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Captain Cook Birthplace Museum",
+            "hu": "Cook kapitány szülőhelye múzeum",
+            "ro": "Muzeul Locului Nașterii Căpitanului Cook",
+            "en": "Captain Cook Birthplace Museum"
+          },
+          "coords": [
+            -1.201,
+            54.545
+          ],
+          "category": "museums",
+          "arrive_at": "12:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Stadtzentrum zum Stewart Park.",
+            "hu": "Menjen busszal a városközpontból a Stewart Parkba.",
+            "ro": "Luați un autobuz din centrul orașului spre Parcul Stewart.",
+            "en": "Take a bus from the city centre to Stewart Park."
+          }
+        },
+        {
+          "name": {
+            "de": "Riverside Stadium",
+            "hu": "Riverside Stadion",
+            "ro": "Stadionul Riverside",
+            "en": "Riverside Stadium"
+          },
+          "coords": [
+            -1.219,
+            54.578
+          ],
+          "category": "landmark",
+          "arrive_at": "14:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Es gibt spezielle Busverbindungen an Spieltagen, aber auch an anderen Tagen regelmäßige Linien.",
+            "hu": "A meccsnapokon külön buszjáratok indulnak, de más napokon is vannak rendszeres járatok.",
+            "ro": "Există servicii speciale de autobuz în zilele de meci, dar și rute regulate în alte zile.",
+            "en": "There are special bus services on match days, but regular routes on other days too."
+          }
+        },
+        {
+          "name": {
+            "de": "Middlesbrough Transporter Bridge",
+            "hu": "Middlesbrough-i függőhíd",
+            "ro": "Podul Transbordor Middlesbrough",
+            "en": "Middlesbrough Transporter Bridge"
+          },
+          "coords": [
+            -1.228,
+            54.582
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Stadion entfernt, um das Wahrzeichen aus der Nähe zu sehen.",
+            "hu": "Rövid séta a stadiontól, hogy közelről láthassa ezt a nevezetességet.",
+            "ro": "O scurtă plimbare de la stadion pentru a vedea de aproape acest punct de reper.",
+            "en": "A short walk from the stadium to see the landmark up close."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Middlesbrough mit den öffentlichen Verkehrsmitteln. Beginnen Sie im Stadtzentrum mit dem Rathaus und dem MIMA. Nehmen Sie dann einen Bus zum Stewart Park, um in die Geschichte von Captain Cook einzutauchen. Ein weiterer Bus bringt Sie zum sportlichen und industriellen Herzen der Stadt am Flussufer, dem Riverside Stadium und der Transporter Bridge, die Sie zu Fuß erkunden können.",
+        "hu": "Fedezze fel Middlesbrough-t tömegközlekedéssel. Kezdje a városközpontban a Városházával és a MIMA-val. Ezután szálljon buszra a Stewart Parkba, hogy elmerüljön Cook kapitány történelmében. Egy másik busz elviszi a város sportos és ipari szívébe a folyóparton, a Riverside Stadionhoz és a függőhídhoz, amelyeket gyalog fedezhet fel.",
+        "ro": "Explorați Middlesbrough folosind transportul public. Începeți din centrul orașului cu Primăria și MIMA. Apoi, luați un autobuz spre Parcul Stewart pentru a vă cufunda în istoria Căpitanului Cook. Un alt autobuz vă va duce la inima sportivă și industrială a orașului de pe malul râului, Stadionul Riverside și Podul Transbordor, pe care le puteți explora pe jos.",
+        "en": "Explore Middlesbrough using public transport. Start in the city centre with the Town Hall and MIMA. Then, take a bus to Stewart Park to delve into the history of Captain Cook. Another bus will take you to the city's sporting and industrial heart on the riverside, the Riverside Stadium and Transporter Bridge, which you can explore on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Parmo",
+            "tip": "Das lokale Gericht, das man probieren muss! Ein paniertes Hähnchen- oder Schweineschnitzel, belegt mit Bechamelsauce und Käse."
+          },
+          {
+            "name": "The Zetland",
+            "tip": "Ein traditioneller Pub in der Nähe des Bahnhofs, perfekt für ein Pint und klassisches Pub-Essen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parmo",
+            "tip": "A helyi étel, amit muszáj megkóstolni! Rántott csirke vagy sertés, bechamellel és sajttal bevonva."
+          },
+          {
+            "name": "The Zetland",
+            "tip": "Hagyományos pub a pályaudvar közelében, tökéletes egy korsó sörre és klasszikus pub-ételekre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parmo",
+            "tip": "Mâncarea locală obligatorie! Un șnițel de pui sau porc pane, acoperit cu sos bechamel și brânză."
+          },
+          {
+            "name": "The Zetland",
+            "tip": "Un pub tradițional lângă gară, perfect pentru o halbă și mâncare clasică de pub."
+          }
+        ],
+        "en": [
+          {
+            "name": "Parmo",
+            "tip": "The must-try local dish! A breaded cutlet of chicken or pork topped with bechamel sauce and cheese."
+          },
+          {
+            "name": "The Zetland",
+            "tip": "A traditional pub near the station, perfect for a pint and classic pub food."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Fluss Tees",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses bietet eine Pause vom städtischen Trubel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Albert Park",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die friedliche Atmosphäre.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Tees folyó partján",
+            "tip": "Egy csendes séta a folyó mentén kikapcsolódást nyújt a városi nyüzsgésből.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Albert Park",
+            "tip": "Keressen egy csendes padot, és élvezze a békés légkört.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului Tees",
+            "tip": "O plimbare liniștită de-a lungul râului oferă o pauză de la agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Albert",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de atmosfera pașnică.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "River Tees Walk",
+            "tip": "A quiet walk along the river provides a break from the urban hustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Albert Park",
+            "tip": "Find a quiet bench and enjoy the peaceful atmosphere.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cleveland Centre",
+            "tip": "Das Haupteinkaufszentrum der Stadt mit einer Vielzahl von bekannten Marken."
+          },
+          {
+            "name": "Baker Street & Bedford Street",
+            "tip": "Bekannt für ihre unabhängigen Boutiquen, Vintage-Läden und Kunsthandwerksläden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cleveland Centre",
+            "tip": "A város fő bevásárlóközpontja, számos ismert márkával."
+          },
+          {
+            "name": "Baker Street és Bedford Street",
+            "tip": "Független butikjaikról, vintage üzleteikről és kézműves boltjaikról ismertek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Cleveland",
+            "tip": "Principalul centru comercial al orașului, cu o varietate de mărci cunoscute."
+          },
+          {
+            "name": "Strada Baker & Strada Bedford",
+            "tip": "Cunoscute pentru buticurile independente, magazinele vintage și magazinele de artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cleveland Centre",
+            "tip": "The main shopping centre in the city with a variety of high-street brands."
+          },
+          {
+            "name": "Baker Street & Bedford Street",
+            "tip": "Known for their independent boutiques, vintage shops, and artisan stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus für unbegrenzte Fahrten.",
+          "Laden Sie die App des lokalen Busunternehmens herunter, um Fahrpläne in Echtzeit zu erhalten.",
+          "Beachten Sie, dass die Busse am Abend und am Wochenende seltener fahren könnten.",
+          "Halten Sie Kleingeld für Bustickets bereit, falls keine Kartenzahlung möglich ist."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Töltse le a helyi busztársaság alkalmazását a valós idejű menetrendekért.",
+          "Vegye figyelembe, hogy a buszok este és hétvégén ritkábban közlekedhetnek.",
+          "Készítsen elő aprópénzt a buszjegyekhez, ha a kártyás fizetés nem lehetséges."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Descărcați aplicația companiei locale de autobuze pentru orare în timp real.",
+          "Rețineți că autobuzele pot circula mai rar seara și în weekend.",
+          "Aveți la îndemână mărunțiș pentru biletele de autobuz, în caz că plata cu cardul nu este disponibilă."
+        ],
+        "en": [
+          "Buy a day rider bus ticket for unlimited travel.",
+          "Download the local bus company's app for real-time schedules.",
+          "Be aware that bus services may be less frequent in the evenings and on weekends.",
+          "Have some change ready for bus tickets, in case card payment isn't available."
+        ]
+      }
+    }
+  }
+}

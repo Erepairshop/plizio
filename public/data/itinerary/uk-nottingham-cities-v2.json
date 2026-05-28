@@ -1,0 +1,1459 @@
+{
+  "city_id": "uk-nottingham-cities-v2",
+  "anchor": {
+    "name": "Nottingham",
+    "coords": [
+      -1.1581,
+      52.9548
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Old Market Square",
+            "hu": "Régi Piactér",
+            "ro": "Piața Veche a Pieței",
+            "en": "Old Market Square"
+          },
+          "coords": [
+            -1.154,
+            52.954
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beobachten Sie die Menschen vom Council House aus.",
+            "hu": "Figyelje a nyüzsgést a Tanácsháza lépcsőjéről!",
+            "ro": "Priviți oamenii de la treptele Casei Sfatului.",
+            "en": "People-watch from the steps of the Council House."
+          }
+        },
+        {
+          "name": {
+            "de": "Theatre Royal & Royal Concert Hall",
+            "hu": "Királyi Színház és Királyi Koncertterem",
+            "ro": "Theatre Royal & Royal Concert Hall",
+            "en": "Theatre Royal & Royal Concert Hall"
+          },
+          "coords": [
+            -1.152,
+            52.956
+          ],
+          "category": "theatres",
+          "arrive_at": "09:43",
+          "stay_min": 20,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie, ob tagsüber eine Führung stattfindet.",
+            "hu": "Nézze meg, van-e napközbeni épülettúra!",
+            "ro": "Verificați dacă există un tur în timpul zilei.",
+            "en": "Check to see if there's a daytime tour available."
+          }
+        },
+        {
+          "name": {
+            "de": "Spitzenmarkt (Lace Market)",
+            "hu": "Csipke Negyed",
+            "ro": "Cartierul Dantelei",
+            "en": "Lace Market"
+          },
+          "coords": [
+            -1.146,
+            52.952
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:19",
+          "stay_min": 50,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die viktorianische Industriearchitektur.",
+            "hu": "Csodálja meg a viktoriánus ipari építészetet!",
+            "ro": "Admirați arhitectura industrială victoriană.",
+            "en": "Admire the grand Victorian industrial architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationales Justizmuseum",
+            "hu": "Nemzeti Igazságügyi Múzeum",
+            "ro": "Muzeul Național al Justiției",
+            "en": "National Justice Museum"
+          },
+          "coords": [
+            -1.147,
+            52.9515
+          ],
+          "category": "museums",
+          "arrive_at": "11:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Scheingerichtsverhandlung teil.",
+            "hu": "Vegyen részt egy színlelt tárgyaláson!",
+            "ro": "Participați la un proces simulat pentru o experiență unică.",
+            "en": "Participate in a mock trial for a unique experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Höhlenstadt (City of Caves)",
+            "hu": "Barlangváros",
+            "ro": "Orașul Peșterilor",
+            "en": "City of Caves"
+          },
+          "coords": [
+            -1.148,
+            52.95
+          ],
+          "category": "natural features",
+          "arrive_at": "12:57",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Buchen Sie im Voraus, da die Touren schnell ausgebucht sind.",
+            "hu": "Foglaljon előre, a túrák gyorsan betelnek!",
+            "ro": "Rezervați în avans, tururile se ocupă rapid.",
+            "en": "Book ahead, as tours fill up quickly."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Nottingham (Nottingham Castle)",
+            "hu": "Nottinghami Vár",
+            "ro": "Castelul Nottingham",
+            "en": "Nottingham Castle"
+          },
+          "coords": [
+            -1.155,
+            52.949
+          ],
+          "category": "castles",
+          "arrive_at": "14:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suchen Sie nach der Robin-Hood-Statue am Fuße des Schlosses.",
+            "hu": "Keresse meg Robin Hood szobrát a vár lábánál!",
+            "ro": "Căutați statuia lui Robin Hood la baza castelului.",
+            "en": "Look for the Robin Hood statue at the castle's base."
+          }
+        },
+        {
+          "name": {
+            "de": "Ye Olde Trip to Jerusalem",
+            "hu": "Ye Olde Trip to Jerusalem",
+            "ro": "Ye Olde Trip to Jerusalem",
+            "en": "Ye Olde Trip to Jerusalem"
+          },
+          "coords": [
+            -1.154,
+            52.9485
+          ],
+          "category": "historical",
+          "arrive_at": "16:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie ein Bier in einem der ältesten Pubs Englands.",
+            "hu": "Igyon meg egy sört Anglia egyik legrégebbi pubjában!",
+            "ro": "Savurați o halbă în unul dintre cele mai vechi puburi din Anglia.",
+            "en": "Have a pint in one of England's oldest pubs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen der Stadt, dem Old Market Square, und spüren Sie den Puls von Nottingham. Am Vormittag erkunden Sie die reiche Industriegeschichte im Lace Market, bevor Sie im National Justice Museum in die Rechtsgeschichte eintauchen. Nach dem Mittagessen steigen Sie in das unterirdische Höhlensystem der Stadt hinab, ein einzigartiges Erlebnis. Am Nachmittag erklimmen Sie den Burghügel, um das Gelände von Nottingham Castle zu erkunden und mehr über die Legenden von Robin Hood zu erfahren. Beenden Sie Ihren Tag mit einem wohlverdienten Bier im historischen Ye Olde Trip to Jerusalem, das in den Felsen unterhalb des Schlosses gehauen ist.",
+        "hu": "Kezdje a napot a város szívében, a Régi Piactéren, és érezze Nottingham lüktetését. A délelőttöt a Csipke Negyed ipari örökségének felfedezésével tölti, mielőtt elmerülne a jogi történelemben a Nemzeti Igazságügyi Múzeumban. Ebéd után ereszkedjen le a város alatti barlangrendszerbe, ami egyedülálló élményt nyújt. Délután másszon fel a Várhegyre, hogy felfedezze a Nottinghami Vár területét és megismerje Robin Hood legendáit. Zárja a napot egy jól megérdemelt korsó sörrel a történelmi Ye Olde Trip to Jerusalem fogadóban, melyet a vár alatti sziklába vájtak.",
+        "ro": "Începeți ziua în inima orașului, Piața Veche, pentru a simți pulsul Nottingham-ului. Dimineața explorați istoria industrială bogată din Cartierul Dantelei înainte de a vă adânci în istoria juridică la Muzeul Național al Justiției. După prânz, coborâți în sistemul de peșteri subterane al orașului, o experiență unică. După-amiaza, urcați pe dealul castelului pentru a explora terenul Castelului Nottingham și a afla despre legendele lui Robin Hood. Încheiați ziua cu o halbă binemeritată la istoricul Ye Olde Trip to Jerusalem, sculptat în stânca de sub castel.",
+        "en": "Start your day in the heart of the city, the Old Market Square, to feel the pulse of Nottingham. The morning is for exploring the rich industrial history in the Lace Market before delving into legal history at the National Justice Museum. After lunch, descend into the city's subterranean cave system for a unique experience. In the afternoon, climb Castle Rock to explore the grounds of Nottingham Castle and learn about the legends of Robin Hood. End your day with a well-earned pint at the historic Ye Olde Trip to Jerusalem, carved into the rock beneath the castle."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Nottinghamshire Pie",
+            "tip": "Ein herzhafter Kuchen, oft mit lokalem Fleisch und Ale gefüllt."
+          },
+          {
+            "name": "Stilton-Käse",
+            "tip": "Probieren Sie den berühmten Blauschimmelkäse aus der Region."
+          },
+          {
+            "name": "The Walton Hotel",
+            "tip": "Bietet moderne britische Küche in einem eleganten Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nottinghamshire pite",
+            "tip": "Kiadós pite, gyakran helyi hússal és sörrel töltve."
+          },
+          {
+            "name": "Stilton sajt",
+            "tip": "Kóstolja meg a régió híres kék sajtját."
+          },
+          {
+            "name": "The Walton Hotel",
+            "tip": "Modern brit konyha elegáns környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plăcintă Nottinghamshire",
+            "tip": "O plăcintă consistentă, adesea umplută cu carne locală și bere."
+          },
+          {
+            "name": "Brânză Stilton",
+            "tip": "Gustați faimoasa brânză albastră din regiune."
+          },
+          {
+            "name": "The Walton Hotel",
+            "tip": "Oferă bucătărie britanică modernă într-un cadru elegant."
+          }
+        ],
+        "en": [
+          {
+            "name": "Nottinghamshire Pie",
+            "tip": "A hearty pie, often filled with local meat and ale."
+          },
+          {
+            "name": "Stilton Cheese",
+            "tip": "Sample the famous blue cheese originating from the region."
+          },
+          {
+            "name": "The Walton Hotel",
+            "tip": "Offers modern British cuisine in an elegant setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Nottingham Arboretum",
+            "tip": "Ein friedlicher Spaziergang durch den ältesten öffentlichen Park der Stadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "St. Mary's Church",
+            "tip": "Finden Sie einen Moment der Ruhe in dieser beeindruckenden mittelalterlichen Kirche.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Ufer des Flusses Trent",
+            "tip": "Ein entspannender Spaziergang am Wasser, etwas außerhalb des Zentrums.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nottinghami Arborétum",
+            "tip": "Egy békés séta a város legrégebbi nyilvános parkjában.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szent Mária-templom",
+            "tip": "Találjon egy csendes pillanatot ebben a lenyűgöző középkori templomban.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Trent folyó partja",
+            "tip": "Pihentető séta a vízparton, kissé távolabb a központtól.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arboretul Nottingham",
+            "tip": "O plimbare pașnică prin cel mai vechi parc public din oraș.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Biserica St. Mary",
+            "tip": "Găsiți un moment de liniște în această impresionantă biserică medievală.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Malurile râului Trent",
+            "tip": "O plimbare relaxantă pe malul apei, chiar în afara centrului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Nottingham Arboretum",
+            "tip": "A peaceful stroll through the city's oldest public park.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "St. Mary's Church",
+            "tip": "Find a moment of quiet reflection inside this impressive medieval church.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "River Trent Embankment",
+            "tip": "A relaxing walk by the water, just outside the centre.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Paul Smith Store",
+            "tip": "Besuchen Sie das ursprüngliche Geschäft des berühmten Designers aus Nottingham."
+          },
+          {
+            "name": "Flying Horse Walk",
+            "tip": "Eine gehobene Einkaufspassage mit Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paul Smith bolt",
+            "tip": "Látogasson el a híres nottinghami tervező eredeti üzletébe."
+          },
+          {
+            "name": "Flying Horse Walk",
+            "tip": "Egy elegáns bevásárlóárkád butikokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Paul Smith",
+            "tip": "Vizitați magazinul original al celebrului designer din Nottingham."
+          },
+          {
+            "name": "Flying Horse Walk",
+            "tip": "O arcadă comercială de lux cu buticuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Paul Smith Store",
+            "tip": "Visit the original store of the famous Nottingham-born designer."
+          },
+          {
+            "name": "Flying Horse Walk",
+            "tip": "An upscale shopping arcade with boutique stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum hügelig sein kann.",
+          "Viele der zentralen Sehenswürdigkeiten liegen nahe beieinander.",
+          "Achten Sie auf die Robin-Hood-Referenzen, die in der ganzen Stadt verstreut sind.",
+          "Die Höhlen können kühl sein, bringen Sie also eine zusätzliche Schicht mit."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, a belváros dombos lehet.",
+          "Sok központi látnivaló sétatávolságra van egymástól.",
+          "Figyelje a városban elszórt Robin Hood-utalásokat!",
+          "A barlangok hűvösek lehetnek, hozzon magával egy plusz réteget!"
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece centrul orașului poate fi deluros.",
+          "Multe dintre atracțiile centrale sunt la distanță de mers pe jos una de cealaltă.",
+          "Fiți atenți la referințele la Robin Hood răspândite prin oraș.",
+          "Peșterile pot fi răcoroase, așa că aduceți un strat suplimentar."
+        ],
+        "en": [
+          "Wear comfortable shoes as the city centre can be hilly.",
+          "Many of the central attractions are within easy walking distance of each other.",
+          "Look out for the Robin Hood references scattered throughout the city.",
+          "The caves can be cool, so bring an extra layer."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:51",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Old Market Square",
+            "hu": "Régi Piactér",
+            "ro": "Piața Veche a Pieței",
+            "en": "Old Market Square"
+          },
+          "coords": [
+            -1.154,
+            52.954
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad gut ab, bevor Sie den Platz erkunden.",
+            "hu": "Zárja le biztonságosan a biciklit, mielőtt felfedezné a teret!",
+            "ro": "Asigurați-vă bicicleta înainte de a explora piața.",
+            "en": "Lock your bike securely before exploring the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Nottingham (Nottingham Castle)",
+            "hu": "Nottinghami Vár",
+            "ro": "Castelul Nottingham",
+            "en": "Nottingham Castle"
+          },
+          "coords": [
+            -1.155,
+            52.949
+          ],
+          "category": "castles",
+          "arrive_at": "09:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Aufstieg zum Schloss ist steil, aber die Aussicht ist es wert.",
+            "hu": "Meredek az út a várhoz, de a kilátás megéri.",
+            "ro": "Urcușul spre castel este abrupt, dar priveliștea merită.",
+            "en": "The climb up to the castle is steep, but the views are worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Ye Olde Trip to Jerusalem",
+            "hu": "Ye Olde Trip to Jerusalem",
+            "ro": "Ye Olde Trip to Jerusalem",
+            "en": "Ye Olde Trip to Jerusalem"
+          },
+          "coords": [
+            -1.154,
+            52.9485
+          ],
+          "category": "historical",
+          "arrive_at": "11:03",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss für jeden Geschichtsliebhaber (und Bierliebhaber).",
+            "hu": "Kötelező minden történelem (és sör) rajongónak.",
+            "ro": "O oprire obligatorie pentru orice pasionat de istorie (și bere).",
+            "en": "A must-visit for any history (and beer) enthusiast."
+          }
+        },
+        {
+          "name": {
+            "de": "Nottingham Arboretum",
+            "hu": "Nottinghami Arborétum",
+            "ro": "Arboretul Nottingham",
+            "en": "Nottingham Arboretum"
+          },
+          "coords": [
+            -1.156,
+            52.963
+          ],
+          "category": "parks",
+          "arrive_at": "12:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause im Grünen.",
+            "hu": "Tökéletes egy ebédszünetre a zöldben.",
+            "ro": "Perfect pentru o pauză de prânz în mijlocul naturii.",
+            "en": "Perfect for a green lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Lace Market",
+            "hu": "Csipke Negyed",
+            "ro": "Cartierul Dantelei",
+            "en": "Lace Market"
+          },
+          "coords": [
+            -1.146,
+            52.952
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die Gassen und entdecken Sie versteckte Juwelen.",
+            "hu": "Sétáljon a szűk utcákon és fedezzen fel rejtett kincseket!",
+            "ro": "Plimbați-vă pe străduțe pentru a descoperi bijuterii ascunse.",
+            "en": "Wander the alleyways to discover hidden gems."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Mary's Church",
+            "hu": "Szent Mária-templom",
+            "ro": "Biserica St. Mary",
+            "en": "St. Mary's Church"
+          },
+          "coords": [
+            -1.145,
+            52.9525
+          ],
+          "category": "churches",
+          "arrive_at": "15:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 31,
+          "hop_from_prev_km": 5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden Buntglasfenster.",
+            "hu": "Csodálja meg a lenyűgöző ólomüveg ablakokat!",
+            "ro": "Admirați vitraliile impresionante.",
+            "en": "Admire the impressive stained glass windows."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schnappen Sie sich ein Fahrrad und beginnen Sie Ihre Tour auf dem Old Market Square. Eine kurze, aber steile Fahrt führt Sie zum Nottingham Castle mit seiner herrlichen Aussicht. Nach der Erkundung der Legenden rollen Sie den Hügel hinunter zu Englands ältestem Pub. Am Mittag radeln Sie nach Norden zum ruhigen Nottingham Arboretum für eine Pause im Grünen. Am Nachmittag geht es zurück ins Zentrum, um durch das historische Lace Market-Viertel zu fahren und den Tag mit einem besinnlichen Besuch der prächtigen St. Mary's Church abzuschließen.",
+        "hu": "Pattanjon biciklire, és kezdje a túrát a Régi Piactéren! Egy rövid, de meredek tekerés után eléri a Nottinghami Várat, ahonnan pazar a kilátás. A legendák felfedezése után guruljon le a dombról Anglia legrégebbi pubjához. Délben tekerjen északra a békés Nottinghami Arborétumba egy zöld pihenőre. Délután irány vissza a központba, hogy áthajtson a történelmi Csipke Negyeden, és a napot egy csendes látogatással zárja a csodálatos Szent Mária-templomban.",
+        "ro": "Luați o bicicletă și începeți turul din Piața Veche. O scurtă, dar abruptă, plimbare vă duce la Castelul Nottingham pentru priveliști glorioase. După ce ați explorat legendele, coborâți dealul spre cel mai vechi pub din Anglia. La prânz, pedalați spre nord, la liniștitul Arboretum Nottingham, pentru o pauză înveriztă. După-amiaza vă întoarceți în centru pentru a parcurge cartierul istoric Lace Market, încheind ziua cu o vizită contemplativă la magnifica Biserică St. Mary.",
+        "en": "Grab a bike and start your tour from the Old Market Square. A short but steep ride takes you up to Nottingham Castle for glorious views. After exploring the legends, roll down the hill to England's oldest pub. At midday, cycle north to the peaceful Nottingham Arboretum for a green escape. The afternoon brings you back to the centre to cruise through the historic Lace Market district, ending the day with a contemplative visit to the magnificent St. Mary's Church."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Annie's Burger Shack",
+            "tip": "Authentische amerikanische Burger in einem lebhaften Pub."
+          },
+          {
+            "name": "The Pudding Pantry",
+            "tip": "Ein Paradies für alle, die Süßes lieben - perfekt für einen Nachmittagssnack."
+          },
+          {
+            "name": "Nottingham Doughnut Co.",
+            "tip": "Handwerklich hergestellte Doughnuts für einen schnellen Energieschub."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Annie's Burger Shack",
+            "tip": "Autentikus amerikai hamburgerek egy élénk pubban."
+          },
+          {
+            "name": "The Pudding Pantry",
+            "tip": "Az édesszájúak paradicsoma, tökéletes egy délutáni nasira."
+          },
+          {
+            "name": "Nottingham Doughnut Co.",
+            "tip": "Kézműves fánkok egy gyors energiabombáért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Annie's Burger Shack",
+            "tip": "Burgeri americani autentici într-un pub plin de viață."
+          },
+          {
+            "name": "The Pudding Pantry",
+            "tip": "Un paradis pentru cei care iubesc dulciurile, perfect pentru o gustare de după-amiază."
+          },
+          {
+            "name": "Nottingham Doughnut Co.",
+            "tip": "Gogoși artizanale pentru un plus rapid de energie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Annie's Burger Shack",
+            "tip": "Authentic American burgers in a lively pub setting."
+          },
+          {
+            "name": "The Pudding Pantry",
+            "tip": "A paradise for anyone with a sweet tooth, perfect for an afternoon treat."
+          },
+          {
+            "name": "Nottingham Doughnut Co.",
+            "tip": "Artisanal doughnuts for a quick energy boost."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Highfields Park",
+            "tip": "Ein schöner Park mit einem See zum Bootfahren, etwas außerhalb des Zentrums.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Wollaton Hall Gardens",
+            "tip": "Spazieren Sie durch die formellen Gärten, die das beeindruckende Herrenhaus umgeben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Nottingham Canal",
+            "tip": "Ein friedlicher Radweg entlang des Kanals.",
+            "emoji": "🚲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Highfields Park",
+            "tip": "Egy gyönyörű park csónakázó tóval, kissé a központon kívül.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Wollaton Hall kertjei",
+            "tip": "Sétáljon a lenyűgöző udvarházat körülvevő formális kertekben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Nottingham-csatorna",
+            "tip": "Békés kerékpárút a csatorna mentén.",
+            "emoji": "🚲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Highfields",
+            "tip": "Un parc frumos cu un lac de canotaj, chiar în afara centrului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Wollaton Hall",
+            "tip": "Plimbați-vă prin grădinile formale care înconjoară conacul impresionant.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Canalul Nottingham",
+            "tip": "O pistă de biciclete pașnică de-a lungul canalului.",
+            "emoji": "🚲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Highfields Park",
+            "tip": "A beautiful park with a boating lake, just outside the centre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Wollaton Hall Gardens",
+            "tip": "Stroll through the formal gardens surrounding the impressive mansion.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Nottingham Canal",
+            "tip": "A peaceful cycle path along the canal."
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "The Exchange",
+            "tip": "Eine Arkade mit unabhängigen Geschäften und Cafés."
+          },
+          {
+            "name": "Cobden Chambers",
+            "tip": "Ein kreatives Zentrum mit Designer-Maker-Studios."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Exchange",
+            "tip": "Árkád független üzletekkel és kávézókkal."
+          },
+          {
+            "name": "Cobden Chambers",
+            "tip": "Kreatív központ tervezői-alkotói stúdiókkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Exchange",
+            "tip": "O arcadă cu magazine și cafenele independente."
+          },
+          {
+            "name": "Cobden Chambers",
+            "tip": "Un centru creativ cu studiouri de designeri și creatori."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Exchange",
+            "tip": "An arcade filled with independent shops and cafes."
+          },
+          {
+            "name": "Cobden Chambers",
+            "tip": "A creative hub with designer-maker studios."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nottingham ist hügelig, stellen Sie sich auf einige Anstiege ein.",
+          "Nutzen Sie die ausgewiesenen Radwege, wo immer möglich.",
+          "Es gibt viele Fahrradständer im Stadtzentrum.",
+          "Ein leichtes Schloss ist nützlich, um es bei kurzen Stopps zu sichern."
+        ],
+        "hu": [
+          "Nottingham dombos, készülj fel néhány emelkedőre!",
+          "Használja a kijelölt kerékpárutakat, ahol csak lehet!",
+          "A belvárosban számos kerékpártároló található.",
+          "Egy könnyű lakat hasznos a rövid megállásokhoz."
+        ],
+        "ro": [
+          "Nottingham este deluros, așa că fiți pregătit pentru câteva urcări.",
+          "Folosiți pistele de biciclete desemnate ori de câte ori este posibil.",
+          "Există o mulțime de suporturi pentru biciclete în centrul orașului.",
+          "Un lacăt ușor este util pentru a o asigura în timpul opririlor scurte."
+        ],
+        "en": [
+          "Nottingham is hilly, so be prepared for some climbs.",
+          "Use the designated cycle lanes wherever possible.",
+          "There are plenty of bike racks in the city centre.",
+          "A lightweight lock is useful for securing it during quick stops."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:58",
+      "total_km": 14.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Wollaton Hall und Park",
+            "hu": "Wollaton Hall és Park",
+            "ro": "Wollaton Hall și Parcul",
+            "en": "Wollaton Hall and Park"
+          },
+          "coords": [
+            -1.208,
+            52.948
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Vormittag. Halten Sie Ausschau nach den freilaufenden Hirschen.",
+            "hu": "Parkoljon le itt a délelőttre. Keresse a szabadon kószáló szarvasokat!",
+            "ro": "Parcați aici pentru dimineață. Fiți cu ochii pe căprioarele care se plimbă libere.",
+            "en": "Park here for the morning. Look out for the free-roaming deer."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang im Wollaton Park",
+            "hu": "Séta a Wollaton Parkban",
+            "ro": "Plimbare în Parcul Wollaton",
+            "en": "Wollaton Park Walk"
+          },
+          "coords": [
+            -1.205,
+            52.946
+          ],
+          "category": "parks",
+          "arrive_at": "11:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang zum See für eine andere Perspektive auf die Halle.",
+            "hu": "Egy rövid séta a tóhoz, ahonnan más szögből látszik a kastély.",
+            "ro": "O scurtă plimbare până la lac pentru o perspectivă diferită asupra clădirii.",
+            "en": "A short walk to the lake for a different perspective of the hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Nottingham (Nottingham Castle)",
+            "hu": "Nottinghami Vár",
+            "ro": "Castelul Nottingham",
+            "en": "Nottingham Castle"
+          },
+          "coords": [
+            -1.155,
+            52.949
+          ],
+          "category": "castles",
+          "arrive_at": "12:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 7,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in einem der Parkhäuser in der Nähe und erkunden Sie den Burgbereich.",
+            "hu": "Parkoljon egy közeli parkolóházban, és fedezze fel a várat.",
+            "ro": "Parcați într-una din parcările din apropiere și explorați zona castelului.",
+            "en": "Park in a nearby multi-storey car park and explore the castle area."
+          }
+        },
+        {
+          "name": {
+            "de": "Ye Olde Trip to Jerusalem",
+            "hu": "Ye Olde Trip to Jerusalem",
+            "ro": "Ye Olde Trip to Jerusalem",
+            "en": "Ye Olde Trip to Jerusalem"
+          },
+          "coords": [
+            -1.154,
+            52.9485
+          ],
+          "category": "historical",
+          "arrive_at": "13:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ideal für ein Mittagessen nach dem Schlossbesuch.",
+            "hu": "Ideális egy ebédre a várlátogatás után.",
+            "ro": "Perfect pentru prânz după vizita la castel.",
+            "en": "Perfect for lunch after visiting the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationales Justizmuseum",
+            "hu": "Nemzeti Igazságügyi Múzeum",
+            "ro": "Muzeul Național al Justiției",
+            "en": "National Justice Museum"
+          },
+          "coords": [
+            -1.147,
+            52.9515
+          ],
+          "category": "museums",
+          "arrive_at": "15:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Schloss aus ist es nur ein kurzer Spaziergang durch den Lace Market.",
+            "hu": "A vártól egy rövid séta a Csipke Negyeden keresztül.",
+            "ro": "La o scurtă plimbare de castel prin Cartierul Dantelei.",
+            "en": "A short walk from the castle area through the Lace Market."
+          }
+        },
+        {
+          "name": {
+            "de": "Old Market Square",
+            "hu": "Régi Piactér",
+            "ro": "Piața Veche a Pieței",
+            "en": "Old Market Square"
+          },
+          "coords": [
+            -1.154,
+            52.954
+          ],
+          "category": "squares",
+          "arrive_at": "17:08",
+          "stay_min": 50,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag dort, wo das Herz der Stadt schlägt.",
+            "hu": "Fejezze be a napot ott, ahol a város szíve dobog.",
+            "ro": "Încheiați-vă ziua acolo unde bate inima orașului.",
+            "en": "End your day where the heart of the city beats."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer Fahrt zum prächtigen Wollaton Hall, das als Wayne Manor in den Batman-Filmen bekannt ist. Parken Sie dort und verbringen Sie den Vormittag damit, das Haus und den Park zu erkunden. Fahren Sie zur Mittagszeit zurück ins Stadtzentrum und parken Sie in der Nähe des Schlosses. Nach der Erkundung des Schlosses und einem Mittagessen im ältesten Pub Englands, erkunden Sie den historischen Justizbezirk zu Fuß. Beenden Sie den Tag auf dem belebten Old Market Square, bevor Sie zu Ihrem Auto zurückkehren.",
+        "hu": "Kezdje a napot egy autózással a csodálatos Wollaton Hallhoz, amely a Batman-filmek Wayne-kúriájaként ismert. Parkoljon le, és töltse a délelőttöt a ház és a park felfedezésével. Délben vezessen vissza a városközpontba, és parkoljon a vár közelében. Miután felfedezte a várat és ebédelt Anglia legrégebbi pubjában, sétáljon át a történelmi igazságügyi negyedbe. A napot a nyüzsgő Régi Piactéren zárja, mielőtt visszatérne az autójához.",
+        "ro": "Începeți ziua cu o plimbare cu mașina la magnificul Wollaton Hall, faimos ca Wayne Manor în filmele Batman. Parcați acolo și petreceți dimineața explorând casa și parcul. La prânz, conduceți înapoi în centrul orașului și parcați lângă castel. După ce explorați castelul și luați prânzul la cel mai vechi pub din Anglia, explorați cartierul istoric al justiției pe jos. Încheiați ziua în vibranta Piață Veche înainte de a vă întoarce la mașină.",
+        "en": "Start your day by driving to the magnificent Wollaton Hall, famous as Wayne Manor in the Batman films. Park up and spend the morning exploring the house and park. At midday, drive back to the city centre and park near the castle. After exploring the castle and having lunch at England's oldest pub, explore the historic justice quarter on foot. Finish the day in the vibrant Old Market Square before heading back to your car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sat Bains",
+            "tip": "Ein mit zwei Michelin-Sternen ausgezeichnetes Restaurant für ein ganz besonderes Erlebnis (weit im Voraus buchen)."
+          },
+          {
+            "name": "Hart's Hotel & Kitchen",
+            "tip": "Gehobene britische Küche mit Schwerpunkt auf lokalen Zutaten."
+          },
+          {
+            "name": "The Larder on Goosegate",
+            "tip": "In einem beeindruckenden viktorianischen Gebäude, bekannt für seine saisonale Speisekarte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sat Bains",
+            "tip": "Két Michelin-csillagos étterem egy igazán különleges élményért (jóval előre kell foglalni)."
+          },
+          {
+            "name": "Hart's Hotel & Kitchen",
+            "tip": "Elegáns brit konyha, helyi alapanyagokra fókuszálva."
+          },
+          {
+            "name": "The Larder on Goosegate",
+            "tip": "Egy lenyűgöző viktoriánus épületben, szezonális étlapjáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sat Bains",
+            "tip": "Un restaurant cu două stele Michelin pentru o experiență cu adevărat specială (rezervați cu mult timp în avans)."
+          },
+          {
+            "name": "Hart's Hotel & Kitchen",
+            "tip": "Bucătărie britanică rafinată, cu accent pe ingredientele locale."
+          },
+          {
+            "name": "The Larder on Goosegate",
+            "tip": "Situat într-o clădire victoriană impresionantă, renumit pentru meniul său de sezon."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sat Bains",
+            "tip": "A two-Michelin-starred restaurant for a truly special experience (book well in advance)."
+          },
+          {
+            "name": "Hart's Hotel & Kitchen",
+            "tip": "Upmarket British dining with a focus on local ingredients."
+          },
+          {
+            "name": "The Larder on Goosegate",
+            "tip": "Set in a stunning Victorian building, known for its seasonal menu."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Newstead Abbey",
+            "tip": "Eine kurze Autofahrt von der Stadt entfernt, das ehemalige Zuhause von Lord Byron.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Attenborough Nature Centre",
+            "tip": "Ein wunderschönes Naturschutzgebiet, ideal zur Vogelbeobachtung.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Sherwood Forest",
+            "tip": "Machen Sie einen Ausflug in die legendäre Heimat von Robin Hood, etwa 45 Autominuten entfernt.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Newstead apátság",
+            "tip": "Rövid autóútra a várostól, Lord Byron egykori otthona.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Attenborough Természetvédelmi Központ",
+            "tip": "Gyönyörű természetvédelmi terület, ideális madármegfigyeléshez.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Sherwoodi-erdő",
+            "tip": "Tegyen egy kirándulást Robin Hood legendás otthonába, kb. 45 perc autóval.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Abația Newstead",
+            "tip": "La o scurtă distanță cu mașina de oraș, fosta casă a lui Lord Byron.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Centrul Natural Attenborough",
+            "tip": "O frumoasă rezervație naturală, excelentă pentru observarea păsărilor.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Pădurea Sherwood",
+            "tip": "Faceți o excursie la casa legendară a lui Robin Hood, la aproximativ 45 de minute de mers cu mașina.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Newstead Abbey",
+            "tip": "A short drive from the city, the former home of Lord Byron.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Attenborough Nature Centre",
+            "tip": "A beautiful nature reserve, great for bird watching.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Sherwood Forest",
+            "tip": "Take a trip to the legendary home of Robin Hood, about a 45-min drive.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Victoria Centre",
+            "tip": "Das wichtigste Einkaufszentrum der Stadt mit einer großen Auswahl an Geschäften."
+          },
+          {
+            "name": "Bird & Blend Tea Co.",
+            "tip": "Ein unabhängiger Teeladen mit einzigartigen Mischungen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Victoria Centre",
+            "tip": "A város fő bevásárlóközpontja, üzletek széles választékával."
+          },
+          {
+            "name": "Bird & Blend Tea Co.",
+            "tip": "Független teabolt egyedi keverékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Victoria",
+            "tip": "Principalul centru comercial al orașului, cu o gamă largă de magazine."
+          },
+          {
+            "name": "Bird & Blend Tea Co.",
+            "tip": "Un magazin de ceai independent cu amestecuri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Victoria Centre",
+            "tip": "The city's main shopping centre with a wide range of stores."
+          },
+          {
+            "name": "Bird & Blend Tea Co.",
+            "tip": "An independent tea shop with unique blends."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie 'Park and Ride'-Dienste, um den Verkehr im Stadtzentrum zu vermeiden.",
+          "Parken kann teuer sein, prüfen Sie die Tarife im Voraus.",
+          "Der Verkehr kann während der Stoßzeiten stark sein.",
+          "Planen Sie Ihre Route, um Einbahnstraßen zu vermeiden."
+        ],
+        "hu": [
+          "Használja a P+R (Parkolj és Utazz) szolgáltatásokat a belvárosi forgalom elkerülésére.",
+          "A parkolás drága lehet, ellenőrizze az árakat előre.",
+          "A forgalom csúcsidőben sűrű lehet.",
+          "Tervezze meg az útvonalat az egyirányú utcák elkerülése érdekében."
+        ],
+        "ro": [
+          "Folosiți serviciile 'Park and Ride' pentru a evita traficul din centrul orașului.",
+          "Parcarea poate fi scumpă, verificați tarifele în avans.",
+          "Traficul poate fi aglomerat în timpul orelor de vârf.",
+          "Planificați-vă traseul pentru a evita străzile cu sens unic."
+        ],
+        "en": [
+          "Use Park and Ride services to avoid city centre traffic.",
+          "Parking can be expensive, check rates in advance.",
+          "Traffic can be heavy during peak hours.",
+          "Plan your route to avoid one-way systems."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 5.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Old Market Square",
+            "hu": "Régi Piactér",
+            "ro": "Piața Veche a Pieței",
+            "en": "Old Market Square"
+          },
+          "coords": [
+            -1.154,
+            52.954
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Das wichtigste Drehkreuz für Busse und Straßenbahnen der Stadt.",
+            "hu": "A város busz- és villamoshálózatának központi csomópontja.",
+            "ro": "Principalul nod de transport pentru autobuzele și tramvaiele din oraș.",
+            "en": "The main transport hub for the city's buses and trams."
+          }
+        },
+        {
+          "name": {
+            "de": "Lace Market",
+            "hu": "Csipke Negyed",
+            "ro": "Cartierul Dantelei",
+            "en": "Lace Market"
+          },
+          "coords": [
+            -1.146,
+            52.952
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:43",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses Viertel zu Fuß, nachdem Sie an der Haltestelle Fletcher Gate ausgestiegen sind.",
+            "hu": "Fedezze fel ezt a negyedet gyalog, miután leszállt a Fletcher Gate megállónál.",
+            "ro": "Explorați acest cartier pe jos după ce coborâți la stația Fletcher Gate.",
+            "en": "Explore this district on foot after getting off at the Fletcher Gate stop."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Mary's Church",
+            "hu": "Szent Mária-templom",
+            "ro": "Biserica St. Mary",
+            "en": "St. Mary's Church"
+          },
+          "coords": [
+            -1.145,
+            52.9525
+          ],
+          "category": "churches",
+          "arrive_at": "10:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen Steinwurf von den Hauptstraßen des Lace Market entfernt.",
+            "hu": "Csak egy kőhajításnyira a Csipke Negyed fő utcáitól.",
+            "ro": "La o aruncătură de băț de străzile principale din Lace Market.",
+            "en": "Just a stone's throw from the main Lace Market streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Nottingham Arboretum",
+            "hu": "Nottinghami Arborétum",
+            "ro": "Arboretul Nottingham",
+            "en": "Nottingham Arboretum"
+          },
+          "coords": [
+            -1.156,
+            52.963
+          ],
+          "category": "parks",
+          "arrive_at": "11:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Stadtzentrum, um Ihre Beine für den Park zu schonen.",
+            "hu": "Menjen busszal a belvárosból, hogy a lábait a parkra tartogassa.",
+            "ro": "Luați un autobuz din centrul orașului pentru a vă odihni picioarele pentru parc.",
+            "en": "Take a bus from the city centre to save your legs for the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Nottingham (Nottingham Castle)",
+            "hu": "Nottinghami Vár",
+            "ro": "Castelul Nottingham",
+            "en": "Nottingham Castle"
+          },
+          "coords": [
+            -1.155,
+            52.949
+          ],
+          "category": "castles",
+          "arrive_at": "13:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.3,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Viele Buslinien halten am Fuße des Castle Rock.",
+            "hu": "Sok buszjárat megáll a Várhegy lábánál.",
+            "ro": "Multe rute de autobuz opresc la poalele stâncii castelului.",
+            "en": "Many bus routes stop at the bottom of Castle Rock."
+          }
+        },
+        {
+          "name": {
+            "de": "Höhlenstadt (City of Caves)",
+            "hu": "Barlangváros",
+            "ro": "Orașul Peșterilor",
+            "en": "City of Caves"
+          },
+          "coords": [
+            -1.148,
+            52.95
+          ],
+          "category": "natural features",
+          "arrive_at": "15:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach dem Schlossbesuch zu Fuß erreichbar.",
+            "hu": "A várlátogatás után gyalog is elérhető.",
+            "ro": "Accesibil pe jos după vizita la castel.",
+            "en": "Walkable from the castle after your visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie am Old Market Square, dem Zentrum des Verkehrsnetzes. Schlendern Sie von dort aus durch den historischen Lace Market. Nach der Erkundung des Bodens nehmen Sie einen Bus zum friedlichen Nottingham Arboretum für eine Mittagspause. Am Nachmittag bringt Sie ein weiterer Bus zum legendären Nottingham Castle. Erklimmen Sie den Hügel und tauchen Sie in die Geschichte ein, bevor Sie zu Fuß zum einzigartigen City of Caves gehen, um Ihren Tag mit einem unterirdischen Abenteuer abzuschließen.",
+        "hu": "Kezdje a túrát a közlekedési hálózat központjában, a Régi Piactéren! Sétáljon át innen a történelmi Csipke Negyedbe. Miután felfedezte a felszínt, buszozzon el a békés Nottinghami Arborétumba egy ebédszünetre. Délután egy másik busz elviszi a legendás Nottinghami Várhoz. Mássza meg a dombot, és merüljön el a történelemben, mielőtt lesétálna az egyedülálló Barlangvárosba, hogy a napot egy földalatti kalanddal zárja.",
+        "ro": "Începeți la Piața Veche, centrul rețelei de transport. De acolo, plimbați-vă prin istoricul Cartier al Dantelei. După explorarea la suprafață, luați un autobuz spre liniștitul Arboretum Nottingham pentru o pauză de prânz. După-amiaza, un alt autobuz vă duce la legendarul Castel Nottingham. Urcați dealul și absorbiți istoria înainte de a coborî pe jos la unicul Oraș al Peșterilor pentru a încheia ziua cu o aventură subterană.",
+        "en": "Start at the Old Market Square, the hub of the transport network. From there, stroll through the historic Lace Market. After exploring above ground, take a bus to the peaceful Nottingham Arboretum for a midday break. In the afternoon, another bus will take you to the legendary Nottingham Castle. Climb the rock and soak up the history, before walking down to the unique City of Caves to end your day with a subterranean adventure."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Oscar & Rosie's",
+            "tip": "Bekannt für seine preisgekrönten Pizzen."
+          },
+          {
+            "name": "Mowgli Street Food",
+            "tip": "Indisches Street Food in einer lustigen und lebhaften Atmosphäre."
+          },
+          {
+            "name": "The Herbert Kilpin",
+            "tip": "Ein Pub, der Craft-Bier und hochwertige Pub-Klassiker serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Oscar & Rosie's",
+            "tip": "Díjnyertes pizzáiról ismert."
+          },
+          {
+            "name": "Mowgli Street Food",
+            "tip": "Indiai street food egy vidám, nyüzsgő környezetben."
+          },
+          {
+            "name": "The Herbert Kilpin",
+            "tip": "Kézműves söröket és minőségi pub ételeket kínáló pub."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Oscar & Rosie's",
+            "tip": "Renumit pentru pizza premiată."
+          },
+          {
+            "name": "Mowgli Street Food",
+            "tip": "Mâncare stradală indiană într-o atmosferă distractivă și plină de viață."
+          },
+          {
+            "name": "The Herbert Kilpin",
+            "tip": "Un pub care servește bere artizanală și preparate clasice de pub de înaltă calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Oscar & Rosie's",
+            "tip": "Known for its award-winning pizzas."
+          },
+          {
+            "name": "Mowgli Street Food",
+            "tip": "Indian street food in a fun and lively atmosphere."
+          },
+          {
+            "name": "The Herbert Kilpin",
+            "tip": "A pub serving craft beer and high-quality pub classics."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bromley House Library",
+            "tip": "Eine wunderschöne Abonnementbibliothek aus dem 18. Jahrhundert, die manchmal für die Öffentlichkeit zugänglich ist.",
+            "emoji": "📚"
+          },
+          {
+            "name": "The General Cemetery",
+            "tip": "Ein historischer Friedhof, der heute ein friedliches Naturschutzgebiet ist.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "St. Peter's Church",
+            "tip": "Eine weitere ruhige und historische Kirche im Herzen der Stadt.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bromley House Könyvtár",
+            "tip": "Egy gyönyörű 18. századi előfizetéses könyvtár, amely néha nyitva áll a nyilvánosság előtt.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Általános Temető",
+            "tip": "Történelmi temető, ma már békés természetvédelmi terület.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szent Péter-templom",
+            "tip": "Egy másik csendes és történelmi templom a város szívében.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biblioteca Bromley House",
+            "tip": "O frumoasă bibliotecă pe bază de abonament din secolul al XVIII-lea, uneori deschisă publicului.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Cimitirul General",
+            "tip": "Un cimitir istoric care este acum o rezervație naturală pașnică.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Biserica Sf. Petru",
+            "tip": "O altă biserică liniștită și istorică din inima orașului.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bromley House Library",
+            "tip": "A beautiful 18th-century subscription library, sometimes open to the public.",
+            "emoji": "📚"
+          },
+          {
+            "name": "The General Cemetery",
+            "tip": "A historic cemetery which is now a peaceful nature reserve.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "St Peter's Church",
+            "tip": "Another quiet and historic church in the heart of the city.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Page 45",
+            "tip": "Ein hoch angesehener unabhängiger Comic-Laden."
+          },
+          {
+            "name": "Five Leaves Bookshop",
+            "tip": "Ein radikaler Buchladen mit einer kuratierten Auswahl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Page 45",
+            "tip": "Nagyra értékelt független képregénybolt."
+          },
+          {
+            "name": "Five Leaves Könyvesbolt",
+            "tip": "Radikális könyvesbolt válogatott kínálattal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Page 45",
+            "tip": "Un magazin independent de benzi desenate foarte apreciat."
+          },
+          {
+            "name": "Librăria Five Leaves",
+            "tip": "O librărie radicală cu o selecție curatoriată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Page 45",
+            "tip": "A highly regarded independent comic book shop."
+          },
+          {
+            "name": "Five Leaves Bookshop",
+            "tip": "A radical bookshop with a curated selection."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für Busse und Straßenbahnen, um Geld zu sparen.",
+          "Die Nottingham City Transport (NCT) App ist nützlich für Routenplanung und Tickets.",
+          "Viele Dienste sind kontaktlos, Sie können mit Ihrer Karte oder Ihrem Telefon bezahlen.",
+          "Die Straßenbahnen (NET) sind eine schnelle Möglichkeit, die Stadt von Norden nach Süden zu durchqueren."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszokra és villamosokra, hogy pénzt takarítson meg.",
+          "A Nottingham City Transport (NCT) alkalmazás hasznos az útvonaltervezéshez és a jegyvásárláshoz.",
+          "Sok szolgáltatás érintésmentes, fizethet a kártyájával vagy telefonjával.",
+          "A villamosok (NET) gyors módja a város átszelésének észak-déli irányban."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuze și tramvaie pentru a economisi bani.",
+          "Aplicația Nottingham City Transport (NCT) este utilă pentru planificarea rutelor și bilete.",
+          "Multe servicii sunt contactless, puteți plăti cu cardul sau telefonul.",
+          "Tramvaiele (NET) sunt o modalitate rapidă de a traversa orașul de la nord la sud."
+        ],
+        "en": [
+          "Purchase a day ticket for buses and trams to save money.",
+          "The Nottingham City Transport (NCT) app is useful for route planning and tickets.",
+          "Many services are contactless, you can tap on with your card or phone.",
+          "Trams (NET) are a quick way to cross the city from north to south."
+        ]
+      }
+    }
+  }
+}

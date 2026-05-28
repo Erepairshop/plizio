@@ -1,0 +1,1215 @@
+{
+  "city_id": "austria-leoben-cities-v2",
+  "anchor": {
+    "name": "Leoben",
+    "coords": [
+      15.0944,
+      47.3803
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Hauptplatz & Hacklhaus",
+            "hu": "Főtér és Hackl-ház",
+            "ro": "Piața Principală și Hacklhaus",
+            "en": "Main Square & Hacklhaus"
+          },
+          "coords": [
+            15.094,
+            47.3805
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Pest-Säule und die Fassade des Hacklhauses aus dem 17. Jahrhundert.",
+            "hu": "Csodálja meg a pestisoszlopot és a 17. századi Hackl-ház homlokzatát!",
+            "ro": "Admirați Coloana Ciumei și fațada din secolul al XVII-lea a casei Hacklhaus.",
+            "en": "Admire the Plague Column and the 17th-century facade of the Hacklhaus."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Winkelturm",
+            "hu": "Winkelturm (Saroktorony)",
+            "ro": "Turnul Winkelturm",
+            "en": "Winkelturm Tower"
+          },
+          "coords": [
+            15.0965,
+            47.3812
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein erhaltener Teil der mittelalterlichen Stadtbefestigung, perfekt für ein schnelles Foto.",
+            "hu": "A középkori városfal egy megmaradt része, tökéletes egy gyors fotóhoz.",
+            "ro": "O parte conservată a fortificațiilor medievale ale orașului, perfectă pentru o fotografie rapidă.",
+            "en": "A preserved part of the medieval town fortifications, perfect for a quick photo."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Schwammerlturm",
+            "hu": "Schwammerlturm (Gomba-torony)",
+            "ro": "Turnul Schwammerlturm",
+            "en": "Schwammerlturm (Mushroom Tower)"
+          },
+          "coords": [
+            15.0988,
+            47.3795
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das Wahrzeichen der Stadt. Im Turm befindet sich ein kleines Café.",
+            "hu": "A város jelképe. A toronyban egy kis kávézó is található.",
+            "ro": "Emblema orașului. În turn există o mică cafenea.",
+            "en": "The city's landmark. There's a small café inside the tower."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "MuseumsCenter Leoben",
+            "hu": "Leobeni Múzeumközpont",
+            "ro": "Centrul Muzeal Leoben",
+            "en": "Museum Center Leoben"
+          },
+          "coords": [
+            15.0972,
+            47.382
+          ],
+          "category": "museums",
+          "arrive_at": "11:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Planen Sie genug Zeit für die interaktiven Ausstellungen zur Geschichte des Bergbaus ein.",
+            "hu": "Tervezzen elég időt a bányászat történetét bemutató interaktív kiállításokra!",
+            "ro": "Planificați suficient timp pentru expozițiile interactive despre istoria mineritului.",
+            "en": "Plan enough time for the interactive exhibitions on the history of mining."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Waasenkirche",
+            "hu": "Waasenkirche",
+            "ro": "Biserica Waasenkirche",
+            "en": "Waasen Church"
+          },
+          "coords": [
+            15.101,
+            47.377
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beachten Sie die beeindruckenden Glasfenster aus dem 14. Jahrhundert.",
+            "hu": "Figyelje meg a lenyűgöző 14. századi üvegablakokat!",
+            "ro": "Observați vitraliile impresionante din secolul al XIV-lea.",
+            "en": "Notice the impressive 14th-century stained glass windows."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Gärnerpark",
+            "hu": "Gärnerpark",
+            "ro": "Parcul Gärnerpark",
+            "en": "Gärnerpark"
+          },
+          "coords": [
+            15.1035,
+            47.376
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein schöner Ort für eine Pause am Murufer.",
+            "hu": "Szép hely egy kis pihenőre a Mura partján.",
+            "ro": "Un loc frumos pentru o pauză pe malul râului Mur.",
+            "en": "A beautiful spot for a break on the banks of the Mur river."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Ruine Massenburg",
+            "hu": "Massenburg várrom",
+            "ro": "Ruinele Massenburg",
+            "en": "Massenburg Ruins"
+          },
+          "coords": [
+            15.09,
+            47.3845
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für den Panoramablick über Leoben und das Murtal.",
+            "hu": "Megéri a kaptatót a Leobenre és a Mura-völgyére nyíló panorámáért.",
+            "ro": "Urcușul merită pentru vederea panoramică asupra orașului Leoben și a văii Mur.",
+            "en": "The climb is worth it for the panoramic view over Leoben and the Mur valley."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am belebten Hauptplatz, dem Herzen Leobens. Am Vormittag erkunden Sie die historischen Türme der Stadt, die von ihrer mittelalterlichen Vergangenheit zeugen. Nach dem Mittagessen tauchen Sie im MuseumsCenter tief in die Bergbaugeschichte der Region ein. Schließen Sie den Tag mit einem entspannenden Spaziergang am Murufer und einem Aufstieg zur Massenburg ab, um den Sonnenuntergang zu genießen.",
+        "hu": "Indítsa a napot Leoben szívében, a nyüzsgő Főtéren! Délelőtt fedezze fel a város középkori múltjáról tanúskodó történelmi tornyokat. Ebéd után merüljön el a régió bányásztörténelmében a Múzeumközpontban! Zárja a napot egy pihentető sétával a Mura partján, majd másszon fel a Massenburg romjaihoz, hogy élvezze a naplementét.",
+        "ro": "Începeți ziua în inima orașului Leoben, în animata Piață Principală. În cursul dimineții, explorați turnurile istorice ale orașului, martore ale trecutului său medieval. După prânz, scufundați-vă în istoria minieră a regiunii la Centrul Muzeal. Încheiați ziua cu o plimbare relaxantă pe malul râului Mur și o urcare la ruinele Massenburg pentru a vă bucura de apus.",
+        "en": "Start your day in the heart of Leoben at the bustling Main Square. In the morning, explore the city's historic towers, which testify to its medieval past. After lunch, delve deep into the region's mining history at the Museum Center. End the day with a relaxing walk along the Mur riverbank and a climb to the Massenburg ruins to enjoy the sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Arkadenhof Schwarzer Adler",
+            "tip": "Probieren Sie das Steirische Wurzelfleisch in diesem traditionellen Gasthaus."
+          },
+          {
+            "name": "Vinothek & Weinbar",
+            "tip": "Ideal für ein Glas lokalen Weins am Abend."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arkadenhof Schwarzer Adler",
+            "tip": "Kóstolja meg a stájer „Wurzelfleisch”-t ebben a hagyományos fogadóban!"
+          },
+          {
+            "name": "Vinothek & Weinbar",
+            "tip": "Ideális egy pohár helyi borhoz az este folyamán."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arkadenhof Schwarzer Adler",
+            "tip": "Încercați 'Steirisches Wurzelfleisch' (carne de porc cu rădăcinoase) la acest han tradițional."
+          },
+          {
+            "name": "Vinothek & Weinbar",
+            "tip": "Ideal pentru un pahar de vin local seara."
+          }
+        ],
+        "en": [
+          {
+            "name": "Arkadenhof Schwarzer Adler",
+            "tip": "Try the Styrian 'Wurzelfleisch' (pork with root vegetables) in this traditional inn."
+          },
+          {
+            "name": "Vinothek & Weinbar",
+            "tip": "Ideal for a glass of local wine in the evening."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Massenburg bei Sonnenuntergang",
+            "tip": "Der beste Ort für Ruhe und eine atemberaubende Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gärnerpark",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses Mur.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Massenburg naplementekor",
+            "tip": "A legjobb hely a csendhez és a lélegzetelállító kilátáshoz.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gärnerpark",
+            "tip": "Egy csendes séta a Mura folyó mentén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Massenburg la apus",
+            "tip": "Cel mai bun loc pentru liniște și o priveliște uluitoare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Gärnerpark",
+            "tip": "O plimbare liniștită de-a lungul râului Mur.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Massenburg at sunset",
+            "tip": "The best place for peace and a breathtaking view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gärnerpark",
+            "tip": "A quiet walk along the Mur river.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Leobener Bauernmarkt",
+            "tip": "Finden Sie freitags lokale Produkte und Handwerk am Hauptplatz."
+          },
+          {
+            "name": "LCS Leoben City Shopping",
+            "tip": "Für ein modernes Einkaufserlebnis bei schlechtem Wetter."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Leobeni termelői piac",
+            "tip": "Péntekenként helyi termékeket és kézműves árukat talál a Főtéren."
+          },
+          {
+            "name": "LCS Leoben City Shopping",
+            "tip": "Modern bevásárlási élmény rossz idő esetén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața agricolă Leoben",
+            "tip": "Găsiți produse locale și artizanat în Piața Principală, în zilele de vineri."
+          },
+          {
+            "name": "LCS Leoben City Shopping",
+            "tip": "Pentru o experiență modernă de cumpărături pe vreme rea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Leoben Farmers' Market",
+            "tip": "Find local produce and crafts in the Main Square on Fridays."
+          },
+          {
+            "name": "LCS Leoben City Shopping",
+            "tip": "For a modern shopping experience in case of bad weather."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da der Tag viel Gehen beinhaltet, einschließlich eines Anstiegs zur Massenburg.",
+          "Prüfen Sie die Öffnungszeiten des Museums, da diese saisonal variieren können.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind kompakt und leicht zu Fuß erreichbar."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert a nap sok gyaloglást foglal magában, beleértve a Massenburgra való feljutást.",
+          "Ellenőrizze a múzeum nyitvatartási idejét, mert az szezonálisan változhat.",
+          "A belváros legtöbb látnivalója közel van egymáshoz és könnyen megközelíthető gyalog."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece ziua implică mult mers pe jos, inclusiv o urcare la Massenburg.",
+          "Verificați programul de funcționare al muzeului, deoarece acesta poate varia în funcție de sezon.",
+          "Majoritatea atracțiilor din centrul orașului sunt compacte și ușor de explorat pe jos."
+        ],
+        "en": [
+          "Wear comfortable shoes as the day involves a lot of walking, including an ascent to Massenburg.",
+          "Check the museum's opening hours as they can vary seasonally.",
+          "Most city center sights are compact and easily reachable on foot."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Fahrt entlang der Mur & Gärnerpark",
+            "hu": "Tekerés a Mura mentén és Gärnerpark",
+            "ro": "Plimbare pe malul râului Mur și Parcul Gärnerpark",
+            "en": "Ride along the Mur & Gärnerpark"
+          },
+          "coords": [
+            15.1035,
+            47.376
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie mit einer entspannten Fahrt auf dem Murradweg.",
+            "hu": "Kezdje a napot egy pihentető tekeréssel a Mura menti kerékpárúton!",
+            "ro": "Începeți cu o plimbare relaxantă pe pista de biciclete de-a lungul râului Mur.",
+            "en": "Start with a relaxing ride on the Mur Cycle Path."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Waasenkirche",
+            "hu": "Waasenkirche",
+            "ro": "Biserica Waasenkirche",
+            "en": "Waasen Church"
+          },
+          "coords": [
+            15.101,
+            47.377
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und bewundern Sie die gotische Architektur.",
+            "hu": "Tegye le a biciklit, és csodálja meg a gótikus építészetet!",
+            "ro": "Parcați bicicleta și admirați arhitectura gotică.",
+            "en": "Park your bike and admire the Gothic architecture."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Hauptplatz & Schwammerlturm",
+            "hu": "Főtér és Schwammerlturm",
+            "ro": "Piața Principală și Turnul Schwammerlturm",
+            "en": "Main Square & Schwammerlturm"
+          },
+          "coords": [
+            15.094,
+            47.3805
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad in der Nähe ab und erkunden Sie den Platz und den Turm zu Fuß.",
+            "hu": "Parkolja le a közelben a kerékpárt, és fedezze fel a teret és a tornyot gyalog!",
+            "ro": "Parcați bicicleta în apropiere și explorați piața și turnul pe jos.",
+            "en": "Park your bike nearby and explore the square and tower on foot."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "MuseumsCenter Leoben",
+            "hu": "Leobeni Múzeumközpont",
+            "ro": "Centrul Muzeal Leoben",
+            "en": "Museum Center Leoben"
+          },
+          "coords": [
+            15.0972,
+            47.382
+          ],
+          "category": "museums",
+          "arrive_at": "11:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Es gibt Fahrradständer direkt vor dem Museum.",
+            "hu": "Közvetlenül a múzeum előtt vannak kerékpártárolók.",
+            "ro": "Există suporturi pentru biciclete chiar în fața muzeului.",
+            "en": "There are bike racks right in front of the museum."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Massenburg",
+            "hu": "Massenburg",
+            "ro": "Massenburg",
+            "en": "Massenburg"
+          },
+          "coords": [
+            15.09,
+            47.3845
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Der Anstieg ist eine Herausforderung, aber die Aussicht ist die Belohnung.",
+            "hu": "A hegyre való feljutás kihívást jelent, de a kilátás a jutalom.",
+            "ro": "Urcușul este o provocare, dar priveliștea este recompensa.",
+            "en": "The climb is a challenge, but the view is the reward."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Ausklang in der Altstadt",
+            "hu": "Levezetés az óvárosban",
+            "ro": "Relaxare în orașul vechi",
+            "en": "Winding down in the Old Town"
+          },
+          "coords": [
+            15.0945,
+            47.38
+          ],
+          "category": "gastro",
+          "arrive_at": "15:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Kehren Sie für ein spätes Mittagessen oder einen Kaffee in einem der Cafés am Hauptplatz ein.",
+            "hu": "Térjen be egy késői ebédre vagy egy kávéra a Főtér egyik kávézójába!",
+            "ro": "Opriți-vă pentru un prânz târziu sau o cafea la una dintre cafenelele din Piața Principală.",
+            "en": "Stop for a late lunch or a coffee at one of the cafés in the main square."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Tag aktiv mit einer Fahrradtour entlang der Mur. Erkunden Sie am Vormittag die äußeren Stadtteile und ihre Kirchen, bevor Sie ins Zentrum radeln. Der Hauptplatz ist der perfekte Ort für eine Mittagspause. Am Nachmittag nehmen Sie die sportliche Herausforderung an und radeln zur Massenburg hinauf, um die spektakuläre Aussicht zu genießen, bevor Sie den Tag entspannt in der Altstadt ausklingen lassen.",
+        "hu": "Kezdje aktívan a napot egy biciklitúrával a Mura mentén! Délelőtt fedezze fel a külső városrészeket és templomaikat, mielőtt a központba teker. A Főtér tökéletes hely egy ebédszünethez. Délután vállalja a sportos kihívást, és tekerjen fel a Massenburgra a látványos kilátásért, mielőtt a napot az óvárosban pihenéssel zárná.",
+        "ro": "Începeți-vă ziua activ cu un tur cu bicicleta de-a lungul râului Mur. Explorați cartierele exterioare și bisericile lor dimineața, înainte de a pedala spre centru. Piața Principală este locul perfect pentru o pauză de prânz. După-amiaza, acceptați provocarea sportivă și urcați cu bicicleta la Massenburg pentru a vă bucura de priveliștea spectaculoasă, înainte de a încheia ziua relaxându-vă în orașul vechi.",
+        "en": "Start your day actively with a bike tour along the Mur river. Explore the outer districts and their churches in the morning before cycling into the center. The Main Square is the perfect place for a lunch break. In the afternoon, take on the athletic challenge and cycle up to Massenburg to enjoy the spectacular view before ending the day relaxing in the Old Town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gasthof 'Zum Greif'",
+            "tip": "Herzhafte steirische Küche, perfekt nach einer langen Radtour."
+          },
+          {
+            "name": "Eis-Greissler",
+            "tip": "Belohnen Sie sich mit einem handgemachten Eis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gasthof 'Zum Greif'",
+            "tip": "Kiadós stájer konyha, tökéletes egy hosszú biciklitúra után."
+          },
+          {
+            "name": "Eis-Greissler",
+            "tip": "Jutalmazza meg magát egy kézműves fagyival!"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gasthof 'Zum Greif'",
+            "tip": "Bucătărie stiriană consistentă, perfectă după un tur lung cu bicicleta."
+          },
+          {
+            "name": "Eis-Greissler",
+            "tip": "Recompensați-vă cu o înghețată artizanală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gasthof 'Zum Greif'",
+            "tip": "Hearty Styrian cuisine, perfect after a long bike ride."
+          },
+          {
+            "name": "Eis-Greissler",
+            "tip": "Reward yourself with a handmade ice cream."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Murradweg am Morgen",
+            "tip": "Genießen Sie die Stille und die frische Luft entlang des Flusses.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Aussicht von der Massenburg",
+            "tip": "Ein Panoramablick, der die Anstrengung des Aufstiegs wert ist.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mura menti kerékpárút reggel",
+            "tip": "Élvezze a csendet és a friss levegőt a folyó mentén!",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Kilátás a Massenburgról",
+            "tip": "A panoráma megéri a fáradságot.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul Murului dimineața",
+            "tip": "Bucurați-vă de liniște și de aerul proaspăt de-a lungul râului.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Vedere de la Massenburg",
+            "tip": "O panoramă care merită efortul urcării.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mur Cycle Path in the morning",
+            "tip": "Enjoy the silence and the fresh air along the river.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "View from Massenburg",
+            "tip": "A panorama that is worth the effort of the climb.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerksläden",
+            "tip": "In den Gassen der Altstadt finden sich kleine Geschäfte mit einzigartigen Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Az óváros sikátoraiban egyedi ajándéktárgyakat kínáló kis üzleteket talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Pe străduțele din orașul vechi veți găsi mici magazine cu suveniruri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local craft shops",
+            "tip": "In the alleys of the old town you will find small shops with unique souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie ein solides Schloss für Ihr Fahrrad mit.",
+          "Der Anstieg zur Massenburg ist steil; eine gute Gangschaltung ist von Vorteil.",
+          "Achten Sie auf Fußgänger auf den gemeinsamen Wegen entlang der Mur."
+        ],
+        "hu": [
+          "Hozzon magával egy erős lakatot a kerékpárjához!",
+          "A Massenburgra vezető emelkedő meredek; egy jó váltó előny.",
+          "Vigyázzon a gyalogosokra a Mura menti közös utakon!"
+        ],
+        "ro": [
+          "Luați cu dvs. un lacăt solid pentru bicicletă.",
+          "Urcușul spre Massenburg este abrupt; o bicicletă cu viteze bune este un avantaj.",
+          "Fiți atenți la pietoni pe căile comune de-a lungul râului Mur."
+        ],
+        "en": [
+          "Bring a solid lock for your bike.",
+          "The climb to Massenburg is steep; a good gear system is an advantage.",
+          "Watch out for pedestrians on the shared paths along the Mur."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Cluster 1: Massenburg",
+            "hu": "1. klaszter: Massenburg",
+            "ro": "Cluster 1: Massenburg",
+            "en": "Cluster 1: Massenburg"
+          },
+          "coords": [
+            15.09,
+            47.3845
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe der Ruine und genießen Sie die Morgenstimmung und die Aussicht.",
+            "hu": "Parkoljon a rom közelében, és élvezze a reggeli hangulatot és a kilátást!",
+            "ro": "Parcați lângă ruine și bucurați-vă de atmosfera de dimineață și de priveliște.",
+            "en": "Park near the ruins and enjoy the morning atmosphere and the view."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Cluster 2: Altstadt (Hauptplatz)",
+            "hu": "2. klaszter: Óváros (Főtér)",
+            "ro": "Cluster 2: Orașul Vechi (Piața Principală)",
+            "en": "Cluster 2: Old Town (Main Square)"
+          },
+          "coords": [
+            15.094,
+            47.3805
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Finden Sie einen Parkplatz in einer der Tiefgaragen und erkunden Sie den Platz zu Fuß.",
+            "hu": "Keressen egy parkolóhelyet a mélygarázsok egyikében, és fedezze fel a teret gyalog!",
+            "ro": "Găsiți un loc de parcare într-una dintre parcările subterane și explorați piața pe jos.",
+            "en": "Find a parking spot in one of the underground car parks and explore the square on foot."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Hacklhaus & Winkelturm",
+            "hu": "Hackl-ház és Winkelturm",
+            "ro": "Hacklhaus și Winkelturm",
+            "en": "Hacklhaus & Winkelturm"
+          },
+          "coords": [
+            15.095,
+            47.381
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese Sehenswürdigkeiten sind nur wenige Schritte vom Hauptplatz entfernt.",
+            "hu": "Ezek a látnivalók csak néhány lépésre vannak a Főtértől.",
+            "ro": "Aceste atracții sunt la doar câțiva pași de Piața Principală.",
+            "en": "These sights are just a few steps from the main square."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Schwammerlturm",
+            "hu": "Schwammerlturm",
+            "ro": "Turnul Schwammerlturm",
+            "en": "Schwammerlturm"
+          },
+          "coords": [
+            15.0988,
+            47.3795
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang über die Murbrücke führt Sie direkt zum Turm.",
+            "hu": "Egy rövid séta a Mura-hídon át egyenesen a toronyhoz vezet.",
+            "ro": "O scurtă plimbare peste podul Mur vă duce direct la turn.",
+            "en": "A short walk across the Mur bridge takes you directly to the tower."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Cluster 3: Museums-Viertel",
+            "hu": "3. klaszter: Múzeumi negyed",
+            "ro": "Cluster 3: Cartierul Muzeelor",
+            "en": "Cluster 3: Museum Quarter"
+          },
+          "coords": [
+            15.0972,
+            47.382
+          ],
+          "category": "museums",
+          "arrive_at": "12:35",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Museums. Planen Sie hier auch Ihr Mittagessen.",
+            "hu": "Parkoljon a múzeum közelében! Itt tervezze az ebédet is!",
+            "ro": "Parcați lângă muzeu. Planificați-vă și prânzul aici.",
+            "en": "Park near the museum. Plan your lunch here as well."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Gärnerpark & Waasenkirche",
+            "hu": "Gärnerpark és Waasenkirche",
+            "ro": "Parcul Gärnerpark și Biserica Waasenkirche",
+            "en": "Gärnerpark & Waasen Church"
+          },
+          "coords": [
+            15.102,
+            47.3765
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Spaziergang im Park und einem Besuch der historischen Kirche.",
+            "hu": "Zárja a napot egy sétával a parkban és a történelmi templom meglátogatásával!",
+            "ro": "Încheiați ziua cu o plimbare în parc și o vizită la biserica istorică.",
+            "en": "End the day with a walk in the park and a visit to the historic church."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die Flexibilität des Autos, um den Tag auf der Massenburg mit einer herrlichen Aussicht zu beginnen. Fahren Sie dann ins Zentrum, parken Sie und erkunden Sie den historischen Kern Leobens zu Fuß. Nach dem Mittagessen fahren Sie zum MuseumsCenter, um in die Welt des Bergbaus einzutauchen. Ein letzter kurzer Autotrip führt Sie zum entspannenden Gärnerpark am Murufer, um den Tag ausklingen zu lassen.",
+        "hu": "Használja ki az autó rugalmasságát, és kezdje a napot a Massenburgon, csodálatos kilátással! Ezután hajtson be a központba, parkoljon le, és fedezze fel Leoben történelmi magját gyalog. Ebéd után irány a Múzeumközpont, ahol elmerülhet a bányászat világában. Egy utolsó rövid autózás a Mura-parti, pihentető Gärnerparkba vezet, ahol lezárhatja a napot.",
+        "ro": "Folosiți flexibilitatea mașinii pentru a începe ziua la Massenburg cu o priveliște magnifică. Apoi, conduceți spre centru, parcați și explorați nucleul istoric al orașului Leoben pe jos. După prânz, mergeți la Centrul Muzeal pentru a vă cufunda în lumea mineritului. O ultimă călătorie scurtă cu mașina vă va duce la relaxantul Parc Gärnerpark de pe malul Murului pentru a încheia ziua.",
+        "en": "Use the flexibility of the car to start the day at Massenburg with a magnificent view. Then drive to the center, park, and explore Leoben's historic core on foot. After lunch, head to the Museum Center to immerse yourself in the world of mining. A final short car trip will take you to the relaxing Gärnerpark on the banks of the Mur to end the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Port 361",
+            "tip": "Moderne Küche mit Blick auf die Mur, in der Nähe des Museums."
+          },
+          {
+            "name": "Landgasthaus 'Hiaslegg'",
+            "tip": "Für einen authentischen kulinarischen Ausflug etwas außerhalb der Stadt, falls Zeit bleibt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant Port 361",
+            "tip": "Modern konyha a Múzeum közelében, kilátással a Murára."
+          },
+          {
+            "name": "Landgasthaus 'Hiaslegg'",
+            "tip": "Egy autentikus kulináris kiruccanáshoz a városon kívül, ha jut rá idő."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Port 361",
+            "tip": "Bucătărie modernă cu vedere la râul Mur, lângă muzeu."
+          },
+          {
+            "name": "Landgasthaus 'Hiaslegg'",
+            "tip": "Pentru o excursie culinară autentică în afara orașului, dacă timpul permite."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Port 361",
+            "tip": "Modern cuisine with a view of the Mur river, near the museum."
+          },
+          {
+            "name": "Landgasthaus 'Hiaslegg'",
+            "tip": "For an authentic culinary excursion just outside the city, if time permits."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Panoramablick von der Massenburg",
+            "tip": "Fahren Sie hoch für ungestörte Momente und weite Blicke.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spaziergang am Murufer",
+            "tip": "Parken Sie das Auto und genießen Sie die Ruhe am Wasser.",
+            "emoji": "💧"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Panorámakilátás a Massenburgról",
+            "tip": "Hajtson fel a zavartalan pillanatokért és a pazar kilátásért!",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Séta a Mura partján",
+            "tip": "Parkolja le az autót, és élvezze a vízparti csendet!",
+            "emoji": "💧"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere panoramică de la Massenburg",
+            "tip": "Conduceți până sus pentru momente de liniște și priveliști largi.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plimbare pe malul râului Mur",
+            "tip": "Parcați mașina și bucurați-vă de liniștea de lângă apă.",
+            "emoji": "💧"
+          }
+        ],
+        "en": [
+          {
+            "name": "Panoramic view from Massenburg",
+            "tip": "Drive up for undisturbed moments and wide views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Walk on the banks of the Mur",
+            "tip": "Park the car and enjoy the peace and quiet by the water.",
+            "emoji": "💧"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gößl-Gwand",
+            "tip": "Authentische Trachtenmode und steirische Accessoires."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gößl-Gwand",
+            "tip": "Autentikus népviselet és stájer kiegészítők."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gößl-Gwand",
+            "tip": "Costume tradiționale autentice și accesorii stiriene."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gößl-Gwand",
+            "tip": "Authentic traditional costumes and Styrian accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Tiefgaragen im Stadtzentrum; das Parken auf der Straße ist oft zeitlich begrenzt.",
+          "Planen Sie Ihre Route zwischen den Clustern, um den Verkehr zu Stoßzeiten zu vermeiden.",
+          "Ein Navigationssystem ist hilfreich, um die Parkplätze in der Nähe der Sehenswürdigkeiten zu finden."
+        ],
+        "hu": [
+          "Használja a belvárosi mélygarázsokat; az utcai parkolás gyakran időkorlátos.",
+          "Tervezze meg az útvonalat a klaszterek között, hogy elkerülje a csúcsforgalmat!",
+          "Egy navigációs rendszer segít megtalálni a látnivalók közelében lévő parkolókat."
+        ],
+        "ro": [
+          "Folosiți parcările subterane din centrul orașului; parcarea pe stradă este adesea limitată în timp.",
+          "Planificați-vă ruta între clustere pentru a evita traficul la orele de vârf.",
+          "Un sistem de navigație este util pentru a găsi parcările din apropierea atracțiilor turistice."
+        ],
+        "en": [
+          "Use the underground car parks in the city center; street parking is often time-limited.",
+          "Plan your route between clusters to avoid rush hour traffic.",
+          "A navigation system is helpful for finding parking lots near the sights."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Cluster 1: Hauptplatz & Altstadt",
+            "hu": "1. klaszter: Főtér és Óváros",
+            "ro": "Cluster 1: Piața Principală și Orașul Vechi",
+            "en": "Cluster 1: Main Square & Old Town"
+          },
+          "coords": [
+            15.094,
+            47.3805
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zur Haltestelle 'Leoben Hauptplatz'.",
+            "hu": "Menjen busszal a 'Leoben Hauptplatz' megállóig!",
+            "ro": "Luați un autobuz până la stația 'Leoben Hauptplatz'.",
+            "en": "Take a bus to the 'Leoben Hauptplatz' stop."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Hacklhaus & Schwammerlturm",
+            "hu": "Hackl-ház és Schwammerlturm",
+            "ro": "Hacklhaus și Schwammerlturm",
+            "en": "Hacklhaus & Schwammerlturm"
+          },
+          "coords": [
+            15.0965,
+            47.3798
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz aus.",
+            "hu": "Rövid séta a Főtértől.",
+            "ro": "O scurtă plimbare pe jos din Piața Principală.",
+            "en": "A short walk from the main square."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Cluster 2: Museums-Viertel",
+            "hu": "2. klaszter: Múzeumi negyed",
+            "ro": "Cluster 2: Cartierul Muzeelor",
+            "en": "Cluster 2: Museum Quarter"
+          },
+          "coords": [
+            15.0972,
+            47.382
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Einige Buslinien halten direkt vor dem MuseumsCenter.",
+            "hu": "Néhány buszjárat közvetlenül a Múzeumközpont előtt áll meg.",
+            "ro": "Mai multe linii de autobuz opresc chiar în fața Centrului Muzeal.",
+            "en": "Several bus lines stop right in front of the Museum Center."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Cluster 3: Waasen & Gärnerpark",
+            "hu": "3. klaszter: Waasen és Gärnerpark",
+            "ro": "Cluster 3: Waasen și Parcul Gärnerpark",
+            "en": "Cluster 3: Waasen & Gärnerpark"
+          },
+          "coords": [
+            15.101,
+            47.377
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus Richtung Süden und steigen Sie in der Nähe der Waasenkirche aus.",
+            "hu": "Menjen busszal dél felé, és szálljon le a Waasenkirche közelében!",
+            "ro": "Luați un autobuz spre sud și coborâți lângă Biserica Waasenkirche.",
+            "en": "Take a bus south and get off near the Waasen Church."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Spaziergang im Gärnerpark",
+            "hu": "Séta a Gärnerparkban",
+            "ro": "Plimbare în Parcul Gärnerpark",
+            "en": "Walk in Gärnerpark"
+          },
+          "coords": [
+            15.1035,
+            47.376
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Von der Kirche aus ist es nur ein kurzer Spaziergang zum Park am Flussufer.",
+            "hu": "A templomtól csak egy rövid séta a folyóparti park.",
+            "ro": "De la biserică este doar o scurtă plimbare până la parcul de pe malul râului.",
+            "en": "From the church, it's just a short walk to the riverside park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der öffentliche Nahverkehr bringt Sie bequem zu den wichtigsten Punkten der Stadt. Beginnen Sie am Hauptplatz, erkunden Sie die Altstadt zu Fuß und nehmen Sie dann den Bus zum MuseumsCenter für eine Dosis Kultur und Geschichte. Nach dem Mittagessen bringt Sie ein weiterer Bus in den ruhigeren Stadtteil Waasen, wo Sie den Tag mit einem friedlichen Spaziergang im Gärnerpark am Murufer ausklingen lassen.",
+        "hu": "A tömegközlekedés kényelmesen eljuttatja a város legfontosabb pontjaihoz. Kezdjen a Főtéren, fedezze fel az óvárost gyalog, majd szálljon buszra a Múzeumközponthoz egy adag kultúráért és történelemért. Ebéd után egy másik busz a csendesebb Waasen negyedbe viszi, ahol a napot a Mura-parti Gärnerparkban tett békés sétával zárhatja.",
+        "ro": "Transportul public vă duce convenabil la principalele puncte de interes ale orașului. Începeți în Piața Principală, explorați Orașul Vechi pe jos, apoi luați autobuzul spre Centrul Muzeal pentru o doză de cultură și istorie. După prânz, un alt autobuz vă va duce în cartierul mai liniștit Waasen, unde puteți încheia ziua cu o plimbare pașnică în Parcul Gärnerpark de pe malul Murului.",
+        "en": "Public transport conveniently takes you to the city's main points of interest. Start at the Main Square, explore the Old Town on foot, then take a bus to the Museum Center for a dose of culture and history. After lunch, another bus will take you to the quieter Waasen district, where you can end the day with a peaceful walk in the Gärnerpark on the banks of the Mur."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pizzeria-Trattoria 'Porto-Fino'",
+            "tip": "Eine gute Option für ein zwangloses Mittagessen in der Nähe des Hauptplatzes."
+          },
+          {
+            "name": "Cafe Stil",
+            "tip": "Beliebt bei Einheimischen für Kaffee und Kuchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pizzeria-Trattoria 'Porto-Fino'",
+            "tip": "Jó választás egy laza ebédhez a Főtér közelében."
+          },
+          {
+            "name": "Cafe Stil",
+            "tip": "A helyiek körében népszerű kávézó és cukrászda."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pizzeria-Trattoria 'Porto-Fino'",
+            "tip": "O opțiune bună pentru un prânz informal lângă Piața Principală."
+          },
+          {
+            "name": "Cafe Stil",
+            "tip": "Popular printre localnici pentru cafea și prăjituri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pizzeria-Trattoria 'Porto-Fino'",
+            "tip": "A good option for a casual lunch near the Main Square."
+          },
+          {
+            "name": "Cafe Stil",
+            "tip": "Popular with locals for coffee and cake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bank im Gärnerpark",
+            "tip": "Finden Sie eine Bank mit Blick auf den Fluss für eine ruhige Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Inneres der Waasenkirche",
+            "tip": "Ein Ort der Stille und Besinnung abseits des städtischen Trubels.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pad a Gärnerparkban",
+            "tip": "Keressen egy padot, ahonnan a folyóra nézhet, és tartson egy csendes szünetet!",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Waasenkirche belseje",
+            "tip": "A csend és az elmélkedés helye a városi nyüzsgéstől távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă în Parcul Gärnerpark",
+            "tip": "Găsiți o bancă cu vedere la râu pentru o pauză liniștită.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Interiorul Bisericii Waasenkirche",
+            "tip": "Un loc de liniște și contemplare, departe de agitația orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench in Gärnerpark",
+            "tip": "Find a bench overlooking the river for a quiet break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Inside the Waasen Church",
+            "tip": "A place of silence and contemplation away from the city bustle.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Trafik am Hauptplatz",
+            "tip": "Für Postkarten und kleine Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trafik a Főtéren",
+            "tip": "Képeslapokért és apró ajándéktárgyakért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trafik în Piața Principală",
+            "tip": "Pentru vederi și mici suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trafik at the Main Square",
+            "tip": "For postcards and small souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Informieren Sie sich vorab über die Busfahrpläne, insbesondere am Wochenende.",
+          "Beachten Sie, dass der Aufstieg zur Massenburg mit öffentlichen Verkehrsmitteln nicht direkt möglich ist und einen längeren Fußmarsch erfordern würde."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy pénzt takarítson meg!",
+          "Tájékozódjon előre a buszmenetrendekről, különösen hétvégén!",
+          "Vegye figyelembe, hogy a Massenburgra való feljutás tömegközlekedéssel nem lehetséges közvetlenül, és hosszabb sétát igényelne."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru a economisi bani.",
+          "Verificați în avans orarele autobuzelor, mai ales în weekend.",
+          "Rețineți că accesul la Massenburg cu transportul public nu este direct posibil și ar necesita o plimbare mai lungă pe jos."
+        ],
+        "en": [
+          "Buy a day ticket for the bus to save money.",
+          "Check the bus schedules in advance, especially on weekends.",
+          "Note that reaching Massenburg by public transport is not directly possible and would require a longer walk."
+        ]
+      }
+    }
+  }
+}

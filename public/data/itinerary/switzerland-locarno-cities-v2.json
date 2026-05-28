@@ -1,0 +1,1436 @@
+{
+  "city_id": "switzerland-locarno-cities-v2",
+  "anchor": {
+    "name": "Locarno",
+    "coords": [
+      8.7944,
+      46.1667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Grande",
+            "hu": "Piazza Grande",
+            "ro": "Piazza Grande",
+            "en": "Piazza Grande"
+          },
+          "coords": [
+            8.7958,
+            46.1681
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Markt am Donnerstagmorgen für lokale Produkte.",
+            "hu": "Csütörtök délelőtt érdemes megnézni a helyi termékeket kínáló piacot.",
+            "ro": "Vizitați piața de joi dimineață pentru produse locale.",
+            "en": "Visit the market on Thursday morning for local products."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Sant'Antonio Abate",
+            "hu": "Sant'Antonio Abate templom",
+            "ro": "Biserica Sant'Antonio Abate",
+            "en": "Church of Sant'Antonio Abate"
+          },
+          "coords": [
+            8.7945,
+            46.1695
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:48",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckende barocke Stuckdekoration im Inneren.",
+            "hu": "Figyelje meg a lenyűgöző barokk stukkódíszítést a templombelsőben.",
+            "ro": "Observați decorațiunile impresionante de stuc baroc din interior.",
+            "en": "Look for the impressive baroque stucco decorations inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Visconteo",
+            "hu": "Visconti-kastély",
+            "ro": "Castelul Visconteo",
+            "en": "Visconteo Castle"
+          },
+          "coords": [
+            8.7932,
+            46.1685
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:19",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das archäologische Museum im Schloss ist einen Besuch wert.",
+            "hu": "A kastélyban található régészeti múzeumot érdemes meglátogatni.",
+            "ro": "Muzeul arheologic din interiorul castelului merită o vizită.",
+            "en": "The archaeological museum inside the castle is worth a visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Heiligtum Madonna del Sasso",
+            "hu": "Madonna del Sasso szentély",
+            "ro": "Sanctuarul Madonna del Sasso",
+            "en": "Sanctuary of Madonna del Sasso"
+          },
+          "coords": [
+            8.7915,
+            46.1725
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:19",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie die Standseilbahn für eine malerische Fahrt und um Energie zu sparen.",
+            "hu": "A festői úthoz és energiatakarékosságból válassza a siklót.",
+            "ro": "Luați funicularul pentru o călătorie pitorească și pentru a economisi energie.",
+            "en": "Take the funicular for a scenic ride and to save energy."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco delle Camelie",
+            "hu": "Kamélia Park",
+            "ro": "Parcul Cameliei",
+            "en": "Parco delle Camelie"
+          },
+          "coords": [
+            8.8075,
+            46.1625
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:59",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Die beste Zeit für einen Besuch ist im Frühling, wenn über 900 Kamelienarten blühen.",
+            "hu": "A látogatásra a tavasz a legjobb idő, amikor több mint 900 kaméliafaj virágzik.",
+            "ro": "Cel mai bun moment pentru a vizita este primăvara, când înfloresc peste 900 de soiuri de camelii.",
+            "en": "The best time to visit is in spring when over 900 varieties of camellias are in bloom."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Locarno",
+            "hu": "Lido Locarno",
+            "ro": "Lido Locarno",
+            "en": "Lido Locarno"
+          },
+          "coords": [
+            8.8095,
+            46.1645
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:24",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Sandstrand oder probieren Sie eine der Wasserrutschen aus.",
+            "hu": "Pihenjen a homokos strandon, vagy próbálja ki a vízi csúszdák egyikét.",
+            "ro": "Relaxați-vă pe plaja cu nisip sau încercați unul dintre toboganele de apă.",
+            "en": "Relax on the sandy beach or try one of the water slides."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Locarno, an der Piazza Grande, bevor Sie die barocke Pracht von Sant'Antonio Abate und die mittelalterliche Festung Castello Visconteo erkunden. Der Vormittag gipfelt in einem Aufstieg zur ikonischen Madonna del Sasso, die atemberaubende Ausblicke bietet.\nNach einem Mittagessen mit Seeblick führt Sie ein gemütlicher Spaziergang am Ufer des Lago Maggiore zum Parco delle Camelie. Bewundern Sie die botanische Vielfalt, bevor Sie sich auf den Weg zum Lido Locarno machen, einer modernen Oase für Entspannung und Wasserspaß.\nDer Nachmittag ist der puren Entspannung am Lido gewidmet. Genießen Sie die Sonne, schwimmen Sie im See oder in den Pools und lassen Sie die Seele baumeln. Die gut ausgestattete Anlage bietet für jeden etwas.\nSchließen Sie Ihren Tag mit einem Abendessen in einem Grotto in den Hügeln über der Stadt ab, wo Sie authentische Tessiner Küche genießen können. Der Spaziergang zurück ins Zentrum unter dem Sternenhimmel ist der perfekte Abschluss eines unvergesslichen Tages.",
+        "hu": "Kezdje a napot Locarno szívében, a Piazza Grande téren, majd fedezze fel a Sant'Antonio Abate barokk pompáját és a középkori Visconti-kastélyt. A délelőtt a Madonna del Sasso ikonikus szentélyéhez való felemelkedéssel csúcsosodik ki, ahonnan lélegzetelállító kilátás nyílik.\nEgy tóparti ebéd után egy kellemes séta vezet a Lago Maggiore partján a Kamélia Parkba. Csodálja meg a botanikai sokféleséget, mielőtt a Lido Locarno felé veszi az irányt, amely a pihenés és a vízi szórakozás modern oázisa.\nA délután a tiszta kikapcsolódásé a Lidón. Élvezze a napsütést, ússzon a tóban vagy a medencékben, és hagyja, hogy a lelke is pihenjen. A jól felszerelt létesítmény mindenki számára kínál valamit.\nZárja a napot egy vacsorával a város feletti dombok egyik grotto-jában, ahol autentikus tessini konyhát kóstolhat. A csillagos ég alatt visszasétálni a központba tökéletes befejezése egy felejthetetlen napnak.",
+        "ro": "Începeți ziua în inima orașului Locarno, în Piazza Grande, înainte de a explora splendoarea barocă a bisericii Sant'Antonio Abate și fortăreața medievală Castello Visconteo. Dimineața culminează cu o urcare la iconicul sanctuar Madonna del Sasso, care oferă priveliști uluitoare.\nDupă un prânz cu vedere la lac, o plimbare relaxantă de-a lungul malului lacului Maggiore vă va duce la Parco delle Camelie. Admirați diversitatea botanică înainte de a vă îndrepta spre Lido Locarno, o oază modernă pentru relaxare și distracție acvatică.\nDupă-amiaza este dedicată relaxării pure la Lido. Bucurați-vă de soare, înotați în lac sau în piscine și lăsați-vă sufletul să se odihnească. Complexul bine echipat oferă ceva pentru toată lumea.\nÎncheiați ziua cu o cină la un grotto pe dealurile de deasupra orașului, unde puteți savura bucătăria autentică din Ticino. Plimbarea înapoi spre centru sub cerul înstelat este finalul perfect pentru o zi de neuitat.",
+        "en": "Start your day in the heart of Locarno, at Piazza Grande, before exploring the baroque splendor of Sant'Antonio Abate and the medieval fortress of Castello Visconteo. The morning culminates with an ascent to the iconic Madonna del Sasso, offering breathtaking views.\nAfter a lakeside lunch, a leisurely stroll along the shore of Lake Maggiore will take you to the Parco delle Camelie. Admire the botanical diversity before heading to Lido Locarno, a modern oasis for relaxation and water fun.\nThe afternoon is dedicated to pure relaxation at the Lido. Enjoy the sun, swim in the lake or the pools, and let your soul unwind. The well-equipped facility offers something for everyone.\nConclude your day with dinner at a grotto in the hills above the city, where you can enjoy authentic Ticino cuisine. The walk back to the center under the starry sky is the perfect end to an unforgettable day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Polenta e brasato",
+            "tip": "Herzhafter Schmorbraten mit cremiger Polenta, perfekt für ein traditionelles Abendessen."
+          },
+          {
+            "name": "Risotto ai funghi",
+            "tip": "Ein klassisches Tessiner Risotto mit lokalen Steinpilzen."
+          },
+          {
+            "name": "Formaggini della Valle Maggia",
+            "tip": "Probieren Sie diese kleinen, frischen Ziegenkäse aus einem nahegelegenen Tal."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Polenta e brasato",
+            "tip": "Kiadós párolt marhahús krémes polentával, tökéletes egy hagyományos vacsorához."
+          },
+          {
+            "name": "Risotto ai funghi",
+            "tip": "Klasszikus tessini rizottó helyi vargányával."
+          },
+          {
+            "name": "Formaggini della Valle Maggia",
+            "tip": "Kóstolja meg ezeket a közeli völgyből származó kicsi, friss kecskesajtokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Polenta e brasato",
+            "tip": "Friptură de vită consistentă cu mămăligă cremoasă, perfectă pentru o cină tradițională."
+          },
+          {
+            "name": "Risotto ai funghi",
+            "tip": "Un risotto clasic din Ticino cu hribi locali."
+          },
+          {
+            "name": "Formaggini della Valle Maggia",
+            "tip": "Încercați aceste brânzeturi mici și proaspete de capră dintr-o vale din apropiere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Polenta e brasato",
+            "tip": "Hearty braised beef with creamy polenta, perfect for a traditional dinner."
+          },
+          {
+            "name": "Risotto ai funghi",
+            "tip": "A classic Ticino risotto made with local porcini mushrooms."
+          },
+          {
+            "name": "Formaggini della Valle Maggia",
+            "tip": "Try these small, fresh goat cheeses from a nearby valley."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenuntergang bei Madonna del Sasso",
+            "tip": "Der Blick auf die Stadt und den See im Abendlicht ist magisch.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spaziergang im Parco delle Camelie",
+            "tip": "Finden Sie eine ruhige Bank zwischen den blühenden Blumen.",
+            "emoji": "🌸"
+          },
+          {
+            "name": "Cardada Cimetta",
+            "tip": "Nehmen Sie die Seilbahn für absolute Ruhe und einen Panoramablick.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente a Madonna del Sassónál",
+            "tip": "A városra és a tóra nyíló kilátás az esti fényben varázslatos.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Séta a Kamélia Parkban",
+            "tip": "Keressen egy csendes padot a virágzó növények között.",
+            "emoji": "🌸"
+          },
+          {
+            "name": "Cardada Cimetta",
+            "tip": "Menjen fel a felvonóval a teljes csendért és a panorámás kilátásért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apus de soare la Madonna del Sasso",
+            "tip": "Priveliștea orașului și a lacului în lumina serii este magică.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plimbare în Parco delle Camelie",
+            "tip": "Găsiți o bancă liniștită printre florile înflorite.",
+            "emoji": "🌸"
+          },
+          {
+            "name": "Cardada Cimetta",
+            "tip": "Luați telecabina pentru o liniște absolută și o vedere panoramică.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunset at Madonna del Sasso",
+            "tip": "The view of the city and the lake in the evening light is magical.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Stroll in Parco delle Camelie",
+            "tip": "Find a quiet bench among the blooming flowers.",
+            "emoji": "🌸"
+          },
+          {
+            "name": "Cardada Cimetta",
+            "tip": "Take the cable car for absolute tranquility and panoramic views.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markt in der Altstadt",
+            "tip": "Kaufen Sie lokale Spezialitäten wie Salami, Käse und Merlot-Wein."
+          },
+          {
+            "name": "Via Ramogna",
+            "tip": "Eine charmante Straße mit kleinen Boutiquen und Kunsthandwerksläden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piac az óvárosban",
+            "tip": "Vásároljon helyi különlegességeket, mint például szalámit, sajtot és Merlot bort."
+          },
+          {
+            "name": "Via Ramogna",
+            "tip": "Egy bájos utca kis butikokkal és kézműves üzletekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața din Centrul Vechi",
+            "tip": "Cumpărați specialități locale precum salam, brânză și vin Merlot."
+          },
+          {
+            "name": "Via Ramogna",
+            "tip": "O stradă fermecătoare cu mici buticuri și magazine de artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Town Market",
+            "tip": "Shop for local specialties like salami, cheese, and Merlot wine."
+          },
+          {
+            "name": "Via Ramogna",
+            "tip": "A charming street with small boutiques and artisan shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die Standseilbahn zur Madonna del Sasso ist eine große Zeit- und Energieersparnis.",
+          "Nehmen Sie immer eine Wasserflasche mit, besonders an warmen Tagen.",
+          "Einige Grottos akzeptieren nur Bargeld, also seien Sie vorbereitet."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert az óvárosi macskakövek egyenetlenek lehetnek.",
+          "A Madonna del Sasso-hoz vezető sikló sok időt és energiát takarít meg.",
+          "Mindig legyen nálad egy üveg víz, különösen a meleg napokon.",
+          "Néhány grotto csak készpénzt fogad el, ezért készüljön fel."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pietrele din Centrul Vechi pot fi denivelate.",
+          "Funicularul către Madonna del Sasso economisește mult timp și energie.",
+          "Luați întotdeauna cu voi o sticlă de apă, mai ales în zilele călduroase.",
+          "Unele grotto-uri acceptă doar numerar, așa că fiți pregătiți."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "The funicular to Madonna del Sasso is a great time and energy saver.",
+          "Always carry a water bottle, especially on warm days.",
+          "Some grottos may only accept cash, so be prepared."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Grande",
+            "hu": "Piazza Grande",
+            "ro": "Piazza Grande",
+            "en": "Piazza Grande"
+          },
+          "coords": [
+            8.7958,
+            46.1681
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Perfekter Ausgangspunkt, um die Atmosphäre aufzusaugen, bevor Sie losradeln.",
+            "hu": "Tökéletes kiindulópont a hangulat magába szívásához, mielőtt biciklire pattan.",
+            "ro": "Punctul de plecare perfect pentru a absorbi atmosfera înainte de a porni la drum.",
+            "en": "Perfect starting point to soak up the atmosphere before you start cycling."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Visconteo",
+            "hu": "Visconti-kastély",
+            "ro": "Castelul Visconteo",
+            "en": "Visconteo Castle"
+          },
+          "coords": [
+            8.7932,
+            46.1685
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, um das Museum im Inneren zu erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárját, hogy felfedezhesse a belső múzeumot.",
+            "ro": "Legați-vă bicicleta în siguranță pentru a explora muzeul din interior.",
+            "en": "Lock your bike securely to explore the museum inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Falconeria Locarno",
+            "hu": "Falconeria Locarno",
+            "ro": "Falconeria Locarno",
+            "en": "Falconeria Locarno"
+          },
+          "coords": [
+            8.778,
+            46.1664
+          ],
+          "category": "natural features",
+          "arrive_at": "11:10",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Überprüfen Sie die Showzeiten im Voraus, um die beeindruckende Greifvogelschau nicht zu verpassen.",
+            "hu": "Ellenőrizze előre az előadások időpontját, hogy ne maradjon le a lenyűgöző ragadozómadár-bemutatóról.",
+            "ro": "Verificați orele spectacolelor în avans pentru a nu rata impresionantul show cu păsări de pradă.",
+            "en": "Check the show times in advance so you don't miss the impressive bird of prey show."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco delle Camelie",
+            "hu": "Kamélia Park",
+            "ro": "Parcul Cameliei",
+            "en": "Parco delle Camelie"
+          },
+          "coords": [
+            8.8075,
+            46.1625
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:05",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Der Park ist ein idealer Ort für eine Mittagspause. Es gibt viele Bänke mit Seeblick.",
+            "hu": "A park ideális hely egy ebédszünetre. Sok pad található tóra néző kilátással.",
+            "ro": "Parcul este un loc ideal pentru o pauză de prânz. Există multe bănci cu vedere la lac.",
+            "en": "The park is an ideal spot for a lunch break. There are many benches with lake views."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido di Locarno",
+            "hu": "Lido di Locarno",
+            "ro": "Lido di Locarno",
+            "en": "Lido di Locarno"
+          },
+          "coords": [
+            8.8095,
+            46.1645
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 150,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um sich nach einer Radtour mit einem Sprung in den See abzukühlen.",
+            "hu": "Tökéletes hely a kerékpártúra utáni felfrissülésre egy tóban való csobbanással.",
+            "ro": "Locul perfect pentru a vă răcori cu o baie în lac după o plimbare cu bicicleta.",
+            "en": "The perfect place to cool off with a dip in the lake after a bike ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour an der sonnigen Piazza Grande. Von dort aus ist es nur eine kurze Fahrt zum historischen Castello Visconteo, wo Sie in die Vergangenheit eintauchen können. Der Morgen wird mit einem Besuch der Falconeria Locarno abgerundet, wo Sie eine atemberaubende Greifvogelschau erleben.\nNach der Show führt Sie eine malerische Route entlang des Sees zum Parco delle Camelie. Legen Sie hier eine wohlverdiente Mittagspause inmitten der Blumen ein und genießen Sie die ruhige Atmosphäre und die Aussicht auf den See.\nDer Nachmittag steht ganz im Zeichen der Entspannung am Lido di Locarno. Nach der Radtour können Sie sich im kühlen Wasser des Lago Maggiore erfrischen, am Sandstrand entspannen oder die Wasserrutschen ausprobieren. Es ist der perfekte Abschluss für einen aktiven Tag.\nBeenden Sie Ihren Tag mit einer gemütlichen Rückfahrt ins Zentrum. Gönnen Sie sich ein Gelato an der Seepromenade und beobachten Sie, wie die Sonne hinter den Bergen versinkt. Ein Abendessen in einem der vielen Restaurants an der Piazza Grande rundet das Erlebnis ab.",
+        "hu": "Indítsa a kerékpártúrát a napsütötte Piazza Grande-ról. Innen csak egy rövid út a történelmi Visconti-kastély, ahol elmerülhet a múltban. A délelőtt a Falconeria Locarno meglátogatásával zárul, ahol egy lélegzetelállító ragadozómadár-bemutatón vehet részt.\nAz előadás után egy festői útvonal vezet a tó mentén a Kamélia Parkba. Itt tartson egy jól megérdemelt ebédszünetet a virágok között, és élvezze a csendes légkört és a tóra nyíló kilátást.\nA délután a Lido di Locarno-n való pihenésről szól. A kerékpártúra után felfrissülhet a Lago Maggiore hűs vizében, pihenhet a homokos strandon vagy kipróbálhatja a vízi csúszdákat. Ez a tökéletes befejezése egy aktív napnak.\nZárja a napot egy kellemes visszaúttal a központba. Kényeztesse magát egy fagyival a tóparti sétányon, és nézze, ahogy a nap lebukik a hegyek mögött. Egy vacsora a Piazza Grande számos éttermének egyikében teszi teljessé az élményt.",
+        "ro": "Începeți turul cu bicicleta din însorita Piazza Grande. De acolo, este doar o scurtă plimbare până la istoricul Castel Visconteo, unde vă puteți cufunda în trecut. Dimineața este completată de o vizită la Falconeria Locarno, unde veți asista la un spectacol uluitor cu păsări de pradă.\nDupă spectacol, un traseu pitoresc de-a lungul lacului vă duce la Parco delle Camelie. Luați o pauză de prânz binemeritată aici, printre flori, și bucurați-vă de atmosfera liniștită și de priveliștea lacului.\nDupă-amiaza este dedicată relaxării la Lido di Locarno. După turul cu bicicleta, vă puteți răcori în apa rece a lacului Maggiore, vă puteți relaxa pe plaja cu nisip sau puteți încerca toboganele cu apă. Este finalul perfect pentru o zi activă.\nÎncheiați ziua cu o plimbare relaxantă înapoi spre centru. Savurați o înghețată pe promenada de pe malul lacului și priviți cum soarele apune în spatele munților. O cină la unul dintre numeroasele restaurante din Piazza Grande completează experiența.",
+        "en": "Start your bike tour from the sunny Piazza Grande. From there, it's just a short ride to the historic Castello Visconteo, where you can immerse yourself in the past. The morning is rounded off with a visit to Falconeria Locarno for a breathtaking bird of prey show.\nAfter the show, a scenic route along the lake takes you to the Parco delle Camelie. Take a well-deserved lunch break here among the flowers and enjoy the peaceful atmosphere and the view of the lake.\nThe afternoon is all about relaxing at the Lido di Locarno. After the bike tour, you can cool off in the cool waters of Lake Maggiore, relax on the sandy beach, or try the water slides. It's the perfect end to an active day.\nEnd your day with a leisurely ride back to the center. Treat yourself to a gelato on the lakeside promenade and watch the sun set behind the mountains. Dinner at one of the many restaurants in Piazza Grande completes the experience."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokaler Merlot-Wein",
+            "tip": "Probieren Sie ein Glas des berühmten Tessiner Rotweins."
+          },
+          {
+            "name": "Gazzosa",
+            "tip": "Ein traditionelles, kohlensäurehaltiges Zitronengetränk, sehr erfrischend."
+          },
+          {
+            "name": "Torta di Pane",
+            "tip": "Ein köstlicher Brotkuchen, eine Tessiner Spezialität zur Resteverwertung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi Merlot bor",
+            "tip": "Kóstoljon meg egy pohárral a híres tessini vörösborból."
+          },
+          {
+            "name": "Gazzosa",
+            "tip": "Hagyományos, szénsavas citromos ital, nagyon frissítő."
+          },
+          {
+            "name": "Torta di Pane",
+            "tip": "Finom kenyérpuding, egy tessini specialitás a maradékok felhasználására."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin Merlot local",
+            "tip": "Încercați un pahar din celebrul vin roșu din Ticino."
+          },
+          {
+            "name": "Gazzosa",
+            "tip": "O băutură tradițională carbogazoasă cu lămâie, foarte răcoritoare."
+          },
+          {
+            "name": "Torta di Pane",
+            "tip": "O prăjitură delicioasă din pâine, o specialitate din Ticino pentru a folosi resturile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Merlot wine",
+            "tip": "Try a glass of the famous Ticino red wine."
+          },
+          {
+            "name": "Gazzosa",
+            "tip": "A traditional carbonated lemon drink, very refreshing."
+          },
+          {
+            "name": "Torta di Pane",
+            "tip": "A delicious bread cake, a Ticino specialty for using up leftovers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Uferweg",
+            "tip": "Der Radweg entlang des Sees bietet ständig wechselnde, friedliche Ausblicke.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Picknick im Parco delle Camelie",
+            "tip": "Ein ruhiger Ort, um die Natur zu genießen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Abendstimmung am Lido",
+            "tip": "Nachdem die Menschenmassen gegangen sind, ist der Strand ein Ort der Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tóparti út",
+            "tip": "A tó menti kerékpárút folyamatosan változó, békés kilátást kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Piknik a Kamélia Parkban",
+            "tip": "Csendes hely a természet élvezetére.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Esti hangulat a Lidón",
+            "tip": "Miután a tömeg elment, a strand a nyugalom helyszíne.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de pe malul lacului",
+            "tip": "Pista de biciclete de-a lungul lacului oferă priveliști mereu schimbătoare și pașnice.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Picnic în Parco delle Camelie",
+            "tip": "Un loc liniștit pentru a te bucura de natură.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Atmosfera de seară la Lido",
+            "tip": "După ce mulțimile pleacă, plaja este un loc de liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lakeside path",
+            "tip": "The cycle path along the lake offers constantly changing, peaceful views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Picnic in the Parco delle Camelie",
+            "tip": "A quiet place to enjoy nature.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Evening mood at the Lido",
+            "tip": "After the crowds have left, the beach is a place of tranquility.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Kunsthandwerk",
+            "tip": "Suchen Sie nach handgefertigter Keramik oder Holzarbeiten in den Gassen der Altstadt."
+          },
+          {
+            "name": "Tessiner Honig",
+            "tip": "Ein süßes und authentisches Souvenir von den lokalen Märkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen kézzel készített kerámiát vagy fafaragásokat az óváros sikátoraiban."
+          },
+          {
+            "name": "Tessini méz",
+            "tip": "Édes és autentikus szuvenír a helyi piacokról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați ceramică sau obiecte din lemn lucrate manual pe aleile din Centrul Vechi."
+          },
+          {
+            "name": "Miere din Ticino",
+            "tip": "Un suvenir dulce și autentic de la piețele locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local crafts",
+            "tip": "Look for handmade ceramics or woodcarvings in the old town alleys."
+          },
+          {
+            "name": "Ticino Honey",
+            "tip": "A sweet and authentic souvenir from the local markets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein E-Bike, um die Hügel müheloser zu bewältigen.",
+          "Der Radweg am See ist flach und für alle Fitnesslevel geeignet.",
+          "Achten Sie auf Fußgänger auf den gemeinsamen Wegen.",
+          "Vergessen Sie nicht, Ihr Fahrrad abzuschließen, auch bei kurzen Stopps."
+        ],
+        "hu": [
+          "Béreljen e-biciklit, hogy könnyebben megbirkózzon a dombokkal.",
+          "A tóparti kerékpárút sík és minden edzettségi szintnek megfelel.",
+          "Vigyázzon a gyalogosokra a közös utakon.",
+          "Ne felejtse el lezárni a kerékpárját, még rövid megállók esetén sem."
+        ],
+        "ro": [
+          "Închiriați o bicicletă electrică pentru a urca dealurile mai ușor.",
+          "Pista de biciclete de pe malul lacului este plată și potrivită pentru toate nivelurile de fitness.",
+          "Fiți atenți la pietoni pe căile comune.",
+          "Nu uitați să vă legați bicicleta, chiar și pentru opriri scurte."
+        ],
+        "en": [
+          "Rent an e-bike to tackle the hills more effortlessly.",
+          "The lakeside cycle path is flat and suitable for all fitness levels.",
+          "Be mindful of pedestrians on shared paths.",
+          "Don't forget to lock your bike, even for short stops."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 9.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum & Kaffee",
+            "hu": "Parkolás a központban és kávé",
+            "ro": "Parcare centrală și cafea",
+            "en": "Central Parking & Coffee"
+          },
+          "coords": [
+            8.797,
+            46.17
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus Largo Zorzi, es ist zentral und ein guter Ausgangspunkt.",
+            "hu": "Parkoljon a Largo Zorzi parkolóházban, központi helyen van és jó kiindulópont.",
+            "ro": "Parcați în parcarea Largo Zorzi, este centrală și un bun punct de plecare.",
+            "en": "Park at the Largo Zorzi car park, it's central and a good starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Grande",
+            "hu": "Piazza Grande",
+            "ro": "Piazza Grande",
+            "en": "Piazza Grande"
+          },
+          "coords": [
+            8.7958,
+            46.1681
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die Arkaden und genießen Sie die lebhafte Atmosphäre.",
+            "hu": "Sétáljon végig az árkádok alatt, és élvezze az élénk hangulatot.",
+            "ro": "Plimbați-vă pe sub arcade și bucurați-vă de atmosfera plină de viață.",
+            "en": "Stroll under the arcades and enjoy the lively atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Visconteo",
+            "hu": "Visconti-kastély",
+            "ro": "Castelul Visconteo",
+            "en": "Visconteo Castle"
+          },
+          "coords": [
+            8.7932,
+            46.1685
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:15",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Piazza. Das Museum ist faszinierend.",
+            "hu": "Rövid séta a Piazza-tól. A múzeum lenyűgöző.",
+            "ro": "O scurtă plimbare de la Piazza. Muzeul este fascinant.",
+            "en": "A short walk from the Piazza. The museum is fascinating."
+          }
+        },
+        {
+          "name": {
+            "de": "Heiligtum Madonna del Sasso",
+            "hu": "Madonna del Sasso szentély",
+            "ro": "Sanctuarul Madonna del Sasso",
+            "en": "Sanctuary of Madonna del Sasso"
+          },
+          "coords": [
+            8.7915,
+            46.1725
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:50",
+          "stay_min": 75,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz in der Nähe des Heiligtums, aber seien Sie auf enge Straßen vorbereitet.",
+            "hu": "Vezessen a szentélyhez közeli parkolóhoz, de készüljön fel a szűk utakra.",
+            "ro": "Conduceți până la parcarea de lângă sanctuar, dar fiți pregătit pentru drumuri înguste.",
+            "en": "Drive to the car park near the sanctuary, but be prepared for narrow roads."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Orselina",
+            "hu": "Ebéd Orselinában",
+            "ro": "Prânz în Orselina",
+            "en": "Lunch in Orselina"
+          },
+          "coords": [
+            8.79,
+            46.174
+          ],
+          "category": "gastro",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie ein Mittagessen mit Panoramablick in einem Restaurant in Orselina.",
+            "hu": "Élvezze a panorámás ebédet egy orselinai étteremben.",
+            "ro": "Bucurați-vă de un prânz cu vedere panoramică la un restaurant din Orselina.",
+            "en": "Enjoy lunch with a panoramic view at a restaurant in Orselina."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco delle Camelie",
+            "hu": "Kamélia Park",
+            "ro": "Parcul Cameliei",
+            "en": "Parco delle Camelie"
+          },
+          "coords": [
+            8.8075,
+            46.1625
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:45",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.2,
+          "tip_5lang": {
+            "de": "Parkplätze sind direkt am Park vorhanden. Ein entspannender Spaziergang nach dem Mittagessen.",
+            "hu": "Parkolóhelyek közvetlenül a parknál találhatók. Pihentető séta ebéd után.",
+            "ro": "Parcarea este disponibilă chiar lângă parc. O plimbare relaxantă după prânz.",
+            "en": "Parking is available right by the park. A relaxing walk after lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido di Locarno",
+            "hu": "Lido di Locarno",
+            "ro": "Lido di Locarno",
+            "en": "Lido di Locarno"
+          },
+          "coords": [
+            8.8095,
+            46.1645
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:55",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto am Park stehen und gehen Sie zu Fuß zum Lido für einen entspannten Nachmittag.",
+            "hu": "Hagyja az autót a parkban, és sétáljon a Lidóhoz egy pihentető délutánra.",
+            "ro": "Lăsați mașina la parc și mergeți pe jos la Lido pentru o după-amiază relaxantă.",
+            "en": "Leave the car at the park and walk to the Lido for a relaxing afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Parken Sie zentral und beginnen Sie Ihren Tag zu Fuß mit einem Kaffee, bevor Sie die Piazza Grande und das Castello Visconteo erkunden. Dieser erste Cluster ermöglicht es Ihnen, das historische Herz von Locarno aufzusaugen. Steigen Sie dann wieder ins Auto für die kurze Fahrt hinauf nach Orselina.\nDer zweite Cluster konzentriert sich auf die Höhe. Besuchen Sie das prächtige Heiligtum Madonna del Sasso. Anschließend genießen Sie ein Mittagessen in einem der Panoramarestaurants von Orselina, mit atemberaubender Aussicht auf den See und die Berge, bevor Sie wieder ins Tal fahren.\nDer dritte und letzte Cluster ist der Entspannung am See gewidmet. Fahren Sie zum Parco delle Camelie, parken Sie Ihr Auto und genießen Sie einen Spaziergang durch die Gärten. Ein kurzer Fußweg führt Sie zum Lido di Locarno, wo Sie den Rest des Nachmittags mit Schwimmen und Sonnenbaden verbringen.\nSchließen Sie Ihren Tag mit einer malerischen Fahrt entlang des Sees ab, bevor Sie zum Abendessen anhalten. Die Flexibilität des Autos ermöglicht es Ihnen, ein abgelegenes Grotto zu entdecken und den Tag mit authentischer lokaler Küche ausklingen zu lassen.",
+        "hu": "Parkoljon a központban, és kezdje a napot egy kávéval, mielőtt gyalogosan felfedezné a Piazza Grande-t és a Visconti-kastélyt. Ez az első klaszter lehetővé teszi, hogy magába szívja Locarno történelmi szívét. Ezután üljön vissza az autóba egy rövid útra Orselinába.\nA második klaszter a magasságra összpontosít. Látogasson el a csodálatos Madonna del Sasso szentélyhez. Ezután ebédeljen Orselina egyik panorámás éttermében, ahonnan lélegzetelállító kilátás nyílik a tóra és a hegyekre, mielőtt visszatérne a völgybe.\nA harmadik és egyben utolsó klaszter a tóparti pihenésnek szentelt. Vezessen a Kamélia Parkba, parkolja le az autót, és élvezze a sétát a kertekben. Egy rövid séta vezet a Lido di Locarno-hoz, ahol a délután hátralévő részét úszással és napozással töltheti.\nZárja a napot egy festői autózással a tó mentén, mielőtt megállna vacsorázni. Az autó rugalmassága lehetővé teszi, hogy felfedezzen egy félreeső grottót, és a napot autentikus helyi ételekkel zárja.",
+        "ro": "Parcați central și începeți ziua pe jos cu o cafea înainte de a explora Piazza Grande și Castelul Visconteo. Acest prim grup vă permite să absorbiți inima istorică a orașului Locarno. Apoi, urcați-vă din nou în mașină pentru o scurtă călătorie până la Orselina.\nAl doilea grup se concentrează pe altitudine. Vizitați magnificul sanctuar Madonna del Sasso. Apoi, bucurați-vă de prânz la unul dintre restaurantele panoramice din Orselina, cu vederi uimitoare asupra lacului și munților, înainte de a coborî înapoi în vale.\nAl treilea și ultimul grup este dedicat relaxării pe malul lacului. Conduceți până la Parco delle Camelie, parcați mașina și bucurați-vă de o plimbare prin grădini. O scurtă plimbare pe jos vă duce la Lido di Locarno, unde vă puteți petrece restul după-amiezii înotând și făcând plajă.\nÎncheiați ziua cu o plimbare pitorească de-a lungul lacului înainte de a opri pentru cină. Flexibilitatea mașinii vă permite să descoperiți un grotto retras și să încheiați ziua cu bucătărie locală autentică.",
+        "en": "Park centrally and start your day on foot with a coffee before exploring Piazza Grande and Castello Visconteo. This first cluster allows you to soak up the historic heart of Locarno. Then, get back in the car for the short drive up to Orselina.\nThe second cluster focuses on altitude. Visit the magnificent Sanctuary of Madonna del Sasso. Afterwards, enjoy lunch at one of Orselina's panoramic restaurants, with stunning views of the lake and mountains, before heading back down into the valley.\nThe third and final cluster is dedicated to lakeside relaxation. Drive to the Parco delle Camelie, park your car, and enjoy a walk through the gardens. A short walk takes you to the Lido di Locarno, where you can spend the rest of the afternoon swimming and sunbathing.\nConclude your day with a scenic drive along the lake before stopping for dinner. The flexibility of the car allows you to discover a secluded grotto and end the day with authentic local cuisine."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Grotto-Spezialitäten",
+            "tip": "Suchen Sie ein Grotto in den Hügeln für authentische Gerichte wie kalte Platten und Polenta."
+          },
+          {
+            "name": "Fisch aus dem See",
+            "tip": "Probieren Sie frisch gefangenen Fisch in einem Restaurant am Seeufer."
+          },
+          {
+            "name": "Nocino",
+            "tip": "Ein traditioneller Walnusslikör, der oft nach dem Essen serviert wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grotto specialitások",
+            "tip": "Keressen egy grottót a dombokon autentikus ételekért, mint a hidegtálak és a polenta."
+          },
+          {
+            "name": "Tavi hal",
+            "tip": "Kóstoljon frissen fogott halat egy tóparti étteremben."
+          },
+          {
+            "name": "Nocino",
+            "tip": "Hagyományos diólikőr, amelyet gyakran étkezés után szolgálnak fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Specialități Grotto",
+            "tip": "Căutați un grotto pe dealuri pentru mâncăruri autentice, cum ar fi platouri reci și mămăligă."
+          },
+          {
+            "name": "Pește din lac",
+            "tip": "Încercați pește proaspăt prins la un restaurant de pe malul lacului."
+          },
+          {
+            "name": "Nocino",
+            "tip": "Un lichior tradițional de nuci, adesea servit după masă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grotto Specialties",
+            "tip": "Find a grotto in the hills for authentic dishes like cold platters and polenta."
+          },
+          {
+            "name": "Lake Fish",
+            "tip": "Try freshly caught fish at a lakeside restaurant."
+          },
+          {
+            "name": "Nocino",
+            "tip": "A traditional walnut liqueur often served after a meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vallemaggia",
+            "tip": "Machen Sie einen kurzen Abstecher in dieses nahegelegene Tal für atemberaubende Natur und ruhige Dörfer.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtspunkt in Orselina",
+            "tip": "Finden Sie einen ruhigen Ort abseits des Heiligtums, um die Aussicht zu genießen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Späte Stunden am Lido",
+            "tip": "Bleiben Sie bis zum späten Nachmittag, wenn es ruhiger wird.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vallemaggia",
+            "tip": "Tegyen egy rövid kitérőt ebbe a közeli völgybe a lenyűgöző természetért és a csendes falvakért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátópont Orselinában",
+            "tip": "Keressen egy csendes helyet a szentélytől távol, hogy élvezze a kilátást.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Késői órák a Lidón",
+            "tip": "Maradjon késő délutánig, amikor csendesebbé válik.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vallemaggia",
+            "tip": "Faceți o scurtă excursie în această vale din apropiere pentru o natură uluitoare și sate liniștite.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Punct de belvedere în Orselina",
+            "tip": "Găsiți un loc liniștit, departe de sanctuar, pentru a vă bucura de priveliște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ore târzii la Lido",
+            "tip": "Stați până după-amiaza târziu, când devine mai liniștit.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vallemaggia",
+            "tip": "Take a short detour to this nearby valley for stunning nature and quiet villages.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Viewpoint in Orselina",
+            "tip": "Find a quiet spot away from the sanctuary to enjoy the view.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Late hours at the Lido",
+            "tip": "Stay until late afternoon when it gets quieter.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Centro Tenero",
+            "tip": "Ein Einkaufszentrum etwas außerhalb der Stadt für eine größere Auswahl."
+          },
+          {
+            "name": "Farina Bóna",
+            "tip": "Suchen Sie nach diesem gerösteten Maismehl, einer einzigartigen lokalen Spezialität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Centro Tenero",
+            "tip": "Egy bevásárlóközpont a városon kívül a nagyobb választékért."
+          },
+          {
+            "name": "Farina Bóna",
+            "tip": "Keresse ezt a pörkölt kukoricalisztet, egy egyedülálló helyi különlegességet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centro Tenero",
+            "tip": "Un centru comercial chiar în afara orașului pentru o selecție mai largă."
+          },
+          {
+            "name": "Farina Bóna",
+            "tip": "Căutați această făină de porumb prăjită, o specialitate locală unică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Centro Tenero",
+            "tip": "A shopping center just outside the city for a wider selection."
+          },
+          {
+            "name": "Farina Bóna",
+            "tip": "Look for this roasted corn flour, a unique local specialty."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkgebühren können teuer sein; suchen Sie nach Tagespauschalen.",
+          "Die Straßen in den Hügeln können eng und kurvenreich sein, fahren Sie vorsichtig.",
+          "Achten Sie auf ZTL-Zonen (verkehrsberuhigte Bereiche) im Stadtzentrum.",
+          "Ein Auto gibt Ihnen die Flexibilität, auch die umliegenden Täler wie das Maggiatal oder das Verzascatal zu erkunden."
+        ],
+        "hu": [
+          "A parkolási díjak drágák lehetnek; keressen napidíjas lehetőségeket.",
+          "A domboldali utak szűkek és kanyargósak lehetnek, vezessen óvatosan.",
+          "Ügyeljen a ZTL zónákra (forgalomkorlátozott területek) a városközpontban.",
+          "Az autó rugalmasságot biztosít a környező völgyek, mint például a Maggia-völgy vagy a Verzasca-völgy felfedezéséhez is."
+        ],
+        "ro": [
+          "Taxele de parcare pot fi scumpe; căutați tarife zilnice.",
+          "Drumurile de pe dealuri pot fi înguste și sinuoase, conduceți cu prudență.",
+          "Fiți atenți la zonele ZTL (zone cu trafic limitat) din centrul orașului.",
+          "O mașină vă oferă flexibilitatea de a explora și văile înconjurătoare, cum ar fi Vallemaggia sau Valle Verzasca."
+        ],
+        "en": [
+          "Parking fees can be expensive; look for daily flat rates.",
+          "The roads in the hills can be narrow and winding, drive carefully.",
+          "Be aware of ZTL zones (limited traffic zones) in the city center.",
+          "A car gives you the flexibility to also explore the surrounding valleys like Vallemaggia or Valle Verzasca."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft Bahnhof & Piazza Grande",
+            "hu": "Érkezés a pályaudvarra és Piazza Grande",
+            "ro": "Sosire la gară și Piazza Grande",
+            "en": "Arrival at Station & Piazza Grande"
+          },
+          "coords": [
+            8.7993,
+            46.1713
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Vom Bahnhof sind es nur wenige Gehminuten zur Piazza Grande.",
+            "hu": "A pályaudvartól csak néhány perc séta a Piazza Grande.",
+            "ro": "De la gară, este la doar câteva minute de mers pe jos de Piazza Grande.",
+            "en": "From the train station, it's just a few minutes' walk to Piazza Grande."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Visconteo",
+            "hu": "Visconti-kastély",
+            "ro": "Castelul Visconteo",
+            "en": "Visconteo Castle"
+          },
+          "coords": [
+            8.7932,
+            46.1685
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:50",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein einfacher Spaziergang durch die Altstadt führt Sie zum Schloss.",
+            "hu": "Egy egyszerű séta az óvároson keresztül elvezeti a kastélyhoz.",
+            "ro": "O plimbare ușoară prin Centrul Vechi vă va duce la castel.",
+            "en": "An easy walk through the old town will lead you to the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Madonna del Sasso",
+            "hu": "Utazás a Madonna del Sasso-hoz",
+            "ro": "Călătorie la Madonna del Sasso",
+            "en": "Trip to Madonna del Sasso"
+          },
+          "coords": [
+            8.7925,
+            46.1706
+          ],
+          "category": "transit",
+          "arrive_at": "11:30",
+          "stay_min": 10,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie die Standseilbahn von der Talstation in der Nähe des Zentrums.",
+            "hu": "A központ közelében lévő völgyállomásról induljon a siklóval.",
+            "ro": "Luați funicularul de la stația de jos, lângă centru.",
+            "en": "Take the funicular from the valley station near the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Heiligtum Madonna del Sasso",
+            "hu": "Madonna del Sasso szentély",
+            "ro": "Sanctuarul Madonna del Sasso",
+            "en": "Sanctuary of Madonna del Sasso"
+          },
+          "coords": [
+            8.7915,
+            46.1725
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:40",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht, bevor Sie das Innere der Kirche besichtigen.",
+            "hu": "Élvezze a kilátást, mielőtt megtekintené a templom belsejét.",
+            "ro": "Bucurați-vă de priveliște înainte de a vizita interiorul bisericii.",
+            "en": "Enjoy the view before visiting the interior of the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Lido",
+            "hu": "Utazás a Lidóhoz",
+            "ro": "Călătorie la Lido",
+            "en": "Trip to the Lido"
+          },
+          "coords": [
+            8.807,
+            46.163
+          ],
+          "category": "transit",
+          "arrive_at": "13:30",
+          "stay_min": 10,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus Linie 1 vom Bahnhof in Richtung Tenero.",
+            "hu": "A pályaudvarról az 1-es busszal menjen Tenero irányába.",
+            "ro": "Luați autobuzul linia 1 de la gară spre Tenero.",
+            "en": "Take bus line 1 from the train station towards Tenero."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido di Locarno & Parco delle Camelie",
+            "hu": "Lido di Locarno & Kamélia Park",
+            "ro": "Lido di Locarno & Parcul Cameliei",
+            "en": "Lido di Locarno & Parco delle Camelie"
+          },
+          "coords": [
+            8.8095,
+            46.1645
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:40",
+          "stay_min": 220,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Kombinieren Sie einen entspannten Nachmittag am Strand mit einem Spaziergang durch den benachbarten Park.",
+            "hu": "Kombinálja a pihentető délutánt a strandon egy sétával a szomszédos parkban.",
+            "ro": "Combinați o după-amiază relaxantă pe plajă cu o plimbare prin parcul adiacent.",
+            "en": "Combine a relaxing afternoon on the beach with a walk through the adjacent park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einer bequemen Anreise per Zug. Vom Bahnhof aus spazieren Sie zum ersten Cluster: der Altstadt. Erkunden Sie die Piazza Grande und das historische Castello Visconteo zu Fuß. Anschließend bringt Sie die Standseilbahn zum nächsten Höhepunkt.\nDer zweite Cluster ist dem berühmten Heiligtum Madonna del Sasso gewidmet. Nach der kurzen Fahrt mit der Standseilbahn genießen Sie die spirituelle Atmosphäre und die unvergleichliche Aussicht. Ein Spaziergang in der Umgebung rundet das Erlebnis ab, bevor Sie ins Zentrum zurückkehren.\nFür den dritten Cluster nutzen Sie das effiziente Busnetz. Eine kurze Busfahrt bringt Sie zum Seeufer-Cluster, der aus dem Parco delle Camelie und dem Lido di Locarno besteht. Verbringen Sie den ganzen Nachmittag mit Entspannen, Schwimmen und Spazierengehen in dieser wunderschönen Umgebung.\nDer Tag endet mit einer einfachen Rückfahrt mit dem Bus zum Bahnhof. Die öffentlichen Verkehrsmittel von Locarno machen es einfach, die wichtigsten Sehenswürdigkeiten ohne Stress zu verbinden. Ein letztes Gelato in der Nähe des Bahnhofs ist der perfekte Abschluss, bevor Sie Ihre Heimreise antreten.",
+        "hu": "A nap egy kényelmes vonattal való érkezéssel kezdődik. A pályaudvarról sétáljon az első klaszterhez: az óvároshoz. Fedezze fel gyalog a Piazza Grande-t és a történelmi Visconti-kastélyt. Ezután a sikló felviszi a következő csúcspontra.\nA második klaszter a híres Madonna del Sasso szentélynek van szentelve. A rövid siklóút után élvezze a spirituális légkört és a páratlan kilátást. Egy séta a környéken teszi teljessé az élményt, mielőtt visszatérne a központba.\nA harmadik klaszterhez használja a hatékony buszhálózatot. Egy rövid buszút elvisz a tóparti klaszterhez, amely a Kamélia Parkból és a Lido di Locarno-ból áll. Töltse az egész délutánt pihenéssel, úszással és sétával ebben a gyönyörű környezetben.\nA nap a busz egyszerű visszautazásával ér véget a pályaudvarra. Locarno tömegközlekedése megkönnyíti a főbb látnivalók stresszmentes összekapcsolását. Egy utolsó fagylalt a pályaudvar közelében tökéletes befejezés, mielőtt hazaindulna.",
+        "ro": "Ziua începe cu o sosire confortabilă cu trenul. De la gară, mergeți pe jos până la primul grup: Centrul Vechi. Explorați pe jos Piazza Grande și istoricul Castel Visconteo. Apoi, funicularul vă duce la următorul punct culminant.\nAl doilea grup este dedicat celebrului sanctuar Madonna del Sasso. După scurta călătorie cu funicularul, bucurați-vă de atmosfera spirituală și de priveliștea de neegalat. O plimbare în zonă completează experiența înainte de a vă întoarce în centru.\nPentru al treilea grup, folosiți rețeaua eficientă de autobuze. O scurtă călătorie cu autobuzul vă duce la grupul de pe malul lacului, format din Parco delle Camelie și Lido di Locarno. Petreceți întreaga după-amiază relaxându-vă, înotând și plimbându-vă în acest cadru frumos.\nZiua se încheie cu o călătorie simplă cu autobuzul înapoi la gară. Transportul public din Locarno facilitează conectarea principalelor atracții fără stres. O ultimă înghețată lângă gară este finalul perfect înainte de a vă întoarce acasă.",
+        "en": "Your day begins with a convenient arrival by train. From the station, walk to the first cluster: the Old Town. Explore Piazza Grande and the historic Castello Visconteo on foot. Afterwards, the funicular takes you to the next highlight.\nThe second cluster is dedicated to the famous Sanctuary of Madonna del Sasso. After the short funicular ride, enjoy the spiritual atmosphere and the unparalleled view. A walk in the surrounding area completes the experience before returning to the center.\nFor the third cluster, you'll use the efficient bus network. A short bus ride takes you to the lakeside cluster, consisting of the Parco delle Camelie and the Lido di Locarno. Spend the whole afternoon relaxing, swimming, and strolling in this beautiful setting.\nThe day ends with a simple bus ride back to the station. Locarno's public transport makes it easy to connect the main sights without stress. A final gelato near the station is the perfect end before you head home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Panino am Bahnhof",
+            "tip": "Schnappen Sie sich ein schnelles und leckeres Panino für unterwegs."
+          },
+          {
+            "name": "Aperitivo an der Piazza",
+            "tip": "Genießen Sie vor dem Abendessen einen Drink und Snacks in einer Bar an der Piazza Grande."
+          },
+          {
+            "name": "Gelato Artigianale",
+            "tip": "Ein Muss in Italienisch-sprechenden Regionen. Suchen Sie nach 'Produktion propria'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Panini a pályaudvaron",
+            "tip": "Kapjon be egy gyors és finom paninit útközben."
+          },
+          {
+            "name": "Aperitivo a Piazzán",
+            "tip": "Vacsora előtt fogyasszon el egy italt és harapnivalókat a Piazza Grande egyik bárjában."
+          },
+          {
+            "name": "Kézműves fagylalt",
+            "tip": "Kötelező az olasz nyelvű régiókban. Keresse a 'produzione propria' feliratot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Panino la gară",
+            "tip": "Luați un panino rapid și delicios la pachet."
+          },
+          {
+            "name": "Aperitivo în Piață",
+            "tip": "Bucurați-vă de o băutură și gustări la un bar din Piazza Grande înainte de cină."
+          },
+          {
+            "name": "Gelato Artigianale",
+            "tip": "O necesitate în regiunile vorbitoare de italiană. Căutați 'produzione propria'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Panino at the station",
+            "tip": "Grab a quick and delicious panino for the road."
+          },
+          {
+            "name": "Aperitivo in the Piazza",
+            "tip": "Enjoy a pre-dinner drink and snacks at a bar in Piazza Grande."
+          },
+          {
+            "name": "Artisanal Gelato",
+            "tip": "A must-try in Italian-speaking regions. Look for 'produzione propria'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirche San Francesco",
+            "tip": "Eine ruhige Kirche in der Nähe der Piazza Grande, oft übersehen.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Bank im Parco delle Camelie",
+            "tip": "Ein perfekter Ort, um ein Buch zu lesen oder einfach nur die Aussicht zu genießen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang entlang des Flusses Maggia",
+            "tip": "Etwas außerhalb des Zentrums, aber mit dem Bus erreichbar, für einen ruhigen Naturspaziergang.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Francesco templom",
+            "tip": "Egy csendes templom a Piazza Grande közelében, gyakran figyelmen kívül hagyják.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Pad a Kamélia Parkban",
+            "tip": "Tökéletes hely egy könyv olvasásához vagy csak a kilátás élvezetéhez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Séta a Maggia folyó mentén",
+            "tip": "Kicsit a központon kívül, de busszal elérhető egy csendes természeti sétához.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica San Francesco",
+            "tip": "O biserică liniștită lângă Piazza Grande, adesea trecută cu vederea.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Bancă în Parco delle Camelie",
+            "tip": "Un loc perfect pentru a citi o carte sau pur și simplu pentru a admira priveliștea.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare de-a lungul râului Maggia",
+            "tip": "Puțin în afara centrului, dar accesibil cu autobuzul pentru o plimbare liniștită în natură.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Church of San Francesco",
+            "tip": "A quiet church near Piazza Grande, often overlooked.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Bench in Parco delle Camelie",
+            "tip": "A perfect spot to read a book or just enjoy the view.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Walk along the Maggia river",
+            "tip": "A bit outside the center but reachable by bus for a quiet nature walk.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Boutiquen in der Altstadt",
+            "tip": "Entdecken Sie einzigartige Mode und Souvenirs in den engen Gassen."
+          },
+          {
+            "name": "Lokaler Käse",
+            "tip": "Kaufen Sie ein Stück Tessiner Alpkäse auf dem Markt oder in einem Spezialitätengeschäft."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Butikok az óvárosban",
+            "tip": "Fedezzen fel egyedi divatot és szuveníreket a szűk utcákban."
+          },
+          {
+            "name": "Helyi sajt",
+            "tip": "Vásároljon egy darab tessini alpesi sajtot a piacon vagy egy szaküzletben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Buticuri în Centrul Vechi",
+            "tip": "Descoperiți modă unică și suveniruri pe străduțele înguste."
+          },
+          {
+            "name": "Brânză locală",
+            "tip": "Cumpărați o bucată de brânză alpină din Ticino de la piață sau de la un magazin de specialități."
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Town Boutiques",
+            "tip": "Discover unique fashion and souvenirs in the narrow alleys."
+          },
+          {
+            "name": "Local Cheese",
+            "tip": "Buy a piece of Ticino alpine cheese at the market or a specialty shop."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte (Tageskarte) für unbegrenzte Fahrten mit Bus und Bahn in der Region.",
+          "Überprüfen Sie die Fahrpläne im Voraus, besonders am Abend.",
+          "Die Standseilbahn zur Madonna del Sasso hat einen separaten Fahrpreis.",
+          "Die App der SBB (Schweizerische Bundesbahnen) ist hervorragend für die Planung von Routen in Echtzeit."
+        ],
+        "hu": [
+          "Vásároljon napijegyet (Tageskarte) a korlátlan busz- és vonatutazáshoz a régióban.",
+          "Ellenőrizze előre a menetrendeket, különösen este.",
+          "A Madonna del Sasso-hoz vezető siklóra külön jegy kell.",
+          "Az SBB (Svájci Szövetségi Vasutak) alkalmazása kiváló a valós idejű útvonaltervezéshez."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi (Tageskarte) pentru călătorii nelimitate cu autobuzul și trenul în regiune.",
+          "Verificați orarele în avans, mai ales seara.",
+          "Funicularul către Madonna del Sasso are un tarif separat.",
+          "Aplicația SBB (Căile Ferate Federale Elvețiene) este excelentă pentru planificarea rutelor în timp real."
+        ],
+        "en": [
+          "Buy a day pass (Tageskarte) for unlimited bus and train travel in the region.",
+          "Check the timetables in advance, especially in the evening.",
+          "The funicular to Madonna del Sasso has a separate fare.",
+          "The SBB (Swiss Federal Railways) app is excellent for planning routes in real time."
+        ]
+      }
+    }
+  }
+}

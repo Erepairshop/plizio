@@ -1,0 +1,1448 @@
+{
+  "city_id": "spain-lleida-cities-v2",
+  "anchor": {
+    "name": "Lleida",
+    "coords": [
+      0.62,
+      41.6176
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Statue von Indíbil und Mandonio",
+            "hu": "Indíbil és Mandonio szobra",
+            "ro": "Statuia lui Indíbil și Mandonio",
+            "en": "Statue of Indíbil and Mandonio"
+          },
+          "coords": [
+            0.6215,
+            41.6145
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der perfekte Ausgangspunkt, um die Helden von Lleida kennenzulernen.",
+            "hu": "Tökéletes kiindulópont Lleida hőseinek megismeréséhez.",
+            "ro": "Punctul de plecare perfect pentru a cunoaște eroii din Lleida.",
+            "en": "The perfect starting point to get acquainted with Lleida's heroes."
+          }
+        },
+        {
+          "name": {
+            "de": "Neue Kathedrale von Lleida",
+            "hu": "Lleidai új katedrális",
+            "ro": "Catedrala Nouă din Lleida",
+            "en": "New Cathedral of Lleida"
+          },
+          "coords": [
+            0.6248,
+            41.6148
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die barocke Fassade, bevor Sie eintreten.",
+            "hu": "Csodálja meg a barokk homlokzatot, mielőtt belépne!",
+            "ro": "Admirați fațada barocă înainte de a intra.",
+            "en": "Admire the Baroque facade before stepping inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Institut für Ilerdensische Studien",
+            "hu": "Ilerdens-i Tanulmányok Intézete",
+            "ro": "Institutul de Studii Ilerdene",
+            "en": "Institute of Ilerdencs Studies"
+          },
+          "coords": [
+            0.6255,
+            41.6155
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf die temporären Kunstausstellungen im Innenhof.",
+            "hu": "Keresse az időszaki művészeti kiállításokat a belső udvaron.",
+            "ro": "Fiți atenți la expozițiile de artă temporare din curtea interioară.",
+            "en": "Look out for the temporary art exhibitions in the inner courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Lleida",
+            "hu": "Lleidai Múzeum",
+            "ro": "Muzeul din Lleida",
+            "en": "Museum of Lleida"
+          },
+          "coords": [
+            0.6278,
+            41.6188
+          ],
+          "category": "museums",
+          "arrive_at": "11:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die archäologischen Funde aus der Römerzeit.",
+            "hu": "Fókuszáljon a római korból származó régészeti leletekre.",
+            "ro": "Concentrează-te pe descoperirile arheologice din perioada romană.",
+            "en": "Focus on the archaeological finds from the Roman period."
+          }
+        },
+        {
+          "name": {
+            "de": "Seu Vella (Alte Kathedrale)",
+            "hu": "Seu Vella (Régi Katedrális)",
+            "ro": "Seu Vella (Catedrala Veche)",
+            "en": "Seu Vella (Old Cathedral)"
+          },
+          "coords": [
+            0.6264,
+            41.6176
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:39",
+          "stay_min": 120,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für den Aufstieg auf den Glockenturm, die Aussicht ist es wert. Mittagessen in der Nähe.",
+            "hu": "Szánjon időt a harangtorony megmászására, a kilátás megéri. Ebéd a közelben.",
+            "ro": "Fă-ți timp să urci în clopotniță, priveliștea merită. Prânz în apropiere.",
+            "en": "Take time to climb the bell tower, the view is worth it. Have lunch nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "La Llotja de Lleida",
+            "hu": "La Llotja de Lleida",
+            "ro": "La Llotja de Lleida",
+            "en": "La Llotja de Lleida"
+          },
+          "coords": [
+            0.613,
+            41.6128
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Auch wenn keine Vorstellung stattfindet, ist die moderne Architektur beeindruckend.",
+            "hu": "Még ha nincs is előadás, a modern építészet lenyűgöző.",
+            "ro": "Chiar dacă nu există un spectacol, arhitectura modernă este impresionantă.",
+            "en": "Even if there's no show, the modern architecture is impressive."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Lleida beginnt im Herzen der Stadt, wo Sie die barocke Pracht der Neuen Kathedrale und die lokalen Legenden entdecken. Schlendern Sie durch die Straßen zum Museumsviertel, um in die reiche Geschichte Kataloniens einzutauchen. Der Morgen ist eine Reise durch die Zeit, von den alten Römern bis zur modernen Kunst. Am Mittag erobern Sie den Hügel der Seu Vella. Nach der Erkundung des majestätischen Komplexes und dem Genuss eines Panoramablicks über die Stadt ist es Zeit für ein wohlverdientes lokales Mittagessen in einem der Restaurants am Fuße des Hügels. Der Nachmittag führt Sie hinunter zum Fluss Segre. Bewundern Sie die kühne Architektur von La Llotja und genießen Sie einen entspannten Spaziergang am Ufer, der die ruhige Seite der Stadt zeigt. Am Abend kehren Sie ins Stadtzentrum zurück. Gönnen Sie sich 'Cargols a la llauna' in einem traditionellen Restaurant und lassen Sie den Tag bei einem Glas Wein aus der Region ausklingen, während Sie die lebhafte Atmosphäre der Rambla aufsagen.",
+        "hu": "A lleidai nap a város szívében kezdődik, ahol felfedezheti az Új Katedrális barokk pompáját és a helyi legendákat. Sétáljon végig az utcákon a múzeumi negyedig, hogy elmerüljön Katalónia gazdag történelmében. A délelőtt egy időutazás, az ókori rómaiaktól a modern művészetig. Délben meghódítja a Seu Vella dombját. Miután felfedezte a fenséges komplexumot és gyönyörködött a városra nyíló panorámában, ideje egy jól megérdemelt helyi ebédnek a domb lábánál található egyik étteremben. A délután a Segre folyóhoz vezet. Csodálja meg a La Llotja merész építészetét, és tegyen egy pihentető sétát a parton, amely felfedi a város nyugodt oldalát. Este térjen vissza a városközpontba. Kényeztesse magát egy 'Cargols a la llauna'-val egy hagyományos étteremben, és zárja a napot egy pohár helyi borral a Rambla élénk hangulatát élvezve.",
+        "ro": "Ziua ta în Lleida începe în inima orașului, descoperind splendoarea barocă a Catedralei Noi și legendele locale. Plimbă-te pe străzi până la cartierul muzeelor pentru o imersiune în istoria bogată a Cataloniei. Dimineața este o călătorie în timp, de la romanii antici la arta modernă. La prânz, cucerești dealul Seu Vella. După ce explorezi complexul maiestuos și te bucuri de o priveliște panoramică asupra orașului, este timpul pentru un prânz local binemeritat la unul dintre restaurantele de la poalele dealului. După-amiaza te duce jos la râul Segre. Admiră arhitectura îndrăzneață a La Llotja și bucură-te de o plimbare relaxantă pe mal, dezvăluind latura liniștită a orașului. Seara, te întorci în centrul orașului. Răsfață-te cu 'Cargols a la llauna' la un restaurant tradițional și încheie ziua cu un pahar de vin local, absorbind atmosfera vibrantă de pe Rambla.",
+        "en": "Your day in Lleida begins in the heart of the city, discovering the baroque splendour of the New Cathedral and local legends. Stroll through the streets to the museum quarter for an immersion into Catalonia's rich history. The morning is a journey through time, from the ancient Romans to modern art. At midday, you conquer the hill of Seu Vella. After exploring the majestic complex and enjoying a panoramic view over the city, it's time for a well-deserved local lunch at one of the restaurants at the foot of the hill. The afternoon takes you down to the Segre river. Admire the bold architecture of La Llotja and enjoy a relaxing walk along the bank, revealing the city's tranquil side. In the evening, return to the city centre. Treat yourself to 'Cargols a la llauna' at a traditional restaurant and end the day with a glass of local wine, soaking up the vibrant atmosphere on the Rambla."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cargols a la Llauna",
+            "tip": "Das typische Gericht aus Lleida: im Ofen gebackene Schnecken mit Aioli. Ein Muss!"
+          },
+          {
+            "name": "Panadons",
+            "tip": "Kleine Pasteten, gefüllt mit Spinat, Pinienkernen und Rosinen."
+          },
+          {
+            "name": "Coca de Recapte",
+            "tip": "Ein herzhafter Kuchen mit geröstetem Gemüse und oft Sardellen oder Wurst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cargols a la Llauna",
+            "tip": "Lleida jellegzetes étele: tepsiben sült csiga fokhagymás majonézzel. Kötelező megkóstolni!"
+          },
+          {
+            "name": "Panadons",
+            "tip": "Kisméretű piték, spenóttal, fenyőmaggal és mazsolával töltve."
+          },
+          {
+            "name": "Coca de Recapte",
+            "tip": "Sós lepény sült zöldségekkel, gyakran szardellával vagy kolbásszal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cargols a la Llauna",
+            "tip": "Mâncarea emblematică a Lleidei: melci la cuptor cu aioli. Trebuie să încerci!"
+          },
+          {
+            "name": "Panadons",
+            "tip": "Plăcinte mici umplute cu spanac, semințe de pin și stafide."
+          },
+          {
+            "name": "Coca de Recapte",
+            "tip": "O plăcintă sărată cu legume coapte și adesea anșoa sau cârnați."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cargols a la Llauna",
+            "tip": "The signature dish of Lleida: oven-baked snails with aioli. A must-try!"
+          },
+          {
+            "name": "Panadons",
+            "tip": "Small pies filled with spinach, pine nuts, and raisins."
+          },
+          {
+            "name": "Coca de Recapte",
+            "tip": "A savory flatbread topped with roasted vegetables and often anchovies or sausage."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Segre",
+            "tip": "Ein ruhiger Spaziergang am Flussufer, besonders bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kreuzgang der Seu Vella",
+            "tip": "Finden Sie einen Moment der Stille in einem der größten gotischen Kreuzgänge Europas.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parc dels Camps Elisis",
+            "tip": "Ein kurzer Spaziergang vom Zentrum entfernt, bietet dieser Park eine grüne Oase.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Segre folyó partja",
+            "tip": "Egy csendes séta a folyóparton, különösen naplementekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Seu Vella kerengője",
+            "tip": "Találjon egy csendes pillanatot Európa egyik legnagyobb gótikus kerengőjében.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Camps Elisis Park",
+            "tip": "A központtól egy rövid sétára található park zöld menedéket nyújt.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Segre",
+            "tip": "O plimbare liniștită de-a lungul malului râului, mai ales la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Claustrul din Seu Vella",
+            "tip": "Găsește un moment de liniște într-unul dintre cele mai mari claustre gotice din Europa.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Camps Elisis",
+            "tip": "La o scurtă plimbare de centru, acest parc oferă o evadare în natură.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Segre River",
+            "tip": "A quiet stroll along the riverbank, especially at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cloister of Seu Vella",
+            "tip": "Find a moment of peace in one of Europe's largest Gothic cloisters.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Camps Elisis Park",
+            "tip": "A short walk from the center, this park offers a green escape.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Eix Comercial",
+            "tip": "Eine der längsten Fußgänger-Einkaufsstraßen Europas, ideal für Mode und mehr."
+          },
+          {
+            "name": "Mercat del Pla",
+            "tip": "Ein lokaler Markt, um frische Produkte und regionale Spezialitäten zu entdecken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Eix Comercial",
+            "tip": "Európa egyik leghosszabb sétálóutcája, ideális divat- és egyéb vásárlásokhoz."
+          },
+          {
+            "name": "Mercat del Pla",
+            "tip": "Helyi piac, ahol friss termékeket és regionális különlegességeket fedezhet fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Eix Comercial",
+            "tip": "Una dintre cele mai lungi străzi comerciale pietonale din Europa, perfectă pentru modă și multe altele."
+          },
+          {
+            "name": "Mercat del Pla",
+            "tip": "O piață locală pentru a descoperi produse proaspete și specialități regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Eix Comercial",
+            "tip": "One of the longest pedestrian shopping streets in Europe, great for fashion and more."
+          },
+          {
+            "name": "Mercat del Pla",
+            "tip": "A local market to discover fresh produce and regional specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Erklimmen des Seu Vella-Hügels ein Muss ist.",
+          "Viele Geschäfte halten eine 'Siesta' und schließen am frühen Nachmittag.",
+          "Kaufen Sie ein Kombiticket für die Seu Vella und das Museum von Lleida, um Geld zu sparen.",
+          "Das Leitungswasser ist trinkbar, füllen Sie also Ihre Flasche auf, um hydriert zu bleiben."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, a Seu Vella dombjának megmászása elengedhetetlen.",
+          "Sok üzlet 'siestát' tart és kora délután bezár.",
+          "Vásároljon kombinált jegyet a Seu Vellába és a Lleidai Múzeumba, hogy pénzt takarítson meg.",
+          "A csapvíz iható, töltse újra a palackját, hogy hidratált maradjon."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, urcarea pe dealul Seu Vella este obligatorie.",
+          "Multe magazine țin 'siesta' și se închid la începutul după-amiezii.",
+          "Cumpărați un bilet combinat pentru Seu Vella și Muzeul din Lleida pentru a economisi bani.",
+          "Apa de la robinet este potabilă, așa că umpleți-vă sticla pentru a rămâne hidratat."
+        ],
+        "en": [
+          "Wear comfortable shoes, as the climb up to the Seu Vella hill is a must-do.",
+          "Many shops observe a 'siesta', closing in the early afternoon.",
+          "Buy a combined ticket for Seu Vella and the Museum of Lleida to save money.",
+          "Tap water is safe to drink, so refill your bottle to stay hydrated."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Start: Mieten Sie ein Fahrrad in der Nähe von La Llotja",
+            "hu": "Indulás: Béreljen kerékpárt a La Llotja közelében",
+            "ro": "Start: Închiriați o bicicletă lângă La Llotja",
+            "en": "Start: Rent a bike near La Llotja"
+          },
+          "coords": [
+            0.613,
+            41.6128
+          ],
+          "category": "kid-landmark",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Überprüfen Sie die Bremsen und Reifen, bevor Sie losfahren.",
+            "hu": "Indulás előtt ellenőrizze a fékeket és a gumikat.",
+            "ro": "Verificați frânele și anvelopele înainte de a pleca.",
+            "en": "Check the brakes and tires before you set off."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de la Mitjana",
+            "hu": "Parc de la Mitjana",
+            "ro": "Parcul Mitjana",
+            "en": "Parc de la Mitjana"
+          },
+          "coords": [
+            0.658,
+            41.625
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.4,
+          "tip_5lang": {
+            "de": "Folgen Sie den Radwegen entlang des Flusses für eine malerische Fahrt.",
+            "hu": "Kövesse a folyó menti kerékpárutakat egy festői útért.",
+            "ro": "Urmați pistele de biciclete de-a lungul râului pentru o plimbare pitorească.",
+            "en": "Follow the cycle paths along the river for a scenic ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell de Gardeny",
+            "hu": "Gardeny kastély",
+            "ro": "Castelul Gardeny",
+            "en": "Castell de Gardeny"
+          },
+          "coords": [
+            0.616,
+            41.609
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Fuß des Hügels ab und gehen Sie hinauf. Der Aufstieg ist steil!",
+            "hu": "Zárja le a kerékpárt a domb alján, és sétáljon fel. Az emelkedő meredek!",
+            "ro": "Lăsați bicicleta la baza dealului și urcați pe jos. Urcușul este abrupt!",
+            "en": "Lock your bike at the bottom of the hill and walk up. The climb is steep!"
+          }
+        },
+        {
+          "name": {
+            "de": "Seu Vella (Alte Kathedrale)",
+            "hu": "Seu Vella (Régi Katedrális)",
+            "ro": "Seu Vella (Catedrala Veche)",
+            "en": "Seu Vella (Old Cathedral)"
+          },
+          "coords": [
+            0.6264,
+            41.6176
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:13",
+          "stay_min": 120,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein weiterer Hügel! Zeit zum Mittagessen, bevor Sie den Komplex erkunden.",
+            "hu": "Még egy domb! Ideje ebédelni, mielőtt felfedezné a komplexumot.",
+            "ro": "Încă un deal! E timpul pentru prânz înainte de a explora complexul.",
+            "en": "Another hill! Time for lunch before exploring the complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Neue Kathedrale von Lleida",
+            "hu": "Lleidai új katedrális",
+            "ro": "Catedrala Nouă din Lleida",
+            "en": "New Cathedral of Lleida"
+          },
+          "coords": [
+            0.6248,
+            41.6148
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Eine leichte Abfahrt vom alten zum neuen Dom.",
+            "hu": "Könnyű gurulás a régi katedrálistól az újig.",
+            "ro": "O coborâre ușoară de la catedrala veche la cea nouă.",
+            "en": "An easy downhill ride from the old cathedral to the new one."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Lleida",
+            "hu": "Lleidai Múzeum",
+            "ro": "Muzeul din Lleida",
+            "en": "Museum of Lleida"
+          },
+          "coords": [
+            0.6278,
+            41.6188
+          ],
+          "category": "museums",
+          "arrive_at": "16:19",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und tauchen Sie als letzte Station in die Geschichte ein.",
+            "hu": "Parkolja le a kerékpárt, és merüljön el a történelemben az utolsó állomáson.",
+            "ro": "Parcați bicicleta și scufundați-vă în istorie pentru ultima oprire.",
+            "en": "Park your bike and dive into history for the final stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag mit einer malerischen Fahrt entlang des Flusses Segre zum Parc de la Mitjana, einer grünen Lunge außerhalb der Stadt. Genießen Sie die Natur und die frische Luft, bevor Sie sich den historischen Herausforderungen von Lleida stellen. Am Mittag bereiten Sie sich auf Anstiege vor. Zuerst erobern Sie die Templerfestung Castell de Gardeny und dann den berühmten Hügel der Seu Vella. Die atemberaubenden Aussichten sind die Belohnung für Ihre Mühe. Planen Sie ein herzhaftes Mittagessen ein, um neue Energie zu tanken. Der Nachmittag ist eine entspannte Abfahrt zurück in die Zivilisation. Rollen Sie von der alten zur neuen Kathedrale und beenden Sie Ihre Tour im Museum von Lleida, um die historischen Schätze der Region zu bewundern, die Sie gerade mit dem Fahrrad durchquert haben. Am Abend geben Sie Ihr Fahrrad zurück und spazieren durch die Altstadt. Feiern Sie Ihre sportliche Leistung mit einem wohlverdienten Abendessen, vielleicht mit der lokalen Spezialität 'Cargols', und genießen Sie die lebhafte Atmosphäre von Lleida bei Nacht.",
+        "hu": "Kezdje a kerékpáros napot egy festői úttal a Segre folyó mentén a Parc de la Mitjana parkba, a város zöld tüdejébe. Élvezze a természetet és a friss levegőt, mielőtt szembenéz Lleida történelmi kihívásaival. Délben készüljön fel az emelkedőkre. Először hódítsa meg a Gardeny templomos kastélyát, majd a híres Seu Vella dombját. A lélegzetelállító kilátás a jutalom az erőfeszítésért. Tervezzen be egy kiadós ebédet az energia pótlására. A délután egy laza gurulás vissza a civilizációba. Guruljon le a régi katedrálistól az újig, és fejezze be a túrát a Lleidai Múzeumban, hogy megcsodálhassa a régió történelmi kincseit, amelyeket éppen bejárt. Este adja vissza a kerékpárt, és sétáljon végig az óvároson. Ünnepelje meg sportos teljesítményét egy jól megérdemelt vacsorával, talán a helyi 'Cargols' specialitással, és élvezze Lleida éjszakai, nyüzsgő hangulatát.",
+        "ro": "Începeți ziua de ciclism cu o plimbare pitorească de-a lungul râului Segre până la Parcul Mitjana, un plămân verde al orașului. Bucurați-vă de natură și de aer curat înainte de a aborda provocările istorice ale Lleidei. La prânz, pregătiți-vă pentru urcări. Mai întâi, cuceriți castelul templier Gardeny, apoi faimosul deal al Seu Vella. Priveliștile uluitoare sunt recompensa pentru efortul depus. Planificați un prânz consistent pentru a vă reîncărca bateriile. După-amiaza este o coborâre relaxată înapoi la civilizație. Coborâți de la catedrala veche la cea nouă și încheiați turul la Muzeul din Lleida, admirând comorile istorice ale regiunii pe care tocmai ați străbătut-o pe bicicletă. Seara, returnați bicicleta și plimbați-vă prin centrul vechi. Sărbătoriți performanța sportivă cu o cină binemeritată, poate cu specialitatea locală 'Cargols', și bucurați-vă de atmosfera vibrantă a Lleidei pe timp de noapte.",
+        "en": "Start your cycling day with a scenic ride along the Segre River to Parc de la Mitjana, a green lung of the city. Enjoy nature and fresh air before tackling Lleida's historic challenges. At midday, prepare for climbs. First, conquer the Templar Castell de Gardeny, then the famous hill of Seu Vella. The breathtaking views are the reward for your effort. Plan for a hearty lunch to refuel. The afternoon is a relaxed descent back to civilization. Roll down from the old cathedral to the new one and finish your tour at the Museum of Lleida, admiring the historical treasures of the region you've just cycled through. In the evening, return your bike and stroll through the old town. Celebrate your athletic achievement with a well-deserved dinner, perhaps featuring the local 'Cargols' specialty, and enjoy the vibrant atmosphere of Lleida by night."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cargols a la Llauna",
+            "tip": "Nach einer Radtour haben Sie sich dieses proteinreiche Festmahl redlich verdient."
+          },
+          {
+            "name": "Fruita de Lleida",
+            "tip": "Probieren Sie die berühmten Pfirsiche oder Birnen der Region als erfrischenden Snack."
+          },
+          {
+            "name": "Bocadillo de Llonganissa",
+            "tip": "Ein herzhaftes Sandwich mit lokaler Wurst, perfekt für hungrige Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cargols a la Llauna",
+            "tip": "Egy kerékpártúra után igazán megérdemli ezt a fehérjében gazdag lakomát."
+          },
+          {
+            "name": "Fruita de Lleida",
+            "tip": "Kóstolja meg a régió híres őszibarackját vagy körtéjét frissítő snackként."
+          },
+          {
+            "name": "Bocadillo de Llonganissa",
+            "tip": "Egy kiadós szendvics helyi kolbásszal, tökéletes az éhes kerékpárosoknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cargols a la Llauna",
+            "tip": "După o tură cu bicicleta, meritați pe deplin acest festin bogat în proteine."
+          },
+          {
+            "name": "Fruita de Lleida",
+            "tip": "Gustați faimoasele piersici sau pere din regiune ca o gustare răcoritoare."
+          },
+          {
+            "name": "Bocadillo de Llonganissa",
+            "tip": "Un sandviș consistent cu cârnat local, perfect pentru bicicliștii flămânzi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cargols a la Llauna",
+            "tip": "After a bike ride, you've truly earned this protein-rich feast."
+          },
+          {
+            "name": "Fruita de Lleida",
+            "tip": "Try the region's famous peaches or pears for a refreshing snack."
+          },
+          {
+            "name": "Bocadillo de Llonganissa",
+            "tip": "A hearty sandwich with local sausage, perfect for hungry cyclists."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc de la Mitjana",
+            "tip": "Ein weitläufiger Park, perfekt, um dem städtischen Trubel auf zwei Rädern zu entkommen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten von Gardeny",
+            "tip": "Nach dem Aufstieg zum Schloss bieten die Gärten einen ruhigen Ort zum Ausruhen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussichtspunkt Seu Vella",
+            "tip": "Der beste Panoramablick über die Stadt und die Ebene von Lleida.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc de la Mitjana",
+            "tip": "Egy hatalmas park, tökéletes arra, hogy két keréken elmeneküljön a városi nyüzsgés elől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Gardeny kertjei",
+            "tip": "A kastélyhoz való feljutás után a kertek csendes pihenőhelyet kínálnak.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Seu Vella kilátója",
+            "tip": "A legjobb panoráma a városra és a Lleida-síkságra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Mitjana",
+            "tip": "Un parc vast, perfect pentru a evada de agitația orașului pe două roți.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile din Gardeny",
+            "tip": "După urcarea la castel, grădinile oferă un loc liniștit pentru odihnă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Punct de belvedere Seu Vella",
+            "tip": "Cea mai bună vedere panoramică asupra orașului și a câmpiei Lleida.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc de la Mitjana",
+            "tip": "A vast park, perfect for escaping the city buzz on two wheels.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gardens of Gardeny",
+            "tip": "After the climb to the castle, the gardens offer a quiet spot to rest.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Seu Vella Viewpoint",
+            "tip": "The best panoramic view over the city and the plain of Lleida.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "In der Nähe der Hauptrouten finden Sie Geschäfte für Zubehör oder schnelle Reparaturen."
+          },
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Halten Sie für eine 'Coca de Recapte' an, um Ihre Energiereserven aufzufüllen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "A főbb útvonalak közelében talál boltokat kiegészítőkért vagy gyors javításokért."
+          },
+          {
+            "name": "Helyi pékségek",
+            "tip": "Álljon meg egy 'Coca de Recapte'-ra, hogy feltöltse energiakészleteit."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Veți găsi magazine pentru accesorii sau reparații rapide în apropierea rutelor principale."
+          },
+          {
+            "name": "Brutării locale",
+            "tip": "Opriți-vă pentru o 'Coca de Recapte' pentru a vă reface rezervele de energie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "You'll find shops for accessories or quick repairs near the main routes."
+          },
+          {
+            "name": "Local Bakeries",
+            "tip": "Stop for a 'Coca de Recapte' to replenish your energy stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Lleida hat heiße Sommer. Nehmen Sie viel Wasser mit.",
+          "Die Anstiege zu den Burgen sind kurz, aber intensiv. Gehen Sie es langsam an.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, besonders in belebten Gegenden.",
+          "Einige Radwege sind mit Fußgängern geteilt, fahren Sie rücksichtsvoll."
+        ],
+        "hu": [
+          "Lleidában forrók a nyarak. Vigyen magával sok vizet.",
+          "Az emelkedők a várakhoz rövidek, de intenzívek. Lassan haladjon.",
+          "Mindig zárja le jól a kerékpárját, különösen a forgalmas területeken.",
+          "Néhány kerékpárút közös a gyalogosokkal, legyen körültekintő."
+        ],
+        "ro": [
+          "Lleida are veri fierbinți. Luați multă apă cu voi.",
+          "Urcușurile spre castele sunt scurte, dar intense. Luați-o încet.",
+          "Legați-vă întotdeauna bicicleta bine, mai ales în zonele aglomerate.",
+          "Unele piste de biciclete sunt partajate cu pietonii, fiți respectuos."
+        ],
+        "en": [
+          "Lleida has hot summers. Bring plenty of water.",
+          "The climbs to the castles are short but intense. Take it easy.",
+          "Always lock your bike securely, especially in busy areas.",
+          "Some cycle paths are shared with pedestrians, be considerate."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 15.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Fahren und Parken am Parc de la Mitjana",
+            "hu": "A csoport: Vezetés és parkolás a Parc de la Mitjana parknál",
+            "ro": "Cluster A: Conduceți și parcați la Parcul Mitjana",
+            "en": "Cluster A: Drive and Park at Parc de la Mitjana"
+          },
+          "coords": [
+            0.658,
+            41.625
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag im Grünen. Parken ist hier einfach.",
+            "hu": "Kezdje a napot a zöldben. A parkolás itt egyszerű.",
+            "ro": "Începeți ziua în natură. Parcarea este ușoară aici.",
+            "en": "Start the day in the green. Parking is easy here."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Fahren und Parken am Castell de Gardeny",
+            "hu": "B csoport: Vezetés és parkolás a Gardeny kastélynál",
+            "ro": "Cluster B: Conduceți și parcați la Castelul Gardeny",
+            "en": "Cluster B: Drive and Park at Castell de Gardeny"
+          },
+          "coords": [
+            0.616,
+            41.609
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Erkunden Sie die Templerfestung mit Blick auf die Stadt.",
+            "hu": "Fedezze fel a városra néző templomos erődöt.",
+            "ro": "Explorați fortăreața templieră cu vedere la oraș.",
+            "en": "Explore the Templar fortress overlooking the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Fahren zum Parkplatz der Seu Vella",
+            "hu": "C csoport: Vezetés a Seu Vella parkolójához",
+            "ro": "Cluster C: Conduceți la parcarea Seu Vella",
+            "en": "Cluster C: Drive to Seu Vella Parking"
+          },
+          "coords": [
+            0.628,
+            41.618
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:35",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Rest des Tages. Wählen Sie ein Parkhaus.",
+            "hu": "Parkoljon itt a nap hátralévő részére. Válasszon egy parkolóházat.",
+            "ro": "Parcați aici pentru restul zilei. Alegeți o parcare supraetajată.",
+            "en": "Park here for the rest of the day. Choose a multi-story car park."
+          }
+        },
+        {
+          "name": {
+            "de": "Seu Vella (Alte Kathedrale)",
+            "hu": "Seu Vella (Régi Katedrális)",
+            "ro": "Seu Vella (Catedrala Veche)",
+            "en": "Seu Vella (Old Cathedral)"
+          },
+          "coords": [
+            0.6264,
+            41.6176
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:38",
+          "stay_min": 120,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Juwel von Lleida. Nehmen Sie sich Zeit für den Kreuzgang und den Glockenturm.",
+            "hu": "Lleida ékköve. Szánjon időt a kerengőre és a harangtoronyra.",
+            "ro": "Bijuteria din Lleida. Luați-vă timp pentru claustru și clopotniță.",
+            "en": "The jewel of Lleida. Take your time for the cloister and the bell tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Lleida",
+            "hu": "Lleidai Múzeum",
+            "ro": "Muzeul din Lleida",
+            "en": "Museum of Lleida"
+          },
+          "coords": [
+            0.6278,
+            41.6188
+          ],
+          "category": "museums",
+          "arrive_at": "14:40",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gleich neben der Kathedrale gelegen, eine perfekte Ergänzung.",
+            "hu": "Közvetlenül a katedrális mellett található, tökéletes kiegészítés.",
+            "ro": "Situat chiar lângă catedrală, o completare perfectă.",
+            "en": "Located right next to the cathedral, a perfect complement."
+          }
+        },
+        {
+          "name": {
+            "de": "Neue Kathedrale von Lleida",
+            "hu": "Lleidai új katedrális",
+            "ro": "Catedrala Nouă din Lleida",
+            "en": "New Cathedral of Lleida"
+          },
+          "coords": [
+            0.6248,
+            41.6148
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang bergab führt Sie zu diesem barocken Meisterwerk.",
+            "hu": "Egy kellemes séta lefelé a dombról elvezeti ehhez a barokk remekműhöz.",
+            "ro": "O plimbare plăcută la vale vă va duce la această capodoperă barocă.",
+            "en": "A pleasant walk downhill will take you to this baroque masterpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "La Llotja de Lleida",
+            "hu": "La Llotja de Lleida",
+            "ro": "La Llotja de Lleida",
+            "en": "La Llotja de Lleida"
+          },
+          "coords": [
+            0.613,
+            41.6128
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "17:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang mit einem Blick auf die moderne Seite von Lleida.",
+            "hu": "Fejezze be a sétát Lleida modern oldalának megtekintésével.",
+            "ro": "Încheiați-vă plimbarea cu o privire asupra laturii moderne a Lleidei.",
+            "en": "End your walking tour with a look at the modern side of Lleida."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Lleida nutzt die Flexibilität, um die weitläufigeren Orte zu verbinden. Beginnen Sie mit der Natur im Parc de la Mitjana, wo das Parken einfach ist. Fahren Sie dann zum Castell de Gardeny, um einen Panoramablick und eine Dosis Templergeschichte zu genießen. Das Auto bringt Sie mühelos von einem Hügel zum anderen. Am Mittag parken Sie Ihr Auto strategisch in der Nähe des Seu Vella-Komplexes für den Rest des Tages. Erobern Sie die alte Kathedrale und das angrenzende Museum zu Fuß und genießen Sie ein wohlverdientes Mittagessen in einem der lokalen Restaurants in der Altstadt. Der Nachmittag ist ein gemütlicher Spaziergang bergab durch das historische Herz von Lleida. Vom Glanz der alten Kathedrale gehen Sie zur barocken Neuen Kathedrale und weiter zum modernen Wahrzeichen, La Llotja, am Flussufer. Am Abend, da Ihr Auto sicher geparkt ist, können Sie das kulinarische Angebot der Stadt erkunden. Schlendern Sie durch die Eix Comercial, finden Sie ein gemütliches Restaurant für 'Cargols' und genießen Sie den Abend, ohne sich um das Fahren kümmern zu müssen.",
+        "hu": "Az autós nap Lleidában kihasználja a rugalmasságot, hogy összekösse a távolabbi helyszíneket. Kezdjen a természettel a Parc de la Mitjana parkban, ahol könnyű parkolni. Ezután vezessen a Castell de Gardeny-hez egy panorámás kilátásért és egy adag templomos történelemért. Az autó könnyedén elviszi egyik dombról a másikra. Délben parkolja le autóját stratégiailag a Seu Vella komplexum közelében a nap hátralévő részére. Gyalogosan hódítsa meg a régi katedrálist és a szomszédos múzeumot, majd ebédeljen meg egy jól megérdemeltet az óváros egyik helyi éttermében. A délután egy kényelmes séta lefelé Lleida történelmi szívében. A régi katedrális pompájától sétáljon el a barokk Új Katedrálisig, majd tovább a modern jelképhez, a La Llotja-hoz a folyóparton. Este, mivel autója biztonságban le van parkolva, szabadon felfedezheti a város kulináris kínálatát. Sétáljon végig az Eix Comercialon, keressen egy hangulatos éttermet a 'Cargols'-hoz, és élvezze az estét anélkül, hogy a vezetés miatt kellene aggódnia.",
+        "ro": "Ziua ta cu mașina în Lleida profită de flexibilitate pentru a conecta locurile mai îndepărtate. Începe cu natura la Parcul Mitjana, unde parcarea este ușoară. Apoi, condu până la Castelul Gardeny pentru vederi panoramice și o doză de istorie templieră. Mașina te duce fără efort de pe un deal pe altul. La prânz, parchează-ți mașina strategic lângă complexul Seu Vella pentru restul zilei. Cucereste pe jos catedrala veche și muzeul adiacent, apoi bucură-te de un prânz binemeritat la un restaurant local din orașul vechi. După-amiaza este o plimbare lejeră la vale prin inima istorică a Lleidei. De la splendoarea catedralei vechi, mergi la Catedrala Nouă barocă și continuă spre reperul modern, La Llotja, de pe malul râului. Seara, cu mașina parcată în siguranță, ești liber să explorezi ofertele culinare ale orașului. Plimbă-te pe Eix Comercial, găsește un restaurant primitor pentru 'Cargols' și savurează seara fără grija condusului.",
+        "en": "Your car day in Lleida leverages flexibility to connect the more distant sites. Start with nature at Parc de la Mitjana, where parking is easy. Then, drive up to Castell de Gardeny for panoramic views and a dose of Templar history. The car takes you effortlessly from one hill to another. At midday, park your car strategically near the Seu Vella complex for the rest of the day. Conquer the old cathedral and the adjacent museum on foot, and enjoy a well-deserved lunch at a local restaurant in the old town. The afternoon is a leisurely stroll downhill through Lleida's historic heart. From the splendor of the old cathedral, walk to the baroque New Cathedral and continue to the modern landmark, La Llotja, on the riverbank. In the evening, with your car safely parked, you're free to explore the city's culinary offerings. Stroll down the Eix Comercial, find a cozy restaurant for 'Cargols', and enjoy the evening without worrying about driving."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cargols a la Llauna",
+            "tip": "Das authentische kulinarische Erlebnis von Lleida, das Sie nicht verpassen dürfen."
+          },
+          {
+            "name": "Costelles de porc a la brasa",
+            "tip": "Gegrillte Schweinerippchen, oft auf lokalen Festen und in ländlichen Restaurants zu finden."
+          },
+          {
+            "name": "Crema Catalana",
+            "tip": "Der klassische katalanische Nachtisch, um Ihr Abendessen abzurunden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cargols a la Llauna",
+            "tip": "Az autentikus lleidai kulináris élmény, amit nem szabad kihagyni."
+          },
+          {
+            "name": "Costelles de porc a la brasa",
+            "tip": "Grillezett sertésborda, gyakran megtalálható helyi fesztiválokon és vidéki éttermekben."
+          },
+          {
+            "name": "Crema Catalana",
+            "tip": "A klasszikus katalán desszert, amellyel lezárhatja a vacsorát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cargols a la Llauna",
+            "tip": "Experiența culinară autentică din Lleida pe care nu trebuie să o ratezi."
+          },
+          {
+            "name": "Costelles de porc a la brasa",
+            "tip": "Coaste de porc la grătar, adesea găsite la festivaluri locale și restaurante rurale."
+          },
+          {
+            "name": "Crema Catalana",
+            "tip": "Desertul clasic catalan pentru a încheia masa."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cargols a la Llauna",
+            "tip": "The authentic culinary experience of Lleida that you cannot miss."
+          },
+          {
+            "name": "Costelles de porc a la brasa",
+            "tip": "Grilled pork ribs, often found at local festivals and rural restaurants."
+          },
+          {
+            "name": "Crema Catalana",
+            "tip": "The classic Catalan dessert to finish your meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc de la Mitjana",
+            "tip": "Ihr morgendlicher Rückzugsort in die Natur, perfekt für einen ruhigen Start.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussicht vom Castell de Gardeny",
+            "tip": "Ein weiter Blick über die Stadt, weg vom Trubel des Zentrums.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Inneres der Seu Vella",
+            "tip": "Trotz seiner Popularität herrscht im Inneren der alten Kathedrale eine feierliche Stille.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc de la Mitjana",
+            "tip": "A reggeli menedék a természetben, tökéletes egy csendes kezdéshez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a Castell de Gardeny-ből",
+            "tip": "Tágas kilátás a városra, távol a központ nyüzsgésétől.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Seu Vella belseje",
+            "tip": "Népszerűsége ellenére az öreg katedrális belsejében ünnepélyes csend uralkodik.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Mitjana",
+            "tip": "Refugiul tău de dimineață în natură, perfect pentru un început liniștit.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere de la Castelul Gardeny",
+            "tip": "O priveliște vastă asupra orașului, departe de agitația centrului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Interiorul Seu Vella",
+            "tip": "În ciuda popularității sale, interiorul catedralei vechi are o liniște solemnă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc de la Mitjana",
+            "tip": "Your morning retreat into nature, perfect for a quiet start.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from Castell de Gardeny",
+            "tip": "A wide view over the city, away from the hustle of the center.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Interior of Seu Vella",
+            "tip": "Despite its popularity, the inside of the old cathedral has a solemn quietness.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Eix Comercial",
+            "tip": "Nachdem Sie Ihr Auto geparkt haben, ist diese lange Einkaufsstraße leicht zu Fuß erreichbar."
+          },
+          {
+            "name": "Souvenirladen der Seu Vella",
+            "tip": "Kaufen Sie ein Andenken an das berühmteste Wahrzeichen von Lleida."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Eix Comercial",
+            "tip": "Miután leparkolta az autót, ez a hosszú bevásárlóutca könnyen megközelíthető gyalog."
+          },
+          {
+            "name": "A Seu Vella ajándékboltja",
+            "tip": "Vásároljon egy emléktárgyat Lleida leghíresebb jelképéről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Eix Comercial",
+            "tip": "După ce ați parcat mașina, această stradă comercială lungă este ușor accesibilă pe jos."
+          },
+          {
+            "name": "Magazinul de suveniruri Seu Vella",
+            "tip": "Cumpărați un suvenir al celui mai faimos reper din Lleida."
+          }
+        ],
+        "en": [
+          {
+            "name": "Eix Comercial",
+            "tip": "After parking the car, this long shopping street is easily accessible on foot."
+          },
+          {
+            "name": "Seu Vella Souvenir Shop",
+            "tip": "Buy a memento of Lleida's most famous landmark."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie öffentliche Parkhäuser im Stadtzentrum, da das Parken auf der Straße schwierig sein kann.",
+          "Lassen Sie keine Wertsachen im Auto sichtbar liegen.",
+          "Die Zufahrtsstraßen zu den historischen Hügeln können eng sein, fahren Sie vorsichtig.",
+          "Überprüfen Sie die Öffnungszeiten der Parkhäuser, wenn Sie vorhaben, lange zu bleiben."
+        ],
+        "hu": [
+          "Használjon nyilvános parkolóházakat a városközpontban, mivel az utcai parkolás nehézkes lehet.",
+          "Ne hagyjon értékeket látható helyen az autóban.",
+          "A történelmi dombokhoz vezető bekötőutak szűkek lehetnek, vezessen óvatosan.",
+          "Ellenőrizze a parkolóházak nyitvatartási idejét, ha sokáig tervez maradni."
+        ],
+        "ro": [
+          "Folosiți parcările publice din centrul orașului, deoarece parcarea pe stradă poate fi dificilă.",
+          "Nu lăsați obiecte de valoare la vedere în mașină.",
+          "Drumurile de acces către dealurile istorice pot fi înguste, conduceți cu prudență.",
+          "Verificați orele de funcționare ale parcărilor dacă intenționați să stați până târziu."
+        ],
+        "en": [
+          "Use public car parks in the city center, as street parking can be difficult.",
+          "Do not leave valuables visible in the car.",
+          "The access roads to the historic hills can be narrow, drive carefully.",
+          "Check the opening hours of car parks if you plan to stay late."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 8.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Bus zum Stadtzentrum",
+            "hu": "A csoport: Busszal a városközpontba",
+            "ro": "Cluster A: Autobuz spre centrul orașului",
+            "en": "Cluster A: Bus to City Center"
+          },
+          "coords": [
+            0.6215,
+            41.6145
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:15",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie an einer zentralen Haltestelle in der Nähe der Rambla Ferran aus.",
+            "hu": "Szálljon le egy központi megállónál a Rambla Ferran közelében.",
+            "ro": "Coborâți la o stație centrală lângă Rambla Ferran.",
+            "en": "Get off at a central stop near Rambla Ferran."
+          }
+        },
+        {
+          "name": {
+            "de": "Estatua de Indíbil y Mandonio",
+            "hu": "Indíbil és Mandonio szobra",
+            "ro": "Statuia lui Indíbil și Mandonio",
+            "en": "Statue of Indíbil and Mandonio"
+          },
+          "coords": [
+            0.6215,
+            41.6145
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:18",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ihr erster Halt, direkt nach dem Aussteigen aus dem Bus.",
+            "hu": "Az első megálló, rögtön a buszról leszállva.",
+            "ro": "Prima oprire, imediat după coborârea din autobuz.",
+            "en": "Your first stop, right after getting off the bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Neue Kathedrale von Lleida",
+            "hu": "Lleidai új katedrális",
+            "ro": "Catedrala Nouă din Lleida",
+            "en": "New Cathedral of Lleida"
+          },
+          "coords": [
+            0.6248,
+            41.6148
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang entlang der Hauptgeschäftsstraße.",
+            "hu": "Rövid séta a fő bevásárlóutcán.",
+            "ro": "O scurtă plimbare de-a lungul străzii comerciale principale.",
+            "en": "A short walk along the main commercial street."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Bus zur Seu Vella",
+            "hu": "B csoport: Busszal a Seu Vellához",
+            "ro": "Cluster B: Autobuz spre Seu Vella",
+            "en": "Cluster B: Bus to Seu Vella"
+          },
+          "coords": [
+            0.6264,
+            41.6176
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:44",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus, der den Hügel hinauffährt, um Energie zu sparen.",
+            "hu": "Válasszon egy buszt, ami felvisz a dombra, hogy energiát spóroljon.",
+            "ro": "Luați un autobuz care urcă pe deal pentru a economisi energie.",
+            "en": "Take a bus that goes up the hill to save your energy."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Lleida",
+            "hu": "Lleidai Múzeum",
+            "ro": "Muzeul din Lleida",
+            "en": "Museum of Lleida"
+          },
+          "coords": [
+            0.6278,
+            41.6188
+          ],
+          "category": "museums",
+          "arrive_at": "12:46",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach der Kathedrale ist das Museum nur einen Steinwurf entfernt.",
+            "hu": "A katedrális után a múzeum csak egy kőhajításnyira van.",
+            "ro": "După catedrală, muzeul este la o aruncătură de băț.",
+            "en": "After the cathedral, the museum is just a stone's throw away."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Bus zum Parc de la Mitjana",
+            "hu": "C csoport: Busszal a Parc de la Mitjana parkba",
+            "ro": "Cluster C: Autobuz spre Parcul Mitjana",
+            "en": "Cluster C: Bus to Parc de la Mitjana"
+          },
+          "coords": [
+            0.658,
+            41.625
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 4.8,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ihre letzte Fahrt des Tages führt Sie in die grüne Oase der Stadt.",
+            "hu": "A nap utolsó útja a város zöld oázisába vezet.",
+            "ro": "Ultima călătorie a zilei vă duce la oaza de verdeață a orașului.",
+            "en": "Your last ride of the day takes you to the city's green oasis."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln erkunden Sie Lleida wie ein Einheimischer. Beginnen Sie Ihren Tag mit einer Busfahrt ins Stadtzentrum, um die wichtigsten Sehenswürdigkeiten der Unterstadt wie die Neue Kathedrale und die berühmte Statue zu Fuß zu erkunden. Dies ist Ihr erster Cluster. Am Mittag nehmen Sie einen weiteren Bus, um den anstrengenden Aufstieg zur Seu Vella zu vermeiden. Nachdem Sie den Kathedralenkomplex und das benachbarte Museum erkundet haben, genießen Sie ein Mittagessen mit Aussicht, bevor Sie sich auf Ihren nächsten Transit-Hop vorbereiten. Der Nachmittag bringt Sie zu einem Kontrastprogramm. Nehmen Sie einen Bus vom historischen Hügel zum weitläufigen Parc de la Mitjana. Tauschen Sie die Steine der Geschichte gegen die Blätter der Natur und genießen Sie einen entspannten Spaziergang. Am Abend bringen Sie die Busse zurück ins Zentrum. Jetzt ist es an der Zeit, die Stadt zu Fuß zu genießen, ein schönes Restaurant für das Abendessen zu finden und das Nachtleben von Lleida zu erleben, in dem Wissen, dass Ihr letzter Bus Sie sicher zurückbringt.",
+        "hu": "A tömegközlekedéssel úgy fedezheti fel Lleidát, mint egy helyi. Kezdje a napot egy buszozással a városközpontba, hogy gyalogosan fedezze fel az alsóváros főbb látnivalóit, mint az Új Katedrálist és a híres szobrot. Ez az első csoport. Délben szálljon egy másik buszra, hogy elkerülje a fárasztó emelkedőt a Seu Vellához. Miután felfedezte a katedrális komplexumot és a szomszédos múzeumot, ebédeljen egyet a kilátással, mielőtt felkészül a következő útra. A délután kontrasztot kínál. Szálljon buszra a történelmi dombról a tágas Parc de la Mitjana parkba. Cserélje le a történelem köveit a természet leveleire, és élvezze a pihentető sétát. Este a buszok visszaviszik a központba. Itt az ideje, hogy gyalogosan élvezze a várost, találjon egy jó éttermet vacsorára, és megtapasztalja Lleida éjszakai életét, tudva, hogy az utolsó busz biztonságban hazaviszi.",
+        "ro": "Folosind transportul public, explorezi Lleida ca un localnic. Începe-ți ziua cu o călătorie cu autobuzul spre centrul orașului pentru a explora pe jos principalele atracții din orașul de jos, cum ar fi Catedrala Nouă și faimoasa statuie. Acesta este primul tău cluster. La prânz, ia un alt autobuz pentru a evita urcușul anevoios spre Seu Vella. După ce ai explorat complexul catedralei și muzeul adiacent, bucură-te de un prânz cu priveliște înainte de a te pregăti pentru următoarea călătorie. După-amiaza te aduce un contrast. Ia un autobuz de pe dealul istoric spre vastul Parc Mitjana. Schimbă pietrele istoriei cu frunzele naturii pentru o plimbare relaxantă. Seara, autobuzele te aduc înapoi în centru. Acum este timpul să te bucuri de oraș pe jos, să găsești un restaurant drăguț pentru cină și să experimentezi viața de noapte din Lleida, știind că ultimul autobuz te va duce înapoi în siguranță.",
+        "en": "Using public transport, you explore Lleida like a local. Start your day with a bus ride to the city center to explore the main lower-town sights like the New Cathedral and the famous statue on foot. This is your first cluster. At midday, take another bus to avoid the strenuous climb to Seu Vella. After exploring the cathedral complex and the adjacent museum, enjoy lunch with a view before preparing for your next transit hop. The afternoon brings you a contrast. Take a bus from the historic hill to the expansive Parc de la Mitjana. Swap the stones of history for the leaves of nature and enjoy a relaxing walk. In the evening, the buses bring you back to the center. Now it's time to enjoy the city on foot, find a nice restaurant for dinner, and experience Lleida's nightlife, knowing your last bus will get you back safely."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cargols a la Llauna",
+            "tip": "Suchen Sie nach einem Restaurant in der Nähe einer Bushaltestelle, um es einfach zu machen."
+          },
+          {
+            "name": "Cassola de tros",
+            "tip": "Ein herzhafter Eintopf mit Schweinefleisch und Kartoffeln, ideal nach einem langen Tag voller Besichtigungen."
+          },
+          {
+            "name": "Orelletes",
+            "tip": "Ein leichtes, knuspriges Gebäck, das oft bei Festen gegessen wird. Suchen Sie es in Bäckereien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cargols a la Llauna",
+            "tip": "Keressen egy éttermet egy buszmegálló közelében a könnyebbség kedvéért."
+          },
+          {
+            "name": "Cassola de tros",
+            "tip": "Kiadós pörkölt sertéshússal és burgonyával, ideális egy hosszú, városnézéssel töltött nap után."
+          },
+          {
+            "name": "Orelletes",
+            "tip": "Könnyű, ropogós sütemény, amelyet gyakran fogyasztanak fesztiválokon. Keresse a pékségekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cargols a la Llauna",
+            "tip": "Căutați un restaurant lângă o stație de autobuz pentru a fi mai ușor."
+          },
+          {
+            "name": "Cassola de tros",
+            "tip": "O tocană consistentă cu carne de porc și cartofi, ideală după o zi lungă de vizitare."
+          },
+          {
+            "name": "Orelletes",
+            "tip": "Un produs de patiserie ușor și crocant, adesea consumat la festivaluri. Căutați-l în brutării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cargols a la Llauna",
+            "tip": "Look for a restaurant near a bus stop to make it easy."
+          },
+          {
+            "name": "Cassola de tros",
+            "tip": "A hearty stew with pork and potatoes, ideal after a long day of sightseeing."
+          },
+          {
+            "name": "Orelletes",
+            "tip": "A light, crispy pastry often eaten at festivals. Look for it in bakeries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Busfahrt aus der Stadt hinaus",
+            "tip": "Beobachten Sie die Stadt aus dem Fenster, während Sie zum Parc de la Mitjana fahren.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Die Stille in der Seu Vella",
+            "tip": "Sobald Sie oben sind, finden Sie einen ruhigen Ort im riesigen Kreuzgang.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parc de la Mitjana",
+            "tip": "Das ultimative Ziel für Ruhe und Frieden in Lleida.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás kifelé a városból",
+            "tip": "Nézze a várost az ablakból, miközben a Parc de la Mitjana felé tart.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Csend a Seu Vellában",
+            "tip": "Ha már fent van, keressen egy csendes helyet a hatalmas kerengőben.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parc de la Mitjana",
+            "tip": "A béke és a nyugalom végső célpontja Lleidában.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O călătorie cu autobuzul în afara orașului",
+            "tip": "Privește orașul pe fereastră în timp ce te îndrepți spre Parcul Mitjana.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Liniștea din Seu Vella",
+            "tip": "Odată ajuns sus, găsește un loc liniștit în claustrul imens.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Mitjana",
+            "tip": "Destinația finală pentru pace și liniște în Lleida.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bus ride out of town",
+            "tip": "Watch the city from the window as you head to Parc de la Mitjana.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "The quiet inside Seu Vella",
+            "tip": "Once you're up the hill, find a quiet spot in the immense cloister.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parc de la Mitjana",
+            "tip": "The ultimate destination for peace and quiet in Lleida.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske an Bushaltestellen",
+            "tip": "Kaufen Sie eine Zeitung oder ein kaltes Getränk, während Sie auf Ihren Bus warten."
+          },
+          {
+            "name": "Geschäfte entlang der Eix Comercial",
+            "tip": "Leicht erreichbar von den zentralen Bushaltestellen für eine schnelle Shoppingtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok a buszmegállókban",
+            "tip": "Vásároljon újságot vagy hideg italt, amíg a buszra vár."
+          },
+          {
+            "name": "Boltok az Eix Comercial mentén",
+            "tip": "Könnyen megközelíthető a központi buszmegállóktól egy gyors vásárláshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri la stațiile de autobuz",
+            "tip": "Cumpără un ziar sau o băutură rece în timp ce aștepți autobuzul."
+          },
+          {
+            "name": "Magazine de-a lungul Eix Comercial",
+            "tip": "Ușor de ajuns de la stațiile de autobuz centrale pentru o sesiune rapidă de cumpărături."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks at bus stops",
+            "tip": "Buy a newspaper or a cold drink while waiting for your bus."
+          },
+          {
+            "name": "Shops along Eix Comercial",
+            "tip": "Easily accessible from the central bus stops for a quick shopping spree."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine T-10-Karte für mehrere Fahrten, das ist billiger als Einzeltickets.",
+          "Laden Sie die lokale Bus-App herunter, um Fahrpläne und Routen in Echtzeit zu verfolgen.",
+          "Die Busse können zu Stoßzeiten voll sein, planen Sie entsprechend.",
+          "Bestätigen Sie Ihre Fahrkarte bei jedem Einsteigen, auch beim Umsteigen."
+        ],
+        "hu": [
+          "Vásároljon egy T-10-es kártyát több utazáshoz, olcsóbb, mint az egyedi jegyek.",
+          "Töltse le a helyi buszalkalmazást a valós idejű menetrendek és útvonalak követéséhez.",
+          "A buszok csúcsidőben zsúfoltak lehetnek, tervezzen ennek megfelelően.",
+          "Minden felszálláskor érvényesítse a jegyét, még átszálláskor is."
+        ],
+        "ro": [
+          "Cumpărați un card T-10 pentru mai multe călătorii, este mai ieftin decât biletele individuale.",
+          "Descărcați aplicația locală de autobuz pentru a urmări orarele și rutele în timp real.",
+          "Autobuzele pot fi aglomerate la ore de vârf, planificați în consecință.",
+          "Validați-vă biletul de fiecare dată când vă urcați, chiar și la transfer."
+        ],
+        "en": [
+          "Buy a T-10 card for multiple journeys, it's cheaper than single tickets.",
+          "Download the local bus app to track real-time schedules and routes.",
+          "Buses can be crowded during peak hours, plan accordingly.",
+          "Validate your ticket each time you board, even when transferring."
+        ]
+      }
+    }
+  }
+}

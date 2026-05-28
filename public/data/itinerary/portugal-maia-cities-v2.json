@@ -1,0 +1,1388 @@
+{
+  "city_id": "portugal-maia-cities-v2",
+  "anchor": {
+    "name": "Maia",
+    "coords": [
+      -8.6167,
+      41.2333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fórum da Maia",
+            "hu": "Maia Fórum",
+            "ro": "Fórum da Maia",
+            "en": "Maia Forum"
+          },
+          "coords": [
+            -8.6133,
+            41.2345
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Spielplan, vielleicht gibt es eine interessante Ausstellung oder Veranstaltung.",
+            "hu": "Nézd meg a programot, hátha van egy érdekes kiállítás vagy esemény.",
+            "ro": "Verificați programul, s-ar putea să existe o expoziție sau un eveniment interesant.",
+            "en": "Check the schedule, there might be an interesting exhibition or event."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für die Maiata-Gemeinschaft",
+            "hu": "Maia Közösségének Emlékműve",
+            "ro": "Monumentul Comunității Maiata",
+            "en": "Monument to the Maiata Community"
+          },
+          "coords": [
+            -8.615,
+            41.2355
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:50",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein guter Ort, um die lokale Identität zu verstehen und Fotos zu machen.",
+            "hu": "Jó hely a helyi identitás megértéséhez és fotózáshoz.",
+            "ro": "Un loc bun pentru a înțelege identitatea locală și a face fotografii.",
+            "en": "A good spot to understand the local identity and take photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Statue von Lidador",
+            "hu": "Lidador szobra",
+            "ro": "Statuia lui Lidador",
+            "en": "Statue of Lidador"
+          },
+          "coords": [
+            -8.6199,
+            41.2366
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:20",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die Legende von Gonçalo Mendes da Maia, dem Lidador.",
+            "hu": "Ismerd meg Gonçalo Mendes da Maia, a Lidador legendáját.",
+            "ro": "Aflați legenda lui Gonçalo Mendes da Maia, Lidadorul.",
+            "en": "Learn about the legend of Gonçalo Mendes da Maia, the Lidador."
+          }
+        },
+        {
+          "name": {
+            "de": "Heiligtum Unserer Lieben Frau von Bom Despacho",
+            "hu": "Nossa Senhora do Bom Despacho szentély",
+            "ro": "Sanctuarul Doamnei Noastre de la Bom Despacho",
+            "en": "Sanctuary of Our Lady of Bom Despacho"
+          },
+          "coords": [
+            -8.6258,
+            41.2401
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur und die ruhige Atmosphäre im Inneren.",
+            "hu": "Csodáld meg a lenyűgöző építészetet és a belső csendes légkört.",
+            "ro": "Admirați arhitectura impresionantă și atmosfera liniștită din interior.",
+            "en": "Admire the impressive architecture and the quiet atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einem lokalen Restaurant",
+            "hu": "Ebéd egy helyi étteremben",
+            "ro": "Prânz la un restaurant local",
+            "en": "Lunch at a local restaurant"
+          },
+          "coords": [
+            -8.623,
+            41.238
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Probieren Sie „Vitela assada“ (gebratenes Kalbfleisch), eine lokale Spezialität.",
+            "hu": "Kóstold meg a 'Vitela assada'-t (sült borjúhús), egy helyi specialitást.",
+            "ro": "Încercați „Vitela assada” (vițel la cuptor), o specialitate locală.",
+            "en": "Try 'Vitela assada' (roasted veal), a local specialty."
+          }
+        },
+        {
+          "name": {
+            "de": "Quinta da Gruta",
+            "hu": "Quinta da Gruta",
+            "ro": "Quinta da Gruta",
+            "en": "Quinta da Gruta"
+          },
+          "coords": [
+            -8.5997,
+            41.2294
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:50",
+          "stay_min": 155,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 80,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort zum Entspannen am Nachmittag, mit Gärten und einem kleinen See.",
+            "hu": "Tökéletes hely egy délutáni pihenéshez, kertekkel és egy kis tóval.",
+            "ro": "Un loc perfect pentru a vă relaxa după-amiaza, cu grădini și un mic lac.",
+            "en": "A perfect place to relax in the afternoon, with gardens and a small lake."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Maia beginnt im kulturellen Herzen der Stadt, dem Fórum da Maia. Nach einem kurzen Spaziergang entdecken Sie lokale Denkmäler, die die Geschichte der Stadt erzählen. Am Mittag erreichen Sie das beeindruckende Heiligtum von Bom Despacho, ein Meisterwerk der spirituellen Architektur, bevor Sie ein herzhaftes lokales Mittagessen genießen. Der Nachmittag ist der Entspannung in der grünen Oase der Quinta da Gruta gewidmet, wo Sie den Tag in Ruhe ausklingen lassen.",
+        "hu": "A napod Maia kulturális szívében, a Fórumban kezdődik. Egy rövid séta után felfedezed a város történelmét mesélő helyi emlékműveket. Délben eléred a lenyűgöző Bom Despacho szentélyt, a spirituális építészet mesterművét, mielőtt elfogyasztanál egy kiadós helyi ebédet. A délutánt a Quinta da Gruta zöld oázisában való pihenésnek szentelheted, ahol békésen zárhatod a napot.",
+        "ro": "Ziua dvs. în Maia începe în inima culturală a orașului, la Fórum da Maia. După o scurtă plimbare, veți descoperi monumente locale care povestesc istoria orașului. La prânz, ajungeți la impresionantul Sanctuar Bom Despacho, o capodoperă a arhitecturii spirituale, înainte de a savura un prânz local copios. După-amiaza este dedicată relaxării în oaza de verdeață de la Quinta da Gruta, unde puteți încheia ziua în liniște.",
+        "en": "Your day in Maia begins in the cultural heart of the city, the Maia Forum. After a short walk, you'll discover local monuments that tell the city's history. At noon, you reach the impressive Bom Despacho Sanctuary, a masterpiece of spiritual architecture, before enjoying a hearty local lunch. The afternoon is dedicated to relaxation in the green oasis of Quinta da Gruta, where you can end the day peacefully."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurante O Lidador",
+            "tip": "Bekannt für traditionelle portugiesische Küche, probieren Sie das gegrillte Fleisch."
+          },
+          {
+            "name": "Coreto",
+            "tip": "Ein moderneres Ambiente mit ausgezeichneten Tapas und Weinen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurante O Lidador",
+            "tip": "Hagyományos portugál konyhájáról ismert, kóstold meg a grillezett húsokat."
+          },
+          {
+            "name": "Coreto",
+            "tip": "Modern környezet kiváló tapasokkal és borokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurante O Lidador",
+            "tip": "Renumit pentru bucătăria tradițională portugheză, încercați carnea la grătar."
+          },
+          {
+            "name": "Coreto",
+            "tip": "O atmosferă mai modernă, cu tapas și vinuri excelente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurante O Lidador",
+            "tip": "Known for traditional Portuguese cuisine, try the grilled meats."
+          },
+          {
+            "name": "Coreto",
+            "tip": "A more modern setting with excellent tapas and wines."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten der Quinta da Gruta",
+            "tip": "Finden Sie eine ruhige Bank am See.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Inneres des Heiligtums",
+            "tip": "Ein Moment der Stille und Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Quinta da Gruta kertjei",
+            "tip": "Keress egy csendes padot a tó mellett.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A szentély belseje",
+            "tip": "A csend és az elmélkedés pillanata.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile de la Quinta da Gruta",
+            "tip": "Găsiți o bancă liniștită lângă lac.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Interiorul Sanctuarului",
+            "tip": "Un moment de liniște și reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gardens of Quinta da Gruta",
+            "tip": "Find a quiet bench by the lake.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Inside the Sanctuary",
+            "tip": "A moment of silence and reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Produkten und Kunsthandwerk, oft in der Nähe des Zentrums."
+          },
+          {
+            "name": "Straßen um das Fórum",
+            "tip": "Kleine Boutiquen mit einzigartigen Fundstücken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keress helyi termékeket és kézműves árukat, gyakran a központ közelében."
+          },
+          {
+            "name": "A Fórum körüli utcák",
+            "tip": "Kis butikok egyedi leletekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Locală",
+            "tip": "Căutați produse locale și artizanat, adesea lângă centru."
+          },
+          {
+            "name": "Străzile din jurul Fórumului",
+            "tip": "Mici buticuri cu descoperiri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for local produce and handicrafts, often near the center."
+          },
+          {
+            "name": "Streets around the Forum",
+            "tip": "Small boutiques with unique finds."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit.",
+          "Planen Sie genügend Zeit für das Mittagessen ein, um die lokale Küche zu genießen.",
+          "Halten Sie eine Kamera bereit, um die Architektur und die Denkmäler festzuhalten."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, sokat fogsz sétálni.",
+          "Vigyél magaddal újratölthető vizes palackot.",
+          "Szánj elég időt az ebédre, hogy kiélvezhesd a helyi konyhát.",
+          "Legyen nálad fényképezőgép az építészet és az emlékművek megörökítéséhez."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe jos.",
+          "Luați o sticlă de apă reutilizabilă.",
+          "Planificați suficient timp pentru prânz pentru a savura bucătăria locală.",
+          "Țineți un aparat foto la îndemână pentru a surprinde arhitectura și monumentele."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "Bring a reusable water bottle.",
+          "Plan enough time for lunch to savor the local cuisine.",
+          "Keep a camera ready to capture the architecture and monuments."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parque de Avioso",
+            "hu": "Avioso Park",
+            "ro": "Parcul Avioso",
+            "en": "Avioso Park"
+          },
+          "coords": [
+            -8.5958,
+            41.2681
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort, um den Tag mit einer Radtour auf den Wegen zu beginnen.",
+            "hu": "Nagyszerű hely a nap kezdéséhez egy biciklitúrával az ösvényeken.",
+            "ro": "Un loc minunat pentru a începe ziua cu o plimbare cu bicicleta pe poteci.",
+            "en": "A great place to start the day with a bike ride on its trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Heiligtum Unserer Lieben Frau von Bom Despacho",
+            "hu": "Nossa Senhora do Bom Despacho szentély",
+            "ro": "Sanctuarul Doamnei Noastre de la Bom Despacho",
+            "en": "Sanctuary of Our Lady of Bom Despacho"
+          },
+          "coords": [
+            -8.6258,
+            41.2401
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:45",
+          "stay_min": 50,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab und nehmen Sie sich Zeit, die Details zu bewundern.",
+            "hu": "Zárd le biztonságosan a biciklidet, és szánj időt a részletek megcsodálására.",
+            "ro": "Asigurați-vă bicicleta și admirați detaliile.",
+            "en": "Lock your bike securely and take time to admire the details."
+          }
+        },
+        {
+          "name": {
+            "de": "Statue von Lidador",
+            "hu": "Lidador szobra",
+            "ro": "Statuia lui Lidador",
+            "en": "Statue of Lidador"
+          },
+          "coords": [
+            -8.6199,
+            41.2366
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:41",
+          "stay_min": 15,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein schneller Halt für ein Foto mit dem Helden der Stadt.",
+            "hu": "Egy gyors megálló egy fotóra a város hősével.",
+            "ro": "O oprire rapidă pentru o fotografie cu eroul orașului.",
+            "en": "A quick stop for a photo with the city's hero."
+          }
+        },
+        {
+          "name": {
+            "de": "Fórum da Maia",
+            "hu": "Maia Fórum",
+            "ro": "Fórum da Maia",
+            "en": "Maia Forum"
+          },
+          "coords": [
+            -8.6133,
+            41.2345
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:02",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Werfen Sie einen Blick auf die moderne Architektur dieses Kulturzentrums.",
+            "hu": "Vess egy pillantást a kulturális központ modern építészetére.",
+            "ro": "Aruncați o privire la arhitectura modernă a acestui centru cultural.",
+            "en": "Take a look at the modern architecture of this cultural hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Zentrums",
+            "hu": "Ebéd a központ közelében",
+            "ro": "Prânz lângă centru",
+            "en": "Lunch near the center"
+          },
+          "coords": [
+            -8.614,
+            41.233
+          ],
+          "category": "gastro",
+          "arrive_at": "12:32",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Suchen Sie ein Café mit Sitzgelegenheiten im Freien, um Ihr Fahrrad im Auge zu behalten.",
+            "hu": "Keress egy szabadtéri ülőhelyes kávézót, hogy szemmel tarthasd a biciklidet.",
+            "ro": "Căutați o cafenea cu terasă pentru a vă putea supraveghea bicicleta.",
+            "en": "Find a cafe with outdoor seating to keep an eye on your bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja de Águas Santas",
+            "hu": "Águas Santas-i templom",
+            "ro": "Biserica din Águas Santas",
+            "en": "Church of Águas Santas"
+          },
+          "coords": [
+            -8.5778,
+            41.2075
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:42",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Eine wunderschöne romanische Kirche, die eine kleine Radtour wert ist.",
+            "hu": "Egy gyönyörű román stílusú templom, ami megér egy kis biciklizést.",
+            "ro": "O frumoasă biserică romanică ce merită o mică deviere cu bicicleta.",
+            "en": "A beautiful Romanesque church that is worth the bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Quinta da Gruta",
+            "hu": "Quinta da Gruta",
+            "ro": "Quinta da Gruta",
+            "en": "Quinta da Gruta"
+          },
+          "coords": [
+            -8.5997,
+            41.2294
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:07",
+          "stay_min": 88,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einer entspannten Zeit in diesem schönen Park.",
+            "hu": "Fejezd be a biciklitúrát egy pihentető időtöltéssel ebben a szép parkban.",
+            "ro": "Încheiați-vă turul cu bicicleta cu un moment de relaxare în acest parc frumos.",
+            "en": "End your bike tour with some relaxing time in this lovely park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour durch Maia beginnt im grünen Avioso-Park. Von dort radeln Sie zum spirituellen Zentrum, dem Heiligtum von Bom Despacho, und machen kurze Stopps bei den Wahrzeichen der Stadt. Nach einem Blick auf das moderne Fórum da Maia und einem stärkenden Mittagessen führt Sie Ihre Route zur historischen Kirche von Águas Santas. Den Abschluss des Tages bildet eine entspannte Zeit im Park der Quinta da Gruta, wo Sie die gesammelten Eindrücke verarbeiten können.",
+        "hu": "A maiai biciklitúrád a zöld Avioso Parkban kezdődik. Onnan a spirituális központhoz, a Bom Despacho szentélyhez tekersz, rövid megállókkal a város nevezetességeinél. A modern Maia Fórum megtekintése és egy kiadós ebéd után az útvonalad az Águas Santas történelmi templomához vezet. A napot a Quinta da Gruta parkjában való pihenéssel zárod, ahol feldolgozhatod a gyűjtött benyomásokat.",
+        "ro": "Turul dvs. cu bicicleta prin Maia începe în Parcul verde Avioso. De acolo, pedalați spre centrul spiritual, Sanctuarul Bom Despacho, cu opriri scurte la reperele orașului. După o privire la modernul Fórum da Maia și un prânz copios, traseul vă duce la biserica istorică din Águas Santas. Ziua se încheie cu un moment de relaxare în parcul de la Quinta da Gruta, unde puteți procesa impresiile adunate.",
+        "en": "Your bike tour through Maia starts in the green Avioso Park. From there, you'll cycle to the spiritual center, the Bom Despacho Sanctuary, with short stops at the city's landmarks. After a look at the modern Maia Forum and a hearty lunch, your route takes you to the historic church of Águas Santas. The day concludes with some relaxing time in the park at Quinta da Gruta, where you can process the impressions you've gathered."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Padaria Ribeiro",
+            "tip": "Perfekt für einen schnellen Kaffee und ein Gebäck, um Energie zu tanken."
+          },
+          {
+            "name": "Restaurante O Forno",
+            "tip": "Probieren Sie das Tagesmenü für ein authentisches und preiswertes Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Padaria Ribeiro",
+            "tip": "Tökéletes egy gyors kávéhoz és süteményhez, hogy energiát gyűjts."
+          },
+          {
+            "name": "Restaurante O Forno",
+            "tip": "Kóstold meg a napi menüt egy autentikus és megfizethető ebédért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Padaria Ribeiro",
+            "tip": "Perfect pentru o cafea rapidă și un produs de patiserie pentru a vă reîncărca bateriile."
+          },
+          {
+            "name": "Restaurante O Forno",
+            "tip": "Încercați meniul zilei pentru un prânz autentic și accesibil."
+          }
+        ],
+        "en": [
+          {
+            "name": "Padaria Ribeiro",
+            "tip": "Perfect for a quick coffee and a pastry to refuel."
+          },
+          {
+            "name": "Restaurante O Forno",
+            "tip": "Try the daily menu for an authentic and affordable lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque de Avioso",
+            "tip": "Finden Sie einen ruhigen Weg abseits der Hauptwege.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer in der Nähe der Kirche Águas Santas",
+            "tip": "Ein friedlicher Ort nach Ihrer Radtour.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Avioso Park",
+            "tip": "Keress egy csendes ösvényt a főbb utak mellett.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Az Águas Santas-i templom közeli part",
+            "tip": "Békés hely a biciklizés után.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Avioso",
+            "tip": "Găsiți o potecă liniștită departe de cărările principale.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malurile de lângă Biserica Águas Santas",
+            "tip": "Un loc pașnic după plimbarea cu bicicleta.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Avioso Park",
+            "tip": "Find a quiet trail away from the main paths.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks near Águas Santas Church",
+            "tip": "A peaceful spot after your bike ride.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Decathlon Maia",
+            "tip": "Falls Sie Fahrradausrüstung oder Sportartikel benötigen."
+          },
+          {
+            "name": "Lokale Handwerksläden",
+            "tip": "Suchen Sie nach einzigartigen Souvenirs in den kleineren Straßen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Decathlon Maia",
+            "tip": "Ha biciklis felszerelésre vagy sportcikkekre van szükséged."
+          },
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keress egyedi ajándéktárgyakat a kisebb utcákban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Decathlon Maia",
+            "tip": "În caz că aveți nevoie de echipament de ciclism sau articole sportive."
+          },
+          {
+            "name": "Magazine de artizanat locale",
+            "tip": "Căutați suveniruri unice pe străzile mai mici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Decathlon Maia",
+            "tip": "In case you need any cycling gear or sports equipment."
+          },
+          {
+            "name": "Local Craft Shops",
+            "tip": "Look for unique souvenirs in the smaller streets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck vor der Abfahrt.",
+          "Nehmen Sie ein gutes Fahrradschloss mit.",
+          "Maia hat einige Hügel, seien Sie auf Steigungen vorbereitet.",
+          "Nutzen Sie Radwege, wo immer möglich."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizd a guminyomást.",
+          "Vigyél magaddal egy jó biciklizárat.",
+          "Maiában vannak dombok, készülj fel az emelkedőkre.",
+          "Ahol csak lehetséges, használd a kerékpárutakat."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope înainte de a pleca.",
+          "Luați cu voi un antifurt bun pentru bicicletă.",
+          "Maia are câteva dealuri, fiți pregătiți pentru urcușuri.",
+          "Folosiți pistele de biciclete ori de câte ori este posibil."
+        ],
+        "en": [
+          "Check your tire pressure before heading out.",
+          "Bring a good bike lock.",
+          "Maia has some hills, be prepared for inclines.",
+          "Use bike lanes wherever available."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 21.3,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Zoo da Maia (Cluster A)",
+            "hu": "Maiai Állatkert (A csoport)",
+            "ro": "Grădina Zoologică Maia (Grupul A)",
+            "en": "Maia Zoo (Cluster A)"
+          },
+          "coords": [
+            -8.6389,
+            41.2583
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 150,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Kommen Sie früh an, um die Menschenmassen zu vermeiden und die Tiere bei ihrer Fütterung zu beobachten.",
+            "hu": "Érkezz korán, hogy elkerüld a tömeget és lásd az állatokat etetés közben.",
+            "ro": "Ajungeți devreme pentru a evita aglomerația și pentru a vedea animalele în timpul hrănirii.",
+            "en": "Arrive early to avoid the crowds and see the animals during their feeding time."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque de Avioso (Cluster A)",
+            "hu": "Avioso Park (A csoport)",
+            "ro": "Parcul Avioso (Grupul A)",
+            "en": "Avioso Park (Cluster A)"
+          },
+          "coords": [
+            -8.5958,
+            41.2681
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:55",
+          "stay_min": 45,
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang nach dem Zoo, um die Beine zu vertreten.",
+            "hu": "Egy rövid séta az állatkert után, hogy kinyújtóztasd a lábaidat.",
+            "ro": "O scurtă plimbare după grădina zoologică pentru a vă dezmorți picioarele.",
+            "en": "A short walk after the zoo to stretch your legs."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen (Cluster B)",
+            "hu": "Ebéd (B csoport)",
+            "ro": "Prânz (Grupul B)",
+            "en": "Lunch (Cluster B)"
+          },
+          "coords": [
+            -8.623,
+            41.238
+          ],
+          "category": "gastro",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Zentrum und wählen Sie ein Restaurant in der Nähe des Heiligtums.",
+            "hu": "Parkolj a központban, és válassz egy éttermet a szentély közelében.",
+            "ro": "Parcați în centru și alegeți un restaurant lângă Sanctuar.",
+            "en": "Park in the center and choose a restaurant near the Sanctuary."
+          }
+        },
+        {
+          "name": {
+            "de": "Heiligtum Unserer Lieben Frau von Bom Despacho (Cluster B)",
+            "hu": "Nossa Senhora do Bom Despacho szentély (B csoport)",
+            "ro": "Sanctuarul Doamnei Noastre de la Bom Despacho (Grupul B)",
+            "en": "Sanctuary of Our Lady of Bom Despacho (Cluster B)"
+          },
+          "coords": [
+            -8.6258,
+            41.2401
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:30",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Restaurant aus. Bewundern Sie die Kachelarbeiten.",
+            "hu": "Rövid séta az étteremtől. Csodáld meg a csempe munkát.",
+            "ro": "O scurtă plimbare de la restaurant. Admirați faianța.",
+            "en": "A short walk from the restaurant. Admire the tile work."
+          }
+        },
+        {
+          "name": {
+            "de": "Statue von Lidador (Cluster B)",
+            "hu": "Lidador szobra (B csoport)",
+            "ro": "Statuia lui Lidador (Grupul B)",
+            "en": "Statue of Lidador (Cluster B)"
+          },
+          "coords": [
+            -8.6199,
+            41.2366
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:25",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Gehen Sie zum Denkmal, um mehr über die lokale Geschichte zu erfahren.",
+            "hu": "Sétálj el az emlékműhöz, hogy többet tudj meg a helyi történelemről.",
+            "ro": "Mergeți pe jos până la monument pentru a afla despre istoria locală.",
+            "en": "Walk over to the monument to learn about local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Fórum da Maia (Cluster B)",
+            "hu": "Maia Fórum (B csoport)",
+            "ro": "Fórum da Maia (Grupul B)",
+            "en": "Maia Forum (Cluster B)"
+          },
+          "coords": [
+            -8.6133,
+            41.2345
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:50",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Stadtrundgang mit einem Blick auf die moderne Seite von Maia.",
+            "hu": "Fejezd be a városnézést Maia modern oldalának megtekintésével.",
+            "ro": "Încheiați-vă turul pe jos al centrului cu o privire la partea modernă a orașului Maia.",
+            "en": "Finish your walking tour of the center with a look at Maia's modern side."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja de Águas Santas (Cluster C)",
+            "hu": "Águas Santas-i templom (C csoport)",
+            "ro": "Biserica din Águas Santas (Grupul C)",
+            "en": "Church of Águas Santas (Cluster C)"
+          },
+          "coords": [
+            -8.5778,
+            41.2075
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:40",
+          "stay_min": 50,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zu dieser historischen Kirche, um ein Stück romanische Architektur zu sehen.",
+            "hu": "Vezess el ehhez a történelmi templomhoz, hogy megnézz egy darabot a román kori építészetből.",
+            "ro": "Conduceți până la această biserică istorică pentru o bucată de arhitectură romanică.",
+            "en": "Drive to this historic church for a piece of Romanesque architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang in der Umgebung (Cluster C)",
+            "hu": "Séta a környéken (C csoport)",
+            "ro": "Plimbare în zonă (Grupul C)",
+            "en": "Walk around the area (Cluster C)"
+          },
+          "coords": [
+            -8.577,
+            41.207
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:30",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Spaziergang in der ruhigen Umgebung der Kirche.",
+            "hu": "Tegyél egy rövid sétát a templom csendes környékén.",
+            "ro": "Faceți o scurtă plimbare în împrejurimile liniștite ale bisericii.",
+            "en": "Take a short walk in the quiet surroundings of the church."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Maia beginnt mit Natur und Tieren im Zoo und im Avioso-Park. Nach diesem grünen Vormittag fahren Sie ins Stadtzentrum. Dort parken Sie und erkunden zu Fuß das spirituelle und bürgerliche Herz von Maia: das Heiligtum von Bom Despacho und die nahegelegenen Denkmäler nach einem gemütlichen Mittagessen. Zum Abschluss des Tages fahren Sie zur historischen Kirche von Águas Santas, um ein Juwel der romanischen Kunst zu entdecken.",
+        "hu": "Az autós napod Maiában a természettel és az állatokkal kezdődik az állatkertben és az Avioso Parkban. A zöld délelőtt után a városközpontba hajtasz. Itt leparkolsz, és egy kellemes ebéd után gyalog fedezed fel Maia spirituális és polgári szívét: a Bom Despacho szentélyt és a közeli emlékműveket. A nap végén az Águas Santas történelmi templomához hajtasz, hogy felfedezz egy román kori művészeti gyöngyszemet.",
+        "ro": "Ziua dvs. cu mașina în Maia începe cu natura și animalele la Grădina Zoologică și în Parcul Avioso. După această dimineață verde, conduceți spre centrul orașului. Acolo, parcați și explorați pe jos inima spirituală și civică a orașului Maia: Sanctuarul Bom Despacho și monumentele din apropiere, după un prânz pe îndelete. Pentru a încheia ziua, conduceți la biserica istorică din Águas Santas pentru a descoperi o bijuterie a artei romanice.",
+        "en": "Your car day in Maia starts with nature and animals at the Zoo and Avioso Park. After this green morning, you'll drive to the city center. There, you park and explore on foot the spiritual and civic heart of Maia: the Bom Despacho Sanctuary and nearby monuments after a leisurely lunch. To end the day, you drive to the historic church of Águas Santas to discover a gem of Romanesque art."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurante A Regaleira",
+            "tip": "Probieren Sie die Meeresfrüchte-Reispfanne (Arroz de Marisco)."
+          },
+          {
+            "name": "Tasquinha da Vila",
+            "tip": "Ein gemütlicher Ort für authentische portugiesische Petiscos (Tapas)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurante A Regaleira",
+            "tip": "Kóstold meg a tenger gyümölcsei rizst (Arroz de Marisco)."
+          },
+          {
+            "name": "Tasquinha da Vila",
+            "tip": "Hangulatos hely autentikus portugál petiscos-okhoz (tapasokhoz)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurante A Regaleira",
+            "tip": "Încercați orezul cu fructe de mare (Arroz de Marisco)."
+          },
+          {
+            "name": "Tasquinha da Vila",
+            "tip": "Un loc primitor pentru petiscos (tapas) portugheze autentice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurante A Regaleira",
+            "tip": "Try the seafood rice (Arroz de Marisco)."
+          },
+          {
+            "name": "Tasquinha da Vila",
+            "tip": "A cozy spot for authentic Portuguese petiscos (tapas)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque de Avioso",
+            "tip": "Ideal für einen ruhigen Spaziergang am Morgen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Umfeld der Kirche von Águas Santas",
+            "tip": "Ein friedlicher Abschluss des Tages.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Avioso Park",
+            "tip": "Ideális egy csendes reggeli sétához.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Az Águas Santas-i templom környéke",
+            "tip": "Békés lezárása a napnak.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Avioso",
+            "tip": "Ideal pentru o plimbare liniștită de dimineață.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Împrejurimile Bisericii din Águas Santas",
+            "tip": "Un final pașnic al zilei.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Avioso Park",
+            "tip": "Ideal for a quiet morning walk.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Surroundings of Águas Santas Church",
+            "tip": "A peaceful end to the day.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mira Maia Shopping",
+            "tip": "Ein Einkaufszentrum für alles, was Sie brauchen."
+          },
+          {
+            "name": "Feira da Vila (wenn es stattfindet)",
+            "tip": "Ein lokaler Markt mit frischen Produkten und Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mira Maia Shopping",
+            "tip": "Egy bevásárlóközpont mindenre, amire szükséged lehet."
+          },
+          {
+            "name": "Feira da Vila (ha éppen van)",
+            "tip": "Helyi piac friss termékekkel és kézműves árukkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mira Maia Shopping",
+            "tip": "Un centru comercial pentru tot ce aveți nevoie."
+          },
+          {
+            "name": "Feira da Vila (dacă are loc)",
+            "tip": "O piață locală cu produse proaspete și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mira Maia Shopping",
+            "tip": "A shopping mall for anything you might need."
+          },
+          {
+            "name": "Feira da Vila (if it's on)",
+            "tip": "A local market with fresh produce and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken kann im Stadtzentrum eine Herausforderung sein; suchen Sie nach ausgewiesenen Parkplätzen.",
+          "Planen Sie Ihre Route im Voraus, um den Verkehr zu vermeiden.",
+          "Ein GPS ist sehr zu empfehlen.",
+          "Respektieren Sie die Parkregeln, besonders in der Nähe von historischen Stätten."
+        ],
+        "hu": [
+          "A parkolás kihívást jelenthet a városközpontban; keress kijelölt parkolókat.",
+          "Tervezd meg előre az útvonalat a forgalom elkerülése érdekében.",
+          "GPS használata erősen ajánlott.",
+          "Tartsd be a parkolási szabályokat, különösen a történelmi helyek közelében."
+        ],
+        "ro": [
+          "Parcarea poate fi o provocare în centrul orașului; căutați parcări desemnate.",
+          "Planificați-vă traseul în avans pentru a evita traficul.",
+          "Un GPS este foarte recomandat.",
+          "Respectați regulile de parcare, în special în apropierea siturilor istorice."
+        ],
+        "en": [
+          "Parking can be challenging in the city center; look for designated car parks.",
+          "Plan your route in advance to avoid traffic.",
+          "A GPS is highly recommended.",
+          "Respect parking rules, especially near historic sites."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 9.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Fórum da Maia (Cluster A)",
+            "hu": "Érkezés a Maia Fórumhoz (A csoport)",
+            "ro": "Sosire la Fórum da Maia (Grupul A)",
+            "en": "Arrival at Fórum da Maia (Cluster A)"
+          },
+          "coords": [
+            -8.6133,
+            41.2345
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier, es ist ein wichtiger Verkehrsknotenpunkt.",
+            "hu": "Kezdd itt a napot, ez egy fontos közlekedési csomópont.",
+            "ro": "Începeți-vă ziua aici, este un nod de transport important.",
+            "en": "Start your day here, it's a major transit hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für die Maiata-Gemeinschaft (Cluster A)",
+            "hu": "Maia Közösségének Emlékműve (A csoport)",
+            "ro": "Monumentul Comunității Maiata (Grupul A)",
+            "en": "Monument to the Maiata Community (Cluster A)"
+          },
+          "coords": [
+            -8.615,
+            41.2355
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:40",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Forum entfernt.",
+            "hu": "Rövid séta a Fórumtól.",
+            "ro": "La o scurtă plimbare de Forum.",
+            "en": "A short walk from the Forum."
+          }
+        },
+        {
+          "name": {
+            "de": "Statue von Lidador (Cluster A)",
+            "hu": "Lidador szobra (A csoport)",
+            "ro": "Statuia lui Lidador (Grupul A)",
+            "en": "Statue of Lidador (Cluster A)"
+          },
+          "coords": [
+            -8.6199,
+            41.2366
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:10",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Setzen Sie Ihren Spaziergang zum nächsten Denkmal fort.",
+            "hu": "Folytasd a sétát a következő emlékműhöz.",
+            "ro": "Continuați plimbarea până la următorul monument.",
+            "en": "Continue your walk to the next monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Heiligtum Unserer Lieben Frau von Bom Despacho (Cluster B)",
+            "hu": "Nossa Senhora do Bom Despacho szentély (B csoport)",
+            "ro": "Sanctuarul Doamnei Noastre de la Bom Despacho (Grupul B)",
+            "en": "Sanctuary of Our Lady of Bom Despacho (Cluster B)"
+          },
+          "coords": [
+            -8.6258,
+            41.2401
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus, um zu diesem wichtigen Wallfahrtsort zu gelangen.",
+            "hu": "Vegyél egy helyi buszt, hogy eljuss ehhez a fontos zarándokhelyhez.",
+            "ro": "Luați un autobuz local pentru a ajunge la acest important sanctuar.",
+            "en": "Take a local bus to get to this important sanctuary."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Heiligtums (Cluster B)",
+            "hu": "Ebéd a szentély közelében (B csoport)",
+            "ro": "Prânz lângă Sanctuar (Grupul B)",
+            "en": "Lunch near the Sanctuary (Cluster B)"
+          },
+          "coords": [
+            -8.6245,
+            41.239
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Es gibt mehrere traditionelle Restaurants in Gehdistanz.",
+            "hu": "Sétatávolságra több hagyományos étterem is található.",
+            "ro": "Există mai multe restaurante tradiționale la distanță de mers pe jos.",
+            "en": "There are several traditional restaurants within walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja de Águas Santas (Cluster C)",
+            "hu": "Águas Santas-i templom (C csoport)",
+            "ro": "Biserica din Águas Santas (Grupul C)",
+            "en": "Church of Águas Santas (Cluster C)"
+          },
+          "coords": [
+            -8.5778,
+            41.2075
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:20",
+          "stay_min": 60,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Diese Fahrt erfordert möglicherweise einen Umstieg, aber die Kirche ist es wert.",
+            "hu": "Ehhez az úthoz lehet, hogy át kell szállni, de a templom megéri.",
+            "ro": "Această călătorie poate necesita o schimbare, dar biserica merită.",
+            "en": "This journey might require a transfer, but the church is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang und Kaffee (Cluster C)",
+            "hu": "Séta és kávé (C csoport)",
+            "ro": "Plimbare și cafea (Grupul C)",
+            "en": "Walk and coffee (Cluster C)"
+          },
+          "coords": [
+            -8.5785,
+            41.208
+          ],
+          "category": "gastro",
+          "arrive_at": "15:20",
+          "stay_min": 140,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich nach der Besichtigung der Kirche in einem lokalen Café.",
+            "hu": "Pihenj egy helyi kávézóban a templom megtekintése után.",
+            "ro": "Relaxați-vă la o cafenea locală după vizitarea bisericii.",
+            "en": "Relax in a local cafe after visiting the church."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Tour mit öffentlichen Verkehrsmitteln durch Maia beginnt im Zentrum, wo Sie die wichtigsten Denkmäler zu Fuß erkunden. Ein kurzer Bus bringt Sie dann zum spirituellen Heiligtum von Bom Despacho für einen Moment der Besinnung und ein Mittagessen. Am Nachmittag unternehmen Sie eine längere Fahrt zur romanischen Kirche von Águas Santas, einem historischen Juwel. Der Tag endet mit einem entspannten Spaziergang und Kaffee in dieser ruhigen Gegend, bevor Sie zurück ins Zentrum fahren.",
+        "hu": "A tömegközlekedési túrád Maiában a központban kezdődik, ahol gyalogosan fedezheted fel a főbb emlékműveket. Egy rövid buszút elvisz a spirituális Bom Despacho szentélyhez egy csendes pillanatra és ebédre. Délután egy hosszabb utat teszel a román stílusú Águas Santas templomhoz, egy történelmi gyöngyszemhez. A nap egy pihentető sétával és kávézással zárul ezen a csendes környéken, mielőtt visszatérnél a központba.",
+        "ro": "Turul dvs. cu transportul public prin Maia începe în centru, unde explorați principalele monumente pe jos. Un autobuz scurt vă va duce apoi la sanctuarul spiritual Bom Despacho pentru un moment de reflecție și prânz. După-amiaza, faceți o călătorie mai lungă la biserica romanică din Águas Santas, o bijuterie istorică. Ziua se încheie cu o plimbare relaxantă și o cafea în această zonă liniștită înainte de a vă întoarce în centru.",
+        "en": "Your public transit tour of Maia starts in the center, exploring the main monuments on foot. A short bus ride then takes you to the spiritual Bom Despacho Sanctuary for a moment of reflection and lunch. In the afternoon, you take a longer journey to the Romanesque church of Águas Santas, a historical gem. The day concludes with a relaxing walk and coffee in this quiet area before heading back to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Confeitaria Aipal",
+            "tip": "Berühmt für sein Gebäck, besonders die „Jesuítas“."
+          },
+          {
+            "name": "O Cantinho do Zé",
+            "tip": "Ein einfaches, aber köstliches Lokal für ein schnelles Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Confeitaria Aipal",
+            "tip": "Híres a süteményeiről, különösen a 'Jesuítas'-ról."
+          },
+          {
+            "name": "O Cantinho do Zé",
+            "tip": "Egyszerű, de finom hely egy gyors ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Confeitaria Aipal",
+            "tip": "Renumită pentru produsele de patiserie, în special „Jesuítas”."
+          },
+          {
+            "name": "O Cantinho do Zé",
+            "tip": "Un loc simplu, dar delicios pentru un prânz rapid."
+          }
+        ],
+        "en": [
+          {
+            "name": "Confeitaria Aipal",
+            "tip": "Famous for its pastries, especially the 'Jesuítas'."
+          },
+          {
+            "name": "O Cantinho do Zé",
+            "tip": "A simple but delicious spot for a quick lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Inneres der Kirche von Águas Santas",
+            "tip": "Erleben Sie die Stille der romanischen Architektur.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Bänke in der Nähe des Heiligtums",
+            "tip": "Ein guter Ort, um nachzudenken.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az Águas Santas-i templom belseje",
+            "tip": "Tapasztald meg a román kori építészet csendjét.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Padok a szentély közelében",
+            "tip": "Jó hely az elmélkedésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Interiorul Bisericii din Águas Santas",
+            "tip": "Experimentați liniștea arhitecturii romanice.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Bănci lângă Sanctuar",
+            "tip": "Un loc bun pentru reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Inside the Church of Águas Santas",
+            "tip": "Experience the silence of Romanesque architecture.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Benches near the Sanctuary",
+            "tip": "A good place for reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Nähe der U-Bahn-Station Fórum Maia",
+            "tip": "Bequem für Last-Minute-Einkäufe."
+          },
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Kaufen Sie süße Leckereien als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok a Fórum Maia metróállomás közelében",
+            "tip": "Kényelmes az utolsó pillanatos vásárlásokhoz."
+          },
+          {
+            "name": "Helyi pékségek",
+            "tip": "Vásárolj édes finomságokat ajándékba."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine lângă stația de metrou Fórum Maia",
+            "tip": "Convenabil pentru cumpărături de ultim moment."
+          },
+          {
+            "name": "Brutării locale",
+            "tip": "Cumpărați dulciuri ca suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops near Fórum Maia metro station",
+            "tip": "Convenient for last-minute shopping."
+          },
+          {
+            "name": "Local bakeries",
+            "tip": "Buy some sweet treats as souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Laden Sie die lokale ÖPNV-App herunter, um Fahrpläne in Echtzeit zu erhalten.",
+          "Validieren Sie Ihr Ticket bei jeder Fahrt.",
+          "Seien Sie auf überfüllte Busse zu Stoßzeiten vorbereitet."
+        ],
+        "hu": [
+          "Vegyél napijegyet a korlátlan utazáshoz.",
+          "Töltsd le a helyi tömegközlekedési alkalmazást a valós idejű menetrendekért.",
+          "Érvényesítsd a jegyed minden utazásnál.",
+          "Készülj fel a zsúfolt buszokra csúcsidőben."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Descărcați aplicația locală de transport public pentru orare în timp real.",
+          "Validați-vă biletul la fiecare călătorie.",
+          "Fiți pregătiți pentru autobuze aglomerate la orele de vârf."
+        ],
+        "en": [
+          "Buy a day pass for unlimited travel.",
+          "Download the local public transport app for real-time schedules.",
+          "Validate your ticket on every ride.",
+          "Be prepared for crowded buses during peak hours."
+        ]
+      }
+    }
+  }
+}

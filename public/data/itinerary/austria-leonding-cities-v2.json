@@ -1,0 +1,1471 @@
+{
+  "city_id": "austria-leonding-cities-v2",
+  "anchor": {
+    "name": "Leonding",
+    "coords": [
+      14.25,
+      48.2833
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Leonding & Stadtplatz",
+            "hu": "Leondingi Városháza és Főtér",
+            "ro": "Primăria Leonding & Piața Centrală",
+            "en": "Leonding Town Hall & Main Square"
+          },
+          "coords": [
+            14.2505,
+            48.283
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Kaffee in einem der Cafés am Platz.",
+            "hu": "Indítsa a napot egy kávéval a tér egyik kávézójában.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
+            "en": "Start your day with a coffee at one of the cafés on the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Michael",
+            "hu": "Szent Mihály Plébániatemplom",
+            "ro": "Biserica Parohială Sf. Mihail",
+            "en": "Parish Church of St. Michael"
+          },
+          "coords": [
+            14.2515,
+            48.2845
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beachten Sie die beeindruckenden Glasfenster und die ruhige Atmosphäre.",
+            "hu": "Figyelje meg a lenyűgöző üvegablakokat és a csendes légkört.",
+            "ro": "Observați vitraliile impresionante și atmosfera liniștită.",
+            "en": "Note the impressive stained glass windows and the quiet atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Turm 9 - Stadtmuseum",
+            "hu": "Torony 9 - Városi Múzeum",
+            "ro": "Turnul 9 - Muzeul Orașului",
+            "en": "Tower 9 - City Museum"
+          },
+          "coords": [
+            14.249,
+            48.282
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein, um die Geschichte der Stadt zu erkunden.",
+            "hu": "Szánjon elég időt a város történelmének felfedezésére.",
+            "ro": "Planificați suficient timp pentru a explora istoria orașului.",
+            "en": "Allow enough time to explore the city's history."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the Center"
+          },
+          "coords": [
+            14.251,
+            48.2835
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie oberösterreichische Knödel in einem traditionellen Gasthaus.",
+            "hu": "Kóstolja meg a felső-ausztriai gombócokat egy hagyományos vendéglőben.",
+            "ro": "Încercați găluștele din Austria Superioară la un han tradițional.",
+            "en": "Try Upper Austrian dumplings in a traditional inn."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Bergham",
+            "hu": "Berghami kastély",
+            "ro": "Castelul Bergham",
+            "en": "Bergham Castle"
+          },
+          "coords": [
+            14.265,
+            48.288
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang, genießen Sie die äußere Architektur, da es in Privatbesitz ist.",
+            "hu": "Kellemes séta, élvezze a külső építészetet, mivel magántulajdonban van.",
+            "ro": "O plimbare plăcută; admirați arhitectura exterioară, deoarece este proprietate privată.",
+            "en": "A pleasant walk; enjoy the exterior architecture as it is privately owned."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Harter Plateau",
+            "hu": "Séta a Harter-fennsíkon",
+            "ro": "Plimbare pe platoul Harter",
+            "en": "Walk on the Harter Plateau"
+          },
+          "coords": [
+            14.275,
+            48.275
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die weite Aussicht und die frische Luft zum Abschluss des Tages.",
+            "hu": "Élvezze a tágas kilátást és a friss levegőt a nap végén.",
+            "ro": "Bucurați-vă de priveliștea panoramică și de aerul proaspăt la sfârșitul zilei.",
+            "en": "Enjoy the wide views and fresh air to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am belebten Stadtplatz von Leonding. Nach der Besichtigung der historischen St.-Michael-Kirche und des Stadtmuseums im Turm 9, stärken Sie sich bei einem traditionellen Mittagessen. Der Nachmittag führt Sie auf einem schönen Spaziergang zum Schloss Bergham, bevor Sie den Tag mit entspannenden Ausblicken auf dem Harter Plateau ausklingen lassen.",
+        "hu": "Kezdje a napot Leonding nyüzsgő főterén. A történelmi Szent Mihály-templom és a Torony 9 városi múzeum megtekintése után fogyasszon el egy hagyományos ebédet. A délután egy kellemes sétával a Berghami kastélyhoz vezet, mielőtt a Harter-fennsík pihentető kilátásával zárná a napot.",
+        "ro": "Începeți ziua în piața plină de viață din Leonding. După ce vizitați istorica Biserică Sf. Mihail și muzeul orașului din Turnul 9, bucurați-vă de un prânz tradițional. După-amiaza vă poartă într-o plimbare plăcută la Castelul Bergham, înainte de a încheia ziua cu priveliști relaxante de pe platoul Harter.",
+        "en": "Start your day in the bustling town square of Leonding. After visiting the historic St. Michael's Church and the city museum in Tower 9, enjoy a traditional lunch. The afternoon takes you on a pleasant walk to Bergham Castle before ending the day with relaxing views from the Harter Plateau."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Leondinger Knödelteller",
+            "tip": "Probieren Sie eine Auswahl verschiedener Knödel, von Speck bis Grammel."
+          },
+          {
+            "name": "Most",
+            "tip": "Ein lokaler Apfel- oder Birnenwein, besonders erfrischend im Sommer."
+          },
+          {
+            "name": "Linzer Torte",
+            "tip": "Obwohl aus Linz, ist diese berühmte Torte überall in der Region zu finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Leondingi gombóctál",
+            "tip": "Kóstoljon meg különféle gombócokat, a szalonnástól a tepertősig."
+          },
+          {
+            "name": "Must",
+            "tip": "Helyi alma- vagy körtébor, különösen frissítő nyáron."
+          },
+          {
+            "name": "Linzer torta",
+            "tip": "Bár Linzből származik, ez a híres sütemény az egész régióban megtalálható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platou de găluște Leonding",
+            "tip": "Încercați o selecție de găluște diferite, de la cele cu șuncă la cele cu jumări."
+          },
+          {
+            "name": "Must",
+            "tip": "Un vin local de mere sau pere, deosebit de răcoritor vara."
+          },
+          {
+            "name": "Torta Linzer",
+            "tip": "Deși originară din Linz, această faimoasă tortă se găsește peste tot în regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Leonding Dumpling Platter",
+            "tip": "Try a selection of different dumplings, from bacon to crackling."
+          },
+          {
+            "name": "Cider (Most)",
+            "tip": "A local apple or pear wine, especially refreshing in summer."
+          },
+          {
+            "name": "Linzer Torte",
+            "tip": "Although from Linz, this famous cake is found all over the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kürnberger Wald",
+            "tip": "Ein ausgedehnter Wald für lange, ruhige Spaziergänge.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Innenhof der Stadtpfarrkirche",
+            "tip": "Ein Moment der Stille im Herzen der Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ufer des Kürnbergersees",
+            "tip": "Finden Sie eine Bank und genießen Sie die Ruhe am Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kürnbergi-erdő",
+            "tip": "Hatalmas erdő hosszú, csendes sétákhoz.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "A plébániatemplom udvara",
+            "tip": "Egy csendes pillanat a város szívében.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A Kürnbergi-tó partja",
+            "tip": "Keressen egy padot és élvezze a vízparti csendet.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Kürnberg",
+            "tip": "O pădure vastă pentru plimbări lungi și liniștite.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Curtea bisericii parohiale",
+            "tip": "Un moment de liniște în inima orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malul lacului Kürnberg",
+            "tip": "Găsiți o bancă și bucurați-vă de liniștea de lângă apă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kürnberg Forest",
+            "tip": "A vast forest for long, quiet walks.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Courtyard of the Parish Church",
+            "tip": "A moment of silence in the heart of the city.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Shores of Lake Kürnberg",
+            "tip": "Find a bench and enjoy the peace by the water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt Leonding",
+            "tip": "Kaufen Sie frische, lokale Produkte und handwerkliche Erzeugnisse."
+          },
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Nehmen Sie ein frisches Brot oder eine traditionelle Süßigkeit mit nach Hause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Leondingi heti piac",
+            "tip": "Vásároljon friss, helyi termékeket és kézműves árukat."
+          },
+          {
+            "name": "Helyi pékségek",
+            "tip": "Vigyen haza egy friss kenyeret vagy egy hagyományos édességet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală Leonding",
+            "tip": "Cumpărați produse proaspete, locale și articole de artizanat."
+          },
+          {
+            "name": "Brutării locale",
+            "tip": "Luați acasă o pâine proaspătă sau un dulce tradițional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Leonding Weekly Market",
+            "tip": "Buy fresh, local produce and handcrafted goods."
+          },
+          {
+            "name": "Local Bakeries",
+            "tip": "Take home a fresh loaf of bread or a traditional sweet."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag auf den Beinen sein werden.",
+          "Ein kleiner Rucksack mit Wasser und Snacks ist empfehlenswert.",
+          "Prüfen Sie die Öffnungszeiten des Museums im Voraus.",
+          "Die Wege sind meist flach, aber ein paar kleine Anstiege sind vorhanden."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap talpon lesz.",
+          "Ajánlott egy kis hátizsák vízzel és rágcsálnivalóval.",
+          "Ellenőrizze előre a múzeum nyitvatartási idejét.",
+          "Az utak többnyire síkak, de van néhány kisebb emelkedő."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți fi pe picioare toată ziua.",
+          "Se recomandă un rucsac mic cu apă și gustări.",
+          "Verificați în avans programul de funcționare al muzeului.",
+          "Traseele sunt în mare parte plate, dar există câteva urcări mici."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be on your feet all day.",
+          "A small backpack with water and snacks is recommended.",
+          "Check the museum's opening hours in advance.",
+          "The paths are mostly flat, but there are a few small inclines."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Leonding",
+            "hu": "Leondingi Városháza",
+            "ro": "Primăria Leonding",
+            "en": "Leonding Town Hall"
+          },
+          "coords": [
+            14.2505,
+            48.283
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Perfekter Ausgangspunkt, um das Rad zu überprüfen und die Route zu planen.",
+            "hu": "Tökéletes kiindulópont a kerékpár ellenőrzéséhez és az útvonal megtervezéséhez.",
+            "ro": "Punct de plecare perfect pentru a verifica bicicleta și a planifica traseul.",
+            "en": "Perfect starting point to check your bike and plan the route."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Rufling",
+            "hu": "Ruflingi kastély",
+            "ro": "Castelul Rufling",
+            "en": "Rufling Castle"
+          },
+          "coords": [
+            14.225,
+            48.27
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto von diesem charmanten, abgelegenen Schloss.",
+            "hu": "Készítsen egy fotót erről a bájos, eldugott kastélyról.",
+            "ro": "Faceți o fotografie a acestui castel fermecător și izolat.",
+            "en": "Take a photo of this charming, secluded castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Apollonia-Kirche",
+            "hu": "Apollónia-templom",
+            "ro": "Biserica Apollonia",
+            "en": "Apollonia Church"
+          },
+          "coords": [
+            14.223,
+            48.268
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:36",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Eine kleine, friedliche Kirche, ideal für eine kurze Pause.",
+            "hu": "Egy kicsi, békés templom, ideális egy rövid pihenőre.",
+            "ro": "O biserică mică și liniștită, ideală pentru o scurtă pauză.",
+            "en": "A small, peaceful church, ideal for a short break."
+          }
+        },
+        {
+          "name": {
+            "de": "Kürnberger Wald",
+            "hu": "Kürnbergi-erdő",
+            "ro": "Pădurea Kürnberg",
+            "en": "Kürnberg Forest"
+          },
+          "coords": [
+            14.215,
+            48.285
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und machen Sie einen kurzen Spaziergang zu den Wanderwegen.",
+            "hu": "Tegye le a kerékpárt, és tegyen egy rövid sétát a túraútvonalakhoz.",
+            "ro": "Parcați bicicleta și faceți o scurtă plimbare pe traseele de drumeție.",
+            "en": "Park your bike and take a short walk on the hiking trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Burgruine Kürnberg",
+            "hu": "Kürnberg várromja",
+            "ro": "Ruinele cetății Kürnberg",
+            "en": "Kürnberg Castle Ruins"
+          },
+          "coords": [
+            14.218,
+            48.289
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Ruinen für eine großartige Aussicht über den Wald.",
+            "hu": "Másszon fel a romokra a csodálatos erdei kilátásért.",
+            "ro": "Urcați pe ruine pentru o priveliște minunată asupra pădurii.",
+            "en": "Climb the ruins for a great view over the forest."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und zurück ins Zentrum",
+            "hu": "Ebéd és vissza a központba",
+            "ro": "Prânz și înapoi în centru",
+            "en": "Lunch and back to the center"
+          },
+          "coords": [
+            14.25,
+            48.2833
+          ],
+          "category": "gastro",
+          "arrive_at": "13:51",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Nach der Waldtour haben Sie sich eine herzhafte Mahlzeit verdient.",
+            "hu": "Az erdei túra után megérdemel egy kiadós ebédet.",
+            "ro": "După turul prin pădure, meritați o masă copioasă.",
+            "en": "After the forest tour, you've earned a hearty meal."
+          }
+        },
+        {
+          "name": {
+            "de": "Turm 9 - Stadtmuseum",
+            "hu": "Torony 9 - Városi Múzeum",
+            "ro": "Turnul 9 - Muzeul Orașului",
+            "en": "Tower 9 - City Museum"
+          },
+          "coords": [
+            14.249,
+            48.282
+          ],
+          "category": "museums",
+          "arrive_at": "15:26",
+          "stay_min": 94,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Der perfekte kulturelle Abschluss für Ihre Radtour.",
+            "hu": "Tökéletes kulturális befejezése a kerékpártúrának.",
+            "ro": "Finalul cultural perfect pentru turul cu bicicleta.",
+            "en": "The perfect cultural end to your bike tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich in Leonding aufs Rad und fahren Sie zu den abgelegenen Juwelen wie Schloss Rufling und der Apollonia-Kirche. Erkunden Sie die grünen Wege des Kürnberger Waldes und die historischen Burgruinen. Nach einer verdienten Mittagspause im Zentrum tauchen Sie im Stadtmuseum in die lokale Geschichte ein, um Ihren aktiven Tag abzurunden.",
+        "hu": "Pattanjon kerékpárra Leondingban, és tekerjen el olyan eldugott gyöngyszemekhez, mint a Rufling kastély és az Apollónia-templom. Fedezze fel a Kürnbergi-erdő zöld ösvényeit és a történelmi várromokat. Egy jól megérdemelt ebédszünet után a központban merüljön el a helyi történelemben a városi múzeumban, hogy teljessé tegye aktív napját.",
+        "ro": "Urcați-vă pe bicicletă în Leonding și pedalați către bijuterii izolate precum Castelul Rufling și Biserica Apollonia. Explorați potecile verzi ale Pădurii Kürnberg și ruinele istorice ale cetății. După o pauză de prânz meritată în centru, scufundați-vă în istoria locală la muzeul orașului pentru a încheia ziua activă.",
+        "en": "Get on your bike in Leonding and pedal to secluded gems like Rufling Castle and Apollonia Church. Explore the green paths of the Kürnberg Forest and the historic castle ruins. After a well-deserved lunch break in the center, delve into local history at the city museum to round off your active day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Radler",
+            "tip": "Das perfekte Getränk für Radfahrer - Bier gemischt mit Limonade."
+          },
+          {
+            "name": "Brettljause",
+            "tip": "Eine herzhafte Brotzeit mit verschiedenen Fleisch- und Käsesorten."
+          },
+          {
+            "name": "Apfelstrudel",
+            "tip": "Ein Klassiker, um die Energiereserven wieder aufzufüllen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Radler",
+            "tip": "Tökéletes ital kerékpárosoknak - sör limonádéval keverve."
+          },
+          {
+            "name": "Paraszt-tál (Brettljause)",
+            "tip": "Kiadós uzsonna különféle hús- és sajtfélékkel."
+          },
+          {
+            "name": "Almás rétes",
+            "tip": "Klasszikus desszert az energiatartalékok feltöltéséhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Radler",
+            "tip": "Băutura perfectă pentru bicicliști - bere amestecată cu limonadă."
+          },
+          {
+            "name": "Platou rece (Brettljause)",
+            "tip": "O gustare consistentă cu diverse tipuri de carne și brânzeturi."
+          },
+          {
+            "name": "Ștrudel cu mere",
+            "tip": "Un clasic pentru a reface rezervele de energie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Radler",
+            "tip": "The perfect drink for cyclists - beer mixed with lemonade."
+          },
+          {
+            "name": "Snack Platter (Brettljause)",
+            "tip": "A hearty snack with various meats and cheeses."
+          },
+          {
+            "name": "Apple Strudel",
+            "tip": "A classic to replenish your energy reserves."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Bank im Kürnberger Wald",
+            "tip": "Lauschen Sie den Geräuschen des Waldes.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Blick von der Burgruine",
+            "tip": "Ein ruhiger Ort mit Panoramablick.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Am Ufer eines Baches",
+            "tip": "Finden Sie einen friedlichen Platz am Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy pad a Kürnbergi-erdőben",
+            "tip": "Hallgassa az erdő hangjait.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Kilátás a várromról",
+            "tip": "Csendes hely panorámás kilátással.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Egy patak partján",
+            "tip": "Keressen egy békés helyet a víz mellett.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă în Pădurea Kürnberg",
+            "tip": "Ascultați sunetele pădurii.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Priveliște de la ruinele cetății",
+            "tip": "Un loc liniștit cu vedere panoramică.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pe malul unui pârâu",
+            "tip": "Găsiți un loc pașnic lângă apă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench in the Kürnberg Forest",
+            "tip": "Listen to the sounds of the forest.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "View from the castle ruins",
+            "tip": "A quiet spot with panoramic views.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "By a stream",
+            "tip": "Find a peaceful spot by the water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Falls Sie Zubehör oder eine schnelle Reparatur benötigen."
+          },
+          {
+            "name": "Hofladen",
+            "tip": "Halten Sie Ausschau nach Hofläden am Wegesrand für lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Ha kiegészítőre vagy gyors javításra van szüksége."
+          },
+          {
+            "name": "Termelői bolt",
+            "tip": "Keresse az út menti termelői boltokat helyi termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "În caz că aveți nevoie de accesorii sau o reparație rapidă."
+          },
+          {
+            "name": "Magazin de fermă",
+            "tip": "Fiți atenți la magazinele de fermă de pe marginea drumului pentru produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "In case you need accessories or a quick repair."
+          },
+          {
+            "name": "Farm Shop",
+            "tip": "Look out for farm shops along the way for local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie einen Helm und stellen Sie sicher, dass Ihr Fahrrad in gutem Zustand ist.",
+          "Die Route kombiniert Stadtstraßen und Waldwege, seien Sie auf unterschiedliche Beläge vorbereitet.",
+          "Nehmen Sie eine Karte oder ein GPS-Gerät mit.",
+          "Ein Fahrradschloss ist für die Stopps unerlässlich."
+        ],
+        "hu": [
+          "Viseljen sisakot, és győződjön meg róla, hogy a kerékpárja jó állapotban van.",
+          "Az útvonal városi utakat és erdei ösvényeket kombinál, készüljön fel a különböző felületekre.",
+          "Vigyen magával térképet vagy GPS-készüléket.",
+          "A megállókhoz elengedhetetlen egy kerékpárzár."
+        ],
+        "ro": [
+          "Purtați cască și asigurați-vă că bicicleta este în stare bună.",
+          "Traseul combină străzi urbane și poteci de pădure, fiți pregătit pentru suprafețe diferite.",
+          "Luați o hartă sau un dispozitiv GPS.",
+          "Un lacăt pentru bicicletă este esențial pentru opriri."
+        ],
+        "en": [
+          "Wear a helmet and make sure your bike is in good condition.",
+          "The route combines city streets and forest paths, be prepared for different surfaces.",
+          "Bring a map or GPS device.",
+          "A bike lock is essential for the stops."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 21.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Parken im Zentrum",
+            "hu": "A Klaszter: Parkolás a központban",
+            "ro": "Cluster A: Parcare în centru",
+            "en": "Cluster A: Parking in the Center"
+          },
+          "coords": [
+            14.252,
+            48.2825
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Suchen Sie einen zentralen Parkplatz, um das historische Zentrum zu Fuß zu erkunden.",
+            "hu": "Keressen egy központi parkolót, hogy gyalog fedezhesse fel a történelmi központot.",
+            "ro": "Căutați o parcare centrală pentru a explora centrul istoric pe jos.",
+            "en": "Find a central parking spot to explore the historic center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Stadtpfarrkirche St. Michael",
+            "hu": "Városháza és Szent Mihály Plébániatemplom",
+            "ro": "Primăria & Biserica Parohială Sf. Mihail",
+            "en": "Town Hall & Parish Church of St. Michael"
+          },
+          "coords": [
+            14.251,
+            48.284
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang verbindet diese beiden wichtigen Wahrzeichen.",
+            "hu": "Egy rövid séta köti össze ezt a két fontos látnivalót.",
+            "ro": "O scurtă plimbare leagă aceste două repere importante.",
+            "en": "A short walk connects these two important landmarks."
+          }
+        },
+        {
+          "name": {
+            "de": "Turm 9 - Stadtmuseum",
+            "hu": "Torony 9 - Városi Múzeum",
+            "ro": "Turnul 9 - Muzeul Orașului",
+            "en": "Tower 9 - City Museum"
+          },
+          "coords": [
+            14.249,
+            48.282
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum ist nur wenige Schritte vom Hauptplatz entfernt.",
+            "hu": "A múzeum csak néhány lépésre van a főtértől.",
+            "ro": "Muzeul se află la doar câțiva pași de piața principală.",
+            "en": "The museum is just a few steps from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Schloss Rufling & Apollonia-Kirche",
+            "hu": "B Klaszter: Rufling kastély és Apollónia-templom",
+            "ro": "Cluster B: Castelul Rufling & Biserica Apollonia",
+            "en": "Cluster B: Rufling Castle & Apollonia Church"
+          },
+          "coords": [
+            14.2245,
+            48.269
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.4,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Schlosses und spazieren Sie zur Kirche.",
+            "hu": "Parkoljon a kastély közelében, és sétáljon el a templomhoz.",
+            "ro": "Parcați lângă castel și mergeți pe jos până la biserică.",
+            "en": "Park near the castle and walk to the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe",
+            "hu": "Ebéd a közelben",
+            "ro": "Prânz în apropiere",
+            "en": "Lunch nearby"
+          },
+          "coords": [
+            14.228,
+            48.271
+          ],
+          "category": "gastro",
+          "arrive_at": "13:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Finden Sie ein ländliches Gasthaus für ein authentisches Erlebnis.",
+            "hu": "Keressen egy vidéki fogadót az autentikus élményért.",
+            "ro": "Găsiți un han rural pentru o experiență autentică.",
+            "en": "Find a rural inn for an authentic experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Kürnberger Wald & Burgruine",
+            "hu": "C Klaszter: Kürnbergi-erdő és Várrom",
+            "ro": "Cluster C: Pădurea Kürnberg & Ruinele Cetății",
+            "en": "Cluster C: Kürnberg Forest & Castle Ruins"
+          },
+          "coords": [
+            14.215,
+            48.285
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 14.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Waldrand und wandern Sie zur Ruine hinauf.",
+            "hu": "Parkoljon az erdő szélén, és túrázzon fel a romokhoz.",
+            "ro": "Parcați la marginea pădurii și urcați pe jos până la ruine.",
+            "en": "Park at the edge of the forest and hike up to the ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussicht von der Burgruine Kürnberg",
+            "hu": "Kilátás a Kürnberg várromjáról",
+            "ro": "Priveliște de la Ruinele Cetății Kürnberg",
+            "en": "View from Kürnberg Castle Ruins"
+          },
+          "coords": [
+            14.218,
+            48.289
+          ],
+          "category": "viewpoint",
+          "arrive_at": "17:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Sonnenuntergang über der Landschaft zu beobachten.",
+            "hu": "Tökéletes hely a naplemente megtekintésére a táj felett.",
+            "ro": "Locul perfect pentru a privi apusul peste peisaj.",
+            "en": "The perfect spot to watch the sunset over the landscape."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Auto, um Leondings Vielfalt in Clustern zu entdecken. Beginnen Sie zu Fuß im historischen Zentrum, bevor Sie zum ruhigen Schloss Rufling fahren. Der Höhepunkt des Tages ist der Kürnberger Wald, wo eine kurze Wanderung Sie zur beeindruckenden Burgruine mit Panoramablick führt. Jeder Stopp mit dem Auto eröffnet ein neues kleines Wandergebiet.",
+        "hu": "Használja az autót, hogy klaszterekben fedezze fel Leonding sokszínűségét. Kezdje gyalog a történelmi központban, mielőtt a csendes Rufling kastélyhoz hajt. A nap fénypontja a Kürnbergi-erdő, ahol egy rövid túra elvezeti a lenyűgöző várromhoz, ahonnan panorámás kilátás nyílik. Minden autós megálló egy új, kis túraterületet nyit meg.",
+        "ro": "Folosiți mașina pentru a descoperi diversitatea din Leonding în clustere. Începeți pe jos în centrul istoric, înainte de a conduce la liniștitul Castel Rufling. Punctul culminant al zilei este Pădurea Kürnberg, unde o scurtă drumeție vă duce la impresionantele ruine ale cetății cu vederi panoramice. Fiecare oprire cu mașina deschide o nouă mică zonă de explorat pe jos.",
+        "en": "Use the car to discover Leonding's diversity in clusters. Start on foot in the historic center before driving to the quiet Rufling Castle. The highlight of the day is the Kürnberg Forest, where a short hike takes you to the impressive castle ruins with panoramic views. Each car stop opens up a new small area to explore on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gasthaus am Land",
+            "tip": "Suchen Sie nach einem Gasthaus außerhalb des Zentrums für authentische Küche."
+          },
+          {
+            "name": "Mostheuriger",
+            "tip": "Ein Heuriger, der sich auf Most spezialisiert hat, oft mit einfacher, aber köstlicher Jause."
+          },
+          {
+            "name": "Kaffee und Kuchen",
+            "tip": "Ein Muss am Nachmittag in jedem guten österreichischen Café."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vidéki vendéglő",
+            "tip": "Keressen egy központon kívüli vendéglőt az autentikus konyháért."
+          },
+          {
+            "name": "Must-ivó (Mostheuriger)",
+            "tip": "Mustra szakosodott borozó, gyakran egyszerű, de ízletes ételekkel."
+          },
+          {
+            "name": "Kávé és sütemény",
+            "tip": "Délutáni kötelező program minden jó osztrák kávézóban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Han la țară",
+            "tip": "Căutați un han în afara centrului pentru bucătărie autentică."
+          },
+          {
+            "name": "Tavernă de must (Mostheuriger)",
+            "tip": "O tavernă specializată în must, adesea cu gustări simple, dar delicioase."
+          },
+          {
+            "name": "Cafea și prăjitură",
+            "tip": "O necesitate după-amiaza în orice cafenea austriacă bună."
+          }
+        ],
+        "en": [
+          {
+            "name": "Country Inn",
+            "tip": "Look for an inn outside the center for authentic cuisine."
+          },
+          {
+            "name": "Cider Tavern (Mostheuriger)",
+            "tip": "A tavern specializing in cider, often with simple but delicious snacks."
+          },
+          {
+            "name": "Coffee and Cake",
+            "tip": "A must in the afternoon at any good Austrian café."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang um Schloss Rufling",
+            "tip": "Die ruhige Umgebung des Schlosses lädt zum Verweilen ein.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Ein abgelegener Pfad im Kürnberger Wald",
+            "tip": "Entfliehen Sie dem Trubel und genießen Sie die Natur.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Aussichtspunkt bei der Burgruine",
+            "tip": "Ein atemberaubender und friedlicher Blick über das Land.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Rufling kastély körül",
+            "tip": "A kastély csendes környezete pihenésre csábít.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Egy eldugott ösvény a Kürnbergi-erdőben",
+            "tip": "Meneküljön el a nyüzsgés elől, és élvezze a természetet.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Kilátó a várromnál",
+            "tip": "Lélegzetelállító és békés kilátás a vidékre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare în jurul Castelului Rufling",
+            "tip": "Împrejurimile liniștite ale castelului invită la relaxare.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "O potecă retrasă în Pădurea Kürnberg",
+            "tip": "Evadați din agitație și bucurați-vă de natură.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Punct de belvedere la ruinele cetății",
+            "tip": "O priveliște uluitoare și pașnică asupra peisajului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk around Rufling Castle",
+            "tip": "The quiet surroundings of the castle invite you to linger.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "A secluded path in the Kürnberg Forest",
+            "tip": "Escape the hustle and bustle and enjoy nature.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Viewpoint at the castle ruins",
+            "tip": "A breathtaking and peaceful view over the countryside.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "UNO Shopping Center",
+            "tip": "Für eine größere Auswahl an Geschäften, etwas außerhalb des Zentrums gelegen."
+          },
+          {
+            "name": "Souvenirs im Stadtmuseum",
+            "tip": "Finden Sie einzigartige Andenken an Ihren Besuch in Leonding."
+          }
+        ],
+        "hu": [
+          {
+            "name": "UNO Bevásárlóközpont",
+            "tip": "Nagyobb üzletválasztékért, kissé a központon kívül található."
+          },
+          {
+            "name": "Ajándéktárgyak a városi múzeumban",
+            "tip": "Találjon egyedi emléktárgyakat leondingi látogatásáról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial UNO",
+            "tip": "Pentru o selecție mai mare de magazine, situat puțin în afara centrului."
+          },
+          {
+            "name": "Suveniruri la Muzeul Orașului",
+            "tip": "Găsiți suveniruri unice ale vizitei dumneavoastră în Leonding."
+          }
+        ],
+        "en": [
+          {
+            "name": "UNO Shopping Center",
+            "tip": "For a larger selection of shops, located just outside the center."
+          },
+          {
+            "name": "Souvenirs at the City Museum",
+            "tip": "Find unique mementos of your visit to Leonding."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie Park-and-Ride-Möglichkeiten, falls verfügbar.",
+          "Planen Sie genügend Zeit für den Verkehr zwischen den Clustern ein.",
+          "Ein GPS ist unerlässlich, um die verschiedenen Standorte zu finden.",
+          "Achten Sie auf Parkgebühren im Stadtzentrum."
+        ],
+        "hu": [
+          "Használja a Park and Ride lehetőségeket, ha rendelkezésre állnak.",
+          "Tervezzen elegendő időt a klaszterek közötti forgalomra.",
+          "A GPS elengedhetetlen a különböző helyszínek megtalálásához.",
+          "Ügyeljen a parkolási díjakra a városközpontban."
+        ],
+        "ro": [
+          "Utilizați opțiunile Park and Ride, dacă sunt disponibile.",
+          "Planificați suficient timp pentru traficul dintre clustere.",
+          "Un GPS este esențial pentru a găsi diferitele locații.",
+          "Fiți atenți la taxele de parcare din centrul orașului."
+        ],
+        "en": [
+          "Use Park and Ride options if available.",
+          "Allow enough time for traffic between clusters.",
+          "A GPS is essential for finding the different locations.",
+          "Be aware of parking fees in the city center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 10.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Stadtplatz Leonding",
+            "hu": "Érkezés Leonding főterére",
+            "ro": "Sosire în Piața Centrală Leonding",
+            "en": "Arrival at Leonding Main Square"
+          },
+          "coords": [
+            14.2505,
+            48.283
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Stadtplatz ist ein zentraler Knotenpunkt für viele Buslinien.",
+            "hu": "A főtér számos buszjárat központi csomópontja.",
+            "ro": "Piața centrală este un nod central pentru multe linii de autobuz.",
+            "en": "The main square is a central hub for many bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster A: Rathaus & Stadtpfarrkirche",
+            "hu": "A Klaszter: Városháza és Plébániatemplom",
+            "ro": "Cluster A: Primăria & Biserica Parohială",
+            "en": "Cluster A: Town Hall & Parish Church"
+          },
+          "coords": [
+            14.2515,
+            48.2845
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie das Herz von Leonding zu Fuß.",
+            "hu": "Fedezze fel Leonding szívét gyalog.",
+            "ro": "Explorați inima orașului Leonding pe jos.",
+            "en": "Explore the heart of Leonding on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Turm 9 - Stadtmuseum",
+            "hu": "Torony 9 - Városi Múzeum",
+            "ro": "Turnul 9 - Muzeul Orașului",
+            "en": "Tower 9 - City Museum"
+          },
+          "coords": [
+            14.249,
+            48.282
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz zum kulturellen Zentrum der Stadt.",
+            "hu": "Rövid séta a tértől a város kulturális központjáig.",
+            "ro": "O scurtă plimbare de la piață la centrul cultural al orașului.",
+            "en": "A short walk from the square to the city's cultural hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            14.251,
+            48.2835
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Stärken Sie sich, bevor Sie den Bus zum nächsten Cluster nehmen.",
+            "hu": "Erősítsen, mielőtt busszal a következő klaszterhez utazna.",
+            "ro": "Luați o masă înainte de a lua autobuzul spre următorul cluster.",
+            "en": "Refuel before taking the bus to the next cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Kürnberger Wald",
+            "hu": "B Klaszter: Kürnbergi-erdő",
+            "ro": "Cluster B: Pădurea Kürnberg",
+            "en": "Cluster B: Kürnberg Forest"
+          },
+          "coords": [
+            14.219,
+            48.284
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in Richtung Wald und steigen Sie an der nächstgelegenen Haltestelle aus.",
+            "hu": "Menjen busszal az erdő irányába, és szálljon le a legközelebbi megállónál.",
+            "ro": "Luați un autobuz spre pădure și coborâți la cea mai apropiată stație.",
+            "en": "Take a bus towards the forest and get off at the nearest stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zur Burgruine Kürnberg",
+            "hu": "Séta a Kürnberg várromhoz",
+            "ro": "Plimbare la Ruinele Cetății Kürnberg",
+            "en": "Walk to Kürnberg Castle Ruins"
+          },
+          "coords": [
+            14.218,
+            48.289
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein erfrischender Spaziergang durch den Wald führt Sie zu den Ruinen.",
+            "hu": "Egy frissítő séta az erdőn keresztül vezet a romokhoz.",
+            "ro": "O plimbare revigorantă prin pădure vă duce la ruine.",
+            "en": "A refreshing walk through the forest leads you to the ruins."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Leonding bequem mit öffentlichen Verkehrsmitteln. Der erste Cluster konzentriert sich auf das zu Fuß erreichbare Stadtzentrum. Nach dem Mittagessen bringt Sie ein Bus in die Nähe des Kürnberger Waldes, dem zweiten Cluster des Tages. Dort können Sie wandern und die Natur genießen, bevor Sie am späten Nachmittag ins Zentrum zurückkehren.",
+        "hu": "Fedezze fel Leondingot kényelmesen a tömegközlekedéssel. Az első klaszter a gyalogosan bejárható városközpontra összpontosít. Ebéd után egy busz elviszi Önt a Kürnbergi-erdő közelébe, a nap második klaszteréhez. Ott túrázhat és élvezheti a természetet, mielőtt késő délután visszatérne a központba.",
+        "ro": "Explorați Leonding confortabil cu transportul public. Primul cluster se concentrează pe centrul orașului, accesibil pe jos. După prânz, un autobuz vă duce aproape de Pădurea Kürnberg, al doilea cluster al zilei. Acolo puteți face drumeții și vă puteți bucura de natură înainte de a vă întoarce în centru după-amiaza târziu.",
+        "en": "Explore Leonding comfortably by public transport. The first cluster focuses on the walkable city center. After lunch, a bus takes you near the Kürnberg Forest, the second cluster of the day. There you can hike and enjoy nature before returning to the center in the late afternoon."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schnitzelsemmel",
+            "tip": "Ein schneller und leckerer Snack für unterwegs von einer lokalen Metzgerei."
+          },
+          {
+            "name": "Bosna",
+            "tip": "Eine würzige Wurst im Brot, eine Spezialität aus der Region."
+          },
+          {
+            "name": "Einheimisches Bier",
+            "tip": "Probieren Sie ein Bier von einer der Brauereien aus der Umgebung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rántott húsos zsemle",
+            "tip": "Gyors és finom harapnivaló útközben egy helyi hentestől."
+          },
+          {
+            "name": "Bosna",
+            "tip": "Fűszeres kolbász kenyérben, a régió specialitása."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Kóstoljon meg egy sört a környékbeli sörfőzdék egyikéből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sandviș cu șnițel",
+            "tip": "O gustare rapidă și delicioasă pentru drum de la o măcelărie locală."
+          },
+          {
+            "name": "Bosna",
+            "tip": "Un cârnat picant în pâine, o specialitate din regiune."
+          },
+          {
+            "name": "Bere locală",
+            "tip": "Încercați o bere de la una dintre berăriile din zonă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Schnitzel in a bun",
+            "tip": "A quick and tasty snack on the go from a local butcher."
+          },
+          {
+            "name": "Bosna",
+            "tip": "A spicy sausage in a bun, a specialty from the region."
+          },
+          {
+            "name": "Local beer",
+            "tip": "Try a beer from one of the local breweries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt aus der Stadt",
+            "tip": "Genießen Sie die wechselnde Landschaft vom Fenster aus.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Eine Lichtung im Kürnberger Wald",
+            "tip": "Ein perfekter Ort für ein kurzes Picknick oder eine Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Die Stille in der Apollonia-Kirche",
+            "tip": "Ein Moment der Einkehr, falls Sie auf dem Weg vorbeikommen.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszút a városból kifelé",
+            "tip": "Élvezze a változó tájat az ablakból.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Egy tisztás a Kürnbergi-erdőben",
+            "tip": "Tökéletes hely egy rövid piknikre vagy pihenőre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Csend az Apollónia-templomban",
+            "tip": "Egy pillanatnyi elmélyülés, ha útba ejti.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătorie cu autobuzul în afara orașului",
+            "tip": "Bucurați-vă de peisajul în schimbare de la fereastră.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "O poiană în Pădurea Kürnberg",
+            "tip": "Un loc perfect pentru un scurt picnic sau o pauză.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Liniștea din Biserica Apollonia",
+            "tip": "Un moment de reculegere dacă treceți pe acolo.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride out of town",
+            "tip": "Enjoy the changing scenery from the window.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "A clearing in the Kürnberg Forest",
+            "tip": "A perfect spot for a quick picnic or a break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "The silence in Apollonia Church",
+            "tip": "A moment of reflection if you pass by.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Kaufen Sie eine Zeitung oder einen Snack für die Fahrt."
+          },
+          {
+            "name": "Lokaler Supermarkt",
+            "tip": "Besorgen Sie sich Proviant für Ihre Wanderung im Wald."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszpályaudvaron",
+            "tip": "Vásároljon újságot vagy rágcsálnivalót az útra."
+          },
+          {
+            "name": "Helyi szupermarket",
+            "tip": "Szerezzen be elemózsiát az erdei túrához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la autogară",
+            "tip": "Cumpărați un ziar sau o gustare pentru călătorie."
+          },
+          {
+            "name": "Supermarket local",
+            "tip": "Luați provizii pentru drumeția în pădure."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus station",
+            "tip": "Buy a newspaper or a snack for the ride."
+          },
+          {
+            "name": "Local supermarket",
+            "tip": "Get provisions for your hike in the forest."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte, um unbegrenzt fahren zu können.",
+          "Informieren Sie sich im Voraus über die Busfahrpläne, insbesondere für die Rückfahrt aus dem Wald.",
+          "Laden Sie die Fahrplan-App des lokalen Verkehrsverbunds herunter.",
+          "Halten Sie Kleingeld für Tickets bereit, falls Sie diese beim Fahrer kaufen müssen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Tájékozódjon előre a buszmenetrendekről, különösen az erdőből való visszaútra.",
+          "Töltse le a helyi közlekedési vállalat menetrend-alkalmazását.",
+          "Készítsen aprópénzt a jegyekhez, ha a sofőrnél kell megvennie őket."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Informați-vă în avans despre orarele autobuzelor, în special pentru călătoria de întoarcere din pădure.",
+          "Descărcați aplicația cu orare a companiei locale de transport.",
+          "Pregătiți monede pentru bilete, în caz că trebuie să le cumpărați de la șofer."
+        ],
+        "en": [
+          "Buy a day ticket for unlimited travel.",
+          "Check the bus schedules in advance, especially for the return trip from the forest.",
+          "Download the local transport authority's schedule app.",
+          "Have small change ready for tickets if you need to buy them from the driver."
+        ]
+      }
+    }
+  }
+}

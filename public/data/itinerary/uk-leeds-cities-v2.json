@@ -1,0 +1,1452 @@
+{
+  "city_id": "uk-leeds-cities-v2",
+  "anchor": {
+    "name": "Leeds",
+    "coords": [
+      53.8008,
+      -1.5491
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Leeds Town Hall",
+            "hu": "Leedsi városháza",
+            "ro": "Primăria din Leeds",
+            "en": "Leeds Town Hall"
+          },
+          "coords": [
+            -1.549,
+            53.801
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die viktorianische Architektur und die imposante Fassade.",
+            "hu": "Csodálja meg a viktoriánus építészetet és a lenyűgöző homlokzatot.",
+            "ro": "Admirați arhitectura victoriană și fațada impunătoare.",
+            "en": "Admire the Victorian architecture and the imposing facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Leeds City Museum",
+            "hu": "Leedsi Városi Múzeum",
+            "ro": "Muzeul Orașului Leeds",
+            "en": "Leeds City Museum"
+          },
+          "coords": [
+            -1.545,
+            53.8
+          ],
+          "category": "museums",
+          "arrive_at": "09:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht den Leeds Tiger und die ägyptische Mumie.",
+            "hu": "Ne hagyja ki a Leeds Tigrist és az egyiptomi múmiát.",
+            "ro": "Nu ratați Tigrul din Leeds și mumia egipteană.",
+            "en": "Don't miss the Leeds Tiger and the Egyptian mummy."
+          }
+        },
+        {
+          "name": {
+            "de": "Grand Theatre",
+            "hu": "Grand Theatre",
+            "ro": "Marele Teatru",
+            "en": "Grand Theatre"
+          },
+          "coords": [
+            -1.541,
+            53.799
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:26",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie das Programm für eine Abendvorstellung oder machen Sie eine Führung.",
+            "hu": "Nézze meg az esti előadásokat, vagy vegyen részt egy színházbejáráson.",
+            "ro": "Verificați programul pentru un spectacol de seară sau faceți un tur.",
+            "en": "Check the schedule for an evening show or take a guided tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Leeds Corn Exchange",
+            "hu": "Leedsi gabonatőzsde",
+            "ro": "Bursa de Porumb din Leeds",
+            "en": "Leeds Corn Exchange"
+          },
+          "coords": [
+            -1.541,
+            53.795
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:59",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Stöbern Sie in den unabhängigen Boutiquen und Vintage-Läden.",
+            "hu": "Böngésszen a független butikok és vintage boltok között.",
+            "ro": "Răsfoiți buticurile independente și magazinele vintage.",
+            "en": "Browse the independent boutiques and vintage shops."
+          }
+        },
+        {
+          "name": {
+            "de": "Royal Armouries Museum",
+            "hu": "Királyi Fegyvertár Múzeum",
+            "ro": "Muzeul Royal Armouries",
+            "en": "Royal Armouries Museum"
+          },
+          "coords": [
+            -1.531,
+            53.791
+          ],
+          "category": "museums",
+          "arrive_at": "13:09",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie Zeit für die Live-Demonstrationen ein, sie sind beeindruckend.",
+            "hu": "Tervezzen időt az élő bemutatókra, lenyűgözőek.",
+            "ro": "Planificați-vă timp pentru demonstrațiile live, sunt impresionante.",
+            "en": "Plan time for the live demonstrations, they are impressive."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im The Calls",
+            "hu": "Ebéd a The Calls negyedben",
+            "ro": "Prânz în The Calls",
+            "en": "Lunch at The Calls"
+          },
+          "coords": [
+            -1.537,
+            53.793
+          ],
+          "category": "gastro",
+          "arrive_at": "15:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie eine Mahlzeit in einem der umgebauten Lagerhäuser am Fluss.",
+            "hu": "Élvezze az ebédet az egyik átalakított raktárépületben a folyóparton.",
+            "ro": "Savurați o masă într-unul dintre depozitele reconvertite de pe malul râului.",
+            "en": "Enjoy a meal in one of the converted warehouses by the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen der Stadt am Leeds Town Hall. Erkunden Sie vormittags die Schätze des Leeds City Museum und bewundern Sie das Grand Theatre. Am Nachmittag tauchen Sie in die einzigartige Atmosphäre des Corn Exchange ein, bevor Sie die beeindruckenden Sammlungen des Royal Armouries Museum entdecken. Beenden Sie Ihren Tag mit einem entspannten Spaziergang und einem köstlichen Essen im trendigen Viertel The Calls.",
+        "hu": "Kezdje a napot a város szívében, a Leeds Városházánál. Délelőtt fedezze fel a Leeds Városi Múzeum kincseit és csodálja meg a Grand Theatre épületét. Délután merüljön el a Gabona-tőzsde egyedi hangulatában, mielőtt felfedezné a Királyi Fegyvertár Múzeum lenyűgöző gyűjteményeit. Zárja a napot egy kellemes sétával és egy finom étellel a trendi The Calls negyedben.",
+        "ro": "Începeți ziua în inima orașului la Primăria din Leeds. Dimineața, explorați comorile Muzeului Orașului Leeds și admirați Marele Teatru. După-amiaza, scufundați-vă în atmosfera unică a Bursei de Porumb înainte de a descoperi colecțiile impresionante de la Muzeul Royal Armouries. Încheiați ziua cu o plimbare relaxantă și o masă delicioasă în cartierul la modă The Calls.",
+        "en": "Start your day in the heart of the city at Leeds Town Hall. In the morning, explore the treasures of Leeds City Museum and admire the Grand Theatre. In the afternoon, immerse yourself in the unique atmosphere of the Corn Exchange before discovering the impressive collections at the Royal Armouries Museum. End your day with a relaxing walk and a delicious meal in the trendy The Calls district."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Yorkshire Pudding",
+            "tip": "Probieren Sie ihn nicht nur als Beilage zum Sonntagsbraten, sondern auch gefüllt als Hauptgericht."
+          },
+          {
+            "name": "Fish & Chips im Wetherby Whaler",
+            "tip": "Ein Klassiker, den man in einem der berühmtesten Fish & Chips-Läden der Region genießen sollte."
+          },
+          {
+            "name": "Kirkgate Market",
+            "tip": "Hier finden Sie eine große Auswahl an Street Food aus aller Welt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Yorkshire puding",
+            "tip": "Ne csak köretként kóstolja meg a vasárnapi sülthöz, hanem töltve, főételként is."
+          },
+          {
+            "name": "Fish & Chips a Wetherby Whalerben",
+            "tip": "Klasszikus, amit a régió egyik leghíresebb Fish & Chips éttermében érdemes megkóstolni."
+          },
+          {
+            "name": "Kirkgate Market",
+            "tip": "Itt a világ minden tájáról származó street food széles választékát találja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Yorkshire Pudding",
+            "tip": "Nu-l încercați doar ca garnitură la friptura de duminică, ci și umplut ca fel principal."
+          },
+          {
+            "name": "Fish & Chips la Wetherby Whaler",
+            "tip": "Un clasic care trebuie savurat la unul dintre cele mai faimoase localuri de fish & chips din regiune."
+          },
+          {
+            "name": "Piața Kirkgate",
+            "tip": "Găsiți o mare varietate de street food din întreaga lume aici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Yorkshire Pudding",
+            "tip": "Try it not just as a side with a Sunday roast, but filled as a main course."
+          },
+          {
+            "name": "Fish & Chips at Wetherby Whaler",
+            "tip": "A classic best enjoyed at one of the region's most famous fish & chips spots."
+          },
+          {
+            "name": "Kirkgate Market",
+            "tip": "Find a huge variety of street food from around the world."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Leeds and Liverpool Canal",
+            "tip": "Ein ruhiger Spaziergang entlang des Kanals, um dem Trubel der Stadt zu entkommen.",
+            "emoji": "🚶‍♂️"
+          },
+          {
+            "name": "Park Square",
+            "tip": "Eine georgianische Oase im Herzen des Finanzviertels, perfekt für eine kurze Pause.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Leeds Minster",
+            "tip": "Finden Sie einen Moment der Ruhe in dieser wunderschönen Kirche.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Leeds és Liverpool-csatorna",
+            "tip": "Egy csendes séta a csatorna mentén, hogy elmeneküljön a város nyüzsgésétől.",
+            "emoji": "🚶‍♂️"
+          },
+          {
+            "name": "Park Square",
+            "tip": "Egy georgiánus oázis a pénzügyi negyed szívében, tökéletes egy rövid szünetre.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Leedsi Katedrális (Minster)",
+            "tip": "Találjon egy pillanatnyi nyugalmat ebben a gyönyörű templomban.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Canalul Leeds și Liverpool",
+            "tip": "O plimbare liniștită de-a lungul canalului pentru a scăpa de agitația orașului.",
+            "emoji": "🚶‍♂️"
+          },
+          {
+            "name": "Park Square",
+            "tip": "O oază georgiană în inima districtului financiar, perfectă pentru o scurtă pauză.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Leeds Minster",
+            "tip": "Găsiți un moment de liniște în această biserică frumoasă.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Leeds and Liverpool Canal",
+            "tip": "A quiet walk along the canal towpath to escape the city bustle.",
+            "emoji": "🚶‍♂️"
+          },
+          {
+            "name": "Park Square",
+            "tip": "A Georgian oasis in the heart of the financial district, perfect for a quick break.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Leeds Minster",
+            "tip": "Find a moment of peace and quiet inside this beautiful church.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Victoria Quarter",
+            "tip": "Luxus-Shopping in einer atemberaubenden viktorianischen Einkaufspassage."
+          },
+          {
+            "name": "Corn Exchange",
+            "tip": "Einzigartige Geschenke und Kreationen von unabhängigen Designern."
+          },
+          {
+            "name": "Kirkgate Market",
+            "tip": "Einer der größten überdachten Märkte in Europa, ideal für Souvenirs und lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Victoria Quarter",
+            "tip": "Luxusvásárlás egy lenyűgöző viktoriánus bevásárló árkádban."
+          },
+          {
+            "name": "Corn Exchange",
+            "tip": "Egyedi ajándékok és alkotások független tervezőktől."
+          },
+          {
+            "name": "Kirkgate Market",
+            "tip": "Európa egyik legnagyobb fedett piaca, ideális szuvenírekhez és helyi termékekhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Victoria Quarter",
+            "tip": "Cumpărături de lux într-o arcadă victoriană uimitoare."
+          },
+          {
+            "name": "Corn Exchange",
+            "tip": "Cadouri unice și creații de la designeri independenți."
+          },
+          {
+            "name": "Piața Kirkgate",
+            "tip": "Una dintre cele mai mari piețe acoperite din Europa, excelentă pentru suveniruri și produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Victoria Quarter",
+            "tip": "Luxury shopping in a stunning Victorian arcade."
+          },
+          {
+            "name": "Corn Exchange",
+            "tip": "Unique gifts and creations from independent designers."
+          },
+          {
+            "name": "Kirkgate Market",
+            "tip": "One of the largest covered markets in Europe, great for souvenirs and local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Viele Museen in Leeds haben freien Eintritt, prüfen Sie jedoch die Öffnungszeiten.",
+          "Ein Regenschirm ist in Nordengland immer eine gute Idee.",
+          "Nutzen Sie die vielen Fußgängerzonen im Stadtzentrum."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "Sok leedsi múzeum ingyenes, de ellenőrizze a nyitvatartási időt.",
+          "Egy esernyő mindig jó ötlet Észak-Angliában.",
+          "Használja ki a városközpont számos sétálóutcáját."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe jos.",
+          "Multe muzee din Leeds au intrare gratuită, dar verificați orele de deschidere.",
+          "O umbrelă este întotdeauna o idee bună în nordul Angliei.",
+          "Profitați de numeroasele zone pietonale din centrul orașului."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "Many museums in Leeds have free entry, but check opening times.",
+          "An umbrella is always a good idea in the north of England.",
+          "Take advantage of the many pedestrianised areas in the city centre."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 19.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Leeds Corn Exchange",
+            "hu": "Leedsi gabonatőzsde",
+            "ro": "Bursa de Porumb din Leeds",
+            "en": "Leeds Corn Exchange"
+          },
+          "coords": [
+            -1.541,
+            53.795
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier mit einem Kaffee in einem der unabhängigen Cafés.",
+            "hu": "Kezdje a napot egy kávéval az egyik független kávézóban.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele independente.",
+            "en": "Start here with a coffee from one of the independent cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Royal Armouries Museum",
+            "hu": "Királyi Fegyvertár Múzeum",
+            "ro": "Muzeul Royal Armouries",
+            "en": "Royal Armouries Museum"
+          },
+          "coords": [
+            -1.531,
+            53.791
+          ],
+          "category": "museums",
+          "arrive_at": "09:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Folgen Sie dem Radweg entlang des Flusses Aire.",
+            "hu": "Kövesse a kerékpárutat az Aire folyó mentén.",
+            "ro": "Urmați pista de biciclete de-a lungul râului Aire.",
+            "en": "Follow the cycle path along the River Aire."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirkstall Abbey",
+            "hu": "Kirkstalli apátság",
+            "ro": "Abația Kirkstall",
+            "en": "Kirkstall Abbey"
+          },
+          "coords": [
+            -1.606,
+            53.819
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 42,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Machen Sie ein Picknick in den Ruinen dieser beeindruckenden Zisterzienserabtei.",
+            "hu": "Piknikezzen ennek a lenyűgöző ciszterci apátságnak a romjainál.",
+            "ro": "Faceți un picnic în ruinele acestei impresionante abații cisterciene.",
+            "en": "Have a picnic in the ruins of this impressive Cistercian abbey."
+          }
+        },
+        {
+          "name": {
+            "de": "Leeds Town Hall",
+            "hu": "Leedsi városháza",
+            "ro": "Primăria din Leeds",
+            "en": "Leeds Town Hall"
+          },
+          "coords": [
+            -1.549,
+            53.801
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:39",
+          "stay_min": 25,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 4.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und bewundern Sie das Herz der Stadt.",
+            "hu": "Tegye le a biciklit és csodálja meg a város szívét.",
+            "ro": "Parcați bicicleta și admirați inima orașului.",
+            "en": "Park your bike and admire the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Roundhay Park",
+            "hu": "Roundhay Park",
+            "ro": "Parcul Roundhay",
+            "en": "Roundhay Park"
+          },
+          "coords": [
+            -1.493,
+            53.839
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:42",
+          "stay_min": 120,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 6.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Erkunden Sie einen der größten Stadtparks Europas mit seinen Seen und Gärten.",
+            "hu": "Fedezze fel Európa egyik legnagyobb városi parkját, tavaival és kertjeivel.",
+            "ro": "Explorați unul dintre cele mai mari parcuri urbane din Europa, cu lacurile și grădinile sale.",
+            "en": "Explore one of Europe's largest city parks, with its lakes and gardens."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt beim ikonischen Corn Exchange. Am Morgen folgen Sie dem Fluss zum Royal Armouries Museum. Mittags unternehmen Sie eine längere Fahrt zur historischen Kirkstall Abbey, einem perfekten Ort für eine Pause. Am Nachmittag radeln Sie zurück ins Zentrum, um das Rathaus zu sehen, bevor Sie den Tag mit einer entspannten Fahrt und Erkundung des riesigen Roundhay Parks ausklingen lassen.",
+        "hu": "A kerékpártúra az ikonikus Gabona-tőzsdénél kezdődik. Reggel kövesse a folyót a Királyi Fegyvertár Múzeumig. Délben tegyen egy hosszabb utat a történelmi Kirkstall Apátsághoz, amely tökéletes hely egy pihenőre. Délután tekerjen vissza a központba, hogy megnézze a Városházát, mielőtt a napot egy pihentető tekeréssel és a hatalmas Roundhay Park felfedezésével zárja.",
+        "ro": "Turul pe bicicletă începe la iconica Bursă de Porumb. Dimineața, urmați râul până la Muzeul Royal Armouries. La prânz, faceți o plimbare mai lungă până la istorica Abație Kirkstall, un loc perfect pentru o pauză. După-amiaza, pedalați înapoi în centru pentru a vedea Primăria înainte de a încheia ziua cu o plimbare relaxantă și explorarea vastului Parc Roundhay.",
+        "en": "Your bike tour starts at the iconic Corn Exchange. In the morning, you'll follow the river to the Royal Armouries Museum. At midday, take a longer ride to the historic Kirkstall Abbey, a perfect spot for a break. In the afternoon, cycle back to the centre to see the Town Hall before ending the day with a relaxing ride and exploration of the vast Roundhay Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Reliance",
+            "tip": "Ein fahrradfreundlicher Pub mit exzellentem Essen und einer guten Auswahl an Bieren."
+          },
+          {
+            "name": "Laynes Espresso",
+            "tip": "Perfekt für einen Koffeinschub und ein leckeres Gebäck vor oder nach der Fahrt."
+          },
+          {
+            "name": "Bundobust",
+            "tip": "Indisches Street Food und Craft Beer - eine großartige Kombination nach einem Tag im Sattel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Reliance",
+            "tip": "Kerékpárbarát pub kiváló ételekkel és jó sörválasztékkal."
+          },
+          {
+            "name": "Laynes Espresso",
+            "tip": "Tökéletes egy koffeinlökéshez és egy finom süteményhez tekerés előtt vagy után."
+          },
+          {
+            "name": "Bundobust",
+            "tip": "Indiai street food és kézműves sör - nagyszerű kombináció egy nyeregben töltött nap után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Reliance",
+            "tip": "Un pub prietenos cu bicicliștii, cu mâncare excelentă și o selecție bună de beri."
+          },
+          {
+            "name": "Laynes Espresso",
+            "tip": "Perfect pentru o doză de cofeină și un produs de patiserie delicios înainte sau după plimbare."
+          },
+          {
+            "name": "Bundobust",
+            "tip": "Mâncare stradală indiană și bere artizanală - o combinație excelentă după o zi în șa."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Reliance",
+            "tip": "A bike-friendly pub with excellent food and a good selection of beers."
+          },
+          {
+            "name": "Laynes Espresso",
+            "tip": "Perfect for a caffeine boost and a delicious pastry before or after your ride."
+          },
+          {
+            "name": "Bundobust",
+            "tip": "Indian street food and craft beer - a great combination after a day in the saddle."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Aire-Fluss",
+            "tip": "Eine friedliche Route, die Sie aus dem Stadtzentrum heraus und in die Natur führt.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Waterloo Lake im Roundhay Park",
+            "tip": "Machen Sie eine Pause und beobachten Sie die Schwäne und Enten.",
+            "emoji": "🦢"
+          },
+          {
+            "name": "Die Gärten von Kirkstall Abbey",
+            "tip": "Ein ruhiger Ort zum Entspannen nach der Erkundung der Ruinen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aire folyó menti kerékpárút",
+            "tip": "Békés útvonal, amely kivezet a városközpontból a természetbe.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Waterloo-tó a Roundhay Parkban",
+            "tip": "Tartson egy szünetet és figyelje a hattyúkat és kacsákat.",
+            "emoji": "🦢"
+          },
+          {
+            "name": "Kirkstall Apátság kertjei",
+            "tip": "Csendes hely a pihenésre a romok felfedezése után.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de pe râul Aire",
+            "tip": "Un traseu pașnic care vă scoate din centrul orașului și vă duce în natură.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Lacul Waterloo din Parcul Roundhay",
+            "tip": "Luați o pauză și priviți lebedele și rațele.",
+            "emoji": "🦢"
+          },
+          {
+            "name": "Grădinile Abației Kirkstall",
+            "tip": "Un loc liniștit pentru a vă relaxa după explorarea ruinelor.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "River Aire cycle path",
+            "tip": "A peaceful route that takes you out of the city centre and into nature.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Waterloo Lake in Roundhay Park",
+            "tip": "Take a break and watch the swans and ducks.",
+            "emoji": "🦢"
+          },
+          {
+            "name": "The gardens at Kirkstall Abbey",
+            "tip": "A tranquil spot to relax after exploring the ruins.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Alpamare",
+            "tip": "Ein Fahrradgeschäft mit einer guten Auswahl an Zubehör und freundlichem Personal."
+          },
+          {
+            "name": "The Chevin",
+            "tip": "Ein lokales Geschäft, das handgefertigte Waren und Souvenirs verkauft."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alpamare",
+            "tip": "Kerékpárbolt, ahol jó a kiegészítők választéka és barátságos a személyzet."
+          },
+          {
+            "name": "The Chevin",
+            "tip": "Helyi üzlet, ahol kézzel készített termékeket és szuveníreket árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Alpamare",
+            "tip": "Un magazin de biciclete cu o selecție bună de accesorii și personal prietenos."
+          },
+          {
+            "name": "The Chevin",
+            "tip": "Un magazin local care vinde produse artizanale și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Up & Running",
+            "tip": "A bike shop with a good selection of accessories and friendly staff."
+          },
+          {
+            "name": "The Chevin",
+            "tip": "A local shop selling handmade goods and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Leeds ist hügelig, seien Sie also auf einige Anstiege vorbereitet.",
+          "Nutzen Sie die Radwege entlang des Kanals und des Flusses für sicherere Fahrten.",
+          "Schließen Sie Ihr Fahrrad immer sicher ab, auch für kurze Zeit.",
+          "Viele Cafés und Pubs in Leeds sind fahrradfreundlich."
+        ],
+        "hu": [
+          "Leeds dombos, tehát készüljön fel néhány emelkedőre.",
+          "Használja a csatorna és a folyó menti kerékpárutakat a biztonságosabb közlekedés érdekében.",
+          "Mindig zárja le biztonságosan a kerékpárját, még rövid időre is.",
+          "Sok leedsi kávézó és pub kerékpárbarát."
+        ],
+        "ro": [
+          "Leeds este deluros, așa că fiți pregătiți pentru câteva urcări.",
+          "Folosiți pistele de biciclete de-a lungul canalului și râului pentru plimbări mai sigure.",
+          "Încuiați-vă întotdeauna bicicleta în siguranță, chiar și pentru perioade scurte.",
+          "Multe cafenele și pub-uri din Leeds sunt prietenoase cu bicicliștii."
+        ],
+        "en": [
+          "Leeds is hilly, so be prepared for some climbs.",
+          "Use the canal and river towpaths for safer, traffic-free cycling.",
+          "Always lock your bike securely, even for short periods.",
+          "Many cafes and pubs in Leeds are bike-friendly."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 40.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Harewood House",
+            "hu": "Harewood-ház",
+            "ro": "Casa Harewood",
+            "en": "Harewood House"
+          },
+          "coords": [
+            -1.517,
+            53.901
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Kommen Sie früh, um die Gärten und das Vogelgehege vor den Menschenmassen zu genießen.",
+            "hu": "Érkezzen korán, hogy a tömeg előtt élvezhesse a kerteket és a madárházat.",
+            "ro": "Ajungeți devreme pentru a vă bucura de grădini și de voliera de păsări înainte de mulțime.",
+            "en": "Arrive early to enjoy the gardens and bird garden before the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang im Harewood Estate",
+            "hu": "Séta a Harewood birtokon",
+            "ro": "Plimbare pe domeniul Harewood",
+            "en": "Walk in Harewood Estate"
+          },
+          "coords": [
+            -1.519,
+            53.903
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Folgen Sie dem Weg um den See für eine malerische Aussicht.",
+            "hu": "Kövesse a tó körüli ösvényt a festői kilátásért.",
+            "ro": "Urmați poteca din jurul lacului pentru priveliști pitorești.",
+            "en": "Follow the path around the lake for picturesque views."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirkstall Abbey",
+            "hu": "Kirkstalli apátság",
+            "ro": "Abația Kirkstall",
+            "en": "Kirkstall Abbey"
+          },
+          "coords": [
+            -1.606,
+            53.819
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 14.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Abbey House Museum und gehen Sie hinüber.",
+            "hu": "Parkoljon az Abbey House Múzeumnál, és sétáljon át.",
+            "ro": "Parcați la Muzeul Abbey House și traversați.",
+            "en": "Park at the Abbey House Museum and walk across."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Kirkstall",
+            "hu": "Ebéd Kirkstallban",
+            "ro": "Prânz în Kirkstall",
+            "en": "Lunch in Kirkstall"
+          },
+          "coords": [
+            -1.604,
+            53.818
+          ],
+          "category": "gastro",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besuchen Sie einen der Pubs in der Nähe der Abtei für ein herzhaftes Mittagessen.",
+            "hu": "Látogasson el az apátság közelében található pubok egyikébe egy kiadós ebédre.",
+            "ro": "Vizitați unul dintre pub-urile din apropierea abației pentru un prânz copios.",
+            "en": "Visit one of the pubs near the abbey for a hearty lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Leeds Town Hall & City Centre Cluster",
+            "hu": "Leeds Városháza és Belvárosi klaszter",
+            "ro": "Primăria din Leeds & Clusterul Central",
+            "en": "Leeds Town Hall & City Centre Cluster"
+          },
+          "coords": [
+            -1.549,
+            53.801
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in einem der zentralen Parkhäuser (z.B. The Light) und erkunden Sie zu Fuß.",
+            "hu": "Parkoljon egy központi parkolóházban (pl. The Light) és fedezze fel a környéket gyalog.",
+            "ro": "Parcați într-una din parcările centrale (de ex. The Light) și explorați pe jos.",
+            "en": "Park in a central car park (e.g., The Light) and explore on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Leeds Corn Exchange",
+            "hu": "Leedsi gabonatőzsde",
+            "ro": "Bursa de Porumb din Leeds",
+            "en": "Leeds Corn Exchange"
+          },
+          "coords": [
+            -1.541,
+            53.795
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:21",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Rathausplatz durch die Einkaufsstraßen.",
+            "hu": "Rövid séta a Városház térről a bevásárlóutcákon keresztül.",
+            "ro": "O scurtă plimbare de la piața primăriei prin străzile comerciale.",
+            "en": "A short walk from the town hall square through the shopping streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Roundhay Park",
+            "hu": "Roundhay Park",
+            "ro": "Parcul Roundhay",
+            "en": "Roundhay Park"
+          },
+          "coords": [
+            -1.493,
+            53.839
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem entspannenden Spaziergang in diesem riesigen Park.",
+            "hu": "Zárja a napot egy pihentető sétával ebben a hatalmas parkban.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă în acest parc imens.",
+            "en": "End the day with a relaxing walk in this huge park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer Fahrt zum prächtigen Harewood House, wo Sie den Morgen mit der Erkundung des Hauses und der Gärten verbringen. Mittags fahren Sie zu den beeindruckenden Ruinen der Kirkstall Abbey für einen Spaziergang und ein Mittagessen. Am Nachmittag parken Sie im Stadtzentrum von Leeds, um die viktorianische Architektur rund um das Rathaus und den einzigartigen Corn Exchange zu Fuß zu entdecken. Beenden Sie Ihren Ausflug mit einer kurzen Fahrt zum weitläufigen Roundhay Park für einen ruhigen Abendspaziergang.",
+        "hu": "Kezdje a napot a csodálatos Harewood-házhoz vezető úttal, ahol a délelőttöt a ház és a kertek felfedezésével tölti. Délben hajtson el a lenyűgöző Kirkstall apátság romjaihoz egy sétára és ebédre. Délután parkoljon le Leeds központjában, hogy gyalogosan fedezze fel a Városháza körüli viktoriánus építészetet és az egyedülálló Gabona-tőzsdét. Zárja a kirándulást egy rövid autózással a hatalmas Roundhay Parkba egy békés esti sétára.",
+        "ro": "Începeți ziua cu o excursie la impunătoarea Casă Harewood, petrecând dimineața explorând casa și grădinile. La prânz, conduceți spre ruinele impresionante ale Abației Kirkstall pentru o plimbare și prânz. După-amiaza, parcați în centrul orașului Leeds pentru a descoperi pe jos arhitectura victoriană din jurul Primăriei și a unicei Burse de Porumb. Încheiați excursia cu o scurtă călătorie cu mașina spre vastul Parc Roundhay pentru o plimbare liniștită de seară.",
+        "en": "Start your day with a drive to the magnificent Harewood House, spending the morning exploring the house and gardens. At midday, drive to the impressive ruins of Kirkstall Abbey for a walk and lunch. In the afternoon, park in Leeds city centre to discover the Victorian architecture around the Town Hall and the unique Corn Exchange on foot. Finish your trip with a short drive to the vast Roundhay Park for a peaceful evening stroll."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Cheerful Charioteer, Harewood",
+            "tip": "Ein traditioneller Pub in der Nähe von Harewood House, ideal für ein Mittagessen."
+          },
+          {
+            "name": "The Kirkstall Bridge Inn",
+            "tip": "Ein Pub mit eigener Brauerei direkt an der Kirkstall Abbey."
+          },
+          {
+            "name": "The Man Behind The Curtain",
+            "tip": "Für ein ganz besonderes Erlebnis buchen Sie einen Tisch in diesem Michelin-Sterne-Restaurant."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Cheerful Charioteer, Harewood",
+            "tip": "Hagyományos pub a Harewood-ház közelében, ideális ebédre."
+          },
+          {
+            "name": "The Kirkstall Bridge Inn",
+            "tip": "Saját sörfőzdével rendelkező pub közvetlenül a Kirkstall apátságnál."
+          },
+          {
+            "name": "The Man Behind The Curtain",
+            "tip": "Egy igazán különleges élményért foglaljon asztalt ebben a Michelin-csillagos étteremben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Cheerful Charioteer, Harewood",
+            "tip": "Un pub tradițional lângă Casa Harewood, perfect pentru prânz."
+          },
+          {
+            "name": "The Kirkstall Bridge Inn",
+            "tip": "Un pub cu propria fabrică de bere chiar lângă Abația Kirkstall."
+          },
+          {
+            "name": "The Man Behind The Curtain",
+            "tip": "Pentru o experiență cu adevărat specială, rezervați o masă la acest restaurant cu stea Michelin."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Cheerful Charioteer, Harewood",
+            "tip": "A traditional pub near Harewood House, perfect for lunch."
+          },
+          {
+            "name": "The Kirkstall Bridge Inn",
+            "tip": "A pub with its own brewery right by Kirkstall Abbey."
+          },
+          {
+            "name": "The Man Behind The Curtain",
+            "tip": "For a truly special experience, book a table at this Michelin-starred restaurant."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Die Gärten von Harewood House",
+            "tip": "Finden Sie eine ruhige Ecke in den weitläufigen Themengärten.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ufer des Flusses Aire bei Kirkstall Abbey",
+            "tip": "Ein friedlicher Ort, um den Anblick der Abtei zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Der Secret Garden im Roundhay Park",
+            "tip": "Eine versteckte Oase, umgeben von Mauern, voller Blumen.",
+            "emoji": "🌸"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Harewood-ház kertjei",
+            "tip": "Találjon egy csendes zugot a hatalmas tematikus kertekben.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Az Aire folyó partja a Kirkstall apátságnál",
+            "tip": "Békés hely az apátság látványának élvezetére.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Titkos Kert a Roundhay Parkban",
+            "tip": "Egy rejtett, fallal körülvett oázis, tele virágokkal.",
+            "emoji": "🌸"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Casei Harewood",
+            "tip": "Găsiți un colț liniștit în grădinile tematice întinse.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malul râului Aire la Abația Kirkstall",
+            "tip": "Un loc pașnic pentru a vă bucura de priveliștea abației.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Secretă din Parcul Roundhay",
+            "tip": "O oază ascunsă, înconjurată de ziduri, plină de flori.",
+            "emoji": "🌸"
+          }
+        ],
+        "en": [
+          {
+            "name": "The gardens at Harewood House",
+            "tip": "Find a quiet corner in the extensive themed gardens.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "River Aire banks at Kirkstall Abbey",
+            "tip": "A peaceful spot to enjoy the view of the abbey.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The Secret Garden at Roundhay Park",
+            "tip": "A hidden walled oasis, full of flowers.",
+            "emoji": "🌸"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Harewood House Gift Shop",
+            "tip": "Exklusive Geschenke und Souvenirs im Zusammenhang mit dem Anwesen."
+          },
+          {
+            "name": "Abbey House Museum Shop",
+            "tip": "Nostalgische und viktorianisch inspirierte Geschenke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Harewood-ház ajándékboltja",
+            "tip": "Exkluzív ajándékok és szuvenírek a birtokhoz kapcsolódóan."
+          },
+          {
+            "name": "Abbey House Múzeum boltja",
+            "tip": "Nosztalgikus és viktoriánus ihletésű ajándékok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de cadouri Harewood House",
+            "tip": "Cadouri și suveniruri exclusive legate de domeniu."
+          },
+          {
+            "name": "Magazinul Muzeului Abbey House",
+            "tip": "Cadouri nostalgice și de inspirație victoriană."
+          }
+        ],
+        "en": [
+          {
+            "name": "Harewood House Gift Shop",
+            "tip": "Exclusive gifts and souvenirs related to the estate."
+          },
+          {
+            "name": "Abbey House Museum Shop",
+            "tip": "Nostalgic and Victorian-inspired gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Buchen Sie Tickets für Harewood House online im Voraus, um Geld zu sparen.",
+          "Das Parken kann im Stadtzentrum teuer sein; nutzen Sie Park-and-Ride-Möglichkeiten, wenn möglich.",
+          "Planen Sie zusätzliche Zeit für den Verkehr ein, insbesondere während der Stoßzeiten.",
+          "Überprüfen Sie die Öffnungszeiten, da einige Sehenswürdigkeiten außerhalb der Saison möglicherweise geschlossen sind."
+        ],
+        "hu": [
+          "Foglaljon jegyet a Harewood-házba előre online, hogy pénzt takarítson meg.",
+          "A parkolás drága lehet a városközpontban; ha lehetséges, használja a Park and Ride lehetőségeket.",
+          "Tervezzen plusz időt a forgalomra, különösen csúcsidőben.",
+          "Ellenőrizze a nyitvatartási időket, mivel egyes látnivalók szezonon kívül zárva lehetnek."
+        ],
+        "ro": [
+          "Rezervați biletele pentru Casa Harewood online în avans pentru a economisi bani.",
+          "Parcarea în centrul orașului poate fi scumpă; utilizați facilitățile Park and Ride, dacă este posibil.",
+          "Alocați timp suplimentar pentru trafic, în special în orele de vârf.",
+          "Verificați orele de deschidere, deoarece unele atracții pot fi închise în afara sezonului."
+        ],
+        "en": [
+          "Book tickets for Harewood House online in advance to save money.",
+          "Parking in the city centre can be expensive; use Park and Ride facilities if possible.",
+          "Allow extra time for traffic, especially during peak hours.",
+          "Check opening times as some attractions may be closed out of season."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:54",
+      "total_km": 15.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Leeds Town Hall",
+            "hu": "Leedsi városháza",
+            "ro": "Primăria din Leeds",
+            "en": "Leeds Town Hall"
+          },
+          "coords": [
+            -1.549,
+            53.801
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem zentralen Knotenpunkt, der von vielen Buslinien bedient wird.",
+            "hu": "Kezdje a napot ezen a központi csomóponton, amelyet számos buszjárat érint.",
+            "ro": "Începeți ziua la acest nod central, deservit de multe linii de autobuz.",
+            "en": "Start your day at this central hub, served by many bus routes."
+          }
+        },
+        {
+          "name": {
+            "de": "Leeds City Museum",
+            "hu": "Leedsi Városi Múzeum",
+            "ro": "Muzeul Orașului Leeds",
+            "en": "Leeds City Museum"
+          },
+          "coords": [
+            -1.545,
+            53.8
+          ],
+          "category": "museums",
+          "arrive_at": "09:38",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Rathaus. Der Eintritt ist frei.",
+            "hu": "Rövid séta a városházától. A belépés ingyenes.",
+            "ro": "O scurtă plimbare de la primărie. Intrarea este gratuită.",
+            "en": "A short walk from the Town Hall. Entry is free."
+          }
+        },
+        {
+          "name": {
+            "de": "Royal Armouries Museum",
+            "hu": "Királyi Fegyvertár Múzeum",
+            "ro": "Muzeul Royal Armouries",
+            "en": "Royal Armouries Museum"
+          },
+          "coords": [
+            -1.531,
+            53.791
+          ],
+          "category": "museums",
+          "arrive_at": "11:23",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.7,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Stadtzentrum oder genießen Sie eine Fahrt mit dem Wassertaxi.",
+            "hu": "Menjen busszal a városközpontból, vagy élvezze a vízibuszozást.",
+            "ro": "Luați un autobuz din centrul orașului sau bucurați-vă de o plimbare cu taxiul pe apă.",
+            "en": "Take a bus from the city centre or enjoy a water taxi ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Museums",
+            "hu": "Ebéd a múzeum közelében",
+            "ro": "Prânz lângă muzeu",
+            "en": "Lunch near the museum"
+          },
+          "coords": [
+            -1.533,
+            53.792
+          ],
+          "category": "gastro",
+          "arrive_at": "13:23",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Es gibt mehrere Restaurants und Cafés in der Umgebung von Leeds Dock.",
+            "hu": "A Leeds Dock környékén több étterem és kávézó is található.",
+            "ro": "Există mai multe restaurante și cafenele în jurul zonei Leeds Dock.",
+            "en": "There are several restaurants and cafes around the Leeds Dock area."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirkstall Abbey",
+            "hu": "Kirkstalli apátság",
+            "ro": "Abația Kirkstall",
+            "en": "Kirkstall Abbey"
+          },
+          "coords": [
+            -1.606,
+            53.819
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Stadtzentrum. Die Fahrt bietet einen guten Überblick über die Außenbezirke.",
+            "hu": "Menjen busszal a városközpontból. Az út jó áttekintést nyújt a külvárosról.",
+            "ro": "Luați un autobuz din centrul orașului. Călătoria oferă o priveliște bună a periferiei.",
+            "en": "Take a bus from the city centre. The journey gives a good view of the suburbs."
+          }
+        },
+        {
+          "name": {
+            "de": "Roundhay Park",
+            "hu": "Roundhay Park",
+            "ro": "Parcul Roundhay",
+            "en": "Roundhay Park"
+          },
+          "coords": [
+            -1.493,
+            53.839
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 5.8,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Es gibt regelmäßige Busverbindungen, die Sie zu diesem riesigen Park bringen.",
+            "hu": "Rendszeres buszjáratok közlekednek ehhez a hatalmas parkhoz.",
+            "ro": "Există servicii regulate de autobuz care vă duc la acest parc imens.",
+            "en": "There are frequent bus services that will take you to this huge park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am Vormittag im zentralen Cluster und schlendern Sie vom Rathaus zum Stadtmuseum. Nehmen Sie dann ein öffentliches Verkehrsmittel, entweder einen Bus oder ein Wassertaxi, zum Royal Armouries Museum für eine faszinierende Ausstellung. Nach dem Mittagessen bringt Sie ein Bus zu den historischen Ruinen der Kirkstall Abbey. Beenden Sie den Tag mit einer weiteren Busfahrt zum weitläufigen Roundhay Park, um vor der Rückkehr ins Zentrum die Natur zu genießen.",
+        "hu": "Kezdje a délelőttöt a központi klaszterben, sétáljon a Városházától a Városi Múzeumig. Ezután tömegközlekedéssel, busszal vagy vízitaxival, menjen a Királyi Fegyvertár Múzeumba egy lenyűgöző kiállításért. Ebéd után egy busz viszi el a Kirkstall Apátság történelmi romjaihoz. Zárja a napot egy újabb buszúttal a hatalmas Roundhay Parkba, hogy élvezze a természetet, mielőtt visszatér a központba.",
+        "ro": "Începeți dimineața în clusterul central, plimbându-vă de la Primărie la Muzeul Orașului. Apoi, luați transportul public, fie un autobuz, fie un taxi pe apă, la Muzeul Royal Armouries pentru o expoziție fascinantă. După prânz, un autobuz vă va duce la ruinele istorice ale Abației Kirkstall. Încheiați ziua cu o altă călătorie cu autobuzul spre vastul Parc Roundhay pentru a vă bucura de natură înainte de a vă întoarce în centru.",
+        "en": "Start in the central cluster in the morning, walking from the Town Hall to the City Museum. Then take a transit hop, either by bus or water taxi, to the Royal Armouries Museum for a fascinating display. After lunch, a bus will take you to the historic ruins of Kirkstall Abbey. End your day with another bus journey to the vast Roundhay Park to enjoy some nature before heading back to the centre."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Trinity Kitchen",
+            "tip": "Ein Food Court mit rotierenden Street-Food-Ständen, leicht erreichbar mit dem Bus."
+          },
+          {
+            "name": "North Star Coffee Roasters",
+            "tip": "In der Nähe des Royal Armouries, perfekt für einen hochwertigen Kaffee."
+          },
+          {
+            "name": "The Roundhay Fox",
+            "tip": "Ein gemütlicher Pub am Rande des Roundhay Parks für ein Getränk oder eine Mahlzeit nach dem Spaziergang."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trinity Kitchen",
+            "tip": "Ételudvar forgó street food standokkal, busszal könnyen megközelíthető."
+          },
+          {
+            "name": "North Star Coffee Roasters",
+            "tip": "A Királyi Fegyvertár közelében, tökéletes egy minőségi kávéhoz."
+          },
+          {
+            "name": "The Roundhay Fox",
+            "tip": "Hangulatos pub a Roundhay Park szélén egy italra vagy étkezésre a séta után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trinity Kitchen",
+            "tip": "O zonă de alimentație publică cu standuri de mâncare stradală rotative, ușor accesibilă cu autobuzul."
+          },
+          {
+            "name": "North Star Coffee Roasters",
+            "tip": "Aproape de Royal Armouries, perfect pentru o cafea de calitate."
+          },
+          {
+            "name": "The Roundhay Fox",
+            "tip": "Un pub primitor la marginea Parcului Roundhay pentru o băutură sau o masă după plimbare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trinity Kitchen",
+            "tip": "A food court with rotating street food vendors, easily accessible by bus."
+          },
+          {
+            "name": "North Star Coffee Roasters",
+            "tip": "Near the Royal Armouries, perfect for a quality coffee."
+          },
+          {
+            "name": "The Roundhay Fox",
+            "tip": "A cosy pub on the edge of Roundhay Park for a post-walk drink or meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Leeds Dock",
+            "tip": "Beobachten Sie die Boote und genießen Sie die ruhigere Atmosphäre abseits des Stadtzentrums.",
+            "emoji": "⛵"
+          },
+          {
+            "name": "Die Ruinen von Kirkstall Abbey",
+            "tip": "Finden Sie eine ruhige Bank und stellen Sie sich das Leben der Mönche vor.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Tropical World im Roundhay Park",
+            "tip": "Entfliehen Sie in eine andere Welt mit Schmetterlingen und exotischen Pflanzen (Busticket erforderlich).",
+            "emoji": "🦋"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Leeds Dock",
+            "tip": "Figyelje a hajókat és élvezze a csendesebb légkört a városközponttól távol.",
+            "emoji": "⛵"
+          },
+          {
+            "name": "A Kirkstall apátság romjai",
+            "tip": "Keressen egy csendes padot, és képzelje el a szerzetesek életét.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Trópusi Világ a Roundhay Parkban",
+            "tip": "Meneküljön egy másik világba pillangókkal és egzotikus növényekkel (buszjegy szükséges).",
+            "emoji": "🦋"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Leeds Dock",
+            "tip": "Priviți bărcile și bucurați-vă de atmosfera mai liniștită, departe de centrul orașului.",
+            "emoji": "⛵"
+          },
+          {
+            "name": "Ruinele Abației Kirkstall",
+            "tip": "Găsiți o bancă liniștită și imaginați-vă viața călugărilor.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Tropical World în Parcul Roundhay",
+            "tip": "Evadați într-o altă lume cu fluturi și plante exotice (necesită bilet de autobuz).",
+            "emoji": "🦋"
+          }
+        ],
+        "en": [
+          {
+            "name": "Leeds Dock",
+            "tip": "Watch the boats and enjoy the calmer atmosphere away from the city centre.",
+            "emoji": "⛵"
+          },
+          {
+            "name": "The ruins at Kirkstall Abbey",
+            "tip": "Find a quiet bench and imagine the life of the monks.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Tropical World at Roundhay Park",
+            "tip": "Escape to another world with butterflies and exotic plants (bus ticket required).",
+            "emoji": "🦋"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kirkgate Market",
+            "tip": "Leicht mit dem Bus zu erreichen, ein Muss für ein authentisches Markterlebnis."
+          },
+          {
+            "name": "The Grand Arcade",
+            "tip": "Eine weitere schöne Einkaufspassage mit unabhängigen Geschäften, in der Nähe vieler Bushaltestellen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kirkgate Market",
+            "tip": "Busszal könnyen megközelíthető, kötelező egy autentikus piaci élményért."
+          },
+          {
+            "name": "The Grand Arcade",
+            "tip": "Egy másik gyönyörű bevásárló árkád független üzletekkel, számos buszmegálló közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Kirkgate",
+            "tip": "Ușor de ajuns cu autobuzul, o vizită obligatorie pentru o experiență autentică de piață."
+          },
+          {
+            "name": "The Grand Arcade",
+            "tip": "O altă arcadă frumoasă cu magazine independente, aproape de multe stații de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kirkgate Market",
+            "tip": "Easy to get to by bus, a must-visit for an authentic market experience."
+          },
+          {
+            "name": "The Grand Arcade",
+            "tip": "Another beautiful arcade with independent shops, close to many bus stops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus (DayRider), um unbegrenzt fahren zu können, was oft günstiger ist.",
+          "Laden Sie die First Bus App herunter, um Tickets zu kaufen und Busse in Echtzeit zu verfolgen.",
+          "Die Wassertaxis zwischen Leeds Dock und Granary Wharf sind eine unterhaltsame und schnelle Möglichkeit, den Fluss zu überqueren.",
+          "Planen Sie Ihre Fahrten im Voraus, insbesondere für die letzte Busverbindung zurück aus den Außenbezirken."
+        ],
+        "hu": [
+          "Vásároljon busz napijegyet (DayRider) a korlátlan utazáshoz, ami gyakran olcsóbb.",
+          "Töltse le a First Bus alkalmazást jegyvásárláshoz és a buszok valós idejű követéséhez.",
+          "A Leeds Dock és a Granary Wharf közötti vízitaxik szórakoztató és gyors módja a folyón való átkelésnek.",
+          "Tervezze meg előre az utazásait, különösen az utolsó buszjáratot a külvárosból."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz (DayRider) pentru călătorii nelimitate, este adesea mai ieftin.",
+          "Descărcați aplicația First Bus pentru a cumpăra bilete și a urmări autobuzele în timp real.",
+          "Taxiurile pe apă dintre Leeds Dock și Granary Wharf sunt un mod distractiv și rapid de a traversa râul.",
+          "Planificați-vă călătoriile în avans, în special pentru ultimul autobuz care se întoarce din suburbii."
+        ],
+        "en": [
+          "Get a bus day ticket (DayRider) for unlimited travel, it's often cheaper.",
+          "Download the First Bus app to buy tickets and track buses in real-time.",
+          "The water taxis between Leeds Dock and Granary Wharf are a fun and quick way to cross the river.",
+          "Plan your journeys in advance, especially for the last bus back from outlying areas."
+        ]
+      }
+    }
+  }
+}

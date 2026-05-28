@@ -1,0 +1,1292 @@
+{
+  "city_id": "switzerland-olten-cities-v2",
+  "anchor": {
+    "name": "Olten",
+    "coords": [
+      7.901,
+      47.352
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 3.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Olten & Altstadt",
+            "hu": "Olteni Városháza és Óváros",
+            "ro": "Primăria Olten și Centrul Vechi",
+            "en": "Olten Town Hall & Old Town"
+          },
+          "coords": [
+            7.9045,
+            47.3518
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einem Kaffee in einem der Cafés am Hauptplatz.",
+            "hu": "Kezdje a napot egy kávéval a főtéren található egyik kávézóban.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piața principală.",
+            "en": "Start your day with a coffee at one of the cafés in the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtkirche St. Martin",
+            "hu": "Szent Márton-templom",
+            "ro": "Biserica Sf. Martin",
+            "en": "St. Martin's Church"
+          },
+          "coords": [
+            7.9055,
+            47.3525
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden Glasfenster und die ruhige Atmosphäre.",
+            "hu": "Figyelje meg a lenyűgöző üvegablakokat és a csendes légkört.",
+            "ro": "Fiți atenți la vitraliile impresionante și la atmosfera liniștită.",
+            "en": "Pay attention to the impressive stained-glass windows and the quiet atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Holzbrücke",
+            "hu": "Régi Fahíd",
+            "ro": "Vechiul Pod de Lemn",
+            "en": "Old Wooden Bridge"
+          },
+          "coords": [
+            7.9022,
+            47.3533
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:51",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für Fotos vom Fluss Aare und der Altstadt.",
+            "hu": "Tökéletes hely fotózásra az Aare folyóról és az óvárosról.",
+            "ro": "Un loc perfect pentru fotografii cu râul Aare și centrul vechi.",
+            "en": "A perfect spot for photos of the Aare river and the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstmuseum Olten",
+            "hu": "Olteni Művészeti Múzeum",
+            "ro": "Muzeul de Artă din Olten",
+            "en": "Olten Art Museum"
+          },
+          "coords": [
+            7.9001,
+            47.3505
+          ],
+          "category": "museums",
+          "arrive_at": "12:06",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Sammlung Schweizer Kunst des 19. und 20. Jahrhunderts.",
+            "hu": "Koncentráljon a 19. és 20. századi svájci művészeti gyűjteményre.",
+            "ro": "Concentrați-vă pe colecția de artă elvețiană din secolele XIX și XX.",
+            "en": "Focus on the collection of 19th and 20th-century Swiss art."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturmuseum Olten",
+            "hu": "Olteni Természettudományi Múzeum",
+            "ro": "Muzeul de Istorie Naturală Olten",
+            "en": "Olten Natural History Museum"
+          },
+          "coords": [
+            7.8995,
+            47.35
+          ],
+          "category": "museums",
+          "arrive_at": "13:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ideal für Familien, mit vielen interaktiven Ausstellungen zur lokalen Flora und Fauna.",
+            "hu": "Ideális családoknak, sok interaktív kiállítással a helyi flóráról és faunáról.",
+            "ro": "Ideal pentru familii, cu multe exponate interactive despre flora și fauna locală.",
+            "en": "Great for families, with many interactive exhibits on local flora and fauna."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapuzinerkloster Olten",
+            "hu": "Olteni Kapucinus Kolostor",
+            "ro": "Mănăstirea Capucinilor din Olten",
+            "en": "Capuchin Monastery Olten"
+          },
+          "coords": [
+            7.908,
+            47.348
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Stille im Klostergarten, eine Oase der Ruhe.",
+            "hu": "Élvezze a csendet a kolostorkertben, a nyugalom oázisában.",
+            "ro": "Bucurați-vă de liniștea din grădina mănăstirii, o oază de pace.",
+            "en": "Enjoy the silence in the monastery garden, an oasis of peace."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtturm Olten",
+            "hu": "Olteni Várostorony",
+            "ro": "Turnul Orașului Olten",
+            "en": "Olten City Tower"
+          },
+          "coords": [
+            7.9062,
+            47.3512
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:12",
+          "stay_min": 43,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besteigen Sie den Turm für einen Panoramablick über die Dächer von Olten.",
+            "hu": "Másszon fel a toronyba, ahonnan panorámás kilátás nyílik Olten háztetőire.",
+            "ro": "Urcați în turn pentru o vedere panoramică asupra acoperișurilor din Olten.",
+            "en": "Climb the tower for a panoramic view over the rooftops of Olten."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Olten beginnt in der charmanten Altstadt. Nach der Erkundung historischer Gassen überqueren Sie die berühmte Holzbrücke. Am Nachmittag tauchen Sie in die lokale Kultur und Natur in den Museen der Stadt ein. Der Abend klingt mit einem Spaziergang durch das ruhige Klosterviertel und einem Aufstieg auf den Stadtturm für eine letzte Aussicht aus.",
+        "hu": "Az olteni napja a bájos óvárosban kezdődik. A történelmi sikátorok felfedezése után átkel a híres fahídon. Délután elmerül a helyi kultúrában és természetben a város múzeumaiban. Az este egy sétával zárul a csendes kolostornegyedben és egy mászással a várostoronyba az utolsó kilátásért.",
+        "ro": "Ziua dumneavoastră în Olten începe în fermecătorul Centru Vechi. După explorarea aleilor istorice, traversați faimosul pod de lemn. După-amiaza vă scufundați în cultura și natura locală la muzeele orașului. Seara se încheie cu o plimbare prin cartierul liniștit al mănăstirii și o urcare în turnul orașului pentru o ultimă priveliște.",
+        "en": "Your day in Olten begins in the charming Old Town. After exploring historic alleys, you cross the famous wooden bridge. In the afternoon, you delve into local culture and nature at the city's museums. The evening concludes with a walk through the quiet monastery district and a climb up the city tower for a final view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Aargauer Rüeblitorte",
+            "tip": "Probieren Sie diesen berühmten Karottenkuchen in einer lokalen Konditorei."
+          },
+          {
+            "name": "Restaurant Flügelrad",
+            "tip": "Bekannt für seine solide Schweizer Küche und die Nähe zum Bahnhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aargaui répatorta",
+            "tip": "Kóstolja meg ezt a híres sárgarépatortát egy helyi cukrászdában."
+          },
+          {
+            "name": "Flügelrad Étterem",
+            "tip": "Ismert a megbízható svájci konyhájáról és a vasútállomás közelségéről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tort de morcovi Aargauer",
+            "tip": "Încercați acest faimos tort de morcovi la o cofetărie locală."
+          },
+          {
+            "name": "Restaurant Flügelrad",
+            "tip": "Cunoscut pentru bucătăria elvețiană solidă și apropierea de gară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Aargauer carrot cake",
+            "tip": "Try this famous carrot cake at a local pastry shop."
+          },
+          {
+            "name": "Restaurant Flügelrad",
+            "tip": "Known for its solid Swiss cuisine and proximity to the train station."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aareufer",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses ist perfekt, um dem Trubel zu entkommen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Klostergarten",
+            "tip": "Eine versteckte Oase der Stille mitten in der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aare-part",
+            "tip": "Egy csendes séta a folyó mentén tökéletes a nyüzsgés elől való meneküléshez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kolostorkert",
+            "tip": "A csend rejtett oázisa a város közepén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Aare",
+            "tip": "O plimbare liniștită de-a lungul râului este perfectă pentru a scăpa de agitație.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina mănăstirii",
+            "tip": "O oază ascunsă de liniște în mijlocul orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Aare riverbank",
+            "tip": "A quiet walk along the river is perfect for escaping the bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Monastery Garden",
+            "tip": "A hidden oasis of silence in the middle of the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Jeden Samstagmorgen auf der Bifangstrasse für lokale Produkte."
+          },
+          {
+            "name": "Kirchgasse",
+            "tip": "Finden Sie kleine Boutiquen und Fachgeschäfte in der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Minden szombat reggel a Bifangstrasse-n helyi termékekért."
+          },
+          {
+            "name": "Kirchgasse",
+            "tip": "Találjon kis butikokat és szaküzleteket az óvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "În fiecare sâmbătă dimineața pe Bifangstrasse pentru produse locale."
+          },
+          {
+            "name": "Kirchgasse",
+            "tip": "Găsiți mici buticuri și magazine specializate în Centrul Vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Every Saturday morning on Bifangstrasse for local products."
+          },
+          {
+            "name": "Kirchgasse",
+            "tip": "Find small boutiques and specialty shops in the Old Town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Museen sind montags geschlossen, planen Sie entsprechend.",
+          "Halten Sie Ausschau nach den vielen kleinen Brunnen mit Trinkwasser."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óvárosi macskakövek egyenetlenek lehetnek.",
+          "A legtöbb múzeum hétfőn zárva tart, tervezzen ennek megfelelően.",
+          "Figyeljen a sok kis ivóvízzel ellátott kútra."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavelele din Centrul Vechi pot fi denivelate.",
+          "Majoritatea muzeelor sunt închise lunea, planificați-vă în consecință.",
+          "Fiți atenți la numeroasele fântâni mici cu apă potabilă."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the Old Town can be uneven.",
+          "Most museums are closed on Mondays, so plan accordingly.",
+          "Look out for the many small fountains with drinking water."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Alte Holzbrücke",
+            "hu": "Régi Fahíd",
+            "ro": "Vechiul Pod de Lemn",
+            "en": "Old Wooden Bridge"
+          },
+          "coords": [
+            7.9022,
+            47.3533
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie hier, um sofort die Schönheit des Flusses Aare zu genießen.",
+            "hu": "Kezdje itt, hogy azonnal élvezhesse az Aare folyó szépségét.",
+            "ro": "Începeți de aici pentru a vă bucura imediat de frumusețea râului Aare.",
+            "en": "Start here to immediately enjoy the beauty of the Aare river."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Altstadt",
+            "hu": "Városháza és Óváros",
+            "ro": "Primăria și Centrul Vechi",
+            "en": "Town Hall & Old Town"
+          },
+          "coords": [
+            7.9045,
+            47.3518
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und erkunden Sie die engen Gassen zu Fuß.",
+            "hu": "Zárja le a kerékpárját, és fedezze fel gyalog a szűk sikátorokat.",
+            "ro": "Încuiați-vă bicicleta și explorați aleile înguste pe jos.",
+            "en": "Lock up your bike and explore the narrow alleys on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstmuseum & Naturmuseum",
+            "hu": "Művészeti és Természettudományi Múzeum",
+            "ro": "Muzeul de Artă și de Istorie Naturală",
+            "en": "Art & Natural History Museum"
+          },
+          "coords": [
+            7.9001,
+            47.3505
+          ],
+          "category": "museums",
+          "arrive_at": "10:21",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Diese beiden Museen liegen nebeneinander, perfekt für einen Kulturbesuch.",
+            "hu": "Ez a két múzeum egymás mellett található, tökéletes egy kulturális látogatáshoz.",
+            "ro": "Aceste două muzee sunt situate unul lângă celălalt, perfecte pentru o vizită culturală.",
+            "en": "These two museums are located next to each other, perfect for a cultural visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapuzinerkloster Olten",
+            "hu": "Olteni Kapucinus Kolostor",
+            "ro": "Mănăstirea Capucinilor din Olten",
+            "en": "Capuchin Monastery Olten"
+          },
+          "coords": [
+            7.908,
+            47.348
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der kurze Anstieg zum Kloster lohnt sich für die Ruhe und den Frieden.",
+            "hu": "A rövid emelkedő a kolostorhoz megéri a csendért és a békéért.",
+            "ro": "Scurta urcare la mănăstire merită pentru liniște și pace.",
+            "en": "The short climb to the monastery is worth it for the peace and quiet."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Aareufer",
+            "hu": "Ebéd az Aare partján",
+            "ro": "Prânz pe malul râului Aare",
+            "en": "Lunch at the Aare riverbank"
+          },
+          "coords": [
+            7.895,
+            47.355
+          ],
+          "category": "gastro",
+          "arrive_at": "13:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Suchen Sie sich ein schönes Plätzchen für ein Picknick oder besuchen Sie ein Restaurant am Fluss.",
+            "hu": "Keressen egy szép helyet egy piknikhez, vagy látogasson el egy folyóparti étterembe.",
+            "ro": "Găsiți un loc frumos pentru un picnic sau vizitați un restaurant pe malul râului.",
+            "en": "Find a nice spot for a picnic or visit a riverside restaurant."
+          }
+        },
+        {
+          "name": {
+            "de": "Sälischlössli",
+            "hu": "Sälischlössli",
+            "ro": "Sälischlössli",
+            "en": "Sälischlössli"
+          },
+          "coords": [
+            7.925,
+            47.335
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:13",
+          "stay_min": 60,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Aufstieg ist eine Herausforderung, aber die Aussicht ist die beste in der Region.",
+            "hu": "A mászás kihívást jelent, de a kilátás a legjobb a régióban.",
+            "ro": "Urcușul este o provocare, dar priveliștea este cea mai bună din regiune.",
+            "en": "The climb is challenging, but the view is the best in the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtturm Olten",
+            "hu": "Olteni Várostorony",
+            "ro": "Turnul Orașului Olten",
+            "en": "Olten City Tower"
+          },
+          "coords": [
+            7.9062,
+            47.3512
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:25",
+          "stay_min": 35,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem letzten Blick über die Stadt, die Sie erkundet haben.",
+            "hu": "Fejezze be a túrát egy utolsó pillantással a felfedezett városra.",
+            "ro": "Încheiați turul cu o ultimă privire asupra orașului pe care l-ați explorat.",
+            "en": "End your tour with a final look over the city you've explored."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet an der Aare und führt Sie schnell ins Herz der Altstadt. Nach einer Dosis Kultur in den Museen machen Sie eine Pause am Flussufer. Der Nachmittag ist für den sportlichen Anstieg zum Sälischlössli reserviert, der Sie mit einer unglaublichen Aussicht belohnt. Zurück in der Stadt beenden Sie den Tag mit dem Blick vom Stadtturm.",
+        "hu": "A kerékpártúra az Aare-folyónál kezdődik, és gyorsan elvezeti Önt az óváros szívébe. A múzeumokban szerzett kulturális adag után pihenjen a folyóparton. A délután a Sälischlössli-hez való sportos emelkedőre van fenntartva, amely hihetetlen kilátással jutalmazza. Visszatérve a városba, a napot a Várostoronyból nyíló kilátással zárja.",
+        "ro": "Turul cu bicicleta începe de la râul Aare și vă duce rapid în inima Centrului Vechi. După o doză de cultură la muzee, luați o pauză pe malul râului. După-amiaza este rezervată pentru urcarea sportivă la Sälischlössli, care vă recompensează cu o priveliște incredibilă. Întorcându-vă în oraș, încheiați ziua cu priveliștea din Turnul Orașului.",
+        "en": "Your bike tour starts at the Aare river and quickly takes you to the heart of the Old Town. After a dose of culture in the museums, take a break on the riverbank. The afternoon is reserved for the athletic climb to Sälischlössli, which rewards you with an incredible view. Back in the city, you end the day with the view from the City Tower."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zuppa pavese",
+            "tip": "Eine herzhafte Brotsuppe, perfekt nach einer langen Radtour."
+          },
+          {
+            "name": "Restaurant Salmen",
+            "tip": "Bietet gehobene Küche in historischem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zuppa pavese",
+            "tip": "Kiadós kenyérleves, tökéletes egy hosszú kerékpártúra után."
+          },
+          {
+            "name": "Salmen Étterem",
+            "tip": "Elegáns konyhát kínál történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zuppa pavese",
+            "tip": "O supă de pâine consistentă, perfectă după o plimbare lungă cu bicicleta."
+          },
+          {
+            "name": "Restaurant Salmen",
+            "tip": "Oferă bucătărie rafinată într-un cadru istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zuppa pavese",
+            "tip": "A hearty bread soup, perfect after a long bike ride."
+          },
+          {
+            "name": "Restaurant Salmen",
+            "tip": "Offers fine dining in a historic setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Säli-Wald",
+            "tip": "Die Wälder rund um das Sälischlössli sind ideal für eine ruhige Pause.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Aare-Uferweg",
+            "tip": "Folgen Sie dem Fluss weg vom Stadtzentrum für friedliche Momente.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Säli-erdő",
+            "tip": "A Sälischlössli körüli erdők ideálisak egy csendes pihenőre.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Aare-parti ösvény",
+            "tip": "Kövesse a folyót a városközponttól távolabb a békés pillanatokért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Säli",
+            "tip": "Pădurile din jurul Sälischlössli sunt ideale pentru o pauză liniștită.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Cărarea de pe malul Aarei",
+            "tip": "Urmați râul departe de centrul orașului pentru momente de pace.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Säli Forest",
+            "tip": "The woods around Sälischlössli are ideal for a quiet break.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Aare riverside path",
+            "tip": "Follow the river away from the city center for peaceful moments.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Veloplus",
+            "tip": "Falls Sie Zubehör für Ihr Fahrrad benötigen."
+          },
+          {
+            "name": "Regionale Spezialitäten",
+            "tip": "Suchen Sie nach lokalen Käse- und Wurstwaren in den Delikatessengeschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Veloplus",
+            "tip": "Ha kerékpártartozékokra van szüksége."
+          },
+          {
+            "name": "Helyi specialitások",
+            "tip": "Keressen helyi sajtokat és kolbászokat a csemegeboltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Veloplus",
+            "tip": "În caz că aveți nevoie de accesorii pentru bicicletă."
+          },
+          {
+            "name": "Specialități regionale",
+            "tip": "Căutați brânzeturi și mezeluri locale în delicatese."
+          }
+        ],
+        "en": [
+          {
+            "name": "Veloplus",
+            "tip": "In case you need any accessories for your bike."
+          },
+          {
+            "name": "Regional Specialties",
+            "tip": "Look for local cheeses and sausages in the delicatessens."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Olten ist hügelig; ein E-Bike könnte eine gute Option sein.",
+          "Prüfen Sie die Öffnungszeiten des Sälischlössli-Restaurants.",
+          "Nehmen Sie viel Wasser für den Anstieg mit."
+        ],
+        "hu": [
+          "Olten dombos; egy e-bike jó lehetőség lehet.",
+          "Ellenőrizze a Sälischlössli étterem nyitvatartási idejét.",
+          "Vigyen magával sok vizet a mászáshoz."
+        ],
+        "ro": [
+          "Olten este deluros; o bicicletă electrică ar putea fi o opțiune bună.",
+          "Verificați programul de funcționare al restaurantului Sälischlössli.",
+          "Luați multă apă pentru urcare."
+        ],
+        "en": [
+          "Olten is hilly; an e-bike might be a good option.",
+          "Check the opening hours of the Sälischlössli restaurant.",
+          "Take plenty of water for the climb."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Sälischlössli",
+            "hu": "Sälischlössli parkoló",
+            "ro": "Parcare Sälischlössli",
+            "en": "Sälischlössli Parking"
+          },
+          "coords": [
+            7.924,
+            47.336
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie früh los, um einen guten Parkplatz zu bekommen. Der erste Halt ist nur der Ausgangspunkt.",
+            "hu": "Induljon korán, hogy jó parkolóhelyet találjon. Az első megálló csak a kiindulópont.",
+            "ro": "Plecați devreme pentru a prinde un loc bun de parcare. Prima oprire este doar punctul de plecare.",
+            "en": "Drive up early to get a good parking spot. The first stop is just the starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Sälischlössli Aussicht",
+            "hu": "Sälischlössli kilátó",
+            "ro": "Belvedere Sälischlössli",
+            "en": "Sälischlössli View"
+          },
+          "coords": [
+            7.925,
+            47.335
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der kurze Spaziergang vom Parkplatz lohnt sich für die atemberaubende Aussicht.",
+            "hu": "A rövid séta a parkolótól megéri a lélegzetelállító kilátásért.",
+            "ro": "Scurta plimbare de la parcare merită pentru priveliștea uluitoare.",
+            "en": "The short walk from the car park is worth it for the stunning view."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkhaus Altstadt",
+            "hu": "Óvárosi parkolóház",
+            "ro": "Parcare Centrul Vechi",
+            "en": "Old Town Parking Garage"
+          },
+          "coords": [
+            7.9015,
+            47.35
+          ],
+          "category": "transport",
+          "arrive_at": "10:35",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 9.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier, um das Stadtzentrum bequem zu Fuß zu erkunden.",
+            "hu": "Parkoljon itt, hogy kényelmesen felfedezhesse a városközpontot gyalog.",
+            "ro": "Parcați aici pentru a explora convenabil centrul orașului pe jos.",
+            "en": "Park here to conveniently explore the city center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt, Rathaus & Holzbrücke",
+            "hu": "Óváros, Városháza és Fahíd",
+            "ro": "Centrul Vechi, Primăria și Podul de Lemn",
+            "en": "Old Town, Town Hall & Wooden Bridge"
+          },
+          "coords": [
+            7.9035,
+            47.352
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:43",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für einen Spaziergang, ein Mittagessen und die Atmosphäre.",
+            "hu": "Szánjon időt egy sétára, egy ebédre és a hangulatra.",
+            "ro": "Luați-vă timp pentru o plimbare, un prânz și pentru a simți atmosfera.",
+            "en": "Take your time for a walk, lunch, and soaking in the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstmuseum Olten",
+            "hu": "Olteni Művészeti Múzeum",
+            "ro": "Muzeul de Artă din Olten",
+            "en": "Olten Art Museum"
+          },
+          "coords": [
+            7.9001,
+            47.3505
+          ],
+          "category": "museums",
+          "arrive_at": "12:51",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz bringt Sie zu diesem Juwel der Schweizer Kunst.",
+            "hu": "Egy rövid séta a főtérről elvezeti Önt a svájci művészet e gyöngyszeméhez.",
+            "ro": "O scurtă plimbare din piața principală vă duce la această bijuterie a artei elvețiene.",
+            "en": "A short walk from the main square brings you to this gem of Swiss art."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapuzinerkloster (Fahrt)",
+            "hu": "Kapucinus kolostor (autóval)",
+            "ro": "Mănăstirea Capucinilor (cu mașina)",
+            "en": "Capuchin Monastery (by car)"
+          },
+          "coords": [
+            7.908,
+            47.348
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:48",
+          "stay_min": 86,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Kloster, um den letzten ruhigen Moment des Tages zu genießen.",
+            "hu": "Vezessen el a kolostorhoz, hogy élvezze a nap utolsó csendes pillanatát.",
+            "ro": "Conduceți la mănăstire pentru a vă bucura de ultimul moment liniștit al zilei.",
+            "en": "Drive to the monastery to enjoy the last quiet moment of the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Auto auf dem Sälischlössli für eine spektakuläre Morgenansicht. Danach fahren Sie ins Zentrum, parken das Auto und erkunden den historischen Kern von Olten zu Fuß. Der Nachmittag ist der Kunst und der stillen Kontemplation gewidmet, mit einem Besuch im Kunstmuseum und einer kurzen Fahrt zum ruhigen Kapuzinerkloster.",
+        "hu": "Kezdje a napot autóval a Sälischlössli-n egy látványos reggeli kilátásért. Ezután hajtson be a központba, parkolja le az autót, és fedezze fel gyalog Olten történelmi magját. A délután a művészetnek és a csendes szemlélődésnek van szentelve, egy látogatással a Művészeti Múzeumban és egy rövid autóúttal a csendes Kapucinus kolostorhoz.",
+        "ro": "Începeți ziua cu mașina la Sälischlössli pentru o priveliște spectaculoasă de dimineață. Apoi, conduceți spre centru, parcați mașina și explorați nucleul istoric al Oltenului pe jos. După-amiaza este dedicată artei și contemplației tăcute, cu o vizită la Muzeul de Artă și o scurtă călătorie cu mașina la liniștita Mănăstire a Capucinilor.",
+        "en": "Start your day by car at Sälischlössli for a spectacular morning view. Then, drive to the center, park the car, and explore the historic core of Olten on foot. The afternoon is dedicated to art and quiet contemplation, with a visit to the Art Museum and a short drive to the peaceful Capuchin Monastery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Sälischlössli",
+            "tip": "Kombinieren Sie die Aussicht mit einem traditionellen Schweizer Mittagessen."
+          },
+          {
+            "name": "Chäs-Fritz",
+            "tip": "Kaufen Sie lokalen Käse für ein Picknick oder als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sälischlössli Étterem",
+            "tip": "Kombinálja a kilátást egy hagyományos svájci ebéddel."
+          },
+          {
+            "name": "Chäs-Fritz",
+            "tip": "Vásároljon helyi sajtot piknikre vagy szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Sälischlössli",
+            "tip": "Combinați priveliștea cu un prânz tradițional elvețian."
+          },
+          {
+            "name": "Chäs-Fritz",
+            "tip": "Cumpărați brânză locală pentru un picnic sau ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sälischlössli Restaurant",
+            "tip": "Combine the view with a traditional Swiss lunch."
+          },
+          {
+            "name": "Chäs-Fritz",
+            "tip": "Buy some local cheese for a picnic or as a souvenir."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtsplattform Sälischlössli",
+            "tip": "Der beste Ort, um den Tag mit Weitblick zu beginnen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Garten des Kapuzinerklosters",
+            "tip": "Finden Sie Frieden und Stille abseits der Touristenpfade.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sälischlössli kilátóterasz",
+            "tip": "A legjobb hely a nap tágas kilátással való kezdéséhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kapucinus kolostor kertje",
+            "tip": "Találjon békét és csendet a turistaútvonalaktól távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platforma de observare Sälischlössli",
+            "tip": "Cel mai bun loc pentru a începe ziua cu o perspectivă largă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina Mănăstirii Capucinilor",
+            "tip": "Găsiți pace și liniște departe de cărările bătătorite.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sälischlössli Observation Deck",
+            "tip": "The best place to start the day with a broad perspective.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Capuchin Monastery Garden",
+            "tip": "Find peace and quiet away from the tourist trails.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Confiserie Hofer",
+            "tip": "Berühmt für ihre Schokoladenspezialitäten, ein perfektes Geschenk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Confiserie Hofer",
+            "tip": "Híres csokoládékülönlegességeiről, tökéletes ajándék."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Confiserie Hofer",
+            "tip": "Faimos pentru specialitățile sale de ciocolată, un cadou perfect."
+          }
+        ],
+        "en": [
+          {
+            "name": "Confiserie Hofer",
+            "tip": "Famous for its chocolate specialties, a perfect gift."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkgebühren in der Innenstadt können hoch sein; nutzen Sie Park-and-Ride-Optionen, wenn verfügbar.",
+          "Das Sälischlössli ist über eine kurvenreiche Straße erreichbar; fahren Sie vorsichtig.",
+          "Planen Sie Ihre Route im Voraus, um Einbahnstraßen in der Altstadt zu vermeiden."
+        ],
+        "hu": [
+          "A belvárosi parkolási díjak magasak lehetnek; ha elérhető, használja a parkolj és utazz lehetőségeket.",
+          "A Sälischlössli egy kanyargós úton érhető el; vezessen óvatosan.",
+          "Tervezze meg előre az útvonalat, hogy elkerülje az egyirányú utcákat az óvárosban."
+        ],
+        "ro": [
+          "Taxele de parcare în centrul orașului pot fi mari; utilizați opțiunile Park-and-Ride, dacă sunt disponibile.",
+          "Sälischlössli este accesibil printr-un drum șerpuit; conduceți cu prudență.",
+          "Planificați-vă traseul în avans pentru a evita străzile cu sens unic din Centrul Vechi."
+        ],
+        "en": [
+          "Parking fees in the city center can be high; use Park-and-Ride options if available.",
+          "Sälischlössli is reached via a winding road; drive carefully.",
+          "Plan your route in advance to avoid one-way streets in the Old Town."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Busstation 'Stadtkirche'",
+            "hu": "Városi templom buszmegálló",
+            "ro": "Stația de autobuz 'Stadtkirche'",
+            "en": "'Stadtkirche' Bus Stop"
+          },
+          "coords": [
+            7.9058,
+            47.3528
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie im Herzen der Altstadt, nur wenige Schritte von Ihrer ersten Haltestelle entfernt.",
+            "hu": "Kezdje az óváros szívében, csak néhány lépésre az első megállótól.",
+            "ro": "Începeți în inima Centrului Vechi, la doar câțiva pași de prima oprire.",
+            "en": "Start in the heart of the Old Town, just steps from your first stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtkirche, Rathaus & Stadtturm",
+            "hu": "Városi templom, Városháza és Várostorony",
+            "ro": "Biserica, Primăria și Turnul Orașului",
+            "en": "City Church, Town Hall & City Tower"
+          },
+          "coords": [
+            7.905,
+            47.352
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen Cluster von Sehenswürdigkeiten zu Fuß.",
+            "hu": "Fedezze fel gyalog ezt a látnivaló-csoportot.",
+            "ro": "Explorați acest grup de atracții pe jos.",
+            "en": "Explore this cluster of sights on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Holzbrücke",
+            "hu": "Régi Fahíd",
+            "ro": "Vechiul Pod de Lemn",
+            "en": "Old Wooden Bridge"
+          },
+          "coords": [
+            7.9022,
+            47.3533
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:53",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang bringt Sie zu diesem ikonischen Wahrzeichen.",
+            "hu": "Egy rövid séta elvezeti Önt ehhez az ikonikus nevezetességhez.",
+            "ro": "O scurtă plimbare vă duce la acest reper iconic.",
+            "en": "A short walk takes you to this iconic landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Busstation 'Kunstmuseum'",
+            "hu": "Művészeti Múzeum buszmegálló",
+            "ro": "Stația de autobuz 'Muzeul de Artă'",
+            "en": "'Kunstmuseum' Bus Stop"
+          },
+          "coords": [
+            7.899,
+            47.3508
+          ],
+          "category": "transport",
+          "arrive_at": "11:42",
+          "stay_min": 0,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Museumsviertel.",
+            "hu": "Menjen busszal a múzeumi negyedbe.",
+            "ro": "Luați un autobuz spre cartierul muzeelor.",
+            "en": "Take a bus to the museum district."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstmuseum & Naturmuseum",
+            "hu": "Művészeti és Természettudományi Múzeum",
+            "ro": "Muzeul de Artă și de Istorie Naturală",
+            "en": "Art & Natural History Museum"
+          },
+          "coords": [
+            7.9001,
+            47.3505
+          ],
+          "category": "museums",
+          "arrive_at": "11:46",
+          "stay_min": 180,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie genug Zeit für beide Museen und eine Mittagspause in der Nähe ein.",
+            "hu": "Tervezzen elegendő időt mindkét múzeumra és egy ebédszünetre a közelben.",
+            "ro": "Planificați suficient timp pentru ambele muzee și o pauză de prânz în apropiere.",
+            "en": "Plan enough time for both museums and a lunch break nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapuzinerkloster Olten",
+            "hu": "Olteni Kapucinus Kolostor",
+            "ro": "Mănăstirea Capucinilor din Olten",
+            "en": "Capuchin Monastery Olten"
+          },
+          "coords": [
+            7.908,
+            47.348
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein letzter Bus bringt Sie zu diesem Ort der Ruhe.",
+            "hu": "Egy utolsó busz viszi el Önt erre a csendes helyre.",
+            "ro": "Un ultim autobuz vă duce la acest loc de liniște.",
+            "en": "A final bus ride takes you to this place of tranquility."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Bus erreichen Sie mühelos die Altstadt von Olten. Erkunden Sie den ersten Cluster von Sehenswürdigkeiten zu Fuß. Eine weitere kurze Busfahrt bringt Sie zu den Museen, wo Sie den Mittag verbringen. Der Tag endet mit einer Fahrt zum Kapuzinerkloster, einer Oase der Stille, die den perfekten Abschluss für Ihre Erkundungstour bildet.",
+        "hu": "Busszal könnyedén elérheti Olten óvárosát. Fedezze fel gyalog az első látnivaló-csoportot. Egy újabb rövid buszút elviszi a múzeumokhoz, ahol a délt tölti. A nap a Kapucinus kolostorhoz való utazással ér véget, amely a csend oázisa, és tökéletes lezárása a felfedező túrának.",
+        "ro": "Cu autobuzul, ajungeți fără efort în Centrul Vechi din Olten. Explorați primul grup de atracții pe jos. O altă călătorie scurtă cu autobuzul vă duce la muzee, unde vă petreceți amiaza. Ziua se încheie cu o călătorie la Mănăstirea Capucinilor, o oază de liniște care oferă finalul perfect pentru turul dumneavoastră de explorare.",
+        "en": "Using the bus, you can effortlessly reach Olten's Old Town. Explore the first cluster of sights on foot. Another short bus ride takes you to the museums, where you'll spend midday. The day ends with a trip to the Capuchin Monastery, an oasis of tranquility that provides the perfect conclusion to your exploratory tour."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bahnhofbuffet Olten",
+            "tip": "Ein Klassiker für Reisende, probieren Sie das 'Oltner Tellerservice'."
+          },
+          {
+            "name": "Café Ring",
+            "tip": "Bekannt für seine Patisserie und als Treffpunkt der Einheimischen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olteni Vasútállomás Büfé",
+            "tip": "Klasszikus utazóknak, kóstolja meg az 'Oltner Tellerservice'-t."
+          },
+          {
+            "name": "Ring Kávézó",
+            "tip": "Ismert süteményeiről és a helyiek találkozóhelyeként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bufetul Gării Olten",
+            "tip": "Un clasic pentru călători, încercați 'Oltner Tellerservice'."
+          },
+          {
+            "name": "Cafeneaua Ring",
+            "tip": "Cunoscută pentru patiseria sa și ca punct de întâlnire pentru localnici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Olten Station Buffet",
+            "tip": "A classic for travelers, try the 'Oltner Tellerservice'."
+          },
+          {
+            "name": "Café Ring",
+            "tip": "Known for its pastry and as a meeting point for locals."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtpark",
+            "tip": "Leicht mit dem Bus zu erreichen und perfekt für eine kurze Pause im Grünen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Leseecke im Kunstmuseum",
+            "tip": "Eine ruhige Ecke, umgeben von Kunst.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városliget",
+            "tip": "Könnyen megközelíthető busszal, és tökéletes egy rövid zöld pihenőre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Olvasósarok a Művészeti Múzeumban",
+            "tip": "Egy csendes sarok, művészettel körülvéve.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Orașului",
+            "tip": "Ușor accesibil cu autobuzul și perfect pentru o scurtă pauză în natură.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Colțul de lectură din Muzeul de Artă",
+            "tip": "Un colț liniștit înconjurat de artă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Park",
+            "tip": "Easily accessible by bus and perfect for a short green break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Reading corner in the Art Museum",
+            "tip": "A quiet corner surrounded by art.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "SBB Bahnhofsgeschäfte",
+            "tip": "Die Geschäfte am Bahnhof sind auch sonntags geöffnet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "SBB Vasútállomási üzletek",
+            "tip": "A vasútállomáson lévő üzletek vasárnap is nyitva tartanak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele din gara SBB",
+            "tip": "Magazinele din gară sunt deschise și duminica."
+          }
+        ],
+        "en": [
+          {
+            "name": "SBB Railway Station Shops",
+            "tip": "The shops at the train station are also open on Sundays."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den öffentlichen Verkehr, um Geld zu sparen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere für die letzte Fahrt des Tages.",
+          "Die meisten Busse sind barrierefrei."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
+          "Ellenőrizze előre a buszmenetrendet, különösen a nap utolsó járatát.",
+          "A legtöbb busz akadálymentesített."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru transportul public pentru a economisi bani.",
+          "Verificați programul autobuzelor în avans, în special pentru ultima cursă a zilei.",
+          "Majoritatea autobuzelor sunt accesibile pentru scaune cu rotile."
+        ],
+        "en": [
+          "Buy a day pass for public transport to save money.",
+          "Check the bus schedule in advance, especially for the last trip of the day.",
+          "Most buses are wheelchair accessible."
+        ]
+      }
+    }
+  }
+}

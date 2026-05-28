@@ -1,0 +1,1562 @@
+{
+  "city_id": "city-st-julians-extra",
+  "anchor": {
+    "name": "St. Julian's",
+    "coords": [
+      14.4897,
+      35.9189
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.1,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Balluta-Bucht",
+            "hu": "Balluta-öböl",
+            "ro": "Golful Balluta",
+            "en": "Balluta Bay"
+          },
+          "coords": [
+            14.4949,
+            35.9145
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee in einem der Cafés mit Blick auf die Bucht.",
+            "hu": "Kezdje a napot egy kávéval az öbölre néző kávézók egyikében.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele cu vedere la golf.",
+            "en": "Start your day with a coffee at one of the cafes overlooking the bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Karmeliterkirche Balluta",
+            "hu": "Balluta Karmelita templom",
+            "ro": "Biserica Carmelită din Balluta",
+            "en": "Balluta Carmelite Church"
+          },
+          "coords": [
+            14.4944,
+            35.9141
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neugotische Architektur und die friedliche Atmosphäre im Inneren.",
+            "hu": "Csodálja meg a neogótikus építészetet és a békés belső hangulatot.",
+            "ro": "Admirați arhitectura neogotică și atmosfera liniștită din interior.",
+            "en": "Admire the neo-gothic architecture and the peaceful atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Spinola-Bucht",
+            "hu": "Spinola-öböl",
+            "ro": "Golful Spinola",
+            "en": "Spinola Bay"
+          },
+          "coords": [
+            14.4903,
+            35.9194
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:39",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beobachten Sie die traditionellen bunten Luzzu-Fischerboote.",
+            "hu": "Figyelje meg a hagyományos, színes Luzzu halászhajókat.",
+            "ro": "Urmăriți bărcile de pescuit tradiționale și colorate, Luzzu.",
+            "en": "Watch the traditional colourful Luzzu fishing boats."
+          }
+        },
+        {
+          "name": {
+            "de": "LOVE-Denkmal",
+            "hu": "LOVE emlékmű",
+            "ro": "Monumentul LOVE",
+            "en": "LOVE Monument"
+          },
+          "coords": [
+            14.4908,
+            35.9205
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:43",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto – das Wort 'LOVE' spiegelt sich im Wasser.",
+            "hu": "Készítsen egy fotót – a 'LOVE' szó visszatükröződik a vízben.",
+            "ro": "Faceți o fotografie – cuvântul „LOVE” se reflectă în apă.",
+            "en": "Take a photo – the word 'LOVE' reflects in the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Paceville",
+            "hu": "Paceville",
+            "ro": "Paceville",
+            "en": "Paceville"
+          },
+          "coords": [
+            14.4918,
+            35.9225
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:08",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tagsüber ruhig, aber ein guter Ort für ein Mittagessen, bevor es nachts lebendig wird.",
+            "hu": "Napközben csendes, de remek hely egy ebédre, mielőtt éjjel életre kel.",
+            "ro": "Liniștit în timpul zilei, dar un loc bun pentru prânz înainte de a prinde viață noaptea.",
+            "en": "Quiet during the day, but a good spot for lunch before it comes alive at night."
+          }
+        },
+        {
+          "name": {
+            "de": "Portomaso Tower",
+            "hu": "Portomaso-torony",
+            "ro": "Turnul Portomaso",
+            "en": "Portomaso Tower"
+          },
+          "coords": [
+            14.4883,
+            35.9218
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:46",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Maltas höchstes Gebäude. Der beste Blick darauf ist von der Spinola-Bucht aus.",
+            "hu": "Málta legmagasabb épülete. A legjobb kilátás a Spinola-öbölből nyílik rá.",
+            "ro": "Cea mai înaltă clădire din Malta. Cea mai bună priveliște este din Golful Spinola.",
+            "en": "Malta's tallest building. The best view of it is from across Spinola Bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Dragonara-Palast",
+            "hu": "Dragonara-palota",
+            "ro": "Palatul Dragonara",
+            "en": "Dragonara Palace"
+          },
+          "coords": [
+            14.4945,
+            35.9254
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:27",
+          "stay_min": 30,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beherbergt ein Casino, aber die Architektur ist auch von außen beeindruckend.",
+            "hu": "Egy kaszinónak ad otthont, de az építészete kívülről is lenyűgöző.",
+            "ro": "Găzduiește un cazinou, dar arhitectura este impresionantă și din exterior.",
+            "en": "It hosts a casino, but the architecture is impressive even from the outside."
+          }
+        },
+        {
+          "name": {
+            "de": "St. George’s Bay",
+            "hu": "Szent György-öböl",
+            "ro": "Golful St. George",
+            "en": "St. George's Bay"
+          },
+          "coords": [
+            14.4938,
+            35.9262
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:21",
+          "stay_min": 154,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein Sandstrand, ideal zum Entspannen und Schwimmen am Ende des Tages.",
+            "hu": "Homokos strand, tökéletes a nap végi pihenéshez és úszáshoz.",
+            "ro": "O plajă cu nisip, perfectă pentru relaxare și înot la sfârșitul zilei.",
+            "en": "A sandy beach, perfect for relaxing and swimming at the end of the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang beginnt an der eleganten Balluta-Bucht, wo Sie die neugotische Karmeliterkirche bewundern können. Weiter geht es zur malerischen Spinola-Bucht mit ihren traditionellen Fischerbooten, ein perfekter Ort für Fotos. Am Mittag erkunden Sie Paceville, das pulsierende Herz von St. Julian's, wo Sie zu Mittag essen. Der Nachmittag ist entspannter und führt Sie zum hoch aufragenden Portomaso Tower und dem historischen Dragonara-Palast. Der Tag endet an der St. George's Bay, wo Sie am Sandstrand entspannen oder im klaren Wasser schwimmen können.",
+        "hu": "Sétája az elegáns Balluta-öbölnél kezdődik, megcsodálva a neogótikus Karmelita templomot. Továbbsétál a festői Spinola-öbölhöz, a hagyományos halászhajóival, ami tökéletes fotóhelyszín. Délben felfedezi Paceville-t, St. Julian's lüktető szívét egy ebédre. A délután nyugodtabb, elvezeti a magasba törő Portomaso-toronyhoz és a történelmi Dragonara-palotához. A napot a Szent György-öbölben zárja, pihenve a homokos parton vagy úszva a tiszta vízben.",
+        "ro": "Plimbarea dvs. începe în elegantul Golf Balluta, admirând Biserica Carmelită neogotică. Continuați spre pitorescul Golf Spinola, cu bărcile sale de pescuit tradiționale, un loc perfect pentru fotografii. La prânz, explorați Paceville, inima vibrantă a orașului St. Julian's, pentru masa de prânz. După-amiaza este mai relaxată, ducându-vă la impunătorul Turn Portomaso și la istoricul Palat Dragonara. Încheiați ziua în Golful St. George, relaxându-vă pe plaja cu nisip sau înotând în apele limpezi.",
+        "en": "Your walk begins at the elegant Balluta Bay, admiring the neo-gothic Carmelite Church. Continue to the picturesque Spinola Bay with its traditional fishing boats, a perfect photo spot. At midday, you'll explore Paceville, the vibrant heart of St. Julian's, for lunch. The afternoon is more relaxed, leading you to the towering Portomaso Tower and the historic Dragonara Palace. End your day at St. George's Bay, relaxing on the sandy beach or swimming in the clear waters."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lampuki-Kuchen (Fischpastete)",
+            "tip": "Eine lokale Spezialität, besonders in der Saison (September-Dezember)."
+          },
+          {
+            "name": "Peppino's",
+            "tip": "Italienische und maltesische Küche mit herrlichem Blick auf die Spinola-Bucht."
+          },
+          {
+            "name": "Wigi's Kitchen",
+            "tip": "Bekannt für frische Meeresfrüchte und exzellenten Service."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lampuki pite (halas pite)",
+            "tip": "Helyi specialitás, különösen a szezonban (szeptember-december)."
+          },
+          {
+            "name": "Peppino's",
+            "tip": "Olasz és máltai konyha, lenyűgöző kilátással a Spinola-öbölre."
+          },
+          {
+            "name": "Wigi's Kitchen",
+            "tip": "Friss tenger gyümölcseiről és kiváló kiszolgálásáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plăcintă Lampuki (plăcintă cu pește)",
+            "tip": "O specialitate locală, mai ales în sezon (septembrie-decembrie)."
+          },
+          {
+            "name": "Peppino's",
+            "tip": "Bucătărie italiană și malteză cu o vedere superbă la Golful Spinola."
+          },
+          {
+            "name": "Wigi's Kitchen",
+            "tip": "Renumit pentru fructele de mare proaspete și serviciile excelente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lampuki Pie (fish pie)",
+            "tip": "A local specialty, especially during the season (September-December)."
+          },
+          {
+            "name": "Peppino's",
+            "tip": "Italian and Maltese cuisine with a stunning view of Spinola Bay."
+          },
+          {
+            "name": "Wigi's Kitchen",
+            "tip": "Known for fresh seafood and excellent service."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spinola-Bucht am frühen Morgen",
+            "tip": "Erleben Sie die Ruhe, bevor die Stadt aufwacht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spaziergang von Balluta nach Spinola",
+            "tip": "Ein friedlicher Küstenspaziergang mit schöner Aussicht.",
+            "emoji": "🚶‍♀️"
+          },
+          {
+            "name": "St. George's Bay am späten Nachmittag",
+            "tip": "Entspannen Sie am Strand, wenn die Menschenmassen weniger werden.",
+            "emoji": "🏖️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kora reggel a Spinola-öbölben",
+            "tip": "Tapasztalja meg a nyugalmat, mielőtt a város felébred.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Séta Ballutából Spinolába",
+            "tip": "Békés tengerparti séta gyönyörű kilátással.",
+            "emoji": "🚶‍♀️"
+          },
+          {
+            "name": "Késő délután a Szent György-öbölben",
+            "tip": "Pihenjen a parton, amikor a tömeg csökken.",
+            "emoji": "🏖️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golful Spinola dimineața devreme",
+            "tip": "Experimentați liniștea înainte ca orașul să se trezească.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plimbare de la Balluta la Spinola",
+            "tip": "O plimbare liniștită pe coastă cu priveliști frumoase.",
+            "emoji": "🚶‍♀️"
+          },
+          {
+            "name": "Golful St. George după-amiaza târziu",
+            "tip": "Relaxați-vă pe plajă când mulțimea se dispersează.",
+            "emoji": "🏖️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Spinola Bay in the early morning",
+            "tip": "Experience the tranquility before the town wakes up.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Walk from Balluta to Spinola",
+            "tip": "A peaceful coastal walk with beautiful views.",
+            "emoji": "🚶‍♀️"
+          },
+          {
+            "name": "St. George's Bay late afternoon",
+            "tip": "Relax on the beach as the crowds thin out.",
+            "emoji": "🏖️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bay Street Shopping Complex",
+            "tip": "Eine Mischung aus lokalen und internationalen Marken in der Nähe von Paceville."
+          },
+          {
+            "name": "Souvenirläden an der Promenade",
+            "tip": "Finden Sie lokales Handwerk und mementos entlang der Küste."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bay Street bevásárlóközpont",
+            "tip": "Helyi és nemzetközi márkák keveréke Paceville közelében."
+          },
+          {
+            "name": "Szuvenírboltok a sétányon",
+            "tip": "Találjon helyi kézműves termékeket és emléktárgyakat a part mentén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Complexul Comercial Bay Street",
+            "tip": "Un amestec de mărci locale și internaționale lângă Paceville."
+          },
+          {
+            "name": "Magazine de suveniruri pe promenadă",
+            "tip": "Găsiți artizanat local și suveniruri de-a lungul coastei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bay Street Shopping Complex",
+            "tip": "A mix of local and international brands near Paceville."
+          },
+          {
+            "name": "Promenade Souvenir Shops",
+            "tip": "Find local crafts and mementos along the waterfront."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Eine wiederverwendbare Wasserflasche ist unerlässlich, besonders in den wärmeren Monaten.",
+          "Die Bürgersteige können eng sein, achten Sie also auf den Verkehr.",
+          "Beginnen Sie früh, um die Mittagshitze und die Menschenmassen zu vermeiden."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog sétálni.",
+          "Az újratölthető vizes palack elengedhetetlen, különösen a melegebb hónapokban.",
+          "A járdák szűkek lehetnek, ezért figyeljen a forgalomra.",
+          "Kezdje korán, hogy elkerülje a déli hőséget és a tömeget."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge mult pe jos.",
+          "O sticlă de apă reutilizabilă este esențială, mai ales în lunile mai calde.",
+          "Trotuarele pot fi înguste, așa că fiți atenți la trafic.",
+          "Începeți devreme pentru a evita căldura de la amiază și aglomerația."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "A reusable water bottle is essential, especially in the warmer months.",
+          "The pavements can be narrow, so be mindful of traffic.",
+          "Start early to avoid the midday heat and crowds."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 5.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Balluta-Bucht",
+            "hu": "Balluta-öböl",
+            "ro": "Golful Balluta",
+            "en": "Balluta Bay"
+          },
+          "coords": [
+            14.4949,
+            35.9145
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Perfekter Startpunkt, um die Küstenpromenade entlangzuradeln.",
+            "hu": "Tökéletes kiindulópont a tengerparti sétányon való biciklizéshez.",
+            "ro": "Punct de plecare perfect pentru a pedala de-a lungul promenadei de pe faleză.",
+            "en": "Perfect starting point to cycle along the seafront promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Karmeliterkirche Balluta",
+            "hu": "Balluta Karmelita templom",
+            "ro": "Biserica Carmelită din Balluta",
+            "en": "Balluta Carmelite Church"
+          },
+          "coords": [
+            14.4944,
+            35.9141
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:37",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und nehmen Sie sich einen Moment Zeit für die Ruhe im Inneren.",
+            "hu": "Zárja le a biciklijét, és szánjon egy percet a benti csendre.",
+            "ro": "Încuiați-vă bicicleta și admirați liniștea din interior.",
+            "en": "Lock up your bike and take a moment for the tranquility inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Spinola-Bucht",
+            "hu": "Spinola-öböl",
+            "ro": "Golful Spinola",
+            "en": "Spinola Bay"
+          },
+          "coords": [
+            14.4903,
+            35.9194
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:12",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Eine belebte Gegend, fahren Sie langsam und genießen Sie die Aussicht.",
+            "hu": "Forgalmas terület, lassan tekerjen és élvezze a kilátást.",
+            "ro": "O zonă aglomerată, pedalați încet și bucurați-vă de priveliște.",
+            "en": "A busy area, cycle slowly and enjoy the views."
+          }
+        },
+        {
+          "name": {
+            "de": "LOVE-Denkmal",
+            "hu": "LOVE emlékmű",
+            "ro": "Monumentul LOVE",
+            "en": "LOVE Monument"
+          },
+          "coords": [
+            14.4908,
+            35.9205
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:59",
+          "stay_min": 10,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein schneller Stopp für ein ikonisches Foto.",
+            "hu": "Gyors megálló egy ikonikus fotóért.",
+            "ro": "O oprire rapidă pentru o fotografie iconică.",
+            "en": "A quick stop for an iconic photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Paceville",
+            "hu": "Paceville",
+            "ro": "Paceville",
+            "en": "Paceville"
+          },
+          "coords": [
+            14.4918,
+            35.9225
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und erkunden Sie die Gassen zu Fuß, bevor Sie zu Mittag essen.",
+            "hu": "Parkolja le a biciklit, és fedezze fel a sikátorokat gyalog ebéd előtt.",
+            "ro": "Parcați-vă bicicleta și explorați aleile pe jos înainte de a lua prânzul.",
+            "en": "Park your bike and explore the alleys on foot before grabbing lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Portomaso Tower",
+            "hu": "Portomaso-torony",
+            "ro": "Turnul Portomaso",
+            "en": "Portomaso Tower"
+          },
+          "coords": [
+            14.4883,
+            35.9218
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:37",
+          "stay_min": 20,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Radeln Sie um den Jachthafen herum für einen großartigen Blick auf den Turm.",
+            "hu": "Tekerjen körbe a kikötő körül, hogy remek kilátás nyíljon a toronyra.",
+            "ro": "Pedalați în jurul portului de agrement pentru o priveliște minunată a turnului.",
+            "en": "Cycle around the marina for a great view of the tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Dragonara-Palast",
+            "hu": "Dragonara-palota",
+            "ro": "Palatul Dragonara",
+            "en": "Dragonara Palace"
+          },
+          "coords": [
+            14.4945,
+            35.9254
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:06",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Der Palast thront auf einer Halbinsel und bietet eine dramatische Kulisse.",
+            "hu": "A palota egy félszigeten áll, drámai látványt nyújtva.",
+            "ro": "Palatul este cocoțat pe o peninsulă, creând un fundal dramatic.",
+            "en": "The palace is perched on a peninsula, creating a dramatic backdrop."
+          }
+        },
+        {
+          "name": {
+            "de": "St. George’s Bay",
+            "hu": "Szent György-öböl",
+            "ro": "Golful St. George",
+            "en": "St. George's Bay"
+          },
+          "coords": [
+            14.4938,
+            35.9262
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:43",
+          "stay_min": 198,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Sperren Sie Ihr Fahrrad ab und verbringen Sie den Rest des Nachmittags mit Schwimmen und Sonnenbaden.",
+            "hu": "Zárja le a biciklit, és töltse a délután hátralévő részét úszással és napozással.",
+            "ro": "Asigurați-vă bicicleta și petreceți restul după-amiezii înotând și făcând plajă.",
+            "en": "Lock up your bike and spend the rest of the afternoon swimming and sunbathing."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour führt Sie entlang der atemberaubenden Küste von St. Julian's. Sie starten in der Balluta-Bucht und radeln zur malerischen Spinola-Bucht, dem Herzen der Stadt. Nach einem Fotostopp am LOVE-Denkmal und einem Mittagsimbiss in Paceville geht es weiter zum modernen Portomaso Tower. Am Nachmittag erkunden Sie den historischen Dragonara-Palast, bevor Sie den Tag an der St. George's Bay ausklingen lassen, wo Sie sich mit einem erfrischenden Bad im Meer belohnen können.",
+        "hu": "Kerékpártúrája St. Julian's lenyűgöző tengerpartja mentén vezet. A Balluta-öbölből indul, és a város szívébe, a festői Spinola-öbölbe teker. Egy fotómegálló után a LOVE emlékműnél és egy ebéd után Paceville-ben, továbbhalad a modern Portomaso-torony felé. Délután felfedezi a történelmi Dragonara-palotát, mielőtt a napot a Szent György-öbölben fejezi be, ahol egy frissítő tengeri fürdővel jutalmazhatja magát.",
+        "ro": "Turul cu bicicleta vă poartă de-a lungul coastei uimitoare a orașului St. Julian's. Pornind de la Golful Balluta, pedalați spre pitorescul Golf Spinola, inima orașului. După o oprire pentru fotografii la Monumentul LOVE și un prânz în Paceville, continuați spre modernul Turn Portomaso. După-amiaza, explorați istoricul Palat Dragonara înainte de a încheia ziua în Golful St. George, unde vă puteți răsplăti cu o baie răcoritoare în mare.",
+        "en": "Your bike tour takes you along the stunning coastline of St. Julian's. Starting from Balluta Bay, you'll cycle to the picturesque Spinola Bay, the heart of the town. After a photo stop at the LOVE Monument and lunch in Paceville, you'll continue towards the modern Portomaso Tower. In the afternoon, explore the historic Dragonara Palace before ending your day at St. George's Bay, where you can reward yourself with a refreshing swim in the sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pastizzi",
+            "tip": "Ein herzhafter maltesischer Snack, perfekt für eine schnelle Stärkung."
+          },
+          {
+            "name": "Gululu Restaurant",
+            "tip": "Bietet eine große Auswahl an maltesischen Gerichten direkt an der Spinola-Bucht."
+          },
+          {
+            "name": "U Bistrot",
+            "tip": "Ein charmantes Bistro in der Nähe der Balluta-Bucht, ideal für ein entspanntes Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pastizzi",
+            "tip": "Kiadós máltai snack, tökéletes egy gyors feltöltődéshez."
+          },
+          {
+            "name": "Gululu Étterem",
+            "tip": "Máltai ételek széles választékát kínálja közvetlenül a Spinola-öbölben."
+          },
+          {
+            "name": "U Bistrot",
+            "tip": "Egy bájos bisztró a Balluta-öböl közelében, ideális egy laza ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pastizzi",
+            "tip": "O gustare malteză sărată, perfectă pentru o reîncărcare rapidă."
+          },
+          {
+            "name": "Restaurantul Gululu",
+            "tip": "Oferă o mare varietate de preparate malteze chiar în Golful Spinola."
+          },
+          {
+            "name": "U Bistrot",
+            "tip": "Un bistro fermecător lângă Golful Balluta, ideal pentru un prânz relaxat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pastizzi",
+            "tip": "A savoury Maltese snack, perfect for a quick energy boost."
+          },
+          {
+            "name": "Gululu Restaurant",
+            "tip": "Offers a wide variety of Maltese dishes right on Spinola Bay."
+          },
+          {
+            "name": "U Bistrot",
+            "tip": "A charming bistro near Balluta Bay, ideal for a relaxed lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Promenade bei Sonnenaufgang",
+            "tip": "Radeln Sie die Küste entlang, bevor die Menschenmassen eintreffen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Versteckte Gassen in Paceville",
+            "tip": "Abseits der Hauptstraßen finden Sie ruhigere Ecken.",
+            "emoji": "🤫"
+          },
+          {
+            "name": "Felsen am Dragonara Point",
+            "tip": "Ein großartiger Ort, um die Wellen zu beobachten und dem Trubel zu entfliehen.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Napfelkelte a sétányon",
+            "tip": "Tekerjen végig a parton, mielőtt megérkezik a tömeg.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rejtett sikátorok Paceville-ben",
+            "tip": "A főutcáktól távolabb csendesebb sarkokat talál.",
+            "emoji": "🤫"
+          },
+          {
+            "name": "Sziklák a Dragonara-foknál",
+            "tip": "Nagyszerű hely a hullámok figyelésére és a nyüzsgés elől való menekülésre.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenadă la răsărit",
+            "tip": "Pedalați de-a lungul coastei înainte de sosirea mulțimilor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Aleile ascunse din Paceville",
+            "tip": "Departe de străzile principale, veți găsi colțuri mai liniștite.",
+            "emoji": "🤫"
+          },
+          {
+            "name": "Stâncile de la Punctul Dragonara",
+            "tip": "Un loc minunat pentru a privi valurile și a scăpa de agitație.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunrise Promenade Ride",
+            "tip": "Cycle the coast before the crowds arrive.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Paceville's Hidden Alleys",
+            "tip": "Away from the main strips, you'll find quieter corners.",
+            "emoji": "🤫"
+          },
+          {
+            "name": "Rocks at Dragonara Point",
+            "tip": "A great spot to watch the waves and escape the bustle.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradverleih",
+            "tip": "Mehrere Geschäfte entlang der Promenade bieten Tagesmieten an."
+          },
+          {
+            "name": "Lokale Kunstgalerien",
+            "tip": "Kleine Galerien in der Nähe der Spinola-Bucht verkaufen Werke maltesischer Künstler."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárkölcsönzők",
+            "tip": "A sétány mentén több üzlet is kínál napi bérlést."
+          },
+          {
+            "name": "Helyi művészeti galériák",
+            "tip": "A Spinola-öböl közelében található kis galériák máltai művészek alkotásait árulják."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Închirieri de biciclete",
+            "tip": "Mai multe magazine de-a lungul promenadei oferă închirieri zilnice."
+          },
+          {
+            "name": "Galerii de artă locale",
+            "tip": "Mici galerii lângă Golful Spinola vând lucrări ale artiștilor maltezi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Rental Shops",
+            "tip": "Several shops along the promenade offer daily rentals."
+          },
+          {
+            "name": "Local Art Galleries",
+            "tip": "Small galleries near Spinola Bay sell works by Maltese artists."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Schließen Sie Ihr Fahrrad immer ab, auch bei kurzen Stopps.",
+          "Die Küstenpromenade ist flach und einfach zu befahren, aber achten Sie auf Fußgänger.",
+          "Ein Helm wird empfohlen, besonders auf verkehrsreicheren Straßen.",
+          "Nehmen Sie viel Wasser mit, um hydriert zu bleiben."
+        ],
+        "hu": [
+          "Mindig zárja le a kerékpárt, még rövid megállók esetén is.",
+          "A tengerparti sétány sík és könnyen járható, de figyeljen a gyalogosokra.",
+          "Sisak viselése ajánlott, különösen a forgalmasabb utakon.",
+          "Vigyen magával sok vizet, hogy hidratált maradjon."
+        ],
+        "ro": [
+          "Încuiați-vă întotdeauna bicicleta, chiar și pentru opriri scurte.",
+          "Promenada de pe faleză este plată și ușor de parcurs, dar fiți atenți la pietoni.",
+          "Se recomandă casca de protecție, mai ales pe drumurile mai aglomerate.",
+          "Luați multă apă pentru a vă menține hidratați."
+        ],
+        "en": [
+          "Always lock your bike, even for short stops.",
+          "The coastal promenade is flat and easy to ride, but watch out for pedestrians.",
+          "A helmet is recommended, especially on busier roads.",
+          "Bring plenty of water to stay hydrated."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 6.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken an der Balluta-Bucht",
+            "hu": "Parkolás a Balluta-öbölnél",
+            "ro": "Parcare în Golful Balluta",
+            "en": "Parking at Balluta Bay"
+          },
+          "coords": [
+            14.4955,
+            35.9148
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Finden Sie einen Parkplatz in den umliegenden Straßen. Früh ankommen hilft.",
+            "hu": "Keressen parkolóhelyet a környező utcákban. Az időben érkezés segít.",
+            "ro": "Găsiți un loc de parcare pe străzile din jur. Sosirea devreme ajută.",
+            "en": "Find a parking spot on the surrounding streets. Arriving early helps."
+          }
+        },
+        {
+          "name": {
+            "de": "Balluta-Bucht & Kirche",
+            "hu": "Balluta-öböl és templom",
+            "ro": "Golful și Biserica Balluta",
+            "en": "Balluta Bay & Church"
+          },
+          "coords": [
+            14.4949,
+            35.9145
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:19",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie um die Bucht und besuchen Sie die beeindruckende Karmeliterkirche.",
+            "hu": "Sétáljon körbe az öbölben, és látogassa meg a lenyűgöző Karmelita templomot.",
+            "ro": "Plimbați-vă în jurul golfului și vizitați impresionanta Biserică Carmelită.",
+            "en": "Stroll around the bay and visit the impressive Carmelite Church."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt nach Paceville & Parken",
+            "hu": "Utazás Paceville-be és parkolás",
+            "ro": "Condus spre Paceville și parcare",
+            "en": "Drive to Paceville & Park"
+          },
+          "coords": [
+            14.4912,
+            35.923
+          ],
+          "category": "transport",
+          "arrive_at": "10:30",
+          "stay_min": 10,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Nutzen Sie ein Parkhaus in Paceville für einen stressfreien Besuch.",
+            "hu": "Használjon parkolóházat Paceville-ben a stresszmentes látogatás érdekében.",
+            "ro": "Utilizați o parcare supraetajată în Paceville pentru o vizită fără stres.",
+            "en": "Use a multi-storey car park in Paceville for a stress-free visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Paceville & Portomaso Tower",
+            "hu": "Paceville és Portomaso-torony",
+            "ro": "Paceville și Turnul Portomaso",
+            "en": "Paceville & Portomaso Tower"
+          },
+          "coords": [
+            14.4918,
+            35.9225
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:48",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die Gegend, genießen Sie ein Mittagessen und bewundern Sie den Blick auf den Turm.",
+            "hu": "Fedezze fel a környéket, ebédeljen, és csodálja meg a toronyra nyíló kilátást.",
+            "ro": "Explorați zona, bucurați-vă de prânz și admirați vederea turnului.",
+            "en": "Explore the area, enjoy lunch, and admire the view of the tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Dragonara-Palast",
+            "hu": "Dragonara-palota",
+            "ro": "Palatul Dragonara",
+            "en": "Dragonara Palace"
+          },
+          "coords": [
+            14.4945,
+            35.9254
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:58",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von Paceville zu diesem historischen Wahrzeichen.",
+            "hu": "Rövid séta Paceville-ből ehhez a történelmi nevezetességhez.",
+            "ro": "O scurtă plimbare de la Paceville la acest punct de reper istoric.",
+            "en": "A short walk from Paceville to this historic landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Spinola-Bucht & Parken",
+            "hu": "Utazás a Spinola-öbölbe és parkolás",
+            "ro": "Condus spre Golful Spinola și parcare",
+            "en": "Drive to Spinola Bay & Park"
+          },
+          "coords": [
+            14.4895,
+            35.9188
+          ],
+          "category": "transport",
+          "arrive_at": "13:39",
+          "stay_min": 10,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe der Bucht für den letzten Teil des Tages.",
+            "hu": "Parkoljon az öböl közelében a nap utolsó szakaszára.",
+            "ro": "Parcați lângă golf pentru ultima parte a zilei.",
+            "en": "Park near the bay for the final leg of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Spinola-Bucht & St. George's Bay",
+            "hu": "Spinola-öböl és Szent György-öböl",
+            "ro": "Golful Spinola și Golful St. George",
+            "en": "Spinola Bay & St. George's Bay"
+          },
+          "coords": [
+            14.4903,
+            35.9194
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:09",
+          "stay_min": 181,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie von Spinola zur St. George's Bay und genießen Sie den Strand.",
+            "hu": "Sétáljon át Spinolából a Szent György-öbölbe, és élvezze a strandot.",
+            "ro": "Plimbați-vă de la Spinola la Golful St. George și bucurați-vă de plajă.",
+            "en": "Wander from Spinola to St. George's Bay and enjoy the beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit dem Auto in der ruhigen Balluta-Bucht. Nach einem Spaziergang am Wasser fahren Sie zum belebten Paceville, dem Zentrum des Geschehens, wo Sie parken und zu Fuß den Portomaso Tower und den Dragonara-Palast erkunden. Dies ist der perfekte Ort für ein Mittagessen. Am Nachmittag fahren Sie zu Ihrem letzten Halt, der Spinola-Bucht. Von hier aus können Sie zum Sandstrand der St. George's Bay schlendern und den Rest des Tages mit Entspannung am Meer verbringen.",
+        "hu": "Napja autóval kezdődik a csendes Balluta-öbölben. Egy vízparti séta után Paceville-be, az események központjába hajt, ahol leparkol, és gyalog fedezi fel a Portomaso-tornyot és a Dragonara-palotát. Ez a tökéletes hely egy ebédre. Délután az utolsó állomáshoz, a Spinola-öbölhöz vezet az útja. Innen átsétálhat a homokos Szent György-öbölbe, hogy a nap hátralévő részét a tenger melletti pihenéssel töltse.",
+        "ro": "Ziua dvs. cu mașina începe în liniștitul Golf Balluta. După o plimbare pe malul apei, conduceți spre aglomeratul Paceville, centrul acțiunii, unde parcați pentru a explora pe jos Turnul Portomaso și Palatul Dragonara. Acesta este locul perfect pentru prânz. După-amiaza, conduceți spre ultima oprire, Golful Spinola. De aici, puteți face o plimbare până la plaja cu nisip din Golful St. George pentru a vă petrece restul zilei relaxându-vă la malul mării.",
+        "en": "Your day by car begins at the tranquil Balluta Bay. After a waterfront stroll, you'll drive to bustling Paceville, the centre of the action, where you'll park to explore the Portomaso Tower and Dragonara Palace on foot. This is the perfect cluster for lunch. In the afternoon, a final drive takes you to Spinola Bay. From here, you can wander over to the sandy shores of St. George's Bay to spend the rest of your day relaxing by the sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fenkata (Kanincheneintopf)",
+            "tip": "Ein traditionelles maltesisches Gericht, das man probieren muss."
+          },
+          {
+            "name": "Barracuda Restaurant",
+            "tip": "Gehobene Küche in einem restaurierten Stadthaus mit Blick auf die Balluta-Bucht."
+          },
+          {
+            "name": "The Avenue",
+            "tip": "Ein beliebter Ort in Paceville mit einer riesigen Speisekarte, die für jeden etwas bietet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fenkata (nyúlpörkölt)",
+            "tip": "Hagyományos máltai étel, amit meg kell kóstolni."
+          },
+          {
+            "name": "Barracuda Étterem",
+            "tip": "Elegáns étterem egy felújított városi házban, kilátással a Balluta-öbölre."
+          },
+          {
+            "name": "The Avenue",
+            "tip": "Népszerű hely Paceville-ben, hatalmas étlappal, ahol mindenki talál kedvére valót."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fenkata (tocană de iepure)",
+            "tip": "Un fel de mâncare tradițional maltez care trebuie încercat."
+          },
+          {
+            "name": "Restaurantul Barracuda",
+            "tip": "Mâncare rafinată într-o casă de oraș restaurată, cu vedere la Golful Balluta."
+          },
+          {
+            "name": "The Avenue",
+            "tip": "Un loc popular în Paceville cu un meniu uriaș, care satisface toate gusturile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fenkata (rabbit stew)",
+            "tip": "A traditional Maltese dish that's a must-try."
+          },
+          {
+            "name": "Barracuda Restaurant",
+            "tip": "Fine dining in a restored townhouse overlooking Balluta Bay."
+          },
+          {
+            "name": "The Avenue",
+            "tip": "A popular spot in Paceville with a huge menu to suit everyone."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten des Dragonara-Palastes",
+            "tip": "Finden Sie einen ruhigen Platz abseits des Casinos.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Morgen in der Balluta-Bucht",
+            "tip": "Genießen Sie die Stille, bevor die Tagestouristen ankommen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Klippen hinter St. George's Bay",
+            "tip": "Ein kurzer Spaziergang bietet eine tolle Aussicht und Ruhe.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dragonara-palota kertjei",
+            "tip": "Találjon egy csendes helyet a kaszinótól távol.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Reggel a Balluta-öbölben",
+            "tip": "Élvezze a csendet, mielőtt megérkeznek a napközbeni turisták.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sziklák a Szent György-öböl mögött",
+            "tip": "Egy rövid séta remek kilátást és nyugalmat kínál.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Palatului Dragonara",
+            "tip": "Găsiți un loc liniștit departe de cazinou.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Dimineața în Golful Balluta",
+            "tip": "Bucurați-vă de liniște înainte de sosirea turiștilor de o zi.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Stâncile din spatele Golfului St. George",
+            "tip": "O scurtă plimbare oferă o priveliște minunată și liniște.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gardens of Dragonara Palace",
+            "tip": "Find a quiet spot away from the casino floor.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Balluta Bay morning",
+            "tip": "Enjoy the quiet before the day-trippers arrive.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Cliffs beyond St. George's Bay",
+            "tip": "A short walk offers great views and peace.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Portomaso Marina Shops",
+            "tip": "Boutiquen und Designerläden rund um den Jachthafen."
+          },
+          {
+            "name": "Maltesisches Glas",
+            "tip": "Suchen Sie in Souvenirläden nach farbenfrohen Glaswaren, einem berühmten lokalen Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Portomaso Marina üzletei",
+            "tip": "Butikok és designer üzletek a kikötő körül."
+          },
+          {
+            "name": "Máltai üveg",
+            "tip": "Keressen színes üvegárut a szuvenírboltokban, ami híres helyi kézműves termék."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele din Portomaso Marina",
+            "tip": "Buticuri și magazine de designer în jurul portului de agrement."
+          },
+          {
+            "name": "Sticlă malteză",
+            "tip": "Căutați în magazinele de suveniruri articole de sticlărie colorată, un meșteșug local renumit."
+          }
+        ],
+        "en": [
+          {
+            "name": "Portomaso Marina Shops",
+            "tip": "Boutiques and designer stores around the marina."
+          },
+          {
+            "name": "Maltese Glass",
+            "tip": "Look for colourful glassware in souvenir shops, a famous local craft."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken kann schwierig und teuer sein. Planen Sie im Voraus.",
+          "Achten Sie auf Einbahnstraßen und enge Gassen.",
+          "Ein kleineres Auto ist für das Manövrieren in der Stadt von Vorteil.",
+          "Lassen Sie niemals Wertsachen im Auto sichtbar liegen."
+        ],
+        "hu": [
+          "A parkolás nehézkes és drága lehet. Tervezzen előre.",
+          "Vigyázzon az egyirányú utcákra és a szűk sikátorokra.",
+          "Egy kisebb autó előnyösebb a városi manőverezéshez.",
+          "Soha ne hagyjon értékeket látható helyen az autóban."
+        ],
+        "ro": [
+          "Parcarea poate fi dificilă și costisitoare. Planificați din timp.",
+          "Fiți atenți la străzile cu sens unic și la aleile înguste.",
+          "O mașină mai mică este avantajoasă pentru manevrarea în oraș.",
+          "Nu lăsați niciodată obiecte de valoare la vedere în mașină."
+        ],
+        "en": [
+          "Parking can be difficult and expensive. Plan ahead.",
+          "Be aware of one-way streets and narrow alleys.",
+          "A smaller car is advantageous for maneuvering in the town.",
+          "Never leave valuables visible in the car."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bus nach Balluta",
+            "hu": "Busz Ballutába",
+            "ro": "Autobuz spre Balluta",
+            "en": "Bus to Balluta"
+          },
+          "coords": [
+            14.4951,
+            35.9149
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Viele Buslinien halten hier. Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+            "hu": "Számos buszjárat megáll itt. Vegyen napijegyet a korlátlan utazáshoz.",
+            "ro": "Multe rute de autobuz opresc aici. Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+            "en": "Many bus routes stop here. Buy a day pass for unlimited travel."
+          }
+        },
+        {
+          "name": {
+            "de": "Balluta-Bucht & Kirche",
+            "hu": "Balluta-öböl és templom",
+            "ro": "Golful și Biserica Balluta",
+            "en": "Balluta Bay & Church"
+          },
+          "coords": [
+            14.4949,
+            35.9145
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:17",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit der Erkundung des ersten Clusters zu Fuß.",
+            "hu": "Kezdje a napot az első klaszter gyalogos felfedezésével.",
+            "ro": "Începeți ziua explorând primul cluster pe jos.",
+            "en": "Start your day exploring the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus nach Spinola",
+            "hu": "Busz Spinolába",
+            "ro": "Autobuz spre Spinola",
+            "en": "Bus to Spinola"
+          },
+          "coords": [
+            14.49,
+            35.919
+          ],
+          "category": "transport",
+          "arrive_at": "10:32",
+          "stay_min": 5,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine kurze Busfahrt bringt Sie zum nächsten Erkundungsgebiet.",
+            "hu": "Egy rövid buszút elviszi a következő felfedezési területre.",
+            "ro": "O scurtă călătorie cu autobuzul vă duce la următoarea zonă de explorare.",
+            "en": "A short bus ride takes you to the next area of exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Spinola-Bucht & LOVE-Denkmal",
+            "hu": "Spinola-öböl és LOVE emlékmű",
+            "ro": "Golful Spinola și Monumentul LOVE",
+            "en": "Spinola Bay & LOVE Monument"
+          },
+          "coords": [
+            14.4903,
+            35.9194
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:39",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Atmosphäre und machen Sie das obligatorische Foto am Denkmal.",
+            "hu": "Élvezze a hangulatot és készítse el a kötelező fotót az emlékműnél.",
+            "ro": "Bucurați-vă de atmosferă și faceți fotografia obligatorie la monument.",
+            "en": "Soak in the atmosphere and take the obligatory photo at the monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Paceville & Mittagessen",
+            "hu": "Paceville és ebéd",
+            "ro": "Paceville și prânz",
+            "en": "Paceville & Lunch"
+          },
+          "coords": [
+            14.4918,
+            35.9225
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:51",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang landeinwärts führt Sie zum Zentrum des Nachtlebens, das tagsüber ein großartiger Ort zum Mittagessen ist.",
+            "hu": "Egy rövid séta a szárazföld belseje felé elvezeti az éjszakai élet központjába, amely napközben remek ebédelőhely.",
+            "ro": "O scurtă plimbare spre interior vă duce la centrul vieții de noapte, care este un loc minunat pentru prânz în timpul zilei.",
+            "en": "A short walk inland takes you to the nightlife hub, which is a great lunch spot during the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Portomaso & Dragonara",
+            "hu": "Portomaso és Dragonara",
+            "ro": "Portomaso și Dragonara",
+            "en": "Portomaso & Dragonara"
+          },
+          "coords": [
+            14.4883,
+            35.9218
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den Jachthafen und spazieren Sie zur Halbinsel Dragonara.",
+            "hu": "Fedezze fel a kikötőt, és sétáljon el a Dragonara-félszigetre.",
+            "ro": "Explorați portul de agrement și plimbați-vă până la peninsula Dragonara.",
+            "en": "Explore the marina and walk over to the Dragonara peninsula."
+          }
+        },
+        {
+          "name": {
+            "de": "St. George’s Bay",
+            "hu": "Szent György-öböl",
+            "ro": "Golful St. George",
+            "en": "St. George's Bay"
+          },
+          "coords": [
+            14.4938,
+            35.9262
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:45",
+          "stay_min": 170,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag an diesem Sandstrand, der nur einen kurzen Spaziergang entfernt ist.",
+            "hu": "Fejezze be a napot ezen a homokos tengerparton, amely egy rövid sétára található.",
+            "ro": "Încheiați-vă ziua la această plajă cu nisip, la o scurtă plimbare distanță.",
+            "en": "End your day at this sandy beach, just a short walk away."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Bus ist St. Julian's leicht zu erkunden. Beginnen Sie in der Balluta-Bucht, einem ruhigen Ort am Morgen. Nehmen Sie dann einen Bus zum Hauptcluster rund um die Spinola-Bucht und Paceville. Hier können Sie zu Mittag essen und die wichtigsten Sehenswürdigkeiten zu Fuß erkunden, vom LOVE-Denkmal bis zum Dragonara-Palast. Der ganze Nachmittag ist der Entspannung gewidmet, mit einem kurzen Spaziergang zum Sandstrand der St. George's Bay, um die Sonne Maltas zu genießen.",
+        "hu": "Busszal könnyedén felfedezhető St. Julian's. Kezdje a Balluta-öbölben, amely reggelente csendes hely. Ezután buszozzon el a Spinola-öböl és Paceville körüli fő klaszterhez. Itt megebédelhet, és gyalogosan felfedezheti a főbb látnivalókat, a LOVE emlékműtől a Dragonara-palotáig. Az egész délutánt a pihenésnek szentelheti, egy rövid sétával a homokos Szent György-öbölbe, hogy élvezze a máltai napsütést.",
+        "ro": "Folosind autobuzul, St. Julian's este ușor de explorat. Începeți în Golful Balluta, un loc liniștit dimineața. Apoi, luați un autobuz către grupul principal din jurul Golfului Spinola și Paceville. Aici puteți lua prânzul și explora pe jos principalele atracții, de la Monumentul LOVE la Palatul Dragonara. Întreaga după-amiază este dedicată relaxării, cu o scurtă plimbare până la plaja cu nisip din Golful St. George pentru a vă bucura de soarele maltez.",
+        "en": "Using the bus, St. Julian's is easy to navigate. Start at Balluta Bay, a tranquil morning spot. Then, take a bus to the main cluster around Spinola Bay and Paceville. Here you can have lunch and explore the key sights on foot, from the LOVE Monument to Dragonara Palace. The entire afternoon is dedicated to relaxation, with a short walk to the sandy shores of St. George's Bay to soak up the Maltese sun."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ftira",
+            "tip": "Maltesisches Sandwichbrot, ideal für ein schnelles und sättigendes Mittagessen."
+          },
+          {
+            "name": "Zeri's Restaurant",
+            "tip": "Befindet sich in Portomaso und ist bekannt für seine mediterrane Küche und die Aussicht auf den Jachthafen."
+          },
+          {
+            "name": "Manakis aħdar",
+            "tip": "Griechische Küche in der Spinola-Bucht, eine erfrischende Abwechslung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ftira",
+            "tip": "Máltai szendvicskenyér, ideális egy gyors és laktató ebédhez."
+          },
+          {
+            "name": "Zeri's Étterem",
+            "tip": "Portomasóban található, mediterrán konyhájáról és a kikötőre nyíló kilátásáról ismert."
+          },
+          {
+            "name": "Manakis aħdar",
+            "tip": "Görög konyha a Spinola-öbölben, frissítő változatosság."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ftira",
+            "tip": "Pâine de sandviș malteză, ideală pentru un prânz rapid și sățios."
+          },
+          {
+            "name": "Restaurantul Zeri's",
+            "tip": "Situat în Portomaso, renumit pentru bucătăria sa mediteraneană și vederea la portul de agrement."
+          },
+          {
+            "name": "Manakis aħdar",
+            "tip": "Bucătărie grecească în Golful Spinola, o schimbare revigorantă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ftira",
+            "tip": "Maltese sandwich bread, great for a quick and filling lunch."
+          },
+          {
+            "name": "Zeri's Restaurant",
+            "tip": "Located in Portomaso, known for its Mediterranean cuisine and marina views."
+          },
+          {
+            "name": "Manakis aħdar",
+            "tip": "Greek cuisine in Spinola Bay for a refreshing change."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obere Gärten von Spinola",
+            "tip": "Ein kleiner, oft übersehener öffentlicher Garten mit Bänken.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Balluta-Platz",
+            "tip": "Setzen Sie sich auf eine Bank und beobachten Sie das Kommen und Gehen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ende der St. George's Bay Halbinsel",
+            "tip": "Gehen Sie am Strand vorbei für mehr Ruhe und eine bessere Aussicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Spinola felső kertjei",
+            "tip": "Egy kicsi, gyakran figyelmen kívül hagyott nyilvános kert padokkal."
+          },
+          {
+            "name": "Balluta tér",
+            "tip": "Üljön le egy padra, és figyelje a világot."
+          },
+          {
+            "name": "Szent György-öböl félszigetének vége",
+            "tip": "Sétáljon túl a strandon a nagyobb csendért és jobb kilátásért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Superioare Spinola",
+            "tip": "O mică grădină publică, adesea trecută cu vederea, cu bănci.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Piața Balluta",
+            "tip": "Așezați-vă pe o bancă și priviți lumea trecând.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Capătul peninsulei St. George's Bay",
+            "tip": "Mergeți dincolo de plajă pentru mai multă liniște și priveliști mai bune.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Spinola Upper Gardens",
+            "tip": "A small, often-overlooked public garden with benches.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Balluta Square",
+            "tip": "Sit on a bench and watch the world go by.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "End of St. George's Bay peninsula",
+            "tip": "Walk past the beach for more quiet and better views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "The Point Shopping Mall",
+            "tip": "Eine kurze Busfahrt entfernt in Sliema für ein größeres Einkaufserlebnis."
+          },
+          {
+            "name": "Handwerksmärkte",
+            "tip": "Halten Sie Ausschau nach gelegentlichen Märkten am Wochenende entlang der Promenade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Point bevásárlóközpont",
+            "tip": "Egy rövid buszútra Sliemában egy nagyobb bevásárlási élményért."
+          },
+          {
+            "name": "Kézműves piacok",
+            "tip": "Keresse a hétvégi alkalmi piacokat a sétány mentén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial The Point",
+            "tip": "La o scurtă călătorie cu autobuzul în Sliema pentru o experiență de cumpărături mai mare."
+          },
+          {
+            "name": "Piețe de artizanat",
+            "tip": "Fiți atenți la piețele ocazionale de weekend de-a lungul promenadei."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Point Shopping Mall",
+            "tip": "A short bus ride away in Sliema for a larger shopping experience."
+          },
+          {
+            "name": "Artisanal Markets",
+            "tip": "Keep an eye out for occasional weekend markets along the promenade."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die offizielle App für den öffentlichen Nahverkehr Maltas herunter, um Routen und Fahrpläne in Echtzeit zu erhalten.",
+          "Busse können besonders im Sommer überfüllt sein.",
+          "Validieren Sie Ihr Ticket immer beim Einsteigen.",
+          "Behalten Sie Ihre Haltestelle im Auge, da die Ansagen nicht immer klar sind."
+        ],
+        "hu": [
+          "Töltse le a máltai tömegközlekedési hivatalos alkalmazást a valós idejű útvonalakért és menetrendekért.",
+          "A buszok zsúfoltak lehetnek, különösen nyáron.",
+          "Felszálláskor mindig érvényesítse a jegyét.",
+          "Figyelje a megállóját, mivel a bemondások nem mindig egyértelműek."
+        ],
+        "ro": [
+          "Descărcați aplicația oficială de transport public din Malta pentru rute și orare în timp real.",
+          "Autobuzele pot fi aglomerate, mai ales vara.",
+          "Validați-vă întotdeauna biletul la urcare.",
+          "Fiți atenți la stația dvs., deoarece anunțurile nu sunt întotdeauna clare."
+        ],
+        "en": [
+          "Download the official Malta Public Transport app for real-time routes and schedules.",
+          "Buses can get crowded, especially in summer.",
+          "Always validate your ticket when you board.",
+          "Keep an eye on your stop, as announcements aren't always clear."
+        ]
+      }
+    }
+  }
+}

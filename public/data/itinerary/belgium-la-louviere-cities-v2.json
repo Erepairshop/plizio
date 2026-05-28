@@ -1,0 +1,1316 @@
+{
+  "city_id": "belgium-la-louviere-cities-v2",
+  "anchor": {
+    "name": "La Louvière",
+    "coords": [
+      4.186,
+      50.4795
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von La Louvière",
+            "hu": "La Louvière-i Városháza",
+            "ro": "Primăria din La Louvière",
+            "en": "La Louvière Town Hall"
+          },
+          "coords": [
+            4.186,
+            50.4795
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur und die lebhafte Atmosphäre des Platzes.",
+            "hu": "Csodálja meg a modern építészetet és a tér élénk hangulatát.",
+            "ro": "Admirați arhitectura modernă și atmosfera plină de viață a pieței.",
+            "en": "Admire the modern architecture and the lively atmosphere of the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Joseph",
+            "hu": "Szent József-templom",
+            "ro": "Biserica Saint-Joseph",
+            "en": "Saint-Joseph Church"
+          },
+          "coords": [
+            4.188,
+            50.479
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden Glasfenster und die ruhige Atmosphäre im Inneren.",
+            "hu": "Figyelje meg a lenyűgöző ólomüveg ablakokat és a belső csendes légkört.",
+            "ro": "Observați vitraliile impresionante și atmosfera liniștită din interior.",
+            "en": "Pay attention to the impressive stained-glass windows and the quiet atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Daily-Bul & Co",
+            "hu": "Daily-Bul & Co",
+            "ro": "Daily-Bul & Co",
+            "en": "Daily-Bul & Co"
+          },
+          "coords": [
+            4.181,
+            50.476
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss für Liebhaber des Surrealismus und der Avantgarde-Kunst.",
+            "hu": "A szürrealizmus és az avantgárd művészet kedvelőinek kötelező.",
+            "ro": "O vizită obligatorie pentru iubitorii de suprarealism și artă de avangardă.",
+            "en": "A must-see for lovers of surrealism and avant-garde art."
+          }
+        },
+        {
+          "name": {
+            "de": "Keramis",
+            "hu": "Keramis",
+            "ro": "Keramis",
+            "en": "Keramis"
+          },
+          "coords": [
+            4.18,
+            50.475
+          ],
+          "category": "museums",
+          "arrive_at": "11:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Keramikgeschichte der Stadt und bewundern Sie die Kunstwerke.",
+            "hu": "Fedezze fel a város gazdag kerámiatörténetét és csodálja meg a műalkotásokat.",
+            "ro": "Descoperiți istoria bogată a ceramicii orașului și admirați operele de artă.",
+            "en": "Discover the city's rich ceramic history and admire the artworks."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebéd a városközpontban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city center"
+          },
+          "coords": [
+            4.185,
+            50.478
+          ],
+          "category": "gastro",
+          "arrive_at": "13:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie eine lokale Brasserie für authentische wallonische Küche.",
+            "hu": "Próbáljon ki egy helyi brasserie-t az autentikus vallon konyháért.",
+            "ro": "Încercați o braseria locală pentru bucătăria valonă autentică.",
+            "en": "Try a local brasserie for authentic Walloon cuisine."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Boël",
+            "hu": "Boël Park",
+            "ro": "Parcul Boël",
+            "en": "Parc Boël"
+          },
+          "coords": [
+            4.195,
+            50.482
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für einen entspannten Nachmittagsspaziergang.",
+            "hu": "Tökéletes hely egy pihentető délutáni sétához.",
+            "ro": "Un loc perfect pentru o plimbare relaxantă de după-amiază.",
+            "en": "A perfect spot for a relaxing afternoon stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am modernen Rathaus, bevor Sie die spirituelle Ruhe der Kirche Saint-Joseph erleben. Der Vormittag steht im Zeichen der Kunst: Tauchen Sie ein in die surreale Welt von Daily-Bul & Co und entdecken Sie anschließend im Keramis-Museum das keramische Erbe der Stadt. Nach einem herzhaften wallonischen Mittagessen können Sie im Parc Boël entspannen und die Eindrücke des Tages Revue passieren lassen, umgeben von grüner Natur. Dieser Spaziergang führt Sie durch das künstlerische und kulturelle Herz von La Louvière.",
+        "hu": "Kezdje a napot a modern Városházánál, mielőtt megtapasztalná a Szent József-templom spirituális nyugalmát. A délelőtt a művészeté: merüljön el a Daily-Bul & Co szürreális világában, majd fedezze fel a város kerámia örökségét a Keramis múzeumban. Egy kiadós vallon ebéd után pihenjen a Boël Parkban, és idézze fel a nap benyomásait zöld környezetben. Ez a séta La Louvière művészeti és kulturális szívén vezet keresztül.",
+        "ro": "Începeți ziua la Primăria modernă înainte de a experimenta liniștea spirituală a Bisericii Saint-Joseph. Dimineața este dedicată artei: scufundați-vă în lumea suprarealistă a Daily-Bul & Co, apoi descoperiți moștenirea ceramică a orașului la muzeul Keramis. După un prânz valon copios, relaxați-vă în Parcul Boël și rememorați impresiile zilei, înconjurat de natură. Această plimbare vă poartă prin inima artistică și culturală a orașului La Louvière.",
+        "en": "Start your day at the modern Town Hall before experiencing the spiritual tranquility of Saint-Joseph Church. The morning is dedicated to art: immerse yourself in the surreal world of Daily-Bul & Co, then discover the city's ceramic heritage at the Keramis museum. After a hearty Walloon lunch, relax in Parc Boël and reflect on the day's impressions, surrounded by greenery. This walk takes you through the artistic and cultural heart of La Louvière."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Moules-frites",
+            "tip": "Ein belgischer Klassiker, Muscheln mit Pommes frites."
+          },
+          {
+            "name": "Carbonnade flamande",
+            "tip": "Ein herzhafter Rindfleischeintopf, der in Bier geschmort wird."
+          },
+          {
+            "name": "Gaufre de Liège",
+            "tip": "Probieren Sie eine warme Lütticher Waffel als süßen Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Moules-frites",
+            "tip": "Belga klasszikus, feketekagyló sült krumplival."
+          },
+          {
+            "name": "Carbonnade flamande",
+            "tip": "Kiadós, sörben párolt marharagu."
+          },
+          {
+            "name": "Gaufre de Liège",
+            "tip": "Kóstoljon meg egy meleg liège-i gofrit édes csemegeként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Moules-frites",
+            "tip": "Un clasic belgian, midii cu cartofi prăjiți."
+          },
+          {
+            "name": "Carbonnade flamande",
+            "tip": "O tocană consistentă de vită, fiartă în bere."
+          },
+          {
+            "name": "Gaufre de Liège",
+            "tip": "Încercați o vafă caldă de Liège ca gustare dulce."
+          }
+        ],
+        "en": [
+          {
+            "name": "Moules-frites",
+            "tip": "A Belgian classic, mussels with fries."
+          },
+          {
+            "name": "Carbonnade flamande",
+            "tip": "A hearty beef stew braised in beer."
+          },
+          {
+            "name": "Gaufre de Liège",
+            "tip": "Try a warm Liège waffle for a sweet snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc Boël",
+            "tip": "Finden Sie eine ruhige Bank am Teich.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Inneres der Kirche Saint-Joseph",
+            "tip": "Ein Ort der Stille und Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boël Park",
+            "tip": "Keressen egy csendes padot a tó mellett.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent József-templom belseje",
+            "tip": "A csend és az elmélkedés helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Boël",
+            "tip": "Găsiți o bancă liniștită lângă iaz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Interiorul Bisericii Saint-Joseph",
+            "tip": "Un loc de liniște și contemplare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc Boël",
+            "tip": "Find a quiet bench by the pond.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Inside Saint-Joseph Church",
+            "tip": "A place for silence and contemplation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Chocolatiers",
+            "tip": "Kaufen Sie handgemachte belgische Pralinen."
+          },
+          {
+            "name": "Keramik-Souvenirs",
+            "tip": "Im Keramis-Museumsshop finden Sie einzigartige Stücke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi csokoládékészítők",
+            "tip": "Vásároljon kézzel készített belga pralinékat."
+          },
+          {
+            "name": "Kerámia ajándéktárgyak",
+            "tip": "A Keramis múzeumi boltjában egyedi darabokat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciocolaterii locale",
+            "tip": "Cumpărați praline belgiene artizanale."
+          },
+          {
+            "name": "Suveniruri din ceramică",
+            "tip": "Găsiți piese unice la magazinul muzeului Keramis."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Chocolatiers",
+            "tip": "Buy some handmade Belgian pralines."
+          },
+          {
+            "name": "Ceramic Souvenirs",
+            "tip": "Find unique pieces at the Keramis museum shop."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag unterwegs sein werden.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus.",
+          "Halten Sie eine Kamera bereit, um die surreale Kunst und die Industriearchitektur festzuhalten."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap talpon lesz.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét.",
+          "Készítsen elő egy fényképezőgépet a szürreális művészet és az ipari építészet megörökítéséhez."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge pe jos toată ziua.",
+          "Verificați în avans orele de deschidere ale muzeelor.",
+          "Pregătiți o cameră foto pentru a surprinde arta suprarealistă și arhitectura industrială."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be on your feet all day.",
+          "Check the opening hours of the museums in advance.",
+          "Have a camera ready to capture the surreal art and industrial architecture."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parc Boël",
+            "hu": "Boël Park",
+            "ro": "Parcul Boël",
+            "en": "Parc Boël"
+          },
+          "coords": [
+            4.195,
+            50.482
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einer erfrischenden Fahrt durch den Park.",
+            "hu": "Kezdje a napot egy frissítő tekeréssel a parkon keresztül.",
+            "ro": "Începeți ziua cu o plimbare revigorantă prin parc.",
+            "en": "Start the day with a refreshing ride through the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus und Stadtzentrum",
+            "hu": "Városháza és városközpont",
+            "ro": "Primăria și centrul orașului",
+            "en": "Town Hall and City Center"
+          },
+          "coords": [
+            4.186,
+            50.4795
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie den zentralen Platz zu Fuß.",
+            "hu": "Parkolja le a biciklit és fedezze fel gyalog a központi teret.",
+            "ro": "Parcați bicicleta și explorați piața centrală pe jos.",
+            "en": "Park your bike and explore the central square on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Keramis & Daily-Bul",
+            "hu": "Keramis és Daily-Bul",
+            "ro": "Keramis și Daily-Bul",
+            "en": "Keramis & Daily-Bul"
+          },
+          "coords": [
+            4.18,
+            50.475
+          ],
+          "category": "museums",
+          "arrive_at": "10:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein Doppelbesuch für eine volle Dosis Kunst und Geschichte.",
+            "hu": "Dupla látogatás egy teljes adag művészetért és történelemért.",
+            "ro": "O vizită dublă pentru o doză completă de artă și istorie.",
+            "en": "A double visit for a full dose of art and history."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            4.182,
+            50.477
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie eine Mahlzeit in der Nähe der Museen.",
+            "hu": "Ebédeljen a múzeumok közelében.",
+            "ro": "Luați masa în apropierea muzeelor.",
+            "en": "Enjoy a meal near the museums."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont du Garde-Dieu",
+            "hu": "Pont du Garde-Dieu",
+            "ro": "Pont du Garde-Dieu",
+            "en": "Pont du Garde-Dieu"
+          },
+          "coords": [
+            4.22,
+            50.48
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine schöne Fahrt entlang des Kanals zu dieser malerischen Brücke.",
+            "hu": "Egy szép tekerés a csatorna mentén ehhez a festői hídhoz.",
+            "ro": "O plimbare frumoasă de-a lungul canalului până la acest pod pitoresc.",
+            "en": "A beautiful ride along the canal to this picturesque bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Schiffshebewerke des Canal du Centre",
+            "hu": "Canal du Centre hajóemelői",
+            "ro": "Elevatoarele de pe Canal du Centre",
+            "en": "Canal du Centre Boat Lifts"
+          },
+          "coords": [
+            4.23,
+            50.485
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Erkunden Sie das UNESCO-Weltkulturerbe, ein Wunder der Industrietechnik.",
+            "hu": "Fedezze fel az UNESCO Világörökség részét, az ipari technika csodáját.",
+            "ro": "Explorați situl Patrimoniului Mondial UNESCO, o minune a ingineriei industriale.",
+            "en": "Explore the UNESCO World Heritage site, a marvel of industrial engineering."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Rad und starten Sie den Tag im grünen Parc Boël. Radeln Sie ins Stadtzentrum, um das Rathaus zu sehen, bevor Sie sich der Kunst im Keramis und Daily-Bul widmen. Nach dem Mittagessen führt Sie eine malerische Route entlang des Wassers zur Pont du Garde-Dieu. Der Höhepunkt Ihrer Tour ist die Ankunft bei den historischen Schiffshebewerken des Canal du Centre, einem beeindruckenden Zeugnis der Industriegeschichte. Diese Tour verbindet Natur, Kunst und Technik auf zwei Rädern.",
+        "hu": "Pattanjon biciklire, és kezdje a napot a zöldellő Boël Parkban. Tekerjen be a városközpontba a Városházához, mielőtt a művészetnek szentelné magát a Keramisban és a Daily-Bulban. Ebéd után egy festői útvonal vezet a víz mentén a Pont du Garde-Dieu hídhoz. A túra csúcspontja a történelmi Canal du Centre hajóemelőkhöz való megérkezés, az ipari történelem lenyűgöző tanúbizonysága. Ez a túra két keréken köti össze a természetet, a művészetet és a technológiát.",
+        "ro": "Urcați-vă pe bicicletă și începeți ziua în Parcul Boël. Pedalați spre centrul orașului pentru a vedea Primăria înainte de a vă dedica artei la Keramis și Daily-Bul. După prânz, un traseu pitoresc de-a lungul apei vă duce la Pont du Garde-Dieu. Punctul culminant al turului este sosirea la istoricele elevatoare de bărci de pe Canal du Centre, o mărturie impresionantă a istoriei industriale. Acest tur combină natura, arta și tehnologia pe două roți.",
+        "en": "Hop on your bike and start the day in the green Parc Boël. Cycle to the city center to see the Town Hall before dedicating yourself to art at Keramis and Daily-Bul. After lunch, a scenic route along the water takes you to Pont du Garde-Dieu. The highlight of your tour is arriving at the historic Canal du Centre boat lifts, an impressive testament to industrial history. This tour combines nature, art, and technology on two wheels."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Escavèche",
+            "tip": "In Essig marinierter Süßwasserfisch, eine regionale Spezialität."
+          },
+          {
+            "name": "Belgisches Bier",
+            "tip": "Probieren Sie ein lokales Bier wie das 'La Louve'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Escavèche",
+            "tip": "Ecetben pácolt édesvízi hal, regionális különlegesség."
+          },
+          {
+            "name": "Belga sör",
+            "tip": "Kóstoljon meg egy helyi sört, mint például a 'La Louve'."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Escavèche",
+            "tip": "Pește de apă dulce marinat în oțet, o specialitate regională."
+          },
+          {
+            "name": "Berea belgiană",
+            "tip": "Încercați o bere locală precum 'La Louve'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Escavèche",
+            "tip": "Freshwater fish marinated in vinegar, a regional specialty."
+          },
+          {
+            "name": "Belgian Beer",
+            "tip": "Try a local beer like 'La Louve'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Canal du Centre",
+            "tip": "Ein ruhiger Ort, um die Boote und die Landschaft zu beobachten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parc Boël",
+            "tip": "Entspannen Sie sich im Grünen, abseits des Stadttrubels.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Canal du Centre partja",
+            "tip": "Csendes hely a hajók és a táj megfigyelésére.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Boël Park",
+            "tip": "Pihenjen a zöldben, távol a város zajától.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile Canal du Centre",
+            "tip": "Un loc liniștit pentru a privi bărcile și peisajul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Boël",
+            "tip": "Relaxați-vă în verdeață, departe de agitația orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Canal du Centre",
+            "tip": "A quiet spot to watch the boats and scenery.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parc Boël",
+            "tip": "Relax in the greenery, away from the city bustle.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Für Zubehör oder ein schnelles Tuning."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Kaufen Sie lokale Produkte für ein Picknick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Kiegészítőkért vagy egy gyors beállításért."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Vásároljon helyi termékeket egy piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Pentru accesorii sau o ajustare rapidă."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Cumpărați produse locale pentru un picnic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "For accessories or a quick tune-up."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "Buy local produce for a picnic."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie ein gutes Fahrradschloss mit.",
+          "Die Wege entlang des Kanals sind flach und ideal zum Radfahren.",
+          "Trinken Sie ausreichend Wasser, besonders an sonnigen Tagen."
+        ],
+        "hu": [
+          "Hozzon magával egy jó kerékpárzárat.",
+          "A csatorna menti utak síkak és ideálisak a kerékpározáshoz.",
+          "Igyon elegendő vizet, különösen napsütéses napokon."
+        ],
+        "ro": [
+          "Aduceți un lacăt bun pentru bicicletă.",
+          "Traseele de-a lungul canalului sunt plate și ideale pentru ciclism.",
+          "Beți suficientă apă, mai ales în zilele însorite."
+        ],
+        "en": [
+          "Bring a good bike lock.",
+          "The paths along the canal are flat and great for cycling.",
+          "Stay hydrated, especially on sunny days."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 25.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bois-du-Luc",
+            "hu": "Bois-du-Luc",
+            "ro": "Bois-du-Luc",
+            "en": "Bois-du-Luc"
+          },
+          "coords": [
+            4.15,
+            50.47
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie mit einer tiefen Eintauchen in das Bergarbeiterleben des 19. Jahrhunderts. Parken Sie am Eingang.",
+            "hu": "Kezdje a napot a 19. századi bányászéletbe való mély merüléssel. Parkoljon a bejáratnál.",
+            "ro": "Începeți cu o scufundare profundă în viața de miner din secolul al XIX-lea. Parcați la intrare.",
+            "en": "Start with a deep dive into 19th-century mining life. Park at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Schiffshebewerke des Canal du Centre",
+            "hu": "Canal du Centre hajóemelői",
+            "ro": "Elevatoarele de pe Canal du Centre",
+            "en": "Canal du Centre Boat Lifts"
+          },
+          "coords": [
+            4.23,
+            50.485
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 9.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum nächsten UNESCO-Standort. Es gibt mehrere Parkplätze entlang des Kanals.",
+            "hu": "Vezessen a következő UNESCO helyszínhez. A csatorna mentén több parkoló is található.",
+            "ro": "Conduceți la următorul sit UNESCO. Există mai multe parcări de-a lungul canalului.",
+            "en": "Drive to the next UNESCO site. There are several parking lots along the canal."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Kanal & Pont du Garde-Dieu",
+            "hu": "Séta a csatornánál és Pont du Garde-Dieu",
+            "ro": "Plimbare pe canal și Pont du Garde-Dieu",
+            "en": "Canal Walk & Pont du Garde-Dieu"
+          },
+          "coords": [
+            4.22,
+            50.48
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto stehen und machen Sie einen kurzen Spaziergang zur Brücke.",
+            "hu": "Hagyja az autót, és tegyen egy rövid sétát a hídhoz.",
+            "ro": "Lăsați mașina și faceți o scurtă plimbare până la pod.",
+            "en": "Leave the car and take a short walk to the bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Kanals",
+            "hu": "Ebéd a csatorna közelében",
+            "ro": "Prânz lângă canal",
+            "en": "Lunch near the canal"
+          },
+          "coords": [
+            4.225,
+            50.482
+          ],
+          "category": "gastro",
+          "arrive_at": "13:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suchen Sie ein Restaurant mit Blick auf das Wasser.",
+            "hu": "Keressen egy éttermet, ahonnan kilátás nyílik a vízre.",
+            "ro": "Căutați un restaurant cu vedere la apă.",
+            "en": "Find a restaurant with a view of the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtzentrum La Louvière (Parken)",
+            "hu": "La Louvière központ (parkolás)",
+            "ro": "Centrul orașului La Louvière (Parcare)",
+            "en": "La Louvière City Center (Parking)"
+          },
+          "coords": [
+            4.184,
+            50.479
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 15.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Zentrum und erkunden Sie den letzten Cluster zu Fuß.",
+            "hu": "Parkoljon a központban, és fedezze fel gyalog az utolsó klasztert.",
+            "ro": "Parcați în centru și explorați ultimul cluster pe jos.",
+            "en": "Park in the center and explore the last cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Kirche Saint-Joseph",
+            "hu": "Városháza és Szent József-templom",
+            "ro": "Primăria și Biserica Saint-Joseph",
+            "en": "Town Hall & Saint-Joseph Church"
+          },
+          "coords": [
+            4.186,
+            50.4795
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang verbindet die beiden zentralen Wahrzeichen.",
+            "hu": "Egy rövid séta köti össze a két központi nevezetességet.",
+            "ro": "O scurtă plimbare leagă cele două repere centrale.",
+            "en": "A short walk connects the two central landmarks."
+          }
+        },
+        {
+          "name": {
+            "de": "Keramis",
+            "hu": "Keramis",
+            "ro": "Keramis",
+            "en": "Keramis"
+          },
+          "coords": [
+            4.18,
+            50.475
+          ],
+          "category": "museums",
+          "arrive_at": "16:35",
+          "stay_min": 85,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit dem keramischen Erbe der Stadt.",
+            "hu": "Zárja a napot a város kerámia örökségével.",
+            "ro": "Încheiați ziua cu moștenirea ceramică a orașului.",
+            "en": "End the day with the city's ceramic heritage."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im Bergbaudorf Bois-du-Luc, einem Sprung in die industrielle Vergangenheit. Mit dem Auto geht es weiter zu den beeindruckenden Schiffshebewerken am Canal du Centre, wo Sie nach einem Spaziergang zu Mittag essen. Der Nachmittag gehört dem Stadtzentrum von La Louvière: Parken Sie Ihr Auto und erkunden Sie zu Fuß das Rathaus, die Kirche und das Keramis-Museum. Dieser Autotag kombiniert die weitläufigen UNESCO-Stätten mit einem gemütlichen Stadtbummel und folgt der Cluster-Walking-Philosophie für ein entspanntes Erlebnis.",
+        "hu": "A nap a Bois-du-Luc bányászfaluban kezdődik, egy ugrással az ipari múltba. Autóval folytatja útját a Canal du Centre lenyűgöző hajóemelőihez, ahol séta után ebédel. A délután La Louvière központjáé: parkolja le autóját, és fedezze fel gyalog a Városházát, a templomot és a Keramis múzeumot. Ez az autós nap ötvözi a kiterjedt UNESCO helyszíneket egy kellemes városi sétával, követve a klaszter-séta filozófiát a pihentető élményért.",
+        "ro": "Ziua începe în satul minier Bois-du-Luc, o incursiune în trecutul industrial. Cu mașina, continuați spre impresionantele elevatoare de bărci de pe Canal du Centre, unde luați prânzul după o plimbare. După-amiaza este dedicată centrului orașului La Louvière: parcați mașina și explorați pe jos Primăria, biserica și muzeul Keramis. Această zi cu mașina combină siturile extinse UNESCO cu o plimbare plăcută prin oraș, urmând filosofia plimbării în clustere pentru o experiență relaxantă.",
+        "en": "Your day begins at the mining village of Bois-du-Luc, a leap into the industrial past. By car, you'll continue to the impressive boat lifts on the Canal du Centre, where you'll have lunch after a walk. The afternoon is for La Louvière's city center: park your car and explore the Town Hall, church, and Keramis museum on foot. This car day combines the expansive UNESCO sites with a pleasant city stroll, following the cluster-walking philosophy for a relaxed experience."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Käserei",
+            "tip": "Probieren Sie Käse aus der Region Hennegau."
+          },
+          {
+            "name": "Filet Américain",
+            "tip": "Ein belgisches Tatar, oft mit Pommes serviert."
+          },
+          {
+            "name": "Brasserie am Kanal",
+            "tip": "Genießen Sie die Aussicht bei einem lokalen Gericht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi sajtüzem",
+            "tip": "Kóstoljon sajtot a Hainaut régióból."
+          },
+          {
+            "name": "Filet Américain",
+            "tip": "Belga tatár bifsztek, gyakran sült krumplival tálalva."
+          },
+          {
+            "name": "Brasserie a csatornánál",
+            "tip": "Élvezze a kilátást egy helyi étel mellett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fabrica de brânzeturi locală",
+            "tip": "Gustați brânzeturi din regiunea Hainaut."
+          },
+          {
+            "name": "Filet Américain",
+            "tip": "Un tartar belgian, adesea servit cu cartofi prăjiți."
+          },
+          {
+            "name": "Brasserie lângă canal",
+            "tip": "Bucurați-vă de priveliște cu un fel de mâncare local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local creamery",
+            "tip": "Taste cheese from the Hainaut region."
+          },
+          {
+            "name": "Filet Américain",
+            "tip": "A Belgian steak tartare, often served with fries."
+          },
+          {
+            "name": "Brasserie by the canal",
+            "tip": "Enjoy the view with a local dish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt bei den Schiffshebewerken",
+            "tip": "Beobachten Sie das ruhige Treiben auf dem Kanal.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gärten von Bois-du-Luc",
+            "tip": "Ein friedlicher Ort nach der Museumsbesichtigung.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátó a hajóemelőknél",
+            "tip": "Figyelje a csatorna csendes forgalmát.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Bois-du-Luc kertjei",
+            "tip": "Békés hely a múzeumlátogatás után.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de observare la elevatoarele de bărci",
+            "tip": "Priviți agitația liniștită de pe canal.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile din Bois-du-Luc",
+            "tip": "Un loc pașnic după vizitarea muzeului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint at the boat lifts",
+            "tip": "Watch the calm activity on the canal.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gardens of Bois-du-Luc",
+            "tip": "A peaceful place after the museum tour.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsshops",
+            "tip": "Einzigartige Bücher und Souvenirs zur Industriegeschichte."
+          },
+          {
+            "name": "Bauernmärkte in der Umgebung",
+            "tip": "Halten Sie Ausschau nach Schildern für lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Múzeumi boltok",
+            "tip": "Egyedi könyvek és ajándéktárgyak az ipartörténetről."
+          },
+          {
+            "name": "Környező termelői piacok",
+            "tip": "Keresse a helyi termékeket hirdető táblákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele muzeelor",
+            "tip": "Cărți și suveniruri unice despre istoria industrială."
+          },
+          {
+            "name": "Piețe agricole din apropiere",
+            "tip": "Fiți atenți la indicatoarele pentru produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Museum Shops",
+            "tip": "Unique books and souvenirs about industrial history."
+          },
+          {
+            "name": "Nearby farmers' markets",
+            "tip": "Look for signs for local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie eine Navigations-App, um zwischen den Standorten zu navigieren.",
+          "Prüfen Sie die Parkmöglichkeiten und -gebühren im Voraus.",
+          "Das Auto ermöglicht es Ihnen, auch abgelegenere Sehenswürdigkeiten problemlos zu erreichen."
+        ],
+        "hu": [
+          "Használjon navigációs alkalmazást a helyszínek közötti tájékozódáshoz.",
+          "Előre ellenőrizze a parkolási lehetőségeket és díjakat.",
+          "Az autó lehetővé teszi a távolabbi látnivalók könnyű elérését is."
+        ],
+        "ro": [
+          "Utilizați o aplicație de navigație pentru a vă deplasa între locații.",
+          "Verificați în avans opțiunile de parcare și taxele.",
+          "Mașina vă permite să ajungeți cu ușurință la atracțiile mai îndepărtate."
+        ],
+        "en": [
+          "Use a navigation app to get between sites.",
+          "Check parking options and fees in advance.",
+          "The car allows you to easily reach more remote attractions."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptbahnhof & Ankunft",
+            "hu": "Főpályaudvar és érkezés",
+            "ro": "Gara Centrală și sosire",
+            "en": "Main Station & Arrival"
+          },
+          "coords": [
+            4.175,
+            50.485
+          ],
+          "category": "transit",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr.",
+            "hu": "Vásároljon napijegyet a tömegközlekedéshez.",
+            "ro": "Cumpărați un bilet de o zi pentru transportul public.",
+            "en": "Buy a day pass for public transport."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Stadtzentrum: Rathaus",
+            "hu": "Városközpont klaszter: Városháza",
+            "ro": "Cluster Centru: Primărie",
+            "en": "City Center Cluster: Town Hall"
+          },
+          "coords": [
+            4.186,
+            50.4795
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Erkundung am zentralen Platz.",
+            "hu": "Kezdje a felfedezést a központi téren.",
+            "ro": "Începeți explorarea în piața centrală.",
+            "en": "Start your exploration at the central square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Joseph",
+            "hu": "Szent József-templom",
+            "ro": "Biserica Saint-Joseph",
+            "en": "Saint-Joseph Church"
+          },
+          "coords": [
+            4.188,
+            50.479
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 35,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Rathausplatz.",
+            "hu": "Rövid séta a Városház tértől.",
+            "ro": "O scurtă plimbare de la piața Primăriei.",
+            "en": "A short walk from the Town Hall square."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Canal: Schiffshebewerke",
+            "hu": "Csatorna klaszter: Hajóemelők",
+            "ro": "Cluster Canal: Elevatoare de bărci",
+            "en": "Canal Cluster: Boat Lifts"
+          },
+          "coords": [
+            4.23,
+            50.485
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zu diesem UNESCO-Weltkulturerbe.",
+            "hu": "Menjen busszal ehhez az UNESCO Világörökségi helyszínhez.",
+            "ro": "Luați un autobuz către acest sit al Patrimoniului Mondial UNESCO.",
+            "en": "Take a bus to this UNESCO World Heritage site."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Spaziergang am Kanal",
+            "hu": "Ebéd és séta a csatornánál",
+            "ro": "Prânz și plimbare pe canal",
+            "en": "Lunch and walk by the canal"
+          },
+          "coords": [
+            4.225,
+            50.482
+          ],
+          "category": "gastro",
+          "arrive_at": "13:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht und eine Mahlzeit, bevor Sie weiterfahren.",
+            "hu": "Élvezze a kilátást és egy ételt, mielőtt továbbmegy.",
+            "ro": "Bucurați-vă de priveliște și de o masă înainte de a continua.",
+            "en": "Enjoy the view and a meal before moving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Museum: Keramis",
+            "hu": "Múzeum klaszter: Keramis",
+            "ro": "Cluster Muzeu: Keramis",
+            "en": "Museum Cluster: Keramis"
+          },
+          "coords": [
+            4.18,
+            50.475
+          ],
+          "category": "museums",
+          "arrive_at": "15:20",
+          "stay_min": 155,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der letzte Bus bringt Sie zum Keramikmuseum, um den Tag abzuschließen.",
+            "hu": "Az utolsó busz a kerámiamúzeumhoz viszi, hogy lezárja a napot.",
+            "ro": "Ultimul autobuz vă duce la muzeul de ceramică pentru a încheia ziua.",
+            "en": "The final bus takes you to the ceramics museum to round off the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit einer Tageskarte starten Sie am Bahnhof und fahren ins Zentrum, um das Rathaus und die Kirche zu Fuß zu erkunden. Ein Bus bringt Sie dann zum ersten Höhepunkt: den Schiffshebewerken am Canal du Centre. Nach dem Mittagessen am Wasser fahren Sie mit dem Bus zum Keramis-Museum. Dieser Plan nutzt öffentliche Verkehrsmittel, um die wichtigsten, aber verstreuten Sehenswürdigkeiten von La Louvière zu verbinden, und lässt Ihnen in jedem Cluster Zeit für Erkundungen zu Fuß.",
+        "hu": "Napijeggyel a pályaudvarról indulva a központba utazik, hogy gyalog fedezze fel a Városházát és a templomot. Ezután egy busz viszi az első csúcspontra: a Canal du Centre hajóemelőihez. A vízparti ebéd után busszal utazik a Keramis múzeumba. Ez a terv tömegközlekedést használ La Louvière legfontosabb, de szétszórt látnivalóinak összekötésére, időt hagyva a gyalogos felfedezésre minden klaszterben.",
+        "ro": "Cu un bilet de o zi, porniți de la gară și călătoriți spre centru pentru a explora Primăria și biserica pe jos. Un autobuz vă duce apoi la primul punct culminant: elevatoarele de bărci de pe Canal du Centre. După prânzul pe malul apei, luați autobuzul spre muzeul Keramis. Acest plan folosește transportul public pentru a conecta principalele, dar dispersate, atracții din La Louvière, lăsându-vă timp pentru explorare pe jos în fiecare cluster.",
+        "en": "With a day pass, you'll start at the station and travel to the center to explore the Town Hall and church on foot. A bus then takes you to the first highlight: the boat lifts on the Canal du Centre. After lunch by the water, you'll take a bus to the Keramis museum. This plan uses public transport to connect La Louvière's main but scattered attractions, leaving you time for exploration on foot within each cluster."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sandwich Boterham",
+            "tip": "Ein einfaches, aber leckeres belgisches Sandwich für unterwegs."
+          },
+          {
+            "name": "Frites-Stand",
+            "tip": "Probieren Sie authentische belgische Pommes mit einer Vielzahl von Saucen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boterham szendvics",
+            "tip": "Egyszerű, de finom belga szendvics útközben."
+          },
+          {
+            "name": "Sültkrumpli stand",
+            "tip": "Kóstoljon autentikus belga sült krumplit különféle szószokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sandwich Boterham",
+            "tip": "Un sandviș belgian simplu, dar delicios, pentru drum."
+          },
+          {
+            "name": "Stand de cartofi prăjiți",
+            "tip": "Gustați cartofi prăjiți belgieni autentici cu o varietate de sosuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boterham sandwich",
+            "tip": "A simple but delicious Belgian sandwich for on the go."
+          },
+          {
+            "name": "Frites stand",
+            "tip": "Try authentic Belgian fries with a variety of sauces."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt durch die Landschaft",
+            "tip": "Genießen Sie die Aussicht zwischen den Haltestellen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eine Bank im Stadtzentrum",
+            "tip": "Beobachten Sie das tägliche Leben der Einheimischen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás a tájon keresztül",
+            "tip": "Élvezze a kilátást a megállók között.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy pad a városközpontban",
+            "tip": "Figyelje a helyiek mindennapi életét.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătorie cu autobuzul prin peisaj",
+            "tip": "Bucurați-vă de priveliște între stații.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O bancă în centrul orașului",
+            "tip": "Observați viața de zi cu zi a localnicilor.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride through the countryside",
+            "tip": "Enjoy the views between stops.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A bench in the city center",
+            "tip": "Watch the daily life of the locals.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in Bahnhofsnähe",
+            "tip": "Kaufen Sie Last-Minute-Souvenirs, bevor Sie abreisen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok a pályaudvar közelében",
+            "tip": "Vásároljon utolsó pillanatban ajándéktárgyakat, mielőtt elutazik."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine lângă gară",
+            "tip": "Cumpărați suveniruri de ultim moment înainte de a pleca."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops near the train station",
+            "tip": "Buy last-minute souvenirs before you leave."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die Fahrplan-App des lokalen Verkehrsunternehmens herunter.",
+          "Achten Sie auf die Abfahrtszeiten des letzten Busses, um nicht stecken zu bleiben.",
+          "Eine Tageskarte ist oft günstiger als Einzeltickets."
+        ],
+        "hu": [
+          "Töltse le a helyi közlekedési vállalat menetrend-alkalmazását.",
+          "Figyeljen az utolsó busz indulási idejére, nehogy ott ragadjon.",
+          "A napijegy gyakran olcsóbb, mint az egyedi jegyek."
+        ],
+        "ro": [
+          "Descărcați aplicația cu orarul companiei locale de transport.",
+          "Fiți atenți la ora de plecare a ultimului autobuz pentru a nu rămâne blocat.",
+          "Un bilet de o zi este adesea mai ieftin decât biletele individuale."
+        ],
+        "en": [
+          "Download the local transit company's schedule app.",
+          "Pay attention to the last bus departure times to avoid getting stranded.",
+          "A day pass is often cheaper than single tickets."
+        ]
+      }
+    }
+  }
+}

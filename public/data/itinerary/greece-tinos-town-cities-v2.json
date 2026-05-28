@@ -1,0 +1,1484 @@
+{
+  "city_id": "greece-tinos-town-cities-v2",
+  "anchor": {
+    "name": "Tinos Stadt",
+    "coords": [
+      25.1667,
+      37.5333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Pallada-Platz",
+            "hu": "Pallada tér",
+            "ro": "Piața Pallada",
+            "en": "Pallada Square"
+          },
+          "coords": [
+            25.1633,
+            37.5365
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Starten Sie hier mit einem Freddo Cappuccino in einem der Kafenions.",
+            "hu": "Indítsa a napot egy freddo cappuccinóval az egyik helyi kafenionban.",
+            "ro": "Începeți ziua aici cu un freddo cappuccino la una dintre cafenele.",
+            "en": "Start your day here with a freddo cappuccino at one of the kafenions."
+          }
+        },
+        {
+          "name": {
+            "de": "Odos Evangelistrias",
+            "hu": "Evangelistrias út",
+            "ro": "Odos Evangelistrias",
+            "en": "Evangelistrias Street"
+          },
+          "coords": [
+            25.1625,
+            37.5388
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dies ist der Pilgerweg zur Kirche. Achten Sie auf die Gläubigen, die auf Knien kriechen.",
+            "hu": "Ez a zarándokút a templomhoz. Figyelje meg a térden csúszó hívőket.",
+            "ro": "Acesta este drumul de pelerinaj spre biserică. Fiți atenți la credincioșii care urcă în genunchi.",
+            "en": "This is the pilgrim's path to the church. Notice the faithful crawling on their knees."
+          }
+        },
+        {
+          "name": {
+            "de": "Panagia Evangelistria",
+            "hu": "Panagia Evangelistria-székesegyház",
+            "ro": "Panagia Evangelistria",
+            "en": "Panagia Evangelistria"
+          },
+          "coords": [
+            25.1617,
+            37.5411
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besuchen Sie das Mausoleum im Inneren, wo das Elli-Kreuzer-Wrack aufbewahrt wird.",
+            "hu": "Látogassa meg a bent található mauzóleumot, ahol az Elli-cirkáló roncsait őrzik.",
+            "ro": "Vizitați mausoleul din interior, unde se află epava crucișătorului Elli.",
+            "en": "Visit the mausoleum inside, where wreckage from the cruiser Elli is kept."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Tiner Künstler",
+            "hu": "Tínoszi Művészek Múzeuma",
+            "ro": "Muzeul Artiștilor din Tinos",
+            "en": "Museum of Tinian Artists"
+          },
+          "coords": [
+            25.1619,
+            37.5408
+          ],
+          "category": "museums",
+          "arrive_at": "12:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Werke des berühmten Bildhauers Giannoulis Chalepas.",
+            "hu": "Fókuszáljon a híres szobrász, Giannoulis Chalepas műveire.",
+            "ro": "Concentrați-vă pe lucrările faimosului sculptor Giannoulis Chalepas.",
+            "en": "Focus on the works of the famous sculptor Giannoulis Chalepas."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum Tinos",
+            "hu": "Tínoszi Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie din Tinos",
+            "en": "Archaeological Museum of Tinos"
+          },
+          "coords": [
+            25.1622,
+            37.5405
+          ],
+          "category": "museums",
+          "arrive_at": "13:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suchen Sie nach den Funden aus dem Heiligtum von Poseidon und Amphitrite.",
+            "hu": "Keresse a Poszeidón és Amphitrité szentélyéből származó leleteket.",
+            "ro": "Căutați artefactele din sanctuarul lui Poseidon și Amfitrita.",
+            "en": "Look for the findings from the sanctuary of Poseidon and Amphitrite."
+          }
+        },
+        {
+          "name": {
+            "de": "Elli-Denkmal",
+            "hu": "Elli-emlékmű",
+            "ro": "Monumentul Elli",
+            "en": "Elli Monument"
+          },
+          "coords": [
+            25.1648,
+            37.5342
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein ergreifender Ort, der an den Untergang des Kreuzers im Hafen im Jahr 1940 erinnert.",
+            "hu": "Megrendítő hely, amely az 1940-ben a kikötőben elsüllyesztett cirkálóra emlékeztet.",
+            "ro": "Un loc emoționant care comemorează scufundarea crucișătorului în port în 1940.",
+            "en": "A poignant spot commemorating the sinking of the cruiser in the harbor in 1940."
+          }
+        },
+        {
+          "name": {
+            "de": "Uferpromenade Tinos",
+            "hu": "Tínoszi parti sétány",
+            "ro": "Promenada de pe faleza din Tinos",
+            "en": "Tinos Waterfront Promenade"
+          },
+          "coords": [
+            25.1667,
+            37.5333
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:22",
+          "stay_min": 113,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Ouzo und Meze in einer der vielen Tavernen am Wasser.",
+            "hu": "Zárja a napot egy ouzóval és meze-vel a parti tavernák egyikében.",
+            "ro": "Încheiați ziua cu un ouzo și meze la una dintre numeroasele taverne de pe malul apei.",
+            "en": "End the day with an ouzo and meze at one of the many waterfront tavernas."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Tinos-Stadt beginnt am belebten Pallada-Platz, bevor Sie den heiligen Weg der Odos Evangelistrias hinauf zur prächtigen Panagia Evangelistria gehen. Am Vormittag tauchen Sie in die lokale Kunst und antike Geschichte in den nahegelegenen Museen ein. Der Nachmittag führt Sie zurück zum Hafen, wo Sie am Elli-Denkmal innehalten und einen langen Spaziergang entlang der lebhaften Uferpromenade genießen, die von Tavernen und dem Rauschen der Wellen gesäumt ist. Der Abend ist perfekt, um die berühmte Gastronomie der Insel mit Blick auf den Sonnenuntergang über der Ägäis zu genießen.",
+        "hu": "A tínoszi nap a nyüzsgő Pallada téren kezdődik, mielőtt végigsétálna a szent Odos Evangelistrias úton a csodálatos Panagia Evangelistria templomig. A délelőtt a helyi művészet és az ókori történelem felfedezésével telik a közeli múzeumokban. Délután visszatér a kikötőbe, ahol megáll az Elli-emlékműnél, majd egy hosszú sétát tesz a tavernák és a hullámok hangja által szegélyezett élénk parti sétányon. Az este tökéletes alkalom a sziget híres gasztronómiájának élvezetére, miközben az égei-tengeri naplementében gyönyörködik.",
+        "ro": "Ziua dvs. în orașul Tinos începe în Piața plină de viață Pallada, înainte de a urca pe calea sacră a Odos Evangelistrias către magnificul Panagia Evangelistria. Dimineața este dedicată artei locale și istoriei antice la muzeele din apropiere. După-amiaza vă aduce înapoi în port pentru a reflecta la Monumentul Elli, urmată de o plimbare lungă de-a lungul promenadei vibrante de la malul apei, plină de taverne și de sunetul valurilor. Seara este perfectă pentru a savura gastronomia renumită a insulei cu vedere la apusul soarelui peste Marea Egee.",
+        "en": "Your day in Tinos Town begins in the bustling Pallada Square before walking the sacred path of Odos Evangelistrias up to the magnificent Panagia Evangelistria. The morning is for immersing yourself in local art and ancient history at the nearby museums. The afternoon brings you back down to the port to reflect at the Elli Monument, followed by a long stroll along the vibrant waterfront promenade, lined with tavernas and the sound of the waves. Evening is perfect for enjoying the island's famed gastronomy overlooking the Aegean sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Louza",
+            "tip": "Probieren Sie diese lokal gepökelte Schweinelende, oft mit Fenchel gewürzt."
+          },
+          {
+            "name": "Tinianische Artischocken",
+            "tip": "Fragen Sie nach Artischockenherzen in Öl oder in Omeletts."
+          },
+          {
+            "name": "Taverne 'To Koutouki tis Elenis'",
+            "tip": "Bekannt für authentische, hausgemachte Kykladen-Gerichte in einer gemütlichen Gasse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Louza",
+            "tip": "Kóstolja meg ezt a helyben pácolt sertéskarajt, gyakran édesköménnyel ízesítve."
+          },
+          {
+            "name": "Tínoszi articsóka",
+            "tip": "Kérjen olajban eltett vagy omlettbe sütött articsókaszívet."
+          },
+          {
+            "name": "To Koutouki tis Elenis taverna",
+            "tip": "Híres az autentikus, házias kükládikus ételeiről egy hangulatos sikátorban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Louza",
+            "tip": "Încercați acest mușchi de porc maturat local, adesea asezonat cu fenicul."
+          },
+          {
+            "name": "Anghinare din Tinos",
+            "tip": "Cereți inimi de anghinare în ulei sau în omlete."
+          },
+          {
+            "name": "Taverna 'To Koutouki tis Elenis'",
+            "tip": "Renumită pentru mâncărăruri cicladice autentice, gătite ca acasă, pe o alee confortabilă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Louza",
+            "tip": "Try this locally cured pork loin, often seasoned with fennel."
+          },
+          {
+            "name": "Tinian Artichokes",
+            "tip": "Ask for artichoke hearts in oil or in omelettes."
+          },
+          {
+            "name": "Taverna 'To Koutouki tis Elenis'",
+            "tip": "Known for authentic, home-cooked Cycladic dishes in a cozy alleyway."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirche der Taxiarchen",
+            "tip": "Eine ruhigere Kirche abseits der Hauptpilgerroute, perfekt für einen Moment der Stille.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang am späten Nachmittag",
+            "tip": "Gehen Sie gegen Sonnenuntergang die Promenade entlang, wenn die Tagesausflügler weg sind.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Bänke oberhalb der Stadt",
+            "tip": "Finden Sie eine Bank auf den Hügeln hinter der Panagia Evangelistria für einen weiten Blick.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Taxiarches templom",
+            "tip": "Egy csendesebb templom a fő zarándokúttól távol, tökéletes egy csendes pillanathoz.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Késő délutáni séta",
+            "tip": "Sétáljon végig a sétányon napnyugta körül, amikor a napos kirándulók már elmentek.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Padok a város felett",
+            "tip": "Keressen egy padot a Panagia Evangelistria mögötti dombokon a pazar kilátásért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica Taxiarchen",
+            "tip": "O biserică mai liniștită, departe de traseul principal de pelerinaj, perfectă pentru un moment de reculegere.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare de după-amiază târzie",
+            "tip": "Plimbați-vă de-a lungul promenadei în jurul apusului, când excursioniștii de o zi au plecat.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Bănci deasupra orașului",
+            "tip": "Găsiți o bancă pe dealurile din spatele Panagia Evangelistria pentru o priveliște panoramică.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Church of the Taxiarches",
+            "tip": "A quieter church away from the main pilgrimage route, perfect for a moment of silence.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Late Afternoon Stroll",
+            "tip": "Walk the promenade around sunset when the day-trippers have left.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Benches above town",
+            "tip": "Find a bench on the hills behind Panagia Evangelistria for a sweeping view.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Odos Evangelistrias Geschäfte",
+            "tip": "Hier finden Sie religiöse Ikonen, Weihrauch und lokale Süßigkeiten wie Amygdalota (Mandelgebäck)."
+          },
+          {
+            "name": "Lokale Käsereien",
+            "tip": "Suchen Sie nach Geschäften, die 'Tiniako'-Käse verkaufen, einen einzigartigen lokalen Salzlakenkäse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Odos Evangelistrias üzletei",
+            "tip": "Itt vallási ikonokat, tömjént és helyi édességeket, például Amygdalotát (mandulás sütemény) talál."
+          },
+          {
+            "name": "Helyi sajtboltok",
+            "tip": "Keressen olyan üzleteket, amelyek 'Tiniako' sajtot árulnak, egy egyedi helyi sós sajtot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele de pe Odos Evangelistrias",
+            "tip": "Găsiți icoane religioase, tămâie și dulciuri locale precum Amygdalota (prăjituri cu migdale)."
+          },
+          {
+            "name": "Brânzării locale",
+            "tip": "Căutați magazine care vând brânză 'Tiniako', o brânză locală unică în saramură."
+          }
+        ],
+        "en": [
+          {
+            "name": "Odos Evangelistrias Shops",
+            "tip": "Find religious icons, incense, and local sweets like Amygdalota (almond cookies)."
+          },
+          {
+            "name": "Local Cheese Shops",
+            "tip": "Look for shops selling 'Tiniako' cheese, a unique local brine cheese."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Marmorstraßen rutschig sein können.",
+          "Für den Besuch der Panagia Evangelistria ist bescheidene Kleidung (bedeckte Schultern und Knie) erforderlich.",
+          "Die meisten Geschäfte halten eine Siesta von etwa 14:00 bis 17:00 Uhr.",
+          "Probieren Sie unbedingt die lokalen Käsesorten und das gepökelte Fleisch, die eine Spezialität von Tinos sind."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a márvány utcák csúszósak lehetnek.",
+          "A Panagia Evangelistria látogatásához szerény öltözet (fedett váll és térd) szükséges.",
+          "A legtöbb üzlet sziesztát tart kb. 14:00 és 17:00 között.",
+          "Feltétlenül kóstolja meg a helyi sajtokat és pácolt húsokat, amelyek Tínosz specialitásai."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece străzile de marmură pot fi alunecoase.",
+          "Pentru a vizita Panagia Evangelistria este necesară o ținută decentă (umeri și genunchi acoperiți).",
+          "Majoritatea magazinelor țin siesta de la aproximativ 14:00 la 17:00.",
+          "Asigurați-vă că încercați brânzeturile locale și carnea maturată, care sunt o specialitate a insulei Tinos."
+        ],
+        "en": [
+          "Wear comfortable shoes as the marble streets can be slippery.",
+          "Modest dress (covered shoulders and knees) is required to enter Panagia Evangelistria.",
+          "Most shops observe a siesta from around 2:00 PM to 5:00 PM.",
+          "Be sure to try the local cheeses and cured meats, which are a specialty of Tinos."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 5.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Uferpromenade Tinos",
+            "hu": "Tínoszi parti sétány",
+            "ro": "Promenada de pe faleza din Tinos",
+            "en": "Tinos Waterfront Promenade"
+          },
+          "coords": [
+            25.1667,
+            37.5333
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beginnen Sie mit einer leichten Radtour entlang der Küste, um die Morgenbrise zu genießen.",
+            "hu": "Kezdje egy könnyű biciklizéssel a part mentén, hogy élvezze a reggeli szellőt.",
+            "ro": "Începeți cu o plimbare ușoară cu bicicleta de-a lungul coastei pentru a vă bucura de briza dimineții.",
+            "en": "Start with a light cycle along the coast to enjoy the morning breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Elli-Denkmal",
+            "hu": "Elli-emlékmű",
+            "ro": "Monumentul Elli",
+            "en": "Elli Monument"
+          },
+          "coords": [
+            25.1648,
+            37.5342
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:44",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer Halt, um am Hafen Tribut zu zollen, bevor Sie in die Stadt hinauffahren.",
+            "hu": "Egy rövid megálló a kikötőben, hogy tisztelegjen, mielőtt felteker a városba.",
+            "ro": "O scurtă oprire pentru un omagiu în port înainte de a urca în oraș.",
+            "en": "A quick stop to pay respects at the harbour before heading up into town."
+          }
+        },
+        {
+          "name": {
+            "de": "Panagia Evangelistria",
+            "hu": "Panagia Evangelistria-székesegyház",
+            "ro": "Panagia Evangelistria",
+            "en": "Panagia Evangelistria"
+          },
+          "coords": [
+            25.1617,
+            37.5411
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Aufstieg ist steil, aber die spirituelle Atmosphäre ist die Mühe wert. Fahrrad abstellen und zu Fuß erkunden.",
+            "hu": "Az emelkedő meredek, de a spirituális légkör megéri a fáradságot. Zárja le a biciklit és fedezze fel gyalog.",
+            "ro": "Urcușul este abrupt, dar atmosfera spirituală merită efortul. Parcați bicicleta și explorați pe jos.",
+            "en": "The climb is steep, but the spiritual atmosphere is worth the effort. Lock your bike and explore on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum Tinos",
+            "hu": "Tínoszi Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie din Tinos",
+            "en": "Archaeological Museum of Tinos"
+          },
+          "coords": [
+            25.1622,
+            37.5405
+          ],
+          "category": "museums",
+          "arrive_at": "11:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kühlen Sie sich nach der Radtour ab und entdecken Sie die antike Vergangenheit der Insel.",
+            "hu": "Hűsöljön le a biciklizés után, és fedezze fel a sziget ókori múltját.",
+            "ro": "Răcoriți-vă după plimbarea cu bicicleta și descoperiți trecutul antic al insulei.",
+            "en": "Cool down after the ride and discover the island's ancient past."
+          }
+        },
+        {
+          "name": {
+            "de": "Pallada-Platz",
+            "hu": "Pallada tér",
+            "ro": "Piața Pallada",
+            "en": "Pallada Square"
+          },
+          "coords": [
+            25.1633,
+            37.5365
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der perfekte Ort für ein Mittagessen. Viele Tavernen zur Auswahl.",
+            "hu": "Tökéletes hely egy ebédhez. Számos taverna közül választhat.",
+            "ro": "Locul perfect pentru prânz. Multe taverne din care să alegeți.",
+            "en": "The perfect spot for lunch. Plenty of tavernas to choose from."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Taxiarchen",
+            "hu": "Taxiarches templom",
+            "ro": "Biserica Taxiarchen",
+            "en": "Church of the Taxiarches"
+          },
+          "coords": [
+            25.168,
+            37.5355
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:32",
+          "stay_min": 98,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Machen Sie eine gemütliche Radtour zu dieser ruhigeren Kirche, um dem Trubel zu entkommen.",
+            "hu": "Tegyen egy kellemes biciklitúrát ehhez a csendesebb templomhoz, hogy elkerülje a nyüzsgést.",
+            "ro": "Faceți o plimbare relaxantă cu bicicleta până la această biserică mai liniștită pentru a scăpa de aglomerație.",
+            "en": "Take a leisurely ride to this quieter church to escape the hustle."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie den Tag mit einer erfrischenden Radtour entlang der Uferpromenade von Tinos-Stadt. Nach einem kurzen Halt am Elli-Denkmal nehmen Sie den anspruchsvollen Anstieg zur Panagia Evangelistria in Angriff. Oben angekommen, stellen Sie Ihr Fahrrad ab und erkunden den heiligen Komplex und das nahegelegene Archäologische Museum zu Fuß. Mittags radeln Sie bergab zum Pallada-Platz für ein wohlverdientes Mittagessen. Der Nachmittag ist für eine entspannte Fahrt zur ruhigeren Kirche der Taxiarchen reserviert, die einen friedlichen Abschluss Ihrer Erkundungstour bietet.",
+        "hu": "Kezdje a napot egy frissítő biciklizéssel Tínosz város parti sétányán. Az Elli-emlékműnél tett rövid megálló után vágjon neki a kihívást jelentő emelkedőnek a Panagia Evangelistria-templomhoz. Miután felért, zárja le a biciklit, és fedezze fel gyalog a szent komplexumot és a közeli Régészeti Múzeumot. Délben guruljon le a Pallada térre egy jól megérdemelt ebédért. A délutánt egy nyugodt tekerésnek szentelje a csendesebb Taxiarches templomhoz, amely békés lezárása a felfedezőútnak.",
+        "ro": "Începeți ziua cu o plimbare revigorantă cu bicicleta de-a lungul promenadei din orașul Tinos. După o scurtă oprire la Monumentul Elli, abordați urcarea provocatoare către Panagia Evangelistria. Odată ajuns în vârf, parcați bicicleta și explorați complexul sacru și Muzeul de Arheologie din apropiere pe jos. La prânz, coborâți pe bicicletă spre Piața Pallada pentru un prânz binemeritat. După-amiaza este rezervată unei plimbări relaxante către biserica mai liniștită Taxiarchen, oferind o încheiere pașnică a explorării.",
+        "en": "Kick off the day with a refreshing cycle along the Tinos Town waterfront. After a brief stop at the Elli Monument, tackle the challenging climb up to Panagia Evangelistria. Once at the top, park your bike and explore the sacred complex and nearby Archaeological Museum on foot. For lunch, coast downhill to Pallada Square for a well-deserved meal. The afternoon is reserved for a relaxed ride to the quieter Church of the Taxiarches, providing a peaceful end to your exploration."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fourtalia",
+            "tip": "Eine lokale Omelett-Spezialität mit Wurst und Kartoffeln - perfekte Energie für Radfahrer."
+          },
+          {
+            "name": "Lokaler Honig",
+            "tip": "Suchen Sie nach Thymianhonig, um Ihren Joghurt oder Tee zu süßen."
+          },
+          {
+            "name": "Tarsanas Taverna",
+            "tip": "Direkt am Wasser gelegen, ideal für frischen Fisch nach einer langen Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fourtalia",
+            "tip": "Helyi omlett specialitás kolbásszal és burgonyával - tökéletes energia a bicikliseknek."
+          },
+          {
+            "name": "Helyi méz",
+            "tip": "Keressen kakukkfűmézet a joghurt vagy tea édesítéséhez."
+          },
+          {
+            "name": "Tarsanas Taverna",
+            "tip": "Közvetlenül a vízparton található, ideális friss halakhoz egy hosszú biciklizés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fourtalia",
+            "tip": "O specialitate locală de omletă cu cârnați și cartofi - energie perfectă pentru bicicliști."
+          },
+          {
+            "name": "Miere locală",
+            "tip": "Căutați miere de cimbru pentru a vă îndulci iaurtul sau ceaiul."
+          },
+          {
+            "name": "Taverna Tarsanas",
+            "tip": "Situată chiar pe malul apei, excelentă pentru pește proaspăt după o plimbare lungă cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fourtalia",
+            "tip": "A local omelette specialty with sausage and potatoes - perfect energy for cyclists."
+          },
+          {
+            "name": "Local Honey",
+            "tip": "Look for thyme honey to sweeten your yogurt or tea."
+          },
+          {
+            "name": "Tarsanas Taverna",
+            "tip": "Located right on the water, great for fresh fish after a long ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stavros Strand",
+            "tip": "Radfahren Sie westlich des Hafens zu diesem ruhigen Strand für eine Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Agios Fokas Strand",
+            "tip": "Eine längere, flache Fahrt östlich der Stadt führt Sie zu diesem weitläufigen Sandstrand.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gassen der Oberstadt",
+            "tip": "Verirren Sie sich in den ruhigen Gassen rund um die Panagia Evangelistria, abseits der Hauptstraße.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sztavrosz strand",
+            "tip": "Biciklizzen nyugatra a kikötőtől ehhez a csendes strandhoz egy kis pihenőre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Agios Fokas strand",
+            "tip": "Egy hosszabb, sík út a várostól keletre elvezeti Önt ehhez a tágas homokos strandhoz.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Felsővárosi sikátorok",
+            "tip": "Vesszen el a Panagia Evangelistria körüli csendes sikátorokban, távol a főúttól.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Stavros",
+            "tip": "Mergeți cu bicicleta la vest de port până la această plajă liniștită pentru o pauză.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plaja Agios Fokas",
+            "tip": "O plimbare mai lungă și plată la est de oraș vă duce la această plajă întinsă de nisip.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Aleile din Orașul de Sus",
+            "tip": "Pierdeți-vă pe aleile liniștite din jurul Panagia Evangelistria, departe de strada principală.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Stavros Beach",
+            "tip": "Cycle just west of the port to this quiet beach for a break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Agios Fokas Beach",
+            "tip": "A longer, flat ride east of the town takes you to this expansive sandy beach.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Upper Town Alleys",
+            "tip": "Get lost in the quiet alleys around Panagia Evangelistria, away from the main road.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradverleih",
+            "tip": "Mehrere Geschäfte in der Nähe des Hafens vermieten Fahrräder, einschließlich E-Bikes für die Hügel."
+          },
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Tanken Sie Energie mit einem Käsekuchen (Tiropita) oder Spinatkuchen (Spanakopita)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Biciklikölcsönzők",
+            "tip": "Több üzlet is kölcsönöz bicikliket a kikötő közelében, beleértve az e-bike-okat a dombokhoz."
+          },
+          {
+            "name": "Helyi pékségek",
+            "tip": "Töltődjön fel energiával egy sajtos pitével (Tiropita) vagy spenótos pitével (Spanakopita)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Închirieri de biciclete",
+            "tip": "Mai multe magazine lângă port închiriază biciclete, inclusiv e-bike-uri pentru dealuri."
+          },
+          {
+            "name": "Brutării locale",
+            "tip": "Alimentați-vă cu o plăcintă cu brânză (Tiropita) sau o plăcintă cu spanac (Spanakopita)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Rentals",
+            "tip": "Several shops near the port rent bicycles, including e-bikes for the hills."
+          },
+          {
+            "name": "Local Bakeries",
+            "tip": "Fuel up with a cheese pie (Tiropita) or spinach pie (Spanakopita)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein E-Bike wird für den Aufstieg zur Panagia Evangelistria dringend empfohlen.",
+          "Schließen Sie Ihr Fahrrad immer ab, besonders in den belebten Gegenden.",
+          "Nehmen Sie viel Wasser mit, besonders in den Sommermonaten.",
+          "Achten Sie auf Fußgänger auf den gemeinsamen Wegen entlang der Promenade."
+        ],
+        "hu": [
+          "Az e-bike erősen ajánlott a Panagia Evangelistria-templomhoz való feljutáshoz.",
+          "Mindig zárja le a biciklijét, különösen a forgalmas területeken.",
+          "Vigyen magával sok vizet, különösen a nyári hónapokban.",
+          "Vigyázzon a gyalogosokra a sétány közös útvonalain."
+        ],
+        "ro": [
+          "O bicicletă electrică este foarte recomandată pentru urcarea la Panagia Evangelistria.",
+          "Încuiați-vă întotdeauna bicicleta, mai ales în zonele aglomerate.",
+          "Luați multă apă cu dumneavoastră, mai ales în lunile de vară.",
+          "Fiți atenți la pietoni pe căile comune de-a lungul promenadei."
+        ],
+        "en": [
+          "An e-bike is highly recommended for the climb to Panagia Evangelistria.",
+          "Always lock your bike, especially in the busy areas.",
+          "Carry plenty of water, especially during the summer months.",
+          "Be mindful of pedestrians on the shared pathways along the promenade."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 10.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Hafen",
+            "hu": "Parkoló a kikötőnél",
+            "ro": "Parcare în port",
+            "en": "Port Parking Area"
+          },
+          "coords": [
+            25.1675,
+            37.5329
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier, um den unteren Teil der Stadt zu erkunden. Cluster A beginnt.",
+            "hu": "Parkoljon itt a város alsó részének felfedezéséhez. Az A-klaszter itt kezdődik.",
+            "ro": "Parcați aici pentru a explora partea de jos a orașului. Clusterul A începe.",
+            "en": "Park here to explore the lower part of town. Cluster A begins."
+          }
+        },
+        {
+          "name": {
+            "de": "Uferpromenade & Elli-Denkmal",
+            "hu": "Parti sétány és Elli-emlékmű",
+            "ro": "Promenada și Monumentul Elli",
+            "en": "Waterfront & Elli Monument"
+          },
+          "coords": [
+            25.1667,
+            37.5333
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein gemütlicher Spaziergang, um den Morgen am Meer zu beginnen.",
+            "hu": "Egy kellemes séta a reggel tengerparti indításához.",
+            "ro": "O plimbare relaxantă pentru a începe dimineața lângă mare.",
+            "en": "A leisurely walk to start the morning by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Pallada-Platz",
+            "hu": "Pallada tér",
+            "ro": "Piața Pallada",
+            "en": "Pallada Square"
+          },
+          "coords": [
+            25.1633,
+            37.5365
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die Gassen zum Hauptplatz für einen Kaffee.",
+            "hu": "Sétáljon át a sikátorokon a főtérre egy kávéra.",
+            "ro": "Plimbați-vă pe alei până în piața principală pentru o cafea.",
+            "en": "Stroll through the alleyways to the main square for a coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Hügel der Panagia",
+            "hu": "Utazás a Panagia-dombhoz",
+            "ro": "Drumul spre Dealul Panagia",
+            "en": "Drive to Panagia Hill"
+          },
+          "coords": [
+            25.1615,
+            37.5415
+          ],
+          "category": "transport",
+          "arrive_at": "11:10",
+          "stay_min": 5,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum oberen Parkplatz. Beginnen Sie die Erkundung von Cluster B.",
+            "hu": "Vezessen fel a felső parkolóba. Kezdje meg a B-klaszter felfedezését.",
+            "ro": "Conduceți până la parcarea de sus. Începeți explorarea clusterului B.",
+            "en": "Drive up to the upper parking area. Begin Cluster B exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Panagia Evangelistria",
+            "hu": "Panagia Evangelistria-székesegyház",
+            "ro": "Panagia Evangelistria",
+            "en": "Panagia Evangelistria"
+          },
+          "coords": [
+            25.1617,
+            37.5411
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, die Wunder und die spirituelle Energie dieses Ortes aufzunehmen.",
+            "hu": "Szánjon időt arra, hogy befogadja e hely csodáit és spirituális energiáját.",
+            "ro": "Luați-vă timp pentru a absorbi minunile și energia spirituală a acestui loc.",
+            "en": "Take your time to absorb the wonders and spiritual energy of this place."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Tiner Künstler & Archäologisches Museum",
+            "hu": "Tínoszi Művészek Múzeuma és Régészeti Múzeum",
+            "ro": "Muzeul Artiștilor din Tinos și Muzeul de Arheologie",
+            "en": "Tinian Artists & Archaeological Museums"
+          },
+          "coords": [
+            25.1619,
+            37.5408
+          ],
+          "category": "museums",
+          "arrive_at": "12:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besuchen Sie beide Museen im selben Komplex, um Kunst und Geschichte zu verbinden.",
+            "hu": "Látogassa meg mindkét múzeumot ugyanabban a komplexumban a művészet és a történelem ötvözéséhez.",
+            "ro": "Vizitați ambele muzee din același complex pentru o combinație de artă și istorie.",
+            "en": "Visit both museums located within the same complex for a mix of art and history."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Strand von Agios Fokas",
+            "hu": "Utazás az Agios Fokas strandra",
+            "ro": "Drumul spre plaja Agios Fokas",
+            "en": "Drive to Agios Fokas Beach"
+          },
+          "coords": [
+            25.1883,
+            37.534
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:10",
+          "stay_min": 115,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Entfliehen Sie am Nachmittag an einen nahegelegenen Strand zum Entspannen.",
+            "hu": "Meneküljön el délután egy közeli strandra pihenni.",
+            "ro": "Evadați la o plajă din apropiere pentru relaxare după-amiaza.",
+            "en": "Escape to a nearby beach for some afternoon relaxation."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag, indem Sie am Hafen parken und den unteren Teil von Tinos-Stadt zu Fuß erkunden, einschließlich der belebten Uferpromenade. Am Vormittag fahren Sie zum Hügel der Panagia Evangelistria. Parken Sie dort und widmen Sie sich dem spirituellen Herzen der Insel, indem Sie die Kirche und die benachbarten Museen zu Fuß erkunden. Der Nachmittag ist für eine kurze Autofahrt zum entspannenden Strand von Agios Fokas reserviert, wo Sie die Sonne und das Meer genießen können, bevor Sie zum Abendessen in die Stadt zurückkehren.",
+        "hu": "Kezdje a napot a kikötőben való parkolással, és fedezze fel gyalog Tínosz város alsó részét, beleértve a nyüzsgő parti sétányt. Délelőtt vezessen fel a Panagia Evangelistria dombjára. Parkoljon le, és szentelje magát a sziget spirituális szívének, gyalogosan felfedezve a templomot és a szomszédos múzeumokat. A délután egy rövid autózásra van fenntartva a pihentető Agios Fokas strandra, ahol élvezheti a napot és a tengert, mielőtt visszatérne a városba vacsorázni.",
+        "ro": "Începeți ziua parcând în port și explorând pe jos partea de jos a orașului Tinos, inclusiv promenada plină de viață. La jumătatea dimineții, conduceți până la dealul Panagia Evangelistria. Parcați acolo și dedicați-vă inimii spirituale a insulei, explorând biserica și muzeele adiacente pe jos. După-amiaza este rezervată unei scurte călătorii cu mașina spre plaja relaxantă Agios Fokas pentru a vă bucura de soare și mare înainte de a vă întoarce în oraș pentru cină.",
+        "en": "Start your day by parking at the port and exploring the lower part of Tinos town on foot, including the bustling waterfront. Mid-morning, drive up to the hill of Panagia Evangelistria. Park there and devote yourself to the spiritual heart of the island, exploring the church and its adjacent museums on foot. The afternoon is for a short drive to the relaxing Agios Fokas beach to enjoy the sun and sea before returning to town for the evening."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Marathia Tavern",
+            "tip": "Am Strand von Agios Fokas gelegen, berühmt für frische Meeresfrüchte und einen tollen Blick aufs Meer."
+          },
+          {
+            "name": "Käse von Tinos",
+            "tip": "Kaufen Sie Kopanisti (einen würzigen, pfeffrigen Weichkäse) direkt von einem lokalen Produzenten."
+          },
+          {
+            "name": "Süße Löffel (Glyka tou koutaliou)",
+            "tip": "Probieren Sie diese hausgemachten Fruchtkonserven, die oft zum Kaffee serviert werden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marathia Taverna",
+            "tip": "Az Agios Fokas strandon található, híres a friss tenger gyümölcseiről és a nagyszerű tengeri kilátásról."
+          },
+          {
+            "name": "Tínoszi sajt",
+            "tip": "Vásároljon Kopanistit (fűszeres, borsos lágy sajt) közvetlenül egy helyi termelőtől."
+          },
+          {
+            "name": "Kanálédesség (Glyka tou koutaliou)",
+            "tip": "Kóstolja meg ezeket a házi gyümölcskonzerveket, amelyeket gyakran kávé mellé szolgálnak fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Taverna Marathia",
+            "tip": "Situată pe plaja Agios Fokas, renumită pentru fructe de mare proaspete și o priveliște superbă la mare."
+          },
+          {
+            "name": "Brânză de Tinos",
+            "tip": "Cumpărați Kopanisti (o brânză moale, picantă și piperată) direct de la un producător local."
+          },
+          {
+            "name": "Dulceață (Glyka tou koutaliou)",
+            "tip": "Încercați aceste conserve de fructe de casă, adesea servite cu cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marathia Tavern",
+            "tip": "Located at Agios Fokas beach, famous for fresh seafood and great sea views."
+          },
+          {
+            "name": "Tinos Cheese",
+            "tip": "Buy some Kopanisti (a spicy, peppery soft cheese) directly from a local producer."
+          },
+          {
+            "name": "Spoon Sweets (Glyka tou koutaliou)",
+            "tip": "Try these homemade fruit preserves, often served with coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kloster Kechrovouni",
+            "tip": "Eine kurze Autofahrt von der Stadt entfernt, bietet dieses Nonnenkloster eine unglaubliche Ruhe und Geschichte.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Exomvourgo-Felsen",
+            "tip": "Fahren Sie in Richtung des alten venezianischen Festungsfelsens für eine atemberaubende Aussicht auf die Insel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Strand von Kionia",
+            "tip": "Fahren Sie westlich der Stadt zum archäologischen Gelände und dem ruhigen Strand daneben.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kechrovouni kolostor",
+            "tip": "Egy rövid autóútra a várostól, ez az apácakolostor hihetetlen békét és történelmet kínál.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Exomvourgo-szikla",
+            "tip": "Vezessen az ősi velencei erőd sziklája felé a sziget lélegzetelállító kilátásáért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kionia strand",
+            "tip": "Vezessen a várostól nyugatra a régészeti lelőhelyhez és a mellette lévő csendes strandhoz.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mănăstirea Kechrovouni",
+            "tip": "La o scurtă distanță cu mașina de oraș, această mănăstire de maici oferă o liniște și o istorie incredibile.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Stânca Exomvourgo",
+            "tip": "Conduceți spre vechea stâncă a fortăreței venețiene pentru vederi uimitoare ale insulei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plaja Kionia",
+            "tip": "Conduceți la vest de oraș spre situl arheologic și plaja liniștită de lângă el.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kechrovouni Monastery",
+            "tip": "A short drive from town, this nunnery offers incredible peace and history.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Exomvourgo Rock",
+            "tip": "Drive towards the ancient Venetian fortress rock for breathtaking island views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kionia Beach",
+            "tip": "Drive west of town to the archaeological site and the quiet beach next to it.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marmorkunst",
+            "tip": "Tinos ist berühmt für seine Marmorbildhauer. Suchen Sie nach kleinen, handgefertigten Stücken in den Stadtgeschäften."
+          },
+          {
+            "name": "Keramik",
+            "tip": "Viele Geschäfte verkaufen handbemalte Keramik, die von der kykladischen Kunst inspiriert ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Márványművészet",
+            "tip": "Tínosz híres a márványszobrászairól. Keressen kis, kézzel készített darabokat a városi üzletekben."
+          },
+          {
+            "name": "Kerámia",
+            "tip": "Sok üzlet árul kézzel festett kerámiát, amelyet a kükladikus művészet ihletett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arta marmurei",
+            "tip": "Tinos este renumit pentru sculptorii săi în marmură. Căutați piese mici, lucrate manual, în magazinele din oraș."
+          },
+          {
+            "name": "Ceramică",
+            "tip": "Multe magazine vând ceramică pictată manual, inspirată de arta cicladică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marble Art",
+            "tip": "Tinos is famous for its marble sculptors. Look for small, handmade pieces in the town shops."
+          },
+          {
+            "name": "Ceramics",
+            "tip": "Many shops sell hand-painted ceramics inspired by Cycladic art."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken kann im Sommer eine Herausforderung sein. Seien Sie geduldig oder nutzen Sie gebührenpflichtige Parkplätze.",
+          "Ein kleines Auto ist ideal für die engen Straßen.",
+          "Die Straßen, die zu den Dörfern führen, sind oft schmal und kurvenreich.",
+          "Kombinieren Sie Ihren Besuch in Tinos-Stadt mit einer Fahrt zu den malerischen Dörfern im Landesinneren wie Pyrgos oder Volax."
+        ],
+        "hu": [
+          "A parkolás nyáron kihívást jelenthet. Legyen türelmes, vagy használja a fizetős parkolókat.",
+          "A szűk utcákhoz ideális egy kis autó.",
+          "A falvakba vezető utak gyakran keskenyek és kanyargósak.",
+          "Kombinálja a tínoszi látogatást egy kirándulással a festői szárazföldi falvakba, mint Pyrgos vagy Volax."
+        ],
+        "ro": [
+          "Parcarea poate fi o provocare în timpul verii. Aveți răbdare sau folosiți parcările cu plată.",
+          "O mașină mică este ideală pentru străzile înguste.",
+          "Drumurile care duc spre sate sunt adesea înguste și șerpuite.",
+          "Combinați vizita în orașul Tinos cu o excursie la satele pitorești din interior, cum ar fi Pyrgos sau Volax."
+        ],
+        "en": [
+          "Parking can be challenging in the summer. Be patient or use paid parking lots.",
+          "A small car is ideal for the narrow streets.",
+          "The roads leading to villages are often narrow and winding.",
+          "Combine your visit to Tinos Town with a drive to picturesque inland villages like Pyrgos or Volax."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Busbahnhof (KTEL)",
+            "hu": "Központi buszpályaudvar (KTEL)",
+            "ro": "Autogara Centrală (KTEL)",
+            "en": "Central Bus Station (KTEL)"
+          },
+          "coords": [
+            25.1655,
+            37.5348
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie Ihr Tagesticket und beginnen Sie hier. Cluster A (Hafen) ist zu Fuß erreichbar.",
+            "hu": "Vásárolja meg a napijegyét, és kezdje itt. Az A-klaszter (kikötő) gyalogosan elérhető.",
+            "ro": "Cumpărați-vă biletul de o zi și începeți de aici. Clusterul A (portul) este la distanță de mers pe jos.",
+            "en": "Buy your day ticket and start here. Cluster A (port) is within walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Pallada-Platz & Uferpromenade",
+            "hu": "Pallada tér és parti sétány",
+            "ro": "Piața Pallada și Promenada",
+            "en": "Pallada Square & Waterfront"
+          },
+          "coords": [
+            25.1648,
+            37.5355
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Atmosphäre des Hafens, bevor Sie den Bus bergauf nehmen.",
+            "hu": "Élvezze a kikötő hangulatát, mielőtt felszáll a hegyre menő buszra.",
+            "ro": "Bucurați-vă de atmosfera portului înainte de a lua autobuzul la deal.",
+            "en": "Soak in the port atmosphere before catching the bus uphill."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zur Panagia Evangelistria",
+            "hu": "Buszozás a Panagia Evangelistria-templomhoz",
+            "ro": "Călătorie cu autobuzul la Panagia Evangelistria",
+            "en": "Bus Ride to Panagia Evangelistria"
+          },
+          "coords": [
+            25.1616,
+            37.5414
+          ],
+          "category": "transport",
+          "arrive_at": "10:40",
+          "stay_min": 5,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den lokalen Bus nach oben. Cluster B (Hügel) beginnt hier.",
+            "hu": "Menjen fel a helyi busszal. A B-klaszter (domb) itt kezdődik.",
+            "ro": "Luați autobuzul local până sus. Clusterul B (dealul) începe aici.",
+            "en": "Take the local bus to the top. Cluster B (hill) begins here."
+          }
+        },
+        {
+          "name": {
+            "de": "Panagia Evangelistria",
+            "hu": "Panagia Evangelistria-székesegyház",
+            "ro": "Panagia Evangelistria",
+            "en": "Panagia Evangelistria"
+          },
+          "coords": [
+            25.1617,
+            37.5411
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der wichtigste Wallfahrtsort Griechenlands. Kleiden Sie sich respektvoll.",
+            "hu": "Görögország legfontosabb zarándokhelye. Öltözzön tisztelettudóan.",
+            "ro": "Cel mai important loc de pelerinaj din Grecia. Îmbrăcați-vă respectuos.",
+            "en": "The most important pilgrimage site in Greece. Dress respectfully."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum Tinos",
+            "hu": "Tínoszi Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie din Tinos",
+            "en": "Archaeological Museum of Tinos"
+          },
+          "coords": [
+            25.1622,
+            37.5405
+          ],
+          "category": "museums",
+          "arrive_at": "12:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang bergab von der Kirche. Perfekt, um der Mittagssonne zu entkommen.",
+            "hu": "Egy rövid séta lefelé a templomtól. Tökéletes menedék a déli nap elől.",
+            "ro": "O scurtă plimbare la vale de la biserică. Perfect pentru a scăpa de soarele de la amiază.",
+            "en": "A short walk downhill from the church. Perfect for escaping the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang bergab zum Hafen",
+            "hu": "Séta le a kikötőbe",
+            "ro": "Plimbare la vale spre port",
+            "en": "Walk Downhill to Port"
+          },
+          "coords": [
+            25.1667,
+            37.5333
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:25",
+          "stay_min": 130,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie den Spaziergang auf der Pilgerstraße, um den Tag ausklingen zu lassen.",
+            "hu": "Élvezze a sétát lefelé a zarándokúton a nap lezárásaként.",
+            "ro": "Bucurați-vă de plimbarea la vale pe drumul pelerinilor pentru a încheia ziua.",
+            "en": "Enjoy the walk down the pilgrim's road to wind down the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie am zentralen Busbahnhof, wo Sie das Hafengebiet zu Fuß erkunden. Saugen Sie die maritime Atmosphäre auf, bevor Sie einen lokalen Bus nehmen, der Sie mühelos den Hügel hinauf zur Panagia Evangelistria bringt. Verbringen Sie den Vormittag damit, diesen heiligen Ort und das nahe gelegene Archäologische Museum zu erkunden. Am Nachmittag spazieren Sie gemütlich die Odos Evangelistrias hinunter, folgen dem Weg der Pilger zurück zum Hafen, wo Sie in einer der vielen Tavernen am Wasser entspannen können.",
+        "hu": "Kezdje a központi buszpályaudvaron, ahonnan gyalogosan felfedezheti a kikötő területét. Szívja magába a tengeri hangulatot, mielőtt felszállna egy helyi buszra, amely könnyedén felviszi a dombra a Panagia Evangelistria-templomhoz. Töltse a délelőttöt e szent hely és a közeli Régészeti Múzeum felfedezésével. Délután sétáljon le kényelmesen az Odos Evangelistrias úton, követve a zarándokok útját vissza a kikötőbe, ahol pihenhet az egyik parti tavernában.",
+        "ro": "Începeți de la autogara centrală, unde veți explora zona portuară pe jos. Bucurați-vă de atmosfera maritimă înainte de a lua un autobuz local care vă va duce fără efort pe deal până la Panagia Evangelistria. Petreceți dimineața explorând acest loc sacru și Muzeul de Arheologie din apropiere. După-amiaza, faceți o plimbare relaxantă pe Odos Evangelistrias, urmând calea pelerinilor înapoi în port pentru a vă relaxa la una dintre multele taverne de la malul apei.",
+        "en": "Start at the central bus station, where you'll explore the port area on foot. Soak in the maritime atmosphere before catching a local bus to effortlessly take you up the hill to Panagia Evangelistria. Spend the morning exploring this sacred site and the nearby Archaeological Museum. In the afternoon, take a leisurely stroll down Odos Evangelistrias, following the path of pilgrims back to the port, where you can relax at one of the many waterfront tavernas."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckereien am Hafen",
+            "tip": "Holen Sie sich ein schnelles und leckeres Tiropita (Käsepastete) für ein günstiges Mittagessen."
+          },
+          {
+            "name": "Symposion",
+            "tip": "Bekannt für seine große Auswahl an griechischen Gerichten und die Nähe zum Busbahnhof."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Fragen Sie nach 'Nissos', einem preisgekrönten Bier, das auf Tinos gebraut wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékségek a kikötőben",
+            "tip": "Vegyen egy gyors és finom Tiropitát (sajtos pite) egy olcsó ebédhez."
+          },
+          {
+            "name": "Symposion",
+            "tip": "Híres a görög ételek széles választékáról és a buszpályaudvar közelségéről."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Kérjen 'Nissos'-t, egy díjnyertes sört, amelyet Tínoszon főznek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăriile din port",
+            "tip": "Luați o Tiropita (plăcintă cu brânză) rapidă și delicioasă pentru un prânz ieftin."
+          },
+          {
+            "name": "Symposion",
+            "tip": "Renumit pentru selecția sa largă de preparate grecești și proximitatea față de autogară."
+          },
+          {
+            "name": "Bere locală",
+            "tip": "Întrebați de 'Nissos', o bere premiată, produsă în Tinos."
+          }
+        ],
+        "en": [
+          {
+            "name": "Port Bakeries",
+            "tip": "Grab a quick and delicious Tiropita (cheese pie) for a cheap lunch."
+          },
+          {
+            "name": "Symposion",
+            "tip": "Known for its wide selection of Greek dishes and proximity to the bus station."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Ask for 'Nissos', an award-winning beer brewed on Tinos."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten der Panagia Evangelistria",
+            "tip": "Finden Sie einen ruhigen Platz in den Gärten rund um die Kirche.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ende der Mole",
+            "tip": "Gehen Sie bis zum Ende der Fähranlegestelle für einen weiten Blick zurück auf die Stadt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Seitenstraßen",
+            "tip": "Erkunden Sie die Gassen abseits der Haupttouristenpfade für ein Gefühl des lokalen Lebens.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Panagia Evangelistria kertjei",
+            "tip": "Keressen egy csendes helyet a templomot körülvevő kertekben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A móló vége",
+            "tip": "Sétáljon el a kompkikötő végéig, ahonnan pazar kilátás nyílik a városra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Mellékutcák",
+            "tip": "Fedezze fel a fő turistaútvonalaktól távol eső sikátorokat a helyi életérzésért.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Panagia Evangelistria",
+            "tip": "Găsiți un loc liniștit în grădinile din jurul bisericii.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Capătul digului",
+            "tip": "Mergeți până la capătul digului de feribot pentru o priveliște amplă asupra orașului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Străzi lăturalnice",
+            "tip": "Explorați aleile departe de principalele trasee turistice pentru a simți viața locală.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gardens of Panagia Evangelistria",
+            "tip": "Find a quiet spot within the gardens surrounding the church.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "End of the Pier",
+            "tip": "Walk to the far end of the ferry pier for a wide view back at the town.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Side Streets",
+            "tip": "Explore the alleyways off the main tourist paths for a sense of local life.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kafenio-Vorräte",
+            "tip": "Kaufen Sie griechischen Kaffee und ein Briki (Kaffeekanne), um ihn zu Hause zuzubereiten."
+          },
+          {
+            "name": "Lokale Kräuter",
+            "tip": "Suchen Sie nach getrocknetem Oregano, Thymian und anderen griechischen Kräutern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kávézói kellékek",
+            "tip": "Vásároljon görög kávét és egy brikit (kávéfőző edény), hogy otthon is elkészíthesse."
+          },
+          {
+            "name": "Helyi fűszerek",
+            "tip": "Keressen szárított oregánót, kakukkfüvet és más görög fűszernövényeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Provizii pentru Kafenio",
+            "tip": "Cumpărați cafea grecească și un ibric (oală de cafea) pentru a o prepara acasă."
+          },
+          {
+            "name": "Ierburi locale",
+            "tip": "Căutați oregano uscat, cimbru și alte ierburi grecești."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kafenio Supplies",
+            "tip": "Buy some Greek coffee and a briki (coffee pot) to make it at home."
+          },
+          {
+            "name": "Local Herbs",
+            "tip": "Look for dried oregano, thyme, and other Greek herbs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, da er saisonal variieren kann.",
+          "Haben Sie Kleingeld für Bustickets bereit.",
+          "Die Busse können in der Hochsaison überfüllt sein.",
+          "Der Spaziergang bergab von der Panagia Evangelistria ist angenehm und bietet großartige Fotomöglichkeiten."
+        ],
+        "hu": [
+          "Előre ellenőrizze a buszmenetrendet, mivel szezonálisan változhat.",
+          "Készítsen elő aprópénzt a buszjegyekhez.",
+          "A buszok a főszezonban zsúfoltak lehetnek.",
+          "A séta lefelé a Panagia Evangelistria-templomtól kellemes és nagyszerű fotózási lehetőségeket kínál."
+        ],
+        "ro": [
+          "Verificați programul autobuzelor în avans, deoarece acesta poate varia sezonier.",
+          "Pregătiți monede pentru biletele de autobuz.",
+          "Autobuzele pot fi aglomerate în timpul sezonului de vârf.",
+          "Plimbarea la vale de la Panagia Evangelistria este plăcută și oferă oportunități excelente de fotografiere."
+        ],
+        "en": [
+          "Check the bus schedule in advance, as it can vary seasonally.",
+          "Have small change ready for bus tickets.",
+          "Buses can be crowded during peak season.",
+          "The walk downhill from Panagia Evangelistria is pleasant and offers great photo opportunities."
+        ]
+      }
+    }
+  }
+}

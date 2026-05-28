@@ -1,0 +1,996 @@
+{
+  "city_id": "portugal-valenca-cities-v2",
+  "anchor": {
+    "name": "Valença",
+    "coords": [
+      -8.6333,
+      42.0333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:31",
+      "total_km": 2.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Fortaleza de Valença",
+            "hu": "Valença erőd",
+            "ro": "Fortăreața din Valença",
+            "en": "Fortress of Valença"
+          },
+          "coords": [
+            -8.634,
+            42.033
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Portas da Coroada",
+            "hu": "Portas da Coroada (Koronás Kapu)",
+            "ro": "Porțile Coroada",
+            "en": "Coroada Gates"
+          },
+          "coords": [
+            -8.6335,
+            42.0315
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:38",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4
+        },
+        {
+          "name": {
+            "de": "Kirche Santo Estêvão",
+            "hu": "Santo Estêvão templom",
+            "ro": "Biserica Santo Estêvão",
+            "en": "Church of Santo Estêvão"
+          },
+          "coords": [
+            -8.6345,
+            42.0325
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:09",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Maria dos Anjos",
+            "hu": "Santa Maria dos Anjos templom",
+            "ro": "Biserica Santa Maria dos Anjos",
+            "en": "Church of Santa Maria dos Anjos"
+          },
+          "coords": [
+            -8.635,
+            42.034
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:53",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum von Valença",
+            "hu": "Valença Városi Múzeum",
+            "ro": "Muzeul Municipal din Valença",
+            "en": "Municipal Museum of Valença"
+          },
+          "coords": [
+            -8.636,
+            42.032
+          ],
+          "category": "museums",
+          "arrive_at": "12:43",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Internationale Brücke Valença-Tui",
+            "hu": "Valença-Tui Nemzetközi Híd",
+            "ro": "Podul Internațional Valença-Tui",
+            "en": "Valença-Tui International Bridge"
+          },
+          "coords": [
+            -8.643,
+            42.03
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:41",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9
+        },
+        {
+          "name": {
+            "de": "Statue des Heiligen Theotonius",
+            "hu": "Szent Theotonius szobra",
+            "ro": "Statuia Sfântului Teotónio",
+            "en": "Statue of São Teotónio"
+          },
+          "coords": [
+            -8.6342,
+            42.0338
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:10",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.1
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit der Erkundung der mächtigen Festungsmauern von Valença. Schlendern Sie durch die historischen Tore und entdecken Sie die charmanten Kirchen im Inneren. Am Nachmittag tauchen Sie im Stadtmuseum in die lokale Geschichte ein. Beenden Sie Ihren Tag mit einem Spaziergang zur Internationalen Brücke, um den Sonnenuntergang über dem Fluss Minho zu beobachten und die einzigartige Atmosphäre dieser Grenzstadt zu genießen.",
+        "hu": "Kezdje a napot Valença hatalmas erődfalainak felfedezésével. Sétáljon át a történelmi kapukon, és fedezze fel a falakon belüli bájos templomokat. Délután merüljön el a helyi történelemben a városi múzeumban. Zárja a napot egy sétával a Nemzetközi Hídhoz, ahonnan megcsodálhatja a naplementét a Minho folyó felett, és élvezheti ennek a határvárosnak az egyedülálló hangulatát.",
+        "ro": "Începeți ziua explorând zidurile puternice ale fortăreței din Valença. Plimbați-vă prin porțile istorice și descoperiți bisericile fermecătoare din interior. După-amiaza, pătrundeți în istoria locală la muzeul municipal. Încheiați ziua cu o plimbare la Podul Internațional pentru a privi apusul peste râul Minho și pentru a vă bucura de atmosfera unică a acestui oraș de graniță.",
+        "en": "Start your day exploring the mighty fortress walls of Valença. Stroll through the historic gates and discover the charming churches within. In the afternoon, dive into local history at the municipal museum. End your day with a walk to the International Bridge to watch the sunset over the Minho River and soak in the unique atmosphere of this border town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bacalhau",
+            "tip": "Probieren Sie den Kabeljau auf portugiesische Art, besonders 'Bacalhau à Minhota'."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "Genießen Sie ein Glas des lokalen jungen Weins, perfekt für einen warmen Nachmittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bacalhau",
+            "tip": "Kóstolja meg a portugál tőkehalat, különösen a 'Bacalhau à Minhota' stílusban."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "Élvezzen egy pohár helyi, fiatal bort, amely tökéletes egy meleg délutánra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bacalhau",
+            "tip": "Încercați codul în stil portughez, în special 'Bacalhau à Minhota'."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "Bucurați-vă de un pahar de vin local tânăr, perfect pentru o după-amiază călduroasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bacalhau",
+            "tip": "Try the codfish prepared in the Portuguese style, especially 'Bacalhau à Minhota'."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "Enjoy a glass of the local young wine, perfect for a warm afternoon."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blick von den Festungsmauern",
+            "tip": "Finden Sie einen ruhigen Platz auf den Mauern, um die Aussicht auf Spanien zu genießen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ufer des Flusses Minho",
+            "tip": "Ein entspannender Spaziergang am Flussufer unterhalb der Festung.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás az erődfalakról",
+            "tip": "Keressen egy csendes helyet a falakon, ahonnan élvezheti a Spanyolországra nyíló kilátást.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Minho folyó partja",
+            "tip": "Egy pihentető séta a folyóparton az erőd alatt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de pe zidurile fortăreței",
+            "tip": "Găsiți un loc liniștit pe ziduri pentru a vă bucura de priveliștea spre Spania.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malul râului Minho",
+            "tip": "O plimbare relaxantă de-a lungul malului râului, sub fortăreață.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the fortress walls",
+            "tip": "Find a quiet spot on the walls to enjoy the view over to Spain.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Minho riverbank",
+            "tip": "A relaxing walk along the riverbank below the fortress.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Leinen- und Textilgeschäfte",
+            "tip": "Valença ist bekannt für seine hochwertigen Heimtextilien, die in den Geschäften der Festung verkauft werden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vászon- és textilboltok",
+            "tip": "Valença híres a minőségi lakástextíliáiról, amelyeket az erődben található üzletekben árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de lenjerie și textile",
+            "tip": "Valença este renumită pentru textilele de casă de înaltă calitate vândute în magazinele din interiorul fortăreței."
+          }
+        ],
+        "en": [
+          {
+            "name": "Linen and Textile Shops",
+            "tip": "Valença is famous for its high-quality home textiles sold in the shops inside the fortress."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster uneben sein kann.",
+          "Die Festung ist ein Labyrinth aus engen Gassen; nehmen Sie sich Zeit, um sich zu verirren und versteckte Ecken zu entdecken.",
+          "Bringen Sie Ihren Ausweis mit, falls Sie spontan über die Brücke nach Spanien gehen möchten."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskaköves utcák egyenetlenek lehetnek.",
+          "Az erőd egy szűk utcákból álló labirintus; szánjon időt arra, hogy eltévedjen és felfedezzen rejtett zugokat.",
+          "Hozza magával a személyi igazolványát, ha spontán át szeretne sétálni a hídon Spanyolországba."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece pavajul poate fi denivelat.",
+          "Fortăreața este un labirint de străzi înguste; acordați-vă timp să vă rătăciți și să descoperiți colțuri ascunse.",
+          "Luați-vă actul de identitate în cazul în care decideți spontan să traversați podul în Spania."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestone streets can be uneven.",
+          "The fortress is a labyrinth of narrow streets; allow time to get lost and discover hidden corners.",
+          "Bring your ID in case you spontaneously decide to walk across the bridge to Spain."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:09",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Start: Fahrradverleih",
+            "hu": "Kezdés: Kerékpárkölcsönző",
+            "ro": "Start: Închiriere de biciclete",
+            "en": "Start: Bike Rental"
+          },
+          "coords": [
+            -8.638,
+            42.028
+          ],
+          "category": "other",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Internationale Brücke Valença-Tui",
+            "hu": "Valença-Tui Nemzetközi Híd",
+            "ro": "Podul Internațional Valença-Tui",
+            "en": "Valença-Tui International Bridge"
+          },
+          "coords": [
+            -8.643,
+            42.03
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1
+        },
+        {
+          "name": {
+            "de": "Kurzer Stopp in Tui, Spanien",
+            "hu": "Rövid megálló Tui-ban, Spanyolországban",
+            "ro": "Scurtă oprire în Tui, Spania",
+            "en": "Quick Stop in Tui, Spain"
+          },
+          "coords": [
+            -8.646,
+            42.046
+          ],
+          "category": "city",
+          "arrive_at": "10:33",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2
+        },
+        {
+          "name": {
+            "de": "Fortaleza de Valença",
+            "hu": "Valença erőd",
+            "ro": "Fortăreața din Valença",
+            "en": "Fortress of Valença"
+          },
+          "coords": [
+            -8.634,
+            42.033
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:03",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5
+        },
+        {
+          "name": {
+            "de": "Kirche Santo Estêvão",
+            "hu": "Santo Estêvão templom",
+            "ro": "Biserica Santo Estêvão",
+            "en": "Church of Santo Estêvão"
+          },
+          "coords": [
+            -8.6345,
+            42.0325
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:06",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Statue des Heiligen Theotonius",
+            "hu": "Szent Theotonius szobra",
+            "ro": "Statuia Sfântului Teotónio",
+            "en": "Statue of São Teotónio"
+          },
+          "coords": [
+            -8.6342,
+            42.0338
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:49",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie mit dem Fahrrad und überqueren Sie sofort die Internationale Brücke nach Tui in Spanien für eine kurze Erkundung. Kehren Sie nach Portugal zurück und radeln Sie hinauf zur Festung von Valença. Parken Sie Ihr Fahrrad und verbringen Sie den Nachmittag damit, die historischen Mauern, Kirchen und Denkmäler zu Fuß zu erkunden. Genießen Sie die Flexibilität, die das Fahrrad bietet, um beide Seiten der Grenze zu erleben.",
+        "hu": "Induljon kerékpárral, és azonnal keljen át a Nemzetközi Hídon a spanyolországi Tui-ba egy rövid felfedezőútra. Térjen vissza Portugáliába, és tekerjen fel a Valença erődhöz. Parkolja le a kerékpárt, és töltse a délutánt a történelmi falak, templomok és emlékművek gyalogos felfedezésével. Élvezze a kerékpár nyújtotta rugalmasságot, hogy mindkét határoldalt megtapasztalja.",
+        "ro": "Începeți pe bicicletă și traversați imediat Podul Internațional spre Tui, Spania, pentru o scurtă explorare. Întoarceți-vă în Portugalia și pedalați până la Fortăreața din Valença. Parcați bicicleta și petreceți după-amiaza explorând la pas zidurile istorice, bisericile și monumentele. Bucurați-vă de flexibilitatea pe care o oferă bicicleta pentru a experimenta ambele părți ale graniței.",
+        "en": "Start on your bike and immediately cross the International Bridge to Tui, Spain, for a quick exploration. Return to Portugal and cycle up to the Fortress of Valença. Park your bike and spend the afternoon exploring the historic walls, churches, and monuments on foot. Enjoy the flexibility the bike provides to experience both sides of the border."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tapas in Tui",
+            "tip": "Nutzen Sie den Abstecher nach Spanien für authentische galicische Tapas."
+          },
+          {
+            "name": "Pastel de Nata in Valença",
+            "tip": "Belohnen Sie sich nach der Radtour mit einem klassischen portugiesischen Puddingtörtchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tapas Tui-ban",
+            "tip": "Használja ki a spanyolországi kitérőt autentikus galíciai tapasok kóstolására."
+          },
+          {
+            "name": "Pastel de Nata Valençában",
+            "tip": "Jutalmazza meg magát a kerékpártúra után egy klasszikus portugál krémes lepénnyel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tapas în Tui",
+            "tip": "Profitați de incursiunea în Spania pentru a gusta tapas autentice din Galicia."
+          },
+          {
+            "name": "Pastel de Nata în Valença",
+            "tip": "Recompensați-vă după turul cu bicicleta cu o prăjitură clasică portugheză cu cremă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tapas in Tui",
+            "tip": "Take advantage of the trip into Spain for some authentic Galician tapas."
+          },
+          {
+            "name": "Pastel de Nata in Valença",
+            "tip": "Reward yourself after the bike ride with a classic Portuguese custard tart."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ecopista do Rio Minho",
+            "tip": "Ein Teil des Weges führt entlang dieses Radwegs und bietet friedliche Ausblicke.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Gärten in der Festung",
+            "tip": "Finden Sie die kleinen, versteckten Gärten für eine ruhige Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ecopista do Rio Minho",
+            "tip": "Az útvonal egy része ezen a kerékpárúton halad, békés kilátást nyújtva.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Kertek az erődben",
+            "tip": "Keresse meg a kis, rejtett kerteket egy csendes pihenőre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ecopista do Rio Minho",
+            "tip": "O parte a traseului urmează această pistă de biciclete, oferind priveliști pașnice.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Grădinile din interiorul fortăreței",
+            "tip": "Găsiți micile grădini ascunse pentru o pauză liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ecopista do Rio Minho",
+            "tip": "Part of the route follows this cycle path, offering peaceful views.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Gardens inside the fortress",
+            "tip": "Find the small hidden gardens for a quiet break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs aus zwei Ländern",
+            "tip": "Kaufen Sie portugiesische Keramik und spanische Delikatessen an einem Tag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvenírek két országból",
+            "tip": "Vásároljon portugál kerámiát és spanyol finomságokat egy nap alatt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri din două țări",
+            "tip": "Cumpărați ceramică portugheză și delicatese spaniole într-o singură zi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenirs from two countries",
+            "tip": "Buy Portuguese ceramics and Spanish delicacies in a single day."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Öffnungszeiten spanischer Geschäfte, da diese Siesta halten könnten.",
+          "Die Brücke hat einen Fußgänger- und Radweg, der vom Verkehr getrennt ist.",
+          "Der Anstieg zur Festung ist steil; stellen Sie sicher, dass Ihr Fahrrad Gänge hat."
+        ],
+        "hu": [
+          "Ellenőrizze a spanyol üzletek nyitvatartását, mivel tarthatnak sziesztát.",
+          "A hídnak a forgalomtól elkülönített gyalogos- és kerékpárútja van.",
+          "Az erődhöz vezető emelkedő meredek; győződjön meg róla, hogy a kerékpárja rendelkezik sebességváltóval."
+        ],
+        "ro": [
+          "Verificați programul magazinelor spaniole, deoarece ar putea avea siestă.",
+          "Podul are o alee pentru pietoni și bicicliști separată de trafic.",
+          "Urcușul către fortăreață este abrupt; asigurați-vă că bicicleta are viteze."
+        ],
+        "en": [
+          "Check the opening hours of Spanish shops as they might have a siesta.",
+          "The bridge has a pedestrian and cyclist path separate from traffic.",
+          "The climb to the fortress is steep; make sure your bike has gears."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:48",
+      "total_km": 5.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz außerhalb der Festung",
+            "hu": "Parkoló az erődön kívül",
+            "ro": "Parcare în afara fortăreței",
+            "en": "Parking outside the Fortress"
+          },
+          "coords": [
+            -8.632,
+            42.03
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Fortaleza de Valença (Cluster 1)",
+            "hu": "Valença erőd (1. csoport)",
+            "ro": "Fortăreața din Valença (Cluster 1)",
+            "en": "Fortress of Valença (Cluster 1)"
+          },
+          "coords": [
+            -8.634,
+            42.033
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:15",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Kirche Santo Estêvão",
+            "hu": "Santo Estêvão templom",
+            "ro": "Biserica Santo Estêvão",
+            "en": "Church of Santo Estêvão"
+          },
+          "coords": [
+            -8.6345,
+            42.0325
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:37",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum von Valença",
+            "hu": "Valença Városi Múzeum",
+            "ro": "Muzeul Municipal din Valença",
+            "en": "Municipal Museum of Valença"
+          },
+          "coords": [
+            -8.636,
+            42.032
+          ],
+          "category": "museums",
+          "arrive_at": "11:21",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Internationale Brücke (Cluster 2)",
+            "hu": "Nemzetközi Híd (2. csoport)",
+            "ro": "Podul Internațional (Cluster 2)",
+            "en": "International Bridge (Cluster 2)"
+          },
+          "coords": [
+            -8.643,
+            42.03
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:11",
+          "stay_min": 40,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 5
+        },
+        {
+          "name": {
+            "de": "Capela do Bom Jesus",
+            "hu": "Bom Jesus kápolna",
+            "ro": "Capela Bom Jesus",
+            "en": "Chapel of Bom Jesus"
+          },
+          "coords": [
+            -8.63,
+            42.035
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:55",
+          "stay_min": 83,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zu einem Parkplatz in der Nähe der Festung und verbringen Sie den Vormittag damit, dieses UNESCO-Weltkulturerbe zu Fuß zu erkunden. Entdecken Sie die Mauern, Kirchen und das Museum. Am Nachmittag fahren Sie zum Bereich der Internationalen Brücke, parken erneut und genießen die Aussicht und die Atmosphäre am Flussufer. Diese Route kombiniert die Bequemlichkeit des Autos mit einem intensiven Rundgang.",
+        "hu": "Vezessen az erőd közelében lévő parkolóba, és töltse a délelőttöt ennek az UNESCO világörökségi helyszínnek a gyalogos felfedezésével. Fedezze fel a falakat, templomokat és a múzeumot. Délután vezessen a Nemzetközi Híd környékére, parkoljon le újra, és élvezze a kilátást és a folyóparti hangulatot. Ez az útvonal ötvözi az autó kényelmét egy intenzív gyalogtúrával.",
+        "ro": "Conduceți până la o parcare de lângă fortăreață și petreceți dimineața explorând la pas acest sit al patrimoniului mondial UNESCO. Descoperiți zidurile, bisericile și muzeul. După-amiaza, conduceți spre zona Podului Internațional, parcați din nou și bucurați-vă de priveliște și de atmosfera de pe malul râului. Acest traseu combină confortul mașinii cu un tur pietonal imersiv.",
+        "en": "Drive to a parking lot near the fortress and spend the morning exploring this UNESCO World Heritage site on foot. Discover the walls, churches, and museum. In the afternoon, drive to the International Bridge area, park again, and enjoy the views and riverside atmosphere. This route combines the convenience of the car with an immersive walking tour."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurante Fortaleza",
+            "tip": "Ein bekanntes Restaurant in der Festung, ideal für ein traditionelles portugiesiesches Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurante Fortaleza",
+            "tip": "Egy jól ismert étterem az erődben, ideális egy hagyományos portugál ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurante Fortaleza",
+            "tip": "Un restaurant bine-cunoscut în interiorul fortăreței, ideal pentru un prânz tradițional portughez."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurante Fortaleza",
+            "tip": "A well-known restaurant inside the fortress, ideal for a traditional Portuguese lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Monte do Faro",
+            "tip": "Wenn Sie Zeit haben, fahren Sie auf diesen nahe gelegenen Hügel für eine atemberaubende Panoramaaussicht.",
+            "emoji": "🌄"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Monte do Faro",
+            "tip": "Ha van ideje, vezessen fel erre a közeli hegyre a lélegzetelállító panorámáért.",
+            "emoji": "🌄"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Monte do Faro",
+            "tip": "Dacă aveți timp, conduceți până la acest deal din apropiere pentru o priveliște panoramică uimitoare.",
+            "emoji": "🌄"
+          }
+        ],
+        "en": [
+          {
+            "name": "Monte do Faro",
+            "tip": "If you have time, drive up this nearby hill for a stunning panoramic view.",
+            "emoji": "🌄"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markttag in Valença",
+            "tip": "Wenn Sie an einem Mittwoch dort sind, verpassen Sie nicht den großen Wochenmarkt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piacnap Valençában",
+            "tip": "Ha szerdán jár ott, ne hagyja ki a nagy hetipiacot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zi de piață în Valença",
+            "tip": "Dacă sunteți acolo într-o miercuri, nu ratați marea piață săptămânală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market Day in Valença",
+            "tip": "If you're there on a Wednesday, don't miss the large weekly market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Fahren und Parken innerhalb der Festungsmauern ist stark eingeschränkt und nicht zu empfehlen.",
+          "Parkplätze können an Wochenenden und Feiertagen schnell voll sein.",
+          "Die Straße zur Brücke kann verkehrsreich sein; planen Sie zusätzliche Zeit ein."
+        ],
+        "hu": [
+          "Az erődfalakon belüli vezetés és parkolás erősen korlátozott és nem ajánlott.",
+          "A parkolóhelyek hétvégén és ünnepnapokon gyorsan megtelhetnek.",
+          "A hídhoz vezető út forgalmas lehet; tervezzen be plusz időt."
+        ],
+        "ro": [
+          "Circulația și parcarea în interiorul zidurilor fortăreței sunt extrem de restricționate și nu sunt recomandate.",
+          "Locurile de parcare se pot umple rapid în weekenduri și de sărbători.",
+          "Drumul spre pod poate fi aglomerat; planificați timp suplimentar."
+        ],
+        "en": [
+          "Driving and parking inside the fortress walls are highly restricted and not recommended.",
+          "Parking spaces can fill up quickly on weekends and holidays.",
+          "The road to the bridge can be busy; allow for extra time."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 1.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof Valença",
+            "hu": "Érkezés a Valença vasútállomásra",
+            "ro": "Sosire la Gara Valença",
+            "en": "Arrival at Valença Train Station"
+          },
+          "coords": [
+            -8.639,
+            42.025
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Festungs-Cluster",
+            "hu": "Buszozás az erőd-csoporthoz",
+            "ro": "Călătorie cu autobuzul spre clusterul fortăreței",
+            "en": "Bus ride to Fortress Cluster"
+          },
+          "coords": [
+            -8.633,
+            42.031
+          ],
+          "category": "transport",
+          "arrive_at": "09:16",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.5
+        },
+        {
+          "name": {
+            "de": "Fortaleza de Valença",
+            "hu": "Valença erőd",
+            "ro": "Fortăreața din Valença",
+            "en": "Fortress of Valença"
+          },
+          "coords": [
+            -8.634,
+            42.033
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:21",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Maria dos Anjos",
+            "hu": "Santa Maria dos Anjos templom",
+            "ro": "Biserica Santa Maria dos Anjos",
+            "en": "Church of Santa Maria dos Anjos"
+          },
+          "coords": [
+            -8.635,
+            42.034
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:23",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Einkaufen in der Festung",
+            "hu": "Ebéd és vásárlás az erődben",
+            "ro": "Prânz și cumpărături în fortăreață",
+            "en": "Lunch and Shopping in the Fortress"
+          },
+          "coords": [
+            -8.634,
+            42.032
+          ],
+          "category": "gastro",
+          "arrive_at": "12:05",
+          "stay_min": 186,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nehmen Sie vom Bahnhof aus einen lokalen Bus, der Sie direkt zum Eingang der Festung bringt. Verbringen Sie den ganzen Tag damit, dieses riesige historische Gebiet zu Fuß zu erkunden. Von den Mauern und Kirchen bis hin zu den unzähligen Geschäften und Restaurants gibt es genug, um Sie zu beschäftigen. Am späten Nachmittag nehmen Sie den Bus zurück zum Bahnhof. Dieser Plan ist ideal für Besucher, die mit dem Zug anreisen.",
+        "hu": "A vasútállomásról szálljon helyi buszra, amely egyenesen az erőd bejáratához viszi. Töltse az egész napot ennek a hatalmas történelmi területnek a gyalogos felfedezésével. A falaktól és templomoktól a számtalan üzletig és étteremig van elég látnivaló. Késő délután szálljon buszra vissza az állomásra. Ez a terv ideális a vonattal érkező látogatók számára.",
+        "ro": "De la gară, luați un autobuz local care vă va duce direct la intrarea în fortăreață. Petreceți întreaga zi explorând la pas această vastă zonă istorică. De la ziduri și biserici la nenumăratele magazine și restaurante, aveți suficiente pentru a vă ocupa timpul. La sfârșitul după-amiezii, luați autobuzul înapoi la gară. Acest plan este ideal pentru vizitatorii care sosesc cu trenul.",
+        "en": "From the train station, take a local bus that drops you right at the entrance to the fortress. Spend the entire day exploring this vast historical area on foot. From the walls and churches to the countless shops and restaurants, there's enough to keep you busy. In the late afternoon, take the bus back to the station. This plan is ideal for visitors arriving by train."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Cafés",
+            "tip": "Setzen Sie sich in eines der vielen Cafés in der Festung für einen Kaffee und Leute beobachten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kávézók",
+            "tip": "Üljön be az erőd egyik számos kávézójába egy kávéra és nézze az embereket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenele locale",
+            "tip": "Așezați-vă la una dintre numeroasele cafenele din interiorul fortăreței pentru o cafea și pentru a privi oamenii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Cafes",
+            "tip": "Sit at one of the many cafes inside the fortress for a coffee and people-watching."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Weniger befahrene Mauern",
+            "tip": "Die nördlichen Teile der Mauern sind oft ruhiger als die dem Haupteingang am nächsten gelegenen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kevésbé forgalmas falak",
+            "tip": "A falak északi részei gyakran csendesebbek, mint a főbejárathoz legközelebb esők.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ziduri mai puțin aglomerate",
+            "tip": "Secțiunile nordice ale zidurilor sunt adesea mai liniștite decât cele mai apropiate de intrarea principală.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Less-traveled walls",
+            "tip": "The northern sections of the walls are often quieter than those nearest the main entrance.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handwerksläden",
+            "tip": "Suchen Sie nach kleinen Werkstätten, die einzigartige handgefertigte Waren verkaufen, nicht nur die üblichen Textilien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keressen kis műhelyeket, amelyek egyedi kézműves termékeket árulnak, nem csak a szokásos textileket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Căutați ateliere mici care vând produse artizanale unice, nu doar textilele obișnuite."
+          }
+        ],
+        "en": [
+          {
+            "name": "Artisan shops",
+            "tip": "Look for small workshops selling unique handmade goods, not just the common textiles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere für die Rückfahrt.",
+          "Kaufen Sie eine Hin- und Rückfahrkarte, um Zeit zu sparen.",
+          "Die Festung ist groß; planen Sie Ihre Erkundung, um nicht unnötig Wege zurückzulegen."
+        ],
+        "hu": [
+          "Ellenőrizze előre a buszmenetrendet, különösen a visszautat illetően.",
+          "Vásároljon retúrjegyet, hogy időt takarítson meg.",
+          "Az erőd nagy; tervezze meg a felfedezést, hogy ne kelljen feleslegesen visszamennie."
+        ],
+        "ro": [
+          "Verificați programul autobuzelor în avans, în special pentru călătoria de întoarcere.",
+          "Cumpărați un bilet dus-întors pentru a economisi timp.",
+          "Fortăreața este mare; planificați-vă explorarea pentru a evita revenirea pe același traseu."
+        ],
+        "en": [
+          "Check the bus schedule in advance, especially for the return trip.",
+          "Buy a round-trip ticket to save time.",
+          "The fortress is large; plan your exploration to avoid backtracking."
+        ]
+      }
+    }
+  }
+}

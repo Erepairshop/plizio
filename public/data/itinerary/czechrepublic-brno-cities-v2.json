@@ -1,0 +1,1518 @@
+{
+  "city_id": "czechrepublic-brno-cities-v2",
+  "anchor": {
+    "name": "Brünn",
+    "coords": [
+      16.6068,
+      49.1951
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Freiheitsplatz",
+            "hu": "Szabadság tér",
+            "ro": "Piața Libertății",
+            "en": "Freedom Square"
+          },
+          "coords": [
+            16.6092,
+            49.1959
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die astronomische Uhr zur Mittagszeit für eine Überraschung.",
+            "hu": "Nézd meg a csillagászati órát délben, meglepetésben lesz részed!",
+            "ro": "Urmăriți ceasul astronomic la prânz pentru o surpriză.",
+            "en": "Watch the astronomical clock at noon for a surprise."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Rathaus & Brünner Drache",
+            "hu": "Régi Városháza és a brnói sárkány",
+            "ro": "Vechea Primărie și Dragonul din Brno",
+            "en": "Old Town Hall & Brno Dragon"
+          },
+          "coords": [
+            16.6079,
+            49.1932
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Steigen Sie auf den Turm für eine fantastische Aussicht auf die Stadt.",
+            "hu": "Menj fel a toronyba a fantasztikus városi panorámáért.",
+            "ro": "Urcați în turn pentru o priveliște fantastică asupra orașului.",
+            "en": "Climb the tower for a fantastic view of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale St. Peter und Paul",
+            "hu": "Szent Péter és Pál-katedrális",
+            "ro": "Catedrala Sf. Petru și Pavel",
+            "en": "Cathedral of St. Peter and Paul"
+          },
+          "coords": [
+            16.6068,
+            49.1915
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Achten Sie auf das Mittagsgeläut um 11 Uhr, eine lokale historische Eigenheit.",
+            "hu": "Figyelj a déli harangszóra 11-kor, ez egy helyi történelmi különlegesség.",
+            "ro": "Fiți atenți la clopotele de amiază care bat la ora 11, o ciudățenie istorică locală.",
+            "en": "Listen for the noon bells at 11 AM, a local historical quirk."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Gemüsemarkt",
+            "hu": "Ebéd a Zelný trh (Káposztapiac) mellett",
+            "ro": "Prânz la Piața de Legume",
+            "en": "Lunch at the Vegetable Market"
+          },
+          "coords": [
+            16.6091,
+            49.1927
+          ],
+          "category": "gastro",
+          "arrive_at": "12:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie frische Produkte oder essen Sie in einem der umliegenden Bistros.",
+            "hu": "Kóstolj friss termékeket, vagy ebédelj a környező bisztrók egyikében.",
+            "ro": "Încercați produse proaspete sau luați masa la unul dintre bistrourile din jur.",
+            "en": "Try some fresh produce or eat at one of the surrounding bistros."
+          }
+        },
+        {
+          "name": {
+            "de": "Beinhaus an der St.-Jakobs-Kirche",
+            "hu": "Szent Jakab-templom osszáriuma",
+            "ro": "Osuarul de la Biserica Sf. Iacob",
+            "en": "Ossuary at the Church of St. James"
+          },
+          "coords": [
+            16.6087,
+            49.1974
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Eine faszinierende und makabre Erfahrung, das zweitgrößte Beinhaus Europas.",
+            "hu": "Lenyűgöző és hátborzongató élmény, Európa második legnagyobb csontháza.",
+            "ro": "O experiență fascinantă și macabră, al doilea cel mai mare osuar din Europa.",
+            "en": "A fascinating and macabre experience, the second-largest ossuary in Europe."
+          }
+        },
+        {
+          "name": {
+            "de": "Mährische Galerie",
+            "hu": "Morva Galéria",
+            "ro": "Galeria Moraviană",
+            "en": "Moravian Gallery"
+          },
+          "coords": [
+            16.6053,
+            49.1983
+          ],
+          "category": "museums",
+          "arrive_at": "14:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die größte Kunstgalerie der Tschechischen Republik außerhalb von Prag.",
+            "hu": "Csehország legnagyobb művészeti galériája Prágán kívül.",
+            "ro": "Cea mai mare galerie de artă din Republica Cehă în afara Pragăi.",
+            "en": "The largest art gallery in the Czech Republic outside of Prague."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Špilberk",
+            "hu": "Špilberk vár",
+            "ro": "Fortăreața Špilberk",
+            "en": "Špilberk Fortress"
+          },
+          "coords": [
+            16.5954,
+            49.1947
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Sonnenuntergang von den Festungsmauern mit Blick auf die Stadt.",
+            "hu": "Élvezd a naplementét a várból, ahonnan csodás kilátás nyílik a városra.",
+            "ro": "Bucurați-vă de apusul de soare de pe meterezele cetății cu vedere la oraș.",
+            "en": "Enjoy the sunset from the fortress walls overlooking the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Brünn beginnt auf dem belebten Freiheitsplatz, dem pulsierenden Herzen der Stadt. Von dort aus führt ein kurzer Spaziergang zum Alten Rathaus und der majestätischen Kathedrale. Am Vormittag erkunden Sie die historischen Gassen und entdecken die Legenden der Stadt. Nach dem Mittagessen auf dem geschäftigen Gemüsemarkt tauchen Sie in die faszinierende Unterwelt des Beinhauses ein. Der Nachmittag ist der Kunst in der Mährischen Galerie gewidmet, gefolgt von einem Aufstieg zur Festung Špilberk. Der Abend klingt mit einem Panoramablick auf den Sonnenuntergang über den Dächern von Brünn aus, ein perfekter Abschluss eines unvergesslichen Tages.",
+        "hu": "A brnói nap a nyüzsgő Szabadság téren, a város lüktető szívében kezdődik. Innen egy rövid séta vezet a Régi Városházához és a fenséges katedrálishoz. Délelőtt a történelmi sikátorokat járja be, és felfedezi a város legendáit. A nyüzsgő Zöldségpiacon elfogyasztott ebéd után elmerülhet a Csontház lenyűgöző földalatti világában. A délutánt a Morva Galéria művészetének szentelik, majd felmásznak a Špilberk-várhoz. Az este a brnói háztetők feletti naplemente panorámájával zárul, amely tökéletes befejezése egy felejthetetlen napnak.",
+        "ro": "Ziua dvs. în Brno începe în Piața Libertății, inima vibrantă a orașului. De acolo, o scurtă plimbare vă duce la Vechea Primărie și la catedrala maiestuoasă. Dimineața explorați străduțele istorice și descoperiți legendele orașului. După prânzul în Piața de Legume, vă scufundați în lumea subterană fascinantă a Osuarului. După-amiaza este dedicată artei la Galeria Moraviană, urmată de o urcare la Fortăreața Špilberk. Seara se încheie cu o vedere panoramică a apusului peste acoperișurile din Brno, un final perfect pentru o zi de neuitat.",
+        "en": "Your day in Brno begins at the bustling Freedom Square, the city's vibrant heart. From there, a short walk takes you to the Old Town Hall and the majestic cathedral. In the morning, you'll explore the historic alleys and discover the city's legends. After lunch at the busy Vegetable Market, you'll delve into the fascinating underworld of the Ossuary. The afternoon is dedicated to art at the Moravian Gallery, followed by a climb to Špilberk Fortress. The evening concludes with a panoramic sunset view over Brno's rooftops, a perfect end to an unforgettable day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Lendenbraten in Sahnesoße, ein tschechischer Klassiker. Probieren Sie es im Stopkova Plzeňská Pivnice."
+          },
+          {
+            "name": "Trdelník",
+            "tip": "Süßes Gebäck, das über offener Flamme gebacken wird. Perfekt als Snack für zwischendurch."
+          },
+          {
+            "name": "Mährischer Spatz (Moravský vrabec)",
+            "tip": "Gebackenes Schweinefleisch mit Knödeln und Kraut, sehr deftig und lecker."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Vadas marha tejszínes mártással, egy cseh klasszikus. Próbáld ki a Stopkova Plzeňská Pivnice-ben."
+          },
+          {
+            "name": "Trdelník",
+            "tip": "Kürtőskalács, nyílt láng felett sütve. Tökéletes útközbeni nassolnivaló."
+          },
+          {
+            "name": "Morva veréb (Moravský vrabec)",
+            "tip": "Sült sertéshús knédlivel és káposztával, nagyon laktató és finom."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Friptură de vită în sos de smântână, un clasic ceh. Încercați-l la Stopkova Plzeňská Pivnice."
+          },
+          {
+            "name": "Trdelník",
+            "tip": "Un produs de patiserie dulce, copt pe foc deschis. Perfect ca o gustare pe drum."
+          },
+          {
+            "name": "Moravský vrabec",
+            "tip": "Carne de porc la cuptor cu găluște și varză, foarte consistent și delicios."
+          }
+        ],
+        "en": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Sirloin in cream sauce, a Czech classic. Try it at Stopkova Plzeňská Pivnice."
+          },
+          {
+            "name": "Trdelník",
+            "tip": "Sweet pastry baked over an open flame. Perfect for a snack on the go."
+          },
+          {
+            "name": "Moravian Sparrow (Moravský vrabec)",
+            "tip": "Roasted pork with dumplings and cabbage, very hearty and delicious."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Denis-Gärten",
+            "tip": "Unterhalb der Kathedrale gelegen, bieten diese Gärten eine ruhige Oase mit schönem Blick.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Špilberk Park",
+            "tip": "Die weitläufigen Grünflächen rund um die Festung sind ideal für einen entspannten Spaziergang.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Lužánky Park",
+            "tip": "Der älteste öffentliche Park in den tschechischen Ländern, etwas weiter vom Zentrum entfernt, aber sehr friedlich.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Denis-kertek",
+            "tip": "A katedrális alatt található kertek csendes oázist kínálnak gyönyörű kilátással.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Špilberk Park",
+            "tip": "A vár körüli tágas zöld területek ideálisak egy pihentető sétához.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Lužánky Park",
+            "tip": "A legrégebbi nyilvános park a cseh területeken, kicsit távolabb a központtól, de nagyon békés.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Denis",
+            "tip": "Situate sub catedrală, aceste grădini oferă o oază de liniște cu priveliști frumoase.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Špilberk",
+            "tip": "Spațiile verzi extinse din jurul cetății sunt ideale pentru o plimbare relaxantă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Lužánky",
+            "tip": "Cel mai vechi parc public din ținuturile cehe, puțin mai departe de centru, dar foarte pașnic.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Denis Gardens",
+            "tip": "Located below the cathedral, these gardens offer a quiet oasis with beautiful views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Špilberk Park",
+            "tip": "The extensive green spaces around the fortress are ideal for a relaxing walk.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Lužánky Park",
+            "tip": "The oldest public park in the Czech lands, a bit further from the center but very peaceful.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gemüsemarkt (Zelný trh)",
+            "tip": "Kaufen Sie frisches Obst, Gemüse, Blumen und lokale Souvenirs."
+          },
+          {
+            "name": "Česká ulice",
+            "tip": "Eine der Haupteinkaufsstraßen mit einer Mischung aus lokalen und internationalen Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zelný trh (Káposztapiac)",
+            "tip": "Vásárolj friss gyümölcsöt, zöldséget, virágot és helyi ajándéktárgyakat."
+          },
+          {
+            "name": "Česká utca",
+            "tip": "Az egyik fő bevásárlóutca, helyi és nemzetközi márkák keverékével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de Legume (Zelný trh)",
+            "tip": "Cumpărați fructe proaspete, legume, flori și suveniruri locale."
+          },
+          {
+            "name": "Strada Česká",
+            "tip": "Una dintre principalele străzi comerciale, cu un amestec de mărci locale și internaționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vegetable Market (Zelný trh)",
+            "tip": "Buy fresh fruit, vegetables, flowers, and local souvenirs."
+          },
+          {
+            "name": "Česká Street",
+            "tip": "One of the main shopping streets with a mix of local and international brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel auf Kopfsteinpflaster laufen werden.",
+          "Viele Museen sind montags geschlossen, planen Sie entsprechend.",
+          "Halten Sie immer etwas Bargeld für kleine Einkäufe auf dem Markt bereit.",
+          "Die Brno PAS-Touristenkarte kann sich lohnen, wenn Sie mehrere Sehenswürdigkeiten besuchen."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, mert sokat fogsz macskakövön sétálni.",
+          "Sok múzeum zárva van hétfőn, tervezz ennek megfelelően.",
+          "Mindig legyen nálad készpénz a piaci apró vásárlásokhoz.",
+          "A Brno PAS turistakártya megéri, ha több látnivalót is meglátogatsz."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge mult pe piatră cubică.",
+          "Multe muzee sunt închise lunea, planificați-vă în consecință.",
+          "Aveți întotdeauna niște numerar la îndemână pentru cumpărături mici la piață.",
+          "Cardul turistic Brno PAS poate merita dacă vizitați mai multe atracții."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking a lot on cobblestones.",
+          "Many museums are closed on Mondays, so plan accordingly.",
+          "Always have some cash on hand for small purchases at the market.",
+          "The Brno PAS tourist card can be worthwhile if you visit multiple attractions."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:42",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Freiheitsplatz",
+            "hu": "Szabadság tér",
+            "ro": "Piața Libertății",
+            "en": "Freedom Square"
+          },
+          "coords": [
+            16.6092,
+            49.1959
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie hier Ihre Radtour, nachdem Sie die Atmosphäre aufgesogen haben.",
+            "hu": "Indítsd innen a biciklitúrát, miután magadba szívtad a hangulatot.",
+            "ro": "Începeți turul cu bicicleta de aici după ce ați absorbit atmosfera.",
+            "en": "Start your bike tour from here after soaking up the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Rathaus & Kathedrale",
+            "hu": "Régi Városháza és Katedrális",
+            "ro": "Vechea Primărie și Catedrala",
+            "en": "Old Town Hall & Cathedral"
+          },
+          "coords": [
+            16.6073,
+            49.1923
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:41",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab und erkunden Sie beide Sehenswürdigkeiten zu Fuß.",
+            "hu": "Zárd le biztonságosan a biciklidet, és fedezd fel mindkét látnivalót gyalog.",
+            "ro": "Parcați-vă bicicleta în siguranță și explorați ambele atracții pe jos.",
+            "en": "Park your bike securely and explore both sights on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt entlang des Flusses Svratka",
+            "hu": "Kerékpározás a Svratka folyó mentén",
+            "ro": "Plimbare cu bicicleta de-a lungul râului Svratka",
+            "en": "Ride along the Svratka River"
+          },
+          "coords": [
+            16.592,
+            49.185
+          ],
+          "category": "river",
+          "arrive_at": "11:29",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3,
+          "tip_5lang": {
+            "de": "Genießen Sie den gut ausgebauten Radweg für eine entspannte Fahrt.",
+            "hu": "Élvezd a jól kiépített kerékpárutat egy pihentető tekeréshez.",
+            "ro": "Bucurați-vă de pista de biciclete bine întreținută pentru o plimbare relaxantă.",
+            "en": "Enjoy the well-maintained bike path for a relaxing ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Špilberk",
+            "hu": "Špilberk vár",
+            "ro": "Fortăreața Špilberk",
+            "en": "Špilberk Fortress"
+          },
+          "coords": [
+            16.5954,
+            49.1947
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:44",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Der Aufstieg ist eine Herausforderung, aber die Aussicht und die Kasematten sind es wert.",
+            "hu": "A hegymászás kihívás, de a kilátás és a kazamaták megérik.",
+            "ro": "Urcușul este o provocare, dar priveliștea și cazematele merită.",
+            "en": "The climb is challenging, but the views and casemates are worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Mahen-Theater",
+            "hu": "Mahen Színház",
+            "ro": "Teatrul Mahen",
+            "en": "Mahen Theatre"
+          },
+          "coords": [
+            16.6133,
+            49.1951
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:02",
+          "stay_min": 25,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3,
+          "tip_5lang": {
+            "de": "Bewundern Sie das erste vollständig elektrisch beleuchtete Theater Europas von außen.",
+            "hu": "Csodáld meg kívülről Európa első teljesen villanyvilágítású színházát.",
+            "ro": "Admirați primul teatru complet iluminat electric din Europa din exterior.",
+            "en": "Admire the first fully electrically lit theatre in Europe from the outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Tugendhat (Außenansicht)",
+            "hu": "Villa Tugendhat (kívülről)",
+            "ro": "Villa Tugendhat (exterior)",
+            "en": "Villa Tugendhat (exterior view)"
+          },
+          "coords": [
+            16.6119,
+            49.2078
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3,
+          "tip_5lang": {
+            "de": "Eine Ikone der modernen Architektur. Eine Innenbesichtigung muss lange im Voraus gebucht werden.",
+            "hu": "A modern építészet ikonja. A belső látogatást jó előre le kell foglalni.",
+            "ro": "O icoană a arhitecturii moderne. O vizită în interior trebuie rezervată cu mult timp în avans.",
+            "en": "An icon of modern architecture. An interior tour must be booked well in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen im Stadtzentrum",
+            "hu": "Vacsora a városközpontban",
+            "ro": "Cină în centrul orașului",
+            "en": "Dinner in the City Center"
+          },
+          "coords": [
+            16.6085,
+            49.1965
+          ],
+          "category": "gastro",
+          "arrive_at": "16:25",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Belohnen Sie sich nach der Radtour mit einem herzhaften tschechischen Abendessen.",
+            "hu": "Jutalmazd meg magad egy kiadós cseh vacsorával a kerékpártúra után.",
+            "ro": "Recompensați-vă cu o cină cehă copioasă după turul cu bicicleta.",
+            "en": "Reward yourself with a hearty Czech dinner after the bike tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour durch Brünn startet am Freiheitsplatz und führt Sie schnell zu den historischen Wahrzeichen des Zentrums. Am Vormittag genießen Sie eine entspannte Fahrt entlang des Flusses Svratka, bevor Sie sich der Herausforderung des Aufstiegs zur Festung Špilberk stellen. Die Belohnung ist ein atemberaubender Ausblick und ein Einblick in die Geschichte. Nach dem Mittagessen geht es weiter zu architektonischen Juwelen wie dem Mahen-Theater und der berühmten Villa Tugendhat. Der Tag endet im Herzen der Stadt, wo Sie die gewonnenen Eindrücke bei einem traditionellen Abendessen Revue passieren lassen.",
+        "hu": "Brnói kerékpártúrája a Szabadság térről indul, és gyorsan elvezeti a központ történelmi nevezetességeihez. Délelőtt egy pihentető tekerést élvezhet a Svratka folyó mentén, mielőtt nekivágna a Špilberk-várhoz vezető emelkedő kihívásának. A jutalom lélegzetelállító kilátás és betekintés a történelembe. Ebéd után továbbhalad olyan építészeti gyöngyszemekhez, mint a Mahen Színház és a híres Villa Tugendhat. A nap a város szívében ér véget, ahol egy hagyományos vacsora mellett idézheti fel az élményeket.",
+        "ro": "Turul dvs. cu bicicleta prin Brno începe în Piața Libertății și vă duce rapid la reperele istorice din centru. Dimineața, vă bucurați de o plimbare relaxantă de-a lungul râului Svratka înainte de a accepta provocarea urcării la Fortăreața Špilberk. Recompensa este o priveliște uluitoare și o incursiune în istorie. După prânz, continuați spre bijuterii arhitecturale precum Teatrul Mahen și faimoasa Villa Tugendhat. Ziua se încheie în inima orașului, unde puteți rememora impresiile la o cină tradițională.",
+        "en": "Your bike tour of Brno starts at Freedom Square and quickly takes you to the historic landmarks of the center. In the morning, you'll enjoy a relaxing ride along the Svratka River before taking on the challenge of climbing to Špilberk Fortress. The reward is a breathtaking view and an insight into history. After lunch, you'll continue to architectural gems like the Mahen Theatre and the famous Villa Tugendhat. The day ends in the heart of the city, where you can reflect on your experiences over a traditional dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokál U Caipla",
+            "tip": "Bietet klassische tschechische Küche und frisches Tankbier in einer lebhaften Atmosphäre."
+          },
+          {
+            "name": "Soul Bistro",
+            "tip": "Eine modernere Option mit leichten und gesunden Gerichten, ideal für ein schnelles Mittagessen."
+          },
+          {
+            "name": "Pivnice U Tekutého chleba",
+            "tip": "Eine traditionelle Bierstube mit einer großen Auswahl an lokalen Bieren und deftigen Snacks."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lokál U Caipla",
+            "tip": "Klasszikus cseh ételeket és friss tank sört kínál élénk hangulatban."
+          },
+          {
+            "name": "Soul Bistro",
+            "tip": "Modernebb lehetőség könnyű és egészséges ételekkel, ideális egy gyors ebédhez."
+          },
+          {
+            "name": "Pivnice U Tekutého chleba",
+            "tip": "Hagyományos söröző helyi sörök széles választékával és kiadós falatokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lokál U Caipla",
+            "tip": "Oferă mâncăruri cehe clasice și bere proaspătă la halbă într-o atmosferă plină de viață."
+          },
+          {
+            "name": "Soul Bistro",
+            "tip": "O opțiune mai modernă cu mâncăruri ușoare și sănătoase, ideală pentru un prânz rapid."
+          },
+          {
+            "name": "Pivnice U Tekutého chleba",
+            "tip": "O berărie tradițională cu o selecție largă de beri locale și gustări consistente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lokál U Caipla",
+            "tip": "Offers classic Czech cuisine and fresh tank beer in a lively atmosphere."
+          },
+          {
+            "name": "Soul Bistro",
+            "tip": "A more modern option with light and healthy dishes, ideal for a quick lunch."
+          },
+          {
+            "name": "Pivnice U Tekutého chleba",
+            "tip": "A traditional pub with a wide selection of local beers and hearty snacks."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Svratka",
+            "tip": "Ein perfekter Ort, um dem Stadtlärm zu entfliehen und die Natur zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Wilsonwald (Wilsonův les)",
+            "tip": "Ein großes Waldgebiet in der Nähe des Zentrums, ideal für eine ausgedehnte Radtour.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussichtspunkt Kamenný vrch",
+            "tip": "Bietet einen schönen Blick auf den westlichen Teil der Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Svratka folyó partja",
+            "tip": "Tökéletes hely a város zajától való elszakadásra és a természet élvezetére.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Wilson-erdő (Wilsonův les)",
+            "tip": "Nagy erdős terület a központ közelében, ideális egy hosszabb kerékpártúrához.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kamenný vrch kilátó",
+            "tip": "Szép kilátást nyújt a város nyugati részére.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Svratka",
+            "tip": "Un loc perfect pentru a evada din zgomotul orașului și a te bucura de natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pădurea Wilson (Wilsonův les)",
+            "tip": "O zonă forestieră mare lângă centru, ideală pentru o plimbare lungă cu bicicleta.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Punctul de belvedere Kamenný vrch",
+            "tip": "Oferă o priveliște frumoasă asupra părții de vest a orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Svratka River",
+            "tip": "A perfect place to escape the city noise and enjoy nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Wilson's Forest (Wilsonův les)",
+            "tip": "A large forested area near the center, ideal for an extended bike ride.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kamenný vrch viewpoint",
+            "tip": "Offers a beautiful view of the western part of the city.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "In Brünn gibt es viele spezialisierte Fahrradgeschäfte für Zubehör oder Reparaturen."
+          },
+          {
+            "name": "Galerie Vaňkovka",
+            "tip": "Ein modernes Einkaufszentrum in der Nähe des Bahnhofs, falls Sie eine Pause vom Radfahren brauchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Brnóban számos szakosodott kerékpárbolt található kiegészítőkért vagy javításokért."
+          },
+          {
+            "name": "Galerie Vaňkovka",
+            "tip": "Modern bevásárlóközpont a pályaudvar közelében, ha szünetet szeretnél tartani a biciklizésben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Brno are multe magazine specializate de biciclete pentru accesorii sau reparații."
+          },
+          {
+            "name": "Galeria Vaňkovka",
+            "tip": "Un centru comercial modern lângă gară, în caz că aveți nevoie de o pauză de la ciclism."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "Brno has many specialized bike shops for accessories or repairs."
+          },
+          {
+            "name": "Galerie Vaňkovka",
+            "tip": "A modern shopping mall near the train station in case you need a break from cycling."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die App 'nextbike' für Leihfahrräder, die in der ganzen Stadt verfügbar sind.",
+          "Achten Sie auf Straßenbahnschienen, diese können für Fahrradreifen gefährlich sein.",
+          "Einige Hügel, wie der zur Festung Špilberk, sind steil. Seien Sie auf eine anstrengende Fahrt vorbereitet.",
+          "Tragen Sie immer einen Helm und schließen Sie Ihr Fahrrad gut ab."
+        ],
+        "hu": [
+          "Használd a 'nextbike' alkalmazást a kölcsönözhető kerékpárokhoz, amelyek az egész városban elérhetők.",
+          "Vigyázz a villamossínekre, veszélyesek lehetnek a kerékpárgumikra.",
+          "Néhány domb, mint például a Špilberk-várhoz vezető, meredek. Készülj fel egy megerőltető tekerésre.",
+          "Mindig viselj sisakot és zárd le jól a biciklidet."
+        ],
+        "ro": [
+          "Utilizați aplicația 'nextbike' pentru biciclete de închiriat, disponibile în tot orașul.",
+          "Fiți atenți la șinele de tramvai, acestea pot fi periculoase pentru anvelopele de bicicletă.",
+          "Unele dealuri, cum ar fi cel către Fortăreața Špilberk, sunt abrupte. Fiți pregătiți pentru o plimbare solicitantă.",
+          "Purtați întotdeauna o cască și încuiați-vă bine bicicleta."
+        ],
+        "en": [
+          "Use the 'nextbike' app for rental bikes, which are available throughout the city.",
+          "Watch out for tram tracks, they can be dangerous for bike tires.",
+          "Some hills, like the one to Špilberk Fortress, are steep. Be prepared for a strenuous ride.",
+          "Always wear a helmet and lock your bike securely."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Villa Tugendhat",
+            "hu": "Villa Tugendhat",
+            "ro": "Villa Tugendhat",
+            "en": "Villa Tugendhat"
+          },
+          "coords": [
+            16.6119,
+            49.2078
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in den umliegenden Straßen. Die Besichtigung muss Monate im Voraus gebucht werden!",
+            "hu": "Parkolj a környező utcákban. A látogatást hónapokkal előre le kell foglalni!",
+            "ro": "Parcați pe străzile din jur. Turul trebuie rezervat cu luni înainte!",
+            "en": "Park in the surrounding streets. The tour must be booked months in advance!"
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Špilberk",
+            "hu": "Špilberk vár",
+            "ro": "Fortăreața Špilberk",
+            "en": "Špilberk Fortress"
+          },
+          "coords": [
+            16.5954,
+            49.1947
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz auf dem Hügel, um den Aufstieg zu vermeiden.",
+            "hu": "Hajts fel a dombon lévő parkolóba, hogy elkerüld a mászást.",
+            "ro": "Conduceți până la parcarea de pe deal pentru a evita urcarea.",
+            "en": "Drive to the parking lot on the hill to avoid the climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang im Špilberk Park",
+            "hu": "Séta a Špilberk Parkban",
+            "ro": "Plimbare în Parcul Špilberk",
+            "en": "Walk in Špilberk Park"
+          },
+          "coords": [
+            16.593,
+            49.196
+          ],
+          "category": "garden",
+          "arrive_at": "12:23",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhigen Wege und Aussichtspunkte rund um die Festung.",
+            "hu": "Fedezd fel a vár körüli csendes ösvényeket és kilátópontokat.",
+            "ro": "Descoperiți potecile liniștite și punctele de belvedere din jurul cetății.",
+            "en": "Discover the quiet paths and viewpoints around the fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentrales Parkhaus & Mittagessen",
+            "hu": "Központi parkolóház és ebéd",
+            "ro": "Parcare centrală și prânz",
+            "en": "Central Parking & Lunch"
+          },
+          "coords": [
+            16.613,
+            49.193
+          ],
+          "category": "gastro",
+          "arrive_at": "13:07",
+          "stay_min": 90,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 4,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus JD PALACE und erkunden Sie das Zentrum zu Fuß.",
+            "hu": "Parkolj a JD PALACE parkolóházban, és fedezd fel a központot gyalog.",
+            "ro": "Parcați în parcarea JD PALACE și explorați centrul pe jos.",
+            "en": "Park at the JD PALACE parking garage and explore the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Freiheitsplatz & Altes Rathaus",
+            "hu": "Szabadság tér és Régi Városháza",
+            "ro": "Piața Libertății și Vechea Primărie",
+            "en": "Freedom Square & Old Town Hall"
+          },
+          "coords": [
+            16.6085,
+            49.1945
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:37",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dieser Cluster ist das Herz der Altstadt. Alles ist leicht zu Fuß erreichbar.",
+            "hu": "Ez a klaszter az óváros szíve. Minden könnyen megközelíthető gyalog.",
+            "ro": "Acest cluster este inima orașului vechi. Totul este ușor accesibil pe jos.",
+            "en": "This cluster is the heart of the old town. Everything is within easy walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale St. Peter und Paul",
+            "hu": "Szent Péter és Pál-katedrális",
+            "ro": "Catedrala Sf. Petru și Pavel",
+            "en": "Cathedral of St. Peter and Paul"
+          },
+          "coords": [
+            16.6068,
+            49.1915
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang bergauf vom Gemüsemarkt aus.",
+            "hu": "Rövid séta felfelé a Zöldségpiacról.",
+            "ro": "O scurtă plimbare la deal de la Piața de Legume.",
+            "en": "A short uphill walk from the Vegetable Market."
+          }
+        },
+        {
+          "name": {
+            "de": "Beinhaus an der St.-Jakobs-Kirche",
+            "hu": "Szent Jakab-templom osszáriuma",
+            "ro": "Osuarul de la Biserica Sf. Iacob",
+            "en": "Ossuary at the Church of St. James"
+          },
+          "coords": [
+            16.6087,
+            49.1974
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:51",
+          "stay_min": 50,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der letzte Halt des Tages, bevor Sie zum Parkhaus zurückkehren.",
+            "hu": "A nap utolsó állomása, mielőtt visszatérnél a parkolóházba.",
+            "ro": "Ultima oprire a zilei înainte de a vă întoarce la parcare.",
+            "en": "The last stop of the day before heading back to the parking garage."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Brünn beginnt bei der Villa Tugendhat, einem Meisterwerk der Moderne. Von dort aus fahren Sie zur dominanten Festung Špilberk, wo Sie den ersten Cluster zu Fuß erkunden. Am Vormittag genießen Sie die Aussicht, bevor Sie ins Stadtzentrum weiterfahren. Sie parken Ihr Auto und entdecken den zweiten Cluster: das historische Herz Brünns rund um den Freiheitsplatz und die Kathedrale nach dem Mittagessen. Der Nachmittag ist gefüllt mit den Legenden des Alten Rathauses und der makabren Schönheit des Beinhauses. Der Tag endet mit einem entspannten Spaziergang zurück zum Auto, voller Eindrücke von Architektur und Geschichte.",
+        "hu": "Az autós nap Brnóban a Villa Tugendhatnál, a modernizmus mesterművénél kezdődik. Onnan a domináns Špilberk-várhoz hajt, ahol gyalogosan fedezi fel az első klasztert. Délelőtt élvezi a kilátást, mielőtt továbbhajt a városközpontba. Le parkolja az autóját, és felfedezi a második klasztert: Brnó történelmi szívét a Szabadság tér és a katedrális körül ebéd után. A délutánt a Régi Városháza legendái és a Csontház hátborzongató szépsége tölti ki. A nap egy pihentető sétával zárul vissza az autóhoz, tele építészeti és történelmi benyomásokkal.",
+        "ro": "Ziua dvs. cu mașina în Brno începe la Villa Tugendhat, o capodoperă a modernismului. De acolo, conduceți la dominanta Fortăreață Špilberk, unde explorați primul cluster pe jos. Dimineața vă bucurați de priveliște înainte de a continua spre centrul orașului. Parcați mașina și descoperiți al doilea cluster: inima istorică a Brnoului în jurul Pieței Libertății și a catedralei după prânz. După-amiaza este plină de legendele Vechii Primării și frumusețea macabră a Osuarului. Ziua se încheie cu o plimbare relaxantă înapoi la mașină, plină de impresii de arhitectură și istorie.",
+        "en": "Your car day in Brno begins at Villa Tugendhat, a masterpiece of modernism. From there, you drive to the dominant Špilberk Fortress, where you explore the first cluster on foot. In the morning, you enjoy the views before continuing to the city center. You park your car and discover the second cluster: Brno's historic heart around Freedom Square and the cathedral after lunch. The afternoon is filled with the legends of the Old Town Hall and the macabre beauty of the Ossuary. The day ends with a relaxing walk back to the car, full of architectural and historical impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pegas",
+            "tip": "Eine Mikrobrauerei mit Hotel und Restaurant, die ausgezeichnetes Bier und traditionelle Gerichte serviert."
+          },
+          {
+            "name": "Bar, který neexistuje",
+            "tip": "Eine berühmte Cocktailbar für einen Drink am Abend (es gibt auch gutes Essen)."
+          },
+          {
+            "name": "Vytopna Railway Restaurant",
+            "tip": "Getränke werden auf Modelleisenbahnen an Ihren Tisch geliefert, ein großer Spaß."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pegas",
+            "tip": "Kézműves sörfőzde szállodával és étteremmel, kiváló sört és hagyományos ételeket szolgál fel."
+          },
+          {
+            "name": "Bar, který neexistuje",
+            "tip": "Híres koktélbár egy esti italhoz (finom ételek is vannak)."
+          },
+          {
+            "name": "Vytopna Vasúti Étterem",
+            "tip": "Az italokat modellvasutak szállítják az asztalodhoz, remek szórakozás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pegas",
+            "tip": "O microberărie cu hotel și restaurant, care servește bere excelentă și mâncăruri tradiționale."
+          },
+          {
+            "name": "Bar, který neexistuje",
+            "tip": "Un bar de cocktailuri faimos pentru o băutură de seară (au și mâncare bună)."
+          },
+          {
+            "name": "Restaurantul feroviar Vytopna",
+            "tip": "Băuturile sunt livrate la masa ta pe trenuri model, foarte distractiv."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pegas",
+            "tip": "A microbrewery with a hotel and restaurant, serving excellent beer and traditional dishes."
+          },
+          {
+            "name": "Bar, který neexistuje (The Bar That Doesn't Exist)",
+            "tip": "A famous cocktail bar for an evening drink (they have good food too)."
+          },
+          {
+            "name": "Vytopna Railway Restaurant",
+            "tip": "Drinks are delivered to your table on model trains, great fun."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Brünner Talsperre (Brněnská přehrada)",
+            "tip": "Ein kurzer Ausflug mit dem Auto für eine Bootsfahrt oder einen Spaziergang am See.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Garten der Villa Tugendhat",
+            "tip": "Selbst wenn Sie keine Eintrittskarte für das Innere haben, ist der Garten ein ruhiger Ort zum Verweilen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Obelisk im Denis-Garten",
+            "tip": "Ein friedlicher Ort mit einem schönen Blick auf die Kathedrale und die Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brnói víztározó (Brněnská přehrada)",
+            "tip": "Rövid autós kirándulás egy csónakázáshoz vagy tóparti sétához.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Villa Tugendhat kertje",
+            "tip": "Még ha nincs is jegyed a belső terekbe, a kert csendes hely a pihenésre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Obeliszk a Denis-kertben",
+            "tip": "Békés hely, gyönyörű kilátással a katedrálisra és a városra.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Barajul Brno (Brněnská přehrada)",
+            "tip": "O scurtă călătorie cu mașina pentru o plimbare cu barca sau o plimbare pe malul lacului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Vilei Tugendhat",
+            "tip": "Chiar dacă nu aveți bilet pentru interior, grădina este un loc liniștit pentru a petrece timpul.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Obeliscul din Grădinile Denis",
+            "tip": "Un loc pașnic cu o priveliște frumoasă asupra catedralei și a orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Brno Reservoir (Brněnská přehrada)",
+            "tip": "A short car trip for a boat ride or a walk by the lake.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Garden of Villa Tugendhat",
+            "tip": "Even if you don't have a ticket for the inside, the garden is a quiet place to linger.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Obelisk in Denis Gardens",
+            "tip": "A peaceful spot with a beautiful view of the cathedral and the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Olympia Brno",
+            "tip": "Ein großes Einkaufszentrum am Stadtrand, leicht mit dem Auto zu erreichen."
+          },
+          {
+            "name": "Starobrněnská Straße",
+            "tip": "Nette kleine Läden und Boutiquen in der Nähe der Kathedrale."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olympia Brno",
+            "tip": "Nagy bevásárlóközpont a város szélén, autóval könnyen megközelíthető."
+          },
+          {
+            "name": "Starobrněnská utca",
+            "tip": "Aranyos kis boltok és butikok a katedrális közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Olympia Brno",
+            "tip": "Un mare centru comercial la marginea orașului, ușor accesibil cu mașina."
+          },
+          {
+            "name": "Strada Starobrněnská",
+            "tip": "Magazine și buticuri drăguțe lângă catedrală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Olympia Brno",
+            "tip": "A large shopping mall on the outskirts of the city, easily accessible by car."
+          },
+          {
+            "name": "Starobrněnská Street",
+            "tip": "Cute little shops and boutiques near the cathedral."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken im Stadtzentrum ist teuer und begrenzt. Nutzen Sie P+R-Anlagen oder zentrale Parkhäuser.",
+          "Planen Sie Ihre Route im Voraus, um Einbahnstraßen und verkehrsberuhigte Zonen zu vermeiden.",
+          "Buchen Sie Tickets für die Villa Tugendhat und die Kasematten der Festung Špilberk online, um lange Warteschlangen zu umgehen.",
+          "Achten Sie auf die blauen Parkzonen, die nur für Anwohner bestimmt sind."
+        ],
+        "hu": [
+          "A belvárosi parkolás drága és korlátozott. Használj P+R parkolókat vagy központi parkolóházakat.",
+          "Tervezd meg előre az útvonaladat, hogy elkerüld az egyirányú utcákat és a forgalomcsillapított zónákat.",
+          "Foglald le online a jegyeket a Villa Tugendhatba és a Špilberk-vár kazamatáiba, hogy elkerüld a hosszú sorokat.",
+          "Figyelj a kék parkolási zónákra, amelyek csak a helyi lakosok számára vannak fenntartva."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului este scumpă și limitată. Folosiți facilitățile P+R sau parcările centrale.",
+          "Planificați-vă traseul în avans pentru a evita străzile cu sens unic și zonele cu trafic redus.",
+          "Rezervați bilete online pentru Villa Tugendhat și cazematele Fortăreței Špilberk pentru a evita cozile lungi.",
+          "Fiți atenți la zonele de parcare albastre, care sunt rezervate doar rezidenților."
+        ],
+        "en": [
+          "Parking in the city center is expensive and limited. Use P+R facilities or central parking garages.",
+          "Plan your route in advance to avoid one-way streets and low-traffic zones.",
+          "Book tickets for Villa Tugendhat and the Špilberk Fortress casemates online to avoid long queues.",
+          "Pay attention to the blue parking zones, which are for residents only."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 9.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Freiheitsplatz",
+            "hu": "Érkezés a Szabadság térre",
+            "ro": "Sosire în Piața Libertății",
+            "en": "Arrival at Freedom Square"
+          },
+          "coords": [
+            16.6092,
+            49.1959
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Viele Straßenbahnlinien halten hier. Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+            "hu": "Sok villamosvonal megáll itt. Vásárolj napijegyet a korlátlan utazáshoz.",
+            "ro": "Multe linii de tramvai opresc aici. Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+            "en": "Many tram lines stop here. Buy a day ticket for unlimited travel."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Rathaus & Gemüsemarkt",
+            "hu": "Régi Városháza és Zöldségpiac",
+            "ro": "Vechea Primărie și Piața de Legume",
+            "en": "Old Town Hall & Vegetable Market"
+          },
+          "coords": [
+            16.6085,
+            49.193
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:34",
+          "stay_min": 50,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden Orte liegen direkt nebeneinander und sind leicht zu Fuß zu erkunden.",
+            "hu": "Ez a két hely közvetlenül egymás mellett található, és könnyen felfedezhető gyalog.",
+            "ro": "Aceste două locuri sunt chiar unul lângă celălalt și ușor de explorat pe jos.",
+            "en": "These two places are right next to each other and easy to explore on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale St. Peter und Paul",
+            "hu": "Szent Péter és Pál-katedrális",
+            "ro": "Catedrala Sf. Petru și Pavel",
+            "en": "Cathedral of St. Peter and Paul"
+          },
+          "coords": [
+            16.6068,
+            49.1915
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:28",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bereiten Sie sich auf einen kurzen, aber steilen Aufstieg zum Petrov-Hügel vor.",
+            "hu": "Készülj fel egy rövid, de meredek emelkedőre a Petrov-dombra.",
+            "ro": "Pregătiți-vă pentru o urcare scurtă, dar abruptă, pe dealul Petrov.",
+            "en": "Prepare for a short but steep climb up Petrov Hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Špilberk",
+            "hu": "Špilberk vár",
+            "ro": "Fortăreața Špilberk",
+            "en": "Špilberk Fortress"
+          },
+          "coords": [
+            16.5954,
+            49.1947
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 3,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie die Straßenbahn zum Šilingrovo náměstí und gehen Sie von dort aus den Hügel hinauf.",
+            "hu": "Menj villamossal a Šilingrovo náměstí-ig, és onnan sétálj fel a dombra.",
+            "ro": "Luați tramvaiul până la Šilingrovo náměstí și urcați dealul de acolo.",
+            "en": "Take the tram to Šilingrovo náměstí and walk up the hill from there."
+          }
+        },
+        {
+          "name": {
+            "de": "Mährische Galerie",
+            "hu": "Morva Galéria",
+            "ro": "Galeria Moraviană",
+            "en": "Moravian Gallery"
+          },
+          "coords": [
+            16.6053,
+            49.1983
+          ],
+          "category": "museums",
+          "arrive_at": "14:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Vom Špilberk aus können Sie eine Straßenbahnlinie nehmen, die Sie in die Nähe der Galerie bringt.",
+            "hu": "A Špilberkből villamossal eljuthat a galéria közelébe.",
+            "ro": "De la Špilberk, puteți lua o linie de tramvai care vă va duce aproape de galerie.",
+            "en": "From Špilberk, you can take a tram line that will get you close to the gallery."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Tugendhat",
+            "hu": "Villa Tugendhat",
+            "ro": "Villa Tugendhat",
+            "en": "Villa Tugendhat"
+          },
+          "coords": [
+            16.6119,
+            49.2078
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie die Straßenbahnlinie 9 oder 11 zur Haltestelle Tomanova.",
+            "hu": "Menj a 9-es vagy 11-es villamossal a Tomanova megállóig.",
+            "ro": "Luați tramvaiul 9 sau 11 până la stația Tomanova.",
+            "en": "Take tram line 9 or 11 to the Tomanova stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen & Abreise",
+            "hu": "Vacsora és indulás",
+            "ro": "Cină și plecare",
+            "en": "Dinner & Departure"
+          },
+          "coords": [
+            16.614,
+            49.196
+          ],
+          "category": "gastro",
+          "arrive_at": "17:12",
+          "stay_min": 70,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Fahren Sie zurück ins Zentrum für ein letztes tschechisches Essen, bevor Sie die Heimreise antreten.",
+            "hu": "Utazz vissza a központba egy utolsó cseh ételre, mielőtt hazaindulsz.",
+            "ro": "Întoarceți-vă în centru pentru o ultimă masă cehă înainte de a pleca acasă.",
+            "en": "Head back to the center for one last Czech meal before departing."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit einer Tageskarte für den öffentlichen Nahverkehr beginnt Ihr Tag am zentralen Freiheitsplatz. Der Vormittag gehört dem historischen Kern, den Sie bequem zu Fuß erkunden, vom Alten Rathaus bis zur Kathedrale. Danach bringt Sie die Straßenbahn zum ersten großen Ziel außerhalb des Zentrums: der Festung Špilberk. Nach dem Mittagessen und der Erkundung der Festung fahren Sie weiter zur Mährischen Galerie, um in die Kunst einzutauchen. Der Nachmittag wird durch einen Besuch der weltberühmten Villa Tugendhat gekrönt, die ebenfalls leicht mit der Straßenbahn zu erreichen ist. Der Tag endet mit einem Abendessen im Stadtzentrum, von wo aus Sie leicht Ihre Heimreise antreten können.",
+        "hu": "Egy napijeggyel a tömegközlekedéshez a napod a központi Szabadság téren kezdődik. A délelőtt a történelmi magé, amelyet kényelmesen gyalogosan fedezhetsz fel, a Régi Városházától a katedrálisig. Ezután a villamos elvisz az első nagy, központon kívüli célponthoz: a Špilberk-várhoz. Ebéd és a vár felfedezése után továbbmész a Morva Galériába, hogy elmerülj a művészetben. A délutánt a világhírű Villa Tugendhat meglátogatása koronázza meg, amely szintén könnyen elérhető villamossal. A nap a városközpontban elfogyasztott vacsorával zárul, ahonnan könnyedén megkezdheted a hazautat.",
+        "ro": "Cu un bilet de o zi pentru transportul public, ziua dvs. începe în Piața centrală a Libertății. Dimineața aparține centrului istoric, pe care îl explorați confortabil pe jos, de la Vechea Primărie la catedrală. Apoi, tramvaiul vă duce la prima destinație majoră în afara centrului: Fortăreața Špilberk. După prânz și explorarea cetății, continuați la Galeria Moraviană pentru a vă cufunda în artă. După-amiaza este încununată de o vizită la faimoasa Villa Tugendhat, de asemenea ușor accesibilă cu tramvaiul. Ziua se încheie cu o cină în centrul orașului, de unde puteți pleca cu ușurință spre casă.",
+        "en": "With a day pass for public transport, your day begins at the central Freedom Square. The morning belongs to the historic core, which you explore comfortably on foot, from the Old Town Hall to the cathedral. Afterwards, the tram takes you to the first major destination outside the center: Špilberk Fortress. After lunch and exploring the fortress, you continue to the Moravian Gallery to immerse yourself in art. The afternoon is crowned by a visit to the world-famous Villa Tugendhat, also easily accessible by tram. The day ends with dinner in the city center, from where you can easily begin your journey home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mlsná holka",
+            "tip": "Ein beliebter Ort für Kaffee und Kuchen in der Nähe vieler Sehenswürdigkeiten."
+          },
+          {
+            "name": "U Poutníka",
+            "tip": "Eine klassische tschechische Kneipe mit gutem Bier und günstigen, herzhaften Mahlzeiten."
+          },
+          {
+            "name": "4pokoje",
+            "tip": "Ein kreatives Konzept, das sich vom Morgenkaffee bis zum Abendcocktail wandelt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mlsná holka",
+            "tip": "Népszerű hely kávéra és süteményre sok látnivaló közelében."
+          },
+          {
+            "name": "U Poutníka",
+            "tip": "Klasszikus cseh kocsma jó sörrel és olcsó, kiadós ételekkel."
+          },
+          {
+            "name": "4pokoje",
+            "tip": "Kreatív koncepció, amely a reggeli kávétól az esti koktélig változik."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mlsná holka",
+            "tip": "Un loc popular pentru cafea și prăjituri, aproape de multe atracții."
+          },
+          {
+            "name": "U Poutníka",
+            "tip": "O tavernă cehă clasică, cu bere bună și mâncăruri consistente și ieftine."
+          },
+          {
+            "name": "4pokoje",
+            "tip": "Un concept creativ care se transformă de la cafeaua de dimineață la cocktailurile de seară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mlsná holka",
+            "tip": "A popular spot for coffee and cake, close to many sights."
+          },
+          {
+            "name": "U Poutníka",
+            "tip": "A classic Czech pub with good beer and cheap, hearty meals."
+          },
+          {
+            "name": "4pokoje",
+            "tip": "A creative concept that transforms from morning coffee to evening cocktails."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kraví hora Park",
+            "tip": "Ein Hügel mit einem Planetarium und einem Schwimmbad, von dem aus man einen tollen Blick auf die Stadt hat.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kapuzinergruft",
+            "tip": "Eine stille und nachdenkliche Erfahrung im Herzen der Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Botanischer Garten",
+            "tip": "Ein friedlicher Ort, der mit der Straßenbahn leicht zu erreichen ist.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kraví hora Park",
+            "tip": "Domb planetáriummal és uszodával, ahonnan remek kilátás nyílik a városra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kapucinus kripta",
+            "tip": "Csendes és elgondolkodtató élmény a város szívében.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Botanikus Kert",
+            "tip": "Békés hely, villamossal könnyen megközelíthető.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Kraví hora",
+            "tip": "Un deal cu un planetariu și o piscină, care oferă o priveliște minunată asupra orașului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cripta Capucinilor",
+            "tip": "O experiență tăcută și reflexivă în inima orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădina Botanică",
+            "tip": "Un loc pașnic, ușor accesibil cu tramvaiul.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kraví hora Park",
+            "tip": "A hill with a planetarium and a swimming pool, offering a great view of the city.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Capuchin Crypt",
+            "tip": "A silent and reflective experience in the heart of the city.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Botanical Garden",
+            "tip": "A peaceful place easily reachable by tram.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hauptbahnhof (Hlavní nádraží)",
+            "tip": "Rund um den Bahnhof gibt es viele Geschäfte und einen kleinen Supermarkt für den Reisebedarf."
+          },
+          {
+            "name": "Masarykova Straße",
+            "tip": "Die Hauptschlagader des Stadtzentrums, voller Geschäfte, Cafés und Restaurants."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Főpályaudvar (Hlavní nádraží)",
+            "tip": "A pályaudvar körül számos üzlet és egy kis szupermarket található az utazási szükségletekhez."
+          },
+          {
+            "name": "Masarykova utca",
+            "tip": "A városközpont fő artériája, tele üzletekkel, kávézókkal és éttermekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gara Principală (Hlavní nádraží)",
+            "tip": "În jurul gării există multe magazine și un mic supermarket pentru necesitățile de călătorie."
+          },
+          {
+            "name": "Strada Masarykova",
+            "tip": "Artera principală a centrului orașului, plină de magazine, cafenele și restaurante."
+          }
+        ],
+        "en": [
+          {
+            "name": "Main Train Station (Hlavní nádraží)",
+            "tip": "Around the station, there are many shops and a small supermarket for travel needs."
+          },
+          {
+            "name": "Masarykova Street",
+            "tip": "The main artery of the city center, full of shops, cafes, and restaurants."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die App 'IDOS' herunter, um die besten Verbindungen für den öffentlichen Nahverkehr zu finden.",
+          "Validieren Sie Ihr Ticket sofort beim Einsteigen in eine Straßenbahn oder einen Bus.",
+          "Eine Tages- oder 24-Stunden-Karte ist in der Regel die günstigste Option für Touristen.",
+          "Die meisten Ansagen in den Fahrzeugen sind auch auf Englisch."
+        ],
+        "hu": [
+          "Töltsd le az 'IDOS' alkalmazást a legjobb tömegközlekedési kapcsolatok megtalálásához.",
+          "Érvényesítsd a jegyedet azonnal, amint felszállsz egy villamosra vagy buszra.",
+          "A napi vagy 24 órás jegy általában a legolcsóbb opció a turisták számára.",
+          "A legtöbb bemondás a járműveken angolul is elhangzik."
+        ],
+        "ro": [
+          "Descărcați aplicația 'IDOS' pentru a găsi cele mai bune conexiuni de transport public.",
+          "Validați-vă biletul imediat ce urcați într-un tramvai sau autobuz.",
+          "Un bilet de o zi sau de 24 de ore este de obicei cea mai ieftină opțiune pentru turiști.",
+          "Majoritatea anunțurilor din vehicule sunt și în engleză."
+        ],
+        "en": [
+          "Download the 'IDOS' app to find the best public transport connections.",
+          "Validate your ticket immediately upon boarding a tram or bus.",
+          "A one-day or 24-hour ticket is usually the cheapest option for tourists.",
+          "Most announcements in the vehicles are also in English."
+        ]
+      }
+    }
+  }
+}

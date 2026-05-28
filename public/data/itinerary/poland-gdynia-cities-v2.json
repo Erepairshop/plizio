@@ -1,0 +1,1460 @@
+{
+  "city_id": "poland-gdynia-cities-v2",
+  "anchor": {
+    "name": "Gdingen",
+    "coords": [
+      18.5305,
+      54.5189
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kościuszko-Platz",
+            "hu": "Kościuszko tér",
+            "ro": "Piața Kościuszko",
+            "en": "Kościuszko Square"
+          },
+          "coords": [
+            18.546,
+            54.518
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Herz des maritimen Gdynia, ideal für einen Morgenkaffee.",
+            "hu": "Gdynia tengeri szívének központja, ideális egy reggeli kávéhoz.",
+            "ro": "Inima maritimă a Gdyniei, ideală pentru o cafea de dimineață.",
+            "en": "The heart of maritime Gdynia, perfect for a morning coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Museumsschiff Dar Pomorza",
+            "hu": "Dar Pomorza múzeumhajó",
+            "ro": "Nava-muzeu Dar Pomorza",
+            "en": "Dar Pomorza Museum Ship"
+          },
+          "coords": [
+            18.549,
+            54.52
+          ],
+          "category": "museums",
+          "arrive_at": "09:45",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie das Deck dieses berühmten Segelschulschiffs.",
+            "hu": "Fedezze fel ennek a híres vitorlás iskolahajónak a fedélzetét!",
+            "ro": "Explorați puntea acestei faimoase nave-școală cu pânze.",
+            "en": "Explore the deck of this famous tall ship."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquarium Gdynia",
+            "hu": "Gdynia Akvárium",
+            "ro": "Acvariul din Gdynia",
+            "en": "Gdynia Aquarium"
+          },
+          "coords": [
+            18.551,
+            54.519
+          ],
+          "category": "natural features",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Einblicke in die Unterwasserwelt der Ostsee und darüber hinaus.",
+            "hu": "Pillantás a Balti-tenger és más vizek víz alatti világába.",
+            "ro": "O incursiune în lumea subacvatică a Mării Baltice și nu numai.",
+            "en": "An insight into the underwater world of the Baltic Sea and beyond."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Hafen",
+            "hu": "Ebéd a kikötőben",
+            "ro": "Prânz în port",
+            "en": "Lunch at the Harbor"
+          },
+          "coords": [
+            18.547,
+            54.521
+          ],
+          "category": "gastro",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie frischen Fisch in einem der Restaurants am Kai.",
+            "hu": "Kóstoljon friss halat a rakparti éttermek egyikében.",
+            "ro": "Încercați pește proaspăt la unul dintre restaurantele de pe chei.",
+            "en": "Try some fresh fish at one of the quayside restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Kamienna Góra (Steinberg)",
+            "hu": "Kamienna Góra (Kő-hegy)",
+            "ro": "Kamienna Góra (Dealul de Piatră)",
+            "en": "Kamienna Góra (Stone Hill)"
+          },
+          "coords": [
+            18.544,
+            54.513
+          ],
+          "category": "natural features",
+          "arrive_at": "14:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie die Standseilbahn für einen atemberaubenden Blick über die Stadt.",
+            "hu": "Menjen fel a siklóval a városra nyíló lélegzetelállító kilátásért.",
+            "ro": "Luați funicularul pentru o priveliște uluitoare asupra orașului.",
+            "en": "Take the funicular railway for a breathtaking view over the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Auswanderungsmuseum",
+            "hu": "Kivándorlási Múzeum",
+            "ro": "Muzeul Emigrației",
+            "en": "Emigration Museum"
+          },
+          "coords": [
+            18.538,
+            54.53
+          ],
+          "category": "museums",
+          "arrive_at": "15:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein bewegendes Museum über die Geschichte der polnischen Auswanderung.",
+            "hu": "Megindító múzeum a lengyel kivándorlás történetéről.",
+            "ro": "Un muzeu emoționant despre istoria emigrației poloneze.",
+            "en": "A moving museum about the history of Polish emigration."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am belebten Kościuszko-Platz, dem Herzen des maritimen Gdynia. Am Vormittag tauchen Sie in die Seefahrtsgeschichte auf dem Museumsschiff Dar Pomorza ein und entdecken die Unterwasserwelt im Aquarium. Nach einem frischen Fisch-Mittagessen am Hafen fahren Sie mit der Seilbahn auf den Kamienna Góra, um die Panoramaaussicht zu genießen. Der Nachmittag ist der bewegenden Geschichte der polnischen Auswanderung im Auswanderungsmuseum gewidmet, bevor Sie den Tag bei einem Spaziergang entlang der Küste ausklingen lassen.",
+        "hu": "Kezdje a napot a nyüzsgő Kościuszko téren, Gdynia tengeri szívében. Délelőtt merüljön el a tengerészeti történelemben a Dar Pomorza múzeumhajón, majd fedezze fel a víz alatti világot az Akváriumban. Egy friss halból készült ebéd után a kikötőben, siklóval menjen fel a Kamienna Góra hegyre a panorámás kilátásért. A délutánt a lengyel emigráció megindító történetének szentelje a Kivándorlási Múzeumban, mielőtt egy tengerparti sétával zárja a napot.",
+        "ro": "Începeți ziua în Piața plină de viață Kościuszko, inima maritimă a Gdyniei. În cursul dimineții, pătrundeți în istoria navală pe nava-muzeu Dar Pomorza și descoperiți lumea subacvatică la Acvariu. După un prânz cu pește proaspăt în port, urcați cu funicularul pe Kamienna Góra pentru a admira priveliștea panoramică. După-amiaza este dedicată istoriei emoționante a emigrației poloneze la Muzeul Emigrației, înainte de a încheia ziua cu o plimbare pe malul mării.",
+        "en": "Start your day at the bustling Kościuszko Square, the maritime heart of Gdynia. In the morning, delve into naval history on the Dar Pomorza museum ship and discover the underwater world at the Aquarium. After a fresh fish lunch at the harbour, take the funicular up Kamienna Góra to enjoy the panoramic view. The afternoon is dedicated to the moving story of Polish emigration at the Emigration Museum, before ending the day with a stroll along the coast."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smażona flądra",
+            "tip": "Gebratene Flunder, direkt von der Ostsee, ein Muss in Gdynia."
+          },
+          {
+            "name": "Zupa rybna",
+            "tip": "Eine herzhafte Fischsuppe, perfekt für einen windigen Tag am Meer."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Polnische Teigtaschen, probieren Sie die mit Fischfüllung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smażona flądra",
+            "tip": "Sült lepényhal, egyenesen a Balti-tengerből, kötelező Gdyniában."
+          },
+          {
+            "name": "Zupa rybna",
+            "tip": "Kiadós halleves, tökéletes egy szeles tengerparti napon."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Lengyel derelye, kóstolja meg a halas töltelékkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smażona flądra",
+            "tip": "Calcan prăjit, direct din Marea Baltică, o necesitate în Gdynia."
+          },
+          {
+            "name": "Zupa rybna",
+            "tip": "O supă de pește consistentă, perfectă pentru o zi vântoasă la malul mării."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Găluște poloneze, încercați-le pe cele umplute cu pește."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smażona flądra",
+            "tip": "Fried flounder, straight from the Baltic Sea, a must-try in Gdynia."
+          },
+          {
+            "name": "Zupa rybna",
+            "tip": "A hearty fish soup, perfect for a windy day by the sea."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Polish dumplings, try the ones with a fish filling."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kamienna Góra",
+            "tip": "Genießen Sie die Ruhe und den weiten Blick über den Hafen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Strand von Gdynia",
+            "tip": "Ein Spaziergang am frühen Morgen oder späten Abend entlang des Wassers.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Polanka Redłowska",
+            "tip": "Eine grüne Lichtung in der Nähe der Klippen, ideal zum Entspannen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kamienna Góra",
+            "tip": "Élvezze a csendet és a kikötőre nyíló széles kilátást.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gdyniai strand",
+            "tip": "Kora reggeli vagy késő esti séta a vízparton.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Polanka Redłowska",
+            "tip": "Zöld tisztás a sziklák közelében, ideális pihenésre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kamienna Góra",
+            "tip": "Bucurați-vă de liniște și de priveliștea largă asupra portului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plaja Gdynia",
+            "tip": "O plimbare dimineața devreme sau seara târziu de-a lungul apei.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Polanka Redłowska",
+            "tip": "O poiană verde lângă stânci, ideală pentru relaxare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kamienna Góra",
+            "tip": "Enjoy the peace and the wide view over the harbour.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gdynia Beach",
+            "tip": "An early morning or late evening walk along the water.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Polanka Redłowska",
+            "tip": "A green glade near the cliffs, perfect for relaxation.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bernsteinschmuck",
+            "tip": "Suchen Sie nach einzigartigen Stücken in den Geschäften entlang der Świętojańska-Straße."
+          },
+          {
+            "name": "Maritime Souvenirs",
+            "tip": "Kleine Schiffsmodelle oder Kleidung mit Ankermotiven gibt es in der Nähe des Hafens."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borostyán ékszerek",
+            "tip": "Keressen egyedi darabokat a Świętojańska utca üzleteiben."
+          },
+          {
+            "name": "Tengerészeti ajándéktárgyak",
+            "tip": "Kis hajómodellek vagy horgonyos ruházat a kikötő közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bijuterii din chihlimbar",
+            "tip": "Căutați piese unice în magazinele de pe strada Świętojańska."
+          },
+          {
+            "name": "Suveniruri maritime",
+            "tip": "Mici modele de nave sau haine cu motive de ancoră pot fi găsite lângă port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Amber Jewellery",
+            "tip": "Look for unique pieces in the shops along Świętojańska Street."
+          },
+          {
+            "name": "Maritime Souvenirs",
+            "tip": "Small ship models or anchor-themed apparel can be found near the harbour."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Eine Windjacke ist auch im Sommer eine gute Idee.",
+          "Die Standseilbahn zum Kamienna Góra ist eine lohnende Abkürzung.",
+          "Überprüfen Sie die Öffnungszeiten der Museen im Voraus, insbesondere außerhalb der Saison."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "Egy széldzseki még nyáron is jó ötlet.",
+          "A Kamienna Góra-ra vezető sikló megéri a rövidítést.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét, különösen a főszezonon kívül."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, veți merge mult pe jos.",
+          "O geacă de vânt este o idee bună chiar și vara.",
+          "Funicularul spre Kamienna Góra este o scurtătură care merită.",
+          "Verificați în avans orele de funcționare ale muzeelor, în special în afara sezonului."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "A windbreaker is a good idea, even in summer.",
+          "The funicular to Kamienna Góra is a worthwhile shortcut.",
+          "Check museum opening times in advance, especially outside of the main season."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 14.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Auswanderungsmuseum",
+            "hu": "Kivándorlási Múzeum",
+            "ro": "Muzeul Emigrației",
+            "en": "Emigration Museum"
+          },
+          "coords": [
+            18.538,
+            54.53
+          ],
+          "category": "museums",
+          "arrive_at": "09:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, um die Menschenmassen am Vormittag zu vermeiden.",
+            "hu": "Kezdje itt, hogy elkerülje a délelőtti tömeget.",
+            "ro": "Începeți aici pentru a evita aglomerația de dimineață.",
+            "en": "Start here to avoid the mid-morning crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Kościuszko-Platz & ORP Błyskawica",
+            "hu": "Kościuszko tér és ORP Błyskawica",
+            "ro": "Piața Kościuszko & ORP Błyskawica",
+            "en": "Kościuszko Square & ORP Błyskawica"
+          },
+          "coords": [
+            18.548,
+            54.519
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Platz mit dem benachbarten Zerstörer-Museumsschiff.",
+            "hu": "Kombinálja a teret a szomszédos romboló múzeumhajóval.",
+            "ro": "Combinați piața cu vizitarea distrugătorului-muzeu învecinat.",
+            "en": "Combine the square with the adjacent destroyer museum ship."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen an der Strandpromenade",
+            "hu": "Ebéd a tengerparti sétányon",
+            "ro": "Prânz pe promenada de pe plajă",
+            "en": "Lunch on the beach promenade"
+          },
+          "coords": [
+            18.545,
+            54.51
+          ],
+          "category": "gastro",
+          "arrive_at": "12:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht bei einem leichten Mittagessen.",
+            "hu": "Élvezze a kilátást egy könnyű ebéd mellett.",
+            "ro": "Bucurați-vă de priveliște cu un prânz ușor.",
+            "en": "Enjoy the view with a light lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Kamienna Góra",
+            "hu": "Kamienna Góra",
+            "ro": "Kamienna Góra",
+            "en": "Kamienna Góra"
+          },
+          "coords": [
+            18.544,
+            54.513
+          ],
+          "category": "natural features",
+          "arrive_at": "14:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lassen Sie Ihr Fahrrad unten und gehen Sie für die Aussicht nach oben.",
+            "hu": "Hagyja lent a biciklit, és sétáljon fel a kilátásért.",
+            "ro": "Lăsați bicicleta jos și urcați pentru priveliște.",
+            "en": "Leave your bike at the bottom and walk up for the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt nach Orłowo",
+            "hu": "Utazás Orłowóba",
+            "ro": "Plimbare spre Orłowo",
+            "en": "Ride to Orłowo"
+          },
+          "coords": [
+            18.547,
+            54.486
+          ],
+          "category": "journey",
+          "arrive_at": "15:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Radweg entlang der Küste ist einer der schönsten in Polen.",
+            "hu": "A tengerparti kerékpárút az egyik legszebb Lengyelországban.",
+            "ro": "Pista de biciclete de-a lungul coastei este una dintre cele mai frumoase din Polonia.",
+            "en": "The cycle path along the coast is one of the most beautiful in Poland."
+          }
+        },
+        {
+          "name": {
+            "de": "Seebrücke Orłowo",
+            "hu": "Orłowo móló",
+            "ro": "Debarcaderul Orłowo",
+            "en": "Orłowo Pier"
+          },
+          "coords": [
+            18.548,
+            54.485
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein malerischer Holzsteg mit Blick auf die Klippen.",
+            "hu": "Festői famóló, kilátással a sziklákra.",
+            "ro": "Un debarcader pitoresc din lemn, cu vedere la stânci.",
+            "en": "A picturesque wooden pier with views of the cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt ins Zentrum",
+            "hu": "Vissza a központba",
+            "ro": "Întoarcere în centru",
+            "en": "Ride back to the center"
+          },
+          "coords": [
+            18.5305,
+            54.5189
+          ],
+          "category": "journey",
+          "arrive_at": "16:20",
+          "stay_min": 155,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie die letzte Fahrt und halten Sie für ein Eis an.",
+            "hu": "Élvezze az utolsó utat, és álljon meg egy fagyira.",
+            "ro": "Bucurați-vă de ultima plimbare și opriți-vă pentru o înghețată.",
+            "en": "Enjoy the last ride and stop for an ice cream."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Rad und starten Sie beim Auswanderungsmuseum. Radeln Sie dann ins Herz der Stadt zum Kościuszko-Platz und dem Zerstörer Błyskawica. Nach einem Mittagessen mit Meerblick führt Sie eine kurze Fahrt zum Kamienna Góra für eine tolle Aussicht. Der Höhepunkt des Nachmittags ist die malerische Radtour entlang der Küste zur Seebrücke von Orłowo. Genießen Sie die frische Meeresbrise, bevor Sie gemütlich ins Zentrum zurückkehren und den Tag ausklingen lassen.",
+        "hu": "Pattanjon biciklire, és kezdjen a Kivándorlási Múzeumnál. Ezután tekerjen be a város szívébe, a Kościuszko térre és a Błyskawica rombolóhoz. Egy tengerre néző ebéd után egy rövid út vezet a Kamienna Góra hegyre a nagyszerű kilátásért. A délután fénypontja a festői tengerparti biciklitúra az Orłowo mólóhoz. Élvezze a friss tengeri szellőt, mielőtt kényelmesen visszatér a központba, és lezárja a napot.",
+        "ro": "Urcați-vă pe bicicletă și porniți de la Muzeul Emigrației. Apoi pedalați spre inima orașului, la Piața Kościuszko și distrugătorul Błyskawica. După un prânz cu vedere la mare, o scurtă plimbare vă duce la Kamienna Góra pentru o priveliște minunată. Punctul culminant al după-amiezii este pitoreasca plimbare cu bicicleta de-a lungul coastei până la debarcaderul din Orłowo. Bucurați-vă de briza proaspătă a mării înainte de a vă întoarce agale în centru pentru a încheia ziua.",
+        "en": "Get on your bike and start at the Emigration Museum. Then cycle into the heart of the city to Kościuszko Square and the destroyer Błyskawica. After a lunch with a sea view, a short ride takes you to Kamienna Góra for a great view. The highlight of the afternoon is the scenic bike ride along the coast to the Orłowo Pier. Enjoy the fresh sea breeze before leisurely returning to the centre to round off the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bar Przystań",
+            "tip": "Berühmt für seine Fischsuppe, direkt am Strand in Sopot, aber mit dem Fahrrad erreichbar."
+          },
+          {
+            "name": "Tawerna Orłowska",
+            "tip": "Tolles Fischrestaurant direkt am Pier in Orłowo."
+          },
+          {
+            "name": "Gofry",
+            "tip": "Belgische Waffeln, ein perfekter süßer Snack nach einer Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bar Przystań",
+            "tip": "Híres a halleveséről, közvetlenül a tengerparton Sopotban, de biciklivel elérhető."
+          },
+          {
+            "name": "Tawerna Orłowska",
+            "tip": "Nagyszerű halétterem közvetlenül az Orłowo mólónál."
+          },
+          {
+            "name": "Gofry",
+            "tip": "Belga gofri, tökéletes édes snack egy biciklitúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bar Przystań",
+            "tip": "Renumit pentru supa sa de pește, chiar pe plaja din Sopot, dar accesibil cu bicicleta."
+          },
+          {
+            "name": "Tawerna Orłowska",
+            "tip": "Un restaurant excelent de pește chiar lângă debarcaderul din Orłowo."
+          },
+          {
+            "name": "Gofry",
+            "tip": "Gofre belgiene, o gustare dulce perfectă după o plimbare cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bar Przystań",
+            "tip": "Famous for its fish soup, right on the beach in Sopot but reachable by bike."
+          },
+          {
+            "name": "Tawerna Orłowska",
+            "tip": "Great fish restaurant right by the pier in Orłowo."
+          },
+          {
+            "name": "Gofry",
+            "tip": "Belgian waffles, a perfect sweet snack after a bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klif Orłowski",
+            "tip": "Die Klippen von Orłowo bieten eine dramatische und ruhige Landschaft.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Radweg am Meer",
+            "tip": "Halten Sie an einer der vielen Bänke an und lauschen Sie den Wellen.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Park Kiloński",
+            "tip": "Ein ruhiger Park, um sich von der Fahrt zu erholen.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Klif Orłowski",
+            "tip": "Az Orłowo sziklák drámai és csendes tájat kínálnak.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Tengerparti kerékpárút",
+            "tip": "Álljon meg az egyik padnál, és hallgassa a hullámokat.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Park Kiloński",
+            "tip": "Csendes park a biciklizés utáni pihenéshez.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Klif Orłowski",
+            "tip": "Stâncile din Orłowo oferă un peisaj dramatic și liniștit.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pista de biciclete pe malul mării",
+            "tip": "Opriți-vă la una dintre numeroasele bănci și ascultați valurile.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Parcul Kiloński",
+            "tip": "Un parc liniștit pentru a vă odihni după plimbare.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Klif Orłowski",
+            "tip": "The Orłowo cliffs offer a dramatic and peaceful landscape.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Seaside cycle path",
+            "tip": "Stop at one of the many benches and listen to the waves.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Kiloński Park",
+            "tip": "A quiet park to rest from the ride.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradzubehör",
+            "tip": "Entlang der Świętojańska gibt es mehrere Geschäfte für Radsportbegeisterte."
+          },
+          {
+            "name": "Lokale Kunst in Orłowo",
+            "tip": "Kleine Galerien in der Nähe des Piers verkaufen Werke von lokalen Künstlern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpár-kiegészítők",
+            "tip": "A Świętojańska mentén számos üzlet található a kerékpározás szerelmeseinek."
+          },
+          {
+            "name": "Helyi művészet Orłowóban",
+            "tip": "A móló közelében lévő kis galériák helyi művészek alkotásait árulják."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Accesorii pentru biciclete",
+            "tip": "Există mai multe magazine pentru pasionații de ciclism de-a lungul străzii Świętojańska."
+          },
+          {
+            "name": "Artă locală în Orłowo",
+            "tip": "Micile galerii de lângă debarcader vând lucrări ale artiștilor locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Accessories",
+            "tip": "There are several shops for cycling enthusiasts along Świętojańska street."
+          },
+          {
+            "name": "Local Art in Orłowo",
+            "tip": "Small galleries near the pier sell works by local artists."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck vor der Abfahrt.",
+          "Ein Schloss ist unerlässlich, wenn Sie die Sehenswürdigkeiten besuchen.",
+          "Der Küstenradweg kann an Wochenenden überfüllt sein.",
+          "Nehmen Sie Wasser und Snacks für die längere Fahrt nach Orłowo mit."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "A lakat elengedhetetlen a látnivalók megtekintésekor.",
+          "A tengerparti kerékpárút hétvégén zsúfolt lehet.",
+          "Vigyen vizet és harapnivalót az Orłowóba tartó hosszabb útra."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope înainte de a pleca.",
+          "Un lacăt este esențial atunci când vizitați obiectivele turistice.",
+          "Pista de biciclete de coastă poate fi aglomerată în weekend.",
+          "Luați apă și gustări pentru drumul mai lung spre Orłowo."
+        ],
+        "en": [
+          "Check your tyre pressure before setting off.",
+          "A lock is essential when you visit the sights.",
+          "The coastal cycle path can be crowded on weekends.",
+          "Take water and snacks for the longer ride to Orłowo."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:56",
+      "total_km": 15.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrt nach Orłowo & Parken",
+            "hu": "Utazás Orłowóba és parkolás",
+            "ro": "Conduceți spre Orłowo și parcați",
+            "en": "Drive to Orłowo & Park"
+          },
+          "coords": [
+            18.547,
+            54.486
+          ],
+          "category": "journey",
+          "arrive_at": "09:25",
+          "stay_min": 0,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie im Süden, um dem Stadtverkehr am Morgen zu entgehen.",
+            "hu": "Kezdje délen, hogy elkerülje a reggeli városi forgalmat.",
+            "ro": "Începeți în sud pentru a evita traficul de dimineață din oraș.",
+            "en": "Start in the south to avoid the morning city traffic."
+          }
+        },
+        {
+          "name": {
+            "de": "Seebrücke Orłowo",
+            "hu": "Orłowo móló",
+            "ro": "Debarcaderul Orłowo",
+            "en": "Orłowo Pier"
+          },
+          "coords": [
+            18.548,
+            54.485
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Morgenbrise und den Blick auf die Klippen von Orłowo.",
+            "hu": "Élvezze a reggeli szellőt és a kilátást az Orłowo sziklákra.",
+            "ro": "Bucurați-vă de briza dimineții și de vederea spre stâncile Orłowo.",
+            "en": "Enjoy the morning breeze and the view of the Orłowo cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Zentrum & Parken bei Kamienna Góra",
+            "hu": "Utazás a központba és parkolás a Kamienna Góránál",
+            "ro": "Conduceți spre centru și parcați lângă Kamienna Góra",
+            "en": "Drive to Center & Park near Kamienna Góra"
+          },
+          "coords": [
+            18.544,
+            54.513
+          ],
+          "category": "journey",
+          "arrive_at": "10:50",
+          "stay_min": 0,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Rest des zentralen Teils des Tages.",
+            "hu": "Parkoljon itt a nap központi részének hátralévő idejére.",
+            "ro": "Parcați aici pentru restul părții centrale a zilei.",
+            "en": "Park here for the rest of the central part of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Kościuszko-Platz & Museumsschiffe",
+            "hu": "Kościuszko tér és múzeumhajók",
+            "ro": "Piața Kościuszko și navele-muzeu",
+            "en": "Kościuszko Square & Museum Ships"
+          },
+          "coords": [
+            18.547,
+            54.519
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:05",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang bergab führt Sie zum Herzen des Hafens.",
+            "hu": "Egy rövid séta lefelé a hegyről a kikötő szívébe vezet.",
+            "ro": "O scurtă plimbare la vale vă duce în inima portului.",
+            "en": "A short walk downhill takes you to the heart of the harbour."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquarium Gdynia & Mittagessen",
+            "hu": "Gdynia Akvárium és ebéd",
+            "ro": "Acvariul Gdynia și prânzul",
+            "en": "Gdynia Aquarium & Lunch"
+          },
+          "coords": [
+            18.551,
+            54.519
+          ],
+          "category": "natural features",
+          "arrive_at": "13:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach der Unterwasserwelt gibt es viele Restaurants in der Nähe.",
+            "hu": "A víz alatti világ után számos étterem található a közelben.",
+            "ro": "După lumea subacvatică, există multe restaurante în apropiere.",
+            "en": "After the underwater world, there are many restaurants nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Auswanderungsmuseum",
+            "hu": "Utazás a Kivándorlási Múzeumhoz",
+            "ro": "Conduceți spre Muzeul Emigrației",
+            "en": "Drive to the Emigration Museum"
+          },
+          "coords": [
+            18.538,
+            54.53
+          ],
+          "category": "museums",
+          "arrive_at": "16:01",
+          "stay_min": 145,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit diesem wichtigen Teil der polnischen Geschichte.",
+            "hu": "Zárja a napot a lengyel történelem e fontos részével.",
+            "ro": "Încheiați ziua cu această parte importantă a istoriei poloneze.",
+            "en": "End the day with this important part of Polish history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Autotag mit einer Fahrt zur malerischen Seebrücke von Orłowo. Nachdem Sie die morgendliche Meeresluft genossen haben, fahren Sie ins Zentrum und parken in der Nähe des Kamienna Góra. Von dort aus erkunden Sie zu Fuß das Herz von Gdynia: den Kościuszko-Platz, die Museumsschiffe und das Aquarium, unterbrochen von einem Mittagessen am Meer. Am Nachmittag fahren Sie zum Auswanderungsmuseum, einem tiefgründigen Abschluss Ihrer Erkundungstour durch diese faszinierende Hafenstadt.",
+        "hu": "Kezdje autós napját egy utazással a festői Orłowo mólóhoz. Miután élvezte a reggeli tengeri levegőt, hajtson be a központba, és parkoljon a Kamienna Góra közelében. Innen gyalogosan fedezze fel Gdynia szívét: a Kościuszko teret, a múzeumhajókat és az Akváriumot, egy tengerparti ebéddel megszakítva. Délután hajtson el a Kivándorlási Múzeumhoz, amely mélyreható befejezése ennek a lenyűgöző kikötővárosnak a felfedezésének.",
+        "ro": "Începeți ziua cu mașina cu o excursie la pitorescul debarcader din Orłowo. După ce v-ați bucurat de aerul de dimineață al mării, conduceți spre centru și parcați lângă Kamienna Góra. De acolo, explorați pe jos inima Gdyniei: Piața Kościuszko, navele-muzeu și Acvariul, cu o pauză pentru prânz la malul mării. După-amiaza, conduceți la Muzeul Emigrației pentru o concluzie profundă a explorării acestui oraș portuar fascinant.",
+        "en": "Start your car day with a drive to the picturesque Orłowo Pier. After enjoying the morning sea air, drive to the centre and park near Kamienna Góra. From there, explore the heart of Gdynia on foot: Kościuszko Square, the museum ships and the Aquarium, with a break for lunch by the sea. In the afternoon, drive to the Emigration Museum for a profound conclusion to your exploration of this fascinating port city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restauracja Barracuda",
+            "tip": "Gehobene Fischküche mit Blick auf die Bucht."
+          },
+          {
+            "name": "Sztuczka",
+            "tip": "Moderne polnische Küche, ideal für ein besonderes Abendessen."
+          },
+          {
+            "name": "Pyra Bar",
+            "tip": "Alles rund um die Kartoffel, eine günstige und leckere Option."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restauracja Barracuda",
+            "tip": "Elegáns halételek, kilátással az öbölre."
+          },
+          {
+            "name": "Sztuczka",
+            "tip": "Modern lengyel konyha, ideális egy különleges vacsorához."
+          },
+          {
+            "name": "Pyra Bar",
+            "tip": "Minden a burgonyáról szól, olcsó és finom lehetőség."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restauracja Barracuda",
+            "tip": "Mâncăruri fine din pește cu vedere la golf."
+          },
+          {
+            "name": "Sztuczka",
+            "tip": "Bucătărie poloneză modernă, ideală pentru o cină specială."
+          },
+          {
+            "name": "Pyra Bar",
+            "tip": "Totul despre cartofi, o opțiune ieftină și gustoasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restauracja Barracuda",
+            "tip": "Fine dining seafood with a view of the bay."
+          },
+          {
+            "name": "Sztuczka",
+            "tip": "Modern Polish cuisine, great for a special dinner."
+          },
+          {
+            "name": "Pyra Bar",
+            "tip": "Everything about potatoes, a cheap and tasty option."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rezerwacja Przyrody Kępa Redłowska",
+            "tip": "Ein Naturschutzgebiet mit Wanderwegen durch den Wald zu den Klippen.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Torpedownia",
+            "tip": "Eine verlassene deutsche Torpedotestanlage in der Bucht, sichtbar von Babie Doły.",
+            "emoji": "🏚️"
+          },
+          {
+            "name": "Gdynia Kolibki",
+            "tip": "Ein ruhiger Park und Gutshof an der Grenze zu Sopot.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rezerwacja Przyrody Kępa Redłowska",
+            "tip": "Természetvédelmi terület erdei ösvényekkel a sziklákhoz.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Torpedownia",
+            "tip": "Elhagyatott német torpedó-kísérleti telep az öbölben, Babie Doły-ból látható.",
+            "emoji": "🏚️"
+          },
+          {
+            "name": "Gdynia Kolibki",
+            "tip": "Csendes park és udvarház Sopot határán.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rezerwacja Przyrody Kępa Redłowska",
+            "tip": "O rezervație naturală cu poteci prin pădure până la stânci.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Torpedownia",
+            "tip": "O stație germană abandonată de testare a torpilelor în golf, vizibilă din Babie Doły.",
+            "emoji": "🏚️"
+          },
+          {
+            "name": "Gdynia Kolibki",
+            "tip": "Un parc liniștit și un conac la granița cu Sopot.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rezerwacja Przyrody Kępa Redłowska",
+            "tip": "A nature reserve with trails through the forest to the cliffs.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Torpedownia",
+            "tip": "An abandoned German torpedo testing station in the bay, visible from Babie Doły.",
+            "emoji": "🏚️"
+          },
+          {
+            "name": "Gdynia Kolibki",
+            "tip": "A quiet park and manor house on the border with Sopot.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "CH Riviera",
+            "tip": "Eines der größten Einkaufszentren in Pommern, falls das Wetter schlecht ist."
+          },
+          {
+            "name": "Hala Targowa w Gdyni",
+            "tip": "Eine Markthalle mit frischen Produkten und lokalen Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "CH Riviera",
+            "tip": "Pomeránia egyik legnagyobb bevásárlóközpontja, ha rossz az idő."
+          },
+          {
+            "name": "Hala Targowa w Gdyni",
+            "tip": "Vásárcsarnok friss termékekkel és helyi specialitásokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "CH Riviera",
+            "tip": "Unul dintre cele mai mari centre comerciale din Pomerania, în caz de vreme rea."
+          },
+          {
+            "name": "Hala Targowa w Gdyni",
+            "tip": "O hală de piață cu produse proaspete și specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "CH Riviera",
+            "tip": "One of the largest shopping centres in Pomerania, in case of bad weather."
+          },
+          {
+            "name": "Hala Targowa w Gdyni",
+            "tip": "A market hall with fresh produce and local specialities."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie Park-and-Ride-Möglichkeiten, um das Stadtzentrum zu meiden.",
+          "Parkgebühren sind in Gdynia, besonders im Zentrum, üblich.",
+          "Planen Sie zusätzliche Zeit für den Verkehr in der Hochsaison ein.",
+          "Das Auto gibt Ihnen die Flexibilität, auch abgelegenere Orte wie die Klippen von Babie Doły zu besuchen."
+        ],
+        "hu": [
+          "Használja a Park and Ride lehetőségeket a belváros elkerülésére.",
+          "A parkolási díjak Gdyniában, különösen a központban, általánosak.",
+          "Tervezzen plusz időt a főszezoni forgalomra.",
+          "Az autó rugalmasságot ad, hogy távolabbi helyeket is meglátogasson, mint például a Babie Doły sziklák."
+        ],
+        "ro": [
+          "Utilizați facilitățile Park and Ride pentru a evita centrul orașului.",
+          "Taxele de parcare sunt obișnuite în Gdynia, în special în centru.",
+          "Planificați timp suplimentar pentru trafic în timpul sezonului de vârf.",
+          "Mașina vă oferă flexibilitatea de a vizita locuri mai îndepărtate, cum ar fi stâncile din Babie Doły."
+        ],
+        "en": [
+          "Use Park and Ride facilities to avoid the city centre.",
+          "Parking fees are common in Gdynia, especially in the centre.",
+          "Allow extra time for traffic during the high season.",
+          "The car gives you the flexibility to visit more remote places like the Babie Doły cliffs."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:41",
+      "total_km": 11.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrt zum Auswanderungsmuseum",
+            "hu": "Utazás a Kivándorlási Múzeumhoz",
+            "ro": "Călătorie la Muzeul Emigrației",
+            "en": "Trip to the Emigration Museum"
+          },
+          "coords": [
+            18.538,
+            54.53
+          ],
+          "category": "museums",
+          "arrive_at": "09:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Mehrere Buslinien halten in der Nähe des Museums am Hafen.",
+            "hu": "Több buszjárat is megáll a múzeum közelében a kikötőnél.",
+            "ro": "Mai multe linii de autobuz opresc lângă muzeul din port.",
+            "en": "Several bus lines stop near the museum at the harbour."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Kościuszko-Platz",
+            "hu": "Utazás a Kościuszko térre",
+            "ro": "Călătorie la Piața Kościuszko",
+            "en": "Trip to Kościuszko Square"
+          },
+          "coords": [
+            18.546,
+            54.518
+          ],
+          "category": "journey",
+          "arrive_at": "11:28",
+          "stay_min": 0,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Fahren Sie zurück ins Zentrum, um den nächsten Teil zu Fuß zu erkunden.",
+            "hu": "Utazzon vissza a központba, hogy gyalog fedezze fel a következő részt.",
+            "ro": "Întoarceți-vă în centru pentru a explora următoarea parte pe jos.",
+            "en": "Travel back to the centre to explore the next part on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Museumsschiff Dar Pomorza & Aquarium",
+            "hu": "Dar Pomorza múzeumhajó és Akvárium",
+            "ro": "Nava-muzeu Dar Pomorza și Acvariul",
+            "en": "Dar Pomorza Museum Ship & Aquarium"
+          },
+          "coords": [
+            18.55,
+            54.519
+          ],
+          "category": "museums",
+          "arrive_at": "11:34",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden Attraktionen liegen direkt nebeneinander.",
+            "hu": "Ez a két látnivaló közvetlenül egymás mellett található.",
+            "ro": "Aceste două atracții sunt situate chiar una lângă cealaltă.",
+            "en": "These two attractions are located right next to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen & Spaziergang zum Kamienna Góra",
+            "hu": "Ebéd és séta a Kamienna Górára",
+            "ro": "Prânz și plimbare la Kamienna Góra",
+            "en": "Lunch & walk to Kamienna Góra"
+          },
+          "coords": [
+            18.544,
+            54.513
+          ],
+          "category": "gastro",
+          "arrive_at": "13:42",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Stärken Sie sich, bevor Sie den Hügel für die Aussicht erklimmen.",
+            "hu": "Erősítsen, mielőtt megmássza a dombot a kilátásért.",
+            "ro": "Întăriți-vă înainte de a urca pe deal pentru priveliște.",
+            "en": "Fortify yourself before climbing the hill for the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt nach Orłowo (SKM-Zug)",
+            "hu": "Utazás Orłowóba (SKM vonat)",
+            "ro": "Călătorie la Orłowo (tren SKM)",
+            "en": "Trip to Orłowo (SKM train)"
+          },
+          "coords": [
+            18.547,
+            54.486
+          ],
+          "category": "journey",
+          "arrive_at": "15:47",
+          "stay_min": 0,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der SKM-Nahverkehrszug ist der schnellste Weg nach Orłowo.",
+            "hu": "Az SKM elővárosi vonat a leggyorsabb út Orłowóba.",
+            "ro": "Trenul suburban SKM este cel mai rapid mod de a ajunge la Orłowo.",
+            "en": "The SKM commuter train is the fastest way to get to Orłowo."
+          }
+        },
+        {
+          "name": {
+            "de": "Seebrücke Orłowo & Klippen",
+            "hu": "Orłowo móló és sziklák",
+            "ro": "Debarcaderul și stâncile din Orłowo",
+            "en": "Orłowo Pier & Cliffs"
+          },
+          "coords": [
+            18.548,
+            54.485
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:57",
+          "stay_min": 134,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verbringen Sie den Rest des Nachmittags an diesem wunderschönen Ort.",
+            "hu": "Töltse a délután hátralévő részét ezen a gyönyörű helyen.",
+            "ro": "Petreceți restul după-amiezii în acest loc frumos.",
+            "en": "Spend the rest of the afternoon in this beautiful spot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Gdynias effiziente öffentliche Verkehrsmittel. Beginnen Sie mit einer Busfahrt zum Auswanderungsmuseum. Kehren Sie ins Zentrum zurück, um das maritime Cluster zu Fuß zu erkunden: Dar Pomorza, das Aquarium und ein Mittagessen am Hafen. Nach dem Aufstieg zum Kamienna Góra nehmen Sie den schnellen SKM-Zug nach Orłowo. Verbringen Sie den Nachmittag damit, die berühmte Seebrücke und die dramatischen Klippen zu bewundern, bevor Sie bequem ins Zentrum zurückkehren.",
+        "hu": "Használja ki Gdynia hatékony tömegközlekedését. Kezdje egy buszúttal a Kivándorlási Múzeumhoz. Térjen vissza a központba, hogy gyalogosan fedezze fel a tengeri klasztert: a Dar Pomorza, az Akvárium és egy kikötői ebéd. A Kamienna Góra megmászása után szálljon fel a gyors SKM vonatra Orłowóba. Töltse a délutánt a híres móló és a drámai sziklák csodálásával, mielőtt kényelmesen visszatérne a központba.",
+        "ro": "Profitați de transportul public eficient din Gdynia. Începeți cu o călătorie cu autobuzul la Muzeul Emigrației. Întoarceți-vă în centru pentru a explora pe jos clusterul maritim: Dar Pomorza, Acvariul și un prânz în port. După urcarea pe Kamienna Góra, luați trenul rapid SKM spre Orłowo. Petreceți după-amiaza admirând faimosul debarcader și stâncile dramatice înainte de a vă întoarce confortabil în centru.",
+        "en": "Take advantage of Gdynia's efficient public transport. Start with a bus trip to the Emigration Museum. Return to the centre to explore the maritime cluster on foot: Dar Pomorza, the Aquarium, and a harbour lunch. After climbing Kamienna Góra, take the fast SKM train to Orłowo. Spend the afternoon admiring the famous pier and dramatic cliffs before returning comfortably to the centre."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bar Mleczny Słoneczny",
+            "tip": "Eine authentische Milchbar für ein günstiges und traditionelles polnisches Mittagessen."
+          },
+          {
+            "name": "Pączek u Jędrusia",
+            "tip": "Holen Sie sich einen warmen, gefüllten Donut (Pączek) als schnellen Snack."
+          },
+          {
+            "name": "Śledź u Ewy",
+            "tip": "Ein kleiner Laden, der auf Hering in verschiedenen Saucen spezialisiert ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bar Mleczny Słoneczny",
+            "tip": "Autentikus tejbár egy olcsó és hagyományos lengyel ebédhez."
+          },
+          {
+            "name": "Pączek u Jędrusia",
+            "tip": "Vegyen egy meleg, töltött fánkot (pączek) gyors harapnivalóként."
+          },
+          {
+            "name": "Śledź u Ewy",
+            "tip": "Kis bolt, amely különböző szószokban kapható heringre specializálódott."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bar Mleczny Słoneczny",
+            "tip": "Un bar de lapte autentic pentru un prânz polonez ieftin și tradițional."
+          },
+          {
+            "name": "Pączek u Jędrusia",
+            "tip": "Luați o gogoașă caldă și umplută (pączek) ca o gustare rapidă."
+          },
+          {
+            "name": "Śledź u Ewy",
+            "tip": "Un mic magazin specializat în hering în diverse sosuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bar Mleczny Słoneczny",
+            "tip": "An authentic milk bar for a cheap and traditional Polish lunch."
+          },
+          {
+            "name": "Pączek u Jędrusia",
+            "tip": "Grab a warm, filled doughnut (pączek) for a quick snack."
+          },
+          {
+            "name": "Śledź u Ewy",
+            "tip": "A small shop specialising in herring in various sauces."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bank auf dem Kamienna Góra",
+            "tip": "Finden Sie eine ruhige Bank abseits des Hauptaussichtspunkts.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Strand in Orłowo",
+            "tip": "Gehen Sie ein Stück vom Pier weg, um einen ruhigeren Abschnitt zu finden.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Skwer Arki Gdynia",
+            "tip": "Ein kleiner Park, der dem örtlichen Fußballverein gewidmet ist.",
+            "emoji": "⚽"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pad a Kamienna Górán",
+            "tip": "Keressen egy csendes padot a fő kilátóponttól távolabb.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Strand Orłowóban",
+            "tip": "Sétáljon egy kicsit távolabb a mólótól, hogy egy csendesebb szakaszt találjon.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Skwer Arki Gdynia",
+            "tip": "Kis park a helyi futballklubnak szentelve.",
+            "emoji": "⚽"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bancă pe Kamienna Góra",
+            "tip": "Găsiți o bancă liniștită departe de punctul principal de belvedere.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plaja din Orłowo",
+            "tip": "Mergeți puțin mai departe de debarcader pentru a găsi o secțiune mai liniștită.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Skwer Arki Gdynia",
+            "tip": "Un mic parc dedicat clubului local de fotbal.",
+            "emoji": "⚽"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bench on Kamienna Góra",
+            "tip": "Find a quiet bench away from the main viewpoint.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Beach in Orłowo",
+            "tip": "Walk a bit away from the pier to find a quieter section.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Skwer Arki Gdynia",
+            "tip": "A small park dedicated to the local football club.",
+            "emoji": "⚽"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Batory Shopping Centre",
+            "tip": "Ein Einkaufszentrum in der Nähe des Bahnhofs für Last-Minute-Einkäufe."
+          },
+          {
+            "name": "Souvenirstände am Kościuszko-Platz",
+            "tip": "Kaufen Sie Postkarten und kleine Geschenke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Batory Bevásárlóközpont",
+            "tip": "Bevásárlóközpont az állomás közelében az utolsó pillanatos vásárlásokhoz."
+          },
+          {
+            "name": "Ajándékboltok a Kościuszko téren",
+            "tip": "Vásároljon képeslapokat és apró ajándékokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Batory",
+            "tip": "Un centru comercial lângă gară pentru cumpărături de ultim moment."
+          },
+          {
+            "name": "Standuri de suveniruri în Piața Kościuszko",
+            "tip": "Cumpărați vederi și mici cadouri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Batory Shopping Centre",
+            "tip": "A shopping centre near the train station for last-minute purchases."
+          },
+          {
+            "name": "Souvenir stalls at Kościuszko Square",
+            "tip": "Buy postcards and small gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Die App 'jakdojade' ist unerlässlich für die Planung von Routen.",
+          "SKM-Züge und Trolleybusse sind die wichtigsten Verkehrsmittel.",
+          "Validieren Sie Ihr Ticket sofort nach dem Einsteigen, um eine Strafe zu vermeiden."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "A 'jakdojade' alkalmazás elengedhetetlen az útvonaltervezéshez.",
+          "Az SKM vonatok és a trolibuszok a fő közlekedési eszközök.",
+          "A büntetés elkerülése érdekében beszállás után azonnal érvényesítse a jegyét."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Aplicația 'jakdojade' este esențială pentru planificarea rutelor.",
+          "Trenurile SKM și troleibuzele sunt principalele mijloace de transport.",
+          "Validați biletul imediat după urcare pentru a evita o amendă."
+        ],
+        "en": [
+          "Buy a daily ticket for unlimited travel.",
+          "The 'jakdojade' app is essential for planning routes.",
+          "SKM trains and trolleybuses are the main modes of transport.",
+          "Validate your ticket immediately after boarding to avoid a fine."
+        ]
+      }
+    }
+  }
+}

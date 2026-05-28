@@ -1,0 +1,1317 @@
+{
+  "city_id": "netherlands-almelo-cities-v2",
+  "anchor": {
+    "name": "Almelo",
+    "coords": [
+      52.355,
+      6.662
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Grote Kerk",
+            "hu": "Nagy Templom",
+            "ro": "Grote Kerk (Biserica Mare)",
+            "en": "Grote Kerk (Great Church)"
+          },
+          "coords": [
+            6.663,
+            52.356
+          ],
+          "category": "churches",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beachten Sie die imposante Orgel und die kunstvollen Glasfenster.",
+            "hu": "Figyelje meg a lenyűgöző orgonát és a díszes ólomüveg ablakokat.",
+            "ro": "Observați orga impunătoare și vitraliile artistice.",
+            "en": "Note the impressive organ and the ornate stained-glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadsmuseum Almelo",
+            "hu": "Almelo Városi Múzeum",
+            "ro": "Muzeul Orașului Almelo",
+            "en": "City Museum Almelo"
+          },
+          "coords": [
+            6.661,
+            52.357
+          ],
+          "category": "museums",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Ausstellung zur Textilgeschichte der Stadt.",
+            "hu": "Fókuszáljon a város textilipari történetét bemutató kiállításra.",
+            "ro": "Concentrați-vă pe expoziția despre istoria textilă a orașului.",
+            "en": "Focus on the exhibition about the city's textile history."
+          }
+        },
+        {
+          "name": {
+            "de": "Doopsgezinde Kerk",
+            "hu": "Mennonita templom",
+            "ro": "Biserica Menonită",
+            "en": "Mennonite Church"
+          },
+          "coords": [
+            6.66,
+            52.355
+          ],
+          "category": "churches",
+          "arrive_at": "11:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein Ort der Stille und schlichten Schönheit, ideal für eine kurze Pause.",
+            "hu": "A csend és az egyszerű szépség helye, ideális egy rövid pihenőre.",
+            "ro": "Un loc de liniște și frumusețe simplă, ideal pentru o scurtă pauză.",
+            "en": "A place of silence and simple beauty, ideal for a short break."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the City Center"
+          },
+          "coords": [
+            6.6625,
+            52.3545
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Probieren Sie ein 'Broodje' in einem der Cafés am Koornmarkt.",
+            "hu": "Kóstoljon meg egy 'Broodje'-t a Koornmarkt egyik kávézójában.",
+            "ro": "Încercați un 'Broodje' la una dintre cafenelele de pe Koornmarkt.",
+            "en": "Try a 'Broodje' at one of the cafes on the Koornmarkt."
+          }
+        },
+        {
+          "name": {
+            "de": "Beeklustpark",
+            "hu": "Beeklustpark",
+            "ro": "Parcul Beeklust",
+            "en": "Beeklust Park"
+          },
+          "coords": [
+            6.675,
+            52.362
+          ],
+          "category": "parks",
+          "arrive_at": "14:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 3.7,
+          "tip_5lang": {
+            "de": "Spazieren Sie zum Teehaus für eine Erfrischung inmitten der Natur.",
+            "hu": "Sétáljon el a teaházhoz egy frissítőre a természet közepén.",
+            "ro": "Plimbați-vă până la ceainărie pentru o gustare în mijlocul naturii.",
+            "en": "Stroll to the teahouse for a refreshment surrounded by nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Almelo bei der Grote Kerk, einem Symbol der Stadt. Nach einem tiefen Einblick in die lokale Geschichte im Stadsmuseum, genießen Sie ein entspanntes Mittagessen. Der Nachmittag ist einem langen, erholsamen Spaziergang durch den wunderschönen Beeklustpark gewidmet, wo Sie die Ruhe und die Natur genießen können. Der Tag endet mit einem Gefühl der Gelassenheit nach der Erkundung der grünen Lunge der Stadt.",
+        "hu": "Kezdje a napot Almelo szívében, a város jelképének számító Grote Kerknél. Miután a Városi Múzeumban elmélyedt a helyi történelemben, fogyasszon el egy kellemes ebédet. A délutánt egy hosszú, pihentető séta tölti ki a gyönyörű Beeklustparkban, ahol élvezheti a csendet és a természetet. A nap a város zöld tüdejének felfedezése utáni nyugalom érzésével zárul.",
+        "ro": "Începeți ziua în inima orașului Almelo la Grote Kerk, un simbol al orașului. După o incursiune profundă în istoria locală la Muzeul Orașului, bucurați-vă de un prânz relaxant. După-amiaza este dedicată unei plimbări lungi și odihnitoare prin frumosul parc Beeklust, unde vă puteți bucura de liniște și natură. Ziua se încheie cu un sentiment de seninătate după explorarea plămânului verde al orașului.",
+        "en": "Start your day in the heart of Almelo at the Grote Kerk, a symbol of the city. After a deep dive into local history at the City Museum, enjoy a relaxing lunch. The afternoon is dedicated to a long, restful walk through the beautiful Beeklust Park, where you can enjoy the peace and nature. The day ends with a feeling of serenity after exploring the city's green lung."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pannenkoeken",
+            "tip": "Probieren Sie herzhafte oder süße holländische Pfannkuchen in einem lokalen Restaurant."
+          },
+          {
+            "name": "Almelo's Koekoek",
+            "tip": "Ein lokaler Kräuterlikör, den man als Digestif probieren sollte."
+          },
+          {
+            "name": "Hering",
+            "tip": "Wenn Sie zur richtigen Jahreszeit hier sind, probieren Sie den 'Hollandse Nieuwe' von einem Fischstand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pannenkoeken",
+            "tip": "Kóstoljon meg sós vagy édes holland palacsintát egy helyi étteremben."
+          },
+          {
+            "name": "Almelo's Koekoek",
+            "tip": "Helyi gyógynövénylikőr, érdemes kipróbálni emésztéssegítőként."
+          },
+          {
+            "name": "Hering",
+            "tip": "Ha a megfelelő évszakban jár itt, kóstolja meg a 'Hollandse Nieuwe'-t egy halárusnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pannenkoeken",
+            "tip": "Încercați clătite olandeze sărate sau dulci la un restaurant local."
+          },
+          {
+            "name": "Almelo's Koekoek",
+            "tip": "Un lichior local din plante, de încercat ca digestiv."
+          },
+          {
+            "name": "Hering",
+            "tip": "Dacă sunteți aici în sezonul potrivit, încercați 'Hollandse Nieuwe' de la o tarabă de pește."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pannenkoeken",
+            "tip": "Try savory or sweet Dutch pancakes at a local restaurant."
+          },
+          {
+            "name": "Almelo's Koekoek",
+            "tip": "A local herbal liqueur, worth trying as a digestive."
+          },
+          {
+            "name": "Herring",
+            "tip": "If you're here in the right season, try the 'Hollandse Nieuwe' from a fish stall."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Almelose Aa",
+            "tip": "Finden Sie eine ruhige Bank am kleinen Fluss, der durch die Stadt fließt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Leseecke im Beeklustpark",
+            "tip": "Suchen Sie sich einen abgelegenen Platz im Park, ideal zum Lesen oder Entspannen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hof der Doopsgezinde Kerk",
+            "tip": "Der kleine Innenhof der Kirche ist eine Oase der Ruhe im Stadtzentrum.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az Almelose Aa partja",
+            "tip": "Találjon egy csendes padot a városon átfolyó kis folyó partján.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Olvasósarok a Beeklustparkban",
+            "tip": "Keressen egy félreeső helyet a parkban, ideális olvasáshoz vagy pihenéshez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A mennonita templom udvara",
+            "tip": "A templom kis belső udvara a nyugalom oázisa a városközpontban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Almelose Aa",
+            "tip": "Găsiți o bancă liniștită lângă micul râu care traversează orașul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Colț de lectură în Parcul Beeklust",
+            "tip": "Găsiți un loc retras în parc, ideal pentru citit sau relaxare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea Bisericii Menonită",
+            "tip": "Mica curte a bisericii este o oază de pace în centrul orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Almelose Aa",
+            "tip": "Find a quiet bench by the small river that flows through the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Reading corner in Beeklust Park",
+            "tip": "Find a secluded spot in the park, ideal for reading or relaxing.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Courtyard of the Mennonite Church",
+            "tip": "The small church courtyard is an oasis of peace in the city center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Besuchen Sie am Donnerstag oder Samstag den Markt für lokale Produkte und Käse."
+          },
+          {
+            "name": "De Grotestraat",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus bekannten Marken und lokalen Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Látogasson el a piacra csütörtökön vagy szombaton helyi termékekért és sajtokért."
+          },
+          {
+            "name": "De Grotestraat",
+            "tip": "A fő bevásárlóutca, ahol ismert márkák és helyi butikok keverednek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Vizitați piața de joi sau sâmbătă pentru produse locale și brânzeturi."
+          },
+          {
+            "name": "De Grotestraat",
+            "tip": "Strada principală de cumpărături cu un amestec de mărci cunoscute și buticuri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Visit the market on Thursday or Saturday for local produce and cheese."
+          },
+          {
+            "name": "De Grotestraat",
+            "tip": "The main shopping street with a mix of well-known brands and local boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da der Spaziergang zum Park recht lang ist.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit.",
+          "Prüfen Sie die Öffnungszeiten des Museums im Voraus online.",
+          "Ein Regenschirm ist in den Niederlanden immer eine gute Idee, auch wenn die Sonne scheint."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a séta a parkig meglehetősen hosszú.",
+          "Hozzon magával újratölthető vizes palackot.",
+          "Ellenőrizze a múzeum nyitvatartási idejét előre online.",
+          "Egy esernyő mindig jó ötlet Hollandiában, még akkor is, ha süt a nap."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece plimbarea până la parc este destul de lungă.",
+          "Luați cu dumneavoastră o sticlă de apă reutilizabilă.",
+          "Verificați online în avans orele de deschidere ale muzeului.",
+          "O umbrelă este întotdeauna o idee bună în Olanda, chiar și atunci când soarele strălucește."
+        ],
+        "en": [
+          "Wear comfortable shoes, as the walk to the park is quite long.",
+          "Bring a reusable water bottle.",
+          "Check the museum's opening hours online in advance.",
+          "An umbrella is always a good idea in the Netherlands, even when the sun is shining."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Indiëterrein",
+            "hu": "Indiëterrein (ipari terület)",
+            "ro": "Indiëterrein (zona industrială)",
+            "en": "Indiëterrein (Industrial Area)"
+          },
+          "coords": [
+            6.65,
+            52.35
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Umnutzung alter Fabrikgebäude in moderne Lofts und Büros.",
+            "hu": "Csodálja meg a régi gyárépületek modern loftokká és irodákká alakítását.",
+            "ro": "Admirați reconversia clădirilor vechi de fabrică în lofturi și birouri moderne.",
+            "en": "Admire the conversion of old factory buildings into modern lofts and offices."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadsmuseum Almelo",
+            "hu": "Almelo Városi Múzeum",
+            "ro": "Muzeul Orașului Almelo",
+            "en": "City Museum Almelo"
+          },
+          "coords": [
+            6.661,
+            52.357
+          ],
+          "category": "museums",
+          "arrive_at": "10:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Eine großartige Einführung in die Vergangenheit von Almelo als Textilzentrum.",
+            "hu": "Nagyszerű bevezetés Almelo textilipari központként betöltött múltjába.",
+            "ro": "O introducere excelentă în trecutul orașului Almelo ca centru textil.",
+            "en": "A great introduction to Almelo's past as a textile hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Grote Kerk",
+            "hu": "Nagy Templom",
+            "ro": "Grote Kerk (Biserica Mare)",
+            "en": "Grote Kerk (Great Church)"
+          },
+          "coords": [
+            6.663,
+            52.356
+          ],
+          "category": "churches",
+          "arrive_at": "11:45",
+          "stay_min": 35,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit, um die Ruhe im Inneren zu genießen.",
+            "hu": "Szánjon egy percet a belső nyugalom élvezetére.",
+            "ro": "Luați-vă un moment pentru a vă bucura de liniștea din interior.",
+            "en": "Take a moment to enjoy the tranquility inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagspause",
+            "hu": "Ebédszünet",
+            "ro": "Pauza de prânz",
+            "en": "Lunch Break"
+          },
+          "coords": [
+            6.664,
+            52.355
+          ],
+          "category": "gastro",
+          "arrive_at": "12:25",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie ein Mittagessen mit Blick auf das Treiben in der Innenstadt.",
+            "hu": "Ebédeljen a nyüzsgő belvárosra néző kilátással.",
+            "ro": "Bucurați-vă de prânz cu vedere la agitația din centrul orașului.",
+            "en": "Enjoy lunch with a view of the downtown bustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Huis Almelo",
+            "hu": "Huis Almelo (kastély)",
+            "ro": "Castelul Huis Almelo",
+            "en": "Huis Almelo (Almelo House)"
+          },
+          "coords": [
+            6.668,
+            52.365
+          ],
+          "category": "castles",
+          "arrive_at": "14:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Das Schloss ist in Privatbesitz, aber die umliegenden Gärten sind oft zugänglich und wunderschön.",
+            "hu": "A kastély magántulajdonban van, de a környező kertek gyakran látogathatók és gyönyörűek.",
+            "ro": "Castelul este proprietate privată, dar grădinile înconjurătoare sunt adesea accesibile și frumoase.",
+            "en": "The castle is privately owned, but the surrounding gardens are often accessible and beautiful."
+          }
+        },
+        {
+          "name": {
+            "de": "Beeklustpark",
+            "hu": "Beeklustpark",
+            "ro": "Parcul Beeklust",
+            "en": "Beeklust Park"
+          },
+          "coords": [
+            6.675,
+            52.362
+          ],
+          "category": "parks",
+          "arrive_at": "15:15",
+          "stay_min": 65,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Perfekt für die letzte Pause des Tages, bevor Sie zurück ins Zentrum radeln.",
+            "hu": "Tökéletes a nap utolsó pihenőjére, mielőtt visszatekerne a központba.",
+            "ro": "Perfect pentru ultima pauză a zilei înainte de a pedala înapoi în centru.",
+            "en": "Perfect for the last break of the day before cycling back to the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und entdecken Sie die Kontraste von Almelo, vom industriellen Erbe des Indiëterreins bis zur historischen Pracht der Innenstadt. Nach dem Mittagessen führt Sie die Tour nach Norden zum stattlichen Huis Almelo und dem angrenzenden Beeklustpark. Es ist eine Reise durch Zeit und Natur, die die vielfältigen Facetten der Stadt zeigt. Die Radtour endet entspannt im Grünen, bevor es zurück zum Ausgangspunkt geht.",
+        "hu": "Pattanjon kerékpárra, és fedezze fel Almelo kontrasztjait, az Indiëterrein ipari örökségétől a belváros történelmi pompájáig. Ebéd után az út északra vezet a fenséges Huis Almelohoz és a szomszédos Beeklustparkhoz. Ez egy utazás az időben és a természetben, amely bemutatja a város sokszínű arcát. A kerékpártúra a zöldben ér véget, mielőtt visszatérne a kiindulópontra.",
+        "ro": "Urcați-vă pe bicicletă și descoperiți contrastele orașului Almelo, de la moștenirea industrială din Indiëterrein la splendoarea istorică a centrului orașului. După prânz, turul vă duce spre nord, la impunătorul Huis Almelo și la parcul adiacent Beeklust. Este o călătorie prin timp și natură, care dezvăluie multiplele fațete ale orașului. Turul cu bicicleta se încheie relaxant în zona verde înainte de a vă întoarce la punctul de plecare.",
+        "en": "Get on your bike and discover the contrasts of Almelo, from the industrial heritage of Indiëterrein to the historic splendor of the city center. After lunch, the tour takes you north to the stately Huis Almelo and the adjacent Beeklust Park. It's a journey through time and nature, showcasing the city's diverse facets. The bike tour ends with a relaxing time in the green before heading back to the starting point."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Stroopwafel",
+            "tip": "Kaufen Sie eine frische, warme Stroopwafel auf dem Markt."
+          },
+          {
+            "name": "Kibbeling",
+            "tip": "Gebratene Fischstücke, ein perfekter Snack für unterwegs."
+          },
+          {
+            "name": "Tompouce",
+            "tip": "Ein klassisches holländisches Gebäck, das Sie in einer Bäckerei finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stroopwafel",
+            "tip": "Vegyél egy friss, meleg stroopwafelt a piacon."
+          },
+          {
+            "name": "Kibbeling",
+            "tip": "Sült haldarabkák, tökéletes útközbeni snack."
+          },
+          {
+            "name": "Tompouce",
+            "tip": "Klasszikus holland sütemény, amelyet egy pékségben talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stroopwafel",
+            "tip": "Cumpărați un stroopwafel proaspăt și cald de la piață."
+          },
+          {
+            "name": "Kibbeling",
+            "tip": "Bucăți de pește prăjit, o gustare perfectă pentru drum."
+          },
+          {
+            "name": "Tompouce",
+            "tip": "O prăjitură olandeză clasică pe care o puteți găsi la o patiserie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stroopwafel",
+            "tip": "Buy a fresh, warm stroopwafel from the market."
+          },
+          {
+            "name": "Kibbeling",
+            "tip": "Fried chunks of fish, a perfect snack on the go."
+          },
+          {
+            "name": "Tompouce",
+            "tip": "A classic Dutch pastry you can find at a bakery."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten von Huis Almelo",
+            "tip": "Selbst wenn das Schloss geschlossen ist, bieten die Gärten eine herrschaftliche Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kanalufer",
+            "tip": "Finden Sie einen ruhigen Ort entlang eines der Kanäle, um die Boote zu beobachten.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Friedhof neben der Grote Kerk",
+            "tip": "Ein überraschend friedlicher Ort voller Geschichte mitten in der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Huis Almelo kertjei",
+            "tip": "Még ha a kastély zárva is van, a kertek fejedelmi nyugalmat árasztanak.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Csatornapart",
+            "tip": "Keressen egy csendes helyet az egyik csatorna mentén, és nézze a hajókat.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Grote Kerk melletti temető",
+            "tip": "Meglepően békés, történelemmel teli hely a város közepén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Huis Almelo",
+            "tip": "Chiar dacă castelul este închis, grădinile oferă o liniște impunătoare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul canalului",
+            "tip": "Găsiți un loc liniștit de-a lungul unuia dintre canale pentru a privi bărcile.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cimitirul de lângă Grote Kerk",
+            "tip": "Un loc surprinzător de pașnic, plin de istorie, în mijlocul orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gardens of Huis Almelo",
+            "tip": "Even if the castle is closed, the gardens offer a stately peace.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Canal bank",
+            "tip": "Find a quiet spot along one of the canals to watch the boats.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cemetery next to Grote Kerk",
+            "tip": "A surprisingly peaceful place full of history in the middle of the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Käsereien",
+            "tip": "Suchen Sie nach Geschäften, die Käse von Bauernhöfen aus der Region Twente verkaufen."
+          },
+          {
+            "name": "Einrichtungsläden",
+            "tip": "Entdecken Sie kleine Läden mit niederländischem Design in den Seitenstraßen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi sajtkészítők",
+            "tip": "Keressen olyan üzleteket, amelyek a Twente régió farmjairól származó sajtot árulnak."
+          },
+          {
+            "name": "Lakberendezési üzletek",
+            "tip": "Fedezze fel a holland dizájnt kínáló kis üzleteket a mellékutcákban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Producători locali de brânză",
+            "tip": "Căutați magazine care vând brânză de la fermele din regiunea Twente."
+          },
+          {
+            "name": "Magazine de design interior",
+            "tip": "Descoperiți mici magazine cu design olandez pe străzile lăturalnice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local cheese shops",
+            "tip": "Look for shops selling cheese from farms in the Twente region."
+          },
+          {
+            "name": "Interior design shops",
+            "tip": "Discover small shops with Dutch design in the side streets."
+          }
+        ]
+      },
+      "tips": [
+        "Mieten Sie ein Fahrrad mit Gängen, da Sie einige Kilometer zurücklegen werden.",
+        "Schließen Sie Ihr Fahrrad immer an, auch wenn Sie es nur für ein paar Minuten abstellen.",
+        "Nutzen Sie die gut ausgebauten Radwege der Stadt.",
+        "Eine Fahrradkarte oder eine Navigations-App ist hilfreich, um die Route zu finden."
+      ]
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 9.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum & Grote Kerk",
+            "hu": "Parkoló a központban és a Nagy Templom",
+            "ro": "Parcare Centru & Grote Kerk",
+            "en": "Parking City Center & Grote Kerk"
+          },
+          "coords": [
+            6.6635,
+            52.3565
+          ],
+          "category": "churches",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag im spirituellen Herzen der Stadt, nachdem Sie geparkt haben.",
+            "hu": "Parkolás után kezdje a napot a város spirituális szívében.",
+            "ro": "După ce ați parcat, începeți ziua în inima spirituală a orașului.",
+            "en": "After parking, start your day in the spiritual heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadsmuseum Almelo",
+            "hu": "Almelo Városi Múzeum",
+            "ro": "Muzeul Orașului Almelo",
+            "en": "City Museum Almelo"
+          },
+          "coords": [
+            6.661,
+            52.357
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Kirche entfernt, tauchen Sie in die Textilgeschichte ein.",
+            "hu": "A templomtól egy rövid sétára merüljön el a textilipar történetében.",
+            "ro": "La o scurtă plimbare de biserică, pătrundeți în istoria textilelor.",
+            "en": "A short walk from the church, dive into the textile history."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the Center"
+          },
+          "coords": [
+            6.662,
+            52.355
+          ],
+          "category": "gastro",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Stärken Sie sich, bevor Sie zurück zum Auto gehen und zum nächsten Cluster fahren.",
+            "hu": "Erősítsen, mielőtt visszamegy az autóhoz és a következő helyszíncsoporthoz hajt.",
+            "ro": "Luați o masă copioasă înainte de a vă întoarce la mașină și a merge la următorul grup de obiective.",
+            "en": "Recharge before walking back to the car for the next cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Huis Almelo & Beeklustpark",
+            "hu": "Huis Almelo és Beeklustpark",
+            "ro": "Huis Almelo și Parcul Beeklust",
+            "en": "Huis Almelo & Beeklust Park"
+          },
+          "coords": [
+            6.67,
+            52.364
+          ],
+          "category": "castles",
+          "arrive_at": "13:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie sowohl das Schlossgelände als auch den angrenzenden Park zu Fuß.",
+            "hu": "Parkoljon le itt, és fedezze fel gyalog a kastély területét és a szomszédos parkot.",
+            "ro": "Parcați aici și explorați atât domeniul castelului, cât și parcul adiacent pe jos.",
+            "en": "Park here and explore both the castle grounds and the adjacent park on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang im Beeklustpark",
+            "hu": "Séta a Beeklustparkban",
+            "ro": "Plimbare în Parcul Beeklust",
+            "en": "Walk in Beeklust Park"
+          },
+          "coords": [
+            6.675,
+            52.362
+          ],
+          "category": "parks",
+          "arrive_at": "15:15",
+          "stay_min": 0,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dies ist Teil Ihres Spaziergangs, genießen Sie die Teiche und alten Bäume.",
+            "hu": "Ez a séta része, élvezze a tavakat és az öreg fákat.",
+            "ro": "Aceasta este parte a plimbării dumneavoastră; bucurați-vă de iazuri și de copacii bătrâni.",
+            "en": "This is part of your walk; enjoy the ponds and ancient trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Indiëterrein",
+            "hu": "Indiëterrein",
+            "ro": "Indiëterrein",
+            "en": "Indiëterrein"
+          },
+          "coords": [
+            6.65,
+            52.35
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:00",
+          "stay_min": 65,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Blick auf die Transformation des industriellen Erbes von Almelo.",
+            "hu": "Fejezze be a napot Almelo ipari örökségének átalakulásának megtekintésével.",
+            "ro": "Încheiați ziua aruncând o privire la transformarea moștenirii industriale a orașului Almelo.",
+            "en": "End the day with a look at the transformation of Almelo's industrial heritage."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Almelo ist in drei Teile gegliedert. Am Morgen erkunden Sie zu Fuß das historische Zentrum mit der Grote Kerk und dem Museum. Nach dem Mittagessen fahren Sie zum grünen Cluster im Norden, wo das Huis Almelo und der Beeklustpark auf Sie warten. Der Tag schließt mit einem Besuch des Indiëterreins, einem Zeugnis der industriellen Vergangenheit und Zukunft der Stadt. Diese Tour kombiniert Kultur, Natur und Geschichte auf effiziente Weise.",
+        "hu": "Autós napja Almelóban három részre oszlik. Délelőtt gyalogosan fedezi fel a történelmi központot a Grote Kerkkel és a múzeummal. Ebéd után az északi zöld oázishoz hajt, ahol a Huis Almelo és a Beeklustpark várja. A napot az Indiëterrein meglátogatásával zárja, amely a város ipari múltjának és jövőjének tanúja. Ez a túra hatékonyan ötvözi a kultúrát, a természetet és a történelmet.",
+        "ro": "Ziua dumneavoastră cu mașina în Almelo este împărțită în trei părți. Dimineața explorați pe jos centrul istoric, cu Grote Kerk și muzeul. După prânz, conduceți spre grupul de obiective verzi din nord, unde vă așteaptă Huis Almelo și Parcul Beeklust. Ziua se încheie cu o vizită la Indiëterrein, o mărturie a trecutului și viitorului industrial al orașului. Acest tur combină în mod eficient cultura, natura și istoria.",
+        "en": "Your car day in Almelo is divided into three parts. In the morning, you'll explore the historic center on foot, with the Grote Kerk and the museum. After lunch, you drive to the green cluster in the north, where Huis Almelo and Beeklust Park await. The day concludes with a visit to Indiëterrein, a testament to the city's industrial past and future. This tour efficiently combines culture, nature, and history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Twentse Krentenwegge",
+            "tip": "Ein süßes Rosinenbrot aus der Region, perfekt zum Kaffee."
+          },
+          {
+            "name": "Balkenbrij",
+            "tip": "Eine traditionelle, herzhafte Spezialität, die oft im Winter gegessen wird. Fragen Sie in einer Metzgerei danach."
+          },
+          {
+            "name": "Restaurant im Theaterhotel",
+            "tip": "Für ein gehobeneres Abendessen mit lokaler Note."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Twentse Krentenwegge",
+            "tip": "Édes, mazsolás kenyér a régióból, tökéletes kávé mellé."
+          },
+          {
+            "name": "Balkenbrij",
+            "tip": "Hagyományos, kiadós specialitás, amelyet gyakran télen fogyasztanak. Érdeklődjön egy hentesnél."
+          },
+          {
+            "name": "Étterem a Theaterhotelben",
+            "tip": "Egy elegánsabb vacsorához helyi ízekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Twentse Krentenwegge",
+            "tip": "O pâine dulce cu stafide din regiune, perfectă cu cafea."
+          },
+          {
+            "name": "Balkenbrij",
+            "tip": "O specialitate tradițională, consistentă, consumată adesea iarna. Întrebați la o măcelărie."
+          },
+          {
+            "name": "Restaurant la Theaterhotel",
+            "tip": "Pentru o cină mai elegantă, cu o notă locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Twentse Krentenwegge",
+            "tip": "A sweet raisin bread from the region, perfect with coffee."
+          },
+          {
+            "name": "Balkenbrij",
+            "tip": "A traditional, savory specialty often eaten in winter. Ask for it at a butcher shop."
+          },
+          {
+            "name": "Restaurant at the Theaterhotel",
+            "tip": "For a more upscale dinner with a local touch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Englischer Garten im Beeklustpark",
+            "tip": "Ein besonders ruhiger und malerischer Teil des Parks.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Almelose Aa",
+            "tip": "Fahren Sie ein kurzes Stück entlang des Flusses und finden Sie einen Ort zum Anhalten.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Abendstimmung am Kanal",
+            "tip": "Parken Sie Ihr Auto und genießen Sie den Sonnenuntergang über dem Wasser.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Angol kert a Beeklustparkban",
+            "tip": "A park különösen csendes és festői része.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Almelose Aa",
+            "tip": "Hajtson egy rövid szakaszon a folyó mentén, és keressen egy megállóhelyet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Esti hangulat a csatornánál",
+            "tip": "Parkolja le az autót, és élvezze a naplementét a víz felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina engleză din Parcul Beeklust",
+            "tip": "O parte deosebit de liniștită și pitorească a parcului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Almelose Aa",
+            "tip": "Conduceți o scurtă distanță de-a lungul râului și găsiți un loc unde să opriți.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Atmosfera de seară pe canal",
+            "tip": "Parcați mașina și bucurați-vă de apusul de soare peste apă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "English Garden in Beeklust Park",
+            "tip": "A particularly quiet and picturesque part of the park.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Almelose Aa",
+            "tip": "Drive a short distance along the river and find a place to stop.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Evening atmosphere by the canal",
+            "tip": "Park your car and enjoy the sunset over the water.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden außerhalb der Stadt",
+            "tip": "Nutzen Sie das Auto, um einen Hofladen in der Umgebung für frische, lokale Produkte zu besuchen."
+          },
+          {
+            "name": "Woonboulevard Almelo",
+            "tip": "Ein Bereich mit großen Möbel- und Einrichtungsgeschäften, wenn Sie daran interessiert sind."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Farmboltok a városon kívül",
+            "tip": "Használja az autót, hogy meglátogasson egy közeli farmboltot friss, helyi termékekért."
+          },
+          {
+            "name": "Woonboulevard Almelo",
+            "tip": "Nagy bútor- és lakberendezési üzletekkel teli terület, ha érdekli."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele fermelor din afara orașului",
+            "tip": "Folosiți mașina pentru a vizita un magazin de fermă din zonă pentru produse proaspete, locale."
+          },
+          {
+            "name": "Woonboulevard Almelo",
+            "tip": "O zonă cu magazine mari de mobilă și decorațiuni interioare, dacă sunteți interesat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops outside the city",
+            "tip": "Use the car to visit a farm shop in the area for fresh, local produce."
+          },
+          {
+            "name": "Woonboulevard Almelo",
+            "tip": "An area with large furniture and home decor stores, if you are interested."
+          }
+        ]
+      },
+      "tips": [
+        "Nutzen Sie Park-and-Ride-Möglichkeiten, wenn verfügbar.",
+        "Achten Sie auf die blauen Zonen, in denen Sie eine Parkscheibe benötigen.",
+        "Ein GPS ist unerlässlich, um zwischen den Clustern zu navigieren.",
+        "Planen Sie zusätzliche Zeit für den Verkehr ein, besonders am späten Nachmittag."
+      ]
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft Zentrum & Grote Kerk",
+            "hu": "Érkezés a központba és a Nagy Templom",
+            "ro": "Sosire în Centru & Grote Kerk",
+            "en": "Arrival City Center & Grote Kerk"
+          },
+          "coords": [
+            6.663,
+            52.356
+          ],
+          "category": "churches",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie nach der Ankunft mit dem Bus direkt im historischen Kern.",
+            "hu": "A busszal való érkezés után kezdjen közvetlenül a történelmi magban.",
+            "ro": "După sosirea cu autobuzul, începeți direct în nucleul istoric.",
+            "en": "After arriving by bus, start directly in the historic core."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadsmuseum Almelo",
+            "hu": "Almelo Városi Múzeum",
+            "ro": "Muzeul Orașului Almelo",
+            "en": "City Museum Almelo"
+          },
+          "coords": [
+            6.661,
+            52.357
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die Geschichte der Stadt, bevor Sie zu Mittag essen.",
+            "hu": "Fedezze fel a város történetét ebéd előtt.",
+            "ro": "Explorați istoria orașului înainte de a lua prânzul.",
+            "en": "Explore the city's history before having lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            6.662,
+            52.355
+          ],
+          "category": "gastro",
+          "arrive_at": "11:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie eine Mahlzeit, bevor Sie den Bus zum nächsten Ziel nehmen.",
+            "hu": "Élvezzen egy ebédet, mielőtt buszra szállna a következő úti célhoz.",
+            "ro": "Bucurați-vă de o masă înainte de a lua autobuzul spre următoarea destinație.",
+            "en": "Enjoy a meal before taking the bus to the next destination."
+          }
+        },
+        {
+          "name": {
+            "de": "Beeklustpark",
+            "hu": "Beeklustpark",
+            "ro": "Parcul Beeklust",
+            "en": "Beeklust Park"
+          },
+          "coords": [
+            6.675,
+            52.362
+          ],
+          "category": "parks",
+          "arrive_at": "13:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus nach Norden und genießen Sie einen langen Spaziergang im Park.",
+            "hu": "Szálljon fel egy észak felé tartó buszra, és tegyen egy hosszú sétát a parkban.",
+            "ro": "Luați un autobuz spre nord și bucurați-vă de o plimbare lungă în parc.",
+            "en": "Take a bus north and enjoy a long walk in the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Indiëterrein",
+            "hu": "Indiëterrein",
+            "ro": "Indiëterrein",
+            "en": "Indiëterrein"
+          },
+          "coords": [
+            6.65,
+            52.35
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus quer durch die Stadt, um das moderne, umgestaltete Industriegebiet zu sehen.",
+            "hu": "Szálljon buszra a városon keresztül, hogy megnézze a modern, átalakított ipari területet.",
+            "ro": "Luați un autobuz prin oraș pentru a vedea zona industrială modernă și transformată.",
+            "en": "Take a bus across town to see the modern, transformed industrial area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln erkunden Sie Almelo in Etappen. Der Morgen gehört dem historischen Zentrum, das leicht zu Fuß erreichbar ist. Nach dem Mittagessen bringt Sie ein Bus in die grüne Oase des Beeklustparks. Zum Abschluss des Tages durchqueren Sie die Stadt, um das faszinierende Indiëterrein zu besichtigen. Diese Tour zeigt, wie einfach es ist, die verschiedenen Gesichter von Almelo mit dem Bus zu entdecken.",
+        "hu": "Tömegközlekedéssel szakaszosan fedezheti fel Almelót. A délelőtt a történelmi központé, amely gyalogosan is könnyen megközelíthető. Ebéd után egy busz viszi a Beeklustpark zöld oázisába. A nap végén átszeli a várost, hogy megnézze a lenyűgöző Indiëterreint. Ez a túra bemutatja, milyen egyszerű busszal felfedezni Almelo különböző arcait.",
+        "ro": "Cu transportul public, explorați Almelo în etape. Dimineața este dedicată centrului istoric, ușor de explorat pe jos. După prânz, un autobuz vă duce la oaza de verdeață a Parcului Beeklust. La finalul zilei, traversați orașul pentru a vizita fascinantul Indiëterrein. Acest tur arată cât de ușor este să descoperiți diferitele fațete ale orașului Almelo cu autobuzul.",
+        "en": "Using public transport, you'll explore Almelo in stages. The morning belongs to the historic center, easily accessible on foot. After lunch, a bus takes you to the green oasis of Beeklust Park. To end the day, you'll cross the city to visit the fascinating Indiëterrein. This tour shows how easy it is to discover the different faces of Almelo by bus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Friet Speciaal",
+            "tip": "Holländische Pommes mit Mayonnaise, Curry-Ketchup und Zwiebeln – ein Klassiker."
+          },
+          {
+            "name": "Koffie Verkeerd",
+            "tip": "Ein niederländischer Milchkaffee, perfekt für eine Pause zwischen den Busfahrten."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Fragen Sie in einer Bar nach Bieren aus der Region Twente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Friet Speciaal",
+            "tip": "Holland sült krumpli majonézzel, curry ketchuppal és hagymával - egy klasszikus."
+          },
+          {
+            "name": "Koffie Verkeerd",
+            "tip": "Holland tejeskávé, tökéletes egy szünetre a buszozások között."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Kérjen egy bárban a Twente régióból származó söröket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Friet Speciaal",
+            "tip": "Cartofi prăjiți olandezi cu maioneză, ketchup curry și ceapă - un clasic."
+          },
+          {
+            "name": "Koffie Verkeerd",
+            "tip": "O cafea cu lapte olandeză, perfectă pentru o pauză între călătoriile cu autobuzul."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "Întrebați la un bar despre berile din regiunea Twente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Friet Speciaal",
+            "tip": "Dutch fries with mayonnaise, curry ketchup, and onions—a classic."
+          },
+          {
+            "name": "Koffie Verkeerd",
+            "tip": "A Dutch café au lait, perfect for a break between bus rides."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Ask for beers from the Twente region at a bar."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obere Etage des Busses",
+            "tip": "Wenn es einen Doppeldeckerbus gibt, genießen Sie die Aussicht und die relative Ruhe oben.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Eine Bank am Rande des Beeklustparks",
+            "tip": "Gehen Sie etwas weiter vom Haupteingang weg, um mehr Ruhe zu finden.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Warten an einer ruhigen Haltestelle",
+            "tip": "Manchmal sind die Momente des Wartens auf den nächsten Bus die friedlichsten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A busz emelete",
+            "tip": "Ha emeletes busz van, élvezze a kilátást és a viszonylagos csendet fent.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Egy pad a Beeklustpark szélén",
+            "tip": "Menjen kicsit távolabb a főbejárattól, hogy nagyobb nyugalmat találjon.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Várakozás egy csendes megállóban",
+            "tip": "Néha a következő buszra való várakozás pillanatai a legbékésebbek.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etajul superior al autobuzului",
+            "tip": "Dacă există un autobuz cu etaj, bucurați-vă de priveliște și de liniștea relativă de sus.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "O bancă la marginea parcului Beeklust",
+            "tip": "Mergeți puțin mai departe de intrarea principală pentru a găsi mai multă liniște.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Așteptând într-o stație liniștită",
+            "tip": "Uneori, momentele de așteptare pentru următorul autobuz sunt cele mai pașnice.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Upper deck of the bus",
+            "tip": "If there's a double-decker bus, enjoy the view and the relative quiet upstairs.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "A bench on the edge of Beeklust Park",
+            "tip": "Walk a bit further from the main entrance to find more tranquility.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Waiting at a quiet bus stop",
+            "tip": "Sometimes the moments waiting for the next bus are the most peaceful.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Nähe des Bahnhofs",
+            "tip": "Rund um den Bahnhof gibt es oft praktische Geschäfte für Snacks und Souvenirs."
+          },
+          {
+            "name": "Markttag",
+            "tip": "Planen Sie Ihre Reise so, dass sie mit dem Markttag zusammenfällt, um ein authentisches Erlebnis zu haben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok a vasútállomás közelében",
+            "tip": "A vasútállomás környékén gyakran találni praktikus üzleteket rágcsálnivalókért és ajándéktárgyakért."
+          },
+          {
+            "name": "Piacnap",
+            "tip": "Tervezze utazását úgy, hogy egybeessen a piacnappal egy autentikus élményért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine lângă gară",
+            "tip": "În jurul gării există adesea magazine convenabile pentru gustări și suveniruri."
+          },
+          {
+            "name": "Ziua de piață",
+            "tip": "Planificați-vă călătoria astfel încât să coincidă cu ziua de piață pentru o experiență autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops near the train station",
+            "tip": "Around the train station, there are often convenient shops for snacks and souvenirs."
+          },
+          {
+            "name": "Market Day",
+            "tip": "Plan your trip to coincide with market day for an authentic experience."
+          }
+        ]
+      },
+      "tips": [
+        "Kaufen Sie eine OV-chipkaart oder eine Tageskarte für unbegrenzte Fahrten.",
+        "Verwenden Sie eine App wie 9292, um Ihre Busfahrten in Echtzeit zu planen.",
+        "Beachten Sie die letzte Busverbindung zurück zu Ihrem Ausgangspunkt.",
+        "Geben Sie dem Fahrer ein Zeichen, wenn Sie möchten, dass der Bus anhält."
+      ]
+    }
+  }
+}

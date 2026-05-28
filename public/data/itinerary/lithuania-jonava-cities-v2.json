@@ -1,0 +1,1004 @@
+{
+  "city_id": "lithuania-jonava-cities-v2",
+  "anchor": {
+    "name": "Jonava",
+    "coords": [
+      55.0833,
+      24.2833
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtplatz von Jonava",
+            "hu": "Jonava Főtere",
+            "ro": "Piața orașului Jonava",
+            "en": "Jonava Town Square"
+          },
+          "coords": [
+            24.2765,
+            55.0743
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Kaffee in einem der Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér valamelyik kávézójában.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
+            "en": "Start your day with a coffee at one of the square's cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Jakobus der Apostel",
+            "hu": "Szent Jakab apostol-templom",
+            "ro": "Biserica Sf. Iacob Apostolul",
+            "en": "Church of St. James the Apostle"
+          },
+          "coords": [
+            24.2788,
+            55.0731
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beachten Sie die neugotischen Details und die ruhige Atmosphäre.",
+            "hu": "Figyelje meg a neogótikus részleteket és a csendes légkört.",
+            "ro": "Observați detaliile neogotice și atmosfera liniștită.",
+            "en": "Note the neo-Gothic details and the quiet atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Jonava-Museum",
+            "hu": "Jonavai Múzeum",
+            "ro": "Muzeul Jonava",
+            "en": "Jonava Museum"
+          },
+          "coords": [
+            24.2811,
+            55.0759
+          ],
+          "category": "museums",
+          "arrive_at": "10:31",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Ausstellungen zur lokalen Industriegeschichte.",
+            "hu": "Fókuszáljon a helyi ipartörténeti kiállításokra.",
+            "ro": "Concentrați-vă pe expozițiile despre istoria industrială locală.",
+            "en": "Focus on the exhibits about local industrial history."
+          }
+        },
+        {
+          "name": {
+            "de": "Jonava-Brücke",
+            "hu": "Jonavai híd",
+            "ro": "Podul Jonava",
+            "en": "Jonava Bridge"
+          },
+          "coords": [
+            24.2701,
+            55.0718
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:31",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Ein toller Ort für Fotos vom Fluss Neris.",
+            "hu": "Nagyszerű hely a Neris folyóról készült fotókhoz.",
+            "ro": "Un loc excelent pentru fotografii cu râul Neris.",
+            "en": "A great spot for photos of the Neris river."
+          }
+        },
+        {
+          "name": {
+            "de": "Joninės-Tal",
+            "hu": "Joninės-völgy",
+            "ro": "Valea Joninės",
+            "en": "Joninės Valley"
+          },
+          "coords": [
+            24.2655,
+            55.0705
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:36",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Perfekt für ein Picknick oder einfach nur zum Entspannen am Flussufer.",
+            "hu": "Tökéletes egy piknikhez vagy csak pihenéshez a folyóparton.",
+            "ro": "Perfect pentru un picnic sau doar pentru a vă relaxa pe malul râului.",
+            "en": "Perfect for a picnic or just relaxing by the riverbank."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Jonava auf dem Stadtplatz, bevor Sie die architektonische Schönheit der St.-Jakobus-Kirche bewundern. Am Vormittag tauchen Sie im Jonava-Museum in die lokale Geschichte ein. Nach dem Mittagessen überqueren Sie die Jonava-Brücke für eine malerische Aussicht. Schließen Sie den Tag mit einem entspannten Spaziergang und vielleicht einem Picknick im weitläufigen Joninės-Tal ab, einem beliebten Ort bei Einheimischen.",
+        "hu": "Kezdje a napot Jonava szívében, a Főtéren, majd csodálja meg a Szent Jakab-templom építészeti szépségét. Délelőtt merüljön el a helyi történelemben a Jonavai Múzeumban. Ebéd után keljen át a Jonavai hídon a festői kilátásért. Zárja a napot egy pihentető sétával és talán egy piknikkel a tágas Joninės-völgyben, a helyiek kedvelt helyén.",
+        "ro": "Începeți ziua în inima orașului Jonava, în Piața Orașului, înainte de a admira frumusețea arhitecturală a Bisericii Sf. Iacob. Dimineața, aprofundați istoria locală la Muzeul Jonava. După prânz, traversați Podul Jonava pentru o priveliște pitorească. Încheiați ziua cu o plimbare relaxantă și poate un picnic în spațioasa Vale Joninės, un loc popular printre localnici.",
+        "en": "Start your day in the heart of Jonava at the Town Square before admiring the architectural beauty of St. James's Church. In the morning, delve into local history at the Jonava Museum. After lunch, cross the Jonava Bridge for a scenic view. Conclude the day with a relaxing walk and perhaps a picnic in the expansive Joninės Valley, a popular spot for locals."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cepelinai",
+            "tip": "Litauische Kartoffelknödel, oft gefüllt mit Fleisch oder Käse. Suchen Sie nach einem 'kavinė' (Café/Bistro)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cepelinai",
+            "tip": "Litván burgonyagombóc, gyakran hússal vagy túróval töltve. Keressen egy 'kavinė'-t (kávézó/bisztró)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cepelinai",
+            "tip": "Găluște lituaniene din cartofi, adesea umplute cu carne sau brânză. Căutați o 'kavinė' (cafenea/bistro)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cepelinai",
+            "tip": "Lithuanian potato dumplings, often filled with meat or cheese. Look for a 'kavinė' (cafe/bistro)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Neris im Joninės-Tal",
+            "tip": "Finden Sie eine ruhige Bank und beobachten Sie den Fluss.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Neris partja a Joninės-völgyben",
+            "tip": "Keressen egy csendes padot, és nézze a folyót.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Neris în Valea Joninės",
+            "tip": "Găsiți o bancă liniștită și priviți râul.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bank of the Neris in Joninės Valley",
+            "tip": "Find a quiet bench and watch the river flow.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach handgefertigten Leinenprodukten und lokalem Honig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen kézzel készített lenvászon termékeket és helyi mézet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse artizanale din in și miere locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for handcrafted linen products and local honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das meiste zu Fuß erkundet wird.",
+          "Prüfen Sie die Öffnungszeiten des Museums im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a legtöbb hely gyalogosan fedezhető fel.",
+          "Ellenőrizze előre a múzeum nyitvatartási idejét."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece majoritatea explorării se face pe jos.",
+          "Verificați în avans programul de funcționare al muzeului."
+        ],
+        "en": [
+          "Wear comfortable shoes as most of the exploring is on foot.",
+          "Check the museum's opening hours in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtplatz von Jonava",
+            "hu": "Jonava Főtere",
+            "ro": "Piața orașului Jonava",
+            "en": "Jonava Town Square"
+          },
+          "coords": [
+            24.2765,
+            55.0743
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Leihen Sie sich ein Fahrrad in der Nähe oder bringen Sie Ihr eigenes mit.",
+            "hu": "Béreljen kerékpárt a közelben, vagy hozza a sajátját.",
+            "ro": "Închiriați o bicicletă din apropiere sau aduceți-vă propria.",
+            "en": "Rent a bike nearby or bring your own."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Jakobus der Apostel",
+            "hu": "Szent Jakab apostol-templom",
+            "ro": "Biserica Sf. Iacob Apostolul",
+            "en": "Church of St. James the Apostle"
+          },
+          "coords": [
+            24.2788,
+            55.0731
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:32",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie die Kirche betreten.",
+            "hu": "Zárja le biztonságosan a kerékpárt, mielőtt belép a templomba.",
+            "ro": "Asigurați-vă bicicleta înainte de a intra în biserică.",
+            "en": "Lock your bike securely before entering the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Jonava-Museum",
+            "hu": "Jonavai Múzeum",
+            "ro": "Muzeul Jonava",
+            "en": "Jonava Museum"
+          },
+          "coords": [
+            24.2811,
+            55.0759
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Planen Sie genug Zeit für Ihren Besuch ein; es gibt viel zu sehen.",
+            "hu": "Szánjon elegendő időt a látogatásra; sok a látnivaló.",
+            "ro": "Planificați suficient timp pentru vizită; sunt multe de văzut.",
+            "en": "Plan enough time for your visit; there's a lot to see."
+          }
+        },
+        {
+          "name": {
+            "de": "Jonava-Brücke",
+            "hu": "Jonavai híd",
+            "ro": "Podul Jonava",
+            "en": "Jonava Bridge"
+          },
+          "coords": [
+            24.2701,
+            55.0718
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:43",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Fahren Sie über die Brücke, um die Aussicht von beiden Seiten zu genießen.",
+            "hu": "Menjen át a hídon, hogy mindkét oldalról élvezze a kilátást.",
+            "ro": "Traversați podul pentru a vă bucura de priveliștea de pe ambele maluri.",
+            "en": "Cycle across the bridge to enjoy views from both sides."
+          }
+        },
+        {
+          "name": {
+            "de": "Joninės-Tal",
+            "hu": "Joninės-völgy",
+            "ro": "Valea Joninės",
+            "en": "Joninės Valley"
+          },
+          "coords": [
+            24.2655,
+            55.0705
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:09",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Es gibt Radwege durch das Tal, ideal für eine gemütliche Fahrt.",
+            "hu": "A völgyön kerékpárutak vezetnek keresztül, ideálisak egy kellemes tekeréshez.",
+            "ro": "Există piste de biciclete prin vale, ideale pentru o plimbare relaxantă.",
+            "en": "There are bike paths through the valley, ideal for a leisurely ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Rimkai-Aussichtspunkt",
+            "hu": "Rimkai kilátópont",
+            "ro": "Punctul de observare Rimkai",
+            "en": "Rimkai Viewpoint"
+          },
+          "coords": [
+            24.258,
+            55.105
+          ],
+          "category": "natural features",
+          "arrive_at": "14:51",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 97,
+          "hop_from_prev_km": 9.4,
+          "tip_5lang": {
+            "de": "Die Fahrt bergauf lohnt sich für den Panoramablick über die Stadt.",
+            "hu": "Az emelkedő megéri a városra nyíló panorámás kilátásért.",
+            "ro": "Urcușul merită pentru vederea panoramică asupra orașului.",
+            "en": "The uphill ride is worth it for the panoramic view of the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und starten Sie am Stadtplatz. Die Route führt Sie zur St.-Jakobus-Kirche und zum Museum. Am Mittag radeln Sie über die Jonava-Brücke ins Joninės-Tal für eine wohlverdiente Pause. Der Nachmittag ist für eine längere Tour zum Rimkai-Aussichtspunkt reserviert, der Sie mit einer atemberaubenden Aussicht belohnt, bevor Sie gemütlich in die Stadt zurückkehren.",
+        "hu": "Pattanjon kerékpárra és induljon a Főtérről. Az útvonal elvezeti a Szent Jakab-templomhoz és a múzeumhoz. Délben tekerjen át a Jonavai hídon a Joninės-völgybe egy jól megérdemelt pihenőre. A délután egy hosszabb túrára van fenntartva a Rimkai kilátóponthoz, amely lélegzetelállító kilátással jutalmazza, mielőtt kényelmesen visszatér a városba.",
+        "ro": "Urcați-vă pe bicicletă și porniți din Piața Orașului. Traseul vă duce la Biserica Sf. Iacob și la muzeu. La prânz, pedalați peste Podul Jonava în Valea Joninės pentru o pauză binemeritată. După-amiaza este rezervată pentru un tur mai lung la Punctul de Observare Rimkai, care vă recompensează cu o priveliște uluitoare înainte de a vă întoarce în oraș.",
+        "en": "Hop on your bike and start from the Town Square. The route takes you to St. James's Church and the museum. At noon, cycle across the Jonava Bridge into the Joninės Valley for a well-deserved break. The afternoon is reserved for a longer tour to the Rimkai Viewpoint, which rewards you with a breathtaking view before you leisurely return to the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Šaltibarščiai",
+            "tip": "Eine erfrischende kalte Rote-Bete-Suppe, perfekt nach einer Radtour im Sommer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Šaltibarščiai",
+            "tip": "Frissítő hideg céklaleves, tökéletes egy nyári biciklitúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Šaltibarščiai",
+            "tip": "O supă rece răcoritoare de sfeclă roșie, perfectă după o plimbare cu bicicleta vara."
+          }
+        ],
+        "en": [
+          {
+            "name": "Šaltibarščiai",
+            "tip": "A refreshing cold beetroot soup, perfect after a summer bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rimkai-Aussichtspunkt",
+            "tip": "Genießen Sie die Stille und den weiten Blick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rimkai kilátópont",
+            "tip": "Élvezze a csendet és a tágas kilátást.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punctul de observare Rimkai",
+            "tip": "Bucurați-vă de liniște și de priveliștea largă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rimkai Viewpoint",
+            "tip": "Enjoy the silence and the wide view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradladen",
+            "tip": "Für Zubehör oder schnelle Reparaturen, falls nötig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Kiegészítőkért vagy szükség esetén gyors javításokért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Pentru accesorii sau reparații rapide, dacă este necesar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "For accessories or quick repairs if needed."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck vor der Abfahrt.",
+          "Nehmen Sie ausreichend Wasser mit, besonders für die Fahrt zum Aussichtspunkt."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Vigyen magával elegendő vizet, különösen a kilátóponthoz vezető útra."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de a pleca.",
+          "Luați suficientă apă, mai ales pentru drumul spre punctul de observare."
+        ],
+        "en": [
+          "Check your tire pressure before setting off.",
+          "Bring plenty of water, especially for the ride to the viewpoint."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 28.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Stadtzentrum Jonava",
+            "hu": "A klaszter: Jonava városközpont",
+            "ro": "Cluster A: Centrul orașului Jonava",
+            "en": "Cluster A: Jonava City Center"
+          },
+          "coords": [
+            24.2765,
+            55.0743
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto in der Nähe des Stadtplatzes für den ersten Teil der Tour.",
+            "hu": "Parkolja le az autót a Főtér közelében a túra első részére.",
+            "ro": "Parcați mașina lângă Piața Orașului pentru prima parte a turului.",
+            "en": "Park your car near the Town Square for the first part of the tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Jakobus der Apostel",
+            "hu": "Szent Jakab apostol-templom",
+            "ro": "Biserica Sf. Iacob Apostolul",
+            "en": "Church of St. James the Apostle"
+          },
+          "coords": [
+            24.2788,
+            55.0731
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz.",
+            "hu": "Egy rövid séta a főtértől.",
+            "ro": "O scurtă plimbare de la piața principală.",
+            "en": "A short walk from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Jonava-Museum",
+            "hu": "Jonavai Múzeum",
+            "ro": "Muzeul Jonava",
+            "en": "Jonava Museum"
+          },
+          "coords": [
+            24.2811,
+            55.0759
+          ],
+          "category": "museums",
+          "arrive_at": "10:29",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Alles zu Fuß im zentralen Cluster erreichbar.",
+            "hu": "Minden gyalogosan elérhető a központi klaszterben.",
+            "ro": "Totul este accesibil pe jos în clusterul central.",
+            "en": "Everything is within walking distance in the central cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Skaruliai",
+            "hu": "B klaszter: Skaruliai",
+            "ro": "Cluster B: Skaruliai",
+            "en": "Cluster B: Skaruliai"
+          },
+          "coords": [
+            24.318,
+            55.058
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:15",
+          "stay_min": 75,
+          "hop_mode": "car",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Dorf Skaruliai, um die historische St.-Anna-Kirche zu sehen.",
+            "hu": "Vezessen el Skaruliai faluba, hogy megnézze a történelmi Szent Anna-templomot.",
+            "ro": "Conduceți spre satul Skaruliai pentru a vedea biserica istorică Sf. Ana.",
+            "en": "Drive to the village of Skaruliai to see the historic St. Anne's Church."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Aussicht und Natur",
+            "hu": "C klaszter: Kilátás és természet",
+            "ro": "Cluster C: Priveliște și natură",
+            "en": "Cluster C: Viewpoint and Nature"
+          },
+          "coords": [
+            24.258,
+            55.105
+          ],
+          "category": "natural features",
+          "arrive_at": "14:15",
+          "stay_min": 25,
+          "hop_mode": "car",
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 21.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Rimkai-Aussichtspunkt für eine weite Aussicht.",
+            "hu": "Vezessen a Rimkai kilátóponthoz a széles panorámáért.",
+            "ro": "Conduceți la punctul de observare Rimkai pentru o priveliște largă.",
+            "en": "Drive to the Rimkai viewpoint for a wide view."
+          }
+        },
+        {
+          "name": {
+            "de": "Joninės-Tal",
+            "hu": "Joninės-völgy",
+            "ro": "Valea Joninės",
+            "en": "Joninės Valley"
+          },
+          "coords": [
+            24.2655,
+            55.0705
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:55",
+          "stay_min": 85,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und spazieren Sie durch das Tal zum Abschluss des Tages.",
+            "hu": "Parkoljon a közelben, és sétáljon végig a völgyön a nap lezárásaként.",
+            "ro": "Parcați în apropiere și plimbați-vă prin vale pentru a încheia ziua.",
+            "en": "Park nearby and take a walk through the valley to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt im Zentrum von Jonava, wo Sie den Platz, die Kirche und das Museum zu Fuß erkunden. Am späten Vormittag fahren Sie zur historischen St.-Anna-Kirche in Skaruliai. Nach dem Mittagessen geht es weiter zum Rimkai-Aussichtspunkt für einen Panoramablick. Der Tag endet mit einem entspannten Spaziergang im Joninės-Tal, nachdem Sie in der Nähe geparkt haben.",
+        "hu": "Autós napja Jonava központjában kezdődik, ahol gyalogosan fedezi fel a teret, a templomot és a múzeumot. Késő délelőtt a skaruliai történelmi Szent Anna-templomhoz vezet az útja. Ebéd után irány a Rimkai kilátó, ahonnan panorámás kilátás nyílik. A nap egy pihentető sétával zárul a Joninės-völgyben, miután a közelben parkolt.",
+        "ro": "Ziua dvs. cu mașina începe în centrul orașului Jonava, unde explorați pe jos piața, biserica și muzeul. Spre sfârșitul dimineții, conduceți la biserica istorică Sf. Ana din Skaruliai. După prânz, continuați spre punctul de observare Rimkai pentru o vedere panoramică. Ziua se încheie cu o plimbare relaxantă în Valea Joninės, după ce ați parcat în apropiere.",
+        "en": "Your car day starts in the center of Jonava, where you'll explore the square, church, and museum on foot. In the late morning, you drive to the historic St. Anne's Church in Skaruliai. After lunch, you continue to the Rimkai viewpoint for a panoramic view. The day ends with a relaxing walk in the Joninės Valley after parking nearby."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kibinai",
+            "tip": "Teigtaschen, oft mit Lammfleisch gefüllt. Ein guter Snack für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kibinai",
+            "tip": "Tésztatáskák, gyakran bárányhússal töltve. Jó úti snack."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kibinai",
+            "tip": "Plăcinte umplute, adesea cu carne de miel. O gustare bună pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kibinai",
+            "tip": "Pastries often filled with lamb. A good snack for the road."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "St. Anna Kirche in Skaruliai",
+            "tip": "Ein Ort der Ruhe und Geschichte abseits des städtischen Trubels.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Anna-templom Skaruliaiban",
+            "tip": "A nyugalom és a történelem helye a városi nyüzsgéstől távol.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica Sf. Ana din Skaruliai",
+            "tip": "Un loc de liniște și istorie, departe de agitația orașului.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Anne's Church in Skaruliai",
+            "tip": "A place of peace and history away from the city bustle.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden außerhalb der Stadt",
+            "tip": "Halten Sie Ausschau nach Schildern für frische Produkte oder geräucherten Fisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok a városon kívül",
+            "tip": "Figyelje a friss termékeket vagy füstölt halat hirdető táblákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de la ferme în afara orașului",
+            "tip": "Fiți atenți la indicatoarele pentru produse proaspete sau pește afumat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops outside the city",
+            "tip": "Look for signs advertising fresh produce or smoked fish."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie eine Navigations-App, um zwischen den Clustern zu navigieren.",
+          "Achten Sie auf Parkgebühren im Stadtzentrum."
+        ],
+        "hu": [
+          "Használjon navigációs alkalmazást a klaszterek közötti navigáláshoz.",
+          "Figyeljen a parkolási díjakra a városközpontban."
+        ],
+        "ro": [
+          "Utilizați o aplicație de navigație pentru a naviga între clustere.",
+          "Fiți atenți la taxele de parcare din centrul orașului."
+        ],
+        "en": [
+          "Use a navigation app to navigate between clusters.",
+          "Be aware of parking fees in the city center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Stadtzentrum",
+            "hu": "A klaszter: Városközpont",
+            "ro": "Cluster A: Centrul orașului",
+            "en": "Cluster A: City Center"
+          },
+          "coords": [
+            24.2765,
+            55.0743
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie an einer zentralen Bushaltestelle in der Nähe des Stadtplatzes.",
+            "hu": "Induljon egy központi buszmegállóból a Főtér közelében.",
+            "ro": "Începeți de la o stație de autobuz centrală, aproape de Piața Orașului.",
+            "en": "Start at a central bus stop near the Town Square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Jakobus der Apostel",
+            "hu": "Szent Jakab apostol-templom",
+            "ro": "Biserica Sf. Iacob Apostolul",
+            "en": "Church of St. James the Apostle"
+          },
+          "coords": [
+            24.2788,
+            55.0731
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Vom Platz aus leicht zu Fuß erreichbar.",
+            "hu": "A térről gyalogosan is könnyen elérhető.",
+            "ro": "Ușor de accesat pe jos din piață.",
+            "en": "Easily walkable from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Museum und Fluss",
+            "hu": "B klaszter: Múzeum és folyó",
+            "ro": "Cluster B: Muzeu și râu",
+            "en": "Cluster B: Museum and River"
+          },
+          "coords": [
+            24.2811,
+            55.0759
+          ],
+          "category": "museums",
+          "arrive_at": "10:46",
+          "stay_min": 100,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zur Haltestelle in der Nähe des Museums.",
+            "hu": "Menjen busszal a múzeumhoz közeli megállóig.",
+            "ro": "Luați un autobuz până la stația de lângă muzeu.",
+            "en": "Take a bus to the stop near the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Jonava-Brücke",
+            "hu": "Jonavai híd",
+            "ro": "Podul Jonava",
+            "en": "Jonava Bridge"
+          },
+          "coords": [
+            24.2701,
+            55.0718
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:34",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum zur Brücke.",
+            "hu": "Rövid séta a múzeumtól a hídig.",
+            "ro": "O scurtă plimbare de la muzeu la pod.",
+            "en": "A short walk from the museum to the bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Entspannung im Tal",
+            "hu": "C klaszter: Pihenés a völgyben",
+            "ro": "Cluster C: Relaxare în vale",
+            "en": "Cluster C: Relaxation in the Valley"
+          },
+          "coords": [
+            24.2655,
+            55.0705
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 31,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus, der in der Nähe des Joninės-Tals hält, um den Nachmittag zu verbringen.",
+            "hu": "Menjen busszal, amely a Joninės-völgy közelében áll meg, hogy ott töltse a délutánt.",
+            "ro": "Luați un autobuz care oprește lângă Valea Joninės pentru a petrece după-amiaza.",
+            "en": "Take a bus that stops near Joninės Valley to spend the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erkunden Sie Jonava in Clustern. Beginnen Sie im Zentrum mit dem Stadtplatz und der Kirche. Eine kurze Busfahrt bringt Sie zum Museumsviertel, wo Sie auch die Brücke zu Fuß erreichen. Der Nachmittag gehört ganz der Entspannung im Joninės-Tal, das ebenfalls mit dem Bus erreichbar ist. Ein effizienter Weg, die Highlights der Stadt zu erleben.",
+        "hu": "Tömegközlekedéssel klaszterekben fedezheti fel Jonavát. Kezdje a központban a Főtérrel és a templommal. Egy rövid buszút elviszi a múzeumi negyedbe, ahonnan a hidat is elérheti gyalog. A délután a pihenésé a Joninės-völgyben, amely szintén busszal közelíthető meg. Hatékony módja a város nevezetességeinek megismerésének.",
+        "ro": "Explorați Jonava în clustere folosind transportul public. Începeți în centru cu Piața Orașului și biserica. O scurtă călătorie cu autobuzul vă duce în cartierul muzeelor, de unde puteți ajunge și la pod pe jos. După-amiaza este dedicată relaxării în Valea Joninės, accesibilă tot cu autobuzul. O modalitate eficientă de a experimenta punctele de atracție ale orașului.",
+        "en": "Explore Jonava in clusters using public transport. Start in the center with the Town Square and the church. A short bus ride takes you to the museum district, where you can also reach the bridge on foot. The afternoon is dedicated to relaxation in the Joninės Valley, also accessible by bus. An efficient way to experience the city's highlights."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Balandėliai",
+            "tip": "Kohlrouladen, ein herzhaftes und traditionelles litauisches Gericht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Balandėliai",
+            "tip": "Töltött káposzta, egy kiadós és hagyományos litván étel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Balandėliai",
+            "tip": "Sarmale în foi de varză, un fel de mâncare consistent și tradițional lituanian."
+          }
+        ],
+        "en": [
+          {
+            "name": "Balandėliai",
+            "tip": "Cabbage rolls, a hearty and traditional Lithuanian dish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Bank im Joninės-Tal",
+            "tip": "Der perfekte Ort, um nach einem Tag voller Erkundungen zur Ruhe zu kommen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy pad a Joninės-völgyben",
+            "tip": "Tökéletes hely a megnyugvásra egy felfedezéssel teli nap után.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă în Valea Joninės",
+            "tip": "Locul perfect pentru a vă relaxa după o zi de explorare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench in Joninės Valley",
+            "tip": "The perfect spot to unwind after a day of exploring.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk an einer Bushaltestelle",
+            "tip": "Kaufen Sie Tickets und vielleicht einen lokalen Snack für die Fahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk egy buszmegállóban",
+            "tip": "Vásároljon jegyet és esetleg egy helyi snacket az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la o stație de autobuz",
+            "tip": "Cumpărați bilete și poate o gustare locală pentru călătorie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at a bus stop",
+            "tip": "Buy tickets and maybe a local snack for the ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Informieren Sie sich im Voraus über die Busfahrpläne, um Wartezeiten zu minimieren."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy pénzt takarítson meg.",
+          "Tájékozódjon előre a buszmenetrendről a várakozási idő minimalizálása érdekében."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru a economisi bani.",
+          "Verificați în avans orarele autobuzelor pentru a minimiza timpii de așteptare."
+        ],
+        "en": [
+          "Buy a day pass for the bus to save money.",
+          "Check the bus schedules in advance to minimize waiting times."
+        ]
+      }
+    }
+  }
+}

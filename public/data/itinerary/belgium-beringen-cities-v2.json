@@ -1,0 +1,1492 @@
+{
+  "city_id": "belgium-beringen-cities-v2",
+  "anchor": {
+    "name": "Beringen",
+    "coords": [
+      5.2261,
+      51.0489
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche St. Peter in Ketten",
+            "hu": "Szent Péter Láncai-templom",
+            "ro": "Biserica Sf. Petru în Lanțuri",
+            "en": "St. Peter's in Chains Church"
+          },
+          "coords": [
+            5.2255,
+            51.0492
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden Glasfenster und die ruhige Atmosphäre.",
+            "hu": "Csodálja meg a lenyűgöző ólomüveg ablakokat és a csendes légkört.",
+            "ro": "Admirați vitraliile impresionante și atmosfera liniștită.",
+            "en": "Admire the impressive stained-glass windows and the quiet atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Casino von Beringen",
+            "hu": "Beringeni Kaszinó",
+            "ro": "Cazinoul din Beringen",
+            "en": "Casino of Beringen"
+          },
+          "coords": [
+            5.2278,
+            51.0501
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:45",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie den Spielplan, vielleicht gibt es eine interessante Vorstellung.",
+            "hu": "Nézze meg a programot, hátha van egy érdekes előadás.",
+            "ro": "Verificați programul, s-ar putea să existe un spectacol interesant.",
+            "en": "Check the schedule, there might be an interesting performance."
+          }
+        },
+        {
+          "name": {
+            "de": "be-MINE Industriekulturerbe",
+            "hu": "be-MINE ipari örökség",
+            "ro": "Patrimoniul Industrial be-MINE",
+            "en": "be-MINE Industrial Heritage"
+          },
+          "coords": [
+            5.2331,
+            51.0583
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil, um die Geschichte des Bergbaus zu verstehen.",
+            "hu": "Vegyen részt egy vezetett túrán, hogy megértse a bányászat történetét.",
+            "ro": "Participați la un tur ghidat pentru a înțelege istoria mineritului.",
+            "en": "Join a guided tour to understand the history of coal mining."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergbaumuseum",
+            "hu": "Bányászati Múzeum",
+            "ro": "Muzeul Mineritului",
+            "en": "Mining Museum"
+          },
+          "coords": [
+            5.2325,
+            51.0575
+          ],
+          "category": "museums",
+          "arrive_at": "12:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erleben Sie die unterirdische Simulation, um das Leben der Bergleute zu spüren.",
+            "hu": "Próbálja ki a földalatti szimulációt, hogy átérezze a bányászok életét.",
+            "ro": "Experimentați simularea subterană pentru a simți viața minerilor.",
+            "en": "Experience the underground simulation to feel the life of the miners."
+          }
+        },
+        {
+          "name": {
+            "de": "Abenteuerberg",
+            "hu": "Kaland-hegy",
+            "ro": "Muntele Aventurii",
+            "en": "Adventure Mountain"
+          },
+          "coords": [
+            5.235,
+            51.0601
+          ],
+          "category": "natural features",
+          "arrive_at": "13:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Klettern Sie auf die Spitze für eine fantastische Aussicht über die Region.",
+            "hu": "Másszon fel a csúcsra a régióra nyíló fantasztikus kilátásért.",
+            "ro": "Urcați în vârf pentru o priveliște fantastică asupra regiunii.",
+            "en": "Climb to the top for a fantastic view over the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Park des Direktors",
+            "hu": "Igazgatói Park",
+            "ro": "Parcul Directorului",
+            "en": "Director's Park"
+          },
+          "coords": [
+            5.2295,
+            51.0555
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 2.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für eine Pause am Nachmittag, umgeben von wunderschönen Gärten.",
+            "hu": "Tökéletes hely egy délutáni pihenőre, gyönyörű kertekkel körülvéve.",
+            "ro": "Un loc perfect pentru o pauză de după-amiază, înconjurat de grădini frumoase.",
+            "en": "A perfect spot for an afternoon break, surrounded by beautiful gardens."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Herzen von Beringen bei der Sint-Pietersbandenkerk. Nach einem kurzen kulturellen Stopp im Casino führt Sie ein belebender Spaziergang zum beeindruckenden be-MINE-Komplex, dem Zentrum des industriellen Erbes. Am Nachmittag tauchen Sie im Bergbaumuseum tief in die Geschichte ein, bevor Sie den Abenteuerberg für eine atemberaubende Aussicht erklimmen. Schließen Sie den Tag mit einem entspannten Spaziergang durch den eleganten Park des Direktors ab, einem grünen Juwel.",
+        "hu": "Kezdje a napot Beringen történelmi szívében, a Szent Péter Láncai-templomnál. Egy rövid kulturális megálló után a kaszinóban egy élénkítő séta vezet a lenyűgöző be-MINE komplexumhoz, az ipari örökség központjához. Délután mélyedjen el a történelemben a Bányászati Múzeumban, mielőtt megmászná a Kaland-hegyet a lélegzetelállító kilátásért. Zárja a napot egy pihentető sétával az elegáns Igazgatói Parkban, egy zöld ékkőben.",
+        "ro": "Începeți ziua în inima istorică a orașului Beringen, la Biserica Sf. Petru în Lanțuri. După o scurtă oprire culturală la Cazino, o plimbare revigorantă vă va duce la impresionantul complex be-MINE, centrul patrimoniului industrial. După-amiaza, pătrundeți adânc în istorie la Muzeul Mineritului înainte de a urca pe Muntele Aventurii pentru o priveliște uluitoare. Încheiați ziua cu o plimbare relaxantă prin elegantul Parc al Directorului, o bijuterie verde.",
+        "en": "Start your day in the historic heart of Beringen at St. Peter's in Chains Church. After a brief cultural stop at the Casino, an invigorating walk takes you to the impressive be-MINE complex, the center of industrial heritage. In the afternoon, delve deep into history at the Mining Museum before climbing Adventure Mountain for a breathtaking view. Conclude your day with a relaxing stroll through the elegant Director's Park, a green gem."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Belgische Pommes",
+            "tip": "Probieren Sie eine Portion mit 'Stoofvleessaus' in einer lokalen 'Frituur'."
+          },
+          {
+            "name": "Limburger Vlaai",
+            "tip": "Ein köstlicher Obstkuchen, perfekt für eine Kaffeepause."
+          },
+          {
+            "name": "Mijnwerkersstoofpot",
+            "tip": "Ein herzhafter Eintopf, inspiriert von der lokalen Bergbaugeschichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belga sültkrumpli",
+            "tip": "Kóstoljon meg egy adagot 'stoofvleessaus'-szal egy helyi 'frituur'-ban."
+          },
+          {
+            "name": "Limburgi vlaai",
+            "tip": "Egy finom gyümölcsös pite, tökéletes egy kávészünethez."
+          },
+          {
+            "name": "Bányászragu",
+            "tip": "Egy kiadós ragu, amelyet a helyi bányásztörténelem ihletett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cartofi prăjiți belgieni",
+            "tip": "Încercați o porție cu 'stoofvleessaus' la o 'frituur' locală."
+          },
+          {
+            "name": "Vlaai din Limburg",
+            "tip": "O plăcintă delicioasă cu fructe, perfectă pentru o pauză de cafea."
+          },
+          {
+            "name": "Tocăniță de miner",
+            "tip": "O tocană consistentă inspirată de istoria minieră locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Belgian Fries",
+            "tip": "Try a portion with 'stoofvleessaus' (beef stew sauce) at a local 'frituur'."
+          },
+          {
+            "name": "Limburgse Vlaai",
+            "tip": "A delicious fruit pie, perfect for a coffee break."
+          },
+          {
+            "name": "Miner's Stew",
+            "tip": "A hearty stew inspired by the local mining history."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfel des Abenteuerbergs",
+            "tip": "Genießen Sie die Stille und die weite Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Park des Direktors",
+            "tip": "Finden Sie eine ruhige Bank und lesen Sie ein Buch.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Inneres der Sint-Pietersbandenkerk",
+            "tip": "Ein Moment der Besinnung abseits der Hektik.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kaland-hegy csúcsa",
+            "tip": "Élvezze a csendet és a tágas kilátást.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Igazgatói Park",
+            "tip": "Keressen egy csendes padot, és olvasson egy könyvet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szent Péter Láncai-templom belseje",
+            "tip": "Egy pillanatnyi elmélkedés a nyüzsgéstől távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Muntelui Aventurii",
+            "tip": "Bucurați-vă de liniște și de priveliștea panoramică.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Directorului",
+            "tip": "Găsiți o bancă liniștită și citiți o carte.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Interiorul Bisericii Sf. Petru",
+            "tip": "Un moment de reflecție departe de agitație.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Top of Adventure Mountain",
+            "tip": "Enjoy the silence and the vast view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Director's Park",
+            "tip": "Find a quiet bench and read a book.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Inside St. Peter's Church",
+            "tip": "A moment of reflection away from the hustle.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Suchen Sie nach lokalen Produkten und Käse auf dem Marktplatz."
+          },
+          {
+            "name": "be-MINE Boulevard",
+            "tip": "Eine Mischung aus Einzelhandelsgeschäften in der Nähe des Bergbaugeländes."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Keressen helyi termékeket és sajtokat a piactéren."
+          },
+          {
+            "name": "be-MINE Boulevard",
+            "tip": "Kiskereskedelmi üzletek keveréke a bányaterület közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Căutați produse locale și brânzeturi în piață."
+          },
+          {
+            "name": "Bulevardul be-MINE",
+            "tip": "Un amestec de magazine de retail lângă situl minier."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Look for local produce and cheeses in the market square."
+          },
+          {
+            "name": "be-MINE Boulevard",
+            "tip": "A mix of retail shops near the mining site."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Prüfen Sie die Öffnungszeiten des Bergbaumuseums im Voraus.",
+          "Eine wiederverwendbare Wasserflasche ist eine gute Idee."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Ellenőrizze előre a Bányászati Múzeum nyitvatartási idejét.",
+          "Egy újrafelhasználható vizes palack jó ötlet."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge mult pe jos.",
+          "Verificați în avans programul de funcționare al Muzeului Mineritului.",
+          "O sticlă de apă reutilizabilă este o idee bună."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Check the opening hours of the Mining Museum in advance.",
+          "A reusable water bottle is a good idea."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kolenspoor (Startpunkt)",
+            "hu": "Szénvágány (Kezdőpont)",
+            "ro": "Calea Ferată a Cărbunelui (Punct de start)",
+            "en": "Coal Track (Starting Point)"
+          },
+          "coords": [
+            5.201,
+            51.045
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie eine ruhige Fahrt entlang der alten Eisenbahnstrecke.",
+            "hu": "Élvezze a csendes utazást a régi vasútvonal mentén.",
+            "ro": "Bucurați-vă de o plimbare liniștită de-a lungul vechii căi ferate.",
+            "en": "Enjoy a peaceful ride along the old railway line."
+          }
+        },
+        {
+          "name": {
+            "de": "be-MINE Industriekulturerbe",
+            "hu": "be-MINE ipari örökség",
+            "ro": "Patrimoniul Industrial be-MINE",
+            "en": "be-MINE Industrial Heritage"
+          },
+          "coords": [
+            5.2331,
+            51.0583
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie das Gelände erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt felfedezné a területet.",
+            "ro": "Asigurați-vă bicicleta înainte de a explora situl.",
+            "en": "Lock your bike securely before exploring the site."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergbaumuseum",
+            "hu": "Bányászati Múzeum",
+            "ro": "Muzeul Mineritului",
+            "en": "Mining Museum"
+          },
+          "coords": [
+            5.2325,
+            51.0575
+          ],
+          "category": "museums",
+          "arrive_at": "11:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein Muss, um die Seele von Beringen wirklich zu verstehen.",
+            "hu": "Kötelező program, hogy igazán megértse Beringen lelkét.",
+            "ro": "O vizită obligatorie pentru a înțelege cu adevărat sufletul orașului Beringen.",
+            "en": "A must-visit to truly understand the soul of Beringen."
+          }
+        },
+        {
+          "name": {
+            "de": "Abenteuerberg",
+            "hu": "Kaland-hegy",
+            "ro": "Muntele Aventurii",
+            "en": "Adventure Mountain"
+          },
+          "coords": [
+            5.235,
+            51.0601
+          ],
+          "category": "natural features",
+          "arrive_at": "13:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Lassen Sie Ihr Fahrrad unten stehen und machen Sie den kurzen Aufstieg zu Fuß.",
+            "hu": "Hagyja lent a kerékpárját, és tegye meg a rövid emelkedőt gyalog.",
+            "ro": "Lăsați bicicleta jos și faceți scurta urcare pe jos.",
+            "en": "Leave your bike at the bottom and make the short climb on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Peter in Ketten",
+            "hu": "Szent Péter Láncai-templom",
+            "ro": "Biserica Sf. Petru în Lanțuri",
+            "en": "St. Peter's in Chains Church"
+          },
+          "coords": [
+            5.2255,
+            51.0492
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein Moment der Ruhe nach einer aktiven Radtour durch die Stadt.",
+            "hu": "Egy pillanatnyi csend egy aktív városi kerékpártúra után.",
+            "ro": "Un moment de liniște după un tur activ cu bicicleta prin oraș.",
+            "en": "A moment of peace after an active bike tour through the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Al-Fatih-Moschee",
+            "hu": "Al-Fatih Mecset",
+            "ro": "Moscheea Al-Fatih",
+            "en": "Al-Fatih Mosque"
+          },
+          "coords": [
+            5.2388,
+            51.0471
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:05",
+          "stay_min": 35,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Respektieren Sie die Kleiderordnung, wenn Sie das Innere besichtigen möchten.",
+            "hu": "Tartsa tiszteletben az öltözködési szabályokat, ha be szeretne menni.",
+            "ro": "Respectați codul vestimentar dacă doriți să vizitați interiorul.",
+            "en": "Respect the dress code if you wish to visit inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour auf dem historischen Kolenspoor, der Sie direkt in die industrielle Vergangenheit der Region führt. Das Herzstück des Tages ist der be-MINE-Komplex, wo Sie das Bergbaumuseum erkunden und den Abenteuerberg bezwingen. Am Nachmittag radeln Sie ins Stadtzentrum für einen besinnlichen Moment in der Sint-Pietersbandenkerk. Die Tour endet mit einem Besuch der architektonisch einzigartigen Al-Fatih-Moschee, die einen kulturellen Kontrapunkt setzt.",
+        "hu": "Kezdje a kerékpártúrát a történelmi Szénvágányon, amely egyenesen a régió ipari múltjába vezet. A nap fénypontja a be-MINE komplexum, ahol felfedezheti a Bányászati Múzeumot és meghódíthatja a Kaland-hegyet. Délután tekerjen be a városközpontba egy elmélkedő pillanatra a Szent Péter Láncai-templomban. A túra az építészetileg egyedi Al-Fatih Mecset meglátogatásával zárul, amely kulturális kontrasztot nyújt.",
+        "ro": "Începeți turul cu bicicleta pe istorica Cale Ferată a Cărbunelui, care vă duce direct în trecutul industrial al regiunii. Piesa centrală a zilei este complexul be-MINE, unde explorați Muzeul Mineritului și cuceriți Muntele Aventurii. După-amiaza, pedalați spre centrul orașului pentru un moment de reflecție la Biserica Sf. Petru în Lanțuri. Turul se încheie cu o vizită la Moscheea Al-Fatih, unică din punct de vedere arhitectural, oferind un contrapunct cultural.",
+        "en": "Start your bike tour on the historic Coal Track, leading you straight into the region's industrial past. The day's centerpiece is the be-MINE complex, where you'll explore the Mining Museum and conquer Adventure Mountain. In the afternoon, cycle to the city center for a reflective moment at St. Peter's in Chains Church. The tour concludes with a visit to the architecturally unique Al-Fatih Mosque, providing a cultural counterpoint."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Energie-Riegel",
+            "tip": "Ein lokaler Bäcker hat vielleicht Müsliriegel für Ihre Radtour."
+          },
+          {
+            "name": "Belgisches Bier",
+            "tip": "Gönnen Sie sich nach der Tour ein erfrischendes 'blond' Bier."
+          },
+          {
+            "name": "Carbonnade Flamande",
+            "tip": "Ein Rindfleisch-Zwiebel-Eintopf, perfekt, um die Batterien wieder aufzuladen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Energiaszelet",
+            "tip": "Egy helyi pékségben lehetnek müzliszeletek a kerékpártúrához."
+          },
+          {
+            "name": "Belga sör",
+            "tip": "A túra után kényeztesse magát egy frissítő 'szőke' sörrel."
+          },
+          {
+            "name": "Carbonnade Flamande",
+            "tip": "Marha- és hagymaragu, tökéletes az energiaraktárak feltöltésére."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Baton energetic",
+            "tip": "O brutărie locală ar putea avea batoane granola pentru turul cu bicicleta."
+          },
+          {
+            "name": "Berea belgiană",
+            "tip": "După tur, răsfățați-vă cu o bere 'blondă' răcoritoare."
+          },
+          {
+            "name": "Carbonnade Flamande",
+            "tip": "O tocană de vită și ceapă, perfectă pentru a vă reîncărca bateriile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Energy Bar",
+            "tip": "A local bakery might have granola bars for your bike ride."
+          },
+          {
+            "name": "Belgian Beer",
+            "tip": "Treat yourself to a refreshing 'blond' beer after the tour."
+          },
+          {
+            "name": "Carbonnade Flamande",
+            "tip": "A beef and onion stew, perfect for recharging your batteries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Entlang des Kolenspoor",
+            "tip": "Die grüne Umgebung bietet eine friedliche Atmosphäre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park des Direktors",
+            "tip": "Ein idealer Ort für eine Pause zwischen den Rad-Etappen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick vom Abenteuerberg",
+            "tip": "Die Anstrengung wird mit einer ruhigen Panoramaaussicht belohnt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Szénvágány mentén",
+            "tip": "A zöld környezet békés légkört kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Igazgatói Park",
+            "tip": "Ideális hely egy pihenőre a kerékpáros szakaszok között.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Kaland-hegyről",
+            "tip": "Az erőfeszítést csendes panorámás kilátás jutalmazza.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "De-a lungul Căii Ferate a Cărbunelui",
+            "tip": "Împrejurimile verzi oferă o atmosferă pașnică.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Directorului",
+            "tip": "Un loc ideal pentru o pauză între etapele de ciclism.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de pe Muntele Aventurii",
+            "tip": "Efortul este răsplătit cu o priveliște panoramică liniștită.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Along the Coal Track",
+            "tip": "The green surroundings offer a peaceful atmosphere.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Director's Park",
+            "tip": "An ideal place for a break between cycling stages.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from Adventure Mountain",
+            "tip": "The effort is rewarded with a quiet panoramic view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradladen",
+            "tip": "Vielleicht finden Sie ein einzigartiges Accessoire als Souvenir."
+          },
+          {
+            "name": "Lokale Delikatessen",
+            "tip": "Kaufen Sie Limburger Sirup oder lokalen Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Talán talál egy egyedi kiegészítőt szuvenírként."
+          },
+          {
+            "name": "Helyi finomságok",
+            "tip": "Vásároljon limburgi szirupot vagy helyi sajtot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "S-ar putea să găsiți un accesoriu unic ca suvenir."
+          },
+          {
+            "name": "Delicatese locale",
+            "tip": "Cumpărați sirop de Limburg sau brânză locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "You might find a unique accessory as a souvenir."
+          },
+          {
+            "name": "Local Delicacies",
+            "tip": "Buy some Limburg syrup or local cheese."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad mit Gängen, da es einige leichte Steigungen gibt.",
+          "Nehmen Sie einen Helm und ein Schloss mit.",
+          "Planen Sie Ihre Route mit einer Fahrrad-App."
+        ],
+        "hu": [
+          "Béreljen váltós kerékpárt, mivel vannak enyhe emelkedők.",
+          "Hozzon magával sisakot és lakatot.",
+          "Tervezze meg az útvonalat egy kerékpáros alkalmazással."
+        ],
+        "ro": [
+          "Închiriați o bicicletă cu viteze, deoarece există câteva pante ușoare.",
+          "Luați o cască și un lacăt.",
+          "Planificați-vă traseul folosind o aplicație pentru ciclism."
+        ],
+        "en": [
+          "Rent a bike with gears as there are some slight inclines.",
+          "Bring a helmet and a lock.",
+          "Plan your route using a cycling app."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 8.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz be-MINE",
+            "hu": "be-MINE parkoló",
+            "ro": "Parcare be-MINE",
+            "en": "be-MINE Parking"
+          },
+          "coords": [
+            5.2335,
+            51.059
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Vormittag. Es ist der zentrale Punkt für das Bergbau-Erlebnis.",
+            "hu": "Parkoljon itt a délelőttre. Ez a bányászati élmény központi pontja.",
+            "ro": "Parcați aici pentru dimineață. Este punctul central pentru experiența minieră.",
+            "en": "Park here for the morning. It's the central point for the mining experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergbaumuseum",
+            "hu": "Bányászati Múzeum",
+            "ro": "Muzeul Mineritului",
+            "en": "Mining Museum"
+          },
+          "coords": [
+            5.2325,
+            51.0575
+          ],
+          "category": "museums",
+          "arrive_at": "09:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, um den Kontext für den Rest des Geländes zu bekommen.",
+            "hu": "Kezdje itt, hogy kontextusba helyezze a terület többi részét.",
+            "ro": "Începeți aici pentru a obține contextul pentru restul sitului.",
+            "en": "Start here to get the context for the rest of the site."
+          }
+        },
+        {
+          "name": {
+            "de": "be-MINE Industriekulturerbe",
+            "hu": "be-MINE ipari örökség",
+            "ro": "Patrimoniul Industrial be-MINE",
+            "en": "be-MINE Industrial Heritage"
+          },
+          "coords": [
+            5.2331,
+            51.0583
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie über das Gelände und bewundern Sie die imposanten Fördertürme.",
+            "hu": "Sétáljon körbe a területen, és csodálja meg a lenyűgöző aknatornyokat.",
+            "ro": "Plimbați-vă prin sit și admirați turnurile impunătoare ale puțurilor.",
+            "en": "Stroll around the site and admire the imposing headframes."
+          }
+        },
+        {
+          "name": {
+            "de": "Abenteuerberg",
+            "hu": "Kaland-hegy",
+            "ro": "Muntele Aventurii",
+            "en": "Adventure Mountain"
+          },
+          "coords": [
+            5.235,
+            51.0601
+          ],
+          "category": "natural features",
+          "arrive_at": "11:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der kurze Aufstieg belohnt Sie mit der besten Aussicht in Beringen.",
+            "hu": "A rövid emelkedő Beringen legjobb kilátásával jutalmazza.",
+            "ro": "Scurta urcare vă recompensează cu cea mai bună priveliște din Beringen.",
+            "en": "The short climb rewards you with the best view in Beringen."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Zentrum",
+            "hu": "Parkoló a központban",
+            "ro": "Parcare în centru",
+            "en": "City Center Parking"
+          },
+          "coords": [
+            5.2265,
+            51.0495
+          ],
+          "category": "transport",
+          "arrive_at": "13:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Hier können Sie für den Rest des Tages parken, um das Zentrum zu Fuß zu erkunden.",
+            "hu": "Itt parkolhat a nap hátralévő részére, hogy gyalog fedezze fel a központot.",
+            "ro": "Puteți parca aici pentru restul zilei pentru a explora centrul pe jos.",
+            "en": "You can park here for the rest of the day to explore the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebéd a városközpontban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the City Center"
+          },
+          "coords": [
+            5.226,
+            51.0485
+          ],
+          "category": "gastro",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suchen Sie ein Restaurant mit Terrasse, um das lokale Flair zu genießen.",
+            "hu": "Keressen egy teraszos éttermet, hogy élvezze a helyi hangulatot.",
+            "ro": "Căutați un restaurant cu terasă pentru a vă bucura de atmosfera locală.",
+            "en": "Find a restaurant with a terrace to enjoy the local atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Peter in Ketten",
+            "hu": "Szent Péter Láncai-templom",
+            "ro": "Biserica Sf. Petru în Lanțuri",
+            "en": "St. Peter's in Chains Church"
+          },
+          "coords": [
+            5.2255,
+            51.0492
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner, ruhiger Ort, um nach dem Mittagessen zu entspannen.",
+            "hu": "Egy szép, csendes hely a pihenésre ebéd után.",
+            "ro": "Un loc frumos și liniștit pentru a vă relaxa după prânz.",
+            "en": "A nice, quiet place to relax after lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Park des Direktors",
+            "hu": "Igazgatói Park",
+            "ro": "Parcul Directorului",
+            "en": "Director's Park"
+          },
+          "coords": [
+            5.2295,
+            51.0555
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Machen Sie eine letzte kurze Fahrt zu diesem Park für einen entspannten Tagesausklang.",
+            "hu": "Tegyen egy utolsó rövid autózást ehhez a parkhoz a nap pihentető befejezéseként.",
+            "ro": "Faceți o ultimă scurtă plimbare cu mașina până la acest parc pentru un final relaxant de zi.",
+            "en": "Take one last short drive to this park for a relaxing end to the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Auto direkt am be-MINE-Gelände. Parken Sie Ihr Auto und erkunden Sie zu Fuß das Bergbaumuseum und den Abenteuerberg. Dieser erste 'Cluster' bietet einen tiefen Einblick in das Erbe von Beringen. Nach dem Mittagessen fahren Sie ins Stadtzentrum, parken erneut und entdecken den historischen Kern mit der Hauptkirche. Ein letzter kurzer Autohop bringt Sie zum ruhigen Park des Direktors, wo Sie den Tag in grüner Umgebung ausklingen lassen können. Dieses Cluster-Walking-Konzept kombiniert Komfort mit Erkundung.",
+        "hu": "Kezdje a napot autóval közvetlenül a be-MINE területén. Parkolja le az autót, és fedezze fel gyalog a Bányászati Múzeumot és a Kaland-hegyet. Ez az első „klaszter” mély betekintést nyújt Beringen örökségébe. Ebéd után vezessen be a városközpontba, parkoljon le újra, és fedezze fel a történelmi magot a főtemplommal. Egy utolsó rövid autózás elviszi a csendes Igazgatói Parkba, ahol zöld környezetben zárhatja a napot. Ez a klaszter-séta koncepció ötvözi a kényelmet a felfedezéssel.",
+        "ro": "Începeți ziua cu mașina direct la situl be-MINE. Parcați mașina și explorați pe jos Muzeul Mineritului și Muntele Aventurii. Acest prim „cluster” oferă o perspectivă profundă asupra patrimoniului din Beringen. După prânz, conduceți spre centrul orașului, parcați din nou și descoperiți nucleul istoric cu biserica principală. O ultimă scurtă deplasare cu mașina vă duce la liniștitul Parc al Directorului, unde puteți încheia ziua într-un cadru verde. Acest concept de plimbare pe clustere combină confortul cu explorarea.",
+        "en": "Start your day by car directly at the be-MINE site. Park your car and explore the Mining Museum and Adventure Mountain on foot. This first 'cluster' offers a deep dive into Beringen's heritage. After lunch, drive to the city center, park again, and discover the historic core with the main church. A final short car hop takes you to the tranquil Director's Park, where you can end the day in green surroundings. This cluster-walking concept combines comfort with exploration."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant 't Kasteeltje",
+            "tip": "Ein gehobenes Restaurant für ein besonderes Mittagessen."
+          },
+          {
+            "name": "Brasserie 'De Mijnlamp'",
+            "tip": "Ein gemütlicher Ort auf dem be-MINE-Gelände für einen Snack."
+          },
+          {
+            "name": "Lokale Brauerei",
+            "tip": "Probieren Sie ein handwerklich gebrautes Bier aus der Region Limburg."
+          }
+        ],
+        "hu": [
+          {
+            "name": "'t Kasteeltje étterem",
+            "tip": "Egy elegáns étterem egy különleges ebédhez."
+          },
+          {
+            "name": "'De Mijnlamp' brasserie",
+            "tip": "Egy hangulatos hely a be-MINE területén egy falatozásra."
+          },
+          {
+            "name": "Helyi sörfőzde",
+            "tip": "Kóstoljon meg egy kézműves sört a limburgi régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant 't Kasteeltje",
+            "tip": "Un restaurant rafinat pentru un prânz special."
+          },
+          {
+            "name": "Brasserie 'De Mijnlamp'",
+            "tip": "Un loc primitor pe situl be-MINE pentru o gustare."
+          },
+          {
+            "name": "Berărie locală",
+            "tip": "Încercați o bere artizanală din regiunea Limburg."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant 't Kasteeltje",
+            "tip": "An upscale restaurant for a special lunch."
+          },
+          {
+            "name": "Brasserie 'De Mijnlamp'",
+            "tip": "A cozy spot on the be-MINE site for a snack."
+          },
+          {
+            "name": "Local Brewery",
+            "tip": "Try a craft beer from the Limburg region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Paalse Plas",
+            "tip": "Eine kurze Autofahrt entfernt für einen sehr ruhigen Moment am Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten im Park des Direktors",
+            "tip": "Finden Sie eine versteckte Ecke zum Entspannen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussicht vom Abenteuerberg",
+            "tip": "Überblicken Sie die Landschaft in aller Ruhe.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paalse Plas partja",
+            "tip": "Egy rövid autóútra található egy nagyon csendes pillanatért a vízparton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Az Igazgatói Park kertjei",
+            "tip": "Keressen egy rejtett zugot a pihenéshez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Kaland-hegyről",
+            "tip": "Tekintse át a tájat teljes nyugalomban.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile lacului Paalse Plas",
+            "tip": "La o scurtă distanță cu mașina pentru un moment foarte liniștit lângă apă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile din Parcul Directorului",
+            "tip": "Găsiți un colț ascuns pentru a vă relaxa.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de pe Muntele Aventurii",
+            "tip": "Priviți peisajul în liniște.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shores of Paalse Plas lake",
+            "tip": "A short drive away for a very quiet moment by the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gardens in the Director's Park",
+            "tip": "Find a hidden corner to relax.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from Adventure Mountain",
+            "tip": "Overlook the landscape in peace.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofladen",
+            "tip": "Suchen Sie in der Umgebung nach Bauernhöfen, die lokale Produkte verkaufen."
+          },
+          {
+            "name": "Museumsshop",
+            "tip": "Kaufen Sie ein Souvenir mit Bergbaumotiv im Bergbaumuseum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői bolt",
+            "tip": "Keressen a környéken gazdaságokat, amelyek helyi termékeket árulnak."
+          },
+          {
+            "name": "Múzeumi bolt",
+            "tip": "Vásároljon bányászati témájú szuvenírt a Bányászati Múzeumban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de fermă",
+            "tip": "Căutați în zonă ferme care vând produse locale."
+          },
+          {
+            "name": "Magazinul muzeului",
+            "tip": "Cumpărați un suvenir cu tematică minieră de la Muzeul Mineritului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm Shop",
+            "tip": "Look for farms in the surrounding area that sell local produce."
+          },
+          {
+            "name": "Museum Shop",
+            "tip": "Buy a mining-themed souvenir at the Mining Museum."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie eine Navigations-App, um die Parkplätze leicht zu finden.",
+          "Achten Sie auf Parkgebühren und -beschränkungen.",
+          "Das Auto gibt Ihnen die Flexibilität, auch nahegelegene Naturgebiete zu erkunden."
+        ],
+        "hu": [
+          "Használjon navigációs alkalmazást a parkolók könnyű megtalálásához.",
+          "Vegye figyelembe a parkolási díjakat és korlátozásokat.",
+          "Az autó rugalmasságot biztosít a közeli természeti területek felfedezéséhez is."
+        ],
+        "ro": [
+          "Utilizați o aplicație de navigație pentru a găsi cu ușurință parcările.",
+          "Fiți atenți la taxele și restricțiile de parcare.",
+          "Mașina vă oferă flexibilitatea de a explora și zonele naturale din apropiere."
+        ],
+        "en": [
+          "Use a navigation app to find the parking lots easily.",
+          "Be aware of parking fees and restrictions.",
+          "The car gives you the flexibility to also explore nearby nature areas."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Busbahnhof Beringen",
+            "hu": "Beringen központi buszpályaudvar",
+            "ro": "Autogara Centrală Beringen",
+            "en": "Beringen Central Bus Station"
+          },
+          "coords": [
+            5.2268,
+            51.048
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für Flexibilität.",
+            "hu": "Vásároljon napijegyet a rugalmasság érdekében.",
+            "ro": "Cumpărați un bilet de o zi pentru flexibilitate.",
+            "en": "Buy a day pass for flexibility."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Peter in Ketten",
+            "hu": "Szent Péter Láncai-templom",
+            "ro": "Biserica Sf. Petru în Lanțuri",
+            "en": "St. Peter's in Chains Church"
+          },
+          "coords": [
+            5.2255,
+            51.0492
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ihr erster Stopp, nur einen kurzen Spaziergang vom Busbahnhof entfernt.",
+            "hu": "Az első megálló, csak egy rövid sétára a buszpályaudvartól.",
+            "ro": "Prima oprire, la o scurtă plimbare de autogară.",
+            "en": "Your first stop, just a short walk from the bus station."
+          }
+        },
+        {
+          "name": {
+            "de": "Casino von Beringen",
+            "hu": "Beringeni Kaszinó",
+            "ro": "Cazinoul din Beringen",
+            "en": "Casino of Beringen"
+          },
+          "coords": [
+            5.2278,
+            51.0501
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:50",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Werfen Sie einen Blick auf dieses kulturelle Zentrum, bevor Sie den Bus nehmen.",
+            "hu": "Vessen egy pillantást erre a kulturális központra, mielőtt buszra szállna.",
+            "ro": "Aruncați o privire la acest centru cultural înainte de a lua autobuzul.",
+            "en": "Take a look at this cultural hub before you catch the bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle be-MINE",
+            "hu": "be-MINE buszmegálló",
+            "ro": "Stația de autobuz be-MINE",
+            "en": "be-MINE Bus Stop"
+          },
+          "coords": [
+            5.232,
+            51.057
+          ],
+          "category": "transport",
+          "arrive_at": "10:35",
+          "stay_min": 0,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Von hier aus beginnt Ihr zweiter Erkundungscluster des Tages.",
+            "hu": "Innen indul a nap második felfedező klasztere.",
+            "ro": "De aici începe al doilea cluster de explorare al zilei.",
+            "en": "Your second exploration cluster of the day starts from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergbaumuseum",
+            "hu": "Bányászati Múzeum",
+            "ro": "Muzeul Mineritului",
+            "en": "Mining Museum"
+          },
+          "coords": [
+            5.2325,
+            51.0575
+          ],
+          "category": "museums",
+          "arrive_at": "10:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein, dieses Museum ist sehr umfangreich.",
+            "hu": "Szánjon rá elegendő időt, ez a múzeum nagyon átfogó.",
+            "ro": "Alocați suficient timp, acest muzeu este foarte cuprinzător.",
+            "en": "Allow plenty of time, this museum is very comprehensive."
+          }
+        },
+        {
+          "name": {
+            "de": "Abenteuerberg",
+            "hu": "Kaland-hegy",
+            "ro": "Muntele Aventurii",
+            "en": "Adventure Mountain"
+          },
+          "coords": [
+            5.235,
+            51.0601
+          ],
+          "category": "natural features",
+          "arrive_at": "12:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für ein Picknick-Mittagessen mit Aussicht.",
+            "hu": "Tökéletes hely egy piknik ebédhez kilátással.",
+            "ro": "Un loc perfect pentru un prânz la picnic cu priveliște.",
+            "en": "A perfect spot for a picnic lunch with a view."
+          }
+        },
+        {
+          "name": {
+            "de": "Kolenspoor",
+            "hu": "Szénvágány",
+            "ro": "Calea Ferată a Cărbunelui",
+            "en": "Coal Track"
+          },
+          "coords": [
+            5.201,
+            51.045
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 3.1,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in Richtung Westen, um diesen grünen Korridor zu erreichen.",
+            "hu": "Menjen egy nyugati irányú busszal, hogy elérje ezt a zöld folyosót.",
+            "ro": "Luați un autobuz spre vest pentru a ajunge la acest coridor verde.",
+            "en": "Take a bus heading west to reach this green corridor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das effiziente Busnetz von Beringen, um die Stadt zu entdecken. Beginnen Sie Ihren Tag im Zentrum mit einem Spaziergang von der Kirche zum Casino (Cluster 1). Eine kurze Busfahrt bringt Sie dann zum be-MINE-Komplex, dem zweiten Cluster, wo Sie in die Bergbaugeschichte eintauchen und den Abenteuerberg besteigen. Am Nachmittag bringt Sie ein weiterer Bus zum Kolenspoor, einem perfekten Ort für einen ausgedehnten Spaziergang in der Natur. Diese Methode ist umweltfreundlich und stressfrei.",
+        "hu": "Használja Beringen hatékony buszhálózatát a város felfedezéséhez. Kezdje a napot a központban egy sétával a templomtól a kaszinóig (1. klaszter). Egy rövid buszút elviszi a be-MINE komplexumhoz, a második klaszterhez, ahol elmerülhet a bányászat történetében és megmászhatja a Kaland-hegyet. Délután egy másik busz elviszi a Szénvágányhoz, amely tökéletes hely egy hosszú természeti sétához. Ez a módszer környezetbarát és stresszmentes.",
+        "ro": "Folosiți rețeaua eficientă de autobuze din Beringen pentru a descoperi orașul. Începeți ziua în centru cu o plimbare de la biserică la cazino (clusterul 1). O scurtă călătorie cu autobuzul vă va duce apoi la complexul be-MINE, al doilea cluster, unde vă puteți cufunda în istoria mineritului și puteți urca pe Muntele Aventurii. După-amiaza, un alt autobuz vă va duce la Calea Ferată a Cărbunelui, un loc perfect pentru o plimbare lungă în natură. Această metodă este ecologică și fără stres.",
+        "en": "Use Beringen's efficient bus network to discover the city. Start your day in the center with a walk from the church to the casino (cluster 1). A short bus ride then takes you to the be-MINE complex, the second cluster, where you can immerse yourself in mining history and climb Adventure Mountain. In the afternoon, another bus takes you to the Coal Track, a perfect place for a long nature walk. This method is environmentally friendly and stress-free."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sandwichbar im Zentrum",
+            "tip": "Holen Sie sich ein schnelles und leckeres Mittagessen, bevor Sie den Bus nehmen."
+          },
+          {
+            "name": "Waffelstand",
+            "tip": "Eine süße belgische Waffel ist der perfekte Snack für unterwegs."
+          },
+          {
+            "name": "Bäckerei in der Nähe einer Haltestelle",
+            "tip": "Kaufen Sie einen Limburger Vlaai für ein Picknick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szendvicsbár a központban",
+            "tip": "Kapjon be egy gyors és finom ebédet, mielőtt buszra szállna."
+          },
+          {
+            "name": "Gofri stand",
+            "tip": "Egy édes belga gofri tökéletes útközbeni snack."
+          },
+          {
+            "name": "Pékség egy megálló közelében",
+            "tip": "Vásároljon limburgi vlaai-t egy piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sandwich bar în centru",
+            "tip": "Luați un prânz rapid și gustos înainte de a lua autobuzul."
+          },
+          {
+            "name": "Stand de vafe",
+            "tip": "O vafă dulce belgiană este gustarea perfectă pentru drum."
+          },
+          {
+            "name": "Brutărie lângă o stație",
+            "tip": "Cumpărați un vlaai de Limburg pentru un picnic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sandwich bar in the center",
+            "tip": "Grab a quick and tasty lunch before catching the bus."
+          },
+          {
+            "name": "Waffle stand",
+            "tip": "A sweet Belgian waffle is the perfect on-the-go snack."
+          },
+          {
+            "name": "Bakery near a bus stop",
+            "tip": "Buy a Limburgse vlaai for a picnic."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obere Etage eines Doppeldeckerbusses",
+            "tip": "Beobachten Sie die Stadt aus einer anderen Perspektive.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Spaziergang entlang des Kolenspoor",
+            "tip": "Entfliehen Sie dem Stadtlärm auf diesem grünen Weg.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eine Bank im Park des Direktors",
+            "tip": "Leicht erreichbar für eine kurze Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy emeletes busz felső szintje",
+            "tip": "Nézze a várost egy másik perspektívából.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Séta a Szénvágány mentén",
+            "tip": "Meneküljön el a város zajától ezen a zöld úton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy pad az Igazgatói Parkban",
+            "tip": "Könnyen elérhető egy rövid szünetre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etajul superior al unui autobuz supraetajat",
+            "tip": "Observați orașul dintr-o altă perspectivă.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Plimbare de-a lungul Căii Ferate a Cărbunelui",
+            "tip": "Evadați de zgomotul orașului pe această potecă verde.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O bancă în Parcul Directorului",
+            "tip": "Ușor accesibil pentru o scurtă pauză.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Upper deck of a double-decker bus",
+            "tip": "Watch the city go by from a different perspective.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Walk along the Coal Track",
+            "tip": "Escape the city noise on this green path.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A bench in the Director's Park",
+            "tip": "Easily accessible for a short break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Nähe des Busbahnhofs",
+            "tip": "Erledigen Sie Ihre Souvenireinkäufe, bevor Sie die Stadt verlassen."
+          },
+          {
+            "name": "Kiosk",
+            "tip": "Kaufen Sie eine Postkarte als Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Üzletek a buszpályaudvar közelében",
+            "tip": "Vásárolja meg a szuveníreket, mielőtt elhagyná a várost."
+          },
+          {
+            "name": "Újságos",
+            "tip": "Vásároljon egy képeslapot emlékbe."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine lângă autogară",
+            "tip": "Faceți cumpărăturile de suveniruri înainte de a părăsi orașul."
+          },
+          {
+            "name": "Chioșc",
+            "tip": "Cumpărați o carte poștală ca amintire."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops near the bus station",
+            "tip": "Do your souvenir shopping before you leave the city."
+          },
+          {
+            "name": "Kiosk",
+            "tip": "Buy a postcard as a memento."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die App des lokalen Verkehrsunternehmens herunter, um Fahrpläne in Echtzeit zu sehen.",
+          "Eine Tageskarte ist oft günstiger als Einzeltickets.",
+          "Achten Sie auf die letzte Busverbindung zurück ins Zentrum."
+        ],
+        "hu": [
+          "Töltse le a helyi közlekedési vállalat alkalmazását a valós idejű menetrendekért.",
+          "A napijegy gyakran olcsóbb, mint az egyedi jegyek.",
+          "Figyeljen az utolsó buszjáratra vissza a központba."
+        ],
+        "ro": [
+          "Descărcați aplicația companiei locale de transport pentru orare în timp real.",
+          "Un bilet de o zi este adesea mai ieftin decât biletele individuale.",
+          "Fiți atenți la ultima legătură de autobuz înapoi spre centru."
+        ],
+        "en": [
+          "Download the local transport company's app for real-time schedules.",
+          "A day pass is often cheaper than single tickets.",
+          "Pay attention to the last bus connection back to the center."
+        ]
+      }
+    }
+  }
+}

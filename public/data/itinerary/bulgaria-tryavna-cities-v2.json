@@ -1,0 +1,1500 @@
+{
+  "city_id": "bulgaria-tryavna-cities-v2",
+  "anchor": {
+    "name": "Trjawna",
+    "coords": [
+      42.8667,
+      25.5
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 1.7,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Katschaunska-Viertel",
+            "hu": "Kachaunska negyed",
+            "ro": "Cartierul Kachaunska",
+            "en": "Kachaunska Neighborhood"
+          },
+          "coords": [
+            25.4975,
+            42.8665
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier mit einem Kaffee, um die Atmosphäre der Wiedergeburtsarchitektur aufzusaugen.",
+            "hu": "Kezdje a napot egy kávéval, és szívja magába a bolgár újjászületés építészetének hangulatát.",
+            "ro": "Începeți ziua cu o cafea aici pentru a absorbi atmosfera arhitecturii Renașterii Bulgare.",
+            "en": "Start with a coffee here to soak in the atmosphere of the Bulgarian Revival architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Buckelbrücke",
+            "hu": "Púpos híd",
+            "ro": "Podul Cocoșat",
+            "en": "The Humpbacked Bridge"
+          },
+          "coords": [
+            25.4988,
+            42.866
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:40",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Wahrzeichen und perfekter Ort für Fotos über dem Fluss Trjawna.",
+            "hu": "A város jelképe, tökéletes helyszín a Tryavna folyó feletti fotózáshoz.",
+            "ro": "Un simbol al orașului și un loc perfect pentru fotografii peste râul Tryavna.",
+            "en": "A landmark of the town and a perfect spot for photos over the Tryavna river."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm",
+            "hu": "Óratorony",
+            "ro": "Turnul cu Ceas",
+            "en": "Clock Tower"
+          },
+          "coords": [
+            25.4992,
+            42.8668
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Wahrzeichen der Stadt aus dem Jahr 1814, sein Glockenschlag hallt stündlich wider.",
+            "hu": "A város 1814-ben épült jelképe, harangjátéka óránként csendül fel.",
+            "ro": "Emblema orașului din 1814, ceasul său bate la fiecare oră.",
+            "en": "The town's emblem from 1814, its chime echoes every hour."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Erzengels Michael",
+            "hu": "Szent Mihály Arkangyal templom",
+            "ro": "Biserica Sfântul Arhanghel Mihail",
+            "en": "Church of St. Archangel Michael"
+          },
+          "coords": [
+            25.498,
+            42.8675
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie die holzgeschnitzte Ikonostase und die Wandmalereien im Inneren.",
+            "hu": "Figyelje meg a templom belsejében található fafaragású ikonosztázt és falfestményeket.",
+            "ro": "Observați iconostasul sculptat în lemn și picturile murale din interior.",
+            "en": "Take note of the wood-carved iconostasis and the murals inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Schule (Schola)",
+            "hu": "Régi Iskola (Schola)",
+            "ro": "Școala Veche (Schola)",
+            "en": "The Old School (Schola)"
+          },
+          "coords": [
+            25.4972,
+            42.8672
+          ],
+          "category": "museums",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eines der ersten weltlichen Schulgebäude in Bulgarien, heute ein Museum.",
+            "hu": "Bulgária egyik első világi iskolaépülete, ma múzeumként működik.",
+            "ro": "Una dintre primele școli laice din Bulgaria, acum un muzeu.",
+            "en": "One of the first secular school buildings in Bulgaria, now a museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Daskalow-Haus",
+            "hu": "Daskalov-ház",
+            "ro": "Casa Daskalov",
+            "en": "Daskalov House"
+          },
+          "coords": [
+            25.4955,
+            42.868
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 75,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Berühmt für seine zwei geschnitzten Holzdecken, die das Ergebnis einer Wette zwischen zwei Meistern sind.",
+            "hu": "Híres a két faragott famennyezetéről, amelyek egy mesterember-fogadás eredményei.",
+            "ro": "Faimoasă pentru cele două tavane din lemn sculptat, rezultatul unui pariu între doi meșteri.",
+            "en": "Famous for its two carved wooden ceilings, the result of a bet between two master craftsmen."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Ikonenmalerei",
+            "hu": "Ikonfestészeti Múzeum",
+            "ro": "Muzeul de Pictură a Icoanelor",
+            "en": "Museum of Icon Painting"
+          },
+          "coords": [
+            25.4965,
+            42.8676
+          ],
+          "category": "museums",
+          "arrive_at": "14:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beherbergt eine reiche Sammlung von Werken der berühmten Trjawna-Malschule.",
+            "hu": "A híres trjavnai festőiskola gazdag gyűjteményének ad otthont.",
+            "ro": "Găzduiește o colecție bogată de lucrări ale renumitei școli de pictură din Tryavna.",
+            "en": "Houses a rich collection of works from the famous Tryavna School of painting."
+          }
+        },
+        {
+          "name": {
+            "de": "Raikow-Haus",
+            "hu": "Raykov-ház",
+            "ro": "Casa Raykov",
+            "en": "Raykov House"
+          },
+          "coords": [
+            25.494,
+            42.8673
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein ethnographisches Museum, das das Leben eines wohlhabenden Händlers des 19. Jahrhunderts zeigt.",
+            "hu": "Egy néprajzi múzeum, amely egy 19. századi gazdag kereskedő életét mutatja be.",
+            "ro": "Un muzeu etnografic ce prezintă viața unui negustor bogat din secolul al XIX-lea.",
+            "en": "An ethnographic museum showcasing the life of a wealthy 19th-century merchant."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Trjawna beginnt im Herzen des historischen Zentrums, dem Katschaunska-Viertel. Der Vormittag ist der Erkundung der ikonischen Wahrzeichen gewidmet: Sie überqueren die Buckelbrücke, lauschen dem Uhrturm und bewundern die spirituelle Kunst in der Kirche des Erzengels Michael, bevor Sie in der Alten Schule in die Bildungsgeschichte eintauchen.\nAm Mittag machen Sie eine Pause für ein herzhaftes bulgarisches Essen. Danach setzen Sie Ihre Reise in die Vergangenheit im Daskalow-Haus fort, das für seine exquisiten Holzschnitzereien berühmt ist. Der Nachmittag ist der Kunst gewidmet, mit Besuchen im Museum für Ikonenmalerei und dem ethnographischen Display im Raikow-Haus.\nWenn der Nachmittag in den Abend übergeht, erleben Sie die meisterhafte Handwerkskunst, die diese Stadt definiert. Die kunstvollen Decken und historischen Artefakte erzählen Geschichten von einer vergangenen Ära und bieten einen tiefen Einblick in das kulturelle Erbe Bulgariens.\nBeenden Sie Ihren Tag mit einem gemütlichen Spaziergang entlang des Flusses und denken Sie über die reiche Geschichte und die beständige Schönheit von Trjawna nach. Der letzte Eindruck ist der einer Stadt, die in der Zeit stehen geblieben ist und ihre künstlerische Seele bewahrt hat.",
+        "hu": "A nap Trjavnában a történelmi központ szívében, a Kachaunska negyedben kezdődik. A délelőttöt az ikonikus nevezetességek felfedezésének szenteli: átkel a Púpos hídon, hallgatja az Óratorony harangjátékát, és megcsodálja a Szent Mihály Arkangyal templom spirituális művészetét, mielőtt elmerülne az oktatás történetében a Régi Iskolában.\nDélben tartson szünetet egy kiadós bolgár ebédre. Utána folytassa időutazását a Daskalov-házban, amely híres a gyönyörű fafaragásairól. A délután a művészeté, látogatással az Ikonfestészeti Múzeumban és a Raykov-ház néprajzi kiállításán.\nAhogy a délután estébe fordul, tanúja lesz a várost meghatározó mesteri kézművességnek. A díszes mennyezetek és történelmi tárgyak egy letűnt korról mesélnek, mély betekintést nyújtva Bulgária kulturális örökségébe.\nZárja a napot egy kellemes sétával a folyó mentén, elmélkedve Trjavna gazdag történelmén és maradandó szépségén. Az utolsó benyomás egy olyan városé, amely megállt az időben, megőrizve művészi lelkét.",
+        "ro": "Ziua dvs. în Tryavna începe în inima centrului istoric, cartierul Kachaunska. Dimineața este dedicată explorării reperelor iconice: traversați Podul Cocoșat, ascultați Turnul cu Ceas și admirați arta spirituală la Biserica Sf. Arhanghel Mihail, înainte de a vă cufunda în istoria educației la Școala Veche.\nLa prânz, faceți o pauză pentru o masă bulgărească copioasă. Apoi, continuați călătoria în timp la Casa Daskalov, renumită pentru sculpturile sale rafinate în lemn. După-amiaza este dedicată artei, cu vizite la Muzeul de Pictură a Icoanelor și la expoziția etnografică din Casa Raykov.\nPe măsură ce după-amiaza se transformă în seară, veți fi martorii măiestriei care definește acest oraș. Tavanele ornamentate și artefactele istorice spun povești dintr-o epocă apusă, oferind o perspectivă profundă asupra moștenirii culturale a Bulgariei.\nÎncheiați ziua cu o plimbare relaxantă de-a lungul râului, reflectând la istoria bogată și frumusețea durabilă a orașului Tryavna. Impresia finală este a unui oraș suspendat în timp, care își păstrează sufletul artistic.",
+        "en": "Your day in Tryavna begins in the heart of the historic center, the Kachaunska neighborhood. The morning is for exploring iconic landmarks: crossing the Humpbacked Bridge, listening to the Clock Tower, and admiring the spiritual art at the Church of St. Archangel Michael before delving into educational history at the Old School.\nAt midday, you'll break for a hearty Bulgarian lunch. Afterwards, continue your journey back in time at the Daskalov House, famous for its exquisite wood carvings. The afternoon is dedicated to art, with visits to the Museum of Icon Painting and the ethnographic display at the Raykov House.\nAs afternoon turns to evening, you witness the master craftsmanship that defines this town. The ornate ceilings and historical artifacts tell tales of a bygone era, offering a deep dive into Bulgaria's cultural heritage.\nConclude your day with a leisurely stroll along the river, reflecting on the rich history and enduring beauty of Tryavna. The lasting impression is of a town suspended in time, preserving its artistic soul."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tryavna Salat",
+            "tip": "Eine lokale Variante des Shopska-Salats, oft mit gerösteten Paprika."
+          },
+          {
+            "name": "Kavarma",
+            "tip": "Ein langsam gekochter Fleischeintopf mit Gemüse, serviert in einem Tontopf."
+          },
+          {
+            "name": "Starata Kashta",
+            "tip": "Ein traditionelles Restaurant (Mehana), das für seine authentische Atmosphäre und Gerichte bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trjavnai saláta",
+            "tip": "A sopszka saláta helyi változata, gyakran sült paprikával."
+          },
+          {
+            "name": "Kavarma",
+            "tip": "Lassan főtt húsos-zöldséges egytálétel, agyagedényben tálalva."
+          },
+          {
+            "name": "Starata Kashta",
+            "tip": "Hagyományos étterem (mehana), amely autentikus hangulatáról és ételeiről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Salată Tryavna",
+            "tip": "O variantă locală a salatei Shopska, adesea cu ardei copți."
+          },
+          {
+            "name": "Kavarma",
+            "tip": "O tocană de carne și legume gătită lent, servită într-un vas de lut."
+          },
+          {
+            "name": "Starata Kashta",
+            "tip": "Un restaurant tradițional (mehana) cunoscut pentru atmosfera și mâncărurile sale autentice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tryavna Salad",
+            "tip": "A local take on the Shopska salad, often with roasted peppers."
+          },
+          {
+            "name": "Kavarma",
+            "tip": "A slow-cooked meat and vegetable stew served in a clay pot."
+          },
+          {
+            "name": "Starata Kashta",
+            "tip": "A traditional restaurant (mehana) known for its authentic atmosphere and dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Trjawna",
+            "tip": "Ein friedlicher Spaziergang entlang des Flusses bietet eine ruhige Flucht aus den belebten Straßen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bänke in der Nähe der Alten Schule",
+            "tip": "Finden Sie einen ruhigen Platz, um die Ruhe und die historische Umgebung zu genießen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Trjavna folyó partja",
+            "tip": "Egy békés séta a folyó mentén nyugodt kikapcsolódást nyújt a nyüzsgő utcákból.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Padok a Régi Iskola közelében",
+            "tip": "Találjon egy csendes helyet, hogy élvezze a nyugalmat és a történelmi környezetet.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Tryavna",
+            "tip": "O plimbare liniștită de-a lungul râului oferă o evadare pașnică de pe străzile aglomerate.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bănci lângă Școala Veche",
+            "tip": "Găsiți un loc liniștit pentru a vă bucura de calm și de împrejurimile istorice.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Tryavna River",
+            "tip": "A peaceful walk along the river offers a quiet escape from the busier streets.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Benches near the Old School",
+            "tip": "Find a quiet spot to enjoy the tranquility and the historical surroundings.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handwerkerstraße",
+            "tip": "Entdecken Sie Werkstätten, die die berühmten Holzschnitzereien von Trjawna, Ikonen und andere lokale Handwerke verkaufen."
+          },
+          {
+            "name": "Lokale Souvenirs",
+            "tip": "Suchen Sie nach handgefertigten Holzgegenständen, die das Erbe der Stadt widerspiegeln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves utca",
+            "tip": "Fedezze fel a híres trjavnai fafaragásokat, ikonokat és más helyi kézműves termékeket árusító műhelyeket."
+          },
+          {
+            "name": "Helyi szuvenírek",
+            "tip": "Keressen kézzel készített fa tárgyakat, amelyek a város örökségét tükrözik."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Meșteșugarilor",
+            "tip": "Explorați atelierele care vând celebrele sculpturi în lemn din Tryavna, icoane și alte meșteșuguri locale."
+          },
+          {
+            "name": "Suveniruri locale",
+            "tip": "Căutați obiecte din lemn lucrate manual, care reflectă moștenirea orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crafts Street",
+            "tip": "Explore workshops selling the famous Tryavna woodcarvings, icons, and other local crafts."
+          },
+          {
+            "name": "Local Souvenirs",
+            "tip": "Look for handmade wooden items that reflect the town's heritage."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag über Kopfsteinpflasterstraßen gehen werden.",
+          "Die meisten Sehenswürdigkeiten liegen nahe beieinander, was einen Spaziergang sehr angenehm macht.",
+          "Nehmen Sie sich Zeit, die Details der Wiedergeburtsarchitektur zu bewundern.",
+          "Fragen Sie in den Museen nach Kombitickets, falls verfügbar."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap macskaköves utcákon fog sétálni.",
+          "A legtöbb látnivaló közel van egymáshoz, így a séta nagyon kellemes.",
+          "Szánjon időt az újjászületés kori építészet részleteinek megcsodálására.",
+          "Érdeklődjön a múzeumokban a kombinált jegyekről, ha vannak ilyenek."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge pe străzi pietruite toată ziua.",
+          "Majoritatea atracțiilor sunt apropiate una de cealaltă, ceea ce face plimbarea foarte plăcută.",
+          "Luați-vă timp pentru a admira detaliile arhitecturii renascentiste.",
+          "Întrebați la muzee despre biletele combinate, dacă sunt disponibile."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be walking on cobblestone streets all day.",
+          "Most sights are located close to each other, making for a very pleasant walk.",
+          "Take your time to admire the details in the Revival architecture.",
+          "Ask about combined tickets at the museums if available."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 1.7,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Katschaunska-Viertel",
+            "hu": "Kachaunska negyed",
+            "ro": "Cartierul Kachaunska",
+            "en": "Kachaunska Neighborhood"
+          },
+          "coords": [
+            25.4975,
+            42.8665
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und spazieren Sie durch die Gassen, um die Atmosphäre aufzusaugen.",
+            "hu": "Zárja le a kerékpárját, és sétáljon végig a sikátorokon, hogy magába szívja a hangulatot.",
+            "ro": "Încuiați-vă bicicleta și plimbați-vă pe alei pentru a absorbi atmosfera.",
+            "en": "Lock up your bike and stroll through the alleys to soak in the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Buckelbrücke",
+            "hu": "Púpos híd",
+            "ro": "Podul Cocoșat",
+            "en": "The Humpbacked Bridge"
+          },
+          "coords": [
+            25.4988,
+            42.866
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:37",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie vorsichtig, die Brücke ist nur für Fußgänger, also schieben Sie Ihr Fahrrad hinüber.",
+            "hu": "Óvatosan közlekedjen, a híd gyalogos, ezért tolja át rajta a kerékpárt.",
+            "ro": "Mergeți cu grijă, podul este pietonal, așa că împingeți bicicleta peste el.",
+            "en": "Go carefully, the bridge is pedestrian-only, so walk your bike across."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm",
+            "hu": "Óratorony",
+            "ro": "Turnul cu Ceas",
+            "en": "Clock Tower"
+          },
+          "coords": [
+            25.4992,
+            42.8668
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:54",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein guter Ort, um Ihr Fahrrad kurz abzustellen und die zentrale Platzgegend zu erkunden.",
+            "hu": "Jó hely a kerékpár rövid leparkolására és a központi tér felfedezésére.",
+            "ro": "Un loc bun pentru a vă parca bicicleta pentru scurt timp și a explora zona pieței centrale.",
+            "en": "A good place to park your bike for a bit and explore the central square area."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Erzengels Michael",
+            "hu": "Szent Mihály Arkangyal templom",
+            "ro": "Biserica Sfântul Arhanghel Mihail",
+            "en": "Church of St. Archangel Michael"
+          },
+          "coords": [
+            25.498,
+            42.8675
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Zeigen Sie Respekt, parken Sie Ihr Fahrrad draußen und betreten Sie die Kirche leise.",
+            "hu": "Tanúsítson tiszteletet, parkolja le a kerékpárt kint, és csendben lépjen be a templomba.",
+            "ro": "Arătați respect, parcați bicicleta afară și intrați în biserică în liniște.",
+            "en": "Show respect, park your bike outside and enter the church quietly."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Schule (Schola)",
+            "hu": "Régi Iskola (Schola)",
+            "ro": "Școala Veche (Schola)",
+            "en": "The Old School (Schola)"
+          },
+          "coords": [
+            25.4972,
+            42.8672
+          ],
+          "category": "museums",
+          "arrive_at": "11:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Hier gibt es Fahrradständer. Nehmen Sie sich Zeit für dieses wichtige Museum.",
+            "hu": "Vannak itt kerékpártárolók. Szánjon időt erre a fontos múzeumra.",
+            "ro": "Există suporturi pentru biciclete aici. Luați-vă timp pentru acest muzeu important.",
+            "en": "There are bike racks available here. Take your time for this important museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Daskalow-Haus",
+            "hu": "Daskalov-ház",
+            "ro": "Casa Daskalov",
+            "en": "Daskalov House"
+          },
+          "coords": [
+            25.4955,
+            42.868
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 75,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die schmalen Gassen hier sind reizvoll, aber fahren Sie vorsichtig.",
+            "hu": "A szűk sikátorok itt bájosak, de óvatosan közlekedjen.",
+            "ro": "Străduțele înguste de aici sunt fermecătoare, dar mergeți cu atenție.",
+            "en": "The narrow alleys here are charming, but ride carefully."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Ikonenmalerei",
+            "hu": "Ikonfestészeti Múzeum",
+            "ro": "Muzeul de Pictură a Icoanelor",
+            "en": "Museum of Icon Painting"
+          },
+          "coords": [
+            25.4965,
+            42.8676
+          ],
+          "category": "museums",
+          "arrive_at": "14:22",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein Muss für Kunstliebhaber. Planen Sie genügend Zeit ein, um die Sammlung zu würdigen.",
+            "hu": "A művészetkedvelők számára kötelező. Tervezzen elég időt a gyűjtemény megbecsülésére.",
+            "ro": "O vizită obligatorie pentru iubitorii de artă. Planificați suficient timp pentru a aprecia colecția.",
+            "en": "A must-visit for art lovers. Plan enough time to appreciate the collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Raikow-Haus",
+            "hu": "Raykov-ház",
+            "ro": "Casa Raykov",
+            "en": "Raykov House"
+          },
+          "coords": [
+            25.494,
+            42.8673
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:26",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der letzte Halt bietet einen tiefen Einblick in das bürgerliche Leben der Wiedergeburtszeit.",
+            "hu": "Az utolsó megálló mély betekintést nyújt az újjászületés kori polgári életbe.",
+            "ro": "Ultima oprire oferă o perspectivă profundă asupra vieții burgheze din perioada Renașterii.",
+            "en": "The final stop offers a deep dive into the bourgeois life of the Revival period."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radtag in Trjawna beginnt im historischen Katschaunska-Viertel. Der Vormittag ist eine schnelle Tour zu den Wahrzeichen: Sie rollen zur Buckelbrücke, hören den Uhrturm und halten an der Kirche des Erzengels Michael inne. Die Alte Schule bietet eine längere Pause, um in die bulgarische Geschichte einzutauchen.\nDie Mittagszeit ist perfekt für ein schnelles, aber sättigendes bulgarisches Mittagessen in einer lokalen Mehana. Gestärkt fahren Sie zum Daskalow-Haus, um dessen unglaubliche Holzschnitzereien zu bewundern. Am Nachmittag widmen Sie sich der Kunst im Museum für Ikonenmalerei und dem Raikow-Haus.\nAm späten Nachmittag können Sie die Flexibilität Ihres Fahrrads nutzen, um versteckte Gassen und Handwerksläden zu entdecken. Die kompakte Größe von Trjawna macht das Radfahren einfach und effizient und ermöglicht es Ihnen, mehr in kürzerer Zeit zu sehen.\nBeenden Sie Ihren Tag, indem Sie am Flussufer entlangfahren und die ruhige Abendatmosphäre genießen. Trjawna mit dem Fahrrad zu erkunden, bietet eine einzigartige Mischung aus aktiver Entdeckung und kulturellem Eintauchen.",
+        "hu": "A kerékpáros nap Trjavnában a történelmi Kachaunska negyedben kezdődik. A délelőtt egy gyors körút a nevezetességekhez: elgurul a Púpos hídhoz, meghallgatja az Óratornyot, és megáll a Szent Mihály Arkangyal templomnál. A Régi Iskola hosszabb pihenőt kínál a bolgár történelembe való elmélyüléshez.\nAz ebédidő tökéletes egy gyors, de laktató bolgár ebédre egy helyi mehanában. Megerősödve tekerjen a Daskalov-házhoz, hogy megcsodálja hihetetlen fafaragásait. Délután szentelje magát a művészetnek az Ikonfestészeti Múzeumban és a Raykov-házban.\nKéső délután használja ki a kerékpár rugalmasságát, hogy felfedezze a rejtett sikátorokat és kézműves boltokat. Trjavna kompakt mérete egyszerűvé és hatékonnyá teszi a kerékpározást, lehetővé téve, hogy többet lásson rövidebb idő alatt.\nZárja a napot a folyóparton való kerékpározással, élvezve a csendes esti hangulatot. Trjavna kerékpáros felfedezése az aktív felfedezés és a kulturális elmélyülés egyedülálló keverékét kínálja.",
+        "ro": "Ziua dvs. pe bicicletă în Tryavna începe în cartierul istoric Kachaunska. Dimineața este un tur rapid al reperelor: pedalați până la Podul Cocoșat, ascultați Turnul cu Ceas și opriți-vă la Biserica Sf. Arhanghel Mihail. Școala Veche oferă o pauză mai lungă pentru a pătrunde în istoria bulgară.\nPrânzul este perfect pentru o masă bulgărească rapidă, dar sățioasă, la o mehana locală. Revigorat, mergeți la Casa Daskalov pentru a admira incredibilele sale sculpturi în lemn. După-amiaza este dedicată artei la Muzeul de Pictură a Icoanelor și la Casa Raykov.\nSpre sfârșitul după-amiezii, folosiți flexibilitatea bicicletei pentru a explora alei ascunse și magazine de artizanat. Dimensiunea compactă a orașului Tryavna face ciclismul ușor și eficient, permițându-vă să vedeți mai multe în mai puțin timp.\nÎncheiați ziua pedalând de-a lungul malului râului, bucurându-vă de atmosfera liniștită de seară. Explorarea orașului Tryavna pe bicicletă oferă un amestec unic de descoperire activă și imersiune culturală.",
+        "en": "Your cycling day in Tryavna starts in the historic Kachaunska neighborhood. The morning is a quick tour of landmarks: rolling to the Humpbacked Bridge, hearing the Clock Tower, and pausing at the Church of St. Archangel Michael. The Old School offers a longer break to dive into Bulgarian history.\nLunchtime is perfect for a quick but filling Bulgarian meal at a local mehana. Re-energized, you'll ride to the Daskalov House to admire its incredible woodcarvings. The afternoon is for art at the Museum of Icon Painting and the Raykov House.\nIn the late afternoon, use the flexibility of your bike to explore hidden alleys and craft shops. Tryavna's compact size makes biking easy and efficient, allowing you to see more in less time.\nEnd your day by riding along the riverbank, enjoying the quiet evening atmosphere. Exploring Tryavna by bike offers a unique blend of active discovery and cultural immersion."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tryavna Salat",
+            "tip": "Eine lokale Variante des Shopska-Salats, oft mit gerösteten Paprika."
+          },
+          {
+            "name": "Kavarma",
+            "tip": "Ein langsam gekochter Fleischeintopf mit Gemüse, serviert in einem Tontopf."
+          },
+          {
+            "name": "Starata Kashta",
+            "tip": "Ein traditionelles Restaurant (Mehana), das für seine authentische Atmosphäre und Gerichte bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trjavnai saláta",
+            "tip": "A sopszka saláta helyi változata, gyakran sült paprikával."
+          },
+          {
+            "name": "Kavarma",
+            "tip": "Lassan főtt húsos-zöldséges egytálétel, agyagedényben tálalva."
+          },
+          {
+            "name": "Starata Kashta",
+            "tip": "Hagyományos étterem (mehana), amely autentikus hangulatáról és ételeiről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Salată Tryavna",
+            "tip": "O variantă locală a salatei Shopska, adesea cu ardei copți."
+          },
+          {
+            "name": "Kavarma",
+            "tip": "O tocană de carne și legume gătită lent, servită într-un vas de lut."
+          },
+          {
+            "name": "Starata Kashta",
+            "tip": "Un restaurant tradițional (mehana) cunoscut pentru atmosfera și mâncărurile sale autentice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tryavna Salad",
+            "tip": "A local take on the Shopska salad, often with roasted peppers."
+          },
+          {
+            "name": "Kavarma",
+            "tip": "A slow-cooked meat and vegetable stew served in a clay pot."
+          },
+          {
+            "name": "Starata Kashta",
+            "tip": "A traditional restaurant (mehana) known for its authentic atmosphere and dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Trjawna",
+            "tip": "Ein friedlicher Spaziergang entlang des Flusses bietet eine ruhige Flucht aus den belebten Straßen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bänke in der Nähe der Alten Schule",
+            "tip": "Finden Sie einen ruhigen Platz, um die Ruhe und die historische Umgebung zu genießen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Trjavna folyó partja",
+            "tip": "Egy békés séta a folyó mentén nyugodt kikapcsolódást nyújt a nyüzsgő utcákból.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Padok a Régi Iskola közelében",
+            "tip": "Találjon egy csendes helyet, hogy élvezze a nyugalmat és a történelmi környezetet.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Tryavna",
+            "tip": "O plimbare liniștită de-a lungul râului oferă o evadare pașnică de pe străzile aglomerate.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bănci lângă Școala Veche",
+            "tip": "Găsiți un loc liniștit pentru a vă bucura de calm și de împrejurimile istorice.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Tryavna River",
+            "tip": "A peaceful walk along the river offers a quiet escape from the busier streets.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Benches near the Old School",
+            "tip": "Find a quiet spot to enjoy the tranquility and the historical surroundings.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handwerkerstraße",
+            "tip": "Entdecken Sie Werkstätten, die die berühmten Holzschnitzereien von Trjawna, Ikonen und andere lokale Handwerke verkaufen."
+          },
+          {
+            "name": "Lokale Souvenirs",
+            "tip": "Suchen Sie nach handgefertigten Holzgegenständen, die das Erbe der Stadt widerspiegeln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves utca",
+            "tip": "Fedezze fel a híres trjavnai fafaragásokat, ikonokat és más helyi kézműves termékeket árusító műhelyeket."
+          },
+          {
+            "name": "Helyi szuvenírek",
+            "tip": "Keressen kézzel készített fa tárgyakat, amelyek a város örökségét tükrözik."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Meșteșugarilor",
+            "tip": "Explorați atelierele care vând celebrele sculpturi în lemn din Tryavna, icoane și alte meșteșuguri locale."
+          },
+          {
+            "name": "Suveniruri locale",
+            "tip": "Căutați obiecte din lemn lucrate manual, care reflectă moștenirea orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crafts Street",
+            "tip": "Explore workshops selling the famous Tryavna woodcarvings, icons, and other local crafts."
+          },
+          {
+            "name": "Local Souvenirs",
+            "tip": "Look for handmade wooden items that reflect the town's heritage."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie ein gutes Schloss für Ihr Fahrrad mit.",
+          "Die Kopfsteinpflaster können holprig sein, fahren Sie also langsam in den historischen Bereichen.",
+          "Trjawna ist klein, so dass Sie alle wichtigen Sehenswürdigkeiten leicht mit dem Fahrrad erreichen können.",
+          "Planen Sie, Ihr Fahrrad bei Museumsbesuchen abzuschließen und zu Fuß zu gehen."
+        ],
+        "hu": [
+          "Hozzon magával egy jó lakatot a kerékpárjához.",
+          "A macskakövek rázósak lehetnek, ezért lassan haladjon a történelmi területeken.",
+          "Trjavna kicsi, így kerékpárral könnyedén elérheti az összes fő látnivalót.",
+          "Tervezze meg, hogy a múzeumlátogatások során lezárja a kerékpárt és gyalogol."
+        ],
+        "ro": [
+          "Aduceți un lacăt bun pentru bicicletă.",
+          "Pietrele cubice pot fi denivelate, așa că mergeți încet în zonele istorice.",
+          "Tryavna este mic, așa că puteți ajunge cu ușurință la toate obiectivele principale cu bicicleta.",
+          "Planificați să vă încuiați bicicleta și să mergeți pe jos în timpul vizitelor la muzee."
+        ],
+        "en": [
+          "Bring a good lock for your bike.",
+          "The cobblestones can be bumpy, so ride slowly in the historic areas.",
+          "Tryavna is small, so you can easily reach all the main sights by bike.",
+          "Plan to lock up your bike and walk during museum visits."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 1.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Parkplatz",
+            "hu": "Központi Parkoló",
+            "ro": "Parcare Centrală",
+            "en": "Central Parking"
+          },
+          "coords": [
+            25.495,
+            42.866
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier Ihr Auto für den Tag. Das gesamte historische Zentrum ist ein Fußgängercluster.",
+            "hu": "Parkolja le itt az autóját egész napra. Az egész történelmi központ egy gyalogos zóna.",
+            "ro": "Parcați-vă mașina aici pentru întreaga zi. Întregul centru istoric este un cluster pietonal.",
+            "en": "Park your car here for the day. The entire historic center is one pedestrian cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Katschaunska-Viertel & Buckelbrücke",
+            "hu": "Kachaunska negyed és Púpos híd",
+            "ro": "Cartierul Kachaunska & Podul Cocoșat",
+            "en": "Kachaunska Neighborhood & Humpbacked Bridge"
+          },
+          "coords": [
+            25.4975,
+            42.8665
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Rundgang hier, die beiden Sehenswürdigkeiten liegen direkt nebeneinander.",
+            "hu": "Kezdje itt a gyalogtúrát, a két látnivaló közvetlenül egymás mellett található.",
+            "ro": "Începeți turul pietonal de aici, cele două atracții sunt chiar una lângă alta.",
+            "en": "Start your walking tour here, the two sights are right next to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm & Kirche des Erzengels Michael",
+            "hu": "Óratorony és Szent Mihály Arkangyal templom",
+            "ro": "Turnul cu Ceas & Biserica Sf. Arhanghel Mihail",
+            "en": "Clock Tower & Church of St. Archangel Michael"
+          },
+          "coords": [
+            25.499,
+            42.867
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:10",
+          "stay_min": 65,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden Wahrzeichen bilden das Herz des Platzes. Nehmen Sie sich Zeit für beide.",
+            "hu": "Ez a két nevezetesség alkotja a tér szívét. Szánjon időt mindkettőre.",
+            "ro": "Aceste două repere formează inima pieței. Luați-vă timp pentru ambele.",
+            "en": "These two landmarks form the heart of the square. Take time for both."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Schule (Schola)",
+            "hu": "Régi Iskola (Schola)",
+            "ro": "Școala Veche (Schola)",
+            "en": "The Old School (Schola)"
+          },
+          "coords": [
+            25.4972,
+            42.8672
+          ],
+          "category": "museums",
+          "arrive_at": "11:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz entfernt, beherbergt dieses Museum einen wichtigen Teil der bulgarischen Geschichte.",
+            "hu": "A tértől egy rövid sétára található múzeum a bolgár történelem egy fontos részét őrzi.",
+            "ro": "La o scurtă plimbare de piață, acest muzeu deține o parte importantă a istoriei bulgare.",
+            "en": "A short walk from the square, this museum holds an important piece of Bulgarian history."
+          }
+        },
+        {
+          "name": {
+            "de": "Daskalow-Haus",
+            "hu": "Daskalov-ház",
+            "ro": "Casa Daskalov",
+            "en": "Daskalov House"
+          },
+          "coords": [
+            25.4955,
+            42.868
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 75,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach dem Mittagessen spazieren Sie zu diesem Haus, um die berühmten Sonnen-Decken zu sehen.",
+            "hu": "Ebéd után sétáljon el ehhez a házhoz, hogy megnézze a híres nap-mennyezeteket.",
+            "ro": "După prânz, faceți o plimbare până la această casă pentru a vedea faimoasele tavane solare.",
+            "en": "After lunch, stroll over to this house to see the famous sun ceilings."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Ikonenmalerei",
+            "hu": "Ikonfestészeti Múzeum",
+            "ro": "Muzeul de Pictură a Icoanelor",
+            "en": "Museum of Icon Painting"
+          },
+          "coords": [
+            25.4965,
+            42.8676
+          ],
+          "category": "museums",
+          "arrive_at": "14:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Kunstfertigkeit der Trjawna-Malschule.",
+            "hu": "Csodálja meg a trjavnai festőiskola művészetét.",
+            "ro": "Admirați măiestria școlii de pictură din Tryavna.",
+            "en": "Admire the artistry of the Tryavna painting school."
+          }
+        },
+        {
+          "name": {
+            "de": "Raikow-Haus",
+            "hu": "Raykov-ház",
+            "ro": "Casa Raykov",
+            "en": "Raykov House"
+          },
+          "coords": [
+            25.494,
+            42.8673
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ihr letzter Halt, bevor Sie zu Ihrem Auto zurückkehren. Ein Einblick in das Leben des 19. Jahrhunderts.",
+            "hu": "Az utolsó megálló, mielőtt visszatérne az autójához. Betekintés a 19. századi életbe.",
+            "ro": "Ultima oprire înainte de a vă întoarce la mașină. O incursiune în viața secolului al XIX-lea.",
+            "en": "Your final stop before heading back to your car. A glimpse into 19th-century life."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Sie kommen mit dem Auto in Trjawna an und parken zentral. Der ganze Tag ist ein einziger Spaziergang durch ein lebendiges Museum. Am Vormittag erkunden Sie das historische Herzstück: das Katschaunska-Viertel, die Buckelbrücke, den Uhrturm und die Kirche. Der Höhepunkt ist die Alte Schule, ein Zeugnis der bulgarischen Aufklärung.\nNach einem traditionellen Mittagessen in einer lokalen Mehana geht Ihr Spaziergang weiter. Der Nachmittag ist der berühmten Handwerkskunst von Trjawna gewidmet. Sie besuchen das Daskalow-Haus mit seinen legendären Holzdecken, das Museum für Ikonenmalerei und das Raikow-Haus, um in die Vergangenheit einzutauchen.\nAm späten Nachmittag haben Sie die Freiheit, durch die Handwerkerstraßen zu schlendern, ohne sich um das Parken kümmern zu müssen. Die Cluster-Walking-Philosophie glänzt hier und verwandelt die kleine Stadt in ein einziges, großes, begehbares Erlebnis.\nAm Ende des Tages kehren Sie zu Ihrem Auto zurück, erfüllt von der reichen Kunst und Geschichte, die Sie zu Fuß entdeckt haben. Trjawna mit dem Auto zu besuchen bedeutet Bequemlichkeit bei der Anreise und vollständiges Eintauchen vor Ort.",
+        "hu": "Autóval érkezik Trjavnába, és központilag parkol. Az egész nap egyetlen séta egy élő múzeumon keresztül. Délelőtt felfedezi a történelmi központot: a Kachaunska negyedet, a Púpos hidat, az Óratornyot és a templomot. A csúcspont a Régi Iskola, a bolgár felvilágosodás tanúja.\nEgy helyi mehanában elköltött hagyományos ebéd után folytatódik a séta. A délután Trjavna híres kézművességének van szentelve. Meglátogatja a Daskalov-házat legendás famennyezeteivel, az Ikonfestészeti Múzeumot és a Raykov-házat, hogy elmerüljön a múltban.\nKéső délután szabadon sétálhat a kézműves utcákon anélkül, hogy a parkolás miatt kellene aggódnia. A „cluster-walking” filozófia itt ragyog, a kisvárost egyetlen, nagy, bejárható élménnyé változtatva.\nEste térjen vissza az autójához, tele a gyalogosan felfedezett gazdag művészettel és történelemmel. Trjavna autóval való meglátogatása kényelmes érkezést és teljes helyi elmélyülést jelent.",
+        "ro": "Ajungeți cu mașina în Tryavna și parcați central. Întreaga zi este o singură plimbare printr-un muzeu viu. Dimineața explorați inima istorică: cartierul Kachaunska, Podul Cocoșat, Turnul cu Ceas și biserica. Punctul culminant este Școala Veche, o mărturie a iluminismului bulgar.\nDupă un prânz tradițional la o mehana locală, plimbarea dvs. continuă. După-amiaza este dedicată renumitului meșteșug din Tryavna. Vizitați Casa Daskalov cu tavanele sale legendare din lemn, Muzeul de Pictură a Icoanelor și Casa Raykov pentru o imersiune în trecut.\nSpre sfârșitul după-amiezii, aveți libertatea de a vă plimba pe străzile artizanilor fără a vă face griji cu privire la parcare. Filosofia de „mers pe jos în ciorchine” strălucește aici, transformând micul oraș într-o singură experiență pietonală extinsă.\nLa finalul zilei, vă întoarceți la mașină, plini de bogata artă și istorie pe care le-ați descoperit pe jos. Vizitarea orașului Tryavna cu mașina înseamnă confort la sosire și imersiune totală la fața locului.",
+        "en": "You arrive in Tryavna by car and park centrally. The entire day is a single walking tour through a living museum. In the morning, you explore the historic heart: Kachaunska neighborhood, the Humpbacked Bridge, the Clock Tower, and the church. The highlight is the Old School, a testament to the Bulgarian enlightenment.\nAfter a traditional lunch at a local mehana, your walk continues. The afternoon is dedicated to Tryavna's famed craftsmanship. You'll visit the Daskalov House with its legendary wooden ceilings, the Museum of Icon Painting, and the Raykov House for a deep dive into the past.\nIn the late afternoon, you have the freedom to wander the craft streets without worrying about parking. The cluster-walking philosophy shines here, turning the small town into one large, walkable experience.\nAt the end of the day, you return to your car, filled with the rich art and history you discovered on foot. Visiting Tryavna by car means convenience on arrival and total immersion on-site."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tryavna Salat",
+            "tip": "Eine lokale Variante des Shopska-Salats, oft mit gerösteten Paprika."
+          },
+          {
+            "name": "Kavarma",
+            "tip": "Ein langsam gekochter Fleischeintopf mit Gemüse, serviert in einem Tontopf."
+          },
+          {
+            "name": "Starata Kashta",
+            "tip": "Ein traditionelles Restaurant (Mehana), das für seine authentische Atmosphäre und Gerichte bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trjavnai saláta",
+            "tip": "A sopszka saláta helyi változata, gyakran sült paprikával."
+          },
+          {
+            "name": "Kavarma",
+            "tip": "Lassan főtt húsos-zöldséges egytálétel, agyagedényben tálalva."
+          },
+          {
+            "name": "Starata Kashta",
+            "tip": "Hagyományos étterem (mehana), amely autentikus hangulatáról és ételeiről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Salată Tryavna",
+            "tip": "O variantă locală a salatei Shopska, adesea cu ardei copți."
+          },
+          {
+            "name": "Kavarma",
+            "tip": "O tocană de carne și legume gătită lent, servită într-un vas de lut."
+          },
+          {
+            "name": "Starata Kashta",
+            "tip": "Un restaurant tradițional (mehana) cunoscut pentru atmosfera și mâncărurile sale autentice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tryavna Salad",
+            "tip": "A local take on the Shopska salad, often with roasted peppers."
+          },
+          {
+            "name": "Kavarma",
+            "tip": "A slow-cooked meat and vegetable stew served in a clay pot."
+          },
+          {
+            "name": "Starata Kashta",
+            "tip": "A traditional restaurant (mehana) known for its authentic atmosphere and dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Trjawna",
+            "tip": "Ein friedlicher Spaziergang entlang des Flusses bietet eine ruhige Flucht aus den belebten Straßen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bänke in der Nähe der Alten Schule",
+            "tip": "Finden Sie einen ruhigen Platz, um die Ruhe und die historische Umgebung zu genießen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Trjavna folyó partja",
+            "tip": "Egy békés séta a folyó mentén nyugodt kikapcsolódást nyújt a nyüzsgő utcákból.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Padok a Régi Iskola közelében",
+            "tip": "Találjon egy csendes helyet, hogy élvezze a nyugalmat és a történelmi környezetet.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Tryavna",
+            "tip": "O plimbare liniștită de-a lungul râului oferă o evadare pașnică de pe străzile aglomerate.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bănci lângă Școala Veche",
+            "tip": "Găsiți un loc liniștit pentru a vă bucura de calm și de împrejurimile istorice.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Tryavna River",
+            "tip": "A peaceful walk along the river offers a quiet escape from the busier streets.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Benches near the Old School",
+            "tip": "Find a quiet spot to enjoy the tranquility and the historical surroundings.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handwerkerstraße",
+            "tip": "Entdecken Sie Werkstätten, die die berühmten Holzschnitzereien von Trjawna, Ikonen und andere lokale Handwerke verkaufen."
+          },
+          {
+            "name": "Lokale Souvenirs",
+            "tip": "Suchen Sie nach handgefertigten Holzgegenständen, die das Erbe der Stadt widerspiegeln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves utca",
+            "tip": "Fedezze fel a híres trjavnai fafaragásokat, ikonokat és más helyi kézműves termékeket árusító műhelyeket."
+          },
+          {
+            "name": "Helyi szuvenírek",
+            "tip": "Keressen kézzel készített fa tárgyakat, amelyek a város örökségét tükrözik."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Meșteșugarilor",
+            "tip": "Explorați atelierele care vând celebrele sculpturi în lemn din Tryavna, icoane și alte meșteșuguri locale."
+          },
+          {
+            "name": "Suveniruri locale",
+            "tip": "Căutați obiecte din lemn lucrate manual, care reflectă moștenirea orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crafts Street",
+            "tip": "Explore workshops selling the famous Tryavna woodcarvings, icons, and other local crafts."
+          },
+          {
+            "name": "Local Souvenirs",
+            "tip": "Look for handmade wooden items that reflect the town's heritage."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Finden Sie einen zentralen Parkplatz und lassen Sie das Auto für den Rest des Tages stehen.",
+          "Trjawna ist sehr fußgängerfreundlich, sobald Sie geparkt haben.",
+          "Die Straßen sind eng, daher ist das Fahren im Zentrum nicht zu empfehlen.",
+          "Dies ist ein idealer Tagesausflug, wenn Sie in der Region Gabrowo unterwegs sind."
+        ],
+        "hu": [
+          "Keressen egy központi parkolót, és hagyja ott az autót a nap hátralévő részére.",
+          "Trjavna nagyon gyalogosbarát, miután leparkolt.",
+          "Az utcák szűkek, ezért a központban nem ajánlott vezetni.",
+          "Ideális napos kirándulás, ha a Gabrovo régióban utazik."
+        ],
+        "ro": [
+          "Găsiți o parcare centrală și lăsați mașina acolo pentru restul zilei.",
+          "Tryavna este foarte prietenos cu pietonii odată ce ați parcat.",
+          "Străzile sunt înguste, așa că nu este recomandat să conduceți în centru.",
+          "Aceasta este o excursie de o zi ideală dacă călătoriți în regiunea Gabrovo."
+        ],
+        "en": [
+          "Find a central parking spot and leave the car for the rest of the day.",
+          "Tryavna is very pedestrian-friendly once you have parked.",
+          "The streets are narrow, so driving in the center is not recommended.",
+          "This makes for an ideal day trip if you are traveling in the Gabrovo region."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 1.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Busbahnhof Trjawna",
+            "hu": "Trjavna Buszállomás",
+            "ro": "Autogara Tryavna",
+            "en": "Tryavna Bus Station"
+          },
+          "coords": [
+            25.501,
+            42.87
+          ],
+          "category": "transit",
+          "arrive_at": "09:15",
+          "stay_min": 10,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kommen Sie hier an. Das historische Zentrum ist nur einen kurzen Spaziergang entfernt.",
+            "hu": "Érkezzen ide. A történelmi központ csak egy rövid sétára van.",
+            "ro": "Sosiți aici. Centrul istoric se află la o scurtă plimbare.",
+            "en": "Arrive here. The historic center is just a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Katschaunska-Viertel & Buckelbrücke",
+            "hu": "Kachaunska negyed és Púpos híd",
+            "ro": "Cartierul Kachaunska & Podul Cocoșat",
+            "en": "Kachaunska Neighborhood & Humpbacked Bridge"
+          },
+          "coords": [
+            25.4975,
+            42.8665
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Rundgang hier, die beiden Sehenswürdigkeiten liegen direkt nebeneinander.",
+            "hu": "Kezdje itt a gyalogtúrát, a két látnivaló közvetlenül egymás mellett található.",
+            "ro": "Începeți turul pietonal de aici, cele două atracții sunt chiar una lângă alta.",
+            "en": "Start your walking tour here, the two sights are right next to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm & Kirche des Erzengels Michael",
+            "hu": "Óratorony és Szent Mihály Arkangyal templom",
+            "ro": "Turnul cu Ceas & Biserica Sf. Arhanghel Mihail",
+            "en": "Clock Tower & Church of St. Archangel Michael"
+          },
+          "coords": [
+            25.499,
+            42.867
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:15",
+          "stay_min": 65,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden Wahrzeichen bilden das Herz des Platzes. Nehmen Sie sich Zeit für beide.",
+            "hu": "Ez a két nevezetesség alkotja a tér szívét. Szánjon időt mindkettőre.",
+            "ro": "Aceste două repere formează inima pieței. Luați-vă timp pentru ambele.",
+            "en": "These two landmarks form the heart of the square. Take time for both."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Schule (Schola)",
+            "hu": "Régi Iskola (Schola)",
+            "ro": "Școala Veche (Schola)",
+            "en": "The Old School (Schola)"
+          },
+          "coords": [
+            25.4972,
+            42.8672
+          ],
+          "category": "museums",
+          "arrive_at": "11:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz entfernt, beherbergt dieses Museum einen wichtigen Teil der bulgarischen Geschichte.",
+            "hu": "A tértől egy rövid sétára található múzeum a bolgár történelem egy fontos részét őrzi.",
+            "ro": "La o scurtă plimbare de piață, acest muzeu deține o parte importantă a istoriei bulgare.",
+            "en": "A short walk from the square, this museum holds an important piece of Bulgarian history."
+          }
+        },
+        {
+          "name": {
+            "de": "Daskalow-Haus",
+            "hu": "Daskalov-ház",
+            "ro": "Casa Daskalov",
+            "en": "Daskalov House"
+          },
+          "coords": [
+            25.4955,
+            42.868
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 75,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach dem Mittagessen spazieren Sie zu diesem Haus, um die berühmten Sonnen-Decken zu sehen.",
+            "hu": "Ebéd után sétáljon el ehhez a házhoz, hogy megnézze a híres nap-mennyezeteket.",
+            "ro": "După prânz, faceți o plimbare până la această casă pentru a vedea faimoasele tavane solare.",
+            "en": "After lunch, stroll over to this house to see the famous sun ceilings."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Ikonenmalerei",
+            "hu": "Ikonfestészeti Múzeum",
+            "ro": "Muzeul de Pictură a Icoanelor",
+            "en": "Museum of Icon Painting"
+          },
+          "coords": [
+            25.4965,
+            42.8676
+          ],
+          "category": "museums",
+          "arrive_at": "14:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Kunstfertigkeit der Trjawna-Malschule.",
+            "hu": "Csodálja meg a trjavnai festőiskola művészetét.",
+            "ro": "Admirați măiestria școlii de pictură din Tryavna.",
+            "en": "Admire the artistry of the Tryavna painting school."
+          }
+        },
+        {
+          "name": {
+            "de": "Raikow-Haus",
+            "hu": "Raykov-ház",
+            "ro": "Casa Raykov",
+            "en": "Raykov House"
+          },
+          "coords": [
+            25.494,
+            42.8673
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ihr letzter Halt, bevor Sie zum Busbahnhof zurückkehren. Ein Einblick in das Leben des 19. Jahrhunderts.",
+            "hu": "Az utolsó megálló, mielőtt visszatérne a buszállomásra. Betekintés a 19. századi életbe.",
+            "ro": "Ultima oprire înainte de a vă întoarce la autogară. O incursiune în viața secolului al XIX-lea.",
+            "en": "Your final stop before heading back to the bus station. A glimpse into 19th-century life."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Reise nach Trjawna beginnt mit der Ankunft am Busbahnhof. Von dort aus ist das gesamte historische Zentrum ein einziger, bequemer Fußgänger-Cluster. Am Vormittag spazieren Sie durch die Zeit, vorbei am Uhrturm, über die Buckelbrücke und in die heiligen Hallen der Kirche und der Alten Schule. Die Stadt entfaltet sich vor Ihnen wie ein offenes Geschichtsbuch.\nNach einem Mittagessen, das Sie mit lokalen Aromen stärkt, setzen Sie Ihre Erkundung fort. Der Nachmittag ist eine Hommage an die Kunstfertigkeit Trjawnas, mit Besuchen im Daskalow-Haus, dem Museum für Ikonenmalerei und dem Raikow-Haus. Jeder Ort enthüllt eine weitere Schicht des reichen kulturellen Gefüges der Stadt.\nDie Nutzung öffentlicher Verkehrsmittel für die Anreise nach Trjawna ermöglicht ein stressfreies Erlebnis. Sie müssen sich keine Gedanken über das Fahren oder Parken in den engen historischen Gassen machen. Der gesamte Fokus liegt auf dem Eintauchen in die Atmosphäre der bulgarischen Wiedergeburt.\nAm Ende des Tages kehren Sie zum Busbahnhof zurück, nachdem Sie einen Tag lang durch die Geschichte gewandert sind. Dieser Ansatz kombiniert die Effizienz des öffentlichen Nahverkehrs mit der intimen Freude, eine Stadt zu Fuß zu entdecken.",
+        "hu": "Az utazás Trjavnába a buszállomásra való érkezéssel kezdődik. Onnan az egész történelmi központ egyetlen, kényelmes gyalogos zóna. Délelőtt végigsétál az időben, elhaladva az Óratorony mellett, át a Púpos hídon, és belépve a templom és a Régi Iskola szent csarnokaiba. A város úgy tárul fel előtted, mint egy nyitott történelemkönyv.\nMiután egy helyi ízekkel teli ebéd megerősítette, folytatja a felfedezést. A délután Trjavna művészetének tiszteletére telik, látogatással a Daskalov-házban, az Ikonfestészeti Múzeumban és a Raykov-házban. Minden helyszín egy újabb réteget fed fel a város gazdag kulturális szövetéből.\nA tömegközlekedés használata Trjavnába való utazáshoz stresszmentes élményt tesz lehetővé. Nem kell aggódnia a vezetés vagy a parkolás miatt a szűk történelmi sikátorokban. A teljes fókusz a bolgár újjászületés hangulatába való elmerülésen van.\nA nap végén visszatér a buszállomásra, miután egy egész napot a történelemben sétált. Ez a megközelítés ötvözi a tömegközlekedés hatékonyságát a város gyalogos felfedezésének meghitt örömével.",
+        "ro": "Călătoria dvs. la Tryavna începe cu sosirea la autogară. De acolo, întregul centru istoric este un singur cluster pietonal convenabil. Dimineața vă plimbați prin timp, trecând pe lângă Turnul cu Ceas, peste Podul Cocoșat și în sălile sacre ale bisericii și Școlii Vechi. Orașul se desfășoară în fața dvs. ca o carte de istorie deschisă.\nDupă un prânz care vă încarcă cu arome locale, explorarea continuă. După-amiaza este un omagiu adus măiestriei din Tryavna, cu vizite la Casa Daskalov, Muzeul de Pictură a Icoanelor și Casa Raykov. Fiecare locație dezvăluie un alt strat din bogata tapiserie culturală a orașului.\nUtilizarea transportului public pentru a ajunge la Tryavna permite o experiență fără stres. Nu trebuie să vă faceți griji cu privire la condus sau parcare pe aleile istorice înguste. Întregul accent este pus pe imersiunea în atmosfera Renașterii Bulgare.\nLa sfârșitul zilei, vă întoarceți la autogară după o zi de plimbare prin istorie. Această abordare combină eficiența tranzitului cu bucuria intimă de a descoperi un oraș pe jos.",
+        "en": "Your journey to Tryavna begins by arriving at the bus station. From there, the entire historic center is one convenient pedestrian cluster. In the morning, you'll walk through time, past the Clock Tower, over the Humpbacked Bridge, and into the sacred halls of the church and the Old School. The town unfolds before you like an open history book.\nAfter a lunch that refuels you with local flavors, your exploration continues. The afternoon is a tribute to Tryavna's artistry, with visits to the Daskalov House, the Museum of Icon Painting, and the Raykov House. Each location reveals another layer of the town's rich cultural tapestry.\nUsing transit to get to Tryavna allows for a stress-free experience. You don't have to worry about driving or parking on the narrow historic alleys. The entire focus is on immersing yourself in the atmosphere of the Bulgarian Revival.\nAt the end of the day, you return to the bus station after a full day of wandering through history. This approach combines the efficiency of transit with the intimate joy of discovering a town on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tryavna Salat",
+            "tip": "Eine lokale Variante des Shopska-Salats, oft mit gerösteten Paprika."
+          },
+          {
+            "name": "Kavarma",
+            "tip": "Ein langsam gekochter Fleischeintopf mit Gemüse, serviert in einem Tontopf."
+          },
+          {
+            "name": "Starata Kashta",
+            "tip": "Ein traditionelles Restaurant (Mehana), das für seine authentische Atmosphäre und Gerichte bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trjavnai saláta",
+            "tip": "A sopszka saláta helyi változata, gyakran sült paprikával."
+          },
+          {
+            "name": "Kavarma",
+            "tip": "Lassan főtt húsos-zöldséges egytálétel, agyagedényben tálalva."
+          },
+          {
+            "name": "Starata Kashta",
+            "tip": "Hagyományos étterem (mehana), amely autentikus hangulatáról és ételeiről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Salată Tryavna",
+            "tip": "O variantă locală a salatei Shopska, adesea cu ardei copți."
+          },
+          {
+            "name": "Kavarma",
+            "tip": "O tocană de carne și legume gătită lent, servită într-un vas de lut."
+          },
+          {
+            "name": "Starata Kashta",
+            "tip": "Un restaurant tradițional (mehana) cunoscut pentru atmosfera și mâncărurile sale autentice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tryavna Salad",
+            "tip": "A local take on the Shopska salad, often with roasted peppers."
+          },
+          {
+            "name": "Kavarma",
+            "tip": "A slow-cooked meat and vegetable stew served in a clay pot."
+          },
+          {
+            "name": "Starata Kashta",
+            "tip": "A traditional restaurant (mehana) known for its authentic atmosphere and dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Trjawna",
+            "tip": "Ein friedlicher Spaziergang entlang des Flusses bietet eine ruhige Flucht aus den belebten Straßen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bänke in der Nähe der Alten Schule",
+            "tip": "Finden Sie einen ruhigen Platz, um die Ruhe und die historische Umgebung zu genießen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Trjavna folyó partja",
+            "tip": "Egy békés séta a folyó mentén nyugodt kikapcsolódást nyújt a nyüzsgő utcákból.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Padok a Régi Iskola közelében",
+            "tip": "Találjon egy csendes helyet, hogy élvezze a nyugalmat és a történelmi környezetet.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Tryavna",
+            "tip": "O plimbare liniștită de-a lungul râului oferă o evadare pașnică de pe străzile aglomerate.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bănci lângă Școala Veche",
+            "tip": "Găsiți un loc liniștit pentru a vă bucura de calm și de împrejurimile istorice.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Tryavna River",
+            "tip": "A peaceful walk along the river offers a quiet escape from the busier streets.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Benches near the Old School",
+            "tip": "Find a quiet spot to enjoy the tranquility and the historical surroundings.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handwerkerstraße",
+            "tip": "Entdecken Sie Werkstätten, die die berühmten Holzschnitzereien von Trjawna, Ikonen und andere lokale Handwerke verkaufen."
+          },
+          {
+            "name": "Lokale Souvenirs",
+            "tip": "Suchen Sie nach handgefertigten Holzgegenständen, die das Erbe der Stadt widerspiegeln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves utca",
+            "tip": "Fedezze fel a híres trjavnai fafaragásokat, ikonokat és más helyi kézműves termékeket árusító műhelyeket."
+          },
+          {
+            "name": "Helyi szuvenírek",
+            "tip": "Keressen kézzel készített fa tárgyakat, amelyek a város örökségét tükrözik."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Meșteșugarilor",
+            "tip": "Explorați atelierele care vând celebrele sculpturi în lemn din Tryavna, icoane și alte meșteșuguri locale."
+          },
+          {
+            "name": "Suveniruri locale",
+            "tip": "Căutați obiecte din lemn lucrate manual, care reflectă moștenirea orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crafts Street",
+            "tip": "Explore workshops selling the famous Tryavna woodcarvings, icons, and other local crafts."
+          },
+          {
+            "name": "Local Souvenirs",
+            "tip": "Look for handmade wooden items that reflect the town's heritage."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, besonders für die Rückfahrt.",
+          "Vom Busbahnhof aus ist das Zentrum leicht zu Fuß erreichbar.",
+          "Diese Option ist ideal für diejenigen, die ohne Auto reisen.",
+          "Sobald Sie im Zentrum sind, sind alle Sehenswürdigkeiten zu Fuß erreichbar."
+        ],
+        "hu": [
+          "Ellenőrizze előre a buszmenetrendet, különösen a visszautat.",
+          "A buszállomásról a központ könnyen megközelíthető gyalog.",
+          "Ez a lehetőség ideális azok számára, akik autó nélkül utaznak.",
+          "Miután a központban van, minden látnivaló gyalogosan elérhető."
+        ],
+        "ro": [
+          "Verificați programul autobuzelor în avans, în special pentru călătoria de întoarcere.",
+          "Centrul este ușor accesibil pe jos de la autogară.",
+          "Această opțiune este ideală pentru cei care călătoresc fără mașină.",
+          "Odată ajuns în centru, toate atracțiile sunt la distanță de mers pe jos."
+        ],
+        "en": [
+          "Check the bus schedule in advance, especially for the return trip.",
+          "The center is an easy walk from the bus station.",
+          "This option is ideal for those traveling without a car.",
+          "Once you are in the center, all sights are within walking distance."
+        ]
+      }
+    }
+  }
+}

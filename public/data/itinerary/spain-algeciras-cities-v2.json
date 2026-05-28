@@ -1,0 +1,1286 @@
+{
+  "city_id": "spain-algeciras-cities-v2",
+  "anchor": {
+    "name": "Algeciras",
+    "coords": [
+      -5.451,
+      36.126
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza Alta",
+            "hu": "Plaza Alta",
+            "ro": "Plaza Alta",
+            "en": "Plaza Alta"
+          },
+          "coords": [
+            -5.45,
+            36.13
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die farbenfrohen Kacheln und die zentrale Fontäne, ein beliebter Treffpunkt der Einheimischen.",
+            "hu": "Csodálja meg a színes csempéket és a központi szökőkutat, a helyiek kedvelt találkozóhelyét.",
+            "ro": "Admirați plăcile colorate și fântâna centrală, un loc popular de întâlnire pentru localnici.",
+            "en": "Admire the colorful tiles and the central fountain, a favorite meeting point for locals."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de Nuestra Señora de la Palma",
+            "hu": "Nuestra Señora de la Palma-templom",
+            "ro": "Biserica Nuestra Señora de la Palma",
+            "en": "Church of Our Lady of the Palm"
+          },
+          "coords": [
+            -5.451,
+            36.131
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suchen Sie nach dem barocken Altarbild und den schönen Buntglasfenstern.",
+            "hu": "Keresse a barokk oltárképet és a gyönyörű ólomüveg ablakokat.",
+            "ro": "Căutați altarul baroc și frumoasele vitralii.",
+            "en": "Look for the baroque altarpiece and the beautiful stained-glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Murallas Meriníes",
+            "hu": "Merinida falak",
+            "ro": "Zidurile Merinide",
+            "en": "Merinid Walls"
+          },
+          "coords": [
+            -5.453,
+            36.135
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:34",
+          "stay_min": 60,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Überreste bieten einen Einblick in die mittelalterliche Vergangenheit der Stadt und tolle Fotomotive.",
+            "hu": "A maradványok bepillantást engednek a város középkori múltjába, és remek fotótémát nyújtanak.",
+            "ro": "Rămășițele oferă o privire asupra trecutului medieval al orașului și oportunități excelente de fotografiere.",
+            "en": "The remains offer a glimpse into the city's medieval past and great photo opportunities."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Municipal de Algeciras",
+            "hu": "Algeciras Városi Múzeum",
+            "ro": "Muzeul Municipal din Algeciras",
+            "en": "Municipal Museum of Algeciras"
+          },
+          "coords": [
+            -5.452,
+            36.133
+          ],
+          "category": "museums",
+          "arrive_at": "11:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die archäologische Abteilung, die Funde aus der römischen und phönizischen Zeit zeigt.",
+            "hu": "Koncentráljon a régészeti részlegre, amely a római és föníciai korokból származó leleteket mutatja be.",
+            "ro": "Concentrați-vă pe secțiunea arheologică, care prezintă artefacte din perioadele romană și feniciană.",
+            "en": "Focus on the archaeological section, which showcases finds from the Roman and Phoenician periods."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque María Cristina",
+            "hu": "Mária Krisztina Park",
+            "ro": "Parcul María Cristina",
+            "en": "María Cristina Park"
+          },
+          "coords": [
+            -5.455,
+            36.129
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für eine Mittagspause im Schatten exotischer Bäume.",
+            "hu": "Tökéletes hely egy ebédszünetre az egzotikus fák árnyékában.",
+            "ro": "Un loc perfect pentru o pauză de prânz la umbra copacilor exotici.",
+            "en": "A perfect spot for a lunch break in the shade of exotic trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Algeciras",
+            "hu": "Algeciras kikötője",
+            "ro": "Portul Algeciras",
+            "en": "Port of Algeciras"
+          },
+          "coords": [
+            -5.445,
+            36.125
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beobachten Sie die Fähren, die nach Afrika ablegen – das geschäftige Treiben ist faszinierend.",
+            "hu": "Nézze az Afrikába induló kompokat – a nyüzsgés lenyűgöző.",
+            "ro": "Urmăriți feriboturile care pleacă spre Africa - agitația este fascinantă.",
+            "en": "Watch the ferries departing for Africa – the bustling activity is fascinating."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf der belebten Plaza Alta, dem Herzen von Algeciras, bevor Sie die historische Palma-Kirche und die alten Merinidenmauern erkunden. Nach einem kulturellen Vormittag im Stadtmuseum bietet der María-Cristina-Park eine grüne Oase für eine Mittagspause. Am Nachmittag erleben Sie die maritime Seele der Stadt bei einem Spaziergang durch den riesigen Hafen und beobachten das Kommen und Gehen der Schiffe, die Europa mit Afrika verbinden.",
+        "hu": "Kezdje a napot a nyüzsgő Plaza Altán, Algeciras szívében, mielőtt felfedezné a történelmi Palma-templomot és az ősi Merinida falakat. A városi múzeumban töltött kulturális délelőtt után a Mária Krisztina Park zöld oázist kínál egy ebédszünethez. Délután tapasztalja meg a város tengeri lelkét egy sétával a hatalmas kikötőben, figyelve az Európát Afrikával összekötő hajók jövés-menését.",
+        "ro": "Începeți ziua în vibranta Plaza Alta, inima orașului Algeciras, înainte de a explora istorica Biserică Palma și vechile Ziduri Merinide. După o dimineață culturală la muzeul municipal, Parcul María Cristina oferă o oază de verdeață pentru o pauză de prânz. După-amiaza, experimentați sufletul maritim al orașului cu o plimbare prin portul vast, urmărind navele care leagă Europa de Africa.",
+        "en": "Start your day in the vibrant Plaza Alta, the heart of Algeciras, before exploring the historic Palma Church and the ancient Merinid Walls. After a cultural morning at the municipal museum, the María Cristina Park offers a green oasis for a lunch break. In the afternoon, experience the city's maritime soul with a walk through the vast port, watching the ships connecting Europe and Africa."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pescaíto Frito",
+            "tip": "Probieren Sie eine Auswahl an frittiertem Fisch in einer der vielen Freidurías."
+          },
+          {
+            "name": "Tapas in der Altstadt",
+            "tip": "Barhopping für kleine, köstliche Häppchen wie Gambas al Ajillo oder Boquerones."
+          },
+          {
+            "name": "Restaurante Cepas",
+            "tip": "Bekannt für seine exzellenten Meeresfrüchtegerichte und den Blick auf den Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pescaíto Frito",
+            "tip": "Kóstoljon meg egy válogatást sült halakból a számos 'freiduría' egyikében."
+          },
+          {
+            "name": "Tapas az óvárosban",
+            "tip": "Járja a bárokat és kóstoljon meg apró, finom falatokat, mint a 'gambas al ajillo' vagy a 'boquerones'."
+          },
+          {
+            "name": "Restaurante Cepas",
+            "tip": "Kiváló tengeri ételeiről és a kikötőre nyíló kilátásáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pescaíto Frito",
+            "tip": "Încercați o selecție de pește prăjit la una dintre numeroasele 'freidurías'."
+          },
+          {
+            "name": "Tapas în Orașul Vechi",
+            "tip": "Mergeți din bar în bar pentru porții mici și delicioase, cum ar fi 'gambas al ajillo' sau 'boquerones'."
+          },
+          {
+            "name": "Restaurante Cepas",
+            "tip": "Renumit pentru preparatele sale excelente din fructe de mare și vederea spre port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pescaíto Frito",
+            "tip": "Try a selection of fried fish at one of the many 'freidurías'."
+          },
+          {
+            "name": "Tapas in the Old Town",
+            "tip": "Go bar-hopping for small, delicious bites like 'gambas al ajillo' or 'boquerones'."
+          },
+          {
+            "name": "Restaurante Cepas",
+            "tip": "Known for its excellent seafood dishes and views of the port."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque María Cristina",
+            "tip": "Finden Sie eine ruhige Bank unter den hohen Palmen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick von den Merinidenmauern",
+            "tip": "Ein ruhiger Moment mit Blick über die Dächer der Altstadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spaziergang am Hafenbecken",
+            "tip": "Abseits des Fährterminals ist es ruhiger und man kann die Fischerboote beobachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mária Krisztina Park",
+            "tip": "Keressen egy csendes padot a magas pálmafák alatt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Merinida falakról",
+            "tip": "Egy csendes pillanat az óváros háztetői felett.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Séta a kikötő medencéjénél",
+            "tip": "Távol a kompkikötőtől csendesebb, és megfigyelheti a halászhajókat.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul María Cristina",
+            "tip": "Găsiți o bancă liniștită sub palmierii înalți.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de la Zidurile Merinide",
+            "tip": "Un moment de liniște cu vedere peste acoperișurile orașului vechi.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plimbare lângă bazinul portuar",
+            "tip": "Departe de terminalul de feribot, este mai liniștit și puteți privi bărcile de pescuit.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "María Cristina Park",
+            "tip": "Find a quiet bench under the tall palm trees.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the Merinid Walls",
+            "tip": "A quiet moment overlooking the rooftops of the old town.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stroll by the harbour basin",
+            "tip": "Away from the ferry terminal, it's quieter and you can watch the fishing boats.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Erleben Sie den Trubel eines echten spanischen Marktes und kaufen Sie lokale Produkte."
+          },
+          {
+            "name": "Calle Ancha",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus nationalen Marken und lokalen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Tapasztalja meg egy igazi spanyol piac nyüzsgését és vásároljon helyi termékeket."
+          },
+          {
+            "name": "Calle Ancha",
+            "tip": "A fő bevásárlóutca nemzeti márkák és helyi üzletek keverékével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Experimentați agitația unei piețe spaniole autentice și cumpărați produse locale."
+          },
+          {
+            "name": "Calle Ancha",
+            "tip": "Principala stradă comercială cu un amestec de mărci naționale și magazine locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Experience the hustle and bustle of a real Spanish market and buy local produce."
+          },
+          {
+            "name": "Calle Ancha",
+            "tip": "The main shopping street with a mix of national brands and local shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Planen Sie eine Mittagspause zwischen 14:00 und 16:00 Uhr ein, da viele Geschäfte dann schließen.",
+          "Halten Sie Ausschau nach den vielen beeindruckenden Wandmalereien in der ganzen Stadt.",
+          "Der Hafen ist riesig, konzentrieren Sie sich auf den Bereich in der Nähe des Stadtzentrums, um sich nicht zu verlaufen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros macskakövei egyenetlenek lehetnek.",
+          "Tervezzen ebédszünetet 14:00 és 16:00 között, mivel sok üzlet bezár ebben az időben.",
+          "Figyelje a városban található lenyűgöző falfestményeket.",
+          "A kikötő hatalmas, a városközponthoz közeli részre koncentráljon, hogy ne tévedjen el."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din orașul vechi poate fi denivelat.",
+          "Planificați o pauză de prânz între orele 14:00 și 16:00, deoarece multe magazine se închid atunci.",
+          "Fiți atenți la numeroasele picturi murale impresionante din tot orașul.",
+          "Portul este imens, concentrați-vă pe zona din apropierea centrului orașului pentru a nu vă rătăci."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Plan a lunch break between 2:00 PM and 4:00 PM, as many shops close then.",
+          "Keep an eye out for the many impressive murals throughout the city.",
+          "The port is huge; focus on the area near the city center to avoid getting lost."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:23",
+      "total_km": 15.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza Alta",
+            "hu": "Plaza Alta",
+            "ro": "Plaza Alta",
+            "en": "Plaza Alta"
+          },
+          "coords": [
+            -5.45,
+            36.13
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie hier mit einem Kaffee, bevor Sie auf das Rad steigen.",
+            "hu": "Indítson egy kávéval, mielőtt kerékpárra pattan.",
+            "ro": "Începeți aici cu o cafea înainte de a vă urca pe bicicletă.",
+            "en": "Start here with a coffee before getting on your bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque María Cristina",
+            "hu": "Mária Krisztina Park",
+            "ro": "Parcul María Cristina",
+            "en": "María Cristina Park"
+          },
+          "coords": [
+            -5.455,
+            36.129
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine kurze Radtour durch diesen schönen Park ist ein toller Start in den Tag.",
+            "hu": "Egy rövid biciklitúra ebben a szép parkban remek kezdése a napnak.",
+            "ro": "O scurtă plimbare cu bicicleta prin acest parc frumos este un mod minunat de a începe ziua.",
+            "en": "A short bike ride through this beautiful park is a great way to start the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Algeciras",
+            "hu": "Algeciras kikötője",
+            "ro": "Portul Algeciras",
+            "en": "Port of Algeciras"
+          },
+          "coords": [
+            -5.445,
+            36.125
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie entlang des Hafens, um die schiere Größe der Anlage zu erfassen.",
+            "hu": "Tekerjen végig a kikötő mentén, hogy felfogja a létesítmény méretét.",
+            "ro": "Pedalați de-a lungul portului pentru a înțelege dimensiunea sa impresionantă.",
+            "en": "Cycle along the port to grasp the sheer scale of the facility."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Getares",
+            "hu": "Getares strand",
+            "ro": "Plaja Getares",
+            "en": "Getares Beach"
+          },
+          "coords": [
+            -5.465,
+            36.105
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:18",
+          "stay_min": 180,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein idealer Ort für eine lange Mittagspause, Schwimmen und Entspannen am Meer.",
+            "hu": "Ideális hely egy hosszú ebédszünethez, úszáshoz és pihenéshez a tengerparton.",
+            "ro": "Un loc ideal pentru o pauză lungă de prânz, înot și relaxare la malul mării.",
+            "en": "An ideal spot for a long lunch break, swimming, and relaxing by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro de Punta Carnero",
+            "hu": "Punta Carnero világítótorony",
+            "ro": "Farul din Punta Carnero",
+            "en": "Punta Carnero Lighthouse"
+          },
+          "coords": [
+            -5.438,
+            36.082
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Fahrt hierher ist anspruchsvoll, aber die Aussicht auf die Straße von Gibraltar ist es wert.",
+            "hu": "Az ide vezető út kihívást jelent, de a Gibraltári-szorosra nyíló kilátás megéri.",
+            "ro": "Urcarea până aici este solicitantă, dar priveliștea spre Strâmtoarea Gibraltar merită efortul.",
+            "en": "The ride here is challenging, but the views of the Strait of Gibraltar are worth it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich nach einem Kaffee auf der Plaza Alta aufs Rad. Der Morgen führt Sie durch den grünen María-Cristina-Park und entlang des geschäftigen Hafens. Das Hauptziel ist die Küstenstraße zur Playa de Getares, wo Sie ein ausgedehntes Mittagessen und eine lange Pause am Strand genießen können. Am späten Nachmittag unternehmen Sie die anspruchsvolle, aber lohnende Fahrt zum Leuchtturm von Punta Carnero, um die atemberaubende Aussicht auf die Meerenge zu genießen.",
+        "hu": "Egy kávé után a Plaza Altán pattanjon biciklire. A délelőtt a zöld Mária Krisztina Parkon és a nyüzsgő kikötő mentén vezet. A fő cél a Getares strandra vezető tengerparti út, ahol egy kiadós ebédet és egy hosszú pihenőt élvezhet a parton. Késő délután tegye meg a kihívást jelentő, de annál inkább megérő utat a Punta Carnero világítótoronyhoz, hogy élvezze a szorosra nyíló lélegzetelállító kilátást.",
+        "ro": "Urcați-vă pe bicicletă după o cafea în Plaza Alta. Dimineața vă poartă prin Parcul verde María Cristina și de-a lungul portului aglomerat. Destinația principală este drumul de coastă către Plaja Getares, unde vă puteți bucura de un prânz lung și o pauză relaxantă pe plajă. Spre seară, faceți drumul provocator, dar plin de satisfacții, către Farul Punta Carnero pentru priveliști uimitoare ale strâmtorii.",
+        "en": "Hop on your bike after a coffee in Plaza Alta. The morning takes you through the green María Cristina Park and along the bustling port. The main goal is the coastal road to Getares Beach, where you can enjoy a long lunch and a relaxing break on the sand. In the late afternoon, take the challenging but rewarding ride to the Punta Carnero Lighthouse for stunning views of the strait."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chiringuitos an der Playa de Getares",
+            "tip": "Genießen Sie frische Sardinen (Espetos) und einen kühlen Drink direkt am Strand."
+          },
+          {
+            "name": "Bocadillos für unterwegs",
+            "tip": "Holen Sie sich ein belegtes Brötchen für ein Picknick am Strand."
+          },
+          {
+            "name": "La Esquinita",
+            "tip": "Eine beliebte Tapas-Bar in der Nähe des Hafens, um sich nach der Tour zu stärken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chiringuitók a Getares strandon",
+            "tip": "Élvezze a friss szardíniát (espetos) és egy hideg italt közvetlenül a parton."
+          },
+          {
+            "name": "Bocadillók útközben",
+            "tip": "Vegyen egy szendvicset egy tengerparti piknikhez."
+          },
+          {
+            "name": "La Esquinita",
+            "tip": "Népszerű tapas bár a kikötő közelében, ahol feltöltődhet a túra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chiringuitos pe Plaja Getares",
+            "tip": "Savurați sardine proaspete (espetos) și o băutură rece chiar pe plajă."
+          },
+          {
+            "name": "Bocadillos la pachet",
+            "tip": "Luați un sandviș pentru un picnic pe plajă."
+          },
+          {
+            "name": "La Esquinita",
+            "tip": "Un bar de tapas popular lângă port pentru a vă reîncărca bateriile după tur."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chiringuitos on Getares Beach",
+            "tip": "Enjoy fresh sardines (espetos) and a cool drink right on the beach."
+          },
+          {
+            "name": "Bocadillos to go",
+            "tip": "Grab a sandwich for a picnic on the beach."
+          },
+          {
+            "name": "La Esquinita",
+            "tip": "A popular tapas bar near the port to refuel after your tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Playa de Getares (außerhalb der Stoßzeiten)",
+            "tip": "Ein langer Spaziergang entlang der Wasserlinie ist sehr beruhigend.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Aussichtspunkt am Faro de Punta Carnero",
+            "tip": "Der perfekte Ort, um die Schiffe in der Ferne zu beobachten.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Südlicher Teil des Parque María Cristina",
+            "tip": "Weniger frequentiert und ideal für eine kurze Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Getares strand (csúcsidőn kívül)",
+            "tip": "Egy hosszú séta a vízparton nagyon megnyugtató.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Kilátópont a Punta Carnero világítótoronynál",
+            "tip": "Tökéletes hely a távoli hajók megfigyelésére.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Mária Krisztina Park déli része",
+            "tip": "Kevésbé látogatott és ideális egy rövid szünetre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Getares (în afara orelor de vârf)",
+            "tip": "O plimbare lungă de-a lungul malului apei este foarte liniștitoare.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Punct de belvedere la Farul Punta Carnero",
+            "tip": "Locul perfect pentru a privi navele în depărtare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Partea de sud a Parcului María Cristina",
+            "tip": "Mai puțin frecventată și ideală pentru o scurtă pauză.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Getares Beach (outside of peak hours)",
+            "tip": "A long walk along the waterline is very calming.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Viewpoint at Faro de Punta Carnero",
+            "tip": "The perfect place to watch the ships in the distance.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Southern part of María Cristina Park",
+            "tip": "Less frequented and ideal for a short break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Zustand Ihres Fahrrads, bevor Sie losfahren, insbesondere die Bremsen für die Abfahrt vom Leuchtturm.",
+          "Nehmen Sie viel Wasser mit, besonders für die Fahrt zum Leuchtturm.",
+          "Einige Abschnitte der Küstenstraße haben keinen separaten Radweg, fahren Sie vorsichtig.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, wenn Sie es abstellen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpár állapotát, különösen a fékeket a világítótoronytól való leereszkedéshez.",
+          "Vigyen magával sok vizet, különösen a világítótoronyhoz vezető útra.",
+          "A tengerparti út egyes szakaszain nincs külön kerékpárút, vezessen óvatosan.",
+          "Mindig zárja le jól a kerékpárt, ha leparkolja."
+        ],
+        "ro": [
+          "Verificați starea bicicletei înainte de a pleca, în special frânele pentru coborârea de la far.",
+          "Luați multă apă, mai ales pentru drumul spre far.",
+          "Unele secțiuni ale drumului de coastă nu au o pistă de biciclete separată, conduceți cu prudență.",
+          "Încuietăți întotdeauna bine bicicleta atunci când o parcați."
+        ],
+        "en": [
+          "Check the condition of your bike before you leave, especially the brakes for the descent from the lighthouse.",
+          "Bring plenty of water, especially for the ride to the lighthouse.",
+          "Some sections of the coastal road do not have a separate bike path, ride with care.",
+          "Always lock your bike securely when you park it."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:41",
+      "total_km": 28.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz an den Murallas Meriníes",
+            "hu": "Parkoló a Merinida falaknál",
+            "ro": "Parcare la Zidurile Merinide",
+            "en": "Parking at Merinid Walls"
+          },
+          "coords": [
+            -5.454,
+            36.136
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie die Altstadt zu Fuß. Es ist der erste Cluster des Tages.",
+            "hu": "Parkoljon le itt, és fedezze fel az óvárost gyalog. Ez a nap első klasztere.",
+            "ro": "Parcați aici și explorați centrul vechi pe jos. Acesta este primul cluster al zilei.",
+            "en": "Park here and explore the old town on foot. This is the first cluster of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza Alta",
+            "hu": "Plaza Alta",
+            "ro": "Plaza Alta",
+            "en": "Plaza Alta"
+          },
+          "coords": [
+            -5.45,
+            36.13
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:18",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von den Mauern. Genießen Sie das Ambiente des Platzes.",
+            "hu": "Rövid séta a falaktól. Élvezze a tér hangulatát.",
+            "ro": "O scurtă plimbare de la ziduri. Bucurați-vă de ambianța pieței.",
+            "en": "A short walk from the walls. Enjoy the square's ambiance."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de Nuestra Señora de la Palma",
+            "hu": "Nuestra Señora de la Palma-templom",
+            "ro": "Biserica Nuestra Señora de la Palma",
+            "en": "Church of Our Lady of the Palm"
+          },
+          "coords": [
+            -5.451,
+            36.131
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:47",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt an der Plaza Alta gelegen, ein Muss für Liebhaber sakraler Kunst.",
+            "hu": "Közvetlenül a Plaza Alta mellett található, a szakrális művészet kedvelőinek kötelező.",
+            "ro": "Situată chiar în Plaza Alta, o vizită obligatorie pentru iubitorii de artă sacră.",
+            "en": "Located right on Plaza Alta, a must-see for lovers of sacred art."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Getares",
+            "hu": "Getares strand",
+            "ro": "Plaja Getares",
+            "en": "Getares Beach"
+          },
+          "coords": [
+            -5.465,
+            36.105
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:53",
+          "stay_min": 180,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum zweiten Cluster des Tages. Parken Sie und genießen Sie Strand und Mittagessen.",
+            "hu": "Vezessen a nap második klaszteréhez. Parkoljon le, és élvezze a strandot és az ebédet.",
+            "ro": "Conduceți spre al doilea cluster al zilei. Parcați și bucurați-vă de plajă și prânz.",
+            "en": "Drive to the second cluster of the day. Park and enjoy the beach and lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro de Punta Carnero",
+            "hu": "Punta Carnero világítótorony",
+            "ro": "Farul din Punta Carnero",
+            "en": "Punta Carnero Lighthouse"
+          },
+          "coords": [
+            -5.438,
+            36.082
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 44,
+          "hop_from_prev_km": 20.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Der letzte Cluster. Die Fahrt bietet spektakuläre Ausblicke auf die Küste.",
+            "hu": "Az utolsó klaszter. Az út látványos kilátást nyújt a partvidékre.",
+            "ro": "Ultimul cluster. Drumul oferă vederi spectaculoase ale coastei.",
+            "en": "The final cluster. The drive offers spectacular coastal views."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Straße von Gibraltar",
+            "hu": "Gibraltári-szoros kilátópont",
+            "ro": "Punct de belvedere Strâmtoarea Gibraltar",
+            "en": "Strait of Gibraltar Viewpoint"
+          },
+          "coords": [
+            -5.437,
+            36.081
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang vom Leuchtturm entfernt, mit freiem Blick auf Afrika.",
+            "hu": "Csak egy rövid sétára a világítótoronytól, tiszta kilátással Afrikára.",
+            "ro": "La o scurtă plimbare de far, cu vederi clare spre Africa.",
+            "en": "Just a short walk from the lighthouse, with clear views of Africa."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit dem Auto am ersten Cluster: Parken Sie bei den Merinidenmauern und erkunden Sie die historische Altstadt mit der Plaza Alta und der Palma-Kirche zu Fuß. Mittags fahren Sie zum zweiten Cluster, der Playa de Getares, für ein entspanntes Mittagessen und eine lange Pause am Meer. Der Nachmittag ist für den dritten Cluster reserviert: eine malerische Fahrt zum Leuchtturm von Punta Carnero, wo Sie zu Fuß einen Aussichtspunkt mit einem unvergesslichen Blick auf die Straße von Gibraltar und die Küste Afrikas erreichen.",
+        "hu": "A napja autóval kezdődik az első klaszternél: parkoljon a Merinida falaknál, és fedezze fel gyalog a történelmi óvárost a Plaza Altával és a Palma-templommal. Délben vezessen a második klaszterhez, a Getares strandhoz, egy pihentető ebédre és egy hosszú tengerparti szünetre. A délután a harmadik klaszteré: egy festői autózás a Punta Carnero világítótoronyhoz, ahonnan gyalog elér egy kilátópontot, ahonnan felejthetetlen kilátás nyílik a Gibraltári-szorosra és Afrika partjaira.",
+        "ro": "Ziua dvs. începe cu mașina la primul cluster: parcați lângă Zidurile Merinide și explorați centrul vechi istoric, cu Plaza Alta și Biserica Palma, pe jos. La prânz, conduceți spre al doilea cluster, Plaja Getares, pentru un prânz relaxant și o pauză lungă la malul mării. După-amiaza este rezervată celui de-al treilea cluster: un drum pitoresc către Farul Punta Carnero, de unde puteți ajunge pe jos la un punct de belvedere cu o priveliște de neuitat asupra Strâmtorii Gibraltar și a coastei Africii.",
+        "en": "Your day starts by car at the first cluster: park near the Merinid Walls and explore the historic old town, including Plaza Alta and Palma Church, on foot. At noon, drive to the second cluster, Getares Beach, for a relaxing lunch and a long break by the sea. The afternoon is reserved for the third cluster: a scenic drive to the Punta Carnero Lighthouse, from where you can walk to a viewpoint with an unforgettable view of the Strait of Gibraltar and the coast of Africa."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Venta El Pelayo",
+            "tip": "Ein traditionelles Restaurant auf dem Weg nach Punta Carnero, bekannt für Wildgerichte."
+          },
+          {
+            "name": "Restaurante El Faro",
+            "tip": "Spektakuläre Aussicht und frischer Fisch in der Nähe des Leuchtturms."
+          },
+          {
+            "name": "Casa Ruda (Altstadt)",
+            "tip": "Authentische andalusische Küche, perfekt für das Abendessen nach der Rückkehr."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Venta El Pelayo",
+            "tip": "Hagyományos étterem a Punta Carnero felé vezető úton, vadhúsételeiről ismert."
+          },
+          {
+            "name": "Restaurante El Faro",
+            "tip": "Látványos kilátás és friss hal a világítótorony közelében."
+          },
+          {
+            "name": "Casa Ruda (Óváros)",
+            "tip": "Autentikus andalúz konyha, tökéletes vacsorára a visszatérés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Venta El Pelayo",
+            "tip": "Un restaurant tradițional pe drumul spre Punta Carnero, renumit pentru preparatele din vânat."
+          },
+          {
+            "name": "Restaurante El Faro",
+            "tip": "Vederi spectaculoase și pește proaspăt lângă far."
+          },
+          {
+            "name": "Casa Ruda (Centrul Vechi)",
+            "tip": "Bucătărie andaluză autentică, perfectă pentru cină după întoarcere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Venta El Pelayo",
+            "tip": "A traditional restaurant on the way to Punta Carnero, known for game dishes."
+          },
+          {
+            "name": "Restaurante El Faro",
+            "tip": "Spectacular views and fresh fish near the lighthouse."
+          },
+          {
+            "name": "Casa Ruda (Old Town)",
+            "tip": "Authentic Andalusian cuisine, perfect for dinner after your return."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Faro de Punta Carnero",
+            "tip": "Der Wind und die Weite des Meeres schaffen eine friedliche Atmosphäre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spaziergang am südlichen Ende der Playa de Getares",
+            "tip": "Weniger Menschen und ein schöner Blick auf den Felsen von Gibraltar.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Merinidenmauern am frühen Morgen",
+            "tip": "Genießen Sie die Ruhe, bevor die Stadt erwacht.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Punta Carnero világítótorony",
+            "tip": "A szél és a tenger tágassága békés légkört teremt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Séta a Getares strand déli végén",
+            "tip": "Kevesebb ember és gyönyörű kilátás a Gibraltári sziklára.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Merinida falak kora reggel",
+            "tip": "Élvezze a csendet, mielőtt a város felébred.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Farul din Punta Carnero",
+            "tip": "Vântul și imensitatea mării creează o atmosferă pașnică.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plimbare la capătul sudic al Plajei Getares",
+            "tip": "Mai puțini oameni și o priveliște frumoasă a Stâncii Gibraltar.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Zidurile Merinide dimineața devreme",
+            "tip": "Bucurați-vă de liniște înainte ca orașul să se trezească.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Punta Carnero Lighthouse",
+            "tip": "The wind and the vastness of the sea create a peaceful atmosphere.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Walk at the southern end of Getares Beach",
+            "tip": "Fewer people and a beautiful view of the Rock of Gibraltar.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Merinid Walls in the early morning",
+            "tip": "Enjoy the quiet before the city wakes up.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten und -gebühren im Voraus, besonders in der Nähe der Altstadt.",
+          "Die Straße zum Faro de Punta Carnero ist eng und kurvenreich. Fahren Sie vorsichtig.",
+          "Ein GPS ist unerlässlich, um sich zwischen den Clustern zurechtzufinden.",
+          "Planen Sie zusätzliche Zeit für den Verkehr ein, insbesondere in der Nähe des Hafens."
+        ],
+        "hu": [
+          "Előre tájékozódjon a parkolási lehetőségekről és díjakról, különösen az óváros közelében.",
+          "A Faro de Punta Carneróhoz vezető út szűk és kanyargós. Vezessen óvatosan.",
+          "A GPS elengedhetetlen a klaszterek közötti navigáláshoz.",
+          "Tervezzen plusz időt a forgalomra, különösen a kikötő közelében."
+        ],
+        "ro": [
+          "Verificați opțiunile de parcare și taxele în avans, mai ales în apropierea centrului vechi.",
+          "Drumul spre Farul din Punta Carnero este îngust și șerpuit. Conduceți cu atenție.",
+          "Un GPS este esențial pentru a naviga între clustere.",
+          "Planificați timp suplimentar pentru trafic, în special în apropierea portului."
+        ],
+        "en": [
+          "Check parking options and fees in advance, especially near the old town.",
+          "The road to Faro de Punta Carnero is narrow and winding. Drive carefully.",
+          "A GPS is essential for navigating between the clusters.",
+          "Plan extra time for traffic, especially near the port."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:29",
+      "total_km": 11.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza Alta",
+            "hu": "Plaza Alta",
+            "ro": "Plaza Alta",
+            "en": "Plaza Alta"
+          },
+          "coords": [
+            -5.45,
+            36.13
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie am zentralen Busknotenpunkt in der Nähe und gehen Sie zu Fuß zum Platz.",
+            "hu": "Kezdje a közeli központi buszmegállónál, és sétáljon a térre.",
+            "ro": "Începeți de la nodul central de autobuz din apropiere și mergeți pe jos până în piață.",
+            "en": "Start at the central bus hub nearby and walk to the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de Nuestra Señora de la Palma",
+            "hu": "Nuestra Señora de la Palma-templom",
+            "ro": "Biserica Nuestra Señora de la Palma",
+            "en": "Church of Our Lady of the Palm"
+          },
+          "coords": [
+            -5.451,
+            36.131
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die engen Gassen der Altstadt.",
+            "hu": "Rövid séta az óváros szűk utcáin.",
+            "ro": "O scurtă plimbare pe străzile înguste ale orașului vechi.",
+            "en": "A short walk through the narrow streets of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Municipal de Algeciras",
+            "hu": "Algeciras Városi Múzeum",
+            "ro": "Muzeul Municipal din Algeciras",
+            "en": "Municipal Museum of Algeciras"
+          },
+          "coords": [
+            -5.452,
+            36.133
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der erste Cluster des Tages endet hier mit einem tiefen Einblick in die Geschichte.",
+            "hu": "A nap első klasztere itt ér véget egy mély betekintéssel a történelembe.",
+            "ro": "Primul cluster al zilei se încheie aici cu o incursiune profundă în istorie.",
+            "en": "The first cluster of the day ends here with a deep dive into history."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque María Cristina",
+            "hu": "Mária Krisztina Park",
+            "ro": "Parcul María Cristina",
+            "en": "María Cristina Park"
+          },
+          "coords": [
+            -5.455,
+            36.129
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum zweiten Cluster. Der Park ist ideal für die Mittagspause.",
+            "hu": "Vegyen egy buszt a második klaszterhez. A park ideális az ebédszünethez.",
+            "ro": "Luați un autobuz către al doilea cluster. Parcul este ideal pentru pauza de prânz.",
+            "en": "Take a bus to the second cluster. The park is ideal for a lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Algeciras",
+            "hu": "Algeciras kikötője",
+            "ro": "Portul Algeciras",
+            "en": "Port of Algeciras"
+          },
+          "coords": [
+            -5.445,
+            36.125
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Park aus ist es ein kurzer Spaziergang, um das maritime Treiben zu beobachten.",
+            "hu": "A parkból egy rövid sétával elérhető, hogy megnézze a tengeri nyüzsgést.",
+            "ro": "Din parc, este o scurtă plimbare pentru a observa activitatea maritimă.",
+            "en": "From the park, it's a short walk to observe the maritime activity."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Getares",
+            "hu": "Getares strand",
+            "ro": "Plaja Getares",
+            "en": "Getares Beach"
+          },
+          "coords": [
+            -5.465,
+            36.105
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:00",
+          "stay_min": 180,
+          "hop_from_prev_min": 34,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der letzte Bus bringt Sie zum Strand für einen langen, entspannten Nachmittag.",
+            "hu": "Az utolsó busz a strandra visz egy hosszú, pihentető délutánra.",
+            "ro": "Ultimul autobuz vă duce la plajă pentru o după-amiază lungă și relaxantă.",
+            "en": "The final bus takes you to the beach for a long, relaxing afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt im Zentrum von Algeciras, wo Sie den ersten Cluster aus Plaza Alta, Kirche und Museum zu Fuß erkunden. Ein kurzer Bus bringt Sie dann zum zweiten Cluster, dem María-Cristina-Park für eine Mittagspause, gefolgt von einem Spaziergang zum geschäftigen Hafen. Der letzte Bus des Tages bringt Sie zum dritten Cluster, der Playa de Getares. Hier können Sie den Rest des Nachmittags mit Sonnenbaden, Schwimmen und Entspannen am Mittelmeer verbringen.",
+        "hu": "A nap Algeciras központjában kezdődik, ahol gyalog fedezi fel az első klasztert, a Plaza Altát, a templomot és a múzeumot. Egy rövid buszút után a második klaszterhez, a Mária Krisztina Parkhoz érkezik egy ebédszünetre, majd egy sétát tesz a nyüzsgő kikötőbe. A nap utolsó busza a harmadik klaszterhez, a Getares strandhoz viszi. Itt töltheti a délután hátralévő részét napozással, úszással és pihenéssel a Földközi-tenger partján.",
+        "ro": "Ziua începe în centrul orașului Algeciras, explorând pe jos primul cluster format din Plaza Alta, biserică și muzeu. O scurtă călătorie cu autobuzul vă duce apoi la al doilea cluster, Parcul María Cristina, pentru o pauză de prânz, urmată de o plimbare până la portul aglomerat. Ultimul autobuz al zilei vă duce la al treilea cluster, Plaja Getares. Aici vă puteți petrece restul după-amiezii făcând plajă, înotând și relaxându-vă la Marea Mediterană.",
+        "en": "The day begins in the center of Algeciras, exploring the first cluster of Plaza Alta, the church, and the museum on foot. A short bus ride then takes you to the second cluster, María Cristina Park for a lunch break, followed by a walk to the bustling port. The last bus of the day takes you to the third cluster, Getares Beach. Here you can spend the rest of the afternoon sunbathing, swimming, and relaxing by the Mediterranean."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tapas-Bars um die Plaza Alta",
+            "tip": "Ideal für ein schnelles Mittagessen zwischen den Besichtigungen des ersten Clusters."
+          },
+          {
+            "name": "Restaurante La Paletilla",
+            "tip": "Bietet eine große Auswahl an Meeresfrüchten und liegt in der Nähe des Hafens."
+          },
+          {
+            "name": "Chiringuito an der Playa de Getares",
+            "tip": "Perfekt für einen Drink oder einen Snack mit den Füßen im Sand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tapas bárok a Plaza Alta körül",
+            "tip": "Ideális egy gyors ebédre az első klaszter látnivalói között."
+          },
+          {
+            "name": "Restaurante La Paletilla",
+            "tip": "Széles tengeri ételválasztékot kínál, és a kikötő közelében található."
+          },
+          {
+            "name": "Chiringuito a Getares strandon",
+            "tip": "Tökéletes egy italra vagy egy snackre, miközben a lábát a homokba dugja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Baruri de tapas în jurul Plaza Alta",
+            "tip": "Ideal pentru un prânz rapid între vizitele din primul cluster."
+          },
+          {
+            "name": "Restaurante La Paletilla",
+            "tip": "Oferă o mare varietate de fructe de mare și este situat în apropierea portului."
+          },
+          {
+            "name": "Chiringuito pe Plaja Getares",
+            "tip": "Perfect pentru o băutură sau o gustare cu picioarele în nisip."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tapas bars around Plaza Alta",
+            "tip": "Ideal for a quick lunch between sightseeing in the first cluster."
+          },
+          {
+            "name": "Restaurante La Paletilla",
+            "tip": "Offers a wide variety of seafood and is located near the port."
+          },
+          {
+            "name": "Chiringuito on Getares Beach",
+            "tip": "Perfect for a drink or a snack with your feet in the sand."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Botanischer Garten im Parque María Cristina",
+            "tip": "Ein versteckter und ruhiger Teil des Parks.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ende der Mole am Hafen",
+            "tip": "Gehen Sie so weit wie möglich, um dem Lärm zu entkommen und die Aussicht zu genießen.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Sonnenuntergang an der Playa de Getares",
+            "tip": "Bleiben Sie bis zum Abend, um die friedliche Atmosphäre zu erleben.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Botanikus kert a Mária Krisztina Parkban",
+            "tip": "A park egy rejtett és csendes része.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A móló vége a kikötőben",
+            "tip": "Menjen ameddig csak lehet, hogy elkerülje a zajt és élvezze a kilátást.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Naplemente a Getares strandon",
+            "tip": "Maradjon estig, hogy megtapasztalja a békés légkört.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică din Parcul María Cristina",
+            "tip": "O parte ascunsă și liniștită a parcului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Capătul digului din port",
+            "tip": "Mergeți cât de departe puteți pentru a scăpa de zgomot și a vă bucura de priveliște.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Apus de soare pe Plaja Getares",
+            "tip": "Rămâneți până seara pentru a experimenta atmosfera pașnică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Botanical Garden in María Cristina Park",
+            "tip": "A hidden and quiet part of the park.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "End of the pier at the port",
+            "tip": "Walk as far as you can to escape the noise and enjoy the view.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Sunset at Getares Beach",
+            "tip": "Stay until the evening to experience the peaceful atmosphere.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine wiederaufladbare Buskarte (Tarjeta Monedero) für günstigere Tarife.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, insbesondere für die letzte Rückfahrt vom Strand.",
+          "Die meisten Busse sind klimatisiert, was an heißen Tagen eine willkommene Abwechslung ist.",
+          "Halten Sie Kleingeld für Bustickets bereit, wenn Sie keine Karte haben."
+        ],
+        "hu": [
+          "Vásároljon feltölthető buszkártyát (Tarjeta Monedero) az olcsóbb viteldíjakért.",
+          "Előre ellenőrizze a buszmenetrendet, különösen az utolsó visszajáratot a strandról.",
+          "A legtöbb busz légkondicionált, ami kellemes felüdülést jelent a forró napokon.",
+          "Tartson aprópénzt a buszjegyekhez, ha nincs kártyája."
+        ],
+        "ro": [
+          "Cumpărați un card de autobuz reîncărcabil (Tarjeta Monedero) pentru tarife mai ieftine.",
+          "Verificați orarele autobuzelor în avans, în special pentru ultima călătorie de întoarcere de la plajă.",
+          "Majoritatea autobuzelor au aer condiționat, ceea ce este o pauză binevenită în zilele toride.",
+          "Păstrați mărunțiș pentru biletele de autobuz dacă nu aveți card."
+        ],
+        "en": [
+          "Buy a rechargeable bus card (Tarjeta Monedero) for cheaper fares.",
+          "Check the bus schedules in advance, especially for the last return trip from the beach.",
+          "Most buses are air-conditioned, which is a welcome break on hot days.",
+          "Keep small change ready for bus tickets if you don't have a card."
+        ]
+      }
+    }
+  }
+}

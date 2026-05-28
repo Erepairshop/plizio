@@ -1,0 +1,1184 @@
+{
+  "city_id": "austria-hallein-cities-v2",
+  "anchor": {
+    "name": "Hallein",
+    "coords": [
+      13.0953,
+      47.6833
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bayrhamerplatz",
+            "hu": "Bayrhamerplatz",
+            "ro": "Piața Bayrhamer",
+            "en": "Bayrhamerplatz"
+          },
+          "coords": [
+            13.0958,
+            47.6841
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Kaffee in einem der charmanten Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik hangulatos kávézójában.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele fermecătoare din piață.",
+            "en": "Start your day with a coffee at one of the charming cafés on the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche Hallein",
+            "hu": "Halleini városi plébániatemplom",
+            "ro": "Biserica parohială Hallein",
+            "en": "Hallein Parish Church"
+          },
+          "coords": [
+            13.0965,
+            47.6835
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die gotischen Fresken und den barocken Hochaltar.",
+            "hu": "Keresse a gótikus freskókat és a barokk főoltárt.",
+            "ro": "Fiți atenți la frescele gotice și la altarul baroc.",
+            "en": "Look for the Gothic frescoes and the Baroque high altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Stille-Nacht-Platz & Gruber-Museum",
+            "hu": "Csendes Éj tér és Gruber Múzeum",
+            "ro": "Piața Stille Nacht și Muzeul Gruber",
+            "en": "Silent Night Square & Gruber Museum"
+          },
+          "coords": [
+            13.0972,
+            47.6819
+          ],
+          "category": "museums",
+          "arrive_at": "10:29",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum befindet sich im ehemaligen Wohnhaus von Franz Xaver Gruber.",
+            "hu": "A múzeum Franz Xaver Gruber egykori lakóházában található.",
+            "ro": "Muzeul este situat în fosta casă a lui Franz Xaver Gruber.",
+            "en": "The museum is located in the former home of Franz Xaver Gruber."
+          }
+        },
+        {
+          "name": {
+            "de": "Keltenmuseum Hallein",
+            "hu": "Halleini Kelta Múzeum",
+            "ro": "Muzeul Celților din Hallein",
+            "en": "Celtic Museum Hallein"
+          },
+          "coords": [
+            13.0945,
+            47.6828
+          ],
+          "category": "museums",
+          "arrive_at": "11:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie genug Zeit für die interaktiven Ausstellungen zur Salzgeschichte ein.",
+            "hu": "Szánjon elég időt a sótörténeti interaktív kiállításokra.",
+            "ro": "Planificați suficient timp pentru expozițiile interactive despre istoria sării.",
+            "en": "Plan enough time for the interactive exhibits on the history of salt."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang an der Stadtmauer",
+            "hu": "Séta a városfal mentén",
+            "ro": "Plimbare de-a lungul zidului orașului",
+            "en": "Walk along the City Wall"
+          },
+          "coords": [
+            13.0921,
+            47.6855
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:37",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der beste Abschnitt befindet sich entlang der Salzach mit Blick auf den Fluss.",
+            "hu": "A legjobb szakasz a Salzach mentén található, kilátással a folyóra.",
+            "ro": "Cea mai bună secțiune este de-a lungul râului Salzach, cu vedere la râu.",
+            "en": "The best section is along the Salzach river with a view of the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Pernerinsel",
+            "hu": "Perner-sziget",
+            "ro": "Insula Perner",
+            "en": "Perner Island"
+          },
+          "coords": [
+            13.0988,
+            47.6865
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:02",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie, ob während Ihres Besuchs eine Veranstaltung der Salzburger Festspiele stattfindet.",
+            "hu": "Ellenőrizze, hogy tartanak-e valamilyen rendezvényt a Salzburgi Ünnepi Játékok keretében.",
+            "ro": "Verificați dacă există un eveniment al Festivalului de la Salzburg în timpul vizitei dvs.",
+            "en": "Check if there's a Salzburg Festival event happening during your visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Hallein am Bayrhamerplatz. Nach einem Blick in die ehrwürdige Stadtpfarrkirche tauchen Sie in die Geschichte des berühmtesten Weihnachtsliedes der Welt im Gruber-Museum ein. Am Mittag erwartet Sie eine faszinierende Reise in die Welt der Kelten und des „weißen Goldes“. Erkunden Sie die prähistorische Vergangenheit der Region im Keltenmuseum, einem der bedeutendsten Museen für Eisenzeit in Europa. Nach dem Mittagessen führt Sie ein entspannter Spaziergang entlang der alten Stadtmauer und der Salzach. Den Nachmittag verbringen Sie auf der Pernerinsel, einem industriellen Juwel, das sich in ein Kulturzentrum verwandelt hat. Genießen Sie die einzigartige Atmosphäre, bevor Sie den Tag in einem der lokalen Gasthäuser ausklingen lassen.",
+        "hu": "Kezdje a napot Hallein szívében, a Bayrhamerplatzon. Miután megtekintette a tiszteletreméltó városi templomot, merüljön el a világ leghíresebb karácsonyi énekének történetében a Gruber Múzeumban. Délben egy lenyűgöző utazás vár a kelták és a „fehér arany” világába. Fedezze fel a régió őskori múltját a Kelta Múzeumban, Európa egyik legjelentősebb vaskori múzeumában. Ebéd után egy kellemes séta vezet a régi városfal és a Salzach folyó mentén. A délutánt a Perner-szigeten tölti, egy ipari gyöngyszemen, amely kulturális központtá alakult. Élvezze az egyedi atmoszférát, mielőtt a napot egy helyi vendéglőben zárja.",
+        "ro": "Începeți ziua în inima orașului Hallein, în Bayrhamerplatz. După o vizită la venerabila biserică parohială, scufundați-vă în istoria celui mai faimos colind de Crăciun din lume la Muzeul Gruber. La prânz, vă așteaptă o călătorie fascinantă în lumea celților și a „aurului alb”. Explorați trecutul preistoric al regiunii la Muzeul Celților, unul dintre cele mai importante muzee ale epocii fierului din Europa. După prânz, o plimbare relaxantă vă va duce de-a lungul vechiului zid al orașului și al râului Salzach. Petreceți după-amiaza pe Insula Perner, o bijuterie industrială transformată într-un centru cultural. Bucurați-vă de atmosfera unică înainte de a încheia ziua la una dintre tavernele locale.",
+        "en": "Start your day in the heart of Hallein at Bayrhamerplatz. After a look inside the venerable parish church, delve into the history of the world's most famous Christmas carol at the Gruber Museum. At midday, a fascinating journey into the world of the Celts and the \"white gold\" awaits. Explore the region's prehistoric past at the Celtic Museum, one of Europe's most important museums for the Iron Age. After lunch, a relaxing walk takes you along the old city wall and the Salzach River. Spend the afternoon on Perner Island, an industrial gem turned cultural center. Enjoy the unique atmosphere before ending the day at one of the local inns."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gasthof Hohlwegwirt",
+            "tip": "Traditionelle österreichische Küche in einem historischen Ambiente."
+          },
+          {
+            "name": "Stadtkrug",
+            "tip": "Probieren Sie das Salzburger Bierfleisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gasthof Hohlwegwirt",
+            "tip": "Hagyományos osztrák konyha történelmi környezetben."
+          },
+          {
+            "name": "Stadtkrug",
+            "tip": "Kóstolja meg a salzburgi sörös marhát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gasthof Hohlwegwirt",
+            "tip": "Bucătărie tradițională austriacă într-un cadru istoric."
+          },
+          {
+            "name": "Stadtkrug",
+            "tip": "Încercați 'Bierfleisch' (carne de vită în sos de bere) de Salzburg."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gasthof Hohlwegwirt",
+            "tip": "Traditional Austrian cuisine in a historic setting."
+          },
+          {
+            "name": "Stadtkrug",
+            "tip": "Try the Salzburger Bierfleisch (beef in beer sauce)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Salzach-Ufer",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses, besonders am späten Nachmittag.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bürgerspitalkirche St. Martin",
+            "tip": "Eine kleine, oft übersehene Kirche für einen Moment der Stille.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Salzach-part",
+            "tip": "Egy csendes séta a folyó mentén, különösen késő délután.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bürgerspitalkirche St. Martin",
+            "tip": "Egy kicsi, gyakran figyelmen kívül hagyott templom egy csendes pillanatra.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Salzach",
+            "tip": "O plimbare liniștită de-a lungul râului, mai ales după-amiaza târziu.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Biserica spitalului St. Martin",
+            "tip": "O biserică mică, adesea trecută cu vederea, pentru un moment de liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Salzach Riverbank",
+            "tip": "A quiet walk along the river, especially in the late afternoon.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bürgerspitalkirche St. Martin",
+            "tip": "A small, often overlooked church for a moment of silence.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt Hallein",
+            "tip": "Finden Sie lokale Produkte und Spezialitäten (normalerweise freitags)."
+          },
+          {
+            "name": "Salz-Souvenirs",
+            "tip": "In den Geschäften rund um das Keltenmuseum gibt es viele salzbezogene Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halleini heti piac",
+            "tip": "Keressen helyi termékeket és specialitásokat (általában péntekenként)."
+          },
+          {
+            "name": "Sószuvenírek",
+            "tip": "A Kelta Múzeum körüli boltokban számos, sóval kapcsolatos emléktárgyat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală din Hallein",
+            "tip": "Găsiți produse locale și specialități (de obicei vinerea)."
+          },
+          {
+            "name": "Suveniruri cu sare",
+            "tip": "Magazinele din jurul Muzeului Celților au multe suveniruri legate de sare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hallein Weekly Market",
+            "tip": "Find local produce and specialties (usually on Fridays)."
+          },
+          {
+            "name": "Salt Souvenirs",
+            "tip": "The shops around the Celtic Museum have many salt-related keepsakes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind leicht zu Fuß erreichbar.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus, da diese saisonal variieren können."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óvárosi macskakövek egyenetlenek lehetnek.",
+          "A legtöbb belvárosi látnivaló könnyen megközelíthető gyalog.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét, mivel az szezonálisan változhat."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din centrul vechi poate fi denivelat.",
+          "Majoritatea atracțiilor din centrul orașului sunt ușor accesibile pe jos.",
+          "Verificați în avans orele de funcționare ale muzeelor, deoarece acestea pot varia în funcție de sezon."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Most sights in the city center are within easy walking distance.",
+          "Check museum opening times in advance as they can vary seasonally."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradverleih & Start",
+            "hu": "Kerékpárkölcsönzés és indulás",
+            "ro": "Închiriere biciclete și start",
+            "en": "Bike Rental & Start"
+          },
+          "coords": [
+            13.094,
+            47.685
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie in der Nähe des Bahnhofs, wo es oft Verleihstationen gibt.",
+            "hu": "Induljon a pályaudvar közeléből, ahol gyakran találhatók kölcsönzők.",
+            "ro": "Începeți din apropierea gării, unde se găsesc adesea stații de închiriere.",
+            "en": "Start near the train station where rental stations are often available."
+          }
+        },
+        {
+          "name": {
+            "de": "Stille-Nacht-Platz & Gruber-Museum",
+            "hu": "Csendes Éj tér és Gruber Múzeum",
+            "ro": "Piața Stille Nacht și Muzeul Gruber",
+            "en": "Silent Night Square & Gruber Museum"
+          },
+          "coords": [
+            13.0972,
+            47.6819
+          ],
+          "category": "museums",
+          "arrive_at": "09:39",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab, bevor Sie das Museum betreten.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt belép a múzeumba.",
+            "ro": "Asigurați-vă bicicleta înainte de a intra în muzeu.",
+            "en": "Securely lock your bike before entering the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Keltenmuseum Hallein",
+            "hu": "Halleini Kelta Múzeum",
+            "ro": "Muzeul Celților din Hallein",
+            "en": "Celtic Museum Hallein"
+          },
+          "coords": [
+            13.0945,
+            47.6828
+          ],
+          "category": "museums",
+          "arrive_at": "10:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Das Museum ist groß, eine Radtour davor und danach ist eine gute Abwechslung.",
+            "hu": "A múzeum nagy, egy előtte és utána tett biciklitúra jó kikapcsolódás.",
+            "ro": "Muzeul este mare, o plimbare cu bicicleta înainte și după este o pauză binevenită.",
+            "en": "The museum is large; a bike ride before and after is a good change of pace."
+          }
+        },
+        {
+          "name": {
+            "de": "Pernerinsel",
+            "hu": "Perner-sziget",
+            "ro": "Insula Perner",
+            "en": "Perner Island"
+          },
+          "coords": [
+            13.0988,
+            47.6865
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein idealer Ort für eine Mittagspause. Fahren Sie über die Brücke und erkunden Sie die Insel.",
+            "hu": "Ideális hely egy ebédszünetre. Tekerjen át a hídon és fedezze fel a szigetet.",
+            "ro": "Un loc ideal pentru o pauză de prânz. Treceți podul și explorați insula.",
+            "en": "An ideal spot for a lunch break. Ride across the bridge and explore the island."
+          }
+        },
+        {
+          "name": {
+            "de": "Entlang der Salzach",
+            "hu": "A Salzach mentén",
+            "ro": "De-a lungul râului Salzach",
+            "en": "Along the Salzach River"
+          },
+          "coords": [
+            13.091,
+            47.69
+          ],
+          "category": "region",
+          "arrive_at": "13:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Tauernradweg führt direkt durch Hallein und bietet eine malerische Route.",
+            "hu": "A Tauern kerékpárút közvetlenül Halleinen keresztül vezet és festői útvonalat kínál.",
+            "ro": "Pista de biciclete Tauern trece direct prin Hallein și oferă un traseu pitoresc.",
+            "en": "The Tauern Cycle Path runs directly through Hallein, offering a scenic route."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückgabe & Altstadt-Bummel",
+            "hu": "Kerékpár leadása és séta az óvárosban",
+            "ro": "Returnarea bicicletei și plimbare în centrul vechi",
+            "en": "Bike Return & Old Town Stroll"
+          },
+          "coords": [
+            13.0958,
+            47.6841
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:03",
+          "stay_min": 102,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Geben Sie das Rad zurück und genießen Sie die Gassen der Altstadt zu Fuß.",
+            "hu": "Adja le a biciklit, és élvezze gyalog az óváros sikátorait.",
+            "ro": "Returnați bicicleta și bucurați-vă de aleile orașului vechi pe jos.",
+            "en": "Return the bike and enjoy the old town's alleys on foot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel und beginnen Sie Ihre Erkundungstour am Stille-Nacht-Platz. Nach einem tiefen Einblick in die Musikgeschichte geht es weiter zum Keltenmuseum, um das Erbe des Salzes zu entdecken. Zum Mittagessen radeln Sie zur Pernerinsel, einem einzigartigen Kultur-Hotspot, der sich perfekt für eine Pause am Wasser eignet. Der Nachmittag ist einer entspannten Fahrt entlang der Salzach gewidmet. Folgen Sie dem Tauernradweg, genießen Sie die frische Luft und die Aussicht auf die umliegenden Berge. Zum Abschluss geben Sie Ihr Fahrrad zurück und lassen den Tag bei einem gemütlichen Bummel durch die historischen Gassen der Halleiner Altstadt ausklingen.",
+        "hu": "Pattanjon nyeregbe, és kezdje felfedezőútját a Csendes Éj téren. A zenetörténeti betekintés után irány a Kelta Múzeum, hogy felfedezze a só örökségét. Ebédidőben tekerjen a Perner-szigetre, egy egyedi kulturális helyszínre, amely tökéletes egy vízparti szünethez. A délután a Salzach menti kellemes kerékpározásé. Kövesse a Tauern kerékpárutat, élvezze a friss levegőt és a környező hegyek látványát. Végül adja le a kerékpárt, és zárja a napot egy kellemes sétával Hallein történelmi óvárosának sikátoraiban.",
+        "ro": "Urcați-vă pe bicicletă și începeți turul de explorare în Piața Stille Nacht. După o incursiune în istoria muzicii, mergeți la Muzeul Celților pentru a descoperi moștenirea sării. La prânz, pedalați spre Insula Perner, un punct cultural unic, perfect pentru o pauză lângă apă. După-amiaza este dedicată unei plimbări relaxante cu bicicleta de-a lungul râului Salzach. Urmați pista de biciclete Tauern, bucurați-vă de aerul curat și de priveliștea munților din jur. La final, returnați bicicleta și încheiați ziua cu o plimbare agale pe aleile istorice ale orașului vechi Hallein.",
+        "en": "Hop on your bike and start your exploration at Silent Night Square. After a deep dive into music history, head to the Celtic Museum to discover the heritage of salt. For lunch, cycle to Perner Island, a unique cultural hotspot perfect for a break by the water. The afternoon is dedicated to a relaxed ride along the Salzach River. Follow the Tauern Cycle Path, enjoy the fresh air, and the views of the surrounding mountains. To finish, return your bike and end the day with a leisurely stroll through the historic alleys of Hallein's old town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bella Palma",
+            "tip": "Italienische Küche mit einem schönen Gastgarten, ideal für eine Radlerpause."
+          },
+          {
+            "name": "Salzach-Insel-Bar",
+            "tip": "Ein kühles Getränk direkt am Wasser auf der Pernerinsel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bella Palma",
+            "tip": "Olasz konyha szép kerthelyiséggel, ideális egy kerékpáros szünethez."
+          },
+          {
+            "name": "Salzach-Insel-Bar",
+            "tip": "Egy hűsítő ital közvetlenül a vízparton a Perner-szigeten."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bella Palma",
+            "tip": "Bucătărie italiană cu o grădină frumoasă, ideală pentru o pauză de ciclism."
+          },
+          {
+            "name": "Salzach-Insel-Bar",
+            "tip": "O băutură răcoritoare direct pe malul apei, pe Insula Perner."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bella Palma",
+            "tip": "Italian cuisine with a lovely garden, ideal for a cyclist's break."
+          },
+          {
+            "name": "Salzach-Insel-Bar",
+            "tip": "A cool drink right by the water on Perner Island."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Colloredowald",
+            "tip": "Ein Waldgebiet oberhalb von Hallein, mit dem Rad erreichbar für eine ruhige Auszeit.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pfarrkirche Dürrnberg",
+            "tip": "Eine kurze, aber steile Radtour hinauf für eine fantastische Aussicht und Ruhe.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Colloredo-erdő",
+            "tip": "Egy erdős terület Hallein felett, kerékpárral elérhető egy csendes kikapcsolódáshoz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dürrnbergi plébániatemplom",
+            "tip": "Egy rövid, de meredek biciklitúra felfelé a fantasztikus kilátásért és a csendért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Colloredo",
+            "tip": "O zonă împădurită deasupra Hallein, accesibilă cu bicicleta pentru o pauză liniștită.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Biserica parohială din Dürrnberg",
+            "tip": "Un traseu scurt, dar abrupt cu bicicleta pentru o priveliște fantastică și liniște.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Colloredo Forest",
+            "tip": "A wooded area above Hallein, reachable by bike for a quiet timeout.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dürrnberg Parish Church",
+            "tip": "A short but steep bike ride up for a fantastic view and peace.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Lokale Radläden bieten oft auch Zubehör und Karten für Touren in der Umgebung an."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "A helyi kerékpárüzletek gyakran kínálnak kiegészítőket és térképeket a környékbeli túrákhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Magazinele locale de biciclete oferă adesea accesorii și hărți pentru tururi în zonă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "Local bike shops often offer accessories and maps for tours in the area."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Tauernradweg ist meist flach und gut ausgebaut, aber in der Stadt müssen Sie auf Verkehr achten.",
+          "Einige Wege, besonders in Richtung Salzberg, können steil sein. Ein E-Bike könnte eine gute Option sein.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, besonders an belebten Orten."
+        ],
+        "hu": [
+          "A Tauern kerékpárút többnyire sík és jól kiépített, de a városban figyelni kell a forgalomra.",
+          "Néhány út, különösen a Salzberg felé, meredek lehet. Egy e-bike jó választás lehet.",
+          "Mindig zárja le jól a kerékpárját, különösen forgalmas helyeken."
+        ],
+        "ro": [
+          "Pista de biciclete Tauern este în mare parte plată și bine întreținută, dar în oraș trebuie să fiți atenți la trafic.",
+          "Unele drumuri, în special spre Salzberg, pot fi abrupte. O bicicletă electrică ar putea fi o opțiune bună.",
+          "Încuietăți-vă întotdeauna bicicleta, mai ales în locurile aglomerate."
+        ],
+        "en": [
+          "The Tauern Cycle Path is mostly flat and well-maintained, but you need to watch for traffic in the city.",
+          "Some paths, especially towards the Salzberg, can be steep. An e-bike might be a good option.",
+          "Always lock your bike securely, especially in busy places."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 11.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken & Altstadt-Cluster",
+            "hu": "Parkolás és Óváros-klaszter",
+            "ro": "Parcare și Clusterul Orașul Vechi",
+            "en": "Parking & Old Town Cluster"
+          },
+          "coords": [
+            13.0933,
+            47.6845
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Nutzen Sie eine der Tiefgaragen am Rande der Altstadt für bequemes Parken.",
+            "hu": "Használja az óváros szélén található mélygarázsok egyikét a kényelmes parkoláshoz.",
+            "ro": "Folosiți una dintre parcările subterane de la marginea orașului vechi pentru o parcare convenabilă.",
+            "en": "Use one of the underground car parks on the edge of the old town for convenient parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Keltenmuseum & Bayrhamerplatz",
+            "hu": "Kelta Múzeum és Bayrhamerplatz",
+            "ro": "Muzeul Celților și Piața Bayrhamer",
+            "en": "Celtic Museum & Bayrhamerplatz"
+          },
+          "coords": [
+            13.0945,
+            47.6828
+          ],
+          "category": "museums",
+          "arrive_at": "09:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, da das Museum am Vormittag oft ruhiger ist.",
+            "hu": "Kezdje itt, mivel a múzeum délelőtt gyakran csendesebb.",
+            "ro": "Începeți de aici, deoarece muzeul este adesea mai liniștit dimineața.",
+            "en": "Start here, as the museum is often quieter in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Stille-Nacht-Platz & Gruber-Museum",
+            "hu": "Csendes Éj tér és Gruber Múzeum",
+            "ro": "Piața Stille Nacht și Muzeul Gruber",
+            "en": "Silent Night Square & Gruber Museum"
+          },
+          "coords": [
+            13.0972,
+            47.6819
+          ],
+          "category": "museums",
+          "arrive_at": "11:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Keltenmuseum durch die malerischen Gassen.",
+            "hu": "Rövid séta a Kelta Múzeumtól a festői sikátorokon keresztül.",
+            "ro": "O scurtă plimbare de la Muzeul Celților pe aleile pitorești.",
+            "en": "A short walk from the Celtic Museum through the picturesque alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Salzbergwerk",
+            "hu": "Utazás a sóbányához",
+            "ro": "Drumul spre Salina",
+            "en": "Drive to the Salt Mine"
+          },
+          "coords": [
+            13.098,
+            47.67
+          ],
+          "category": "transport",
+          "arrive_at": "12:51",
+          "stay_min": 0,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Die Straße zum Dürrnberg ist gut ausgebaut, aber kurvenreich. Genießen Sie die Aussicht.",
+            "hu": "A Dürrnbergre vezető út jól kiépített, de kanyargós. Élvezze a kilátást.",
+            "ro": "Drumul spre Dürrnberg este bine întreținut, dar sinuos. Bucurați-vă de priveliște.",
+            "en": "The road to the Dürrnberg is well-maintained but winding. Enjoy the views."
+          }
+        },
+        {
+          "name": {
+            "de": "Salzbergwerk Hallein",
+            "hu": "Halleini sóbánya",
+            "ro": "Salina Hallein",
+            "en": "Hallein Salt Mine"
+          },
+          "coords": [
+            13.0995,
+            47.6685
+          ],
+          "category": "museums",
+          "arrive_at": "12:56",
+          "stay_min": 265,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Buchen Sie Ihr Ticket online, um Wartezeiten zu vermeiden. Warme Kleidung wird dringend empfohlen!",
+            "hu": "Foglalja le jegyét online a várakozási idő elkerülése érdekében. Meleg öltözet erősen ajánlott!",
+            "ro": "Rezervați-vă biletul online pentru a evita timpii de așteptare. Hainele groase sunt puternic recomandate!",
+            "en": "Book your ticket online to avoid queues. Warm clothing is highly recommended!"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Parken Sie Ihr Auto am Rande der Halleiner Altstadt und erkunden Sie den ersten Cluster zu Fuß. Beginnen Sie mit der faszinierenden Geschichte im Keltenmuseum, gefolgt von einem Spaziergang zum Stille-Nacht-Platz, um dem Komponisten Franz Xaver Gruber die Ehre zu erweisen. Nach diesem kulturellen Vormittag steigen Sie wieder ins Auto. Die Fahrt führt Sie hinauf auf den Dürrnberg, wo das eigentliche Abenteuer des Tages wartet: das Salzbergwerk Hallein. Verbringen Sie den gesamten Nachmittag damit, tief in den Berg einzutauchen, über Holzrutschen zu gleiten und über den unterirdischen Salzsee zu fahren. Es ist eine unvergessliche Erfahrung für die ganze Familie. Nach der Rückkehr ins Tal können Sie den Tag mit einem herzhaften Abendessen in Hallein ausklingen lassen.",
+        "hu": "Parkolja le autóját Hallein óvárosának szélén, és fedezze fel gyalog az első klasztert. Kezdje a lenyűgöző történelemmel a Kelta Múzeumban, majd sétáljon el a Csendes Éj térre, hogy tisztelegjen Franz Xaver Gruber zeneszerző előtt. A kulturális délelőtt után szálljon vissza az autóba. Az út felvezet a Dürrnbergre, ahol a nap igazi kalandja vár: a Halleini sóbánya. Töltse az egész délutánt a hegy mélyének felfedezésével, facsúszdákon siklva és a földalatti sóstón áthajózva. Ez egy felejthetetlen élmény az egész családnak. A völgybe való visszatérés után egy kiadós vacsorával zárhatja a napot Halleinban.",
+        "ro": "Parcați mașina la marginea orașului vechi Hallein și explorați primul cluster pe jos. Începeți cu istoria fascinantă de la Muzeul Celților, urmată de o plimbare până la Piața Stille Nacht pentru a aduce un omagiu compozitorului Franz Xaver Gruber. După această dimineață culturală, urcați-vă din nou în mașină. Drumul vă duce sus pe Dürrnberg, unde vă așteaptă adevărata aventură a zilei: Salina Hallein. Petreceți întreaga după-amiază explorând adâncurile muntelui, alunecând pe tobogane de lemn și navigând pe lacul sărat subteran. Este o experiență de neuitat pentru întreaga familie. La întoarcerea în vale, puteți încheia ziua cu o cină copioasă în Hallein.",
+        "en": "Park your car on the edge of Hallein's old town and explore the first cluster on foot. Start with the fascinating history at the Celtic Museum, followed by a walk to Silent Night Square to pay homage to composer Franz Xaver Gruber. After this cultural morning, get back in the car. The drive takes you up the Dürrnberg, where the day's real adventure awaits: the Hallein Salt Mine. Spend the entire afternoon delving deep into the mountain, sliding down wooden slides, and boating across the underground salt lake. It's an unforgettable experience for the whole family. After returning to the valley, you can end the day with a hearty dinner in Hallein."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Berggasthof Obersalzberg",
+            "tip": "Oben auf dem Dürrnberg, perfekt für ein Mittagessen mit Aussicht vor oder nach der Minentour."
+          },
+          {
+            "name": "Augustiner Bräu Hallein",
+            "tip": "Ein traditionelles Bräustübl für ein deftiges Abendessen nach Ihrer Rückkehr."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Berggasthof Obersalzberg",
+            "tip": "Fent a Dürrnbergen, tökéletes egy kilátással egybekötött ebédhez a bányatúra előtt vagy után."
+          },
+          {
+            "name": "Augustiner Bräu Hallein",
+            "tip": "Hagyományos söröző egy kiadós vacsorához a visszatérés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Berggasthof Obersalzberg",
+            "tip": "Sus pe Dürrnberg, perfect pentru un prânz cu vedere înainte sau după turul minei."
+          },
+          {
+            "name": "Augustiner Bräu Hallein",
+            "tip": "O berărie tradițională pentru o cină copioasă la întoarcere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Berggasthof Obersalzberg",
+            "tip": "Up on the Dürrnberg, perfect for lunch with a view before or after the mine tour."
+          },
+          {
+            "name": "Augustiner Bräu Hallein",
+            "tip": "A traditional brewery for a hearty dinner upon your return."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtsplattform am Dürrnberg",
+            "tip": "Nahe dem Salzbergwerk, bietet einen atemberaubenden Blick über das Salzachtal.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Roßfeld-Panoramastraße",
+            "tip": "Eine kurze Autofahrt entfernt, eine der schönsten Alpenstraßen Deutschlands mit spektakulären Ausblicken.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátóterasz a Dürrnbergen",
+            "tip": "A sóbánya közelében található, lélegzetelállító kilátást nyújt a Salzach-völgyre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Roßfeld panorámaút",
+            "tip": "Rövid autóútra található, Németország egyik legszebb alpesi útja, látványos kilátással.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platforma de observare de pe Dürrnberg",
+            "tip": "Aproape de salină, oferă o priveliște uluitoare asupra văii Salzach.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Șoseaua panoramică Roßfeld",
+            "tip": "La o scurtă distanță cu mașina, una dintre cele mai frumoase șosele alpine din Germania, cu priveliști spectaculoase.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewing platform on the Dürrnberg",
+            "tip": "Near the salt mine, offers a breathtaking view over the Salzach valley.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Roßfeld Panorama Road",
+            "tip": "A short drive away, one of Germany's most beautiful alpine roads with spectacular views.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Salzwelten Shop",
+            "tip": "Der Shop am Salzbergwerk ist der beste Ort für Salzprodukte, von Speisesalz bis zu Salzkristall-Lampen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Salzwelten bolt",
+            "tip": "A sóbánya üzlete a legjobb hely sótermékek vásárlására, az étkezési sótól a sókristálylámpákig."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Salzwelten",
+            "tip": "Magazinul de la salină este cel mai bun loc pentru produse din sare, de la sare de masă la lămpi din cristale de sare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Salzwelten Shop",
+            "tip": "The shop at the salt mine is the best place for salt products, from edible salt to salt crystal lamps."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Buchen Sie Tickets für das Salzbergwerk unbedingt online, um lange Wartezeiten zu vermeiden.",
+          "Die Temperatur in der Mine beträgt konstant ca. 10°C. Nehmen Sie eine Jacke und festes Schuhwerk mit.",
+          "Parken in der Halleiner Altstadt ist gebührenpflichtig. Planen Sie dies in Ihr Budget ein."
+        ],
+        "hu": [
+          "Feltétlenül foglaljon online jegyet a sóbányába a hosszú várakozási idő elkerülése érdekében.",
+          "A bányában a hőmérséklet állandóan 10°C körül van. Vigyen magával kabátot és zárt cipőt.",
+          "A parkolás Hallein óvárosában díjköteles. Tervezze be ezt a költségvetésébe."
+        ],
+        "ro": [
+          "Asigurați-vă că rezervați bilete online pentru salină pentru a evita timpii lungi de așteptare.",
+          "Temperatura în mină este constantă, în jur de 10°C. Luați o jachetă și încălțăminte rezistentă.",
+          "Parcarea în centrul vechi al orașului Hallein este cu plată. Planificați acest lucru în bugetul dvs."
+        ],
+        "en": [
+          "Be sure to book tickets for the salt mine online to avoid long queues.",
+          "The temperature in the mine is a constant 10°C (50°F). Bring a jacket and sturdy shoes.",
+          "Parking in Hallein's old town is paid. Plan for this in your budget."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 9.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof Hallein",
+            "hu": "Érkezés a Hallein pályaudvarra",
+            "ro": "Sosire la gara Hallein",
+            "en": "Arrival at Hallein Station"
+          },
+          "coords": [
+            13.093,
+            47.6852
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Bahnhof ist gut an Salzburg angebunden und ein idealer Ausgangspunkt.",
+            "hu": "A pályaudvar jó összeköttetésben áll Salzburggal, és ideális kiindulópont.",
+            "ro": "Gara este bine conectată cu Salzburg și este un punct de plecare ideal.",
+            "en": "The station is well-connected to Salzburg and an ideal starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Keltenmuseum Hallein",
+            "hu": "Halleini Kelta Múzeum",
+            "ro": "Muzeul Celților din Hallein",
+            "en": "Celtic Museum Hallein"
+          },
+          "coords": [
+            13.0945,
+            47.6828
+          ],
+          "category": "museums",
+          "arrive_at": "09:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Bahnhof führt Sie direkt zum Museum.",
+            "hu": "Egy rövid séta a pályaudvartól egyenesen a múzeumhoz vezet.",
+            "ro": "O scurtă plimbare de la gară vă duce direct la muzeu.",
+            "en": "A short walk from the station takes you directly to the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Stille-Nacht-Platz",
+            "hu": "Csendes Éj tér",
+            "ro": "Piața Stille Nacht",
+            "en": "Silent Night Square"
+          },
+          "coords": [
+            13.0972,
+            47.6819
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:26",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besuchen Sie das Gruber-Museum, das direkt am Platz liegt.",
+            "hu": "Látogassa meg a Gruber Múzeumot, amely közvetlenül a téren található.",
+            "ro": "Vizitați Muzeul Gruber, situat chiar în piață.",
+            "en": "Visit the Gruber Museum, located right on the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Salzbergwerk",
+            "hu": "Busszal a sóbányához",
+            "ro": "Autobuz spre Salină",
+            "en": "Bus to the Salt Mine"
+          },
+          "coords": [
+            13.097,
+            47.6825
+          ],
+          "category": "transport",
+          "arrive_at": "12:56",
+          "stay_min": 0,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die Buslinie 41 fährt regelmäßig vom Postamt/Zentrum zum Dürrnberg.",
+            "hu": "A 41-es busz rendszeresen közlekedik a postahivataltól/központtól a Dürrnbergre.",
+            "ro": "Autobuzul liniei 41 circulă regulat de la oficiul poștal/centru spre Dürrnberg.",
+            "en": "Bus line 41 runs regularly from the post office/center to the Dürrnberg."
+          }
+        },
+        {
+          "name": {
+            "de": "Salzbergwerk & Rückfahrt",
+            "hu": "Sóbánya és visszaút",
+            "ro": "Salina și călătoria de întoarcere",
+            "en": "Salt Mine & Return Trip"
+          },
+          "coords": [
+            13.0995,
+            47.6685
+          ],
+          "category": "museums",
+          "arrive_at": "13:01",
+          "stay_min": 245,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie Ihre Rückfahrt mit dem Bus im Voraus, um lange Wartezeiten zu vermeiden.",
+            "hu": "Tervezze meg előre a buszos visszaútját, hogy elkerülje a hosszú várakozást.",
+            "ro": "Planificați-vă călătoria de întoarcere cu autobuzul în avans pentru a evita așteptările lungi.",
+            "en": "Plan your return bus trip in advance to avoid long waits."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Reise beginnt am Bahnhof Hallein. Von hier aus ist es nur ein kurzer Spaziergang ins historische Zentrum, wo Sie im Keltenmuseum in die Welt des Salzes eintauchen. Anschließend schlendern Sie zum Stille-Nacht-Platz, einem Ort von weltweiter Bedeutung. Um die Mittagszeit nehmen Sie den Bus, der Sie bequem den Berg hinauf zum Salzbergwerk auf dem Dürrnberg bringt. Der gesamte Nachmittag steht im Zeichen dieses unterirdischen Abenteuers. Erleben Sie die Geschichte des Bergbaus hautnah, rutschen Sie durch alte Stollen und genießen Sie die einzigartige Atmosphäre tief im Berg. Nach Ihrer Rückkehr mit dem Bus ins Stadtzentrum können Sie den Abend entspannt in einem Café ausklingen lassen, bevor Sie die Heimreise antreten.",
+        "hu": "Utazása a halleini pályaudvaron kezdődik. Innen csak egy rövid séta a történelmi központ, ahol a Kelta Múzeumban elmerülhet a só világában. Ezután sétáljon el a világhírű Csendes Éj térre. Délidőben szálljon buszra, amely kényelmesen felviszi a hegyre, a Dürrnbergen található sóbányához. Az egész délután erről a földalatti kalandról szól. Tapasztalja meg testközelből a bányászat történetét, csússzon le régi tárnákon, és élvezze a hegy mélyének egyedi hangulatát. Miután busszal visszatért a városközpontba, egy kávézóban pihenheti ki az estét, mielőtt hazaindulna.",
+        "ro": "Călătoria dvs. începe la gara din Hallein. De aici, este doar o scurtă plimbare până în centrul istoric, unde vă veți cufunda în lumea sării la Muzeul Celților. Apoi, plimbați-vă până la Piața Stille Nacht, un loc de importanță mondială. La prânz, luați autobuzul care vă va duce confortabil sus pe munte la salina de pe Dürrnberg. Întreaga după-amiază este dedicată acestei aventuri subterane. Experimentați istoria mineritului de aproape, alunecați pe tobogane vechi și bucurați-vă de atmosfera unică din adâncul muntelui. După întoarcerea cu autobuzul în centrul orașului, vă puteți relaxa seara la o cafenea înainte de a pleca spre casă.",
+        "en": "Your journey begins at Hallein train station. From here, it's just a short walk to the historic center, where you'll dive into the world of salt at the Celtic Museum. Afterwards, stroll over to Silent Night Square, a place of global significance. Around noon, you'll take the bus that comfortably brings you up the mountain to the salt mine on the Dürrnberg. The entire afternoon is dedicated to this underground adventure. Experience the history of mining up close, slide down old tunnels, and enjoy the unique atmosphere deep inside the mountain. After returning to the city center by bus, you can relax at a café in the evening before heading home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Café am Griesplatz",
+            "tip": "Ein guter Ort für einen schnellen Kaffee und Kuchen vor der Busfahrt."
+          },
+          {
+            "name": "Pizzeria-Ristorante da Giacomo",
+            "tip": "Leckere Pizza nach einem langen Tag voller Entdeckungen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Café am Griesplatz",
+            "tip": "Jó hely egy gyors kávéra és süteményre a buszút előtt."
+          },
+          {
+            "name": "Pizzeria-Ristorante da Giacomo",
+            "tip": "Finom pizza egy hosszú, felfedezésekkel teli nap után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Café am Griesplatz",
+            "tip": "Un loc bun pentru o cafea rapidă și o prăjitură înainte de călătoria cu autobuzul."
+          },
+          {
+            "name": "Pizzeria-Ristorante da Giacomo",
+            "tip": "O pizza delicioasă după o zi lungă de explorări."
+          }
+        ],
+        "en": [
+          {
+            "name": "Café am Griesplatz",
+            "tip": "A good spot for a quick coffee and cake before the bus ride."
+          },
+          {
+            "name": "Pizzeria-Ristorante da Giacomo",
+            "tip": "Delicious pizza after a long day of exploring."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kurpark Hallein",
+            "tip": "Ein kleiner Park in der Nähe des Zentrums, um auf den Bus zu warten oder kurz zu entspannen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Friedhof bei der Stadtpfarrkirche",
+            "tip": "Ein historischer und ruhiger Ort für einen Moment der Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halleini Kurpark",
+            "tip": "Egy kis park a központ közelében, ahol a buszra várhat, vagy röviden pihenhet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A városi templom melletti temető",
+            "tip": "Történelmi és csendes hely egy elgondolkodtató pillanatra.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul balnear din Hallein",
+            "tip": "Un parc mic lângă centru pentru a aștepta autobuzul sau a vă relaxa pentru scurt timp.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cimitirul de lângă biserica parohială",
+            "tip": "Un loc istoric și liniștit pentru un moment de reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kurpark Hallein",
+            "tip": "A small park near the center to wait for the bus or relax briefly.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cemetery at the Parish Church",
+            "tip": "A historic and quiet place for a moment of reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Trafik (Tabakladen)",
+            "tip": "Hier können Sie Bustickets kaufen, oft kombiniert mit Zeitschriften und kleinen Snacks."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trafik (Dohánybolt)",
+            "tip": "Itt vásárolhat buszjegyeket, gyakran magazinokkal és kis harapnivalókkal kombinálva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trafik (magazin de tutun)",
+            "tip": "Aici puteți cumpăra bilete de autobuz, adesea combinate cu reviste și mici gustări."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trafik (Tobacconist)",
+            "tip": "You can buy bus tickets here, often combined with magazines and small snacks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel, wenn Sie mehrere Fahrten planen.",
+          "Überprüfen Sie den Busfahrplan zum Salzbergwerk und zurück im Voraus, besonders am Wochenende.",
+          "Die S-Bahn von Salzburg nach Hallein ist schnell und effizient.",
+          "Laden Sie die Salzburg Verkehr App herunter, um Fahrpläne und Ticketoptionen in Echtzeit zu sehen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, ha több utat tervez.",
+          "Előre ellenőrizze a sóbányához közlekedő busz menetrendjét, különösen hétvégén.",
+          "A Salzburgból Halleinbe közlekedő S-Bahn gyors és hatékony.",
+          "Töltse le a Salzburg Verkehr alkalmazást a valós idejű menetrendekért és jegyopciókért."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public dacă plănuiți mai multe călătorii.",
+          "Verificați în avans orarul autobuzului către salină și înapoi, mai ales în weekend.",
+          "Trenul S-Bahn de la Salzburg la Hallein este rapid și eficient.",
+          "Descărcați aplicația Salzburg Verkehr pentru a vedea orarele în timp real și opțiunile de bilete."
+        ],
+        "en": [
+          "Buy a day ticket for public transport if you plan on making multiple trips.",
+          "Check the bus schedule to and from the salt mine in advance, especially on weekends.",
+          "The S-Bahn train from Salzburg to Hallein is fast and efficient.",
+          "Download the Salzburg Verkehr app to see real-time schedules and ticket options."
+        ]
+      }
+    }
+  }
+}
